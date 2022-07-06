@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ प्रवोळ्हॄ꣡न् परिग꣡त्या दभी꣡तेर्  
 वि꣡श्वम् अधाग् आ꣡युधम् इद्धे꣡ अग्नउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 सम् । गोभिः॑ । अश्वैः॑ । अ॒सृ॒ज॒त् । रथे॑भिः । सोम॑स्य । ता । मदे॑ । इन्द्रः॑ । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -136,7 +136,7 @@ genre M;; repeated line
 प्राक्विलचुमुरिधुनिप्रभृतयोसुराः दभीतेःपुरंसंरुध्यतम्परिगृह्यतस्मात्पुरान्निरगुरितिकथा सइन्द्रः दभीतेः दभीतिर्नामकश्चिद्राजर्षिः तस्यप्रवोह्ळ्न् प्रवोढृन् सहिव्होरोदवर्णस्येत्योत्वम् प्रकर्षेणतं- दभीतिंवहतस्तानसुरान्मध्येमार्गम्परिगत्यतेषांविश्वंसर्वमायुधमिद्धेग्नौदीप्यमानेवह्नौअधाक् अधा- क्षित् दहेर्लुङि मन्त्रेघसेत्यादिनाच्लेर्लुक् पश्चात्तन्दभीतिङ्गोभिरश्वैरथेभिः रथैश्चसमसृजत् संयोजित- वान् सोमस्येत्यादिसिद्धमिति ॥ ४ ॥ अतिमूर्तिनाम्न्येकाहेमरुत्वतीयेसूक्तमुखीया अतिमूर्तिनेतिखण्डेसूत्रितम्—सईम्महीन्धुनिमेतो- ररम्णादिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ genre M;; repeated line
 The legend: asuras had besieged and taken the city of a royal sage, named **Dabhīti**; on their retreat, they were intercepted and defeated by Indra, who recovered the booty, and restored it to the prince
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having surrounded the raiders against Dabhīti, he burned their every  weapon in the kindled fire.  
 He brought him together with cows, horses, and chariots. – In soma’s  exhilaration Indra did these things.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Compassing those who bore away Dabhiti, in kindled fire he burnt up all their weapons.  
      And made him rich with kine and cars and horses. These things did Indra in the Soma's rapture.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er holte die Entführer des Dabhiti ein, die ganzen Waffen verbrannte er im entzündeten Feuer. Er versah ihn mit Rindern, Rossen und Wagen. - Im Rausche des Soma hat das Indra getan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Umlagernd die Entführer des Dabhiti, verbrannt er all ihr Rüstzeug in den Flammen, Versah ihn reich mit Rindern, Rossen, Wagen; im Rausch des Soma hat vollbracht dies Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 . Окружив похитителей Дабхити,  
 Он сжег все (их) оружие во вспыхнувшем огне.  

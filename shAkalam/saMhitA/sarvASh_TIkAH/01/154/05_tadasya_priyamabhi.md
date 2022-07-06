@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् अस्य प्रिय꣡म् अभि꣡ पा꣡थो अश्यां  
 न꣡रो य꣡त्र देवय꣡वो म꣡दन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ष्णोः पदे꣡ परमे꣡ म꣡ध्व उ꣡त्सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒रु॒ऽक्र॒मस्य॑ । सः । हि । बन्धुः॑ । इ॒त्था । विष्णोः॑ । प॒दे । प॒र॒मे । मध्वः॑ । उत्सः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -130,7 +130,7 @@ genre M
 **अस्य** महतो विष्णोः **प्रियं** प्रियभूतं **तत्** सर्वैः सेव्यत्वेन प्रसिद्धं **पाथः** । अन्तरिक्षनामैतत्,  ‘पाथोऽन्तरिक्षं पथा व्याख्यातम्' (निरु. ६. ७) इति यास्केनोक्तत्वात्। अविनश्वरं ब्रह्मलोकमित्यर्थः। **अश्याम्** व्याप्नुयाम् । तदेव विशेष्यते । **यत्र** स्थाने **देवयवः** देवं द्योतनस्वभावं विष्णुमात्मन इच्छन्तो यज्ञदानादिभिः प्राप्तुमिच्छन्तः **नरः** **मदन्ति** तृप्तिमनुभवन्ति । तदश्यामित्यन्वयः । पुनरपि तदेव विशेष्यते । **उरुक्रमस्य** अत्यधिकं सर्वं जगदाक्रममाणस्य तत्तदात्मना अत एब **विष्णोः** व्यापकस्य परमेश्वरस्य **परमे** उत्कृष्टे निरतिशये केवलसुखात्मके **पदे** स्थाने **मध्वः** मधुरस्य **उत्सः** निष्यन्दो वर्तते । तदश्याम् । यत्र क्षुत्तृष्णाजरामरणपुनरावृत्त्यादिभयं नास्ति संकल्पमात्रेण अमृतकुल्यादिभोगा: प्राप्यन्ते तादृशमित्यर्थः। ततोऽधिकं नास्तीत्याह । **इत्था** इत्थमुक्तप्रकारेण **स** **हि** **बन्धुः** स खलु सर्वेषां सुकृतिनां बन्धुभूतो हितकरः वा तस्य पदं प्राप्तवतां न पुनरावृत्तेः ।  ‘ न च पुनरावर्तते ' इति श्रुतेस्तस्य बन्धुत्वम् । हिशब्दः सर्वश्रुतिस्मृतिपुराणादिप्रसिद्धिद्योतनार्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,34 +141,34 @@ genre M
 His favourite path: the firmament: patho anatarikṣam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might I reach that dear cattle-pen of his, where men seeking the gods  find elation,  
 for exactly that is the bond to the wide-striding one: the wellspring of  honey in the highest step of Viṣṇu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May I attain to that his well-loved mansion where men devoted to the Gods are happy.  
      For there springs, close akin to the Wide-Strider, the well of meath in Visnu's highest footstep.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 I would attain to that his dear dominion Where men devoted to the gods do revel. In the wide-striding Viṣṇu's highest footstep There is a spring of mead: such is our kinship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An seinen lieben Zufluchtsort möchte ich gelangen, an dem die gottergebenen Männer schwelgen, denn dort ist diese Genossenschaft des Weitschreitenden. In der höchsten Fußspur des Vishnu ist der Quell des Honigs.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leben; Denn das sind recht des mächt'gen Schreiters Freunde, und Süsses quillt an Vischnu's höchster Fussspur.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хотел бы достигнуть этого милого убежища его,  
 Где опьяняются мужи, преданные богам:  

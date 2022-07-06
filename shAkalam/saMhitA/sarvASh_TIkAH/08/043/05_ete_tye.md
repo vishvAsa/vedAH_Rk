@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ त्ये꣡ वृ꣡थग् अग्न꣡य  
 इद्धा꣡सः स꣡म् अदृक्षत  
 उष꣡साम् इव केत꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒षसा॑म्ऽइव । के॒तवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -83,20 +83,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एते** **त्ये** एते अग्नयः **वृथक्** पृथक् **इद्धासः** अग्निहोत्रिभिः समिद्धाः सन्तः **उषसामिव** **केतवः** उषसां प्रज्ञापका इव **समदृक्षत** सम्यग्दृश्यन्ते ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These fires separately kindled are beheld like the tokens of the dawn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These fires kindled here in opposing (places) have come to sight all  at once,  
 like the beacons of the dawns.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/043/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ vṛ́thak is found only in these two vss. It is generally considered to be a fo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These lightly kindled fiery flames are all around made visible,  
      Even as the glearaings of the Dawns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese entzündeten Feuer sind wie die Strahlen der Morgenröte jäh zum Vorschein gekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es zeigten diese Flammen sich der Morgenröthe Strahlen gleich, Entzündet, lustig allesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Показались вот эти по доброй воле  
 Зажженные огни,  

@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूर्वी꣡ष् ट इन्द्रो꣡पमातयः  
 पूर्वी꣡र् उत꣡ प्र꣡शस्तयः  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 वस्वः॑ । वी॒रस्य॑ । आ॒ऽपृचः॑ । याः । नु । साध॑न्त । नः॒ । धियः॑ । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūrvīṣ* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
@@ -130,7 +130,7 @@ genre M;; repeated line
 हे **हरिवः** वज्रिन् **सूनो** प्रेरयितः **इन्द्र** **हिन्वस्य** प्रीणयितुः **वस्वः** दीपकस्य वीरस्य **आपृचः** धनान्युपयच्छतः **ते** तव ताः **उपमातयः** उपमानानि **पूर्वीः** बहूनि । **उत** अपि च **प्रशस्तयः** **पूर्वीः** । **याः** **नः** **धियः** प्रज्ञां **साधन्त** असाधयन् । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,14 +143,14 @@ Indra, wielder of the thunderbolt, instrumental gator (of acts), of you, the gla
 Upamātayaḥ = dhanāni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Many are your distributions (of goods to us), Indra, and many our  encomia to you, o son of impulsion, possessor of fallow bays—  
 (many) the infusions of goods of the hero [=Indra], (and many) our  visionary thoughts, which now reach their goal.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my interpr. the verse is structured by two complementary pairings of reciprocal gifts between “us” and Indra. Both involve Indra’s gifts (úpamātayaḥ a, āpṛ́caḥ d) and our praiseful thoughts (práśastayaḥ b, dhíyaḥ e).
 
@@ -161,23 +161,23 @@ In both d and e I supply ‘many’, based on the parallelism with ab pūrvī́�
 Geldner takes āpṛ́caḥ as adjectival modifying dhíyaḥ, but I follow Oldenberg’s interpr. (so also Scarlatta 324-25) as a nom. act.; the vásvaḥ with it is an objective gen., the vīrásya a subjective gen.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, many are thine aids, many thy ways of guiding us,  
      Lord of the Bay Steeds, Hinva's Son. To a Good Hero come our prayers, which soon shall have accomplishment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viele sind, o Indra, deine Zuwendungen und viele deine Anerkennungen, du Sohn des Rossetreibers, du Falbenherr. Gut und Sohn schenkend seien unsere Gebete, die jetzt in Erfüllung gehen mögen. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Viel Bitten dringen zu dir hin und viele Lobgesänge auch, O Sohn der Wonne, Rosseherr; des guten Herrn und unsere inbrünst'ge Bitten sei'n erfüllt. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Много, о Индра, к тебе просьб,  
 И много прославлений (у тебя),  

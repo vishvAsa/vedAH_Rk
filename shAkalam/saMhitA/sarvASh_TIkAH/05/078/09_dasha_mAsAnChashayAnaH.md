@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡श मा꣡साञ् छशयानः꣡  
 कुमारो꣡ अ꣡धि मात꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 जीवो꣡ जी꣡वन्तिया अ꣡धि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 निः॒ऽऐतु॑ । जी॒वः । अक्ष॑तः । जी॒वः । जीव॑न्त्याः । अधि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
@@ -94,36 +94,36 @@ popular;; epic anuṣṭubh (424)
 दशमासानुषित्वासौजननीजठरेसुखं ॥ निर्गच्छतुसुखञ्जीवोजननीचापिजीवतु ॥ १ ॥ ९ ॥महेनोअद्येतिदशर्चंसप्तमंसूक्तं आत्रेयस्यसत्यश्रवसस्यार्षं पाङ्क्तमुषस्यं अनुक्रम्यतेच-महेदशसत्यश्रवाउषस्यन्तुपाङ्क्तमिति । प्रात- रनुवाकेउषस्येक्रतौपाङ्क्तेछन्दसिआश्विनशस्त्रेचेदंसूक्तं सूत्र्यतेहि-महेनोअद्येतिपाङ्क्तमिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the boy who has reposed for ten months in the bosom of his mother come forth, alive, unharmed, living, from a living (parent).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having lain for ten months within his mother, let the boy  
 come out, alive and unharmed—alive from his living mother.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The child who hath for ten months' time been lying in his mother's side,-  
      May he come forth alive, unharmed, yea, livingfrorn the living dame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem der Knabe zehn Monate in der Mutter gelegen hat, soll er lebendig, unversehrt, lebendig aus der Lebenden herauskommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zehn Monde lag die junge Frucht im Mutterleibe hingestreckt; sie gehe unverletzt hervor lebendig aus der lebenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пролежав десять месяцев  
 В матери, пусть мальчик  

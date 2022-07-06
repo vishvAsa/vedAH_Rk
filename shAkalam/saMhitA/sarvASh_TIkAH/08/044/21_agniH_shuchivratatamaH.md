@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निः꣡ शु꣡चिव्रततमः  
 शु꣡चिर् वि꣡प्रः शु꣡चिः कविः꣡  
 शु꣡ची रोचत आ꣡हुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शुचिः॑ । रो॒च॒ते॒ । आऽहु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,13 +102,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Puresage: **kavi** = sage (RV 1.31.2); or, krāntakarman
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, best possessor of flaming commandments, flaming inspired poet,  flaming sage poet,  
 flaming he shines when he is bepoured.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni who bears most holy sway, the holy Singer, holy Sage,  
      Shines holy when we worship him.
@@ -122,17 +122,17 @@ Shineth in purity, when offering is made.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, dessen Walten das lauterste ist, der lautere Redekundige, der lautere Seher glänzt lauter, wenn ihm geopfert wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni, der hellstes Werk vollbringt, ein Priester hell, ein Seher hell, Erglänzet hell, von Fett getränkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни с самыми чистыми заветами,  
 Чистый вдохновенный (певец), чистый поэт,  

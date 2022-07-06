@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् उ ष्य꣡ · सु꣡महाँ अवेदि  
 हो꣡ता मन्द्रो꣡ म꣡नुषो यह्वो꣡ अग्निः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृष्ण꣡पविर् ओ꣡षधीभिर् ववक्षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । भाः । अ॒क॒रित्य॑कः । स॒सृ॒जा॒नः । पृ॒थि॒व्याम् । कृ॒ष्णऽप॑विः । ओष॑धीभिः । व॒व॒क्षे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -134,37 +134,37 @@ genre M
 **स्यः** सः **अयं** **होता** देवानामाह्वाता **मन्द्रः** मदयिता **यह्वः** महान् **अग्निः** **मनुषः** मनुष्यस्य **सुमहान्** **अवेदि** सुमहत्त्वेन प्रज्ञायते । अपि च सोऽयं **भाः** दीप्तीः **वि** **अकः** विकरोत्यन्तरिक्षे । किंच सोऽयं **कृष्णपविः** कृष्णमार्गोऽग्निः **पृथिव्यां** **ससृजानः** सृज्यमानः सन् **ओषधीभिर्ववक्षे** वर्धते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This great **Agni** has been known among men as invoker (of the gods), the giver of deligh, the mighty; hehas spread (in the firmament), he, the darkpathed at large upon the earth, is nourished by the plural nts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And here has this very great one been found—the delighting Hotar, the  young Agni of Manu.  
 Let loose, he has spread afar his radiance upon the earth. Whose  
 wheel-rim is black, he has grown mighty by the plants.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, he hath been acknowledged as most mighty, the joyous Priest of men, the youthful Agni.  
      He, spreading o'er the earth, made light around him, and grew among the plants with blackened fellies..
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Agni, der Jüngste, ist bekannt als der ganz große, beliebte Hotri des Manu. Sein Licht ausstrahlend hat er es auf Erden verteilt. Er ist durch die Pflanzen groß geworden, der eine schwarze Radspur hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, dieser Agni zeigte sich als grosser, rastloser, muntrer Opferer des Menschen; Er schaffte Licht, hindringend durch die Erde; durch Pflanzen wuchs er, dessen Felgen schwarz sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот самый (бог) прослыл великим,  
 Веселый хотар Ману, юный Агни.  

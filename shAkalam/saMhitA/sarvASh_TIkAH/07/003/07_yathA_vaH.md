@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था वः स्वा꣡हा अग्न꣡ये दा꣡शेम  
 प꣡री꣡ळाभिर् घृत꣡वद्भिश् च हव्यइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शत꣡म् पूर्भि꣡र् आ꣡यसीभिर् नि꣡ पाहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तेभिः॑ । नः॒ । अ॒ग्ने॒ । अमि॑तैः । महः॑ऽभिः । श॒तम् । पूः॒ऽभिः । आय॑सीभिः । नि । पा॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -127,36 +127,36 @@ genre M
 हे **अग्ने** **अग्नये** अग्रस्य नेत्रे **वः** तुभ्यं **स्वाहा** स्वाहुतं हविः । किंच यथा वयम् **इळाभिः** । गोभिर्गोविकारैः क्षीरादिभिः **घृतवद्भिः** घृतसहितैः **हव्यैः** पुरोडाशादिभिः **च** **दाशेम** परिचरेम तथा त्वमपि **तेभिः** प्रसिद्धैः **अमितैः** अपरिमितैः **महोभिः** तेजोभिः **शतम्** अपरिमिताभिः **आयसीभिः** हिरण्मयीभिः । “ रुक्मम् अयः' इति हिरण्यनामसु पाठात् । **पूर्भिः** नगरीभिरिव **नः** अस्मान् **नि** पाहि नितरां रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When we present to you, **Agni**, the sacred offerings with oblations mixed with butter and milk, thenprotect us with those vast unbounded, innumerable golden cities and metals.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In order that with our svāhā-call we would serve Agni for you all with  libations and ghee-drenched oblations,  
 protect us, Agni, by these immeasurable powers (of yours) and by your  hundred metal strongholds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That we may worship, with your Hail to Agni! with sacrificial cakes and fat oblations,  
      Guard us, O Agni, with those boundless glories as with a hundred fortresses of iron.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf daß wir unter Svaharuf für euch den Agni mit Idaspenden und schmalzreichen Opfergaben beschenken können, schütze uns, Agni, mit diesen unermeßlichen Mächten, mit hundert ehernen Burgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie gern mit Heilruf wir dem Agni dienen, mit Tränken rings und butterreichen Opfern, So schirm durch diese unermessnen Strahlen, o Agni, uns mit hundert ehrnen Burgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чтобы мы могли почитать для вас Агни (под возглас) Свага!  
 Укрепляющими напитками и возлияниями, богатыми жиром, -  

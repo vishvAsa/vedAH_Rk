@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡स्य स्वित् स꣡वनं वृ꣡षा  
 जुजुष्वाँ꣡ अ꣡व गछति  
 इ꣡न्द्रं क꣡ उ स्विद् आ꣡ चके
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑म् । कः । ऊं॒ इति॑ । स्वि॒त् । आ । च॒के॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
@@ -96,36 +96,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **कस्य** **स्वित्** **सवनम्** । स्विदिति विचिकित्सायाम् । **वृषा** वर्षितेन्द्रः **जुजुष्वान्** प्रीयमाणः **अव** **गच्छति** । **क** **उ** को वा यजमानः **इन्द्रम्** **आ** **चके** जानाति स्तोतुम् । **स्वित्** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To whose offering does the showerer come down plural ased? Who can praise **Indra**?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To whose pressing does the bull, relishing it, descend?  
 Who finds their pleasure in Indra?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To whose libation doth the Steer, betake him with delight therein?  
      Who takes delight in Indra now?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu wessen Somaspende kommt der Bulle gern herab? Und wer hat wohl nach Indra begehrt?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu wessen Somatrunke geht, ihn zu geniessen, hin der Stier? Und wer gefällt dem Indra recht?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На чье же выжимание бык  
 Охотно спускается?  

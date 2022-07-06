@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यदा꣡ वा꣡जम् अ꣡सनद् विश्व꣡रूपम्  
 आ꣡ द्या꣡म् अ꣡रुक्षद् उ꣡त्तराणि स꣡द्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ना꣡ना स꣡न्तो बि꣡भ्रतो ज्यो꣡तिर् आसा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पति॑म् । वृष॑णम् । व॒र्धय॑न्तः । नाना॑ । सन्तः॑ । बिभ्र॑तः । ज्योतिः॑ । आ॒सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadā*
 - \[adverb\]
@@ -123,37 +123,37 @@ genre M
 स बृहस्पतिः **यदा** यस्मिन् काले **विश्वरूपं** नानारूपं **वाजं** गोलक्षणमन्नम् **असनत्** भजते यदा वाहृतपशुकः सन् **द्यां** द्युलोकम् **अरुक्षत्** आरोहति अथवा **उत्तराणि** वा **सद्म** स्थानान्यारोहति । रुहेर्लुङि च्लेः ‘शल इगुपधादनिटः क्सः । ( पा. सू. ३. १. ४५ )। तदानीं **वृषणं** वर्षितारं **बृहस्पतिम्** **आसा** आस्येन देवाः **वर्धयन्तः** भवन्ति । तथा **नाना** दिक्षु **सन्तः** भवन्तः **ज्योतिः** **बिभ्रतः** धारयन्तो देवाश्च स्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When he acquires food of various kinds, when he ascends the sky or the northern stations, (the godsare) extolling **Bṛhaspati**, the showerer (of benefits), with their mouth, being in various (quarters), bearing light.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When he won the prize of all forms and mounted to heaven, to the  higher seats.  
 Br̥haspati the bull (would we celebrate), strengthening him—though  
 each (of us) brings light with our mouth in our own way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When he had won him every sort of booty and gone to heaven and its most lofty mansions,  
      Men praised Brhaspati the Mighty, bringing the light within their mouths from sundry places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wann er den allfarbigen Siegerpreis gewonnen hat und zum Himmel aufgestiegen ist, zu den höchsten Sitzen, indem wir den Bullen Brihaspati erheben, da und dort weilend, im Munde das Licht tragend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als er die mannichfache Labung erlangt hatte, und er sich zum Himmel erhoben hatte, zu den höchsten Sitzen; da stärkten den Stier Brihaspati die Menschen an verschiedenen Orten, ihm Licht vor sein Angesicht bringend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда он захватил разноцветную добычу,  
 (И) поднялся на небо к высшим сидениям,  

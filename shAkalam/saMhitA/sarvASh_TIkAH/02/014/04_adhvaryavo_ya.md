@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवो य꣡ उ꣡रणं जघा꣡न  
 न꣡व चख्वां꣡सं नवतिं꣡ च बाहू꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡म् इ꣡न्द्रं सो꣡मस्य भृथे꣡ हिनोत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यः । अर्बु॑दम् । अव॑ । नी॒चा । ब॒बा॒धे । तम् । इन्द्र॑म् । सोम॑स्य । भृ॒थे । हि॒नो॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -120,36 +120,36 @@ genre M
 हेअध्वर्यवः यइन्द्रः नवनवतिञ्चएकोनशतम्बाहून् चख्वांसं चष्टेरिदंरूपं यद्वा खनतेःक्वसौरूपं जने- लोपः छान्दसंरूपं सर्वस्यदर्शयन्तम यद्वा आत्मनोदेहेनिखातवन्तं उरणं एतन्नामकमसुरं जघान यश्च- अर्बुदं एतन्नामकमसुरञ्चनीचाधोमुखङ्कृत्वाअवबबाधेतमेनमिन्द्रंसोद्मस्यभृथेसोमम्बिभ्रति पात्रेहिनो- तवर्धयत यद्वा सोमस्यभृथेभरणेसम्पादनेसतिहिनोत स्तोत्रैःप्रीणयत हिगतिवृद्ध्योः स्वादिः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Priests, propitiate, by the offering of the **Soma** that **Indra**, who slew **Uraṇa**, displaying nine and ninety arms; and hurled **Arbuda** down headlong.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus! Who smashed Uraṇa, who had stretched forth his nine and  ninety arms,  
 and who pressed Arbuda down to the depth—urge Indra onward at the  bringing of soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who did Urana to death, Adhvaryus! though showing arms ninety-and-nine in number;  
      Who cast down headlong Arbuda and slew him,-speed ye that Indra to our offered Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s!Der den Urana erschlagen hat, welcher neunundneunzig Arme reckte, der den Arbuda hinab in die Tiefe stieß, diesen Indra treibt zur Eile, wenn der Soma aufgetragen wird!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Priester ihn, der Urana erschlagen, als neunundneunzig Arme er emporhielt, Der Arbuda herabstiess in die Tiefe, zum Soma-mahle führet diesen Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью! Кто убил Урану,  
 Растопырившего девяносто девять рук,  

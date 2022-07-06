@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वा अग्ने अ꣡प दह अ꣡रातीर्  
 ये꣡भिस् त꣡पोभिर् अ꣡दहो ज꣡रूथम्  
 प्र꣡ निस्वरं꣡ चातयस्व अ꣡मीवाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 प्र । नि॒ऽस्व॒रम् । चा॒त॒य॒स्व॒ । अमी॑वाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
@@ -96,7 +96,7 @@ genre M
 हे **अग्ने** **विश्वाः** विश्वान् **अरातीः** शत्रून् **तपोभिः** तेजोभिः **अप** **दह** । **येभिः** यैः तपोभिः **जरूथं** परुषशब्दकारिणं राक्षसम् ॥ गृणातेरूथन्प्रत्यये सति जरूथशब्दनिष्पत्तिः ॥ **अदहः** दहसि । किंच **अमीवां** रोगं **निस्वरं** न्यक्कृतोपतापं यथा भवति तथा ॥ ‘ स्वृ शब्दोपतापयोः' इति धातुः ॥ **प्र** **चातयस्व** प्रकर्षेण नाशय । ‘ चततिर्गत्यर्थो वा ' इति भट्टभास्करमिश्रः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,29 +107,29 @@ genre M
 Jarūtha: the harsh-voiced, or the threatening, ra-kṣasam paruṣaśabdakāriṇam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, burn away all hostile powers with the heat by which you burned  Jarūtha.  
 Make sickness disappear without a sound.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Burn up all malice with those flames, O Agni, wherewith of old thou burntest up Jarutha,  
      And drive away in silence pain and sickness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brenn, o Agni, alle Unholde hinweg mit deinen Gluten, mit denen du den Jarutha branntest. Mach die Krankheit lautlos verschwinden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O brenne weg uns, Agni, alle Frevler durch Glut, mit der du den Dscharutha branntest, Und lautlos lass enteilen jeden Dränger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все безбожные силы сожги дотла, о Агни,  
 (Тем) жаром, которым ты сжег Джарутху!  

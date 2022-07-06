@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो यातं दिवो꣡ अ꣡छा पृथिव्या꣡  
 हिरण्य꣡येन सुवृ꣡ता र꣡थेन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ य꣡द् ददे꣡ · ना꣡भिः पूर्विया꣡ वाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मा । वा॒म् । अ॒न्ये । नि । य॒म॒न् । दे॒व॒ऽयन्तः॑ । सम् । यत् । द॒दे । नाभिः॑ । पू॒र्व्या । वा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -130,21 +130,21 @@ genre M
 **नः** अस्मान् **अच्छ** अभि प्राप्तुं **दिवः** द्युलोकात् **पृथिव्याः** सकाशाद्वा **आ** **यातम्** । केन साधनेन । **हिरण्ययेन** हितरमणीयेन' **सुवृता** शोभनावर्तनेन **रथेन** । **वां** युवाम् **अन्ये** **देवयन्तः** देवौ युवामिच्छन्तो यजमानाः **मा** **नि** **यमन्** नियमनं मा कुर्वन् । **यत्** यस्मात **पूर्व्या** पूर्वार्हा इतरयष्टृभ्यः पूर्वभाविनी **नाभिः** बन्धिका स्तुतिः **सं** **ददे** संबध्नाति । तस्मादायातम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to our presence, whether from heaven or earth, with your well-constructed golden chariot; let not other devout worshippers detain yhou, for a prior attraction awaits you (here).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive right here to us from heaven and from the earth with your golden,  smooth-rolling chariot.  
 Let the others who seek the gods not hold you down, because our  
 ancient umbilical tie is attached to you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 By my rule (see “Vedic anyá- 'another, the other': syntactic disambiguation,” Fs. Beekes, 1997), because it is in (modified) 2nd position, anyé in c should be definite (‘the others’), not indefinite as Geldner (/Witzel Gotō) take it. This makes perfect sense: we are well aware of the other sacrificers who are our rivals.
 
@@ -153,23 +153,23 @@ On sám … dadé and the idiom it expresses see comm. ad I.139.1. Although dad�
 See Kümmel 242 for the three forms dadé / dade that belong to ‘cut’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hitherward to us from earth, from heaven, borne on your golden chariot rolling lightly.  
      Suffer not other worshippers to stay you here are ye bound by earlier bonds of friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet her zu uns auf dem leichten goldnen Wagen vom Himmel, von der Erde. Nicht sollen euch andere Gottverlangende anhalten, da schon früher mit euch Freundschaft geschlossen wurde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her zu uns vom Himmel, von der Erde auf goldnem Wagen, welcher schnell herbeirollt; Nicht mögen andre Fromme fest euch halten, wenn sich um euch die alten Freunde scharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте к нам с неба, с земли  
 На золотой легкоходной колеснице!  

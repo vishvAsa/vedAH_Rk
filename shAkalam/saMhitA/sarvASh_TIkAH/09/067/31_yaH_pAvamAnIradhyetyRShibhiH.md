@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ पावमानी꣡र् अध्ये꣡ति  
 ऋ꣡षिभिः स꣡म्भृतं र꣡सम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्वदित꣡म् मातरि꣡श्वना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 सर्व॒म् । सः । पू॒तम् । अ॒श्ना॒ति॒ । स्व॒दि॒तम् । मा॒त॒रिश्व॑ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -96,7 +96,7 @@ popular;; epic anuṣṭubh (424)
 **यः** जनः **पावमानीः** पवमानदेवताकाः सर्वा ऋचः तद्रूपम् **ऋषिभिः** सूक्तद्रष्टृभिर्मधुच्छन्दःप्रभृतिभिः **संभृतं** संपादितं **रसं** वेदरसभूतं सारं सूक्तसंघम् **अध्येति** अधीते **सः** जनः **सर्वं** भोज्यजातं **पूतं** परिशुद्धमेव अश्नाति । परिपूतं पापरहितमन्नं भक्षयति । कथमस्य पूतत्वं तत्राह । स्वस्याशनात्प्रागेव **मातरिश्वना** । मातर्यन्तरिक्षे श्वसितीति मातरिश्वा वायुः । स च वायुः पवित्रमेव । पवित्रेण वायुना **स्वदितं** स्वादूकृतं परिपूतमेवान्नं पश्चात् स नरोऽश्नाति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,13 +107,13 @@ popular;; epic anuṣṭubh (424)
 Mātariśvan = Va+yu, because it breathes in the atmosphere, antarikṣe śvasiti; the food is sweetened and purified by the purifying wind and the man eats it
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever studies the “Self-Purifying” (verses), the sap assembled by  the seers,  
 that one eats the whole purified (sap), sweetened by Mātariśvan.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
 <details open><summary><h2>31-32 ...{Loading}...</h2></summary>
 
@@ -124,23 +124,23 @@ Commentary IX.68-114
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The man who reads the essence stored by saints, the Pavamani hymns,  
      Tastes food completely purified, made sweet by Matarisvan's touch.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer die Pavamaniverse auswendig weiß, den von den Rishi´s zusammengetragenen Seim, der genießt lauter Reines, von Matarisvan schmackhaft Gemachtes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer die von dem Pavamāna [dem rieselnden Soma] handelnden Verse liest, die von den Sängern zusammengebrachte Essenz, der geniesst alles Reine, was vom Matariçvan schmackhaft gemacht ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто выучит (стихи) Павамани,  
 Сок, собранный (поэтами-)риши,  

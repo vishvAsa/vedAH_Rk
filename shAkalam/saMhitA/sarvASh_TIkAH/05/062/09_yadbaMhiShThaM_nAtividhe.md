@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् बं꣡हिष्ठं ना꣡तिवि꣡धे सुदानू  
 अ꣡छिद्रं श꣡र्म भुवनस्य गोपा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सि꣡षासन्तो जिगीवां꣡सः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तेन॑ । नः॒ । मि॒त्रा॒व॒रु॒णौ॒ । अ॒वि॒ष्ट॒म् । सिसा॑सन्तः । जि॒गी॒वांसः॑ । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -108,37 +108,37 @@ genre M
 हे **सुदानू** शोभनदानौ हे **भुवनस्य** **गोपा** युवां **बंहिष्ठं** बहुतमं **यत्** **अच्छिद्रम्** अनवच्छिन्नं **शर्म** सुखं गृहं वा **नातिविधे** अतिवेद्धुमशक्यं शर्मेति शर्मविशेषणम् ॥  ‘ व्यध ताडने ' इत्यस्मादस्युपपदे कृत्यार्थे केन् संप्रसारणं च ॥ तादृशं शर्म धारयथः **तेन** शर्मणा **नः** अस्मान् **अविष्टं** रक्षतम् । हे **मित्रावरुणौ** **सिषासन्तः** धनानि संभक्तुमिच्छन्तो वयं **जिगीवांसः** शत्रूणां धनानि जेतुमिच्छन्तः **स्याम** भवेम ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Munificent **Mitra** and **Varuṇa**, protectors of the universe, (it is yours to grant) exceeding and perfect felicity, such as it is impossible to disturb; bless us with that (felicity), and may we ever be (possessed) of the riches we desire, and be confident of vicotry (over our enemies).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your very stout, unbroken protection, which is not to be pierced, o you  herdsmen of the living world, bringing good waters—  
 with that help us, Mitra and Varuṇa. Seeking to win, may we be  
 victorious.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bountiful guardians of the world! the shelter that is impenetrable, strongest, flawless,  
      Aid us with that, O Varuna and Mitra, and when we long to win may we be victors.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was der dichteste lückenlose Schild ist, der nicht zu durchschießen ist, ihr gabenschönen Hirten der Welt, mit dem beschirmet uns, Mitra und Varuna! Wenn wir auf Gewinn ausgehen, möchten wir die Sieger sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Schutz der stärkste, welcher undurchbrechbar, untilgbar ist, freigieb'ge Weltbehüter, Mit dem beschirmt uns, Varuna und Mitra, wir, Beute wünschend, seien immer siegreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) самый крепкий щит без трещин,  
 Который не пронзить, о прекрасно дарящие, о пастухи мира, –  

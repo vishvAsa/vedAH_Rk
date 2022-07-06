@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡यव् इ꣡न्द्रश् च शुष्मि꣡णा  
 सर꣡थं शवसस् पती  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आ꣡ यातं सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नि॒युत्व॑न्ता । नः॒ । ऊ॒तये॑ । आ । या॒त॒म् । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāyav* ← *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
@@ -104,41 +104,41 @@ genre M
 हे **वायो** त्वम् **इन्द्रश्च** हे **शवसस्पती** बलस्य पती **शुष्मिणा** बलवन्तौ **नियुत्वन्ता** नियुत्संज्ञकाश्ववन्तौ युवां **सरथं** समानमेव रथमारुह्येति शेषः। **न** **ऊतये** रक्षणाय **सोमपीतये** सोमपानायात्र **आ** **यातम्** आगच्छतम् । यद्वा । सरथमधितिष्ठतम् आरुह्य चायातमिति च वाक्यद्वयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Vāyu**, who are lords of strength, vigorous and drawn by the **Niyut** steeds, come (riding in) the same car; drink the **Soma** for our protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Vāyu and Indra, tempestuous ones, lords of power, on the same  chariot,  
 provided with teams, drive here to help us, to drink the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Of the two pāda-final qualifiers, śuṣmínā (a) and śavasas patī (b), the first is nom., the 2nd voc. It is not clear to me why, since, save for the accent, nom. and voc. would be identical.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra-Vayu, mighty Twain, speeding together, Lords of Strength,  
      Come to our succour with your team, that ye may drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vayu und Indra, die zwei Ungestümen, kommet auf dem gleichen Wagen, ihr Herren der Kraft, mit den Niyutgespannen, um uns die Gunst zu erweisen, zum Somatrunk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra-Vaju, muthbegabt, auf gleichem Wagen, Herrn der Kraft, Mit Vielgespannen kommt zu uns, zur Labung und zum Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваю и Индра, двое неистовых,  
 На одной колеснице, о повелители силы,  

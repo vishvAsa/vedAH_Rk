@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡ ते जीवा꣡तुर् उत꣡ त꣡स्य विद्धि  
 मा꣡ स्मैतादृ꣡ग् अ꣡प गूहः समर्ये꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ पादु꣡र् अस्य निर्णि꣡जो न꣡ मुच्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ॒विः । स्व१॒॑रिति॑ स्वः॑ । कृ॒णु॒ते । गूह॑ते । बु॒सम् । सः । पा॒दुः । अ॒स्य॒ । निः॒ऽनिजः॑ । न । मु॒च्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
@@ -149,36 +149,36 @@ popular
 अत्रान्तरात्मनेन्द्रः स्तूयते । हे अन्तरात्मन् **ते** तव **सा** तादृश्यादित्यात्मिका देवता **जीवातुः** जीविका जीवनहेतुः । **उत** अपि च **तस्य** आदित्यस्य **एतादृक्** ईदृशं स्वरूपं समर्ये । संग्रामवाची समर्यशब्दोऽत्र यज्ञवाची । यज्ञे **विद्धि** जानीहि । स्तुत्यत्वेनेति शेषः । **मा** **स्म** **अप** **गूहः** मा खल्वपवृणोः । किंच **निर्णिजः** सर्वस्य शोधयितुरादित्यस्य **स** **पादुः** तच्च पादनं गमनं रश्मिद्वारेण गत्वा **स्वः** सर्वं त्रैलोक्यम् **आविः** **कृणुते** प्रकाशीकरोति। **बुसम्** उदकं **गूहते** संवृणोति । आदत्त इत्यर्थः । अस्मै प्रयोजनद्वयायादित्येन निर्वेदनाच्छ्रमेण वा गमनं **न** **मुच्यते** । न कदाचित्परित्यज्यत इत्यर्थः ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That your (divine) nature identified with the (sun) is the cause of life; and know such (solar form) of his(to be worthy of adoration) at the sacrifice; conceal nothing; that motion of him the all-cleansing (sun) makesmanifest the universe; it absorbs the moisture; it is never discontinued.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is your means of life. And know this—don’t hide away such a thing  in the clash—  
 when the sun reveals itself, it hides the mist [?]. Its “foot” is released as  if from a garment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is thy life: and do thou mark and know it. As such, hide not thyself in time of battle.  
      He manifests the light and hides the vapour: his foot is never free from robes that veil it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist dein Lebenszweck, sei auch dessen eingedenk; verbirg solches nicht im Kampfe! Wenn die Sonne sich offenbart, so versteckt sie die Hülse, die Hülle. Dieser ihr Fuß macht sich los wie von einem Gewand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies ist dein Leben, und darauf achte, nicht mögest du solches vergessen [oder verbergen] in dem Kampfe; er macht den Himmelsglanz offenbar, verbirgt das Dunkel; sein Fuss wird des Schmuckes nicht entkleidet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

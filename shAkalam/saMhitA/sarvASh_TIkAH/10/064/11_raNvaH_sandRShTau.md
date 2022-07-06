@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रण्वः꣡ सं꣡दृष्टौ पितुमाँ꣡ इव क्ष꣡यो  
 भद्रा꣡ रुद्रा꣡णाम् मरु꣡ताम् उ꣡पस्तुतिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡दा देवास इ꣡ळया सचेमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 गोभिः॑ । स्या॒म॒ । य॒शसः॑ । जने॑षु । आ । सदा॑ । दे॒वा॒सः॒ । इळ॑या । स॒चे॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *raṇvaḥ* ← *raṇva*
 - \[noun\], nominative, singular, masculine
@@ -117,36 +117,36 @@ genre M
 सन्दृष्टौ सन्दर्शने रण्वो रमणीयो मरुद्गणः पितुमानिवान्नवानिव क्षयो निवासः स्तोतॄणाम् भवति। रुद्रानां रुद्रपुत्राणां तेषां मरुतामुपस्तुतिरनुग्रहबुद्धिर्भद्रा कल्याणी भवति। तस्माज्जनेषु जनानाम् मध्ये वयं गोभिर्गवादिभिर्यशसो यशस्विनः स्याम। भवेम। अनन्तरं हे देवासो देवाः युष्मान्सदा सर्वदेलयान्नेन हविर्लक्षणेन सचेमहि। सचेम। सङ्गच्छेम॥१२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “plural asant of aspect (is troop of **Maruts**), like a house well stored with provisions; fortunate is the favourof the Maruts, the sons of **Rudra**; may we (thereby) be famed among men for cattle, and so, gods, ever approach(you) with sacrificial food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Delightful to the sight like a peaceful dwelling abounding in food.  Auspicious is the praise invocation of the Rudras, the Maruts.  
 May we be glorious among the peoples with our cows. May we always  be accompanied by refreshment, o gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pleasant to look on as a dwelling rich in food is the blest favour of the Maruts, Rudra's Sons.  
      May we be famed among the folk for wealth in kine. and ever come to you, ye Gods, with sacred food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erfreulich wie ein nahrungsreiches Haus für den Anblick, glückbringend ist die Lobpreisung der Rudrasöhne, der Marut. Durch Rinderbesitz wollen wir bei den Leuten angesehn sein. Immerdar möchten wir mit der Ila zusammen sein, o Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Anschaun lieblich wie ein nahrungsreicher Sitz, glückbringend ist der prächt'gen Maruts Beifall uns; Durch Heerden seien herrlich unter Menschen wir, stets sein, o Götter, wir mit Labetrunk versorgt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

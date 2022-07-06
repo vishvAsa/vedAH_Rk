@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ईं सत्ये꣡भिः स꣡खिभिः शुच꣡द्भिर्  
 गो꣡धायसं वि꣡ धनसइ꣡र् अदर्दः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घर्म꣡स्वेदेभिर् द्र꣡विणं वि꣡ आनट्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ब्रह्म॑णः । पतिः॑ । वृष॑ऽभिः । व॒राहैः॑ । घ॒र्मऽस्वे॑देभिः । द्रवि॑णम् । वि । आ॒न॒ट् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 **सः** बृहस्पतिः सत्येभिः यथार्थबलैः **सखिभिः** सखिभूतैः **शुचद्भिः** दीप्यमानैः **धनसैः** धनस्य संभक्तृभिर्मरुद्भिः सह **गोधायसं** गवां धारकम् **ईम्** एनं वलं **वि** **अदर्दः** व्यदारयत्। ततः **ब्रह्मणः** ऋग्यजुःसामलक्षणस्य स्तोत्रस्य **पतिः** अधिपतिः सः **वृषभिः** वर्षितृभिः **वराहैः** वराहारैर्वरस्य वरणीयस्योदकस्याहर्तृभिः **घर्मस्वेदेभिः** दीप्तागमनैः । यद्वा क्षरदुदकैः । अथवा घर्मो यज्ञः । तं प्रति गन्तृभिः मरुद्भिः **द्रविण** गोलक्षणं धनं **व्यानट्** व्याप्नोत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,30 +127,30 @@ genre M
 Brahmaṇaspati: lord of praise, i.e., of the three **Vedas**, the Ṛk, **Yajus**. and **Sāman**;frequenters of sacrifice: or, those who go in lustre; or, dripping water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With his trusty comrades blazing, with the winners of spoils, he cleaved  apart the cow-nurturer.  
 The Lord of the Sacred Formulation reached through to the treasure  with his bulls, his boars, with their hot sweat [/sweating over the  
 gharma pot].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He with bright faithful Friends, winners of booty, hath rent the milker of the cows asunder.  
      Brhaspati with wild boars strong and mighty, sweating with heat, hath gained a rich possession.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit seinen wahrhaften Freunden, den Erglühenden, den Schätzegewinnern hat er den Vala gesprengt, der von den Rindern sich nährte. Brahmanaspati gelangte mit den Bullen, den Ebern, den vor Hitze Schwitzenden, in den Besitz des Reichtums.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch dieser Brahmanaspati zerspaltete mit den tapfern, leuchtenden, Beute gewinnenden Genossen den Verschliesser der Kühe; mit den kräftigen von der Glut schwitzenden Ebern erlangte er den Schatz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Со своими верными друзьями, пылающими (Ангирасами),  
 Захватывающими богатство, он взорвал (Валу,) сосущего молоко коров.  

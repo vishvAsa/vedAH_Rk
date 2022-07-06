@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सू꣡रश् चक्र꣡म् प्र꣡ वृहज् जात꣡ ओ꣡जसा  
 प्रपित्वे꣡ वा꣡चम् अरुणो꣡ मुषायति  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 अ꣡हा वि꣡श्वेव तुर्व꣡णिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 सु॒म्नानि॑ । विश्वा॑ । मनु॑षाऽइव । तु॒र्वणिः॑ । अहा॑ । विश्वा॑ऽइव । तु॒र्वणिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūraś* ← *sūraḥ* ← *svar*
 - \[adverb\]
@@ -171,7 +171,7 @@ genre M
 अत्रापि इतिहासमाचक्षते । केचन असुराः पूर्वमिन्द्रवज्रेण वधो मा भूत् इति ब्रह्मणो वरं लब्ध्वा इन्द्रमगणयित्वा उद्वृत्ताः आसन् । तान् हन्तुम् इन्द्रः सूर्यरथस्य चक्रमादाय अवधीदिति । तदिदमुच्यते । अयमिन्द्रः **सूरः** सूर्यस्य ॥ षष्ठ्यर्थे प्रथमा । **चक्रं** रथस्य चक्रमादाय **ओजसा** शारीरेण बलेन **जातः** समृद्धः सन् **प्र** **वृहत्** प्रक्षिप्तवान् ॥ ‘वृहू उद्यमने ' । तौदादिकः ॥ किंच **अरुणः** अरुणवर्णः अत्यन्ततेजोयुक्तः सन् यद्वा गमनशीलः सन् **प्रपित्वे** तेषां समीपे तत्समीपमागत्य **वाचं** वागुपलक्षितं प्राणं **मुषायति** मुमोष मुष्णाति वा । प्रपित्वे इत्यासन्ननाम । यद्वा । वाचं तेषां प्रहारध्वनिं मुषायति । तेषु हतेषु ध्वनिः स्वयमेव विश्रान्तः भवति अवधीदित्यर्थः । अथवा । इन्द्र एव द्युस्थानः सन् आदित्यात्मना स्तूयते । सूरः सूर्यः जातः उदितः सन् ओजसा स्वकीयेन तेजसा युक्तः चक्रं प्र वृहत् तमोनिवारणार्थमसुरजयाय वा चक्रोपलक्षितं रथं प्रकर्षेण उद्यतं करोति । ततः पूर्वम् अरुणः तद्रथयन्ता प्रपित्वे मन्देहाद्यसुराणां प्रपित्वे समीपे वाचं तेषां ‘जहि भिन्धि' इत्यादिध्वनिं मुषायति मुष्णाति ॥ मुषेरुत्तरस्य श्नोऽहावपि ‘ छन्दसि शायजपि ' इति शायजादेशः ॥ तदनन्तरं सूर्यः **ईशानः** सर्वाणि तमांसि असुरान् वा निराकर्तुं समर्थः सन् **आ** **मुषायति** समन्तात् मुष्णाति । अथ प्रत्यक्षकृतः । हे **कवे** क्रान्तदर्शिन् **यत्** यस्त्वम् **उशना** उशनस एतन्नाम्नो महर्षेः **ऊतये** रक्षणाय **परावतः** दूरात् स्वर्गस्थानात् **अजगन्** गतवानसि प्राप्तवानसि ॥ गमेः सिपि छान्दसः शपः श्लुः । हल्ङ्यांदिलोपे ' मो नो धातोः' (पा. सू. ८. २. ६४ ), इति नत्वम् ॥ यद्वा। उशना उशनसा युक्तः सन् अजगन् आगच्छ । आगत्य च **विश्वा** विश्वानि **सुम्नानि** सुखसाधनानि धनानि आदाय अस्माकं **तुर्वणिः** तूर्णवनिः क्षिप्रं संभक्ता भव इति शेषः। 'तुर्वणिस्तूर्णवनिः' (निरु. ३. १४ ) इति निरुक्तम् । तत्र दृष्टान्तः । **मनुषेव** मनुष्येणेव । यथा त्वोतेन परिवृढाय देशान्तरादभिमतं धनमानीयते तद्वत् । यद्वा मनुषेव मनुष्याणामिव । इतरेषामृत्विजां विश्वा सुम्नानि सर्वाणि धनान्यादाय तुर्वणिः भवसि । तद्वदस्माकमपि । न केवलमेकस्मिन्नेव यागदिने किंतु **अहा** **विश्वेव** विश्वान्यपि अहानि सर्वेष्वपि अहःसु **तुर्वणिः** भव । यद्वा । तुर्वणिस्त्वम् अहा विश्वेव विश्वान्यहानि अतिदीर्घमायुष्यं यथा ददासि तथा सुम्नान्यपि उभयमपि देहीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -182,7 +182,7 @@ genre M
 Sūraścakram pravṛhad = he threw the sun's wheel; sūryasya rathasya cakram, the wheel of the chariot of the sun: the legend is that the **asuras** obtained a boon from **Brahmā**, that they should not be destroyed by the thunderbolt of Indra, and having in consequence defied him, he cast at them the wheel of the sun's car, which was equally fatal. Another legend: the sun (of Indra) having risen, urges on his car, and **Aruṇa** (his charioteer) silences the clamour (of his enemies); the lord (of day) dissipates the gloom. Deprives them of existence: vācam muṣāyati = lit. steals or takes away speech; speech is a metonymy for breath, i.e. life; or, it may mean, silence clamour or suppress his own exclamation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just born, he tore off the wheel of the sun with his strength—(as?) at  the ritual meal the ruddy one [=Agni?/Sun?] steals speech—showing  mastery he steals it—  
 when you, o sage poet, had come from afar (to the house of) Uśanā  
@@ -191,7 +191,7 @@ passing across all appeals for favor as if with Manu—as if passing
 across all the days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, this verse, which treats Indra’s theft of the sun’s wheel and his visit to Uśanā Kāvya, is quite opaque. The first pāda straightforwardly announces the mythical deed at issue, but things disintegrate after that.
 
@@ -205,24 +205,24 @@ I have even less idea of what fg really mean than the rest of the verse. The rep
 therefore taken turváṇi- as expressing a simple motion sense, but have no confidence in the correctness of this interpr. (and in fact fairly strong confidence in its error).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Waxed strong in might at dawn he tore the Sun's wheel off. Bright red, he steals away their speech, the Lord of Power, their speech he steals away from them,  
      As thou with eager speed, O Sage, hast come from far away to help,  
      As winning for thine own all happiness of men, winning all happiness each day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er riß das Rad der Sonne ab, der mit Kraft geborene. Vor der Essenszeit stiehlt er als Aruna die Stimme, stiehlt er, der es vermag, als du aus der Ferne zu Usanas um Beistand gekommen warst, o Seher; alle Gnaden wie für Manu überbietend, wie die Sonne alle Tage überbietend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren kaum trieb kräftig er der Sonne Rad, bei Tages Anbruch nimmt er flammend sich das Lied, er reisst es an sich mit Gewalt; Als willig du von Ferne her zu Hülfe eiltest, weiser du, Erringend wie durch Menschen alles Herrliche, erringend allen Tagesglanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он сорвал колесо солнца, рожденный силой,  
 При разбеге он, алый, похищает голос (у демона),  

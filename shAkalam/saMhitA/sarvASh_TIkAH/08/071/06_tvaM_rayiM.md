@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ रयि꣡म् पुरुवी꣡रम्  
 अ꣡ग्ने दाशु꣡षे म꣡र्ताय  
 प्र꣡ णो नय व꣡स्यो अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 प्र । नः॒ । न॒य॒ । वस्यः॑ । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -90,46 +90,46 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **अग्ने** **त्वं** **दाशुषे** हविर्दत्तवते मर्त्याय यजमानाय **रयिं** धनं **पुरुवीरं** बहुभिर्वीरैर्युक्तं प्रयच्छसि । अतः **नः** अस्मानपि **वस्यः** वसीयो धनम् **अच्छ** अभिप्राप्तुं **प्र** **णय** प्रापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni** give to the offerer wealth comprehending many **male** descendants; conduct us to affluence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Give) wealth consisting of many heroes to the pious mortal.  
 Lead us forth to a better state.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Supply ‘give’ from 3c rayím dehi viśvávāram, with the same obj. and an adj. echoed by puruvī́ram here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Riches with many heroes thou hast for the man who offers gifts:  
      Lead thou us on to higher bliss.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 To you this thought, this song is offered, Aśvins, This hymn of praise enjoy, ye mighty heroes. From us these prayers have gone, to you directed. Ye gods protect us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du gibst dem opferspendenden Sterblichen einen Schatz von vielen Söhnen, Agni. Führe du uns zum Glück!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib du, Agni, heldenreichen Schatz dem sterblichen Verehrer, Führe uns zu schönerm Gute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

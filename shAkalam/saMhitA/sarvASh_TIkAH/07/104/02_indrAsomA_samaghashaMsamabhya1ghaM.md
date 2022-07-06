@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रासोमा स꣡म् अघ꣡शंसम् अभ्य् अ᳡घं꣡  
 त꣡पुर् ययस्तु चरु꣡र् अग्निवाँ꣡ इव  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द्वे꣡षो धत्तम् अनवायं꣡ किमीदि꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ब्र॒ह्म॒ऽद्विषे॑ । क्र॒व्य॒ऽअदे॑ । घो॒रऽच॑क्षसे । द्वेषः॑ । ध॒त्त॒म् । अ॒न॒वा॒यम् । कि॒मी॒दिने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
@@ -120,7 +120,7 @@ popular
 हे इन्द्रासोमौ **अघशंसम्** अघस्यानर्थस्य शंसितारम् **अघम्** आगत्य हन्तारं राक्षसं **सं** सहैव । **अभि** इति श्रुतेर्योग्यक्रियाध्याहारः । अभिभवतम् । स च **तपुः** युवयोस्तेजसा तप्यमानो राक्षसः **अग्निवानिव** अग्नियुक्तोऽग्नौ प्रक्षिप्तः **चरुः** इव **ययस्तु** । ‘ यसु प्रयत्ने'। केवलोऽप्ययमाङ्पूर्वार्थो द्रष्टव्यः । आयस्यतु आयासं प्राप्नोतु । उपक्षीयतामित्यर्थः । अपि च **ब्रह्मद्विषे** ब्राह्मणेभ्योऽस्मभ्यं द्वेष्ट्रे **क्रव्यादे** क्रव्यं मांस भक्षयित्रे **घोरचक्षसे** घोरदर्शनाय परुषभाषिणे वा **किमीदिने** किमिदानीमिति चरते पिशुनाय **द्वेषः** द्वेष्यभावम् **अनवायम्** अव्यवायमनवयवं नैरन्तर्येण यथा भवति तथा **धत्तं** दत्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,14 +133,14 @@ Peformer of unprofitable acts: aghaśaṃsa =malignant; hater of **brahmaṇas**
 Hideous: ghoracakṣase= rude in speech; vile rākṣasa: kimīdine = kimīdānīm iti carate, to one who goes saying, What now? Thatis, piśunāya, a spy, an informer; or cruel, vile
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Soma, like a pot on the fire let your evil heat seethe against  the one who speaks evil.  
 Set forth unrelenting hatred against the hater of the sacred formulation,  the eater of raw flesh, the one with a terrible glance—against the  
 worm-eater.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The syntactic function of aghám in pāda a is ambig. It could be an acc. sg.
 
@@ -159,23 +159,23 @@ abandon the richer semantics of a derivation from áva √yā. My published tran
 ‘herabsteigen; Abbitte leisten — descend; apologize’; the second terms of the German and English glosses must result from confusion with áva √yā / ī and should be stricken.) The rendering ‘worm-eater’ for kimīdín- here and in the following vs., as well as in X.87.24, is based on a suggestion of Schindler and Werba recorded in EWA s.v. and also entertained by Scarlatta (41). Note that in X.87.24 it is associated with 139 yātudhā́na- ‘sorcerer’, which stem figures prominently later in our hymn as well as in other parts of X.87.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Soma, let sin round the wicked boil like as a caldron set amid the flames of fire.  
      Against the foe of prayer, devourer of raw flesh, the vile fiend fierce of eye, keep ye perpetual hate.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Soma! Rings um den Bösredenden soll die böse Glut sieden wie ein vom Feuer erhitzter Kochtopf. Setzet dem Feind des heiligen Wortes, dem Aasfresser mit dem bösen Auge, dem Kimidin unerbittliche Feindschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Bösewicht verbrühe selbst des Frevels Glut o Indra-Soma, wie der Topf, der überkocht, Werft ew'gen Hass auf jeden, der die Beter hasst, der Fleisch verschlingt, von graus'gem Anblick, schurkenhaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Сома, пусть говорящее злое  
 Охватит злое пламя, словно котелок, стоящий на огне!  

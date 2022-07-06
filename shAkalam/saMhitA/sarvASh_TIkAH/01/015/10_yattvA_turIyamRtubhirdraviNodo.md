@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् त्वा तुरी꣡यम् ऋतु꣡भिर्  
 द्र꣡विणोदो य꣡जामहे  
 अ꣡ध स्मा नो ददि꣡र् भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अध॑ । स्म॒ । नः॒ । द॒दिः । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -89,35 +89,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **द्रविणोदः** देव **यत्** यस्मात् कारणात् **ऋतुभिः** सह **त्वां** **यजामहे** । अध इत्ययं निपातस्तच्छब्दार्थः । तस्मात् कारणात् **नः** अस्मभ्यं **ददिः** धनस्य दाता **भव** **स्म** अवश्यं भव । **तुरीयं** चतुर्णां पूरणम् ॥ तुरीयम् ।' चतुरश्छयतावाद्यक्षरलोपश्च' ( पा. सू. ५. २. ५१. १ ) इति छप्रत्ययः । तस्य प्रत्ययस्वरेणोदात्तात् प्रागेव ‘आयनेयी' ( पा. सू. ७. १. २ ) इत्यादिना ईयादेशः । ‘आयनादिषूपदेशिवद्वचनं स्वरसिद्ध्यर्थम् ' ( पा. सू. ७. १. २. १ ) इति वचनात् कृते आदेशे प्रत्ययस्वरेण इकार उदात्तः । द्रविणोदः । उक्तम् । पादादित्वात् आमन्त्रिताद्युदात्तत्वम् । यजामहे । अत्र शपः पित्त्वेन तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव । पूर्वस्य आमन्त्रितस्य अविद्यमानत्त्वात् यद्वृत्तयोगाद्वा न निघातः । व्यवहितयोगेऽपि स निषेध इत्युक्तम् । अध । छान्दसो धकारः । स्म । चादिरनुदात्तः । संहितायां  निपातस्य च ' (पा. सू. ६. ३. १३६ ) इति दीर्घः । ददिः । ‘डुदाञ् दाने । **आदृगमहनजनः** किकिनौ लिट् च ' ( पा. सू. ३. २. १७१ ) इति किप्रत्ययः । लिड्वद्भावात् द्विर्वचनादि। ‘आतो लोप इटि च ' ( पा. सू. ६. ४. ६४ ) इति आकारलोपः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since Draviṇodas, we adore you for the fourth time (i.e. in four ṛks) along with the Ṛtu; therefore be a benefactor unto us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When we sacrifice to you, o Wealth-Giver, the fourth time by turns, then become a giver to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As we this fourth time, Wealth-giver, honour thee with the Rtus, be  
      A Giver bountiful to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir dir zum vierten Male nach den Zeiten opfern, du Reichtumgeber, so sei uns ein Schenker!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weil, Reichthumgeber, wir nach Brauch zum vierten male ehren dich, So sei ein reicher Geber uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда тебя в четвертый раз почитают  
 В положенное время, о даритель богатства,  

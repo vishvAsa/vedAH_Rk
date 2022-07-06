@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुवित꣡स्य मनामहे  
 अ꣡ति से꣡तुं दुरावि꣡यम्  
 साह्वां꣡सो द꣡स्युम् अव्रत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सा॒ह्वांसः॑ । दस्यु॑म् । अ॒व्र॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suvitasya* ← *suvita*
 - \[noun\], genitive, singular, neuter
@@ -72,20 +72,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सुवितस्य** । शोभनं प्राप्तः सुवितः । शोभनस्य सोमस्य **सेतुं** रक्षोविषयं बन्धनं **दुराव्यं** दुष्टमतिं च रक्षसां बन्धनं तेषां हननबुद्धिं च सोमकर्तृकाः **मनामहे** स्तुमः । कथं स्तुम इति तदुच्यते । **अव्रतम्** अकर्माणं **दस्युं** शत्रुं **साह्वांसः** अभिभवन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We praise the auspicious **Soma**'s imprisonment (of the **rākṣasas**) and hostile (intent against them), while we triumph over the enemy who performs no riteṣ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We will bring to mind the easy passage (of Soma), beyond the snare  difficult to navigate [=the curly fleece filter],  
 we having overcome the Dasyu who follows no commandment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was just noted, avratám in c suggests that this vs. belongs conceptually and rhetorically with vs. 1, because avratá- elsewhere qualifies those “with black skin.” However, as I also indicated ad vs. 1, I do not think vs. 2 is the main clause on which the rel.
 
@@ -106,23 +106,23 @@ These two vss. are somewhat illuminated by IX.73.4-5, containing some very simil
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Quelling the riteless Dasyu, may we think upon the bridge of bliss,  
      Leaving the bridge of woe behind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir gedenken der glücklichen Fahrt über den schwer zu nehmenden Damm, nachdem wir den unbotmäßigen Dasyu bezwungen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu überschreiten streben wir den unwegsamen Steg des Heils, Gottlosen Feind bewältigend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одолев дасью, не соблюдающего обетов,  
 Мы думаем о счастливом путешествии  

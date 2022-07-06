@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मख꣡स्य ते तविष꣡स्य प्र꣡ जूति꣡म्  
 इ꣡यर्मि वा꣡चम् अमृ꣡ताय भू꣡षन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विशां꣡ दइ꣡वीनाम् उत꣡ पूर्वया꣡वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ । क्षि॒ती॒नाम् । अ॒सि॒ । मानु॑षीणाम् । वि॒शाम् । दैवी॑नाम् । उ॒त । पू॒र्व॒ऽयावा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *makhasya* ← *makha*
 - \[noun\], genitive, singular, masculine
@@ -121,7 +121,7 @@ genre M
 हे इन्द्र भूषन् त्वामलङ्कुर्वन्नहं मखस्य महनीयस्य स्तुत्यस्य तविषस्य बलवतस्ते तव जूतिं मनसा प्रेरितां वाचं स्तुतिलक्षणाममृतायान्नार्थं प्रेयर्मि । प्रकर्षेणोच्चारयामि । मानुषीणां क्षितीनां मनोर्जातानां मनुष्याणां उत अपि च दैवीनां देवसम्बन्धीनीनां विशां प्रजानां पुर्वयावाग्रतो गन्तात्वमसि ॥ मखस्य । मह पूजायाम् । नहेर्हलोपश्च । उ. ५-२३ । इति हलोप इत्यनुवृत्तौ महेश्चेति खप्रत्ययो हलोपश्च । मह्यते पूज्यते सर्वैरिति मुखः । खान्तस्याश्मादेः । फि. १-६ । इत्यन्तोदात्तत्वम् । यद्यपि मकारादिर्भवति तथापि वचनसामर्थ्याद्भवति । तविषस्य । तवतेष्टिषच् प्रत्ययः । चित्स्वरः । जूतिम् । ऊतियूतीत्यादिनाक्तिन उदात्तत्वम् । इयर्मि । अर्तिर्जुहोत्यादिः । अर्तिपिपर्त्योश्चेत्यभ्यासस्येत्वम् । अभ्यासस्येतीयङादेशः । पादादित्वान्न निघातः । अभ्यस्तस्वरः । भूषन् । भूष आलङ्कार इत्यस्य शतरि रूपम् । शतुर्लसार्वधातुकस्वरे धातुस्वरः । असि । अस्तेर्लटि रूपम् । निघातः । मानुषीणाम् । मनोर्जातावित्यञ् । षुगागमः । टड्ढाणञिति ङेप् । ञित्त्वरः । दैवीनाम् । देवाद्यञञावित्यञ् । अत्रापि पूर्ववत् ङेप् । ञित्स्वरः । पुर्वयावा । या प्रापण इत्यस्मादतो मनिस्क्वनिब्वनिपश्चेति वनिप् । क्रुदुत्तरपदस्वरः ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,34 +132,34 @@ genre M
 The preceder of men: pūrvayāvā (yā prāpaṇe), agrato gantā, the goer before
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I rouse forth speech as a spur for you, the forceful combatant, exerting  myself for the immortal one.  
 Indra, you travel at the forefront of the peoples stemming from Manu  and of the divine clans.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have tr. the nominal phrase asi … pūrvayā́vā, which comes out rather stiffly in English (“you are the fore-traveler”), into a smoother verbal expression.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I stimulate thy zeal, the Strong, the Hero decking my song of praise forth; Immortal.  
      O Indra, thou art equally the Leader of heavenly hosts and human generations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Ansporn für dich, den Freigebigen, Starken lasse ich die Rede los, zum Empfang des Unsterblichen bereit. Indra, du bist der Anführer der menschlichen Völker und der göttlichen Stämme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir starkem Kämpfer reg' ich an den Eifer, bereitend dem Unsterblichen das Lobleid, Du Indra bist der Menschenstämme Führer und Führer auch der göttlichen Geschlechter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как поощрение тебе, воинственному, мощному,  
 Я посылаю речь, радея о бессмертии.  

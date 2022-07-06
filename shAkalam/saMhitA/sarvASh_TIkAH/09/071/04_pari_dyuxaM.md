@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि द्युक्षं꣡ स꣡हसः पर्वतावृ꣡धम्  
 म꣡ध्वः सिञ्चन्ति हर्मिय꣡स्य सक्ष꣡णिम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मूर्ध꣡ञ् छ्रीण꣡न्ति अग्रियं꣡ व꣡रीमभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । यस्मि॑न् । गावः॑ । सु॒हु॒त॒ऽआदः॑ । ऊध॑नि । मू॒र्धन् । श्री॒णन्ति॑ । अ॒ग्रि॒यम् । वरी॑मऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 **सहसः** सहस्विनः **मध्वः** मदकराः सोमाः **द्युक्षं** दीप्यमाने द्युलोके **क्षियन्तं** निवसन्तं **पर्वतावृधं** मेघानां पर्वतानां वा वर्धयितारं **हर्म्यस्य** शत्रुपुरस्य **सक्षणिम्** अभिभवितारमिन्द्रं **परि** **षिञ्चन्ति** । तथा **सुहुतादः** सुहुतानां हविषां भक्षयितारः **गावः** **मूर्धन्** मूर्धनि समुच्छ्रिते **ऊधनि** पयोधारके स्थाने स्थितम् **अग्रियं** मुख्यं पयः **वरीमभिः** उरुत्वैर्महत्त्वैः **यस्मिन्** पवमानगुणविशिष्ट इन्द्रे **आ** **श्रीणन्ति** आमिश्रयन्ति । दध्ना पयसा च सोमं श्रीणन्ति खलु । तदुच्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ Inwhom: Indra is here regarded as soma **pavamāna**;
 Varimabhiḥ = urutvair mahattvaiḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All around they sprinkle the heaven-ruling (son) of strength, of honey,  grown strong upon the mountain, the conqueror of the secure house, in whom, on whose head, the cows prepare the foremost (milk) in their  
 udder in broad (streams) for him who eats the good oblation [=Indra].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains two untethered genitives, sáhasaḥ and mádhvaḥ. The first of course evokes the common phrase sūnú- sáhasaḥ “son of strength,” and ‘son’ is easily supplied (see Oldenberg, Geldner n. 4a, etc.). mádhvaḥ is more problematic. In fact Geldner identifies it instead as a nom. pl. fem. (presumably to a stem
 
@@ -146,23 +146,23 @@ The second hemistich depicts a somewhat outlandish situation: cows preparing the
 On várīman- see disc. of párīman- in vs. 3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They pour out meath around the Master of the house, Celestial Strengthener of the mountain that gives might;  
      In whom, through his great powers, oblation-eating cows in their uplifted udder mix their choicest milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den himmlischen Sohn der Kraft, der auf dem Berge gewachsen ist, den Bezwinger des festen Hauses begießen die Süßen, auf dessen Haupt für den nur gute Opfer genießenden Indra die Kühe die vorzüglichste Milch in ihrem Euter in breiten Strömen beimischen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie giessen rings den himmlischen, der Berge liebt, den Freund der Kraft, der Süssigkeit, des Hauses aus; Wo an dem Euter Kühe rechte Opfer nehmend, ihn, den herrlichen, in Strömen salben an dem Haupt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Живущего на небе (сына) силы, растущего на горе,  
 (Волну) сладости они разливают (по цедилке), сокрушая крепости,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ मन्दानो꣡ म꣡ध्वो व꣡ज्रहस्तो  
 अ꣡हिम् इ꣡न्द्रो अर्णोवृ꣡तं वि꣡ वृश्चत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡यांसि च नदी꣡नां च꣡क्रमन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । यत् । वयः॑ । न । स्वस॑राणि । अच्छ॑ । प्रयां॑सि । च॒ । न॒दीना॑म् । चक्र॑मन्त ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
@@ -117,36 +117,36 @@ genre M
 अस्यमध्वः तृतीयार्थेषष्ठी अनेनमदकरेणसोमेनमन्दानोहृष्यम् वज्रहस्तः वज्रयुक्तोहस्तोयस्यस- इन्द्रः अर्णोवृतंउदकस्यावरकंउदकेनावृतंवा अहिंव्ऋत्रम्मेघंवाविवृश्चत् विशेषेणाच्छिन्त् ओव्रश्चूछेदने तौदादिकः लङि ग्रहिज्यादिनासम्प्रसारणम् किञ्च यद्यदाअहिभेदनेजाते नदीनाम्प्रयांसिप्रीणयितॄणिज- लानिअच्छसमुद्रमभिलक्ष्यप्रचक्रमन्त गन्तुमुपाक्रमन् तत्रदृष्टान्तः—वयोन यथापक्षिणः स्वसराणि सुष्ठुअर्यन्तेप्राप्यन्तेइतिस्वराणिस्वसराणि कुलायाः तानभिलक्ष्य गच्छन्तितद्वत् ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Exhilarated by the **Soma**, **Indra**, armed with the thunderbolt, severed the rain-confining cloud; whereupon the currents of the rivers proceeded (towards the ocean), like birds to their own nests.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming exhilarated from this honey, Indra with the mace in his hand  hewed apart the serpent blocking the flood,  
 so that the rivers’ pleasing offerings (of water) charged forth like birds  toward rich fields.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cheered by this meath Indra, whose hand wields thunder, rent piecemeal Ahi who barred up the waters,  
      So that the quickening currents of the rivers flowed forth like birds unto their resting-places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von diesem Süßtrank berauscht, zerhieb Indra mit der Keule in der Hand den die Flut versperrenden Drachen und machte, daß die Labsale der Flüsse dem Meere zueilten wie Vögel zu den Futterplätzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von diesem Meth berauscht zermalmte Indra, den Blitz im Arm, die Flut-umhüll'nde Schlange, Damit, wie Vögel zu den Nestern fliegen, der Ströme Labetränke vorwärts dringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьяненный этим сладким (соком), с ваджрой грома в руке  
 Индра разрубил змея, сковавшего течение,  

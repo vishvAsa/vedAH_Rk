@@ -6,7 +6,7 @@ ChandaH = "पुरस्ताद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡ह श्रुत꣡ इ꣡न्दरः+ क꣡स्मिन् अद्य꣡  
 ज꣡ने मित्रो꣡ न꣡ श्रूयते  
@@ -14,7 +14,7 @@ ChandaH = "पुरस्ताद्बृहती"
 गु꣡हा वा च꣡र्कृषे गिरा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ऋषी॑णाम् । वा॒ । यः । क्षये॑ । गुहा॑ । वा॒ । चर्कृ॑षे । गि॒रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kuha*
 - \[adverb\]
@@ -112,36 +112,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **अद्य** अस्मिन् दिने **इन्द्रः** **कुह** कुत्र स्थाने **श्रुतः** विश्रुतः प्रख्यातः । **कस्मिन्** **जने** यजमान इज्यत्वेन स्तुत्यत्वेनावस्थितः **श्रूयते** प्रख्यायते । तत्र दृष्टान्तः । **मित्रो** **न** सूर्य इव सखेव वा तद्वत् । **यः** इन्द्रः **ऋषीणां** भृग्वादीनां **क्षये** निवास आश्रमे **गुहा** **वा** गुहायामरण्ये वा **गिरा** स्तुतिलक्षणया वाचा चर्कृषे अत्यर्थमाकृष्यते । अत्यर्थं स्तूयत इत्यर्थः । स इन्द्रः कुह श्रुत इति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In what plural ce today is **Indra** renowned? In what nation is he famed like **Mitra**? (Indra), who isworshipper; or in secret = or, in the forest\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where is Indra famous? Among what people is he famed today like an  ally among the people?—  
 he who, whether in the dwelling place of the seers or in concealment, is  constantly celebrated in song.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHERE is famed Indra heard of? With what folk is he renowned to-day as Mitra is,-  
      Who in the home of Rsis and in secret is extolled with song?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo hat man von Indra gehört, bei welchem Volke läßt er heute wie ein Freund von sich hören? Der, ob er im Hause der Rishi´s, ob er verborgen ist, mit Lobrede gerühmt wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo ist der hehre Indra? und bei welchem Mann lässt er als Freund sich hören heut? Der in der Sänger weitem Sitz und einsam auch besungen wird?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где слышно об Индре? Среди какого народа  
 Сегодня он известен как друг,  

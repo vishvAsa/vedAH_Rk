@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कू꣡चिज् जायते स꣡नयासु न꣡व्यो  
 व꣡ने तस्थौ पलितो꣡ धूम꣡केतुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡चेतसो य꣡म् प्रण꣡यन्त म꣡र्ताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्ना॒ता । आपः॑ । वृ॒ष॒भः । न । प्र । वे॒ति॒ । सऽचे॑तसः । यम् । प्र॒ऽनय॑न्त । मर्ताः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kūcij* ← *kūcid*
 - \[adverb\]
@@ -122,36 +122,36 @@ genre M
 **नव्यः** नवतरः स्तुत्यो वाग्निः **कूचित्** क्वचित् प्रदेशे **जायते** । कुत्र। **सनयासु** पुराणीषु जीर्णास्वोषधीष्वरण्योः । तथा **पलितः** पालयिता श्वेतवर्णः **धूमकेतुः** धूमप्रज्ञानोऽग्निः वने सर्वस्मिन्नरण्ये **तस्थौ** तिष्ठति । यद्वा । वन उदके मेघगते विद्युदात्मना तिष्ठति च । **अस्नाता** स्नानमकुर्वन्ननपेक्षितस्नानः सर्वदा शुद्धः सोऽग्निः **आपः** । सुब्व्यत्ययः । अप उदकानि शान्त्यर्थं **प्र** **वेति** प्रगच्छति । तत्र दृष्टान्तः । **वृषभो** **न** । यथा वृषभस्तृष्णोपशमनार्थमरण्यमध्यस्थान्युकानि प्रगच्छति तद्वत् । **मर्ताः** मनुष्या ऋत्विजः सचेतसः समानमनस्काः समानप्रज्ञानाः सन्तः **यम्** अग्निं **प्रणयन्त** हविर्भिः प्रीणयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where is the new (**Agni**) born? He is present in the old (plural nt) and in the wood, grey-haired,smoke-bannered; though not needing ablution, he hastens to the water like a (thirsty) bull, he whom men withone consent propitiate.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wherever it may be, he is born anew among the old ones. He stands in  the wood—a grey one with a banner of smoke.  
 Although no swimmer, he pursues the waters like a bull—he whom the  mortals, of one mind, lead forward.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He rises ever fresh in ancient fuel: smoke-bannered, gray, he makes the wood his dwelling.  
      No swimmer, Steer, he presses through the waters, and to his place accordant mortals bear him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo es auch sei, er wird aus den Alten aufs neue geboren; im Holze steht der Ergraute mit dem Rauche als Fahne. Ein Nichtschwimmer geht er wie der Bulle auf das Wasser los, den die Menschen einmütig zum Altar hingeleiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stets wird er neu geboren in den alten, von Rauch umwallt und grau stand auf dem Holz er; Ins Wasser geht er unbenetzt dem Stier gleich, er, den die weisen Männer vorwärts führen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Повсюду рождается он в старых (кусках дерева) снова.  
 Он пребывает в дереве – седой, со знаменем-дымом.  

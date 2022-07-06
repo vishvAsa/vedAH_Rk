@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्म꣡भ्यं सु꣡ वृषण्वसू  
 यातं꣡ वर्ति꣡र् नृपा꣡यियम्  
 विषुद्रु꣡हेव यज्ञ꣡म् ऊहथुर् गिरा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वि॒षु॒द्रुहा॑ऽइव । य॒ज्ञम् । ऊ॒ह॒थुः॒ । गि॒रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
@@ -93,7 +93,7 @@ genre M
 हे **वृषण्वसू** वर्षणशीलधनवन्ताश्विनौ **अस्मभ्यम्** अस्मदर्थं **नृपाय्यं** नेतृभ्यां पातव्यं सोमं प्रति **वर्तिः** अस्मदीयं गृहं प्रति **सु** **यातं** युवां सुष्ठु आयातम् । **गिरा** स्तुतिलक्षणया वाचा युवां **यज्ञमूहथुः** मनुष्येषु यज्ञसमाप्तिं प्रापयथः । तत्र दृष्टान्तः। **विषुद्रुहेव** । ‘द्रुह जिघांसायाम् । विश्वान् हिनस्ति शत्रूनिति विशुद्रुहः शरः । तेन यथा व्याधो मृगमभिलषितं देशं प्रापयति तद्वत् स्तुत्या यज्ञमवैकल्येन समाप्तिं प्रापयथ इत्यर्थः ॥ ॥ २८ ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,35 +104,35 @@ genre M
 Slays the deer:viṣudruheva = viśvān hinasti śatrūn iti, **śaraḥ**; the allusion: tena (viśudruha) yathā vyādho mṛgamabhilaṣitam deśam prāpayati **tadvat** stutyā yajñam avaikalyena samāptim prāpayathaḥ, as a hunter by anarrow brings the deer to the desired spot (to its destination?), so you by praise, cause the sacrifice to attaincompletion
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For us drive your circuit protective of men, you who bring  
 bullish goods.  
 As if mounting (a chariot) facing many directions, you have conveyed  the sacrifice with our hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 viṣudrúheva (that is, -ā+iva) is quite problematic. Geldner refuses to tr., as does Scarlatta (245-46), though by classing it with -druh-compounds, he indicates a root affiliation. Acdg. to Renou, it’s the equivalent of *druhó viśuvṛ́t “opposé au Mal” or “qui met le Mal en déroute”; somewhat sim. Kümmel 484 “Wie die nach verschiedenen Seiten Trügenden (?).” What all these suggestions have in common is the assumption that the 2nd member belong to √druh ‘deceive’. I suggest a different analysis, viṣud-rúh-, where the 2nd member is the root noun to √ruh ‘mount’, and the first (viṣud-) is a deformed version of the already deformed adverb viṣvadryàk ‘facing in different directions’, with the complex adverbial suffix found also in asmadryàk ‘facing towards us’. The empty -d- (/-t-) has been suffixed to the combining form viṣu- (/viṣū) underlying the adjective víṣvañc- ‘facing in different directions’. For the suggested phrase, cf. IX.75.1 ráthaṃ víṣvañcam aruhat “he mounted the chariot that faces in different directons” (with √ruh) and, with semantically related √yuj and horses not chariot, VI.59.5 víṣūco áśvān yuyujāná īyate; X.79.7 víṣūco áśvān yuyuje vanejā́ḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us ye who pour down wealth, come to the home which men must guard:  
      Like shafts, ye are made meet for sacrifice by song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für uns machet fein eure männerschützende Umfahrt, ihr Schatzreichen! Ihr seid von jeher mit dem Lobliede zum Opfer gefahren wie ......
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O gehet, heldenstarke ihr, um unsern Hof, der Männer schützt, Zum Opfer fuhrt ihr auf dem Lied wie auf dem Kahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для нас, о обладатели мощного богатства,  
 Прекрасно совершите объезд, охраняющий мужей!  

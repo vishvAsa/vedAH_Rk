@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पदे꣡-पदे मे जरिमा꣡ नि꣡ धायि  
 व꣡रूत्री वा शक्रा꣡ या꣡ पायु꣡भिश् च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्म꣡त् सूरि꣡भिर् ऋजुह꣡स्त र्जुव꣡निः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सिस॑क्तु । मा॒ता । म॒ही । र॒सा । नः॒ । स्मत् । सू॒रिऽभिः॑ । ऋ॒जु॒ऽहस्ता॑ । ऋ॒जु॒ऽवनिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pade* ← *pada*
 - \[noun\], locative, singular, neuter
@@ -140,7 +140,7 @@ genre M
 **जरिमा** स्तुतिः **मे** मदीया **पदेपदे** तदा तदा भूमौ **नि** **धायि** निधीयते स्थाप्यते क्रियत इत्यर्थः । **या** **च** **शक्रा** शक्ता सती **पायुभिः** रक्षणैः **वरूत्री** अस्मदुपद्रववारयित्री भवति । वाशब्दश्चार्थे । **माता** सर्वस्य निर्मात्री **मही** महती पूज्या **रसा** सारभूता भूमिः **सिषक्तु** सेवतां  **नः** अस्माकं स्तुतिम् । अथवा स्तुता नः अस्मान् सिषक्तु । स्मच्छब्दः प्रशस्तवचनः । प्रशस्तैः **सूरिभिः** । **मेधाविभिः** स्तोतृभिर्निमित्तैः । तेषां परिचर्यया प्रीतेत्यर्थः । **ऋजुहस्ता** अस्मदनुकूलहस्ता **ऋजुवनिः** कल्याणदाना भवतु ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,13 +151,13 @@ genre M
 As a protectress: **varūtrī** = **asmad** upadravavarayitrī, what or who keeps off oppression upon us
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Step after step old age has been secured for me, either (by her) who is  the able Shielding Goddess or by the protectors.  
 Let the mother, the great Rasā, accompany us along with our patrons,  she with hands outstretched, with winnings outstretched.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The action in pāda a is a positive one: the speaker is assured to make it to old age. See 17de and disc. there, as well as X.59.4, which will be disc. further below.
 
@@ -168,23 +168,23 @@ cl. member first: “(by her) who is … and by the protectors.” Moreover, it 
 On the connection between cd and vss. 19-20 see disc. below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Duly to each one hath my laud been offered. Strong be Varutri with her powers to succour.  
      May the great Mother Rasa here befriend us, straight-handed, with the princes, striving forward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf Schritt und Tritt sei mir das Alter sichergestellt, sei es durch die mächtige Varutri und durch die Schutzgeister. Es sollen uns samt den Lohnherren die große Mutter Rasa zur Seite stehen, die eine redliche Hand hat, die redlichen Gewinn bringt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bewahrt sei Schritt für Schritt mein Lebensalter; die Schirmerin sei stark mit ihren Hütern; Es sei uns hold die Flut, die grosse Mutter, die mit den Fürsten Hand ausstreckend vordringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть шаг за шагом складывается моя старость –  
 (Сделает ли это) могучая Варутри или (это произойдет) с помощью защитников!  

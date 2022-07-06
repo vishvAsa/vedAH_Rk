@@ -8,7 +8,7 @@ title = "+078"
 ‘ पुरोळाशं नः' इति दशर्चं नवमं सूक्तं काण्वस्य कुरुसुतेरार्षम् । आद्या नव गायत्र्यो दशमी बृहती । इन्द्रो देवता । तथा चानुक्रान्तं-' पुरोळाशं दश बृहत्यन्तम्' इति । सूक्तविनियोगो लैङ्गिकः । महाव्रते निष्केवल्ये गायत्रतृचाशीतावाद्यास्तिस्र ऋचः । तथा च सूत्रितं - ' पुरोळाशं नो अन्धस इति तिस्रः ' ( ऐ. आ. ५. २. ३ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 78 (687)  
 Indra  
@@ -18,7 +18,7 @@ This hymn is all about greed. The first tr̥ca (vss. 1–3) barely mentions the 
 The middle tr̥ca (vss. 4–6) contrasts somewhat with its surroundings. Though  the greed motif is found in verse 4, it is expressed in terms of Indra’s unique pow ers to increase wealth, to win goods, and to give them. The rhetorical pattern set  in this verse carries into the following verses, where the description of the god’s  powers becomes more general. However, the theme of the rest of the hymn is not  far from the surface, for Indra’s ability to see and to anticipate everything a mortal  might do would allow him to identify proper recipients and deny gifts to those who  behave badly.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

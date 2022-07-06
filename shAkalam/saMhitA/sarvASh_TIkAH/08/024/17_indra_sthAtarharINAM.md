@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र स्थातर् हरीणां᳐  
 न꣡किष् टे पूर्विय꣡स्तुतिम्  
 उ꣡द् आनंश · श꣡वसा न꣡ भन्द꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 उत् । आ॒नं॒श॒ । शव॑सा । न । भ॒न्दना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -88,7 +88,7 @@ genre M
 हे **हरीणां** **स्थातः** अश्वानामधिष्ठातः **इन्द्र** **ते** त्वदीयां **पूर्व्यस्तुतिं** पूर्वैर्ऋषिभिः कृतां स्तुतिम्। उपलक्षणमेतत् । इदानींतनैः क्रियमाणामपि स्तुतिं **नकिः** न कश्चित् **शवसा** बलेन **उदानंश** व्याप्नोति । 'अशू व्याप्तौ । लिटि ‘अश्नोतेश्च' इति नुट् । छान्दसो मुम् । कश्चिन्नातिक्रामतीत्यर्थः । किंच **भन्दना** सर्वैः प्रार्थनीयत्वात् पूजनीयेन धनेन स्तुत्या वा त्वदीयां स्तुतिं न कश्चिदतिक्रामति । त्वत्तो बलवान् धनी स्तुत्यो वान्यो नास्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ genre M
 None ismightier or more praiseworthy (or richer) than you
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, mounter of the fallow bays, none has reached up to your  foremost praise hymn  
 in swelling strength nor in favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, whom Tawny Coursers bear, praise such as thine, preeminent,  
      None by his power or by his goodness hath attained.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, Lenker der Falben, keiner hat dein an der Spitze stehendes Lob an Macht und löblichem Werke je erreicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Füchse Lenker, Indra du! niemand hat deinen alten Ruhm Jemals durch Stärke oder Herrlichkeit erreicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, правящий булаными конями,  
 Никто не сравнился с твоей  

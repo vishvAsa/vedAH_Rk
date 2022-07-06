@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ पिब क्षुम꣡तः प्र꣡स्थितस्य  
 इ꣡न्द्र सो꣡मस्य व꣡रम् आ꣡ सुत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अर्वाचीनो꣡ रेव꣡ते सउ꣡भगाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स्व॒स्ति॒ऽदाः । मन॑सा । मा॒द॒य॒स्व॒ । अ॒र्वा॒ची॒नः । रे॒वते॑ । सौभ॑गाय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -107,36 +107,36 @@ genre M
 हे **इन्द्र** **क्षुमतः** स्तुतियुक्तस्य यद्वा हवीरूपान्नवतः **प्रस्थितस्य** हविर्धानादुत्तरवेदिं प्रति प्रस्थापितस्य **सुतस्य** अभिषुतस्य **अस्य** **सोमस्य** **वरं** वरणीयं त्वदीयं भागम् **आ** आभिमुख्येन **पिब** ॥ प्रस्थितस्य । तिष्ठतेः कर्मणि निष्ठा ।  ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । ततः **स्वस्तिदाः** कल्याणस्य दाता त्वं **मनसा** अन्तःकरणेन **मादयस्व** हृष्टो भव । यद्वा । अस्मानपि हृष्टान् कुरु। तदेवोच्यते । **रेवते** धनवते सौभगाय सौभाग्याय तदस्मभ्यं दातुम् अर्वाचीनः अभिमुखाञ्चनो भव ॥  ‘ विभाषाञ्चेरदिक्स्त्रियाम्' इति खः । रयिशब्दात मतुपः  ‘ छन्दसीरः । इति वत्वम् ।  ‘ रयेर्मतौ बहुलम्' इति संप्रसारणम् । पूर्वरूपत्वे गुणः । सौभगाय । उद्गात्रादिषु सुभगमन्त्र इति पठ्यते । तस्योत्तरपदस्य ‘ हृद्भग° ' इति वृद्धिर्नेष्यते सर्वविधीनां छन्दसि विकल्पितत्वात् । ञित्स्वरेणाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink, **Indra**, your excellent portion of this renowned **Soma** effused and poured forth; the giver ofprosperity, be delighted in your mind, (be) turned towards us to bestow riches and happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink of this pressed soma, presented along with the (sacrificial)  animals, according to your wish, Indra.  
 Giving well-being, bring yourself to exhilaration in your mind, being  inclined our way for our rich good fortune.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink of the foodful juice stirred into motion, drink what thou choosest of the flowing Soma.  
      Giver of weal, be joyful in thy spirit, and turn thee hitherward to bless and prosper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trinke von ihm, der dir nebst einem Opfertier vorgesetzt ist, von dem ausgepreßten Soma nach Belieben, Indra! Glückspendend ergötze dich in deinem Sinne, zu reicher Gunst geneigt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom dargebotnen trink, dem nahrungsreichen, nach Lust, o Indra, vom gebrauten Soma; Berausche dich, von Herzen Segen spendend, hierher gewandt zu reichem hohen Glücke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей этого предложенного (тебе) вместе с (жертвенным) животным  
 Выжатого сому, о Индра, сколько хочешь!  

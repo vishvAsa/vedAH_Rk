@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअ꣡श्वा यश꣡सा आ꣡ यातम् अर्वा꣡ग्  
 द꣡स्रा निधि꣡म् म꣡धुमन्तम् पिबाथः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡न्तान् दिवो꣡ बाधते वर्तनि꣡भ्याम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । वा॒म् । रथः॑ । व॒ध्वा॑ । याद॑मानः । अन्ता॑न् । दि॒वः । बा॒ध॒ते॒ । व॒र्त॒निऽभ्या॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svaśvā* ← *su*
 - \[adverb\]
@@ -116,36 +116,36 @@ genre M
 हे देवौ **स्वश्वा** शोभनाश्वेन **यशसा** च **अर्वाक्** अस्मदभिमुखं **यातम्** आगच्छतम् । हे **दस्रा** शत्रूणामुपक्षपयितारौ **मधुमन्तं** मधुररसोपेतं **निधिं** निधिवन्निहितं सोमं **पिबाथः** पिबतम् । **वां** युवयोः **रथः** **वध्वा** सूर्यया सह **यादमानः** गन्तव्यान् प्रति गच्छन् । गमयन्नित्यर्थः । एवं कुर्वन् **वर्तनिभ्यां** स्वचक्राभ्यां **दिवः** **अन्तान्** पर्यन्तप्रदेशान् बाधते शीघ्रगमनेन पीडयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Well-horsed and celebrated, come, **Aśvins**, to our presence; drink, **Dasras**, the sweet plural dge; yourchariot, conveying you, with your spouse, furrows with its two wheels the extremities of the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two glorious ones possessing good horses—journey this way. O  wondrous ones, you will drink the honeyed treasure.  
 Clasping the bride to itself, your chariot presses upon the boundaries of  heaven with its tracks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Renowned, with noble horses, come ye hither: drink, Wondrous Pair, the cup that holds sweet juices.  
      Your car whereon your Spouse is wont to travel marks with its track the farthest ends of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohlberitten, angesehen kommt heran; ihr Meister sollt die süße Auftischung trinken! Euer Wagen, der von der jungen Frau begleitet wird, drängt durch beide Radspuren die Enden des Himmels auseinander.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O kommt herbei auf schönen Rossen herrlich, geniesst das süsse Mahl, ihr wunderthät'gen; Der Wagen, der mit eurer Gattin hinfährt, berührt des Himmels Enden mit den Rädern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С прекрасными конями, видные, приезжайте в наши края!  
 О чудесные, пусть вы пьете медовое угощение!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपो꣡ मही꣡र् अभि꣡शस्तेर् अमुञ्चो  
 अ꣡जागर् आसु अ꣡धि देव꣡ ए꣡कः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡भिर् विश्वा꣡युस् तनु꣡वम् पुपुष्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ । याः । त्वम् । वृ॒त्र॒ऽतूर्ये॑ । च॒कर्थ॑ । ताभिः॑ । वि॒श्वऽआ॑युः । त॒न्व॑म् । पु॒पु॒ष्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, neuter
@@ -130,7 +130,7 @@ genre M
 हे इन्द्र **महीः** महतीः **अपः** उदकानि **अभिशस्तेः** अभिशंसकाद्वृत्रात् **अमुञ्चः** । **आसु** मुक्तास्वप्सु **देवः** त्वम् **एकः** एक एव असहायः सन् **अधि** अजागः अप्रमत्तो भवसि । यद्वा । अधीति सप्तम्यर्थानुवादी । हे **इन्द्र** **त्वं** **याः** अपः **वृत्रतूर्ये** वृत्रहत्याय मेघहनने चकर्थ करोषि **ताभिः** अद्भिः **विश्वाभिः** सर्वाभिः त्वं तनुं स्वकीयं शरीरं पुपुष्याः पोषयेः । ‘पुष पुष्टौ' इत्यस्य व्यत्ययेन श्लुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 All-vivifying: **viśvāyuḥ** = viśvābhiḥ, with all those waters which...
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You freed the great waters from their curse, and you, the god, alone  kept watch over them.  
 Indra, those (waters) that you made at the overcoming of Vr̥tra, with  these you should thrive in body throughout a whole lifetime.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou from the curse didst free the mighty Waters, and as their only God didst watch and guard them.  
      O Indra, cherish evermore thy body with those which thou hast won in quelling Vrtra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast die großen Gewässer von der Schmach erlöst; als einziger Gott hast du über sie gewacht. Die du, Indra, im Vritrakampf gewonnen hast, durch sie sollst du lebenslänglich deinen Leib pflegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die grossen Wasser löstest du vom Fluche, du warst der einz'ge Gott, der sie bewachte; Die, Indra, du beim Vritrakampf dir schafftest; durch die lass blühen deinen Leib allnährend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

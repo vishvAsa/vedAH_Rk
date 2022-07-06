@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विदा꣡ देवा अघा꣡ना᳐म्  
 आ꣡दित्यासो अपा꣡कृतिम्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M;; repeated line
 प॒क्षा । वयः॑ । यथा॑ । उ॒परि॑ । वि । अ॒स्मे इति॑ । शर्म॑ । य॒च्छ॒त॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidā* ← *vida* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -128,37 +128,37 @@ genre M;; repeated line
 हे **देवाः** **आदित्यासः** आदित्याः यूयम् **अघानां** दुःखानाम् **अपाकृतिम्** अपाकरणं परिहारप्रकारं **विद** जानीथ। यस्मादेवं तस्मात् **वयः** पक्षिणः **यथा** पक्षा पक्षौ उपरि स्वशिशुकानामुपरि कुर्वन्ति सुखाय तद्वत् **अस्मे** अधि अस्मासु **शर्म** सुखं यच्छत कुरुत । अधीति सप्तम्यर्थानुवादी । अस्मे अस्माकमुपरीति वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Ādityas**, you know the averting of evils; as birds (spread) their wings over (their) young, grantus happiness; your aids are void of harm, your aids are true aids.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You know how to make evils stay away, o gods, o Ādityas.  
 Like birds their wings, spread your shelter out above us.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Gods, Adityas, well ye know the way to keep all woes afar.  
      As the birds spread their sheltering wings, spread your protection over us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter Aditya´s wisset die Übel zu bannen. Wie Vögel die Flügel breitet über uns euren Schirm aus! - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr, o Aditja's, kennet ja der Uebel Abwehr, göttliche, O breitet über uns den Schutz, wie Vögel ihrer Flügel Paar; ganz unvergleichlich ist eur Schutz, und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы знаете, о боги Адитьи,  
 Как прогонять злые силы.  

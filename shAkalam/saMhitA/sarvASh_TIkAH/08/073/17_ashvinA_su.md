@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अश्वि꣡ना सु꣡ विचा꣡कशद्  
 वृक्ष꣡म् परशुमाँ꣡ इव  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
@@ -85,35 +85,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **सु** **विचाकशत्** अत्यन्तं दीप्यमानः सूर्योऽग्निर्वा **वृक्षं** **परशुमानिव** स यथा शकलयति तद्वत्तमो निशारयतीति शेषः । दृष्टान्तसामर्थ्यादेवं लभ्यते । यस्मादेवं तस्मात् **अश्विना** अश्विनावाह्वय इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, the splendidly-brilliant (sun cleaves the darkness) as the woodman with his axe a tree; let yourprotection abide near me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Looking hard at the Aśvins, as a man with a hatchet does a tree— – Let the help of your two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He looked upon the Asvins, as an axearmed man upon a tree:  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach den Asvin fein ausschauend wie der Mann mit der Axt nach einem passenden Baum, - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er [der Dämon] blickte auf die Ritter hin, wie auf den Baum der Mann der die Axt hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Внимательно разглядывая Ашвинов,  
 Словно человек с топором – дерево, –  

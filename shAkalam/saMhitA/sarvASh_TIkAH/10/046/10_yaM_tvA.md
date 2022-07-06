@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ त्वा देवा꣡ दधिरे꣡ हव्यवा꣡हम्  
 पुरुस्पृ꣡हो मा꣡नुषासो य꣡जत्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ देवय꣡न् यश꣡सः सं꣡ हि꣡ पूर्वीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । याम॑न् । अ॒ग्ने॒ । स्तु॒व॒ते । वयः॑ । धाः॒ । प्र । दे॒व॒ऽयन् । य॒शसः॑ । सम् । हि । पू॒र्वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -133,36 +133,36 @@ genre M
 हे अग्ने **हव्यवाहं** **यं** **त्वा** त्वां **देवा** **दधिरे** धारितवन्तः **मानुषासः** मनुष्याश्च **पुरुस्पृहः** बहुकामान् स्पृहयन्तः **यजत्रं** यष्टव्यं **दधिरे** धारितवन्तः हे **अग्ने** **सः** त्वं **यामन्** यामनि यज्ञे **स्तुवते** मह्यं **वयः** अन्नं **धाः** देहि । हे अग्ने त्वत्तः **देवयन्** देवकामो यजमानः **पूर्वीः** बह्वीः बहूनि **यशसः** यशांसि । **सं** **हि** इत्युपसर्गश्रुतेर्योग्यक्रियाध्याहारः। संप्राप्नोति खलु ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, whom the gods appointed as the bearer of oblations, whom men, desiring manifold blessings,regard as the object of worship; do you, **Agni**, bestow food upon him who praises you at the sacrifice; for thedevout worshipper verily obtains great renown.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You whom the gods established as conveyor of the oblation, whom the  sons of Manu, craving much, established as means of sacrifice,  
 o Agni, establish vital power for the praiser on your course. One who  seeks the gods ad(vances), for glory gets the girls.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, whom Gods have made oblationbearer, and much-desiring men regard as holy,  
      Give life to him who lauds thee when he worships, and then shall glorious men in troops adore thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, den die Götter zu ihrem Opferfahrer bestimmten, die vielbegehrenden Menschen zu ihrem Anbetungswürdigen machten, du, Agni, sollst bei deinem Kommen dem Sänger Kraft verleihen. Der Gottergebene soll den Vorrang haben, denn einem Geehrten werden viel Kühe zuteil.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Götter sich zum Opferfahrer machten, zum Opferherrn die Menschen viel begehrend, Gib, Agni, Kraft dem, der dich preist beim Feste; denn vieles schöne reicht dir auch der Fromme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты,) кого боги поставили возницей жертв,  
 (А) люди, желающие многого, (сделали) достойным жертв,  

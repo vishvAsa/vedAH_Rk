@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्ये꣡ जाया꣡म् प꣡रि मृशन्ति अस्य  
 य꣡स्या꣡गृधद् वे꣡दने वाजी꣡ अक्षः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ जानीमो न꣡यता बद्ध꣡म् एत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पि॒ता । मा॒ता । भ्रात॑रः । ए॒न॒म् । आ॒हुः॒ । न । जा॒नी॒मः॒ । नय॑त । ब॒द्धम् । ए॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anye* ← *anya*
 - \[noun\], nominative, plural, masculine
@@ -133,7 +133,7 @@ popular
 **यस्य** कितवस्य **वेदने** धने **वाजी** बलवान् **अक्ष:** देवः **अगृधत्** अभिकाङ्क्षां करोति तस्य **अस्य** कितवस्य **जायां** भार्याम् **अन्ये** प्रतिकितवाः **परि** **मृशन्ति** वस्त्रकेशाद्याकर्षणेन संस्पृशन्ति । किंच **पिता** जननी च **भ्रातरः** सहोदरश्च **एनं** कितवम् **आहुः** वदन्ति । **न** वयमस्मदीयमेनं **जानीमः** । रज्ज्वा **बद्धमेतं** कितवं हे कितवाः यूयं **नयत** यथेष्टदेशं प्रापयतेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,34 +144,34 @@ popular
 Touch the wife: parimṛśanti: they drag her by her clothesor her hair
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Others fondle the wife of a man whose possessions the die with eyes on  the prize has hungered for.  
 Father, mother, brothers say about him, “We do not know him; lead  him away bound.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Others embrace the wife of him whose riches the victorious dice have coveted:  
      Father and mother and brothers say about him [to the landlord's men]: "We know him not: tie him up and take him away."
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Others embrace the wife of him whose chattels The eager dice have striven hard to capture; And father, mother, brothers say about him: "We know him not; lead him away a captive."
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Andere vergreifen sich an dessen Weibe, nach wessen Habe der beutemachende Würfel Begehren trägt. Vater, Mutter und Brüder sagen von ihm: Wir kennen ihn nicht, führet ihn gefesselt fort!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von andern wird umarmt des Spielers Gattin, nach dessen Gut der rasche Würfel trachtet; Und Vater, Mutter und die Brüder sagen: Wir kennen nicht ihn, führt ihn fort gebunden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Другие ласкают жену того,  
 На чье имущество накинулась стремительная игральная кость.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सीम् अरोहत् सुय꣡मा भ꣡वन्तीः  
 प꣡तिश् चिकित्वा꣡न् रयिवि꣡द् रयीणा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ अवासयत् पुरुध꣡प्रतीकः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । नील॑ऽपृष्ठः । अ॒त॒सस्य॑ । धा॒सेः । ताः । अ॒वा॒स॒य॒त् । पु॒रु॒धऽप्र॑तीकः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 रयीणां रयिवित् धानानां मध्ये विशिष्ट धनस्य सम्भयिता चिकित्वान् ज्ञानवान् पतिरश्वानां पतिरग्निः सीं सर्वतः सुयमाण् सुखेन नियन्तुं शक्या भवन्तीर्यावडवा आरोहत् आरोहयति स्म नीलपृष्ठः पुरुधप्रतीको बहुधाविक्षिप्ताङ्गः सोऽग्निरतसस्य सततगमनस्य धासेः पोषणार्थं ता अश्वाः प्रावासयत् । प्रकर्षेण वासयति स्म । निवासेन शरमेऽपनीते सततगमनं पोषयितुं शक्यमित्यर्थः ॥ सीम् । जादयोऽनुदात्ता इत्यनुदात्तः । आरोहत् रुह प्रादुर्भावे । लङ् रूपम् । निघातः सुयमाः । यम उपरमे । अस्माच्छक्यार्थ ईषद्दुसुष्विति खल् । कृदुत्तरपदप्रकृतिस्वरत्वम् । पति । पा रक्षणे । पातेर्डतिरिति डित्त्वाट्टिलोपः प्रत्ययस्वरः । चिकित्वान् । चिति सञ्ज्ञाने । क्वसौ रूपम् । रयिवित् । विद्लृलाभे क्विप् । रयीणां नामन्यतरस्यामिति विभक्तेरुदात्तत्वम् । नीलपृष्ठः । नीलशब्दो वृषादित्वादाद्युदात्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अतसस्य । अत सातत्यगमन इत्यस्मादत्यविचमितमिनमिरभिलभिनभितपिपतिपनिपणिमहिभ्यः । उ-११२ । इत्यसच् । चित्स्वरः । अवासयत् । वस निवासे । हेतुमतीति णिच् । लुङ् लृङ् क्ष्वडित्यडागमः । तिङ्ग तिङ इति निघतः । पुरुधप्रतीकः । पुशब्द इह सङ्ख्यावाची । सङ्ख्याया विधार्थे धेति धाप्रत्ययः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । ह्रस्वश्छान्दसः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,34 +137,34 @@ genre M
 Atasasya dhāseḥ = śatata gamanasya poṣanārtham, for the sake of cherishing of the perpetual going
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He mounted upon them that become easy to guide as their watchful  lord and as the wealth-finder of wealth.  
 The blue-backed (Agni), whose faces are manyfold, made them dwell  apart from the wellspring of the brushwood.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise Master, wealthy finder-out of riches, he mounted those who may with case be guided.  
      He, dark-backed, manifold with varied aspect, hath made them burst forth from their food the brush-wood.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He has mounted the (mares) 1 that became well-manageable, the wise lord, the finder of riches. He with the dark blue back, with many faces, has made them depart from the drink of the brush-wood 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er bestieg sie, die leicht zu lenken sind, der kundige Herr Gemahl, der Finder der Reichtümer. Der Dunkelrückige trieb sie aus dem Sitze des dürren Holzes fort, der vielerlei Gesichter hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es bestieg sie [die Somaströme], die leicht zu lenken waren, der weise Herr der Schätze schatzbesitzend, von der Stätte des Buschwerks fern liess er sie weilen [d. h. (wenn die -Lesart richtig ist) er liess die Somaströme fern von der Stätte, wo die Holz- stösse aufgerichtet sind, zu den Göttern dringen], er, der viel- gestaltige, dessen Kücken schwarz ist [vom Rauche].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он взобрался на них, оказавшихся податливыми,  
 Умелый муж, находящий богатство среди богатств.  

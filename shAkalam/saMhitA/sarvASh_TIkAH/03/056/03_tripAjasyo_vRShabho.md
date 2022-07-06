@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिपाजस्यो꣡ वृषभो꣡ विश्व꣡रूप  
 उत꣡ त्रिउधा꣡ पुरुध꣡ प्रजा꣡वान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ रेतोधा꣡ वृषभः꣡ श꣡श्वतीनाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्रि॒ऽअ॒नी॒कः । प॒त्य॒ते॒ । माहि॑नऽवान् । सः । रे॒तः॒ऽधाः । वृ॒ष॒भः । शश्व॑तीनाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tripājasyo* ← *tri*
 - \[noun\]
@@ -118,7 +118,7 @@ genre M
 **त्रिपाजस्यः** ग्रीष्मवर्षांहेमन्ताख्यैस्त्रिभिर्ऋतुभिः पाजस्यमुरो यस्य स त्रिपाजस्यः । त्र्युरस्क इत्यर्थः । उरोवचनश्च पाजस्यशब्दः । ‘इन्द्रस्य क्रोडोऽदित्यै पाजस्यम्' ( वा. सं. २५. ८) इति अश्वमेधमन्त्रे उरःपरतयाम्नानात् , पाजसि बले साधुरिति व्युत्पत्तेश्च सर्वेषामङ्गानां मध्ये उरसो बलवत्त्वात् । **वृषभः** स्वावयवभूते वर्षर्तौ अपां वर्षकः **विश्वरूपः** तत्तदृत्वसाधारणकार्यैः पुष्पविकासादिभिर्लिङ्गैर्नानारूपः **उत** अपि च **त्र्युधा** । वसंतशरद्धेमन्ताख्यैस्त्रिभिर्ऋतुभिरूधो यस्य स त्र्युधा । **प्रजावान्** । प्रकर्षेण जायन्त इति व्रीह्यादयः प्रजाः । **पुरुध** नानाप्रकारेण विद्यमानव्रीहियवादिरूपप्रजावान्। किंच **त्र्यनीकः** त्रिभिरुष्णवर्षशीताख्यैः अनीकैः गुणैरुपेतः **माहिनावान्** महत्त्ववान् संवत्सराभिमानी देवः **पत्यते** आगच्छति। **वृषभः** सेचनसमर्थः **सः** संवत्सरः **शश्वतीनां** बह्वीनाम् ओषधीनां पुष्पफलादिसंपत्तये **रेतोधाः** रेतस उदकस्य धर्ता भवति ॥ त्र्युधा । बहुव्रीहौ  ‘ ऊधसोऽनङ्' इति अनङ् सर्वविधीनां छन्दसि विकल्पितत्वात् पुंस्यपि भवति । ऊकारस्य ह्रस्वश्छान्दसः । ‘उत्तरपदान्तोदात्तप्रकरणे त्रिचक्रादीनां छन्दस्युपसंख्यानम् ' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 Three-breasted: thatis, as subsequently specified, the year, person nified; the number three, repeatedly mentioned, is said to apply to the seasons of the year, reduced from the usual number of six to three, the hot, rainy, and cold, by merging into them, severally, the vernal, autumnal, and dewy.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull of all forms [=Tvaṣṭar?] has three groins and three udders, with  offspring in great quantity;  
 having three faces, he is master [/husband], possessing great force. The  bull is the inseminator of each and every female.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the basis of tváṣṭā … viśvárūpaḥ in the preceding hymn (III.55.19) I take the subj. here to be Tvaṣṭar. Since Tvaṣṭar has a large role in the shaping and begetting of offspring, the identification makes sense in this context.
 
@@ -146,23 +146,23 @@ However, here in this passage with polarized gender and a sexual tone, I think i
 In c I suggest that patyate may be ambiguous between ‘be master’ and ‘be husband’ (on the basis of páti-, which of course means both) because of the sexual activity in d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bull who wears all shapes, the triple-breasted, three-uddered, with a brood in many places,  
      Ruleth majestic with his triple aspect, the Bull, the Everlasting Ones' impregner.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bulle Allgestalt hat drei Bäuche und drei Euter, vielfach besitzt er Nachkommenschaft. Er, der drei Gesichter hat, herrscht als Mächtiger; er ist der besamende Bulle aller Kühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei Bäuche hat der Stier, der allgestalt'ge, drei Brüste hier und dort der kinderreiche, Mit drei Gesichtern allgewaltig herrscht er, der Stier besamend alle Morgenröthen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У быка о трех животах Вишварупы  
 Есть также три вымени, у обильного потомством.  

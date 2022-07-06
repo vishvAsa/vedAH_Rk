@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपा꣡म् अतिष्ठद् धरु꣡णह्वरं त꣡मो  
 अन्त꣡र् वृत्र꣡स्य जठ꣡रेषु प꣡र्वतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वा अनुष्ठाः꣡ प्रवणे꣡षु जिघ्नते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । ई॒म् । इन्द्रः॑ । न॒द्यः॑ । व॒व्रिणा॑ । हि॒ताः । विश्वाः॑ । अ॒नु॒ऽस्थाः । प्र॒व॒णेषु॑ । जि॒घ्न॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apām* ← *ap*
 - \[noun\], genitive, plural, masculine
@@ -119,20 +119,20 @@ genre M
 **अपां** वृष्ट्युदकानां **धरुणह्वरम्** । धरुणशब्दो धारावचनः । धारानिरोधकं **तमः** अन्धकारम् **अतिष्ठत्** । अयमेवार्थः स्पष्टीक्रियते । **वृत्रस्य** लोकत्रयावरितुरसुरस्य **जठरेषु** उदरप्रदेशेषु **अन्तः** मध्ये **पर्वतः** पर्ववान् मेघोऽभूत् । अतस्तमोरूपेण वृत्रेण मेघस्यावृतत्वात् वृष्ट्युदकमप्यावृतमित्युच्यते । **ईम्** इमाः पूर्वोक्ताः **नद्यः** नदीः अपः । नदनात् नद्यः इति व्युत्पत्त्या नदीशब्देन आप उच्यन्ते । **वव्रिणा** आवरकेण वृत्रेण **हिताः** पिहिताः **विश्वाः** व्यापिनीः **अनुष्ठाः** अनुक्रमेण तिष्ठन्तीः एवंविधा अपः **इन्द्रः** **प्रवणेषु** निम्नेषु भूप्रदेशेषु **अभि** **जिघ्नते** अभिगमयति ॥ वव्रिणा । वृञ् वरणे' इत्यस्मात् ‘ आदृगमहनजनः' इति किप्रत्ययः । लिड्वद्भावात् द्विर्भावादि । यणादेशः । प्रत्ययस्वरः । अनुष्ठाः ।  ‘ आतश्चोपसर्गे ' इति तिष्ठतेः कप्रत्ययः । 'उपसर्गात्सुनोति' ' इति षत्वम् । जिघ्नते । हन्तेर्गत्यर्थात् व्यत्ययेनात्मनेपदम् । ‘बहुलं छन्दसि' इति शपः श्लुः ।  ‘अर्तिपिपर्त्योश्च, बहुलं छन्दसि' ( पा. सू. ७. ४. ७७-७८ ) इति अभ्यासस्य इत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The darkness obstructed the current of the waters; the cloud was within the belly of **Vṛtra**; but **Indra** precipitated all the waters which the obstructor had concealed, in succession, down to the hollows (of the earth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There stood darkness, whose tangles were the foundation for the waters,  a mountain within the belly of Vr̥tra.  
 Indra smashes all the rows (of palings) set up in succession among the  torrents by the encloser of the rivers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A poetically dense verse with striking images and concomittant difficulties.
 
@@ -143,23 +143,23 @@ These tangles provide a foundation, and an enclosure, for the waters. If I am co
 The second hemistich is also problematic. At issue is the meaning of anuṣṭhā́ḥ, which Indra smashes. The form must be acc. pl. feminine (though Scarlatta [644] allows the possibility of a nom. sg. masc., which would necessarily separate it from the preceding víśvāḥ). The lexeme ánu √sthā straightforwardly means ‘stand by, stand following, stand along’ and can be used for helpers who stand by a leader (as indeed in nearby I.52.4); see exx. adduced by Scarlatta. Scarlatta then reasonably suggests that anuṣṭhā́ḥ here refers to ‘Gefolgsleute’ (sim. Witzel Gotō). But this introduces a set of subordinates and helpers to Vṛtra that do not otherwise figure in this well-known myth. Geldner takes it as “Einsperrer” (barriers), which makes sense but is hard to extract from the form. Renou’s “les positions-successives” is apparently an attempt to render Geldner’s translation in a lexically legitimate way, but it doesn’t make much sense. My “rows (of palings) … in succession” is a similar attempt, with the palings a complete invention. I do not feel that a satisfying solution has yet been reached.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 There darkness stood, the vault that stayed the waters' flow: in Vrtra's hollow side the rain-cloud lay concealed.  
      But Indra smote the rivers which the obstructer stayed, flood following after flood, down steep declivities.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es herrschte Finsternis, die den Urgrund der Gewässer zu Fall brachte. Der Berg geriet in den Leib des Vritra. Indra bekämpft alle von dem Einsperrer der Flüsse gemachten Anstalten in den Stromgefällen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Wasser Grund umhüllend stand die Finsterniss, der Wolkenberg in Vritra's Bäuchen eingesperrt; Da schlägt die Ströme, die in Vritra's Leibe ruhn, in jähem Sturze Indra nieder allesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стоял мрак, мешающий основе вод.  
 Гора (была) во внутренностях Вритры.  

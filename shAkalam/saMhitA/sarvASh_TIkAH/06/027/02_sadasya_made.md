@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡द् अस्य म꣡दे स꣡द् उ अस्य पीता꣡व्  
 इ꣡न्द्रः स꣡द् अस्य सखिये꣡ चकार  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरा꣡ विविद्रे स꣡द् उ नू꣡तनासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रणाः॑ । वा॒ । ये । नि॒ऽसदि॑ । सत् । ते । अ॒स्य॒ । पु॒रा । वि॒वि॒द्रे॒ । सत् । ऊं॒ इति॑ । नूत॑नासः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sad* ← *sat*
 - \[noun\], accusative, singular, neuter
@@ -148,20 +148,20 @@ genre M
 एवमाक्षिप्त इन्द्रस्तस्मा ऋषय ईप्सितं धनं प्रददौ । तदनन्तरमृषिरिन्द्रसकाशात् संपूर्णकामः सन् पुरा यान्युपालम्भप्रतिपादकानि वाक्यान्युवाच इदानीं तानि निराकरोति । **इन्द्रः** **अस्य** सोमस्य **मदे** **सत्** शुभं कर्म **चकार** । **अस्य** सोमस्य **पीतौ** पाने **सत्** शुभं कर्म चकार । **अस्य** **सख्ये** **सत्** शुभं कर्म चकार । **ये** **रणा** **वा** स्तोतारश्च ते **निषदि** गृहे । यज्ञगृह इत्यर्थः । **पुरा** पूर्वं हे इन्द्र **ते** त्वत्तः **सत्** शुभं कर्म **विविद्रे** लेभिरे । **नूतनासः** इदानींतनाः स्तोतारः **सदु** शुभमेव कर्म लेभिरे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, in the exhilaration of this (**Soma**) **Indra** has done a good deed; on quaffing the libation (he has done) a good deed; (he has done) a good deed in friendship for this Soma; former as well as recent adorers have obtained good of you in the chamber (of the libation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra created what exists in the exhilaration of it, what exists at the  drinking of it; what exists in the fellowship of it.  
 Or those [=priests] who were there with joy at the installation of it—the  previous ones acquired what exists; the current ones what exists.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/027/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -171,23 +171,23 @@ These two vss. form a tight pair, whose responsions are detailed below.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In its wild joy Indra hath proved him faithful, faithful in quaffing, faithful in its friendship.  
      His truth is the delight that in this chamber the men of old and recent times have tasted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Wahre hat er im Rausche dieses Soma, das Wahre bei seinem Trunk, das Wahre hat Indra in seinem Bunde getan. Oder was seine guten Launen bei der Opfersitzung sind, die haben vordem das Wahre und neuerdings das Wahre erreicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heil hat in dessen Rausch und dessen Trunke Indra vollbracht, und Heil mit ihm im Bunde; Heil haben seine Freuden bei dem Schmause zuvor gewirkt und Heil die gegenwärt'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благо в его опьянении и благо при питье его,  
 Благо сделал Индра в союзе с ним.  

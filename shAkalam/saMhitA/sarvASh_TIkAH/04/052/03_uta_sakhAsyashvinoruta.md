@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स꣡खासि अश्वि꣡नोर्  
 उत꣡ माता꣡ ग꣡वाम् असि  
 उतो꣡षो व꣡स्व ईशिषे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 उ॒त । उ॒षः॒ । वस्वः॑ । ई॒शि॒षे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -91,20 +91,20 @@ genre M
 **उत** अपि च **अश्विनोः** **सखा** **असि**। **उत** अपि च **गवां** रश्मीनां **माता** **असि** । **उत** अपि च हे **उषः** **वस्वः** धनस्य **ईंशिषे** ईश्वरा भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are the friend of the **Aśvins**; you are the mother of the rays of light; you, Uṣas, rule over riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are both the companion of the Aśvins, and you are also mother  of cows,  
 and also, Dawn, you have dominion over goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner’s parallels show, this must be Savitar’s own ślóka.
 
@@ -113,23 +113,23 @@ The dat. svā́ya dhármaṇe would be easier to parse as “for his own support
 In cd I take sávīmani with the participles of d. In that pāda aktúbhiḥ ‘through the nights’ strictly speaking goes with niveśáyan ‘causing to settle down’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, and thou art the Asvins' Friend, the Mother of the Kine art thou:  
      O Dawn thou rulest over wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist die Freundin der Asvin und auch die Mutter der Kühe, und du gebeutst über das Gut, o Usas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Ritter Freundin bist du ja, und bist der Kühe Mutter auch, Und Reichthum hast du, Morgenroth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты и подруга Ашвинов,  
 Ты и мать коров,  

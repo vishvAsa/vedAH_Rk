@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ धेनुं꣡ शय꣡वे नाधिता꣡य  
 अ꣡पिन्वतम् अश्विना पूर्विया꣡य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ति ज꣡ङ्घां विश्प꣡लाया अधत्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अमु॑ञ्चतम् । वर्ति॑काम् । अंह॑सः । निः । प्रति॑ । जङ्घा॑म् । वि॒श्पला॑याः । अ॒ध॒त्त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -104,36 +104,36 @@ genre M
 **अश्विना** हे अश्विनौ **युवं** युवां **पूर्व्याय** पुरातनाय **नाधिताय** याचमानाय **शयवे** एतत्संज्ञाय ऋषये **धेनुं** निवृत्तप्रसवाम् अदोग्ध्रीम् **अपिन्वतं** पयसा असिञ्चतम् । सर्वदा पयस्विनीमकुरुतमित्यर्थः । अपि च वर्तिकां वृकेण ग्रस्तां चटकसदृशीं शकुनिम् **अंहसः** वृकास्यलक्षणात् पापात् **निः** **अमुञ्चतं** निरमोचयतम् । यद्वा । पुनःपुनर्वर्तते इति वर्तिका उषाः । तामादित्येनाभिग्रस्तां युवाममोचयतम् । तथा विश्पलायै संग्रामे छिन्नजङ्घायै अगस्त्यपुरोहितस्य खेलस्य संबन्धिन्यै एतत्संज्ञायै स्त्रियै आयसीं **जङ्घां** **प्रति** **अधत्तं** प्रत्यस्थापयतं समयोजयतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You filled his cow with milk, **Aśvins**, for the ancient **Śayu**, when imploring (yoru aid); you liberated the quail from danger; you gave a leg to Viśpalā.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You swelled the cow (with milk) for Śayu of long ago, who needed help,  o Aśvins.  
 You released the quail-hen from tight straits, and you inserted a shank  for Viśpalā.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For ancient Sayu in his sore affliction ye caused his cow to swell with milk, O Asvins.  
      The quail from her great misery ye delivered, and a new leg for Vispala provided.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Asvin habt ehedem dem in Not geratenen Sayu die Kuh milchstrotzend gemacht. Die Wachtel habt ihr aus Drangsal befreit. Der Vispala setztet ihr das Bein wieder an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Ritter habt dem Çaju, als er flehte, die Kuh mit Milch gefüllt in alten Zeiten; Die Wachtel habt ihr aus der Noth erlöset, ein neues Bein der Viçpala gegeben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Шаю, некогда впавшего в нужду,  
 Вы сделали корову набухшей (от молока), о Ашвины.  

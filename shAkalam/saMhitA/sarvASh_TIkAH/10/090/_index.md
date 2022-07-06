@@ -15,7 +15,7 @@ title = "+०९०"
 तथा चानुक्रान्तं--- सहस्रशीर्षा षोळश नारायणः पौरुषमानुष्टुभं त्रिष्टुबन्तं तु' इति । गतो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 90 (916)  
 Purusạ  

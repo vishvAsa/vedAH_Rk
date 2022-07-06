@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते वृषन् वृ꣡षणो द्रो꣡णम् अस्थुर्  
 घृतप्रु꣡षो न꣡ ऊर्म꣡यो म꣡दन्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृ꣡ष्णे भरन्ति वृषभा꣡य सो꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ । प्र । तुभ्य॑म् । वृष॑ऽभिः । सु॒ताना॑म् । वृष्णे॑ । भ॒र॒न्ति॒ । वृ॒ष॒भाय॑ । सोम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -126,20 +126,20 @@ genre M
 हे **वृषन्** कामानां वर्षितरिन्द्र **वृषणः** सेक्तारो युवानस्त्वदीया अश्वाः **घृतप्रुषः** **नोर्मयः** घृतमुदकं सिञ्चन्तः सामुद्रास्तरङ्गा इव **मदन्तः** हृष्यन्तो मत्ताः सन्तः **ते** त्वदीयं **द्रोणं** द्रुममयं रथम् **आ** **अस्थुः** आतिष्ठन्त । अतस्त्वमागच्छेति भावः । कुत इत्यत आह । हे **इन्द्र** **वृष्णे** यूने नित्यतरुणाय **वृषभाय** कामानां वर्षयित्रे **तुभ्यं** **वृषभिः** कामाभिवर्षकैर्ग्रावभिः **सुतानाम्** अभिषुतानां सोमानां मध्ये त्वद्भागरूपं **सोमं** यस्मादध्वर्यवः **प्र** **भरन्ति** प्रहरन्ति होमार्थं प्रणयन्ति तस्मादागच्छेत्यर्थः ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Showerer (of benefits), your vigorous water-shedding steeds, like the waves (of the sea), exulting, are harnessed to your car; for they, (the priests), offer to you, the showerer (of benefits), ever youthful, the libation of the **Soma** expressed by the stones.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bulls have mounted the wooden cup for you, o bull, like waves  spraying ghee as they bring exhilaration.  
 Indra, to you, the bullish bull, they present soma from out of the  (drops) pressed by bulls.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although they belong to different, and distant, tṛcas, the partitive gen. construction here, … prá … sutā́nām, DAT bharanti …, matches that in vs. 13: … prá … sutā́nām, DAT bhara … and occupies the same position in the vs., though in our vs. √bhṛ also has a direct acc. object sómam.
 
@@ -158,23 +158,23 @@ The concentration on the bull words leaves little room or energy for other poeti
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Beside the vat, Strong God! stand thy strong Horses, shining with holy oil, like waves exulting.  
      Indra, they bring to thee, the Strong and Mighty, Soma of juices shed by mighty press-stones.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich, du Riesiger, sind die riesigen Tränke in die Holzkufe gestiegen, schmalzspritzend rauschend wie die Wellen. Indra, dir setzen sie den von Riesenstarken gepreßten Säften, dir dem riesigen Bullen den Soma vor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Stier, zur Kufe eilten deine Stiere, wie fettbenetzte Wellen munter hüpfend; O Indra, dir, dem starken Stiere, brachte man Soma dar, den Saft, den Stiere pressten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для тебя, о бык, быки вошли в деревянный сосуд,  
 Брызгая жиром, бурные, как волны.  

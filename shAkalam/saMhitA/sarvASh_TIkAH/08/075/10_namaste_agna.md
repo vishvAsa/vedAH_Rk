@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡मस् ते अग्न ओ꣡जसे  
 गृण꣡न्ति देव कृष्ट꣡यः  
 अ꣡मैर् अमि꣡त्रम् अर्दय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अमैः॑ । अ॒मित्र॑म् । अ॒र्द॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *namas* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
@@ -82,40 +82,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **देव** **ते** तुभ्यं **नमः** **गृणन्ति** नमस्कारशब्दमुञ्चारयन्ति । किमर्थम् । **ओजसे** बलाय । के। **कृष्टयः** मनुष्या यजमानाः । अतोऽहमपि गृणामीत्यर्थः । तथा **अमैः** बलैः **अमित्रं** शत्रुम् **अर्दय** नाशय ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Agni**, men utter your praises for the attainment of strength; by strength destroy the enemy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Homage to your power, Agni! The separate peoples hymn you, o god. With your attacks shake our foe to pieces.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. take námaḥ as obj. of gṛṇánti and ab as a single clause (“they hymn homage to …”). But √gṝ doesn’t otherwise take as object the content of the hymn; Grassmann must make up a special category (8) for this passage. And námaḥ + DAT is a well-represented construction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, God, the people sing reverent praise to thee for strength:  
      With terrors trouble thou the foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deiner Stärke, o Gott Agni, sprechen die Völker eine Huldigung aus; mit deinen Angriffen erdrücke die Feinde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Anbetung weihen deiner Macht, o Gott, die Menschen, Agni, dir; Mit Schrecken quäle du den Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

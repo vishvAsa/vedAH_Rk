@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मिन्न् अ꣡श्वास ऋषभा꣡स उक्ष꣡णो  
 वशा꣡ मेषा꣡ अवसृष्टा꣡स आ꣡हुताः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 हृदा꣡ मतिं꣡ जनये चा꣡रुम् अग्न꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 की॒ला॒ल॒ऽपे । सोम॑ऽपृष्ठाय । वे॒धसे॑ । हृ॒दा । म॒तिम् । ज॒न॒ये॒ । चारु॑म् । अ॒ग्नये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 **यस्मिन्** अग्नौ **उक्षणः** उक्षाणः । ‘ वा षपूर्वस्य निगमे ' इति दीर्घविकल्पः । सेचनसमर्थाः **अश्वासः** अश्वाः **ऋषभासः** वृषभाश्च **वशाः** स्वभाववन्ध्याश्च **मेषाः** च **अवसृष्टासः** देवतार्थम् अवसृष्टाः परित्यक्ताः सन्तोऽश्वमेधे **आहुताः** आभिमुख्येन हुता भवन्ति **कीलालपे** सौत्रामण्यां सुरां पिबते । **कीलालम्'** इत्युदकनामसु पाठात् । उदकं पिबते **सोमपृष्ठाय** सोमयुक्तः पृष्ठ उपरिभागो यस्य तस्मै सोमपृष्ठाय **वेधसे** विधात्रे तस्मै **अग्नये** **हृदा** हृदयेन **चारुं** कल्याणीं **मतिं** स्तुतिं **जनये** जनयामि । उत्पादयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,30 +130,30 @@ genre M
 I offer: **Yajus**. 20.78 has janaya, offer, perhaps addressed to the **Adhvaryu**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (For him) into whom horses, bulls, oxen, mated cows, rams, once  released, are poured out [=offered],  
 for the kīlāla-drinker who has soma on his back, for the ritual adept  
 I generate with my heart a pleasing thought—for Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He in whom horses, bulls, oxen, and barren cows, and rams, when duly set apart, are offered up,-  
      To Agni, Soma-sprinkled, drinker of sweet juice, Disposer, with my heart I bring a fair hymn forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In welchem Rosse, Stiere, Ochsen, güste Kühe, Widder zum Opfer freigelassen geopfert werden, auf den Süßtranktrinker mit Soma auf dem Rücken, auf den Meister mache ich mit dem Herzen ein Gedicht, das dem Agni genehm ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu welchem Rosse, Stiere, Ochsen, Kühe auch und Widder man entsendet und als Opfer bringt, Dem Agni, welcher Süsses trinkt und Soma trägt, dem Ordner zeug' ich aus dem Herzen schönes Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В кого приносят в жертву отпущенных  
 Коней, быков, волов, яловых коров, баранов,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ पुनाना꣡य वेध꣡से  
 सो꣡माय व꣡च उ꣡द्यतम्  
 भृतिं꣡ न꣡ भरा मति꣡भिर् जु꣡जोषते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 भृ॒तिम् । न । भ॒र॒ । म॒तिऽभिः॑ । जुजो॑षते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -86,20 +86,20 @@ genre M
 द्वितो नामर्षिः स्वात्मानं प्रत्याह। **पुनानाय** पवित्रेण पूयमानाय **वेधसे** कर्मणो विधात्रे **मतिभिः** स्तुतिभिः **जुजोषते** प्रीयमाणाय । यद्वा मतिभिः स्तोतृभिः सह जुजोषते प्रीणयित्रे । **सोमाय** **उद्यतम्** उद्युक्तं वचः **प्र** **भर** प्रकर्षेण संपादय । अभिष्टुहीत्यर्थः । तत्र दृष्टान्तः । **भृतिं** **न** । यथा भृतका भृतिं संपादयन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Raise a loud voice to **Soma** the instrumental tutor (of the rite), purified, gratified by praises, as (men pay) wages (to a labourer).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth to the ritual adept, to Soma as he is being purified, shall I bear the  upraised speech  
 like a present, along with my thoughts. He will find enjoyment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes ab as a nominal sentence, separate from c, with vácaḥ the nom. subj.: “… wird eine Rede angehoben.” Renou takes ab independently as well, but supplies a 1st ps. verb, which introduces needless complications. Although I was tempted by Geldner’s interpr., there are two problems: 1) It leaves the opening preverb prá orphaned. Though Grassmann lists a prá úd √yam ‘die Stimme erheben’, in fact he registers it only for this passage, which does not inspire confidence in the lexeme, and furthermore having one of two preverbs in tmesis with a ppl. might be unusual.
 
@@ -112,23 +112,23 @@ As noted above, it is only in this vs. that a separable 4-syl. final pāda seems
 by Oldenberg and probably accounts for why Grassmann (also BR; see Oldenberg) interprets it rather as a dat. sg. act. part. to an otherwise unattested pres. stem, even though we should expect a weak stem *jújuṣant-. Not to mention that such a participle would require that the stem had been reinterpr. as a present. Though this is not a difficult leap, since the subjunctive has accent on the redupl., as opposed to the finite pf., which has standard pf. accent (jujóṣa, jujuṣúḥ), nonetheless, in the absence of unambig. present forms, it seems best to assign the subjunctive to the existing pf. stem. Geldner, Renou, Lubotsky all take it as a finite verb, not a part.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Soma who is purified as ordering Priest the song is raised:  
      Bring meed, as 'twere, to one who makes thee glad with hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf den sich läuternden Meister Soma wird eine Rede angehoben. Mit Liedern bringe ich gleichsam den Lohn dar; er möge daran Gefallen finden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Soma bringe andachtsvoll wie Nahrung dar ein hohes Lied, Dem flammenden, dem Ordner, der sich dran erquickt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищающему соме, устроителю обряда  
 Я про(изношу) предложенную речь.  

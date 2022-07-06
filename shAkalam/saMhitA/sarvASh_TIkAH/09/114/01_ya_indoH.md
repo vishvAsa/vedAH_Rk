@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इ꣡न्दोः प꣡वमानस्य  
 अ꣡नु धा꣡मानि अ꣡क्रमीत्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 तम् । आ॒हुः॒ । सु॒ऽप्र॒जाः । इति॑ । यः । ते॒ । सो॒म॒ । अवि॑धत् । मनः॑ । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -127,42 +127,42 @@ popular;; epic anuṣṭubh (525);; repeated line
 **पवमानस्य** पूयमानस्य **इन्दोः** सोमस्य **धामानि** स्थानानि द्रोण कलशादीनि यद्वा धामानि तेजांसि **यः** ब्राह्मणः **अनु** **अक्रमीत्** अनुक्रामति अनुगच्छति **तं** जनं **सुप्रजाः** शोभनप्रजननः कल्याणपुत्रादिप्रजायुक्त इत्याहुः । ‘नित्यमसिच् प्रजामेधयोः' इत्यसिच् समासान्तः । यः सौममभिषुणोति स पुत्रादियुक्तो भवतीत्यर्थः । किंच हे **सोम** **यः** मनुष्यः **ते** त्वदर्थं **मनः** **अविधत्** करोति । यद्वा । ते त्वदीयं मनोऽविधत् परिचरति । विधतिः परिचरणकर्मा। तमपि कल्याणजननमित्याहुः । तस्मात्त्वं **परि** **स्रव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The **brāhmaṇa**) who attends to the stations of the filtered **Soma**-juice-- him men call rich in children, who applies his mind to you, Soma; flow, **Indu** for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who has stridden along the domains of the self-purifying drop, of him they say “(he will) have good offspring”—the one who has  
 dedicated his thought to you, Soma.  
 – O drop, flow around for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Acdg to Geldner, it is Soma’s mánas that the poet will satisfy, while Renou takes the mánas as the poet’s. Renou is no doubt correct; cf. VIII.61.9 avipró vā yád ávidhad, vípro vendra te vácaḥ “If without inspiration or if inspired, someone has dedicated his speech to you, Indra …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE man who walketh as the Laws of Indu Pavamana bid,-  
      Men call him rich in children, him, O Soma, who hath met thy thought. Flow, Indu, flow for Indra's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer den Formen des sich läuternden Safts nachgegangen ist, von dem sagen sie, er werde kinderreich, wer deinen Sinn, o Soma, befriedigt hat. Fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer nach den Bräuchen des rieselnden Soma wandert, den nennt man »reich an trefflicher Nachkommenschaft«, wer, o Soma, deinem Sinne gehuldigt hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто последовал за формами  
 Очищающегося сока сома,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡म् प्रत्ना꣡य सुष्टुतिं꣡ न꣡वीयसीं  
 वोचे꣡यम् अस्मा उशते꣡ शृणो꣡तु नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 जाये꣡व प꣡त्य उशती꣡ सुवा꣡साः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 भू॒याः । अन्त॑रा । हृ॒दि । अ॒स्य॒ । नि॒ऽस्पृशे॑ । जा॒याऽइ॑व । पत्ये॑ । उ॒श॒ती । सु॒ऽवासाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -127,37 +127,37 @@ genre M;; repeated line
 **प्रत्नाय** पुराणाय **उशते** स्तोत्रं कामयमानाय **अस्मै** अग्नये **नवीयसीं** नवतरामन्यैः अकृतपूर्वां **सुष्टुतिं** शोभनां स्तुतिं **वोचेयम्** अहं वक्ष्यामि । सोऽग्निरस्मदीयां स्तुतिं **शृणोतु** । किंचाहम् **अस्य** अग्नेः **हृदि** हृदये तत्रापि **अन्तरा** मध्ये **निस्पृशे** संस्पर्शनाय । गुणैरनुरञ्जनायेत्यर्थः । **भूयाः** भूयासम् । व्यत्ययेन मध्यमः । अग्नेर्हृदिस्पृगहं स्यामित्यर्थः । अथवा मम सुष्टुतेरनुप्रवेष्टा भवेति योज्यम् । समानमन्यत् । तत्र दृष्टान्तः । **पत्ये** पत्युर्हृदयस्य मध्ये **सुवासाः** शोभनवस्त्रादिना मण्डिता **जाया** **उशती** कामयमाना यथेष्टतमा भवति तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I will address this new laudatory hymn to the ancient **Agni**, who is gratified (by praise). May he hear uṣMay I be in the centre of his heart, to touch it, like a loving well-attired wife (in the heart) of her husband.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I would proclaim this good praise here, a newer one, to him, the  age-old, who is eager for it: let him hear us.  
 May it come very close, to touch his heart, like an eager wife, richly  
 dressed, to her husband.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This newest eulogy will I speak forth to him, the Ancient One who loves it. May he hear our voice.  
      May it come near his heart and make it stir with love, as a fond well-dressed matron clings about her lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses neueste Loblied will ich dem Uralten aufsagen, ihm, der darnach verlangt; er höre auf uns! Es möge ihm nahe zu Herzen gehen, um es zu rühren, wie die verliebte schöngekleidete Frau des Gatten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem alten will ich singen dieses neuste Lob, ihm, der es gern hat, möge er erhören uns; Es möge recht vertraut berühren nun sein Herz, so wie die schmucke Gattin liebend den Gemahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это прекрасное самое новое прославление я хочу провозгласить  
 Этому древнему, жаждущему (прославления). Да услышит он нас!  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡र्शुर् ह ना꣡म मानवी꣡  
 साकं꣡ ससूव विंशति꣡म्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 भ॒द्रम् । भ॒ल॒ । त्यस्यै॑ । अ॒भू॒त् । यस्याः॑ । उ॒दर॑म् । आम॑यत् । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parśur* ← *parśuḥ* ← *parśu*
 - \[noun\], nominative, singular, feminine
@@ -120,7 +120,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 इन्द्रविसृज्यमानमनेन' मन्त्रेण वृषाकपिराशास्ते । हे **भल** इन्द्रेण विसृज्यमान शर । भलतिर्भेदनकर्मा । **पर्शुः** **नाम** मृगी । **ह** इति पूरणः । **मानवी** मनोर्दुहितेयं **विंशतिं** विंशतिसंख्याकान् पुत्रान् **साकं** सह **ससूव** अजीजनत् । **त्यस्यै** तस्यै **भद्रं** भजनीयं कल्याणम् **अभूत्** भवतु । लोडर्थे लुङ। **यस्या** **उदरमामयत्** गर्भस्थैर्विंशतिभिः पुत्रैः पुष्टमासीत् । मम पिता **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,28 +131,28 @@ popular;; epic anuṣṭubh (525);; repeated line
 Indra is the deity invoked: Nirukta13.3
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Manu’s daughter, Parśu (“Rib”) by name, gave birth to twenty at once. (Good) fortune indeed was there for her whose belly (labor-pain) vexed. – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Daughter of Manu, Parsu bare a score of children at a birth.  
      Her portion verily was bliss although her burthen caused her grief.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Parsu mit Namen, die Tochter des Manu, gebar zwanzig Kinder auf einmal. Wahrlich, Glück hat sie gehabt, deren Leib die Wehen bekam. - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das menschliche Weib, Parçu mit Namen, hat zwanzig Kinder auf einmal geboren; Heilung ward ihr zu Theil, deren Leib krank war. Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

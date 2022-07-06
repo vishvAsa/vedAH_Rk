@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां र꣡थं युवति꣡स् तिष्ठद् अ꣡त्र  
 जुष्ट्वी꣡ नरा दुहिता꣡ सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡यो वहन्तु अरुषा꣡ अभी꣡के
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 परि॑ । वा॒म् । अश्वाः॑ । वपु॑षः । प॒त॒ङ्गाः । वयः॑ । व॒ह॒न्तु॒ । अ॒रु॒षाः । अ॒भीके॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,36 +123,36 @@ genre M
 हे **नरा** नेतारावश्विनौ **युवतिः** तरुणी **सूर्यस्य** दुहिता **जुष्ट्वी** प्रीता सती **वां** युवयोः अत्र इमं **रथम्** आ **तिष्ठत्** आरूढवती । तया सहितौ **वां** युवाम् **अश्वाः** **अभीके** गृहसमीपे तं रथं **परि** **वहन्तु** परिप्रापयन्तु । कीदृशा अश्वाः । **वपुषः** । वपुरिति रूपस्य शरीरस्य वा नामधेयम् । तद्वन्तः । छान्दसो मत्वर्थीयस्य लोपः। **पतङ्गाः** उत्पतनसमर्थाः **वयः** गच्छन्तः **अरुषाः** आरोचमाना हिंसकरहिता वा ॥ अत्र । ‘इतराभ्योऽपि दृश्यन्ते ' ( पा. सू. ५. ३. १४ ) इति दृशिग्रहणात् भवदाद्ययोगेऽपि इदंशब्दात् विभक्त्यर्थे त्रल्प्रत्ययः । जुष्ट्वी । ‘जुषी प्रीतिसेवनयोः । औणादिकः क्तुप्रत्ययः । **वोतो** गुणवचनात् ' इति ङीष् ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders (of sacrifice), the youthful daughter of **Sūrya** ascended, delighted, this your car; may your strong-bodied prancing, fleet, and shining horses, bring you near uṣ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having become pleased, the young girl, the Daughter of the Sun, has  now mounted your chariot, o men.  
 Let the soaring horses of your wonder [=your chariot], let your ruddy  birds, carry you at the critical moment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The youthful Daughter of the Sun, delighting in you, ascended there your chariot, Heroes.  
      Borne on their swift wings let your beauteous horses, your birds of ruddy hue, convey you near us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren Wagen, ihr Herren, bestieg die jugendliche Frau, die Tochter des Surya, da sie daran Gefallen fand. Eure prächtigen fliegenden Rosse, die rötlichen Vögel sollen im rechten Augenblick herumfahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf euern Wagen stieg der Sonne Tochter, die Jungfrau dort, o Helden, voller Freude; Euch mögen nah herbei die Flügelrosse, die wunderschönen rothen Vögel fahren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот на вашу колесницу взошла юница,  
 Радостно – дочь солнца, о два мужа.  

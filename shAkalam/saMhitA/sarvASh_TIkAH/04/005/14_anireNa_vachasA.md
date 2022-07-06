@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनिरे꣡ण व꣡चसा फल्गु꣡वेन  
 प्रती꣡तियेन कृधु꣡नातृपा꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अनायुधा꣡स आ꣡सता सचन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अध॑ । ते । अ॒ग्ने॒ । किम् । इ॒ह । व॒द॒न्ति॒ । अ॒ना॒यु॒धासः॑ । अस॑ता । स॒च॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anireṇa* ← *anira*
 - \[noun\], instrumental, singular, neuter
@@ -104,7 +104,7 @@ genre M
 **अनिरेण** । इरा अन्नं तद्रहितेन । **फल्ग्वेन** तुच्छेन’ **प्रतीत्येन** प्रतिगन्तव्येन । आरोह्येणेत्यर्थः। **कृधुना** ह्रस्वेन । कृध्विति ह्रस्वनाम ‘ कृधुको वम्रकः ' (नि. २. २. ६ ) इति तन्नामसूक्तत्वात् । एवंविधेन **वचसा** **अतृपासः** अतृप्ता जनाः **अध** अधुना **इह** अस्मिन् लोके हे **अग्ने** **ते** त्वां **किं** **वदन्ति** । निर्हविष्केण वचसा न किंचिल्लभ्यत इत्यर्थः । किंतु **अनायुधासः** । आयुधशब्दः साधनं लक्षयति । हविरादिसाधनरहितास्ते **असता** दुःखेन **सचन्तां** संगच्छन्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,40 +115,40 @@ genre M
 I.e., if they pretend to worship Agni without the oblation, and other materials of a burnt offering, they cannot expect his favour
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who fail to satisfy with their insipid, meager, stunted speech, easy  to attack—  
 what then do they say here, Agni? Without weapons, let them be  
 accompanied by (speech) that does not come true.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Oldenberg and Renou I supply vácasā (from pāda a) with ā́satā, rather than taking the latter as ‘non-being’ vel sim., because that stem is regularly associated with speech.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unsatisfied, with speech devoid of vigour, scanty and frivolous and inconclusive,  
      Wherefore do they address thee here, O Agni? Let these who have no weapons suffer sorrow.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And what do those insatiable ones here say, O Agni, with their sapless, feeble, weak speech that has to be listened to? Let them unarmed fall into nothingness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die mit saftloser, nichtssagender Rede, mit ihrer dürftigen Erwiderung unbefriedigt lassen, was können die hier nun sagen, o Agni? Wehrlos sollen sie dem Nichts verfallen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sich nicht freuen ihres schwachen Liedes, des ab- gebrochenen, flüchtigen und matten, was sprechen sie denn hier zu dir? Agni; den Opferlosen falle Lug und Trug zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Эти люди,) не способные удовлетворить (своей) лишенной сока, ничтожной,  
 Жалкой речью, поддающейся опровержению,  

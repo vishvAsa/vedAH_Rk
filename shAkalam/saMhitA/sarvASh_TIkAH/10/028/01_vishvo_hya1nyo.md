@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वो हि꣡ अन्यो꣡ अरि꣡र् आजगा꣡म  
 म꣡मे꣡द् अ꣡ह श्व꣡शुरो ना꣡ जगाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सु꣡आशितः पु꣡नर् अ꣡स्तं जगायात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ज॒क्षी॒यात् । धा॒नाः । उ॒त । सोम॑म् । प॒पी॒या॒त् । सुऽआ॑शितः । पुनः॑ । अस्त॑म् । ज॒गा॒या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvo* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ popular
 अनया वसुक्रपत्नीन्द्रं स्तौति । **अन्यः** इन्द्रव्यतिरिक्तः **अरिः** अर्य ईश्वरः **विश्वो** **हि** सर्व एव देवगणः **आजगाम** अस्मद्यज्ञं प्रत्याययौ। **इत्** इत्यवधारणे। **अह** इत्यद्भुते । सर्वदेवगण आगते सति **मम** एव **श्वशुरः** इन्द्रः **ना** **जगाम** । स इन्द्रो यद्यागच्छेत् तर्हि **धानाः** भृष्टयवान् **जक्षीयात्** भक्षयेत् । **उत** अपि च **सोमम्** अभिषुतं **पपीयात्** पिबेत् । ततः **स्वाशितः** सुष्ठु भुक्तस्तृप्तः सन् **पुनः** भूयः **अस्तं** स्वगृहं प्रति **जगायात्** गच्छेत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ popular
 Legend: **Indra** came in disguise to a sacrifice celebrated by Vasukra, whose wife, not recognizing him, prayed forhis presence; to satisfy her that he had actually come, the following dialogue occurs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Sacrificer’s wife:] While every other stranger has come here, only my  father-in-law has not come here.  
 He should eat the roasted grains and he should drink the soma. Well-fed  he should then go home again.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now all my other friends are here assembled: my Sire-in-law alone hath not come hither.  
      So might he eat the grain and drink the Soma, and, satisfied, return unto; his dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Allewelt und sonstiger Standesherr ist doch gekommen, nur mein Schwäher ist nicht gekommen. Er hätte Gerstenkörner essen und Soma trinken und wohlgesättigt wieder nach Hause gehen können.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein jeder andre Freund ist ja gekommen, und nur mein Schwäher ist nicht hergekommen; Die Körner soll er essen, Soma trinken und wohlgesättigt wieder heimwärts gehen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Любой другой (преданный) друг пришел,  
 А мой свекор и впрямь не пришел.  

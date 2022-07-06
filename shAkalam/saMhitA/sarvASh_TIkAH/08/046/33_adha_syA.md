@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध स्या꣡ यो꣡षणा मही꣡  
 प्रतीची꣡ व꣡शम् अश्विय꣡म्  
 अ꣡धिरुक्मा वि꣡ नीयते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अधि॑ऽरुक्मा । वि । नी॒य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -79,36 +79,36 @@ genre M
 **अध** अधुना **स्या** सा **योषणा** योषा राज्ञा प्रदत्ता **मही** महती पूज्या **प्रतीची** अस्मदभिमुखी **अश्व्यम्** अश्वपुत्रं **वशं** मां प्रति साधिरुक्माभरणा सती **वि** **नीयते** । तां कन्यां मां प्रत्यानयन्तीत्यर्थः । अत्र वायव्यास्वृक्षु यत्र वायुर्न स्तूयते परं दानप्रशंसैव तासु सर्वासु हे वायो त्वदनुग्रहादेवमिति योज्यं वायुपरत्वमवगन्तव्यम् ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This tall maiden, adorned with gold, is led towards me, **Vaśa**, the son of **Aśva**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And now this great maiden, facing Vaśa Aśvya,  
 with bright ornaments upon her, is led forth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And now to Vasa Asvya here this stately woman is led forth,  
      Adorned with ornaments of gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und diese große Frau, die dem Vasa, dem Asvasohne, entgegenkommt, wird, mit Schmuck beladen, abseits geführt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diese erhabene Gattin wird mit Goldgeschmeide geschmückt dem Vaça Açvia entgegenführt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И эта великолепная женщина,  
 Идущая навстречу Ваше Ашвье,  

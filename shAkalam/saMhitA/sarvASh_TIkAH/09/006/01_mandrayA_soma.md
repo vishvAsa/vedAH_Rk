@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मन्द्र꣡या सोम धा꣡रया  
 वृ꣡षा पवस्व देवयुः꣡  
 अ꣡व्यो वा꣡रेषु अस्मयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अव्यः॑ । वारे॑षु । अ॒स्म॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mandrayā* ← *mandra*
 - \[noun\], instrumental, singular, feminine
@@ -73,7 +73,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **वृषा** कामानां वर्षिता **देवयुः** देवकामः **अस्मयुः** अस्मत्कामश्च **अव्यः** अवेः **वारेषु** वालेषु दशापवित्रे **मन्द्रया** मदकरया **धारया** पवस्व क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,29 +84,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 In **Sāmaveda**, avyo vārebhiḥ replaces avyo vāreṣvaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, as bull purify yourself in a gladdening stream as you seek  the gods,  
 as you seek us, in the sheep’s fleece.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SOMA, flow on with pleasant stream, a Bull devoted to the Gods,  
      Our Friend, unto the woollen sieve.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In wohltönendem Strome läutere dich, Soma, in den Schafhaaren, du der gottverlangende Stier, uns zugetan!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit munterm Strome riesele, o Soma, durch die Wolle hin, Uns liebend und den Göttern hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благозвучным потоком, о сома,  
 Очищайся, как бык, любящий богов,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चर्कृ꣡तियम् मरुतः पृत्सु꣡ दुष्ट꣡रं  
 द्युम꣡न्तं शु꣡ष्मम् मघ꣡वत्सु धत्तन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तोक꣡म् पुष्येम त꣡नयं शतं꣡ हि꣡माः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ध॒न॒ऽस्पृत॑म् । उ॒क्थ्य॑म् । वि॒श्वऽच॑र्षणिम् । तो॒कम् । पु॒ष्ये॒म॒ । तन॑यम् । श॒तम् । हिमाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *carkṛtyam* ← *carkar* ← *√kṛ*
 - \[verb noun\], accusative, singular
@@ -110,36 +110,36 @@ genre M
 हे **मरुतः** **मघवत्सु** हविर्लक्षणधनयुक्तेषु यजमानेषु पुत्रं **धत्तन** स्थापयत । दत्तेति यावत् । कीदृशं पुत्रम् । चर्कृत्यं कार्येषु पुनःपुनः पुरस्कर्तव्यम् । सर्वकर्मकुशलमित्यर्थः । **पृत्सु** संग्रामेषु **दुष्टरं** दुःखेन तरितव्यम् । अजेयमित्यर्थः । **द्युमन्तं** दीप्तिमन्तं **शुष्मं** शत्रूणां शोषकं बलवन्तं **धनस्पृतं** धनानां स्प्रष्टारं धनैः प्रीतं वा **उक्थ्यम्** । उक्थं स्तोत्रम् । तदर्हम् । प्रशस्यमित्यर्थः । **विश्वचर्षणिं** विशेषेण द्रष्टारं सर्वज्ञम् । एवंविधं **तोकं** पुत्रं **तनयं** पौत्रं च **शतं** **हिमाः** हेमन्तर्तूपलक्षितान् शतं संवत्सरान् जीवन्तः सन्तः **पुष्येम** पोषयेम । अत्र हिमशब्देन तद्युक्ता हेमन्तर्तवोऽभिधीयन्ते । तथा च ब्राह्मणमेवमाम्नायते- शतं हिमा इत्याह शतं त्वा हेमन्तानिन्धिषीयेति वावैतदाह ' ( तै. सं. १. ५.८.५) इति ॥ चर्कृत्यम्।  ‘ प्रकृतिग्रहणे यङ्लुगन्तस्यापि ग्रहणम् ' ( परिभा. ९३.९) इति न्यायेन करोतेर्यङ्लुगन्तात् “ विभाषा कृवृषोः ' ( पा. सू. ३. १. १२० ) इति क्यप् । तुगागमः । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । पृत्सु । ' पदादिषु मांस्पृत्स्नूनामुपसंख्यानम् ' (पा. सू. ६. १. ६३. १ ) इति पृतनाशब्दस्य पृदादेशः । दुष्टरम् ।  ‘ तॄ प्लवनतरणयोः ।  ‘ ईषद्दुःसुषु । इति खल् । सुषामादेराकृतिगणत्वात् षत्वम् । लित्स्वरेण प्रत्ययात्पूर्वस्योदात्तत्वम् । धत्तन ।  ‘ तप्तनप्तनथनाश्च ' इति तस्य तनादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, grant to your wealthy (worshippers a son), eminent for good works, invincible in battle, illustrious, the annihilator (of his adversaries), the seizer of wealth, the deserver of praise, and all-discerning; may we cherish such a son and such a grandson for a hundred winterṣ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Maruts, confer on the bounteous (patrons) brilliant bluster ever to be  celebrated, difficult to overcome in battles,  
 gaining the stakes, worthy of hymns, governing all domains. May we  thrive in life and lineage for a hundred winters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Maruts, to the worshippers give glorious strength invincible in battle, brilliant, bringing wealth,  
      Praiseworthy, known to all men. May we foster well, during a hundred winters, son and progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet, ihr Marut, unseren Gönnern rühmlichen, glänzenden Mut, der in den Kämpfen unüberwindlich, Schätze gewinnt, in Liedern besungen, in allen Landen bekannt! Wir möchten unseren leiblichen Samen hundert Winter mehren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O schenkt, ihr Maruts, preisenswerthe, schöne Kraft den Opferherrn, die unbesiegbar ist im Kampf Die Schatz erringt, bei Menschen hochgepriesen wird; lasst hundert Jahr mit Kind und Enkeln blühen uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наделите, о Маруты (наших) щедрых (покровителей) достойной воспевания  
 Отвагой, неодолимой в сражениях, сверкающей,  

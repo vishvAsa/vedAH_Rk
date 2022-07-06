@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ मे ब्र꣡ह्माणि अग्न उ꣡च् छशाधि  
 तुवं꣡ देव मघ꣡वद्भ्यः सुषूदः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 रा॒तौ । स्या॒म॒ । उ॒भया॑सः । आ । ते॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 हे **अग्ने** **मे** मम मदर्थं **ब्रह्माणि** अन्नानि **नु** क्षिप्रम् **उच्छशाधि** उत्कर्षेण शोधितानि कुरु । किंच हे **देव** द्योतमानाग्ने **मघवद्भ्यः** हविष्मद्भ्योऽस्मभ्यं सुषूदः अन्नानि प्रेरय । **ते** त्वदीयायां **रातौ** दाने **उभयासः** स्तोत्रिणः शस्त्रिणश्च अथवा स्तुवन्तो यजमानाश्च वयम् **आ** **स्याम** अत्यर्थं भवेम । **नः** अस्मान् **यूयं** त्वत्परिवाराश्च सर्वे **स्वस्तिभिः** अविनाशिभिर्मङ्गलैः । तथा च यास्कः– स्वस्तीत्यविनाशनामास्तिरभिपूजितः स्वस्ति' (निरु. ३. २१) इति । **सदा** **पात** रक्षत ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ Yūyam **pāta** svastibhiḥ **sadā** naḥ;
 Yūyam = tvam (i.e. the **sūktas** and ṛcas);or, you and your atendants, yūyam **tvat** parivārāśca sarve
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now direct my formulations upward, Agni. O god, you will sweeten  them for our generous (patrons).  
 We on both sides [=priests and patrons] would be in your generosity.  – Do you protect us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give strength and power to these my prayers, O Agni; O God, pour blessings on our chiefs and nobles.  
      Grant that both we and they may share thy bounty. Ye Gods, protect us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun lehre uns recht die erbaulichen Reden, o Agni, mache du sie den Lohnherren angenehm, o Gott! Wir wollen beiderseitig an deiner Schenkung teilhaben. - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Führ aufwärts, Agni, diese meine Bitten, mach du, o Gott, sie wirksam für die Reichen; Gib beiden Seiten Theil an deiner Spende; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Укажи сейчас путь вверх, о Агни, моим священным словам!  
 Ты, о бог, сделай (их) привлекательными для щедрых дарителей!  

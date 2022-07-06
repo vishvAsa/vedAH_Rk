@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ नु꣡ वाम् मित्रावरुणाव् ऋताय꣡न्  
 दिवो꣡ वा महः꣡ पा꣡र्थिवस्य वा दे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यज्ञायते꣡ वा पशुषो꣡ न꣡ वा꣡जान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तस्य॑ । वा॒ । सद॑सि । त्रासी॑थाम् । नः॒ । य॒ज्ञ॒ऽय॒ते । वा॒ । प॒शु॒ऽसः । न । वाजा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -127,21 +127,21 @@ genre M
 हे **मित्रावरुणौ** देवौ **वां** युवा **को** **नु** कः खलु यजमानः **ऋतायन्** यज्ञमिच्छन् शक्नुयादिति शेषः । तस्मात् कृपयैव **दिवः** सदसि द्युलोकसंबन्धिनि स्थाने **महः** महतः **पार्थिवस्य** सदसि । **ऋतस्य** उत्पादकस्यान्तरिक्षस्य **सदसि** । तद्धेतुत्वात्ताच्छब्द्यम् । त्रिषु स्थानेषु **नः** अस्मान् **त्रासीथां** रक्षतम्। वाशब्दश्चार्थे । किंच **यज्ञायते** यज्ञमिच्छते **दे** **वा** हविर्दात्रे च मह्यं **पशुषो** **न** **वाजान्** पशुषु सीदतो वाजानन्नानि क्षीरदध्यादीनीव । तानि यथा प्रयच्छथः तद्वदवतमिति । यद्वा । नशब्दश्चार्थे । पशुषः पशून्वाजांश्च दत्तमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who, **Mitra** and **Varuṇa**, desiring to sacrifice to you, (is able to do so)? do you, whether (abiding) in the region of heaven, or of the vast earth, or of the firmament, protect us, and give to the donor (of the oblation), and to the sacrificer, cattle and food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Which one now, performing the truth for you two, Mitra and Varuṇa, is  to be given (a good thing) from great heaven or one stemming from  
 the earth  
 or (one) at the seat of truth [=ritual ground]—you two should protect  us—or which of you two (is ready) to give prizes to the sacrificer like  the prizes for one who wins cattle?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The conjunction vā ‘or’ dominates this vs.: there are 4 overt occurrences (twice in b, once each in c and d), as well as covert encodings, beginning with vā(m mitr)āv(aruṇ)āv (the latter two inverted) in pāda a and ending with the last word of the vs., vā́(jān). The end of the 2nd pāda, vā dé, with two monosyllables that, inverted, produce dévā(ḥ) (though with wrong accent for *devā́ḥ), draws further attention to vā.
 
@@ -162,23 +162,23 @@ The third term, “at the seat of truth” (ṛtásya … sádasi), expresses th
 In the new structure of d, with active value of the infinitive dé, vā́jān is its object. The last grammatically unparallel functional parallel is yajñāyaté … paśuṣó ná. Assuming that it is a gen. sg. (Oldenberg and Renou take it as acc. pl.), paśuṣáḥ ‘of one who wins cattle’ is in some sense parallel to yajñāyaté ‘for the one who sacrifices’, in that the vā́jān (‘prizes’) come to both. But paśuṣáḥ is a gen. dependent on vā́jān, while yajñāyaté is the indirect object with the infin. dé.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHO, Mitra-Varuna, is your pious servant to give you gifts from earth or mighty heaven?  
      Preserve us in the seat of holy Order, and give the offerer power that winneth cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Rechtwandelnde ist von euch, Mitra und Varuna, für die Gabe, sei es des hohen Himmels, sei es des irdischen Gutes, bestimmt, oder an der Stätte des Gesetzes? Nehmt uns in Schutz! Oder gewähret dem, der das Opfer pflegt, Belohnungen wie die des Viehschenkers.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer gilt euch fromm nun, Varuna und Mitra? Im Raum des hohen Himmels und der Erde, Im Sitz des Opfers schenkt wie Heerdenspender uns Güter oder dem, der Opfer darbringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой теперь у вас, о Митра-Варуна, благочестивый (человек)  
 (Намечен) для дара высокого неба или земного,  

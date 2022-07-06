@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡नः प꣡त्नीम् अग्नि꣡र् अदाद्  
 आ꣡युषा सह꣡ व꣡र्चसा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 जी꣡वाति शर꣡दः शत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 दी॒र्घऽआ॑युः । अ॒स्याः॒ । यः । पतिः॑ । जीवा॑ति । श॒रदः॑ । श॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punaḥ* ← *punar*
 - \[adverb\]
@@ -110,35 +110,35 @@ popular;; epic anuṣṭubh (380)
 **पुनः** स्वगृहीतां **पत्नीम्** **अग्निः** **आयुषा** **सह** वर्चसा सह **अदात्** प्रायच्छत् ॥ **अस्याः** अग्निदत्तायाः **यः** **पतिः** पुमान् सः **दीर्घायुः** सन् **शरदः** **शतं** शतसंवत्सरं **जीवाति** जीवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** gave the wife back again with life and splendour; may he who is her husband enjoying long lifelive a hundred years.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni has given the wife back, along with lifetime and luster, (to him) who as her husband will live, long-lived, through a hundred autumns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni hath given the bride again with splendour and with ample life.  
      Long lived be he who is her lord; a hundred autumns let him live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni hat die Gattin zurückgegeben nebst langem Leben und blühendem Aussehen. Langes leben werde dem, der ihr Gatte ist, hundert Herbste soll er leben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt hat Agni die Gattin zurückgegeben in blühender Lebenskraft, lange lebe ihr Gatte, hundert Jahre lang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни снова отдал жену  
 С долголетием и пригожестью в придачу.  

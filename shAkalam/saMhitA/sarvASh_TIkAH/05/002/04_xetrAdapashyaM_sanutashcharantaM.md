@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्षे꣡त्राद् अपश्यं सनुत꣡श् च꣡रन्तं  
 सुम꣡द् यूथं꣡ न꣡ पुरु꣡ शो꣡भमानम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡लिक्नीर् इ꣡द् युवत꣡यो भवन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 न । ताः । अ॒गृ॒भ्र॒न् । अज॑निष्ट । हि । सः । पलि॑क्नीः । इत् । यु॒व॒तयः॑ । भ॒व॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṣetrād* ← *kṣetrāt* ← *kṣetra*
 - \[noun\], ablative, singular, neuter
@@ -133,7 +133,7 @@ genre M
 अहं वृश इदानीं **क्षेत्रात्** क्षेत्रे **सनुतः** । अन्तर्हितनामैतत् । निगूढं **चरन्तम्** अरण्यां **यूथं** **न** गवां समूहमिव **सुमत्** स्वयमेव **पुरु** बहु **शोभमानम्** **अपश्यं** पश्यामि । पुरा हरसः पिशाच्याक्रमणकाले **ताः** ज्वाला निर्वीर्याः **न** **अगृभ्रन्** नागृह्णन्त नराः । इदानीं 'सः अग्निः **अजनिष्ट** **हि** । हरसा प्रादुरभूत् खलु। अत एव हेतोः **पलिक्नीरित्** पलिक्न्यः पलिता जीर्णाः ज्वाला एवेदानीं **युवतयो** **भवन्ति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,34 +144,34 @@ genre M
 Passing like a herd of cattle: going from pasture to pasture; grey-haired are young: paliknīr id yuvatayobhavanti: the flames which had so often produced may be considered as aged;or liṭ, grey-headed; or, an allusion is intended to the suspension of the functions of fire, as in the legend
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I saw him moving from his homeland into the distance, going in beauty  in many ways like a herd (moving) together.  
 They did not keep hold of him. Because he has been born, the young  women become gray.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I saw him moving from the place he dwells in, even as with a herd, brilliantly shining.  
      These seized him not: he had been born already. They who were grey with age again grow youthful.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I saw him, the highly shining (Agni), walking far from his dwelling-place, like (a bull) together with the herd 1. Those (women) have not held him, for he has been born. The young women become grey 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich sah ihn von seiner Flur sich entfernen, ich fand seine schöne Herde nicht mehr stattlich aussehend. Nicht haben sie ihn festgehalten, denn jetzt ist er geboren. Die Ergrauten wurden wieder jung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus ferner Gegend sah ich her ihn wandern wie mit der Heerde, ihn, der hell erstrahlte; Nicht hielt man fest ihn, denn er ward geboren, und wieder werden jung die alten Kühe
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я видел, как он уходит прочь со (своего) поля,  
 (А) само стадо не очень-то пылает (без него).  

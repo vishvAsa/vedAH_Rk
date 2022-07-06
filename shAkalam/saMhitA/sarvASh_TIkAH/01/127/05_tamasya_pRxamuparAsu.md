@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अस्य पृक्ष꣡म् उ꣡परासु धीमहि  
 न꣡क्तं यः꣡ सुद꣡र्शतरो दि꣡वातराद्  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 अग्न꣡यो व्य꣡न्तो अज꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 भ॒क्तम् । अभ॑क्तम् । अवः॑ । व्यन्तः॑ । अ॒जराः॑ । अ॒ग्नयः॑ । व्यन्तः॑ । अ॒जराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -166,7 +166,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 इदानीमाहवनीयादिरूपेण अग्नेर्बहुत्वमपेक्ष्याह । एते **अग्नयः** **भक्तं** सेवमानम् **अभक्तम्** असेवमानं च **व्यन्तः** एते प्राणिनः अनुग्राह्याः इति बुध्यमानाः **अवः** रक्षन्ति । यद्यपि विशेषेण प्राणिनो  दाहपाकादिद्वारा रक्षन्ति तथाप्यस्ति यजमानेष्वतिशय इत्याह । **व्यन्तः** तैः प्रत्तं हविरश्नन्तः **अजराः** भवन्ति । स्वयं हविषा अजराः सन्तो यजमानानप्यजरान् कुर्वन्तीत्यर्थः ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -177,14 +177,14 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Aprāyuṣe divātarāt (**Taittirīya** **Āraṇyaka** 1.14), to him who has not prominent or vigorous life through the day, being dimmed or enfeebled by the superior effulgence of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This fortifying power of his might we acquire in future (days), of him  who by night is more beautiful to see than by day—(more beautiful  to see) than the one who traverses by day [=sun], for (the man) whose  lifespan is not (yet) extended,294 I.127  
 because his [=Agni’s] lifespan provides a handhold, staunch like shelter  for a son.  
 His help, apportioned (to us?) or not, the unaging ones are pursuing— the unaging fires are pursuing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 After the respite of vs. 4, this verse returns to puns and word plays in full force. The syntax of this verse is complicated enough without unintended ambiguity in the English. In the pub. tr. “This fortifying power of his might we acquire …” ‘might’ is a modal verb (“might we acquire”), not an abstract noun (*“his might”).
 
@@ -197,29 +197,29 @@ In the next pāda Agni’s own lifespan (that is, his immortality, more explicit
 I don’t quite understand bhaktám ábhaktaṃ vā. It is probably an implicitly temporal expression: the help that has already been apportioned and the rest that has not yet been apportioned (but will be, we hope).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here near we place the sacrificial food for him who shines forth fairer in the night than in the day, with life then stronger than by day.  
      His life gives sure and firm defence as that one giveth to a son.  
      The during fires enjoy things given and things not given, the during fires enjoy as food.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Let us place that power 1 of his in our neighbourhood 2—(that power) which is more visible by night than by day 3—(more visible) than by day to the unremitting 4 (worshipper). Therefore his life is a firm hold 5, like (a father's) safe refuge to a son: (the fires) that never grow old, tending to blessings enjoyed or not enjoyed (before) 6—the fires that never grow old, tending (to such blessings).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese seine Kraft wollen wir in Zukunft besitzen, der des Nachts schöner zu sehen ist als am Tag, ohne zu altern als am Tag und seine Lebenskraft, die wie der Halt gebende starke Schirm des Vaters für den Sohn ist. Nach geschenkter und ungeschenkter Gunst verlangend sind die alterlosen Flammen, verlangend die alterlosen Agni´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In seine Nähe bringen wir dies Labeross, ihm, der bei Nacht noch heller als bei Tage strahlt, nicht rastend, als bei Tage strahlt, Sein Leben bietet starken Halt, fest wie dem Sohn des Vaters Schutz; Geschenktes, ungeschenktes speisend altern nicht die Flammen, nimmer altern sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим в ближайшем будущем овладеть этой силой его –  
 (Бога,) который ночью (еще красивее) выглядит, чем днем,  

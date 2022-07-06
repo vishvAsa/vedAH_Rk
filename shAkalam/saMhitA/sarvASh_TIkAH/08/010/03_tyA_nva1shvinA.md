@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिया꣡ नु꣡ अश्वि꣡ना हुवे  
 सुदं꣡ससा गृभे꣡ कृता꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवे꣡षु अ꣡धि आ꣡पियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ययोः॑ । अस्ति॑ । प्र । नः॒ । स॒ख्यम् । दे॒वेषु॑ । अधि॑ । आप्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyā* ← *tya*
 - \[noun\], accusative, dual, masculine
@@ -112,41 +112,41 @@ genre M
 **त्या** त्यौ पूर्वोक्तगुणावश्विनौ **नु** क्षिप्रम् अहम् **हुवे** आह्वयामि । कीदृशौ । **सुदंससा** शोभनकर्माणौ **गृभे** ग्रहे ग्रहणायास्माभिर्दत्तानां हविषां स्वीकरणायास्मभ्यं धनदानाय वा **कृता** कृतौ प्रादुर्भूतौ **देवेषु** मध्ये । अधिः सप्तम्यर्थानुवादी । **ययोः** अश्विनोः **आप्यम्** आप्तव्यं **नः** अस्माकं **सख्यं** सखित्वं **प्र** **अस्ति** प्रभवति उत्कर्षेण वर्तते तौ हुव इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke those **Aśvins**, who are famed for great deeds, induced (to come here) for acceptance (of ouroblations), of whom among the gods the friendship is especially to be obtained.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now I call upon these Aśvins of very wondrous powers, the two made  for grasping,  
 whose comradeship for us is preeminent and their friendship among  the gods,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Renou points out the similarity of gṛbhé kṛtā́in 3 with ā́kṛte gṛhé in 1c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those Asvins I invoke who work marvels, brought hither to receive,  
      With whom our friendship is most famed, and kinship passing that of Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jene guteswirkenden Asvin rufe ich, die zum Festhalten geschaffen sind, denen unsere Freundschaft und nahe Beziehung zu den Göttern vorgeht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die thatenreichen Ritter, welche recht dazu angethan sind, um sie zu gewinnen, sie rufe ich an, bei denen unsere Freundschaft und unsere Verwandtschaft mit den Göttern viel gilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот тех самых Ашвинов я зову,  
 Творящих чудеса, созданных для хватания,  

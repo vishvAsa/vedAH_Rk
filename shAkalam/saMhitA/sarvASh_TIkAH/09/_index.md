@@ -3,7 +3,7 @@ title = "+09"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 ### Soma Pavamāna  
 The IXth Maṇḍala is the only major grouping in the R̥gveda devoted to a single ritual  procedure. It consists of 114 hymns dedicated to Soma Pavamāna, “self-purifying  Soma.” It treats the deified ritual substance, the exhilarating drink soma, whose  preparation and offering are the focus of the most important Vedic ritual, the soma  sacrifice, but it treats that substance at only a single episode in the whole elaborate  sacrifice, the time when the soma juice, which has already been pressed, is poured  across the sheep’s fleece that serves to “purify” it—that is, to remove the vegetable  detritus still present in the liquid—before it is first diluted with water, then mixed  with milk, and poured into the offering vessels. (For more detailed treatment of  the ritual procedures involved see, e.g., Geldner’s introduction to this maṇḍala and  Oberlies 1999.)  
@@ -27,7 +27,7 @@ The maṇḍala is organized by meter, with the majority of the hymns in the  di
 Gāyatrı̄ Hymns: 1–67
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Commentary IX.1-67 Since all hymns in this maṇḍala are dedicated to Soma Pavamāna, the dedicand will not be identified for each hymn.
 

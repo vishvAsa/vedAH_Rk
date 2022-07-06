@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुआयुधं꣡ सुअ꣡वसं सुनीथं꣡  
 च꣡तुःसमुद्रं धरु꣡णं रयीणा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं चित्रं꣡ वृ꣡षणं रयिं꣡ दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 च॒र्कृत्य॑म् । शंस्य॑म् । भूरि॑ऽवारम् । अ॒स्मभ्य॑म् । चि॒त्रम् । वृष॑णम् । र॒यिम् । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svāyudhaṃ* ← *su*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M;; repeated line
 **स्वायुधं** शोभनवज्राद्यायुधं **स्ववसं** शोभनरक्षणं सुगमनं वा **सुनीथं** सुनयनं **चतुःसमुद्रं** चतुरः समुद्रान् यो यशसा व्याप्नोति तं **धरुणं** धारकम् । केषाम् । **रयीणां** धनानाम् । **चर्कृत्यं** पुनःपुनः कर्तव्यं **शंस्यं** स्तुत्यं **भूरिवारं** भूरीणां दुःखानां वारकं बहुभिर्वरणीयं वा त्वां विद्मेति शेषः । तादृशोऽस्मभ्यमित्यादि पूर्ववत् । यद्वा । हे इन्द्र उक्तगुणविशिष्ट पुत्राख्यं रयिं दाः देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M;; repeated line
 We know you to be: **ukta**-guṇaviśiṣṭam rayim **dehi** = give us wealth, having thesequalities, i.e. well-armed etc.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Possessing good weapons, good help, good guidance, supporting four  seas worth of riches,  
 ever to be celebrated, praiseworthy, bringing abundant things of value.  – To us give bright, bullish wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wealth, fully armed, good guard and kind protector, sprung from four seas, the prop and stay of treasures,  
      Fraught with great bounties, meet for praise and glory; vouchsafe us mighty and resplendent riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den gutebewaffneten, hilfreichen, den guten Führer, der dem Viermeer gleicht als Grundlage der Reichtümer, den rühmlichen, löblichen, vielbegehrten. - Gib uns den ansehnlichen bullenhaften Schatz;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als wohlbewehrten starken Hort und Führer, als Reichthums-Becken, vier der Meere fassend, Als güterreichen, werth des Ruhms und Preises; drum gib uns Reichthum, mannichfachen, starken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дающее хорошее оружие, хорошую помощь, хорошее руководство,  
 Исходящее из четырех морей, основу богатств,  

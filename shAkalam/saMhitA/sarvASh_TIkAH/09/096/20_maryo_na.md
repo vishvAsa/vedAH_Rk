@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡र्यो न꣡ शुभ्र꣡स् तनु꣡वम् मृजानो꣡  
 अ꣡त्यो न꣡ सृ꣡त्वा सन꣡ये ध꣡नानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡निक्रदच् चमु꣡वोर् आ꣡ विवेश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृषा॑ऽइव । यू॒था । परि॑ । कोश॑म् । अर्ष॑न् । कनि॑क्रदत् । च॒म्वोः॑ । आ । वि॒वे॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maryo* ← *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 **शुभ्रः** दीप्यमानोऽलंकृतः **मर्यो** **न** मनुष्य इव **तन्वम्** आत्मीयं शरीरं **मृजानः** वसतीवरीभिः शोधयन् किंच **धनानां** **सनये** संभजनाय लाभाय **अत्यो** **न** अतनशीलोऽश्व इव **सृत्वा** सरणशीलः अपि च **वृषेव** वृषा यथा यूथानि प्रतिगच्छन् शब्दं करोति तद्वत् **कोशम्** अधिषवणचर्मणा कृतं पात्रं **परि** अर्षन् प्रतिगच्छन् सोमः **कनिक्रदत्** पुनःपुनः शब्दं कुर्वन् **चम्वोः** अधिषवणफलकयोः **आ** **विवेश** आविशति ॥ कनिक्रदत् । क्रदेर्यङ्लुकि ' दाधर्ति दर्धर्ति' इत्यादिना निपातनादभ्यासस्य निगागमः । तस्य शतरि ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M
 Like a richy decorated man: maryo na **śubhraḥ**; the plural nks: the ladles; the soma has already been effused and filtered
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a resplendent young blood grooming his own body, like a steed  running to gain the stakes,  
 charging around the cask like a bull around the herds, constantly  roaring he has entered the two cups.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Soma’s journey from the filter (vs. 17) and across the domains on the ritual ground (vss. 18-19) reaches its end when he enters the two cups, presumably ready for the gods to consume.
 
@@ -154,23 +154,23 @@ Again these two vss. belong to separate mini-hymns, but they are clearly concate
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a fair youth who decorates his body, a courser rushing to the gain of riches,  
      A steer to herds, so, flowing to the pitcher, he with a roar hath passed into the beakers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein schöner Jüngling seinen Körper putzend, wie ein Rennpferd laufend, um die Preise zu gewinnen, die Kufe umkreisend wie ein Bulle die Herde, ist er brüllend in die beiden Camugefäße eingezogen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Körper schmückend wie ein schöner Bräut'gam, und eilend wie ein Ross zur Preiserlangung, Zum Fass rings strömend wie ein Bull zur Heerde, ist in die Schalen brüllend er gedrungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как красивый молодой мужчина, украшающий (свое) тело,  
 Бросаясь, как скакун, для захвата ставок,  

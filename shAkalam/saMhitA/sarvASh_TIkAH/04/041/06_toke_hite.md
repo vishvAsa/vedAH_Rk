@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तोके꣡ हिते꣡ त꣡नय उर्व꣡रासु  
 सू꣡रो दृ꣡शीके वृ꣡षणश् च पउं꣡स्ये  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वोभिर् दस्मा꣡ प꣡रितक्मियायाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्रा॑ । नः॒ । अत्र॑ । वरु॑णा । स्या॒ता॒म् । अवः॑ऽभिः । द॒स्मा । परि॑ऽतक्म्यायाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *toke* ← *toka*
 - \[noun\], locative, singular, neuter
@@ -113,7 +113,7 @@ genre M
 हे इन्द्रावरुणौ देवौ नः **हिते** **तोके** पुत्रे **तनये** तत्पुत्रे च **उर्वरासु** सस्याढ्यासु भूमिषु निमित्तभूतासु **सूरः** प्रेरकस्य सूर्यस्य **दृशीके** चिरकालदर्शनाय । चिरजीवनायेत्यर्थः । तथा **वृषणः** सेक्तुर्मम **पौंस्ये** **च** पुंस्त्वाय च पुनरपि प्रजननसामर्थ्याय च **दस्मा** शत्रूणां हिंसकौ सन्तौ **नः** अस्माकम् **अवोभिः** रक्षणैः सह **परितक्म्यायां** परितकने निमित्तभूते सति । यद्वा रात्रिनामैतत् । रात्रौ हिंसकानां वधाय **स्यातां** भवेताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,34 +124,34 @@ genre M
 Be around us: paritakmyāyām = paritakane, in the night, i.e. may Indra and Varuṇa protect us in the night against evil spirits; long life: sūro dṛśike = sūryasya cirakāladarśanāya, for the sight of the sun for a long time, i.e. cirajivanāya, for long life
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When progeny and posterity are at stake, when fields, the sight of the  sun, and the masculine power of the bull,  
 Indra and Varuṇa should be here for us, the wondrous pair with their  forms of help at the turning point.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich consists of a series of loc. absol., all depending on hité ‘set (as stake)’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For fertile fields, for worthy sons and grandsons, for the Sun's beauty and for steer-like vigour,  
      May Indra-Varuna with gracious favours work marvels for us in the stress of battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn der leibliche Same auf dem Spiel steht, wenn die Felder, der Anblick der Sonne und die Heldentat eines Bullen, dann sollen Indra und Varuna mit ihren Hilfen uns beistehen, die Meister in der entscheidenden Wendung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu liebem Sohn, zu Enkeln und zu Feldern zum Schau'n der Sonne und zu Heldenstärke Seid hülfreich uns, o Varuna und Indra, im Dunkel auch der Nacht, o wunderbare.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда установлена (ставка) – дети и внуки, поля,  
 Видение солнца, мужская сила быка,  

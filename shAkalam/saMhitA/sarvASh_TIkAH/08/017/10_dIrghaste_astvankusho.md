@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दीर्घ꣡स् ते अस्तु अङ्कुशो꣡  
 ये꣡ना व꣡सु प्रय꣡छसि  
 य꣡जमानाय सुन्वते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 यज॑मानाय । सु॒न्व॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dīrghas* ← *dīrghaḥ* ← *dīrgha*
 - \[noun\], nominative, singular, masculine
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे इन्द्र **ते** तव **अङ्कुशः** सृणिराकर्षणसाधनमायुधं **दीर्घः** **अस्तु** आयतो भवतु । यथा दूरस्थमपि वस्तु व्याप्नोति तथायामवान् भवत्वित्यर्थः । **येन** अङ्कुशेन **सुन्वते** सोमाभिषवं कुर्वते **यजमानाय** **वसु** धनमाहृत्य **प्रयच्छसि** ददासि ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,29 +89,29 @@ Goad: or,crook;
 **Aṅkuśa** = an instrumental ument for drawing towards us things out of reach
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your hook be long by which you hold out goods  
 to the sacrificer who presses (soma).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Long be thy grasping-hook wherewith thou givest ample wealth to him  
      Who sheds the juice and worships thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lang soll dein Haken sein, mit dem du dem Opfernden, Somapressenden Schätze reichst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lang sei dein Haken ausgestreckt, mit dem du Güter ziehst heran Dem Opferer, der Soma braut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Длинным пусть будет крюк у тебя,  
 Которым ты передаешь добро  

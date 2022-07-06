@@ -6,12 +6,12 @@ ChandaH = "एकपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सि꣡षक्तु न ऊर्जवि꣡यस्य पुष्टेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -25,7 +25,7 @@ genre M
 सिस॑क्तु । नः॒ । ऊ॒र्ज॒व्य॑स्य । पु॒ष्टेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *siṣaktu* ← *sac*
 - \[verb\], singular, Present imperative
@@ -50,7 +50,7 @@ genre M
 **ऊर्जव्यस्य** एतन्नामकस्य राज्ञः **पुष्टेः** पोषकस्य संबन्धिनः **नः** अस्मान् **सिषक्तु** सेवताम् । सामर्थ्याद्देवसंघ इति गम्यते । अथवोर्वशी मरुद्गणो वा गृह्यते प्रकृतत्वादिति ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -63,12 +63,12 @@ Siṣaktu na ūrjavyasya puṣṭeḥ: urjavya is the name of a **rājā**;
 Puṣṭeḥ = poṣakasya, one who cherishes or patronizes; the nominative native to the verb may be either **Urvaśī** or Iḷā or the **Marudgaṇaḥ**, the company of the **Maruts**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of the nourishing prosperity [/of the prosperity of Ūrjavya]—let her  accompany us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/041/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -86,17 +86,17 @@ I am uncertain what to do with ūravyàsya in 20 (PN or not), and I also do not 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Visit us while she shares Urjavya's food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Mutter des Wohlstandes des Urjavya soll uns zur Seite stehen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да поможет нам (мать) процветания Урджавьи!
 </details>

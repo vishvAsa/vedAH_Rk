@@ -6,14 +6,14 @@ ChandaH = "पिपीलिकमध्या"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡ज्रं य꣡श् चक्रे꣡ सुह꣡नाय द꣡स्यवे  
 हिरीमशो꣡ हि꣡रीमान्  
 अ꣡रुतहनुर् अ꣡द्भुतं न꣡ र꣡जः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अरु॑तऽहनुः । अद्भु॑तम् । न । रजः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
@@ -102,37 +102,37 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **यः** इन्द्रः **सुहनाय** सुष्ठु हननीयाय **दस्यवे** उपक्षपयित्रे शत्रवे तस्य वधाय **वज्रं** प्रहरणसाधनमायुधं **चक्रे** कृतवान् स त्वं वृजिना शिशीहीत्युत्तरत्र संबन्धः । कीदृश इन्द्रः। **हिरीमशः** हरितश्मश्रुः । पृषोदरादिः । **हिरीमान्** हरिताश्वो हरितवर्णो वा **अरुतहनुः** अबाधितहनुः । किमिव । **अद्भुतं** **न** **रजः** । अद्भुतमिति महन्नाम । रज इति रञ्जकमन्तरिक्षमुच्यते । महदन्तरिक्षमिव । तद्यथान्यैरबाध्यं भवति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The golden-bearded (**Indra**), lord of bay horses, who made the thunderbolt for the easy destruction ofthe **Dasyu**, who has irresistible jaws like the vast firmament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who made his own mace, to smash the Dasyu easily—he,  
 golden-colored, golden,  
 with unbroken jaw, is like the infallible airy realm [?].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The bolt, which pierced at once the vitals of the Dasyu easy to be slain,  
      With jaw uninjured like the wondrous firmament.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der sich die Keule gefertigt hat, um den Dasyu leicht zu erschlagen, der Goldbärtige, Goldfarbige mit ungebrochener Kinnlade, unkenntlich wie das Dunkel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welcher, um schnell den Dämon zu tödten, den Donnerkeil sich machte von goldner Farbe, der goldfarbige, er, dessen Kinnbacken nicht zerbrochen sind, dem wunderbaren Luftraum gleichend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто сделал себе дубину, чтобы легко убивать дасью,  
 Рыжеватый, золотистый,  

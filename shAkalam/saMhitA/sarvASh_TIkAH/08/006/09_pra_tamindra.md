@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ त꣡म् इन्द्र नशीमहि  
 रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
 प्र꣡ ब्र꣡ह्म पूर्व꣡चित्तये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र । ब्रह्म॑ । पू॒र्वऽचि॑त्तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **गोमन्तं** गोभिर्युक्तम् **अश्विनम्** अश्वैरुपेतं **तं** प्रसिद्धं **रयिं** त्वदीयं धनं **प्र** **नशीमहि** प्राप्नुयाम । तथा **ब्रह्म** परिवृढमन्नं च **पूर्वचित्तये** अन्येभ्यः पूर्वमेव ज्ञानाय प्राप्नवाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,29 +94,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Or, so as to know it, i.e. gain it, before others: anyebhyaḥ pūrvameva jñānāya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we attain to this, Indra: to wealth in cows and horses,  
 and to a sacred formulation to be first in your thought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, may we obtain that wealth in horses and in herds of cows,  
      And prayer that may be noticed first.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten den Reichtum an Rindern und Rossen erlangen, Indra, und das wirkungsvolle Wort erlangen, um zuerst bedacht zu werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass, Indra, uns erlangen nun an Ross und Rindern reiches Gut, Sogleich als des Gebets Gewähr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим, о Индра, добиться этого  
 Богатства из коров (и) из коней,  

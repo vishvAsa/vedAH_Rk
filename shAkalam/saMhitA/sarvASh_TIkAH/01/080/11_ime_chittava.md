@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ चित् त꣡व मन्य꣡वे  
 वे꣡पेते भिय꣡सा मही꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 यत् । इ॒न्द्र॒ । व॒ज्रि॒न् । ओज॑सा । वृ॒त्रम् । म॒रुत्वा॑न् । अव॑धीः । अर्च॑न् । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, dual, feminine
@@ -118,37 +118,37 @@ genre M;; repeated line
 **मही** महत्यौ **इमे** द्यावापृथिव्यावपि हे इन्द्र **तव** **मन्यवे** त्वदीयकोपात् **भियसा** भीत्या **वेपेते** कम्पेते । हे **वज्रिन्** वज्रवन् **इन्द्र** **मरुत्वान्** मरुद्भिर्युक्तस्त्वम् **ओजसा** बलेन **यत्** यदा **वृत्रं** **अवधीः** तदानीं द्यावापृथिव्यावपि भयेनाकम्पिषातामित्यर्थः ॥ वेपेते । टुवेपृ कम्पने ' । भियसा । ञिभी भये । औणादिकः कसिप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This heaven and earth trembled, thunderer, at your wrath, when, attended by the **Maruts**, you slew **Vṛtra** by your prowess, manifesting your own sovereignty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even these two great (world-halves) here tremble with fear before your  battle-fury,  
 since, mace-bearing Indra, you have slain Vr̥tra with might, with the  Maruts alongside.  
 – They cheer on your sovereign power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, even this great Pair of Worlds trembled in terror at thy wrath,  
      When, Indra, Thunderer, Marut-girt, thou slewest Vrtra in thy strength, lauding thine own imperial sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus Furcht zittern sogar diese beiden großen Himmel und Erde vor deinem Grimme, als du, Keulenträger Indra, im Bunde mit den Marut kraftvoll den Vritra erschlagen hast. - Sie sollen in deine Selbstherrlichkeit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch dieses grosse Weltenpaar erbebt aus Furcht vor deinem Zorn, Als Indra mit den Maruts du den Vritra blitzend schlugst mit Macht, du strahlst in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже эти двое великих  
 Дрожат от страха перед твоим гневом,  

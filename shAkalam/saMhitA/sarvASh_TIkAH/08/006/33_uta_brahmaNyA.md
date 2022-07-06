@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ ब्रह्मणिया꣡ वयं꣡  
 तु꣡भ्यम् प्रवृद्ध वज्रिवः  
 वि꣡प्रा अतक्ष्म जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विप्राः॑ । अ॒त॒क्ष्म॒ । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -74,36 +74,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **प्रवृद्ध** स्तुतिभिः प्रकृष्टां वृद्धिं प्राप्त हे **वज्रिवः** वज्रवन्निन्द्र। एको मत्वर्थीयोऽनुवादः । यद्वा । वज्रोऽस्यास्तीति वज्री हस्तः । तद्वान् । 'छन्दसीरः' इति मतुपो वत्वम् । ‘मतुवसो रुः' इति मकारस्य रुत्वम् । ईदृशेन्द्र **तुभ्यं** त्वदर्थं **विप्राः** मेधाविनः **वयं** **ब्रह्मण्या** ब्रह्माणि स्तोत्राणि हविर्लक्षणान्यन्नानि वा। ‘सुपां सुलुक्' इति सुपो याजादेशः। **जीवसे** जीवनार्थम् **अतक्ष्म** अकार्ष्म। ‘ तक्षु त्वक्षू तनूकरणे ' । लङि छान्दसः शपो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wielder of the thunderbolt, magnified (by our praises), we your worshippers have offered to you theseprayers for our existence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And in seeking a sacred formulation for you, you fully grown  mace-bearer,  
 as inspired poets we have fashioned (it) in order to live.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thee, O Mighty, Thunder-armed, we singers through devotionhave  
      Fashioned the hymn that we may live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und im Streben nach einer erbaulichen Rede haben wir Redekundigen sie für dich, du erstarkter Keulenträger, zu einem Gedicht geformt, um davon zu leben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir Sänger haben andachtsvoll, dir, o gewalt'ger Schleuderer, Dies Lied gemacht zum Leben uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И мы, вдохновенные, благочестиво  
 Для тебя, о подкрепленный громовержец,  

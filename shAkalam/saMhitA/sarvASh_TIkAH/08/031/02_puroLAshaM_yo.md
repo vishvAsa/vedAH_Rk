@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरोळा꣡शं यो꣡ अस्मै  
 सो꣡मं र꣡रत आशि꣡रम्  
 पा꣡द् इ꣡त् तं꣡ शक्रो꣡ अं꣡हसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 पात् । इत् । तम् । श॒क्रः । अंह॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puroﾱāśaṃ* ← *puroﾱāśam* ← *puroḍāśa*
 - \[noun\], accusative, singular, masculine
@@ -85,41 +85,41 @@ genre M
 **यः** यजमानः **अस्मै** इन्द्राय पशुपुरोळाशं तथा **आशिरं** तृतीयसवने गोक्षीरेणामिश्रित **सोमं** **ररते** प्रयच्छति । रातेर्लटि शपः श्लुः। अडागमः। **शक्रः** समर्थः स इन्द्रः **तं** यष्टारम् **अंहसः** पापात् तद्रूपाद्रक्षसो वा **पात्** । **इत्** अवधारणे । अपादेव । रक्षत्येव । पातेर्लुङि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** protects from sin that man who offers him cakes and presents **Soma** mixed with milk.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will give the offering cake to him and the soma with its  milk-mixture,  
 able (Indra) will protect just him from difficult straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The word order of c is slightly skewed. All things being equal, forms of the sá/tám pronoun, esp. in correlative usage, tend to take 1st position in the pāda/clause. This expectation is reinforced here by 2nd position íd ‘just, only’, which really should limit tám (as my tr. reflects), but the verb pā́t seems to have displaced the pronoun to the right of íd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sakra protects from woe the man who gives him sacrificial cake.  
      And offers Soma blent with milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer ihm Reiskuchen, Soma und Mischmilch spendet, den wird der Mächtige vor Not schützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer Opferkuchen ihm verehrt, und Soma und der Milch Gemisch, Den schützt der starke vor Gefahr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто ему жертвенную лепешку,  
 Сому с добавлением молока предоставляет,  

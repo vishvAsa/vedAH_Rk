@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सू꣡रिये न꣡ रश्म꣡यो ध्रुवा꣡सो  
 वैश्वानरे꣡ दधिरे ऽग्ना꣡ व꣡सूनि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 या꣡ मा꣡नुषेषु अ꣡सि त꣡स्य रा꣡जा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 या । पर्व॑तेषु । ओष॑धीषु । अ॒प्ऽसु । या । मानु॑षेषु । असि॑ । तस्य॑ । राजा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -122,41 +122,41 @@ genre M
 **अग्ना** **वैश्वानरे** अग्नौ **वसूनि** धनानि **आ** **दधिरे** आहितानि स्थापितानि बभूवुः । तत्र दृष्टान्तः । **ध्रुवासः** निश्चलाः **रश्मयः** किरणाः **सूर्ये** **न** यथा सूर्ये आधीयन्ते तद्वत् । अतस्त्वं पर्वतादिषु यानि धनानि विद्यन्ते **तस्य** धनजातस्य **राजा** **असि** अधिपतिर्भवसि ॥ अग्ना । ‘सुपां सुलुक्० इति विभक्तेः डादेशः । या । ‘शेश्छन्दसि बहुलम्' इति शेर्लोपः । ओषधीषु ।' उष दाहे । ओषः पाकः । भावे घञ् । ञित्त्वादाद्युदात्तत्वम् । ओष आसु धीयते इति ओषधयः । 'कर्मण्यधिकरणे च' इति किप्रत्ययः । दासीभारादिषु पठितत्वात् पूर्वपदप्रकृतिस्वरत्वम् । सप्तमीबहुवचने ‘ओषधेश्च विभक्तावप्रथमायाम् ' (पा. सू. ६. ३. १३२ ) इति दीर्घः। अप्सु । ' उडिदम्' इति विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Treasures were deposited in the **Agni**, **Vaiśvānara**, like the permanent rays (of light) in the sun; you are the sovereign of all the treasures that exist in the mountains, in the herbs, in the waters, or amongst men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the rays (placed) firm in the sun, in Vaiśvānara, in Agni have goods  been placed—  
 those that are in the mountains, in the plants, in the waters, that are  among men—of (all) this you are king.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As in the Sun firm rays are set for ever, treasures are in Vaisvanara, in Agni.  
      Of all the riches in the hills, the waters, the herbs, among mankind, thou art the Sovran.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As in the sun the rays are firmly fixed, thus in Agni Vaisvânara all treasures have been laid down 1. (The treasures) which dwell in the mountains, in the herbs, the waters, and among men—of all that thou art the king.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fest wie die Strahlen in der Sonne sind in Agni Vaisnavara die Güter gelegt, die in den Bergen, Pflanzen, Gewässern, die bei den Menschen sind. Du bist König darüber.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie in die Sonne Strahlen fest gefügt sind, so Schätze in den Hort der Männer, Agni, Die in den Bergen, Pflanzen sind, in Wassern und bei den Menschen, alles das beherrschst du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прочно, как лучи – в солнце,  
 Вложены блага в Агни-Вайшванару –  

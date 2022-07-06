@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ वा꣡सा꣡ उ अर्चि꣡षा  
 य꣡ आ꣡युक्त तुजा꣡ गिरा꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 बृह꣡च् छो꣡चन्ति अर्च꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दि॒वः । न । यस्य॑ । रेत॑सा । बृ॒हत् । शोच॑न्ति । अ॒र्चयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -106,7 +106,7 @@ genre M
 **यः** अग्निः **तुजा** जगद्रक्षणसमर्थेन बलेन **गिरा** स्तुत्या **अयुक्त** संबद्धो भवति **दिवो** **न** द्योतमानस्यादित्यस्येव **यस्य** अग्नेः **रेतसा** प्रभया कृत्स्नं जगद्व्याप्तं यस्याग्नेः **बृहत्** बृहन्तः **अर्चयः** दीप्तयः **शोचन्ति** प्रकाशन्ते **अस्य** **वै** खल्वग्नेः **अर्चिषा** प्रभया असौ आदित्यः अर्चिष्मान् भवति । **उ** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,34 +117,34 @@ genre M
 The text has only **asya** **vāsā** u arciṣā: va asa = va asau = liṭ, by the light of him, he verily; asu, he, designating the sun; i.e;, by the light of him, that is, of **Agni**, the sun becomes radiant; ādityo arciṣman **bhavati**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Surely it is by the mouth and flame of this one, who is hitched up by  thrust and song,  
 by whose semen, like that of heaven, flames blaze aloft,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, this is by the light of him whom powerful siong hath bound to act,  
      Whose bearns of splendour flash on high as though they sprang from heavenly seed.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (It is) yonder (sun?) who verily has been yoked by his (i. e. Agni's) light 1 through the impetuous speech 2—(by the light of Agni) whose flames mightily shine as if (they were made to shine) by the sperm of heaven 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch seinen Mund fürwahr und seine Flamme, der mit Eifer und Lobrede angeschirrt ward, dessen Flammen hoch lohen wie die Blitze durch den Samen des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist's ja, der mit seinem Glanz und kräft'gem Liede sich verband, Und dessen Strahlen leuchten hell wie durch des Himmels Samenguss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто впрягся своим ртом (и) пламенем  
 Благодаря рвению (жреца и) хвалебной песне,  

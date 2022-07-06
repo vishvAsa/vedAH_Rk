@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अ꣡यातं दि꣡वोदासाय वर्ति꣡र्  
 भर꣡द्वाजाय अश्विना ह꣡यन्ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृषभ꣡श् च शिंशुमा꣡रश् च युक्ता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रे॒वत् । उ॒वा॒ह॒ । स॒च॒नः । रथः॑ । वा॒म् । वृ॒ष॒भः । च॒ । शिं॒शु॒मारः॑ । च॒ । यु॒क्ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 हे अश्विनौ **हयन्ता** स्तुतिभिराहूयमानौ युवां **भरद्वाजाय** संभ्रियमाणहविर्लक्षणान्नाय यजमानाय **दिवोदासाय** एतत्संज्ञाय राजर्षये अभीष्टं फलं दातुं **वर्तिः** तदीयं गृहं **यत्** यदा **अयातम्** अगच्छतं तदानीं **रेवत्** धनयुक्तम् अन्नं **वां** युवयोः **सचनः** सेवन: **रथः** **उवाह** । तस्मै दिवोदासाय प्रापयामास । अपि च तस्मिन् रथे 'वृषभः अनड्वान् **शिंशुमारः** ग्राहः **च** परस्परविरुद्धावपि स्वसामर्थ्यप्रकटनाय **युक्ता’** वाहनतया संयुक्तावास्ताम् ॥ दिवोदासाय । ‘दिवश्च दासे षष्ठ्या अलुग्वक्तव्यः' ( का. ६. ३. २१.५ ) इत्यलुक् । ‘दिवोदासादीनां छन्दस्युपसंख्यानम् । इति पूर्वपदाद्युदात्तत्वम् । भरद्वाजाय । भृञ् भरणे । अस्माद्व्यत्ययेन कर्मणि शतृप्रत्ययः। शतुः ‘छन्दस्युभयथा ' इति आर्धधातुकत्वेन लसार्वधातुकानुदात्तत्वाभावात् प्रत्ययाद्युदात्तत्वम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । हयन्ता । ह्वेञः  कर्मणि लटो व्यत्ययेन शतृ । ‘बहुलं छन्दसि ' इति संप्रसारणम् । शपि गुणे छान्दसः अयादेशः । रेवत् । रयिशब्दात् मतुप् । ‘रयेर्मतौ बहुलम् ' इति संप्रसारणम् । छन्दसीरः' इति मतुपो वत्वम् । ‘रयिशब्दाच्च ' ( का. ६. १. १७६. १) इति मतुप उदात्तत्वम् । सचनः । षच सेवने '। ‘अनुदात्तेतश्च हलादेः' इति युच् । युक्ता । ‘सुपां सुलु' ' इति विभक्तेः आकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,29 +124,29 @@ genre M
 The bull and the porpoise: the **Vṛṣabha** and **Śiṃśumāra**. The latter is **a graha**, which is properly an alligator; but the śiṃśumāra is a gangetic porpoise; they were yoked to the car of the Aśvins, to display their power
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you two drove the course for Divodāsa and for Bharadvāja,  Aśvins, urging (your steeds) onward,  
 your accompanying chariot conveyed wealth. A bull and a river dolphin  were yoked (to it).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When to his house ye came, to Divodasa, hasting to Bharadvaja, O ye Asvins,  
      The car that came with you brought splendid riches: a porpoise and a bull were yoked together.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr Asvin für Divodasa, für Bharadvaja die Umfahrt machtet, die Rosse antreibend, da brachte euer getreuer Wagen reiches Gut. Der Stier und das Krokodil waren daran gespannt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da als ihr fuhrt zum Hof des Divodasa, dem Bharadvadscha Huld erweisend, Ritter, Da führte Schätze euer holder Wagen, und Stier und Meerschwein zogen ihn vereinigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда вы отправились в объезд для Диводасы,  
 Для Бхарадваджи, погоняя (коней), о Ашвины,  

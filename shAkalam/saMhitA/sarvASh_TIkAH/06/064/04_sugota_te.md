@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुगो꣡त꣡ ते सुप꣡था प꣡र्वतेषु  
 अवाते꣡ अप꣡स् तरसि स्वभानो  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रयिं꣡ दिवो दुहितर् इषय꣡ध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सा । नः॒ । आ । व॒ह॒ । पृ॒थु॒ऽया॒म॒न् । ऋ॒ष्वे॒ । र॒यिम् । दि॒वः॒ । दु॒हि॒तः॒ । इ॒ष॒यध्यै॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sugota* ← *sugā* ← *suga*
 - \[noun\], nominative, plural, neuter
@@ -127,42 +127,42 @@ genre M
 हे उषो देवि **पर्वतेषु** **उत** दुर्गेष्वपि **अवाते** गमनसाधनरहिते देशे **सुपथा** सुपथानि मार्गाणि **सुगा** सुगानि सुखेन गम्यानि **ते** तव भवन्ति । **स्वभानो** हे स्वप्रकाशे **अपः** अन्तरिक्षमाकाशम् ।  ‘ आपः ' इत्यन्तरिक्षनामसु पाठात् । सामुद्रिकीरपो वा **तरसि** । **पृथुयामन्** पृथुरथे **ऋष्वे** दर्शनीये **दिवो** **दुहितः** अन्तरिक्षसुते हे उषो देवि **सा** त्वम् **इषयध्यै** एषणीयं **रयिं** धनं **नः** अस्मभ्यम् **आ** **वह** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Yours are good roads and easy to be traversed in mountains and inaccessible plural ces; you pass self-irradiating over the waters; bring to us, daughter of heaven, in your spacious and beautiful chariot, desirable riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Easy are your pathways, easy your passages (even) in the mountains.  (Even) when it is windless you cross over the waters, self-radiant one. Convey wealth here for us to prosper, high Daughter of Heaven with  your broad course.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For sugá- supátha- see vs. 1.
 
 Geldner suggests that avāté “(even) when it is windless” describes a wonder, that Dawn crosses the water even without wind in her sails. I am not sure what evidence we have for sails, in addition to oars, in ancient Indian boats, but I have not systematically inquired into this. However, the “windless” circumstances might simply make reference to the previous pāda: the waters are also sugá- ‘easy to travel’ when there is no wind and therefore no turbulence. The word avāté also plays off the descriptor of Dawn in the next vs. (5a), ávātā ‘unsurpassable, unvanquished’; Oldenberg in fact suggests that we might read *ávāte, voc. of the latter stem, though a word play is much more satisfying poetically, and he does not dismiss the ‘windless’ interpr. out of hand.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy ways are easy on the hills: thou passest Invincible! Se1f-luminous! through waters.  
      So lofty Goddess with thine ample pathway, Daughter of Heaven, bring wealth to give us comfort.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch im Gebirge hast du gute Wege und Pfade; bei Windstille kommst du über die Gewässer, du Selbstleuchtende. Bring du uns Reichtum zum Genießen mit, breitbahnige, hohe Himmelstochter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und schön sind deine Bahnen auf den Bergen, durch Nebel dringst im stillen Raum du helle; So fahr uns denn auf breiter Bahn, erhabne, viel Gut zur Nahrung her, o Himmelstochter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Легкопроходимы твои счастливые пути (даже) в горах.  
 (И) в безветрии ты пересекаешь воды, о ты, самоизлучающаяся!  

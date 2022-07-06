@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ह य꣡द् यविष्ठिय  
 स꣡हसः सूनव् आहुत  
 ऋता꣡वा यज्ञि꣡यो भु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ऋ॒तऽवा॑ । य॒ज्ञियः॑ । भुवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -82,42 +82,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **यविष्ठ्य** युवतम **सहसः** **सूनो** बलस्य पुत्र **आहुत** सर्वतो हुत आहूत वा **त्वं** **यत्** यदा **ह** खलु **ऋतावा** सत्यवान् **यज्ञियः** यज्ञार्हश्च **भुवः** भवसि तदा वार्याणि श्रत्कुर्विति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since you are truthful and worthy of sacrifice, O most youthful, son of strength and everywherehonoured with offerings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since you—o youngest one, o son of strength to whom offering is made— have become the one possessing the truth and worthy of the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pleonastically+++(=redundant)+++ suffixed yáviṣṭhi ya- beside the regular splv. yáviṣṭhaowes its suffix entirely to metrical considerations. All 15 occurrences of the stem are pāda-final in a Jagatī or dimeter line and thus provide a text-book iambic cadence.
 
 The unextended yáviṣṭha- is not as rigidly placed, but is still often pāda-final in a Triṣṭubh cadence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou, Most Youthful, Son of Strength, thou to whom sacrifice is paid,  
      Art holy, faithful to the Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ja du, jüngster Sohn der Kraft, mit Schmalz Begossener, der wahrhaftige Opferwürdige wardst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du, o jüngster, sollst uns sein, o Sohn der Kraft, beträufelter, allheilig und verehrungswerth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

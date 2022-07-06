@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡पो षु꣡ जात꣡म् अप्तु꣡रं  
 गो꣡भिर् भङ्ग꣡म् प꣡रिष्कृतम्  
 इ꣡न्दुं देवा꣡ अयासिषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दु॑म् । दे॒वाः । अ॒या॒सि॒षुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upo* ← *upa*
 - \[adverb\]
@@ -87,20 +87,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सु** **जातं** सम्यक्प्रादुर्भूतम् **अप्तुरं** वसतीवरीभिः प्रेरितं **भङ्गं** शत्रूणां भञ्जकं **गोभिः** गोविकारैः पयोभिः **परिष्कृतम्** अलंकृतं संस्कृतम् **इन्दुं** सोमं **देवाः** इन्द्रादयः **उप** **अयासिषुः** उपागच्छन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods approach **Indu**, (who is) completely genitive rated, sent forth by the waters, the demolisher (of foes), adorned with milk and curds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up to the one who, just born, crosses the waters, breaking through,  adorned by cows—  
 up to the drop have the gods traveled.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -110,23 +110,23 @@ Again no signs of tṛca unity, unless the presence of cows in all three verses 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Gods have come to Indu well-descended, beautified with milk,  
      The active crusher of the foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dem erzeugten Safte, dem Wasserdurchdringer, dem Widerstandbrecher, dem Milchgeschmückten, sind die Götter fein hergekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem schön gebornen, emsigen Durchbrecher Indu, der mit Milch Gemischt ist, nahn die Götter jetzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К соку, пересекающему воды, едва родившись,  
 Украшенному коровьим (молоком), проламывающему (препятствия),  

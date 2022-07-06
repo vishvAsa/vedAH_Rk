@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अग्ने म꣡र्तियस् तुवं꣡  
 सिया꣡म् अह꣡म् मित्रमहो अ꣡मर्तियः  
 स꣡हसः सूनव् आहुत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 सह॑सः । सू॒नो॒ इति॑ । आ॒ऽहु॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -92,7 +92,7 @@ genre M;; repeated line
 हे **सहसः** **सूनो** बलस्य पुत्र **आहुत** घृतैरभिहुत हे **मित्रमहः** अनुकूलदीप्तिमन् **अग्ने** **मर्त्यः** मरणधर्मा **अहं** **यत्** यदि **त्वं** **स्यां** त्वदुपासनया त्वदूपमापन्नो भवेयम् । 'ये' यथायथोपासते ते तदेव भवन्ति' इति श्रुतेः । तर्ह्यहम् **अमर्त्यः** मरणरहितो देव एव भवेयमिति ॥ ॥३३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,29 +103,29 @@ genre M;; repeated line
 Immortal: ye yathā yathopāsate te tad eva **bhavanti** = asmen worship, such they become; or, may I, although a mortal, become as you, immortal
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If, Agni, you were mortal and I were immortal—o you with the might  of Mitra,  
 o son of strength bepoured (with ghee)—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Son of Strength, Agni, if thou wert the mortal, bright as Mitra, I worshipped with our gifts!  
      And I were the Immortal God
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn, Agni, du der Sterbliche wärest und ich der Unsterbliche, du wie ein Freund Gefeierter, du Sohn der Kraft, dem geopfert wird,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn sterblich du, o Agni, wärst, und ich, o freundereicher, ein Unsterblicher, O Sohn der Kraft, beträufelter,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если бы, о Агни, ты (был) смертным,  
 (А) я стал бы бессмертным, о (ты) великий, как Митра,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनीषे꣡ वाम् अरक्ष꣡सम् मनीषां꣡  
 सो꣡मम् इ꣡न्द्राय व꣡रुणाय जु꣡ह्वत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ नो या꣡मन्न् उरुष्यताम् अभी꣡के
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 घृ॒तऽप्र॑तीकाम् । उ॒षस॑म् । न । दे॒वीम् । ता । नः॒ । याम॑न् । उ॒रु॒ष्य॒ता॒म् । अ॒भीके॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punīṣe* ← *pū*
 - \[verb\], singular, Present indikative
@@ -118,36 +118,36 @@ genre M
 हे इन्द्रावरुणौ **वां** युवाभ्यां युवयोरर्थम् **अरक्षसं** रक्षोरहितां राक्षसैरसंस्पृष्टां **मनीषां** स्तुतिं **पुनीषे** शोधयामि । किं कुर्वन् । **इन्द्राय** **वरुणाय** च **सोमं** **जुह्वत्** इन्द्रं वरुणं चोद्दिश्य सोममग्नौ प्रक्षिपन् । कीदृशीं मनीषाम् । **देवीं** द्योतमानाम् **उषसं** **न** उषसमिव **घृतप्रतीकां** दीप्तावयवाम् । शिष्टः परोक्षकृतः । **ता** ताविन्द्रावरुणौ **अभीके** अभिगते युद्धे **यामन्** यामनि युद्धार्थं गमने सति **नः** अस्मान् **उरुष्यतां** रक्षताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer to you both adoration, uninterrupted by **rākṣasas**, presenting the **Soma** to **Indra** and to **Varuṇa**,-- (adoration), of which the members are radiant as the celestial dawn; may these two protect us at the time ofgoing to battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While offering soma to Indra and Varuṇa, I will purify for you two an  inspired thought free from anything demonic  
 and with a face of ghee like the goddess Dawn. Let those two give us  wide space at the moment of encounter on our journey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FOR you I deck a harmless hymn, presenting the Soma juice to Varuna and Indra-  
      A hymn that shines like heavenly Dawn with fatness. May they be near us on the march and guard us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich kläre für euch ohne Arg ein Gedicht, während ich dem Indra und Varuna Soma opfere, daß es wie geklärte Butter aussehe, wie die Göttin Usas. Die beiden sollen uns auf ihrer Fahrt in unmittelbarer Nähe schützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich schmücke euch ein andachtsreiches Lied aus, dem Varuna und Indra Soma giessend, Der glänzt von Fett wie Göttin Morgenröthe; sie mögen Raum uns schaffen bei der Feier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я очищаю для вас двоих молитву, отталкивающую ракшасов,  
 Возливая сому для Индры (и) Варуны,  

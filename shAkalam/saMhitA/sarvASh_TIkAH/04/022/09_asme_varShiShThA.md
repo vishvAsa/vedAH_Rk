@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ व꣡र्षिष्ठा कृणुहि ज्य꣡यिष्ठा+  
 नृम्णा꣡नि सत्रा꣡ सहुरे स꣡हांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जहि꣡ व꣡धर् वनु꣡षो म꣡र्तियस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मभ्य॑म् । वृ॒त्रा । सु॒ऽहना॑नि । र॒न्धि॒ । ज॒हि । वधः॑ । व॒नुषः॑ । मर्त्य॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], dative, plural
@@ -116,41 +116,41 @@ genre M
 हे **सहुरे** सहनशीलेन्द्र त्वं **सत्रा** सर्वदा **सहांसि** शत्रूनभिभावुकानि **वर्षिष्ठा** वर्षिष्ठानि प्रवृद्धानि **ज्येष्ठा** ज्येष्ठानि प्रशस्तानि **नम्णानि** बलानि **अस्मे** अस्मभ्यं **कृणुहि** कुरु। हे इन्द्र त्वम् **अस्मभ्यं** **सुहनानि** शोभनवधानि **वृत्रा** वृत्राणि शत्रून् **रन्धि** रन्धय वशं नय । किंच **वनुषः** हिंसकस्य **मर्त्यस्य** मरणधर्मणः शत्रोः संबन्धि **वधः** हननसाधनमायुधं **जहि** नाशय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Enduring **Indra**, bestow upon us energies, excellent, superior, powerful; bring under subjection to us enemies deserving of death; demolish the weapon of the malevolent man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For us activate your highest, most distinguished manly strengths and  powers altogether, o overpowering one.  
 For us weaken obstacles to become easily smashed: smash the deadly  weapon of the rapacious mortal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner tr. nṛmṇā́ni as ‘Mannestaten’, which works well as an object of √kṛ (though parallel sáhāṃsi ‘powers’ does not). But nṛmṇá- ordinarily refers not to deeds but to the abstract powers associated with manliness that allow such deeds to be performed. Hence my ‘activate’ for kṛṇuhi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ever by us perform thy most heroic, thine highest, best victorious deeds, O Victor.  
      For us make Vrtras easy to be conquered: destroy the weapon of our mortal foeman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für uns tu deine höchsten besten Mannestaten, deine Siege insgesamt, du Siegreicher! Gib die Feinde in unsere Hand, daß sie leicht zu töten seien. Schlag die Waffe des neidischen Sterblichen fort.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns schaff, o Sieger, herrlichste und beste, siegreiche Kräfte, alle Mannesthaten; Mach uns die Feinde leicht zu überwinden, die Waffe triff des Mannes, der uns angreift.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для нас соверши высшие, лучшие  
 Мужественные деяния вместе с подвигами, о победоносный!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साकं꣡ यक्ष्म प्र꣡ पत  
 चा꣡षेण किकिदीवि꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 साकं꣡ नश्य निहा꣡कया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 सा॒कम् । वात॑स्य । ध्राज्या॑ । सा॒कम् । न॒श्य॒ । नि॒ऽहाक॑या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sākaṃ* ← *sākam*
 - \[adverb\]
@@ -89,7 +89,7 @@ popular;; epic anuṣṭubh (292)
 हे अस्मदीयस्य पुरुषस्य शरीराधिष्ठायिन् **यक्ष्म** व्याधे त्वं **साकं** सहैव **प्र** **पत** प्रकर्षेण शीघ्रं गच्छ। केन साकमिति । उच्यते । **चाषेण** अतिशीघ्रं पतता चाषाख्येन पक्षिणा सह । तथा **किकिदीविना** पक्षिणा च सह । तथा **वातस्य** शीघ्रं गच्छतो वायोः **ध्राज्या**।'ध्रज गतौ' । गत्या वेगेन सह गच्छ। तथा **निहाकया** गोधिकया **साकं** **नश्य** नाशं प्राप्नुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,29 +100,29 @@ popular;; epic anuṣṭubh (292)
 Iguana: kikidīvinā: an epithet of cāṣeṇa, making these **kiki**; perhaps, an allusion to the severaldiseases arising from vitiated **bile**, phlegm and wind (**Yajuṣ**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fly forth, o sickness, together with the cāṣa-bird and the kikidīví-bird. Perish together with the swoop of the wind and together with the  
 blizzard [?].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fly, Spirit of Disease, begone, with the blue jay and kingfisher.  
      Fly with the wind's impetuousspeed, vanish together with the storm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fliege fort, Schwindsucht, zugleich mit dem Holzhäher, dem Holzschreier; mit des Windes Sausen verschwinde, zusammen mit dem Regenschauer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So fliege Krankheit, flieg davon, mit Elstern, mit den Hähern flieg, Auf Windes Schwinge fahre hin dahin fahr mit dem Wirbelwind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Улетай, чахотка, вместе  
 С сойкой, с синей сойкой!  

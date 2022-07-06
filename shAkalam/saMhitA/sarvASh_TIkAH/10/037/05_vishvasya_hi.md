@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वस्य हि꣡ प्रे꣡षितो र꣡क्षसि व्रत꣡म्  
 अ꣡हेळयन्न् उच्च꣡रसि स्वधा꣡ अ꣡नु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तं꣡ नो देवा꣡ अ꣡नु मंसीरत क्र꣡तुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । अ॒द्य । त्वा॒ । सू॒र्य॒ । उ॒प॒ऽब्रवा॑महै । तत् । नः॒ । दे॒वाः । अनु॑ । मं॒सी॒र॒त॒ । क्रतु॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
@@ -133,36 +133,36 @@ genre M
 हे **सूर्य** **प्रेषितः** प्रेरितस्त्वम् **अहेळयन्** अक्रुध्यन् **विश्वस्य** सर्वस्य यजमानस्य **व्रतं** कर्म **रक्षसि** **हि** । यज्ञविध्वंसकेभ्यो राक्षसेभ्यः पालयसि । **स्वधा:** हवींषि **अनु** **उच्चरसि** उद्गच्छसि च । प्रातर्होमे  निवृत्ते सति पश्चादुद्गच्छसीत्यर्थः । तथा च यत् **यदा** **अद्य** अस्मिन्नहनि **त्वा** त्वाम् **उपब्रवामहै** उपब्रूमः तदा **नः** अस्माकं **तं** **क्रतुं** तत्कर्म **देवाः** इन्द्रादयः **अनु** **मंसीरत** अनुमन्यन्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When invoked, you who are genitive le protect the rite of every (worshipper); you rise after the svadhāofferings; when today we call upon you, may the gods be propitious to our sacred acts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For impelled forth, you guard the commandment for all, when not being  angry you proceed upward following your own customs.  
 When today we will appeal to you, o Sun, the gods should give assent to  our intention.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sent forth thou guardest well the Universe's law, and in thy wonted way arisest free from wrath.  
      When Surya, we address our prayers to thee to-day, may the Gods favour this our purpose and desire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ausgesandt überwachest du eines jeden Treiben, ohne Ärgernis zu erregen gehst du eigenmächtig auf. Worum wir dich heute ansprechen wollen, o Surya, dieser Absicht von uns mögen die Götter zustimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ausgesandt bewachst du jedes Menschen Werk, nach deiner Weise gehst du ohne Zürnen auf; Wenn wir dich rufen wünschend heut, o Sonnengott, gewähre uns die Schar der Götter diesen Wunsch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь посланный (однажды), ты охраняешь образ жизни каждого.  
 Не раздражаясь, ты восходишь по своему побуждению.  

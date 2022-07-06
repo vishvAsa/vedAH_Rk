@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ त्वाहिह꣡त्ये मघवन्न् अ꣡वर्धन्  
 ये꣡ शाम्बरे꣡ हरिवो ये꣡ ग꣡विष्टौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पि꣡बेन्द्र सो꣡मं स꣡गणो मरु꣡द्भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ये । त्वा॒ । न्न॒म् । अ॒नु॒ऽमद॑न्ति । विप्राः॑ । पिब॑ । इ॒न्द्र॒ । सोम॑म् । सऽग॑णः । म॒रुत्ऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -131,36 +131,36 @@ genre M
 हे **मघवन्** धनवन् **इन्द्र** **ये** मरुतः **अहिहत्ये** वृत्रहननरूपे कर्मणि **त्वा** त्वाम् अवर्धन्। ‘ प्रहर भगवो जहि वीरयस्व' इति बलदानेनावीवृधन् । हे **हरिवः** अश्ववन्निन्द्र **ये** च **शाम्बरे** शम्बरवधसंबन्धिनि युद्धे त्वामवीवृधन् । इन्द्रः शम्बरमवधीदित्यस्मिन्नर्थे मन्त्रवर्ण:-’ यः शम्बरं पर्वतेषु क्षियन्तं चत्वारिंश्यां शरद्यन्वविन्दत् । ओजायमानं यो अहिं जघान ' ( ऋ. सं. २. १२. ११) इति । तथा **ये** मरुतः **गविष्टौ** पणिनामकैरसुरैः सह गवार्थे युद्धे च त्वामवीवृधन् । **विप्राः** मेधाविनः **ये** च मरुतः **नूनम्** इदानीं त्वाम् **अनुमदन्ति** मादयन्ति तादृशैस्तैः **मरुद्भिः** **सगणः** सन् इमं **सोमं** **पिब** । अहिहत्ये । हन्तेर्भावे • हनस्त च' इति क्यप् । कृदुत्तरपदस्वरः । अवर्धन् ।' वृधु वृद्धौ ' इत्यस्य ण्यन्तस्य लङि रूपम् । 'छन्दस्युभयथा ' इति झेरार्धधातुकत्वात् णेर्लोपः- यद्वृत्तयोगादनिघातः । शाम्बरे । शम्बरस्येदमित्यर्थे ' तस्येदम् ' इत्यण्प्रत्ययः । गविष्टौ । ‘ इषु इच्छायाम्'। भावे क्तिन् । बहुव्रीहौ पूर्वपदस्वरः । अनुमदन्ति । मदि स्तुत्यादिषु इत्यस्य लटि व्यत्ययेन परस्मैपदम् । आगमानुशासनस्यानित्यत्वान्नुमभावः । झेर्लसार्वधातुकस्वरे कृते धातुस्वरः । ‘ तिङि चोदात्तवति' इति गतेर्निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They who encouraged you, **Maghavan**, to slay Ahi, who (aided you) in the conflict with **Śambara**, and in the recovery of the cattle, and who, possessed of wisdom, contribute verily to your exhilaration, with them, the troop of the **maruts**, do you **Indra**, drink the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who strengthened you at the serpent-smashing, bounteous one,  who in the fight with Śambara, who at the quest for cattle, o you of  the fallow bays,  
 who as inspired poets applaud you now—o Indra, drink soma in joint  throng with the Maruts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink Soma, Indra, banded with the Maruts who, Maghavan, strengthened thee at Ahi's slaughter,  
      'Gainst Sambara, Lord of Bays! in winning cattle, and now rejoice in thee, the holy Singers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die dich im Drachenkampf stärkten, du Gabenreicher, im Sambarakampf, du Falbenlenker, bei dem Rindersuchen, die dir jetzt zujubeln als deine Barden, trink, Indra, mit den Marut als Gefolge den Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die, mächt'ger, dich im Kampf mit Ahi stärkten, beim Çambara, o Rosseherr, im Treffen, Die jetzt dich auch umjubeln in Begeist'rung mit diesen Maruts trink den Soma, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто тебя, о щедрый, поддерживал при убийстве змея,  
 Кто в битве с Шамбарой, о хозяин буланых коней, кто при поисках коров,  

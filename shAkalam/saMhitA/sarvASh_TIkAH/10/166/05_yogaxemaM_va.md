@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 योगक्षेमं꣡ व आदा꣡य  
 अह꣡म् भूयासम् उत्तम꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 मण्डू꣡का उदका꣡द् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -36,7 +36,7 @@ popular;; epic anuṣṭubh (525)
 अ॒धः॒ऽप॒दात् । मे॒ । उत् । व॒द॒त॒ । म॒ण्डूकाः॑ऽइव । उ॒द॒कात् । म॒ण्डूकाः॑ । उ॒द॒कात्ऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yogakṣemaṃ* ← *yogakṣemam* ← *yogakṣema*
 - \[noun\], accusative, singular, neuter
@@ -142,38 +142,38 @@ popular;; epic anuṣṭubh (525)
 हे सपत्नाः **वः** युष्माकं **योगक्षेमम्** । अप्राप्तस्य धनस्य प्राप्तिर्योगः । प्राप्तस्य रक्षणं क्षेमः । तदुभयम् **आदाय** युष्मत्तो गृहीत्वा **अहम्** **उत्तमः** श्रेष्ठः **भूयासम्** । ततः **वः** युष्माकं **मूर्धानं** शिरः **आ** **अक्रमीम्** आक्रमिषम् । पादेनाधितिष्ठामि ॥ क्रमेर्लुङि अमो मश् (पा. सू. ७.१.४०)।  ‘ इट ईटि ' (पा. सू. ८. २. २८) इति सिचो लोपः ॥ अनन्तरं **मे** मम **अधस्पदात्** पादस्याधस्ताद्वर्तमाना यूयम् **उद्वदत** उच्चैराक्रोशत। **उदकात्** वृष्टाज्जलादधःप्रदेशे वर्तमानाः **मण्डूकाइव** । यथा ते भृशमाक्रोशन्ति तथोद्वदतेत्यर्थः । **मण्डूका** **उदकादिव** इति पुनरुक्तिरादरार्था ॥ ॥२४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Seizing upon your goods and chattels, may I victorious; I walk upon your heads; cry aloud frombeneath my feet, like frogs from (below) the water, like frogs from (below) the water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having taken for myself your yoking up [=war] and your peace, might  I become the highest. I have trampled on your head.  
 From beneath my feet, lift up your speech to me, like frogs from the  
 water, like frogs from the water.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May I be highest, having gained your strength in war, your skill in peace  
      my feet have trodden on your heads.  
      Speak to me from beneath my feet, as frogs from out the water croak, as frogs from out the water croak.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren Erwerb und Besitz für mich in Anspruch nehmend will ich euer Höchster sein, ich bin an eure Spitze getreten. Unter meinen Füßen sollt ihr zu mir empor reden wie die Frösche aus dem Wasser, wie aus dem Wasser die Frösche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eur Wirken mir und euer Ruhn aneignend werd' ich mächt'ger sein; Als unterworfne sprecht zu mir wie Frösche aus dem Wasserpfuhl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отобрав у вас владение имуществом,  
 Я хочу стать высшим:  

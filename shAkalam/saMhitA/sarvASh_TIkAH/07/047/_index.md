@@ -8,7 +8,7 @@ title = "+047"
 ‘आपो यं वः' इति चतुर्ऋचं चतुर्दशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमब्देवताकम् । 'आपो यमापम् ' इत्यनुक्रान्तं च । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 47 (563)  
 Waters  

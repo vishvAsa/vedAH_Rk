@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त एतु म꣡नः पु꣡नः  
 क्र꣡त्वे द꣡क्षाय जीव꣡से  
 जियो꣡क् च सू꣡रियं दृशे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 ज्योक् । च॒ । सूर्य॑म् । दृ॒शे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -93,36 +93,36 @@ popular;; repeated line
 हे सुबन्धो **ते** **मनः** **पुनः** **आ** **एतु** अभिचरतः सकाशात् पुनरागच्छतु । किमर्थमिति उच्यते । **क्रत्वे** कर्मणे लौकिकवैदिकविषयाय **दक्षाय** बलाय च । यद्वा । क्रत्वे अपानाय दक्षाय प्राणाय । 'प्राणो वै दक्षोऽपानः क्रतुः' इति हि श्रुतिः । **जीवसे** जीवनाय च **ज्योक्** चिरकालं **सूर्यं** **च** **दृशे** सूर्यं द्रष्टुम् । अत्यन्तं चिरजीवनायेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May (your) spirit (**Subandhu**) come back again to perform pious acts; to exercise strength; to live; andlong to see the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your mind come here again, for will, for skill, for life,  
 and to see the sun for a long time.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy spirit come to thee again for wisdom, energy, and lire,  
      That thou mayst long behold the sun!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Geist soll wiederkommen zur Überlegung, zum Entschluß, zum Leben, und daß du noch lange die Sonne sehest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es kehre wieder her dein Geist, zu Weisheit, Macht und Lebenskraft, Dass lange wir die Sonne schaun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да придет к тебе снова (твой) дух –  
 Для размышления, для силы действия, для жизни,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व सि꣡न्धुं व꣡रुणो द्यउ꣡र् इव स्थाद्  
 द्रप्सो꣡ न꣡ श्वेतो꣡ मृग꣡स् तु꣡विष्मान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुपार꣡क्षत्रः सतो꣡ अस्य꣡ रा꣡जा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ग॒म्भी॒रऽशं॑सः । रज॑सः । वि॒ऽमानः॑ । सु॒पा॒रऽक्ष॑त्रः । स॒तः । अ॒स्य । राजा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre M
 **द्यौरिव** सूर्य इव दीप्तः **वरुणः** **सिन्धुं** समुद्रम् **अव** **स्थात्** वेलायामवस्थापयति । यथा वेलां नातिक्रामति तथा करोतीत्यर्थः । कीदृशो वरुणः । **द्रप्सो** **न** द्रवणशील उदबिन्दुरिव **श्वेतः** शुभ्रवर्णः **मृगः**। लुप्तोपममेतत्। गौरमृग इव **तुविष्मान्** बलवान् प्रवृद्धो वा **गम्भीरशंसः** । गम्भीरो महान् शंसः स्तोत्रं यस्य स तथोक्तः। **रजसः** उदकस्य **विमानः** निर्माता सुपारक्षत्रः सुष्ठु दुःखात् पारकं क्षत्रं बलं धनं वा यस्य तादृशो वरुणः **सतः** विद्यमानस्य **अस्य** जगतः **राजा** ईश्वरो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ genre M
 White as a drop of water: drapso na śveto **mṛgas** tuviṣmān: **śveta** is attached to **mṛga**:drapso na dravaṇaśīla udabindur iva **śvetaḥ** śubhravaṇo **mṛgaḥ** gauramṛga iva tuviṣmān **balavān**;distributor of water: nirmātā, creator
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like heaven, Varuṇa has descended to the river—he, the powerful wild  animal, like the bright drop;  
 he of deep recitation, who takes the measure of the airy space; he the  king of what is, whose lordship offers good passage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like Varuna from heaven he sinks in Sindhu, like a white-shining spark, a strong wild creature.  
      Ruling in depths and meting out the region, great saving power hath he, this world's Controller.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Varuna steigt hinab in das Meer wie der Tag, wie der weiße Tropfen, das kraftvolle Tier. In tiefen Worten gepriesen, über den Raum erhaben, führt der König alles dessen, was ist, seine Herrschaft zu gutem Ende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Himmel tauchte Varuna ins Meer sich, als lichter Tropfen sich der mächt'ge Vogel; Weithin gebietend, dringt er durch den Luftraum, des Weltalls König, all sein Reich beherrschend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В море нисходит Варуна, как день,  
 Как белая капля, (он,) сильный зверь.  

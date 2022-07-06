@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡ना हि꣡ अग्ने अ꣡वसे  
 स्प꣡र्धन्ते रा꣡यो अरियः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 व्रतइः꣡ सी꣡क्षन्तो अव्रत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तूर्व॑न्तः । दस्यु॑म् । आ॒यवः॑ । व्र॒तैः । सीक्ष॑न्तः । अ॒व्र॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nānā*
 - \[adverb\]
@@ -94,36 +94,36 @@ genre M
 हे **अग्ने** **अर्यः** अरेः शत्रोः **रायः** धनानि **अवसे** त्वत्स्तोतॄणां रक्षणार्थं **नाना** शत्रुसकाशात् पृथग्भूताः **स्पर्धन्ते** । अहमेव पलियान्यहमेव पालयानीति स्पर्धा कुर्वन्ति । **आयवः** मनुष्यास्ते च स्तोतारः **दस्युम्** उपक्षपयितारं शत्रुं **तूर्वन्तः** हिंसन्तः **व्रतैः** त्वद्देवत्यैर्यागैः **अव्रतं** व्रतविरोधिनं च पुरुषं **सीक्षन्तः** सोढुमभिभवितुमिच्छन्तो भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The manifold treasures of the enemy (detached from them) are emulous, **Agni**, for the preservation (of your worshippers); men who worship you, triumphing over the spoiler, seek to shame him who celebrates no sacred rite by (their) observances.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For, o Agni, they [=the clans of Manu], the “riches of the stranger,”  contend with each other, every man for himself, for (your) help—  
 (that is,) the Āyus—(while at the same time) overcoming the Dasyu (and)  seeking to vanquish with their commandments the one who follows no  commandment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The foeman's wealth in many a place, Agni, is emulous to help.  
      Men fight the fiend, and seek by rites to overcome the riteless foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn von verschiedenen Seiten wetteifern die Reichtümer des hohen Herrn um deine Gunst, Agni, und die Ayu´s, die über den Dasyu die Oberhand bekommen, die durch Opfergelübde den Gelübdelosen zu besiegen suchen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn die ergeb'nen streben viel nach Schätzen, Agni, zum Genuss, Die Menschen, bändigend den Feind, durch Opfer den, der opferlos.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь с разных сторон, о Агни, ради (твоей) помощи  
 Состязаются богатство чужого  

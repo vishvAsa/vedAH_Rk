@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ई꣡शिषे वा꣡रियस्य हि꣡  
 दात्र꣡स्याग्ने सु꣡वर्पतिः  
 स्तोता꣡ स्यां त꣡व श꣡र्मणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्तो॒ता । स्या॒म् । तव॑ । शर्म॑णि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īśiṣe* ← *īś*
 - \[verb\], singular, Present indikative
@@ -81,35 +81,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **स्वर्पतिः** स्वर्गस्य स्वामी त्वं **वार्यस्य** वरणीयस्य **दात्रस्य** दातव्यस्य धनस्य **ईशिषे** ईश्वरोऽसि । **शर्मणि** सुखे निमित्ते **तव** **स्तोता** **स्यां** भवेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, lord of heaven, you preside over (all) that is to be desired or given; may I be your eulogist forhappiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you hold sway over a choice gift, Agni, as lord of the sun, might I, your praiser, be in your shelter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Agni, thou as Lord of Light rulest o'er choicest gifts: may I,  
      Thy singer, find defence in thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du schaltest über begehrenswerte Gabe, Agni, als der Herr des Sonnenlichtes. Ich, der Sänger, möchte in deinem Schutze sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du bist reicher Gabe Herr, o Agni, du des Glanzes Fürst; Ich Sänger sei in deinem Schutz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты владеешь избранным  
 Даром, о Агни, хозяин неба.  

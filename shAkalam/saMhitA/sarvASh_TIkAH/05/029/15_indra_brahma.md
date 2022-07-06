@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र ब्र꣡ह्म क्रिय꣡माणा जुषस्व  
 या꣡ ते शविष्ठ न꣡विया अ꣡कर्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 र꣡थं न꣡ धी꣡रः सुअ꣡पा अतक्षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 वस्त्रा॑ऽइव । भ॒द्रा । सुऽकृ॑ता । व॒सु॒ऽयुः । रथ॑म् । न । धीरः॑ । सु॒ऽअपाः॑ । अ॒त॒क्ष॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -149,7 +149,7 @@ genre M;; repeated line
 हेशविष्ठ बलवत्तम शूरतमवेन्द्र ते तुभ्यं या यानि स्तोत्राणि नव्याःनूतनाः अद्यतनावयं अकर्म हेइन्द्र त्वं क्रियमाणा अस्माभिः क्रियमाणानि ब्रह्म ब्रह्माणि तानि स्तोत्राणि जुषस्व सेवस्व धीरोधीमान् स्वपाःशोभनकर्मा वसूयुर्धनकामोहं वस्त्रेव वस्त्राणीव भद्रा भद्राणि भजनीयानि सुकृता सुष्ठुकृतानि स्तोत्राणि रथन्न रथमिव अतक्षं अकरवं स्तोत्राण्युपसंहारवद्भाह्याणीत्यभिप्रायेण वस्त्रनिदर्शनमुक्तं रथदृष्टान्तस्तु आगमनसाधनत्वप्रतिपादनाय स्तोत्राणिस्वीकृत्यमह्यन्धनम्प्रयच्छेत्यर्थः ॥ १५ ॥क्वस्यवीरइतिपञ्चदशर्चंषोडशंसूक्तं अत्रानुक्रमणिका-क्वस्यबभ्रुरृणञ्चयोप्यत्रराजास्तुतइति । बभ्रुरृषिः अनुक्तत्वान्त्रिष्टिप् इन्द्रोदेवता ऋणञ्चयनामराजापिक्वचित्स्तूयते अतःसोपिदेवता तीव्रसोमाख्येएकाहेमरुत्वतीयशस्त्रेइदंसूक्तन्निविद्धानं सूत्रितञ्च तीव्रसोमेनान्नाद्य -कामःक्वस्यवीरइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -160,34 +160,34 @@ genre M;; repeated line
 Like garments and like a chariot: praises and hymns, are compared to gaments, as being fit to be received as a respectful present, upasaṃhāravad grāhyāni; the same are compared to a chariot, as the means of conveying Indra and the gods to sacrifices
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, enjoy the sacred formulations being made, the new ones we  have made for you, strongest one.  
 Like garments, lovely and well made, like a chariot have I fashioned  them—I the clever artisan, seeking goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the sandhi in návyā ákarma see Oldenberg
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, accept the prayers which now are offered, accept the new prayers, Mightiest! which we utter.  
      Like fair and well-made robes, I, seeking riches, as a deft craftsman makes a car, have wrought them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, erfreue dich an den bereiteten Erbauungen, die wir dir aufs neue bereitet haben, du Gewaltigster! Wie schöne Kleider wohlgearbeitet habe ich sie, Gut wünschend, wie ein kunstfertiger Meister einen Wagen gezimmert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimm Indra an die Bitten, die gethan sind, die neuen, dir, o stärkster, wir dir weihten, Wie schöngewebte, schmucke Kleider macht' ich sie kunstvoll dir, wie Wagen macht der Künstler.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, возрадуйся слагаемым молитвам,  
 Тем, которые мы вновь сложили, о сильнейший!  

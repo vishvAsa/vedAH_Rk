@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यं दक्ष कविक्रतो या꣡नीमा꣡  
 दे꣡व म꣡र्तासो अध्वरे꣡ अ꣡कर्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡र्वं त꣡द् अग्ने अमृत स्वदेह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । विश्व॑स्य । सु॒ऽरथ॑स्य । बो॒धि॒ । सर्व॑म् । तत् । अ॒ग्ने॒ । अ॒मृ॒त॒ । स्व॒द॒ । इ॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -143,7 +143,7 @@ genre M
 **दक्ष** समृद्धतया सामर्थ्योपेत **कविक्रतो** अतीन्द्रियविषयप्रज्ञोपेत सर्वज्ञ **देव** दीप्यमान हे अग्ने **मर्तासः** यजमाना वयं **तुभ्यं** त्वदर्थं **यानीमा** यानि इमा इमानि हवींषि **अध्वरे** यज्ञे **अकर्म** हविस्त्यागमकार्ष्म । **त्वं** च **सुरथस्य** शोभनयानोपेतस्य **विश्वस्य** सर्वस्य यजमानस्य  **बोधि** गोपायिता भवामीति बुध्यस्व । हे **अमृत** मरणधर्मरहित **अग्ने** **इह** अस्मिन्कर्मणि अस्माभिः दत्तं **तत्** **सर्वं** हविः **स्वद** आस्वादय ॥ अकर्म। डुकृञ् करणे' इत्यस्य लङि ‘छन्दस्युभयथा' इति मस आर्धधातुकत्वेन ङित्त्वाभावाद्गुणः । यद्वृत्तयोगादनिघातः । बोधि । ‘बुध अवगमने'। ‘छन्दसि लुङ' इति लोडर्थे लुङ् । ‘ तिङा तिङो भवन्ति इति सिपस्तादेशः । ‘ दीपजनबुध° । इत्यादिना कर्तरि चिण् । ' चिणो लुक् ' इति तप्रत्ययस्य लोपः । अडभावश्छान्दसः । स्वद । स्वद आस्वादने । अन्तर्भावितण्यर्थः । लोटि रूपम् । निघातः ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,35 +156,35 @@ Be cognizant: **viśvasya** surathasya **bodhi**: know that I am his protector, 
 **Suratha** = liṭ, one who has a good chariot, śobhanayānopetasya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, o Skill with a poet’s purpose, are these things that we mortals, o  god, have done in the rite.  
 Be aware of everyone whose chariot [=sacrifice] is good. Sweeten  
 everything here, immortal Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whatever, God, in sacrifice we mortals have wrought is all for thee, strong, wise of purpose!  
      Be thou the Friend of each good chariot's master. All this enjoy thou here, immortal Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 What we have done here for thee at this sacrifice, we mortals, O skilful and thoughtful god, take thou notice of all that, O (god) with the good chariot 1; make all this (sacrificial food) here savoury, immortal Agni!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich ist, du Verständiger, der du Sehergabe besitzest, all das, was wir Sterblichen bei dem Opfer getan haben, o Gott. Achte auf jeden Opfernden, der einen guten Wagen hat. All das mache hier mundgerecht, o unsterblicher Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein ist, o starker, weis' gesinnter, alles, was Menschen wir, o Gott, beim Opfer wirkten; Beachte jeden Lenker guten Wagens, geniess dies alles hier, o ew'ger Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для тебя, о сила действия, о обладатель силы духа поэта, – все, то,  
 Что мы, смертные, о бог, сделали во время обряда.  

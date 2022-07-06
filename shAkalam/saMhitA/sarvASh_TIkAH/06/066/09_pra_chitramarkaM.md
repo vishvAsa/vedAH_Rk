@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ चित्र꣡म् अर्कं꣡ गृणते꣡ तुरा꣡य  
 मा꣡रुताय स्व꣡तवसे भरध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रे꣡जते अग्ने पृथिवी꣡ मखे꣡भ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ये । सहां॑सि । सह॑सा । सह॑न्ते । रेज॑ते । अ॒ग्ने॒ । पृ॒थि॒वी । म॒खेभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -110,20 +110,20 @@ genre M
 हे **अग्ने** **गृणते** शब्दं कुर्वते स्तूयमानाय वा **तुराय** त्वरिताय **स्वतवसे** स्वभूतबलाय 'मारुताय मरुतां गणाय **चित्रं** दर्शनीयम् **अर्कम्** अन्नं हविः । ‘ स्वधा अर्कः ' इत्यन्ननामसु पाठात् । **प्र** **भरध्वम्** । त्वत्सहायभूताः ऋत्विजस्त्वं च सर्वं यूयं प्रभरत । यथा लोके बहुष्वेककार्यकरेषु मुख्यमेकं संबोध्य यूयमेवं कुरुतेति प्रार्थना तद्वदत्रापि मुख्यमग्निमेकमेव संबोध्य प्रभरध्वमिति बहुवचनप्रयोगः। **ये** मरुतः **सहांसि** शत्रूणां बलानि **सहसा** बलेन **सहन्ते** अभिभवन्ति **मखेभ्यः** मंहनीयेभ्यो मरुद्भ्यो भयात् **पृथिवी** **रेजते** कम्पते ॥ मारुतायेति तद्धितवृत्तावन्तर्भूतानामपि मरुतां बुद्ध्या प्रविभागात् य इति प्रत्यवमर्शः । यथा महाभाष्ये - ' अथ शब्दानुशासनम् । केषां शब्दानाम्! ( पा. म. १. १. १) इति । यथा वा लोके राजपुरुष इत्युक्ते कस्य राज्ञ इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer to the loud-sounding, quick-moving, self-invigorating company of the **Maruts**, excellent (sacrificial) food; (to them) who overcome strength by strength; the earth trembles, **Agni**, at the adorable (Maruts).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring forward a brilliant chant for the singing, swift, self-strong  Marut(-troop).  
 Those who overpower powers with power, before (those) combatants  the earth trembles, o Agni.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the switch between singular reference to the Marut collectivity in ab and plural reference to the same group in cd, see disc. ad 3cd.
 
@@ -132,23 +132,23 @@ A particularly insistent etym. figure in c: sáhāṃsi sáhasā sáhante. The m
 On the address to Agni in d, see comm. ad 10.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring a bright hymn to praise the band of Maruts, the Singers, rapid, strong in native vigour,  
      Who conquer mighty strength with strength more mighty: earth shakes in terror at their wars, O Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Traget das ausgezeichnete Preislied der singenden, überlegenen, aus eigener Kraft starken Marutschar vor, die mit Gewalt die Gewalten bewältigen! Es bebt, o Agni, die Erde vor den reichen Herren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein glänzend Lied tragt vor der Schar der Maruts, der jubelnden, urkräftigen, der schnellen, Die die Gewalten durch Gewalt bewält'gen, es beben Erd' und Himmel vor den Kämpfern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Исполните яркую песнь поющей победной  
 Толпе марутовой, обладающей собственной мощью,  

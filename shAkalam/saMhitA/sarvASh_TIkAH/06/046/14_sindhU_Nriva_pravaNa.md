@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सि꣡न्धूँर् इव प्रवण꣡ आशुया꣡ यतो꣡  
 य꣡दि क्लो꣡शम् अ꣡नु ष्व꣡णि  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 गृभीता꣡ बाहुवो꣡र् ग꣡वि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । ये । वयः॑ । न । वर्वृ॑तति । आमि॑षि । गृ॒भी॒ताः । बा॒ह्वोः । गवि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sindhūṃr* ← *sindhūn* ← *sindhu*
 - \[noun\], accusative, plural, masculine
@@ -114,20 +114,20 @@ genre M
 उक्तस्यैवार्थस्यातिशयप्रतिपादनार्थेयम् । **प्रवणे** निम्नदेशे **सिन्धूनिव** स्यन्दमाना नदीरिव **आशुया** आशु शीघ्रं **यतः** गच्छतोऽश्वान् हे इन्द्र **यदि** चोदयासे प्रेरयसि। कदा । क्लोशमनु । क्लोश इति भयनाम । भयमनुलक्ष्य **स्वनि** स्वने आक्रोशे सति । कीदृशास्ते अश्वाः । **बाह्वोः** बाहुमूलयोः **गृभीताः** कक्ष्यया बद्धाः **ये** अश्वाः 'गवि गोरूपे धने जेतव्ये सति **आ** **वर्वृतति** पुनःपुनरावर्तन्ते । **आमिषि** आमिषे मांसे ग्रहीतव्ये सति **वयो** **न** यथा श्येनादयः पक्षिणः पुनःपुनरावर्तन्ते तद्वत् । एवंभूतानश्वान् भयेन क्रोशे सति यदा त्वं प्रेरयसि तदानीमस्मदीयेभ्यश्छर्दिः प्रयच्छेति संबन्धः । यद्यपि ऋषेर्युद्धे प्रसक्तिर्नास्ति तथापि राजपुरोहितत्वेन राजकीयानां पुरुषाणां जयः प्रार्थ्यत इति न कश्चिद्विरोधः ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rushing rapidly like rivers in their downward course and although neighing loudly through trro, they yet, tight-girthed, return repeatedly (to the conflict) for cattle, like birds darting on their prey.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The steeds) going swiftly like rivers in a torrent when (the chariot?) has  sounded following their roar,  
 who, like birds over raw flesh, keep circling (the racecourse), being held  firm in the cow [=leather (reins)] in your two arms...
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 While vs. 13 has a relatively perspicuous structure -- a single transitive yád clause whose final pāda is a simile matching the acc. direct object -- vs. 14 is a structural mess. Its first pāda is another simile in the acc. matching the direct object of vs. 13; it is followed by a yádi (or *yád ī; see below) clause (b), which may or may not contain a verb, followed by a rel. cl. (cd) introduced by yé, containing another simile referring to the same direct object but now in the nom. By now the original referent is quite distant, and it is not entirely clear which parts belong to the simile, which to the frame.
 
@@ -156,23 +156,23 @@ As was noted in the published introduction, this last pragātha stands somewhat 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Speeding like rivers rushing down a steep descent, responsive to the urging call,  
      That come like birds attracted to the bait, held in by reins in both the driver's hands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die rasch wie die Flüsse im Gefälle gehen, wann sie im Getöse dem Zuruf folgen, die wie die Vögel um das Aas, so um die Kuhherde kreisen, in beiden Armen mit dem Zügel festgehalten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Ströme, die am Abhang gehn in schnellem Schuss, wenn's rauschet deinem Zuruf nach, Sie, die wie Vögel auf das Fleisch sich stürzen hin, gefasst am Zügel mit dem Arm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Быстро движущихся, словно реки под уклон,  
 Если в грохоте (они мчатся) по зову,  

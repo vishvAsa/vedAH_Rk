@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अस्य द्या꣡वापृथिवी꣡ स꣡चेतसा  
 वि꣡श्वेभिर् देवइ꣡र् अ꣡नु शु꣡ष्मम् आवताम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पीत्वी꣡ सो꣡मस्य क्र꣡तुमाँ अवर्धत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । ऐत् । कृ॒ण्वा॒नः । म॒हि॒मान॑म् । इ॒न्द्रि॒यम् । पी॒त्वी । सोम॑स्य । क्रतु॑ऽमान् । अ॒व॒र्ध॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -125,37 +125,37 @@ genre M
 **सचेतसा** सह चेतयन्त्यौ **द्यावापृथिवी** द्यावापृथियौ **विश्वेभिः** सर्वैः **देवैः** सह **अस्य** ॥ अन्वादेशेऽशादेशोऽनुदात्तः ( पा. सू. २, ४, ३२ ) ॥ एतस्येन्द्रस्य **तं** **शुष्मं** शत्रूणां शोषकं बलम् **अनु** **आवतां** रक्षताम् । तस्य बलं पूर्वमस्मान् रक्षतु पश्चादेतेऽपि रक्षतामिति भावः। अवतेर्लुङ् ॥ **कृण्वानः** वृत्रवधादिकं कुर्वाणः सः **महिमानम्** **इन्द्रियम्** इन्द्रस्यात्मनः पर्याप्तं वीर्यं च **यत्** यदा **ऐत्** प्राप्नोत् ॥  ‘ इण गतौ । आदादिकः ।  ‘ आडजादीनाम् इत्याडागमः। तदा **क्रतुमान्** कर्मवान् सः **सोमस्य** **पीत्वी** सोमं पीत्वा **अवर्धत** ॥  ‘ क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानसंज्ञा ।  ‘ चतुर्थ्यर्थे बहुलम्' इति षष्ठी । पीत्वी ।  ‘ स्नात्व्यादयश्च ' इति निपातितः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the concurring heaven and earth, together with all the gods, preserve that strength of **Indra**,where by achieving (great deeds), he obtained the greatness that is appropriate to him, and having drunk theSoma, he, eminent for his prowess, increased (in strength).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Heaven and Earth, of one mind with all the gods, assisted his  
 impetuous force.  
 Creating his own greatness and Indrian power as he went, upon drinking  the soma the resolute one increased.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE Heavens and the Earth accordant with all Gods encouraged graciously that vigorous might of his.  
      When he came showing forth his majesty and power, he drank of Soma juice and waxed exceeding strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen seinen Ungestüm ließen einmütig Himmel und Erde mit allen Göttern gewähren. Als er auszog, seine indrische Größe annehmend, da wuchs der Umsichtige, nachdem er vom Soma getrunken hatte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es haben Erd' und Himmel diese seine Kraft mit allen Göttern eines Sinnes angeregt; Als er die grosse Indramacht erweisend ging, da wuchs er nach des Soma Trunk zu hoher Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его неистовство поддержали единодушные  
 Небо-и-Земля вместе со всеми богами.  

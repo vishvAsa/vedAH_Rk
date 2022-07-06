@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ सो꣡मास आय꣡वः  
 प꣡वन्ते म꣡दियम् म꣡दम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मत्सरा꣡सः सुवर्वि꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 स॒मु॒द्रस्य॑ । अधि॑ । वि॒ष्टपि॑ । म॒नी॒षिणः॑ । म॒त्स॒रासः॑ । स्वः॒ऽविदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -93,21 +93,21 @@ genre M;; repeated line
 **आयवः** गमनशीलाः **सोमासः** सोमाः **मद्यं** मदकरं **मदम्** आत्मीयं रसम् **अभि** **पवन्ते** । अभितो निर्गमयन्ति । कुत्रेत्युच्यते । **समुद्रस्य** अन्तरिक्षस्य **अधि** **विष्टपि** अधिकं समुच्छ्रिते पवित्रे। यद्वा । समुद्रस्य । समुद्रवन्त्यस्माद्रसाः । तस्य कलशस्याध्युपरि विष्टपि स्थाने पवित्रे निर्गमयन्ति । कीदृशाः । **मनीषिणः** मनस ईशितारः **मत्सरासः** मदकराः **स्वर्विदः** सर्वस्य लम्भकाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The swift **Soma** send forth their inebriating juice upon the uplifted (filter) of the firmament, intelligent, exhilarating, all-acquiring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma juices, the Āyus, purify themselves into an exhilarating drink  of exhilaration—  
 they of inspired thought, bringing exhilaration and finding the sun,  
 (purify themselves) upon the surface of the sea.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">
 <details open><summary><h2>14-16 ...{Loading}...</h2></summary>
 
@@ -117,23 +117,23 @@ Like vss. 1-3, this pragātha has a two-pāda addition (vs. 16), also 12 8. Both
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The living drops of Soma juice pour, as they flow, the gladdening drink,  
      Intelligent drops above the basin of the sea, exhilarating, finding light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die lebensverlängernden Somasäfte klären sich zum berauschenden Rauschtrank auf der Höhe des Meeres, die Gedankenreichen, Berauschenden, die das Himmelslicht finden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Soma's rieseln hell herbei den Wonnetrank, die emsigen, Hin auf des Meeres Fläche die berauschenden, die weisen, Glanz verschaffenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Живые соки сомы очищаются,  
 (Превращаясь) в пьянящий напиток,  

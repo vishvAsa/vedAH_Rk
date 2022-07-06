@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धुक्षत प्रिय꣡म् म꣡धु  
 धा꣡रा सुत꣡स्य वेध꣡सः  
 अपो꣡ वसिष्ट सुक्र꣡तुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒पः । व॒सि॒ष्ट॒ । सु॒ऽक्रतुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhukṣata* ← *duh*
 - \[verb\], singular, sa aorist (Ind.)
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सुतस्य** अभिषुतस्य **वेधसः** अभिलषितस्य विधातुर्यस्य सोमस्य **धारा** **प्रियं** प्रीतिकरं **मधु** अमृतम् **अधुक्षत** दुग्धे सः **सुक्रतुः** सुकर्मा सोमः **अपः** वसतीवरीः **वसिष्ट** आच्छादयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,13 +87,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Apo **vasiṣṭa** **sukratuḥ**: a reference to the vasatīvarī water with which the soma is sprinkled
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The stream of the pressed one, of the ritual adept, has milked out its  own dear honey.  
 Very resolute, he has clothed himself in the waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 etám tyám … marmṛjyánte apasyúvaḥ “This very one [=soma] do the industrious (fingers) groom,” with the same adj. qualifying the subject as here. Though the transitivity of the verb in 38.3 is quite clear, our passage is more ambiguous -- and has been discussed at some length by Geldner (n. 7), Bloomfield (RReps ad loc.), and Renou If we wish the verb to be tr., we can supply ‘you’, as Bloomfield suggests (also Renou as an alternative). Or we can take gíraḥ as acc., rather than nom., and tr. “the industrious ones constantly groom the songs …” However, I prefer to take the verb as passive (as two of the three forms of the pres. part. marmṛjyámāna- are) and see the vs. as an expression of ritual reciprocity: the songs are groomed by the power of Soma -- that is, the hymns recited at the Soma Sacrifice are refined and perfected by the inspiration given to the poets by Soma -- while those perfected hymns in turn adorn and beautify the soma offering.
 
@@ -108,23 +108,23 @@ These two vss. introduce the trope of “clothing,” a metaphor for mixing the 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The well-loved meath was made to flow, the stream of the creative juice  
      ne Sage drew waters to himself.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Strom des ausgepreßten Meisters hat die liebe Süßigkeit ergossen. Der Kluge hat sich in Wasser gehüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es melkte liebe Süssigkeit der Strom des holden Saftes sich, Der weise hüllte sich in Flut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его надоили – приятного меду,  
 Поток выжатого (сока) у этого устроителя обряда.  

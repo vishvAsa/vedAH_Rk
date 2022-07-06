@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्व꣡या तनु꣡वा सं꣡ वदे त꣡त्  
 कदा꣡ नु꣡ अन्त꣡र् व꣡रुणे भुवानि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कदा꣡ मॄळीकं꣡+ सुम꣡ना अभि꣡ ख्यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 किम् । मे॒ । ह॒व्यम् । अहृ॑णानः । जु॒षे॒त॒ । क॒दा । मृ॒ळी॒कम् । सु॒ऽमनाः॑ । अ॒भि । ख्य॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -138,36 +138,36 @@ genre M
 वरुणं शीघ्रं दिदृक्षमाण ऋषिरनया वितर्कयति । उतेति विचिकित्सायाम्। **उत** किं **स्वया** **तन्वा** स्वीयेनात्मीयेन शरीरेण **सं** **वदे** सहवदनं करोमि । आहो स्वित् **तत्** तेन वरुणेन सह संवदे । **कदा** **नु** कदा खलु **वरुणे** देवे **अन्तः** **भुवानि** अन्तर्भूतो भवानि । वरुणस्य चित्ते संलग्नो भवानीत्यर्थः । अपि च **मे** मदीयं **हव्यं** स्तोत्रं हविर्वा **अहृणानः** अक्रुध्यन् वरुणः **किं** केन हेतुना **जुषेत** सेवेत **सुमनाः** शोभनमनस्कः सन्नहं **कदा** कस्मिन्काले **मृळीकं** सुखयितारं वरुणं **अभि** **ख्यं** अभिपश्येयम्॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When may I in my person n converse with the deity? When may I (be admitted) to the heart of **Varuṇa**?By what means may he, without displeasure, accept my oblation? When may I, rejoicing in mind, behold thatgiver of felicity?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And together with my own self, I speak this: “When shall I be within  Varuṇa?  
 Might he take pleasure in my offering, becoming free of anger? When  shall I, with good thoughts, look upon his mercy?”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With mine own heart I commune on the question how Varuna and I may be united.  
      What gift of mine will he accept unangered? When may I calmly look and find him gracious?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und ich gehe mit mir selbst darüber zu Rate: Wann werde ich wohl dem Varuna nahe kommen? Wird er frei von Groll sich meines Opfers freuen? Wann werde ich wohlgemut seine Gnade schauen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und mit mir selber sprech' ich diese Worte: »Wann werd' ich doch mit Varuna vereint sein? Ob er mein Opfer ohne Zürnen annimmt? wann werd' ich seine Huld beseligt schauen?«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И говорю я с самим собой вот о чем:  
 Когда же я окажусь внутри Варуны?  

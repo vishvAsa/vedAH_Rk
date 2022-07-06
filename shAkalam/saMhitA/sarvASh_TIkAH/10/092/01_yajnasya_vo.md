@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञ꣡स्य वो रथि꣡यं विश्प꣡तिं विशां꣡  
 हो꣡तारम् अक्तो꣡र् अ꣡तिथिं विभा꣡वसुम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वृ꣡षा केतु꣡र् यजतो꣡ द्या꣡म् अशायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शोच॑न् । शुष्का॑सु । हरि॑णीषु । जर्भु॑रत् । वृषा॑ । के॒तुः । य॒ज॒तः । द्याम् । अ॒शा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
@@ -111,36 +111,36 @@ genre M
 हे देवाः **वः** यूयं **यज्ञस्य** **रथ्यं** नेतारं **विश्पतिं** मनुष्याणां पालकं स्वामिनं वा **विशां** देवानां **होतारम्** आह्वातारम् **अक्तोः** रात्रेः **अतिथिम्** अतिथिभूतं **विभावसुं** विविधदीप्तधनं तमग्निं परिचरतेति शेषः । **शुष्कासु** शुष्कभूतास्वोषधीषु **शोचन्** ज्वलन् **हरिणीषु** हरितवर्णासु आर्द्रास्वोषधीषु **जर्भुरत्** भक्षयन् कुटिलं गच्छन् वा **वृषा** कामानां वर्षिता **केतुः** प्रज्ञापकः **यजतः** यष्टव्योऽग्निः **द्यां** दिवम् **अशायत** प्रतिशेते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You (gods, adore) the charioteer of the sacrifice, the lord of men, the invoker of the gods, the guest ofnight, the resplendent (**Agni**). Blazing amid the dry (bushes) preying upon the green, the showerer of desires, thebanner (of light), the adorable, he reposes in heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (I invoke) for you the charioteer of the sacrifice, the clanlord of clans, the  Hotar, the guest by night, rich in radiance.  
 Blazing in the dry (sticks), flickering in the golden (plants), the bullish  beacon, worthy of the sacrifice, has reached heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I PRAISE your Charioteer of sacrifice, the Lord of men, Priest of the tribes, refulgent, Guest of night.  
      Blazing amid dry plants, snatching amid the green, the Strong, the Holy Herald hath attained to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Wagenfahrer eures Opfers, den Clanfürsten, den Opferpriester, den Gast der Nacht, den glanzreichen verehre ich. In den trockenen Pflanzen brennend, in den grünen flackernd, reicht das bullengleiche Banner, das anbetungswürdige, bis zum Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Fährmann eurer Opfer, ihn der Stämme Herrn, den Priester preis' ich, ihn den lichten Gast der Nacht; Der in den dürren leuchtet, in den grünen flammt, als hehres Banner drang der Stier zum Himmel auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

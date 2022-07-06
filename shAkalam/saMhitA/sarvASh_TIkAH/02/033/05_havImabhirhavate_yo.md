@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡वीमभिर् ह꣡वते यो꣡ हवि꣡र्भिर्  
 अ꣡व स्तो꣡मेभी रुदरं꣡+ दिषीय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बभ्रुः꣡ सुशि꣡प्रो रीरधन् मना꣡यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ऋ॒दू॒दरः॑ । सु॒ऽहवः॑ । मा । नः॒ । अ॒स्यै । ब॒भ्रुः । सु॒ऽशिप्रः॑ । री॒र॒ध॒त् । म॒नायै॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *havīmabhir* ← *havīmabhiḥ* ← *havīman*
 - \[noun\], instrumental, plural, neuter
@@ -116,7 +116,7 @@ genre M
 योरुद्रः हविर्भिश्चरुपुरोडाशादिभिः सहितैर्हवीमभिराह्वानैः स्तुतिलक्षणैः हवते आहूयते स्तूय- ते व्यत्ययेनकर्मणिकर्तृप्रत्ययः बहुलञ्छन्दसीतिह्वयतेः सम्प्रसारणम् तंरुद्रंस्तोमेभिः स्तोत्रैरवदिषीय अवखण्डयामि पृथक्करोमि अपगतक्रोधङ्करोमीतियावत् दोअवखण्डने व्यत्ययेनात्मनेपदं बहुलञ्छन्द- सीतीत्वम् ऋदूदरः ऋदूदरोमृदूदरइतियौस्कः । सुहवः शोभनशिप्रः एवङ्गुणविशिष्टःसरुद्रः अस्यैम- नायै हन्मीति मन्यमानाबुद्धिर्मना तस्यै नोस्मान् मारीरधत् मावशन्नैषीत् रधहिंसासंराध्योः अस्मा- ण्ण्यन्तालुङिचङिरूपम रध्यतिर्वशगमनइतियास्कः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,14 +127,14 @@ genre M
 Soft-bellied: ṛdūdara babhruvarṇa suśipra: ṛdūdara = **mṛdu** **udara**, having a soft belly (**Nirukta** 6.4); that malevolent disposition: mā no asyai rīradhan manāyai: **manā** = hannīti manyamānā **buddhiḥ**, the mind meditating, I kill
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever invokes him with invocations and offerings, (thinking,) “With  my praises might I cut off Rudra as my own exclusive portion,”  
 to the zeal (of this person) let the red-brown one with powerful lips  
 [=Rudra] not subordinate us—(Rudra) being tender-hearted and easy  to invoke.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am in agreement with most tr. (though not Macdonell) that pāda b is the thought of the subject of the rel. cl. in pāda a, namely the over-zealous sacrificer. The verb áva … diṣīya belongs not with √dā ‘give’ (with Grassmann), but √dā ‘cut, divide’ (so already Wh Roots); see esp. Narten (Sig Aor. 138-40). The idiom áva √dā is generally taken, including by Narten, to mean ‘abfinden’ (propitiate, compensate), but I think it has a more literal meaning here, ‘cut off’. The too-little ritual service of vs. 4 -- poor praise (dúṣṭuti-) and shared invocation (sáhūti-) -- meets the contrasting fault in vs. 5: the over-eager worshiper who wants Rudra as his own exclusively. This is a dramatic opposite of the sáhūti-; not only an invocation directed only to this god, but one not jointly produced by the group of priests and worshippers. Such a private oneon-one human-divine relationship would be quite anomalous in the RVic religious world, where divine service requires cooperation among various ritual personnel.
 
@@ -147,28 +147,28 @@ The epithet ṛdūdára- ‘tender-hearted’ is a charming phonetic play on Rud
 Another adj. (see 3b above) otherwise used (almost) exclusively of Indra: suśípra- ‘well-lipped’ (of Agni V.22.4; in pl. of Ṛbhukṣans VII.37.1).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May I with praise-songs win that Rudra's favour who is adored with gifts and invocations.  
      Ne'er may the tawny God, fair-checked, and gracious, swifthearing, yield us to this evil purpose.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 With invocations and oblations summoned Rudra I would appease with my laudations: May he, soft-hearted, easily appealed to, Brown-hued, fair-lipped, not to his wrath subject us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer mit Anrufungen, mit Opfergaben ihn ruft, indem er denkt: ich möchte den Rudra mit Lobliedern abfinden - Solchem Verdacht möge uns der mildherzige, leicht zu errufende, rotbraune Rudra mit der schönen Lippe nicht preisgeben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der durch Gebet sich rufen lässt und Opfer, den Rudra will mit Liedern ich besänft'gen; Nicht geb' uns seinem Zorne hin der milde, geneigte, braune mit dem schönen Helme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Если) кто призывает призывами (и) жертвенными возлияниями  
 (Думая:) "Я могу задобрить Рудру похвалами", –  

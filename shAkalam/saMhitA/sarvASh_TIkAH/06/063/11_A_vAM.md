@@ -6,12 +6,12 @@ ChandaH = "एकपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां सुम्ने꣡ व꣡रिमन् सूरि꣡भिः ष्याम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -25,7 +25,7 @@ genre M;; line affected by realignment
 आ । वा॒म् । सु॒म्ने । वरि॑मन् । सू॒रिऽभिः॑ । स्या॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -59,39 +59,39 @@ genre M;; line affected by realignment
 हे अश्विनौ **वरिमन्** विस्तृते **सुम्ने** **वां** युवाभ्यां दत्ते सुखावहे धने । ‘ जलाषं सुम्नम् इति सुखनामसु पाठात् । **सूरिभिः** विद्वद्भिः पुत्रादिभिः सह **आ** समन्तात् **स्यां** भवेयम् ॥ ॥४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May I be associated with the pious in the abundant felicity bestowed by you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might I, along with my patrons, be in your favor on the expanse  [=ritual ground].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take loc. váriman in the same way as its variant in 3a, as referring to the ritual ground. Geldner here: “in weitem Masse,” seemingly referring to the patrons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May I with princes share your bliss in freedom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich möchte mit den Gönnern in weitem Maße in eurer Gunst leben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In eurem Schutze sei ich in Sicherheit mit den Fürsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да буду я (жить) у вас в милости (и) безопасности вместе с (моими) покровителями!
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समुद्रः꣡ सि꣡न्धू र꣡जो अन्त꣡रिक्षम्  
 अज꣡ ए꣡कपात् तनयित्नु꣡र् अर्णवः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वे देवा꣡स उत꣡ सूर꣡यो म꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अहिः॑ । बु॒ध्न्यः॑ । शृ॒ण॒व॒त् । वचां॑सि । मे॒ । विश्वे॑ । दे॒वासः॑ । उ॒त । सू॒रयः॑ । मम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samudraḥ* ← *samudra*
 - \[noun\], nominative, singular, masculine
@@ -114,14 +114,14 @@ genre M
 **समुद्रः** समुन्दनशीलः स्यन्दमानोदकः **सिन्धुः** एतन्नामकः **अन्तरिक्षं** द्यावापृथिव्योरन्तरा मध्ये क्षितमुषितं **रजः** मध्यमलोकम् **अज** **एकपात्** । अजायमान एक एव पद्यते । एतत्संज्ञको देवः **अर्णवः** उदकवान् **तनयित्नुः** स्तनयित्नुर्मेघः **बुध्न्यः** अन्तरिक्षे भवः **अहिः** एतत्संज्ञक एते देवाः **मे** मम **वचांसि** वक्तव्यानि स्तोत्राणि **शृणवत्** प्रत्येकं शृणोतु । **उत** अपि च **सूरयः** प्राज्ञाः **विश्वे** **देवासः** देवाः **मम** स्तोत्राणि शृण्वन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the flowing **Sindhu**, the atmosphere, the firmament, Aja Ekapād, the rain-bearing thunder-cloud,and **Ahirbudhnya** hear my words; may the wise universal gods (listen to) my (praises).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sea, the river, the dusky realm, the midspace; Aja Ekapad,  
 Thundering, the flood,  
@@ -129,23 +129,23 @@ and Ahi Budhnya will hear my words, (also) all the gods and my
 patrons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sindhu, the sea, the region, and the firmament, the thunder, and the ocean, Aja-Ekapad,  
      The Dragon of the Deep, shall listen to my words, and all the Deities and Princes shall give ear.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Meer, die Sindhu, der Umkreis, die Luft, der ungeborene Einfuß, der Donnerschlag, die Wasserflut, der Drache der Tiefe erhöre meine Worte, alle Götter und meine freigebigen Patrone!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Ocean, der Strom, der weite Raum, die Luft, der Kreiselwind, der donnernde, der wogende, Der Wetterdrache höre meiner Lieder Schall, die Götter alle und die Glänzenden mein Wort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

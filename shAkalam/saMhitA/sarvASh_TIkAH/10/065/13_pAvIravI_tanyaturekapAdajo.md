@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पा꣡वीरवी तन्यतु꣡र् ए꣡कपाद् अजो꣡  
 दिवो꣡ धर्ता꣡ सि꣡न्धुर् आ꣡पः समुद्रि꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡रस्वती सह꣡ धीभिः꣡ पु꣡रंधिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । दे॒वासः॑ । शृ॒ण॒व॒न् । वचां॑सि । मे॒ । सर॑स्वती । स॒ह । धी॒भिः । पुर॑म्ऽध्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pāvīravī*
 - \[noun\], nominative, singular, feminine
@@ -117,36 +117,36 @@ genre M
 **पावीरवी** आयुधवती **तन्यतुः** स्तनयित्री वाग्माध्यमिका तथा **दिवः** द्युलोकस्य **धर्ता** धारयिता **अजः** **एकपात्** एक एव पद्यते गच्छतीति न जायत इत्येतत्संज्ञको देवः **सिन्धुः** च **समुद्रियः** । समुद्रमन्तरिक्षम् । तत्र भवाः **आपः** च ।  ‘ समुद्राभ्राद्धः' इति भवार्थे घप्रत्ययः । **विश्वे** देवाश्च **धीभिः** कर्मभिर्युक्ताः **पुरंध्या** बहुविधया प्रज्ञया सहिता **सरस्वती** च **मे** मदीयानि **वचांसि** वक्तव्यानि स्तोत्राणि **शृणवन्** शृण्वन्तु ।  ‘ पविः शल्यो भवति यद्विपुनाति कायम् । ( निरु. १२.३० ) इत्यादि निरुक्तमनुसंधेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the armed and thundering (voice of mid-heaven), the upholder of heaven, Aja Ekapād, theocean, the waters of the firmament, the universal gods and **Sarasvatī**, accompanied by sacred rites, andabundant wisdom, hear my words.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The daughter of Pavīru, Thunder, and Aja Ekapad, the supporter of  heaven, the river, and the waters of the sea—  
 all the gods will hear my words: (they and also) Sarasvatī, along with  insights [/Dhī] and with plenty [/Puraṃdhī].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thunder, the lightning's daughter, Aja-Ekapad, heaven's bearer, Sindhu, and the waters of the sea:  
      Hear all the Gods my words, Sarasvati give ear together with Purandhi and with Holy Thoughts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Paviru Tochter, der Donner, der ungeborene Einfuß, der Träger des Himmels, Sindhu, die Meeresgewässer, alle Götter mögen meine Worte erhören, Sarasvati nebst den frommen Gedanken und der Purandhi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der blitzversehne Donner und der Kreiselwind, des Himmels Träger, Strom und Flut im Meer der Luft, Die Götter alle mögen hören meinen Sang, Sarasvati mit des Gebetes Göttinnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

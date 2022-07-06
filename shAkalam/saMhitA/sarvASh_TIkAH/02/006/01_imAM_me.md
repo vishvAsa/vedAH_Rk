@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡म् मे अग्ने समि꣡धम्  
 इमा꣡म् उपस꣡दं वनेः  
 इमा꣡ उ षु꣡ श्रुधी गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 इ॒माः । ऊं॒ इति॑ । सु । श्रु॒धि॒ । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -89,45 +89,45 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हेअग्नेमेमदीयामिमां आधीयमानांसमिधं इमामुपसदंउपसदनसाधनामाहुतिंउपसद्यागेक्रिय- माणांवावनेः सम्भजेथाः तथेमाउ इमाअपिगिरः स्तुतीः सु सुष्ठुश्रुधि श्रृणु ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, accept this my fuel, this my oblation; listen, well plural ased, to my praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This kindling stick of mine here, o Agni, this reverence may you long for, and these songs—hear them well.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The most likely referent to supply with fem. ayā́is girā́, given gíraḥ closing the preceding vs. and the 2 forms of this stem in the first pāda of the next vs. (3a; see also 6b). Cf. also II.24.1 ayā́vidhema ... girā́.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI, accept this flaming brand, this waiting with my prayer on thee:  
      Hear graciously these songs of praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Accept, O Agni, this my piece of wood and this my sitting down (reverentially) 1, and hear these words of mine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mögest du dies Brennholz von mir, diese Huldigung gern annehmen Agni, und höre fein auf diese Lobrede!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimm dieses Brennholz gnädig an, o Agni, und den Gottesdienst; O höre diese Sprüche recht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти мои дрова, о Агни,  
 Эта служба пусть понравится тебе!  

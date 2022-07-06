@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञो꣡ हि꣡ ष्म इ꣡न्दरं+ क꣡श् चिद् ऋन्ध꣡ञ्  
 जुहुराण꣡श् चिन् म꣡नसा परिय꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दीर्घो꣡ न꣡ सिध्र꣡म् आ꣡ कृणोति अ꣡ध्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ती॒र्थे । न । अच्छ॑ । त॒तृ॒षा॒णम् । ओकः॑ । दी॒र्घः । न । सि॒ध्रम् । आ । कृ॒णो॒ति॒ । अध्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
@@ -134,7 +134,7 @@ genre M
 **कश्चित्** **यज्ञः** यज्ञवान् यज्ञानुष्ठायी **ऋन्धन्** वर्धयन् भवति । इन्द्रं यज्ञेन वर्धयतीत्यर्थः । **जुहुराणश्चित्** कुटिलगतिस्तु कश्चित् **मनसा** केवलेन **परियन्** परितो गच्छन् लौकिकविषयादिकं ध्यायन् वर्तते । यद्वा । परि वर्जनार्थः । वर्जयित्वा गच्छन्नेदं प्राप्नोति । तत्र दृष्टान्तः । तीर्थे प्रसिद्धे मार्गे **अच्छ** आभिमुख्येन समीपे वर्तमानम् **ओकः** पानीयादिकं सदनं **ततृषाणं** पिपासायुक्तं यथा अविलम्बेन प्रीणाति । स यथा तत्सदनमागच्छतीत्यर्थः । तद्वत् यज्ञेन कश्चित् पुमानिन्द्रमभिगच्छतीति । कुटिलस्य दृष्टान्तः । **दीर्घो** **न** वक्रत्वेनातिदूरः **अध्वा** मार्ग इव । स यथा **सिध्रं** फलं पानीयादिरूपं फलार्थिनं वा पुरुषम् **आ** **कृणोति** अर्वाक्करोति नीचैः करोति वर्जयतीत्यर्थः । तस्माद्यज्ञमार्गमजानानो वक्रो दूरे परिभ्रमति नेन्द्रं तर्पयति । तद्विलक्षणस्तु वर्जयत्येव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ genre M
 Like a lake: the comparisons may also refer to the sacrificers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For any sacrifice that reaches fulfillment, even though it swerves along,  meandering in mind,  
 brings Indra to the house, as if bringing a thirsting man to a ford—as a  long road brings home a man who reaches his goal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For every sacrifice makes Indra stronger, yea, when he goes around angry in spirit;  
      As pleasure at the ford invites the thirsty, as the long way brings him who gains his object.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn jedwede Anbetung, die gelingt, wenn sie auch Umwege macht im Geiste herumgehend, bringt, wie den Durstigen zur Tränke, den Indra ins Opferhaus, wie ein langer Weg den, der sein Ziel erreicht, nach Hause.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn jedes Opfer auch erquickt den Indra, selbst das verfehlte, wenn es gern gebracht ist, Wie an dem Quell den Lechzenden die Labung, wie langer Weg, wenn nur zum Ziel er führet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь любая жертва, которая имеет успех,  
 Даже если она заблудится, мысленно кружа около Индры,  

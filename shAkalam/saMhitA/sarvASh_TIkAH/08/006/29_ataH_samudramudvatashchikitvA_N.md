@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡तः समुद्र꣡म् उद्व꣡तश्  
 चिकित्वाँ꣡ अ꣡व पश्यति  
 य꣡तो विपान꣡ ए꣡जति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यतः॑ । वि॒पा॒नः । एज॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ataḥ* ← *atas*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यतः** यस्मिन् द्युलोके **विपानः** व्याप्नुवन् विशिष्टपानयुक्तो वा इन्द्रः **एजति** चेष्टते **उद्वतः** उद्गतात् । ‘उपसर्गाच्छन्दसि धात्वर्थे ' ( पा. सू. ५. १. ११८) इति वतिः । **अतः** अस्मात् द्युलोकात् **चिकित्वान्** जानन् स इन्द्रः **समुद्रं** समुन्दनशीलं यजमानैर्दीयमानं सोमम् **अव** **पश्यति** अवाङ्मुखः सन्नीक्षते । यद्वा । सूर्यात्मनेन्द्रः स्तूयते । यस्मिन्नभसि विपानः व्याप्नुवन् सूर्यात्मेन्द्र एजति वर्तते चिकित्वाञ्जानन् विद्वान्वा स इन्द्र उद्वत उद्गतादतोऽस्मादन्तरिक्षात् समुद्रम् । उपलक्षणमेतत् । समुद्रोपलक्षितं सर्वं जगदव पश्यति । अवाङ्मुखं प्रसृतैः किरणैः प्रकाशयति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,28 +90,28 @@ Libation: **samudra**, the sea; samundana śīlam, the exuding or affluent, the 
 Anotherinterpretation: Indra, identified with the sun, looks down from the firmament on the ocean (or world), enlighteningit by his rays
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From here, from the heights, watchful, he looks down upon the sea, from where, quivering, he stirs.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thence, marking, from his lofty place downward he looks upon the sea,  
      And thence with rapid stir he moves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von jener Höhe erspäht er aufmerksam das Meer, von der aus er erregt sich in Bewegung setzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dort von der Höhe schaut herab der einsichtsvolle auf das Meer, Von wo es wogend sich bewegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он внимательно смотрит вниз  
 На море с этой высоты,  

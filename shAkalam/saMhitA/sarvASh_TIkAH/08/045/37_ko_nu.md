@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ नु꣡ मर्या अ꣡मिथितः  
 स꣡खा स꣡खायम् अब्रवीत्  
 जहा꣡ को꣡ अस्म꣡द् ईषते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ज॒हा । कः । अ॒स्मत् । ई॒ष॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **को** **नु** कः खलु हे **मर्याः** मनुष्याः **अमिथितः** । मेथतिराक्रोशकर्मा । अनाक्रुष्ट इन्द्रादन्यः **सखा** **सखायं** प्रति **जहा** अहं कं जघान **कः** को वा **अस्मत्** अस्मत्तो भीतः **ईषते** पलायत इति **अब्रवीत्** वदति । इन्द्र एवैतादृशस्य वचनस्य वक्तेत्यभिप्रायः । तथा च यास्कः- मेथतिराक्रोशकर्मा। अपापकं जघान कमहं जातु कोऽस्मद्भीतः पलायते ' (निरु. ४. २) इति । ‘मा न एकस्मिन्नागसि' इत्यादिकया श्रुत्या नूनमृषिमिन्द्र आजहारेत्यर्षिर्विस्मयत इति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,13 +93,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 An anser to ṛcas 34 and 35
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra to Maruts:] “You young bucks—who, (as if) unpaired, has said,  as comrade to comrade,  
 ‘I will leave (you)’? Who retreats from us?”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the basis both of the content of the verse and the use of the voc. maryāḥ, I consider this verse to be Indra’s address to the Maruts. The plural of maryá in all clear cases refers to the Maruts. And in VIII.96.7-8 the Maruts address Indra, reminding him that all the other gods but them deserted him, using the same √īṣ ‘shrink from’ as is found here.
 
@@ -118,23 +118,23 @@ For my interpretation of this bit of dialogue, see the published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What friend, O people, unprovoked, hath ever said unto a friend,  
      He turns and leaves us in distress?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Freund, ihr jungen Männer, hat wohl ohne Zank den Freund verlassen, so sprach er, wer drückt sich vor uns?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer, o ihr Männer, sagte je als Freund vom Freunde ungereizt: Verschmähend lässt er uns im Stich?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой же, о юные мужи, нераздраженный  
 Друг сказал другу:  

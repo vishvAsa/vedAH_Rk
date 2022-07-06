@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡र्हन्तो ये꣡ सुदा꣡नवो  
 न꣡रो अ꣡सामिशवसः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दिवो꣡ अर्चा मरु꣡द्भियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । य॒ज्ञम् । य॒ज्ञिये॑भ्यः । दि॒वः । अ॒र्च॒ । म॒रुत्ऽभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arhanto* ← *arhantaḥ* ← *arh*
 - \[verb noun\], nominative, plural
@@ -89,20 +89,20 @@ genre M
 हे होतः हे आत्मन् वा **ये** **अर्हन्तः** पूज्याः **सुदानवः** शोभनदानाः **नरः** नेतारः कर्मणाम् **असामिशवसः** अनल्पबलाः सन्ति तेभ्यः **यज्ञियेभ्यः** यज्ञार्हेभ्यः **दिवः** द्योतमानेभ्यः **मरुद्भ्यः** ॥ विभक्तिवचनयोर्व्यत्ययः । यद्वा कर्मणि षष्ठी ॥ दीप्तं **यज्ञ** यज्ञसाधनं हविः **प्र** **अर्च** पूजय प्रयच्छेत्यर्थः । अथवा दिवोऽन्तरिक्षादागतेभ्य इति संबन्धः ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer sacrifice to the adorable **Maruts**, who (have come) from heaven, who are worthy of worship, munificent leaders (of rites), and possessors of unequalled strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The deserving ones possessing good drops [/gifts], men who are not  half-strength,  
 to the Maruts of heaven chant forth—(chant) a sacrifice for those worthy  of the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the vs. in which the problematic instr. of 1b is resolved -- “repaired” -
 
@@ -110,23 +110,23 @@ This is the vs. in which the problematic instr. of 1b is resolved -- “repaired
 this one can be, as it were, pre-repaired. The obj. yajñám ‘sacrifice’ is unexpected with the verb prá … arcā ‘chant forth’; we expect a verbal product as object. But the yajñám here is picking up the conjoined phrase stómaṃ yajñáṃ ca of 4b, whose stómam would be an appropriate obj. of prá … arcā.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praiseworthy, givers of good gifts, Heroes with full and perfect strength -  
      To Maruts, Holy Ones of heaven, will I extol the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die würdig sind, Freigebige zu heißen, Männer von ganzer Kraft, den opferwerten Mannen des Himmels, den Marut, stimme das Opfergebet an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Männern preis das Opfer an, was den zu ehrenden gebührt, Die reichlich regnen stark an Kraft, den Maruts, die vom Himmel sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те мужи, что обладают нераздельной силой,  
 Очень щедрые, достойные (восхваления):  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धृष꣡त् पिब कल꣡शे सो꣡मम् इन्द्र  
 वृत्रहा꣡ शूर समरे꣡ व꣡सूनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रयिस्था꣡नो रयि꣡म् अस्मा꣡सु धेहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 माध्य॑न्दिने । सव॑ने । आ । वृ॒ष॒स्व॒ । र॒यि॒ऽस्थानः॑ । र॒यिम् । अ॒स्मासु॑ । धे॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhṛṣat*
 - \[noun\], accusative, singular, neuter
@@ -119,41 +119,41 @@ genre M
 हे **शूर** शौर्यवन् **इन्द्र** **वृत्रहा** वृत्राणामावरकाणां शत्रूणां हन्ता त्वं **वसूनां** धनानां **समरे** संग्रामे निमित्तभूते सति **कलशे** द्रोणकलशेऽवस्थितं **सोमं** **धृषत्** धृष्टं यथा भवति तथा **पिब** । अपि च **माध्यंदिने** **सवने** **आ** **वृषस्व** आसिञ्चस्व । जठरं सोमेन पूरय । सर्वैन्द्रं हि माध्यंदिनं सवनम् । किंच **रयिस्थानः** रयीणां **धनानां** स्थानभूतस्त्वं **रयिं** धनम् **अस्मासु** **धेहि** धारय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hero, **Indra**, who are the slayer of foes in contests for (the acquisition of) treasures, drink boldly from the pitcher; drink copiously at the noonday rite; receptacle of rices, bestow riches upon us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Boldly drink the soma in the tub, Indra—as smasher of Vr̥tra at the  confluence of goods, o champion.  
 At the Midday Pressing, drench yourself. Standing amid wealth,  establish wealth in us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 rayi-sthā́na- is a bahuvrīhi, lit. ‘having your place/standing in wealth’ vel sim., though the published translation is less awk.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink Soma boldly from the beaker, Indra, in war for treasures, Hero, Vrtra-slayer!  
      Fill thyself full at the mid-day libation, and give us wealth, thou Treasury of riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink herzhaft den Soma aus der Schale, Indra, du der Feindetöter in der Anhäufung von Schätzen, o Held. Schütte ihn in dich bei dem mittäglichen Trankopfer! Im Reichtum wohnend bring uns Reichtum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus Bechern trink den Soma tüchtig, Indra, im Kampf der Tapfern, Held, o Vritratödter, Beim mittäglichen Mahle trinke voll dich, ein Sitz des Reichthums, schenke du uns Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей с охотой сому в сосуде, о Индра,  
 Гы убийца врагов при стечении богатств, о герой.  

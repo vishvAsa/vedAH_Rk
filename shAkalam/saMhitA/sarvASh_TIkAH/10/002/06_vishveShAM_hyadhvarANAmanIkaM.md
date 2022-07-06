@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वेषां हि꣡ अध्वरा꣡णाम् अ꣡नीकं  
 चित्रं꣡ केतुं꣡ ज꣡निता त्वा जजा꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्पार्हा꣡ इ꣡षः क्षुम꣡तीर् विश्व꣡जन्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । आ । य॒ज॒स्व॒ । नृ॒ऽवतीः॑ । अनु॑ । क्षाः । स्पा॒र्हाः । इषः॑ । क्षु॒ऽमतीः॑ । वि॒श्वऽज॑न्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśveṣāṃ* ← *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, masculine
@@ -125,7 +125,7 @@ genre M
 प्रयच्छ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre M
 The progenitor: either **Prajāpati** or the sacrificer, the **yajamāna**; (viands) prepared by men, plural ced on theearth, i.e., the altar
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because the begetter has begotten you as the face of all the rites, their  brilliant beacon,  
 so win by sacrifice, throughout the lands filled with superior men, eagerly  sought cattle-rich refreshments belonging to all peoples.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Because the Father hath produced thee, Leader of all our solemn rites, their brilliant Banner:  
      So win by worship pleasant homes abounding in heroes, and rich food to nourish all men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn dich hat der Erzeuger als Sinnbild und augenfälliges Erkennungszeichen aller Opfer erzeugt. Als solcher erbitte nach einander männerreiche Wohnsitze, beneidenswerte Speisegenüsse nebst Vieh, für alle Leute ausreichend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn als das Antlitz aller Opferfeste und lichte Fahne zeugte dich der Zeuger, So bring durch Opfer zu den Männersitzen für alle Menschen liebe reiche Nahrung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь родитель породил тебя как лик  
 Всех обрядов, как яркое знамя.  

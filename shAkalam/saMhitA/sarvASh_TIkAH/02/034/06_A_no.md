@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो ब्र꣡ह्माणि मरुतः समन्यवो  
 नरां꣡ न꣡ शं꣡सः स꣡वनानि गन्तन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 क꣡र्ता धि꣡यं जरित्रे꣡ वा꣡जपेशसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अश्वा॑म्ऽइव । पि॒प्य॒त॒ । धे॒नुम् । ऊध॑नि । कर्ता॑ । धिय॑म् । ज॒रि॒त्रे । वाज॑ऽपेशसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -133,19 +133,19 @@ genre M
 समन्यवः समानमनसः समानक्रोधावाहेमरुतः नोस्माकम्ब्रह्माणिअन्ननामैतत् अन्नानि सवनानि अभिषुत सोमलक्षणानिहवींषिआगन्तन आगच्छत गमेर्लोटिछान्दसःशपोलुक् तप्तनप्तनथनाश्चेतित- स्यतनबादेशः अतएवङित्त्वाभावादनुनासिकलोपाभावः तत्रदृष्टान्तः—नरान्नशंसः नरामस्माकंशंसः शंसनीयंस्तोत्रं यथा आगच्छथतद्वत् नरशब्दात् षष्ठीब्रहुवचनस्यानित्यमागमशासनमितिनुडभावः शंसः कर्मणिघञन्तआद्युदात्तः सुपांसुलुगित्यमःसुआदेशः आगत्यचधेनुं उदकदानेन प्रीणयितारमश्व- मिवऊधनि पिप्यत यथा अश्वाःपीनावयवाभवन्ति तद्वन्मेघंवर्षणसमर्थं आप्यायितं कुरुतेत्यर्थः अ- पिचजरित्रेस्तोत्रे वाजपेशसंवाजैरन्नैराश्लिष्टं पिशअवयवे धियङ्कर्मकर्त कुरुत करोतेश्छान्दसःशपोलुक् पूर्ववत्तशब्दस्यतबादेशः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, who are of one mind, come to the food that is offered at (our) sacrifices, as (you come) to the praises of men; nourish the cow, (the cloud), so that it may be like a mare with a full udder, and render the pious rite productive of abundant food to the worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Come) here to our sacred formulations, you Maruts of equal spirit;  like Narāśaṃsa [/him who receives men’s praise = Agni?] come to our  pressings. Make (them) swell like a mare, a milk-cow in her udder. Make for the  singer a visionary thought that has prizes as its ornament.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a the grammatical problem is svàr (to be read as a monosyllable, [almost] uniquely in the RV). Grassmann identifies it as an acc., Macdonell (followed implicitly by Doniger and Maurer) as an endingless loc., sim. Renou However, the phraseology, esp.
 
@@ -162,23 +162,23 @@ The “raw” (āmá-) fortifications are convincingly explained by Geldner as b
 Specifying that the fortifications be unfired is a cute reversal if Agni is supposed to be in residence there. It is also possible, if Apām Napāt is at issue, that the reference is to his residence in the waters, would would most definitely be uncooked/unfired. It is also of course difficult in this post-Lévi-Strauss age not to put his conceptual spin on the term “raw,” though exactly how this concept would pertain to this passage is unclear: perhaps it refers to a place and a society so far away (paráḥ) from Ārya civilization that it counts as “raw” to Ārya “cooked.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To these our prayers, O Maruts, come unanimous, come ye to our libations like the praise of men.  
      Make it swell like a mare, in udder like a cow, and for the singer grace the song with plenteous strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommt, ihr einmütigen Marut, zu unseren Segensworten, zu den Somaspenden ebenso wie das Lob der Herren ! Machet es ergiebig wie eine milchgebende Stute am Euter, macht das Lied für den Sänger lohngeschmückt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu unsern Bitten kommt, o Marut's, gleichgesinnt; wie Männer-Sang kommt her zu unserm Opfermahl, Wie einer Stute schwellt der Milchkuh Euter ihr, und macht das Lied dem Sänger reich mit Gut geschmückt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На наши молитвы, о Маруты единодушные,  
 На выжимания (сомы) придите, как хвала мужей!  

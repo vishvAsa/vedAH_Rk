@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इन्द्र य꣡तयस् तुवा  
 भृ꣡गवो ये꣡ च तुष्टुवुः꣡  
 म꣡मे꣡द् उग्र श्रुधी ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मम॑ । इत् । उ॒ग्र॒ । श्रु॒धि॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -93,7 +93,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **ये** **यतयः** नियता अङ्गिरसस्त्वां **तुष्टुवुः** **ये** **च** **भृगवः** भृगुगोत्रास्त्वां तुष्टुवुः स्तुवन्ति तेषु मध्ये **ममेत्** ममैव **हवं** स्तोत्रं हे **उग्र** ओजस्विन्निन्द्र **श्रुधि** शृणु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,33 +104,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Those pious sages: (added) the **aṅgirasas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (There are) those Yatis and those Bhr̥gus who have praised you, Indra— but hear just my call, mighty one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is structured entirely parallel to vs. 12 and thus forms a small ring that does not conform to the tṛca structure. On tuṣṭuvúḥ see comm. on vs. 12.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, whatever Yatis and Bhrgus have offered praise to thee,  
      Listen, thou Mighty, to my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn dich auch die Yati´s und die Bhrigu´s gepriesen haben, Indra, so erhöre doch meinen Ruf, o Gewaltiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Indra dich der Jati-stamm, und dich die Bhrigu's auch gelobt, So hör auf mich, du mächt'ger doch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какие яти, о Индра,  
 И какие бхригу прославляли тебя –  

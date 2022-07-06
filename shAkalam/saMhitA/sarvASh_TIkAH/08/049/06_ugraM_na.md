@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उग्रं꣡ न꣡ वीरं꣡ न꣡मसो꣡प सेदिम  
 वि꣡भूतिम् अ꣡क्षितावसुम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 क्ष꣡रन्ति इन्द्र धीत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 उ॒द्रीऽइ॑व । व॒ज्रि॒न् । अ॒व॒तः । न । सि॒ञ्च॒ते । क्षर॑न्ति । इ॒न्द्र॒ । धी॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
@@ -111,20 +111,20 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We have approached you with homage like a mighty hero, the pre-eminent one, of imperishable wealth;O **Indra**, thunderer, our prayers flow forth as an abundant fountain pours out its streams.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With homage we reverently approach (you) like a powerful hero, the  distinguished one dispensing imperishable goods.  
 Like a wellspring full of water for the one who pours it out, the poetic  thoughts flow (for you), Indra, bearer of the mace.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile marking in pāda a seems unnecessary: why is Indra like a powerful hero, rather than, as usual, simply being one. Perhaps the tendency for many verses and half-verses in this hymn to begin with similes enforced that pattern here.
 
@@ -133,17 +133,17 @@ In c the double marking of the simile (udrī́va … avató ná siñcaté) also 
 kṣáranti … dhītáyaḥ is very close to kṣáranti dhītáyaḥ in the matching hymn VIII.50.4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie einem gewaltigen Herrn sind wir dir unter Verbeugung genaht, dem mächtigen von unerschöpflichem Reichtum. Wie ein wasserreicher Brunnen dem, der daraus schöpft, so fließen dir die Gebete zu, Indra, Keulenträger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie starkem Helden nahten wir anbetend dir, dem reichen, dem's nie fehlt an Gut, Gebete strömen blitzbewehrter Indra dir, wie reich an Wasser rinnt der Quell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как к грозному мужу, мы приблизились с поклонением  
 К могучему с неисчерпаемым богатством.  

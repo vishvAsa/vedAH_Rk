@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इहे꣡न्द्राणी꣡म् उ꣡प ह्वये  
 वरुणानीं꣡ सुअस्त꣡ये  
 अग्ना꣡यीं सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्नायी॑म् । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ihendrāṇīm* ← *iha*
 - \[adverb\]
@@ -75,36 +75,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 द्वितीये छन्दोमे वैश्वदेवशस्त्रे ‘मही द्यौः पृथिवी च नः' इति द्यावापृथिव्यनिविद्धानीयस्तृचः । ‘द्वितीयस्याग्निं वः' इति खण्डे सूत्रितं - ‘मही द्यौः पृथिवी च नो युवाना पितरा पुनः' (आश्व. श्रौ. ८. १०) इति । आग्रयणेष्टौ ‘मही द्यौः' इत्येषा द्यावापृथिव्यैककपालस्य अनुवाक्या।' आग्रयणं व्रीहिश्यामाक० ' इति खण्डे सूत्रितं- ये के च ज्मा महिनो अहिमाया मही द्यौः पृथिवी च नः । ( आश्व. श्रौ. २. ९) इति । अग्निमन्थनेऽप्येषा विनियुक्ता।' प्रातर्वैश्वदेव्याम् ' इति खण्डे सूत्रितम् - ’अभि त्वा देव सवितर्मही द्यौः पृथिवी च नः ' (आश्व. श्रौ. २. १६) इति । विष्यन्दमानं सांनाय्यमनयैव आहवनीयदेशे निनयेत् । ‘विध्यपराधे' इति खण्डे तथैव सूत्रितं– विष्यन्दमानं मही द्यौः पृथिवी च न इत्यन्तःपरिधिदेशे निनयेयुः ' (आश्व. श्रौ. ३. १० ) इति । आश्विनशस्त्रेऽप्येषा ‘संस्थितेष्वाश्विनाय ' इति खण्डे सूत्रितं -’मही द्यौः पृथिवी च नस्ते हि द्यावापृथिवी विश्वशंभुवा ' ( आश्व, श्रौ. ६. ५) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invoke hither, **Indrāṇī**, **Varuṇānī**, and **Agnāyī**, for our welfare, and to drink the **Soma** juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here I call upon Indrāṇī, Varuṇānī for well-being,  
 upon Agnāyī for soma-drinking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indrani, Varunani, and Agnayi hither I invite,  
      For weal, to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe die Frau des Indra, des Varuna zum Glück, die Frau des Agni zum Somatrunk.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Indra und des Varuna, des Agni Gattin ruf' ich her Zum Wohlergehn, zum Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сюда я призываю Индрани,  
 Варунани – на счастье,  

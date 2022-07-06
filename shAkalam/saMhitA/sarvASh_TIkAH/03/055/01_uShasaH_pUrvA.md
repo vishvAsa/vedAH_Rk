@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उष꣡सः पू꣡र्वा अ꣡ध य꣡द् विऊषु꣡र्  
 मह꣡द् वि꣡ जज्ञे अक्ष꣡रम् पदे꣡ गोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 व्र॒ता । दे॒वाना॑म् । उप॑ । नु । प्र॒ऽभूष॑न् । म॒हत् । दे॒वाना॑म् । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
@@ -141,7 +141,7 @@ genre M
 **पूर्वाः** उदयकालात् प्राचीनाः **उषसः** **यत्** यदा **व्यूषुः** व्युच्छन्ति **अध** तदानीम् **अक्षरम्** । न क्षरतीत्यक्षरम् । अविनाश्यादित्याख्यं **महत्** प्रभूतं ज्योतिः **गोः** उदकस्य **पदे** स्थाने समुद्रे नभसि वा **वि** **जज्ञे** उत्पद्यते । अथोदिते सूर्ये **प्रभूषन्** अग्निहोत्रादिकर्मसु प्रभवितुमिच्छन् यजमानः **व्रता** कर्माणि **देवानां** **नु** क्षिप्रम् **उप** समीपं नेष्यति । योग्यक्रियाध्याहारः । तदिदं **देवानाम्** **एकं** मुख्यम् **असुरत्वम्**। अस्यति क्षिपति सर्वानित्यसुरः प्रबलः । तस्य भावोऽसुरत्वं प्राबल्यम् । महदैश्वर्यम् ॥ व्यूषुः । 'उष प्लुष दाहे' इत्यस्य विपूर्वस्य लिट्युसि रूपम् । 'सह' इति योगविभागात् समासः । यद्वृत्तयोगादनिघातः । प्रभूषन् । भवतेः सनि द्विर्वचनस्य छन्दसि विकल्पितत्वात् अत्र द्विर्वचनाभावः । तदन्ताच्छतरि रूपम् । प्रादिसमासः । शतुर्लसार्वधातुकस्वरे धातुस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,36 +154,36 @@ Mahad devānām asuratvam ekam: this is the burden of this and following verses;
 Ekam = one, is explained mukhyam, chief
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then when the ancient dawns dawned forth, in the track of the cow a  great imperishable (syllable) was born [/was discerned],  
 which tends to the commandments of the gods: great is the one and only  lordship of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The perfect in b, ví jajñe, is entirely ambiguous between √jan and √jñā, and I think it likely that both are meant. In this context there is not too much difference between a syllable being born and being discerned. The “track of the cow” is presumably here the ritual ground, and the reference is to the ritual speech of the dawn sacrifice. Renou astutely notes the juxtaposition of akṣára- and padá-, reinforcing the speech theme, even though padá- has the sense of ‘track, footprint’ here. See padáin the next vs. (2b) for a possible reference to speech.
 
 The standard tr. all supply a first-person subject in c, with a verb like “I proclaim.” No one but Oldenberg attempts to justify this addition, and his attempt is halfhearted. I instead take c as continuing b and take the underlying form of prabhū́ṣan to be prabhū́ṣat, neut. nom./acc. sg., before a following nasal, against the Pp. The participle modifies akṣáram in b. In my interpr. the “syllable” (that is, the essence of speech) attends to the gods’ commandments, perhaps by giving them imperishable verbal form. I also suggest that the “great syllable” is actually the refrain found in d; note that mahā́t in b takes the same position as it does in the refrain. The refrain may also be the most important of the gods’ vratas; see also 6c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AT the first shining of the earliest Mornings, in the Cow's home was born the Great Eternal.  
      Now shall the statutes of the Gods be valid. Great is the Gods' supreme and sole dominion -
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Damals als die früheren Morgenröten aufgingen, da wurde das große Wort geboren auf der Fährte der Kuh. Der Dienste der Götter wartend sage ich: Groß ist die einzige Asuramacht der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da, als die ersten Morgenröthen strahlten, entstand das grosse Licht am Ort der Weltkuh, Die Satzungen der Götter nun befolgend; gross ist allein der Götter Geistesfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда прежние Ушас зажигались,  
 Великое слово зародилось в следе коровы.  

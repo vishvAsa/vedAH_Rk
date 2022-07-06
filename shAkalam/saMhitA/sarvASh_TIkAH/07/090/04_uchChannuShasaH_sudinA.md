@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उछ꣡न्न् उष꣡सः सुदि꣡ना अरिप्रा꣡  
 उरु꣡ ज्यो꣡तिर् विविदुर् दी꣡धियानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡षाम् अ꣡नु प्रदि꣡वः सस्रुर् आ꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 गव्य॑म् । चि॒त् । ऊ॒र्वम् । उ॒शिजः॑ । वि । व॒व्रुः॒ । तेषा॑म् । अनु॑ । प्र॒ऽदिवः॑ । सस्रुः॑ । आपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ucchann* ← *ucchan* ← *vas*
 - \[verb\], plural, Present injunctive
@@ -124,7 +124,7 @@ genre M
 येऽङ्गिरसो वायुमस्तोषत तेषाम् **अरिप्राः** पापरहिताः **उषसः** **सुदिनाः** शोभनदिनस्य हेतुभूताः सत्यः **उच्छन्** औच्छन् व्यवासयन् । ते च **दीध्यानाः** दीप्यमानाः सन्तः **उरु** विस्तीर्णं **ज्योतिः** सूर्याख्यं **विविदुः** वायोः प्रसादादलभन्त । अपि च **उशिजः** कामयमानास्तेऽङ्गिरसः **गव्यं** **चित्** गोसंघरूपमपि **ऊर्वं** धनं पणिभिरपहृतं **वि** **वव्रुः** व्यवृण्वन् अलभन्त । तथा **तेषाम्** अङ्गिरसामर्थाय **प्रदिवः** पुराण्यः **आपः** **अनु** सस्रुः अन्वसरन् अन्वगच्छन् । हिताचरणपरा आसन्नित्यर्थः । आवरकस्यासुरस्य वायुना हननादसुरेणाहृतानुषःप्रभृतीन् पुनर्लब्धवन्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ genre M
 Aṅgirasas: by their praise of **Vāyu** the dawn broke, the stolencattle were rescued and the obstructed rain set at liberty
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The dawns dawned, day-bright and stainless. (The men) have found  broad light while reflecting.  
 The fire-priests have opened up the cowpen. The waters have flowed for  them from a distant day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the published translation the injunc. uchán is rendered as a preterite; I’d now be inclined towards a pres. “the dawns dawn,” if the vs. depicts the ritual scene unfolding. If, however, it is an account of the Vala myth, a preterital uchán would be better. Since there is probably split temporal reference here, describing the actions both of the mythical Aṅgirases originally opening the Vala cave and of the priests reenacting this mythic model, the injunctive uchán can fit both scenarios—likewise the perfects that follow (vividuḥ b, ví vavruḥ c, sasruḥ d), since that tense can be used both for both distant and immediate past. Unfortunately English does not have a temporally un- (or under-)marked tense like the injunctive, and so a choice between present and preterital translations has to be made.
 
@@ -152,23 +152,23 @@ I did not render cid in c in the published translation Cf. V.29.12, where the sa
 On ánu pradívaḥ see Oldenberg’s extensive disc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The spotless Dawns with fair bright days have broken; they found the spacious light when they were shining.  
      Eagerly they disclosed the stall of cattle: floods streamed for them as in the days aforetime.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Usas´ gingen fleckenlos auf, schöne Tage bringend; die Väter fanden nachsinnend das weite Licht. Die Usij schlossen sogar die Rinderhöhle auf; ihre Gewässer fließen seit langer Zeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es leuchten heitre, reine Morgenröthen, die strahlenden ergossen weiten Lichtschein; Die eifrigen eröffneten den Kuhstall, nach ihrer Weisung flossen die Gewässer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажглись беспорочные зори, неся (с собой) счастливые дни.  
 Далекий свет нашли (отцы), размышляя.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ का꣡वियम् उश꣡नेव ब्रुवाणो꣡  
 देवो꣡ देवा꣡नां ज꣡निमा विवक्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पदा꣡ वराहो꣡ अभि꣡ एति रे꣡भन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 महि॑ऽव्रतः । शुचि॑ऽबन्धुः । पा॒व॒कः । प॒दा । व॒रा॒हः । अ॒भि । ए॒ति॒ । रेभ॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 उशनेव एतन्नामकऋषिरिव काव्यं कविकर्म स्तोत्रं ब्रुवाणः उच्चारयन् देवः स्तोता अयमृषिः वृषगणोनाम देवानामिन्द्रादीनां जनिम जन्मानि प्रविवक्ति प्रकर्षेण ब्रवीति । वचपरिभाषणे व्यत्ययेनविकरणस्य श्लुः बहुलञ्छन्दसीतिअभ्यासस्येत्वम् । महिव्रतः प्रभूतकर्मा शुचिबन्धुः बध्नन्तिशत्रूनिति बन्धूनि तेजांसि बलानिवा दीप्ततेजस्कः पावकः पापानां शोधकः वराहः वरं च तदहः वराहः राजाहःसखिभ्यष्टजिति टच्समासान्तः । तस्मिन्न- हनि अभिषूयमाणत्वेन तद्वान् अर्शआदित्वान्मत्वर्थीयःअच् तादृशःसोमः रेभन् शब्दङ्कुर्वन् पदा पदानि स्थानानि पात्राणि अभ्येति अभिगच्छति । यद्वा यथाकश्चनवराहः पदा पादेन भूमिं विक्रममाणः शब्दङ्करोति तद्वत् ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,14 +139,14 @@ The praiser: **devaḥ** = **Soma**; as a wild boar makes a noise with its foot:
 **Pada** = padāni, abodes, i.e., the filters
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Speaking forth his poetry like Uśanā, the god proclaims the races of  the gods.  
 Of great commandment, of blazing lineage, pure, as a boar he goes  
 rasping toward his tracks.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the expression kā́vyam uśáneva the first word is the acc. obj. of bruvāṇáḥ, but it is also of course a play on the patrynomic of Uśanā, the differently accented kāvyá-.
 
@@ -167,23 +167,23 @@ This tṛca is attributed to Vṛṣagaṇa Vāsiṣṭha, whose given name was 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The God declares the Deities' generations, like Usana, proclaiming lofty wisdom.  
      With brilliant kin, far-ruling, sanctifying, the Boar advances, singing, to the places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Usanas Seherweisheit redend verkündet der Gott der Götter Geschlechter. Hochgebietend, von reiner Sippe, lauter geht er lautredend hin mit dem Fuße als Eber.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Uçana erhabne Weisheit sprechend, verkündet er, der Gott, der Götter Ursprung, Der flammende, grossmächt'ge, lichtverwandte, der Eber eilet singend zu den Stätten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Провозглашая поэтическое искусство, как Ушанас,  
 Бог обьявляет роды богов.  

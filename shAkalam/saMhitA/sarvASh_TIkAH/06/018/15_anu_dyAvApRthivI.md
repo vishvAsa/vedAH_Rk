@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु द्या꣡वापृथिवी꣡ त꣡त् त ओ꣡जो  
 अ꣡मर्तिया जिहत इन्द्र देवाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उक्थं꣡ न꣡वीयो जनयस्व यज्ञइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 कृ॒ष्व । कृ॒त्नो॒ इति॑ । अकृ॑तम् । यत् । ते॒ । अस्ति॑ । उ॒क्थम् । नवी॑यः । ज॒न॒य॒स्व॒ । य॒ज्ञैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -141,37 +141,37 @@ genre M
 हे **इन्द्र** **ते** त्वदीयं **तत्** प्रसिद्धम् **ओजः** बलं द्यावापृथिवी **अनु** जिहाते । **अमर्त्याः** अमरणधर्माणः **देवाः** त्वदीयं बलमनु **जिहते** अनुगच्छन्ति । हे **कृत्नो** बहूनां कर्मणां कर्तः **ते** त्वदीयम् **अकृतं** **यत्** कर्म **अस्ति** तत् **कृष्व** कुरुष्व । तदनन्तरं **यज्ञैः** यज्ञेषु **नवीयः** नवतरम् **उक्थं** स्तोत्रं **जनयस्व** ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The heaven and earth, and the immortal gods, acknowledge your might; doer of many deeds, do that which is yet undone by you, give birth to a new hymn at (your) sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Heaven and Earth and the immortal gods give way to your  
 might, Indra.  
 Do, o doer, what undone (deed) exists for you (to do). Generate a newer  hymn for yourself along with sacrifices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This power of thine both heaven and earth acknowledge, the deathless Gods acknowledge it, O Indra.  
      Do what thou ne'er hast done, O Mighty Worker: beget a new hymn at thy sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser deiner Stärke fügen sich Himmel und Erde und die unsterblichen Götter, o Indra. Vollbring, du Vollbringer, was dir noch unvollbracht ist; schaff dir neuen Preis mit Opfern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es gaben, Indra, dieser deiner Stärke die ew'gen Götter, Himmel nach und Erde; O thue, thät'ger, was noch ungethan ist, erzeuge neues Lob dir durch die Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этой силе твоей Небо-и-Земля  
 Поддались (и) бессмертные боги, о Индра.  

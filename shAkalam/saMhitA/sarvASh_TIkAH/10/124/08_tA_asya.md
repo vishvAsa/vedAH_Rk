@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ अस्य ज्ये꣡ष्ठम् इन्द्रियं꣡ सचन्ते  
 ता꣡ ईम् आ꣡ क्षेति स्वध꣡या म꣡दन्तीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बीभत्सु꣡वो अ꣡प वृत्रा꣡द् अतिष्ठन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ताः । ई॒म् । विशः॑ । न । राजा॑नम् । वृ॒णा॒नाः । बी॒भ॒त्सुवः॑ । अप॑ । वृ॒त्रात् । अ॒ति॒ष्ठ॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
@@ -133,36 +133,36 @@ genre M
 **ताः** पूर्वोक्ता वृष्टा आपः **अस्य** वरुणस्य **ज्येष्ठं** वृद्धतमम् **इन्द्रियं** वीर्यं **सचन्ते** समवयन्ति संभजन्ते । धारयन्तीत्यर्थः । ‘ आपो वरुणस्य पत्नय आसन्' (तै. सं. ५,५.४.१ ) इति श्रुतेः । **स्वधया** । अन्ननामैतत् । हविलक्षणेनान्नेन **मदन्तीः** माद्यन्तीः । यद्वा । व्रीह्याद्युत्पादनद्वारेण हविषा मादयन्तीः । **ताः** अपः **ईम्** अयं वरुणः **आ** **क्षेति** अभिगच्छति ॥ ‘क्षि निवासगत्योः । छान्दसो विकरणस्य लुक् ॥ **ताः** च **ईम्** एनं वरुणं **विशो** **न** विशः प्रजा यथा **राजानं** स्वामिनं संभजन्ते तथा **वृणानाः** संभजमानाः **बीभत्सुवः** भयेन कम्पमानाः । यद्वा । बद्धा वृत्रेणावृताः सत्यः । तस्मिन् हते सति तस्मात् **वृत्रात्** **अप** **अतिष्ठन्** । अपक्रम्य तत्र तत्रावतिष्ठन्ते ॥ ' बध बन्धने' इत्यस्माद्धातोः ‘ मान्बधदान्शान्भ्यः' (पा. सू. ३.१.६ ) इति सन् अभ्यासस्य च दीर्घः । ‘ सनाशंसभिक्ष उ: ' (पा. सू. ३. २. १६८) इत्युप्रत्ययः । जसि छान्दस उवङादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They sustain his most excellent energy, he approaches them delighting him with (sacrificial) food; likesubject choosing a king, they, smitten with fear fled from **Vṛtra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They follow his preeminent Indrian power. He dwells peacefully among  them who delight in their independent power.  
 They, on choosing him as clans choose a king, recoiling turned away  from Vr̥tra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These wait upon his loftiest power and vigour: he dwells in these who triumph in their Godhead;  
      And they, like people who elect their ruler, have in abhorrence turned away from Vrtra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese folgen seiner höchsten Indramacht; er wohnt bei ihnen, die sich nach eigenem Ermessen ergötzen. Während sie ihn wie die Clane ihren König erwählten, haben sie sich spröde von Vritra abgewandt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie folgen nun der höchsten Macht des Indra, er wohnt in ihnen, die in Wonne tanzen, Wie Unterthanen sich den König wählend entflohen sie mit Abscheu von dem Vritra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они подчиняются (этой) его высшей силе Индры.  
 Он живет у них, наслаждающихся по своей воле.  

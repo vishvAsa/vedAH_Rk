@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् म꣡नुर् अभवं सू꣡रियश् च  
 अहं꣡ कक्षी꣡वाँ ऋ꣡षिर् अस्मि वि꣡प्रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अहं꣡ कवि꣡र् उश꣡ना प꣡श्यता मा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒हम् । कुत्स॑म् । आ॒र्जु॒ने॒यम् । नि । ऋ॒ञ्जे॒ । अ॒हम् । क॒विः । उ॒शना॑ । पश्य॑त । मा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -128,7 +128,7 @@ genre M
 इदमादिमन्त्रत्रयेण गर्भे वसन् वामदेवः उत्पन्नतत्त्वज्ञानः सन् सार्वात्म्यं स्वानुभवं मन्वादिरूपेण प्रदर्शयन्नाह । अहं वामदेव इन्द्रो वा मनुरभवं सर्वस्य मन्ता प्रजापतिरस्मि । अहम् एव सूर्यश्च सर्वस्य प्रेरकः सविता चास्मि । विप्रः मेधावी कक्षीवान् दीर्घतमसः पुत्रः एतत्संज्ञकः ऋषिः अप्यहमेव अस्मि । आर्जुनेयम् अर्जुन्याः पुत्रं कुत्सम् एतन्नामकमृषिम् अहम् एव न्यृञ्जे  नितरां प्रसाधयामि । **कविः** क्रान्तदर्शी **उशना** एतदाख्य ऋषिः अहम् एवास्मि । उक्तमुपलक्षणम् । परमार्थदृष्ट्या कृत्स्नमप्यहमेवास्मीत्यर्थः । हे जनाः मा मां सर्वात्मकं पश्यत । यूयमप्येवमेव स्वस्वरूपमनुभवतेत्युक्तं भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 Attributed to **Vāmadeva**: the sage uttered the verse and the following two verses, while yet in the womb, knowledge of truth being genitive rated in him, and enabling him to identify himself with universal existence; through the eye of supreme truth I am everything, **paramārtha** dṛṣṭyā kṛtsnam aham asmityarthaḥ, we have, thus, the statement of the pantheistic basis for **Vedānta**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I became Manu and the sun. I am Kakṣīvant, the inspired seer.  
 I steered myself down to Kutsa, the son of Arjuna. I am Kavi Uśanā.  Look at me!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In this vs. Indra identifies himself with the three most resonant RVic words for poet: ṛ́ṣi-, vípra-, kaví-. I am not sure why. The named beings in the 2nd hemistich, Kutsa and Uśanā, belong in the same mythic complex, along with Indra; see in this Indra cycle IV.16.10-12. Kakṣīvant is one of the most accomplished RVic poets (I.116-26), and his collection immediately follows that attributed to Kutsa (I.101-15).
 
@@ -158,23 +158,23 @@ In c I take ny ṛ̀ñje not as a 1st sg. present but as the homophonous 1st sg.
 injunctive to the 6th cl. pres. ṛñjá- and therefore as preterital.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I WAS aforetime Manu, I was Surya: I am the sage Kaksivan, holy singer.  
      Kutsa the son of Arjuni I master. I am the sapient Usana behold me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich ward Manu und ich Surya; ich bin Kasivat, der redegewaltige Rishi. Ich nötige den Kutsa, den Sohn des Arjuna; ich bin der Kavi Usanas, seht mich an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Ich war einst Manu, ich war einst die Sonne, jetzt bin Kakschivat ich, der weise Barde; Ich gleiche ganz dem Kutsa Ardschuneja, bin Uçana, der Dichter, seht mich an nur.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я был Ману и Сурьей.  
 Я – вдохновенный риши Какшивант.  

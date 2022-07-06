@@ -6,14 +6,14 @@ ChandaH = "पादनिचृत्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡ षु꣡ णः स꣡खीना᳐म्  
 अविता꣡ जरितॄणा᳐꣡म्  
 शत꣡म् भवासि ऊति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 श॒तम् । भ॒वा॒सि॒ । ऊ॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhī* ← *abhi*
 - \[adverb\]
@@ -78,36 +78,36 @@ genre M
 हे इन्द्र त्वं **सखीनां** समानख्यातीनां **जरितॄणां** स्तोतॄणाम् **अविता** रक्षिता त्वं **शतं** शतेन बह्वीभिः **ऊतिभिः** रक्षाभिः सह **नः** अस्माकं **सु** सुष्ठु **अभि** **भवासि** अभिमुखो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Do you, the protector of us your friends and praisers, be present with a hundred protections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the helper of us, your comrades and your singers,  
 you will prevail by your hundred means of help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou who art Protector of us thy friends who praise thee  
      With hundred aids approach us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nimm uns fein, als Gönner deiner Freunde, der Sänger, mit deinen hundert Hilfen in Obhut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bald komme als Beschützer du der Freunde, der lobsingenden, Mit hundert Hülfen zu uns her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть обратишься ты в нашу сторону  
 Как помощник (твоих) друзей-певцов  

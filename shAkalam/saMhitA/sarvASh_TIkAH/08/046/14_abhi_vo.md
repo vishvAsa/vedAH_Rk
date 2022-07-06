@@ -6,14 +6,14 @@ ChandaH = "पिपीलिकमध्या बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ वो वीर꣡म् अ꣡न्धसो म꣡देषु गाय  
 गिरा꣡ महा꣡ वि꣡चेतसम्  
 इ꣡न्द्रं ना꣡म श्रु꣡तियं शाकि꣡नं व꣡चो य꣡था
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 24
 इन्द्र॑म् । नाम॑ । श्रुत्य॑म् । शा॒किन॑म् । वचः॑ । यथा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -104,7 +104,7 @@ genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 24
 हे उद्गात्रादयः **वः** । यूयमित्यर्थः । अथवा हे यजमानाः वो युष्माकं हिताय **अन्धसः** सोमस्य **मदेषु** उत्पाद्यमानेषु सत्सु **वीरं** शत्रूणामीरयितारं **नाम** शत्रूणां नामकं **विचेतसं** विशिष्टप्रज्ञं **श्रुत्यं** सर्वत्र श्रोतव्यं **शाकिनं** शक्तमीदृशम् **इन्द्रं** **महा** महत्या **गिरा** स्तुत्या **वचः** वाग्युष्मदीया **यथा** येन प्रकारेण प्रवर्तते गायत्र्या त्रिष्टुभा वा तथा **गाय** गायत । स्तुतिं कुरुत ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,34 +117,34 @@ Your wise hero: vaḥ = yuyanr; or,yuṣmākam hitayā; vaco yathā = in the **g
 **Nāma** = śatrūṇām nāmakam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing to the hero amid the raptures of the stalk; with a great hymn (sing)  to the discriminating one,  
 Indra by name, worthy of fame, capable like speech.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes váco yáthā as a truncated clause: “soweit (es) die Rede (vermag),” but, although accented yáthā is seldom pāda-final, unaccented yathā, the simile marker, is almost always so placed. Therefore pāda-final yáthā here must also be a simile marker at least in my view, but see Oldenberg for contrary opinion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the wild raptures of the juice sing to your Hero with high laud, to him the Wise,  
      To Indra, glorious in his name, the Mighty One, even as the hymn alloweth it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Besing euren Helden im Rausche des Trankes mit hoher Rede, den Einsichtsvollen, den Indra, den berühmten Namen, den Mächtigen, soweit es die Rede vermag.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besinge [oder besingen will ich, wenn gāyā zu lesen] euren Helden bei den Rauschtränken des Soma, den weisen mit erhabenem Liede, Indra mit Namen den berühmten, im wahren Sinne des Wortes kräftigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспой вашего героя в опьянении соком сомы  
 Великой хвалебной песнью, прозорливого  

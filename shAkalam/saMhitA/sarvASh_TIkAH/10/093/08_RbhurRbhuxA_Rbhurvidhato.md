@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋभु꣡र् ऋभुक्षा꣡ ऋभु꣡र् विधतो꣡ म꣡द  
 आ꣡ ते ह꣡री जूजुवान꣡स्य वाजि꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 ऋ꣡धग् यज्ञो꣡ न꣡ मा꣡नुषः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 दु॒स्तर॑म् । यस्य॑ । साम॑ । चि॒त् । ऋध॑क् । य॒ज्ञः । न । मानु॑षः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
@@ -115,7 +115,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **ऋभुक्षाः** महानिन्द्रः **ऋभुः** यज्ञेन भाति । किंच **विधतः** त्वां परिचरतो यजमानस्य **मदः** हर्षोऽपि **ऋभुः** यज्ञेन भाति । हे इन्द्र **आ** **जूजुवानस्य** यागं प्रति शीघ्रमागच्छतः **ते** तव **हरी** अश्वावपि **वाजिना** वाजिनौ बलवन्तौ । किंच **यस्य** इन्द्रस्य संबन्धि **साम** **चित्** गीयमानं सामापि **दुष्टरं** रक्षोभिरप्रापणीयम् । एषः **यज्ञः** **मानुषः** मनुष्यसाधारणः **न** किंच **ऋधक्** पृथक् । दिव्य इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,30 +126,30 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 I.e., it is from heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Craftsmanly is the Master of the R̥bhus [=Indra]; craftsmanly is the  exhilarating drink of the one who does honor—(let) your two  
 prizewinning fallow bays (come) hither, as you speed—  
 of the one whose melody is also difficult to surpass, (whose) separate  sacrifice is like (a sacrifice) stemming from Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Prompt is Rbhuksan, prompt the worshipper's strong drink: may thy fleet Bay Steeds, thine who sperdest on, approach.  
      Not mans but God's is sacrifice whose psalm is unassailable.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kunstreich ist Ribhuksan, kunstreich der Rauschtrank des Verehrenden; heran sollen deine, des Eilenden, Falben, die sieggekrönten kommen, des Saman gar unübertrefflich ist, des Opfer von rechter Art, wie das menschliche sein soll.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Tüchtig ist Ribhukschan, tüchtig der Rauschtrank des Verehrers; her [mögen kommen] deine, des eilenden, rasche Goldrosse[487] beide, dessen Gesang selbst unbezwinglich ist in herrlicher Weise wie das Opfer der Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

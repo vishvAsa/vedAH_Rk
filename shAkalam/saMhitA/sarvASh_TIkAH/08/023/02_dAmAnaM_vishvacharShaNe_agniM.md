@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दामा꣡नं विश्वचर्षणे  
 अग्निं꣡ विश्वमनो गिरा꣡  
 उत꣡ स्तुषे वि꣡ष्पर्धसो र꣡थाना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 उ॒त । स्तु॒षे॒ । विऽस्प॑र्धसः । रथा॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dāmānaṃ* ← *dāmānam* ← *dāman*
 - \[noun\], accusative, singular, masculine
@@ -74,20 +74,20 @@ genre M
 **उत** अपि च हे **विश्वचर्षणे** विश्वस्य सर्वस्यार्थस्य ज्ञानेन द्रष्टः **विश्वमनः** । सर्वेषु स्थावरजङ्गमात्मकेष्वेकं मनो यस्य सः । एतन्नामक हे ऋषे **विस्पर्धसः** विगतमात्सर्यस्य यजमानस्य **रथानां** रथादीनां **दामानं** दातारमेवंविधम् **अग्निं** **गिरा** स्तुतिलक्षणया वाचा **स्तुषे** स्तोत्रं कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Commend with praise, all-beholding Viśvamanas, that **Agni**, who is the giver of chariots to theunenvious (worshipper).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Agni the giver, with your hymn, o you common to all domains, who  have all in mind [/Viśvamanas (=the poet)].  
 And I shall praise the competitors [=flames], (drivers) of chariots,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner I take ab as a continuation of vs. 1, with c starting a new clause.
 
@@ -96,23 +96,23 @@ The vocc. in ab are the self-address of the poet, as in VIII.22.1-2. Here the po
 I supply váhnīn to govern ráthānām in c, on the basis of váhniḥ in 3c and váhnī ráthānām in VIII.94.1. I surmise that this is also Renou’s thinking behind “(comme conducteurs) des chars,” though he makes no comment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, all men's friend, Visvamanas, exaltest Agni with thy song,  
      The Giver, and his flames with which no cars contend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Geber Agni mit Lobrede, du allbekannter Visvamanas, und preise die wetteifernden Rosse der Wagen,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Geber, allbeliebter du, den Agni rühm mit deinem Lied Und die wie Wagen rennenden, Viçvamanas!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дарителя Агни, о принадлежащий всем народам,  
 Хвалебной песнью, о Вишваманас,  

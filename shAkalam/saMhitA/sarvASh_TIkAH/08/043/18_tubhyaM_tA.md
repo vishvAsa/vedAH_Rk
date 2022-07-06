@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यं ता꣡ अङ्गिरस्तम  
 वि꣡श्वाः सुक्षित꣡यः पृ꣡थक्  
 अ꣡ग्ने का꣡माय येमिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । कामा॑य । ये॒मि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अङ्गिरस्तम** अङ्गिरसां श्रेष्ठ **अग्ने** **तुभ्यं** **विश्वाः** सर्वाः **ताः** प्रसिद्धाः **सुक्षितयः** प्रजाः **कामाय** आत्मनः कामसिद्ध्यर्थं **पृथक्** **येमिरे** नियच्छन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,28 +98,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Have severally recourse: yemire = offer oblations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, best of the Aṅgirases, all these lovely settlements have separately yielded themselves to your desire, Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, best Angiras, to thee all people who have pleasant homes,  
      Apart, have turned as to their wish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, du oberster Angiras, haben sich all die schönen Ansiedlungen einzeln, nach deinem Wunsche untergeordnet, Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, dem begehrten, streben zu die Angesessnen weit und breit, O Agni, bester Angiras.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебе, о лучший из Ангирасов,  
 Покорились по отдельности все эти  

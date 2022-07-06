@@ -8,7 +8,7 @@ title = "+040"
 ‘पुनानः' इति षडृचं षोडशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘पुनानः' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 40 (752)  
 Soma Pavamāna  

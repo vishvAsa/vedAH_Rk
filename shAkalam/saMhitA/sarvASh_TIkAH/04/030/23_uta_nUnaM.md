@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नूनं꣡ य꣡द् इन्द्रियं꣡  
 करिष्या꣡ इन्द्र पउं꣡सियम्  
 अद्या꣡ न꣡किष् ट꣡द् आ꣡ मिनत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अ॒द्य । नकिः॑ । तत् । आ । मि॒न॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -97,40 +97,40 @@ genre M
 **उत** अपि च हे **इन्द्र** **यत्** **पौंस्यं** त्वदीयं बलम् **इन्द्रियं** सामर्थ्योपेतं **नूनं** **करिष्याः** कृतवानसि खलु । **अद्य** अद्यतनः कश्चित् **तत्** बलं **नकिः** **आ** **मिनत्** न हिंस्यात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, indeed, **Indra**, you excite your vigorous manhood, there is no one at the present time who may resist it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And now what masculine deed worthy of Indra you will do, o Indra, that no one shall thwart today.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the rare future subjunctive kariṣyā́(ḥ), otherwise found only in corrupted form in I.165.9; see comm. there, as well as Oldenberg on our passage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, whatever deed of might thou hast this day to execute,  
      None be there now to hinder it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und auch jetzt noch, wenn du, Indra, eine indrawürdige Tat tun willst, so vereitelt dir diese heute keiner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und welche starke Indrathat du, Indra, noch vollbringen willst, Die hindre heute keiner dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И если ты теперь захочешь совершить,  
 О Индра, некий подвиг мужества, достойный Индры,  

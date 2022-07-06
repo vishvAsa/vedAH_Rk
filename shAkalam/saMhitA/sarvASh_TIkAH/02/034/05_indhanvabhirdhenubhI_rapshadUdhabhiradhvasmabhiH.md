@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्धन्वभिर् धेनु꣡भी रप्श꣡दूधभिर्  
 अध्वस्म꣡भिः पथि꣡भिर् भ्राजदृष्टयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡धोर् म꣡दाय मरुतः समन्यवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । हं॒सासः॑ । न । स्वस॑राणि । ग॒न्त॒न॒ । मधोः॑ । मदा॑य । म॒रु॒तः॒ । स॒ऽम॒न्य॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indhanvabhir* ← *indhanvabhiḥ* ← *indhanvan*
 - \[noun\], instrumental, plural, feminine
@@ -114,20 +114,20 @@ genre M
 समन्यवः समानमनस्काः समानक्रोधाः समानतेजसोवाहेमरुतः भ्राजदृष्टयोदीप्यमानायुधायूयं इन्धन्वभिः समिन्धनवद्भिः इन्धनशब्दाच्छन्दसीवनिपावितिमत्वर्थीयोवनिप् छान्दसोवर्णलोपः धेनुभिः प्रीणयितृभिश्च रप् शादूधभिः विरप् शीतिमहन्नाम महोधस्कैः ऊधांसिजलस्रोतोमार्गः यद्वा रपलपव्यक्तायांवाचि शब्दायमानोच्छ्रितप्रदेशैः अध्वरस्मभिः ध्वंसनरहितैः पथिभिः पतन्तिगच्छ- न्तीतिपन्थानोमेघाः एवम्भूतैर्मेघैःसहमार्गैरेववाआगन्तन आगच्छत किमर्थं मधोर्मदाय सोमस्यमदा- र्थं तत्रदृष्टान्तः—हंसासोन यथाहंसाः स्वसराणिस्वकीयानि निवासस्थानानि प्राप्नुवन्तितद्वत् ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, who are of one mind, and are armed with shining lances, come with the bright, full-uddered kine, by obstructed paths, to partake of the exhilaration of the (**Soma**) juice, as swans (fly) to their nests.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Come here) with your enflaming [?] milk-cows with teeming udders  [=clouds?], along unbesmirched paths, o you with glinting spears—  
 like geese to good pastures come here for the exhilaration of the honey,  you Maruts of equal spirit.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of the three female goddesses is unclear. They could be, with Sāyaṇa., the three who show up in the Āprī hymns (e.g., II.3.8), Iḍā, Sarasvatī, and Bhāratī -- though even if so, this does not help much, since the role of those goddesses is not well defined. A (possibly) different set of three females associated with Agni is found in II.5.5, but that passage is too obscure to aid interpretation here.
 
@@ -146,23 +146,23 @@ Note the concentration of pṛSIB forms: 2d pṛ́śni yāḥ, 3d prk̥ ṣám �
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With brightly-flarning kine whose udders swell with milk, idth glittering lances on your unobstructed paths,  
      O Maruts, of one mind, like swans who seek their nests, come to the rapturous enjoyment of the meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den flammenden Kühen, deren Euter übervoll sind, kommt, ihr Speerglänzende, auf staublosen Wegen zum Rausche des Süßtranks wie die Gänse zu den Weideplätzen, ihr einmütigen Marut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit flammenreichen Kühen, deren Euter strotzt, auf unbefleckten Pfaden, lanzenglänzende; Wie Gänsescharen zu den Ställen kommt ihr her zum Rausch des Methes, Marut's, gleich an kühnem Muth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе с воспламененными дойными коровами с переполненным выменем,  
 О вы, со сверкающими копьями, беспыльными (путями)  

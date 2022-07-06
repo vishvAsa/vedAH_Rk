@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ त्य꣡म् पूर्विय꣡म् म꣡दं  
 स्वानो꣡° अर्ष पवि꣡त्र आ꣡  
 अभि꣡ वा꣡जम् उत꣡ श्र꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒भि । वाज॑म् । उ॒त । श्रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -89,36 +89,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे सोम **सुवानः** अभिषूयमाणस्त्वं **पूर्व्यं** प्रत्नं **त्यं** तं प्रसिद्ध **मदं** मदकरं रसं **पवित्रे** **आ** समन्तात् **अभि** **अर्ष** अभिगमय । **वाजं** बलमस्मान् **अभि** अर्ष । **उत** अपि च **श्रवः** अन्नमभ्यर्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rain out through the filter, while pressed that ancient exhilarating fluid, and pour us forth strength and food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward this ancient exhilaration rush into the filter as you are being  pressed,  
 and toward victory’s prize and fame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow to the filter hitherward, pouring that ancient gladdening juice,  
      Streaming forth power and high renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe zu jenem altgewohnten Rausche, wenn du auf die Seihe ausgepreßt wirst, fließe zu Gewinn und Ruhm!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und ströme diesen ersten Trank, gepresster, durch die Seihe her, Und Gut und Nahrung uns herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый, струись по цедилке  
 К этому древнему опьянению,  

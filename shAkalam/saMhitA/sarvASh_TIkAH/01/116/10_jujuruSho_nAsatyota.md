@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुजुरु꣡षो नासतियोत꣡ वव्रि꣡म्  
 प्रा꣡मुञ्चतं द्रापि꣡म् इव च्य꣡वानात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् इ꣡त् प꣡तिम् अकृणुतं कनी꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । अ॒ति॒र॒त॒म् । ज॒हि॒तस्य॑ । आयुः॑ । द॒स्रा॒ । आत् । इत् । पति॑म् । अ॒कृ॒णु॒त॒म् । क॒नीना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jujuruṣo* ← *jujuruṣaḥ* ← *jṛ*
 - \[verb noun\], genitive, singular
@@ -120,7 +120,7 @@ genre M
 इति श्लुः । जहातेश्च' (पा. सू. ६. ४. ११६ ) इति इत्वम् । कनीनाम् । ‘रयेर्मतौ बहुलम् इति बहुलवचनात् कन्याशब्दस्य अत्र संप्रसारणम् ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,30 +131,30 @@ genre M
 In **Vana Parva**, **Mahābhārata**, Cyavana is the son of **Bhṛgu** and was engaged inpenance near the **Narmadā** river until the white ants constructed their nests round his body, and left only his eyes visible. **Sukanyā**, the daughter of Kinga **Śaryāti**, having come to the plural ce, and seeing two bright spots in what seemed to be an ant-hill, pierced them with a stick; the sage visited the offence upon Śaryāti and his attendants, and was appeased only by the promise of the king to give him his daughter in marriage. Subsequently, the **Aśvins**, coming to his hermitage, blessed **Sukanyās** union, with so old and ugly a husband as Cyavana. Admiring her fidelity, they bestowed on the sage a condition of youth and beauty like their own. Cyavana is jahita, abandoned; i.e. by sons, and others (putrādibhiḥ parityakta); an allusion, perhaps, to his solitary condition as an ascetic. In return for heir friendly office, Cyavana compelled **Indra** to assent to the Aśvins, receiving at sacrifices a share of the **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And, Nāsatyas, from Cyavāna, who had become old, you removed his  covering [=aged skin] like a garment.  
 You extended the lifetime of him who was left behind, wondrous ones,  and thereby you made him the husband of young women.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye from the old Cyavana, O Nasatyas, stripped, as 'twere mail, the skin upon  
      his body,  
      Lengthened his life when all had left him helpless, Dasras! and made him lord of youthful maidens.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch nahmet ihr Nasatya´s die Körperhülle dem gealterten Cyavana wie ein Gewand ab. Ihr Meister verlängertet das Verlassenen Leben und dann machtet ihr ihn noch zum Gatten der Jungfrauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dem Tschjavana, als er alt war, löstet wie ein Gewand, o Treue, ihr den Leib ab, Verlängertet das Leben des Verlassnen, vermähltet hülfreich ihn mit jungen Mädchen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Насатьи, состарившийся покров тела  
 Вы сняли с Чьяваны, как одежду.  

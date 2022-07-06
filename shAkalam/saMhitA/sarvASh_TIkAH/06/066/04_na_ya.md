@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ य꣡ ई꣡षन्ते जनु꣡षो अ꣡या नु꣡  
 अन्तः꣡ स꣡न्तो अवद्या꣡नि पुनानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु श्रिया꣡ तनु꣡वम् उक्ष꣡माणाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 निः । यत् । दु॒ह्रे । शुच॑यः । अनु॑ । जोष॑म् । अनु॑ । श्रि॒या । त॒न्व॑म् । उ॒क्षमा॑णाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 (ऐ. ब्रा. ३.१६ ) इति । अतः सर्वप्राणिनां हृदि वर्तमानत्वात् तेषां गमनं नास्तीति अध्यात्मं प्राणरूपेणावस्थानं दर्शितं भवति । शीघ्रगामित्वं तु तेषामधिदैवतरूपेणेति द्रष्टव्यम् । **यत्** यदा **शुचयः** दीप्यमाना मरुतः **जोषमनु** स्तोतॄणां काममनु **निः** **दुह्रे** नितरां दुहन्त्युदकम् । तथा **श्रिया** दीप्त्या **अनु** अनुगताः **तन्वम्** आत्मीयं शरीरं प्रकाशयन्तः **उक्षमाणाः** भूमिं सिञ्चन्तो भवन्ति । यद्वा। तन्वं विस्तीर्णं यथा भवति तथा उक्षमाणा भूमिं सिञ्चन्तो भवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,30 +135,30 @@ genre M
 Being already in their hearts: the **Maruts** are regarded as identical wit the **Prāṇāḥ**, vital airs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who do not retreat from their birth: now (it happened) in this way  [/(saying) “Now I will go”]—purifying their flaws while still within  
 (their mother),  
 they were milked forth gleaming, at their pleasure, growing in splendor  all along their bodies.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They shrink not from the birth; in this same manner still resting there they purge away reproaches.  
      When they have streamed forth, brilliant, at their pleasure, with their own splendour they bedew their bodies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die nicht vor der Geburt auf diese Art zurückscheuen, noch im Inneren der Mutter sich von jedem Makel reinigend, da sie blank nach ihrem Belieben ausgemolken werden, indem sie mit ihrem Leib entsprechend wachsen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die nicht verleugnen die Geburt aus jener, im Mutterleib schon tilgend ihre Flecken; Sobald die reinen nach Gefallen sogen, beträufelten mit Glanz sie ihre Leiber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что не отвращаются от рождения таким образом,  
 Очищаясь от (всех) упреков, еще когда находились внутри (матери),  

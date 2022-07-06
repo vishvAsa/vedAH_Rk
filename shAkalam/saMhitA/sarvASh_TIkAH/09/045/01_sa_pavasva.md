@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पवस्व म꣡दाय कं꣡  
 नृच꣡क्षा देव꣡वीतये  
 इ꣡न्दव् इ꣡न्द्राय पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्दो॒ इति॑ । इन्द्रा॑य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्दो** सोम **नृचक्षाः** नॄणां नेतॄणां द्रष्टा **सः** त्वं **देववीतये** यज्ञाय **इन्द्राय** इन्द्रस्य **पीतये** पानाय च **मदाय** मदार्थं च **कं** सुखं यथा भवति तथा **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,34 +100,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Plural asantly: kam = sukham yathā **bhavati** tathā; sometimes, kam is explained just a particle meaning nothing, inserted only to balance the metre of the verse
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having your gaze on men, purify yourself for exhilaration, for the  pursuit of the gods,  
 o drop, and for Indra to drink.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, nṛcákṣā in b may form a ring with vicákṣase in 6b, the last vs. of the hymn. For similar phraseology within a single vs., cf. IX.86.23 tváṃ nr̥cákṣā abhavo vicakṣaṇa. nṛcákṣā also resonates thematically with the following devávītaye, with the nṛ- devá- contrast.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FLOW, thou who viewest men, to give delight, to entertain the Gods,  
      Indu, to Indra for his drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere du dich zum Rauschtrank, du mit dem Herrenauge, zur Götterladung, für Indra zum Trunke, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du riesle, Männerschauender, zum Rausche recht, zum Göttermahl, Zum Trunk dem Indra, Indu, hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

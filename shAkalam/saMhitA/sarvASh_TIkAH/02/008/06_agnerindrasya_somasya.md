@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्ने꣡र् इ꣡न्द्रस्य सो꣡मस्य  
 देवा꣡नाम् ऊति꣡भिर् वय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अभि꣡ ष्याम पृतन्यतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (424)
 अरि॑ष्यन्तः । स॒चे॒म॒हि॒ । अ॒भि । स्या॒म॒ । पृ॒त॒न्य॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
@@ -94,20 +94,20 @@ genre D;; epic anuṣṭubh (424)
 अरिष्यन्तः केनाप्यहिंस्यमानावयं अग्नेरिन्द्रस्यसोमस्यदेवानामन्येषामपिऊतिभीरक्षाभिः सचे- महि सङ्गच्छेमहि युक्ताभवेम तथारक्षायुक्तावयम्पृतन्यतः पृतनामात्मनइच्छन्तः शत्रूनभिष्याम अभिभवेम पृतनाशब्दात्क्यचि कव्यध्वरपृतनस्यर्चिलोपइत्यवर्णलोपः ॥ ६ ॥वेदार्थस्यप्रकाशे नतमोहार्दन्निवारयन् । पुमर्थांश्चतुरोदेयाद्विद्यातीर्थमहेश्वरः ॥ १ ॥इतिश्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरन्धरेणसायणा- चार्येणविरचितेमाधवीयेवेदार्थप्रकाशेऋक् संहिताभाष्येद्वितीयाष्टकेपञ्चमोध्यायः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, uninjured, be secure in the protection of **Agni**, **Indra**, **Soma** and the gods, and confident in battle overcome (our enemies).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we be accompanied by the help of Agni, of Indra, of Soma, of (all)  the gods—  
 not suffering harm. May we surmount those who do battle.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -117,28 +117,28 @@ As the just-mentioned structural device expires in 4a, another takes its place. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we with Agni's, Indra's help, with Soma's, yea, of all the Gods,  
      Uninjured dwell together still, and conquer those who fight with us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May we unharmed stand under the protection of Agni, Indra, Soma, of the gods; may we overcome our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten der Hilfe der Götter Agni, Indra, Soma teilhaft sein, ohne Schaden zu erleiden. Wir wollen die Angreifer bestehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir mögen durch der Götter Huld des Agni, Indra, Soma Gunst, Gedeihen unbeschädiget, besiegen, die uns kämpfend nahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будем мы, невредимые, причастны  
 К поддержкам Агни,  

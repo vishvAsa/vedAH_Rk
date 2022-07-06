@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ हि꣡ ते अ꣡मन्महि  
 आ꣡ अ꣡न्ताद् आ꣡ पराका᳐꣡त्  
 अ꣡श्वे न꣡ चित्रे अरुषि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अश्वे॑ । न । चि॒त्रे॒ । अ॒रु॒षि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -94,41 +94,41 @@ genre M
 **अश्वे** व्यापनशीले **चित्रे** चायनीये **अरुषि** आरोचमाने उषःकालाभिमानिनि देवते तव स्वरूपम् **आन्तात्** समीपपर्यन्तम् **आ** **पराकात्** दूरपर्यन्तं **वयं** मनुष्याः **न** **अमन्महि** न बोद्धुं समर्थाः । हिशब्दः प्रसिद्धौ । देवतामहिम्नः पारावारयोरज्ञानमस्मासु प्रसिद्धमित्यर्थः ॥ अमन्महि। ‘मन ज्ञाने'। ‘बहुलं छन्दसि ' इति बहुलवचनात् श्यनो लुक् । 'लुङ्लङ्लृङ्क्ष्वडुदात्तः । ‘हि च ' इति निघातप्रतिषेधः । अश्वे। ‘ अशू व्याप्तौ । ‘अशिप्रुषि' इत्यादिना क्वन्प्रत्ययः । आमन्त्रिताद्युदात्तत्वम्॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Diffusive, many-tinted, brilliant (Uṣas), we know not (your limits), whether they be nigh or remote.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For we have brought you to mind from both near and far,  
 o you, dappled bright and ruddy like a mare.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All of pāda c is a vocative, though it is syntactically peculiar for the noun in the simile to be in the vocative: áśve ná, literally “like o mare.” It must have been attracted into the voc. by the voc. adjectives that are the points of comparison: citre aruṣi “bright and ruddy.” See also I.57.3 below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For we have had thee in our thoughts whether anear or far away,  
      Red-hued and like a dappled mare.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wir haben nah und fern deiner gedacht, wie du eine Stute Prangende, Rötliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn in der Ferne, in der Näh gedenken dein wir, Morgenroth, Die du wie eine Stute strahlst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь мы подумали о тебе  
 Изблизи (и) издалека,  

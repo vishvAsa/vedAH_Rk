@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ रो꣡दसी सुब꣡न्धवे  
 यह्वी꣡ ऋत꣡स्य मात꣡रा  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 मो꣡ षु꣡ ते किं꣡ चना꣡ममत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525)
 भर॑ताम् । अप॑ । यत् । रपः॑ । द्यौः । पृ॒थि॒वि॒ । क्ष॒मा । रपः॑ । मो इति॑ । सु । ते॒ । किम् । च॒न । आ॒म॒म॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], accusative, singular, neuter
@@ -129,37 +129,37 @@ popular;; epic anuṣṭubh (525)
 इदमादिभिस्तिसृभिः द्यावापृथिव्योः स्तुतिः। **रोदसी** द्यावापृथिव्यौ **सुबन्धवे** **शं** सुखं प्रयच्छताम् । कीदृश्यौ ते । **यह्वी** महत्यौ **ऋतस्य** यज्ञस्योदकस्य वा **मातरा** निर्मात्र्यौ । **यद्रपः** पापं कृच्छ्रमस्ति तत् **अप** **भरताम्** अपहरताम् अपनयताम् । हे **द्यौः** हे **पृथिवि** हे द्यावापृथिव्यौ **क्षमा** क्षमायां सत्याम् । यद्वा क्षमा पृथगप्युच्यते । क्षमाप्यपहरतु । एवमुक्त्वा सुबन्धुं बन्ध्वादयो ब्रुवते । हे सुबन्धो **ते** त्वां **मो** **षु** मैव सुष्ठु **किं** **चन** **रपः** कृच्छ्रम् **आममत्** हिनस्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the great heaven and earth, the parents of sacrifice, (grant) happiness to **Subandhu**; heaven andearth, remove all iniquity; let heaven (take away) iniquity; may no ill ever approach you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Let) the two world-halves (be) luck for the one of good lineage  
 [/Subandhu], the two youthfully exuberant mothers of truth.  
 – Let the two bear away whatever malady there is. O Heaven and Earth,  to ground (let) malady (go). Let nothing whatsoever plague (him).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May both Worlds bless Subandhu, young Mothers of everlasting Law.  
      May Heaven and Earth uproot and sweep iniquity and shame away: nor sin nor sorrow trouble thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heil sollen dem Subhandu beide Welten, die jüngsten Töchter und Mütter des Gesetzes bringen. Sie sollen das Gebreste fortnehmen. Himmel und Erde, zu Boden gehe das Gebreste! Dir soll ja nicht irgend etwas wehe tun!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heil mögen beide Welten, die rastlosen Mütter des Rechtes, dem lieben Freunde bringen; hinwegschaffen mögen sie beide jedes Gebrechen, nichts möge dir irgend schädlich sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благо две половины вселенной (пусть принесут) для Субандху,  
 Вечно юные матери закона!  

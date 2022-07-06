@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्रं꣡ कृणुध्वं ख꣡लु मॄळ꣡ता+ नो  
 मा꣡ नो घोरे꣡ण चरताभि꣡ धृष्णु꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्यो꣡ बभ्रूणा꣡म् प्र꣡सितौ नु꣡ अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 नि । वः॒ । नु । म॒न्युः । वि॒श॒ता॒म् । अरा॑तिः । अ॒न्यः । ब॒भ्रू॒णाम् । प्रऽसि॑तौ । नु । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, neuter
@@ -140,7 +140,7 @@ popular
 हे अक्षाः यूयं **मित्रं** **कृणुध्वम्** अस्मासु मैत्रीं कुरुत । **खलु** इति पूरणः । **नः** अस्मान् **मृळत** सुखयत च । **नः** अस्मान् **धृष्णु** धृष्णुना । तृतीयार्थे प्रथमा । **घोरेण** असह्येन **मा** **अभि** **चरत** मा गच्छत । किंच **वः** युष्माकं **मन्युः** क्रोधः **अरातिः** अस्माकं शत्रुः **नि** **विशताम्** अस्मच्छत्रुषु तिष्ठतु । **अन्यः** अस्माकं शत्रुः कश्चित् **बभ्रूणां** बभ्रुवर्णानां युष्माकं **प्रसितौ** प्रबन्धने **नु** क्षिप्रम् **अस्तु** भवतु ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,35 +151,35 @@ popular
 Let your anger light upon ourenemies: let your hostile wrath against us settle down, i.e., grow calm, cease
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [To all the dice:] Make alliance (with us) now; have pity on us. Do not  conjure against us boldly with your terrible (mind/eye).  
 Let your battle fury now settle down, your hostility. Let another now be  in the toils of the brown ones.  
 The next four hymns (35–38) form a group, though they are not all attributed to the  same author (see Oldenberg 1888: 229 n. 2, 235). The first two, to the All Gods, are  attributed to Luśa Dhānāka, while the other two were given fanciful poets’ names  derived from the contents of the hymn itself:  37 Abhitapas Saurya (“Scorching  Heat, son of the Sun”) and 38 Indra Muṣkavant (“Indra, possessing testicles”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make me your friend: show us some little mercy. Do not forcibly bewitch us with magic power.  
     Let your wrath [and] emnity now come to rest. Let the brown [dice] now snare some other captive.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Make friends with us, we pray, to us be gracious; Do not bewitch us forcibly with magic; Let now your enmity, your anger slumber: Let others be in brownies' toils entangled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schließet also Freundschaft und erbarmet euch! Tut es uns nicht mehr dreist mit eurem schrecklichen Zauber an! Euer Groll und eure Ungunst soll sich jetzt legen; ein anderer soll jetzt in den Banden der Braunen sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schliesst denn Frieden und erbarmt euch meiner, ergreift mich nicht mit eurem grausen Zauber; Es weiche eure Wuth nun, eure Feindschaft, der Würfel Macht erliege nun ein andrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Заключите же дружбу! Помилуйте нас!  
 Не привораживайте нас дерзко ужасным (колдовством)!  

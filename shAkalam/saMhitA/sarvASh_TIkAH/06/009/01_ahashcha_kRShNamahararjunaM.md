@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡हश् च कृष्ण꣡म् अ꣡हर् अ꣡र्जुनं च  
 वि꣡ वर्तेते र꣡जसी वेदिया꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वातिरज् ज्यो꣡तिषाग्नि꣡स् त꣡मांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 वै॒श्वा॒न॒रः । जाय॑मानः । न । राजा॑ । अव॑ । अ॒ति॒र॒त् । ज्योति॑षा । अ॒ग्निः । तमां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaś* ← *ahar*
 - \[noun\], nominative, singular, neuter
@@ -121,20 +121,20 @@ genre D
 आहरति पुरुषोऽस्मिन् कर्माणीति **अहः**। **कृष्ण** कृष्णवर्णम् । एतत्सामानाधिकरण्यादहःशब्दो रात्रिवचनः । तमसा कृष्णवर्णा रात्रिः **च** **अर्जुनं** **च** सौरेण तेजसा शुक्लवर्णम् **अहः** दिवसश्च **रजसी** स्वस्वभासा सर्वं जगद्रञ्जयन्तौ **वेद्याभिः** वेदितव्याभिरनुकूलतया ज्ञातव्याभिः स्वप्रवृत्तिभिः **वि** **वर्तेते** विविधं पर्यावर्तते । यद्वा । रजसी द्यावापृथिव्यौ । उपलक्षणमेतत् । लोकत्रयं प्रत्यावर्तेते । एतच्च वैश्वानराग्नेराज्ञया इति शेषः । स हि देवतात्वेनात्र प्रतिपाद्यः । स च **वैश्वानरः** **अग्निः** **जायमानो** **न** **राजा** प्रादुर्भवन् प्रवर्धमानः राजेव **ज्योतिषा** तेजसा **तमांसि** **अवातिरत्** अवतिरतिर्वधकर्मा । अवतिरति विनाशयति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The dark day and the light day revolve alternate, affecting (the world) by their recognizable (properties); **Agni** **vaiśvānara**, manifested like a prince, dispels darkness by his lustre.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The black day and the silvery day roll out through the two dusky realms  according to their knowing ways.  
 Agni Vaiśvānara, (even) while being born, like a king suppressed the  dark shades with his light.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich has two nom./acc. dual expressions (áhaś ca kṛṣṇáṃ áhar árjunaṃ ca and rájasī) and a dual verb ví vartete. The question is which of the two dual expressions is the subject of this verb, or is the subject both or neither? The standard interpr. (Oldenberg, Geldner, Renou, Doniger) is that both expressions serve as subject and that rájasī, usually an expression referring to space, here qualifies the two day(- halves), light and dark. However, flg. Thieme, I instead take rájasī as an accusative expressing extent of space, preferring to keep the temporal and spatial concepts separate. I do have to admit that an image of rolling out the dual spaces finds support in the preceding hymn, VI.8.3c ví cármaṇīva dhiṣáṇe avartayat “He rolled out the two Holy Places [=world-halves] like skins,” and even more so in VII.80.1 vivartáyantīm rájasī sámante “(Dawn,) unrolling the two adjoining realms.” The object of the transitive ví vartáya- in those passages should be the subject of the intrans. simplex verb. Nonetheless, see nearby VI.7.7 ví yó rájāṃsi ámimīta “who measured out the dusky realms,” with rájas- as object, and the frequent use of ví to refer to movement through space. As I see it, the image here is of the day and night proceeding through the cosmos, spreading first light and then darkness. Since ví can also be used for alternating movement, that notion is also probably present: “The black day and the silvery day roll out alternately through the two dusky realms,” referring to the regular alternation of night and day.
 
@@ -152,23 +152,23 @@ Note the echo of the last word of vs. 1, támāṃsi, in the last word of the 1s
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ONE half of day is dark, and bright the other: both atmospheres move on by sage devices.  
      Agni Vaisvanara, when born as Sovran, hath with his lustre overcome the darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es drehen sich der schwarze Tag und der helle Tag, die lichte und die dunkle Seite mit Vorbedacht. Agni Vaisvanara überwand, eben geboren, wie ein König mit seinem Lichte die Finsternis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rollen schwarz und weiss die Tageshälften, von selbst der dunkle und der helle Luftraum, Der Männerhort verjagte kaum geboren das Dunkel durch sein Licht, ein König, Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Черный день и светлый день –  
 Вращаются два пространства по (своему) разумению.  

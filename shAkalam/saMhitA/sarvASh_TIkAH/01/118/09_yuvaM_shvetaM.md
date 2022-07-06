@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ श्वेत꣡म् पेद꣡व इ꣡न्द्रजूतम्  
 अहिह꣡नम् अश्विनादत्तम् अ꣡श्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सहस्रसां꣡ वृ꣡षणं वीडु꣡अङ्गम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जो॒हूत्र॑म् । अ॒र्यः । अ॒भिऽभू॑तिम् । उ॒ग्रम् । स॒ह॒स्र॒ऽसाम् । वृष॑णम् । वी॒ळुऽअ॑ङ्गम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -122,14 +122,14 @@ genre M
 अश्विना हे अश्विनौ **पेदवे** पेदुनाम्ने राज्ञे युवं युवां श्वेतवर्ण कंचित् अश्वम् अदत्तं प्रयच्छतम् । कीदृशम् । **इन्द्रजूतम्** इन्द्रेण युवाभ्यां गमितं दत्तमित्यर्थः । **अहिहनम्** शत्रूणां हन्तारं 'जोहूत्रम् अतिशयेन संग्रामेष्वाह्वातारम् **अर्यः** अरेः शत्रोः **अभिभूतिम्** अभिभावुकम् **उग्रम्** उद्गूर्णम् वीर्यवन्तमित्यर्थः। **सहस्रसां** सहस्रसंख्याकस्य धनस्य संभक्तारं दातारं वा **वृषणं** सेक्तारं युवानमित्यर्थः। **वीडङ्गं** दृढाङ्गम् ॥ इन्द्रजूतम् । जु इति सौत्रो धातुर्गत्यर्थः । अस्मादन्तर्भावितण्यर्थात् कर्मणि निष्ठा । ‘तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । जोहूत्रम् । ह्वयतेर्यङ्लुगन्तात् औणादिकः त्रप्प्रत्ययः। प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । अर्यः । अरिशब्दात् षष्ठ्येकवचने ‘ जसादिषु च्छन्दसि वावचनम् ' इति ‘घेर्ङिति' इति गुणस्य विकल्पितत्वादभावे यणादेशः । ‘उदात्तयण:०' इति विभक्तेरुदात्तस्वम् । अभिभूतिम् । अभिभूयतेऽनेनेत्यभिभूतिः । करणे क्तिन् । ‘तादौ च ' इति गतेः प्रकृतिस्वरत्वम् । सहस्रसाम् । सनोतेः सनतेर्वा जनसनखन ' इति विट् । विड्वनोरनुनासिकस्यात्' इति आत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You gave to **Pedu**, **Aśvins**, the white and foe-trampling steed which you had received from **Indra**, loud-neighing (in battle), defying enemies, high-spirited, the acquirer of a thousand tresures, vigorous, and firm in body.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You gave to Pedu the serpent-smashing white horse, sped by Indra, o  Aśvins—  
 the overwhelming, powerful (horse), repeatedly called upon by  
@@ -137,23 +137,23 @@ the stranger, the strong-limbed bull that wins a thousand
 (cattle).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A white horse, Asvins, ye bestowed on Pedu, a serpent-slaying steed sent down by Indra,  
      Loud-neighing, conquering the foe, high-mettled, firm-limbed and vigorous, winning thousand treasures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Asvin habt dem Pedu das von Indra befeuerte schlangentötende weiße Roß geschenkt, das von dem hohen Herrn anzurufen ist, das überlegene, gewaltige, tausendgewinnende, bullengleiche mit festen Gliedern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Ritter gabt das weisse Ross dem Pedu das Schlangen tödtet, angespornt von Indra, Das wiehernde, den mächt'gen Feindbezwinger, den gliederstarken Hengst, den beutereichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы подарили Педу белого коня,  
 Погоняемого Индрой, убивающего змей, о Ашвины,  

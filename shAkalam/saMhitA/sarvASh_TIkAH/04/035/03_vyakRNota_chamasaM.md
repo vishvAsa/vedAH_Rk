@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ अकृणोत चमसं꣡ चतुर्धा꣡  
 स꣡खे वि꣡ शिक्ष इ꣡ति अब्रवीत  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गणं꣡ देवा꣡नाम् ऋभवः सुहस्ताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अथ॑ । ऐ॒त॒ । वा॒जाः॒ । अ॒मृत॑स्य । पन्था॑म् । ग॒णम् । दे॒वाना॑म् । ऋ॒भ॒वः॒ । सु॒ऽह॒स्ताः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vy* ← *vi*
 - \[adverb\]
@@ -129,36 +129,36 @@ genre M
 हे ऋभवो यूयं **चमसं** **चतुर्धा** **व्यकृणोत** व्यकुरुत । कृत्वा च हे **सखे** हे सखिभूताग्ने **वि** **शिक्ष** अनुगृहाण सोमपानम् **इत्यब्रवीत** अवदत यूयम् । **अथ** सोऽग्निर्युष्मानवादीत् खलु । किमिति । हे **वाजाः** **ऋभवः** **सुहस्ताः** कुशलहस्ता यूयम् **अमृतस्य** **अमरणधर्मकस्य** स्वर्गस्य **पन्थां**  पन्थानम् **ऐत** गच्छत । किं तदमृतमिति । **देवानाम्** इन्द्रादीनां **गणं** संघातमैत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have made the ladle fourfold, and have said (to **Agni**), assent (to the division); therefore have you gone, **Vājas**, the path of the immortals; dexterous-handed **Ṛbhus** (you have joined) the company of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You divided the cup fourfold; you said, “O companion, work to cut it  apart!”  
 Then, o Vājas, you went along the path of the immortality to the throng  of gods, o R̥bhus of skilled hands.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye made fourfold the chalice that wag single: ye spake these words and said, O Friend, assist us;  
      Then, Vajas! gained the path of life eternal, deft-handed Rbhus, to the Gods' assembly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr habt den Becher vervierfacht. "Freund, probiere", so sprachet ihr. Darauf ginget ihr Vaja´s den Weg der Unsterblichkeit unter das Gefolge der Götter, ihr handfertigen Ribhu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vier Becher machtet ihr aus einer Schale, »sei hülfreich uns, Genosse«, also spracht ihr, Dann gingt ihr Vadscha's auf den Pfad des Ew'gen zur Götterschar, ihr kunstgeübten Ribhu's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы сделали из одного кубка четыре.  
 Друг, попробуй! – сказали вы.  

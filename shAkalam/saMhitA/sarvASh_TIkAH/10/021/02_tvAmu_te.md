@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् उ ते꣡ सुआभु꣡वः  
 शुम्भ꣡न्ति अ꣡श्वराधसः  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 वेति॑ । त्वाम् । उ॒प॒ऽसेच॑नी । वि । वः॒ । मदे॑ । ऋजी॑तिः । अ॒ग्ने॒ । आऽहु॑तिः । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -121,7 +121,7 @@ genre M;; repeated line
 **स्वाभुवः** स्वप्रकाशेन दीप्यमानाः **अश्वराधसः** व्याप्तधनाः **ते** यजमानाः हे अग्ने **त्वामु** त्वामेव **शुम्भन्ति** शोभयन्ति । यज्ञे हविर्भिर्दीपयन्तीत्यर्थः । किंच **उपसेचनी** तवोपरि क्षरणशीला **ऋजीतिः** ऋजुगामिनी हूयमाना **आहुतिः** हे **अग्ने** **त्वां** **वेति** गच्छति । किमर्थम् । **वः** तव **मदे** मदनिमित्ते । तृप्त्यर्थमित्यर्थः । किंच त्वमपि **विवक्षसे** महान् भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ genre M;; repeated line
 The oblation poured out over you: upasecanī= ladle or spoon; tavopari kṣaraṇaśīla
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They beautify you—those close at hand who receive bounty in horses  [=priests].  
 The pouring(-ladle) pursues you, o Agni, as does the oblation whose  course is straight.  
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The wealthy ones adorn thee, they who bring us horses as their gift:  
      The sprinkling ladle, Agni,-at your glad carouse -and glowing offering taste thee. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich verschönen diese trefflichen Mitwirker, die Rosseschenker; nach dir verlangt der Gießlöffel, die vorausschauende Opferspende, o Agni - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich schmücken Rosse rüstend hier, die gern dir ihre Dienste weihn; Der Butterlöffel, Agni, kommt zu dir, der heisse Opferguss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя украшают эти прекрасные  
 Помощники, дарящие коней.  

@@ -6,7 +6,7 @@ ChandaH = "विष्टारबृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ हि꣡ आ꣡स्तम् महो꣡ र꣡न्  
 युवं꣡ वा य꣡न् निर꣡ततंसतम्  
@@ -14,7 +14,7 @@ ChandaH = "विष्टारबृहती"
 पातं꣡ नो वृ꣡काद् अघायोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ता । नः॒ । व॒सू॒ इति॑ । सु॒ऽगो॒पा । स्या॒त॒म् । पा॒तम् । नः॒ । वृका॑त् । अ॒घ॒ऽयोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -119,36 +119,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे अश्विनौ **महः** महतो धनस्य **रन्** रातारौ दातारौ **युवं** युवां कंचन **आस्तम्** । - - - **निरततंसतं** धनानि निरगमयतम् । रक्षकौ विनाशकावपि युवामेवेत्यर्थः । हे **वसू** वासयितारावश्विनौ **ता** तादृशौ युवां **नः** अस्माकं **सुगोपा** सुष्ठु गोपायितारौ रक्षितारौ **स्यातं** भवतम् । अपि च **नः** अस्मान् **अघायोः** अघं पापफलमस्माकमिच्छतः **वृकात्** स्तेनात् **पातं** रक्षतम् ॥ महः । महतः । छान्दसः अच्छब्दलोपः । रन् । दन्नितिवत् प्रक्रियोन्नेया । व्यत्ययेनैकवचनम् । निरततंसतम् । तसि अलंकारे' । अस्मात् ण्यन्तात् लुङि ‘णिश्रिद्रुस्रुभ्यः' इति च्लेः चङ् द्विर्वचनादि च । गुरुसंज्ञया लघुसंज्ञाया बाधितत्वात् सन्वद्भावाभावः । सुगोपा । ‘सुपां सुलुक्' इति विभक्तेर्लुक् । अघायोः । अघं परेषामिच्छति । 'छन्दसि परेच्छायाम्' इति क्यच् । 'अश्वाघस्यात्' इति आत्वम् । ‘क्याच्छन्दसि' इति उप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have been givers of great riches; you have again caused them to disappear; do you, who are donors of dwellings, become our preservers; protect us from the felonous robber.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you two were in great joy surely (then) when you had jerked  it away—  
 o good ones, you should be fine herdsmen for us!—protect us from the  ill-wishing wolf.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For ye were ever nigh to deal forth ample wealth, to give the wealth that ye had gathered up.  
      As such, ye Vasus, guard us well, and keep us safely from the wicked wolf.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr verhalfet zu großer Freude, wenn ihr etwas herausgeschlagen habt. Möget ihr beiden Götter uns gute Hüter sein, schützet uns vor dem böswilligen Wolf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ihr wart zur Hand, wenn es galt herrliches zu geniessen (?), ihr auch wenn ihr Güter darreichtet (?); seid ihr, o Gute, uns treffliche Hüter, beschützt uns vor dem boshaften Wolfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы были (повелителями) великой радости,  
 Когда вы что-либо вытряхивали (из колесницы).  

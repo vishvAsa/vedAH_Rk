@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब꣡ळ् इत्था꣡ देव निष्कृत꣡म्  
 आ꣡दित्या यजत꣡म् बृह꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 व꣡र्षिष्ठं क्षत्र꣡म् आशथे°
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वरु॑ण । मित्र॑ । अर्य॑मन् । वर्षि॑ष्ठम् । क्ष॒त्रम् । आ॒शा॒थे॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *baﾱ* ← *baṭ*
 - \[adverb\]
@@ -95,36 +95,36 @@ genre M
 हे **देवा** द्योतमानौ हे **आदित्या** अदितेः पुत्रौ हे **वरुण** हे **अर्यमन्** अरीणां नियमितः **मित्र** देव युवां **बट्** सत्यं **निष्कृतम्'** अबाध्यम् **इत्था** इत्थम् इदानीं वर्तमानप्रकारेण **यजतं** यष्टव्यं **बृहत्** अतिप्रवृद्धं **वर्षिष्ठं** प्रवृद्धतमं **क्षत्रं** बलम् **आशाथे** अश्नुवाथे । यद्वा अर्यमा पृथगेव निर्देष्टव्यः । द्विवचनं बहुवचनीकर्तव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine sons of **Aditi**, **Mitra**, **Varuṇa**, **Aryaman**, verily you are possessed, at the present time, of perfect, adorable, vast, exceeding strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yes indeed! It is just so, o god: the appointed place is worthy of the  sacrifice and lofty, o Ādityas,  
 o Varuṇa and Mitra, o Aryaman. You two have achieved the highest  lordship.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YE Gods, Adityas, Varuna, Aryaman, Mitra, verily  
      Have here obtained supremest sway, high, holy, set apart for you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrlich, so ist´s, ihr beiden Götter, ihr Söhne der Aditi, ihr habt die verehrungswürdige, hohe, euch bestimmte Stellung, ihr habt die höchste Herrschaft erreicht, Varuna, Mitra, Aryaman.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Götter beide habt erlangt fürwahr, Aditja's, hehres Reich, Geschmücktes, hohes, herrlichstes, Varuna, Mitra, Arjaman.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

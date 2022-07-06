@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्र꣡त्वः समह दीन꣡ता  
 प्रतीपं꣡ जगमा शुचे  
 मॄळा꣡+ सुक्षत्र मॄळ꣡य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मृ॒ळ । सु॒ऽक्ष॒त्र॒ । मृ॒ळय॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratvaḥ* ← *kratu*
 - \[noun\], genitive, singular, masculine
@@ -87,36 +87,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **समह** सधन **शुचे** स्वभावतो निर्मल वरुण **दीनता** दीनतयाशक्ततया **क्रत्वः** कर्मणः कर्तव्यत्वेन विहितस्य श्रौतस्मार्तादिलक्षणस्य **प्रतीपं** प्रतिकूलमननुष्ठानं **जगम** प्राप्तवानस्मि । अत एव त्वया बद्धः । तादृशं मां **मृळ** सुखय । अन्यद्गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Opulent and pure (**Varuṇa**), if through infirmity I have done what is contrary (to the law), yet grant mehappiness, possessor of wealth, grant me happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By my weakness of will I have gone against the current in every way, o  bright one.  
 – Be merciful, o you whose dominion is great. Have mercy!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Bright and Powerful God, through want of strength I erred and went astray  
      Have mercy, spare me, Mighty Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus zu geringem Bedacht hab ich jedenfalls eine Widersetzlichkeit begangen, du Reiner-verzeih, guter Herrscher, gib Verzeihung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hab' ich einmal aus Unverstand vergangen mich, o heiliger, Sei gnädig, Herrscher, und vergib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От слабости воли, невзначай,  
 Пошел я против течения, о светлый.  

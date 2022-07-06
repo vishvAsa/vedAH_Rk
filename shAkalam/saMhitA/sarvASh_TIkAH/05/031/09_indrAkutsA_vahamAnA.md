@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राकुत्सा व꣡हमाना र꣡थेन  
 आ꣡ वाम् अ꣡त्या अ꣡पि क꣡र्णे वहन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मघो꣡नो हृदो꣡ वरथस् त꣡मांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 निः । सी॒म् । अ॒त्ऽभ्यः । धम॑थः । निः । स॒धऽस्था॑त् । म॒घोनः॑ । हृ॒दः । व॒र॒थः॒ । तमां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrākutsā* ← *indrākutsāḥ* ← *indrākutsa*
 - \[noun\], vocative, plural, masculine
@@ -120,7 +120,7 @@ genre M
 हे 'इन्द्राकुत्सा इन्द्राकुत्सौ **रथेन** **वहमाना** वहमानौ उह्यमानौ **वां** युवाम् **अत्याः** अश्वाः **कर्णे** **अपि** । स्तोत्राणि कृणोति करोतीति कर्णः स्तोता यजमानो वा । तत्समीपेऽपीति यावत् । **आ** **वहन्तु** आ समन्तात् वाहका भवन्तु । युवामपि **अद्भ्यः** अप्सु प्रविष्टं **सीम्** एनं शुष्णासुरं **निः** **धमथः** अबाधेथाम् । सीमिति शुष्णासुरो बुद्धिस्थः परामृश्यते । **सधस्थात्** स्वकीयात् स्थानात् **निः** अबाधेथाम् । **मघोनः** मघवतो हविष्मतो यजमानस्य **हृदः** हृदयात् **तमांसि** अज्ञानरूपाणि पापानि **वरथः** निवारयथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,34 +131,34 @@ genre M
 To the worshipper: karṇe vahanta: **karṇa** = stotā, praiser, stotrāṇi **karoti**, or **yajamāna**, the instrumental tutor or maker of the rite
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Uśanā:] “O Indra and Kutsa, let the steeds convey you two, traveling  by chariot, right here close to our face [/lit. ear].  
 You two blow him [=Śuṣṇa?] out of the water, out of his seat; (by doing  this) you two will keep the dark shadows away from the heart of the  bounteous one.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the question káḥ … varāte “who can obstruct …?” covertly introduces Vṛtra, the defeated enemy who remained unnamed in the first 8 vss., by way of the verb built to the root √vṛ ‘obstruct’ that furnishes Vṛtra’s transparent name. The implicit answer is “no one, since Obstacle himself could not.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let the steeds bring you both, Indra and Kutsa, borne on the chariot within hearing-distance.  
      Ye blew him from the waters, from his dwelling, and chased the darkness from the noble's spirit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Kutsa! Wenn ihr auf dem Wagen fahret, so sollen eure Pferde dicht an das Ohr heranfahren. Ihr blaset ihn von den Gewässern, von seinem Standort weg. Aus dem Herzen des reichen Gönners verbannet ihr die Finsternis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, Kutsa, fahrend auf dem Wagen, euch mögen ziehn die Rosse nah zur Stelle, Die Dunkel blast von Wassern weg, vom Sitze und wehrt sie ab vom Herzen auch des Fürsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра и Кутса, когда вы едете на колеснице,  
 Пусть кони провезут вас совсем рядом!  

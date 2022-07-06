@@ -18,7 +18,7 @@ title = "+184"
 तत्र ‘ता वाम्' इतीदं प्रथममण्डलस्य चतुर्विंशेऽनुवाके पञ्चमं सूक्तम् । पूर्वसूक्ते ' षट् ' इत्युक्तत्वात् ‘सूक्तसंख्यानुवर्तते ' इति परिभाषितत्वात् षडृचम् । ‘ऋषिश्चान्यस्मात् ' इति परिभाषया अगस्त्यम् । तथा ' आश्विनं वै' इत्युक्तत्वात् तुह्यादिपरिभाषया इदमप्याश्विनम् । अनादेशपरिभाषया त्रैष्टुभम् । ‘ता वाम्' इत्यनुक्रान्तम् ।' युवो रजांसि ' इत्यादीनां पञ्च सूक्तानां तृतीयवर्जितानां प्रातरनुवाकाश्विनशस्त्रयोर्विनियोग उक्तः । तत्रेदं पञ्चमम् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 184  
 Aśvins  
@@ -28,7 +28,7 @@ This last hymn in Agastya’s series to the Aśvins is a symmetrically shaped fi
 The middle verse (3) makes a brief detour into mythology: the participation of  the Aśvins in the bridal journey of Sūryā, Daughter of the Sun (5ab). The verse  is addressed, in the first instance, to Pūṣan, who also participates in this episode  elsewhere. Several obscure images are found in this verse—the simile comparing  the Aśvins to arrow-makers (3a) and the journey of their lead horses (3cd) with the  well-nigh-impenetrable simile involving “vast Varuṇa,” which may refer to the sea  and reflect the generally later association of Varuṇa with waters. These difficulties  are, of course, appropriate to a structurally isolated middle verse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
 </details>

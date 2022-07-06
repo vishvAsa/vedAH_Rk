@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नः सोम सं꣡ वीविजो  
 मा꣡ वि꣡ बीभिषथा राजन्  
 मा꣡ नो हा꣡र्दि त्विषा꣡ वधीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 मा । नः॒ । हार्दि॑ । त्वि॒षा । व॒धीः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -94,36 +94,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **सोम** पीतस्त्वं **नः** अस्मान् **मा** **सं** **वीविजः** । चलिताङ्गान् मा कार्षीः । हे **राजन्** सोम अस्मान् **मा** **वि** **बीभिषथाः** भीतान् मा कुरु । **नः** अस्माकं हार्दि हृदयं **त्विषा** दीप्त्या **मा** **वधीः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Soma**, cause us not to tremble, frighten us not, O king; smite not our hearts with your brightness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t agitate us, o Soma; don’t frighten us, o king.  
 Don’t smite our heart with turmoil.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, terrify us not; strike us not with alarm, O King:  
      Wound not our heart with dazzling flame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach uns nicht aufgeregt, o Soma, jag uns keinen Schrecken ein, o König; schlag nicht unser Herz durch heftige Wirkung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Setz uns nicht in Schrecken, Soma, lass uns fürchten nicht, o König, Schlag nicht unser Herz im Zorne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не приведи нас, Сома, в смятение!  
 Не напугай нас, о царь!  

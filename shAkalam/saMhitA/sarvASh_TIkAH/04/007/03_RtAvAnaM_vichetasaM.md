@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋता꣡वानं वि꣡चेतसम्  
 प꣡श्यन्तो द्या꣡म् इव स्तृ꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 हस्कर्ता꣡रं द꣡मे-दमे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑षाम् । अ॒ध्व॒राणा॑म् । ह॒स्क॒र्तार॑म् । दमे॑ऽदमे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtāvānaṃ* ← *ṛtāvānam* ← *ṛtāvan*
 - \[noun\], accusative, singular, masculine
@@ -86,20 +86,20 @@ genre M
 **ऋतावानम्** अमायिनं **विचेतसं** विशिष्टज्ञानं **स्तृभिः** नक्षत्रैः परिवृतं **द्यामिव** विस्फुलिङ्गैः समेतं **विश्वेषां** सर्वेषाम् **अध्वराणां** यज्ञानां **हस्कर्तारं** प्रभासकं वृद्धेः कर्तारं वा अग्निं **पश्यन्तः** ऋत्विगादयः **दमेदमे** सर्वस्मिन् यज्ञगृहे । जगृभ्रिरे इति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Contemplating you in every dwelling, truthful intelligent, (brilliant with sparks) like the sky with stars, the perfecter of all sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The mortals) looking at (you,) truthful and discriminating (/widely  observable) like heaven with its stars,  
 (you) who create laughter [=fire’s crackling] for all ceremonies in  every house,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. continues the syntactic frame of vs. 2, with the nom. pl. subj.
 
@@ -110,28 +110,28 @@ vícetasam in pāda a is a pun, playing on the standard ambiguity of the root �
 The “laughter” of Agni is the merry crackling of the fire.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seeing thee faithful to the Law, most sapient, like the starry heaven,  
      Illumining with cheerful ray each solemn rite in every house.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Seeing the righteous, wise one, like the heaven with the stars, who produces joy at all sacrifices, from house to house—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Rechttuenden, Umsichtigen erkennend wie den Himmel an den Sternen, den Erheller aller Opfer in jedem Hause,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da sie den reinen glänzen sahn dem sterngeschmückten Himmel gleich, Ihn, der die Gottesdienste all' in jedem Hause schöner macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспринимая (этого) поддерживающего закон, прозорливца  
 Как небо по звездам,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡रा वा शं꣡सम् पूष꣡णम् अ꣡गोहियम्  
 अग्निं꣡ देवे꣡द्धम् अभि꣡ अर्चसे गिरा꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्रितं꣡ वा꣡तम् उष꣡सम् अक्तु꣡म् अश्वि꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सूर्या॒मासा॑ । च॒न्द्रम॑सा । य॒मम् । दि॒वि । त्रि॒तम् । वात॑म् । उ॒षस॑म् । अ॒क्तुम् । अ॒श्विना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *narā* ← *nara*
 - \[noun\], accusative, dual, masculine
@@ -126,7 +126,7 @@ genre M
 ऋषिः स्वात्मानं सम्बोध्याह। नराशंसम्। उभे वनस्पत्यादिषु युगपदित्युभयपदप्रकृतिस्वरत्वम्। संहितायां विप्रकर्षश्छान्दसः। नरैः शंसनीयमेतन्नामानं पूषणं स्तोतॄणाम् धनदानेन पॊशकमेतन्नामानं तथागोह्यमगूहितमन्यैर्गन्तुमशक्यं देवेद्धं वामदेवादिभिरृषिभिर्दीपितमग्निं च गिरा स्तुत्याभ्यर्चसे। अभिष्टुहि। तथा सुर्यमासा चन्द्रमसा। मा इति चन्द्रमसो विशेशनम् । माति पक्षमिति माश्चन्द्रमाः। तौ सूर्याचन्द्रमसौ दिवि द्युलोके स्थितं यमम् च त्रितं त्रिषुलोकेषु ततं स्वमहिम्ना विस्तृतं त्रिस्थानं वा तमिन्द्रं वातं वायुमुशसमुषः कालमक्तुम् रात्रिमश्विनाश्विनौ चैतान्देवांस्तत्तल्लिङ्गैः स्तोत्रैरभिष्टुहि॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,30 +139,30 @@ genre M
 **Vāta** =**vāyu**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Shall it be) Narāśaṃsa, Pūṣan, Agohya (the Unconcealable), or Agni  kindled by the gods that I address with a hymn,  
 or the Sun and Moon, (the new and) bright [=full] Moon, Yama in  
 heaven, Trita, Wind, Dawn, Night, the Aśvins?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Narasamsa and to Pusan I sing forth, unconcealable Agni kindied by the Gods.  
      To Sun and Moon, two Moons, to Yama in the heaven, to Trita, Vata, Dawn, Night, and the Atvins Twain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soll ich vielleicht den Narasamsa, den Pusan, den Agohya, den von den Göttern entflammten Agni mit meiner Rede preisen, Sonne und Mond, die beiden Monde, Yama im Himmel, den Trita, Vata, die Usas, die Nacht, die Asvin?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Naraçansa, Puschan, den kein Dunkel birgt, den gottenflammten Agni preis' ich mit dem Lied, Jama am Himmel, Sonn' und Mond, das Lichterpaar, die Ritter, Trita, Nacht und Morgen und den Wind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

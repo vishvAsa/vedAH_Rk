@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ ते यो꣡निर् ऋत्वि꣡यो  
 य꣡तो जातो꣡ अ꣡रोचथाः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡था नो वर्धया गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (424)
 तम् । जा॒नन् । अ॒ग्ने॒ । आ । सी॒द॒ । अथ॑ । नः॒ । व॒र्ध॒य॒ । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -121,7 +121,7 @@ genre D;; epic anuṣṭubh (424)
 हे **अग्ने** **ऋत्वियः** वसन्ताद्यृतौ भवः **अयम्** अङ्गुल्या निर्दिश्यमानः पलाशाश्वत्थादिमयः काष्ठविशेषोऽरणिः **ते** तव **योनिः** उत्पत्तिस्थानं **यतः** अरणेः **जातः** त्वम् **अरोचथाः** अशोभथाः । **जानन** त्वं **तम्** अरणिरूपं काष्ठविशेषम् **आ** **सीद** । तस्यामरण्यामारोपितः सन् नैरन्तयेंण तिष्ठ । **अथ** अनन्तरं **नः** अस्माकं **गिरः** स्तुतिलक्षणा वाचः **वर्धय** । यद्वा गीःशब्देन तद्वन्तो लक्ष्यन्ते । तथा स्तोतॄनस्मान् वर्धय । पशुपुत्रादिभिः समृद्धान् कुरु ॥ योनिः ।  ‘ यु मिश्रणे ' ।  ‘ वहिश्रि ' इत्यादिना निप्रत्ययः ।  ‘ नित ' इत्युक्तत्वादाद्युदात्तः । ऋत्वियः । 'छन्दसि घस्' ( पा. सू. ५, १. १०६ ) इति ऋतुशब्दात् प्राप्तार्थे घस्प्रत्ययः । घस्य इयादेशः ।  ‘ सिति  इति पदसंज्ञायाम् ' ओर्गुणः' ( पा. सू. ६. ४. १४६ ) इति भसंज्ञाधीनो गुणो न भवति । प्रत्ययस्वरः । अरोचथाः । रुच दीप्तौ ' इत्यस्य लङि रूपम् । यद्वृत्तयोगादनिघातः । सीद । सदेर्लोटि • पाघ्रा° ' इत्यादिना सीदादेशः । निघातः । अथा। ' निपातस्य च ' इति सांहितिको दीर्घः । वर्धय । ' वृधु वर्धने ' । हेतुमति णिच् । निघातः ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,33 +132,33 @@ genre D;; epic anuṣṭubh (424)
 **Yajurveda** 3.14; your plural ce: the allusion is to the **araṇi**, the stick of **vetasa** of **aśvattha**, or other trees; alternatively, may refer to **gārhapatya** or household fire; vardhayā **giraḥ** = give us increase of riches
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is your womb at its season, from which you shone at birth. Recognizing it, Agni, take your seat here, and then make our songs  strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is thine ordered place of birth whence sprung to life thou shonest forth.  
      Knowing this, Agni, sit thee down, and prosper thou the songs we sing.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 This is thy birth-place in due time whence born thou shonest forth; knowing it, O Agni, sit down on it, and make our prayers prosper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist dein zeitgemäßer Schoß, aus dem geboren du erstrahltest. Ihn kennend setz dich nieder, Agni, und fördere unsere Lobrede!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist dein angemessner Schooss, aue dem geboren du erstrahltest, ihn kennend, Agni, setze dich hin und segne unsre Lieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот твое своевременное лоно,  
 Откуда родившись, ты засверкал.  

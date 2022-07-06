@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नियु꣡त्वन्तो ग्रामजि꣡तो य꣡था न꣡रो  
 अर्यम꣡णो न꣡ मरु꣡तः कबन्धि꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡ उन्दन्ति पृथिवी꣡म् म꣡ध्वो अ꣡न्धसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पिन्व॑न्ति । उत्स॑म् । यत् । इ॒नासः॑ । अस्व॑रन् । वि । उ॒न्द॒न्ति॒ । पृ॒थि॒वीम् । मध्वः॑ । अन्ध॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *niyutvanto* ← *niyutvantaḥ* ← *niyutvat*
 - \[noun\], nominative, plural, masculine
@@ -115,21 +115,21 @@ genre M
 **नियुत्वन्तः** नियुत्संज्ञकैरश्वैस्तद्वन्तो मरुतः **ग्रामजितः** संघात्मकस्य पदार्थस्य विश्लेषयितारः। **नरः** नराकारा नेतारो वा । मरुतो नियुत्वन्तः । अयं शब्दोऽत्राश्वसामान्ये वर्तते । नितरां यवनवन्तोऽश्ववन्तो ग्रामजितो ग्रामस्य जेतारो नर इव मनुष्या इव तथा भवन्ति । **अर्यमणो** **न** अर्यमप्रभृतय आदित्या इव । दीप्ता इति शेषः । तादृशाः **मरुतः** **कवन्धिनः** उदकवन्तो भवन्ति । **यत्** यदा **इनासः** ईश्वराः **उत्सं** कूपादिनिम्नप्रदेशं मेघ वा **पिन्वन्ति** प्याययन्त्युदकेन । यदा **अस्वरन्** शब्दयन्ति यदा **व्युन्दन्ति** **पृथिवीं** **मध्वः** मधुरस्योदकस्य **अन्धसा** सारेण तदैवं भवति । यद्वा । यदास्वरन् तदा पिन्वन्त्युत्समिनासः तदान्धसः पृथिवीं व्युन्दन्तीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lords of the **Niyut** steeds, overcomers of multitudes leaders (of rites), radiant as the **Ādityas**, are the dispensers of water; when sovereign lords, they fill the clouds, and, loud sounding, moisten the earth with sweet (watery) sustenance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts have teams (of horses) like men who conquer in  roving bands; they have (water) skins [=clouds] like hospitable  
 (householders):  
 they swell the wellspring. When the strong ones have sounded, they  inundate the earth with the stalk of honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the cmpd. grāmajít- the 1st member could have either an acc. or an instr.
 
@@ -138,23 +138,23 @@ relationship with the root noun. Both would be possible: ‘conquering roving ba
 My interpr. of b follows Thieme (M+A 81), esp. of aryamáṇaḥ, which he takes as “hospitable ones (hospitable householders who refresh the stranger).” Others take it as a pregnant pl. referring to “(Mitra, Varuṇa, and) Aryaman.” The dep. cl. in c, yád inā́so ásvaran, can be construed either with what precedes or what follows, but sits uneasily with either because of its augmented ásvaran, which doesn’t match the pres. indic. pínvanti (c) or undanti (d). I chose to connect it with d, as thunder before rain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With harnessed team like heroes overcoming troops, the friendly Maruts, laden with their water-casks,  
      Let the spring flow, and when impetuous' they roar they inundate the earth with floods of pleasant meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Geschenken versehen wie Männer, die einen Clan besiegen, wie die Gönner, lassen die Schlauchträger Marut den Brunnen überquellen, wenn die Gewaltigen brausen. Sie durchnetzen die Erde mit dem Trank des Metes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Reich an Gespannen, Heerbesiegern, Helden gleich, wie Busenfreunde füllen sie die Quelle an, Die starken Maruts, Tonnen führend, rauschen hell, die Erde netzen rings sie mit des Honigs Seim.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сопровождаемые упряжками, подобные мужам, побеждающим войско,  
 Словно Арьяман и другие (Адитьи), везущие бочку Маруты  

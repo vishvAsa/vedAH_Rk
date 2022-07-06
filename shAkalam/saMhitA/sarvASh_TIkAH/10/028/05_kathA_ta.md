@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ त एत꣡द् अह꣡म् आ꣡ चिकेतं  
 गृ꣡त्सस्य पा꣡कस् तव꣡सो मनीषा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡म् अ꣡र्धं ते मघवन् क्षेमिया꣡ धूः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 त्वम् । नः॒ । वि॒द्वान् । ऋ॒तु॒ऽथा । वि । वो॒चः॒ । यम् । अर्ध॑म् । ते॒ । म॒घ॒ऽव॒न् । क्षे॒म्या । धूः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -132,7 +132,7 @@ popular
 हे इन्द्र **पाकः** पक्तव्यप्रज्ञः **अहं** **गृत्सस्य** मेधाविनः **तवसः** वृद्धस्य **ते** तव **मनीषां** स्तुतिम् । कर्तुमिति शेषः । **एतत्** ईदृशं त्वदीयं सामर्थ्यं **कथा** कथं केन प्रकारेण “ **चिकेतम्** आ समन्तात् जानामि । त्वदुपदेशं विना न जानामीत्यर्थः । तस्मात्कारणात् **विद्वान्** सर्वज्ञः **त्वम्** एव **नः** अस्मभ्यम् **ऋतुथा** कालेकाले **वि** **वोचः** विशेषेण ब्रूहि । हे **मघवन्** धनवन्निन्द्र **ते** तव **अर्धं** **यं** स्तुत्यवयवं कुर्मः सा स्तुतिः **धूः** **क्षेम्या** क्षेमे भवा केशरहित वोढुं शक्यास्ति । यस्मात्तव स्तुत्यवयवमेव वयमक्लेशेन कर्तुं न शक्नुमोऽस्माकं मन्दबुद्धित्वात् तस्मात्त्वमेवास्मभ्यं स्वसामर्थ्यं स्तुतिप्रकारं च पुनरपि कथयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ popular
 Instrumental uct us: Since we cannot perform even a portion of your power without an effort on account of our slownessof mind, do you again tel us your power and the way to praise you
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Singer/Sacrificer:] How shall I mark this (speech) of yours—I, a simple  man, mark the inspired thought of you who are clever and strong?  
 You who know will declare to us at the proper time toward which half  your chariot-pole is to come to rest, bounteous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How shall I solve this riddle, I, the simple, declare the thought of thee the Wise and Mighty?  
      Tell us, well knowing, as befits the season: Whitherward is thy prosperous car advancing?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie soll ich dies Wort von dir verstehen, den Sinn des Klugen, Starken, ich der Einfältige? Du, der Wissende, sollst es uns richtig erklären, nach welcher Seite deine auf Frieden abzielende Deichsel geht, o Gabenreicher?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie soll ich dies dein Wort doch recht verstehen, ich Thor, des weisen, kräftigen Gedanken? Der Wahrheit nach verkünd' uns das, du weisst es, an welchem Ort, o Held, dein Wagen Rast hält.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как могу я постигнуть это твое (слово),  
 Замысел мудрого, сильного – (я,) несведущий?  

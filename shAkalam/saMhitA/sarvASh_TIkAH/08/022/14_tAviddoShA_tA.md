@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡व् इ꣡द् दोषा꣡ ता꣡ उष꣡सि शुभ꣡स् प꣡ती  
 ता꣡ या꣡मन् रुद्र꣡वर्तनी  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 परो꣡ रुद्राव् अ꣡ति ख्यतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मा । नः॒ । मर्ता॑य । रि॒पवे॑ । वा॒जि॒नी॒व॒सू॒ इति॑ वाजिनीऽवसू । प॒रः । रु॒द्रौ॒ । अति॑ । ख्य॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tāv* ← *tau* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -122,35 +122,35 @@ genre M
 **शुभस्पती** उदकस्य पालयितारौ **रुद्रवर्तनी** युद्धे रोदनशीलमार्गौ स्तूयमानमार्गौ वा **तावित्** तावेवाश्विनौ **दोषा** दोषायां रात्रौ **तौ** एव **उषसि** उषःकाले तावश्विनौ **यामन्** यामन्यहनि च सर्वेषु कालेषु वयमश्विनावाह्वयामः । एवं सति **वाजिनीवसू** अन्नधनौ **रुद्रौ** हे अश्विनौ **मर्ताय** मनुष्याय **रिपवे** शत्रवे **नः** अस्मान् **परः** परस्तात् **मा** **अति** **ख्यतं** मा ब्रूतम् । शत्रवे अस्मान्मा कुरुतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We adore those lords of water, leaders on the road of battle, in the evening, at dawn, and at mid-day;therefore, **Rudras** who are rich in food, give us not up hereafter to a mortal adversary; rudravartanī : yuddherodanaśilamārgau stūyamānamārgau vā\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just these two in the evening, these two lords of beauty at dawn, and  these two who follow the course of the Rudras [=Maruts] on their  journey. Don’t look over and beyond us to a cheating mortal, o Rudras whose  goods are prizewinning mares.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye who are Lords of splendour, ye whose paths are red, at eve, at mom, at sacrifice,  
      Give us not utterly as prey to mortal foe, ye Rudras, Lords of ample wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An sie des Abends, an sie am Morgen, an die Herren der Schönheit, an sie bei ihrer Ausfahrt, die in des Rudra Bahn wandeln. Übersehet uns ferner nicht zugunsten eines heimtückischen Sterblichen, ihr lohnreichen Rudra´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Am Abend euch, am Morgen euch, ihr Glanzesherrn, die ihr auf lichtem Pfade fahrt; Nicht gebt uns hin, o labungsreiche, glänzende, dem bösen Mann im fernen Land.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К ним же вечером, к ним же на заре, о повелители красоты,  
 К ним, следующим сверкающим путем, при (их) выезде.  

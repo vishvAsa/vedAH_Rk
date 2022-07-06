@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रक्षोहा꣡ विश्व꣡चर्षणिर्  
 अभि꣡ यो꣡निम् अ꣡योहतम्  
 द्रु꣡णा सध꣡स्थम् आ꣡सदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 द्रुणा॑ । स॒धऽस्थ॑म् । आ । अ॒स॒द॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rakṣohā* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **रक्षोहा** रक्षसां हन्ता **विश्वचर्षणिः** विश्वस्य द्रष्टा सोमः अयोहतं हिरण्येन हतम् । तथा च ब्राह्मणं - ’ हिरण्यपाणिरभिषुणोति' इति । **द्रुणा** द्रोणकलशेनाधिषवणफलकाभ्यां वा **सधस्थं** सहस्थानं **योनिम्** अभिषवस्थानम् **अभि** **आसदत्** अभ्यासीदति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,13 +96,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Ayohatam = smitten with gold; or, fabricated by a carpenter with a metal tool; **Brāhmaṇa** cited: hiraṇyapāṇir abhiṣunoti = golden-handed he presses out the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Demon-smasher, common to all domains, he has reached his seat upon  the metal-hammered womb,  
 upon his sitting place, by means of the wooden (vessel).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adj. áyohata- ‘metal-hammered’ occurs twice in the RV (also IX.80.2), both qualifying yóni- ‘womb’ and referring to something that contains soma. Oldenberg suggests that it refers to a wooden vessel that has been hewn out by a metal blade.
 
@@ -119,23 +119,23 @@ After establishing the Soma Pavamāna theme in the 2nd pāda of the 1st vs., wit
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fiend-queller, Friend of all men, he hath with the wood attained unto  
      His place, his iron-fashioned home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Unholde tötend, bei allen Völkern bekannt, hat er sich in seine eisenbehauene Wiege, an seinen Platz als Hotri gesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Menschen schirmt, Gespenster tilgt, liess auf den erzgefügten Schooss Den Sitz sich nieder durch das Holz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Убийца демонов, известный среди всех народов,  
 Он сел на (свое) ложе, вытесанное железом,  

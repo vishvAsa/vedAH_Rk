@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु अपां꣡ खा꣡नि अतृन्तम् ओ꣡जसा  
 आ꣡ सू꣡रियम् ऐरयतं दिवि꣡ प्रभु꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡पिन्वतम् अपि꣡तः पि꣡न्वतं धि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्रा॑वरुणा । मदे॑ । अ॒स्य॒ । मा॒यिनः॑ । अपि॑न्वतम् । अ॒पितः॑ । पिन्व॑तम् । धियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anv* ← *anu*
 - \[adverb\]
@@ -113,36 +113,36 @@ genre M
 हे इन्द्रावरुणौ **अपाम्** उदकानां **खानि** द्वाराणि वृत्रेण पिहितानि **ओजसा** बलेन **अनु** **अतृन्तम्** अन्वविध्यतम् । आवरकस्य वृत्रस्य वधेन वृष्टिप्रतिबन्धं निराकृतवन्तावित्यर्थः। तथा **सूर्यं** सर्वस्य प्रेरकमादित्यं **दिवि** अन्तरिक्षे **प्रभुं** प्रभूतं सन्तम् **आ** **ऐरयतम्** अभ्यगमयतम् । स्वर्भानुनावृतं सूर्यं तद्वधेन प्रकाशितवन्तावित्यर्थः । हे **इन्द्रावरुणा** इन्द्रावरुणौ **मायिनः** प्रज्ञाकरस्य **अस्य** सोमस्य पानेन **मदे** हर्षे सति **अपितः** जलरहिता नदीः **अपिन्वतं** जलेनापूरयतम् । तथा च निवित्पदमाम्नायते-- अस्य मदे जरितरिन्द्रोऽजिन्वदजुवोऽपिन्वदपितः' (शां. श्रौ. ८. २५. १) इति । अपि च **धियः** कर्माण्यस्माभिरनुष्ठितानि कर्माणि **पिन्वतं** सिञ्चतं फलेन पूरयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Varuṇa**, you have forced open by your strength the barriers of the waters; you haveestablished **Sūrya** as the lord in heaven; in the exhilaration of the inspiring (**Soma**) you have replenished the dry(beds of the rivers); do you also fulfil the objects of our sacred rite.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two drilled holes for the waters by your power, and you two raised  the preeminent sun in heaven.  
 O Indra and Varuṇa, in the exhilaration of cunning (Soma) you made  the depleted (waters) swell. Make our insights swell!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye with your strength have pierced the fountains of the floods: the Sun have ye brought forward as the Lord in heaven.  
      Cheered by this magic draught ye, Indra-Varuna, made the dry places stream, made songs of praise flow forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr öffnetet die Schleusen der Gewässer mit Kraft, ihr brachtet den Surya an den Himmel als das herrschende Gestirn. Indra und Varuna, im Rausche dieses zauberkräftigen Soma schwellet ihr die versiegten Flüsse an. Schwellet die frommen Gedanken an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Wasser Bahnen habt mit Macht ihr aufgebohrt, die schöne Sonne an den Himmel hingesetzt, Im Zauberrausche lasst ihr, Indra-Varuna, versiegte Ströme schwellen und der Lieder Born.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Силой вы просверлили отверстия для вод.  
 Солнце вы привели в движение на небе как главное (светило).  

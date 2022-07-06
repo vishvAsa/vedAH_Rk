@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡म द्विब꣡र्हा म꣡हि तिग्म꣡भृष्टिः  
 सह꣡स्ररेता वृषभ꣡स् तु꣡विष्मान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्नि꣡र् म꣡ह्यम् प्रे꣡द् उ वोचन् मनीषा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प॒दम् । न । गोः । अप॑ऽगूळ्हम् । वि॒वि॒द्वान् । अ॒ग्निः । मह्य॑म् । प्र । इत् । ऊं॒ इति॑ । वो॒च॒त् । म॒नी॒षाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sāma* ← *sāman*
 - \[noun\], accusative, singular, neuter
@@ -135,7 +135,7 @@ genre M
 **द्विबर्हाः** द्वयोर्मध्यमोत्तमयोः स्थानयोः परिवृढः **तिग्मभृष्टिः** तीक्ष्णतेजाः **सहस्ररेताः** बहुविधहिरण्यरेतस्कः । रेतःशब्दः सारवाची । प्रभूतसारो वा । **वृषभः** वर्षिता कामानां **तुविष्मान्** बहुधन:। ईदृशोऽयम् **अग्निः** अत्यन्तगोपितं **गोः** **पदं** **न** नष्टाया गोः पदमिव **अपगूळ्हम्** अत्यन्तरहस्यम् । मनीषाशब्दो ज्ञानवाची सन् अत्र ज्ञातव्ये वर्तते । **मनीषां** ज्ञातव्यं **महि** महत् पूज्यं **साम** अस्मदभिमतं स्तोत्रं **विविद्वान्** विशेषेण जानन **मह्यं** **प्रेदु** **वोचत्** प्रैव ब्रवीतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,7 +146,7 @@ genre M
 Filling both: dvibarha = dvayor madhyamottamayoḥ sthānayoḥ parivṛḍhaḥ; who comprehends: **sāma** **mahi** padam na goḥ apagūḷham vividvān agnir mahyam predu vocan manīṣām: manīṣām, is connected with sāma and is explained as jñātavyam, what is to be known; apagūḷham atyantarahasyam; this is attached to padam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A great melody (he gave)—the doubly lofty, sharp-pointed,  
 thousand-spurting, powerful bull—  
@@ -154,7 +154,7 @@ having found the word hidden like the track of the cow. Agni has
 proclaimed the inspired thought to me.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The subject must change between pādas a and b, since the subj. of a is fem.
 
@@ -167,28 +167,28 @@ On akrá- see comm. ad I.189.7.
 It may seem odd that the wooden post “anoints” the sacrificial animal tied to it, and in fact Witzel Gotō dissociate pādas c and d and make Agni the subject of d. But this striking turn of phrase can be explained both as a metaphor and by the principle of ritual transfer. Metaphorically “anoint” can simply mean “make ritually fit for sacrifice,” and this may be in play here: tying the animal to the post is a regular step in the animal sacrifice. But more interesting is the ritual transfer. In the one hymn in the RV devoted to the post (III.8), the post itself is anointed by the priests (III.8.1a añjánti tvā́m … vánaspate), and later in that hymn the mechanism for that anointing is made clear: the offering ladles have been stretched over the posts (III.8.7b yatásrucaḥ). Thus the posts dripping with ghee presumably transfer the ghee to the attached animals, anointing them in their turn. Note that in our vs. the first pāda concerns the outstretched ghee-filled ladle (yatā́… ghṛtā́cī), and we can assume that the same ritual sequence obtains here: ladle anoints post, which anoints animals.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sharp-pointed, powerful, strong, of boundless vigour, Agni who knows the lofty hymn, kept secret  
      As the lost milch-cow's track, the doubly Mighty,-he hath declared to me this hidden knowledge.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, the sharp-pointed, the mighty bull with thousandfold sperm, has proclaimed to me the great, doubly-powerful 1 Sâman, the prayer, having found, as it were, the hidden track of a cow 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der kraftvolle tausendsamige Bulle mit scharfen Hörnerspitzen hat den doppelten großen Ton, das wie die Spur der Kuh verborgene Wort aufgefunden: Agni hat mir den Sinn offenbart.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der zwiefach starke, scharfgezackte Agni, ] der mächtg'e Stier, der tausendsam'ge, kennend das Preislied, wie der Kuh verborgne Stätte, er soll mich nun die rechte Weisheit lehren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык, обладающий двойной силой, с острыми концами (рогов),  
 С тысячным семенем, сильный,  

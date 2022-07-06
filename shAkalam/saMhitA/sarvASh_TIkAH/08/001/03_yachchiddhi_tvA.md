@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡च् चिद् धि꣡ त्वा ज꣡ना इमे꣡  
 ना꣡ना ह꣡वन्त ऊत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡हा वि꣡श्वा च व꣡र्धनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्माक॑म् । ब्रह्म॑ । इ॒दम् । इ॒न्द्र॒ । भू॒तु॒ । ते॒ । अहा॑ । विश्वा॑ । च॒ । वर्ध॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yac* ← *yat*
 - \[adverb\]
@@ -124,41 +124,41 @@ genre M
 **इमे** दृश्यमानाः सर्वे **जनाः** हे इन्द्र त्वाम् **ऊतये** रक्षणाय तर्पणाय वा **नाना** पृथक्पृथक् **यच्चित्** यद्यपि **हवन्ते** स्तुवन्ति । **हि** इति पूरणः । तथापि **अस्माकम्** **इदं** **ब्रह्म** स्तोत्रमेव हे **इन्द्र** **ते** तव **वर्धनं** वर्धकं **भूतु** भवतु । न केवलमिदानीमेव अपि तु **विश्वा** **अहा** सर्वाण्यहानि सर्वेष्वहःसु **च** इदमेव स्तोत्रं त्वां वर्धयत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Although these people worship you, **Indra**, in many ways to (secure) your protection, (yet) may this ourprayer be throughout all days your magnification.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For even though these peoples now, every man for himself, call upon you  for help,  
 let it be our sacred formulation, Indra, that becomes your strengthening  now and throughout all days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I follow Klein (I.58-59) in taking the ca as connecting áhā víśvā with idám used in a temporal sense. We might have preferred the order *áhā ca víśvā in the 2nd constituent. but compare I.130.2, 9 áhā víśveva, where the phrase also behaves as an indissoluble unit before the particle iva.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Although these men in sundry ways invoke thee to obtain thine aid,  
      Be this our prayer, addressed, O Indra, unto thee, thine exaltation every day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Obschon dich diese anderen Leute von verschiedenen Seiten um Beistand rufen, so soll doch dieses unser beschwörendes Wort dir, Indra, eine Erbauung sein und zwar alle Tage!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wenn die Menschen dieser Welt dich vielfach auch um Hülfe flehn, So sei doch, Indra, dies Gebet das liebste dir, mit dem wir täglich dich erfreun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И хотя тебя эти народы  
 С разных сторон зовут на помощь,  

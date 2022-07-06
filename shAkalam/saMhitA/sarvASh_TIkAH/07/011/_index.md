@@ -8,7 +8,7 @@ title = "+011"
 ‘ महाँ असि' इति पञ्चर्चमेकादशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाग्नेयम् । ‘महान्' इत्यनुक्रान्तम् । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 11 (527)  
 Agni  

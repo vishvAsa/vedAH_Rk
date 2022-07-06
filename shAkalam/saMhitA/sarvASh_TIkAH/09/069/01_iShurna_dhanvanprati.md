@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡षुर् न꣡ ध꣡न्वन् प्र꣡ति धीयते मति꣡र्  
 वत्सो꣡ न꣡ मातु꣡र् उ꣡प सर्जि ऊ꣡धनि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡स्य व्रते꣡षु अ꣡पि सो꣡म इष्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒रुधा॑राऽइव । दु॒हे॒ । अग्रे॑ । आ॒ऽय॒ती । अस्य॑ । व्र॒तेषु॑ । अपि॑ । सोमः॑ । इ॒ष्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣur* ← *iṣuḥ* ← *iṣu*
 - \[noun\], nominative, singular, masculine
@@ -143,7 +143,7 @@ genre M
 अस्मिन् पवमानरूप इन्द्रे **मतिः** मननीयास्मदीया स्तुतिः **प्रति** **धीयते** अस्माभिर्निधीयते वा। दधाते रूपम्। तत्र दृष्टान्तः । **इषुर्न** यथेषुः शरः **धन्वन्** धनुषि प्रति धीयते तद्वत् । किंच **ऊधनि** सर्वस्य पोषयितृत्वेनोधःस्थानीय इन्द्रे सोमो मदार्थमस्माभिः **उप** **सर्जि** उपसृज्यते । कथमिव । **मातुः** गोः **ऊधनि** पयोधारके **वत्सो** **न** वत्सो यथा पयःपानार्थं सृज्यते तद्वत् । **उरुधारेव** बहुविधपयोधारा गौरिव **अग्रे** वत्सस्य पुरतः **आयती** गच्छन्ती सती पयः **दुहे** दुग्धे तथा सोऽयमिन्द्रो वत्सभूतेभ्यः स्तोतृभ्यः पुरतो गच्छन् बहुविधान् कामान् दुग्धे। किंच **अस्य** एतादृशस्य **व्रतेष्वपि** **सोम** इष्यते यष्टृभिः प्रेर्यते खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,14 +154,14 @@ genre M
 The fosterer: ūdhani = Indra, because he is the nourisher of everything
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like an arrow on a bow, my thought is aimed. It is released like a calf  to the udder of its mother.  
 Like (a cow) with a broad stream, it gives milk as it comes here in the  lead. Under the commandments of this one [=Soma the god], the  
 soma (juice) is dispatched.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening pāda of this hymn shows the power of the ritual hic et nunc: the 2nd word, asmai, is unaccented, which indicates that the referent is something already in the discourse. This “something” is of course soma/Soma, both present on the ritual ground and the acknowledged dedicand of the hymn. There is no need for a prior mention. See also IX.11.1a and with asya IX.29.1a and IX.30.1a.
 
@@ -190,23 +190,23 @@ I do not really understand the last pāda, in part because it is unclear who the
 or heavenly? The problem is compounded by the verb: the pf. véda is generally stative (‘know’), but my tr. (and those of others) implicitly assumes a dynamic change of state, ‘recognize’ vel sim.; see Geldner’s “in Erfahrung bringen,” Renou’s “elles eurent (re)connu (son) siège.” A more stative interpr. would be possible if yád is rendered ‘since’, not ‘when’. I confess to puzzlement.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LAID like an arrow on the bow the hymn hath been loosed like a young calf to the udder of its dam.  
      As one who cometh first with full stream she is milked the Soma is impelled to this man's holy rites.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Pfeil auf den Bogen wird das Gedicht aufgelegt. Er ward losgelassen wie das Kalb zum Euter der Mutter. Wie eine in breitem Strahle milchende Kuh, die zuerst kommt, wird er gemolken. Zu den Werken dieses ist der Soma erwünscht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie auf den Bogen wird Gebet als Pfeil gelegt, und schmiegt wie an der Mutter Euter sich das Kalb; Wie reichlich strömt die Kuh dem Kalbe, das sie führt, so strömt der Gott, und Soma folget seinem Dienst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как стрела в луке, нацеливается молитва.  
 (Сома) был выпущен, как теленок к вымени матери.  

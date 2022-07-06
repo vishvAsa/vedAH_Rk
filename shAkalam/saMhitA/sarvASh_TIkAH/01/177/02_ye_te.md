@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ ते वृ꣡षणो वृषभा꣡स इन्द्र  
 ब्रह्मयु꣡जो वृ꣡षरथासो अ꣡त्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ह꣡वामहे त्वा सुत꣡ इन्द्र सो꣡मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तान् । आ । ति॒ष्ठ॒ । तेभिः॑ । आ । या॒हि॒ । अ॒र्वाङ् । हवा॑महे । त्वा॒ । सु॒ते । इ॒न्द्र॒ । सोमे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -141,7 +141,7 @@ genre M
 हे **इन्द्र** **ते** तव संबन्धिनः **वृषणः** वर्षका युवानो वर्षणवन्तो वा **वृषभासः** श्रेष्ठाः **ब्रह्मयुजः** परिवृढेन मन्त्रेण युज्यमानाः **वृषरथासः** वर्षणरथवन्तः । तत्र नियुक्ता इत्यर्थः । ईदृशाः **अत्याः** अश्वा **ये** सन्ति **तान्** आ **तिष्ठ** आश्रय आरोह । **तेभिः** तैः **अर्वाङ्** अस्मदभिमुखम् **आ** **याहि** आगच्छ । वयं च हे **इन्द्र** **सोमे** **सुते** सति **त्वा** त्वां हवामहे आह्वयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,29 +152,29 @@ genre M
 Young and vigorous: the words **varṣa** and varṣaṇam are repeated: showering, shedding, effusing; the horses are **vṛṣaṇa**; the car is **varṣaṇa**; Indra is **vṛṣabha**; **Soma** is **vṛṣan**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your bullish bulls, Indra, which are yoked by sacred formulations, the  steeds provided with a bullish chariot—  
 mount them; with them drive right up here. We invoke you, Indra, when  the soma is pressed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy mighty Stallions, yoked by prayer, O Indra, thy. Coursers to thy mighty chariot harnessed,--  
      Ascend thou these, and borne by them come hither: with Soma juice out. poured, Indra, we call thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine bulligen Bullen, o Indra, die durch die Worteskraft geschirrten Rennpferde am bullenhaften Wagen, die besteige, mit denen komm näher! Wir laden dich, Indra, zum gepreßten Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die starken Stiere, die du hast, o Indra, gebetgeschirrte Ross' am Stier, dem Wagen, Besteige die, und komme her mit ihnen, wir rufen dich zum Somasaft, o Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те, что твои мужественные быки, о Индра,  
 Запрягаемые священным словом кони с мужественной колесницей, -  

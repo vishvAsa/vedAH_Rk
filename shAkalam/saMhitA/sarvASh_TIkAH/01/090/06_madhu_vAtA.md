@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡धु वा꣡ता ऋतायते꣡  
 म꣡धु क्षरन्ति सि꣡न्धवः  
 मा꣡ध्वीर् नः सन्तु ओ꣡षधीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 माध्वीः॑ । नः॒ । स॒न्तु॒ । ओष॑धीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhu*
 - \[noun\], accusative, singular, neuter
@@ -80,7 +80,7 @@ genre M
 **ऋतायते** ऋतं यज्ञमात्मन इच्छते यजमानाय **वाताः** वायवः **मधु** माधुर्योपेतं कर्मफलं **क्षरन्ति** वर्षन्ति प्रयच्छन्तीत्यर्थः । तथा **सिन्धवः** स्यन्दनशीला नद्यः समुद्रा वा **मधु** माधुर्योपेतं स्वकीयं रसं क्षरन्ति । एवं **नः** अस्मभ्यम् **ओषधीः** फलपाकान्ता ओषधयस्ताश्च **माध्वीः** माधुर्योपेताः **सन्तु** भवन्तु ॥ मधु । अस्मादुत्तरस्य मत्वर्थीयस्य: लुगकारेकाररेफाश्च वक्तव्याः । ( पा. सू. ४, ४. १२८. २ ) इति लुक् । ऋतायते । ऋतमात्मन इच्छति । 'सुप आत्मनः क्यच् । न च्छन्दस्यपुत्रस्य' इति ईत्वदीर्घयोर्निषेधः । अन्येषामपि संहितायां दीर्घत्वम् । क्यजन्तात् लटः  शतृ ।  ‘ शतुरनुमः' इति विभक्तेरुदात्तत्वम् । माध्वीः । मधोरञ् च ‘ ( पा. सू. ४. ४. १२९) इति मत्वर्थीयः अञ्प्रत्ययः ।  ‘ ऋत्व्यवास्त्व्य ' इत्यादौ अञि यणादेशो निपात्यते ।  ‘ वा छन्दसि । इति पूर्वसवर्णदीर्घत्वम् । ओषधीः । ओषः पाकः आसु धीयते इति ओषधयः ।  ‘ कर्मण्यधिकरणे च " इति किप्रत्ययः ।  ‘ कृदिकारादक्तिनः' इति ङीष् । जसि पूर्ववत् पूर्वसवर्णदीर्घः । दासीभारादिषु पठितत्वात् पूर्वपदप्रकृतिस्वरत्वम् । तच्च घञन्तमाद्युदात्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -91,34 +91,34 @@ genre M
 Evayavaḥ, the winds, i.e. the troops of **Maruts**, because of ther going with horses, evaiḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Honey do the winds (blow) to the one who follows truth; honey do the  rivers stream.  
 Honeyed be the plants for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Supplying ‘blow’ as the verb of pāda a not only conforms to universal good sense, but is suppored by vs. 4a of the previous hymn (I.89) vā́taḥ ... vā́tu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The winds waft sweets, the rivers pour sweets for the man who keeps the Law  
      So may the plants be sweet for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Süßigkeit wehen die Winde für den Gesetzestreuen, Süßigkeit strömen die Flüsse. Voll Süßigkeit sollen uns die Pflanzen sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem frommen Mann ergiessen Meth die Winde, und die Ströme Meth, Uns sein die Kräuter reich an Meth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мед (навевают) ветры благочестивому,  
 Мед струят реки.  

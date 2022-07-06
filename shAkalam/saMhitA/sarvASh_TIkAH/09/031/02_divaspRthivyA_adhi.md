@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡स् पृथिविया꣡ अ꣡धि  
 भ꣡वेन्दो द्युम्नव꣡र्धनः  
 भ꣡वा वा꣡जाना᳐म् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 भव॑ । वाजा॑नाम् । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** **वाजानाम्** अन्नानां **पतिः** स्वामी त्वं **दिवः** द्युलोकस्य **पृथिव्याः** भूलोकस्य **द्युम्नवर्धनः** द्योतमानस्य हिरण्यादिलक्षणधनस्य वर्धयिता **भव** । अस्माकं लोकद्वये यत् द्युम्नमस्ति तस्य वर्धयिता भवास्मभ्यमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,28 +98,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Augmenter: cetanam = prajñāpanam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become the increaser of brilliance from heaven and from earth, o drop; become the lord of prizes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, high o'er heaven and earth be thou, increaser of our might:  
      The Master of all strength be thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vom Himmel und der Erde her sei, o Saft, ein Glanzmehrer, sei der Herr der Gewinne!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel, von der Erde her sei, Indu, Kraftvermehrer uns, Sei du der Herr der Labungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С неба (и) с земли  
 Будь, о (капля), усилителем блеска!  

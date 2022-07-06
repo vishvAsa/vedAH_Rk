@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धि श्रि꣡यं नि꣡ दधुश् चा꣡रुम् अस्मिन्  
 दिवो꣡ य꣡द् अक्षी꣡ अमृ꣡ता अ꣡कृण्वन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ नी꣡चीर् अग्ने अ꣡रुषीर् अजानन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अध॑ । क्ष॒र॒न्ति॒ । सिन्ध॑वः । न । सृ॒ष्टाः । प्र । नीचीः॑ । अ॒ग्ने॒ । अरु॑षीः । अ॒जा॒न॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhi*
 - \[adverb\]
@@ -149,7 +149,7 @@ genre M
 **नीचीः** । निपूर्वादञ्चतेर्ऋत्विगित्यादिना क्विन् । अनिदितामिति नलोपः । अञ्चतेश्चोपसङ्ख्यानमिति ङीप् । अच इत्यकारलोपे चाविति दीर्घत्वम् । न्यधी च (पा ६-२-५३) इति गतेः प्रकृतिस्वरत्वम् । अरुषी । अरुषमिति रूपनाम । ऋहनिभ्यामुषजित्यर्तेरुषच् । छन्दसीवनिपाविति मत्वर्थीय ईकारः ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -160,42 +160,42 @@ genre M
 Two eyes: the allusion is to two portions of the clarified butter (**Taittirīya** **Saṃhitā** 2.6.2.1)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They deposited (their?) own dear splendor within him, when the  immortals made the two eyes of heaven [=sun and moon].  
 Then like rivers sent surging they stream: heading downwards, the  
 ruddy ones have recognized the way, o Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first half of the verse may return to the Tānunāptra theme. Although I would prefer a middle verb rather than active ní dadhuḥ, the first pāda could depict the joint deposit of their shared śrī́in the ritual fire (cf. the echo of níhitā in 6b), while the second pāda continues the cosmogonic theme of the previous verse. I confess, however, that the very parallel I.73.4c ádhi dyumnáṃ ní dadhur bhū́ry asmin gives me pause. Either I need to interpret that as also a Tānunāptra passage or delete the reflexive implication here. Because of the active verb, I am inclined to change my Tānunāptra interpretation and tr. simply “they deposited dear splendor in him,” although since cā́ru- can have a quasi-reflexive sense ‘own dear’, it may be possible to interpret the two passages differently.
 
 As for the second hemistich, the rivers of pāda c are most likely the oblations poured into the fire. The referent of the fem. pl. nī́cīḥ … áruṣīḥ is less clear, and in fact most tr. (Geldner, Oldenberg SBE, Renou, Witzel Gotō) take the two feminines separately, with one nom., the other the acc. object of prá … ajānan. I think rather that the two words belong together as subj. and refer again to the oblations. The lexeme prá √jñā does not otherwise take an object, but just means ‘know the way, think ahead’. As underlying referent of the feminine adjectives I would supply dhā́rā ‘stream’ vel sim.; ‘downward facing’ certainly applies to the oblations, though ‘ruddy’ is more difficult. However, fem. áruṣī- can be used of cows; since the ghee poured into the fire is a product of cows, it can be so described, even though ghee is of course not ruddy itself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Gods immortal made both eyes of heaven, they gave to him the gift of beauteous glory.  
      Now they flow forth like rivers set in motion: they knew the Red Steeds coming down, O Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When the immortals created the two eyes of heaven 1, they placed fair splendour in him (Agni) 2. Then they rush down 3 like streams let loose. The red ones have recognised, O Agni, those which are directed downwards 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie verleihen ihm schöne Pracht, als die Unsterblichen die beiden Augen des Himmels schufen. Nun fließen sie losgelassen wie die Ströme; die abwärts fließenden Schmalzgüsse fanden den Weg zu den rötlichen Flammen, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Ew'gen legten in ihn holde Schönheit, als sie des Himmels beide Augen schufen; Dann rannen, gleich wie ausgegossne Ströme, herab den Weg die Morgenröthen, Agni!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бессмертные наделили его чудесной красотой,  
 Когда создавали два глаза неба.  

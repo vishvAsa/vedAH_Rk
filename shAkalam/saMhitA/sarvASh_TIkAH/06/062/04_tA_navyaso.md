@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ न꣡व्यसो ज꣡रमाणस्य म꣡न्म  
 उ꣡प भूषतो युयुजान꣡सप्ती  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हो꣡ता यक्षत् प्रत्नो꣡ अध्रु꣡ग् यु꣡वाना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 शुभ॑म् । पृक्ष॑म् । इष॑म् । ऊर्ज॑म् । वह॑न्ता । होता॑ । य॒क्ष॒त् । प्र॒त्नः । अ॒ध्रुक् । युवा॑ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -119,20 +119,20 @@ genre M
 **ता** तावश्विनौ **युयुजानसप्ती** रथे युज्यमानाश्वौ **शुभं** शोभनं **पृक्षम्** अन्नम् । ‘पयः पृक्षः' इत्यन्ननामसु पाठात् । **इषं** पुष्टिम् **ऊर्जं** रसं च **वहन्ता** वहन्तौ **नव्यसः** नवतरस्य **जरमाणस्य** स्तुतिं कुर्वतः **मन्म** मननीयं स्तोत्रम् **उप** **भूषतः** उपगच्छतः । यद्वा । स्तोत्रसमीपे भवतः । किंच **युवाना** नित्यतरुणौ तौ **होता** देवानामाह्वाता **अध्रुक्** अद्रोग्धा प्रियः  **प्रत्नः** पुराणोऽग्निः **यक्षत्** यजतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Harnessing their horses, bringing excellent food, nourishment, and strength, they approach (to receive) the adoration of their recent worshipper; and may the benevolent ancient invoker of the gods (**Agni**) sacrifice to the ever youthful (deities).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two attend upon the thoughts of (me), the newer singer, having  harnessed their team,  
 conveying beauty and fortifying power, refreshment and nourishment.  The age-old Hotar without deceit shall offer sacrifice to the two  youths.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted ad vs 1., járamāṇa- here seems to belong to ‘sing’, not ‘awaken’, and therefore may limit the form in 1b as well. Based on 1b huve járamāṇaḥ “singing, I call upon” and 5b ā́vivāse “I seek to attract,” I have supplied a 1st ps.
 
@@ -141,23 +141,23 @@ referent for the genitives here. The bahuvrīhi yuyujāná-saptī ‘having a ha
 In d pratnáḥ ‘age-old’ qualifying the priest contrasts with návyas- ‘newer’ in a, qualifying the singer, as well as yúvānā ‘two youths’ in d referring to the Aśvins. The first pair recurs in the next vs., 5b. See comm. there. The “age-old Hotar” is of course Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So ye, when ye have yoked your chariothorses, come to the hymn of the most recent singer.  
      Our true and ancient Herald Priest shall bring you, the Youthful, bearing splendour, food, and vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie warten auf das Gebet des jüngsten Frühbeters, wenn sie ihre Rosse angeschirrt haben. Die Jugendlichen, die Schönheit, Lebenskraft, Labsal, Stärkung mitführen, soll der uralte, nie trügende Hotri verehren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Rossen fahrend nahn sie eifrig achtsam dem Andachtslied des neuesten der Sänger; Herfahrend Schmuck und Labung, Trank und Speise; euch junge ehr der holde, alte Priester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти двое, запрягшие скакунов, усиливают  
 Мысль младшего воспевателя.  

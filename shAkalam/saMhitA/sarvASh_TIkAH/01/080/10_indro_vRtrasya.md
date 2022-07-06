@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो वृत्र꣡स्य त꣡विषीं  
 नि꣡र् अहन् स꣡हसा स꣡हः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 म॒हत् । तत् । अ॒स्य॒ । पौंस्य॑म् । वृ॒त्रम् । ज॒घ॒न्वान् । अ॒सृ॒ज॒त् । अर्च॑न् । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -126,37 +126,37 @@ genre M;; repeated line
 **इन्द्रो** **वृत्रस्य** असुरस्य **तविषीं** बलं स्वकीयेन बलेन **निरहन्** हतवान् । **सहसा** सहनेन अभिभवसाधनेनायुधेन **सहः** अभिभवसाधनं वृत्रायुधं निरहन् । **अस्य** इन्द्रस्य **तत्** **पौंस्यं** बलं **महत** अतिप्रौढम्। यस्मादयं **वृत्रं** **जघन्वान्** हतवान् हत्वा च तन्निरुद्धा अप: **असृजत्** तस्मात् वृत्रान्निरगमयत् । अन्यत् पूर्ववत् ॥ पौंस्यम् । 'पुंस अभिवर्धने' । चुरादिः ।  ‘ अचो यत्' इति यत् । यतोऽनावः । इत्याद्युदात्तत्वम् । जघन्वान् । हन्तेर्लिटः क्वसुः ।  ‘ विभाषा गमहनविद° ' इति इटः विकल्पादभावः ।  ‘ अभ्यासाच्च' इति अभ्यासादुत्तरस्य हन्तेर्हकारस्य धत्वम् ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** overcame by his strength the strength of **Vṛtra**; great is his manhood, wherewith, having slain Vṛtra, he lest loose the waters, manifesting his own sovereignty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra has smashed forth the power of Vr̥tra, has smashed forth the  might of Vr̥tra with his might.  
 Great was this manly deed of his: having smashed Vr̥tra, he released  (the waters).  
 – They cheer on his sovereign power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra hath smitten down the power of Vrtra,--might with stronger might.  
      This was his manly exploit, he slew Vrtra and let loose the floods, lauding his own imperial sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra schlug die Stärke des Vritra ab, mit Macht seine Macht. Das ist seine große Mannestat: Nachdem er den Vritra erschlagen hatte, ließ er die Gewässer laufen. - Sie sollen in deine Selbstherrlichkeit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zermalmt hat Indra Vritra's Macht, mit Kraft zerschmettert seine Kraft; Er that dies grosse Heldenwerk, schlug Vritra und ergoss die Flut; er strahlt in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра вышиб мощь  
 Вритры, силой – силу.  

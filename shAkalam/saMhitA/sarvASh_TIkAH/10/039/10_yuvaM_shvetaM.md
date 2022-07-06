@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ श्वेत꣡म् पेद꣡वे अश्विना꣡शुवं  
 नव꣡भिर् वा꣡जैर् नवती꣡ च वाजि꣡नम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 भ꣡गं न꣡ नृ꣡भ्यो ह꣡वियम् मयोभु꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 च॒र्कृत्य॑म् । द॒द॒थुः॒ । द्र॒व॒यत्ऽस॑खम् । भग॑म् । न । नृऽभ्यः॑ । हव्य॑म् । म॒यः॒ऽभुव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
@@ -119,7 +119,7 @@ genre M
 हे **अश्विना** अश्विनौ **युवं** युवां **पेदवे** पेदुनामधेयाय राज्ञे **श्वेतं** श्वेतवर्णं **वाजिनं** बलिनं **नवभिः** **नवती** नवत्याश्वैः सहितं **चर्कृत्यं** संग्रामाणामत्यर्थं कर्तारं शत्रूणां जेतारं वा **द्रवयत्सखं** शत्रुसखीनां द्रावयितारं **हव्यं** ह्वातव्यं **मयोभुवं** सुखस्य भावयितारम् **अश्वं** **नृभ्यः** मनुष्येभ्यः **भगं** **न** भजनीयं धनमिव **ददथुः** प्रायच्छतम् ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,30 +130,30 @@ genre M
 With nine and ninety other steeds: strong with nine-and-ninety strengths
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two gave to Pedu a white horse, a prizewinner with nine and ninety  prizes, o Aśvins,  
 (a horse) to be celebrated, one setting its comrades to running, to be  
 invoked by men like good fortune, and the embodiment of joy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On Pedu ye bestowed, Asvins, a courser white, mighty with nine-and-ninety varied gifts of strength,  
      A horse to be renowned, who bore his friend at speed, joy-giving, Bhaga-like to be invoked of men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Asvin habt dem Pedu das weiße Roß geschenkt, das mit neunundneunzig Siegespreisen Sieger war, das rühmenswerte, das den Gefährten schnell fortträgt, das wie Bhaga für die Herren anzurufen ist, das Erfreuliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Pedu schenktet, Ritter, ihr das weisse Ross, das kraftbegabt durch neunundneunzig Kräfte ist, Das werth des Rühmens rasch den Reiter vorwärts trägt, das Männer anflehn wie den reichen güt'gen Herrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, о Ашвины, подарили Педу белого  
 Коня, победителя с девяносто девятью наградами,  

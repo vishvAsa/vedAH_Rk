@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्री꣡ळन्ति अस्य सूनृ꣡ता  
 आ꣡पो न꣡ प्रव꣡ता यतीः꣡  
 अया꣡ धिया꣡ य꣡ उच्य꣡ते प꣡तिर् दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 अ॒या । धि॒या । यः । उ॒च्यते॑ । पतिः॑ । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *krīﾱanty* ← *krīḍanti* ← *krīḍ*
 - \[verb\], plural, Present indikative
@@ -97,31 +97,31 @@ genre M;; line affected by realignment
 **अस्य** इन्द्रस्य **सूनृताः** प्रियसत्यात्मिका वाचः **क्रीळन्ति** विहरन्ति । तत्र दृष्टान्तः । **प्रवता** प्रवणेन मार्गेण **यतीः** गच्छन्त्यः **आपो** **न** आप इव । यथा निम्नोन्नतेन पथा गच्छन्त्य आप उत्पतननिपतनेन विहरन्ति तद्वत् । **दिवः** स्वर्गस्य **पतिः** पालयिता **यः** इन्द्रः **अया** अनया **धिया** स्तुत्या **उच्यते** प्रतिपाद्यते अस्येन्द्रस्येत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The kind and true words of him who in this hymn is called the lord of heaven sport like waters flowingby a downward (channel).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like waters going along a downward slope, they play—the liberal  gifts of him  
 who is called the lord of heaven by this visionary thought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sweet strains that glorify him play like waters speeding down a slope,  
      Yea, him who in this song is called the Lord of Heaven;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine Gnadengaben kommen angetänzelt wie Gewässer, die im Laufe dahineilen, der in dieser Dichtung der Herr des Himmels genannt wird;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Играют его милости,  
 Как воды, стекающие с откоса,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ओ꣡षधीर् इ꣡ति मातरस्  
 त꣡द् वो देवीर् उ꣡प ब्रुवे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आत्मा꣡नं त꣡व पूरुष
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 स॒नेय॑म् । अश्व॑म् । गाम् । वासः॑ । आ॒त्मान॑म् । तव॑ । पु॒रु॒ष॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhī*
 - \[noun\], nominative, plural, feminine
@@ -107,7 +107,7 @@ popular;; epic anuṣṭubh (292)
 हे **ओषधीः** ओषधयः **देवीः** देव्यो द्योतनादिगुणका हे **मातरः** जनानां मातृभूताः । मातृवद्धितकारित्वान्मातृत्वोपचारः। अथवा मातर आरोग्यनिर्मात्र्यः **वः** युष्माकं संबन्धिनं भिषजं **तत्** वक्ष्यमाणम् **इति** इत्थम् **उप** **ब्रुवे** उप ब्रवीमि । किं तदिति चेत् उच्यते । ओषध्यर्थमहम् **अश्वं** **गां** **वासः** अंशुकं किं बहुना **आत्मानम्** अपि हे पुरुष चिकित्सक **तव** तुभ्यं **सनेयं** ददामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ I will give to you: saneyam = dadāmi; or, saṃbhajeyam, may I possess;
 **Puruṣa** = **yajña puruṣa**, you whopreside over the sacrifice: **Yajus**. 12.78
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O mothers, called “plants,” o goddesses, I implore you in this way: “Might I gain a horse, a cow, a garment, (in gaining [=curing]) your  
 very self, o man.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Plants, by this name I speak to you, Mothers, to you the Goddesses:  
      Steed, cow, and garment may I win, win back thy very self, O man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Mütter, Kräuter genannt, ihr Göttinnen, darum spreche ich euch an: Ich möchte Roß, Rind, ein Kleid gewinnen und deinen Lebensgeist, o Mann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Mütterchen, ihr himmlischen, ihr Kräuter all, ich sag' es euch: Ross, Rind und Rock muss haben ich – sammt deinem Leben, lieber Mann!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, матери, называемые растениями!  
 Вот что, богини, я вам говорю:  

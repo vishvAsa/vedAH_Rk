@@ -8,7 +8,7 @@ title = "+098"
 ‘अध्वर्यवः' इति सप्तर्चं नवमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैन्द्रं सप्तम्यैन्द्राबार्हस्पत्या । तथा चानुक्रान्तम्- अध्वर्यवः सप्तोक्तदेवतान्त्या' इति । पूर्वसूक्तेन सहोक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 98 (614)  
 Indra (1–6), Indra and Br̥haspati (7)  
@@ -19,7 +19,7 @@ tion with soma, always tantalizingly alludes to apparently fraught family dynami
 The poet, of course, wishes to profit from the battle-might soma inspires in  Indra (vs. 4) and receive some of the spoils of his victories (vs. 6).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

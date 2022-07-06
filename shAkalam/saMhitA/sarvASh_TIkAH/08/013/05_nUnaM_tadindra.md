@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नूनं꣡ त꣡द् इन्द्र दद्धि नो  
 य꣡त् त्वा सुन्व꣡न्त ई꣡महे  
 रयिं꣡ नश् चित्र꣡म् आ꣡ भरा सुवर्वि꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 र॒यिम् । नः॒ । चि॒त्रम् । आ । भ॒र॒ । स्वः॒ऽविद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nūnaṃ* ← *nūnam*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M;; line affected by realignment
 हे **इन्द्र** **नूनम्** अवश्यं **तत्** धनं **नः** अस्मभ्यं **दद्धि** ददस्व । ‘दद दाने'। व्यत्ययेन परस्मैपदम्। छान्दसः शपो लुक् । **यत्** धनं **त्वा** त्वां **सुन्वन्तः** सोममभिषुण्वन्तो वयम् **ईमहे** याचामहे । अपि च **चित्रं** चायनीयं **स्वर्विदं** सर्वस्य लम्भकं यद्वा स्वर्गस्य वेदितारमास्तिकं **रयिं** पुत्रं **नः** अस्मभ्यम् **आ** **भर** आहर ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,24 +124,24 @@ genre M;; line affected by realignment
 Svarvidam = svargasya lambhakam; or, one whopossesses or communicates knowledge of heaven, svargasya veditāram, i.e., a son
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, o Indra, give us that which we pressers beg of you.  
 Bring here to us the shimmering wealth that finds the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even now, O Indra, give us that which, pressing juice, we crave of thee.  
      Bring us wealth manifold which finds the light of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns auch gewiß, o Indra, das worum wir Somapresser dich angehen, bring uns ansehnlichen, sonnigen Reichtum!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сейчас, о Индра, дай нам то,  
 О чем мы, выжимая сому, просим тебя.  

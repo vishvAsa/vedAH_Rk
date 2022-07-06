@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ङ्गिरसो नः पित꣡रो न꣡वग्वा  
 अ꣡थर्वाणो भृ꣡गवः सोमिया꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पि भद्रे꣡ सौमनसे꣡ सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 तेषा॑म् । व॒यम् । सु॒ऽम॒तौ । य॒ज्ञिया॑नाम् । अपि॑ । भ॒द्रे । सौ॒म॒न॒से । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aṅgiraso* ← *aṅgirasaḥ* ← *aṅgiras*
 - \[noun\], nominative, plural, masculine
@@ -108,7 +108,7 @@ popular;; repeated line
 **अङ्गिरसः** अङ्गिरोनामकाः **अथर्वाणः** अथर्वनामकाः **भृगवः** भृगुनामकाश्च **नः** अस्माकं **पितरः** **नवग्वाः** अभिनवगमनयुक्ताः । सदा नूतनवत्प्रीतिजनका इत्यर्थः। ते च **सोम्यासः** । सोममर्हन्तीति सोम्याः । **यज्ञियानां** यज्ञार्हाणां **तेषां** **सुमतौ** अनुग्रहयुक्तायां बुद्धौ **वयं** **स्याम** सर्वदा तिष्ठेम । **अपि** च **सौमनसे** **भद्रे** सौमनसस्य कारणे कल्याणे फले स्याम सर्वदा तिष्ठेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,34 +119,34 @@ popular;; repeated line
 Our recent progenitors: navagvā = having recently arrived, or inspiring affliction, as something new;also applied to the three classes; or, navanīya, those condition is to be praised
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Aṅgirases, our forefathers, the Navagvas, the Atharvaṇas, the  Bhr̥gus deserving of soma—  
 may we be in the favor of these who are deserving of the sacrifice; may  we be also in their propitious benevolence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Our Fathers are Angirases, Navagvas, Atharvans, Bhrgus who deserve the Soma.  
      May these, the Holy, look on us with favour, may we enjoy their gracious loving-kindness.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The Aṅgiras, our fathers, the Navagvas, The Bhṛgus and Atharvans, Soma-loving: May we abide for ever in the favour And the good graces of those holy sages.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unsere Väter, die Angiras, die Navagva´s, die Atharvan´s, Bhrigu´s, die Somawürdigen - in der Gunst dieser Opferwürdigen und in ihrem glückbringenden Wohlwollen möchten wir sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Angiras, die Neuner, und die Väter, die Feuerpriester und die frommen Bhrigu's, Sie mögen fest in ihrer Huld uns halten, die heiligen im Segen ihrer Liebe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ангирасы – наши отцы, Навагва,  
 Атхарваны, Бхригу, достойные Сомы,  

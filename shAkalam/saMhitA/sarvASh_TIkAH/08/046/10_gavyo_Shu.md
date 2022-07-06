@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गव्यो꣡ षु꣡ णो य꣡था पुरा꣡  
 अश्वया꣡ उत꣡ रथया꣡  
 वरिवस्य꣡ महामह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 व॒रि॒व॒स्य । म॒हा॒ऽम॒ह॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gavyo* ← *gavyu*
 - \[noun\], vocative, singular, masculine
@@ -81,40 +81,40 @@ genre M
 हे **महामह** महाधनेन्द्र **गव्या** । गव्या उ इति निपातानिपातद्वयसमुदायस्यादिवद्भावेन निपातवद्भावात् प्रकृतिभावः । अस्माकं गवामिच्छया अस्माकं गा दातुं **यथा** **पुरा** पूर्वं यथास्माकं गवादिदानाय वरिवस्यसि तद्वदद्यापि **सु** सुष्ठु वरिवस्य परिचर । आगच्छेत्यर्थः । न केवलं गवेच्छथा किंतु **अश्वया** अश्वप्रदानेच्छया । **उत** अपि च **रथया** रथेच्छया च वरिवस्येति ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of wealth, visit us as of old, go give us cows, horses and chariots.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At our desire for cows, for horses, and for chariots, (now) just as before, create wide space for us, you greatly great one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Despite appearances, gavyó is entirely parallel to aśvayā́and rathayā́ later in the verse, since it consists of gavyā́+ u.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Responding to our wish for cows, for steeds, and chariots, as of old,  
      Be gracious, Greatest of the Great
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In unserem Verlangen nach Rindern, Rossen und Wagen mach doch ja wie früher freie Bahn, du Großmächtiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und unsern Wunsch gewähre du nach Wagen und nach Ross und Rind, wie früher auch, du mächtiger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Создай же, как прежде, нам,  
 (Одержимым) желание иметь коров, коней, колесницы,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्प꣡र्धन्ते वा꣡ उ देवहू꣡ये अ꣡त्र  
 ये꣡षु ध्वजे꣡षु दिद्य꣡वः प꣡तन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हत꣡म् प꣡राचः श꣡रुवा वि꣡षूचः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यु॒वम् । तान् । इ॒न्द्रा॒व॒रु॒णौ॒ । अ॒मित्रा॑न् । ह॒तम् । परा॑चः । शर्वा॑ । विषू॑चः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *spardhante* ← *spṛdh*
 - \[verb\], plural, Present indikative
@@ -115,36 +115,36 @@ genre M
 **देवहूये** । देवा विजिगीषवो योद्धारो हूयन्ते युद्धार्थं परस्परमाहूयन्त इति देवहूयः संग्रामः । **अत्र** अस्मिन् देवहूये संग्रामे **स्पर्धन्ते** **वै** शत्रवोऽस्माभिः स्पर्धन्ते खलु । **उ** इति पूरकः । **येषु** संग्रामेषु **ध्वजेषु** पताकासु **दिद्यवः** शत्रुक्षिप्तान्यायुधानि **पतन्ति** **तान्** तेषु संग्रामेषु विद्यमानान् **अमित्रान्** शत्रून् हे **इन्द्रावरुणौ** **युवं** युवां **शर्वा** शरुणा हिंसकेनायुधेन **पराचः** पराङ्मुखान् **विषूचः** विविधगतींश्च **हतं** हिंस्तम् । यथा ते शत्रवः पराङ्मुखा इतस्ततः पलायमानाश्च भवन्ति तथा तान् बाधेथामित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In the conflict where (combatants) strive against us, in those (contests) in which bright (weapons) fallupon the banners, do you two, **Indra** and **Varuṇa**, slay with your shaft those enemies who have been routed, andare scattered in various directions.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Surely they contest with one another here in summoning the gods, where  missiles fly amid the banners.  
 O Indra and Varuṇa, with your arrow strike those enemies, that they be  far away and dispersed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here where the arrows fall amid the banners both hosts invoke the Gods in emulation.  
      O Indra-Varuna, smite back those-our foemen,yea, smite them withyour shaft to every quarter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Menschen wetteifern dann fürwahr in der Götteranrufung, wenn unter den aufgesteckten Bannern die Pfeile fliegen. Indra und Varuna! Schlaget die Feinde mit eurem Geschoß in die Flucht und auseinander!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wetteifernd rufen Götter an die Heere, wo bei den Bannern dort Geschosse fliegen, Die Feinde jaget, Varuna und Indra, hinweg mit Pfeilen nach verschiednen Seiten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В самом деле, здесь состязаются мужи в призыве богов,  
 Когда среди знамен летают стрелы.  

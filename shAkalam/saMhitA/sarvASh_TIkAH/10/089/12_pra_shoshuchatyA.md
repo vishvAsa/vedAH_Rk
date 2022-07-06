@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ शो꣡शुचत्या उष꣡सो न꣡ केतु꣡र्  
 असिन्वा꣡ ते वर्तताम् इन्द्र हेतिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡पिष्ठेन हे꣡षसा द्रो꣡घमित्रान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अश्मा॑ऽइव । वि॒ध्य॒ । दि॒वः । आ । सृ॒जा॒नः । तपि॑ष्ठेन । हेष॑सा । द्रोघ॑ऽमित्रान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -121,37 +121,37 @@ genre M
 हे **इन्द्र** **ते** तव **असिन्वा** भेदनरहितं  **हेतिः** वज्राख्यमायुधं **शोशुचत्याः** ज्वलन्त्याः **उषसो** **न** यथोषसः **केतुः** पताकास्थानीयो रश्मिस्तद्वच्छत्रुषु **प्र** **वर्तताम्**। किंच **तपिष्ठेन** अतिशयेन शत्रूणां तापयित्र्या **हेषसा** शब्दकारिण्या हेत्या **द्रोघमित्रान्** । द्रुग्धानि मित्राणि येषां ते द्रोघमित्राः । तान् शत्रून् **विध्य** ताडय । तत्र दृष्टान्तः । **दिव** **आ** **सृजानः** सृज्यमानः **अश्मेव**। यथाशनिः वृक्षान् विध्यति तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your unbroken weapon, **Indra**, proceed (against your foes), like the banner of the shining dawn,like a stone cast down from heaven, pierce those whose friendship is deceitful with your consumingloud-sounding (weapon).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the beacon of the ever-blazing dawn, let your insatiable missile go  rolling forth, Indra.  
 Like a stone being launched from heaven, pierce with your hottest  
 weapon those whose alliances are deceitful.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forward, as herald of refulgent Morning, let thine insatiate arrow fly, O Indra.  
      And pierce, as 'twere a stone launched forth from heaven, with hottest blaze the men who love deception.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie das Zeichen der erglühenden Usas soll, Indra, dein verschlingendes Geschoß hervorkommen. Wie der vom Himmel geschleuderte Stein triff mit glühendstem Eifer die Freundbetrüger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich wie der Schein der hellen Morgenröthe eil' unersättlich vor dein Pfeil, o Indra, Durchbohre wie ein Schleuderstein vom Himmel, mit heissestem Geschoss die Lügenfreunde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть, как символ ярко пылающей Ушас,  
 Устремиться твой ненасытный выстрел, о Индра!  

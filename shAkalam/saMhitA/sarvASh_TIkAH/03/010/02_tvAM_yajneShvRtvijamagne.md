@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ यज्ञे꣡षु ऋत्वि꣡जम्  
 अ꣡ग्ने हो꣡तारम् ईळते  
 गोपा꣡ ऋत꣡स्य दीदिहि सुवे꣡ द꣡मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 गो॒पाः । ऋ॒तस्य॑ । दी॒दि॒हि॒ । स्वे । दमे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -87,40 +87,40 @@ genre M;; line affected by realignment
 हे अग्नेऽध्वर्व्यादयो यज्ञेष्टग्निष्टोमादिषु त्वां होतारमृत्विजं होतृनामकमृत्विजमीळते । स्तुवन्ति । तादृशस्त्वमृतस्य सत्यस्य यज्ञस्य गोपा गोपायिता सन् स्वे दमे स्वकीये गृहे यज्ञशालायां दीदिहि । दीप्यस्य । दीदिहि । दिवु क्रीडादौ । यङ् लुक् । लोट् । तुजादित्वादभ्यासदीर्घत्वम् । सञ्ज्ञापूर्वको विधिरनित्य इत्यभ्यासस्य गुणाभावे ल्पोप् व्योर्वलीति वलोपः ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They praise you as the priest, the invoker (of the gods) at sacrifice; shine forth the protector of the pious rite in your own abode.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You do they summon as priest at the sacrifices and as Hotar, o Agni. Shine as the herdsman of truth in your own house.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They laud thee in their solemn rites, Agni, as Minister and Priest,  
      Shine forth in thine own home as guardian of the Law.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, the Ritvig, the Hotri, they magnify at the sacrifices. Shine as the guardian of Rita in thy own house 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich berufen sie als den Priester bei den Opfern, als Hotri, o Agni. Als Hüter der Opferordnung scheine im eigenen Hause!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Opfern preisen Agni dich, den Priester sie, den opfernden; Als Rechtes Hüter leuchte du – im eignen Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя на жертвоприношениях как жреца,  
 О Агни, они призывают как хотара.  

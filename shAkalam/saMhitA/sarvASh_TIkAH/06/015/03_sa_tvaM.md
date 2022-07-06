@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्वं꣡ द꣡क्षस्य अवृको꣡ वृधो꣡ भू᳐र्  
 अर्यः꣡ प꣡रस्य अ꣡न्तरस्य त꣡रुषः  
@@ -15,7 +15,7 @@ ChandaH = "शक्वरी"
 भर꣡द्वाजाय सप्र꣡थः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 रा॒यः । सू॒नो॒ इति॑ । स॒ह॒सः॒ । मर्त्ये॑षु । आ । छ॒र्दिः । य॒च्छ॒ । वी॒तऽह॑व्याय । स॒ऽप्रथः॑ । भ॒रत्ऽवा॑जाय । स॒ऽप्रथः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -133,7 +133,7 @@ genre M
 हे अग्ने **सः** तादृशः **अवृकः** बाधकरहितः **त्वं** **दक्षस्य** अनुष्ठानसमर्थस्य **वृधः** वर्धयिता **भूः** भवसि । तथा **परस्य** विप्रकृष्टस्य **अर्यः** अरेः शत्रोः **अन्तरस्य** अन्तिकतरस्य संनिकृष्टस्य शत्रोः **तरुषः** तरिता भवसि । अतः कारणात् हे **सहसः** **सूनो** **सप्रथः** सर्वतः पृथुस्त्वं **मर्त्येषु** मनुष्येषु मध्ये **भरद्वाजाय** संभृतहविर्लक्षणान्नाय **वीतहव्याय** । वीतं गमितं हव्यं हविर्येन तादृशाय भरद्वाजायेति वा योज्यम् । **रायः** धनानि **छर्दिः** गृहं **आ** **यच्छ** प्रयच्छ । सप्रथ इति पुनरुक्तिरादरार्था ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ Vītahavya, the bearer, bharat, of the oblation;
 **Vāja** = **bharadvāja**, by whom is offered, **vīta**, the oblation, **havya**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You—become a strengthener of our skill, one who keeps the wolf away,  an overcomer of the stranger, distant or close.  
 O son of strength, (hold out) riches among mortals, hold out shelter of  great extent to Vītahavya, of great extent to Bharadvāja.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be thou the foeless helper of the skilful man, subduer of the enemy near or far away.  
      Bestow a wealthy home on men, O Son of Strength. Give Vitahavya riches spreading far and wide, give Bharadvaja wide-spread wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei du ein sicherer Förderer des Tüchtigen, ein Überwinder des fremden und des nahen Nebenbuhlers. Verleih, o Sohn der Kraft, unter den Sterblichen dem Vitahavya Reichtümer und deinen Schirm in ganzer Breite, dem Bhagradvaja deinen Schirm in ganzer Breite.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei du des Tücht'gen treugesinnter Förderer, des nahen und des fernen Feinds Bewältiger; Und Schätze gib, o Sohn der Kraft, den Sterblichen; dem Vitahavja reiche ausgedehnten Schutz, (dem Bharadvadscha weiten Schutz.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для деятельного человека будь ты невраждебным, усиливающим (его),  
 Победителем врага, далекого и близкого!  

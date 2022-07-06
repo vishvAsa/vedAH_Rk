@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् अद्य꣡ अ꣡न्तमं  
 स्तो꣡मं धिष्व महामह  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 म꣡दाय द्युक्ष सोमपाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्माक॑म् । ते॒ । सव॑ना । स॒न्तु॒ । शम्ऽत॑मा । मदा॑य । द्यु॒क्ष॒ । सो॒म॒ऽपाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -111,37 +111,37 @@ genre M
 हे **महामह** महतामपि महन् महापूज वा **अद्य** **अन्तमम्** अन्तिकतमम् **अस्माकं** मेध्यातिथीनां **स्तोमं** **धिष्व** धारय । हे **द्युक्ष** दीप्त **सोमपाः** सोमस्य पातरिन्द्र **ते** तव **मदाय** मदार्थं **सवना** सवनानि **अस्माकं** **शंतमा** शंतमानि सुखतमानि **सन्तु** भवन्तु ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Greatest of the great, brilliant drinker of the **Soma**, accept today this our present praise; may oursacrifices be most sucessful in exciting your exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Set our praise today nearest to yourself, you greatly great one;  
 let our pressings be most availing to you for exhilaration, you  
 heaven-ruling soma-drinker.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O thou Most Lofty One, accept our laud as nearest to thine heart.  
      May our libations be most sweet to make thee glad, O Soma-drinker, Heavenly Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unser Loblied laß dir heute recht nahe gehen, Großmächtiger! Unsere Trankspenden sollen dir die zusagendsten sein, zum Rausche, du himmlischer Somatrinker!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimm unsern liebsten Lobgesang, o mächtig grosser, heute an; Zum Rausche soll dir unser Trank der liebste sein, o Somatrinker, himmlischer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наше восхваление сегодня сделай себе  
 Самым близким, о (ты) очень великий!  

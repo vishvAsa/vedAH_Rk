@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡सुर् व꣡सुपतिर् हि꣡ कम्  
 अ꣡सि अग्ने विभा꣡वसुः  
 स्या꣡म ते सुमता꣡व् अ꣡पि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्याम॑ । ते॒ । सु॒ऽम॒तौ । अपि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vasur* ← *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
@@ -93,37 +93,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** त्वं **विभावसुः** दीप्तिधनः **वसुपतिः** धनपतिः **वसुः** वासयिता च **असि** भवसि **हि** यस्मादतो वयम् **अपि** **ते** तव **सुमतौ** अनुग्रहबुद्धौ **स्याम** भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, you are rich in splendour, the lord of wealth, and the giver of dwellings; may we too abide in yourfavour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you are surely the good lord of goods, Agni, with  
 far-radiant goods,  
 may we be in your benevolence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Excellent and Lord of wealth. art thou O Agni, rich in light:  
      May we enjoy thy favouring grace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du bist der gütige Güterherr, glanzreich, o Agni. Wir möchten in deiner Gunst stehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du bist guter Herr des Guts, du bist, o Agni, glanzbegabt, Lass fest uns stehn in deiner Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благой (и сам), ведь ты же повелитель благ,  
 О Агни, чье благо – это блеск.  

@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ क्ष꣡पः प꣡रि षस्वजे  
 नि꣡ उस्रो꣡ माय꣡या दधे  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 तस्य॑ । वेनीः॑ । अनु॑ । व्र॒तम् । उ॒षः । ति॒स्रः । अ॒व॒र्ध॒य॒न् । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -145,7 +145,7 @@ genre M;; repeated line
 **सः** वरुणः **क्षपः** रात्रीः **परि** **षस्वजे** परिष्वजते । अपि च **दर्शतः** दर्शनीयः **सः** वरुणः **उस्रः** उत्सरणशीलः सन् **विश्वं** **मायया** कर्मणा **परि** परितः **नि** **दधे** निदधाति । किंच **तस्य** वरुणस्य **व्रतं** कर्म **वेनीः** कामयमानाः प्रजाः **तिस्रः** **उषः** त्रिषु प्रातर्माध्यंदिनं सायं च **अनु** **अवर्धयन्** अनुवर्धयन्ति । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,7 +156,7 @@ genre M;; repeated line
 Quick of movement: utsaraṇaśīlaḥ: usra = morning
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He holds the nights in his embrace; by his magic art he deposited the  ruddy (dawns). He (holds) everything in his embrace—the one lovely  to see.  
 Following his commandment, his trackers [=nights?] increased the  
@@ -164,30 +164,30 @@ three dawns.
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I don’t understand the purport of this vs., esp. de. Geldner and Renou suggest various possible referents for the vénīḥ and for the three dawns, all possible and none particularly compelling.
 
 I supply sasvaje with the pári in c, on the basis of pári ṣasvaje in a. Geldner and Renou construe the pāda without a verb (e.g., Geldner: “er ist rings um die Welt sichtbar”). This is possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The nights he hath encompassed, and stablished the morns with magic art visible over all is he.  
      His dear Ones, following his Law, have prospered the Three Dawns for him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Nächte hält er umschlungen; durch seine Zaubermacht hat er die Morgenröten eingesetzt; er ist rings um die Welt sichtbar. Nach seinem Gebote haben seine Liebenden die drei Morgenröten großgezogen. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er hat die Mächte rings umfasst, die Morgen weise eingesetzt, um alles ist er rings zu schaun. Drei Morgenröthen segnete auf sein Geheiss der Schwestern Schar. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он обнял ночи.  
 Волшебной силой он спрятал зори,  

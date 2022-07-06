@@ -8,7 +8,7 @@ title = "+012"
 ‘ द्यावा' इति नवर्चं द्वादशं सूक्तमाङ्गेर्हविर्धानस्यार्षं त्रैष्टुभमाग्नेयम् ।“ द्यावा' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 12 (838)  
 Agni  

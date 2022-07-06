@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सभा꣡म् एति कितवः꣡ पृछ꣡मानो  
 जेष्या꣡मी꣡ति तनु꣡वा शू꣡शुजानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रतिदी꣡व्ने द꣡धत आ꣡ कृता꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒क्षासः॑ । अ॒स्य॒ । वि । ति॒र॒न्ति॒ । काम॑म् । प्र॒ति॒ऽदीव्ने॑ । दध॑तः । आ । कृ॒तानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sabhām* ← *sabhā*
 - \[noun\], accusative, singular, feminine
@@ -114,7 +114,7 @@ popular
 **तन्वा** शरीरेण **शू** शुजानः शोशुचानो दीप्यमानः **कितवः** कोऽत्रास्ति धनिकस्तं **जेष्यामीति** **पृच्छमानः** पृच्छन् **सभां** कितवसंबन्धिनीम् **एति** गच्छति । तत्र **प्रतिदीव्ने** प्रतिदेवित्रे  कितवाय **कृतानि** देवनोपयुक्तानि कर्माणि **आ** **दधतः** ज़यार्थमाभिमुख्येन मर्यादया वा दधतः **अस्य** कितवस्य **कामम्** इच्छाम् **अक्षासः** अक्षाः **वि** **तिरन्ति** वर्धयन्ति । '
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,34 +125,34 @@ popular
 Shall I win: askingwhat rich man is here; I shall beat him
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gambler goes to the hall of play asking himself, “will I win?”  puffing himself up with “I will win!”  
 The dice run counter to his desire, conferring the winning throws on his  opponent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The gamester seeks the gambling-house, and wonders, his body all afire, "Will I be lucky?"  
      The dice run against his desire, giving the best throws to his adversary.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 To the assembly hall the gambler sallies. And asking, "Shall I win?" he quakes and trembles. And then the dice run counter to his wishes, Giving the lucky throw to his opponent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In die Halle geht der Spieler sich erkundigend und sich breit machend in der Hoffnung: Ich werde siegen. Die Würfel aber halten seinen Wunsch hin, indem sie dem Gegenspieler die höchsten Würfe zubringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ins Spielhaus geht der Spieler voll Begierde, »heut sieg' ich«, spricht er, auf sich selbst vertrauend; Die Würfel steigern höher sein Begehren, was er gewonnen, setzt er ein dem Gegner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В собрание идет игрок, спрашивая себя:  
 Я выиграю? (и) подбадривая себя.  

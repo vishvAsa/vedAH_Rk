@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रायो꣡ धा꣡रासि आघृणे  
 व꣡सो राशि꣡र् अजाशुव  
 धी꣡वतो-धीवतः स꣡खा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धीव॑तःऽधीवतः । सखा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
@@ -85,41 +85,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **आघृणे** आगतदीप्ते पूषन् **रायः** धनस्य **धारा** **असि** प्रवाहो भवसि । स्तोतृभ्यो बहुधनं नैरन्तर्येण प्रयच्छसीत्यर्थः । **अजाश्व** । अजाश्छागा एवाश्वा अश्वकार्यापन्ना यस्य तादृश पूषन् 'वसोः वसुनः धनस्य **राशिः** संघश्च भवसि । धनसंघश्च त्वय्येव निवसतीत्यर्थः । **धीवतोधीवतः** सर्वस्य स्तोत्रवतः पुरुषस्य **सखा** मित्रभूतश्च भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Illustrious **Pūṣan**, you are a torrent of riches; you, who have a goat for your steed, are a heap of wealth; the friend of every worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are a stream of wealth, glowing one, a heap of goods, you with goats  as horses,  
 the companion of every visionary.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The āmreḍita dhī́vato-dhīvataḥ ‘of every visionary’ recalls the focus on dhī́- in the nearby hymn (VI.53.1, 4, 10).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright God whose steeds are goats, thou art a stream of wealth, a treasure-heap,  
      The Friend of every pious man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Strom des Reichtums bist du, eine Fülle von Gut, du ....., der mit Böcken statt Rossen fährt, der Freund eines jeden Liedersinnenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Reichthums Strom, des Gutes Schwall bist, lichter Ziegenlenker, du Und jedes frommgesinnten Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты поток богатства, о пламенный,  
 Куча добра, о ты, ездящий на козлах вместо коней,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ पुष्पि꣡णीश् च प्रसु꣡वश् च ध꣡र्मणा  
 अ꣡धि दा꣡ने वि꣡ अव꣡नीर् अ꣡धारयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उरु꣡र् ऊर्वाँ꣡ अभि꣡तः सा꣡सि उक्थि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । च॒ । अस॑माः । अज॑नः । दि॒द्युतः॑ । दि॒वः । उ॒रुः । ऊ॒र्वान् । अ॒भितः॑ । सः । अ॒सि॒ । उ॒क्थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -138,21 +138,21 @@ genre M
 हेइन्द्र यस्त्वं पुष्पिणीः पुष्पवतीश्चप्रस्वः प्रसूताः प्रसूयमानावा अवनीरवित्रीरोषधीः दानेधि दीयन्ते उपलूयन्तेसस्यान्यत्रेतिदानङ्क्षेत्रं अधिकरणेल्युट् तस्मिन्क्षेत्रे धर्मणा सकललक्षणेनकर्मणाच व्यधारयः न्यदधाः यश्चत्वन्दिवोद्योतमानस्य सूर्यस्यअसमाः विषमाः नानाप्रकारादिद्युतः दीप्तीः रजनः अजनयः यद्वा दिवोनक्षत्राणि जनेर्लङिव्य्तत्ययेनशप् यश्चोरुः महांस्त्वं अभितः सर्वतः ऊर्वान् महतः प्राणिनिकायान् पर्वतान्वा अजनयः शिष्ठंस्पष्टम् ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You who have caused, by culture, the flowering and fruitful (plural nts) to spread over the field; who have genitive rated the various luminaries of heaven; and who, of vast bulk, comprehend vast (bodies); you are he who is to be praised.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, who established separately the flowering and fruitful (plants)  according to the foundation (of each) and the streams at their  
 division;  
 and you, who gave birth to the unequalled flashings of heaven; you, the  wide one surrounding the containers—you are worthy of hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 dā́na- in b is almost universally taken as ‘pasture’ (Weide) or ‘earth’ (Renou ‘sur terre’), a meaning attributed to dā́na- only in this passage. The interpr. goes back, one way or the other, to Sāyaṇa: upalūyante sasyāny atreti dānaṃ kṣetram. His remark “grain is cut there” implies a connection with √dā ‘reap, mow’ (EWA’s DĀ2 ). His gloss ‘field’ (dānaṃ kṣetram) is repeated thereafter, most influentially in BR, though they seem to derive the word from √dā ‘divide’ (EWA’s DĀ4 ); subsequent adoptors of the gloss do not bother to comment on the etymology. Sāyaṇa’s implied derivation from √dā ‘reap’ is appealing. There are several clear exx. of the root pres. of this root in the RV (grouped under Grassmann’s 2. dā), as well as nominal derivatives (see EWA s.v. DĀ2 ). The reference in this vs. to the establishment of flowering and fruitful plants would have helped preserve a lexical item specific to agriculture, even though it is homonymous with the more common dā́na- ‘gift’ (and see differently accented dānā́ya ‘to give, for giving’ in 13a).
 
@@ -169,23 +169,23 @@ The last difficulty of this challenging verse is the first part of d, urúr ūrv
 What is striking about this vs. is that, unlike the usual cosmogonic vss., which refer to large generic parts of creation (heaven, earth, etc.), this one highlights particular idiosyncratic aspects of the grand cosmic divisions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou who hast spread abroad the streams by stablished law, and in the field the plants that blossom and bear seed;  
      Thou who hast made the matchless lightnings of the sky,-vast, compassing vast realms, meet for our praise art thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du die blühenden und fruchttragenden Pflanzen nach der Ordnung und die Flüsse über das Feld verteilt hast, und der du die unvergleichlichen Geschosse des Himmels erzeugtest, selbst breit die Meere ringsum ausgebreitet hast. - Der du dies zuerst gemacht hast, - darum bist du preisenswert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der auf der Trift du, was erblüht und Samen trägt, und Bäche auch vertheiltest, wie's die Ordnung heischt, Und der des Himmels prächt'ge Blitze du erschufst und Wolkenbecken weit darum, das ist dein Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты,) что распределил в поле цветущие и плодоносящие (растения),  
 (А также) реки в соответствии с (естественным) порядком,  

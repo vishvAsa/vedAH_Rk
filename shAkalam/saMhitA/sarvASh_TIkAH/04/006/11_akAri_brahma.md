@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡कारि ब्र꣡ह्म समिधान तु꣡भ्यं  
 शं꣡साति उक्थं꣡ य꣡जते वि꣡ ऊ धाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नमस्य꣡न्त उशि꣡जः शं꣡सम् आयोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 होता॑रम् । अ॒ग्निम् । मनु॑षः । नि । से॒दुः॒ । न॒म॒स्यन्तः॑ । उ॒शिजः॑ । शंस॑म् । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akāri* ← *kṛ*
 - \[verb\], singular, Aorist passive
@@ -128,7 +128,7 @@ genre M
 हे **समिधान** समिध्यमानाग्ने **तुभ्यं** त्वदर्थं **ब्रह्म** स्तोत्रम् **अकारि** अस्माभिः कृतम् । होता **उक्थं** शस्त्ररूपं स्तोत्रं **शंसाति** शंसति ॥  ‘ शंसु स्तुतौ ' । 'लेटोऽडाटौ ' इत्याडागमः ॥ त्वां यजमानः **यजते** । अतः कारणात् अस्मभ्यं धनं **वि** **धाः** विधेहि ॥ दधातेश्छान्दसे लुङि  ‘ बहुलं छन्दसि ' इत्यडभावः ॥ **उ** इति पादपूरणः । किंच **आयोः** मनुष्यस्य **शंसं** शंसनीयं **होतारं** देवानामाह्वातारम् **अग्निं** त्वां **नमस्यन्तः** पूजयन्तः **उशिजः** पश्वादिलक्षणं धनं कामयमानाः **मनुषः** मनुष्या ऋत्विजः **नि** **षेदुः** उपाविशन् । सेवन्ते इत्यर्थः ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,7 +139,7 @@ genre M
 The prayer has been composed: akāri **brahma** + the prayer or praise has been made
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A sacred formulation has been made for you, o kindled one. (The  priest) will recite the solemn speech to (you as you) sacrifice. (Now  
 you—) apportion (treasures).  
@@ -147,28 +147,28 @@ The fire-priests have set down Agni as the Hotar of Manu, giving
 homage to (him as) “Laud of Āyu.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee, O flaming God, hath prayer been offered. Let the priest laud thee: give to him who worships.  
      Men have established Agni as Invoker, fain to adore the glory of the living.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 (This) hymn has been produced for thee, O Agni, when thou wert kindled. May (the priest) recite the litany; mayst thou distribute (treasures) to him who sacrifices. Men have set down Agni as the Hotri, the Usigs, adoring (Him), the praise of Âyu 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eine Erbauung ist dir bereitet, o Entflammter. Der Hotri soll das Lobgedicht vortragen; er spricht den Weihespruch; teile du Lohn zu. Als Opferpriester des Manu haben sie den Agni eingesetzt, die huldigenden Usij ihn, den Preis des Ayu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vollbracht ist dir, entzündeter, die Andacht, der Spruch gesprochen, spende nun dem Opfrer; Den Priester Agni setzten ein die Menschen, verehrend, heischend, ihn, den Preis der Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приготовлено заклинание для тебя, о зажженный.  
 (Хотар) собирается произносить гимн. (Жертвователь) приносит жертву.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्र ब्रह्मणस् पते  
 अभिद्रोहं꣡ च꣡रामसि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 द्विषता꣡म् पातु अं꣡हसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 प्रऽचे॑ताः । नः॒ । आ॒ङ्गि॒र॒सः । द्वि॒ष॒ताम् । पा॒तु॒ । अंह॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -94,7 +94,7 @@ popular;; epic anuṣṭubh (525)
 हे **इन्द्र** हे **ब्रह्मणस्पते** युवयोर्विषये **यत्** **अभिद्रोहम्** अभितो द्रोहकं पापं दुःस्वप्नकारणं **चरामसि** आचरामः कुर्मः तस्मादभिद्रोहादस्मात् रक्षतमिति शेषः । अपि च **आङ्गिरसः** अङ्गिरोभिः स्तोतृभिः सबान्धवः **प्रचेताः** प्रकृष्टज्ञानो वरुणश्च **द्विषतां** द्वेष्टॄणाम् **अंहसः** तत्कर्तृकादस्मद्विषयात्पापात् **नः** अस्मान् **पातु** रक्षतु । यद्वा । विभक्तिव्यत्ययः । आङ्गिरसमङ्गिरोगोत्रं प्रचेतसमृषिं नः । वचनव्यत्ययः । मां द्विषतामंहसः पातु । प्रकृतत्वादिन्द्र इति गम्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,25 +105,25 @@ popular;; epic anuṣṭubh (525)
 Pracetas: may be a reference to **Varuṇa**; or,
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, lord of the sacred formulation, if we practice deceit,  
 let the attentive Āṅgiras protect us from the coercion of those who  
 hate us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Indra, Brahmanaspati, our deeds are wrongful and unjust,  
      May provident Angirasa prevent our foes from troubling, us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir, Indra, Brahmanaspati, eine Sünde begehen, so soll uns der vorsorgende Angirase vor der Bedrängnis der Feinde schützen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если, о Индра, о Брахманаспати,  
 Мы наносили оскорбление,  

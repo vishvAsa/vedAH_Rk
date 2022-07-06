@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् हो꣡ता दा꣡सुवतः  
 क्ष꣡यस्य वृक्त꣡बर्हिषः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सं꣡ वा꣡जासः श्रवस्य꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सम् । य॒ज्ञासः॑ । चर॑न्ति । यम् । सम् । वाजा॑सः । श्र॒व॒स्यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -96,42 +96,42 @@ genre M
 **यम्** अग्निं **यज्ञासः** सर्वे यज्ञाः **सं** **चरन्ति** सहिता गच्छन्ति । **श्रवस्यवः** यजमानस्य प्रभूतां कीर्तिं संपादयन्तः **वाजासः** हवींषि यमग्निं **सं** चरन्ति प्राप्नुवन्ति । एवंविशिष्टः **अग्निः** **दास्वतः** हविष्प्रक्षेपणादिदानवतः **वृक्तबर्हिषः**। वृक्तानि लूनानि बर्हींषि दर्भा येनासौ वृक्तबर्हिः । तस्य **क्षयस्य** । क्षियन्ति निवसन्त्यस्मिन् स्वर्गसाधनफलानीति क्षयः । तस्य यजमानस्य यागार्थं **होता** देवानामाह्वाता भवति ॥ दास्वतः । ‘दा दाने '। असुन्प्रत्ययान्तः । मतुपः आदुपधत्वात् वत्वम् । धातुस्वरेणाद्युदात्त एव। क्षयस्य । ‘क्षि निवासगत्योः'। 'क्षयो निवासे ' इत्याद्युदात्तत्वम् । वृक्तबर्हिषः ।  ‘ वृजी वर्जने '। वर्जनम् अत्रोपचारात् छेदनम् । निष्ठा । प्रत्ययस्वरेणान्तोदात्तः । बहुव्रीहित्वात् पूर्वपदप्रकृतिस्वरत्वम् । यज्ञासः । यज्ञशब्दः ‘यजयाच°' इत्यादिना नड्प्रत्ययान्तः अन्तोदात्तः । चरन्ति । ‘चर गतिभक्षणयोः'। अदुपदेशाल्लसार्वधातुकानुदात्तत्वम् ।' यद्वृत्तान्नित्यम्' इति निघाताभावः । वाजासः । वजेर्घञ्  । वाजः । ‘कर्षात्वतः° ' इत्यन्तोदात्तत्वम्। छान्दसत्वात् ‘ ञ्नित्यादिर्नित्यम्' इत्याद्युदात्तः । श्रवस्यवः ।  ‘ छन्दसि परेच्छायाम्' इति क्यच् । 'क्याच्छन्दसि' इत्युप्रत्ययः । प्रत्ययस्वरेणान्तोदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, is the invoker of the gods (on behalf of) him, the donor (of the oblation), the abode (of the fruit of good works), by whom the sacred grass has been strewn; (he) in whom congregate all sacrifices securing food and fame.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni is the Hotar of the dwelling rich in gifts, in which the ritual grass is  twisted,  
 upon whom sacrifices converge and the prizes and seekers of fame  
 (converge);
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the man's home who offers gifts, where grass is trimmed, Agni is Priest,  
      To whom all sacrifices come and strengthenings that win renown.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni is the Hotri of the dwelling where they offer gifts and spread the sacrificial grass, he with whom sacrifices, with whom glorious gains assemble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni ist der Opferpriester des freigebigen Hauses, in dem das Barhis umgelegt wird, um den sich die Opfer und die Belohnungen wetteifernd scharen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni ist Priester in dem Sitz, dem reichen mit geweihter Streu, Zu dem die Opfer alle gehn und güterreiche Labungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни – хотар богатого дарами  
 Дома, где разложена жертвенная солома.  

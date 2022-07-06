@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रस्य सोम रा꣡धसे  
 श꣡म् पवस्व विचर्षणे  
 प्रजा꣡वद् रे꣡त आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र॒जाऽव॑त् । रेतः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
@@ -81,19 +81,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **विचर्षणे** विद्रष्टः त्वम् **इन्द्रस्य** **राधसे** राधनाय संसिद्ध्यै **शं** सुखकरं रसं **पवस्व** क्षर । अपि चास्मभ्यं **प्रजावत्** पुत्राद्युपेतं **रेतः** उदकमन्नं वा **आ** **भर** आहर । प्रयच्छेत्यर्थः॥ ॥१७॥ ॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All-beholding **Soma**, flow plural asantly for **Indra**'s gratification; bring (us) food with **male** offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the generosity of Indra, purify yourself as luck, o boundless Soma. Bring here semen providing offspring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In addition to the chaining with the previous vs. (on which see immediately above), this vs. participates in other verbal echoes, as noted in the published introduction. The end of the 2nd pāda vicarṣaṇe forms a ring with vícarṣanim at the end of the 2nd pāda of vs. 1, and the last pāda, prajā́vad réta ā́bhara, is identical to the last pāda of the first vs. of the immediately preceding hymn, IX.59.1 prajā́vad rátnam ā́bhara, with the substitution of rétaḥ for rátnam. In our case the semen (rétaḥ) would be both the actual semen that produces offspring and the liquid soma that mimics it.
 
@@ -108,23 +108,23 @@ Here the chaining involves only the first word índrasya.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That Indra may be bounteous, flow, most active Soma, for our weal:  
      Bring genial seed with progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Indra´s Freigebigkeit läutere dich recht, du ausgezeichneter Soma, bring uns fruchtbaren Samen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O thät'ger, riesle uns zum Heil, dem Indra, dass er Schatz verleih, Bring' Samen uns, der Kinder zeugt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

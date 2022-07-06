@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रूपं꣡-रूपम् मघ꣡वा बोभवीति  
 मायाः꣡ कृण्वान꣡स् तनु꣡वम् प꣡रि स्वा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवइ꣡र् म꣡न्त्रैर् अ꣡नृतुपा ऋता꣡वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्रिः । यत् । दि॒वः । परि॑ । मु॒हू॒र्तम् । आ । अगा॑त् । स्वैः । मन्त्रैः॑ । अनृ॑तुऽपाः । ऋ॒तऽवा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rūpaṃ* ← *rūpam* ← *rūpa*
 - \[noun\], nominative, singular, neuter
@@ -136,37 +136,37 @@ genre M
 **मघवा** धनवानिन्द्रः **रूपंरूपं** यद्यद्रूपं कामयते तत्तद्रूपं **बोभवीति** भृशं प्राप्नोति । तत्तद्रूपात्मको भवति । तत्र कारणमुच्यते । **मायाः** अनेकरूपग्रहणसामर्थ्योपेताः **कृण्वानः** कुर्वाणः **स्वां** **तन्वं** स्वकीयां तनूम् । **परि** पञ्चम्यर्थे । स्वस्माच्छरीरान्नानाविधानि शरीराणि निर्मिमीते। यद्वा स्वां तनूं नानाविधरूपोपेतां करोति । तथा च मन्त्रवर्णः - इन्द्रो मायाभिः पुरुरूपः' (ऋ. सं. ६.४७.१८ ) इति । **यत्** यस्मात् **स्वैर्मन्त्रैः** स्वकीयैः स्तुतिलक्षणैर्वाक्यैराहूतः **अनृतुपाः** । न केवलमृतुष्वेव पिबति किंतु अनृतुष्वपि । बहुशः सोमं पिबन्नित्यर्थः । **ऋतावा** सत्यवान् तादृश इन्द्रः **दिवः** स्वर्गलोकात् **परि** **मुहूर्तम्** एकस्मिन्नेव मुहूर्ते नानादेशवर्तिषु यज्ञेषु तत्रापि **त्रिः** त्रिषु सवनेषु **आगात्** आगच्छति ॥ बोभवीति । भवतेर्यङ्लुकि तिपि ' यङो वा ' इतीडागमः । निघातः । अगात् । इणो लुङि रूपम् । यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maghavan** becomes repeatedly (manifest) in various forms, practising delusions with respect to his own peculiar person n; and invoked by his appropriate prayers, he comes in a moment from heaven to the three (daily rites), and, although observant of seasons, is the drinker (of the **Soma**) irrespective of season.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Form after form the bounteous one assumes, wrapping his own body in  tricks,  
 when three times a day he has come here from heaven in an instant,  
 drinking out of turn by (the power of) his own (magic) spells, (though)  he possesses the truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Maghavan weareth every shape at pleasure, effecting magic changes in his body,  
      Holy One, drinker out of season, coming thrice, in a moment, through fit prayers, from heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In jegliche Gestalt verändert sich der Gabenreiche, am eignen Leib Verwandlungen annehmend, wann er dreimal des Tages auf einen Augenblick gekommen ist oder nach eigenem Ratschluß außer den Zeiten trinkt, der die rechte Ordnung einhält.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Andre und andre Gestalt nimmt der Mächtige [Indra] an, Zauberbilder schaffend um seinen Leib, wenn dreimal des Tages er herbeikommt in einem Augenblick, nach eignem Ermessen ausser der Zeit trinkend, der heilige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Щедрый приобретает один облик за другим,  
 Создавая вокруг своего тела силы чудесных превращений,  

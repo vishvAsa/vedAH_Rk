@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡पर्तु नो अ꣡दिती रा꣡जपुत्रा  
 अ꣡ति द्वे꣡षांसि अर्यमा꣡ सुगे꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡प स्याम पुरुवी꣡रा अ꣡रिष्टाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृ॒हत् । मि॒त्रस्य॑ । वरु॑णस्य । शर्म॑ । उप॑ । स्या॒म॒ । पु॒रु॒ऽवीराः॑ । अरि॑ष्टाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pipartu* ← *pṛ*
 - \[verb\], singular, Present imperative
@@ -120,41 +120,41 @@ genre M
 राजपुत्रा राजानोराजमानामित्रादयःपुत्रायस्याः तादृशी अदितिरदीना अखण्डनीयावादेवीनो- स्मान् द्वेषांसिद्वेष्ट्;उणिरक्षांसि अतिपिपर्तु अतिपारयतु अतिक्रम्यतद्रहितन्देशम्प्रापयत्वित्यर्थः अर्य माचसुगेभिः सुष्ठुगन्तव्यैर्मार्गैरस्मान् पारयतु अपिचवयम्पुरुवीराः बहुभिःवीरैः पुत्रादिभिरुपेताः अरिष्टाः केनाप्यहिंसिताश्चसन्तः मित्रस्यवरुणस्यचबृहत्परिवृढंशर्मसुखंउपस्याम उपगताभवेम ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Aditi**, the mother of royal song, plural ce us beyond the malice (of our enemies); may **Aryaman** lead us by easy paths, and may we, blessed with many descendants, and safe from harm, attain the great happiness of **Mitra** and **Varuṇa**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Aditi, whose sons are kings, and Aryaman help us cross beyond  hostilities by easy (paths).  
 We would draw near to the lofty protection of Mitra and Varuṇa, as  those with many heroes and free of injury.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mother of Kings, may Aditi transport us, by fair paths Aryaman, beyond all hatred.  
      May we uninjured, girt by many heroes, win Varuna's and Mitra's high protection.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May Aryaman, may Aditi, kings' mother, By easy paths through enmities transport us. We would unscathed, possessed of many heroes, Win Varuṇa's and Mitra's high protection.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aditi, die Mutter der Könige, und Aryaman sollen uns auf guten Wegen über die Anfeindungen hinwegbringen ! Unter dem großen Schirm des Mitra und Varuna möchten wir, viele Männer zählend, unverletzt stehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns führe Aditi, die Königsmutter, und Arjaman auf sichrer Bahn durch Feinde, Im grossen Schirm des Varuna und Mitra lasst unversehrt an Helden reich uns bleiben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адити, у которой сыновья – цари, (и) Арьяман да переправят нас  
 Через враждебные действия легкопроходимыми (путями)!  

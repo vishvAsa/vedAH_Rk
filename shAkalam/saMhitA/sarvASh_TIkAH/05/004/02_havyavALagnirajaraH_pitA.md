@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हव्यवा꣡ळ् अग्नि꣡र् अज꣡रः पिता꣡ नो  
 विभु꣡र् विभा꣡वा सुदृ꣡शीको अस्मे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मद्रि꣡अक् स꣡म् मिमीहि श्र꣡वांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सु॒ऽगा॒र्ह॒प॒त्याः । सम् । इषः॑ । दि॒दी॒हि॒ । अ॒स्म॒द्र्य॑क् । सम् । मि॒मी॒हि॒ । श्रवां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *havyavāﾱ* ← *havyavah*
 - \[noun\], nominative, singular
@@ -118,42 +118,42 @@ genre M;; repeated line
 अयं **हव्यवाडग्निः** **अजरः** अजीर्णः सन् **नः** **पिता** भवत्विति शेषः । किंच **विभुः** व्याप्तः **विभावा** दीप्तिमान् **सुदृशीकः** शोभनदर्शनः **अस्मे** अस्माकं भवतु । अथ प्रत्यक्षवादः। **सुगार्हपत्याः** शोभनगार्हपत्ययुक्तानि **इषः** अन्नानि **सं** **दिदीहि** सम्यक् प्रकाशय ददस्व वा । **अस्मद्र्यक्** अस्मदभिमुखं **श्रवांसि** अन्नानि **सं** **मिमीहि** सम्यक् प्रयच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the undecaying **Agni**, the bearer of oblations, be a father to us, all-pervading and resplendent (may he be) to us of plural asing aspect; supply us plural ntifully with food in return for our well-maintained household fire grant us viand abundantly.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Conveying our oblations, unaging Agni is our father, the one  
 far-reaching, far-radiant, and lovely to see among us.  
 Illuminate fully the refreshments of a well-run household. Mete out full  measures of fame in our direction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, Eternal Father, offering- bearer, fair to behold, far-reaching, far-refulgent,  
      From well-kept household fire beam food to feed us, and measure out to us abundant glory.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, the bearer of oblations, our ever-young father, is mighty, brilliant, beautiful to behold among us. Shine (on us) food with a good household 1. Turn all glory towards us 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der alterlose Opferfahrer, ist unser Vater, bei uns seine Kraft entfaltend, erstrahlend, von schönem Anblick. Bring uns mit deinem Scheine die Genüsse eines guten Hausstandes, teil uns Ehren zu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist uns ew'ger Vater, Opferfahrer, uns schön zu schau'n, gewaltig, hell erstrahlend, O strahl uns Labung her, die lieb dem Hausherrn, und miss uns zu, o Agni, schöne Güter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, увозящий жертвы, нестареющий, – наш отец;  
 (Он) выставлен у нас напоказ, ярко сверкающий, прекрасный на вид.  

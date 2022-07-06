@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वाम् प꣡रिज्मा सुवृ꣡द् अश्विना र꣡थो  
 दोषा꣡म् उषा꣡सो ह꣡वियो हवि꣡ष्मता  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पितु꣡र् न꣡ ना꣡म सुह꣡वं हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 श॒श्व॒त्ऽत॒मासः॑ । तम् । ऊं॒ इति॑ । वा॒म् । इ॒दम् । व॒यम् । पि॒तुः । न । नाम॑ । सु॒ऽहव॑म् । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -132,37 +132,37 @@ genre M
 हे **अश्विना** अश्विनौ **वां** युवयोः **परिज्मा** परितो गन्ता **सुवृत्** सुष्ठु वर्तमानः **यः** **रथः** **दोषां** रात्रिम् **उषसः** च । अहोरात्रयोरित्यर्थः । **हविष्मता** यजमानेन **हव्यः** ह्वातव्यः **वां** युवयोः स्वभूतं **सुहवं** शोभनाह्वानं **तमु** तमेव रथं **शश्वत्तमासः** अतिशयेन चिरंतना वयं **पितुर्न** यथा **पितुः** **इदं** **नाम** तथा **हवामहे** ह्वयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We from very ancient times invoke, **Aśvins**, by a name as venerable as that of a father, this yourglorious chariot, which travels all around, which turns, well, and which is to be invoked morning and evening bythe worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your earth-encircling, smooth-rolling chariot, to be invoked at evening  and at the dawns by the man who offers oblation—  
 that (chariot) of yours do we now invoke, (we) as the latest of those  
 who constantly do so—the (chariot) good to invoke like the name of  one’s father.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As 'twere the name of father, easy to invoke, we all assembled here invoke this Car of yours,  
      Asvins, your swiftly-rolling circumambient Car which he who worships must invoke at eve and dawn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren umherfahrenden leichtrollenden Wagen, ihr Asvin, der abends und morgens von dem Opfernden anzurufen ist, den rufen wir euch jetzt zum soundsovielten Male an, den man gern anruft wie den Namen des Vaters.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rufen jetzt auch wieder euren Wagen an, der früh und spät begrüsst wird von dem opfernden, Der schnell, o Ritter, hinrollt um das Erdenrund, den man so gerne wie des Vaters Namen ruft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваша ездящая кругами, легко катящаяся колесница, о Ашвины,  
 Которую жертвователь должен призывать вечером и на заре, –  

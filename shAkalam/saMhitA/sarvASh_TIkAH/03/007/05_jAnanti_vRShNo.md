@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जान꣡न्ति वृ꣡ष्णो अरुष꣡स्य शे꣡वम्  
 उत꣡ ब्रध्न꣡स्य शा꣡सने रणन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡ळा ये꣡षां ग꣡णिया मा꣡हिना गीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दि॒वः॒ऽरुचः॑ । सु॒ऽरुचः॑ । रोच॑मानाः । इळा॑ । येषा॑म् । गण्या॑ । माहि॑ना । गीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jānanti* ← *jñā*
 - \[verb\], plural, Present indikative
@@ -110,41 +110,41 @@ genre M
 वृष्णः कामानां वर्षितुरुरुषस्य रुषा हिंसकाः । तद्रहितस्य । शत्रुराहित्येन रोचमानस्येत्यर्थः । तथाविधस्याग्नेः शेवमाश्रयविषयं सुखं जना जानन्ति । उत अपि च जानन्तस्ते ब्रध्नस्य महतोग्नेः शासन आज्ञायां सर्वे जना रणन्ति । रमन्ते । तथा च मन्त्रः । म १-६०-२ । अस्य शासुरुभयासः सचन्ते हविष्मन्त तीळा गीः स्तुतिरूपा वाक् गण्या गणनीया पूज्या ते दिवोरुचो द्युलोकस्य रोचकाः सुरुचः शोभनदीप्ययो रोचमाना देदीप्यमाना भवन्ति ॥ जानन्ति । ज्ञा अवरोधने । क्र्यादित्वात्तस्य ज्ञा जनोर्जेति जादेशः । प्रत्ययस्वरः । आरुषस्य । रुष रिष हिंसार्थाः । रोशन्तीति रुशा हिंसकाः । इगुपधज्ञेति कः । न सन्ति रुषा यस्यासावरुषः । नञ् सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । शेवम् । शीङ् स्वप्ने । इण् शीङ्भ्यां वन्निति वन् नित्स्वरः । शासने शासु अनुशिष्टौ । अस्माद्भावे स्युट् । लिटीति प्रत्ययात्पूर्वस्योदात्तत्त्वं रणन्ति । निघातः । दिवोरुचः । रुच दीप्तौ । अस्मात्क्विप् । तत्पुरुषे कृति बहुलमिति षष्ठ्या आलुक् । कृदुत्तरपदप्रकृतिस्वरत्वम् । सुरुचः । बहुव्रीहौ न ञ् सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । इळा । ईळ स्तुतौ । ह्रस्वश्छान्दसः । यथा वाक्यब्दष्ट्वाबन्तस्तद्वत् । पित्त्वदनुदात्तत्वे धातुस्वरह् । गण्या । गणसङ्ख्याने । स्वार्थे ण्यन्तादचोयत् । यतोऽनाव इत्याद्युदात्तत्वम् । महिना । मनेरिनण् चेति इनण् । णित्त्वादुपधावृद्धिः । व्यत्ययेनाद्युदात्तः । गीः । गॄ शब्दे । अस्मात्क्विप् । ॠत इद्धातोरितीत्वम् । र्वोरुपधाया इति दीर्घः । प्रातिपदिक स्वरः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Men comprehend the service of the uninjurable showerer (of benefits), and exult in the commands of the mighty (**Agni**); their frequent and earnest hymns of praise, bright and radiant, are illuminating heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They [=the seers?] know the benevolence of the flame-red bull, and they  find joy in the command of the copper-colored one—  
 they, the shining ones, shining from heaven and brightly shining, to  whose flock belong the milk-libation and the great song.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They know the red Bull's blessing, and are joyful under the flaming-coloured Lord's dominion:  
      They who give shine from heaven with fair effulgence, whose lofty song like Ila must be honoured.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They know friendship towards the manly, the red one, and they delight in the command of ruddy (Agni), (the gods) shining from heaven, resplendent with bright shine, to whose host Ilâ belongs, the mighty praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie kennen den teuren Namen des rötlichen Bullen und sie freuen sich über die Herrschaft des Bradhna, des vom Himmel leuchtenden, die Erleuchteten, Erstrahlenden, zu deren Gefolge die Ila und die gewaltige Rede gehört.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie [die Götter] wissen, was dem rothen Stiere lieb ist, und haben gern die Aufforderung des fcucrfarbenen, sie, die vom Himmel her strahlen, schön leuchtend, glänzend, sie, deren Lust das in Scharen [Verszeilen] einherschreitende erhabene Lied ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Боги) знают благоприятную (природу) самого быка,  
 И они радуются власти желто-красного,  

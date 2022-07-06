@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡म् ईळे꣡नियं कविं꣡  
 घृत꣡पृष्ठं सपर्यत  
 वे꣡तु मे शृण꣡वद् ध꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 वेतु॑ । मे॒ । शृ॒णव॑त् । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -83,41 +83,41 @@ genre M
 हे जनाः **ईळेन्यं** स्तुत्यं **कविं** क्रान्तदर्शिनं **घृतपृष्ठं** दीप्तोपरिभागम् **अग्निं** **सपर्यत** पूजयत । सोऽग्निः **मे** **हवं** मदीयमाह्वानं **वेतु** कामयताम् । **शृणवत्** शृणोतु च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Worship the adorable **Agni**, the sage, whose summit blazes with butter; may he hear and comprehend my invocations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, to be invoked as our poet—serve him, ghee-backed!  
 Let him—he will hear!—track my summons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Serve Agni, God adorable, the Sage whose back is balmed with oil:  
      Let him approach, and hear my call.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Worship Agni, the sage who should be magnified, whose back is covered with ghrita. May he come and hear my call 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Haltet den Agni, den zu rufenden Seher, den schmalzrückigen, in Ehren! Er soll meinem Ruf gern folgen, ihn erhören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den preisenswerthen Seher ehrt, den Agni, der von Butter trieft, Er komm' und höre meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни почитайте, поэта,  
 Достойного призывов, жирноспинного (бога)!  

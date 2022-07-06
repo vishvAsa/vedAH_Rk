@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पश् चिद् धि꣡ स्व꣡यशसः स꣡दस्सु  
 देवी꣡र् इ꣡न्द्रं व꣡रुणं देव꣡ता धुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृत्रा꣡णि अन्यो꣡ अप्रती꣡नि हन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 कृ॒ष्टीः । अ॒न्यः । धा॒रय॑ति । प्रऽवि॑क्ताः । वृ॒त्राणि॑ । अ॒न्यः । अ॒प्र॒तीनि॑ । ह॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
@@ -126,7 +126,7 @@ genre M
 **आपश्चित्** अब्विकाराः सोमाश्च **स्वयशसः** स्वायत्तयशस्काः **देवीः** द्योतमानाः सन्तः **सदःसु** सदनेषु स्थानेषु **इन्द्रं** **वरुणं** च **देवता** एते द्वे देवते **धुः** धारयन्ति अवस्थापयन्ति । सोमेनाप्यायिता हि देवताः स्वे स्वे स्थानेऽवतिष्ठन्ते । यद्वा । वसतीवर्याख्या आप एव सोमाभिषवद्वारा सदनेष्विन्द्रं वरुणं च धारयन्ति । तयोरिन्द्रावरुणयोः **अन्यः** एकः **प्रविक्ताः** पृथक्कृताः पुण्यापुण्य विवेकेन विचित्रफलभोक्त्रीः **कृष्टीः** प्रजा असांकर्येण **धारयति** । **अन्यः** इन्द्रः **वृत्राणि** शत्रुजातानि **अप्रतीनि** अन्यैरप्रतिगतानि **हन्ति** हिनस्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ genre M
 Support Indra and **Varuṇa**: somenāpyāyitā hi **devatāḥ** sve sve sthāne avatiṣṭhante, nourished by theSoma, the gods abide in their own several stations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since even the waters of innate glory, goddesses (themselves) have set  Indra and Varuṇa in their seats among the gods,  
 the one [=Varuṇa] holds fast the agitated peoples; the other [=Indra]  smashes the unopposable obstacles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Self-lucid in their seats, e'en heavenly Waters endowed with Godhead Varuna and Indra.  
      One of these holds the folk distinct and sundered, the Other smites and slays resistless foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn sogar die von selbst herrlichen göttlichen Gewässer vergöttern Indra und Varuna an ihren Sitzen. Der eine hält die auserwählten Völker in Ordnung, der andere erschlägt die Feinde, denen keiner gewachsen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Wasser selbst, auf ihren Stätten glänzend, verehrten göttlich Varuna und Indra; Die Stämme schützt der eine, die zerstreuten, die Feinde schlägt der andre, die gewalt'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь даже божественные воды, обладающие собственным блеском,  
 Обожествили Индру (и) Варуну на (их) местах.  

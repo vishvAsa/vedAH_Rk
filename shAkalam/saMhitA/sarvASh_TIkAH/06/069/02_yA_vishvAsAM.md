@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ वि꣡श्वासां जनिता꣡रा मतीना꣡म्  
 इ꣡न्द्रावि꣡ष्णू कल꣡शा सोमधा꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ स्तो꣡मासो गीय꣡मानासो अर्कइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र । वा॒म् । गिरः॑ । श॒स्यमा॑नाः । अ॒व॒न्तु॒ । प्र । स्तोमा॑सः । गी॒यमा॑नासः । अ॒र्कैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
@@ -113,36 +113,36 @@ genre M
 **या** यौ प्रसिद्धौ **इन्द्राविष्णू** **विश्वासां** सर्वासां **मतीनां** स्तुतीनां **जनितारा** जनितारौ ॥  ‘ जन जनने ' इत्यस्मात् धातोः तृचि इदं रूपम् । यद्वा ।  ‘ जनी प्रादुर्भावे ' इत्यस्मात् धातोरेव तृचि । जनिता मन्त्रे ' इति निपातनात् णिलोपः ॥ “ कलशा कलशौ **सोमधाना**  सोमस्य निधानभूतौ च स्याताम् । अथ प्रत्यक्षस्तुतिः । हे इन्द्राविष्णू **वां** युवां **शस्यमानाः** उच्चार्यमाणाः शस्त्ररूपाः **गिरः** वाचः **प्र** **अवन्तु** प्राप्नुवन्तु । **अर्कैः** स्तोतृभिः **गीयमानासः** गीयमानाः **स्तोमासः** स्तोमाः स्तोत्राणि च **प्र** अवन्तु प्राप्नुवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the prayers that are prepared to you reach you, **Indra** and **Viṣṇu**; may the praises that are chanted reach you; you are the genitive rators of all praisses, pitchers recipient of the **Soma** libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Viṣṇu, who are the begetters of all thoughts, the two tubs  holding soma—  
 let the hymns as they are being recited help you forward, forward the  praises as they are being sung in the form of chants [/along with the  rays (of the sun)].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye who inspire all hymns, Indra and Visnu, ye vessels who contain the Soma juices,  
      May hymns of praise that now are sung address you, the lauds that are recited by the singers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die aller Gedanken Erzeuger sind, Indra und Vishnu, die beiden somahaltigen Gefäße, euch sollen die vorgetragenen Lobreden bevorzugen und die Lobesworte, die in Liedern gesungen werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ihr Erzeuger seid jedweder Andacht, und Indra-Vischnu, Somafässern gleichet, Euch mögen letzen die gesprochnen Verse, Loblieder euch, gesungen von den Sängern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вы двое,) что порождаете все (поэтические) мысли,  
 О Индра-Вишну, (вы -) два сосуда, заключающие в себе сому.  

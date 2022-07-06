@@ -6,7 +6,7 @@ ChandaH = "महाबृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नमोवाके꣡ प्र꣡स्थिते अध्वरे꣡ नरा  
 विव꣡क्षणस्य पीत꣡ये  
@@ -15,7 +15,7 @@ ChandaH = "महाबृहती"
 धत्तं꣡ र꣡त्नानि दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 आ । या॒त॒म् । अ॒श्वि॒ना॒ । आ । ग॒त॒म् । अ॒व॒स्युः । वा॒म् । अ॒हम् । हु॒वे॒ । ध॒त्तम् । रत्ना॑नि । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *namovāke* ← *namovāka*
 - \[noun\], locative, singular, masculine
@@ -115,7 +115,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे अश्विनौ **नरा** नेतारौ युवां **विवक्षणस्य** हवनशीलस्य मम **प्रस्थिते** **नमोवाके** । नमस्काराय प्रोच्यते स नमोवाकः । तस्मिन् **अध्वरे** यज्ञे । तथा च ब्राह्मणम्-' उभयं सह वा एतद्यज्ञ एवं यत्सूक्तवाकश्च नमोवाकश्च' (श. ब्रा. १. ९. १. ४ ) इति । **पीतये** सोमपानाय **आ** **यातम्** । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,35 +126,35 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 Offered by me: vivakṣaṇasya is an epithet of the speaker, i.e., at the commencementadoration of me the offerer of libation; or, it is an epithet of the Soma, heaven-bestowing, svargaprāpaṇaśīla
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the speech of reverence is set forth and the rite set forth, o men,  in order to drink of the strengthening (soma),  
 drive here, o Aśvins; come here. Seeking help, I call to you: provide  
 riches for the pious man.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On vivákṣaṇa- see comm. ad VIII.45.11. Contra Geldner and Renou, I take it with √vakṣ ‘strengthen’, not √vac.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When sacrifice which tells our reverence hath begun. Heroes! to drink the gushing juice,  
      Approach, ye Asvins, come to us: I call you, eager for your aid. Grant treasures to the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei der Huldigungsrede, bei der vorgesetzten Opfergabe, zum Trunke des redselig machenden Soma, ihr Herren, fahret hierher, Asvin, kommet her! Um euren Beistand bittend rufe ich euch, bringet dem Opfernden Kleinode!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Männer, zu dem Opfermahl, zu trinken von dem schwellenden, Fahrt her o Ritter, kommt herbei, euch ruf' ich hülfsbegierig an, gebt Schätze dem verehrenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При высказывании почитания, когда готово  
 Жертвоприношение, о два мужа, при питье возбуждающего речь (сомы),  

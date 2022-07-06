@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सिञ्च꣡न्ति न꣡मसावत꣡म्  
 उच्चा꣡चक्रम् प꣡रिज्मानम्  
 नीची꣡नबारम् अ꣡क्षितम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नी॒चीन॑ऽबारम् । अक्षि॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *siñcanti* ← *sic*
 - \[verb\], plural, Present indikative
@@ -69,7 +69,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **नमसा** नमनेन **अवतं** महावीरम् **उच्चाचक्रम्** उपरिस्थितचक्रं **परिज्मानं** परितो व्याप्तं **नीचीनबारं** नीचीनद्वारम् **अक्षितम्** अक्षीणमीदृशं क्षीराद्यवशेषयुक्तमाहवनीयस्योपरि नमनेन **सिञ्चन्ति** जुह्वति । महावीरेण ह्याहवनीये हूयते ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -80,29 +80,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Cauldron: **gharma** or **mahāvīra**, the contents of which are thrown in to the **āhavanīya** fire;**avata**, a cistern, as a metaphor for a cloud, parijman
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With reverence they dip out the encompassing wellspring with its  (water-)wheel above  
 and its sides facing downward, the inexhaustible one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With reverence they drain the fount that circles with its wheel above,  
      Exhaustless, with the mouth below.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie gießen unter Verbeugung den Brunnen aus, dessen Rad oben ist, den wandelbaren, dessen Öffnung nach unten geht, den unversieglichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Ehrfurcht giessen sie den Born, der nicht versiegt, umwandernd aus, Und Grund und Oeffnung sind vertauscht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С поклонением выливают они источник  
 С колесом наверху, делающий круги (вокруг вселенной),  

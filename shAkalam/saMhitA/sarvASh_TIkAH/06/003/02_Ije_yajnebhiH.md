@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईजे꣡ यज्ञे꣡भिः शशमे꣡ श꣡मीभिर्  
 ऋध꣡द्वाराय अग्न꣡ये ददाश  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नां꣡हो म꣡र्तं नशते न꣡ प्र꣡दृप्तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ए॒व । च॒न । तम् । य॒शसा॑म् । अजु॑ष्टिः । न । अंहः॑ । मर्त॑म् । न॒श॒ते॒ । न । प्रऽदृ॑प्तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īje* ← *yaj*
 - \[verb\], singular, Perfect indicative
@@ -121,41 +121,41 @@ genre M
 यः यजमानः **ऋधद्वाराय** ऋधत्समृद्धं वारं वरणीयं धनं यस्य तादृशाय **अग्नये** **ददाश** हवींषि ददाति स यजमानः **यज्ञेभिः** सवैर्यज्ञैः **ईजे** इष्टवान् भवति । तथा **शमीभिः** कर्मभिः कृच्छ्रचान्द्रायणादिभिः **शशमे** शान्तश्च भवति । आग्नेयेन यागेन सर्वं फलं लभत इत्यर्थः। अपि च **तं** यजमानं **यशसां** यशस्विनां पुत्राणाम् **अजुष्टिः** अप्राप्तिः न **एव** **नशते** नैव प्राप्नोति । पुत्रवान् भवत्येवेत्यर्थः । तथा **मर्तं** मनुष्यं तम् **अंहः** पापं **न** नशते । तथा **प्रदृप्तिः** अनर्थहेतुः प्रदर्पश्च तं **न** प्राप्नोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who has presented (oblations) to **Agni**, the possessor of desired (wealth), sacrifices with (all) sacrifices, and is sanctified by (all) holy acts; him, the wand of excellent (posterity) does not afflict, nor does sin or pride affect a mortal.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has sacrificed with sacrifices, he has labored with ritual labors; for  Agni who brings wishes to success he has performed pious work—  
 so the displeasure of eminent ones will never reach that mortal, nor will  narrow straits, nor delusion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner points out, pāda a recalls VI.1.9a with īje śaśamé as here; the addition of ṛdhát- in pāda b also recalls VI.2.4a ṛ́dhat … śaśámate. In fact, the diction of the first hymns in this Agni cycle is very similar; cf. e.g., the repetition of áṃhas- (VI.2.3, 11; 3.1.2, 4.8), the use of the verb √naś (ā́naṭ VI.1.9, aśyām VI.1.13, naśat 2.5, naśate 3.1, 2, aśyā́ma 4x 5.7), etc. Other echoes have been treated elsewhere in the comm. The two forms of naśate in these first two vss. express mirror images: the first (1b) has the virtuous mortal as subject, suitably rewarded by attaining the light; the 2nd (2d) has the same mortal as object, with the verb negated, to express the evils that will not reach the mortal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He hath paid sacrifices, toiled in worship, and offered gifts to wealth-increasing Agni.  
      Him the displeasure of the famous moves not, outrage and scorn affect not such a mortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er hat ihm Opfer geopfert, mit Opferdienst gedient, dem wunscherfüllenden Agni reichlich gespendet. So trifft den Sterblichen weder das Mißfallen der Angesehenen, noch Not, noch Verblendung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer Opfer opfernd und mit Werken wirkend, dem Gütermehrer Agni stets gedient hat, Den Mann trifft nie der Angesehnen Misgunst, Bedrängniss nicht, noch freche Ueberhebung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он пожертвовал жертвы, потрудился трудами (праведными),  
 Почтил Агни, умножающего избранные дары.  

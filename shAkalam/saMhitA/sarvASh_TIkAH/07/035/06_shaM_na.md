@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ न इ꣡न्द्रो व꣡सुभिर् देवो꣡ अस्तु  
 श꣡म् आदित्ये꣡भिर् व꣡रुणः सुशं꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नस् त्व꣡ष्टा ग्ना꣡भिर् इह꣡ शृणोतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 शम् । नः॒ । रु॒द्रः । रु॒द्रेभिः॑ । जला॑षः । शम् । नः॒ । त्वष्टा॑ । ग्नाभिः॑ । इ॒ह । शृ॒णो॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
@@ -133,41 +133,41 @@ genre D
 **देवः** द्योतनादिगुणयुक्तः **इन्द्रः** **वसुभिः** देवैः सार्धं **नः** अस्माकं **शं** शान्त्यै भवतु । **सुशंसः** शोभनस्तुतिः **वरुणः** देवः **आदित्येभिः** आदित्यैर्देवैः सार्धं **शं** शान्त्यै **अस्तु** भवतु । **जलाषः** **रुद्रः** दुःखद्रावको देवः **रुद्रेभिः** रुद्रैः सार्धं **शं** शान्त्यै **नः** अस्माकं भवतु । **इह** यज्ञे **त्वष्टा** देवः **ग्नाभिः** देवपत्नीभिः सार्धं **नः** **शं** शान्त्यै भवतु । इह यज्ञे नः स्तोत्रं **शृणोतु** च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the divine (**Indra**), with the **Vasus**, grant us happiness; may the justly-praised **Varuṇa**, with theĀdityas, be (friendly to) our happiness; may the grief-assuaging **Rudra**, with the **Rudras**, be (for) our happiness;may **Tvaṣṭā**, with the wives of the gods, be (with us) for our happiness, and hear us at this solemnity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Luck for us be god Indra along with the Vasus; luck Varuṇa of good  laud along with the Ādityas;  
 luck for us healing Rudra along with the Rudras [=Maruts]; for luck let  Tvaṣṭar along with the Wives hear us here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The last pāda here again has a real verb ‘let hear’ (śṛṇotu), not simply ‘be’, and śám is thus displaced from predicated nominative (“X be luck”) to adverbial usage (“for luck”), with naḥ correspondingly promoted from dative (“for us”) to acc. obj. of the verb (“hear us”). Note that this same construction might be found in pāda b and c, which lack verbs, while pāda a must follow the usual pattern because of its astu. Thus bc possibly, “let Varuṇa … (hear us); let Rudra … (hear) us.” However, I think it likely that b+c simply follow a. In any case it’s striking (or at least striking in a hymn that otherwise has so little variation) that the verbal construction changes within the vs., while the pattern of personnel is rigidly fixed: each pāda contains a single god as subject with an instr. pl. of his entourage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be the God Indra with the Vasus friendly, and, with Adityas, Varuna who blesseth.  
      Kind, with the Rudras, be the Healer Rudra, and, with the Dames, may Tvastar kindly listen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück soll uns Gott Indra mit den Vasu´s sein, zum Glück Varuna, der segnende, mit den Aditya´s, zum Glück uns der kühlende Rudra mit den Rudra´s, zum Glück soll uns Tvastri mit den Götterfrauen hier zuhören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heil sei uns Gott Indra mit den Vasu's, mit den Aditja's Varuna, der Segner, Zum Heil der milde Rudra mit den Rudra's; zum Heil erhör' uns Tvaschtar mit den Weibern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье нам пусть будет бог Индра вместе с Васу,  
 На счастье Варуна благословенный вместе с Адитьями!  

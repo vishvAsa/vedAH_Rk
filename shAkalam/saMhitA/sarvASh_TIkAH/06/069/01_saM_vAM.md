@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ वां क꣡र्मणा स꣡म् इषा꣡ हिनोमि  
 इ꣡न्द्राविष्णू अ꣡पसस् पारे꣡ अस्य꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रिष्टैर् नः पथि꣡भिः पार꣡यन्ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 जु॒षेथा॑म् । य॒ज्ञम् । द्रवि॑णम् । च॒ । ध॒त्त॒म् । अरि॑ष्टैः । नः॒ । प॒थिऽभिः॑ । पा॒रय॑न्ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -122,36 +122,36 @@ genre M
 हे **इन्द्राविष्णू** **वां** युवां **कर्मणा** स्तोत्रेण **इषा** हविषा च **सं** **हिनोमि** सम्यक् प्रेरयामि । **अपसः** कर्मणः **अस्य** उक्थस्य **पारे** समाप्तौ **यज्ञं** **जुषेथां** सेवेथाम् । किंच **अरिष्टैः** अनुपद्रवैः **पथिभिः** मार्गैः **नः** अस्मान् **पारयन्ता** पारं नयन्तौ युवां **द्रविणं** धनं **धत्तम्** अस्मभ्यं दत्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I earnestly propitiate you, **Indra** and **Viṣṇu**, by worship and (sacrificial) food; upon the completion of the ite, accept the sacrifice, and grant us wealth, conducting us by safe path.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With ritual action and with refreshment I propel both of you together, o  Indra and Viṣṇu, to the far shore of this labor.  
 Enjoy the sacrifice and confer wealth, causing us to cross on paths free  of harm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INDRA and Visnu, at my task's completion I urge you on with food and sacred service.  
      Accept the sacrifice and grant us riches, leading us on by unobstructed pathways.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch Dienst und genußreiche Gabe treibe ich euch beide gemeinsam zur Eile, Indra und Vishnu, am Schluß dieses Opferwerks. Freuet euch des Opfers und bringet Reichtum, führet uns auf heilen Wegen zu gutem Ende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch, Indra-Vischnu, ehr' ich durch mein Wirken mit Labetrunk am Ziele dieser Arbeit; Geniesst das Opfer und verleiht uns Reichthum, auf sichern Wegen uns hinüberführend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе вас двоих действием, вместе жертвенной усладой я поторапливаю,  
 О Индра-Вишну, при переправе через этот (жертвенный) труд.  

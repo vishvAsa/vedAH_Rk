@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡नि स्था꣡नानि अश्विना दधा꣡थे  
 दिवो꣡ यह्वी꣡षु ओ꣡षधीषु विक्षु꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡षं ज꣡नाय दाशु꣡षे व꣡हन्ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नि । पर्व॑तस्य । मू॒र्धनि॑ । सद॑न्ता । इष॑म् । जना॑य । दा॒शुषे॑ । वह॑न्ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāni* ← *yad*
 - \[noun\], accusative, plural, neuter
@@ -114,37 +114,37 @@ genre M
 हे **अश्विना** युवां **दिवः** द्युलोकादागत्य **यानि** **स्थानानि** **दधाथे** कुरुथः । कुत्रेति उच्यते । **यह्वीषु** महतीषु **ओषधीषु** **विक्षु** यजमानेषु च । तौ युवां **पर्वतस्य** मेघस्यान्तरिक्षस्य वा **मूर्धनि** स्थाने **नि** **सदन्ता** निषीदन्तौ **इषम्** अन्नं **दाशुषे** हविर्दात्रे **जनाय** यजमानाय **वहन्ता** प्रापयन्तौ भवतमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To whatever plural ces you may descend, **Aśvins**, from heaven, whether amidst the spreading plural nts, oramong men, or sitting on the summit of the clouds, be the bearers of food to the man, the donor (of the oblation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Across) the places that you two have taken for yourselves, Aśvins,  among the exuberant (rivers) from heaven, among the plants, and  
 among the clans—  
 (you two) sitting down at the peak of the mountain, (you two) bringing  refreshment to the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whatever dwellings ye possess, O Asvins, in fields of men or in the streams of heaven,  
      Resting upon the summit of the mountain, or bringing food to him who gives oblation,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welche Standorte ihr Asvin eingenommen habt in den jüngsten Töchtern des Himmels, den Pflanzen, den Ansiedlungen, wenn ihr auf dem Gipfel des Berges sitzet, kommt von da dem opfernden Menschen Labsal mitbringend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An welchen Orten ihr auch weilt, o Ritter, in Himmelsfluten, in Gewächsen, Häusern, Wenn auf dem Gipfel des Gebirgs ihr sitzet, wenn Gut ihr fahret zu den frommen Menschen:
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) места, которые, о Ашвины, вы облюбовали себе  
 Среди небесных потоков, растений, поселений,  

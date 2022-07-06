@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡खायस् त इन्द्र विश्व꣡ह स्याम  
 नमोवृधा꣡सो महिना꣡ तरुत्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभी꣡तिम् अर्यो꣡ वनु꣡षां श꣡वांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 व॒न्वन्तु॑ । स्म॒ । ते॒ । अव॑सा । स॒मी॒के । अ॒भिऽइ॑तिम् । अ॒र्यः । व॒नुषा॑म् । शवां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sakhāyas* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
@@ -112,20 +112,20 @@ genre M
 हे **इन्द्र** **ते** तव **नमोवृधासः** नमसा स्तुत्या हविषा वा वर्धयितारो वयं **विश्वह** सर्वदा **सखायः** **स्याम** भवेम । **महिना** महिम्ना **तरुत्र** अत्यन्तं तारकेन्द्र **ते** तव **अवसा** रक्षणेन **समीके** संग्रामे **अर्यः** **अभीतिम्** अभिगमनं **वनुषां** हिंसकानां **शवांसि** बलानि च **वन्वन्तु** स्तोतारो हिंसन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, daily increasing in reverence, be (regarded), **Indra**, (as) your friends; through the protection ofyou, surpasser in greatness, may (your worshippers) repulse the attack of the foe in battle, the strength of themalevolent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we always be your comrades, Indra, increasing our homage  because of your greatness, surpassing one.  
 With your help in the encounter, may they combat the attack of the  stranger, the powers of the rapacious ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vanvántu ‘let them combat’ and vanúṣām ‘rapacious ones’ are presumably derived from the originally separate roots van ‘win, vanquish’ and vani ‘love, desire’, but since these roots have become synchronically entangled, the pair presents itself like an etymological figure, like I.132.1=VIII.40.7 vanuyā́ma vanuṣyátaḥ “may we win against those who seek to win.”
 
@@ -140,23 +140,23 @@ Final varūtā́of 8d is matched by final tarutra in 9b.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we, O Indra, be thy friends for ever, eagerly, Conqueror, yielding greater homage.  
      May, through thy grace, the strength of us who battle quell in the shock the onset of the foeman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen allezeit deine Freunde sein, Indra, uns oft vor dir verneigend, du Überwinder. Mit deinem Beistand sollen sie im Kampfe den Angriff des Nebenbuhlers überwinden, die Stärke der Neider.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir seien stets, o Indra, deine Freunde, Anbetung übend eifervoll, o Helfer; Besiegen lass durch deine Gunst im Kampf' uns des Feindes Angriff und die Macht der Streiter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть будем мы всегда твоими друзьями, о Индра,  
 Преклоняющимися (перед тобой), о спасающий (своей) мощью!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धि द्या꣡म् अस्थाद् वृषभो꣡ विचक्षणो꣡  
 अ꣡रूरुचद् वि꣡ दिवो꣡ रोचना꣡ कविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दिवः꣡ पीयू꣡षं दुहते नृच꣡क्षसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 राजा॑ । प॒वित्र॑म् । अति॑ । ए॒ति॒ । रोरु॑वत् । दि॒वः । पी॒यूष॑म् । दु॒ह॒ते॒ । नृ॒ऽचक्ष॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhi*
 - \[adverb\]
@@ -124,20 +124,20 @@ genre M
 **अधि** **अस्थात्** **द्यां** द्युलोकं **वृषभः** वर्षिता **विचक्षणः** विद्रष्टा अयं सोमः । तथा कृत्वा **दिवः** द्युलोकसंबन्धीनि **रोचना** रोचमानानि नक्षत्रादीनि **वि** **अरूरुचत्** विविधं रोचयति । **कविः** क्रान्तप्रज्ञः सन् **राजा** सोमः **पवित्रं** दशापवित्रम् **अत्येति** अतिक्रम्य गच्छति । **रोरुवत्** शब्दं कुर्वन् । **दिवः** द्युलोकस्य **पीयूषं** सारं रसं **नृचक्षसः** नृणां द्रष्टारः सोमाः **दुहते** स्रवन्ति । स्वकीयं रसमान्तरिक्ष्यमुदकं वा दुहन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The showerer, the beholder, has taken his station upon heaven, the seer has illumined the luminaries of heaven; the king passes through the filter with a shout, (the **Soma** juices) the beholders of men milk forth the ambrosia of heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The wide-gazing bull has mounted heaven. The poet has caused the  luminous realms of heaven to shine forth.  
 The king goes ever bellowing across the filter. Those having the eyes of  men milk for themselves the beestings of heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The double vision of both heavenly Soma/Sun and earthly ritual soma is clear here, with pādas a, b, d all having a celestial orientation, each containing a form of div-/dyu- ‘heaven’, while the filter of pāda c brings us back to the ritual. The subj.
 
@@ -153,23 +153,23 @@ As noted in the published introduction, these four vss. treat the identification
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Steer who sees afar hath risen above the sky: the Sage hath caused the lights of heaven to give their shine.  
      The. King is passing through the filter with a roar: they drain the milk of heaven from him who looks on men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bulle hat den Himmel erstiegen, weitschauend; der Seher hat die Leuchten des Himmels erleuchtet. Der König geht brüllend über die Seihe; die mit dem Herrenauge melken den Rahm des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Himmel stieg weitschauend jetzt der Stier empor, der weise hat das Licht des Himmels angesteckt; Der König schreitet durch die Seihe brüllend hin, des Männer schaunden Himmels Milchtrunk melkt er sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он взошел на небо, бык, смотрящий далеко.  
 Он ярко зажег светлые пространства неба, (этот) поэт.  

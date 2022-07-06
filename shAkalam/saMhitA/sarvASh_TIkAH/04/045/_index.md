@@ -8,7 +8,7 @@ title = "+045"
 ‘एष स्य भानुः' इति सप्तर्चं त्रयोदशं सूक्तम् । आदितः षट् जगत्यः सप्तमी त्रिष्टुप् । मण्डलद्रष्टा वामदेव ऋषिः । अश्विनौ देवता । एष स्य त्रिष्टुबन्तम् ' इति ह्यनुक्रान्तम् । प्रातरनुवाकाश्विनशस्त्रयोर्जागते छन्दसीदं शस्यम् । तथा च सूत्रितम्- अबोध्यग्निर्ज्म एष स्य भानुः' ( आश्व. श्रौ. ४. १५) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 45 (341)  
 Aśvins  
@@ -20,7 +20,7 @@ As in the other two Aśvin hymns in this series, Sūryā, the daughter of the Su
 The final verse of the hymn formulaically celebrates the Aśvins’ chariot, and  this verse sums up not merely this hymn but the triad of Aśvin hymns that it closes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
 </details>

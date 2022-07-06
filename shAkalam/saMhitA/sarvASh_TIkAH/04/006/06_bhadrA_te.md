@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्रा꣡ ते अग्ने सुअनीक संदृ꣡ग्  
 घोर꣡स्य सतो꣡ वि꣡षुणस्य चा꣡रुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ ध्वस्मा꣡नस् तनु꣡वी रे꣡प आ꣡ धुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 न । यत् । ते॒ । शो॒चिः । तम॑सा । वर॑न्त । न । ध्व॒स्मानः॑ । त॒न्वि॑ । रेपः॑ । आ । धु॒रिति॑  धुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
@@ -134,41 +134,41 @@ genre M
 हे **स्वनीक** शोभनज्वाल **अग्ने** **घोरस्य** भीतिजनकस्यापि **सतः** **विषुणस्य** विष्वक् सर्वतो व्याप्तस्य **ते** तव **चारुः** रमणीया **भद्रा** स्तुत्या कल्याणी वा मूर्तिः **संदृक्** संदृष्टिः । सम्यक् दृश्या भवतीत्यर्थः। **यत्** यस्मात् **ते** **शोचिः** दीप्तिं **तमसा** अन्धकारेण **न** **वरन्त** न वारयन्ति निशाः ॥ यस्माच्च **ध्वस्मानः** ध्वंसका राक्षसादयः ते **तन्वि** तव शरीरे **रेपः** पापं ध्वंसनादिरूपं **न** **आ** **धुः** न दधति । न कुर्वन्ति । अतः संदृगिति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bright-shining, **Agni**, beautiful and auspicious is the semblance of you who are terrible and wide-spreading, for (the nights) hide not your splendour with darkness, nor do the malignant (spirits) inflict any injury on your person n.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Auspicious is your manifestation, o Agni of the lovely face, and it is dear,  though you are terrible and capricious.  
 Since they have not covered your flame with darkness, the palls of smoke  have not placed their smudge on your body—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Beautiful and auspicious is thine aspect, O lovely Agni, terrible when spreading.  
      Thy splendours are not covered by the darkness: detraction leaves no stain upon thy body.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Beautiful, O fair-faced Agni, is thy aspect, who art terrible and manifold; pleasant (it is). As they have not hindered thy light by darkness, no bespatterers have left stains on thy body.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erfreulich ist dein Anblick, du schöngesichtiger Agni, schön auch, wenn du ins Gegenteil umschlägst und furchtbar wirst. Da sie deine Glut nicht mit Finsternis verdecken können, so bringen die Beschmutzer keinen Flecken an deinen Leib.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreuend ist dein Anblick, schöner Agni, und angenehm des hehren, mannichfalt'gen; Denn auch durch Dunkel hemmt man deinen Glanz nicht, noch wirft auf dich Verfinst'rung einen Flecken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приносит счастье, о Агни прекрасноликий, твой вид,  
 Привлекательный даже когда ты бываешь ужасным, отличным (от обычного).  

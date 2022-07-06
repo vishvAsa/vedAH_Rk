@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आदित्या꣡सो अ꣡दितयः सियाम  
 पू꣡र् देवत्रा꣡ वसवो मर्तियत्रा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡वेम द्यावापृथिवी भ꣡वन्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सने॑म । मि॒त्रा॒व॒रु॒णा॒ । सन॑न्तः । भवे॑म । द्या॒वा॒पृ॒थि॒वी॒ इति॑ । भव॑न्तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ādityāso* ← *ādityāsaḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
@@ -98,36 +98,36 @@ genre M
 हे **आदित्यासः** आदित्या देवाः ॥ व्यत्ययेनाद्युदात्तत्वाभावः ॥ यद्वा । आदित्यानामिमा आदित्याः ॥ तस्येदम् ' इत्यर्थे प्राग्दीव्यतीयो ण्यप्रत्ययः ॥ आदित्यानां शेषभूता वयम् **अदितय** अखण्डनीयाः **स्याम** भवेम । **देवत्रा** देवेषु **वसवः** वासका देवा युष्मदीयं **पूः** पालनं **मर्त्यत्र** मनुष्येष्वस्मासु भवतु । हे **मित्रावरुणा** मित्रावरुणौ **सनन्तः** युवां संभजन्तो वयं **सनेम** युवाभ्य दत्तं धनं संभजेमहि । हे **द्यावापृथिवी** द्यावापृथिव्यौ युवयोः प्रसादात् वयं **भवन्तः** भवेम भूतिमन्तः स्याम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Ādityas**, may we be independent; **Vasus**, (dwelling) among the gods, may your protection (extend) tomortals; offering (oblations to you), **Mitra** and **Varuṇa**, may we partake (of your bounty); may we, heaven andearth exist (through your favour).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would be offenseless (áditi) sons of Aditi, and a fortress among gods  and mortals, o Vasus.  
 Winning (this) we would win, o Mitra and Varuṇa. Becoming (this) we  would become greater, o Heaven and Earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY we be free from every bond, Adityas! a castle among Gods and men, ye Vasus.  
      Winning, may we win Varuna and Mitra, and, being, may we be, O Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen schuldlos wie die Aditya´s sein; eine Burg sei uns bei Göttern, bei Menschen, ihr Vasu´s. Diese gewinnend möchten wir gewinnen, Mitra und Varuna; wir möchten Gedeihende sein, Himmel und Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir möchten frei sein, gütige Aditja's, gleich fester Burg bei Göttern und bei Menschen; Gewinn erlangen, Varuna und Mitra, und glücklich sein, o Himmel du und Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адитьями, не связанными (с виной), мы хотим быть, крепостью  
 Среди богов, о Васу, (и) среди смертных!  

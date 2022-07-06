@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 निष्षि꣡ध्वरीर् ओ꣡षधीर् आ꣡प आस्ताम्  
 इ꣡न्द्रावरुणा महिमा꣡नम् आ꣡शत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡योः श꣡त्रुर् न꣡किर् आ꣡देव ओ꣡हते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; Vālakhilya
 या । सिस्र॑तुः । रज॑सः । पा॒रे । अध्व॑नः । ययोः॑ । शत्रुः॑ । नकिः॑ । अदे॑वः । ओह॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *niṣṣidhvarīr* ← *niṣṣidhvarīḥ* ← *niṣṣidhvan*
 - \[noun\], nominative, plural, feminine
@@ -110,20 +110,20 @@ genre D;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The plural nts and the waters were efficacious, they have attained their power, O **indra** and **Varuṇa**, youwho have gone beyond the path of the firmament, no godless man is worth being called your enemy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The plants and waters, offering tribute to these two, have reached  greatness, o Indra and Varuṇa—  
 the two who run on the far side of dusky space, at the far limit of their  road, the two of whom no non-god vaunts himself as their rival.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Khila ābhyām should be read for āstām.
 
@@ -132,17 +132,17 @@ pāré can be read with both genitives, rájasaḥ and ádhvanaḥ, separately (
 Despite the morphological peculiarity of sísratuḥ (on which see Oldenberg, Narten [see Kümmel’s ref.], Kümmel 553), I see no reason to substitute the Khila tasthátuḥ with Oldenberg, Geldner Both Narten and Kümmel endorse the nonce form sísratuḥ.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihnen beiden Dank schuldend sind jetzt Pflanzen und Wasser zu Ansehen gelangt, o Indra und Varuna, die beide an des Raumes Ende, am Ende ihres Weges Halt gemacht haben, deren kein Ungott sich als überlegener Gegner rühmen darf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kräuter und die Wasser waren labungsreich, erreichten ihre Grösse, Indra-Varuna! Die an des Luftraums Grenze euren Weg ihr geht, und denen kein gottloser Feind gewachsen ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Данники для вас двоих растения (и) воды.  
 О Индра-Варуна, они достигли величия,  

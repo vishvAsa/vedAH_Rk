@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ चष्ट आसाम् पा꣡थो नदी꣡नां  
 व꣡रुण उग्रः꣡ सह꣡स्रचक्षाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 आ । च॒ष्टे॒ । आ॒सा॒म् । पाथः॑ । न॒दीना॑म् । वरु॑णः । उ॒ग्रः । स॒हस्र॑ऽचक्षाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -74,20 +74,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **सहस्रचक्षाः** बहुचक्षुः **वरुणः** **आसां** **नदीनां** **पाथः** जलम् **आ** चष्टे अभिपश्यति । कीदृशो वरुणः । **उग्रः** उद्गूर्ण ओजस्वी वा ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The fierce **Varuṇa**, the thousand-eyed, contemplates the water of these rivers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He inspects the haven of these (waters), of the rivers—  
 powerful Varuṇa of a thousand eyes.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -101,22 +101,22 @@ gen. pl. nadī́nām, as Geldner and Renou do (e.g., “de ces rivières”). Bu
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Varuna, Mighty, with a thousand eyes, beholds the paths wherein these rivers run.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Varuna, der Gewaltige, Tausendäugige beaufsichtigt den Bezirk dieser Flüsse;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schaute dieser – Gewässer Pfade mit tausend Augen – Varuna mächtig,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Надзирает за местом этих рек  
 Варуна, грозный, тысячеокий.

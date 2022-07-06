@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ यज्ञे꣡षु ऋत्वि꣡जं  
 चा꣡रुम् अग्ने नि꣡ षेदिरे  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 घृ॒तऽप्र॑तीकम् । मनु॑षः । वि । वः॒ । मदे॑ । शु॒क्रम् । चेति॑ष्ठम् । अ॒क्षऽभिः॑ । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -117,7 +117,7 @@ genre M;; repeated line
 हे **अग्ने** **त्वां** मनुष्या यजमानाः **यज्ञेषु** यागेषु **नि** **षेदिरे** नियमेन स्थापयन्ति । कीदृशम् । **ऋत्विजं** होतृनामकं **चारु** रमणीयं **घृतप्रतीकम्** आज्याहुतिपूर्णमुखं **शुक्रं** ज्वलन्तम् **अक्षभिः** व्याप्तैस्तेजोभिः **चेतिष्ठम्** अतिशयेन ज्ञातारम् । किमर्थम् । **वि** **वो** **मदे** तव सोमादिहविर्जन्यविविधतृप्त्यर्थम् । यस्मादेवं तस्मात् **विवक्षसे** महान् भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ Vivakṣase = **mahān** bhavasi; vi vomade = in your; or, for your exhilaration
 Vaḥ = Agni; or, **viśvedevāḥ**; or, connected with vivakṣase as cause and effect, as made sañjatesati yasmād evam kṛtavān asi tasmāt tvam mahān bhavasi, the inebriation produced, i.e., since you havethus acted, you are great; The words vi vo made, seems like a quote or Soma-drinking refrain; perhaps also aplay upon the name Viimada
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have installed you as the beloved priest at the sacrifices, o Agni, ghee-faced and blazing for Manu, most observant with your eyes.  
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men, Agni, have established thee as welcome Priest at holy rites,  
      Thee whose face shines with butter,-at your glad carouse-bright, with eyes most observant. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, haben sie als den beliebten Priester bei den Opfern eingesetzt, die Menschen den Schmalzgesichtigen, den Lichten, mit den Augen am besten Beobachtenden - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Opfern setzten Agni dich als schönen Priester Menschen ein, Dich, dessen Stirn von Fett erglänzt, den lichten, dessen Auge strahlt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя усадили они на жертвоприношениях  
 Как милого жреца, о Агни,  

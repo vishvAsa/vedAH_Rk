@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् अप्सा꣡म् ऋतीष꣡हं  
 वीरं꣡ ददाति स꣡त्पतिम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 संच꣡क्षि श꣡त्रवो भिया꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । त्रस॑न्ति । शव॑सः । स॒म्ऽचक्षि॑ । शत्र॑वः । भि॒या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -101,36 +101,36 @@ genre M
 अयम् **अग्निः** **वीरं** पुत्रं **ददाति** स्तोतृभ्यः प्रयच्छति । कीदृशं पुत्रम् । **अप्साम्** अपामाप्तव्यानां कर्मणां सनितारं संभक्तारम् **ऋतीषहम्** ऋतीनामरातीनां सोढारमभिभवितारं **सत्पतिं** सतां कर्मणां पालयितारम् । **यस्य** वीरस्य **संचक्षि** संदर्शने सति **शवसः** बलात् **भिया** भीत्या **शत्रवः** **त्रसन्ति** उद्विजन्ते तं वीरमित्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** bestows (upon his worshippers) a **male** descendant, (the performer of good) works, the subduer of foes, the protector of the virtuous, at whose appearance his enemies tremble through fear of his prowess.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni gives a hero winning the waters, vanquishing with his attack, as  lord of settlements,  
 whose rivals tremble at the full sight of his vast power, in fear.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni bestows the hero chief, winner of waters, firm in fray.  
      Soon as they look upon his might his enemies tremble in alarm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni schenkt einen Helden, einen rechtmäßigen Gebieter, der Wasser gewinnt, der Angriffe siegreich besteht, bei dessen Anblick aus Furcht vor seiner Stärke die Feinde erbeben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den starken Helden, Agni, gib, der Angriff wehrt, Erquickung beut, Vor dessen Kraft beim Anblick schon aus Furcht der Feinde Schar erbebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни дает героя, завоевывающего воды,  
 Отражающего атаки, истинного господина,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू᳐꣡ म꣡र्तिओ° दयते सनिष्य꣡न्  
 यो꣡ वि꣡ष्णव उरुगाया꣡य दा꣡शत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एता꣡वन्तं न꣡रियम् आवि꣡वासात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । यः । स॒त्राचा॑ । मन॑सा । यजा॑ते । ए॒ताव॑न्तम् । नर्य॑म् । आ॒ऽविवा॑सात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -104,7 +104,7 @@ genre M
 सः **मर्तः** मनुष्यः **सनिष्यन्** धनमिच्छन् **नु** क्षिप्रं **दयते** धनमादत्ते । दयतिराङ्पूर्वार्थे द्रष्टव्यः । **यः** मनुष्यः **उरुगायाय** बहुभिः कीर्तनीयाय **विष्णवे** **दाशत्** हवींषि दद्यात् । **यः** च **सत्राचा** सहाञ्चता **मनसा** मननेन स्तोत्रेण **प्र** **यजाते** प्रकर्षेण पूजयेत् **एतावन्तम्** एतावत्परिमाणं महान्तं **नर्यं** नरेभ्यो हितं विष्णुम् **आविवासात्** नमस्कारादिभिः परिचरेत् । स मर्तो दयत इत्यन्वयः । यद्वा । सनिष्यन्निति सनतेर्लाभार्थस्य लृटि रूपम् । स मर्तः सनिष्यन् धनादीनि लप्स्यमानो भवन्नेव हविरादिकं नु क्षिप्रं दयते विष्णवे ददातीति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,14 +115,14 @@ genre M
 Withentirely devoted mind: i.e. with united praise, sahañcatā stotreṇa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now the mortal desiring to gain gets his share, if he does pious service to  wide-ranging Viṣṇu,  
 
 will set the sacrifice in motion with fully focused mind, and will seek to  attract here such a one, favorable to men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The meter of the first pāda is badly off and is not easily fixable. See Oldenberg
 
@@ -133,23 +133,23 @@ Although dáyate generally means ‘distribute (goods to someone else)’, e.g.,
 The three subsequent pādas (bcd) state the conditions under which the mortal in pāda a will receive the longed-for share. They are marked by the rel. prn. yáḥ in b and c; adopting Renou’s strategy I have rendered them as conditionals (“if”) for clarity, rather than as straight rel. clauses (“who”). Unfortunately I don’t think my tr. makes it clear that cd are parallel to b, rather than being part of a resumed main clause, and I would now slightly emend the tr. to “…, if he will set … and will seek …”). The apparent non-parallelism is exacerbated by the fact that the verbs of c and d (yájāte and āvívāsāt respectively) are subjunctives, whereas dā́śat in b should be the injunctive to the thematic pres. dā́śati, which elsewhere attests a real subjunctive (dā́śāt). Hoffmann discusses just this passage (Inj. 238), suggesting that in such contexts the indicative present, injunctive, and subjunctive overlap in usage. 130
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 NE'ER doth the man repent, who, seeking profit, bringeth his gift to the far-striding Visnu.  
      He who adoreth him with all his spirit winneth himself so great a benefactor.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewiß wird der auf Gewinn hoffende Sterbliche belohnt, der dem weitschreitenden Vishnu Opfer spendet, der ihn mit gesammeltem Geiste anbeten und einen solchen Mannhaften gewinnen möchte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mann, der Gut begehrt, bereut es nimmer, wenn Vischnu, dem weitschreitenden, er huldigt, Und ihn verehrt mit achtendem Gemüthe, für sich gewinnend einen so gewalt'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Конечно, смертный, желающий получить, раздает (дары),  
 (Тот,) кто почитает Вишну, широко шагающего,  

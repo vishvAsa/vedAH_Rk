@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ चित्तो꣡ विपा꣡न꣡या  
 ह꣡रिः पवस्व धा꣡रया  
 यु꣡जं वा꣡जेषु चोदय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 युज॑म् । वाजे॑षु । चो॒द॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -74,7 +74,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे पवमान **अया**। अय पय गतौ । कर्मार्थमितस्ततो गच्छन्तीभिरनया **विपा** । ‘विप प्रेरणे' । हवींष्यग्नौ प्रेरयन्तीति विपोऽङ्गुलयः । एकवचनं छान्दसम् । प्रत्येकविवक्षया वा । एताभिरमंदीयाभिरङ्गुलीभिः **चित्तः** ज्ञातः निर्गतोऽभिषुतः **हरिः** हरितवर्णस्त्वं धारया संततया **पवस्व** द्रोणकलशं ग्रहांश्चागच्छ त्वम्। किंच **युजं** सखायमिन्द्रं **वाजेषु** संग्रामेषु **चोदय** प्रेरय । यदा अस्माभिरिन्द्रार्थं सोमो दीयते तदा तत्पानेन हृष्टः सन् शत्रून् हन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,13 +85,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 By these flexible fingers: ayā = from i, to go; ayā vipā anayā = itastato gacchandibhir etābhir madīyābhir aṅgulibhiḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Conspicuous because of this poetic inspiration, purify yourself as  tawny one in this very stream.  
 Spur on your yokemate to the prizes.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -101,23 +101,23 @@ Again, no particular signs of unity.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Acknowledged by this song of mine, flow, tawny-coloured, with thy stream  
      Incite to battle thine ally.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An solchem Redeschwall kenntlich läutere dich, der Falbe, in solchem Strome, mach den Genossen im Kampf um die Siegerpreise scharf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An diesem und an jenem Stab erscheinend riesle hell im Strom, Und treib dein Ross im Wettlauf an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

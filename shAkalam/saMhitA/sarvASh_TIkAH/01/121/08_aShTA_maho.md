@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अष्टा꣡ महो꣡ दिव꣡ आ꣡दो ह꣡रीह꣡°  
 द्युम्नासा꣡हम् अभि꣡ योधान꣡ उ꣡त्सम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गो꣡रभसम् अ꣡द्रिभिर् वा᳐ता꣡प्यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 हरि॑म् । यत् । ते॒ । म॒न्दिन॑म् । धु॒क्षन् । वृ॒धे । गोऽर॑भसम् । अद्रि॑ऽभिः । वा॒ताप्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aṣṭā* ← *\_* ← *√\_*
 - \[?\]
@@ -127,14 +127,14 @@ genre M
 हे इन्द्र **महः** महतः **दिवः** मदकरस्य सोमस्य **अष्टा** भोक्तारौ पातारौ **हरी** स्वकीयौ अश्वौ **इह** अस्मिन्कर्मणि **आदः** पीतशेषं सोमं पायय । तथा **द्युम्नासाहं** द्युम्नस्य अस्मदीयस्य धनस्यहे इन्द्र **महः** महतः **दिवः** मदकरस्य सोमस्य **अष्टा** भोक्तारौ पातारौ **हरी** स्वकीयौ अश्वौ **इह** अस्मिन्कर्मणि **आदः** पीतशेषं सोमं पायय । तथा **द्युम्नासाहं** द्युम्नस्य अस्मदीयस्य धनस्य अभिभवितारम् **उत्सम्** उत्स्रावयितारं शत्रुं **योधानः** योधनशीलस्त्वम् **अभि** भव। **यत्** यदा **ते** तव **वृधे** वर्धनाय 'हरिं मनोहरं **मन्दिनं** मदकरं **गोरभसम्** । अत्र गोशब्दः पयसि वर्तते । पयो बलम् । तद्वद्वेगवन्तं वीर्यन्तमित्यर्थः । **वाताप्यं** वातेन प्राप्तव्यम् । वाततुल्येन शीघ्रकारिणा त्वया पातव्यमित्यर्थः। एवंविधं सोमम् **अद्रिभिः** ग्रावभिः **धुक्षन्** दुहन्ति ऋत्विजः अभिषुण्वन्ति । तदानीम् अष्टा इति पूर्वत्र संबन्धः ॥ अष्टा ‘।  ‘ अश भोजने' । तृच् । आगमानुशासनस्यानित्यत्वात् इडभावः । धुक्षन् । पदकालीनो भष्भावश्छान्दसः ॥अभिभवितारम् **उत्सम्** उत्स्रावयितारं शत्रुं **योधानः** योधनशीलस्त्वम् **अभि** भव। **यत्** यदा **ते** तव **वृधे** वर्धनाय 'हरिं मनोहरं **मन्दिनं** मदकरं **गोरभसम्** । अत्र गोशब्दः पयसि वर्तते । पयो बलम् । तद्वद्वेगवन्तं वीर्यन्तमित्यर्थः । **वाताप्यं** वातेन प्राप्तव्यम् । वाततुल्येन शीघ्रकारिणा त्वया पातव्यमित्यर्थः। एवंविधं सोमम् **अद्रिभिः** ग्रावभिः **धुक्षन्** दुहन्ति ऋत्विजः अभिषुण्वन्ति । तदानीम् अष्टा इति पूर्वत्र संबन्धः ॥ अष्टा ‘।  ‘ अश भोजने' । तृच् । आगमानुशासनस्यानित्यत्वात् इडभावः । धुक्षन् । पदकालीनो भष्भावश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Send hither your horses, the quaffers of the exhilarating libation; overcome, warrior, the adversary plural ndering us of our treasure; when they express with stones, for the increase (of your strength), the delightful, exhilarating, invigorating (**Soma**), to be overtaken by you, who are swifter than the wind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You brought here the two tawny (horses) attained from great heaven,  as you were battling for the wellspring (of soma), which was  
 overwhelming in heavenly brilliance,  
@@ -142,7 +142,7 @@ when for you to grow strong they milked with stones the exhilarating  tawny (som
 the wind.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The major puzzle in this verse is the grammatical identity of its first word, aṣṭā́. Geldner takes as the agent noun to √aś ‘attain’, which is not otherwise attested (and for which we should expect full grade *naṣṭár-), while Oldenberg, Renou, Scarlatta (602), Witzel Gotō take it as ‘eight’ (which of course requires some clever manoeuvering with its head noun, dual hárī). I follow Sāyaṇa, Grassmann in taking it as the ppl. to √(n)aś.
 
@@ -151,23 +151,23 @@ On the sense of vātā́pya- see comm. ad IX.93.5. The scansion of this stem is 
 I.121.9-13: Hoffmann (Inj. 191 and n. 157) transl. and comments on these mythological verses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eight steeds thou broughtest down from mighty heaven, when fighting for the well that giveth splendour,  
      That men might press with stones the gladdening yellow, strengthened with milk, fermenting, to exalt thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du den großen Himmel eingeholt, nahmst du hier die beiden Falben weg, den an Glanz überlegenen Quell erkämpfend, als sie zu deiner Stärkung den berauschenden Soma mit den Steinen ausmelkten, den auf die Milch der Kühe wilden, den Windbefreundeten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom hohen Himmel nahmst du dir die Rosse, erkämpftest hier den Kraft verleihnden Brunnen, Dass man mit Steinen dir den goldnen Rauschtrank zur Lust den starken milchgemischten melke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты взял сюда с великого неба (четыре) пары буланых коней – (всего) восемь,  
 Сражаясь за источник, (все) превосходящий блеском,  

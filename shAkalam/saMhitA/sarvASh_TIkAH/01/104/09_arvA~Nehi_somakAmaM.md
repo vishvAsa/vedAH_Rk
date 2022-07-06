@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वा꣡ङ् ए꣡हि सो꣡मकामं तुवाहुर्  
 अयं꣡ सुत꣡स् त꣡स्य पिबा म꣡दाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पिते꣡व नः शृणुहि हूय꣡मानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒रु॒ऽव्यचाः॑ । ज॒ठरे॑ । आ । वृ॒ष॒स्व॒ । पि॒ताऽइ॑व । नः॒ । शृ॒णु॒हि॒ । हू॒यमा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
@@ -129,37 +129,37 @@ genre M
 हे इन्द्र त्वम् **अर्वाङ्** अस्मदभिमुखः सन् **एहि** आगच्छ । किं कारणमिति चेत् यस्मात्त्वां **सोमकामं** सोमविषयाभिलाषम् **आहुः** पुराविदः कथयन्ति ।“अयम् अस्मदीयः सोमः **सुतः** ऋत्विग्भिरभिषुतः। अत आगच्छेत्यर्थः । आगत्य च **मदाय** हर्षार्थं **तस्य** तम् अस्मदीयमभिषुतं सोमं **पिब** । एतदेव स्पष्टीक्रियते । **उरुव्यचाः** उरु विस्तीर्णं व्यचो व्यापनं यस्य तादृशो महावयवो भूत्वा **जठरे** आत्मीये उदरे **आ** **वृषस्व** सोममासिञ्च । आ समन्तात् पूरयेत्यर्थः । एवंभूतस्त्वं **हूयमानः** स्तुतिभिराहूयमानः सन् **पितेव** पुत्राणां वाक्यानि शृणोति तथा **नः** अस्माकं वाक्यानि **शृणुहि** शृणु ॥ सोमकामम् । सोमविषयः कामः अभिलाषो यस्य । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । आहुः । ‘ ब्रुवः पञ्चानामादित आहो ब्रुवः' (पा. सू. ३. ४.८४) इति झेः उसादेशः धातोराहादेशश्च । तस्य । क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वात् चतुर्थ्यर्थे षष्ठी । मदाय । ‘मदी हर्षे'। मदोऽनुपसर्गे' इति भावे अप् । उरुव्यचाः । ‘ व्यच व्याजीकरणे'। औणादिकः असिप्रत्ययः । व्यचेः कुटादित्वमनसि' (का. १. २. १. १ ) इति वचनात् ङित्त्वाभावेन संप्रसारणाभावः । परादिश्छन्दसि बहुलम् ' इत्युत्तरपदाद्युदात्तत्वम् । यद्वा । उरु विचति व्याप्नोतीति उरुव्यचाः । कृदुत्तरपदप्रकृतिस्वरत्वम् । वृषस्व । वृष सेचने'। व्यत्ययेनात्मनेपदशप्रत्ययौ । शृणुहि ।' उतश्च प्रत्ययाच्छन्दसि वावचनम् इति हेर्लुगभावः ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Come into our presence; they have called you, fond of the **Soma**; it is prepared; drink of it for your exhilaration; vast of limb, distend your stomach, and when invoked hear us, as a father (listens to the words of his sons).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here nearby. They say you have lust for soma. Here it is,  
 pressed: drink it, for exhilaration.  
 Being of broad expanse, rain it into your belly. Like a father, hear us  when you are being called on.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us; they have called thee Soma-lover: here is the pressed juice. Drink thereof for rapture.  
      Widely-capacious, pour it down within thee, and, invocated, hear us like a Father.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm hierher! Man sagt, dich verlange nach Soma. Dieser ist ausgepreßt, davon trink zum Rausche! Schütte ihn dir in deinen Bauche, du der Geräumige! Erhöre uns wie ein Vater, wenn er gerufen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O komm herbei, man nennt dich Freund des Soma, hier steht gebraut er, trink davon zum Rausche, Du umfangsreicher, giess ihn in den Bauch dir; wenn wir dich rufen, hör uns wie ein Vater.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Иди сюда! Говорят, ты любишь сому.  
 Он выжат – пей его, Опьяняйся!  

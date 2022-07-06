@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वाग्ने होत्रं꣡ त꣡व पोत्र꣡म् ऋत्वि꣡यं  
 त꣡व नेष्ट्रं꣡ तुव꣡म् अग्नि꣡द् ऋतायतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ब्रह्मा꣡ चा꣡सि गृह꣡पतिश् च नो द꣡मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 तव॑ । प्र॒ऽशा॒स्त्रम् । त्वम् । अ॒ध्व॒रि॒ऽय॒सि॒ । ब्र॒ह्मा । च॒ । असि॑ । गृ॒हऽप॑तिः । च॒ । नः॒ । दमे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tavāgne* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -135,7 +135,7 @@ genre M;; repeated line
 हे **अग्ने** **तव** **होत्रं** होतृकर्म । त्वया विना तस्याभावात् । किंच **तव** एव **ऋत्वियम्** ऋतौ भवं प्राप्तानुष्ठानकालं **पोत्रं** पोतृकर्म । त्वया विना तस्याप्यभावात् । किंच **तव** एव **नेष्ट्रं** नेष्टृकर्म । किंच **ऋतायतः** ऋतं यज्ञं कर्तुमिच्छतो यजमानस्य **त्वम्** एव **अग्नित्** नान्यः कश्चित् । किंच **तव** एव **प्रशास्त्रं** प्रशास्तृकर्म । किंच हे अग्ने **त्वम्** एव **अध्वरीयसि** अध्वरं यज्ञं कर्तुमिच्छसि । तव हेतुत्वात्त्वत्कर्तृत्वम् । किंच त्वमेव **ब्रह्मा** **असि** । त्वया विना तस्याभावात् । किंच **नः** अस्माकं **दमे** गृहे **गृहपतिः** यजमानोऽसि । त्वया विनास्माकं यजमानत्वाभावात् ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,30 +146,30 @@ genre M;; repeated line
 You are the Agni: you are thefire-kindler, or **agnīdhra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yours, Agni, is the office of Hotar; yours that of Potar in its turn; yours  that of Neṣṭar; you are the Agnidh [=fire-kindler] of the one who  
 follows truth.  
 Yours is the office of Praśāstar; you act as Adhvaryu; you are both the  Brahman-priest and the Houselord in our home.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine is the Herald's task and Cleanser's duly timed; Leader art thou, and Kindler for the pious man.  
      Thou art Director, thou the ministering Priest: thou art the Brahman, Lord and Master in our home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, Agni, kommt das Amt des Hotri zu, dir das Amt des Potri zur rechten Zeit, dir das Amt des Nestri. Du bist der Feueranzünder des, der den rechten Brauch, das Opfer, vollzieht. Dir kommt das Amt des Prasastri zu, du wirkst als Adhvaryu, du bist sowohl der Brahman wie der Herr in unserem Hause.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein ist des Priesters, Agni, dein des Läuterers rechtmässig Amt, des Führers, dein des Ordnenden, Du bist des Frommen Glutentzünder, opferst gern, und Beter bist du, Hausherr du in unserm Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У тебя, о Агни, – служба хотара, у тебя – в урочное время служба потара,  
 У тебя – служба нештара, ты агнидх благочестивого,  

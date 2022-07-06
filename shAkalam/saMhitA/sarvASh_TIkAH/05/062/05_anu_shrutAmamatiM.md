@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु श्रुता꣡म् अम꣡तिं व꣡र्धद् उर्वी꣡म्  
 बर्हि꣡र् इव य꣡जुषा र꣡क्षमाणा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मि꣡त्रा꣡साथे वरुणे꣡ळासु अन्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नम॑स्वन्ता । धृ॒त॒ऽद॒क्षा॒ । अधि॑ । गर्ते॑ । मित्र॑ । आसा॑थे॒ इति॑ । व॒रु॒ण॒ । इळा॑सु । अ॒न्तरिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 **श्रुतां** विश्रुताम् **अमतिम्** । रूपनामैतत् । शरीरदीप्तिमित्यर्थः । ताम् **अनु** **वर्धत्** अनुवर्धयन्तौ । **बर्हिः** यज्ञः । सः **इव** स यथा **यजुषा** मन्त्रेण रक्ष्यते तद्वत् **उर्वीं** **रक्षमाणा** पालयन्तौ **नमस्वन्ता** अन्नवन्तौ हे **धृतदक्षा** आत्तबलौ हे **मित्र** हे **वरुण** हे मित्रावरुणौ युवामुक्तलक्षणौ सन्तौ **इळासु** यागभूमिषु **अन्तः** मध्ये **गर्ते** **अधि** रथे **आसाथे** उपविशथः ।  ‘ रथोऽपि गर्त उच्यते ' ( निरु. ३. ५ ) इति यास्कः ।  ‘ आ रोहथो वरुण मित्र गर्तम् ' ( ऋ. सं. ५, ६२. ८ ) इति ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,29 +124,29 @@ genre M
 Augmenting the well-known and ample form: śrutam amatim anuvardhād urvīm = viśrutam śarīradīptim anuvarddhayantau = augmenting the renowned bodily lustre; tad urvīm pālayantau; ascend your car: garte mitra āsāthe: **garta** = **ratha**, a car
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Guarding (the commandment) that increases your famed, broad banner,  as if guarding the ritual grass with a yajus-recitation,  
 you sit upon the throne amid the libations, o Mitra and Varuṇa of firm  skill, receiving homage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To make the lustre wider and more famous, guarding the sacred grass with veneration,  
      Ye, Mitra-Varuna, firm, strong, awe-inspiring, are seated on a throne amid oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem ihr das Gesetz, das eure berühmte, weite Herrschererscheinung entsprechend erhöht, wie das Barhis durch Opferspruch schützet, sitzet ihr Huldigungen empfangend auf eurem Hochstuhl im Überfluß, o Mitra und Varuna von fester Willenskraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ihr beschirmt, was wie die Streu mit Andacht dem hehren weiten Schimmer gleichend anwächst; Ihr sitzet treu voll Andacht auf dem Throne, Varuna-Mitra, unter Labetränken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Охраняя прославленный широкий облик,  
 Словно солому – жертвенной формулой, усиливаясь при этом,  

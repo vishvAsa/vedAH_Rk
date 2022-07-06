@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद꣡द् य꣡दी सर꣡मा रुग्ण꣡म् अ꣡द्रेर्  
 म꣡हि पा꣡थः पूर्वियं꣡ सध्रि꣡अक् कः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡छा र꣡वम् प्रथमा꣡ जानती꣡ गात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अग्र॑म् । न॒य॒त् । सु॒ऽपदी॑ । अक्ष॑राणाम् । अच्छ॑ । रव॑म् । प्र॒थ॒मा । जा॒न॒ती । गा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -131,7 +131,7 @@ genre M
 **यदि** यदा **सरमा** इन्द्रेण गवान्वेषणार्थं प्रेषिता सरमा नाम देवशुनी **अद्रेः** **रुग्णं** भग्नं द्वारं **विदत्** अलभत तदानीमिन्द्रः **महि** महत् **पूर्व्यं** पूर्वं प्रेषणकालेऽन्नादिनीं ते प्रजां करिष्यामि इति प्रतिज्ञातं **सध्र्यक्** इतरैरपि भोज्यैः सध्रीचीनं **पाथः** गव्यादिलक्षणमन्नं कः अकार्षीत् तस्यै दत्तवान् । ततः **सुपदी** शोभनपादयुक्ता सा सरमा **अक्षराणां** क्षयरहितानां गवाम् **अग्रं** प्रान्तं **नयत्** प्राप्नोत् । कुत इत्यत आह । यतः **रवं** तेषां हम्भारवं **प्रथमा** प्रथमं **जानती** सती **अच्छ** शब्दाभिमुख्येन **गात्** जगाम ॥ विदत् । **विद्लृ** लाभे ' इत्यस्य लुङि लृदित्त्वात् च्लेरादेशः। तस्य स्वरः । सरमा। सृ गती ' । औणादिकोऽमप्रत्ययः । सरतीति सरमा। ‘सरमा सरणात् ' ( निरु. ११. २४ ) इति यास्कः । प्रत्ययस्वरः । रुग्णम् । ‘रुजो भङ्गे' इत्यस्य निष्ठायाम् ‘ओदितश्च' इति नत्वम् । प्रत्ययस्वरः । पाथः । ‘पा रक्षणे ' ।' अन्ने च ' ( उ. सू. ४. ६४४ ) इत्यसुन्प्रत्ययः । थुडागमः । पातीति पाथोऽन्नम् । नित्स्वरः । सध्र्यक्। 'अञ्चु गतिपूजनयोः । ‘ऋत्विक् ' इत्यादिना क्विन् । सहाञ्चतीति । सहस्य सध्रिः ' इति सध्र्यादेशः । क्विन्प्रत्ययस्य कुत्वम् । ‘अद्रिसध्र्योः अन्तोदात्तत्वनिपातनं कृत्स्वरनिवृत्त्यर्थम् ' ( पा. सू. ६. ३. ९५. १ ) इति सध्रि इत्यादेशोऽन्तोदात्तः । यणादेशे कृते ‘ उदात्तस्वरितयोर्यणः स्वरितः' इति यणः स्वरितत्वम् । कः । करोतेर्लुङि सिपि च्लेः ' मन्त्रे घसह्वर ' इत्यादिना लुक् । गुणे कृते हल्या कदिना सिपो लोपः । विसर्जनीयः । निघातः । नयत् । नयतेर्लङि रूपम् । सुपदी । ‘पादोऽन्यतरस्याम् ' (पा. सू. ४. १. ८) इति ङीप् । गात् । इणो लुङि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,14 +144,14 @@ genre M
 Saramā = vāk, speech, that in which the gods saharamante, delight together
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Saramā found the break in the rock, she made the great ancient  herd directed toward one goal.  
 Sure-footed, she led the vanguard of the cows [/syllables]. First  
 recognizing (them), she went to their bellowing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) interpret ab as a direct quotation from the gods, for reasons that are unclear to me. Although an immediate past reading might help account for the injunctive aorists vidát (a) and kaḥ (b), in fact the second hemistich also contains two injunctives, nayat (c) and gāt (d), the latter of which is also an aorist. So there is no clear grammatical distinction between the two half-verses, and the subject (Saramā) also remains the same throughout (by most interpr.), with all four pādas focusing on the same narrative. Other interpreters (Renou, Lüders, Schmidt) ignore this odd decision of Geldner’s.
 
@@ -164,23 +164,23 @@ In b pā́thaḥ ordinarily means ‘fold, pen’, but here refers to the herd c
 Geldner makes the point (n. 6d) that ráva- in this context otherwise only refers to the Aṅgirases’s song; this leads him to switch the subject to Uṣas, as the first out of the cave, coming in response to the sound of the Aṅgirases. This seems, on the one hand, over-finicky -- why introduce another female character in the middle of a vs. without signaling it? -- and, on the other, rather deaf to the possibility of multiple meanings that always lurks in RVic discourse. One of the points of the Vala myth in general seems to me the mirroring of sounds: the song that releases the cows and their joyous counter-mooing in response -- an obvious place for a poet to allow a single word to do double duty. This same double reference is found in the preceding pāda in ákṣarāṇām. Schmidt (Bṛhaspati und Indra 167) also takes the ráva- to be that of Indra and the Aṅgirases and in fact makes Uṣas the subject of the whole 2nd hemistich. I do not see the need for this.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Sarama had found the mountain's fissure, that vast and ancient place she plundered thoroughly.  
      In the floods' van she led them forth, light-footed: she who well knew came first unto their lowing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Sarama die Bresche imFelsen findet, so wird sie ihren früheren großen Schutz vollständig machen." Die Leichtfüßige führt die Spitze der Kühe. Sich auskennend ging sie als erste auf den Schall zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Sarama den Spalt des Felsens auffand, da bahnte sie den grossen, alten Himmelspfad, der zu einem Ziele hinführt; mit sicherm Fuss geht sie voran; der unversieglichen [Kühe oder Ströme] Getön erkennend,, kam sie zuerst hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Сарама нашла пролом в скале,  
 Она сделала великое древнее защищенное место направленным на одну цель.  

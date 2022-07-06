@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् इ꣡त् सप्र꣡था असि  
 अ꣡ग्ने त्रातर् ऋत꣡स् कविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ विवासन्ति वेध꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वाम् । विप्रा॑सः । स॒म्ऽइ॒धा॒न॒ । दी॒दि॒ऽवः॒ । आ । वि॒वा॒स॒न्ति॒ । वे॒धसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -105,35 +105,35 @@ genre M
 हे **अग्ने** **त्रातः** रक्षक **ऋतः** सत्यभूतः **कविः** क्रान्तप्रज्ञः **त्वमित्** त्वमेव **सप्रथाः** सर्वतः पृथुः **असि** भवसि । हे **समिधान** समिध्यमान है **दीदिवः** दीप्त **त्वां** **विप्रासः** विप्रा मेधाविनः **वेधसः** विधातारः स्तोतारः **विवासन्ति** परिचरन्ति ॥ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Deliverer **Agni**, you, the truthful and the seer, are widely spread; O kindled blazing one, the wisepraisers wait on you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just you, of great extent, are the entruthed sage poet, o guardian Agni. Just you do the inspired poets and the ritual experts seek to attract here,  o you who shine while being kindled.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Famed art thou, Agni, far and wide, Preserver, righteous, and a Sage.  
      The holy singers, O refulgent kindled God! arrangers, call on thee to come -
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist weitbekannt, Agni, Schützer, ein rechter Seher. Dich, du Entzündeter, Leuchtender, bitten die beredten Meister her.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, du bist umfangreich, ein rechter Seher, Retter du; Dich stimmen freundlich, o entflammter, glänzender, die Sänger, die verehrenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты же широко известен,  
 О Агни, спаситель, (воплощенный) закон, поэт.  

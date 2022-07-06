@@ -6,14 +6,14 @@ ChandaH = "उष्णिग्गायत्री वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कदा꣡ वसो · स्तोत्रं꣡ ह꣡र्यते आ꣡  
 अ꣡व श्मशा꣡ रुधद्† वाः꣡  
 दीर्घं꣡ सुतं꣡ वाता꣡प्याय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 दी॒र्घम् । सु॒तम् । वा॒ताप्या॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kadā*
 - \[adverb\]
@@ -83,7 +83,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **वसो** वासयितरिन्द्र **स्तोत्रम्** अस्मत्कर्तृकं **हर्यते** कामयमानाय कामयमानं त्वाम् । ‘ क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वाच्चतुर्थी । **कदा** कस्मिन् काले **अव** **रुधत्** अवरोत्स्यति । अवरुध्य च कदा **वाः** वारयिष्यति । तादृशः कालः कदास्माकं संभविष्यतीत्याशास्ते । रुधेर्लुङि • इरितो वा ' इति च्लेरङादेशः । वारिति वृणोतेर्ण्यन्ताल्लङि छान्दसः शपो लुक् । ‘ छन्दस्युभयथा' इति तिप आर्धधातुकत्वात् णेरनिटि ' इति लोपे 'हल्या• ब्भ्यः' इति तिलोपः। तत्र दृष्टान्तः । अश्नुते क्षेत्रमिति **श्मशा** कुल्या । लुतोपममेतत् । यथा कुल्ये तस्तत उदकान्यवरुणद्धि अवरुध्य च वारयति तथेत्यर्थः । किमुद्दिश्यावरोध इति तत्राह । **दीर्घं** सवनत्रयरूपेणायतं **सुतम्** अभिषुतं सोमं प्रति । किमर्थमिति तदाह । **वाताप्याय** । वातेनाप्यतेऽधस्तान्निपात्यत इति वाताप्यमुदकम् । तस्य प्रदानायेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,30 +94,30 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Although the worship of **Indra** may be impeded bydelay, as water is checked by an embankment (śamaśā = **kulyā**), yet it will take effect ultimately, and thewater or the rain will spread abroad; cf. **Nirukta** 5.12
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o good one, for (you) who yearn for praise, will your beard  descend to the water,  
 to the (soma) long pressed for (you) whose friendship is sought  
 [/befriended by the wind]?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHEN, Vasu, wilt thou love the laud? Now let the channel bring the stream.  
      The juice is ready to ferment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wann wird dir, du Guter, der ein Loblied verlangt, der Bart das Wasser abhalten den lange gepreßten Trank, dir, dessen Freundschaft begehrt ist?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wann, o Trefflicher, ist das Loblied so, dass es dir behagt? der Rand [der Kufe] schliesst das Nass ein; lange steht der Saft zur Gährung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Васу, (тебе,) любящему восхваление,  
 Борода задержит воду –  

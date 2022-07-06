@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ व꣡न्दनं नि꣡रृतं जरण्य꣡या  
 र꣡थं न꣡ दस्रा करणा꣡ स꣡म् इन्वथः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ वाम् अ꣡त्र विधते꣡ दंस꣡ना भुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्षेत्रा॑त् । आ । विप्र॑म् । ज॒न॒थः॒ । वि॒प॒न्यया॑ । प्र । वा॒म् । अत्र॑ । वि॒ध॒ते । दं॒सना॑ । भु॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -128,7 +128,7 @@ genre M
 हे दस्रौ अश्विनौ **युवं** युवां **जरण्यया** जरया **निर्ऋतं** निःशेषेण प्राप्तं **वन्दनम्** ऋषिं **करणा** कर्मणां कर्तारौ शिल्पकुशलौ युवां **समिन्वथः** समधत्तं पुनर्युवानमकुरुतम् । तत्र दृष्टान्तः। **रथं** **न** । यथा कश्चिच्छील्पी जीर्णं रथं पुनरप्यभिनवं करोति तद्वत् । अपि च **विपन्यया** स्तुत्या गर्भस्थेन वामदेवेन स्तुतौ सन्तौ क्षेत्रात् **आ**॥ । आकारः समुच्चये । मातुरुदरलक्षणात् जन्मस्थानात् **विप्रं** मेधाविनं तमृषिं **जनथः** जनयथः च । तथा **वां** युवयोः **दंसना** रक्षणात्मकं कर्म **अत्र** अस्मै **विधते** परिचरते यजमानाय **प्र** **भुवत्** प्रभवतु । रक्षितुं समर्थं भवतु ॥ निर्ऋतम् । ‘ ऋ गतौ ' । कर्मणि निष्ठा । ‘गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । जरण्यया । जरणक्रियार्हा जरण्या । अन्त्यावस्था। 'छन्दसि च ' इति यः । करणा। करोतेः ‘अन्येभ्योऽपि दृश्यते ' ( पा. सू. ३. ३. १३०) इति युच् । इन्वथः । ‘इवि व्याप्तौ' । इदित्वात् नुम् । भौवादिकः । जनथः । जनी प्रादुर्भावे'। णिचि उपधावृद्धिः । **जनीजॄष्क्नसुरञ्जः'** इति मित्त्वात् ‘ मितां ह्रस्वः' इति ह्रस्वत्वम् । छन्दस्युभयथा ' इति शप आर्धधातुकत्वात् ‘णेरनिटि ' इति णिलोपः । विपन्यया । ‘पन स्तुतौ । ‘अघ्न्यादयश्च' इति भावे यत् । व्यत्ययेनान्तोदात्तत्वम् । विधते । ‘विध विधाने '। तौदादिकः । लटः शतृ । ‘शतुरनुमः' इति विभक्तेरुदात्तत्वम् । भुवत् । भवतेर्लेटि अडागमः । ‘बहुलं छन्दसि ' इति शपो लुक् । ‘भूसुवोस्तिङि' इति गुणप्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,7 +139,7 @@ genre M
 Vāmadeva, the sage, invoked the aid of the **Aśvins**, whilst yet in his mother's womb
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You constructed Vandana, who had fallen apart because of age, like  workers a chariot, o wondrous ones.  
 
@@ -148,23 +148,23 @@ amid acclaim. Here (too) your skill will prevail for the one
 honoring (you).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Doers of marvels, skilful workers, ye restored Vandana, like a car, worn out with length of days.  
      From earth ye brought the sage to life in wondrous mode; be your great deeds done here for him who honours you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Meister füget den aus Altersschwäche zerfallenen Vandana wie Werkmeister einen Wagen zusammen. Aus dem Boden lasset ihr unter Beifall den Redekundigen erstehen. Eure Meisterschaft bewährte sich dabei für den Verehrer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Helfer habt den altersmorschen Vandana wie Künstler einen Wagen neu zurecht gemacht, Gezeugt den Sänger aus dem Boden wundersam, dem Frommen hier sei hülfreich eure Wundermacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вандану, развалившегося от дряхлости,  
 Вы собираете, о удивительные, как мастера – колесницу.  

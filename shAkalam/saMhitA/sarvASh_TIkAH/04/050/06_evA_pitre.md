@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ पित्रे꣡ विश्व꣡देवाय वृ꣡ष्णे  
 यज्ञइ꣡र् विधेम न꣡मसा हवि꣡र्भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वयं꣡ सियाम प꣡तयो रयीणा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृह॑स्पते । सु॒ऽप्र॒जाः । वी॒रऽव॑न्तः । व॒यम् । स्या॒म॒ । पत॑यः । र॒यी॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 **पित्रे** पालकाय **विश्वदेवाय** सर्वदेवतारूपाय । देवानां मन्त्रप्रतिपाद्यत्वादस्य च मन्त्राभिमानित्वात् विश्वदेवत्वम् । यद्वा । अत्र देवशब्दः स्तुत्यर्थः । सर्वैः स्तुत्याय **वृष्णे** वर्षकाय बृहस्पतये देवाय **एव** एवमुक्तप्रकारेण **यज्ञैः** तत्साधनैः **हविर्भिः** आज्यचर्वादिलक्षणैः **नमसा** स्तुत्या च **विधेम** परिचरेम । हे **बृहस्पते** **सुप्रजाः** शोभनपुत्राः **वीरवन्तः** वीर्योपेताः **वयं** **रयीणां** धनानां **पतयः** **स्याम** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,13 +127,13 @@ genre M
 Universal deity: viśvadevāyha is an appellation of Bṛhaspati, because as the deity presiding over the **mantras** he is the same with every deity; or **deva** may mean praise, he who has the praise of all
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus to the father to all the gods, to the bull, we would do honor with  sacrifices, with homage, with oblations.  
 O Br̥haspati, may we, possessed of good offspring and of heroes, be  lords of riches.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, this is the final vs. of the 1st section of the hymn and has the standard marks of a hymn-final summary vs. It is the best evidence that vss. 1-6 were a separate composition, only secondarily amalgamated with the following two sections. Nonetheless, I think it simply marks a pause and a transition to the thematically contrastive next section.
 
@@ -147,28 +147,28 @@ As indicated in the published introduction, this section concerns the unitary fi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Serve we with sacrifices, gifts, and homage even thus the Steer of all the Gods, the Father.  
      Brhaspati, may we be lords of riches, with noble progeny and store of heroes.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Him, mighty friend of all the gods, the father, Serve we with sacrifices, gifts, obeisance. With goodly offspring and a throng of heroes Bṛhaspati, we would be lords of riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So wollen wir dem Vater, dem alle Götter gehören, dem Bullen mit Anbetung, mit Verbeugung, mit Opferspenden dienen. Brihaspati! Wir möchten gute Kinder, Söhne besitzen und Herren von Reichtümern sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und Opfer dienen; Brihaspati mach uns zu Herrn der Schätze, an Kindern reich an Enkeln uns und Helden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так хотим мы почтить отца, кому принадлежат все боги, быка,  
 Жертвами, поклонением, жертвенными возлияниями.  

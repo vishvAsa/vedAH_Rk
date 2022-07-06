@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इनो꣡ वा꣡जाना᳐म् प꣡तिर्  
 इनः꣡ पुष्टीनां᳐꣡ स꣡खा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡ वृ꣡था यो꣡ अ꣡दाभियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । श्मश्रु॑ । ह॒र्य॒तः । दू॒धो॒त् । वि । वृथा॑ । यः । अदा॑भ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ino* ← *inaḥ* ← *ina*
 - \[noun\], nominative, singular, masculine
@@ -99,7 +99,7 @@ genre M
 **इनः** ईश्वरः पूषा **वाजानां** हविरादीनां सर्वेषामन्नानां **पतिः** स्वामी **इनः** प्रभुः **पुष्टीनां** सर्वेषां प्राणिनां स्वभूतानां पोषणानां करणे **सखा** मित्रभूतः । सर्वस्योपकारित्वात् । किंच **हर्यतः** कामयमानस्य यजमानस्य स्वभूतं सोमं पिबन्निति शेषः। **श्मश्रु** श्मश्रूणि **वृथा** अनायासेनाप्रयत्नेन **प्र** **वि** **अदूधोत्** प्रकर्षेण विविधं कम्पयति **यः** पूषा **अदाभ्यः** शत्रुभिरहिंस्यः स इति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,29 +110,29 @@ genre M
 Desiring:haryataḥ: an epithet of **Pūṣan**, the desirable
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Powerful lord of prizes, powerful companion of prosperities,  
 the delightful one has shaken forth his beard, shaken it out at will—he  who is not to be deceived.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mighty Lord of spoil and wealth, Strong Friend of all prosperity;  
      He with light movement shakes his beard, lovely and ne'er to be deceived.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der gewaltige Herr der Gewinne, der gewaltige Freund des Wohlstands. Der Begehrte schüttelt seinen Bart, er schüttelt ihn nach Lust hin und her, der Unbetörbare.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der starke Herr der Labungen, der starke Freund der Nahrungen, Den Schnurrbart schüttelt er mit Lust, der holde nicht zu täuschende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Могучий хозяин наград,  
 Могучий друг процветаний,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रातर्जि꣡तम् भ꣡गम् उग्रं꣡ हुवेम  
 वय꣡म् पुत्र꣡म् अ꣡दितेर् यो꣡ विधर्ता꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रा꣡जा चिद् य꣡म् भ꣡गम् भक्षी꣡ति आ꣡ह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒ध्रः । चि॒त् । यम् । मन्य॑मानः । तु॒रः । चि॒त् । राजा॑ । चि॒त् । यम् । भग॑म् । भ॒क्षि॒ । इति॑ । आह॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prātarjitam* ← *prātar*
 - \[adverb\]
@@ -140,7 +140,7 @@ genre M
 **यः** भगो देवः **विधर्ता** विश्वस्य जगतो धारकः **जितं** जयशीलम् **उग्रम्** उद्गूर्णम् **अदितेः** **पुत्रं** **भगं** देवं प्रातःकाल एव **वयं** **हुवेम** आह्वयामः । **आध्रश्चित्** दरिद्रोऽपि स्तोता **यं** भगं देवं **मन्यमानः** स्तुवन् **भगं** भजनीयं धनं **भक्षि** भज विभज मह्यं देहि इति **आह** ब्रवीति । **तुरश्चित्** । तुरतिर्गतिकर्मा। प्राप्तधनोऽपि **राजा** **चित्** समर्थोऽपि जनः **यं** भगं देवं भजनीयं धनं मह्यं भक्षि देहीत्याह । तं भगं प्रातरेव वयं हुवेमेति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,13 +153,13 @@ Towhom the poor man: ādhraścid yam **manya** **mānas** turascid **rājā** ci
 Ura = **atura**, sick, or **yama**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We should call on the one victorious at early morning, Bhaga the strong,  Aditi’s son, who is the distributor,  
 to whom even a person who thinks himself weak (and also) even the  powerful, even the king says “Apportion me a portion.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the first pāda of this vs. see comm. immediately above.
 
@@ -172,23 +172,23 @@ Part -- but only part -- of the solution depends on how we analyze the verb form
 One reason I prefer the -si impv. interpr. is that the 1st sg. interpr. might impose more modality on an injunctive than we might expect: cf. Geldner’s “ich möchte … teilhaft werden” (though Scarlatta’s “ich bekomme …” avoids modality). The context favors a request, rather than a statement of accomplishment. 67
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We will invoke strong, early-conquering Bhaga, the Son of Aditi, the great supporter:  
      Thinking of whom, the poor, yea, even the mighty, even the King himself says, Give me Bhaga.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bhaga, den mächtigen Sieger am Morgen, wollen wir rufen, der Aditi Sohn, der der Verteiler ist, zu dem auch wer sich für schwach hält, und auch der Mächtige, zu dem selbst der König sagt: Ich möchte des Glückes, des Bhaga, teilhaft werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditja, rufen, Von dem der schwache, ja auch der sich stark dünkt, der König selbst »dich möcht' ich haben« saget.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рано утром побеждающего Бхагу грозного мы хотим призывать,  
 Сына Адити, (того,) кто распределитель (благ),  

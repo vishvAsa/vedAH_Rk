@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡वसा हि꣡ अ꣡सि श्रुतो꣡  
 वृत्रह꣡त्येन वृत्रहा꣡  
 मघइ꣡र् मघो꣡नो अ꣡ति शूर दाशसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 म॒घैः । म॒घोनः॑ । अति॑ । शू॒र॒ । दा॒श॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
@@ -89,43 +89,43 @@ genre M
 हे इन्द्र त्वं **शवसा** बलेन **श्रुतः** प्रसिद्धः **असि** भवसि । **हि** प्रसिद्धौ । तदेवाह । **वृत्रहत्येन** वृत्रासुरहननेन **वृत्रहा** वृत्रहेति प्रसिद्धो भवसि । **शूर** शौर्यवन् हे इन्द्र **मघोनः** मघवतो धनवतः पुरुषात् **मघैः** त्वदीयैर्धनैः **अति** अतिक्रम्य **दाशसि** स्तोतृभ्योऽस्मभ्यं प्रयच्छसि ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are renowned for strength; from the slaying of **Vṛtra**, you are (famed as) Vṛtrahan; you surpass,hero, the opulent in the donation of your riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you are famed because of your swelling might and, as Vr̥tra-smasher,  because of your Vr̥tra-smashing [/obstacle-smashing].  
 With your bounties you outdo the bounteous ones in piety, o champion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Two etymological figures: vṛtrahátyena vṛtrahā́(b) and maghaír maghónaḥ (c).
 
 On the unusual construction of áti √dāś see comm. ad VI.16.20.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou by slaying Vrtra art the Vrtra-slayer, famed for might.  
      Thou, Hero, in rich gifts surpassest wealthy chiefs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du bist durch deine Übermacht berühmt, durch die Vritratötung als Vritratöter. Mit Gaben überschenkest du Held die Freigebigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du bist ja durch Kraft berühmt, durch Vritrakampf, o Vritrafeind, An Gaben überragst du, Held, die Opferherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты знаменит силой,  
 Убийством Вритры, о убийца Вритры.  

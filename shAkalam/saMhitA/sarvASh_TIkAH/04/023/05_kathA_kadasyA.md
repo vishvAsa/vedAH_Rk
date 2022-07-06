@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ क꣡द् अस्या꣡ उष꣡सो वि꣡उष्टौ  
 देवो꣡ म꣡र्तस्य सखियं꣡ जुजोष  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ अस्मिन् का꣡मं सुयु꣡जं ततस्रे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 क॒था । कत् । अ॒स्य॒ । स॒ख्यम् । सखि॑ऽभ्यः । ये । अ॒स्मि॒न् । काम॑म् । सु॒ऽयुज॑म् । त॒त॒स्रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -122,20 +122,20 @@ genre M
 **देवः** द्योतमान इन्द्रः **अस्या** **उषसो** **व्युष्टौ** प्रभाते **मर्तस्य** मर्त्यस्य मनुष्यस्य स्तोतुः संबन्धि **सख्यं** सखिकर्म **कथा** कथं केन प्रकारेण **कत्** कदा **जुजोष** सेवेत । **ये** स्तोतारः **अस्मिन्** इन्द्रे **सुयुजं** सुष्ठु प्रयुज्यमानं **कामं** कामनीयं हविः स्तोत्रं च **ततस्रे** वितेनिरे **अस्य** इन्द्रस्य **सख्यं** सखिकर्म **सखिभ्यः** स्तोतृभ्यः **कथा** कथं **कत्** कदाचित् । भवेदिति शेषः ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, in what manner, at the dawning of this morning, has the divine **Indra** accepted the friendship of a mortal? when and in what manner, (is) his friendship (manifested) to the friends who have spread out the desirable and suitable (offering) before him?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How and what comradeship with a mortal does the god enjoy at the  breaking of this dawn?  
 How and what is his comradeship for his comrades, who have tugged  their well-harnessed desire to him?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted above, fem. asyā́(ḥ) patterns with the ubiquitous asya in this vs.: 5a kathā́kád asyā́/ 5c kathā́kád asya.
 
@@ -149,23 +149,23 @@ The root √juṣ encountered in two different forms in 1bc recurs here in the p
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How, and what bond of friendship with a mortal hath the God chosen as this morn is breaking?  
      How, and what love hath he for those who love him, who have entwined in him their firm affection?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie und an welcher Freundschaft eines Sterblichen hat der Gott bei Aufgang dieser Morgenröte Gefallen gefunden? Wie und welches ist seine Freundschaft für die Freunde, die an ihn ihren wohlgeschirrten Wunsch gerichtet haben?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie hat der Gott bei dieses Morgens Leuchten Gefallen an des Sterblichen Gemeinschaft? Wie ist doch seine Freundschaft mit den Menschen, die zu ihm trieben schön geschirrte Wünsche?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как (и) в какой дружбе смертного бог  
 Находит удовольствие на восходе этой зари?  

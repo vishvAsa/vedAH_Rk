@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡ अर्यमा꣡ म꣡नुषो देव꣡ताता  
 त्री꣡ रोचना꣡ दिविया꣡ धारयन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुव꣡म् एषाम् ऋ꣡षिर् इन्द्रासि धी꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अर्च॑न्ति । त्वा॒ । म॒रुतः॑ । पू॒तऽद॑क्षाः । त्वम् । ए॒षा॒म् । ऋषिः॑ । इ॒न्द्र॒ । अ॒सि॒ । धीरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *try* ← *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
@@ -122,7 +122,7 @@ genre M
 मनुषोमनोःसम्बन्धिनिदेवताता देवतातौ यज्ञे त्री त्रीणि अर्यमा अर्यमाणि यानितेजांसि सन्ति तथा त्री त्रीणि रोचना रोचनानि वाय्वग्निसूर्यात्मकानि दिव्या दिव्यान्यन्तरिक्षेभवानि तानि तेजांसि धारयन्त मरुतोधारयन्ति पूतदक्षाः शुद्धबलामरुतः त्वा त्वां अर्चन्ति स्तुवन्ति हेइन्द्र धीरः धीमांस्त्वं एषाम्मरुतांऋषिरसि द्रष्टाभवसि ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,12 +133,12 @@ genre M
 Three luminaries: the sun, the wind, and fire; the same trio may be intended by the earlier phrase tryaryamā trīṇi aryamāṇi tejāṃsi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They uphold the three customs [=rituals of the soma-pressing day] at  Manu’s attendance on the gods and the three heavenly realms of light. The Maruts of refined skill chant to you. You are their wise seer, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I follow Brereton (Ādityas, 165-66), who in turn followed Thieme (Mitra and Aryaman, 78-77), in taking aryamā́not as nom. sg. masc. (as it is normally and as taken by the standard tr.), but as acc. pl. neut. construed with trī́(like trī́rocanā́in the next pāda). Against Thieme’s “three hospitalities,” Brereton plausibly suggests that in this context the three aryamā́must refer to “what governs the ritual,” perhaps the three soma-pressings or the three fires.
 
@@ -147,23 +147,23 @@ Pāda-initial trī́, found here in a and b, recurs in 7c, 8a, b (also non-initi
 In c pūtá-dakṣa- (/pūtá-dakṣas-) is ordinarily Ādityan vocabulary (though used of the Maruts also in VIII.94.7, 10). Geldner (/Witzel Gotō) supply the Ādityas as the subj. of dhārayanta in b and of course take Aryaman as the subject of pāda a. By contrast, I think the Maruts are subjects of all three pādas -- but they are identified with the Ādityas throughout, as the use of pūtádakṣa-, ordinarily a qualifier of the Ādityas, makes clear.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAN'S worship of the Gods hath three great lustres, and three celestial lights have they established  
      The Maruts gifted with pure strength adore thee, for thou, O Indra, art their sapient Rsi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aryaman erhält die drei Sitze bei dem Gottesdienst des Menschen, die Aditya´serhalten die drei himmlischen Lichträume. Dich preisen die Marut von lauterem Wollen; du, Indra, bist ihr weiser Rishi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei Himmelsräume schufen die Aditja's, gekräftigt durch den Gottesdienst des Menschen, Die Maruts preisen dich, die reingesinnten, du Indra bist ihr kunstverständ'ger Barde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Три (жертвенных места охраняет) Арьяман при почитании богов человеком.  
 Три светлых небесных пространства охраняют (Адитьи).  

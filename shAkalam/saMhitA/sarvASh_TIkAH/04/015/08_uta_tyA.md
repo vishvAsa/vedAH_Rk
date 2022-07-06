@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्या꣡ यजता꣡ ह꣡री  
 कुमारा꣡त् साहदेविया꣡त्  
 प्र꣡यता सद्य꣡ आ꣡ ददे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 प्रऽय॑ता । स॒द्यः । आ । द॒दे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -83,45 +83,45 @@ genre M
 **उत** अपि च **साहदेव्यात्** सहदेवस्य पुत्रात् **कुमारात्** सोमकाख्यात् राज्ञः **यजता** पूजनीयौ **प्रयता** प्रयतौ **त्या** त्यौ तौ प्रसिद्धौ **हरी** अश्वौ **सद्यः** यस्मिन् दिने तेनाहूतस्तस्मिन्नेव दिने **आ** **ददे** अदत्तवानस्मि । मन्त्रद्रष्टा ऋषिः ‘बोधत्' इत्यृग्द्वयेन कुमारमश्वेप्सयाभ्युपगम्य अश्वौ एतस्मात् लब्ध्वा प्रीतोऽभवदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “But immediately accepted those two excellent and well-trained horses from the prince, the son of **Sahadeva**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And these two fallow bays, worthy of honor, from Prince Sāhadevya I took as soon as they were offered.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This next vs. indicates that the reminder had its effect. The grammatical identity of ā́dade is ambiguous: it could be pres. indic. or pf. indic. In fact in my interpr. of this two-verse sequence 7-8 it doesn’t really matter: 8c could be tr. “I take as soon as they are offered” without disturbing the rhetorical sequence. However, I follow most (incl. Kümmel, 241) in taking it as a preterital pf. rather than as a pres. with Hoffmann (Injunk, 232; so also Witzel Gotō).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And truly those two noble bays I straightway took when offered me,  
      From Sahadeva's princely son.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And immediately I accepted from Sahadeva's son, the prince, those adorable two bay horses which he offered me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und diese beiden göttlichen Falben habe ich von dem Prinzen Sahadevya sogleich als Geschenk empfangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diese preisenswerthen zwei Rosse, vom jungen Sohne des Sahadeva mir dargereicht, empfing ich sogleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И этих двухбожественных буланых коней  
 От царевича Сахадевьи  

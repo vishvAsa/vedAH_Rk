@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ धावता सुहस्तियः  
 शुक्रा꣡ गृभ्णीत मन्थि꣡ना  
 गो꣡भिः श्रीणीत मत्सर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गोभिः॑ । श्री॒णी॒त॒ । म॒त्स॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सुहस्त्यः** शोभनहस्ता ऋत्विजः **आ** **धावत** । मां संप्रति आगच्छत । **मन्थिना** सह **शुक्रा** शुक्रं च **गृभ्णीत** गृह्णीत सोमम् । **मत्सरं** सोमं **गोभिः** गोविकारैः पयोभिः **श्रीणीत** संस्कुरुत च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Dexterous (priests) have (to me), taken with the ladle the pure (**Soma**), mix the exhilarating (Soma) with milk and curds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rinse it, you (fingers) of good hands; grasp the two (soma drinks), the  stirred and the pure.  
 Mix the exhilarating one with cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg is inclined, flg. BR, to emend voc. suhasti yaḥ to *suhasti yāḥ, derived from the stem suhásti ya-, hence a masc. nom. pl. referring to the priestly officiants. Renou follows him, remarking rather scornfully “il est peu probable que l’auteur ait voulu désigner par ce Voc. … des entités féminines, à la rigueur toutefois les « doigts ».” But see Geldner’s quite sensible n.
 
@@ -101,23 +101,23 @@ suggesting that the fem. refers to the fingers, which are frequently assigned ri
 śukrā́… manthínā is a discontinuous dual dvandva. The phraseology matches III.32.2 gávāśiram manthínam ... śukrám ... sómam; cf. góbhiḥ śrīṇīta in c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Deft-handed men, run hither, seize the brilliant juices blent with meal,  
      And cook with milk the gladdening draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Handtüchtigen, spület, schöpfet den klaren und den mit Mehl gerührten Schoppen; mischet den berauschenden Soma mit Milch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durchspült mit rüst'gen Händen ihn, ergreift das helle Trankgemisch, Und mischt mit Milch den Wonnetrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ गउ꣡र् वर्तनि꣡म्परिए꣡ति निष्कृत꣡म्  
 प꣡यो दु꣡हाना व्रतनी꣡र् अवार꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देवे꣡भ्यो दाशद् धवि꣡षा विव꣡स्वते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सा । प्र॒ऽब्रु॒वा॒णा । वरु॑णाय । दा॒शुषे॑ । दे॒वेभ्यः॑ । दा॒श॒त् । ह॒विषा॑ । वि॒वस्व॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -112,7 +112,7 @@ genre M
 **या** इयं मदीया **पयः** क्षीरादिकं **दुहाना** **व्रतनीः** आश्रयणपयःप्रदानेन कर्मणो नेत्री **गौः** **निष्कृतं** संस्कृतं **वर्तनिम्** अवासस्थानं यज्ञम् **अवारतः** अवरणेन अप्रार्थनेनैव **पर्येति** परिगच्छति स्वयमेवागच्छति **प्रबुवाणा** मया प्रस्तूयमाना **सा** गौः **दाशुषे** हविर्दत्तवते **वरुणाय** **देवेभ्यः** अन्येभ्य इन्द्रादिभ्यश्च **हविषा** अन्नेन **विवस्वते** देवान् परिचरते मह्यं मां रक्षितुं **दाशत्** पयः प्रयच्छतु । ‘दाशृ दाने ' । लेट्यडागमः । यद्वा । गौरिति माध्यमिका वाक् या पय ऊर्जं दुहाना  ‘ सा नो मन्द्रेषमूर्जं दुहाना' (ऋ. सं. ८. १००. ११) इत्यादिषु दृष्टत्वात्। तत्परतया पूर्ववद्योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,30 +125,30 @@ Milk: of strength, gauḥ = thunder, **mādhyamikā** vāk; cf. RV 8.100.11; off
 Dāśuṣe = an epithet of **Varuṇa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The cow [=offering ladle?] that goes around the (ritual) track to the  appointed place, giving her milk, leading at the commandment (of  
 Varuṇa), not by choice,  
 she, being announced, will do ritual service to Varuṇa who (also) serves,  to the gods, and to Vivasvant with the oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The cow who yielding milk goes her appointed way hither to us as leader of holy rites,  
      Speaking aloud to Varuna and the worshipper, shall with oblation serve Vivasvan and the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kuh, die die Bahn umwandelt zu dem Treffort, ihre Milch spendend, die Vorschrift ausführend, ohne sich etwas auszubitten, sie, die das Opfer anmeldet, ist gegen Varuna, den Spender, gegen die Götter und Vivasvat mit Opfer freigebig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kuh, durchwandernd den ihr angewiesnen Pfad, das Werk vollbringend, Milch ergiessend zu uns her; Sich selbst verkündend ihm, dem treuen Varuna, so dien' mit Trank den Göttern, dem Vivasvat sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

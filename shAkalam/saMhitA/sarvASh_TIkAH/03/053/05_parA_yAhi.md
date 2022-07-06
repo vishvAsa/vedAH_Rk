@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रा याहि मघवन्न् आ꣡ च याहि  
 इ꣡न्द्र भ्रातर् उभय꣡त्रा ते अ꣡र्थम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विमो꣡चनं वाजि꣡नो रा꣡सभस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत्र॑ । रथ॑स्य । बृ॒ह॒तः । नि॒ऽधान॑म् । वि॒ऽमोच॑नम् । वा॒जिनः॑ । रास॑भस्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parā*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 हे **मघवन्** धनवन् **इन्द्र** त्वं **परा** **याहि** अस्माद्देवयजनात् पराङ्मुखो गृहं प्रति गच्छ । अथवा देवयजनं प्रति **आ** **याहि** । हे **भ्रातः** पोषक **उभयत्र** अपि **ते** तव **अर्थम्** । अर्यते प्राप्यत इत्यर्थः प्रयोजनम् । अस्ति तत्र जाया अत्र सोमः । प्रयोजनान्तरमाह । **यत्र** गृहं प्रति गमने **बृहतः** महतः **रथस्य** उपरि **निधानम्** अवस्थानं प्रयोजनम् । अत्र स्थितौ **रासभस्य** हेषारवं कुर्वतः **वाजिनः** अश्वस्य रथात् **विमोचनं** प्रयोजनम् ॥ अर्थम् । ऋ गतौ ।' उषिकुषिगार्तिभ्यस्थन् । इति थन् । नित्स्वरः । निधानम् । दधातेर्भावे ल्युट् । ‘लिति' इति प्रत्ययात्पूर्व स्योदात्तत्वम् । रासभस्य । ‘रासृ शब्दे'। 'रासिवल्लिभ्यां च ' ( उ. सू. ३. ४०५) इति कर्तरि अभच्प्रत्ययः । ग्रामादित्वादाद्युदात्तः ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre M
 Both ways: **ubhayatra** te **artham**: Indra's wife awaits his return, the **Soma** libation invites his stay; protectorL bhrātā = liṭ, brother; but here explained as poṣaka, nourisher
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive yon, bounteous one, and drive hither. Brother Indra, in both places  there is a goal for you,  
 where there is a resting place for your lofty chariot and unhitching for  your prizewinning donkey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Depart, O Maghavan;again come hither: both there and here thy goat is Indra, Brother,  
      Where thy tall chariot hath a place to rest in, and where thqu loosest thy loud-neighing Courser.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh fort, du Gabenreicher, und komm wieder, Bruder Indra; an beiden Orten hast du ein Ziel, wo man den hohen Wagen einstellt und den siegreichen Esel ausspannt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geh dorthin, starker, und auch hierher komme, o Indra, Bruder, hier und dort ist Heil dir; Dort wo dir ist des grossen Wagens Schauer und deines schnellen Eselhengstes Einkehr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Уезжай, о щедрый, и приезжай (снова),  
 О Индра-брат! В обоих местах есть у тебя цель,  

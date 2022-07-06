@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुवे꣡ न꣡प्तुर् देव꣡वतः शते꣡ गो꣡र्  
 दुवा꣡ र꣡था वधू꣡मन्ता सुदा꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हो꣡तेव स꣡द्म प꣡रि एमि रे꣡भन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अर्ह॑न् । अ॒ग्ने॒ । पै॒ज॒ऽव॒नस्य॑ । दान॑म् । होता॑ऽइव । सद्म॑ । परि॑ । ए॒मि॒ । रेभ॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dve* ← *dvi*
 - \[noun\], accusative, dual, neuter
@@ -120,43 +120,43 @@ genre M
 **देववतः** राज्ञः **नप्तुः** पौत्रस्य **पैजवनस्य** पिजवनपुत्रस्य **सुदासः** राज्ञः **गोः** गवां **द्वे** **शते** **वधूमन्ता** वधूसंयुक्तौ **द्वा** द्वौ **रथा** रथौ च देयं **दानं** दानभूतान् **रेभन्** इन्द्रं स्तुवन् अत एव **अर्हन** योग्योऽहं वसिष्ठो हे **अग्ने** **सद्म** यज्ञगृहं **होतेव** वषट्कर्तेव **पर्येमि** । अत्राग्नेः संबोधनं सर्वदेवमुख्यत्वप्रतिपादनार्थं न तु देवतात्वज्ञापनार्थमतद्देवताकत्वादस्य सूक्तस्य ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praising the liberality of **Sudāsa**, the grandson of Devavat, the son of **Paijavana**, the donor of twohundred cows, and of two chariots with two wives, I, worthy (of the gift), circumambulate you, **Agni**, like theministrant priest in the chamber (of sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Two hundred (head) of cattle from the descendant of Devavant, two  chariots carrying brides from Sudās—  
 deserving the gift of Paijavana, o Agni, I circle around (it), like a Hotar  the seat (of the sacrificial victim), as I “rasp” [=sing].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas begin the enumeration of the Paijavana’s dā́namentioned in c -- an enumeration continued in 23.
 
 The simile in d, hóteva sádma páry emi, is one of the few clear references to the animal sacrifice, with this depicting the Paryagnikaraṇa; cf. IX.97.1, where the animals are explicit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Priest-like, with praise, I move around the altar, earning Paijavana's reward, O Agni,  
      Two hundred cows from Devavan's descendant, two chariots from Sudas with mares to draw them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zweihundert Kühe des Enkels des Devavat, zwei Wagen samt jungen Weibern von Sudas - würdig dieser Schenkung des Paijavana, o Agni, umwandele ich sie, lautredend wie ein Hotri den Opferplatz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zweihundert Rinder, zwei mit Gespann versehene Wagen, vom Sudas, dem Enkel des Devavat von Paidschavana [Beiname des Sudas] als Lohn verdienend, o Agni, umwandre ich preisend wie ein Priester den Altar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Двести быков внука Девавата,  
 Две колесницы с юными женами Судаса –  

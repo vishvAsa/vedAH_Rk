@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ त्ये꣡ अरुण꣡प्सवश्  
 चित्रा꣡ या꣡मेभिर् ईरते  
 वाश्रा꣡ अ꣡धि ष्णु꣡ना दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वा॒श्राः । अधि॑ । स्नुना॑ । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -84,46 +84,46 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **त्ये** ते पूर्वोक्तगुणाः **अरुणप्सवः** अरुणवर्णरूपाः **चित्राः** चायनीयाः आश्चर्यभूता वा **वाश्राः** शब्दकारिणः एवंभूता मरुतः **यामेभिः** यामैर्यानैः **दिवः** **अधि** द्युलोकस्योपरि **स्नुना** सानुना समुच्छ्रितप्रदेशेन **उत्** **ईरते** उद्गच्छन्ति । **उ** इति पूरणः ॥ ‘पदादिषु मांस्पृत्स्नूनामुपसंख्यानम् ' इति सानुशब्दस्य स्नुभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Truly these purple-hued, wonderful, clamorous **Maruts** proceed with their chariots in the height aove thesky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up they rise, bright with ruddy breath, along their courses,  
 bellowing on the back of heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both úd … īrate and vāśrá- echo vs. 3. There is an internal echo between aruṇápsavaḥ (a) and ṣṇúnā (c).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These, verily, wondrous, red of hue, speed on their courses with a roar  
      Over the ridges of the sky.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 They rise, of ruddy hue and bright, Upon their courses with a roar, Across the ridges of the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jene Rotfarbigen, Glänzenden brechen auf ihren Fahrten los, brüllend über den Rücken des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon brechen dort die glänzenden, rothschimmernden in Zügen auf, Lauttosend auf des Himmels Höh.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те алого цвета (боги)  
 Яркие, взмывают ввысь во время походов,  

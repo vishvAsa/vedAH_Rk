@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ जु꣡ह्वाना युष्म꣡द् आ꣡ न꣡मोभिः  
 प्र꣡ति स्तो꣡मं सरस्वति जुषस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡प स्थेयाम शरणं꣡ न꣡ वृक्ष꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तव॑ । शर्म॑न् । प्रि॒यऽत॑मे । दधा॑नाः । उप॑ । स्थे॒या॒म॒ । श॒र॒णम् । न । वृ॒क्षम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
@@ -118,7 +118,7 @@ genre M
 हे **सरस्वति** **इमा** इमान्यस्मदीयानि हवींषि **जुह्वानाः** तुभ्यं जुह्वतो वयं **नमोभिः** त्वद्विषयैः नमस्कारैः **युष्मदत्** त्वत्सकाशात् **आ**। उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । आददीमहि धनानीति शेषः । **स्तोमं** चास्मदीयं स्तोत्रं **प्रति** जुषस्व प्रतिसेवस्व । वयं च प्रियतमे अतिशयेन प्रिये **तव** त्वदीये **शर्मन्** शर्मणि सुखे **दधानाः** निधीयमानाः सन्तः **शरणं** न **वृक्षम्** आश्रयभूतं वृक्षमिव **उप** **स्थेयाम** त्वामुपतिष्ठेम संगच्छेमहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,14 +129,14 @@ genre M
 May we receive: **yuṣmad** a: a = also; adadīmahi, may we receive
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here are (oblations) being poured all the way to you (rivers), along with  reverences. Take pleasure in the praise, Sarasvatī.  
 Being set in your dearest shelter, may we stand nearby it like a  
 sheltering tree.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. of the syntax and the reference in this vs. differs considerably from the standard. Most (Geldner, Renou; see also Oldenberg) take b as parenthetic, with pāda a parallel to c, both containing nom. pl. m. med. participles with 1st ps. subjects, júhvānā(ḥ) and dádhānā(ḥ) respectively. The first part. is transitive with imā́as object. Hence, “Offering these (oblations, vel. sim.) … , setting ourselves in your shelter, we …” Under this interpr. according to Renou, the yuṣmát in pāda a refers to the patrons, already found in vs. 3 -- rather loosely construed (“de votre part”). Geldner fails to identify the 2nd pl. referent, while Oldenberg considers both the patrons and the rivers possible and makes no decision.
 
@@ -147,23 +147,23 @@ is passive and forms a nominal clause with imā́, with the participle predicate
 (Note that Grassmann takes this form as passive, but as a nom. pl. fem. in -āḥ modifying his supplied gíraḥ ‘hymns’, represented by imā́ḥ [requiring him to go against the Pp reading imā́].) 121 By my interpr. of pāda a, the 2nd pl. refers to the (other) rivers just featured in 4d, and in the expression yuṣmád ā́, ā́means ‘all the way to’, though it must be admitted that ā́in that usage usually precedes (see Grassmann col. 169). Oldenberg himself suggests as one of his possibilities “bis zu euch hin” of the rivers or waters. The ambiguous position of ā́in the expression in 2b giríbhya ā́samudrā́t “from the mountains all the way to the sea” also has ā́directly before an abl. expressing goal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These offerings have ye made with adoration: say this, Sarasvati, and accept our praises;  
      And, placing us under thy dear protection, may we approach thee, as a tree, for shelter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Opfergaben mit Verbeugungen vor euch darbringend-nimm, o Sarasvati, das Loblied gern entgegen-in deinen geliebtesten Schutz uns stellend wollen wir wie unter einen schützenden Baum treten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu euch ergossen diese sich mit Andacht, nimm huldreich auf, Sarasvati, die Lieder; In deine liebste Hut gestellt lass kommen uns unter deinen Schirm wie unter's Laubdach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Совершая эти (жертвенные возлияния) от вас вместе с поклонениями, –  
 Наслаждайся, о Сарасвати, восхвалением! –  

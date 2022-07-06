@@ -6,14 +6,14 @@ ChandaH = "पिपीलिकमध्या"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡री य꣡स्य सुयु꣡जा वि꣡व्रता वे꣡र्  
 अ꣡र्वन्ता अ꣡नु शे꣡पा  
 उभा꣡ रजी꣡ न꣡ केशि꣡ना प꣡तिर् द꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 उ॒भा । र॒जी इति॑ । न । के॒शिना॑ । पतिः॑ । दन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
@@ -101,36 +101,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **यस्य** इन्द्रस्य **हरी** हरितवर्णावश्वौ **सुयुजा** सुष्ठु नियोज्यौ । सुशिक्षितावित्यर्थः । **विव्रता** । व्रतमिति कर्मनाम। विशिष्टकर्माणौ अर्वन्तौ अरणकुशलौ **शेपा** शेपवन्तौ । मत्वर्थो लुप्यते । प्रशस्तपुंस्त्वावित्यर्थः। **उभा** उभौ **रजी** **न** रजसी द्यावापृथिव्याविव । यद्वा महान्तौ रञ्जकौ सूर्याचन्द्रमसाविव । **केशिना** केशिनौ प्रकाशमानौ केशवन्तौ वा ईदृशावश्वौ हे इन्द्र यस्य ते तव स्वभूतौ तयोः **पतिः** स्वामी त्वं **दन्** धनानि प्रयच्छन् **अनु** **वेः** स्तुतशस्त्रादीन्यनुकामयस्व । दन्निति ददातेः शतरि ‘छन्दस्युभयथा' इत्यार्धधातुकत्वात् ‘आतो लोप इटि च' इत्याकारलोपः । अत एव श्ल्वभावश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(O **Indra**), to whom belong the two bay horses, well-trained, active, swift, courageous, brilliant as thetwo worlds, do you, who are lord (of bay horses), bestowing (wealth upon us), desire (our praises).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who pursue your two fallow bays, well yoked but possessing  separate commandments, the steeds *with slender penises,  
 the two with manes like two lines—you, the houselord—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He whose two Bay Steeds harnessed well, swerving, pursue the Bird's tail-plumes,  
      With Rowing manes, like heaven and earth, he is the Lord with power to give.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der seine zwei wohlgeschirrten falben Rennpferde, wenn sie widerspenstig sind, den Schweifen entsprechend lenkt, die Bemähten wie zwei Geradlinige, er der Gebieter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, dessen goldfarbenes Rossepaar schön angeschirrt, auf beiden Seiten vorwärts strebt, laufend längs den beiden Schwänzen des Vogels [den beiden Strängen der Deichselstangen des Wagens], wie ein Hausherr zwischen den beiden behaarten Linien.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто свою пару буланых коней, легко запрягаемых, (но) строптивых,  
 Двоих скакунов – хвосты (их) как у птицы –  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ग्रा꣡वभिर् अहनि꣡येभिर् अक्तु꣡भिर्  
 व꣡रिष्ठं व꣡ज्रम् आ꣡ जिघर्ति मायि꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 संवर्त꣡यन्तो वि꣡ च वर्तयन्न् अ꣡हा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 श॒तम् । वा॒ । यस्य॑ । प्र॒ऽचर॑न् । स्वे । दमे॑ । स॒म्ऽव॒र्तय॑न्तः । वि । च॒ । व॒र्त॒य॒न् । अहा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,21 +123,21 @@ genre M
 अत्र पूर्वार्धे इन्द्र उच्यते उत्तरार्धे इन्द्रात्मा सूर्यः । **आ** हूयत इति शेषः । कैः । **अहन्येभिः** अहनि संपादितैः **अक्तुभिः** रात्रिभिः । तत्र निष्पन्नैरित्यर्थः । तथाविधैः **ग्रावभिः** । साध्ये साधनशब्दः । ग्रावसाध्यैरभिषवैर्निमित्तभूतैः । आगत्यात्र सोमी सन् **मायिनि** वृत्रे निमित्ते सति **वरिष्ठम्** उरुतरं **वज्रम्** **आ** सर्वतः **जिघर्ति** दीपयति । **वा** किंच । वाशब्दश्चार्थे । **यस्य** इन्द्रात्मकस्यादित्यस्य **शतं** शतसंख्याका रश्मयः **स्वे** **दमे** स्वकीये गृहे आकाशे **प्रचरन्** प्रचरन्ति । किं कुर्वन्तः । **संवर्तयन्तः** प्राणिनो नाशयन्तः । यद्वा । अहा अहानि दिवसान् संवर्तयन्तः सम्यक् प्रवर्तयन्तः **वि** **च** **वर्तयन्** अहा अहानि निवर्तयन्ति गतान्येव पुनः प्रापयन्ति च । तपनपरिस्पन्दाधीनत्वात् प्राणिनामायुःक्षयस्याहोरात्रादिव्यवहारस्य ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Animated) by the libations offered by day and by night, (**Indra**) sharpens his vast thunderbolt against the beguiler (**Vṛtra**); he whose hundred (rays) attend him in his own abode, sending away, and bringing back (revolving) days.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along with the pressing stones, through (the periods) of the day and  through the nights, he [=Agni?] sprinkles [=prepares] the best mace,  when the master of artifice [=Indra?] (is there)—  
 while into his own [=Agni’s] house (the Dawns?) proceed by the  
 hundred: rolling up the days, they unroll them (again).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this vs. is the hardest in the hymn and, as the middle vs., serves as an omphalos. It contains several temporal expressions and thus continues the theme of the passage of time found in the 2nd half of vs. 2, but the rest is rather unclear. My rendering is tentative and also differs considerably from those of others, the details of which cannot be fully covered here.
 
@@ -161,23 +161,23 @@ As for the ca in d, I think it contrastively conjoins the preverbs sam and ví, 
 </details>
 
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With pressing-stones and with the bright beams of the day he hurls his broadest bolt against the Guileful One.  
      Even he whose hundred wander in his own abode, driving the days afar and bringing them again.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den täglichen Preßsteinen Nacht für Nacht schleudert er die beste Keule auf den Zauberischen. Aber in wessen eigenem Hause Hundert Götter einkehren, dem mögen sie die Tage auch wieder aufrollen, wenn sie sie zusammenrollen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Somasteine bei des Tages hellem Licht ergiesst er auf den Zauberer den schärfsten Blitz; In dessen eignem Hause hundert thätig sind, Die Lebenstag' aufrollend und entrollend dann,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С помощью давильных камней днями и ночами  
 Он швыряет лучшую дубину в колдовского (демона).  

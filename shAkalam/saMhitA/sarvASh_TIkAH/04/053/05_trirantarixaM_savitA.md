@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡र् अन्त꣡रिक्षं सविता꣡ महित्वना꣡  
 त्री꣡ र꣡जांसि परिभू꣡स् त्री꣡णि रोचना꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्रिभि꣡र् व्रतइ꣡र् अभि꣡ नो रक्षति त्म꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ति॒स्रः । दिवः॑ । पृ॒थि॒वीः । ति॒स्रः । इ॒न्व॒ति॒ । त्रि॒ऽभिः । व्र॒तैः । अ॒भि । नः॒ । र॒क्ष॒ति॒ । त्मना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trir* ← *tris*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 अयं **सविता** **त्रिः** त्रिभेदम् **अन्तरिक्षम्** । अन्तरा क्षान्तं भवति जगदित्यन्तरिक्षम् । **परिभूः** परिभविता सन् **महित्वना** महित्वेन **इन्वति** व्याप्नोति । वायुविद्युद्वरुणाख्यास्त्रयो लोका अन्तरिक्षभेदाः स वायुलोकं स वरुणलोकम् ' ( कौ. उ. १. ३ ) इत्यादिश्रुतेः । **त्री** **रजांसि** रञ्जनात्मकानि त्रीणि क्षित्यन्तरिक्षद्युलक्षणान् त्रीन् लोकान् इन्वति । पूर्वमन्तरिक्षस्यैवावान्तरभेद उक्तः इह तु सामान्याकारेणेत्यपुनरुक्तिः। **त्रीणि** **रोचना** रोचनानि रोचमानान् अग्निवाय्वादिस्यान् उक्तस्थानत्रयस्वामित्वेन इन्वति । पूर्वमन्तरिक्षस्यैवावान्तरभेद उक्तः । अथ द्युपृथिव्योरवान्तरभेद उच्यते । **तिस्रो** **दिवः** इन्द्रप्रजापतिसत्याख्यान् त्रीन् लोकान् इन्वति । तथा **तिस्रः** **पृथिवीः** इन्वति । क्षित्यवान्तरभेदान् लोकान् इन्वति । एवं सर्वत्र व्याप्तो देवः **त्रिभिर्व्रतैः** कर्मभिः उष्णवर्षहिमाख्यैः **नः** अस्मान् **त्मना** आत्मनैव स्वीयानुग्रहबुद्ध्यैव **अभि** **रक्षति** अभिरक्षतु । परिपालयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,30 +134,30 @@ genre M
 Three divions of the firmament: **antarikṣa** is divided between **Vāyu**, **Vidyut** and **Varuṇa**, in three portions; three brilliant spheres: the regions of **Agni**, Vāyu and **Sūrya**; three heavens: the **lokas** of **Indra**, **Prajāpati** and **Satyaloka**; threefold earth = three ores?; three functions: those of distributing heat, rain and cold
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Savitar (encompasses) the midspace three times in his greatness; he  encompasses the three dusky realms and the three realms of light.  
 He speeds the three heavens and the three earths. With his three  
 commandments he guards us by himself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Savitar thrice surrounding with his mightiness mid-air, three regions, and the triple sphere of light,  
      Sets the three heavens in motion and the threefold earth, and willingly protects us with his triple law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Savitri umschließt mit seiner Größe den dreifachen Luftraum, die drei Welten, die drei Lichträume. Die drei Himmel, die drei Erden setzt er in Bewegung; mit drei Gesetzen behütet er uns in eigner Person.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dreimal umfängt mit seiner Grösse Savitar die Luft, drei dunkle und drei helle Räume auch; Drei Himmel und drei Erden hält er unter sich, durch drei Gesetze hat er uns in seiner Hut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды Савитар (своим) величием (охватил) воздушное пространство,  
 (Он,) охватывающий три темных пространства, три светлых,  

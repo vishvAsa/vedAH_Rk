@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡वद् वां वृषण्वसू  
 अ꣡तो वा भू꣡यो अश्विना  
 गृण꣡न्तः सुम्न꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गृ॒णन्तः॑ । सु॒म्नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāvad* ← *etāvat*
 - \[noun\], accusative, singular, neuter
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे वृषण्वसू वर्षणधनौ **अश्विना** अश्विनौ **गृणन्तः** स्तुवन्तो वयम् **एतावत्** ‘यथा चित् कण्वम् ' इत्यादिना यावदनुक्रान्तमेतत्परिमाणं **सुम्नं** सुखम् **अतो** **वा** अस्माद्वा **भूयः** बहुतरमधिकं सुम्नं **वां** युवाम् **ईमहे** याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “So pariasing you, **Aśvins**, rich in showers, we solicit of you happiness as great or greater than that(which they obtained).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For so much favor, or more than that,  
 do we singers beg you, o Aśvins with bullish goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For so much bliss, or even more, O Asvins, Wealthy Gods, than this,  
      We pray white singing hymns to you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieselbe Gunst, ihr Schätzereichen, oder noch größeren erbitten wir Sänger von euch, Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Um solche Huld und grössre noch, o güterreiche, gehn wir euch, O Ritter, an mit Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот столько, о хозяева огромного богатства,  
 Или (даже) больше этого  

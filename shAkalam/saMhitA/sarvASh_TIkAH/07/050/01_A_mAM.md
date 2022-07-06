@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ मा꣡म् मित्रावरुणा इह꣡ रक्षतं  
 कुलाय꣡यद् विश्व꣡यन् मा꣡ न आ꣡ गन्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ मा꣡म् प꣡द्येन र꣡पसा विदत् त्स꣡रुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒ज॒का॒ऽवम् । दुः॒ऽदृशी॑कम् । ति॒रः । द॒धे॒ । मा । माम् । पद्ये॑न । रप॑सा । वि॒द॒त् । त्सरुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -126,7 +126,7 @@ popular
 हे **मित्रावरुणा** हे मित्रावरुणौ युवाम् **इह** अस्मिँल्लोके **माम्** **आ** **रक्षतम्** आभिमुख्येन पालयतम्। **कुलाययत्** । कुलायं स्थानम्। तत्कुर्वत् **विश्वयत्** विशेषेन वर्धमानं विषं **नः** अस्मान् **आ** आभिमुख्येन **मा** **गन्** मा गमत् मा गच्छतु । तथा **अजकावम्** । अजका नाम रोगविशेषः । तद्वत् **दुर्दृशीकं** दुर्दर्शनं विषं **तिरो** **दधे** तिरो धत्ताम् । नश्यत्वित्यर्थः । तथा **त्सरुः** छद्मगामी । जिह्मगः सर्प इत्यर्थः । **मां** **पद्येन** पादभवेन **रपसा**। रपिः शब्दकर्मा । शब्देन 'मा **विदत्** न जानातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ Poison: kulāyayat viśvayat mā na ā gan: sthānam **kurvat**, making a plural
 Venom: ajakāvam, durdṛśīkam arethe epithets used: **ajakā** **nāma** rogaviśeṣaḥ tad vat = ajakā is the name of a disease like that, a malignantpoison; **durdarsa**'anam = difficult or disagreeable to be seen; tortuous snake: tsarus chadmagāmī jihmagahsarpa ityarthaḥ: tsaru = what goes stealthily or crookedly, i.e., a snake
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Guard me here, Mitra and Varuṇa. Do not let the nesting or the swelling  thing come upon us.  
 I put the ajakāva of vile appearance out of sight. – Let not the creeping  thing find me, bringing a disease of the foot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O MITRA-VARUNA, guard and protect me here: let not that come to me which nests within and swells.  
      I drive afar the scorpion hateful to the sight: let not the winding worm touch me and wound my foot.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitra und Varuna! Schützet mich hienieden! Nicht soll etwas, was sich festsetzt und eine Geschwulst bildet, an uns kommen. Den Ajakava von üblem Aussehen beseitige ich.-Nicht soll mich der Schleicher mit seinem Fußschaden heimsuchen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beschirmet mich, o Varuna und Mitra, hier, nicht komm an mich, was im Verborgnen schwärt und schwillt, Den widerwärt'gen Giftwurm schaffe ich hinweg, nicht treffe mich der Wurm, der Leid am Fusse schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Защитите меня здесь, о Митра-Варуна!  
 Пусть то, что гнездится, что опухает, к нам не попадет!  

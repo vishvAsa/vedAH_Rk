@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पवाका꣡+ नः स꣡रस्वती  
 वा꣡जेभिर् वाजि꣡नीवती  
 यज्ञं꣡ वष्टु धिया꣡वसुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 य॒ज्ञम् । व॒ष्टु॒ । धि॒याऽव॑सुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pāvakā* ← *pāvaka*
 - \[noun\], nominative, singular, feminine
@@ -72,7 +72,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सरस्वती** देवी **वाजेभिः** हविर्लक्षणैरन्नैर्निमित्तभूतैः । यद्वा । यजमानेभ्यो दातव्यैरन्नैर्निमित्तभूतैः । **नः** अस्मदीयं **यज्ञं** **वष्टु** कामयताम् । कामयित्वा च निर्वहत्वित्यर्थः । तथा चारण्यककाण्डे श्रुत्यैव व्याख्यातं -- यज्ञं वष्ट्विति यदाह यज्ञं वहत्वित्येव तदाह' (ऐ. आ. १. १. ४ ) इति । कीदृशी सरस्वती ।“पावका शोधयित्री **वाजिनीवती** अन्नवत्क्रियावती 'धियावसुः कर्मप्राप्यधननिमित्तभूता । वाग्देवतायास्तथाविधं धननिमित्तत्वमारण्यककाण्डे श्रुत्या व्याख्यातं-यज्ञं वष्टु धियावसुरिति वाग्वै धियावसुः । ( ऐ. आ. १. १. ४ ) इति । ‘श्येनः सोमः' इत्यादिषु पञ्चत्रिंशत्संख्याकेषु देवताविशेषवाचिषु पदेषु ‘सरमा सरस्वती ' (नि. ५. ५. १८) इति पठितम् । एतामृचं यास्क एवं व्याचष्टे- पावका नः सरस्वत्यन्नैरन्नवती यज्ञं वष्टु धियावसुः कर्मवसुः' (निरु. ११.२६ ) इति॥ पवनं पावः शुद्धिः । पावं कायतीति पावका । ‘कै गै रै शब्दे ' । 'आतोऽनुपसर्गे कः' (पा. सू. ३. २, ३) इति कप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वेनान्तोदात्तत्वम् । यद्वा । पुनातीत्यर्थे ष्वुलि ‘प्रत्ययस्थात्कारपूर्वस्यात इदाप्यसुपः ' (पा. सू. ७. ३. ४४ ) इति इत्वस्याभावोऽन्तोदात्तत्वं च छान्दसं द्रष्टव्यम् । सरःशब्द सर्तेः असुनन्तत्वादाद्युदात्तः । मतुप्ङीपोः पित्त्वादनुदात्तत्वम् । वाजेभिः । वाजशब्दो वृषादित्वात् (पा. सू. ६. १. २०३ ) आद्युदात्तः । स हि अवृत्कृतत्वात् आकृतिगणः । वाजोऽन्नमास्विति वाजिन्यः क्रियाः । अत इनिठनौ ' ( पा. सू. ५. २. ११५) इति इनिप्रत्ययः । ताः क्रिया यस्याः सन्ति सा सरस्वती वाजिनीवती । ‘छन्दसीरः ' (पा. सू. ८. २. १५) इति मतुपो वत्वम् । मतुप्ङीपोः पित्त्वेनानुदात्तत्वात् इनेः प्रत्ययाद्युदात्तत्वमेव शिष्यते । यज्ञम् ।' यजयाच' (पा. सू. ३. ३. ९० ) इत्यादिना नङ्प्रत्ययः । प्रत्ययस्वरेणान्तोदात्तः । वष्टु ।' वश कान्तौ । कान्तिरभिलाषः । ‘अदिप्रभृतिभ्यः शपः' (पा. सू. २. ४. ७२ ) इति शपो लुक् । निघातः । धियावसुः । धिया कर्मणा वसु यस्याः सकाशाद्भवति सा धियावसुः । ‘सावेकाचः०' (पा. सू. ६. १. १६८) इति विभक्तिरुदात्ता । ‘ बहुव्रीहौ प्रकृत्या पूर्वपदम् ' (पा. सू. ६. २. १) इति विभक्तिस्वर एव शिष्यते । छन्दसस्तृतीयाया अलुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -83,29 +83,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Sarasvatī = vāg-**devatā**, divinity of speech\].
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let pure Sarasvatī, providing prize mares along with prizes,  
 be eager for our sacrifice, bringing goods through her insight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 पा॒व॒का नः॒ सर॑स्वती॒ वाजे॑भिर्वा॒जिनी॑वती ।  
 य॒ज्ञं व॑ष्टु धि॒याव॑सुः ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die lautere Sarasvati, an Belohnungen reiche, soll nach unserem Opfer verlangen, die durch Weisheit Schätze gewinnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die glänzende Sarasvati, durch unsre Labung labungsreich, Begehr das Opfer eifervolL
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чистая Сарасвати,  
 Награждающая наградами,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वा꣡दत्तेभी रुदर+ शं꣡तमेभिः  
 शतं꣡ हि꣡मा अशीय भेषजे꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ अ꣡मीवाश् चातयस्वा वि꣡षूचीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि । अ॒स्मत् । द्वेषः॑ । वि॒ऽत॒रम् । वि । अंहः॑ । वि । अमी॑वाः । चा॒त॒य॒स्व॒ । विषू॑चीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvādattebhī* ← *tvādattebhiḥ* ← *tvādatta*
 - \[noun\], instrumental, plural, neuter
@@ -108,41 +108,41 @@ genre M
 हेरुद्र त्वादत्तेभिः त्वयादत्तैः शन्तमेभिः अतिशयेनसुखकरैर्भेषजेभिः भेषजैरौषधैः शतं हिमाः शतंहेमन्तान् शतंसंवत्सरान् अशीय व्याप्नुयाम् अश्नोतेर्लिङि छान्दसोविकरणस्यलुक् अपिच अस्म- दस्मत्तः द्वेषोद्वेष्टृन् विचातयस्व विनाशय तथा अंहः पापंवितरमत्यन्तं विचातयस्व अमीवाः रोगान् विषूचीः विषुनानाअञ्चतीः क्रुत्स्नशरीरव्यापकान् रोगान् विचातयस्व अस्मत्तः पृथक् कृत्यविना- शय ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Nourished by the curative vegetables which are bestowed by you, may I live a hundred winters; extirpate mine enemies, my exceeding sin, and my manifold infirmities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through the remedies given by you that bring best luck, Rudra, might  I reach a hundred winters.  
 Banish hatred away from us, very far away, distress away, and afflictions  away, widely scattered.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With the most saving medicines which thou givest, Rudra, may I attain a hundred winters.  
      Far from us banish enmity and hatred, and to all quarters maladies and trouble.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 By thy most wholesome remedies, O Rudra, Thy gifts, I would attain a hundred autumns. Drive far away from us distress and hatred, Drive far away, wide-scattered, all diseases.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch deine heilsamsten Arzeneien, die du gibst, o Rudra, möchte ich hundert Winter erleben. Jage die Anfeindungen, die Not weit weg von uns, treib die Krankheiten auseinander!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass mich durch deine besten Arzeneien, o Rudra, hundert Jahre noch erleben; Vertreib weit von uns hinweg die Feindschaft, nach allen Seiten Siechthum und Bedrängniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С помощью данных тобою самых целебных лекарств, о Рудра,  
 Я хочу прожить сто зим!  

@@ -6,14 +6,14 @@ ChandaH = "पुरउष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युञ्ज꣡न्ति ह꣡री इषिर꣡स्य गा꣡थया  
 उरउ꣡ र꣡थ उरु꣡युगे  
 इन्द्रवा꣡हा वचोयु꣡जा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 इ॒न्द्र॒ऽवाहा॑ । व॒चः॒ऽयुजा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuñjanti* ← *yuj*
 - \[verb\], plural, Present indikative
@@ -94,41 +94,41 @@ genre M
 **इषिरस्य** गमनशीलस्येन्द्रस्य **उरुयुगे** महायुगे **उरौ** महति **रथे** **इन्द्रवाहा** इन्द्रस्य वाहनभूतौ **वचोयुजा** वचनमात्रेणैव युज्यमानौ **हरी** अश्वौ **गाथया** स्तोत्रेण स्तोतारः **युञ्जन्ति** योजयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The priests) by their hymn yoke in the swift deity's yoked at a word.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With a song they yoke the two fallow bays of the vigorous one to the  broad chariot with its broad yoke,  
 the two conveyors of Indra, yoked by speech.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse may refer to the “Fallow-bay yoking libation,” which serves as the occasion for the first-maṇḍala Indra hymns I.61-63, 82. However, this libation is ordinarily the final act in a ritual, but is not final here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With holy song mey bind to the broad wide-yoked car the Bay Steeds of the rapid God,  
      Bearers of Indra, yoked by word.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie schirren mit Gesangeslied das Falbenpaar des Eiligen an den breiten, breitjochigen Wagen an, das den Indra fährt, auf bloßes Wort geschirrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie schirren an des weiten Wagens weites Joch mit Sang des Raschen Füchse an, Die Indra fahren, wortgeschirrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они запрягают под пение пару буланых коней стремительного  
 В широкую колесницу с широким ярмом,  

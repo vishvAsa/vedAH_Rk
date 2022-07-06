@@ -8,7 +8,7 @@ title = "+102"
 ‘क्राणा शिशुः' इत्यष्टर्चं षष्ठं सूक्तमाप्त्स्य त्रितस्यार्षम् । इदमुत्तराणि चत्वारि सूक्तान्यौष्णिहानि । पवमानः सोमो देवता। तथा चानुक्रम्यते- क्राणाष्टौ त्रित औष्णिहं वै' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 102 (814)  
 Soma Pavamāna  
@@ -17,7 +17,7 @@ Trita Āptya
 It must be admitted, however, that much remains puzzling in the hymn. There  are a number of problems of syntax and lexicon. The two adjacent appearances  of Trita (or “the third one,” vss. 2–3) are also unclear, though they clearly play  on the numerals two and three found in those verses. The hymn is ascribed by the  Anukramaṇī to Trita Āptya, and so it might be that the poet is simply inserting  himself in the poem. But, since Trita Āptya is actually a mythological figure, it is  more likely that the Anukramaṇī has assigned the hymn to that figure on the basis  of the occurrences of tritá in those two verses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the structure of this hymn, see published introduction. As just noted, the 8 8 / 8 4 variant of Uṣṇih is found throughout the hymn.
 </details>

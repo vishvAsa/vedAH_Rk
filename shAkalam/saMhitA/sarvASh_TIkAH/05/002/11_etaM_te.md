@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एतं꣡ ते स्तो꣡मं तुविजात वि꣡प्रो  
 र꣡थं न꣡ धी꣡रः सुअ꣡पा अतक्षम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सु꣡वर्वतीर् अप꣡ एना जयेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यदि॑ । इत् । अ॒ग्ने॒ । प्रति॑ । त्वम् । दे॒व॒ । हर्याः॑ । स्वः॑ऽवतीः । अ॒पः । ए॒न॒ । ज॒ये॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
@@ -139,42 +139,42 @@ genre M
 हे **तुविजात** बहुभावमापन्नाग्ने **ते** त्वदर्थम् **एतं** **स्तोमम्** एतत् स्तोत्रं **विप्रः** मेधावी स्तोता **रथं** **न** रथमिव **धीरः** **स्वपाः** शोभनकर्माहम् **अतक्षं** समपादयम् । हे अग्ने **देव** **त्वं** **यदीत्** एनं स्तोमं **प्रति** हर्याः प्रतिकामयेथाः । तर्हि स्वर्वतीः स्वरणवतीर्व्याप्तिमतीः **अपः** **एना** एनेन **जयेम** प्राप्नुयाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This praise have I, a devout worshipper, composed for you, (**Agni**), who are born with many (faculties), as a steady dexterous (artisan fabricates) a car; if, divine Agni, you approve of it, then may we obtain abundant flowing water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This praise song for you, o you who are powerfully born, have I, the  inspired poet, fashioned as a clever artisan (fashions) a chariot.  
 If, Agni, you will gladly receive that very (song), o god, thereby we  
 would win the waters together with the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As a skilled craftsman makes a car, a singer I, Mighty One! this hymn for thee have fashioned.  
      If thou, O Agni, God, accept it gladly, may we obtain thereby the heavenly Waters.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 This song of praise, O strong-born (Agni), I, the priest, have fashioned for thee, as a skilful workman (builds) a chariot 1. If thou acceptest that (praise), O god Agni, may we conquer thereby waters together with the sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Loblied habe ich, der Redekundige, für dich gezimmert wie der verständige Künstler einen Wagen, o Starkgearteter! Wenn du, Gott Agni, es gern annehmen wirst, so würden wir damit Wasser nebst dem Sonnenlicht gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich Sänger hab' dies Lied, o vielgeborner, gezimmert dir wie Wagen weise Künstler; Wenn Agni du, o Gott, dich dessen freuest, lass uns dadurch des Himmels Flut erringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эту хвалу тебе, о рожденный могучим, я, вдохновенный,  
 Сложил, как искусный (мастер) – колесницу.  

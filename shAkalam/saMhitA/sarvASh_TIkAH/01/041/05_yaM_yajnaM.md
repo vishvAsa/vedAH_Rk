@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ यज्ञं꣡ न꣡यथा नर  
 आ꣡दित्या ऋजु꣡ना पथा꣡  
 प्र꣡ वः स꣡ धीत꣡ये नशत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र । वः॒ । सः । धी॒तये॑ । न॒श॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -90,36 +90,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **नरः** नेतारः **आदित्याः** **यं** **यज्ञम्** **ऋजुना** **पथा** अविकलेन मार्गेण **नयथ** पारं प्रापयथ **सः** यज्ञः **वः** **धीतये** युष्मत्पानायोपभोगाय **प्र** **नशत्** प्राप्नोतु ॥ नयथ । अदुपदेशात् लसार्वधातुकानुदात्तत्वे धातुस्वरः । यद्वृत्तयोगादनिघातः । अन्येषामपि दृश्यते ' इति संहितायां दीर्घत्वम् । पथा । तृतीयैकवचने ‘ भस्य टेर्लोपः' (पा. सू. ७. १.८८) इति टिलोपः ।  ‘ अनुदात्तस्य च यत्रोदात्तलोपः' (पा. सू. ६. १. १६१ ) इति विभक्तेरुदात्तत्वम् । धीतये । धेट् पाने' ।' आदेचः इति आत्वम् । क्तिचि ‘घुमास्था ' इति ईत्वम् । नशत् । नशतिर्गत्यर्थः। लेटि अडागमः ।  ‘ इतश्च लोपः' इति इकारलोपः ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Ādityas**, guides, may the sacrifice which you come to by a straight path, be to you for your gratification.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sacrifice that you lead along the straight path, o superior men,  Ādityas,  
 that will reach you for insight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What sacrifice, Adityas, ye Heroes guide by the path direct,--  
      May that come nigh unto your thought.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfer, das ihr Herren Aditya´s auf richtigem Wege leitet, das kommt euch ganz nach eurem Sinn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Opfer auf dem rechten Pfad ihr Männer, ihr Aditja's, führt, Das dringt zu euren Herzen hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) жертва, которую вы ведете, о мужи  
 Адитьи, верным путем,  

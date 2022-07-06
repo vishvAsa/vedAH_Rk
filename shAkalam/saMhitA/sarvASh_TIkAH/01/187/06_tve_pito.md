@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ पितो महा꣡नां᳐  
 देवा꣡ना᳐म् म꣡नो हित꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡वा꣡हिम् अ꣡वसावधीत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अका॑रि । चारु॑ । के॒तुना॑ । तव॑ । अहि॑म् । अव॑सा । अ॒व॒धी॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -104,7 +104,7 @@ genre M
 हे **पितो** **महानां** पूज्यानां महतां वा **देवानाम्** इन्द्रादीनां **मनः** **त्वे** त्वयि **हितं** निहितम् **अकारि** कृतम् । अमृतमपि विहाय त्वय्येव वर्तते । हे पितो **तव** **चारु** समीचीनेन **केतुना** त्वत्कृतेन प्रज्ञानलक्षणेन **अवसा** रक्षणेन **अहिं** मेघं वृत्रं वा **अवधीत** हतवानिन्द्रः । ‘अन्नमयं हि सोम्य मनः ' ( छा. उ. ६. ५. ४) इति श्रुतेः । अथवा त्वत्केतुना जगद्गक्षणेन निमित्तेनेति योज्यम् । जगद्रक्षणार्थं हि इन्द्रेणाहिर्भिद्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,30 +115,30 @@ genre M
 There is no nominative native in the text to ahim avadhīt; Indra is assumed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On you, food, is the mind of the great gods set.  
 A dear (deed) was done at your signal: he smashed the serpent with  
 your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In thee, O Food, is set the spirit of great Gods.  
      Under thy flag brave deeds were done he slew the Dragon with thy help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach dir, o Speise, steht der Sinn der großen Götter. Schönes ist in deinem Zeichen getan worden. Mit deiner Hilfe hat Indra den Drachen erschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der grossen Götter hoher Sinn ist auf dich, Opfertrank, gestellt, Vollbracht ist schönes durch dein Licht, durch dich erschlug die Schlang' der Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе, о пища, прикована  
 Мысль великих богов.  

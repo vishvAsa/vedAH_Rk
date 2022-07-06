@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्र꣡क्वे द्रप्स꣡स्य ध꣡मतः स꣡म् अस्वरन्न्  
 ऋत꣡स्य यो꣡ना स꣡म् अरन्त ना꣡भयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सत्य꣡स्य ना꣡वः सुकृ꣡तम् अपीपरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्रीन् । सः । मू॒र्ध्नः । असु॑रः । च॒क्रे॒ । आ॒ऽरभे॑ । स॒त्यस्य॑ । नावः॑ । सु॒ऽकृत॑म् । अ॒पी॒प॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *srakve* ← *srakva*
 - \[noun\], locative, singular, masculine
@@ -133,7 +133,7 @@ genre M
 **स्रक्वे** यज्ञस्य हनुस्थानीये। स्रक्व ओष्ठप्रान्तो हनुरुच्यते । ‘हनुरधिषवणफलकः' इत्याम्नानात् हनुस्थानीये अधिषवणफलके **धमतः** अभिषूयमाणस्य **द्रप्सस्य** सोमस्यांशवः **समस्वरन्** संगच्छन्ते । समशब्दयन् वा । **ऋतस्य** सत्यभूतस्य यज्ञस्य **योना** योनावुत्पत्तिस्थाने **नाभयः** सोमरसाः **समरन्त** संगच्छन्ते । अर्तेः ‘समो गमि°' इत्यादिनात्मनेपदम् ।' सर्तिशास्त्यर्तिभ्यश्च । इति च्लेरङ्। अथ **असुरः** बलवान् सर्वेषां प्रीणनात् प्राणदाता वा **सः** सोमः **मूर्ध्नः** समुच्छ्रितान् **त्रीन्** लोकान् **आरभे** आरम्भणाय मनुष्यदेवादीनां संचरणाय करोति । किंच **सत्यस्य** सत्यभूतस्य सोमस्य **नावः** नौका इव स्थिताश्चतस्रः स्थाल्यः। आदित्याग्रयणोक्थ्यध्रुवस्थाल्य इति । ताः स्थाल्यः **सुकृतं** सुष्ठु कर्माणि कुर्वन्तं यजमानम् **अपीपरन्** अभिमतदानेन पूजयन्ति वा। पारयतेर्लुङि चङि सन्वद्भावाभ्यासेत्वदीर्घाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,14 +144,14 @@ genre M
 On the jaw of the sacrifice: srave = the plural nk of the Soma press, adhiṣavaṇa **phalaka**, which is the jaw of the sacrifice; the ships: i.e., the four pots for the **āditya**, **āgrayaṇa**, **ukthya** and **dhruva** libations.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the jaw (of the pressing stones) while the droplet was blowing its blast,  they sounded in unison. The ties of lineage have joined together in the  womb of truth.  
 The lord [=Soma] has made his three heads to be seized. The boats of  the trusty one [=Soma] have brought the good (ritual) performer  
 across to the other shore.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, I consider it significant that the repeated phrase sám asvaran never has an overt subject, allowing for double ref.: the soma streams roaring as they cross the filter and the priest-poets accompanying this journey with hymns. I therefore would reject the various subjects supplied here by various tr.
 
@@ -164,23 +164,23 @@ In c, acdg. to Geldner and Renou, the ásura created (cakre) for himself three h
 In d note satyásya opening the pāda, which contrasts with ṛtásya in the same position in b. Although I am given pause by IX.89.2 r̥tásya nā́vam (like our satyásya nā́vaḥ), I think the two genitives must be interpr. differently. I suggest that it is Soma who is satyá- here: ‘trusty’ as in the published translation, or even ‘really present’, referring to the prepared soma on the ritual ground. Sāyaṇa’s notion that the boats are the soma cups is quite plausible, though Geldner (n. 1d) prefers the hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THEY from the spouting drop have sounded at the rim: naves speed together to the place of sacrifice.  
      That Asura hath formed, to seize, three lofty heights. The ships of truth have borne the pious man across.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Gebiß der Steine brausten zusammen die Töne des blasenden Tropfens; an der Wiege der Opferordnung haben die Geschlechter einen Bund geschlossen. Drei Häupter nahm der Asura an, um ihn zu fassen. Die Schiffe der Wahrheit haben den Frommen hinübergesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Schlund des Tropfens, welcher gärt, in Opfers Schooss vereinten strömend jetzt verwandte Tränke sich; Drei Häupter machte zum Ergreifen sich der Gott, hinüber fuhr der Wahrheit Schiff den emsigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В челюсти (давильного камня) дружно зазвучали (мелодии) набухшей капли.  
 В лоне закона соединились проявления родства.  

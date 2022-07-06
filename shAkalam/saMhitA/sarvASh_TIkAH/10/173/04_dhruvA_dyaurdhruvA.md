@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध्रुवा꣡ द्यउ꣡र् ध्रुवा꣡ पृथिवी꣡  
 ध्रुवा꣡सः प꣡र्वता इमे꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ध्रुवो꣡ रा꣡जा विशा꣡म् अय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 ध्रु॒वम् । विश्व॑म् । इ॒दम् । जग॑त् । ध्रु॒वः । राजा॑ । वि॒शाम् । अ॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhruvā* ← *dhruva*
 - \[noun\], nominative, singular, feminine
@@ -108,36 +108,36 @@ popular;; epic anuṣṭubh (380)
 द्यौर्ध्रुवा स्थिरा भवति। पृथिवी च ध्रुवा स्थिरा भवति। इमे द्रुश्यमानाः पर्वता महीधराश्च ध्रुवासः स्थिराः। इदं विश्वं सर्वं जगद्ध्रुवं स्थिरं भवति। एवमेवायं विशां प्रजानां राजा स्वामी सन् ध्रुवः स्थिरो भवतु॥४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Firm is the heaven, firm is the earth, firm are these mountains, firm is this entire world, so may this kingof men be firm.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Firm is heaven, firm the earth, firm these mountains here.  
 Firm all this animate world, firm right here this king of the clans.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Firm is the sky and firm the earth, and stedfast also are these hills.  
      Stedfast is all this living world, and stedfast is this King of men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fest steht der Himmel, fest die Erde, fest diese Berge, fest diese ganze Welt, fest dieser König der Clane.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fest steht der Himmel, fest die Erd' und fest stehn diese Berge hier; Fest steht die ganze Lebenswelt, hier steht der Stämme König fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твердо небо, тверда земля,  
 Тверды эти горы,  

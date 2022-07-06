@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ गा꣡वो गोष्ठे꣡ असदन्  
 नि꣡ मृगा꣡सो अविक्षत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 नि꣡ अदृ꣡ष्टा अलिप्सत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 नि । के॒तवः॑ । जना॑नाम् । नि । अ॒दृष्टाः॑ । अ॒लि॒प्स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -97,7 +97,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 **गावो** **गोष्ठे** **नि** असदन् निषीदन्ति । **मृगासः** मृगाः **नि** अविक्षत निविष्टाः । स्वस्वस्थाने उपरताः । **जनानां** प्राणिनां **केतवः** प्रज्ञानानि **नि** । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ नीचान्यभवन् । एते अस्मिन्समये **अदृष्टाः** अदृश्यमानरूपाः सन्तः **नि** **अलिप्सत** निलिम्पन्ति विशेषेण ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,37 +108,37 @@ popular;; epic anuṣṭubh (525);; repeated line
 The unseen venomous creatures: these reptiles being most frequent at night or in the dark
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The cows have sat down in the cowshed; the wild animals have settled  down—  
 down (also) the lights of the peoples. The no-see-ums have been  
 wiped out.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. seems an attempt at sympathetic magic: animals, both domestic and wild, and humans (symbolized by their lights, presumably their fires) are all settling down for the night (though the time period is not explicit), and so should the bugs.
 
 As anyone who’s ever been outside in a buggy place after dark knows, this magic is not necessarily going to work -- though it’s true that some types of bugs are active at dusk and then stop.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The cows had settled in their stalls, the beasts of prey had sought their lairs,  
      Extinguished were the lights of men, when things unseen infected me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kühe haben sich im Stall niedergelegt, das Wild ist zur Ruhe gegangen, zur Ruhe auch die Lichter des Menschen, die Unsichtbaren sind angeschmiert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kühe haben sich in ihrem Stall niedergelassen, die Waldthiere sind eingekehrt, die Lichter der Menschen [sind erloschen], und das unbemerkte Gewürm ist verschwunden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зашли коровы в стойло.  
 Затихли дикие звери.  

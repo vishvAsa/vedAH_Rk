@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिङ्कृण्वती꣡ वसुप꣡त्नी व꣡सूनां  
 वत्स꣡म् इछ꣡न्ती म꣡नसाभि आ꣡गात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सा꣡ वर्धताम् महते꣡ सउ꣡भगाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दु॒हाम् । अ॒श्विऽभ्या॑म् । पयः॑ । अ॒घ्न्या । इ॒यम् । सा । व॒र्ध॒ता॒म् । म॒ह॒ते । सौभ॑गाय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiṃkṛṇvatī* ← *hiṃkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
@@ -120,36 +120,36 @@ popular
 यथा आहूता गौः **हिङ्कृण्वती** वत्सं प्रति हिङ्कारं कुर्वती **वसूनां** **वसुपत्नी** क्षीरदध्याज्यादिबहुधनानां सर्वदा पालयित्री । वृत्यवृत्तिभ्यां वसुनः पालयितृत्वं तस्यैवाधिक्यं च प्रतिपाद्यते । पुनः कीदृशी । **मनसा** **वत्सम्** इच्छन्ती । ईदृशी सा **अभ्यागात्** अभ्यागमत् । **इयम्** आगता **अघ्न्या** । गोनामैतत् । अहननीया गौः **अश्विभ्यां** ताभ्यामर्थाय **पयः** क्षीरं **दुहां** दुग्धाम् । **सा** तादृशी **महते** **सौभगाय** प्रवृद्धाय सौभाग्याय **वर्धतां** प्रवृद्धा भवतु । यद्वा । अस्मै सौभगाय क्षीरं वर्धयताम् । अत्रापि वृष्टिपरत्वेन यथायोगं योज्यम् । हिङ्कृण्वती वर्षणाय शब्दयन्ती वसूनां गोसस्यादिधनानां बहूनां वसुपत्नी तेषामेव पालयित्री वत्सं लोकं वत्सवत्पोषणीयं मनसा इच्छन्ती प्रीणयितुम् अभ्यागात् अभिगच्छति मेघरूपा । सा च अघ्न्या अहन्तव्या । प्रस्तुत्या इत्यर्थः । पयः उदकमश्विभ्यां व्याप्ताभ्यां स्थावरजङ्गमाभ्यामर्थाय । यद्वा । अश्विनौ वाय्वादिद्यौ । ताभ्यां सकाशात् दुहां दुग्धाम् । तौ हि वृष्टेर्मोचयितारौ । शिष्टमविशिष्टम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “She comes lowing, abounding in rich (products), desiring her calf in her mind;may this cow grant her milk to the **Aśvins**; may she thrive for our great advantage.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Making the sound hiṅ, the goods-mistress of goods, seeking her calf,  has come near through (my) thinking.  
 Let this inviolable cow give milk to the Aśvins. Let her increase for our  great good fortune.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She, lady of all treasure, is come hither yearning in spirit for her calf and lowing.  
      May this cow yield her milk for both the Asvins, and may she prosper to our high advantage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schnüffelnd und ihr Kalb im Gedanken suchend ist die Herrin der Schätze herzugekommen. Diese Kuh soll ihre Milch für die Asvin geben; sie soll sich zu großem Glücke mehren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Schatzherrin der Schätze, beim Suchen des Kalbes ihr »Hing« ertönen lassend, kam willig her; es möge diese Milchkuh für die beiden Açvinen ihre Milch strömen lassen; sie möge wachsen zu grossem Glücke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вышла навстречу со (звуком) Хин!  
 Повелительница добра, мыслью ища теленка.  

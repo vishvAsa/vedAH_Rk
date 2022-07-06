@@ -6,7 +6,7 @@ ChandaH = "महाबृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡द्भिर् अग्ने अर्चि꣡भिः  
 शुक्रे꣡ण देव शोचि꣡षा  
@@ -15,7 +15,7 @@ ChandaH = "महाबृहती"
 द्युम꣡त् पवाक+ दीदिहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 भ॒रत्ऽवा॑जे । स॒म्ऽइ॒धा॒नः । य॒वि॒ष्ठ्य॒ । रे॒वत् । नः॒ । शु॒क्र॒ । दी॒दि॒हि॒ । द्यु॒ऽमत् । पा॒व॒क॒ । दी॒दि॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhadbhir* ← *bṛhadbhiḥ* ← *bṛhat*
 - \[noun\], instrumental, plural, masculine
@@ -112,36 +112,36 @@ genre M;; repeated line
 हे **देव** दानादिगुणयुक्त **यविष्ठ्य** युवतम **शुक्र** दीप्त **अग्ने** **शुक्रेण** निर्मलेन **शोचिषा** तेजसा **भरद्वाजे** अस्मद्भ्रातरि **समिधानः** समिध्यमानस्त्वं **बृहद्भिः** महद्भिः **अर्चिभिः** तेजोभिः **नः** अस्मदर्थं **रेवत्** धनयुक्तं यथा भवति तथा **दीदिहि** दीप्यस्व । तथा **पावक** हे शोधकाग्ने **द्युमत्** द्योतमानेन च युक्तं यथा भवति तथा **दीदिहि** दीप्यस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine, resplendent **Agni**, youngest (of the gods), when kindled by **Bharadvāja**, shines with many flames, with pure lustre, (conferring) riches upon us; shine, resplendent purifier.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your lofty beams, o Agni—with your flaming flame, o god, when kindled at Bharadvāja’s, o youngest one, richly light up for us, o  flaming one,  
 brilliantly light up, o pure one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, with thy lofty beams, with thy pure brilliancy, O God,  
      Kindled, Most Youthful One! by Bharadvaja's hand, shine on us, O pure God, with wealth, shine, Purifier! splendidly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit deiner hohen Flamme, o Agni, mit deiner hellen Glut, o Gott, bei Bharadvaja angezündet, du Jüngster, scheine uns reichlich, du Lichter, scheine hell, du Reiner!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit hohen Flammen, Agni du, o Gott mit hellem Strahlenglanz, Von Bharadvadscha angefacht, o jüngster du, mit Reichthum strahl uns, leuchtender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С (твоим) высоким светом, о Агни,  
 С чистым пламенем, о бог,  

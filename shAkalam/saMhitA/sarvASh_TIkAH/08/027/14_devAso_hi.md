@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡सो हि꣡ ष्मा म꣡नवे स꣡मन्यवो  
 वि꣡श्वे साकं꣡ स꣡रातयः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 भ꣡वन्तु वरिवोवि꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ते । नः॒ । अ॒द्य । ते । अ॒प॒रम् । तु॒चे । तु । नः॒ । भव॑न्तु । व॒रि॒वः॒ऽविदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
@@ -130,35 +130,35 @@ genre M
 **समन्यवः** समानमनसः यद्वा संग्रामेषु शत्रुहननार्थं समानक्रोधयुक्ताः **विश्वे** सर्व एव **देवासो** **हि** **ष्म** मरुदादयो देवाः खलु **मनवे** एतान्नामकाय ऋषये मह्यं **साकं** सह युगपदेव **सरातयः** धनादिदानेन सहिताः भवन्तु । पुनरपि प्रार्थ्यते । **ते** देवाः नः अस्माकम् **अद्य** अस्मिन् दिने **अपरं** च किं बहुना सर्वेषु दिवसेषु धनदातारो भवन्तु। न केवलमस्माकमेव किंतु  **तुचे** । तुमि(तुगि)त्यपत्यनाम। तुजि पिजि हिंसादाननिकेतनेषु'। तोजयति हिनस्ति पितुर्दुःखादिकमिति तुक् पुत्रः । तस्मै **नः** अस्माकं पुत्राय **वरिवोविदः** वरणीयस्य धनस्य लम्भयितारः **भवन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the universal gods with one consent be together the givers (of riches) to **Manu**; may they, bothtoday and hereafter, be the bestowers of wealth upon us and upon our posterity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the gods, all as one, are of like fervor for Manu, of like generosity. Let them be for us now, let them be in the future for our progeny, the  finders of a wide realm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For of one spirit are the Gods with mortal man, co-sharers all of gracious gifts.  
      May they increase our strength hereafter and to-day, providing case and ample room.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn alle Götter insgesamt sind einmütig dem Manu gleich günstig. Diese sollen heute, diese in Zukunft unserem Samen aus der Not einen Ausweg finden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn alle Götter sind dem Menschen gleichgesinnt, an Gaben gleich sie allesammt; Sie mögen Segen schenken uns und unserm Haus, für heut und für die künft'ge Zeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь боги для человека одинаково ревностные,  
 Все они вместе одинаково готовы давать.  

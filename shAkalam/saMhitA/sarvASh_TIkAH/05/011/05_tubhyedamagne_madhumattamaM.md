@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्येद꣡म् अग्ने म꣡धुमत्तमं व꣡चस्  
 तु꣡भ्यम् मनीषा꣡ इय꣡म् अस्तु शं꣡ हृदे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ पृणन्ति श꣡वसा वर्ध꣡यन्ति च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वाम् । गिरः॑ । सिन्धु॑म्ऽइव । अ॒वनीः॑ । म॒हीः । आ । पृ॒ण॒न्ति॒ । शव॑सा । व॒र्धय॑न्ति । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyedam* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
@@ -135,41 +135,41 @@ genre M
 हे **अग्ने** **तुभ्य** तुभ्यं त्वदर्थं **मधुमत्तमम्** अत्यन्तं मधुरम् **इदं** **वचः** क्रियते । **हदे** हृदि **शं** सुखं कुर्वती **इयं** **मनीषा** स्तुतिः **तुभ्यम्** **अस्तु** । **गिरः** स्तुतिरूपा वाचः **त्वाम्** **आ** **पृणन्ति** पूरयन्ति । **शवसा** बलेन **वर्धयन्ति** च । कथमिव । **महीः** महत्यः **अवनीः** अवन्यः नद्यः **सिन्धुमिव** समुद्रमिव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To you, **Agni**, this most sweet speech (is addressed) may this praise be gratification of your heart; pious hymns fill you, and augment you with vigour, as large rivers (replenish) the sea.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, Agni, let this most honey-filled speech, for you let this inspired  thinking be a joy for your heart.  
 You do the songs fill with vast power, like great streams the river [=the  Sindhu], and (you) do they make strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thee, O Agni, is this sweetest prayer of mine: dear to thy spirit be this product of my thought.  
      As great streams fill the river so our song of praise fill thee, and make thee yet more mighty in thy strength.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For thee, O Agni, is this sweetest speech, for thee this prayer; may this one do thy heart good 1! The prayers fill thee with power and strengthen thee, like great rivers the Sindhu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, Agni, soll diese süßeste Rede, dir dies Gedicht recht nach dem Herzen sein. Dich erfüllen die Lobreden wie die großen Ströme den Sindhu mit Kraft und stärken dich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Wort, o Agni, sei dir das beliebteste und dieses Preislied deinem Herzen zum Genuss, Dich füllen Lieder, wie der grossen Ströme Flut das Meer erfüllt, und stärken dich mit neuer Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебе, о Агни, эта сладчайшая речь,  
 Тебе эта молитва да будет благодатью в сердце!  

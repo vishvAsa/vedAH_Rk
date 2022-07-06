@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡जे-वाजे अवत वाजिनो नो  
 ध꣡नेषु विप्रा अमृता ऋतज्ञाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तृप्ता꣡ यात पथि꣡भिर् देवया꣡नैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्य । मध्वः॑ । पि॒ब॒त॒ । मा॒दय॑ध्वम् । तृ॒प्ताः । या॒त॒ । प॒थिऽभिः॑ । दे॒व॒ऽयानैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
@@ -120,20 +120,20 @@ genre M
 हे **वाजिनः** एतन्नामका देवाः **विप्राः** मेधाविनः **अमृताः** अमरणधर्माणः **ऋतज्ञाः** सत्यं जानन्त एवंभूताः सन्तो यूयं **वाजेवाजे** सर्वेषु युद्धेषु **नः** अस्मान् **धनेषु** धननिमित्तेषु **अवत** पालयत । ततो यूयम् **अस्य** **मध्वः** मधुरोपेतमिमं सोमं **पिबत** । सोमपानानन्तरं **मादयध्वं** यूयं तृप्ता भवत। ततः **तृप्ताः** यूयं **देवयानैः** देवगमनसाधनैः **पथिभिः** मार्गैः **यात** गच्छत ॥ ॥५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wise, immortal **Vājins**, observers of truth, defend us in every conflict, and for the sake of wealth; drinkof this sweet (**Soma**), be exhilarated (thereby) and satisfied; proceed by the paths traversed by the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Help us to every prize, o prizewinners, when the stakes (are set), you  truth-knowing, immortal inspired poets.  
 Drink of this honey here; make yourselves exhilarated. Satisfied, drive  along the paths that lead to the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is appropriate that the vājíns should be the topic in a clause with the āmreḍita loc. absol. vā́je-vāje. The etym. figure would be clearer if the loc. had been tr. “whenever prizes (are at stake)” vel sim.
 
@@ -148,23 +148,23 @@ And there are numerous phraseological parallels that support the identification.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Deep-skilled in Law eternal, deathless, Singers, O Vajins, help us in each fray for booty.  
      Drink of this meath, he satisfied, be joyful: then go on paths which Gods are wont to travel.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Streitrosse, steht uns in jedem Streite bei, ihr unsterblichen wahrheitskundigen Redner bei jedem Preisbewerb! Trinket von diesem Süßtrank, berauschet euch! Geht gesättigt auf den gottbefahrenen Wegen nach Hause!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In jeder Schlacht helft uns, o Rosse, in Wettkämpfen, o unsterbliche Priester, ihr opferkundigen; von dieser Süssigkeit trinkt, berauscht euch, befriedigt geht auf den von den Göttern betretnen Pfaden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С каждой наградой помогайте нам, о кони, приносящие награду,  
 Со (всеми) ставками, о вдохновенные, бессмертные, знатоки закона!  

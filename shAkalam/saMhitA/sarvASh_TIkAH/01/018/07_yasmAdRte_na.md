@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्माद् ऋते꣡ न꣡ सि꣡ध्यति  
 यज्ञो꣡ विपश्चि꣡तश् चन꣡  
 स꣡ धीनां꣡ यो꣡गम् इन्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सः । धी॒नाम् । योग॑म् । इ॒न्व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmād* ← *yasmāt* ← *yad*
 - \[noun\], ablative, singular, masculine
@@ -92,41 +92,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यज्ञः** अयमनुष्ठातव्यः विपश्चितश्चन विदुषोऽपि यजमानस्य **यस्मात्** सदसस्पतिदेवात् **ऋते** **न** **सिध्यति** **सः** अयं सदसस्पतिर्देवः **धीनां** मनोऽनुष्ठानविषयाणामस्मद्बुद्धीनामनुष्ठेयकर्मणां वा **योगं** संबन्धम् **इन्वति** व्याप्नोति । यजमानमनुगृह्य तदीयं यज्ञं निष्पादयतीत्यर्थः ॥ यस्मात् ।  ‘ अन्यारात्° ' ( पा. सू. २. ३. २९ ) इत्यादिना ऋतेयोगात् पञ्चमी ।' सावेकाचः' इति विभक्तेरुदात्तत्वे प्राप्ते ' न गोश्वन्साववर्ण° ' इति प्रतिषेधः । सिध्यति । ‘षिधु संराद्धौ ' । श्यनो नित्त्वादाद्युदात्तत्वम् ।' यद्वृतान्नित्यम् ' इति निघातप्रतिषेधः । धीनाम् । ‘सावेकाचः' इति विभक्तेरुदात्तत्वम् । योगम् ।' युजिर् योगे'। घञो जित्त्वादाद्युदात्तत्वम् । इन्वति । ' इवि व्याप्तौ । शप् । ‘इदितो नुम् धातोः' इति नुम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Without whose aid the sacrifice even of the wise is not perfected; he pervades the association of our thoughts (or, the object of our pious acts; dhī = **buddhi**, understanding or **karma**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Without whom the sacrifice even of one attentive to poetic inspiration  does not succeed,  
 he drives the team of insightful thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 If the referent of yásmāt is Agni and the two halves of the hymn concern the verbal and the physical parts of the sacrifice respectively, as I argue in the introduction, this verse makes particular sense: even a skilled poet has to get the oblations right.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He without whom no sacrifice, e'en of the wise man, prospers; he  
      Stirs up the series of thoughts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne den die Anbetung selbst des Redekundigen nicht gelingt; er fördert die Anspannung des Gedanken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, ohne den das Opfer selbst des weisen Mannes nicht gelingt, Er fördre der Gebete Lauf.[16]
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Без кого не ладится  
 Жертвоприношение даже у вдохновенного,  

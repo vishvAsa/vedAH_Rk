@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एषा꣡ ययौ परमा꣡द् अन्त꣡र् अ꣡द्रेः  
 कू꣡चित् सती꣡र् ऊरुवे꣡ गा꣡ विवेद  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मस्य ते पवत इन्द्र धा꣡रा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दि॒वः । न । वि॒ऽद्युत् । स्त॒नय॑न्ती । अ॒भ्रैः । सोम॑स्य । ते॒ । प॒व॒ते॒ । इ॒न्द्र॒ । धारा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
@@ -127,20 +127,20 @@ genre M
 **एषा** सोमधारा **परमात्** उच्छ्रितात् स्थानात् **ययौ** जगाम पात्रं स्वयंप्राप्तव्यं देशं वा । किंच **अद्रेः** पणीनां निवासस्थानस्य पर्वतस्य **अन्तः** **कूचित्** क्वचित् कुत्रचिद्गूढे **ऊर्वे** देशे **सतीः** वर्तमानाः पणिभिरपहृताः **गाः** **विवेद** लब्धवती । यत्र पणयो गा अपहृत्य  स्थापितवन्तः स देश ऊर्वः। 'ऊर्वं गव्यं महि गृणानः' (ऋ. सं. ६,१७,१ ) इति हि मन्त्रान्तरम् । **दिवो** **न** **विद्युत्** दिवः सकाशाद्विद्युदिव **स्तनयन्ती** शब्दयन्ती । विद्युत् विशेष्यते । **अभ्रैः** प्रेरितेति शेषः । सा यथा शब्दं करोति तद्वच्छब्दं कुर्वती । **सोमस्य** संबन्धिनी सेयं **धारा** हे **इन्द्र** **ते** त्वदर्थं त्वत्पानाय **पवते** पूयते । क्षरति वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Soma** stream has come from on high and has detected the cattle which were in a stall (hidden) somewhere within the mountain; the stream of the Soma flows for you, **Indra**, thundering like lightning emitted by the clouds from heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one traveled from within the highest stone [=mountain]; she found  the cows that were somewhere in the enclosure.  
 Like lightning from heaven thundering with the clouds, the stream of  soma purifies itself for you, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the mixture of myth and ritual in this vs., see published introduction. Given the fem.
 
@@ -149,23 +149,23 @@ subj. prn. sā́, the mythological allusion to Saramā would be available to the
 Notice that the pf. viveda returns here from 3c, which was also, if less clearly, about the Vala myth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He issued forth from out the loftiest mountain, and found kine hidden somewhere in a stable.  
      Soma's stream clears itself for thee, O Indra, like lightning thundering through the clouds of heaven,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie kam aus dem Inneren des fernsten Berges her, sie entdeckte die irgendwo in der Höhle befindlichen Kühe. Wie der Blitz mit den Wolken vom Himmel donnernd so läutert sich für dich, Indra, des Somas Erguß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist entsprungen aus dem höchsten Pressstein; im Stall die Kühe fand er überall auf, Wie Blitz des Himmels donnernd mit den Wolken, so flammt dir hell des Soma Strom, o Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта явилась изнутри отдаленнейшей скалы.  
 Она обнаружила коров, бывших где-то в пещере.  

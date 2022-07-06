@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ रुद्रास इ꣡न्द्रवन्तः सजो꣡षसो  
 हि꣡रण्यरथाः सुविता꣡य गन्तन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तृष्ण꣡जे न꣡ दिव꣡ उ꣡त्सा उदन्य꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इ॒यम् । वः॒ । अ॒स्मत् । प्रति॑ । ह॒र्य॒ते॒ । म॒तिः । तृ॒ष्णऽजे॑ । न । दि॒वः । उत्साः॑ । उ॒द॒न्यवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā* ← *\_* ← *√\_*
 - \[?\]
@@ -119,7 +119,7 @@ genre M
 हे **रुद्रासः** रुद्रपुत्राः **इन्द्रवन्तः** इन्द्रेण युष्मत्स्वामिना तद्वन्तः **सजोषसः** परस्परं समानप्रीतयः **हिरण्यरथाः** हिरण्यमयरथाः सन्तः **सुविताय** सुगमनाय तत्साधनाय सुष्ठु सर्वैर्गन्तव्याय यज्ञाय तदर्थम् **आ** **गन्तन** अगच्छत । किमत्र विद्यते इति तदुच्यते । **इयम्** **अस्मत्** अस्मदीया **मतिः** स्तुतिः **वः** युष्मान् **प्रति** **हर्यते** कामयते । तस्मादागच्छत । **उदन्यवे** उदकेच्छवे **तृष्णजे** गोतमाय **दिवः** द्युलोकसकाशात् **उत्साः** उदकनिष्यन्दा यथा युष्माभिः प्रेरितास्तद्वदस्मदर्थमपि आगत्याभिमतं ददतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,30 +130,30 @@ genre M
 Lit. = this our praise is addressed to you as to the thirsty, from heaven, rushing waters to the water-wishing; the allusion is to the legend of the well brougth by the **Maruts** to Gotama when suffering from thirst
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Rudras—accompanied by Indra, of one accord, with your golden  chariots, come here for good faring.  
 Here is a poetic thought from us for you to yearn toward, like the  
 wellspring of heaven for a thirsty man seeking water.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 OF one accord, with Indra, O ye Rudras, come borne on your golden car for our prosperity.  
      An offering from us, this hymn is brought to you, as, unto one who th irsts for water, heavenly springs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommt her, ihr Rudrasöhne, mit Indra einträchtig auf goldenem Wagen zu guter Fahrt! Dieses Lied von uns ist euch willkommen wie dem Durstigen, der nach Wasser verlangt, die Quellen des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Rudra's, kommt mit Indra in Gemeinschaft her, zu hohem Glück auf goldnem Wagen insgesammt; Von uns wird dieses fromme Lied euch dargebracht, wie Himmelsquellen dem nach Wasser lechzenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте, о Рудры, сопровождающие Индру, единодушные,  
 На золотых колесницах (нам) на благо!  

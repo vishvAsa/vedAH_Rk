@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महे꣡ नो अद्य꣡ सुविता꣡य बोधि  
 उ꣡षो महे꣡ सउ꣡भगाय प्र꣡ यन्धि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दे꣡वि म꣡र्तेषु मानुषि श्रवस्यु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 चि॒त्रम् । र॒यिम् । य॒शस॑म् । धे॒हि॒ । अ॒स्मे इति॑ । देवि॑ । मर्ते॑षु । मा॒नु॒षि॒ । श्र॒व॒स्युम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahe* ← *mah*
 - \[noun\], dative, singular, neuter
@@ -123,7 +123,7 @@ genre M
 **अद्य** **नः** अस्माकं **महे** महते **सुविताय** सुखप्राप्तये सुखगमनाय वा **बोधि** भव । किंच हे **उषः** **महे** महते **सौभगाय** सौभाग्याय **प्र** **यन्धि** प्रयच्छास्मान् । किंच **चित्रं** चायनीयं **यशसं** यशोयुक्तं **रयिं** धनं **धेहि** धारय **अस्मे** अस्मासु । हे **मानुषि** मनुष्यहिते **देवि** **मर्तेषु** अस्मासु **श्रवस्युम्** अन्नवन्तं पुत्रं धेहीत्यनुषङ्गः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M
 Śravasyum = wishing for food; annavantam putram, a son having food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For our great good faring take note of us today; o Dawn, for our great  good fortune provide (for us).  
 Establish for us bright, glorious wealth that seeks fame—o goddess  among mortals, belonging to the sons of Manu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Like the āvaḥ forms (see vs. 1), bodhi is ambiguous, and either interpr.
 
@@ -151,23 +151,23 @@ However, two give me pause — III.54.3 mahé ṣú ṇaḥ suvitā́ya prá bh�
 Geldner and Renou construe márteṣu with śravasyúm (“… Reichtum, der unter den Sterblichen nach Ruhm strebt”; “… la richesse … qui crée le renom parmi les mortels,” with Renou adding a “creative” dimension to śravasyú- that does not seem to me to be justified, though it makes the tr. make more sense). I think rather that the sequence dévi márteṣu mānuṣi is meant to draw attention to two different relationships that Dawn, a goddess, has with the human world: on the one hand, she 98 comes among mortals (márteṣu) every day, awakening the whole human world; on the other, she has a special relationship with the descendents of Manu, that is, the Ārya sacrificial community, a much more restricted set of humans to whom she is more tightly bound by ritual activity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rouse us this day to high and happy fortune: to great felicity, O Dawn, promote us.  
      Vouchsafe us manifold and splendid riches, famed among mortals, man-befriending Goddess!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gereichet uns heute zu großer Wohlfahrt; Usas, beschenke uns zu großem Glück! Bring uns ansehnlichen, geachteten Reichtum, der unter den Sterblichen nach Ruhm strebt, du menschliche Göttin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu grossem Glück erwache du uns heute und führ zu grossem Heil uns, Morgenröthe, Verleih uns schönen mannichfachen Reichthum, der Ruhm uns bringt bei Menschen, holde Göttin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь нам сегодня на великую удачу!  
 О Ушас одари (нас) на великое благо!  

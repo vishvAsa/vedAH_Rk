@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्र ग्रा꣡वा पृथु꣡बुध्न  
 ऊर्ध्वो꣡ भ꣡वति सो꣡तवे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡वे꣡द् उ इन्द्र जल्गुलः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 उ॒लूख॑लऽसुतानाम् । अव॑ । इत् । ऊं॒ इति॑ । इ॒न्द्र॒ । ज॒ल्गु॒लः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatra*
 - \[adverb\]
@@ -102,7 +102,7 @@ genre D
 हे **इन्द्र** **यत्र** यस्मिन् अञ्जःसवे कर्मणि **सोतवे** अभिषवार्थं **ग्रावा** पाषाणः **पृथुबुध्नः** स्थूलमूलः **ऊर्ध्वः** उन्नतः **भवति** तस्मिन् कर्मणि **उलूखलसुतानाम्** उलूखलेनाभिषुतानां रसम् **अवेत्** स्वकीयत्वेनावगत्यैव **जल्गुलः** भक्षय ॥ पृथुबुध्नः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । भवति । ‘निपातैर्यद्यदिहन्त ' इति निघातप्रतिषेधः । सोतवे । ' षुञ् अभिषवे'। “ तुमर्थे सेसेन्” ' इति तवेन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् । उलूखलसुतानाम् उलूखलेन सुतानाम् । ‘तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । जल्गुलः । ‘गल अदने '। अस्मात् यङो लुकि लोण्मध्यमैकवचने लेटोऽडाटौ ' इति अडागमः । ‘इतश्च लोपः' इति इकारलोपः । उपधाया उत्वं च हलादिशेषाभावश्च पृषोदरादित्वात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,34 +115,34 @@ Stone = stone pestle used to bruise soma;
 Adhiṣavaṇya = two shallow plural tes or **pātra** to receive soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the pressing stone with its broad bottom becomes erect in order  to press,  
 you, Indra, will keep gulping down the mortar-pressed (soma drops).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both pṛthúbudhna- ‘having a broad bottom’ and ūrdhvá- appear to be doubleentendres. The salacious references continue, more clearly, in vss. 3-4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THERE where the broad-based stone raised on high to press the juices out,  
      O Indra, drink with eager thirst the droppings which the mortar sheds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo der Stein mit breitem Fuß zum Ausschlagen aufgerichtet wird, da mögest du Indra den im Mörser ausgeschlagenen Soma hinunterschlingen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dort, wo der Stein mit breitem Fuss zum Somapressen sich erhebt, Da schlinge, Indra, du hinab den Saft, den dir der Mörser presst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где давильный камень с широкой основой  
 Высоко поднят для выжимания,  

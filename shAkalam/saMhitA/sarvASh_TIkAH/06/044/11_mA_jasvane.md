@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ ज꣡स्वने वृषभ नो ररीथा  
 मा꣡ ते रेव꣡तः सखिये꣡ रिषाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जहि꣡ अ꣡सुष्वीन् प्र꣡ वृहा꣡पृणतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पू॒र्वीः । ते॒ । इ॒न्द्र॒ । निः॒ऽसिधः॑ । जने॑षु । ज॒हि । असु॑स्वीन् । प्र । वृ॒ह॒ । अपृ॑णतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -127,42 +127,42 @@ genre M
 हे **वृषभ** कामानां वर्षितरिन्द्र **जस्वने** । जसिरुपक्षयकर्मा । उपक्षपयित्रे राक्षसादये **नः** अस्मान् **मा** **ररीथाः** मा दाः । **रेवतः** धनवतः **ते** तव **सख्ये** सखित्वे वर्तमाना वयं **मा** **रिषाम** हिंसिता मा भूम । हे **इन्द्र** **ते** त्वदीयाः **पूर्वीः** बह्वीः **निष्षिधः** निःषेधा निवारणानि **जनेषु** शत्रुषु निहिताः सन्ति । यद्वा । निष्षिधो निषेधार्था रज्जवः। ताः शत्रुजनेषु तव बह्व्यो विद्यन्ते । अतः कारणात् **असुष्वीन्** अनभिषोतॄनयजमानान् **जहि** मारय । **अपृणतः** हवींष्यप्रयच्छतश्च **प्र** **वृह** उन्मूलय । ' पृण दाने' इति धातुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Give us not up, showerer (of benefits), to the obstructor (of our rites); relying upon the friendship of you, lord of riches, may we be unharmed; many are the hindrances (opposed) to you among men; slay those who make no libations, root out those who present no offerings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Give us not to exhaustion, bull. Let us not come to harm in our  comradeship with you, the wealthy.  
 Many are the tributes for you among the peoples, Indra. Smite the  
 non-pressers; rip away those who don’t deliver.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On niṣṣídh- see comm. ad III.51.5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us not up, Strong Hero! to the hungry: unharmed be we whom thou, so rich, befriendest.  
      Full many a boon hast thou for men demolish those who present no gifts nor pour oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Liefere uns nicht einem Hungerleider aus, o Bulle, nicht sollten wir in deiner, des Reichen, Freundschaft Schaden erleiden. Du, Indra, hast eine reiche Dankesschuld bei den Menschen. Erschlage die, die nicht Soma opfern; rotte die Knauser aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gesell uns nicht dem Dürft'gen zu, o starker, nicht geh's uns schlecht in deiner Huld, des reichen; Viel Gaben hast du, Indra, für die Menschen; Gottlose tödte, tilg' die Opferlosen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не выдай нас, о бык, мукам голода!  
 В дружбе с тобою, богатым, да не пострадаем мы!  

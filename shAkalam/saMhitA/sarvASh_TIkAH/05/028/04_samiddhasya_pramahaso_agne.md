@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡मिद्धस्य प्र꣡महसो  
 अ꣡ग्ने व꣡न्दे त꣡व श्रि꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡म् अध्वरे꣡षु इध्यसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृ॒ष॒भः । द्यु॒म्नऽवा॑न् । अ॒सि॒ । सम् । अ॒ध्व॒रेषु॑ । इ॒ध्य॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samiddhasya* ← *samindh* ← *√indh*
 - \[verb noun\], genitive, singular
@@ -92,41 +92,41 @@ genre M
 हे **अग्ने** **समिद्धस्य** प्रवृद्धस्य **प्रमहसः** प्रकृष्टतेजसः **तव** संबन्धिनीं **श्रियं** दीप्तिं **वन्दे** । अहं यजमानः स्तौमि । **वृषभः** कामानां वर्षिता त्वं **द्युम्नवान्** **असि** धनवान् भवसि । **अध्वरेषु** यज्ञेषु **सम्** **इध्यसे** सम्यग्दीप्यसे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I praise the glory, **Agni**, of you when kindled and blazing fiercely; you are the affluent showerer (of benefits), you are fitly lighted at sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I extol the glory of you, kindled and greatly exalted, o Agni.  
 You are the bull of brilliance. You are kindled in the rites.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy glory, Agni, I adore, kindled, exalted in thy strength.  
      A Steer of brilliant splendour, thou art lighted well at sacred rites.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I adore thy beauty, Agni, who hast been kindled, who art highly exalted. A bull, brilliant art thou. Thou art kindled at the sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Ich lobe deine, des Erhabenen, Schönheit, wenn du entflammt bist. Du bist ein glänzender Bulle; bei den Opfern wirst du entflammt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich preise, Agni, deine Pracht des hehren, angezündeten; Du bist ein glanzbegabter Stier und wirst bei Opfern hell entflammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, я славлю твою красоту,  
 Когда зажженный (ты стал) очень большим.  

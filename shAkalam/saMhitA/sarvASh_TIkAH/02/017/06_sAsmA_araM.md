@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡स्मा अ꣡रम् बाहु꣡भ्यां य꣡म् पिता꣡कृणोद्  
 वि꣡श्वस्माद् आ꣡ जनु꣡षो वे꣡दसस् प꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 व꣡ज्रेण हत्वी꣡ अ꣡वृणक् तुविष्व꣡णिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 येन॑ । पृ॒थि॒व्याम् । नि । क्रिवि॑म् । श॒यध्यै॑ । वज्रे॑ण । ह॒त्वी । अवृ॑णक् । तु॒वि॒ऽस्वनिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sāsmā* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -135,36 +135,36 @@ genre M
 सतादृशइन्द्रः अस्मैजगते अरमलं पर्याप्तोबभूव रक्षकत्वेनस्वामीबभूवेत्यर्थः पितासर्वस्यपालकः प्रजापतिः विश्वस्मात् सर्वस्माज्जनुषोजनात् परिततोप्युत्कृष्टाद्वेदसोज्ञानात्तद्विशिष्टं बाहुभ्यांस्वकीया भ्याम्बाहुभ्यांयमाकृणोत् तुविष्वणिः बहुकीर्तिः महास्वनोवासइन्द्रः येनज्ञानेनक्रिविंएतन्नामानमसुरं वज्रेणहत्वी स्नात्व्यादयश्चेतित्वी हत्वा ताडयित्वा पृथिव्याम्भूमौशयध्यै शयनायदीर्घनिद्रायैन्यवृणक् व्रुणक्तिर्हिंसाकर्मान्यवधीत् ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sufficient was he for (the protection of) this (world), which he, its defender, fabricated with his two arms for the sake of all mankind, over whom he was supreme by his wisdom; whereby, (also), he the loud-shouting, having struck Krivi (**asura**) with the thunderbolt, consigned him to (eternal) slumber on the earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That was fit for him, for his two arms—what his father made from every  race and out of his knowledge—  
 that mace by which he, with mighty roar, smashed the worm and twisted  it down to lie upon the earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fit for the grasping of his arms is what the Sire hath fabricated from all kind of precious wealth.  
      The thunderbolt, wherewith, loud-roaring, he smote down, and striking him to death laid Krivi on the earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie ist für seine Arme passend, die der Vater aus jeglicher Schöpfung aus seinem Besitze gefertigt hatte, die Keule, mit der er laut tosend den Krivi schlug und niederrang, daß er auf der Erde lag.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Armen passend ist der Donnerkeil, den einst sein Vater schuf aus allen Wesen, allem Gut, Mit welchem er den Wasserschlauch zur Erde warf, mit starkem Schall ihn schlagend, dass er liege dort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она подходит ему для рук – (та,) которую сделал отец  
 Из всех пород по (своему) разумению,  

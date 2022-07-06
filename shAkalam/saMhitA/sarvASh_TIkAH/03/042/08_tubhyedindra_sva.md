@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्ये꣡द् इन्द्र स्व꣡ ओकि꣡ये  
 सो꣡मं चोदामि पीत꣡ये  
 एष꣡ रारन्तु ते हृदि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 ए॒षः । र॒र॒न्तु॒ । ते॒ । हृ॒दि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyed* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
@@ -88,35 +88,35 @@ genre M
 हे **इन्द्र** **तुभ्येत्** तुभ्यमेव **पीतये** पानार्थं **स्वे** स्वकीये **ओक्ये** स्थाने जठरेऽभिषुतमिमं **सोमं** चोदामि प्रेरयामि । **एषः** पीतः सोमः **ते** तव **हृदि** हृदये **ररन्तु** अत्यर्थं रमताम् ॥ तुभ्य । युष्मच्छब्दस्य चतुर्थ्येकवचने ' तुभ्यमह्यौ ' इति तुभ्यादेशः । ‘सुपां सुलुक्° ' इति सुपो लुक्।  ' ङयि च ' इत्याद्युदात्तः । ओक्ये । वस्वादित्वात् स्वार्थको यत्प्रत्ययः । तित्स्वरितः । चोदामि ।' चुद प्रेरणे । ण्यन्तस्य लटि रूपम् । ‘ बहुलमन्यत्रापि ' इति णेर्लुक् । निघातः । ररन्तु। रमु क्रीडायाम्' इत्यस्य यङ्लुकि लोटि सर्वविधीनां छन्दसि विकल्पितत्वात् अत्राभ्यासस्य नुमभावः । संहितायाम् ' अन्येषामपि ' इत्यभ्यासस्य दीर्घः । निघातः । हृदि । हृदयशब्दस्य पद्दन्नोमास्हृत् ' इत्यादिना हृदादेशः । ऊडिदम्' इति विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer to you, **Indra**, this **Soma** for your drinking, to be taken into its proper receptacle;may it delight your heart.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just to you, Indra, in my own house, do I impel the soma for drinking. Let it find pleasure in your heart.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, for thee, in thine own place, I urge the Soma for thy draught:  
      Deep in thy heart let it remain,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, Indra, rede ich zu, in der eigenen Häuslichkeit den Soma zu trinken. Er soll gern in deinem Herzen weilen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir Indra, schaff' im eignen Haus den Soma ich zum Trunk herbei, Er mög' ergötzen dir das Herz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя я поощряю, о Индра,  
 Чтобы ты пил сому в своем доме.  

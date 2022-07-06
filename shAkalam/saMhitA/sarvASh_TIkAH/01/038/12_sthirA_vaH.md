@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्थिरा꣡ वः सन्तु नेम꣡यो  
 र꣡था अ꣡श्वास एषा᳐म्  
 सु꣡संस्कृता अभी꣡शवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सुऽसं॑स्कृताः । अ॒भीश॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sthirā* ← *sthirāḥ* ← *sthira*
 - \[noun\], nominative, plural, masculine
@@ -82,43 +82,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे मरुतः **एषां** **वः** युष्माकं **नेमयः** रथचक्रवलयाः **स्थिराः** सन्तु । तथा **रथा** **अश्वासः** अश्वाश्च स्थिराः सन्तु । **अभीशवः** अङ्गुलयः,  ‘ अभीशवः दीधितयः' ( नि. २. ५. २०) इति तन्नामसु पाठात् । **सुसंस्कृताः** अश्वबन्धनरज्जुपरिग्रहणे स्वलंकृताः सावधानाः सन्तु ॥ सुसंस्कृताः । संपूर्वात् करोतेः कर्मणि क्तः ।  ‘ संपर्युपेभ्यः° ' ( पा. सू. ६. १. १३७ ) इति सुट्। पुनः सुशब्देन प्रादिसमासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् । अभीशवः । अभिपूर्वात् अश्नोतेः  ‘ कृवापाजि° । इत्यादिना उण् । वर्णव्यत्ययेन आकारस्य इकारः । उक्तं च - ‘ वर्णागमो वर्णविपर्ययश्च ' ( का. ६.३. १०९ ) इति ।  ‘ अभीशवोऽभ्यश्नुवते कर्माणि ' ( निरु. ३. ९ ) इति निरुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the felloes of your wheels be firm; may your cars and their steeds be steady, and your fingers well-skilled (to hold the reins).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your wheel-rims be steady, and your chariots and horses,  
 and your reins be well fashioned.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The change of person between pādas, 2nd pl. vaḥ in a, 3rd pl. eṣām in b, is exactly the same as in I.37.15 and equally inexplicable. I have therefore failed to tr.
 
 eṣām. It is possible, of course, that eṣām doesn’t refer to the Maruts, but to part of the listed equipage, perhaps the chariots - hence “Let your wheel-rims be steady, and (your) chariots and their horses” - but the parallel structure in the previous hymn makes that unlikely.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Firm be the fellies of your wheels, steady your horses and your cars,  
      And may your reins be fashioned well.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fest müssen eure Radkränze sein, ihre Wagen und Rosse, gediegen die Zügel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fest mögen eure Räder sein, die Ross und Wagen, die ihr habt, Und eure Zügel schön geschmückt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будут твердыми ваши ободья,  
 Колесницы (и) их кони,  

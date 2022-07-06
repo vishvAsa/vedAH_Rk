@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ हि꣡ देवा꣡नाम् अ꣡सुरा ता꣡व् अर्या꣡  
 ता꣡ नः क्षितीः꣡ करतम् ऊर्ज꣡यन्तीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्या꣡वा च य꣡त्र पीप꣡यन्न् अ꣡हा च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒श्याम॑ । मि॒त्रा॒व॒रु॒णा॒ । व॒यम् । वा॒म् । द्यावा॑ । च॒ । यत्र॑ । पी॒पय॑न् । अहा॑ । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -139,36 +139,36 @@ genre M
 **ता** **हि** तौ खलु देवौ **देवानां** मध्ये **असुरा** बलवन्तौ । **अर्या** **अर्यौ** **तौ** सर्वस्येश्वरौ **ता** तौ **नः** अस्माकं क्षितीः पुत्रादिरूपाः प्रजाः **ऊर्जयन्तीः** प्रवृद्धाः **करतं** कुरुतम्। हे **मित्रावरुणा** मित्रावरुणौ **वयं** **वां** युवाम् **अश्याम** व्याप्नुयाम । **यत्र** यस्यां युवयोर्व्याप्तौ **द्यावा** द्यावापृथिव्यौ । सर्वदा तयोः सहभावादयमर्थो लभ्यते । **अहा** **च** । एतद्रात्रेरुपलक्षणम् । अहोरात्राणि च **पीपयन्** अस्मान् प्याययेयुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They verily are mighty among the gods; they are rulers; they bestow upon us a numerous posterity;may we obtain from you, **Mitra** and **Varuṇa**, whether on earth or in heaven, and whereever the (passing) daysmay preserve us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you two are lords of the gods and you two are civilizing, make  our dwellings to be nourishing.  
 Might we reach you two, Mitra and Varuṇa, where heaven and earth will  swell and also the days.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For they are Asuras of Gods, the friendly make, both of you, our lands exceeding fruitful.  
      May we obtain you, Varuna and Mitra, wherever Heaven and Earth and days may bless us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn sie sind die beiden Gebieter, die Herren unter den Göttern, die Asura´s. Machet unsere Wohnsitze nährend! Wir möchten durch eure Gunst, Mitra und Varuna, dahin gelangen, wo Himmel und Erde und die Tage Überfluß bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr seid der Götter Geister, ihr die Treuen; drum lasst uns reichlich unser Volk gedeihen, Zu euch uns kommen, Varuna und Mitra, wo Segens voll uns Himmel sind und Tage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь они два асуры среди богов, они двое благородных.  
 Сделайте наши земли полными питательной силы!  

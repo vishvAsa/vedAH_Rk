@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 संज꣡र्भुराणस् त꣡रुभिः सुतेगृ꣡भं  
 वयाकि꣡नं चित्त꣡गर्भासु सुस्व꣡रुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 व꣡र्धस्व प꣡त्नीर् अभि꣡ जीवो꣡ अध्वरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 धा॒र॒ऽवा॒केषु॑ । ऋ॒जु॒ऽगा॒थ॒ । शो॒भ॒से॒ । वर्ध॑स्व । पत्नीः॑ । अ॒भि । जी॒वः । अ॒ध्व॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃjarbhurāṇas* ← *saṃjarbhurāṇaḥ* ← *saṃjarbhur* ← *√bhur*
 - \[verb noun\], nominative, singular
@@ -103,7 +103,7 @@ genre M
 हे **ऋजुगाथ** शोभनस्तुतिक अग्ने **तरुभिः** तरुविकारैर्ग्रहै: **सुतेगृभम्** अभिषुतेन रसेन गृहीतं **वयाकिनम्** । कुत्सिता वयाः: शाखा वयाका लताः । तद्वन्तं सोमं **चित्तगर्भासु** चित्तग्राहिणीषु स्तुतिषु स्तुतिभिः सह **संजर्भुराणः** गृभ्णन् गृह्णन् **सुस्वरुः** शोभनगमनः शोभनस्तुतिको वा त्वं **धारवाकेषु** । धारयन्ति वाकान् स्तोत्राणीति धारवाका ऋत्विग्यजमानाः। तेषु मध्ये **शोभसे** । किंच **अध्वरे** **जीवः** सर्वस्य जीवयिता **पत्नीः** पालयित्रीरोषधीर्ज्वाला वा **अभि** अभिमुखं **वर्धस्व** अभिवर्धय ॥ ॥२३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,7 +114,7 @@ genre M
 The verse is an extraordinary plural y on words; literally, it reads: seizing with the trees the seized in the effused, the produce of the branching, in the embryos of the mind well-moving, (or) well praised, among the speech holders, straight-sung, you shine, augment the protectresses, the life in the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Quivering with your powers of endurance (toward) the one covered  with little “twigs” that grasps (you) at the pressing [=firewood/sheep’s  fleece?], resounding among the clearly pregnant (females [=plants/  
 waters/cows]),  
@@ -122,7 +122,7 @@ you beautify yourself at the recitations for the streams, o you with a  straight
 ceremony.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As usual in this hymn, this vs. swarms with difficulties (Renou calls it “une suite de cruces”), but it continues to depict a relation between a singular masc. entity and a group of feminines. I see this as the thread that leads us through the labyrinth of this hymn. Note also that, as in vs. 3, there are phonetic figures: ab: saṃjárbhurāṇas tárubhiḥ ... susváruḥ / sutegṛ́bham ... cittágarbhāsu (with mirror-image su). The instr. tárubhiḥ in pāda a is a hapax, obviously built to a stem táru-. Both Geldner and Renou both take it as ‘tree’, which is tempting given the following vayākín- ‘twiggy’. But II.39.3 járbhurāṇā tárobhiḥ, with the instr. pl. to the better-attested sstem built to √tṝ ‘endure, etc.’, suggests that táru- is more likely connected to that root (see on this point EWA I.630). However, I confess that my tr. “quivering with your powers of endurance” conveys little sense. I think the instr. here may do little more than reinforce the intensive (that is, frequentative) value of the participle: the subject keeps quivering with continued force (“staying power”).
 
@@ -139,23 +139,23 @@ I follow Oldenberg (ZDMG 62 [=KlSch 284 n.1]) in taking dhāravākéṣu as refe
 The last pāda is surprisingly straightforward, at least for this hymn. The subject of várdhasva is once again Agni/Soma, who derive their strength from their wives (pátnī), the plants/firewood and waters/cows’ milk respectively.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, moving beauteously in visibly pregnant ones, snatching with trees the branching plant that grasps the juice,  
      Shinest, true Singer! mid the upholders of the voice. Increase thy Consorts thou, lively at sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An den Bäumen hin und her fahrend ............ in den sichtbar Schwangeren mit schönem Opferpfosten. Du wirst unter Redeergüssen verklärt, du richtig Singender. Wachse über deine Gemahlinnen hinaus lebendig geworden im Gottesdienst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schnell bewegend mit den raschen [Flammen] das somafassende gehenkelte [Gefäss], an schöner Opfersäule stehend bei den sichtlich schwangeren [Milchkühen] erglänzest du, o recht besungener bei den Gesang ausströmenden; wachse regsam beim Feste den Gattinnen [wol den Milchkühen oder Milchtränken] entgegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мечущийся среди деревьев, (он стремится) к черпающему выжатого (сому),  
 Снабженному ветвью (жрецу), (он) с прекрасным столбом среди явно беременных.  

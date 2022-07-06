@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡रूपास इ꣡द् ऋ꣡षयस्  
 त꣡ इ꣡द् गम्भीर꣡वेपसः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ते꣡ अग्नेः꣡ प꣡रि जज्ञिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ते । अङ्गि॑रसः । सू॒नवः॑ । ते । अ॒ग्नेः । परि॑ । ज॒ज्ञि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *virūpāsa* ← *virūpāsaḥ* ← *virūpa*
 - \[noun\], nominative, plural, masculine
@@ -109,7 +109,7 @@ genre M
 परोक्षतयर्षिराह । **ऋषयः** कर्मणां द्रष्टार एत ऋषयः **विरूपास** **इत्** अन्योन्यं वर्णतो रूपतश्च नानारूपा भवन्ति । **त** **इत्** त एवामी अङ्गिरसः **गम्भीरवेपसः** । वेप इति कर्मनाम । गम्भीरकर्माणो भवन्ति । **ते** इमे **अङ्गिरसः** **सूनवः** पुत्राः खलु । तदेवाह । **ते** इमे अङ्गिरसः **अग्नेः** **परि** **जज्ञिरे** सर्वतो जाताः प्रादुर्भूताः ।  ‘ येऽङ्गारा आसंस्तेऽङ्गिरसोऽभवन्' (ऐ. ब्रा. ३. ३४) इति ब्राह्मणम् । अत्र निरुक्तं च द्रष्टव्यम् ( निरु. ३. १७ ) ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ Yeṅgārā āsaṃsteṅgirasobhavan: **Aitareya** **Brāhmaṇa** 3.34;
 Aṅgāreṣvaṅgirāḥ: **Nirukta** 3.17
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just these seers are the Virūpas [/of various forms]; just they possess  profound inspiration.  
 They are the sons of the Aṅgiras; they were born from Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Distinguished by their varied form, these Rsis have been deeply moved.  
      These are the sons of Angirases: from Agni have they sprung to life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Virupa´s, die Rishi´s von unergründlicher Beredsamkeit, die Söhne des Angiras, sie stammen von Agni ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die mannichfach gestalteten, die weisen Sänger, tief erregt, Die Söhne sie des Angiras sind aus des Agni Glut erzeugt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А вот Вирупы, те риши  
 Глубокого вдохновения,  

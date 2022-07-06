@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ संय꣡तम् इन्दर+ णः सुअस्तिं꣡  
 शत्रुतू꣡र्याय बृहती꣡म् अ꣡मृध्राम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡रो वज्रिन् सुतु꣡का ना꣡हुषाणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यया॑ । दासा॑नि । आर्या॑णि । वृ॒त्रा । करः॑ । व॒ज्रि॒न् । सु॒ऽतुका॑ । नाहु॑षाणि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -116,41 +116,41 @@ genre M
 हे **इन्द्र** **शत्रुतूर्याय** शत्रूणां तारणाय **बृहतीं** महतीम् **अमृध्राम्** अहिंसितां **संयतं** संयतीं संगच्छमानां **स्वस्तिं** क्षेमलक्षणां संपदं हे इन्द्र **नः** अस्मभ्यम् **आ** भर । **वज्रिन्** वज्रवन्निन्द्र **यया** स्वस्त्या **दासानि** कर्महीनानि मनुष्यजातानि **आर्याणि** कर्मयुक्तानि **करः** अकरोः । **नाहुषाणि** मनुष्यसंबन्धीनि । नहुषा इति मनुष्यनामैतत् । **वृत्रा** वृत्राणि शत्रून् **सुतुका** सुतुकानि शोभनहिंसोपेतान्यकरोः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Brin to us, **Indra**, concentrated, vast and unassailable prosperity beyond the reach of enemies, and by which, wielder of the thunderbolt, you have rendered human enemies, whether **Dāsas** or **Āryas**, easy to be overcome.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Set) here uninterrupted well-being for us, lofty and not negligible, for  us to overcome our rivals, Indra,  
 (well-being) by which you will make the Dāsa and Ārya obstacles easy  to thrust away, o mace-bearer, and those from the Nahuṣas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The main cl., occupying the first hemistich, has no verb; I supply dhiṣvá from 9a, though any verb of providing, giving, bringing would work as well (see Geldner’s “bring”). The contrastive pair dā́śa- ā́rya-, juxtaposed in c, is a species of merism that would seem to encompass all the types of human obstacles we might encounter; nā́huṣāṇi in d appears to be an afterthought that focuses our enmity on a defined group within the larger whole.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us confirmed prosperity, O Indra, vast and exhaustless for the foe's subduing.  
      Strengthen therewith the Arya's hate and Dasa's, and let the arms of Nahusas be mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, bring uns anhaltendes Glück zur Feindebesiegung, großes, nicht gering zu achtendes, durch das du die dasischen, die arischen Feinde, die nahusischen spornstreichs in die Flucht schlägst, du Keulenträger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verschaff uns, Indra, zu der Feindbekämpfung viel grosses Heil, das dauernd sei, untilgbar, Durch das du Feinde, Arjer und Barbaren, die Nachbarvölker flüchtig machst, o Blitzer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На(гради) нас, о Индра, длительным счастьем  
 В победе над врагами, большим, непрекращающимся,  

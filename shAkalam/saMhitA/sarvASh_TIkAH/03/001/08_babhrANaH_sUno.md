@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बभ्राणः꣡ सूनो सहसो वि꣡ अद्यौद्  
 द꣡धानः शुक्रा꣡ रभसा꣡ व꣡पूंषि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृ꣡षा य꣡त्र वावृधे꣡ का꣡वियेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 श्चोत॑न्ति । धाराः॑ । मधु॑नः । घृ॒तस्य॑ । वृषा॑ । यत्र॑ । व॒वृ॒धे । काव्ये॑न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *babhrāṇaḥ* ← *bhṛ*
 - \[verb noun\], nominative, singular
@@ -112,42 +112,42 @@ genre M
 हेसहसःसूनो सहसस्पूत्रअग्ने बभ्राणः सर्वैर्धार्यमाणःत्वं शुक्राशुक्राणिभास्वराणिरभसा वेग वन्ति वपूंषि अर्चींषिदधानः धारयंस्त्वं व्यद्यौत् विद्योतसे वृषाग्निः यत्रयस्मिन्यजमानेकाव्ये नस्तोत्रेणववृधेवृद्धिम्प्राप्नोतितदानीम्मधुनः अत्यन्तं मधुरस्यघृत्स्यौदकस्यधाराः श्चोतन्ति स्रवन्ते यदायजमानस्तोत्रेणअग्निस्तुष्टोभवति तदानींवृष्टिर्भ्वतीत्यर्थः ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Son of strength, sustained by all, you shine, possessing bright and rapid rays; when the vigorous **Agni** is magnified by praise, then the showers of sweet rain descend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being carried (as an embryo), o son of strength, you have flashed out,  assuming your wondrous forms that blaze and rage.  
 Streams of honey and ghee drip where the bull has grown strong  
 through our poetic craft.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Carefully cherished, Son of Strength, thou shoncst assuming lasting and refulgent beauties.  
      Full streams of fatness and sweet juice descended, there where the Mighty One grew strong by wisdom.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Having been carried (in the waters) thou hast shone forth, O son of strength, assuming wonderful shapes brilliant and fierce. The streams of honey and ghee drip, where the male has grown by wisdom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgetragen bist du Sohn der Kraft aufgeleuchtet, lichte, grelle Farbenpracht annehmend. Es triefen die Güsse des süßen Schmalzes dort, wo der Bulle an Seherweisheit groß geworden ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Genährt erstrahltest weit, o Sohn der Kraft, du, annehmend lichte, glänzende Gestalten; Der süssen Butter Ströme träufeln nieder dort, wo der Stier durch Seherkraft erstarkt ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выношенный, о сын силы, ты засверкал,  
 Принимая (то) ясные, (то) неистовые облики.  

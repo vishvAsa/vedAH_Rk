@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡वतो हि꣡ इन्द्र क्र꣡त्वे अ꣡स्मि  
 तुवा꣡वतो अवितुः꣡ शूर रातउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ओ꣡कः कृणुष्व हरिवो न꣡ मर्धीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑ । इत् । अहा॑नि । त॒वि॒षी॒ऽवः॒ । उ॒ग्र॒ । ओकः॑ । कृ॒णु॒ष्व॒ । ह॒रि॒ऽवः॒ । न । म॒र्धीः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāvato* ← *tvāvataḥ* ← *tvāvat*
 - \[noun\], genitive, singular, masculine
@@ -127,44 +127,44 @@ genre M
 हे **इन्द्र** **त्वावतः** त्वत्सदृशस्य **क्रत्वे** कर्मणे **अस्मि** भवामि **हि** । हे **शूर** **अवितुः** विश्वस्य रक्षितुः **त्वावतः** त्वत्सदृशस्य **रातौ** दाने चास्मीति शेषः। हे **तविषीवः** बलवन् **उग्र** ओजस्विन्निन्द्र **विश्वेत्** विश्वान्येव **अहानि** **ओकः** अस्माकं स्थानं **कृणुष्व** कुरु। हे **हरिवः** हरिवन् **न** मर्धीः अस्मान्न हिंस्याः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I am (in dependence), **Indra**, upon the acts of such as you are, upon the liberality of a protector, hero,such as you; vigorous and fierce Indra, give us a dwelling for all our days; lord of bay steeds, do us no harm.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because I am within (the sphere of) the will of one like you, o Indra;  within (the sphere of) the giving of a helper like you, o champion,  
 for all your days, o powerful strong one, make a home for yourself  
 (here), o you of the fallow bays. Do not neglect (us).914 VII.26
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The prohibitive clause ná mardhīḥ is of course grammatically incorrect.
 
 We expect mā́with the injunctive in prohibitives, and in fact find it with this same stem several times: mā́no mardhīḥ IV.20.10, mā́no mardhiṣṭam VII.73.4, 74.3, 29 always with the 1st pl. enclitic following the mā́. Non-prohibitive forms of √mṛdh almost always occur with the negative ná, e.g., ná mardhanti (I.166.2, III.54.14); there are no positive attestations of this verb. Our passage must be an odd conflation of the prohibitive passages with enclitic no and the non-prohibitive passages with negative ná. Or alternatively, and in my opinion less likely, this is a non-prohibitive use of the injunctive: “you do/did not neglect.” That, however, is Hoffmann’s solution (Injunk., 101), taking it “als allgemeine Eigenschaft” of Indra’s: “du lässt nicht im Stich.” See his discussion, where he also points out that that *mā́mardhīḥ would be metrically bad.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I wait the power of one like thee, O Indra, gifts of a Helper such as thou art, Hero.  
      Strong, Mighty God, dwell with me now and ever: Lord of Bay Horses, do not thou desert us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn einem gleich dir, Indra, bin ich zu Willen und der Schenkung eines Gönners gleich dir gewärtig, o Held. Alle Tage, du Starker, Gewaltiger, laß dich häuslich nieder, o Falbenlenker; verschmäh uns nicht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn solchem Gott, wie du, bin ich zu Willen, o Held, in solches Helfers Gunst, wie du bist; Ja, alle Tage, o gewalt'ger, starker, erweise Huld, nicht säume, Füchselenker.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь я завишу, о Индра, от воли такого, как ты,  
 От щедрости такого, как ты, покровителя, о герой.  

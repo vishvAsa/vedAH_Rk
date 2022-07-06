@@ -8,7 +8,7 @@ title = "+020"
 ‘प्र कविः' इति सप्तर्चं विंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र कविः' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 20 (731)  
 Soma Pavamāna  

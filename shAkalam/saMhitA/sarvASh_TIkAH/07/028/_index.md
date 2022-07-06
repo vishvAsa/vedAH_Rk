@@ -8,7 +8,7 @@ title = "+028"
 ‘ ब्रह्मा ण इन्द्र' इति पञ्चर्चमेकादशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैन्द्रम्। ब्रह्मा णः' इत्यनुक्रान्तम् । महाव्रते निष्केवल्ये पञ्चमत्वेनास्य सूक्तस्य विनियोग उक्तः । अष्टमेऽहनि प्रउगशस्त्र आद्यस्तृच ऐन्द्रः ( आश्व. श्रौ. ८. १०)॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 28 (544)  
 Indra  
@@ -19,7 +19,7 @@ ing” of verse 1 and the “penetrate through” in verse 2 contain the preverb
 Verse 4 is notable because of the intrusion of Varuṇa into this Indra hymn,  and Varuṇa in his role as observer and judge of the moral behavior of humans.  Varuṇa is the tutelary deity of Vasiṣṭha (see the remarkable series of Varuṇa hymns,  VII.86–89 below), but Varuṇa’s presence is otherwise not found, or expected, in  Indraic context. Since the last verse (5) is a refrain verse, in this Indra hymn Varuṇa  has the last word, as it were. For Mitra and Varuṇa’s parentage of Vasiṣṭha, see  VII.33.10–14.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा नो मित्रमहो देव देवा꣡न्  
 अ꣡ग्ने वो꣡चः सुमतिं꣡ रो꣡दसीयोः  
@@ -15,7 +15,7 @@ ChandaH = "शक्वरी"
 ता꣡ तरेम त꣡वा꣡वसा तरेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 वी॒हि । स्व॒स्तिम् । सु॒ऽक्षि॒तिम् । दि॒वः । नॄन् । द्वि॒षः । अंहां॑सि । दुः॒ऽइ॒ता । त॒रे॒म॒ । ता । त॒रे॒म॒ । तव॑ । अव॑सा । त॒रे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -154,37 +154,37 @@ genre M;; repeated line
 व्याख्यातेयं अक्षरार्थस्तु अनुकूलदीप्ते दानादिगुणयुक्ताग्ने द्यावापृथिव्योरभिगतरुचं अस्मदीयांसुष्टुतिं यष्टव्यान् देवान् प्रति वोचः प्र- ब्रूहि स्तुतेर्नेतॄनस्मांश्च सुनिवासं अविनाशङ्गमय वयञ्च त्वत्प्रसादात् द्वेष्टॄन् पापानि तत्फलानि दुर्गमनानिचातिक्रामेम व्यवहितानि ज- न्मान्तरकृतानिच तान्यतिक्रामेम त्वदीयेनरक्षणेन अत्यन्तमतिक्रामेमेति ॥ ६ ॥इममूषुवइत्येकोनविंशत्यृचम्पञ्चदशंसूक्तं आङ्गिरसस्यवीतहव्यस्यभरद्वाजस्यवार्षं आग्नेयं आदौनवजगत्यः तृतीयाषष्ठ्यौतुशक्वर्यतिश- क्वर्यौ पञ्चदशीशक्वरी सप्तदश्यनुष्टुप् अष्टादशीबृहती दशम्याद्याःपञ्च षोळश्येकोनविंशीचेतिसप्तत्रिष्टुभः तथाचानुक्रान्तं—इममूष्वेकोना- वीतहव्यऋषिर्वा जागतम्प्रग्दशम्याः तृतीयापञ्चदश्यौशक्वर्यौषष्ठ्यतिशक्वर्यनुष्टुब्बृहत्याउपान्त्येइति प्रातरनुवाकेआग्नेयेक्रतौआश्विनशस्त्रे- चआदितोनवर्चः सूत्रितञ्च—इममूषुवोअतिथिमुषर्बुधमिति । दशरात्रेपञ्चमेहनिनवर्चमाज्यशस्त्रञ्च सूत्रितञ्च—इममूषुवोअतिथिमुषर्बुध- मितिनवाज्यमिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Agni**, revered as a friend, who, abiding in heaven and earth, communicates our praise to the gods, conduct the offerer of adoration to domestic felicity, and may we overcome our adversaries, our iniquities, our difficulties; may we overcome them by your protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O god Agni with the might of Mitra, to us you call the gods, call the  grace of the two world-halves.  
 Pursue well-being, good dwelling; pursue the men of heaven. May we  cross over hatreds, over narrow straits difficult to traverse.  
 May we cross over; with your help may we cross over.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, God with Mitra's might call hither the favour of the Gods from earth and heaven.  
      Bring weal from heaven that men may dwell securely. May we o'ercome the foe's malign oppressions, may we o'ercome them, through thy help o'ercome them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lade, du wie Mitra gefeierter Gott, die Götter zu uns ein, o Agni, erbitte die Gunst beider Welten! Ersuche die Männer des Himmels um Glück, um gutes Wohnen! Wir möchten über die Anfeindungen, die Nöte, die Fährlichkeiten hinwegkommen, wir möchten über diese hinwegkommen, durch deine Gnade hinwegkommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rufe uns, o freundereicher Gott die Götter her, o Agni, und das Wohlwollen beider Welten; führe die Männer des Himmels her zu Heil und Sicherheit; über des Feindes Drangsale und Gefahren mögen wir hinüberdringen, über sie hinüberdringen, durch deine Hülfe hinüberdringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пригласи к нам богов, о бог, великий как Митра,  
 О Агни, (ниспошли нам) милость двух миров!  

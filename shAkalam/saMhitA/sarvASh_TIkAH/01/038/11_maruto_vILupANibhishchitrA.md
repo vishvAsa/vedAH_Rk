@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡रुतो वीळुपाणि꣡भिश्  
 चित्रा꣡ रो꣡धस्वतीर् अ꣡नु  
 याते꣡म् अ꣡खिद्रयामभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 या॒त । ई॒म् । अखि॑द्रयामऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
@@ -79,41 +79,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **मरुतः** यूयं **वीळुपाणिभिः** दृढहस्तैः सहिताः सन्तः **रोधस्वतीरनु** कूलयुक्ता नदीरनुलक्ष्य **अखिद्रयामभिः** अच्छिन्नगमनैः **याते** गच्छतैव ॥ मरुतः । आमन्त्रिताद्युदात्तत्वम् । वीळुपाणिभिः । वीडु इति बलनाम, ‘वीळु च्यौत्नम्' (नि. २.९. १४) इति तन्नामसु पाठात् । तेन च तद्वान् लक्ष्यते । वीळवश्च ते पाणयश्च । **समासस्य'** इत्यन्तोदात्तत्वम् । रोधस्वतीः । ‘रुधिर् आवरणे'। रुणद्धि स्रोतः इति रोधः कूलम् । ‘रोधः कूलं निरुणद्धि स्रोतः' (निरु. ६. १ ) इत्युक्तत्वात् । असुनो नित्त्वादाद्युदात्तत्वम् । तद्युक्ता रोधस्वत्यः । मादुपधायाः' इति मतुपो वत्वम् । 'उगितश्च' इति ङीप् । मतुब्ङीपोः पित्त्वादनुदात्तत्वे असुनः स्वर एव शिष्यते । यात । ' या प्रापणे '। अदादित्वात् शपो लुक् । ईम् ।  ‘ चादयोऽनुदात्ताः' इत्यनुदात्तत्वम् । गुणे  ‘ एकादेश उदात्तेनोदात्तः' इत्युदात्तत्वम् । अखिद्रयामभिः ।  ‘ खिद दैन्ये' । 'स्फायितञ्चि°' इत्यादिना रक् । खिद्रं यान्तीति खिद्रयामानः । न खिद्रयामानः अखिद्रयामानः । तैः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, with strong **hands**, come along the beautifully-embanked rivers, with obstructed progress.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Maruts, along the shimmering (waters) with their riverbanks, drive  with your hard-hooved (horses)  
 whose journey is never broken.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ródhas- is a bulwark or fortification (√rudh ‘obstruct’), in this context indicating the ‘banks’ of a river, which keep the waters within.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Maruts, with your strong-hoofed steeds, unhindered in their courses, haste  
      Along the bright embanked streams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Marut, mit euren starkhufigen Rossen, die im Laufen unermüdlich sind, folget dem Lauf der buntschimmernden Flüsse.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Maruts mit nicht rastenden, starkhuf'gen Rossen eilet nach Der hellen eingesperrten Flut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Маруты, на (конях) с крепкими копытами,  
 Не устающими в пути, мчитесь вслед за  

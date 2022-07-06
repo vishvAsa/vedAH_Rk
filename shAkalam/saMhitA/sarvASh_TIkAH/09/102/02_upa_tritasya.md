@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प त्रित꣡स्य पाषि꣡योर्  
 अ꣡भक्त य꣡द् गु꣡हा पद꣡म्  
 यज्ञ꣡स्य सप्त꣡ धा꣡मभिर् अ꣡ध प्रिय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 य॒ज्ञस्य॑ । स॒प्त । धाम॑ऽभिः । अध॑ । प्रि॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -93,7 +93,7 @@ genre M;; line affected by realignment
 **त्रितस्य** मम यज्ञे **गुहा** गुहायां हविर्धाने वर्तमानयोः **पाष्योः** पाषाणवद्दृढयोरधिषवणफलकयोः **पदं** स्थानं सोमः **यत्** यदा **उप** **अभक्त** समभजत **अध** अनन्तरं **यज्ञस्य** **धामभिः** धारकैः **सप्त** सप्तभिश्छन्दोभिर्गायत्र्यादिभिः **प्रियं** प्रीणयितारं सोममभिष्टुबन्ति ऋत्विजः । अपि वा । सप्त सर्पणशीलैर्वसतीवर्यादिभिरुदकैः सोममभिषुण्वन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,13 +104,13 @@ genre M;; line affected by realignment
 With the seven supports of the sacrifice: i.e., with the seven metres; or, deriving sapta from. sṛp, they effuse the Soma with the vasatīvarī water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the two “jaws” [?] [=soma press?] of Trita [/the third one], when he  [=Soma] took to the hidden track,  
 (he traveled) through the seven domains of the sacrifice—now, right to  his own dear (place).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On pāṣī́- see comm. ad I.56.6, the only other occurrence of this stem. In both instances it is dual and seems to refer to a twinned body part. Under this analysis in this passage the body part is metaphorical, referring to the two “jaws” of the soma press, a metaphor also found in the later ritual literature. See Geldner (n. 2a) on this interpr., also fld. by Renou
 
@@ -139,23 +139,23 @@ Trita figures in these two vss. Although the name Trita has several different re
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The place, near the two pressing-stones of Trita, hath he occupied,  
      Secret and dear through seven lights of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In des Trita Kinnladen hat er seine geheime Stufe erreicht, mit den sieben Formen des Opfers - nunmehr seine liebe Stufe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Trita's Steinen nahm er ein den Ort, der im Verborgnen ist, Durch sieben Opferbräuche da, – den lieblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В челюстях Триты  
 Он воспользовался местом, которое (хранится) в тайне,  

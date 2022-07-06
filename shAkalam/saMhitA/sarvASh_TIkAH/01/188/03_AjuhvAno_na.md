@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आजु꣡ह्वानो न ई꣡डियो  
 देवाँ꣡ आ꣡ वक्षि यज्ञि꣡यान्  
 अ꣡ग्ने सहस्रसा꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 अग्ने॑ । स॒ह॒स्र॒ऽसाः । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ājuhvāno* ← *ājuhvānaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
@@ -88,7 +88,7 @@ genre M
 हे **अग्ने** आजुह्वानः अस्माभिराहूयमानः सन् **ईड्यः** अस्माभिः स्तुत्यः इण्नामकः त्वं **नः** अस्मदर्थं **यज्ञियान्** यज्ञभाजः **देवान** **आ** **वक्षि** आवह । हे अग्ने त्वं **सहस्रसा** **असि** अपरिमितधनस्य दातासि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,34 +99,34 @@ genre M
 Who are to be glorified: **iḍya** = īḷita; narāśamsa, a term which normally precedes īḷita, is here omitted
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being libated, as the one to be solemnly invoked, convey to us the gods  worthy of the sacrifice.  
 O Agni, you are the winner of thousands.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Invoked and worthy of our praise bring Gods whose due is sacrifice:  
      Thou, Agni, givest countless gifts.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Receiving libations, worthy of being magnified 1 bring hither to us the worshipful gods. Agni! Thou art a winner of thousandfold (bliss).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Schmalz begossen fahr als unser berufener Fahrer die opferwürdigen Götter her. Agni, du bist ein Tausendgewinner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die hehren Götter fahr uns her, getränkter Agni, preisenswerth, Du schenkest tausendfaches Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Политый (маслом), достойный наших  
 призывов  

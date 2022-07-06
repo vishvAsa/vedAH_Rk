@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आत्मा꣡ देवा꣡नाम् भु꣡वनस्य ग꣡र्भो  
 यथावशं꣡ चरति देव꣡ एषः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡स्मै वा꣡ताय हवि꣡षा विधेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 घोषाः॑ । इत् । अ॒स्य॒ । शृ॒ण्वि॒रे॒ । न । रू॒पम् । तस्मै॑ । वाता॑य । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ popular
 अयं वायुः **देवानाम्** इन्द्रादीनामपि **आत्मा** जीवरूपेण तेष्ववस्थानात् **भुवनस्य** अपि भूतजातस्य **गर्भः** गर्भवत्प्राणरूपेणान्तर्वर्तमानः **एषः** ईदृशः **देवः** **यथावशं** यथाकामं यथेच्छं **चरति** वर्तते । अनिवारितगतिः सन् क्वचिच्छीघ्रं गच्छति क्वचिच्छनैर्गच्छति कुतश्चिच्छरीरान्निष्क्रामति अन्यच्च शरीरं प्रविशतीत्येवं यथेच्छं वर्तत इत्यर्थः । **अस्य** वायोरागच्छतः **घोषा** **इत्** शब्दा एव **शृण्विरे** श्रूयन्ते । **रूपं** स्वरूपं तु **न** दृश्यते नीरूपत्वात् । अदृग्विषयत्वेन शब्देनैवानुमीयत इत्यर्थः । **तस्मै** **वाताय** वायवे **हविषा** चरुपुरोडाशादिलक्षणेन **विधेम** परिचरेम ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,34 +137,34 @@ popular
 I.e., the cow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The breath of the gods, the embryo of the world, this god wanders as he  wishes.  
 Only his sounds are heard, not his form. To him, to the Wind, we would  do honor with our oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Germ of the world, the Deities' vital spirit, this God moves ever as his will inclines him.  
      His voice is heard, his shape is ever viewless. Let us adore this Wind with our oblation.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Of gods the breath, and of the world the offspring, This god according to his liking wanders. His sound is heard, his form is never looked on: That Vāta let us worship with oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Seele der Götter, das Kind der Welt, wandelt dieser Gott, wo er will. Sein Getöse hört man - nicht seine Gestalt. Diesem Sturmwind lasset uns mit Opfer dienen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Götter Seele und des Weltalls Sprössling, bewegt der Gott sich, wie es ihn gelüstet, Sein Rauschen nur vernimmt man, nicht sein Aussehn, lasst diesem Winde uns mit Opfer dienen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дыхание богов, зародыш мироздания,  
 По (своей) воле странствует этот бог.  

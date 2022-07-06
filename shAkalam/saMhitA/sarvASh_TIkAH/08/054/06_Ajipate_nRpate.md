@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡जिपते नृपते तुव꣡म् इ꣡द् धि꣡ नो  
 वा꣡ज आ꣡ वक्षि सुक्रतो  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 ससवां꣡सो वि꣡ शृण्विरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya;; repeated line
 वी॒ती । होत्रा॑भिः । उ॒त । दे॒ववी॑तिऽभिः । स॒स॒ऽवांसः॑ । वि । शृ॒ण्वि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ājipate* ← *āji*
 - \[noun\], masculine
@@ -118,20 +118,20 @@ genre M;; Vālakhilya;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O lord of battle, lord of men, mighty in action, do you guide us in the conflict; far-famed are those whoobtain their desires by sacrificial feasts, by invocations, and by entertaining the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because just you are lord of contests, lord of men, convey us to the prize,  o you of good resolve.  
 By their (ritual) pursuit, by their oblations and by their pursuits of the  gods, they have become far famed as winners.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take pāda a as a nominal clause, with b separate, in order to account for the unaccented verb in b following hí in a. This requires taking ā́jipate nṛpate as predicated vocatives, a rare but still attested construction; see, e.g., I.15.2. This should also require naḥ at the end of pāda a to be construed with that clause, which the published translation does not do. I would now add “for us” after “lord of men” and in the second clause make “us” parenthetical. Geldner takes ab as a single sentence, which avoids the predicated vocative but has an unaccented verb in a hí clause. Oldenberg mentions the problem but decides that the lack of accent can be attributed to faulty transmission of the Vālakhilya. This is of course possible.
 
@@ -140,17 +140,17 @@ Both Oldenberg and Geldner accept the Kashmir ā́bhakṣi for ā́vakṣi, thou
 Although VIII.54 has little in common with VIII.53, note 6cd … hótrābhir utá devávītibhiḥ, sasavā́ṃso … and 53.7c … hótrābhir utá deváhūtibhiḥ, sasavā́ṃso …
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schlachtengebieter, Männergebieter, gib du uns also einen Anteil am Siegerpreis, du Ratreicher! Die mit ihrem Begehr, ihren Opfern und ihren Götterbegehrungen das Spiel gewonnen haben, die werden berühmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Schlachtenherr, o Männerherr, vielwirkender, zu unserm Opfer fahre du; Durch Speise, Opfer und durch Göttermahle sind Die Gutempfänger weit berühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Повелитель битв, повелитель мужей,  
 Надели же нас долей в награде, о стоумный!  

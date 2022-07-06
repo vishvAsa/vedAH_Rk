@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ इन्द्र यासि दिविया꣡नि रोचना꣡  
 वि꣡ पा꣡र्थिवानि र꣡जसा पुरुष्टुत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ते꣡ सु꣡ वन्वन्तु वग्वनाँ꣡ अराध꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ये । त्वा॒ । वह॑न्ति । मुहुः॑ । अ॒ध्व॒रान् । उप॑ । ते । सु । व॒न्व॒न्तु॒ । व॒ग्व॒नान् । अ॒रा॒धसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vīndra* ← *vi*
 - \[adverb\]
@@ -128,36 +128,36 @@ genre M
 हे **इन्द्र** **दिव्यानि** दिवि भवानि **रोचना** रोचनानि दीप्तिस्वभावकानि ज्योतींषि यद्वा दिव्याँल्लोकान् वि **यासि** व्याप्नोषि । हे **पुरुष्टुत** बहुभिः स्तुतेन्द्र **पार्थिवानि** पृथिव्यां भवानि **रजसा** आत्मीयेन ज्योतिषा विद्युल्लक्षणेन । यद्वा । रजःशब्दाच्छस आकारः । पार्थिवाँल्लोकान् । व्याप्नोषि। **ये** त्वदीया अश्वाः **मुहुः** पुनः पुनः **अध्वरान्** अस्मदीयान् यज्ञान् प्रति **त्वा** त्वाम् **उप** **वहन्ति** समीपे प्रापयन्ति **ते** अश्वाः **वग्वनान्** वचनेन स्तुत्या संभक्तॄन् **अराधसः** धनरहितानस्मान् **सु** सुष्ठु **वन्वन्तु** धनप्रदानार्थं संभजन्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, who is praised by many, you pervade the luminaries of heaven and earth with your lustre; maythe horses that repeatedly bring you to our sacrifices, plural ased by our praise, bring affluence to us who are poor.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O much-praised Indra, you drive across the heavenly luminous realms  and across the earthly ones through the airy space.  
 Those who convey you in an instant right up to the ceremonies, let them  vanquish the ungenerous ones who chatter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou wanderest far, O Indra, through the spheres of light and realms of earth, the region, thou whom many praise!  
      Let those who often bring their solemn rites conquer the noisy babblers who present no gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, fährst durch die himmlischen Lichträume, durch die irdischen Räume, in der Luft, Vielgepriesener. Die dich im Augenblick hin zu den Opfern fahren, die sollen fein die geschwätzigen Knauser überbieten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du fährst, o Indra, zu des Himmels lichtem Raum und dem der Erde, vielgerufner, durch die Luft, Die schnell dich fahren zu den Opfern, mögen bald den prahlerischen, kargen Feind bewältigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, едешь через небесные светлые пространства,  
 Через земные просторы, о многовосхваленный.  

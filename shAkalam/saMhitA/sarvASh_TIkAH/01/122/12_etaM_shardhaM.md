@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एतं꣡ श꣡र्धं · धाम य꣡स्य सूरे꣡र्  
 इ꣡त्य् अवोचन् द꣡शतयस्य नं꣡शे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे सन्वन्तु प्रभृथे꣡षु वा꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 द्यु॒म्नानि॑ । येषु॑ । व॒सुऽता॑तिः । र॒रन् । विश्वे॑ । स॒न्व॒न्तु॒ । प्र॒ऽभृ॒थेषु॑ । वाज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
@@ -111,7 +111,7 @@ genre M
 **यस्य** **सूरेः** हविरादिप्रेरकस्य यजमानस्य संबन्धिनः **दशतयस्य** दशेन्द्रियसंवर्धकत्वेन दशावयवस्यान्नस्य **नंशे** प्राप्तये वयम् आहूताः स्म तस्मै यजमानाय **एतम्** इदानीं दातव्यत्वेन वर्तमानं **शर्धः** परेषामभिभावकमन्नं तत्प्राप्तिहेतुं बलं वा **धाम** विदधाम करवाम **इत्यवोचन्** देवाः ॥ धाम । दधातेर्लुङि  ‘ गातिस्था' इति सिचो लुक् । वचेः अकारस्य उम् । अस्यतिवक्ति' इत्यादिना च्लेः अङ्॥ **येषु** देवेषु **द्युम्नानि** द्योतमानान्यन्नानि **वसुतातिः** वसूनां धनानां तातिः विस्तारश्च वसून्येव वा **रारन्** रमन्ते भृशम् ॥ तातिः । तनोतेः क्तिनि व्यत्ययेन आत्वम् । मरुद्वृधादित्वात् पूर्वपदान्तोदात्तत्वम् । यद्वा । स्वार्थिकस्तातिल्। रारन्निति रमतेर्यङलुगन्तस्य लङि रूपम् । ते **विश्वे** सर्वे देवाः **प्रभृथेषु** प्रकृष्टभरणेषु यागेषु **वाजम्** अन्नं **सन्वन्तु** ददतु प्रयच्छन्तु ॥  ‘ षणु दाने' ॥ यद्वा । यस्य सूरेः स्वभूतस्य च दशतयस्य दश चमसेष्ववस्थितस्य सोमस्य प्राप्तये वयमाहूताः स्म तस्मै एतं शर्धं धाम इत्यवोचन् । यस्मादेवं तस्मात् प्रभृथेषु यागेषु वाजं तादृशं सोमलक्षणमन्नं विश्वे देवाः सन्वन्तु संभजन्ताम् ॥  ‘ वन षण संभक्तौ ' इत्यस्य व्यत्ययेन उप्रत्ययः ॥ कीदृशेषु यज्ञेषु । येषु वसुतातिः वसूनां हविर्लक्षणानां धनानां वा विस्तारयितारः ऋत्विजः । वचनव्यत्ययः । द्युम्नानि द्योतमानानि हवींषि रारन् ददति ॥  ‘रा दाने '। लेटि छान्दसः शपः श्लुः ।  ‘ छन्दस्युभयथा ' इति आर्धधातुकत्वात् ' आतो लोप इटि च' इति आकारलोपः । अत एव  ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वाभावश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ genre M
 Daśataya = a decade: food, by which the vigour of the ten senses is augment; or **Soma** offered in ten ladles. Alternative rendering of the second **pāda**: May all the gods partake of the abundant food (or Soma) at those sacrifices in which the priests are the distributors of the riches of copious libations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Whichever patron (we belong to), we shall establish him as a force,” so  did they say on the attainment of ten-part (gushing [=soma?]).  
 The brilliant things in which the assemblage of good ones [=gods] finds  enjoyment—let them all [=gods] gain (them) as their victory prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. differs from most (though it is closest to Oldenberg’s). There are two major reasons for the different interpr. in pāda a: 1) most take dhāma as part of the rel. cl., but this is impossible because the verb is unaccented; 2) most take śárdham as a reference to the Marut troop. This is, of course, its standard use, but in this hymn it should first be interpreted in conjunction with śárdhastara- ‘more forceful’ in 10b, where it qualifies an unnamed patron. Here we want to establish our patron (sūrí-) as such a force. In my interpr. the rel. cl. is a nominal cl. consisting only of yásya sūréḥ, in which *vayám (or *smás[i]) can be supplied (from the 1st pl. inherent in dhāma), as an expression of possession: “of which patron (we) [are],” i.e., “who is (our) patron.” Cf. the type VIII.92.32 tvám asmā́kaṃ táva smasi “you are ours; we are yours.” The speakers in b are the poet(s) and priest(s). The gen. dáśastayasya ‘tenfold’ must be interpreted in light of the fuller expression dáśastayasya dhāséḥ in 13a “tenfold gush,” probably a kenning for soma, though there is no agreement on its sense. The fact that the fuller expression serves as a complement of the verb mándāmahe, a standard soma verb, in 13a supports this identification. The ‘tenfold’ characterization is not clear; Oldenberg plausibly suggests that it refers to the number of servings to be divided among that number of priests.
 
@@ -141,23 +141,23 @@ cl., which I’m afraid I will just have to live with.
 As indicated in the comm. to vs. 5, I take vasútāti- here as a reference to the collectivity of good ones, namely gods. I then take the pl. víśve opening the next pāda as referring also to the gods. In this Viśve Devāḥ hymn, the poet cleverly makes reference to them here in this off-kilter expression, with devā́ḥ suppressed and anticipated by the sg. vasútāti-. (The full expression is found in 3d.) My only reservation about this interpr. is that in a dānastuti it should be mortals who are doing the winning, and certainly the phrase prabhṛthéśu vā́jam “the victory prize in the forays” fits a mortal context better. I might then modify my tr. to remove the bracketed “[=gods]” and leave the identity of the subject open. It may in fact be that the two objects dyumnā́ni and vā́jam will be won by gods and mortals respectively, and víśve refers to both, hence “let all (the gods) win the brilliant things in which the assemblage of good ones takes pleasure, and let all (the mortals) win the victory prize at the forays.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vigour will we bestow on that adorer whose tenfold draught we come to taste, so spake they.  
      May all in whom rest splendour and great riches obtain refreshment in these sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Patron, dessen bekannte Marutschar wir bilden wollen", so sprachen sie bei dem Empfang der zehnfachen Speise, "bei denen Glanz und Freigebigkeit gern verweilen möge, sie alle sollen bei den Unternehmungen Gewinn davontragen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Wir wollen festsetzen die Priesterschar, welches Fürsten sie sei (?), um den zehntheiligen Trank zu empfangen«, so sprachen sie, »und die Schätze, an denen die Götterschar Gefallen hat; sie alle mögen Labung erlangen bei diesen Darbringungen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот покровитель, чью толпу мы хотели бы составить -  
 Так говорили они при вкушении (пищи) десяти видов.  

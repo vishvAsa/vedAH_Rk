@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सावि सो꣡मः पुरुहूत तु꣡भ्यं  
 ह꣡रिभ्यां यज्ञ꣡म् उ꣡प याहि तू꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दधन्विर꣡ इन्द्र पि꣡बा सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तुभ्य॑म् । गिरः॑ । विप्र॑ऽवीराः । इ॒या॒नाः । द॒ध॒न्वि॒रे । इ॒न्द्र॒ । पिब॑ । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asāvi* ← *su*
 - \[verb\], singular, Aorist passive
@@ -117,36 +117,36 @@ genre M
 हे **पुरुहूत** बहुभिः स्तोतृभिराहूत **तुभ्यं** त्वदर्थं **सोमः** **असावि** अभिषुतोऽभूत्। ‘ षुञ् अभिषवे' इत्यस्मात्कर्मणि लुङ् । अतः **हरिभ्यां** हरितवर्णाभ्यामश्वाभ्यां **यज्ञम्** अस्मदीयं **तूयं** तूर्णम् **उप** **याहि** उपागच्छ। **तुभ्यं** त्वदर्थं **गिरः** अस्मदीयाः स्तुतयः **विप्रवीराः** । विप्रा मेधाविनो वीर विशेषेण प्रेरयितारः प्रोद्गमयितारो यासां तास्तथोक्ताः । **इयानाः** गमनशीलाः **दधन्विरे** गम्यन्ते । अस्माभिर्युष्मत्प्रीणनाय प्राप्यन्त इत्यर्थः । ‘ ईङ गतौ । ताच्छीलिकः शानच् । छान्दसो विकरणस्य लुक् । धविर्गत्यर्थः । इदित्त्वान्नुम् । कर्मणि छान्दसो लिट् । यत एवमतः **सुतस्य** अभिषुतस्यांशं सुतं सोमं वा **पिब** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** has been effused for you, (**Indra**), the invoked of many, come quickly to the sacrifice withyour two bay horses; our praises recited by the wise, moving quickly, are addressed to you; drink, Indra, of thelibation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma has been pressed for you, o much-invoked one. With your pair  of fallow bays, drive swiftly to the sacrifice.  
 The songs, having poets for heroes, making their way, have run to you,  Indra. Drink of the pressed soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma hath flowed for thee, Invoked of mat Speed to our sacrifice with both thy Coursers.  
      To thee have streameld the songs or mighty singers, imploring, Indra, drink of our libation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma ist dir, Vielgerufener, ausgepreßt. Komm hurtig mit dem Falbenpaare zum Opfer! Zu dir haben eilend die Lobreden von beredten Männern ihren Lauf genommen, Indra; trink Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst ist Soma dir, o vielgerufner, mit deinen Füchsen komme schnell zum Opfer; Dir strömen zu die Lieder frommer Männer, die eilenden, o Indra, trink vom Safte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

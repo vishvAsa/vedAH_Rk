@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवो꣡र् अश्विना व꣡पुषे युवायु꣡जं  
 र꣡थं वा꣡णी येमतुर् अस्य श꣡र्धियम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यो꣡षावृणीत जे꣡निया युवा꣡म् प꣡ती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । वा॒म् । प॒ति॒ऽत्वम् । स॒ख्याय॑ । ज॒ग्मुषी॑ । योषा॑ । अ॒वृ॒णी॒त॒ । जेन्या॑ । यु॒वाम् । पती॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
@@ -119,36 +119,36 @@ genre M
 **अश्विना** हे अश्विनौ **युवोः** युवयोः **वाणी** वननीयौ प्रशस्यौ अश्वौ **युवायुजं** युवाभ्यां युज्यमानं **रथम्** आजिधावनसमये **अस्य** रथस्य यत् **शर्ध्यं** प्राप्यम् आदित्याख्यम् अवधिभूतं लक्ष्यं **वपुषे** शोभार्थं तत् **येमतुः** । सर्वेभ्यो देवेभ्यः पूर्वं प्रापयामासतुः । तदनन्तरं च **आ** **जग्मुषी** आगतवती **जेन्या** आजिधावनेन जीयमाना **योषा** सूर्या **सख्याय** सखित्वाय युवां युवयोः **पतित्वम्** **अवृणीत** । कथमिति । मम **युवाम्** एव **पती** भर्तारौ इति ॥ युवोः । षष्ठीद्विवचने ‘योऽचि' इति यत्वस्य सर्वविधीनां छन्दसि विकल्पितत्वादभावे ‘शेषे लोपः' इति दकारलोपः । ‘अतो गुणे' इति पररूपत्वम् । युवायुजम् । युवावौ द्विवचने' इति द्व्यर्थाभिधायकस्य युष्मच्छब्दस्य अविभक्तावपि व्यत्ययेन युवादेशः । शर्ध्यम् ।' शृधु प्रसहने । अस्मात् ण्यन्तात् ' अचो यत्' इति यत् ।' यतोऽनावः' इत्याद्युदात्तत्वम् । जग्मुषी । गमेर्लिटः क्वसुः । उगितश्च ' इति ङीप् । ‘वसोः संप्रसारणम्' इति संप्रसारणम् ।' गमहन' ' इति उपधालोपः । जेन्या ।' जि जये' । औणादिक एन्यप्रत्ययः टिलोपश्च ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, your admirable (horses) bore the car which you had carnessed, (first) to the goal, for the sake of honour, and the damsel, who was the prize, came through affection, to you, and acknowledged your (husbandship), saying, "you are (my) lords".”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the sake of your marvel [=your chariot], Aśvins, two voices guided  the chariot harnessed by you and its (cargo?) belonging to the warrior  band [? =the Aśvins].  
 Having come to marriage to you for a partnership with you, the noble  young girl chose you two as her husbands.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Asvins, the car which you had yoked for glorious show your own two voices urged directed to its goal.  
      Then she who came for friendship, Maid of noble birth, elected you as Husbands, you to be her Lords.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für eure Schönheit lenkten den von euch geschirrten Wagen die beiden Stimmen, der es mit dieser aufnahm. Die befreundete Maid, die mit euch zur Kameradschaft die Ehe einging, hatte euch zu ihren Gatten erwählt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Ritter, euern Wagen, den ihr selbst geschirrt, den starken lenkten seine Stränge wundersam; Die edle Jungfrau, als sie zur Vermählung kam, erwählte euch als Gatten zur Genossenschaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Колесницу, запряженную вами, о Ашвины, для вашего чудесного появления,  
 Два голоса направляют к ее цели.  

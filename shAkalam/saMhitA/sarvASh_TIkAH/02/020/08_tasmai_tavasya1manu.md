@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्मै तवसि꣡यम् अ꣡नु दायि सत्रा꣡  
 इ꣡न्द्राय · देवे꣡भिर् अ꣡र्णसातौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हत्वी꣡ द꣡स्यून् पु꣡र आ꣡यसीर् नि꣡ तारीत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्रति॑ । यत् । अ॒स्य॒ । वज्र॑म् । बा॒ह्वोः । धुः । ह॒त्वी । दस्यू॑न् । पुरः॑ । आय॑सीः । नि । ता॒री॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
@@ -134,37 +134,37 @@ genre M
 देवेभिर्देवनशीलैः स्तोतृभिः अर्णसातौ उदकलाभेनिमित्ते तस्माइन्द्रायतवस्यन्तवसे बलायहितं बलवर्धनंहविः सत्रासन्तं सर्वेष्वहस्सुअनुअनुक्रमेणसवनत्रयेदायिअदायि यद्वा तवस्यंयद्बलं प्रवृद्धाय- दीयते तत्तवस्यं देवेभिर्देवैरुदकभजने अनुक्रमेणतद्बलन्तस्माइन्द्रायादायि तथामन्त्रः—अनुतेदायिमह इन्द्रियायेति । यद्यदाअस्येन्द्रस्यबाह्वोर्वज्रम्प्रतिधुः स्तोतारोसुरवधसूचकेनस्तोत्रेणप्रतिनिदधुः स्तूय मानोहीन्द्रोदस्युवधार्थं वज्रमादत्ते दधुः दधातेर्लुङि गातिस्थेतिसिचोलुक् आतइतिझेर्जुस् ततस्तेन वज्रेणदस्यूनसुरान् हत्वीहत्वा तन्दीयाआयसीरयोमयीः पुरोनितारीत् नितरामनाशयत् ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Vigour has been perpetually imparted to **Indra** by his worshippers (with oblations), for the sake of obtaining rain; for which purpose they have plural ced the thunderbolt in his **hands**, wherewith,having slain the **Dasyus**, he has destroyed their metal cities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In every way might was conceded by the gods to him, to Indra, at the  winning of the flood.  
 When they put his mace in his arms, after smashing the Dasyu he  
 trampled their metal fortresses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him in might the Gods have ever yielded, to Indra in the tumult of thebattle.  
      When in his arms they laid the bolt, he slaughtered the Dasyus and cast down their forts of iron.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesem Indra ward von den Göttern im Kampf um das Wasser ganz und gar die Überlegenheit zugestanden. Als sie ihm die Keule in die Arme legten, da erschlug er die Dasyu´s und warf die ehernen Burgen nieder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm standen nach an Heldenkraft die Götter, dem Indra alle bei dem Kampf um Fluten; Als sie den Blitz gelegt ihm in die Arme, erschlug die Feind' er, nahm die eh'rnen Burgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этому Индре досталась от богов  
 Вся храбрость при завоевании вод.  

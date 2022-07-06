@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शास꣡ इत्था꣡ महाँ꣡ असि  
 अमित्रखादो꣡ अ꣡द्भुतः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 न꣡ जी꣡यते क꣡दा चन꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 न । यस्य॑ । ह॒न्यते॑ । सखा॑ । न । जीय॑ते । कदा॑ । च॒न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śāsa* ← *śāsaḥ* ← *śāsa*
 - \[noun\], nominative, singular, masculine
@@ -103,36 +103,36 @@ popular;; epic anuṣṭubh (292)
 **शासः** एतत्संज्ञोऽहम् **इत्था** इत्थमनेन वक्ष्यमाण प्रकारेणेन्द्रं  स्तौमीति शेषः । हे इन्द्र त्वं **महाँ** **असि** सर्वेभ्योऽधिको भवसि । **अमित्रखादः** अमित्राणां शत्रूणां खादिता विनाशयिता अत एव **अद्भुतः** आश्चर्यभूतश्च भवसि । **यस्य** इन्र्रस्य **सखा** मित्रभूतः पुरुषः **कदा** **चन** कदाचिदपि **न** **हन्यते** न हिंस्यते **न** **जीयते** न च शत्रुभिः पराजितो भवति स त्वं महाँ असीत्यन्वयः।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Śāsa** thus (praise **Indra**); you are mighty, the destroyer of foes, the wonderful, (he) whose friend isnot killed nor ever overpowered.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As commander, you are great in just this way: as the infallible devourer  of foes,  
 whose comrade is not slain nor is he ever conquered.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A MIGHTY Governor art thou, Wondrous, Destroyer of the foe,  
      Whose friend is never done to death, and never, never overcome.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist ein so großer Gebieter, ein wunderbarer Feindevertilger, dessen Freund nicht getötet noch jemals vergewaltigt wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein grosser Herrscher bist du traun, ein Feindvernichter wunderbar, Du, dessen Freund getödtet nicht, noch jemals überwältigt wird.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, в самом деле, могучий повелитель,  
 Пожиратель недругов удивительный,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡म् उ त्यं꣡ द꣡श क्षि꣡पो  
 मृज꣡न्ति सप्त꣡ धीत꣡यः  
 सुआयुध꣡म् मदि꣡न्तमम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒ऽआ॒यु॒धम् । म॒दिन्ऽत॑मम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **त्यं** तम् **एतमु** एतमेव सोमं **दश** **क्षिपः** दशाङ्गुलयः **मृजन्ति** परिचरन्ति । **सप्त** **धीतयः** सप्त ऋत्विजश्च । ऋत्विजोऽङ्गुलिभिर्मृजन्तीत्यर्थः कीदृशमेतम् । **स्वायुधं** शोभनायुधं **मदिन्तमं** मादयितृतमम्। रक्षोहननसामर्थ्यप्रदर्शनाय स्वायुधशब्दश्रवणम् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,34 +94,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Well-weaponed: svāyudha is used to indicate that **Soma** has the power to slay the **rākṣasas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here the ten fingers and the seven insights groom,  
 the most exhilarating one possessing good weapons.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The insights of b form a bit of a ring with the insight of 1a. Furthermore, ab with ten fingers and seven dhītí- grooming Soma is almost identical to IX.8.4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, even him, the fingers ten and the seven songs make beautiful,  
      Well-weaponed, best of gladdeners.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese selben putzen die zehn Finger, die sieben Gebete, der gute Waffen führt, den Berauschendsten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja ihn, den schönbewaffneten, ihn läutern, den berauschendsten, Zehn Finger, sieben Bräuche ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого самого начищают  
 Десять пальцев, семь молитв,  

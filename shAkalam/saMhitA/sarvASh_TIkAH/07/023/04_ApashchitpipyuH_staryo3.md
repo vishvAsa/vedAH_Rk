@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पश् चित् पिप्यु स्तरि꣡यो न꣡ गा꣡वो  
 न꣡क्षन्न् ऋतं꣡ जरिता꣡रस् त इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवं꣡ हि꣡ धीभि꣡र् द꣡यसे वि꣡ वा꣡जान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 या॒हि । वा॒युः । न । नि॒ऽयुतः॑ । नः॒ । अच्छ॑ । त्वम् । हि । धी॒भिः । दय॑से । वि । वाजा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
@@ -138,7 +138,7 @@ genre M
 हे **इन्द्र** त्वत्प्रसादात्  **आपश्चित्** आपः **स्तर्यो** **न** **गावः** स्तर्यो वशा गाव इव **पिप्युः** वर्धन्ताम् । अप्रसूता गावो मांसला भवन्ति हि । **ते** तव **जरितारः** स्तोतारश्च **ऋतम्** उदकं **नक्षन्** व्याप्नुवन् । अपि च त्वं **नः** अस्मान् **नियुतः** **वायुर्न** वायुरिव **अच्छ** **याहि** अभियाहि । **त्वं** **हि** **धीभिः** प्रज्ञाभिः कर्मभिर्वा **वाजान्** अन्नानि **वि** **दयसे** स्तोतृभ्यः प्रयच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,36 +149,36 @@ genre M
 Alternativeinterpretation: apaschit pipyuḥ staryo na **gavaḥ** = the waters augment the **Soma** as those Vaidik texts by whichthe Soma is effused; **Yajus**. 33.18
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even the waters swell, (though) barren like barren cows. The singers  attain the truth [=a true hymn] for you.  
 Drive to our teams [=hymns] like the Wind, for you distribute the prizes  along with visionary thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ‘Teams’ (niyút-) often appear in context with Vāyu and his driving. Often, of course, they are his teams, but here and frequently elsewhere the ‘teams’ clearly stand for our poetic thoughts. Cf., e.g., I.135.2, VI.47.14, X.26.1. Therefore, it is unnecessary to supply, with Geldner, a verb of guiding or yoking to make the teams into Vāyu’s.
 
 The instr. dhībhíḥ is taken in the published translation as an instr. of accompaniment, but it could also be an instr. of price/exchange: “in exchange for (our) visionary thoughts.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like barren cows, moreover, swelled the waters: the singen sought thy holy rite, O Indra.  
      Come unto us as with his team comes Vayu: thou, through our solemn hymns bestowest booty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst die Wasser schwollen an, die unfruchtbar wie Kühe waren. Deine Sänger, Indra, sind ans rechte Werk gegangen. Komm wie Vayu die Niyut zu uns lenkend, denn du teilst die Belohnungen nach Erwarten aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Trank ward fett wie unbelegte Kühe, ihr Werk lass, Indra, deine Sänger üben; Wie Vaju komm zu unsern Liederketten; denn liedgelockt vertheilest du die Beute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже воды набухли, (хотя были) словно яловые коровы.  
 Отправились на правое дело певцы твои, о Индра.  

@@ -6,7 +6,7 @@ ChandaH = "विराड्रूपा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रुत꣡म् मे मित्रावरुणा ह꣡वेमा꣡  
 उत꣡ श्रुतं स꣡दने विश्व꣡तः सीम्  
@@ -14,7 +14,7 @@ ChandaH = "विराड्रूपा"
 सुक्षे꣡त्रा सि꣡न्धुर् अद्भिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 श्रोतु॑ । नः॒ । श्रोतु॑ऽरातिः । सु॒ऽश्रोतुः॑ । सु॒ऽक्षेत्रा॑ । सिन्धुः॑ । अ॒त्ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
@@ -122,7 +122,7 @@ genre M
 हे **मित्रावरुणा** एतन्नामानौ अहोरात्राभिमानिदेवौ युवाम् **इमा** इमानि **हवा** अस्मदाह्वानानि **श्रुतं** शृणुतम् । न केवलमस्मदाह्वानम् **उत** अपि च **सदने** यागगृहे **विश्वतः** उद्गात्रादिभिः सर्वतः क्रियमाणं **सीम्** एतत्स्तोत्रमपि **श्रुतं** शृणुतम् । किंच **श्रोतुरातिः** सर्वत्र श्रूयमाणधनः तादृशदानो वा **सुश्रोतुः** अस्मदाह्वानस्य सम्यक् श्रोता **सिन्धुः** जलाभिमानी देवः **सुक्षेत्रा** सुक्षेत्राणि **अद्भिः** वृष्टिजलैः क्लेदयन्निति शेषः । यद्वा । अस्मत्क्षेत्राणि अद्भिः सुक्षेत्राणि सस्यादिसमृद्धानि कुर्वन् **नः** हवं शृणोतु । सुक्षेत्रत्वलाभाय' शृणोत्वित्यर्थः ॥ हवा इमा । उभयत्र विभक्त्या आकारः । श्रुतमित्यत्र  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 Sindhu: deity presiding over water, jalābhimāni **devaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hear these calls of mine, Mitra and Varuṇa, and hear them in your seat  on all sides.  
 Let the one who grants the gift of hearing, who hears well, hear us—the  Sindhu River with her waters who provides good lands.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This last verse before the dānastuti is free of the manifold difficulties that clot the first five verses of the hymn, but it is not devoid of Kakṣīvant’s poetic flourishes. Note first the play on √śru ‘hear’, which reaches a climax in pāda c: śrótu naḥ śróturatiḥ suśrotuḥ. What is particularly clever here is that though the pāda contains three forms śrótu, the first is completely different from the second two: it is the 3rd sg. act. root aor. impv., while the other two belong to the nominal stem śrótuand are 1st and 2nd compound members respectively. The pāda has only 10 syllables, with a likely rest after śrótu naḥ, which would call attention to the phonological identity / morphological difference.
 
@@ -150,23 +150,23 @@ The two occurrences in Kakṣīvant’s oeuvre (I.116.20 and here) ring changes 
 This analysis of I.116.20 is necessary to understand the more attenuated -- and more radical -- instantiation of the formula found in our verse here. As in I.116.20 the DUAL that is inherent in the formula surfaces on the subject, here Mitra and Varuṇa, but the “surrounding” motif is not present, except in viśvátaḥ ‘on all sides’ itself, which seems to have no semantic connection with the rest of its clause. Why is it here? Because it is crossed with a different formula through surface phonological similarity. Consider the word sádane in the same pāda, which has connections with another RVic formula. The phrase “in the seat of Vivasvant” occurs five times in the RV (I.53.1, III.34.7, III.51.3, X.12.7, X.75.1), twice as pāda-final sádane vivásvataḥ# (I.53.1, X.75.1). This provides an almost perfect phonological scrambling of our pāda ending.(In fact, according to Oldenberg [Noten, ad loc.], Ludwig suggested emending viśvátaḥ to vivasvataḥ [no accent given].) sádane vivásvataḥ# sádane viśvátaḥ sīm# Thus our phrase may have been employed in order to evoke the other formula, which is a kenning for “der Opferplatz," so Geldner ad I.53.1. Thus Kakṣīvant deftly marries the grammatical deep structure (the dual) of the viśvátaḥ sīm formula with the surface phonology of sádane vivásvataḥ in a way that allows the semantics of both to be alluded to. (Perhaps an appreciation of the formulaic manipulations involved here would have led Bloomfield (Rig-Veda Repetitions) to reconsider his assessment of this verse with its “hysterical repetition of the root śru” as “secondary clap-trap.”) I do not understand why the Sindhu is esp. gifted with hearing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hear, Mitra-Varuna, these mine invocations, hear them from all men in the hall of worship.  
      Giver of famous gifts, kind hearer, Sindhu who gives fair fields, listen with all his waters!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Höret, Mitra und Varuna, auf diese Anrufungen von mir und höret an eurem Platz sie vollständig an! Es soll uns die Gehör schenkende, gern erhörende Sindhu mit schönem Lande samt ihren Gewässern erhören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O hört mein Rufen, Varuna und Mitra, hört überall es an der heil'gen Stätte, Der gern erhört, Gehör uns schenkt, erhör uns, der wiesenreiche Strom mit seinen Wassern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Услышьте, о Митра и Варуна, эти мои призывы,  
 А также услышьте их на месте (жертвоприношения) со всех сторон!  

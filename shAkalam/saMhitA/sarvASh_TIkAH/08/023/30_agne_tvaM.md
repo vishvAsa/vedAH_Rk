@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने तुवं꣡ यशा꣡ असि  
 आ꣡ मित्रा꣡व꣡रुणा वह  
 ऋता꣡वाना सम्रा꣡जा पूत꣡दक्षसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ऋ॒तऽवा॑ना । स॒म्ऽराजा॑ । पू॒तऽद॑क्षसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -87,7 +87,7 @@ genre M
 हे **अग्ने** **त्वं** **यशाः** । लुप्तमत्वर्थीयः । देवानां मध्ये यशस्वी **असि** भवसि । अत एव त्वम् **ऋतावाना** ऋतावानौ सत्यवन्तौ यज्ञवन्तौ वा **सम्राजा** सम्राजौ सम्यग्राजमानौ **पूतदक्षसा** पूतदक्षसौ । दक्ष इति बलनाम। शुद्धबलौ मित्रावरुणावस्मिन् कर्मणि **आ** **वह** आह्वय । प्रायेण कर्मणि अग्नेर्मित्रावरुणसहितत्वमस्तीति' सूचयति ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,34 +98,34 @@ genre M
 Mitra and **Varuṇa** are ordinarily associated with Agni at sacrifices
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, you are glorious. Convey Mitra and Varuṇa here,  
 the sovereign kings possessing the truth and of refined skill.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The abrupt introduction of Mitra and Varuṇa may look forward to the next hymn but one, VIII.25, devoted at least in its first part, to these two gods. The last pāda of the first verse of VIII.25 (ṛtā́vānā yajase putádakṣasā) is almost identical to the last pāda here (ṛtā́vānā samrā́jā putádakṣasā).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, art a glorious God: bring hither Mitra, Varuna,  
      Imperial Sovrans, holy-minded, true to Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, du bist der Angesehene; fahr uns Mitra und Varuna her, die gesetzestreuen Opferherren von lauterem Wollen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, o Agni, bist mit Glanz begabt; fahre Mitra und Varuna her, die heiligen, reingesinnten Oberherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, ты великолепен.  
 Привези Митру-Варуну,  

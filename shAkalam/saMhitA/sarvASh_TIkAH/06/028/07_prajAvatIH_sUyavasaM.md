@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रजा꣡वतीः सूय꣡वसं रिश꣡न्तीः  
 शुद्धा꣡ अपः꣡ सुप्रपाणे꣡ पि꣡बन्तीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि वो हेती꣡ रुदर꣡स्य+ वृज्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मा । वः॒ । स्ते॒नः । ई॒श॒त॒ । मा । अ॒घऽशं॑सः । परि॑ । वः॒ । हे॒तिः । रु॒द्रस्य॑ । वृ॒ज्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prajāvatīḥ* ← *prajāvat*
 - \[noun\], accusative, plural, feminine
@@ -123,7 +123,7 @@ popular
 हे गावो यूयं **प्रजावतीः** प्रजावत्यो वत्साभिर्युक्ता भवतेति शेषः । **सुयवसं** शोभनतृणं **रिशन्तीः** रिशन्त्यो भक्षणार्थं हिंसन्त्यो भवत । **सुप्रपाणे** सुखेन पातव्ये तटाकादौ **शुद्धाः** निर्मलाः **अपः** उदकानि **पिबन्तीः** पिबन्त्यश्च भवत । **वः** युष्मान् **स्तेनः** तस्करः **मा** **ईशत** मेशिष्ट । ईश्वरो मा भूत् । तथापि **अघशंसः** व्याघ्रादिः शत्रुः **मा** ईशत । अपि च **वः** युष्मान् **रुद्रस्य** कलात्मकस्य परमेश्वरस्य **हेतिः** आयुधं च **परि** **वृज्याः** परिवृणक्तु । परिहरतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,36 +134,36 @@ popular
 Rudra, the supreme being identical with time, kālātmakasya parameśvarasya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bearing offspring, cropping good pasturage, drinking pure waters at a  good watering hole—  
 let not a thief be master of you, nor one who utters evil. Might the lance  of Rudra avoid you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that sūyávasam echoes (gā́vau …) sūyavasyū́in the preceding hymn (VI.27.7).
 
 On īśata see comm. ad I.23.9.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Crop goodly pasturage and be prolific drink pure sweet water at good drinking places.  
      Never be thief or sinful man your matter, and may the dart of Rudra still avoid you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Reich an Nachkommen, auf guter Weide grasend, reines Wasser an guter Tränke trinkend - kein Dieb, keiner, der böse Reden führt, soll über euch Macht haben. Das Geschoß des Rudra soll euch verschonen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An Kälbern reich, abweidend schöne Wiesen, an guter Tränke reines Wasser trinkend, Nicht mög' ein Dieb noch Frevler euch bewält'gen, des Rudra Wurfspiess möge euch verschonen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Богатые потомством, пасущиеся на прекрасном пастбище,  
 Пьющие чистую воду на хорошем водопое –  

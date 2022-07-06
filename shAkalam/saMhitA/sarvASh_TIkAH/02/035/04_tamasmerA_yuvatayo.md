@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अ꣡स्मेरा युवत꣡यो यु꣡वानम्  
 मर्मृज्य꣡मानाः प꣡रि यन्ति आ꣡पः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दीदा꣡यानिध्मो꣡ घृत꣡निर्णिग् अप्सु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । शु॒क्रेभिः॑ । शिक्व॑ऽभिः । रे॒वत् । अ॒स्मे इति॑ । दी॒दाय॑ । अ॒नि॒ध्मः । घृ॒तऽनि॑र्निक् । अ॒प्ऽसु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -121,7 +121,7 @@ genre M
 तमपान्नपातमग्निं अस्मेराअस्मयमानादर्परहितायुवतयः युवानंयुवराजमिवमर्मृज्यमानाः अ- त्यर्थमलङ्कुर्वाणाआपः मृजूशौचालङ्कारयोः परियन्ति परितोगच्छन्ति प्राप्नुवन्ति घ्रुतनिर्निक् क्षर णशीलोदकनिर्नेजनः यद्वा निर्निगितिरूपनाम दीप्तरूपः सोपान्नपादग्निः अप्सुमेघान्तर्गतासुममुद्र गतासुवामध्येअनिध्मः इन्धनरहितएवसन् अस्मेअस्माकं रेवद्धनयुक्तमन्नंयथाभवतितथाशुक्रेभिः शुक्रैर्निर्मलैः शिक्वभिस्तेजोभिः दीदायदीप्यते ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,34 +132,34 @@ genre M
 Bright rays amidst the waters: allusion either to the submarine fire or to the lightning amidst the rain-clouds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The youth do the youthful waters, (though) unsmiling, circle around  while they groom him.  
 With his gleaming, dexterous (flames) he shines richly for us, (though)  without fuel, with his garment of ghee, in the waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The never-sullen waters, youthful Maidens, carefully decking, wait on him the youthful.  
      He with bright rays shines forth in splendid beauty, unfed with wood. in waters, oil-enveloped.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The waters, youthful maidens, never smiling, Making him bright, encompass him the youthful. He with clear flames, free-handedly upon us, Unfed with wood, shines decked with ghee in waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne verschämt zu lächeln, umkreisen ihn die Jungfrauen, die Gewässer, den Jugendlichen putzend. Mit seinen hellen, geübten Gliedern leuchtet er reichlich bei uns, ohne Brennholz leuchtet er in den Gewässern, dessen Festgewand das Schmalz ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vertraulich kosend wandern um den Jüngling die jungen Frau'n, die Wasser, schön sich schmückend, Er strahlte reich uns, hell mit starken Flammen von Fett umhüllt im Wasser ohne Brennholz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Неулыбчивые юные жены – воды, начищая до блеска  
 Этого юношу, движутся вокруг (него).  

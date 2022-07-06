@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रावरुणा वध꣡नाभिर् अप्रति꣡  
 भेदं꣡ वन्व꣡न्ता प्र꣡ सुदा꣡सम् आवतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सत्या꣡ तृ꣡त्सूनाम् अभवत् पुरो꣡हितिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ब्रह्मा॑णि । ए॒षा॒म् । शृ॒णु॒त॒म् । हवी॑मनि । स॒त्या । तृत्सू॑नाम् । अ॒भ॒व॒त् । पु॒रःऽहि॑तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
@@ -110,41 +110,41 @@ genre M
 हे **इन्द्रावरुणा** इन्द्रावरुणौ **वधनाभिः** वधकरैरायुधैरप्रतिगतमप्राप्तं **भेदम्** एतत्संज्ञं सुदासः शत्रुं **वन्वन्ता** हिंसन्तौ युवां **सुदासम्** । शोभनं ददातीति सुदाः । एतत्संज्ञं मम याज्यं राजानं **प्र** **आवतं** प्रकर्षेणारक्षतम् । **एषां** तृत्सूनां मम याज्यानां **ब्रह्माणि** स्तोत्राणि शृणुतम् अशृणुतम् । कदा। **हवीमनि** । आहूयन्तेऽस्मिन् युद्धार्थं परस्परमिति हवीमा संग्रामः। तस्मिन् । यस्मादेवं तस्मात् **तृत्सूनाम्** एतत्संज्ञानां मम याज्यानां **पुरोहितिः** मम पुरोधानं **सत्या** सत्यफलम् **अभवत्** । तेषु यन्मम पौरोहित्यं तत् सफलं जातमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Varuṇa**, you protected **Sudāsa**, overwhelming the yet unassailed **Bheda** with your fatalweapons; here the prayers of threse Tṛtsus in time of battle, so that my ministration may have borne them fruit.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Varuṇa, conquering Bheda without opposition with your  deadly weapons, you helped Sudās.  
 Hear the sacred formulations to summon you! The placement of the  Tr̥tsus [=the Vasiṣṭhas] in front came to be their true (place).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With your resistless weapons, Indra-Varuna, ye conquered Bheda and ye gave Sudas your aid.  
      Ye heard the prayers of these amid the cries of war: effectual was the service of the Trtsus' priest.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 O Varuṇa and Indra, Bheda ye attacked With weapons irresistibly, and helped Sudās. Ye heard his fighters' prayers when they called to you: Then was the Tṛtsus' priestly service justified.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Varuna! Ihr überwandet widerstandslos mit den Waffen den Bheda und halft dem Sudas weiter. Ihr erhöret ihre Beschwörungen bei dem Notruf; es bewährte sich das Purohitaamt der Tritsu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Unwiderstehlich schlagend, Indra-Varuna, mit Hieb den Bheda, standet ihr dem Sudas bei, Vernahmt die Bitten als sie zu euch flehend schrien; erfolgreich war der Tritsustämine Gottesdienst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Варуна, не встречая сопротивления, смертельным оружием,  
 Громя Бхеду, вы поддержали Судаса.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रममाणो अ꣡ति एति गा꣡ अभि꣡  
 सू꣡र्यस्य प्रियं꣡ दुहितु꣡स् तिरो꣡ र꣡वम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सं꣡ द्वयी꣡भिः स्व꣡सृभिः क्षेति जामि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अनु॑ । अ॒स्मै॒ । जोष॑म् । अ॒भ॒र॒त् । वि॒न॒म्ऽगृ॒सः । सम् । द्व॒यीभिः॑ । स्वसृ॑ऽभिः । क्षे॒ति॒ । जा॒मिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aramamāṇo* ← *a*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 **सः** सोम **अरममाणः** अनुपरतः सन् । पुनः पुनर्देवानां प्रीणनाय ग्रहादीनि प्रविशन्नित्यर्थः । **गाः** गोविकारानाश्रयणानभिलक्ष्य **अत्येति** अतिक्रम्य गच्छति । ततः शब्दायमानः सोमः **सूर्यस्य** आदित्यस्य **दुहितुः** उषस: **प्रियं** **रवं** शब्दं **तिरः** तिरस्करोति । तस्मिन्काले सोमाभिषवध्वनिर्महान्   भवतीत्यर्थः । **विनंगृसः** । विनं कमनीयं स्तोत्रं गृह्णातीति विनंगृसः स्तोता । **जोषम्** । जुषेर्घञि रूपम् । पर्याप्तं स्तोत्रं तस्मै सोमाय **अनु** **अभरत्** अनुभरति । करोतीति यावत् । सोऽयं सोमः **द्वयीभिः** द्वाभ्यां पाणिभ्यामुत्पन्नाभिः **जामिभिः** परस्परं बन्धुभिः स्वसृभिः कर्मकरणार्थमितस्ततो गच्छन्तीभिरङ्गुलीभिः **सं** **क्षेति** संगच्छते । ‘क्षि निवासगत्योः । छान्दसी  विकरणस्य लुक् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ genre M
 The daughter of the sun: i.e., the dawn, beacause, at that time the noise of the effusion of the Soma is great; the praiser: vinaṃgṛsaḥ = kamanīyam stotram gṛhṇātīti; arm
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not stopping, he goes beyond (the filter) toward the cows, across the  dear bellow of the Daughter of the Sun.  
 According to his pleasure, the vinaṃgr̥sa [?] “stuck it” to him. He dwells  together with the paired, kindred sisters [=fingers].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the major problem in this vs. is the impossible hapax vinaṃgṛsáḥ in c, the puzzlement begins with b. What does it mean that Soma goes “across the dear bellow of the daughter of the Sun” (sū́ryasya priyáṃ duhituś tiró rávam), and in particular what is the daughter of the Sun doing here? She is found twice elsewhere in IX in the full phrase sū́ryasya duhitár-: at IX.1.6, where she purifies the soma, and IX.113.3, where she brings soma in the form of rain, as well as, most likely, named only as duhitár- in IX.97.47 (for which see below). Geldner (see esp. n. 3b to IX.113.3) considers her “die Rede- und Gesangeskunst selbst,” on the basis of a dubious reading of III.53.15 (see comm. ad loc.), and so in our passage he interpr. her bellow as the song of the priests, which the noisy soma “übertönt” (n. 3b); Renou partially follows him by supplying “au chant des prêtres” to gloss “à la chère rumeur de la Fille du soleil” in his tr., but supplies a verb of motion with tíraḥ: “(passant) outre,” though without comment. But Geldner’s interpr. requires that tíraḥ ‘across’ when construed with a noun referring to noise can mean something like “(sing) over, drown out.” But when independent, tíraḥ always governs an expression of space, e.g., in IX tíraḥ rájāṃsi “across the realms” (IX.3.7-8), tíraḥ pavítram “across the filter” (IX.68.2, 109.16). Tellingly, tíraḥ is once used with an acc. of noise, calls, but these are conceived of spatially, as the calls of other sacrificers which the Aśvins should travel across to arrive at my sacrifice: VII.68.2 … gantam havíṣo vītáye me / tiró aryó hávanāni “come to pursue my offering / across the calls of the stranger.” There is, however, another, idiomatic, use of tírah, with the root √dhā in the meaning ‘hide (oneself), disappear’. An example is found in the next hymn, IX.73.3 maháḥ samudráṃ váruṇas tiró dadhe “As great Varuṇa, (Soma) has hidden himself in the sea.” Another is found in conjunction with the word duhitár-, identified above as another example of daughter (of the Sun) by most (incl. Geldner, Renou): IX.97.47 tíro várpāṃsi duhitúr dádhānaḥ “hiding himself in the forms of the daughter (of the Sun).” In that passage I identify the “forms of the daughter (of the Sun)” as the milk, so called because it is white and gleaming like the Sun; in other words, this is yet another version of the mixing of soma with milk. And I now further suggest that that is what we have here as well - that we should supply a form of √dhā to produce the same idiom we find more clearly in the next hymn and in IX.97.47. The sticking point is then rávam: what does it mean to “hide himself in the bellow of the daughter of the Sun”? I would suggest that it is an example of standard RVic breviloquence as well as synaesthesis. The “bellow” refers to the characteristic sound of cows, who were already mentioned (gā́ḥ) in the preceding pāda, so the phrase “the bellow of the daughter of the Sun” collapses the sound and the visual appearance associated with the milk=cows. I would now tr. the hemistich “Not stopping, he goes beyond (the filter) toward the cows, hid(ing himself) in the dear “bellow” of the daughter of the Sun [=milk].” There is comparatively little sensible to say about the hapax vinaṃgṛsá-, though it is possible to indulge in speculation. Perhaps the only truly sensible thing to note is that it is a partial anagram of the patronymic of the poet (Harimanta) Āṅgirasa: (vin)aṅgrsḁ -, and such phonological associations often drive the appearance of problematic forms. Sāyaṇa. glosses it stotā ‘praiser’ on the basis of context and a rather perfunctory stab at etymology. Geldner renders it ‘arm’ on the basis of Naigh. 2.4 and, again, context: the mention of the fingers in the following pāda would support that interpr. But the word as we have it does not look analyzable acdg.
 
@@ -161,23 +161,23 @@ At this point we leave the realm of even shaky evidence and enter that of pure s
 Having pronounced the word uninterpretable, Renou simply ignores it in his tr., though curiously provides a fem. subject, presumably the daughter of the Sun: “elle lui offrait ses charmes,” a tr. of extreme erotic delicacy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He goes upon his way, unresting, to the cows, over the roaring sound which Sarya's Daughter loves.  
      The Falcon brought it to him for his own delight: now with the twofold kindred sisters is his home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne zu rasten geht er durch die Seihe auf die Kühe los; er übertönt den lieben Schall von Surya´s Tochter. Den Arm steckte sie ihm nach Lust hinein; den beiderseitigen verwandten Schwestern wohnt er bei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er schreitet rastlos zu der Milch der Kühe hin, vordringend durch der Sonnentochter lieben Schall, Der Diener brachte Wasser ihm nach seinem Wunsch, und mit gepaarten, lieben Schwestern wohnet er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не останавливаясь, он переходит через (сито) к коровам,  
 (Выходя) за пределы милого звучания дочери солнца.  

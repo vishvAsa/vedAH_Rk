@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ रा꣡जाना शु꣡चिव्रता  
 आदित्या꣡न् मा꣡रुतं गण꣡म्  
 व꣡सो य꣡क्षीह꣡ रो꣡दसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वसो॒ इति॑ । यक्षि॑ । इ॒ह । रोद॑सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -89,36 +89,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ता** तौ प्रसिद्धौ **राजाना** राजमानौ **शुचित्रता** शुचिकर्माणौ मित्रावरुणौ **आदित्यान्** अदितेः पुत्रान् धात्रादीन् **मारुतं** **गणं** मरुतां संघं च **रोदसी** द्यावापृथिव्यौ च एतान् देवान् हे **वसो** वासकाग्ने **इह** अस्मिन् यज्ञे **यक्षि** यज ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Giver of dwellings, worship on this occasion, the two regal divinities, **Mitra** and **Varuṇa**, whose acts are holy, the **Ādityas**, the company of the **Maruts**, and heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the two kings of blazing commandments [=Mitra and Varuṇa], the  Ādityas, the Marutian flock,  
 o good one, sacrifice here, and to the two world-halves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring those Two Kings whose ways are pure, Adityas, and the Marut host,  
      Excellent God! and Heaven and Earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Könige, deren Walten lauter ist, die Aditya´s, die Marutschar, du Guter, verehre hier und die beiden Welten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das reingesinnte Königspaar, Aditja's und die Marutschar, Die Welten ehr, o Guter, hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тем двум царям, чьи обеты светлы,  
 Адитьям, толпе Марутов,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प प्रा꣡गाच् छ꣡सनं वाजी꣡ अ꣡र्वा  
 देवद्री꣡चा म꣡नसा दी꣡धियानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु पश्चा꣡त् कव꣡यो यन्ति रेभाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒जः । पु॒रः । नी॒य॒ते॒ । नाभिः॑ । अ॒स्य॒ । अनु॑ । प॒श्चात् । क॒वयः॑ । य॒न्ति॒ । रे॒भाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -115,7 +115,7 @@ popular
 अयम् **अर्वा** अरणकुशलः **वाजी** अश्वः **शसनं** विशसनस्थानम् **उप** **प्रागात्** उपप्रैति । किं कुर्वन् । **देवद्रीचा** **मनसा** देवान् गच्छता मनसा **दीध्यानः** ध्यायन् । कदा । देवान् अस्मदवयवेन अर्चामि देवत्वं प्राप्नोमीति वा मनसि ध्यायन् । किंच अस्य पुरः पुरस्तात् 'नाभिः नहनं बन्धुभूत इत्यर्थः । यद्वा। अस्य बन्धनस्थानीयः अविमुक्तत्वात्। एवंभूतः **अजः** **पुरः** **नीयते** पुरतः प्राप्यते **अनु** अनुसृत्य **पश्चात्** अनन्तरम् । अत्र यद्यप्युभयोः पर्यवसितोऽर्थः एक एव तथापि अजाश्वोभयान न्तर्यत्वप्रकटनाय पदद्वयम् । यद्वा । अन्विति क्रियया संबध्यते। **कवयः** अनूचानाः **रेभाः** स्तोतारः ऋत्विजः **यन्ति** गच्छन्ति । ‘ये वा अनूचानास्ते कवयः' इति श्रुतेः । यद्वा । कवय इति मेधाविनाम, ‘कविः मनीषी' ( नि, ३. १५. १०) इति तन्नामसु पठितत्वात् । रेभः इति स्तोतृनाम, ‘रेभः जरिता ' (नि. ३. १६. 1) इति तत्र पाठात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,29 +126,29 @@ popular
 The goat bound to him: ajaḥ puronīyate nābhirasyānu paścāt kavayo yanti rebhāḥ: **nābhi** is connected with aja, implying nahanam, a binding; or, as not detached from him; anu andpaścāt are connected = following after; **kaviḥ** manīṣī (**Nirukta** 3.15.10), i.e. the priests; rebhaḥ **jaritā** (Nirukta 3.16.1), i.e. the singers; stotāraḥ, i.e. the praisers follow the goat fastened to the horse's waist
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The prizewinning steed has gone forth to slaughter, reflecting with a  mind turned to the gods.  
 The goat, his umbilical kin, is led in front. The poets and singers come  along behind.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The strong Steed hath come forward to the slaughter, pondering with a mind directed God-ward.  
      The goat who is his kin is led before him the sages and the singers follow after.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist zur Schlachtung gegangen, der siegreiche Renner, mit gottwärts gerichtetem Gedanken sinnend. Der Bock wird vorausgeführt, seine Verwandtschaft. Die weisen Sänger wandeln hinterdrein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schnelle Renner ist zur Schlachtbank vorgeschritten, aufmerkend mit dem zu den Göttern hingewandten Sinn; der Bock wird vorangeführt, der ihm nah verbundene, und ihm folgen die weisen Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На заклание отправился скакун, приносящий награды,  
 С мыслью, обращенной к богам, с даром прозрения.  

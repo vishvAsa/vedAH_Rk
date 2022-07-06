@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡री꣡द् इ꣡न्द्र उदि꣡नक्षन्तम् ओ꣡जो  
 अ꣡वाभिनत् स꣡त्पतिर् म꣡न्यमानम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आचक्राण꣡स् त्री꣡णि शीर्षा꣡ प꣡रा वर्क्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वा॒ष्ट्रस्य॑ । चि॒त् । वि॒श्वऽरू॑पस्य । गोना॑म् । आ॒ऽच॒क्रा॒णः । त्रीणि॑ । शी॒र्षा । परा॑ । व॒र्गिति॑ वर्क् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūrīd* ← *bhūri*
 - \[noun\], accusative, singular, neuter
@@ -127,7 +127,7 @@ genre M
 **सत्पतिः** सतां पालकः **इन्द्रः** भूरीत् बह्वेव पूर्वतुल्यमतिरिक्तं वा **ओजः** बलम् **उदिनक्षन्तं** व्याप्नुवन्तं **मन्यमानं** शूरमित्यात्मानं चिन्तयन्तम् । यद्वा । मन्यतिर्दीप्तिकर्मा क्रोधक वा । दीप्यमानं क्रुध्यन्तं वा । त्वष्टृपुत्रं माम् **अवाभिनत्** वज्रेण विदारितवान् । विदार्य **त्वाष्ट्रस्य** **चित्** त्वष्टृपुत्रस्यापि **गोनां** गवाम् । स्वामिन इति शेषः । **विश्वरूपस्य** मम **त्रीणि** **शीर्षा** शीर्षाणि **आचक्राणः** आ समन्ताच्छब्दं कुर्वन् **परा** **वर्क्** पराङ्मुखस्य वृक्णवान् छिन्नवानित्यर्थः । ईदृशं भावि वस्तु विश्वरूपः स्वप्नान्तेऽनेन तृचेन दृष्टवान् ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,30 +138,30 @@ genre M
 Shouting: śabdam kurvan; gonāmacakrāṇaḥ, appropriating the cattle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra split (the heads) off the one trying to reach up to much power— the lord of settlements (split them off) the one who thought himself  
 (the same).  
 Having made the cows of Viśvarūpa, the son of Tvaṣṭar, his own, he  twisted off his three heads.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the brave, Indra cleft him in pieces who sought to gain much strength and deemed him mighty.  
      He smote his three heads from his body, seizing the cattle of the oniniform Son of Tvastar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra enthauptete ihn, der große Stärke erstrebte, der wahre Herr ihn, der sich dafür hielt. Nachdem er einen Teil der Kühe des Tvastrisohnes Visvarupa heimgetrieben hatte, beseitigte er dessen drei Köpfe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der gross sich dünkte, viele Kraft erstrebend, den schmetterte herab der mächt'ge Indra, Dem Tvaschtarsohn, dem Viçvarupa riss er drei Köpfe ab, und nahm sich seine Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Идра зарубил (того,) кто замахнулся на слишком большую силу,  
 Благой господин – (того), кто мнил себя (таковым).  

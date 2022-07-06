@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शत꣡म् मेषा꣡न् वृकि꣡ये मामहानं꣡  
 त꣡मः प्र꣡णीतम् अ꣡शिवेन पित्रा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज्यो꣡तिर् अन्धा꣡य चक्रथुर् विच꣡क्षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । अ॒क्षी इति॑ । ऋ॒ज्रऽअ॑श्वे । अ॒श्वि॒नौ॒ । अ॒ध॒त्त॒म् । ज्योतिः॑ । अ॒न्धाय॑ । च॒क्र॒थुः॒ । वि॒ऽचक्षे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
@@ -119,36 +119,36 @@ genre M
 ‘शतं मेषान्वृक्ये चक्षदानम् ' ( ऋ. सं. १. ११६. १६ ) इत्यत्र यदाख्यानमवादिष्म तदत्राप्यनुसंधेयम् । **शतं** शतसंख्याकान् **मेषान** **वृक्ये** वृकीरूपेणावस्थिताय अश्विनोर्वाहनाय रासभाय **ममहानं** पूजितवन्तम् आहारार्थं समर्पितवन्तम् **अशिवेन** असुखकारिणा **पित्रा** स्वकीयेन जनकेन **तमः** दृष्टिराहित्येन कृतम् आन्ध्यं **प्रणीतं** प्रापितम् ऋज्राश्वं चक्षुष्मन्तम् अश्विनावकुरुतामिति शेषः । एतदेव विशदयति । हे **अश्विनौ** **अक्षी** पितृशापान्नष्टे चक्षुषी **ऋज्राश्वे** एतत्संज्ञके राजर्षौ **आ** **अधत्तं** पुनर्दर्शनसमर्थे अकुरुतम् । एतदेवाह । **अन्धाय** दृष्टिहीनाय **ज्योतिः** प्रकाशकं चक्षुः **विचक्षे** विविधं जगत् द्रष्टुं **चक्रथुः** युवां कृतवन्तौ ॥ ममहानम् ।' मह पूजायाम् ' । लिटः कानच् । संहितायां छान्दसमभ्यासस्य दीर्घत्वम् । प्रणीतम् । प्रपूर्वान्नयतेः कर्मणि निष्ठा । ‘गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । पित्रा । ‘उदात्तयणः' इति विभक्तेरुदात्तत्वम् । अक्षी । अक्षिशब्दात् द्विवचने नुमागमश्च प्राप्नोति ‘ई च द्विवचने' इति ईकारान्तादेशश्च । परत्वादीकारादेशः । कृते तस्मिन् सकृद्गतपरिभाषया पुनर्नुम् न भवति । ‘उदात्त' इत्युनुवृतेः ईकारस्योदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You restored eyes to **Ṛjrāśva**, who, on presenting a hundred sheep to the she-wolf, had been condemned to darkness by his indignant father, and gave light to the blind, wherewith to behold all things.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him who had readied a hundred sheep for the she-wolf, who was led  forth into darkness by his merciless father—  
 in R̥jrāśva you put eyes; you made light for the blind one to see.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He whom for furnishing a hundred wethers to the she-wolf, his wicked father blinded,--  
      To him, Rjrasva, gave ye eyes, O Asvins; light to the blind ye sent for perfect vision.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert Widder hatte er der Wölfin gespendet und war durch seinen bösen Vater in die Nacht der Blindheit geführt: Ihr Asvin gabt dem Rijrasva die Augen, ihr machtet dem Blinden Licht zum Sehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm, der der Wölfin hundert Widder schenkte, und der geblendet ward vom bösen Vater, Ihm, dem Ridschraçva gabt ihr neue Augen, und machtet, Ritter, dass der Blinde Licht sah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пожаловавшему волчице сотню баранов  
 (И) ввергнутому во мрак немилосердным отцом  

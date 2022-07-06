@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ शं꣡तमा व꣡रुणं दी꣡धिती गी꣡र्  
 मित्र꣡म् भ꣡गम् अ꣡दितिं नून꣡म् अश्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡तूर्तपन्था अ꣡सुरो मयोभुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पृष॑त्ऽयोनिः । पञ्च॑ऽहोता । शृ॒णो॒तु॒ । अतू॑र्तऽपन्थाः । असु॑रः । म॒यः॒ऽभुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -124,41 +124,41 @@ genre M
 **शंतमा** अत्यन्तं सुखकरी **गीः** स्तुतिरूपा वाक् **वरुणं** **मित्रं** **भगमदितिं** च **दीधिती** दीधित्या कर्मणा हविष्प्रक्षेपणात्मकेन सह **नूनम्** अवितथं **प्र** **अश्याः** प्राप्नोतु । किंच **पृषद्योनिः** पृषद्वर्णान्तरिक्षस्थः **पञ्चहोता** पञ्चविधस्य प्राणापानादिहोमस्य साधको वायुः । यद्वा । पञ्चहोतेति वायोर्नाम । वायुः पञ्चहोता स प्राणः' इति हि श्रुतेः । स च **अतूर्तपन्थाः** अहिंसितगतिः **असुरः** प्राणस्य दाता **मयोभुः** सुखस्यास्पदभूतः । एवमुक्तलक्षणो वायुः **शृणोतु** स्तोत्रमिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May our most animating praise, together with our offerings, successfully attain **Varuṇa**, **Mitra**, **Bhaga** and **Aditi**; may the ministrant of the five (vital airs, **Vāyu**), the dweller in the dappled (firmament), he whose path is unimpeded, who is the giver of life, the bestower of happiness, hear.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May the most availing hymn now reach Varuṇa with its visionary power;  may it reach Mitra, Bhaga, Aditi.  
 Let him hear it—the lord whose womb is the dappled (cow/ghee), who  has five Hotars, whose path cannot be transgressed, who is joy itself  [=Aryaman].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner (etc.) point out, átūrtapanthāḥ is the clue to the identification of the referent of cd, since this epithet only occurs once elsewhere in the RV, in X.64.5, where it is explicitly used of Aryaman. In that passage he is also qualified as saptáhotā ‘having 7 Hotrars’, like páñcahotā here. And of course Aryaman makes sense in this highly Ādityan context. Nonetheless, I think pāda c (pṛ́ṣadyoniḥ páñcahotā) flirts with a different identification -- of Agni -- before sealing that of Aryaman by átūrtapanthāḥ in d. Agni could plausibly have a womb of dappled (ghee) (pṛ́ṣadyoni-), similar to ghṛtáyoni- ‘having a womb of ghee’ used of Agni in V.8.6, as Geldner points out (n. 1cd), and of course Agni is both associated with Hotars and is the Hotar par excellence himself. Since, as noted above, Agni is not otherwise found in this hymn, the poet may have gestured towards him covertly in 1c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now may our sweetest song with deep devotion reach Varuna, Mitra, Aditi, and Bhaga.  
      May the Five Priests' Lord, dwelling in oblations, bliss-giving Asura, hear, whose paths are open.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die genehmste möge nunmehr unsere Lobrede mit Andacht zu Varuna, Mitra, Bhaga, Aditi dringen. Der erfreuliche Asura, der in Schmalz sitzt und fünf Opferpriester hat, der seinen Weg noch nicht zurückgelegt hat, soll zuhören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor dringe nun das liebste Lied mit Andacht zu Aditi, Varuna, Mitra, Bhaga, Es hör, der wohlthut, dem fünf Priester dienen, der Gott mit Gut im Schooss, dess Pfad unnahbar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть самая благотворная молитва (и) песня  
 Достигнет сейчас Варуны, Митры, Бхаги, Адити!  

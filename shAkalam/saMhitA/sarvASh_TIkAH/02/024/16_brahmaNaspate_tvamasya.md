@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्मणस् पते तुव꣡म् अस्य꣡ यन्ता꣡  
 सूक्त꣡स्य बोधि त꣡नयं च जिन्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृह꣡द् वदेम विद꣡थे सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 विश्व॑म् । तत् । भ॒द्रम् । यत् । अव॑न्ति । दे॒वाः । बृ॒हत् । व॒दे॒म॒ । वि॒दथे॑ । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmaṇaspate* ← *brahmaṇaspati*
 - \[noun\], vocative, singular, masculine
@@ -131,36 +131,36 @@ genre M;; repeated line
 हेब्रह्मणस्पते यन्तासर्वस्यजगतोनियन्तात्वं अस्यसूक्तस्यइदंसूक्तं क्रियाग्रहणङ्कर्तव्यमिति कर्मणः सम्प्रदानत्वाच्चतुर्थ्यर्थेषष्ठि बोधि बुध्यस्व बुध्वातनयम्पुत्रञ्चास्मभ्यं जिन्व प्रेरय जिविःप्रीणनार्थः अत्र प्रेरणेवर्तते धातूनामनेकार्थत्वात् यद्भद्रङ्कल्याणं देवाःसर्वे अवन्तिरक्षन्ति विश्वं सर्वं तद्भद्रञ्चजिन्वे तिशेषः वयञ्चसुवीराः शोभनैः वीरैः पुत्रपौत्रादिभिरुपेताःसन्तः बृहत्प्रौढं स्तोत्रं विदथेविदन्ति यष्टव्यतयास्मिन्देवान् जानन्तीतिविदथोयज्ञः तस्मिन्वदेमब्रूयाम ॥ १६ ॥इन्धानइतिपञ्चर्चन्तृतीयंसूक्तं गार्त्समदं जागतम्ब्राह्मणस्पत्यम् तथाचानुक्रान्तम्—इन्धानःपञ्चजा- गतन्त्विति लैङ्गिकोविनियोगः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Brahmaṇaspati**, who are the regulator of this (world), understand (the purport of) our hymn, and grant us posterity; for all is prosperous that the gods protect; (and therefore) may we, blessed with excellent descendants, glorify you at this sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O lord of the sacred formulation, become the guide of this hymn and  give life to our lineage.  
 All that is fortunate which the gods aid. – May we speak loftily at the  ritual distribution, in possession of good heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Brahmanaspati, be thou controller of this our hymn, and prosper thou our children.  
      All that the Gods regard with love is blessed. Loud may we speak, with heroes, in assembly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Brahmanaspati, sei du der Lenker dieses Liedes und erwecke Nachkommenschaft! Alles das ist löblich, was die Götter begünstigen. - Wir möchten das große Wort führen als Meister in weiser Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebetes Herr, sei dieses Liedes Lenker, und Kindeskinder mögest du uns schaffen; voll Heil ist alles, was die Götter segnen; lasst laut im Chore bei dem Fest uns singen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Брахманаспати, управляй ты этим гимном  
 И вдохни жизнь в (наше) потомство!  

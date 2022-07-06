@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ त इन्द्र स्तो꣡मेभिर् विधेम  
 त्व꣡म् अस्मा꣡कं शतक्रतो  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 प्र꣡स्कण्वाय नि꣡ तोशय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 महि॑ । स्थू॒रम् । श॒श॒यम् । राधः॑ । अह्र॑यम् । प्रस्क॑ण्वाय । नि । तो॒श॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -104,30 +104,30 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Indra**, we would worship you with hymns; O **Śatakratu**, you are ours; pour down upon Praśkaṇvagreat, solid, inexhaustible, exuberant abundance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we do honor to you, Indra, with praises. You are ours, you of a  hundred resolves.  
 Great, sturdy, enduring, unabashed generosity—make it spill down for  Praskaṇva.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen es dir, Indra, mit Liedern recht machen. Du bist unser, o Ratreicher. Spende dem Praskanva eine große, gediegene, ausgiebige Ehrengabe, deren er sich nicht zu schämen braucht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Liedern wollen wir, o Indra, dienen dir, sei unser, der du vieles wirkst; Lass grosses, festes, reiches Gut, das nie versiegt, zuströmen dem Praskanva hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим, Индра, почтить тебя восхвалениями,  
 Ты нам, о стоумный,  

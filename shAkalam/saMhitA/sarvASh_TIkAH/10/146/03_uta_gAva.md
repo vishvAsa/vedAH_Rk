@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ गा꣡व इवादन्ति  
 उत꣡ वे꣡श्मेव दृश्यते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 शकटी꣡र् इव सर्जति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 उ॒तो इति॑ । अ॒र॒ण्या॒निः । सा॒यम् । श॒क॒टीःऽइ॑व । स॒र्ज॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -103,42 +103,42 @@ popular;; epic anuṣṭubh (292)
 **उत** अपि च ”गावइव गवयाद्या मृगा अस्यामरण्यान्याम् ”अदन्ति तृणादिकं भक्षयन्ति । **उत** अपि च लतागुल्मादिकं ”वेश्मेव गृहमिव ”दृश्यते। **उतो** अपि च **अरण्यानिः** इयमरण्यानी **सायं** सायंकाले। इवः संप्रत्यर्थे । संप्रति **शकटीः** शकटान् दार्वाद्याहरणायागतान् ”सर्जति विसर्जयति । यद्वा । शकटीः सर्जतीव दृश्यते । अहनि महदरण्यं शकटीभिः प्राप्य सर्वे जना अपेक्षितं काष्ठादिकं शकटीष्वध्यारोप्य सायंकाले तस्मान्निर्गच्छन्ति । तदभिप्रायेणेदं वचनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “It is as if cows are grazing, and it looks like a dwelling, and Aranyāni at eventide, indeed, dismissedthe carts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And it’s as if cows are eating and as if a settlement is seen,  
 and the Lady of the Wilderness at evening—it’s as if there’s a cart  
 creaking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And, yonder, cattle seem to graze, what seems a dwelling-place appears:  
      Or else at eve the Lady of the Forest seems to free the wains.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Sounds as of cows that graze are heard, A dwelling house appears to loom, And Araṇyānī, forest nymph, Creaks like a cart at eventide.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und es ist, als ob Kühe fressen, und man glaubt ein Haus zu sehen, und die Frau des Waldes knarrt abends wie ein Lastwagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da klingt's als frässen Kühe Gras, und Häuser glaubt man dort zu sehn; Und wie ein Wagen knarrt auch wohl zur Abendzeit die Waldesfrau.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И как будто жуют коровы,  
 И как будто дом покажется,  

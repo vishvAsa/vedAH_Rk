@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ मे हि꣡रण्यसंदृशो  
 द꣡श रा꣡ज्ञो अ꣡मंहत  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 चर्मम्ना꣡ अभि꣡तो ज꣡नाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒धः॒ऽप॒दाः । इत् । चै॒द्यस्य॑ । कृ॒ष्टयः॑ । च॒र्म॒ऽम्नाः । अ॒भितः॑ । जनाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -96,7 +96,7 @@ genre M
 **यः** कशुसंज्ञो राजा **मे** मह्यं **हिरण्यसंदृशः** हिरण्यसंदर्शनान् हिरण्यसमानतेजस्कान् **दश** **राज्ञः** **अमंहत** परिचरणार्थं दत्तवान् । दशसंख्याकान् राज्ञो युद्धे पराजितान् गृहीत्वा दासत्वेनास्मै दत्तवानित्यर्थः । नन्वीदृशानां बहुविधानां राज्ञां दान एकः कथं शक्नुयादिति तत्राह । **कृष्टयः** सर्वाः प्रजास्तस्य **चैद्यस्य** चेदिपुत्रस्य कशोः **अधस्पदा** **इत्** पादयोरधस्तादेव वर्तन्ते। न कश्चिदपि तत्समानस्तदधिको वा विद्यते । **अभितः** सर्वतो वर्तमानाः **जनाः** **चर्मम्नाः** चर्ममयस्य कवचादेर्धारणे कृताभ्थासाः । यद्वा। चर्माणि चरणसाधनान्यश्वादीनि वाहनानि । तेषु मनन्त्यभ्यस्यन्तीति चर्मम्नाः । म्ना अभ्यासे । ‘आतो मनिन्” इति विच् । सर्वे मनुष्यास्तस्य भटा इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,13 +107,13 @@ genre M
 Give me for servants: having taken these rājās prisonersin battle, he gives them to me in servitude: yuddhe parājitān gṛhitvā tān da- satvenāsmai dattavān; wearcuirasses of leather: carmamnāḥ = **carma** mayasya kavavāder dhāraṇe kṛtābhyāsaḥ, practised in wearingarmour of leader; or carma = **caraṇa** sādhanāni aśvādīni vāhanāni, means of going, vehicles, horses andthe like, i.e. exercised in their management in war.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who (previously) bestowed on me a king’s ten (horses?) of golden  appearance—  
 beneath the feet of the lord of the Cedis are (all) the communities, the  “hide-tanning” men all around.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is much disagreement on what to supply with híraṇyasaṃdṛśaḥ and indeed on whether it modifies rā́jñaḥ, interpreted as an acc. pl. (see Geldner n. 38ab).
 
@@ -122,18 +122,18 @@ Since it seems unlikely that Kaśu gave the poet ten golden kings, even as figur
 The apparently contemptuous ‘hide-tanning’ (carmamnā́ḥ) must be a way of indicating that, in comparison with Kaśu, all men hereabouts are no better than tanners: ignoble, low, and engaged in dirty and polluting activity. But perhaps there’s just a whiff of a suggestion that Kaśu has enough cows to furnish work for many tanners -- and therefore he should be more generous with these cows to his poet.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath given me for mine own ten Kings like gold to look upon.  
      At Caidya's feet are all the people round about, all those who think upon the shield.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der mir zehn wie Gold aussehende Kleider des Königs schenkte. Die Völker reichen dem Cedisohn nicht an die Füße; Lohgerber sind die Leute ringsum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто мне даровал десять  
 Выглядящих как золото (украшений) царя –  

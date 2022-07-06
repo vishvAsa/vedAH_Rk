@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्य꣡ कारु꣡र् जरते सुउक्तइ꣡र्  
 अ꣡ग्रे बुधान꣡ उष꣡सां सुम꣡न्मा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इ॒षा । तम् । व॒र्ध॒त् । अ॒घ्न्या । पयः॑ऽभिः । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -128,36 +128,36 @@ genre M;; repeated line
 **एषः** स्तोता **स्यः** स प्रसिद्धो वसिष्ठः **कारुः** स्तोता **उषसाम्** **अग्रे** प्रातःसवने **बुधानः** बुध्यमानः **सुमन्मा** शोभनमतिः सुष्टुतिर्वा **सूक्तैः** **जरते** स्तौति । **तम्** **इषा** अन्नेन **वर्धत्** वर्धयतम् । वचनव्यत्ययः । **अघ्न्या** अहन्तव्या गौश्च वर्धत् वर्धयतु । अथवैकमेव वाक्यम् । अघ्न्या गौर्वसिष्ठस्य प्रतिनियताग्निहोत्रार्था गौरिषान्नेन । घृतादिनेत्यर्थः। **पयोभिः** च तं वसिष्ठं वर्धत् वर्धयतु । एवमात्मानं परोक्षेण निर्दिदेश । शिष्टं स्पष्टम् ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This your devoted worshipper, wwaking before the dawn, praises with hymns; nourish him with food,and let the cow (nourish him) with her milk; and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This praise-poet here awakens with good hymns, rousing himself at the  beginning of the dawns, bringing good thoughts.  
 The fertile cow makes him grow strong with her refreshing drink, with  her milk. – Do you protect us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With his fair hymns this singer, too, extols you, waking with glad thoughts at the break of morning.  
      May the cow nourish him with milk to feed llim. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser sinnreiche Dichter ruft euch wach mit wohlgesetzten Worten, noch vor den Morgenröten munter. Ihn soll die Kuh mit ihrer Speise, mit Milch stärken.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch dieser Dichter naht mit Sprüchen wachsam, gebetreich bei der Morgenröthen Anbruch, Mit Trunk und Labung stärke ihn die Milchkuh. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот поэт воспевает (вас) в гимнах,  
 (Он,) доброжелательный, пробудившийся до утренних зорь.  

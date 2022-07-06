@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ बोधि सूरि꣡र् मघ꣡वा  
 व꣡सुपते व꣡सुदावन्  
 युयोधि꣡ अस्म꣡द् द्वे꣡षांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 यु॒यो॒धि । अ॒स्मत् । द्वेषां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -89,7 +89,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 वसुपतेधनपते वसुदावन् मघवाअन्नवान् सूरिर्विद्वान् प्रेरकोवा सउक्तलक्षणकस्त्वम्बोधि बुद्ध्य- स्व अस्मदीयंस्तोत्रं किञ्च हेअग्ने देषांसिद्वेष्टॄनस्मद्स्मत्तोयुयोधि पृथक्कुरु ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,33 +100,33 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **Yajurveda** 12.43; understand is amplified with abhimatam, wish, desire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become our bounteous patron, o lord of goods who gives goods. Keep hatreds away from us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be thou for us a liberal Prince, giver and Lord of precious things.  
      Drive those who hate us far away.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thus be thou a liberal, bountiful lord, O lord of goods, O giver of goods. Drive hatred away from us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei du nun ein freigebiger Herr, du schätzespendender Schätzeherr; wehre uns die Feindschaften ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei uns ein reicher Opferherr, o Herr des Guts, der Gut verschenkt; Treib fort von uns der Feinde Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь щедрым покровителем,  
 Господином благ, о дающий блага!  

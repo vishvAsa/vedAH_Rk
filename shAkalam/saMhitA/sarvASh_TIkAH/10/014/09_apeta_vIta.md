@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पेत वी꣡त वि꣡ च सर्पता꣡तो  
 अस्मा꣡ एत꣡म् पित꣡रो लोक꣡म् अक्रन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यमो꣡ ददाति अवसा꣡नम् अस्मै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अहः॑ऽभिः । अ॒त्ऽभिः । अ॒क्तुऽभिः॑ । विऽअ॑क्तम् । य॒मः । द॒दा॒ति॒ । अ॒व॒ऽसान॑म् । अ॒स्मै॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apeta* ← *ape* ← *√i*
 - \[verb\], plural, Present imperative
@@ -130,41 +130,41 @@ popular
 श्मशाने पूर्वं स्थिता हे पिशाचादयः **अतः** अस्मात् प्रसृज्यमानदहनस्थानात् **अपेत** अपगच्छत। **वीत** विशेषेण गच्छत । **वि** सर्पत **च** । इदं स्थानं परित्यज्य नानाभावेन दूरतरं देशं गच्छतेत्यर्थः । **पितरः** **अस्मै** मृतयजमानस्यार्थाय **एतं** **लोकम्** इदं दहनस्थानम् **अक्रन्** । यमस्याज्ञयान्वकुर्वन् । **यमः** अपि **अहोभिः** दिवसैः **अद्भिः** अभ्युक्षणोदकैः **अक्तुभिः** रात्रिभिः **व्यक्तं** संगतम् । शुद्धिनिमित्तैः कालोदकादिभिः शोधितमित्यर्थः । **अवसानं** दहनस्थानम् **अस्मै** मृतयजमानस्यार्थाय **ददाति** दत्तवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Depart from hence, begone, go far off, (evil spirits); the **Pitṛs** have assigned this plural ce to him, yamahas given him a plural ce of cremation consecrated by days, streams and nights. To him-- (the departedworshipper\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You all)—go away, go apart, and slink away from here. It is for him  that the forefathers made this world.  
 A resting place anointed with waters through the days and nights Yama  gives to him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Go hence, depart ye, fly in all directions: this place for him the Fathers have provided.  
      Yama bestows on him a place to rest in adorned with days and beams of light and waters.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Begone, depart from here, disperse and scatter: For him the Fathers have prepared this dwelling. Yama bestows on him this place to rest in, A place by waters, days and nights distinguished.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Weichet, entweichet, verkriechet euch von da: diesem haben die Väter jene Stätte bereitet. Einen durch Tage, Wasser, Nächte verschönten Rastort gewähret Yama diesem.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geht fort von hier, verlasst ihn und zerstreut euch, schon schufen Väter ihm die sel'ge Stätte; Den Ruheort, wo alle Tag' und Nächte des Segens Ströme fliessen, gibt ihm Jama.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Уходите, расходитесь и расползайтесь отсюда!  
 Ему приготовили отцы это пристанище.  

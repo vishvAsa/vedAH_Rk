@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡जीति ए꣡नी रु꣡शती महित्वा꣡  
 प꣡रि ज्र꣡यांसि भरते र꣡जांसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡श्वा न꣡ चित्रा꣡ व꣡पुषीव दर्शता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अद॑ब्धा । सिन्धुः॑ । अ॒पसा॑म् । अ॒पःऽत॑मा । अश्वा॑ । न । चि॒त्रा । वपु॑षीऽइव । द॒र्श॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛjīty* ← *ṛjītī* ← *ṛjīti*
 - \[noun\], nominative, singular, feminine
@@ -117,36 +117,36 @@ genre M
 **ऋजीती** ऋजुगामिनी **एनी** श्वेतवर्णा **रुशती** दीप्यमाना सिन्धुः **ज्रयांसि** वेगवन्ति **रजांसि** उदकानि **परि** **भरते** प्रभरति । तादृशी **अदब्धा** अहिंसिता **सिन्धुः** **अपसां** कर्मवतीनां मध्ये **अपस्तमा** वेगाख्यकर्मवती भवति । **अश्वा** **न** वडवेव **चित्रा** चायनीया **वपुषी** वपुष्मती योषित् **इव** **दर्शता** दर्शनीया भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Straight-flowing, white-coloured, bright-shining (**Sindhu**) bear along in its might the rapid waters; theinviolable Sindhu, the most efficacious of the efficacious, is speckled like a mare, beautiful as a handsomewoman.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Straight in her course, mottled, glistening, in her greatness she holds  encircled the expanses, the dusky realms—  
 the undeceivable Sindhu, busiest of the busy, dappled-bright like a mare,  lovely to see like a beautiful woman.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flashing and whitely-gleaming in her mightiness, she moves along her ample volumes through the realms,  
      Most active of the active, Sindhu unrestrained, like to a dappled mare, beautiful, fair to see.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geradeaus schießend, schimmernd, weiß, führt sie in ihrer Größe Stromschnellen und Staubwolken mit sich. Die unbeirrte Sindhu, die Tätigste der Tätigen, prächtig wie eine Stute, wie eine Schöne sehenswert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sindhu, die glänzend bunte, schimmernde durchströmt in grosser Pracht die Fluren und die Lande rings, Sie, ungehemmt, die thätigste der thätigen, wie eine schöne Stute, glänzend, sehenswerth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ринувшаяся по прямой, пестрая, сверкающая, благодаря (своему) величию,  
 Она распространяется по просторам (и) пространствам.  

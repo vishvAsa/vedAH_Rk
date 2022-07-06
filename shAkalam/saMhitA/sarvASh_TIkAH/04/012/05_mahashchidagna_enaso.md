@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मह꣡श् चिद् अग्न ए꣡नसो अभी꣡क  
 ऊर्वा꣡द् देवा꣡नाम् उत꣡ म꣡र्तियानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡छा तोका꣡य त꣡नयाय शं꣡ योः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मा । ते॒ । सखा॑यः । सद॑म् । इत् । रि॒षा॒म॒ । यच्छ॑ । तो॒काय॑ । तन॑याय । शम् । योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahaś* ← *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, neuter
@@ -124,7 +124,7 @@ genre M
 हे **अग्ने** **देवानाम्** इन्द्रादीनाम् **उत** अपि च **मर्त्यानां** मनुष्याणाम् **अभीके** अन्तिके । अभीक इत्यन्तिकनामैतत् । अस्माभिर्यत्पापं कृतं **महश्चित्** महतोऽपि **ऊर्वात्** विस्तृतादस्मात् **एनसः** पापात् **ते** त्वदीयाः **सखायः** मित्रभूताः स्तोतारो वयं **सदमित्** सर्वदैव **मा** **रिषाम** मा हिंसिता भूम । हे अग्ने त्वं **तोकाय** पुत्राय **तनयाय** पौत्राय **शं** पापरूपोपद्रवाणां शान्तिं **योः** सुकृतोत्पादितं सुखं च **यच्छ** देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,41 +135,41 @@ genre M
 Reward of what has been well done: yaccha tokāya, tanayāya, sam yoḥ: sam = pāparūpodravaṇam śantim, pacification of violence of the nature of sin; yoḥ sukṛtotpāditam sukham, happiness produced by what is done well
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Release us) from even a great offense in close quarters, Agni, from the  enclosure [=imprisoning] of gods and of mortals.  
 Let us, your comrades, never be harmed. Extend luck and lifetime to  kith and kin.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Some verb must be supplied with the ablative phrases in ab. I have pulled √muc ‘release’ from its occurrences in vs. 6.
 
 Geldner takes ūrvá- in b as a proper noun referring to the Vala myth, but the word generally just means an ‘enclosure’, here an imprisoning one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even in the presence of great sin, O Agni, free us from prison of the Gods or mortals.  
      Never may we who are thy friends be injured: grant health and strength unto our seed and offspring.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Even from great guilt, O Agni, from the prison of gods and of mortals—let us, thy friends, never be harmed; grant luck and weal to kith and kin.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bewahre uns rechtzeitig auch vor großer Gewalttat, Agni, vor einem zweiten Urva der Götter und Sterblichen! Als deine Freunde sollten wir niemals Schaden erleiden. Gewähre Glück und Heil dem leiblichen Samen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Behüt uns Agni auch vor grossem Uebel, vor Kerkerschmach der Götter und der Menschen, Lass deine Freund' uns nimmer Schaden leiden und Heil und Segen schenke Kind und Enkeln.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Избавь нас,) о Агни, в решающую минуту даже от великого греха,  
 От заключения богов и смертных!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् अग्ने त्व꣡ष्टा विधते꣡ सुवी꣡रियं  
 त꣡व ग्ना꣡वो मित्रमहः सजाति꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तुवं꣡ नरां꣡ श꣡र्धो असि पुरूव꣡सुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । आ॒शु॒ऽहेमा॑ । र॒रि॒षे॒ । सु॒ऽअश्व्य॑म् । त्वम् । न॒राम् । शर्धः॑ । अ॒सि॒ । पु॒रु॒ऽवसुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -129,21 +129,21 @@ genre M
 हेअग्ने त्वष्टाफलस्यसाधुसम्पादयितात्वं विधतेपरिचरतेजनाय सुवीर्यंशोभनवीर्यन्धनं तद्धेतुर्भवसि ग्नावः याः स्तुतिवाचः सन्ति तास्तव स्वभूताः हेमित्रमहः हितकारितेजः सजात्यं अस्माकम्बान्धवम्भ- जसइत्यर्थः हेअग्ने आशुहेमा आशुप्रेरयितात्वं स्वश्व्यंशोभनाश्वसमूहोपेतम्फलं ररिषेददासि हेअग्ने पुरु- वसुः प्रभूतधनस्त्वं नरान्नराणां शर्धोबलस्थानीयोसि ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, are **Tvaṣṭā**, (the giver) of great wealth to (your) worshipper; these praises are yours; do you, of benevolent power, (admit) our affinity; you, who are prompt to encourage (us), give us good (store of) horses; you, who abound with opulence, are the strength of men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, (giving wealth) rich in heroes to the one who does honor, are  Tvaṣṭar—yours is kinship, o you accompanied by the Wives (of the  Gods) and possessing Mitra’s might—  
 You have given (wealth) rich in horses as the impeller of swift (horses)  [=Child of the Waters]. You of many goods are the troop of men  
 [=Maruts].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a has the acc. and dat. appropriate to an expression of giving, but no verb; pāda c has the verb (rariṣe) but no dative of recipient. The accusatives of gift in the two pādas are formed in parallel: suvī́r i yam (a), s u váśvi yam (c).The two pādas thus complete each other rhetorically.
 
@@ -154,28 +154,28 @@ Nonetheless, with all the standard interpr. I take it as a voc. An ad hoc explan
 As pointed out by Oldenberg (SBE) and Geldner, the third term in pāda c is presumably Apām Napāt, who is elsewhere called āśuhéman-, including 2x in II. The āśu- in that compound echoes the beginning of āśuśukṣáṇiḥ in 1a, though that form is most probably formed to the desid. stem of √śuc with preverb ā́, since the -ani-suffix is rather commonly built to desiderative stems and there would be no obvious source of the -s- before the suffix otherwise.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou givest strength, as Tvastar, to the worshipper: thou wielding Mitra's power hast kinship with the Dames.  
      Thou, urging thy fleet coursers, givest noble steeds: a host of heroes art thou with great store of wealth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, being Tvashtri, (grantest) to thy worshipper abundance in heroes. To thee, who art accompanied by the (divine) wives 1, who art great like Mitra, belongs relationship 2. Thou, the quick inciter 3, givest abundance in horses. Thou, rich in wealth, art the host of men 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, schenkst als Tvastri dem Verehrer gute Söhne; deine Genossenschaft sind die Weiber, du Weiberfreund, du wie Mitra geehrter. Du schenkst als der Treiber von Rennpferden gute Rosse; du, der Güterreiche, bist die Stärke der Männer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Tvaschtar giebst du, Agni, Kraft dem Huldiger; dir, Freundereicher, sind die Götterfraun verwandt, Du, Rosselenker, schenkest reichen Rossbesitz, bist, Agni, reich wie eine Männerschar an Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, – Тваштар, (когда даришь) почитающему (тебя) богатство в виде сыновей.  
 О обладатель божественных жен, великий, как Митра, у тебя – близость (с божественными женами).  

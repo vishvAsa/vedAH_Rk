@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ नु꣡ वोचा सुते꣡षु वां  
 वीरि꣡या या꣡नि चक्र꣡थुः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्राग्नी जी꣡वथो युव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ह॒तासः॑ । वा॒म् । पि॒तरः॑ । दे॒वऽश॑त्रवः । इन्द्रा॑ग्नी॒ इति॑ । जीव॑थः । यु॒वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 हे इन्द्राग्नी **यानि** **वीर्या** वीर्याणि वीरकर्माणि **चक्रथुः** कृतवन्तौ युवां **सुतेषु** अभिषुतेषु सोमेषु अस्मद्यज्ञे **वां** युवयोः तानि वीर्याणि **नु** क्षिप्रं **प्र** **वोच** प्रवोचं प्रब्रवीमि । तदेव वीर्यं दर्शयति । हे **इन्द्राग्नी** **देवशत्रवः** । देवाः शत्रवः शातयितारो येषां तादृशाः । असुराः **पितरः** हिंसकाः । पीयतिर्हिंसाकर्मा । तस्यैतद्रूपम् । ईदृशा असुराः **वां** युवाभ्यां **हतासः** हता: आसन् । **युवं** युवां तु **जीवथः** जीवनवन्तौ भवथः । असुरैर्न बाधिताविति यावत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 The Pitaras: **asuras**, as derived from the root pi, to injure, piyatir hiṃsākarme
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I shall now proclaim, when (soma drinks) have been pressed for you, the  manly deeds that you two have done.  
 Slain are your fathers whose rivals were the gods, but, o Indra and Agni,  you are (still) alive.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the clichéd́ introduction. “I shall proclaim (prá √vac) the manly deeds …” associated esp. with Indra hymns (esp. I.32) is here directed to both gods. The “real” subjunctive vocā is found only here in the RV, in contrast to the more common injunctive / functional subjunctive vocam.
 
@@ -156,23 +156,23 @@ The contents of the 2nd hemistich is quite dramatic. The standard view going bac
 Moreover, even in the old interpr. of X.124 neither Indra nor Agni appears to have been an Asura. I do not know what to make of our passage, but I doubt that the old interpr. holds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I WILL declare, while juices flow, the manly deeds that ye have done:  
      Your Fathers, enemies of Gods, were smitten down, and, Indra-Agni, ye survive.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun will ich bei gepreßtem Soma eure Heldentaten verkünden, die ihr beide vollbracht habt. Eure Väter sind erschlagen, die die Götter zu Feinden hatten. Ihr beide, Indra und Agni, seid am Leben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Somatränken preis' ich nun die Thaten, die ihr habt vollbracht; Die Götterfeinde, eure Schmäher, sind erlegt; ihr aber, Indra-Agni, lebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сейчас я хочу провозгласить у выжатых (соков сомы) ваши  
 Героические подвиги, которые вы оба совершили.  

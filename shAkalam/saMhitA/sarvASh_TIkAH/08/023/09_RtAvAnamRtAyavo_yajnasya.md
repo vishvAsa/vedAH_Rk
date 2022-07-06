@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋता꣡वानम् ऋतायवो  
 यज्ञ꣡स्य सा꣡धनं गिरा꣡  
 उ꣡पो एनं जुजुषुर् न꣡मसस् पदे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 उषः॑ । ए॒न॒म् । जु॒जु॒षुः॒ । नम॑सः । प॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtāvānam* ← *ṛtāvan*
 - \[noun\], accusative, singular, masculine
@@ -87,7 +87,7 @@ genre M
 **ऋतायवः** यज्ञकामा हे यजमानाः **ऋतावानं** यज्ञवन्तं **यज्ञस्य** **साधनं** साधनभूतम् **एनम्** अग्निं **नमसः** हविषः **पदे** स्थाने यज्ञाङ्गे वा **गिरा** स्तुतिलक्षणया वाचा **उपो** **जुजुषुः** उपासेवध्वम् ॥ ‘ तिङा तिङो भवन्ति' इति मध्यमपुरुषस्य प्रथमपुरुषादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,34 +98,34 @@ genre M
 Adore with praise: jujuṣuḥ = they have adored; upāsevadhvam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you (people) who seek truth—in him abiding in truth, bringing success  to the sacrifice with our hymn,  
 in him do they [=the gods] take pleasure, in the footprint of our homage.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou explicitly identify the subj. of jujuṣuḥ in c as those seeking truth (voc. ṛtāyavaḥ), the human ritualists addressed in a. Although switch between 2nd and 3rd ps. even within a verse is not rare, I think the gods are the more likely subject, as they generally are to forms of √juṣ. This verse depicts the ritual model whereby Agni brings the gods to the ritual ground to receive oblations, with this location specified by námasas padé -- in contrast to vs. 6, where Agni conveys the oblations and praises to the gods (presumably in heaven), the other model of sacrificial interaction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, true to Law, who perfecteth the sacrifice,. Law-loving ones!  
      Ye with your song have gratified in the place of prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Gesetzestreuen, ihr Gesetzeseifrigen, des Opfers Ausrichter mit Lobrede; an ihm haben sie Wohlgefallen an der Stätte der Verneigung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O fromme preist den heiligen mit Lied den Opferförderer; Sie haben an der Andachtsstätte ihn erfreut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Бога) верного закону, о (люди,) любящие закон,  
 (Его,) ведущего к цели жертвоприношение с хвалебной песней...  

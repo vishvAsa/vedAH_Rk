@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ तू꣡ भर मा꣡किर् एत꣡त् प꣡रि ष्ठाद्  
 विद्मा꣡ हि꣡ त्वा व꣡सुपतिं व꣡सूनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं त꣡द् ध꣡रिअश्व प्र꣡ यन्धि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ । यत् । ते॒ । माहि॑नम् । दत्र॑म् । अस्ति॑ । अ॒स्मभ्य॑म् । तत् । ह॒रि॒ऽअ॒श्व॒ । प्र । य॒न्धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -145,20 +145,20 @@ genre M
 हे इन्द्र तु क्षिप्रं धनमा भर । एतत्त्वय दीयमानं धनं माकिः को वा परि ष्ठात् । प्रतिबध्य तिष्ठेत् । त्वा त्वां वसूनां धनानां वसुपतिमुत्तमस्य धनस्य स्वामिनम् विद्म हि । जानीमः खलु । ते तव माहिनं महनीयं यद्दत्रं धनमस्ति हे यर्यश्व दद्धनमस्मभ्यं प्र यन्धि । प्रयच्छ । तु । ऋचि तुनुघेत्यादिना संहितायां दीर्घः । भर । भरतेर्लोटि रूपम् । माकिः । विपातः । स्थात् । तिष्ठतेश्छान्दसे लुङिरूपम् । उपसर्गात्सुनोतीत्यादिना संहितायां षत्वम् । निघातः । विद्म वेत्तेर्लटि विदो लटो वेति मसो मादेशः । प्रत्ययस्वरः । सम्हितायां द्व्यचोऽतस्तिङ इति दीर्घः । वसुपतिम् । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरः । माहिनम् । महेरिनण् चेतीनण्प्रत्ययः । णित्त्वादुपधावृद्धिः । ग्रामादित्वादाद्युदात्तः । यन्धि । यमु उपरमे । लोटि बहुलं छन्दसीति शपो लुक् । सेर्हिः । तस्य वा छन्दसीति पित्त्वस्य विकल्पितत्वादत्राङित्त्वादङितश्चेति हेर्ध्यादेशः निघातः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Quickly, **Indra**, bring (wealth); let no one impede you, for we know you to be the lord of wealth, of all treasures; and since, Indra, your greatness is munificence, therefore, lord of the tawny steeds, grant us (riches).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring it here. Let no one contain it. For we know you as the goods-lord  of goods.  
 Indra, the great giving that is yours—offer it to us, o possessor of the  fallow bays.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most tr. take Indra as the implied obj. of mā́kiḥ … pári ṣṭhāt, thus displacing etát into an adverbial role (Geldner/Witzel Gotō ‘dabei’). This is possible, but I take it as anticipating dátram in c.
 
@@ -172,23 +172,23 @@ Note that the vocabulary of the beginning of the hymn is being turned around rec
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then bring thou hither, and let none prevent it: we know thee well, the Lord of wealth and treasure.  
      That splendid gift which is thine own, O Indra, vouchsafe to us, Lord of the Tawny Coursers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring doch mit! Keiner soll dir dabei im Wege stehen! Wir kennen dich ja als den Herrn der Güter. Gewähre uns, o Falbenlenker, deine großmächtige Gabe, die du, Indra, hast!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn der Güter; Welch' herrliches Geschenk du hast, o Indra, das reich uns dar, o Lenker goldner Rosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси же (богатства)! Да не станет никто поперек пути!  
 Ведь знаем мы тебя как господина добра.  

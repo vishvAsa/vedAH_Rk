@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ सोम वर्ध꣡यन्  
 सुतो꣡ म꣡दाय भू꣡र्णये  
 वृ꣡षन् स्तोता꣡रम् ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृष॑न् । स्तो॒तार॑म् । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -81,43 +81,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **सुतः** अभिषुतः **त्वं** **वर्धयन्** देवान प्रवृद्धान् कुर्वन् **वृषन्** कामान् वर्षन् **भूर्णये** क्षिप्राय **मदाय** **ऊतये** रक्षणाय च **स्तोतारम्** अभिगच्छसीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For you, **Soma**, being effused, approach the worshipper for speedy exhilaration and protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, Soma, are strengthening when you are pressed for fervent  exhilaration,  
 to help the praiser, you bull.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation takes the pres. part. vardháyan as the predicate of the vs., though it might be possible to take sutáḥ instead (“You, the strengthening one, are pressed …”).
 
 Although a predicated ppl. sutáḥ would better conform to RVic syntactic patterns, predicating the pres. part. seems to produce better sense: it provides the reason why the gods (and) the Maruts consume soma in vs. 3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Soma, thou hast been effused, strengthening for the wild carouse,  
      O Steer, the singer, for our help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du, o Soma, bist es, der zu erregtem Rausche ausgepreßt den Sänger erhebt, um ihm beizustehen, o Bulle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du, o Soma, bist gepresst zu kraftbegabten Rausch, o Stier, Den Sänger stärkend zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это ты, сома, выжатый  
 Для буйного опьянения, укрепляешь,  

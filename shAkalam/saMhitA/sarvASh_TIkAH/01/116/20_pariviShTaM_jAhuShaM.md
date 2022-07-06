@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रिविष्टं जाहुषं꣡ विश्व꣡तः सीं  
 सुगे꣡भिर् न꣡क्तम् ऊहथू र꣡जोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ प꣡र्वताँ अजरयू꣡ अयातम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒ऽभि॒न्दुना॑ । ना॒स॒त्या॒ । रथे॑न । वि । पर्व॑तान् । अ॒ज॒र॒यू इति॑ । अ॒या॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pariviṣṭaṃ* ← *pariviṣṭam* ← *pariviś* ← *√viś*
 - \[verb noun\], accusative, singular
@@ -99,7 +99,7 @@ genre M
 जाहुषो नाम कश्चिद्राजा । **विश्वतः** सर्वतः **परिविष्टं** शत्रुभिः परिवृतं तं राजानं हे नासत्यावश्विनौ **अजरयू** जरारहितौ नित्यतरुणौ युवां **विभिन्दुना** विशेषेण सर्वस्य भेदकेनात्मीयेन **रथेन** **नक्तं** रात्रौ **सुगेभिः** सुष्ठु गन्तुं शक्यैः **रजोभिः** रञ्जकैर्मार्गैः **ऊहथुः** तस्मात् शत्रुसमूहान्निरगमयतम् । **सीम्** इत्येतत् पादपूरणम्। निर्गतेन तेन सह **पर्वतान्** शत्रुभिरारोढुमशक्यान् शिलोच्चयान् **वि** **अयातं** विशेषेणागच्छतम् ॥ परिविष्टम् । ‘विश प्रवेशने '। कर्मणि निष्ठा । ‘गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । सुगेभिः । ‘सुदुरोरधिकरणे ' इति गमेर्डः । विभिन्दुना । भिदिर् विदारणे'। औणादिक उप्रत्ययो नुमागमश्च । अजरयू । न जरा अजरा तामात्मन इच्छतः। सुप आत्मनः क्यच्' । ‘न च्छन्दस्यपुत्रस्य ' इति इत्वदीर्घयोर्निषेधः । ‘क्याच्छन्दसि ' इति उप्रत्ययः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,30 +110,30 @@ genre M
 Jāhuṣa: the name of a king
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At night you conveyed Jāhuṣa, besieged from every direction, through  the easily traversed airy spaces.  
 With your chariot that cuts asunder, o never-aging Nāsatyas, you  
 journeyed through the mountains.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye bore away at night by easy pathways Jahusa compassed round on every quarter,  
      And, with your car that cleaves the toe asunder, Nasatyas never decaying! rent the mountains.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den ringsum belagerten Jahusa entführtet ihr des Nachts auf gangbaren Wegen durch die Lüfte. Mit dem zerspaltenden Wagen fuhret ihr Nasatya´s durch die Berge, ihr Alterlosen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Dschahuscha, als rings er war umschlossen, ihn fuhret Nachts ihr durch die freien Lüfte; Mit eurem Wagen, treue, der hindurchbricht, durchfuhret ihr, nicht alternde, die Berge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Джахушу, окруженного со всех сторон,  
 Ночью вы вывезли легкими путями по воздуху.  

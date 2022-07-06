@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सुमेधा꣡ गातुवि꣡द् विश्व꣡देवः  
 सो꣡मः पुनानः꣡ स꣡द एति नि꣡त्यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु ज꣡नान् यतते प꣡ञ्च धी꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 भुव॑त् । विश्वे॑षु । काव्ये॑षु । रन्ता॑ । अनु॑ । जना॑न् । य॒त॒ते॒ । पञ्च॑ । धीरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 **सुमेधाः** । ‘ नित्यमसिच् प्रजामेधयोः' ( पा. सू. ५. ४. १२२) इत्यसिच्समासान्तः । शोभनप्रज्ञः **गातुवित्** मार्गस्य वेत्ता । यद्वा । गातवः स्तोतारः । तेषां धनस्य लम्भयिता । **विश्वदेवः** सर्वदेवोपगतः । यद्वा । देवो देवनं दीप्तिः । व्यापकदीप्तियुक्तः । एतादृशः **सोमः** **पुनानः** पूयमानः सन् **नित्यम्** अविनश्वरं **सदः** स्थानं द्रोणकलशं **प्र** **एति** प्रगच्छति । ततः **विश्वेषु** सर्वेषु **काव्येषु** कविकर्मसु स्तोत्रेषु **रन्ता** **भुवत्** रमणशीलो भवति । रमेस्ताच्छीलिकस्तृन् । तथा **धीरः** प्राज्ञः सोऽयं **पञ्च** **जनान्** निषादपञ्चमांश्चतुरो वर्णान् **अनु** **यतते** अनुगन्तुं प्रयत्नं करोति । अनुगच्छतीति यावत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,14 +140,14 @@ genre M
 Accompanied by all the gods: or, having all-pervading light
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The very wise pathfinder who belongs to all the gods, Soma as he is being  purified goes forth to his very own seat.  
 He is one to take his rest amid all the poems. Steadfast, he arranges  
 himself throughout the five peoples.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The periphrasis in c bhuvát … rántā, with the aor. injunc. (∾ subj.) to √bhū
 
@@ -166,23 +166,23 @@ Geldner’s rendering of pāda d is quite free: “Der Kluge macht die fünf Vö
 I render dhī́raḥ as ‘steadfast’ rather than ‘insightful, wise’, because of the emphasis on Soma’s taking his seat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Shared by all Gods, mobt wise, propitious, Soma goes, while they cleanse him, to his constant station.  
      Let him rejoice in all his lofty wisdom to the Five Tribes the Sage attains with labour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der weise Pfadfinder, der allen Göttern gehörige Soma geht sich läuternd an seinen ständigen Sitz. Er pflegt bei allen Dichtungen gern zu verweilen. Der Kluge macht die fünf Völker zu seinem Gefolge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum eignen Sitz geht flammend, vorwärtsdringend der weise Soma, allen Göttern eigen, Er weile gern bei allen Priesterwerken; den fünf Geschlechtern strebet zu der Weise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очень мудрый, знающий выход, принадлежащий всем богам,  
 Сома, очищаясь, продвигается на свое собственное сиденье.  

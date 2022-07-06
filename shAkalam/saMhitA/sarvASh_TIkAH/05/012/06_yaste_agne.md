@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते अग्ने न꣡मसा यज्ञ꣡म् ई꣡ट्ट  
 ऋतं꣡ स꣡ पाति† अरुष꣡स्य वृ꣡ष्णः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रस꣡र्स्राणस्य न꣡हुषस्य शे꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । क्षयः॑ । पृ॒थुः । आ । सा॒धुः । ए॒तु॒ । प्र॒ऽसर्स्रा॑णस्य । नहु॑षस्य । शेषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -127,41 +127,41 @@ genre M
 हे **अग्ने** **यः** मनुष्यः **यज्ञं** यजनीयं **ते** त्वां **नमसा** स्तोत्रेण **ईट्टे** स्तौति । यद्वा । ते तुभ्यं यज्ञं यागं नमसान्नरूपेण हविषा ईट्टे यजति । अस्मिन् पक्षे यजेः ‘बहुलं छन्दसि' इति शपः श्लुः ।  ‘ श्लौ ' इति द्विर्वचनम् ।  ‘ बहुलं छन्दसि ' इति संप्रसारणम् । सवर्णदीर्घः । जकारस्य टकारः ॥ यः **अरुषस्य** रोचमानस्य **वृष्णः** कामानां वर्षितुरग्नेः **ऋतं** स्तोत्रं **पाति** रक्षति **तस्य** यजमानस्य **क्षयः** गृहं **पृथुः** विस्तीर्णं भवति । पश्वादिलक्षणैर्धनैः संपूर्णं भवतीत्यर्थः । प्रसर्स्राणस्य प्रकर्षेण त्वत्परिचर्यां गच्छतः ”नहुषस्य मनुष्यस्य **साधुः** कामानां साधकः **शेषः** । शिष्यत इति शेषः । पुत्रः **आ** **एतु** आगच्छतु भवत्वित्यर्थः ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the dwelling of him, **Agni**, who celebrate your worship with reverence, of him who protects the sacrifice (offered) to the resplendent showerer (of benefits), be well stored; and may a virtuous successor of the man who diligently worships you come in his plural ce.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who summons you to the sacrifice with homage, o Agni, protects  the truth of the flame-red bull.  
 For him let there come a dwelling place, wide and bringing success, (and  also) the posterity of Nahuṣa, who is spreading in every direction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who pays sacrifice to thee with homage, O Agni, keeps the Red Steer's Law eternal;  
      Wide is his dwelling. May the noble offipring of Nahusa who wandered forth come hither.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who magnifies thy sacrifice, O Agni, by adoration, and serves 1 the Rita of the red bull: may a large, good dwelling come to him, to the offspring of the advancing Nahusha.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer dir unter Verbeugung das Opfer ankündigt und dem rötlichen Bullen die Wahrheit hoch hält, dem soll ein ausgebreiteter gedeihlicher Wohnsitz zuteil werden und die Nachkommenschaft des in seinen Kindern fortlebenden Nahusa.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer, Agni, dir Verehrung weiht in Demuth, und hegt das heil'ge Werk des rothen Stieres, Dess Sitz wird weit, und glücklich dringt er vorwärts hin zu dem Stamm des weitverzweigten Nachbarn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто тебя, о Агни, на жертву с поклонением призывает,  
 Тот хранит закон алого быка.  

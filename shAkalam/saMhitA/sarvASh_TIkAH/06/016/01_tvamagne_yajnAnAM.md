@@ -6,14 +6,14 @@ ChandaH = "वर्धमाना गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने यज्ञा꣡नां᳐  
 हो꣡ता वि꣡श्वेषां᳐ हितः꣡  
 देवे꣡भिर् मा꣡नुषे ज꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दे॒वेभिः॑ । मानु॑षे । जने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -81,42 +81,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **त्वं** **विश्वेषां** सर्वेषां सप्तसंस्थारूपेण भिन्नानां **यज्ञानां** **होता** होमनिष्पादकोऽसि । यद्वा । यज्ञानां संबन्धी देवानामाह्वाता भवसि । कुत इत्यत आह । यस्मात् त्वं **मानुषे** मनोः संबन्धिनि मनुष्ये **जने** यजमाने **देवेभिः** देवैः **हितो** होतृत्वेन निहितोऽसि तस्मादित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, have been appointed by the gods, the ministrant fo men, the descendants of **manu**, at all sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, were established as Hotar of all sacrifices  
 by the gods for the human race.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The tr. “for the human race” reads like a dative, but mā́nuṣe jáne is of course a locative. Unfortunately English lacks the “bei” / “chez” locution that would idiomatically tr. this loc. ### 02-03
 The first pādas of these vss. end respectively in adhvaré# and ádhvanaḥ#, which seems to signal an awareness of the deeper etym. relationship between the two stems.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PRIEST of all sacrifices hast thou been appointed by the Gods,  
      Agni, amid the race of man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, bist zum Priester aller Opfer von den Göttern bei dem Menschenvolk bestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Priester aller Opfer bist du von den Göttern eingesetzt, O Agni für der Menschen Stamm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, помещен  
 Богами как хотар всех  

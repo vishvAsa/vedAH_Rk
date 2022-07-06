@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ य꣡द् वृण꣡क्षि श्वसन꣡स्य मूर्ध꣡नि  
 शु꣡ष्णस्य चिद् व्रन्दि꣡नो रो꣡रुवद् व꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡द् अद्या꣡ चित् कृण꣡वः क꣡स् तुवा प꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्रा॒चीने॑न । मन॑सा । ब॒र्हणा॑ऽवता । यत् । अ॒द्य । चि॒त् । कृ॒णवः॑ । कः । त्वा॒ । परि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -125,43 +125,43 @@ genre M
 हे इन्द्र त्वं **रोरुवत्** मेघैरत्यर्थं शब्दयन् **श्वसनस्य** अन्तरिक्षे श्वसितीति श्वसनो वायुः । तस्य **व्रन्दिनः** स्वकिरणैराम्रफलादीन् मृदुभावं प्रापयतः **शुष्णस्य** **चित्** रसानां शोषयितुरादित्यस्यापि **मूर्धनि** उपरिप्रदेशे **वना** वनान्युदकानि **यत्** यस्मात् **नि** **वृणक्षि** आवर्जयसि । प्रापयसीत्यर्थः । वायुना सूर्यकिरणैश्च वृष्टा आपः सूर्यस्योपरि पुनरवस्थाप्यन्ते । तदेवावस्थापनमिन्द्रः करोतीत्युपचर्यते । **प्राचीनेन** प्रकर्षेण गन्त्रा । अपराङ्मुखेनेत्यर्थः । **बर्हणावता** । निबर्हयतीति वधकर्मसु पाठात् बर्हणा शत्रूणां हिंसा तद्वता । एवंभूतेन **मनसा** युक्तस्त्वं **यत्** यस्मात् **अद्या** चित् अद्यापि **कृणवः** घर्मकाले सूर्यस्योपरि भौमान् रसानवस्थापयसि वर्षासु च वर्षयसीति । यस्मादेतत् कुरुषे तस्मात् कारणात् **त्वा** त्वां **परि** उपरि **कः** वर्तते न कोऽपीत्यर्थः । अतस्त्वमेव सर्वाधिक इति भावः ॥ वृणक्षि ।  ‘ वृजी वर्जने'। रौधादिकः । सिपः पित्त्वादनुदात्तत्वे विकरणस्वरः । यद्वृत्तयोगादनिघातः । प्राचीनेन । प्रपूर्वात् अञ्चतेः ‘ऋत्विक् ' इत्यादिना क्विन् । “ अनिदिताम्' इति नलोपः ।  ‘ विभाषाञ्चे रदिक्स्त्रियाम्' इति स्वार्थे खः । खस्य ईनादेशः ।  ‘ अचः' इति अकारलोपे **चौ** ' इति दीर्घत्वम् । खप्रत्ययस्य सतिशिष्टत्वात् तदादेशस्य उपदेशिवद्भावेन ईकार उदात्तः । अद्या चित् ।' निपातस्य च ' इति दीर्घत्वम् । कृणवः ।  ‘ कृवि हिंसाकरणयोश्च । इदित्त्वात् नुम् । लेटि सिपि अडागमः ।  ‘ धिन्विकृण्व्योर च' इति उप्रत्ययः, वकारस्य अकारादेशश्च । तस्य अतो लोपे सति स्थानिवद्भावात् लघूपधगुणाभावः । गुणावादेशौ । आगमानुदात्तत्वे विकरणस्वरः । अत्र निरुक्तं - ' व्रन्दी व्रन्दतेर्मृदूभावकर्मणः । निवृणक्षि यच्छ्वसनस्य मूर्धनि शब्दकारिणः शुष्णस्यादित्यस्य च शोषयितू रोरूयमाणो वनानीति वा धनानीति वा ' (निरु. ५.१५-१६ ) इति । धनानीति पक्षे मेघस्य धनानीति व्याख्येयम् ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since you, loud-shouting, have poured the rain upon the brow of the breathing (wind), and (on the head) of the maturing and absorbing (sun), who shall prevent you from doing today (as you will), endowed with an unaltered and resolute mind?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As you yank down on the head of the snorting Śuṣṇa also grown weak,  yourself constantly bellowing through the woods,  
 with your mind facing forward and possessed of lofty might. If you will  also do (such) today, who (will evade) you?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ní … vṛṇákṣi is here tr. ‘yank down’, whereas in the preceding hymn, 9d, I render ní … avṛṇak as ‘wrenched down’. The two should have been harmonized in the published translation More serious is the question of what object the verb takes here. Most tr.
 
 use vánā, which, admittedly, is the only available accusative, but I am reluctant to follow this interpretation for two reasons: 1) As noted above róruvad vánā also appears in 1c, which suggests that these words belong together and one shouldn’t be extracted to serve as a complement for a different verb; 2) I really doubt that there’s an alternate version of the Śuṣṇa story that involves felling trees on his head. In fact Śuṣṇa himself serves several times as the object of (ni) √vṛj (I.101.2 śúṣṇam aśúṣaṃ ny ā́vṛṇak, also VI.18.8, 26.3). In nearby I.51.11 Indra destroys Śūṣṇa’s fortified strongholds (dṛṃhitā́ḥ … púraḥ), and I’m inclined to supply them here, with Indra wrenching them down onto the head of their hapless defender. Note that Indra also destroys púraḥ in the next vs. (6d). I would thus change the published translation to “as you wrench down (the fortresses) of the snorting Śuṣṇa onto his head.” The question in the last pāda, kás tvā pári, lacks a verb, but it does contain the preverb pári, which suggests the solution: pari √vṛj is a common idiom meaning ‘evade, avoid’, and since the root √vṛj supplies the main verb of the earlier part of the verse (5a ní … vṛṇákṣi), there is support for supplying it here, with the pleasing effect that the two different preverbs used with it provide two different idioms.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When with a roar that fills the woods, thou forcest down on wind's head the stores which Susna kept confined,  
      Who shall have power to stay thee firm and eager-souled from doing still this day what thou of old hast done?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du auf den Kopf des schnaubenden tretend, des schon erliegenden Susna, die Bäume brüllend niederstrecktest mit vorstrebendem, eifrigem Sinn - wenn du auch heute das tun willst, wer soll dir das verwehren?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn auf das Haupt des schnaubenden, des Çuschna, du, des zehrenden die Speere tobend niederwirfst, Wenn heute auch mit kräft'gem, strebendem Gemüth du wirken willst, wer ist's der dann dich hindern mag?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ты низвергаешь на голову самого храпящего,  
 Поверженного Шушны громко скрипящие деревья,  

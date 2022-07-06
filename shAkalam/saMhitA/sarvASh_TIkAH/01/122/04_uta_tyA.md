@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्या꣡ मे यश꣡सा श्वेतना꣡यै  
 विय꣡न्ता पा꣡न्ता औशिजो꣡ हुव꣡ध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ मात꣡रा · रास्पिन꣡स्य आयोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । वः॒ । नपा॑तम् । अ॒पाम् । कृ॒णु॒ध्व॒म् । प्र । मा॒तरा॑ । रा॒स्पि॒नस्य॑ । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -114,7 +114,7 @@ genre M
 **औशिजः** उशिजः पुत्रः कक्षीवानहं **मे** । तादर्थ्ये चतुर्थी । मदर्थं **यशसा** । यश इत्यन्नं बलं कीर्तिर्वा उच्यते । तद्वन्तौ **व्यन्ता** भक्षयन्तौ चरुपुरोडाशादिकं **पान्ता** पिबन्तौ अज्यसोमादिकं **त्या**। तच्छब्दसमानार्थः त्यच्छब्दः । यौ स्तुत्यत्वेन प्रसिद्धौ तावश्विनौ । अत्र यद्यपि विशेषो न श्रुतः तथापि सूक्तस्य वैश्वदेवत्वात् उषःसंबन्धात् द्विवचनलिङ्गाच्चाश्विनाविति गम्यते तादृशावश्विनौ । **श्वेतनायै** इति षष्ठ्यर्थे चतुर्थी । विश्वं जगत् श्वेतयन्त्याः उषसः तत्संबन्धिनि काले। उषःकालीनाह्वानाय यतेयम्। इति शेषः । हे ऋत्विजः **वः** यूयम् । प्रथमार्थे द्वितीया । **अपाम्** उदकानां **नपातं** नपातयितारं तासां नप्तारं वा अग्निम् । अद्भ्यः ओषधिवनस्पतयः ताभ्यः अग्निः इत्यपां नप्तृत्वमग्नेः । तं देवं **प्र** **कृणुध्वम्** । करोतिरत्र क्रियासामान्यवाची क्रियाविशेषे स्तोत्रे पर्यवस्यति । प्रकर्षेण स्तुध्वमित्यर्थः । किंच **रास्पिनस्य** । रपतेः रसतेर्वा शब्दनार्थस्य घञन्तस्य कृतसकारपकारोपजनस्य रास्प इति भवति । तदस्यास्तीति रास्पि स्तोत्रम् । तद्वान् रास्पिनः स्तोता । तस्य **आयोः** तादृशस्य मनुष्यस्य मम मह्यं **मातरा** मातृवद्धितकारिण्यौ अहोरात्रदेवते अपि **प्र** कृणुध्वम् । अथवा रास्पिनस्य । एको मत्वर्थप्रत्ययश्छान्दसः। प्रवर्षणध्वनियुक्तस्य वृष्ट्युदकस्य गमनशीलस्य निर्मात्र्यौ अहोरात्रे प्र कृणुध्वम् ॥ व्यन्ता पान्ता । उभयत्र ‘सुपां सुलक्' इति आकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ genre M
 Trees and shrubs spring up from the moisture of the waters, and fire proceeds from timber;hence, Agni is the grandson of the waters; or son of the waters (**Manu**, IX. 321)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And it is for (Kakṣīvant), son of Uśij [/the fire-priest], to call for me this  glorious pair [=Aśvins], the pursuers (of the oblation), the drinkers,  for the whitening (of dawn).  
 Put forward for yourselves the Child of the Waters [=Agni], forward the  two mothers [=kindling sticks] of abundant [?] Āyu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich is structured like vs. 2, with a nom. subject of a purpose infinitive.
 
@@ -148,23 +148,23 @@ The initial ví-, perceived as a preverb, could be lopped off, and the unusual i
 I do not know what role Āyu is playing here, as is often the case with this figure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And Ausija shall call for me that famous Pair who enjoy and drink, who come to brighten.  
      Set ye the Offspring of the Floods before you; both Mothers of the Living One who beameth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und diese beiden Hochgeehrten, die mit Lust trinken, will ich, der Usij Sohn, mir zur Frühmesse rufen. Lasset dem Apam Napat den Vortritt bei euch und den beiden Müttern des ...... Ayu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch schöne Ritter, die ihr esst und trinket, soll frühe mir der Sohn der Uçidsch rufen, Ihr aber schafft auch her den Sohn des Wassers, die Aeltern auch des rauschenden entflammten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще, (я), сын Ушидж, хочу позвать к себе  
 Этих двоих блистательных, что приходят (и) пьют, чтобы рассвело.  

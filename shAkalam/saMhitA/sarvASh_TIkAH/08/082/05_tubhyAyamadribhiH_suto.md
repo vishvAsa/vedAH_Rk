@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्याय꣡म् अ꣡द्रिभिः सुतो꣡  
 गो꣡भिः श्रीतो꣡ म꣡दाय क꣡म्  
 प्र꣡ सो꣡म इन्द्र हूयते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र । सोमः॑ । इ॒न्द्र॒ । हू॒य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyāyam* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
@@ -91,20 +91,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **अद्रिभिः** अभिषवसाधनैर्ग्रावभिः **अयं** **सोमः** तुभ्यं त्वदर्थं **सुतः** अभिषुतः । ततो दशापवित्रेण पूत्वा **गोभिः** गोविकारैः क्षीरादिभिः **श्रीतः** सोऽस्माभिः परावत एव संस्कृतः सोमस्तव **मदाय** मदार्थं **कं** सुखेन **प्र** **हूयते** अग्नौ स्वाहा क्रियते । तस्मादागत्य सोमं पिब ॥ ॥१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, this **Soma**, effused for you by the stones and mixed with milk, is offered auspiciously (in the fire)for your exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you this one here has been pressed by stones, prepared with cows  [=milk], for exhilaration.  
 The soma is being poured forth, Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -114,23 +114,23 @@ The soma is being poured forth, Indra.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Soma here expressed with stones and dressed with milk for thy carouse,  
      Indra, is offered up to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich ist dieser Soma mit den Steinen ausgepreßt, mit Milch gemischt zum Rausche; dir, Indra, wird der Soma geopfert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist von Steinen, Indra, dir gepresst, mit Milch zum Rausch vermischt Der Soma wird ergossen dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वक्षि देवाँ꣡ इह꣡ विप्र य꣡क्षि च  
 उश꣡न् होतर् नि꣡ षदा यो꣡निषु त्रिषु꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पि꣡बा꣡ग्नीध्रात् त꣡व भाग꣡स्य तृप्णुहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्रति॑ । वी॒हि॒ । प्रऽस्थि॑तम् । सो॒म्यम् । मधु॑ । पिब॑ । आग्नी॑ध्रात् । तव॑ । भा॒गस्य॑ । तृ॒प्णु॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -139,7 +139,7 @@ genre M
 हेविप्र मेधाविन्नग्ने देवान् यष्टव्याअनिन्द्रादीन् इहास्मिन्यज्ञेआवक्षिआवह यक्षिच तान् यजच हेहोतः देवानामाह्वातः त्वं चउशन्नस्मदीयंहविः कामयमानःसन् त्रिषुयोनिषुस्थानेषुगार्हपत्या दिलक्षणेषुनिषद उपविश उपविश्यच प्रस्थितं होमार्थमुत्तरवेदिम्प्रत्यानीतंसोम्यंसोममयम्मधुप्रति वीहि प्रतिकामयस्व कामयित्वाचआग्नीध्रादग्नीध्रयागात् सोमम्पिब पीत्वाचतवभागस्य त्वदीये नभागेन तृप्णुहितृप्तोभव ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,35 +150,35 @@ genre M
 In the three altars: those of **gārhapatya**, **āhavanīya** and **dakṣiṇā** fires
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Convey the gods hither, you inspired poet, and perform sacrifice.  Willingly, o Hotar, sit down in your three wombs.  
 Receive the somian honey that has been set forth. Drink from the  
 Agnīdh’s cup. Reach satiety from your portion. [=Agni]
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The lexeme práti √vī expresses a reciprocal notion to √vī ‘pursue’, hence ‘receive’; cf. the nominal form pratīvī- ‘(gift-)reception’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring the Gods hither, Sage, and offer sacrifice: at the three altars seat thee willingly, O Priest.  
      Accept for thy delight the proffered Soma meath: drink from the Kindler's bowl and fill thee with thy share.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fahr die Götter hierher, du Redekundiger, und opfere ihnen! Nimm willig Platz, o Hotri, auf den drei Sitzen! Nimm die vorgesetzte somische Süßigkeit entgegen; trink aus dem Becher des Agnidh, erlabe dich an deinem Anteil!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O weiser fahr die Götter her, verehre sie; auf die drei Schösse setz', o Priester, willig dich; Nimm auf in dich das dargereichte Somasüss, aus Zünders Schale trink dein Theil und sätt'ge dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Привези сюда богов, о поэт, принеси (им) жертвы!  
 С готовностью, о хотар, опустись на три лона!  

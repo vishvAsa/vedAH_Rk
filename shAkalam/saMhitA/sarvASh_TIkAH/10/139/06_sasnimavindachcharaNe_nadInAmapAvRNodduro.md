@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡स्निम् अविन्दच् च꣡रणे नदी꣡नाम्  
 अ꣡पावृणोद् दु꣡रो अ꣡श्मव्रजानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रो द꣡क्षम् प꣡रि जानाद् अही꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्र । आ॒सा॒म् । ग॒न्ध॒र्वः । अ॒मृता॑नि । वो॒च॒त् । इन्द्रः॑ । दक्ष॑म् । परि॑ । जा॒ना॒त् । अ॒हीना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sasnim* ← *sasni*
 - \[noun\], accusative, singular, masculine
@@ -121,36 +121,36 @@ popular
 **सस्निम्** अद्भिः संस्नातं प्रकर्षेण सर्वस्य जगतः स्नापयितारं मेघम् । ष्णा शौचे '।  ‘ आदृगमहन° ' इति किन्प्रत्ययः । लिड्वद्भावात् द्विर्वचनम् । **नदीनां** शब्दकारिणीनामपां **चरणे** संचरणस्थानेऽन्तरिक्षे **अविन्दत्** । इन्द्रोऽलभत । लब्ध्वा च **अश्मव्रजानाम्** । अश्मा व्याप्तो मेघः । तत्र व्रजन्तीनाम् । यद्वा । मेघो व्रजो गोष्ठं निवासस्थानं यासां तादृशीनाम् । अपां **दुरः** द्वाराणि मेघान्निर्गमनप्रदेशान् **अपावृणोत्** अपावृतवान् । यद्वा । अश्मसु शिलासु व्रजन्तीनां गच्छन्तीनां व्याप्तगमनानां वा नदीनां गङ्गायमुनादीनां चरणे संचरणे प्रवहणे निमित्तभूते सति तदर्थमिन्द्रः सस्निं मेघमविन्दत् अलभत । लब्ध्वा चान्तर्गतानामपां निर्गमसाधनानि मेघस्य दुरो द्वाराणि अपावृणोत् अपावृतवान् । तथा **आसां** नदीनाम् **अमृतानि** अमरणसाधकानि उदकानि **गन्धर्वः** गोर्वज्रस्य धर्ता विश्वावसुरूपेण वर्तमानः **इन्द्रः** **प्र** **वोचत्** प्रब्रवीति । प्रवोढुमनुजानाति । तथा **दक्षम्** । दक्षत्युदकं प्रयच्छतीति दक्षो वर्षणसमर्थो मेघः । तादृशं मेघम् **अहीनां** मेघानां मध्ये **परि** **जानात्** परितः सर्वतो जानाति । ‘ज्ञा अवबोधने । लेट्याडागमः । ज्ञाजनोर्ज्ञा  इति जादेशः । ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Indra**) discovered the cloud in the region of the rivers, he set open the portals of (the waters) whosedwelling is in the clouds; Indra, (in the form of) the **Gandharva** (**viśvāvasu**), proclaimed the ambrosial (waters),he knew the strength of the dragons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He found the winner in the current of the rivers. He opened the doors for  those with a rock as their pen.  
 The Gandharva proclaimed their immortal (names). Indra came to know  all about the capability of the fertile cows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the floods' track he found the bootyseeker: the rocky cow-pen's doors he threw wide open.  
      These, the Gandharva told him, Rowed with Amrta. Indra knew well the puissancc of the dragons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er fand den Gewinner auf der Fährte der Flüsse, er schloß den im Fels eingepferchten Kühen die Tore auf. Gandharva verkündete ihre unsterblichen Namen; Indra kannte genau die Tüchtigkeit der Muttertiere.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Spender fand er auf der Bahn der Ströme, er öffnete der Felsenställe Thüren, Der Ströme Labsal rühmte der Gandharve und Indra hat erprobt der Drachen Stärke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он нашел победителя в стремнине рек,  
 Он растворил двери для запертых в скале.  

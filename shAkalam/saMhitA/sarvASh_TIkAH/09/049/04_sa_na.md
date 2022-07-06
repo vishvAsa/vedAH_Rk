@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ न ऊर्जे꣡ वि꣡ अव्य꣡यम्  
 पवि꣡त्रं धाव धा꣡रया  
 देवा꣡सः शृण꣡वन् हि꣡ कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दे॒वासः॑ । शृ॒णव॑न् । हि । क॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -90,36 +90,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम सुतः अभिषुतस्त्वं **नः** अस्माकम् **ऊर्जे** अन्नाय **अव्ययम्** अविमयं **पवित्रं** **धारया** संपातेन **वि** **धाव** प्राप्नुहि। **देवासः** देवा अपि **हि** **कं** **शृणवन्** गमनवेलायामुत्पन्नं तव शब्द शृण्वन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you for our sustenance hasten to the woollen filter with your stream; let the gods hear your sound.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For our nourishment run through the fleecy filter in a stream,  
 for the gods will surely listen!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To give us vigour, with thy stream run through the fleecy straining-cloth  
      For verily the Gods will bear.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lauf du uns zur Kraft durch die Wollseihe in Strömen, denn die Götter werden wohl darauf hören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu unsrer Stärkung fliesse nun im Strome durch das wollne Sieb, Die Götter mögen hören uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

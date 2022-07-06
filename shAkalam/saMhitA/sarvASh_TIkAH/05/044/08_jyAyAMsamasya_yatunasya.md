@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज्या꣡यांसम् अस्य꣡ यतु꣡नस्य केतु꣡न  
 ऋषिस्वरं꣡ चरति या꣡सु ना꣡म ते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡ उ स्वयं꣡ व꣡हते सो꣡ अ꣡रं करत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 या॒दृश्मि॑न् । धायि॑ । तम् । अ॒प॒स्यया॑ । वि॒द॒त् । यः । ऊं॒ इति॑ । स्व॒यम् । वह॑ते । सः । अर॑म् । क॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jyāyāṃsam* ← *jyāyas*
 - \[noun\], accusative, singular, masculine
@@ -145,7 +145,7 @@ genre M
 इयमाग्नेयी सौरी वा । हे देव ज्यायांसम् अतिशयेन प्रवृद्धम् **अस्य** **यतुनस्य** । यततिर्गतिकर्मा। गन्तुरस्य सूर्यस्य ॥ कर्मणि षष्ठ्यौ ॥ अमुं गन्तारं **केतुना** प्रज्ञापकेन कर्मणा उदयादिलक्षणेन विशिष्टम् **ऋषिस्वरम्** ऋषिभिः स्तुत्यं त्वां **चरति** गच्छति । भजते यजमानः । केन साधनेन । **यासु** स्तुतिषु **ते** त्वदीयं **नाम** नमनं नामकं वा रूपं वर्तते ताभिरित्यर्थः । यद्वा । अस्य यतुनस्य गमनशीलस्य तव केतुना तमोनिर्हरणादिकर्मणा विशिष्टं त्वां चरति । **यादृश्मिन्** यादृशे कामे **धायि** धत्ते ॥ कर्तरि चिण् ॥ सामर्थ्यान्मनो गम्यते । **तम्** । यथानिर्देशं प्रतिनिर्देष्टव्यत्वात्तादृशमित्यर्थो ज्ञातव्यः । तादृशं कामम् **अपस्यया** कर्मणा हविःस्तुत्यादिलक्षणेन **विदत्** विन्दते । **य** **उ** य एव स्वयम् अनन्यप्रेरितः सन् स्वमनीषयैव **वहते** धारयति फलं **सः** **अरम्** अलमत्यर्थं **करत्** करोति । अथवा य उ य एव स्वयं वहते स्वयमेवानुतिष्ठति सोऽत्यर्थं कुर्यात् । न ह्यन्येन कारितं फलवद्भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,14 +156,14 @@ genre M
 By the sign of this moving revolution: **asya** yatunasya ketuna is the text which is explained: karmaṇodayādi lakṣaṇena, characterized by functions such as rising and the like; he also...acquires abundant reward: ya u svayam vahate so aram karat = he who, not urged by another, entertains of his own mind the hope of reward, he does, much, or enough; atyartham **karoti** is one explanation; another is, atyartham kuryāt, let him do much, or enough
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He [=poet] pursues the older sonority of the seers by means of (you  [=Agni/Soma]), the beacon of this arrangement [=sacrifice]. Among  which (females [=waters/cows/insights]) your name (is),  
 in whatever (place) it has been set, he will find it [=sonority of the seers]  through his industry. He who makes the journey by himself, he will  
 get it right.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg’s stark statement about this vs., “Ich wage keine Erklärung,” is somewhat lowering to the spirit. Nonetheless, I think some sense can be wrung from it. As I said in the published introduction, I think a new figure enters the scene at this, the midpoint of the hymn -- namely the poet, learning and perfecting his craft -- and in my opinion he is the subject of the vs., though Agni and Soma are still very much present.
 
@@ -180,23 +180,23 @@ Unlike most interpr. I take the loc. rel. cl. ending b (yā́su nā́ma te) as p
 The final pāda reiterates that the poet must rely on himself: he must make the journey to poetic mastery by himself, and if he does, he will get it (that is, the poetry) right. The phrasal verb áraṃ karat of course reminds us of alaṃkāra, the later technical term for poetic ornament. Cf. already in the RV VII.29.3 kā́te asty áraṃkrti̥ ḥ sūktaíḥ for a connection between hymns and proper preparation. (Contrary to the standard tr., I do not think that yá u svayáṃ váhate has anything to do with marriage and bringing the bride home.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy name, sung forth by Rsis in these hymns of ours, goes to the loftier One with this swift mover's light.  
      By skill he wins the boon whereon his heart is set: he who bestirs himself shall bring the thing to pass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter dem Banner dieses ...... kommt das Lied zu der stärkeren Stimme des Rishi mit Worten, unter denen dein Name ist. In was sie gelegt ward, einen solchen nimmt sie mit Geschäftigkeit zum Manne. Wer sie selbst heimführt, nur der wird es ihr recht machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dem herrlicheren [dem Sonnengotte] geht er [der Opferer Säy.] mit dem Lichte dieses strebenden [Agni] zu dem von Sängern umrauschten dorthin wo [bei yusu ist diksä oder viTcm zu ergänzen,] wo dein Wesen [o Sonne] ist; bei wem er [Agni] hingesetzt wird, den erfüllt er mit Werkelust, und wer selbst ihn zu sich führt, der macht ihn auch fertig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Под знаком этого состязания (?) (песня) движется (.приближаясь)  
 К более сильному звучанию (древних) риши – (слова), среди которых твое имя.  

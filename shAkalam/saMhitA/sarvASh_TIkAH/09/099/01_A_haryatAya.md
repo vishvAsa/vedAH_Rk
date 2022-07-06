@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ हर्यता꣡य धृष्ण꣡वे  
 ध꣡नुस् तन्वन्ति पउं꣡सियम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 विपा꣡म् अ꣡ग्रे महीयु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 शु॒क्राम् । व॒य॒न्ति॒ । असु॑राय । निः॒ऽनिज॑म् । वि॒पाम् । अग्रे॑ । म॒ही॒युवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -94,7 +94,7 @@ genre M
 **हर्यताय** सर्वैः स्पृहणीयाय **धृष्णवे** शत्रूणां धर्षणशीलाय सोमाय **पौंस्यं** पुंस्त्वस्याभिव्यञ्जकं **धनुः** **आ** **तन्वन्ति** । धनुषि ज्यां कुर्वन्तीति । सोमस्य धाराविसर्गार्थं वितायमानं पवित्रमभिधीयते । तदेव विवृणोति । **महीयुवः** पूजाकामा ऋत्विजः **विपां** मेधाविनां देवानाम् **अग्रे** पुरस्तात् **शुक्रां** शुक्लवर्णां **निर्णिजं** यथा सोमो निर्णिज्यते ताम् **असुराय** बलवते **वयन्ति** वितन्वन्ति । दशापवित्रं विस्तारयन्तीत्यर्थः । वयतिर्गतिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,12 +105,12 @@ genre M
 In RV. 9.006.003, the ṛṣis are the two rebhasunus = son of Rebha. spread out the white filter: nirṇijam vayanti = they weave a garment
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the delightful daring one they draw the bow, the manly power. Those seeking the great one weave a glowing garment for their lord at  the forefront of the inspired words.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The stem mahīyú- is found also in IX.65.1, also with a fem. pl. subj. There it is quite clearly the fingers of the officiants, and there is no reason why it can’t refer to the fingers here as well (as indeed is the standard view). The adj. is generally rendered ‘considering themselves great’ vel sim., but in both passages ‘seeking the great’ works just as well and better fits the usual sense of -yú-stems (gavyú- ‘seeking cattle’, etc.). I don’t see why the fingers would “pleins d’orgueil” as Renou has it.
 
@@ -119,23 +119,23 @@ As Geldner points out (n. 1c), by “glowing / bright garment” (śukrā́m …
 “At the forefront of the inspired words” (vipā́m ágre) sets the time as the beginning of the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THEY for the Bold and Lovely One ply manly vigour like a bow:  
      joyous, in front of songs they weave bright raiment for the Lord Divine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Begehrten, Mutigen spannen sie den Bogen, die Kraft; es weben dem Asura ein weißes Festgewand die Finger, die sich groß fühlen im Anbeginn der Reden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem lieben, kühnen spannen sie die Kraft wie einen Bogen an; Ein Prachtkleid weben sie dem Gott hoch auf dem Sieb, die herrlichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для любимого отважного (сомы)  
 Они натягивают лук, (воплощенное) мужество.  

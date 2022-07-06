@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ सुत꣡स्य पीत꣡ये  
 प्रत्न꣡म् इन्द्र हवामहे  
 कुशिका꣡सो अवस्य꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 कु॒शि॒कासः॑ । अ॒व॒स्यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -72,36 +72,36 @@ genre M
 हे **इन्द्र** **अवस्यवः** त्वत्तो रक्षणमिच्छन्तः **कुशिकासः** कुशिकगोत्रोत्पन्ना वयं **सुतस्य** ग्रावभिषुतस्य सोमस्य **पीतये** पानार्थं **प्रत्नं** पुरातनं **त्वां** **हवामहे** स्तुतिलक्षणाभिर्गीभिः आह्वयामः ॥ पीतये । 'स्थागापापचो भावे ' इति क्तिन् । ' हिष्ठवत्सरतिशत्थान्तानाम् ' (फि. सू. ७ ) इत्यन्तोदात्तत्वम् । हवामहे । ह्वयतेर्लटि ‘ बहुलं छन्दसि ' इति संप्रसारणे रूपम् । अवस्यवः । अव इच्छन्तीत्यर्थे सुपः क्यच् । ‘ क्याच्छन्दसि ' इत्युप्रत्ययः । कुशिकासो अवस्यवः इत्यत्र संहितायाम् ' अव्यादवद्यात् ' (पा. सू. ६. १. ११६) इत्यादिना एङः प्रकृतिभावः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Descendants of **Kuśa**, desirous of protection, we invoke you, **Indra**, who is of old, to drink of the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, do we call to drink the pressed drink, as of old—  
 we, the Kuśikas, seeking your favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We call on thee, the Ancient One, Indra, to drink the Soma juice,  
      We Kusikas who seek thine aid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Indra, laden in alter Weise wir Kusika´s, um deine Gunst bittend, zum Trunk des Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich Indra, rufen wir herbei, den alten zu des Saftes Trunk, Wir hülfsbegier'gen Kuçiker.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, древнего, мы призываем,  
 О Индра, на питье сомы,  

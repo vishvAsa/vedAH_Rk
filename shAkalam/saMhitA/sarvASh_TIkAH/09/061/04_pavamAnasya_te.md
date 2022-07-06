@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानस्य ते वय꣡म्  
 पवि꣡त्रम् अभिउन्दतः꣡  
 सखित्व꣡म् आ꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒खि॒ऽत्वम् । आ । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
@@ -75,19 +75,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **पवित्रमभ्युन्दतः** पवित्रमभिक्लेदयतः **पवमानस्य** क्षरतश्च **ते** तव **सखित्वं** सख्यं **वयम्** अमहीयव आङ्गिरसाः **आ** **वृणीमहे** प्रार्थयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit your friendship as you drop flowing over the filter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While you are purifying yourself, while you are flooding the filter, we choose your companionship.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou render pávamānasya as simply the epithet Pavamāna, but this loses the parallelism between the two gen. sg. pres. participles that open and close the hemistich: pávamānasya … abhyundatáḥ. I render these participles as “while” clauses, to avoid the awkward “we choose the companionship of you who are Xing.”
 
@@ -102,23 +102,23 @@ There are faint signs of unity in this tṛca: the word pavítram ‘filter’ i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We seek to win thy friendly love, even Pavamana's flowing o'er  
      The limit of the cleansing sieve.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir erwählen uns deine, des Pavamana, Freundschaft, während du die Seihe berieselst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wünschen deine Freundschaft uns, der du in hellem Strome rinnst, Und durch die Seihe dich ergiesst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы выбираем себе дружбу  
 С тобою, Паваманой,  

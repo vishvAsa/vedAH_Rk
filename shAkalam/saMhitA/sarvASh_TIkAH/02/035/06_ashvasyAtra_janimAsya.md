@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वस्या꣡त्र ज꣡निम अस्य꣡ च स्व᳡र्  
 द्रुहो꣡ रिषः꣡ सम्पृ꣡चः पाहि सूरी꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ना꣡रातयो वि꣡ नशन् ना꣡नृतानि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ॒मासु॑ । पू॒र्षु । प॒रः । अ॒प्र॒ऽमृ॒ष्यम् । न । अरा॑तयः । वि । न॒श॒न् । न । अनृ॑तानि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvasyātra* ← *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
@@ -128,7 +128,7 @@ genre M
 अत्रास्मिन्नपान्नपात्सञ्ज्ञकेदेवेअश्वस्यजनिमजन्मभवति अपान्नप्त्नधिष्ठितात् समुद्रादुच्चैः श्रवसो जातत्वात् किम्बहुना अस्यचस्वः सुष्ठुअरणीयस्यसर्वस्यजगतोजन्मास्मिन्नेवभवति अयं हिमेघ मध्येवर्तमानोवृष्टिद्वारेणसर्वञ्जगज्जनयति तादृशोऽपान्नपात् त्वन्द्रुहः द्रोग्धुरपहर्तुः रिषोहिंसकस्य चसम्पृचः सम्पर्कात् सूरीन् स्तोतॄनस्मान्पाहि रक्ष आमासुअपरिपक्वासुपूर्षुपूरयितव्यास्वप्सु परः परस्ताद्वर्तमानंअप्रमृष्यं अप्रधृष्यमाणं देवंअरातयः अदातारः पुरुषाः नविनशन् नप्राप्नुवन्ति नशतिर्व्याप्तिकर्मा लेट्यडागमः अनृतानिमायाविनोरक्षांसिचनप्राप्नुवन्ति ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,35 +139,35 @@ genre M
 In him is the birth of the horse: **aśvasya** atra **janimā** = here, or in him is the birth of the horse; allusion to the production of uccaisśravas, the horse of **Indra**, among the precious things obtained by the churning of the ocean; the birth of the horse from water, whethere of the ocean or not, is a legend; of him is the origin of the world: **asya** ca svaḥ: su, well, varaṇīya, to be chosen; implying the whole world; i.e. the deity residing amid the waters, or the rains, may be considered as the origin of all earthly things
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the birth of the horse and of this sun [=Agni?]. From deceit,  from harm—from the infusion (of them)—protect the patrons.  
 Neither hostilities nor untruths shall reach him in the “raw”  
 fortifications, him who is not to be forgotten (though) far away.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here was the horse's birth; his was the sunlight. Save thou our princes from the oppressor's onslaught.  
      Him, indestructible, dwelling at a distance in forts unwrought lies and ill spirits reach not.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The birthplace of this steed is earth and heaven. Our patrons do thou guard from harm and malice. Him not to be forgotten, far off dwelling In cloud-built forts, foes shall not reach nor false-hoods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort ist der Geburtsort des Rosses und dieser Sonne. Behüte die Lohnherren, daß sie nicht Tücke und Schaden treffe ! In den rohen Burgen erreichen ihn weder Mißgunst noch Täuschungen, den man auch in der Ferne nicht vergessen soll.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Himmel ist sein Ursprung und des Rosses, vor bösen Feindes Anlauf schütz die Edlen; Ihn, der untilgbar fern die dunkeln Burgen bewohnt, erreichen Böse nicht noch Frevel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Здесь рождение этого коня и на небе.  
 Охрани (наших) покровителей от соприкосновения с обманом, с повреждением?  

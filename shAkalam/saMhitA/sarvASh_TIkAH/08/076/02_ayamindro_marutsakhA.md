@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् इ꣡न्द्रो मरु꣡त्सखा  
 वि꣡ वृत्र꣡स्याभिनच् छि꣡रः  
 व꣡ज्रेण शत꣡पर्वणा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 वज्रे॑ण । श॒तऽप॑र्वणा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -88,36 +88,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **अयमिन्द्रो** **मरुत्सखा** मरुद्युक्तः **वृत्रस्य** **वि** **अभिनत्** व्यच्छिनत् **शिरः** **वज्रेण** **शतपर्वणा** शतसंधिना ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, attended by the **Maruts**, has cleft the head of **Vṛtra** with his hundred-jointed thunderbolt.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Indra here, with the Maruts as comrades, split apart the head  of Vr̥tra  
 with a hundred-jointed mace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Indra with his Marut Friends clave into pieces Vrtra's bead  
      With hundred-knotted thunderbolt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Indra mit den Marut als Kameraden zerspaltete des Vritra Haupt mit der hundertknorrigen Keule.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, Indra mit der Marutschar, zerspaltete des Vritra Haupt Mit seinem hundertzack'gen Blitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

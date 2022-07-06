@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ वि꣡श्वम् प꣡रि पाथ  
 व꣡रुणो मित्रो꣡ अर्यमा꣡  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 सिया꣡म सुप्रणीतयो अ꣡ति द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -33,7 +33,7 @@ genre M;; line affected by realignment;; repeated line
 यु॒ष्माक॑म् । शर्म॑णि । प्रि॒ये । स्याम॑ । सु॒ऽप्र॒नी॒त॒यः॒ । अति॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -106,36 +106,36 @@ genre M;; line affected by realignment;; repeated line
 हे देवा वरुणादयः यूयं विश्वं सर्वं जगत्परि पाथ। परितो रक्षथ। हे सुप्रणीतयः शोभनप्रणयना मित्रादयः युश्माकं युश्मदीये युश्माभिर्दत्ते प्रियेऽनुकूले वेद्ये शर्मणि सुखे वयं स्याम। भवेम। द्विषोद्वेष्टॄंश्चाति क्रामेम॥४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Varuṇa**, **Mitra**, **Aryaman**, protect the universe; may we abide in your blessed felicity, O excellentleaders, beyond (the reach of) our enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You protect everyone all around—Varuṇa, Mitra, Aryaman.  
 May we be in the dear shelter of you, o you of good guidance—beyond  hatreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye compass round and guard each man, Varuna, Mitra, Aryaman:  
      In your dear keeping may we be, ye who are excellent as guides beyond our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr behütet jeden, du Varuna, Mitra, Aryaman. In eurer lieben Obhut möchten wir sein, ihr guten Führer - über alle Anfeindungen hinweg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr seid es, die ihr jeden schützt Varuna, Mitra, Arjaman; Lasst uns in eurem lieben Schutz aufs sicherste geleitet sein – durch jeden Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы охраняете каждого со всех сторон,  
 Варуна, Митра, Арьяман.  

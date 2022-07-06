@@ -8,7 +8,7 @@ title = "+055"
 ‘ को वस्त्राता ' इति दशर्चं दशमं सूक्तं वामदेवस्यार्षं विश्वदेवदेवताकम् । अष्टम्याद्यास्तिस्रो गायत्र्यः शिष्टा अनादेशपरिभाषया त्रिष्टुभः । तथा चानुक्रम्यते -' को वो दश वैश्वदेवं त्रिगायत्र्यन्तं तु ' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 55 (351)  
 All Gods  
@@ -22,7 +22,7 @@ This leaves the second and second-to-last verses (2 and 6), symmetrically paired
 If these speculations about the structure of this hymn are at all correct, it is  striking that the gods are identified by name and by role quite clearly, but the rit ual participants are left deliberately unclear. This may be another example of the  poets’ reflection on the mystical nature of the sacrifice and of the transformations it  effects not only in the sacrificed substance but in the sacrificers themselves, tempo rarily endowing the latter with a touch of divinity.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods For the structure of the hymn and its parts, see published introduction. As indicated there, the first 7 vss. (in Triṣṭubh) are concentrically structured, with the agenda set by the questions posed in vs. 1. There are a number of difficulties, and much remains uncertain. The final three vss. (in Gāyatrī) appear to have originally been a separate hymn, as has long been recognized, and are quite straightforward.
 </details>

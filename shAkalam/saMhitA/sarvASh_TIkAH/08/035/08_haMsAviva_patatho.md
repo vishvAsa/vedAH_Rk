@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हंसा꣡व् इव पतथो अध्वगा꣡व् इव  
 सो꣡मं सुत꣡म् महिषे꣡वा꣡व गछथः  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 त्रि꣡र् वर्ति꣡र् यातम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । त्रिः । व॒र्तिः । या॒त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *haṃsāv* ← *haṃsau* ← *haṃsa*
 - \[noun\], nominative, dual, masculine
@@ -123,36 +123,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे अश्विनौ युवां **हंसाविव** यथा हंसौ **अध्वगाविव** यथा च पथिकावुदकं गच्छतः तथा वेगेन **सुतं** **सोमं** **पतथः** । सिद्धमन्यत् ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As two geese, as two travellers, as two buffaloes (hasten to water), you alight, **Aśvins**, upon the effusedSoma; united with the dawn and with **Sūrya**, come, Aśvins, by the triple path.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like geese you fly, like travelers on the road. – Like buffaloes (to water),  you come down to the pressed soma.  
 In concert with Dawn and the Sun, drive your circuit three times, o  Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye fly like swans, like those who travel on their way; like buffaloes ye seek the Soma we have shed.  
      Accordant, of one mind with Surya and with Dawn, come thrice, O Asvins, to our home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Gänse flieget ihr, wie Wanderer eilet ihr, ihr findet euch, beide Götter, bei allen Trinkopfern hier ein, einträchtig mit Usas und Surya bringt uns Labsal, o Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Schwäne und wie Wandervögel flieget ihr, wie Büffel kommt ihr zum gepressten Soma her, Und mit der Sonn' und Morgenröthe im Verein, kommt, Ritter, dreimal in den Hof.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как два гуся, летите вы, (спешите,) как путешественники.  
 К выжатому соме вы спускаетесь, как два буйвола (на водопой).  

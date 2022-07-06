@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ निजघ्नि꣡र् ओ꣡जसा  
 रथसंगे꣡ ध꣡ने हिते꣡  
 स्त꣡वा अ꣡बिभ्युषा हृदा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्तवै॑ । अबि॑भ्युषा । हृ॒दा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -85,20 +85,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम त्वम् **अया** अनेन कृतेन **ओजसा** बलेन **निजघ्निः** शत्रून् हन्तुं शीलवान् । तं त्वाम् **अबिभ्युषा** अभीतेन **हृदा** मनसा युक्तोऽहं **रथसङ्गे** अस्माकं रथानां सङ्गे **हिते** शत्रुषु निहिते **धने** च निमित्ते **स्तवै** स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(You are) by this strength the discomfited (of foes), I praise you with a fearless heart for the sake of (our) line of chariots ranged (against the foe) and for the sake of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With this (insightful thought), slamming down with strength when  chariots clash and a prize is set,  
 I will praise with fearless heart.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. sits somewhat oddly in a soma hymn, and its subject, and indeed its general aim, are not clear until the 3rd pāda.
 
@@ -115,23 +115,23 @@ instr. vācā́could fit in our passage just as well). This Avestan parallel mus
 To enhance this interpr., ‘pounding down’ would be better than ‘slamming down’ for nijaghníḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou conquerest thus with might when car meets car, and when the prize is staked:  
      With fearless heart will I sing praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit diesem Liede will ich mit Kraft zuschlagend im Wagenkampf bei ausgesetztem Preise furchtlosen Herzens lobsingen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So sing' ich nun mit muth'gem Sinn, den Feind erschlagend mit Gewalt, Im Wagenkampf, wenn Preis uns winkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

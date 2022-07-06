@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्विता꣡ य꣡द् ईं · कीस्ता꣡सो अभि꣡द्यवो  
 नमस्य꣡न्त उपवो꣡चन्त भृ꣡गवो  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 आ꣡ वनिषीष्ट मे꣡धिरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 प्रि॒यान् । अ॒पि॒ऽधीन् । व॒नि॒षी॒ष्ट॒ । मेधि॑रः । आ । व॒नि॒षी॒ष्ट॒ । मेधि॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dvitā*
 - \[adverb\]
@@ -147,7 +147,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **यत्** यं **द्विता** द्वित्वमापन्नं द्विप्रकारं श्रौतस्मार्तभेदेन द्वित्वमापन्नम् । यद्वा । उपलक्षणमेतत्। आहवनीयादिरूपेण नानाविधम् । यद्वा । द्विता द्विविधाय ऐहिकामुष्मिकफलाय उभयाय । विभक्तेः आजादेशः । **ईम्** इममग्निं **कीस्तासः** कीर्तनं कुर्वन्तः स्तोतारः ॥ पचाद्यचि छान्दसं सत्वम्। **अभिद्यवः** अभितो द्योतमानाः **नमस्यन्तः** नमस्कारोपलक्षितमुपस्थानं कुर्वन्तः **भृगवः** भृगुगोत्रोत्पन्ना महर्षयः **उपवोचन्त** उपेत्य ब्रुवन्ति । किं कुर्वन्तः । **दाशा** दानेन निमित्तभूतेन हविर्दानार्थं **मथ्नन्तः** अरण्याम् अग्निमन्थनं कुर्वन्तः तथा **भृगवः** भ्रष्टारो हविषां पापानां वा । किं च **यः** **अग्निः** **शुचिः** दीप्तः **धर्णिः** धारणकुशलः अयमग्निः **एषां** दीयमानानां **वसूनां** हविर्लक्षणानाम् **ईशे** ईष्टे समर्थों भवति ॥ ‘ लोपस्त आत्मनेपदेषु ' इति तलोपः ॥ यद्वा । एषां दृश्यमानानां मणिमुक्तादीनां वसूनाम् ईशे ईष्टे समर्थो भवति प्रदातुमिति शेषः। किंच अयमग्निः **मेधिरः** । मेधो यज्ञः । तद्वान् स्वयं यष्टव्यत्वेन प्रधानभूतः सन् **प्रियान्** स्वप्रीतिहेतून् आज्यादीन् **अपिधीन्** पर्याप्तिपर्यन्तं दत्तान् । **वनिषीष्ट** संभक्तवान् संभजतां वा । तथा **मेधिरः** मेधावानसौ **आ** **वनिषीष्ट** । अन्यदेवताकेष्वपि यज्ञेषु स्वयम् आज्यभागप्रयाजादिरूपं हविः संभजते ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -158,14 +158,14 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **Dvitā** yad im krīstāsaḥ, celebrating him as twofold; i.e. either as recognized in both the **Śruti** and **Smṛti**, the books of religion and law; or, as the giver of happiness in both this world and the next; or, as manifold in the Āhavanīha and other fires, 'two' connoting multiple or many
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, yet again, the heaven-bound praisers, the Bhr̥gus, tendering  homage, invoke him—the Bhr̥gus, plundering (the fire from heaven),  churning it with piety—  
 Agni is lord of goods, the blazing one who is their holder—  
 then his dear coverings the wise one should seek to win—the wise one  should seek to win here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most take kīstá- in pāda as a PN, a further specification of the Bhṛgus, and this is a tempting way to avoid dealing with the word. However, it is more difficult to take it as a PN in its only other appearance in the RV (and indeed anywhere) at VI.67.10. I therefore follow the interpr. going back at least to Sāyaṇa, ‘praiser’. EWA has a reasonably plausible scenario for getting it as a hypersanskritization of a MIA form of *kīrtha-, beside kīrtí- ‘praise’, etc.
 
@@ -176,29 +176,29 @@ The identity of the “dear coverings” is not clear. Geldner suggest, for exam
 On the isolated precative vaniṣīṣṭa see Narten (SigAor. 236-37), who points out that its object is also a hapax and considers it an “Augenblicksbildung des Dichters.” The “wise one” (médhira-) is probably Agni himself, as often, and the med. form of the verb would support this identification.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as they who sang forth hymns, addressed to heaven, the Bhrgus with their prayer and praise invited him, the Bhrgus rubbing, offering gifts.  
      For radiant Agni, Lord of all these treasures, is exceeding strong.  
      May he, the wise, accept the grateful coverings, the wise accept the coverings.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When forsooth the Kîstas 1 striving for heaven, when the Bhrigus have addressed him paying reverence—the Bhrigus producing him by attrition, with worship: Agni is the lord of goods, the bright one, who is their 2 supporter. May the wise one accept the wonted coverings 3; may the wise one accept them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ihn aufs neue die dem Himmel zugetanen Kista´s, die Bhrigu´s ehrerbietig zum Kommen überredeten, die Bhrigu´s ihn unter Opferspenden austreibend - der reine Agni gebeut über die Güter, der ihr Bewahrer ist - so möge der Weise die lieben Verschlüsse überwinden, der Weise möge Überwinder sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So als die Dichter, die zum Himmel strebenden, die Bhrigu's ihn anbetend luden zu sich ein, die Bhrigus reibend andachtsvoll; – Der Güter Herr ist Agni ja, ihr flammender Bewahrer er; Die lieben Tränke nehm' der weise huldreich an, der weise nehm' sie huldreich an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С тех пор как с самого начала небесные певцы  
 Бхригу пригласили его, поклоняясь,  

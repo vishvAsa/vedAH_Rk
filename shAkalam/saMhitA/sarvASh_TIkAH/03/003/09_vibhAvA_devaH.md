@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विभा꣡वा देवः꣡ सुर꣡णः प꣡रि क्षिती꣡र्  
 अग्नि꣡र् बभूव श꣡वसा सुम꣡द्रथः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उ꣡प भूषेम द꣡म आ꣡ सुवृक्ति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । व्र॒तानि॑ । भू॒रि॒ऽपो॒षिणः॑ । व॒यम् । उप॑ । भू॒षे॒म॒ । दमे॑ । आ । सु॒वृ॒क्तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
@@ -134,42 +134,42 @@ genre M
 विभावादीप्तिमान् देवः स्तूयमानः सुरणः अत्रवर्णलोपश्छान्दसः शोभनंरमयतीति सुरमणः सुदद्रथः शोभनरथः अग्निः शवसाबलेन क्षितीः सर्वाः प्रजाः परिबभूव परितोगृह्णाति अत्रभव तेरुपसर्गवशात्परिग्रहार्थत्वं भूरिपोषिणः बहूनाम्पोषयितुः पालयितुः दमे यज्ञगृहे दमइतिगृह नामसुपाठात् निवसतः तस्याग्नेर्व्रतानिकर्माणि वयंसुवृक्तिभिः स्तोत्रैः आसर्वतःउपभूषेम उपभू षयामः प्रकाशयामः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The resplendent and adorable **Agni**, riding in an auspicious chariot, has comprehended the whole earth by his vigour; let us glorify with fit praises the acts of that cherisher of multitudes in his own abode.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The far-radiant god, the great delight, Agni with his chariot and  through his vast power has surrounded the settlements.  
 We would attend to the commandments of him who prospers  
 abundantly here in our house by means of our well-twisted hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni the God resplendent, giver of great joy, hath on his lovely car compassed the lands with, might.  
      Let us with pure laudations in his house approach the high laws of the nourisher of multitudes.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The resplendent, joyous god, Agni on his chariot, has with his might encompassed the dwellings. May we honour in our house with beautiful prayers 1 his commands who is rich in manifold prosperity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der strahlende erfreuliche Gott Agni umfängt schützend die Wohnsitze mit seiner Macht auf schönem Wagen. Wir wollen seiner Dienste, des Viellabenden im Hause mit Lobesliedern warten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreuend weilte Agni in den Wohnungen, der lichte Gott mit seinem Wagen voller Kraft; Befolgen lasst uns in dem Haus mit Lobgesang des nahrungsreichen Agni heil'ge Satzungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бог, сверкающий далеко, благоприятный в сражениях, Агни  
 Охватил (своей) силой поселения (людей), (он) с прекрасной колесницей,  

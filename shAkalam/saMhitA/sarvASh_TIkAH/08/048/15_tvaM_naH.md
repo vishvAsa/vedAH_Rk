@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नः सोम विश्व꣡तो वयोधा꣡स्  
 तुवं꣡ सुवर्वि꣡द् आ꣡ विशा नृच꣡क्षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पाहि꣡ पश्चा꣡ताद् उत꣡ वा पुर꣡स्तात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 त्वम् । नः॒ । इ॒न्दो॒ इति॑ । ऊ॒तिऽभिः॑ । स॒ऽजोषाः॑ । पा॒हि । प॒श्चाता॑त् । उ॒त । वा॒ । पु॒रस्ता॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -134,7 +134,7 @@ genre D
 हे **सोम** **त्वं** **नः** अस्माकं **विश्वतः** सर्वाभ्यो दिग्भ्यः **वयोधाः** अन्नदाता । तथा **त्वं** **स्वर्वित्** स्वर्गलम्भकः **नृचक्षाः** सर्वमनुष्यद्रष्टा त्वम् **आ** **विश** । हे **इन्दो** **त्वं** **सजोषाः** सह प्रीयमाणः सन् **ऊतिभिः** सह । अथवीतयो गन्तारो मरुतः । तैः सहितः सन् **पश्चात्तात्** पश्चात् **उत** वा **पुरस्तात्** च पाहि ॥ ॥ १३ ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,7 +145,7 @@ genre D
 With your protecting powers:ūtyaḥ = **Maruts**, gantāraḥ, ava gatau
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Soma, confer vitality on us on all sides; you, as finder of the sun,  possessing the eye of men—enter us.  
 You, o drop, along with your help—protect us from behind and also  from in front.  
@@ -156,28 +156,28 @@ The text of these hymns is in general less well transmitted than the rest of  th
 stitution but keeping the grammar the same, and one can imagine that the  two hymns represent separate realizations of a set pedagogical task. However,  whatever the reason for their coupling, the pairs afford us interesting insights  into the composition of R̥gvedic hymns. For this reason, as well as the fact  that puzzles in one hymn of the pair are sometimes illuminated by the parallel  passages in the other, we will comment on the first two sets of paired hymns  together.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On all sides,. Soma, thou art our life-giver: aim of all eyes, light-finder, come within us.  
      Indu, of one accord with thy protections both from behind and from before preserve us.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Thou, Soma, givest strength to us on all sides. Light-finder, watching men, within us enter. Do thou, O Indu, with thine aids accordant, Behind for ever and before protect us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei du, o Soma, uns allenthalben ein Kraftverleiher, geh als Himmelslichtfinder, als Aufseher in uns ein! Schütze du Saft uns im Verein mit deinen Schutzgeistern von hinten oder auch von vorn!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In uns geh ein von allen Seiten, Soma, uns Glanz verschaffend, auf uns Männer schauend, O Indu, du vereint mit deinen Hülfen, beschirme uns von vorne und von hinten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты нам, сома, повсюду (будь) наделителем жизненной силы!  
 Ты войди ( в нас), создавая солнечный свет, о (бог) со взглядом героя!  

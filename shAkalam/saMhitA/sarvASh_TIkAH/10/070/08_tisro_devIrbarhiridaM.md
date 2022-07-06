@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ति꣡स्रो देवीर् बर्हि꣡र् इदं꣡ व꣡रीय  
 आ꣡ सीदत चकृमा꣡ वः सियोन꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡ळा देवी꣡ घृत꣡पदी जुषन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒नु॒ष्वत् । य॒ज्ञम् । सुऽधि॑ता । ह॒वींषि॑ । इळा॑ । दे॒वी । घृ॒तऽप॑दी । जु॒ष॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], vocative, plural, feminine
@@ -120,36 +120,36 @@ genre M
 हे तिस्रो **देवीः** इळाद्यास्तिस्रो देव्यः **वरीयः** उरुतरम् **इदं** **बर्हिः** **आ** **सीदत** ।  कालाध्वनोः° ' इति द्वितीया । अत्यन्तं तस्मिन्निषीदत । कुत एतत् तत्राह । **वः** युष्मदर्थं **स्योनं** विस्तीर्णमिदं **चकृम** वयं कृतवन्तः । वाक्यभेदादनिघातः। **इळा** एतन्नामिका **देवी** द्योतमाना सरस्वती **घृतपदी** दीप्तपदोपेता भारती च एताः **मनुष्वत्** मनोर्यज्ञे यथा हवींष्यसेवन्त तद्वदस्मदीयं **यज्ञं** **सुधिता** सुष्ठु निहितानि **हवींषि** च **जुषन्त** सेवन्ताम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sit down, you three goddesses, upon this broad **barhis**, we have spread it out for you; Iḷā, radiant(**Sarasvatī**) and bright-footed (**bhāratī**) accept our sacrifice and well-presented oblations as if they wereManu's.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You three goddesses—sit here upon this wider ritual grass: we have  made a comfortable place for you.  
 As in the time of Manu, they—Iḷā, the goddess with feet of ghee, (and  the other goddesses)—take pleasure in our sacrifice and our properly  placed oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On our wide grass, Three Goddesses be seated: for you have we prepared and made it pleasant.  
      May Ila, she whose foot drops oil, the Goddess, taste, man-like, sacrifice and well-set presents.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr drei Göttinnen setzet euch auf dieses Barhis so breit als möglich; wir haben es euch bequem gemacht! Wie bei Manu sollen sie und die schmalzspurige Göttin Ila an dem Opfer und den wohlbereiteten Spenden Gefallen finden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr drei Göttinnen, setzet auf die Streu euch, die weit sich dehnt, wir machten sie euch lieblich; Es schmecke Ida und die segnend wandern nach Menschen Art das Opfer und die Tränke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О три  
 богини,  

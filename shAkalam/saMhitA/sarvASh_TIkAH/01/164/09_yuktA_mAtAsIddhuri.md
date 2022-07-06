@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युक्ता꣡ माता꣡सीद् धुरि꣡ द꣡क्षिणाया  
 अ꣡तिष्ठद् ग꣡र्भो वृजनी꣡षु अन्तः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विश्वरूपि꣡यं त्रिषु꣡ यो꣡जनेषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अमी॑मेत् । व॒त्सः । अनु॑ । गाम् । अ॒प॒श्य॒त् । वि॒श्व॒ऽरू॒प्य॑म् । त्रि॒षु । योज॑नेषु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuktā* ← *yuj*
 - \[verb noun\], nominative, singular
@@ -120,7 +120,7 @@ popular
 **माता** । निर्मीयन्ते अस्मिन् भूतानीति माता द्यौः । **दक्षिणायाः** अभिमतपूरणसमर्थायाः पृथिव्याः **धुरि** निर्वहणे **युक्ता** **आसीत्** वर्षणाय समर्थाभूदित्यर्थः । कथमिति तदुच्यते । **गर्भः** गर्भस्थानीयः उदकसंघः **वृजनीषु** उदकवत्सु मेघपङ्क्तिषु **अन्तः** मध्ये **अतिष्ठत्** तिष्ठति । अनन्तरं **वत्सः** पुत्रस्थानीयः उदकसंघः **त्रिषु** **योजनेषु** मेघरश्मिवायुषु संयुक्तेषु सत्सु **अमीमेत्** वर्षणसमये शब्दयति । अनन्तरं **विश्वरूप्यं** विश्वरूपवतीं **गाम्** **अनु** **अपश्यत्** अनुक्रमेण पश्यति वर्षतीत्यर्थः । यद्वा । त्रिषु योजनेषु सत्सु वत्सो मेघो वर्षणाय गां भूमिं प्रति अमीमेत् । अनन्तरं सर्वो जनोऽनुक्रमेण विश्वरूप्यं सस्यादिभिर्नानारूपवतीं भूमिम् अपश्यत् पश्यति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ popular
 The calf bellowed: the cloud thundered; the omniform cow: viśvarūpyam gām triṣu yojaneṣu = the earth diversified by various crops in consequence of the co-operation of the cloud, the wind, and the rays of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mother was harnessed to the yoke-pole of the sacrificial reward;  her child stood up amid the penned cows.  
 The calf [=Agni] bellowed and looked toward the cow of every color  [=Dawn], three wagon-treks (in the distance).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yoked was the Mother to the boon Cow's car-pole: in the dank rows of cloud the Infant rested.  
      Then the Calf lowed, and looked upon the Mother, the Cow who wears all shapes in three directions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Mutter war ins Joch der Daksina eingespannt, das Kind stand unter den ........ Das Kalb brüllte, es sah sich nach der Kuh um, nach der allfarbigen drei Wegstrecken weit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Mutter war geschirrt an die Deichsel der reichlich milchenden Kuh [etwa des Opfers?], der neugeborene [wol Feuer und Sonne als eins gedacht] stand da mitten unter den Wolkenkühen; es brüllte das Kalb, es blickte hin zu der vielgestaltigen Mutterkuh drei Strecken weit [Morgen, Mittag, Abend].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мать запряжена была в ярмо дакшины.  
 Плод пребывал внутри загонов.  

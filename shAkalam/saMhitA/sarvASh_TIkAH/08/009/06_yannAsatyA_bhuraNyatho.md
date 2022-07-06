@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡न् नासत्या भुरण्य꣡थो  
 य꣡द् वा देव भिषज्य꣡थः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 हवि꣡ष्मन्तं हि꣡ ग꣡छथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । वा॒म् । व॒त्सः । म॒तिऽभिः॑ । न । वि॒न्ध॒ते॒ । ह॒विष्म॑न्तम् । हि । गच्छ॑थः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yan* ← *yat*
 - \[adverb\]
@@ -110,7 +110,7 @@ genre M
 हे **नासत्या** सत्यस्वभावावश्विनौ **यत्** यौ युवां **भुरण्यथः** सर्वं जगत्पोषयथः। ‘भुरण् धारणपोषणयोः' । कण्ड्वादिः । हे **देवा** दानादिगुणयुक्तावश्विनौ । छान्दसः सांहितिको ह्रस्वः । **यद्वा** यौ च युवां **भिषज्यथः** सर्वस्य प्राणिजातस्य भैषज्यं रोगोपशमनं कुरुथः । ‘भिषज् चिकित्सायाम् । अयमपि कण्ड्वादिः । तौ **वां** युवाम् **अयं** वत्सः स्तोता **मतिभिः** मननीयैः केवलैः स्तोत्रैः **न** **विन्धते** न विन्दते न लभते । वर्णविकारश्छान्दसः। कुत इति चेत् उच्यते । **हविष्मन्तं** हविर्भिर्युक्तं स्तोतारं **हि** युवां **गच्छथः** । तस्माद्युवां हविर्भिर्युक्तैः स्तोत्रैः प्रसीदथ इति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,13 +121,13 @@ genre M
 Yet this your adorer:praise, to be efficacious, must be accompanied by offerings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Even) when you are bustling about, Nāsatyas, or when you are engaged  in healing, o gods,  
 this Vatsa does not get enough of his poetic thoughts for you—for you  go to the man with an offering.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rendering of ná vindhate in the published translation is opaque. By “does not get enough” I meant something like “produces in superfluity” -- from Vatsa’s point of view, there can never be enough praises for the Aśvins.
 
@@ -149,23 +149,23 @@ Geldner (also Lüders), flg. Ludwig, takes átharvaṇi rather bizarrely as a no
 Nor does there seem any reason not to take it as the name of a priest, as it is elsewhere (pace Sāyaṇa., Oldenberg). I take it as a loc. absol. without an overt participle marking it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What force, Nasatyas, ye exert, whatever, Gods, ye tend and heal,  
      This your own Vatsa gains not by his hymns alone: ye visit him who offers gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ob ihr Nasatya´s auf der Wanderschaft seid, oder ob ihr beiden Götter die Heilkunst ausübet, dieser Vatsa kann sich für euch an frommen Gedanken nicht genug tun; ihr kommet ja zu einem Opfernden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, treue, ihr zu Thaten eilt, wenn ihr, o Götter, Heilung wirkt; Hier diesem eurem Vatsa fehlt's an Liedern nicht; so kommt zum opferreichen denn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Насатьи, вы кидаетесь (на помощь)  
 Или когда, о два бога, вы исцеляете, –  

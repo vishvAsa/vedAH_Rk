@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ हिन्वानो꣡ जनिता꣡ रो꣡दसीयो  
 र꣡थो न꣡ वा꣡जं सनिष्य꣡न्न् अयासीत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वा व꣡सु ह꣡स्तयोर् आद꣡धानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । गच्छ॑न् । आयु॑धा । स॒म्ऽशिशा॑नः । विश्वा॑ । वसु॑ । हस्त॑योः । आ॒ऽदधा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 **हिन्वानः** प्रेर्यमाणोऽध्वर्य्वादिभिः **जनिता** उत्पादयिता रोदस्योः द्यावापृथिव्याः । तयोः जनयितृत्वं वृष्टिप्रदानहविष्प्रापणाभ्याम् । तादृक्सोमः **वाजम्** अन्नं **सनिष्यन्** दास्यन् **प्र** **अयासीत्** प्रगच्छति । **इन्द्रं** **गच्छन्** प्राप्नुवन् **आयुधा** आयुधानि **संशिशानः** सम्यक् तीक्ष्णीकुर्वन्निन्द्रसाहाय्यगमनार्थं तीक्ष्णायुधः सन् **विश्वा** सर्वाणि **वसु** वसूनि **हस्तयोरादधानः** अस्मभ्यं दानाय । एवं कुर्वन् प्रायासीत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,34 +126,34 @@ genre M
 Advances: prayacchati, bestows; **Soma** is the genitive rator of earth by giving rain, and of heaven by obtaining the oblation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being propelled, the begetter of the two worlds has driven forth like a  chariot, striving to win the prize,  
 going to Indra, sharpening his weapons, taking all goods in his hands.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The fut. part. saniṣyán in b potenially contrasts with the desid. part. síṣāsan in 4c, though I have tr. them the same, and it is not clear whether they are expressing truly different nuances. Nonetheless the future part. here could be tr. “being about to win the prize.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 URGED On, the Father of the Earth and Heaven hath gone forth like a car to gather booty,  
      Going to Indra, sharpening his weapons, and in his hand containing every treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zur Eile getrieben hat der Schöpfer beider Welten wie ein Wagen, der den Siegerpreis gewinnen soll, seine Fahrt begonnen. Zu Indra geht er die Waffen schärfen, alle Güter hält er in Händen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon naht entsandt der Zeuger beider Welten gleich einem Wagen, der den Preis erstrebet; Zu Indra gehend, seine Waffen wetzend und in den Händen alle Güter haltend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Посланный вперед родитель двух миров  
 Отправился, словно колесница, стремясь захватить награду.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡स् ते म꣡द इन्दर+ र꣡न्तियो भूद्  
 दु꣡रो गि꣡रो अभि꣡ उग्रो꣡ वि꣡ धाव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ त्वा शक्याम् उपमं꣡ रा꣡धो अ꣡न्नैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कत् । वाहः॑ । अ॒र्वाक् । उप॑ । मा॒ । म॒नी॒षा । आ । त्वा॒ । श॒क्या॒म् । उ॒प॒ऽमम् । राधः॑ । अन्नैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -145,36 +145,36 @@ genre M
 हे **इन्द्र** **ते** तवेपन्मध्यमोत्तमानां सोमजन्यानां मदानां मध्ये कः **मदः** **रन्त्यः** रमयिता प्रीतिकरः **भूत्** भवति । त्वत्प्रीतिकरमदयोग्यसोमदानाभिप्रायेणायं प्रश्नः । **उग्रः** ओजस्वी त्वं **दुरः** यज्ञगृहद्वाराणि **गिरः** स्तुतिलक्षणा वाचश्च **अभि** **वि** **धाव** अभ्यागच्छ । किंच **कत्** कदा **वाहः** । इन्द्रं प्रत्युह्यत इति वाहः सोम उच्यते । एवंभूतः **अर्वाक्** त्वत्प्रसादात्फलदानायास्मदभिमुखो भविष्यतीति शेषः । अपि च कदा **मनीषा** सवार्थदर्शिनी प्रज्ञा सर्वगुणग्राहिणी स्तुतिर्वा **मा** मां त्वत्प्रसादात् **उप** गमिष्यतीति शेष: । कदा हे इन्द्र **त्वा** त्वाम् । **आ** इत्युपसर्गश्रुतेर्योग्यपदाध्याहारः। आराध्य वयम् **अन्नैः** सह **राधः** धनम् **उपमं** मत्समीपं **शक्याम्** । शकिरत्र गत्यर्थोऽन्तर्भावितण्यर्थः । संगमयेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What sort of exhilaration, **Indra**, is agreeable to you? You who are powerful hasten to the doors (of thesacrificial chamber) to our praises; when will the **Soma** be present? (When will) intelligence (come) to me? When,having propitiated you, may I acquire wealth and food?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Which exhilarating drink is to be enjoyed by you, Indra? As powerful  one, run to my hymns through the doors.  
 When (will) the vehicle, (that is,) the inspired thoughts, (come) near to  me? I would compel you here to highest generosity with (my offerings  of) food.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What was the gladdening draught that pleased thee, Indra? Speed through our doors to songs, for thou art mighty.  
      Why comest thou to me, what gift attracts thee? Fain would I bring thee food most meet to offer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Rauschtrank ist für dich der Freudenbringende, Indra? Laufe du, der Gewaltige, durch das Tor zu den Lobreden! Welche Anziehungskraft zu mir her übt die Dichtung? Ich möchte dich mit Speisen zur höchsten Freigebigkeit vermögen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Rauschtrank war's, der, Indra, dich erfreute? lauf durch die Thore, starker, zu den Liedern; Wirst du mit Huld zu mir herbei dich wenden? Durch Speisen lock' ich dich zur schönsten Spende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какое же опьянение, Индра, будет тебе угодно?  
 Спеши же как грозный к вратам, к хвалебным песням!  

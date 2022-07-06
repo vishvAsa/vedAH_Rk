@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ स्वाने꣡भिर् ईरत  
 उ꣡द् र꣡थैर् उ꣡द् उ वायु꣡भिः  
 उ꣡त् स्तो꣡मैः पृ꣡श्निमातरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उत् । स्तोमैः॑ । पृश्नि॑ऽमातरः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -93,20 +93,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **स्वानेभिः** स्वानैः शब्दैर्मरुतः **उत्** **ईरते** उद्गच्छन्ति । ‘स्वन शब्दे'। ‘स्वनहसोर्वा ' (पा. सू. ३. ३. ६२ ) इत्यपो विकल्पितत्वात् पक्षे घञ् । ‘कर्षात्वतः' इत्यन्तोदात्तत्वम् ।  ‘ बहुलं छन्दसि' इति भिस ऐसभावः। **उ** इति पूरणः । तथा **रथैः** रथप्रमुखैः वाहनैश्चोदीरते। **पृश्निमातरः** --- ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sons of **Pṛśni** rise up with shouts, with chariots, with winds, with praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up they rise with their sounds [/with (the drops) being pressed], up with  their chariots, and up with the winds;  
 up with praises—they whose mother is Pr̥śni.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/16-17.md">
 <details open><summary><h2>16-17 ...{Loading}...</h2></summary>
 
@@ -118,28 +118,28 @@ On svānébhiḥ in 17a see comm. on 14. Because vss. 16 and 17 are so closely t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With chariots and tumultuous roar, with tempests and with hymns of praise  
      The Sons of Prsni hurry forth.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The sons of Pṛśni rise aloft, With chariots and with rattling sounds, With rushing winds and songs of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie brechen mit Brausen hervor, mit ihren Wagen, mit den Winden, mit Lobgesängen, die Prisnisöhne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Priçnisöhne brechen auf mit lautem Schall, mit Wagenzug, Mit Windsgebraus, mit Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот они взмывают ввысь с шумом,  
 Ввысь с колесницами, ввысь с ветрами,  

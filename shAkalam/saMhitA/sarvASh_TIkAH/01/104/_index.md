@@ -8,7 +8,7 @@ title = "+104"
 ‘ योनिः' इति नवर्चम् एकादशं सूक्तं कुस्सस्यार्षं त्रैष्टुभम् ऐन्द्रम् । 'योनिर्नव' इत्यनुक्रान्तम् । सूक्तविनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 104  
 Indra  
@@ -31,7 +31,7 @@ ing away,” suggests that a notion of expiation and ritual cleansing has been s
 The last word has not been said about this dense and fascinating hymn, but we  hope to have advanced the discussion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

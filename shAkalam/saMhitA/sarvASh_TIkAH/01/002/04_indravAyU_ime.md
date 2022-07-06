@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रवायू इमे꣡ सुता꣡  
 उ꣡प प्र꣡योभिर् आ꣡ गतम्  
 इ꣡न्दवो वाम् उश꣡न्ति हि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द॑वः । वा॒म् । उ॒शन्ति॑ । हि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indravāyū* ← *indra*
 - \[noun\], masculine
@@ -105,20 +105,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Vāyu**, these libations are poured out (for you); come hither with food (for us); verily the drops (of the **Soma** juice) await you both.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Vāyu, here are the soma-pressings: come near with  delight,  
 for the soma drops are eager for you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the comment on the last verse, the ritual model here is shaken up a bit: Indra and Vāyu are urged to come with práyobhiḥ, a word generally used of ‘pleasurable offerings’ that are presented to the gods and to which they come (cf. VIII.60.4 abhí práyāṃsi ... gahi). Our translation “with delight,” agreeing with most other translators, avoids, and conceals, the problem. The gods should not be bringing práyāṃsi. The little disturbance of the ritual model is confined to these two verses in this hymn.
 
@@ -129,7 +129,7 @@ I.2.7-9: As mentioned in the introduction, this tṛca contains the trio dhī́�
 The juxtaposition across vss. 8-9 of krátum (beginning 8c) and kavī́ (beginning 9a) may also be meant to evoke the well-established compound kavíkratu- ‘having the will/resolve of a poet’, ‘having a poet’s purpose’, an occurrence of which is found in the preceding hymn by the same poet (I.1.5).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These, Indra-Vayu, have been shed; come for our offered dainties' sake:  
      The drops are yearning for you both.
@@ -144,17 +144,17 @@ For the drops desire you.
 
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Vayu! Hier sind die gepreßten Tränke; kommet mit Freuden, denn die Somasäfte verlangen nach euch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier, Indra-Vaju, steht der Saft, so kommt zu ihm nach eurer Lust, Die Tropfen sehnen sich nach euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Ваю, вот эти выжатые соки (сомы).  
 Придите с радостными чувствами:  

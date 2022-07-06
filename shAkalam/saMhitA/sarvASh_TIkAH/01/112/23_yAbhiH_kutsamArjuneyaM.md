@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः कु꣡त्सम् आर्जुनेयं꣡ शतक्रतू  
 प्र꣡ तुर्वी꣡तिम् प्र꣡ च दभी꣡तिम् आ꣡वतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । ध्व॒सन्ति॑म् । पु॒रु॒ऽसन्ति॑म् । आव॑तम् । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -130,7 +130,7 @@ genre M;; repeated line
 हे **शतक्रतू** बहुविधकर्माणावश्विनौ **आर्जुनेयम्** । अर्जुन इतीन्द्रस्य नाम । तथा च वाजसनेयकम् - ’एतद्वा इन्द्रस्य गुह्यं नाम यदर्जुनः' इति । तस्य पुत्रं **कुत्सं** **याभिः** ऊतिभिः **प्र** **आवतं** प्रकर्षेणारक्षतम् । तथा **तुर्वीतिं** **दभीतिं** **च** याभिः ऊतिभिः **प्र** आवतम् । अपि च **याभिः** **ध्वसन्तिम्** एतत्संज्ञ **पुरुषन्तिम्** एतन्नामानं च ऋषिम् **आवतम्** अरक्षतम् । **ताभिः** सर्वाभिः **ऊतिभिः** सहास्मानपि सुष्ठ्वागच्छतम् ॥ आर्जुनेयम् ।' शुभ्रादिभ्यश्च ' ( पा. सू. ४. १. १२३ ) इति चशब्दोऽनुक्तसमुच्चयार्थं इत्युक्तत्वात् ढक् । तुर्वीतिम् । ' तुर्वी हिंसार्थः । शत्रूंस्तुर्वतीति तुर्वीतिः । औणादिक ईतिप्रत्ययः । दभीतिम् । ‘दम्भु दम्भे'। औणादिकः कीतिप्रत्ययः । ध्वसन्तिम् । ‘ध्वंसु गतौ च ' । औणादिको झिङ्प्रत्ययः। ‘अनिदिताम्' इति नलोपः । ‘झोऽन्तः' । पुरुषन्तिम् । पुरु सनोति ददातीति पुरुषन्तिः । ‘क्तिच्क्तौ च संज्ञायाम् ' इति क्तिच् ।' न क्तिचि दीर्घश्च' इति अनुनासिकलोपोपधादीर्घयोर्निषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M;; repeated line
 **Śatakratu**, **Indra**, he to whom many rites are addressed, or by whom many acts are performed (here applied to the Aśvins); Puruśanti was a ṛṣi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which, o you of a hundred resolves, you promoted Kutsa  Ārjuneya, promoted Turvīti and Dabhīti,  
 with which you helped Dhvasanti and Puruṣanti—with those forms of  help come here, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith ye, Lords of Hundred Powers, helped Kutsa, son of Arjuni, gave Turviti and Dabhiti strength,  
      Favoured Dhvasanti and lent Purusanti help,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen ihr dem Kutsa, dem Sohn des Arjuna, ihr Ratreichen, und dem Turviti und Dabhiti beistandet, mit denen ihr dem Dhvasanti, dem Purusanti beistandet, - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die ihr mächt'gen Kutsa, Sohn des Ardschuna, und den Turviti und Dabhiti fördertet Und dem Dhvasanti und dem Puruschanti halft, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами), о двое стоумных, вы Кутсу, сына Арджуны,  
 Турвити и Дабхити мощно поддержали,  

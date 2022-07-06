@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ तुवा दूतं꣡ कृण्महे यश꣡स्तमं  
 देवाँ꣡ आ꣡ वीत꣡ये वह  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 रा꣡स्व त꣡द् य꣡त् तुवे꣡महे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑ । सू॒नो॒ इति॑ । स॒ह॒सः॒ । म॒र्त॒ऽभोज॑ना । रास्व॑ । तत् । यत् । त्वा॒ । ईम॑हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -129,36 +129,36 @@ genre M
 हे **सहसः** **सूनो** बलस्य पुत्राग्ने **यशस्तमम्** अतिशयेन यशस्विनं **तं** प्रसिद्धं यं **त्वा** त्वां **दूतं** **कृण्महे** कुर्मः स त्वं **देवान्** **वीतये** हविषां भक्षणाय **आ** **वह** । किंच **यत्** यदा **त्वा** त्वाम् **ईमहे** याचामहे तदैव **विश्वा** विश्वानि मर्तभोजनानि मनुष्याणां भोग्यानि कल्याणानि धनानि **रास्व** अस्मभ्यं देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We constitute you our most renowned messenger; bring the gods to partake (of the oblations); bestowupon us, son of strength, all human blessings; whatsoever we solicit of you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We make you our most glorious messenger. Convey the gods here to  pursue (our oblations).  
 Son of strength, give everything that nourishes mortals; give that which  we beg of you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee, thee Most Glorious One we make our messenger. Bring the Gods hither to the feast.  
      Give us, O Son of Strength, all food that fcedeth man: give that for which we pray to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich machen wir zu unserem angesehensten Boten. Fahr die Götter zur Begehrnis her! Gewähre, du Sohn der Kraft, alle Menschengenüsse, gewähre das, worum wir dich bitten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu unserm Boten machen wir dich herrlichsten, die Götter fahr zum Mahle her; O Sohn der Kraft, und alles, was die Menschen nährt, verleih uns, wenn wir dich erflehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя мы делаем нашим самым славным вестником.  
 Отправляйся, чтобы пригласить богов!  

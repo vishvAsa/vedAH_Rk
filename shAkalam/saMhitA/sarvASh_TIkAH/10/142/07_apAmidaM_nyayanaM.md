@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपा꣡म् इदं꣡ निअ꣡यनं  
 समुद्र꣡स्य निवे꣡शनम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ते꣡न याहि व꣡शाँ अ꣡नु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 अ॒न्यम् । कृ॒णु॒ष्व॒ । इ॒तः । पन्था॑म् । तेन॑ । या॒हि॒ । वशा॑न् । अनु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apām* ← *ap*
 - \[noun\], genitive, plural, neuter
@@ -105,36 +105,36 @@ popular;; epic anuṣṭubh (424)
 इत्थं खाण्डववनस्य दाहे प्रवृत्तमग्निं जरितृप्रभृतयः स्वात्मनो रक्षणकामास्तुष्टुवुः । इदानीं च स्तम्बमित्रः स्वनिवासभूमेर्दहनाभावाय अग्नेरन्यत्र गमनं प्रार्थयते । **इदम्** अस्मदीयं निवासस्थानम् **अपाम्** उदकानां **न्ययनम्** । नियन्ति नितरां गच्छन्त्यस्मिन्निति न्ययनं ह्रदः। तथा **समुद्रस्य** उदधेश्च **निवेशनं** गृहम् । यथा ह्रदः समुद्रस्य स्थानं च यथा दग्धुं न शक्यते तथा दाहयोग्यं न भवत्वित्यर्थः । **इतः** अस्मादस्मदीयात् स्थानात् **अन्यं** **पन्थां** पन्थानं मार्गं हे अग्ने **कृणुष्व** कुरुष्व । **तेन** पथा **वशाननु** यथाकामं **याहि** गच्छ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This is the abode of the waters, the dwelling of the ocean; pursue, **Agni**, a different path from this; goby this (path) according to your plural asure.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the descending course of the waters, here the settling down of  the sea.  
 Make yourself another path from this one here. Proceed along it at will.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is the waters' reservoir, the great abode of gathered streams.  
      Take thou another path than this, and as thou listest walk thereon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist ein Becken der Gewässer, die Behausung der Meerflut. Bereite dir einen anderen Weg als diesen; auf dem geh nach Belieben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist das Herabkommen der Gewässer, das Eingehen des Meeres; schaffe dir einen andern Weg und auf dem gehe nach Gefallen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот доступ у воде,  
 Выход к морю.  

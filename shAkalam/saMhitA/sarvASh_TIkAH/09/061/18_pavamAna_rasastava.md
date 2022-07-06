@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान र꣡सस् त꣡व  
 द꣡क्षो वि꣡ राजति द्युमा꣡न्  
 ज्यो꣡तिर् वि꣡श्वं सु꣡वर् दृशे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ज्योतिः॑ । विश्व॑म् । स्वः॑ । दृ॒शे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
@@ -91,20 +91,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** सोम **तव** त्वदीयः **दक्षः** वृद्धः **द्युमान्** दीप्तिमान् **रसः** **वि** **राजति** प्रकाशते । न केवलं स्वयमेव प्रकाशते किंतु **विश्वं** व्याप्तं **स्वः** सर्वं **ज्योतिः** तेजश्च **दृशे** द्रष्टुं करोतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified **Soma**, your juice as it increases shines bright; it (makes) a pervading universal light to be seen.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Self-purifying one, your potent sap shines forth brilliant,  
 as light for everyone to see the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am, reluctantly, taking dákṣa- as an adj. here (as in IX.62.4), with Geldner and Renou, though it is generally a masc. noun. Alternatively a noun interpr. is possible (cf. Ober I.457 “dein Saft ist Fähigkeit”): “your sap shines forth brilliant as skill” or “… shines as brilliant skill,” though I still prefer the adjectival interpr. See Renou’s disc.
 
@@ -126,23 +126,23 @@ This tṛca is unified by the simple device of stationing a form of pávamāna- 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy juice, O Pavamana, sends its rays abroad like splendid skill,  
      Like lustre, all heaven's light, to see.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Pavamana, dein Saft waltet wirksam, glanzvoll, ist alles Licht, die Sonne zu schauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Saft, o hell erstrahlender, und deine schöne Kraft erglänzt, Ganz Licht, der Sonne gleich zu schaun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Павамана, твой сок,  
 Блистательная сила действия, ярко сверкает,  

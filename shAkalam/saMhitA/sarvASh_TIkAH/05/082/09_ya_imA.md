@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इमा꣡ वि꣡श्वा जाता꣡नि  
 आश्राव꣡यति श्लो꣡केन  
 प्र꣡ च सुवा꣡ति सविता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 प्र । च॒ । सु॒वाति॑ । स॒वि॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -79,20 +79,20 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **यः** देवः **इमा** इमानि **विश्वा** सर्वाणि **जातानि** उत्पन्नान् प्राणिनः । जङ्मानित्यर्थः । तान् **श्लोकेन** यशसा **आश्रावयति** । सर्वेऽप्यस्य स्तुतिं शृण्वन्तीत्यर्थः । अथवा गर्जनशब्देन सर्वाणि इमान्युत्पन्नान्याश्रावयति वृष्ट्युन्मुखः सन् । किंच **सविता** **प्र** **सुवाति** **च** प्रेरयति तं वृणीमहे इति ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Savitā**, who proclaims his glory to all these living beings, and gives them life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who makes all these creatures hearken with his signal-call  
 and will impel (them) forth: Savitar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A further question concerns the last clause of 9c, prá ca suvā́ti savitā́. Geldner (fld.
 
@@ -111,23 +111,23 @@ prns. yáḥ hang off the accs. in vs. 7, but it is possible that the vs.-final 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who gives glory unto all these living creatures with the song,  
      And brings them forth, is Savitar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der alle diese Geschöpfe mit seinem Weckruf anruft, wenn Savitri seine Weisungen gibt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der alles hier geborene mit seinem lauten Schall erfüllt, Und Gut uns schaffe, Savitar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто ко всем этим существам  
 Обращается (со своим) возгласом,  

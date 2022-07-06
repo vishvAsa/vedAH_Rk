@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रे꣡तो꣡ मुञ्चा꣡मि ना꣡मु꣡तः  
 सुबद्धा꣡म् अमु꣡तस् करम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सुपुत्रा꣡ सुभ꣡गा꣡सति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 यथा॑ । इ॒यम् । इ॒न्द्र॒ । मी॒ढ्वः॒ । सु॒ऽपु॒त्रा । सु॒ऽभगा॑ । अस॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *preto* ← *pretaḥ* ← *pre* ← *√i*
 - \[verb noun\], nominative, singular
@@ -121,7 +121,7 @@ popular;; epic anuṣṭubh (380)
 **इतः** पितृकुलात् **प्र** **मुञ्चामि** त्वां **नामुतः** भर्तृगृहात्प्रमुञ्चामि । **अमुतः** भर्तृगृहे **सुबद्धां** **करम्** । **यथेयं** कन्या हे **इन्द्र** **मीढ़्वः** सेक्तः **सुपुत्रा** **सुभगा** सुष्ठुभाग्या वा **असति** भवति तथा कुरु ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ popular;; epic anuṣṭubh (380)
 I set you free not from here: i.e., from the father'sfamily not from the bridegroom's
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I release (her) from here, not from yonder. I have made her well bound  yonder,  
 so that, o Indra the rewarder, this woman here will have good sons,  
 good fortune.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hence, and not thence, I send these free. I make thee softly fettered there.  
      That, Bounteous Indra, she may live blest in her fortune and her sons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich löse die von hier, nicht von dort; dort mache ich sie festgebunden, auf daß diese, o belohnender Indra, schöne Söhne habe und beliebt sei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von hier mache ich dich frei, nicht von dort; schön verbunden mache ich dich dort, damit diese, o gnädiger Indra, reich an Söhnen sei und reich an Glück.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отсюда освобождаю я, не оттуда!  
 Там я сделаю ее прочно привязанной,  

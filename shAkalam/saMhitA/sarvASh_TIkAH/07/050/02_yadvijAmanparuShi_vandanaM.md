@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् विजा꣡मन् प꣡रुषि व꣡न्दनम् भु꣡वद्  
 अष्ठीव꣡न्तौ प꣡रि कुल्फउ꣡ च दे꣡हत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ मा꣡म् प꣡द्येन र꣡पसा विदत् त्स꣡रुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 अ॒ग्निः । तत् । शोच॑न् । अप॑ । बा॒ध॒ता॒म् । इ॒तः । मा । माम् । पद्ये॑न । रप॑सा । वि॒द॒त् । त्सरुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -137,7 +137,7 @@ popular;; repeated line
 **वन्दनम्** एतत्संज्ञकं **यत्** विषं **विजामन्** विविधजन्मनि **परुषि**  वृक्षादीनां पर्वणि **भुवत्** उद्भवेत् । यच्च विषम् **अष्ठीवन्तौ** जानुनी **कुल्फौ** गुल्फौ **च** **परि** **देहत्** । ‘दिह उपचये। उपचितं कुर्यात् । **अग्निः** देवः **शोचन्** दीप्यमानः सन् **इतः** अस्माज्जनात् **तत्** विषम् **अप** **बाधताम्** अपहन्तु । शिष्टं व्याख्यातम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ popular;; repeated line
 Knots of trees: yad vijāman paruṣi vandanam = vandanam etat sanjñakam viṣam: **vandana** is apoison so named; yad **vividha** janmani vṛkṣādīnām **parvaṇi** udbhavet, which may originate in thevariously-born joints of trees and others; Smeared upon knees: aṣṭhīvantau parikulphau ca dehat: paridehat =upacitam kuryāt, let him smear
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What eruption will appear on the vijāman joint and will become smeared  over the knees and ankles,  
 let blazing Agni force that away from here. – Let not the creeping thing  find me, bringing a disease of the foot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eruption that appears upon the twofold joints, and that which overspreads the ankles and the knees,  
      May the refulgent Agni banish far away let not the winding worm touch me and wound my foot.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Ausschlag, der an einem Zwillingsgelenk ist, der die Kniegelenke und Fußknöchel überzieht, den soll das brennende Feuer von da vertreiben.-Nicht soll mich der Schleicher mit seinem Fußschaden heimsuchen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Ausschlag sich am doppelten Gelenke zeigt, und der die Knöchel der Gebeine überzieht, Den strahle fort, o Agni, jag ihn weg von hier, nicht treffe mich der Wurm, der Leid am Fusse schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) сыпь, которая бывает на парном суставе,  
 Покрывает коленные чашечки и лодыжки,  

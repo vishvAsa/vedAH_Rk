@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ क्षोणी꣡भ्याम् परिभु꣡वे त इन्द्रियं꣡  
 न꣡ समुद्रइः꣡ प꣡र्वतैर् इन्द्र ते र꣡थः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡द् आशु꣡भिः प꣡तसि यो꣡जना पुरु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 न । ते॒ । वज्र॑म् । अनु॑ । अ॒श्नो॒ति॒ । कः । च॒न । यत् । आ॒शुऽभिः॑ । पत॑सि । योज॑ना । पु॒रु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -134,14 +134,14 @@ genre M
 हेइन्द्र तेतवइन्द्रियम्बलङ्क्षोणीभ्यान्द्यावापृथिवीभ्यान्नपरिभ्वे नपरिभवनीयङ्क्रुत्यार्थेतवैकेन्केन्य- त्वनइतिकेन्प्रत्ययः उदात्तस्वरितयोरितिस्वरितत्वं किञ्च तेरथः समुद्रैः पर्वतैश्चनपरिभवनीयः तेव- ज्रमायुधङ्कश्चनपुमान् नान्वश्नोति नव्याप्नोतिपरिभवितुं अशूव्याप्तौव्यत्ययेनपरस्मैपदम् यद्यदाऽ– सुरवधार्थन्दिग्विजयकाले आशुभिः शीघ्रगामिभिरश्वैः पुरुपुरूणिबहूनियोजनायोजनानिपतसि गच्छसि तदातवबलादिनपरिभवनीयमितिसमन्वयः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your might, **Indra**, is not to be overcome by (that of) heaven and earth; nor is your chariot (to be stopped) by oceans or by mountains; no one can escape from your thunderbolt, when you traverse many leagues with rapid (horses).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your Indrian power cannot be encompassed by the twin battle cries  [=heaven and earth], nor can your chariot by the seas and the  
 mountains, o Indra.  
@@ -149,23 +149,23 @@ No one is equal to your mace when with your swift (horses) you fly
 through many leagues.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not by both worlds is thine own power to be surpassed, nor may thy car be stayed by mountains or by seas.  
      None cometh near, O Indra, to thy thunderbolt, when with swift steeds thou fliest over many a league.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht können beide Heere deine Indrakraft umspannen, nicht die Meere, die Berge deinen Wagen, o Indra. Deine Keule holt keiner ein, wenn du mit den Rennern viele Meilen dahinfliegst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Welten beid' umfassen deine Grösse nicht, nicht deinen Wagen Berge noch das weite Meer; Und deinen Blitz, o Indra, holt kein andrer ein, wenn mit den Raschen hundert Meilen du durchfliegst,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни присущую тебе силу не ограничить двумя мирами,  
 Ни колесницу твою, о Индра, – морями (и) горами!  

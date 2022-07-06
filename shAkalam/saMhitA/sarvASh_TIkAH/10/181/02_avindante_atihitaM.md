@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡विन्दन् ते꣡ अ꣡तिहितं य꣡द् आ꣡सीद्  
 यज्ञ꣡स्य धा꣡म परमं꣡ गु꣡हा य꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भर꣡द्वाजो बृह꣡द् आ꣡ चक्रे अग्नेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 धा॒तुः । द्युता॑नात् । स॒वि॒तुः । च॒ । विष्णोः॑ । भ॒रत्ऽवा॑जः । बृ॒हत् । आ । च॒क्रे॒ । अ॒ग्नेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avindan* ← *vid*
 - \[verb\], plural, Imperfect
@@ -134,7 +134,7 @@ popular
 **ते** धात्रादयः तत् **अविन्दन्** अलभन्त **यत्** बृहत्सामाख्यं घर्मस्य हविषः संस्कारकम् **अतिहितं** तिरोहितम् **आसीत्** । **यत्** च बृहत्साम **यज्ञस्य** ज्योतिष्टोमादेः **परमम्** उत्कृष्टं **धाम** धारकं शरीरभूतं वा **गुहा** गुहायामस्मदादिविषये निहितमासीत् तत्ते धात्रादयोऽलभन्त । तेभ्यः **अग्नेः** **च** सकाशात्तत् **बृहत्** साम **भरद्वाजः** ऋषिः **आ** **चक्रे** आभिमुख्येन कृतवान् । आहृतवानित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ They: i.e.,Dhātā, Savitā etc.;
 Bṛhat: bṛhat is also a portion of the **Sāmaveda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They found what was placed beyond, what was the highest hidden  domain of the sacrifice:  
 from the flashing Founder and from Savitar and Viṣṇu, from Agni, has  Bharadvāja brought here the Br̥hat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These sages found what lay remote and hidden, the sacrifice's loftiest secret essence.  
      From radiant Dhatar, Savitar, and Visnu, from Agni, Bharadvaja brought the Brhat.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die fanden es, das entrückt war, was die höchste Geheimform des Opfers ist: vom glänzenden Schöpfer und von Savitri und Vishnu, von Agni, hat Bharadvaja das Brihat geholt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es fanden diese das, was verborgen war, die höchste Stätte des Opfers, die ins Versteck gelegt war; und das bṙhát-Lied hat sich Bharadvādscha herbeigeschafft vom glänzenden Dhātar, vom Savitar und Vischnu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они нашли (то,) что было спрятано,  
 Высшую форму жертвы, которая сокрыта.  

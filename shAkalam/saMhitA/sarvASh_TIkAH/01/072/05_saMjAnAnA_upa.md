@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 संजानाना꣡ उ꣡प सीदन्न् अभिज्ञु꣡  
 प꣡त्नीवन्तो नमसि꣡यं नमस्यन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡खा स꣡ख्युर् निमि꣡षि र꣡क्षमाणाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रि॒रि॒क्वांसः॑ । त॒न्वः॑ । कृ॒ण्व॒त॒ । स्वाः । सखा॑ । सख्युः॑ । नि॒ऽमिषि॑ । रक्ष॑माणाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃjānānā* ← *saṃjānānāḥ* ← *saṃjñā* ← *√jñā*
 - \[verb noun\], nominative, plural
@@ -120,7 +120,7 @@ genre M
 रक्षमाणाः । कर्मणि लटः शानच् । यकि प्राप्ते व्यत्ययेन शप् ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,14 +131,14 @@ genre M
 Adhijñu, upon their knees: applied to **Agni** kneeling before them; **devāḥ** yajñam atanvata, the gods verily constituted the sacrifice (**Aitareya** **Brāhmaṇa** 2.11)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Coming to an agreement, they reverently approached him on bended  knee; along with their wives, they did reverence to the one worthy of  reverence.  
 Having given up their bodies, they made (each other’s bodies) their  
 own, guarding them (as) a comrade does (that of) his comrade when  he closes his eyes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On this verse as an expression of the Tānunāptra ritual see Proferes 2007: 59.
 
@@ -149,28 +149,28 @@ This seems unlikely to me, in part because pátnīvant- only qualifies gods (exc
 Most tr. take ririkvā́ṃsas tanvàḥ kṛṇvata svā́ḥ to mean “having abandoned their former bodies, they took on their own (new bodies),” but this is somewhat incoherent: were their old bodies any less “their own” than the putative new ones? Proferes’s tr. (p. 59) seems self-contradictory, “Having yielded their bodies, they made [their bodies] their own,” but his explanation makes sense of this: they “overcome their atomization by relinquishing their ‘bodies’ in the course of a fire rite; they thus make their own (svā́ḥ) the collectivity of their own individual bodies, which is to say that each individual within the group identifies with the ‘bodies’ of all the others.” By taking kṛṇvata as reciprocal, as I do, rather than just reflexive, this sense can be found in the passage directly.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nigh they approached, one-minded, with their spouses, kneeling to him adorable paid worship.  
      Friend finding in his own friend's eye protection, they made their own the bodies which they chastened.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Being like-minded they reverentially approached him on their knees. Together with their wives they venerated the venerable one. Abandoning their bodies they made them their own, the (one) friend waking when the (other) friend closed his eyes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eines Sinnes geworden nahten sie kniebeugend mit ihren Gattinnen und huldigten ihm, dem Huldigung gebührt. Nachdem sie die bisherigen Leiber aufgegeben hatten, nahmen sie die ihrigen an, indem ein Freund wachte, während der Freund die Augen schloß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie sassen eines Sinnes kniend um ihn mit ihren Fraun, den ehrenwerthen ehrend, Hingebend schafften sie sich neue Leiber, der eine achtend auf den Wink des andern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Став единодушными, они приблизились коленопреклоненно  
 Вместе с женами (и) поклонились ему, достойному поклонения.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡जमानाय सुन्वत꣡  
 आ꣡ग्ने सुवी꣡रियं वह  
 देवइ꣡र् आ꣡ सत्सि बर्हि꣡षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; repeated line
 दे॒वैः । आ । स॒त्सि॒ । ब॒र्हिषि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
@@ -90,40 +90,40 @@ genre M;; repeated line
 हे **अग्ने** **सुन्वते** अभिषवं कुर्वते **यजमानाय** **सुवीर्यं** शोभनं बलम् **आ** **वह** प्रापय । किंच **देवैः** सह **बर्हिषि** यज्ञे **आ** **सत्सि** आसीदेति ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To the instrumental tutor of the rite, pouring out the libation, bring excellent vigour; sit down with the gods upon the sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Convey an abundance of heroes to the sacrificer pressing soma, o Agni! Sit here on our ritual grass along with the gods!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring, Agni, to the worshipper who pours the juice, heroic strength:  
      Sit with the Gods upon the grass.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bring to the sacrificer who presses (Soma), Agni, abundance of heroes. Sit down on the sacrificial grass together with the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Opfernden, dem Somabereitenden bring, o Agni, die Meisterschaft! Setz dich mit den Göttern auf das Barhis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni bring dem opfernden, dem Somapresser Heldenkraft, Mit Göttern setz dich auf die Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для жертвователя, для выжимающего (сому),  
 О Агни, привези обилие прекрасных мужей!  

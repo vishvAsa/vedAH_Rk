@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इन्द्र स꣡स्ति अव्रतो꣡  
 अनुष्वा꣡पम् अ꣡देवयुः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सनुत꣡र् धेहि तं꣡ त꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्वैः । सः । एवैः॑ । मु॒मु॒र॒त् । पोष्य॑म् । र॒यिम् । स॒नु॒तः । धे॒हि॒ । तम् । ततः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 हे इन्द्र अदेवयुः देवान् युष्मानकामयमानः अव्रतोव्रतरहितः कर्मरहितोभूत्वा अनुस्वापं अनुवृत्तस्वप्नं यथाभवति तथा यः सस्ति स्वपिति षसस्वापे आदादिकः सजनः स्वैरात्मीयैः एवैर्गमनैरेव पोष्यं पोषणीयं रयिं स्वीयं धनं मुमुरत् मारयतु विनाशयतु । अमार्गैर्द्यूतादिभिः तस्यधनं नश्यतु नतु देवानां हविःप्रदानेनेति । ततः त्वं तमयष्टारं जनं सनुतरित्यन्तर्हितनाम सनुतः अन्तर्हिते कर्मरहिते कस्मिंश्चिद्देशे धेहि स्थापय ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ genre M
 By his own evilcourses: by gambling etc.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who slumbers sleepily not following the commandments, not  following the gods, o Indra,  
 through his own activities he will hinder his wealth from prospering.  Put him far away from it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The riteless, godless man who sleeps, O Indra, his unbroken steep,-  
      May he by following his own devices die. Hide from him wealth that nourishes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer, o Indra, weiterschlafend verschläft ohne frommen Dienst, ohne nach den Göttern zu verlangen, der soll durch sein eigenes Trachten den gedeihlichen Besitz verhindern. Diesen halte von ihm fern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer schläft, o Indra, werkelos in Trägheit ohne Gottesdienst, Aus eigner Schuld zerstöre der das Gut, was nährt, den schaffe weit von hier hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, о Индра, спит, не зная обетов,  
 Продолжая спать, не служит богам,  

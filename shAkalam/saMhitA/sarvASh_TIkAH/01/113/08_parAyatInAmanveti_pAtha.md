@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परायतीना꣡म् अ꣡नु एति पा꣡थ  
 आयतीना꣡म् प्रथमा꣡ श꣡श्वतीनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उषा꣡ मृतं꣡ कं꣡ चन꣡ बोध꣡यन्ती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि॒ऽउ॒च्छन्ती॑ । जी॒वम् । उ॒त्ऽई॒रय॑न्ती । उ॒षाः । मृ॒तम् । कम् । च॒न । बो॒धय॑न्ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parāyatīnām* ← *pare* ← *√i*
 - \[verb noun\], genitive, plural
@@ -103,7 +103,7 @@ genre M
 **परायतीनां** परागच्छन्तीनाम् अतीतानामुषसां संबन्धि **पाथः** अन्तरिक्षैकदेशलक्षणं स्थानम् ।  ‘ पाथोऽन्तरिक्षं पथा व्याख्यातम् ' ( निरु. ६. ७) इति यास्कः। अद्यतन्युषाः **अन्वेति** अनुगच्छति । अतीता उषसो यथा व्युष्टा एवमेवैषापि व्युच्छतीत्यर्थः । तथा **आयतीनाम्** आगच्छन्तीनां **शश्वतीनां** बह्वीनामुषसां **प्रथमा** आद्या भवति । एषा यथा वर्तते एवमेव आगामिन्योऽप्युषस इत्यर्थः । तादृशी **व्युच्छन्ती** तमो वर्जयन्ती **जीवं** प्राणिनां जीवात्मानम् **उदीरयन्ती** शयनादूर्ध्वं प्रेरयन्ती **उषाः** **मृतं** स्वापसमये प्रलीनेन्द्रियत्वात् मृतमिव सन्तं **कं** **चन** कमपि पुरुषं **बोधयन्ती** पुनः इन्द्रियप्रवेशेन चेतनं कुर्वती प्रवर्तत इति शेषः ॥ परायतीनाम् । इण् गतौ । लटः शतृ । इणो यण्  ‘ उगितश्च ' इति ङीप् । ड्याश्छन्दसि बहुलम्' इति नाम उदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,14 +114,14 @@ genre M
 Pāthontarikṣam (**Nirukta** 6.7)\] of the mornings that have passed, and first of the endless mornings that are to come, Uṣās, the disperser of darkness, arouses living beings, and awakens every one (that day) as dead.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She follows the troop of those who go away; she is the first of those  who, one by one, come hither—  
 Dawn, as she dawns forth, rousing up (every) living being, but  
 awakening no dead one at all.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details open><summary><h2>07-13 ...{Loading}...</h2></summary>
 
@@ -131,28 +131,28 @@ These verses have a surprising density of forms of ví √vas ‘dawn forth’ (
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She first of endless morns to come hereafter, follows the path of morns that have departed.  
      Dawn, at her rising, urges forth the living him who is dead she wakes not from his slumber.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The path of those that have gone by she follows, The first of endless dawns to come hereafter. The living at her rising she arouses; The dead she never wakens from their slumber.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Usas sucht bei den vergangenen Morgenröten Zuflucht, als erste aller kommenden, im Aufleuchten alles, was lebt, auftreibend aber keine Toten mehr erweckend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie folgt dem Pfade der vorangegangnen, die erste aller, die noch kommen werden, Erstrahlend und die Lebenden erregend, die Morgenröthe jeden Schläfer weckend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она идет вслед за толпой минувших (зорь),  
 Первая из грядущих непрерывной чередой,  

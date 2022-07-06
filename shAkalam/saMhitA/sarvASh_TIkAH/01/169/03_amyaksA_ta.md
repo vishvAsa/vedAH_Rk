@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡म्यक् सा꣡ त इन्दर+ ऋष्टि꣡र् अस्मे꣡  
 स꣡नेमि अ꣡भ्वम् मरु꣡तो जुनन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡पो न꣡ द्वीपं꣡ द꣡धति प्र꣡यांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । चि॒त् । हि । स्म॒ । अ॒त॒से । शु॒शु॒क्वान् । आपः॑ । न । द्वी॒पम् । दध॑ति । प्रयां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amyak* ← *myakṣ*
 - \[verb\], singular, Root aorist (Ind.)
@@ -129,21 +129,21 @@ genre M
 हे **इन्द्र** **ते** तव **सा** प्रसिद्धा **ऋष्टिः** वज्राख्यायुधविशेषः **अस्मे** अस्मद्वृष्ट्यर्थम् **अम्यक्** प्राप्नोति मेघसमीपे । एवं च सति **मरुतः** अपि ।' सनेमि अह्राय' ' (नि. ३. २७. ४ ) इति षट् पुराणनामानि इत्युक्तत्वात् **सनेमि** इति पुराणनाम' । पुराणं चिरकालं संगृहीतम् **अभ्वम्** उदकं **जुनन्ति** क्षिपन्ति वर्षन्तीत्यर्थः । वृष्ट्या सस्यादिसमृद्धौ सत्याम् **अग्निश्चिद्धि** **ष्म** । हि स्म इति पूरणे । अग्निरपि **अतसे** संतते कर्मणि निमित्तभूते सति **शुशुक्वान्** दीप्यमानो वर्तते । पश्चात् 'प्रयांसि चरुपुरोडाशादिहवींषि दधति धारयन्ति ददति वा यजमानाः । किमिव । **आपो** **न** **द्वीपम्** । द्विपार्श्वस्थोदकवान्पर्वतादिद्वीपः । तं यथा आपो धारयन्ति तद्वत् । यद्वा । आयुधमेवोच्यते । वज्राख्यायुधविशेषोऽतसे काष्ठसमूहे शुशुक्वान् दीपयन्नग्निश्चित् । चिच्छब्दः उपमार्थे ' दधि चिदित्युपमार्थे ' ( निरु. १. ४ ) इति यास्केनोपमार्थस्योक्तत्वात् । काष्ठे ज्वलन्नग्निरिव तद्वद्दीप्तो वर्तते । एतदेव दीप्तत्वमपेक्ष्य सेत्युक्तम् । एवं च सति आपो द्वीपमिव वृष्ट्युदकानि प्रयांसि सस्याद्यन्नानि दधति धारयन्ति । एतत्सर्वं महानुभावस्येन्द्रस्य ऋष्टेः सामर्थ्यमितीन्द्रस्य स्तुतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your weapon, **Indra**, is at **hand** for our (good); the **Maruts** send down the long-accusative ulated rain; **Agni** is blazing for the ceremony; the oblations encompass him as the waters (surround) an island.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This spear of yours has been fixed among us, Indra; the Maruts speed the  formless (cloud) mass, with all its gear.  
 For even a fire blazing in the brushwood can produce pleasurable  
 offerings, as waters do an island.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou in different ways separate ṛṣṭí- from the well-attested ‘spear’ word and simply invent an otherwise non-existent stem (Geldner ‘Hoheit’, Renou ‘exploit’).
 
@@ -158,23 +158,23 @@ But taking dádhati as a short-vowel 3rd sg. subjunctive allows agníḥ to be s
 What does this have to do with Indra and the Maruts? Perhaps in this verse addressed to Indra (note te in a), the poet is suggesting to him that despite their unruly natures the Maruts might turn out to have something to contribute to Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That spear of thine sat firm for us, O Indra: the Maruts set their whole dread power in motion.  
      E'en Agni shines resplendent in the brush-wood: the viands hold him as floods hold an island.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An uns hat sich deine Hoheit, Indra, angeschlossen. Die Marut setzen ihre gewaltige Erscheinung vollständig in Bewegung, denn wie Feuer, das im Gestrüpp glüht, bereiten sie ein Gastmahl wie die Gewässer eine Insel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei uns erglänzte, Indra, dies dein Schlachtschwert, das öde Dunkel scheuchen fort die Maruts; Auch Agni selbst erstrahlend in den Hölzern umfasst die Tränke wie das Meer die Inseln.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твой подвиг (?), о Индра, блистает (?) для нас.  
 Маруты спешат полностью принять грозный облик.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡ न आ꣡ ववृत्सुव  
 चक्रं꣡ न꣡ वृत्त꣡म् अ꣡र्वतः  
 नियु꣡द्भिश् चर्षणीना᳐꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 नि॒युत्ऽभिः॑ । च॒र्ष॒णी॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhī* ← *abhi*
 - \[adverb\]
@@ -84,35 +84,35 @@ genre M
 हे इन्द्र त्वं **वृत्तं** **चक्रं** **न** वर्तमानं चक्रमिव **अर्वतः** उपगन्तॄन् **नः** अस्मान् **चर्षणीनाम्** अस्मदीयानां मनुष्याणां **नियुद्भिः** स्तुतिभिः **अभि** **आ** **ववृत्स्व** अभ्यावर्तस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Induced) by the praise of men, return like a revolving wheel to us, dependent (upon your favour).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Turn toward us here—like a chariot-wheel turned toward its steeds— with your teams of the separate peoples.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like as a courser's circling wheel, so turn thee hitherward to us,  
      Attracted by the hymns of men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Drehe dich zu uns, wie das gedrehte Rad den Rossen, mit den Gespannen der Menschenvölker!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O rolle selbst dich zu uns her, gleichwie des Renners rollend Rad, Rasch mit der Menschen Liederreihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Повернись к нам,  
 Как вертящееся колесо к коню,  

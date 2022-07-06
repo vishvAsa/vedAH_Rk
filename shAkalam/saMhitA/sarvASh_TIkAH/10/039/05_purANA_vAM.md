@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुराणा꣡ वां वीरि꣡या प्र꣡ ब्रवा ज꣡ने  
 अ꣡थो हासथुर् भिष꣡जा मयोभु꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अयं꣡ नासत्या श्र꣡द् अरि꣡र् य꣡था द꣡धत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ता । वा॒म् । नु । नव्यौ॑ । अव॑से । क॒रा॒म॒हे॒ । अ॒यम् । ना॒स॒त्या॒ । श्रत् । अ॒रिः । यथा॑ । दध॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purāṇā* ← *purāṇa*
 - \[noun\], accusative, plural, neuter
@@ -149,7 +149,7 @@ genre M
 हे अश्विनौ **वां** युवयोः **पुराणा** पुराणानि वीर्याणि **जने** लोके **प्र** **ब्रव** प्रब्रवीमि । **अथो** अपि च हे **नासत्या** नासत्यौ युवां **मयोभुवा** सुखस्य भावयितारौ **भिषजा** भिषजौ वैद्यौ **आसथुः** बभूवथुः। **ता** तौ युवाम् **अवसे** रक्षणाय **नव्यौ** स्तुत्यौ **करामहे** कुर्मः । **अयम्** **अरिः** गन्ता पतिर्यजमानः यथा **श्रत्** दधत् श्रद्दध्यादिति ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -160,29 +160,29 @@ genre M
 This worshipper: ariḥ = enemy;; or, goer, lord, worshipper
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I shall proclaim your ancient heroic deeds before the people. And you  were also healers, embodiments of joy.  
 Now we shall make you new (for you) to help us, o Nāsatyas, so that  this stranger will place his trust (in us?).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We will declare among the folk your ancient deeds heroic; yea, ye were Physicians bringing health.  
      You, you who must be lauded, will we bring for aid, so that this foe of ours, O Asvins, may believe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure alten Heldentaten will ich vor allem Volke verkünden. Auch waret ihr die erfreulichen Ärzte. Als solche bewegen wir euch aufs neue zur Gnade, auf daß dieser hohe Herr Vertrauen habe, ihr Nasatya´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun künd' ich eure alten Thaten vor dem Volk, denn immer wart ihr Aerzte, welche Heil verleihn, Drum schaffen wir aufs neue euch zur Hülfe her, damit, o treue, fest der fromme euch vertrau.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О прежних ваших подвигах я хочу рассказать среди народа.  
 А также были вы целителями, приносящими радость.  

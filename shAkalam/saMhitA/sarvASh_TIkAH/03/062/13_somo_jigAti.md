@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मो जिगाति गातुवि꣡द्  
 देवा꣡नाम् एति निष्कृत꣡म्  
 ऋत꣡स्य यो꣡निम् आस꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 ऋ॒तस्य॑ । योनि॑म् । आ॒ऽसद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -90,19 +90,19 @@ genre M
 कं देशं गच्छतीत्याह - देवानामिति । **देवानाम् आसदं**, आ समन्तात् सीदन्त्य् अस्मिन्न् इत्य् आसदः । 'घञर्थे कविधानम्' इति कः, 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । **निष्कृतम्** अलङ्कृतम् । प्रबृद्धादेराकृतिगणत्वादुत्तरपदान्तोदात्तत्वम् । **ऋतस्य** सत्यस्य यज्ञस्य वा **योनिम्** उत्पत्तिस्थानं हविर्-धानम् एति प्रपद्यते । 'सौम्यर्चा प्र पादयाति' इत्यादि ब्राह्मणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, knowing the right path, proceeds (by it); he goes to the excellent seat of the gods, the plural ce of sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma proceeds, finding the way; he goes to a rendezvous with the gods, to sit in the womb of truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma who gives success goes forth, goes to the gathering place of Gods,  
      To seat him at the seat of Law.
@@ -116,17 +116,17 @@ To sit on the birthplace of Order .
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma kommt seinen Weg findend, er gelangt in die Gesellschaft der Götter, um sich in den Schoß des rechten Brauches zu setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma geht, des Wegs bewusst, zum Ort der Götter dringt er hin, Zu sitzen auf des Opfers Schooss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Движется Сома, находя путь.  
 Он идет на свидание с богами,  

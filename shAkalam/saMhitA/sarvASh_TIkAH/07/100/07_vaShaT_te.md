@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡षट् ते विष्णव् आस꣡ आ꣡ कृणोमि  
 त꣡न् मे जुषस्व शिपिविष्ट हव्य꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वर्ध॑न्तु । त्वा॒ । सु॒ऽस्तु॒तयः॑ । गिरः॑ । मे॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaṣaṭ*
 - \[adverb\]
@@ -137,36 +137,36 @@ genre M;; repeated line
 व्याख्यातेयम् अक्षरार्थस्तु हे विष्णो तुभ्यं आस्यात् आस्येन वषट्करोमि वषट्कृतं तन्मदीयं हविः हे शिपिविष्ट सेवस्व शोभनस्तुतिरूपा- मदीयावाचश्च त्वां वर्धयन्त्विति । शिष्टपादः सिद्धः ॥ ७ ॥वेदार्थस्यप्रकाशेन तमोहार्दन्निवारयन् । पुमर्थांश्चतुरोदेयाद्विद्यातीर्थमहेश्वरः ॥ १ ॥इतिश्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरन्धरेण सायणाचार्येणविरचितेमाधवीयेवेदार्थप्रकाशेऋक्संहिताभाष्येपञ्चमाष्टकेषष्ठोध्यायः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer, **Viṣṇu**, the oblation plural ced before you with the exclamation **Vaṣaṭ**; be plural ased, **Śipiviṣṭa**, withmy offering; may my laudatory hymns magnify you and do you (gods) ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I make the vaṣaṭ-cry to you from my mouth, Viṣṇu. Enjoy this oblation  of mine, Śipiviṣṭa.  
 Let my lovely praises, my hymns strengthen you. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Visnu, unto thee my lips cry Vasat! Let this mine offering, Sipivista, please thee.  
      May these my songs of eulogy exalt thee. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich mache dir, Vishnu, aus meinem Munde das Vasat, laß dir dieses Opfer von mir munden, o Sipivista. Es sollen dich meine Preislieder, meine Lobesworte erbauen.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Heilsruf bringe ich dir dar, o Vischnu, nimm gnädig an dies Opfer, Çipivischta; Dich mögen stärken meine Lobgesänge. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вашат! – возглашаю я тебе устами, о Вишну,  
 Да понравится тебе эта моя жертва, Шипивишта!  

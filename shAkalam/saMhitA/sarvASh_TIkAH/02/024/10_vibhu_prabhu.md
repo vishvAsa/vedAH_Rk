@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विभु꣡ प्रभु꣡ प्रथम꣡म् मेह꣡नावतो  
 बृ꣡हस्प꣡तेः सुविद꣡त्राणि रा꣡धिया  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ये꣡न ज꣡ना उभ꣡ये भुञ्जते꣡ वि꣡शः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒मा । सा॒तानि॑ । वे॒न्यस्य॑ । वा॒जिनः॑ । येन॑ । जनाः॑ । उ॒भये॑ । भु॒ञ्ज॒ते । विशः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vibhu*
 - \[noun\], nominative, singular, neuter
@@ -105,7 +105,7 @@ genre M
 विभुविभूनिव्याप्तानि प्रभुप्रभूणिप्रौढानि प्रथमं प्रथमानिमुख्यानि एवम्भूतानिमेहनावतः वर्षण वतोवृष्टिप्रदस्यबृहस्पतेः बृहतोमन्त्रस्यपालयितुः सम्बन्धीनिसुविदत्राणि विदॢलाभे सुविदेः कत्रन् सुष्ठुलब्धव्यानि सुविदत्रन्धनम्भवतीतियास्कः । राध्याराध्यानिसम्यक् साधनीयानिप्राप्तव्यानीतिया- वत् इमासातानीमानिधनानिवेन्यस्यकमनीयस्यवाजिनो न्नवतोबृहस्पतेः तृतीयार्थे षष्ठी बृहस्पति नादत्तानियेनधनेनउभयेउभयविधाजनाः स्तोतारोयजमानाश्चदेवामनुष्याश्चवा विशोनिविष्टाः स- न्तोभुञ्चते भोगान् लभन्ते तत्सर्वम्बृहस्पतिनादत्तमित्यर्थः ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,28 +116,28 @@ genre M
 Whereby both: yena **janā** ubhaye bhuñjate **viśaḥ**: the two sorts of person ns are either the **yajamāna**, or host and the officiating priests; or they may be gods and men; viśo niviṣṭaḥ santo bhuñjate bhogān labhanti, being entered or seated, they enjoy; they obtain enjoyments
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Far-going and fore-going is the first (gift) of him who gives  abundantly. The things easily found by Br̥haspati are to be realized. These are the things won by the intent seer, the prize-winner, through  whom both races [=gods and humans], their clans, find satisfaction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 First and preeminent, excelling all besides are the kind gifts of liberal Brhaspati.  
      These are the boons of him the Strong who should be loved, whereby both classes and the people have delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausreichend, reichlich, an erster Stelle ist die Gabe des gern schenkenden; des Brihaspati Gewinne sind leicht zu erlangen, dankenswert, diese Gewinne des schauwürdigen Siegers, von dem beiderlei Geschlechter, alle Stämme nutzen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross, mächtig ist des Gabenreichen erste That, erwünscht die reichen Gaben des Brihaspati, Die von dem holden, schätzereichen man erlangt, an denen beide, Götter sich und Menschen freun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выдающийся, обильный, первый – (дар) щедро дающего.  
 Прекрасно розданные (дары) Брихаспати заслуживают того, чтобы их добивались,  

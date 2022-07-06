@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ र꣡त्नम् म꣡र्तियो व꣡सु  
 वि꣡श्वं तोक꣡म् उत꣡ त्म꣡ना  
 अ꣡छा गछति अ꣡स्तृतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अच्छ॑ । ग॒च्छ॒ति॒ । अस्तृ॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa*
 - \[adverb\]
@@ -88,36 +88,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे आदित्याः **सः** तादृशो भवद्भिरनुगृहीतः **मर्त्यः** मनुष्यो यजमानः **अस्तृतः** केनाप्यहिंसितः सन् **रत्नं** रमणीयं **विश्वं** **वसु** सर्वं धनम् **अच्छ** आभिमुख्येन **गच्छति** प्राप्नोति । **उत** अपि च **त्मना** आत्मना स्वेन सदृशं **तोकम्** अपत्यं गच्छति ॥ त्मना ।  ‘ मन्त्रेष्वाङ्यादेरात्मनः ' (पा. सू. ६. ४. १४१ ) इति आकारलोपः । अच्छ।  ‘ निपातस्य च ' इति दीर्घत्वम् । अस्तृतः । स्तृञ् हिंसायाम् । न स्तृतोऽस्तृतः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That mortal (whom you favour), exempt from harm, obtains all valuable wealth, and offspring like himself.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That mortal attains to treasure and to goods, to a whole lineage along  with his life,  
 as one who cannot be laid low.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That mortal, ever unsubdued, gains wealth and every precious thing,  
      And children also of his own.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche gelangt zu Belohnung, zu Gut - sein ganzer Same und er selbst - nie zu Fall gebracht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mann gelanget unverletzt zu jedem Gut und reichen Schatz Und auch zu grosser Kinderschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот смертный достигает  
 Награды, имущества – сам и все потомство, –  

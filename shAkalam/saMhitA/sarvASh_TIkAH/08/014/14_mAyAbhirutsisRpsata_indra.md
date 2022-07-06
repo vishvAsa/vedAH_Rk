@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 माया꣡भिर् उत्सि꣡सृप्सत  
 इ꣡न्द्र द्या꣡म् आरु꣡रुक्षतः  
 अ꣡व द꣡स्यूँर् अधूनुथाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अव॑ । दस्यू॑न् । अ॒धू॒नु॒थाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
@@ -71,37 +71,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 .... हे **इन्द्र** त्वम् **अव** **अधूनुथाः** अवाङ्मुखं प्रेरितवानसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have hurled down, **Indra**, the **Dasyus**, gliding upwards by their devices and ascending to heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They who, through their wiles, were trying to creep up and mount to  heaven, Indra,  
 those Dasyus did you send tumbling down.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Dasyus, when they fain would climb  
      by magic arts and mount to heaven,  
      Thou, Indra, castest down to earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Dasyu´s, die durch Zauberkünste empor kriechen und den Himmel ersteigen wollten, hast du abgeschüttelt, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, schütteltest herab Dämonen, listig schleichende, Empor zum Himmel strebende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дасью, ползших наверх благодаря колдовским чарам  
 (И) хотевших подняться на небо,  

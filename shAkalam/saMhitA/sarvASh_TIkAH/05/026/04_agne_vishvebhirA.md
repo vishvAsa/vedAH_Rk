@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने वि꣡श्वेभिर् आ꣡ गहि  
 देवे꣡भिर् हव्य꣡दातये  
 हो꣡तारं त्वा वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; repeated line
 होता॑रम् । त्वा॒ । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -85,41 +85,41 @@ genre M;; repeated line
 हे **अग्ने** **विश्वेभिः** सर्वैः **देवेभिः** देवैः सह त्वं **हव्यदातये** हविषां दात्रे यजमानाय तदर्थम् **आ** **गहि** यज्ञं प्रत्यागच्छ । यतः **होतारं** देवानामाह्वातारं **त्वा** त्वां **वृणीमहे** प्रार्थयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Agni**, with all the gods, to the donor (of the oblation); we have recourse to you as their invoker.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, come with all the gods for the giving of oblations.  
 We choose you as our Hotar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, come with all the Gods, come to our sacrificial gift:  
      We choose thee as Invoking Priest.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, come hither with all the gods to the gift of the offering. We choose thee as our Hotri.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, Komm mit allen Göttern zur Opferverteilung; wir erwählen dich zum Hotri.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit allen Göttern komme du, o Agni her zum Opfermahl; Dich wählen wir zum Priester uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, приди со всеми  
 Богами для раздачи жертв!  

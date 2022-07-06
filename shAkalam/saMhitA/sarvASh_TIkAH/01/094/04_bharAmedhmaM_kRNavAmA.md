@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡रामेध्मं꣡ कृण꣡वामा हवीं꣡षि ते  
 चित꣡यन्तः प꣡र्वणा-पर्वणा वय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 जी॒वात॑वे । प्र॒ऽत॒रम् । सा॒ध॒य॒ । धियः॑ । अग्ने॑ । स॒ख्ये । मा । रि॒षा॒म॒ । व॒यम् । तव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bharāmedhmaṃ* ← *bharāma* ← *bhṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
@@ -128,41 +128,41 @@ genre M;; repeated line
 हे **अग्ने** त्वद्यागार्थम् **इध्मम्** इन्धनसाधनमेकविंशतिदार्वात्मकं समित्समूहं **भराम** संपादयाम। तदनन्तरं **ते** तुभ्यं **हवींषि** चरुपुरोडाशादिलक्षणान्यन्नानि **वयं** **कृणवाम** करवाम । किं कुर्वन्तः । **पर्वणापर्वणा** प्रतिपक्षमावृत्ताभ्यां दर्शपूर्णमासाभ्यां **चितयन्तः** त्वां प्रज्ञापयन्तः । स त्वं **जीवातवे** अस्माकं जीवनौषधाय चिरकालावस्थानाय **धियः** कर्माण्यग्निहोत्रादीनि **प्रतरं** प्रकृष्टतरं **साधय** निष्पादय । अन्यत् समानम् ॥ चितयन्तः ॥ ‘ चिती संज्ञाने' । संज्ञापूर्वकस्य विधेरनित्यत्वात् लघूपधगुणाभावः । पर्वणापर्वणा । नित्यवीप्सयोः' इति वीप्सायां द्विर्भावः। तस्य परमाम्रेडितम् इति परस्याम्रेडितसंज्ञायाम् ‘ अनुदात्तं च ' इत्यनुदात्तत्वम् । प्रतरम् । तरबन्तात् प्रशब्दात् क्रियाप्रकर्षे वर्तमानात् “ अमु च च्छन्दसि ' ( पा. सू. ५. ४. १२ ) इति अमुप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We bring fuel, we offer oblations, reminding you of the successive seasons (of worship); do you thoroughly complete the rite, in order to prolong our lives; let us not suffer injury, **Agni**, through your friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We shall bring the kindling, and we shall make oblations to you, while  being attentive at each (ritual) juncture.  
 For us to live longer, send our insights to their goal. – O Agni, while in  company with you may we not come to harm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We will bring fuel and prepare burnt offerings, reminding thee at each successive festival.  
      Fulfil our thought that so we may prolong our lives. Let us not in thy friendship, Agni, suffer harm.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Let us bring fuel and prepare sacrificial gifts for thee, awaking thy attention at each joint 1 (of the month). Help forward our prayers that we may live. Agni! May we suffer no harm in thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen dir Brennholz bringen, dir Opfer bereiten, achtsam, an jedem Mondwechsel. Bring unsere Absichten in Erfüllung, daß wir noch länger leben. - O Agni, in deiner Freundschaft sollen wir nicht zu Schaden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wollen Holz dir bringen und dir Opfer weihn, die wir zu jeder Opferzeit voll Andacht sind, Zu langem Leben lass die Bitten uns gedeihn; in deiner Freundschaft, Agni, treff' uns nimmer Leid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы будем приносить дрова, мы будем готовить тебе жертвенные возлияния,  
 Внимательные, при каждом изменении луны.  

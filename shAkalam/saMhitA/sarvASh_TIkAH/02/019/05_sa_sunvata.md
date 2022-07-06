@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ सुन्वत꣡ इ꣡न्दरः+ सू꣡र्यम्  
 आ꣡ देवो꣡ रिणङ् म꣡र्तियाय स्तवा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡रद् अं꣡शं न꣡ ए꣡तशो दशस्य꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । यत् । र॒यिम् । गु॒हत्ऽअ॑वद्यम् । अ॒स्मै॒ । भर॑त् । अंश॑म् । न । एत॑शः । द॒श॒स्यन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -127,36 +127,36 @@ genre M
 स्तवान् एतशेनस्तूयमानः देवोद्योतमानःसइन्द्रः सुन्वतेसोमाभिषवङ्कुर्वतेमर्त्यायमनुव्यायएतशा यसूर्यमारिणक् एतशेनस्पर्धमानंसूर्यम्बलेनारेचयत् तथाचनिगमः—प्रैतशंसूर्येपस्पृधानंसौवश्व्येसुष्वि मावार्दन्द्रइति । यद्यस्मात् एतशः सौवश्व्योराजादशस्यन् यजमानः अस्माइन्द्रायगुहदवद्यम्प्रच्छन्नाव द्यंरयिंसोमरूपमाभरत् सम्पादयामास तत्रद्रुष्टान्तः—अंशन्न यथापिता अंशं भागम्पुत्रायभरतितद्वत् ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine **Indra**, when lauded (by **Etaśa**), humbled the Sun (in behalf) of the mortal who offered to him the libation; for the munificent Etaśa presented him with mysterious and inestimable riches; as (a father gives) his portion (to a son).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Receiving praise, the god Indra ceded the sun to the soma-pressing  mortal,  
 when, doing service (to him), Etaśa bore him fault-concealing wealth like  a share (of a stake).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him who poured him gifts he gave up Surya,-Indra, the God, the Mighty, to the mortal;  
      For Etasa with worship brought him riches that keep distress afar, as 'twere his portion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Gott Indra gab gepriesen die Sonne frei für den Soma opfernden Sterblichen, als Etasa den einen Makel verdeckenden Reichtum ihm gleichsam als seinen Anteil darbrachte, um ihm gefällig zu sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Somapresser gab er Licht der Sonne, dem Sterblichen der Gott, der Donn'rer Indra, Um Reichthum, welcher alle Mängel zudeckt, wie Gut das Lastross, huldvoll ihm zu bringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот бог Индра, восхваленный, для смертного,  
 Выжимающего (сому), освободил солнце,  

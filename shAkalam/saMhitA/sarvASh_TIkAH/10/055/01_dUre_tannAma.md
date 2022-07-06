@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दूरे꣡ त꣡न् ना꣡म गु꣡हियम् पराचइ꣡र्  
 य꣡त् त्वा भीते꣡ अ꣡ह्वयेतां वयोधइ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ्रा꣡तुः पुत्रा꣡न् मघवन् तित्विषाणः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 उत् । अ॒स्त॒भ्नाः॒ । पृ॒थि॒वीम् । द्याम् । अ॒भीके॑ । भ्रातुः॑ । पु॒त्रान् । म॒घ॒ऽव॒न् । ति॒त्वि॒षा॒णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
@@ -119,7 +119,7 @@ genre D
 अनया  चत्वारि ते असुर्याणि नाम' इत्युक्तस्य आद्यं नाम स्तूयते । हे इन्द्र **ते** तव **तत्** वक्ष्यमाणं **नाम** सर्वेषां नामकं शरीरं **पराचैः** पराङ्मुखैर्मनुष्यैः । मनुष्याणामित्यर्थः । **गुह्यं** गोपनीयमप्रकाशितं सत् **दूरे** इतो विप्रकृष्टे दूरदेशे वर्तत इति शेषः । **यत्** यदा **त्वा** त्वां **रोदसी** द्यावापृथिव्यौ **भीते** सती **अह्वयेताम्** अवेत्यब्रूताम् । किमर्थम् । **वयोधै** अन्नस्य निधानार्थम् । जगतोऽन्नस्य साधनायेत्यर्थः । तदानीं तेन शरीरेण **अभीके** । अन्तिकनामैतत् । तव समीप एव **पृथिवीं** **द्यां** च **उत्** ऊर्ध्वं परस्परवियुक्तं यथा भवति तथा **अस्तभ्नाः** स्तम्भितवानसि। किं कुर्वन् । हे **मघवन्** इन्द्र **भ्रातुः** पर्जन्यस्य **पुत्रान्** पुत्रस्थानीयानुदकसंस्त्यायान् **तित्विषाणः** दीपयन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ genre D
 Your brother: The brother of **Indra** is **Parjanya** (the rain); hissons are aggregations of water (udakasaṃstyāya)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Far away in the distance is that hidden name which the two, frightened,  called you, to grant them vigor.  
 You propped up Earth and Heaven at the critical moment, when you  were sparking the sons of your brother, bounteous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FAR is that secret name by which, in terror, the worlds invoked thee and thou gavest vigour  
      The earth and heaven thou settest near each other, and Maghavan, madest bright thy Brother's Children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Weit in der Ferne ist jeder geheime Name, als dich die beiden Welthälften erschrocken zur Kraftspendung anriefen. Du hast Himmel und Erde im Aneinanderprall aufgerichtet, die Söhne deines Bruders entflammend, o Gabenreicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In weiter Ferne war dein Sein verborgen, als furchtsam dich um Kraft die Welten flehten; Da stütztest du rechtzeitig Erd' und Himmel und hell erglänzend auch des Bruders Söhne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Далеко прочь (ушло) то твое тайное имя,  
 Когда испуганные (две половины вселенной) звали тебя для наделения жизненной силой.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡त्सि वायु꣡म् इष्ट꣡ये रा꣡धसे च  
 म꣡त्सि मित्रा꣡व꣡रुणा पूय꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡त्सि द्या꣡वापृथिवी꣡ देव सोम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 मत्सि॑ । शर्धः॑ । मारु॑तम् । मत्सि॑ । दे॒वान् । मत्सि॑ । द्यावा॑पृथि॒वी इति॑ । दे॒व॒ । सो॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *matsi* ← *mad*
 - \[verb\], singular, Present imperative
@@ -112,20 +112,20 @@ genre M
 हे सोम त्वं वायुं मत्सि मादय । किमर्थं अस्माकमेषणाय अन्नाय राधसे धनाय च । तथा पूयमानः पवित्रेण त्वं मित्रावरुणा च मत्सि तर्पयसि । किञ्च मारुतं मरुतां स्वभूतं रार्धोबलं च मत्सि । तथा देवानिन्द्रादीन् मत्सि हर्षयसि । हेदेव स्तोतव्य हेसोम द्यावापृथिवी द्यावापृथिव्यौ च मत्सि मादय एतान् हर्षयुक्तान् कृत्वास्मभ्यन्धनं प्रयच्छेत्यर्थः ॥ ४२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Exhilarate **Vāyu** for (our) food and wealth, exhilarate **Mitra** and **Varuṇa** as soon as you are filtered; exhilarate the company of the **Maruts**, exhilarate the gods, exhilarate heaven and earth, divine **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Exhilarate Vāyu for his quest and for our benefit; exhilarate Mitra and  Varuṇa, while you are being purified.  
 Exhilarate the Marutian troop; exhilarate the gods; exhilarate Heaven  and Earth, o god Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The infinitival dat. iṣṭáye is generally taken to mean “to hasten, for hastening” here (Geldner “dass er rasch komme”; Renou “afin qu’il se hâte”; Klein GDGRV I.68 “for hastening”; and cf. EWA s.v. EṢ 2 citing Geldner’s tr. for just this passage). But I am puzzled as to which root √iṣ the sense ‘hasten’ is supposed to belong to: we have √iṣ ‘seek, desire’ and √iṣ ‘send, set in motion’. It is to the latter that EWA refers this form (and I assume that the others would also connect the two), but either there has to be a de-valencing of the root (from ‘set in motion’ to ‘be in motion’ - but there are no forms to this root with intrans. value) or the form has to be covertly passive (‘to be set in motion’, hence ‘to move’). I think it belongs rather to √iṣ ‘seek, desire’ and means ‘for seeking, for the quest’. In my view all 20 exx. of iṣṭáye can be united under this rubric. See also comm. ad I.112.1 and VII.92.3. In this particular case Vāyu’s quest is for soma, and upon having received it, he benefits us. So the double dative iṣṭáye rā́dhase ca is a bit of a zeugma, in that these beneficial datives are for the benefit of different parties, though the satisfaction of the second depends on the success of the first.
 
@@ -139,23 +139,23 @@ No particular unity detectable in the tṛca, though the 2nd two vss. do focus o
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make Vayu glad,, for furtherance and bounty: cheer Varuna and Mitra, as they cleanse thee.  
      Gladden the Gods, gladden the host of Maruts: make Heaven and Earth rejoice, O God, O Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Berausche den Vayu, daß er rasch komme und schenke, berausche Mitra und Varuna, wenn du geläutert wirst! Berausche das marutische Heer, berausche die Götter, berausche Himmel und Erde, Gott Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Berausch den Vaju, dass er helf' und schenke berausch, entflammter, Varuna und Mitra, Berausch die Marutschar, berausch die Götter, berausche du, Gott Soma, Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьяняй Ваю, чтобы тот поспешил и дарил,  
 Опьяняй Митру-Варуну, когда тебя очищают!  

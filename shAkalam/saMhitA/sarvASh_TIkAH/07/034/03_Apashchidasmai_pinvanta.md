@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पश् चिद् अस्मै पि꣡न्वन्त पृथ्वी꣡र्  
 वृत्रे꣡षु शू꣡रा मं꣡सन्त उग्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 आपः॑ । चि॒त् । अ॒स्मै॒ । पिन्व॑न्त । पृ॒थ्वीः । वृ॒त्रेषु॑ । शूराः॑ । मंस॑न्ते । उ॒ग्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
@@ -76,20 +76,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 इन्द्रोऽस्मिन् द्वृचे स्तूयते । **पृथ्वीः** पृथ्व्यः प्रथमानाः **आपश्चित्** आपोऽपि **अस्मै** इन्द्राय **पिन्वन्त** प्यायन्ते । **वृत्रेषु** उपद्रवेषु सत्सु **उग्राः** उद्गूर्णास्तेजस्विनो बा **शूराः** योद्धारोऽपि **मंसन्ते** इममेवेन्द्रं स्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The vast waters offer nourishment to **Indra**; fierce warriors (combating) with foes, glorify him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The broad waters swell just for him;  
 they will be considered as powerful champions in the (battles against)  obstacles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the introductory remarks above, both pínvanta and máṃsante are accented because they open 5-syl. pādas.
 
@@ -98,22 +98,22 @@ Both Geldner and Renou take the (soma) sacrifice as the referent of asmai, contr
 I’m not quite sure what the subjunctive máṃsante is meant to convey -- perhaps that in times to come poets will talk about them that way in the accounts of the Vṛtra-slaying?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, the broad waters swell their flood ior him: of him strong heroes think amid their foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch die Gewässer schwellen für es breit an. In den Vritrakämpfen sollen sie sich für gewaltige Herden halten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra schwollen – die breiten Ströme; bei Feinden sahn ihn – die starken Helden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это воды набухли для него, широкие:  
 В битвах с врагами они считаются отважными, грозными.

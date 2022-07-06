@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ ज꣡ना ममसत्ये꣡षु इन्द्र  
 संतस्थाना꣡ वि꣡ ह्वयन्ते समीके꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ना꣡सुन्वता सखियं꣡ वष्टि शू꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अत्र॑ । युज॑म् । कृ॒णु॒ते॒ । यः । ह॒विष्मा॑न् । न । असु॑न्वता । स॒ख्यम् । व॒ष्टि॒ । शूरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -127,37 +127,37 @@ genre M
 हे **इन्द्र** **त्वां** **जनाः** **ममसत्येषु** संग्रामेषु **वि** **ह्वयन्ते** विविधमाह्वयन्ति साहाय्यार्थम् । एतदेव दर्शयति । **समीके** युद्धे **संतस्थानाः** सह तिष्ठन्तो जना वि ह्वयन्त इति । **अत्र** अस्मिन्नाह्वाने सः **शूरः** वीर इन्द्रः तं **युजं** सखायं **कृणुते** कुरुते **यो** **हविष्मान्** भवति । **असुन्वता** सोमाभिषवमकुर्वता पुरुषेण सह **सख्यं** सखित्वं **न** **वष्टि** न कामयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The people earnestly call upon you in battles, **Indra**, (they call upon you) when standing together inthe conflict; at this (call) Indra makes him his friend who offers oblations; the hero desires not friendship with himwho presents no libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The peoples, taking their stand in conflict together, separately call upon  you in the struggle for “what’s mine.”  
 Whoever offers an oblation makes (you) his yokemate here: the  
 champion wants no fellowship with a non-presser.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Standing, in battle for their rights, together, the people, Indra, in the fray invoke thee.  
      Him who brings gifts the Hero makes his comrade: with him who pours no juice he seeks not friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Indra, rufen die Menschen im Kampfe, wann sie um das Eigentumsrecht aneinandergeraten sind, um die Wette. Da erwirbt sich der Opfernde einen Bundesgenossen; der Held wünscht keine Freundschaft mit dem, der nicht Soma auspreßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Indra, rufen hier und dort die Menschen, wenn sie im Kampf um Mein und Dein sich messen; Dann macht der Held den Opfrer sich zum Freunde, dem, der nicht keltert, will er nimmer Freund sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Люди призывают тебя, о Индра, с разных сторон,  
 Столкнувшись в борьбе за права собственности.  

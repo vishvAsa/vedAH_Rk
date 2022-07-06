@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तोत्र꣡म् इ꣡न्द्रो मरु꣡द्गणस्  
 त्व꣡ष्टृमान् मित्रो꣡ अर्यमा꣡  
 इमा꣡ हव्या꣡ जुषन्त नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 इ॒मा । ह॒व्या । जु॒ष॒न्त॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stotram* ← *stotra*
 - \[noun\], accusative, singular, neuter
@@ -86,20 +86,20 @@ genre M
 **मरुद्गणः** मरुतो गणभूताः परिजनभूता यस्य तादृशः **इन्द्रः** **त्वष्टृमान्** त्वष्टृसहितः **मित्रो** **अर्यमा** च **नः** अस्माकं **स्तोत्रम्** **इमा** **हव्या** इमानि हवींषि च **जुषन्त** सेवन्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, with the company of the **Maruts**, **Mitra**, with **Tvaṣṭā** and **Aryaman**, accept our praise and these our oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra along with his Marut-flock, let Mitra and Aryaman along  with Tvaṣṭar,  
 enjoy the praise song and these oblations of ours.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is essentially parallel to vs. 10: various gods are to enjoy both verbal and material offerings, with the verb stem juṣá- ‘enjoy’ held constant. Vs. 10 has an impv. juṣántām, but our vs. an injunc. juṣanta. The latter may be a substitute for the impv. in a metrical situation that favors a light final syl.
 
@@ -113,23 +113,23 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May 1ndra, with the Marut host, with Tvastar, Mitra, Aryaman,  
      Accept the laud and these our gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra mit dem Gefolge der Marut, Mitra mit Tvastri und Aryaman sollen an dem Loblied, an dessen Opferspenden von uns Gefallen finden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Lob und Opfer nehme an mit Tvaschtar Mitra, Arjaman und Indra mit der Marutschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Индра с толпой Марутов,  
 Митра, сопровождаемый Тваштаром, (и) Арьяман  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡न् वा य꣡च् चकृमा꣡ क꣡च् चिद् आ꣡गः  
 स꣡खायं वा स꣡दम् इ꣡ज् जा꣡स्पतिं वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्या꣡वा र꣡क्षतम् पृथिवी नो अ꣡भ्वात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 इ॒यम् । धीः । भू॒याः॒ । अ॒व॒ऽयान॑म् । ए॒षा॒म् । द्यावा॑ । रक्ष॑तम् । पृ॒थि॒वी॒ इति॑ । नः॒ । अभ्वा॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
@@ -139,7 +139,7 @@ genre M;; repeated line
 हे द्यावापृथिव्यौ वयं **देवान्** देवान् प्रति **यत्** **कञ्चित्** **आगः** अपराधं तत्तद्यागकाले तेषांतेषाम् अयागलक्षणं **सदमित्** सर्वदैव **चकृम** कृतवन्तो वयम् । **सखायं** **वा** प्रियं मित्रं वा प्रति यच्चकृम । **जास्पतिम्** । जाः पुत्र्यः । तासां पतिं जामातरं **वा** जायापतिं प्रति दोषारोपणकलहोत्पादनादिरूपं यत्सर्वदैव चकृम । **एषाम्** उक्तरूपाणां पापानाम् अपगमं कर्तुम् **इयं** **धीः** युष्मत्स्तुतिरूपम् इदं कर्म **भूयाः** भूयात् भवतु । द्यावेत्यादि गतम् । अत्र सर्वत्र प्रकारान्तरेण मन्त्रमन्तरेण रक्षतं रक्षतमिति प्रार्थनं तयोः अश्विन्यादिबहुमननासंभवात् उचितमेव । तस्मात् स्वस्थाने एव स्थिते अनुकूले भवतमित्येवं प्रार्थ्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,35 +152,35 @@ A son-in-law: jaspatim vā: jāḥ = daughters;
 Patim = lord or husband
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If we have ever committed any offence at all against the gods or against  a comrade or against the lord of the family,  
 this hymnic vision should be propitiation to them. – O Heaven and  
 Earth, protect us from the formless void.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What sin we have at any time committed against the Gods, our friend, our house's chieftain,  
      Thereof may this our hymn be expiation. Protect us, Heaven and Earth, from fearful danger.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 If ever we have any sin committed Against the gods, or friend, or house's chieftain. Of that may this our hymn be expiation. O Heaven and Earth, from dreadful darkness save us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir irgend ein Unrecht getan haben, sei es den Göttern oder einem beständigen Freunde oder dem Hausherren, so möge diese Dichtung ihnen eine Abbitte sein. - Himmel und Erde, bewahret uns vor Übergewalt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn je an Göttern Unrecht wir verübten, am Freunde oder an dem Stammeshaupte, Davon gewähre dieses Lied uns Sühnung, beschirmt vor grauser Noth uns, Erd' und Himmel!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если вы совершили какой-нибудь грех по отношению к богам,  
 Или когда-нибудь по отношению к другу, или к хозяину дома,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् भ्रा꣡तासद् य꣡द् अनाथ꣡म् भ꣡वाति  
 कि꣡म् उ स्व꣡सा य꣡न् नि꣡रृतिर् निग꣡छात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तनु꣡वा मे तनु꣡वं स꣡म् पिपृग्धि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 काम॑ऽमूता । ब॒हु । ए॒तत् । र॒पा॒मि॒ । त॒न्वा॑ । मे॒ । त॒न्व॑म् । सम् । पि॒पृ॒ग्धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
@@ -135,7 +135,7 @@ popular
 यमी यमेन प्रत्याख्याता पुनराह । **यत्** यस्मिन् भ्रातरि सति स्वस्रादिकम् **अनाथं** नाथरहितं भवति सः **भ्राता** **किम्** **असत्** किं भवति । न भवतीत्यर्थः । किंच यस्यां भगिन्यां सत्यां भ्रातरं **निर्ऋतिः** दुःखं **निगच्छात्** नियमेन गच्छति प्राप्नोति सा **स्वसा** **किमु** किं वा भवति । भ्रातृभगिन्योश्च परस्परं प्रीतिर्येन केनचिदुपायेनावश्यं कार्येत्यभिप्रायः। साहं **काममूता** कामेन मूर्च्छिता सती **बहु** नानाप्रकारम् **एतत्** ईदृशमुक्तं वक्ष्यमाणं च **रपामि** प्रलपामि । एतज्ज्ञात्वा **मे** मम **तन्वा** शरीरेण **तन्वं** शरीरं **सं** **पिपृग्धि** संपर्चय । संभोगेन संश्लेषय।  मां सम्यग्भुङ्क्ष्वेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,30 +146,30 @@ popular
 Misfortune:decay; **Nirṛti** is a person nification. The meaning is, a true brother will not let his sister lack a husband, and a truesister will not let her brother lack a wife
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yamī:] What will “brother” (mean) when there will be no refuge. And  what will “sister,” if Dissolution will come down?  
 Driven by desire many times I murmur this: mingle your body with  
 my body.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Is he a brother when no lord is left her? Is she a sister when Destruction cometh?  
      Forced by my love these many words I utter. Come near, and hold me in thy close embraces.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was soll dann der Bruder, wenn man schutzlos sein soll? Was die Schwester, wenn das Verderben hereinbrechen soll? Von Liebe toll flüstere ich das immer wieder: Vereine deinen Leib mit dem meinen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Was ist der Bruder, wenn er ohne Schutz lässt, und was die Schwester, wenn ihr naht Verderben, Von Lieb' ergriffen fleh' ich stets dies eine, lass deinen Leib mit meinem sich vermischen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К чему тогда есть брат, если приходится быть беззащитной?  
 И к чему сестра, если (все равно) обрушится небытие?  

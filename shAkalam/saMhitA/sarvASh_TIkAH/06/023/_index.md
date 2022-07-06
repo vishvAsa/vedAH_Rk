@@ -8,7 +8,7 @@ title = "+023"
 ‘सुत इत् ' इति दशर्चमष्टमं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैन्द्रम् । ‘सुत इद्दश' इत्यनुक्रान्तम् । विषुवति निष्केवल्ये इदं सूक्तम् । सूत्रितं च – सुत इत्त्वमेष प्र पूर्वीः' ( आश्व. श्रौ. ८. ६ ) इति । महाव्रतेऽपि निष्केवल्ये इदमादीनि त्रीणि सूक्तानि । तथैव पञ्चमारण्यके सूत्रितं - सुत इत्त्वं निमिश्ल इन्द्र सोम इति त्रीणि ' (ऐ. आ. ५. २. २) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 23 (464)  
 Indra  
@@ -18,7 +18,7 @@ This hymn focuses on Indra’s vital connection with soma and on the reciprocal 
 tion. The reminders to Indra that sacrificial labor should be requited with gifts and  help from the god occur throughout the hymn, but are not annoyingly obtrusive. Stylistically the hymn is noteworthy for its pairs of syntactically linked verses: 1–2  with their “or when” clauses; 3–4 with their run of agent nouns governing accusa tive objects; 5–6 with a number of repeated formulae.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra For the repetitive lexicon and the unusual amount of linkage between vss., see published introduction.
 </details>

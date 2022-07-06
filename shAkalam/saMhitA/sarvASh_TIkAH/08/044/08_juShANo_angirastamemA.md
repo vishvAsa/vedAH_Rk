@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुषाणो꣡ अङ्गिरस्तम  
 इमा꣡ हव्या꣡नि आनुष꣡क्  
 अ꣡ग्ने यज्ञं꣡ नय र्तुथा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । य॒ज्ञम् । न॒य॒ । ऋ॒तु॒ऽथा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣāṇo* ← *juṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
@@ -78,35 +78,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अङ्गिरस्तम** अङ्गिरसां श्रेष्ठ **अग्ने** **इमा** इमान्यस्मदीयानि **हव्यानि** हवींषि **आनुषक्** अनुषक्तं यथा भवति तथा **जुषाणः** सेवमानो भव । **ऋतुथा** काले काले **यज्ञं** च **नय** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, best of the **Aṅgirasas**, do you, continually accepting these our oblations, conduct the sacrifice atthe due seasons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O best of the Aṅgirases, enjoying these oblations here in due order, Agni, conduct the sacrifice at the proper season.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, best Angiras, accept straightway these offerings, and guide  
      The seasonable sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Genieße diese Opferspenden wie sich's gebührt, du oberster Angiras, und geleite das Opfer pünktlich, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniessend, bester Angiras, o Agni, diese Tränke all, Lenk unser Opfer zeitgemäss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждаясь, о лучший из Ангирасов,  
 По очереди этими жертвенными возлияниями,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कं देवा उभ꣡याय ज꣡न्मने  
 श꣡र्म यछत द्विप꣡दे च꣡तुष्पदे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् अस्मे꣡ शं꣡ यो꣡र् अरपो꣡ दधातन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒दत् । पिब॑त् । ऊ॒र्जय॑मानम् । आशि॑तम् । तत् । अ॒स्मे इति॑ । शम् । योः । अ॒र॒पः । द॒धा॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -118,36 +118,36 @@ genre M
 हे **देवाः** सूर्येणाभ्यनुज्ञाता यूयम् **अस्माकं** **द्विपदे** मनुष्यात्मकाय **चतुष्पदे** पश्वात्मकाय च उभयाय  उभयविधाय **जन्मने** भूतजाताय **शर्म** सुखं **यच्छत** दत्त । किंच यथास्मत्पुत्रादिकम् **अदत्** भक्षणीयं भक्षयत् **पिबत्** पानीयं पिबच्च **ऊर्जयमानं** बलवन्तमिवात्मानमाचरच्च **आशितं** सुहितं च भवति तथा **शं** रोगशान्तिनिमित्तकं सुखं **योः** विषययोगजनितं सुखं च **अरपः** अपापं च **दधातन** प्रयच्छत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow, gods, felicity upon both (classes) of our living beings, bipeds and quadrupeds, so that,whether they be eating or drinking, they may be strong and healthy; so grant to us happiness, plural asure andfreedom from sin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To both our breeds, o gods, to the two-footed and the four-footed,  extend shelter.  
 Eating, drinking, drawing nourishment, satiated: establish for us this  luck and lifetime without flaw.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gods, to our living creatures of both kinds vouchsafe protection, both to bipeds and to quadrupeds,  
      That they may drink and eat invigorating food. So grant us health and strength and perfect innocence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter, leihet euren Schutz unserer beiderlei Art, der zweifüßigen und der vierfüßigen! Essend, trinkend, sich stärkend, gesättigt seien sie; schaffet uns das Glück und Wohl ohne Gebreste!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gewährt, o Götter, Schutz unserm beiderseitigen Geschlecht, dem zweifüssigen und vierfüssigen, sie beide mögen stärkende Speise essen und trinken, dies Heil und Glück verleiht uns ohne Fehl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О боги, для обоих наших родов:  
 Для двуногого и четвероногого, даруйте нам защиту!  

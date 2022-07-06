@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् अग्ने पृत्सु꣡ म꣡र्तियम्  
 अ꣡वा वा꣡जेषु यं꣡ जुनाः꣡  
 स꣡ य꣡न्ता श꣡श्वतीर् इ꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सः । यन्ता॑ । शश्व॑तीः । इषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -97,31 +97,31 @@ genre M
 यद्वा - सत्यमेव यजनं यस्य । यद्वा - सत्यस्य परमार्थस्यानन्दलक्षणस्य सङ्गमयितारम् । हिरण्यरूपं हिरण्यवर्णमग्निं अग्निरूपेणावस्थितं वः युष्माकमवसे रक्षणाय तृप्तये वा कृणुध्वं आत्मसात्कुरुध्वम्, शत्रुमारणादियुष्मदभिमतसिद्ध्यर्थं भजध्वमित्यर्थः । कृधि हिंसाकरणयोः, 'धिन्विकृण्व्योरच' इत्युप्रत्ययः, व्यत्ययेनात्मनेपदम् । करोतेर्वा व्यत्ययेन श्नुप्रत्ययः । अचित्तात्पुरा, चित्तस्याभावेऽचित्तं अन्तःकरणोपसंहारो मरणमिति यावत् । यद्वा - यस्मिन्सति चित्तं नास्ति तन्मरणमेव । ततः प्रागेव देवं भजध्यमिति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् । कीदृशादचित्तात्? तनयित्नोः तनयित्नुर्मेधस्तादृशात्; अनिश्चितकालत्वात् । स्तन शब्दे चुरादिरदन्तः, 'स्तनिहृषिपुषिगदिमदिभ्यो णेरित्नुच्' इतीत्नुच्प्रत्ययः सकारलोपश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mortal whom you, **Agni**, protect in battle, whom you incite to combat, will always command (food).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal whom you will help in battles, o Agni, whom you will spur  on to the prizes,  
 he will hold fast to unfailing refreshments.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is difficult not to interpret the agent noun yantā́in c as a periphrastic future, given the subjunctives in ab, pace Tichy 1995: 226. Although it is sometimes claimed that no examples (or “no certain examples”) of this usage are found in the Saṃhitās (see esp. Macdonell VGS §152), there are too many passages in the RV where a future interpretation of the -tar-stem is more natural and fits the context better than a purely agentive one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That man is lord of endless strength whom thou protectest in the fight,  
      Agni, or urgest to the fray.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The mortal, O Agni, whom thou protectest in battles, whom thou speedest in the races 1, he will command constant nourishment:
 </details>
@@ -135,17 +135,17 @@ Of golden colour, win ye for help.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welchen Sterblichen du, Agni, in den Schlachten begünstigen wirst, wen du in den Kämpfen um die Preise anspornst, der wird alle Genüsse in der Hand halten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sterbliche, den, Agni, du in Schlachten schützest und beeilst, Erlanget stete Labungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какого смертного, о Агни, в сражениях  
 Ты поддержишь, кого поторопишь к наградам,  

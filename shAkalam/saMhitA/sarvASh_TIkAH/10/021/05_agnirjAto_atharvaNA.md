@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् जातो꣡ अ꣡थर्वणा  
 विद꣡द् वि꣡श्वानि का꣡विया  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 भुव॑त् । दू॒तः । वि॒वस्व॑तः । वि । वः॒ । मदे॑ । प्रि॒यः । य॒मस्य॑ । काम्यः॑ । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -119,37 +119,37 @@ genre M;; repeated line
 **अथर्वणा** एतन्नाम्नर्षिणा **जातः** जनितः **अग्निः** । कथमवगम्यते । ' त्वामग्ने पुष्करादध्यथर्वा निरमन्थत' (ऋ. सं. ६. १६. १३) इति मन्त्रान्तरात् । **विश्वानि** समस्तानि **काव्या** काव्यानि स्तोतृकर्माणि **विदत्** वेत्ति । **विवस्वतः** यजमानस्य **दूतः** देवानामाह्वानार्थं **भुवत्** भवति । किंच **यमस्य** संयन्तुर्यजमानस्य **प्रियः** इष्टः सन् **काम्यः** कमनीयः प्रार्थनीयो भवतीत्यर्थः । शिष्टं स्पष्टम् ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, genitive rated by **Atharvan**, is cognizant of all praises; he is the messenger of **Vivasvat**, the belovedfriend of **Yama**, for your exhilaration; you are mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When just born, Agni found all the poetic arts with (the aid of) the  Atharvan (priest).  
 He became the messenger of Vivasvant, dear and desirable to Yama.  
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Skilled in all lore is Agni, he whom erst Atharvan brought to life.  
      He was Vivasvan's envoy, at your glad carouse-the weIl-loved friend of Yama, Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni von Atharvan erzeugt erfand alle Sehererkenntnisse; er wurde des Vivasvat Bote, der liebe Freund des Yama - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erzeugt von dem Atharvan einst fand Agni alle Weisheit auf, Vivasvat's Bote wurde er, des Jama lieber Busenfreund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, порожденный Атхарваном,  
 Обнаружил все поэтические возможности.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ ता꣡ मिनन्ति मायि꣡नो न꣡ धी꣡रा  
 व्रता꣡ देवा꣡नाम् प्रथमा꣡ ध्रुवा꣡णि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ प꣡र्वता निन꣡मे तस्थिवां꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 न । रोद॑सी॒ इति॑ । अ॒द्रुहा॑ । वे॒द्याभिः॑ । न । पर्व॑ताः । नि॒ऽनमे॑ । त॒स्थि॒ऽवांसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 **मायिनः** कपटबुद्ध्युपेता असुराः **देवानाम्** इन्द्रादीनां **प्रथमा** प्रथमानि सृष्ट्यनन्तरभावीनि **ध्रुवाणि** स्थिराणि केनापि चालयितुमशक्यानि **ता** तानि लोके प्रसिद्धानि **व्रता** व्रतानि लोकपालनादिकर्माणि **न** **मिनन्ति** न हिंसन्ति । तथा **धीराः** विद्वांसोऽपि **न** हिंसन्ति । तथा **अद्रुहा** देवमनुष्यादिषु प्रजासु द्रोहवर्जिते **रोदसी** द्यावापृथिव्यौ **वेद्याभिः** स्वाश्रयतया सर्वैर्वेदनीयाभिः प्रजाभिः सहिते तानि कर्माणि **न** मिनीतः । तदेतदुपपादयति । **तस्थिवांसः** पृथिव्यामूर्ध्वतया स्थिताः **पर्वताः** **न** **निनमे** निनमनीयाः न भवन्ति । एतदुक्तं भवति । यद्देवमनुष्यादीनां द्यावापृथिव्याधारकतया अवस्थापनं  यच्च पर्वतादीनामुन्नततयावस्थापनं तदिदं देवानां कर्म । तन्न कोऽप्यन्यथयितुमर्हति इति ॥ मिनन्ति । ' मीङ् हिंसायाम्' इत्यस्य लटि ' मीनातेर्निगमे ' इति ह्रस्वः । निघातः । वेद्याभिः । वेदनमर्हन्ति । ‘छन्दसि च' इति यत्प्रत्ययः । निनमे । ' णमु प्रह्वत्वे' इत्यस्य कृत्यार्थे केन्प्रत्ययः । कृत्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ genre M
 The condition of all created things in earth and heaven, and the elevation of the mountains, are the work of the gods, and no one can make them otherwise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Neither the tricky ones nor the clever transgress these: steadfast are the  foremost commandments of the god.  
 Neither the two world-halves without deceit nor the mountains standing  fast are to be bowed down by knowing wiles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. take b as obj. of minanti in a, which is certainly possible, while I take it as a separate nominal clause. The choice has no real implications.
 
@@ -148,23 +148,23 @@ The word vedyā́- can be either positive or negative depending on context.
 Here it must be the latter; cf. also VII.21.5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 NOT men of magic skill, not men of wisdom impair the Gods' first steadfast ordinances.  
      Ne'er may the earth and heaven which know not malice, nor the fixed hills, be bowed by sage devices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Weder die Zauberkundigen noch die Weisen schmälern diese feststehenden ersten Gesetzt der Götter. Nicht sind Himmel und Erde, die truglosen, mit aller Weisheit zu schmälern, noch sind die feststehenden Berge niederzubeugen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht Zauberer, nicht Weise stören diese, die ersten festen Satzungen der Götter; Die Welten nicht, die hold aus eignem Trieb sind; unbeugsam sind die Berge, welche feststehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни колдуны, ни мудрецы не нарушают  
 Тех первых прочных заветов богов.  

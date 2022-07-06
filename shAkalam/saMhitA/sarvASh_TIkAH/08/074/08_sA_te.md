@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡ ते अग्ने शं꣡तमा  
 च꣡निष्ठा भवतु प्रिया꣡  
 त꣡या वर्धस्व सु꣡ष्टुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 तया॑ । व॒र्ध॒स्व॒ । सुऽस्तु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
@@ -89,7 +89,7 @@ genre M
 हे **अग्ने** **सा** अस्माभिः क्रियमाणा स्तुतिः **शंतमा** अत्यन्तं सुखकरा **चनिष्ठा** अतिशयेनान्नवती **ते** तव **प्रिया** **भवतु** । **तया** स्तुत्या **सुष्टुतः** सुष्ठु स्तुतः सन् **वर्धस्व** प्रवृद्धो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,29 +100,29 @@ genre M
 Most plural asant and most agreeable: caniṣṭhā = atiśayenānnavatī, most richly endowed with food;kamanīyatamā (RV 7.70.2)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let it be most wealful, most pleasing, and dear to you, Agni.  
 Well praised by it, grow strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, may it be dear to thee, most grateful, and exceeding sweet:  
      Grow mightier, eulogized therewith.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies soll dir, Agni, am meisten zusagen und gefallen und lieb sein. Damit schön gepriesen werde groß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies, Agni, sei das liebste dir, willkommen recht und angenehm, An ihm erfreu dich, hochgelobt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

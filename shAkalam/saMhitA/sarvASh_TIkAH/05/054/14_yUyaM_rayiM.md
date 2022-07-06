@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ रयि꣡म् मरुत स्पार्ह꣡वीरं  
 यूय꣡म् ऋ꣡षिम् अवथ सा꣡मविप्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूयं꣡ धत्थ रा꣡जानं श्रुष्टिम꣡न्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यू॒यम् । अर्व॑न्तम् । भ॒र॒ताय॑ । वाज॑म् । यू॒यम् । ध॒त्थ॒ । राजा॑नम् । श्रु॒ष्टि॒ऽमन्त॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -113,7 +113,7 @@ genre M
 हे **मरुतः** **यूयं** **रयिं** धनं **स्पार्हवीरं** स्पृहणीयैर्वीरैः पुत्रभृत्यादिभिरुपेतं **धत्थ** दत्थ । हे मरुतः **यूयं** **सामविप्रं** साम्नां विविधं प्रेरयितारं यद्वा सामसहिता विप्रा यस्य तादृशम् **ऋषिमवथ** रक्षथ । हे **यूयम्** **अर्वन्तम्** अश्वं **वाजम्** अन्नं च **भरताय** देवान् बिभ्रते श्यावाश्वाय धत्थ । हे मरुतः **यूयं** **राजानं** दीप्तं स्वामिनं वा **श्रुष्टिमन्तं** सुखवन्तम् । पुत्रमित्यर्थः । धत्थ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 The sage learned in the Sāma: sāmavipram = samnām vividhām prerayitāram, the prompt or instrumental gator, in various ways, of the Sāma hymns
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Maruts, (aid) our wealth consisting of coveted heroes; you aid the  seer inspired in his melody.  
 You (establish) a charger and a prize for Bharata; you establish a king  with attentive hearing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The problematic wealth of 13d reappears in 14a as the obj. of a gapped verb whose subj. is the Maruts, but in this case we can borrow the verb from the next pāda, avatha ‘you aid’. Geldner unaccountably supplies a verb (“gewähret”) that matches neither what precedes nor what follows.
 
@@ -139,23 +139,23 @@ The pāda-final words in the first hemistich, … spārhávīram# and … sā́m
 Moreover, the accent strong suggests a bahuvrīhi. A literal rendering of such a bahuvrīhi would be something like ‘whose inspired poet is the melody’ or ‘whose inspired poet has the melody’ (latter like vájra-bāhu- ‘having an arm that has a mace (in it)’), which do not work as descriptors of a seer. I wonder if the phonological play just noted didn’t flip the order of the cmpd members, and the underlying form would be *vípra-sāman- ‘having the melody of an inspired poet’. Exact parallels are vípramanman- ‘having the thought of an inspired poet / having inspired thought’ in VI.39.1, where it modifies kaví-, and vípra-vacas- ‘having the speech of an inspired poet / having inspired speech’ in VIII.61.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Maruts, ye further wealth with longedfor heroes, further the Rsi skilled in chanted verses.  
      Ye give the Bharata as his strength, a charger, and ye bestow a king who quickly listens.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Marut, ihr gewähret den Besitz beneidenswerter Söhne, ihr begünstigt dem Bharatiden ein Streitroß und Siegesgewinn, ihr einen König, der Gehorsam findet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Maruts fördert menschbegehrten Reichthum; ihr unterstützt den sangerregten Dichter, ihr schenkt dem Bharater den schnellen Renner und gebet einen König, der Gehör schenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы (даете), о Маруты, богатство из завидных мужей,  
 Вы помогаете риши, вдохновленные напевом.  

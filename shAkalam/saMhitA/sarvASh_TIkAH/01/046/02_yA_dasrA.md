@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ दस्रा꣡ सि꣡न्धुमातरा  
 मनोत꣡रा रयीणा᳐꣡म्  
 धिया꣡ देवा꣡ वसुवि꣡दा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 धि॒या । दे॒वा । व॒सु॒ऽविदा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
@@ -81,7 +81,7 @@ genre M
 **या** **देवा** यावुभावश्विनौ वक्ष्यमाणगुणयुक्तौ तौ स्तुषे इति पूर्वत्रान्वयः । कीदृशौ । **दस्रा** दस्रौ दर्शनीयौ **सिन्धुमातरा** समुद्रमातृकौ । यद्यपि सूर्याचन्द्रमसावेव समुद्रजौ तथाप्यश्विनोः केषांचिन्मते तद्रूपत्वात् तथात्वम् । **रयीणां** धनानां **मनोतरा** मनसा तारयितारौ **धिया** कर्मणा **वसुविदा** निवासस्थानस्य लम्भयितारौ ॥ मनोतरा । मनसा तरतः इति मनोतरौ । तरतेः अन्तर्भावितण्यर्थात् ‘ऋदोरप्' इति अप् । पूर्वपदान्तस्य सकारस्य रुत्वे सति छान्दसम् उत्वम्। रयीणाम् । नामन्यतरस्याम् ' इति नाम उदात्तत्वम् । धिया। सावेकाचः०' इति विभक्तेरुदात्तत्वम् । वसुविदा । वसूनि निवासस्थानानि विन्देते इति वसुविदौ । ‘क्विप् च ' इति क्विप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,29 +92,29 @@ genre M
 **Sindhu**-mātarau; the sun and the moon, born of the sea, **samudra**-jau
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who are wondrous, whose mother is the River Sindhu, who are mindful  of riches—  
 the gods finding goods through insight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sons of the Sea, mighty to save discoverers of riches, ye  
      Gods with deep thought who find out wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Meister, Söhne der Sindhu, die Ausdenker der Reichtümer, die Götter, die durch ihre Einsicht Schätze finden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Stromessöhne hülfereich, die Götter, welche reichen Schatz Zuweisen, gerne Gut verleihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас обоих, удивительных, (тех,) чья мать Синдху,  
 Выдумщиков сокровищ,  

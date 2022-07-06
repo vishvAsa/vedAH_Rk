@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ऊ द्रो꣡णे ह꣡रयः क꣡र्म अग्मन्  
 पुनाना꣡स ऋ꣡जियन्तो अभूवन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्युक्षो꣡ म꣡दस्य सोमिय꣡स्य रा꣡जा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । नः॒ । अ॒स्य । पू॒र्व्यः । प॒पी॒या॒त् । द्यु॒क्षः । मद॑स्य । सो॒म्यस्य । राजा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pro* ← *pra*
 - \[adverb\]
@@ -126,21 +126,21 @@ genre M
 **हरयः** हरितवर्णाः सोमाः **नः** **कर्म** अस्मदीयं यज्ञं **प्रो** **अग्मन्** प्रकर्षेण गच्छन्ति प्राप्नुवन्ति । प्राप्य च **पुनानासः** पूयमानाः **द्रोणे** द्रोणकलशे **ऋज्यन्तः** ऋजु गच्छन्तः **अभूवन्** भवन्ति । **पूर्व्यः** पुरातनः **द्युक्षः** दीप्तेर्निवासभूतो द्युस्थानो वा **मदस्य** मदकरस्य **सोम्यस्य** सोमस्य **राजा** ईश्वर एवंभूतः **इन्द्रः** च **अस्य** इमं सोमं **पपीयात्** पिबतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The green **Soma** flows at our sacrifice, and purified, proceed direct into the pitcher; may the ancient illustrious **Indra**, the soverign of the exhilarating Soma libation, drink of this our offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fallow bays [=soma drops] have gone forth to their labor in the  wooden cup, and while being purified, they have come to be charging  straight on.  
 Indra should be the first to drink of this (soma) of ours, as the  
 heaven-ruling king of soma’s exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Accented asyá in c presupposes the gen. phrase in d mádasya somyásya, even though the two genitives are construed differently: the one in c as (partitive) gen. with √pā ‘drink’, the one in d dependent on rā́jā.
 
@@ -161,23 +161,23 @@ The implicit identification of Indra’s horses with the soma drops is reinforce
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forth to the vat the brown drops flow for service, and purified proceed directly forward.  
      May Indra drink of this, our guest aforetime, Celestial King of the strong draught of Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In der Kufe sind die goldgelben Tränke an ihr Werk gegangen; sich klärend haben sie sich in gestreckten Lauf gesetzt. Indra soll uns als Erster von diesem Soma trinken, der himmlische König des somischen Rauschtrankes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Werke schritten vor die goldgefärbten, sie schossen hin gereinigt in die Kufe; Von diesem unsern Somatranke trinke zuerst des Soma's lichter König, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В сосуде, золотистые (соки) принялись за дело,  
 Они устремились вперед, очищаясь.  

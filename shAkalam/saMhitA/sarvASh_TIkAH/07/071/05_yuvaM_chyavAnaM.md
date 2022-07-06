@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ च्य꣡वानं जर꣡सो ऽमुमुक्तं  
 नि꣡ पेद꣡व ऊहथुर् आशु꣡म् अ꣡श्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ जाहुषं꣡ शिथिरे꣡ धातम् अन्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 निः । अंह॑सः । तम॑सः । स्पर्त॑म् । अत्रि॑म् । नि । जा॒हु॒षम् । शि॒थि॒रे । धा॒त॒म् । अ॒न्तरिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -121,7 +121,7 @@ genre M
 हे अश्विना **युवं** युवां **च्यवानं** **जरसः** जीर्णाद्रूपात् **अमुमुक्तम्** अमुञ्चतम् ।' युवं च्यवानमश्विना जरन्तं पुनर्युवानम्' (ऋ. सं. १. ११७. १३) इति ह्यन्यत्र । तथा **पेदवे** एतन्नामकाय राज्ञे **आशुं** शीघ्रगामिनम् **अश्वं** **निः** **ऊहथुः** न्यवहतं युद्धे । युवं श्वेतं पेदवे' (ऋ. सं. १. ११८. ९) इति निगमः । तथा **अत्रिं** महर्षिम् **अंहसः** ऋबीसादग्नेः सकाशात् **तमसः** च गुहान्तःस्थिताच्च सकाशात् **निः** **स्पर्त** न्यपारयतम् । ‘युवमृबीसमुत तप्तमत्रय ओमन्वन्तं चक्रथुः' (ऋ. सं. १०. ३९. ९) इति निगमः । तथा **जाहुषं** **शिथिरे** शिथिले भ्रष्टे स्वराष्ट्रे **अन्तः** मध्ये पुनः **नि** **धातं** न्यधातम् । **परिविष्टं** जाहुषं विश्वतः सीम्' (ऋ. सं. १. ११६. २०) इति ह्युक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M
 Mounted Pedu: niramhasastamasahspartam atrim = amhasaḥ: ribisat tuṣagneḥ sakāśāt tamasaśca guhantaḥ sthitaccha
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two released Cyavāna from old age. You brought a swift horse  to Pedu.  
 You recovered Atri from difficulty and darkness. You set Jāhuṣa down  on soft (soil).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye freed Cyavana from old age and weakness: ye brought the courser fleet of food to Pedu.  
      Ye rescued Atri from distress and darkness, and loosed for Jahusa the bonds that bound him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr befreitet den Cyavana vom Alter; dem Pedu führet ihr das schnelle Roß zu. Den Atri erlöstet ihr aus Not, aus der Finsternis; den Jahusa setztet ihr in Freiheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr machtet frei vom Alter den Tschjavana und fuhrt herbei das schnelle Ross dem Pedu, Entrisst den Atri aus des Unglücks Dunkel, den Dschahuscha verbarget ihr im Buschwerk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы Чьявану избавили от старости,  
 Для Педу вы принесли быстрого коня,  

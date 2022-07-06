@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वैश्वानर꣡स्य दंस꣡नाभियो बृह꣡द्  
 अ꣡रिणाद् ए꣡कः सुअपस्य꣡या कविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अग्नि꣡र् द्या꣡वापृथिवी꣡ भू꣡रिरेतसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒भा । पि॒तरा॑ । म॒हय॑न् । अ॒जा॒य॒त॒ । अ॒ग्निः । द्यावा॑पृथि॒वी इति॑ । भूरि॑ऽरेतसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaiśvānarasya* ← *vaiśvānara*
 - \[noun\], genitive, singular, masculine
@@ -114,41 +114,41 @@ genre M
 वैश्वानरस्याग्नेः दंसनाभ्यः तोषकारीभ्यः क्रियाभ्यः बृहन्महद्धनम्भवतीतियत् तदवितथं यतःकारणात् एकोमुख्यः कविरग्निः स्वपस्यया शोभनयज्ञादिकर्मेच्छयायजमानादिभ्योधनमरि णात् ददातिसोयमग्निः भूरिरेतसा बहुरेतस्कौ उभाउभौ पितरापितरौ मातापितरौद्यावापृथि वी द्यावापृथिव्यौ महयन् पूजयन् अजायत ॥ ११ ॥समित्समिदित्येकादशर्चञ्चतुर्थंसूक्तं वैश्वामित्रं त्रैष्टुभं अत्रानुक्रमणिका समित्समिदाप्रियइति इध्मादिस्वाहाकृत्यन्ताःपूर्वोक्ताः प्रत्यृचन्देवताः पशौवैश्वामित्राणांआप्रीसूक्तं दर्शपूर्णमासयोः पत्नी संयाजेषुत्व्ष्टुर्याज्या तन्नइत्येषा सूत्रितञ्च—इहत्वष्टारमग्रियन्तन्नस्तुरीपमधपोषयित्न्विति । त्वाष्ट्रे पशौ पुरोडाशस्यानुवाक्या सूत्रितञ्च—तन्नस्तुरीपमधपोषयित्नुदेवस्त्वष्टासविताविश्वरूपइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “From acts that are acceptable to **Vaiśvānara** comes great (wealth); for he, the sage (**Agni**) alone, bestows (the reward) of zeal in (the performance of) his worship; adoring both his prolific friends, heaven and earth, Agni was born.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By the wondrous powers of Vaiśvānara and by his good work, the  single poet [=Agni?] made it [=his semen?] flow on high.  
 Agni was born, exalting both his parents, Heaven and the Earth, who  have abundant semen.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By his great skill the Sage alone hath brought to pass a great deed, mightier than Vaisvanara's wondrous acts.  
      Agni sprang into being, magnifying both his Parents, Heaven and Earth, rich in prolific seed.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For Vaisvânara's wonderful deeds he the sage alone has by his great skill mightily 1 let loose (his powers?). Agni has been born exalting. both his parents, Heaven and Earth, rich in seed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus den Meisterkräften des Vaisvanara ließ der einzige Seher mit schöner Schöpferkraft den hehren Samen fließen. Beide Eltern, die samenreichen Himmel und Erde, erhöhend wurde Agni geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Menschenhort liess strömen durch des Schaffens Kunst aus seiner Fülle Grosses, weise er allein; Als er geboren, machte beide Aeltern er die samenreichen Erd' und Himmel Agni gross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из чудесных сил Вайшванары один поэт  
 Выпустил течь высокое (пламя) с помощью прекрасной деятельности (своей).  

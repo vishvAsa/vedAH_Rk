@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्र꣡त्व इ꣡त् पूर्ण꣡म् उद꣡रं  
 तुर꣡स्य अस्ति विधतः꣡  
 वृत्रघ्नः꣡ सोमपा꣡वनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 वृ॒त्र॒ऽघ्नः । सो॒म॒ऽपाव्नः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratva* ← *kratvaḥ* ← *kratu*
 - \[noun\], genitive, singular, masculine
@@ -87,41 +87,41 @@ genre M
 **तुरस्य** त्वरमाणस्य **वृत्रघ्नः** वृत्रं हतवतः **सोमपाव्नः** सोमपातुः **उदरं** **क्रत्व** **इत्** कर्मणैव **पूर्णम्** **अस्ति** भवति । कस्य कर्मणेति उच्यते । **विधतः** परिचरतो यजमानस्य । यतः परिचरणाभावे तस्य कुक्षिपूर्त्यभावोऽतस्तत्पूर्तये परिचरतेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The belly of the **Soma**-drinker, the eager slayer of **Vṛtra**, is filled by the sacrificer's offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Full of resolve is the belly of the powerful, (booty-)apportioning,  
 Vr̥tra-smiting drinker of soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I consider the genitives in pāda b, turásya … vidhatáḥ to modify Indra, whereas Geldner takes them with the ‘resolve’ (krátvaḥ), which he considers to be the soma, of pāda a. The problem, in his view, is that vidhánt- doesn’t easily qualify Indra (turá- regularly does), but since the root √vidh ‘honor’ is an old derivative of ví √dhā ‘apportion’, taking it in its etymological sense allows it to modify the god.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He hath his stomach full of might, the Vrtra-slayer, Conqueror,  
      The Soma-drinker, ordering all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bauch des Vritratöters und Somatrinkers ist voll der überlegenen, ihm ergebenen Weisheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Krafttrunk ist sein Bauch gefüllt, des mächt'gen, der den Vritra schlägt, Des holden, der den Soma trinkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

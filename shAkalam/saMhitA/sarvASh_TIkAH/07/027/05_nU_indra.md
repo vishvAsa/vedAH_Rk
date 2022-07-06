@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ इन्द्र राये꣡ व꣡रिवस् कृधी न  
 आ꣡ ते म꣡नो ववृत्याम मघा꣡य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 गोऽम॑त् । अश्व॑ऽवत् । रथ॑ऽवत् । व्यन्तः॑ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -133,36 +133,36 @@ genre M;; repeated line
 हे **इन्द्र** **नः** अस्मभ्यं **राये** धनप्राप्तये **नु** क्षिप्रं **वरिवः** धनम् । वेदो वरिवः' इति धननामसु पाठात् । त्वं **कृधि** देहि । वयं **ते** तव **मनः** **मघाय** मंहनीयाय स्तुत्या **आ** **ववृत्याम** आवर्तयाम । स्पष्टमन्यत् ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, grant quickly wealh for our enricment; may we attract your favour by our adoration; granting us(riches), comprising cattle and horses and chariots; do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, Indra, make wide space for our wealth. May we turn your mind  here for bounty,  
 as we pursue (wealth) in cows, horses, and chariots. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Quick, Indra, give us room and way to riches, and let us bring thy mind to grant us treasures,  
      That we may win us cars and Steeds and cattle. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun bahne uns den Weg zum Reichtum, Indra! Wir möchten deinen Sinn zum Geben wenden, die wir nach Rinder-, Roß-, und Wagenbesitz trachten.- Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun, Indra, schaff uns freie Bahn zum Reichthum; zur Spende mögen deinen Sinn wir wenden, Erlangend viele Rinder, Rosse, Wagen; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так создай же нам Индра, широкий путь к богатству!  
 Мы хотим обратить твою мысль к дарению,  

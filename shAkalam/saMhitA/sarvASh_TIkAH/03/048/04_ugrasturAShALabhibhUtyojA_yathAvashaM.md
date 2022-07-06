@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उग्र꣡स् तुराषा꣡ळ् अभि꣡भूतिओजा  
 यथावशं꣡ तनु꣡वं चक्र एषः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आमु꣡ष्या सो꣡मम् अपिबच् चमू꣡षु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वष्टा॑रम् । इन्द्रः॑ । ज॒नुषा॑ । अ॒भि॒ऽभूय॑ । आ॒ऽमुष्य॑ । सोम॑म् । अ॒पि॒ब॒त् । च॒मूषु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ugras* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 यः **एषः** इन्द्रः **उग्रः** शत्रूणां भयंकरः **तुराषाट्** त्वरया शत्रूणामभिभविता अत एव **अभिभूत्योजाः** शत्रूणामभिभवनपराक्रमोपेतः सन् **तन्वम्** आत्मीयं शरीरं **यथावशं** यथाकामं नानाविधरूपोपेतं **चक्रे** । तथा च मन्त्रवर्णः- रूपंरूपं मघवा बोभवति' ( ऋ. सं. ३. ५३, ८) इति । सः **इन्द्रः** **जनुषा** जन्मना सामर्थ्येन **त्वष्टारं** त्वष्टृनामकमसुरम् **अभिभूय** **चमूषु** चमसेषु स्थितम् **आमुष्य** चोरयित्वा **सोममपिबत्** ।' त्वष्टा हतपुत्रो वीन्द्रम्' इत्यादि ‘प्रासहा सोममपिबत् ' ( तै. सं. २. ४. १२. १ ) इति तैत्तिरीयकम् ॥ तुराषाट् । ‘ञित्वरा संभ्रमे ' । क्विप् । ‘ज्वरत्वर' ' इत्यादिना ऊठ् । सहेः “ छन्दसि सहः' इति ण्विः । ‘कर्तृकरणे कृता बहुलम्' इति समासः । तत्पुरुषे कृति बहुलम्' इति तृतीयायाः अलुक् । ‘सहेः साडः सः ' इति षत्वम् । कृदुत्तरपदस्वरः। यथावशम् । वशं काममनतिक्रम्य इत्यव्ययीभावसमासः । समासस्वरः । आमुष्य । ‘मुष स्तेये ' । ल्यप् । चमूषु ।' चमु अदने '। ‘कृषिचमितनिधनिसर्जिखर्जिभ्य ऊः' इत्यूप्रत्ययः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,13 +127,13 @@ genre M
 Made his form obedient to his will: According to **sūkta** 3.8, rūpam rūpam **maghavan** bobhavīti, Maghavan is repeatedy of various forms; he can take what form he wills
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Strong, overcoming the powerful, of overwhelming strength—he made  his body as he wished.  
 Having overwhelmed Tvaṣṭar at his birth, Indra, having stolen the soma,  drank it in the cups.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/048/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -143,23 +143,23 @@ These two vss. are noteworthy for containing 3 gerunds, upasthā́ya, abhibhū́
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fierce, quickly conquering, of surpassing vigour, he framed his body even as he listed.  
      E'en from his birth-time Indra conquered Tvastar, bore off the Soma and in beakers drank it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewaltig, die Mächtigen bezwingend, von überlegener Stärke, hat er nach Belieben seinen Leib gewandelt. Von Natur dem Tvastri überlegen raubte Indra den Soma und trank ihn aus den Gefäßen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schnellsiegend, mächtig, übergross an Stärke gestaltete den Leib er ganz nach Wunsch sich, Den Tvaschtar schon als Kind besiegend, trank er, den Soma raubend, Indra aus den Bechern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Грозный, одолевающий (даже) могучих, с силой превосходства,  
 Он создавал себе тело, как хотел.  

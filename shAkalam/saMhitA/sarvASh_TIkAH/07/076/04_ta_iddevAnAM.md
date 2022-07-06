@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡ इ꣡द् देवा꣡नां सधमा꣡द आसन्न्  
 ऋता꣡वानः कव꣡यः पूर्विया꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सत्य꣡मन्त्रा अजनयन्न् उषा꣡सम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 गू॒ळ्हम् । ज्योतिः॑ । पि॒तरः॑ । अनु॑ । अ॒वि॒न्द॒न् । स॒त्यऽम॑न्त्राः । अ॒ज॒न॒य॒न् । उ॒षस॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -117,20 +117,20 @@ genre M
 **त** **इत्** तेऽङ्गिरस एवर्षीणां मध्ये **देवानां** **सधमादः** सह माद्यन्तः **आसन्** अभवन् । त इत्युक्तं क इत्याह । ये **ऋतावानः** सत्यवन्तः **कवयः** अनूचानाः। ये वा अनूचानास्ते कवयः' (ऐ. ब्रा. २. ३८) इति श्रुतेः । **पूर्व्यासः** पूर्वकालीनाः **पितरः** पालयितारः सर्वस्याङ्गिरसः **गूळ्हं** तमसावृतं **ज्योतिः** सौर्यं तेजः **अन्वविन्दन्** लब्धवन्तो मन्त्रसामर्थ्यात् ते **सत्यमन्त्राः** सत्यस्तुतयः सन्तः **उषासम्** उषसम् **अजनयन्** प्रादुरकुर्वन् । ‘तुरीयेण ब्रह्मणाविन्ददत्रिः' (ऋ. सं. ५. ४०. ६) **अत्रयस्तमन्चविन्दन्'** (ऋ. सं. ५. ४०.९) इति निगमौ । अत्राङ्गिरसां स्तुत्योषस एव स्तुतिर्ज्ञातव्या ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those ancient sages, our ancestors, observant of truth, rejoicing together with the gods, discovered thehidden ligh, and, reciters of sincere prayers, they genitive rated the Dawn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those were the feasting companions of the gods: the sage poets of old,  provided with truth.  
 The Fathers discovered the hidden light. With their mantras that come  true, they generated the Dawn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although this vs. begins in the same way as vs. 3, the syntax is quite straightforward, with no dependent clauses and the Fathers as subject throughout.
 
@@ -147,23 +147,23 @@ As noted in the published introduction, these two vss. are defined as an omphalo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They were the Gods' companions at the banquet, the ancient sages true to Law Eternal.  
      The Fathers found the light that lay in darkness, and with effectual words begat the Morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie waren die Mahlgenossen der Götter, die wahrhaften Seher der Vorzeit. Die Väter fanden das verborgene Licht wieder; sie, deren Worte in Erfüllung gehen, brachten die Usas hervor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da waren es der Götter Tischgenossen, die frommgesinnten Seher alter Zeiten; Die Väter fanden den verborgnen Lichtschein, mit kräft'gem Spruch erzeugten sie die Uschas.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поистине они были сотрапезниками богов,  
 (Эти) преданные закону древние поэты.  

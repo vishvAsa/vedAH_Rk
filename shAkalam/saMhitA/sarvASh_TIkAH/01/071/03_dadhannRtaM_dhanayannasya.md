@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡धन्न् ऋतं꣡ धन꣡यन्न् अस्य धीति꣡म्  
 आ꣡द् इ꣡द् अर्यो꣡ दिधिषु꣡वो वि꣡भृत्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡ञ् ज꣡न्म प्र꣡यसा वर्ध꣡यन्तीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अतृ॑ष्यन्तीः । अ॒पसः॑ । य॒न्ति॒ । अच्छ॑ । दे॒वान् । जन्म॑ । प्रय॑सा । व॒र्धय॑न्तीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhann* ← *dadhan* ← *dhā*
 - \[verb\], plural, Present conjunctive (subjunctive)
@@ -117,7 +117,7 @@ genre M
 **ऋतं** देवयजनदेशं प्राप्तमग्निमङ्गिरसो महर्षयः **दधन्** गार्हपत्यादिरूपेणाधारयन् । धारयित्वा च **अस्य** अग्नेः **धीतिं** कर्म अग्निहोत्रादिलक्षणं **धनयन्** धनमकुर्वन् । यथा पुरुषा धनं संपादयन्ति तद्वदग्निदेवत्यं कर्म अन्वतिष्ठन्नित्यर्थः । **आदित्** अङ्गिरसामनुष्ठानानन्तरमेव **अर्यः** अर्या धनस्य स्वामिन्यः **दिधिष्वः** तेन धनेन दिधिष्वोऽग्नीनां धारणं कुर्वत्यः । कृताग्न्याधाना इत्यर्थः। **विभृत्राः** आहितानग्नीन् अग्निहोत्रादिकर्मणि विहरन्त्यः **अतृष्यन्तीः** विषयान्तरतृष्णारहिताः अत एव **अपसः** अपसा कर्मणा युक्ताः एवंभूता यजमानलक्षणाः प्रजाः **प्रयसा** हविर्लक्षणेनान्नेन **देवान्** इन्द्रादीन् 'जन्म जातान् मनुष्यांश्च **वर्धयन्तीः** वर्धयन्त्यः सस्यः एनमग्निम् **अच्छ** आभिमुख्येन **यन्ति** प्राप्नुवन्ति परिचरन्तीति यावत् । दधन् । “ दध धारणे'। लङि व्यत्ययेन परस्मैपदम् । बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । धनयन् । धनशब्दात् ' तत्करोति' इति णिच् । ‘ इष्ठवण्णौ प्रातिपदिकस्य ' इति इष्ठवद्भावात् टिलोपः । लङि पूर्ववत् । अर्यः । ‘अर्यः स्वामिवैश्ययोः' ( पा. सू. ३. १. १०३ ) इति निपातितः । लिङ्गवचनव्यत्ययो ।' अर्यः स्वाम्याख्या चेत् ' (फि. सू. १७ ) इत्यन्तोदात्तत्वम् । दिधिष्वः । ‘ डुधाञ् धारणपोषणयोः ', ' षो अन्तकर्मणि ' इत्याभ्याम् ‘अन्दूदृम्भूजम्बूकफेलूकर्कन्धूदिधिषूः । ( उ. सू. १. ९३ ) इति कूप्रत्ययान्तो निपातितः । प्रत्ययस्वरः । ‘उदात्तस्वरितयोर्यण:०' इति जसः स्वरितत्वम् । विभृत्राः । ‘ हृञ् हरणे'। विपूर्वादस्मादौणादिकः क्त्रप्रत्ययः । ‘ हृग्रहोर्भः ' इति भत्वम् । अतृष्यन्तीः । ‘ ञितृषा पिपासायाम् ' । जसि ' वा छन्दसि  इति पूर्वसवर्णदीर्घस्य विकल्पितत्वात् पूर्वसवर्णदीर्घः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । अपसः । अपस्शब्दादुत्पन्नस्य मत्वर्थीयस्य विनो ‘ बहुलं छन्दसि' (पा. सू. ५. २. १२२ ) इति बहुलवचनात् लुक् । विनन्तस्य त्रिलिङ्गत्वेन नब्विषयत्वाभावात् प्रातिपदिकस्वरेणान्तोदात्तत्वम् । जन्म । जायन्ते इति जन्मानो मनुष्याः । ‘ अन्येभ्योऽपि दृश्यन्ते' इति मनिन् । 'सुपां सुलुक् ' इति शसो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,13 +128,13 @@ genre M
 Āryan = dhanasya svāminaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They set the truth in place and they set the vision of it in motion; just  after that the voracious (visions) of the stranger are dispersed.  
 Never thirsting, (the [Aṅgirases’/poets’] visions), performing their tasks,  go to the gods, strengthening their race with a pleasing offering.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A difficult verse with a discouragingly large number of competing interpretations. In outline, though not in detail, I follow Geldner’s interpretation: pāda a concerns the production of poetry and the poetic vision by our side, in contrast to the poetic visions of the stranger, our rival, in b. After the stranger’s attempts are gotten rid of, the topic returns in cd to our poetic products, which have success. (Witzel Gotō basically follow Geldner, while Oldenberg [SBE] and Renou take b as coreferential with cd.) The first hemistich, esp. its first pāda, is highly alliterative and rhyming: dádhann ṛtáṃ dhanáyann asya dhītím, ā́d íd aryó didhiṣvò víbhṛtāḥ. The two parallel 3rd pl. verbs dádhan and dhanáyan technically do not match in mood, since dádhan should be a subjunctive (the injunctive to this redupl. pres. should be either
 
@@ -152,28 +152,28 @@ Just as the injunctives of pāda a can have either presential or preterital valu
 With Grassmann, Oldenberg, Renou, I take apásaḥ as a nom. pl. fem.; Geldner (/Witzel Gotō) rather as a gen. sg. masc. referring to the singer/priest. This is certainly possible and would provide a neat contrast to the gen. sg. aryáḥ of b. I would prefer, however, to keep the possible reference to the Aṅgirases alive. I would prefer not to take devā́n in d as a truncated gen. pl. construed with jánma (or as a second acc. with vardháyantīḥ “strengthening the gods, their race”); therefore, despite the pāda boundary, I take it with áchā, which frequently governs devā́n (so, apparently, also Renou); cf. esp. I.132.5 (=139.1) devām̐áchā ná dhītáyaḥ, which is our underlying phrase.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They stablished order, made his service fruitful; then parting them among the longing faithful,  
      Not thirsting after aught, they come, most active, while with sweet food the race of Gods they strengthen.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They founded the Rita; they set into motion the thought of it 1. Thus then the widely-spread (prayers) 2 of the poor 3 which seek to obtain (wealth), which are free from thirst 4, the active, approach 5 the tribe of the gods 6, strengthening them by offering them delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie stellten das Gesetz fest, sie brachten die Erkenntnis dieses in Umlauf. Seitdem sind die begehrlichen Gedanken des Nebenbuhlers wie Kinder, die noch getragen werden. Nur die gierlosen Gedanken des geschickten Sängers gehen zu ihnen, indem sie das Geschlecht der Götter mit Labsal stärken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie schufen Opfer, regten sein Gebet an; und Lieder, buhlend, strebend, sich verbreitend, Sie nahn sich dann, nicht schmachtend, eifrig wirkend, mit Labung stärkend das Geschlecht der Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они установили вселенский закон, привели в действие его силу прозрения.  
 И вот желающие прельстить человека (языки пламени Агни) разносятся в разные стороны.  

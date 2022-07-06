@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यः꣡ पप्रउ꣡ · जा꣡यमान उर्वी꣡  
 दूरेदृ꣡शा भा᳐सा꣡ कृष्ण꣡अध्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तिरः꣡ शोचि꣡षा ददृशे पवाकः꣡+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । ब॒हु । चि॒त् । तमः॑ । ऊर्म्या॑याः । ति॒रः । शो॒चिषा॑ । द॒दृ॒शे॒ । पा॒व॒कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,35 +120,35 @@ genre M
 **कृष्णाध्वा** कृष्णवर्त्मा **यः** अग्निः **जायमानः** प्रादुर्भवन् **उर्वी** विस्तीर्णे द्यावापृथिव्यौ **दूरेदृशा** दूरे दृश्यमानया **भासा** दीप्त्या **आ** **पप्रौ** आपूरयति सः **पावकः** अग्निः **अध** अनन्तरम् **ऊर्म्यायाः**। रात्रिनामैतत् । रात्रेः संबन्धि **बहु** **चित्** बह्वपि **तमः** अन्धकारं **शोचिषा** दीप्त्या **तिरः** तिरस्कुर्वन् **ददृशे** दृश्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The dark-pathed, as soon as genitive rated, filled with his afar-seen light the two spacious (worlds); he, the purifer, is now beheld dispersing with his radiance the thick glooms of night.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who, (even) while being born, has filled the two wide (world-halves)  with his light, visible from afar—(though) his course is black— so even across the dense darkness of the night the pure one is visible with  his flame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, at his birth, whose path is black behind him, filled heaven and earth with far-apparent splendour:  
      And he himself hath been. through night's thick darkness, made manifest by light, the Purifier.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eben geboren beide Räume erfüllt hat mit seinem weithin sichtbaren Glanz, der Schwarzpfadige. Dann ist er, der Lautere, auch durch die dichte Finsternis der Nacht hindurch mit seiner Glut sichtbar.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der kaum geboren beide Welten füllte auf schwarzer Bahn mit weit zu schau'ndem Lichte; Er ward erblickt auch durch das dichte Dunkel der Nacht hindurch mit seinem Schein, der Flammer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Агни,) который, едва родившись, заполнил два широких (пространства),  
 (Своим) сиянием, видным далеко, (бог,) пролагающий черный путь.  

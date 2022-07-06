@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् इदं꣡ वाम् पुराणव꣡ज्  
 ज꣡रतोर् इव शस्यते  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim*
 - \[adverb\]
@@ -95,7 +95,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे अश्विनौ **वां** युवयोरर्थमागमनाय **पुराणवत्** पुराणयोरतिवृद्धयोरिव । तदेवाह । **जरतोरिव** **शस्यते** । पुनःपुनरागच्छतमिति शस्यते । **किमिदम्** । यथा लोके वृद्धो जीर्णो बहुवारमाहूतोऽपि नागच्छति तद्वद्युवामपीत्यर्थः । एवमनागमाद्ब्रवीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,36 +106,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 As if you were decrepit: as we see in the world that an old ma does not come, thoughoften called, so too is it with you
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What is this (deed?) of yours proclaimed in age-old fashion, like that of  old men?  
 – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Some of the interpretive questions in this vs. are 1) whether kím is a neut.
 
 interrog. pronoun (as I take it) or a question particle (so Geldner), and 2) what the referent of idám is. I supply ‘deed’, since that’s something regularly proclaimed. Geldner and Renou assume the referent is ávaḥ ‘Gnade’/‘faveur’ from the refrain. Since the refrain otherwise has no connection with the rest of the verse in this hymn, I think this solution is unlikely, but I hold no particular brief for my ‘deed’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What is this praise told forth of you as Elders in the ancient way?  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wird diese von euch wie etwas Altes, wie von zwei bejahrten Leuten gerühmt? - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was ist es, das nach alter Art ihr rühmt, als wäret Alte ihr? Es sei uns eure Hülfe nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А что эта (милость) наша прославляется  
 Как на старый лад, как у двоих стариков?  

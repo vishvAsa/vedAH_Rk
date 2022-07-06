@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ नो अग्ने मघ꣡वद्भ्यः पुरुक्षुं꣡  
 रयिं꣡ नि꣡ वा꣡जं श्रु꣡तियं युवस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रुद्रे꣡भिर् अग्ने व꣡सुभिः सजो꣡षाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वैश्वा॑नर । महि॑ । नः॒ । शर्म॑ । य॒च्छ॒ । रु॒द्रेभिः॑ । अ॒ग्ने॒ । वसु॑ऽभिः । स॒ऽजोषाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -122,36 +122,36 @@ genre M
 हे **अग्ने** **मघवद्भ्यः** धनवद्भ्यः । हविष्मद्भ्य इत्यर्थः । **नः** अस्मभ्यं **पुरुक्षुं** बह्वन्नं बहुयशस्कं वा **तं** प्रसिद्धं **रयिं** **श्रुत्यं** श्रवणीयं **वाजं** बलं च **नि** **युवस्व** नितरां मिश्रयस्व । किंच हे **वैश्वानर** विश्वनरहित अग्ने त्वं **रुद्रेभिः** रुद्रैः **वसुभिः** च देवैः **सजोषाः** सहितश्च सन् **नः** अस्मभ्यं **महि** महत् **शर्म** सुखं यच्छ प्रयच्छ ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us who are affluent (in offerings), **Agni**, ample riches and renowned strength; associatedwith the **Rudras**, with the **Vasus**, grant us, Agni **Vaiśvānara**, infinite happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bind wealth that brings many cattle to our generous patrons, o Agni, as  well as the prize of victory worthy of fame.  
 O Vaiśvānara, along with the Rudras and Vasus, offer great protection to  us, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, bestow upon our chiefs and nobles that famous power, that wealth which feedeth many.  
      Accordant with the Vasus and the Rudras, Agni, Vaisvanara, give us sure protection.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Besitz von vielem Vieh verleihe, o Agni, unseren Lohnherren und rühmlichen Siegergewinn. Vaisvanara, gewähre uns großen Schutz im Verein mit den Rudra´s, den Vasu´s, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies nahrungsreiche Gut, o Agni, schenke den Opferherrn und rühmenswerthe Labung; O Männerhort, verleihe grossen Schutz uns, vereint mit Vasu's, Agni, und den Rudra's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этим богатством – множеством скота надели  
 Нас, о Агни, и щедрых (покровителей), (а также) наградой, достойной славы!  

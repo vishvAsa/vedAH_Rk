@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गो꣡भिष् टरेम अ꣡मतिं दुरे꣡वां  
 य꣡वेन क्षु꣡धम् पुरुहूत वि꣡श्वाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡केन वृज꣡नेना जयेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 व॒यम् । राज॑ऽभिः । प्र॒थ॒माः । धना॑नि । अ॒स्माके॑न । वृ॒जने॑न । ज॒ये॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gobhiṣ* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
@@ -106,7 +106,7 @@ genre M;; repeated line
 इदमृग्द्वयं व्याख्यातचरं ॥ १० ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,30 +117,30 @@ genre M;; repeated line
 May we acquire the chief riches: or, may we, the chief, acquire riches
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With cows we would overcome neglect that goes ill, and with barley we  would overcome all hunger, o you who are much invoked.  
 With our kings and our community might we be the first to win the  
 stakes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Much-invoked, may we subdue all famine and evil want with store of grain and cattle.  
      May we allied, as first in rank, with princes obtain possessions by our own exertion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch Kühe wollen wir die Ratlosigkeit, die Böses trachtet, überwinden, durch Korn jeglichen Hunger, o Vielgerufener. Wir wollen mit den Königen zuerst die Siegesbeute, mit unserem Bunde gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Milchtrank lass den bösen Durst uns stillen, durch Korn, o vielgerufner, jeden Hunger; Die beste Beute lass uns durch die Fürsten und auch durch unsre Kriegerschar gewinnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С помощью коров пусть преодолеем мы отсутствие мыслей ведущее к злу,  
 С помощью зерна – любой голод, о многопризываемый!  

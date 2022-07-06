@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिस्रो꣡ यह्व꣡स्य समि꣡धः प꣡रिज्मनो  
 अग्ने꣡र् अपुनन्न् उशि꣡जो अ꣡मृत्यवः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उलोक꣡म्† उ द्वे꣡ उ꣡प जामि꣡म् ईयतुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तासा॑म् । एका॑म् । अद॑धुः । मर्त्ये॑ । भुज॑म् । ऊं॒ इति॑ । लो॒कम् । ऊं॒ इति॑ । द्वे इति॑ । उप॑ । जा॒मिम् । ई॒य॒तुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
@@ -128,7 +128,7 @@ genre M
 उशिजः कामयमानाः अमृत्यवोमृत्युरहिताः येदेवाः यह्वस्यमहतः अग्नेः परिज्मनः परि तोगन्तुः समिधः समिन्धिकाः प्रकाशिकास्तिस्रः पार्थिववैद्युतसूर्यरूपास्तिस्रस्तनूः अपुनन् अशो धयन् तेदेवाः भुजंसर्वेषाम्पालयित्रीं तासान्तनूनाम्मध्ये एकाम्पार्थिवीन्तनुं मर्त्येमर्त्यलोके अदधुः न्यदधुः उइतिपादपूरणः इतरेद्वेतनू जामिंलोकं आसन्नमन्तरिक्षं उपेयतुः गच्छतः अथवातिस्रः समिधः आधारसमिधौद्वेअनूयाजसमिच्चैकेति तासांसमिधांएकां अनूयाजसमिधं मर्त्येइहलोके भोगहेतुमनूयाजपर्यन्तमदधुः धारयन्ति प्रजावाअनूयाजइति प्रजात्वेनानूयाजानांस्रष्टृत्वात् तदा श्रयत्वाच्चानूयाजसमिधः इतरेद्वेसमिधौ अन्तरिक्षेदिव्यभोगहेतू उपेयतुः उपगच्छतः त्रीन् परिधीं स्तिस्रः समिधइतिहिनिगमः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,34 +139,34 @@ genre M
 The three radiances: **tisraḥ** **samidhaḥ** = liṭ, the three fuels, (**pārthiva** **vaidyuta** **sūrya** rūpādi stisra stanūḥ); here, interpreted as three forms or conditions of fire; as, earthy fire, that of the firmament or lightning, and that of heaven, the sun;or, three **Vedi** cforms, two termed aghara, and one anuyāja; the celebration of the latter is rewarded by enjoyment in this world, that of the two former by enjoyment in the firmament and heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The deathless fire-priests purified three kindling sticks for the youthful,  earth-encircling Agni.  
 While they placed one of these as a benefit for the mortal, two also  went up to the wide world (of heaven) kindred (to the earth).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who are free from death, fain for him, purified three splendours of the mighty Agni, circling all.  
      To man, for his enjoyment, one of these they gave: the other two have passed into the sister sphere.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The immortal Usigs have purified three logs for the vigorous 1 Agni 2 who wanders round the earth 3: of these they have placed one among the mortals for their enjoyment; two have passed into the sister world 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die unsterblichen Usij weihten drei Brennhölzer für den umwandelnden jüngsten Agni. Während sie das eine von diesen zum Nutz für den Sterblichen bestimmten, gelangten die zwei anderen in die verschwisterte Welt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei Flammen Agni's, des geschäft'gen Wanderers, entzündeten verlangend die Unsterblichen, Von diesen gaben eine sie dem Sterblichen zum Brauch, die andern gingen zu der Götter Ort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для юного Агни, совершающего круговой обход,  
 Бессмертные Ушиджи очистили три полена.  

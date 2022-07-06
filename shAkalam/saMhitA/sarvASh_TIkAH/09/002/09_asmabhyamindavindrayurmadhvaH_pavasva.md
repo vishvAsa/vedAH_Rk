@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्म꣡भ्यम् इन्दव् इन्द्रयु꣡र्  
 म꣡ध्वः पवस्व धा꣡रया  
 पर्ज꣡न्यो वृष्टिमाँ꣡ इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 प॒र्जन्यः॑ । वृ॒ष्टि॒मान्ऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmabhyam* ← *mad*
 - \[noun\], dative, plural
@@ -75,7 +75,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्दो** सोम **इन्द्रयुः** इन्द्रकामस्त्वं **मध्वः** मदकरस्यामृतस्य **धारया** **पर्जन्यो** **वृष्टिमानिव** यथा वर्षवान् पर्जन्यो मेघस्तथा **अस्मभ्यं** मेधातिथिभ्यः **पवस्व** क्षर
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -86,30 +86,30 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Indrayuḥ = enjoyed by Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For us, o drop, while seeking Indra, purify yourself in a stream  
 of honey,  
 like rain-bearing Parjanya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu as, Indra's Friend, on us pour with a stream of sweetness, like  
      Parjanya sender of the rain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für uns läutere dich, o Saft, nach Indra verlangend, mit dem Erguß der Süßigkeit, wie der regenbringende Parjanya!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns riesle, Indra-liebender, o Indu, mit des Methes Strom Der regenschwangern Wolke gleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для нас, о капля, предназначенная Индре,  
 Очищайся потоком сладости,  

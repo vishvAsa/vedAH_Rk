@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भिये꣡द् एते꣡ मरु꣡तः सुशे꣡वा  
 अ꣡र्चन्ति अर्कं꣡ सुनुव꣡न्ति अ꣡न्धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ माया꣡भिर् मायि꣡नं सक्षद् इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अहि॑म् । ओ॒हा॒नम् । अ॒पः । आ॒ऽशया॑नम् । प्र । मा॒याभिः॑ । मा॒यिन॑म् । स॒क्ष॒त् । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyed* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
@@ -120,7 +120,7 @@ genre M
 **एते** **मरुतः** । महद्रवन्ति वदन्तीति' मरुतः स्तोतारः। **सुशेवाः** । शेवमिति सुखनामैतत् । शोभनसुखाः सन्तः । स्तोत्रेण शोभनं सुखमुत्पादयन्त इत्यर्थः । हे इन्द्र **तुभ्येत्** तुभ्यमेव **अर्कम्** अर्चनीयं स्तोत्रम् **अर्चन्ति** स्तुवन्ति कुर्वन्तीत्यर्थः । **अन्धः** सोमलक्षणमन्नं 'सुन्वन्ति अभिषवं कुर्वन्ति । **इन्द्रः** परमैश्वर्ययुक्तः 'मायाभिः स्वकीयाभिः शक्तिभिः **अहिं** वृत्रं **प्र** **सक्षत्** अभ्यभवत् । कीदृशम् । **ओहानं** देवान् बाधमानम् **अपः** उदकानि **आशयानम्** आवृत्य शयनं कुर्वन्तं **मायिनं** कपटवन्तमिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,33 +131,33 @@ genre M
 Maruts: Or, maruts may here signify praisers, worshippers, stotāraḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just for you do these friendly Maruts chant the chant, press the stalk. The serpent vaunting himself, lying on the waters—Indra will overcome  the tricky one with tricks.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Referent shift continues: 2nd ps. in ab, 3rd in cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These blissful Maruts sing their psalm to praise thee, and pour to thee libation of the Soma.  
      Indra with wondrous powers subdued the Dragon, the guileful lurker who beset the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir singen diese befreundeten Marut den Preisgesang, sie pressen den Somatrank: Den strahlenden Drachen, der die Gewässer belagerte, den listigen, soll Indra mit List überwinden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, dir ja singen alle diese Maruts, die holden, Loblied, keltern Somakräuter, Ihn, welcher lauernd um die Wasser dalag, den list'gen Drachen schlug mit Listen Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для тебя эти очень милые Маруты  
 Поют песнопения, выжимают сому.  

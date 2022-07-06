@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡त्ना इ꣡द् इन्द्र ते वय꣡म्  
 ऊती꣡ अभूम नहि꣡ नू꣡ ते अद्रिवः  
 विद्मा꣡ पुरा꣡ प꣡रीणसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वि॒द्म । पु॒रा । परी॑णसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nūtnā* ← *nūtnāḥ* ← *nūtna*
 - \[noun\], nominative, plural, masculine
@@ -98,7 +98,7 @@ genre M
 हे **इन्द्र** **ते** तव **ऊती** ऊत्यै रक्षणे **वयं** **नूत्ना** **इत्** नूतना एव **अभूम** भवामः । **अद्रिवः** वज्रिन हे इन्द्र **पुरा** पूर्वं त्वां **परीणसः** । सुब्व्यत्ययः । परीणसं परितो व्याप्तं महान्तं वेति **नहि** **विद्म** न जानीमः । **नु** संप्रति तु **ते** त्वां महान्तमिति जानन्तो वयं भवता रक्ष्या इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,29 +109,29 @@ genre M
 "We knew you not formerly as the mighty one (but now we know you)"
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Only recently have we come together with your help, Indra, for  previously, o master of the stones,  
 we have not known your abundance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For not in recent times alone, O Indra, Thunder-armed, have we obtained thine aid.  
      Of old we knew thy plenteous wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir sind aufs neue deiner Hilfe gewärtig, Indra, denn noch haben wir früher deine volle Größe nicht kennen gelernt, o Herr des Preßsteins.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn nicht erst jetzt, o Schleuderer, sind wir als neue, Indra, deiner Huld genaht; Auch sonst ward uns dein Reichthum kund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь и теперь, о Индра, мы  
 Оказались в зависимости от твоей поддержки – ведь мы не знали раньше  

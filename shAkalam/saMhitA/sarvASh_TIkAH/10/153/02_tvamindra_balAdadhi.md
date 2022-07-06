@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् इन्द्र ब꣡लाद् अ꣡धि  
 स꣡हसो जात꣡ ओ꣡जसः  
 तुवं꣡ वृषन् वृ꣡षे꣡द् असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 त्वम् । वृ॒ष॒न् । वृषा॑ । इत् । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -93,7 +93,7 @@ popular
 हे **इन्द्र** **त्वं** **सहसः** परेषामभिभावुकात् **बलात्** **अधि** **जातः** असि । अधिः पञ्चम्यर्थानुवादकः । वृत्रादिवधहेतुभूताद्बलाद्धेतोस्त्वं प्रख्यातो भवसीत्यर्थः । अपि च **ओजसः**। ओजो नाम बलहेतु हृदयगतं धैर्यम् । तस्मादपि त्वं जातोऽसि । हे **वृषन्** वर्षितः **त्वं** **वृषेदसि** कामानां वर्षितैव भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,29 +104,29 @@ popular
 **Nirukta** 7.2
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, were born from power, from strength, from might.  
 You, bull, are really a bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Based upon strength and victory and power, O Indra is thy birth:  
      Thou, Mighty One, art strong indeed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, bist aus der Kraft, aus der Übergewalt, aus der Stärke geboren. Du, Bulle, bist wirklich ein Bulle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, bist aus Kraft erzeugt, aus Siegesmacht und aus Gewalt; Du bist, o Stier, ein rechter Stier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, рожден от силы,  
 От могущества, от мощи.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रातर्या꣡वभिर् आ꣡ गतं  
 देवे꣡भिर् जेनियावसू  
 इ꣡न्द्राग्नी सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्द्रा॑ग्नी॒ इति॑ । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prātaryāvabhir* ← *prātaryāvabhiḥ* ← *prātaryāvan*
 - \[noun\], instrumental, plural, masculine
@@ -80,40 +80,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **जेन्यावसू** जेतव्यशत्रुधनौ **इन्द्राग्नी** **प्रातर्यावभिः** देवैः सह **सोमपीतये** सोमस्य पानाय **आ** **गतम्** आगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rich with the spoils of victory, come, **Indra** and **Agni**, to drink of the **Soma**, with the deities astir in themorning.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along with the early-traveling gods come here, you two of noble goods, – Indra and Agni, for soma-drinking.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On jenya- see comm. ad I.128.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come with the early-faring Gods, ye who are Lords of genuine wealth:  
      Indra-Agni, to the Soma-draught
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet mit den frühausfahrenden Göttern, die ihr angestammtes Gut besitzet, Indra und Agni, um Soma zu trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Göttern, die am Morgen gehn, kommt her, o reichbegüterte, Den Soma, Indra-Agni, trinkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте вместе с рановыезжающими  
 Богами, о вы двое, у кого есть унаследованное добро,  

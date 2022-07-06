@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि अर्वा꣡ङ् उ꣡प वन्धुरेष्ठा꣡स्  
 त꣡वे꣡द् अ꣡नु प्रदि꣡वः सोमपे꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवा꣡म् इमे꣡ हव्यवा꣡हो हवन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्रि॒या । सखा॑या । वि । मु॒च॒ । उप॑ । ब॒र्हिः । त्वाम् । इ॒मे । ह॒व्य॒ऽवाहः॑ । ह॒व॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -134,43 +134,43 @@ genre M
 हे इन्द्र **वन्धुरेष्ठाः** । वन्धुरशब्देन ईषाद्वयसंबन्धस्थानम् अभिधीयते । तेन तद्विशिष्टो रथो लक्ष्यते । तस्मिन् रथे तिष्ठंस्त्वम् **अर्वाङ्** अस्मदभिमुखः सन् **आ** अभिलक्ष्य **उप** **याहि** समीप अगच्छ। **प्रदिवः** प्रत्नं पूर्वक्रमागतं **तवेत्** तवैव संबन्धि **सोमपेयं** सोमपानं त्वम् **अनु** उद्दिश्य **प्रिया** तव प्रियतमौ **सखाया** समानख्यानावश्वौ **बर्हिः** **उप** बर्हिषः समीपे **वि** **मुच** विमुञ्च । **हव्यवाहः** । हव्यं वहन्तीति हव्यवाहः। **इमे** ऋत्विजः **त्वां** **हवन्ते** सोमपानार्थमाह्वयन्ति । तस्मात् आगच्छेति भावः ॥ वन्धुरेष्ठाः । तिष्ठतेर्विच् । तत्पुरुषे कृति वहुलम्' इति सप्तम्या अलुक् । प्रदिवः । सकारान्तमव्ययम् । सोमपेयम् ।' पा पाने ' इत्यस्य भावे ' अचो यत्' इति यत्प्रत्ययः । ‘ ईद्यति' इतीत्वम्। आर्धधातुकलक्षणो गुणः । ‘ यतोऽनावः' इत्याद्युदात्तत्वम् । समासे कृदुत्तरपदस्वरः । मुच । मुञ्चतेर्लोटि आगमानुशानस्यानित्यत्वान्नुमभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Descend to us riding in your car, for verily yours is this ancient libation; unharness your beloved and friendly (horses) near to the sacred grass, for these offerers of the oblation present it to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here—drive right up nearby, stationed on the chariot seat. Just yours is  the soma-drinking from olden days.  
 Your two dear comrades—unharness them at the ritual grass. These  oblation-bearers are calling you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. take úpa barhíḥ with the next pāda (“call you to the ritual grass”); Sāyaṇa. agrees with my version (see Geldner’s n. 1c). There is no principled way to decide, and very little depends on it.
 
 It is not easily possible to register the pun of havya(vā́haḥ) ‘oblation’ (to √hu ‘pour’) and havante (to √hvā ‘call’).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MOUNTED upon thy chariot-seat approach us: thine is the Sorna-draught from days aforetime.  
      Loose for the sacred grass thy dear companions. These men who bring oblation call thee hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm näher heran auf dem Wagenstand stehend. Dir gehört von alters her der Somatrank. Spanne deine lieben Kameraden aus; zum Barhis rufen dich diese Opferdarbringer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm nah herbei auf hohem Wagen stehend, der Somatrunk, er ist ja dein von je her, Entlass das liebe Rossepaar zur Streu hin, dich rufen diese Männer opferbringend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай сюда, стоя на месте возницы!  
 Ведь только твое от века питье сомы!  

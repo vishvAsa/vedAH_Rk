@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने घृत꣡स्य धीति꣡भिस्  
 तेपानो꣡ देव शोचि꣡षा  
 आ꣡ देवा꣡न् वक्षि य꣡क्षि च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 आ । दे॒वान् । व॒क्षि॒ । यक्षि॑ । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -88,42 +88,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **देव** द्योतमान **अग्ने** **घृतस्य** दीप्तिसाधनस्याज्यस्य **धीतिभिः** निधानैः **तेपानः** तपन् **शोचिषा** ज्वालया **देवान्** प्रति **आ** **वक्षि** आवह **यक्षि** यज **च** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Agni**, blazing with radiance, through our oblations of ghī, bear (our sacrifice) to the gods andoffer it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O god Agni, heating up with your flame through visions of ghee, convey the gods hither and sacrifice to them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the other occurrence of the med. part. tepāná- (VIII.60.19) is transitive, a passive interpr. works better here.
 
 The gen. ghṛtásya is best construed with dhītíbhiḥ “with visions/thoughts of ghee.” Both Geldner and Oldenberg suggest that this refers to what we would now call “virtual ghee,” not the real physical substance -- anticipating the purely mental sacrifice of the last tṛca (19-21). But this tṛca (vss. 16-18) seems otherwise to depict a more standard ritual, and I think it more likely that “with visions of ghee” is a shorthand way of referring both to the physical stimulus of Agni’s flame, namely melted butter, and the mental one, the hymns accompanying the libation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Blazing with splendour, Agni, God, through pious gifts of sacred oil,  
      Bring thou the Gods and worship them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Agni, durch die bloßen Gedanken an das Schmalz mit Glut entbrannt, o Gott, fahre die Götter her und opfere ihnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, durch der Butter Glanz, o Gott, entbrannt in hellem Licht, Fahr' her die Götter, ehre sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, о бог, согретый как пламенем  
 Поэтическими мыслями, устремленными к жиру,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡न दीर्घ꣡म् मरुतः शूश꣡वाम  
 युष्मा꣡केन प꣡रीणसा तुरासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एभि꣡र् यज्ञे꣡भिस् त꣡द् अभी꣡ष्टिम् अश्याम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 आ । यत् । त॒तन॑न् । वृ॒जने॑ । जना॑सः । ए॒भिः । य॒ज्ञेभिः॑ । तत् । अ॒भि । इष्टि॑म् । अ॒श्या॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
@@ -112,20 +112,20 @@ genre M
 हे **तुरासः** वेगवन्तः **मरुतः** युष्माकेन युष्मत्संबन्धिना **येन** **परीणसा** । यद्यप्येतद्बहुनामसु पठितं तथापि यत् बहु तन्महदपि भवतीत्यत्र महदित्यर्थे गृह्यते । महता युष्मदभिगमनेनैषणेन वा **दीर्घम्** आयतं सत्त्रादिरूपं कर्म **शूशवाम** प्रवर्धयामः । किंच **यत्** येन चाभिगमनेनैषणेन वा **जनासः** जना अस्मदीयाः **वृजने** संग्रामे **आ** **ततनन्** सर्वतो विस्तारयन्ति । स्वसामर्थ्यैः संग्रामं जयन्तीत्यर्थः । **तत्** **इष्टिम्** एषणं गमनम् **एभिर्यज्ञेभिः** इदानीं क्रियमाणैः स्तोत्रादिरूपैः पूजनैः **अभि** आभिमुख्येन **अश्यां** व्याप्नुयाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Quick-moving **Maruts**, we augment the long (offered ceremony) upon your mighty (approach), whereby men triumph in war; may we obtain, by these our sacrifices, your wished-for (presence).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The abundance stemming from you, o powerful Maruts—through  which we shall stay powerfully swollen for a long time,  
 toward which the people in the community will stretch out—to that  might I attain, *to my desire, with these sacrifices.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The relations among the clauses in this vs. might be problematic, primarily because of an apparent gender mismatch: párīṇas- ‘abundance’, which in the instr.
 
@@ -139,23 +139,23 @@ abhī́ṣṭim in d is analyzed by the Pp. as abhí íṣṭim, as might be exp
 2nd accent redactionally, or the accent retraction that was ultimately to affect all -tistems (see Lundquist, -ti-stems) was already spreading to this stem, producing the occasional íṣṭi- ‘desire’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That, O ye Maruts, we may long time flourish through your abundant riches, O swift movers,  
      And that our men may spread in the encampment, let me complete the rite with these oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Vollzahl, ihr Marut, durch die wir für lange Zeit das Übergewicht bekommen werden, ihr Mächtigen, die die anderen Leute zu ihrer Partei hinüberziehen, die möchte ich mit diesen Gebeten zum Opfer herkommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst, starke Maruts, eures Reichthums Fülle mich, durch welche wir gedeihen mögen lange Zeit, Als eure Gunst erlangen durch dies Opferwerk, und dass sich weit verbreite unser Volk im Land.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваша полнота, о мощные  
 Маруты, от которой мы набухаем надолго,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उपक्षेता꣡रस् त꣡व सुप्रणीते  
 अ꣡ग्ने वि꣡श्वानि ध꣡निया द꣡धानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ ष्याम पृतनायूँ꣡र् अ꣡देवान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सु॒ऽरेत॑सा । श्रव॑सा । तुञ्ज॑मानाः । अ॒भि । स्या॒म॒ । पृ॒त॒ना॒ऽयून् । अदे॑वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upakṣetāras* ← *upakṣetāraḥ* ← *upakṣetṛ*
 - \[noun\], nominative, plural, masculine
@@ -114,7 +114,7 @@ genre M
 हेसुप्रणीते शोभनप्रणयन हेअग्ने तवउपक्षेतारः उपगन्तारः अत्रक्षितिर्गत्यर्थेवर्तते विश्वानि सर्वाणिधन्याधन्यानिपश्वादिधनप्राप्तिहेतुभूतानिकर्माणि दधानाः विदधानाः कुर्वन्तः तुञ्चमानाः हवींषिप्रयच्छन्तोवयं सुरेतसाशोभनवीर्येण श्रवसात्वत्कृतेनान्नेनअदेवान् देवेभ्योन्यान् नञिवयु क्तन्यायेन राक्षसाएवगृह्यन्ते यज्ञविघ्नकारिणस्तान् पृतनायूंश्चशरीराद्युपद्रवकारिणः शत्रूंश्चअभि ष्यामअभिभवेम यद्वा देवान् अपूजयतः शत्रूनितिवायोज्यम् ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,35 +125,35 @@ genre M
 May we overcome the hostile: abhiṣyāma pṛtanāyūr adevān;or, it may mean, may we overcome the hosts of those who are not gods, i.e. the **rākṣasas**, or evil spirits, obstructing sacrifices
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As your dependents, o well-guiding Agni, receiving all riches  
 and thrusting ourselves forward with a fame that comes with good  
 seed, we would prevail over the godless battle-mongers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we, O Agni, thou who leadest wisely, thy followers and masters of all treasures,  
      Strong in the glory of our noble offspring, subdue the godless when they seek the battle.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As thy followers, O Agni, best leader, winning all precious (treasures), pressing onward with fertile glory, may we overcome the godless who seek to combat us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als deine Hausgenossen, du guter Führer Agni, alle Glücksgüter empfangend, durch den Ruhm eines guten Samens uns fortpflanzend wollen wir die feindseligen Gottlosen bestehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns, deine Treuen, der du trefflich leitest, lass, Agni, aller Güter Füll' empfangen, Durch kinderreichen Segen vorwärts dringen, die gottvergessnen Feinde uns besiegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О добрый вождь Агни, твои близкие соседи,  
 Получающие (от тебя) все счастливые дары,  

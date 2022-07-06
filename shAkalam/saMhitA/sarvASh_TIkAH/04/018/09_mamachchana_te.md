@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡मच् चन꣡ ते मघवन् वि꣡अंसो  
 निविविध्वाँ꣡ अ꣡प ह꣡नू जघा꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 छि꣡रो दास꣡स्य स꣡म् पिणक् वधे꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अध॑ । निऽवि॑द्धः । उत्ऽत॑रः । ब॒भू॒वान् । शिरः॑ । दा॒सस्य॑ । सम् । पि॒ण॒क् । व॒धेन॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mamac* ← *mamat*
 - \[adverb\]
@@ -118,7 +118,7 @@ popular
 हे **मघवन्** धनवन्निन्द्र **ममच्चन** प्रमाद्यन्नेव व्यंसो नाम राक्षसः **निविविध्वान्** प्रविध्यन् **ते** **हनू** त्वदीये हनू मुखपार्श्वे **अप** **जघान** अपहतवान् । **अध** अथानन्तरं है इन्द्र निविद्धः राक्षसेन ताडितः त्वम् **उत्तरः** व्यंसाधिकबलः **बभूवान्** भूतः सन् **दासस्य** क्षीणस्य व्यंसस्य **शिरः** **वधेन** वज्रेण **सं** **पिणक्** पिष्टवानसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,14 +129,14 @@ popular
 Vyaṃsa: name of a **rākṣasa** who also attempted to destroy the infant **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra’s Mother:] It was not because of me that the cobra, having  pierced you down, smashed apart his jaws (to swallow) you, o  
 bounteous one.  
 Then, (though) pierced down, having gotten the upper hand, you utterly  crushed the head of the Dāsa with your murderous weapon.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, the contents of this vs. and the reason for its inclusion in this hymn are both deeply obscure, though the occurrence of the rare stem agrū́- ‘unwed girl’ in 7a may have prompted the inclusion of the bizarre anecdote in 9ab. As Geldner's reff. for ab show, the shunned son of a maiden, the blind man, and the lame man are mentioned together in II.13.12, 15.7, I.112.8; also IV.30.16, 19. So, however ill-assorted, this is a set. The unfortunate son of an agrū́is also mentioned in nearby IV.30.16, though there he is only shunned, not eaten by ants.
 
@@ -155,23 +155,23 @@ For my interpr. of the speakers in these vss. and the role of the waters in the 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art mine own, O Maghavan, whom Vyamsa struck to the ground and smote thy jaws in pieces.  
      But, smitten through, the mastery thou wonnest, and with thy bolt the Dasa's head thou crushedst.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht um meinetwillen hat Vyamsa dich, du Gabenreicher, verwundet und dir beide Kinnbacken abgeschlagen. Obwohl verwundet wardst du da seiner Meister; du hast mit der Waffe den Kopf des Dasa zerschmettert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt schlug, o Mächt'ger, dir die beiden Kiefern, Viansa ab, der Unhold, dich verwundend; Verwundet dann errangest doch den Sieg du zerschlugst des Dämons Haupt mit deiner Keule.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не из-за меня тебе, о щедрый, Вьянса,  
 Ранив (тебя), отбил обе челюсти.  

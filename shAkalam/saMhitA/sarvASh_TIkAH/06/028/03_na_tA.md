@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ ता꣡ नशन्ति न꣡ दभाति त꣡स्करो  
 ना꣡साम् आमित्रो꣡ व्य꣡थिर् आ꣡ दधर्षति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ज्यो꣡ग् इ꣡त् ता꣡भिः सचते गो꣡पतिः सह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दे॒वान् । च॒ । याभिः॑ । यज॑ते । ददा॑ति । च॒ । ज्योक् । इत् । ताभिः॑ । स॒च॒ते॒ । गोऽप॑तिः । स॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -148,7 +148,7 @@ popular
 **ताः** गावः **न** **नशन्ति** । अस्मत्सकाशान्न नश्यन्तु । किंच **तस्करः** चोरोऽपि **न** **दभाति** । अस्मदीया गा न हिंस्यात् । तथा **आमित्रः** अमित्रस्य शत्रोः संबन्धि **व्यथिः** शस्त्रम् **आसाम्** इमा गाः **न** **आ** **दधर्षति** नाक्रामतु । **गोपतिः** एवंभूतानां गवां स्वामी यजमानः **याभिः** गोभिः **देवांश्च** इन्द्रादीनुद्दिश्य **यजते** यजनं करोति । या गा इन्द्रार्थं **ददाति** **च** प्रयच्छति **च** **ताभिः** तादृशीभिर्गोभिः **सह** **ज्योगित्** चिरकालमेव **सचते** संगच्छताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -159,36 +159,36 @@ popular
 Let not the cows be lost: na tā naśanti = na naśyantu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These will not be lost, and no thief will take them by deception. No  enemy will venture against their meandering course.  
 Those (cows) with which he sacrifices and gives to the gods, he keeps  company with them as their cowherd for a very long time.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not understand what nuance the vṛddhi of ā́mitrá- adds to amítra-. Both seem simply to mean ‘enemy, foe’. Michael Weiss suggests that it might be a collective, a possible function for a vṛddhi deriv.
 
 Geldner takes vyáthiḥ as a “falsch Weg” upon which the enemy will lead the cows, requiring him to supply a complex verb phrase to √dhṛṣ, “wagen … den falschen Weg (zu führen)” (see also his n. 3b for an even more complex alternative). But vyáthis- ‘wavering or meandering course’ fits the normal aimless wandering of cows in pasture, and surely we wish to prevent cattle rustlers (or the like) from taking advantage of the cows’ wandering. Cf. Whitney, AV IV.21.3 “shall dare attack their track (?)”; Klein (DGRV I.219) “a hostile one shall not venture upon their way.” For the wandering habits of cows, see 4cd urugāyám … ví caranti “They wander far across wide-ranging (space).” Given the acc., it seems best, with Geldner et al., to take devā́n only with yájate, not, as in the published translation, also with dádāti. I therefore would emend the tr. to “With those (cows) that he sacrifices to the gods and (that) he gives …” The expression is compressed: the instr. yā́bhiḥ should of course only be construed with yájate, and we should have an acc. *yā́ḥ as obj. of dádāti. As a parallel to devā́n, Geldner supplies a datival “(den Sänger)” with dádāti (sim. Klein loc. cit.), but I see no reason to limit the recipient in this way. Cf. the open-ended 2b úpéd dadāti, which specifies neither gift nor recipient. The unstinting giver is rewarded.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These are ne'er lost, no robber ever injures them: no evil-minded foe attempts to harass them.  
      The master of the Kine lives many a year with these, the Cows whereby he pours his gifts and serves the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht sollen sie verloren gehen, kein Räuber soll sie überrumpeln, kein Feindseliger soll es wagen sie den falschen Weg zu führen. Wer mit ihnen den Göttern opfert und den Sängern schenkt, der bleibt als ihr Besitzer recht lange mit ihnen zusammen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht schwinden sie und nicht verletzt ein Räuber sie, an ihre Gänge waget sich kein Feind heran; Mit welchen man den Göttern Gab' und Opfer bringt, die bleiben lange im Besitz des Rinderherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они не исчезнут. Вор не нападет (на них) врасплох.  
 Недруг не решится завести (их).  

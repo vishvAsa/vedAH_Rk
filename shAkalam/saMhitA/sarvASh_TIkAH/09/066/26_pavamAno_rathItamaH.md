@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानो रथी꣡तमः  
 शुभ्रे꣡भिः शुभ्र꣡शस्तमः  
 ह꣡रिश्चन्द्रो मरु꣡द्गणः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हरि॑ऽचन्द्रः । म॒रुत्ऽग॑णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -71,21 +71,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पवमानः** देवः **रथीतमः** अतिशयेन रथवान्। 'ईद्रथिनः' ( पा. सू. ८. २. १७, १ ) इति ईकारः । तथा **शुभ्रेभिः** शोभायुक्तेभ्यस्तेजोभ्योऽपि **शुभ्रशस्तमः** अत्यन्तदीप्यमानश्च । यद्वा । निर्मलेभ्योऽपि निर्मलतमयशोयुक्तः **हरिश्चन्द्रः** । ‘ह्रस्वाच्चन्द्रोत्तरपदे ' इति सांहितिकः सुट् । हरितवर्णदीप्तिर्हरितधारावान् वा **मरुद्गणः** । मरुतो यस्य गणः सहायभूताः स तथोक्तः । तादृशः सर्वांल्लोकान्' स्वरश्मिभिः स्वदीप्तिभिः व्यश्नवत् व्याप्नोत्वित्युत्तरेणान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purified (**Soma**) possessing many chariots, most radiant with beauteous splendours, having green-tinted streams, attended by the **Maruts**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The self-purifying one, the best charioteer, proclaimed as most  
 resplendent by the resplendent (Maruts),  
 gold-glittering, with the Maruts as his flock,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Indraic cast of this vs. is quite clear, and I therefore think that Soma is being identified with Indra here (as he was with Agni in the tṛca 19-21). To begin with, the splv.
 
@@ -110,23 +110,23 @@ jáṅghnataḥ in 25a, which picks up the same stem (in the nom. jáṅghanat) 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Best rider of the chariot, praised with fairest praise mid beauteous ones,  
      Gold-gleaming with the Marut host,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pavamana ist der beste Wagenfahrer, über die anderen Schönen als der Schönste gepriesen, der Goldschimmernde, dessen Gefolge die Marut sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der flammende, bestfahrende, sehr glänzend mit den glänzenden, Marut-umschart, von goldnem Licht,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

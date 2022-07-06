@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡द् अत्विषन्त सूर꣡यस्  
 तिर꣡ आ꣡प इव स्रि꣡धः  
 अ꣡र्षन्ति पूत꣡दक्षसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अर्ष॑न्ति । पू॒तऽद॑क्षसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ऋषिर्मरुतो बहुवारं स्तुत्वेदानीमात्मानं वितर्कयति । **सूरयः** प्राज्ञाः **आपइव** उदकानीव **तिरः** यथोदकानि तिर्यग्गच्छन्ति तद्वत्तिरश्चीनगतयः सन्तः **कत्** कदा **अत्विषन्त** । त्विष दीप्तौ । अन्तरिक्षे कदा दीप्यन्ते । किंच **स्रिग्धः** शत्रूणां शोषका हन्तारस्त इमे मरुतः **पूतदक्षसः** शुद्धबलाः सन्तः कदा वा **अर्षन्ति** । अस्मदीयं यज्ञं प्रत्यागच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When do the sages flash like waters across (to sky)? When do the **Maruts**, pure in vigour, destroyers ofenemies, come to our offering?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Have the patrons [=Maruts] grown excited? Like the waters they rush  beyond failures,  
 the (Maruts) of refined skill.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -101,23 +101,23 @@ I take the initial kád in both verses as a question particle, introducing a rhe
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When have the Princes gleamed and shone through waters as through troops of foes'?  
      When hasten they whose might ispure?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sind die noblen Herren in Feuer geraten? Eilen sie über die Fehlschläge hinweg wie über die Gewässer, die von lauterem Wollen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was regten sich die glänzenden? die reingesinnten strömen hin Wie Wasser durch der Feinde Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что разбушевались (наши) покровители?  
 Они мчатся, как воды, минуя  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पो यं꣡ वः प्रथमं꣡ देवय꣡न्त  
 इन्द्रपा꣡नम् ऊर्मि꣡म् अ꣡कृण्वतेळः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घृतप्रु꣡षम् म꣡धुमन्तं वनेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तम् । वः॒ । व॒यम् । शुचि॑म् । अ॒रि॒प्रम् । अ॒द्य । घृ॒त॒ऽप्रुष॑म् । मधु॑ऽमन्तम् । व॒ने॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
@@ -134,7 +134,7 @@ genre M
 **देवयन्तः** देवानिच्छन्तोऽध्वर्यवः हे **आपः** हे अब्देवताः **वः** युष्माकं कार्यभूतम् **इन्द्रपानम्** इन्द्रेण पातव्यम् **इळः** इळायाः भूम्याः संभूतं **यम्** **ऊर्मिं** सोमाख्यं यं रसं **प्रथम** पुरा **अकृण्वत** अभिषवणपवनादिभिः समस्कुर्वत **अद्य** इदानीं **वयम्** अपि **वः** युष्मदीयं **तम्** ऊर्मिं **वनेम** संभजेमहि । कीदृशम् । **शुचिं** शुद्धम् **अरिप्रं** पापरहितं **घृतप्रुषं** वृष्टिलक्षणमुदकं सिञ्चन्तं **मधुमन्तं** मधुररसोपेतम् । एवंभूतं तं वनेमेति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ genre M
 Sweet essence: prathamam ūrmimakṛṇvata iḷaḥ:**ūrmi** is said to imply the Soma, bhūmyāḥ saṃbhūtam, produced from the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Waters, your wave of refreshments that those devoted to the gods  made Indra’s first drink—  
 it, gleaming and unbesmirched, showering ghee and filled with honey,  might we win today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY we obtain this day from you, O Waters, that wave of pure refreshment, which the pious  
      Made erst the special beverage of Indra, bright, stainless, rich in sweets and dropping fatness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Gewässer, eure Woge, die zuerst die Gottergebenen für Indra zu einem Trank der Labe machten, diese reine, lautere, schmalztriefende, süße, möchten wir heute von euch gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Wasser, welche Welle euch die Frommen zum Labetrunk zuerst dem Indra machten, Die reine lautre lasst uns heut verehren, die honigsüsse Welle, die von Fett trieft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О воды, (та) ваша волна, которую первой (люди,) преданные богам,  
 Сделали пригодной Индре для питья, (волна) жертвенного возлияния,  

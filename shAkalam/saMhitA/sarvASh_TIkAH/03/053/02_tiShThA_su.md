@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ति꣡ष्ठा सु꣡ कम् मघवन् मा꣡ प꣡रा गाः  
 सो꣡मस्य नु꣡ त्वा सु꣡षुतस्य यक्षि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र स्वा꣡दिष्ठया गिरा꣡ शचीवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पि॒तुः । न । पु॒त्रः । सिच॑म् । आ । र॒भे॒ । ते॒ । इन्द्र॑ । स्वादि॑ष्ठया । गि॒रा । श॒ची॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tiṣṭhā* ← *sthā*
 - \[verb\], singular, Present imperative
@@ -135,36 +135,36 @@ genre M
 हे मघवन् धनवन्निन्द्र **कं** सुखेनास्मिन् यज्ञे **सु** **तिष्ठ** सुष्ठु कंचित्कालमत्र तिष्ठ । **मा** **परा** **गाः** अस्मदीयाद्यज्ञान्मा गच्छ । तत्र कारणमाह । **सुषुतस्य** सुष्ठ्वभिषुतेन **सोमस्य** सोमेन **नु** क्षिप्रं **त्वा** त्वां **यक्षि** यजे । हे **शचीवः** शक्तिमन् **इन्द्र** **ते** तव **सिचं** वस्त्रप्रान्तं **स्वादिष्ठया** स्वादुतरया स्तुतिलक्षणया **गिरा** **आ** **रभे** आलभे । गृह्णामीत्यर्थः । तत्र दृष्टान्तः । **पितुर्न** । यथा **पुत्रः** मधुरया वाचा पितुर्जनकस्य चेलाञ्चलं गृह्णाति तद्वत् ॥ सु कमिति निपातद्वयम् । प्रथमस्य ‘ निपाता आद्युदात्ताः' इत्याद्युदात्तत्वम्। द्वितीयस्य ' चादयोऽनुदात्ताः' इत्यनुदात्तत्वम् ।' सोमस्य यक्षि । ‘ यज देवपूजासंगतिकरणदानेषु'। ‘ स्वरितञितः०' इत्यात्मनेपदम् । तस्य लुङि सिचि “ एकाचः०' इतीट्प्रतिषेधः । व्रश्चादिना षत्वम् । षढोः कः सि' इति कत्वम् । सिचः सकारस्य षत्वम् । निघातः । रभे । ‘डुलभष् प्राप्तौ'। लट्युत्तम इटि रूपम् । रलयोरभेदः । निघातः । स्वादिष्ठया । स्वादुशब्दादिष्ठनि रूपम् । नित्त्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Tarry a while contentedly, **Maghavan** (at our rite); go not away; for I offer to you (the libation) of the copiously-effused **Soma**; powerful **Indra**, I lay hold of the skirts (of your robe) with sweet-flavoured commendations, as a son (clings to the garment) of a father.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stay just so, bounteous one; don’t go away. I will sacrifice to you from the  well-pressed soma.  
 I grasp your hem like a son his father’s—Indra, powerful one—with the  sweetest hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Stay still, O Maghavan, advance no farther. a draught of well-pressed Soma will I give thee.  
      With sweetest song I grasp, O Mighty Indra, thy garment's hem as a child grasps his father's.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bleib fein da, du Gabenreicher, geh nicht fort! Ich will dir jetzt gutgepreßten Soma opfern. Den Saum deines Gewandes fasse ich wie der Sohn den seines Vaters, mit süßester Rede, du machtvoller Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O bleibe stehn, nicht gehe fort, du mächt'ger, nun bring ich dir vom schöngepressten Soma; Ich fass' dein Kleid, so wie der Sohn des Vaters, o starker Indra, mit dem liebsten Liede.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стой же там, о щедрый! Не уходи прочь!  
 Я хочу сейчас почтить тебя прекрасно выжатым сомой.  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡द्धासि क्र꣡त्वा श꣡वसोत꣡ दंस꣡ना  
 वि꣡श्वा जाता꣡भि꣡ मज्म꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 यं꣡ गो꣡तमा अ꣡जीजनन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । त्वा॒ । अ॒यम् । अ॒र्कः । ऊ॒तये॑ । व॒व॒र्त॒ति॒ । यम् । गोत॑माः । अजी॑जनन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yoddhāsi* ← *yoddhā* ← *yoddhṛ*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ genre M
 हे इन्द्र **क्रत्वा** वृत्रहननादिकर्मणा अपि वा प्रज्ञानेन **शवसा** आत्मीयेन बलेन **योद्धा** शत्रूणां संप्रहारकः **असि** । **उत** अपि च त्वं **दंसना** स्वकीयेन कर्मणा **मज्मना** । मज मुजि शब्दार्थाः' । मजमुजी चेति मजतिः शब्दार्थः । शत्रूणामाक्रोशनसमर्थेन बलेन **विश्वा** **जाता** सर्वाणि भूतजातान्यभिभवसि । उक्तार्थस्य विश्वा जातान्यभ्यस्मि मह्ना' (ऋ. सं. ८. १००, ४ ) इत्यादिष्विन्द्रेणैवोक्तत्वात् । एतादृशं **त्वा** त्वाम् **अर्कः** । ‘अर्च पूजायाम् । अर्चनीयः **अयं** मन्त्रः यद्वार्को देवानामर्चकः पूजकोऽयं स्तोता **ऊतये** स्वरक्षणाय **आ** **ववर्तति** आवर्तयति । आत्माभिमुख्ये करोतीत्यर्थः । वर्ततेर्लेटि बहुलं श्लुरडागमश्च । **यं** त्वां **गोतमाः** गोतमपुत्रा नोधःप्रभृतयः **अजीजनन्** स्वयज्ञे प्रादुरबीभवन् । तं त्वामयं **मन्त्रः** स्तोता वावर्तयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,14 +136,14 @@ genre M
 The hymn: tvāyam arkaūtaye vavartati yam gotamā ajījanan = this hymn (or this praiser) brings you here for their protection, whomthey have made manifest (in their sacrifice)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As a battler with resolve, vast power, and wondrous skill, you surmount  all created things with your might.  
 This chant here will turn you hither for help, the chant which the  
 Gotamas have generated.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner’s suggestion (n.) that this verse constitutes the Maruts’ direct speech to Indra is a persuasive one.
 
@@ -158,23 +158,23 @@ jā́yathā(ḥ) in 5a echoes jáyā(ḥ) in the immediately preceding pāda (4d
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A Warrior thou by strength, wisdom, and wondrous deed, in might excellest all that is.  
      Hither may this our hymn attract thee to our help, the hymn which Gotamas have made.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist als Kämpfer an Umsicht und Kraft und Geschicklichkeit und Mächtigkeit allen Geschöpfen überlegen. Dich lenke dieser Lobgesang her zum Beistand, den die Gotama´s gedichtet haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du übertriffst an Kraft und Macht und Wunderthat, an Hoheit alles, was da lebt, Zur Hülfe möge dieses Lied dich wenden her, das von den Gotamern erdacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты боец по духу (и) силе, а также по ловкости,  
 Пре(восходящий) величием все существа.  

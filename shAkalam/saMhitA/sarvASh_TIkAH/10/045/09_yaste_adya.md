@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते अद्य꣡ कृण꣡वद् भद्रशोचे  
 अपूपं꣡ देव घृत꣡वन्तम् अग्ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ सुम्नं꣡ देव꣡भक्तं यविष्ठ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र । तम् । न॒य॒ । प्र॒ऽत॒रम् । वस्यः॑ । अच्छ॑ । अ॒भि । सु॒म्नम् । दे॒वऽभ॑क्तम् । य॒वि॒ष्ठ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -146,7 +146,7 @@ genre M
 यस्त इति ॥ हे देव । अग्ने भद्र शोचे कल्याणदीप्ते यो मनुष्या ते तुभ्यं घृतवन्तं अपूपं पुरोडाशं अद्य कृणवत् कुर्यात् दद्यात् तं देवभक्तं वस्यः वसीयः श्रेयः अच्छ आप्तुं प्रणय प्रकर्षेण नय श्रेयः प्रापयेत्यर्थः । द्युम्नं धनं यशो वा तच्च अभिप्रतरां नय प्रकृष्टतरं नय हे यविष्ठ । युवतम ॥
 ꣡</details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -157,30 +157,30 @@ genre M
 Gomantam = radiant; from go, a ray of light; vrajamārga (a road), the way to the solar orb, the path ofthe gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will make for you today a ghee-covered cake, o god Agni of  fortunate flame,  
 lead him further forward, toward a better state, toward favor  
 apportioned by the gods, o youngest one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso this day, O God whose flames are lovely, prepares a cake, O Agni, mixt with butter,  
      Lead thou and further him to higher fortune, to bliss bestowed by Gods, O thou Most Youthful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer dir heute einen schmalzigen Kuchen bereiten wird, Gott Agni von wohltätiger Glut, den geleite weiter zum Glück, zu gottgeschenkter Gunst, o Jüngster!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der heute dir den butterreichen Kuchen, o Agni, Gott, hellfunkelnder, bereitet, Den führe vorwärts du zu schönem Gute, o jüngster, zu dem Gott-ertheilten Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто тебе сегодня приготовил лепешку,  
 Пропитанную жиром, о бог Агни с благородным пламенем,  

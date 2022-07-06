@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् अस्य शोचि꣡र् अस्था᳐द्  
 दीदियु꣡षो वि꣡ अज꣡रम्  
 त꣡पुर्जम्भस्य सुद्यु꣡तो गणश्रि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 तपुः॑ऽजम्भस्य । सु॒ऽद्युतः॑ । ग॒ण॒ऽश्रियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -97,7 +97,7 @@ genre M
 **दीदियुषः** । दीदितिर्दीप्तिकर्मा । संदीप्यमानस्य **तपुर्जम्भस्य** तापयितृदंष्ट्रस्य **सुद्युतः** शोभनदीप्तेः **गणश्रियः** । हविरादानार्थं यजमानगणं श्रयति तस्य । **अस्य** एतादृशोऽग्नेः **अजरं** जरारहितं पुनःपुनर्मथ्यमानत्वान्नूतनं हविर्भिर्वर्धमानत्वादभिनवं वा **शोचिः** तेजः **उत्** **अस्थात्** उद्गतमभूत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,30 +108,30 @@ genre M
 Gaṇaśriyaḥ = who visits troops of worshippers to take their oblations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His flame has stood up and outward, the unaging flame of the  
 shining one,  
 of the very bright one of scorching fang, the glory of a warrior band.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Up springs the imperishable flame, the flame of the Refulgent One  
      Most bright, with glowing jaws and glory in his train.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine alterlose Glut hat sich nach allen Seiten aufgerichtet, wann er erglänzt, des Glutzahnigen, Schönleuchtenden mit prächtigem Gefolge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sein Licht, das unauslöschliche, des glänzenden erhob sich schon, Des glutgezahnten, hellen, der in Scharen geht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Повсюду поднялось нестареющее пламя  
 Этого ярко сверкающего (бога)  

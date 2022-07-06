@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पू꣡र्वा वि꣡श्वस्माद् भु꣡वनाद् अबोधि  
 ज꣡यन्ती वा꣡जम् बृहती꣡ स꣡नुत्री  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ओ꣡षा꣡ अगन् प्रथमा꣡ पूर्व꣡हूतौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒च्चा । वि । अ॒ख्य॒त् । यु॒व॒तिः । पु॒नः॒ऽभूः । आ । उ॒षाः । अ॒ग॒न् । प्र॒थ॒मा । पू॒र्वऽहू॑तौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūrvā* ← *pūrva*
 - \[noun\], nominative, singular, feminine
@@ -128,7 +128,7 @@ genre M
 **विश्वस्मात्** **भुवनात्** सर्वस्मात् सुप्ताद्भूतजातात् **पूर्वा** प्रथमा सती इयम् उषाः **अबोधि** बुद्धा अभूत् । उषःकालमवगत्य हि पश्चात् सर्वे प्राणिनः प्रतिबुध्यन्ते। कीदृशी सा। **वाजं** गमनशीलं प्रकाशं निर्वर्त्य अन्धकारं **जयन्ती** पराभवं कुर्वती । यद्वा । वाजशब्दोऽअन्ननामसु पठितत्वादन्ननाम । अन्नं वै वाजः' (श. ब्रा. ९. ३. ४. १; तै. ब्रा. १. ३. ६. २ ) इति श्रुतेश्च । यजमानार्थम् अन्नं संपादयन्ती । **बृहती** महती **सनुत्री** सर्वं जगत्संभजन्ती दात्री वा प्रकाशस्य । किंच सा उषाः **उच्चा** उच्चैरुन्नता सती **व्यख्यत्** विचष्टे सर्वं जगत् पश्यति' इत्यर्थः । कीदृशी सा । **युवतिः** मिश्रणशीला नित्ययौवना वा पुनर्भूः पुनःपुनर्भवनशीला प्रतिदिनं वर्तमानत्वात्। सा **उषाः** पूर्वहूतौ सत्यां **प्रथमा** मुख्या प्रकृष्टा सती **आ** **अगन्** देवयजनदेशंप्रत्यागच्छति ।' प्रथम इति मुख्यनाम प्रतमो भवति ' (निरु. २. २२) इति यास्कः । इतरदेवेभ्यः पूर्वमाहूता सती शीघ्रमेवागच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,36 +139,36 @@ genre M
 **Jayantī** vājam: **vāja**, moving, motive; the darkness that goes away with the dawn; or, food, producing food (**annam** vai **vājaḥ**: **Śatapatha Brāhmaṇa** 9.3.4.1), as the reward of the morning sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Earlier than all creation she has awoken, the lofty one, conquering,  winning the prize.  
 On high she has gazed forth—the young woman come into being again.  Dawn has come here, the first one at the Early Invocation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. begins and ends with pū́rva- (pū́rvā … pūrvá(hūtau)), a very tight species of ring composition.
 
 punarbhū́- here seems to lack its later technical sense (a remarried widow) and have only its literal meaning ‘come into being again’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She before all the living world hath wakened, the Lofty One who wins and gathers treasure.  
      Revived and ever young on high she glances. Dawn hath come first unto our morning worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Früher als die ganze Welt ist die Hohe erwacht, siegend, den Preis erringend. Hoch oben hielt die wiedererstandene junge Frau Umschau. Als erste ist Usas zur Frühanrufung gekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor aller Welt ist sie erwacht als erste, die hohe, Gut erkämpfend und erlangend, Sie blickt empor die Jungfrau wiederkehrend, zuerst beim Frühruf kam die Morgenröthe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Раньше (всего света) пробудилась она,  
 Завоевывающая награду, высокая, победоносная.  

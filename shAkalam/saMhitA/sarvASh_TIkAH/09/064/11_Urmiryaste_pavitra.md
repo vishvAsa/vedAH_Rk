@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्मि꣡र् य꣡स् ते पवि꣡त्र आ꣡  
 देवावीः꣡ परिअ꣡क्षरत्  
 सी꣡दन्न् ऋत꣡स्य यो꣡निम् आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सीद॑न् । ऋ॒तस्य॑ । योनि॑म् । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrmir* ← *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, masculine
@@ -84,19 +84,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे सोम **ते** तव **यः** **देवावीः** देवकामः **ऊर्मिः** तरङ्गः **ऋतस्य** यज्ञस्य **योनिं** स्थानम् **आ** **सीदन्** **पवित्रे** **पर्यक्षरत्** परिक्षरति तमूर्मिं सृजतीति पूर्वत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your wave which, devoted to the gods flows to the filter, alighting upon the plural ce of sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your wave which, pursuing the gods, has streamed around in the filter, sitting on the womb of truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is entirely a rel. cl. and most comfortably adjoins vs. 10 (see comm. immed. above) - pace Lüders (603-4), who attaches 11 to 12.
 
@@ -110,23 +110,23 @@ There are some unifying features in this tṛca. Although this is hardly strikin
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy God-delighting wave which hath flowed to purifying seive,  
      Alighting in the home of Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Welle, die göttereinladend auf der Seihe umgeflossen ist und sich auf den ordnungsgemäßen Schoß hingesetzt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit deiner Welle, die ins Sieb, die Götter speisend, niederrann, Sich setzend auf des Opfers Schooss,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

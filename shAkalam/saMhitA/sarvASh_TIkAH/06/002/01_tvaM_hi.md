@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ क्षइ꣡तवद् य꣡शो  
 अ꣡ग्ने मित्रो꣡ न꣡ प꣡त्यसे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 व꣡सो पुष्टिं꣡ न꣡ पुष्यसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । वि॒ऽच॒र्ष॒णे॒ । श्रवः॑ । वसो॒ इति॑ । पु॒ष्टिम् । न । पु॒ष्य॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -103,20 +103,20 @@ genre M
 हे अग्ने त्वं हि त्वं खलु **क्षैतवत्** । क्षितिः क्षयोऽपचयः । तत्संबन्धि क्षैतं शुष्कं काष्ठम् । तद्युक्तं यशः अन्नं हविर्लक्षणं **पत्यसे** अभिपतसि गच्छसि । तत्र दृष्टान्तः । मित्रो न । अहरभिमानी देवो मित्रः । स इव । यद्वा यश इति गृहनाम । क्षैतवत् । क्षैतं निवासकं हविर्लक्षणमन्नम् । तद्युक्तं यजमानगृहं मित्रभूतः पुरुष इवाभिपतसि । यद्वा पत्यतिरैश्वर्यकर्मा । ईदृशमन्नं पत्यसे ईशिषे । अतः कारणात् हे **विचर्षणे** विशेषेण सर्वस्य द्रष्टः **वसो** वासकाग्ने **त्वं** **श्रवः** श्रवणीयमन्नं यजमानगृहस्थं **न** । अयं नशब्दश्चार्थे । अन्नकार्यभूतां पुष्टिं च पुष्यसि वर्धयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You alight, **Agni**, like **Mitra**, upon the oblation offered with the dry fuel; therefore, beholder of all, possessor of riches, you cherish us with food and nourishment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, like Mitra are indeed master of the glory belonging to the  settlements.  
 You prosper fame like prosperity, o good one without boundaries.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 jyók cid atti gárbho yád ácyutam “For a long time the embryo eats just what is immovable.” Renou supplies a different verb in a from the one he supplies in b: “(tu ébranles) … comme le bétail (dévore) …” But this violates the structure of the RVic simile.
 
@@ -127,23 +127,23 @@ pl. to dhā́man- and therefore the subject of vṛścánti. However, this requi
 of dhā́man- -- Geldner “Kräfte,” Renou “pouvoirs-d’état” (whatever that means) -- that I do not think is possible for this word, and, in any case, can “powers” hew? On the basis of VI.6.1 (also in this cycle) vṛścádvana- ‘wood-hewing’ (the compounded version of our vánā vṛścánti), which modifies Agni, I think that the subject of vṛścánti must be Agni, or rather some parts of Agni, since a plural is required. I therefore take śíkvasaḥ as a nom. pl., not gen. sg. (with Geldner, Renou), referring to Agni’s flames or his various embodiments. This leaves dhā́mā stranded; I take it as an annunciatory main clause with yád as the definitional relative clause: “(this is your) principle, that …” My tr. assumes a neut. singular dhā́mā, allowed by Wackernagel (AiG III.272), Oldenberg (ZDMG 55: 280 = KlSch 739), etc. It would also be possible to tr. as a plural: “(these are your) principles, that …” A different possibility is enabled by Geldner’s suggested alternative tr. of dhā́mā (n. 9c) as “Erscheinungsformen,” which is more palatable than his “Kräfte.” If we allow the meaning of dhā́man- to stretch to this extent, we could tr. cd “when the forms of you, the dexterous one, hew the woods,” with śíkvasaḥ a genitive with te. Nonetheless, I still prefer the published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU, Agni, even as Mitra, hast a princely glory of thine own.  
      Thou, active Vasu, makest fame increase like full prosperity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, besitzest ja volkstümliches Ansehen gleich Mitra dem Bundesfreund; du Ausgezeichneter mehrest deinen Ruhm, du Guter, wie man seinen Wohlstand mehrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, hast, dem Mitra gleich, zu eigen königliche Zier, O guter, Ruhm entfaltest du, allweiser, einer Blume gleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты, о Агни, обладаешь достоинством,  
 Свойственным вождю, словно Митра.  

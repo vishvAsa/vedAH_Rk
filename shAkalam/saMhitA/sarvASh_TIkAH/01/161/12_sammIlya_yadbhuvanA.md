@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सम्मी꣡ल्य य꣡द् भु꣡वना पर्य꣡सर्पत  
 कु꣡व स्वित् तात्या꣡ पित꣡रा व आसतुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यः꣡ प्रा꣡ब्रवीत् प्रो꣡ त꣡स्मा अब्रवीतन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अश॑पत । यः । क॒रस्न॑म् । वः॒ । आ॒ऽद॒दे । यः । प्र । अब्र॑वीत् । प्रो इति॑ । तस्मै॑ । अ॒ब्र॒वी॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃmīlya* ← *sammīlay* ← *√mīl*
 - \[verb noun\]
@@ -130,7 +130,7 @@ popular
 हे ऋभवः रश्मयः यूयं **यत्** यदा **भुवना** भूतजातानि **संमील्य** संमीलनं कृत्वा जलधरपटलैराच्छाद्य **पर्यसर्पत** परितः सर्पणं कुरुथ वर्षथेत्यर्थः । **तात्या** तातौ तायमाने वृष्ट्युदके । यद्वा । तात्या तासु वर्षासु ॥ छान्दसस्त्यप्रत्ययो दकारस्यात्वं च ॥ अथवा पितृविशेषणम् । तात्या तत्कालीनौ **पितरा** जगतः पालकौ सूर्यचन्द्रमसौ **क्व** **स्वित्** **आसतुः** कुत्र खलु तिष्ठतः ॥ अस्तेर्लिटि व्यत्ययेन भूभावाभावः । यद्वा । असतेर्गत्यर्थस्य लिटि एतद्रूपम् ॥ अहोरात्रविभागेन प्रवर्षयथेत्यर्थः । किंच ईदृशान् **वः** युष्मान् **यः** कोऽपि वृष्टिप्रतिबन्धकारी राक्षसादिः **करस्नम्** । बाहुनामैतत् , ‘करस्नौ बाहू ' (नि. २. ४. ७ ) इत्युक्तत्वात् । अत्र तु अकारान्तम् । युष्मदीयं हस्तम् **आददे** गृह्णाति प्रतिरोधं करोति तम् **अशपत** नाशयथ । **यः** च **प्राब्रवीत्** प्रकर्षेण वाचा निरुन्द्धे **तस्मै** **प्रो** प्रैव **अब्रवीतन** प्रकर्षेण भर्त्सनादिशब्दं कुरुथ । यद्वा । यो नूनं स्तौति तं प्रकर्षेण स्तुतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,28 +141,28 @@ popular
 The parents of the world: the sun and the moon, the protectors of the world, which, during the rains, are hidden by the clouds; who speaks disrespectfully: yaḥ prābravīt pra tasmā abravītana: pra prefixed to brū = either to speak harshly or kindly, to censure or to praise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, having shut your eyes, you crept around the living worlds, where  were your loving parents? You cursed him who took your arm. Who made a declaration (to you),  to him you also made a declaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As, compassing them round, ye glided through the worlds, where had the venerable Parents their abode?  
      Ye laid a curse on him who raised his arm at you: to him who spake aloud to you ye spake again.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr mit geschlossenen Augen die Wesen umschlichet, wo waren da eure zärtlichen Eltern? Ihr fluchtet dem, der euch am Arme faßte. Wer euch anredete, dem standet ihr Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ihr geschlossnen Auges durch die Wesen schlicht, wo weilte damals eur geliebtes Aelternpaar? Ihr fluchtet dem, der hemmend in den Arm euch fiel; dem, der euch grüsste, botet ihr den Gegengruss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда с закрытыми глазами вы двигались ощупью вокруг существ,  
 Где были ваши любящие родители?  

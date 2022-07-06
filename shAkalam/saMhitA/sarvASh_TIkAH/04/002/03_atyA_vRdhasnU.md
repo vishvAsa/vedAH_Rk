@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्या वृधस्नू꣡ रो꣡हिता घृत꣡स्नू  
 ऋत꣡स्य मन्ये म꣡नसा ज꣡विष्ठा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युष्मां꣡श् च देवा꣡न् वि꣡श आ꣡ च म꣡र्तान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒न्तः । ई॒य॒से॒ । अ॒रु॒षा । यु॒जा॒नः । यु॒ष्मान् । च॒ । दे॒वान् । विशः॑ । आ । च॒ । मर्ता॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atyā* ← *atya*
 - \[noun\], accusative, dual, masculine
@@ -127,7 +127,7 @@ genre M
 "अन्तः । षष्ठ्यर्थे द्वितीया । तेषां मध्ये **आ**  समन्तात् **ईयसे** हविः स्वीकर्तुं यजमानान् गच्छसि । तद्धविः प्रदातुं देवान् गच्छसि ॥ मन्ये । मन्यतिः अर्चतिकर्मा । मनसा । ‘सुपां सुलुक्' इति पञ्चम्या आकारः । युजानः । ‘युजिर योगे'। ‘युजिबुधिदृशः किञ्च' इत्यानच्प्रत्ययः । चित्त्वादन्तोदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,14 +138,14 @@ genre M
 You pass between the deities: antarīyase yuṣmāṃśca devān **viśa** ā ca martān, you go between, you the gods, and men; you is specified from **Agni** being a divinity; he goes to men to receive oblation, and to the gods, of whom he is one, to bear it to them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two chestnut steeds of truth, strong(-backed), ghee-backed,  
 I consider to be swiftest (even in comparison) with mind.  
 Yoking these two ruddy ones, you shuttle between (all of) you gods and  the clans here, the mortals.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two rhyme words vṛdhasnū́and ghṛtásnū clearly form a rhetorical pair, though they have different origins and grammatical analyses, as their different accents show. ghṛtásnu- is generally taken as a bahuvrīhi with the reduced form of sā́nu- ‘back’ as 2nd member. See Oldenberg ad loc. and ad I.16.2, and cf., with a different designation of the same body part, ghṛtá-pṛṣṭha-. However, this cmpd. has a complex relationship with the differently accented ghṛtasnú- as well as ghṛta-snā́- ‘bathed in ghee’. See Scarlatta (661-62). As for vṛdhasnú-, Grassmann takes it as a root-noun cmpd, with snú- for snā, and glosses ‘Segen triefend’; Scarlatta (662) more or less follows this analysis, though he proposes several different morphological pathways. Debrunner (AiG II.2.930), a bit confusingly, takes it as a “Nachbildung” to ghṛtásnu- though containing a suffix - asnu- (sim. Oldenberg SBE). (Debrunner does not gloss it; Oldenberg ‘mighty’.) Witzel Gotō seem to take it as containing the same ‘back’ as ghṛtá-snu-, tr. ‘von hochgewachsenem Rücken’. I agree with the general sense that vṛdhasnú- has to have been influenced by ghṛtásnu-, hence my parenthetic ‘strong(-backed)’, but it cannot have been formed in direct parallel because of the accent. I think it should be evaluated in the context of another nearby form belonging to √vṛdh, viz. the irregular (pseudo-)participle vṛdhasāná- in IV.3.6, a stem that occurs 3x in the RV. Since that stem was part of our poet’s repertoire, I think it possible that he could create a reduced form of the “suffix” - sāná- (intermediately *-sná-, just as -snu- is reduced from sā́nu-) with further adjustment of the final vowel to match ghṛtásnu-.
 
@@ -158,28 +158,28 @@ Contra Oldenberg (SBE and Noten) and Geldner, I see no reason to take mártān (
 appositive to víśaḥ. However, the same form in 11b is a somewhat harder case; see comm. there, as well as nṝ́n in vs. 15.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I laud the ruddy steeds who pour down blessing, dropping oil, flectest through the thoualit of Order.  
      Yoking red horses to and fro thou goest between you Deities and mortal races.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Harnessing the two mighty, red steeds that swim in ghee—(the steeds) of Rita, I think, that are most swift with their mind 1, the ruddy ones, thou goest (as a messenger) between you, the gods, and the tribes of men 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine beiden hochgewachsenen, rötlichen, schmalzrückigen Renner des rechten Werks halte ich für schneller als den Gedanken. Du schirrst die beiden Rotfüchse an und verkehrst zwischen euch Göttern und den Stämmen der Sterblichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich seh' im Geist des Heil'gen Flammenrosse, die schnellsten, die von Fett und Segen triefen; Die Flammen schirrend gehst du zwischen beiden, den Göttern euch und uns den Menschenstämmen,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обоих (твоих) растущих скакунов, красных, сочащихся жиром,  
 (Скакунов) закона я считаю более быстрыми, чем мысль.  

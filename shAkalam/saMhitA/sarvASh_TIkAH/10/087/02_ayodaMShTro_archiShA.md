@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡योदंष्ट्रो अर्चि꣡षा यातुधा꣡नान्  
 उ꣡प स्पृश जातवेदः स꣡मिद्धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्रव्या꣡दो वृक्त्वी꣡ अ꣡पि धत्स्व आस꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । जि॒ह्वया॑ । मूर॑ऽदेवान् । र॒भ॒स्व॒ । क्र॒व्य॒ऽअदः॑ । वृ॒क्त्वी । अपि॑ । ध॒त्स्व॒ । आ॒सन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayodaṃṣṭro* ← *ayaḥ* ← *ayas*
 - \[noun\], neuter
@@ -110,7 +110,7 @@ popular
 हे **जातवेदः** जातधन जातप्रज्ञ वा त्वं **समिद्धः** सम्यग्दीप्तः **अयोदंष्ट्रः** अयोमयदंष्ट्रः । तीक्ष्णदंष्ट्र: सन्नित्यर्थः । **यातुधानान्** राक्षसान् **अर्चिषा** ज्वालया **उप** **स्पृश** संदहेत्यर्थः । किंच त्वं **मूरदेवान्** मूढदेवान् मारकव्यापारान् राक्षसान् **जिह्वया** ज्वालया **आ** **रभस्व** मारयेत्यर्थः । मारयित्वा च **क्रव्यादः** मांसभक्षकान् राक्षसान् वृक्त्वी छित्त्वा **आसन्** आस्ये **अपि** **धत्स्व** अपिधेहि । आच्छादयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ popular
 Yātudhānas: i.e.,**rākṣasas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Possessing jaws of metal, (first) brush the sorcerers with your flame, o  Jātavedas, when fully kindled.  
 (Then) with your tongue seize hold of those who have fools for gods.  Having wrenched the flesh-eaters, stick them in your mouth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Jatavedas with the teeth of iron, enkindled with thy flame attack the demons.  
      Seize with thy longue the foolish gods' adorers: rend, put within thy mouth the raw-flesh caters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, der Eisenzahn, fasse entzündet die Zauberer mit deiner Flamme, o Jatavedas! Packe sie mit der Zunge, die Götzenanbeter; die Fleischfresser umringele und stecke sie ins Maul!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit ehernem Gebiss ergreif, entflammter, die Zauberer mit Glut, o Wesenkenner; Mit deiner Zung' erfass die Götzendiener, zerfleisch die Fresser, steck sie in den Rachen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты,) железный зуб, достань (своим) пламенем  
 Колдунов, когда зажгут (тебя), о Джатаведас!  

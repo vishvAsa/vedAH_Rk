@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हि꣡रण्यपाणिः सविता꣡ वि꣡चर्षणिर्  
 उभे꣡ द्या꣡वापृथिवी꣡ अन्त꣡र् ईयते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अभि꣡ कृष्णे꣡न र꣡जसा द्या꣡म् ऋणोति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D;; 12 = 5+7, ending LHX
 अप॑ । अमी॑वाम् । बाध॑ते । वेति॑ । सूर्य॑म् । अ॒भि । कृ॒ष्णेन॑ । रज॑सा । द्याम् । ऋ॒णो॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyapāṇiḥ* ← *hiraṇya*
 - \[noun\]
@@ -116,7 +116,7 @@ genre D;; 12 = 5+7, ending LHX
 **हिरण्यपाणिः** सुवर्णमयहस्तयुक्तः । यद्वा । यजमानेभ्यो दातुं हिरण्यं हस्ते धृतवान् । विचर्षणिः विविधदर्शनयुक्तः । विचर्षणिः पश्यत्यर्थः। विचर्षणिः विश्वचर्षणिः' (नि. ३. ११. ६) इति तन्नामसु पाठात् । **सविता** देवः **उभे** **द्यावापृथिवी** **अन्तः** उभयोर्लोकयोर्मध्ये **ईयते** गच्छति । **अमीषां** रोगादिबाधाम् **अप** **बाधते** सम्यक् निराकरोति । तथा **सूर्यं** **वेति** गच्छति । यद्यपि सवितृसूर्ययोरेकदेवतात्वं तथापि मूर्तिभेदेन गन्तृगन्तव्यभावः । **कृष्णेन** तमसः कर्षकेण निवर्तकेन **रजसा** तेजसा **द्याम्** आकाशम् 'अभि **ऋणोति** सर्वतो व्याप्नोति ॥ द्यावापृथिवी ।  ‘ दिवसश्च पृथिव्याम् ' ( पा. सू. ६. ३. ३०) इति चशब्दात् दिव्शब्दस्य द्यावादेशः ।  ‘ देवताद्वन्द्वे च' इत्युभयपदप्रकृतिस्वरत्वम्।  ‘ नोत्तरपदेऽनुदात्तादौ ' (पा. सू. ६. २. १४२ ) इति न निषेधः,  ‘ °अपृथिवीरुद्रपूषमन्थिषु' इति पर्युदस्तत्वात् । ईयते ।  ‘ ईङ् गतौ । तिङ्ङतिङः' इति निघातः । बाधते । बाधते च वेति चेति समुच्चयार्थप्रतीतेः चशब्दस्याप्रयोगात् ‘चादिलोपे विभाषा ' इति निघातप्रतिषेधः । वेति।' वी गतिप्रजनकान्त्यशनखादनेषु । अदादित्वात् शपो लुक् । तिपः पित्त्वानुदात्तत्वे धातुस्वरः । यद्यप्येषा द्वितीया तथापि तिङः परत्वात् निघाताभावः । ऋणोति । ‘ऋणु गतौ ' । तनादित्वात् उः । तनादिषु करोतेरेव गुणो नान्येषामिति आपिशलिमतेन गुणाभावः ॥ .
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,30 +127,30 @@ genre D;; 12 = 5+7, ending LHX
 Sūryam abhiveti: yadyevatayor ekadevatātvam tathāpi mūrttibhedena gantṛgantavya-**bhāvaḥ**: thought Savitā and **Sūrya** are the same as regards their divinity, yet they are two different forms, and therefore, one may go to the other
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Golden-palmed Savitar, whose boundaries are distant, shuttles between  both, both heaven and earth.  
 He thrusts away affliction; he pursues the sun; he reaches to heaven  
 through the black realm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The golden-handed Savitar, far-seeing, goes on his way between the earth and heaven,  
      Drives away sickness, bids the Sun approach us, and spreads the bright sky through the darksome region.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Savitri mit der goldenen Hand, der Ausgezeichnete, fährt zwischen beiden, zwischen Himmel und Erde. Er vertreibt die Krankheit, treibt die Sonne an; er reicht mit dem schwarzen Dunst bis an den Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gott Savitar mit seinen goldnen Händen geht geschäftig wirkend zwischen Erd' und Himmel hin, Vertreibt Bedrängniss, führt herauf den Sonnengott, durch dunkeln Luftraum eilet er zum Himmel hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Златорукий Савитар, повелитель людского рода,  
 Странствует между обоими: между небом и землей.  

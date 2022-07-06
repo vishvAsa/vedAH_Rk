@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मे꣡हनाद् वनंक꣡रणाल्  
 लो꣡मभ्यस् ते नखे꣡भियः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡म् इदं꣡ वि꣡ वृहामि ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 यक्ष्म॑म् । सर्व॑स्मात् । आ॒त्मनः॑ । तम् । इ॒दम् । वि । वृ॒हा॒मि॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mehanād* ← *mehanāt* ← *mehana*
 - \[noun\], ablative, singular, neuter
@@ -97,36 +97,36 @@ popular;; epic anuṣṭubh (292)
 **वनंकरणात्** । वनमुदकं शारीरम् । तत्क्रियते विसृज्यते येन तद्वनंकरणम् । तस्मात् **मेहनात्** मेढ्रात् **ते** तव **लोमभ्यः** **नखेभ्यः** च **यक्ष्मं** **वि** **वृहामि** । किं बहुना । **इदम्** इदानीं **तं** यक्ष्मं **सर्वस्मादात्मनः** कृत्स्नादेव **ते** तव शरीरात् वि वृहामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I banish disease from your urethra, from your bladder, from your hair, from your nails, from your wholeperson.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From your urinator, your love-maker, your hair, your nails,  
 I tear this disease here out—from your whole body.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From what is voided from within, and from thy hair, and from they nails,  
      From all thyself from top to toe, I drive thy malady away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von der Harnröhre, von der Blase, von deinen Haaren, den Nägeln, vom ganzen Körper zieh ich dir jetzt die Auszehrung ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus deiner Scham, deiner Harnröhre, aus Haaren und Nägeln, aus deinem ganzen Leibe treibe ich dir jetzt diese Krankheit fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из мочеточника, из мочевого пузыря,  
 Из волосков на теле, из твоих ногтей,  

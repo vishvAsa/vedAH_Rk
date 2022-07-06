@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡न्दमान ऋता꣡द् अ꣡धि प्रजा꣡यै  
 स꣡खिभिर् इ꣡न्द्र इषिरे꣡भिर् अ꣡र्थम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मि꣡हः प्र꣡ तम्रा꣡ अवपत् त꣡मांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । आ॒भिः॒ । हि । मा॒याः । उप॑ । दस्यु॑म् । आ । अगा॑त् । मिहः॑ । प्र । त॒म्राः । अ॒व॒प॒त् । तमां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mandamāna* ← *mandamānaḥ* ← *mad*
 - \[verb noun\], nominative, singular
@@ -123,7 +123,7 @@ genre M
 **इन्द्रः** **ऋतात्** यज्ञात् **अधि** **इषिरेभिः** गमनशीलैः **सखिभिः** मरुद्भिः सह **मन्दमानः** माद्यन् **प्रजायै** यजमानाय **अर्थं** धनं प्रयच्छति । स चेन्द्रः **आभिः** प्रजाभिर्निमित्तभूताभिः **मायाः** दस्युसंबन्धिनीर्विनाशयितुं **दस्युम्** **उप** **आगात्** । स दस्युः **तम्राः** अवर्षणेन ग्लापयित्रीः **मिहः** वृष्टीः **प्र** **अवपत्** व्यनाशयदित्यर्थः । तमांसि - - - ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,7 +134,7 @@ genre M
 Dark rain-clouds: tamrāḥ = causing to languish, i.e., by giving no rain; is this a plural y on the wordtāmra, copper?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming exhilarated, to produce progeny from truth, Indra (went) to  the goal with his vigorous comrades.  
 Because with these (wiles of his) he came right up to the Dasyu  
@@ -142,23 +142,23 @@ Because with these (wiles of his) he came right up to the Dasyu
 darkness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Glad, for the race that rests on holy Order, with friends who hasten to their goal, hath Indra  
      With these his magic powers assailed the Dasyu: he cast away the gloomy mists, the darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Somaberauscht ging Indra in rechter Absicht für die Kreatur auf sein Ziel los mit den eifrigen Freunden. Denn mit diesen Zaubereien ist er den Zaubereien, dem Dasyu zu Leibe gegangen: Er streute beklemmende Nebel, Finsternis aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreut durch das Opfer [förderte] Indra mit den muntern Genossen den Menschen ihr Werk (?); denn um ihretwillen rückte er mit Zaubermacht gegen den Dämon an und zerstreute die finstern Nebel und die Finsterniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьяняясь, (исходя) из (вселенского) закона ради потомства,  
 (Ты отправился), о Индра, к (своей) цели вместе с бодрыми друзьями.  

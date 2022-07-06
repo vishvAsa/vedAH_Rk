@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡त् ते बृह꣡न्तो अर्च꣡यः  
 समिधान꣡स्य दीदिवः  
 अ꣡ग्ने शुक्रा꣡स ईरते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । शु॒क्रासः॑ । ई॒र॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ut* ← *ud*
 - \[adverb\]
@@ -78,36 +78,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **दीदिवः** दीप्त **अग्ने** **समिधानस्य** समिध्यमानस्य **ते** तव **बृहन्तः** महान्तः **शुक्रासः** ज्वलन्तः **अर्चयः** दीप्तयः **उत्** **ईरते** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Brilliant **Agni**, as you are kindled, your great flames start blazing up.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your lofty beams rise upward as you are kindled,  
 upward the flaming ones, shining Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the lofty flames of' thee enkindled have gone up on high,  
      Thy bright flames, thou Refulgent One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine hohen Flammen erheben sich, wenn du entzündet wirst, die hellen, o leuchtender Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn du entflammt bist, richten sich, o glanzbegabter, hell und hoch, O Agni, deine Strahlen auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твои высокие языки пламени,  
 Когда ты зажжен, о сверкающий  

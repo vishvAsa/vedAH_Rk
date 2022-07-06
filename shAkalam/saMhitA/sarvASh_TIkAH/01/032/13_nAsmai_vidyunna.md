@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡स्मै विद्यु꣡न् न꣡ तन्यतुः꣡ सिषेध  
 न꣡ या꣡म् मि꣡हम् अ꣡किरद् ध्रादु꣡निं च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उता꣡परी꣡भ्यो मघ꣡वा वि꣡ जिग्ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । च॒ । यत् । यु॒यु॒धाते॒ इति॑ । अहिः॑ । च॒ । उ॒त । अ॒प॒रीभ्यः॑ । म॒घऽवा॑ । वि । जि॒ग्ये॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nāsmai* ← *na*
 - \[adverb\]
@@ -136,42 +136,42 @@ genre M
 इन्द्रं निषेद्धुं वृत्रो यान् विद्युदादीन् मायया निर्मितवान् ते सर्वेऽप्येनं निषेद्धुमशक्ताः । सोऽयमथोंऽनेन मन्त्रेणोच्यते । **अस्मै** इन्द्रार्थं निर्मिता **विद्युत्** **न** **सिषेध** इन्द्रं न प्राप्नोत् । तथा **तन्यतुः** गर्जनं **यां** **मिहं** सेचनं यां वृष्टिम् **अकिरत्** वृत्रो विक्षिप्तवान् सापि वृष्टिः **न** सिषेध । **ह्रादुनिं** **च** अशनिमपि यां वृत्रः प्रयुक्तवान् सापि न सिषेध । **इन्द्रश्च** **अहिश्च** इन्द्रवृत्रावुभावपि **यत्** यदा **युयुधाते** युद्धं कृतवन्तौ । तदानीं विद्युदादयो न प्राप्ता इति पूर्वत्रान्वयः । **उत** अपि च **मघवा** धनवानिन्द्रः **अपरीभ्यः** अपराभ्यः अन्यासामपि वृत्रनिर्मितानां मायानां सकाशात् **वि** **जिग्ये** विशेषेण जितवान् ॥ सिषेध। ' षिधु गत्याम् । मिहम् । मिह सेचने ' । मेहति सिञ्चतीति मिट् वृष्टिः । क्विप् च ' इति क्विप् । अकिरत् ।  ‘ कॄ विक्षेपे । **तुदादिभ्यः** शः '। 'ऋत इद्धातोः ' इति इत्वम् । अडागम उदात्तः । यद्वृत्तयोगादनिघातः । युयुधाते । ‘युध संप्रहारे'। लिटि प्रत्ययस्वरः । जिग्ये । ‘सन्लिटोर्जेः' (पा. सू. ७. ३. ५७ ) इति अभ्यासादुत्तरस्य जकारस्य कुत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Neither the lightning nor the thunder (discharged by **Vṛtra**), nor the rain which he showered, nor the thunderbolt, harmed **Indra**, when he and Ahi contended and Maghvat triumphed also over other (attacks).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Neither the lightning nor the thunder, neither the mist nor the hail that  he scattered repelled (Indra) for him.  
 When Indra and the serpent fought each other, the generous one  
 achieved victory also for (all) later times.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nothing availed him lightning, nothing thunder, hailstorm or mist which had spread around him:  
      When Indra and the Dragon strove in battle, Maghavan gained the victory for ever.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Him lightning then availèd not nor thunder, Nor mist, nor hailstorm which around he scattered: When Indra and the serpent fought in battle, The bounteous god gained victory for ever.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht fruchtete ihm Blitz und Donner, nicht Nebel und Hagel, den er ausstreute. Als Indra und der Drache kämpften, da blieb der Gabenreiche auch für alle Zukunft Sieger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nichts half ihm da der Blitz und nichts der Donner, nicht Nebel, den er ausgoss, noch der Hagel, Als Indra und der Drache sich bekämpften, gewann den Sieg für alle Zeit der mächt'ge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 a-b nasmai vidyun na tanuatuh sisedha / na yam miham rv01.032.13
 </details>

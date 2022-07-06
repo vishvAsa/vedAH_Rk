@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ ते꣡षाम् अमा꣡ चन꣡  
 न꣡ अ꣡ध्वसु वारणे꣡षु  
 ई꣡शे रिपु꣡र् अघ꣡शंसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 ईशे॑ । रि॒पुः । अ॒घऽशं॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -85,36 +85,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अमेति गृहनाम। **अमा** **चन** गृहेष्वपि **तेषां** वरुणमित्रार्यम्णां तदनुगृहीतानां स्तोतॄणां वा अघशंसः अघमनर्थमाशंसमानः **रिपुः** शत्रुः **नहि** **ईशे** न खलु हिंसितुमीष्टे ॥ ‘लोपस्त आत्मनेपदेषु' इति तलोपः । अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः शिष्यते ॥ तथा **अध्वसु** मार्गेषु **वारणेषु** यत्र पुरुषा निवार्यन्ते तेषु च स्थानेषु शत्रुर्निवारयितुं **न** ईष्टे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not their malignant enemy have power over dwellings, or roads, or enclosures.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For neither at home nor on wild ways  
 does an evil-speaking cheater hold sway over them—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O'er these, neither at home nor yet abroad or pathways that are Strange,  
      The evil-minded foe hath power
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn über sie hat der Schelm, der böse Reden führt, keine Gewalt, weder daheim noch auf unbekannten Wegen,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn nimmer hat ein böser Feind daheim noch auch auf rauhem Pfad Macht über einen solchen Mann,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь над ними не имеет власти  
 Злоречивый обманщик  

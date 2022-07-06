@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ मे ह꣡वम् आ꣡ शृणुतं युवाना  
 यासिष्टं꣡ वर्ति꣡र् अश्विनाव् इ꣡रावत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ध॒त्तम् । रत्ना॑नि । जर॑तम् । च॒ । सू॒रीन् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -126,36 +126,36 @@ genre M;; repeated line
 हे **युवाना** नित्ययौवनौ **नु** अद्य युवां **मे** हवम् अस्मदीयां स्तुतिम् **आ** **शृणुतम्** । श्रुत्वा च हे **अश्विनौ** **इरावत्** हविर्युक्तं **वर्तिः** गृहं **यासिष्टम्** आगच्छतम् । आगत्य च **रत्नानि** रमणीयानि धनानि **धत्तं** दत्तम् । **सूरीन्** स्तोतॄन् **जरतं** वर्धयतम् । धातूनामनेकार्थत्वात् । शिष्टं स्पष्टम् ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Ever youthful **Aśvins**, hear today my invocation; come Aśvins, to the dwelling where the oblation isprepared; grant wealth (to the offerer); elevate the worshipper and to you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, hear my call, youthful ones. Journey the course that brings  refreshment, Aśvins.  
 Grant riches and awaken our patrons! – Do you protect us always with  your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now hear, O Youthful Twain, mine invocation: come, Asvins, to the home where food aboundeth.  
      Vouchsafe us wealth, do honour to our nobles. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun erhöret meinen Ruf, ihr Jünglinge; fahret eure erlabende Rundfahrt, Asvin! Bringet die Kleinode und lasset die freigebigen Herren alt werden!-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So hört nun meinen Ruf, o junge Ritter, und kommt mit Segen her zur Opferstätte, Den Fürsten schenket Gut und langes Leben; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прислушайтесь же к моему зову, о два юноши!  
 Отправляйтесь, о Ашвины, в (ваш) подкрепляющий (нас) обьезд!  

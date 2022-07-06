@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ गछस्व पितृ꣡भिः सं꣡ यमे꣡न  
 इष्टापूर्ते꣡न परमे꣡ वि꣡ओमन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ गछस्व · तनु꣡वा सुव꣡र्चाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 हि॒त्वाय॑ । अ॒व॒द्यम् । पुनः॑ । अस्त॑म् । आ । इ॒हि॒ । सम् । ग॒च्छ॒स्व॒ । त॒न्वा॑ । सु॒ऽवर्चाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -121,7 +121,7 @@ popular
 हे मदीय पितः ततस्त्वं **परमे** उत्कृष्टे **व्योमन्** व्योमनि स्वर्गाख्ये स्थाने स्वभूतैः **पितृभिः** सह **सं** **गच्छस्व** । **इष्टापूर्तेन** श्रौतस्मार्तदानफलेन **सं** गच्छस्व । तत इष्टापूर्तेन सहागम्य **अवद्यं** पापं **हित्वा** परित्यज्य **अस्तं** व्रियमानाख्यं गृहम् **एहि** आगच्छ। ततः **सुवर्चाः**। तृतीयार्थे प्रथमा । सुवर्चसा शोभनदीप्तियुक्तेन **तन्वा** स्वशरीरेण **सं** **गच्छस्व** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,34 +132,34 @@ popular
 This and previous ṛca areaddressed to the spirit of a dying person n
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Unite with the forefathers, unite with Yama, with what has been  sacrificed and bestowed, in the highest distant heaven.  
 Having left behind imperfection, come home again. Unite with your  body in your full luster.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Meet Yama, meet the Fathers, meet the merit of free or ordered acts, in highest heaven.  
      Leave sin and evil, seek anew thy dwelling, and bright with glory wear another body.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Unite thou with the Fathers and with Yama, With thy good works' reward in highest heaven. To home return, all imperfection leaving. Unite with thine own body, full of vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tritt mit den Vätern zusammen, mit Yama, mit deinen Opfern und den anderen guten Werken im höchsten Himmel! Allen Makel zurücklassend komm wieder ins Haus; vereinige dich mit einem neuen Leib in blühender Kraft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereine dich mit Jama und den Vätern, mit jedes Wunschs Gewähr im höchsten Himmel; Von Fehlern frei geh ein zu deiner Heimat, mit neuem Leib vereine dich erglänzend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соединись с отцами, со(единись) с Ямой,  
 С жертвами и (добрыми) деяниями на высшем небе!  

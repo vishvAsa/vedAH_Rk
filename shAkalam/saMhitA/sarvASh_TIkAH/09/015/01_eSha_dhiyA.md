@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ धिया꣡ यात्य् अ꣡ण्विया  
 शू꣡रो र꣡थेभिर् आशु꣡भिः  
 ग꣡छन्न् इ꣡न्द्रस्य निष्कृत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गच्छ॑न् । इन्द्र॑स्य । निः॒ऽकृ॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -88,41 +88,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अण्व्या** अङ्गुल्याभिषुतः **धिया** कर्मणा **याति** गच्छति । कं देशं प्रति । उच्यते । **इन्द्रस्य** **निष्कृतं** स्थानं दिवं प्रति **रथेभिः** रथैः **आशुभिः** शीघ्रगामिभिः **गच्छन्** इन्द्रेण रथेऽवस्थाप्य स्वस्थाननयनाय । अङ्गुल्याभिषूयमाणः सन् होमद्वाराग्निं निष्पीडनद्वारा पात्रं वा गच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This heroic **Soma** expressed by the fingers proceeds by the sacrifice, hastening with swift chariots to **Indra**'s above.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one drives with insight along the fine (fleece), a champion with his  swift chariots,  
 going to his encounter with Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c, gáchann índrasya niṣkṛtám, echoes IX.13.1c vāyór índrasya niṣkṛtám. It is not clear to me whether a different ritual occasion is meant, or it’s simply a variant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THROUGH the fine fingers, with the song, this Hero comes with rapid ears,  
      Going to Indra's special place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser mit Kunst durch die Seihe geläutert zieht aus, der Held mit raschen Wagen, und geht zum Treffort des Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er eilt mit Fleiss durchs feine Sieb mit raschem Wagen er, der Held, Dahin, wo er den Indra trifft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот силой поэтической мысли движется через мелкое (сито),  
 Герой на быстрых колесницах.  

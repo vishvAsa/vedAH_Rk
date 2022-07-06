@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡दिता यो꣡ नि꣡दिता वे꣡दिता व꣡सु  
 आ꣡ यज्ञि꣡यो वव꣡र्तति  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 धिया꣡ वा꣡जं सि꣡षासतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दु॒स्तराः॑ । यस्य॑ । प्र॒व॒णे । न । ऊ॒र्मयः॑ । धि॒या । वाज॑म् । सिसा॑सतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uditā* ← *uditi*
 - \[noun\], locative, singular, feminine
@@ -108,7 +108,7 @@ genre M
 **वेदिता** वेत्ता **यज्ञियः** यज्ञार्हः **यः** अग्निः **उदिता** उदितान्युद्गतानि **निदिता** निदितानि श्रुतानि च **वसु** वसूनि धनानि **आ** **ववर्तति** आवर्तयति। **धिया** कर्मणा **वाजं** संग्राम **सिषासतः** संभक्तुमिच्छतः **यस्य** चाग्नेर्ज्वालाः **प्रवणे** **नोर्मयः** प्रवणाभिमुखाः समुद्रस्य तरङ्गा इव **दुष्टराः** तर्तुमशक्याः । तमग्निं हे स्तोतः स्तुहीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,36 +119,36 @@ genre M
 Far renowned: niditā = śrutāni; by meansof our sacred rite: dhiyā = **karmaṇā**; the offering gives the god strength for the battle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one deserving the sacrifice who at sunrise, as finder of tied-down  goods, will turn them hither,  
 whose waves [=flames] are difficult to cross, like the waves in a torrent,  when he seeks to win the prize with his insightful thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the playful úditā … níditā véditā, already pointed to by Oldenberg, in which the three rhyming words are grammatically entirely different: fem. loc. sg., neut. acc. pl., and masc. nom. sg. agent noun respectively.
 
 What is being compared to the waves (ūrmáyaḥ) in c? Geldner supplies “Absichten” (intentions), presumably on the basis of dhiyā́in d, but the dhī́- of Agni should not be considered negative or hostile. Renou’s suggestion, “flames,” is far more persuasive, but I think this idea should be combined with Oldenberg’s view that ūrmáyaḥ belongs with both simile and frame. That is, Agni’s flames are already metaphorically waves and then can be compared with real waves. Cf. the cmpd descriptor of Agni in I.58.45 rúśadūrmi- ‘possessing gleaming waves’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who, finder-out of treasures open and concealed, bringeth them hither, Holy One;  
      Whose waves, as in a cataract, are hard to pass, when he, through song, would win him strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der bei Sonnenaufgang die angebundenen Schätze erkundet und herbringen möge, der Opferwürdige; dessen Absichten schwer zu durchqueren sind wie die Wellen im reißenden Strome, wenn er mit Absicht den Siegerpreis zu gewinnen sucht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der offenbare und verschlossne Güter kennt und her sie schafft, der heilige, Dess Wellen wie im Wasserfalle niemand hemmt, wenn Gut zu schenken er beschliesst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Агни,) который на восходе (солнца) узнаёт о привязанных благах  
 (И) доставляет (их нам), достойный жертв,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ स्तुष इ꣡न्दरं+ यो꣡ वि꣡दानो  
 गि꣡र्वाहसं · गीर्भि꣡र् यज्ञ꣡वृद्धम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरुमाय꣡स्य रिरिचे꣡ महित्व꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । दिव॑म् । अति॑ । म॒ह्ना । पृ॒थि॒व्याः । पु॒रु॒ऽमा॒यस्य॑ । रि॒रि॒चे । म॒हि॒ऽत्वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -132,20 +132,20 @@ genre M
 **यः** इन्द्रः **विदानः** सर्वं विद्वान् सर्वैर्ज्ञायमानो वा **गिर्वाहसं** गीर्भिर्वहनीयं **यज्ञवृद्धं** यज्ञैः प्रवृद्धं **तमु** तमेव **इन्द्रं** **स्तुषे** स्तुवे। **पुरुमायस्य** बहुप्रज्ञस्य बहुवञ्चनस्य वा **यस्य** इन्द्रस्य **महित्वं** माहात्म्यं **दिवं** दिवो द्युलोकात् । पञ्चम्यर्थे द्वितीया । **पृथिव्याः** भूलोकात् **मह्ना** महिम्ना **अति** **रिरिचे** अतिरिच्यते तं स्तुवे इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorifyi that **Indra** who is propitiated by praises, exalted by sacrifices, who knows all things; the magnitude of whom, the possessor of various wisdom, exceeds in vastness (that of) heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I will praise him who is known as “Indra,” whose vehicle is songs, who  is strengthened by sacrifice along with songs,  
 him of many wiles, whose greatness projects beyond heaven and earth  in their greatness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The nominal rel. cl. yó vídānaḥ, interrupting a string of accusatives, is syntactically curious. It seems to represent a sort of izafe, rather than a real embedded relative cl. I have tr. it as if acc. índram were the predicate of the participle (“who is known as “Indra”), despite the difference in cases. Geldner, in contrast: “der bekannt ist.” My interpr. might be better represented as “I will praise him — Indra, as he is known — whose …” This interpr. fits well with the doubts expressed about Indra later in the hymn, esp. vs. 4. See also vídānaḥ in 12b.
 
@@ -154,23 +154,23 @@ The instr. gīrbhíḥ in b might be better construed with the verb stuṣe in a
 The second hemistich contains a strikingly mixed construction, with the usual matched pair heaven and earth in two different cases, acc. dívam, abl.-gen. pṛthivyā́ḥ, though construed with the same verb. The two different cases are controlled by two different PREVERB + √ric combinations, one overt, one implied. Overt is áti √ric ‘extend beyond, surpass’, which is rather rare but takes the acc., as in VIII.92.14, 22 ná tvā́m indrā́ti ricyate “nothing surpasses you, Indra” (cf. also X.90.5); hence our … dívam áti … riricé. The implied construction is the more common prá √ric ‘extend beyond’ which takes the abl., as in I.61.9 asyéd evá prá ririce mahitváṃ, divás pṛthivyā́ḥ pári antárikṣāt “his greatness projected beyond heaven and earth, beyond the midspace” (note clear abl. antárikṣāt) (cf. also I.59.5, 109.6, etc.), hence our … pṛthivyā́ḥ … ririce mahitvám. Examples of this latter constr. are found in this group of Indra hymns (VI.24.3, 30.1), and despite the absence of prá here it is not surprising that the abl. construction would creep in.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I praise that Indra, known to all men, honoured with songs, extolled with hymns at sacrifices,  
      Whose majesty, rich in wondrous arts, surpasseth the magnitude of earth, and heaven in greatness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Indra will ich mit Lobliedern preisen, der bekannt ist, den die Lobreden anziehen, die Opfer stärken, dessen Größe an Umfang über Himmel und Erde hinausreicht, des Verwandlungsreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra preis ich, der sich finden lässet, mit Liedern ihn, der Lieder liebt und Opfer, Den zauberreichen, dessen Grösse weithin den Himmel und die Erde überraget.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого Индру, который найден, я славлю,  
 (Его,) привлекаемого хвалебными песнями, возрастающего от жертв,  

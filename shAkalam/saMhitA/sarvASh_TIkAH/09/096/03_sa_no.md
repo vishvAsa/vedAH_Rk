@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो देव देव꣡ताते पवस्व  
 महे꣡ सोम प्स꣡रस इन्द्रपा꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरो꣡र् आ꣡ नो वरिवस्या पुनानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कृ॒ण्वन् । अ॒पः । व॒र्षय॑न् । द्याम् । उ॒त । इ॒माम् । उ॒रोः । आ । नः॒ । व॒रि॒व॒स्य॒ । पु॒ना॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -134,20 +134,20 @@ genre M
 हे देव द्योतमान हे **सोम** **सः** तादृशः **इन्द्रपानः** इन्द्रेण पातव्यस्त्वं **नः** अस्माकं स्वभूते **देवताते** देवैस्तते वितते यज्ञे **महे** महते **प्सरसे** भक्षणायेन्द्रस्य पानाय **पवस्व** ग्रहादिषु क्षर। किंच **अपः** उदकानि **कृण्वन्** कुर्वन् **उत** अपि च **द्याम्** **इमां** द्यावापृथिव्यौ **वर्षयन्** । भूमिं पर्जन्यरूपेण तर्पयति द्युलोकमग्निरूपेणेति । ‘ भूमिं पर्जन्या जिन्वन्ति दिवं जिन्वन्त्यग्नयः ' (ऋ. सं. १.१६४.५१ ) इति श्रवणात् । **उरोः** विस्तीर्णादन्तरिक्षात् **आ** आगच्छंस्त्वं **पुनानः** पूयमानः सन् **नः** अस्मान् **वरिवस्य** धनादिप्रदानेन परिचरेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Soma**, who are the beverage of **Indra**, flow at our sacrifice for (his) abundant food; sending water, causing rain to fall upon heaven and upon this earth, (come) from the wide (firmament, and) being purified bestow upon us wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, o god, for the conclave of gods, for great delight, o  Soma, as Indra’s drink.  
 Creating the waters and making this heaven rain, from the wide (realm)  make wide space for us as you are being purified.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase dyā́m utémā́m raises a number of questions. First, what is utá conjoining? Although it is tempting to suggest “heaven and this (earth),” this would produce the pragmatically unlikely “causing … this (earth) to rain.” Moreover, there are numerous exx. of prthiv ̥ ī́ṃ dyā́m utémā́m “earth and this heaven” (III.32.8, 34.8, X.88.3, 9, 121.1). It seems that the last part of that phrase, containing only the second NP, has been extracted from the fuller expression and inserted here, with the utá pleonastic+++(=redundant)+++, or loosely conjoining the participial phrases kṛṇvánn apáḥ and varṣáyan dyā́m utémā́m despite its position within the NP. On the clash between the near deictic ayám ‘this here’ and heaven, which is generally qualified by the distal deictic asaú ‘that yonder’, see disc. ad VIII.40.4 - also for the fem. gender that dyā́m must show here.
 
@@ -156,23 +156,23 @@ Geldner tr. d as implicitly comparative, “mach uns die Bahn noch breiter als b
 otherwise) depend on ā́váram “the choice from among …” Moreover, varivasyádoes not have a comparative sense ‘make wider space’ but merely ‘make wide space’. In our passage the point seems to be that Soma is already positioned in a wide place, from which he can act to provide us with the same.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O God, for service of the Gods flow onward, for food sublime, as Indra's drink, O Soma.  
      Making the floods, bedewing earth and heaven, come from the vast, comfort us while we cleanse thee
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere du dich, o Gott, für unseren Gottesdienst, zu hohem Genuß als Indra´s Getränk, o Soma! Wasser schaffend und diesen Himmel regnen lassend mach uns die Bahn noch breiter als breit, indem du dich läuterst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ström' uns hell, o Gott, zum Götterfeste, zum grossen Mahl geschlürft von Indra, Soma! Uns Wasser schaffend und des Himmels Regen, schaff uns von weither weiten Raum; entflammter!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся, о бог, для нашей службы богам,  
 Для великого пира, о сома, как питье для Индры!  

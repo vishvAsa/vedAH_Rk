@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्य द्युमाँ꣡ असद् र꣡थो  
 देव꣡जूतः स꣡ शूशुवत्  
 वि꣡श्वा वन्व꣡न्न् अमित्रि꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 विश्वा॑ । व॒न्वन् । अ॒मि॒त्रिया॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
@@ -90,36 +90,36 @@ genre M
 **तस्य** देवान् पूजयतो यजमानस्य **देवजूतः** देवैरिन्द्रादिभिः प्रेरितः **द्युमान्** दीप्तिमान् **रथः** रंहणशीलः स्यन्दनो देवानां हविष्प्रदानरूपेण यज्ञेन **असत्** भवति आगच्छति । ततस्तेन रथेन **अमित्रिया** अमित्रियान् शत्रुभिः कृतान् **विश्वा** सर्वान् बाधान् **वन्वन्** । 'वनोतिर्हिंसाकर्मा ' इति यास्कः । हिंसन् **सः** एव **शूशुवत्** पुत्रादिभिर्धनैश्च वर्धते । अत्र येन मे रथो बाधाभावश्चाभूदिति यागप्रशंसा येन सम्यगिष्टदेवा रथं दत्तवन्त इति यजमानप्रशंसा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “A brilliant chariot comes to him, sent by the gods, with which, baffling all hostilities, he prospers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His chariot will be brilliant; god-sped, he will swell up,  
 winning all (the things) of the enemy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His chariot shall be glorious, sped by Gods, and mighty shall he be,  
      Subduing all hostilities.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Wagen wird ruhmvoll sein, von den Göttern zur Eile getrieben wird er überlegen sein, alle Feindseligkeiten überwindend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dess Wagen ist mit Glanz begabt, er selbst gedeihet gotterregt, Besiegend aller Feinde Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его колесница будет блистательной,  
 Погоняемой богами, (сам) он будет победоносным,  

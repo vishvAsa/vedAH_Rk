@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ न इ꣡न्द्रो दूरा᳐꣡द् आ꣡ न आसा꣡द्  
 अभिष्टिकृ꣡द् अ꣡वसे यासद् उग्रः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 संगे꣡ सम꣡त्सु तुर्व꣡णिः पृतन्यू꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ओजि॑ष्ठेभिः । नृ॒ऽपतिः॑ । वज्र॑ऽबाहुः । स॒म्ऽगे । स॒मत्ऽसु॑ । तु॒र्वणिः॑ । पृ॒त॒न्यून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -126,43 +126,43 @@ genre M
 **अभिष्टिकृत्** यजमानसंबन्धिनामभीष्टानां कर्ता **उग्रः** तेजस्वी **इन्द्रः** **नः** अस्माकम् **अवसे** रक्षणाय **दूरात्** **आ** **यासत्** आयातु आगच्छतु । अपि च **आसात्** आसन्नादन्तिकाच्च **नः** अस्माकमवसे रक्षणाय **आ** यासत् आयातु । कीदृशः । **समत्सु** संग्रामेषु **संगे** शत्रुभिः संयोगे सति **पृतन्यून्** शत्रून् **तुर्वणिः** हिंसन् **वज्रबाहुः** वज्रहस्तः **नृपतिः** वृष्टिद्वारा नृणां मनुष्याणां पालकः **ओजिष्ठेभिः** अतिशयेन तेजस्विभिः मरुद्भिर्युक्त इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the illustrious **Indra**, the granter of desires, come to us, whether from afar or nigh, for our protection; he who is the lord of men, armed with the thunderbolt, overcoming his foes in conflict and in combats, (attended) by the most illustrious (**Maruts**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here to us from afar and here to us from nearby will powerful Indra  drive for help, creating his own superiority—  
 the lord of men with the mace in his arm, with his most powerful (men)  overcoming battlers in combat and conflicts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the patterned phonological repetition dūrā́d … āsā́d … yāsad, with the 1st two morphologically parallel (ablative sg.) and the last not (subjunctive, 3rd sg.).
 
 To make the tr. clearer, “our” should be inserted before “help.” Otherwise it sounds as if Indra needs to find help for himself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FROM near or far away may mighty Indra giver of succour, come for our protection  
      Lord of men, armed with thunder, with the Strongest, slaying his foes in conflict, in the battles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von fern und nah soll uns Indra zur Hilfe kommen, der Überlegenheit verleiht, der Gewaltige mit den gewaltigsten Mannen, der Männerfürst mit der Keule im Arm, der im Treffen, in den Schlachten die Angreifer überwindet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es komme Indra uns von nah und ferne zu Hülfe her, der mächtige Beschützer, Den Blitz im Arm, der Herrscher mit den Stärksten, die Feinde zwingend bei dem Kampf in Schlachten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Индра к нам издалека, пусть к нам изблизи  
 Придет на помощь, (он,) создающий превосходство, грозный,  

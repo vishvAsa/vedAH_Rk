@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपा꣡म् फे꣡नेन न꣡मुचेः  
 शि꣡र इन्द्रो꣡द् अवर्तयः  
 वि꣡श्वा य꣡द् अ꣡जय स्पृ꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विश्वाः॑ । यत् । अज॑यः । स्पृधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apām* ← *ap*
 - \[noun\], genitive, plural, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पुरा किलेन्द्रोऽसुराञ्जित्वा नमुचिमसुरं ग्रहीतुं न शशाक । स च युध्यमानस्तेनासुरेण जगृहे । स च गृहीतमिन्द्रमेवमोचत् । त्वां विसृजामि रात्रावह्नि च शुषकेणार्द्रेण चायुधेन यदि मां मा हिंसीरिति । स इन्द्रस्तेन विसृष्टः सन्नहोरात्रयोः संधौ शुष्कार्दविलक्षणेन फेनेन तस्य शिरश्चिच्छेद। अयमर्थोऽस्यां प्रतिपाद्यते । हे **इन्द्र** **अपां** **फेनेन** वज्रीभूतेन **नमुचेः** असुरस्य **शिरः** **उदवर्तयः** शरीरादुद्गतमवर्तयः । अच्छैत्सीरित्यर्थः । कदेति चेत् । **यत्** यदा **विश्वाः** सर्वाः **स्पृधः** स्पर्धमाना आसुरीः सेनाः **अजयः** जितवानसि । इन्द्रो वृत्रं हत्वासुरान् ---... ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,28 +99,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Namuci: legend from **śalya** **parvan**, **Mahābhārata**: Indra after defeating the **asuras** wascaptured by Namuci. Namuci however, liberated him on the condition that he would not kill him with any weapon,dry or wet, nor by day or night. In evasion of his oath, Indra at twilight, or in a fog, decapitated Namuci with thefoam of water; cf. **Taittirīya** **Saṃhitā** 1.8.7
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the foam of the waters you made the head of Namuci roll, Indra, when you conquered all contenders.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With waters' foam thou torest off, Indra, the head of Namuci,  
      Subduing all contending hosts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Wasserschaum hast du das Haupt des Namuci in die Höhe gewirbelt, o Indra, als du alle Geister besiegtest;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, schlugst dem Namutschi den Kopf ab mit der Wasser Schaum, Als du die Feinde alle schlugst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С помощью водяной пены, о Индра,  
 Ты отшвырнул голову Намучи,  

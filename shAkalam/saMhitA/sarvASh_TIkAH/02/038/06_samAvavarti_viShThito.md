@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समा꣡ववर्ति वि꣡ष्ठितो जिगीषु꣡र्  
 वि꣡श्वेषां का꣡मश् च꣡रताम् अमा꣡भूत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु व्रतं꣡ सवितु꣡र् दइ꣡वियस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शश्वा॑न् । अपः॑ । विऽकृ॑तम् । हि॒त्वी । आ । अ॒गा॒त् । अनु॑ । व्र॒तम् । स॒वि॒तुः । दैव्य॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samāvavarti* ← *samāvṛt* ← *√vṛt*
 - \[verb\], singular, Present indikative
@@ -121,20 +121,20 @@ genre M
 जिगीषुः विजयेच्छुर्योद्धा विष्ठितः युद्धार्थम्प्रस्थितः समाववर्ति समावर्तयति विश्वेषां सर्वेषां चरताञ्जङ्गमानां अमा अमादमइतिगृहनामसुपाठात् गृहम्प्रतिकामोभूत् भवति शश्वान् नित्यङ्कर्म रतः अपः कर्म विकृतं अर्धकृतं हित्वी हित्वा आगात् गृहमागच्छति एतत्सर्वं दैव्यस्य दिवि भवस्य सवितुः प्रेरकस्य सूर्यस्यव्रतं अस्तमयाख्यं कर्मानुजायतइत्यर्थः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The warrior, eager for victory, who has gone forth (to battle), turns back; (for) home is the desire of moving beiings; abandoning his half-wrought toil, the labourer returns (home) when the function of the divine **Savitā** (is suspended).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Whatever) was dispersed seeking gain has been gathered together.  Desire for home has arisen in all who roam.  
 Each and every one has come, abandoning unfinished work, following  the commandment of the divine Savitar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda of this vs. takes up the idiom ví √sthā ‘disperse’ found in 5b and applies it somewhat differently. Here it refers to all those who were dispersed in various directions pursuing their livelihoods -- who all want to come home in the evening. On jigīṣú- see Narten (Yasna H., 122); as she makes clear, the desid. of √ji in both Vedic and Avestan lacks martial or battle context and is simply about gaining food and so on. See also Heenen (Desid. 120-25).
 
@@ -143,23 +143,23 @@ The verb samā́vavarti is taken by Kümmel (465-66) as a (pseudo-)passive aor. 
 Although we might expect víkṛtam to mean ‘badly/wrongly done’, I think the dominant sám / ví play in this hymn trumps that, and if sáṃskr̥ta- is ‘perfected, brought to completion’, víkrtḁ - can mean ‘incomplete, not done’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He comes again, unfolded, fain for conquest: at home was he, the love of all things moving.  
      Each man hath come leaving his evil doings, after the Godlike Savitar's commandment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer auf Gewinn ausgezogen war, kehrt heim; aller Wanderer Wunsch ging heimwärts. Jeder ließ die Arbeit halbgetan liegen und ist heimgekehrt nach dem Gebot des göttlichen Savitri.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es kehrt zurück, wer zu erwerben ausging; die Sehnsucht aller Wandrer strebte heimwärts; Sein Werk verlassend gehet heim ein jeder, auf das Geheiss des göttlichen Erregers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возвращается тот, кто отправился на поиски добычи.  
 У всех странствующих возникло стремление (отправиться) домой.  

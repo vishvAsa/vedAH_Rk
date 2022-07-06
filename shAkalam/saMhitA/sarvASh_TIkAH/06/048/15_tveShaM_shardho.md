@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वेषं꣡ श꣡र्धो न꣡ मा꣡रुतं तुविष्व꣡णि  
 अनर्वा꣡णम् पूष꣡णं सं꣡ य꣡था शता꣡  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 सुवे꣡दा नो व꣡सू करत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 सम् । स॒हस्रा॑ । कारि॑षत् । च॒र्ष॒णिऽभ्यः॑ । आ । आ॒विः । गू॒ळ्हा । वसु॑ । क॒र॒त् । सु॒ऽवेदा॑ । नः॒ । वसु॑ । क॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, neuter
@@ -150,20 +150,20 @@ genre M
 नेति संप्रत्यर्थे । **न** संप्रति इदानीं **त्वेषं** दीप्तं **तुविष्वणि** बहुस्वनम् **अनर्वाणम्** अप्रत्यृतं शत्रुभिरनभिगतं **पूषणं** पोषकं **मारुतं** मरुत्संघरूपमीदृशं **शर्धः** बलं स्तौमीति शेषः । स च मरुद्गणः **यथा** येन प्रकारेण **शता** शतसंख्याकानि धनानि **सं** सहैव **चर्षणिभ्यः** मनुष्येभ्योऽस्मभ्यं **कारिषत्** कुर्यात् । आकारः समुच्चये । यथा वा **सहस्रा** सहस्रसंख्याकानि धनानि च **सं** सहैव कारिषत् कुर्यात् तथा स्तौमीति पूर्वत्रान्वयः । अपि च स मरुद्गणः **गूळ्हा** गूढानि संवृतानि **वसु** वसूनि धनानि **आविः** **करत्** अस्मभ्यमाविष्करोतु । तथा **वसु** वसूनि धनानि **सुवेदा** सुलभानि च **नः** अस्माकं **करत्** करोतु । यदा तु लिङ्गादियं पौष्णी तदा मारुतं शर्ध इव त्वेषं पूषणं पोषकमेतत्संज्ञं देवं स्तौमीति योजनीयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I now (glorify) the brilliant vigour of the company of the **Maruts**, loud-sounding, irresistible, cherishing, whereby hundreds and thousands (of treasures) are bestowed collectively upon men; may that (company) make hidden wealth manifes; may it render the wealth easily accessible to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Turbulent like the troop of Maruts, powerfully noisy, without  assailant—Pūṣan (I praise), so that hundreds,  
 thousands (of goods) he will heap together from the settled domains.  He will make the hidden goods visible; he will make goods easy for  us to find.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. not only continues the identification of Pūṣan with other gods -- here the Maruts, characterized by three different descriptors -- but is syntactically dependent on the previous vs. and its verb stuṣe. It also contains the first mention of Pūṣan himself (pāda b), at the end of the series of identifications.
 
@@ -182,23 +182,23 @@ On these Pūṣan vss., see published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright as the host of Maruts mighty in their roar. May they bring Pusan free from foes;  
      May they bring hither hundreds, thousands for our men: may they bring hidden stores to light, and make wealth easy to be found.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den unerreichten Pusan, der furchtbar wie die lautbrausende marutische Heerschar ist, auf daß er Hunderte, Tausende aus allen Ländern zusammenraffe. Er möge die verborgenen Schätze offenbaren, die Schätze für uns leicht auffindbar machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Puschan, der unnahbar wie die Marutschar, die ungestüme, dass er Schatz Dem Menschenvolk ergiesse hundert-, tausendfach, verborgne Güter bring ans Licht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Его,) неистового, словно толпа Марутов, мощно шумящая,  
 Неодолимого Пушана, чтобы он осыпал (нас)  

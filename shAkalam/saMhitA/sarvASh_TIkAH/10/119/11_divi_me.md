@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवि꣡ मे अन्यः꣡ पक्षो꣡  
 अधो꣡ अन्य꣡म् अचीकृषम्  
 कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 कु॒वित् । सोम॑स्य । अपा॑म् । इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divi* ← *div*
 - \[noun\], locative, singular
@@ -87,36 +87,36 @@ popular;; repeated line
 **मे** मदीयः **अन्यः** **पक्षः** **दिवि** द्युलोके स्थापितः। **अधः** ॥ ' पूर्वाधरावराणामसि (पा. सू. ५. ३. ३९ ) इत्यादिनासिप्रत्ययः । प्रकृतेरधादेशश्च ॥ अधस्तात्पृथिव्याम् **अन्यं** पक्षम् **अचीकृषम्** अकार्क्षम् ॥  ‘ कृष विलेखने ' । ण्यन्तस्य लुङि चङि  ‘ नित्यं छन्दसि' (पा. सू. ७. ४. ८) इत्यृकारादेशः ॥ विलेखनं नामोत्पादनम् । उदपादयम् । आस्थापयमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “One of my wings is in the sky; the other I dragged below, for I have often drunk of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In heaven is one wing of mine; I have dragged the other below.  
 – Have I drunk of the soma? Yes!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One of my flanks is in the sky; I let the other trail below:  
      Have I not drunk of Soma juice?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Himmel ist mein einer Flügel, den anderen ließ ich unten schleifen. - Ich merke, daß ich Soma getrunken habe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Himmel ist mein einer Theil, den andern streck' ich tief hinab, Hat mich der Soma denn berauscht?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На небе одно мое крыло,  
 Другое поволок я внизу –  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एतउ꣡ मे गा꣡वौ प्रमर꣡स्य युक्तउ꣡  
 मो꣡ षु꣡ प्र꣡ सेधीर् मु꣡हुर् इ꣡न् ममन्धि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सू꣡रश् च मर्क꣡ उ꣡परो बभूवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आपः॑ । चि॒त् । अ॒स्य॒ । वि । न॒श॒न्ति॒ । अर्थ॑म् । सूरः॑ । च॒ । म॒र्कः । उप॑रः । ब॒भू॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etau* ← *etad*
 - \[noun\], nominative, dual, masculine
@@ -149,7 +149,7 @@ popular
 कार्यकारणयोरभेदोपचारात् ‘आत्मा वै पुत्रनामासि' ( आश्व. गृ. १.१५.११) इति वचनाच्चेन्द्ररूपेणावस्थितस्य **प्रमरस्य** प्रकर्षेण शत्रूणां मारयितुः **मे** मम स्वभूतौ **एतौ** एतादृशौ **युक्तौ** रथे नियुक्तौ **सु** सुष्ठु पूजितौ **गावौ** शत्रून् यज्ञांश्च प्रति गन्तारौ हरी **मो** **प्र** **सेधीः** । स्तुत्युपसंहारकरणेनास्मद्यज्ञान्मापगमय । किं तर्हि **मुहुरित्** मुहुर्मुहुः **ममन्धि** पुनःपुनः स्तुहि ममात्मन्नित्यर्थः । **आपश्चित्** वृष्टिलक्षणान्युदकान्यपि **अस्य** इन्द्रस्य **अर्थं** गतिं **वि** **नशन्ति** । विनशतिर्व्याप्तिकर्मा । व्याप्नुवन्ति । तथा **सूरश्च** सूर्यश्च व्याप्नोति । कीदृशः । **मर्कः** मार्जयिता सर्वस्य शोधयिता **उपरः** मेघसदृशः **बभूवान्** भवन् । मेघवच्छीघ्रगतिः सन्नित्यर्थः ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -162,29 +162,29 @@ Which advance to... sacrifice: gāvau;
 Yuktau = well worshipped; the waterṣ..cloud: I have beheld Indraas **Prajāpati**, driving the crowd from afar and approaching with his army, self-moving, without chariots
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These two oxen of the Pulverizer [=old age? death?] have been yoked for  me. Do not drive (them) forth; wait just an instant.  
 The waters also come through to the goal of this one, and he has come  into being as the Harmer below the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These my two Bulls, even Pramara's, are harnessed: drive them not far; here let them often linger.  
      The waters even shall aid him to his object, and the all-cleansing Sun who is above us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese beiden Rinder des Todes sind für mich angespannt; treibe sie doch ja nicht an, warte noch ein Weilchen! Auch die Gewässer erreichen sein Ziel, auch hinter der Sonne ist die Vernichtung zurückgeblieben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Diese meine beiden Stiere des Todes sind angeschirrt«; lasse sie nicht vorschreiten, halte schnell inne; die Wasser auch erreichen das Ziel, was er ihnen setzte; auch der Sonne Verfinsterung ist später eingetreten [nachdem sie ihr Ziel erreicht?].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

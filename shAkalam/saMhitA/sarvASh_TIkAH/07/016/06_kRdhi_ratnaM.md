@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृधि꣡ र꣡त्नं य꣡जमानाय सुक्रतो  
 तुवं꣡ हि꣡ रत्नधा꣡ अ꣡सि  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 सुशं꣡सो य꣡श् च द꣡क्षते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । नः॒ । ऋ॒ते । शि॒शी॒हि॒ । विश्व॑म् । ऋ॒त्विज॑म् । सु॒ऽशंसः॑ । यः । च॒ । दक्ष॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
@@ -136,7 +136,7 @@ genre M
 हे **सुक्रतो** शोभनकर्मन्नग्ने **यजमानाय** मह्यं **रत्नं** धनम्। 'श्वात्रं रत्नम्' इति धननामसु पाठात् । **कृधि** कुरु। देहीत्यर्थः। **हि** यस्मात् **त्वं** **रत्नधाः** रत्नस्य दाता **असि** । **नः** अस्माकम् **ऋते** यज्ञे **विश्वं** सर्वम् **ऋत्विजम्** **आ** **शिशीहि** तीक्ष्णीकुरु । किंच **यः** **सुशंसः** सुस्तुतिरस्मत्पुत्रः **दक्षते** वर्धते तं वर्धय । यद्वा । यः सुशंसो होता वर्धते तं वर्धयेत्यर्थः। होतुः पृथगुपादानमादरार्थम् ॥ ॥२१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ genre M
 Suśanso yaśca dakṣate, offering good praise, may indicate either a son or the **hotri**; yo vardhate tam vardhaya,increase him who increases
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Create treasure for the sacrificer, o you of good resolve, for you are the  grantor of treasure.  
 Sharpen us—every priest—upon the truth, and also him who, praising  well, is skillful.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give riches to the sacrificer, O Most Wise, for thou art he who granteth wealth.  
      Inspire with zeal each priest at this our solemn rite; all who are skilled in singing praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schaffe dem Opfernden das Kleinod, du Wohlverständiger, denn du bist der Kleinodbringer. Sporn uns in dem rechten Werke an, jeden Priester, und wer es als Lobredner zu Dank macht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O wirkungsreicher, schaffe Schatz dem Opferer; denn Schatzverleiher bist du ja; Bei unserm Werk beeile jeden Priester du, und wer als Sänger tüchtig ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сотвори сокровище для устроителя жертвы, о (бог) с прекрасной силой духа-  
 Ведь ты даритель сокровищ!  

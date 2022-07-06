@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा शुक्रा꣡ अचुच्यवुः  
 सुता꣡स इन्द्र गिर्वणः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इ꣡न्द्र वि꣡श्वासु ते हित꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पिब॑ । तु । अ॒स्य । अन्ध॑सः । इन्द्र॑ । विश्वा॑सु । ते॒ । हि॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -105,20 +105,20 @@ genre M
 हे **गिर्वणः** गीर्भिर्वननीय हे **इन्द्र** **शुक्राः** ग्रहेषु पात्रेषु च दीप्यमानाः **सुतासः** अस्माभिः अभिषुताः सोमाः **त्वा** त्वाम् **आ** **अचुच्यवुः** आगच्छन्तु । ' च्युङ् प्लुङ् गती'। लङि ‘बहुलं छन्दसि ' इति शपः  श्लुः । ततस्त्वमस्माभिर्दीयमानस्य **अन्धसः** सोमस्य भवदीयं भाग **तु** क्षिप्रं **पिब** । तदेवोपपादयति । हे **इन्द्र** **विश्वासु** सर्वासु दिक्षु **ते** त्वदर्थं सोमपुरोडाशादिहविः **हितं** निहितं भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** worthy of praise, let the bright **Soma**-libations come to you; drink your portion of the Soma; Indra,in all plural ces it is fit for you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The clear pressed (soma drinks) have roused you hither, o Indra who  long for songs.  
 Drink of this stalk, Indra: it has been set for you among all (the clans).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Holland & van Nooten Rig Veda edition restore the sandhi in a (asyā́ndhasa) as asya ándhasa, but asyá should surely be accented, with the Pp., because it modifies ándhasaḥ rather than being used pronominally.
 
@@ -127,23 +127,23 @@ I follow Geldner in supplying vikṣú with the fem. víśvāsu in c, on the bas
 But other nouns are possible: just in nearby hymns víśvāsu is found with samátsu (‘battles’, VIII.90.2), gīṛṣú (‘hymns’, VIII.92.7), and kṛṣṭíṣu (‘communities’, VIII.92.18), and a semantic case could be made for each of these, even the first.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright juices bitherward have sped thee, Indra, Lover of the Song.  
      Drink, Indra, of this flowing sap: in every house 'tis set for thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich haben die geklärten Tränke angezogen, du lobbegehrender Indra. Trink doch von diesem Saft, Indra, der dir bei allen Stämmen vorgesetzt wird!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die lichten Tränke zogen dich, o liederfreuter Indra, her, O Indra, trink von diesem Saft, in allen Häusern harrt er dein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя притянули прозрачные  
 Выжатые соки, о Индра, любящий песни!  

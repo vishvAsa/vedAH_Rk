@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡त् ते शु꣡ष्मासो अस्थू  
 र꣡क्षो भिन्द꣡न्तो अद्रिवः  
 नुद꣡स्व याः꣡ परिस्पृ꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नु॒दस्व॑ । याः । प॒रि॒ऽस्पृधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ut* ← *ud*
 - \[adverb\]
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अद्रिवः** ग्राववन् सोम **ते** तव **शुष्मासः** शुष्मा वेगाः **रक्षः** राक्षसान् **भिन्दन्तः** विदारयन्तः **उत** **अस्थुः** उत्तिष्ठन्ति । **याः** **स्पृधः** स्पर्धमानाः शत्रुसेना अस्मान् प्रतिबाधन्ते तास्त्वं **नुदस्व** प्रेरय । बाधस्वेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,13 +94,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The stones: adrivaḥ = stones used to crush the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your blasts have arisen, splitting the demonic power, you possessor of  the stone.  
 Push aside the challengers all around
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda of this vs. lacks a syllable. It is also identical, save for the last word, the verb, with nearby IX.50.1a út te śúṣmāso īrate (attributed to a different poet, Ucathya Āṅgirasa) -- with the disyllabic asthuḥ here replacing the īrate of IX.50.1 and thus responsible for the metrical truncation. The sense of the two verbs úd īrate and úd asthuḥ are essentially identical: ‘arise/have arisen’. One can speculate that either Avatsāra Kāśyapa, a tricky poet, is calling attention to the opening of his poem by the manipulation and metrical truncation of the unimpeachable phrase found in IX.50.1, or that he wanted an aorist and there is no aor. clearly related to the pres. ī́rte, ī́rate (though of course there are aor. forms to its ultimate root √ṛ). Given the near identity of the two pādas, it might have been better had the published translation rendered śúṣmāsaḥ in the same way in both instances, although the two different tr. work better contextually.
 
@@ -113,23 +113,23 @@ yā́ḥ parispṛ́dhaḥ “(those) who are the challengers all around,” wit
 On parispṛ́dh- see Scarlatta 666.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O THOU with stones for arms, thy powers, crushing the fiends, have raised themselves:  
      Chase thou the foes who compass us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Kräfte sind aufgestiegen, indem sie den Unhold zerspalten, du Herr des Preßsteins. Stoße die Nebenbuhler fort!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhoben hat sich deine Kraft, Gespenster spaltend, Schleuderer; Die uns bekämpfen, stosse fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

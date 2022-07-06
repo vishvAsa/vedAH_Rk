@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां वि꣡श्वाभिर् ऊति꣡भिः  
 प्रिय꣡मेधा अहूषत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡श्विना या꣡महूतिषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 राज॑न्तौ । अ॒ध्व॒राणा॑म् । अश्वि॑ना । याम॑ऽहूतिषु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M
 हे **अश्विना** अश्विनौ **यामहूतिषु** यामानां यातॄणां देवानां हूतिराह्वानं येषु यागेषु तेषु **प्रियमेधाः** प्रिययज्ञा एतत्संज्ञा ऋषयः **अध्वराणां** यज्ञानां **राजन्तौ** ईश्वरौ । राजतिरैश्वर्यकर्मा । 'अश्विनौ हि देवानामध्वर्यू आस्ताम्' (तै. ब्रा. ३. २. २. १ ) इति हि ब्राह्मणम् । ईदृशौ **विश्वाभिः** सर्वाभिः **ऊतिभिः** रक्षाभिः सहितौ **वां** युवाम् **आ** **अहूषत** आह्वयन अस्तुवन्नित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,34 +96,34 @@ genre M
 Religious rites: **Taittirīya** **Brāhmaṇa** 3.2.2.1: aśvins are the ministrant priests,the **adhvaryus**, of the gods, **aśvinau** hi devānām **adhvaryu**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Priyamedhas have called you here with all your forms of help— you who rule over the rites, o Aśvins—(who listen) to their calls on  
 your journey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I supply “who listen” in d on the basis of V.61.15 śrótāro yā́mahūtiṣu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Priyamedhas have invoked you with all succours that are yours,  
      You, Asvins, Lords of solemn rites, with calls entreating you to come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch haben mit all euren Hilfen die Priyamedha´s angerufen, euch Asvin, die ihr über die Opfer gebietet, wenn man euch zur Zeit der Ausfahrt ruft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Prijamedha's haben euch mit allem Labsal angefleht, Die ihr der Opfer Herren seid, o Ritter, bei dem Festgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вас) со всеми вашими подкреплениями  
 Позвали люди из рода Приямедха,  

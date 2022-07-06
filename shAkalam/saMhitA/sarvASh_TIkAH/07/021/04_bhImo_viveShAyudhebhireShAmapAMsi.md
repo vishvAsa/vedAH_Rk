@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भीमो꣡ विवेष आ꣡युधेभिर् एषाम्  
 अ꣡पांसि वि꣡श्वा न꣡रियाणि विद्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ व꣡ज्रहस्तो महिना꣡ जघान
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । पुरः॑ । जर्हृ॑षाणः । वि । दू॒धो॒त् । वि । वज्र॑ऽहस्तः । म॒हि॒ना । ज॒घा॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhīmo* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
@@ -118,20 +118,20 @@ genre M
 **इन्द्रः** **नर्याणि** नरहितानि **विश्वा** विश्वानि **अपांसि** कर्माणि **विद्वान्** जानन् **आयुधेभिः** आयुधैः **भीमः** भयंकरः सन् **एषाम्** । कर्मणि षष्ठी । एतानसुरान् **विवेष** व्याप्तवान् । **पुरः** च तेषां **वि** दूधोत् अकम्पयत् । अपि च **जर्हृषाणः** हृष्यन् **महिना** महिम्ना युक्तः **वज्रहस्तः** सन् तान् **वि** **जघान** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The formidable (**Indra**), knowing all actions beneficial to man, intimidated those (**asuras**) by hisweapons; Indra, exuling shook their cities; armed with his thunderbolt he slew them in his might.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fearsome, with their [=pressing stones’] weapons [=soma drinks] he  toiled at all manly labors, the knowing one.  
 Indra, bristling with excitement, shook apart the fortifications. With  mace in hand, he smashed them apart with his greatness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner supplies a second, accusative, form of ā́yudha- as object of viveṣa and supplies “enemies” as the referent of eṣām ‘of them’, while making the accusative phrase in b the object of vidvā́n ‘knowing’: “Der Fürchtbare hat mit den Waffen ihre (Waffen) abgetan, der aller mannhaften Werke kundig ist.” But there are several reasons to reject this interpretation in addition to the necessity of supplying a significant word. The root √viṣ ‘labor, bring to fulfillment’ does not mean ‘abtun’ (dismiss, brush aside). Moreover it regularly takes ápas- ‘work’, a form of which appears in pāda b, as object; see esp. IV.19.10 ápāṃsi ... náryā́viveṣīḥ. By contrast, the participle vidvā́n is usually used absolutely, without object. As for the referent of eṣām it would of course possible to supply “enemies,” although they are not mentioned previously in the hymn: the only preceding masc. or neut. plurals are the pressing stones (subject of the whole of vs. 2), the “finely made (fortifications)” of 3d, and, in a simile, the charioteers in 3c. Because the pressing stones are extravagantly celebrated in vs. 2 and called Indra’s “companions,” I think it likely that they are the referents here: the soma they produce is their weapon, and this soma fuels Indra’s labors. This is also Caland-Henry’s solution (L’Agniṣṭoma, p. 285 and n.
 
@@ -142,23 +142,23 @@ I supply “fortifications” (púraḥ) from c as the obj. of jaghāna in d. It
 The first word of the verse, bhīmáḥ, picks up the last word of vs. 3, bhīṣā́.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Skilled in all manly deeds the God terrific hath with his weapons mastered these opponents.  
      Indra in rapturous joy shook down their castles he slew them in his might, the Thunder-wielder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Furchtbare hat mit den Waffen ihre Waffen abgetan, der aller mannhaften Werke kundig ist. Indra rüttelte kampferregt an den Burgen. Mit der Keule in der Hand hat er sie machtvoll zerstört.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit ihren Waffen schlug sie da der grause, er, welcher kennt die Mannesthaten alle, Indra voll Muth erschütterte die Burgen, zerschlug mit Macht sie, in der Hand den Blitzstrahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Страшный овладел с помощью оружия их (крепостями),  
 (Он,) сведущий во всех геройских делах.  

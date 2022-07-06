@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡या गा꣡ आक꣡रामहे  
 से꣡नयाग्ने त꣡वोतिया꣡  
 तां꣡ नो हिन्व मघ꣡त्तये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 ताम् । नः॒ । हि॒न्व॒ । म॒घत्त॑ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
@@ -86,37 +86,37 @@ genre M
 हे **अग्ने** **सेनया** इनेन सह वर्तमानया सेनारूपया वा **यया** **तव** **ऊत्या** रक्षया **गाः** **आकरामहे** आभिमुख्येन कुर्महे । लभामह इत्यर्थः। **ताम्** ऊतिं **नः** अस्मान् **हिन्व** गमय । किमर्थम् । **मघत्तये** धनस्य दानार्थम् । अस्माकं धनलाभायेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Send us, **Agni**, for the acquisition of wealth, that army with which we may acquire cattle through yourprotection”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The weapon with which we will make the cows our own by your help,  o Agni,  
 spur that on—to give us bounties.  
 1640 X.157–158
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni the dart whereby we gain kine for ourselves with help from thee,-  
      That send us for the gain of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unsere Heerschar, mit der wir die Rinder heimtreiben, heimbringen, o Agni, durch deine Hilfe, die sporne an, daß wir Gaben geschenkt bekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, send' uns das Geschoss, durch das mit deiner Hülfe wir Uns Heerden schaffen zum Besitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 То войско, с помощью которого мы пригоняем себе  
 Коров, о Агни, при твоей поддержке, –  

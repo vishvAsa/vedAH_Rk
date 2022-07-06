@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वाजनन्त मात꣡रः  
 कविं꣡ देवा꣡सो अङ्गिरः  
 हव्यवा꣡हम् अ꣡मर्तियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 ह॒व्य॒ऽवाह॑म् । अम॑र्त्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -83,41 +83,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **अङ्गिरः** अग्ने **कविं** क्रान्तकर्माणम् **अमर्त्यं** मरणरहितं **हव्यवाहं** हविषां वोढारं **तं** प्रसिद्धं **त्वा** त्वां **देवासः** देवाः **मातरः** इव **अजनन्त** जनयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods, as mothers, have borne you **Aṅgirasa**, the seer, the immortal, the bearer of the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mothers, the gods begot you, the sage poet, o Aṅgiras,  
 as immortal conveyor of the oblation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is not clear who the mothers are and whether they are, with Sāyaṇa, identified with the gods mentioned in pāda b. Renou’s “(tels) des mères” seems to follow this interpr., but in his n. he suggests that the mothers are the waters. The mention of the waters in vs. 14 might support this latter alternative, but given the “three (mothers)” of Agni in the preceding hymn, VIII.101.6, which I take to be the (male) gods Mitra, Varuṇa, and Aryaman (see comm. ad loc.), I am inclined towards Sāyaṇa’s interpr., though it is not clearly reflected in my published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Gods as mothers brought thee forth, the Immortal Sage, O Afigiras,  
      The bearer of our gifts to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich erzeugten die Mütter, den Seher die Götter, o Angiras, den unsterblichen Opferfahrer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So zeugten deine Mütter dich, als weisen, ew'gen Opferer, Die Götter dich, o Angiras.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя такого породили матери,  
 Поэта – боги, о Ангирас,  

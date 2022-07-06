@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वा मरुत्वः परमे꣡ सध꣡स्थे  
 य꣡द् वावमे꣡ वृज꣡ने माद꣡यासे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्वाया꣡ हवि꣡श् चकृमा सत्यराधः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अतः॑ । आ । या॒हि॒ । अ॒ध्व॒रम् । नः॒ । अच्छ॑ । त्वा॒ऽया । ह॒विः । च॒कृ॒म॒ । स॒त्य॒ऽरा॒धः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 हे **मरुत्वः** मरुद्भिर्युक्तेन्द्र **परमे** उत्कृष्टे **सधस्थे** सहस्थाने गृहे **यद्वा** यदि वा **मादयासे** । तृप्तो वर्तसे । **यद्वा** यदि वा **अवमे** अर्वाचीने **वृजने** । वृज्यते रिक्तीक्रियतेऽस्मिन् धनमिति वृजनं गृहम् । तस्मिन् मादयासे । **अतः** अस्मादुभयविधात् स्थानात् **नः** अस्माकं **अध्वरं** यज्ञम् **अच्छ** आभिमुख्येन **आ** **याहि** आगच्छ । हे **सत्यराधः** सत्यधन" **त्वाया** त्वत्कामनया वयं **हविश्चकृम** कृतवन्तः ॥ मरुत्वः । ‘ मतुवसो रुः० ' इति संबुद्धौ नकारस्य रुत्वम् । सधस्थे । ‘ सुपि स्थः' इति कप्रत्ययः । ‘ सध मादस्थयोश्छन्दलि' इति सहस्य सधादेशः । मादयासे । ‘ मद तृप्तियोगे'। चुरादिरात्मनेपदी । लेटि आडागमः । त्वाया । त्वामात्मन इच्छति । ‘ सुप आत्मनः क्यच् ' । ‘ प्रत्ययोत्तरपदयोश्च ' इति मपर्यन्तस्य त्वादेशः । व्यत्ययेन दकारस्य आत्वम् । 'अ प्रत्ययात्' इति अकारप्रत्ययः । सुपां सुलुक्' इति तृतीयाया लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -145,34 +145,34 @@ genre M
 Three luminaries = three fires: sun in heaven, lightning in mid-air, and fire (sacred or domestic) on earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whether you, accompanied by the Maruts, will reach exhilaration in the  furthest seat or in the nearest (ritual) circle,  
 from there journey here to our ceremony: with desire for you we have  made an oblation, o you whose generosity is real.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take mādáyāse only with b and supply the copula with a. The strict parallelism of the two clauses favors taking the verb of b with both, as I do, but the question may be whether Indra can reach exhilaration in heaven or can only do so at a human soma offering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O girt by Maruts, whether thou delight thee in loftiest gathering-place or lowly dwelling,  
      Come thence unto our rite, true boon-best-ower: through love of thee have we prepared oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ob du, Marutbegleiter, am entferntesten Ort bist, ob du bei dem nächsten Opferbund dich ergötzest, komm von dort zu unserem Gottesdienst! Um deinetwillen haben wir das Opfer bereitet, du wahrhaft Freigebiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn mit den Maruts du im höchsten Sitze, wenn du in tiefster Stätte dich berauschest, Von dort komm her zu unserm Opferfeste; wir brauten Trank, Gutschenker, dir zu Liebe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если ты, о сопровождаемый Марутами, в самом отдаленном месте,  
 Или если ты опьяняешься в ближайшей общине,  

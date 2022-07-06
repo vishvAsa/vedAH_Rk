@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡नी꣡द् अ꣡हानि बहुला꣡नि आसन्  
 या꣡ प्राची꣡नम् उ꣡दिता सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡षो ददृक्षे꣡ न꣡ पु꣡नर् यती꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यतः॑ । परि॑ । जा॒रःऽइ॑व । आ॒ऽचर॑न्ती । उषः॑ । द॒दृ॒क्षे । न । पुनः॑ । य॒तीऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tānīd* ← *tāni* ← *tad*
 - \[noun\], nominative, plural, neuter
@@ -130,7 +130,7 @@ genre M
 हे उषः **तानीत्** तान्येव तव तेजांसि **बहुलानि** **अहानि** **आसन्** । उषःप्रकाशयुक्तस्यैव कालस्याहःशब्दव्यवहारात् । तानीत्युक्तं कानीत्याह। **या** यानि **सूर्यस्य** **उदिता** उदितावुदये सति **प्राचीनं** तस्य प्राग्देशं प्रत्युदयन्ति । यद्वा सूर्यस्य प्राचीने देशे या यान्युदितोदितानि तानीत्यर्थः । .. हे **उषः** **यतः** यैश्च तेजोभिः **परि** **ददृक्षे** दृश्यसे त्वम् । **जारइव** पत्याविव **आचरन्ती** समीपे संचरन्ती साध्वी नारीव जारे रात्रेर्जरयितरि सूर्ये संचरन्ती त्वं दृश्यते। यथा लोके दुष्टं भ्रमणशीलमपि पतिमत्यज्यैव साध्वी संचरति तद्वत् तमविमुञ्चती त्वमित्यर्थः। **न** **पुनर्यतीव** यती पतिं परित्यज्येतस्ततः संचरन्ती व्यभिचारिणीव सूर्यमपरित्यजन्ती त्वम् । पुनरित्यर्थं वैलक्षण्यद्योतनार्थः । एवं यैस्तेजोभिर्युक्ता परिदृश्यसे तान्येवाहान्यासन्निति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ genre M
 Like a wife: yathā **pari** jāraivācaranti... na punar yatīvā: as in the world a virtuous woman is not seen abandoning a bad and vagranthusband, nor herself going astray
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those were the days: the many days through which, at the rising of  the sun,  
 you became visible, o Dawn—faring forth thence toward the east-facing  (sacrifice), like (a maiden) faring forth to her lover, not like one going  (home) again.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Despite the straightforward, indeed ballad-like opening (“those were the days …”), the syntax of the rest of this vs. is difficult to entangle. The problem is that there appear to be two subordinating expressions (yā́in b, yátaḥ pári in c), though it is difficult to identify more than one subordinate clause; if there are two subordinate clauses, one of them would have very sketchy clausal structure. Nonetheless, Geldner and Renou opt for the latter solution, supplying a verb in b, both taking yā́as neut. pl. nom. and the subject of this clause (e.g., “Nombreux furent ces jours en vérité qui (surgirent) autrefois …”); for them cd is then a new subordinate cl. marked by yátaḥ pári referring to these same days (e.g., “à la suite desquels …”). Something like this 101 is possible, and in my many fiddlings with this vs. over the years I have more than once hovered over something like it. But the stumbling block is prācī́nam in b, which both Geldner and Renou must take as an adverbial temporal expression (“vorher” and “autrefois” respectively), even though this stem is otherwise only locational ‘forwards / towards the east’, often in a ritual context. I can see no way to integrate the standard use of this stem into a nominal clause consisting only of pāda b. I therefore take bcd as a single subordinate clause with two markers of subordination, yā́(b) a neut. pl. acc. extent of time (“through which …) and yátaḥ pári (c) referring to the place from which Dawn comes, picking up purástāt in 2c. The yā́is more narrowly construed with the finite verb dadṛkṣé in d (“… the days through which you became visible” -- that is, dawned over and over), the yátaḥ pári with the participle ācárantī “faring forth thence [= from the east].” I further take prācī́nam as the goal of that participle (“faring forth … towards the east-facing [sacrifice]”). As I just noted, prācī́na- is often found in a ritual context, modifying yajñá- (VII.7.3) or barhís- (I.188.4, IV.5.4, X.110.4). Either would be possible here, and the point would be that Dawn is hastening from the east towards the sacrifice that, like an expectant lover, is facing towards her. Assuming with most comm., beginning with Sāyaṇa. (see esp. Oldenberg’s argumentation) that we should read loc. jāré, contra Pp. jāráḥ, the acc. prācī́nam in the frame would be the functional equivalent of jāré in the simile -- GOAL -- despite the mismatch of cases, a nice example of case disharmony in a simile (as discussed in my 1982 IIJ article).
 
@@ -166,23 +166,23 @@ As noted in the published introduction, these two vss. are defined as an omphalo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Great is, in truth, the number of the Mornings which were aforetime at the Sun's uprising.  
      Since thou, O Dawn, hast been beheld repairing as to thy love, as one no more to leave him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das waren zahlreiche Tage, die vorher bei Sonnenaufgang anbrachen, seitdem du, Usas, dich gezeigt hast wie eine Frau, die zu ihrem Buhlen kommt, nicht wie eine, die wieder geht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es waren zahlreich diese Tageshellen im Ost erscheinend bei der Sonne Aufgang, Von wo du kamst wie zum Geliebten eilend, o Morgenroth, als gingest du nicht wieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Много было таких дней,  
 Которые (начинались) на востоке на восходе солнца,  

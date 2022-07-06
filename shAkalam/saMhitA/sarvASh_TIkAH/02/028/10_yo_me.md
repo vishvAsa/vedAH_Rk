@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ मे राजन् यु꣡जियो वा स꣡खा वा  
 स्व꣡प्ने भय꣡म् भीर꣡वे म꣡ह्यम् आ꣡ह  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवं꣡ त꣡स्माद् वरुण पाहि अस्मा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्ते॒नः । वा॒ । यः । दिप्स॑ति । नः॒ । वृकः॑ । वा॒ । त्वम् । तस्मा॑त् । व॒रु॒ण॒ । पा॒हि॒ । अ॒स्मान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -141,7 +141,7 @@ genre M
 हेराजन् वरुण मेमदीयोयुज्योयोजनसमर्थः पित्रादिर्वासखासमानख्यानोबान्धवोवा स्वमेदृष्टन्त्व- द्विषयम्भयम्भीरवेभयशीलायमह्यंयआहब्रूते तथास्तेनश्चौरोवावृकोरण्यश्वावा योनोस्मान् दिप्सतिजि- घांसति सनीवन्तर्धेतिविकल्पनादिडभावः दम्भइच्चेतीत्वम् हेवरुण त्वन्तस्मात्सर्वस्मादस्मान्पाहिरक्ष ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,13 +154,13 @@ Mahyam = to me, in the singular (first line);
 Asmam = us, in the plural ral (second line); this hymn is said to remove sin and danger, debt and poverty and counteract bad dreams: idam ekādaśarcam tu varuṇqam bhayapāpanut ṛnadāridryā duḥ svapnanāśanam it śuśruma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If in a dream one who is yoked with me or who is my companion  speaks a frightening thing to me, who become fearful, o king,  
 or if a thief or a wolf tries to deceive us—protect us from (all) that,  Varuṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O King, whoever, be he friend or kinsman, hath threatened me affrighted in my slumber-  
      If any wolf or robber fain would harm us, therefrom, O Varuna, give thou us protection.  
@@ -168,17 +168,17 @@ O King, whoever, be he friend or kinsman, hath threatened me affrighted in my sl
      King, may I never lack well-ordered riches. Loud may we speak, with heroes, in assembly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ein Verbündeter oder Freund im Traume mir dem Furchtsamen Furcht einredet, o König, oder ein Dieb oder Wolf uns nachstellt, so behüte du uns vor dem, o Varuna!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer mir, o König, sei er Freund, Verwandter, dem bangen drohend, Furcht im Schlaf mir einjagt Und will ein Dieb, ein Wolf uns Schaden anthun, o Varuna, vor dem behüte du uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Если) какой мой союзник, о царь, или друг  
 Во сне мне сказал страшное, чтобы испугать,  

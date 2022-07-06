@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ ह भुज्युं꣡ युव꣡म् अश्विना व꣡शं  
 युवं꣡ शिञ्जा꣡रम् उश꣡नाम् उ꣡पारथुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 युवो꣡र् अह꣡म् अ꣡वसा सुम्न꣡म् आ꣡ चके
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒वोः । ररा॑वा । परि॑ । स॒ख्यम् । आ॒स॒ते॒ । यु॒वोः । अ॒हम् । अव॑सा । सु॒म्नम् । आ । च॒के॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
@@ -124,7 +124,7 @@ genre M
 हे **अश्विना** अश्विनौ **युवं** **ह** युवां खलु **भुज्युं** समुद्रमध्ये विपन्न`नावं तुग्रपुत्रं भुज्युम् **उपारथुः** उत्तारयितुमुपगतवन्तौ भवथः । किंच **युवं** युवां **वशं** हस्तिबलेन शत्रुभिः पराजीयमानं वशनामधेयं राजानं रक्षणाय उपारथुः । किंच **युवं** युवां **शिञ्जारम्** अत्रिमग्निकूटादुत्तारयितुम् **उशनां** कमनीयां स्तुतिं च श्रोतुमुपारथुः । तथा च मन्त्रान्तरम्---’अत्रिं शिञ्जारमश्विना ' (ऋ . सं. ८..५. २५) इति । किंच **युवोः** युवयोः **सख्यं** मित्रत्वं **ररावा** हविषां प्रदाता यजमानः **परि** आसते पर्यास्ते । वचनव्यत्ययः । किं च **युवोः** युवयोः **अवसा** रक्षणेन  **अहं**  घोषा **सुम्नं** सुखम् **आ** **चके** कामये ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 Śiñjāra: cf. RV 8.5.25; Śiñjāra was an **Atri**; Aśvins came to rescue him from a fire-pit
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “You two came to Bhujyu, o Aśvins, you to Vaśa, you to Śiñjāra,  to Uśanā.  
 The hostile man will circumvent your comradeship, but I find pleasure  in your benevolence along with your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Bhujyu and to Vasa ye come near with help, O Asvins, to Sinjara and to Usana.  
      Your worshipper secures your friendship for himself. Through your protection I desire felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Asvin seid ja dem Bhujyu beigesprungen, ihr dem Vasa, ihr dem Sinjara, dem Usanas. Der Geizige soll eure Freundschaft verpassen; durch eure Gnade bitte ich mir eine Gunst aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Hülfe kamt dem Bhudschju und dem Vaça ihr, o Ritter, dem Çingara und dem Uçana Um eure Freundschaft werbe nun der Spendende; durch Opferlabung strebe ich nach eurer Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это вы к Бхуджью, вы, о Ашвины, к Ваше,  
 Вы бросаетесь к Шинджаре, к Ушанасу.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुत꣡ इ꣡न्द्राय वाय꣡वे  
 व꣡रुणाय मरु꣡द्भियः  
 सो꣡मो अर्षति वि꣡ष्णवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमः॑ । अ॒र्ष॒ति॒ । विष्ण॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suta* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
@@ -74,41 +74,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयं **सुतः** अभिषुतः **सोमः** इन्द्राद्यर्थम् अर्षति गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** effused proceeds to **Indra**, to **Vāyu**, to **Varuṇa**, to **Maruts**, to **Viṣṇu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pressed for Indra and Vāyu, for Varuṇa and the Maruts,  
 for Viṣṇu, the soma rushes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this vs. is almost identical to IX.33.3; the only difference is that the soma is plural (sutā́ḥ … sómāḥ) in 33.3 and sg. (sutáḥ … sómaḥ) here, which also necessitates a sg. verb (arṣati for the pl. arṣanti in 33.3).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Poured forth to Indra, Varuna, to Vayu and the Marut hosts,  
      To Visnu, flows the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Indra, Vayu, Varuna, für die Marut ausgepreßt, für Vishnu rinnt der Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma rinnt dahin, gepresst dem Indra, Vaju, Varuna, Dem Vischnu und der Marutschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый для Индры, для Ваю,  
 Для Варуны, для Марутов,  

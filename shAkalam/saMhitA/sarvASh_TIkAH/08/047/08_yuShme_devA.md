@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युष्मे꣡ देवा अ꣡पि ष्मसि  
 यु꣡ध्यन्त इव व꣡र्मसु  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M;; repeated line
 यू॒यम् । म॒हः । नः॒ । एन॑सः । यू॒यम् । अर्भा॑त् । उ॒रु॒ष्य॒त॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuṣme* ← *tvad*
 - \[noun\], dative, plural
@@ -133,37 +133,37 @@ genre M;; repeated line
 हे देवाः आदित्याः **युष्मे** युष्मासु वयम् अपि **स्मसि** अपि भवेम । युष्माभिरपिहिताः स्मेत्यर्थः । तत्र दृष्टान्तः । **युध्यन्तः** शूराः **वर्मसु** कवचेषु यथा भवन्ति तद्वत् । **यूयं** **नः** अस्मान् **महः** महतः **एनसः** पापात् **उरुष्यत** रक्षत । तथा **यूयम्** अस्मान् **अर्भात्** अल्पादप्येनसः उरुष्यत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Deities, may we abide in you as warriors in their armour; do you defend us from great evil, do youdefend us from litt;e your aids are void of harm, your aids are true aids.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We abide in you, o gods, like fighters in armor.  
 You—deliver us from a great offense; you—from a small one.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Resting in you, O Gods, we are like men who fight in coats of mail.  
      Ye guard us from each great offence, ye guard us from each lighter fault.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei euch, ihr Götter, finden wir Zuflucht wie die Kämpfer in den Panzern. Ihr machet uns von großer, ihr von kleiner Schuld frei. - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch, Götter, sind wir angeschmiegt, wie an den Panzer Kämpfende; Behütet ihr vor grosser Schuld und auch vor kleinem Fehltritt uns; ganz unvergleichlich ist eur Schutz und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К вам, о боги, мы приникаем,  
 Как сражающиеся – к панцирям.  

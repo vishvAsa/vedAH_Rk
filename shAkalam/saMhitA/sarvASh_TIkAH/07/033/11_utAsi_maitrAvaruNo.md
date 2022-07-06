@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उता꣡सि मैत्रावरुणो꣡ वसिष्ठ  
 उर्व꣡श्या ब्रह्मन् म꣡नसो꣡ ऽधि जातः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे देवाः꣡ पु꣡ष्करे त्वाददन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 द्र॒प्सम् । स्क॒न्नम् । ब्रह्म॑णा । दैव्ये॑न । विश्वे॑ । दे॒वाः । पुष्क॑रे । त्वा॒ । अ॒द॒द॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *utāsi* ← *uta*
 - \[adverb\]
@@ -123,7 +123,7 @@ popular
 **उत** अपि च हे **वसिष्ठ** **मैत्रावरुणः** मित्रावरुणयोः पुत्रः **असि** । हे **ब्रह्मन्** वसिष्ठ **उर्वश्याः** अप्सरसः **मनसः** ममायं पुत्रः स्यादितीदृशात् संकल्पात् **द्रप्सं** रेतः मित्रावरुणयोरुर्वशीदर्शनात् **स्कन्नम्** आसीत् । तस्मात् **अधि** **जातः** असि । तथा च वक्ष्यते ‘सत्रे ह जातौ' इत्यृचि । एवं जातं **त्वा** त्वां **दैव्येन** देवसंबन्धिना **ब्रह्मणा** वेदराशिना अहं भुवा युक्तं पुष्करे **विश्वे** **देवाः** **अददन्त** अधारयन्त। तथा च अदितेर्मित्रावरुणौ जज्ञाते इति प्रकृत्य पठ्यते-’ तयोरादित्ययोः सत्रे दृष्ट्वाप्सरसमुर्वशीम् । रेतश्चस्कन्द तत्कुम्भे न्यपतद्वासतीवरे ॥ तेनैव तु मुहूर्तेन वीर्यवन्तौ तपस्विनौ । अगस्त्यश्च वसिष्ठश्च तत्र संबभूवतुः ॥ बहुधा पतितं रेतः कलशे च जले स्थले । स्थले वसिष्ठस्तु मुनिः संभूत ऋषिसत्तमः ॥ कुम्भे त्वगस्त्यः संभूतो जले मत्स्यो महाद्युतिः । उदियाय ततोऽगस्त्यः शम्यामात्रो महातपाः ॥ मानेन संमितो यस्मात्तस्मान्मान्य इहोच्यते । यद्वा कुम्भादृषिजातः कुम्भेनापि हि मीयते ॥ कुम्भ इत्यभिधानं च परिमाणस्य लक्ष्यते। ततोऽप्सु गृह्यमाणासु वसिष्ठः पुष्करे स्थितः ॥ सर्वतः पुष्करे तं हि विश्वे देवा अधारयन् ।' ( बृहद्दे. ५. १४९-१५५) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ Born ofthe will of Urvaśī: Urvaśī, on seeing the birth of the Ṛṣi, said 
 **Puṣkara** = **kumbha**, pitcher used at sacrifice, or the vasatīvara, the pool ofwater prepared for the same. Vasiṣṭha was born when the vessel, puṣkara, was over-filled and some contentsfell upon the earth. **Agastya** was born of the contents in the vessel; the overflowing fluid being collected together,Vasiṣṭha remained in the lake, tato apsu gṛhyamāṇāsu vasiṣṭhāḥ puṣkare **sthitaḥ**; Puṣkara is also thename of a lake in **Ajmer**; **Padma Purāṇa** cites it as the hermitage of Agastya (**Sṛṣṭi** **khaṇḍa**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you are the descendant of Mitra and Varuṇa, o Vasiṣṭha, born  from Urvaśī, from her mind, you formulator.  
 A drop (of semen?) spurted forth: with a heavenly formulation all the  gods took you in a lotus.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pub. tr. reads “born from her mind,” but given the uncertainties of this birth story, the mind need not be Urvaśī’s, but someone else’s, or even pure mind. So it might be better rendered as “born from mind.” On the semen (if that’s what the drop is) and the lotus, see disc. ad vss. 10-13.
 
@@ -163,23 +163,23 @@ Oldenberg is uncertain about the details; I am even more uncertain.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born of their love for Urvasi, Vasistha thou, priest, art son of Varuna and Mitra;  
      And as a fallen drop, in heavenly fervour, all the Gods laid thee on a lotus-blossorn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und du, Vasistha, bist der Sohn von Mitra und Varuna, von der Urvasi aus dem bloßen Gedanken geboren, o Hoherpriester. Dich, den verspritzten Tropfen fingen unter göttlichem Zauberspruch alle Götter in der Lotusblüte auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du stammst von Mitra -Varuna, o Vasischtha, erzeugt, o Beter, durch des Geistes Begierde; dich, den Tropfen, der durch das an die Götter gerichtete Gebet herabfiel, setzten alle Götter in die Opferschale.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И ты, о Васиштха, происходишь от Митры-Варуны,  
 (И) рожден из мысли Урваши, о брахман.  

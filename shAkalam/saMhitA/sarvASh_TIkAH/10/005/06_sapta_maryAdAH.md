@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्त꣡ मर्या꣡दाः कव꣡यस् ततक्षुस्  
 ता꣡साम् ए꣡काम् इ꣡द् अभि꣡ अंहुरो꣡ गात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पथां꣡ विसर्गे꣡ धरु꣡णेषु तस्थौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒योः । ह॒ । स्क॒म्भः । उ॒प॒ऽमस्य॑ । नी॒ळे । प॒थाम् । वि॒ऽस॒र्गे । ध॒रुणे॑षु । त॒स्थौ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sapta* ← *saptan*
 - \[noun\], accusative, plural, feminine
@@ -123,7 +123,7 @@ genre M
 **कवयः** मेधाविन ऋषयः **सप्त** **मर्यादाः** । कामजेभ्यः क्रोधजेभ्यश्चोद्धृताः पानमक्षाः स्त्रियो मृगया दण्डः पारुष्यमन्यदूषणमिति सप्त मर्यादाः । यद्वा । स्तेयं गुरुतल्पारोहणं ब्रह्महत्यां सुरापानं दुरुकृतकर्मणः पुनःपुनः सेवां पातकेऽनृतोद्यम्' (निरु. ६. २७) इति निरुक्ते निर्दिष्टाः सप्त मर्यादाः । अवस्थिताः **ततक्षुः** । तक्षतिः करोतिकर्मा । सुष्ठु लङ्घनीयाश्चक्रुः । त्यक्तवन्त इत्यर्थः । **तासां** मर्यादानाम् **एकामित्** एकामेव अंहुरः पापवान् पुरुषः **अभि** **गात्** अभिगच्छति । यस्त्वेवं करोति स पापवान् भवतीत्यर्थः । किंच **आयोः** तस्य मनुष्यस्य **स्कम्भः** स्कम्भयिता निरोधकोऽग्निः **उपमस्य** समीपभूतस्यायोः **नीळे** स्थाने **पथाम्** आदित्यरूपस्य स्वस्य रश्मीनां **विसर्गे** विसर्जनस्थानेऽन्तरिक्षमध्ये वर्तमानेषु **धरुणेषु** उदकेषु **तस्थौ** विद्युदात्मना तिष्ठति । अनेन लोकत्रयवर्तित्वमिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 **Manu** 7.50-51: the passage implies the presence of **Agni** in the threeworlds, as fire on earth, the sun in the sky, and lightning in the firmament. THe support of life is in the dwelling ofthe most high; it stands on the firm ground at the plural ce where the paths divide
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sage poets have fashioned seven boundaries. To just one of these has  the narrow one gone.  
 The pillar stands on its foundations in the nest of the highest Āyu where  the paths give out.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seven are the pathways which the wise have fashioned; to one of these may come the troubled mortal.  
      He standeth in the dwelling of the Highest, a Pillar, on sure ground where paths are parted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sieben Schranken haben die Seher geschaffen; zu einer von diesen gelangt der Eingeengte. Die Säule des Ayu steht im Nest des Höchsten, an der Wege Ende auf festen Grundlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Seher machten sieben feste Zeichen, von denen eins erreicht hat der bedrängte; Des Gottes Stütze stand im Sitz des höchsten, auf festem Grund im Ausgangspunkt der Pfade.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Семь границ застолбили поэты.  
 Лишь к одной из них приближается угнетенный.  

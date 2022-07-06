@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मइ꣡ बहूना꣡म् अवमा꣡य स꣡ख्ये  
 यज्ञइ꣡र् विधेम न꣡मसा हवि꣡र्भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡धामि अ꣡न्नैः प꣡रि वन्द ऋग्भिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम् । सानु॑ । मार्ज्मि॑ । दिधि॑षामि । बिल्मैः॑ । दधा॑मि । अन्नैः॑ । परि॑ । व॒न्दे॒ । ऋ॒क्ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -113,7 +113,7 @@ genre M
 अमैपुरोवर्तिनेबहूनान्देवानामवमायाद्यायसख्येअस्माभिः समानाख्यानायापान्नपातेयज्ञैर्यागसा- धनैर्हविर्भिः चरुपुरोडाशादिभिः नमसानमस्कारेणच विधेमपरिचरेम अस्यापान्नपातः सानुसमु च्छ्रितप्रदेशंसम्मार्ज्मि सम्यक् शोधयामि अलङ्करोमिवा मृजूशौचालङ्कारयोः चादिलोपेविभाषे त्यस्यनिघातप्रतिषेधः दिधिषामिधारयामिच बिल्मैर्भासनैः काष्ठैरेनं धिषशब्दे अयन्धारणार्थोपि जुहोत्यदित्वात् शपःश्लुः मिपोव्यत्ययेनाडागमः अभ्यस्तानामादिरित्याद्युदात्तत्वम् दधामिधार यामिचैनङ्गार्हपत्यादिरूपेण अन्नैर्हविर्लक्षणैः तथाऋग्भिः मन्त्रैः परिवन्दे परितःस्तौमि ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,35 +124,35 @@ genre M
 The first of many: bahūnām avamāya, the best of many, i.e. of the gods, as in the **Aitareya** **Brāhmaṇa**: agnir vai devānām avamaḥ, i.e. devānām, madhye **prathamaḥ**, the first amongst the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To him, the closest comrade of many, we would do honor with  
 sacrifices, with reverence, with oblations.  
 I groom his back; I seek to provide (him) with wood-shavings. I provide  (him) with food; I extol (him) with verses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, nearest Friend of many, will we worship with sacrifice. and reverence and oblation.  
      I make his back to shine, with chips provide him; t offer food and with my songs exalt him.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Then him the nearest friend of many mortals We serve with sacrifices, gifts, obeisance. I make his back to shine, with shavings feed him; I nourish him with food, with stanzas laud him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm als dem untersten nächsten Freunde der vielen wollen wir mit Anbetung, mit Verbeugung, mit Opferspenden aufwarten. Ich reibe den Rücken der Feuerstätte, suche ihn mit Spänen aufzufangen, versehe ihn mit Nahrung, schmeichle ihm mit Versen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wollen ihm dem liebsten unter vielen mit Opfern huld'gen, demuthsvoll mit Tränken;[46] Den Gipfel schmück' ich, rüst ihn aus mit Spänen, beschenk mit Speisen, ehre ihn mit Liedern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого самого близкого друга из многих  
 Мы хотим почтить жертвами, поклонением, возлияниями.  

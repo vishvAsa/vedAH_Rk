@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ गव्यता꣡ म꣡नसा दृध्र꣡म् उब्धं꣡  
 गा᳐꣡ येमान꣡म् प꣡रि ष꣡न्तम् अ꣡द्रिम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व्रजं꣡ गो꣡मन्तम् उशि꣡जो वि꣡ वव्रुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दृ॒ळ्हम् । नरः॑ । वच॑सा । दैव्ये॑न । व्र॒जम् । गोऽम॑न्तम् । उ॒शिजः॑ । वि । व॒व्रुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -122,20 +122,20 @@ genre M
 **नरः** कर्मणां नेतारः **उशिजः** अग्निं कामयमानाः **ते** अङ्गिरसः **गव्यता** गा इच्छता **मनसा** **रध्रं** गवां निर्गमनद्वारनिरोधकम् **उब्धं** समुब्धं संहतम् । यद्वा । उभिः पूरणार्थः । गोभिः पूर्णं **गा** **येमानं** नियच्छंन्तं **परि** सर्वतः **सन्तम्** वर्तमानं **दृळ्हं** दृढं **गोमन्तं** गोभिर्युक्तं **व्रजं** गवां निवासस्थानम् **अद्रिं** पर्वतं **दैव्येन** अग्निविषयेण **वचसा** वेदात्मकेन स्तोत्रेण **वि** **वव्रुः** गोनिर्गमनार्थमुद्घाटितवन्तः ॥ उब्धम् । उभ्नातिर्हन्तिना समानार्थः। यद्वा ।  ‘ उभ उम्भ पूरणे' । कर्मणि क्तः । येमानम् । यमेः कानचि एत्वाभ्यासलोपौ । चित्त्वादन्तोदात्तः । परि षन्तम् इत्यत्र संहितायाम्  ‘ उपसर्गप्रादुर्भ्यामस्तिर्यच्परः' इति षत्वम् ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Devoted to (**Agni**), those leaders (of sacred rites), with minds intent upon (recovering) the cattle, forced open, by (the power) of divine prayer, the obstructing, compact, solid mountain confining the cows, a cow-pen full of kine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with their mind set on cattle (opened up) the solid, knotted-up,  enclosing stone that held the cows.  
 The firmly fixed pen full of cows did the men, the fire-priests, open up  with divine speech.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax dṛdhrá- is plausibly explained by Hoffmann (reported in EWA s.v.) as a crossing of a redupl. nominal*dadhrá- (√dhṛ) and the ppl. dṛḍha (√dṛh), the latter found in the second hemistich (15c).
 
@@ -150,28 +150,28 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eager, with thought intent upon the booty, the men with their celestial speech threw open,  
      The solid mountain firm, compact, enclosing, confining Cows, the stable full of cattle.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Longing for the cows in their mind, those men, the Usigs 1, have opened with godly words the fast-holding, closed rock, which enclosed and encompassed the cows, the firm stable full of cows.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Herz voll Verlangen nach Kühen haben die Männer, die Usij, den festen, zugesperrten Fels, der die Rinder festhielt und umschloß, den gefestigten Rinderpferch mit göttlichem Wort erschlossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie thaten auf mit beutelust'gem Sinne den Fels, der fest die Kühe hielt umschlossen, Den dicht umhegten, festen Stall der Kühe die Männer eifrig durch den Spruch der Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С мыслью, жаждущей коров, твердую  
 Запертую скалу, удерживавшую (и) замыкавшую коров, -  

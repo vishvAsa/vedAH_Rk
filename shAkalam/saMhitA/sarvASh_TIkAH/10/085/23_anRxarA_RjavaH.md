@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनृक्षरा꣡ ऋज꣡वः सन्तु प꣡न्था  
 ये꣡भिः स꣡खायो य꣡न्ति नो वरेय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ जास्पत्यं꣡ सुय꣡मम् अस्तु देवाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सम् । अ॒र्य॒मा । सम् । भगः॑ । नः॒ । नि॒नी॒या॒त् । सम् । जाः॒ऽप॒त्यम् । सु॒ऽयम॑म् । अ॒स्तु॒ । दे॒वाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anṛkṣarā* ← *anṛkṣarāḥ* ← *anṛkṣara*
 - \[noun\], nominative, plural, masculine
@@ -123,37 +123,37 @@ popular
 हे देवाः **पन्थाः** पन्थानो मार्गाः अनृक्षराः । ऋक्षरः कण्टक उच्यते । कण्टकरहिताः **ऋजवः** अकुटिलाश्च **सन्तु** **येभिः** यैः पथिभिः **नः** अस्माकं **सखायः** वरप्रेषिताः **वरेयं** वरैर्याचितव्यं पितरं प्रति **यन्ति** गच्छन्ति ते पन्था इति । किंच **अर्यमा** देवः **नः** अस्मान् **सं** **निनीयात्** सम्यक् प्रापयेत् । तथा भगः देवः **सं** निनीयात् । हे **देवाः** आसंगतमस्तु पतिकुलमिति शेषः । तथेदं **जास्पत्यं** जायापत्योर्युगलं **सुयममस्तु** सुमिथुनमस्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Smooth and straight be the paths by which our friends repair to the bride's father; may **Aryaman**, mayBhaga conduct us, and may the union of the wife and husband be easily accomplished, O gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the paths be straight and harmless to men, by which the comrades  go to the wooing.  
 Aryaman and Bhaga should lead us all together. Let the united  
 household be easy to hold fast, o gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Straight in direction be the path:s, and thornless, whereon our fellows travel to the wooing.  
      Let Aryaman and Bhaga lead us: perfect, O Gods, the union of the wife and husband.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dornenlos, richtig sollen die Wege sein, auf denen unsere Freunde auf die Werbung ausziehen. Aryaman und Bhaga sollen uns zusammenführen. Gemeinsam soll uns ein leicht zu führendes Hausregiment sein, o Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dornenlos und gerade seien die Pfade, auf denen unsere Freunde zur Vermählung gehen; Arjaman und Bhaga möge uns insgesammt leiten, leicht zu verwalten sei der Hausstand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будут прямыми (и) без шипов пути,  
 По которым друзья едут на нашу помолвку!  

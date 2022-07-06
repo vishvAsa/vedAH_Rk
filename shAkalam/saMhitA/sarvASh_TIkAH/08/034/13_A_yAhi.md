@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि प꣡र्वतेभियः  
 समुद्र꣡स्या꣡धि विष्ट꣡पः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं यय꣡ दिवावसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दि॒वः । अ॒मुष्य॑ । शास॑तः । दिव॑म् । य॒य । दि॒वा॒व॒सो॒ इति॑ दिवाऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -91,36 +91,36 @@ genre M;; repeated line
 हे इन्द्र त्वं **पर्वतेभ्यः** **आ** **याहि** आगच्छ । **समुद्रस्य** अन्तरिक्षस्य **विष्टपः** विष्टपाच्च **अधि** आयाहीत्यर्थः । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come from the mountains, from above the region of the firmament; do you, ruling yonder heaven, Oradiant with oblations, return here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here—drive here from the mountains, from the surface of  
 the sea,  
 o you who bring goods by day—(though) you (other gods), who impose  order over yonder heaven, have driven off to heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither from the mountains, come from regions of the sea of air.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm von den Bergen, von der Höhe des Meeres her! - Über jenen Himmel herrschend seid ihr ja in den Himmel gegangen, o Divavasu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O komme von den Bergen her und von des Meeres weitem Raum; Von jenes Herrschers Himmel kamt ihr zu dem Feste tageshell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай с гор,  
 С высокой поверхности моря!  

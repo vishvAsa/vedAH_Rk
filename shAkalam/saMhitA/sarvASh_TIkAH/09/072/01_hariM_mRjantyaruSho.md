@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡रिम् मृजन्ति अरुषो꣡ न꣡ युज्यते  
 सं꣡ धेनु꣡भिः कल꣡शे सो꣡मो अज्यते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुरुष्टुत꣡स्य क꣡ति चित् परिप्रि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उत् । वाच॑म् । ई॒रय॑ति । हि॒न्वते॑ । म॒ती । पु॒रु॒ऽस्तु॒तस्य॑ । कति॑ । चि॒त् । प॒रि॒ऽप्रियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *harim* ← *hari*
 - \[noun\], accusative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 **हरिं** हरितवर्णं सोममृत्विजो **मृजन्ति** मार्जयन्ति । ‘मृजेरजादौ संक्रमे विभाषा वृद्धिरिष्यते' (पा. म. १.१.३.१०, का. १.१.५ ) इति तत्र वृद्धेरभावः । सोऽयम् **अरुषः** । अर्तेरुषच्प्रत्ययः ॥ गमनशीलोऽश्व इव **युज्यते** इन्द्रादिभिः संयुज्यते । किंच **कलश** द्रोणाभिधाने स्थितः **सोमः** **धेनुभिः** गोविकारैः दध्यादिभिः **सम्** **अज्यते** समक्तः सिक्तो भवति । अपि च सोमो यदा **वाचं** शब्दम् **उत्** **ईरयति** उद्गमयति । शब्दं करोतीत्यर्थः । तदा स्तोतारश्च **मती** । ‘ सुपां सुलुक्' इति द्वितीयायाः पूर्वसवर्णदीर्घः । स्तुतिं **हिन्वते** प्रेरयन्ति । ‘हि गतौ वृद्धौ च' इति स्वादिः आत्मनेपदी । ततः स्तोत्राभिष्टुतः सः **पुरुष्टुतस्य** बहुस्तोत्रयुक्तस्य स्तोतुः **परिप्रियः** । ‘ प्रीङ् तर्पणे'। क्विप् । शसि इयङादेशः । कृदुत्तरपदप्रकृतिस्वरत्वम् । परितः प्रीणयितॄणि कति चित् **क्रियन्ति** धनानि प्रयच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,37 +134,37 @@ genre M
 Abundantly delighting: paripriyaḥ = paritaḥ prīṇayitṛṇi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They groom the tawny one [/fallow bay]; like a chestnut he is yoked.  Soma is anointed with milk-cows in the tub.  
 When he raises his voice, the circle of friends of the one praised by  
 many—however many they are—speed him on with their thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The accent on īráyati and its juxtaposition with another finite verb, hinváte, marks the former as implicitly subordinate.
 
 On the hapax pariprī́- see Scarlatta 337-38.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THEY cleanse the Gold-hued: like a red Steed is he yoked, and Soma in the jar is mingled with the milk.  
      He sendeth out his voice, and many loving friends of him the highly lauded hasten with their songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie putzen den Falben; wie ein rötliches Roß wird er geschirrt. In dem Kruge wird Soma mit den Milchkühen zusammengegeben. Während er die Rede hervortreibt, spornen sie ihn durch die Dichtung an, des Vielgepriesenen gute Freunde, so viele ihrer sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gestriegelt wird der goldne, wie ein Ross geschirrt, mit Milch wird Soma in dem Trinkgefäss gesalbt; Wenn er die Stimm' erhebt, so eilen mit Gebet des vielgelobten Freunde allesammt heran.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они начищают золотистого. Его запрягают (как) рыжего (жеребца).  
 Сома в кувшине умащается коровьим молоком.  

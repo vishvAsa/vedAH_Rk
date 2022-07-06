@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विषूवृ꣡द् इ꣡न्द्रो अ꣡मतेर् उत꣡ क्षुधः꣡  
 स꣡ इ꣡द् रायो꣡ मघ꣡वा व꣡स्व ईशते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 व꣡यो वर्धन्ति वृषभ꣡स्य शुष्मि꣡णः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । इत् । इ॒मे । प्र॒व॒णे । स॒प्त । सिन्ध॑वः । वयः॑ । व॒र्ध॒न्ति॒ । वृ॒ष॒भस्य॑ । शु॒ष्मिणः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viṣūvṛd* ← *viṣūvṛt*
 - \[noun\], nominative, singular, masculine
@@ -131,7 +131,7 @@ genre M
 **इन्द्रः** **अमतेः** अस्माकं दुर्बुद्धेः प्रज्ञापहारिण्याः पिपासाया वा **विषूवृत्** विष्वग्वर्तको भवतु। **उत** अपि च **क्षुधः** बुभुक्षाया विषूवृत् भवतु । किंच **सः** **इत्** स एव **मघवा** धनवानिन्द्रः **वस्वः** वासयितुः **रायः** धनस्य **ईशते** ईष्टे । किंच **वृषभस्य** वर्षितुः **तस्येत्** इन्द्रस्यैव **इमे** प्रसिद्धाः **सप्त** सप्तसंख्याकाः **सिन्धवः** नद्यः **प्रवणे** देशे **वयः** अन्नं **वर्धन्ति** वर्धयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,30 +142,30 @@ genre M
 Remover of thirst andhunger: amati = ignorance; or, thirst taking away the understanidng; precious riches: vasvaḥ = riches whichcover us with clothes
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, warding off from diverse directions neglect and hunger—just he,  as bounteous one, will be master of wealth and goods.  
 Just his vitality do these seven rivers, in their torrent, increase—the  
 vitality of the tempestuous bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From indigence and hunger Indra turns away: Maghavan hath dominion over precious wealth.  
      These the Seven Rivers flowing on their downward path increase the vital vigour of the potent Steer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra ist Abwender der Verzweiflung und des Hungers. Nur er, der Gabenreiche, soll über Reichtum und Gut verfügen. Diese sieben Ströme in ihrem Gefälle stärken die Kraft dieses ungestümen Bullen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, Indra ist's, der Durst und Hunger ferne hält, der mächtige Gebieter über Geld und Gut, Und seine Kraft, des starken Stieres, steigern hier die sieben Ströme rinnend hier in jähem Sturz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра рассеивает нужду и голод,  
 Только он, щедрый, властвует над богатством (и) добром.  

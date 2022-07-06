@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡र् आ꣡ दिवः꣡ सवितर् वा꣡रियाणि  
 दिवे꣡-दिव आ꣡ सुव त्रि꣡र् नो अ꣡ह्नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡ग त्रातर् धिषणे सात꣡ये धाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्रि॒ऽधातु॑ । रा॒यः । आ । सु॒व॒ । वसू॑नि । भग॑ । त्रा॒तः॒ । धि॒ष॒णे॒ । सा॒तये॑ । धाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trir* ← *tris*
 - \[adverb\]
@@ -141,7 +141,7 @@ genre M
 **सवितः** सर्वस्य प्रेरक हे आदित्य **दिवः** द्युलोकादागत्य त्वं **वार्याणि** सर्वैः संभजनीयानि धनानि **दिवेदिवे** प्रतिदिनं **त्रिः** **आ** **सुव** त्रिवारमस्मभ्यं प्रेरय प्रयच्छेत्यर्थः । तदेवोच्यते । **भग** सर्वैर्भजनीय **त्रातः** अस्माकं रक्षक हे आदित्य **त्रिधातु** त्रिधातूनि पशुकनकरत्नभेदेन त्रिप्रकाराणि **वसूनि** धनानि **रायः** । रान्ति क्षीरादीनीति रायो गोधनानि । तानि च **नः** अस्मभ्यम् **अह्नः** संबन्धिषु **त्रिः** त्रिषु सवनेषु **आ** **सुव** प्रयच्छ । **धिषणे** माध्यमिके हे वाक् **सातये** धनलाभाय **धाः** अस्मान् कुरु ॥ त्रिः। द्वित्रिचतुर्भ्यः सुच् ' ( पा. सू. ५. ४. १८) इति सुच् । चित्स्वरः । सुव ।' षू प्रेरणे '। तुदादिः । लोटि रूपम् । त्रिधातु ।' डुधाञ् धारणपोषणयोः । इत्यस्मात् ' सितनिगमिमसि' इत्यादिना तुन्प्रत्ययः । धिषणे । आमन्त्रितत्वात् निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,34 +154,34 @@ Riches of three elements: tridhātu **rāyas**, cattle, gold and gems;
 Dhiṣaṇa = the goddess of speech
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three times a day, every day, o Savitar, impel valuables to us, three  times daily.  
 Threefold riches and goods impel here. O Bhaga, o Protector, o Holy  Place, position (them) for winning.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The emphasis on the day here is striking. Two different ‘day’ words get used: #trír ā́divaḥ …, divé-dive … trír no áhnaḥ#, with the two parallel expressions polarized at the beg. and end of the hemistich. For another poss. passage with both words, cf. IX.86.19 and comm. thereon, where the possible semantic difference between the two words is explored.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou, O Savitar, from heaven thrice hither, three times a day, send down thy blessings daily.  
      Send us, O Bhaga, triple wealth and treasure; cause the two worlds to prosper us, Preserver!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreimal des Tages weise uns, o Savitri, wünschenswerte Dinge zu, Tag für Tag dreimal am Tage! Weise uns dreifach Reichtümer, Güter zu; o Bhaga, Schützer, o Dhisana, verhilf zum Gewinn!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dreimal des Tags, o Savitar, verschaffe uns täglich Schätze, dreimal, wenn es Tag ist, Dreifachen Schatz verschaff, und Güter lass uns, o Bhaga, Tratar, Dhischana erlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды в день, о Савитар, избранные дары  
 Пробуждай для нас – день за днем, три раза в день!  

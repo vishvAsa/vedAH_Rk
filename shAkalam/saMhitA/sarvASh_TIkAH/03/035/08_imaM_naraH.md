@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ न꣡रः प꣡र्वतास् तु꣡भ्यम् आ꣡पः  
 स꣡म् इन्द्र गो꣡भिर् म꣡धुमन्तम् अक्रन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रजान꣡न् विद्वा꣡न् पथि꣡या अ꣡नु स्वाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । आ॒ऽगत्य॑ । सु॒ऽमनाः॑ । ऋ॒ष्व॒ । पा॒हि॒ । प्र॒ऽजा॒नन् । वि॒द्वान् । प॒थ्याः॑ । अनु॑ । स्वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -136,7 +136,7 @@ genre M
 हे इन्द्र नरः कर्मणां नेतारोऽध्वय्वादयः पर्वता ग्रावाण आपश्चैते सर्व सम्भूय तुभ्यं त्वदर्थमिमं सोमं गोभिः पयोभिर्मधुमन्तं माधुर्योपेतं समक्रन् । सम्यगकार्षुः । ऋष्व दर्शनीय हे इन्द्र सुमन्सः शोभनमनस्को विद्वान्कर्माभिज्ञः स्वाः स्वकीयाः पथ्या वैदिके पथि कर्मणि साधुभूताः स्तुतीरनु प्रजानन् त्वं तस्य पाहि । इममभिषुतं सोमं पिब । अक्रन् । करोतेर्लुङि रूपम् । निघातः । आगत्य । गमेर्ल्यपि रूपम् । लित्स्वरः । पाहि । पातेर्लोटि रूपं ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,35 +147,35 @@ genre M
 Knowing well the worship: prajānan **pathyā** anu svāḥ = righty apprehending the praises which are due or peculiar, and which are offered with the rites enjoined by the **Vedas**.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This (soma) have the men, the mountains, and the waters jointly with  the cows made honeyed for you.  
 Having come here along your own paths, well-disposed, drink of it,  
 lofty one, thinking ahead, knowing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 prajānán vidvā́n repeats 4d. The particular relevance of this phrase in either vs. isn’t clear to me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This the sweet draught, with cows, the men, the mountains, the waters, Indra, have for thee made ready.  
      Come, drink thereof, Sublime One, friendly-minded, foreseeing, knowing well the ways thou goest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Soma haben die Männer, die Berge, die Wasser zusammen mit den Kühen für dich, Indra, zu einem süßen Trank bereitet. Komm, du Recke, und trinke wohlgemut davon, wegekundig, deine gewohnten Straßen kennend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den süssen Trank hier machten dir die Männer, die Steine, Wasser, Indra, sammt den Kühen; O komm und trink ihn wohlgemuth, erbab'ner, der du Bescheid weisst, kennend deine Pfade.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мужи, горы, воды для тебя, о Индра,  
 Сделали этого (сому) сладким, (смешанным) с коровьим (молоком).  

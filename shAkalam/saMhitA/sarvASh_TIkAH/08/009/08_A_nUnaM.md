@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नूनं꣡ रघु꣡वर्तनिं  
 र꣡थं तिष्ठाथो अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 न꣡भो न꣡ चुच्यवीरत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । वा॒म् । स्तोमाः॑ । इ॒मे । मम॑ । नभः॑ । न । चु॒च्य॒वी॒र॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -104,19 +104,19 @@ genre M
 हे अश्विनौ **रघुवर्तनिं** लघुवर्तनं शीघ्रगमनं **रथं** **नूनम्** अवश्यमिदानीमेव **आ** **तिष्ठाथः** आतिष्ठतम् अधिरोहतम् । वालमूललघ्वलम्' इति लघोर्लकारस्य रेफः । **मम** मदीयाः **इमे** **स्तोमाः** स्तोत्राणि **नभो** **न** सूर्यमिव तेजस्विनौ **वां** युवाम् **आ** **चुच्यवीरत** आच्यवन्ते अभिगच्छन्ति । यद्वा । च्यवतिरत्र अन्तर्भावितण्यर्थः । आच्यावयन्ति युवामभिप्रापयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Abscond at once, **Aśvins**, your light-moving chariot; may these praises bring you down radiant as thesun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here and now you two will mount the swift-tracked chariot, o Aśvins. Here should these praise songs of mine move you, like a cloud.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -130,23 +130,23 @@ has full grade in some kind of imitation of the full grade of act. 3rd pl. imper
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Asvins, now ascend your car that lightly rolls upon its way.  
      May these my praises make you speed hitherward like a cloud of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jetzt sollet ihr Asvin den raschrädrigen Wagen besteigen. Diese Loblieder von mir sollen euch hertreiben wie der Wind das Gewölk.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besteigt den Wagen, Ritter, nun, der schnell auf seinem Wege rollt, Lasst diese meine Lieder euch herbeiziehn, wie der Wolke Flug.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Взойдите сейчас, о Ашвины,  
 На быстроходную колесницу!  

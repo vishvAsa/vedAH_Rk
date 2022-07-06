@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र जहि꣡ पु꣡मांसं यातुधा꣡नम्  
 उत꣡ स्त्रि꣡यम् माय꣡या शा꣡शदानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ ते꣡ दृशन् सू꣡रियम् उच्च꣡रन्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 विऽग्री॑वासः । मूर॑ऽदेवाः । ऋ॒द॒न्तु॒ । मा । ते । दृ॒श॒न् । सूर्य॑म् । उ॒त्ऽचर॑न्तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -112,7 +112,7 @@ popular
 हे **इन्द्र** **पुमांसं** पुंरूपधारिणं **यातुधानं** राक्षसं **जहि** मारय । **उत** अपि च **मायया** वञ्चनया **शाशदानां** हिंसन्तीं **स्त्रियं** राक्षसीं च जहि । अपि च मूरदेवाः मारणक्रीडा राक्षसाः **विग्रीवासः** विच्छिन्नग्रीवाः सन्तः **ऋदन्तु** नश्यन्तु । **ते** तथाविधा राक्षसाः **उच्चरन्तम्** उद्यन्तं **सूर्यम्** आदित्यं **मा** **दृशन्** मा द्राक्षुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,13 +123,13 @@ popular
 Yātudhāna =**rākṣasa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, smash the male sorcerer and the female exulting in her  magic power.  
 Let the no-necks with feckless gods shake to pieces. Let them not look  upon the sun as it rises.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vígrīva- ‘with no / broken neck’ is ambiguous: is it descriptive of a preexisting condition and thus a species, ethnic, or personal slur (in English “no-neck” is an insult, referring to a burly and stupid thug or goon)? or is it used proleptically here, to indicate what will happen to those who “shake to pieces” (ṛdantu). I’ve taken it as the former, but opinion is divided and either would work in the passage.
 
@@ -138,23 +138,23 @@ mū́ra-deva- is also contested. Acdg. to EWA (s.v. mū́la-), flg. Wack., it is
 This excursion into exotic anthropology seems unlikely to me -- not the sort of divinity that Vedic people would posit even of their worst and most primitive enemies. Most tr. take it as ‘idol-worshiper’ (e.g., Geldner Götzanbeter), without, however, indicating what the ‘idol’ rests on: ‘root’ à ‘root as representation of god’ à ‘idol’ (not a semantic chain that seems reasonable to me)? Or, more likely to me, based on mūrá- ‘stupid, foolish, dumb (i.e., non-speaking)’. My own ‘with feckless gods’ is rests on this association, but is closer to the sense of the original adjective. I do not, however, have an explanation for the accent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Slay the male demon, Indra! slay the female, joying and triumphing in arts of magic.  
      Let the fools' gods with bent necks fall and perish, and see no more the Sun when he arises.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, erschlag den männlichen Zauberer und seine Frau, die auf ihr Blendwerk pocht! Mit gebrochenem Genick sollen die Götzenanbeter versinken, nicht sollen sie die Sonne aufgehen sehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den männlichen Bezaubrer tödt, o Indra, das Weib auch, das mit Zauberei sich brüstet; Die Götzen tilge, die mit krummen Hälsen, nicht mög' die Sonn' sie sehen, wenn sie aufgeht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, убей мужчину-колдуна,  
 А также женщину, кичащуюся колдовскою силой!  

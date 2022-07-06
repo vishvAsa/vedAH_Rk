@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ दां᳐ गृणते꣡ पू꣡र्वियं व꣡सु  
 अह꣡म् ब्र꣡ह्म कृणवम् म꣡ह्य° व꣡र्धनम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡यज्वनः साक्षि वि꣡श्वस्मिन् भ꣡रे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; 11 = 4+7, ending HLX
 अ॒हम् । भु॒व॒म् । यज॑मानस्य । चो॒दि॒ता । अय॑ज्वनः । सा॒क्षि॒ । विश्व॑स्मिन् । भरे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -126,37 +126,37 @@ genre M;; 11 = 4+7, ending HLX
 **अहम्** इन्द्रः **गृणते** स्तुवते **पूर्व्यं** मुख्यं **वसु** धनं **दाम्** अदाम्। **अहम्** एव **ब्रह्म** परिवृढं कर्म स्तुतिलक्षणं **मह्यं** **वर्धनं** **कृणवं** करोमि । स्तोतुः संबन्धि स्तोत्रं तस्मै धनं प्रयच्छन् मह्यमेव वर्धनं करोमीत्यर्थः । तथा **अहं** **यजमानस्य** मामुद्दिश्य यष्टुर्धनस्य **चोदिता** प्रेरकः **भुवं** भवामि । **अयज्वनः** अयष्टुः । अयष्टारमित्यर्थः । तं **विश्वस्मिन्** **भरे** सर्वस्मिन्नपि संग्रामे **साक्षि** अभिभवामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I give excellent treasure to him who praises me, I render sacred prayer (a source) of greatness tomyself, I am the instrumental gator of the worshipper; I am the discomfiter in every battle of him who does not worship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I gave the foremost good to the singer. I made the sacred formulation a  strengthener for me.  
 I became the inciter of the sacrificer. I have vanquished the  
 non-sacrificers in every contest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I HAVE enriched the singer with surpassing wealth; I have allowed the holy hymn to strengthen me.  
      I, furtherer of him who offers sacrifice, have conquered in each fight the men who worship not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich gab dem Sänger das allererste Gut, ich machte das erbauliche Wort mir zur Stärkung. Ich ward der Aneiferer des Opfernden; die Opferscheuen überwand ich in jedem Kampfe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Dem, der mich preist, verleihe ich das höchste Gut, zu meinem Labsal mache ich mir das Gebet, Ich bin der Fördrer dessen, der mir Opfer bringt, den opferlosen schlage ich in jedem Kampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я дал певцу лучшее добро,  
 Я сделал молитву себе подкреплением.  

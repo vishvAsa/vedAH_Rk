@@ -6,14 +6,14 @@ ChandaH = "ऊर्ध्वबृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ सोम प्रथमा꣡ वृक्त꣡बर्हिषो  
 महे꣡ वा꣡जाय श्र꣡वसे धि꣡यं दधुः  
 स꣡ त्वं꣡ नो वीर वीरि꣡याय चोदय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सः । त्वम् । नः॒ । वी॒र॒ । वी॒र्या॑य । चो॒द॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -109,7 +109,7 @@ genre M
 हे **सोम** **प्रथमाः** पुरातनाः । यद्वा । यष्टृवेन सर्वेषां जनानां मुख्याः । **वृक्तबर्हिषः**। वृक्तं छिन्नं बर्हिर्यैर्यज्ञार्थमिति वृक्तबर्हिषो यजमानाः । **महे** महते **वाजाय** बलाय **श्रवसे** अन्नाय च **धियं** बुद्धिं **त्वे** त्वयि **दधुः** निहितवन्तः । तस्मात् हे **वीर** समर्थ सोम **सः** तादृशः **त्वं** **नः** अस्मानपि संग्रामे **वीर्याय** सामर्थ्याय **चोदय** प्रेरय । यद्वा । वीर्याय वीरे पुत्रे भवाय सुखायास्मान् प्रेरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,13 +120,13 @@ genre M
 The chief of men: or, the men of old
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In you, Soma, those who first twisted the ritual grass placed their  insight for the great prize of victory and for fame.  
 Impel our (insight), o hero, for heroic power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take naḥ as the obj. of codaya in c, but I think rather dhíyam from b, with naḥ genitive. Cf. III.62.10 dhíyo yó naḥ pracodáyāt, VI.47.10 codáya dhíyam.
 
@@ -141,23 +141,23 @@ Considerably clearer than the previous tṛca.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, the men of old whose grass was trimmed addressed the hymn to thee for mighty strength and for renown:  
      So, Hero, urge us onward to heroic power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dich, o Soma, haben die ersten Opferer ihr Denken gerichtet, um großen Sieg und Ruhm zu gewinnen. Sporne du Held uns zur Heldentat an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf dich, o Soma, richteten zu grosser Kraft und Ruhm die ersten Streubereiter ihren Sinn; Drum schärfe du, o Held, uns zu der Helden Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В тебя, о сома, первые (жертвователи), перевернувшие жертвенную солому,  
 Вложили поэтическую мысль для великой награды (и) славы.  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ रुक्मइ꣡र् आ꣡ युधा꣡ न꣡र  
 ऋष्वा꣡ ऋष्टी꣡र् असृक्षत  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 भानु꣡र् अर्त त्म꣡ना दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 अनु॑ । ए॒ना॒न् । अह॑ । वि॒ऽद्युतः॑ । म॒रुतः॑ । जझ्झ॑तीःऽइव । भा॒नुः । अ॒र्त॒ । त्मना॑ । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -121,20 +121,20 @@ genre M
 **नरः** वृष्टेर्नेतारः **ऋष्वाः** महान्तो मरुतः **रुक्मैः** रोचमानैराभरणविशेषैः **आ** रोचन्त इति शेषः ॥ उपसर्गश्रुतेः संगतक्रियाध्याहारः ॥ तथा **युधा** प्रहरणसाधनेनायुधेन **आ** रोचन्ते । एते मरुतः **ऋष्टीः** आयुधविशेषान् **असृक्षत**। प्रक्षिपन्ति मेघभेदार्थम् । **एनान्** **मरुतः** **विद्युतः** अपि **जज्झतीरिव** शब्दकारिण्य आप इव । **जज्झतीरापो** भवन्ति शब्दकारिण्यः' (निरु. ६. १६ ) इति निरुक्तम् । **अनु** **अह** अनुगच्छन्त्येव । **दिवः** द्योतमानस्य मरुद्गणस्य **भानुः** दीप्तिः **त्मना** स्वयमेव **अर्त** निरगात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders (of the rains), the mighty **Maruts** shine with brilliant ornaments and weapons, and hurl javelin (at their foes, the clouds); the lightnings like roaring (torrents), daily follow the Maruts; the radiance of the resplendent (cohort) spontaneously breaks forth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Arrived) here with brilliants, here with battle, the lofty men have  launched their spears.  
 Following them (came) the lightning flashes—following the Maruts like  giggling (girls). The radiance of heaven has arrived by itself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is in Paṅkti; that is, it contains five 8-syllable pādas rather than the four of Anuṣṭubh, otherwise the meter of the hymn until the end, where the final two vss. are also in Paṅkti. Here the slight shift in meter seems to mark a boundary: on the one hand it brings the versified paradigm to a close, with the acc. marútaḥ in d; on the other it announces the advent of the gods with their storms and inaugurates the descriptive passages that dominate the remainder of the hymn.
 
@@ -151,23 +151,23 @@ part. to the same redupl. pres. jákṣat- in I.33.7). The use of such a phonolo
 Pāda e has several parallels, given by Geldner in his n. 6e. The question in our passage is whether diváḥ is gen., as I’ve taken it (so also Geldner and somewhat differently Renou), or abl. (“The radiance arose ... from heaven”; so Witzel Gotō). The parallels cut both ways: V.25.8 svānó arta tmánā divaḥ and VII.34.7 úd asya śúṣmād bhānúr nā́rta seem to favor an abl. interpr., but IV.1.17 úd devyā́uṣáso bhānúr arta a genitive. In the end, I don’t think the choice materially affects the sense of the passage: whether the radiance is ‘of heaven’ or ‘from heaven’ the result is pretty much the same.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The lofty Heroes cast their spears and weapons bright with gleaming gold.  
      After these Maruts followed close, like laughing lightning from the sky, a splendour of its own accord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit ihren Goldmünzen, mit Kampf sind die Männer herangesprengt; die Recken haben ihre Speere geschleudert. Hinter diesen Marut kommen die Blitze wie lachende Frauen; von selbst bricht der Glanz des Himmels an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die hohen Helden schleuderten im Kampf die Lanzen, goldgeschmückt; Es folgte diesen Maruts nach des Himmels Glanz, wie plätschernde Gewässer dem Gewitterstrahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С золотыми пластинками, с оружием, мужи –  
 Великаны метнули копья.  

@@ -8,7 +8,7 @@ title = "+063"
 ‘आ पवस्व' इति त्रिंशदृचं तृतीयं सूक्तं काश्यपस्य निध्रुवेरार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रान्तम्- आ पवस्व निध्रुविः काश्यपः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 63 (775)  
 Soma Pavamāna  
@@ -20,7 +20,7 @@ The hymn is, of course, also full of requests for material goods of all sorts, a
 Although the hymn does not seem tightly structured, some tr̥cas show formal  unity (e.g., vss. 25–27 with forms of the root sr̥j “surge”), and the hymn begins and  ends with verses containing the imperative dhāraya “secure, sustain.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061-067.md">
 <details open><summary><h2>61-67 ...{Loading}...</h2></summary>

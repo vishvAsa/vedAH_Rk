@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घर्मा꣡ स꣡मन्ता त्रिवृ꣡तं वि꣡ आपतुस्  
 त꣡योर् जु꣡ष्टिम् मातरि꣡श्वा जगाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विदु꣡र् देवाः꣡ सह꣡सामानम् अर्क꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दि॒वः । पयः॑ । दिधि॑षाणाः । अ॒वे॒ष॒न् । वि॒दुः । दे॒वाः । स॒हऽसा॑मानम् । अ॒र्कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gharmā* ← *gharma*
 - \[noun\], nominative, dual, masculine
@@ -116,37 +116,37 @@ popular
 **समन्ता** समन्तौ संव्याप्तदिगन्तौ घर्मा । ' घृ क्षरणदीप्त्योः' । घर्मौ दीप्यमानावग्न्यादित्यौ **त्रिवृतम्** । 'त्रयो वा इमे त्रिवृतो लोकाः' ( ऐ. आ. १. १. २ ) इत्याम्नानात् । त्रैलोक्यं **व्यापतुः** । स्वतेजोभिर्व्याप्तवन्तौ । **मातरिश्वा** अन्तरिक्षे वर्तमानो वायुः **तयोः** अग्न्यादित्ययोः **जुष्टिं** प्रीतिं **जगाम** गतवान् । यदा **सहसामानम्** । सामशब्द उपलक्षकः । वेदत्रयतेजःसहितम् ।  ‘ सर्वं तेजः सामरूप्यं ह शश्वत् ' (तै. ब्रा. ३. १२.९.२ ) इत्याम्नानात् । ईदृशम् **अर्कम्** अर्चनीयं सूर्यं **देवाः** दीप्यमानाः स्वरश्मयः **विदुः** विविदुः लेभिरे प्रापुः तदा **दिधिषाणाः** लोकधारणशीलास्ते **दिवः** द्युलोकस्य संबन्धि **पयः** उदकम् **अवेषन्** व्याप्तवन्तः । ववर्षुरित्यर्थः ॥ दिवस्पय इत्यत्र 'षष्ठ्याः पतिपुत्र ' इति सत्वम् । दिधिषाणाः । ‘धिष धारणे ' । चानश् । शपः श्लुः ॥ यद्वा ।  ‘ धि धारणे । सनन्तस्य चानश् । 'अज्झनगमां सनि ' इति दीर्घाभावश्छान्दसः । यद्वा । समन्तौ संगतौ घर्मौ स्वयं दीप्यमानौ जीवेश्वरौ त्रिवृतं सत्त्वरजस्तमोगुणात्मिकां मायां व्यापतुः । नियन्तृनियन्तव्यभावेन मातरिश्वा परमात्मा तयोर्जुष्टिं संभोक्तव्यपदार्थैः संजातां प्रीतिं जगाम । गतवान् । तं परमात्मानं वेदमयमिमं सूर्यमिति देवा जानन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The two sources of heat (**Agni** and **Āditya**) spreading to the limit (of the horizon), have pervaded thethreefold (universe); **Mātariśvan** has come to give them plural asure; (when) the shining (rays) reached theadorable (sun), having the brilliancy of the **Sāman**, sustaining (the universe), they attained the water of heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two contiguous heat (sources) [=fire and sun/gharma pots/or chant  and melody] have pervaded the threefold (world) [/Trivr̥t Stoma].  
 Mātariśvan has come to enjoyment of the two.  
 Seeking to acquire the milk of heaven, they have toiled: the gods know  the chant provided with melody.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Two perfect springs of heat pervade the Threefold, and come for their delight is Matarisvan.  
      Craving the milk of heaven the Gods are present: well do they know the praisesong and the Saman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden benachbarten Gluten haben die dreifache Welt erfüllt. Matarisvan fand ihr Wohlgefallen. Sie haben nach des Himmels Milch Gelüste bekommen, sie für sich beanspruchend: Die Götter kennen das Preislied, das von einer Melodie begleitet ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zwei verbundene Kessel füllten den dreitheiligen [Herd?] an; um aus ihnen zu geniessen ist Mātariçvan gekommen; des Himmels Milch zu erlangen begierig sind die Götter gekommen; sie kennen das mit Gesang verbundene Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два жара, граничащих друг с другом, заполнили трехчастную (вселенную).  
 Явился Матаришван (находить) в них радость.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कुवि꣡द् अङ्ग꣡ न꣡मसा ये꣡ वृधा꣡सः  
 पुरा꣡ देवा꣡ अनवद्या꣡स आ꣡सन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वासयन्न् उष꣡सं सू꣡रियेण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ते । वा॒यवे॑ । मन॑वे । बा॒धि॒ताय॑ । अवा॑सयन् । उ॒षस॑म् । सूर्ये॑ण ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kuvid*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 दीव्यन्ति स्तुवन्तीति देवाः स्तोतारः। **पुरा** पूर्वस्मिन् काले **ये** **वृधासः** वृद्धाः **देवाः** स्तोतारः । कुविदिति बहुबाम । अङ्गेति क्षिप्रनाम। **कुवित्** बहुशः **अङ्ग** क्षिप्रं कृतेन **नमसा** वायुविषयेण स्तोत्रेण नमस्कारेण वा **अनवद्यासः** अवद्यरहिताः आसन् **ते** अद्यापि **वायवे** हवींषि दातुं **सूर्येण** सह **उषसम्** **अवासयन्** । उषसो व्युष्टिं सूर्योदयं च वायुयागार्थं कुर्वन्तीत्यर्थः । किमर्थम्। **मनवे** मनुष्याणां **बाधिताय** बाधितानां पुत्रादीनां रक्षणार्थमित्यर्थः । यद्वा मनवे बाधितायेति षष्ठ्यर्थे चतुर्थ्यौ। बाधितस्य मनोः प्रजापतेर्यागे वायवे हवींषि दातुमित्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,12 +122,12 @@ genre M
 Manave bādhitāya = as sons etc., manuṣyānām bādhitānām putrādīnāmrakṣaṇārtham; or, with the preceding vāyave, to give oblations to Vāyu at the sacrifice of the hindered **manu**,bādhitasya manoḥ prajāpater yāge vāyave haviṃṣi dātum
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Surely the faultless gods, who (now) grow strong through reverence,  existed previously? (Yes, because) for Vāyu, for hard-pressed Manu they made the dawn  shine, along with the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For my interpr. of the context of this vs. see the published introduction, where I suggest that the vs. depicts the primal situation before the ritual was first instituted, with the gods existing without a sacrificial compact. I take purā́… ā́san as existential, “existed previously,” as I do almost the same construction (but with pf., not impf.) in IV.51.7 purā́suḥ -- but not purā́-āsitha in VI.45.11, where the purā́is contrasted with nūnám in disjunctive vā clauses. The existential reading seems to me preferable to a predicative one, whether vṛdhā́saḥ or anavadyā́saḥ were to be predicated.
 
@@ -138,23 +138,23 @@ Oldenberg’s first suggested rendering is of this type (“Bewiesen sich wohl e
 For “hard-pressed Manu” see VI.49.13.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WERE not in sooth, the Gods aforetime blameless, whose pleasure was increased by adoration?  
      For Vayu and for man in his affliction they caused the Morning to arise with Surya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ganz gewiß waren es schon früher die untadeligen Götter, die durch die Huldigung der Menschen groß wurden. Sie haben für Vayu, für den bedrängten Manu die Morgenröten durch die Sonne aufleuchten lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ob wol die Götter, durch Gebet gekräftigt, sie, die von jeher ohne Makel waren, Dem Vaju und dem hartbedrängten Menschen das Morgenroth erhellten durch die Sonne?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разве не были некогда безупречны боги,  
 Которые возрастали от поклонения,  

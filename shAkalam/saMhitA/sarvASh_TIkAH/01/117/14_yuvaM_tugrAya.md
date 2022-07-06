@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ तु꣡ग्राय पूर्विये꣡भिर् ए꣡वैः  
 पुनर्मन्या꣡व् अभवतं युवाना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡भिर् ऊहथुर् ऋजरे꣡भिर् अ꣡श्वैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यु॒वम् । भु॒ज्युम् । अर्ण॑सः । निः । स॒मु॒द्रात् । विऽभिः॑ । ऊ॒ह॒थुः॒ । ऋ॒ज्रेभिः॑ । अश्वैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -109,7 +109,7 @@ genre M
 हे **युवाना** दुःखानां यावयितारौ अश्विनौ **युवं** युवां **पूर्व्येभिः** । पुराणनामैतत् । पूर्वकालीनैः चिरंतनैः **एवैः** स्तुत्यं प्रति गन्तृभिः स्तोत्रैः **तुग्राय** भुज्योर्जनकस्य संबन्धिभिः **पुनर्मन्यौ** यथा भुज्योः समुद्रगमनापूर्वं युवां स्तोतव्यौ तथा पुनरपि इदानीं स्तोतव्यौ **अभवतम्** । यदा युवां समुद्रमध्ये सेनया सह निमग्नं **भुज्युं** तुग्रस्य पुत्रम् **अर्णसः** अर्णस्वतः प्रौढोदकयुक्तात् **समुद्रात्** अम्बुराशेः सकाशात् **विभिः** गन्तृभिः नौभिः **ऋज्रेभिः** शीघ्रगतियुक्तैः **अश्वैः** च **निरूहथुः** निर्गमय्य पितृसमीपं प्रापितवन्तौ तदानीं पुनरप्यतिशयेन स्तोतव्यौ जातावित्यर्थः । ‘तुग्रो ह भुज्युम्' (ऋ. सं. १.११६. ३) इत्यत्रोक्तमाख्यानम् अत्राप्यनुसंधेयम् ॥ एवैः । इण् गतौ'। ‘इण्शीङ्भ्यां वन्' । पुनर्मन्यौ ।' मन ज्ञाने '। अत्र स्तुत्यर्थः । मन्यते स्तौति इति मना स्तुतिः । पचाद्यच् । ‘छन्दसि च' इति अर्हार्थे यः । युवाना । 'यु मिश्रणामिश्रणयोः '।' कनिन्युवृषि' ' इत्यादिना कनिन् । ‘सुपां सुलुक्' इति विभक्तेराकारः । अर्णसः । अर्णःशब्दादुत्पन्नस्य मत्वर्थीयस्य ‘बहुलं छन्दसि ' इति बहुलग्रहणाल्लोपः । विभिः। सर्वे विधयश्छन्दसि विकल्प्यन्ते' इति विभक्त्युदात्तस्य विकल्पनात् अभावः । ऋज्रेभिः । ऋज गतिस्थानार्जनोपार्जनेषु'। 'ऋज्रेन्द्र' इत्यादौ रन्प्रत्ययान्तो निपातितः । ‘बहुलं छन्दसि ' इति भिस ऐसभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ genre M
 Vibhiḥ = swift naubhiḥ (ships)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You turned your minds again to Tugra in your ancient ways, o youthful  ones.  
 You carried Bhujyu from the flood, from the sea, with your birds, your  silvery horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, ever-youthful Ones, again remembered Tugra, according to your ancient manner:  
      With horses brown of hue that flew with swift wings ye brought back Bhujyu from the sea of billows.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Jünglinge waret dem Tugra mit dem früheren Eifer wieder zugeneigt. Ihr holtet den Bhujyu aus der Meeresflut heraus mit den Vögeln, den Schimmelrossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An Tugra habt nach euren alten Weisen, o ewig junge, ihr euch neu erinnert, Ihr fuhrt den Bhudschju aus des Meeres Wogen heraus mit euren rothen Flügelrossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Тугре согласно прежним обычаям  
 Вы снова стали расположенными, о двое юношей.  

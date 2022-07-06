@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नः सो꣡मेषु सोमपाः  
 सुते꣡षु शवसस् पते  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्र राया꣡ प꣡रीणसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 मा॒दय॑स्व । राध॑सा । सू॒नृता॑ऽवता । इन्द्र॑ । रा॒या । परी॑णसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -101,7 +101,7 @@ genre M;; repeated line
 हे सोमपाः सोमस्यपातः हे शवसस्पते बलस्यपालयितरिन्द्र सपूर्वोक्तलक्षणस्त्वं सुतेष्वस्माभिरभिषुतेषु सोमेषु नोस्मान् राधसा बलसाधनान्नेन सूनृतावता अनृतरहितत्वोपेतेन । यद्वा सूनृतेति वाङ्नाम शोभनवाक्ययुक्तेन । अनेन पुत्रादिकं लक्ष्यते पुत्रोपेतेनान्नेन परीणसा बहुनामैतत् बहुना राया धनेनच नोस्मान्मादयस्व मोदय सोमस्य प्रदातृभ्योस्मभ्यमन्नपुत्रधनादिकं देहीत्यर्थः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,28 +112,28 @@ genre M;; repeated line
 With wholesome food: sunṛtāvata = truthful, accompaniedby truthful words, accompanied by children; or, gladden us with genitive rous gifts
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When our soma drinks are pressed, o soma-drinker, lord of power, bring yourself to exhilaration—with your liberal generosity, Indra, with  wealth in profusion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou Soma-drinker, Lord of Strength, beside our flowing Soma juice  
      Delight us with thy bounty rich in pleasantness, O Indra, with abundant wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An unseren Somatränken berausche dich, o Somatrinker, Herr der Kraft, an deiner reichschenkenden Freigebigkeit und deinem vollkommenen Reichtum, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du Somatrinker, Herr der Kraft, bei ausgepresstem Somasaft, Erfreue du mit reichverseh'ner Gabe uns, mit Reichthumsfülle, Indra, uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О любитель сомы, у наших выжатых  
 Соков сомы, о господин силы,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ए꣡क इ꣡द् विद꣡यते  
 व꣡सु म꣡र्ताय दाशु꣡षे  
 ई꣡शानो अ꣡प्रतिष्कुत इ꣡न्द्रो अङ्ग꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 ईशा॑नः । अप्र॑तिऽस्कुतः । इन्द्रः॑ । अ॒ङ्ग ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -86,7 +86,7 @@ genre M;; line affected by realignment
 **यः** इन्द्रः **एकः** **इत्** एक एव **दाशुषे** हविर्दत्तवते **मर्ताय** मनुष्याय यजमानाय **वसु** धनं **विदयते** विशेषेण ददाति । **अङ्ग** इति क्षिप्रनाम । **अप्रतिष्कुतः** परैरप्रतिशब्दितः प्रतिकूलशब्दरहित इत्यर्थः । एवंभूतः सः **इन्द्रः** क्षिप्रम् **ईशानः** सर्वस्य जगतः स्वामी भवति । विदयते । ‘दय दानगतिरक्षणहिंसादानेषु' । शपः पित्त्वात् अनुदात्तत्वम्। तिङश्च लसार्वधातुकस्वरेण धातुस्वरः एव शिष्यते । यद्वृत्तयोगादनिघातः । अप्रतिष्कुतः । ‘कु शब्दे'। प्रतिकूलं कूयते शब्द्यते इति प्रतिष्कुतः । पारस्करादेराकृतिगणत्वात् सुट् । सुषामादित्वात् षत्वम् । नञ्समासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,13 +97,13 @@ genre M;; line affected by realignment
 This hymn and the two following hymns end with the term, **aṅga**, quick; it is, perhaps, an interjection of calling: ho!
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who alone apportions the goods to the pious mortal,  
 the unrepulsable master – (that’s) Indra indeed!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take índro aṅgá as the main clause corresponding to the rel. cl. introduced by yáḥ.
 
@@ -117,23 +117,23 @@ Bloomfield (Rig-Veda Repetitions, ad I.7.8) suggests that each of these three ve
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who alone bestoweth on mortal man who offereth gifts,  
      The ruler of resistless power, is Indra, sure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ganz allein dem opferspendenden Sterblichen Gut austeilt, der unbehinderte Gebieter ist einzig Indra:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der einzig reiches Gut ertheilt dem Sterblichen, der ihn verehrt, Der Herr, dem niemand widersteht, nur Indra ist's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только тот единственный, кто раздает  
 Добро смертному, почитающему (его),  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् ऊ नु꣡ वः कृणवामा꣡परेण  
 किं꣡ स꣡नेन वसव आ꣡पियेन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुअस्ति꣡म् इन्द्रामरुतो दधात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यू॒यम् । नः॒ । मि॒त्रा॒व॒रु॒णा॒ । अ॒दि॒ते॒ । च॒ । स्व॒स्तिम् । इ॒न्द्रा॒म॒रु॒तः॒ । द॒धा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
@@ -123,42 +123,42 @@ genre M
 हेदेवाः वोयुष्माकन्नुअद्येदानीङ्किमुकृणवाम किङ्खलुकर्तुंशक्रवाम नकिमपीत्यर्थः तथाअपरेणाअप- रकालभाविनाकर्मणाकिङ्कर्तुंशक्ताः तथाहेवसवोवासयितारोदेवाः सनेनसनातनेन आप्येन आप्तव्येन कर्मणायुष्माकङ्किङ्कर्तुशक्ताः सर्वदापियुष्मदनुगुणम्परिचरणङ्कर्तुन्न्शक्ताइत्यर्थः हेमित्रावरुणौ हेअदिते हेइन्द्रामरुतः देवताद्वन्द्वेचेतिपूर्वम्पदस्यानङ् तेचसर्वेयूयंस्वस्तिंअविनाशन्नोस्मभ्यं दधात दत्तप्रयच्छ त लोटितस्यङित्त्वाभावेनातोलोपाभावः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What may we do for you, gods, either now, or in the future; what may we do, **Vasus**, by perpetual and practicable (acts of devotion); do you, **Mitra**, **Varuṇa**, **Aditi**, **Indra** and the **Maruts**, maintain our bell-being.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What shall we do now with your future (friendship), what, good ones,  with your old friendship?  
 You—Mitra, Varuṇa, and Aditi, Indra and the Maruts—establish  
 well-being for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner and Renou point out, the unexpressed conditional clause with the first hemistich should be something like “if you’re not going to help us now.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What service may we do you with our future, what service, Vasus, with our ancient friendship?  
      O Aditi, and VaruVa and Mitra, Indra and Maruts, make us well and happy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was sollen wir wohl mit eurer künftigen, was mit eurer alten Freundschaft, ihr Guten? Schaffet ihr uns, Mitra und Varuna, Aditi, Indra und die Marut, Heil!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was werden wir, o Gute, euch erweisen für eure künft'ge, was für alte Freundschaft? O Aditi, o Varuna und Mitra, o Indra, schenkt, o Maruts, Wohlergehn uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что же мы сможем сделать с вашей будущей,  
 Что с вашей прежней дружбой, о Васу?  

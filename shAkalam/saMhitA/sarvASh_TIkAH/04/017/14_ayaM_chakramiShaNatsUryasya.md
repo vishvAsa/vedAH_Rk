@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ चक्र꣡म् इषणत् सू꣡रियस्य  
 नि꣡ ए꣡तशं रीरमत् ससृमाण꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्वचो꣡ बुध्ने꣡ र꣡जसो अस्य꣡ यो꣡नौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । कृ॒ष्णः । ई॒म् । जु॒हु॒रा॒णः । जि॒घ॒र्ति॒ । त्व॒चः । बु॒ध्ने । रज॑सः । अ॒स्य । योनौ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -115,7 +115,7 @@ genre M
 प्रैतशं सूर्ये पस्पृधानम्' (ऋ. सं. १. ६१.१५ ) इत्यर्धर्चे पूर्वं काचिदाख्यायिका सूचिता । अत्रापि • अयं चक्रम्' इति पूर्वार्धे सा सूच्यते । स्वश्वनामा कश्चिद्राजा । स च पुत्रार्थं सूर्यमुपास्ते । स च सूर्यः पुत्ररूपेण स्वयमेव तत्रोत्पन्नः सन् एतशाख्येन महर्षिणा सार्धं युद्धं चकार । तदानीं स ऋषिः युद्धे जयार्थमिन्द्रं तुष्टाव। स इन्द्रः तेन स्तूयमानः सन् स्वश्वपुत्रस्य सूर्यस्य संबन्धिनः संग्रामात् एनमपालयदिति । **अयम्** इन्द्रः **सूर्यस्य** **चक्रम्** आयुधम् **इषणत्** प्रैरयत्। **ससृमाणं** युद्धार्थं सरन्तं गच्छन्तम् **एतशम्** एतशनामानमृषिं **नि** **रीरमत्** न्यरीमत् निवारितवान्। **जुहुराणः** कुटिलं यथा भवति तथा संचरन् **कृष्णः** कृष्णवर्णो मेघः **त्वचः** तेजसः **बुध्ने** मूलभूते **रजसो** **अस्य** उदकस्य  **योनौ** स्थानेऽन्तरिक्षे स्थितम् **ईम्** एनमिन्द्रम् **आ** **जिघर्ति** आसिञ्चति । शत्रूणां प्रेरिताञ्चक्रादेस्त्रस्तं ररक्षेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,13 +128,13 @@ In the regions of the waters: in the **antarikṣa**, or firmament;
 Etaśa: RV. 1.061.15; 1.130.09 and 1.176.04
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one impelled the wheel of the Sun and stopped Etaśa as he ran. Moving crookedly, he [=Agni?] sprinkles it [=Sun? Sun’s horse or  
 wheel?] at the black base of the hide, on the womb of this realm,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this vs. and its pendant, the single pāda of vs. 15, are quite unclear, though at least 14ab concerns the Etaśa myth. There are also some formal issues.
 
@@ -153,23 +153,23 @@ But what is it that Agni (if he is indeed the subj.) is doing? This may be illum
 ā́ghṛṇi- ‘glowing, ardent (?)’ belongs to the etymologically separate root √ghṛ ‘be warm, hot’ found in gharmá- ‘heat’, etc. See comm. ad VI.53.3). In X.6.4 Agni sprinkles the gods (ā́jigharti devā́n) as Hotar; in V.48.3 Agni (by my interpr.) sprinkles a vájra. Although in both passages most interpr. attempt to make the verb mean something other than ‘sprinkle’ (see comm. ad locc.), in fact a naturalistic explanation is not hard to construct using the literal meaning of the verb: Agni “sprinkles” the objects in question with sparks, a literal “baptism by fire.” That Agni is elsewhere the object of √ghṛ, being sprinkled with ghee (see II.10.4), makes this the kind of paradoxical reversal that RVic poets so much like. Here notice that Agni performs this action “like a Hotar performing sacrifice” (vs. 15 yájamāno ná hótā), as in X.6.4. The image is both of a properly sacrificing priest performing the ritual action of sprinkling (the fire with ghee) and of the ritual fire sending out a stream of sparks, like sprinkled drops, which would be quite visible on the dark background insistently mentioned in this vs. What the object is that he is sprinkling remains obscure to me - but in addition to the possibilities I suggest in the published translation and those of others mentioned above, it might be Indra’s vájra, as suggested by Kümmel (see above), though with a different sense of the verb than Kümmel suggests. Recall that in V.48.3 Agni sprinkles Indra’s vájra-with sparks as a sort of ritual sanctification before Indra employs it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He urged the chariot-wheel of Surya forward: Etasa, speeding on his way, he rested.  
      Him the black undulating cloud bedeweth, in this mid-air's depth, at the base of darkness,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser treibt das Rad der Sonne weiter; den Etasa, der seinen Lauf gemacht, hält er an. Er schleudert ihn auf einen Abweg führend auf den schwarzen Boden der Haut, in den Schoß dieses Dunkelraumes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Rad der Sonne setzt er in Bewegung, liess ruhn ihr Ross, als es die Bahn durchlaufen; Umwendend bringt er's auf den schwarzen Boden der Nacht hin dort in dieses Luftraums Tiefe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он привел в движение колесо солнца.  
 Он остановил пробежавшего Эташу.  

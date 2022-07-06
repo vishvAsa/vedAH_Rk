@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प प्रिय꣡म् प꣡निप्नतं  
 यु꣡वानम् आहुतीवृ꣡धम्  
 अ꣡गन्म बि꣡भ्रतो न꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग॑न्म । बिभ्र॑तः । नमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **प्रियं** सर्वस्य प्रीणयितारं **पनिप्नतम्** अत्यन्तं शब्दायमानं **युवानं** तरुणम् **आहुतिवृधम्** आहुतिभिर्वर्धनीयं पवमानं वयं **नमः** हविर्नमस्कारं वा **बिभ्रतः** धारयन्तः सन्तः **उप** **अगन्म** उपगच्छेम । गमेर्लुङि ‘ मन्त्रे घस' ' इति च्लेर्लुकि सति ‘म्वोश्च' इति नकारः। पनिप्नतम् । पनेः स्तुत्यर्थस्य यङ्लुकि रूपम्। दाधर्ति दर्धर्ति' इति सूत्रे इतिकरणस्य प्रदर्शनार्थत्वादत्राभ्यासस्य निगागम उपधालोपश्च निपात्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us approach bearing the beloved loud-sounding youthful oblation fostered by our offerings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Close to the dear youth who always excites wonder, the one growing  strong through the poured offering,  
 have we come, bearing homage.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax āhutī-vṛ́dh- could be either passive (as in the published translation, also Geldner) or act.
 
@@ -110,23 +110,23 @@ It’s not clear why we return to purely Soma vss. at this point, but the aorist
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We with our homage have approached the Friend who seeks our wondering praise,  
      Young, strengthener of the solemn rite.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dem lieben opfergestärkten Jüngling, der viel Geschrei macht, sind wir Huldigung bringend gekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem lieben, wunderherrlichen dem Jüngling, der am Guss sich freut Sind Ehr' erweisend wir genaht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К милому, удивительному  
 Юноше, усиливающемуся от возлияний,  

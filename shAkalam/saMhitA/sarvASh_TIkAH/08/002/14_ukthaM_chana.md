@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उक्थं꣡ चन꣡ शस्य꣡मानम्  
 अ꣡गोर् अरि꣡र् आ꣡ चिकेत  
 न꣡ गायत्रं꣡ गीय꣡मानम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 न । गा॒य॒त्रम् । गी॒यमा॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ukthaṃ* ← *uktham* ← *uktha*
 - \[noun\], accusative, singular, neuter
@@ -78,7 +78,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 गायतेर्गौः । **अगोः** अस्तोतुः **अरिः** शत्रुरिन्द्रः **शस्यमानं** होत्रा पठ्यमानम् **उक्थं** **चन** शस्त्रमपि। **आ** **चिकेत** अभिजानाति । कित ज्ञाने'। छान्दसो लिट् । नेति संप्रत्यर्थे । **न** संप्रति प्रस्तोत्रादिभिः **गीयमानं** **गायत्रं** गातव्यं साम यद्वा गायत्राख्यमपि चिकेतेत्येव । अतः कारणात् वयमपि तमिन्द्रं स्तुम इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,34 +89,34 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Agor arir ā ciketa, the enemy of him who does not praise, astutus' śatrur **indraḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never does the stranger pay attention to a solemn speech being recited  if it comes from a man without cattle,  
 nor to a song being sung.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner (n.) points out, this is a subtle jab at Indra. If the god doesn’t provide cows (and other wealth) to his praiser, then no one will pay attention to either the praiser or, by implication, the praise he produces for the god.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Foe of the man who adds no milk, he heeds not any chanted hymn  
      Or holy psalm that may he sung.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein hoher Herr hat noch nie, selbst nicht auf das Loblied geachtet, das ein der Rinder barer Sänger vorträgt, noch auf sein gesungenes Lied.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das gesprochne Wort beachtet Indra nicht, des Opferlosen, Noch das Lied, das er ihm singet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благочестивый никогда не предназначал для бескоровного  
 Ни произносимый гимн,  

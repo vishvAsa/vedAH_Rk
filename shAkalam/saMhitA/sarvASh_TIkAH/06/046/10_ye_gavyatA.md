@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ गव्यता꣡ म꣡नसा श꣡त्रुम् आदभु꣡र्  
 अभिप्रघ्न꣡न्ति धृष्णुया꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 तनूपा꣡ अ꣡न्तमो भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । स्म॒ । नः॒ । म॒घ॒ऽव॒न् । इ॒न्द्र॒ । गि॒र्व॒णः॒ । त॒नू॒ऽपाः । अन्त॑मः । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -110,20 +110,20 @@ genre M
 **ये** जना: **गव्यता** शत्रूणां गा इच्छता **मनसा** युक्ताः सन्त: **शत्रुं** शातयितारं वैरिणम् **आदभुः** अहिंसिषुः । ये च **धृष्णुया** धृष्णवो धृष्टा: सन्तः अस्मानभिलक्ष्य **प्रघ्नन्ति** प्रकर्षेण हिंसन्ति हे **मघवन्** धनवन् **गिर्वण:** गिरां संभक्त: **इन्द्र** **अध** **स्म** अस्मिन् काले तेभ्यः सकाशात् **नः** अस्माकं **तनूपाः** तनूनां शरीराणां रक्षिता सन् **अन्तमः** अन्तिकतमः **भव** ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Affluent **Indra**, propitiated by praise, be nigh o us, as the defender of our person ns (against those) who assail (us as) enemies, with a mind bent upon carrying off (our) cattle, or who assault us with arrogance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, with their mind set on cattle, outwit their rival and smite him  boldly.  
 So then, as ever, o bounteous Indra longing for songs, as the protector  of our bodies, come up close to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 dhṛṣṇuyā́reprises 2a.
 
@@ -137,23 +137,23 @@ The unity of this pragātha is required by the fact that the rel. cl. of 10ab mu
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who with minds intent on spoil subdue the foe, boldly attack and smite him down,-  
      From these, O Indra Maghavan who lovest song, be closest guardian of our lives.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die, das Herz voll Verlangen nach Rindern, den Feind überlisten und mutig bekämpfen. Dann steh uns zur Stärke, Indra, schütze den Anführer im Kampf, wenn die gefiederten Geschosse mit den spitzen Köpfen in der Luft fliegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die beutelust'gen Sinns den Feind verwundeten, ihn niederschlagen kühnen Muths; Uns sei, o Indra, starker, der du Lieder liebst, recht nahe als des Leibes Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что с сердцем, стремящимся к коровам, навредили врагу,  
 Смело побеждают (его).  

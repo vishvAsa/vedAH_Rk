@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पेहि मनसस् पते  
 अ꣡प क्राम पर꣡श् चर  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 बहुधा꣡ जी꣡वतो म꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 प॒रः । निःऽऋ॑त्यै । आ । च॒क्ष्व॒ । ब॒हु॒धा । जीव॑तः । मनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apehi* ← *ape* ← *√i*
 - \[verb\], singular, Present imperative
@@ -102,7 +102,7 @@ popular;; epic anuṣṭubh (525)
 हे **मनसस्यते** स्वप्नावस्थस्य मनसः स्वामिन् दुःस्वप्नाधिदेव **अपेहि** अपगच्छ । स्वप्नावस्थावतो मत्तो निर्गच्छ । निर्गत्य च **अप** **क्राम** । देशान्तरं गन्तुं पादौ विक्षिप । दूरदेशं गच्छेत्यर्थः । अपक्रम्य च **परः** परस्ताद्विप्रकृष्टे देशे **चर** यथेच्छं वर्तस्व । अपि च **निर्ऋत्यै** पापदेवतायै **परः** परस्ताद्वर्तमानायै **आ** **चक्ष्व** । वयं न बाधनीया इति प्रब्रूहि । **जीवतः** मम **मनः** **बहुधा** बहुप्रकारं भवति । भोक्तव्येषु बहुषु विषयेषूत्सुकं सत् वर्तते । अतस्तद्विनाशकं दुःस्वप्नदर्शनं नश्यत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,30 +113,30 @@ popular;; epic anuṣṭubh (525)
 Lord of the mind: i.e., sovereign of the mind when in the condition of sleep, the deity presiding overbad dreams; the miṇḍ.manifold: **Nirukta** 1.17: the mind is attentive to various objects, and is soon diverted fromany regard to evil dreams
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Go away, o Lord of Thought—stride away; move far away.  
 (When) far away, announce to Dissolution: “Of many kinds is the  
 thought of the living.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AVAUNT, thou Master of the mind Depart, and vanish far away.  
      Look on Destruction far from hence. The live man's mind is manifold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh fort, Herr des Sinnes, zieh fort, wandere in die Ferne! In der Ferne sage der Nirriti an: "Nach Vielem steht des Lebens Sinn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gehe hinweg, du Beherrscher des Sinnes [böser Traum, Krankheit, Schwindel oder dergleichen], ziehe von hinnen, geh in die Ferne; in der Ferne schaue auf die Nirriti hin, vielfach ist des Lebenden Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прочь пошел, о Повелитель мысли!  
 Ступай прочь! Отправляйся вдаль!  

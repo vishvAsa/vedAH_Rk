@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अप्सु꣡ चन्द्र꣡मा इव  
 सो꣡मश् चमू꣡षु द꣡दृशे  
 पि꣡बे꣡द् अस्य त्व꣡म् ईशिषे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पिब॑ । इत् । अ॒स्य॒ । त्वम् । ई॒शि॒षे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे इन्द्र **यः** गृहीतः **सोमः** **चमूषु** ग्रहेषु **ददृशे** अन्तर्दृश्यते । तत्र दृष्टान्तः । **चन्द्रमाइव** यथा चन्द्रमाः **अप्सु** अन्तरिक्षे निर्मलतया दृश्यते तद्वत् । यद्वा । अप्सूदकेषु चन्द्रमाः प्रतिबिम्बतया नानाविधो दृश्यते तथाष्टग्रहेष्वनेकरूपः सन् दृश्यते तमेतं सोमं पिबैव यतस्त्वमेवेशिषे खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,29 +102,29 @@ The vessels: i.e. it is thus seen in the eight grahās;
 Apsu = in the waters, antarikṣe, in thesky,nirmalatayā, the Soma being likened to the moon for its purity
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma that is seen in the cups, like the moon in the waters—  
 drink of it. You are master of it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Soma seen within themats, as in the flood the Moon is seen,  
      Drink thou, for thou art Lord thereof.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Soma, der in den Camugefäßen wie der Mond im Wasser sichtbar wird, von dem trinke doch, Indra; du hast das Anrecht darauf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma, der in Schalen blinkt, wie in der Wasserflut der Mond, Den trinke, dir gehört er an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡कः सुपर्णः꣡ स꣡ समुद्र꣡म् आ꣡ विवेश  
 स꣡ इदं꣡ वि꣡श्वम् भु꣡वनं वि꣡ चष्टे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡म् माता꣡ रेळ्हि स꣡ उ रेळ्हि मात꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तम् । पाके॑न । मन॑सा । अ॒प॒श्य॒म् । अन्ति॑तः । तम् । मा॒ता । रे॒ळ्हि॒ । सः । ऊं॒ इति॑ । रे॒ळ्हि॒ । मा॒तर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
@@ -154,7 +154,7 @@ popular
 **एकः** सर्वकार्येष्वसहायः **सुपर्णः** सुपतनो मध्यमस्थानो देवः **समुद्रम्** अन्तरिक्षम् **आ** **विवेश** आविशति । आविश्य च **स** **इदं** **विश्वं** सर्वं **भुवनं** भूतजातं **वि** **चष्टे** । अनुग्राह्यतयाभिपश्यति । **तम्** एवंरूपं देवं **पाकेन** परिपक्वेन **मनसा** **अन्तितः** समीपेऽहम् **अपश्यम्** अदर्शम् । किंच **माता** उदकानां निर्मात्री माध्यमिका वाक् तां **रेळिह** आस्वादयति । उपजीवनमात्रमत्र लक्ष्यते । **स** **उ** स खलु **मातरं** वाचं **रेळिह** लेढि। तामेवोपजीवति।  ‘ लिह आस्वादने । यद्वा । सुपर्णः पक्षवान्निराधारसंचार्येकः प्राणवायुः परमात्मा वा समुद्रम् । समुद्र््वन्ति आपोऽस्मादिति समुद्रमन्तरिक्षम् । यद्वा । समुद्द्रवणं सर्वतो गमनम्। तच्छीलं प्रपञ्चजातमाविष्टवान् ।  ‘ तत्सृष्ट्वा तदेवानुप्राविशत् ' ( तै. आ. ८, ६ ) इति श्रुतेः । वायुपक्षे वाय्वादिरूपेण आ विवेश । स इदं विश्वं सर्वं लोकं वि चष्टे विशेषेण ख्यापयति । सति हि प्राणे परमात्मनि वा जीवन्तः पुरुषा लोकं विख्यातं कुर्वन्ति । तं देवमुपासकोऽहं पाकेन परिपक्वज्ञानेन मनसा अन्तितः ॥ अन्तिकशब्दात्तसिः । अन्तिकस्य तसि कादिलोपो भवत्याद्युदात्तत्वं च ( पा. सू. ६. ४. १४९. ८) इति कादिलोपः ॥ अन्तिके समीपे स्वहृदयेऽपश्यम् । तं प्राणं माता वाक् रेळिह  । वाक् प्राणेऽन्तर्भवतीत्यर्थः । स्वापे हि वाग्व्यापारो न दृश्यते प्राणव्यापारस्तु दृश्यत इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -165,29 +165,29 @@ popular
 Mother: i.e., the **mādhyamikā** vāk, thesound of mid-heaven, the thunder, which is the mother or source of rain. The deity referred to as the bird whohas taken his station in the firmament is **Agni**, or else **Vāyu**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The eagle is (really just) one—it has entered the sea; it surveys all this  creation.  
 With my simple mind I saw it nearby: the mother licks it, and it licks the  mother.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One of these Birds hath passed into the sea of air: thence he looks round and views this universal world.  
      With simple heart I have beheld him from anear: his Mother kisses him and he returns her kiss.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine Vogel ist in den Ozean eingegangen, diese ganze Welt beschaut er. Ihn sah ich einfältigen Geistes in der Nähe: Die Mutter leckt ihn, er leckt die Mutter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der eine Adler [Agni als Sonne] ist ins Meer der Luft eingegangen, er beschaut diese ganze Welt; ihn habe ich aus der Nähe angeschaut mit schlichtem Sinne, ihn küsst die Mutter, und er küsst sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Один орел – он вошел в океан,  
 Он озирает весь этот мир.  

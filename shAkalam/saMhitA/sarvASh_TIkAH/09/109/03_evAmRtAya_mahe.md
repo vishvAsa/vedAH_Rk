@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡मृ꣡ताय महे꣡ क्ष꣡याय  
 स꣡ शुक्रो꣡ अर्ष दिव्यः꣡ पीयू꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 ए॒व । अ॒मृता॑य । म॒हे । क्षया॑य । सः । शु॒क्रः । अ॒र्ष॒ । दि॒व्यः । पी॒यूषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evāmṛtāya* ← *eva*
 - \[adverb\]
@@ -76,19 +76,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 हे सोम **शुक्रः** दीप्तः **दिव्यः** दिवि भवः **पीयूषः** देवैः पातव्यः **सः** त्वम् **अमृताय** अमरणाय **महे** महते **क्षयाय** निवासाय च **एव** **अर्ष** एवं पवस्व क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “So do you who are pure, divine, the beverage of all the gods, flow for immortality and a spacious abode.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus, for immortality and for great peaceful dwelling, rush gleaming as  the heavenly beestings.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -97,22 +97,22 @@ No particular signs of cohesion, beyond the mention of Soma’s divine recipient
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So flow thou on as bright celestial juice, flow to the vast, immortal dwelling-place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So fließe für den unsterblichen hohen Wohnsitz, du der Klare, der himmlische Rahm!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ström', o heller – zu hoher Herrschaft, ihm, der unsterblich, – du Milch des Himmels.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так теките для бессмертия, для великого жилья,  
 Светлые небесные сливки!

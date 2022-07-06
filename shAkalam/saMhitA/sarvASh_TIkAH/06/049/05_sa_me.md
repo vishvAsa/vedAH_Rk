@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मे व꣡पुश् छदयद् अश्वि꣡नोर् यो꣡  
 र꣡थो विरु꣡क्मान् म꣡नसा युजानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वर्ति꣡र् याथ꣡स् त꣡नयाय त्म꣡ने च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 येन॑ । न॒रा॒ । ना॒स॒त्या॒ । इ॒ष॒यध्यै॑ । व॒र्तिः । या॒थः । तन॑याय । त्मने॑ । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -125,43 +125,43 @@ genre M;; repeated line
 **अश्विनोः** स्वभूतः **सः** रथः **मे** मदीयं **वपुः** शरीरं **छदयत्** छादयतु । तेजसाच्छादयतु । **यो** **रथो** **विरुक्मान्** विरोचनवान् विशेषेण दीप्यमानः **मनसा** मनोव्यापारमात्रेण **युजानः** अश्वैः संप्रयुज्यमानो भवति । हे **नरा** नेतारौ हे **नासत्या** सत्यस्वभावौ सत्यस्य नेतारौ नासिकाप्रभवौ वाश्विनौ **येन** रथेन **वर्तिः** स्तोतृगृहं **तनयाय** पुत्राय **त्मने** आत्मने तत्पित्रे स्तोत्रे **च** **इषयध्यै** कामान् प्रापयितुं **याथः** गच्छथः स रथः इति पूर्वत्रान्वयः ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that splendid car of the **Aśvins**, which is harnessed at a thought, clothe my form (with radiance); that (car) with which, **Nāsatyās**, leaders of (rites), you go to the dwelling (of the worshipper) to fulfil his desires for his posterity and himself.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That seems to me a wonder—the chariot of the Aśvins, radiant, yoked  with mind,  
 by which you two, Nāsatyas, superior men, drive your circuit, for our  descendants and ourselves to prosper.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the tricky word positioning, with pāda-final yáḥ picking up pāda-init.
 
 sá, in a nominal rel. cl. continued in the next pāda. It may be that in a structurally simple hymn like this the poet seeks to vary the ways he introduces the listed divinities and their attributes and to jazz up the syntax.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That chariot of the Asvins, fair to look on, pleaseth me well, yoked with a thought, refulgent,  
      Wherewith, Nasatyas, Chiefs, ye seek our dwelling, to give new strength to us and to our children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Wunder deucht mir der glänzende Wagen der Asvin, der sich auf bloßen Gedanken anschirrt, auf dem ihr Herren Nasatya eure Rundfahrt macht, um unserer Nachkommenschaft und uns selbst Labung zu spenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Wagen der Açvinen dünkt mich herrlich, der leuchtende, durch Geistes Macht geschirrte, Auf dem, o treue Männer, ihr zur Stätte erscheint zu stärken uns und unsre Kinder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чудесным явлением показалась мне эта колесница  
 Ашвинов, ярко сверкающая, которая запрягается мыслью,  

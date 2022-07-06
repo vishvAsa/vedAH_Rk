@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ समि꣡धा य꣡ आ꣡हुती  
 यो꣡ वे꣡देन ददा꣡श म꣡र्तो अग्न꣡ये  
 यो꣡ न꣡मसा सुअध्वरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यः । नम॑सा । सु॒ऽअ॒ध्व॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -93,7 +93,7 @@ genre M
 इयं पाकयज्ञप्रशंसापरेति भगवताश्वलायनेन ब्राह्मणान्तरप्रदर्शनेन व्याख्याता (आश्व. गृ. १. १.४-५ )। **यः** **मर्तः** मनुष्यः **समिधा** पालाशादिनेध्मेन **अग्नये** अग्न्यर्थं **ददाश** परिचरति । **यः** च **आहुती** आहुत्या आज्यादिसाध्यया परिचरति । **यः** च **वेदेन** वेदाध्ययनेन ब्रह्मयज्ञेन परिचरति । **यः** च **स्वध्वरः** शोभनेनाध्वरेण ज्योतिष्टोमादिना युक्तः सन् **नमसा** अन्नेन चरुपुरोडाशादिनाग्नये ददाश अग्न्यर्थं परिचरति । तस्येदर्वन्त इत्युत्तरत्र संबन्धः ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,29 +104,29 @@ genre M
 With the Veda: vedena = vedādhyayanena, by studying the Veda;or, it may mean, a bundle of grass
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who by kindling, who by pouring, who by knowledge  performs pious service to Agni, and  
 who conducts good ceremonies with reverence,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mortal who hath ministered to Agni with oblation, fuel, ritual lore,  
      And reverence, skilled in sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Sterbliche mit Brennholz, wer mit Spende, wer mit Wissen dem Agni aufgewartet hat, wer unter Verbeugung das Opfer gut vollzieht,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Sterblicher mit Opferguss, mit Feuerflammen einsichtsvoll dem Agni dient, Mit Ehrerbietung Opfer weiht,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) смертный, который – дровами, который – возлиянием,  
 Который священным знанием почтил Агни,  

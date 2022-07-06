@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ न स्तो꣡मम् उ꣡प द्रव꣡द्  
 ध्यानो꣡° अ꣡श्वो न꣡ सो꣡तृभिः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्र क꣡ण्वेषु रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यम् । ते॒ । स्व॒धा॒ऽव॒न् । स्व॒दय॑न्ति । धे॒नवः॑ । इन्द्र॑ । कण्वे॑षु । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -110,7 +110,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,27 +121,27 @@ Sayana bhashya empty
 Stomam = **somam**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being spurred on like a horse by the pressers, (come) at a run to our praise, which the milk-cows and the gifts sweeten for you, autonomous Indra,  among the Kaṇvas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Phonological figure svadhāvan svadáyanti.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komme eilends von den Somapressern wie ein Roß angetrieben zu unserem Loblied, das dir, du Eigenartiger, die Milchkühe würzen, Indra, und die Opfergaben bei den Kanva´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm schnell zu unserm Soma her, gespornt von Pressern wie ein Ross, Den, schöpferischer Indra, Milch dir süss gemacht, und Gaben bei des Kanva Stamm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мчись, как конь, погоняемый выжимателями (сомы),  
 На наше восхваление,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वो यन्तु उदवाहा꣡सो अद्य꣡  
 वृष्टिं꣡ से꣡ वि꣡श्वे मरु꣡तो जुन꣡न्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एतं꣡ जुषध्वं कवयो युवानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । यः । अ॒ग्निः । म॒रु॒तः॒ । सम्ऽइ॑द्धः । ए॒तम् । जु॒ष॒ध्व॒म् । क॒व॒यः॒ । यु॒वा॒नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -126,43 +126,43 @@ genre M
 **ये** **विश्वे** व्याप्ताः **मरुतः** **वृष्टिं** **जुनन्ति** प्रेरयन्ति ते **उदवाहासः** उदकस्य वोढारो मरुतः **अद्य** इदानीं **वः** युष्मान् **आ** **यन्तु** आगच्छन्तु हे ऋत्विग्यजमानाः । अथ प्रत्यक्षवादः । हे **मरुतः** **यः** प्रसिद्धः **अयम्** **अग्निः** **समिद्धः** सम्यक् दीपितः **एतम्** अग्निं **जुषध्वं** सेवध्वं हे **कवयः** मेधाविनः हे **युवानः** नित्यतरुणाः सर्वत्र व्याप्ता वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the universal **Maruts**, who urge on the rain, come to you today laden with water; Maruts, who are wise and young, be plural ased by this fire which is kindled for you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the water-conveyors come here to you today, all the Maruts who  speed the rain.  
 This fire which is kindled here, o Maruts, enjoy it, you sage poets, youths.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The enclitic 2nd pl. vaḥ in pāda a must refer to the assemblage of ritual celebrants and its referent is not the same as the 2nd ps. ref. to the Maruts in the 2nd hemistich (voc. marutaḥ, impv. juṣadhvam, vocc. kavayo yuvānaḥ). As Jesse Lundquist observed, pāda d has only one accented syllable (the first word etám).
 
 The voc. phrase that ends it, kavayo yuvānaḥ, recurs in the final vs., 8c [=V.57.8c], but with voc. accent because it is in a string of such vocc.: kávayo yúvānaḥ. As noted ad V.57.8, that verse consists almost entirely of accented vocc., so the poet seems to be playing with extremes of syntactically driven accent here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This day may all your water-bringers, Maruts, they who impel the falling rain, approach us.  
      This fire, O Maruts, hath been duly kindled; let it find favour with you, youthful Sages.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu euch sollen heute die Wasserträger kommen, alle Marut, die den Regen herantreiben. Dieser Agni, der für euch entzündet ist, ihr Marut, an dem habet Gefallen, ihr jugendlichen Seher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Her mögen heut euch Wasser bringend kommen die Maruts alle, die den Regen treiben; O kostet hier den Agni, der entflammt ist, o Maruts nun, ihr jugendlichen Seher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть приедут к вам сегодня везущие воду (боги),  
 Все Маруты, которые пригоняют дождь!  

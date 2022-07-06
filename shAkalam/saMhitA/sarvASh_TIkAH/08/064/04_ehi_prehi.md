@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡हि प्रे꣡हि क्ष꣡यो दिवि꣡  
 आघो꣡षञ् चर्षणीना᳐꣡म्  
 ओ꣡भे꣡ पृणासि रो꣡दसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । उ॒भे इति॑ । पृ॒णा॒सि॒ । रोद॑सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **एहि** आगच्छ । तथा **प्रेहि** प्रगच्छ । दिवि द्युलोकात् । किम् । **क्षयः** निवासम् । किं कुर्वन् । **आघोषन्** शब्दं कुर्वन् । किमर्थम् । **चर्षणीनां** मनुष्याणामर्थाय । अथवा । हविः स्वीकृत्य प्रेहि सुखेन गच्छ । दिवमाघोषन् यजमानं स्तुवन् । **उभे** रोदसी द्यावापृथिव्यौ **आ** **पृणासि** आपूरयसि तेजसा वृष्ट्या वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,34 +93,34 @@ Come here: come here, and (having accepted the oblation) proceed gladly, praisin
 **Divi**= divam\]. \[You fill both heaven and earth: i.e. with splendour or with rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here! Go forth—your dwelling is in heaven—as you take heed of  the separate communities.  
 You fill both worlds.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take kṣáyo diví as a nominal sentence, parenthetically inserted, rather than interpreting kṣáyaḥ as a 2nd sg. verb form, as most others do. See Oldenberg on the two possibilities. Although it makes some complications for the syntax, I prefer the nominal interpretation both because kṣáya- is, as Oldenberg says, a favored noun in this group of hymns and because a verbal kṣáyaḥ should be a subjunctive and I do not see what the subjunctive would be conveying here. (Geldner tr. it as a straight indicative, which avoids the difficulty but contravenes the morphology.) Stating that Indra’s dwelling is in heaven makes clear why we command him to “go forth” in order to “come here.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, go thou forth, dwelling in heaven and listening to the prayers of men:  
      Thou fillest both the heavens and earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohlan, brich auf, der du im Himmel wohnst, auf die Völker horchend! Du füllst beide Welten aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geh hin, geh vor, im Himmel thron', aufmerkend auf der Menschen Wort; Du füllest Erd' und Himmel an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди, продвигайся вперед, живя на небе,  
 Прислушиваясь к народам!  

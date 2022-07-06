@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् ईम् पणे꣡र् अजति भो꣡जनम् मुषे꣡  
 वि꣡ दाशु꣡षे भजति सून꣡रं व꣡सु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ज꣡नो यो꣡ अस्य त꣡विषीम् अ꣡चुक्रुधत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दुः॒ऽगे । च॒न । ध्रि॒य॒ते॒ । विश्वः॑ । आ । पु॒रु । जनः॑ । यः । अ॒स्य॒ । तवि॑षीम् । अचु॑क्रुधत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -132,20 +132,20 @@ genre M
 **ईम्** अयमिन्द्रः **पणेः** वणिज इव लुब्धकस्यादातुः **भोजनं** धनमन्नं वा **मुषे** चोरयितुं **सम्** **अजति** सम्यक् गच्छति । गत्वा चादाय **दाशुषे** हविर्दात्रे यजमानाय **वि** **भजति** **सूनरं** शोभनमनुष्यं **वसु** धनम् । अयष्टुर्धनमाकृष्य यष्ट्रे प्रयच्छतीत्यर्थः । न केवलं वणिग्धनप्रदानमात्रं किंतु **पुरु** पुरुणि **दुर्गे** **चन** दुःखेन गन्तव्ये आपद्यपि **विश्वः** सर्वोऽपि दातृजनः **आ** **ध्रियते** आस्थाप्यते । **यः** **जनः** **अस्य** इन्द्रस्य **तविषीं** बलम् **अचुक्रुधत्** विहिताकरणादिना तस्य पणेरजतीति पूर्वशेषः । यद्वा । योऽस्य तविषीमचुक्रुधत् स सर्वोऽपि जनो दुर्गे चनाध्रियत इन्द्रेण ॥ चनेत्येकपदमध्येतृसंप्रदायप्राप्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He proceeds to plural nder the wealth of the (avaricious), and bestows the riches that are prized by man upon the donor (of the libation); every man is involved in great difficulty who provokes the might of **Indra** to wrath.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He drives together the sustenance of the niggard, to steal it, but he shares  out liberal goods to the pious.  
 In a (place) of no exit there is held firmly each and every people that has  antagonized his power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The lexeme sám √aj is used elsewhere of ‘driving together’ cattle (I.33.3); here the bhójanam of the niggard is presumably livestock. Though paṇéḥ here is used oppositionally to dāśúṣe in b (see Geldner’s n. 7ab), the word also summons up Indra’s opponents, the Paṇis, who stole his cows -- so stealing them back (muṣé) is only justice.
 
@@ -160,23 +160,23 @@ Thus by their interpr. durgá- is a desirable, fortress-like location for the of
 The published translation should be slightly altered to “Even in a (place) …,” though I’m not sure what sense ‘even’ adds -- perhaps that not only are the people confined but they are confined in a really nasty place.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He gathers up for plunder all the niggard’s gear: excellent wealth he gives to him who offers gifts.  
      Not even in wide stronghold may all the folk stand firm who have provoked to anger his surpassing might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er treibt den Wohlstand des Geizigen zusammen, um ihn zu rauben, und teilt dem Opferwilligen herrliches Gut zu. Nicht einmal in einer Bergfeste hält sich sogar ein ganzer Volksstamm lange, der seine Stärke gereizt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Geiz'gen Nahrung nimmt zum Raube er hinweg, und dem Verehrer theilt er aus das reiche Gut; An festverschlossnem Ort auch hält nicht lange Stand der Mann, der je des Indra Kraft zum Zorne reizt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он сгоняет в одно место имущество скупца, чтобы (его) разграбить,  
 Почитающему (его) он выделяет замечательное добро.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡श् चिद् आ꣡ वो अ꣡मवत्तरेभियो  
 विभ्व꣡ना चिद् आशु꣡अपस्तरेभियः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अग्ने꣡श् चिद् अर्च पितुकृ꣡त्तरेभियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 वा॒योः । चि॒त् । आ । सोम॑रभःऽतरेभ्यः । अ॒ग्नेः । चि॒त् । अ॒र्च॒ । पि॒तु॒कृत्ऽत॑रेभ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
@@ -104,7 +104,7 @@ genre M
 **दिवश्चित्** आदित्यादपि अमवत्तरेभ्यः अत्यन्तं बलवद्भ्यः **वः** युष्मभ्यम् **आ** **अर्च** अस्तौदध्वर्युः। यद्वा । हे अध्वर्य्वादयः वो यूयमुच्यमानलक्षणेभ्यो ग्रावभ्य आ सर्वतोऽर्च अर्चतेत्येवं प्रतिवाक्यं योज्यम्। **विभ्वना** **चित्** । विभ्वा सुधन्वनः पुत्रः । तेनापि आश्वपस्तरेभ्यः शीघ्रकर्मभ्य इत्यर्थः । विभ्वादीनां त्रयाणां चमसादिशीघ्रकर्म प्रसिद्धम् । वायोश्चित् वायोरपि **सोमरभस्तरेभ्यः** सोमाभिषवार्थेनात्यन्तेन वेगेन युक्तेभ्यः । वायोरपि ग्रावाणो वेगवन्तो भवन्ति सोमाभिषवार्थम् । **अग्नेश्चित्** अग्नेरपि **पितुकृत्तरेभ्यः** अत्यन्तमन्नसाधकेभ्यः । ईदृशेभ्यो ग्रावभ्यः प्रीणनाय यूयमर्चतेति॥ ॥८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,29 +115,29 @@ genre M
 Vibhvan: one of the **ṛbhus**, sons ofSudhanvan
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To you, more formidable even than Heaven, swifter working even than  Vibhvan,  
 more soma-frenzied even than Vāyu, better food-preparers even than  Agni—sing!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To you who are more mighty than the heavens themselves, who, finishing your task with more than Vibhvan's speed,  
      More rapidly than Vayu seize the Soma juice, better than Agni give us food, to you I sing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch will ich lobsingen, die gewaltiger sind als der Himmel, die rascher arbeiten als selbst Vibhvan, somagieriger als selbst Vayu, die mehr Speise bereiten als selbst Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch sing' ich, die ihr mächt'ger als der Himmel seid, die schneller ihr als Vischvan euer Werk betreibt, Zum Soma hindringt ungestümer als der Wind und mehr als Agni nahrungsreiche Speise schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вам я пою хвалу, более неистовым, чем само небо,  
 Быстрее работающим, чем сам Вибхван,  

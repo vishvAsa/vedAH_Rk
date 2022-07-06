@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नृव꣡द् वसो स꣡दम् इ꣡द् धेहि अस्मे꣡  
 भू꣡रि तोका꣡य त꣡नयाय पश्वः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ भद्रा꣡ सौश्रवसा꣡नि सन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पू॒र्वीः । इषः॑ । बृ॒ह॒तीः । आ॒रेऽअ॑घाः । अ॒स्मे इति॑ । भ॒द्रा । सौ॒श्र॒व॒सानि॑ । स॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nṛvad* ← *nṛvat*
 - \[noun\], accusative, singular, neuter
@@ -118,20 +118,20 @@ genre M
 **पुरूण्यग्ने'** इति त्रयोदशी उखासंभरणीयेष्टौ अग्नेः क्षत्रवतोऽनुवाक्या । सूत्रितं च--- पुरूण्यग्ने पुरुधा त्वाया स चित्र चित्रं चितयन्तमस्मे' (आश्व. श्रौ. ४. १ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Possessor of wealth, bestow upon us at all times opulence conjoined with dependants, and (grant) abundance of cattle to our sons and grandsons; may therefore be to us abundant food, satisfying our wishes, and free from blame; and may there be auspicious and reputable (means of subsistence).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O good one, manfully establish for us forever and for our progeny and  posterity abundance of livestock.  
 Let there be for us many lofty refreshments that keep evil at a distance  and auspicious things bringing good fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take nṛvát as an adverb, since this neut. is almost always so used. Geldner and Renou instead take it as a full adj. ‘consisting of men, accompanied by men’ modifying a gapped noun (Besitz, la richesse) and implicitly parallel to bhū́ri … paśváḥ “abundance of livestock.” I am not convinced, and curiously the passage Geldner cites in his n. 10a as support for the interpr. contains a nṛvát that must be adverbial. Still, I do have to admit that a few such expressions do exist outside of the neut. sg.: I.92.7 nrváta ̥ ḥ … vā́jān, IX.93.5 rayím ... nrvántam ̥ .
 
@@ -144,23 +144,23 @@ These two vss. play on the two words purú- ‘many’ and vásu- ‘good’ in 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vouchsafe us ever, as man needs, O Vasu, abundant wealth of kine for son and offspring.  
      Food noble, plenteous, far from sin and evil, he with us, and fair fame to make us happy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verleih uns, du Guter, immerdar Besitz von Mannen, viel Vieh für den leiblichen Samen, viele große Speisegenüsse, die das Übel fern halten. Guter Ruf soll uns zuteil werden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O guter, gib uns stets an Helden Fülle, und viel des Viehs für Kinder und für Enkel Und viele grosse und gesunde Tränke; uns seien schöne rühmenswerthe Güter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наделяй нас, о Васу, всегда (богатством,) состоящим из мужей,  
 Обильным скотом для детей (и) потомков,  

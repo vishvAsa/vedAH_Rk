@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अग्निः꣡ सप्त꣡मानुषः  
 श्रितो꣡ वि꣡श्वेषु सि꣡न्धुषु  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 तम् । आ । अ॒ग॒न्म॒ । त्रि॒ऽप॒स्त्यम् । म॒न्धा॒तुः । द॒स्यु॒हन्ऽत॑मम् । अ॒ग्निम् । य॒ज्ञेषु॑ । पू॒र्व्यम् । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -134,7 +134,7 @@ genre M;; repeated line
 **योऽग्निः** **सप्तमानुषः** **विश्वेषु** सर्वेषु **सिन्धुषु** नदीषु **श्रितः** **त्रिपस्त्यं** त्रिस्थानं **मन्धातुः** यौवनाश्वस्य मान्धातुः **दस्युहन्तमं** दस्यूनां हन्तारं **यज्ञेषु** **पूर्व्यं** मुख्यं **तम्** **अग्निं** वयम् **आगन्म** । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,14 +147,14 @@ Ministered by seven priests: yo **agniḥ** saptamānuṣaḥ = acting as seven 
 **Mandhātṛ** = **māndhātā**, the son of **Yuvanāśva**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, who, belonging to the seven human (divisions), is fixed amid all  the rivers—  
 to him have we come—the one with three dwellings, the best smasher of  Dasyus for Mandhātar, Agni foremost in the sacrifices.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “Seven” here is probably a loose indication of totality (so Oberlies, II.74) rather than a precise enumeration. The number may have been displaced from síndhuṣu: the rivers are generally seven.
 
@@ -165,23 +165,23 @@ the waters that in 10e are svásetu- ‘having/being their own bridges/dams’. 
 10de) thinks it alludes to the ritual sprinkling of the fireplaces with water, which may well be, but which does not explain the descriptor. In its other occurrence (X.61.16) svásetu- refers to a poet who crosses the waters (apáḥ … tarati) by having or making his own bridge. Are the waters providing Agni with a bridge for him to cross them? It may (or may not) be relevant that the waters/rivers are fairly prominent in the next hymn (VIII.40) to Indra and Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni who liveth in all streams, Lord of the Sevenfold Race of men,  
      Him dweller in three homes we seek, best slayer of the Dasytis for Mandhatar, first in sacrifice. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gott, der bei den sieben Menschenstämmen bekannt ist, in allen Flüssen steckt, ihm sind wir genaht, der drei Wohnstätten hat, der große Dasyutöter des Mandhatri, dem Agni, der bei den Opfern vorgeht. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der hold den sieben Völkern ist und der in allen Strömen weilt, Den Agni, der drei Sitze hat, des Frommen Feinde schnell erschlägt, bei Opfern vorgeht, bitten wir. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот Агни, что есть у семи родов человеческих,  
 Что покоится во всех реках, –  

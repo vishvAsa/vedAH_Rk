@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रा देहि शामुलि꣡यम्  
 ब्रह्म꣡भ्यो वि꣡ भजा व꣡सु  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आ꣡ जाया꣡ विशते प꣡तिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 कृ॒त्या । ए॒षा । प॒त्ऽवती॑ । भू॒त्वी । आ । जा॒या । वि॒श॒ते॒ । पति॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parā*
 - \[adverb\]
@@ -109,36 +109,36 @@ popular;; epic anuṣṭubh (380)
 **शामुल्यम्** । शामलमित्यर्थः । शमलं शरीरं मलम् । शरीरावच्छन्नस्य मलस्य धारकं वस्त्रं **परा** **देहि** परात्यज । धृतप्रायश्चित्तार्थं **ब्रह्मभ्यः** ब्राह्मणेभ्यः **वसु** धनं **वि** **भज** प्रयच्छेत्यर्थः । किमर्थं वधूवासः परित्याग इति चेत् उच्यते । **एषा** **कृत्या** **पद्वती** पदवती सती **जाया** **भूत्वी** भूत्वा **पतिं** **विशते** । कृत्यारूपवासःप्रवेशात् कृत्या जाया भूत्वा विशत इत्युपचर्यते । अतस्तत्परित्यागे कृत्यैव त्यक्ता भवतीत्यर्थः । यदि वधूवासः स्वयं निधत्ते तदैवं भवतीति वधूवासःसंस्पर्शनं निन्दायुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Put away the garment soiled by the body; give wealth to the **Brāhmaṇas**; this **Kṛtyā** having becomeendowed with feet, enters the husband's heart as his wife.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hand over the stained garment; to the brahmins parcel out the goods. She herself has become walking witchcraft: the wife enters her  
 husband.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give thou the woollen robe away: deal treasure to the Brahman priests.  
      This female fiend hath got her feet, and as a wife attends her lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib das befleckte Gewand weg, an die Brahmanen verteile Gut! Dieser Zauber, der Füße bekommen hat, macht sich als Gattin an den Gatten heran.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib hinweg das wollene Hemde; den Priestern theile Geschenk aus; diese Hexe hat sich davon gemacht und ist als Weib zu ihrem Mann gegangen (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отдай (брачная) одежду!  
 Одели добром брахманов!  

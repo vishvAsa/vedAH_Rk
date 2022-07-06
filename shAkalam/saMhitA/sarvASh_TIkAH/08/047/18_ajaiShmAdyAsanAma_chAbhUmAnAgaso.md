@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡जैष्माद्या꣡सनाम च  
 अ꣡भूमा꣡नागसो वय꣡म्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -36,7 +36,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 उषः॑ । यस्मा॑त् । दुः॒ऽस्वप्न्या॑त् । अभै॑ष्म । अप॑ । तत् । उ॒च्छ॒तु॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ajaiṣmādyāsanāma* ← *ajaiṣma* ← *ji*
 - \[verb\], plural, Athematic s aor. (Ind.)
@@ -135,36 +135,36 @@ popular;; epic anuṣṭubh (525);; repeated line
 **वयं** त्रिताः अद्य अजैष्म जयेम । **असनाम** **च** संभजेम च सुस्वप्नं सुखं वा । **अनागसः** अपापाः **अभूम** भवेम । हे **उषः** **यस्मात्** दुष्वप्न्यात् **अभैष्म** भीताः स्म **तत्** पापम् **अप** **उच्छतु** अपगच्छतु ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we be today victorious, and obtain (happiness); may we be free from evil; Uṣas, may that ill dreamdepart, of which we were afraid; your aids are void of harm, your aids are true aids.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have conquered today and we have won; we have become free  of blame.  
 O Dawn, the bad dream which we have feared, let (dawn) dawn it away. – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now have we conquered and obtained, and from our trespasses are free.  
      Shine thou away the evil dream, O Dawn, whereof we are afraid. Yours are incomparable aids, and good the succour they afford.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben heute gesiegt und gewonnen, wir sind der Sünde ledig geworden. O Usas, der böse Traum, vor dem wir Furcht bekommen haben, der soll mit deinem Lichte dahinschwinden! - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir haben jetzt gesiegt, erlangt, von Sünden sind wir jetzt befreit, o Morgenroth, den bösen Traum, der uns erschreckt hat, schaff hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы победиди сегодня и мы выиграли:  
 Мы стали безгрешными.  

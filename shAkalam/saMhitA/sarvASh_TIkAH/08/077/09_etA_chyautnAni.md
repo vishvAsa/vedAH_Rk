@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ च्यौत्ना꣡नि ते कृता꣡  
 व꣡र्षिष्ठानि प꣡रीणसा  
 हृदा꣡ वीडु꣡ अधारयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 हृ॒दा । वी॒ळु । अ॒धा॒र॒यः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
@@ -83,7 +83,7 @@ genre M
 हे इन्द्र **ते** त्वया **एता** एतानि पुरतः सर्वैर्दृश्यमानानि **वर्षिष्ठानि** अतिशयेन प्रवृद्धानि **परीणसा** परितो नतानि अत एव **च्यौत्नानि** इति भावः । भूमेः कीलवद्धारणाय **कृता** कृतानि । पर्वतास्त्वया कृता इत्यर्थः । या यानि 'हृदा बुद्ध्या **वीळु** स्थिराणि **अधारयः** । बुद्ध्या कर्तव्यानीति यान्यधारयः तानीमानीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,29 +94,29 @@ genre M
 Efforts:cyautnāni = balāni, powers, energies; here, the mountains, as the supporters or stays of the earth, bhūmehkīla badhadhāraṇāni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These highest exploits performed by you in profusion  
 you held fast with your whole heart.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By thee these exploits were achieved, the mightiest deeds, abundantly:  
      Firm in thy heart thou settest them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese höchsten Großtaten, die vollzählig von dir angetan sind, hast du im Herzen fest beschlossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 All diese höchsten Thaten hast in reicher Fülle du vollbracht, Das Feste schützest du voll Lust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти высшие подвиги,  
 Целиком совершенные тобой,  

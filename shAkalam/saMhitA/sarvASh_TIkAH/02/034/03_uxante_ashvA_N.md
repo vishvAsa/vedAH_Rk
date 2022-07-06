@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उक्ष꣡न्ते अ꣡श्वाँ अ꣡तियाँ इवाजि꣡षु  
 नद꣡स्य क꣡र्णैस् तुरयन्त आशु꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पृक्षं꣡ याथ पृ꣡षतीभिः समन्यवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 हिर॑ण्यऽशिप्राः । म॒रु॒तः॒ । दवि॑ध्वतः । पृ॒क्षम् । या॒थ॒ । पृष॑तीभिः । स॒ऽम॒न्य॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ukṣante* ← *ukṣ*
 - \[verb\], plural, Present indikative
@@ -107,7 +107,7 @@ genre M
 मरुतः अश्वान् व्याप्तान् लोकान् उक्षन्तेसिञ्चन्ति अशूव्याप्तौ औणादिकः क्वन्प्रत्ययः आजिषुसङ्- ग्रामेषु अत्यानिव सततगामिनस्तुरगान् यथाखेदापनोदाय उदकैःसिञ्चन्ति तद्वत् अपिच तेमरुतः आशुभिः शीघ्रगमनैरश्वैः नदस्व शब्दवतोमेघस्यकर्णैः कृतैर्मध्यप्रदेशैः तुरयन्ते वर्षणार्थंवृष्ट्युत्पाद- नाय त्वरितङ्गच्छन्ति तुरत्वरणे शेषःप्रत्यक्षकृतः हेहिरण्यशिप्राः शिप्रं शिरस्त्राणं सुवर्णमयशिरस्त्रा- णाः समन्यवः समान्मनस्काः समानक्रोधावा हेमरुतः दविध्वतः महीरुहादिकङ्कम्पयन्तोयूयं धूञ् कं- पनेइत्यस्माद्दाधर्त्यादावेतद्रूपन्निपात्यते पृपतीभिः युष्मद्रथेयोजिताभिः शेतबिन्द्वङ्किताभिः मृगीभिः वडवाभिर्वा पृक्षं अन्ननामैतत् हविर्लक्षणान्नवन्तंयजमानंअर्शाआदित्वादच् याथगच्छथ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,7 +118,7 @@ genre M
 With swift horses on the skirts: nadasya karṇaisturayanta āśubhiḥ = liṭ, they hasten with quick ears of the sound; horses are implied; the ears signify the middle parts of that which emits sound, i.e. the cloud; golden-helmeted: hiraṇyaśipraḥ: **śipra** = the nose, or the lower law; here explained as śirastrāṇa = a head-guard, a helmet
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They sprinkle their horses, like steeds at contests. With [=at the impetus  of] the “ears” of the reed(-whip) they speed with the swift ones.  
 You of the golden lips, Maruts, constantly setting (them [=lips])  
@@ -126,7 +126,7 @@ aquiver—you drive to fortifying nourishment with your dappled
 mares, o you of equal spirit.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My rendering of nadásya kárṇaiḥ “with the ‘ears’ of the reed(-whip)” follows Pischel’s sugg. (Ved. Stud. I.191; see Geldner’s n. 3bc and Oldenberg) that nadá- is here ‘reed’ (cf. I.32.8) (beside naḍá- ‘id.’) rather than ‘roarer’ and that it refers to a whip or riding crop of some sort. I suggest that the “ears” would be some part of the whip, perhaps knots on the whiplashes or the like. Pischel’s idea has been generally rejected (though Oberlies [Relig. II.247] seems to accept it); see esp. Oldenberg’s negative remarks. But the alternative notion, that the Maruts are directing their horses by the ears of a(nother? side?) horse makes no sense to me: how would such direction work? And although Oldenberg explicitly states that the number is not an issue, referring to plural (not dual) ears of a single horse (or even several horses, since pairs of body parts generally are referred to in the dual even when several individuals are in question) seems problematic to me.
 
@@ -156,23 +156,23 @@ The first words of each hemistich in this series of vss. echo each other: 1a úp
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They drip like horses in the racings of swift steeds; with the stream's rapid cars they hasten on their way.  
      Maruts with helms of gold, ye who make all things shake, con e with your spotted deer, one-minded, to our food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie benetzen ihre Rosse wie die Rennpferde im Wettlauf; sie überholen sich gegenseitig mit den raschen Ohren des Hengstes. Ihr Marut mit goldenen Zahnreihen fahret kräftig, schüttelnd, mit euren gefleckten Antilopen, ihr Einmütige!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Ross' im Wettlauf salben ihre Renner sie und eilen mit der Wolke schnellen Fittigen; Mit goldnen Helmen, Marut's ihr Erschütterer, kommt gleichen Muths zum Opfer mit den Hirschen ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они обливают (своих) коней, как скакунов на состязаниях.  
 Они набирают скорость со (своими) конями, (правящими) с помощью ушей жеребца,  

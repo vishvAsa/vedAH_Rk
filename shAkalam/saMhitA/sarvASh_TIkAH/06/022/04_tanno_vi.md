@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् नो वि꣡ वोचो य꣡दि ते पुरा꣡ चिज्  
 जरिता꣡र आनशुः꣡ सुम्न꣡म् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡रुहूत पुरूवसो ऽसुरघ्नः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 कः । ते॒ । भा॒गः । किम् । वयः॑ । दु॒ध्र॒ । खि॒द्वः॒ । पुरु॑ऽहूत । पु॒रु॒व॒सो॒ इति॑ पुरुऽवसो । अ॒सु॒र॒ऽघ्नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -141,20 +141,20 @@ genre M
 हे **इन्द्र** **यदि** **ते** तव **पुरा** **चित्** पूर्वस्मिन् काले **जरितारः** स्तोतारः **सुम्नं** सुखम् **आनशुः** **तत** तत्सुखं **नः** अस्माकं **वि** **वोचः** विब्रूहि । **दुध्र** दुर्धर हे **खिद्वः** शत्रूणां खेदयितर्हे पुरुहूत हे **पुरूवसो** इन्द्र **असुरघ्नः** असुराणां हन्तुः **ते** तव यज्ञेषु **कः** **भागः** क्लृप्तः । **वयः** हविर्लक्षणमन्नं **किं** क्लृप्तम् । यदि केचित् चिरंतना: पूर्वकालेऽपि त्वत्तः सकाशात् सुखं लेभिरे तर्ह्यहमपि तत् सुखं लप्स्ये इति विचार्य सुखप्राप्तिविलम्बो ममासोढव्यो भवेदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “If, **Indra**, your worshippers have formerly obtained felicity, confer that also upon us; irresistible Indra, subduer of foes, invoked of many, abounding in wealth, what is the portion, what the offering (due) to you who are the slayer of the **asuras**?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Will you declare this to us—whether ever before singers have obtained  your favor, Indra?  
 What is your portion? What is the vital energy that belongs to a  smasher of (rival) lords, you headstrong hammer-head, invoked by  many, bringing many goods?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although there is no overt mark, I take initial tán no ví vocaḥ as a question (contra Geldner), matching the overt questions in cd and introducing the indirect question in the yádi clause; see also prchántī in the next vs. and the questions in the previous hymn, VI.21 3-4, 6).
 
@@ -167,23 +167,23 @@ The voc. khidvaḥ, presumably to a -vant-stem *khídvant- (AiG II.2.896, or, le
 I follow W. E. Hale (Ásura-, 65) in taking asura- in asurahán- as referring to human ‘lords’ who lead forces inimical to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tell thou us this, if at thy hand aforetime the earlier singers have obtained good fortune,  
      What is thy share and portion, Strong Subduer, Asura-slayer, rich, invoked of many?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das sage uns bestimmt, ob auch schon vordem die Sänger deine Gunst erlangt haben, Indra? Was ist dein Anteil, was deine Kraftspeise des Asuratöters, du hartnäckiger Abzwacker, Vielgerufener, Schätzereicher?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das künde uns, wenn je zuvor die Sänger, o Indra, deine Huld und Gunst erlangten, Was deine Gab' und Kraft ist, wilder Dränger, Asurentödter, vielgerufner, reicher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поведай нам о том: может, еще раньше твоей  
 Милости достигли певцы, о Индра?  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्री꣡ य꣡च् छता꣡ महिषा꣡णाम् अ꣡घो मा꣡स्  
 त्री꣡ स꣡रांसि मघ꣡वा सोमिया꣡पाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡रम् इ꣡न्द्राय य꣡द् अ꣡हिं जघा꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 का॒रम् । न । विश्वे॑ । अ॒ह्व॒न्त॒ । दे॒वाः । भर॑म् । इन्द्रा॑य । यत् । अहि॑म् । ज॒घान॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
@@ -128,7 +128,7 @@ genre M
 हेइन्द्र त्वं यद्यदा त्री त्रयाणांशता शतसङ्ख्याकानाम्महिषाणाम्पशूनाम्माः मांसानि अघःभक्षितवानसि घसेरत्तेर्वारूपं यदाच मघवाधनवांस्त्वं सोम्या सोममयानि त्री त्रीणि सरांसि पात्राणि अपाः पीतवानसि यद्यदाइन्द्रोहिंवृत्रं जघान हतवान् तदाविश्वेसर्वेदेवाः भरं सोमपानादिनापूर्णं इन्द्रायेन्द्रं युद्धार्थं अह्वन्त आह्वयन्त तत्रदृष्टान्तः-कारन्न स्वामिनःकर्मकरमिव तद्वत् ॥ ८ ॥ उशनसःस्तोमेउशनायत् सहस्यैरितिमरुत्वतीयेसूक्तमुखीया सूत्रितञ्च-उशनसःस्तोमे नगरगीर्णमिवत्मानम्मन्यमानोयजे तोशनाय -त्सहस्यैरयातमिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,14 +139,14 @@ genre M
 When he had slain Ahi: or perhaps yad ahim jaghāna, that he should kill Ahi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you the bounteous devoured the flesh of three hundred buffaloes  and drank three somian lakes,  
 all the gods called “Carry (the day)!” to Indra as (a gambler calls)  
 “Game!,” when he smashed the serpent.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Grassmann and Geldner [/Witzel Gotō] take both ághaḥ and ápāḥ as 3rd sg. Since ághas belongs to the root pres. to √ghas, either 2nd or 3rd sg. is grammatically possible. But for ápāḥ to be 3rd sg., an s-aor. stem ápās- has to be posited, for which there is no other support save for a med. pāsta in a mā́-prohibitive in the AV (XII.3.43). Nevertheless, Narten does set up such a stem (Sig.Aor. 168). I see no reason to do so; the presence of nom. sg. maghávā, adduced as evidence by Narten, is not sufficient, since nom. sg.
 
@@ -157,23 +157,23 @@ jaghā́na in 8d, but this is hardly unprecedented -- and note that it returns a
 I follow Geldner in taking both kārám and bháram as the direct speech expression of a victory cry. The former is appropriate to gaming contexts, while the latter is at home in battles. Our ahvanta … bháram has a compositional equivalent bhára-hūti-, for which see comm. ad I.129.2; for kārám √kṛ, see I.131.5. It may be convenient to assemble here some passages containing both bhára- and kārá- (or derivatives): I.l12.1 yā́bhir [ūtíbhiḥ] bháre kārám áṃśāya jínvathaḥ; VIII.66.1 (likewise an Indra hymn): (índram ... ūtáye/ ....../) huvé bháram ná kāríṇam; IX.16.5 mahé bhárāya kāríṇaḥ; IX.14.1 kāráṃ bíbhrat puruspṛ́ham. See also Wackernagel KlSch. 340ff.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou three hundred buffaloes' flesh hadst eaten, and drunk, as Maghavan, three lakes of Soma,  
      All the Gods raised as 'twere a shout of triumph to Indra praise because he slew the Dragon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als er das Fleisch von dreihundert Büffeln gegessen, als der Gabenreiche drei Seen voll Soma getrunken hatte, da riefen die Götter dem Indra "Sieg" zu, wie man "Gewinn" zuruft, als er den Drachen erschlagen hatte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als der dreihundert Büffel Fleisch du assest, drei Seen Soma's, mächtiger, du austrankst, Da riefen Heil dem Indra alle Götter, wie Siegsgesang, da er erschlug die Schlange.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда он, щедрый, сьел мясо трехсот буйволов  
 (И) выпил три озера, полных сомы,  

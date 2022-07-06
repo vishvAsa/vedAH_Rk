@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡जीते प꣡रि वृङ्धि नो  
 अ꣡श्मा भवतु नस् तनूः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡दितिः श꣡र्म यछतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 सोमः॑ । अधि॑ । ब्र॒वी॒तु॒ । नः॒ । अदि॑तिः । शर्म॑ । य॒च्छ॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛjīte* ← *ṛjīti*
 - \[noun\], vocative, singular, masculine
@@ -105,41 +105,41 @@ popular;; epic anuṣṭubh (525)
 **ऋजीते** । ऋजु गच्छतीति ऋजीतिः इषुः। हे इषो **नः** अस्मान् **परि** **वृङ्धि** परितो वर्धय '। **नः** अस्माकं **तनूः** शरीरम् **अश्मा** **भवतु** । अश्मवदभेद्या दृढा भवतु । किंच **नः** अस्मभ्यं **सोमो** **अधि** **ब्रवीतु** पक्षपातेन ब्रवीतु । **अदितिः** अपि **शर्म** सुखं **यच्छतु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Straight-flying (arrow), defend us; may our bodies be stone; may **Soma** speak to us encouragement; may **Aditi** grant us success.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You (arrow, though) of straight course, avoid us. Let our body become  a rock.  
 Let Soma speak on our behalf; let Aditi provide us shelter.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 śárma yachatu at the end of d responds to śárma yaṃsan ending the previous vs., though the vss. are in different meters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Avoid us thou whose flight is straight, and let our bodies be as stone.  
      May Soma kindly speak to us, and Aditi protect us well.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du gradaus fliegender Pfeil verschone uns. Wie Stein sei unser Leib, Soma soll uns segnen, Aditi Schutz gewähren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O glühender Pfeil verschone uns, ein Fels sei unser Körper, ermunternd spreche uns Soma zu und Aditi reiche uns Schutz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О летящая прямо (стрела), обойди нас!  
 Камнем пусть станет наше тело!  

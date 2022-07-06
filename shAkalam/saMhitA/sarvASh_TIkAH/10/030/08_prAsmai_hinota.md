@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रा꣡स्मै हिनोत म꣡धुमन्तम् ऊर्मिं꣡  
 ग꣡र्भो यो꣡ वः सिन्धवो म꣡ध्व उ꣡त्सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡पो रेवतीः शृणुता꣡ ह꣡वम् मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 घृ॒तऽपृ॑ष्ठम् । ईड्य॑म् । अ॒ध्व॒रेषु॑ । आपः॑ । रे॒व॒तीः॒ । शृ॒णु॒त । हव॑म् । मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prāsmai* ← *pra*
 - \[adverb\]
@@ -125,37 +125,37 @@ genre M
 “प्र **हिनोत** प्रहिणुत । प्रगमयत । कीदृशम् । **अध्वरेषु** यज्ञेषु **घृतपृष्ठं** घृतमाज्यं पृष्ठे यस्य तम् । पश्चाद्घृतपातिनमित्यर्थः । **ईड्यं** स्तुत्यम्।  किंच हे **आपः** यूयं **रेवतीः** रेवत्यः अस्मभ्यं यानि धनानि दातव्यानि तैर्धनवत्यः **मे** मदीयं **हवम्** आह्वानं **शृणुत** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Send forth, rivers, the sweet-flavoured beverage to him who is your germ, a well of the sweet (**Soma**),the Soma which is mixed with butter adorable at sacrifices; hear, opulent waters my invocation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Propel to him the honeyed wave, which is your embryo, o rivers, and is a  fountain of honey—  
 (the wave) with ghee on its back, worthy of invocation at the  
 ceremonies. Rich waters, hear my call.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send forth to him the meath-rich wave, O Rivers, which is your offspring and a well of sweetness,  
      Oil-balmed, to be implored at sacrifices. Ye wealthy Waters, hear mine invocation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für ihn sendet die süße Welle, die Schmalz auf dem Rücken trägt, die bei den Opfern herzurufende. Ihr reichen Gewässer, erhöret meinen Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergiesset ihm die honigsüsse Welle, o Ströme, eure Frucht, des Methes Quelle, Die Butter trägt, bei Opfern hoch zu preisen; ihr reichen Wasser, höret auf mein Rufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пригоните ему волну, богатую медом,  
 Которая зародыш ваш, о реки, источник меда,  

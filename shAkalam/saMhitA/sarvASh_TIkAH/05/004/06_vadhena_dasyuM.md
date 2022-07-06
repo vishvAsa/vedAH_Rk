@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वधे꣡न द꣡स्युम् प्र꣡ हि꣡ चात꣡यस्व  
 व꣡यः कृण्वान꣡स् तनु꣡वे सुवा꣡यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡ ऽग्ने° पाहि नृतम वा꣡जे अस्मा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पिप॑र्षि । यत् । स॒ह॒सः॒ । पु॒त्र॒ । दे॒वान् । सः । अ॒ग्ने॒ । पा॒हि॒ । नृ॒ऽत॒म॒ । वाजे॑ । अ॒स्मान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vadhena* ← *vadha*
 - \[noun\], instrumental, singular, masculine
@@ -135,7 +135,7 @@ genre M
 हे अग्ने **वधेन** आयुधेन **दस्युम्** उपक्षपयितारं **प्र** **हि** **चातयस्व** प्रणाशय । हि इति पूरणः । **वयः** **कृण्वानः** कुर्वाणः **तन्वे** शरीराय **स्वायै** स्वीयाय । अथवा स्वायै तन्वे यजमानादिरूपाय पुत्राय वयोऽन्नं कुर्वाणः । **यत्** यस्मात् **सहसस्पुत्र** अग्ने **देवान्** **पिपर्षि** तर्पयसि। हे **नृतम** नेतृतम **अग्ने** **सः** त्वं **वाजे** संग्रामे **अस्मान्** **पाहि** रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,34 +146,34 @@ genre M
 Appropriating the sustenance of your person n: **vayaḥ** kṛṇvānas tanve śvāyai: **tanu** = **putra**, a son; or **yajamāna**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your weapon send the Dasyu into hiding, while creating vigor for  your own body,  
 and thus protect us when the prize is at stake, o Agni, best of men, since  you bring the gods safely across, o child of strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive thou away the Dasyu with thy weapon. As, gaining vital power for thine own body,  
      O Son of Strength, the Gods thou satisfiest, so in fight save us, most heroic Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Drive away the Dasyu with thy weapon, creating strength for thy own body. When thou bringest the gods across (to us), O son of strength, then, O manliest Agni, protect us in (our striving for) gain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vertreibe darum mit der Waffe den Dasyu, deinem eigenen Leibe Stärke zulegend. Da du, Sohn der Kraft, den Göttern heraushilfst, so schütze, o Agni, auch uns im Wettstreit, du Mannhaftester!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit deiner Keule treibe weg den Dämon, dem eignen Leibe frische Kraft verschaffend; Wenn, Sohn der Kraft, die Götter du herbeifährst, so schirm uns dann, o stärkster Held im Kampfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Смертельным оружием прогони дасью,  
 Создавая своему телу жизненную силу!  

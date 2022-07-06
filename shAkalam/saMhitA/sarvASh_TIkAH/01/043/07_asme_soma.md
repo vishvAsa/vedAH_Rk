@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ सोम श्रि꣡यम् अ꣡धि  
 नि꣡ धेहि शत꣡स्य नॄणा꣡म्+  
 म꣡हि श्र꣡वस् तुविनृम्ण꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 महि॑ । श्रवः॑ । तु॒वि॒ऽनृ॒म्णम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], locative, plural
@@ -90,36 +90,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **सोम** देव **नृणां** पुरुषाणां **शतस्य** पर्याप्तां **श्रियम्** **अस्मे** अस्मासु **अधि** **नि** **धेहि** आधिक्येन स्थापय । तथा **महि** महत् **तुविनृम्णं** प्रभूतबलयुक्तं **श्रवः** अन्नम् अधि नि धेहि ॥ अस्मे ।  ‘ सुपां सुलुक्' इति सप्तम्याः शेआदेशः । नृणाम् ।' नृ च ' ( पा. सू. ६. ४. ६ ) इति दीर्घप्रतिषेधः ।  ‘ नामन्यतरस्याम्' इति नाम उदात्तत्वम्। महीत्यादयो गताः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, grant us prosperity more than (sufficient for) a hundred men, and much strength-engendering food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Upon us, Soma, set down the glory of a hundred men,  
 great, powerfully manly fame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, set thou upon us the glory of a hundred men,  
      The great renown of mighty chiefs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Leg auf uns, o Soma, die Herrlichkeit von hundert Männern, großen Ruhm, reich an Mannesmut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Leg' auf uns von hundert Männern Glück und Herrlichkeit, o Soma, Hohen Ruhm voll Männerkräften.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Сома, вложи в нас  
 Великолепие тысячи мужей,  

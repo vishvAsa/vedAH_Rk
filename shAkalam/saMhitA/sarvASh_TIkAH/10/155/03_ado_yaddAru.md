@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अदो꣡ य꣡द् दा꣡रु प्ल꣡वते  
 सि꣡न्धोः पारे꣡ अपूरुष꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ते꣡न गछ परस्तर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 तत् । आ । र॒भ॒स्व॒ । दु॒र्ह॒नो॒ इति॑ दुःऽहनो । तेन॑ । ग॒च्छ॒ । प॒रः॒ऽत॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ado* ← *adaḥ* ← *adas*
 - \[noun\], nominative, singular, neuter
@@ -104,7 +104,7 @@ popular;; epic anuṣṭubh (292)
 च तेन दारुणा परस्तरमतिशयेन तरणीयं ब्रह्मणस्पतिना प्रेरिता सती द्वीपान्तरं गच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,30 +115,30 @@ popular;; epic anuṣṭubh (292)
 Or, the wooden body of the deity called **Puruṣottama** (**Viṣṇu**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That piece of wood over there that floats to the farther shore of the river  with no man at the helm,  
 grab hold of that, you with your evil jaws: with it go in the farther  
 distance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yon log that floats without a man to guide it on the river's edge,-  
      Seize it, thou thing with hideous jaws, and go thou far away thereon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Holz, das dort ohne einen Mann am jenseitigen Ufer des Stroms schwimmt, das erfasse, mit böser Kinnlade du! Mit dem gehe du weiter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Floss, was in dem Flusse dort entblösst von Menschen drüben schwimmt, Das packe an, o bissige, in weite Ferne geh mit dem.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (То) дерево, что плавает вон там,  
 У того берега реки, без человека,  

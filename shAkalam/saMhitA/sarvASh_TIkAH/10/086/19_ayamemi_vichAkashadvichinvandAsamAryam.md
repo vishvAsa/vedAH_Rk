@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् एमि विचा꣡कशद्  
 विचिन्व꣡न् दा꣡सम् आ꣡रियम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 पिबा॑मि । पा॒क॒ऽसुत्व॑नः । अ॒भि । धीर॑म् । अ॒चा॒क॒श॒म् । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -101,7 +101,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 अथेन्द्रो ब्रवीति । **विचाकशत्** पश्यन् यजमानान् **दासम्** उपक्षपयितारमसुरम् **आर्यम्** अपि च **विचिन्वन्** पृथक्कुर्वन् **अयम्** अहमिन्द्रः **एमि** यज्ञं प्रति गच्छामि। यज्ञं गत्वा च **पाकसुत्वनः** । पचतीति पाकः । सुनोतीति सुत्वा । हविषां पक्तुः सोमस्याभिषोतुर्यजमानस्य पाकेन विपक्वेन मनसा सोमस्याभिषोतुर्वा यजमानस्य संबन्धिनं सोमं **पिबामि** । तथा **धीरं** धीमन्तं यजमानम् **अभि** **अचाकशम्** अभिपश्यामि । योऽहम् **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,30 +112,30 @@ popular;; epic anuṣṭubh (525);; repeated line
 Cf. Muir, **Sanskrit** Texts, vol. 2, p. 374
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Vr̥ṣākapi:] “Here I go earnestly looking, distinguishing between Dāsa  and Ārya.  
 (While) I drink (the offering) of the guileless presser, I kept looking for  the wise.”  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Distinguishing the Dasa and the Arya, viewing all, I go.  
      I look upon the wise, and drink the simple votary's Soma juice. Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich ziehe umher, Umschau haltend und zwischen Dasa und Arier scheidend. Nun trinke ich bei dem, der einen schlichten Trank braut. Nach einem Sachkundigen habe ich ausgeschaut. - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich hier gehe scharf blickend einher, Arier und Barbaren unterscheidend; ich trinke den Soma dessen, der mit redlichem Sinne ihn braut, und beschaue [mit Wohlgefallen] den verständigen. Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

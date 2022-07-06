@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् अ꣡त्र पित꣡रस् त꣡ आसन्  
 सप्त꣡ ऋ꣡षयो दौर्गहे꣡ बध्य꣡माने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रं न꣡ वृत्रतु꣡रम् अर्धदेव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ते । आ । अ॒य॒ज॒न्त॒ । त्र॒सद॑स्युम् । अ॒स्याः॒ । इन्द्र॑म् । न । वृ॒त्र॒ऽतुर॑म् । अ॒र्ध॒ऽदे॒वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -128,7 +128,7 @@ genre M
 पुरुकुत्सस्य महिषी दौर्गहे बन्धनस्थिते । पत्यावराजकं दृष्ट्वा राष्ट्रं पुत्रस्य लिप्सया ॥ यदृच्छया समायातान् सप्तर्षीन्पर्यपूजयत् । ते च प्रीताः पुनः प्रचुर्यजेन्द्रावरुणौ भृशम् ॥ सा चेन्द्रावरुणाविष्ट्वा त्रसदस्युमजीजनत् । इतिहासमिमं जानन्नृषिर्ब्रूते ऋचाविह॥ अथ **अस्माकमत्र** अस्मिन्नराजके देशेऽस्यां पृथिव्यां वा **पितरः** पालयितारः उत्पादकाः **ते** **आसन्** अभवन् । एते **सप्त** **ऋषयः** प्रसिद्धाः **दौर्गहे** दुर्गहस्य पुत्रे पुरुकुत्से **बध्यमाने** दृढं पाशैर्यस्मात् **अस्याः** अस्यै पुरुकुत्सान्यै **त्रसदस्युम्** **आयजन्त** प्रादुरिन्द्रावरुणयोरनुग्रहात। कीदृशं तम्। **वृत्रतुरं** वृत्रस्य शत्रोर्हन्तारम् **अर्धदेवं** देवानामर्धे समीपे वर्तमानम् । यद्वा । देवानामर्धभूतम् **इन्द्रं** **न** इन्द्रमिव स्थितं पुत्रं दत्तवन्तः।  ‘ यत्सर्वेषामर्धमिन्द्रः प्रति तस्मादिन्द्रो देवतानां भूयिष्ठभाक्तमः' (तै. सं. ५. ४. ८. ३) इति तैत्तिरीयकम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ genre M
 Trasadasyu: **Purukutsa**, son of Durgaha, being a prisoner, his queen propitiated the seven ṛṣis to obtain a son who might take his father's plural ce; they advised her to worship Indra and Varuṇa, in consequence of which Trasadasyu was born
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our forefathers, the Seven Seers, were here, when Daurgaha was  being bound.  
 For her [=Purukutsa’s wife] they won by their sacrifice Trasadasyu, who  overcomes obstacles like Indra (and) who is half a god.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Our fathers then were these, the Seven his, what time the son of Durgaha was captive.  
      For her they gained by sacrifice Trasadasyu, a demi-god, like Indra, conquering foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unsere Väter, die sieben Rishi´s, waren dabei, als Daurgaha zum Opfer angebunden wurde. Sie erbeteten für sie den Trasadsyu, einen Vritraüberwinder gleich Indra, den Halbgott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dort waren diese unsre Väter, die sieben Dichter bei des Durgaha gefangenem Sohne; sie verschafften durch Opfer diesem Weibe den Trasadasju, der wie Indra die Feinde bezwingt, den Halbgott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наши отцы были тут, те  
 Семеро риши, когда Даургаху привязывали (к жертвенному столбу).  

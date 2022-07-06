@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ देव देव꣡ताते पवस्व  
 महे꣡ सोम प्स꣡रसे देवपा꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृधि꣡ सुष्ठाने꣡ रो꣡दसी पुनानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 म॒हः । चि॒त् । हि । स्मसि॑ । हि॒ताः । स॒ऽम॒र्ये । कृ॒धि । सु॒ऽस्था॒ने । रोद॑सी॒ इति॑ । पु॒ना॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -126,20 +126,20 @@ genre M
 हेदेव द्योतमान स्तोतव्य वा हेसोम देवपानः देवैः पातव्यस्त्वं देवताते देवैस्तते वित ते यज्ञे महे महते प्सरसे भक्षणाय देवानाम्पानाय एव एवं पवस्व क्षर । ततोवयं हिताः त्वयाप्रेरिताः सन्तः समर्ये मरणधर्मरहिते सङ्ग्रामे महश्चित् महतोबलाधिकानपि शत्रून् स्मसिहि अभिभवेम खलु । किञ्च पुनानः पूयमानस्त्वं रोदसी द्यावापृथिव्यौ सुस्थाने अस्माकं शोभनावासस्थाने सत्यौ कृधि कुरु ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Soma**, who are the beverage of the gods, flow at the sacrifice for (their) abundant food; urged on (by you) may we overcome even mighty (foes) in battle; purified do you render heaven and earth happy abodes (for us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus, o god Soma, purify yourself for the conclave of gods, for their  great delight, as the gods’ drink,  
 for we are greatly driven at the encounter. Make the two world-halves  of good standing while you are being purified.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The summary evā́might be more emphatically rendered as “in just this way” or sim. The “conclave of the gods” (devátāte) returns from 19a. As Geldner points out, the whole hemistich is almost identical to IX.96.3, save for evā́in place of sá naḥ and devapā́naḥ for indrapā́naḥ.
 
@@ -157,23 +157,23 @@ The poet is named as Mṛḍīka Vāsiṣṭha, who is also the poet of X.150. I
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, God, for service of the Gods flow onward, flow, drink of Gods, for ample food, O Soma.  
      For we go forth to war against the mighty make heaven and earth well stablished by thy cleansing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So läutere dich, o Gott, für die Götterschaft zu hohem Genuß, als der Götter Getränk, o Soma, denn wir sind in großem Wettstreit begriffen. Setze beide Welten in guten Stand, indem du dich läuterst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So riesle hell, o Gott, der Schar der Götter zum grossen Schmaus, o Soma, gottgetrunken, Denn hoch sind wir geachtet bei dem Feste, mach, flammender, feststehend Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся так, о бог, для сонма богов,  
 Для великого праздника, (ты) – питье богов!  

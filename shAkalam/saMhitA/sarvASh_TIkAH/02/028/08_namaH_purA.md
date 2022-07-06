@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡मः पुरा꣡ ते वरुणोत꣡ नून꣡म्  
 उता꣡परं꣡ तुविजात ब्रवाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡प्रच्युतानि दूळभ व्रता꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वे इति॑ । हि । क॒म् । पर्व॑ते । न । श्रि॒तानि॑ । अप्र॑ऽच्युतानि । दुः॒ऽद॒भ॒ । व्र॒तानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
@@ -130,36 +130,36 @@ genre M
 हेवरुण पुरापूर्वस्मिन्काले तेतुभ्यन्नमः नमस्कारप्रतिपादकं नमइतिशब्दमवादिष्म उतअपिचनू नमद्यापिब्रवाम उतअपिच हे तुविजात बहुप्रदेशेषुप्रादुर्भूत वरुण अपरं आगामिन्यपिकालेनमः शब्दम्ब्रवाम उच्चारयाम क्स्मादितिचेदुच्यते—दूळभ दुर्दभ दम्भितुंहिंसितुमशक्य दुरोदाशनाशद- भध्येष्वितिरेफस्योत्वमुत्तरपदान्देष्टुत्वञ्च कमित्येतत्प दपूरणम् हियस्मात् त्वेत्वयिपर्वतेन शिलो- च्चयेइव अच्युतानि अन्यैः प्रच्यावयितुमशक्यानि व्रतानिकर्माणिविधरणानि श्रितानि आश्रितानि तस्मादित्यर्थः ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As we have offered adoration to you, **Varuṇa**, of old, in like manner as we offer it now, so may we offer it in future (to you), who are everywhere present; for in you, who are difficult of attainment, as in an (immoveable) mountain, all holy acts are assembled, and are not to be dissevered.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Before, Varuṇa, and also now, and in the future, we will speak our  homage to you, o you who are mighty-born,  
 for on you, as on a mountain, there rest immovable commandments, o  you who are difficult to deceive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O mighty Varuna, now and hereafter, even as of old, will we speak forth our worship.  
      For in thyself, invincible God, thy statutes ne’er to be moved are fixed as on a mountain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unsere Ehrfurcht haben wir dir früher ausgesprochen, o Varuna, und wollen sie jetzt und in Zukunft aussprechen, du Starkgearteter. Auf dich sind wie auf einen Fels unerschütterlich die Gesetze gegründet, du Untrügbarer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verehrung sprechen wir dir aus von jeher, so jetzt und künftig, Varuna, du starker; Auf dir ja ruhen, wie auf festem Felsen, untrüglicher, die ewigen Gesetze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поклонение тебе, о Варуна, (мы) прежде (выражали), и теперь,  
 И в будущем мы хотим его выразить, о рожденный силой!  

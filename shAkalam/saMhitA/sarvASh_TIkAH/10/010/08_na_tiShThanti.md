@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ तिष्ठन्ति न꣡ नि꣡ मिषन्ति एते꣡  
 देवा꣡नां स्प꣡श इह꣡ ये꣡ च꣡रन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡न वि꣡ वृह र꣡थियेव चक्रा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒न्येन॑ । मत् । आ॒ह॒नः॒ । या॒हि॒ । तूय॑म् । तेन॑ । वि । वृ॒हे॒व॒ । रथ्या॑ऽइव । च॒क्रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -137,7 +137,7 @@ popular
 यम्या प्रख्यातो यमः पुनराह । **इह** अस्मिँल्लोके **देवानां** संबन्धिनः **ये** **स्पशः** अहोरात्रादयश्चाराः **चरन्ति** सर्वेषां शुभाशुभलक्षणकर्मप्रत्यवेक्षणार्थं परिभ्रमन्ति **एते** चाराः क्षणमात्रमपि चरणव्यापाररहिताः **न** **तिष्ठन्ति** । **न** **नि** मिषन्ति मेषणं न कुर्वन्ति । शुभमशुभं वा यः करोति तं निरीक्षन्ते चेत्यर्थः । हे **आहनः** ममापहन्त्रि असह्यभाषणेन दुःखयित्रि त्वं **मत्** मत्तः **अन्येन** त्वत्सदृशेन सह **तूयं** क्षिप्रं **याहि** संगच्छ । गत्वा च **तेन** **वि** **वृह** धर्मार्थकामानुद्यच्छ । तत्र दृष्टान्तः । **रथ्येव** **चक्रा** । यथा रथावयवभूते चक्रे रथमुद्यच्छतस्तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ popular
 Destructress: i.e., causing unhappiness by your shameful conversation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yama:] They do not stand still; they do not blink—the spies of the  gods who roam about here.  
 With another than me, lubricious one, drive off straightaway; with him  “let ’er rip” like two chariot wheels.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They stand not still, they never close their eyelids, those sentinels of Gods who wander round us.  
      Not me-go quickly, wanton, with another, and hasten like a chariot wheel to meet him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jene stehen nie still, noch schließen sie die Augen, die als Späher der Götter hienieden umgehen. Mit einem anderen als mir geh alsbald, du Zudringliche, mit dem schiebe hin und her wie die Wagenräder!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nie stehen diese still noch schlummern je sie, die hier umwandern als der Götter Späher; Geh, lüsterne, zu einem andern eilig und tummle dich mit dem wie Wagenräder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не стоят (на месте), не смыкают глаз те,  
 Что бродят здесь как соглядатаи богов.  

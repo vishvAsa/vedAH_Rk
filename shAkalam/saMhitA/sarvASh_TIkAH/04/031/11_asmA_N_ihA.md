@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्माँ꣡ इहा꣡ वृणीषुव  
 सखिया꣡य सुअस्त꣡ये  
 महो꣡ राये꣡ दिवि꣡त्मते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 म॒हः । रा॒ये । दि॒वित्म॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
@@ -75,36 +75,36 @@ genre M
 हे इन्द्र त्वम् **इह** अस्मिन् यज्ञे **अस्मान्** यजमानान् **सख्याय** सखिभावाय **स्वस्तये** अविनाशाय च **महः** महते **दिवित्मते** दीप्तिमते **राये** धनाय च **वृणीष्व** संभजस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Select us, **Indra**, on this occasion, for your friendship, for (our) welfare, for vast and splendid riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Choose us here for comradeship, for well-being,  
 for great, heavenly wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou elect us this place for friendship and prosperity,  
      And great celestial opulence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Uns erwähle hier zur Freundschaft, zum Glück, zu großem, glanzvollen Besitz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns wähle zur Genossenschaft, uns hier zu schönem Wohlergehn, Zu glänzendem Besitz des Guts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нас здесь выбирай себе  
 Для дружбы, для счастья,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ अग्न꣡ये बृहते꣡ यज्ञि꣡याय  
 ऋत꣡स्य वृ꣡ष्णे अ꣡सुराय म꣡न्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गि꣡रम् भरे वृषभा꣡य प्रतीची꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 घृ॒तम् । न । य॒ज्ञे । आ॒स्ये॑ । सुऽपू॑तम् । गिर॑म् । भ॒रे॒ । वृ॒ष॒भाय॑ । प्र॒ती॒चीम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prāgnaye* ← *pra*
 - \[adverb\]
@@ -118,41 +118,41 @@ genre M
 **बृहते** सामर्थ्यातिशयेन महते **यज्ञियाय** यज्ञार्हाय **ऋतस्य** उदकस्य **वृष्णे** वर्षित्रे ॥ ऋतमित्युदकनामसु पाठात् । **असुराय** बलवते ॥ असेरौणादिक उरन्प्रत्ययः ॥ **वृषभाय** कामानां वर्षित्रे **अग्नये** **मन्म** ज्ञानसाधनं **प्रतीचीम्** अभिमुखीं **गिरं** स्तुतिरूपां वाचं **प्र** **भरे** प्रणयामि । कथमिव । **सुपूतं** सम्यक्संस्कृतम् **आस्ये** प्रहुतं **यज्ञे** **घृतं** **न** घृतमिव । आस्ये प्रहुतं घृतं यथा प्रीतिकरं भवति तथा प्रीतिकरीं स्तुतिमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer to the great, the adorable **Agni**, the rain of water, the vigorous, the showerer (of benefits), the present acceptable praise, like well-purified butter (poured) at sacrifices into his mouth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth to lofty Agni, worthy of the sacrifice, to the bull of truth, the lord,  do (I bring) my thought,  
 well purified in my mouth at the sacrifice like ghee (in Agni’s mouth);  I bring (forth) my song to be face-to-face with the bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 प्राग्नये॑ बृह॒ते य॒ज्ञिया॑य ऋ॒तस्य॒ वृष्णे॒ असु॑राय॒ मन्म॑ ।  
 घृ॒तं न य॒ज्ञ आ॒स्ये॒३॒॑ सुपू॑तं॒ गिरं॑ भरे वृष॒भाय॑ प्रती॒चीम् ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 To the mighty, sacrificial Agni, to the bull of Rita 1, the Asura, I bring this prayer and this song, which is turned towards him, to (him) the bull, as well-clarified ghrita (is poured) into his mouth at the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem hohen, opferwürdigen Agni, dem Leitstier der Wahrheit, dem Asura bringe ich ein Gedicht dar, wie das gutgeläuterte Schmalz beim Opfer in seinem Munde, eine Lobrede, die dem Bullen entgegenkommt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem hohen Agni, dem erhabnen Geiste, dem Stier des Opfers bring' ich mein Gebet dar, Wie Butter bring' ich in den Mund das Lied ihm, das schöne, reine, ihm dem Stier entgegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я приношу Агни высокому, достойному жертв,  
 Быку закона, Асуре, – молитву,  

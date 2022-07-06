@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ व꣡सूनि सं꣡गता  
 वि꣡श्वा च सोम सउ꣡भगा  
 सुदा꣡तु अ꣡परिह्वृता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सु॒ऽदातु॑ । अप॑रिऽह्वृता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -82,7 +82,7 @@ genre M
 हे इन्द्र **त्वे** त्वयि **वसूनि** धनान्यस्मदिष्टानि **संगता** संगतानि । तथा हे **सोम** सोमवन्निन्द्र त्वयि **विश्वा** सर्वाणि **सौभगा** सौभाग्यानि संगतानि । तथा **सुदातु** सुदानानि **अपरिह्वृता** अकुटिलानि । अतस्तानि कुर्विति भावः । यद्वा । इन्द्रः सोमं पीत्वा सोम इत्यभिहितः सोमश्रुतेः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,29 +93,29 @@ genre M
 Drinker of the Soma: i.e., Soma, here appliedl to **Indra**, as possessing it (somavān) or as identified with it afterdrinking it
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In you are goods united and all auspicious things, o Soma,  
 goods good for giving, not to go astray.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In thee all treasures are combined, Soma all blessed things in thee,  
      Uninjured, easy to bestow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei dir sind alle Schätze und alle Glücksgüter vereinigt, o Soma, die schön zu schenken, nie an den Unrechten kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dir, o Indra, sind vereint die Güter, alle Herrlichkeit, Vieltheilig, unbeschädiget.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

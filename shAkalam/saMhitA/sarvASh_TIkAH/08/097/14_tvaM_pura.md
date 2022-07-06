@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् पु꣡र इन्दर+ चिकि꣡द् एना  
 वि꣡ ओ꣡जसा शविष्ठ शक्र नाशय꣡ध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्या꣡वा रेजेते पृथिवी꣡ च भीषा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वत् । विश्वा॑नि । भुव॑नानि । व॒ज्रि॒न् । द्यावा॑ । रे॒जे॒ते॒ इति॑ । पृ॒थि॒वी इति॑ । च॒ । भी॒षा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -118,37 +118,37 @@ genre M
 हे शविष्ठ बलवत्तम अतएव हे शक्र शत्रुहननसमर्थ हे इन्द्र त्वं एना अन्वादेशे एतानि पुरः शम्बरस्य पुराणि ओजसास्वीयेनैवतेजसा विनाशयध्यै विनाशयितुं चिकित् ज्ञाताभवसि । नशेर्ण्यन्तात् शध्यैप्रत्ययाः । पुनरपि सामर्थ्यं प्रशंसति हे वज्रिन् वज्रिवन्निन्द्र विश्वानि सर्वाणि भुवनानि भूतजातानि त्वत् त्वत्तोभीत्या कम्पन्ते । तथा द्यावापृथिवी दिवोद्यावेति द्यावादेशः आद्युदात्तश्च पृथिवी ङीषन्तत्वे- नान्तोदात्तः देवताद्वन्द्वेचेत्युभयपदप्रकृतिस्वरत्वं विप्रकर्षस्तु छान्दसः । द्यावापृथिवीच भीषा त्वत्तोभीत्या रेजेते कम्पेते । अरेजेतांरोदसी- इतिनिगमः । सर्वेत्वदधीनाइत्यर्थः ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, mightiest **Śakra**, you know how to destroy those cities (of **Śambara**) by your strength at you allworlds tremble, thunderer-- heaven and earth (tremble) with fear.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Indra, perceive how to utterly destroy the strongholds with your  strength, most powerful, able one.  
 In fear of you, mace-bearer, do all the worlds and both heaven and  
 earth tremble.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou knowest well, O Sakra, thou Most Potent, with thy strength, Indra, to destroy these castles.  
      Before thee, Thunder-armed! all beings tremble: the heavens and earth before thee shake with terror,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, verstehst es, diese Burgen mit Gewalt zu zerstören, du Gewaltigster, Mächtiger. Vor dir zittern alle Welten, o Keulenträger, und Himmel und Erde aus Furcht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, o Indra, verstehst es, mit Kraft, o stärkster, mächtiger, diese Burgen zu zerstören; vor dir, o Blitzträger, erzittern alle Wesen, Himmel und Erde vor Furcht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, знаешь, как те крепости  
 С силой разорять, о мощнейший, о могучий!  

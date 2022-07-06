@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् ईरताम् अ꣡वर उ꣡त् प꣡रास  
 उ꣡न् मध्यमाः꣡ पित꣡रः सोमिया꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡ नो अवन्तु पित꣡रो ह꣡वेषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 असु॑म् । ये । ई॒युः । अ॒वृ॒काः । ऋ॒त॒ऽज्ञाः । ते । नः॒ । अ॒व॒न्तु॒ । पि॒तरः॑ । हवे॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -129,7 +129,7 @@ popular
 त्रिविधाः पितर उत्तमा मध्यमा अधमाश्चेति । यथाविधं श्रौतं कर्मानुष्ठाय पितृत्वं प्राप्ता उत्तमाः । स्मार्तकर्ममात्रपरा मध्यमाः । अत्रापि कैश्चित्संस्कारैर्विकला अधमाः। एतदेवाभिप्रेत्य • ये अग्निदग्धा ये अनग्निदग्धाः' इत्यादिमन्त्रः समाम्नातः । तेषु **अवरे** निकृष्टाः **उदीरताम्** उत्तमं हविः प्राप्नुवन्तु । **परासः** उत्तमाः **पितरः** **उत्** ईरताम् । मध्यमाः पितरश्च उत् ईरताम् । ते सर्वेऽप्यस्मद्विषये **सोम्यासः** सोम्या अनुग्रहपराः सन्तु । **ये** पितरः **अवृकाः** वृकवदरण्यश्ववदस्मासु हिंसामकुर्वन्तः **ऋतज्ञाः** अस्मदनुष्ठितं यज्ञं जानन्तः **असुम्** अस्मत्प्राणम् **ईयुः** रक्षितुं प्राप्ताः **ते** **पितरः** **हवेषु** अस्मदीयेष्वाह्वानेषु **नः** अस्मान् **अवन्तु** रक्षन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ Unlikewolves: avṛkāḥ = not wolves, i.e., not mischievous;
 Ṛtajñaḥ = knowing truth; or, grateful for what has beendone in their honour; asum ya īyuḥ = who have gone to life, or breath, asmatprāṇam rakṣitum prāptaḥ; or,identical with air, having assumed the form of the air
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the nearer ones rise up, up the further, up those in the middle—the  forefathers deserving of soma.  
 Those who have gone to (their next) life avoiding the wolf, knowing the  truth, let those forefathers help us at the invocations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY they ascend, the lowest, highest, midmost, the Fathers who deserve a share of Soma-  
      May they who have attained the life of spirits, gentle and righteous, aid us when we call them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen sich die näheren, die ferneren und die mittleren somawürdigen Väter aufmachen, die ungefährdet zum Leben eingegangen sind, des Rechten kundig. Diese Väter sollen uns bei den Anrufungen gewogen sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erheben mögen sich die ersten Väter, die letzten und die mittelsten, die frommen, Die ohne Leid ins Geisterreich gelangt sind, bei Festen sein uns hold die opferkund'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть поднимутся ближние, под(нимутся) дальние,  
 Под(нимутся) средние отцы, достойные Сомы!  

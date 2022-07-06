@@ -8,7 +8,7 @@ title = "+016"
 ‘प्र सम्राजम्' इति द्वादशर्चं चतुर्थं सूक्तमिरिम्बिठिनाम्नः काण्वस्यार्षं गायत्रमैन्द्रम् । अनुक्रम्यते हि-' प्र सम्राजं द्वादशेरिम्बिठिः' इति । अतिरात्रे द्वितीये पर्यायेऽच्छावाकशस्त्र एतत्सूक्तम् । सूत्रितं च- ‘ प्र सम्राजमुप क्रमस्वा भर' (आश्व. श्रौ. ६. ४ ) इति । महाव्रतेऽपि निष्केवल्य एतदादिके द्वे सूक्ते उपरितनस्यान्त्यं द्वृचं वर्जयित्वा । तथैव पञ्चमारण्यके सूत्रितं-- प्र सम्राजं चर्षणीनामिति सूक्ते उत्तरस्योत्तमे उद्धरति' (ऐ. आ. ५. २. ५) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 16 (636)  
 Indra  
@@ -18,7 +18,7 @@ This is, in some ways, a meta–praise hymn, that is, a hymn about praising Indr
 As for the content of the praise, it focuses on Indra’s power in warfare, where  separate peoples vie for his aid. Yet, despite the battle theme, the descriptions are  surprisingly devoid of violence, and it is Indra as maker of space (from constric tion, vs. 6) and light (from darkness, vs. 10) and as the verbal advocate for his clients  (vs. 5) who stands out.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

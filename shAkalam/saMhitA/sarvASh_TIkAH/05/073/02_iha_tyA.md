@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इह꣡ त्या꣡ पुरुभू꣡तमा  
 पुरू꣡ दं꣡सांसि बि꣡भ्रता  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 हुवे꣡ तुवि꣡ष्टमा भुजे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒र॒स्या । या॒मि॒ । अध्रि॑गू॒ इत्यध्रि॑ऽगू । हु॒वे । तु॒विःऽत॑मा । भु॒जे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iha*
 - \[adverb\]
@@ -91,37 +91,37 @@ genre M
 **इह** अस्मिन् यज्ञे **त्या** तौ **पुरुभूतमा** पुरूणां बहूनां यजमानानां भावयितृतमौ **पुरु** पुरूणि **दंसांसि** कर्माणि **बिभ्रता** धारयन्तौ **वरस्या** वरणीयौ **अध्रिगू** अन्यैः अधृतगमनकर्माणौ **यामि** उपागच्छामि । **तुविष्टमा** प्रभूततमौ **भुजे** भोगाय पालनाय वा **हुवे** आह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I approach you (to invite you) hither, you who are the encouragers of many; (who are) the achievers of many (great) exploits, most excellent and irresistible, I invoke you, who are most mighty, for protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here are these two who appear most often, bringing their many  
 wondrous powers.  
 With longing for space, I beseech the pair who are not poor. I call upon  the two most powerful ones to give enjoyment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These here, who show o'er widest space, bringing full many a wondrous act,  
      Resistless, lovingly I seek, I call the Mightiest to enjoy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hierher mögen die beiden gar Vielseitigen kommen, die viele Meisterkünste mit sich führen. Ich wende mich an die beiden Reichen als Bittsteller; ich rufe sie an, die am meisten zum Nutzen dienen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier diese vielerscheinenden, viel Wunder mit sich führenden; Die schnellen bitt' ich voll Begier, die stärksten lad' ich zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сюда (пусть приедут) эти двое лучше всех возникающих во многих местах,  
 Неся (с собой) многие чудесные силы!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे देवा꣡ अकृपन्त  
 समीच्यो꣡र् निष्प꣡तन्तियोः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पु꣡नर् आ꣡ वहताद् इ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 नास॑त्यौ । अ॒ब्रु॒व॒न् । दे॒वाः । पुनः॑ । आ । व॒ह॒ता॒त् । इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -94,35 +94,35 @@ popular;; epic anuṣṭubh (424)
 हे अश्विनौ युवाभ्यामग्निमन्थनकाले प्रेर्यमाणयोः **समीच्योः** परस्परेण संयुक्तयोररण्योः **निष्पतन्त्योः** विस्फुलिङ्गान् निर्गमयन्त्योः सत्योः **विश्वे** सर्व इन्द्रादयो **देवाः** **अकृपन्त** युवामस्तुवन् । किंच **देवाः** **नासत्यौ** अश्विनौ युवाम् **अब्रुवन्** अवोचन् । किमिति । **पुनरा** **वहतादिति** । पुनःपुनरीदृशानि जगत्स्थिति हेतुभूतानि कर्माणि युवामाभिमुख्येन स्थित्वावहतम् । यद्वा । युवाभ्यामुत्पाद्यमानः पुनश्चायमग्निरस्मदीयानि हवींष्यावहत्विति देवा नासत्यावब्रुवन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All the gods praised you as you were mutually associated, and caused (the sparks) to fly up; the godshave said to the two **Nāsatyās**, "let the fire again bear (us oblations)"\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All the gods yearned after the two joined (sticks?) as they flew away. The gods said to the Nāsatyas, “Bring (them) back again.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the united pair were rent asunder all the Gods complained.  
      The Gods to the Nasatyas cried, Bring these together once again.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Götter hatten nach dem wegfliegenden Paare Sehnsucht. Die Götter sprachen zu den Nasatya´s: Holet sie wieder her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter alle jammerten, als da das Weltenpaar zerstob; »Ihr Treuen« sprach die Götterschar, »o bringt sie wieder her zu uns.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все боги горевали,  
 Что улетели две обращенные друг к другу.  

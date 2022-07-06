@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तियं꣡ चित् प꣡र्वतं गिरिं꣡  
 शत꣡वन्तं सहस्रि꣡णम्  
 वि꣡ स्तोतृ꣡भ्यो रुरोजिथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि । स्तो॒तृऽभ्यः॑ । रु॒रो॒जि॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
@@ -75,7 +75,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र त्वं **त्यं** **चित्** तम् । चिदिति पूरणः । **पर्वतं** पर्ववन्तं **गिरिं** मेघम् । उभयोर्मेघनामत्वादेको योगरूढो द्रष्टव्यः । **शतवन्तं** शतोदकवन्तं तथा **सहस्रिणम्** अपरिमितवृष्टिं मेघं **स्तोतृभ्यः** अर्थाय **वि** **रुरोजिथ** विरुज वज्रेण ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,30 +90,30 @@ The gnarled cloud: **parvata** = cloud, mountain;
 Parvata = parvavat = having knots,gnarled
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This very mountain, this peak, which holds a hundred, a  
 thousand (cows),  
 did you shatter apart for your praisers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even that hill with rocky heights, with hundreds, thousands, held within.  
      Thou for thy worshippers brakest through.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast sogar jenen Bergfels, der hundert, tausend Rinder barg, für die Sänger erbrochen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Selbst jenen Berg, der hundertfach und tausendfach sich mächtig dehnt, Erbrächest für die Sänger du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ту самую гору-скалу,  
 (Таящую в себе) сотню, тысячу (коров),  

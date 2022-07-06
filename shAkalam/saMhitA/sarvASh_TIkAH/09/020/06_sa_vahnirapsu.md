@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ व꣡ह्निर् अप्सु꣡ दुष्ट꣡रो  
 मृज्य꣡मानो ग꣡भस्तियोः  
 सो꣡मश् चमू꣡षु सीदति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमः॑ । च॒मूषु॑ । सी॒द॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -80,41 +80,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सः** **सोमः** **वह्निः** वोढा यज्ञादेः **अप्सु** अन्तरिक्षे वर्तमानः **दुष्टरः** दुःखेनान्यैस्तरणीयः **मृज्यमानः** शोध्यमानः **गभस्त्योः** हस्तयोरेवंभूतः सन् सः **चमूषु** पात्रेषु **सीदति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, the bearer (of oblations), abiding in the waters of the firmament, difficult to be surpassed, being cleansed by our **hands** reposes in the vessels.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That draft-horse, difficult to overtake in the waters, being groomed in  (the priest’s) hands,  
 Soma, sits in the cups.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On apsú duṣṭáraḥ see comm. ad 16.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Soma, like a courser in the floods invincible, made clean  
      With hands, is resting in the jars.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Wagenfahrer, im Wasser nicht unterzukriegen, zwischen den Händen gereinigt, der Soma setzt sich in die Gefäße.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der unbesiegbar in der Flut, geläutert von, den Armen fährt, Setzt in die Schalen Soma sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот возница, непобедимый в водах,  
 Начищаясь между двух рук (жреца),  

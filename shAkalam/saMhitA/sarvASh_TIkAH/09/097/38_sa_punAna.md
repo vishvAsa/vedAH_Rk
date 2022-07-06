@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पुनान꣡ उ꣡प सू꣡रे न꣡ धा꣡ता  
 ओ꣡भे꣡ अप्रा रो꣡दसी वि꣡ ष꣡ आवः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ तू꣡ ध꣡नं कारि꣡णे न꣡ प्र꣡ यंसत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्रि॒या । चि॒त् । यस्य॑ । प्रि॒य॒सासः॑ । ऊ॒ती । सः । तु । धन॑म् । का॒रिणे॑ । न । प्र । यं॒स॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -142,20 +142,20 @@ genre M
 पुनानः पूयमानः ससोमः इन्द्रे उपगच्छति । तत्रदृष्टन्तः—सूरेन यथा सूर्ये धाता संवत्सरउपगच्छति । ससंवत्सरोविधातारम् । संवत्सरेणैवास्मैप्रजाःप्रजनयतीत्याम्नानात् । किञ्चोभेरोदसी द्यावापृथिव्यौ आप्राः स्वमहिम्ना आपूरयति । तथा ससोमः व्यावः स्व- तेजसा तमांसि विवृणोति । वृणोतेर्मन्त्रेघसेतिच्लेर्लुक् छन्दस्यपिदृश्यतेइत्यडागमः पूर्वपदा- दितिसइत्यस्यसांहितिकंषत्वम् । प्रिया षष्ठ्याआकारः प्रियस्य यस्यसोमस्य यद्वा प्रियाणि प्रयच्छतः यस्यसोमस्य प्रियसासः अत्यन्तं प्रियतमाधाराः ऊती रक्षणाय भवन्ति स तु क्षिप्रं अस्मभ्यं धनं प्रयंसत् प्रयच्छतु । यच्छतेर्लेटिसिप्यडागमः । तत्रदृष्टान्तः—कारिणेन यथा कारिणे च कृतकाय भृतिं प्रयच्छन्ति तद्वत् ॥ ३८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purified (**Soma**) approaches (**Indra**) as the year (approaches) the sun, he fills both heaven and earth (with his radiance), he opens (the darkness with his light); may he, the beloved (Soma), whose beloved (streams) are for (our) preservation, bestow upon us wealth like (wages given) to a labourer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, being purified close by, like the Placer of the Sun has filled both  world-halves, and he has disclosed them.  
 He with whose help the winners of dear things (win) dear things, he will  extend spoils as if to a victor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The interpr. of this vs. is fairly straightforward, except for the 2nd part of pāda a, sū́re ná dhā́tā. I have treated this simile at length In my Fs. Melchert article, “Sū́re Duhitár's Brother, the ‘Placer of the Sun’: Another Example of -e ←*-as in Rigvedic Phrasal Sandhi,” 2010. I will not repeat the disc. here but will summarize the conclusions. The major problem in this simile is what to do with the apparent loc. sū́re ‘in the sun’ (to sū́ra-; or possibly, but less likely, dat. to svàr); this has led to some outlandish and unpersuasive interpr. of the phrase. I argue that sū́re is actually the old gen. to svàr, from *sū́raz before voiced dental stop, as in the well-known sū́re duhitā́“daughter of the sun” in I.34.5. I start with an archaic formula *sū́re dhā́tā “placer of the sun,” with the two words separated here by the simile particle ná and the true interpr. obscured. The “placer of the sun” is most likely Indra, and Soma is being compared to him in his cosmogonic role: filling the two worlds and revealing them.
 
@@ -176,23 +176,23 @@ I do not see any signs of unity in this tṛca. All three vss. contain a partici
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cleansed near the Sun as 'twere he as Creator hath filled full heaven and earth, and hath disclosed them.  
      He by whose dear help men gain all their wishes shall yield the precious meed as to a victor.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd wie einer, der in sich in die Sonne legt, hat er beide Welten erfüllt; er hat sie aufgeschlossen, mit dessen Beistand sie gar Liebes gewinnen. Er möge doch uns Reichtum wie dem Sieger den Gewinn darreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, hell entflammt, der Sonne gleichsam spendend, hat Erd' und Himmel nun erfüllt, erschlossen; Er, dessen Hülfen Liebes liebreich spenden, er möge Schätze nun dem Sänger reichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь, как тот, кто кладет (что-нибудь) на солнце,  
 Он заполнил оба мира, он (их) раскрыл,  

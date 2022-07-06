@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ वध्व᳡श् चन्द्रं꣡ वहतुं꣡  
 य꣡क्ष्मा य꣡न्ति ज꣡नाद् अ꣡नु  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 न꣡यन्तु य꣡त आ꣡गताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 पुन॒रिति॑ । तान् । य॒ज्ञियाः॑ । दे॒वाः । नय॑न्तु । यतः॑ । आऽग॑ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -108,7 +108,7 @@ popular;; epic anuṣṭubh (380)
 **वध्वश्चन्द्रं** हिरण्यरूपं **वहतुं** **ये** यक्ष्माः व्याधयः **अनु** **यन्ति** प्राप्नुवन्ति **जनात्** अस्मद्विरोधिनः सकाशात् । यद्वा । जनाद्यमाख्यात् । **तान** **पुनः** **नयन्तु** प्रापयन्तु **यज्ञियाः** यज्ञार्हाः **देवाः** इन्द्रादयः । **यत** **आगताः** यस्मात्ते यक्ष्मा आगतास्तत्र तान्नयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,34 +119,34 @@ popular;; epic anuṣṭubh (380)
 From other people: from the person n who opposes us; or,from the person n called **Yama**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The diseases from the people that follow after the glittering wedding  procession of the bride,  
 those let the gods worthy of the sacrifice lead back again whence  they came.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Consumptions, from her people, which follow the bride's resplendent train,-  
      These let the Holy Gods again bear to the place from which they came.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The ailments, coming from her kin, That her bright wedding throng pursue, These may the holy gods drive back, Towards the place from which they came.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Krankheiten, welche dem glänzenden Brautzug der jungen Frau aus der Fremde folgen, die sollen die opferwürdigen Götter wieder dorthin führen, von wannen sie gekommen sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Krankheiten, welche von ihrem Stamme her dem glänzenden Zuge der Braut nachfolgen, die mögen die ehrwürdigen Götter wieder dahin zurückführen, von wo sie gekommen sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те болезни, которые (,исходя) от людей,  
 Следуют за сверкающей свадебной процессией невесты,  

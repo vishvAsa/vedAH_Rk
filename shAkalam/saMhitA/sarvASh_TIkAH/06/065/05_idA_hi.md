@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदा꣡ हि꣡ त · उषो अद्रिसानो  
 गोत्रा꣡ ग꣡वाम् अ꣡ङ्गिरसो गृण꣡न्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सत्या꣡ नॄणा꣡म्+ अभवद् देव꣡हूतिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि । अ॒र्केण॑ । बि॒भि॒दुः॒ । ब्रह्म॑णा । च॒ । स॒त्या । नृ॒णाम् । अ॒भ॒व॒त् । दे॒वऽहू॑तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idā*
 - \[adverb\]
@@ -132,20 +132,20 @@ genre M
 हे **उषो** **अद्रिसानो** आदृतसानो **ते** तव प्रसादात् **इदा** **हि** सद्यं एव **गवां** **गोत्रा** संघान् **अङ्गिरसो** **गृणन्ति** उत्सृजन्ति । तथा च निगमान्तरं - ' गवां गोत्रमुद सृजो यदङ्गिरः । (ऋ. सं. २.२३. १८) इति । **अर्केण** अर्चनीयेन **ब्रह्मणा** स्तोत्रेण **वि** **बिभिदुः** तमांसि विदारयन्ति च । **नृणां** नेतॄणां तेषामङ्गिरसां **देवहूतिः** देवविषया स्तुतिः **सत्या** सत्यफला **अभवत्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, Dawns, there is at presen wealh to give to your worshipper, to the man offering (oblations) to the sage repeating your praise; if the praises (are accepted), then bring to him who is like me such wealth as has been formerly bestowed (upon myself).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For right now the Aṅgirases are hymning the cowpens of the cows for  you, o Dawn, you who own the high backs of the mountains.  
 They have split (them) apart with their chant and sacred formulation.  The men’s invocation of the gods has come true.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This last vs. of the birth saga does not let up on obscurity, and my interpr.
 
@@ -172,23 +172,23 @@ For the repeated opening idā́(4a, 4b, 4c, 5a) see published introduction. The 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Dawn who standest on the mountain ridges, Angirases now praise thy stalls of cattle.  
      With prayer and holy hymn they burst them open: the heroes' calling on the Gods was fruitful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn zu dieser Stunde, o Usas, die du auf Bergeshöhen wohnst, preisen die Angiras deine Kuhherden. Sie spalteten den Fels mit Gesang und Gebetskraft; es erfüllte sich die Götteranrufung der Männer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt preisen, Uschas, die du thronst auf Bergen, die Angiras dir an der Kühe Ställe; Sie brachen sie mit Lied und mit Gebet auf, da ward der Männer Götteranruf wirksam.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь сейчас, о Ушас, пребывающая на вершине горы,  
 Ангирасы воспевают твои стада коров.  

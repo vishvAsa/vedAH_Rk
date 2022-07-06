@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ईं वृ꣡षाजनयत् ता꣡सु ग꣡र्भं  
 स꣡ ईं शि꣡शुर् धयति तं꣡ रिहन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्य꣡स्येवेह꣡ तनु꣡वा विवेष
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । अ॒पाम् । नपा॑त् । अन॑भिम्लातऽवर्णः । अ॒न्यस्य॑ऽइव । इ॒ह । त॒न्वा॑ । वि॒वे॒ष॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -146,7 +146,7 @@ genre M
 सईंसोयमपान्नपात् सञ्ज्ञकोदेवः वृषासेक्ताभूत्वातासुमेघस्थास्वप्सुगर्भमजनयत् स्वात्मानमेव गर्भरूपेणवर्षणार्थङ्कृतवानित्यर्थः गर्भोभूत्वाचसईंसोयम्माध्यमिकोवैद्युतोग्निः तासांशिशुः पुत्रः सन् धयतिमेघस्थास्ताःपिबति अबिन्धनोह्यसौतम्पुत्रस्थानीयमद्भिः आपश्चरिहन्ति लिहआस्वा दने कपिलकादित्वाल्लत्वविकल्पः सोयमपान्नपात् वृष्ट्यासहभूमौनिपतितः अनभिम्लातवर्णः अभितोम्लातोम्लानः क्षीणोवर्णोयस्यतद्विपरीतोत्यर्थन्दीप्यमानःसन् इहास्मिन्लोकेअन्यस्येव इव शब्दोवधारणे अन्यस्यपार्थिवस्यैवाग्नेस्तन्वाशरीरेणकाष्ठेन्धनत्वलक्षणेनविवेष व्याप्तोबभूव विषॢ व्याप्तौ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -157,34 +157,34 @@ genre M
 Has descended to this earth: anyasya iva iha tanyā viveṣa, has entered here, verily, with the body of another; the substantive, fire, is understood; i.e. fire originally ethereal, has come upon earth as culinary and sacrificial fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As bull he begat the embryo in these (waters). As infant he sucks them;  they lick him.  
 The Child of the Waters, whose color never fades, has toiled here as if  with the body of another.454 II.36
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bull hath laid his own life-germ Within them. He sucks them as an infant, and they kiss him.  
      He, Son of Waters, of unfading colour, hadi entered here as in another's body.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 He, as a bull, in them that germ engendered; He, as their infant, sucks their breasts; they kiss him. He, Son of Waters, of unfading colour, Here works as with the body of another:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er erzeugte als der Bulle in ihnen die Leibesfrucht. Als Kind saugt er an ihnen; sie lecken ihn. Apam Napat von unverwelklicher Farbe wirkt hier gleichsam mit dem Körper eines anderen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sich zeugte selbst der Stier als Frucht in jenen, er saugt als Spross, es küssen ihn die Mütter; Der Sohn der Wasser, dessen Glanz nicht matt wird, vereinte sich mit eines andern Körper.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как бык он породил в них зародыша.  
 Как младенец он сосет (их). Они лижут его.  

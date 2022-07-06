@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समना꣡ तू꣡र्णिर् उ꣡प यासि यज्ञ꣡म्  
 आ꣡ ना꣡सतिया सखिया꣡य वक्षि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अश्वि꣡ना शूर ददतुर् मघा꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒साव्या॑म् । इ॒न्द्र॒ । धा॒र॒यः॒ । स॒हस्रा॑ । अ॒श्विना॑ । शू॒र॒ । द॒द॒तुः॒ । म॒घानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samanā*
 - \[adverb\]
@@ -116,37 +116,37 @@ genre M
 हे इन्द्र **समना** संग्रामे **तूर्णिः** त्वरमाणोऽपि **यज्ञम्** **उप** यासि उपगच्छसि । तदानीं **नासत्या** अश्विनौ **सख्याय** **वक्षि** वहसि । हे **इन्द्र** **वसाव्यां** वसुसमूहं **सहस्रा** सहस्रां बहुसंख्यां **धारयः** धारयस्यस्माकमर्थाय । हे **शूर** **अश्विना** अश्विनावपि तवानुचरौ **मघानि** धनानि **ददतुः** अस्मभ्यं प्रयच्छतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hastening in battle you approach the sacrifice; you bring the two **Nāsatyās** to friendship (with us);you, **Indra**, possess a heap of treasures, thousands (in numbers); the **Aśvins**, hero, gave us riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the same way—swiftly—you drive to the sacrifice; convey the Nāsatyas  hither for fellowship.  
 Indra, you made fast thousands in the wife of the good one  
 [=impregnated her?]; the Aśvins gave bounties, o champion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Speeding at once to sacrifice thou comest for friendship thou art bringing both Nasatyas.  
      Thou hadst a thousand treasures in possession. The Asvins, O thou Hero, gave thee riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Immer gleich eilig kommst du zum Opfer. Bringe die Nasatya´s mit zum Freundesbund! Erhalte, Indra, der Vasavi die Tausende: die Asvin haben Gaben geschenkt, o Held.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gehe eilend zu dem Opfer und führe zugleich die Nāsatja's zur Genossenschaft herbei; in deiner Schatzkammer bewahrst du tausend Schätze; die Açvinen haben dir, o Held, Geschenke gebracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одинаково быстро ты приходишь (всегда) на жертвоприношение.  
 Приведи для дружбы Насатьев!  

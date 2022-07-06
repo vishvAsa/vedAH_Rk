@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡भूतिया सहजा꣡ वज्र सायक  
 स꣡हो बिभर्षि अभिभूत उ꣡त्तरम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 महाधन꣡स्य पुरुहूत संसृ꣡जि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 क्रत्वा॑ । नः॒ । म॒न्यो॒ इति॑ । स॒ह । मे॒दी । ए॒धि॒ । म॒हा॒ऽध॒नस्य॑ । पु॒रु॒ऽहू॒त॒ । स॒म्ऽसृजि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ābhūtyā* ← *ābhūti*
 - \[noun\], instrumental, singular, feminine
@@ -125,36 +125,36 @@ popular
 हे **वज्र** वज्रवत्सारभूत हे **सायक** शत्रूणामन्तकर **अभिभूते** शत्रूणामभिभावुक मन्यो **आभूत्या** । आभूतिरभिभवः । तेन **सहजाः** सहैवोत्पन्नस्त्वं **उत्तरम्** उत्कृष्टतरं **सहः** बलं **बिभर्षि** धारयसि । हे **मन्यो** **क्रत्वा** कर्मणा **सह** **नः** अस्माकं **मेद्येधि** स्निग्धो भव । कुत्रेति तदुच्यते । **महाधनस्य** । संग्रामनामैतत् । संग्रामस्य **संसृजि** सर्गे । हे **पुरुहूत** बहुभिराहूतेति मन्युसंबोधनम्॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Manyu**), your destructive thunderbolt, the over-powerer (of foes), twin-born with victory, you possessexceeding strength; be favourable to us, Manyu, in deeds, you who are invoked by many in the shock of battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Born together with readiness, you mace, you missile, you bear highest  victorious might, o overwhelming one.  
 (Born?) together with your resolve, share the fat with us, Battle Fury, at  the pouring in of great spoils, o much-invoked one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Twin-born with power, destructive bolt of thunder, the highest conquering might is thine, Subduer!  
      Be friendly to its in thy spirit, Manyu, O Much-invoked, in shock of mighty battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem Erfolg zugleich geboren, du Indrakeule, Geschoß, besitzest du, Überlegener, höhere Übermacht. Sei mit deinem Rat als unser Gefährte dabei, o Manyu, bei dem Zusammenraffen großer Beute, du Vielgerufener!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entsandter Blitz! mit Tüchtigkeit geboren schon besitzest, übermächt'ger, du die höchste Kraft; Mit deiner Kraft, o Manju, sei Genosse uns, o vielgerufner, im Zusammenstoss der Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यं घे꣡त् ते꣡ ज꣡ना इमे꣡  
 वि꣡श्वाः सुक्षित꣡यः पृ꣡थक्  
 धासिं꣡ हिन्वन्ति अ꣡त्तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धा॒सिम् । हि॒न्व॒न्ति॒ । अत्त॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -96,35 +96,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **तुभ्यं** **घ** त्वदर्थमेव **ते** **इमे** मया दृश्यमानाः **जनाः** **विश्वाः** सर्वाः **सुक्षितयः** प्रजाश्च **धासिम्** अन्नं हविः **अत्तवे** अदनाय **पृथक्** **हिन्वन्ति** प्रेरयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All these people, the inhabitants (of the earth), offer severally to you (sacrificial) food for your eatingand enjoyment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To you do these peoples here, all the lovely settlements separately, impel the wellspring (of nourishment) to be eaten.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, all the people, all the folk who have good dwellings, each apart,  
      Send food for thee to eat thereof.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir bringen diese Leute, alle schönen Ansiedlungen einzeln schleunig Nahrung zum Essen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir senden diese Menschen hier, die angesessnen weit und breit, Die Nahrung zum Geniessen zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Именно для тебя вот эти люди,  
 Все прекрасные поселения по отдельности,  

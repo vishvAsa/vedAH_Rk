@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् ईरयथा मरुतः समुद्रतो꣡  
 यूयं꣡ वृष्टिं꣡ वर्षयथा पुरीषिणः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 न । वः॒ । द॒स्राः॒ । उप॑ । द॒स्य॒न्ति॒ । धे॒नवः॑ । शुभ॑म् । या॒ताम् । अनु॑ । रथाः॑ । अ॒वृ॒त्स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -118,36 +118,36 @@ genre M;; repeated line
 हे **मरुतः** **यूयं** **समुद्रतः** समुद्द्रवणसाधनादन्तरिक्षात् **उदीरयथ** प्रेरयथ **वृष्टिम्** । अयमेवार्थः पुनरुच्यते । हे **पुरीषिणः** । पृणतेः प्रीणातेर्वा पुरीषमुदकम् । हे तद्वन्तो यूयं वृष्टिं **वर्षयथ** । हे **दस्राः** दर्शनीयाः शत्रूणामुपक्षपयितारो वा **वः** युष्माकं **धेनवः** प्रीणयितारो मेघाः **न** **उप** **दस्यन्ति** न शुष्यन्ति ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You send (the rain), **Maruts**, from the firmament; charged with the waters you shower down the rain; destroyers of foes, your kine are never dry; may the cars of the quick-moving (Maruts) arrive for our good.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You raise (water) from the sea, o Maruts; you make the rain rain, you  overflowing ones.  
 Your milk-cows do not wear out, you wondrous ones. – As they drove  in beauty their chariots rolled along.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Maruts, from the Ocean ye uplift the rain, and fraught with vaporous moisture pour the torrents down.  
      Never, ye Wonder-Workers, are your Milch-kine dry. Their cars moved onward as they went to victory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Marut treibt vom Meere den Regen auf, ihr lasset ihn regnen, ihr Quellende. Nicht versiegen eure Milchkühe, ihr Meister. - Wenn sie im Prunkzug ausfahren, haben sich ihre Wagen angeschlossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Maruts, ihr erhebt euch aus dem Wolkenmeer; ihr lasst den Regen regnen, wasserreiche ihr, Und eure Kühe, herrliche, versiegen nie; es rollen eure Wagen, wenn zum Schmuck ihr geht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы поднимаете из океана (дождь), о Маруты.  
 Вы изливаете дождь, о обильные.  

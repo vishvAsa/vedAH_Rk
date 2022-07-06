@@ -8,7 +8,7 @@ title = "+051"
 ‘अध्वर्यो ' इति पञ्चर्चं सप्तविंशं सूक्तमाङ्गिरसस्योचथ्यस्यार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रम्यते-' अध्वर्यो ' इति । गतः सूक्तविनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 51 (763)  
 Soma Pavamāna  

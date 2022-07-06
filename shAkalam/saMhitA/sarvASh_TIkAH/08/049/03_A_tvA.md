@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा सुता꣡स इ꣡न्दवो  
 म꣡दा य꣡ इन्द्र गिर्वणः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 पृण꣡न्ति शूर रा꣡धसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 आपः॑ । न । व॒ज्रि॒न् । अनु॑ । ओ॒क्य॑म् । सरः॑ । पृ॒णन्ति॑ । शू॒र॒ । राध॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -112,35 +112,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The expressed exhilarate **Soma**, O **Indra**, lover of hymns, fills you for bounty, O hero, O thunderer, asthe waters flow to their accusative tomed lake.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The pressed drops that are your exhilarating drinks, o Indra who longs  for songs,  
 fill you, o mace-bearer, like waters a pond, following the accustomed  way, for your generosity, o champion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 mádā yé in b appears to be a pseudo-izafe construction, specifying índavaḥ, as Geldner takes it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich füllen die ausgepreßten Säfte, was deine Rauschtränke sind, lobbegehrender Indra, nach alter Gewohnheit wie Wasser einen See an zur Freigebigkeit, tapferer Keulenträger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Indra, füllen Tränke an wie Wasserflut den Heimat-See, Gepresst berauschend dich, o blitzbewehrter Held, zum Schenken dich, o Liederfreund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наполняют тебя выжатые соки сомы,  
 Которые - (твои) пьянящие напитки, о Индра, любящий хвалебные песни,  

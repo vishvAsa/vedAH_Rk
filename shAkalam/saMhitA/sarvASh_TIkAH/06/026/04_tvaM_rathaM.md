@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ र꣡थम् प्र꣡ भरो योध꣡म् ऋष्व꣡म्  
 आ꣡वो यु꣡ध्यन्तं वृषभं꣡ द꣡शद्युम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवं꣡ तु꣡जिं गृण꣡न्तम् इन्द्र तूतोः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । तुग्र॑म् । वे॒त॒सवे॑ । सचा॑ । अ॒ह॒न् । त्वम् । तुजि॑म् । गृ॒णन्त॑म् । इ॒न्द्र॒ । तू॒तो॒रिति॑ तूतोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -123,7 +123,7 @@ genre M
 हे इन्द्र **त्वं** वृषभसंज्ञकाय राज्ञे **योधं** युद्धसाधनम् **ऋष्वं** महान्तं **रथं** **प्र** **भरः** प्रापयः । अपि च **युध्यन्तं** शत्रुभिः सह युद्धं कुर्वन्तं **दशद्युं** दश दिवसा युध्यतो यस्य गताः तं **वृषभम्** एतदाख्यं राजानम् **आवः** युद्धादपीपलः । किंच **त्वं** **वेतसवे** एतान्नाम्ने राज्ञे **सचा** सहायभूतः सन् **तुग्रम्** असुरम् **अहन्** हतवानसि । वेतसुर्नाम कश्चिदसुरः । अत्र तस्मादन्योऽसावुच्यते । यद्वा । वेतसव इति तृतीयार्थे चतुर्थी । वेतसुनासुरेण सहितं तुग्रं हतवानसि । तथा च मन्त्रं .....यते--- ‘ अहं पितेव वेतसूँरभिष्टये तुग्रं कुत्साय स्मदिभं च रन्धयम्' (ऋ. सं. १०. ४९. ३) इति । हे **इन्द्र** **त्वं** **गृणन्तं** त्वां स्तुवन्तं **तुजिम्** एतदाख्यं राजानं **तूतोः** अवर्धयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ genre M
 Vetasave sacā: vetasa (in RV. 10.4.4) is the name of an **asura**; may be, it is the name of a **rājā**, of whom **Indra** is the ally against Tugra, whom he has slain for the sake of Vetasa; Vṛṣabha is also said to be the name of a prince
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You brought forward the towering battle-chariot, and helped the bull  Daśadyu as he did battle.  
 You struck down Tugra for Vetasu, in partnership. You, Indra,  
 strengthened Tuji, the singer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in 3c, Hoffmann (184) reads sácā han in c rather than Pp. sácā ahan, which seems perfectly plausible. As for the unequivocal imperfect ā́vaḥ in b, he suggests that this may not have been the original form, citing the almost identical I.33.14b prā́vo yúdhyantaṃ vṛṣabháṃ dáśadyum. If the original reading was *prā́vaḥ, it could contain the injunctive: prá avaḥ. However, it is unclear to me how the corruption would have arisen, particularly because in the next vs. (5) the d pāda begins prā́vaḥ. Moreover the pāda preceding I.33.14b begins with ā́vaḥ, a clear imperfect matching the one here. Hoffmann’s other observation -- that this pres. stem has no clear injunctive forms (and only one possible one, ávaḥ in I.121.12, which more likely belongs to the s-stem noun; see comm. ad loc.) -- seems more apposite.
 
@@ -164,23 +164,23 @@ These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The lofty battle-car thou broughtest forward; thou holpest Dasadyu the strong when fighting.  
      Along with Vetasu thou slewest Tugra, and madest Tuji strong, who praised thee, Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du brachtest den Wagen voran, den reckenhaften Kämpfer; du standest dem kämpfenden Stiere Dasadyu bei. Du schlugest den Tugra dem Vetasu gesellt; du, Indra, stärkest den lobpreisenden Tuji.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du fördertest den hohen Wagenkämpfer, du halfst dem Stier, dem kämpfenden Daçadju, Dem Vetasu zu Lieb' erschlugst du Tugra, du, Indra, halfst zu Macht dem Sänger Tudschi.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты дал пронестись вперед колеснице, замечательному борцу,  
 Помог борющемуся быку Дашадью.  

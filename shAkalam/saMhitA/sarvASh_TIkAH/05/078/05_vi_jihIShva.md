@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ जिहीष्व वनस्पते  
 यो꣡निः सू꣡ष्यन्तिया इव  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सप्त꣡वध्रिं च मुञ्चतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 श्रु॒तम् । मे॒ । अ॒श्वि॒ना॒ । हव॑म् । स॒प्तऽव॑ध्रिम् । च॒ । मु॒ञ्च॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -99,7 +99,7 @@ popular;; epic anuṣṭubh (424)
 हे **वनस्पते** वनस्पतिविकाररूपे पेटिके **वि** **जिहीष्व** विगच्छ । विवृता भव । **सूष्यन्त्याइव** प्रसवोन्मुख्याः स्त्रियाः **योनिः** इव भगो यथा विव्रियते तथा त्वमपि विवृता भव । तदर्थं हे **अश्विना** अश्विनौ **मे** **हवम्** आह्वानं **श्रुतं** शृणुतम् । श्रुत्वा च **सप्तवध्रिं** **च** मामृषिं **मुञ्चतं** मोचयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,28 +110,28 @@ popular;; epic anuṣṭubh (424)
 Ancient chroniclers, purāvidaḥ tell this story: the sons of the brothers of Saptavadhri beign determined to prevent his having intercourse with his wife **shut** him up every night in a lare basket, which they locked and sealed, letting him out in the morning; in this dilemma the ṛṣi prayed to the Aśvins, who came to his succour; and enabled him to get out of his cage during the night, he returning to it at day-break; in this verse he first addresses the basket, peṭkā, as a form of Vanaspati, lord of forests, and then invokes the Aśvins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O tree, spread apart, like the womb of a woman about to give birth. Hear my call, Aśvins, and free Saptavadhri.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tree, part asunder like the side of her who bringeth forth a child.  
      Ye Asvins, listen to my call: loose Saptavadhri from his bonds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tu dich auf, o Baum, wie der Schoß der Kreisenden! Höret, ihr Asvin, meinen Ruf und befreiet den Saptavadhri!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Thu auseinander dich, o Block, gleichwie der Schooss der kreissenden; O Ritter, höret meinen Ruf, den Saptavadhri machet los.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разверзнись, о дерево,  
 Словно лоно собирающейся родить!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रव꣡त् ते अग्ने ज꣡निमा पितूयतः꣡  
 साची꣡व वि꣡श्वा भु꣡वना नि꣡ ऋञ्जसे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुर꣡श् चरन्ति पशुपा꣡ इव त्म꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्र । सप्त॑यः । प्र । स॒नि॒ष॒न्त॒ । नः॒ । धियः॑ । पु॒रः । च॒र॒न्ति॒ । प॒शु॒पाःऽइ॑व । त्मना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pravat*
 - \[noun\], nominative, singular, feminine
@@ -131,36 +131,36 @@ popular
 हे अग्ने **पितूयतः** पितुमन्नं भक्ष्यमिच्छतः **ते** तव **जनिम** जन्म प्रादुर्भवनं **प्रवत्** प्रकृष्टमुत्कृष्टं भवति । ‘ उपसर्गाच्छन्दसि धात्वर्थे ' इति वतिः । स त्वं **साचीव** सचिव इव **विश्वा** विश्वानि व्याप्तानि भुवनानि भूतजातानि **न्यृञ्जसे** प्रसाधयसि । वशीकरोषीत्यर्थः । **सप्तयः** सर्पणशीलाः **नः** अस्माकं **धियः** स्तुतयः तादृशं त्वां **प्र** **सनिषन्त** प्रकर्षेण संभजन्ते । एकः प्रशब्दः पूरकः । यद्वा । सप्तयः । लुप्तोपममेतत् । सर्पणशीला अश्वा यथाजिं प्रकर्षेण सँभजन्ते तथा अस्मदीया धिय इत्यर्थः । अनन्तरं **पुरः** तव पुरस्तात् **त्मना** आत्मना स्वयमेव **चरन्ति** व्याप्य वर्तन्ते । **पशुपाइव** यथा पशूनां पालका गोपालाः पालयितव्यानां पुरस्तात् संचरन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Exalted is the birth of you, **Agni**, who are desirous of (sacrificial) food; you preside like a councillorover all created beings; our praises flowing smoothly proceed to you, as herdsmen of their own will (go slowly)before (their flocks).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your birth, Agni, is a headlong plunge as you seek nourishment. You  seem to bear down on all creatures at once.  
 Our teams, our insightful thoughts shall gain the lead. They proceed in  front like cowherds, by themselves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy birth who seekest food is in the falling flood, Agni: as Comrade thou winnest all living things.  
      Our coursers and our songs shall be victorious: they of themselves advance like one who guards the herd.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Geburt, Agni, wird ein Strom, wenn du nach Nahrung verlangst. Alle Geschöpfe drängst du gleichsam beiseite. Unsere Gespanne, unsere Gebete sollen den Preis gewinnen; sie gehen an der Spitze wie der Hirt in eigner Person.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Berg ist deine Heimat, der du Trank begehrst, du, starker Agni, machst dir alle Wesen hold; Wie Rosse lass zum Ziele unsre Bitten gehn, wie Hirten ihrer Heerde schreiten sie voran.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твое рождение, когда ты жаждешь пищи, о Агни, - (это) рывок вперед.  
 Как будто заодно, ты пронизываешь все живые существа.  

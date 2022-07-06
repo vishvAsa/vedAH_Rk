@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ मन्द्र꣡म् आ꣡ व꣡रेणियम्  
 आ꣡ वि꣡प्रम् आ꣡ मनीषि꣡णम्  
 पा᳐꣡न्तम् आ꣡ पुरुस्पृ꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पान्त॑म् । आ । पु॒रु॒ऽस्पृह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -83,20 +83,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे सोम **मन्द्रं** मदकरं स्तुत्यं वा त्वाम् **आ** वृणीमहे । **वरेण्यं** सर्वैर्वरणीयं संभजनीयं च । किंच **विप्रं** मेधाविनं त्वाम् । तथा **मनीषिणम्** । मनस ईषा मनीषा। तद्वन्तं स्तुतिमन्तं वा त्वाम् **आ** वृणीमहे । प्रत्येकविशेषणापेक्षया आ इत्युपसर्गः कृतः । किंच **पान्तं** सर्वेषां रक्षकं **पुरुस्पृहं** बहुभिः स्पृहणीयं च त्वां संभजामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The exhilarating, the desirable, the wise, the intelligent, the defender (of all), the desired of many.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here the gladdening (drink), here the one worthy to be chosen, here the  inspired poet, here the inspirited one,  
 here the much coveted drink,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -104,23 +104,23 @@ As if to make up for scanting tṛca cohesion earlier in the hymn, this tṛca i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Excellent, the Gladdener, the Sage with heart that understands,  
      The Guardian, the desire of all;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den erfreuenden, begehrenswerten, den beredten, gedankenreichen, den vielbegehrten Trank,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Freude schafft, die herrliche, begeisterte, verständige, Die vielbegehrte, schützende,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ न꣡ तु꣡भ्यम् अ꣡नु इन्द्र सत्रा꣡  
 असुरि꣡यं देवे꣡भिर् धायि वि꣡श्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ह꣡न्न् ऋजीषिन् · वि꣡ष्णुना सचानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अहि॑म् । यत् । वृ॒त्रम् । अ॒पः । व॒व्रि॒ऽवांस॑म् । हन् । ऋ॒जी॒षि॒न् । विष्णु॑ना । स॒चा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **दिवो** **न** दिवे सूर्यायेव हे **इन्द्र** **तुभ्यं** **सत्रा** सत्यमेव **विश्वं** व्याप्तम् **असुर्यम्** असुरत्वं बलं **देवेभिः** देवैः स्तोतृभिः अनु **धायि** व्यधायि । अकारि । स्तोत्रैः स्तूयमाना देवता बलवती भवतीत्यर्थः । हे **ऋजीषिन्** विगतरससोमेन्द्र **विष्णुना** **सचानः** संगच्छमानस्त्वम् । ‘षच समवाये' इति धातो रूपम् । **यत्** येनासुर्येण **अपः** उदकानि **वव्रिवांसं** परिवृण्वन्तम् **अहिम्** आगत्य हन्तारं **वृत्रम्** असुरं **हन्** अहन् अवधीः तद्वलं व्यधायीति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 Given by the gods: devebhiḥ = stotṛbhiḥ; stotraiḥ stuyamānā **devatā** **balavatī**, a deity becomes strong, being praised with praises; the hostile Ahi: ahim vṛtram = hantāram, **Vṛtra**, the destroyer Vṛtra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All lordly power, like (that) of heaven, was entirely ceded to you by the  gods, o Indra,  
 when you, accompanied by Viṣṇu, smashed the serpent Vr̥tra, who had  obstructed the waters, you possessor of the silvery drink.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. begins like vs. 1, with a form of ‘heaven’ followed by the simile marker ná (1a dyaúr ná, 2a divó ná). In this case there is nothing in the frame that explicitly corresponds to the gen. diváḥ in the simile, though the dat. túbhyam is roughly parallel: like the “lordship of heaven,” lordship was conceded to you (Indra) and is therefore yours.
 
@@ -152,23 +152,23 @@ Bradke in emending dhāyi to *dāyi, but this seems unnec. The two roots are for
 Note that the ‘lordship, lordly power’ (asuryà-) is in the control of the gods and conceded to Indra, another indication that the later Asura/Deva divide is not present in the core RV. See also VI.36.1 below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as the power of Dyaus, to thee, O Indra, all Asura sway was by the Gods entrusted,  
      When thou, Impetuous! leagued with Visnu, slewest Vrtra the Dragon who enclosed the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, Indra, ward die ganze Asuramacht insgesamt gleich der des Himmels von den Göttern zugestanden, als du, Trinker des Trestersafts mit Vishnu verbündet den Drachen Vritra erschlugst, der die Gewässer eingeschlossen hatte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, wie dem Himmel, räumten alle Götter, o Indra, ein die ganze Gottheitsfülle, Als du dem Vritra, der die Wasser einschloss, die Schlang' erschlugst, o eilender, mit Vischnu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вся асурская сила была уступлена тебе  
 Богами – полностью, о Индра, равно как и (сила) неба,  

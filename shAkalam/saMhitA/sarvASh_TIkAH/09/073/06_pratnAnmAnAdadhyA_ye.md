@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रत्ना꣡न् मा꣡नाद् अ꣡धि आ꣡ ये꣡ सम꣡स्वरञ्  
 छ्लो꣡कयन्त्रासो रभस꣡स्य म꣡न्तवः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ऋत꣡स्य प꣡न्थां न꣡ तरन्ति दुष्कृ꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अप॑ । अ॒न॒क्षासः॑ । ब॒धि॒राः । अ॒हा॒स॒त॒ । ऋ॒तस्य॑ । पन्था॑म् । न । त॒र॒न्ति॒ । दुः॒ऽकृतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pratnān* ← *pratnāt* ← *pratna*
 - \[noun\], ablative, singular, neuter
@@ -111,7 +111,7 @@ genre M
 **श्लोकयन्त्रासः** । श्लोकाः स्तुतयः। स्तुतिनियमनाः **रभसस्य** **मन्तवः** वेगमभिमन्यमानाः एतादृशाः **ये** सोमरश्मयः **प्रत्नात्** पुराणात् **मानात्** अन्तरिक्षात् **अध्या** **समस्वरन्** सह प्रादुर्भूता अभवन् तान्रश्मीन् **अनक्षासः** चक्षुर्वर्जिताः साधु पदार्थानामद्रष्टारो नराः **बधिराः** देवतास्तुतिश्रवणवर्जिताः पापकृतो नरश्च **अप** **अहासत** तान् परित्यजन्ति । दर्शिनः श्रवणवन्तो मेधाविनस्तु न परिजहति किंतु स्तुवन्ति । तदेवाह । **ऋतस्य** सत्यस्य **पन्थां** मार्गभूतमेषां गणं **दुष्कृतः** पापकृतो नराः **न** **तरन्ति** नोत्तारयन्ति । सुकृतस्तु तरन्तीत्यभिप्रायः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ genre M
 The blind and deaf: i.e., spiritually blind and deaf, those who do not see good objects-- those who do not hear the praise of the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who sounded in unison from their ancient edifice, those with a  signaling call for their reins, counselors of the wild one [=Soma].  
 The blind and deaf have retreated: evildoers do not traverse the path  of truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner interpr. mā́na- as “Tonweise” and then imposes a musical-mode interpr.
 
@@ -155,23 +155,23 @@ Their first pādas are nearly identical: ABL ABL ádhy ā́yé samásvaran “Th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those which, as guides of song and counsellors of speed, were manifested from their ancient dwelling place,-  
      From these the eyeless and the deaf have turned aside: the wicked travel not the pathway of the Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die nach der alten Tonweise den Chorgesang erbrausen ließen, den richtigen Ton einhaltend, die Ersinner der packenden Melodie - Die Blinden und Tauben sind abgefallen; die Stümper legen nicht den Weg der Wahrheit zurück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die als des wilden Rosses Lenker liedgelockt zugleich geströmt sind von dem alten Sitze her, Die blinden und die tauben sind hinweggeilt, des Opfers Pfad durchkreuzet nicht der Bösen Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что дружно зазвучали, (исходя) из древней меры,  
 Управляя звуком, повелители неистовой (мелодии):  

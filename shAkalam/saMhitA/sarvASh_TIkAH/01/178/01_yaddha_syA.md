@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् ध स्या꣡ त इन्दर+ श्रुष्टि꣡र् अ꣡स्ति  
 य꣡या बभू꣡थ जरितृ꣡भ्य ऊती꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वा ते अश्याम् प꣡रि आ꣡प आयोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मा । नः॒ । काम॑म् । म॒हय॑न्तम् । आ । ध॒क् । विश्वा॑ । ते॒ । अ॒श्या॒म् । परि॑ । आपः॑ । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaddha* ← *yat*
 - \[adverb\]
@@ -138,20 +138,20 @@ genre M
 हे **इन्द्र** **यत्** या **स्या** असौ प्रसिद्धा **श्रुष्टिः** सर्वत्र श्रूयमाणा समृद्धिः **ते** तव **अस्ति** **यया** **जरितृभ्यः** स्तोतृभ्यः **ऊती** ऊत्यै रक्षणाय **बभूथ** समर्थो भवसि **नः** अस्माकं **महयन्तम्** अस्मान् महतः कुर्वाणं **कामम्** अभीष्टं **मा** **धक्** मा धाक्षीः । **ते** तव संबन्धीनि **विश्वा** सर्वाणि भोगजातानि **आपः** आप्तव्यानि । यद्वा । विश्वा सर्वा आपः आप्ताः श्रुतयः **आयोः** मनुष्यस्योचिताः **परि** **अश्यां** परितो व्याप्नुयाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch, **Indra**, as the praise by which you are (induced to bestow) protection on your adorers is heard (by all), therefore disappoint not the desire (that would raise us) to greatness; may I obtain, through your (favour), all things that are obtainable by man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since, Indra, the same attentive hearing of yours still exists by reason of  which you stood by the (previous) singers with your help,  
 don’t let our wish that magnifies (you) come up short. Might I attain all  things of yours (that are) around the waters of Āyu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The crucial word śruṣṭí- is ambiguous: it may refer to the attentive hearing Indra gives to our praises and desires or to the obedience (based on our “attentive hearing”) that we have shown towards Indra. The published translation reflects the first possibility, but I think both may be meant, though Indra’s role as a hearer in 3b may support the first interpr. The other exx. of śruṣṭí- are not clearly diagnostic.
 
@@ -160,23 +160,23 @@ Geldner takes “us” (naḥ) as the implicit obj. of maháyantam (“der uns g
 For the difficult phrase páry ā́pa āyóḥ, see published introduction. It is variously rendered in the standard tr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 IF, Indra, thou hast given that gracious hearing where with thou helpest those who sang thy praises.  
      Blast not the wish that would exalt us may I gain all from thee, and pay all man's devotions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn jenes willige Gehör bei dir noch besteht, o Indra, mit dem du den Sängern zur Hilfe bereit warst, so sollst du unsern Wunsch, der uns groß gemacht hat, nicht zu kurz kommen lassen. Alles möchte ich von dir erlangen, mehr als ein Ayusproß erreichen kann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn irgend, Indra, du Gebet erhörest, mit irgendeiner Gunst den Sängern nahtest, So schlag' nicht ab den Wunsch, der uns beglücket, gewähr uns alles bei dem Werk des Frommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если еще существует эта твоя, о Индра, способность слушать,  
 Благодаря которой ты был (готов) прийти на помощь певцам,  

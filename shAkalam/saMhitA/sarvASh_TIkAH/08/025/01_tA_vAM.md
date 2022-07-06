@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ वां वि꣡श्वस्य गोपा᳐꣡  
 देवा꣡ देवे꣡षु यज्ञि꣡या  
 ऋता꣡वाना यजसे पूत꣡दक्षसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ऋ॒तऽवा॑ना । य॒ज॒से॒ । पू॒तऽद॑क्षसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -88,41 +88,41 @@ genre M
 हे मित्रावरुणौ **विश्वस्य** सर्वस्य लोकस्य **गोपा** गोपायितारौ **देवा** देवौ द्योतनशीलौ **देवेषु** मध्ये **यज्ञिया** यज्ञार्हौ **ता** तौ तादृशौ **वां** युवां हविष्प्रदानार्थं यजमानं भजथः। अत एव हे विश्वमनः **ऋतावाना** ऋतावानौ सत्यवन्तौ यज्ञवन्तौ वा पूतदक्षसौ शुद्धबलौ। आवां बलवन्ताविति वचनमात्रेण बलवन्तौ न भवतः किंतु यथार्थत्वेन सामर्थ्यवन्तौ । मित्रावरुणौ **यजसे** हविर्भिः पूजयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You two are the protectors of the universe, divine and to be adored among the gods; therefore,(Viśvamanas), you sacrifice to the pair who are observant of truth and endowed with real power.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To you two, the herdsmen of all, the gods worthy of the sacrifice among  the gods,  
 truth-possessing and of refined skill, shall I sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the connection of the last pāda of this vs. with VIII.23.30, see comm. there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I WORSHIP you who guard this All, Gods, holiest among the Gods,  
      You, faithful to the Law, whose power is sanctified.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch beide, die Hüter des Alls, die opferwürdigen Götter unter den Göttern, die Gesetzesheger von lauterem Wollen, will ich anbeten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Alls Behüter beide euch, die auch bei Göttern sind geehrt, Die reingesinnten, heil'gen Götter ehre ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас двоих, хранителей всего,  
 Достойных жертв богов среди богов,  

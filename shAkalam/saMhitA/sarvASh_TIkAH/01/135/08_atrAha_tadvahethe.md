@@ -6,7 +6,7 @@ ChandaH = "अष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्रा꣡ह त꣡द् वहेथे म꣡ध्व आ꣡हुतिं  
 य꣡म् अश्वत्थ꣡म् उपति꣡ष्ठन्त जाय꣡वो  
@@ -16,7 +16,7 @@ ChandaH = "अष्टिः"
 ना꣡प दस्यन्ति धेन꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M
 सा॒कम् । गावः॑ । सुव॑ते । पच्य॑ते । यवः॑ । न । ते॒ । वा॒यो॒ इति॑ । उप॑ । द॒स्य॒न्ति॒ । धे॒नवः॑ । न । अप॑ । द॒स्य॒न्ति॒ । धे॒नवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atrāha* ← *atra*
 - \[adverb\]
@@ -170,7 +170,7 @@ genre M
 हे इन्द्रवायू **अत्र** **अह** अस्मिन्नेव यज्ञे ॥ अहेति विनिग्रहार्थीयः ॥ **मध्वः** मधुरस्य मधुसदृशस्य वा **तत्** तस्य **आहुतिं** प्रदेयद्रव्यं **वहेथे** धारयतम् । **यं** सोमम् **अश्वत्थं** पर्वतादिव्याप्तिप्रदेशे स्थितं **जायवः** जेतारो यजमानाः **उपतिष्ठन्त** उपेत्य तिष्ठन्ति क्रयाद्यर्थम् । किंच **अस्मे** अस्माकं संबन्धिनः **जायवः** जेतारः कर्मनिर्वहितारः **ते** ऋत्विजः **सन्तु** समर्था भवन्तु यज्ञं निर्वहन्त्वित्यर्थः । यद्वा । ते प्रसिद्धाः प्रयोगकुशला जायवो जेतारः ऋत्विजः अस्मे सन्तु नान्यस्य । अत्र वहेथे इत्युक्तम् । कोऽत्र विशेष इति तत्राह । हे इन्द्रवायू अस्मिन् यज्ञे **गावः** धेनवः **साकं** सहैव **सुवते** युष्मदर्थमेव क्षीरमुत्पादयन्ति दोग्ध्र्यो भवन्तीत्यर्थः । यद्वा । गावः साकं सहैव सुवते अपत्यमुत्पादयन्ति त्वद्दोहनार्थम् ॥ आदादिकः । ङित्त्वात् ‘ तास्यनुदात्तेत्' इति लसार्वधातुकानुदात्तत्वे धातुस्वरः ॥ किंच **यवः** । जातावेकवचनम् । उपलक्षणमेतत् । यवादिभिः पुरोडाशादिकं **पच्यते** इत्यर्थः । किंच हे **वायो** इन्द्र च यतो गावः एवं सुवते अतः **ते** त्वदर्थाः **धेनवः** **न** ”उप **दस्यन्ति** नोपक्षीणा भवन्ति रोगादिना कृशा न भवन्ति । न केवलमनुपक्षीणाः किंतु **धेनवः** युष्मत्प्रीणयित्र्यः गावः **नाप** **दस्यन्ति** चौराद्युपहारैः उपक्षीणा नष्टा न भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -183,37 +183,37 @@ Aśvattham upatiṣṭhanti: **aśvattha** = the religious fig tree; explained h
 **Apadas** = to be carried off by thieves
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just now you two travel to the poured offering of honey. The victorious  ones [=soma drinks? Maruts?] that approach the fig tree—let these be  victorious for us.  
 All at once the cows give birth and the grain ripens; the milk-cows do  not give out for you, o Vāyu—the milk-cows do not give up.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, I have no idea what the figtree represents here. Some of the verse seems anagrammatic for vāyú-: the repeated jāyávo (bc) and yávo (d).
 
 The accent on súvate in d must result from juxtaposition with pácyate.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ride hither to the offering of the pleasant juice, the holy Fig-tree which victorious priests surround: victorious be they still for us.  
      At once the cows yield milk, the barley-meal is dressed. For thee,  
      O Vayu, never shall the cows grow thin, never for thee shall they be dry.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu diesem fahret ihr nun, zu der Opferung des Süßtranks. Die unter den Asvattha-Baum als Sieger traten, die Sieger sollen bei uns sein. Mit einem Male gebären die Kühe, reift das Korn. Nicht versiegen deine Milchkühe, o Vayu, nicht versiegen deine Milchkühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr fahrt ja hin zu dieses Opfertranks Erguss zum Feigenholz, in dem die Tränke kräftig stehn; bei uns auch seien kräftig sie; Die Küh' gebären und die Gerste reift zugleich; nie geht, o Vaju, dir die Milch der Kühe aus, die Milch versieget nimmer dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Теперь же сюда вы едете к возлиянию сладкого (сока).  
 Перед каким деревом ашваттха находятся победные (соки сомы), –  

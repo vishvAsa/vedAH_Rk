@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ भा꣡रती भा꣡रतीभिः सजो꣡षा  
 इ꣡ळा देवइ꣡र् मनुषि꣡येभिर् अग्निः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तिस्रो꣡ देवी꣡र् बर्हि꣡र् ए꣡दं꣡ सदन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सर॑स्वती । सा॒र॒स्व॒तेभिः॑ । अ॒र्वाक् । ति॒स्रः । दे॒वीः । ब॒र्हिः । आ । इ॒दम् । स॒द॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 भारतीभिः भरतस्य सूर्यस्यसम्बन्धिनीभिः अद्भिः सजोषाःसङ्गताभारतीवाक् आगच्छतु देवैर्मनुष्येभिः मनुष्यैश्चसङ्गताःसत्यः इळाचभूमिश्चआगच्छतु अग्निश्चसारस्वतेभिः सरस्वतिसं बन्धिभिः मध्यमस्थानैः सहसरस्वतीमाध्यमिकावाक्च आगच्छतु तिस्रोदेवीः देव्यः वागिळा भारत्यः आगच्छन्तु अर्वागाभिमुख्यं इदंएतत् बर्हिः आसन्दतु आसीदन्तु ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ Iḷā = **bhūmi**, the earth;
 Sarasvatī = **mādhyamikā** vāk; the sārasvatas are the madhyamasthānas, the middle regions, or the firmament; Agni whose name is rather unconnectedly inserted, is thus identified through their several person nifications as goddesses, with heaven, mid-heaven, and earth, or with speech or sound in the three regions
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bhāratī along with the Bhāratīs, Iḷā along with the gods, Agni along with  the sons of Manu,  
 and Sarasvatī along with the Sārasvatas are near: let the three goddesses sit here on the ritual grass.474 III.5
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Bharati with all her Sisters, Ila accordant with the Gods, with mortalls Agni,  
      Sarasvati with all her kindred Rivers, come to this grass, Three Goddesses, and seat them.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 May Bhâratî, in concord with the Bhâratîs, Ilâ with the gods, Agni with men, Sarasvatî with all (beings) belonging to Sarasvatî (come) hither; may the three goddesses sit down on this sacrificial grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Bharati soll vereint mit den Bharati´s, Ila mit den Göttern, Agni mit den Menschen, Sarasvati mit den Sarasvata´s näher kommen. Die drei Göttinnen sollen sich auf das Barhis setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Bharati mit Bharati's vereinigt, Ida mit Göttern, Agni mit den Menschen, Sarasvatī mit den Sarasvatsöhnen, die drei Göttinnen mögen hier sich setzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Бхарати вместе с женами, происходящими от Бхараты,  
 Ида вместе с богами, Агни вместе с людьми,  

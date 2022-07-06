@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ हिन्विरे अरुणं꣡ जे꣡नियं व꣡सु  
 ए꣡कम् पुत्रं꣡ तिसॄणा᳐꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡दब्धा अभि꣡ चक्षते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ते । धामा॑नि । अ॒मृताः॑ । मर्त्या॑नाम् । अद॑ब्धाः । अ॒भि । च॒क्ष॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -108,7 +108,7 @@ genre M
 **अरुणम्** अरुणवर्णं **जेन्यं** जयसाधनं **वसु** वासकं **तिसॄणां** पृथिव्यादीनाम् **एकं** **पुत्रं** **ते** देवाः **हिन्विरे** प्रेरयन्ति त्रैलोक्यस्य तमोनिवारणाय । किंच **अदब्धाः** केनाप्यहिँसिताः **अमृताः** मरणरहिताः **ते** देवाः **मर्त्यानां** मनुष्याणां **धामानि** स्थानानि **अभि** **चक्षते** अभिपश्यन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ Vasu: vāsakam, the Sun as one of the **Vasus**; they send him forthe dispelling
 Vasu = wealth, i.e. gold: it was these who sent the red goldvictory-giving; or, the reward of victory
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They rouse their own ruddy, noble treasure, the single son of the three  (mothers) [=Agni].  
 They, undeceivable, watch over the immortal foundations for mortals.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of the three mothers of Agni, the likely referent of the acc. phrases in ab, isn’t clear. Geldner suggests the three Opfergöttinen (Iḍā, Sarasvatī, Bharatī) of the Āprī hymns. Agni is called trimātár- in III.56.5, but the three are not identified there either. Since our vs. is the 2nd vs. in a pragātha whose 1st vs. concerns the Ādityas, esp. Varuṇa, Mitra, and Aryaman, I am inclined to think that these three male deities have been slotted into the “three mothers” role just here because of the coincidence of the numbers.
 
@@ -140,23 +140,23 @@ The Pp reads masc. nom. pl. amṛ́tāḥ in c, and Geldner so tr. (“Die unbet
 pl. amṛ́tā; the sandhi situation allows either, of course. Geldner’s tr. assumes that the dhā́māni belong to mortals, but wherever it's possible to tell, dhā́man- is something belonging to gods. Cf. also III.55.10 dhā́māni amṛ́tā.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The true, Red Treasure they have sent, one only Son born of the Three.  
      They, the Immortal Ones, never deceived, survey the families of mortal men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese treiben den rötlichen häuslichen Schatz, den einen Sohn der drei Mütter zur Eile an. Die unbetörbaren Unsterblichen beobachten das Tun der Sterblichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie sandten glänzend edles Gut, ihn, dreier Mütter einz'gen Sohn, Es schauen die Unsterblichen der Sterblichen stets unversehrte Sitze an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они поторапливают алое взлелеянное сокровище,  
 Одного сына трех (матерей).  

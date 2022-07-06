@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ सो꣡मास आय꣡वः  
 प꣡वन्ते म꣡दियम् म꣡दम्  
 अभि꣡ को꣡शम् मधुश्चु꣡तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒भि । कोश॑म् । म॒धु॒ऽश्चुत॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **आयवः** गन्तारः **सोमासः** सोमाः **मद्यं** मदकरं रसम् **अभि** **पवन्ते** क्षरन्ति । तथा **मधुश्चुतं** मधुस्राविणं **कोशम्** । रसाधारेण कोशशब्देन तत्रामिश्रितो रसो लक्ष्यते। तम् **अभि** पवन्त इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,34 +87,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Honey-shedding receptacle: 'the unmixed portion of the juice'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma juices, the Āyus, purify themselves into the exhilarating drink  of exhilaration,  
 (going) toward the cask dripping with honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the identification of the soma juices with the Āyus, see published introduction. Both Geldner and Renou take āyávaḥ here as adjectival (“lebengebend” and “vivaces” respectively), but this loses the connection with the Āyus in vs. 2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The living Somas being cleansed diffuse exhilarating drink,  
      Turned to the vat which drips with meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die lebensgebenden Somatränke läutern sich zum berauschenden Rauschtrank nach der von Süßigkeit überfließenden Kufe zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die muntern Soma's lassen hell den Trank hinrieseln, der berauscht, Zur Kufe, die von Honig trieft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подвижные соки сомы  
 Очищаются, (чтоб дать) пьянящее опьянение,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुराधि꣡यो अ꣡दितिं स्रेव꣡यन्तो  
 अचेत꣡सो वि꣡ जगृभ्रे प꣡रुष्णीम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पशु꣡ष् कवि꣡र् अशयच् चा꣡यमानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒ह्ना । अ॒वि॒व्य॒क् । पृ॒थि॒वीम् । पत्य॑मानः । प॒शुः । क॒विः । अ॒श॒य॒त् । चाय॑मानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *durādhyo* ← *durādhyaḥ* ← *durādhī*
 - \[noun\], nominative, plural, masculine
@@ -104,7 +104,7 @@ genre M
 **दुराध्यः** दुष्टाभिसंधयः **अचेतसः** मन्दमतयः सुदासः शत्रवः **अदितिम्** अदीनां **परुष्णीं** नदीं **स्रेवयन्तः** **वि** **जगृभ्रे** । विग्रहः कूलभेदः । तमकुर्वन् । परुष्ण्याः कूलं बिभिदुरित्यर्थः। सः सुदासः **मह्ना** इन्द्रप्रसादलब्धेन महिम्ना **पृथिवीम्** अविव्यक् तदैव व्याप्नोत् । न पुनरुदकेनाबाध्यत । ततः सुदासः शत्रुः **चायमानः** चयमानस्य पुत्रः **कविः** कविनामा **पत्यमानः** पलायमानः **पशुः** यागे संज्ञप्तः पशुरिव **अशयत्** अशेत । सुदासा निहत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,14 +115,14 @@ genre M
 Sleeps in death: killed Sudāsa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ill-intentioned ones without insight, causing Aditi to abort,  diverted (the course of) the (river) Paruṣṇī.  
 With his greatness he [=Indra? Turvaśa?] enveloped the earth, being  master (of it). The poet lay there, being perceived as (just) a  
 (sacrificial) animal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both this vs. and the following one concern the Paruṣṇī river, known from elsewhere in the RV and later. In the 2nd pāda the VP ví jagṛbhre páruṣṇīm, lit. “they grasped apart the P.,” is generally taken to mean ‘divert’ the course of the river (so already Grassmann, also Geldner; Schmidt slightly differently ‘divided’). The lexeme ví √grabh occurs only once in the RV, but this seems a reasonable interpr. -- though I’m not 5 exactly sure how this feat of engineering would be accomplished. Perhaps so many bodies accumulated in the river that it either had to flow around them (hence Schmidt’s ‘divided’) or switch its course altogether. The use of the middle jagṛbhre might support the former interpr.: they themselves [i.e., their own bodies] parted the river. One is reminded of Iliad 21.205ff., where Achilles drives his enemies towards the Scamander river, which berates and then fights with Achilles for filling the river with corpses.
 
@@ -137,23 +137,23 @@ As for cā́yamāna-, I assign it the intrans./pass. sense ‘being perceived as
 Whoever the subject is -- Schmidt and Witzel think it’s Vasiṣṭha, the purohita of Turvaśa, but I remain agnostic -- in my view this kavi has been felled, at least temporarily, and therefore gives the impression of being a paśú-, in this case a sacrificial, or already sacrificed, animal. Note the main verb aśayat (√śi ‘lie’), which is the signature verb describing the slain Vṛtra in I.32. Note paśúṣ kavíḥ, which shows the same sandhi before kavíḥ as vidúṣ kavíḥ in 2b; see disc. there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fools, in their folly fain to waste her waters, they parted inexhaustible Parusni.  
      Lord of the Earth, he with his might repressed them: still lay the herd and the affrighted herdsman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem sie in böser Absicht eine Fehlgeburt der Aditi bewirkten, leiteten die Toren die Parusni ab. Im Besitz der Macht umfaßte er die Erde. Als Opfertier lag er da, der sich für einen Weisen hielt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es leiteten die unverständ'gen Thoren auf andre Bahn die flutende Paruschni; Da fasste sie mit Macht der Herr der Erde, und Hirt und Heerde lagen da voll Schrecken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Злоумышленники, сбивая с пути неисчерпаемую  
 Парушни, безумцы (эти) отвели (ее).  

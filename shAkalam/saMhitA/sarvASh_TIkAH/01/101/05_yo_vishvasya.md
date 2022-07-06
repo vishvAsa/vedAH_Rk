@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वि꣡श्वस्य ज꣡गतः प्राणत꣡स् प꣡तिर्  
 यो꣡ ब्रह्म꣡णे प्रथमो꣡ गा᳐꣡ अ꣡विन्दत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मरु꣡त्वन्तं सखिया꣡य हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इन्द्रः॑ । यः । दस्यू॑न् । अध॑रान् । अ॒व॒ऽअति॑रत् । म॒रुत्व॑न्तम् । स॒ख्याय॑ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -119,7 +119,7 @@ genre M;; repeated line
 **यः** इन्द्रः **विश्वस्य** **जगतः** गच्छतः **प्राणतः** प्रश्वसतः प्राणिजातस्य **पतिः** स्वामी **यः** च **ब्रह्मणे** ब्राह्मणजातिभ्योऽङ्गिरोभ्यः **प्रथमः** अन्येभ्यो देवेभ्यः पूर्वभावी सन् पणिभिरपहृताः **गा:** **अविन्दत्** अलभत । अन्येभ्यो देवेभ्यः पूर्वमेव तैरसुरैर्युद्ध्वा गाः स्वयमलभतेत्यर्थः । अपि च **यः** **इन्द्रः** **दस्यून्** उपक्षपयितॄनसुरान् **अधरान** निकृष्टान् कृत्वा **अवातिरत्** अवधीत् । अवतरतिर्वधकर्मा । तं **मरुत्वन्तम्** इन्द्रं **सख्याय** आह्वयामहे ॥ जगतः । ‘ गम्लृ सप्लृ गतौ' । वर्तमाने पृषद्बृहन्महज्जगच्छतृवच्च' ( उ. सू. २. २४१ ) इति अतिप्रत्ययान्तो निपातितो जगच्छब्द आद्युदात्त: । प्राणतः । ‘ श्वस प्राणने, अन च ' । अस्मात् लटः शतृ । अदादित्वात् शपो लुक् । ‘ शतुरनुमः' इति विभक्तेरुदात्तत्वम् । षष्ठ्याः पतिपुत्र' इति विसर्जनीयस्य सत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -130,29 +130,29 @@ genre M;; repeated line
 Brāhmaṇe = for **Aṅgiras**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is the lord of everything moving and breathing, who first found  the cows for the maker of sacred formulations,  
 Indra, who brought the Dasyus down low—the one accompanied by  the Maruts do we call upon for partnership.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who is Lord of all the world that moves and breathes, who for the Brahman first before all found the Cows;  
      Indra who cast the Dasyus down beneath his feet,--him girt by Maruts we invoke to be our Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der der Herr all dessen, was lebt, was atmet, der zuerst für den der heiligen Rede kundigen die Kühe fand, Indra, der die Dasyu´s unterwarf - den Marutbegleiteten rufen wir zur Freundschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Herrn von allem, was da geht und Odem hat, ihn, der zuerst dem Beter Kühe hat verschafft, Den Indra, der die Feinde tief zu Boden schlug, ihn und die Maruts rufen wir zum Bündniss her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто господин всего, что движется (и) дышит,  
 Кто первым нашел коров для брахмана,  

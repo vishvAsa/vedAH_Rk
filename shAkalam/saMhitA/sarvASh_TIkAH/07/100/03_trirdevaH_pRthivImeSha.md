@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡र् देवः꣡ · पृथिवी꣡म् एष꣡ एतां꣡  
 वि꣡ चक्रमे शत꣡र्चसम् महित्वा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्वेषं꣡ हि꣡ अस्य स्थ꣡विरस्य ना꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । विष्णुः॑ । अ॒स्तु॒ । त॒वसः॑ । तवी॑यान् । त्वे॒षम् । हि । अ॒स्य॒ । स्थवि॑रस्य । नाम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trir* ← *tris*
 - \[adverb\]
@@ -119,7 +119,7 @@ genre M
 **एषः** **देवः** दानादिगुणयुक्तो विष्णुः **शतर्चसं** शतसंख्यान्यर्चींषि यस्यास्तादृशम् **एतां** **पृथिवीम्** । उपलक्षणमेतत् । पृथिव्यादींस्त्रीँल्लोकान् महित्वा महत्त्वेन **त्रिः** **वि** **चक्रमे** त्रिभिः पदैर्विक्रान्तवान् । **तवसः** तवस्विनो वृद्धादपि **तवीयान्** तवस्वितरः **विष्णुः** **प्र** **अस्तु** अस्माकं प्रभवतु स्वामी भवतु। **अस्य** **स्थविरस्य** वृद्धस्य विष्णोः **नाम** नामकं रूपं विष्णुरित्येतन्नामैव वा **त्वेषं** **हि** यस्माद्दीप्तं तस्मात्कारणात् स विष्णुः प्रभवत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,14 +130,14 @@ genre M
 Earth: **pṛthivī** =pṛthivyādīn, or the **three worlds**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three times did the quick god stride with his greatness across this earth  worth a hundred verses.  
 Let Viṣṇu be preeminent, stronger than the strong, for vibrant is the  
 name of this stalwart one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Flg. a suggestion by Geldner (n. 3a, though not reflected in his tr.), I take eṣáin pāda a (also 4a) as belonging to the stem eṣá- ‘quick’, which is used several times of Viṣṇu in the gen. expression víṣṇor eṣásya (II.34.11, VII.40.5, VIII.20.3), in which confusion with the nom. pronominal eṣá(ḥ) (possible here) is excluded.
 
@@ -157,23 +157,23 @@ As noted in the published introduction, vss. 3 and 4 are responsive. The first p
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three times strode forth this God in all his grandeur over this earth bright with a hundred splendours.  
      Foremost be Visnu, stronger than the strongest: for glorious is his name who lives for ever.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreimal hat dieser Gott diese Erde, die hundert Sänger hat, in ganzer Größe ausgeschritten. Vishnu soll den Vorrang haben, der stärker als stark ist, denn furchtgebietend ist sein, des Standfesten, Name.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfach erglänzet; Voran sei Vischnu, stärker als der stärkste; denn herrlich ist des allgewalt'gen Name.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды бог этот прошагал  
 Эту землю с сотней восхвалений – силой (своего) величия.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ वां नरा सु꣡ अ꣡वसे सुजाता꣡  
 ह꣡वामहे अश्विना ना꣡धमानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गि꣡रो जुषाणा꣡ सुविता꣡य यातम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । नः॒ । उप॑ । वसु॑ऽमता । रथे॑न । गिरः॑ । जु॒षा॒णा । सु॒वि॒ताय॑ । या॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -119,37 +119,37 @@ genre M
 **नरा** नेतारौ हे अश्विनौ **सुजाता** शोभनजन्मानौ **ता** **वां** तौ युवां **नाधमानाः** धनं याचमानाः वयं स्तोतारः **अवसे** रक्षणार्थं **सु** **हवामहे** शोभनमाहृयामहे । **गिरः** स्तुतीः **जुषाणा** सेवमानौ युवां **वसुमता** धनयुक्तेन **रथेन** **नः** अस्मान् **उप** **आ** **यातम्** उपागच्छतम् । किमर्थम् । **सुविताय** सुष्ठु प्राप्तव्याय धनाय सुखाय वा ॥ सुजाता । शोभनं जातं जन्म ययोस्तौ सुजातौ । ‘सुपां सुलुक् ' इति विभक्तेराकारः । ऩञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । नाधमानाः । नाधृ याञ्चायाम् । जुषाणा । जुषी प्रीतिसेवनयोः '। ताच्छीलिकः चानश् । तुदादित्वात् शः । पूर्ववद्विभक्तेराकारः । सुविताय । सुपूर्वात् एतेः कर्मणि निष्ठा । तन्वादित्वात् उवङ्। ‘सूपमानात् क्तः' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Earnestly we call you, leaders (of the sacrifice), such (as you have been described), and who are well born, to our succour, soliciting, **Aśvins**, wealth; contented with our laudations, come to us with your wealthy car, to brign us felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Needing help ourselves, o men, we call on you, who are nobly born, for  aid, o Aśvins.  
 Finding pleasure in our songs, journey here to us by your chariot  
 bearing goods for our safe passage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Such as ye are, O nobly born, O Heroes, we in our trouble call on you for succour.  
      Accepting these our songs, for our wellbeing come to us on your chariot treasure-laden.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So rufen wir euch beide, die Edlen, schutzbedürftig fein um Beistand an, ihr Herren Asvin. Kommet zu uns auf schätzebeladenem Wagen zum Wohlergehen und freuet euch an den Lobesworten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum rufen wir euch, schöngeborne Helden, um Hülfe an, o Ritter, euch erflehend, O kommt zu uns mit schatzbeladnem Wagen zum Wohlergehn euch unsrer Lieder freuend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это вас, двоих прекраснорожденных мужей, о Ашвины,  
 Мы призываем на помощь, нуждаясь в защите.  

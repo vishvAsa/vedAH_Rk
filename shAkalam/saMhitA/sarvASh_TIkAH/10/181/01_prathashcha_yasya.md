@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡थश् च य꣡स्य सप्र꣡थश् च ना꣡म  
 आ꣡नुष्टुभस्य हवि꣡षो हवि꣡र् य꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रथंतर꣡म् आ꣡ जभारा व꣡सिष्ठः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 धा॒तुः । द्युता॑नात् । स॒वि॒तुः । च॒ । विष्णोः॑ । र॒थ॒म्ऽत॒रम् । आ । ज॒भा॒र॒ । वसि॑ष्ठः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prathaś* ← *prathaḥ* ← *prathas*
 - \[noun\], nominative, singular, neuter
@@ -122,7 +122,7 @@ popular
 **यस्य** वसिष्ठस्य **प्रथः** **नाम** पुत्रो यस्य भरद्वाजस्य **सप्रथः** नाम पुत्रः तयोर्मध्ये **वसिष्ठः** **आनुष्टुभस्य** अनुष्टुप्छन्दसा युक्तस्य **हविषः** घर्माख्यस्य **यत्** **हविः** हविष्ट्वापादकं **रथन्तरम्** । रथरंहःसाधनं साम तद्रथन्तरम् । **धातुः** धातृसंज्ञाद्देवात्  **द्युतानात्** द्योतमानात् **सवितुश्च** **विष्णोः** च **आ** **जभार** आजहार । हृतवान् ॥ ' हृग्रहोर्भः ' हति भत्वम् । रथशब्दोपपदात्तरतेः संज्ञायां ' भृतॄवृजि० ' इति खच् । ' अरुर्द्विषदजन्तस्य  इति मुमागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,30 +133,30 @@ popular
 Rathantara: is the **Sāmaveda**; or some hymns of this **Veda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose name is “Spread” and “Wide-spread,” which is the oblation of the  oblation in anuṣṭubh meter:  
 from the flashing Founder and from Savitar and Viṣṇu has Vasiṣṭha  
 carried here the Rathaṃtara.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 VASISTHA mastered the Rathantara, took it from radiant Dhatar, Savitar, and Visnu,  
      Oblation, portion of fourfold oblation, known by the names of Saprathas and Prathas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Name Prathas und Saprathas ist, was das Opfer des anustubhischen Opfers ist: vom glänzenden Schöpfer und von Savitri und Vishnu hat Vasistha das Rathantara geholt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Opfertrank, der zu dem aus vier Theilen bestehenden Opfertrank gehört, und den man die Ausbreitung [práthas] und den weit ausgedehnten [sapráthas] nennt, und das rathamtnará-Lied hat Vasischtha vom glänzenden Dhātar, vom Savitar und Vischnu empfangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чье имя распространение и далеко распространенный,  
 Кто жертва от жертвы, сопровождаемый (стихом) ануштубх -  

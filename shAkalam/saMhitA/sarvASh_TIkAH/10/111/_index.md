@@ -8,7 +8,7 @@ title = "+111"
 ‘ मनीषिणः' इति दशर्चं द्वादशं सूक्तं वैरूपस्याष्ट्रादंष्ट्रस्यार्षं त्रैष्टुभमैन्द्रम् । तथा चानुक्रम्यते--  ‘ मनीषिणो दशाष्ट्रादंष्ट्रः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 111 (937)  
 Indra  

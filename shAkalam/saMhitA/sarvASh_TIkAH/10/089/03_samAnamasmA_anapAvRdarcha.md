@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समान꣡म् अस्मा अ꣡नपावृद् अर्च  
 क्ष्मया꣡ दिवो꣡ अ꣡समम् ब्र꣡ह्म न꣡व्यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रश् चिका꣡य न꣡ स꣡खायम् ईषे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि । यः । पृ॒ष्ठाऽइ॑व । जनि॑मानि । अ॒र्यः । इन्द्रः॑ । चि॒काय॑ । न । सखा॑यम् । ई॒षे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samānam* ← *samāna*
 - \[noun\], accusative, singular, neuter
@@ -124,14 +124,14 @@ genre M
 हे स्तोतः त्वं **समानं** मया सह **अनपावृत्** अपगतिरहितं **क्ष्मया** **दिवः** दिवः पृथिव्याश्च **असमम्** अत्यन्तमतिरिक्तम् । महदित्यर्थः । **नव्यं** नवतरमन्यैरकृतपूर्वं **ब्रह्म** स्तोत्रम् **अस्मै** इन्द्राय **अर्च** उच्चारय । **यः** **इन्द्रः** **जनिमानि** यज्ञेषु जातानि **पृष्ठेव** पृष्ठसंज्ञकानि स्तोत्राणीव **अर्यः** अरीन् शत्रून् **वि** **चिकाय** विचिनोति **सखायं** च **न** **ईषे** नेच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing along with me a new song, unceasing, surpassing heaven and earth, to him who like the **pṛṣṭha**(praises), born at sacrifices, overcomes his enemies, **Indra** who desires no friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chant to him in the same old way a new sacred formulation that never  turns away, without equal on earth and in heaven—  
 to Indra, who has distinguished the races of the stranger, like the  
@@ -139,23 +139,23 @@ to Indra, who has distinguished the races of the stranger, like the
 for) a comrade.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him I sing a holy prayer, incessant new, matchless, common to the earth and heaven,  
      Who marks, as they were backs, all living creatures: ne'er doth he fail a friend, the noble Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm will ich das gemeinsame Erbauungswort singen, das nicht vom rechten Weg abkommt, das auf Erden und im Himmel nicht seinesgleichen hat, das neue. Indra, der die Sippschaft des hohen Herrn gemustert hat wie die Pferderücken, hat keinen zum Freund haben wollen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich sing' ihm achtsam nun das neue, schönste Gebet zugleich für Himmel und für Erde; Dem treuen Indra, der wie Bergesrücken die Wesen schaut und nicht den Freund im Stich lässt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу исполнить для него не сворачивающее с пути совместное  
 Священное слово, не имеющее равных на земле (и) на небе, новое.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ त꣡म् इन्द्र प꣡र्वतम् महा꣡म् उरुं꣡  
 व꣡ज्रेण वज्रिन् पर्वश꣡श् चकर्तिथ  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सत्रा꣡ वि꣡श्वं दधिषे के꣡वलं स꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अव॑ । अ॒सृ॒जः॒ । निऽवृ॑ताः । सर्त॒वै । अ॒पः । स॒त्रा । विश्व॑म् । द॒धि॒षे॒ । केव॑लम् । सहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -125,14 +125,14 @@ genre M
 हे **वज्रिन्** वज्रवन् **इन्द्र** **त्वं** **तं** प्रसिद्धं **महाम्** आयामतो महान्तम् **उरुं** विस्तीर्णं पर्वत **पर्ववन्तं** मेघं वृत्रासुरं वा **वज्रेण** आयुधेन **पर्वशः** पर्वणि पर्वणि **चकर्तिथ** शकलीचकृषे । तेन मेघेन **निवृताः** आवृताः **अपः** **सर्तवै** सरणाय गमनाय **अवासृजः** अवाङ्मुखमस्राक्षीः । अतस्त्वमेव **केवलं** **विश्वं** व्याप्तं **सहः** बलं **दधिषे** धारयसि नान्यः कश्चिदिति यदेतत् तत् **सत्रा** सत्यमेव । सत्रा इति सत्यनाम, सत्रा इत्था ' ( नि. ३. १०. ३) इति तन्नामसु पाठात् ॥ महां महान्तम् । नकारतकारयोर्लोपन्छान्दसः । चकर्तिथ।  ‘ कृती छेदने '। लिटि थलि अभ्यासस्य उरदत्वहलादिशेषचुत्वानि । सर्तवै ।' कृत्यार्थे तवैकेन्” ' इति भावे तवैप्रत्ययः । कृन्मेजन्तः' (पा. सू. १. १. ३९ ) इति अव्ययत्वे ' अव्ययादाप्सुपः' इति सुपो लुक् । 'अन्तश्च तवै युगपत् ' इति आद्यन्तयोर्युगपत् उदात्तत्वम् । दधिषे । लिटि क्रादिनियमात् इट् ॥ ॥ २२ ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, thunderer, have shattered with your bolt the broad and massive cloud into fragments, and have sent down the waters that were confined in it, to flow (at will); verily you alone possess all power.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, cut that great, wide mountain apart joint by joint with your  mace, o mace-wielder.  
 You released the confined waters to flow. You acquired all strength  
@@ -140,30 +140,30 @@ exclusively and entirely.174 I.58
 The next seven hymns (I.58–64) are attributed to Nodhas Gautama. His Indra  hymns (I.61–63) are especially notable for their verbal agility.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “cut” in the first hemistich is ambiguous in English but is a past tense rendering pf. cakartitha. I added ‘apart’ despite the absence of ví because unadorned English “cut the mountain” sounds odd. The vájreṇa vajrin opening pāda b at least provides the desired v-.
 
 Verbal play, in which two unrelated words mimic an etymological connection: párvatam (a) … parvaśáḥ (b) “mountain … joint by joint.” The two items are in the same metrical position, and each is in a pāda that begins with an alliterative pair: t u váṃ tám and vájreṇa vajrin.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, who hast thunder for thy weapon, with thy bolt hast shattered into pieces this broad massive cloud.  
      Thou hast sent down the obstructed floods that they may flow: thou hast, thine own for ever, all victorious might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, hast jenen breiten Berg mit der Keule in Stücke gespalten, o Keulenträger. Du ließest die eingesperrten Gewässer frei zum Laufen. Alle Gewalt hast du vollständig im alleinigen Besitz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du hast, o Indra, diesen grossen, weiten Berg stückweis' zerspalten, Blitzesträger, mit dem Blitz; Die eingesperrten Wasser liessest strömen du, nahmst an allein die Kräfte alle insgesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, эту гору, великую, широкую,  
 Дубиной грома, о громовержец, расколол на куски.  

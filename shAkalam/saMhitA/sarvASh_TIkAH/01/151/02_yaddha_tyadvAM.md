@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् ध त्य꣡द् वाम् पुरुमीळ्ह꣡स्य सोमि꣡नः  
 प्र꣡ मित्रा꣡सो न꣡ दधिरे꣡ सुआभु꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उत꣡ श्रुतं वृषणा पस्ति꣡यावतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अध॑ । क्रतु॑म् । वि॒द॒त॒म् । गा॒तुम् । अर्च॑ते । उ॒त । श्रु॒त॒म् । वृ॒ष॒णा॒ । प॒स्त्य॑ऽवतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaddha* ← *yat*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M
 हे मित्रावरुणौ **यत्** यस्मात् कारणात् **वां** युवां **पुरुमीळ्हस्य** बहुलाभीष्टसेचनस्य **सोमिनः** **स्वाभुवः** सोमवतः स्वाभवनशीलस्य ॥ कर्मणि षष्ठी ॥ **त्यत्** उक्तलक्षणं कर्म **प्र** **मित्रासो** **न** मित्राणीव मित्रभूता ऋत्विजः प्र **दधिरे** प्रकर्षेण धारयन्ति । **ह** इति पूरणः । **अध** अतः कारणात् **गातुं** युष्मद्गमनम् **अर्चते** ॥ षष्य््र्थे चतुर्थी ॥ अर्चतः पूजयतो यजमानस्य **क्रतुं** कर्म **विदतं** जानीतम् ॥ विदेर्लोटि व्यत्ययेन शः ॥ ”उत अपि च हे **वृषणा** कामानां वर्षितारौ युवां **पस्त्यावतः** । पस्त्या इति गृहनाम, पस्त्या दुरोणे' (नि. ३. ४. ६) इति तन्नामसूक्तत्वात् । सदःप्राचीनवंशादिगृहवतो यजमानस्याह्वानं स्तोत्रं वा **श्रुतं** शृणुतम् ॥ छान्दसो विकरणस्य लुक् ॥ यद्वा । यद्यस्मात् सोमिनः सोमवतः पुरुमीळ्हस्यैतन्नामकस्य राज्ञो मित्रासो न मित्राणीव स्थिताः स्वाभुवः स्वाभवनशीलाः स्वस्वव्यापारसमर्था दधिरे अध अतः कारणात् तस्य अर्चते अर्चतः क्रतुं विदतमित्यादि पूर्ववत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre M
 Abundantly flowing: alternative rendering: purumīḷhasya sominaḥ = Soma offering Purumīḷha, a prince
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just now when the associates of Purumīḍha the soma-offerer, like allies  [/Mitras], have brought you two forward,  
 now find the will and the way for the one who chants, and listen to the  possessor of the dwelling place, you two bulls.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As these, like friends, have done this work for you, these prompt servants of Purumilha Soma-offerer,  
      Give mental power to him who sings the sacred song, and hearken, Strong Ones, to the master of the house.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da euch beiden jetzt die guten Gehilfen des somafeiernden Purumilha wie Freunde den Vorzug bei dem Opfer gegeben haben, so findet Rat und Weg für den Preisenden und erhöret, ihr Bullen, den Ruf des Hausherrn!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn diesen Trunk des Purumidha Diener hier, des Somabringers, euch als Freunde vorgesetzt, So gebt Gesang dem Dichter und Begeisterung, und hört auf den, o Helden, der im Hause weilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь так как вам двоим помощники Пурумидхи,  
 Готовящего сому, как друзья создали преимущества,  

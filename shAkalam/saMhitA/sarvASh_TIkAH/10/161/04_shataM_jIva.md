@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ जीव शर꣡दो व꣡र्धमानः  
 शतं꣡ हेमन्ता꣡ञ् छत꣡म् ऊ वसन्ता꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शता꣡युषा हवि꣡षेम꣡म् पु꣡नर् दुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 श॒तम् । इ॒न्द्रा॒ग्नी इति॑ । स॒वि॒ता । बृह॒स्पतिः॑ । श॒तऽआ॑युषा । ह॒विषा॑ । इ॒मम् । पुनः॑ । दुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
@@ -129,34 +129,34 @@ popular
 हे यक्ष्माद्विमुक्त **वर्धमानः** अहरहरभिवृद्धिं प्राप्नुवंस्त्वं **शतं** **शरदः** शतसंख्याकान् शरदृतून् **जीव** प्राणान् धारय । पूर्ववत्यन्तसंयोगे द्वितीया । **शतं** **हेमन्तान** हेमन्तर्तूंश्च जीव **शतं** **वसन्तान्** च । उशब्दः समुच्चये । अपि च **इन्द्राग्नी** इन्द्रश्चाग्निश्च **सविता** प्रेरको देवश्च **बृहस्पतिः** बृहतां देवानां पालयिता देवश्व **शतायुषा** शतसंवत्सरपरिमितस्यायुषो हेतुभूतेन **हविषा** तर्प्यमाणाः सन्तः **इमं** जनं **पुनर्दुः** पुनरस्मभ्यं प्रादुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Live in strength for a hundred autumns, a hundred winters, and a  hundred springs.  
 For a hundred (years) let Indra and Agni, Savitar, and Br̥haspati restore  him, with an oblation conferring a hundred lifetimes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Live, waxing in thy strength, a hundred autumns, live through a hundred springs, a hundred winters.  
      Through hundred-lived oblation Indra, Agni, Brhaspati, Savitar yield him for a hundred!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lebe hundert Herbste gedeihend, hundert Winter, hundert Lenze! Um das hundertlebige Opfer mögen Indra und Agni, Savitri, Brihaspati ihn zurückgeben, um hundert Jahre zu leben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erlebe nun im Wohlsein hundert Herbste und hundert Winter, hundert frohe Lenze, Ihn stelle her durch Trank voll hundert Leben Brihaspati, Savitar, Indra, Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Живи, процветая, сто осеней,  
 Сто зим и сто весен!  

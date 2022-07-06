@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुन꣡म् अन्धा꣡य भ꣡रम् अह्वयत् सा꣡  
 वृकी꣡र् अश्विना वृषणा न꣡रे꣡ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋज्रा꣡शुवः शत꣡म् ए꣡कं च मेषा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जा॒रः । क॒नीनः॑ऽइव । च॒क्ष॒दा॒नः । ऋ॒ज्रऽअ॑श्वः । श॒तम् । एक॑म् । च॒ । मे॒षान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
@@ -121,36 +121,36 @@ genre M
 **शुनम्** इति सुखनाम । **भरं** पोषणहेतुभूतं चक्षुरिन्द्रियेण निष्पाद्यं सुखम् **अन्धाय** दृष्टिहीनाय तस्मै ऋज्राश्वाय इच्छन्ती **सा** **वृकीः** हे अश्विनौ अश्वयुक्तौ कृत्स्नं जगत् व्याप्नुवन्तौ वा **वृषणा** हे वृषणौ कामानां वर्षितारौ **इति** एवं संबोध्य **नरा** नेतारौ अश्विनौ **अह्वयत्** आहूतवती । आह्वयन्त्यास्तस्याः कोऽभिप्राय इति चेत् तदुच्यते । **कनीनइव** यथा प्राप्तयौवनः कामुकः **जारः** पारदारिकः सन् परस्त्रियै सर्वं धनं प्रयच्छति एवम् **ऋज्राश्वः** मह्यं **शतमेकं** च एकोत्तरशतसंख्याकान् **मेषान्** पौरजनानां स्वभूतानपहृत्य **चक्षदानः** शकलीकुर्वन् प्रादात् । तेन ईदृशीं दुर्दशां प्राप्तः इति ॥ कनीनः । युवशब्दात् इष्टनि “ युवाल्पयोः कनन्यतरस्याम् ' ( पा. सू. ५. ३. ६४ ) इति युवशब्दस्य कन्नादेशः । व्यत्ययेन इष्ठनः खादेशः । यद्वा । ‘कन दीप्तिकान्तिगतिषु'। अस्मादौणादिक ईनप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Desiring) that the enjoyment (arising from the perfection) of the senses (should be restored to the blind), the she-wolf invoked you, (saying), "**Aśvins**, showerers (of benefits), leaders (of sacrifices), **Ṛjrāśva**, (lavish) as a youthful gallant, (has given me) a hundred and one sheep, cutting them into fragments".”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Aśvins, you bulls, that she-wolf summoned good fortune and the  winner’s stake for the blind man, saying, “O men!  
 Like the lover of a maiden is R̥jrāśva (to me), since he butchered a  hundred and one sheep.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To bring the blind man joy thus cried the she-wolf: O Asvins, O ye Mighty Ones, O Heroes,  
      For me Rjrasva, like a youthful lover, hath. cut piecemeal one and a hundred wethers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heil, Gewinn rief die Wölfin, o Bullen Asvin, dem Blinden zu mit den Worten: " Ihr Herren, Rijrasva ist es, der wie ein jugendlicher Liebhaber hundert und einen Widder aufgetischt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heil dem Blinden schrie dies Wort die Wölfin: »O Ritter, Stiere, Männer«, also sprach sie, »Ridschraçva hat gleichwie ein junger Buhle geschlachtet hundert Widder mir und einen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Счастье (и) успех прокричала слепому  
 Эта волчица, о Ашвины, о два быка, (говоря) так:  

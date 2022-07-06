@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ हि꣡ मन्द्र꣡तमम् अर्कशोकइ꣡र्  
 ववृम꣡हे म꣡हि नः श्रो꣡षि अग्ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वायु꣡म् पृणन्ति रा꣡धसा नृ꣡तमाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । न । त्वा॒ । शव॑सा । दे॒वता॑ । वा॒युम् । पृ॒ण॒न्ति॒ । राध॑सा । नृऽत॑माः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -122,7 +122,7 @@ genre M
 हे **अग्ने** मन्द्रतमं स्तुत्यतमं **त्वाम्** अर्कशोकैः अर्चनीयैः पूजनीयैः शोकैर्दीप्तिभिर्युक्तं **हि** यस्मात् **ववृमहे** वृणीमहे संभजामहे । यद्वा । अर्कशोकैरर्चनीयैः प्रशस्यैर्दीप्तिकरणैः स्तोत्रैः साधनभूतैस्त्वां संभजामहे तस्मात् **महि** महत् **नः** अस्मदीयं स्तोत्रं **श्रोषि** शृणु । हे अग्ने **नृतमाः** स्तुतीनां नेतृतमा ऋत्विजः **शवसा** बलेन **वायुं** गन्तारम् । यद्वा । वायुमिव शवसा युक्तम् **इन्द्रं** **न** इन्द्रमिव **देवता** देवतात्मानं त्वां **राधसा** हविर्लक्षणेन धनेन **पृणन्ति** प्रीणयन्ति । देवताशब्दात् द्वितीयायाः ‘सुपां सुलुक्' इति लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ With sacred praises: arkaśokaiḥ, praśasyair dītikaraṇaiḥ stotraiḥ = w
 Arkaśokaiḥ = mantraiḥ, with prayers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since we have chosen you, most gladdening with (your) ray-flames, with  our (chant-)flames, listen hard to us, Agni.  
 You, Āyu, like Indra by virtue of your power or your divinity, do the  most manly ones fill with benefit.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has a number of metrical problems or peculiarities. In pāda a the caesura unusually splits the splv. suffix from its base: mandrá-tamam; pāda b has an unusual opening (on which see below). Pāda c is, at least by the Pp. analysis, not only a syllable short (hence Holland & van Nooten Rig Veda edition’s rest at 5), but has a bad cadence for a Triṣṭubh; for possible solutions, see disc. below. Pāda d also has a bad cadence, but a different one and not easy to fix.
 
@@ -158,23 +158,23 @@ As already noted, pāda c is both metrically deficient and afflicted with a bad 
 I do not see any way to improve the cadence in d. The splv. nṛ́tama- is not suitable for the cadence of any Rigvedic meter, though it also appears there in VI.33.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We have elected thee as most delightful for thy beams' glow: hear our great laud, O Agni.  
      The best men praise thee as the peer of Indra in strength, mid Gods, like Viyu in thy bounty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn dich, den Erfreulichsten, haben wir mit Flammengesängen erwählt, darum erhöre unser großes Wort, o Agni! Dich, den Ayu, überhäufen die besten Männer mit Ehrengabe, der dem Indra an Macht oder Göttlichkeit gleicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn dich, den holdesten durch Flammenstrahlen, erwählten wir mit Eifer, hör uns, Agni; Mit Kraft erfüll'n und Gut die besten Männer wie Indra dich und Vaju bei den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это тебя, самого радостного, мы выбрали  
 (Нашими) пламенными песнями: услышь нашу великую (речь), о Агни!  

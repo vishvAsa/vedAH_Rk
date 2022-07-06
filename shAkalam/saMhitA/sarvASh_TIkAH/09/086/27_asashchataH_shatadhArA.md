@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 असश्च꣡तः शत꣡धारा अभिश्रि꣡यो  
 ह꣡रिं नवन्ते अ꣡व ता꣡ उदन्यु꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तृती꣡ये पृष्ठे꣡ अ꣡धि रोचने꣡ दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्षिपः॑ । मृ॒ज॒न्ति॒ । परि॑ । गोभिः॑ । आऽवृ॑तम् । तृ॒तीये॑ । पृ॒ष्ठे । अधि॑ । रो॒च॒ने । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asaścataḥ* ← *asaścat*
 - \[noun\], nominative, plural, feminine
@@ -120,7 +120,7 @@ genre M
 **असश्चतः** परस्परमसंगताः **शतधाराः** **अभिश्रियः** अभितः सोमं श्रयन्त्यः **ताः** प्रसिद्धाः सूर्यस्य दीप्तयः **हरिम्** **अव** **नवन्ते** गच्छन्ति । **उदन्युवः** उदकेच्छावत्यः सत्यः । यद्वा । धाराशब्देनात्र सोमधारा अभिप्रेताः । असश्चतोऽसंबद्धा अभिश्रियोऽभितो गाः श्रयन्त्यो गोभिः श्रितास्ताः प्रसिद्धा उदन्युव इन्द्रसंबन्धिवृष्टिकामा हरिमिन्द्रमव नवन्ते संगच्छन्ते । **क्षिपः** अङ्गुलयोऽपि **गोभिः** दीप्तिपक्षे गोभी रश्मिभिः **आवृतं** सोमधारापक्षे गोभिः **परि** आवृतं व्याप्तं सोमं **मृजन्ति** अवशोधयन्ति । **दिवः** आदित्यात् **रोचने** रोचमाने यमादित्यो रोचयति तस्मिन् **तृतीये** क्षित्यपेक्षायां तृतीयभूते द्युलोके **अधि** वसन्तं सोमं मृजन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,14 +137,14 @@ Abhiśriyaḥ = mixed with milk;
 Udanyuvaḥ = desiring (Indra's rain)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Inexhaustible, possessing a hundred streams, excelling in beauty  [/serving as mixture], they [=mixing waters] roar down to the tawny  
 one as they provide water.  
 The fingers groom him wreathed with cows, on the third back, in the  luminous realm of heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the likely pun on abhiśríyaḥ, see Geldner (n. 27ab), also Scarlatta 547-48.
 
@@ -162,23 +162,23 @@ Cows (that is, the milk-mixture) are esp. prominent in this tṛca: there are se
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The ceaseless watery fountains with their hundred streams sing, as they hasten near, to him the Golden-hued  
      Him, clad in robes of milk, swift fingers beautify on the third height and in the luminous realm of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese hundertstrahligen, bevorrechteten, wassergebenden Ströme rauschen auf den Falben herab. Die Finger putzen den rings in Kuhmilch eingehüllten auf dem dritten Rücken, dem Lichtraum des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In hundert Strömen unversieglich rauschten hin die warmen Tränke wellenreich zum goldnen Ross; Die Finger streicheln den von Milch umfluteten auf drittem Rücken in des Himmels lichter Höh.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

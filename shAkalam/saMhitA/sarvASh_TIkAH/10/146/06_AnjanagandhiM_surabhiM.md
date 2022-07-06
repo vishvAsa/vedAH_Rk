@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ञ्जनगन्धिं सुरभि꣡म्  
 बह्वन्ना꣡म् अ꣡कृषीवलाम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अरण्यानि꣡म् अशंसिषम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 प्र । अ॒हम् । मृ॒गाणा॑म् । मा॒तर॑म् । अ॒र॒ण्या॒निम् । अ॒शं॒सि॒ष॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āñjanagandhiṃ* ← *āñjana*
 - \[noun\], neuter
@@ -96,42 +96,42 @@ popular;; epic anuṣṭubh (292)
 ”आञ्जनगन्धिम् । अञ्जनस्येदमाञ्जनं कस्तूर्यादि । तस्य गन्ध इव गन्धो यस्यास्तादृशी । उपमानाच्च ' (पा. सू. ५. ४. १३७) इति गन्धस्येदन्तादेशः । अत एव **सुरभिं** सौरभ्योपेतां **बह्वन्नां** बहुभिरन्नैरदनीयैः फलमूलादिभिरुपेताम् ”अकृषीवलाम् । कृषिरेषामस्तीति कृषीवलाः कर्षकाः ।  ‘ रजःकृषि° (पा. सू. ५.२.११२ ) इत्यादिना वलच् ।' वले ' (पा. सू. ६.३.११८ ) इति दीर्घः । तैर्वियुक्तां तादृशीं ”मृगाणां ”मातरं जनयित्रीम् ”अरण्यानिम् अरण्यानीम् ”अहं **प्र** **अशंसिषम्** उक्तेन प्रकारेण स्तुतवानस्मि ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I praise the musk-scented, fragrant, fertile, uncultivated **Araṇyāni**, the mother of wild animals.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fragrant with ointments, sweet-smelling, providing much food though  she does no plowing,  
 the Mother of wild beasts, the Lady of the Wilderness have  
 I proclaimed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now have I praised the Forest Queen, sweet-scented, redolent of balm,  
      The Mother of all sylvan things, who tills not but hath stores of food.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Sweet-scented, redolent of balm, Replete with food, though tilling not, Mother of beasts, the forest nymph, Her I have magnified with praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach Salbe riechend, duftig, speisereich auch ohne Pflügen: diese Mutter des Wildes, die Frau des Waldes habe ich jetzt gepriesen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gerühmt hab' ich die Waldesfrau, sie, die des Wildes Mutter ist, Von Salben duftend und Gewürz, an Speisen reich auch ohne Pflug.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Распространяющую запах благовонной мази, благоуханную,  
 Богатую пищей, (хоть и) не пашущую –  

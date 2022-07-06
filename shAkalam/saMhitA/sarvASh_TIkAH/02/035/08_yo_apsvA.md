@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अप्सु꣡ आ꣡ शु꣡चिना दइ꣡वियेन  
 ऋता꣡वा꣡जस्र उर्विया꣡ विभा꣡ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ जायन्ते वीरु꣡धश् च प्रजा꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 व॒याः । इत् । अ॒न्या । भुव॑नानि । अ॒स्य॒ । प्र । जा॒य॒न्ते॒ । वी॒रुधः॑ । च॒ । प्र॒ऽजाभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -121,41 +121,41 @@ genre M
 योपान्नपात् ऋतावा ऋतमित्युदकनाम तद्वान् सत्यवान्वा अजस्रोनित्यः एकरूपेणसदावर्त मानः उर्वियाउरुर्विस्तीर्णः अप्सुमेघस्थासुमध्येशुचिनाशोचकेनदैव्येनदेवसम्बन्धिनातेजसाआसम न्ताद्विभाति विशेषेणप्रकाशते अस्यापान्नपातः अन्याअन्यानिभुवनानि सर्वाणिभूतजातानि च वयाइत् शाखाएववीरुधओषधयः प्रजाभिःस्वकीयाभिः पुष्पफलादिभिः सहअस्मादेव प्रजायन्ते ॥ ८ ॥ पूर्वोक्तसारस्वतसत्रस्यापोनप्त्नीयेचरौअपान्नपादाहीत्येषानुवाक्या सूत्रितञ्च—अपान्नप्त्नेचरुम पान्नपादाह्यस्थादुपस्थमिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All other beings are, as it were, branches of him, who, truthful, eternal, and vast, shines amid the waters with pure and divine (radiance); and the shrubs, with their products, are born (of him).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who in the waters, truthful and inexhaustible, radiates far and wide  with his heavenly gleaming—  
 the other entities are propagated just as twigs of him, and the plants  propagate themselves through their progeny.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who in waters with his own pure Godhead shines widely, law-abiding, everlasting-  
      The other worlds are verily his branches, and plants are born of him with all their offspring.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Who in the waters, with celestial brightness, Shines widely forth, eternal, law-abiding. Of him as branches every plant and creature Do propagate themselves with all their offspring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der im Wasser mit reinem göttlichen Glanze weithin erstrahlt, wahrhaft, unverlöschlich, als dessen Zweige pflanzen sich die anderen Wesen und die Gewächse mit ihrem Nachwuchs fort.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der heilige, der in den Wassern weithin erstrahlt mit Glanz der Götter unauslöschlich; Nur seine Zweige sind die andern Wesen, durch Samen pflanzen fort sich die Gewächse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто в водах ярко, широко сверкает чистым  
 Божественным (светом), благочестивый непреходящий (бог),-  

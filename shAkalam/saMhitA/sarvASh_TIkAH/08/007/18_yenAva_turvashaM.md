@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡नाव꣡ तुर्व꣡शं य꣡दुं  
 ये꣡न क꣡ण्वं धनस्पृ꣡तम्  
 राये꣡ सु꣡ त꣡स्य धीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 रा॒ये । सु । तस्य॑ । धी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yenāva* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **येन** आत्मीयेन रक्षणेन **तुर्वशम्** एतत्संज्ञं **यदुम्** एतत्संज्ञं च राजर्षिम् **आव** यूयं रक्षितवन्तः स्थ । अवतेर्लिटि मध्यमबहुवचने रूपमेतत् । **येन** च **धनस्पृतं** धनकामं **कण्वम्** ऋषिं रक्षितवन्तः स्थ **तस्य** युष्मदीयं रक्षणं **राये** धनार्थं **सु** **धीमहि** शोभनं ध्यायाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We meditate on that (genitive rosity) whereby for (the sake of granting them) riches you have protectedTurvaśa and **Yadu** and the wealth-desiring **Kaṇva**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With which (aid) you aided Turvaśa and Yadu, with which (you aided)  Kaṇva, who gained the stakes,  
 may we receive (a portion) of this for wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the extremely recessive 2nd pl. perfect āvá: 2nd pl. pfs. are rare and poorly marked as it is; with its initial swallowed by yéna, this one barely surfaces.
 
@@ -114,28 +114,28 @@ As for Turvaśa and Yadu -- though, as Geldner points out, their helper is usual
 The construction of c is unusual. With Geldner (and Renou), I take tásya as a partitive gen. with dhīmahi, though somewhat reluctantly. The dat. rāyé ‘for wealth’ is then an indication of our purpose once we receive some help from the Maruts; Geldner’s fuller “um Reichtum (zu gewinnen)” makes the purpose clearer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For wealth, we think of that whereby ye aided Yadu, Turvasa,  
      And KanVa who obtained the spoil.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 For riches, let us surely win Your help that aided Turvaśa, Yadu, Kaṇva, who gained great wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Womit ihr dem Turvasa und Yadu, womit ihr dem preisgewinnenden Kanva beigestanden habt, dieser Hilfe möchten wir fein teilhaft werden um Reichtum zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Reichthum werde uns zu Theil mit dem ihr Turvaça, Jadu Und Kanva'n halft, der Preis errang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чем вы помогли Турваше (и) Яду,  
 Чем Канве, захватившему награду,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वां यज्ञे꣡भिर् आ꣡वृतो  
 अ꣡धिवस्त्रा वधू꣡र् इव  
 सपर्य꣡न्ता शुभे꣡ चक्राते अश्वि꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 स॒प॒र्यन्ता॑ । शु॒भे । च॒क्रा॒ते॒ इति॑ । अ॒श्विना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -90,7 +90,7 @@ genre M
 अथ पूर्वोऽर्धर्चः परोक्षकृतः । **यः** मनुष्यः **वां** युवयोः **यज्ञेभिः** यजनैः पूजनैः यद्वा युष्मद्विषयैर्यागैः **आवृतः** परिवृतो भवति । तत्र दृष्टान्तः । अधिवस्त्रा उपरिनिहितवस्त्रा **वधू:** अन्येन वस्त्रेण यथाच्छादिता भवति तथावृतो यदा भवति तदा **सपर्यन्ता** अभीष्टप्रदानेन तं परिचरन्तौ **अश्विना** अश्विनौ भवन्तौ तं मनुष्यं **शुभे** **चक्राते** मङ्गले धने कृतवन्तौ । तं धनादियुक्तमकार्ष्टमित्यर्थः । यो युवाभ्यां हवींषि प्रयच्छति तं धनादियुक्तं कुरुतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,34 +101,34 @@ genre M
 Raiment: adhivastra, having another garment over herordinary clothes
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who is swathed in sacrifices for you, like a bride in her  (wedding) dress—  
 serving (him [=Agni]), the Aśvins have made (him) to be beautiful—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the referent of ab to be Agni. Cf. III.3.5 táviṣībhir ā́vr̥tam ‘swathed with [=in] his powers”; given Agni’s ritual role it makes sense for him to be swathed in sacrifices. Making a god the referent avoids the role reversal Renou notes in saparyántā, with (in his view) the gods serving humans rather than the usual situation -- though he then tr. śubhé cakrāte as reflexive or self-involved: “ils se sont fait (pour eux-mêmes une parure -- contrapartie de b),” rather than supplying a human object. But surely it is better (with Geldner) to supply as obj. of śubhé cakrāte the being referred to in the relative clause of ab.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him whom your sacrifices clothe, even as a woman with her robe,  
      The Asvins help to glory honouring him well.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ganz von eurer Verehrung angetan ist wie eine mit Kleidern bedeckte Frau, ihn ehren die Asvin und haben ihm zur Pracht verholfen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer sich in eure Opfer hüllt, gleich wie die Braut in ihr Gewand, Den schaffen hin die Ritter, ehrend ihn, zum Glück.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто окутал себя вашими жертвами,  
 Как невеста, убранная нарядом,  

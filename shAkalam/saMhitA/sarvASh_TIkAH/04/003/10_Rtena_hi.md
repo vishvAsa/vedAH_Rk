@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋते꣡न हि꣡ ष्मा वृषभ꣡श् चिद् अक्तः꣡  
 पु꣡माँ अग्निः꣡ प꣡यसा पृष्ठि꣡येन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृ꣡षा शुक्रं꣡ दुदुहे पृ꣡श्निर् ऊ꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अस्प॑न्दमानः । अ॒च॒र॒त् । व॒यः॒ऽधाः । वृषा॑ । शु॒क्रम् । दु॒दु॒हे॒ । पृश्निः॑ । ऊधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
@@ -119,7 +119,7 @@ genre M
 **वृषभः** अभिमतफलवर्षकः **पुमान्** श्रेष्ठः सः **अग्निः** **ऋतेन** सत्यभूतेन **पृष्ठ्येन** धारकेण **पयसा** **अक्तः** सिक्तो भवति । **हि** **ष्म** **चित्** त्रयः पूरणाः। **वयोधाः** अन्नदः सोऽग्निः **अस्पन्दमानः** एकत्रावस्थितः सन् एव **अचरत्** सर्वत्र तेजसा चरति । तथा **वृषा** अपां वर्षकः **पृश्निः** सूर्यः **शुक्रं** पयः **ऊधः** अन्तरिक्षं मेघं वा **दुदुहे** दोग्धि ॥ अक्तः ।  ‘ अञ्जू व्यक्तिम्रक्षणगतिषु'। कर्मणि निष्ठा । दुदुहे। द्विकर्मकोऽयं धातुः । ऊधः ।  ‘ अकथितं च ' इति कर्मसंज्ञा ॥ ॥ २१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,13 +130,13 @@ genre M
 The sun milked: duduhe pṛśnir **udhas**: prśni = **Sūrya**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because by truth even the bull, the male Agni, was anointed with the  milk on the top [=cream, that is, butter],  
 not bucking, he went about conferring vigor: the bull as Pr̥śni milked  gleaming (milk/semen) from his udder.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This 2nd vs. in the truth-formulation sequence both continues the mystical description of the dawn sacrifice and presents another paradox. With regard to the sacrifice, the milk produced in vs. 9 becomes the butter oblation poured on the sacrificial fire, as Geldner discusses. Geldner’s explanation of the phrase páyasā pṛṣṭhyèna lit.
 
@@ -157,28 +157,28 @@ Each of these vss. begins with the resonant and charged instr. ṛténa ‘by tr
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni the Bull, the manly, hath been sprinkled with oil upon his back, by Law eternal.  
      He who gives vital power goes on unswerving. Prsni the Bull hath milked the pure wiiite udder.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 With Rita indeed, with the milk of the back 1, the bull has been anointed, Agni the man. Without trembling he moved on bestowing his vigour. The speckled bull has poured out his bright udder 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Rechts wegen ward ja der Stier, der männliche Agni, mit der rahmigen Milch gesalbt. Der Kraftspender pflegte nicht auszuschlagen, als Prisnikuh hat der Stier sein helles Euter ausgemolken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn traun der Stier durch rechte Milch gesalbet auf seinem Rücken, Agni, er der Mannheld, Nicht gleitend wandert er, der Kraftverleiher, der Same strömt dem Stier, der Kuh das Euter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По закону ведь, в самом деле, бык, мужественный  
 Агни помазан горним молоком.  

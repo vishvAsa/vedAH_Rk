@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ स꣡ यो꣡ वरिमा꣡णम् पृथिव्या꣡  
 वर्ष्मा꣡णं दिवो꣡ अ꣡कृणोद् अयं꣡ सः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मो दाधार उरु꣡ अन्त꣡रिक्षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । पी॒यूष॑म् । ति॒सृषु॑ । प्र॒वत्ऽसु॑ । सोमः॑ । दा॒धा॒र॒ । उ॒रु । अ॒न्तरि॑क्षम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 **सः** खलु **अयं** **सोमः** **यः** **पृथिव्याः** **वरिमाणम्** उरुरवं विस्तृतत्वम् **अकृणोत्** अकरोत् । तथायं सोमः **दिवः** द्युलोकस्य **वर्ष्माणं** संहतत्वं दृढत्वमकृणोदकरोत् । **अयं** सोमः **सः** हि भवति । अपि च **अयं** सोमः **तिसृषु** ओषधीष्वप्सु गोषु च **प्रवत्सु** प्रकृष्टास्वेतासु **पीयूषं** रसं **दाधार** धारयति । तथा **उरु** विस्तीर्णम् **अन्तरिक्षं** च धारयति । तथा च मन्त्रान्तरं- त्वमिमा ओषधीः सोम विश्वास्त्वमपो अजनयस्त्वं गाः । त्वमा ततन्थोर्वन्तरिक्षम् ' ( ऋ. सं. १. ९१. २२ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ genre M
 Three principal receptacles: plural nt, water and cows; has upheld the spacious: Soma as the moon and Soma as a product; cf. svamimā **oṣadhīḥ** viśvāstvāmapo ajanayastvam gāḥ tvamā tatanthorvantarikṣam: RV 1.091.22
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is the one who created the expanse of the earth; who created the  height of heaven is this one here;  
 this one (created) the beestings on the three slopes [=worlds?]. Soma  upheld the broad midspace.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich has a repetitive structure inside a chiastic frame. The opening ayáṃ sá yáḥ is balanced by ayáṃ sáḥ at the end of b; we might perhaps expect *yó ayáṃ sáḥ in fact. The single verb ákṛṇot, inside this frame, does for both objects, which are responsive: morphologically identical and near-rhyming acc. varimā́ṇam … varṣmā́ṇam, each with a dependent gen. belonging to a matched semantic pair, pṛthivyā́ḥ … diváḥ.
 
@@ -162,23 +162,23 @@ the final vṛṣabhó marútvān “the bull accompanied by the Maruts”: mar�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This, even this, is he who hath created the breadth of earth, the lofty height of heaven.  
      He formed the nectar in three headlong rivers. Soma supports the wide mid-air above us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser ist es, der die Breite der Erde, dieser ist es, der die Höhe des Himmels schuf. Dieser hat in den drei Strömen den Seim geschaffen: Soma hat den weiten Luftraum gefestigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist es, der der Erde Breite ausmass, und der des Himmels hohe Wölbung baute; Er hielt des Meeres Biestmilch an drei Halden, den weiten Luftkreis Soma fest zusammen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он тот, кто создал ширину земли,  
 Высоту неба, это он.  

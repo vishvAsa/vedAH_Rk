@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्निष्वात्ताः पितर ए꣡ह꣡ गछत  
 स꣡दः-सदः सदत सुप्रणीतयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡था रयिं꣡ स꣡र्ववीरं दधातन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒त्त । ह॒वींषि॑ । प्रऽय॑तानि । ब॒र्हिषि॑ । अथ॑ । र॒यिम् । सर्व॑ऽवीरम् । द॒धा॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṣvāttāḥ* ← *agniṣvātta*
 - \[noun\], vocative, plural, masculine
@@ -125,36 +125,36 @@ popular
 **अग्निष्वात्ताः** अग्निना स्वादिता एतन्नामकाः **पितरः** यूयम् **इह** अस्मिन् पितृकर्मणि **आ** **गच्छत** । आगत्य च हे सुप्रणीतयः अभिपूजितप्रणयनाः यूयं **सदःसदः** तत्तत्स्थानं **सदत** सीदत । तत्र तत्र स्थाने यथेष्टमुपविशतेत्यर्थः। उपविश्य च **बर्हिषि** आसादितानि **प्रयतानि** शुचीनि **हवींषि** **अत्त** भक्षयत । **अथ** अनन्तरं **सर्ववीरं** सर्वैर्वीरैः पुत्रपौत्रैरुपेतं **रयिं** धनं **दधातन** अस्मभ्यं दत्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agniṣvātta** **Pitṛs**, come to this solemnity; sit down, directors in the right way, in your appropriateplaces; eat the oblations spread on the grass, and grant us riches and **male** posterity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sweetened by Agni, o forefathers, come here. Sit each on his own seat,  you of good guidance.  
 Eat the oblations set forth on the ritual grass. Then provide wealth in  hale heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fathers whom Agni's flames have tasted, come ye nigh: ye kindly leaders, take ye each your proper place.  
      Eat sacrificial food presented on the grass: grant riches with a multitude of hero sons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr vom Feuer schmackhaft befundenen Väter, kommet hierher, setzet euch jeder an seinen Platz, ihr guten Führer! Esset die auf dem Barhis dargereichten Opferspenden und verleihet dann einen Schatz von lauter Söhnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr einst verzehrt vom Feuer naht, o Väter, euch, die schön ihr leitet, setzet euch auf Sitz für Sitz; Geniesst die dargereichten Speisen auf der Streu und schenkt uns Gut, das alle Männer reichlich nährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О отцы, пришедшиеся Агни по вкусу, идите сюда,  
 Сядьте каждый на свое место, о вы, кого правильно ведут!  

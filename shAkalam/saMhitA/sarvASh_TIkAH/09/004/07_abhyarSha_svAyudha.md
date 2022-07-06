@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ अर्ष सुआयुध  
 सो꣡म द्विब꣡र्हसं रयि꣡म्  
 अ꣡था नो व꣡स्यसस् कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अथ॑ । नः॒ । वस्य॑सः । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **स्वायुध** शोभनायुध **सोम** त्वं द्विबर्हसं द्वयोर्द्यावापृथिव्योः स्थानयोः परिवृढं **रयिं** धनम् **अभ्यर्ष** अस्मानभिगमय । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,29 +101,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Dvibarhasam = dvayor **dyāvā** pṛthivyoḥ sthānayoḥ parivṛḍham; it means 'double', 'abundant
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush, well-armed Soma, toward double-lofty wealth.  
 – Then make us better off.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well-weaponed Soma, pour to usa stream of riches doubly great;  
      And make us better than we are.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe, du wohlbewaffneter Soma, zu doppeltem Reichtum, in den Kämpfen siegreich, und mach uns besser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O schönbewehrter, ströme her, o Soma, zwiefach grossen Schatz Und mach' uns reicher noch an Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Струи (нам), о прекрасно вооруженный  
 Сома, богатство двойной прочности  

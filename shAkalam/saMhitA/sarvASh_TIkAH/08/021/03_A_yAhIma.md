@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि इम꣡ इ꣡न्दवो  
 अ꣡श्वपते गो꣡पत उ꣡र्वरापते  
 सो꣡मं सोमपते पिब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 सोम॑म् । सो॒म॒ऽप॒ते॒ । पि॒ब॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -102,36 +102,36 @@ genre M;; repeated line
 **अश्वपते** अश्वानां स्वामिन् **गोपते** गवां पालयितः **उर्वरापते** । सर्वसस्याढ्या भूमिरुर्वरा । तस्याः पते हे इन्द्र **इन्दवः** सोमाः **इमे** भवदीयाः । त्वदर्थमभिषुता इत्यर्थः । तस्मात् **आ** **याहि** आगच्छ । आगत्य **सोमपते** हे इन्द्र **सोमं** **पिब** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of horses, of cattle, of corn-land, these libations (are for you); come, lord of the **Soma**, drink theeffused Soma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here. Here are the drops, o lord of horses, lord of cows, lord of  fields.  
 Drink the soma, soma-lord.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither, for the drops are here, O Lord of corn-lands. Lord of horses, Lord of kine:  
      Drink thou the Soma, Soma's Lord!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm her, hier sind die Somasäfte, du Rosseherr, Rinderherr, Flurherr! Trink den Soma, Herr des Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier sind die Indu's, komme her, o Herr der Rosse, Rinder und der Felder Herr, Den Soma trinke, Somaherr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходи! Вот соки сомы.  
 О господин коней, господин коров, господин лугов,  

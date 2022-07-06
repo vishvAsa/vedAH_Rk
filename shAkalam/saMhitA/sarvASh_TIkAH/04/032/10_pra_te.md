@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते वोचाम वीरि꣡या  
 या꣡ मन्दसान꣡ आ꣡रुजः  
 पु꣡रो दा꣡सीर् अभी꣡तिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 पुरः॑ । दासीः॑ । अ॒भि॒ऽइत्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -84,41 +84,41 @@ genre M
 हे इन्द्र **मन्दसानः** - सोमेन मोदमानस्त्वं **दासीः** क्षेप्तुरसुरस्य स्वभूताः **याः** **पुरः** यानि नगराणि **अभीत्य** अभिगम्य **आ** **अरुजः** आ समन्तात् अभाङ्क्षीः । हे इन्द्र **ते** त्वदीयानि तत्रत्यानि **वीर्या** वीर्याणि वयं स्तोतारः **प्र** **वोचाम** प्रकर्षेण वदाम ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We proclaim your prowess, whereby exhilarated (by the **Soma**), and having gone against them, you have demolished the servile cities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We shall proclaim your heroic deeds: that you in your exhilaration  broke into  
 the Dāsa fortresses, after having attacked them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rel. prn. beginning pāda b, Saṃhitā yā́, is ambiguous: it can stand for yā́(neut. pl. and presumably picking up immed. preceding vīryā̀in the main cl.) or yā́ḥ (so Pp.) (fem. pl. and presumably anticipating púro dā́sīḥ in c). Neither is syntactically satisfying: if it has vīryā̀as its antecedent, as normal syntactic practice would expect, it doesn’t make sense in its clause: Indra didn’t “break into” his manly deeds. If it refers to the fortresses, it works fine with the verb in its clause but has no direct connection to the main clause. I assume the ambiguity was meant and loose subordination was the reason. I render it as a general subordinator to avoid both bad choices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We will declare thy hero deeds, what Disa forts thou brakest down,  
      Attacking them in rapturous joy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen deine Heldentaten verkünden, welche dasischen Burgen du somaberauscht im Anlauf gebrochen hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir preisen deine Heldenthat, als der Dämonen Burgen du Im Rausche angriffst und zerbrachst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим провозгласить твои героические подвиги:  
 Какие крепости дасов ты проломил,  

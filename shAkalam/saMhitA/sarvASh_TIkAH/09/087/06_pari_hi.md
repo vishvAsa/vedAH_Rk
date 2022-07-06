@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि हि꣡ ष्मा पुरुहूतो꣡ ज꣡नानां  
 वि꣡श्वा꣡सरद् भो꣡जना पूय꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रयिं꣡ तु꣡ञ्जानो अभि꣡ वा꣡जम् अर्ष
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अथ॑ । आ । भ॒र॒ । श्ये॒न॒ऽभृ॒त॒ । प्रयां॑सि । र॒यिम् । तुञ्जा॑नः । अ॒भि । वाज॑म् । अ॒र्ष॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -123,14 +123,14 @@ genre M
 अयं **परि** **असरत्** परिसरति **जनानाम्** अर्थाय **विश्वा** सर्वाणि **भोजना** भोजनान्यन्नानि धनानि वा । कीदृशः। **पुरुहूतः** बहुभिराहूतः **पूयमानः** शोध्यमानः । अथ प्रत्यक्षकृतः । **अथ** इदानीं हे **श्येनभृत** श्येनेनाहृत सोम त्वं **प्रयांसि** अन्नानि **आ** **भर** आहर । **रयिं** धनं **तुञ्जानः** ददानः **वाजम्** अन्नं रसम् **अभि** **अर्ष** अभिगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invoked by many, the **Soma**, undergoing purification, pours forth all food (for the sake of men); falcon-borne, bring us food, conveying wealth send forth your juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because, much invoked of the peoples, he has flowed around all  
 nourishments while being purified—  
@@ -138,23 +138,23 @@ now bring pleasurable things, you falcon-brought one; thrusting out
 wealth, rush to the prize.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, while he cleanses him, invoked of many, hath flowed to give the people all enjoyment.  
      Thou whom the Falcon brought, bring, dainty viands, bestir thyself and send us wealth and booty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Während er geläutert ward, hat ja der Vielgerufene der Völker alle Genüsse eingekreist. Nun bringe uns, du Falkengebrachter, Labsale! Reichtum herausschlagend rinne nach dem Siegespreis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn viel gerufen von den Menschen rann er um alle Nahrung rings der hell geklärte; So bring' uns nun, vom Aar getragner! Wonne, und ströme eilend Reichthum her und Nahrung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А ведь этот многопризываемый среди народов,  
 Струясь, окружил все наслаждения, пока (его) очищают.  

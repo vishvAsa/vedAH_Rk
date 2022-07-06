@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡स्य त꣡न्तुर् वि꣡ततः पवि꣡त्र आ꣡  
 जिह्वा꣡या अ꣡ग्रे व꣡रुणस्य माय꣡या  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡त्रा कर्त꣡म् अ꣡व पदाति अ꣡प्रभुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 धीराः॑ । चि॒त् । तत् । स॒म्ऽइन॑क्षन्तः । आ॒श॒त॒ । अत्र॑ । क॒र्तम् । अव॑ । प॒दा॒ति॒ । अप्र॑ऽभुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
@@ -128,7 +128,7 @@ genre M
 **ऋतस्य** सत्यभूतस्य यज्ञस्य **तन्तुः** तनिता **पवित्रे** अविवालमये दशापवित्रे **विततः** विस्तृतः । यद्वा । पवित्रेऽन्तरिक्षे विस्तृतः सोमः **वरुणस्य** **जिह्वाया** **अग्रे** **मायया** कर्मणा **आ** आस्थितः। वरुणजिह्वाग्र आपस्तिष्ठन्ति । तासु सोमो वसतीति वसतीवर्याद्युदकेषु स्थित इत्यर्थः । ततः **धीराश्चित्** कर्मणि प्राज्ञा एव **तत्** वरुणजिह्वाग्रस्थानं **समिनक्षन्तः** । इनक्षतिर्गतिकर्मा । संव्याप्नुवन्तः सन्तः **आशत** स्तुतिभिर्हविर्भिर्वा प्राप्नुवन् । यः पुनः **कर्तम्** ।' कालाध्वनो:° ' इति द्वितीया । कर्मणि **अप्रभुः** समर्थो न भवति सोऽयम् **अत्र** अस्मिनेव लोके **अव** **पदाति** अवस्तान्नरके पतति नोपरि गच्छति । ‘पद गतौ ' । लेट्याडागमः । तस्मात्सर्वैरग्निष्टोमादिकर्म कर्तव्यमित्येषोऽर्थोऽभिहितो भवति ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 Varuṇa's tongue: i.e., the vasatīvarī waters, which are on the tip of Varuṇa's tongue; the wise...reached it: 'it' refers to the tip of Varuṇa's tongue; the wise reach it by their praises or oblations.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The thread of truth is stretched widely, here on the filter and on the tip  of the tongue, through the magic power of Varuṇa.  
 Only the insightful, seeking to reach it together, have attained it. The one  who does not advance will fall down into the pit here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this vs., esp. its first hemistich, provides the solution to the implicit riddle of the hymn, by associating “the thread of truth” (ṛtásya tántuḥ) both with the filter and therefore the soma streams on their ritual journey and with the tongue tip and therefore the priest-poets’ hymns. See disc.
 
@@ -162,23 +162,23 @@ Note esp. pavítram … vítatam matching our vítataḥ pavítra ā́, prabhú�
 In d padāti must be a double marked subjunctive to the root aor, which is otherwise only middle. The model for its creation is not clear to me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The thread of sacrifice spun in the cleansing sieve, on Varuna's tongue-tip, by supernatural might,-  
      This, by their striving, have the prudent ones attained: he who hath not this power shall sink into the pit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Faden der Wahrheit ist in der Seihe ausgespannt auf der Spitze der Zunge durch die Zaubermacht des Varuna. Auch nur die Sachkundigen, die das zu erreichen suchen, haben es erreicht. Der Unvermögende soll dabei in die Grube abstürzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Opfers Netz ist in der Seihe ausgespannt beim Opferanfang durch die Macht des Varuna; Die weisen haben strebend jetzt ihr Ziel erreicht, so falle in die Grube denn, wer nichts vermag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нить закона протянута в цедилке  
 (И) на кончике языка благодаря волшебной силе Варуны.  

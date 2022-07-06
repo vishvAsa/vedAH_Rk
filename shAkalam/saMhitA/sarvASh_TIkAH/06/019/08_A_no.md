@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो भर वृ꣡षणं शु꣡ष्मम् इन्द्र  
 धनस्पृ꣡तं शूशुवां꣡सं सुद꣡क्षम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡वोति꣡भिर् उत꣡ जामीँ꣡र् अ꣡जामीन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 येन॑ । वंसा॑म । पृत॑नासु । शत्रू॑न् । तव॑ । ऊ॒तिऽभिः॑ । उ॒त । जा॒मीन् । अजा॑मीन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -125,21 +125,21 @@ genre M
 हे **इन्द्र** त्वं **वृषणं** वर्षितारं **शुष्मं** सेनालक्षणं बलं **नः** अस्मभ्यम् **आ** **भर** आहर । कीदृशम् । **धनस्पृतं** धनस्य पालकं **शूशुवांसं** प्रवृद्धं **सुदक्षं** शोभनबलम् । हे इन्द्र **तवोतिभिः** त्वदीयाभी रक्षाभिः **पृतनासु** संग्रामेषु । पृतना इति संग्रामनाम । **येन** बलेन **शत्रून्** **वंसाम** हनाम। उतेत्यत्र भिन्नक्रमः । **जामीन्** बन्धून् **उत** अपि च **अजामीन्** शत्रूंश्च येन शुष्मेण वंसाम तं शुष्ममा भरेति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us, **Indra**, vigorous strenght, the realizer of wealth, great and propitious, wherewith, thorugh your protection, we may destroy our enemies in battles, whether they be kinsmen or strangers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring here to us, Indra, the bullish unbridled force that gains the stakes,  swollen with strength, of good skill,  
 through which we will vanquish our rivals in battles, both kin and  
 non-kin, with your help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In d the utá is oddly positioned, since it appears to be meant to conjoin jāmī́m̐r ájāmīn “kin and non-kin,” there being no other likely candidates. Klein (DGRV I.356-57) calls it a “peculiar passage” and classes it with two other examples of what he schematizes as utá X Y (/ Z …). The pair jāmí- ájāmi- is several times asyndectic (I.111.3, IV.4.5, VI.44.17) as here, so no conjunction is actually necessary, but we can cite nearby VI.25.3 … jāmáya utá yé ‘jāmayaḥ, where the utá is correctly placed. Perhaps our passage is a blend of the asyndectic figure and the “X and which Y” construction in VI.25.3.
 
@@ -163,23 +163,23 @@ As noted in the published introduction, all three of these vss. contain the phra
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, bestow on us the power heroic skilled and exceeding strong, that wins the booty,  
      Wherewith, by thine assistance, we may conquer our foes in battle, be they kin or stranger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, bring uns den bullenhaften Mut mit, der den Siegerpreis davonträgt, den überlegenen, sehr tüchtigen, durch den wir in den Schlachten die Feinde überwinden können, stammesverwandte und fremde, durch deine Gnaden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Heldenkraft bring uns herbei, o Indra, die Preis erringt, sehr mächtige, gewalt'ge, Durch die in Schlachten Feinde wir besiegen durch deine Gunst, verwandte, unverwandte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси нам мужественный пыл, о Индра,  
 Захватывающий богатство, бьющий через край, очень действенный,  

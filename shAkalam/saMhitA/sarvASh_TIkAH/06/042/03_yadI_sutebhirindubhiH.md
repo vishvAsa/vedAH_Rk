@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡दी सुते꣡भिर् इ꣡न्दुभिः  
 सो꣡मेभिः प्रतिभू꣡षथ  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 धृष꣡त् तं꣡-तम् इ꣡द् ए꣡षते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वेद॑ । विश्व॑स्य । मेधि॑रः । धृ॒षत् । तम्ऽत॑म् । इत् । आ । ई॒ष॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadī* ← *yadi*
 - \[adverb\]
@@ -99,7 +99,7 @@ genre M
 हे अध्वर्यवः **सुतेभिः** अभिषुतैः **इन्दुभिः** उन्दनशीलैर्दीप्तैर्वा **सोमेभिः** सोमैः **यदि** **प्रतिभूषथ** इन्द्रं प्रति यूयं प्रतिगच्छथ ॥ ‘ भू प्राप्तौ' इत्यस्यैतद्रूपम् । तदानीं **मेधिरः**  मेधावी । मेधो यज्ञस्तद्वान्वा । स इन्द्रः **विश्वस्य** विश्वं सर्वं भवदीयं कामं **वेद** वेत्ति जानाति । ज्ञात्वा च **धृषत्** । शत्रूणां धर्षकः सन् **तंतमित्** तं तं काममेव **एषते** प्रापयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,37 +110,37 @@ genre M
 Tam tam id eṣate: note the repetition of the relative with reference to the antecedent **kāmam**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you attend on him with the pressed soma drops,  
 the wise one knows of it all, but he boldly hastens just to that one  
 [=soma].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take yádī as representing yád ī with the enclitic acc. ī, parallel to īm in the last vs. Note that ī here is pre-C, while īm in 2a is pre-V.
 
 As Geldner notes (n. 3cd) there is some uncertainty about the subj. and goal of the verbs here -- Indra or Soma. I take the subject in both cases to be Indra. In c védā víśvasya “he knows of it all” echoes 1b víśvāni vidúṣe “to the one who knows all things,” an unequivocal ref. to Indra. I think there is a contrast between c and d of a familiar type: Indra could go to any soma ritual (“knows of it all”) but comes just to our soma (táṃ-tam íd).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time, with Soma, with the juice effused, ye come before the God,  
      Full wise he knows the hope of each, and, Bold One, strikes this foe and that.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr mit den ausgepreßten Somasäften aufwartet - der Weise kennt alles, immer nur ihm strebt er herzhaft zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn mit gepresstem Indu ihr und Somatränken ihn versorgt, So nimmt der kluge jeden wahr und stürzt auf den und den sich kühn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если выжатыми каплями,  
 Соками сомы вы угощаете –  

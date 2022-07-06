@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तोता꣡ य꣡त् ते अ꣡नुव्रत  
 उक्था꣡नि ऋतुथा꣡ दधे꣡  
 शु꣡चिः पवाक꣡+ उच्यते सो꣡ अ꣡द्भुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 शुचिः॑ । पा॒व॒कः । उ॒च्य॒ते॒ । सः । अद्भु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stotā* ← *stotṛ*
 - \[noun\], nominative, singular, masculine
@@ -95,43 +95,43 @@ genre M;; line affected by realignment
 हे इन्द्र **यत्** यस्य **ते** तव **स्तोता** **अनुव्रतः** अनुकूलकर्मा सन् **ऋतुथा** ऋतुषु काले काले **उक्थानि** शस्त्रादि **दधे** विधत्ते करोति । ' लोपस्त आत्मनेपदेषु ' इति तलोपः । परोऽर्धर्चः परोक्षकृतः । **सः** इन्द्रः **अद्भुतः** आश्चर्यभूतः **शुचिः** शुद्धः **पावकः** अन्येषामपि शोधकः **उच्यते** स्तोतृभिः स्तूयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your worshipper is observant of his duty, inasmuch as he offers prayers indue season; for you are hewho is called pure, purifying, wonderful.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the praiser, following his own commandment, has set out his  recitations for you in proper sequence,  
 he is called gleaming, pure, and unerring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is noteworthy that the properly performing praiser acquires epithets esp. characteristic of Agni and Soma (śúci-, pāvaká-), the quintessential ritual gods.
 
 Pāda c is an interesting twist on IX.24.6-7; see comm. there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, true to duty, at due times the worshipper offers lauds to thee,  
      They call him Purifier, Pure, and Wonderful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn der ergebene Sänger dir regelrecht Loblieder widmet, so wird er selbst der Reine, Lautere, der Wundermann genannt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn der ergebne Sänger dir die Sprüche nach der Ordnung weiht, Dann heisst der helle Flammer er, der herrliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда восхвалитель, следующий твоему завету,  
 Своевременно посвящает (тебе) гимны,  

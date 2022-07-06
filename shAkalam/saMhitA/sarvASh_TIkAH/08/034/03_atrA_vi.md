@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्रा वि꣡ नेमि꣡र् एषा᳐म्  
 उ꣡रां न꣡ धूनुते वृ꣡कः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं यय꣡ दिवावसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दि॒वः । अ॒मुष्य॑ । शास॑तः । दिव॑म् । य॒य । दि॒वा॒व॒सो॒ इति॑ दिवाऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atrā* ← *atra*
 - \[adverb\]
@@ -99,41 +99,41 @@ genre M;; repeated line
 **अत्र** अस्मिन् यज्ञे **एषाम्** अभिषवग्राव्णां **नेमिः** सोमलतां **वि** **धूनुते** विशेषेण कम्पयति । **उरां** मेषीं **वृको** **न** वृक इव । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The circumference of these (stones) shakes (the **Soma**) at this (rite), as a wolf (terrifies) a sheep doyou, ruling yonder heaven, O radiant with oblations, return here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In this place their felly shakes itself, as a wolf does a lamb,  
 o you who bring goods by day—(though) you (other gods), who impose  order over yonder heaven, have driven off to heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the syntactic disharmony between simile and frame, exploiting the variant valencies of the verb, with dhūnute an intrans.-reflexive in the frame (“felly shakes [itself]”) but transitive in the simile (“as a wolf shakes a lamb”). See Jamison 1982.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The stones' rim shakes the Soma here like a wolf worrying a sheep.  
      Ye by command of yonder Dyaus, God bright by day! have gone to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dabei schüttelt ihre Felge hin und her wie der Wolf das Lamm hin und her schüttelt. - Über jenen Himmel herrschend seid ihr ja in den Himmel gegangen, o Divavasu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Steine Umfang schüttelt dort den Soma, wie der Wolf das Lamm; Von jenes Herrschers Himmel kamt ihr zu dem Feste tageshell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Их обод при этом  
 (Так всё) сотрясает, как волк (треплет) овцу.  

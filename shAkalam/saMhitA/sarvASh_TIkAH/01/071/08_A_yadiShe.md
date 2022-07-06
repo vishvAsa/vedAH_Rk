@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡द् इषे꣡ नृप꣡तिं ते꣡ज आ꣡नट्  
 छु꣡चि रे꣡तो नि꣡षिक्तं द्यउ꣡र् अभी꣡के  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुआधि꣡यं जनयत् सूद꣡यच् च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । शर्ध॑म् । अ॒न॒व॒द्यम् । युवा॑नम् । सु॒ऽआ॒ध्य॑म् । ज॒न॒य॒त् । सू॒दय॑त् । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -143,7 +143,7 @@ genre M
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,13 +154,13 @@ genre M
 **Retas** = water; hence, 'may fire and water, or heat and moister, be spread through the earth for the genitive ration of corn' is an alternative rendering
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the (missile’s) sharp point reached the lord of men [=Agni] (for  him) to release it, Heaven, at the moment of contact, (released) the blazing semen poured out.  
 Agni engendered the faultless young troop of good intention [=Aṅgirases] and sweetened it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The incest myth treated in vs. 5 returns here with no more clarity. The various alternative treatments are too numerous to discuss here, so I will present only my own version, some of whose details I have adopted from others. 
 
@@ -171,13 +171,13 @@ Nonetheless, Heaven is not otherwise called nṛpáti-, and it would be odd to g
 Note that the product of this incest, the young troop (śárdham … yúvānam), is characterized as both ‘faultless’ (anavadyám) and ‘well-intentioned’ (svādhyàm), asserting their goodness despite the circumstances of their birth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When light hath filled the Lord of men for increase, straight from the heaven descends the limpid moisture.  
 Agni hath brought to light and filled with spirit the youthful host blameless and well providing.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 When the sharp splendour 2 reached the lord of men to incite him 3, the bright sperm poured down from Heaven (or, from the god Dyaus)4, Agni produced 5 and furthered the blameless, young, well-wishing host 6.
 </details>
@@ -191,17 +191,17 @@ The worshipping, and gave it impulse.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als dem Männerherrn die Brunst ankam zum Genusse, da hat der Himmel den bei der Liebesbegegnung vergossenen reinen Samen zurückgelassen. Agni brachte die tadellose jugendliche Schar, die wohlgesinnte, zur Geburt und machte sie zu Meistern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ihn, den Herrn, zur Labung Glanz erfüllt hat, dann strömt vom Himmel nieder reiner Same; Die tadellose junge Schar hat Agni, die sorgende, erzeugt und gross gezogen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда страсть к наслаждению охватила господина людей,  
 (Отец-) небо при (любовном) соитии (испустил) чистое семя, которое разлилось.  

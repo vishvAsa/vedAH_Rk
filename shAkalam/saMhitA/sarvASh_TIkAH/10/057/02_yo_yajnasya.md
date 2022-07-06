@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ यज्ञ꣡स्य प्रसा꣡धनस्  
 त꣡न्तुर् देवे꣡षु आ꣡ततः  
 त꣡म् आ꣡हुतं नशीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 तम् । आऽहु॑तम् । न॒शी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -78,36 +78,36 @@ popular
 **यः** अयमग्न्याख्यः **तन्तुः** आहवनीयादिरूपेण विस्तृतः **यज्ञस्य** **प्रसाधनः** प्रकर्षेण साधयिता **देवेष्वाततः** देवैः स्तोतृभिर्ऋत्विग्भिर्विस्तारितो वर्तते वेद्यां **तमाहुतं** सर्वतो हूयमानं **नशीमहि** प्राप्नुयाम । नशतिर्व्यप्तिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we obtain (the favour of) him to whom burnt offerings are presented, (**Agni**), who is the thread, theperfecter of sacrifice, drawn out (by the priests) to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who assures the success of the sacrifice, who is the thread stretched to  the gods,  
 him [=Agni], bepoured, might we attain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we obtain, completely wrought, the thread spun out to reach the Gods,  
      That perfecteth the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Möchten wir den schmalzbeopferten Agni gewinnen, der der Ausrichter des Opfers, der zu den Göttern gespannter Faden ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erreichen möchten wir den Gott, der selbst beopfert Opfer bringt, Als Aufzug zu den Göttern reicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто приводит жертву к цели,  
 (Кто) нить, протянутую к богам,  

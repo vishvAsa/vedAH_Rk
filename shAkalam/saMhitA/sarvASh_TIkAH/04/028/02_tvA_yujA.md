@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡ युजा꣡ नि꣡ खिदत् सू꣡रियस्य  
 इ꣡न्द्रश् चक्रं꣡ स꣡हसा सद्य꣡ इन्दो  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 महो꣡ द्रुहो꣡ अ꣡प विश्वा꣡यु धायि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अधि॑ । स्नुना॑ । बृ॒ह॒ता । वर्त॑मानम् । म॒हः । द्रु॒हः । अप॑ । वि॒श्वऽआ॑यु । धा॒यि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -130,7 +130,7 @@ genre M
 हे **इन्दो** सोम **इन्द्रः** **सद्यः** सपदि **त्वा** त्वया **युजा** सहायेन **सूर्यस्य** प्रेरकस्य सवितुः संवन्धिनः पूर्वं द्विचक्रस्य रथस्यैकं **चक्रं** **सहसा** अभिभावुकेन बलेन **नि** **खिदत्** आच्छिनत् । कीदृशम्। **अधि** उपरि **स्नुना** स्थितेन **बृहता** महता अन्तरिक्षेण **वर्तमानम्**। किंच **मह:** महतः प्रभूतस्य **द्रुहः** द्रोग्धुः सूर्यस्य संबन्धि **विश्वायु** सर्वतो गन्तृ चक्रम् **अप** **धायि** इन्द्रेणापाहारि ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,34 +141,34 @@ genre M
 Maho druho = prabhutasya drogdhuḥ, of the very mighty oppresor or tyrant, alluding probably to his heat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With you as yokemate, o drop, Indra with his strength in a single day tore  down the wheel of the Sun,  
 which was rolling along the lofty back (of heaven). A whole lifetime of  great deceit was set aside.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner plausibly suggests that the “great deceit” is Śuṣṇa. See his cited parallels.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu, with thee for his confederate, Indra swiftly with might pressed down the wheel of Surya.  
      What rolled, all life's support, on heaven's high summit was separated from the great oppressor.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dir im Bunde drückte Indra das Rad der Sonne sofort gewaltsam ein, o Saft, das auf dem hohen Himmelsrücken rollte. Die ganze Lebenzeit des großen Unholdes war zu Ende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit dir vereint, o Indu, drückte Indra der Sonne Rad mit Kraft hernieder eilig, Das weithin rollte auf dem hohen Gipfel, entzog des Lebens Kraft der grossen Hexe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С тобою как с союзником Индра сдавил  
 Колесо солнца – с силой, сразу, о капля,  

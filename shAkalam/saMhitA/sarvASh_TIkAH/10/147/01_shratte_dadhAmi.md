@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्र꣡त् ते दधामि प्रथमा꣡य मन्य꣡वे  
 अ꣡हन् य꣡द् वृत्रं꣡ न꣡रियं विवे꣡र् अपः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 रे꣡जते शु꣡ष्मात् पृथिवी꣡ चिद् अद्रिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒भे इति॑ । यत् । त्वा॒ । भव॑तः । रोद॑सी॒ इति॑ । अनु॑ । रेज॑ते । शुष्मा॑त् । पृ॒थि॒वी । चि॒त् । अ॒द्रि॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrat* ← *śrath*
 - \[noun\], accusative, singular, neuter
@@ -135,7 +135,7 @@ genre M
 हे इन्द्र **ते** तव **मन्यवे** कोपाय तेजसे वा **प्रथमाय** मुख्याथ **श्रत्** **दधामि** । श्रद्धा नामादरातिशयः । तद्विषयं करोमि । **यत्** येन मन्युना त्वं **वृत्रम्** आवरकमसुरं मेघं वा नर्यं नेतव्यम् **अहन** अवधीः हत्वा च तेनावृताः **अपः** उदकानि च **विवेः** इमं लोकं प्रत्यागमयः । तस्मै मन्यव इत्यन्वयः। **यत्** यदा **उभे** **रोदसी** द्यावापृथिव्यौ **त्वा** त्वामनुसृत्य **भवतः** वर्तेते । त्वदधीने अभूतामित्यर्थः । तदानीं **पृथिवी** **चित** । पृथिवीत्यन्तरिक्षनाम । प्रथितं विस्तीर्णमन्तरिक्षमपि हे **अद्रिवः** वज्रवन्निन्द्र **शुष्मात्** त्वदीयाद्बलात् **रेजते** कम्पते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ Friendly to man: naryam vṛtram: from ni, to lead; viver **apas** = did approac
 Naryam = friendly to man; or, heroic, manly
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I put my trust in your foremost battle-fury, in that you smashed Vr̥tra  and labored at the manly work,  
 in that both world-halves yield to you and even earth trembles from your  tempest, o possessor of the stone.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I TRUST in thy first wrathful deed, O Indra, when thou slewest Vrtra and didst work to profit man;  
      What time the two world-halves fell short of thee in might, and the earth trembled at thy force, O Thunder-anned.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich glaube an deinen ersten Ingrimm, als du den Vritra erschlugest, die männliche Tat vollbracht hast. Wenn beide Welten dir nachgeben, dann zittert selbst die Erde vor deiner Wut, o Herr des Preßsteins.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf deinen ersten Eifer setz' ich mein Vertraun, als du den starken Vritra schlugst, die Wasser nahmst; Wenn Erd' und Himmel beide streben hin zu dir, bebt auch die Erd', o Schleuderer, vor deiner Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я верю твоей первой ярости:  
 Когда ты убил Вритру, ты привел к цели (свою) мужественную деятельность.  

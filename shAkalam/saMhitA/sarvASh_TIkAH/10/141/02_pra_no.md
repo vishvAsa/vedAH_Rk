@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ नो यछतु अर्यमा꣡  
 प्र꣡ भ꣡गः प्र꣡ बृ꣡हस्प꣡तिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 रायो꣡ देवी꣡ ददातु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (292)
 प्र । दे॒वाः । प्र । उ॒त । सू॒नृता॑ । रा॒यः । दे॒वी । द॒दा॒तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -114,36 +114,36 @@ genre D;; epic anuṣṭubh (292)
 **अर्यमा** अरीणां नियन्ता अर्याणां निर्माता वैतत्संज्ञो देवः **नः** अस्मभ्यं **प्र** **यच्छतु** धनम् । तथा **भगः** एतत्संज्ञको देवश्च **प्र** यच्छतु । **बृहस्पतिः** च **प्र** यच्छतु । सर्वे देवाः च **प्र** यच्छन्तु । **उत** अपि च **सूनृता** प्रियसत्यवाग्रूपा **देवी** देवनशीला सरस्वती **रायः** धनानि **नः** अस्मभ्यं **प्र** **ददातु** ॥ ‘ उडिदम्' इत्यादिना रायो विभक्तिरुदात्ता ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Aryaman**, may **Bhaga**, may **Bṛhaspati**, may the gods give liberally to us; may the truth-speakinggoddess (**Sarasvatī**) bestow riches upon us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Aryaman provide for us, let Bhaga, let Br̥haspati,  
 let the gods and let Liberality. Let the goddess give riches to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let Aryarnan vouchsafe us wealth, and Bhaga, and Brhaspati.  
      Let the Gods give their gifts, and let Sunrta, Goddess, grant us wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Uns soll Aryaman schenken, Bhaga, Brihaspati, die Götter und die Sunrita, die Göttin, soll uns Reichtümer geben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schenke Gut uns Arjaman, uns Bhaga, uns Brihaspati, Die Götter uns, und Sunrita, die Göttin, gebe Reichthum uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть нам дарит Арьяман,  
 Бхага, Брихаспати,  

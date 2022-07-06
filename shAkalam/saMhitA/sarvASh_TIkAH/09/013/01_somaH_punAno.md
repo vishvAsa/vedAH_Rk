@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मः पुनानो꣡ अर्षति  
 सह꣡स्रधारो अ꣡त्यविः  
 वायो꣡र् इ꣡न्द्रस्य निष्कृत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वा॒योः । इन्द्र॑स्य । निः॒ऽकृ॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -76,41 +76,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयं **पुनानः** पावकः **सोमः** **अर्षति** गच्छति । कीदृशोऽयं पवमानः। **सहस्रधारः** अपरिमितधारः **अत्यविः** । अत्राविशब्देन तल्लोमान्युच्यन्ते । अविलोमभिर्निष्पादितं दशापवित्रमित्यर्थः । तदतिक्रम्य गच्छतीत्यत्यविः । किमर्थम् । **वायोरिन्द्रस्य** च पानायेति शेषः । किं प्रति । **निष्कृतम्** । निरित्येष समित्येतस्मिन्नर्थे । संस्कृतं पात्रं प्रति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purifying **Soma**, flowing in a thousand streams and passing through the woollen filter, proceeds to the prepared vessel for **Vāyu** and **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As he is being purified, Soma rushes in a thousand streams beyond the  sheep [=fleece]  
 to his encounter with Vāyu and Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the mention of Vāyu and Indra identifies the occasion as the Morning Pressing, since those two gods receive the first soma offering of the pressing day.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PASSED through, the fleece in thousand streams the Soma, purified, flows on  
      To Indra's, Viyu's special place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma fließt sich läuternd in tausend Strahlen über die Schafwolle zum Treffort von Vayu und Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geklärt in tausend Strömen rinnt der Soma durch die Wolle hin Zu Indra-Vaju's Stelldichein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома течет, очищаясь,  
 В тысячу струй, (пройдя) сквозь сито,  

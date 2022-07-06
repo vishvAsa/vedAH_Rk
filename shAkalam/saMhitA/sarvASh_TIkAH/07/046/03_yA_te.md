@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ ते दिद्यु꣡द् अ꣡वसृष्टा दिव꣡स् प꣡रि  
 क्ष्मया꣡ च꣡रति प꣡रि सा꣡ वृणक्तु नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ नस् तोके꣡षु त꣡नयेषु रीरिषः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒हस्र॑म् । ते॒ । सु॒ऽअ॒पि॒वा॒त॒ । भे॒ष॒जा । मा । नः॒ । तो॒केषु॑ । तन॑येषु । रि॒रि॒षः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -128,20 +128,20 @@ genre M
 हे रुद्र **ते** वैधुतात्मनस्तव संबन्धिनी **दिवस्परि** अन्तरिक्षसकाशात् **अवसृष्टा** विमुक्ता **या** **दिद्युत्** अशनिरूपा हेतिः **क्ष्मया** क्षित्या क्षितौ वा **चरति** वर्तते **सा** दिद्युत् **नः** अस्मान् **परि** **वृणक्तु** परित्यजतु । अपि च हे **स्वपिवात** **ते** तव **सहस्रं** बहूनि **भेषजा** भेषजानि यान्यौषधानि सन्ति तान्यस्मभ्यं प्रयच्छेति शेषः । **नः** अस्माकं **तोकेषु** पुत्रेषु **तनयेषु** च **मा** **रिरिषः** हिंसां मा कृथाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your blazing (weapon), which, discharged from heaven, traverses the earth, avoid us; thine,appeaser of the wind, are a thousand medicaments; inflict not evil upon our sons and grandsons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The missile of yours, which, shot downward from heaven, circles around  the earth—let it avoid us.  
 A thousand are your remedies, o you who are our familiar. Do no harm  to our offspring and descendants.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains two occurrences of pári, but in fact it should technically have three: the first pári at the end of pāda a governs the preceding abl.
 
@@ -164,23 +164,23 @@ anamīváḥ (… bhava) “be without affliction,” while 3d contains the stro
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May thy bright arrow which, shot down by thee from heaven, flieth upon the earth, pass us uninjured by.  
      Thou, very gracious God, bast thousand medicines: inflict no evil on our sons or progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Geschoß, das vom Himmel gesandt auf Erden umgeht, dassoll uns verschonen! Tausend Heilmittel hast du Verständnisvoller; tu uns an dem leiblichen Samen keinen Schaden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Blitz, den du vom Himmel niederstürzen lässt, der auf die Erde dringet, der vermeide uns, O vielbegehrter, du hast tausend Arzenein; Lass nicht an Kind und Enkeln Schaden leiden uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) выстрел твой, выпущенный с неба,  
 Что кружит над землей, да минует он нас!  

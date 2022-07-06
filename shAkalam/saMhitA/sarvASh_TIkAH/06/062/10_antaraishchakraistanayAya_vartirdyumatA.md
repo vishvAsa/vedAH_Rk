@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡न्तरैश् चक्रइ꣡स् त꣡नयाय वर्ति꣡र्  
 द्युम꣡ता꣡ यातं नृव꣡ता र꣡थेन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वनुष्यता꣡म् अ꣡पि शीर्षा꣡ ववृक्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सनु॑त्येन । त्यज॑सा । मर्त्य॑स्य । व॒नु॒ष्य॒ताम् । अपि॑ । शी॒र्षा । व॒वृ॒क्त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *antaraiś* ← *antaraiḥ* ← *antara*
 - \[noun\], instrumental, plural, neuter
@@ -101,7 +101,7 @@ genre M
 हे अश्विनौ **अन्तरैः** अनिकृष्टैः **चक्रैः** युक्तेन **द्युमता** दीप्तिमता **नृवता** नेत्रा सारथिना युक्तेन । यद्वा । अश्वयुक्तेन । 'पतङ्गाः नरः' (नि. १. १४. २२ ) इत्यश्वनामसु पाठात् । **रथेन** **वर्तिः** अस्माकं गृहं **तनयाय** तनयं दातुम् **आ** **यातम्** । अपि च **सनुत्येन** तिरोहितेन **त्यजसा** क्रोधेन । 'हृणिः त्यजः' इति क्रोधनामसु पाठात्। **मर्त्यस्य** मनुष्यस्य **वनुष्यतां** बाधमानानाम् । 'वनुष्यतिर्हन्तिकर्मा' इति यास्केनोक्तत्वात् । **शीर्षा** शिरांसि **अपि** **ववृक्तं** प्रवृक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,13 +112,13 @@ genre M
 Well-guided chariot: nṛvata rathena, having a leader, a driver; or nr. may mean a horse; with excellen wheels: antaraiścakraiḥ: anikṛṣṭaiḥ, with not inferior wheels; with secret indignation: sanutyena tyajasā = tirohitena krodhena
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your wheels drawing nearer, with your heaven-bright chariot with  its superior men, do you two drive your circuit for our lineage (to  prosper),  
 because of the distant dereliction of a(nother) mortal. Chop off the  heads of the rapacious ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I supply ‘to prosper’ with tánayāya on the basis of nearby VI.49.5 (=I.183.3) … iṣayádhyai, vartír yāthás tánayāya tmáne ca, with very similar phraseology.
 
@@ -129,23 +129,23 @@ But I find it easier to account for c as presented. The last, independent pāda 
 Against Geldner, who takes it to √vṛj, I assign vavṛktam to √vraśc ‘hew’, along with Whit (Rts), Grassmann, Renou, and Kümmel, inter alia. Cf. the clinching parallel in X.87.16 téṣāṃ śīrṣā́ṇi … ápi vṛśca.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to our home with friendly wheels, for offipring; come on your radiant chariot rich in heroes.  
      Strike off, ye Twain, the heads of our assailants who with man's treacherous attack approach us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unternehmet eure Umfahrt auf dem glänzenden, männertragenden Wagen mit den inneren Rädern für unser Geschlecht. Beladet mit der heimlichen Schuld des Sterblichen die Häupter der Neider!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit nah'nden Rädern und mit lichtem Wagen, der Helden fährt, kommt her zu unsrer Stätte, Mit weithin reichendem Geschoss des Menschen schiesst ab die Köpfe derer, die uns feind sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Совершите объезд ради (нашего) потомства на сверкающей  
 Колеснице, несущей мужей, с колесами, приближающимися (к нам)!  

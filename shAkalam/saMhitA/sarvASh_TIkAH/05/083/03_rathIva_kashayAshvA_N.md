@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रथी꣡ इव क꣡शया꣡श्वाँ अभिक्षिप꣡न्न्  
 आवि꣡र् दूता꣡न् कृणुते वर्षि꣡याँ अ꣡ह  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡त् पर्ज꣡न्यः कृणुते꣡ वर्षि꣡यं न꣡भः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दू॒रात् । सिं॒हस्य॑ । स्त॒नथाः॑ । उत् । ई॒र॒ते॒ । यत् । प॒र्जन्यः॑ । कृ॒णु॒ते । व॒र्ष्य॑म् । नभः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathīva* ← *rathī* ← *rathin*
 - \[noun\], nominative, singular, masculine
@@ -133,7 +133,7 @@ popular
 **रथीव** रथस्वामीव। स यथा कशया अश्वान अभिक्षिपन् दूतान् भटान् आविष्करोति तद्वदसौ पजन्योऽपि **कशया** **अश्वान्** मेघान् **अभिक्षिपन्** अभिप्रेरयन् 'वर्ष्यान् वर्षकान् **दूतान्** दूतवत् वृष्टिप्रेरकान् मेघान् मरुतो वा **आविः** **कृणुते** प्रकटयति । **अह** इति पूरणः । एवं सति **सिंहस्य**। सहतेर्हिंसतेर्वा शब्दकर्मणः सिंहशब्दः । अवर्षणेनाभिभवितुः शब्दयितुर्वा मेघस्य **स्तनथाः** गर्जनशब्दाः **दूरात्** **उदीरते** उद्गच्छन्ति । कदा। **यत्** यदा **पर्जन्यः** **नभः** अन्तरिक्षं **वर्ष्यं** वर्षोपेतं **कृणुते** करोति तदा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,41 +144,41 @@ popular
 The messenger of war: the text has only dūtān = bhaṭān, warriors
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a charioteer lashing out at his horses with a whip, he reveals his  rain-bearing messengers.  
 From afar the thunderings of the lion rise up, when Parjanya produces  his rain-bearing cloud.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 We might expect *rathī́r iva here, to the vṛkī́-stem rathī́-, but the ending -ī́ must belong instead to the -ín-stem rathín-, which does have an independent existence. See Oldenberg ad loc. I take the whip in the simile to be lightning; both a whip and a lightning flash are slender, fast, unpredictable, and have a non-straight trajectory. The flash of lightning would also do the revealing in pāda b. Note also that thunder is covered in pāda c and rain in b and d, so lightning is what’s otherwise absent.
 
 “Rain-bearing cloud” (varṣyàṃ nábhaḥ) in d seems like a quick and a bit halfhearted poetic repair of “rain-bearing messengers” (dūtā́n … varṣyā̀n) in b. The two pādas hold the verb kṛṇute constant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a car-driver whipping on his horses, he makes the messengers of rain spring forward.  
      Far off resounds the roaring of the lion, what time Parjanya fills the sky with rain-cloud.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Like charioteer his horses lashing with a whip, The god makes manifest his messengers of rain. From far away the roaring of the lion sounds, What time Parjanya veils the firmament with rain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie der Wagenfahrer mit der Peitsche auf die Rosse schlagend, läßt er seine Regenboten erscheinen. Von Ferne erheben sich die Donnerlaute des Löwen, wenn Parjanya das regenbringende Gewölk macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Fuhrmann gleich, der peitschend seine Rosse treibt, lässt er erscheinen seine Regenboten schon; Des Löwen Donner tönen aus der Ferne her, sobald Pardschanja seine Wolken regnen lässt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подобно вознице, нахлестывая кнутом коней,  
 Он делает (так, что) показываются вестники дождя,  

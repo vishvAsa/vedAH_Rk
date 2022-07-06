@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ जायत म꣡नुषो ध꣡रीमणि  
 हो꣡ता य꣡जिष्ठ उशि꣡जाम् अ꣡नु व्रत꣡म्  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 इळ꣡स् पदे꣡ प꣡रिवीत इळ꣡स् पदे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 अद॑ब्धः । होता॑ । नि । स॒द॒त् । इ॒ळः । प॒दे । परि॑ऽवीतः । इ॒ळः । प॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -170,7 +170,7 @@ genre M
 **अयम्** **अग्निः** **मनुषः** मनुष्यस्य अध्वर्योः सकाशात् **जायत** अरणिमन्थनेनोत्पन्नः । कीदृशोऽयम् । **होता** देवानामाह्वाता **यजिष्ठः** अतिशयेन यष्टृतमः । किमर्थमुत्पन्न इति । **उशिजां** फलस्य कामयितॄणां यजमानानां **व्रतं** सोमयागादिरूपं कर्म **अनु** लक्षीकृत्य । न केवलं परार्थमेव अपि तु  अयमर्थः । **स्वं** **व्रतम्** **अनु** स्वकीयं हविःस्वीकारादिरूपं कर्म अनुलक्ष्य । पुनः स एव विशेष्यते । **विश्वश्रुष्टिः** विश्वविषयकर्मवान् । कस्मै । **सखीयते** सखित्वमात्मन इच्छते । तथा **श्रवस्यते** अतिप्रसिद्धान्नमात्मनः इच्छते यजमानाय **रयिरिव** धनस्थानीयो भवति । धनं यथा सख्यम् अन्नसमृद्धिं च साधयति तद्वत् अयमग्निरपि तस्मै द्वयं साधयतीत्यर्थः । किंच अयमग्निः **इळस्पदे** इडाया भूम्याः  पदे ॥ अन्त्यलोपश्छान्दसः ॥ **धरीमणि** सारभूते स्थाने वेदिरूपे । ‘ वेदिमाहुः परमन्तं पृथिव्याः (तै. सं. ७. ४. १८. २) इति श्रुतेः । एतावती वै पृथिवी यावती वेदिः' (तै. सं. २, ६.४.१) इति च । पुनस्तदेव विशेष्यते । **इळस्पदे** इडादेवताय मनोः पुत्र्या गोरूपाया इडोपह्वानमन्त्र प्रतिपादितायाः पदे पादन्यासप्रदेशे । 'इडा नै मानवी यज्ञानूकाशिन्यासीत् ' ( तै. ब्रा. १.१.४. ४ ) इति 'इडायाः पदे घृतवति स्वाहा' (तै. सं. १. २. ५. १ ) इति च श्रुतेः । **नि** **षदत्** निषीदति । कीदृशोऽयमग्निः । **अदब्धः** केनाप्यहिंसितः **होता** होमनिष्पादकः **परिवीतः** ऋत्विग्भिः परिधिभिर्वा परितो वेष्टितः । एवंभूतः सन् नि षदत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -181,7 +181,7 @@ genre M
 Niṣadad-iḷaspade parivīta: niṣadad-iḷaspade = bhūmyāha pade, on a spot or site of ground; dharimani (of previous hymn) = that spot which contains the essence of the earth, i.e. the altar. vedimāhuḥ paramantam pṛthivyāḥ = they call the altar the utmost end of the earth (**Taittirīya** Samhitā 7.4.18.2); etāvati vai pṛthivīr yāvatī vediriti = so much, verily, as is the earth as much is the altar (Taittirīya Samhitā 1.1.4.4). parivīta iḷaspade: the reference is to Iḷā, daughter of **Manu** and **pada** = the spot where in the form a cow (gorūpa). she plural ced her feet; pādanyāsa pradeśe = allusion to the legend of Manu's daughter being the first instrumental tutor of sacrificial rites; iḷa vai **mānavī** yajñānūkāśin yāsīd itīdāyā pade ghṛtavati **svāhā** (Taittirīya Samhitā 1.2.5.1) = Ida, the daughter of Manu, was the instrumental tutor of sacrifice, glory to the butter charged footmark of Iḷa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one was born here on the foundation of Manu as the best sacrificing  Hotar, following the commandment of the fire-priests—Agni,  
 following his own commandment—  
@@ -189,7 +189,7 @@ all attentive to the one who seeks a comrade, like wealth for the one who  seeks
 The undeceivable Hotar has sat down in the footprint of refreshment— enveloped in the footprint of refreshment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase mánuṣo dhárīmaṇi is variously rendered. Renou takes it as an infinitive (“pour être porté par l’Homme”); Grassmann and Oldenberg (SBE) interpret it in an abstract or ethical fashion (“nach altem Brauch”; “in Manu’s firm law”; sim.
 
@@ -202,29 +202,29 @@ Agni is regularly identified as an uśíj- (I.60.4, etc.) but uśíjaḥ in the 
 “In the footprint of refreshment” (iḷás padé) is a standard kenning for the ritual ground or, more narrowly, the place where oblations are offered; a similar expression is found in Oldenberg Avestan, at Y. 50.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By Manu's law was born this Agni, Priest most skilled, born for the holy work of those who yearn therefore, yea, born for his own holy work.  
      All ear to him who seeks his love and wealth to him who strives for fame,  
      Priest ne'er deceived, he sits in Ila's holy place, girt round in Ila's holy place.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He was born in Manu's firm law 1, the Hotri, the best sacrificer, according to the will of the Usigs 2, Agni, according to his own will. Always listening to him who wishes to be his friend, like a treasure to him who aspires to renown, the unbeguiled Hotri sat down in the abode of food (on the altar); enveloped 3 (he sat down) in the abode of food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser ward geboren im Feuerbehälter des Manu, der bestopfernde Hotri nach dem Gebot der Usij, Agni nach eigenem Gebot, allerhörend für den, der sich als Freund bewährt, wie ein Schatz für den, der Ruhm sucht. Der untrügliche Hotri setzt sich nieder an der Stätte der Id, umhegt an der Stätte der Id.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erzeugt ward dieser nach des Menschen altem Recht, der beste Opfrer nach dem Brauch der eifrigen, Agni nach seinem eignen Brauch, Allhörend dem befreundeten, ein Schatz dem ruhmbegierigen, As holder Priester sitzt er auf dem Labungsplatz, umkleidet auf dem Labungsplatz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот (Агни) родился, чтобы человек (его) поддерживал,  
 Хотар, жертвующий лучше всех, по завету Ушиджей,  

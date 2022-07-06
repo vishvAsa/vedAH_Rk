@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡युद्ध इ꣡द् युधा꣡ वृ꣡तं  
 शू꣡र आ꣡जति स꣡त्वभिः  
 ये꣡षाम् इ꣡न्द्रो यु꣡वा स꣡खा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 येषा॑म् । इन्द्रः॑ । युवा॑ । सखा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayuddha* ← *a*
 - \[adverb\]
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 तेष्वन्तर्भूतः कश्चित् **अयुद्ध** **इत्** प्रागयोद्धैव सन् **युधा** **वृतं** योद्धृभिर्भटैरावृतं शत्रंं **सत्वभिः** आत्मीयैर्बलैः **शूरः** सन् **आजति** नमयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,29 +100,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Powerless to combat: ayuddhaḥ = unopposed;prāg ayoddha eva; but, cf. RV 1.32.6
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Unembattled himself, in battle the champion drives the troop along  with his warriors,  
 of whom Indra is the youthful comrade.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unequelled in fight the hero leads his army with the warrior chiefs.  
      Whose Friend is Indra ever young.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unbekämpft treibt der Tapfere durch Kampf die feindliche Heerschar mit den Kriegern zu Paaren, deren jugendlicher Freund Indra ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, unverwehrt verjagt durch Kampf der Held den Feind durch tapfere, Die lieb dem Jüngling Indra sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Сам) необоримый, в борьбе гонит  
 Герой со (своими) воинами вражеское войско,  

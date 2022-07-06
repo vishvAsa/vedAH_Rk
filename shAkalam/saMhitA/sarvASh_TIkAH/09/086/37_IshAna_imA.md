@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईशान꣡ इमा꣡ भु꣡वनानि वी꣡यसे  
 युजान꣡ इन्दो हरि꣡तः सुपर्णि꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡व व्रते꣡ सोम तिष्ठन्तु कृष्ट꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ताः । ते॒ । क्ष॒र॒न्तु॒ । मधु॑ऽमत् । घृ॒तम् । पयः॑ । तव॑ । व्र॒ते । सो॒म॒ । ति॒ष्ठ॒न्तु॒ । कृ॒ष्टयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īśāna* ← *īśānaḥ* ← *īśāna*
 - \[noun\], nominative, singular, masculine
@@ -126,20 +126,20 @@ genre M
 हे **इन्दो** सोम **ईशानः** सर्वस्य स्वामी त्वम् **इमा** इमानि **भुवनानि** भूतजातानि **वीयसे** गच्छसि । वी गत्यादिषु । किं कुर्वन् । **हरितः** हरितवर्णाः सुपर्ण्यः सुपतनाश्चाश्वाः रथे **युजानः** योजयन् । **ताः** सुपर्ण्यः **ते** तव संबन्धिन्यः **मधुमत्** माधुर्योपेतं **घृतं** दीप्तं **पयः** उदकं **क्षरन्तु** । हे **सोम** **तव** **व्रते** कर्मणि **तिष्ठन्तु** **कृष्टयः** मनुष्याः सर्वे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, who are the lord, you go (through) threse worlds, harnessing (to the car) your swift-moving steeds; let them dispense the sweet-flavoured shining liquor, may all men be present **Soma**, at your worship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Showing mastery, you speed across these worlds here, o drop, having  hitched up your golden fine-feathered (mares).  
 Let them stream honeyed ghee and milk for you. O Soma, let the  separate peoples stay under your commandment.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
 <details open><summary><h2>37-39 ...{Loading}...</h2></summary>
 
@@ -151,23 +151,23 @@ Note in 38 first the enclitic naḥ and then the 1st pl. opt. syāma. The poet b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Sovran Lord thereof thou Passest through these worlds, O Indu, harnessing thy tawny well-winged Mares.  
      May they pour forth for thee milk and oil rich in sweets: O Soma, let the folk abide in thy decree.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Herrscher durcheilst du diese Welten, o Saft, deine schön beschwingten Falben anschirrend. Die sollen deine süße Butter und Milch ergießen. In deinem Dienste sollen die Völker stehen, o Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Herrscher dringst durch alle diese Wesen du, die schönbeschwingten, goldnen Stuten schirrend dir, Sie mögen, Indu, strömen süsse, fette Milch; in deinem Dienst, o Soma, möge stehn der Menschen Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

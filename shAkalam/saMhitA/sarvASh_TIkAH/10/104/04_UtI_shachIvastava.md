@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊती꣡ शचीवस् त꣡व वीरि꣡येण  
 व꣡यो द꣡धाना उशि꣡ज ऋतज्ञाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तस्थु꣡र् गृण꣡न्तः सधमा꣡दियासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र॒जाऽव॑त् । इ॒न्द्र॒ । मनु॑षः । दु॒रो॒णे । त॒स्थुः । गृ॒णन्तः॑ । स॒ध॒ऽमाद्या॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
@@ -110,7 +110,7 @@ genre M
 हे **शचीवः** शक्तिवन् **इन्द्र** **तव** **ऊती** ऊत्या रक्षणेन तव **वीर्येण** **वयः** अन्नं **प्रजावत्** प्रजोपेतं **दधानाः** धारयन्तः **उशिजः** त्वामेव कामयमानाः **ऋतज्ञाः** ऋतं यज्ञमहर्जानन्तः । अङ्गिरसः सत्रमनुतिष्ठन्तः षष्ठेऽहनि प्रयोगमूढाः सन्तो नाभानेदिष्ठेन पारं गता यतः अतस्तेषामृतज्ञत्वम् । ईदृशोऽङ्गिरसः **मनुषः** मनुष्यस्य यजमानस्य **दुरोणे** यज्ञगृहे **गृणन्तः** त्वां स्तुवन्तः सधमाद्यासः सह माद्यन्तः **तस्थुः** तिष्ठन्ति । मादयतेः ‘कृत्यल्युटो बहुलम् ' इति वचनात् कर्तरि ‘ अचो यत्' इति यत् । छान्दसः सधादेशः । अतो वयमपि तिष्ठेमेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ genre M
 Food together with offspring: prajāvat **vayaḥ** = food having progeny
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By your help, able one, and your heroic might, the fire-priests who know  the truth, acquiring the vigor  
 that brings offspring, have taken their place in the house of Manu, o  Indra, singing and sharing in the exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Mighty Indra, through thine aid, thy prowess, obtaining life, zealous, and skilled in Order,  
      Men in the house who share the sacred banquet stand singing praise that brings them store of children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch deine Hilfe, Vielvermögender, durch deine Heldenkraft erlangten die des rechten Weges kundigen Usij kinderreiche Kraft, und verweilten, o Indra, preisend als Trankopfergenossen im Hause des Manu;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch deine Gunst und Heldenkraft, o starker, empfangend, Indra, kinderreiche Labung, Stehn in dem Haus des Menschen opferkundig begehrend, preisend deine Tischgenossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

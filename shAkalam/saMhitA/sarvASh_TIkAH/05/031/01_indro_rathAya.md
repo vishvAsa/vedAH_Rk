@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो र꣡थाय प्रव꣡तं कृणोति  
 य꣡म् अध्य꣡स्थान् मघ꣡वा वाजय꣡न्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रिष्टो याति प्रथमः꣡ सि꣡षासन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यू॒थाऽइ॑व । प॒श्वः । वि । उ॒नो॒ति॒ । गो॒पाः । अरि॑ष्टः । या॒ति॒ । प्र॒थ॒मः । सिसा॑सन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -123,21 +123,21 @@ genre M
 **मघवा** धनवान् **इन्द्रः** **वाजयन्तम्** अन्नमिच्छन्तं **यं** रथम् अध्यस्थात् अधितिष्ठति तस्मै **रथाय** **प्रवतं** प्रवणमाजिं **कृणोति** करोति । अपि च **गोपाः** गोपालः **पश्वः** **यूथेव** पशोः पशूनां यूथानि यथा **व्युनोति** प्रेरयति तथा शत्रुसैन्यानि प्रेरयति । **अरिष्टः** शत्रुभिः स्वयमहिंसितः **प्रथमः** देवानां मुख्य इन्द्रः **सिषासन्** शत्रुधनानीच्छन् **याति** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, the possessor of opulence, directs downwards the car over which, intended (to receive sacrificial) viands, he presides; he proceeds unimpeded, the first of the gods, driving (his enemies before him), as a herdsman drives the herds of cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra makes an easy slope for his chariot, the prize-seeking one, which  the bounteous one has mounted.  
 Like a herdsman separating the flocks of livestock, he keeps (his  
 chariot) separate (from the others). Invulnerable, he drives as the first  to seek winnings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg is disturbed by aramṇāḥ ‘brought to peace / to a stop’, when we would expect Indra to releasing the waters to flow. I’m not sure this is a problem: since the floods were hard pressed (badbadhānā́n), Indra could be soothing and quieting the tormented waters. Cf. also in the previous hymn V.31.8 apáḥ … áramayaḥ “you brought the waters to rest,” the same sentiment with the same root. However, it could also be an example of alluding to a sub-surface word by the overt use of its opposite, like bodháya- for *svāpáya in I.103.7; see comm. ad loc. In other words, aramṇāḥ could be signaling ‘set in motion’ by opposition to its literal sense ‘bring to a stop’.
 
@@ -150,23 +150,23 @@ In c the usual placement of the rel. pronoun after at most one constituent is pr
 Technically speaking the opening clause of d may be part of the dependent clause in c (“when you pried apart … (and) set loose …”), with áva dānaváṃ han the sole main clause, but since in Vṛtra narratives there’s usually a cause-and-effect relationship between opening the mountain and letting the waters flow, I think the published translation is the better choice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAGHAVAN Indra turns his chariot downward, the strength-displaying car which he hath mounted.  
      Even as a herdsman driveth forth his cattle, he goeth, first, uninjured, fain for treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, der Gabenreiche, verschafft dem wetteifernden Wagen, den er bestiegen hat, den Vorsprung. Er mustert die Wagen wie der Hirt die Viehherden. Unbeschädigt fährt er an der Spitze als erster Preiskämpfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schaffet Indra schnelle Fahrt dem Wagen, der Preis gewinnt und den der Held bestiegen; Gleichwie der Hirt den Heerden rufend vorgeht, so kommt zuerst er ungehemmt, verlangend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для участвующей в состязании колесницы, на которую он взошел,  
 Индра, щедрый, создает отлогий путь.  

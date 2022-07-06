@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यो अ꣡द्रिभिः सुतं꣡  
 सो꣡मम् पवि꣡त्र आ꣡ सृज  
 पुनीही꣡न्द्राय पा꣡तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पु॒नी॒हि । इन्द्रा॑य । पात॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryo* ← *adhvaryu*
 - \[noun\], vocative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **अध्वर्यो** **अद्रिभिः** ग्रावभिः **सुतम्** अभिषुतं **सोमं** **पवित्र** **आ** **सृज** । एतदेव दर्शयति । **इन्द्राय** इन्द्रस्य **पातवे** पानाय **पुनीहि** पावय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,28 +92,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **Yajus**. 20.31; **Brahmā** gives this instrumental uction to Adhvaryu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Adhvaryu, send the soma, pressed by stones, surging into the filter. Purify it for Indra to drink.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ADHVARYU, on the filter pour the Soma juice expressed with stones,  
      And make it pure for Indra's drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu! Laß den mit Steinen ausgepreßten Soma auf die Seihe laufen; läutere ihn für Indra zum Trunke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den steingepressten Soma lass, o Priester, durch die Seihe gehn, Dem Indra läutre ihn zum Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью! Выжатого камнями  
 Сому выливай в цедилку!  

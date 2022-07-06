@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भोज꣡म् अ꣡श्वाः सुष्ठुवा꣡हो वहन्ति  
 सुवृ꣡द् र꣡थो वर्तते द꣡क्षिणायाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भोजः꣡ श꣡त्रून् समनीके꣡षु जे꣡ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 भो॒जम् । दे॒वा॒सः॒ । अ॒व॒त॒ । भरे॑षु । भो॒जः । शत्रू॑न् । स॒म्ऽअ॒नी॒केषु॑ । जेता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhojam* ← *bhoja*
 - \[noun\], accusative, singular, masculine
@@ -107,36 +107,36 @@ popular
 **सुष्ठुवाहः** ॥ ‘ वह प्रापणे ' । “ वहश्च ' इति ण्विप्रत्ययः । शोभनवहनसमर्थाः **अश्वाः** **भोजं** दातारं **वहन्ति** । लक्ष्यं देशं प्रापयन्ति । ततः **दक्षिणायाः** दातुर्यंजमानस्य **सुवृत्** सुष्ठु चक्रादिवर्तनं यस्य सोऽश्वादिसहितः **रथः** **वर्तते** । अथ प्रत्यक्षः । हे **देवासः** हे देवा इन्द्रादयः **भरेषु** । भ्रियत' आहवनीयादिरूपेणाग्निरत्रेति भरा यज्ञाः । यद्वा । ‘ भॄ भर्त्सने ' । भृणन्ति भर्त्सयन्ति योद्धार अत्रेति भराः संग्रामाः । तेषु **भोजं** दातारम् **अवत** रक्षत । ततो युष्माभिः पालितः **भोजः** धनादिदानेन जनानां भोजयिता सन् **समनीकेषु** संग्रामेषु **शत्रून्** **जेता** जयशीलो भवति । ‘ जि जये'। ताच्छीलिकस्तृन् । अत एव ‘ न लोकाव्यय° ' इति शत्रुशब्दस्य षष्ठीप्रतिषेधः । ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Go hence, **Paṇis**, to a far-off distant (spot), let the cattle come forth in due order bursting through (thedoor) the concealed cattle which **Bṛhaspati**, the **Soma**, the grinding stones and the wise Ṛṣis have found.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The steadily conveying horses convey the benefactor. Rolling easily, the  chariot of the priestly gift rolls on.  
 O gods, help the benefactor in the raids. The benefactor will win against  his rivals at the encounters (with them).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Steeds good at draught convey the liberal giver, and lightly rolling moves the car of Guerdon.  
      Assist, ye Gods, the liberal man in battles: the liberal giver conquers foes in combat.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Gastfreien ziehen gutziehende Rosse, leicht rollt der Wagen der Daksina. O Götter, begünstiget den Gastfreien in den Preiskämpfen! Der Gastfreie wird in den Schlachten Sieger über die Feinde sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Freigiebigen fahren trefflich fahrende Rosse, leicht rollt der Wagen des Opferlohners; den Freigiebigen unterstützt, o ihr Götter, in den Kämpfen; der Freigiebige besiegt die Feinde in den Schlachten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Щедрого возят хорошо везущие кони –  
 Легко катится колесница Дакшины.  

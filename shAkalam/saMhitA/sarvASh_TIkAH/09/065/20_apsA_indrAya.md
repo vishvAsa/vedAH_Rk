@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अप्सा꣡ इ꣡न्द्राय वाय꣡वे  
 व꣡रुणाय मरु꣡द्भियः  
 सो꣡मो अर्षति वि꣡ष्णवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सोमः॑ । अ॒र्ष॒ति॒ । विष्ण॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apsā* ← *ap*
 - \[noun\]
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **अप्साः** वसतीवरीनामधेयानामपां संभक्ता । ‘षण संभक्तौ । **जनसन** ' इति विट् । आत्वं ‘ विड्वनोः' इति । तादृशः **सोमः** **अर्षति** द्रोणकलशमागच्छति । किमर्थम्। **इन्द्राय** । सर्वदेवानां प्रथम एवेन्द्रः सोमं पिबति तस्मात्पूर्वमेवाभिहितः । तस्मै **वायवे** तत्सहायाय च । ऐन्द्रवायवे हीन्द्रस्यानन्तरं वायुः सोमं पिबति तस्मात्तदनु वायुरुक्तः । तस्मै च **वरुणाय** **मरुद्भ्यः**  मितं शब्दं कुर्वद्भ्य एतन्नामकेभ्यो देवेभ्यः **विष्णवे** सर्वजगद्व्यापिने विष्णवे च । एतेषां पातुं सोमः स्रवतीत्यर्थः ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, the enjoyer of the water, hasten (to vessels) for **Indra**, **Vāyu**, **Varuṇa**, the **Marut**, **Viṣṇu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Indra, for Vāyu, for Varuṇa, for the Maruts, for Viṣṇu  
 the water-winning soma rushes.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -100,23 +100,23 @@ No clear cohesion, though vss. 19 and 20 both contain a form of √ṛṣ.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, the Water-winner flows to Indra, Vayu, Varuna,  
      To Visnu and the Marut host.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Wasser gewinnend rinnt Soma für Indra, Vayu, Varuna, die Marut und Vishnu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra, Vaju, Varuna, den Maruts und dem Vischnu strömt Der Soma Fluten spendend zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

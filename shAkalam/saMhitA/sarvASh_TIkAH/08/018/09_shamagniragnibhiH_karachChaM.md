@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡म् अग्नि꣡र् अग्नि꣡भिः करच्  
 छं꣡ नस् तपतु सू꣡रियः  
 शं꣡ वा꣡तो वातु अरपा꣡ अ꣡प स्रि꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 शम् । वातः॑ । वा॒तु॒ । अ॒र॒पाः । अप॑ । स्रिधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śam*
 - \[noun\], accusative, singular, neuter
@@ -109,36 +109,36 @@ genre M;; line affected by realignment;; repeated line
 **अग्निभिः** स्वविभूत्या विभिन्नैर्गार्हपत्यादिभिः **अग्निः** देवः **शं** **करत्** अस्माकं रोगशान्तिं सुखं वा करोतु । **सूर्यः** सर्वस्य प्रेरक आदित्यश्च **नः** अस्माकं **शं** सुखं यथा भवति तथा **तपतु** प्रदीप्यताम् । **वातः** वायुश्च **अरपाः** अपापः सन् **शं** यथा भवति तथा च **वातु** अनुवर्तताम् । **स्रिधः** शत्रूंश्चैतेऽग्न्यादयोऽपगमयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the two divine physicians, the **Aśvins**, grant us health; may they drive away from hence iniquity;(may they drive) away our foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni will make weal with his fires; let the sun blaze weal for us.  
 Let wind, without defect, blow weal. – Failures away!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Agni bless us with his fires, and Surya warm us pleasantly:  
      May the pure Wind breathe sweet on us, and chase our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glück soll uns Agni mit den Agni´s bringen. Zum Glück soll uns die Sonne brennen, zum Glück, ohne Schaden zu bringen, der Wind wehen und fort die Fehlschläge wehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Flammen schaffe Agni Heil, die Sonne strahle Heil uns zu, Nicht schadend wehe Heil der Wind, hinweg den Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Счастье должен создать (нам) Агни (своими) кострами!  
 Счастье нам должен воссветить Сурья!  

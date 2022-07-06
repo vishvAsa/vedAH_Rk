@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तियं꣡ चिद् एषां स्वध꣡या म꣡दन्तम्  
 मिहो꣡ न꣡पातं सुवृ꣡धं तमोगा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡ज्रेण वज्री꣡ नि꣡ जघान शु꣡ष्णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृष॑ऽप्रभर्मा । दा॒न॒वस्य॑ । भाम॑म् । वज्रे॑ण । व॒ज्री । नि । ज॒घा॒न॒ । शुष्ण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 **एषां** प्राणिनां **स्वधया** अन्नेन **मदन्तं** मोदमानं सर्वप्राणिनामन्नं स्वयमेव भुञ्जानं **मिहः** सेचनसमर्थस्य मेघस्य **नपातं** पातारं रक्षितारम् । अत्र नपाच्छब्दः पातरि वर्तते । ‘ प्राणो वै तनूनपात्स हि तन्वः पाति' (ऐ. ब्रा. २. ४) इति ब्राह्मणम् । **सुवृधं** प्रवृद्धं **तमोगां** तमः अन्धकारं गच्छन्तं **त्यं** **चित्** तं च वृत्रं निजघानेति शेषः । **वृषप्रभर्मा** वर्षणशीलस्य मेघस्य प्रहर्ता **वज्री** वज्रवानिन्द्रः **वज्रेण** स्वकीयेनायुधेन **दानवस्य** दनुजस्य वृत्रस्य **भामम्** । अत्र क्रोधवाचिभामशब्देन क्रोधादुत्पन्नः शुष्णासुरो लक्ष्यते । तं शुष्णासुरं **नि** **जघान** हतवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,7 +130,7 @@ genre M
 The protector of the showerin gcloud: miho napātam = meghasya rakṣitāram **napāt**, here meaning pātā, a protector, a preserver, as in the **Brāhmaṇa** text cited: prāṇo vai **tanūnapāt** sa hi **tanvaḥ** **pāti**, vital air is called the body-preserver, for it preserves the limbs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That very one—drunk on his own power, belonging to them [=the  Dānavas], child of the fog, grown very strong, emerging from  
 darkness,  
@@ -139,23 +139,23 @@ mace-bearer smashed down with his mace, he who receives the
 proffered bullish (soma) offering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, whom the heavenly food of these delighted, child of the mist, strong waxing, couched in darkness,  
      Him the bolt-hurling Thunderer with his lightning smote down and slew, the Danava's wrath-fire, Susna.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst den Sohn des Nebels, der in ihrem Lebenselement schwelgte, den stark Wachsenden, im Dunklen Wandelnden, den Rachegeist des Danava, den Susna, schlug wie ein Bulle angreifend der Keulenträger mit der Keule nieder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der voll Lust an diesen sich berauschte, der Wolke üpp'gen Sohn, der geht im Dunkel, Den Çuschna schlug der Blitzer mit dem Blitze des Dämons Wuth herab der kraftgetränkte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже того Шушну, наслаждающегося по их обычаю,  
 Отпрыска мглы, сильно растущего, движущегося во мраке,  

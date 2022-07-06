@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ म इ꣡न्द्रेण सखियं꣡ वि꣡ योषद्  
 अस्म꣡भ्यम् अस्य द꣡क्षिणा दुहीत  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्राये꣡-प्राये जिगीवां꣡सः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उप॑ । ज्येष्ठे॑ । वरू॑थे । गभ॑स्तौ । प्रा॒येऽप्रा॑ये । जि॒गी॒वांसः॑ । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 इन्द्रेणसहमेममसख्यंयष्टृयष्टव्यलक्षणंसख्यन्नवियोषत् कदाचिदपिनवियुज्यतां यौतेर्लेटिसिब्बहु- लमितिसिप् अडागमः अस्येन्द्रस्यदक्षिणाइन्द्रकर्तृकं दानमस्मभ्यन्दुहीत अभिमतफलं दुग्धां दुहेर्लिङि- रूपं ज्येष्ठेअतिशयेनप्रशस्येवरूथे आपदांवारकेवरणीयेवागभस्तौ बाहौउपसमीपेवर्तिनः स्याम इन्द्र- स्यहस्तस्पर्शयोग्याभवेमेत्यर्थः किञ्च प्रायेप्राये सोमपानार्थमिन्द्रस्ययज्ञशालायाम्प्रवेशेप्रवेशे जिगीवां- सः शत्रूणाञ्जेतारोभवेम यद्वा प्रायेप्रायेप्रकर्षेणईयतेगम्यतेयोद्धृभिरितिप्रायंयुद्धं तस्मिन्युद्धेजिगीवां- सः शत्रून् जितवन्तोभवम ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre M
 Prāye prāye jigīvaṃsaḥ **syāma**: prāye = yuddhe, in war or battle; it also means, entering; may we be victorious in consequence of Indra's repeatedly entering or frequenting the chamber of sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 No one will keep my companionship away from Indra. The priestly gift  should yield its milk to us.  
 In his preeminent protection and in his hand, we would be those having  victory in our every advance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ne'er be my love from Indra disunited still may his liberal Milch-cow yield us treasure.  
      So may we under his supreme protection, safe in his arms, succeed in each forth-going.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll meine Freundschaft mit Indra auseinander gehen. Für uns soll seine Lohngabe wie eine Kuh ergiebig sein. Unter seiner höchsten Obhut und Hand wollen wir bei jedem Beginnen Sieger sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nie höre meine Freundschaft auf mit Indra, uns möge seine Gabenfülle strömen; In seinem besten Schutz und Arme mögen wir siegreich sein in jedem Gang zum Kampfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не разладится моя дружба с Индрой!  
 Для нас пусть выдаивается его вознаграждение (за жертву)!  

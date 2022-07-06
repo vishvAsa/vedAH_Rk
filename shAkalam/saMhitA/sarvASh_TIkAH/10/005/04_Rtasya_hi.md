@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡स्य हि꣡ वर्तन꣡यः सु꣡जातम्  
 इ꣡षो वा꣡जाय प्रदि꣡वः स꣡चन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घृतइ꣡र् अ꣡न्नैर् वावृधाते म꣡धूनाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒धी॒वा॒सम् । रोद॑सी॒ इति॑ । व॒व॒सा॒ने इति॑ । घृ॒तैः । अन्नैः॑ । व॒वृ॒धा॒ते॒ इति॑ । मधू॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
@@ -107,7 +107,7 @@ genre M
 **ऋतस्य** यज्ञस्य **वर्तनयः** प्रवर्तकाः **इषः** अभिलषितानीच्छन्तः **प्रदिवः** पुरातना ऋविग्यजमानाः **सुजातम्** आधानकाले सुष्ठूत्पन्नमग्निं **वाजाय** बलार्थमन्नार्थं वा **सचन्ते** **हि** सेवन्ते खलु । अपि च **वावसाने** सर्वस्य जगत आच्छादयित्र्यौ **रोदसी** द्यावापृथिव्यौ **अधीवासम्** ओषधिनक्षत्राद्यात्मना निवसन्तम् । यद्वा । अधिरुपर्यर्थे । त्रयाणां लोकानामुपर्यग्निविद्युदादित्यात्मना निवसन्तम् । अग्निं **मधूनाम्** उदकानां जन्यत्वेन संबन्धिभिः **घृतैरन्नैः** पुरोडाशादिभिश्च **वावृधाते** वर्धयां चक्रतुः । वर्धयतः । तस्माद्वयमपि तमग्निमभिष्टुम इत्यभिप्रायः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,30 +118,30 @@ genre M
 Desiring boons: iṣaḥ = an epithet of the ṛtvigyajamānāḥ, meaning:abhilaṣitānīccantaḥ, desiring boons; it may mean 'feed', linked with sacante: vājāya = for the sake ofstrength
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the trails of truth (follow) the well-born one, and refreshments follow  (him) from of old for the prize.  
 The two world-halves, having cloaked themselves in their over-cloak,  have strengthened (their own child) with ghee-drops and foods  
 of honey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For tracks of Order and refreshing viands attend from ancient times the goodly Infant.  
      Wearing him as a mantle, Earth and Heaven grow strong by food of pleasant drink and fatness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn die Wege der Wahrheit führen zu dem Edelgeborenen, die Speisegenüsse folgen ihm von jeher zur Belohnung. Himmel und Erde, sich in ihr Obergewand kleidend, stärkten sich an Fett, Speisen, Süßigkeiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Opfers Pfade und die Tränke folgen von jeher labend, ihm, dem schöngebornen, Und Erd' und Himmel, in der Tränke Mantel gehüllt, erstarken durch die fetten Speisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь пути истины (ведут) к прекраснорожденному.  
 Жертвенные услады искони следуют за ним для награды.  

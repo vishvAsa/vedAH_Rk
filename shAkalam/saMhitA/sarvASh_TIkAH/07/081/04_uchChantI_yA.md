@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उछ꣡न्ती या꣡ कृणो꣡षि मंह꣡ना महि  
 प्रख्यइ꣡ देवि सु꣡वर् दृशे꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 स्या꣡म मातु꣡र् न꣡ सून꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तस्याः॑ । ते॒ । र॒त्न॒ऽभाजः॑ । ई॒म॒हे॒ । व॒यम् । स्याम॑ । मा॒तुः । न । सू॒नवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ucchantī* ← *vas*
 - \[verb noun\], nominative, singular
@@ -130,20 +130,20 @@ genre M
 हे **महि** महति **देवि** दानादिगुणयुक्त उषोदेवते व्युच्छन्ती तमांसि वर्जयन्ती **मंहना** महिम्ना युक्ता। यद्वा। मंहतिर्दानकर्मा। दानयुक्ता। **या** त्वं **स्वः** सर्वं जगत् **प्रख्यै** प्रबोधनार्थं **दृशे** दर्शनार्थं च **कृणोषि** करोषि **तस्याः** तादृश्याः **रत्नभाजः** रत्नानां रमणीयानां धनानां भाजयित्र्याः सेवयित्र्याः **ईमहे** याचामहे । किम् । रत्नभाज इति समभिव्याहाराद्रत्नानीति गम्यते । अपि च **वयं** तव प्रियतमाः **स्याम** भवेम। **मातुर्न** **सूनवः** । यथा मातुर्जनन्याः सूनवः पुत्राः प्रियतमा भवन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mighty goddess, who, scattering darkness, are endowed with power to arouse the world and make itvisible, we pray that we may be dear to you, the distributress of wealth, as sons are to a mother.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who in dawning, through your magnanimity, o great goddess, make  the sun to be visible for seeing—  
 may we—we beseech you—have a share of your treasure, being to you  like sons to their mother.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents several minor syntactic problems. Pāda b contains two apparent datival infinitives, the almost synonymous prakhyaí and dṛśé, most likely to be construed with kṛṇóṣi in pāda a. The standard interpr. take the two infinitives as separate parallel constructions, though the details of these constructions differ acdg.
 
@@ -156,23 +156,23 @@ The other problem lies in the interpr. of the two verbs īmahe (c) and syā́ma 
 In c tásyās te is a fairly unusual ex. of the double sá tvám construction. As is sometimes the case with oblique forms of this construction, I think it likely that the tásyāḥ is there to indicate the gender of the personal pronoun -- though, given the Dawn context, the fem. gender of te could hardly be a secret.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, dawning, workest fain to light the great world, yea, heaven, Goddess! that it may be seen.  
      We yearn to be thine own, Dealer of Wealth: may we be to this Mother like her sons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Große Göttin, die du im Aufleuchten bereitwillig uns sehen und das Sonnenlicht schauen lässest, wir bitten um deine Belohnung, die du Belohnungen austeilst. Wir möchten dir wie die Söhne der Mutter sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die leuchtend du, o grosse, wirkst mit grosser Lust, dass schauend man die Sonne seh; Nach dir verlangt uns, Göttin, die du Gut vertheilst, sei du uns Mutter, Söhne wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты,) что, воспламеняясь, великолепно даешь, о великая,  
 (Способность) различать, о богиня, чтобы (мы) видели солнце, –  

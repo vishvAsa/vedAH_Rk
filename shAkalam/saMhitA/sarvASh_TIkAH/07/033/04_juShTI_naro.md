@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जु꣡ष्टी नरो ब्र꣡ह्मणा वः पितॄणा꣡म्  
 अ꣡क्षम् अव्ययं न꣡ कि꣡ला रिषाथ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रे शु꣡ष्मम् अ꣡दधाता वसिष्ठाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यत् । शक्व॑रीषु । बृ॒ह॒ता । रवे॑ण । इन्द्रे॑ । शुष्म॑म् । अद॑धात । व॒सि॒ष्ठाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣṭī* ← *juṣṭi*
 - \[noun\], instrumental, singular, feminine
@@ -117,7 +117,7 @@ popular
 हे **नरः** **वः** युष्मदीयेन **ब्रह्मणा** स्तोत्रेण **पितॄणां** **जुष्टी** प्रीतिर्भवति । पितॄणामित्यनेन पारोक्ष्येण वसिष्ठस्यैव कीर्तनम् । अहं प्रीतो भवामीत्यर्थः । अथेदानीं स्वमाश्रमं गन्तुमुद्यतोऽहम् **अक्षं** रथस्याक्षम् **अव्ययं** व्ययामि । लडर्थे लङ् । चालयामीत्यर्थः । यूयं **न** **किल** **रिषाथ** न च क्षीणा भवथ हे **वसिष्ठाः** **यत्** यस्मात् **शक्वरीषु** ऋक्षु **बृहता** श्रेष्ठेन **रवेण** साम्ना **इन्द्रे** **शुष्मं** बलम् **अदधात** अधारयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,7 +128,7 @@ popular
 Of your rogenitors: pitṛṇām, in the genitive, plural used honorifically, implying father, i.e.**Vasiṣṭha**; I have set in motion: akṣam avyayam = rathasya akṣam avyayāmi, cālayāmi, I cause to move theaxle of the car, ascribing the words to Vasiṣṭha, as announcing his intention to return to his hermitage
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] Gladly, you superior men, by reason of your fathers’ sacred  formulation, I have engirded the axle: you will certainly not be  
 harmed,  
@@ -136,7 +136,7 @@ since with a lofty cry in Śakvarī [=martial] (meter) you established
 impetuous force in Indra, o Vasiṣṭhas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner appears to be right that this vs. is also Indra’s speech. He picks up the bráhmaṇā vaḥ from 3d in pāda a and also addresses them as ‘superior men’ (voc. naraḥ), just as he spoke about the superior men (acc. nṝ́n) in 1c.
 
@@ -151,23 +151,23 @@ As Geldner points out (n. 4c), śákvarī- is the name of a meter with martial a
 of X.133, a hymn to Indra attributed to Sudās Paijavana, that is, the royal hero of the Ten Kings Battle, though there is no particular ref. to that battle in X.133. Since śákvarīṣu is plural here, it would be better tr. “in Sakvarī (verses)” than “in Śakvarī (meter),” as in the published translation 39
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I gladly, men I with prayer prayed by our fathers have fixed your axle: ye shall not be injured:  
      Since, when ye sang aloud the Sakvari verses, Vasisthas! ye invigorated Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra: "Aus Vorliebe für eure Väter, ihr Herren, habe ich mit deren Kraftwort die Achse umbunden. "Ihr sollt gewiß keinen Schaden nehmen!" - Als in Sakvariversen mit lautem Schalle ihr Vasistha´s dem Indra Mut machtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Männer, um der Liebe und des Gebetes eurer Väter willen, hab ich die Achse eures Wagens beschützt; nicht sollt ihr Schaden leiden; weil ihr, o Vasischta's, in kunstreichen Versen mit lautem Schalle dem Indra Kraft gegeben habt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из приязни, о мужи, (и) из-за священного слова ваших отцов  
 Я обернул ось (колесницы) – вы никак не должны пострадать! -  

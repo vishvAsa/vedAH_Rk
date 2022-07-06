@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वां निचेरुः꣡ ककुहो꣡ व꣡शाँ अ꣡नु  
 पिश꣡ङ्गरूपः स꣡दनानि गम्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मथ्रा꣡ र꣡जांसि अश्विना वि꣡ घो꣡षैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 हरी॑ । अ॒न्यस्य॑ । पी॒पय॑न्त । वाजैः॑ । म॒थ्ना । रजां॑सि । अ॒श्वि॒ना॒ । वि । घोषैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 हे **अश्विना** अश्विनौ **वां** युवयोर्मध्ये अन्यस्य एकस्य **ककुहः** श्रेष्ठः **पिशङ्गरूपः** हिरण्यरूपः पीतवर्णो वा बहुभिरक्षाद्यवयवैर्निरूप्यमाणो वा रथः **वशान्** अनु कामाननुलक्ष्य यथाकामम् । अस्मद्यज्ञागमनेच्छयेत्यर्थः । यद्वा । वशान्स्वाधीनाः ककुहो दिशो दिगन्तरालानुक्रमेण नीचैरुच्चैश्चरन् स्वस्थानाद्देवयजनमुखं गच्छन् । **सदनानि** अस्मद्यागगृहाणि **प्र** **गम्याः** प्रकर्षेण गच्छतु॥ पुरुषव्यत्ययः ॥ अत्र यद्यप्यन्यस्येति नोक्तं तथाप्युत्तरवाक्ये तथोक्तत्वादत्रापि लभ्यते । **अन्यस्य** युवयोरन्यतमस्य **हरी** अश्वौ **रजांसि** लोकाः । अत्र लोकशब्दो जनवाचकः । ते यजमानरूपा जनाः इत्यर्थः । ते च **मथ्ना** प्रमथनेनालोडनेन निष्पादितैः **वाजैः** अन्नैरामिक्षादिरूपैः **घोषैः** स्तुतिभिश्च आह्वानादिशब्दविशिष्टैर्वा **पीपयन्त** आप्याययन्ति ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ genre M
 Traversing at will: niceruḥ kakuho vaśām anu: **kakuha** is an epithet of **ratha**, signifying best, **śreṣṭha**; it may also mean the points of the horizon
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The attentive lead (horse) of you two, your sorrel, should go forth,  following your will, to the (sacrificial) seats,  
 (as should) the two fallow bays of the other [=Indra]. They will become  swollen with prizes—the skittish (horses) as they (go) through the airy  realms with their cries, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 nicerú- is a hapax (though cf. céru- VIII.61.7). It almost surely belongs to √ci ‘observe, discern’, with Debrunner (AiG II.860), despite Mayrhofer’s doubts (EWA s.v. céru-). The Aśvins are themselves called nícetar- in nearby I.184.2.
 
@@ -159,23 +159,23 @@ because the kakuhá- of 5a is also thought of [gedacht wird], but my suggestion 
 I supply a participle of a verb of motion with ví, which governs rájāṃsi. The two parts of this phrase are separated by the intrusive voc. aśvinā. See 7b below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May your car-seat, down-gliding, golden-coloured, according to your wish approach our dwellings.  
      Men shall feed full the bay steeds of the other, and, Asvins they with roars shall stir the regions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euer achtsamer Buckelochse von rotbrauner Farbe soll nach Wunsch zu den Opferstätten kommen. Die beiden Falben des anderen sind von Siegestrophäen geschwellt, die beiden Mathrarosse durchfliegen mit Getöse die Räume, o Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Opfersitze komme niedereilend eur hohes Ross nach Wunsch, das goldgefärbte, Des andern Rosspaar soll von Speise schwellen, die Luft erschütternd mit Getös', o Ritter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваш деятельный (?) горбатый буйвол по (своей) воле  
 Пусть примчится на места (жертвоприношений), (буйвол) золотистого цвета.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ क्र꣡न्दसी संयती꣡ विह्व꣡येते  
 प꣡रे अ꣡वर उभ꣡या अमि꣡त्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ना꣡ना हवेते स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒मा॒नम् । चि॒त् । रथ॑म् । आ॒त॒स्थि॒ऽवांसा॑ । नाना॑ । ह॒वे॒ते॒ इति॑ । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 यङ्क्रन्दसीरोदसीशब्दङ्कुर्वाणेमानुषीदेवीचद्वेसेनेवासंयती परस्परंसङ्गच्छन्त्यौयमिन्द्रंविह्वयेते स्वरक्षार्थंविविधमाह्वयतः परेउत्कृष्टाः अवरेअधमाश्चोभयाः उभयविधाः अमित्राः शत्रवः यमाह्व- यन्ति समानंइन्द्ररथसदृशंरथमातस्थिवांसाआस्थितौद्वौरथिनौचित् तमेवेन्द्रन्नानापृथक् पृथक् हवेते- आह्वयेते यद्वा समानमेकरथमारूढाविन्द्राग्नीहवेतेयज्ञार्थंयजमानैः पृथगाहूयेते तयोरन्यतरःसइन्द्रो- नाहमिति ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,39 +129,39 @@ genre M
 Whom (two hosts): yam krandasī sanyatī vihvayete = whom, crying aloud, encountering (two), invoke; the substantive is supplied: **rodasī**, heaven and earth; or, dve sene, two armies; whom (two charioteers): here also a substantive is supplied: rathinau, two charioteers; or **Agni** and Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom the two war-cries, clashing together, call upon in rivalry—the  enemies on both sides, here and over there—  
 even the two who have mounted the same chariot [=the chariot-warrior  and charioteer] call on him separately – he, o peoples, is Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For nā́nā see my disc. in the Hock Fs. “RV sá hinā́yám (VI.48.2) with a Return Visit to nā́yám and nā́nā,” in Grammatica et Verba, Glamor and Verve: Studies in South Asian, Historical, and Indo-European Linguistics in Honor of Hans Henrich Hock, ed. Shu-Fen Chen and Benjamin Slade, 2013. I follow Thieme’s 1949 explanation of the form as an āmreḍita involving the expected nom. sg. of nṛ́- ‘man’, otherwise unattested in Vedic. For reasons given in my article I prefer this account to Klein’s recent (2004) derivation from a pronominal āmreḍita *anā́-anā à *anā́nā “in this way (here), in that way (there)” (Jared S. Klein, “Nominal and adverbial āmreḍitas and the etymology of Ṛgvedic nā́nā,” in The Vedas: Text, Language & Ritual. Proceedings of the Third International Vedic Workshop, Leiden 2002, ed. Arlo Griffiths and Jan E. M. Houben, 251-60).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To whom two armies cry in close encounter, both enemies, the stronger and the weaker;  
      Whom two invoke upon one chariot mounted, each for himself, He, O ye men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Whom two contending armies vie in calling, On both sides foes, the farther and the nearer; Two fighters mounted on the self-same chariot Invoke him variously: he, men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den zwei Schlachthaufen, wenn sie aneinander geraten, anrufen, die beiderseitigen Feinde hüben und drüben - auch die zwei, die den gleichen Wagen bestiegen haben, rufen ihn jeder besonders an - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den beide Schlachtreihn in dem Kampfe anflehn, die Gegner beide, hüben hier und drüben; Ihn rufen die auf gleichem Wagen stehen, verschieden an, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого призывают отдельно два шумных сходящихся войска:  
 По эту сторону, и по ту, взаимные недруги –  

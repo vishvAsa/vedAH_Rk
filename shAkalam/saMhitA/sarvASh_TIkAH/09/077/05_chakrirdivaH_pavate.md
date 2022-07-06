@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 च꣡क्रिर् दिवः꣡ पवते कृ꣡त्वियो र꣡सो  
 महाँ꣡ अ꣡दब्धो व꣡रुणो हुरु꣡ग् यते꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡त्यो न꣡ यूथे꣡ वृषयुः꣡ क꣡निक्रदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 असा॑वि । मि॒त्रः । वृ॒जने॑षु । य॒ज्ञियः॑ । अत्यः॑ । न । यू॒थे । वृ॒ष॒ऽयुः । कनि॑क्रदत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cakrir* ← *cakriḥ* ← *cakri*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **चक्रिः** सर्वस्य कर्ता **कृत्व्यः** कर्मण्यः **रसः** रसात्मकः **महान्** गुणैरधिकः **अदब्धः** अहिंस्यः **हुरुक्** कुटिलं **यते** गच्छते । इतस्ततः परिचरत इत्यर्थः । तदर्थं **दिवः** सकाशात् **पवते** पूयते । अन्तरिक्षस्थाद्दशापवित्रादित्यर्थः । किंचासौ सोमः **असावि** सूयते । कदा । **वृजनेषु** अरिष्टेषु सत्सु तत्परिहारार्थम् । कीदृशः सः । **मित्रः** सर्वेषां मित्रभूतः **यज्ञियः** यष्टव्यः **अत्यो** **न** अश्व इव **यूथे** वडवायूथे स यथा **वृषयुः** सन् शब्दं करोति तद्वदसौ वृषभो रसस्य वर्षिता **कनिक्रदत्** शब्दं कुर्वन् असावीति ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,36 +133,36 @@ genre M
 The maker of all, clever in work, the juice, mighty unassailable Varuṇa flows from heaven for the sake of him who go hither and thither; the friend of the adorable (Soma) is effused in affliction uttering a sound like an ardent horse amidst a herd (of mares). \[
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The active, effective sap of heaven purifies himself as great Varuṇa, not  to be deceived by one who goes astray.  
 The one worthy of the sacrifice has been pressed as Mitra in the (ritual)  enclosures [/communities], constantly whinnying like a charger acting  the bull in the herd.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Soma is notably identified with Varuṇa and Mitra in this vs. - the former because he cannot be deceived by the crooked (hurúg yaté), the latter because (implicitly) he mediates between the ritual communities (vṛjána-).
 
 With Mayr. (EWA s.v. híruk), I take hurúk to √hvar ‘go crookedly’ (also in a moral sense). The expression hurúg yaté contrasts with ṛtáṃ yaté “going to truth” in the same metrical position in nearby IX.69.3, 74.3 and four other times.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The active potent juice of heaven is flowing on, great Varuna whom the forward man can ne'er deceive.  
      Mitra, the Holy, hath been pressed for troubled times, neighing like an impatient horse amid the herd,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Himmels wirksamer, den Sieg entscheidender Saft wird geläutert, der der große unbetörte Varuna für den ist, der krumme Wege wandelt. Der Verehrungswürdige ward als Mitra, als Mittler, unter den Opferparteien ausgepreßt, wiehernd wie ein brünstiger Hengst in der Herde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel rieselt hell der starke thät'ge Saft, dem irrenden ein Führer, gross als Varuna; Erzeugt ist Mitra, in den Stätten Opfers werth, er, brünstig wiehernd in der Heerde wie ein Hengst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищается деятельный, действенный сок неба,  
 Великий безобманный Варуна для того, кто сбивается с пути.  

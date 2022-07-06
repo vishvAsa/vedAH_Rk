@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बन्ति अस्य वि꣡श्वे देवा꣡सो  
 गो꣡भिः श्रीत꣡स्य नृ꣡भिः सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 पिब॑न्ति । अ॒स्य॒ । विश्वे॑ । दे॒वासः॑ । गोभिः॑ । श्री॒तस्य॑ । नृऽभिः॑ । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibanty* ← *pibanti* ← *pā*
 - \[verb\], plural, Present indikative
@@ -71,19 +71,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **विश्वे** सर्वे **देवासः** देवाः **गोभिः** गोविकारैः **श्रीतस्य** मिश्रितं **नृभिः** कर्मनेतृभिर्ऋत्विग्भिः **सुतस्य** अभिषुतम् **अस्य** अमुं सोमं **पिबन्ति** । द्वितीयार्थे षष्ठ्यः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The universal gods drink of it, effused by the priests, mixed with milk and curds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All the gods drink of him, prepared with cows, pressed by men.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -93,22 +93,22 @@ The adj. cā́ru- ‘dear’ occurs in 13 and 14. The gods as recipients of soma
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All Deities are wont to drink of him, pressed by the men and blent with milk and curds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von ihm trinken alle Götter, wenn er mit Milch gemischt und von den Männern ausgepreßt ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von ihm geniessen – die Götter alle, dem milchgemischten, – vom Volk gepressten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его пьют все боги,  
 Когда он смешан с молоком, выжатый мужами.

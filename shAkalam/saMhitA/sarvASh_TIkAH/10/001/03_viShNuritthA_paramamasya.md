@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ष्णुर् इत्था꣡ परम꣡म् अस्य विद्वा꣡ञ्  
 जातो꣡ बृह꣡न्न् अभि꣡ पाति तृती꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡चेतसो अभि꣡ अर्चन्ति अ꣡त्र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ॒सा । यत् । अ॒स्य॒ । पयः॑ । अक्र॑त । स्वम् । सऽचे॑तसः । अ॒भि । अ॒र्च॒न्ति॒ । अत्र॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ genre M
 **विद्वान्** जानाना जातः प्रादुर्भूतः **बृहन्** महान् विष्णुः **इत्था** इत्थमनेन प्रकारेण विष्णुः स्थापनशीलो ज्ञानादिगुणयुक्तोऽग्निः **अस्य** इमं **तृतीयं** त्रयाणां पूरकं त्रितं माम् **अभि** **पाति** अभिरक्षतु । 'एकतो द्वितस्त्रित इति त्रयो बभूवुः' (निरु. ४. ६) इति यास्केनोक्तम् । किंच **अस्य** अग्नेः **स्वम्** आत्मीयं पयः उदकम् **आसा** आस्येन **यत्** यदा **अक्रत** कुर्वन्ति यजमाना याचन्ते तदानीम् **अत्र** अस्मिँल्लोके स्थिताः स्तोतरः सचेतसः समानमनस्का भूत्वैनम् **अभ्यर्चन्ति** अभिष्टुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ genre M
 His third manifestation: tṛtīyam **asya** = manifestation of **Agni** as the thirdof **ekata**, **dvita** and **trita**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just such a way as Viṣṇu, knowing his farthest (step), at his birth he  protects on high the third (seat?).  
 When with their mouth they have made their own milk [=poetry] for  him, they with single mind chant to him here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here, being manifested, lofty Visnu, full wise, protects his own supremest station.  
      When they have offered in his mouth their sweet milk, to him with one accord they sing forth praises.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Vishnu dort seinen höchsten Ort kennend, behütet der Geborene, der Hohe, den dritten Geburtsort. Wann sie mit ihrem Munde die ihm gehörige Milch bereitet haben, dann verehren sie ihn hier einmütig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vischnu fürwahr, der Agni's höchsten Ort kennt, beschützt den dritten Ort, der hochgeborne; Wenn dessen Milch zur seinen er gemacht hat, dann preisen ihn die weisen, hier erscheinend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как (это свойственно) Вишну, зная свое высшее (местоприбывание),  
 (Едва) родившись, высокий охраняет третье (местоприбывание).  

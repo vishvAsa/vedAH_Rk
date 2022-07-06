@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य ते विश्व꣡मानुषो  
 भू꣡रेर् दत्त꣡स्य वे꣡दति  
 व꣡सु स्पार्हं꣡ त꣡द् आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 वसु॑ । स्पा॒र्हम् । तत् । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, neuter
@@ -95,42 +95,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे इन्द्र **ते** त्वया । विभक्तिव्यत्ययः । **दत्तस्य** दत्तं **भूरेः** बहु यस्य यद्धनम् । कर्मणि षष्ठी । **विश्वमानुषः** सर्वो मनुष्यः **वेदति** जानाति **तत्** **स्पार्हं** स्पृहणीयं **वसु** **आ** **भर** ॥ ॥ ४९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow on us, **Indra**, that desirable wealth which all men recognize as given abundantly by you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The abundance given by you that the whole people of Manu  
 will know—  
 the craved good thing—bring that here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 viśvámānuṣa- should, by accent, be a bahuvrīhi; it is also difficult to separate from viśvámanus- in the next hymn (VIII.46.17). However, most interpretors take it implicitly as a karmadhāraya: Grassmann ‘die ganze Menschenschar’, Geldner ‘jedermann’, and Wackernagel (AiG II.1.266) explicitly identifies it as a tatpuruṣa with irregular accent (‘Gesamtheit der Menschen’). But this seems unnecessary: mā́nuṣa- regularly modifies jána- (so ‘human race’ / or ‘folk consisting of the descendants of Manu’), and here we can supply an underlying jána-, modified by the compound, hence ‘(races) consisting of all the people of Manu’. The published translation seems to reflect the tatpuruṣa interpretation because the more literal tr. is simply too awkward.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Great riches which the world of men shall recognize as sent by thbe:  
      Bring us the wealth for which we long.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wovon jedermann Kunde haben soll, von dem in Fülle von dir Geschenkten, das begehrenswerte Gut, das bring mit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das reiche, was die ganze Welt bezeuget als von dir geschenkt, Das Gut bring' her, das wir ersehnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О чем каждый человек должен знать,  
 О многом подаренном тобой, –  

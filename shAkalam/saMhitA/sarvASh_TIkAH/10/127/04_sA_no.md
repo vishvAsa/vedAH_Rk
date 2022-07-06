@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡ नो अद्य꣡ य꣡स्या वयं꣡  
 नि꣡ ते या꣡मन्न् अ꣡विक्ष्महि  
 वृक्षे꣡ न꣡ वसतिं꣡ व꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 वृ॒क्षे । न । व॒स॒तिम् । वयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
@@ -94,40 +94,40 @@ genre M
 **अद्य** अस्मिन् काले **नः** अस्माकं **सा** रात्रिदेवता प्रसीदतु **यस्याः** रात्रेः **यामन्** यामनि प्राप्तौ सत्यां **वयं** **नि** **अविक्ष्महि** निविशामहे सुखेन गृह आस्महे ॥ विशेर्लङि ‘ नेर्विशः ' ( पा. सू. १. ३. १७) इत्यात्मनेपदम् । छान्दसः शपो लुक् ॥ तत्र दृष्टान्तः । **वयः** पक्षिणः **वृक्षे** **न** यथा वृक्षे नीडाश्रये **वसतिं** रात्रौ निवासं कुर्वन्ति तथा निवसाम इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May she be favourable to us today upon whose approach we re-enter (our dwellings), as birds(re-enter) their nest upon the tree.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Be) here for us today—you at whose journey we have settled down, like birds on their nest in the tree.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So favour us this night, O thou whose pathways we have visited  
      As birds their nest upon the tree.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 So, goddess, come to-day to us: At thy approach we seek our homes. As birds their nests upon the tree.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Steh du uns heute zur Seite, bei deren Kommen wir zur Ruhe gegangen sind wie die Vögel ins Nest auf dem Baum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei unser du, bei deren Nahn wir heute heimgewandert sind, Wie Vögel in des Baumes Nest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Будь) нам сегодня (на благо), о ты,  
 С чьим приходом мы успокоились.  

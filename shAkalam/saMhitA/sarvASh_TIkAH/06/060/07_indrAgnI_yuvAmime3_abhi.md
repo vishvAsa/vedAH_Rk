@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रअग्नी युवा꣡म् इमे꣡  
 अभि꣡ स्तो꣡मा अनूषत  
 पि꣡बतं शम्भुवा सुत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 पिब॑तम् । श॒म्ऽभु॒वा॒ । सु॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], vocative, singular, masculine
@@ -82,36 +82,36 @@ genre M
 हे **इन्द्राग्नी** **युवामिमे** **स्तोमाः** स्तोतारः **अभि** **अनूषत** अभिष्टुवन्ति । हे **शंभुवा** सुखस्य भावयिताराविन्द्राग्नी **सुतम्** अभिषुतमस्मदीयं सोमं **पिबतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, these hymns glorify you both; drink, bestowers of happiness, the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Agni, these praises here have roared to you two.  
 Drink the pressed (soma), you who are luck itself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni, these our songs of praise have sounded forth to you:  
      Ye who bring blessings! drink the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni! Zu euch haben diese Loblieder geschrieen: Trinket den Soma, ihr Wohlwollende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch, Indra-Agni, jubelten hier diese Lobgesänge zu, Den Soma trinkt, o gütige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, к вам двоим эти  
 Восхваления воззвали:  

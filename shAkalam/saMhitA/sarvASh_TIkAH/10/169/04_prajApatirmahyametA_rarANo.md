@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रजा꣡पतिर् म꣡ह्यम् एता꣡ र꣡राणो  
 वि꣡श्वैर् देवइः꣡ पितृ꣡भिः संविदानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡सां वय꣡म् प्रज꣡या सं꣡ सदेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 शि॒वाः । स॒तीः । उप॑ । नः॒ । गो॒ऽस्थम् । आ । अ॒क॒रित्य॑कः । तासा॑म् । व॒यम् । प्र॒ऽजया॑ । सम् । स॒दे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prajāpatir* ← *prajāpatiḥ* ← *prajāpati*
 - \[noun\], nominative, singular, masculine
@@ -136,7 +136,7 @@ popular
 **प्रजापतिः** विधाता **मह्यं** स्तोत्रे **एता** गाः **रराणः** प्रयच्छन् ॥ रातेर्व्यत्ययेन शानच् । छान्दसः शपः श्लुः । ' अभ्यस्तानामादिः ' इत्याद्युदात्तत्वम् ॥ **विश्वैः** सर्वैः **देवैः** **पितृभिः** च **संविदानः** ऐकमत्यं गतः सन् **शिवाः** **सतीः** कल्याणीर्भवन्तीर्गाः **नः** अस्माकं **गोष्ठं** व्रजम् **उप** गोष्ठसमीपे **अकः** करोतु । **तासां** गवां **प्रजया** संतानेन **वयं** **सं** **सदेम** संगच्छेमहि ॥ सदेराशिषि लिङि लिङ्याशिष्यङ् ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,30 +147,30 @@ popular
 The **sūkta** is to berepeated at eventide, when the cows are being brought home
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Prajāpati, having given them to me, in concord with all the gods and the  forefathers,  
 has sent them here, being well-disposed, to our stable. Might we reside  together with their offspring.  
 1650 X.170–171
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Prajapati, bestowing these upon me, one-minded with all Gods and with the Fathers,  
      Hath to our cow-pen brought auspicious cattle: so may we own the offspring they will bear us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Prajapati hat mir diese, mit allen Göttern, mit den Vätern eines Sinnes, geschenkt und die Holden in unseren Stall getrieben. Mit deren Nachwuchs möchten wir zusammen wohnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mir schenkte sie Pradschāpati im Einklang mit allen Göttern und mit unsern Ahnen; Und schaffte sie zum Heil in unsern Kuhstall, mit ihrem Nachwuchs mögen wir begabt sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даря их мне, Праджапати,  
 Согласный со всеми богами (и) отцами,  

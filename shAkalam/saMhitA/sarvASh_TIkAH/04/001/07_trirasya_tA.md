@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡र् अस्य ता꣡ परमा꣡ सन्ति सत्या꣡  
 स्पार्हा꣡ देव꣡स्य ज꣡निमानि अग्नेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 छु꣡चिः शुक्रो꣡ अरियो꣡ रो꣡रुचानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒न॒न्ते । अ॒न्तरिति॑ । परि॑ऽवीतः । आ । अ॒गा॒त् । शुचिः॑ । शु॒क्रः । अ॒र्यः । रोरु॑चानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trir* ← *tris*
 - \[adverb\]
@@ -119,7 +119,7 @@ genre M
 **अग्नेः** अग्न्यभिमानिनः **अस्य** **देवस्य** **त्रिः** त्रीण्यग्निवायुसूर्यात्मना त्रीणि **ता** तानि प्रसिद्धानि **परमा** उत्तमानि **सत्या** यथार्थभूतानि **जनिमानि** जन्मानि **स्पार्हा** सर्वैः स्पृहणीयानि **सन्ति** । यद्वा । अग्नेरेव त्रीणि जन्मानि  दिवस्परि प्रथमं जज्ञे अग्निः ' ( ऋ. सं. १०. ४५. १ ) इति त्रीणि जाना परि भूषन्त्यस्य' ( ऋ. सं. १.९५.३ ). इत्येवमादिषु मन्त्रेषु प्रसिद्धानि । **अनन्ते** अपर्यन्ते नभसि **अन्तः** मध्ये स्वतेजसा **परिवीतः** परिवेष्टितः **शुचिः** सर्वस्य शेाधकः **शुक्रः** दीप्तियुक्तोऽत एव **रोरुचानः** भृशं दीप्यमानः **अर्यः** स्वामी तादृशो देवः **आगात्** अस्मदीयं यज्ञं प्रत्यागच्छतु ॥ सत्या। ‘शेश्छन्दसि बहुलम्' इति शेर्लुक् । परिवीतः । व्येञ् संवरणे' । कर्मणि क्तः । यजादित्वात् संप्रसारणम् । ‘गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । अर्यः ।  ‘  ऋ गतौ । ' अर्यः स्वामिवैश्ययोः' इति यत्प्रत्ययान्तो निपातितः ।  ‘ स्वामिन्यन्तोदात्तत्वं वक्तव्यम्' इत्यन्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,13 +130,13 @@ genre M
 Births of Agni: As Agni, **Vāyu** and **Sūrya**; or, itmay refer to the plural ces of his manifestation; or, earth, firmament, and heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three times do these highest births of his come into existence—the  eagerly sought births of the god Agni.  
 Enveloped within the limitless, he has come here—a blazing flame, ever  shining for the stranger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take santi satyā́here as an etym. figure, a phrasal verb meaning “come into existence” (“come [to be] true”), rather than taking santi as copula and satyā́as a simple adj. with most tr. For one thing, pres. tense forms of √as in main clauses are usually existentials, not copulas; for another trís should mean ‘three times’, not ‘three’ or ‘threefold’ as a copular reading seems to require (e.g., Geldner “Dreifach sind diese seine höchsten wahren (Geburten) …”). See also satyám astu in 18d. I am not sure which three occasions are being referred to, but possibly to the production of the three ritual fires -- though esp. given the word paramá- ‘highest’, it could be a cosmic reference.
 
@@ -147,28 +147,28 @@ In d the standard tr. take ari yáḥ as nom. sg. to the thematic stem aryá- (e
 Among other things, as Grassmann points out, this would be the only ex. of aryá- with distraction, while arí- does have a few other distracted forms. There is no compelling formulaic evidence either way, but V.34.9 ketúm aryáḥ “the beacon for the stranger,” adduced by Thieme, resembles our passage thematically.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three are those births, the true, the most exalted, eagerly longed-for, of the God, of Agni.  
      He came invested in the boundless region, pure, radiant, friendly, mightily resplendent.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Three 1 are those highest, true, and lovely births of this god Agni. Being enveloped in the infinite 2 he has come hither, the bright, brilliant, shining Aryan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreifach sind diese seine höchsten wahren Geburten, die ersehnten Geburten des Gottes Agni. In endlosem Dunkel verhüllt ist er gekommen, der reine, helle, erstrahlende Herr.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dreifach ist dieses Gottes Agni Ursprung, der wahre, höchste, der begehrungswerthe; Im unbegrenzten Raum verhüllet kam er, mit lichtem Glanz der treue hell erstrahlend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды происходят эти высшие, истинные,  
 Желанные рождения этого бога Агни.  

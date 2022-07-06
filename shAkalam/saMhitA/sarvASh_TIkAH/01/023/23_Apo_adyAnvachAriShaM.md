@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पो अद्या꣡न्व् अचारिषं  
 र꣡सेन स꣡म् अगस्महि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡म् मा सं꣡ सृज व꣡र्चसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 पय॑स्वान् । अ॒ग्ने॒ । आ । ग॒हि॒ । तम् । मा॒ । सम् । सृ॒ज॒ । वर्च॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
@@ -124,7 +124,7 @@ popular;; epic anuṣṭubh (424)
 **अद्य** अस्मिन् दिने अवभृथार्थम् **आपः** **अन्वचारिषं** जलान्यनुप्रविष्टोऽस्मि । प्रविश्य च **रसेन** जलसारेण **समगस्महि** संगताः स्मः। हे **अग्ने** **पयस्वान्** जले वर्तमानत्वेन पयोयुक्तः त्वम् **आ** **गहि** । अस्मिन् कर्मण्यागच्छ। **तं** **मा** तादृशं स्नातं मां **वर्चसा** तेजसा **सं** **सृज** संयोजय॥ आपः । कर्मणि शसि प्राप्ते व्यत्ययेन जस् । अचारिषम् । चर गत्यर्थः । लुङि च्लेः सिच् ।  ‘ आर्धधातुकस्येड्वलादेः' (पा. सू. ७. २. ३५) इति इट् । नेटि' (पा. सू. ७. २. ४ ) इति वृद्धिप्रतिषेधे प्राप्ते तदपवादतया ‘ अतो ल्रान्तस्य' (पा. सू. ७. २. २) इति उपधाया वृद्धिः। अगस्महि । “ समो गम्यृच्छि° ' (पा. सू. १. ३. २९) इति आत्मनेपदम् । च्लेः सिच् । 'मन्त्रे घस०' इत्यादिना च्लेर्लुगभावश्छान्दसः ।  ‘ एकाच उपदेशेऽनुदात्तात् ' (पा. सू. ७. २. १० ) इति इट्प्रतिषेधः । ‘वा गमः' (पा. सू. १. २. १३) इति सिचः कित्त्वात् “ अनुदात्तोपदेश' इत्यादिना अनुनासिकलोपः । गहि । लोटि गमेः सिपो हिः । अपित्त्वेन ङित्त्वात् ' अनुदात्तोपदेश' इत्यादिना अनुनासिकलोपः ।  ‘ अतो हेः' इति लुक् न भवति;  ‘ असिद्धवदत्रा भात्' इति मलोपस्यासिद्धत्वात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,35 +135,35 @@ popular;; epic anuṣṭubh (424)
 Rasena samagasmahi: we have become associated with the essence of water, jalasareṇa **saṅgatāḥ** smaḥ).
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Waters, today I have followed (you). We have united with your sap. Full of milk, come here, o Agni. Merge me with luster.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most tr. take ā́paḥ as acc. here (“I have followed the waters.”). This is of course possible: the nom. of this stem does get used for acc. occasionally in the RV.
 
 However, such an interpr. is not nec. in this case, since it is easy to supply an acc. “you.” And the fact that the two previous vss. (21a and 22a) contain vocatives ā́paḥ and āpaḥ respectively supports a vocative interpretation here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Waters I this day have sought, and to their moisture have we come:  
      O Agni, rich in milk, come thou, and with thy splendour cover me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gewässer habe ich heut aufgesucht; wir sind mit dem Naß in Berührung gekommen. Komm Milch bringend, Agni; begabe mich hier mit Ansehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wassern ging ich heute nach, wir einten uns mit ihrer Flut; Komm, Agni, her mit Milch benetzt, und mich benetze du mit Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сегодня я добрался до вод.  
 Мы встретились с (их) влагой.  

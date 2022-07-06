@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बा सो꣡मम् इन्द्र सुवान꣡म् अ꣡द्रिभिः  
 को꣡शेन सिक्त꣡म् अवतं꣡ न꣡ वं꣡सगस्  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 अ꣡हा वि꣡श्वेव सू꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 आ । त्वा॒ । य॒च्छ॒न्तु॒ । ह॒रितः॑ । न । सूर्य॑म् । अहा॑ । विश्वा॑ऽइव । सूर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibā* ← *pā*
 - \[verb\], singular, Present imperative
@@ -166,42 +166,42 @@ genre M
 हे **इन्द्र** **वंसगः** वननीयगमनस्त्वं **सोमं** **पिब** ॥ ' द्व्यचोऽतस्तिङः' इति दीर्घः ॥ कीदृशं तम् ॥ **अद्रिभिः** अभिषवसाधनैर्ग्रावभिः **सुवानं** सूयमानम् ॥ कर्मणि कर्तृप्रत्ययः ॥ **कोशेन** **सिक्तं** कोशस्थानीयेन दशापवित्रेण शोधितम् । यद्वा । अवतम् इत्यनेन सह संबन्धः। कोशेनेति' लक्षणेन() सिक्तं स्वोचितजलेन पूरितम् **अवतं** **न** आहावलक्षणम् अवटमिव । तं यथा वंसगः वननीयगमनः तृषा शीघ्रगामी वृषभः पिबति तद्वत् । **ततृषाणो** **न** **वंसगः** । यथा अत्यन्तं तृषितो वंसगो वननीयगमनः शीघ्रगामी पुरुषः आहावादिकमागत्य पिबति तद्वत् । किमर्थं पानमिति तत्राह । **ते** तव **मदाय** तृप्तये **हर्यताय** विक्रान्तिहेतवे कान्त्यर्थं वा ॥ ‘हर्य गतिकान्त्योः '। ‘भृमृदृशि' इत्यादिना अतच् ॥ **तुविष्टमाय** महत्त्वाय प्रवृद्धत्वाय **धायसे** यदर्थं मद उपजायते तदर्थाय ॥ धाञः ‘वहिहाधाञ्भ्यः०' इत्यसुनि ‘णित्' इत्यनुवृत्तेः ‘आतो युक्' इति युक्॥ यद्वा । ते तव तुविष्टमाय धायसे अतिप्रभूताय पानाय । **त्वा** त्वाम् **आ** **यच्छन्तु** आभिमुख्येन गमयन्तु । अश्वा इति शेषः । तत्र दृष्टान्तः । **हरितो** **न** **सूर्यं** हरिद्वर्णविशिष्टा एतन्नामका अश्वाः सूर्यमिव । तं यथा अतित्वरया अभिमतदेशम् अभिप्रेरिताः वहन्ति तद्वत् । किंच **अहा** **विश्वा** सर्वाण्यहानि **सूर्यम्** इव । तं यथा त एव प्रतिदिनं वहन्ति तथा अस्मद्यागदिवसेषु प्रतिदिनमावहन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink, **Indra**, the **Soma**, that has been expressed by the stones, and spinkled with the sacred grass; as a thirsty ox or a thirsty man hastens to a well. (Drink) fo ryour exhilaration, for your invogoration, for your exceedingly great augmentation; let your horses bring you hither, as his steeds convey the sun; as they carry him (through heaven) day by day.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, drink the soma being pressed by the stones, poured with a  bucket, like a buffalo drinking at a well-spring—like a thirsty buffalo. For your delightful exhilaration, for your most exceptional feeding,  
 let them [=your horses] guide you here, like the golden (mares) the Sun— like the Sun through all the days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 áhā víśveha in g (repeated in 9g) appears to show the same displaced simile particle found elsewhere in the Paruchepa hymns; see disc. ad I.129.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, drink the Soma juice pressed out with stones. poured from the reservoir, as an ox drinks the spring, a very thirsty bull the spring.  
      For the sweet draught that gladdens thee, for mightiest freshening of thy strength.  
      Let thy Bay Horses bring thee hither as the Sun, as every day they bring the Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink, Indra, den mit Steinen ausgepreßten Soma, den mit dem Schöpfeimer ausgegossenen wie der Stier am Brunnen, wie der durstige Stier! Zu deinem beliebten Rausche und reichlichster Sättigung sollen dich die Falben herbringen wie die Falbinnen den Sonnengott, wie alle Tage den Sonnengott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma, Indra, den vom Stein gepressten trink, der aus der Kufe träufelt, wie den Born der Stier, der Stier, der nach dem Wasser lechzt; Zum lieben Tranke mögen dich, zum kräftigsten Genusse her Die Füchse fahren, wie die Sonne heller Tag, wie aller Tage heller Schein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей, о Индра, выжатого камнями,  
 Вылитого ведром сому, как бык у колодца,  

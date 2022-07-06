@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा वयं꣡ सुधि꣡यो न꣡व्यम् अग्ने  
 सुम्नाय꣡व ईमहे देवय꣡न्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवो꣡ अग्ने बृहता꣡ रोचने꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वम् । विशः॑ । अ॒न॒यः॒ । दीद्या॑नः । दि॒वः । अ॒ग्ने॒ । बृ॒ह॒ता । रो॒च॒नेन॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -117,20 +117,20 @@ genre M
 हे अग्ने तं तादृशं महानुभावं नव्यं स्तुत्यं **त्वा** त्वां **सुध्यः** शोभनबुद्धयः **सुम्नायवः** सुखमिच्छन्तः **देवयन्तः** देवं स्वामिच्छन्तः **वयम्** ईमहे याचामहे । स्तुम इत्यर्थः । हे अग्ने त्वं **दीद्यानः** दीप्यमानः सन् । केन । **बृहता** महता **रोचनेन** रोचमानेन तेजसा दीद्यानः विशः प्रजाः स्तोतॄनस्मान् **दिवः** स्वर्गम् अनयः अगमयः । रोचनेनादित्येन दिवमगमय इति वा संबन्धः । आदित्यमार्गेणेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Intelligent, hoping for happiness, and devout, we glorify you, adorable **Agni**; do you, shining with exceeding lustre, lead men to heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You do we of good insight implore when you are new, Agni, seeking your  benevolence, seeking the gods—  
 you led the clans, while shining through the lofty luminous realm of  heaven, o Agni.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -154,23 +154,23 @@ The hapax cmpd. prétīṣaṇi- is curiously formed and its sense not entirely 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Longing for bliss, pure-minded, God-devoted, Agni, we seek thee, such, meet to be lauded.  
      Thou, Agni, leddest forth our men to battle, refulgent with the heaven's exalted splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aufs neue gehen wir für dich, Gutes im Sinne führend, um Gunst bittend, gottverlangend an, o Agni. Du führest die Clane leuchtend mit dem hohen Lichte des Himmels, Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum kommen wir zu dir voll Andacht, Agni, dem neu erzeugten, fromm und gottergeben; Des Himmels Stämme führtest du, o Agni, mit hellem Glanze durch den grossen Lichtraum;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе такому, о Агни, благочестивые, снова  
 Обращаемся, ища благожелательности, преданные богам.  

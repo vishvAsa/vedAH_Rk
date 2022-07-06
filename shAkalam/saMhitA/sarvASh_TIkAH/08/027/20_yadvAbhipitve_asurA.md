@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वाभिपित्वे꣡ असुरा ऋतं꣡ यते꣡  
 छर्दि꣡र् येम꣡ वि꣡ दाशु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 उ꣡प स्थेयाम म꣡ध्य आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒यम् । तत् । वः॒ । व॒स॒वः॒ । वि॒श्व॒ऽवे॒द॒सः॒ । उप॑ । स्थे॒या॒म॒ । मध्ये॑ । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 हे **असुराः** प्राज्ञाः संग्राम आयुधानां क्षेप्तारो वा देवाः **यद्वा** **अभिपित्वे** अस्मद्यज्ञं प्रति युष्माकमभिप्राप्तौ **ऋतं** सत्यभूतं यज्ञं **यते** । इणः शतरि रूपम् । गच्छते **दाशुषे** हवींषि दत्तवते यजमानाय **छर्दिः** । ‘छर्दिर्दीप्तिदेवनयोः'। दीप्यतेऽनेनेति छर्दिस्तेजः । यद्वा । छर्दन्ति दीव्यन्ते अत्रेति छर्दिर्गृहम् । तद्गृहं तेजो वा **वि** **येम** प्रयच्छथ। यद्येवं यूयं कुरुथ तर्हि **वयं** हे **वसवः** स्तोतॄणां धनादिभिराच्छादयितारः यद्वा शत्रूणां विवासयितारः **विश्ववेदसः** सर्वधनाः सर्वज्ञाना वा हे देवाः **वः** युष्मत्संबन्धि **तत्** कल्याणं गृहम् । षष्ट्यर्थे द्वितीया । भवद्भिः प्रत्तस्य गृहस्य मध्ये **उप** **स्थेयाम** उपतिष्ठेम । युष्मान् हविर्भिः पूजयेम ॥ तिष्ठतेराशीर्लिङि  लिङयाशिष्यङ्' इत्यङ्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ genre M
 Yadvābhipitve **asurā** ṛtam yate chardir yema vidāsuṣe = yadvā asmadyajñamprati yuṣmākam abhiprāptau yajñam gacchate havīṃsi dattavate yajamānāya gṛham prayacchatha,since you give a dwelling to the donor of the oblation proceeding to the rite, which is to bring you to our sacrifice;or, on your approach to our sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or since at evening, o lords, you held out shelter to the pious man who  pursues truth,  
 so might we stay nearby you, you good ones affording all possessions,  in your midst.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most interpr. take mádhya ā́as indicating “in the midst (of the shelter)” (chárdiḥ, of pāda b). This is certainly possible, though I weakly prefer my own rendering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Or, Asuras, when ye have sheltered the worshipper who goes to sacrifice, at eve  
      may we, O Vasus, ye possessors of all wealth, come then into the midst of You.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder wenn ihr Asura´s am Abend über den rechtwandelnden Opferer euren Schirm haltet, so wollen wir, ihr Gute, Allwissende, mitten unter diesen Schirm von euch treten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn in der Dämmrung, Götter, ihr habt Schutz gereicht dem Frommen, der zum Opfer geht, So lasst in diesen euren Schirm uns treten ein, o gute, o allwissende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Или когда вечером, о Асуры, для идущего по закону (человека)  
 Вы простерли щит, для (вашего) почитателя,  

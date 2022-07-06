@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡स् तुवि꣡श्रवस्तमं  
 तुवि꣡ब्रह्माणम् उत्तम꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पुत्रं꣡ ददाति दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒तूर्त॑म् । श्र॒व॒यत्ऽप॑तिम् । पु॒त्रम् । द॒दा॒ति॒ । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnis* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -101,41 +101,41 @@ genre M
 **अग्निः** **तुविश्रवस्तमम्** अतिशयेन बह्वन्नं **तुविब्रह्माणं** बहुस्तोत्रम् **उत्तमम्** उत्कृष्टम् **अतूर्तं** शत्रुभिरहिंसितं **श्रावयत्पतिम्** । श्रावयति विश्रुतान् करोति पतीन् पालयितॄन् पितॄनिति स्वकर्मणा पितॄणां प्रख्यापक इति श्रावयत्पतिः । तथाविधं **पुत्रं** **दाशुषे** हवींषि दत्तवते यजमानाय **ददाति** ददातु ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Agni** bestow upon the donor (of the oblation) son, abounding in food, abounding in devotion, excellent, unharmed, conferring honour upon his progenitors.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni gives to the pious man an excellent son of very mighty fame and of  very mighty formulations,  
 one who cannot be overcome and who brings fame to his lord.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni gives to the worshipper a son, the best, of mightiest fame,  
      Of deep devotion, ne'er subdued, bringer of glory to his sire.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni gives to the worshipper a son most mightily renowned, a knower of mighty spells, most excellent, unconquered, who brings renown to his lord 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni schenkt dem Opferwilligen einen sehr berühmten, der heiligen Rede mächtigen, vortrefflichen, unübertroffenen Sohn der den Ruhm seines Herrn verkündet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni verleiht dem Huldiger den besten, hochberühmtesten, Unübertroffnen, betenden, den Sohn, der Ruhm dem Vater schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни дает (своему) поклоннику  
 Сына с самой мощной славой,  

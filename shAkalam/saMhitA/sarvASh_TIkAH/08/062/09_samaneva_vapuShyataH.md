@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡मनेव वपुष्यतः꣡  
 कृण꣡वन् मा꣡नुषा युगा꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -33,7 +33,7 @@ genre M;; line affected by realignment;; repeated line
 वि॒दे । तत् । इन्द्रः॑ । चेत॑नम् । अध॑ । श्रु॒तः । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samaneva* ← *samanā*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M;; line affected by realignment;; repeated line
 **समनेव** समानमनस्का योषिदिव सा यथा **वपुष्यतः** वपुरिच्छतः पुरुषान् कृणवत् करोति स्ववशान् एवमयमिन्द्रः **मानुषा** मनुष्यान् **युगा** युगानि कालान् संवत्सरायनर्तुमासादीन् **विदे** लम्भयति । **तत्** युगनिर्माणात्मकं कर्म **इन्द्रः** चेतनं सर्वस्य प्रज्ञापकं कृतवानिति शेषः । **अध** अथैवं कृत्वा **श्रुतः** सर्वत्र ख्यातोऽभूत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,35 +128,35 @@ Who shows no partiality: **samanā** = samānamanaska yoṣit;
 **Yuga** = years, half- years,seasons, months
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He will make those who marvel at him into festive assemblies, as it were,  throughout the generations of men.  
 Indra knows his own distinctive sign: he is famed (for it).  
 – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are various ways to configure the nominals in the first hemistich, sámaneva vapuṣyatáḥ … mā́nuṣā yugā́, and their relation to the verb kṛṇávat. Most interpretors assume (I think correctly) that kṛṇávat takes a double accusative here (“make X into Y”), but which is the X and which the Y? Geldner takes mā́nuṣā yugā́as the first object and sámaneva vapuṣyatáḥ as the second: “Er soll die menschlichen Geschlechter gleichsam zu anstaunenden Versammlungen machen,” but does not explain how masc. vapuṣyatáḥ can modify neut. sámanā. Oldenberg discusses the passage at length, but in all four translations he suggests as possible he also takes mā́nuṣā yugā́as the first object. However, this phrase is almost always an accusative of extent of time “through the human generations” (I.144.4, II.2.2, V.52.4, VI.16.23, VIII.46.12). If we take it that way here and thus exclude it from one of the two accusative object slots with kṛṇávat, the remaining two nominals can each take one of the slots. The point then is that generation after generation people/gods marvel at Indra, and all these people oohing-and-aahing are like big festive parties.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He makes the races of mankind like synods of the Beauteous One.  
      Indra knows this his manifest deed, and is renowned.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er soll die menschlichen Geschlechter gleichsam zu anstaunenden Versammlungen machen. Indra versteht sich aufs Aufsehenerregen; darum ist er berühmt. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Menschenstämme mache er zu Scharen von Bewunderern; Der hochberühmte Indra hat ja solchen Glanz; des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть превратит он человеческие поколения  
 В дивящихся (его силе), словно на праздничных собраниях.  

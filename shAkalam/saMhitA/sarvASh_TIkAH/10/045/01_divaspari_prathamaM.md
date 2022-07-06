@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡स् प꣡रि प्रथमं꣡ जज्ञे अग्नि꣡र्  
 अस्म꣡द् द्विती꣡यम् प꣡रि जात꣡वेदाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्धान एनं जरते सुआधीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तृ॒तीय॑म् । अ॒प्ऽसु । नृ॒ऽमनाः॑ । अज॑स्रम् । इन्धा॑नः । ए॒न॒म् । ज॒र॒ते॒ । सु॒ऽआ॒धीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
@@ -121,7 +121,7 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,12 +132,12 @@ genre M
 Agni was first borṅi.e., Agni represents successively the sun, fire, lightning. (**Yajus**. 12.18-29: Agni was first genitive rated as **Prāṇa**,or vital air, from the breath of heaven, and that man genitive rated him; secondly, that **Prajāpati** (nṛmaṇaḥ) createdhim eternal in all the waters, and that the **yajamāna** lighting him also gives birth to him)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From heaven was Agni born first; from us was he born second as Jātavedas. (Born) a third time in the waters, the inexhaustible one—kindling him,  the manly minded, very attentive (mortal) sings to him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FIRST Agni sprang to life from out of Heaven: the second time from us came Jatavedas.  
      Thirdly the Manly-souled was in the waters. The pious lauds and kindles him the Eternal.
@@ -151,17 +151,17 @@ In the waters thirdly the manly;
 The pious man singeth of him, the undying, as he kindleth him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vom Himmel wurde Agni zuerst geboren, ein zweites Mal von uns, der Jatavedas. Den zum dritten im Wasser Geborenen, den nie Ermattenden entzündend, ruft ihn in guter Absicht der wie ein Herrscher Denkende wach.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erzeugt zuerst ward Agni aus dem Himmel, von uns zum zweiten als der Wesenkenner; Zum dritten im Gewölke stets der starke, wer ihn entzündet, preiset ihn voll Andacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В первый раз с неба родился Агни,  
 Во второй раз – от нас, знаток (всех) существ,  

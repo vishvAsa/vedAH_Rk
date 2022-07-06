@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग꣡मन्न् अस्मे꣡ व꣡सूनि आ꣡ हि꣡ शं꣡सिषं  
 सुआशि꣡षम् भ꣡रम् आ꣡ याहि सोमि꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अनाधृष्या꣡ त꣡व पा꣡त्राणि ध꣡र्मणा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वम् । ई॒शि॒षे॒ । सः । अ॒स्मिन् । आ । स॒त्सि॒ । ब॒र्हिषि॑ । अ॒ना॒धृ॒ष्या । तव॑ । पात्रा॑णि । धर्म॑णा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gamann* ← *gaman* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
@@ -141,37 +141,37 @@ genre M
 हे इन्द्र **वसूनि** त्वद्देयानि धनानि **अस्मे** मयि **आ** **गमन्** आगच्छन्तु । **हि** यस्मात् त्वामहं **शंसिषं** स्तौमि। किंच **सोमिनः** सोमवतो मम **स्वाशिषं** शोभना आशिषो यस्मिंस्तं **भरं** यज्ञम् **आ** **याहि** त्वमागच्छ। किंच **त्वमीशिषे** धनस्येश्वरोऽसि । एवंविधः **सः** त्वम् **अस्मिन्** अस्मदीये वेद्यास्तृते **बर्हिषि** **आ** **सत्सि** आसीद। किंच **तव** सोमपात्राणि **धर्मणा** राक्षसानां कर्मणा अनाधृष्याणि धर्षयितुमशक्यानि ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let the wealth (to be given by you) come quickly to me, for verily I have glorified you; come to theblessed sacrifice of the offerer of the **Soma**; for you are the lord; sit down upon this sacred grass; these yourcups (of Soma) are not to be insulted by the act (of evil spirits).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Good things shall come to us, for I have expressed my prayer. Drive  here to the soma-possessor’s offering, which is accompanied by good  prayers.  
 You are master. Take your seat here on this ritual grass. Your cups  
 cannot be ventured against, on (ritual) principle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May precious treasures come to us-so will I pray. Come to the votary's gift offered with beauteous laud.  
      Thou art the Lord, as such sit on this holy grass: thy vessels are inviolate as Law commands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu uns mögen die Schätze kommen, denn ich rechne darauf; komm du zu der schweren Menge des Somaopfers, die von einer schönen Bitte begleitet ist! Du bist der Herr, setze du dich auf dieses Barhis; deine Trinkschalen sind nach der Bestimmung unantastbar!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns mögen Güter kommen; denn ich singe dir, komm zu des Opfrers wünschereichem Liede her, Du bist der Herr, so setze dich auf diese Streu; niemand vermag des Bechers Trunk zu wehren dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть идут к нам блага – ведь я просил (об этом)!  
 Приходи к изобилию у жертвователя Сомы, сопровождаемому просьбой!  

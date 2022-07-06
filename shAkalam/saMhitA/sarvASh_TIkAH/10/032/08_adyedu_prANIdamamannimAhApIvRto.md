@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अद्ये꣡द् उ प्रा꣡णीद् अ꣡ममन्न् इमा꣡हा  
 अ꣡पीवृतो अधयन् मातु꣡र् ऊ꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡हेळन् व꣡सुः सुम꣡ना बभूव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । ई॒म् । ए॒न॒म् । आ॒प॒ । ज॒रि॒मा । युवा॑नम् । अहे॑ळन् । वसुः॑ । सु॒ऽमनाः॑ । ब॒भू॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adyed* ← *adya*
 - \[adverb\]
@@ -138,37 +138,37 @@ popular
 अयमग्निः **अद्येत्** अद्यैवास्मिन्दिने **प्राणीत्** मथनेन चेष्टितोऽभवत् ।  ‘ श्वस प्राणने अन च । इलि धातुः । तदानीमेव **इमा** इमानि **अहा** अहानि सौमिकानि **अममन्** नेतुममन्यत । 'मन ज्ञाने' । व्यत्ययेन श्लुः । तिङ उत्तरत्वादनिघातः । अपि च **अपीवृतः** तेजोभिः परिवृतः सन् **मातुः** पृथिव्याः **ऊधः** सारभूतं सोमादिकं हविः **अधयत्** पिबति । तथा **युवानं** नित्यतरुणं देवानां हविषा मिश्रयन्तं वा **एनम्** अग्निं **जरिमा** । जरतिः स्तुतिकर्मा । तस्मादौणादिक इमनिच् । स्तोतृभिः क्रियमाणा स्तुतिः **आप** आभिमुख्येन व्याप्नोति । **ईम्** इति पूरणः । ततः **अहेळन्** अक्रुध्यन् स्तोतॄन्प्रति **वसुः** वासयिता सर्वेषां धनदानेनाच्छादयिता तेजोभिः शत्रूणां वा वसुमान् वाग्निः **सुमनाः** शोभनमनस्को बभूव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Today (**Agni**) breathed; he purposed (to conduct) these days surrounded (by lustre), and drank thesap of his mother (earth); the praise of his (worshippers) reaches the over-youthful (Agni), and he has becomegentle, genitive rous, and well-disposed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just today did he [=Agni] breathe. He waited (all) these days; covered  over, he sucked his mother’s udder.  
 Old age has reached the youth. No (longer) angry, the good one has  
 become of favorable mind.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even now he breathed: these days hath he remembered. Concealed, he sucked the bosom of his Mother.  
      Yet in his youth old age hath come upon him: he hath grown gracious, good, and free from anger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heute erst begann er zu atmen; er hat diese Tage über gesäumt. Verhüllt sog er an der Mutter Euter. Diesen Jugendlichen hat das Greisenalter eingeholt. Er ist frei von Groll, gütig, wohlgesinnt geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heute erst begann er zu athmen; er hatte diese letzten Tage gezögert; zugedeckt sog er der Mutter Brust; ihn, den jungen, hat schon das Alter erreicht; ohne Zorn, freundlich gesinnt war der gute. [Es ist wol von Agni die Rede.]
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только сегодня он стал дышать. Он медлил эти дни.  
 Тайно сосал он вымя матери.  

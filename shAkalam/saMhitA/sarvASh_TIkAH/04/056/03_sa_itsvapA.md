@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ इ꣡त् सुअ꣡पा भु꣡वनेषु आस  
 य꣡ इमे꣡ द्या꣡वापृथिवी꣡ जजा꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अवंशे꣡ धी꣡रः श꣡चिया स꣡म् ऐरत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒र्वी इति॑ । ग॒भी॒रे इति॑ । रज॑सी॒ इति॑ । सु॒मेके॒ इति॑ सु॒ऽमेके॑ । अ॒वं॒शे । धीरः॑ । शच्या॑ । सम् । ऐ॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -129,37 +129,37 @@ genre M
 **स** **इत्** स एव **स्वपाः** शोभनकर्मा सन् **भुवनेषु** **आस** आस्ते । **य** **इमे** **द्यावापृथिवी** द्यावापृथिव्यौ **जजान** उत्पादितवान् । यश्च प्रजापतिः **उर्वी** उर्व्यौ विस्तीर्णे **गभीरे** अविचले **सुमेके** शोभनरूपे **अवंशे** उत्पत्तिरहिते अनाधारे वान्तरिक्षे **धीरः** धीमान् **शच्या** कुशलकर्मणा **समैरत्** सम्यक् प्रेरितवान् । स एव स्वपा इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily he was the doer of a good work in the regions, who genitive rated these two, Heaven and Earth, and firm of purpose, gave an impulse by his deed to the two vast immoveable, beautiful, unsupported worlds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He certainly was the good artisan among the creatures who begot these  two, Heaven and Earth:  
 the two wide, deep, well-fixed realms did the wise one fit together in  
 propless (space) with his skill.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sure in the worlds he was a skilful Craftsman, he who produced these Twain the Earth and Heaven.  
      Wise, with his power he brought both realms, together spacious and deep, wellfashioned, unsupported.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der war unter den Wesen ein Künstler, der diesen beiden, Himmel und Erde erzeugt hat. Die weiten, tiefen, festgegründeten Welten fügte der Meister in dem balkenlosen Raume mit Kunst zusammen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der war fürwahr ein Künstler unter Göttern, der diese beiden, Erd' und Himmel, zeugte; Im Balkenlosen schuf der Weise kräftig die beiden weiten, tiefen, reichen Räume.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот был мастером среди существ,  
 Кто породил эти Небо и Землю.  

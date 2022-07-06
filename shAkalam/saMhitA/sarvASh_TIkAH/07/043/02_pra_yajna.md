@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ यज्ञ꣡ एतु हे꣡तुवो न꣡ स꣡प्तिर्  
 उ꣡द् यछध्वं स꣡मनसो घृता꣡चीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऊर्ध्वा꣡ शोचीं꣡षि देवयू꣡नि अस्थुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्तृ॒णी॒त । ब॒र्हिः । अ॒ध्व॒राय॑ । सा॒धु । ऊ॒र्ध्वा । शो॒चींषि॑ । दे॒व॒ऽयूनि॑ । अ॒स्थुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -116,20 +116,20 @@ genre M
 अयमस्मदीयः **यज्ञः** **प्र** **एतु** देवान् प्रति गच्छतु । तत्र दृष्टान्तः । **हेत्वो** **न** **सप्तिः** शीघ्रगाम्यश्वो यथा तद्वत् । हे ऋत्विजः सर्वे यूयं **समनसः** सदृशमनस्काः सन्तः **घृताचीः** स्रुचः **उद्यच्छध्वं** हस्त उद्यम्य धारयत । तथा **अध्वराय** यागं कर्तुं **साधु** साधकं **बर्हिः** कुशमयं **स्तृणीत** वेद्यां छादयत । हे अग्ने **देवयूनि** देवान् कामयमानानि त्वदीयानि **शोचींषि** अर्चींषि **ऊर्ध्वा** ऊर्ध्वमुखानि **अस्थुः** तिष्ठन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let the sacrifice proceed like a swift course (tot he gods); elevate, (priests), with one occurred, yourladles, charged with butter; spread for the solemnity the sacred grass;le the flames (of the burnt-offering) to thegods ascend on high.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the sacrifice go forth, like a team to be spurred on. Being of one  mind, hold up the (ladles) facing toward the ghee;  
 spread the ritual grass that brings success to the ceremony. The flames,  seeking the gods, have stood up erect.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c I construe dat. adhvarā́ya with sādhú, giving the latter richer semantics than the mere adverbial “richtig” of Geldner or even Renou’s “correctement.” Found twice in 42 (1d, 5a), adhvará- reappears here, though the word is too common to make much of this.
 
@@ -146,23 +146,23 @@ The 1st two vss. of this hymn begin with prá, recalling the insistent prá in t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let sacrifice proceed like some fleet courser: with one accord lift ye on high the ladles.  
      Strew sacred grass meet for the solenm service: bright flames that love the Gods have mounted upward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfer soll in Gang kommen wie ein zum Lauf getriebenes Gespann. Hebet eines Sinnes die Schmalzlöffel empor, breitet das Barhis richtig für das Opfer aus! Die gottverlangenden Gluten haben sich aufgerichtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor geh das Opfer wie das Ross des Treibers, die Butterlöffel strecket gleichgesinnt aus, Den Sitz zum Opfer streut in grader Reihe; schon stiegen auf die Flammen, Götter liebend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть двинется вперед жертва, словно конь, которого надо погонять!  
 Единодушные, возденьте кверху полные жира (жертвенные ложки)!  

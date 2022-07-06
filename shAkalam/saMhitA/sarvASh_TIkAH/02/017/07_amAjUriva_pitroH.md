@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अमाजू꣡र् इव पितरोः꣡+ स꣡चा सती꣡  
 समाना꣡द् आ꣡ स꣡दसस् त्वा꣡म् इये भ꣡गम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दद्धि꣡ भागं꣡ तनु꣡वो ये꣡न माम꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कृ॒धि । प्र॒ऽके॒तम् । उप॑ । मा॒सि॒ । आ । भ॒र॒ । द॒द्धि । भा॒गम् । त॒न्वः॑ । येन॑ । म॒महः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amājūr* ← *amājur*
 - \[noun\], nominative, singular, feminine
@@ -145,7 +145,7 @@ genre M
 हेइन्द्र अमाजूःइव यावज्जीवङ्गृहेएवजीर्यन्ती पित्रोः सचा मात्रापितृभ्यांसहभवन्ती तयोः शुश्रू- षणपरापतिमलभमानासतीदुहिता समानादात्मनःपित्रोश्चसाधारणात् सदसोगृहात् अधिकरणेचो- पसङ्ख्यानमितिपञ्चमी गृहउपस्थायैवयथाभागंयाचतितथास्तोताहम्भगम्भजनीयं धनं त्वामिये ईगत्या दिषु लिट्युत्तमइतिव्यत्ययेनात्मनेपदं इयङादेशः त्वांयाचे तत्रदेयन्धनम्प्रकेतम्प्रकर्षेणज्ञातव्यंविश्वज- नीयङ्कृधिकुरु तत्रउपमासि एतावदिदन्धनमितिकुरु आभर तत्रधनंसम्पादय भागम्भजनीयन्धनन्तन्वः शरीरायमह्यमितियावत् दद्धिदेहि येनधनेन ममहः स्तोतॄनिमान् आपूजयसि ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -158,29 +158,29 @@ As a virtuous maiden: amājur iva pitroḥ sacā **satī** samānāt: amājuḥ 
 Satī = daughter, duhitā, who claims her portion
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a woman aging at home, remaining with her parents, from our  common ritual seat, I beg you to be our Fortune.  
 Make a visible sign, give us a measure, and bring it here. Give a portion  to me myself by which you will show your readiness to give.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As she who in her parents' house is growing old, I pray to thee as Bhaga from the seat of all.  
      Grant knowledge, mete it out and bring it to us here: give us the share wherewith thou makest people glad.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie eine alte Jungfer, die bei den Eltern lebt, vom gemeinsamen Wohnsitz aus um Liebesglück, so flehe ich dich um Glück an. Gib ein Vorzeichen, teile zu, bring her, gib einen Anteil für meine Person, mit dem du eine Ehre antun wirst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie eine Maid, die unvermählt beim Vater weilt, geh' ich dich an von gleichem Sitz um Liebeshuld; Gewähr uns Weisheit, miss uns zu und bringe her, gibt Gut des Leibes, du ja bist so reich daran.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно старая дева, живущая вместе с родителями,  
 Из общего дома (молит тебя), я прошу тебя о счастье.  

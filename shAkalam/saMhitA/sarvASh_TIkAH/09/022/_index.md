@@ -8,7 +8,7 @@ title = "+022"
 "एते सोमासः' इति सप्तर्चं द्वाविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । एते सोमासः' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 22 (734)  
 Soma Pavamāna  
@@ -20,7 +20,7 @@ space, namely the sacrifice itself, symbolized, as often, by the stretched threa
 who reacquired for him the cows stolen by the Paṇis (see esp. X.108)—an equation  seemingly unmotivated by what precedes. (The Paṇis are mentioned only one other  time in the IXth Maṇḍala [IX.11.2].) Perhaps the cosmic journey of Soma reminded  the poet of Saramā’s long trek. The stretched thread of the sacrifice ends the hymn,  and brings it back to the ritual scene.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the structure and thematics of this hymn, see published introduction. Note also that the first 5 vss. begin eté, while the 2nd hemistichs of vss. 5 and 6 begin utédám. Further local chainings are discussed below.
 </details>

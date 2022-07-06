@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ स्वादु꣡र् इह꣡ म꣡दिष्ठ आस  
 य꣡स्य इ꣡न्द्रो वृत्रह꣡त्ये ममा꣡द  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ नवतिं꣡ न꣡व च देहि꣡यो ह꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पु॒रूणि॑ । यः । च्यौ॒त्ना । शम्ब॑रस्य । वि । न॒व॒तिम् । नव॑ । च॒ । दे॒ह्यः॑ । हन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 **इह** अस्मिन् यज्ञे **अयं** सोमः **स्वादुः** आस्वादितः पीतः सन् **मदिष्ठः** अतिशयेन मदयिता **आस** बभूव। **यस्य** सोमस्य पानेन **इन्द्रो** **वृत्रहत्ये** वृत्रहननकाले **ममाद** मत्तो बभूव । **यः** सोमः **शम्बरस्य** असुरस्य **पुरूणि** बहूनि **च्यौत्ना** च्यौत्नानि बलानि जघान । तथा **देह्यः** दिग्धा उपचिता आसुरी पुरीः तदीयान् देहान् वा **नवतिं** **नव** **च** नवोत्तरनवतिसंख्याका यः सोमः **वि** **हन्** व्यहन् अयं सोम इति प्रथमपादेन संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,36 +136,36 @@ Dehyaḥ = **dehiḥ**;
 **Digdhaḥ** = smeared or plural stered, implying **puriḥ**, cities, as if thy consisted of stucoed or plural stered houses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This sweet one here was the most exhilarating, on which Indra became  exhilarated for the smashing of Vr̥tra,  
 he who (having performed) many exploits smashed apart the nine and  ninety walls of Śambara.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. chains rel. clauses, with the gen. rel. yásya in b referring to the soma in a, while nom. yáḥ in cd refers to Indra, who first appears in the rel. cl. of b.
 
 It is difficult (though perhaps not impossible) to construe ví … hán ‘smash apart’ with the acc. cyautnā́‘exploits’ in c as well as the more likely object dehyàḥ ‘walls’ in d. It is therefore best to follow Geldner (also Hoffmann, Injunk. 168) and supply a form of √kṛ or the like in c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This sweet juice here had mightiest power to gladden: it boldened Indra when he siaughtered Vrtra,  
      When he defeated Sambara's many onslaughts, and battered down his nineand ninety ramparts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser süße hier war der berauschendste, an dem sich Indra im Vritrakampf berauscht hat, der viele Taten getan, des Sambara neunundneunzig Mauern zerschlagen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der süsse hier ist's, der am meisten Rausch schafft, von dem Indra im Vritrakampf berauscht war, Als er des Çambara vielfache Werke, die neunundneunzig Wälle schlug in Stücke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот сладкий был здесь самым опьяняющим,  
 Которым Иидра опьяиился при убийстве Вритры,  

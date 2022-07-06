@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पना꣡यियं त꣡द् अश्विना कृतं꣡ वां  
 वृषभो꣡ दिवो꣡ र꣡जसः पृथिव्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡र्वाँ इ꣡त् ताँ꣡ उ꣡प याता पि꣡बध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 स॒हस्र॑म् । शंसाः॑ । उ॒त । ये । गोऽइ॑ष्टौ । सर्वा॑न् । इत् । तान् । उप॑ । या॒त॒ । पिब॑ध्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *panāyyaṃ* ← *panāyyam* ← *panāyya*
 - \[noun\], nominative, singular, neuter
@@ -135,7 +135,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,28 +146,28 @@ Sayana bhashya empty
 I.e. the Sun, which they may be said toreveal, as they come with the earliest dawn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This deed of yours, o Aśvins, is to be wondered at. The bull of heaven, of  the dusky realm, of the earth,  
 and the thousand chants, which (are performed?) at the quest for cattle— drive up to all those, to drink (the soma).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not know who the bull (vṛṣabháḥ) is; Oldenberg suggests Indra, Geldner Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hoch anzurechnen ist dies euer Werk, o Asvin: der Bulle von Himmel, Luftraum, Erde und die tausend Lobesworte, die bei der Suche nach Rindern gesprochen werden, zu diesen allen kommet, um zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu rühmen ist, o Ritter, dies eur Kunstwerk: der Stier der Luft, des Himmels und der Erde; Und die im Kampf stehn, tausendfacher Segen; zu diesen allen gehet hin zu trinken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Достойно удивления, о Ашвины, это ваше деяние:  
 Бык неба, воздушного пространства, земли,  

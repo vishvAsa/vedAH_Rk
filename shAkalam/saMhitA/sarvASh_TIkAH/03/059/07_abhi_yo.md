@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ यो꣡ महिना꣡ दि꣡वम्  
 मित्रो꣡ बभू꣡व सप्र꣡थाः  
 अभि꣡ श्र꣡वोभिः पृथिवी꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 अ॒भि । श्रवः॑ऽभिः । पृ॒थि॒वीम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -86,40 +86,40 @@ genre M
 **यः** **मित्रः** **महिना** स्वकीयेन महिम्ना **दिवम्** अन्तरिक्षम् **अभि** **बभूव** अभिभवति स मित्रः **सप्रथाः** । प्रथः प्रसिद्धिः कीर्तिः । तत्सहितः **श्रवोभिः** वृष्टिद्वारोत्पादितैरन्नैः **पृथिवीम्** अपि अभिभवति । बह्वन्नयुक्तां करोतीत्यर्थः ॥ सप्रथाः ।  ‘ प्रथ प्रख्याने '। असुन्।  ‘ वोपसर्जनस्य । इति सहस्य सभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The renowned **Mitra**, who by his might presides over heaven, is he who presides over the earth by (the gift of) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wide-ranging Mitra, who surmounts heaven through his greatness and earth through his renown—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mitra whose glory spreads afar, he who in might surpasses heaven,  
      Surpasses earth in his renown.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Mitra, whose fame is spread abroad, In greatness who transcends the sky, And in renown transcends the earth:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der weitbekannte Mitra, der an Größe über den Himmel, an Ruhm über die Erde reicht;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der hoch den Himmel überragt an Grösse Mitra umfangreich, An Herrlichkeit die Erde auch,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто величием превзошел небо, –  
 Митра далеко простирающийся, –  

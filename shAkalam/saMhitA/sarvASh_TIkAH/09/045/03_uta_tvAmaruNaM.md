@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्वा꣡म् अरुणं꣡ वयं꣡  
 गो꣡भिर् अञ्ज्मो म꣡दाय क꣡म्  
 वि꣡ नो राये꣡ दु꣡रो वृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि । नः॒ । रा॒ये । दुरः॑ । वृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -95,36 +95,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे सोम यम् **अरुणम्** अरुणवर्णं **त्वां** **मदाय** मदार्थं **वयम्** अङ्गिरसायास्याः **गोभिः** गोविकारैः पयोभिः **अञ्ज्मः** वासयामः संस्कुर्मः। **कम्** इति पूरणम् । स त्वं **नः** अस्माकं **राये** धनाय **दुरः** द्वाराणि **वि** **वृधि** विवृतानि कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And we adorn you, the purple-tinted with milk and curd for the purpose of exhilaration open the doors for our riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And we anoint you, the ruddy one, with cows for exhilaration.  
 Open up the doors for wealth for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We balm thee, red of hue, with milk to fit thee for the rapturous joy:  
      Unbar for us the doors of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und dich, den Rötlichen, salben wir mit Milch zum Rauschtrank. Öffne uns die Tore zum Reichtum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dich, den rothen, salben wir mit Milch zum Rausche, schliesse du Die Thore uns zum Reichthum auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

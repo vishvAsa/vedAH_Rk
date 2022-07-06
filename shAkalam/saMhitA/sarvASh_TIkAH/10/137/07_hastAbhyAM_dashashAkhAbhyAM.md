@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡स्ताभ्यां द꣡शशाखाभ्यां  
 जिह्वा꣡ वाचः꣡ पुरोगवी꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ता꣡भ्यां त्वो꣡प स्पृशामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अ॒ना॒म॒यि॒त्नुऽभ्या॑म् । त्वा॒ । ताभ्या॑म् । त्वा॒ । उप॑ । स्पृ॒शा॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hastābhyāṃ* ← *hastābhyām* ← *hasta*
 - \[noun\], instrumental, dual, masculine
@@ -93,36 +93,36 @@ popular;; epic anuṣṭubh (380)
 **दशशाखाभ्यां** दशाङ्गुलयः शाखाभूता ययोः तादृशाभ्यां प्रजापतेः **हस्ताभ्यां** सृज्यमाना **जिह्वा** रसना **वाचः** शब्दस्य **पुरोगवी** पुरतो गन्त्री जाता। यत्र यत्र शब्दस्तत्र सर्वत्र तस्य शब्दस्योच्चारणाय पुरतो व्याप्रियत इत्यर्थः । **अनामयित्नुभ्यां** सम्यगारोग्यहेतुभ्यां **ताभ्यां** हस्ताभ्यां हे स्तोतः **त्वा** त्वाम **उप** **स्पृशामसि** उपस्पृशामः । इदन्तो मसिः। **त्वा** इति पुनरुक्तिः पादपूरणार्था ॥ ॥ २५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The tongue (being cleansed) by the ten-branched **hands** (of **Prajāpati** is) the forerunner of speech;with those (hands) the removers of disease we touch you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With two hands with their ten branches—my tongue is the lead-cow of  speech —  
 with the two that free you from affliction, with these two, we touch you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The tongue that leads the voice precedes. Then with our ten-fold branching hands,  
      With these two chasers of disease we stroke thee with a gentle touch.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den zehnzweigigen Händen - während die Zunge die Führerin der Rede ist - mit den beiden gesundmachenden dich, mit diesen beiden berühren wir dich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den zehngespaltnen Händen eilt die Zunge vor mit ihrem Spruch, Die Hände bringen Heilung dir, mit beiden rühre ich dich an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Двумя руками с десятью ветвями –  
 А язык ведет речь вперед –  

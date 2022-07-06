@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡भिर् दुवा꣡ चरत ए꣡कया सह꣡  
 प्र꣡ प्रवासे꣡व वसतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M
 विऽभिः॑ । द्वा । च॒र॒तः॒ । एक॑या । स॒ह । प्र । प्र॒वा॒साऽइ॑व । व॒स॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vibhir* ← *vibhiḥ* ← *vi*
 - \[noun\], instrumental, plural, masculine
@@ -76,41 +76,41 @@ genre M
 एकया सह इति लिङ्गादश्विनावभिधीयेते । **द्वा** द्वौ द्वित्वसंख्योपेतावश्विनौ **विभिः** । वी गत्यादिषु । क्विप् । छान्दसो ह्रस्वः । गमनसाधनैरश्वैः **चरतः** संचरेते। किंच इमावश्विनौ **एकया** सूर्याख्यया ताभ्यां स्वयंवृतया स्त्रिया **सह** **प्र** **वसतः** प्रवासं सर्वत्र गमनं कुरुतः । प्रवासे दृष्टान्तः । **प्रवासेव** । यथा प्रवासिनौ द्वौ पुरुषौ एकया स्त्रिया सह प्रवसतस्तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Two (the **Aśvins**), travel with swift (horses) along with one (bride **Sūrya**), like travellers to foreigncountries.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the birds these two wander, along with the one (woman). They go  abroad like exiles. [=Aśvins and Sūryā]
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not understand the apparently tautological 2nd pāda, prá pravāséva vasataḥ, with the same type of double etymological figure as in VIII.27.16.
 
 Renderings like Oldenberg’s “wie Reisende reisen sie” (sim. Geldner, Renou) are literally correct but give no hint as to what the simile is conveying. There must be some wordplay here, perhaps an astronomical reference? In later Skt. prá √vas can refer to exile or banishment, and already in RV III.7.3 the causative means ‘cause to live apart, banish’; in II.28.6 the poet expresses the hope that we won’t have to go to pravasathā́ni ‘foreign dwellings’ and in VIII.60.19 Agni is a house-lord áproṣivān ‘who doesn’t go abroad’ (or, I suppose, just out of the house). Assuming that this meaning is also operative in pravāsá- accounts for my “like exiles.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Two with one Dame ride on with winged steeds, and journey forth like travellers on their way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwei fahren mit Vogelrossen mit einer zusammen; wie zwei Reisende gehen sie auf Reisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Vögeln fahren zwei nebst einer Braut, in weite Ferne ziehen sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На птицах странствуют двое. Вместе с одной  
 Они отправляются в путешествие, как два путешественника.

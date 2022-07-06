@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उदा꣡जन् पित꣡रो गोम꣡यं व꣡सु  
 ऋते꣡ना꣡भिन्दन् परिवत्सरे꣡ वल꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ति गृभ्णीत मानवं꣡ सुमेधसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दी॒र्घा॒यु॒ऽत्वम् । अ॒ङ्गि॒र॒सः॒ । वः॒ । अ॒स्तु॒ । प्रति॑ । गृ॒भ्णी॒त॒ । मा॒न॒वम् । सु॒ऽमे॒ध॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -131,36 +131,36 @@ genre M;; repeated line
 हे **अङ्गिरसः** **पितरः** अस्माकं पूर्वजत्वेन पितृभूताः **ये** यूयं **गोमयं** गवात्मकं पणिभिरपहृतं **वसु** धनम् **उदाजन्** तैरधिष्ठितात्पर्वतादुदगमयन् । किंच **ऋतेन** सत्यभूतेन यज्ञेन **परिवत्सरे** पर्यागते वत्सरे संपूर्णे । सत्रान्त इत्यर्थः । तत्र **वलं** वलनामानं गवामपहर्तारमसुरम् **अभिन्दन्** व्यनाशयन् तेभ्यः **वः** युष्मभ्यं **दीर्घायुत्वं** प्रभूतजीवनम् **अस्तु** । शेषं पूर्ववत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May length of life be yours, **Aṅgirasas**, our progenitors, who drove forth the wealth of cattle, and bymeans of your sacrifice when the year was ended, demolished (the **asura**) **Bala**; welcome, sages, the son ofManu.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fathers who drove up the goods consisting of cows and with truth  split the Vala cave at the turning of the year,  
 let there be long life for you, o Aṅgirases. – Accept the descendant of  Manu, o you of good wisdom.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Fathers, who drave forth the wealth in cattle, have in the year's courses cleft Vala by Eternal Law:  
      A lengthened life be yours, O ye Angirases. Welcome the son of Manu, ye who are most wise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Väter, die den Rinderschatz heraustrieben, in Jahresfrist durch rechtes Werk die Höhle sprengten, euch, Angiras`, soll langes Leben werden! - Nehmet mich, den Manusproß auf, ihr Weisen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch Vätern, die der Rinder Heerde ausgeführt, im Jahr die Höhle aufgethan durch frommes Werk, O Angiras, euch werde langer Lebenslauf, o nehmt, ihr weisen, freundlich auf den Menschensohn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вы,) отцы, что выгнали наружу богатство, состоящее из коров,  
 Праведным трудом за год раскололи (пещеру) Вала,  

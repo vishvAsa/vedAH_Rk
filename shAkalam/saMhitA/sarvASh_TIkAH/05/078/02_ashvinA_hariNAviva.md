@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्विना हरिणा꣡व् इव  
 गौरा꣡व् इवा꣡नु य꣡वसम्  
 हंसा꣡व् इव पततम् आ꣡ सुताँ꣡ उ꣡प
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 हं॒सौऽइ॑व । प॒त॒त॒म् । आ । सु॒तान् । उप॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
@@ -92,7 +92,7 @@ genre M;; repeated line
 हे अश्विनौ **हरिणाविव** **गौराविव** गौरमृगाविव च । ती यथा **यवसं** घासम् **अनु** धावतः ताविव **हंसाविव** च सोममागच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,28 +103,28 @@ genre M;; repeated line
 Like two wild cattle: like two **gauras**, bos gaurus
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Aśvins, like antelopes, like buffaloes searching after pasturage, like wild geese, fly here to the soma-pressings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, like a pair of deer, like two wild cattle to the mead:  
      Fly hither like two swans unto the juice we shed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Asvin! Wie Gazellen, wie Büffel zur Weide, gleich Gänsen flieget zum Somasaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Ritter, wie zwei Rehe kommt, wie Büffel, die zur Weide gehn, So wie zwei Schwäne fliegt zu unsern Tränken her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ашвины, как две газели,  
 Как два буйвола на пастбище,  

@@ -8,7 +8,7 @@ title = "+148"
 ‘मथीद्यत्' इति पञ्चर्चमष्टमं सूक्तं दैर्घतमसं त्रैष्टुभमाग्नेयम् । ‘मथीद्यत्' इत्यनुक्रमणिका सूक्तत्रयमध्यस्य तृतीयत्वेन पूर्वं विनियोग उक्तः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 148  
 Agni  
@@ -19,7 +19,7 @@ The hymn begins (vs. 1) with an apparent reminiscence of the original mythic  th
 Verse 4 is a thematic intrusion, with a standard description of a wildfire in  nature. Verse 5 returns to the topic of 2a: Agni’s invulnerability even when only  nascent. A notable feature of verse 5 is the mention of the inability of the blind  enemies of Agni to afflict him with the evil eye, given that Dīrghatamas identified  himself as blind in the immediately preceding hymn (I.147.3).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

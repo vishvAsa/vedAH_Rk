@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ न इद꣡म्-इदम् पुरा꣡  
 प्र꣡ व꣡स्य आनिना꣡य त꣡म् उ व स्तुषे  
 स꣡खाय इ꣡न्द्रम् ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 सखा॑यः । इन्द्र॑म् । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -102,41 +102,41 @@ genre M;; repeated line
 **सखायः** समानख्याना हे ऋत्विग्यजमानाः **यः** इन्द्रः **पुरा** पूर्वमिदं दर्शनीयतया विद्यमानं **वस्यः** वसीयः । वसोरीयसुनि ईकारलोपश्छान्दसः । प्रशस्तं वसु **नः** अस्मान् **प्राणिनाय** प्रकर्षेणानीतवान् **तमु** तमेव धनानामानेतारम् **इन्द्रं** **वः** युष्माकं धनलाभार्थम् **ऊतये** रक्षणाय च **स्तुषे** सोभरिरहं स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify friends, for your protection, that **Indra** who has brought to us of old this or that excellent(wealth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who previously led us to this better state right here, him shall I praise  on your behalf,  
 o comrades, for his help—Indra,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2nd pl. reference is to the poet’s fellow ritual celebrants.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who of old hath brought to us this and that blessing, him I magnify for you,  
      Even Indra, O my friends, for help
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der uns früher zu diesem und jenem Glück geführt hat, den preise ich, den Indra, zu eurem Beistand, ihr Genossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der dies und jenes uns zuvor gar schönes hat herbeigebracht, den preis' ich euch, Den Indra, Freunde, uns zu Nutz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто нас раньше приводил  
 То к одному, то к другому благу, того я и восхваляю, -  

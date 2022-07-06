@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तीक्ष्णे꣡नाग्ने च꣡क्षुषा रक्ष यज्ञ꣡म्  
 प्रा꣡ञ्चं व꣡सुभ्यः प्र꣡ णय प्रचेतः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ त्वा दभन् यातुधा꣡ना नृचक्षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 हिं॒स्रम् । रक्षां॑सि । अ॒भि । शोशु॑चानम् । मा । त्वा॒ । द॒भ॒न् । या॒तु॒ऽधानाः॑ । नृ॒ऽच॒क्षः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tīkṣṇenāgne* ← *tīkṣṇena* ← *tīkṣṇa*
 - \[noun\], instrumental, singular, neuter
@@ -124,36 +124,36 @@ popular
 हे **अग्ने** त्वं **तीक्ष्णेन** तिग्मेन **चक्षुषा** तेजसा **यज्ञम्** अस्मदीयं यागं **रक्ष** पालय । किंच हे **प्रचेतः** प्रकृष्टज्ञानाग्ने **प्राञ्चं** प्राञ्चितारं यज्ञं **वसुभ्यः** वसूनामर्थाय **प्र** **णय** प्रकर्षेण नय । किंच हे **नृचक्षः** नृणां द्रष्टरग्ने **रक्षांसि** **हिंस्रं** हिंसनशीलम् **अभि** **शोशुचानम्** अभिप्रदीप्तं **त्वा**  त्वां **यातुधानाः** राक्षसाः **मा** **दभन्** मा हिंसिषुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Protect this sacrifice, **Agni**, with your sharp glance; lead it sage (Agni) forward to (the acquisition of)riches; let not the **Yātudhānas** harm you, beholder of men, the destroyer of **rākṣasas** blazing fiercely.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your sharp eye, Agni, guard the sacrifice. Lead it forth to the east  for the good (gods), o forethoughtful one.  
 Let the sorcerers not deceive you, ever blazing against the demonic  powers with your murderous intent, o you with your eye on men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With keen glance guard the sacrifice, O Agni: thou Sage, conduct it onward to the Vasus.  
      Let not the fiends, O Man-beholder, harm thee burning against the Raksasas to slay them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit deinem scharfen Auge, Agni, bewache das Opfer, führe es vorwärts den Göttern zu, du Kluger! Nicht sollen dich, den Mörderischen, die Unholde Versengenden, die Zauberer täuschen, mit dem Herrscherblick du!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Behüt mit scharfem Blick das Opfer, Agni, den guten Göttern führ es vor, o weiser; Der die Gespenster du verwundend anstrahlst, dir schaden Zaubrer nichts, o männerschaunder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Острым взором, о Агни, защищай жертву!  
 Проведи ее вперед к богам, о прозорливый!  

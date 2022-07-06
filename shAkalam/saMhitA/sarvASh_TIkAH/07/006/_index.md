@@ -8,7 +8,7 @@ title = "+006"
 ‘प्र सम्राजः' इति सप्तर्चं षष्ठं सूक्तं वसिष्ठस्यार्षम् । अनुक्रम्यते च-’ प्र सम्राजः सप्त' । ‘वैश्वानरीयं तु ' इत्युक्तत्वादस्यापि वैश्वानरोऽग्निर्देवता । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 6 (522)  
 Agni Vaiśvānara  

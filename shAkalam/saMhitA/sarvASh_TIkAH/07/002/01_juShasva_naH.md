@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुष꣡स्व नः समि꣡धम् अग्ने अद्य꣡  
 शो꣡चा बृह꣡द् यजतं꣡ धूम꣡म् ऋण्व꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ रश्मि꣡भिस् ततनः सू꣡रिअस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उप॑ । स्पृ॒श॒ । दि॒व्यम् । सानु॑ । स्तूपैः॑ । सम् । र॒श्मिऽभिः॑ । त॒त॒नः॒ । सूर्य॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
@@ -125,7 +125,7 @@ genre M
 हे **अग्ने** **नः** अस्माकं **समिधम्** **अद्य** **जुषस्व** सेवस्व । **यजतं** यजनीयं प्रशस्तं **धूमम्** **ऋण्वन्** प्रेरयन् **बृहत्** अत्यन्तं **शोच** दीप्यस्व च । किंच **दिव्यम्** अन्तरिक्षभवं **सानु** समुच्छ्रितं **स्तूपैः** तप्तैः रश्मिभिः **उप** **स्पृश** । अपि च **सूर्यस्य** रश्मिभिः तेजोभिः **सं** **ततनः** संगच्छस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,30 +136,30 @@ genre M
 Kindled: samiddham; impliesone of the Āpris, or forms of fire, although used as an epithet
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Today find pleasure in our kindling wood, Agni. Blaze aloft, sending up  the smoke of the sacrifice.  
 Touch the back of heaven with your tufts of hair; you will extend  
 together with the rays of the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GLADLY accept, this day, our fuel, Agni: send up thy sacred smoke and shine sublimely.  
      Touch the celestial summits with thy columns, and overspread thee with the rays of Surya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß dir heute unser Brennholz munden, Agni; flamme hoch, deinen verehrungswürdigen Rauch emportreibend! Rühre an die himmlische Höhe mit deinen Haarschöpfen, vereinige sie mit den Strahlen der Sonne!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniess, o Agni, heute unser Brennholz, erstrahle hell und wirble heil'gen Rauch auf; Des Himmels Gipfel streif mit deinem Haarbusch, dich fest verschlingend mit der Sonne Strahlen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайся сегодня нашим  
 поленом,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ सुम्ना꣡य दधिरे पुरो꣡ ज꣡ना  
 वा꣡जश्रवसम् इह꣡ वृक्त꣡बर्हिषः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रुद्रं꣡ यज्ञा꣡नां सा꣡धदिष्टिम् अप꣡साम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 य॒तऽस्रु॑चः । सु॒ऽरुच॑म् । वि॒श्वऽदे॑व्यम् । रु॒द्रम् । य॒ज्ञाना॑म् । साध॑त्ऽइष्टिम् । अ॒पसा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 वृक्तबर्हिषः स्तीर्णबर्हिषः यतस्रुचःप्राप्तस्रुचः ऋत्विजः सुम्नायसुखार्थं वाजश्रवसम्मनुष्येभ्यः प्रेरितान्नं सुरुचं प्रशस्तदीप्तिमन्तं विश्वदेव्यं विश्वेभ्योदेवेभ्योहितं रुद्रन्दुःखानान्द्रावकं अपसाङ्कर्म वतांयज्ञानां यजन्तीतियज्ञायजमानाः तेषां साधदिष्टिं साधितयज्ञं तादृशमग्निं इहयज्ञे जनाः स्तोतारः पुरोदधिरे स्तुवन्ति ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,35 +135,35 @@ genre M
 The remover of sorrow: the text has **rudra**, which is translated as: duhkhānām drāvakam, the driver-away of griefs or pains; otherwise, it may be a synonym of Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With twisted ritual grass, the peoples have placed Agni in front, him who  brings fame as a prize, for the sake of his favor,  
 and with offering ladle extended, they (have placed) him, brightly  
 shining, belonging to all the gods, the Rudra of the sacrifices, bringing  success to the offerings of the (ritual) workers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For happiness, men, having trimmed the sacred grass, set Agni glorious for his strength before them here;  
      Yea, with raised ladles, him bright, dear to all the Gods, perfecting aims of works, Rudra of solemn rites.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Men, having spread the sacrificial grass, holding the sacrificial ladle, have placed here in front (as Purohita), for the sake of (the divine) blessing, Agni renowned for strength, with great splendour, united with all the gods, the Rudra of sacrifices 1, who accomplishes the oblations of active (worshippers).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni haben die Menschen, um seine Gunst zu gewinnen, hier an die Spitze gestellt, den siegesberühmten, indem sie das Barhis herumlegen, mit bereit gehaltenem Opferlöffel, den schön leuchtenden, allen Göttern bekannten, den Rudra der Opfer, der das Opfer der werktätigen Priester erfolgreich macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni stellten sich zum Heil die Menschen an, die Schalen reichend und die Streu bereitend hier, Den schatzberühmten, ihn, den hehren, leuchtenden, allgöttlichen, der Opfer hegt und Opferer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чтобы завоевать (его) благоволение, люди поставили его здесь впереди,  
 (Бога,) знаменитого наградами, (они,) разостлавшие жертвенную солому,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिय꣡स्य चिन् महतो꣡ नि꣡र् मृग꣡स्य  
 व꣡धर् जघान त꣡विषीभिर् इ꣡न्द्रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् अस्माद् अन्यो꣡ अजनिष्ट त꣡व्यान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यः । एकः॑ । इत् । अ॒प्र॒तिः । मन्य॑मानः । आत् । अ॒स्मा॒त् । अ॒न्यः । अ॒ज॒नि॒ष्ट॒ । तव्या॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyasya* ← *tya*
 - \[noun\], genitive, singular, masculine
@@ -129,7 +129,7 @@ genre M
 निर्जघानायुधं शक्रो वृत्रेण क्षिप्तमोजसा । वृत्रस्य गात्रादन्यो यः प्रादुर्भूतो महासुरः ॥ वृत्रं पूर्वं निहत्येन्द्रो द्वितीयं शुष्णसंज्ञकम् । पुनर्जघानेन्द्र इति पराभिः कीर्तयत्यृषिरिति ॥ **इन्द्रः** **महतः** प्रभूतस्य **मृगस्य** मृगवच्छीघ्रगामिनः **त्यस्य** **चित्** तस्य वृत्रस्य संबन्धि **वधः** आयुधं **तविषीभिः** स्वकीयैर्बलैः **निः** **जघान** निःशेषेणावधीत् । **एक** **इत्** असहाय एव **अप्रतिः** प्रतिद्वन्द्विरहितः **मन्यमानः** आत्मानं **यः** अस्तीति शेषः । **आत्** तदानीम् **अस्मात्** वृत्रात् **तव्यान्** प्रवृद्धतरः **अन्यः** असुरः शुष्णः **अजनिष्ट** प्रादुरभूत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,30 +140,30 @@ genre M
 From the body of **Vṛtra**, it is said, sprang the more powerful **asura**, **Śuṣṇa**; allegorically, the exhaustion of the clouds was followed by a drought, which Indra, or the atmosphere, had then to remedy
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With his powers Indra smashed away the weapon of that very one, the  great wild beast,  
 who was thinking himself unopposable even on his own. But then there  was born one more powerful than he.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra with violence smote down the weapon,  
      yea, even of that wild and mighty creature.  
      Although he deemed himself alone unequalled, another had been born e'en yet more potent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst jenes großen Tieres Waffe schlug Indra mit aller Kraft weg, das sich allein ohne ebenbürtigen Gegner glaubte. Da war ein anderer Stärkerer als er entstanden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch jenes grossen Wildes Todeswaffe schlug Indra fort mit seines Armes Stärke; Dem, der allein sich unbesiegbar dünkte, erstand ein andrer stärker da, als er war.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра выбил смертельное оружие (своими) силами  
 Даже у того могучего зверя,  

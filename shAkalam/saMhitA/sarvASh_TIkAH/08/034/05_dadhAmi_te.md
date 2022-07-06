@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡धामि ते सुता꣡नां᳐  
 वृ꣡ष्णे न꣡ पूर्वपा꣡यियम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं यय꣡ दिवावसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दि॒वः । अ॒मुष्य॑ । शास॑तः । दिव॑म् । य॒य । दि॒वा॒व॒सो॒ इति॑ दिवाऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhāmi* ← *dhā*
 - \[verb\], singular, Present indikative
@@ -97,7 +97,7 @@ genre M;; repeated line
 हे इन्द्र **ते** तुभ्यं **सुतानाम्** । द्वितीयार्थे षष्ठी । सुतान् सोमान् **दधामि** प्रयच्छामि । **वृष्णे** **न** यथा वायवे **पूर्वपाय्यं** यज्ञमुखे पेयं प्रयच्छन्ति तद्वदहं प्रयच्छामीत्यर्थः । सिद्धमन्यत् ॥ ॥११॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,32 +108,32 @@ genre M;; repeated line
 To the showerer: vṛṣṇe = **vāyu**: **Aitareya** Brāhmaṇa2.25
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I set out the first drinking of the pressings for you, as if for a bull, o you who bring goods by day—(though) you (other gods), who impose  order over yonder heaven, have driven off to heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since the referent of te is Indra, explicitly comparing him to a bull in the simile vṛ́ṣṇe ná seems odd, since he is ordinarily simply identified as such. Geldner seems to think it’s a real bull, exhibiting thirst.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I set for thee, as for the Strong, the first draught of the juices shed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bringe dir, der wie ein Stier durstig ist, den Ersttrunk der ausgepreßten Säfte dar. - Über jenen Himmel herrschend seid ihr ja in den Himmel gegangen, o Divavasu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich gebe dir wie einem Stier der Somasäfte ersten Trunk; Von jenes Herrschers Himmel kamt ihr zu dem Feste tageshell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я даю тебе, (жаждущему,) словно бык,  
 Первое питье из выжатых соков.  

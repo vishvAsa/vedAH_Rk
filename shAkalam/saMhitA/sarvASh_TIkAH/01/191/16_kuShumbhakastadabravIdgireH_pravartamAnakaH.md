@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कुषुम्भक꣡स् त꣡द् अब्रवीद्  
 गिरेः꣡ प्रवर्तमानकः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अरसं꣡ वृश्चिक ते विष꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 वृश्चि॑कस्य । अ॒र॒सम् । वि॒षम् । अ॒र॒सम् । वृ॒श्चि॒क॒ । ते॒ । वि॒षम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kuṣumbhakas* ← *kuṣumbhakaḥ* ← *kuṣumbhaka*
 - \[noun\], nominative, singular, masculine
@@ -92,20 +92,20 @@ popular;; epic anuṣṭubh (525)
 एवं महानुभावेन अगस्त्यमहर्षिणा उच्यमाने सति **गिरेः** सकाशात् प्रवर्तमानकः प्रवर्तमानः अतिशीघ्रमभिगच्छन् **कुषुम्भकः** नकुलः **तदब्रवीत्** तद्वाक्यमाचख्यौ। किं तदिति उच्यते । **वृश्चिकस्य** एतत् **विषम्** **अरसम्** असारं बाधकं न भवतीत्यर्थः । तथा लोकेऽपि सर्पदष्टमपि क्रिम्यादिदंशनमेव अतो न बाधः इति हि वदन्ति । एवमभिवचनेन सोऽपि निर्विषोऽभवत् । अथ तं वृश्चिकं प्रति नकुल आह । हे **वृश्चिक** **ते** **विषम्** **अरसम्** । अतस्तमृषिं किं करिष्यति । तस्मात् परिहरेति । यदा एवमवादीत् तदाप्रभृति वृश्चिकविषम् असारमभवत् । एषा विषनिर्हरण्युपनिषत् ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hastening forth at the command (of **Agastya**), thus spoke the mongoose: the venom of the scorpion is innocuous; scorpion, your venom is innocuous.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The little teeny kuṣumbha-bug said this, as it made its teeny turn forth  from the mountain:  
 “Without juice is the poison of the little scorpion, without juice is your  poison, little scorpion.”
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -117,23 +117,23 @@ The word for ‘scorpion’, vṛ́ścika- only appears in that form, but appear
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forth issuing from the mountain's side the poison-insect spake and said:  
      Scorpion, they venom is but weak.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kusumbhaka sprach also, da er vom Gebirge ausging: "Kraftlos ist das Gift des Skorpions, kraftlos ist dein Gift du Skorpion.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das winzige Giftinsekt, als es vom Berge herab sich wandte, sprach dies Wort: Das Gift des Skorpions ist wirkungslos, dein Gift, o Skorpion, ist wirkungslos.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кушумбхака сказал это,  
 Улетучиваясь с горы:  

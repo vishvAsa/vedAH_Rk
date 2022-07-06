@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡पहूताः पित꣡रः सोमिया꣡सो  
 बर्हिषि꣡येषु निधि꣡षु प्रिये꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धि ब्रुवन्तु ते꣡ अवन्तु अस्मा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ते । आ । ग॒म॒न्तु॒ । ते । इ॒ह । श्रु॒व॒न्तु॒ । अधि॑ । ब्रु॒व॒न्तु॒ । ते । अ॒व॒न्तु॒ । अ॒स्मान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upahūtāḥ* ← *upahvā* ← *√hvā*
 - \[verb noun\], nominative, plural
@@ -120,7 +120,7 @@ popular
 **सोम्यासः** सोम्या अस्मदनुग्रहपराः सोमसंपादिनो वा **पितरः** **बर्हिष्येषु** यागार्हेषु .”प्रियेषु तृप्तिकरेषु **निधिषु** निधिसदृशेषु हविःषु निमित्तभूतेषु सत्सु **उपहूताः** अस्माभिराहूताः **ते** पितरः **आ** **गमन्तु** आगच्छन्तु । आगत्य च **इह** अस्मिन् कर्मणि अस्माभिः प्रयुक्ताः स्तुतीः **श्रुवन्तु** शृण्वन्तु । श्रुत्वा च **अधि** **ब्रुवन्तु** । साधुरयं यजमान इत्यादरेण कथयन्तु । **ते** तादृशाः पितरः **अस्मान्** **अवन्तु** रक्षन्तु ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,30 +131,30 @@ popular
 Entitled to the Soma: somyāsaḥ = **anugraha** **parāḥ**, kind or favourable,somasampādinaḥ, obtaining the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The forefathers deserving of soma have been summoned here to the dear  stores on the ritual grass.  
 Let them come hither, let them listen (to us) here; let them speak on  
 (our) behalf, let them help us.1394 X.16
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May they, the Fathers, worthy of the Soma, invited to their favourite oblations.  
      Laid on the sacred grass, come nigh and listen: may they be gracious unto us and bless us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die somawürdigen Väter sind jetzt geladen zu den beliebten, auf das Barhis gesetzten Auftischungen. Die sollen herkommen, die sollen hier zuhören, die sollen uns Fürsprecher und gewogen sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geladen sind die Soma-frohen Väter zu lieben Speisen, welche auf der Streu stehn; Sie mögen kommen und uns hier erhören und freundlich zu uns reden und uns helfen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Призваны отцы, достойные Сомы,  
 Для приятных угощений на жертвенной соломе.  

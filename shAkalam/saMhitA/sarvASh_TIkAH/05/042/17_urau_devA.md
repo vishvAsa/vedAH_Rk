@@ -6,12 +6,12 @@ ChandaH = "एकपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरउ꣡ देवा अनिबाधे꣡ सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -25,7 +25,7 @@ genre M
 उ॒रौ । दे॒वाः॒ । अ॒नि॒ऽबा॒धे । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *urau* ← *uru*
 - \[noun\], locative, singular, masculine
@@ -51,34 +51,34 @@ genre M
 हे **देवाः** युष्माकं संबन्धिनि **उरौ** महति **अनिबाधे** नितरां बाधरहिते सुखे **स्याम** भवेम वयमत्रयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we ever, gods, enjoy great and uninterrupted felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we come to be in broad unconstricted (space), o gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gods, may we dwell in free untroubled bliss.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten in weiter Unbeschränktheit leben, ihr Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir sein in freier Unbedrängtheit, Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будем мы, о боги, в широком (просторе), в нестесненности!
 </details>

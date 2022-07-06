@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡रंदरा शि꣡क्षतं वज्रहस्ता  
 अस्माँ꣡ इन्द्राग्नी अवतम् भ꣡रेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purandarā* ← *puraṃdara*
 - \[noun\], vocative, dual, masculine
@@ -124,36 +124,36 @@ genre M;; repeated line
 हे **वज्रहस्ता** हस्तेन गृहीतवज्रौ पुरंदरा असुरपुराणां दारयितारौ **इन्द्राग्नी** **शिक्षतम्** अस्मदपेक्षितं धनं प्रयच्छतम् । अपि च **भरेषु** संग्रामेषु **अस्मान्** **अवतं** रक्षतम् । यदनेन सूक्तेन प्रार्थितं **तत्** अस्मदीयं मित्रादयः **ममहन्तां** पूजयन्ताम् ॥ पुरंदरा ।  ‘ पूःसर्वयोर्दारिसहोः ' ( पा. सू. ३. २. ४१ ) इति खच् ।' वाचंयमपुरंदरौ च ' ( पा. सू. ६. ३. ६९ ) इति निपातनात् अम् ।  ‘ सुपां सुलुक्° ' इति विभक्तेः आकारः ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, wielders of the thunderbolt, overturners of cities, grant us wealth, defens us in battles; and may **Mitra**, **Varuṇa**, **Aditi**--ocean, earth and heaven, be propitious to this (our prayer).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O stronghold-splitters with the mace in your hands, ready your skill.  Help us, o Indra and Agni, in the raids.  
 – This let Mitra and Varuṇa grant to us, and Aditi, River, and Earth and  Heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give, ye who shatter forts, whose hands wield thunder: Indra and Agni, save us in our battles.  
      This prayer of ours may Varuna grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Burgenbrecher mit der Keule in der Hand, strengt euch an, stehet uns in den Kämpfen bei, Indra und Agni! - Das sollen uns Mitra, Varuna gewähren, Aditi, Sindhu, Erde und Himmel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Burgzerstörer, schenkt, ihr blitzbewehrten, und helft uns, Indra-Agni, in den Schlachten. Das mög' uns Mitra, Varuna gewähren und Aditi, das Meer, und Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О два проламывателя крепостей, одарите (нас), о вы с ваджрой в руках!  
 Помогите нам в битвах, о Индра и Агни!  

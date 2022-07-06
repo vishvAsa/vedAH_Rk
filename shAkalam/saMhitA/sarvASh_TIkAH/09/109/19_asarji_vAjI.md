@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सर्जि वाजी꣡ तिरः꣡ पवि꣡त्रम्  
 इ꣡न्द्राय सो꣡मः सह꣡स्रधारः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 अस॑र्जि । वा॒जी । ति॒रः । प॒वित्र॑म् । इन्द्रा॑य । सोमः॑ । स॒हस्र॑ऽधारः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
@@ -70,19 +70,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **वाजी** बलवान् वेगवान् वा **पवित्रं** तिरस्कुर्वन् **सहस्रधारः** बहुधारः **सोमः** **इन्द्राय** इन्द्रार्थम् **असर्जि** सृज्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The vigorous thousand-streamed **Soma** has been sent through, the filter for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The prizewinner has been let loose across the filter, Soma of a thousand  streams, for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. repeats vājī́from 17, tiráḥ pavítram from 16, and sahásradhāraḥ from 17.
 
@@ -97,22 +97,22 @@ No particular signs of cohesion, though assembled from the usual assortment of s
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mighty Soma with a thousand streams is poured to Indra through the cleansing sieve.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Preisrenner ist losgesprengt über die Seihe für Indra, der Soma in tausend Strahlen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen ist nun – durchs Sieb der schnelle, dem Indra Soma – in tausend Strömen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выпущен конь-победитель через цедилку,  
 Сома в тысячу потоков для Индры.

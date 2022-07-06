@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवो꣡र् य꣡दि · सखिया꣡य अस्मे꣡  
 श꣡र्धाय स्तो꣡मं जुजुषे꣡ न꣡मस्वान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पूर्वी꣡व गातु꣡र् दा꣡शत् सूनृ꣡तायै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि॒श्वत्र॑ । यस्मि॑न् । आ । गिरः॑ । स॒म्ऽई॒चीः । पू॒र्वीऽइ॑व । गा॒तुः । दाश॑त् । सू॒नृता॑यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual, masculine
@@ -108,7 +108,7 @@ genre M
 हे मित्रावरुणो **युवोः** युवयोः **शर्धाय** बलवते **अस्मे** अस्माकं **सख्याय** । यद्वा । युवयोः सख्याय अस्मे अस्माकं शर्धाय बलाय च । **यदि** **नमस्वान्** अन्नवानध्वर्युः स्तोत्रवान् होता वा **स्तोमं** जुजुषे सेवते । **यस्मिन्** सख्ये सिद्धे सति **विश्वत्र** विश्वस्मिञ्जनपदे **गिरः** अङ्गिरसां संबन्धिन्यः **समीचीः** समीच्यः **आ** गच्छन्तीति शेषः । उदाराणां गृह इदं गृहाण इदं गृहाणेत्येवंरूपाः श्रूयन्त इत्यर्थः । यद्वा । योगानुष्ठातॄणां स्तुतिगिर आगच्छन्तीति । पूर्वीव **गातुः** प्राची दिगिव सा यथा गच्छतां सुखं प्रयच्छति तद्वत् । यद्वा । पूर्वी पुरा प्रसिद्धा पुरातनीव गातुः सरणिरिव सा यथा गच्छतां सुखं प्रयच्छति तद्वत् । **सूनृतायै** प्रियसत्यरूपायै स्तुतिवाचे **दाशत्** प्रयच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,30 +119,30 @@ genre M
 Or, like the eastern quarter of theworld
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If for the sake of companionship with you two [=Mitra and Varuṇa, or  the Aśvins], for us who are his troop, he [=Agni/poet], receiving  
 [/providing] reverence, finds pleasure in his praise hymn—  
 he in whom songs in all places come together, like a route with many  parts—and he does ritual service for the sake of liberality,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If, for our strength, the priest with adoration to win your friendship made the laud accepted,  
      That laud shall be a branching road to virtue for every one to whom the songs are suited.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ich, um euer beider Freundschaft für uns zu gewinnen, zu einem Loblied auf die Heerschar Lust bekommen habe unter Verbeugungen, so möge der, zu dem überall die Lobreden vereint gehen wie ein viel begangener Weg, seiner Großmut willfahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn nun zu eurer beider [des Mitra-Varuna] starken Freundschaft mit uns der Anbeter den Lobgesang zum Genusse darbot, in welchen überall die Lieder sich vereinen, dann sei er [der Lobgesang] wie ein reich gesegneter Gang fördernd zu herrlicher Gabe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

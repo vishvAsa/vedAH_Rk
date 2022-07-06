@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡भर्ता र꣡थं गव्य꣡न्तम्  
 अपाका꣡च् चिद् य꣡म् अ꣡वति  
 इनो꣡ व꣡सु स꣡ हि꣡ वो꣡ळ्हा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 इ॒नः । वसु॑ । सः । हि । वोळ्हा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prabhartā* ← *prabhṛ* ← *√bhṛ*
 - \[verb\], singular, periphrast. future
@@ -88,7 +88,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **प्रभर्ता** प्रहर्ता प्रहरणशील इन्द्रः **रथं** रंहणं **गव्यन्तं** गा इच्छन्तं **यं** स्तोतारम् **अपाकात्** अविपक्वप्रज्ञाच्छत्रोः । चिच्छब्दोऽनुक्तसमुच्चयार्थः । विपक्वप्रज्ञादपि **अवति** रक्षति **स** **हि** स खलु स्तोता **इनः** ईश्वरः सन् **वसु** धनं **वोळ्हा** साधुवाही भवति । वहेः साधुकारिणि तृन् । अतो ‘न लोकाव्यय ' इति कर्मणि षष्ठ्याः प्रतिषेधः ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Desirous of cattle: ratham gavyantam: ratham = raṃhaṇam, fromvahi, to go; the epithet is not a car, because he is the lord, the bearer of riches, ino **vasu** sa hi voḷahā-- inahīśvaraḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even from behind he brings to the fore the cattle-seeking chariot that  he helps,  
 for he is the powerful conveyor of goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who drives his chariot seeking spoil, from afar, to him he loves:  
      For swift is he to bring men wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er bringt den um Rinder kämpfenden Wagen selbst von hinten an die Spitze, wem er hilft, denn der Gewaltige fährt die Schätze.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Reichen Wagen treibt er vorwärts, den er auch von ferne herschafft; Denn der starke fähret Güter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он продвигает вперед колесницу, стремящуюся к награде из быков  
 Даже когда он позади, (если) он кому помогает, –  

@@ -8,7 +8,7 @@ title = "+088"
 ‘आ विद्युन्मद्भिः' इति षडृचं चतुर्थं सूक्तम् । अत्रानुक्रम्यते - ‘ आ विद्युन्मद्भिराद्यान्त्ये प्रस्तारपङ्क्ती पञ्चमी विराड्रूपा' इति । पूर्ववदृषिदेवते । आद्या षष्टी च द्वे प्रस्तारपङ्क्ती । आद्यौ पादौ जागतौ तृतीयचतुर्थौ गायत्रौ यस्याः सा प्रस्तारपङ्क्तिः । सूत्रितं च - ‘ प्रस्तारपङ्क्तिः पुरतः ' ( पि. सू. ३. ४० ) इति । अस्यायमर्थः ।  ‘ जागतौ गायत्रौ च ' इत्यनुवर्तते । यदि पुरतः पुरस्तात् द्वौ जागतौ पादौ स्याताम् अन्त्यौ गायत्रौ सा प्रस्तारपङ्क्तिरिति । एतत्त्यत्' इत्येषा पञ्चमी विराड्रूपा । आदितस्त्रयः पादा एकादशका अन्त्योऽष्टकः सा विराड्रूपेत्युच्यते । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 88  
 Maruts  
@@ -25,7 +25,7 @@ etrate sexually, stick (one’s penis) in.” It is, of course, a piquant parado
 ticular, can the literal sense be made to conform with the statements in verse 6 that  the object is question both sounds and is made to sound? The riddle is solved if we  assume that it is a musical instrument, and in fact that it is the first reference to the  “Indian lute,” the vīṇā (the first occurrence of that word is in the Taittirīya Saṃhitā,  an early Vedic prose text), a noun of feminine gender. At least some of the forms  of this musical instrument bear a remarkable resemblance to male genitalia. The  poet brings his hymn to a climax with this clever sexual pun, which surely would  have been appreciated by the lusty Maruts. (This verse and its role in the hymn are  discussed in more detail in Jamison 1981.)
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts
 </details>

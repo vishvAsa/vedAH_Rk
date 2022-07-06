@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अद्य꣡ अश्वि꣡नाव् अहं꣡  
 हुवे꣡य वा꣡जसातये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡च् छ्रे꣡ष्ठम् अश्वि꣡नोर् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । पृ॒त्ऽसु । तु॒र्वणे॑ । सहः॑ । तत् । श्रेष्ठ॑म् । अ॒श्विनोः॑ । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -98,36 +98,36 @@ genre M
 **यत्** यदा **अहम्** **अश्विनौ** **वाजसातये** संग्रामार्थं **हुवेय** आह्वयेय **अद्य** इदानीं तावागच्छतमिति शेषः । **पृत्सु** पृतनासु संग्रामेषु **तुर्वणे** शत्रूणां हिंसने **यत्** **सहः** शत्रूणामभिभवितृ रक्षणम् **अश्विनोः** **तत्** **अवः** रक्षणं **श्रेष्ठं** प्रशस्यतमम् । अतस्तावाह्वयामीति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch as I invoke you, **Aśvins**, today for success in war (therefore grant it), for the triumphantprotection of the Aśvins is the most excellent for the destruction (of enemies) in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If today I should call on you in order to to win the prize, o Aśvins— the might that is for victory in battles: that is the best help of the  
 Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When I, O Asvins, call on you to-day that I may gather strength,  
      Or as all-conquering might in war, be that the Asvins' noblest grace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ich euch, Asvin, heute rufen könnte, um den Siegerpreis zu gewinnen, wenn in den Kämpfen, um die feindliche Macht zu überwinden, so ist diese Hilfe der Asvin die beste.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn heut ich werd' die Ritter flehn um reiche Beute zu empfahn, Wenn in dem Kampf um Kraft zum Sieg, dann sei voll Heil der Ritter Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если бы сегодня, о Ашвины,  
 Я позвал бы (вас) для захвата награды,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईळे꣡नियो नमसि꣡यस्  
 तिर꣡स् त꣡मांसि दर्शतः꣡  
 स꣡म् अग्नि꣡र् इध्यते वृ꣡षा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 सम् । अ॒ग्निः । इ॒ध्य॒ते॒ । वृषा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īḍenyo* ← *īḍenyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
@@ -78,41 +78,41 @@ genre M
 **ईळेन्यः** स्तोतृभिरीड्यः अत एव **नमस्यः** सर्वैर्नमस्कार्यः **तमांसि** **तिरः** ध्वान्तानि स्वप्रभाभिस्तिरस्कुर्वन् **दर्शतः** कमनीयतया सर्वैर्दर्शनीयः । तादृशः **अग्निः** **वृषा** यजमानस्य कामानां वर्षिता **सम्** **इध्यते** आहुतिप्रक्षेपेण प्रज्वाल्यते । उक्तार्थे वाजसनेयकम्-- ईडेन्यो ह्येष नमस्यो ह्येष तिरस्तमांसि ददृशे समिद्धः' इति । ईळेन्यः । ‘ ईड स्तुतौ ' । ‘ कृत्यार्थे तवैकेन्केन्यत्वनः' इति केन्यः । प्रत्ययस्वरः । नमस्यः । नमस्यतेः ‘अचो यत्' इति यत् । अतोलोपयलोपौ ।' तित्स्वरितः ' इति स्वरितः । दर्शतः । ‘ दृशिर् प्रेक्षणे ' । अस्मात्० ‘ भृमृदृशि° ' इत्यादिना कर्मणि अतच्प्रत्ययः । चित्स्वरः । वृषा । ' वृषु सेचने ' इत्यस्मात् 'कनिन्युवृषि° ' इत्यादिना कनिन् । कित्त्वादगुणः । नित्त्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who is to be worshipped with praise and with prostration, the dispeller of darkness, the beautiful, the showerer (of benefits) is kindled.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the one to be summoned, to be revered, visible throughout the  darkness,  
 the bull Agni is kindled.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Meet to be lauded and adored, showing in beauty through the dark,  
      Agni, the Strong, is kindled well.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who should be magnified and adored, who is visible through the darkness, Agni, the manly, is kindled 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Anzurufen, zu verehren, durch das Dunkel sichtbar, wird Agni, der Bulle entzündet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der preisenswerth, verehrungswerth, hin durch das Dunkel sichtbar ist, Agni, der Stier, wird hell entflammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Достойный призывов, достойный поклонений,  
 Видимый сквозь мрак  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति स्तो꣡मेभिर् उष꣡सं व꣡सिष्ठा  
 गीर्भि꣡र् वि꣡प्रासः प्रथमा꣡ अबुध्रन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आविष्कृण्वती꣡म् भु꣡वनानि वि꣡श्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि॒ऽव॒र्तय॑न्तीम् । रज॑सी॒ इति॑ । सम॑न्ते॒ इति॒ सम्ऽअ॑न्ते । आ॒विः॒ऽकृ॒ण्व॒तीम् । भुव॑नानि । विश्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -101,20 +101,20 @@ genre M
 **विप्रासः** मेधाविनः **वसिष्ठाः** वसिष्ठगोत्राः **स्तोमेभिः** स्तोतृभिः प्रयुज्यमानाः **गीर्भिः** स्तुतिभिः **प्रथमाः** इतरयजमानेभ्यः पूर्वभूताः सन्तः **उषसं** **प्रति** **अबुध्रन्** प्रतिबोधयन्ति । कीदृशीमुषसं च । **रजसी** द्यावापृथिव्यौ **समन्ते** समानपर्यन्ते एकीभूतप्रान्ते **विवर्तयन्तीं** व्यावर्तयन्तीं **विश्वा** सर्वाणि **भुवनानि** भूतजातानि **आविष्कृण्वतीं** प्रकटीकुर्वतीं स्वभासा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pious **Vasiṣṭhas**, first (of all worshippers) awaken with prayers and praises (each succeeding)dawn spreading over the like-bounded earth and heaven making all the regions manifest.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With their praises, with their hymns, the Vasiṣṭhas, inspired poets, have  awakened first in response to Dawn,  
 as she unrolls the two adjoining realms, revealing all the beings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. reprises various parts of the other dawn hymns in this cycle. The first hemistich práti … uṣásam … abudhran echoes VII.78.5a práti tvā … budhanta, with each having the mortal worshipers as subject. (Note augmented abudhran versus injunctive budhanta.) In c Dawn is “unrolling” the two world halves (vivartáyantīm), while in VII.79.2c her cows “roll up” the darkness (sám … táma ā́ vartayanti) with the preverb sám complementary to ví. In our vs. sám is found in the 107 same pāda in the adjective describing the two world-halves, sámante ‘adjoining’.
 
@@ -125,23 +125,23 @@ Geldner takes du. rájasī as referring to the Dark (and Light), i.e., Night and
 But du. rájasī ordinarily refers to the two world-halves and is often used in conjunction with ródasī (e.g., I.160.4, IV.42.3), and I see no reason to seek a different referent here. Dawn’s action of ‘unrolling’ the two world-halves would refer to the visual effect of the gradual revealing of their features as the dawn’s light strengthens. For a similar notion, though with ví √vṛ ‘uncover’, see the previous hymn VII.79.1 ví sū́ryo ródasī cákṣasāvaḥ “The Sun has uncovered the two worldhalves with his eye.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE priests, Vasisthas, are the first awakened to welcome Usas with their songs and praises,  
      Who makes surrounding regions part asunder,and shows apparent all existing creatures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Lobliedern, mit Lobreden haben die redekundigen Vasistha´s als Erste die Usas herangewacht, die das Dunkel und das Licht, die aneinanderstoßenden, umdreht und alle Welten offenbar macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Lobgesang erweckten die Vasischtha's die Morgenröthe jetzt zuerst mit Liedern, Sie, die entrollt die beiden Nachbar-Welten, und offenbar macht, was da lebt und webet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С восхвалениями (и) песнями вдохновенные Васиштхи  
 Первыми пробудились навстречу Ушас,  

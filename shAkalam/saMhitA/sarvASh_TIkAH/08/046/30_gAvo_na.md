@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गा꣡वो न꣡ यूथ꣡म् उ꣡प यन्ति व꣡ध्रय  
 उ꣡प मा꣡ यन्ति व꣡ध्रयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M
 गावः॑ । न । यू॒थम् । उप॑ । य॒न्ति॒ । वध्र॑यः । उप॑ । मा॒ । आ । य॒न्ति॒ । वध्र॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
@@ -77,35 +77,35 @@ genre M
 **गावो**  **न** गाव इव ता यथा संगवे “ यूथमुप “ यन्ति उपगच्छन्ति तद्वत् “  वध्रयः छिन्नमुष्का वृषभाः पृथुश्रवसा दत्ताः **मा**  माम् **उप** **यन्ति** समीपं प्राप्नुवन्ति । मा मां **वध्रयः** उपा यन्तीति पुनरुक्तिरादरार्था ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As the cows to the herd, so repair the oxen; so the oxen repair to me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like cattle to their herd, the geldings approach, the geldings  
 approach me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To me come oxen like a herd, yea, unto me the oxen come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie eine Rinderherde kommen die Wallache, kommen die Wallache auf mich zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Rinder zur Heerde kommen mir herbei verschnittene [Ochsen?], herbei kommen zu mir die verschnittenen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно стадо быков приближаются холощеные,  
 Ко мне приближаются холощеные.

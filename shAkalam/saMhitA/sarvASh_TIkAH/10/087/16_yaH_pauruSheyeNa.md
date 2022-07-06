@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ पउ꣡रुषेयेण क्रवि꣡षा समङ्क्ते꣡  
 यो꣡ अ꣡श्व्येन पशु꣡ना यातुधा꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡षां शीर्षा꣡णि ह꣡रसा꣡पि वृश्च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यः । अ॒घ्न्यायाः॑ । भर॑ति । क्षी॒रम् । अ॒ग्ने॒ । तेषा॑म् । शी॒र्षाणि॑ । हर॑सा । अपि॑ । वृ॒श्च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -120,7 +120,7 @@ popular
 **यः** **यातुधानः** राक्षसः **पौरुषेयेण** पुरुषसंबन्धिना **क्रविषा** मांसेन **समङ्क्ते** आत्मानं संगमयति । **यः** च **अश्व्येन** अश्वसमूहेन । तदीयेन मांसेनेत्यर्थः । आत्मानं संगमयति । यो वा यातुधानोऽन्येन **पशुना** आत्मानं संगमयति । **यः** वा यातुधानः **अघ्न्यायाः** गोः **क्षीरं** **भरति** हरति । हे **अग्ने** त्वं **तेषां** सर्वेषामपि राक्षसानां **शीर्षाणि** शिरांसि **हरसा** त्वदीयेन तेजसा **वृश्च** छिन्द्धि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ popular
 Who fillshimself: who smears himself
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sorcerer who anoints himself with the bloody flesh of men, who  (does so) with horseflesh,  
 who carries off the milk of the fertile cow—chop off their heads with  your blaze, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The fiend who smears himself with flesh of cattle, with flesh of horses and of human bodies,  
      Who steals the milch-cow's milk away, O Agni,-tear off the heads of such with fiery fury.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Zauberer sich mit blutigem Menschenfleisch beschmiert, wer mit dem von Roß und Vieh, wer die Milch der Kuh wegnimmt, o Agni, deren Köpfe haue ab mit deiner Glut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Böse, welcher von dem Fleisch des Menschen, des Rosses und des Viehes sich ernähret, Und von der Kuh die Milch hinwegnimmt, Agni, die Häupter solcher spalte mit dem Glutstrahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой колдун умащается кровавой человечиной,  
 Какой кониной, какой говядиной,  

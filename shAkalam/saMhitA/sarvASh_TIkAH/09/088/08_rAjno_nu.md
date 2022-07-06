@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡ज्ञो नु꣡ ते व꣡रुणस्य व्रता꣡नि  
 बृह꣡द् गभीरं꣡ त꣡व सोम धा꣡म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दक्षा꣡यियो अर्यमे꣡वासि सोम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 शुचिः॑ । त्वम् । अ॒सि॒ । प्रि॒यः । न । मि॒त्रः । द॒क्षाय्यः॑ । अ॒र्य॒माऽइ॑व । अ॒सि॒ । सो॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rājño* ← *rājñaḥ* ← *rājan*
 - \[noun\], genitive, singular, masculine
@@ -133,7 +133,7 @@ genre M;; repeated line
 हे **सोम** **वरुणस्य** वारकस्य **ते** तव **व्रतानि** कर्माणि **नु** क्षिप्रं करोमीति शेषः । हे **सोम** **तव** **धाम** तेजःस्थानं **बृहत्** महत् **गभीरं** च । **प्रियः** **मित्रः** इव **त्वं** **शुचिः** दीप्तः शुद्धो वा **असि** । **अर्यमेव** अर्यमा देव इव त्वं **दक्षाय्यः** **असि** ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,13 +146,13 @@ Varuṇa: 'I quickly perform the sacrifices of you the cover';
 Varuṇa = **varāka**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The commandments of King Varuṇa are yours; yours is his lofty, deep  domain, o Soma.  
 You are blazing pure, like dear Mitra. You are besought for skill like  Aryaman, o Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is identical to I.91.3, also a Soma hymn. Unfortunately the published translation
 
@@ -161,23 +161,23 @@ of the two vss. differ in pāda b. In I.91.3 I tr. “lofty and deep is your dom
 On dakṣā́yya- see comm. ad I.91.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine are King Varuna's eternal statutes, lofty and deep, O Soma, is thy glory.  
      All-pure art thou like Mitra the beloved, adorable, like Aryaman, O Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Gebote sind wie die des Königs Varuna; hoch und tief ist dein Wesen, o Soma. Du bist rein wie der liebe Mitra; du verdienst Willfährigkeit wie Aryaman, o Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein sind des Königs Varuna Gesetze, hoch ist und tief, o Soma, deine Stätte, Du strahltest hell so wie der liebe Mitra, du Soma bist wie Arjaman zu ehren,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У тебя ведь заветы царя Варуны,  
 Высока, глубока твоя суть, о сома.  

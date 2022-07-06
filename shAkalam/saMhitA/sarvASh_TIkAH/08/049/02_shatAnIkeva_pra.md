@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शता꣡नीकेव प्र꣡ जिगाति धृष्णुया꣡  
 ह꣡न्ति वृत्रा꣡णि दाशु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 द꣡त्राणि पुरुभो꣡जसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 गि॒रेःऽइ॑व । प्र । रसाः॑ । अ॒स्य॒ । पि॒न्वि॒रे॒ । दत्रा॑णि । पु॒रु॒ऽभोज॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatānīkeva* ← *śata*
 - \[noun\], neuter
@@ -119,31 +119,31 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He rushes on boldly like a weapon with a hundred edges, he smites the enemies of his worshipper; thegifts of him who feeds many, swell like the streams of a mountain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like (a missile) with a hundred facets he advances boldly. He smashes  obstacles for the pious man.  
 
 Like the juices [=streams] of a much-nourishing mountain his gifts  swell forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Pfeil mit hundert Spitzen dringt er kühnlich vor, er erschlägt die Feinde für den Opferspender. Wie die Säfte des Berges, so quellen seine Gaben hervor, der viele erquickt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich hundertschneid'gem Pfeile dringt er kühnlich vor, und schlägt des frommen Mannes Feind, Wie des Gebirges Wasserbäche schwellen an die Gaben dess, der viele nährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как (стрела) с сотней наконечников, он дерзко прорывается вперед,  
 Убивает врагов для почитателя (своего).  

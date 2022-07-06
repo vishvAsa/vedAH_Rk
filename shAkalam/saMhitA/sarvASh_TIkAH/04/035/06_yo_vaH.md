@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वः सुनो꣡ति अभिपित्वे꣡ अ꣡ह्नां  
 तीव्रं꣡ वाजासः स꣡वनम् म꣡दाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ तक्षत वृषणो मन्दसानाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्मै॑ । र॒यिम् । ऋ॒भ॒वः॒ । सर्व॑ऽवीरम् । आ । त॒क्ष॒त॒ । वृ॒ष॒णः॒ । म॒न्द॒सा॒नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -118,36 +118,36 @@ genre M
 हे **ऋभवः** **वाजासः** अन्नवन्तः **वः** युष्मभ्यं **यः** यजमानः **अह्नाम्** **अभिपित्वे** अभिपतने। तृतीयसवने इत्यर्थः । तस्मिन् **तीव्रं** रसवत्तरं **सवनम्** । सूयते इति सवनः सोमः । तं **मदाय** **सुनोति** **तस्मै** **सर्ववीरं** बहुपुत्रोपेतं **रयिं** धनं हे **वृषणः** फलवर्षितारः **मन्दसानाः** मोदमानाः सन्तः **आ** **तक्षत** संपादयतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Distributors of food, **Ṛbhus**, showerers (of benefits), exhilarated (by the **Soma** draught), fabricated wealth, comprising all posterity for him who pours out for your exhilaration, the acrid libation at the deline of day.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who presses for you in the evening of the day the sharp pressing for  exhilaration, o Vājas,  
 for him, o R̥bhus, fashion wealth that consist of hale heroes since you  find exhilaration, o bulls.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso pours out for you, when days are closing, the sharp libation for your joy, O Vajas,  
      For him, O mighty Rbhus, ye, rejoicing, have fashioned wealth with plenteous store of heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer euch, wenn die Tage zur Rüste gehen, die scharfe Trankspende zum Rausche preßt, ihr Vaja´s, dem stellet, ihr Ribhu´s, einen Schatz von lauter Söhnen her, euch berauschend, ihr Bullen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer euch, o Vadscha's, bei des Tages Sinken den scharfen Soma zur Berauschung keltert, Dem schaffet Reichthum her sammt allen Helden, vom Trunk erfreut, o Ribhu's, muntre Stiere.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто выжимает для вас (сому) в конце дней (жертвоприношения),  
 Резкий выжатый сок для опьянения, о Ваджи,  

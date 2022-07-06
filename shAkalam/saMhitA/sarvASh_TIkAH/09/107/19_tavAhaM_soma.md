@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वाहं꣡ सोम रारण  
 सख्य꣡ इन्दो दिवे꣡-दिवे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 परिधीँ꣡र् अ꣡ति ताँ꣡ इहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पु॒रूणि॑ । ब॒भ्रो॒ इति॑ । नि । च॒र॒न्ति॒ । माम् । अव॑ । प॒रि॒ऽधीन् । अति॑ । तान् । इ॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tavāhaṃ* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -118,21 +118,21 @@ genre M
 हे **इन्दो** हे **सोम** **तव** **सख्ये** सखिकर्मणि **अहं** **दिवेदिवे** अन्वहं **रारण**। रणेः लिट्युत्तमे णलि रूपम् । हे **बभ्रो** बभ्रुवर्ण सोम **पुरूणि** बहूनि रक्षांसि **मां** तव सख्ये स्थितं **नि** **अव** **चरन्ति** नीचीनं चरन्ति बाधन्ते । ये मां बाधन्ते **तान्** **परिधीन** राक्षसांस्त्वम् **अति** **इहि** अतीत्य गच्छ। जहीति यावत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In your friendship, **Indu** **Soma**, I have rejoiced day by day; many (**rākṣasas**) assail me, tawny-coloured (Soma); overcome these who surround me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, I rejoice in your fellowship (with me) every day, o drop.  
 Many things, o brown one, get me down—way down. Go past these  
 barriers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The indic. pf. of √ran is presential in value; see Kümmel (413). The form here echoes raṇyati in 18b.
 
@@ -157,23 +157,23 @@ This is the first and only place in the hymn in which the 1st person is found. T
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, Indu, every day thy friendship hath been my delight.  
      Many fiends follow me; help me, thou Tawny-hued; pass on beyond these barriers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In deiner Freundschaft, o Soma, bin ich Tag für Tag gern, o Saft. Viele böse Geister suchen mich heim, du Brauner; geh über diese Hemmnisse hinweg!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich freue, Soma, Tag für Tag, o Indu, deiner Freundschaft mich; O flammendrother, vieles dringet auf mich ein, durchschreite alle Hemmungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я радуюсь, о сома, дружбе  
 С тобой, о капля, день за днем.  

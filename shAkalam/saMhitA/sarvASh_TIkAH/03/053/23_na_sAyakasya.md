@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ सा꣡यकस्य चिकिते जनासो  
 लोधं꣡ नयन्ति प꣡शु म꣡न्यमानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ गर्दभ꣡म् पुरो꣡ अ꣡श्वान् नयन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 न । अवा॑जिनम् । वा॒जिना॑ । हा॒स॒य॒न्ति॒ । न । ग॒र्द॒भम् । पु॒रः । अश्वा॑त् । न॒य॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -115,7 +115,7 @@ popular
 पुरा खलु तपसः क्षयो मा प्रापदिति शापान्निवृत्तं मौनिनं विश्वामित्रं वसिष्ठपुरुषा बद्ध्वा आनीतवन्तः । तान् प्रति विश्वामित्रो ब्रूते । हे **जनासः** जनाः **सायकस्य** अवसानकारिणो विश्वामित्रस्य मन्त्रगणसामर्थ्यं **न** **चिकिते** भवद्भिर्न ज्ञायते । अत एव **लोधं** लुब्धं तपसः क्षयो मा भूदिति लोभेन तूष्णीं स्थितमृषिं **पशु** **मन्यमानाः** । पशु इति निपातः पशुशब्दसमानार्थः । पशुवन्मन्यमानाः एते **नयन्ति** बद्ध्वा स्वकीयं देशं प्रापयन्ति । एवं स्वसामर्थ्यं प्रदर्श्य विसदृशो वसिष्ठो मया सह स्पर्धितुं नार्हतीति धिक्करोति । **नावाजिनम्** इति । अवाजिनम् । वाचामिनो वाजिनः सर्वज्ञः । तद्विलक्षणं मूर्खजनं **वाजिना** वागीशाः न **हासयन्ति** हास्यास्पदं न कुर्वन्ति । तेन सह न स्पर्धन्त इत्यर्थः । तथा **गर्दभं** रासभम् **अश्वात्** **पुरः** पुरस्तात् **न** **नयन्ति** । एवमेव विसदृशो वसिष्ठो न मया स्पर्धितुमीष्ट इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,13 +128,13 @@ Legend: **Viśvāmitra** was seized and bound by the followers of **Vasiṣṭha
 Lodha = from lubdham, desirous that his penance might not be frustrated, **tapasaḥ** kṣayo mā bhūd iti, lobhena tuṣṇīm sthitam ṛṣim paśum manyamāna, thinking the ṛṣi silent through his desire, to be an animal, i.e., stupid; another interpretation in **Nirukta**:lubdham ṛṣim nayanti paśum manyamānaḥ, they take away the desiring ṛṣi, thinking him an animal; na avājinam vājinā hāsayanti: **vājina** = from vac, speed, with ina affix; interpreted as srvajña, all knowing; the contrary avajina = **mūrkha**, a fool
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There is no notice taken of his missile, you people. They lead a lump,  thinking it a beast.  
 (But) they are not making a non-prizewinner race with a prizewinner,  nor leading a donkey before the horses.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my opinion, at least the first half of this vs. continues the sentiment of vs. 22: the enemy is powerless, despite bluff and bluster. In pāda a older translations supply an unidentified subject (“he”) for cikite, but the medial perfect of √cit is always pass.-intrans. and with Kümmel (176) I take the verb as an impersonal passive with an oblique subj. in the genitive; cf. I.51.7 táva vájraś cikite with the subject in the more normal nom. The point here is that the opponent’s missile (sā́yaka-) is so inconsequential as not to attract or deserve notice.
 
@@ -162,23 +162,23 @@ The first vs. of this sequence (21) is quite straightforward; vs. 22 is more com
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men notice not the arrow, O ye people; they bring the red beast deeming it a bullock.  
      A sluggish steed men run not with the courser, nor ever lead an ass before a charger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht versteht er sich auf das Wurfgeschoß, ihr Leute. Sie lenken ein Lodharoß, indem sie es für ein Opfertier halten. Nicht läßt man einen Klepper mit dem Rennpferd wettlaufen, nicht führt man einen Esel als Vorspann vor das Pferd.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht nimmt man wahr des fliegenden Geschosses, o Leute, nicht reiset man [ná yanti statt nayanti] einen Fuchs (?) für ein Zugvieh haltend, nicht lässt man ein träges Ross mit einem raschen wettrennen, nicht führt man den Esel vor den Rossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он не разбирается в метательном оружии, о люди.  
 Они водят (коня) лодха, считая (его) жертвенным животным.  

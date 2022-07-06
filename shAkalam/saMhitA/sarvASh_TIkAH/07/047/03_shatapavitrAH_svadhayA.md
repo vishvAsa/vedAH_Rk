@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शत꣡पवित्राः स्वध꣡या म꣡दन्तीर्  
 देवी꣡र् देवा꣡नाम् अ꣡पि यन्ति पा꣡थः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सि꣡न्धुभ्यो हव्यं꣡ घृत꣡वज् जुहोत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ताः । इन्द्र॑स्य । न । मि॒न॒न्ति॒ । व्र॒तानि॑ । सिन्धु॑ऽभ्यः । ह॒व्यम् । घृ॒तऽव॑त् । जु॒हो॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatapavitrāḥ* ← *śata*
 - \[noun\], neuter
@@ -120,36 +120,36 @@ genre M
 **शतपवित्राः** शतं बडूनि पवित्राणि पावनानि रूपाणि यासां ताः **स्वधया** स्वकार्यभूतेनान्नेन **मदन्तीः** जनान् मादयन्त्यः **देवीः** देव्यो द्योतमाना आपः **देवानाम्** इन्द्रादीनां **पाथः** स्थानम् **अपि** **यन्ति** प्रविशन्ति । **ताः** तादृश्य आपः **इन्द्रस्य** प्रीणनानि **व्रतानि** यज्ञादीनि कर्माणि **न** **मिनन्ति** न हिंसन्ति । उत्पादयन्तीत्यर्थः । हे अध्वर्यवः यूयं **सिन्धुभ्यः** ताभ्योऽद्भ्यः **घृतवत्** उपस्तरणाभिघारणलक्षणाज्ययुक्तं **हव्यं** पुरोडाशादिकं हविः **जुहोत** जुहुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine Waters, the purifiers of many, gratifying men with food, pursue the paths of the gods; theyimpede not the sacred rites of **Indra**; offer, (priests), the butter-charged oblation to the rivers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Possessing a hundred filters, delighting in their independent power, the  goddesses [=Waters] merge into the fold of the gods.  
 They do not confound the commandments of Indra. To the rivers pour  an oblation filled with ghee.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All-purifying, joying in their nature, to paths of Gods the Goddesses move onward.  
      They never violate the laws of Indra. Present the oil-rich offering to the Rivers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch hundert Filter laufend, sich ihrer Lebenskraft freuend gehen die Göttlichen ein in den Schutz der Götter. Nicht übertreten sie Indra´s Gebote. Den Flüssen opfert ein schmalzreiches Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die lustig sprudeln, hundertfach gereinigt, Göttinnen gehn sie auf der Götter Strasse, Die nicht des Indra Satzungen verletzen, den Strömen giesset butterreichen Guss zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Проходя) через сотню фильтров, радуясь по своему обычаю,  
 Богини вливаются в обитель богов.  

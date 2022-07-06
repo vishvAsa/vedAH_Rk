@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रप्रसूता व꣡रुणप्रशिष्टा  
 ये꣡ सू꣡र्यस्य ज्यो꣡तिषो भाग꣡म् आनशुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡घोने यज्ञं꣡ जनयन्त सूर꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒रुत्ऽग॑णे । वृ॒जने॑ । मन्म॑ । धी॒म॒हि॒ । माघो॑ने । य॒ज्ञम् । ज॒न॒य॒न्त॒ । सू॒रयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraprasūtā* ← *indra*
 - \[noun\], masculine
@@ -122,36 +122,36 @@ genre M
 **इन्द्रप्रसूताः** इन्द्रेण तत्तत्कार्येषु प्रेरिताः **वरुणप्रशिष्टाः** वरुणेनानुशिष्टा अनुमोदिताः **ये** मरुतः **ज्योतिषः** द्योतमानस्य **सूर्यस्य** स्वस्वकर्मणि सर्वस्य प्रेरकस्यामुष्यादित्यस्य **भागं** भजनीयं लोकम् **आनशुः** आनशिरे व्याप्तवन्तः । सूर्यमधिष्ठाय वर्तन्त इत्यर्थः । **वृजने** शत्रूणां छेदके **माघोने** मघवत इन्द्रस्य संबन्धिनि **मरुद्गणे** तेषां मरुतां गणे **मन्म** मननीयं स्तोत्रं **धीमहि** दध्मः । कुर्मः। किंच **सूरयः** प्राज्ञा यजमानास्तन्निमित्तमेव **यज्ञं** **जनयन्त** जनयन्ति । तेषां हविष्प्रदानाय कुर्वन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We offer praise to the company of the **Maruts**, the attendants upon **Maghavan**, who, encouraged byIndra, and instrumental ucted by **Varuṇa**, have acquired a portion of the light of the sun; the wise worshippers beget thesacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, thrust forth by Indra, directed forth by Varuṇa, attained a share of  the light of the sun.  
 We would set our thoughts on the community having the Maruts as their  troop. In their generosity, they begot the sacrifice as its patrons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For the strong band of Maruts will we frame a hymn: the chiefs shall bring forth sacrifice for Indra's troop,  
      Who, sent by Indra and advised by Varuna, have gotten for themselves a share of Surya's light
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die von Indra befehligt, von Varuna unterwiesen, Anteil an dem Sonnenlicht erlangt haben: Auf den Bund der Götter mit den Marut als Gefolgschaft wollen wir ein Lied dichten. In Ihrer Freigebigkeit haben die Götter als Opferherren das Opfer für sich erschaffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Antheil haben an der Sonne hellem Licht, erregt von Indra und von Varuna belehrt, Dem Schwarm und Heer der Maruts bringen wir Gebet, die Fürsten schafften Opfer für des Indra Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡ह꣡म् इन्द्राणि रारण  
 स꣡ख्युर् वृषा꣡कपेर् ऋते꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 यस्य॑ । इ॒दम् । अप्य॑म् । ह॒विः । प्रि॒यम् । दे॒वेषु॑ । गच्छ॑ति । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nāham* ← *na*
 - \[adverb\]
@@ -121,35 +121,35 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे **इन्द्राणि** **अहम्** इन्द्रः **सख्युः** मम सखिभूतात् **वृषाकपेर्ऋते** प्रियं वृषाकपिं विना **न** **ररण** न रमे । **अप्यम्** अप्सु भवमद्भिर्वा संस्कृतं **प्रियं** प्रीतिकरम् **इदम्** उपस्थितं **हविः** **देवेषु** देवानां मध्ये **यस्य** ममेन्द्रस्य सकाशं **गच्छति** । यश्चाहम् **इन्द्रः** **सर्वस्मात्** **उत्तरः** । यद्वा । अयमर्थः । हे इन्द्राणि वृषाकपेः सख्युरिन्द्रादृतेऽहं वृषाकपिर्न रारण न रमे। अन्यत्समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I am not happy, **Indrāṇi**, without my friend **Vṛṣākapi**; whose acceptable oblation here, purified withwater, proceeds to the gods; **Indra** is above all (the world).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] “O Indrāṇī, I find no pleasure without my comrade Vr̥ṣākapi, whose own dear watery oblation goes here and now to the gods.” – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Never, Indralni, have I joyed without my friend Vrsakapi,  
      Whose welcome offering here, made pure with water, goeth to the Gods. Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Frau Indra! Ohne den Freund Vrisakapi war ich nicht froh, dessen wässerige Opferspende hier den Göttern erwünscht kommt." - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi, dessen lieber mit Wasser vermischter Opfertrank hier zu den Göttern geht. Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡नत् सा꣡ अश्वियम् पशु꣡म्  
 उत꣡ ग꣡व्यं शता꣡वयम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दो꣡र् वीरा꣡योपब꣡र्बृहत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 श्या॒वाश्व॑ऽस्तुताय । या । दोः । वी॒राय॑ । उ॒प॒ऽबर्बृ॑हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanat* ← *san*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -94,20 +94,20 @@ genre M
 **सा** तरन्तमहिषी मह्यं **सनत्** प्रादात् । किम्। **अश्व्यम्** अश्वात्मकं तत्समूहात्मकं वा **पशुम्** । जातावेकवचनम् । **उत** अपि च **गव्यं** गोसमूहात्मकं पशुं **शतावयम्** अनेकैरविभिर्युक्तं सनदिति । सेत्युक्तं केत्याह । **या** **श्यावाश्वस्तुताय** श्यावाश्वेन मया स्तुताय **वीराय** तरन्ताय **दोः** स्वकीयं भुजम् **उपबर्बृहत्** उपोदयच्छदालिङ्गनाय सा सनदिति । यतः भर्तृप्रेमास्पदा तस्मादेव बहु धनं दाते शक्तेत्यर्थः ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “She, (Śaśiyasī), who has thrown her arms round the hero Taranta, who was eulogized by **Śyāvāśva**, has given me cattle comprising horses, and cows, and hundreds of sheep.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She gains livestock in horses and cows and (livestock) consisting of a  hundred sheep—  
 the one who keeps plumping up her arm as a pillow for the hero praised  by Śyāvāśva.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the standard tr. (now incl. Witzel Gotō) take sánat as meaning ‘gave’ (Geldner schenkte, Renou a donné, Witzel Gotō geschenkt hat), not ‘gained’; Indeed Renou claims that the stem sána- means ‘give’ in dānastutis, but provides no parallels. I have found none in any of the occurrences of this stem, but by contrast quite a number of exx. of sána- in dānastutis with the expected meaning ‘gain’ (I.126.3, V.30.14; VIII.25.22, 24; 46.22, 29; 68.17; X.62.11). Note, however, the honorable exception of Klein (DGRV I.431) “That one has obtained [my italics] a herd consisting of horses …”; Grassmann likewise gives the verb in this passage its standard meaning ‘erlangen’. The only possible reason I can imagine that this array of skilled philologists resolutely turned their backs on the very clear evidence of the semantics of this root is that they couldn’t imagine that a female could have won or gained these prizes -- though, as noted in the published introduction, it would be just as anomalous for a female to give them. If I am right that the woman in question is a favored concubine, or even the Favorite Wife (Vāvātā) of later Vedic ritual, of Śyāvāśva’s royal patron, then he may have indulged her with a little gift at the time of the general distribution of bounty. She does, after all, perform services for him, as pāda d shows.
 
@@ -123,23 +123,23 @@ b śatā́vayam ... c śyāvá-aśva [or Holland & van Nooten Rig Veda edition�
 Note also that the end of c, (-stut)āya yā́, is nearly identical to the ends of 1b āyayá and 2b (kath)ā́yaya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May she gain cattle for her meed, hundreds of sheep and steeds and kine,  
      Who threw embracing arms around the hero whom gyavaiva praised.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie schenkte Roß- und Rinderherde nebst hundert Schafen, die dem von Syavasva gepriesenen Manne den Arm als Kissen unterlegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es empfange einen Viehstand, reich an Rossen und Rindern, hundert Schafe zählend, die, welche ihren Arm dem von ^javaa^va gepriesenen Helden unterbreitet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она подарила скот, состоящий из коней,  
 А также из коров и из овец числом в сто,  

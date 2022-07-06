@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति अग्नि꣡र् उष꣡साम् अ꣡ग्रम् अख्यद्  
 विभातीनां꣡ सुम꣡ना रत्नधे꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡त् सू꣡रियो ज्यो꣡तिषा देव꣡ एति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 या॒तम् । अ॒श्वि॒ना॒ । सु॒ऽकृतः॑ । दु॒रो॒णम् । उत् । सूर्यः॑ । ज्योति॑षा । दे॒वः । ए॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *praty* ← *prati*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 **सुमनाः** शोभनमनस्कः **अग्निः** **विभातीनां** व्युच्छन्तीनाम् **उषसाम्** उषोदेवतानां **रत्नधेयं** रत्नधानम् । धनप्रकाशकमित्यर्थः । **अग्रं** **प्रति** पूर्वकालं लक्षीकृत्य **अख्यतः** प्रवृद्धो भवति । हे **अश्विना** अश्विनौ युवां **सुकृतः** यजमानस्य **दुरोणं** गृहम् । दुरोणे' इति गृहनाम ‘दुरोणे दुर्याः । (नि. ३. ४. ७ ) इति गृहनामसु पाठात् । **यातं** गच्छतम् । **सूर्यः** ऋत्विगादीनां प्रेरकः **देवः** **ज्योतिषा** स्वेन तेजसा **उत्** **एति** उषःकाले प्रादुर्भवतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ genre M
 The dawn having appeared the morning fire is to be lighted
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni has looked toward the vanguard of the Dawns—benevolent (Agni)  toward the treasure-conferring of the radiant (Dawns).  
 Drive, Aśvins, to the dwelling of the one of good action. The Sun, the  god, goes up with his light.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI hath looked, benevolently-minded, on the wealth-giving spring of radiant Mornings.  
      Come, Asvins, to the dwelling of the pious: Surya the God is rising with his splendour.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Benevolent Agni has looked on the breaking of the shining dawns, on the bestowal of treasures. Come to the dwelling of the virtuous (mortal), ye Asvins. The god Sûrya rises with his light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni hat den Anbruch der Morgenröten erwartet, der freundlich Gesinnte die Schatzspende der Erstrahlenden. Kommet, ihr Asvin, ins Haus des Frommen! Gott Surya geht mit seinem Lichtglanz auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Morgenröthen Anbruch schaute Agni, das Schatzgeschenk der glänzenden voll Freude, O Ritter, kommet in das Haus des Frommen, der Sonnengott geht auf in hellem Glanze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни заметил начало утренних зорь,  
 (Он,) благожелательный, – раздачу сокровищ сверкающих (зорь).  

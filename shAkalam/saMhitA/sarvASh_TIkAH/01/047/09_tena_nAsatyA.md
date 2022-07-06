@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡न नासतिया꣡ गतं  
 र꣡थेन सू꣡रियत्वचा  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 म꣡ध्वः सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 येन॑ । शश्व॑त् । ऊ॒हथुः॑ । दा॒शुषे॑ । वसु॑ । मध्वः॑ । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
@@ -104,7 +104,7 @@ genre M
 हे **नासत्या** **सूर्यत्वचा** सूर्यसंवृतेन सूर्यरश्मिसदृशेन वा **तेन** प्रसिद्धेन **रथेन** **आ** **गतं** आगच्छतम् । **दाशुषे** हविर्दत्तवते यजमानाय **वसु** धनं **शश्वत्** सर्वदा **येन** रथेन **ऊहथुः** प्रापितवन्तौ । तेन रथेनेति पूर्वत्रान्वयः । किमर्थमागमनमिति तदुच्यते । **मध्वः** मधुरस्य **सोमस्य** **पीतये** सोमपानार्थम् ॥ सूर्यत्वचा। ‘त्वच संवरणे' । त्वचति संवृणोतीति त्वक् रश्मिः । सूर्यस्य त्वगिव त्वग्यस्य । ‘सप्तम्युपमान ' ( पा. सू. २. २. २४. १२) इत्यादिना बहुव्रीहिः उत्तरपदलोपश्च । सूर्यशब्दः ‘ षू  प्रेरणे' इत्यस्मात् क्यपि ‘राजसूयसूर्यः' इत्यादिना रुडागमसहितो निपातितः । ततः प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरेणाद्युदात्तः । स एव बहुव्रीहौ पूर्वपदप्रकृतिस्वरेण शिष्यते । ऊहथुः । वह प्रापणे'। लिटि ' असंयोगाल्लिट् कित् ' ( पा. सू. १. २. ५) इति लिटः कित्त्वे ‘वचिस्वपि' इत्यादिना संप्रसारणम् । अभ्यासहलादिशेषौ सवर्णदीर्घः । प्रत्ययस्वरः । यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,29 +115,29 @@ genre M
 Sun-clad: lit. sun-skinned, sūryatvacā, i.e. surrounded by the sun or like the sun in brightness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Nāsatyas, come by your sun-skinned chariot,  
 by which you have ever conveyed goods to the pious man, in order to  drink of the honeyed soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, O Nasatyas, on your car decked with a sunbright canopy,  
      Whereon ye ever bring wealth to the worshipper, to drink the Soma's pleasant juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet auf dem Wagen mit der sonnenhellen Haut, ihr Asvin, auf dem ihr immer wieder dem Spender Gutes gebracht habt, zum Trunk des süßen Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Treue, auf dem Wagen kommt, der sonnengleiche Decke hat, Auf dem ihr immer dem Verehrer Güter bringt, zum Trunk des süssen Somasafts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Насатьи, выезжайте на той  
 Колеснице с солнечной кожей,  

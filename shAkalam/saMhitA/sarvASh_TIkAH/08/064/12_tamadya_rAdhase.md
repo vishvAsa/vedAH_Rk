@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अद्य꣡ रा꣡धसे महे꣡  
 चा꣡रुम् म꣡दाय घृ꣡ष्वये  
 ए꣡हीम् इन्द्र द्र꣡वा पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । इ॒हि॒ । ई॒म् । इ॒न्द्र॒ । द्रव॑ । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -92,7 +92,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **तं** पूर्वमन्त्र उपवर्णितं **चारुं** चरणशीलं सोमं **महे** महते **राधसे** अस्माकं धनाय तव **घृष्वये** शत्रूणां घर्षणशीलाय **मदाय** **पिब** । हे **इन्द्र** तदर्थं **द्रव** गच्छ शीघ्रं सोमपात्रं प्रति । तदर्थम् **ईम्** इदानीम् **एहि** आगच्छ ॥ ॥ ४५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,29 +103,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Grateful: **cāru** = cāraṇaśīla, quickly moving; in RV 9.61.9 explained as **kalyāṇa** **svarūpa**;foe-crushing exultation: ghṛṣvi = śatrūṇām gharṣaṇaśīla; lively, vehement
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Drink) this delightful one today for (you to show) great generosity, for  thrilling invigoration—  
 come to it, Indra! run! drink!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hasten thou hitherward, and drink this for munificence to-day,  
      Delightful for thine eager draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den trink heute zu großer Freigebigkeit, den angenehmen, zu schenkfrohem Rausche! Komm her, Indra, beeile dich, trinke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu diesem schönen komme heut zu lust'gem Rausch und reichem Lohn, O Indra, komme, lauf und trink.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Пей) сегодня этого привлекательного  
 Для великого дарения, для радостного опьянения!  

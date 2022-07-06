@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पो न꣡ सि꣡न्धुम् अभि꣡ य꣡त् सम꣡क्षरन्  
 सो꣡मास इ꣡न्द्रं कुलिया꣡ इव ह्रद꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡वं न꣡ वृष्टि꣡र् दिविये꣡न दा꣡नुना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वर्ध॑न्ति । विप्राः॑ । महः॑ । अ॒स्य॒ । साद॑ने । यव॑म् । न । वृ॒ष्टिः । दि॒व्येन॑ । दानु॑ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
@@ -132,7 +132,7 @@ genre M
 **यत्** यदा **सोमासः** सोमाः **इन्द्रम्** **अभि** **समक्षरन्** अभिक्षरन्ति । अभिगच्छन्तीत्यर्थः । तत्र दृष्टान्तौ दर्शयति । **आपो** **न** यथा आपः **सिन्धुं** समुद्रमभिसंक्षरन्ति । **कुल्याइव** यथा च कुल्याः **हदम्** अभिसंक्षरन्ति तद्वदित्यर्थः । तदानीम् **अस्य** इन्द्रस्य **महः** महत्त्वं **सदने** यज्ञगृहे **विप्राः** मेधाविनः **वर्धन्ति** । तत्र दृष्टान्तमाह। **यवं** **न** यथा यवं यवसस्यं **वृष्टिः** । कर्तरि कृत् । वर्षिता पर्जन्यः **दिव्येन** दिवि भवेन **दानुना** दानेन वर्षणेन वर्धयति तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ genre M
 The rain: the sender of rain, **vṛṣṭiḥ** = varṣitā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the soma juices have flowed together into Indra, like waters into a  river, like brooks into a pond,  
 the inspired poets at the (sacrificial) seat increase his greatness, like rain  the barley, with the heavenly gift [/drop].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Soma streams together unto Indra flow like waters to the river, rivulets to the lake,  
      In place of sacrifice sages exalt his might, as the rain swells the corn by moisture sent from heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Somatränke sich in Indra ergossen haben wie die Gewässer in die Sindhu, wie die Bäche in den See, dann lassen die Redekundigen am Opfersitz seine Herrlichkeit wachsen wie der Regen durch die himmlische Gabe das Korn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn rings die Soma's, wie die Wasser in das Meer in Indra strömen, wie die Bäche in den See, So mehren Sänger in dem Hause seine Kraft, gleichwie das Korn der Regen durch des Himmels Nass.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда соки сомы влились в Индру,  
 Как воды в Синдху, как ручьи в озеро,  

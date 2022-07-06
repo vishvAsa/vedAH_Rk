@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡म꣡म् अ꣡घ्निया उत꣡  
 श्रीण꣡न्ति धेन꣡वः शि꣡शुम्  
 सो꣡मम् इ꣡न्द्राय पा꣡तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सोम॑म् । इन्द्रा॑य । पात॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhīmam* ← *abhi*
 - \[adverb\]
@@ -80,43 +80,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **उत** अपि च **इमम्** एनं **शिशुं** बालं **सोमम्** **अघ्न्याः** अस्तब्धाः अहन्तव्याः **धेनवः** गावः **इन्द्राय**   **पातवे** पातुम् **अभि** **श्रीणन्ति** । स्वकीयेन पयसा संस्कुर्वन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The inviolable kine mingle this fresh **Soma** with their milk for **Indra** to drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And him do the inviolable milk-cows prepare, as their child,  
 the soma, for Indra to drink.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the openings of vss. 7-9: 7 tám īm / 8 tám īm / 9 abhī̀m(ám).
 
 Pāda c is a slight variant on 1c and sketches a ring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Inviolable milch-kine round about him blend for Indra's drink,  
      The fresh young Soma with their milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und die Milchkühe versehen dieses Junge mit Milch, den Soma für Indra zum Trunke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diesem Kalbe mischen nun die Kühe zu die warme Milch, Dem Soma für des Indra Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И этого теленка украшают  
 Коровы, дойные коровы –  

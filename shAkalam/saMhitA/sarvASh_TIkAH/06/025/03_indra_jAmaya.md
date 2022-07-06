@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र जाम꣡य उत꣡ ये꣡ ऽजामयो  
 अर्वाचीना꣡सो वनु꣡षो युयुज्रे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जहि꣡ वृ꣡ष्ण्यानि कृणुही꣡ प꣡राचः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । ए॒षा॒म् । वि॒थु॒रा । शवां॑सि । ज॒हि । वृष्ण्या॑नि । कृ॒णु॒हि । परा॑चः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -119,36 +119,36 @@ genre M
 हे **इन्द्र** **जामयः** ज्ञातिरूपाः संनिकृष्टा ये शत्रवः। **उत** अपि च **अजामयः** दूरदेशे स्थिता **ये** शत्रवः **अर्वाचीनासः** अस्मदभिमुखाः **वनुषः** हिंसन्तः **युयुज्रे** उद्युक्ता भवन्ति **एषाम्** उभयविधानां शत्रूणां संबन्धीनि **शवांसि** बलानि **विथुरा** विथुराणि हीनानि **त्वं** कुर्विति शेषः । तथा वृष्ण्यानि एषां वीर्याणि **जहि** नाशय । किंच **पराचः** उभयविधान् शत्रून् पराचः पराङ्मुखान् **कृणुहि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Annihilate, **Indra**, the strength of those who, whether kinsmen or unrelated, present themselves before us, exerting themselves as adversaries; enfeeble their prowess, put them to fight.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, the rapacious ones who, kin or not kin, have hitched themselves  up, turning here against us,  
 (render) their powers faltering, smash their bull-like (strengths), put  them far away.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those who array themselves as foes to smite us, O Indra, be they kin or be they strangers,-  
      Strike thou their manly strength that it be feeble, and drive in headlong flight our foemen backward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra! Verwandte und fremde Neider haben wider uns gerüstet, mache deren Macht wanken, schlage ihre Stärke nieder, treib sie in die Flucht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Kämpfern, die, verwandte oder fremde, hierhergewandt, o Indra, sich verbanden, Zerschlage ihre Kräfte, dass sie wanken, und lasse ihre Heldenmacht zerstieben;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, которые родные и неродные  
 Завистники собрались на борьбу против нас, –  

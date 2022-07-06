@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् नु꣡ वोचाम रभसा꣡य ज꣡न्मने  
 पू꣡र्वम् महित्वं꣡ वृषभ꣡स्य केत꣡वे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 युधे꣡व शक्रास् तविषा꣡णि कर्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ऐ॒धाऽइ॑व । याम॑न् । म॒रु॒तः॒ । तु॒वि॒ऽस्व॒नः॒ । यु॒धाऽइ॑व । श॒क्राः॒ । त॒वि॒षाणि॑ । क॒र्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -130,20 +130,20 @@ genre M
 हे **मरुतः** वयं युष्मदीयं **तत्** तादृशं प्रसिद्धं **पूर्वं** पूरकं पूर्वतनं वा **महित्वं** माहात्म्यं **नु** **क्षिप्रं** **वोचाम** ब्रूमः । किमर्थम् । **रभसाय** राभस्ययुक्ताय **जन्मने** वेद्यां प्रादुर्भावाय वेद्यां संनिधानाय इत्यर्थः । तदपि किमर्थमित्यत आह । **वृषभस्य** फलस्य वर्षितुर्यज्ञस्य **केतवे** प्रज्ञानाय । वायुप्रेरणेन मेघागमनं प्रसिद्धम् । हे **तुविष्वणः** गमनसंरम्भेण प्रभूतध्वनियुक्ता हे **शक्राः** सर्वमपि कर्तुं शक्ताः यूयं **यामन्** यामनि यागगमने प्रस्तुते सति **ऐधेव** ऐधानि एधःसंबन्धीनि तेजांसीव प्राप्येण महत्त्वेन **तविषाणि** बलानि सामर्थ्यानि कर्तन कुरुत तत्स्तुम इत्यर्थः । तत्र दृष्टान्तः । **युधेव** युद्धेन तत्तद्युद्धनिमित्तं यथा तविषाणि कुरुथ तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We proclaim eagerly, **Maruts**, your ancient greatness, for (the sake of inducing) your prompt appearance, as the indication of (the approach of) the showerer (of benefits). Loud-roaring and mighty Maruts, you exert your vigorous energies for the advance (to the sacrifice), as if it was to battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We shall now proclaim this to the overpowering race—proclaim their  previous greatness to the beacon of the bull.  
 As if through kindling on your course, you powerfully noisy Maruts, as  if in battle, produce your powers, o able ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It may not be sufficiently clear in the published translation that “the beacon of the bull” refers to the Maruts themselves. They are presumably Indra’s “beacon” because they are regularly his comrades and they are of glittering appearance -- a little bit like Rudolph the Red-nosed Reindeer.
 
@@ -154,23 +154,23 @@ Note the phonological echoes in aidhéva..., yudhéva...; similarly tuviṣvaṇ
 taviṣā́ni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now let us publish, for the vigorous company the herald of the Strong One, their primeval might.  
      With fire upon your way, O Maruts loud of voice, with battle, Mighty Ones, achieve your deeds of strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen nun dem wilden Geschlecht, dem Fähnlein des Bullen Indra von seiner früheren Größe erzählen. Wie mit Feuer übt ihr lautbrausende Marut auf der Fahrt, wie mit Kampf, ihr Mächtigen, eure Kraft aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst rühmen uns dem ungestümen Marutstamm, der Fackel Indra's, ihre alte Grösse jetzt; Erweist lautrauschend, Maruts, nun auf eurer Fahrt, o Helden, eure Kräfte wie durch Glut und Kampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот сейчас мы хотим рассказать буйному роду –  
 Знамени быка о прежнем величии.  

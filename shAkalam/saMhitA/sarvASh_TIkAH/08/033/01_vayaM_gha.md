@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ घ त्वा सुता꣡वन्त  
 आ꣡पो न꣡ वृक्त꣡बर्हिषः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 प꣡रि स्तोता꣡र आसते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प॒वित्र॑स्य । प्र॒ऽस्रव॑णेषु । वृ॒त्र॒ऽह॒न् । परि॑ । स्तो॒तारः॑ । आ॒स॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -94,20 +94,20 @@ genre M
 हे **वृत्रहन** इन्द्र **त्वा** त्वां **वयं** **घ** वयं खलु **सुतवन्तः** सोममभिषुतवन्तः **आपो** **न** आप इव प्रवणमभिगच्छामः । **पवित्रस्य** सोमानां **प्रस्रवणेषु** **वृक्तबर्हिषः** स्तीर्णबर्हिषः **स्तोतारः** च त्वां पर्युपासते । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We are pouring forth to you **Soma** like water; the praisers, strewing the clipped sacred grass, worshipyou, slayer of **Vṛtra**, in the streams (falling) from the filter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We who are provided with pressings, with the twisted ritual grass,  like waters at the outpourings of the strainer, take our seats around you,  
 Vr̥tra-smasher, as praisers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse has at least one clear subject (vayám ‘we’ in a) and one clear verb (3rd pl. pári … āsate ‘sit around’ in d), but they do not match grammatically.
 
@@ -117,23 +117,23 @@ vs. 2 and the parallels he cites in his n. for singers and waters as subjects of
 The other problem is the application of the simile “like waters” in b. It is not immediately clear why we are like waters. I would like to connect the simile to the phrase pavítrasya prasrávaneṣu in c and suggest that the waters go in circles at this outpouring just as we take our seats in a circle. It is also possible that the waters are being compared to the pressings in the adjective sutā́vantaḥ “provided with pressings, (which are) like waters.” On both difficulties in this verse, see detailed discussion by Oldenberg
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WE compass thee like waters, we whose grass is trimmed and Soma pressed.  
      Here where the filter pours its stream, thy worshippers round thee, O Vrtra-slayer, sit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei ausgepreßtem Soma und herumgelegtem Barhis brausen wir dich an wie die Gewässer. Die Sänger sitzen herum an den Quellen der Seihe, o Vritratöter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir Sänger sitzen um dich her, dir Soma bringend Strömen gleich, Nachdem die Streu, o Vritratödter, wir geschmückt er bei der Somaseihe Strom.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это мы, выжав (сому), разложив жертвенную солому,  
 (Стремимся) к тебе, словно воды (в низину).  

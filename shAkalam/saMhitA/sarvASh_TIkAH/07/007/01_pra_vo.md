@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो देवं꣡ चित् सहसान꣡म् अग्नि꣡म्  
 अ꣡श्वं न꣡ वाजि꣡नं हिषे न꣡मोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्म꣡ना देवे꣡षु विविदे मित꣡द्रुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 भव॑ । नः॒ । दू॒तः । अ॒ध्व॒रस्य॑ । वि॒द्वान् । त्मना॑ । दे॒वेषु॑ । वि॒वि॒दे॒ । मि॒तऽद्रुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -128,14 +128,14 @@ genre M
 हे अग्ने **वः** त्वां **देवं** द्योतमानादिगुणयुक्तं **सहसानं** राक्षसानभिभवन्तं बलमाचरन्तं वा **अग्निम्** अग्रस्य नेतारम् **अश्वं** **न** अश्वमिव **वाजिनं** वेगवन्तं बलवन्तं वा नमोभिः स्तुतिभिर्हविर्भिर्वा **प्र** **हिषे** हे अग्ने त्वां **चित्** प्रहिणोम्येव । किंच हे अग्ने त्वं **विद्वान्** जानन् **नः** अस्माकम् **अध्वरस्य** यज्ञस्य **दूतः** **भव** । अथ परोक्षस्तुतिः। **त्मना** आत्मना स्वयमेव **देवेषु** **मितद्रुः** दग्धद्रुमोऽग्निरिव **विविदे** प्रज्ञायते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I propitiate with oblations the divine, vigorous **Agni**, rapid as a horse; do you, knowing (our desires), beour messenger of the sacrifice; he, the consumer of forests, is known spontaneously among the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you I shall urge on Agni like a prizewinning horse, the very god  acting with strength, by my homage:  
 
@@ -143,23 +143,23 @@ For you I shall urge on Agni like a prizewinning horse, the very god  acting wit
 measured pace, he has been found among the gods in his own person.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I SEND forth even your God, victorious Agni, like a strong courser, with mine adoration.  
      Herald of sacrifice be he who knoweth he hath reached Gods, himself, with measured motion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren übermächtigen Agni, obwohl er ein Gott ist, sporne ich unter Verbeugungen an wie ein sieggewohntes Roß. Sei unser kundiger Bote des Opfers. Von selbst hat er festen Schrittes zu den Göttern den Weg gefunden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich sende euren Gott, den starken Agni, in Demuth vor gleich einem schnellen Rosse, Sei unser kund'ger Bote bei dem Opfer; er zeigte sich schnell laufend auch bei Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самого бога Агни могущественного,  
 Словно коня, приносящего награды, я погоняю для вас с поклонами.  

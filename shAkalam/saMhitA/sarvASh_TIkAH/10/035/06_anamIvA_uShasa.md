@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनमीवा꣡ उष꣡स आ꣡ चरन्तु न  
 उ꣡द् अग्न꣡यो जिहतां ज्यो꣡तिषा बृह꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अयु॑क्षाताम् । अ॒श्विना॑ । तूतु॑जिम् । रथ॑म् । स्व॒स्ति । अ॒ग्निम् । स॒म्ऽइ॒धा॒नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anamīvā* ← *anamīvāḥ* ← *anamīva*
 - \[noun\], nominative, plural, feminine
@@ -134,37 +134,37 @@ genre M;; repeated line
 **अनमीवाः** रोगरहिताः **उषसः** **नः** अस्मान् **आ** **चरन्तु** आगच्छन्तु । **बृहत्** बृहता महता **ज्योतिषा** तेजसा युक्ताः **अग्नयः** अपि **उत्** **जिहताम्** उद्गच्छन्तु । **अश्विना** अश्विनावपि **तूतुजिं** क्षिप्रगामिनं **रथम्** **आयुक्षाताम्** । अस्मान् प्रत्यागन्तुं रासभाभ्यां युङ्क्ताम् । **हरित** आदित्यस्य रासभावश्विनोः ' ( नि. १. १५. ३-४ ) इति पाठात् । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the salutary dawns hasten to us; may the fires blaze up with great lustre, and may the Aśvinsharness their quick-going chariot; we solicit the kindled fire for our welfare.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the dawns without affliction attend upon us; let the fires rear up  loftily with their light.  
 Let the Aśvins hitch up their thrusting chariot. – We beseech Agni,  
 when he is kindled, for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Free from all sickness may the Mornings come to us, and let our fires mount upward with a lofty blaze.  
      The Asvin Pair have harnessed their swift-moving car. We pray to kindled Agni for felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Krankheit sollen uns die Usas kommen, hoch sollen mit ihrer Helle die Feuer emporschlagen. Die Asvin haben ihren eiligen Wagen geschirrt. - Um Heil bitten wir den entflammten Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Morgen mögen zu uns kommen ohne Leid, die Feuer hell erheben sich mit ihrem Licht, Den raschen Wagen schirrten schon die Ritter sich; um Segen flehn wir den entflammten Agni an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Без болезней пусть придут к нам утренние зори!  
 Высоко пусть вздымаются костры со (своим) светом!  

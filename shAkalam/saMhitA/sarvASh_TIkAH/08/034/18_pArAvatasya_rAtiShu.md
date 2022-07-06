@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पा꣡रावतस्य राति꣡षु  
 द्रव꣡च्चक्रेषु आशु꣡षु  
 ति꣡ष्ठं व꣡नस्य म꣡ध्य आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 तिष्ठ॑म् । वन॑स्य । मध्ये॑ । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pārāvatasya* ← *pārāvata*
 - \[noun\], genitive, singular, masculine
@@ -81,7 +81,7 @@ genre M
 तेषु **पारावतस्य** **रातिषु** देयेषु **द्रवच्चक्रेषु** द्रवद्रथचक्रेषु **आशुषु** अश्वेषु । ‘तार्क्ष्यः आशुः' इत्यश्वनामसु पाठात् । प्रतिगृहीतेषु सत्सु **धनस्य** **मध्ये** **आ** **तिष्ठम्** इति वसुरोचिषां सहस्रं वदति ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,37 +92,37 @@ genre M
 Given from afar: pārāvatasya rātiṣu: **pārāvata** = name of a king; the gift ofParāvata
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Amid the gifts of Pārāvata [/the one from afar (=Indra?)], amid the  swift (chariots) with speeding wheels,  
 I mounted on the middle of the wood(en chariot?) here.  
 The next four hymns (VIII.35–38) are attributed to Śyāvāśva Ātreya, whose Marut  cycle in Maṇḍala V (52–61) is one of the glories of that dazzling book, and who is  also the composer of a single hymn in the Soma Maṇḍala (IX.32).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The apparent PN Pārāvata (‘who comes from afar’) apparently naming the patron makes sense as a speaking name in this hymn, which emphasizes the coming here of Indra from distant places and allows the identification of patron and Indra.
 
 Note that the last word of the hymn is ā́, as it was the first (and it opens twelve of the hymn’s verses).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mid the Pargvata's rich gifts, swift steeds whose wheels run rapidly,  
      I seemed to stand amid a wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter den Geschenken des Paravata stand ich, unter den Rennern, denen die Räder schnell laufen, inmitten des Holzes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei den Spenden des Pārāvata, den Rossen mit schnelllaufenden Wagen, stieg ich mitten auf das Wagengestell (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стою я среди даров Параваты,  
 Среди быстро вертящихся колес,  

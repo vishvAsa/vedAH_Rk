@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ इन्द्रावरुणा विश्व꣡वारं  
 रयिं꣡ धत्तं व꣡सुमन्तम् पुरुक्षु꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡मिता शू꣡रो दयते व꣡सूनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । यः । आ॒दि॒त्यः । अनृ॑ता । मि॒नाति॑ । अमि॑ता । शूरः॑ । द॒य॒ते॒ । वसू॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], dative, plural
@@ -111,7 +111,7 @@ genre M
 हे इन्द्रावरुणौ **अस्मे** अस्मभ्यं **रयिं** धनं **धत्तं** प्रयच्छतम् । कीदृशम् । **विश्ववारं** विश्वैः सर्वैर्वरणीयं संभजनीयं **वसुमन्तं** निवासयुक्तं **पुरुक्षुं** बह्वन्नं पुरुभिर्बहुभिः प्रशस्यं वा । **आदित्यः** अदितेः पुत्रः **यः** वरुणः **अनृता** अनृतानि सत्यरहितानि भूतानि **प्र** **मिनाति** प्रहिनस्ति ।  ‘ मीञ् हिंसायाम्' इति धातुः । **शूरः** शौर्यवान् स वरुणः **अमिता** अमितान्यपरिमितानि **वसूनि** धनानि **दयते** स्तोतृभ्यो ददाति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ genre M
 Āditya:or the son of **Aditi** = Varuṇa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On us, o Indra and Varuṇa, bestow wealth granting every wish, rich in  goods and many cattle.  
 If the Āditya [=Varuṇa] confounds untruths, the champion [=Indra]  apportions immeasurable goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra-Varuna, vouchsafe us riches with store of treasure, food, and every blessing;  
      For the Aditya, banisher of falsehood, the Hero, dealeth wealth in boundless plenty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet uns allbegehrten Besitz an Gütern und vielem Vieh, Indra und Varuna! Während der Aditya dem Unrecht vorbeugt, teilt der Held unermeßliche Schätze aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebt uns Besitz, o Varuna und Indra, der reich an schönen Gütern sei und Speisen; Der altes Unrecht tilget, der Aditja, der Held ertheilet ungemessnen Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нам, о Индра-Варуна, даруйте богатство,  
 Состоящее из всего избранного, полное благ, обильное скотом! –  

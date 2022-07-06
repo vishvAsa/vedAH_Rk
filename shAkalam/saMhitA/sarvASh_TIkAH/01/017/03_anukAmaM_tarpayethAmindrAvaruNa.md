@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनुकामं꣡ तर्पयेथाम्  
 इ꣡न्द्रावरुण राय꣡ आ꣡  
 ता꣡ वां ने꣡दिष्ठम् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ता । वा॒म् । नेदि॑ष्ठम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anukāmaṃ* ← *anukāmam* ← *anukāma*
 - \[noun\], accusative, singular, masculine
@@ -76,43 +76,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इन्द्रावरुणा** हे इन्द्रावरुणौ **अनुकामम्** अस्मदीयाभिलाषमनु **रायः** धनस्य प्रदानेन **आ** तर्पयेथां सर्वतोऽस्मांस्तृप्तान् कुरुतम् । वयं यदा यदा धनं कामयामहे तदा तदा प्रयच्छतमित्यर्थः । **ता** **वां** तादृशौ युवां **नेदिष्ठम्** अतिशयेन सामीप्यं यथा भवति तथा **ईमहे** याचामहे । कालविलम्बमन्तरेण धनं दातव्यमित्यर्थः । सप्तदशसु याञ्चाकर्मसु  ‘ ईमहे ' (नि. ३. १९. १) इति पठितम् ॥ अनुकामम् । कामस्य पश्चादनुकामम् । अथवा कामे कामेऽनुकामम् । अनुः इह पश्चादथें अथवा वीप्सालक्षणे यथार्थे । योग्यता वीप्सा पदार्थानतिवृत्तिः सादृश्यं चेति चत्वारो हि यथार्था गृहीताः ।  ‘ अव्ययं विभक्ति ' ( पा. सू. २. १. ६ ) इत्यादिना अव्ययीभावसमासः ।  ‘ अव्ययीभावश्च ' ( पा. सू. १. १. ४१ ) इति अव्ययसंज्ञायाम् “ अव्ययादाप्सुपः ' ( पा. सू. २. ४. ८२ ) इति प्राप्तस्य लुकोऽपवादो नाव्ययीभावादतोऽम् त्वपञ्चम्याः' ( पा. सू. २. ४.८३) इति विभक्तेः अमादेशः ।  ‘ समासस्य ' इत्यन्तोदात्तत्वम् । तर्पयेथाम् । तृपेर्ण्यन्तात् लोटो ‘णिचश्च' ( पा. सू. १. ३. ७४ ) इत्यात्मनेपदम् । मध्यमद्विवचनम् आथाम् । टेः एत्वे ‘आमेतः' (पा. सू. ३. ४. ९० ) इति आमादेशः । शपि सति ‘अतो येयः' ( पा. सू. ७. २. ८०) इति आकारस्य इयादेशः ‘। आद्गुणो यलोपश्च । इन्द्रावरुणा ।  ‘ सुपां सुलुक् ' इति द्विवचनस्य आकारः । आमन्त्रिताद्युदात्तत्वम् । संहितायाम् आकारस्य ह्रस्वत्वम्। रायः । ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् । ता । 'सुपां सुलुक् ' इति विभक्तेः आकारः । पदात्परत्वात् युवामित्यस्य वामादेशोऽनुदात्तः । नेदिष्ठम् । अतिशयेन अन्तिकम् । अतिशायने इष्ठन् । “ अन्तिकबाढयोर्नेदसाधौ ' ( पा. सू. ५. ३. ६३ ) इति नेदादेशः ।  ‘ यस्य' इति लोपः । इष्ठनो नित्त्वादाद्युदात्तत्वम् । ईमहे ।“ ईङ् गतौ ' । ङित्त्वादात्मनेपदम् ।  ‘ बहुलं छन्दसि ' इति श्यनो लुक् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Satisfy us with wealth, **Indra** and **Varuṇa**, according to our desires; we desire you ever near us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Satisfy (us) according to our desire from your wealth, o Indra and  Varuṇa.  
 We beseech you two for closest (friendship).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The other standard translations take tarpayethām as a self-beneficial reflexive “satisfy yourselves” with anukāmám referring to the gods’ desire (e.g., Geldner “freuet euch nach Herzenslust”; Renou “Rassasiez-vous à votre gré”), but this doesn’t make sense. The whole hymnic context depicts Indra and Varuṇa as givers, not takers, and it’s not clear to me that gods ever desire wealth, per se. It is much more likely that the poet is asking the gods to grant us wealth, and that the kā́ma is the mortals’, not the gods’. For further discussion, with a strikingly parallel usage, see Jamison 1983: 140-41 and esp. n. 73, though I would not now emend the text to ánu kā́mam, as I suggested there. Curiously, though Geldner translates the verb as a reflexive, he goes to elaborate pains to interpret the whole phrase as urging the gods to give us their wealth, in other words much the same meaning as I favor.
 
 In b rāyá ā́is ambiguous as to case; it could be either dat. rā́ye or abl./gen. rā́yas (so Pp.). Geldner takes it as a gen., construed with anukāmám, but rā́ya ā́is a fairly well-established expression (e.g., I.81.7, III.56.6) and the rā́ya seems too distant from anukāmám to be naturally construed with it. Most other tr. seems to favor the dat. (see esp. disc. of Oldenberg ad loc, also Renou), but I weakly favor an abl. reading “from (your) wealth.” A further question is what noun to supply with nédiṣṭham ‘closest’ or what else to do with it. Geldner suggests ‘wealth’ in a note; Renou seems to take the word as adverbial (“de la manière la plus proche,” whatever that means). My supplied “friendship” is based on two occurrences of ā́pyam (VII.15.1, VIII.73.6) and one of āpím ‘friend’ with nédiṣṭham. Esp. telling is VIII.73.6 nédiṣṭhaṃ yāmy ā́pyam “I beseech (you two) for closest friendship,” with the same verb as here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sate you, according to your wish, O Indra-Varuna, with wealth:  
      Fain would we have you nearest us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Freut euch nach Herzenslust des Reichtums, Indra und Varuna; euch bitten wir um den nächsten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach eurer Lust ergötzet euch an Gaben, Indra-Varuna, Euch wünschen wir ganz nah herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайтесь вволю,  
 О Индра-Варуна, чтобы (дать потом) богатство!  

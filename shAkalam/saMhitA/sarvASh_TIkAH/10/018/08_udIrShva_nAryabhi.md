@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् ईर्ष्व नारि अभि꣡ जीवलोकं꣡  
 गता꣡सुम् एत꣡म् उ꣡प शेष ए꣡हि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡त्युर् जनित्व꣡म् अभि꣡ स꣡म् बभूथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ह॒स्त॒ऽग्रा॒भस्य॑ । दि॒धि॒षोः । तव॑ । इ॒दम् । पत्युः॑ । ज॒नि॒ऽत्वम् । अ॒भि । सम् । ब॒भू॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -133,7 +133,7 @@ popular
 हे **नारि** मृतस्य पत्नि **जीवलोकं** जीवानां पुत्रपौत्रादीनां लोकं स्थानं गृहमभिलक्ष्य **उदीर्ष्व** अस्मात् स्थानादुत्तिष्ठ। ईर गतौ' आदादिकः । **गतासुम्** अपक्रान्तप्राणम् **एतं** पतिम् **उप** **शेषे** तस्य समीपे स्वपिषि । तस्मात्त्वम् **एहि** आगच्छ यस्मात्त्वं **हस्तग्राभस्य** पाणिग्राहं कुर्वतः **दिधिषोः** गर्भस्य निधातुः **तव** अस्य **पत्युः** संबन्धादागतम् **इदं** **जनित्वं** जायात्वमभिलक्ष्य **सं** **बभूथ** संभूतासि अनुमरणनिश्चयमकार्षीः तस्मादागच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,35 +144,35 @@ popular
 This verseis to be spoken by the husband's brother, etc., to the wife of the dead man, and he is to make her leave herhusband's body: (**Āśvalāyana Gṛhya Sūtra**, 4.2); go to beings = go to the home of the living, i.e., your sons,grandsons etc.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Arise, woman, to the world of the living. You lie beside him whose life  is gone. Come here!  
 You have come into existence now as wife of a husband who has  
 grasped your hand and wishes to have you.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rise, come unto the world of life, O woman: come, he is lifeless by whose side thou liest.  
      Wifehood with this thy husband was thy portion, who took thy hand and wooed thee as a lover.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Arise, come to the world of life, O woman; Thou liest here by one whose breath has left him. Come: thou hast entered upon the wifehood Of this thy lord who takes thy hand and woos thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erhebe dich, o Weib, zur Welt der Lebenden; du liegst bei diesem Entseelten, komm! Du bist eingetreten in diesen Ehestand mit einem Gatten, der deine Hand ergreift und dich besitzen will.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhebe dich, o Weib, zur Welt des Lebens; du liegst vor dem, dess Hauch entflohn ist, komm nun; Der deine Hand einst fasste und dich freite, des Gatten Ehe hast du nun vollendet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восстань, о женщина, к миру живых!  
 Ты лежишь рядом с этим бездыханным, иди сюда!  

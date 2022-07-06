@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय सो꣡माः प्रदि꣡वो वि꣡दाना  
 ऋभु꣡र् ये꣡भिर् वृ꣡षपर्वा वि꣡हायाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र पि꣡ब वृ꣡षधूतस्य वृ꣡ष्णः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽय॒म्यमा॑नान् । प्रति॑ । सु । गृ॒भा॒य॒ । इन्द्र॑ । पिब॑ । वृष॑ऽधूतस्य । वृष्णः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 माध्यन्दिने सवनेऽच्छावाकस्य प्रस्थितयाज्येन्द्राय सोमाः प्रदिव इत्येषा । सूत्रितं च । इन्द्राय सोमाः प्रदिवो विदाना आपूर्णो अस्य । आ. ५-५ । इति ॥हे इन्द्र इन्द्राय तुभ्यं सोमाः प्रदिवः प्रगतेषु पूर्वेश्वहःसु विदानाः । अस्मभिरम्भिताः । वृषपुर्वः । व्रुषाणः फलस्य वर्षकाः पर्वाणि कालावयवा वर्षाद्या यस्य स तथोक्तः । कालात्मक इत्यर्थः । अत एव विहायाः । विजहात्युत्सृजत्यर्थानर्थिभ्य इति विहाया महान् । तादृश इन्द्रो येभिर्यैर्दत्तैः सोमैरृभुर्दीप्तो वर्तते हे इन्द्र त्वं प्रयम्यमानान् प्रकर्षेण मन्त्रैरुपयम्यमानानिमान्सोमान् सु सुष्ठु प्रति गृभाय । प्रतिहृहाण । गृहीत्वा च वृषधूतस्य वृशभिर्ग्रावभिरभिषुतं वृष्णः स्वर्गादिफलवर्षकमिमं सोमं पिब ॥ प्रदिवः । दिवु क्रीडादौ । क्विप् । कालाध्वनोरत्यन्तसंयोग इति द्वितीया । दिव् शब्दो दिवसवाची । कृदुत्तरपदस्वरः । विदानाः । विद्लृ लाभ इत्यस्य व्यत्ययेन शानच् । बहुलं छन्दसीति विकरणस्य लुक् । विहायाः । ओहाक् त्यागे । वहिहाधाञ्भ्यश्छन्दसीत्यसुन् । णिदित्यनुवृत्तेरातो युक् चिण्कृतोरिति युगागमः । गातिकारकयोरिति पूर्वपदप्रकृतिस्वरत्वम् । गृभाय । ग्रह उपादान इत्यस्य लोटि हौ श्नाप्रत्ययस्य छन्दसि शायजपीति शायजादेशः । हृग्रहोर्भ इति भत्वम् । अते हेरिति हेर्लुक् । निघातः ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,35 +133,35 @@ Vṛṣaparvā= he on whom the rainy season and other divisions of time parvā�
 Vṛṣṇaḥ = Soma that bestows **svarga** and such other benefits; grāvabhir abhiṣūtam, expressed by the stones used for the purpose; using the same idea of their being showerers or bestowers of blessings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From olden days the soma drinks are known to Indra, because of which  he, the craftsman, has bullish joints and extensive power.  
 Grasp at (the drinks) being offered; Indra, drink of the bull, rinsed  
 by bulls.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vídānāḥ is another -- very clear -- example of a tense-stem participle serving as predicate. Pace Grassmann (fld. by Renou) it most likely belongs to ‘know’ rather than ‘find’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra were the Somas erst- discovered, whereby he grew strong-jointed, vast, and skilful.  
      Indra , take quickly these presented juices: drink of the strong, that which the strong have shaken.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Indra sind seit lange die Somatränke bekannt, durch die er wie Ribhu starkgliederig ward, zu voller Kraft gelangt. Nimm die dargebotenen doch ja an; trink, Indra, von dem bullenstarken, von dem von Bullenstarken im Wasser Geschwenkten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra ist von je geweiht der Soma, durch den er kunstreich, gliederstark und gross wird, Ergreife, Indra, schnell den dargereichten, den starken trink, den Starke dir gekeltert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индре соки сомы знакомы от века,  
 (Те,) благодаря которым он (стал) умелым, с мощными суставами, здоровым.  

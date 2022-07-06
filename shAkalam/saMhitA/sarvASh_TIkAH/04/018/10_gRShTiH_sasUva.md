@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गृष्टिः꣡ ससूव स्थ꣡विरं तवागा꣡म्  
 अनाधृष्यं꣡ वृषभं꣡ तु꣡म्रम् इ꣡न्द्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वयं꣡ गातुं꣡ तनु꣡व इछ꣡मानम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अरी॑ळ्हम् । व॒त्सम् । च॒रथा॑य । मा॒ता । स्व॒यम् । गा॒तुम् । त॒न्वे॑ । इ॒च्छमा॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gṛṣṭiḥ* ← *gṛṣṭi*
 - \[noun\], nominative, singular, feminine
@@ -111,21 +111,21 @@ popular
 **गृष्टिः** काचित् गौः **वत्सं** यथा **ससूव** सुषुवे । तथा **माता** इन्द्रजनन्यदितिः **चरथाय** स्वेच्छया संचरणाय इन्द्रं ससूव सुषुवे । कीदृशमिन्द्रम् । **स्थविरं** वयसा प्रवृद्धं **तवागां** प्रवृद्धबलम् **अनाधृष्यं** शत्रुभिरनभिभाव्यं **वृषभं** सेचनसमर्थं तुम्रं प्रेरकम् **अरीळ्हं** शत्रुभिरनभिभूतं **स्वयं** **गातुम्** अन्यनिरपेक्षगमनं **तन्वे** स्वशरीराय **इच्छमानम्** इच्छन्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As a helper bears a calf, his mother, (**Aditi**), bore **Indra**, mature (in years), strong, irresisitble, vigorous, energetic, invincible, (destined) to follow his own course, heedful of his person n.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Narrator:] The heifer gave birth to the sturdy, powerfully charging,  unassailable bull, the brawny Indra.  
 The unlicked calf—his mother impelled him to wander, seeking by  
 himself a way for himself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Contra the standard tr. and interpr., I take āha as 1st sg. This is the summary vs. of the hymn (with vs. 11 simply the Vāmadeva Indra refrain), and in such vss. the poet often speaks in his own person or that of the group, referring to the hymn that has just been recited. This vs. entirely fits that pattern. I also interpr. the enclitic te not only as a genitive with the deeds, but also as a dative with the part.
 
@@ -134,23 +134,23 @@ vidúṣe, identifying Indra as the knowing audience. (And who better than Indra
 On svágūrta- see comm. ad VI.68.4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Heifer hath brought forth the Strong, the Mighty, the unconquerable Bull, the furious Indra.  
      The Mother left her unlicked Calf to wander, seeking himself, the path that he would follow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kalbin gebar den stämmigen, starken, unangreifbaren Bullen, den kräftigen Indra. Die Mutter ließ das Kalb ungeleckt laufen, das sich selbst seinen Weg sucht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die junge Kuh gebar den starken, raschen, den feisten Stier, den unbezwungnen Indra; Das ungeleckte Kalb entlässt zum Gehn sie; das durch sich selbst schon seinen Weg sich suchte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Телка породила могучего, яростно рвущегося,  
 Неодолимого, крепкого быка Индру.  

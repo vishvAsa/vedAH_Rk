@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चरि꣡त्रं हि꣡ वे꣡र् इवा꣡छेदि पर्ण꣡म्  
 आजा꣡ खेल꣡स्य प꣡रितक्मियायाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ध꣡ने हिते꣡ स꣡र्तवे प्र꣡त्य् अधत्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒द्यः । जङ्घा॑म् । आय॑सीम् । वि॒श्पला॑यै । धने॑ । हि॒ते । सर्त॑वे । प्रति॑ । अ॒ध॒त्त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *caritraṃ* ← *caritram* ← *caritra*
 - \[noun\], nominative, singular, neuter
@@ -114,7 +114,7 @@ genre M
 अगस्त्यपुरोहितः खेलो नाम राजा । तस्य संबन्धिनी विश्पला नाम स्त्री संग्रामे शत्रुभिश्छिन्नपादा आसीत्। पुरोहितेनागस्त्येन स्तुतावश्विनौ रात्रावागत्य अयोमयं पादं समधत्ताम् । तदेतदाह। **आजा** आजौ संग्रामे अगस्त्यपुरोहितस्य **खेलस्य** संबन्धिन्याः विश्पलाख्यायाः **चरित्रं** चरणं **वेरिव** वेः पक्षिणः **पर्णं** पतत्रमिव **अच्छेदि** **हि** पुरा छिन्नमभूत् खलु । हे अश्विनौ युवामगस्त्येन स्तुतौ सन्तौ **परितक्म्यायाम्** । परितक्म्या रात्रिः ।' परित एनां तकति ( निरु. ११. २५) इति यास्कः । एनामुभयतः सूर्यों गच्छतीति तस्यार्थः । रात्रावागत्य **सद्यः** तदानीमेव **हिते** शत्रुषु निहिते **धने** जेतव्ये विषयभूते सति **सर्तवे** सर्तुं गन्तुं **विश्पलायै** 'आयसीम् अयोमयीं **जङ्घां** जङ्घोपलक्षितं पादं **प्रत्यधत्तम्** । संधानमेकीकरणं कृतवन्तावित्यर्थः ॥ चरित्रम् । अर्तिलूधूसूखनसहचर इत्रः' इति करणे इत्रः । आजा । ‘सुपां सुलुक्' इति विभक्तेर्डादेशः । आयसीम् । अयःशब्दाद्विकारार्थे ‘प्राणिरजतादिभ्योऽञ्' (पा. सू. ४. ३. १५४ )। टिड्ढाणञ्” ' इति ङीप्॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ genre M
 Khela was a king; **Agastya** was his **purohita**. Through his prayers the **Aśvins** gave **Viśalā** a metallic leg
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because her foot was cut away like the wing of a bird, in the contest of  Khela, at the decisive turn,  
 right away you inserted a metal shank for Viśpalā to run, when the  stake had been set.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When in the time of night, in Khela's battle, a leg was severed like a wild bird's pinion,  
      Straight ye gave Vispala a leg of iron that she might move what time the conflict opened.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ihr im Wettkampf des Khela in der Entscheidung ein Bein abgeschnitten war wie der Flügel eines Vogels, setztet ihr der Vispala sofort ein eisernes Bein an, daß sie um den ausgesetzten Preis laufen konnte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im harten Kampf des Khela war der Fuss ihr, wie eines Vogels Fittig, abgeschnitten, Ihr setztet ihr sogleich ein ehern Bein an, der Viçpala, zum Kampfpreis hinzueilen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так как нога была отрезана, словно крыло у птицы,  
 В решающий момент в состязании Кхелы,  

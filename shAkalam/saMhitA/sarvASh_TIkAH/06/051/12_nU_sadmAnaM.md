@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ सद्मा꣡नं दिवियं꣡ नं꣡शि देवा  
 भा꣡रद्वाजः सुमतिं꣡ याति हो꣡ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡नां ज꣡न्म वसूयु꣡र् ववन्द
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ॒सा॒नेभिः॑ । यज॑मानः । मि॒येधैः॑ । दे॒वाना॑म् । जन्म॑ । व॒सु॒ऽयुः । व॒व॒न्द॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -106,20 +106,20 @@ genre M
 अनया ऋषिरात्मानं परोक्षवदाह । हे **देवाः** **भारद्वाजः** भरद्वाजगोत्रजः **होता** स्तोता अयमृषिः **दिव्यं** दिवि भवं **सद्मानं** सदनं स्थानं **नु** क्षिप्रं **नंशि** व्याप्नोतु । तथा **सुमतिं** शोभनां मतिं युष्मदीयामनुग्रहबुद्धिं च **याति** याचते । यातिर्याञ्चाकर्मा । तदर्थम् **आसानेभिः** आसीनैः सत्रासनं कुर्वद्भिः **मियेधैः** मेध्यैर्मेधार्हैः अन्ययजमानैः सार्धं **यजमानः** यागं कुर्वन्नयमृषिः **वसूयुः** वसूनि धनान्यात्मन इच्छन् **देवानां** **जन्म** जनं संघं **ववन्द** वन्दते । स्तौति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the preseenter of the oblation, **Bharadvāja**, quickly obtain, gods, a celestial abode, as he solicits your good-will; the instrumental tutor of the ceremony, together with pious associates, desirous of riches, glorifies the assembly of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To attain the one whose seat is in heaven, o gods, the Hotar of the  Bhāradvājas now begs for favor.  
 Sacrificing with the ritual meals set here, desiring goods, he has extolled  the breeds of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As disc. in the published introduction, this is the final vs. of the first hymn in this composite group and as such summarizes the just-concluded hymn and asks for divine favor, naming the poet, or rather his family.
 
@@ -130,23 +130,23 @@ and calls it an injunc. but with ? (By contrast Hoffmann won’t commit to an an
 In the context of later śrauta ritual, the application of hotā́and yájamānaḥ to the same individual would be strange. But the ritual roles so distinct in middle Vedic śrauta texts are by no means clearly parceled out in the RV, and in particular yájamāna- does not usually identify a particular ritual role but acts as an attributive participle, as I think it does here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come now, O Gods, to your celestial station: the Bharadvajas' priest entreats your favour.  
      He, sacrificing, fain for wealth, hath honoured the Gods vath those who sit and share oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Möchte ich doch zur himmlischen Bewohnerschaft dringen, ihr Götter. Der Opferpriester aus dem Bharadvajageschlecht geht euch um Gunst an. Mit den sitzenden Opfergenossen opfernd hat er das Geschlecht der Götter, Gut begehrend, gelobt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun hat Bharadvadscha den himmlichen Sitz erreicht, o Götter; zu hoher Gunst gelangt er, der Priester; opfernd mit den aufgetragenen Speisen hat er das Geschlecht der Götter nach Gut verlangend verehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот хотел бы я попасть в небесное поселение, о боги!  
 Хотар из рода Бхарадваджей идет за вашей милостью.  

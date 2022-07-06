@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ तातृषु꣡र् देवत्रा꣡ जे꣡हमाना  
 होत्रावि꣡द स्तो꣡मतष्टासो अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सत्यइः꣡ कव्यइः꣡ पितृ꣡भिर् घर्मस꣡द्भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । अ॒ग्ने॒ । या॒हि॒ । सु॒ऽवि॒दत्रे॑भिः । अ॒र्वाङ् । स॒त्यैः । क॒व्यैः । पि॒तृऽभिः॑ । घ॒र्म॒सत्ऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -116,36 +116,36 @@ popular
 **देवत्रा** देवान् **जेहमानाः** क्रमेण गच्छन्तः । क्रमेण देवत्वं प्राप्ता इत्यर्थः । **होत्राविदः** यज्ञान् सम्यक् कर्तुं वेदितारः **अर्कैः** अर्चनीयैः स्तोत्रैः **स्तोमतष्टासः** स्तोमानां च सम्यक्कर्तारः **ये** पितरः **तातृषुः** तृष्यन्ति हे **अग्ने** त्वं तैः **पितृभिः** **अर्वाङ्**  अस्मदभिमुखः **आ** **याहि** आगच्छ । कीदृशैः । **सुविदत्रेभिः** सुविदत्रैः सत्यैः अविसंवादिभिः **कव्यैः** । कव्यं नाम पितृदेवत्यं हविः । तत्संबन्धिभिः । यद्वा कव्यैः कविभिर्मेधाविभिः । स्वार्थिको यत् । **घर्मसद्भिः** यज्ञसादिभिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Agni**, to our presence with the **Pitṛs**, who are possessed of knowledge, who having attained aseat among the gods, thirst (for the **Soma**), skilled in sacrifices, reciters of praises with hymns, truth-speaking,seers, frequenters of sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who have thirsted, panting, among the gods, those knowing the  priestly functions, those fashioned by praise along with chants—  
 with them, o Agni, drive here, turned this way—with the forefathers who  are good to find and truly here, the poets who sit by the gharma drink.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us, Agni, with the gracioug Fathers who dwell in glowing light, the very Kavyas,  
      Who thirsted mid the Gods, who hasten hither, oblation winners, theme of singers' praises.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die bei den Göttern lechzend gedürstet haben, die Opferkundigen, die ihre Loblieder zu Preisgesängen formten, mit den leicht aufzufindenden komme näher, o Agni, mit den wahrhaftigen Kavya´s, den Vätern, die beim Gharma sitzen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die bei den Göttern sitzend, lechzend dürsten, die Opfer kennend, mit Gesang gepriesen, Mit denen, Agni, komm, den holden Vätern, den treuen, weisen, die im Lichte wohnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто мучился жаждой среди богов, изнывая,  
 Знатоки жертвы, чьи восхваления выразились в песнях, -  

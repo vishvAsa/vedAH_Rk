@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् मातृ꣡भिर् न꣡ शि꣡शुर् वावशानो꣡  
 वृ꣡षा दधन्वे पुरुवा꣡रो अद्भिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ गछते कल꣡श उस्रि꣡याभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मर्यः॑ । न । योषा॑म् । अ॒भि । निः॒ऽकृ॒तम् । यन् । सम् । ग॒च्छ॒ते॒ । क॒लशे॑ । उ॒स्रिया॑भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M
 **वावशानः** देवान् कामयमानः **वृषा** कामानां वर्षकोऽत एव **पुरुवारः** बहुभिर्वरणीयः सोमः **अद्भिः** मातृभूताभिर्वसतीवरीभिः **सं** **दधन्वे** संधार्यते । तत्र दृष्टान्तः । **मातृभिर्न** **शिशुः** । कामयमानः पुत्री यथा मातृभिः पयःप्रदानेन संधार्यते । धविर्गत्यर्थः । कर्मणि लिटि रूपम् । **मर्यो** **न** मनुष्यो यथा **योषां** युवतिमभिगच्छति तद्वत् **निष्कृतं** संस्कृतं स्वस्थानम् **अभि** **यन्** अभिगच्छन् **कलशे** द्रोणाभिधाने **उस्रियाभिः** अद्भिर्गोविकारैः क्षीरादिभिर्वा **सं** **गच्छते** । गमेरकर्मकात् ' समो गम्यृच्छि' इत्यात्मनेपदम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ As the infant by its mother: the infant longs for its mother and is sustained by
 Sandadhanve = has flowed with
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a calf bellowing along with the mothers, the bull of many favors  [/tail hairs] has run together with the waters.  
 Like a young blood going to a maiden at the trysting place, he comes  together with the ruddy (cows) in the tub.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In d sám √gam is of course a euphemism of sex, a theme already broached in c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as a youngling crying to his mothers, the bounteous Steer hath flowed along to waters.  
      As youth to damsel, so with milk he hastens on to the. chose meeting-place, the beaker.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Junges mit den Mutterkühen brüllend hat sich der Bulle, der Vielbegehrte, mit den Gewässern vereinigt. Wie ein junger Mann, der zur Frau zum Stelldichein geht, kommt er im Kruge mit den Kühen zusammen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich wie ein schreiend Kind zu seinen Müttern, so läuft zur Flut der Hengst mit busch'gem Schweife, Wie zu der Braut der Bräut'gam in die Kammer so geht er zu den Kühen in die Kufe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно сосунок, громко мычащий вместе со (своими) матерями,  
 Бык, богатый желанными дарами, помчался месте с водами.  

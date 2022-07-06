@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गिरीँ꣡र् अ꣡ज्रान् रे꣡जमानाँ अधारयद्  
 दियउः꣡ क्रन्दद् अन्त꣡रिक्षाणि कोपयत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वृ꣡ष्णः पीत्वा꣡ म꣡द उक्था꣡नि शंसति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒मी॒ची॒ने इति॑ स॒म्ऽई॒ची॒ने । धि॒षणे॒ इति॑ । वि । स्क॒भा॒य॒ति॒ । वृष्णः॑ । पी॒त्वा । मदे॑ । उ॒क्थानि॑ । शं॒स॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *girīṃr* ← *girīn* ← *giri*
 - \[noun\], accusative, plural, masculine
@@ -113,14 +113,14 @@ genre M
 **गिरीन्** मेघान **अज्रान्** गमनशीलान् **रेजमानान्** कम्पमानान् **अधारयत्** इन्द्रो धारितवान् । निश्चलान् कृतवानित्यर्थः । किंच **द्यौः** द्युलोकस्तन्निवासी वा जनोऽसुरक्षसेभ्यो भीतः सन् **क्रन्दत्** क्रन्दति । इन्द्रमाह्वयत्यात्मनः परित्राणार्थम्। किंचेन्द्रः **अन्तरिक्षाणि** **कोपयत्**। कोपयति । संक्षोभयतीत्यर्थः । किंचेन्द्रः **समीचीने** परस्परं संगते **धिषणे** द्यावापृथिव्यौ **वि** **ष्कभायति** अन्तरिक्षेण स्तभ्नाति । स्तम्भयतीत्यर्थः। किंचेन्द्रः **वृष्णः** स्वोदरस्यासेक्तॄन सोमान् **पीत्वा** **मदे** सति **उक्थानि** प्रशस्यानि वचनानि **शंसति** प्रब्रवीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Indra**) has arrested the wandering tremulous clouds; the heaven cries out (in alarm); he agitates thefirmament; he fixes the combined heaven and earth; having drunk of the effused **Soma**, he repeats praises in hisexhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He gave foundation to the trembling mountains and plains. Heaven  cried out and made the midspaces quake.  
 He props apart the two Holy Places [=Heaven and Earth] that were  
@@ -128,23 +128,23 @@ conjoined. Having drunk of the bull, he recites the solemn words in
 his exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He firmly fixed the plains and mountains as they shook. Dyaus thundered forth and made the air's mid-region quake.  
      He stays apart the two confronting bowls; he sings lauds in the potent Soma's joy when he hath drunk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die bebenden Berge und Ebenen festigte er; der Himmel donnerte und erschütterte die Lüfte. Die zusammenhängenden Dhisana´s stemmt er auseinander, nachdem er von dem starken Soma getrunken hat, trägt er im Rausche Loblieder vor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Höhn und Triften, da sie wankten, stützte er; der Himmel dröhnte und die Luft liess zittern er; Gesondert stützt er das verbundne Weltenpaar, berauscht durch Trunk des Soma's thut er Sprüche kund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он укрепил колеблющиеся горы (и) долины.  
 Небо грохотало (и) сотрясало воздушные просторы.  

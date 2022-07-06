@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ भू꣡रिपाशाव् अ꣡नृतस्य से꣡तू  
 दुरत्ये꣡तू रिप꣡वे म꣡र्तियाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपो꣡ न꣡ नावा꣡ दुरिता꣡ तरेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ऋ॒तस्य॑ । मि॒त्रा॒व॒रु॒णा॒ । प॒था । वा॒म् । अ॒पः । न । ना॒वा । दुः॒ऽइ॒ता । त॒रे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -110,37 +110,37 @@ genre M;; repeated line
 **ता** तौ मित्रावरुणौ **भूरिपाशौ** प्रभूतबन्धनसाधनपाशोपेतौ **अनृतस्य** यागरहितस्य **सेतू** सेतुवद्बन्धकौ **रिपवे** **मर्त्याय** वैरिजनाय **दुरत्येतू** दुरतिक्रमौ भवतः । हे **मित्रावरुणा** तादृशौ मित्रावरुणौ **वां** युवयोः **ऋतस्य** यज्ञस्य युवयोरर्थायानुष्ठीयमानस्य यागस्य **पथा** मार्गेण **दुरिता** दुःखानि **तरेम** **नावा** **अपो** **न** प्रभूतान्युदकानीव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Holders are you of many fetters, barriers against the irreligious, invincible by hostile mortals; may wecross over all the danger, **Mitra** and **Varuṇa**, by the path of sacrifice, to you, as (we cross over) water by a boat.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These two have many fetters, are bonds for untruth, and are hard to  overcome for the cheating mortal.  
 By your path of truth, Mitra and Varuṇa, we would cross over  
 difficulties, as (we would) waters by a boat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bonds of the sinner, they bear many nooses: the wicked mortal hardly may escape them.  
      Varuna-Mitra, may your path of Order bear us o'er trouble as a boat o'er waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Beiden sind Feßler des Unwahren, mit vielen Schlingen versehen und unentrinnbar für den heimtückischen Sterblichen. Auf dem Pfade eures Gesetzes möchten wir über die Mißerfolge hinwegkommen wie zu Schiff über ein Gewässer, o Mitra und Varuna.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr seid des Unrechts seilversehne Wehren, dem bösen Menschen nicht zu überschreiten, Auf eurem Heilspfad, Varuna und Mitra, durchfahren Noth wir, wie das Meer auf Schiffen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они, имеющие много петель, – это две преграды для беззакония,  
 Через которые трудно проникнуть обманщику-смертному.  

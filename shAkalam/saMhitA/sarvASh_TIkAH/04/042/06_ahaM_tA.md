@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ ता꣡ वि꣡श्वा चकरं न꣡किर् मा  
 दइ꣡व्यं स꣡हो वरते अ꣡प्रतीतम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उभे꣡ भयेते र꣡जसी अपारे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । मा॒ । सोमा॑सः । म॒मद॑न् । यत् । उ॒क्था । उ॒भे इति॑ । भ॒ये॒ते॒ इति॑ । रज॑सी॒ इति॑ । अ॒पा॒रे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -133,37 +133,37 @@ genre M
 **अहं** त्रसदस्युः **ता** तानि प्रसिद्धानि **विश्वा** सर्वाणि **चकरम्** अकार्षम् । **अप्रतीतम्** अप्रतिगतं **मा** मां **दैव्यं** **सहः** देवसंबन्धि सहो बलं **नकिः** **वरते** नैव वारयति । **यत्** यस्मात् **सोमासः** सोमाः **मा** मां **ममदन्** अमदयन्। **यत्** च **उक्था** शस्त्राण्यपि ममदन् तस्मात् मत्तः **अपारे** दूरपारे **उभे** **रजसी** द्यावापृथिव्यौ  **भयेते** चलतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I have done all these (deeds); no one resists my divine, unsurpassed vigour; and when the **Soma** juices, when sacred songs, exhilarate me, then the unbounded heaven and earth are both alarmed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have done all these things. No divine power will block me, who am  unopposable.  
 When the soma juices, when the hymns, have exhilarated me, both  
 endless realms become afraid.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All this I did. The Gods' own conquering power never impedeth me whom none opposeth.  
      When lauds and Soma juice have made me joyful, both the unbounded regions are affrighted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe das alles getan; keine göttliche Macht hält mich, den Unwiderstehlichen, auf. Wenn mich die Somatränke, wenn mich die Lieder berauscht haben, dann bekommen die beiden unbegrenzten Räume Furcht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das alles that ich, und der Götter Kraft selbst sie hemmet nimmer mich, den unbezwungnen; Wenn Tränke mich erfreuten und die Sprüche, so beben beide unbegrenzte Räume.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я совершил все эти (подвиги). Никакая  
 Божественная сила не остановит меня, не знающего (равного) соперника.  

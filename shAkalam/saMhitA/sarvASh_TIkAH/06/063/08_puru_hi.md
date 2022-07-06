@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरु꣡ हि꣡ वाम् पुरुभुजा दयिष्णं꣡+  
 धेनुं꣡ न इ꣡षम् पिन्वतम् अ꣡सक्राम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 र꣡साश् च ये꣡ वाम् अ꣡नु राति꣡म् अ꣡ग्मन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्तुतः॑ । च॒ । वा॒म् । मा॒ध्वी॒ इति॑ । सु॒ऽस्तु॒तिः । च॒ । रसाः॑ । च॒ । ये । वा॒म् । अनु॑ । रा॒तिम् । अग्म॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puru*
 - \[noun\], nominative, singular, neuter
@@ -143,7 +143,7 @@ genre M
 **पुरुभुजा** हे पूर्णभुजौ बहुपालकौ वा **वां** युवयोः **देष्णं** दातव्यं धनं **पुरु** बहु **हि** भवति । अतः कारणात् **नः** अस्मभ्यं **धेनुं** प्रीणयित्रीम् **असक्रां** मत्तोऽन्यत्रासंक्रमणीम् । असक्रामसंक्रमणीम् ' ( निरु. ६. २९) इति यास्केनोक्तत्वात् । **इषम्** अन्नं **पिन्वतं** प्रयच्छतम् । यद्वा । इषमेषणीयां धेनुमित्यन्वयः । किंच **वां** **स्तुतः** । स्तुवन्तीति स्तुतः स्तोतारः । सन्ति । **माध्वी** मदयितारावश्विनौ **सुष्टुतिः** शोभना स्तुतिः **च** स्तोतृषु भवति । **रसाः** सोमरसाः **च** सन्ति । **ये** रसाः **वां** युवयोः **रातिं** दानम् **अनु** उद्दिश्य **अग्मन्** देवयजनं प्राप्ताः । अयं भावः । सुष्टुतिं श्रुत्वा देवयजनं प्राप्तान् सोमरसान् पीत्वा स्तोतृभ्यः कामान् प्रयच्छतमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,36 +156,36 @@ Nutritious and invariable food: dhenum na iṣam pinvatam askrām = give us a co
 **Dhenu** = prīṇayitrī, gratifying; iṣam may be the adjective for eṣaṇīyam, give us a desirable cow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because your giving is much, o you who give much enjoyment, swell our  cow and our refreshment (so that they) don’t dry up.  
 To you belong praises and the good praise-hymn and the juices that  have followed your gift, o honeyed ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax ásakrām is another proleptic adj. (see 6d). This fem. sg. can apply equally to the two fem. sgs. dhenúm and iṣám.
 
 The ánu that has not yielded completely satisfactory sense in 6c and 7d here is entirely at home: the various ritual offerings to the Aśvins, both verbal (stútaḥ … suṣṭutíḥ) and physical (rásāḥ, the soma juices), accrue to them following the gift they bestow on the sacrificers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lords of great wealth, manifold is your bounty: ye filled our cow with food that never faileth.  
      Lovers of sweetness! yours are praise and singers, and poured libations which have sought your favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn vielfach ist eure Gabe, ihr Vielnützende. Lasset unsere Kuh, unsere Speise unversieglich schwellen! Euer sind die Lobgesänge, ihr Süßlinge, und das Loblied und die Somasäfte, die eurer Gabe gefolgt sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn viel, vielgebende, sind eurer Gaben; den Milchtrank lasst, der nie versiegt, uns schwellen; Euch lieblichen sei Lob zu Theil und Lieder und Tränke, die nach eurer Spende strebten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Многообразен ведь дар ваш, о многополезные.  
 Сделайте набухшей нашу неиссякающую дойную корову - жертвенную усладу!  

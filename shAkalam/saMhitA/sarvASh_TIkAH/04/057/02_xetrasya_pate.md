@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्षे꣡त्रस्य पते म꣡धुमन्तम् ऊर्मिं꣡  
 धेनु꣡र् इव प꣡यो अस्मा꣡सु धुक्ष्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋत꣡स्य नः प꣡तयो मॄळयन्तु+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 म॒धु॒ऽश्चुत॑म् । घृ॒तम्ऽइ॑व । सुऽपू॑तम् । ऋ॒तस्य॑ । नः॒ । पत॑यः । मृ॒ळ॒य॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṣetrasya* ← *kṣetra*
 - \[noun\], genitive, singular, neuter
@@ -122,36 +122,36 @@ genre M
 किञ्च - ऋतस्य यज्ञस्य पतयोऽग्न्यादयो देवाः नोऽस्मानस्मदीयं वा त्वया दीयमानं गवादिसमुदायं मृडयन्तु सुखयन्तु । 'छन्दस्युभयथा' (पा.सू. 3.4.117) इति णिचस्सार्वधातुकत्वेन ङित्वाल्लघूपधगुणाभावः (पा.सू. 7.3.86) ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of the field, bestow upon us sweet abundant, (water), as the cow (yields her) milk, dropping like honey, blend as butter; may the lords of the water make us happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Lord of the Field, as a milk-cow yields milk, milk out upon us a  honeyed wave,  
 dripping with honey, well-purified like ghee. Let the lords of truth be  gracious to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As the cow yieldeth milk, pour for us freely, Lord of the Field, the wave that beareth sweetness,  
      Distilling meath, well-purified like butter, and let the. Lords of holy Law be gracious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Herr der Flur! Ergieß bei uns deine honigreiche Woge wie die Kuh ihre Milch, die honigträufende, wie Schmalz gutgeläuterte. Mögen die Herren des Gesetzes uns gnädig sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Feldesherr, lass uns die süsse Welle reichlich strömen, so wie Milch die Milchkuh, wie schöngeklärte Butter, die von Süssigkeit trieft; uns mögen die Herren des heiligen Werkes hold sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О господин Поля, подоись у нас  
 Медовой волной, словно корова – молоком,  

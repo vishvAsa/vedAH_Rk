@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति द्युताना꣡म् अरुषा꣡सो अ꣡श्वाश्  
 चित्रा꣡ अदृश्रन्न् उष꣡सं व꣡हन्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡धाति र꣡त्नं विधते꣡ ज꣡नाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 याति॑ । शु॒भ्रा । वि॒श्व॒ऽपिशा॑ । रथे॑न । दधा॑ति । रत्न॑म् । वि॒ध॒ते । जना॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -119,43 +119,43 @@ genre M
 **द्युतानां** द्योतमानाम् **उषसं** **वहन्तः** धारयन्तः **अरुषासः** आरोचमानाः **चित्राः** चायनीयाः **अश्वाः** **प्रति** अदृश्रन् प्रतिदृश्यन्ते । सा चोषाः **शुभ्रा** दीप्यमाना **विश्वपिशा** बहुरूपेण **रथेन** **याति** सर्वत्र गच्छति। **विधते** परिचरते **जनाय** **रत्नं** रमणीयं धनं **दधाति** ददाति च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The bright and wondrous steeds, conveying the resplendent Uṣas, are visible; she advances, radiantin her every-way-moving chariot; she bestows wealth upon the man who practises sacred rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ruddy, bright horses have become visible opposite, conveying the  flashing Dawn.  
 She drives, the resplendent one, with a chariot entirely ornamented; she  establishes treasure for the person who distributes it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 And citrá- again, for the third time opening a b pāda.
 
 The metaphorical use of váhni- found in the previous vs. contrasts with the literal use (well, as literal as the RV gets) of the participle váhantaḥ ‘conveying’ referring to Dawn’s horses (áśvāḥ).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Apparent are the steeds of varied colour, the red steeds carrying resplendent Morning.  
      On her all-lovely car she comes, the Fair One, and brings rich treasure for her faithful servant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wieder sind die rötlichen Rosse erschienen, die prächtigen, die die leuchtende Usas fahren. Die Schmucke kommt auf allverziertem Wagen; sie bringt dem dienenden Menschen ein Kleinod.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es zeigten sich die rothen Flammenrosse, die glanzbegabte Morgenröthe fahrend; Die schöne kommt auf strahlenreichem Wagen und schenket Schatz dem Manne, der ihr dienet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Показались алые кони, яркие,  
 Везущие сверкающую Ушас.  

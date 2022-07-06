@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡रि हि꣡ ते स꣡वना मा꣡नुषेषु  
 भू꣡रि मनीषी꣡ हवते तुवा꣡म् इ꣡त्  
 मा꣡ अरे꣡ अस्म꣡न् मघवञ् जियो꣡क् कः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 मा । आ॒रे । अ॒स्मत् । म॒घ॒ऽव॒न् । ज्योक् । क॒रिति॑ कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūri*
 - \[noun\], nominative, singular, neuter
@@ -110,36 +110,36 @@ genre M
 हे **मघवन्** **ते** तव **सवना** सवनानि सोमाभिषवणानि **भूरि** भूरीणि **मानुषेषु** अस्मासु वर्तन्त इति शेषः । **मनीषी** स्तोता **त्वामित्** त्वामेव **भूरि** **हवते** नितरां ह्वयति स्तौति । अतः **अस्मत्** अस्मत्तः **आरे** दूरे **ज्योक्** चिरकालं **मा** **कः** आत्मानं मा कार्षीः। क्षिप्रमात्मानमस्मदासन्नं कुर्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Many are the sacrifices offered, **Maghavan**, to you among mankind; constantly does worshipper indeedinvoke you; therefore be not far nor be a long time from us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since there are many pressings for you among the sons of Manu, many  times does a man of inspired thought call on you alone.  
 Don’t make a long delay at a distance from us, bounteous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Among mankind many are thy libations, and many a time the pious sageinvokes thee.  
      O Maghavan, be not long distant from us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn viele Trankspenden sind für dich bei den Menschen; vielmals ruft dich der Dichtende an. Säume nicht fern von uns, du Gabenreicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn manch Gelage ist dir bei den Menschen, und viele Bitten rufen dich vor allen, Nicht halt von uns dich lange fern, o mächt'ger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Много ведь для тебя возлияний сомы у людей,  
 Много (раз) мудрый (поэт) призывает только тебя.  

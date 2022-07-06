@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृञ्जे꣡ ह य꣡न् न꣡मसा बर्हि꣡र् अग्ना꣡व्  
 अ꣡यामि स्रु꣡ग् घृत꣡वती सुवृक्तिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡श्रायि यज्ञः꣡ सू꣡रिये न꣡ च꣡क्षुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अम्य॑क्षि । सद्म॑ । सद॑ने । पृ॒थि॒व्याः । अश्रा॑यि । य॒ज्ञः । सूर्ये॑ । न । चक्षुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛñje* ← *vṛj*
 - \[verb\], singular, Present indikative
@@ -120,21 +120,21 @@ genre M
 **यत्** **ह** यदा खलु **नमसा** हविषा सह **अग्नौ** अग्निसमीपे **बर्हिः** **वृञ्जे** । वृजिश्छेदनार्थः । छिद्यते । आह्रियत इत्यर्थः । **सुवृक्तिः** सुष्ठु दोषैर्वर्जिता **घृतवती** घृतपूर्णा **स्रुक्** **अयामि** नियम्यते बर्हिष्यासाद्यते । तथा **पृथिव्याः** भूमेः **सदने** स्थाने **सद्म** हविरासादनार्था वेदिः **अम्यक्षि** । म्यक्षतिर्गतिकर्मा । गम्यते परिगृह्यते । तदानीं **यज्ञः** **अश्रायि** यजमाने आश्रितो भवति । तत्र दृष्टान्तः । **सूर्ये** **न** **चक्षुः** । यथा सूर्ये सर्वस्य प्रेरक आदित्ये प्रकाशकं तेजः समवैति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “{Text is missing}”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When I twist the ritual grass with reverence beside the fire, the ladle  filled with ghee, along with a well-twisted hymn, has (already) been  
 held forth;  
 the sitting place (of Agni) has been fastened to the seat of the earth. The  sacrifice has been fixed (on him), like (a man’s) eye on the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg (ZDMG 55.301), fld. by Geldner and Renou, interprets vṛñjé as a t-less 3rd sg.
 
@@ -147,23 +147,23 @@ Although √vṛj has no passive aorist attested, there are no morphological or 
 I do not understand the semantic difference between sádman- and sádana-, if there is one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When I with reverence clip the grass for Agni, when the trimmed ladle, fullof oil, is lifted,  
      Firm on the seat of earth is based the altar: eye-like, the sacrifice is directed Sun-ward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sobald das Barhis unter Verneigung um Agni gelegt wird, ward ihm der schmalzhaltige Löffel und das Loblied dargeboten. Sein Sitz ist auf dem Boden der Erde angebracht, das Opfer beruht auf ihm wie das Augenlicht auf der Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da Streu dem Agni demuthsvoll geschmückt ist, gereicht der reine buttervolle Löffel, So funkelt hell sein Sitz am Platz der Erde; es zielt sein Opfer wie das Aug' zur Sonne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда с поклонением переворачивается жертвенная солома у Агни,  
 (Ему) подносится жертвенная ложка с жиром (и) гимн.  

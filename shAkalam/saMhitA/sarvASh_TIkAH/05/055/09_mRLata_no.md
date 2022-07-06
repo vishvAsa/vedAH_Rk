@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मॄळ꣡त+ नो मरुतो मा꣡ वधिष्टन  
 अस्म꣡भ्यं श꣡र्म बहुलं꣡ वि꣡ यन्तन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अधि॑ । स्तो॒त्रस्य॑ । स॒ख्यस्य॑ । गा॒त॒न॒ । शुभ॑म् । या॒ताम् । अनु॑ । रथाः॑ । अ॒वृ॒त्स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mṛﾱata* ← *mṛḍ*
 - \[verb\], plural, Present imperative
@@ -120,36 +120,36 @@ genre M;; repeated line
 हे **मरुतः** **नः** अस्मान् **मृळत** सुखयत । **मा** **वधिष्टन** । असम्यक्करणादिजनितेन कोपेन मा वधिध्वम् । किंतु **अस्मभ्यं** **शर्म** सुखं **बहुलम्** अत्यधिकं **वि** **यन्तन** कुरुत । किंच **स्तोत्रस्य** स्तोत्रं **सख्यस्य** सख्यम् **अधि** **गातन** अधिगच्छत । स्तुतिमनुभूयास्मासु सख्यं कुरुतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Send us felicity, **Maruts**, harm us not; bestow upon us exceeding happiness; reward our adoration by your friendship; may the cars of the quick-moving (Maruts) arrive for our good.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be merciful to us, Maruts; do not slay us. To us spread out ample  shelter.  
 Give study to our praise song, our fellowship. – As they drove in beauty  their chariots rolled along.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be gracious unto us, ye Maruts, slay us not extend ye unto us shelter of many a sort.  
      Pay due regard unto our friendship and our praise. Their cars moved onward as they went to victory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seid uns gnädig, ihr Marut, erschlaget uns nicht, gewähret uns euren reichlichen Schutz! Gedenket des Lobliedes, der Freundschaft! - Wenn sie im Prunkzug ausfahren, haben sich ihre Wagen angeschlossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Seid gnädig uns, o Maruts, nicht verletzet uns und breitet über uns das weite Schutzdach aus, Gedenkt des Lobs und unserer Genossenschaft; es rollen eure Wagen, wenn zum Schmuck ihr geht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Помилуйте нас, о Маруты, не убивайте (нас)!  
 Даруйте нам крепкий заслон!  

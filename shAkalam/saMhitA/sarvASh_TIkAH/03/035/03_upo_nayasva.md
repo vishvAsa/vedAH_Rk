@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡पो नयस्व वृ꣡षणा तपुष्पा꣡  
 उते꣡म् अव त्वं꣡ वृषभ स्वधावः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवे꣡-दिवे सदृ꣡शीर् अद्धि धानाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ग्रसे॑ताम् । अश्वा॑ । वि । मु॒च॒ । इ॒ह । शोणा॑ । दि॒वेऽदि॑वे । स॒ऽदृशीः॑ । अ॒द्धि॒ । धा॒नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upo* ← *upa*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 वृषभ कामानां वर्षक स्वधावोऽन्नवन् हे इन्द्र वृषणा सेचनसमर्थौ त पुष्पा तापकेभ्यः शत्रुभ्यो रक्षकावश्वावुपो नयस्व । अस्मत्समीपं प्रापय । उत अपि च त्वमीमेनं यजमानमव । पालय । शोणा शोणवर्णौ तावश्वाविहास्मिन्देवयजने वि मुच । विमिक्तौ तावश्वौ ग्रसेताम् । विघसं भक्षयताम् । त्वं तु सदृशीरेकरूपान् धाना भृष्टयवान् दिवे दिवे प्रतिदिवसमद्धि । भक्षय । नयस्व । नयतेर्लोटि रूपम् । तपुष्पा । पा रक्षणे । आतोऽनुपसर्गे कः । सुपां सुलुगिति डादेशः । इसुसोः समर्थ्य इदि संहितायां विसर्जनीयस्य षत्वम् । कृदुत्तरपदप्रकृतिस्वरः । अव । अवतेर्लोटि रूपम् । स्वधावः । मतुवसोरिति नकारस्य रुत्वम् । निघातः । ग्रसेताम् । ग्रसु अदन इत्यस्य लोट्यातामि रुपम् । पादादित्वादनिघातः । आतामो लसार्वधातुकस्वरे धातुस्वरः । मुच । मुञ्चतेर्लोटि रूपम् । आगमानुशासनस्यानित्यत्वान्नुमभावः । सदृशीः । समान्सहब्द उपपदे दृशिर् प्रेक्षन इत्यस्मात्समानान्ययोश्चेति कञ्प्रत्ययः । समानस्य दृग्दृश्वतुष्विति सभावः । टिड्ढाणञ् इत्यादिना ङेप् । तस्य पित्त्वादनुदात्तत्वे धातुस्वरः । अद्भि । अद भक्षण इत्यस्य लोट्यदादित्वाच्छओप् लुक् । हुझल्भ्योहेर्धिरिति ध्यादेश । निघातः । धानाः । डुधाञ् धारनपोषणयोः । धापॄवस्यज्यतिभ्यो न इति नप्रत्ययः । प्रत्ययस्वरः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,13 +145,13 @@ genre M
 Eat suitable food: sadṛśīr addhi **dhānāḥ** = eat suitable grains, i.e. fried barley, bhṛṣṭayavān
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Lead near the two bullish (stallions), protecting them from the scorching  heat, and help them—you autonomous bull.  
 Let the two horses graze. Unhitch the two sorrels here. Every day eat  roasted grains of the same appearance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Medial nayasva is one of the relatively few middle forms to this pres. stem.
 
@@ -162,23 +162,23 @@ The crux in this vs. is the hapax cmpd. tapuṣpā́-. Grassmann glosses it ‘w
 In the last pāda Indra is urged to eat the roasted grains (addhi dhānā́ḥ). The same grains are prepared for the horses to eat in vs. 7: it seems somewhat surprising that Indra and his horses receive the same fodder, as it were -- though calling the horses Indra’s “comrades in joint revelry” in the next vs. (4b) suggests that they consume the offered meal together. I also don't understand why the grains should be “of the same appearance every day.” This phrase is essentially repeated in III.52.8, which also contains 5 occurrences of dhānā- (or deriv.). Perhaps the point is that we unfailingly make the same offering to Indra daily; he needn’t worry that we will substitute inferior food.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring the strong Steeds who drink the warm libation, and, Bull of Godlike nature, be thou gracious.  
      Let thy Steeds eat; set free thy Tawny Horses, and roasted grain like this consume thou daily.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lenk die beiden Hengste her, die vor Glut geschützten, und sorge für sie, du eigenmächtiger Bulle! Die beiden Rosse sollen fressen, spann hier die rötlichen aus, iß du Tag für Tag die gleichen Gerstenkörner!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Hengste führe her, die Warmes trinken, erquicke sie, o Held, du selbstgewalt'ger, Lass essen sie und löse hier die rothen; den täglich gleichen Körnerbrei geniesse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приведи двух жеребцов, охраняющих от (вражеского) огня (?),  
 А также помоги ты им, о бык самовластный!  

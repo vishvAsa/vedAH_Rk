@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡न् राये꣡ म꣡र्तान् सु꣡षूदो अग्ने  
 ते꣡ सियाम मघ꣡वानो वयं꣡ च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आपप्रिवा꣡न् रो꣡दसी अन्त꣡रिक्षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 छा॒याऽइ॑व । विश्व॑म् । भुव॑नम् । सि॒स॒क्षि॒ । आ॒प॒प्रि॒ऽवान् । रोद॑सी॒ इति॑ । अ॒न्तरि॑क्षम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yān* ← *yad*
 - \[noun\], accusative, plural, masculine
@@ -118,42 +118,42 @@ genre M
 **यान्** **मर्तान्** मनुष्यानस्मान् **राये** धनाय **सुषूदः** अग्निहोत्रादिकर्मसु प्रेरयसि **ते** तादृशाः **वयं** **च** **मघवानः** धनिनः **स्याम** भवेम । **रोदसी** द्यावापृथिव्यौ **अन्तरिक्षं** च **आपप्रिवान्** स्वतेजसा वृष्ट्युदकेन व आपूरितवांस्त्वं च **विश्वं** **भुवनं** सर्वं जगत् **सिसक्षि** सेवसे अनुगृह्य सर्वं रक्षसीत्यर्थः । तत्र दृष्टान्तः । **छायेव** । यथा छत्रादेः छाया आतपादिजनितं क्लेशं निवार्य रक्षति तद्वत् ॥ राये । ऊडिदम् ' इति विभक्तेरुदात्तत्वम् । सुषूदः । 'षूद प्रेरणे'। लेटि अडागमः । ‘ बहुलं छन्दसि ' इति शपः श्लुः । ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ।' यद्वृत्तान्नित्यम् । इति निघातप्रतिषेधः । सिसक्षि । ' षच समवाये' । बहुलं छन्दसि ' इति शपः श्लुः । ‘ इत्' इत्यनुवृत्तौ ‘ बहुलं छन्दसि ' इति अभ्यासस्य इत्वम् । आपप्रिवान् ।' प्रा पूरणे'। लिटः क्वसुः । ‘ वस्वेकाजाद्धसाम्' इति इडागमः । ‘ आतो लोप इटि च ' इति आकारलोपः । ‘ द्विर्वचनेऽचि' इति स्थानिवद्भावात् द्विर्भावादि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, mortals, whom you have directed (to the performance of sacrifices) for the sake of riches, become opulent; filling heaven and earth, and the firmament (with your radiance), you protect the whole world like a (sheltering) shade.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we—we and our patrons—be those mortals whom you will  sweeten for wealth, o Agni.  
 Like a shadow you accompany all creation, having filled the two  
 world-halves and the space between.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we and those who worship be the mortals whom thou, O Agni, leadest on to riches.  
      Thou hast filled earth and heaven and air's mid-region, and followest the whole world like a shadow.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And may we, our liberal givers and ourselves, be the mortals whom thou furtherest to wealth, O Agni 1. Like a shadow thou followest the whole world, having filled the two worlds (Heaven and Earth) and the air 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unsere Gönner und wir möchten die Sterblichen sein, die du zum Reichtum würdig machst, o Agni. Wie der Schatten begleitest du die ganze Welt, nachdem du Himmel und Erde, den Luftraum erfüllt hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir und die Fürsten seien unter denen, die du zu reichem Gute führst, o Agni, Gleich wie der Schatten folgst du jedem Wesen die Luft, den Himmel und die Erd' erfüllend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть станем мы и (наши) щедрые (покровители)  
 Теми смертными, кого ты, о Агни, совершенствуешь для богатства!  

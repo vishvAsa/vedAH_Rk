@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुक्रं꣡ ते अन्य꣡द् यजतं꣡ ते अन्य꣡द्  
 वि꣡षुरूपे अ꣡हनी द्यउ꣡र् इवासि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भद्रा꣡ ते पूषन्न् इह꣡ राति꣡र् अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विश्वाः॑ । हि । मा॒याः । अव॑सि । स्व॒धा॒ऽवः॒ । भ॒द्रा । ते॒ । पू॒ष॒न् । इ॒ह । रा॒तिः । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śukraṃ* ← *śukram* ← *śukra*
 - \[noun\], nominative, singular, neuter
@@ -136,7 +136,7 @@ genre M
 हे पूषन् **ते** तव **शुक्रं** शुक्लवर्णम् **अन्यत्** एकम् अहर्भवति वासरात्मकम् । तथा **ते** तव संबन्धि **यजतम्** । यजिरत्र संगतिकरणे वर्तते । यजनीयं प्रकाशेन संगमनीयं स्वतः कृष्णवर्णम् **अन्यत्** एकम् अहर्भवति रात्र्याख्यम् । इत्थं **विषुरूपे** शुक्लकृष्णतया नानारूपे **अहनी** तव महिम्ना निष्पद्यते । यद्वा । हे पूषन् त्वदीयमन्यदेकं रूपं शुक्रं निर्मलं दिवसस्योत्पादकम् । त्वदीयमन्यदेकं रूपं यजतं केवलं यजनीयं न प्रकाशकं रात्रेरुत्पादकम् । अत एव विषुरूपे विषमरूपे अहनी अहश्च रात्रिश्च भवतः । अहोरात्रयोर्निर्माणे सूर्य एव कर्ता कथमस्य प्रसक्तिरिति तत्राह । **द्यौरिवासि** । यथा द्यौरादित्यः प्रकाशयिता तथा त्वं प्रकाशकोऽसि । कुत इत्यत आह । हे **स्वधावः** अन्नवन् **पूषन्** **विश्वाः** सर्वाः **मायाः** प्रज्ञा: **हि** यस्मात् कारणात् **अवसि** रक्षसि अतः कारणात् त्वं सूर्य इव भवसीत्यर्थः । तादृशस्य **ते** तव **भद्रा** कल्याणी **रातिः** दानम् **इह** अस्मासु **अस्तु** भवतु । यास्कस्त्वाह ‘ शुक्रं ते अन्यल्लोहितं ते अन्यद्यज्ञियं ते अन्यदयज्ञियं ते अन्यत् इति वा विषमरूपे अहनी कर्मणा द्यौरिव चासि । सर्वाणि च प्रज्ञानान्यवस्यन्नवन् ' ( निरु. १२. १७) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,7 +147,7 @@ genre M
 Cf. **Nirukta**, 12.17; you are like the sun: Pūṣan is identified with both day and night, or is considered as their regulator
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one of yours is gleaming, the other of yours belongs to the  
 sacrifice: the two day(-halves [=night and day]) of dissimilar form.  
@@ -156,7 +156,7 @@ for you give aid to all magical powers, o autonomous one. Let your
 giving be propitious here, Pūṣan.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is quite unclear what this vs. is conveying, and my interpr. differs radically from the standard. Flg. Sāyaṇa., both Geldner and Renou supply rūpám as the referent for the anyád … anyád construction and further assume that these are two forms of Pūṣan, namely, in Geldner’s words (n. 1ab), “die solare und die gewöhnliche Form des Pūṣan.” I find this unlikely for two reasons: 1) I know of no evidence for two forms of Pūṣan, and none is supplied by those who interpr. it thus; 2) there is a perfectly good neut. referent available for the anyád … anyád construction, namely the two day-halves (áhanī) in b, whose descriptor víṣurūpe ‘of dissimilar form’ seems meant to specify the disjunctive choices given in pāda a. (For a similar disjunctive description of the day-halves, with anyá- … anyá-, see nearby VI.49.3.) Moreover, those who take pāda a as referring to Pūṣan’s two forms are forced to take víṣurūpe áhanī in the simile, as a not very convincing acc. of extent of time (Geldner: “du bist wie der Himmel während der verschiedenen Tageshälften”) or the like (Renou’s rendering [“tu es commes le ciel aux deux portions-du-jour”] leaves the syntactic status of the dual expression quite vague). Further, this interpr. pushes the simile-marking iva almost to the end of a pāda supposedly consisting entirely of a simile. Although, as just noted (ad VI.57.5), simile markers are sometimes positioned later than expected, this would be quite late indeed.
 
@@ -167,23 +167,23 @@ So by my interpr. the two oppositional day-halves belong, in some sense, to Pū�
 However, at least it confronts questions that the other interpr. have not raised.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LIKE heaven art thou: one form is bright, one holy, like Day and Night dissimilar in colour.  
      All magic powers thou aidest, self-depen. dent! Auspicious be thy bounty here, O Pusan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Licht ist deine eine, opferwürdig deine andere Form; du bist wie der Himmel während der verschiedenen Tageshälften, denn du liebst alle Blendwerke, du Selbstherrlicher. Glückbringend soll hier deine Freigebigkeit sein, o Pusan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hell ist dein eines Aussehn, hehr das andre, ungleich wie Tag und Nacht, dem Himmel gleichst du; Denn alle Wunder förderst du gewalt'ger, hier sei, o Puschan, deine Gab' uns heilvoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Светел один твой (облик), достоин поклонения твой другой.  
 Ты – как небо в две половины дня с (их) разным обликом.  

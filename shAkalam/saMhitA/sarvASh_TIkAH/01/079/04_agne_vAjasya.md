@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने वा꣡जस्य गो꣡मत  
 ई꣡शानः सहसो यहो  
 अस्मे꣡ धेहि जातवेदो म꣡हि श्र꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 अ॒स्मे इति॑ । धे॒हि॒ । जा॒त॒ऽवे॒दः॒ । महि॑ । श्रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -86,41 +86,41 @@ genre M
 हे **सहसो** **यहो** बलस्य पुत्र **अग्ने** **गोमतः** बहुभिर्गोंभिर्युक्तस्य **वाजस्य** अन्नस्य **ईशानः** ईश्वरस्त्वमसि । अतः **अस्मे** अस्मासु हे **जातवेदः** जातधन जातानां वेदितर्वाग्ने **महि** प्रभूतं **श्रवः** अन्नं **धेहि** स्थापय ॥ सहसो यहो । पराङ्गवद्भावात् ' आमन्त्रितस्य च ' इति षष्ठ्यामन्त्रितसमुदायो निहन्यते । अस्मे । 'सुपां सुलुक्° ' इति सप्तम्याः शेआदेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, sone of strength, lord of food and of cattle, give us abundant sustenance, you who know all that exists.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, being the lord of the prize consisting of cows, o youthful (son)  of strength,  
 on us confer great fame, o Jātavedas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, thou who art the lord of wealth in kine, thou Son of Strength,  
      Vouchsafe to us, O Jatavedas, high renown.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, who art lord of booty, rich in cows, young son of strength 1, bestow on us, O Gâtavedas, great glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der du über den Rindergewinn verfügst, du jüngster Sohn der Kraft, verleih uns Ruhm, o Jatavedas!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der über Rinderreichthum du, verfügst, o Agni, Sohn der Kraft, Verleihe uns, o Wesenkenner, grossen Schatz,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, ты, владеющий наградой,  
 Состоящей из коров, о юный (сын) силы,  

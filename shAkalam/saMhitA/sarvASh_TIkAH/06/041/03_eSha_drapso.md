@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ द्रप्सो꣡ वृषभो꣡ विश्व꣡रूप  
 इ꣡न्द्राय वृ꣡ष्णे स꣡म् अकारि सो꣡मः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡स्ये꣡शिषे प्रदि꣡वि य꣡स् ते अ꣡न्नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ए॒तम् । पि॒ब॒ । ह॒रि॒ऽवः॒ । स्था॒तः॒ । उ॒ग्र॒ । यस्य॑ । ईशि॑षे । प्र॒ऽदिवि॑ । यः । ते॒ । अन्न॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -136,41 +136,41 @@ genre M
 **द्रप्सः** द्रवणशील: **वृषभः** कामानां वर्षिता **विश्वरूपः** बहुविधरूपोपेत ईदृग्विधः **एषः** **सोमः** **वृष्णे** कामानां वर्षित्रे **इन्द्राय** इन्द्रस्य पानार्थं **समकारि** अभिषवादिभिः संस्कृतोऽभूत् । हे **हरिवः** । हरी अश्वौ । तद्वन् हे **स्थातः** सर्वेषामधिष्ठातः **उग्र** उद्गूर्णबलेन्द्र **एतम्** ईदृशं सोमं **पिब** । **यस्य** सोमस्य **प्रदिवि** । जातावेकवचनम् । प्रभूतेषु दिवसेषु प्रगतेष्वहःसु वा **ईशिषे** त्वमेवेश्वरो भवसि । **यः** च सोमः **ते** तव **अन्नम्** अन्नत्वेन परिकल्पित एतं पिबेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This dropping, omniform **Soma**, the showerer (of benefits), has been duly prepared for **Indra**, the showerer (of rain); lord of steeds, ruler over all, mighty (Indra), drink this over which you have of old pressed, which is your food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This drop, the soma, a bull of all colors, has been brought to perfection  for bullish Indra.  
 Drink it, o powerful master of bays, (chariot-)mounter—this of which  you are master from of old, which is your food.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that the equational sentence ending d, yás te ánnam, does not show gender attraction between subj. and pred., as in later Vedic prose, although this phenomenon is found elsewhere in the RV. See, e.g., X.10.4, 11.8 and comm. thereon.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This drop, steer-strong and omniform, the Soma, hath been made ready for the Bull, for India.  
      Drink this, Lord of the Bays, thou Strong Supporter, this that is thine of old, thy food for ever.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Tropfen, der bunte Bulle, der Soma, ist für den Bullen Indra bereitet. Den trink, Falbenlenker, gewaltiger Wagenfahrer, über den du schon längst verfügst, der deine Speise ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Stiere, Indra, ist der Stier, der Tropfen, der vielgestalt'ge Soma zubereitet; Ihn trink, o Herr der Füchse, mächt'ger Lenker, der dein von je war, deine rechte Speise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта капля, пестрый бык –  
 Сома приготовлен для Индры-быка.  

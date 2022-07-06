@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡रि ना꣡म व꣡न्दमानो दधाति  
 पिता꣡ वसो य꣡दि त꣡ज् जोष꣡यासे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुम्न꣡म् अग्नि꣡र् वनते वावृधानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कु॒वित् । दे॒वस्य॑ । सह॑सा । च॒का॒नः । सु॒म्नम् । अ॒ग्निः । व॒न॒ते॒ । व॒वृ॒धा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūri*
 - \[noun\], accusative, singular, neuter
@@ -117,7 +117,7 @@ genre M
 **भूरि** प्रभूतं **नाम** त्वदीयं नाम **वन्दमानः** सन् **दधाति** धारयति । सामर्थ्याद्धविः । अथवा नामकं हविः प्रभूतं धारयति दातुम् । **पिता** पालकस्त्वं हे **वसो** वासकाग्ने **यदि** **तत्** हविः **जोषयासे** सेवसे । **देवस्य** व्यवहर्तुर्यजमानस्य **कुवित्** बहु हविः **सहसा** बलेन युक्तः सन् **चकानः** कामयमानः । यद्वा कर्मणि षष्ठी । देवं यजमानं कामयमानः **अग्निः** **ववृधानः** वर्धमानो यजमानं वर्धयन् वा **सुम्नं** **वनते** प्रयच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,34 +128,34 @@ genre M
 He offers the copious oblation: **bhūri** **nāma** vandamāno dadhāti: nāma may mean oblation, **havis**; or, the rendering may be: praising your many names he offers oblations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your father sets many names (on you) as he sings praises, good one, if  you will find pleasure in this.  
 Desiring this, Agni will gain (divine) favor (for us) with the strength of  a god, having become full grown, will he not?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Adoring thee he gives thee many a title, when thou, Good Lord! acceptest this as Father.  
      And doth not Agni, glad in strength of Godhead, gain splendid bliss when he hath waxen mighty?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The father 1 adoring gives many names to thee, O Vasu, if thou shouldst take pleasure therein. Will not Agni, delighting in his divine power, grant us his favour, he who has grown strong?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viele Namen gibt dir der Vater lobend, du Guter, wenn du daran Gefallen finden solltest. Gewiß wird Agni durch seine Gottesmacht gern die Gunst der Götter gewinnen, wenn er erstarkt ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Viel Namen gibt der Vater dir verehrend, o guter, wenn du daran hast Gefallen; Wird Agni wol, der Gotteskraft sich freuend, uns Gunst erweisen, da er nun gestärkt ist?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Многие имена дает (тебе), прославляя,  
 Отец, о Васу, если ты наслаждаешься этим.  

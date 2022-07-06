@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ हव्या꣡नि अइ꣡रयता म꣡नुर्हितो  
 देव꣡ आसा꣡ सुगन्धि꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 हो꣡ता देवो꣡ अ꣡मर्तियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 विवा॑सते । वार्या॑णि । सु॒ऽअ॒ध्व॒रः । होता॑ । दे॒वः । अम॑र्त्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -105,36 +105,36 @@ genre M;; repeated line
 **यः** **मनुर्हितः** मनुना प्रजापतिनाहितः **देवः** द्योतमानोऽग्निः **सुगन्धिना** शोभनगन्धयुक्तेन **आसा** आस्येन **हव्यानि** अस्मदीयानि हवींषि **ऐरयत** देवान्प्रति प्रेरयति **स्वध्वरः** शोभनयज्ञः **होता** देवानामाह्वाता **देवः** दीप्यमानः अमर्त्यः मरणरहितः सोऽग्निः **वार्याणि** वरणीयानि धनानि **विवासते** परिचरते । यजमानाय प्रयच्छतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine (**Agni**), established by **Manu**, the offerer of the sacrifice, the invoker (of the gods), the divine,the immortal, who conveys the oblations in his fragrant mouth, bestows (upon his adorers) desirable (riches).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, the god established by Manu [/man], set the oblations in motion  with his sweet-smelling mouth—  
 he seeks to win desirable things for himself as the Hotar who conducts  ceremonies well, (though he is also) an immortal god.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The God, the Friend of man, who bears our gifts to heaven, the God with his sweet-smelling mouth,  
      Distributes, skilled in sacrifice, his precious things, Invoking Priest, Immortal God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die Opfergaben mit wohlriechendem Munde befördert hat, der von Manu eingesetzte Gott; er sucht alles Wünschenswerte zu gewinnen, der recht opfernde Hotri, der unsterbliche Gott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der von Manu eingesetzt die Opfer bringt, mit seinem Mund voll süssen Dufts, Schönopfernd will er seine Gaben weihn, der Gott, der Priester, der unsterbliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, назначенный Ману, привел в движение возлияния,  
 Бог с благоуханными устами,  

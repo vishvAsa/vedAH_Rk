@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पिता꣡ यज्ञा꣡नाम् अ꣡सुरो विपश्चि꣡तां  
 विमा꣡नम् अग्नि꣡र् वयु꣡नं च वाघ꣡ताम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुरुप्रियो꣡ भन्दते धा꣡मभिः कविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । वि॒वे॒श॒ । रोद॑सी॒ इति॑ । भूरि॑ऽवर्पसा । पु॒रु॒ऽप्रि॒यः । भ॒न्द॒ते॒ । धाम॑ऽभिः । क॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
@@ -119,41 +119,41 @@ genre M
 यज्ञानां पितापालयिता विपश्चितां विदुषांस्तोतॄणां असुरोबलप्रदः वाघतां ऋत्विजां वयुनं ज्ञानसाधनं विमानं विमीयतेनेनफलमितिविमानंयज्ञादिकर्मसाधनञ्चसोऽग्निः भूरिवर्पसा पार्थि ववैद्युतादिबहुविधरूपेण रोदसीद्यावापृथिव्यौ आविवेश प्रविशति पुरुप्रियः मनुष्येषु अधिकं प्रियः अथवापुरूणां श्रेष्ठानां प्रियः धामभिस्तेजोभिर्युक्तः कविरग्निर्भन्दते यजमानेन स्तयते ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The parent of sacrifices, the invigorator of the wise, the end (of the rite), the instrumental uction of the priests, **Agni**, who has pervaded heaven and earth in many forms, the friend of man, wise, (and endowed) with splendours, is glorified (by the worshipper).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The father of sacrifices and the lord of those perceiving the inspired  words, Agni is the measure and pattern for the chanters.  
 He has entered the two world-halves with their abundant forms. Dear  to many, the poet becomes joyful through his manifestations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Sire of sacrifice, great God of holy bards, Agni, the measure and the symbol of the priests,  
      Hath entered heaven and earth that show in varied form: the Sage whom many love rejoiceth in his might.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The father of sacrifices, the miraculous lord of those who know prayers (?) 1, Agni, is the measure and rule 2 of the sacrificers; he has entered the two manifold-shaped worlds; the sage beloved by many people is glorified in his foundations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vater der Opfer, der Gebieter der Redekundigen ist Agni, der Maßstab und die Richte der Priester. Er zog in die beiden vielgestaltigen Welten ein, der vielliebe Seher wird um seiner Eigenschaft willen gelobt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Opfer Vater und der weisen Dichter Geist der Beter Richtschnur, Agni, und ihr helles Licht Ging in die beiden vielgestalt'gen Welten ein; der vielgeliebte Seher freut der Bräuche sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отец жертв, асура прозорливцев,  
 Агни – мера и веха жрецов.  

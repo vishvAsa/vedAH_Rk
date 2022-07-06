@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् ददाति स꣡त्पतिं  
 सासा꣡ह यो꣡ युधा꣡ नृ꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 जे꣡तारम् अ꣡पराजितम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒ग्निः । अत्य॑म् । र॒घु॒ऽस्यद॑म् । जेता॑रम् । अप॑राऽजितम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -104,40 +104,40 @@ genre M;; repeated line
 **यः** पुत्रः **युधा** युद्धेन **नृभिः** परिजनैः **ससाह** शत्रूनभिभवति **सत्पतिं** सतां पालयितारं तथाविधं पुत्रम् **अग्निर्ददाति** अस्मभ्यं ददातु । किंच **अग्निः** **रघुष्यदम्** । रघुर्लघुः स्यदो जवो यस्य तम् । **जेतारं** शत्रून् **अपराजितं** शत्रुभिः **अत्यम्** । अतति सततं गच्छतीत्यत्योऽश्वः । तं ददातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Agni** bestow a son, the protector of the good, who, with his followers, may be victorious in battle; may he bestow a swift-footed steed, conquering, unconquered.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni gives the lord of settlements who prevails in battle with his men; Agni (gives) the fast-running charger, the unvanquished victor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni bestows the hero-lord who conquers with the men in fight.  
      Agni bestows the fleet-foot steed, the victor never overcome.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni gives a good lord who is victorious in battles with his men; Agni (gives) a steed, swiftly running, victorious (in races), unconquered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni gibt einen rechtmäßigen Herrn, der mit seinen Mannen im Kampf siegreich ist, Agni ein schnell laufendes Rennpferd, einen unbesiegten Sieger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni verleiht den tapfern Mann, der mit den Helden siegt im Kampf, Agni das Ross, das eilend geht, den unbesiegten Sieger er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни дает благого повелителя,  
 Который в бою (всегда) одерживает верх со (своими) мужами,  

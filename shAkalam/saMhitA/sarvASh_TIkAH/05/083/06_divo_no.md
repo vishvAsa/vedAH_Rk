@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ नो वृष्टि꣡म् मरुतो ररीध्वम्  
 प्र꣡ पिन्वत वृ꣡ष्णो अ꣡श्वस्य धा꣡राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपो꣡ निषिञ्च꣡न्न् अ꣡सुरः पिता꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒र्वाङ् । ए॒तेन॑ । स्त॒न॒यि॒त्नुना॑ । आ । इ॒हि॒ । अ॒पः । नि॒ऽसि॒ञ्चन् । असु॑रः । पि॒ता । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -119,7 +119,7 @@ popular
 हे **मरुतः** यूयं **दिवः** अन्तरिक्षसकाशात् **नः** अस्मदर्थं **वृष्टिं** **ररीध्वं** दत्त । **वृष्णः** वर्षकस्य **अश्वस्य** व्यापकस्य मेघस्य संबन्धिन्यः **धाराः** उदकधाराः **प्र** **पिन्वत** प्रक्षरत । हे पर्जन्य त्वम् **एतेन** **स्तनयित्नुना** गर्जता मेघेन सह **अर्वाङ्** अस्मदभिमुखम् **एहि** आगच्छ। किं कुर्वन् । **अपः** अम्भांसि **निषिञ्चन्** स देवः **असुरः** उदकानां निरसितापि सन् **नः** अस्माकं **पिता** पालकश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,41 +130,41 @@ popular
 Drops of the rainy charger: vṛṣṇo **aśvasya**: aśvasya = vyāpakasya, or the pervading rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Grant us rain from heaven, o Maruts; make the streams of the bullish  stallion swell forth.  
 (Parjanya,) come nearby with this thundering, pouring down the waters  as the lord, our father.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The default referent of ásuraḥ pitā́naḥ “the lord, our father” here is of course Parjanya, since this is a Parjanya hymn and the subject is urged to pour out water (cf., e.g., Hale, Asura, 46-47). However, I wonder if this is not rather a reference to Dyaus Pitar, or at least an identification of Parjanya with Dyaus Pitar.
 
 For Heaven as pitár- ásura-, see X.124.3 as well as disc. and other related passages in my “The Divine Revolution of RV X.124” (Ged. Staal, 2016), 294, and of course Zeus famously ‘rains’ in Greek.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send down for us the rain of heaven, ye Maruts, and let the Stallion's flood descend in torrents.  
      Come hither with this thunder while thou pourest the waters down, our heavenly Lord and Father.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The rain of heaven bestow, O Maruts, on us, Of your strong steed pour forth the streams abundant. With this thy thundering roar do thou come hither, And shed the waters as our heavenly father.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Marut, spendet uns des Himmels Regen, lasset des Hengstes Strahlen hervorquellen. Komm näher mit diesem Gedonnere, die Wasser herabgießend, unser Vater Asura!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Regen spendet uns, o Maruts, des brünst'gen Hengstes Ströme lasset schnellen; Komm nah herbei mit dieser Donnerwolke, ergiessend Wasser, uns ein thät'ger Vater.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дайте нам, о Маруты, дождь с неба!  
 Сделайте, чтобы били ключом потоки жеребца!  

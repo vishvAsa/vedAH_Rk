@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध द्युतानः꣡ पितरोः꣡+ स꣡चासा꣡  
 अ꣡मनुत गु꣡हियं चा꣡रु पृ꣡श्नेः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृ꣡ष्णः शोचि꣡षः प्र꣡यतस्य जिह्वा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मा॒तुः । प॒दे । प॒र॒मे । अन्ति॑ । सत् । गोः । वृष्णः॑ । शो॒चिषः॑ । प्रऽय॑तस्य । जि॒ह्वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 **अध** अथ **द्युतानः** दीप्यमानः **पित्रोः** द्यावापृथिव्योः **सचा** सह मध्ये व्याप्तः सन् **पृश्नेः** गोः संबन्धि **चारु** रमणीयं **गुह्यम्** ऊधसि निगूढं पयः **आसा** स्वकीयेनास्येन **अमनुत** पानाय अबुध्यत । उक्तमेवार्थ विवृणोति । **मातुः** क्षीरादिनिर्मात्र्याः **गोः** **परमे** **पदे** उत्कृष्टे स्थाने ऊधोलक्षणे **अन्ति** **सत्** समीपे विद्यमानं क्षीरं **वृष्णः** फलानां वर्षितुः **शोचिषः** दीप्तस्य **प्रयतस्य** आहवनीयादिरूपेण नियतस्य वैश्वानरस्य **जिह्वा** पातुमिच्छतीति शेषः ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,7 +137,7 @@ genre M
 Assiduous performer: the text has only prayatasya; this is amplified into: āhavanīyādi rupeṇa niyatasya vaiśvānarasya, of **vaiśvānara** active in the form of the **āhavanīya** fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then having flashed with his mouth, in company with his parents  [=kindling sticks], he [=Agni] pondered the hidden, dear (udder/  
 name) of Pr̥śni,  
@@ -145,35 +145,35 @@ name) of Pr̥śni,
 tongue of his bullish, extended flame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains yet another hapax, duvasanā́so in a, but in this case the form seems to have been generated to form a pair with its phonological near match tuviṣvaṇáso in b (with its last two syllables also matching preceding śyenā́so, which it modifies). It is generally connected (see Renou ad loc., EWA s.v. dūrá-) with dūrá- ‘distant’, dávīyas-/daviṣṭha ‘further, furthest’, but the exact morphology is unclear.
 
 On semantic grounds it seems unlikely to be related to dúvas- ‘friendship’. For a similar deformation of this lexical complex, see duvanyasát in IV.40.2, which also owes some of its phonological shape to its formulaic partner.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He then who shone together with his Parents remembered Prsni's fair and secret treasure,  
      Which, in the Mother Cow's most lofty station, the Bull's tongue, of the flame bent forward, tasted.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And resplendent near his parents (Heaven and Earth), in their presence, he thought of the secret, good (name?) of Prisni. The tongue of the manly, forward-bent flame (seized) that which was near at hand in the highest abode of the mother, the cow 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann, wenn er bei den Eltern mit dem Munde erstrahlte, gedachte er an das liebe, verborgene Euter der Prisni. Nach dem am fernsten Ort, nach dem gegenwärtig seienden Euter der Mutter Kuh begehrt die Zunge des Bullen, der langgestreckten Flamme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da nahm wahr der glänzende [Agni] vor der Aeltern [Himmel und Erde] Angesicht das theure verborgene der gefleck- ten Kuh [die Milch oder Butter Vers 7]; das, was sich befand am herrlichsten Orte der Kuh, ergriff die Zunge des Stieres, der vorgestreckten Flamme (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот, сверкая пастью перед (своими) родителями,  
 Он вспомнил о тайном милом (молоке) Пришни.  

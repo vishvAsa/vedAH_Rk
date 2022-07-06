@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ईमहे पुरुष्टुतं꣡  
 यह्व꣡म् प्रत्ना꣡भिर् ऊति꣡भिः  
 नि꣡ बर्हि꣡षि प्रिये꣡ सदद् अ꣡ध द्विता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 नि । ब॒र्हिषि॑ । प्रि॒ये । स॒द॒त् । अध॑ । द्वि॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -92,41 +92,41 @@ genre M;; line affected by realignment
 **यह्वं** महान्तं **पुरुस्तुतं** बहुभिः स्तुतं **तम्** इन्द्रं **प्रत्नाभिः** पुराणीभिः **ऊतिभिः** तृप्तिकरीभिः सोमाहुतिभिर्हेतुभिः **ईमहे** याचामहे । स चेन्द्रः **प्रिये** प्रीतिकरे **बर्हिषि** आस्तीर्णे दर्भे **नि** **षदत्** निषीदतु हविःस्वीकरणायोपविशतु । **अध** अनन्तरं **द्विता** द्वैधं वर्तमानानि चरुपुरोडाशादीनि सोमलक्षणानि च हवींषि स्वीकरोत्विति शेषः । बर्धस्वा सु पुरुष्टुत ऋषिष्टुताभिरूतिभिः । धुक्षस्व पिप्युषीमिषमव च नः ॥२५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit with ancient and gratifying (offerings) him who is mighty and the invoked of many; may he sitdown on the plural asant sacred grass, and accept the two-fold (offering of cakes and **Soma**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For him do we beg, him praised by many, the youthful one with his  ancient forms of help.  
 He will sit down upon the dear ritual grass once again.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b yahvám pratnā́bhir ūtíbhiḥ is a deliberate echo of 20a yahvám pratnéṣu dhā́masu, and the only indication that yahvám is neut. in 20b but masc. in 24b are the pronouns tád and tám respectively that open the a-pādas. The phrase pratnā́bhir ūtíbhiḥ also recalls pravátvatībhir ūtíbhiḥ in 17b. These patterns suggest there is some reality to the below-the-radar thematic unity I’ve sketched out for the three tṛcas, vss. 16-24.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With ancient offerings we implore the Young and Strong whom many praise.  
      He from of old hath sat upon dear sacred grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn bitten wir, den vielgepriesenen Jüngsten mit seinen früheren Hilfen her, er möge sich nun abermals auf das liebe Barhis setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den hochgepries'nen wünschen wir, ihn, der mit alten Hülfen eilt, Er setze auf die liebe Streu sich nieder jetzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы приглашаем этого многопрославленного  
 Юного с прежними поддержками.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡नेमि तुव꣡म् अस्म꣡द् आँ꣡  
 अ꣡देवं कं꣡ चिद् अत्रि꣡णम्  
 साह्वाँ꣡ इन्दो प꣡रि बा꣡धो अ꣡प द्वयु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सा॒ह्वान् । इ॒न्दो॒ इति॑ । परि॑ । बाधः॑ । अप॑ । द्व॒युम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanemi*
 - \[adverb\]
@@ -89,43 +89,43 @@ genre M
 हे सोम **त्वं** **सनेमि** पुराणं सख्यम् **अस्मत्** अस्मासु कुरु । **आ** अपि च **अदेवम्** अदेवनशीलं **कं** **चित्** अपि **अत्रिणम्** अदनशीलं राक्षसमस्मदस्मत्तोऽपगमय । किंच हे **इन्दो** **साह्वान्** शत्रूनभिभवन् **बाधः** बाधमानान् **परि** जहि । तथा **द्वयुं** द्वयवन्तं सत्यानृतयुक्तं बाह्याभ्यन्तरमायाद्वयोपेतं वा राक्षसमस्मत्तोऽपगमय ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you (show) us your ancient (friendship), drive away the impious voracious (**rākṣasa**); **Indu** who are victorious overcome those who oppress us, (drive) off the double-dealing (**rākṣas**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Put) away from us bag and baggage any ungodly devourer whatsoever. Having prevailed, o drop, (parry) oppressions, (keep) away the  
 double-dealing one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two versions redistribute some of the lexical material, while keeping other parts constant. Both begin the verse with sánemi and end it with asmád ā́; only the two syllables in between differ. Both b pādas end káṃ cid atríṇam; 105 borrows ádevam from the c pāda of 104, while 104.6b begins rakṣásam, not found in 105. The ápa … dvayúm found at the beginning of 104.6c appears at the end of 105.6c. What precedes has no parallel in 104.6.
 
 The sequence pári bā́dhaḥ was emended to paribā́dhaḥ, here as well as in VIII.45.40 (see comm. there) by BR, fld. by Grassmann and Oldenberg, with Geldner skeptical but not entirely opposed (see his n. 6c). I suggest in both passages instead to assume a haplology of the impv. bādhasva in a putative sequence pári *bādhasva bā́dhaḥ, a suggestion made also by Renou on our passage here, as it turns out. In our passage we must also assume the gapping of *yuyodhi with ápa, based on 104.6c ápa … dvayúm … yuyodhi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive utterly, far away from us each godless, each voracious foe.  
      O Indu, overcome and drive the false afar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Halte gänzlich von uns den Gottlosen, jeden Atrin fern, als Überlegener, o Saft, die Drangsale, den Doppelzüngigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O jage ganz von uns hinweg den Frevler, jeden fressenden, O Indu, rings bewältigend den falschen Mann.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Сделай) ты (, чтоб убрался) от нас совсем  
 Безбожник, любой атрин!  

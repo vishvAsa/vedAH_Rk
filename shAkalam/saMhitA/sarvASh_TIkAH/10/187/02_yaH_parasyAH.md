@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ प꣡रस्याः पराव꣡तस्  
 तिरो꣡ ध꣡न्वातिरो꣡चते  
 स꣡ नः पर्षद् अ꣡ति द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 सः । नः॒ । प॒र्ष॒त् । अति॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -86,7 +86,7 @@ popular;; repeated line
 **यः** अग्निः **परस्याः** **परावतः** अतिशयिताद्दूरदेशात् **तिरः** । प्राप्तनामैतत् । प्राप्तसंबन्धं **धन्व** मरुभूमिं जलवर्जितं देशम् **अतिरोचते** अतिक्रम्य प्रज्वलति । यद्वा । धन्व अन्तरिक्षम् । धन्वन्यन्तरिक्षे तिरस्तिर्यगतिरोचते भृशं प्रकाशते । गतमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ Desert tract: tiro **dhanva** = across the desert;
 **Tiras** =prāptam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who from the distant distance shines across the wastelands,  
 he will carry us across hatreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who from the distance far away shines brilliantly across the wastes:  
      So may he bear us past our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der aus fernster Ferne über die Steppe hinweg leuchtet, der helfe uns über die Feinde hinweg!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und du, o Wind, bist Vater uns, du bist uns Bruder, bist uns Freund, Drum schaffe langes Leben uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто из дальней дали  
 Сверкает через пустыню,  

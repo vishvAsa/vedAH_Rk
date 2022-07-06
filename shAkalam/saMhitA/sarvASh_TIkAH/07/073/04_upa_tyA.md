@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प त्या꣡ व꣡ह्नी गमतो वि꣡शं नो  
 रक्षोह꣡णा स꣡म्भृता वीळु꣡पाणी  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ नो मर्धिष्टम् आ꣡ गतं शिवे꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सम् । अन्धां॑सि । अ॒ग्म॒त॒ । म॒त्स॒राणि॑ । मा । नः॒ । म॒र्धि॒ष्ट॒म् । आ । ग॒त॒म् । शि॒वेन॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -136,36 +136,36 @@ genre M
 **त्या** त्यौ तौ **वह्नी** हविषां वोढारौ **नः** अस्माकं **विशं** प्रजामृत्विजम् **उप** **गमतः** उपगच्छताम् । कीदृशौ तौ। **रक्षोहणा** रक्षसां हन्तारौ **संभृता** सम्यग्भृतौ पुष्टाङ्गौ **वीळुपाणी** दृढपाणी । यद्वा । अयमर्धर्चोऽश्वपरतया व्याख्येयः । तथा सति तौ रथस्य वोढारौ दृढपादावश्विनोरश्वावुपगच्छतामिति तस्यार्थः। **अन्धांसि** अन्नानि **मत्सराणि** मदकराणि सोमान् **सम्** **अग्मत** समगच्छतं युवाम् । **नः** अस्मान् **मा** **मर्धिष्टं** मा हिंस्तम्। किंतु **शिवेन** मङ्गलेन धनेन सार्धम् **आ** **गतम्** आगच्छतम् ॥ १.
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those two, the bearers (of oblations), approach our people, destroyers of **rākṣasas**,well-nourished, strong-handed; accept our exhilarating (sacrificial) viands; injure us not, but come with goodfortune.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These two chariot-horses—demon-smashing, fully equipped, having hard  hooves—will come near our clan.  
 The exhilarating (soma-)stalks have gathered together. Do not overlook  us! Come with benevolence!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And these Two Priests come nigh unto our people, united, demon-slayers, mighty-handed.  
      The juices that exhilarate are mingled. Injure us not, but come with happy fortune.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese beiden Zugrosse mögen zu unserem Clane kommen, die Unholdtöter, in voller Ausrüstung, die Starkhufigen. Die berauschenden Tränke sind beisammen; verschmähet uns nicht, kommet mit freundlichem Sinne!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie kommen stürmend her zu unserrn Hause mit starker Hand vereint Gespenster schlagend, Sie sind genaht die rauschbegabten Tränke, verschmäht uns nicht und kommt mit reichem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти два коня пусть приходят к нашему племени,  
 Убийцы ракшасов, снаряженные, (как надо,) с твердыми копытами.  

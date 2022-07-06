@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ द्विब꣡र्हा अमिनो꣡ यातु इ꣡न्द्रो  
 वृ꣡षा ह꣡रिभ्याम् प꣡रिषिक्तम् अ꣡न्धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सत्रा꣡ खे꣡दाम् अरुशहा꣡ वृषस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 गवि॑ । आ । सु॒तस्य॑ । प्रऽभृ॑तस्य । मध्वः॑ । स॒त्रा । खेदा॑म् । अ॒रु॒श॒ऽहा । आ । वृ॒ष॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -117,7 +117,7 @@ genre M
 **द्विबर्हा:** द्वयोर्लोकयोः परिवृढः । यद्वा । द्वाभ्यां स्तुतशस्त्राभ्यां वर्धनीयः ॥ वृहेर्वर्धनार्थस्य कर्तरि कर्मणि वा असुन् । **अमिनः** । अमतेर्गत्यर्थादौणादिक इनच् । सर्वत्र गन्ता । यद्वा । कान्त्यर्थात् । सर्वैः काम्यमानः । अत एव **वृषा** अभिलषितानां वर्षकः **इन्द्रः** **परिषिक्तं** वसतीवरीभिः परितः सिक्तम् **अन्धः** अस्मदीयं सोमलक्षणमन्नं प्रति **हरिभ्याम्** एतन्नामकाभ्यामश्वभ्यां सह **आ** **यातु** आगच्छतु । अथ प्रत्यक्षः ॥ हे इन्द्र **अरुशहा** । अरुशाः शत्रवः । तेषां हन्ता । अर्तेरौणादिक उशन् ।  ‘ बहुलं छन्दसि ' इति हन्तेः क्विप् ॥ **सत्रा** । सप्तम्या डादेशः । अस्मदीये सत्रे यज्ञे **गवि** आनड़ुहे चर्मणि **सुतस्य** अभिषुतस्य **प्रभृतस्य** पात्रेषु प्रहृतस्य । हृग्रहोर्भः । ईदृशस्य **मध्वः** मदकरस्य सोमस्य पानेन हृष्टः सन् **खेदां** खिद्यमानानां शत्रूणामुत्खित्तये आभिमुख्येन **वृषस्व** वृष इवाचर ॥ वृषशब्दादाचारार्थे क्विप् । व्यत्ययेनात्मनेपदम् । खेदाम् ।  खिद दैन्ये । कर्मणि घञन्तस्यामि नुडभावश्छान्दसः । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,29 +128,29 @@ genre M
 Rush like a bull: shower always upon your mallet the Soma effused
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Doubly lofty, undiminishing, let Indra the bull drive here with his two  fallow bays to the stalk that is poured around.  
 As smasher of the non-luminous, (smashing) the hammer utterly, drench  yourself in the honey, pressed on the cow(hide) and brought forth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let Indra come, impetuous, doubly mighty, to the poured juice, the Bull, with two Bay Coursers.  
      With juices pressed in milk, with meath presented, glut evermore thy bolt, O Foe-destroyer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Doppeltstark, ungemindert soll der Bulle Indra mit den Falben zum eingeschenkten Tranke kommen. Von dem auf der Kuhhaut ausgepreßten, vorgesetzten Süßtrank gieß dir als Töter der Schwarzen die schwere Menge auf einmal hinein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der zwiefach starke Indra dringe kräftig zum rings ergossnen Saft mit seinen Füchsen, Den Meth im Schlauch, den dargereichten, schlürfe, den Hammer nimm, die Wolke stets zerschlagend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С двойной силой, невредимый пусть приедет Индра -  
 Бык на паре буланых коней к налитому соку!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ न इन्द्र मही꣡म् इ꣡षम्  
 पु꣡रं न꣡ दर्षि गो꣡मतीम्  
 उत꣡ प्रजां꣡ सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒त । प्र॒ऽजाम् । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -95,37 +95,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **नः** अस्मभ्यम् अस्मदर्थं **महीं** महतीं **गोमतीं** गोभिर्युक्ताम् **इषम्** अन्नम् **आ** **दर्षि** आद्रियस्व दातुं कामयस्व । न शब्दश्चार्थे । **पुरं** **न** । पालनं पूः । पालनं रक्षणं चास्मभ्यं कर्तुमाद्रियस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be willing to grant us abundant food with cattle; (to grant us) protection, progeny, and vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Break out great refreshment for us, like a fortress filled with  
 cattle, Indra,  
 and also offspring and abundance of heroes,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, disclose much food for us, like a stronghold with store of kine:  
      Give progeny and heroic strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, erschließ uns wie eine Burg großen Speisesegen nebst Vieh und Kindern und die Meisterschaft;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erschliess uns, Indra, grosses Gut, gleich einer rinderreichen Burg, Und Kinder uns und Heldenschar,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Проломи для нас великое подкрепление,  
 Как крепость, полную коров,  

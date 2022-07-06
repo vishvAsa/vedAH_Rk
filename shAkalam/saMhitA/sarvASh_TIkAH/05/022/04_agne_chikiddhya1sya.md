@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने चिकिद्धि꣡ अस्य꣡ न  
 इदं꣡ व꣡चः सहसिय  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 गीर्भिः꣡ शुम्भन्ति अ꣡त्रयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 तम् । त्वा॒ । सु॒ऽशि॒प्र॒ । द॒म्ऽप॒ते॒ । स्तोमैः॑ । व॒र्ध॒न्ति॒ । अत्र॑यः । गीः॒ऽभिः । शु॒म्भ॒न्ति॒ । अत्र॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -121,41 +121,41 @@ genre M
 हे **अग्ने** **सहस्य** सहसः बलस्य पुत्र **नः** अस्मदीयम् **अस्य** **इदं** परिचरणमिदं **वचः** स्तोत्रं च **चिकिद्धि** जानीहि । हे **सुशिप्र** । शोभने शिप्रे हनू नासिके वा यस्यासौ सुशिप्रः । तस्य संबोधनम् । सुशिप्र सुहनो **दम्पते** गृहपते **तं** त्वाम् **अत्रयः** अत्रिपुत्राः **स्तोमैः** स्तोत्रैः **वर्धन्ति** वर्धयन्ति । **अत्रयः** **गीर्भिः** **शुम्भन्ति** अलंकुर्वन्ति ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, son of strength, recognize the words of this our (laudation); handsome-chinned, lord of the dwelling, the sons of **Atri** exalt you, such (as you are), by thei rpraise; they embellish you by their hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, be attentive to this (speech) of ours—here is our speech, o  strong one!  
 The Atris make you strong with their praise songs, o you of fair lips, o  lord of the household; the Atris beautify you with song.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mark with attention this our speech, O Agni, thou victorious One.  
      Thee, Strong-jawed! as the homestead's Lord, the Atris with their lauds exalt, the Atris beautify with songs.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, be intent on this—on this our word 1, O strong one. As such, O strong jawed 2 lord of the house, the Atris strengthen thee by their praises; the Atris beautify thee by their prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Achte darauf, auf diese Rede von uns, du Gewaltiger! Dich erbauen die Atri´s mit Preisliedern, du schönzahniger Hausherr, verschönen die Atri´s mit Lobreden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni achte auf dies Lied des Sängers, o gewaltiger; Denn Hausherr dich, schönwangiger erfreut durch Lob der Atristamm (und schmückt durch Lied der Atristamm.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, заметь этого (человека),  
 (И) эту нашу речь, о могучий!  

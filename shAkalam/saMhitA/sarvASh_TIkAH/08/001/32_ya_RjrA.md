@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ऋज्रा꣡ म꣡ह्य° मामहे꣡  
 सह꣡ त्वचा꣡ हिरण्य꣡या  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आसङ्ग꣡स्य स्वन꣡द्रथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ए॒षः । विश्वा॑नि । अ॒भि । अ॒स्तु॒ । सौभ॑गा । आ॒स॒ङ्गस्य॑ । स्व॒नत्ऽर॑थः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -103,36 +103,36 @@ genre M
 एवमेवं मां स्तुहीत्यासङ्गो मेध्यातिथिं ब्रूते । **यः** आसङ्गस्यात्मा **ऋज्रा** गमनशीलानि धनानि **हिरण्यया** हिरण्मय्या **त्वचा** चर्मणास्तरणेन **सह** सहितानि **मह्यं** मेध्यातिथये **ममहे** ददौ । मंहतिर्दानकर्मा । **एषः** आसङ्गस्यात्मा **स्वनद्रथः** शब्दायमानरथः सन् **विश्वानि** व्याप्तानि सौभगानि धनानि शत्रूणां स्वभूतानि **अभ्यस्तु** अभिभवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Praise me, saying), "He who has presented riches to me with a golden purse; may this rattling chariotof **Asaṅga** carry off all the treasures (of my enemy)".”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who has bounteously given two silvery (horses) to me, together with a  golden hide,  
 let him be dominant over all auspicious things—Svanadratha, (son of)  Āsaṅga.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he who gave me two brown steeds together with their cloths of gold,  
      May he, Asanga's son Svanadratha, obtain all joy and high felicities.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der mir zwei Schimmel geschenkt hat samt goldener Schabracke, der soll alles Glück noch übertreffen: Svanadratha, des Asanga Sohn!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der mir zwei braune Rosse nebst goldner Decke schenkte, Asanga's Sohn Svanadratha möge alle Glücksgüter in seine Gewalt bringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто пожаловал мне пару рыжих (коней)  
 Вместе с золотой попоной,  

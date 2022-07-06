@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा वि꣡ जज्ञे जन꣡यन्न् अ꣡मर्तियः  
 प्रत꣡पञ् ज्यो꣡तिषा त꣡मः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 त्रिधा꣡तु अस्य दं꣡ससा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । सुऽस्तु॑तः । क॒विऽभिः॑ । निः॒ऽनिज॑म् । द॒धे॒ । त्रि॒ऽधातु॑ । अ॒स्य॒ । दंस॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 **वृषा** कामानां वर्षकः **अमर्त्यः** मनुष्यधर्मरहितः सोमः **वि** **जज्ञे** विज्ञायते । किं कुर्वन् । **जनयन्** शब्दं ज्योतिर्वोत्पादयन् **ज्योतिषा** स्वीयेन **तमः** **प्रतपन्** प्रज्वलयन् विनाशयन् प्रादुर्भवति । ततः **कविभिः** मेधाविभिः स्तोतृभिः **सुष्टुतः** **सः** सोमः **निर्णिजं** निर्णेजनहेतुं मिश्रणं गव्यं **दधे** धारयति । अथ **त्रिधातु** त्रिषु सवनेषु देवानां पोषकम् । यद्वा । त्रयः सोमधारका द्रोणकलशादयो यस्मिन् । तद्यज्ञार्थं कर्म **अस्य** सोमस्य **दंससा** कर्मणा ध्रियते खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 He has assumed his shining robe: he has blended himself with the milk, for the sake of being cleansed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull has been born, the immortal that gives birth, burning away the  darkness with his light.  
 Well-praised by the poets, he dons his raiment, a threefold one, by his  wondrous ability.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the “threefold” (tridhā́tu) nature of Soma’s clothing, see comm. ad IX.70.8.
 
@@ -149,23 +149,23 @@ These two vss. are syntactically independent but both concern Soma as bull (vṛ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Mighty One was born Immortal, giving life, lightening darkness with his shine.  
      Wcll-praised by. sages he hath. by his wondrous power assumed the Threefold as his robe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Unsterbliche ward als zeugender Bulle erzeugt, der das Dunkel mit dem Lichte erglüht. Von den Dichtern schön gepriesen legt er sein Festgewand an, sein dreifaches Kleid durch seine Geschicklichkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist erzeugt, der zeugende, unsterbliche, der Finsterniss durch Licht erhellt, Gepriesen von den Sängern legt er Schmuck sich an dreimal nach seiner Wunderkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он был рожден как порождающей бессмертный бык,  
 Светом озаряющий мрак.  

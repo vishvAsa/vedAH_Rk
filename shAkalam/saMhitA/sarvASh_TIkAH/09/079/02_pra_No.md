@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ णो धन्वन्तु इ꣡न्दवो मदच्यु꣡तो  
 ध꣡ना वा ये꣡भिर् अ꣡र्वतो जुनीम꣡सि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वयं꣡ ध꣡नानि विश्व꣡धा भरेमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ति॒रः । मर्त॑स्य । कस्य॑ । चि॒त् । परि॑ऽह्वृतिम् । व॒यम् । धना॑नि । वि॒श्वधा॑ । भ॒रे॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -115,36 +115,36 @@ genre M
 **प्र** **धन्वन्तु** प्रगच्छन्तु **नः** अस्माकम् **इन्दवः** सोमाः **मदच्युतः** मदस्राविणः । **वा** अथवा। किंचेत्यर्थः। **धना** धनान्यपि प्र धन्वन्तु । **येभिः** यैः सोमैः **अर्वतः** बलवतः शत्रोः समीपं **जुनीमसि** जुनीमः प्राप्नुमः । **कस्य** **चित्** कस्यापि **मर्तस्य** मनुष्यस्य प्रबलस्य **परिह्वृतिं** परितो बाधां **तिरः** तिरस्कुर्वन्तो **वयं** **धनानि** गवादिरूपाणि **विश्वधा** सर्वदा **भरेमहि** बिभृयाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May they flow to us, may they bring us riches-- the honey-dropping **Soma**-juices by whose aid we encounter the powerful (enemy); may we overcoming the opposition of every man always bear off his wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let our drops run forth, those arousing exhilaration, or (those) with  which we speed the chargers to the stakes,  
 across the crookedness of any mortal. May we always bear away the stakes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forward to us the drops, distilling meath, shall flow, like riches for whose sake we urge the horses on.  
      Beyond the crafty hindering of all mortal men may we continually bear precious wealth away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unsere Somasäfte sollen rauscherregt rinnen oder die Kampfpreise gewinnen, durch die wir die Rennpferde zur Eile treiben. An dem Fallstrick irgendeines Sterblichen vorbei wollen wir allemal die Kampfpreise davontragen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor mögen unsre Indu's Rausch-erregend gehn, durch die wir Rosse schnell uns schaffen oder Gut, Wir mögen über jedes Menschen Ränke hin die reiche Beute sicher tragen allezeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть мчатся вперед наши капли, возбуждая опьянение  
 Или (срывая) ставки, ради которых мы торопили скаковых коней!  

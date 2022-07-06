@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्य꣡ सो꣡मो मति꣡भिः पुनानो꣡  
 अ꣡त्यो न꣡ वाजी꣡ त꣡रती꣡द् अ꣡रातीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उर्व् इ᳡व गातुः꣡ सुय꣡मो न꣡ वो꣡ळ्हा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पयः॑ । न । दु॒ग्धम् । अदि॑तेः । इ॒षि॒रम् । उ॒रुऽइ॑व । गा॒तुः । सु॒ऽयमः॑ । न । वोळ्हा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -134,20 +134,20 @@ genre M
 **एष** एतादृशः **स्यः** सः **सोमः** **मतिभिः** मननसाधनैः स्तोत्रैः **पुनानः** पूयमानो भवति । यः सोमः **अत्यो** **न** अतनशीलः **वाजी** अश्व इव संग्रामे **अरातीः** अरातीन् शत्रून् **तरति** । **इत्** अवधारणे । तरत्येव हिनस्त्येव । यद्वृत्तयोगादनिघातः। किंच **अदितेः** । गोनामैतत् । अदीनाया गोः **इषिरम्** अन्वेषणीयं **दुग्धं** **पयो** ”न क्षीरं यथा पूतं भवति एवं सोमः परिशुद्धः । अपि च **उर्विव**। ‘सुपां सुलुक् इति सोर्लुक् । उरुर्विस्तीर्णः **गातुः** मार्ग इव सर्वैः समाश्रयणीयस्तथा **वोळ्हा** वोढाश्वः **सुयमः** सुष्ठु नियन्तुं शक्यो यथा भवति तद्वदयं सोमः स्तोतृभिः नियन्तव्यो भवति ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Soma** (is) purified with praises, like a strong horse he overthrows (his) foes; (he is purified) like the strong milk milked from the cow, (flocked to by all) like a broad road, (and guided by the praisers) like a well-trained horse of burden.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This very Soma, being purified by poetic thoughts, like a prizewinning  steed just outstrips hostilities.  
 Like the milk milked out of Aditi, it is invigorating, broad like a way,  like a draft-horse easy to control.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I don’t know what íd contributes in b, beyond inducing accent on the verb tárati.
 
@@ -158,23 +158,23 @@ Oldenberg, Geldner, and Renou all make more of the gender mismatch in the simile
 páyaḥ, even though, given the position of ná, the simile should rightly be “like a broad way” rather than “broad like a way.” The masc. suyámaḥ in the next simile may result from the more animate quality of the content of the simile itself, the draught-horse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Purified with our holy hymns, this Soma o'ertakes malignities like some strong charger,  
      Like fresh milk poured by Aditi, like passage in ample room, or like a docile car-horse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma, der unter Gebeten geläutert wird, entgeht wie ein siegreicher Renner den Feinden. Wie gemolkene Milch ist die Milch der Aditi rasch zur Hand, breit wie ein Weg, wie ein Zugroß lenksam.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, dieser Soma, durch Gebet gereinigt, besiegt die Frevler wie ein schnelles Streitross, Gleichwie gemolkne frische Milch der Milchkuh, wie freie Bahn, wie leicht gelenktes Zugthier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот самый сома, очищаемый молитвами,  
 Как скакун-завоеватель награды, обгоняет враждебные силы.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ वा ते स꣡न्ति दाशु꣡षे अ꣡धृष्टा  
 गि꣡रो वा या꣡भिर् नृव꣡तीर् उरुष्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुम꣡त् सूरी꣡ञ् जरितॄ꣡ञ् जातवेदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ताभिः॑ । नः॒ । सू॒नो॒ इति॑ । स॒ह॒सः॒ । नि । पा॒हि॒ । स्मत् । सू॒रीन् । ज॒रि॒तॄन् । जा॒त॒ऽवे॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -129,37 +129,37 @@ genre M
 **सहसः** **सूनो** हे बलस्य पुत्र **जातवेदः** अग्ने **दाशुषे** दाशुषः **ते** तव **याः** **वा** याश्च ज्वालाः **सन्ति** । **अधृष्टाः** रक्षोभिः अप्रधृषिताः **गिरो** **वा** गिरश्च सन्ति । **याभिः** गीर्भिः **नृवतीः** पुत्रवतीः प्रजाः **उरुष्याः** रक्षेः । **ताभिः** उभयीभिः **नः** अस्मान् । **स्मत्** इति प्रशस्तवचनः । प्रशस्तान् **सूरीन्** हविषां प्रेरकान् **जरितॄन्** स्तोतॄंश्च **नि** **पाहि** नितरां रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Son of strength, **Jātavedas**, with those unobstructed (splendours) which belong to you, a munificentdonor, and with those praises wherewiḥ you protect people with their posterity, do you protect us yourworshippers and praisers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your unassailable (strongholds)—either those which are for your  servant or those by which you will make a wide path for our  
 manly songs—  
 by these, son of strength, protect us altogether, both patrons and  singers, o Jātavedas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine are resistless songs for him who offers, and hero-giving hymns wherewith thou savest;  
      With these, O Son of Strength, O Jatavedas, guard us, preserve these princes and the singers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die unbezwingbaren Burgen, die du für den Opfernden hast, oder mit denen du die mannhaften Lobreden schützen kannst, mit denen schirme, du Sohn der Kraft, in gleicher Weise unsere freigebigen Patrone und uns Sänger, o Jatavedas!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit unbesiegten Hülfen, die dem Frommen du schaffst, durch die du schirmst der Männer Lieder, Mit denen schütz uns, o du Sohn der Stärke, o Wesenkenner, Opferherrn und Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) неодолимые (крепости), которые у тебя есть для почитающего (тебя)  
 Или которыми ты можешь охранить мужественные хвалебные песни,  

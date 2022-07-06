@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ च त्वं꣡ च वृत्रहन्  
 सं꣡ युज्याव सनि꣡भ्य आ꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; repeated line
 अ॒रा॒ति॒ऽवा । चि॒त् । अ॒द्रि॒ऽवः॒ । अनु॑ । नौ॒ । शू॒र॒ । मं॒स॒ते॒ । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -128,42 +128,42 @@ genre M;; repeated line
 हे वृत्रहन् इन्द्र **त्वं** च **अहं** **च** **सं** **युज्याव** संगतौ भवाव । कियदवधीति उच्यते । **सनिभ्य** **आ** यावता कालेन धनानि लभ्यन्ते तावत्कालम् । **नौ** संगतयोश्चावयोर्हे **अद्रिवः** वज्रवन् इन्द्र **अरातीवा** अदानोऽपि जनस्त्वद्दत्तधनस्य **अनु** **मंसते** अनुमतिं करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May I and you, slayer of **Vṛtra**, be close to you united until wealth is obtained; hero, wielding thethunderbolt, even the niggard concedes (that our union gives wealth); **Indra**'s gifts are worthy of praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I and you, o Vr̥tra-smasher—let us two yoke ourselves together for  winnings.  
 Even a hostile man, o master of the stones, will yield to the two of us, o  champion.  
 – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The full specification of the subject of the 1st dual verb sáṃ yujyāva as aháṃ ca tváṃ ca is noteworthy, since generally the subject is reduced by gapping, as in VII.88.3 ā́yád ruhā́va váruṇaś ca nā́vam “When we two, (I) and Varuṇa, mounted the boat …” VIII.34.16 índraś ca dádvahe “We two, (I) and Indra, took …,”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Vrtra-slayer, thou and I will both combine for winning spoil.  
      Even malignity will consent, O Bolt-armed Hero, unto us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich und du, Vritratöter, wir wollen uns verbünden zum Gewinn. Auch der Mißgünstige soll uns beiden gewogen sein, o Held, Herr des Preßsteins. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wollen, Vritratödter, uns zum Sieg verbünden, ich und du; Dann wird, o Held, o Schleuderer, uns weichen jeder Bösewicht; des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я и ты, о убийца Вритры,  
 Хотим обьединиться вдвоем – для достижений.  

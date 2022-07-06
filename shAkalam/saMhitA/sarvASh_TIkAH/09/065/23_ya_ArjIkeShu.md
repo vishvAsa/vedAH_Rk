@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ आर्जीके꣡षु कृ꣡त्वसु  
 ये꣡ म꣡ध्ये पस्ति꣡याना᳐म्  
 ये꣡ वा ज꣡नेषु पञ्च꣡सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ये । वा॒ । जने॑षु । प॒ञ्चऽसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ये** वा सोमाः **आर्जीकेषु** । ऋजीकानामदूरभवा आर्जीका देशाः । तेषु तथा **कृत्वसु** । कृत्वान इति देशाभिधानम् । तेषु कर्मवत्सु देशेषु च किंच **पस्त्यानां** सरस्वत्यादीनां नदीनां **मध्ये** समीपे च **ये** सोमा अभिषूयन्ते । **ऋषयो** वै सरस्वत्यां सत्रमासत' (ऐ. ब्रा. २.१९) इत्यादिषु नदीतीरे यज्ञकरणस्य श्रवणात् । किंच **जनेषु** **पञ्चसु** । निषादपञ्चमाश्चत्वारो वर्णाः पञ्च जनाः । तेषु च **ये** **वा** सोमा अभिषुताः ते सोमा अस्माकमभिमतं प्रयच्छन्त्वित्युत्तरेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Ṛṣayo vai sarasvatyām satramāsata: **Aitareya** **Brāhmaṇa** 2.19; five castes: **niṣādas** are added to make the number five
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those (pressed) in foamy (places) among performers (of rituals), those  in the middle of dwelling places,  
 or those among the five peoples,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou (see also Mayr. PN s.vv.) take ārjīkéṣu and kṛ́tvasu as referring to peoples. On ārjīká- see comm. ad VIII.7.29 and Thieme, Unters. p. 40 n. 2. As for kṛ́tvan-, since in its other two occurrences in the RV (VIII.24.25, X.144.3) it is adjectival, in the meaning ‘active, enterprising’, I see no reason why it should be a proper noun only here. I was tempted to tr. it “ritually active,” but this came uncomfortably close to “sexually active.” As for pastyā̀- as ‘dwelling place’, rather than ‘river’ (Geldner, Renou, etc.), see comm. ad I.40.7 and IX.97.18.
 
@@ -112,23 +112,23 @@ As noted in the published introduction, this tṛca is thematically unified by a
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those pressed among Arjikas, pressed among the active, in men's homes,  
      Or pressed among the Races Five-
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die bei den Arjika´s, bei den Kritvan´s, die innerhalb des Flußgebiets oder bei den fünf Völkern,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die in Behältern voller Kraft, die mitten in dem Heimatsitz Und bei den fünf Geschlechtern sind,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

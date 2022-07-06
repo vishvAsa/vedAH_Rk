@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इद꣡म् उ त्य꣡त् पुरुत꣡मम् पुर꣡स्ताज्  
 ज्यो꣡तिस् त꣡मसो वयु꣡नावद् अस्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गातुं꣡ कृणवन्न् उष꣡सो ज꣡नाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नू॒नम् । दि॒वः । दु॒हि॒तरः॑ । वि॒ऽभा॒तीः । गा॒तुम् । कृ॒ण॒व॒न् । उ॒षसः॑ । जना॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idam*
 - \[noun\], nominative, singular, neuter
@@ -120,7 +120,7 @@ genre M
 **इदमु** पुरतो दृश्यमानमिदं **त्यत्** तदस्माभिः स्तुत्यं सर्वप्रसिद्धं **पुरुतमम्** अत्यन्तप्रभूतं **ज्योतिः** तेजः **वयुनावत्** ॥ वेतेः कान्तिकर्मण इदम् ॥ प्रकृष्टकान्तिमत् । अथवा वयुनमिति प्रज्ञानाम । प्रज्ञोपेतम् । सर्वस्य प्रज्ञापकमित्यर्थः । कीदृक् तेजः । **पुरस्तात्** पूर्वस्यां दिशि **तमसः** अन्धकारात् **अस्थात्** उदतिष्ठत् । एवं सति **नूनं** सत्यं **दिवः** अदित्यस्य **दुहितरः** दुहितृस्थानीयाः **विभातीः** विभानं कुर्वतीः **उषसो** **जनाय** यजमानानां **गातुं** गमनं गमनादिव्यापारसामर्थ्यं **कृणवन्** अकुर्वन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,34 +131,34 @@ genre M
 Gātum kṛṇavan janāya = yajamānānām gamanādi **vyāpāra** sāmarthyam akurvan, they give to the offerer of sacrifice the ability to perform the acts such as going
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here has this light, the latest of many, stood (up) out of the east from the  darkness, with its patterns.  
 Now the daughters of Heaven radiating widely, the Dawns, will make a  way for the people.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the dawns are so insistently in the plural in this hymn that when a single one is referred to, another word must be used -- in this case jyótiḥ ‘light’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FORTH from the darkness in the region eastward this most abundant splendid light hatb mounted.  
      Now verily the far-refulgent Mornings, Daughters of Heaven, bring welfare to the people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort vorne im Osten ist dies Licht zum vielten Male der Finsternis entstiegen, die Zeiten machend. Nun sollen des Himmels Töchter, die Usas, durch ihr Erstrahlen dem Menschen den Weg bereiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Licht erhob sich, das sich stets erneuet, mit hellem Schein im Osten aus dem Dunkel; Des Himmels Tochter, helle Morgenröthen, sie mögen Wohlfahrt schaffen nun dem Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот свет, лучший из многих, восстал  
 На востоке из мрака, делая (все) различимым.  

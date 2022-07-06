@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्ये꣡ नो मरु꣡तो मन्दसाना꣡  
 धि꣡यं तोकं꣡ च वाजि꣡नो अवन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वीवृधन् यु꣡जियं ते꣡ रयिं꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मा । नः॒ । परि॑ । ख्य॒त् । अक्ष॑रा । चर॑न्ती । अवी॑वृधन् । युज्य॑म् । ते । र॒यिम् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre M
 **उत** अपि च **मन्दसानाः** मोदमानाः **वाजिनः** वेगवन्तः **त्ये** ते **मरुतः** **नः** अस्मदीयं **धियं** यज्ञाख्यं कर्म **तोकं** **च** अस्मदीयं पुत्रं च **अवन्तु** रक्षन्तु । **अक्षरा** व्याप्ता **चरन्ती** वाग्देवता च **नः** अस्मान् **परि** त्यक्त्वा अस्मद्व्यतिरिक्तानन्यान् **मा** **ख्यत्** मा द्राक्षीत् । **ते** पूर्वोक्ता मरुतो वाक्च **युज्यं** युक्तमपि **नः** अस्मदीयं **रयिं** धनम् अवीवृधन् वर्धयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ genre M
 Let not the imperishable goddess of speech: mā naḥ parikhyad akṣarācaranti = **akṣarā** vyāptā caranti vāgdevatā asmān parityaktvā asmād vyatiriktā mā drākṣīt, let notthe diffusive deity of speech, having abandoned us, look upon our opponents
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And these Maruts, exulting—let the prizewinners aid our insight and  progeny.  
 Let not the imperishable (cow? [=Pr̥śni?]) overlook us as she roams. They  have increased wealth to be harnessed for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And may the mighty Maruts, too, rejoicing, aid our devotion and protect our offspring.  
      Let not swift-moving Aksara neglect us: they have increased our own appropriate riches,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch jene Marut, die sieghaften, sollen begeistert unser Lied und unseren Samen begünstigen. Nicht möge uns die weidende Kuh meiden. Diese haben den uns zukommenden Reichtum vermehrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diese muntern, starken Maruts mögen beschützen unsre Andacht, unsre Kinder; Nicht fehle uns der Strom, der wandernd rinnet, die Maruts mehrten unsre eigne Habe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также те Маруты, радостно настроенные,  
 Пусть поддержат нашу молитву и потомство, (они,) приносящие награду!  

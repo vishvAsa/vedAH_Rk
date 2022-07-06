@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्र꣡त्वा महाँ꣡ अनुष्वध꣡म्  
 भीम꣡ आ꣡ वावृधे श꣡वः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 ह꣡स्तयोर् व꣡ज्रम् आयस꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M
 श्रि॒ये । ऋ॒ष्वः । उ॒पा॒कयोः॑ । नि । शि॒प्री । हरि॑ऽवान् । द॒धे॒ । हस्त॑योः । वज्र॑म् । आ॒य॒सम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
@@ -115,37 +115,37 @@ genre M
 **क्रत्वा** कर्मणा प्रज्ञया वा **महान्** सर्वाधिकः **भीमः** शत्रूणां भयंकरः इन्द्रः **अनुष्वधम्** । स्वधा इति अन्ननाम । स्वधायाम् । विभक्त्यर्थे अव्ययीभावः । सोमलक्षणस्यान्नस्य पाने सतीत्यर्थः । **शवः** आत्मीयं बलम् **आ** **ववृधे** आभिमुख्येन प्रवर्धयत् । तदनन्तरम् **ऋष्वः** दर्शनीयः **शिप्री**। शिप्रे हनू नासिके वा। तद्युक्तः **हरिवान्** हरिनामकाश्वोपेत इन्द्रः **उपाकयोः** अन्तिकनामैतत् । समीपवर्तिनोः **हस्तयोः** बाह्वोः **आयसम्** अयोमयं **वज्रं** **श्रिये** संपदर्थं **नि** **दधे** निदधाति स्थापयति। सोमपानेन हृष्टः प्रबल इन्द्रः शत्रूणां हननाय हस्ते वज्रं गृह्णातीति तात्पर्यार्थः ॥ क्रत्वा ।  ‘ जसादिषु च्छन्दसि वावचनम् ' इति नाभावस्य विकल्पितत्वादभावः । आयसम् ।  ‘ तस्य विकारः' इति अण्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mighty through sacrifice, formidable (to foes), partaking of the sacrificial food, **Indra** has augmented his strength; plural asing in appearance, having a handsome chin, and possessing (bright) coursers, he grasps the metal thunder-bolt in his contiguous **hands** for (our) prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through his resolve the great, fearsome one has increased his strength in  accord with his own nature.  
 For splendor the lofty belipped possessor of fallow bays has taken  
 the metal mace into his own clasped hands.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mighty through wisdom, as he lists, terrible, he hath waxed in strength.  
      Lord of Bay Steeds, strong-jawed, sublime, he in joined hands for glory's sake hath grasped his iron thunderbolt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An Einsicht groß, hat der Furchtbare nach eigenem Ermessen seine Stärke noch erhöht. Zur Herrlichkeit hat der Recke in die beiden aneinandergeschlossenen Hände die eherne Keule genommen, der Falbenlenker mit der geöffneten Lippe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An Stärke gross nach eigner Wahl, erwuchs zur Macht der schreckliche; Der Füchselenker, schön behelmt, erhaben nahm zum Heil den Blitz in beide Arm', den ehernen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Великий силой духа, по своей воле  
 Страшный (еще) нарастил (свою) мощь.  

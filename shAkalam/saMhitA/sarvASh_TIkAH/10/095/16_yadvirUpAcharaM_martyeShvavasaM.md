@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वि꣡रूपा अ꣡चरम् म꣡र्तियेषु  
 अ꣡वसं रा꣡त्रीः शर꣡दश् च꣡तस्रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡द् एवे꣡दं꣡ तातृपाणा꣡ चरामि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 घृ॒तस्य॑ । स्तो॒कम् । स॒कृत् । अह्नः॑ । आ॒श्ना॒म् । तात् । ए॒व । इ॒दम् । त॒तृ॒पा॒णा । च॒रा॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre D
 **यत्** यदा **विरूपा** मनुष्यसंपर्काद्विगतसहजभूतदेवरूपा पत्यानुकूल्येन नानारूपा वा **मर्त्येषु** मनुष्येषु **अचरं** तदानीं **रात्रीः** प्ररमयित्रीः **चतस्रः** **शरदः** **अवसं** न्यवसम् । अत्यन्तसंयोगे द्वितीया । तदानीं **घृतस्य** **स्तोकं** **सकृदह्न** **आश्नाम्** । **तादेव** तेनैव स्तोकेनाहम् **इदं** संप्रति **तातृपाणा** तृप्ता सती **चरामि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre D
 Delightful years: praramayitrīḥ = pūrayitrīḥ,i.e., satisfying; or, **rātrīḥ**: I spent my nights there during four years
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Urvaśī:] “When in different form I roamed among mortals and spent  the nights (with you?) for four autumns,  
 once a day I ate a drop of ghee. Just from that I continue to be sated now.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When amid men in altered shape I sojourned, and through four autumns spent the nights among them,  
      I tasted once a day a drop of butter; and even now with that am I am contented.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ich in anderer Gestalt unter den Sterblichen wandelte, vier Jahre lang alle Nächte bei dir wohnte, da genoß ich einmal des Tags einen Tropfen Schmalz. Davon bin ich noch jetzt gesättigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Als ich in andrer Gestalt unter den Sterblichen wanderte und bei ihnen in den Nächten weilte vier Jahre hindurch, da genoss ich des Tages einmal einen Tropfen Butter, und davon ganz gesättigt wandre ich hier.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

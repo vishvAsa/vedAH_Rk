@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने गृह꣡पतिस्  
 तुवं꣡ हो꣡ता नो अध्वरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 य꣡क्षि वे꣡षि च वा꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । पोता॑ । वि॒श्व॒ऽवा॒र॒ । प्रऽचे॑ताः । यक्षि॑ । वेषि॑ । च॒ । वार्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -108,7 +108,7 @@ genre M
 हे **विश्ववार** विश्वैर्वरणीय **अग्ने** **त्वं** **नः** अस्माकम् **अध्वरे** यागे **गृहपतिः** असि यजमानोऽसि । **त्वं** **होता** देवानामाह्वाता **त्वं** त्वमेव **पोता** असि । अतः **प्रचेताः** प्रकृष्टमतिस्त्वं **वार्यं** वरणीयं हविः **यक्षि** यज । **वेषि** **च** कामयस्व भक्षय वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,29 +119,29 @@ genre M
 Assistant priest:**potā**: he had just been called the **hotā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, you are the houselord; you the Hotar in the rite;  
 you the attentive Potar, o you who grant all wishes—sacrifice and seek  out a desirable reward (for us).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, art the homestead's Lord, our Herald at the sacrifice.  
      Lord of all boons, thou art the Cleanser and a Sage. Pay worship, and enjoy the good.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, bist der Hausherr, du unser Hotri bei dem Opfer, du der kluge Potri, du Allbegehrter. Opfere und begehre für uns Wünschenswertes!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, bist des Hauses Herr und Priester bei dem Opfer uns; O güterreicher, du ein weiser Läuterer, o opfre, führe Gut herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, домохозяин,  
 Ты хотар на нашем обряде,  

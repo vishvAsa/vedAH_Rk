@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡तस्य प꣡त्मन् ईळिता꣡  
 दइ꣡व्या हो꣡तारा म꣡नुषः  
 इमं꣡ नो यज्ञ꣡म् आ꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 इ॒मम् । नः॒ । य॒ज्ञम् । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
@@ -87,7 +87,7 @@ genre M
 **वातस्य** **पत्मन्** । लुप्तोपमैषा । वायुगमनसदृशगमनार्थम् **ईळिता** अस्माभिः स्तुतौ । यद्वा । वातस्य पतनसाधनेऽन्तरिक्षे गच्छन्तौ **दैव्या** देवादग्नेरादित्याच्च समुद्भूतौ **होतारा** देवानामाह्वातारौ युवां **मनुषः** मनुष्यस्य **इमं** **नः** अस्माकं **यज्ञमा** **गतम्** आगच्छतम् । नो मनुषो यज्ञमिति व्यधिकरणे षष्ठ्यौ । अस्माकं यजमानस्य यज्ञमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,33 +98,33 @@ genre M
 On the path of the wind: vātasya patman = with the swiftness of the wind, or through the firmament; to this sacrifice of our patron: manuṣo no yajñam = liṭ, to the sacrifice of our man, i.e. of the **yajamāna**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On the wind’s flight let the two divine Hotars of Manu, being invoked, come to this our sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On the wind's flight come, glorified, ye two celestial Priests of man  
      Come ye to this our sacrifice.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 On the wind's flight, magnified, ye two divine Hotris of man, come hither to this our sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Flug des Windes kommet, ihr beiden göttlichen Hotri des Manu, berufen zu unserem Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu diesem Opfer kommet her im Windes Flug, gepriesene, Des Menschen Götterpriester ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В полете ветра примчитесь,  
 О два божественных  

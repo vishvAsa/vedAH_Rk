@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ सोमा꣡दो ह꣡री इ꣡न्द्रस्य निंसते  
 अंशुं꣡ दुह꣡न्तो अ꣡धि आसते ग꣡वि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रो वर्धते प्र꣡थते वृषाय꣡ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तेभिः॑ । दु॒ग्धम् । प॒पि॒ऽवान् । सो॒म्यम् । मधु॑ । इन्द्रः॑ । व॒र्ध॒ते॒ । प्रथ॑ते । वृ॒ष॒ऽयते॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -124,36 +124,36 @@ popular
 सोमादः सोमस्यात्तारः ते प्रकृता एते ग्रावाणः इन्द्रस्य हरी अश्वौ **निंसते** निक्षन्ति चुम्बन्ति । प्राप्नुवन्तीत्यर्थः । किंच **गवि** अधिषवणचर्मणि अंशु सोमं दुहन्तः **आसते**। किंच **इन्द्रः** **तेभिः** तैः दुग्धं सोम्यं सोममयं मधु अमृतं **पपिवान्**  पीतवान् **वर्धते** वृद्धशरीरो भवति । **प्रथते** विस्तीर्णशरीरश्च भवति । वृषायते वृषेवाचरति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These devourers of **Soma** kiss **Indra**'s horses, milking forth the juice they repose upon the cow, Indrahaving quaffed the sweet Soma milked forth by them increases, waxes broad, grows vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma-eaters kiss the two fallow bays of Indra. Milking the plant,  they sit on the cow(hide).  
 Having drunk the somian honey milked by them, Indra grows strong,  spreads out, plays the bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Soma-eaters kiss Indra's Bay-coloured Steeds: draining. the stalk they sit upon the ox's hide.  
      Indra, when he hath drunk Soma-nicath drawn by them, waxes in strength, is famed, is mighty as a Bull.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Somaesser küssen Indra´s Falbenpaar; indem sie die Stengel ausmelken, sitzen sie auf der Stierhaut. Wann Indra das von ihnen ausgemolkene somische Süß getrunken hat, wächst er, geht er in die Breite, fühlt er sich als Bulle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Somafresser grüssen Indra's Rossepaar, die Pflanze melkend sitzen dort sie bei der Kuh; Wenn Indra trinkt den Methsaft, den sie ausgemelkt, so wird er gross und breit und kräftig wie ein Stier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

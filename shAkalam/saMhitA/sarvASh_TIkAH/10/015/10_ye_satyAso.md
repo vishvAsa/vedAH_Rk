@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ सत्या꣡सो हविर꣡दो हविष्पा꣡  
 इ꣡न्द्रेण देवइः꣡ सर꣡थं द꣡धानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रैः पू꣡र्वैः पितृ꣡भिर् घर्मस꣡द्भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । अ॒ग्ने॒ । या॒हि॒ । स॒हस्र॑म् । दे॒व॒ऽव॒न्दैः । परैः॑ । पूर्वैः॑ । पि॒तृऽभिः॑ । घ॒र्म॒सत्ऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -131,37 +131,37 @@ popular
 **सत्यासः** सत्याः **ये** पितरः **हविरदः** भक्षणयोग्यस्य हविषोऽत्तारो भक्षयितारः **हविष्पाः** पानयोग्यस्य हविषः पातारः **इन्द्रेण** **देवैः** **सरथं** समानमेकं तुल्यं वा रथं **दधानाः**। लडर्थे शानच् । गमनाय सदा धारयन्ति हे **अग्ने** तैः **पितृभिः** सह **आ** **याहि** आगच्छ। कीदृशः । **सहस्रम्** । तृतीयार्थे प्रथमा । सहस्रेण । बहुभिरित्यर्थः । **देववन्दैः** देवसंबन्धिभिः स्तोत्रैर्युक्तः परैः परकालीनैः **पूर्वैः** पूर्वकालीनैः **घर्मसद्भिः** यज्ञसादिभिर्महावीरसादिभिरादित्यसादिभिर्वा ॥ ॥१८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Agni**, with thousands of **Pitṛs**, of both past and future (time), frequenters of sacrifices, eulogistsof the gods; those who are true, who feed on oblations, and drink oblations, possessing equality with **Indra** andthe gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who are truly here—eating oblations, drinking oblations, taking  their place on the same chariot with Indra, with the gods—  
 with them, o Agni, drive here—with the thousand god-extolling,  
 further, earlier forefathers, who sit by the gharma-drink.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Agni, come with countless ancient Fathers, dwellers in light, primeval, God-adorers,  
      Eaters and drinkers of oblations, truthful, who travel with the Deities and Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Wahrhaftigen, die Opferspenden essen und trinken, von Indra und den Göttern auf gleichem Wagen mitgenommen, mit ihnen komm, o Agni, mit den tausend Lobrednern der Götter, mit den fernsten Vorvätern, die beim Gharma sitzen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Opfer essen, Opfer trinken, treu sind, vereint mit Indra und den Göttern fahren, Mit tausend Vätern, früheren und spätern komm, Agni, die im Licht die Götter preisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) истинные, что едят и пьют жертвенные возлияния,  
 (Те, что) взяты Индрой (и) богами на одну колесницу (с собой), –  

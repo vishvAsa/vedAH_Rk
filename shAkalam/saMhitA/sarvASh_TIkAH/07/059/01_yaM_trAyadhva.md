@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ त्रा꣡यध्व इद꣡म्-इदं  
 दे꣡वासो यं꣡ च न꣡यथ  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 म꣡रुतः श꣡र्म यछत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तस्मै॑ । अ॒ग्ने॒ । वरु॑ण । मित्र॑ । अर्य॑मन् । मरु॑तः । शर्म॑ । य॒च्छ॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -112,7 +112,7 @@ genre M
 हे **देवासः** देवाः **इदमिदम्** इतो भयहेतोः **यं** स्तोतारं **त्रायध्वे** पालयध्वे । **यं** **च** स्तोतारं **नयथ** सन्मार्गं प्रापयथ। हे **अग्ने** **वरुण** **मित्र** **अर्यमन्** हे **मरुतः** एवंभूता हे देवाः **तस्मै** स्तोत्रे **शर्म** सुखं **यच्छत** दत्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,12 +125,12 @@ From this world: yam trāyadhvam idam idam yam canayatha: idam = itas, from this
 Idam = sanmārgam, road of virtue
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom you safeguard, o gods, and whom you lead right up here, to him—o Agni, Varuṇa, Mitra, Aryaman, Maruts—extend shelter.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The āmreḍita idám-idam in pāda a must go with the clause in b. The ca that connects the two clauses is slightly displaced: we might expect it to occur after the first element of its clause, namely idám-idam. But the pāda boundary and the intrusion of a pāda-initial voc. dévāsaḥ have clearly interfered with the placement, and the sequence yám … yáṃ ca makes the syntax perspicuous.
 
@@ -139,23 +139,23 @@ The sequence of vocc. in cd is puzzling because the first is unaccented, while t
 are found pāda-internal post-caesura as here (see comm. ad loc.) Both of the factors adduced by Oldenberg no doubt contributed to the accentual behavior of this pāda, but it is a fine reminder that the rules of voc. accent, which we think of as fairly mechanical, are in part rhetorically driven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHOMSO ye rescue here and there, whomso ye guide, O Deities,  
      To him give shelter, Agni, Mitra, Varuna, ye Maruts, and thou Aryaman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wen ihr in Schutz nehmet und wen ihr Götter hierhin und dorthin führet, dem gewähret euren Schirm, Agni, Varuna, Mitra, Aryaman, ihr Marut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wen ihr begünstigt hier und dort, und wem ihr Götter Führer seid; Dem reichet Schutz, o Agni, Mitra-Varuna, o Arjaman, o Marutschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого вы охраняете, о боги,  
 И кого ведете туда (или) сюда,  

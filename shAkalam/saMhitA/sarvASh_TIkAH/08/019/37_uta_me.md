@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ मे प्रयि꣡योर् वयि꣡योः  
 सुवा꣡स्त्वा अ꣡धि तु꣡ग्वनि  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 व꣡सुर् दि꣡याना᳐म् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 ति॒सॄ॒णाम् । स॒प्त॒ती॒नाम् । श्या॒वः । प्र॒ऽने॒ता । भु॒व॒त् । वसुः॑ । दिया॑नाम् । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -105,7 +105,7 @@ genre M
 अप्येतत् यदुक्तं अपि यदेतत् वक्ष्यमाणं इत्युतशब्दः एवमुभयन्तं सम्भावयति मेमह्चं प्रयियोः प्रयायते प्रगम्यते येन तत्प्रयियुर्धनमश्वादि तस्य प्रयि- योर्धनस्य बह्वदात् । ताभिः कन्याभिः सह वयियोः ऊयते येन तद्वयियु वस्त्रादि तस्यच बह्वदात् । तिसृणां सप्ततीनां गवां श्यावः श्यामवर्णोवृषः श्यामवर्णानां प्रणेता प्रकर्षेणनेता अग्रतोगामी भुवद्वसुः भावयिता वसूनाम् प्रशस्तः पूजितलक्षणः दियानां दानार्हाणां गवाम्पतिः ताश्च गाएतत्सं- ख्यायुक्ताः एतद्गुणयुक्ताश्च मत्द्यमदात् क्वपुनरसावदात् सुवास्त्वाः सुष्ठु निवासायानद्याः अधितुग्वनि तीर्थेधि एतददात् मत्द्यम् । सुवास्तुर्नामनदी तुग्वतीर्थं भवतीति निरुक्तम् । अस्याऋचोव्याख्यानं निरुक्तटीकायाउद्धतम् ॥ ३७ ॥आगन्तेति षड्विंशर्चमष्टमं सूक्तम् काण्वस्य सोभरेरार्षम् मारुतं प्रथमाद्यायुजः ककुभः द्वितीयादियुजः सतोबृहत्यः अनुक्रम्यतेहि-आगन्तषड्बिंश- तिर्मारुतमिति । गतोविनियोगः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,35 +120,35 @@ Vayiyu = vastrādi;
 Bhuvadvasuḥ = bhavayitā vasūnāmpraśāṣṭāḥ; śyāmavarṇānām gavām"
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And, at the source of the (River) Suvāstu, the dusky (horse) of Prayiyu,  of Vayiyu,  
 became the leader of thrice seventy (cows) for me. Good is the lord  
 of gifts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 túgvan- is a hapax. Geldner and EWA (hesitatingly) take it as ‘ford’, following one suggestion of Grassmann’s; Oldenberg and Hoffmann (Injunk. 234-35) as ‘Stromschnelle,” following another. Of the two, ‘ford’ would make better sense in context: all this giving would be better at a place where the animals aren't likely to be swept away by a rapidly flowing river. On the other hand, the likely root etymon, √tuj ‘thrust’, is not really conducive to ‘ford’. Renou’s ‘source’, which I follow, solves both problems: a river at its source is generally a fairly placid affair, and √tuj is used esp. of the thrusting forth of progeny, a situation to which the arising of a river could be assimilated.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And Syava too for me led forth a strong steed at Suvastu's ford:  
      A herd of three times seventy kine, good lord of gifts, he gave to me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und an der Furt der Suvastu war der Braune des Prayiyu, des Vayiyu der Anführer von dreimal siebzig Kühen. Gütig ist der Herr der Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und mir war Çjāva der Herbeiführer eines kräftigen Wagenrosses an der Stromschnelle der Suvāstu und einer Schar von dreimal siebzig [Kühen], der gute Herr der Gaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: возле брода (реки) Сувасту  
 Черный (конь,) принадлежавший Прайию, Вайию,  

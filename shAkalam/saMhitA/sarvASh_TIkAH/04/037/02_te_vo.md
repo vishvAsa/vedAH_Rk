@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ वो हृदे꣡ म꣡नसे सन्तु यज्ञा꣡  
 जु꣡ष्टासो अद्य꣡ घृत꣡निर्णिजो गुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्र꣡त्वे द꣡क्षाय हर्षयन्त पीताः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । वः॒ । सु॒तासः॑ । ह॒र॒य॒न्त॒ । पू॒र्णाः । क्रत्वे॑ । दक्षा॑य । ह॒र्ष॒य॒न्त॒ । पी॒ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -127,36 +127,36 @@ genre M
 **अद्य** अस्मिन् यागदिने **ते** एते **यज्ञाः** यागसाधनाः सोमाः **वो** **हृदे** युष्मद्धृदयाय **मनसे** तत्प्रीतये **सन्तु** भवन्तु । अद्यास्मिन् दिने **जुष्टासः** पर्याप्ताः सोमाः **घृतनिर्णिजः** मिश्रणद्रव्येण दीप्तरूपाः **गुः** गच्छन्तु युष्मद्धृदयम् । **सुतासः** अभिषुताः सोमाः चमसेषु **पूर्णाः** **वः** युष्मदर्थं **प्र** **हरयन्त** प्रह्रियन्ते । यद्वा । हर्यंतेः कान्तिकर्मण इदं रूपम् । प्रकर्षेण वः युष्मान् कामयन्ते । **क्रत्वे** क्रतवे कर्मणे **दक्षाय** उत्साहाय **पीताः** **हर्षयन्त** हर्षयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May these sacrifices be (acceptable) to you in heart and mind; may today the sufficient (juices) mixed with butter to you; the full libations are prepared for you; may they, when drunk, animate you for glorious deeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the sacrifices be (pleasing) to your heart and mind: pleasing, they go  today clothed in ghee.  
 The full pressings will give you joy, and when drunk, they will inspire  you to determination and skill.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May these rites please you in your heart and spirit; may the drops clothed in oil this day approach you.  
      May the abundant juices bear you onward to power and strength, and, when imbibed, delight you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Opfer sollen euch nach dem Herzen und Sinn sein, angenehm sollen die schmalzbekleideten euch heute kommen. Die vollgeschenkten Somatränke sollen euer Verlangen erregen; getrunken sollen sie zu Rat und Tat Lust machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Willkommen seien eurem Sinn und Herzen die Opfer heute, diese fettumhüllten; Lasst euch erfreun die eingefüllten Säfte, zu Muth und Kraft die Tränke euch begeistern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти жертвы да будут в вашем сердце (и в вашей) мысли,  
 Приятные, да отправятся они сегодня, одетые в жир!  

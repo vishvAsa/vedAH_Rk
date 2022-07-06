@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ अग्निं꣡ जात꣡वेदसं  
 द꣡धाता देव꣡म् ऋत्वि꣡जम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अद्या꣡ देव꣡व्यचस्तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । य॒ज्ञः । ए॒तु॒ । आ॒नु॒षक् । अ॒द्य । दे॒वव्य॑चःऽतमः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ny* ← *ni*
 - \[adverb\]
@@ -97,41 +97,41 @@ genre M
 हे यजमानाः **जातवेदसं** जातप्रज्ञं जातधनं वा **देवं** द्योतमानम् **ऋत्विजम्** ऋतुयष्टारम् **अग्निं** **नि** **दधात** निधत्त । किंच **देवव्यचस्तमः** देवानामाप्ततमः **यज्ञः** यज्ञसाधनमस्माभिर्दीयमानं हविः **आनुषक्** अनुषक्तं यथा भवति तथा **अद्य** अस्मिन्नहनि तमग्निं **प्र** **एतु** प्रगच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Cherish the divine **Agni**, by whom all that exists is known, the priest (of the rite); may the sacrifice most suitable for the gods duly this day proceed to them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Install Agni Jātavedas, the god and priest.  
 Let the sacrifice go forth in proper sequence today as that which best  encompasses the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Set Jatavedas in his place, Agni the God and Minister.  
      Let sacrifice proceed to-day duly, comprising all the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Lay down Agni Gâtavedas, the god, the priest. May the sacrifice which best encompasses the gods, proceed to-day in due order.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Setzet den Agni Jatavedas ein als göttlichen Opferpriester! Das Opfer soll heute richtig vor sich gehen, das recht viele Götter umfaßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wesenkenner Agni setzt, den Gott, der festlich opfert, hin; Das Opfer schreite heute vor vollauf das götterfassendste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Устройте Агни-Джатаведаса  
 Как божественного жреца!  

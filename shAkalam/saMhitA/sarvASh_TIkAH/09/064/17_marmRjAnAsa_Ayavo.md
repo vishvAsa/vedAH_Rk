@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मर्मृजाना꣡स आय꣡वो  
 वृ꣡था समुद्र꣡म् इ꣡न्दवः  
 अ꣡ग्मन्न् ऋत꣡स्य यो꣡निम् आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्म॑न् । ऋ॒तस्य॑ । योनि॑म् । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *marmṛjānāsa* ← *marmṛjānāsaḥ* ← *marmṛj* ← *√mṛj*
 - \[verb noun\], nominative, plural
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मर्मृजानासः** मर्मृज्यमानाः **आयवः** गन्तारः **इन्दवः** सोमाः **वृथा** आयासं विनैव **समुद्रम्** अन्तरिक्षं गच्छन्ति । एतदेव दर्शयति । **ऋतस्य** उदकस्य **योनिं** स्थानम् **अग्मन्** गच्छन्तीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The swift **Soma**-juices being cleansed (go to) the firmament without an effort; they go to the abode of the water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Continually being groomed, the lively drops  
 have come at will to the sea, to the womb of truth.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -103,23 +103,23 @@ The first two vss. of this tṛca both contain nom. ‘drops’ (índavaḥ) and
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Easily have the living drops, made beautiful, approached the lake,  
      Yea, to the place of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geputzt sind die langlebigen Säfte ausgelassen zum Meere gegangen nach ihrem ordnungsgemäßen Schoße.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Indu's, die gereinigten, die schnellen, sind voll Lust zum Meer Gegangen in des Opfers Schooss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

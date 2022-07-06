@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरु꣡ ते ज्र꣡यः प꣡रि एति बुध्नं꣡  
 विरो꣡चमानम् महिष꣡स्य धा꣡म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दब्धेभिः पायु꣡भिः पाहि अस्मा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑भिः । अ॒ग्ने॒ । स्वय॑शःऽभिः । इ॒द्धः । अद॑ब्धेभिः । पा॒युऽभिः॑ । पा॒हि॒ । अ॒स्मान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uru*
 - \[noun\], nominative, singular, neuter
@@ -118,47 +118,47 @@ genre M
 **महिषस्य** महतः **ते** तव **ज्रयः** राक्षसादीनामभिभावुकं **विरोचमानं** विशेषेण दीप्यमानम् **उरु** विस्तीर्णं **धाम** तेज: **बुध्नम्** अपां मूलभूतमन्तरिक्षं **पर्येति** परितो व्याप्नोति । हे **अग्ने** **इद्धः** अस्माभिः प्रज्वलितः सन् **विश्वेभिः** सर्वैः **स्वयशोभिः** स्वकीयैरात्मीयैस्तेजोभिः **अस्मान्** **पाहि** रक्ष । कीदृशैः । **अदब्धेभिः** राक्षसादिभिरहिंसितैः **पायुभिः** पालनशक्तैः ॥ ज्रयः । ‘ जि ज्रि अभिभवे ' । असुन् । अदब्धेभिः । ‘ दम्भु दम्भे'। निष्ठायां यस्य विभाषा' इति इट्प्रतिषेधः । ‘ अनिदिताम् ' इति नलोपः । ‘ झषस्तथोर्धोऽधः' इति धत्वम् । नञ्समासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् । “ बहुलं छन्दसि ' इति भिस ऐसभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The vast and victorious radiance of you, the mighty one, pervades the firmament; **Agni**, who have been kindled by us, preserve us with all your undiminished and protecting glories.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your broad expanse encompasses your foundation, the wide-shining  domain of the buffalo.  
 When kindled, o Agni, protect us with all your self-glorious,  
 undeceivable protectors.234 I.96
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) assume that pāda a treats the Paryagnikaraṇa or the ritual act of circling around an object with a firebrand, but jráyaḥ ‘expanse, expansion’ seems to me rather to depict the horizontal spread of the fire out from its original kindling place.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wide through the firmament spreads forth triumphant the far-resplendent strength of thee the Mighty.  
      Kindled by us do thou preserve us, Agni, with all thy self-bright undiminished succours.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The wide space encompasses thy base, the resplendent foundation 1 of the buffalo. Agni! Being kindled protect us with all thy undeceivable guardians who are endowed with their own splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein weiter Lauf umkreist die Unterlage, den strahlenden Ursprungsort des Büffels. Agni, schütze uns entflammt mit allen deinen unbeirrten selbstherrlichen Schutzgeistern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein weiter Umfang, er umfasst den Boden, das Haus des Stieres, welches weithin leuchtet; Entflammt mit aller eignen Pracht, o Agni, behüte uns mit zuverläss'gen Hütern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Широкая твоя поверхность движется вокруг основания (жертвенного места).  
 Сверкающей родины быка.  

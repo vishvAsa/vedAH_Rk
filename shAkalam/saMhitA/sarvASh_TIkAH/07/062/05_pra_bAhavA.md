@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ बाह꣡वा सिसृतं जीव꣡से न  
 आ꣡ नो ग꣡व्यूतिम् उक्षतं घृते꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्रुत꣡म् मे मित्रावरुणा ह꣡वेमा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ । नः॒ । जने॑ । श्र॒व॒य॒त॒म् । यु॒वा॒ना॒ । श्रु॒तम् । मे॒ । मि॒त्रा॒व॒रु॒णा॒ । हवा॑ । इ॒मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -122,14 +122,14 @@ genre M;; repeated line
 हे **मित्रावरुणा** मित्रावरुणौ देवौ **बाहवा** युवाभ्यां बाहू **प्र** **सिसृतं** प्रसारयतं हविःस्वीकाराय धनप्रदानाय वा । किमर्थमिति । **नः** **जीवसे** अस्माकं जीवनाय । किंच **नः** अस्माकं **गव्यूतिम्** । गावो यन्ति गच्छन्त्यत्रेति गव्यूतिर्गोमार्गभूमिः । तां तृणादिप्ररोहाय **घृतेन** उदकेन **आ** समन्तात् **उक्षतं** सिञ्चतम् । किंच **नः** अस्मान् **जने** अस्मत्समाने मनुष्यसमूहे वा नोऽस्मान् **श्रवयतं** विश्रुतं कुरुतम् । हे **युवाना** नित्ययौवनौ सर्वत्र व्याप्तौ वा युवां **मे** मम **इमा** इमानि **हवा** आह्वानानि **श्रुतं** शृणुतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Stretch forth your arms for the prolongation of our existence, bedew with water the pastures of ourcattle, render us honoured among men; ever youthful **Mitra** and **Varuṇa**, hear these my invocations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stretch forth your arms for us to live. Sprinkle our pasture-land  
 with ghee.  
@@ -137,23 +137,23 @@ Make us famed among the people, you two youths. Hear these my
 invocations, Mitra and Varuṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Stretch forth your arms and let our lives be lengthened: with fatness dew the pastures of our cattle.  
      Ye Youthful, make us famed among the people: hear, Mitra-Varuna, these mine invocations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Recket die Arme aus uns zum Leben, besprenget unsere Trift mit Schmalz! Machet uns unter dem Volke bekannt, ihr Jugendliche; erhöret diese meine Anrufungen, Mitra und Varuna!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wiesen, Berühmt macht uns, o junge, bei den Menschen, vernehmt mein Rufen, Varuna und Mitra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Простирайте вы двое длани, чтобы мы жили!  
 Окропите наше пастбище жиром!  

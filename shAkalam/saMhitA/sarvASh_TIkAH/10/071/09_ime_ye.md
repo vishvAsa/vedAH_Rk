@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ ये꣡ ना꣡र्वा꣡ङ् न꣡ पर꣡श् च꣡रन्ति  
 न꣡ ब्राह्मणा꣡सो न꣡ सुते꣡करासः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सिरी꣡स् त꣡न्त्रं तन्वते अ꣡प्रजज्ञयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ते । ए॒ते । वाच॑म् । अ॒भि॒ऽपद्य॑ । पा॒पया॑ । सि॒रीः । तन्त्र॑म् । त॒न्व॒ते॒ । अप्र॑ऽजज्ञयः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -131,7 +131,7 @@ popular
 अनया वेदार्थानभिज्ञा निन्द्यन्ते । **इमे** **ये** अविद्वांसः **अर्वाक्** अर्वाचीनमधोभाविन्यस्मिँल्लोके ब्राह्मणैः सह **न** **चरन्ति** ये **परः** परस्तात् देवैः सह **न** चरन्ति ते **ब्राह्मणासः** ब्राह्मणाः वेदार्थतत्पराः **न** भवन्ति । तथा **सुतेकरासः** । सोमं सुतमभिषुतं कुर्वन्तीति सुतेकरा ऋत्विज्ञः । तेऽपि **न** भवन्ति । अप्रजज्ञयः । जानते:  ‘ आदृगमहनः' इति किप्रत्ययः । अविद्वांसः **त** **एते** मनुष्या: **वाचं** लौकिकीम् **अभिपद्य** प्राप्य तथा **पापया** पापकारिण्या वाचा युक्तास्ते **सिरीः** ।  ‘ छन्दसीवानिपौ ' इतीप्रत्ययः ।  ‘ सुपां सुलुक्° ' इति जसः सुः । सीरिणो भूत्वा **तन्त्रं** कृषिलक्षणं **तन्वते** विस्तारयन्ति । कुर्वन्तीत्यर्थः । सर्वथा वेदार्थो ज्ञेय इत्यभिप्रायः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,34 +142,34 @@ popular
 Those who not walk: **arvāk**, **paras**: behind --in front
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who move neither close nor far away, who are not brahmins, and who  do not perform in the soma-pressing,  
 they, having fallen upon speech in a bad way, stretch streams of water  as their warp-thread, producing nothing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those men who step not back and move not forward, nor Brahmans nor preparers of libations,  
      Having attained to Vak in sinful fashion spin out their thread in ignorance like spinsters.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Those men who do not hurry here and there with zeal, Who are not Brahmins nor press out the Soma juice, They having gained, to no good end, the power of speech, As unproductive workers weave their web in vain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die nicht näher und nicht weiter kommen, nicht wirkliche Brahmanen sind, noch bei dem Soma mitwirken, die gebrauchen die Rede in übler Weise und spannen unkundig die fließenden Wasser als Gewebe auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die, welche nicht vorwärts, nicht rückwärts schreiten [beim Opfer nicht thätig sind], nicht Brahmanen sind, noch bei der Somabereitung thätig sind, diese, wenn sie sich an das Wort heranmachen, weben verkehrt ihr Gewebe wie unverständige Weberinnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто не движется ни вперед, ни назад,  
 (Кто) не (настоящие) брахманы (и) не участвующие в приготовление сомы,  

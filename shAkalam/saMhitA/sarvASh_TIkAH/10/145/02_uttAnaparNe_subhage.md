@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡त्तानपर्णे सु꣡भगे  
 दे꣡वजूते स꣡हस्वति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡तिम् मे के꣡वलं कुरु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 स॒ऽपत्नी॑म् । मे॒ । परा॑ । ध॒म॒ । पति॑म् । मे॒ । केव॑लम् । कु॒रु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uttānaparṇe* ← *uttāna*
 - \[noun\]
@@ -108,36 +108,36 @@ popular;; epic anuṣṭubh (525)
 हे **उत्तानपर्णे** उत्तानान्यूर्ध्वमुखानि पर्णानि पत्राणि यस्यास्तादृशि हे **सुभगे** सौभाग्यहेतुभूते हे **देवजूते** देवेन स्रष्ट्रा प्रेरिते हे **सहस्वति** अभिभवनवति ईदृशे हे पाठे **मे** मम **सपत्नीं** स्त्रियं **परा** **धम** परागमय । धमतिर्गतिकर्मा । **पतिं** च **मे** ममैव **केवलम्** असाधारणं **कुरु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O (plural nt) with upturned leaves, auspicious, sent by the gods, powerful, remove my rival and make myhusband mine alone.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You with outstretched leaves, luck-bringing, god-sped, possessing  victorious might—  
 blow away my cowife, make my husband my own.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Auspicious, with expanded leaves, sent by the Gods, victorious plant,  
      Blow thou the rival wife away, and make my husband only mine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Flachblättrige, Glückbringende, Gottgeschickte, Überlegene, blase meine Nebenbuhlerin fort, mache den Gatten mir allein zu eigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Breitblättrige, glückselige, du gottgesandte, kräftige, Die Mitfrau blase mir hinweg, den Mann lass ganz mein eigen sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О широколистная, приносящая счастье,  
 Посланная богами, победительница!  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रा꣡यन्त इव सू꣡रियं  
 वि꣡श्वे꣡द् इ꣡न्द्रस्य भक्षत  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 प्र꣡ति भागं꣡ न꣡ दीधिम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वसू॑नि । जा॒ते । जन॑माने । ओज॑सा । प्रति॑ । भा॒गम् । न । दी॒धि॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrāyanta* ← *śrāyantaḥ* ← *śrī*
 - \[verb noun\], nominative, plural
@@ -111,7 +111,7 @@ genre M
 हे अस्मदीया जनाः **श्रायन्तइव** **सूर्यं** यथा समाश्रिता रश्मयः सूर्यं भजन्ते तथा **इन्द्रस्य** **विश्वेत्** विश्वान्येव धनानि **भक्षत** भजत । स च यानि **वसूनि** धनानि **जाते** उत्पन्ने **जनमाने** जनिष्यमाणे च **ओजसा** बलेन करोति **भागं** **न** पित्र्यं भागमिव तानि धनानि **प्रति** **दीधिम** प्रतिधारयामेति । यद्वा । श्रयन्तइव सूर्यं यथा समाश्रिता रश्मयः सूर्यमुपतिष्ठन्ते तथेन्द्रस्य विश्वा विश्वानि विभक्तुमिच्छन्तः समाश्रिता मरुत इन्द्रमुपतिष्ठन्त इति शेषः । उपस्थाय च मरुतो वसूनि उदकलक्षणानि धनानि जाते जातीय जनमाने जनिष्यमाणाय च मनुष्याय च ओजसा बलेन भक्षत विभजन्ते । तत्र चास्माकं यो भागस्तं भागम् । नेति संप्रत्यर्थे । प्रतीत्येषोऽन्वित्येतस्य स्थाने । अनु दीधिम वयमनुध्यायाम । तथा च यास्कः - ‘ समाश्रिताः सूर्यमुपतिष्ठन्ते । अपि वोपमार्थे स्यात्सूर्यमिवेन्द्रमुपतिष्ठन्त इति । सर्वाणीन्द्रस्य धनानि विभक्ष्यमाणाः । स यथा धनानि विभजति जाते च जनिष्यमाणे च वयं भागमनुध्यायाम ' (निरु. ६, ८) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ Bhakṣata =bhajata (or, vibhajante?): (O worshippers), as the gathering (rays) 
 Alternative: the gathering (rays) proceeding to the sun distribute all Indra'streasures (to living beings, as rain, corn etc.) may we too by our power leave these treasures as an inheritance tohim who has been or will be born
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As those who “get cooked” [=become warm/fervent] share in the sun,  they share in all (the goods) of Indra.  
 When he [=the Sun?] who has been born before is being born (again) with  strength, we direct our thoughts toward goods, as if toward our share.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile in the first pāda of this verse is quite problematic: not only is the image intended quite unclear, but the verbal stem śrāya- in participial śrāyanta(ḥ) (so Pp., Grassmann rather śrāyante) is a near hapax (only here in the RV, other instances in MS I.8.2, TĀr. IV.2.5 = ĀpŚS XV.3.7). Most tr. take it as transitive ‘cooking’ (so Geldner, e.g.); Oldenberg argues that sū́ryam should be the object: “like those cooking the sun, as it were,” while Geldner takes bhakṣata as the governing verb (“As [people] cooking use [nutzen] the sun, they enjoy [geniessen] all [the goods] of Indra” - ‘nutzen’ and ‘geniessen’ must be his alternative tr. of abhakṣata depending on the object).
 
@@ -141,23 +141,23 @@ The only reason I can see for the sun to make this distinctly odd appearance in 
 Note that bhakṣata of the first hemistich is reprised by a nominal derivative of √bhaj, bhāgám, in the second, and that the “goods” that need to be supplied in ab are present as vásūni in c. This interdependence of the two half-verses supports the notion that the sū́ryam of a is a pretaste of the unexpressed sun of c. The next pragātha, vss. 5-6, may show the same covert interdependence; see disc. ad 5c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Turning, as 'twere, to meet the Sun, enjoy from Indra all good things.  
      When he who will be born is born with power we look to treasures as our heritage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Kochenden die Sonne nutzen, so genießen sie alle Götter des Indra. So oft die Sonne mit Kraft geboren ist, erwarten wir die Güter wie unseren Anteil.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sich wendend wie zur Sonne hin empfangen Indra's Güter sie; Wenn der geborne neu geboren wird mit Kraft, fällt alles uns als Erbtheil zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно греющиеся – солнце,  
 Они используют все (блага) Индры.  

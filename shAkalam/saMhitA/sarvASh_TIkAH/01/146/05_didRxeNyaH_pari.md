@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिदृक्षे꣡ण्यः प꣡रि का꣡ष्ठासु जे꣡निय  
 ईळे꣡नियो महो꣡ अ꣡र्भाय जीव꣡से  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग꣡र्भेभियो मघ꣡वा विश्व꣡दर्शतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पु॒रु॒ऽत्रा । यत् । अभ॑वत् । सूः । अह॑ । ए॒भ्यः॒ । गर्भे॑भ्यः । म॒घऽवा॑ । वि॒श्वऽद॑र्शतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *didṛkṣeṇyaḥ* ← *didṛkṣeṇya*
 - \[noun\], nominative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 अयमग्निः **काष्ठासु** परस्परं क्रान्त्वा वर्तमानासु दशसु दिक्षु **दिदृक्षेण्यः**। अनुग्रहयुक्त्या दर्शनयुक्तः भवति । यद्वा । द्रष्टुमेष्टव्यो दर्शनेच्छाविषयभूतः ॥ दृशेः सनन्तात् कृत्यार्थे तवैकेन्केन्य०  इति केन्यप्रत्ययः । अत एव **जेन्यः** सर्वत्र प्रादुर्भवनशीलो भवति जयशीलो वा । किंच प्रदानसमये **ईळेन्यः** स्तुत्यो भवति । किमर्थमेवम् । **महः** महतो देवादेः **अर्भाय** अर्भकस्याल्पस्य यजमानादेर्वा **जीवसे** जीवनाय । हविर्वहनेन धनप्रदानेन इति विवेकः । तत्रोपपत्तिमाह । **यत्** **अह** यस्मात् खलु **पुरुत्रा** बहुषु देशेषु ॥ ‘ देवमनुष्य°' इत्यादिना त्राप्रत्ययः ॥ **मघवा** हविर्लक्षणान्नवान् **विश्वदर्शतः** सर्वविषयद्रष्टव्यवानयमग्निः **एभ्यो** **गर्भेभ्यः** ॥ षष्ठ्यर्थे चतुर्थी ॥ एषामृत्विजां गर्भवच्छिशुवदत्यन्तरक्षणीयानां **सूः** **अभवत्** प्रसविता उत्पादयिता अभवत् भवति । तस्मात् नाना हृदा रक्षमाणाः कवयः पदं नयन्तीति पूर्वत्र संबन्धः ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,34 +129,34 @@ genre M
 That pious progeny: the priests are considered the offspring of **Agni**, as they derive their character from the performance of his worship
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Desirable to be seen, a thoroughbred around the racecourse; greatly to be  invoked for the small one to live,  
 since in many places he has become the birth-giver to these embryos—  he, the generous one for all to see.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born noble in the regions, aim of all mens' eyes to be implored for life by great and small alike,  
      Far as the Wealthy One hath spread himself abroad, he is the Sire all-visible of this progeny.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He is worthy to be looked for, round about in his race-courses, the noble who is to be magnified 1, the great one 2, in order that the small may live, as he, the all-visible liberal lord, has become a progenitor for those germs in many places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der gern gesehene, rings in den Schranken heimische, der für groß und klein anzurufen ist zum Leben, da der allen sichtbare Gabenreiche ja für diese Kinder vielerorts die Mutter ward.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der sehenswerthe, edle in der Lüfte Bahn, der preisenswerth für gross und klein zum Leben ist; Denn er, ein Licht, allsichtbar, ist ja weit und breit Erzeuger für die Kinder hier, der mächtige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот,) кого (все) хотят видеть, чувствующий себя дома в оградах вокруг (него),  
 Достойный призывов великого и малого – для жизни,  

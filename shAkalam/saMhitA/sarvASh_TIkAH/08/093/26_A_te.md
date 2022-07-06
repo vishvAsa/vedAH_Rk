@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते द꣡क्षं वि꣡ रोचना꣡  
 द꣡धद् र꣡त्ना वि꣡ दाशु꣡षे  
 स्तोतृ꣡भ्य इ꣡न्द्रम् अर्चत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्तो॒तृऽभ्यः । इन्द्र॑म् । अ॒र्च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ऋषिर्ऋत्विग्यजमानान् प्रत्याह । हे यष्टः **दाशुषे** इन्द्राय हविर्दत्तवते **ते** तुभ्यं **रोचना** रोचनं दीप्यमानं **दक्षं** बलम् **आ** आभिमुख्येन **वि** **दधत्** इन्द्रो विदधातु । यद्वा । रोचनमिति स्वर्गः । देवतेजसा दीप्तं रोचननामानं लोकं विदधातु । तथा **रत्ना** रत्नानि च तुभ्यं करोतु ।' डुधाञ् धारणपोषणयोः'। लेटि ‘घोर्लोपो लेटि वा' (पा. सू. ७. ३. ७० ) इत्याकारलोपः । अडागमः । हे स्तोतारः **स्तोतृभ्यः** इन्द्रविषयस्तोत्रकारिभ्यो युष्मभ्यं च बलरत्नादिकमिन्द्रः कुरुताम्। तस्मात् तम् **इन्द्रं** यूयम् **अर्चत** हविर्भिः स्तुतिभिश्च पूजयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May he give strength and his brilliant heaven and precious things to you his worshipper, and to hispraising priests; worship **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Agni,) as you diffuse your skill through the luminous realms and  distribute treasures to the pious man.  
 (All of you,) recite to Indra for the praisers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not understand Geldner’s assertion (n. to 26a), that this verse only makes sense if Agni is the speaker, a view shared by Oldenberg I certainly agree that Agni is the subject: I take 26ab as dependent on 25c, where Agni is the 2nd ps. addressee, and take the participle dádhat of b with the objects found in both a and b, with slightly different senses (‘diffuse’ in a, ‘distribute’ in b, both with preverb ví).
 
@@ -124,23 +124,23 @@ The c pādas of all three verses in this tṛca have the same structure: dat. pl
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra give thee skill, and lights of heaven, wealth to his votary  
      And priests who praise him: laud ye him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bringe dir Kraft, indem ich die Lichter, die Kleinode verteile für den Opfernden, für die Sänger. Preiset den Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir theil er Kraft und Himmelsglanz und Schätze dem Verehrer zu, Den Sängern stimmt den Indra hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

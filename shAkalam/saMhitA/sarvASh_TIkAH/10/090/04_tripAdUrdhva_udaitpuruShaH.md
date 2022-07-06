@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिपा꣡द् ऊर्ध्व꣡ उ꣡द् ऐत् पु꣡रुषः  
 पा꣡दो ऽस्येहा꣡भवत् पु꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 साशनानशने꣡ अभि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 ततः॑ । विष्व॑ङ् । वि । अ॒क्रा॒म॒त् । सा॒श॒ना॒न॒श॒ने इति॑ । अ॒भि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tripād* ← *tri*
 - \[noun\]
@@ -126,7 +126,7 @@ popular;; epic anuṣṭubh (380)
 योऽयं **त्रिपात्** **पुरुषः** संसाररहितो ब्रह्मस्वरूपः सोऽयम् **ऊर्ध्व** **उदैत्** अस्मादज्ञानकार्यात्संसाराद्बहिर्भूतोऽत्रत्यैर्गुणदोषैरस्पृष्ट उत्कर्षेण स्थितवान्। तस्य **अस्य** सोऽयं **पादः** लेशः सोऽयम् **इह** मायायां **पुनः** अभवत् सृष्टिसंहाराभ्यां पुनःपुनरागच्छति । अस्य सर्वस्य जगतः परमात्मलेशत्वं भगवताप्युक्तं---- विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ' ( भ. गी. १०. ४२) इति । **ततः** मायायामागत्यानन्तरं **विष्वङ्** देवमनुष्यतिर्यगादिरूपेण विविधः सन् **व्यक्रामत्** व्याप्तवान् । किं कृत्वा । **साशनानशने** अभिलक्ष्य । साशनं भोजनादिव्यवहारोपेतं चेतनं प्राणिजातम् अनशनं तद्रहितमचेतनं गिरिनद्यादिकम् । तदुभयं यथा स्यात्तथा स्वयमेव विविधो भूत्वा व्याप्तवानित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ Proceeds repeatedly: either inindividuals by death and birth, or in the world by
 Sāśanānaśane =those who eat and those who do not; i.e., the two classes of created things, those capable of enjoyment etc., asgods, men, animals, or incapable thereof, as mountains and rivers -- conscious and unconscious creation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With his three quarters the Man went upward, but a quarter of him  came to be here again.  
 From there he strode out in different directions toward what eats and  what does not eat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With three-fourths Purusa went up: onefourth of him again was here.  
      Thence he strode out to every side over what cats not and what cats.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu drei Vierteln stieg Purusa empor, ein Viertel von ihm verjüngte sich hienieden. Von dem aus ging er nach allen Seiten auseinander und erstreckte sich über alles was Speise ißt und was nicht ißt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wieder hier, dann verbreitete er sich über alles, was Speise geniesst, und was sie nicht geniesst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На три четверти взошел Пуруша вверх.  
 Четверть его возникла снова здесь.  

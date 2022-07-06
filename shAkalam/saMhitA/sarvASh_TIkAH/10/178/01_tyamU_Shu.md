@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिय꣡म् ऊ षु꣡ वाजि꣡नं देव꣡जूतं  
 सहा꣡वानं तरुता꣡रं र꣡थानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुअस्त꣡ये ता꣡र्क्ष्यम् इहा꣡ हुवेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अरि॑ष्टऽनेमिम् । पृ॒त॒नाज॑म् । आ॒शुम् । स्व॒स्तये॑ । तार्क्ष्य॑म् । इ॒ह । हु॒वे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 **त्यमु** तं प्रसिद्धमेव **तार्क्ष्यं** तृक्षपुत्रं सुपर्णम् ॥ तृक्षाद्यञ् । गर्गादिः ॥ **स्वस्तये** क्षेमाय **इह** अस्मिन् कर्मणि **हुवेम** भृशमाह्वयेमहि ॥ ' बहुलं छन्दसि ' इति ह्वयतेः संप्रसारणम्। लिङ्याशिष्यङ् । यद्वा । प्रार्थनायां लिङि व्यत्ययेन शः ॥ कीदृशम् । **वाजिनं** बलवन्तमन्नवन्तं वा **देवजूतं** देवैः सोमाहरणाय प्रेरितम् ॥ जु इति गत्यर्थः सौत्रो धातुः । अस्मात् कर्मणि निष्ठा ।' तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ॥ यद्वा । देवैः प्रीयमाणं तर्प्यमाणम् । यदाह यास्कः - ‘ जूतिर्गतिः प्रीतिर्वा देवजूतं देवगतं देवप्रीतं वा' (निरु. १०. २८) इति । **सहावानं** सहस्वन्तं बलवन्तमभिभवनवन्तं वा अत एव **रथानाम्** अन्यदीयानां **तरुतारं** संग्रामे जेतारम् । यद्वा । रंहणशीला इमे लोका रथाः । तान् सोमाहरणसमये शीघ्रं तरीतारम् । श्रूयते हि -- एष हीमाँल्लोकान्सद्यस्तरति ' ( ऐ.ब्रा. ४, २०) इति ॥ तरतेस्तृचि ‘ग्रसितस्कभित° ' इत्यादावुडागमो निपात्यते (पा. सू. ७. २. ३४ ) ॥ **अरिष्टनेमिम्** अहिंसितरथम् । यद्वा । नेमिर्नमनशीलमायुधम् । अहिंसितायुधम् । अथवा । उपचाराज्जनके जन्यशब्दः । अरिष्टनेमेर्मम जनकम् । **पृतनाजं** पृतनानां शत्रुसेनानां प्राजितारं प्रगमयितारं जेतारं वा ।' अज गतिक्षेपणयोः' । अस्मात्क्विप् । ‘बलादावार्धधातुके विकल्प इष्यते' ( का. २. ४. ५६. २) इति वचनाद्वीभावाभावः । जयतेर्वा डप्रत्ययः । **आशुं** शीघ्रगामिनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ genre M
 Tārk.sya: i.e.,**suparṇa**, the son of Tṛkṣa, commissioned by the gods to bring the **Soma** from heaven; cf. **Nirukta** 10.28
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This god-sped prizewinner, victorious overtaker of (other) chariots, him whose wheel-felly cannot be damaged, the swift one driving to  
 battle—Tārkṣya would we summon here for our well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS very mighty one whom Gods commission, the Conqueror of cars, ever triumphant,  
      Swift, fleet to battle, with uninjured fellies, even Tarksya for our weal will we call hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jenen Preisrenner, den gottgetriebenen, überlegenen, der die Wagen überholt, dessen Radkranz unversehrt bleibt, den wettkämpfenden Renner, den Tarksya, wollen wir hier zum Heile anrufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies gottgesandte Ross, das kraftbegabte, das vorwärts dringend schnell die Wagen fördert, Zu Schlachten eilt mit unverletztem Radkranz, den Tārkschja wollen wir zum Heil uns rufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Того самого коня, приносящего награду, поторапливаемого богами,  
 Могучего победителя колесниц,  

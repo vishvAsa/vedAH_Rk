@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हि꣡रण्यरूपः स꣡ हि꣡रण्यसंदृग्  
 अपां꣡ न꣡पात् से꣡द् उ हि꣡रण्यवर्णः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हिरण्यदा꣡ ददति अ꣡न्नम् अस्मै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 हि॒र॒ण्यया॒त् । परि॑ । योनेः॑ । नि॒ऽसद्य॑ । हि॒र॒ण्य॒ऽदाः । द॒द॒ति॒ । अन्न॑म् । अ॒स्मै॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyarūpaḥ* ← *hiraṇya*
 - \[noun\], neuter
@@ -138,14 +138,14 @@ genre M
 सोपान्नपात् हिरण्यरूपः रूप्यइतिरूपंशरीरं सुवर्णमयशरीरः हितरमणीयशरीरोवा तथाहिर ण्यसन्दृक् सम्यक् पश्यन्तीतिसन्दृशिइन्द्रियाणिसुवर्णमयेन्द्रियः हितरणीयेन्द्रियोवा सेदुसएवापान्न पात् हिरण्यवर्णः हिरण्यसदृशकान्तियुक्तः एवम्भूतःसन् हिरण्ययात् सुवर्णमयाद्योनेःस्थानात्पर्यु परि निषद्योपविश्य राजतइतिशेषः अस्मैईदृग्विधायापान्नपातेहिरण्यदाः दक्षिणारूपस्यसुवर्ण स्यदातारोयजमानाः अन्नंहविर्लक्षणन्ददति प्रयच्छन्ति ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The grandson of the waters is of olden form, of golden aspect, of golden hue, and (shines) seated upon a seat of gold; the givers of gold (at solemn rites) present to him (sacrificial) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Golden-formed, he has a golden appearance—the Child of the  
 Waters—and he is also golden-hued,  
@@ -153,28 +153,28 @@ Waters—and he is also golden-hued,
 ground). The givers of gold give food to him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Golden in form is he, like gold to look on, his colour is like gold, the Son of Waters.  
      When he is seated fresh from golden birthplace those who present their gold give food to feed him.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 He is of golden form, of golden aspect, This Son of Waters is of golden colour. And him who from a golden birthplace issues, Those that give gold present with food when seated.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Goldähnlich, wie Gold aussehend ist der Apam Napat, derselbe auch goldfarbig, nachdem er sich niedergelassen hat aus goldenem Schoße kommend. Die Goldgeber geben ihm Nahrung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn golden ist von Farbe er und Ansehn, der Wasser Sohn, und er von goldnem Glanze; Von goldnem Schoosse her sich niedersetzend, gibt Gold er spendend Nahrung diesem Manne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он подобен золоту, выглядит, как золото,  
 Этот Апам Напат и цвета золотого,  

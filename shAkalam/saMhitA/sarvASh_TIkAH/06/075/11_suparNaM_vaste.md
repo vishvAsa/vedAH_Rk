@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुपर्णं꣡ वस्ते मृगो꣡ अस्या द꣡न्तो  
 गो꣡भिः सं꣡नद्धा पतति प्र꣡सूता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡त्रास्म꣡भ्यम् इ꣡षवः श꣡र्म यंसन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यत्र॑ । नरः॑ । सम् । च॒ । वि । च॒ । द्रव॑न्ति । तत्र॑ । अ॒स्मभ्य॑म् । इष॑वः । शर्म॑ । यं॒स॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suparṇaṃ* ← *suparṇam* ← *suparṇa*
 - \[noun\], accusative, singular, masculine
@@ -129,7 +129,7 @@ popular
 अस्यामृचि इषवः स्तूयन्ते । **सुपर्णं** शोभनं वाजं **वस्ते** । इयमिषुर्धारयति । **अस्याः** इषोः **मृगः** मृगावयवः शृङ्गं **दन्तः** भवति । इषवः काश्चित् दन्तमुखा भवन्ति हि । अथवा अस्या दन्तो मृगः शत्रून् मृगयमाणो भवति । किंच **गोभिः** गोविकारैः स्नायुभिः **संनद्धा** सम्यक् बद्धा । अथवा गौरिति ज्यानाम । तया संबद्धा । अत्र वचनव्यत्ययः । तथा च निगमः - ‘ वृक्षेवृक्षे नियता मीमयद्गौः ' (ऋ. सं. १०. २७. २२ ) इति । अस्यायमर्थः । वृक्षेवृक्षे धनुषि धनुषि गौर्ज्या नियता मीमयत् शब्दं करोतीति । तथा च यास्कः – 'वृक्षवृक्षे धनुषि धनुषि । वृक्षो व्रश्चनात् वृत्वा क्षां तिष्ठतीति वा । क्षा क्षियतेर्निवासकर्मणः । नियता मीमयद्गौः शब्दं करोति । मीमयतिः शब्दकर्मा ' (निरु. २.६) इति । **प्रसूता** प्रेरिता सती **पतति** । **यत्र** युद्धे **नरः** **सं** **च** सह च **वि** **च** पृथक् च **द्रवन्ति** चरन्ति **तत्र** **अस्मभ्यम्** **इषवः** शराः **शर्म** सुखं **यंसन्** प्रयछन्तु। तथा च यास्कः – ‘सुपर्णं वस्त इति वाजानभिप्रेत्य मृगमयोऽस्या दन्तो मृगयतेर्वा गोभिः संनद्धा पतति प्रसूतेति व्याख्यातम् । यत्र नराः संद्रवन्ति च विद्रवन्ति च तत्रास्मभ्यमिषवः शर्म शरणं प्रयच्छन्तु' (निरु. ९.१९) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,36 +140,36 @@ popular
 Deer is its poit: mṛgo asyā **danta**: the deer is its tooth; i.e. the horn of the deer; or, **mṛga**, an adjective, that which seeks or reaches the enemy (**Nirukta** 9.19); with the sinews of the cow: **gobhiḥ** sannaddha = govikāraiḥ snāyubhiḥ, with tendons derived from the cow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She wears the fine-feathered (eagle); a wild deer is her tooth. Lashed  together with cows, she flies when propelled forth.  
 Where men clash and separate, there will our arrows provide shelter  for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “eagle” is of course the feathers that provide the fletching at the back end of the arrow. The “tooth” of the arrow is presumably its tip -- the arrowhead -- so called because it “bites” its target. The arrowhead is quite unlikely to have been made from a deer’s tooth, however -- their teeth being short and flat and unsuitable for piercing. But acdg to the internet, deer antlers were/are used for primitive arrowheads. The cows in pāda b are of course leather sinews, and again the internet tells us that sinew was/is frequently used to attach the arrowhead to the shaft (with some how-to advice, which generally involves chewing on the leather first).
 
 Pāda b recalls 5d, though the material objects in questions are different, the quiver in 5, the arrow in 11: pāda-final prásūtā matches prásūtaḥ in 5d in the same metrical position, and both contain the past part. of √nah ‘tie’ earlier in the pāda, also in the same metrical position, 5d x x nínaddhaḥ, 11b x x sáṃnaddhā The verb of pāda d is literally “run together and apart” (sáṃ ca ví ca drávanti), but “clash and separate” seemed to me to have a better ring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Her tooth a deer, dressed in an eagle's feathers, bound with cow-hide, launched forth, She flieth onward.  
      There where the heroes speed hither and thither, there may the Arrows shelter and protect us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Adlerfedern kleidet er sich, von der Antilope ist sein Zahn, mit Rindersehnen umbunden fliegt er entsandt. Wo die Männer aneinander und auseinander rennen, da sollen uns die Pfeile Schutz gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er kleidet sich als Aar, sein Zahn ein Löwe, gefügt an Sehnen, fortgeschnellt entfliegt er; Wo Streiter rasch sich nähern und entfernen, da mögen Schutz die Pfeile uns gewähren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она одевается в орла. Антилопа – ее зуб.  
 Подпоясанная коровьими (сухожилиями) летит она, когда (ее) выпускают.  

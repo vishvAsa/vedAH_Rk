@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡नाय चिद् य꣡ ई꣡वत उलोक꣡म्†  
 बृ꣡हस्प꣡तिर् देव꣡हूतौ चका꣡र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡यञ् छ꣡त्रूँर् अमि꣡त्रान् पृत्सु꣡ सा꣡हन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 घ्नन् । वृ॒त्राणि॑ । वि । पुरः॑ । द॒र्द॒री॒ति॒ । जय॑न् । शत्रू॑न् । अ॒मित्रा॑न् । पृ॒त्ऽसु । साह॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
@@ -134,36 +134,36 @@ genre M
 अपि च **यः** **बृहस्पतिः** **देवहूतौ** यज्ञे वर्तमानाय **ईवते** उपगच्छते स्तोत्रे **जनाय** **लोकं** स्थानं **चकार** करोति । **चित्** इति पूरणः । सः **वृत्राणि** आवरकाणि तमांसि **घ्नन्** निवारयन् **पृत्सु** युद्धेषु **शत्रून्** **जयन्** **अमित्रान्** **सहन्** अभिभवन् **पुरः** आसुरीः पुरीः **वि** **दर्दरीति** भृशं विदारयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Bṛhaspati**, who has appointed a region for the man who attends diligently at divine worship, destroying impediments, conquering foes, overcoming enemies, demolished various cities (of the **asuras**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Br̥haspati, who even for such a man (as me) has made wide space at the  invocation to the gods,  
 smashing obstacles, he keeps splitting apart the strongholds, conquering  rivals, overcoming enemies in battles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brhaspati, who made for such a people wide room and verge when Gods were invocated,  
      Slaying his enemies, breaks down their castles, quelling his foes and conquering those who hate him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati, der auch unsereinem für die Götterladung freie Bahn geschaffen hat - er schlägt die Feinde, bricht die Burgen, besiegt die Feinde, überwindet die Gegner in den Kämpfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaspati, der jedem solchen Manne beim Götteranruf weiten Raum verschaffte; Die Feinde tödtend spaltet er die Burgen, die Gegner schlagend und im Kampf besiegend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Брихаспати, который даже для человека вроде меня  
 Создал (широкий) простор для призыва богов, –  

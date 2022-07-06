@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुष्मि꣡न्तमो हि꣡ ते म꣡दो  
 द्युम्नि꣡न्तम उत꣡ क्र꣡तुः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मंसीष्ठा꣡ अश्वसा꣡तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वृ॒त्र॒ऽघ्ना । व॒रि॒वः॒ऽविदा॑ । मं॒सी॒ष्ठाः । अ॒श्व॒ऽसात॑मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śuṣmintamo* ← *śuṣmintamaḥ* ← *śuṣmintama*
 - \[noun\], nominative, singular, masculine
@@ -99,7 +99,7 @@ genre M
 हे इन्द्र **ते** तव मदः सोमपानजनितः **शुष्मिन्तमः** बलवत्तमः। **उत** अपि च ते **क्रतुः** कर्म व्यापारोऽस्मदर्थः **द्युम्निन्तमः** अतिशयेनान्नवान् यशोवान् वा ॥ उभयत्र ‘अयस्मयादीनि च्छन्दसि ' इति भसंज्ञया बाधितत्वात् न लोपः ॥ हे इन्द्र **अश्वसातमः** अश्वोपलक्षितबहुधनदास्त्वं **वृत्रघ्ना** वृत्रघातिनौ **वरिवोविदा** धनस्य परिचरणस्य वा वेदयितारौ लम्भयितारौ तव मदक्रतू **मंसीष्ठाः** अनुज्ञातवानसि । शत्रुघातिनौ धनदातारौ च स्यातामित्यनुग्रहमकरोरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,28 +110,28 @@ genre M
 Your inebriety and your beneficence: the epithets are dual and refer to the **mada**, intoxication; and **kratu**, the acts of **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For most unbridled is your exhilaration and most brilliant your resolve. By reason of (the exhilaration?) that smashes Vr̥tra and (the resolve?)  that finds wide space, might you be thought the best winner of horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most mighty is thy rapturous joy, most splendid is thine active power,  
      Wherewith, foe-slaying, sending bliss, thou art supreme in gaining steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn dein Rausch ist der ungestümste und deine Einsicht die erleuchtetste. Mit dem feindetötenden, befreienden Rausch darfst du dich dünken, der erste Rossegewinner zu sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Rausch ist ja der kräftigste, dein Wille der gewaltigste, Der Feinde tilgt und Segen schenkt, durch ihn gib reichlich Rosse uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь твое опьянение – самое буйное,  
 А сила духа – самая блистательная.  

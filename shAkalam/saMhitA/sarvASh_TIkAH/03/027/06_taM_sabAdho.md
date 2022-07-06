@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ सबा꣡धो यत꣡स्रुच  
 इत्था꣡ धिया꣡ यज्ञ꣡वन्तः  
 आ꣡ चक्रुर् अग्नि꣡म् ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 आ । च॒क्रुः॒ । अ॒ग्निम् । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -94,7 +94,7 @@ genre M
 **सबाधः** । रक्षोघ्नमन्त्रोच्चारणेन तद्विषयबाधा सह वर्तन्ते इति सबाधः । **यज्ञवन्तः** यजनीयहविर्युक्ताः **यतस्रुचः** । यताः संयताः स्रुचो जुह्वाद्याः यैस्ते यतस्रुचः ऋत्विजः । **इत्था** इत्थमनेन प्रकारेण क्रियमाणया **धिया** स्तुत्या **तम्** एवंभूतम् अग्निमूतये राक्षसबाधात् रक्षणाय **आ** अभिमुखं **चक्रुः** कुर्वन्ति ॥ सबाधः । ‘ बाधृ विलोडने ' इत्यस्मात् क्विप् । कृदुत्तरपदस्वरः । इत्था । इदंशब्दात् प्रकारार्थे इदमस्थमुः । तस्य ' सुपां सुलुक्° ' इति डादेशः । उदात्तनिवृत्तिस्वरेणान्तोदात्तः । चक्रुः । ‘डुकृञ् करणे' इत्यस्य लिट्युसि यणादेशे कृते तस्य द्विर्वचनेऽचि' इति स्थानिवद्भावात् द्विर्वचनम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,34 +105,34 @@ genre M
 The exorcisers: sabādhaḥ, repelling; the disturbers of sacred rites by repeating the **mantras** or charm for their destruction, **rakṣoghna** mantroccāraṇena tadviṣayabādhaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With their sacrificial spoons held out, bringing the sacrifice with their  insight just so, they eagerly  
 put Agni here for help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The priests with ladles lifted up, worshipping here with holy thought,  
      Have brought this Agni for our aid.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Holding the (sacrificial) ladles, performing the sacrifice they have with right thought pressingly brought Agni hither 1 for help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni haben sie eifrig mit bereitgehaltenem Löffel so recht von Herzen opfernd zur Gunsterweisung bewogen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni schaffen sich herbei mit rechter Andacht opferreich Die Löffel-Lenker eifervoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Настойчивые, с протянутой жертвенной ложкой,  
 Приносящие жертву вот так вместе с молитвой,  

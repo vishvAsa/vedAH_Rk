@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पो अद्या꣡न्व् अचारिषं  
 र꣡सेन स꣡म् अगस्महि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡म् मा सं꣡ सृज व꣡र्चसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424);; repeated line
 पय॑स्वान् । अ॒ग्ने॒ । आ । ग॒हि॒ । तम् । मा॒ । सम् । सृ॒ज॒ । वर्च॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpo* ← *ā*
 - \[adverb\]
@@ -128,7 +128,7 @@ popular;; epic anuṣṭubh (424);; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,28 +139,28 @@ Sayana bhashya empty
 "I invoke for protection the divine (waters) of excellentwisdom, discharging their functions (tadapasaḥ), flowing by day and flowing by night": supplementary **khila** 1.2.3:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Waters, today I have followed (you). We have united with your sap. Full of milk, o Agni, come here. Merge me with luster.  
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Waters I this day have sought, and to their moisture have we come:  
      O Agni, rich in milk, come thou, and with thy splendour cover me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gewässer habe ich heute aufgesucht; wir sind mit ihrem Naß in Berührung gekommen. Komm Milch bringend, Agni, begabe mich hier mit Anziehungskraft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wassern ging ich heute nach, wir einten uns mit ihrer Flut; Komm, Agni, her mit Milch benetzt, und mich benetze du mit Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сегодня я добрался до вод.  
 Мы встретились с (их) влагой.  

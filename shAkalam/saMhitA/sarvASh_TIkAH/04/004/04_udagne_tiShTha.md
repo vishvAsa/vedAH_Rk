@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् अग्ने तिष्ठ प्र꣡ति आ꣡ तनुष्व  
 नि꣡ अमि꣡त्राँ ओषतात् तिग्महेते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नीचा꣡ तं꣡ धक्षि अतसं꣡ न꣡ शु꣡ष्कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । नः॒ । अरा॑तिम् । स॒म्ऽइ॒धा॒न॒ । च॒क्रे । नी॒चा । तम् । ध॒क्षि॒ । अ॒त॒सम् । न । शुष्क॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -151,7 +151,7 @@ genre M
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -162,12 +162,12 @@ genre M
 Who acts as an enemy: āratim cakre may also mean, who annuls or prevents our donation, one who makes a gift no gift
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stand up, Agni; stretch yourself out [/stretch (your bow)] against  (them). Then scorch down the foes, o you whose missiles are sharp. Whoever has directed hostility toward us, o kindled one, burn him  down like a dry thicket.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner suggests in his n. 4a, ā́tanuṣva could reflect the common idiom ā́√tan ‘draw/stretch (the bow [dhánus-, dhánvan-])’. Given that Agni is identified as a ‘shooter’ (ástā) in 1c and that bows are the presumed object of a different form of √tan in the next vs. (5c, see there), this seems quite possible, though I think the primary reading is simply the reflexive ‘stretch yourself out’; cf. 1a for Agni’s making himself broad.
 
@@ -182,13 +182,13 @@ Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rise up, O Agni, spread thee out before us: burn down our foes, thou who hast sharpened arrows.  
      Him, blazing Agni! who hath worked us mischief, consume thou utterly like dried-up stubble.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Rise up, O Agni! Spread out against (all foes)! Burn down the foes, O (god) with the sharp weapon! When kindled, O Agni, burn down like dry brushwood, the man who exercises malice against us.
 </details>
@@ -201,17 +201,17 @@ Him who hath wrought evil for us, O blazing one,
 Do thou consume utterly like dry stubble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Steh auf, Agni, stell dich breit entgegen; brenn die Feinde nieder, Scharfpfeiliger! Wer uns, du Entflammter, Mißgunst erwiesen hat, den brenne nieder wie dürres Gestrüpp!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erheb dich, Agni, spanne deinen Bogen, mit scharfer Waffe brenn die Feinde nieder; Wer Frevel übt an uns, o hellentflammter, den brenne nieder gleichwie dürres Buschwerk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поднимись, о Агни! Вытянись против (них)!  
 Испепели недругов, о ты, с острым дротиком!  

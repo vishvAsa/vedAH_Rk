@@ -8,7 +8,7 @@ title = "+085"
 ‘ प्र सम्राजे ' इत्यष्टर्चं त्रयोदशं सूक्तमात्रेयं त्रैष्टुभं वारुणम् । अनुक्रम्यते च- प्र सम्राजेऽष्टौ वारुणम्' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 85 (439)  
 Varuṇa  

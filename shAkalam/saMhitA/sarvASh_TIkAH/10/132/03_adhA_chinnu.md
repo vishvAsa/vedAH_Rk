@@ -6,7 +6,7 @@ ChandaH = "विराड्रूपा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा चिन् नु꣡ य꣡द् दि꣡धिषामहे वाम्  
 अभि꣡ प्रियं꣡ रे꣡कणः प꣡त्यमानाः  
@@ -14,7 +14,7 @@ ChandaH = "विराड्रूपा"
 स꣡म् ऊ आरन् न꣡किर् अस्य मघा꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 द॒द्वान् । वा॒ । यत् । पुष्य॑ति । रेक्णः॑ । सम् । ऊं॒ इति॑ । आ॒र॒न् । नकिः॑ । अ॒स्य॒ । म॒घानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -126,36 +126,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे मित्रावरुणौ **वां** युवाभ्यां युवयोरर्थं **यत्** यदा **दिधिषामहे** हवींषि धारयामः । यद्वा ।  ‘ धिष शब्दे । वां युवां स्तुमहे । **अधा** **चित्** अनन्तरमेव **नु** क्षिप्रं **प्रियम्** अभीष्टं **रेक्णः** । धननामैतत् । धनम् **अभि** **पत्यमानाः** अभिपतन्तोऽभिप्राप्नुवन्तो भवामः । **दद्वान्** ददिवान् । ददातेर्लिटः क्वसुः । छन्दस्युभयथा ' इति वसोः सार्वधातुकत्वात् श्नाभ्यस्तयोरातः' इत्याकारलोपः। अत एवेडभावश्च । संहितायां नकारस्य दीर्घादटि समानपादे' इति रुत्वम्।  ‘ आतोऽटि नित्यम् ' । इति सानुनासिक आकारः । वाशब्दश्चार्थे । हवींषि दत्तवांश्च **यत्** यो यजमानः **रेक्णः** धनं **पुष्यति** वर्धयति **अस्य** दत्तवतो यजमानस्य **मघानि** धनानि **नकिः** **सम्** **आरन** नैवापगच्छन्ति । किंतु तमेव सर्वदा भजन्ते । समित्येतत् अपेत्येतस्यार्थे । **उ** इति पूरणः । अर्तेश्छान्दसे लुङि  ‘सर्तिशास्त्यर्तिभ्यश्च ' इति च्लेरादेशः ।  ‘ ऋदृशोऽङि गुणः' ( पा. सू. ७. ४.१६ )।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, when we present to you (oblations), quickly alight upon desirable wealth, and the genitive rousman who fosters his wealth, may his riches not depart from him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And even now, when we seek to establish you two here, while coming into  possession of our own dear legacy,  
 or when the giver prospers with regard to his legacy, no one shall bring  his bounties (for us) into collision [=destroy them].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And when we seek to win your love and friendship, we.who have precious wealth in our possession,  
      Or when the worshipper augments his riches let not his treasures be shut up
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Besonders jetzt, da wir euch gewinnen möchten, das liebe Erbteil in Besitz nehmend, oder wenn der Spender das Erbteil mehrt. Noch keiner hat dessen Geschenke aufgebracht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und wenn wir nun von euch etwas zu erlangen suchen, die wir liebe Habe besitzen, oder wenn der Geber die Habe reichlicher macht, so möge niemand seine Schätze hinwegraffen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как бы то ни было, мы хотим вас заполучить,  
 (Чтобы) владеть дорогим наследством,  

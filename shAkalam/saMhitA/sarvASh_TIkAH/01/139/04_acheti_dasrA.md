@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡चेति दस्रा वि꣡ उ ना꣡कम् ऋण्वथो  
 युञ्ज꣡ते वां रथयु꣡जो दि꣡विष्टिषु  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 अ꣡ञ्जसा शा꣡सता र꣡जः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 प॒थाऽइ॑व । यन्तौ॑ । अ॒नु॒ऽशास॑ता । रजः॑ । अञ्ज॑सा । शास॑ता । रजः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aceti* ← *cit*
 - \[verb\], singular, Aorist passive
@@ -165,7 +165,7 @@ genre M
 हे **दस्रा** दस्रावश्विनौ **अचेति** वक्ष्यमाणं युष्मच्चेष्टितं ज्ञायते सर्वैः । किं तदिति तदुच्यते । **नाकं** स्वर्गं **वि** **ऋण्वथः** विशेषेण गच्छथः ॥ ‘ ऋणु गतौ । तानादिकः । लेटि अडागमः । यज्ञसंपूर्त्यनन्तरमिति यावत् । उशब्दोऽवधारणे । यद्वा । नाकम् । अकं दुःखम् । तद्रहितं यज्ञमृण्वथः। विशेषेण गच्छथ एव । तदर्थं **वां** **रथयुजः** युष्मत्संबन्धिनो रथस्य योजयितारः सारथथः **दिविष्टिषु** स्वर्गस्यैषणेषु द्योतनात्मकस्य यज्ञस्यैषणेषु गमनेषु वा निमित्तभूतेषु **युञ्जते** अश्वान् योजयन्ति रथे । युक्ते रथे वा युष्मान् । ते एव विशेष्यन्ते । दिविष्टिषु दिवो गमनेषु निरालम्बाकाशगमनेषु **अध्वस्मानः** रथस्य तदाश्रितस्य च ध्वंसमकुर्वाणाः । किंच हे **दस्रा** अश्विनौ **वां** युवयोः **बन्धुरे** बन्धुरत्रययुक्ते। युगबन्धनाधारः काष्ठविशेषो बन्धुरम् । तादृशत्रययुक्तत्वं रथो यो वां त्रिवन्धुरः' (ऋ. सं. ८. २२. ५) इत्यादिषु प्रसिद्धम् । **हिरण्यये** हिरण्मये **रथे** **अधि** तादृशस्य रथस्योपरि **स्थाम** अस्थापयाम ॥ छान्दसे लङि ‘ बहुलं छन्दसि ' इति अडभावः। आद्युदात्तश्छान्दसः ॥ कीदृशौ'। **पथेव** सुपथेन मार्गेण निरालम्बे आकाशे’ **रजः** रञ्जनात्मकं स्वर्गं प्रति **यन्तौ** गच्छन्तौ । ‘लोका रजांस्युच्यन्ते । इत्युक्तत्वात् । **अनुशासता** अननुकूलाञ्छत्रून् अनुशासतौ विधेयीकुर्वन्तौ ॥ शासेः शतरि • जक्षित्यादयः' इति अभ्यस्तत्वात् ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥ किंच **अञ्जसा** मुख्यत्वेन प्रकृष्टं **रजः** उदकं वृष्टिलक्षणं **शासता** शासतौ बलाद्विधेयीकुर्वन्तौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -176,7 +176,7 @@ genre M
 Añjasā śāsatā **rajas** = udakam, water; **vṛṣṭi**-lakṣaṇam, metony for rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It has appeared, wondrous ones: you two unclose the firmament;  your chariot-horses are yoked at the rituals of daybreak—the  
 unbesmirched ones at the rituals of daybreak.  
@@ -185,24 +185,24 @@ wondrous ones—
 (you two) going as if on a path, directing (the chariot) through the  dusky realm—directing (it) straightway through the dusky realm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well is it known, O Mighty Ones: ye open heaven; for you the chariot-steeds are yoked for morning rites, unswerving steeds for morning rites,  
      We set you on the chariot-seat, ye Mighty, on the golden car.  
      Ye seek mid-air as by a path that leads aright, as by a path that leads direct.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist sichtbar geworden, o Meister. Ihr schließet den Himmel auf; eure Wagenrosse schirren sich an zu den Opfern des heutigen Tags. Euer Stand ist auf dem Wagensitz, auf dem goldnen Wagen, o Meister. Wie auf der rechten Straße geht ihr die Richtung weisend durch die Luft, richtig weisend durch die Luft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Man nimmt es wahr, ihr schönen schliesst den Himmel auf, und schirrt bei Festen eure Wagenrosse an, die unbefleckten bei dem Fest; Ihr steht auf hohem Wagensitz, auf goldnem Wagen, herrliche; Die Luft durchfahrt ihr auf der Bahn, die richtig führt, den Luftraum wie auf grader Bahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она показалась, о удивительные. Вы раскрываете небосвод.  
 (Кони,) запряженные в вашу колесницу, запрягаются для сегодняшних обрядов,  

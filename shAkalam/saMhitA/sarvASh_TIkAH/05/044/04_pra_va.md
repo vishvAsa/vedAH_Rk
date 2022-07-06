@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ व एते꣡ सुयु꣡जो या꣡मन् इष्ट꣡ये  
 नी꣡चीर् अमु꣡ष्मै यमि꣡य ऋतावृ꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 क्रि꣡विर् ना꣡मानि प्रवणे꣡ मुषायति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒यन्तु॑ऽभिः । स॒र्व॒ऽशा॒सैः । अ॒भीशु॑ऽभिः । क्रिविः॑ । नामा॑नि । प्र॒व॒णे । मु॒षा॒य॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -116,20 +116,20 @@ genre M
 एषा सौरी वा । **एते** रश्मयः **सुयुजः** सुष्ठु परस्परं संयुक्ताः **यामन्** यज्ञगमने **इष्टये** एषणाय **नीचीः** । नीचं गच्छन्तीति शेषः । 'अमुष्मै यजमानाय **यम्यः** यम्या गमनार्हाः । अथवा यमो नियमितादित्यः । तस्य संबन्धिनः । **ऋतावृधः** यज्ञस्य वर्धयितारश्च । अयमादित्यः **सुयन्तुभिः** सुगमनैः **सर्वशासैः** सर्वस्य शासकैः **अभीशुभिः** रश्मिभिः **क्रिविः** कर्ता **नामानि** नामकान्युदकानि **प्रवणे** निम्ने भूप्रदेशे **मुषायति** मुष्णाति आदत्ते इत्यर्थः । अथवाग्निनावाह्यस्याग्नेरेतेऽश्वा इष्टये यज्ञगमनाय यामनि रथे सुयुजः प्रगच्छन्ति । शिष्टं समानम् । क्रिविः क्रिविसदृशोऽग्निः प्रवणे नामानि हवींष्युक्तलक्षणाभिर्ज्वालाभिर्मुषायति आदत्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These well-combined rays (of the sun) are descending with intent to proceed on the path (of the sacrifice), amplifiers of the ceremony for this (its instrumental tutor); operating with these swift-moving, all-regulating rays, he, (**Āditya**) steals the waters (that flow) in low plural ces.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These (hymns?) of yours, easy to yoke, (go) forth on their course to seek  the twinned sisters [= butter offerings/waters], strong through truth,  that (go) downward toward yonder one [=Agni/Soma],  
 with reins easy to control, directing everything. Krivi [=Agni/Soma/the  poet (←kavi)?] steals (their) names [=butter offerings/waters?] at their  precipitous fall.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. of both the syntax and the referents of this vs. generally differs from those of others. I will not undertake a detailed disc. of these differences.
 
@@ -154,23 +154,23 @@ First, however, note the phonological echo of b amúṣmai / d muṣāyati, thou
 What does it mean that this krívi- “steals (their) names”? Here Oldenberg’s suggestion is surely correct for the Agni/Soma krívi- (for Oldenberg, only Soma): that the streams (of ghee/water) lose their identities when they merge into Agni/Soma, and the result is simply called fire/soma. As for the poet whom I consider the third referent of krívi-, he may “steal their names” by using them in his poetry, or perhaps by referring to them but not naming them, as he does in this vs. (and throughout the hymn).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These come, well-yoked, to you for furtherance in the rite: down come the twinborn strengtheners of Law for him,  
      With reins easily guided and commanding all. In the deep fall the hide stealeth away their names.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese eure gutgeschirrten Rosse des Agni kommen zum Vorschein, um sich auf der Fahrt zu beeilen - jenem rinnen die Zwillingsschwestern die Schmalzgüsse niedergehend, die das rechte Werk fördern - mit den gut zu lenkenden, allregierenden Zügeln gelenkt: der Goldfuchs stiehlt ihre Namen bei ihrem Fallen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diese schöngeschirrten [Presssteine] sind bestrebt zu senden auf ihrem Gange jenem [Agni] die herabströmenden, verschwisterten, des heiligen Werkes sich freuenden [Opfertränke] mit leicht zu lenkenden, jedem Geheisse folgenden Zügeln; der Schlauch [nach Säy. Agni, wol richtig] eignet sich im Sturze [der Opfertränke] deren Wesen an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Мчатся) вперед эти ваши хорошо запряженные (кони Агни) в путь в поисках (добычи).  
 Направляясь вниз, (стремятся) к нему сестры-близнецы, усиленные законом.  

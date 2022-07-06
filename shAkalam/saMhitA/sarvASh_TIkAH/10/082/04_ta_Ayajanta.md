@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡ आ꣡यजन्त द्र꣡विणं स꣡म् अस्मा  
 ऋ꣡षयः पू꣡र्वे जरिता꣡रो न꣡ भूना꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ भूता꣡नि सम꣡कृण्वन्न् इमा꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒सूर्ते॑ । सूर्ते॑ । रज॑सि । नि॒ऽस॒त्ते । ये । भू॒तानि॑ । स॒म्ऽअकृ॑ण्वन् । इ॒मानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -115,36 +115,36 @@ popular
 **ते** **पूर्वे** **ऋषयः** **अस्मै** विश्वकर्मणे **द्रविणं** चरुपुरोडाशादिलक्षणं धनं **सं** सम्यक् **आयजन्त** सर्वतो यजन्ते । **जरितारो** **न** **भूना** स्तोतारो यथा भूम्ना महता स्तोत्रेण यजन्ति तद्वत् । **ये** महर्षयः **असूर्ते** सरणवर्जिते **सूर्ते** सरणसहिते स्थावरजङ्गमात्मके **रजसि** लोके **निषत्ते** निषण्णे निश्चलमवस्थिते **इमानि** **भूतानि** भुवनानि । प्राणिन इत्यर्थः । **समकृण्वन्** सम्यग्धनादिनापूजयन् । अथवायमर्थः । ये स्थावरजङ्गमात्मके जगति वर्तमानानेतान् प्राणिनस्तेजसा समकृण्वन् ते पूर्व ऋषयो द्रष्टारो रश्मयोऽस्मा अदित्यात्मकाय विश्वकर्मणे द्रविणं तेज आयजन्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those ancient Ṛṣis who adorned (with light) these beings in the animate and inanimate world, offerto him wealth (of sacrifice) as praisers with abundant (laudation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like singers, the ancient seers together won for him wealth in abundance  by sacrifice—  
 they who together created these creatures after the airy realm, sunlit and  unsunlit, took its seat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him in sacrifice they offered treasures,-Rsis of old, in numerous troops, as singers,  
      Who, in the distant, near, and lower region, made ready all these things that have existence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese opferten ihm gemeinsamen Reichtum, die vormaligen Rishi´s, wie die Sänger in großer Zahl, die diese Welten bildeten, nachdem der nichtbeschienene, der sonnenbeschienene Raum hingesetzt ward.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Opfer führten ihm die alten Seher als Sänger Schätze zu in reicher Fülle, Die in dem dunklen und dem hellen Dunste, da er sich senkte, diese Wesen schufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для него они добыли жертвой богатство,  
 Древние риши, как воспеватели – в большом количестве,  

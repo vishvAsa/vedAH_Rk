@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् देव꣡स्य सवितु꣡र् वा꣡रियम् मह꣡द्  
 वृणीम꣡हे अ꣡सुरस्य प्र꣡चेतसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡न् नो महाँ꣡ उ꣡द् अयान् देवो꣡ अक्तु꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 छ॒र्दिः । येन॑ । दा॒शुषे॑ । यच्छ॑ति । त्मना॑ । तत् । नः॒ । म॒हान् । उत् । अ॒या॒न् । दे॒वः । अ॒क्तुऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -131,7 +131,7 @@ genre M
 **सवितुः** प्रेरकस्य **देवस्य** **वार्यं** वरणीयं **महत्** पूज्यं **तत्** धनं **वृणीमहे** प्रार्थयामः । **असुरस्य** । असुर्बलम् । तद्वतः **प्रचेतसः** प्रकृष्टमतेः । देवस्येति संबन्धः । **येन** धनेन युक्तः सन् **छर्दिः** । गृहनामैतत् । गृहोपलक्षितं धनजातं **दाशुषे** हविर्दत्तवते यजमानाय **त्मना** आत्मनैव **यच्छति** **तत्** **छर्दिः** **महान्** **देवः** सविता **अक्तुभिः** रात्रिभिः । एतदह्नामप्युपलक्षणम् । सर्वैः दिवसैः सर्वेषु दिवसेषु **नः** अस्माकम् **उदयान्** उद्यच्छतु करोत्वित्यर्थः । यद्वा । छर्दिरिति तेजोनाम। तत्तेज उद्यच्छत्विति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ Tacchardir no **mahān** udayān devo aktubhiḥ: **chardiḥ** = **gṛha**, a 
 Aktubhiḥ = liṭ, by nights, by metonymy, for days
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would choose that great thing, worthy to be chosen, of god Savitar,  the provident lord,  
 with which by himself he holds out shelter to the pious. The great god  has held it up for us through the nights.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 OF Savitar the God, the sapient Asura, we crave this great gift which is worthy of our choice,  
      Wherewith he freely grants his worshiper defence. This with his rays the Great God hath vouchsafed to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese große wünschenswerte Gabe des Gottes Savitri, des klugen Asura, wünschen wir uns, durch die er in eigener Person dem Opferspender seinen Schirm gewährt. Diesen hat der große Gott alle Nächte für uns aufgerichtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies grosse, reiche Gut des Gottes Savitar, des einsichtsvollen, himmlischen erflehn wir uns, Wodurch er Schutz dem frommen Manne gern verleiht, den reichte uns der grosse Gott mit seinem Schein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы выбираем себе это великое, желанное (сокровище)  
 Бога Савитара, мудрого Асуры,  

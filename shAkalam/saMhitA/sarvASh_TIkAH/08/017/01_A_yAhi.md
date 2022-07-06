@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि सुषुमा꣡ हि꣡ त  
 इ꣡न्द्र सो꣡मम् पि꣡बा इम꣡म्  
 ए꣡द꣡म् बर्हिः꣡ सदो म꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 आ । इ॒दम् । ब॒र्हिः । स॒दः॒ । मम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -98,40 +98,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्द्र** त्वम् **आ** **याहि** आगच्छ । **ते** त्वदर्थं **सुषुम** **हि** अभिषुतवन्तः खलु सोमं वयम् । तम् **इमम्** अभिषुतं **सोमं** **पिब** । तदर्थं **मम** मदीयम् **इदं** **बर्हिः** वेद्यामास्तीर्णम् **आ** **सदः** आसीद अभिनिषीद ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, we express, **Indra**, for you, the **Soma**; drink it; sit down upon this my sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here—for we have pressed soma for you, Indra. Drink this! Sit here upon this ritual grass of mine.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the injunctive sadaḥ as functional imperative, see Hoffmann 1967: 263.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME, we have pressed the juice for thee; O Indra, drink this Soma here  
      Sit thou on this my sacred grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, denn wir haben dir Soma gepreßt, Indra, trink ihn, setz dich auf mein Barhis hier!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her, wir haben dir gebraut den Soma, Indra, trink davon, Auf dies mein Polster setze dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходи! Ведь мы выжали для тебя  
 Сому, о Индра. Пей его!  

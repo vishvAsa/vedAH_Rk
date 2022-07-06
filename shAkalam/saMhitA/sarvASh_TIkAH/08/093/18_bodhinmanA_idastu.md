@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बोधि꣡न्मना इ꣡द् अस्तु नो  
 वृत्रहा꣡ भू꣡रिआसुतिः  
 शृणो꣡तु शक्र꣡ आशि꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शृ॒णोतु॑ । शु॒क्रः । आ॒ऽशिष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bodhinmanā* ← *bodhinmanāḥ* ← *bodhinmanas*
 - \[noun\], nominative, singular, masculine
@@ -78,7 +78,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयं परोक्षकृतः । **वृत्रहा** वृत्रहन्ता **भूर्यासुतिः** । बहुषु देशेष्विन्द्रार्थं सोम आसूयतेऽभिषूयत इति तादृशः । यद्वा । बहूनि सोमादिहवींषीन्द्रार्थमासूयन्ते हूयन्त इति तादृशः । **बोधिन्मनाः** ।  ‘ बुध अवगमने' । औणादिक इतिप्रत्ययः । यस्य मनः स्तोतॄणामभिमतं बुध्यते जानातीति तथोक्तः । **इत्** अवधारणे। **नः** अस्माकं बोधिन्मना एव **अस्तु** । सर्वदास्मदभीप्सितानि जानात्वेवेत्यर्थः । यद्वा । एतादृश इन्द्रो नोऽस्माकं यज्ञे भवत्विति । ततः **शक्रः** संग्रामे शत्रुहननसमर्थ इन्द्रः **आशिषम्** अस्मदीयां स्तुतिमाशासनं वा **शृणोतु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,34 +89,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Bodhinmanā = bodhanmanāḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him be of attentive mind just toward us—the Vr̥tra-smiter  possessing many pressed drinks.  
 Let the able one listen to our prayer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The curious hapax bodhín-manas-, with, per Pp., 1st member bodhít-, may be built on the model of semantically similar cikitvít- / cikitvín-manas-; see AiG II.2.322.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Much-honoured by libations, may the Vrtra-slayer wake for us:  
      May Sakra listen to our prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vritratöter sei uns aufmerksamen Sinnes, der viele Tränklein bekommt. Der Mächtige erhöre unsere Bitte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Achtsamen Sinnes sei er uns, der Vritra schlägt und viele labt, Der starke höre unser Flehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

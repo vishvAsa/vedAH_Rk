@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृधि꣡ र꣡त्नं सुसनितर् ध꣡नानां  
 स꣡ घे꣡द् अग्ने भवसि य꣡त् स꣡मिद्धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सृप्रा꣡ कर꣡स्ना दधिषे व꣡पूंषि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्तो॒तुः । दु॒रो॒णे । सु॒ऽभग॑स्य । रे॒वत् । सृ॒प्रा । क॒रस्ना॑ । द॒धि॒षे॒ । वपूं॑षि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
@@ -139,41 +139,41 @@ genre M
 **सुसनितः** अभिलषितधनानां सुष्ठु दातर्हे अग्ने **धनानां** कनकपश्वादीनां मध्ये **रत्नम्** उत्तमं धनं  **कृधि** विधेहि । मह्यं दत्स्व । **यत्** यदा त्वं **समिद्धः** सोमाज्यादिभिः सम्यगिद्धो दीप्तो वर्तसे तदा **स** **घेत्** स तादृशः एव त्वं धनस्य दाता खलु भवसि । किंच **सुभगस्य** त्वद्विषयस्तुत्या शोभनधनयुक्तस्य **स्तोतुः** यजमानस्य **दुरोणे** गृहे **सृप्रा** सर्पणशीलौ कर्मकरणार्थं प्रसृतौ **करस्ना** कर्मणां प्रस्नातारौ बाहू । करस्नौ बाहू कर्मणां प्रस्नातारौ ' ( निरु. ६. १७ ) इति यास्कः । **वपूंषि** रूपाणि । वर्पः वपुः' ( नि. ३. ७. ४ ) इति रूपनामसु पठितत्वात् । तादृशौ बाहू भास्वराणि ज्योतींषि च **रेवत्** धनयुक्तं यथा भवति तथा **दधिषे** धारयसि ॥ सुसनितः । ‘ षणु दाने ' इत्यस्य तृचि रूपम् । आमन्त्रितनिघातः । सृप्रा । **सृप्लृ** गतौ ' । अस्मात् “ स्फायितञ्चिवञ्चि' ' इत्यादिना रक् । कित्त्वादगुणः । प्रत्ययस्वरः । करस्ना । करोति फलमिति करः कर्म । पचाद्यजन्तः । कर्मणि स्ना शोधनं ययोस्तौ । यद्वा कर्मणां शोधनं याभ्यामिति । बहुव्रीहौ पूर्वपदस्वरः । दधिषे । ‘दुधाञ् धारणपोषणयोः' इत्यस्य लटि छन्दस्युभयथा' इति थास आर्धधातुकत्वादिट् । आतो लोपः । निघातः ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Liberal donor (of riches) bestow upon us the most precious of treasures, for therefore is it, **Agni**, that you are kindled; you have aims promptly stretched forth, whose (radiant) forms (bestow) wealth on the dwelling of your fortunate adorer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Create wealth, o you who are good at winning the stakes—when kindled,  you become just that, o Agni;  
 (create) rich (vigor) in the house of the praise singer of good fortune.  You have acquired glossy forearms and wondrous forms.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us, O liberal Lord, great gtore of riches, for, Agni, such art thou when duly kindled.  
      Thou in the happy singer's home bestowest, amply with arms extended, things of beauty.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Give us treasures, O best gainer of riches: such indeed art thou, Agni, when thou hast been kindled. In the blessed praiser's house thou hast placed, together with wealth, thy mighty(?) arms 1, thy marvellous shapes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring das Kleinod, du guter Gewinner der Schätze - der bist du, Agni, wenn angezündet - das reichliche ins Haus des beglückten Sängers! Du besitzest breite Arme, schöne Formen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verschaff der Schätze Fülle, Reichthumspender, das bist du Agni ja, wenn du entflammt bist; Du bringst ins Haus des hochbeglückten Sängers mit ausgestreckten Armen reichlich Schönes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Создай (нам) сокровище, о прекрасный завоеватель наград, –  
 Ведь ты, действительно, таков, о Агни, когда тебя зажгли, –  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सु꣡ व आपो महिमा꣡नम् उत्तमं꣡  
 कारु꣡र् वोचाति स꣡दने विव꣡स्वतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ सृ꣡त्वरीणाम् अ꣡ति सि꣡न्धुर् ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 प्र । स॒प्तऽस॑प्त । त्रे॒धा । हि । च॒क्र॒मुः । प्र । सृत्व॑रीणाम् । अति॑ । सिन्धुः॑ । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -131,37 +131,37 @@ genre M
 हे **आपः** **वः** युष्माकं **महिमानं** महत्त्वं स्तोत्रम् **उत्तमम्** उत्कृष्टतमं **कारुः** स्तोता सिन्धुक्षिदहं **विवस्वतः** परिचरणवतो यजमानस्य **सदने** यज्ञगृहे **सु** सुष्ठु **प्र** **वोचाति** प्रब्रवीमि । ता नद्यः **सप्तसप्त** भूत्वा **त्रेधा** पृथिव्यामन्तरिक्षे दिवि चेति **त्रेधा** त्रिप्रकारं **चक्रमुः** प्रावहन् । **सृत्वरीणाम्** आसां मध्ये **सिन्धुः** एतन्नामिका नदी **ओजसा** स्वबलेन **अति** सर्वाँ अपि नदीरतिक्रम्य **प्र** वहतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Waters, the worshipper addresses to you excellent praise in the dwelling of the instrumental tutor of the rite;they flowed by sevens through the three (worlds); but the **Sindhu** surpasses (all) the (other) streams in strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the seat of Vivasvant [=ritual ground] the bard will speak forth your  highest greatness, o waters,  
 for forth they strode in three stages, seven each time; forth (strode)  
 Sindhu with her strength, beyond that of the (other) flowing (waters).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE singer, O ye Waters in Vivasvan's place, shall tell your grandeur forth that is beyond compare.  
      The Rivers have come forward triply, seven and seven. Sindhu in might surpasses all the streams that flow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure höchste Größe, ihr Gewässer, wird jetzt der Dichter fein verkünden an des Vivasvat Platze. Dreimal je sieben sind sie nämlich ausgezogen, allen Strömenden voran überholt sie durch ihre Stärke die Sindhu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Wasserströme, eure höchste Herrlichkeit verkünde nun der Sänger in Vivasvat's Sitz; Geschart zu sieben schreiten dreifach sie hervor; doch Sindhu überragt an Macht die rinnenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваше высшее величие, о воды,  
 Собирается прекрасно возвестить певец на месте Вивасвата!  

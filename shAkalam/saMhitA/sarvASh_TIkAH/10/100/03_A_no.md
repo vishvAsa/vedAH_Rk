@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो देवः꣡ सविता꣡ साविषद् व꣡य  
 ऋजूयते꣡ य꣡जमानाय सुन्वते꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यथा॑ । दे॒वान् । प्र॒ति॒ऽभूषे॑म । पा॒क॒ऽवत् । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -109,36 +109,36 @@ genre M;; repeated line
 **सविता** सर्वस्य प्रेरकः सूर्यः **नः** अस्माकं संबन्धिने **ऋजूयते** ऋजुकामाय **सुन्वते** अभिषवं कुर्वते **यजमानाय** **वयः** अन्नं **पाकवत्** पाकोपेतम् । व्यवहितमप्येतदत्र संबध्यते । **आ** **साविषत्** आभिमुख्येन प्रसौति । सौतेर्ण्यन्ताल्लेटि रूपम् । **यथा** येन प्रकारेण **देवान्** **प्रतिभूषेम** प्रतिभवेम । भवतेर्लिङि सिप्शपौ। द्विविकरणता । यद्वा । ‘भूष अलंकारे'। भौवादिकः । भूषयेमेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the divine **Savitā** genitive rate well-dressed food for our sincere **yajamāna** as he offers the libation,so that we may be in good favour with the gods; we long for the universal **Aditi**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May God Savitar impel vitality here to our sacrificer, the soma-presser  who aims straight,  
 so that we may attend upon the gods guilelessly. – We choose wholeness  and innocence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Savitar the God send us full life, to each who sacrifices, lives aright and pours the juice  
      That we with simple hearts may wait upon the Gods. We ask for freedom and complete felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Möge uns Gott Savitri Kraft zuweisen, dem redlichen Opferer und Somapresser, auf daß wir die Götter in schlichter Weise empfangen können. - Wir erbitten Vollkommenheit von der Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es sende uns Gott Savitar Erquickung zu, dem Opferer, der richtig wandelnd Soma braut, Dass wir die Götter preisen mögen treuen Sinns; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् अद्य꣡ वाचः꣡ प्रथम꣡म् मसीय  
 ये꣡ना꣡सुराँ अभि꣡ देवा꣡ अ꣡साम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡ञ्च जना म꣡म होत्रं꣡ जुषध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ऊर्ज॑ऽअदः । उ॒त । य॒ज्ञि॒या॒सः॒ । पञ्च॑ । ज॒नाः॒ । मम॑ । हो॒त्रम् । जु॒ष॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -123,37 +123,37 @@ popular
 इदमुत्तरं चाग्नेर्वाक्यमित्युक्तम् । **अद्य** इदानीं **प्रथमम्** । मुख्यनामैतत् । वाचां मुख्यं **तत्** **वाचः** वचः वचनं **मसीय** मंसीय उच्चारयामि । **येन** वचसा अहं **देवाः** च वयम् **असुरान्** **अभि** **असाम** अभिभवेम । किं तत् प्रथमं वचनमिति उच्यते । **ऊर्जादः** हे अन्नादः उत अपि च **यज्ञियासः** यज्ञार्हा हे **पञ्च** **जनाः** देवमनुष्यादयः यूयं **मम** **होत्रं** **जुषध्वं** सेवध्वमिति । एवं बहूच्यमानेऽग्निमनूद्यन्ति सर्वे देवा इत्यभिप्रायः । अत्र ‘तदद्य वाचः' (निरु. ३. ८) इत्यादि निरुक्तं द्रष्टव्यम् ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Agni** speaks). I communicate today the best advice by which we gods may overcome the **asuras**; doyou who are the eaters of sacrificial food, who are entitled to worship, and you five orders of men, be plural ased bymy (discharge of) the office of **hotā**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] Might I today devise this as the foremost of speech, by which we  gods will overcome the Asuras.  
 You nourishment eaters and you worthy of the sacrifice, you five  
 peoples, take pleasure in my Hotarship.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This prelude of my speech I now will utter, whereby we Gods may quell our Asura foemen.  
      Eaters of strengthening food who merit worship, O ye Five Tribes, be pleased with mine oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Anfang meiner Rede will ich heute das erdenken, wodurch wir Götter die Asura´s überwinden können. Ihr Speiseesser und ihr Opferwürdigen, ihr fünf Völker, sollt an meinem Hotri-Amt Wohlgefallen haben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Dies erste Lied will heute ich ersinnen, durch das wir Götter die Asuren zwingen, Ihr Opferesser und ihr heil'gen alle, ihr fünf Geschlechter, meinen Trank geniesset!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Первое в (моей) речи сегодня, что я хочу придумать,  
 (Это) чем мы, боги, можем победить Асуров.  

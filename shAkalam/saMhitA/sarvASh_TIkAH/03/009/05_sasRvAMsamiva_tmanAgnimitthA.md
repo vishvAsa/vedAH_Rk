@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ससृवां꣡सम् इव त्म꣡ना  
 अग्नि꣡म् इत्था꣡ तिरो꣡हितम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 देवे꣡भ्यो मथित꣡म् प꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । ए॒न॒म् । न॒य॒त् । मा॒त॒रिश्वा॑ । प॒रा॒ऽवतः॑ । दे॒वेभ्यः॑ । म॒थि॒तम् । परि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sasṛvāṃsam* ← *sṛ*
 - \[verb noun\], accusative, singular
@@ -101,7 +101,7 @@ genre M
 मातरिश्वा वारुरित्थेत्थं त्मना स्वेच्छयाप्सु प्रवेशेन तिरोहितं निलीनं परि परितो मथितं मन्थनेन निष्पादितमेनमग्निं देवेभ्यः । तादर्थ्ये चतुर्थी । देवार्थं परावतो दूरदेशादानयत् । आनीतवान् । तत्र दृष्टान्तः । ससृवांसमिव । यथा स्वाच्छन्द्येन ससृवांसं सरन्तं गच्छन्तं पुत्रं पिता बलादानयति तद्वत् । ससृवांसमिव । सृ गतावित्यस्माल्लिट् । तस्य क्वसुः । इवेन विभक्त्यलोप इत्युक्तत्वात्प्रत्ययस्वरः । त्मना । आत्मन् शब्दस्य मन्त्रेष्वाङ्यादेरात्मन इत्याकार लोपः । इत्था । था हेतौ च छन्दसीति व्यत्ययेन थाप्रत्ययः । प्रत्ययस्वरः । एनम् । अन्वादेशे द्वितीयाटौःष्वेन इत्येनादेशः । अनुदात्तश्च । नयत् । णीञ् प्रापण इत्यस्य लङ् रूपम् । अडभावश्छान्दसः । मातरिश्वा । मातर्यन्तरिक्षेश्वसितीति श्वन्नुक्षन्नित्यादिना निपातितः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,34 +112,34 @@ genre M
 A fugitive (son): the text has only sasṛvāmsam iva, like one going; the father and son are implied; or, the reference may be to master and slave
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, hidden thus, as if he had run away on his own—  
 him did Mātariśvan lead here from the far distance, stolen from among  the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him wandering at his own free will, Agni here hidden from our view,  
      Him Matarisvan brought to us from far away produced by friction, from the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who had run as it were by his own might, Agni, who thus dwelt in concealment—Him Mâtarisvan brought hither from afar, from the gods, when he had been produced by attrition (of the woods).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der gleichsam von selbst weggelaufen war, den Agni, der dort verborgen war, den führte Matarisvan aus der Ferne her, von den Göttern weg, nachdem er aus dem Holze gerieben war.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, welcher eilt nach seiner Art, den Agni, den verborgenen, Ihn führte von den Göttern Mātariçvan her, von Ferne den erriebenen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Того, кто будто сам по себе убежал,  
 Агни, спрятанного таким образом, –  

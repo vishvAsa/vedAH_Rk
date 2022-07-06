@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡च् छल्मलउ꣡ भ꣡वति य꣡न् नदी꣡षु  
 य꣡द् ओ꣡षधीभ्यः प꣡रि जा꣡यते विष꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ मा꣡म् प꣡द्येन र꣡पसा विदत् त्स꣡रुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 विश्वे॑ । दे॒वाः । निः । इ॒तः । तत् । सु॒व॒न्तु॒ । मा । माम् । पद्ये॑न । रप॑सा । वि॒द॒त् । त्सरुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yacchalmalau* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -139,36 +139,36 @@ popular;; repeated line
 **यत्** विषं **शल्मलौ** एतत्संज्ञके वृक्षे **भवति** । **यत्** विषं **नदीषु** तत्रस्थास्वप्सु प्रादुर्भवति। **परि** इति पञ्चम्यर्थानुवादी। **औषधीभ्यः** सकाशात् **यत्** विषं **जायते** उत्पद्यते । **विश्वे** सर्वे देवाः **तत्** विषम् **इतः** अस्माज्जनाद्देशाद्वा **निः** **सुवन्तु** निःशेषेण प्रेरयन्तु । मा मामिति शिष्टं व्याख्यातम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The poison that is in the **Śalmalī** tree, in the rivers, or which is genitive rated from plural nts, may theuniversal gods remove from hence; let not the tortuous (snake) recognize me by the sound of my footsteps.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What poison is in the silk cotton tree, what in streams, and what is  produced from plants,  
 let the All Gods propel that away from here. – Let not the creeping thing  find me, bringing a disease of the foot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The poison that is formed upon the Salmali, that which is found in streams, that which the plants produce,  
      All this may all the Gods banish and drive away: let not the winding worm touch me and wound my foot.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Gift, das im Salmalibaum ist, das in den Flüssen ist, das aus den Pflanzen entsteht, das sollen alle Götter von da vertreiben.-Nicht soll mich der Schleicher mit seinem Fußschaden heimsuchen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und welches Gift erzeugt wird im Çalmalibaum, was in den Strömen, was in den Gewächsen ist, Das mögen alle Götter schaffen fern von hier, nicht treffe mich der Wurm, der Leid am Fusse schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Яд, который находится в (дереве) шалмали, который в реках,  
 Который рождается из растений, –  

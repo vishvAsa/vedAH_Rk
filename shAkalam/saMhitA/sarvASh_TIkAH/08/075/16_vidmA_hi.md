@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्मा꣡ हि꣡ ते पुरा꣡ वय꣡म्  
 अ꣡ग्ने पितु꣡र् य꣡था꣡वसः  
 अ꣡धा ते सुम्न꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अध॑ । ते॒ । सु॒म्नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -95,36 +95,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **अग्ने** **पितुः** पालकस्य **ते** तव **अवसः** अवो रक्षणं **पुरा** **यथा** तथेदानीमपीति **विद्म** । **अधः** तत् **ते** तव **सुम्नं** सुखम् **ईमहे** याचामहे । अथवा पितुर्यथेति दृष्टान्तः । पितुः पालनं पुत्रो यथा वेत्ति तथेत्यर्थः ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We know your protection, **Agni**, as of a father in former times, therefore we (again) desire of you thathappiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For we know of your help from of old, o Agni—help like that of a  father—  
 and so we beg your favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As we have known thy gracious help, as of a Father, long ago,  
      So now we pray to thee for bliss.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wir haben früher deine Gunst erfahren, o Agni, wie die eines Vaters; darum bitten wir um dein Wohlwollen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir kennen, Agni, ja von je wie eines Vaters deine Huld, Drum bitten wir um deine Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

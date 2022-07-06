@@ -8,7 +8,7 @@ title = "+054"
 ‘ अभूद्देवः' इति षडृचं नवमं सूक्तं वामदेवस्यर्षं सावित्रम् । अन्त्या त्रिष्टुप् शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । तथा चानुक्रमणिका -- अभूद्देवः षट् त्रिष्टुबन्तम्' इति । अनिष्टोमे वैश्वदेवशस्त्रे सावित्रनिविद्धानमिदम् । तथा च सूत्रम् - ‘ अभूद्देव एकया च दशभिश्च स्वभूते' ( आश्व. श्रौ. ५. १८) इति । आद्या सावित्रग्रहस्यानुवाक्या । तथा च सूत्रं - सावित्रेण ग्रहेण चरन्त्यभूद्देवः सविता वन्द्यो नु नः ' ( आश्व. श्रौ. ५. १८) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 54 (350)  
 Savitar  
@@ -18,7 +18,7 @@ This hymn conveys a much more intimate sense of our connection to Savitar than t
 to intercede on our behalf with anyone, divine or mortal, whom we have offended. The hymn also makes heavy use of the verb sū “impel” from which Savitar’s  name is derived: it is found in all verses but the first.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Savitar
 </details>

@@ -3,7 +3,7 @@ title = "+060"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 60 (669)  
 Agni  

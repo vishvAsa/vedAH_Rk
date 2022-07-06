@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था क꣡ण्वे मघवन् त्रस꣡दस्यवि  
 य꣡था पक्थे꣡ द꣡शव्रजे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 इ꣡न्द्र गो꣡मद् धि꣡रण्यवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यथा॑ । गोऽश॑र्ये । अस॑नोः । ऋ॒जिश्व॑नि । इन्द्र॑ । गोऽम॑त् । हिर॑ण्यऽवत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -95,30 +95,30 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As you, Mahavan, did give abundant kine and gold to **Kaṇva** and **Trasadasyu**, to **Paktha** andDaśavraja; as you did give them to Gośarya and Ṛjiśvan.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as at Kaṇva’s, at Trasadasyu’s, o bounteous one, as at Paktha  Daśavraja’s,  
 just as at Gośarya R̥jiśvan’s, Indra, you won (wealth) in cattle and gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du dem Kanva, du Gabenreicher, dem Trasadasyu, wie du dem Paktha Dasavraja, wie du dem Gosarya, dem Rijisvan, o Indra, eine Menge Rinder und Gold gewannest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie, mächtiger, dem Kanva, Trasadasju du, dem Paktha und Daçavradscha, Wie, Indra, dem Goçarja und Ridschiçvan du geschenkt hast Gut an Gold und Rind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как Канве, о щедрый, Трасадасью,  
 Как Пакхте Дашаврадже,  

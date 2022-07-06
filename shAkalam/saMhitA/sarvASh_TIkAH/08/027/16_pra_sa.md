@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ स꣡ क्ष꣡यं तिरते वि꣡ मही꣡र् इ꣡षो  
 यो꣡ वो व꣡राय दा꣡शति  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡रिष्टः स꣡र्व एधते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 प्र । प्र॒ऽजाभिः॑ । जा॒य॒ते॒ । धर्म॑णः । परि॑ । अरि॑ष्टः । सर्वः॑ । ए॒ध॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -124,44 +124,44 @@ genre M;; repeated line
 हे मरुदादयः **सः** मनुष्यः **क्षयम्**। क्षियन्ति निवसन्त्यत्रेति क्षयो गृहम् । तत् स मनुष्यः **प्र** **तिरते** प्रकर्षेण वर्धयति । तिरतिर्वृद्धिकर्मा । स एव **महीः** महान्ति **इषः** अन्नानि च **वि** वर्धयति **यः** मनुष्यः **वराय** वरणीयाय धनाय तदर्थं **वः** युष्मभ्यं **दाशति** हवींषि प्रयच्छति । धनादिभिर्वर्धयतीत्यन्वयः। किंच **धर्मेणः** । ध्रियते ऋत्विग्भिरिति धर्म कर्म । युष्मद्विषयात् कर्मणः सकाशात् स मनुष्यः **प्रजाभिः** पुत्रपौत्रादिभिः **परि** परितः सर्वतः **प्र** **जायते** प्रकर्षेणाविर्भवति । ‘आत्मा वै पुत्रनामासि' (श. ब्रा. १४. ९. ४. २६) इति श्रुतेः। ततः **अरिष्टः** अन्यैरहिंसितः **सर्वः** युष्माकं हविष्प्रदानात् सकलो जनः **एधते** धनादिभिर्वर्धते ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He enlarges his dweling, he has abundant food who offers you (oblations) to obtain a blessing; throughhis pious acts he is born on every side in his children; all prosper (through your favour) unharmed (by enemies).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He furthers his dwelling place, ex(tends) his great refreshments, who  does ritual service to your liking.  
 He is propagated through progeny forth from his foundation.  
 Unharmed and whole, he thrives.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 prá prajā́bhir jāyate is a nice figure in which prá doubles the first part of the cmpd. and jāyate the second.
 
 dhármaṇas pári receives quite varied interpr. I take it as a spatial metaphor: the fortunate pious man is propagated through his progeny “from his foundation,” that is, starting from himself and spreading out by children and grandchildren (etc.).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He makes his house endure, he gathers plenteous food who pays obedience to your will.  
      Born in his sons anew he spreads as Law commands, and prospers every way unharmed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der vergrößert sein Haus, vermehrt seinen großen Speisesegen, wer eurem Wunsch entspricht. Er pflanzt sich pflichtgemäß durch Kinder fort, er gedeiht ganz und gar ohne Schaden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der mehrt sein Gut und häuft sich grosse Nahrung an, wer eurem Willen huldiget, Der pflanzt sich nach der Reihe fort durch Kindeskind, gedeiht vollkommen, unversehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он увеличивает (свое) жилище, у(множает) великие жертвенные услады,  
 (Тот,) кто почитает (вас) по вашему желанию.  

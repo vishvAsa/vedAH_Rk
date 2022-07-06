@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महाँ꣡ इ꣡न्द्रो य꣡ ओ꣡जसा  
 पर्ज꣡न्यो वृष्टिमाँ꣡ इव  
 स्तो꣡मैर् वत्स꣡स्य वावृधे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्तोमैः॑ । व॒त्सस्य॑ । व॒वृ॒धे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
@@ -84,41 +84,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** **इन्द्रः** **ओजसा** बलेन **महान्** सर्वेभ्योऽधिकः । क इव । **वृष्टिमानिव** । यथा वृष्ट्या युक्तः **पर्जन्यः** रसानां प्रार्जयिता देवो महान् स इवेत्यर्थः । स इन्द्रः **वत्सस्य** पुत्रस्थानीयस्य स्तोतुर्वत्सनाम्न एवर्षेः स्तोत्रैः **ववृधे** प्रवर्धते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, who is great in might like **Parjanya** the disributor of rain, is magnified by the praises o **Vatsa**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Great Indra, who is like rain-bearing Parjanya in might,  
 has grown strong through the praises of Vatsa.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Displaced iva in b; we might expect *parjánya iva vṛṣṭimā́n, which would also be metrically acceptable.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INDRA, great in his power and might, and like Parjanya rich in rain,  
      Is magnified by Vatsa's lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, der an Kraft groß ist wie der regenbringende Parjanya, hat sich an des Vatsa Lobliedern erbaut;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der grosse Indra, der an Kraft der regenschwangern Wolke gleicht, Erlabt an Vatsa's Liedern sich,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра, который велик благодаря силе,  
 Словно грозовая туча, несущая дождь,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ भा꣡रती भा꣡रतीभिः सजो꣡षा  
 इ꣡ळा देवइ꣡र् मनुषि꣡येभिर् अग्निः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तिस्रो꣡ देवी꣡र् बर्हि꣡र् ए꣡दं꣡ सदन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 सर॑स्वती । सा॒र॒स्व॒तेभिः॑ । अ॒र्वाक् । ति॒स्रः । दे॒वीः । ब॒र्हिः । आ । इ॒दम् । स॒द॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M;; repeated line
 एतदाद्यृक्चतुष्टयं द्वितीयाष्टकस्याष्टमाध्याये (ऋ. सं. ३. ४. ८-११ ) यद्यपि व्याख्यातं तथापि व्यवधानात् संक्षेपतोऽत्रापि व्याख्यायते । **भारती** भरतस्यादित्यस्य पत्नी **भारतीभिः** **सजोषाः** सहिता **इळा** **मनुष्येभिः** मनुष्यलोकभवैः **देवैः** सार्धम् **अग्निः** **आ** गच्छतु । **सरस्वती** **सारस्वतेभिः** सारस्वतैः मध्यमस्थानैर्देवैः सार्धम् **अर्वाक्** अस्मदभिमुखमागच्छतु । आगत्य **तिस्रो** **देवीः** देव्यः ॥ प्रथमार्थे द्वितीया ॥ **बर्हिः** **इदम्** **आ** **सदन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ genre M;; repeated line
 Iḷā with gods and man: iḷādevabhir manuṣyebhir **agniḥ**; Iḷā is associated with men; Agni is associated with the goddesses. This and thethree following verses are repeated from the second **aṣṭaka**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bhāratī along with the Bhāratīs, Iḷā along with the gods, Agni along with  the sons of Manu,  
 and Sarasvatī along with the Sārasvatas are near: let the three goddesses sit here on the ritual grass.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Bharati with all her Sisters, Ila accordant with the Gods, with mortals Agni,  
      Sarasvati with all her kindred Rivers, come to this grass, Three Goddesses, and seat them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Bharati soll vereint mit den Bharati`s, Ila mit den Göttern, Agni mit den Menschen, Sarasvati mit den Sarasvata`s näher kommen. Die drei Göttinnen sollen sich auf dieses Barhis setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Bharati mit Bharati's vereinigt, Ida mit Göttern, Agni mit den Menschen, Sarasvatī mit den Sarasvatsöhnen, die drei Göttinnen mögen hier sich setzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Бхарати вместе с женами, происходящими от Бхараты,  
 Ида вместе с богами, Агни вместе с людьми,  

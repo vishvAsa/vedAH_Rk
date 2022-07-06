@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि य꣡त् कविः꣡ का꣡विया भ꣡रते  
 शू꣡रो न꣡ र꣡थो भु꣡वनानि वि꣡श्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡क्षाय रायः꣡ पुरुभू꣡षु न꣡व्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दे॒वेषु॑ । यशः॑ । मर्ता॑य । भूष॑न् । दक्षा॑य । रा॒यः । पु॒रु॒ऽभूषु॑ । नव्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -124,21 +124,21 @@ genre M
 **कविः** क्रान्तप्रज्ञः सोमः **काव्या** काव्यानि कवेः कर्माणि स्तोत्राणि **यत्** यदा **परि** **भरते** परितो बिभर्ति । परिगच्छतीति यावत् । कथमिव । **शूरो** **न** यथा शूरः शत्रूणां बाधकः **रथः** तदीयः **विश्वा** **भुवनानि** सांग्रामिकाणि भूतानि परियाति तद्वत् । तदानीं **देवेषु** स्थितं **यशः** व्यापकं धनं **मर्ताय** मनुष्याय स्तोत्रे **भूषन्** । भवतेरन्तर्भावितण्यर्थात् सनि रूपम् । भावयितुमिच्छन् सोमः **रायः** आत्मना दत्तस्य धनस्य **दक्षाय** वृद्ध्यर्थं **पुरुभूषु** बहुषु यज्ञभवनेषु **नव्यः** स्तोतव्यो भवति । ‘णु स्तुतौ' । अचो यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the sage **Soma** goes round the praises (of the wise) like a hostile chariot (going round) all the regions (of the battle-field), then desirous of bestowing upon mortals the wealth that abides with the gods, he (is) tobe glorified in the many plural ces of sacrifice for the preservation of the riches he has given.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the poet encompasses (all) poems, as a champion chariot  
 [/the chariot of the *Sun] (encircles) all the worlds,  
 exerting himself among the gods for glory for the mortal, for his skill  exerting himself anew for riches among (the gods) of much exertion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. does not contain a main cl., simply a subord. yád cl. in ab, extended by a participial expression in cd. The vs. can depend either on the previous vs. or the following one - or (though in my view less likely) the part. bhū́ṣan in c can be the predicate of the main cl.
 
@@ -159,23 +159,23 @@ As pointed out by Oldenberg inter alia, in c the transmitted mártāya is best e
 The dual focus on the cosmic and the ritual continues in c, where Soma exerts himself “among the gods” (that is, in his cosmic dimension) on behalf of glory for the mortal, presumably the priest or poet. The expression (yáśo) *mártyāya bhū́ṣan# may play off amṛ́tāya bhū́ṣan# (III.25.2, 34.2) “exerting oneself for the immortal (one).” The rt. noun cmpd puru-bhū́(-tama)- is otherwise used of the Aśvins (4x); I interpr. it to mean ‘appearing in many places’ (see comm. ad IV.44.4). The apparent loc. pl. occurrence here has been variously and only tentatively interpr.; see Geldner, Renou, Ober (II.229), Scarlatta (362). Given the context, in a participial clause headed by bhū́ṣan, I suggest that our purubhū́ṣu does not in fact belong to puru-bhū́- but rather to an otherwise unattested puru-*bhū́ṣ- -- hence *puru-bhū́ṣ-ṣu, with the geminate sibilant simplified to -ṣ-. Although a root noun to the secondary root √bhūṣ is not found elsewhere, it would not be difficult to generate in this context.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the sage bears his holy wisdom round him, like a car visiting all worlds, the Hero,  
      Becoming fame, mid Gods, unto the mortal, wealth to the skilled, worth praise mid the Ever-present,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn der Seher alle Sehergaben umfaßt, alle Welten wie ein tapferer Wagenheld die Feinde, dem Sterblichen bei den Göttern Ansehen bereitend, und dem Tüchtigen aufs neue Reichtümer bei den vielseitigen Göttern -
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn er, der Seher, rings die Seherkräfte und alle Wesen trägt gleich starkem Wagen, Dem Menschen Glanz verleihend bei den Göttern, zur Reichthums Mehrung preislich bei den Frommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда поэт обьемлет поэтические силы  
 (И) все миры, словно героическая колесница,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्तो꣡मो वरुण मित्र तु꣡भ्यं  
 सो꣡मः शुक्रो꣡ न꣡ वाय꣡वे अयामि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒वि॒ष्टम् । धियः॑ । जि॒गृ॒तम् । पुर॑म्ऽधीः । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -121,36 +121,36 @@ genre M;; repeated line
 एषः स्तोमइति पञ्चमी गता ॥ ५ ॥प्रमित्रयोरित्येकोनविंशत्यृचमेकादशं सूक्तं वसिष्ठस्यार्षम् अत्रेयमनुक्रमणिका-प्रमित्रयोरेकोना गायत्रं दशम्याद्यास्त्रयः प्रगाथाः पुरउष्णिक् चतुर्थ्याद्यादशादित्यास्तिस्रः सौर्यइति । दशमीबृहती एकादशीसतोबृहती द्वादशीबृहती त्रयोदशीसतोबृहती चतुर्दशी- बृहती पञ्चदशीसतोबृहती षोडशीपुरउष्णिक् शिष्टागायत्र्यः चतुर्थ्याद्यास्त्रयोदश्यन्ताः आदित्यदेवताः चतुर्दश्याद्याः स्तिस्रः सूर्यदेवत्याः आद्यन्तौतृचौ पूर्ववन्मैत्रावरुणौ अग्निष्टोमेमाध्यन्दिनसवने मैत्रावरुणशस्त्रे आदितोनवर्चः शस्याः प्रमित्रयोर्वरुणयोरितिनवेति सूत्रितत्वात् । पृष्ठ्याभिप्लवषडहयोः स्तोमवृद्धिनिमित्तमावापार्था आद्याः षळृचः सूत्रितञ्च-प्रमित्रयोर्वरुणयोरितिषळिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Varuṇa** and **Mitra**, this praise, pure as the **Soma** libation, has been offered to you, and also, **Aryaman**(to you); protect our rites; be awake to our praises; and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This praise song, o Varuṇa, o Mitra, has been offered to each of you, like  the gleaming soma to Vāyu.  
 Give help to our insights. Awaken the ways to plenty. – Do you protect  us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To you this laud, O Varuna and Mitra, is offered, like bright Soma juice to Vayu.  
      Favour our songs of praise, wake thought and spirit. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses Loblied ist dir, Mitra und dir, Varuna dargebracht wie der klare Soma dem Vayu. Begünstiget die Gebete, erwecket die Freigebigkeit!-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Loblied ist euch, Varuna und Mitra, gereicht, wie reiner Somatrunk dem Vaju, Seid hold den Liedern und erweckt uns Reichthum. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это восхваление, о Варуна, о Митра, для тебя  
 Было принесено в жертву, как чистый сома – для Ваю.  

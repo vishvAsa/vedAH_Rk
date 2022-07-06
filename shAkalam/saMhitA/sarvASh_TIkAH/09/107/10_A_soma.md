@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सोम स्वानो꣡° अ꣡द्रिभिस्  
 तिरो꣡ वा꣡राणि अव्य꣡या  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 स꣡दो व꣡नेषु दधिषे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 जनः॑ । न । पु॒रि । च॒म्वोः॑ । वि॒श॒त् । हरिः॑ । सदः॑ । वने॑षु । द॒धि॒षे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -108,20 +108,20 @@ genre M
 हे **सोम** **अद्रिभिः** ग्रावभिः **सुवानः** अभिषूयमाणस्त्वम् **अव्यया** अविमयानि **वाराणि** वालानि पवित्राणि **तिरः** कुर्वन् व्यवधायकानि कुर्वाणः सन् **आ** पवस इति शेषः । **हरिः** हरितवर्णः स सोमः **चम्वोः** अधिषवणफलकयोः उपरि स्थिते कलशे **विशत्** प्रविशति । तत्र दृष्टान्तः । **जनो** **न** यथा जनः **पुरि** पुरे प्रविशति । स त्वं **वनेषु** काष्ठनिर्मितेषु पात्रेषु **सदः** स्थानं **दधिषे** करोषि ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Expressed by the stones, **Soma**, (passing) through the sheep's hairs, green-tinted, entering the cups as a man (enters) a city, you take your seat in the wooden (vessels).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, while you are being pressed by the stones, (you come) here  across the sheep’s fleeces.  
 Like a man into a fortress, the tawny one enters into the two cups. You  have established your seat in the woods [/in the wooden cups].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner, Renou, Hoffmann (133), in the published translation I supply a verb in ab. I now think this may be unnec. The impetus was the apparent change of person between the first hemistich and the second: with voc. soma in pāda a but a 3rd ps. verb (viśat) with Soma as subj. in c. However, as in vs. 12 the 3rd-ps. verb may result from attraction to the simile (jáno ná purí … viśat “as a man enters a fortress”), and the underlying person could be 2nd throughout; see dadhiṣe in d. It is hard to convey the change in Engl. but something like “O Soma, while you are being pressed by the stones here across the sheep's fleeces, as a man enters a fortress, as tawny one (you enter) into the two cups. You have established …” Hoffmann (133) argues that the changes of ps. mark pāda c as parenthetic, allowing it to be interpr. in his “general” sense. This sense should be possible even without branding the pāda as a parenthesis.
 
@@ -135,23 +135,23 @@ Little overt cohesion. The adv. tiráḥ ‘across’ referring to the filter is
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effused by stones, O Soma, and urged through the long wool of the sheep,  
      Thou, entering the saucers as a man the fort, gold-hued hast settled in the wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Steinen ausgepreßt läufst du, Soma, durch die Schafhaare ab. Der Falbe zieht in die beiden Camugefäße ein wie die Mannschaft in die Burg. Du hast deinen Sitz in den Holzgefäßen genommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von Somasteinen ausgepresst geht Soma durch des Widders Haar, Der goldne ins Gefäss wie in die Burg der Held; in Kufen nahmst du deinen Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый камнями, о сома,  
 Через сито из овечьей шерсти,  

@@ -8,7 +8,7 @@ title = "+060"
 ‘ ईळे अग्निं स्ववसम्' इत्यष्टर्चं चतुर्थं सूक्तं श्यावाश्वस्यार्षम् । सप्तम्यष्टम्यौ जगत्यौ शिष्टाः षट् त्रिष्टुभः । मरुद्देवताकमग्निमरुद्देवताकं वा । ईळे द्विजगत्यन्तमाग्नेयं च वा ' इति । सूक्तविनियोगो लैङ्गिकः । आद्या कारीर्यां सामिधेनीषु याज्या । सूत्रितं च--- ईळे अग्निं स्ववसं नमोभिरिति धाय्ये ' ( आश्व. श्रौ. २. १३ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 60 (414)  
 Maruts  
@@ -18,7 +18,7 @@ Like V.56, this hymn begins with an invocation of Agni, the ritual fire, who is 
 tic picture of their parentage. Notable also is the dicing imagery in verse 1.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा देवे꣡भ्यो म꣡धुमत्तमं न꣡रः  
 सह꣡स्रधारं दुहते द꣡श क्षि꣡पः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वान् देवाँ꣡ आ꣡ पवस्वा सहस्रजित्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नृऽभिः॑ । सो॒म॒ । प्रऽच्यु॑तः । ग्राव॑ऽभिः । सु॒तः । विश्वा॑न् । दे॒वान् । आ । प॒व॒स्व॒ । स॒ह॒स्र॒ऽजि॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -130,20 +130,20 @@ genre M
 हे सोम **तं** तादृशं **त्वा** त्वां **देवेभ्यः** इन्द्राद्यर्थं **मधुमत्तमम्** अतिशयेन मधुमन्तं **सहस्रधारं** बहुधारायुक्तं **दुहते** दुहन्ति । के। **नरः** नेतार ऋत्विजः **दश** **क्षिपः** तेषां दशसंख्याका अङ्गुलयश्च । हे **सोम** **नृभिः** मनुष्यैः **प्रच्युतः** **ग्रावभिः** **सुतः** अभिषुतस्त्वं **सहस्रजित्** सहस्रसंख्याकधनस्य जेता सन् **विश्वान्** **देवान्** **आ** **पवस्व** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The priests, the ten fingers, milk you forth for the gods, most sweet-flavoured, flowing in a thousand streams; effused by the men, expressed with the stone, do you, **Soma**, the winner of thousand-fold wealth, flow to all the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, most honeyed, do the men milk for the gods; you of a thousand  streams do the ten fingers milk.  
 O Soma, roused by men, pressed by stones, by purifying yourself bring  all the gods here, you winner of thousands.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pādas a and b share a verb, duhate in b. Each pāda contains a contrastive pair: devébhyaḥ … náraḥ “the men for the gods” and sahásra(dhāram) … dáśa (kṣípaḥ) “thousand(-streamed) … ten (fingers).”
 
@@ -158,23 +158,23 @@ Both vss. open with táṃ tvā, echoing yáṃ tvā beginning vs. 2.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The men, the ten swift fingers, milk thee out for Gods, even thee most rich in meath, with thousand flowing streams.  
      Soma who winnest thousands, driven by the men, expressed with stones, bring, as thou flowest, all the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich den Süßesten melken die Männer für die Götter aus, die zehn Finger in tausend Strahlen. Von den Männern gerüttelt, mit den Steinen ausgeschlagen, o Soma, läutere alle Götter herbei, du Tausendgewinner!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich tausendström'gen melken nun die Männer aus, zehn Finger dich, den süssesten, der Götterschar; Bewegt von Männern, Soma, vom Gestein gepresst, viel Gut erbeutend riesle alle Götter her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, такого самого сладкого, мужи (доят) для богов,  
 Десять пальцев доят текущего в тысячу потоков.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृ꣡हस्पते प्र꣡ति मे देव꣡ताम् इहि  
 मित्रो꣡ वा य꣡द् व꣡रुणो वा꣡सि पूषा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ पर्ज꣡न्यं शं꣡तनवे वृषाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ॒दि॒त्यैः । वा॒ । यत् । वसु॑ऽभिः । म॒रुत्वा॑न् । सः । प॒र्जन्य॑म् । शम्ऽत॑नवे । वृ॒ष॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
@@ -129,7 +129,7 @@ popular
 तत्र ब्रह्मत्वे प्रवृत्तो बृहस्पतिमनुधावति । हे **बृहस्पते** **मे** मम वृष्ट्यर्थं प्रति **देवतां** **प्रति** **इहि** प्रतिगच्छ । यष्टव्या देवताः प्रतिगच्छ । यदि त्वं **मित्रो** **वा** **असि** अथवा **वरुणः** असि **यद्वा** **पूषा** असि अथवा **आदित्यैः** द्वादशादित्यैररुणादिभिः **वसुभिः** वासकैरष्टवसुभिर्धरध्रुवादिभिः सह **मरुत्वान्** । मरुतो देवाः । तद्वानसि। **सः** त्वं **पर्जन्यं** तर्पयितारं मेघं **शंतनवे** राज्ञे **वृषाय** वर्षय । “ छन्दसि शायजपि ' इति व्यत्ययेन शपोऽपि शायजादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ popular
 Legend from **Nirukta** 2.10: **Devāpi** and Śantanu were sons of Ṛṣṭiṣeṇa of the **Kuru** family; the youngerŚantanu became king, Devāpi chose a life of penance. In Śantanu's kingdom there was no rain for twelveyears-- the consequence of Śantanu having improperly assumed the government while his elder brother, themore legitimate **rājā**, was living. Śantanu desired to resign his authority, but Devāpi declined to accept thethrone, saying, "Let me be your **Purohita** and conduct your religious rites". The story is in **Viṣṇu** Purāṇa4.20.7; **Ādi parva**, **Mahābhārata**; **Bhāgavata Purāṇa** 9.22.14-17
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Devāpi:] “Br̥haspati, confront (the appropriate) divinity for me,  (saying): ‘whether you are Mitra or Varuṇa, or Pūṣan,  
 or whether you are the companion of the Maruts [=Indra], or are with  the Ādityas or the Vasus, make Parjanya rain for Śaṃtanu.’”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME, be thou Mitra, Varuna, or Pusan, come, O Brhaspati, to mine oblation:  
      With Maruts, Vasus, or Adityas, make thou Parjanya pour for Santanu his rain-drops.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati! Nimm für mich irgend eine Götterform an: Ob du Mitra oder Varuna bist oder Pusan, ob du mit den Aditya´s, den Vasu´s bist oder von den Marut begleitet, veranlasse Parjanya für Santanu zu regnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Brihaspati, komm her zu meinem Opfer, sei's nun als Mitra, Varuna, als Puschan; Sei's mit den Vasu's, Maruts, den Aditja's; dem Çantanu lass regnen den Pardschanja.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Брихаспати, вернись для меня в божественной форме:  
 Будешь ли ты Митрой или Варуной, (или) Пушаном,  

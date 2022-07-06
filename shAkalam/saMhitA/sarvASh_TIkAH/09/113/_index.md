@@ -8,7 +8,7 @@ title = "+113"
 ‘शर्यणावति' इत्येकादशर्चं दशमं सूक्तं मारीचस्य कश्यपस्यार्षम् । पूर्वत्र ‘हि' इत्युक्तत्वादिदमुत्तरं च पाङ्क्तम् । पवमानसोमदेवताकम् । तथा चानुक्रम्यते- शर्यणावत्येकादश कश्यपः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 113 (825)  
 Soma Pavamāna  
@@ -22,7 +22,7 @@ What links the first half of the hymn to the second, besides the transforma tive
 pared by the Placer in verse 4; the sun was placed in the heavenly world in 7b, and  finally the poet implores Soma to place him in the same world in 7c. The first two  of these placings also involve clear transformation of substance:  soma becomes  Indra’s strength; the rain becomes soma’s sap. We can also see transformation in  the Placer’s preparation of soma in verse 4, as this preparation makes a physical  substance into a drink of immortality, and ultimately in Soma’s placing of the poet  in the immortal world, which will make the poet himself immortal. The command  of the second half of verse 7 “place me in that immortal, imperishable world” is fol lowed by the command refrain of the remaining four verses (8–11), “there make me  immortal,” a sequence that appears to support the notion that the “placing” both  precedes and causes the poet’s transformation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the structure and thematics of the hymn see published introduction.
 </details>

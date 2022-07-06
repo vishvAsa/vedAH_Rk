@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ जइ꣡त्रीर् असचन्त स्पृधान꣡म्  
 म꣡हि ज्यो꣡तिस् त꣡मसो नि꣡र् अजानन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡तिर् ग꣡वाम् अभवद् ए꣡क इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । जा॒न॒तीः । प्रति॑ । उत् । आ॒य॒न् । उ॒षसः॑ । पतिः॑ । गवा॑म् । अ॒भ॒व॒त् । एकः॑ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -136,20 +136,20 @@ genre M
 **जैत्रीः** जित्वर्यो विशो मरुतः **स्पृधानं** वृत्रेण सह स्पर्धमानमिन्द्रम् **अभि** **असचन्त** सर्वतः समगच्छन् । ते च मरुतः **महि** महत् **ज्योतिः** सूर्याख्यं तेजः **तमसः** तमोरूपात् वृत्रात् निरजानन् निर्गतमज्ञासिषुः । उदितं सूर्यं **जानतीः** जानानाः **उषसः** **तं** **प्रति** **उत्** अभिलक्ष्यैव **आयन्** प्राप्नुवन् । अथ तत्रोद्भूतानां **गवां** रश्मीनाम् **एकः** अद्वितीय एव **इन्द्रः** **पतिः** **अभवत्** ॥ जैत्रीः। जयतेः तृनि रूपम् । गुणस्य स्थाने व्यत्ययेन वृद्धिः। नित्स्वरः। असचन्त । ‘पच समवाये' इत्यस्य लङि रूपम् । स्पृधानम् ।' स्पर्ध संघर्षे '। छन्दसि कानजादेशः । छन्दसि द्विर्वचनस्य विकल्पितत्वात् द्विर्वचनाभावः । चित्स्वरः । अजानन्। 'ज्ञा अवबोधने ' इत्यस्य लङि रूपम् । निघातः । आयन् । 'अय गतौ ' इत्यस्य लङि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The victorious (**Maruts**) associated (with **Indra** when contending with **Vṛtra**) perceived a great light issuing from the darkness. The dawns recognizing him (as the sun) arose, and Indra was the sole sovereign of the rays (of light).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The victorious (clans [=Aṅgirases?]) escorted the contender [=Indra?].  They distinguished the great light from the darkness.  
 Recognizing him, the dawns rose up in response. He became the lone  lord [/husband] of the cows—Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pādas a and c contain feminine plural nom./acc. forms: jaítrīḥ and jānatī́ḥ … uṣā́saḥ respectively. Although the default assumption would be that they are coreferential and both refer to the Dawns, the familiar plot line of the Vala myth suggests rather that they identify two different subjects: the (unexpressed) Aṅgirases in ab, the (expressed) Dawns in c. (So Geldner, Renou, Schmidt [Bṛhaspati und Indra, 167]; Oldenberg agrees that the Aṅgirases should be supplied as subj. in a, but takes jaítrīḥ as obj. [presumably alongside clear acc. spṛdhānám], while Witzel Gotō take the Dawns as subj. of a, but supply the Aṅgirases as subj. of b.) The Aṅgirases are Indra’s back-up band in the Vala myth, as noted above ad III.30.10, and would be expected to accompany him, as pāda a depicts, while the Dawns are still confined within the Vala cave and only in c recognize Indra’s song and come out of the cave. The problem for an Aṅgiras reading of pāda a is of course the fem. gender of jaítrīḥ. Here it is probably best to follow Sāyaṇa. in supply víśaḥ ‘clans’ (so Geldner, etc.); cf. I.121.3 viśā́m áṅgirasām.
 
@@ -158,23 +158,23 @@ However, note that the Aṅgirases are referred to by the fem. pl. vā́ṇīḥ
 remarks above.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Conquering bands upon the Warrior waited: they recognized great light from out the darkness.  
      The conscious Dawns went forth to meet his coming, and the sole Master of the kine was Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Streiter schlossen sich die siegreichen Scharen an; sie fanden das große Licht aus dem Dunkel heraus. Die Morgenröten erkannten ihn und kamen ihm entgegen aus der Höhle. Indra wurde der alleinige Besitzer der Kühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Siegerinnen [die Morgenröthen, als über das Dunkel siegend] strebten hin zu dem kämpfenden [Agni]; sie fanden grosses Licht aus der Dunkelheit heraus; als sie ihn erblickten eilten sie hin, die Morgenröthen ; da ward Indra allein der Herr der Kühe [im Vritrakampfe].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Победоносные примкнули к борющемуся,  
 Они отыскали во мраке великое светило.  

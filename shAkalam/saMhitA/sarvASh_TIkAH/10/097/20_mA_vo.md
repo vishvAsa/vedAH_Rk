@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ वो रिषत् खनिता꣡  
 य꣡स्मै चाहं꣡ ख꣡नामि वः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡र्वम् अस्तु अनातुर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 द्वि॒ऽपत् । चतुः॑ऽपत् । अ॒स्माक॑म् । सर्व॑म् । अ॒स्तु॒ । अ॒ना॒तु॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -104,36 +104,36 @@ popular;; epic anuṣṭubh (292)
 हे ओषधयः वः युष्मान् मा **रिषत्** मा हिंस्यात् । कः । **खनिता** भूमेः खननकर्ता । **यस्मै** रुग्णाय **चाहं** **खनामि** **वः** युष्मान् । किंच **अस्माकं** संबन्धि **द्विपत्** पुत्रभृत्यादिकं **चतुष्पत्** गोमहिष्यादिकं च यदस्ति तत् **सर्वम्** **अनातुरम्** अरोगम् अस्तु ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not the digger hurt you, not (the sick person n) for whom I dig you up; may all my bipeds andquadrupeds be free from disease.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your digger not suffer harm, nor him for whom I dig you.  
 Let our two-footed and four-footed all be free of affliction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unharmed be he who digs you up, unharmed the man for whom I dig:  
      And let no malady attack biped or quadruped of ours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll der Schaden leiden, der euch gräbt, noch der, für den ich euch grabe. Unsere Zweifüßler und Vierfüßler sollen alle gesund sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht nehme Schaden wer euch gräbt, noch der, für den ich grabe euch; Was zwei und was vier Füsse hat, das bleibe alles uns gesund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не пострадает от вас копающий (вас)  
 И кому я вас копаю!  

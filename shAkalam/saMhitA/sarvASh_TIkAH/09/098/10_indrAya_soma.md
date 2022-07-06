@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय सोम पा꣡तवे  
 वृत्रघ्ने꣡ प꣡रि षिच्यसे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवा꣡य सदनास꣡दे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 नरे॑ । च॒ । दक्षि॑णाऽवते । दे॒वाय॑ । स॒द॒न॒ऽसदे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -89,7 +89,7 @@ genre M
 हे **सोम** **वृत्रघ्ने** वृत्रस्य हन्त्रे **इन्द्राय** । षष्ठ्यर्थे चतुर्थी । इन्द्रस्य **पातवे** पानार्थं **परि** **षिच्यसे** परितः पात्रेषु सिच्यसे । वसतीवरीभिर्वा । किंच **दक्षिणावते** ऋत्विग्भ्यो दक्षिणादानेन तद्वते **देवाय** देवार्थं हवींषि दातुं **सदनसदे** यज्ञगृहे सीदते **नरे** मनुष्याय यजमानाय तस्मै फलप्रदानार्थं परिषिच्यसे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,33 +100,33 @@ genre M
 **Sāmaveda** has vīrāya for devāya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, you are poured around for Indra, the Vr̥tra-smiter, to drink, and for the superior man who gives priestly gifts, and for the god sitting  on the seat.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of “the god sitting on the seat” is unclear, though Sāyaṇa.’s suggestion (see Geldner’s n. 10d) that it is the Yajamāna seems unlikely. I’d suggest rather Agni, on the basis of IX.92.2 sī́dan hóteva sádane camū́ṣu “taking his seat in the cups like a Hotar on his seat,” since Agni is the archetypal Hotar and √sad is a regular part of the Agni lexicon. Of course in IX it is Soma who is regularly sitting / seated, but he cannot be the indirect object here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Vrtra-slaying Indra, thou, Soma, art poured that he may drink,  
      Poured for the guerdon-giving man, poured for the God who sitteth there.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Indra, den Vritratöter, wirst du, Soma, zum Trunke eingegossen und für den Herrn, der Dichtersold gibt, für den Gott, der auf dem Opfersitze sitzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Vritratödter Indra wirst ergossen, Soma, du zum Trunk, Dem Mann, der reichen Lohn verleiht, dem Gott, der auf dem Throne sitzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Индры, о сома, чтобы он пил,  
 Для убийцы Вритры ты разливаешься вокруг,  

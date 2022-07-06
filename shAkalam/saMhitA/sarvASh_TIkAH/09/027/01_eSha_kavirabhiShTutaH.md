@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ कवि꣡र् अभि꣡ष्टुतः  
 पवि꣡त्रे अ꣡धि तोशते  
 पुनानो꣡ घ्न꣡न्न् अ꣡प स्रि꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒ना॒नः । घ्नन् । अप॑ । स्रिधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -81,41 +81,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एषः** सोमः **कविः** मेधावी **अभिष्टुतः** अभितः स्तुतः **पवित्रे** **अधि** दशापवित्रमतीत्य **तोशते** । यद्यपि तोशतिर्वधकर्मा तथापि हनने गतिसद्भावादत्र गतिमात्रे वर्तते । गच्छतीत्यर्थः । अथवा । पवित्रेऽधि कृष्णाजिने तोशते हन्यते । पीड्यत इत्यर्थः । किं कुर्वन् । **पुनानः** पूयमानः **स्रिधः** शत्रून् **अप** **घ्नन्** अपगमयन् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This seer, the purifying (**Soma**), lauded by us, passes through the filter, driving away foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, the much-praised poet, spills over into the filter,  
 striking away failures, while being purified.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the meaning of the root √tuś see comm. ad VIII.38.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS Sage, exalted by our lauds, flows to the purifying cloth,  
      Scattering foes as he is cleansed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Seher ergießt sich unter Lobgesang über die Seihe, sich läuternd, die Fehler wegräumend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Seher, der gepriesene, er träufelt auf die Seihe hin, Der Feindverscheucher, hell und klar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот поэт, восхваленный,  
 Бьет ключом в цедилке.  

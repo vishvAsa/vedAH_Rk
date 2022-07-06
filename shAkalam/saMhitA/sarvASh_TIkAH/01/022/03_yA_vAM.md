@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ वां क꣡शा म꣡धुमती  
 अ꣡श्विना सूनृ꣡तावती  
 त꣡या यज्ञ꣡म् मिमिक्षतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तया॑ । य॒ज्ञम् । मि॒मि॒क्ष॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,12 +96,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Kāśa** = whip, may also mean speech; **madhumatī** and sunṛtāvatī = wet and loud, signifying sweet and veracious--come with such speech, Aśvins and taste the libation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The honeyed whip that is yours, Aśvins, that has a liberal spirit— with that mix the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dropping with honey is your whip, Asvins, and full of pleasantness  
      Sprinkle therewith the sacrifice.
@@ -115,17 +115,17 @@ With that touch the sacrifice.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure honighaltige, glückbringende Peitsche, ihr Asvin, mit der würzet das Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Peitsche, die von Honig trieft, o Ritter, reich an Gaben ist, Mit der benetzt das Opferwerk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваш медовый кнут,  
 О Ашвины, что дает благо –  

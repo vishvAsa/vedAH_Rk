@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ श्रे꣡ष्ठं ज्यो꣡तिषां ज्यो꣡तिर् उत्तमं꣡  
 विश्वजि꣡द् · धनजि꣡द् उच्यते बृह꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उरु꣡ पप्रथे स꣡ह ओ꣡जो अ꣡च्युतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वि॒श्व॒ऽभ्राट् । भ्रा॒जः । महि॑ । सूर्यः॑ । दृ॒शे । उ॒रु । प॒प्र॒थे॒ । सहः॑ । ओजः॑ । अच्यु॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -143,37 +143,37 @@ popular
 **इदं** सौरं तेजः **श्रेष्ठं** प्रशस्यतमं **ज्योतिषाम्** अन्येषां ग्रहनक्षत्रादीनामपि **ज्योतिः** प्रकाशकमत एव **उत्तमम्** उत्कृष्टं **विश्वजित्** विश्वस्य सर्वस्य जेतृ 'धनजित् धनस्य च जेतृ **बृहत्** प्रभूतम् **उच्यते** । एवंगुणविशिष्टमिति सर्वैरभिधीयते । अपि च **विश्वभ्राट्** विश्वस्य प्रकाशयिता **भ्राजः** भ्राजमानः **महि** महान् **सूर्यः** **दृशे** दर्शनाय **उरु** विस्तीर्णं **सहः** तमसोऽभिभवितृ **अच्युतं** च्युतिरहितमविनाशम् **ओजः** तेजोरूपं बलं **पप्रथे** विस्तारयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This light, the best of lights, the most excellent, is called the conqueror of all, the conqueror of wealth,mighty, all-illumining, radiant, mighty, **Sūrya** displays to view his vast power, his unfailing lustre.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the fairest, the highest light of lights: the lofty one is called  all-conquering, wealth-conquering.  
 The all-blazing, greatly blazing Sun spreads his broad might, his  
 unshakeable strength to be seen.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This light, the best of lights, supreme, all-conquering, winner of riches, is exalted with high laud.  
      All-lighting, radiant, mighty as the Sun to see, he spreadeth wide unfailing victory and strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses schönste der Lichter, das höchste Licht heißt das Allgewinnende, Schätzegewinnende, das Hohe. Der allstrahlende, mächtig strahlende Surya hat zum Schauen seine Gewalt und unentwegte Kraft weithin ausgebreitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies schönste Licht der Lichter, das erhabendste, das allbesiegend Beute macht, wird hoch gerühmt, Der Strahl, das All bestrahlend mit der Sonne Schein, hat weit verbreitet Kraft und ungebeugte Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот лучший из светов, высший свет  
 Называется завоевывающим все, завоевывающим богатство, (этот) высокий.  

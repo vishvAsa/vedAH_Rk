@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व य꣡च् छ्येनो꣡ अ꣡स्वनीद् अ꣡ध द्यो꣡र्  
 वि꣡ य꣡द् य꣡दि वा꣡त ऊहुः꣡ पु꣡रंधिम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृशा꣡नुर् अ꣡स्ता म꣡नसा भुरण्य꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सृ॒जत् । यत् । अ॒स्मै॒ । अव॑ । ह॒ । क्षि॒पत् । ज्याम् । कृ॒शानुः॑ । अस्ता॑ । मन॑सा । भु॒र॒ण्यन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -141,20 +141,20 @@ genre M
 **अध** तदानीं सोमाहरणकाले **यत्** यदा **श्येनः** **द्योः** द्युलोकात् **अव** **अस्वनीत्** अवाङ्मुखं शब्दमकरोत् । **यदि** **वा** यदा च । वेति चार्थे । **यत्** यं **पुरंधिं** सोमम् **अतः** अस्माच्छ्येनात् **वि** **ऊहुः** सोमपाला विक्षिप्तवन्तः। **यत्** यदा **अस्ता** शराणां क्षेप्ता **मनसा** मनोवेगेन **भुरण्यन्** गन्तुमिच्छन् 'कृशानुः एतन्नामकः सोमपालः **ज्यां** धनुषः कोटौ मौर्वीं **क्षिपत्** **ह** चिक्षेप खलु । **अस्मै** श्येनाय शरम् **अव** **असृजत्** त्यक्तवान् । तथा च ब्राह्मणं- तस्या अनुविसृज्य कृशानुः सोमपालः सव्यस्य पदो नखमच्छिदत् ' ( ऐ. ब्रा. ३. २६) इत्यादि । यदा सोमपाला इत्थमित्थं चक्रुस्तदा श्येनः सोममाजहारेत्यृचोत्तरया संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the hawk screamed (with exultation) on his descent from heaven, and (the guardians of the **Soma**) perceived that the Soma was (carried away) by it then, the archer of **Kṛśānu**, pursuing with the speed of thought, and stringing his bow, let fly an arrow against it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the falcon then roared down from heaven, when—or if—they  carried Plenitude away from there,  
 when the archer Kr̥śānu, alert in mind, released and let fly his bow-string  down toward him,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is a difficult vs. to construe and to interpret. What we have to go on is the syntactic skeleton the poet has provided us: a triple yád construction, with yád in Wackernagel’s position in the first three pādas, and in the fourth a nominative NP that serves as the subject of the clause introduced in c. The main cl. is then provided by 4ab (so, generally, Oldenberg, Geldner, Witzel Gotō, Schneider).
 
@@ -165,23 +165,23 @@ Neither says she was carried away, much less by whom -- so how Puraṃdhi depart
 The similarity of vā́ta(ḥ) (Pp. vā átaḥ) to the word for ‘wind’, just met in vā́tān (2d), has been generally remarked on. Geldner (n. 3b) tentatively suggests a haplology: vā́to vā́tā(ḥ), that is, vā átaḥ vā́tāḥ ‘or the winds from there (carried off Puraṃdhi).” I see the temptation, but I think vā́ta(ḥ) is only a word play and does not conceal a form of ‘wind’. Among other things, the winds in 2d were not carrying anything away; they were overtaken by the falcon, who was.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When with loud cry from heaven down sped the Falcon, thence hasting like the wind he bore the Bold One.  
      Then, wildly raging in his mind, the archer Krsanu aimed and loosed the string to strike him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als der Adler vom Himmel herabrauschte, oder als sie von dort den Purandhi entführten, als der Schütze Krisanu nach ihm schoß, und die Sehne abschnellte, mit dem Gedanken eilend,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als da der Aar vom Himmel niederrauschte, sobald die Winde trugen den gefüllten, Da, ihn zu schiessen, schnellte los der Schütze, der Bogespanner wuthentbrannt die Sehne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда орел с шумом рванулся с неба вниз  
 Или когда ветры оттуда унесли Пурамдхи,  

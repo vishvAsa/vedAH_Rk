@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिविस्पृ꣡शं यज्ञ꣡म् अस्मा꣡कम् अश्विना  
 जीरा꣡ध्वरं कृणुतं सुम्न꣡म् इष्ट꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 प्रा॒चीन॑ऽरश्मिम् । आऽहु॑तम् । घृ॒तेन॑ । तत् । दे॒वाना॑म् । अवः॑ । अ॒द्य । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divispṛśaṃ* ← *divispṛśam* ← *divispṛś*
 - \[noun\], accusative, singular, masculine
@@ -123,36 +123,36 @@ genre M;; repeated line
 हे अश्विनौ युवां नोऽस्माकं **यज्ञं** **दिविस्पृशं** दिवि स्प्रष्टारं गन्तारं **कृणुतं** कुरुतम् । तथा **जीराध्वरं** क्षिप्रं हिंसारहितं च यज्ञमस्माकं **कृणुतं** कुरुतम् । **इष्टये** अभिलषितसिद्ध्यर्थं **सुम्नं** सुखं च कुरुतम् । किंच **घृतेन** आज्येन **आहुतम्** अग्निं **प्राचीनरश्मिं** देवाभिमुखं कुरुतमित्यर्थः । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, make our sacriice ascend to heaven free from injury, happy for the attainment of our desires;make the fire to which she is offered blaze up towards (the gods); we solicit today this protection of our gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Aśvins, make our sacrifice heaven-touching and of lively ceremony, to  seek favor—  
 a sacrifice with its reins pointed eastward, bepoured with ghee. – This  help of the gods we choose today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Asvins, make our sacrifice ascend to heaven, and animate the rite that it may send us bliss,  
      Offered with holy oil, with forward-speeding rein. We crave the gracious favour of the Gods to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Machet, daß unser Opfer bis zum Himmel reiche, o Asvin, daß es rasch vollzogen werde, um eure Gunst zu suchen! Machet, daß der mit Schmalz begossene Agni mit verhängtem Zügel fahre! - Diese Gunst der Götter erbitten wir heute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst, Ritter, unser Opfer steigen himmelan, das uns zum Glück und Segen schön gefeiert sei, Mit vorgestrecktem Zügel, reich mit Fett benetzt, die Huld der Götter wünschen heute wir herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ашвины, сделайте нашу жертву касающейся неба,  
 Оживляющей обряд – чтоб найти (вашу) милость,  

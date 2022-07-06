@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡कद्रुकेषु चे꣡तनं  
 देवा꣡सो यज्ञ꣡म् अत्नत  
 त꣡म् इ꣡द् वर्धन्तु नो गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; repeated line
 तम् । इत् । व॒र्ध॒न्तु॒ । नः॒ । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trikadrukeṣu* ← *trikadruka*
 - \[noun\], locative, plural, masculine
@@ -86,7 +86,7 @@ genre M;; repeated line
 हे देवासः देवा इन्द्रादयः **त्रिकद्रुकेषु** आभिप्लविकेष्वहःसु । ज्योतिर्गौरायुरिति त्रिकद्रुकाः । तेषु **चेतनम्** । 'चिती संज्ञाने'। चेतन्ति जानन्त्यनेन स्वर्गादिकमिति चेतनः । ज्ञानसाधनं **यज्ञम्** **अत्नत** अतन्वत स्वैः स्वैः कर्मभिः पालनैश्च विस्तारितवन्तः ।  ‘ तनु विस्तारे'। लङि ‘बहुलं छन्दसि' इति विकरणस्य लुक्। तनिपत्योश्छन्दसि' इत्युपधालोपः। **तमित्** तमेवास्मदीयं यज्ञं नः अस्माकं **गिरः** स्तुतिलक्षणा वाचः **वर्धन्तु** वर्धयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,29 +97,29 @@ genre M;; repeated line
 RV 8.13.18: yajñam = **indra** yaṣṭavyam; Trikadruka days: these are the first three days of the ābhiplava, areligious ceremony which lasts six days and is a part of the gavāmāyana sacrifice. The first three days areseverally called: **jyotiṣ**, go, **āyus**; the latter three: go, āyus. and **jyotis**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gods have stretched for themselves a noteworthy sacrifice among  the Trikadrukas.  
 Just him [=Indra] let our hymns increase.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At the Trikadrukas the Gods span sacrifice that stirs the mind:  
      Let our songs aid and prosper it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei den Trikadruka´s haben die Götter das denkwürdige Opfer ausgeführt. Dasselbe sollen unsere Lobreden noch mehr gedeihen lassen, das immer Gedeihliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei den drei Bechern führten hier die Götter schöne Feier aus, Die sei durch unsern Sang erhöht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

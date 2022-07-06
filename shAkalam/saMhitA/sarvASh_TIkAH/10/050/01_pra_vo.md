@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो महे꣡ म꣡न्दमानाय अ꣡न्धसो  
 अ꣡र्चा विश्वा꣡नराय विश्वाभु꣡वे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 श्र꣡वो नृम्णं꣡ च रो꣡दसी सपर्य꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑स्य । यस्य॑ । सुऽम॑खम् । सहः॑ । महि॑ । श्रवः॑ । नृ॒म्णम् । च॒ । रोद॑सी॒ इति॑ । स॒प॒र्यतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -117,36 +117,36 @@ genre M
 “इन्द्रस्य **सुमखं** सुष्ठु मंहनीयं **सहः** बलं **महि** महत् **श्रवः** अन्नं **नृम्णं** सुखं **च** **रोदसी** द्यावापृथिव्यौ **सपर्यतः** पूजयतः । तस्मा इन्द्राय प्रार्चेति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Worship him who is exhilarated by the sacrificiial food, the mighty **Indra**; the leader of all men, thecreator of all, whose venerable strength and abundant food and wealth, heaven and earth adore.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chant forth to the great one who finds exhilaration from the soma-stalk,  who is common to all men and is present to all,  
 to Indra, whose good-battling strength, great fame, and manliness the  two world-halves respect.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I LAUD your Mighty One who joyeth in the juice, him who is shared by all men, who created all;  
      Indra, whose conquering strength is powerful in war, whose fame and manly vigour Heaven and Earth revere.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heb an das Lied auf den großen Indra, der sich an eurem Tranke berauscht, der bei allen Männern bekannt ist, allen gehört, des freigebige große Siegeskraft, des Ruhm und Mannestat beide Welthälften hochachten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun will ich singen eurem grossen Männerhort, der allen hilft und sich am Somakraut erfreut, Dem Indra, dessen heldenreiche grosse Kraft und Mannheit Erd' und Himmel ehrfurchtsvoll erhöhn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запевай песню великому Индре, радующемуся вашему напитку,  
 (Богу,) связанному со всеми мужами, присутствующему везде,  

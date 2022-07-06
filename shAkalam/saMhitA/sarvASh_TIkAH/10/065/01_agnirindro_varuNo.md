@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् इ꣡न्द्रो व꣡रुणो मित्रो꣡ अर्यमा꣡  
 वायुः꣡ पूषा꣡ स꣡रस्वती सजो꣡षसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सो꣡मो रुद्रो꣡ अ꣡दितिर् ब्र꣡ह्मणस् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒दि॒त्याः । विष्णुः॑ । म॒रुतः॑ । स्वः॑ । बृ॒हत् । सोमः॑ । रु॒द्रः । अदि॑तिः । ब्रह्म॑णः । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -120,37 +120,37 @@ genre M
 अग्न्यादय आदित्यादयः **बृहत्** बृहती **स्वः** द्यौश्च सोमादय एते देवाः **सजोषसः** संगताः सन्तोऽन्तरिक्षं स्वमहिम्नापूरयन्तीत्युत्तरेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, **Inda**, **Varuṇa**, **Mitra**, **Aryaman**, **Vāyu**, **Pūṣan**, **Sarasvatī**, the **Ādityas**, **Viṣṇu**, the **Maruts**,the mighty heaven, **Soma**, **Rudra**, **Aditi**, **Brahmaṇaspati** with one consent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, Indra, Varuṇa, Mitra, Aryaman, Vāyu, Pūṣan, and Sarasvatī, of  one accord,  
 the Ādityas, Viṣṇu, the Maruts, the lofty Sun, Soma, Rudra, Aditi,  
 Brahmaṇaspati,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 अ॒ग्निरिन्द्रो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा वा॒युः पू॒षा सर॑स्वती स॒जोष॑सः ।  
 आ॒दि॒त्या विष्णु॑र्म॒रुतः॒ स्व॑र्बृ॒हत्सोमो॑ रु॒द्रो अदि॑ति॒र्ब्रह्म॑ण॒स्पतिः॑ ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, Indra, Varuna, Mitra, Aryaman, Vayu, Pusan, Sarasvati einträchtig beisammen, die Aditya´s, Vishnu, die Marut, die hohe Sonne, Soma, Rudra, Aditi, Brahmanaspati,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereint sei'n Agni, Indra, Mitra, Varuna, Arjaman, Vaju, Puschan und Sarasvati, Aditja's, Maruts, Vischnu und das hohe Licht, und Soma, Rudra, Aditi, Brihaspati.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

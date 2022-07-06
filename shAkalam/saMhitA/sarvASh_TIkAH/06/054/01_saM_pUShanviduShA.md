@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् पूषन् विदु꣡षा नय  
 यो꣡ अ꣡ञ्जसानुशा꣡सति  
 य꣡ एवे꣡द꣡म् इ꣡ति ब्र꣡वत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यः । ए॒व । इ॒दम् । इति॑ । ब्रव॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पूषन्** पोषक देव **विदुषा** जानता तेन जनेन **सं** **नय** अस्मान् संगमय **यः** विद्वान् **अञ्जसा** ऋजुमार्गेण **अनुशासति** अनुशास्ति नष्टद्रव्यप्राप्त्युपायमुपदिशति । **यः** च **एव** एवम् **इदं** नष्टं भवदीयं धनम् **इति** **ब्रवत्** ब्रवीति । नष्टं धनं दर्शयतीत्यर्थः । तेन विदुषेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,29 +102,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Ya evedam iti bravat: **viduṣa** = a wise man, a cunning man, a conurer; one who says, this, your property, has been lost, and the preceding paggage directs the way to the recovery of the lost or stolen goods; Pūṣan is thus portrayed as the patron of fortune-tellers and recoverers of stolen property
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pūṣan, lead (us) together with one who knows, who will direct (us)  aright,  
 who will say “just here it is.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O PUSAN, bring us to the man who knows, who shall direct us straight,  
      And say unto us, It is here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pusan, bring uns mit einem Kundigen zusammen, der uns richtig weisen und sagen wird: "Dies ist es.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Puschan, führe du uns zu den kund'gen Mann, der grade aus Uns weiset und »hier ist es« spricht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сведи (нас), о Пушан, со знающим (человеком),  
 Который верно указал бы,  

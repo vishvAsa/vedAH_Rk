@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग्रा꣡वा व꣡दन्न् अ꣡प र꣡क्षांसि सेधतु  
 दुष्व꣡प्नियं नि꣡रृतिं वि꣡श्वम् अत्रि꣡णम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ॒दि॒त्यम् । शर्म॑ । म॒रुता॑म् । अ॒शी॒म॒हि॒ । तत् । दे॒वाना॑म् । अवः॑ । अ॒द्य । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *grāvā* ← *grāvan*
 - \[noun\], nominative, singular, masculine
@@ -118,36 +118,36 @@ genre M;; repeated line
 **ग्रावा** अभिषवपाषाणः **वदन्** अभिषववेलायां शब्दं कुर्वन् **रक्षांसि** यागविघ्नकारीणि **अप** **सेधतु** विनिवारयतु । **दुःस्वप्न्यं** दुःस्वप्तप्रभवमस्मदीयमनिष्टं चाप सेधतु । **निर्ऋतिं** मृत्युदेवतां चाप सेधतु । **अत्रिणम्** अदनशीलं **विश्वं** सर्वं पिशाचादिकं चाप सेधतु । एवं निर्विघ्नत्वेन निष्पन्ने यागे वयम् **आदित्यम्** आदित्यानां संबन्धि **मरुतां** च संबन्धि **शर्म** सुखम् **अशीमहि** प्राप्नुयाम । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the sounding stone drive away **rākṣasas**, evil dreams, **Nirṛti**, and every spirit of ill; may weobtain the happiness of the **Ādityas** and the **Maruts**; we solicit today this protection of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the pressing stone as it speaks drive away demonic forces: the bad  dream, dissolution, every devourer.  
 Might we attain the Ādityan shelter and that of the Maruts. – This help  of the gods we choose today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May ringing press-stones keep the Raksasas afar, ill dream, and Nirrti, and each voracious fiend.  
      May the Adityas and the Maruts shelter us. We crave this gracious favour of the Gods to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der tönende Preßstein soll die Unholde abwehren, den bösen Traum, das Verderben, jeden Atrin. Den Schutz der Aditi, der Marut möchten wir erlangen. - Diese Gunst der Götter erbitten wir heute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Pressstein jage tönend die Gespenster fort, den bösen Traum, Verderben, jeden Fresser-Geist; Der Schutz der Maruts und Aditja's schirme uns, die Gunst der Götter wünschen heute wir herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Звучащий давильный камень пусть прогонит прочь ракшасов,  
 Дурной сон, Гибель, любого атрина!  

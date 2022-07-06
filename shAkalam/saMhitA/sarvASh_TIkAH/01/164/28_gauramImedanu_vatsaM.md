@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गउ꣡र् अमीमेद् अ꣡नु वत्स꣡म् मिष꣡न्तम्  
 मूर्धा꣡नं हि꣡ङ्ङ् अकृणोन् मा꣡तवा꣡ उ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मि꣡माति मायु꣡म् प꣡यते प꣡योभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सृक्वा॑णम् । घ॒र्मम् । अ॒भि । वा॒व॒शा॒ना । मिमा॑ति । मा॒युम् । पय॑ते । पयः॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gaur* ← *gauḥ* ← *go*
 - \[noun\], nominative, singular, feminine
@@ -120,36 +120,36 @@ popular
 गौः धेनुः **मिषन्तं** निमीलिताक्षं **वत्सम्** **अनु** प्राप्य **अमीमेत्** शब्दं करोति । मीमयतिः शब्दकर्मा । यद्वा । उक्तं वत्सं अन्वात्मानं प्रक्षिपति । किंच तस्य वत्सस्य **मूर्धानं** **मातवै** मातुं निर्मातुं लेहनेन शोधयितुम् । उशब्दोऽवधारणे । **हिङ्ङकृणोत्** हिङ्कारमकरोत् करोति। किंच **सृक्वाणं**  वत्सस्य शब्दवदनप्रान्तं फेनस्य स्रष्टारं **घर्मं** क्षीरस्य क्षरणशीलं वत्सम् **अभि** अभिलक्ष्य **वावशाना** भृशं कामयमाना **मायुं** शब्द **मिमाति** निर्माति करोति । तादृशी सती **पयोभिः** प्रभूतैः क्षीरैः **पयते** प्यायते आप्यायनं करोति वत्सम् । अत्रापि मेघपरतया योजनीयम् । एवमाहूता मेघरूपा गौर्धेनुः मिषन्तं वृष्टिरूपक्षीराभावेन निमीलिताक्षं लोकाख्यं पुत्रम् अनु अनुसृत्य अमीमेत् गर्जनशब्दं वर्षणचिह्नरूपं करोति । मूर्धस्थानीयां भूमिं मातवा उ निर्मातुमेव सस्यादियुक्तां कर्तुं हिङ्ङकृणोत् हिङ्काररूपं शब्दमकरोत् । प्रतिपादनभेदादपुनरुक्तिः । किंच सृक्वाणं फलस्य स्रष्टारं घर्मं दीप्तं पुत्रमभि वावशाना आभिमुख्येन कामयमाना पयोभिः उदकैः पयते प्यायते आप्यायनं करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The cow bellows for her calf, (who stands) with winking eyes, and lows as (she proceeds to lick his forehead; she utters a cry, as, anxious, she sees the moisture in the corners of his mouth, and nourishes him with her milk.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The cow bellowed after her blinking calf. She made the sound hiṅ against his head (for him) to bellow.  
 Lowing toward his hot jaw, she bellows her bellow and swells her swell  of milk.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The cow hath lowed after her blinking youngling; she licks his forehead, as she lows, to form it.  
      His mouth she fondly calls to her warm udder, and suckles him with milk while gently lowing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kuh blökte nach dem Kalb, das die Augen öffnet, seinen Kopf beschnüffelte sie, um zu blöken. Nach dem heißen Maule des Kalbes verlangend blökt sie ihr blöken. Sie strotzt von Milch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kuh blökte hin nach dem schlummernden Kalbe, sie streckte den Kopf vor, um ihr »Hing« zu blöken; seinem warmen Maule entgegenbrüllend lässt sie ihr Geblök ertönen, und tränkt es mit ihrer Milch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Корова мычала (,тянясь) к теленку, открывающему глаза.  
 Она издавала (звук) Хин!, собираясь измерить голову его.  

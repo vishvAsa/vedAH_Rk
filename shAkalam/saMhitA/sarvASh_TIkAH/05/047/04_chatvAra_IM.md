@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चत्वा꣡र ईम् बिभ्रति क्षेमय꣡न्तो  
 द꣡श ग꣡र्भं चर꣡से धापयन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिव꣡श् चरन्ति प꣡रि सद्यो꣡ अ꣡न्तान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्रि॒ऽधात॑वः । प॒र॒माः । अ॒स्य॒ । गावः॑ । दि॒वः । च॒र॒न्ति॒ । परि॑ । स॒द्यः । अन्ता॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *catvāra* ← *catvāraḥ* ← *catur*
 - \[noun\], nominative, plural, masculine
@@ -124,7 +124,7 @@ genre M
 **चत्वारः** ऋत्विजः **ईम्** एनमादित्यं **क्षेमयन्तः** क्षेममात्मन इच्छन्तः **बिभ्रति** धारयन्ति हविर्भि: स्तुतिभिश्च । किंच **दश** दिशः **गर्भं** गर्भवन्मध्ये उत्पन्नमेनं **चरसे** चरणाय उदयास्तमय व्यवहाराय **धापयन्ते** गमयन्ति । **त्रिधातवः** त्रिप्रकाराः शीतोष्णवर्षभेदेन त्रिविधाः **अस्य** आदित्यस्य **परमाः** उत्कृष्टाः **गावः** रश्मयः **दिवः** अन्तरिक्षस्य **अन्तान्** **परि** परितः **सद्यः** उदयानन्तरमेव **चरन्ति** गच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,12 +135,12 @@ genre M
 The four chief priests: the text has only catvāraḥ, four; ṛtvijaḥ are implied; his three elementary rays: tridhātavo **gāvaḥ**, supposed to be the causes of cold, heat and rain. Or, simply three ore elements: copper, silver, gold
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Four bear him, affording rest; ten give the infant suck, for (him to) move. Threefold are his highest cows; they circle around the ends of heaven in a  single day: (Agni?).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As often elsewhere in the RV, numerology begets obscurity. Nonetheless, the most likely referent here is Agni. As Geldner points out, the four and the ten in the 1st hemistich may well refer to the four priests (so already Sāyaṇa.) or the four arms of the two main priests, the ten, as often, to the fingers. The “bearing” by the four might refer to the transport of the new Āhavanīya to the east end of the ritual ground and the depositing there (hence the “rest”); the ten (fingers) are making offering into the fire (“giving it suck”), to cause it to flare up. Hence the balanced opposition of rest and motion in ab.
 
@@ -162,23 +162,23 @@ Note the parallel openings of 4a catvā́ra īm bibhrati … and 5c dvé yád ī
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Four bear him up and give him rest and quiet, and ten invigorate the Babe for travel.  
      His kine most excellent, of threefold nature, pass swiftly round the boundaries of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vier hegen ihn, für seine Behaglichkeit sorgend; zehn säugen das Kalb, daß es gehen kann. Dreifach sind seine höchsten Kühe, in einem Tag umkreisen sie des Himmels Grenzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vier tragen ihn im Arm, ihm Rast gewährend, zehn säugen auf das Kind, bis dass es gehe; Dreifacher Art sind seine besten Kühe, in einem Tag gehn rings sie um den Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Четверо носят его, заботясь о (его) покое.  
 Десятеро дают пососать малышу, чтоб он мог двигаться.  

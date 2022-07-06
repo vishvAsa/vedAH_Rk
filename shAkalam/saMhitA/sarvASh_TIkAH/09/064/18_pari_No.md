@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि णो याहि अस्मयु꣡र्  
 वि꣡श्वा व꣡सूनि ओ꣡जसा  
 पाहि꣡ नः श꣡र्म वीर꣡वत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पा॒हि । नः॒ । शर्म॑ । वी॒रऽव॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -84,19 +84,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **अस्मयुः** अस्मत्कामस्त्वं **नः** अस्माकं **विश्वा** विश्वानि **वसूनि** धनानि **ओजसा** बलेन सह **परि** **याहि** रक्षार्थं परिगच्छ । अपि च **नः** अस्माकं **वीरवत्** पुत्रवत् **शर्म** गृहं **पाहि** रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, who are devoted to us, guard all our treasures with your might; protect our home and offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Inclined toward us, encompass for us all goods with your strength. Protect for us a shelter full of heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening of pāda a #pári no yāhi gets remixed into c #pāhi naḥ.
 
@@ -110,23 +110,23 @@ The first two vss. of this tṛca both contain nom. ‘drops’ (índavaḥ) and
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Compass about, our faithful Friend, all our possessions with thy might:  
      Guard, hero like, our sheltering home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Güter hole für uns ein mit deiner Kraft, uns zugetan! Schirme unseren männlichen Schutz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Behütend geh, uns holdgesinnt, mit Kraft um alle Güter uns, Schirm unser männerreiches Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

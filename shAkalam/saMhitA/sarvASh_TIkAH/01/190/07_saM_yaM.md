@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ यं꣡ स्तु꣡भो अव꣡नयो न꣡ य꣡न्ति  
 समुद्रं꣡ न꣡ स्रव꣡तो रो꣡धचक्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हस्प꣡तिस् त꣡र आ꣡पश् च गृ꣡ध्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सः । वि॒द्वान् । उ॒भय॑म् । च॒ष्टे॒ । अ॒न्तः । बृह॒स्पतिः॑ । तरः॑ । आपः॑ । च॒ । गृध्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 **यं** बृहस्पतिं **स्तुभः** स्तोत्राणि **अवनयो** **न** सर्वा अवनयो भूमयो मनुष्या यथा स्वामिनं कर्म प्रति वा **सं** **यन्ति** संगच्छन्ति तद्वत् तथा **समुद्रं** **रोधचक्राः** । नदीनामैतत् । रोधनशीलानि चक्राणि यासु तास्तादृश्यः कूलं क्रममाणाः वा **स्रवतः** स्रवन्त्यो नद्यो यथा यन्ति तद्वत् सर्वा अपि स्तुतयो यमेव प्राप्नुवन्ति **गृध्रः** गर्धनशीलो वृष्टिमाकाङ्क्षमाणः **सः** **बृहस्पतिः** **विद्वान्** वक्ष्यमाणाभिज्ञः **तरः** तरणं जलाभिवृद्धिम् **आपः** उदकानि **च** उभयम् **अन्तः** मध्ये स्थित्वा चष्टे पश्यति करोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,13 +143,13 @@ That wise Bṛhaspati: ubhayam caṣṭe **antam**. bṛhaspatistara āpaśca **
 **Apaḥ** =water; ubhayam antar madhye sthitvā, having stood in the middle; caṣṭe paśyate,he sees; or **karoti**, he does; identifying Bṛhaspati with **Indra**, ubhayam, both, may denote heaven and earth, between which in the **antarikṣa** or firmament, the region of the rain, is his proper station
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On whom the chants, like streams, converge, like rivers on the sea with  their banks as wheels,  
 Br̥haspati, the knowing one, gazes between both, the ford and the waters,  (like) a bird of prey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The bahuvrīhi ródha-cakra-, lit. ‘having their banks as wheels’, may seem slightly jarring, and Geldner (/Witzel Gotō) attenuate the sense to “die die Ufer entlang rollen.” But cakrá- is definitely the noun ‘wheel’ (all the way back into PIE), not a transparent derivative of a verbal root meaning ‘roll’, and I think the cmpd must be taken in its literal sense. (So also Renou: “ayant pour roues les hautes-rives.”) The point of comparison must be not the speed or movement of the chariot but its physical configuration, with the wheels defining the outer limits of the vehicle as seen from above or behind and rising above the bottom of its body, just as river banks do the river.
 
@@ -158,23 +158,23 @@ A different watery image is found in the 2nd hemistich. With Geldner I take tár
 ā́paḥ here must be acc. pl., one of the handful of examples of the spread of the nom. pl. to acc. function in this stem.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He to whom songs of praise go forth like torrents, as rivers eddying under banks flow sea-ward--  
      Brhaspati the wise, the eager, closely looks upon both, the waters and the vessel.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem die Gesänge wie Flüsse zuströmen, wie dem Meere die Ströme, die die Ufer entlang rollen - Brihaspati erspäht als Kundiger beides, die Furt und das Wasser, der Geier.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu ihm gehn Lieder wie ins Meer die Flüsse, wie Ströme die am Ufer spülend rollen, Und beides schaut Brihaspati, der weise, begierig hier das Schiff und die Gewässer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К кому стекаются хвалебные песни, словно потоки,  
 Словно реки с высокими берегами, (и течением, подобным) колесам (колесниц) – к океану,  

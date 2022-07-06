@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ रंहत उरुगाय꣡स्य जूतिं꣡  
 वृ꣡था क्री꣡ळन्तम् मिमते न꣡ गा꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दि꣡वा ह꣡रिर् द꣡दृशे न꣡क्तम् ऋज्रः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प॒री॒ण॒सम् । कृ॒णु॒ते॒ । ति॒ग्मऽशृ॑ङ्गः । दिवा॑ । हरिः॑ । ददृ॑शे । नक्त॑म् । ऋ॒ज्रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 ससोमः रंहते अतिशीघ्रं गच्छतीत्यर्थः । उरुगायस्य बहुभिःस्तुत्यस्यात्मनोजूतिं गति- मनुसरन् तंवृथा अनायासेन क्रीळन्तं विहरन्तं गच्छन्तंसोमं गावः अन्येगन्तारः नमिमते नपरिच्छिन्दन्ति तमनुगन्तुं नशक्नुवन्तीत्यर्थः । किञ्च तिग्मशृङ्गः शॄणन्तिहिंसन्ति तमांसीति श्रुङ्गाणि तेजांसि तीक्ष्णतेजस्कः परीणसं बहुनामैतत् बहुविधतेजः कृणुते करोति अन्तरि- क्षे वर्तप्रानोयः सोमः दिवा अहनि हरिर्हरितवर्णः ददृशे दृश्यते नप्रकाशतेइत्यर्थः । नक्तं रात्रौतु ऋज्रः ऋजुगामी विस्पष्टः प्रकाशयुक्तोदृश्यते दृशेः कर्मणिलिटिरूपं ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,7 +137,7 @@ The Soma appears green-tinted by day: Soma is not visible in the daylight;
 Ṛjra = straight going, ṛju-gāmī, i.e., clearly visible, **vispaṣṭaḥ** = red or brown
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He hastens at the pace of the wide-ranging one [=Viṣṇu?]. The cows, as  they seem to bellow, give their measure to the one who plays at will  
 [=Soma].  
@@ -145,7 +145,7 @@ The sharp-horned one makes himself an ample (face). By day he
 appears tawny, but silvery by night.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents a number of puzzles, esp. in pāda b.
 
@@ -173,23 +173,23 @@ This tṛca is attributed to Vṛṣagaṇa Vāsiṣṭha, whose given name was 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He follows the Wide-strider's rapid movement: cows low, as 'twere, to him who sports at pleasure.  
      He with the sharpened horns brings forth abundance: the Silvery shines by night, by day the Golden.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er rennt den Laufschritt des weitschreitenden Vishnu, für den ausgelassen Spielenden reichen die Kühe nicht hin. Der Spitzhörnige nimmt seine Völle an; am Tage erscheint er als Falber, des Nachts als Schimmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er übertrifft des Weithinschreiters Eile, dem muntern Springer folgen kaum die Kühe, Der scharfgehörnte schafft sich reiche Fülle, am Tag erscheint er golden, braun in Nächten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он развивает скорость широкошагающего (Вишну).  
 К весело играющему словно примеряются коровы.  

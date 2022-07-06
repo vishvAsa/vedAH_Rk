@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡म इ꣡द् उग्रं꣡ न꣡म आ꣡ विवासे  
 न꣡मो दाधार पृथिवी꣡म् उत꣡ द्या꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृतं꣡ चिद् ए꣡नो न꣡मसा꣡ विवासे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 नमः॑ । दे॒वेभ्यः॑ । नमः॑ । ई॒शे॒ । ए॒षा॒म् । कृ॒तम् । चि॒त् । एनः॑ । नम॑सा । आ । वि॒वा॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nama* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
@@ -135,7 +135,7 @@ genre M
 आस्तां तावद्देवानां माहात्म्यं तदीयो नमस्कारोऽपीत्थंमहाभाग इति ब्रुवाणः कैमुतिकन्यायेन देवान् स्तौति । **नम** **इत्** नमस्कार एव **उग्रम्** उद्गूर्णबलं सर्वोत्कृष्टम् । तेन हि सर्वं लभ्यते । अतः **नमः** नमस्कारम् **आ** **विवासे** परिचरामि । **नमः** नमस्कार एव **पृथिवीमुत** **द्यां** द्युलोकं च **दाधार** धारयति । द्यावापृथिव्यौ प्राणिभिर्नमस्क्रियमाणे सत्यौ तदुपभोगाय चिरकालमवतिष्ठेते । अतः **देवेभ्यः** ईदृशं **नमः** करोमि। **एषां** देवानां **नमः** नमस्कारः **ईशे** ईष्टे । यतस्तेन ते वशीकृताः । **कृतं** **चित्** कृतमप्याचरितमपि **एनः** पापं **नमसा** नमस्कारेण **आ** **विवासे** । विवासो वर्जनम् । वर्जयामि । विनाशयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,35 +146,35 @@ genre M
 Reverence sustains: earth and heaven, by receiving **namas** or **namaskāra**, the reverential salutation or homage of mortals, continue throughout a long period for their enjoyment
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Reverence is powerful. I seek to attract reverence here. Reverence  upholds heaven and earth.  
 Reverence to the gods; reverence is master of them. With reverence  
 I seek to redeem even an offense committed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In this deliberately repetitive vs. (6 occurrences of námas-), it is difficult to render the repeated verbs ā́vivase (a, d) in the same way. As the desid. to √van, vivāsa-, esp. with ā́, means lit. ‘seek to win here’, hence ‘attract’, which is fine in pāda a. But with the object “committed offense” (kṛtám énaḥ) the sense is harder to manipulate. I take it as ‘win back’, hence ‘redeem’; Geldner ‘abbitten’ (beg pardon, apologize), with no attempt to connect this tr. to the literal meaning or to the other occurrence of the verb in the passage; Renou makes good use of his usual parentheses: “je l’attire (pour le détruire),” which evades the problem.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mighty is homage: I adopt and use it. Homage hath held in place the earth and heaven.  
      Homage to Gods! Homage commands and rules them. I banish even committed sin by homage
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Anbetung ist mächtig, die Anbetung bitte ich her. Die Anbetung erhält Erde und Himmel. Anbetung gebührt den Göttern, die Anbetung hat über sie Macht. Auch die getane Sünde bitte ich durch Anbetung ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebet ist mächtig, das Gebet gewinn' ich, Gebet hielt fest den Himmel und die Erde; Gebet den Göttern! das Gebet beherrscht sie, begangne Schuld auch tilge durch Gebet ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поклонение – это грозно. Поклонения я хочу дооиться.  
 Поклонение несет землю и небо.  

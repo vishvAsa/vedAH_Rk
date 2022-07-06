@@ -9,7 +9,7 @@ title = "+130"
 जगत्याद्या ' इति । गतो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 130 (956)  
 Creation of the Sacrifice  

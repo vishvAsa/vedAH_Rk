@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यं꣡ न꣡रः सुदा꣡नवो ददाशु꣡षे  
 दिवः꣡ को꣡शम् अ꣡चुच्यवुः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 ध꣡न्वना यन्ति वृष्ट꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि । प॒र्जन्य॑म् । सृ॒ज॒न्ति॒ । रोद॑सी॒ इति॑ । अनु॑ । धन्व॑ना । य॒न्ति॒ । वृ॒ष्टयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -108,43 +108,43 @@ genre M
 **नरः** नेतारः **सुदानवः** शोभनदाना मरुतः **यं** **कोशम्** । मेघनामैतत् । अपां कोशवद्धारकं मेघं **ददाशुषे** हविर्दत्तवते यजमानाय **दिवः** अन्तरिक्षात् **आ** अचुच्यवुः आच्यावयन्ति **पर्जन्यं** मेघं **रोदसी** **अनु** द्यावापृथिव्यावनुसृत्य **वि** **सृजन्ति** विमोक्षयन्ति । पश्चात् **धन्वना** सर्वत्र गच्छतोदकेन सह **वृष्टयः** वृष्टिप्रदा मरुतः **यन्ति** सर्वत्र व्याप्नुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders (of the rain), munificent givers, they cause that which is the treasury (of water) to fall from the sky for (the benefit of) the donor (of the offering); they let loose the rain cloud, and the shedders of rain spread (everywhere) with (abundant) water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the men of good drops [/gifts] have stirred the bucket of heaven  here for the one doing pious work,  
 they send the thunder(storm) surging out along the two world-halves;  along the wasteplaces come the rains.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted by most comm., masc. acc. sg. yám, presumably modifying kóśam, has no referent in the main cl. Such “improper” relativization is not rare in the RV.
 
 ánu at the end of c can also, secondarily, be read with d: ánu, dhánvanā.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Munificent Heroes, they have cast heaven's treasury down for the worshipper's behoof:  
      They set the storm-cloud free tostream through both the worlds, and rainfloods flow o'er desert spots.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die gabenschönen Herren für den Opferspender des Himmels Eimer heraufgezogen haben, so lassen sie den Parjanya über beide Welten sich ergießen. Des Parjanya Ströme gehen über das trockene Land.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Eimer, den die Männer reich an Thau ausgossen dem Verehrenden; Die Wetterwolke strömten sie durchs Weltenpaar; die Regen gehn auf dürres Land.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) бадья неба, которую очень щедрые мужи  
 Подтянули для почитающего (их), –  

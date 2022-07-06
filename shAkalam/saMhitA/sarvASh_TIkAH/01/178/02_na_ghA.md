@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ घा रा꣡जा इ꣡न्दर+ आ꣡ दभन् नो  
 या꣡ नु꣡ स्व꣡सारा कृण꣡वन्त यो꣡नौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग꣡मन् न इ꣡न्द्रः सखिया꣡ व꣡यश् च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आपः॑ । चि॒त् । अ॒स्मै॒ । सु॒ऽतुकाः॑ । अ॒वे॒ष॒न् । गम॑त् । नः॒ । इन्द्रः॑ । स॒ख्या । वयः॑ । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -145,7 +145,7 @@ genre M
 अयं **राजा** राजमान ईश्वरो वा **इन्द्रः** **नः** अस्मदीयानि कर्माणि **न** **आ** **दभत्** सर्वतो न हिंस्यात् । कानीति उच्यते । **या** यानि कर्माणि वृष्ट्यादिरूपाणि **स्वसारा** परस्परं स्वसृभूते स्वयंसरणभूते अहोरात्रे । **नु** पूरणः । **योनौ** स्वकीये स्थाने **कृणवन्त** ॥ द्विवचनस्थाने बहुवचनम् ॥ कुरुतः ॥ कृवि हिंसाकरणयोश्च । धिन्विकृण्व्योर च ' इति उप्रत्ययः । बहुलग्रहणात् शप् ॥ तानीन्द्रोऽप्यनुजानात्वित्यर्थः । स्वसृभूतावध्वर्युयजमानौ वा कुरुतः । यद्वा । स्वसारोऽङ्गुलयो योनौ फलोत्पादनस्थाने यज्ञे यानि कृतवन्तस्तानीति योज्यम् । किंच **अस्मै** इन्द्राय **सुतुकाः** शोभनबलहेतूनि **आपः** अप्कार्याणि हवींषि **अवेषन** व्याप्नुवन्ति । **नः** अस्मभ्यम् **इन्द्रः** **सख्या** सख्यानि **वयश्च** प्रभूतमन्नं च **गमत्** गमयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,13 +156,13 @@ genre M
 The sisters: svasārā = liṭ, sisters; day and night; or, instrumental tutor of the right and the officiating priest; or, the fingers used in ritual manipulations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 King Indra will not cheat us (of those things) that the two sisters  [=Dawn and Night? hands?] will make in their own womb.  
 The easily goaded waters also toiled for him. Indra will come to our  fellowship and vitality.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See published introduction. for the mismatch in b between the dual subj. svásārā and the pl. verb kṛṇávanta, with the possible semantic explanations given there (multiple days and nights or multiple fingers on the two hands). It’s also worth noting that the verb we expect, the middle 3rd dual athematic subjunctive, may not have been thoroughly anchored in the poets’ Sprachgefühl, since relatively few such forms are attested to any stem type. We should expect *kṛṇávaite (or -ete), which is not found, though we once get kṛṇvaíte (VI.25.4) with the wrong grade of the suffix. In the absence of a firmly established form in this slot in the paradigm, the poet may have opted to fall back on a more familiar and easily generated one, the 3rd pl.
 
@@ -173,23 +173,23 @@ of both Geldner and Witzel Gotō reflect this analysis, though Renou’s does no
 Geldner unaccountably tr. sakhyā́váyaś ca as instr. The reasons he gives (n. 2d) seem insufficient, esp. as a conjoined acc. phrase makes perfect sense.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the Sovran Indra disappoint us in what shall bring both Sisters to our dwelling.  
      To him have run the quickly flowing waters. May Indra come to us with life and friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll uns König Indra darum bringen, was uns die beiden Schwestern noch in ihrem Schoße bereiten. Auch die Wasser eilten spornstreichs ihm zuliebe. Indra komme zu uns mit Freundschaft und Kraft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht ja verschmäht der König Indra, was uns im Heiligthum die Schwesterscharen wirkten, Es strömen ihm die Tränke, eilig rinnend, zu unserm Bund und Mahle komme Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не повредит царь Индра (тому) у нас,  
 Что две сестры создают еще в (своем) лоне!  

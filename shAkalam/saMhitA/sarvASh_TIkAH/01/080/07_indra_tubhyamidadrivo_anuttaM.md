@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र तु꣡भ्यम् इ꣡द् अद्रिवो  
 अ꣡नुत्तं वज्रि° वीरि꣡यम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 यत् । ह॒ । त्यम् । मा॒यिन॑म् । मृ॒गम् । तम् । ऊं॒ इति॑ । त्वम् । मा॒यया॑ । अ॒व॒धीः॒ । अर्च॑न् । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -134,7 +134,7 @@ genre M;; repeated line
 अद्रिरिति मेघनाम । हे **अद्रिवः** वाहनरूपमेघयुक्त **वज्रिन्** वज्रवन् **इन्द्र** **तुभ्यमित्** षष्ठ्यर्थे चतुर्थी । तवैव **वीर्यं** सामर्थ्यम् **अनुत्तं** शत्रुभिरतिरस्कृतम् । **यद्ध** यस्मात् खलु **मायिनं** मायाविनं **त्यं** तं प्रसिद्धं वञ्चयितारम् । लोकोपद्रवकारिणमित्यर्थः । 'मृगं मृगरूपमापन्नं **तं** वृत्रं **त्वम्** अपि **मायया** एव **अवधीः** हतवानसि ॥ अनुत्तम् । 'नसत्तनिषत्त° ' इति निपातनात् निष्ठानत्वाभावः । अवधीः । हन्तेः ‘लुङि च ' इति वधादेशः । स चोदन्तः । तस्य अतो लोपे सति स्थानिवद्भावात् सिचि वृद्ध्यभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -145,14 +145,14 @@ genre M;; repeated line
 Deceptive deer: **Vṛtra** assumed the form of a deer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, possessor of the stone, of the mace, to you alone virile power  was conceded.  
 When (you kept smashing) this wild beast of magic power, you slew  him with your own magic power.  
 – They cheer on your sovereign power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most tr. render ab in the 3rd ps., but there is no 3rd ps. verb here, and the phrase is surrounded by 2nd ps. constructions (táva 6e, 2nd ps. impv. gṛbhāya 7c).
 
@@ -161,23 +161,23 @@ Nothing forbids an underlying tvám in ab.
 Geldner supplies “us” with śiśīhi, but, although this collocation does occur, I don’t feel it’s necessary in this context.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, unconquered might is thine, Thunderer, Caster of the Stone;  
      For thou with thy surpassing power smotest to death the guileful beast, lauding thine own imperial sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, Indra, du Herr des Preßsteins, Keulenträger, ward die Heldenkraft zugestanden. Als du jenes listige Tier angriffst, da hast du es mit der List erschlagen. - Sie sollen in deine Selbstherrlichkeit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du zeigtest ungehemmte Kraft, o Indra, Blitzer, Schleuderer, Als jenes zauberhafte Wild du niederschlugst mit Zauberkraft, du strahlst in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра – повелитель давильных камней,  
 О громовержец, ведь тебе дана сила могущества  

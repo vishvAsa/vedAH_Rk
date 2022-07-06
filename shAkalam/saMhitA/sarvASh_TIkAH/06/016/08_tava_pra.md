@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व प्र꣡ यक्षि संदृ꣡शम्  
 उत꣡ क्र꣡तुं सुदा꣡नवः  
 वि꣡श्वे जुषन्त कामि꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विश्वे॑ । जु॒ष॒न्त॒ । का॒मिनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -82,20 +82,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **तव** **संदृशं** सम्यग्दर्शनीयं यद्वा सम्यग्द्रष्टारं सर्वस्य भासकं तेजः **प्र** **यक्षि** प्रयजे । प्रकर्षेण पूजयामि । **उत** अपि च **सुदानवः** सुदानोः शोभनदानस्य तव **क्रतुं** कर्म प्रज्ञानं वा पूजयामि । न केवलमहमेव किन्त्वन्ये **विश्वे** सर्वेऽपि यजमानाः **कामिनः** त्वदनुग्रहात्तैस्तैः कामैः उपेताः सन्तः **जुषन्त** । त्वदीयं संदृशं क्रतुं च सेवन्ते । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify your splendour and the acts of you the liberal giver all who, (through your favour) enjoy their desires, glorify you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Begin the sacrifice: your manifestation and your resolve do those of  good drops,  
 the desirous ones, all take pleasure in.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 (prá) yakṣi is morphologically ambiguous -- 2nd sg. act. -si impv. or 1st sg.
 
@@ -112,23 +112,23 @@ This tṛca likewise has a form of the 2nd sg. prn. beginning each vs. (7 t(u)v�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I glorify thine aspect and the might of thee the Bountilul.  
      All those who love shall joy in thee,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich verehre deinen Anblick, und deinem Sinn willfahren die Freigebigen, alle, die einen Wunsch haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich ehre deinen Anblick hoch, und schmecken sollen deine Kraft Die gabenreichen, heischenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я почтил твой облик,  
 А обладателя прекрасных даров, все,  

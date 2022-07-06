@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सृजः꣡ सि꣡न्धूँर् अ꣡हिना जग्रसानाँ꣡  
 आ꣡द् इ꣡द् एताः꣡ प्र꣡ विविज्रे जवे꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धे꣡द् एता꣡ न꣡ रमन्ते नि꣡तिक्ताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 मुमु॑क्षमाणाः । उ॒त । याः । मु॒मु॒च्रे । अध॑ । इत् । ए॒ताः । न । र॒म॒न्ते॒ । निऽति॑क्ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sṛjaḥ* ← *sṛj*
 - \[verb\], singular, Present injunctive
@@ -125,36 +125,36 @@ genre M
 हे इन्द्र **अहिना** अहन्तव्येन वृत्रेण मेघेन वा **जग्रसानान्** ॥  ‘ ग्रस अदने'। अनुदात्तेत् । छन्दसि लिटः कानच् ॥ ग्रस्ताः **सिन्धून्** स्यन्दमाना अपः **सृजः** असृजः निरगमयः । **आदित्** । इदवधारणे । अनन्तरमेव **एताः** आपः **जवेन** वेगेन **प्र** **विविज्रे** । सर्वत्र अत्यन्तं चलिता बभूवुः ॥  ‘ ओविजी भयचलनयोः । अनुदात्तेत् । लिटि ‘इरयो रे' (पा. सू. ६.४.७६ ) इतीरयो रेआदेशः ॥ **उत** अपि च **मुमुक्षमाणाः** इन्द्रेण मोचयितुमिष्यमाणाः **याः** आपः **मुमुच्रे** इन्द्रेण मोचिता अभूवन् । मुचेः कर्मणि लिट् ॥ **अधेत्** अनन्तरमेव **नितिक्ताः** नितरां शुद्धा आपः **न** **रमन्ते** । एकत्र न क्रीडन्ति । किंतु सर्वत्र गमनशीला इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have set at liberty the streams which had been swallowed by Ahi; they rushed forth with rapidity;the waters which longed to be liberated were set free and now the pure (streams) never stop.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You let loose the rivers that had been swallowed by the serpent. Right  after that they roiled forth at speed—  
 those seeking release and those that had been released. Then they did  not rest, once pointed down.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou didst free rivers swallowed by the Dragon; and rapidly they set themselves in motion,  
      Those that were loosed and those that longed for freedom. Excited now to speed they run unresting.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du ließest die Flüsse laufen, die vom Drachen verschlungen waren. Da entflohen diese in Eile, die befreit sein wollten und die befreit wurden. Und diese halten nicht still, zum Laufe angespornt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die von der Schlang' verschlungnen liesst du strömen, da stürzten vor mit Eile die Gewässer; Sie, die befreiten und die frei sein wollen; sie ruhen nimmer, wenn sie erst erregt sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты выпустил реки, проглоченные змеем.  
 Тогда они ринулись в спешке,  

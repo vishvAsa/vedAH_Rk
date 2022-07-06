@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनानः꣡ सोम धा꣡रया  
 इ꣡न्दो वि꣡श्वा अ꣡प स्रि꣡धः  
 जहि꣡ र꣡क्षांसि सुक्रतो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 ज॒हि । रक्षां॑सि । सु॒क्र॒तो॒ इति॑ सुऽक्रतो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -88,19 +88,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्दो** दीप्त **सुक्रतो** सुकर्मन् **सोम** **धारया** **पुनानः** पूयमानस्त्वं **विश्वाः** सर्वान् **स्रिधः** द्वेष्टॄन् शत्रून् **रक्षांसि** राक्षसांश्च **अप** **जहि** मारय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Brilliant **Soma**, do you, purified in a stream, achieving great acts, destroy all foes and the **rākṣasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming purified in a stream, o Soma drop, smash away all errors, away the demonic forces, o you of good resolve.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -110,23 +110,23 @@ The páva- sequence found in the last two tṛcas is brought to an end with the 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, Indu, very wise, drive, being purified, with thy stream  
      All foes, all Raksasas away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Somasaft, indem du dich im Strome läuterst, verbann alle Fehlschläge, vertreibe die Unholde, du Einsichtsvoller!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt, Soma, schlag' im Strom o Indu, alle Feinde fort, Und die Gespenster, kräftiger!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

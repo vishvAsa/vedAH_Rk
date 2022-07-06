@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋभु꣡र् वि꣡भ्वा वा꣡ज इ꣡न्द्रो नो अ꣡छ  
 इमं꣡ यज्ञं꣡ रत्नधे꣡यो꣡प यात  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धात् पीतिं꣡ स꣡म् म꣡दा अग्मता वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒दा । हि । वः॒ । धि॒षणा॑ । दे॒वी । अह्ना॑म् । अधा॑त् । पी॒तिम् । सम् । मदाः॑ । अ॒ग्म॒त॒ । वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
@@ -145,7 +145,7 @@ genre M
 **ऋभुर्विभ्वा** **वाज** **इन्द्रः** चैते देवाः **नः** अस्मदीयम् **इमं** **यज्ञम्** **अच्छ** अभिमुखं **रत्नधेया** अस्मभ्यं रत्नधानाय **उप** **यात** उपगच्छत । ननु इन्द्रः सोमस्वामित्वात् आगच्छतु कथमेतेषां यज्ञप्राप्तिरिति चेत् । उच्यते । **इदा** **हि** इदानीं खलु **वः** युष्माकं **धिषणा** वाक् **देवी** प्रजापतेः संबन्धिनी **अह्नां** सोमाभिषवसंबन्धिनां **पीतिं** सोमपानम् अधात् । ‘स प्रजापतिरब्रवीत्सवितारं तव वा इमेऽन्तेवासास्त्वमेवैभिः संपिबस्व ' (ऐ. ब्रा.३.३०) इति ब्राह्मणम् । यस्मादेवं तस्मात् **मदाः** च **वः** युष्मान् **सम्** **अग्मत** संगताः । यद्वा । वो मदा देवैः संगताः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,29 +156,29 @@ genre M
 The divine work has desired the drinking: **dhiṣaṇā** **devi**: **Aitareya** **Brāhmaṇa** states: **Prajāpati** said to **Savitri**, these are your fellow-students, do you drink with them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let R̥bhu, Vibhvan, Vāja, and Indra travel here toward this our sacrifice  and toward their conferring of treasure (here),  
 for at this time of the day [=evening] the goddess Holy Place has placed  the drink (of soma) for you. The exhilarating draughts have gathered  for you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To this our sacrifice come Rbhu, Vibhvan, Vaja, and Indra with the gift of riches,  
      Because this day hath Dhisana the Goddess set drink for you: the gladdening draughts have reached you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ribhu, Vibhvan, Indra, kommet her zu diesem Opfer von uns, zur Belohnung, denn zu dieser Tageszeit hat euch die Göttin Dhisana den Trank bestimmt! Eure Räusche sind in Gesellschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu diesem Opfer kommet Ribhu, Vibhvan, Vadscha und Indra her zu unsern Spenden; Denn heut am Tag bot euch die Götterschale den Trunk, und zu euch eilten alle Soma's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рибху, Вибхван, Ваджа, Индра, приходите  
 К нам на это жертвоприношение для раздачи сокровищ!  

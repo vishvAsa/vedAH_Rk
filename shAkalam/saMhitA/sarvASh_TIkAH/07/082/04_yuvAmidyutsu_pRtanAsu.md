@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवा꣡म् इ꣡द् युत्सु꣡ पृ꣡तनासु व꣡ह्नयो  
 युवां꣡ क्षे꣡मस्य प्रसवे꣡ मित꣡ज्ञवः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रावरुणा सुह꣡वा हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ई॒शा॒ना । वस्वः॑ । उ॒भय॑स्य । का॒रवः॑ । इन्द्रा॑वरुणा । सु॒ऽहवा॑ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvām* ← *tvad*
 - \[noun\], accusative, dual
@@ -112,7 +112,7 @@ genre M
 हे इन्द्रावरुणौ **वह्नयः** हविषां स्तोत्राणां वा वोढार ऋत्विजः **युत्सु** युद्धेषु **पृतनासु** शत्रुसेनासु रक्षणार्थं **युवामित्** युवामेव हवन्ते आह्वयन्ति । **मितज्ञवः** संकुचितजानुका अङ्गिरसोऽपि **क्षेमस्य** रक्षणस्य **प्रसवे** उत्पादने निमित्तभूते सति **युवाम्** एव हवन्ते । अतः कारणात् हे इन्द्रावरुणौ **कारवः** स्तोतारो वयमपि **उभयस्य** दिव्यस्य पार्थिवस्य च **वस्वः** वसुनो धनस्य **ईशाना** ईश्वरौ **सुहवा** सुखेन ह्वातव्यौ युवामेव **हवामहे** आह्वयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,30 +123,30 @@ genre M
 In battles: priyasat = śatrusenāsu,among hostile armies; respectful homage: suhasva = sukhena hvatavyau, easily accessible to invocation, easilyinvoked
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As chariot-drivers we call upon just you in conflicts and battles; (seated)  with knees fixed, we call upon you at your instigation of peaceful  
 settlement;  
 we singers call upon you, easy to call, the masters of the good belonging  to both (war and peace), o Indra and Varuṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In battels and in frays we ministering priests, kneeling upon our knees for furtherance of our weal,  
      Invoke you, only you, the Lords of twofold wealth, you prompt to hear, we bards, O Indra-Varuna.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch rufen die Wagenlenker in den Kämpfen, in den Schlachten, euch rufen in der Tätigkeit des Friedens wir Dichter mit aufgestemmten Knieen, o Indra und Varuna, die ihr über das beiderseitige Gut gebietet, und euch gern rufen lasset.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Kampf und Schlachten rufen wir euch eilend an, wir unermüdlich wirkend in des Friedens Zeit; Die gern ihr hört und helft, o Indra-Varuna, und über Gut des Kriegs und Friedens Herren seid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только вас двоих (призывают) возницы в битвах, в сражениях,  
 Вас – при побуждении к миру, (они,) твердо стоящие на коленях.  

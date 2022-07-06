@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था कलां꣡ य꣡था शफं꣡  
 य꣡थ र्णं꣡ संन꣡यामसि  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -36,7 +36,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 ए॒व । दुः॒ऽस्वप्न्य॑म् । सर्व॑म् । आ॒प्त्ये । सम् । न॒या॒म॒सि॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -129,7 +129,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 संज्ञपितं पशुं दानार्थं संस्कुर्वन्तः यथा येन प्रकारेण **कलां** **शफम्** इति संदायान्यत्र संनयन्ति । अथापरो यथाशब्दः पूरणः । अथवा । यथा कलां हृदयाद्यवयवमवदानार्हं संनयन्ति यथा च शफं शफोपलक्षितमनवदानार्हं शफास्थ्यादिकं संनयन्ति । यथा वा **ऋणं** शनैः संनयन्ति **एव** एवं **दुष्ष्वप्न्यं** **सर्वमाप्त्ये** वर्तमानं **सं** **नयामसि** संनयामः अपसारयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,7 +144,7 @@ As in the sacrifice they plural ce together the **kalā**, the heart etc., as fi
 Kalā = a very small portion of a cow; that rests on Āptya: or, we transfer all the ill-omened dreamto Āptya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as we bring back a sixteenth, then an eighth, then the  
 (whole) debt,  
@@ -152,23 +152,23 @@ even so we bring the whole bad dream to Āptya.
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As we collect the utmost debt, even the eighth and sixteenth part,  
      So unto Aptya we transfer together all the evil dream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie wir ein Sechzehntel, wie ein Achtel, wie wir die ganze Schuld aufbringen, so bringen wir alles böse Träumen zusammen auf Aptya. - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie man die Schulden abbezahlt, den Pfennig und den Heller auch, so zahlen jeden bösen Traum wir ab an Trita Aptia.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как собираем мы шеснадцатую часть,  
 Как восьмую, как (весь) долг,  

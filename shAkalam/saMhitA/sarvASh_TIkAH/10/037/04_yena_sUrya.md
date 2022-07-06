@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡न सूर्य ज्यो꣡तिषा बा꣡धसे त꣡मो  
 ज꣡गच् च वि꣡श्वम् उदिय꣡र्षि भानु꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡पा꣡मीवाम् अ꣡प दुष्व꣡प्नियं सुव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तेन॑ । अ॒स्मत् । विश्वा॑म् । अनि॑राम् । अना॑हुतिम् । अप॑ । अमी॑वाम् । अप॑ । दुः॒ऽस्वप्न्य॑म् । सु॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
@@ -133,36 +133,36 @@ genre M
 हे **सूर्य** त्वं **येन** **ज्योतिषा** तेजसा **तमः** अन्धकारं **बाधसे** निवारयसि येन **च** **भानुना** तेजसा **विश्वं** सर्वं **जगत्** जङ्गमम् **उदियर्षि** उद्गमयसि **तेन** ज्योतिषा **अस्मत्** अस्मत्तः **अनिराम्** अन्नाभावम् **अनाहुतिम्** अहोमं च **अमीवां** रोगजातं च **अप** **सुव** अपगमय । **दुःस्वप्न्यं** दुःस्वप्नप्रभवमनिष्टं च **अप** सुवः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With that light, **Sūrya**, with which you disperse the darkness, and with that radiance with which youquicken every moving thing, remove from us all famine, neglect of oblations, sickness and evil dreams.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The light with which you thrust away the darkness, o Sun, and the  radiance with which you rouse up every moving creature,  
 with that drive away from us every want of nourishment, every lack of  oblation, drive away disease, away the bad dream.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Surya, with the light whereby thou scatterest gloom, and with thy ray impellest every moving thing,  
      Keep far from us all feeble, worthless sacrifice, and drive away disease and every evil dream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit welchem Lichte du, Surya, das Dunkel verdrängst und mit deinem Schein alles Lebende auftreibst, mit dem verbanne von uns jegliches Verschmachten, den Mangel an Opfern, Krankheit und bößen Traum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit welchem Licht das Dunkel, Sonne, du verjagst und alle Wesen neu belebst durch deinen Glanz, Mit diesem schaffe alles Siechthum von uns fort, die Lässigkeit im Opfern, Krankheit, bösen Traum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) свет, которым ты, Сурья, прогоняешь мрак,  
 И весь живой мир приводишь лучом в движение,  

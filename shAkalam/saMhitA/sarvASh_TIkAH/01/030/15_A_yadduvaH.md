@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡द् दु꣡वः शतक्रतव्  
 आ꣡ का꣡मं जरितॄणा᳐꣡म्  
 ऋणो꣡र् अ꣡क्षं न꣡ श꣡चीभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 ऋ॒णोः । अक्ष॑म् । न । शची॑भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -86,7 +86,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **शतक्रतो** इन्द्र **यद्दुवः** धनं कामितार्थरूपम् **आ** स्तोतृभिराप्तव्यमस्ति तं **कामं** **जरितॄणां** स्तोतॄणामनुग्रहाय **आ** **ऋणोः** आनीय प्रक्षिपसि । तत्र दृष्टान्तः । **शचीभिः** कर्मभिः शकटोचितव्यापारविशेषैः **अक्षं** **न** यथा अक्षं प्रक्षिपन्ति तद्वत् ॥ शचीभिः । शचीशब्दः शार्ङ्गरवादिङीनन्तः (पा. सू. ४. १. ७३ ) आद्युदात्तः ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,29 +97,29 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Akṣam na śacībhiḥ, it is like the axle by the acts (movements of the wagon)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you fit out your friendship and fit out the desire of the singers, o  you of a hundred resolves,  
 with your abilities, (as you fit) the axle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That, Satakratu, thou to grace and please thy praisers, as it were,  
      Stirrest the axle with thy strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem du, Ratreicher, auf den Eifer, auf den Wunsch der Sänger eingehst, fügst du nach Kräften gleichsam die Achse in die Räder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn du Gaben, vielgewalt'ger kräftig in den Wunsch der Sänger, Wie ins Rad die Achse einfügst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же, о стоумный, (ты оказываешь) почтение -  
 Ты (исполняешь) желание певцов,  

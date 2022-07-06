@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ इन्द्र अ꣡पि अभूम वि꣡प्रा  
 धि꣡यं वनेम ऋतया꣡ स꣡पन्तः  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 सद्य꣡स् ते रायो꣡ दाव꣡ने सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 अ॒व॒स्यवः॑ । धी॒म॒हि॒ । प्रऽश॑स्तिम् । स॒द्यः । ते॒ । रा॒यः । दा॒वने॑ । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -118,41 +118,41 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 हेइन्द्र विपामेधानिवोवयन्त्वेत्वयित्वद्धृदयेअभूम अपिसानुनयप्रश्नेवर्तते तेतवहृदयेकिंवर्ता- महइति ऋतयाऋतङ्कर्मफलन्तत्कामनयासपन्तः त्वाम्परिचरणाख्येनकर्मणास्पृशन्तोवयन्धियं त्व- दुद्देशेनक्रियमाणङ्कर्मवनेम सम्भजेमहि वनषणसम्भक्तौ आशीर्लिङिलिङ्याशिष्यङित्यङ्प्रत्ययः किञ्च अवस्यवः त्वत्तोरक्षणमिच्छन्तः प्रशस्तिंशस्तिःशंसनं प्रकृष्टशंसनंस्तोत्रं धीमहि त्वयिनिदधी- महि ततः तेत्वदीयस्यरायोधनस्यदावनेदानायपात्रभूताः सद्यः स्याम इदानीं भवेम ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, your pious (worshipper), abide in you; approaching you with devotion, may we enjoy (the reward of) our adoration; desirous of protection, we meditate your glorification; may we ever be (thought worthy) of the gift of your treasures.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We inspired poets have abided by you, Indra. Serving according to the  truth, we would gain insight.  
 Seeking your help, we would create for ourselves a proclamation of your  praise. On this very day, we would be those to be given wealth by you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I would tr. dhīmahi in c as ‘acquire’ -- the idea being that we want to get a práśasti- from our actions performed with Indra’s help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Singers have we become with thee, O Indra: may we serve duly and prepare devotion.  
      Seeking thy help we meditate thy praises: may we at once enjoy thy gift of riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei dir, Indra, haben wir Redekundigen Zuflucht gesucht. Wir wollen Gewinn von der Dichtung haben, indem wir sie richtig pflegen. Um Gunst bittend möchten wir Anerkennung finden, wir möchten alsbald dir zum Schenken von Reichtum ausersehen sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir Sänger sind, o Indra, ganz dein eigen, lasst Andacht weih'n uns, wie es recht, dich ehrend, Und deine Huld uns, Gunst begehrend, preisen; stets sei uns Theil an deiner Güterspende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы, вдохновенные, заключены в тебе, о Индра.  
 Мы хотим использовать поэтический дар, служа (ему) по закону.  

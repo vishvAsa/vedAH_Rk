@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ तू꣡ षिञ्च ह꣡रिम् ईं द्रो꣡र् उप꣡स्थे  
 वा꣡शीभिस् तक्षत अश्मन्म꣡यीभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उभे꣡ धु꣡रौ प्र꣡ति व꣡ह्निं युनक्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 परि॑ । स्व॒ज॒ध्व॒म् । दश॑ । क॒क्ष्या॑भिः । उ॒भे इति॑ । धुरौ॑ । प्रति॑ । वह्नि॑म् । यु॒न॒क्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -122,36 +122,36 @@ popular
 हे अध्वर्यो त्वम् **ईम्** एनं **हरिं** हरितवर्णं सोमं **द्रोः** दुमविकारस्य पात्रस्य **उपस्थे** उपरि **आ** **सिञ्च** आसेकं कुरु। **तु** इति पूरणः । तदर्थं हे पात्रसंपादिनः **अश्मन्मयीभिः** अयःशिलासारभूताभिः **वाशीभिः** **तक्षत** पात्राणि । नकारोपजनश्छान्दसः । मयटः टित्त्वात् ङीप् । तानि पात्राणि सोमपूर्णानि **दश** दशसंख्याकानि **कक्ष्याभिः** प्रकारैः पर्यायेण **परि** **ष्वजध्वं** संस्कुरुध्वम् । आसादयत । यद्वा । वाशीभिरश्मन्मयीभिर्हविर्धानशकटे तक्षत । ते च दश कक्ष्याभिर्दशसंख्याकाभिः रज्जुभिः परि ष्वजध्वम्। **उभे** **धुरौ** युगसंबन्धिन्यौ **प्रति** वह्नी वाहकावनड्वाहौ **युनक्त**। अथवायं मन्त्रश्चयनक्षेत्रकर्षणसाधनहलविषयतया व्याख्येयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour out the golden-tinted **Soma** into the bowl of the wooden cup, fabricate it with the stone axes, girdit with ten bands, harness the beast of burden to the two poles (of the cart).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pour out the tawny (soma) into the lap of wood. Fashion (it [=wooden  cup]) with axes made of stone.  
 Embrace (him [=Soma]) with ten girthbands. Yoke the draft-horse to  the two chariot-poles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour golden juice within the wooden vessel: with stone-made axes fashion ye and form it.  
      Embrace and compass it with tenfold girdle, and to both chariot-poles attach the car-horse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gieß doch den goldgelben Soma in den Schoß des Holzes ein; schnitzet mit steinernen Messern! Umschlinget ihn mit zehn Gurten, schirret das Zugtier an die Doppeldeichsel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergiess den goldnen in den Schooss des Holzes, und zimmert ihn mit steingeformten Aexten, Umschlinget ihn mit zehn gewundnen Gurten; das Zugthier schirrt an beide Deichselstangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Черпайте же золотистый (сок) в лоне деревянного сосуда!  
 Вытесывайте (сосуды) каменистыми топорами!  

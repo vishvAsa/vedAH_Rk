@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तियं꣡ चिद् इत्था꣡ कत्पयं꣡ श꣡यानम्  
 असूरिये꣡ त꣡मसि वावृधान꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उच्चइ꣡र् इ꣡न्द्रो अपगू꣡र्या जघान
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । चि॒त् । म॒न्दा॒नः । वृ॒ष॒भः । सु॒तस्य॑ । उ॒च्चैः । इन्द्रः॑ । अ॒प॒ऽगूर्य॑ । ज॒घा॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
@@ -113,36 +113,36 @@ genre M
 **सुतस्य** अभिषुतेन सोमेन **मन्दानः** मोदमानः **वृषभः** कामानां वर्षिता **इन्द्रः** **उच्चैः** ऊर्ध्वम् **अपगूर्य** वज्रमुद्यम्य **त्यं** **चित्** तमेव वृत्रं **जघान** अवधीत् । कीदृशम् । **इत्था** अमुत्रान्तरिक्षलोके कत्पयम् । कत् सुखकरं पयो यस्य तम् । **शयानम्** अप्सु शयनं कुर्वन्तम् **असूर्ये** सूर्यरहिते **तमसि** अन्धकारे **ववृधानं** वर्धमानम् । **तं** **चित्** इति पुनर्वचनं पूरणार्थम् ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, the showerer (of benefits) exhilarated by the effused juices, uplifting (his thunderbolt), has slain him enjoying the dews of the firmament, sleeping (amidst the waters), and thriving in sunless darkness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That very one, lying just so, horribly swollen, having grown strong in the  sunless darkness,  
 just him did the bull Indra, invigorated on the pressed (soma), smash  from above, after taunting him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him as he lay there huge in length extended, still waxing in the gloom which no sun lightened,  
      Him, after loud-voiced threats, the Hero Indra, rejoicing in the poured libation, slaughtered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst jenen, der so ...... dalag, der im sonnenlosen Dunkel groß geworden war, selbst den hat der Bulle Indra von Somasaft berauscht, hoch ausholend erschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und ihn sogleich, der aufgeschwollen dalag, der mächtig wuchs im sonnenlosen Dunkel, Ihn schlug der Stier, berauscht vom Somasafte zu Boden, Indra, hoch herab ihn schleudernd.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже того, так отвратительно раздувшегося разлегшись,  
 Возросшего в бессолнечном мраке,  

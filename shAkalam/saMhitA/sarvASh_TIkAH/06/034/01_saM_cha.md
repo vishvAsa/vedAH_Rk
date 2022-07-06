@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ च त्वे꣡ जग्मु꣡र् गि꣡र इन्द्र पूर्वी꣡र्  
 वि꣡ च त्व꣡द् यन्ति विभु꣡वो मनीषाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पस्पृध्र꣡ इ꣡न्द्रे अ꣡धि उक्थअर्का꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पु॒रा । नू॒नम् । च॒ । स्तु॒तयः॑ । ऋषी॑णाम् । प॒स्पृ॒ध्रे । इन्द्रे॑ । अधि॑ । उ॒क्थ॒ऽअ॒र्का ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -141,7 +141,7 @@ genre M
 “इन्द्रे **अधि** अधिकं **पस्पृध्रे** अस्पर्धन्त । अहमहमिकयेन्द्रस्य स्तवने त्वरिता बभूवुरित्यर्थः । तथा **उक्थार्का** । उक्थं शस्त्रम् । तद्रूपाण्यर्काणि अर्चनसाधनानि स्तोत्राणि च पस्पृधे अस्पर्धन्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,14 +152,14 @@ genre M
 From you abundant commendations: vica tvad yanti manīṣāḥ tvattaḥ stotṛṇām, approbations of the praisers variously go forth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Many songs have converged on you, Indra, and out from you go inspired  thoughts far and wide.  
 Previously and now, the seers’ songs of praise, their recitations and  
 hymns, have contended over Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich of this vs. (and thus of the hymn) contains a compact summary of Rigvedic poetic economy, with the god Indra both the focus of the poets’ praise songs and the source of inspiration for them. This is expressed in two antithetical pādas, conjoined by double ca, with the oppositional preverbs sám and ví opening the pādas and two 3rd pl. verbs of motion providing the verbal expression: jagmúḥ and yanti. The first of these is accented, the 2nd not, even though the two pādas are coordinate, as the double ca-s show. The accent of jagmúḥ can be accounted for by the principle that accents the first of two explicitly contrastive verb forms, though usually such verbs are adjacent or nearly adjacent. Klein’s (DGRV I.167) of contrastive double ca constructions has several such passages, with the 1st verb accented; e.g., I.123.12 párā ca yánti púnar ā́ca yanti. Our passage is unusual only in having more matter between the verbs. Note how very parallel the pādas are: PREV ca 2ND-SG-PRN VERB, with the pre-verbal loc. tvé and abl. tvát carrying their own contrastive weight.
 
@@ -174,23 +174,23 @@ pl., serving as another subject of the verb paspṛdhre, not a dual masc., which
 §1255e; Macdonell VG §265; VGS p. 269; AiG II.1.38, 156. The 2nd member arká- is itself masc. when independent. The cmpd. deviates from dvandva orthodoxy in other ways: it has only one accent, and at least in this metrical context the first member ends in short -a and is probably in stem form (or else show shortening in hiatus).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FULL Many songs have met in thee, O Indra, and many a noble thought from thee proceedeth.  
      Now and of old the eulogies of sages, their holy hymns and lauds, have yearned for Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dich vereinigen sich viele Lobreden, Indra, und von dir gehen reiche Gedanken aus. Früher und jetzt haben die Lobpreisungen der Rishi´s, die Gedichte und Gesänge um Indra gewetteifert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dir gehn hin, o Indra, viele Lieder, und von dir aus gehn herrliche Gedanken; Jetzt wie zuvor auch streben hin zu Indra der Dichter Hymnen, Sprüche und Gesänge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе сходятся многие хвалебные песни, о Индра,  
 И от тебя расходятся выдающиеся мысли.  

@@ -6,14 +6,14 @@ ChandaH = "वर्धमाना"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् असि प्रश꣡सियो  
 विद꣡थेषु सहन्तिय  
 अ꣡ग्ने रथी꣡र् अध्वरा꣡णाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 अग्ने॑ । र॒थीः । अ॒ध्व॒राणा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -72,36 +72,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 हे **सहन्त्य** शत्रूणामभिभवितः **अग्ने** **विदथेषु** यज्ञेषु **त्वं** प्रशस्यः स्तुत्यः **असि** । **अध्वराणां** यागानां **रथीः** नेता च भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Victor (over enemies), you are to be hymned at solemn rites; you, **Agni**, are the charioteer of sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are to be proclaimed at the rites,  
 o overpowering Agni, as the charioteer of the ceremonies.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Mighty Agni, thou must be glorified at our festivals,  
      Bearing our offerings to the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist zu preisen, du an Weisheit Überlegener, o Agni, du der Wagenlenker der Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu rühmen bist, o siegender, bei allen Opferfesten du, Du Agni fährst die Opfer ja.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты достоин восхвалений  
 На жертвенных раздачах, о побеждающий,  

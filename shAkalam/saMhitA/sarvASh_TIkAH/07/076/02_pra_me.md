@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ मे प꣡न्था देवया꣡ना अदृश्रन्न्  
 अ꣡मर्धन्तो व꣡सुभिर् इ꣡ष्कृतासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रतीची꣡ आ꣡गाद् अ꣡धि हर्मिये꣡भ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अभू॑त् । ऊं॒ इति॑ । के॒तुः । उ॒षसः॑ । पु॒रस्ता॑त् । प्र॒ती॒ची । आ । अ॒गा॒त् । अधि॑ । ह॒र्म्येभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 **मे** मया **देवयानाः** देवप्रापकाः **पन्थाः** पन्थानः **प्र** **अदृश्रन्** प्रदृश्यन्ते । कीदृशाः पन्थानः । **अमर्धन्तः** अहिंसन्तः **वसुभिः** तेजोभिः **इष्कृतासः** संस्कृताः । **पुरस्तात्** पूर्वस्यां दिशि **उषसः** **केतुः** प्रज्ञापकं तेजः **अभूत्** अचेति ज्ञायते । सोषाश्च **प्रतीची** प्रत्यगञ्चनास्मदभिमुखी हर्म्येभ्यः **अधि** उच्छ्रितेभ्यः प्रदेशेभ्यः । हर्म्यशब्द उन्नतप्रदेशोपलक्षकः । **आगात्** आगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ genre M
 Unnatapradeśaḥ: may alsomean, above the houses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The paths leading to the gods have become visible to me—paths that are  not negligent and are set in order by the good ones.  
 The beacon of Dawn has appeared from the east. She has come here,  facing west from her habitation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the relation of this vs. to its paired frame vs. 5, see published introduction. Their relationship is signalled in the first instance by patterned repetition, with 2b and 5b almost identical: ámardhanto vásubhiḥ x x x x. This patterned repetition also involves poetic repair. The qualifier ámardhantaḥ ‘not negligent’, used unusually of paths in vs. 2b, returns in 5d with a far more appropriate referent, the Fathers or their modern-day representatives, the Vasiṣṭhas. The standard tr. either ignore the identity of the two words, found in the same metrical position, and tr. each in a way that fits the context as the tr. sees it (so Geldner “unfehlbar” 2b versus “nicht zurückstehend” 2d) or choose an anodyne tr. that doesn’t reflect the act. transitive morphology of the form (Renou “impeccable” in both places). But forms of the root √mṛdh generally take an acc. obj. (or an enclitic prn. that is likely acc.) in the sense ‘neglect X’, and we would expect the participle, even negated, to reflect the same usage. As usual, I think it is incumbent on us to follow the morphology, even when it leads us to interpretations that seem, at first, awkward. Here I would first point out that Dawn 100 “awakened” the paths in the previous hymn (VII.75.1d pathyā̀ajīgaḥ), so paths in this group of hymns appear to have more animacy than might be expected. The paths in our vs. are the ones that lead to the gods (devayā́nāḥ), and in this context “nonnegligent paths” could be ones that don’t fail to lead us there, perhaps because they stay in good order, as is implied by the qualifier íṣkṛta-. As often with such semantic mismatches, the sense that comes from apparently incompatible words construed together is hard won, but it also leads to a deeper understanding of what the poet intended.
 
@@ -152,23 +152,23 @@ Instead it seems to mean something like ‘set in order, set to rights, restore�
 purástāt / pratīcī́“from the east, facing west” is another example of a paired contrast across a pāda boundary.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I see the paths which Gods are wont to travel, innocuous paths made ready by the Vasus.  
      Eastward the flag of Dawn hath been uplifted; she hath come hither o'er the tops of houses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die gottbegangenen Pfade sind mir sichtbar geworden, die unfehlbaren, von den Göttern bereiteten. Im Osten ist das Banner der Usas erschienen; sie ist aus ihrem festen Hause uns entgegen gekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die gottbetretnen Pfade sind mir sichtbar, geschmückt mit Gütern, nimmer irre führend; Von Osten scheint der Morgenröthe Schimmer; von ihrer Stätte ist sie hergekommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стали мне видны пути, ведущие к богам,  
 Безукоризненные, подготовленные богами.  

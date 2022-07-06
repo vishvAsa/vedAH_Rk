@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आरे꣡ अस्म꣡द् अ꣡मतिम् आरे꣡ अं꣡ह  
 आरे꣡ वि꣡श्वां दुर्मतिं꣡ य꣡न् निपा꣡सि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यं꣡ देव꣡ आ꣡ चित् स꣡चसे सुअस्ति꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दो॒षा । शि॒वः । स॒ह॒सः॒ । सू॒नो॒ इति॑ । अ॒ग्ने॒ । यम् । दे॒वः । आ । चि॒त् । सच॑से । स्व॒स्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āre*
 - \[adverb\]
@@ -131,43 +131,43 @@ genre M
 हे **सहसः** **सूनो** बलस्य पुत्र। मथ्यमानोऽग्निर्मथनकारिणां हि बलेन जायते इत्यग्नेर्बलपुत्रत्वम् । हे **अग्ने** **दोषा** रात्रौ **शिवः** शिवकरः **देवः** द्योतमानस्त्वं **यं** यानस्मान् **स्वस्ति** अविनाशाय **आ** **सचसे** परितः सेवसे । **चित्** इति पूरणः । **यत्** यस्मात् कारणात् **निपासि** यजमानान् नितरां पालयसि । तेभ्यः **अस्मत्** अस्मत्तः **अमतिं** पापरूपामशनेच्छाम् **आरे** दूरे कुरु ।' अशनाया वै पाप्मामतिः ' (ऐ. ब्रा. २. २ ) इति ब्राह्मणम् । **आरे** दूरेऽस्मत्तः **अंहः** पापं कुरु । आरे इति दूरनामैतत् । अस्मत्तः **आरे** दूरे **विश्वां** सर्वां **दुर्मतिं** दुर्मनस्त्वं कुरु ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, son of strength, since you protect (your worshippers), far (remove) from us all iniquity; far (remove from us) sin; far (from us) all evil thoughts; for proeperous is he of whom you who are radiant by night promote the well-being.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At a distance from us (keep) heedlessness, at a distance constraint, at a  distance all malevolence, as you protect us.  
 At evening (be) propitious, o Agni, son of strength, (to him) whom you  as god even here accompany with well-being.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I supply a form of the root √yu ‘keep away’ with the accusatives in ab, extracted from the root-noun cmpd in 5c dveṣoyút- ‘keeping away hatred’.
 
 I am not entirely sure what to do with cid in d. Perhaps the idea is that though you are a god, you are also our companion right here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far from us thou removest want and sorrow, far from us all ill-will when thou protectest.  
      Son of Strength, Agni, blest is he at evening, whom thou as God attendest for his welfare.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fern von uns hältst du die Gedankenarmut, fern die Not, fern alles Übelwollen, so du Schützer bist. Bei Nacht bist du dem heilsam, o Agni, Sohn der Kraft, dem du, der Gott, zur Seite stehst zum Glücke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Halt fern von uns die Armuth, fern Bedrängniss, und jede Misgunst fern du, uns beschützend; Gesegnet ist, o Sohn der Kraft, o Agni, wen abends du, o Gott, zum Heil geleitest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прочь от нас (гони) безмыслие, прочь узость,  
 Прочь всякую недоброжелательность, когда ты охраняешь (нас)!  

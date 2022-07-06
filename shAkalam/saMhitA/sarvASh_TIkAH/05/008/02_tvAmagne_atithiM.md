@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्ने अ꣡तिथिम् पूर्वियं꣡ वि꣡शः  
 शोचि꣡ष्केशं गृह꣡पतिं नि꣡ षेदिरे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुश꣡र्माणं सुअ꣡वसं जरद्वि꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृ॒हत्ऽके॑तुम् । पु॒रु॒ऽरूप॑म् । ध॒न॒ऽस्पृत॑म् । सु॒ऽशर्मा॑णम् । सु॒ऽअव॑सम् । ज॒र॒त्ऽविष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -129,7 +129,7 @@ genre M
 हे **अग्ने** **त्वां** **विशः** यजमानाः **गृहपतिं** गृहस्वामिनं **नि** **षेदिरे** । गार्हपत्यरूपेण स्थापितवन्त इत्यर्थः । कीदृशं त्वाम् । **अतिथिम्** अतिथिवत्पूज्यं **पूर्व्यं** पुरातनं **शोचिष्केशं** दीप्तज्वालं **बृहत्केतुं** प्रभूतप्रज्ञानं **पुरुरूपम्** आहवनीयादिरूपेण बहुरूपं **धनस्पृतं** धनानां स्पर्तारं **सुशर्माणं** शोभनसुखं **स्ववसं** सुरक्षणं **जरद्विषं** जरतां वृक्षाणां व्यापकं जीर्णोदकं वा ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,34 +140,34 @@ genre M
 Jaradviṣam = liṭ, that which is poison to the old; it is explained as jaratām vṛkṣāṇām vyāpakam, the pervader or consumer of old trees; or, it may mean jirṇodakam, that by which water is dried up
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, did they seat as the first guest of the clan, as the lord of the  house with blazing hair,  
 with lofty beacon and many forms, winning back the stakes, offering  good protection and good help, striving to bring (mortals) to old age.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee, Agni, men have stablished as their guest of old, as Master of the household, thee, with hair of flame;  
      High-bannered, multiform, distributor of wealth, kind helper, good protector, drier of the floods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, the clans have set down, the ancient guest, the flame-haired lord of the house, with mighty light, with many shapes, the winner of prizes, giving good shelter and good help, who is busy among the decayed (wood) 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, haben sie eingesetzt, den ersten Gast des Clans, den Hausherrn mit den Flammenhaaren, mit hohem Banner, den vielgestaltigen, Schätze gewinnenden, schutz- und gnadenreichen, der das alte Holz verarbeitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Agni, haben eingesetzt als ersten Gast die Menschen und als lichtumlockten Hausherrn dich, Dess Banner hoch, der vielgestaltig Beute macht, der sichern Schutz und Huld gewährend Feinde tilgt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, усадили как первого гостя  
 Племени, пламенновласого, хозяина дома,  

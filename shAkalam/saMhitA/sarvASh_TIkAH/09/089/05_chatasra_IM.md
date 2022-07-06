@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 च꣡तस्र ईं घृतदु꣡हः सचन्ते  
 समाने꣡ अन्त꣡र् धरु꣡णे नि꣡षत्ताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ ईं विश्व꣡तः प꣡रि षन्ति पूर्वीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ताः । ई॒म् । अ॒र्ष॒न्ति॒ । नम॑सा । पु॒ना॒नाः । ताः । ई॒म् । वि॒श्वतः॑ । परि॑ । स॒न्ति॒ । पू॒र्वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *catasra* ← *catasraḥ* ← *catur*
 - \[noun\], nominative, plural, feminine
@@ -124,7 +124,7 @@ genre M
 **चतस्रः** **घृतदुहः** घृतदोग्ध्र्यो गावः **ईम** एनं सोमं **सचन्ते** सेवन्ते । कीदृश्यस्ताः । **समाने** एकस्मिन् **धरुणे** सर्वेषां धारकेऽन्तरिक्षे **निषत्ताः** निषण्णाः । **ताः** घृतदुहः **ईम** एनम् **अर्षन्ति** प्राप्नुवन्ति **नमसा** अन्नेन **पुनानाः** पूयमानाः सत्यः। **ताः** **पूर्वीः** बह्व्यः प्रभूता गावः **विश्वतः** सर्वतः **परि** **षन्ति** परिभवन्ति ॥  विष्टम्भो दिवो धुरुणः पृथिव्या विश्व उत क्षितयो हस्ते अस्य ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ genre M
 A common asylum: the firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Set down within the same support, four, yielding ghee as their milk,  accompany him.  
 They rush, being purified with homage. They, the many, surround him  on all sides.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The cátasraḥ … ghṛtadúhaḥ … níṣattāḥ “four (fem.), yielding ghee as milk, set down …” is highly reminiscent of IX.74.6 cátasro nā́bho níhitāḥ “four hidden (lit., ‘put down, deposited’) (streams) bursting out …” See comm. ad loc., where, flg.
 
@@ -152,23 +152,23 @@ The īm in c was omitted from the tr., where it presumably expresses the goal of
 around “him” in the next pāda can be erased, since that pāda also contains īm. The concentration of forms of īm in this hymn should also be noted: 2d (2x), 4c, 5a, 5c, 5d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Four pouring out the holy oil attend him, sitting together in the same container.  
      To him they flow, when purified, with homage, and still, from every side, are first about him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vier Buttermilchende geleiten ihn, auf die gleiche Unterlage niedergesetzt. Diese fließen zu ihm , ehrfürchtig sich läuternd; diese umgeben ihn allenthalben in großer Zahl.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vier milchversehne Kühe gehen mit ihm, sich niederlassend in das gleiche Becken, Sie strömen ihm, gereinigt mit Verehrung, und sind um ihn, die vielen, allenthalben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За ним следуют четыре (коровы?), доящиеся жиром,  
 Усевшиеся на общую (с ним) основу внутри (чана),  

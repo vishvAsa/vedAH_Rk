@@ -8,7 +8,7 @@ title = "+035"
 ' उपेम् ' इति पञ्चदशर्चं तृतीयं सूक्तं गार्त्समदं त्रैष्टुभम् अपांनपाद्देवताकम् । तथा चानुक्रान्तम्- ' उपेमपोनप्त्रीयम् ' इति । सूक्तविनियोगो लैङ्गिकः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 35 (226)  
 Apām Napāt (Child of the Waters)  

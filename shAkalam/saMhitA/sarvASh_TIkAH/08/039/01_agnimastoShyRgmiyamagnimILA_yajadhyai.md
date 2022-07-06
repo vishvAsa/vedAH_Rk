@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡म् अस्तोषि ऋग्मि꣡यम्  
 अग्नि꣡म् ईळा꣡ यज꣡धियै  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M
 अ॒ग्निः । दे॒वान् । अ॒न॒क्तु॒ । नः॒ । उ॒भे इति॑ । हि । वि॒दथे॒ इति॑ । क॒विः । अ॒न्तरिति॑ । चर॑ति । दू॒त्य॑म् । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -136,14 +136,14 @@ genre M
 **ऋग्मियम्** ऋगर्हम् **अग्निम्** **अस्तोषि** स्तौमि । अपि च **अग्निं** **यजध्यै** यष्टुम् **ईळा** स्तुत्या स्तौमीत्यर्थः । अपि च **अग्निः** **नः** अस्माकं **विदथे** यज्ञे **देवान्** हविर्भिः **अनक्तु** । **कविः** क्रान्तदर्श्यग्निः **उभे** द्यावापृथिव्यौ **अन्तः** **दूत्यं** हविर्वहनादिलक्षणं दूतकर्म **चरति** । **अन्यके** शत्रवोऽपि **समे** सर्वे **नभन्ताम्** । नभतिर्हिंसाकर्मा । अग्निना हिंस्यन्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify the adorable **Agni**, (I invite) Agni with praise to the sacrifice, may Agni brighten the gods with theoblations at our sacrifice; the sage Agni traverses both (worlds discharging his function) as messenger of thegods; may all our adversaries perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni have I praised, worthy of verses, Agni to be worshiped with  
 invocation. Let Agni anoint the gods for us,  
@@ -152,28 +152,28 @@ for the sage poet acts as messenger between both (cosmic) divisions
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner tr. vidáthe as “den beiden gelehrten Stände,” commenting (n. 1de) that vidátha- “ist die Autorität in gelehrten Sachen.” Following Thieme (Unters. 37ff.; see also EWA s.v.), however, I take the stem as derived from ví √dhā ‘divide, distribute’. In most instances (esp. in the loc. vidáthe, identical to the form here) vidátha- refers to the ceremonial distribution of goods and, more loosely, to the ceremony itself, but it can also refer to cosmic divisions (for other passages see Thieme’s collection; one ex. is 9b below), and that is the referent here. The presence of ubhé helps mark the form as a neut. dual, as opposed to the otherwise ubiquitous loc. sg.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE glorious Agni have I praised, and worshipped with. the sacred food.  
      May Agni deck the Gods for us. Between both gathering-places he goes on his embassy, the Sage. May all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf Agni habe ich das Lob angestimmt, auf den preiswürdigen, um Agni mit Anruf zu verehren. Agni soll für uns die Götter einsalben, denn der Seher tut Botendienst zwischen den beiden gelehrten Ständen. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni preis' ich, der's verdient, will opfern ihm mit Labetrunk; Die Götter salbe Agni uns; denn zwischen beide Stämme geht auf Botschaft er, der weise, aus; zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни я прославил как достойного гимнов,  
 Агни я хочу почтить призывом,  

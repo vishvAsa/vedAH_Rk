@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ति वि꣡श्वाः परिष्ठा᳐꣡  
 स्तेन꣡ ऽव° व्रज꣡म् अक्रमुः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡त् किं꣡ च तनु꣡वो र꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 ओष॑धीः । प्र । अ॒चु॒च्य॒वुः॒ । यत् । किम् । च॒ । त॒न्वः॑ । रपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ati*
 - \[adverb\]
@@ -104,7 +104,7 @@ popular;; epic anuṣṭubh (292)
 **विश्वाः** व्याप्ताः **परिष्ठाः** परितः स्थिता ओषधयः **अति** **अक्रमुः** व्याधीनतिक्रान्तवत्यः । **स्तेनइव** **व्रजम्** । यथा स्तेनो व्रजमत्यक्रमीत् तद्वत् । तथा कृत्वा **ओषधीः** ओषधयः **प्राचुच्यवुः** प्रच्यावयन्ति **यत्किं** **च** **तन्वः** रुग्णशरीरस्य **रपः** पापं व्याधिलक्षणमस्ति तदिति ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,29 +115,29 @@ popular;; epic anuṣṭubh (292)
 Infirmity: **rapaḥ** = **pāpaḥ**, sin; because of the consequence of sin eitherin this or in a previous existence
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have stepped over the fences like a thief over a barricade.  
 The plants have driven forth whatever malady of the body there is.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Over all fences have they passed, as steals a thief into the fold.  
      The Plants have driven from the frame whatever malady was there.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Über alle Hindernisse sind sie wie der Dieb über den Zaun gestiegen. Die Kräuter haben jeglichen Leibesschaden entfernt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kein Hemmniss hält sie auf, sie sind der Dieb, der durch die Zäune bricht, Die Kräuter werfen alles um, was an dem Leib Gebreste ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы преодолели все барьеры,  
 Как вор (, попадающий) в загон (для скота).  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुषे꣡थां यज्ञ꣡म् इष्ट꣡ये  
 सुतं꣡ सो꣡मं सधस्तुती  
 इ꣡न्द्राग्नी आ꣡ गतं नरा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रा॑ग्नी॒ इति॑ । आ । ग॒त॒म् । न॒रा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣethāṃ* ← *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
@@ -89,36 +89,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सधस्तुती** सहभूतस्तुती **नरा** नेतारौ **इन्द्राग्नी** **यज्ञं** **जुषेथां** सेवेथाम् । **इष्टये** यागाय **सुतम्** अभिषुतं **सोमं** च **आ** **गतम्** आगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Associate in praie, accept the sacrifice; leaders of rites, **Indra** and **Agni**, come hither to the Somaeffused for this solemnity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enjoy this sacrifice to your liking, (enjoy) the pressed soma, you jointly  praised ones.  
 – Indra and Agni, come here, men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Accept our sacrifice for weal, sharers of praise! the Soma shed:  
      Indra and Agni, Heroes, come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Habt an dem Opfer Wohlgefallen, um gern zu kommen, an dem ausgepreßten Soma, ihr vereint Gepriesene! Indra und Agni kommet her, ihr Herren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniesst das Opfer euch zur Lust, ihr gleich an Ruhm, den Somasaft, O Männer, Indra-Agni, kommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайтесь жертвой – для усиления,  
 Выжатым сомой, о вы двое вместе восхваленные!  

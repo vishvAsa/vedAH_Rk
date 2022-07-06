@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवे꣡भ्यस् त्वा म꣡दाय कं꣡  
 सृजान꣡म् अ꣡ति मेषि꣡यः  
 सं꣡ गो꣡भिर् वासयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सम् । गोभिः॑ । वा॒स॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devebhyas* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
@@ -84,7 +84,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **मेष्यः** अवेर्लोमानि **कम्** उदकं च **अति** अभि **सृजानं** **त्वा** त्वां **देवेभ्यः** देवानाम् । विभक्तिव्यत्ययः । **मदाय** मदार्थं **गोभिः** गोविकारैः पयोभिः **सं** वासयामसि संवासयामः ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,29 +95,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 On the water: kam = water; as an adverb, 'surely'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the gods, for their exhilaration, you who are surging through  the ewes  
 do we clothe with cows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When through the filter thou art poured, we clothe thee with a robe of milk  
      To be a gladdening draught for Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, der für die Götter zum Rausch über die Schafhaare ergossen wird, hüllen wir mit Kuhmilch ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, der du strömst durchs Widderfell, umkleiden wir mit Milch der Kuh, Zum Rausche für die Götter dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, вылитого сквозь (сито) из овечьей шерсти  
 Для богов, для опьянения,  

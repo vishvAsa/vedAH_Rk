@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्रिम् अ꣡नु स्वरा꣡जियम्  
 अग्नि꣡म् उक्था꣡नि वावृधुः  
 वि꣡श्वा अ꣡धि श्रि꣡यो दधे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 विश्वाः॑ । अधि॑ । श्रियः॑ । द॒धे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atrim* ← *atri*
 - \[noun\], accusative, singular, masculine
@@ -91,20 +91,20 @@ genre M
 अत्रिंशत्रूणामन्नानां वासभ्क्तं स्वराज्यं स्वयमेव राजमानंस्वाराज्यमनु अभिलक्ष्यवाग्निं उक्था- निशस्त्राणिववृधुः वर्धयन्ति सचाग्निर्विश्वाः सर्वाःश्रियःशोभाः अधिदधे अधिकं धारयति ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Our praises have increased the self-irradiating devouringn **Agni**; he is possessed of all glory.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Atri and Agni, (each) according to his own sovereignty, have the solemn  pronouncements strengthened.  
 He has laid on himself all beauties.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -114,28 +114,28 @@ As the just-mentioned structural device expires in 4a, another takes its place. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him Atri, Agni, have our songs Strengthened according to his sway:  
      All glories hath he made his own.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The hymns have strengthened Agni the devourer 1 along (the extent of) his own royalty 2. He has assumed every beauty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Atri nach seiner Selbstherrlichkeit, den Agni haben die Lieder gestärkt. Alle seine Herrlichkeit hat er angelegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der nach eigner Macht verzehrt, den Agni stärkt der Sprüche Schall, Er kleidet sich in volle Pracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни подкрепили гимны,  
 (Подгоняя) пожирающего к своевластью.  

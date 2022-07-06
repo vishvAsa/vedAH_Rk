@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प प्रा꣡गात् स्म꣡न्° मे अधायि म꣡न्म  
 देवा꣡नाम् आ꣡शा उ꣡प वीत꣡पृष्ठः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡नाम् पुष्टे꣡ चकृमा सुब꣡न्धुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अनु॑ । ए॒न॒म् । विप्राः॑ । ऋष॑यः । म॒द॒न्ति॒ । दे॒वाना॑म् । पु॒ष्टे । च॒कृ॒म॒ । सु॒ऽबन्धु॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -135,42 +135,42 @@ popular
 **मन्म** मननीयं फलं **सुमत्** **उप** **प्रागात्** उपप्रैतु । ‘सुमत्स्वयमित्यर्थः' ( निरु. ६.२२ ) इति यास्कः । यद्वा । स्वयमेव मादयितृतमे मयि **अधायि** धीयते । फलभूतः अश्वः आगतः स च मया धृतः इत्यर्थः । किमर्थम् । **वीतपृष्ठः** साधुपोषणेन प्राप्तपश्चाद्भागः कान्तपृष्ठो वा । अत्यन्तं दृप्तः इत्यर्थः। तादृशोऽयं **देवानामाशाः** पूरयितुम् **उप** गच्छतु । यागार्थमागतम् **एनं** **सुबन्धुं** शोभनबन्धनमश्वं **देवानाम्** आशास्यमानानां **पुष्टे** पोषणाय **चकृम** कुर्मः । तं च **विप्राः** मेधाविन ऋत्विजः **ऋषयः** अतीन्द्रियद्रष्टारोऽन्ये वा विप्रा ऋषयश्च **अनु** **मदन्ति** अनुमोदन्ताम् । सम्यक् कृतमिति परितुष्यन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May my desire be of itself accomplished, such as it has been entertained, that the smooth-backed steed should come to (gratify) the expectations of the gods; we have made him well-secured for the nutriment of the gods; let the wise saints now rejoice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (When) he went forth, at that same time my thought was produced— (when) the straight-backed (horse went forth) to the regions of  
 the gods.  
 The inspired seers cheer him on. We have made him well connected to  the prospering of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I analyse prā́gāt as pra-ágāt, rather than Pp. prá agāt -- in other words with an accented verb, which is in a non overtly marked subordinate clause, with adhāyi in the main clause. I then supply the same verb again in b. This may seem over-tricky, but it avoids taking smát … mánma as a parenthesis and ties together the two ritual actions, the procession of the horse and the production of the poem.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forth, for the regions of the Gods, the Charger with his smooth back is come my prayer attends him.  
      In him rejoice the singers and the sages. A good friend have we won for the Gods' banquet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist in die Gefilde der Götter eingegangen, der gradrückige Renner - ein schönes Gedicht ist von mir gemacht. Die redekundigen Rishi´s jubeln ihm nach. Wir haben ihn zu einem guten Genossen im Gestüte der Götter gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Ross mit glattem Rücken ist vorgeschritten, – mein Gebet ist ihm mitgegeben – zu den Oertern der Götter, ihm jauchzen die begeisterten Sänger nach; wir haben es bei dem Mahle den Göttern verwandt gemacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он вошел в пределы богов, (конь) с гладкой спиной -  
 Мною сложена молитва, сопровождающая (его).  

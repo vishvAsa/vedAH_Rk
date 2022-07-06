@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयं꣡ न उस्रा꣡ प्रथमा꣡ सुदेवि꣡यं  
 रेव꣡त् सनि꣡भ्यो रेव꣡ती वि꣡ उछतु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ॒रे । म॒न्युम् । दुः॒ऽवि॒दत्र॑स्य । धी॒म॒हि॒ । स्व॒स्ति । अ॒ग्निम् । स॒म्ऽइ॒धा॒नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -120,7 +120,7 @@ genre M;; repeated line
 **रेवती** धनवती **प्रथमा** मुख्या **इयम्** **उस्रा** पापानामुत्सारिणी उषाः **सुदेव्यं** शोभनदेवार्हं **रेवत्** धनवत् प्रधानयागकालत्वं **सनिभ्यः** भजमानेभ्यः **नः** अस्मभ्यं प्रयच्छन्ती **व्युच्छतु** तमांसि विवासयतु । किंच **दुर्विदत्रस्य** दुर्धनस्य पुरुषस्य **मन्युं** क्रोधम् **आरे** दूरे **धीमहि** निधीमहि । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M;; repeated line
 We consideṛ..remote: we put it far off
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This foremost ruddy one here, *this lovely goddess—let her, the rich  lady, dawn richly for our gain.  
 In the distance (from us) we would set the fury of the one who is bad to  meet. – We beseech Agni, when he is kindled, for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this first Dawn bring us the host of gracious Gods: rich, may it richly shine for us who strive for wealth.  
      The wrath of the malignant may we keep afar. We pray to kindled Agni for feilicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese reiche Usas soll uns als erste reichlich Glück für die Gewinne erstrahlen. Weit weg bannen wir den üblen Sinn des Unzugänglichen. - Um Heil bitten wir den entflammten Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns strahle diese frühste Morgenröthe her der Götter Huld, die reiche, Reichthum zum Geschenk; Wir jagen weit des Missethäters Grimm hinweg; um Segen flehn wir den entflammten Agni an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта утренняя заря, богатая, пусть как первая  
 Богато воссветит нам расположенность богов!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् उद्व꣡तो निव꣡तो या꣡सि ब꣡प्सत्  
 पृ꣡थग् एषि प्रगर्धि꣡नीव से꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡प्तेव श्म꣡श्रु वपसि प्र꣡ भू꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒दा । ते॒ । वातः॑ । अ॒नु॒ऽवाति॑ । शो॒चिः । वप्ता॑ऽइव । श्मश्रु॑ । व॒प॒सि॒ । प्र । भूम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -125,37 +125,37 @@ popular
 **यत्** यदा **उद्वतः** उद्गतानुच्छ्रितान् **निवतः** नीचीनास्तरुगुल्मादीन् हे अग्ने **बप्सत्** दहन **यासि** प्राप्नोषि तदानीं बह्वीभिर्ज्वलाभिः पृथक् विभिन्नः सन् **एषि** गच्छसि । तत्र दृष्टान्तः । **प्रगर्धिनीव** **सेना** । ‘ गृधु अभिकाङ्क्षायाम् । परराष्ट्रं गच्छतो राज्ञः सेना तत्रत्यं धनजातमभिकाङ्क्षमाणा इतस्ततः संघशो गच्छति तद्वत् । **वातः** वायुश्च **ते** तव **शोचिः** दीप्तिं **यदा** यस्मिन् काले **अनुवाति** अनुगुणं प्रवर्तते तदा **श्मश्रु** । श्म शरीरम् । तन्न श्रितं स्थितं केशरोमादिकं **वप्तेव** यथा वप्ता नापितो वपति मुण्डयति तथा **भूम** भूमिं **प्र** **वपसि** प्रकर्षेण मुण्डयसि । सर्वं वनं निःशेषेण दहसीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When you move burning above and burning below, you scatter yourself like a devastating host; whenthe wind fans your flame, you shave the earth as a barber shaves a beard.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you travel to the heights and the depths, snapping, you go in all  directions, like an army in greedy pursuit.  
 When the wind fans your flame, like a barber a beard you shave the  
 ground.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O'er hills through vales devouring as thou goest, thou partest like an army fain for booty  
      As when a barber shaves a beard, thou shavest earth when the wind blows on thy flame and fans it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du fressend in die Höhen und Tiefen gehst, dann zerstreust du dich wie ein beutegieriges Heer. Wenn der Wind in deiner Flamme herbläst, so scherst du die Erde wie der Bartscherer den Bart.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn aufwärts du und abwärts kauend wanderst, so eilst du weit hin, wie ein Heer nach Beute, Wenn deinem hellen Licht der Windzug nachweht, scheerst du die Erde wie den Bart der Scheerer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ты движешься, пожирая, по высотам (и) низинам,  
 Ты разлетаешься в разные стороны, как жадное до добычи войско,  

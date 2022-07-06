@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां व꣡हिष्ठा इह꣡ ते꣡ वहन्तु  
 र꣡था अ꣡श्वास उष꣡सो वि꣡उष्टौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मि꣡न् यज्ञे꣡ वृषणा मादयेथाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒मे । हि । वा॒म् । म॒धु॒ऽपेया॑य । सोमाः॑ । अ॒स्मिन् । य॒ज्ञे । वृ॒ष॒णा॒ । मा॒द॒ये॒था॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,20 +123,20 @@ genre M
 हे अश्विनौ **इह** यज्ञे **वहिष्ठाः** वोढृतमाः **ते** प्रसिद्धाः **रथाः** रंहणा गन्तारः **अश्वासः** **वां** युवाम् **उषसः** उषोदेवतायाः **व्युष्टौ** व्युच्छनकाले **आ** **वहन्तु** समन्तात् नयन्तु । **हि** यस्मात् कारणात् हे **वृषणा** वृषणौ कामानां वर्षितारौ हे अश्विनौ **इमे** **सोमाः** **वां** युवां **मधुपेयाय** मधोः सोमस्य पानाय **अस्मिन्यज्ञे** **मादयेथां** हर्षयेथाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those robust and active horses bring you, (**Aśvins**), hither at the breaking of the dawn, and may these **Soma** juices prepared, showerers (of benefits), for your drinking, exhilarate you at this (our sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the best conveyors convey you two [=Aśvins] here—the (best)  chariots and horses at the break of dawn—  
 for here are soma drinks for you two to drink the honey. At this sacrifice  here, o bulls, exhilarate yourselves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The splv. váhiṣṭha- in the pl. is found in both 13.4 and 14.4; the verb of motion is yāsi in 13.4 and vahantu in 14.4.
 
@@ -145,28 +145,28 @@ The referent of the 2nd du. must be the Aśvins (so also Oldenberg [SBE], Witzel
 since soma and honey are the drinks of choice of the Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May those most powerful steeds and chariot bring you, O Asvins, hither at the break of morning.  
      Here for your drauglit of meath are Soma juices: at this our sacrifice rejoice, ye Mighty.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May those chariots and horses, most ready to drive, drive you 1 hither at the break of dawn. For these Somas are for you that you may drink the honey-drink 2. Rejoice, O manly ones, at this sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch beide sollen die bestfahrenden Wagen und Rosse beim Aufleuchten des Morgens hierher fahren, denn diese Soma´s sind für euch zum Mettrunk. Ergötzet euch, ihr Bullen, bei diesem Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch Ritter mögen her die besten Wagen, und Rosse fahren bei des Morgens Leuchten; Zum süssen Trunk stehn euch bereit die Soma's berauscht euch denn bei diesem Fest, o Stiere.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть привезут сюда вас двоих кони, которые возят лучше всех,  
 (И) колесницы, когда зажигается Ушас!  

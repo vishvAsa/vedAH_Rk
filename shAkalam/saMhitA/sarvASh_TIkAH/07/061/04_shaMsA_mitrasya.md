@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡सा मित्र꣡स्य व꣡रुणस्य धा꣡म  
 शु꣡ष्मो रो꣡दसी बद्बधे महित्वा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ यज्ञ꣡मन्मा वृज꣡नं तिराते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अय॑न् । मासाः॑ । अय॑ज्वनाम् । अ॒वीराः॑ । प्र । य॒ज्ञऽम॑न्मा । वृ॒जन॑म् । ति॒रा॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃsā* ← *śaṃs*
 - \[verb\], singular, Present conjunctive (subjunctive)
@@ -109,14 +109,14 @@ genre M
 हे ऋषे **मित्रस्य** **वरुणस्य** च ”धाम तेजःस्थानं **शंस** स्तुहि। ययोर्दैवयोः **शुष्मः** बलं **रोदसी** द्यावापृथिव्यौ सह वर्तमाने **महित्वा** स्वमहत्त्वेन **बद्बधे** बध्नाति पृथक् स्थापयति इयं पृथिवीयं द्यौरिति पृथक्करोति । ‘द्यावापृथिवी सहास्ताम् ' (तै. ब्रा. १. १. ३. २) इति श्रुतेः । **अयज्वनाम्** अननुष्ठातॄणां **मासाः** कालावयवाः **अवीराः** अपुत्रा एव **अयन्** यन्तु गच्छन्तु । तद्विपरीतः **यज्ञमन्मा** यज्ञार्थं  मतिमान् यज्वा **वृजनं** बलं **प्र** **तिराते** प्रवर्धयतु । प्रपूर्वस्तिरतिर्वर्धनार्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise the splendour of **Mitra** and **Varuṇa**, whose strength, by its might, keeps heaven and earthasunder; may the days of those who differ not worship pass without **male** descendants; amy he who delights insacrifice increase in prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I shall praise the institutes of Mitra and Varuṇa: in its greatness their  unbridled power ever presses upon the two world-halves.  
 
@@ -124,28 +124,28 @@ The months of those not sacrificing will pass without bringing heroes,  but he w
 settlement.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I praise the strength of Varuna and Mitra that strength, by mightiness, keeps both worlds asunder.  
      Heroless pass the months of the ungodly he who loves sacrifice makes his home enduring.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Praise thou the law of Varuṇa and Mitra: Their force the two worlds keeps with might asunder. The months of impious men shall pass by sonless; May those on worship bent increase their homestead.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich will das Werk von Mitra und Varuna preisen; ihr Eifer hält Himmel und Erde mächtig in Schranken. Die Monde sollen den Opferlosen ohne Söhne vergehen; der Opferwillige soll seinen Anhang mehren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Varuna und Mitra Herrschaft preis' ich, ihr hoher Muth bestürmet Erd' und Himmel; An Helden arm verrinnt des Frevlers Leben, der fromme Beter mehrt die Schar der Seinen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу провозгласить установление Митры (и) Варуны:  
 (Их) пыл раздвинул (своей) мощью две половины вселенной.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ मे अक्षिप꣡च् चन꣡  
 अ꣡छान्त्सुः प꣡ञ्च कृष्ट꣡यः  
 कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 कु॒वित् । सोम॑स्य । अपा॑म् । इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -80,35 +80,35 @@ popular;; repeated line
 **चन** इति निपातसमुदायोऽप्यर्थे। **पञ्च** **कृष्टयः** अपि निषादपञ्चमाश्चत्वारो वर्णाः पञ्च जनाः । यद्वा । देवमनुष्यादयः । **मे** मदीयम् **अक्षिपत्** चक्षुःपतनं दृष्टिसंचारं **नहि** **अच्छान्त्सुः** न ह्यपवृण्वन्ति° । न हि द्रष्टुर्दृष्टेर्विपरिलोपो विद्यते ' (श. ब्रा. १४. ७. १. २३ ) इति हि श्रुतेः ।  ‘ छदि अपवारणे ' । ' चुरादीनाम् ' इति वा ण्यन्तत्वादत्र ण्यभावे लुङि हलन्तलक्षणा वृद्धिः (पा. सू: ७. २. ३ ) ॥ यस्माद्बहुवारं सोमम् **अपाम्** ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The five castes have not eluded the gloance of my eye, for I have often drunk of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because the five peoples have not appeared to me to be even a speck... – Have I drunk of the soma? Yes!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not as a mote within the eye count the Five Tribes of men with me:  
      Have I not drunk of Soma juice?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn die fünf Völker sind mir nicht einmal so viel wie ein Augenstäubchen erschienen. - Ich merke, daß ich Soma getrunken habe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kaum wie ein Stäubchen dünken mir die Menschenstämme alle fünf; Hat mich der Soma denn berauscht?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Недостойными даже взгляда  
 Показались мне пять народов –  

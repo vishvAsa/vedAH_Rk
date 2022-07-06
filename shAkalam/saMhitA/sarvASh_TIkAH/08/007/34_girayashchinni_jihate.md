@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गिर꣡यश् चिन् नि꣡ जिहते  
 प꣡र्शानासो म꣡न्यमानाः  
 प꣡र्वताश् चिन् नि꣡ येमिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 पर्व॑ताः । चि॒त् । नि । ये॒मि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *girayaś* ← *girayaḥ* ← *giri*
 - \[noun\], nominative, plural, masculine
@@ -81,7 +81,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 मरुत्सु आगच्छत्सु **गिरयश्चित्** गिरयोऽपि शिलोच्चया अपि **पर्शानासः** पीड्यमानाः । यद्वा । मरुद्भिः स्पृश्यमानाः । अत एव **मन्यमानाः** अभिमन्यमाना बाध्यमानाः सन्तः **नि** **जिहते** नितरां गच्छन्ति । मरुद्वेगेन स्थानात् प्रच्यवन्ते । तथा **पर्वताश्चित्** पर्ववन्तो मेघा अपि तदीयेन गमनेन **नि** **येमिरे** नियम्यन्ते । यद्वा । गिरयः क्षुद्राः शिलोच्चया महान्तः पर्वताः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,39 +96,39 @@ Niyemire = niyamyante;
 Parvatāḥ = **meghāḥ**, the clouds, or largehills, mahāntāḥ śīloccayāḥ, in contract to girayaḥ = **kṣudrāḥ** śīloccayāḥ, small heaps of rock
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even the peaks bend down, thinking themselves depths;  
 even the mountains hold themselves down.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On párśāna- see comm. ad VII.104.5. Our passage here is the best support for the usual gloss ‘depth, deep place’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Before them sink the very hills deerning themseives abysses: yea,  
      Even the mountains bend them down.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The very hills before them sink, Deeming themselves but side-ravines; The very mountains bow down low.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst die Berge ducken sich, da sie sich für Senken halten, selbst die Gebirge gaben nach.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Berge selbst, sie sinken hin, als wären tiefe Gründe sie, Und auch die Felsen neigten sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже горы склоняются,  
 Считая себя впадинами,  

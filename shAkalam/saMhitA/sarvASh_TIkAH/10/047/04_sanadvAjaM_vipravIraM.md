@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सन꣡द्वाजं वि꣡प्रवीरं त꣡रुत्रं  
 धनस्पृ꣡तं शूशुवां꣡सं सुद꣡क्षम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं चित्रं꣡ वृ꣡षणं रयिं꣡ दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 द॒स्यु॒हन॑म् । पूः॒ऽभिद॑म् । इ॒न्द्र॒ । स॒त्यम् । अ॒स्मभ्य॑म् । चि॒त्रम् । वृष॑णम् । र॒यिम् । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanadvājaṃ* ← *sanat* ← *san*
 - \[verb noun\]
@@ -129,7 +129,7 @@ genre M;; repeated line
 **सनद्वाजं** लब्धान्नं विप्रवीरं मेधाविनं पुत्रं **तरुत्रं** तारकं **धनस्पृतं** धनानां पूरकं स्प्रष्टारं वा । स्पृणोतेः स्पृशतेर्वोत्तरपदम्। **शूशुवांसं** वर्धमानं **सुदक्षं** शोभनबलं **दस्युहनं** शत्रूणां हन्तारं **पूर्भिदं** शत्रूणां पुरां भेत्तारं **सत्यं** सत्यकर्माणम् । शिष्टमुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ genre M;; repeated line
 Comprising intelligent male offspring: or, as an epithet of Indra, the heroof the sages
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Winning prizes, having poets as heroes, overwhelming, gaining the stakes,  swelling with strength, of good skill,  
 Dasyu-smashing, stronghold-splitting—(above all) real, o Indra. – To us  give bright, bullish wealth.1454 X.48
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Victorious, winning strength, with hero sages, confirmed in power, most useful, wealth-attracting,  
      True, Indra! crushing forts and slaying Dasyus: vouchsafe us mighty and resplendent riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Lohn verdient, aus beredten Männern besteht, siegreich ist, den Siegerpreis davonträgt, überlegen, sehr tüchtig, die Dasyu´s erschlägt, burgbrechend, zuverlässig, o Indra; - Gib uns den ansehnlichen bullenhaften Schatz;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Labung bringt, der Beute schafft und Stärke, den kräft'gen, wahren, den die Männer preisen, Der Feinde schlägt und Burgen bricht, o Indra, den mannichfachen, starken Reichthum schenk uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Захватывающее награды, состоящее из вдохновенных мужей победоносное,  
 Срывающее ставки (в игре), возрастающее, очень действенное,  

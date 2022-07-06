@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡र् आविध्यद् गिरि꣡भ्य आ꣡  
 धार꣡यत् पक्व꣡म् ओदन꣡म्  
 इ꣡न्द्रो बुन्दं꣡ सु꣡आततम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 इन्द्रः॑ । बु॒न्दम् । सुऽआ॑ततम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nir* ← *niḥ*
 - \[adverb\]
@@ -86,20 +86,20 @@ genre M
 अयम् **इन्द्रः** **गिरिभ्यः** मेघेभ्यः सकाशादुदकं निर्गमयितुं **निराविध्यत्** संप्राहरत् तानेव मेघान् । किं कुर्वन् । **पक्वं** परिपक्वम् **ओदनं** कुर्वन् मनुष्याणामर्थाय । केन साधनेनेति तदुच्यते । **बुन्दम्** इषुं **स्वाततं** सुष्ठु सर्वतो विस्तृतमादायेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** smote (rain) from the clouds with his far-stretched arrow, he secured boiled rice (for men).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He pierced (the boar Emuṣa), pierced the cooked rice porridge forth  from the mountains, and held it fast.  
 Indra (took) the well-stretched Bunda-bow.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -109,23 +109,23 @@ The name índraḥ is identically positioned in all three verses of this tṛca,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Down from the mountains Indra shot hither his well-directed shaft:  
      He gained the ready brew of rice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von den Bergen aus - während er den gekochten Reisbrei festhielt - schoß Indra den gutgespannten Bundabogen ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die gare Speise rettend schoss nun Indra aus der Wolkenkluft Den wohlgezielten Pfeil hervor.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сберегая вареную похлебку,  
 Индра выстрелил из гор  

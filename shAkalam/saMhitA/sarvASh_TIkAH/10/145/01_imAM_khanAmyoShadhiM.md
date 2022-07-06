@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमां꣡ खनामि ओ꣡षधिं  
 वीरु꣡धम् ब꣡लवत्तमाम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡या संविन्द꣡ते प꣡तिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 यया॑ । स॒ऽपत्नी॑म् । बाध॑ते । यया॑ । स॒म्ऽवि॒न्दते॑ । पति॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -86,7 +86,7 @@ popular;; epic anuṣṭubh (525)
 **इमामोषधिं** पाठख्यां **वीरुधं** लतारूपां **बलवत्तमां** स्वकार्यकरणे अतिशयेन बलवतीं **खनामि** उन्मूलयामि । **यया** ओषध्या **सपत्नीम्** । समान एकः पतिर्यस्याः सा सपत्नी । तामेषा वधूः **बाधते** हिनस्ति । **यया** च **पतिं** भर्तारं **संविन्दते** सम्यगसाधारण्येन लभते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,29 +97,29 @@ popular;; epic anuṣṭubh (525)
 The deity of aim: **Āpastamba** says a wife who wishes to get rid of a rival mustrepeat this hymn silently three times on going to bed, and then embrace her husband. The creeper referred to inthe hymn is the **patha**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This plant do I dig, most powerful shoot,  
 with which (a woman) repels her cowife, with which (she) acquires her  own husband completely.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FROM out the earth I dig this plant, a herb of most effectual power,  
      Wherewith one quells the rival wife and gains the husband for oneself.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich grabe dies Kraut, das kräftigste Gewächs, durch das man die Nebenbuhlerin verdrängt, durch das man den Gatten ganz gewinnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich grabe diese Pflanze aus, dies Kraut, das reich an Kräften ist, Durch das die Mitfrau man vertreibt, durch das den Gatten man gewinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я копаю эту траву,  
 Самое сильное растение,  

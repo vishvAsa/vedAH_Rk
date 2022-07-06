@@ -9,7 +9,7 @@ title = "+075"
 अध्यायोपाकरणोत्सर्जनयोर्मण्डलान्तहोमे यो नः स्वः' इत्येषा ( आश्व. गृ. ३. ५. ७ ) ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 75 (516)  
 Weapons  
@@ -20,7 +20,7 @@ The hymn is more or less metrically unified for the first ten verses, and verse 
 sion. The final verse (19) calls down destruction on every type of enemy and affirms  the primacy of the protective sacred formulation—as “inner armor,” thus paired  with the outer armor (the same word várman) found in the first verse of the hymn.  Thus, whether secondarily or not, the hymn has a faint ring structure.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Weapons Renou EVP XVI (1976): 109-11 provides notes; it is tr. in the earlier Hymnes spéculatifs (1956) but without philological notes.
 

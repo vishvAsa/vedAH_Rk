@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्र रा꣡जा वैवस्वतो꣡  
 य꣡त्रावरो꣡धनं दिवः꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 यत्र॑ । अ॒मूः । य॒ह्वतीः॑ । आपः॑ । तत्र॑ । माम् । अ॒मृत॑म् । कृ॒धि॒ । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatra*
 - \[adverb\]
@@ -125,20 +125,20 @@ popular;; epic anuṣṭubh (525);; repeated line
 **यत्र** यस्मिँल्लोके वैवस्वतः विवस्वत्पुत्रः **राजा** भवति । **यत्र** च लोके **दिवः** आदित्यस्य **अवरोधनं** भूतानां प्रवेशनम् । किंच यत्र लोके यह्वती: महत्यः **अमूः** इमा गङ्गाद्याः **आपः**। तिष्ठन्ति । तत्र तादृशे लोके **माममृतं** मरणधर्मरहितं कृधि कुरु । मम देवत्वं प्रापयेत्यर्थः । ततः कारणात् **परि** **स्रव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where **Vivasvat**'s son is king, where the inner chamber of the sun (is), where these great waters (are), there make me immortal; flow, **Indu**, for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where the son of Vivasvant is king, where there is a ladder down from  heaven,  
 where those youthfully exuberant waters are, there make me immortal. – O drop, flow around for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard view of avaródhanam is that it defines a closed or fortified place (Geldner “der verschlossene Ort des Himmels”; Renou “le rempart du ciel”; Doniger [133] “where heaven is enclosed”) - deriving ródhana- from √rudh ‘confine, hem in’. But I take it instead to the other √rudh (/ruh) ‘grow’ and interpr. it as ‘means of ascent’, exactly like róhaṇaṃ diváḥ in I.52.9 (q.v.). So my vision of heaven is a more welcoming place, that extends a ladder down for us to make the ascent.
 
@@ -152,23 +152,23 @@ In addition to the fifth pāda refrain found throughout the hymn (as well as IX.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make me immortal in that realm where dwells the King, Vivasvan's Son,  
      Where is the secret shrine of heaven, where are those waters young and fresh. Flow, Indu, flow for Indra's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo Vivasvat´s Sohn, der Yama, König ist, wo der verschlossene Ort des Himmels ist, wo jene jüngsten Gewässer sind, dort mache mich unsterblich! Fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo König ist Vivasvats Sohn, und wo des Himmels Heiligthum, Wo ewig strömt des Wassers Born, da mache du unsterblich mich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где царь – сын Вивасвата,  
 Где замкнутое пространство неба,  

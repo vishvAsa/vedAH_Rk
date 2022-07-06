@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्माद् विरा꣡ळ् अजायत  
 विरा꣡जो अ꣡धि पू꣡रुषः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पश्चा꣡द् भू꣡मिम् अ꣡थो पुरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 सः । जा॒तः । अति॑ । अ॒रि॒च्य॒त॒ । प॒श्चात् । भूमि॑म् । अथो॒ इति॑ । पु॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
@@ -128,7 +128,7 @@ popular;; epic anuṣṭubh (380)
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,30 +141,30 @@ and afterwards (created) the earth (and) then corporeal forms.”
 From him: tasmāt = from that one-fourth; or, from the spirit who by his delusion created the body of **Virāṭ**, i.e., the egg of **Brahma** and entered into it in the form oflife
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From him the Virāj was born; from the Virāj the Man.  
 Upon his birth, he reached beyond the earth from behind and also from  in front.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From him Viraj was born;  
 again Purusa from Viraj was born.  
 As soon as he was born he spread eastward and westward o'er the earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus ihm ward die Viraj geboren, aus der Viraj der Purusa. Geboren ragte er hinten und vorn über die Erde hinaus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch. Als er geboren war überragte er die Erde von hinten und von vorn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От него Вирадж родилась,  
 От Вираджи – Пуруша.  

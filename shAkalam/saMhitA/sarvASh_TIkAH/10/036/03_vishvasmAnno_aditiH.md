@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वस्मान् नो अ꣡दितिः पातु अं꣡हसो  
 माता꣡ मित्र꣡स्य व꣡रुणस्य रेव꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 स्वः॑ऽवत् । ज्योतिः॑ । अ॒वृ॒कम् । न॒शी॒म॒हि॒ । तत् । दे॒वाना॑म् । अवः॑ । अ॒द्य । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvasmān* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
@@ -120,36 +120,36 @@ genre M;; repeated line
 **रेवतः** धनवतः **मित्रस्य** **वरुणस्य** च धनवतोर्मित्रावरुणयोः **माता** जननी **अदितिः** देवी **नः** अस्मान् **विश्वस्मात्** सर्वस्मात् **अंहसः** पापात् **पातु** रक्षतु । किंच वयम् **अवृकं** बाधकरहितं **स्वर्वत्** सर्वं **ज्योतिः** तेजः **नशीमहि** । नशिः पलायनकर्मा । पलायनं च शीघ्रगमनम् । शीघ्रं प्राप्नुम इत्यर्थः । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Aditi**, the mother of the opulent **Mitra** and **Varuṇa**, preserve us from all sin, may we hasten tocelestial light, which is free from oppressors; we solicit today this protection of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Aditi protect us from every narrow strait—the mother of Mitra and  of Varuṇa the wealthy.  
 Might we attain sun-filled light that keeps the wolf away. – This help of  the gods we choose today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mother of Mitra and of opulent Varuna, may Aditi preserve us safe from all distress.  
      May we obtain the light of heaven without a foe. We crave this gracious favour of the Gods to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vor aller Not soll uns Aditi schützen, die Mutter Mitra´s, Varuna´s, des reichen. Wir möchten das sonnige, gefahrsichere Licht erreichen. - Diese Gunst der Götter erbitten wir heute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schütze uns vor jedem Drangsal Aditi, die Mutter Mitra's und des reichen Varuna; Des Himmels Licht, das holde, werde uns zu Theil, die Gunst der Götter wünschen heute wir herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Адити защитит нас от всякой беды,  
 Мать Митры, Варуны богатого!  

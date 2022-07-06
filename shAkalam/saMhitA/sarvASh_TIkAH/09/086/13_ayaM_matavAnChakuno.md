@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् मत꣡वाञ् छकुनो꣡ य꣡था हितो꣡  
 अ꣡व्ये ससार प꣡वमान ऊर्मि꣡णा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शु꣡चिर् धिया꣡ पवते सो꣡म इन्द्र ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 तव॑ । क्रत्वा॑ । रोद॑सी॒ इति॑ । अ॒न्त॒रा । क॒वे॒ । शुचिः॑ । धि॒या । प॒व॒ते॒ । सोमः॑ । इ॒न्द्र॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -124,20 +124,20 @@ genre M;; repeated line
 **अयं** सोमः **मतवान्** । मतं संमतं प्रियं स्तोत्रम् । तद्वान् **पवमानः** पूयमानः शोध्यमानश्च सन् **हितः** प्रेरितः **शकुनः** पक्षी **यथा** शीघ्रं गच्छति तथा **अव्ये** पवित्रे **ऊर्मिणा** रसेन **ससार** गच्छति । हे **कवे** क्रान्तप्रज्ञ अनूचान वा । ये वा अनूचानास्ते कवयः' (ऐ. ब्रा. २. ३८) इति श्रुतेः । तादृश यजमान यद्वा उक्तलक्षण **इन्द्र** **ते** तव **क्रत्वा** कर्मणा **धिया** प्रज्ञया च । यद्वा । विशेषणविशेष्यभावः । धिया धारकेण क्रत्वा कर्मणा **रोदसी** **अन्तरा** रोदस्योर्द्यावापृथिव्योरन्तरा **शुचिः** **सोमः** **पवते** पूयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (**Soma**) possessed of agreeable (praise) filtered, and sent forth, (quick) as a bird goes with a stream (of juice) through the fleece; by your sustaining act, by your intelligence, sage **Indra**, the pure Soma flows purified through both heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here, accompanied by thought, like a bird spurred on has run  into the sheep’s (fleece), purifying himself in a wave.  
 By your resolve, o sage poet, by your insight, the clear Soma purifies  himself between the two world-halves for you, o Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner identifies (n. 13a) and tr. matávān as a real past active participle (“Nachdem er sich bedacht hatte …”)(sim. Lüders 243). This seems highly unlikely to me; Whitney’s statement (Grassmann §960) should be noted: “Derivative words of this formation [=-távant- sj] are found in RV., but without anything like a participial value. The AV. has a single example … In the Brāhmaṇas also it is hardly met with.” See also Renou’s n. The fact that the base, matá-, is not found independently as a ppl. in the RV, but only once (besides here) in the cmpd. matavacas- (voc., so unaccented, I.46.5), makes the building of a past active part. to it even less likely. Instead -vantmust have its usual possessive sense and in context mean ‘accompanied by thoughts’ (like marútvant-), referring to the praises given to Soma at the ritual. These act as a spur to set the soma in motion, hence the following simile.
 
@@ -156,23 +156,23 @@ This tṛca is characterized by increasingly larger claims for Soma’s cosmic r
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This heedful Pavamana, like a bird sent forth, hath with his wave flowed onward to the fleecy sieve.  
      O Indra, through thy wisdom, b thy thought, O Sage, Soma flows bright and pure between the earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem er sich bedacht hatte, ist dieser wie ein Vogel getrieben mit der Woge auf die Schafwolle geeilt, sich läuternd. Zwischen beiden Welten wird nach deinem Sinne, o Seher, mit Kunst, o Indra, der reine Soma für dich geläutert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sein Ziel verfolgend, wie ein Falke ausgesandt ergoss er rieselnd auf die Wolle wogend sich; Durch deinen Antrieb, weiser Indra, rieselt hell mit Einsicht Soma zwischen Erd' und Himmel dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उपमं꣡ त्वा मघो꣡नां᳐  
 ज्ये꣡ष्ठं च वृषभा꣡णा᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ई꣡शानं राय꣡ ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya;; repeated line
 पू॒र्भित्ऽत॑मम् । म॒घ॒ऽव॒न् । इ॒न्द्र॒ । गो॒ऽविद॑म् । ईशा॑नम् । रा॒यः । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upamaṃ* ← *upamam* ← *upama*
 - \[noun\], accusative, singular, masculine
@@ -98,36 +98,36 @@ genre M;; Vālakhilya;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We come to you, O **Maghavan** **Indra**, the highest of **Maghavans**, the strong of bulls, the mightiestbreakere of forts, the provider of kine, the lord of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, the best of bounteous ones and most preeminent of bulls,  
 best stronghold-splitter, o bounteous Indra, finder of cows, lord of  
 wealth do we beseech for wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On rāyáḥ see VIII.46.6.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den obersten der Freigebigen und den Größten der Bullen, den ersten Burgenbrecher, freigebiger Indra, den Kuhfinder, den Reichen bitten wir um Reichtümer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als herrlichsten der Mächtigen, und als der Stiere trefflichsten, Als Reichthumsherrn, der Burgen bricht und Kühe schafft, o mächt'ger Indra, flehn wir dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, высшего из щедрых покровителей  
 И лучшего из быков,  

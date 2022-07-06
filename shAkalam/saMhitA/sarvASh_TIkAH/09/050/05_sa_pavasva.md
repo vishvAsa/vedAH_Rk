@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पवस्व मदिन्तम  
 गो꣡भिर् अञ्जानो꣡ अक्तु꣡भिः  
 इ꣡न्दव् इ꣡न्द्राय पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्दो॒ इति॑ । इन्द्रा॑य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -80,43 +80,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **मदिन्तम** मादयितृतम **इन्दो** सोम **अक्तुभिः** अञ्जनसाधनभूतैः **गोभिः** गोविकारैः पयोभिः **अञ्जानः** अज्यमानः संस्क्रियमाणः **सः** त्वम् **इन्द्राय** इन्द्रस्य **पीतये** पानाय **पवस्व**
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Most exhilarating **Indu**, being anointed with the unguents of milk and curds flow forth for **Indra**'s drinking.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, most exhilarating one, being anointed with cows as  ointments [/through the nights],  
 o drop, for Indra to drink.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda, sá pavasva madintama, is almost identical to 4a ā́pavasva madintama. This is somewhat reminiscent of the near identity of 1a and 2a.
 
 As noted in the published introduction, I consider aktúbhiḥ a pun. The first reading would be as etym. figure with añjānáḥ ‘being anointed’; cf. III.17.1 aktúbhir ajyate, VI.69.3 añjantv aktúbhiḥ. But well-attested aktúbhiḥ is otherwise a temporal designation, ‘with/through the nights’, e.g., I.50.7 áhā mímāno aktúbhiḥ “measuring the days with the nights.” In this case perhaps it would refer to the Atirātra soma sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow, Most Exhilarating! flow anointed with the milk for balm,  
      Indu, for Indra, for his drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere du dich, Berauschendster, mit der Kuhmilch als Salbe gesalbt, o Saft, für Indra zum Trunke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hell riesle, du berauschendster, gesalbt mit Milch und hellem Glanz Zum Trunk dem Indra, Indusaft!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

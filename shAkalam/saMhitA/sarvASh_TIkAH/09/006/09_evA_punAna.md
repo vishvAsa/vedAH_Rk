@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ पुनान꣡ इन्द्रयु꣡र्  
 म꣡दम् मदिष्ठ वीत꣡ये  
 गु꣡हा चिद् दधिषे गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गुहा॑ । चि॒त् । द॒धि॒षे॒ । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **मदिष्ठ** अतिशयेन मदकर सोम **इन्द्रयुः** इन्द्रकामस्त्वं **वीतये** इन्द्रस्य पानाय **एव** एवं **मदं** **पुनानः** क्षरन् **गुहा** गुहायाम् । यज्ञशालायामित्यर्थः । **गिरः** **चित्** शब्दानपि **दधिषे** । अभिषववेलायामुपरवेषु धारयसि । करोषीत्यर्थः ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,13 +93,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 You emit sounds: uparavas = round sounding holes, which are dug in the ground, and over which the two boards, used for pressing the Soma, are plural ced. These holes are said to deepen the sound of the stones with which the boards and Soma are beaten, during crushing; **guhā** cid dadhiṣe **giraḥ** = you store praises in secret (**Kātyāyana**'s **Sutra** 8.4.28
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way, as you are being purified and seeking Indra, for him to  pursue exhilaration, you most exhilarating one,  
 you make the hymns, though hidden, your own.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. picks up various expressions from the hymn: índrayúḥ (pāda a) matches up with devayúḥ (1b) and asmayúḥ (1c), thus forming a slight ring. In b mádam … vītáye “(for Indra) to pursue exhilaration / the exhilarating drink” “repairs” the slightly anomalous mádam … kṣara in 2ab (see comm. there) and also echoes 6b mádāya devávītaye. I might therefore alter the tr. to “for him to pursue the exhilarating drink.” See also punānáḥ in pāda a, repeating the same part. in 4c.
 
@@ -114,23 +114,23 @@ Note also that in the next hymn (IX.7.4a) Soma the poet clothes himself (vásān
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So pouring forth, as Indra's Friend, strong drink, best Gladdener! for the feast,  
      Thou, even in secret, storest hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also dich für Indra läuternd, daß er nach dem Rauschtrank Begehren trage, du Berauschendster, hast du Lobreden, wenn auch nur versteckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra liebend, so geklärt, zum Mahle, Rausch erregendster, Nimmst du die Lieder in dich auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так очищаемый, любящий Индру,  
 О самый пьянящий, чтоб понравилось опьянение,  

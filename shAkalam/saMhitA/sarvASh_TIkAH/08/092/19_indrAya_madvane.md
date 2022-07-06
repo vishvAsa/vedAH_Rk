@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय म꣡द्वने सुत꣡म्  
 प꣡रि ष्टोभन्तु नो गि꣡रः  
 अर्क꣡म् अर्चन्तु कार꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अ॒र्कम् । अ॒र्च॒न्तु॒ । का॒रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -81,36 +81,36 @@ genre M
 **मद्वने** । माद्यतेः क्वनिप् । मदनशीलाय **इन्द्राय** तदर्थं सुतम् अभिषुतं सोमं **नः** अस्मदीयाः **गिरः** स्तुतिलक्षणा वाचः **परि** **ष्टोभन्त** । स्तोभतिः स्तुतिकर्मा। परितः सोमं स्तुवन्तु । ततः **कारवः** स्तुतिकारिणः स्तोतारश्च **अर्कं** सर्वैरर्चनीयं सोमम् **अर्चन्तु** पूजयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let our voices praise on every side the (**Soma**) effused to the exhilarated **Indra**; let the priests dohonour to the (Soma) honoured of all.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let our hymns encircle with rhythm the soma pressed for Indra for  exhilaration.  
 Let the bards chant their chant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra, Lover of Carouse, loud be our songs about the juice:  
      Let poets sing the song of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem sich gern berauschenden Indra sollen unsere Loblieder rings um den ausgepreßten Saft erschallen; die Dichter sollen das Preislied singen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rings um des lust'gen Indra Trank ertöne unsrer Lieder Schall; Die Sänger singen Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

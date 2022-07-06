@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वावति प्रथमो꣡ गो꣡षु गछति  
 सुप्रावी꣡र् इन्द्र म꣡र्तियस् त꣡वोति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सि꣡न्धुम् आ꣡पो य꣡थाभि꣡तो वि꣡चेतसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 तम् । इत् । पृ॒ण॒क्षि॒ । वसु॑ना । भवी॑यसा । सिन्धु॑म् । आपः॑ । यथा॑ । अ॒भितः॑ । विऽचे॑तसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvāvati* ← *aśvāvat*
 - \[noun\], locative, singular, masculine
@@ -127,7 +127,7 @@ genre M
 हे **इन्द्र** यः **मर्त्यः** मनुष्यः **तवोतिभिः** त्वदीयैः रक्षणैः **सुप्रावीः** सुष्ठु प्ररक्षितो भवति स मर्त्यः **अश्वावति** बहुभिरश्वैर्युक्ते गृहे वर्तमानः **गोषु** प्राप्तव्येषु **प्रथमः** **गच्छति** । सर्वेभ्यो यजमानेभ्यः पूर्वमेव गोमान् भवतीत्यर्थः । त्वं **तमित्** तमेव पुरुषं **भवीयसा** बहुतरेण भवितृतमेन वा शतसहस्रादिसंख्यायुक्तेन **वसुना** धनेन **पृणक्षि** संपृक्तं संपूर्णं करोषि । तत्र दृष्टान्तः । **विचेतसः** विशिष्टज्ञानहेतुभूताः **आपः** **यथा** **अभितः** सर्वासु दिक्षु **सिन्धुं** समुदं पूरयन्ति तद्वत् ॥ अश्वावति । ' मन्त्रे सोमाश्च° ' इति मतौ दीर्घत्वम् । सुप्रावीः ।“ अवितॄस्तृतन्त्रिभ्य ईः ' (उ.सू.३.४३८) इति अवतेः ईकारप्रत्ययः । ऊतिभिः ।  ‘ ऊतियूति' इत्यादिना क्तिनः उदात्तत्वम् । पृणक्षि । ‘पृची संपर्क' । रौधादिकः । भवीयसा । बहुशब्दात् ईयसुनि • बहोर्लोपो भू च बहोः । इति बहुशब्दस्य भूभावः ईयसुनः ईकारलोपश्च । अत्र तु छान्दसत्वात् ईकारलोपो न क्रियते भूभावश्च क्रियते । अथवा भवितृशब्दात् ‘तुश्छन्दसि' इति ईयसुन्। “ तुरिष्ठेमेयःसु' इति तृलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,7 +138,7 @@ genre M
 Vicetasaḥ āpaḥ, unconscious rivers is explained: 'the sources of excellent knowledge: viśiṣṭajña)nahetubhūtaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The first to come to (wealth) consisting of horses, to cows with  
 your help, o Indra, is the mortal who pursues (his ritual duties)  
@@ -147,28 +147,28 @@ Just him do you engorge with more abundant goods, as waters,
 conspicuous from everywhere, engorge a river.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most tr. take vícetas- as ‘perceptive’ vel sim. (Geldner “die verständigen (?) Gewässer,” Renou “les eaux discernantes”), but in this context it makes more sense to use the intransitive sense of the root √cit ‘be perceptible, appear’ rather than the I/T ‘perceive’; hence, with ví, ‘widely perceptible, conspicuous’. The point of the simile is surely that the goods with which Indra supplies the worshiper are abundant enough to be easily visible, like the sparkling waters filling a river. Note the case disharmony: logically the waters are compared not to Indra, but to the goods he bestows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INDRA, the mortal man well guarded by thine aid goes foremost in the wealth of horses and of kine.  
      With amplest wealth thou fillest him, as round about the waters clearly seen afar fill Sindhu full.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Erster gelangt mit deinen Hilfen der Sterbliche zu Rossebesitz, zu Kühen, der dir gut zuredet, o Indra. Ihn füllst du mit noch mehr Gut so wie die verständigen Gewässer zu beiden Seiten die Sindhu anfüllen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An Rossen reich und Rindern geht voran der Mann, den, Indra, du mit deinem Schutze schön beschirmst, Den füllest du mit immer reicherm Gute an, wie schimmernde Gewässer füllen rings das Meer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Первым идет к обладанию конями, коровами,  
 О Индра, смертный, хорошо совершающий обряд с твоей помощью.  

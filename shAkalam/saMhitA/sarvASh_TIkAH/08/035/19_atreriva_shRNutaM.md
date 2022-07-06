@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्रेर् इव शृणुतम् पूर्विय꣡स्तुतिं  
 श्यावा꣡शुवस्य सुन्वतो꣡ मदच्युता  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 अ꣡श्विना तिरो꣡अह्नियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । अश्वि॑ना । ति॒रःऽअ॑ह्न्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atrer* ← *atreḥ* ← *atri*
 - \[noun\], genitive, singular, masculine
@@ -103,7 +103,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे अश्विनौ **मदच्युता** शत्रूणां मदस्य च्यावयितारौ युवां **सुन्वतः** सोमाभिषवं कुर्वतः **श्यावाश्वस्य** मम पितामहस्य **अत्रेरिव** **पूर्व्यस्तुतिं** मुख्यां स्तुतिं **शृणुतम्** । **उषसा** **सूर्येण** **च** संगतौ **तिरोअह्नयं** सोमं पिबतम् । तिरोहिते पूर्वस्मिन्नहनि अपरेद्युः प्रातरश्विनोर्याग इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,29 +114,29 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Soma prepared the previous day: tiro ahnyam = Soma prepared the day before, and drunk at earlydaawn, at the worship of the Aśvins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As if to Atri’s, listen to the first praise hymn of the presser Śyāvāśva, o  you roused to exuberance.  
 – In concert with Dawn and the Sun, o Aśvins, (drink) the (soma) aged  overnight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As ye heard Atri's earliest eulogy, so hear Syavasva, Soma-presser, ye who reel in joy.  
      Accordant, of one mind with Surya and with Dawn, drink juice, O Asvins, three days old.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Höret wie auf des Atri so auf des somapressenden Syavasva Erstlob, ihr Rauscherregten! Einträchtig mit Usas und Surya trinket den gestrigen Soma, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie einst des Atri hört das erste schönste Lob des Somapressers Çjāvaaçva, trunkerregt, Vereinigt mit der Sonne und dem Morgenroth, trinkt, Ritter, den gegorenen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как (некогда) у Атри, услышьте превосходную хвалу  
 Шьявашвы, выжимающего (сому), о возбужденные опьянением!  

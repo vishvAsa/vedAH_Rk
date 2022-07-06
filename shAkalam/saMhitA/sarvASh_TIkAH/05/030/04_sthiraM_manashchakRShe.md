@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्थिर꣡म् म꣡नश् चकृषे जात꣡ इन्द्र  
 वे꣡षी꣡द् ए꣡को युध꣡ये भू꣡यसश् चित्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विदो꣡ ग꣡वाम् ऊरुव꣡म् उस्रि꣡याणाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अश्मा॑नम् । चि॒त् । शव॑सा । दि॒द्यु॒तः॒ । वि । वि॒दः । गवा॑म् । ऊ॒र्वम् । उ॒स्रिया॑णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sthiram* ← *sthira*
 - \[noun\], accusative, singular, neuter
@@ -138,43 +138,43 @@ genre M
 हे **इन्द्र** **जातः** उत्पन्नमात्र एव त्वं **स्थिरं** चलनरहितं **मनः** चित्तं **चकृषे** चकर्थ । सर्वान् बलिष्ठान् जयेयमितीदृशम् । तथा हे इन्द्र **एकः** **इत्** असहाय एव त्वं **युधये** युद्धाय **भूयसश्चित्** बहुतरान् राक्षसादीनपि **वेषि** अवेः अगमः। किंच **अश्मानं** चित् गवामावरकं पर्वतमपि **शवसा** बलेन **वि** **दिद्युतः** व्यभिनः । किंच **उस्रियाणां** क्षीरमुत्सारयन्तीनां **गवां** धेनूनाम् **ऊर्वं** समूहं **विदः** अवेदयः अलम्भयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As soon as genitive rated, **Indra**, you have made your mind resolved; you have gone alone to contend against numerous (foes); you have rent asunder the rock by your strength; you have rescued the herd of milk-yielding kine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You made your mind steadfast when you were just born, Indra; even  alone you pursue the many for battle.  
 You made even a stone flash like lightning through your vast power; you  found the pen of the ruddy cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) assume that c, like d, refers to the opening of the Vala cave. They therefore either take didyuto ví ‘flashed forth’ as a stand in for ‘broke/split apart’ (Geldner, flg. Sāyaṇa.’s vyabhinaḥ) or disjoin didyutaḥ from ví and supply another verb with the preverb (or so I understand Witzel Gotō’s “… blitzend, zer(sprengt)”). But c and d do not have to refer to a single feat: a and b do not, and the recital of kṛtā́ni promised in 3ab covers a number of different deeds in the vss. to come. Moreover, though áśman- ‘stone’ can refer to the Vala cave, it has a number of other possible referents (see 8c where Namuci’s head is equated/compared with an áśman-), including Indra’s own weapon. Cf. IV.22.1 yó áśmānaṃ śávasā bíbhrad éti “who [=Indra] keeps bearing the stone with his power,” with the śávasā found also here. Since √dyut is very commonly found with ví (including the common and lexicalized root-noun cmpd.
 
 vidyút- ‘lightning’) and since one of the sites to which a preverb in tmesis moves is directly after its verb (and here also adjoining a metrical boundary), it seems very likely that preverb and verb belong together -- and have their normal sense. In my interpr. this lexeme incorporates a simile: ‘cause to flash like lightning’ / ‘cause to lightning’ (unfortunately English does not have such a verb). In other words, with his power Indra can make even the dull and homely material stone flash like a lightning bolt.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, when born, thou madest firm thy spirit: alone thou seekest war to fight with many.  
      With might thou clavest e'en the rock asunder, and foundest out the stable of the Milch-kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sobald du geboren wurdest, hast du deinen Sinn gestählt, o Indra. Du verlangst ganz allein sogar eine Überzahl zu bekämpfen. Auch die Felshöhle hast du mit Gewalt erbrochen; du fandest die Höhle der rötlichen Kühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren machtest deinen Sinn du stark schon, auch viele greifst allein du an zum Kampfe; Den Fels auch blitztest kräftig fort du, Indra, errangst den Stall der morgenrothen Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Едва родившись, ты закалил (свой) дух, о Индра.  
 Ты стремишься один побороть даже превосходящих (врагов).  

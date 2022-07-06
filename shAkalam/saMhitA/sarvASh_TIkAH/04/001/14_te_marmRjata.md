@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ मर्मृजत ददृवां꣡सो अ꣡द्रिं  
 त꣡द् एषाम् अन्ये꣡ अभि꣡तो वि꣡ वोचन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद꣡न्त ज्यो꣡तिश् चकृप꣡न्त धीभिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प॒श्वऽय॑न्त्रासः । अ॒भि । का॒रम् । अ॒र्च॒न् । वि॒दन्त॑ । ज्योतिः॑ । च॒कृ॒पन्त॑ । धी॒भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -125,21 +125,21 @@ genre M
 **ते** अङ्गिरसः **अद्रिं** पणिभिरपहृतानां गवां निरोधकं पर्वतं **ददृवांसः** विदारयन्तः सन्तः **मर्मृजत** अग्निं पर्यचरन् । **एषाम्** अङ्गिरसां **तत्** तादृशं कर्म **अन्ये** महर्षयः **अभितः** सर्वत्र जगति **वि** **वोचन्** विशेषेणाकथयन् । **पश्वयन्त्रासः** पशुनिर्गमनार्थानि यन्त्राण्युपाया येषां तेऽङ्गिरसः **कारम्** अभिमतस्य प्रयोजनस्य कर्तारमग्निम् **अभि** **अर्चन्** अस्तुवन् । ततस्तमोपहम् आदित्याख्यं **ज्योतिः** **विदन्त** अलभन्त । ततः **धीभिः** बुद्धिभिः **चकृपन्त** यज्ञानकुर्वन् । मर्मृजत ।' मृजू शुद्धौ । यङ्लुकि लङि व्यत्ययेनात्मनेपदम्। निघातः । चकृपन्त ।  ‘ कृपू सामर्थ्ये'। ण्यन्तस्य लुङि चङि सन्वद्भावाभावश्छान्दसः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rending the rocks, they worshipped (**Agni**), and other (sages) taught everywhere their (acts); unprovided with the means of (extricating) the cattle, they glorified the author of success, whence they found the light, and were thus enabled (to worship him) with holy ceremonies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They [=the forefathers/Aṅgirases] cleaned themselves, after having split  the stone. This (deed) of theirs the others proclaimed all about.  
 
 Lacking ropes to hold the livestock, they sang the decisive act: “They  found the light! They sought it with their insightful thoughts!”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Med. marmṛjata is most likely reflexive, as I and most other interpr. take it, though Sāyaṇa. and Renou supply Agni as object. Although the reflex. interpr. seems a little thin -- splitting stone is dirty work, so they had to clean themselves up -- Agni is out of place in this Vala context and there is no other obvious candidate to be object.
 
@@ -168,28 +168,28 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Splendid were they when they had rent the mountain: others, around, shall tell forth this their exploit.  
      They sang their song, prepared to free the cattle: they found the light; with holy hymns they worshipped.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Having rent the rock they cleaned themselves. Others around told forth that (deed) of theirs. Taking … as an instrument (?) 1, they sang triumphantly 2. They found the light; they chanted their prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie putzten sich, nachdem sie den Fels aufgesprengt hatten. Andere erzählten diese Tat von ihnen. Als ihre Herde der Schranken ledig war, sangen sie den Siegessang; sie fanden das Licht, nachdem sie in ihren Gedanken danach verlangt hatten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie schmückten sich, als sie gesprengt den Felsen; dies Werk der Väter priesen rings die andern; Die Heerde leitend sangen Jubellied sie; den Lichtglanz findend flehten sie mit Andacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Расколов скалу, они стали украшать (Агни).  
 Это про них другие возглашали вокруг.  

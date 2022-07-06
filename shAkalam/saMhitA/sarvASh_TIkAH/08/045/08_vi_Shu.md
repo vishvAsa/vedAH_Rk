@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ षु꣡ वि꣡श्वा अभियु꣡जो  
 व꣡ज्रिन् वि꣡ष्वग् य꣡था वृह  
 भ꣡वा नः सुश्र꣡वस्तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 भव॑ । नः॒ । सु॒श्रवः॑ऽतमः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -90,19 +90,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **वज्रिन्** त्वं **विश्वाः** सर्वाः **अभियुजः** अभियोक्त्रीः प्रजाः **यथा** **विष्वक्** भवन्ति तथा **सु** सुष्ठु **वि** **वृह** । **नः** अस्माकं **सुश्रवस्तमः** शोभनान्नवत्तमश्च **भव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thunderer, smite all your enemies that you may be scattered-- be to us a most abundant benefactor.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rip apart all attackers, mace-bearer, as if into (a million) pieces. Become the one who most receives our praises.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Assuming that the syntagm of the simile is víṣvag yáthā “as if víṣvak,” that is, “as if asunder,” I have slightly reconfigured the expression to conform to an English idiom. Geldner seems to take the yáthā as expressing purpose, “dass sie zerschellen” (be smashed to pieces) but I do not understand how víṣvak can be configured as a verb.
 
@@ -111,23 +111,23 @@ Note the alliteration ví ṣú víśvā ... vájrin víṣvag … vṛha, esp. 
 víṣvag.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Repel, O Thunder-armed, in all directions all attacks on us:  
      And be our own most glorious God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann zersprenge, du Keulenträger, fein alle Angriffe, daß sie zerschellen. Sei uns der beste Erhörer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Gegner treib', o Blitzer, schnell hinweg, dass weit sie sich zerstreun, Und sei du uns zu höchstem Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отбей хорошенько все атаки,  
 О громовержец, чтобы они (разлетелись) во все стороны!  

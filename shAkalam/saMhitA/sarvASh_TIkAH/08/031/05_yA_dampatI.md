@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ द꣡म्पती स꣡मनसा  
 सुनुत꣡ आ꣡ च धा꣡वतः  
 दे꣡वासो नि꣡त्ययाशि꣡रा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 देवा॑सः । नित्य॑या । आ॒ऽशिरा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
@@ -82,40 +82,40 @@ genre M
 अत्र यजने दंपत्योः स्तुतिः । हे **देवासः** देवाः **समनसा** समनसौ कर्मणि समानमनस्कौ **या** यौ **दंपती** यज्ञकारिणौ जायापती **सुनुतः** सोमाभिषवं कुरुतः । यौ दंपती ततस्तमभिषुतं सोमम् **आ** **धावतः** **च** दशापवित्रेण शोधयतः ।  ‘ धावु गतिशुद्धयोः '। तथा **नित्यया** । यत्र तृतीयसवने सोमोऽस्ति तत्राश्रयणद्रव्यं गोक्षीरमस्त्येव । तस्मात् नित्यसंबन्धेन **आशिरा** आश्रयणेन गोक्षीरेण संयुतं सोमं यौ प्रयच्छतः तावन्नादीन् प्राप्नुत इत्युत्तरत्र संबन्धः ॥ ॥ ३८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Gods, may the husband and wife, who with one mind offer libations and purify them, and (propitiateyou) with the **Soma** ever mixed with milk.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The household couple who with one mind press and rinse (the soma) with its own proper milk-mixture, o gods,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, vss. 1-4 and 5-9 present loosely parallel treatments of the rewards of sacrifice, with 1-4 applying to the sacrificer alone and 5-9 to the sacrificer and his wife. In this vs. sunutáḥ (5b) reprises sunávat of 1b, and the structure of those two b pādas is roughly the same: sunávac ca pácāti ca and sunutá ā́ca dhā́vataḥ, with two ritual verbs conjoined by ca(s). The nítyāśirā ‘with its own proper milk-mixture’ referring to soma echoes sómam … āśíram in 2b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Gods, with constant draught of milk, husband and wife with one accord  
      Press out and wash the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die beiden Ehegatten einträchtig Soma auspressen und umschütteln und mit der notwendigen Milch mischen, o Götter,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Ehepaar, was gleichen Sinn's den Soma presst und knetend spült, O Götter, stets mit Milch ihn mischt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда супруги-домохозяева единодушно  
 Выжимают и прополаскивают (сому),  

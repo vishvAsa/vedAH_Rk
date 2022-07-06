@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मरु꣡त्वन्तं हवामह  
 इ꣡न्द्रम् आ꣡ सो꣡मपीतये  
 सजू꣡र् गणे꣡न तृम्पतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒ऽजूः । ग॒णेन॑ । तृ॒म्प॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *marutvantaṃ* ← *marutvantam* ← *marutvat*
 - \[noun\], accusative, singular, masculine
@@ -77,35 +77,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मरुत्वन्तं** मरुद्भिर्युक्तम् **इन्द्रं** **सोमपीतये** सोमपानाय **आ** **हवामहे** आह्वयामः । स च इन्द्रः **गणेन** मरुत्समूहेन **सजूः** सह 'तृम्पतु तृप्तो भवतु ॥ मरुत्वन्तम् । मरुतः अस्य सन्तीति मरुत्वान्। झयः ' ( पा. सू. ८. २. १० ) इति मतुपो वत्वम् । तसौ मत्वर्थे ' ( पा. सू. १. ४. १९ ) इति भसंज्ञायां पदसंज्ञाया बाधितत्वात् जश्त्वाभावः । मतुप्सुपौ पित्त्वादनुदात्तौ । ननु  ‘ ह्रस्वनुड्भ्यां मतुप्' (पा. सू. ६. १. १७६ ) इति मतुप उदात्तत्वेन भवितव्यं, ‘स्वरविधौ व्यञ्जनमविद्यमानवत् ' ( परिभा० ७९ ) इति तकारस्य अविद्यमानवत्वेन ह्रस्वात् परत्वात् । न ।  ‘ ह्रस्वनुड्भ्याम् ' इत्यत्र नुङ्ग्रहणसामर्थ्यात् अविद्यमानपरिभाषा नाश्रीयते इति वृत्तावुक्तम् ( का. ६. १. १७६ )। अतो मरुच्छब्दस्य स्वर एव शिष्यते । सजूः । जुषी प्रीतिसेवनयोः '। संपदादिलक्षणः क्विप्। समाना प्रीतिः यस्य इति बहुव्रीहिः ।  ‘ समानस्य च्छन्दसि ' इति सभावः ।  ‘ ससजुषो रुः ' ( पा. सू. ८. २. ६६ ) इति रुत्वम् । र्वोरुपधायाः° ' ( पा. सू. ८. २.७६ ) इत्युपधादीर्घः । बहुव्रीहिस्वरे प्राप्ते ' त्रिचक्रादीनां छन्दसि' ( पा. सू. ६. २. १९९. १ ) इत्युत्तरपदान्तोदात्तत्वम् । तृम्पतु ।  ‘ तृप तृम्प तृप्तौ'। ' तुदादिभ्यः शः । ‘शे तृम्पादीनाम् । (पा. सू. ७. १. ५९. १) इति नुमागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke **Indra**, attended by the **Maruts** to drink the **Soma** juice; may he, with his associates, be satisfied.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We call Indra accompanied by the Maruts here for soma-drinking. Along with the troop let him reach satiety.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, by Maruts girt, we call to drink the Soma juice: may he  
      Sate him in union with his troop.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra in Begleitung der Marut, rufen wir her zum Somatrunk; mit seiner Gefolgschaft zusammen soll er sich gütlich tun.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra mit der Marutschar, ihn rufen wir zum Somatrunk; Mit seiner Schar ergötz' er sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы зовем сопровождаемого Марутами  
 Индру на питье сомы  

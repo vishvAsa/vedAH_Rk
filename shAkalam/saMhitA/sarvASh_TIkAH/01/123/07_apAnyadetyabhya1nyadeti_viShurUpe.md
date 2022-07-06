@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पान्य꣡द् ए꣡ति अभि꣡ अन्य꣡द् एति  
 वि꣡षुरूपे अ꣡हनी सं꣡ चरेते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡द्यौद् उषाः꣡ शो꣡शुचता र꣡थेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प॒रि॒ऽक्षितोः॑ । तमः॑ । अ॒न्या । गुहा॑ । अ॒कः॒ । अद्यौ॑त् । उ॒षाः । शोशु॑चता । रथे॑न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apānyad* ← *apa*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 इदानीम् अहोरात्रस्तुतिद्वारा उषाः स्तूयते । **विषुरूपे** वक्ष्यमाणप्रकारेण नानारूपे **अहनी** अहश्च रात्रिश्चोभे **सं** **चरेते** । समित्येकीभावे । सहैव अव्यवधानेन चरतः । अत्राह्नः साहचर्यात् तत्प्रतियोगित्वाच्च रात्रिरपि अहः इत्युच्यते । उत्तरत्र मन्त्रान्तरे अयमेवार्थः स्पष्टः आम्नातः ‘अहश्च कृष्णमहर्जुनं च वि वर्तेते रजसी वेद्याभिः ' ( ऋ. सं. ६. ९. १ ) इति । तयोर्मध्ये अन्यत् रात्रिरूपमहः **अप** **एति** अपगच्छति प्रतिलोमं गच्छति वा । ‘ अपेत्येतस्य प्रतिलोम्यम्' (निरु. १. ३) इति यास्कः । **अन्यत्** च दिवसाख्यमहः **अभि** **एति** अभिमुख्येन गच्छति । ‘ अभीत्याभिमुख्यम्' (निरु. १. ३) इति यास्कः । रात्र्यां प्रतिनिवृत्तायाम् अहः अभिमुखमागच्छतीत्यर्थः । विषुरूपे सं चरेते इति यदुक्तं तदेव स्पष्टीक्रियते । **परिक्षितोः** पर्यायेण निवसतोः परिक्षपयतोर्वा । प्राणिनाम् अहःसु अतीतेषु आयुषः क्षयात् परिक्षपणं प्रसिद्धम् । तयोर्मध्ये **अन्या** रात्रिः **तमः** तमोरूपा **गुहा** पदार्थानां गूहनम् **अकः** करोति । अन्या अहरेकदेशभूता च **उषाः** शोशुचता भृशं दीप्तेन **रथेन** **अद्यौत्** । द्योतते प्रकाशते प्रकाशयति वा सर्वम् । रात्रिः तमोरूपत्वात् सर्वं जगत् आवृणोति । उषास्तु सर्वान् भावान् प्रकाशयति इत्युषसः स्तुतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,34 +140,34 @@ genre M
 Twofold day: day and night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one goes away; the other approaches: having distinct forms, the two  day-halves proceed in tandem.  
 Of the two that circle around, the one has hidden the darkness: Dawn  has flashed with her ever-blazing chariot.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The du. parikṣítoḥ is universally taken (Geldner [/Witzel Gotō], Renou, Oldenberg, Scarlatta [p. 96]) as referring to Heaven and Earth (e.g., Geldner “das Dunkel der beiden umgebenden (Welten)”). In favor of this interpr. is the fact that the two other occurrences of the form do refer to H+E (III.7.1, X.65.8). However, I prefer to take it as referring to the pair already in the discourse, Night and Dawn. The cycling and circling movements of these two are highlighted in 7ab (and note pári yanti in 8d of the pl. Dawns). I also do not understand what “the darkness of H+E” would refer to, whereas Dawn’s role in hiding the darkness of night is well known. There is also a weak syntactic argument in favor of my interpr. Definite anyá- forms ordinarily take 2nd position (see Jamison 1997, Fs. Beekes); note the position of the two anyád in pāda a, each after the fronted preverb in its clause. (The anyā́ḥ in 11d belongs to the “(all) the other” construction, which is positioned differently.) If parikṣitóḥ is loosely connected with what follows, anyā́here follows the first real word of the clause támaḥ; otherwise it appears late.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The one departeth and the other cometh: unlike in hue day's, halves march on successive.  
      One hides the gloom of the surrounding Parents. Dawn on her shining chariot is resplendent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die eine Tageshälfte geht, die andere kommt: die beiden ungleichartigen Tageshälften treffen sich. Die andere hat das Dunkel der beiden umgebenden Welten versteckt. Usas ist erschienen auf flammenden Wagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Nacht vergeht, es kommt die Tageshelle, ungleich gefärbt begegnen sich die beiden, Das Dunkel hüllet ein der Schwestern eine, die Morgenröthe strahlt im Flammenwagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одна уходит прочь, другая приходит.  
 Две несхожие половины суток сходятся вместе.  

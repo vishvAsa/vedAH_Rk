@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पथ꣡स्-पथः प꣡रिपतिं वचस्या꣡  
 का꣡मेन कृतो꣡ अभि꣡ आनळ् अर्क꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धि꣡यं-धियं सीषधाति प्र꣡ पूषा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । रा॒स॒त् । शु॒रुधः॑ । च॒न्द्रऽअ॑ग्राः । धिय॑म्ऽधियम् । सी॒स॒धा॒ति॒ । प्र । पू॒षा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pathas* ← *pathaḥ* ← *pathin*
 - \[noun\], genitive, singular, masculine
@@ -144,7 +144,7 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,13 +155,13 @@ genre M
 Protector: pathaspathaḥ paripatim: Pūṣan is the lord of the paths
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I will direct my eloquence to the complete protector of every path.  Prompted by desire, he has attained the chant.  
 He will bestow on us proliferating riches tipped with gold; he will cause  every visionary thought to reach its goal—Pūṣan.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With most (Grassmann, Geldner, Renou), the published translation takes the hapax páripati- as ultimately derived from √pā ‘protect’, not páti- ‘lord’. However, this analysis has grave formal problems not solved by Renou’s cavalier “hapax tiré de pā- … mais influencé, pour la forme, par páti”: it would be quite difficult to get a short-vowel root syllable pafrom √pā by any normal derivational process. I now think that it is a cmpd. of -páti-, even though Wackernagel’s ‘ringsum Herr’ (AiG II.1.260) reflecting this analysis is not terribly satisfactory. My change of heart was occasioned by considering the first verse in the first hymn of the Pūṣan cycle that begins soon after this hymn, VI.53.1, whose first pāda ends pathas pate “o lord of the path.” I would now tr. our passage, “the complete lord of every path.” It might be worth noting that VI.53.1 also enlists Pūṣan’s help with our dhī́- ‘visionary thought’, as here.
 
@@ -170,7 +170,7 @@ Most take vacasyā́as instr. sg. to the -ā́stem vacasyā́- ‘eloquence’, 
 The phrase kā́mena kṛtáḥ is used of Pūṣan also in nearby VI.58.3-4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I praise with eloquence him who guards all pathways. He, when his love impelled him, went to Arka.  
      May he vouchsafe us gear with gold to grace it: may Pusan make each prayer of ours efective.
@@ -184,17 +184,17 @@ May he give us the comfort of gold,
 May Pusan further our every prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Hüter eines jeden Weges preise ich mit Beredsamkeit. Der Verliebte hat den Preis gewonnen. Er schenke uns Belohnungen mit Gold an der Spitze. Jedes Gebet möge Pusan zum Ziel führen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Hüter jedes Weges drang das Loblied, das durch Begier aus Liederlust geschaffne; Er, Puschan, schenk uns glanzerfüllte Labung und möge jede Bitte uns erfüllen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 ( Я славлю) красноречиво охранителя каждого пути.  
 Охваченный желанием, он встретил (дружелюбно мою) песнь.  

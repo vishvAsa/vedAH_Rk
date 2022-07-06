@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ ये꣡ दधुः꣡ शर꣡दम् मा꣡सम् आ꣡द् अ꣡हर्  
 यज्ञ꣡म् अक्तुं꣡ च आ꣡द् ऋ꣡चम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 क्षत्रं꣡ रा꣡जान आशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒ना॒प्यम् । वरु॑णः । मि॒त्रः । अ॒र्य॒मा । क्ष॒त्रम् । राजा॑नः । आ॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -119,37 +119,37 @@ genre M
 **ये** मित्रादयः **शरदं** संवत्सरं **वि** **दधुः** अकुर्वन् **आत्** अनन्तरमेव **मासम्** अनन्तरम् **अहः** अनन्तरमहःसाध्यं **यज्ञम्** **आत्** अनन्तरम् **अक्तुं** रात्रिं **च** **ऋचं** मन्त्रांश्च । यद्वा सर्वत्र आत् इत्ययम् अपीत्यर्थे वर्तते । तथा सति क्रमोऽविवक्षितः । ते **वरुणः** **मित्रः** **अर्यमा** च त्रयः   **अनाप्यम्** अन्यैरप्राप्तं **क्षत्रं** बलं **राजानः** राजमानाः **आशत** व्याप्तवन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who have established the year, and then the month and the day, the sacrifice, the night, and the holytext, they, the royal deities, **Varuṇa**, **Mitra**, **Aryaman**, enjoy unrivalled might.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They who divided the year, the month, then the day; the sacrifice and  the night, then the verse—  
 as kings, Varuṇa, Mitra, and Aryaman have attained an  
 unobtainable rule.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who have stablished year and month and then the day, night, sacrifice and holy verse,  
      Varuna, Mitra, Aryaman, the Kings, have won dominion which none else may gain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die den Herbst, den Monat und den Tag, das Opfer und die Nacht und die Strophe festgesetzt haben; diese Könige Varuna, Mitra und Aryaman haben die unerreichbare Herrschaft erlangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ordneten der Jahre, Monde, Tage Lauf, die Nacht, das Opfer, den Gesang; Varuna, Mitra, Arjaman, die Könige, erlangten unerreichte Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто установил осень, месяц и день,  
 Жертву, ночь и гимн,  

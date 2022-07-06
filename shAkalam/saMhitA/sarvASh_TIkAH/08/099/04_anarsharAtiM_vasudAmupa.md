@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नर्शरातिं वसुदा꣡म् उ꣡प स्तुहि  
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 म꣡नो दाना꣡य चोद꣡यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । अ॒स्य॒ । काम॑म् । वि॒ध॒तः । न । रो॒ष॒ति॒ । मनः॑ । दा॒नाय॑ । चो॒दय॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anarśarātiṃ* ← *anarśarātim* ← *anarśarāti*
 - \[noun\], accusative, singular, masculine
@@ -114,20 +114,20 @@ genre M
 हे स्तोतः **अनर्शरातिम्** अपापकदानम् । अपापिष्ठस्य दातारमित्यर्थः। तथा च यास्कः -- ‘ अनर्शरातिमनश्लीलदानमश्लीलं पापकम्' (निरु. ६. २३) इति । **वसुदां** धनस्य दातारमिन्द्रम् **उप** **स्तुहि** । यतः **इन्द्रस्य** **रातयः** दानानि **भद्राः** कल्याणानि । महदैश्वर्यकारीणीत्यर्थः । यतश्च **सः** इन्द्रः स्वकीयं **मनः** **दानाय** अभीष्टप्रदानाय **चोदयन्** प्रेरयन् **विधतः** परिचरतः **अस्य** स्तोतुः **कामम्** इच्छां **न** **रोषति** न हिनस्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise him the bestower of wealth, whose gifts are never evil; **Indra**'s gifts are fortunate; he directs hismind to the gift and **mars** not the desire of his worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praise the giver of goods, whose presents are not harmful. The presents  of Indra are beneficial.  
 He does not take umbrage at the desire of a man who does honor, as he  bestirs his mind for giving.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 in the next hymn.
 
@@ -138,23 +138,23 @@ I tr. taruṣyant- as a pseudo-desiderative, contra Geldner (Wettstreiter, sim. 
 The stem is a hapax, and its formation isn’t entirely clear. But the most orthodox way to explain it is as a denominative to tárus-, ‘power/desire to overcome’; since ‘seeking’ is a standard sense associated with -yá-denominatives, a desiderative sense is certainly possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise him who sends us wealth, whose bounties injure none: good are the gifts which Indra. grants.  
      He is not worth with one who satisfies his wish: he turns his mind to giving boons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Preise den Gutschenker, der seine Gaben nicht verschließet! Ersprießlich sind des Indra Gaben. Nicht nimmt er den Wunsch dieses Verehrers übel, da er den Sinn des Gönners zum Geben ermuntert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn preise, der nichts schlimmes gibt, der Güter schenkt, des Indra Gaben sind voll Heil; Nicht weist er dieses frommen Mannes Wunsch zurück, zum Geben schärfend seinen Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восхваляй дарителя благ, чей дар не ранит!  
 Благодатны дары Индры.  

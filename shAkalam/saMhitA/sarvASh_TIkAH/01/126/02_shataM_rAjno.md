@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ रा꣡ज्ञो ना꣡धमानस्य निष्का꣡ञ्  
 छत꣡म् अ꣡श्वान् प्र꣡यतान् सद्य꣡ आ꣡दम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवि꣡ श्र꣡वो अज꣡रम् आ꣡ ततान
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 श॒तम् । क॒क्षीवा॑न् । असु॑रस्य । गोना॑म् । दि॒वि । श्रवः॑ । अ॒जर॑म् । आ । त॒ता॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
@@ -117,7 +117,7 @@ genre M
 **नाधमानस्य** स्वीकर्तव्यम् इत्युच्चैः याचमानस्य **असुरस्य** धनानां निरसितुर्दानशीलस्य **राज्ञः** स्वतेजसा दीप्यमानस्य स्वनयस्य **निष्कान्** आभरणविशेषान् इयत्ताविशेषविशिष्टानि वा सुवर्णानि शतसंख्याकानि । शतं सहस्रम् इत्यपरिमितवचनः । अपरिमितान् **सद्यः** प्रार्थनानन्तरमेव **कक्षीवान्** अहम् **आदम्** आत्तवानस्मि स्वीकृतवानस्मीत्यर्थः । तथा **प्रयतान्** शुद्धान् लक्षणोपेतान् **अश्वान्** अध्वगमनसमर्थान् हयान् आदम् आत्तवान् । तथा **गोनां** पुंगवानां बलीवर्दानामित्यर्थः । उत्तरमन्त्रे स्त्रीगवीनामभिधानात् । तेषां **शतम्** आदम् । एवं प्रदाता राजा **दिवि** द्युलोके **श्रवः** कीर्तिम् **अजरं** शाश्वतीम् **आ** **ततान** विस्तारितवान् । गवादिप्रतिग्रहीता अहं स्वर्गे कीर्तिमकरवमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,37 +128,37 @@ genre M
 **Niṣka** = a weight of gold = four **suvarṇa** (**Manu**. viii.134); = 108 **suvarṇas** (**Amarakośa**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A hundred neck-ornaments of the king in want (of fame), a hundred  horses I took as soon as they were offered;  
 a hundred cows of the lord (I), Kakṣīvant, (have taken). (Now) his  
 unaging fame stretches to heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The root √nādh ‘(cry/be) in distress’ is often used of people in dire straits (see, e.g., in Kakṣīvant’s I.118.10); here the king’s distress comes not from danger but from want of fame. There may be a touch of humor in this overdramatization of his plight, though see I.110.5 where the Ṛbhus cry out in want at an invocation, likewise seeking fame (śráva ichámānāḥ, exactly as in our 1d).
 
 The patron-poet reciprocal bargain is managed with striking economy here: the king seeks fame in 1d, the poet receives many goods in 2abc, and the desired fame is dispatched to heaven in 2d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A hundred necklets from the King, beseeching, a hundred gift-steeds I at once accepted;  
      Of the lord's cows a thousand, I Kaksivan. His deathless glory hath he spread to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert Goldstücke, hundert Rosse erhielt ich sofort von dem in Nöten befindlichen Könige als Geschenk, hundert Rinder, ich Kaksivat von dem Gebieter. Bis zum Himmel hat er seinen unverwelklichen Ruhm ausgedehnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hundert Goldstücke des bedrängten Königs, hundert Rosse habe ich zum Geschenk an einem Tage empfangen, hundert Rinder des göttlichen ich [der Dichter], Kakschīvat; zum Himmel verbreitete seinen unvergänglichen Ruhm der Geber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сто слитков золота от царя, взывающего о помощи,  
 Сто подаренных коней я получил сразу,  

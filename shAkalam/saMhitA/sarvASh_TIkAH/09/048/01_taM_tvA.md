@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा नृम्णा꣡नि बि꣡भ्रतं  
 सध꣡स्थेषु महो꣡ दिवः꣡  
 चा꣡रुं सुकृत्य꣡येमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 चारु॑म् । सु॒ऽकृ॒त्यया॑ । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -86,19 +86,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **महः** **दिवः** महतो द्युलोकस्य **सधस्थेषु** सहस्थानेषु स्थितं **नृम्णानि** धनानि **बिभ्रतम्** अस्मदर्थं धारयन्तं **चारुं** कल्याणं **तं** पवमानं **त्वा** त्वां **सुकृत्यया** शोभनया क्रियया **ईमहे** धनानि याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By sacred rites we solicit (wealth) of you, auspicious, bearing wealth, abiding in the regions of the vast heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who bear your manly powers among the seats of great heaven we implore for something dear through this good ritual performance—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take cā́rum as referring to Soma, as it, admittedly, often does. I interpr.
 
@@ -107,23 +107,23 @@ it rather as a 2nd obj. of īmahe (√yā / ī ‘implore, beg for’. (Geldner 
 The possible allusion to the Somaraub in this vs. is quite muted, but I wonder if the depiction of Soma “bearing his manly powers among the seats of great heaven” (sadhástheṣu mahó diváḥ) could refer to Soma when he is being kept captive in heaven in the myth. A very slight piece of evidence for this is that Kṛśānu, the archer in the Somaraub story (see IV.27.3), is located sadhástha ā́“in the seat” in X.64.8, but I would put little or no weight on this.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH sacrifice we seek to thee kind Cherisher of manly might  
      In mansions of the lofty heavens;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir da, der die Manneskräfte bringt an den Stätten des hohen Himmels, dem Beliebten nahen wir mit frommem Werke,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, der du Manneskräfte hegst in des erhabnen Himmeis Sitz, Den theuren flehn durch Opfer wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

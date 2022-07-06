@@ -12,7 +12,7 @@ title = "+010"
 आ त्वा गिरो रथीरिव ' ( आश्व श्रौ. ७.८) इति सूत्रितम् ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 10  
 Indra  
@@ -25,7 +25,7 @@ terpreted as engaging human priests in its ritual re-enactment, so that the same
 There is otherwise little remarkable about the hymn, though in several verses  the poet echoes passages found elsewhere, which he twists to a different, sometimes  opposite meaning (cf. 7b with III.40.6, 8b with I.176.1, and 9ab with VII.32.5).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

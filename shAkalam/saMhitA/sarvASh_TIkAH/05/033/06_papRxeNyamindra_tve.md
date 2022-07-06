@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पपृक्षे꣡ण्यम् इन्दर+ त्वे꣡ हि꣡ ओ꣡जो  
 नृम्णा꣡नि च नृत꣡मानो अ꣡मर्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रा꣡र्य꣡ स्तुषे तुविमघ꣡स्य दा꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । एनी॑म् । व॒स॒वा॒नः॒ । र॒यिम् । दाः॒ । प्र । अ॒र्यः । स्तु॒षे॒ । तु॒वि॒ऽम॒घस्य॑ । दान॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *papṛkṣeṇyam* ← *papṛkṣeṇya*
 - \[noun\], nominative, singular, neuter
@@ -127,7 +127,7 @@ genre M
 हे **इन्द्र** **पपृक्षेण्यं** संपर्कार्हं पूज्यं वा **ओजः** बलं **त्वे** **हि** त्वयि खलु। त्वदधीनमित्यर्थः । **नृतमानः** नृत्यन् **अमर्तः** अमरणधर्मा **सः** त्वं **वसवानः** आच्छादयन् स्वतेजसा जगत् **नृम्णानि** नृमणानि द्रविणानि । वक्ष्यमाणरय्यपेक्षया चशब्दः । **एनीम्** एतवर्णां श्वेतवर्णां **रयिं** धनं **दाः** देहि । अहं च **अर्यः** ईश्वरस्य **तुविमघस्य** प्रभूतधनस्य च **दानं** **प्र** **स्तुषे** स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,13 +140,13 @@ Exulting: nṛtamāna = liṭ, dancing, nṛtyam; brilliant wealth: enīm
 Rayim = liṭ, white riches, perhaps a reference to silver
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For, Indra, in you are strength to be nurtured and manly powers. As  prancing immortal,  
 give us dappled wealth, you winner of goods. I will start up the praise  for the gift of the powerfully bounteous stranger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first question about this vs. is the structure of the first hemistich. The standard interpr. (Geldner, Witzel Gotō, also Oldenberg, Klein [DGRV I.263-64]; see also Kulikov -yapres., 580) takes the two pādas as separate clauses with ca conjoining them. There are several problems with this division: 1) ca is not comfortably at home as clauseconjoiner and usually conjoins NPs; 2) with nṛmṇā́ni in the domain of the 2nd clause, it must be the obj. of the participle (or pseudo-participle; see below) nṛtámānaḥ, but non-causative forms of √nṛt ‘dance’ are never transitive. Both difficulties disappear if we take nṛmṇā́ni ca as conjoined with immediately preceding ójaḥ as joint subject of the first clause in the hemistich (so also Lowe, 251; see below). The phonological play between nṛmṇā́ni and nṛtámāṇaḥ may account for the postponing of nṛmṇā́ni till the second pāda, inserting a pāda break between the two conjoined nouns. This phonologically driven positioning may also help account for the very late positon of hí. The loc. prn. tvé ordinarily takes initial position in its clause/verse line, and hí would be expected to follow in Wackernagel’s position. But the whole structure may have been shifted rightwards to allow nṛmṇā́ni to neighbor nṛtámāṇaḥ.
 
@@ -161,23 +161,23 @@ In d prá … stuṣe dā́nam “I will start up the praise for the gift” is 
 The last three (or possibly four) vss. in this hymn constitute such a dānastuti, and the poet seems to signalling that it is coming up. In the published translation I identify the arítuvimaghá- as Indra; I now would be more circumspect, since I now think the phrase applies both to Indra and to the patrons praised in vss. (7 or) 8-10. See also aryáḥ in 9d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strength much to be desired is in thee, Indra: the Immortal dances forth his hero exploits.  
      Such, Lord of Treasure, give us splendid riches. I praise the Friend's gift, his whose wealth is mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn an dir, Indra, soll man die Kraft stärken, wenn der Unsterbliche seine Mannestaten aufführt. Gib du, Schätzeherr, uns buntfarbigen Reichtum! Die Gabe des freigebigen hohen Herrn will ich laut preisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn viel begehrte Kraft ist dein, o Indra, und Mannesthaten führet aus der ew'ge; Gib schimmernd Gut uns, der du Gut besitzest; des schätzereichen, treuen Gabe rühm' ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь у тебя, о Индра, сила, бьющая через край,  
 И ты бессмертный исполнитель героических деяний.  

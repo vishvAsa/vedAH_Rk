@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तोत्रे꣡ राये꣡ ह꣡रिर् अर्षा पुनान꣡  
 इ꣡न्द्रम् म꣡दो गछतु ते भ꣡राय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 दे॒वैः । या॒हि॒ । स॒ऽरथ॑म् । राधः॑ । अच्छ॑ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stotre* ← *stotṛ*
 - \[noun\], dative, singular, masculine
@@ -134,20 +134,20 @@ genre M;; repeated line
 हे सोम हरिर्हरितवर्णः पुनानः पूयमानस्त्वं स्तोत्रे अस्माभिः क्रियमाणेसति राये- धनार्थं अर्ष आगच्छ । ततस्ते त्वदीयोमदोप्रदकारोरसः भराय भृभर्त्सने । भर्त्सयन्ति शत्रू- नत्रयोद्धारइति भरःसङ्ग्रामः । तदर्थमिन्द्रङ्गच्छतु । किञ्च सरथं देवैः समानरथमास्थाय राधः अच्छ अस्माकं धनार्थंयाहि आगच्छ । यूयं नोस्मान् स्वस्तिभिः सदा पात त्वं रक्ष ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Soma**), when our praise is offered, flow green-tinted and purified, to (bring us) riches, may your exhilarating beverage animate **Indra** to battle. Go in the same car with the gods to (procure us) wealth; do you ever protect us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As a fallow bay, rush for wealth for the praiser as you are being purified.  Let your exhilarating drink go to Indra for the taking.  
 Drive on the same chariot with the gods to bounty. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Like the first tṛca, this one ends with the Vasiṣṭha clan refrain. The tṛca is attributed not to Vasiṣṭha himself, but to one Indrapramati Vāsiṣṭha, who is not known from elsewhere.
 
@@ -161,23 +161,23 @@ As Renou points out (ad vs. 6), the key to this tṛca is the dative of purpose:
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow, Gold-hued, cleansing thee, to enrich the singer: let thy juice go to Indra to support him.  
      Come nigh, together with the Gods, for bounty. Do ye preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rinne als Falbe geläutert dem Sänger zu Reichtum; zu Indra soll dein Rausch kommen, um Gewinn davonzutragen! Fahr auf gleichem Wagen mit den Göttern zu freigebiger Schenkung! - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Sänger rinne golden, hell zum Reichthum, dem Indra nah dein Rauschtrank zum Genüsse; Vereint den Göttern fahre hin zum Schenken. Behütet ihr uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь, струись золотистым (соком) для богатства восхвалителя!  
 Пусть опьянение тобой придет к Индре для захвата добычи!  

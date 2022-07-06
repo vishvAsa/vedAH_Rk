@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् रो꣡दसी वितरं꣡ वि꣡ ष्कभायत्  
 संविव्यान꣡श् चिद् भिय꣡से मृगं꣡ कः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ति श्वस꣡न्तम् अ꣡व दानवं꣡ हन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जिग॑र्तिम् । इन्द्रः॑ । अ॒प॒ऽजर्गु॑राणः । प्रति॑ । श्व॒सन्त॑म् । अव॑ । दा॒न॒वम् । ह॒न्निति॑ हन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -119,20 +119,20 @@ genre M
 इन्द्रः परमैश्वर्ययुक्तः आत् सोमपानानन्तरं रोदसी द्यावापृथिव्यौ वितरमतिशयेन अमुचच्छन्दसीतिवेस्तरपिकृते अमुप्रत्ययः विष्कभायत् व्यस्तभ्रात् चलनरहिते अकरोत् संविव्यानश्चित् संवृण्वानः सङ्गच्छमानोवेन्द्रः व्ययतेर्वासंवरणकर्मणोवेतेर्वागतिकर्मणोरूपं चिदित्येवेत्यस्यार्थेवर्तते मृगं मृगवत्पलायमानं वृत्रं भियसे भयाय कःअकार्षीत् करोतेर्लुङि मन्त्रेघसह्वरे त्यादिनाच्लेर्लोपः बहुलञ्छन्दस्यमाङ् योगेपीत्यडभावः इन्द्रः जिगर्तिं गिरन्तमाच्छादयन्तं श्वसन्तं भयार्थंश्वासं अकुर्वन्तं दानवं दनोःपुत्रं वृत्रं अपजर्गुराणः आच्छादनाद्विमोचयन् प्रति प्रतिगत्य अवहन् अवहतवान् ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thereupon he fixed firmly heaven and earth, and resolutely advancing, filled (**Vṛtra**), like a deer, with terror, stripping off his covering, **Indra**, slew the **Dānava**, endeavouring to hide, and panting with affright.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 After that he propped the two world-halves wide apart; even while  enwrapped, he set the wild beast to fearing.  
 Repeatedly taunting the gulper, Indra smashed the snorting Dānava back  and down.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For Indra enwrapped in the earth, cf. I.173.6 sáṃ vivya índro vrjána ̥ ṃ ná bhū́ma “Indra has enwrapped himself in the earth like a girth.” Cf. also his wearing the earth III.32.11, VIII.4.8. Although here the enwrapping seems presented as a handicap, esp. given the cid, in the just cited passages the images seem rather to emphasize Indra’s vastness.
 
@@ -143,23 +143,23 @@ The etymological separation of jígartim and apajárgurāṇaḥ invites further
 verb form inflected as a -ti-stem (AiG II.2.638), but this interpr. has nothing to recommend it. Not only is such a morphological transfer not a feature of the RV, but there is also no such verb stem available to be nominalized. The root √gṝ ‘swallow’ does not have a redupl. pres. or in fact any redupl. stem save for the pf. jagāra and the intensive subj. jalgulas (I.28.1); the single form of the redupl. aor. ajīgar (I.163.7) supposedly belonging to this root (see Grassmann, and Whit. Roots) actually belongs with the other forms of this stem to the root √gṝ ‘awaken’, and we just discussed intens. part. járgurāṇa- above. It is, further, a seṭ root; it’s hard to know what its pre-C full grade should be in a redupl. pres. formation since there are no parallel formations to roots in -ṝ that I know of (*jígarīti? cf. VS galgalīti and EWA s.vv. GARI2 , GAL), but presumably not simply gar. In short, neither the nominal morphology nor the root formation of jígarti- is easily accounted for under the standard hypothesis, but I have nothing better to substitute. I therefore retain the rendering in the published translation, though with full awareness of its fragility. My thanks to Veronique Kremmer, who drew my attention to jígarti- and its many problems and discussed the issues at length with me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then heaven and earth he sundered and supported: wrapped even in these he struck the Beast with terror.  
      So Indra forced the Engulfer to disgorgement, and slew the Danava. panting against him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann stemmte er beide Welten weiter auseinander. Obwohl er sich vermummte, brachte er das wilde Tier in Furcht. Den Verschlinger, den fauchenden Danava schlug Indra zum Schlag ausholend zurück und nieder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da stützte Indra sondernd Erd' und Himmel, verborgen auch erschreckte er das Unthier; Hinunterschlingend den Verschlinger schlug er den Dämon fort, der voller Muth ihn anschnob.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Затем он укрепил два мира подальше друг от друга.  
 Хотя и скрывался он, но все же поверг зверя в ужас.  

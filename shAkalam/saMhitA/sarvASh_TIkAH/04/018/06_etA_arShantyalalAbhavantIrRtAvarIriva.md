@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ अर्षन्ति अललाभ꣡वन्तीर्  
 ऋता꣡वरीर् इव संक्रो꣡शमानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡म् आ꣡पो अ꣡द्रिम् परिधिं꣡ रुजन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ए॒ताः । वि । पृ॒च्छ॒ । किम् । इ॒दम् । भ॒न॒न्ति॒ । कम् । आपः॑ । अद्रि॑म् । प॒रि॒ऽधिम् । रु॒ज॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etāḥ* ← *etad*
 - \[noun\], nominative, plural, feminine
@@ -106,7 +106,7 @@ popular
 **अललाभवन्तीः** अललेत्येवंरूपं शब्दं कुर्वत्यः **ऋतावरीरिव** उदकवत्य एव **एताः** नद्यः **संक्रोशमानाः** इन्द्रमहत्त्वप्रतिपादकोद्भूतेन हर्षेण बहुविधं शब्दायमानाः सत्यः **अर्षन्ति** गच्छन्ति । एवंभूता नद्यः **इदं** **किं** **भनन्ति** श्रोत्रग्राह्यं शब्दायमानं किं वदन्तीममर्थं हे ऋषे त्वम् **एताः** नदीः **वि** **पृच्छ** विशेषेण पृष्टवान् भव । एवं संपृच्छ । विचारिते सति एतच्छब्दायमानमिन्द्रमाहात्म्यस्यैव वचनं भवतीत्यर्थः । किंच **आपः** उदकानि **परिधिम्** आवरकं **कम्** **अद्रिं** कं मेघं **रुजन्ति** भञ्जन्ति । 'अपः कमपि मेघं न भञ्जन्ति किंतु इन्द्रो मम पुत्र एव उदकावरकं मेघं भङ्क्त्वा आपः प्रवर्तयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,13 +117,13 @@ popular
 Ask them what is this they say: i.e., they are proclaiming the greatness of **Indra**, by which, and not by their own efforts, they have been extricated from the cloud
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] These (waters) flow, babbling, like truthful women together  shouting their witness.  
 Ask them! What is this they are saying? What rock, what barrier are the  waters battering?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As suggested in the published introduction, the (real) waters in the amniotic sac that “break” right before birth and the (mythological) waters confined by Vṛtra and released by Indra are conflated here. Indra may be speaking from within the womb about the waters there battering the womb itself for release, though the waters in the Vṛtra myth would not be far from the audience’s mind. If Indra the fetus is immersed in these amniotic fluids, their sloshing sounds would surround him -- and it would be appropriate to ask his mother what they are saying.
 
@@ -146,23 +146,23 @@ The responsive phrases kím … bhananti (6c) and kím … bhananta (7a) provide
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With lively motion onward flow these waters, the Holy Ones, shouting, as 'twere, together.  
      Ask them to. tell thee what the floods are saying, what girdling rock the waters burst asunder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da strömen diese Gewässer freudig erregt, die wie rechtschaffene Frauen durcheinander kreischen. Frage sie aus, was sie reden, welchen Felswall die Gewässer durchbrechen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rinnen munter plätschernd diese Fluten, wie heil'ge Frauen miteinander plaudernd; Die frage aus, was sie so fröhlich reden, durchbrechen sie des Felsens Wehr, die Wasser?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти (воды) струятся, весело шумя,  
 Словно перекликаются благочестивые (жены).  

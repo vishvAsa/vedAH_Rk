@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् देवे꣡भिर् म꣡नुषश् च जन्तु꣡भिस्  
 तन्वानो꣡ यज्ञ꣡म् पुरुपे꣡शसं धिया꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 जीरो꣡ द꣡मूना अभिशस्तिचा꣡तनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 र॒थीः । अ॒न्तः । ई॒य॒ते॒ । साध॑दिष्टिऽभिः । जी॒रः । दमू॑नाः । अ॒भि॒श॒स्ति॒ऽचात॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -121,14 +121,14 @@ genre M
 देवेभिः देवैः साधदिष्टिभिः साधितयज्ञैर्जन्तुभिः ऋत्विग्भिश्च धियाकर्मणा मनुषोयजमान स्य पुरुपेशसं बहुरूपं पेशइतिरूपनाम पुरोडासापशुसोमहविर्भेदैः एकाहाहीनसत्रात्मकभेदैश्च नानाविधरूपं यज्ञं तन्वानः कुर्वन् रथीः सर्वस्यलोकस्यनेता जीरः क्षिप्रकारी दमूनाः दान्त- मनाः दानमनावा अभिशस्तिचातनः अभिशस्तीनामरातीनां यज्ञविघ्नकारिणां रक्षसां चात- यितानाशयिताग्निः अन्तः द्यावापृथिव्योर्मध्ये ईयतेगच्छति ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Perfecting the performance the multiform sacrifice of the worshipper, along with the gods to whom solemnities have been addressed, and together withthe priests, **Agni**, the charioteer, the swift-moving, the humble-minded, the destroyer of foes, passes along between (heaven and earth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, who, together with the gods and with the kin of Manu, extends  the much-adorned sacrifice by his insight,  
 speeds between (the two worlds) as a charioteer by means of those  
@@ -136,28 +136,28 @@ speeds between (the two worlds) as a charioteer by means of those
 success—he the lively houselord, who dispels curses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, together with the Gods and Manu's folk by thought extending sacrifice in varied form,  
      Goes, car-borne, to and fro with those who crown each rite, the fleet, the Household Friend, who turns the curse aside.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, spreading out with his thought the manifold-adorned sacrifice, together with the gods and with the people of Manus, goes as a charioteer to and fro with (gods and men) who accomplish the sacrifice, the quick, domestic (god), the dispeller of curses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der das durch die Dichtung reich verzierte Opfer wie ein Gewebe aufzieht, von den Göttern und den Nachkommen Manu´s die das Opfer vollstrecken, aufgefordert, er verkehrt zwischen beiden als Wagenlenker, der flinke Gebieter, der üble Nachrede entfernt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das reichgeschmückte Opfer webend mit Verstand für Götter Agni und auch für des Manu Stamm, Eilt auf und ab er fahrend mit den Segnenden, der rege Hausfreund, der die Flucher weit verscheucht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, который с помощью богов и живых существ - потомков Ману, приводящих жертву к цели,  
 Тянет, (словно нить,) жертву, обильно украшенную молитвой,  

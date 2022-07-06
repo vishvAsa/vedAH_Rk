@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्रो꣡ भद्र꣡या स꣡चमान आ꣡गात्  
 स्व꣡सारं जारो꣡ अभि꣡ एति पश्चा꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रु꣡शद्भिर् व꣡र्णैर् अभि꣡ राम꣡म् अस्थात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽप्र॒के॒तैः । द्युऽभिः॑ । अ॒ग्निः । वि॒ऽतिष्ठ॑न् । रुश॑त्ऽभिः । वर्णैः॑ । अ॒भि । रा॒मम् । अ॒स्था॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadro* ← *bhadraḥ* ← *bhadra*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 **भद्रः** भजनीयः कल्याणः **भद्रया** भजनीयया दीप्त्योषसा वा **सचमानः** सेव्यमानः संगच्छमानो वाग्निः **आगात्** आजगाम। गार्हपत्यादाहवनीयमागच्छति । ततः **पश्चात्** जारः जरयिता शत्रूणां सः अग्निः **स्वसारं** स्वयंसारिणीं भगिनीं वा आगतामुषसम् **अभ्येति** अभिगच्छति । तथा **सुप्रकेतैः** सुप्रज्ञानैः **द्युभिः** दीप्तैस्तेजोभिः सह **वितिष्ठन्** सर्वतो वर्तमानः सः **अग्निः** **रुशद्भिः** श्वेतैः **वर्णैः** वारकैरात्मीयैस्तेजोभिः **रामं** कृष्णं शार्वरं तमः **अभि** **अस्थात्** सायंहोमकालेऽभिभूय तिष्ठति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 A gallant: **jāraḥ** = śatruṇām jarayitā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The auspicious male [=Sun], in company with the auspicious female  [=Dawn], has come here. As her lover, he approaches his sister from  
 behind. Through the days with their good portents, Agni, spreading out, has  prevailed over the night with his luminous colors.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Attendant on the Blessed Dame the Blessed hath come: the Lover followeth his Sister.  
      Agni, far-spreading with conspicuous lustre, hath compassed Night with whitelyshining garments.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Löbliche ist in Begleitung der löblichen Usas gekommen; als ihr Buhle geht er hinter der Schwester her. Mit den glückverheißenden Tagen breitet sich Agni aus; mit seinen hellen Farben hat er das Dunkel bemeistert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt kam der schöne zu der schönen eilend, er geht der Spur der Schwester nach als Buhle, Mit hellen Strahlen sich verbreitend eilte mit Farbenglanz der Nacht entgegen Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благой пришел, сопровождаемый благою.  
 Любовник приближается сзади к сестре.  

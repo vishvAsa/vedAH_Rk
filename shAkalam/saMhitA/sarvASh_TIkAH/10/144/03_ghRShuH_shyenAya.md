@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृ꣡षुः श्येना꣡य कृ꣡त्वन  
 आसु꣡ सुआ꣡सु वं꣡सगः  
 अ꣡व दीधेद् अहीशु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अव॑ । दी॒धे॒त् । अ॒ही॒शुवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛṣuḥ* ← *ghṛṣu*
 - \[noun\], nominative, singular, masculine
@@ -75,37 +75,37 @@ genre M
 **घृषुः** घर्षयिता दीप्तो वा **स्वासु** स्वकीयासु **आसु** यजमानलक्षणासु प्रजासु **वंसगः** वननीयगतिः एवंभूत इन्द्रः **कृत्वने** कर्मणां कर्त्रे ॥ करोतेः “ अन्येभ्योऽपि दृश्यन्ते' इति क्वनिप् ॥ **श्येनाय**  सुपर्णाय तार्क्ष्यपुत्राय मह्यमृषये **अहीशुवः** अहीनव्यापनान् अहीनवृद्धीन् वा अस्मदीयान् पुत्रादीन्  **अव** **दीधेत्** दीपयतु ।' दीधीङ् दीप्तिदेवनयोः । अस्माच्छान्दसे लिङि व्यत्ययेन परस्मैपदम ॥ यद्वा । हे इन्द्र त्वदीयः सोमो घृष्ट्यादिगुणयुक्तः सन् दीप्यत इति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the brilliant, (**Indra**), who is a benefactor among thwese his own (people), for the sake ofthe hymn; **Suparṇa**, the son of the Tārk.sya. ahiśuvaḥ = name of an **asura**; the subject of the verb may beSoma and not Indra\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Eager for the energetic falcon, the bull among his own females  
 [=fortresses?]  
 looked down at those puffing up like snakes [/swelling like fertile cows]  [=clouds?] —
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Impetuous Ahisuva, a bull among cows of his,  
      looked down upon the restless Hawk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In froher Erwartung des unternehmenden Adlers, der Stier unter diesen seinen Kühen, schaut er herab auf die Ahisu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der wilde Ahīçuva, der Bull mit diesen seinen [Weibern] lauerte dem rührigen Adler auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Веселый бык, он поджидает  
 Проворного сокола  

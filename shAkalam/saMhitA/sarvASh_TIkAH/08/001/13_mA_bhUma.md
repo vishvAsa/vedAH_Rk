@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ भूम नि꣡ष्टिया इव  
 इ꣡न्द्र त्व꣡द् अ꣡रणा इव  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 दुरो꣡षासो अमन्महि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वना॑नि । न । प्र॒ऽज॒हि॒तानि॑ । अ॒द्रि॒ऽवः॒ । दु॒रोषा॑सः । अ॒म॒न्म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -102,20 +102,20 @@ genre M
 हे **इन्द्र** **त्वत्** त्वत्तः त्वत्प्रसादात् **निष्ट्याइव**। नीचैर्भूता हीना निष्ट्याः । त इव वयं **मा** **भूम** । तथा **अरणाइव** अरमणा दुःखिन इव वयं मा भूम । अपि च **प्रजहितानि** प्रक्षीणानि शाखादिभिर्वियुक्तानि **वनानि** **न** वृक्षजातानीव वयं पुत्रादिभिर्वियुक्ता मा भूम । हे **अद्रिवः** वज़वन्निन्द्र **दुरोषासः** ओषितुमन्यैर्दग्धुमशक्या दुर्येषु गृहेषु निवसन्तो वा वयम् **अमन्महि** त्वां स्तुमः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we never be like the abject, **Indra**, through your favour, nor suffer affliction; may we never be likebranchless trees; for, thunderer, unconsumable (by foes) we glorify you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we not be like outsiders, like foreigners to you, Indra.  
 Like trees left behind (by woodcutters), we have considered ourselves  poor at burning, you possessor of the stone.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both this verse and the next seem to rest on the unexpressed presupposition that on our own we have a pretty poor impression of ourselves, but if Indra will pay attention to us, we'll feel good about ourselves again. (Early lessons in self-esteem!) It may be that the curious verse 12 that immediately precedes sets the stage for these verses by depicting Indra as one who can set everything to rights. See esp. the last pāda of 12.
 
@@ -126,23 +126,23 @@ it so, I’m assuming a Vedic-internal folk etymology from an opaque inherited w
 etymology. Sāyaṇa’s interpr. of the word in two of the three passages falls squarely in this realm: VIII.1.13 oṣitum anyair dagdham aśaktyā(ḥ), IX.101.3 … durdahaṃ durvadhaṃ vā
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we be never cast aside, and strangers, as it were, to thee.  
      We, Thunder-wielding Indra, count ourselves as trees rejected and unfit to burn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten nicht wie Fernstehende, nicht dir wie Fremde sein, o Indra. Wie gemiedene Bäume glauben wir säumig schlechtbrennend gewesen zu sein, o Herr des Preßsteins.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht seien wir wie Fremde dir, noch, Indra, wie dir unbekannt; Nicht galten wir wie blätterlose Bäume dir, als träge nicht, o Schleuderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы не хотели бы быть словно чужими,  
 О Индра, словно посторонними для тебя.  

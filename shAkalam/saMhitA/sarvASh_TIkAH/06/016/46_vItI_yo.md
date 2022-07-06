@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वीती꣡ यो꣡ देव꣡म् म꣡र्तो दुवस्ये꣡द्  
 अग्नि꣡म् ईळीत अध्वरे꣡ हवि꣡ष्मान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उत्तान꣡हस्तो न꣡मसा꣡ विवासेत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 होता॑रम् । स॒त्य॒ऽयज॑म् । रोद॑स्योः । उ॒त्ता॒नऽह॑स्तः । नम॑सा । आ । वि॒वा॒से॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vītī* ← *vīti*
 - \[noun\], instrumental, singular, feminine
@@ -111,36 +111,36 @@ genre M
 **यः** **मर्तः** मनुष्यः **हविष्मान्** हविर्भि र्युक्तो यजमानः **वीती** वीत्या कान्तेन हविर्लक्षणेनान्नेन यं कंचन **देवं** **दुवस्येत्** परिचरेत् तस्मिन् **अध्वरे** यज्ञे **अग्निम्** **ईळीत** स्तुवीत । सर्वेषु यागेष्वग्निः पूज्यत इत्यर्थः । कीदृशमग्निम् । **रोदस्योः** द्यावापृथिव्योर्लोकद्वये वर्तमानानां देवानां **होतारम्** आह्वातारं **सत्ययजं** सत्येनावितथेन हविषा यष्टारम् । किंचायं यजमान ईदृशमग्निम् **उत्तानहस्तः** कृताञ्जलिपुटः सन् **नमसा** नमस्कारेण हविषा वा **आ** **विवासेत्** परिचरेत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever mortal, offering oblations, worships a deity with (sacrificial) food, let him at the ceremony also worship **Agni**, the invoker of heaven and earth, the sacrificer with truth; let him adore (Agni) with uplifted **hands**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who with pursuit would seek friendship with the god, he,  offering oblations at the ceremony, should reverently invoke Agni.  
 With outstretched hands he should seek to win with homage the Hotar  whose sacrifice comes true in the two world-halves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mortal man who serves the God with banquet, and, bringing gifts at sacrifice, lauds Agni,  
      May well attract, with prayer and hands uplifted, the Priest of Heaven and Earth, true Sacrificer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Sterbliche dem Gott durch Einladung die schuldige Ehre erweisen möchte, der soll Agni mit Spenden zum Gottesdienst berufen. Er soll den wahrhaft opfernden Hotri beider Welten mit ausgestreckten Händen unter Verneigung herbitten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sterbliche, welcher den Gott mit Opferspeise beschenkt, und den Agni beim Feste preist mit Trank versehen, der mag den wahren Opfrer beider Welten die Hand austreckend durch Gebet gewinnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Если) какой смертный захочет почтить бога приглашением,  
 Пусть позовет он Агни на обряд, имея жертвенное возлияние!  

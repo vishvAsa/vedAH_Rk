@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वोति꣡भिः स꣡चमाना अ꣡रिष्टा  
 बृ꣡हस्पते मघ꣡वानः सुवी꣡राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ वस्त्रदाः꣡ सुभ꣡गास् ते꣡षु रा꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ये । अ॒श्व॒ऽदाः । उ॒त । वा॒ । सन्ति॑ । गो॒ऽदाः । ये । व॒स्त्र॒ऽदाः । सु॒ऽभगाः॑ । तेषु॑ । रायः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tavotibhiḥ* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -134,20 +134,20 @@ genre M
 हे **बृहस्पते** **तवोतिभिः** रक्षाभिः **सचमानाः** संगच्छमानाः **अरिष्टाः** अहिंसिताः **मघवानः** धनवन्तः सुवीराः शोभनपुत्राश्च भवन्ति । **ये** त्वदनुगृहीताः **अश्वदाः** बहूनामश्वानां दातारः **सन्ति** । **उत** **वा** अथवा **गोदाः** सन्ति । **ये** च **वस्त्रदाः** **सुभगाः** शोभनधनाः सन्ति **तेषु** सर्वेषु **रायः** धनानि संभवन्विति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Associated, **Bṛhaspati**, with your protections, (men) are unharmed (by foes), and become opulent and blessed with descendants; may wealth devolve on those who are genitive rous, and givers of horses, of cows, of clothes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Br̥haspati, the bounteous ones accompanied by your help, who are  invulnerable and possessing good heroes,  
 who are givers of horses or givers of cows, who are givers of garments,  the well-portioned ones [=patrons]—on them (confer) riches.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. (incl. also Schmidt, Bṛhaspati und Indra 84 and Scarlatta 202) take ab as a separate nominal cl. The difference is trivial.
 
@@ -158,23 +158,23 @@ I supply a verb ‘confer’ (vel sim.) extracted from ratnadhéyam in 7a. In fa
 First, with the exception of one late passage (X.140.5), subhága-, which is quite well-attested, is only used of animate beings, not of wealth or the like. Moreover, the standard rendering leaves Bṛhaspati with little to do. The givers are “accompanied by your help” (távotíbhiḥ), but otherwise seem to do quite nicely on their own -- whereas we might expect him to be acting on their material behalf by giving to them, just as in the next vs. he is asked to strip the niggardly of their possessions and do worse by other anti-ritualists. By my interpr. the vs. expresses the usual Rigvedic trickle-down theory of material redistribution: the gods give goods to the patrons of the sacrifice (kings, etc.), who then confer them on the priests and poets.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tended, Brhaspati, with thy protections, the princes are unharmed and girt by heroes.  
      Wealth that brings bliss is found among the givers of horses and of cattle and of raiment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von deinen Gnaden begleitet, o Brihaspati, sind die freigebigen Gönner ohne Schaden, reich an tüchtigen Mannen, Söhnen; die Verschenker von Rossen oder Kühen und die Verschenker von Kleidern sind, denen gehören die beglückenden Reichtümer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaspati, versehn mit deinen Hülfen sind unversehrt und heldenreich die Fürsten, Die Rosse, Rinder oder Kleider schenken; bei denen seien gabenreiche Güter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сопровождаемые твоими поддержками невредимы,  
 О Брихаспати, щедрые дарители, богатые прекрасными мужами.  

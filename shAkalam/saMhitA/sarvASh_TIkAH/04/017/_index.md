@@ -8,7 +8,7 @@ title = "+017"
 ‘ त्वं महाँ इन्द्र तुभ्यम्' इत्येकविंशत्यृचं सप्तमं सूक्तं वामदेवस्यार्षम् । अत्रेयमनुक्रमणिका- त्वं महाँ असिक्न्यामेकपदा ' इति । ‘असिक्न्यां यजमानो न होता' इत्येकपदा विराट् शिष्टा विंशतिः त्रिष्टुभः । इन्द्रो देवता । समूळ्हे दशरात्रेऽष्टमेऽहनि निष्केवल्ये इदं सूक्तं विनियुक्तम् । तथा च सूत्रितं -- त्वं महाँ इन्द्र तुभ्यमिति निष्केवल्यम्' ( आश्व. श्रौ. ८.७ ) इति । इन्द्रस्य वृत्रघ्नः ‘ त्वं महाँ' इति पशुपुरोडाशस्यानुवाक्या । सूत्रितं च-’ त्वं महाँ इन्द्र तुभ्यं ह क्षाः सत्राहणम् ' ( आश्व. श्रौ. ३. ८) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 17 (313)  
 Indra  
@@ -18,7 +18,7 @@ The hymn begins with the simple declaration “You, Indra, are great,” and in 
 Several themes surface from time to time in the hymn. Indra is often called  maghávan “bounteous (patron)” throughout (vss. 7, 8, 9, 11, 13 [twice], 20), even  though our prayers for goods and services do not become insistent until the end.  More striking is the motif of Indra’s birth and, especially, the uncertainty about  the identity of his father. His birth in mentioned in verses 2, 4, 7, and 12. In verse  4 it is said that Heaven is considered to be his begetter, but “is considered” throws  that statement into question, and it is not even clear whether “the best craftsman,”  to whom the act is (also?) ascribed, is Heaven or not. It may well be Tvaṣṭar, called  “good craftsman” elsewhere (I.85.9) and in apparent parental relationship with  Indra in some passages (e.g., III.48.2–4; see also the next hymn, IV.18.3). Verse 12ab  casts even more doubt on his parentage, which Indra himself seems not to be clear  about. This birth motif foreshadows the next hymn, the famous IV.18 featuring the  direct speech of Indra’s mother at the time of his birth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

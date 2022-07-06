@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡ज्येन क्षिप्रे꣡ण ब्र꣡ह्मणस् प꣡तिर्  
 य꣡त्र व꣡ष्टि प्र꣡ त꣡द् अश्नोति ध꣡न्वना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 नृच꣡क्षसो दृ꣡श꣡ये क꣡र्णयोनयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । सा॒ध्वीः । इष॑वः । याभिः॑ । अस्य॑ति । नृ॒ऽचक्ष॑सः । दृ॒शये॑ । कर्ण॑ऽयोनयः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtajyena* ← *ṛta*
 - \[noun\], neuter
@@ -130,7 +130,7 @@ genre M
 ऋतज्येन ऋतंसत्यमेवज्यायस्यतेनक्षिप्रण इषूणाङ्क्षेपकेणधन्वनाधारणभूतेनधनुषायः ब्रह्मणस्प- तिः ब्रह्मणोमन्त्रस्यपालयितादेवः यत्रयस्मिन्विषयेवष्टिकामयतेतत्प्राश्नोति प्रकर्षेणव्याप्नोति अश्नोते र्व्यत्ययेनपरस्मैपदम् तस्यधनुषः साध्वीः साधिकास्ताइपवोभवन्ति याभिरिषुभिः ब्रह्मणस्पतिरस्य- ति राक्षसादीन् क्षिपति कीद्रुश्यस्ताः न्रुचक्षसः नॄन्पश्यतः उपलक्षणमेतत् सर्वज्ञस्यब्रह्मणस्पतेः दृशये दर्शनायज्ञानायजाताः कर्णयोनयः श्रोत्रेन्द्रियेणग्राह्यमन्त्रपूताआकर्णकृष्टावाबाणाः ब्रह्मणस्पतिर्मन्त्रैरे वसर्वंसाधयतीतिभावः ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 For the eyes of men: nṛcakṣasaḥ karṇayonayaḥ: the arrows are oblations and **mantras**; the first is obvious to the sight; the second is addressed to the ears of men
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The lord of the sacred formulation with his swift bow whose string is  truth—where he wishes, there he reaches.  
 To him belong the straight-flying arrows [=the hymns] with which he  shoots—(arrows) to be seen, drawing the gaze of men, and whose  womb is the ear.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With his swift bow, strung truly, Brahmanaspati reaches the mark whate'er it be that he desires.  
      Excellent are the arrows wherewithal he shoots, keen-eyed to look on men and springing from his ear.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit seinem schnellschießenden Bogen, dessen Sehne die Wahrheit ist, trifft Brahmanaspati dahin, wohin er will. Vortrefflich sind seine Pfeile, mit denen er, der das Herrenauge hat, schießt; sie sind anzuschauen, als ob sie aus dem Ohre entsprungen seien.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit seinem Bogen, der mit starker Sehne schnellt, trifft wo er wünscht und was er will, Brihaspati; Des Männerschau'nden Pfeile, die er schiessen will, gehn g'rade aus, zurückgezogen bis ans Ohr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Со (своим) быстрым луком с тетивой, (направляемой) вселенским законом,  
 Брахманаспати достигнет того, что он хочет.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ अग्ने ने꣡र꣡यन्ति ते  
 वृद्धा꣡ उग्र꣡स्य श꣡वसः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अन्य꣡व्रतस्य सश्चिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अप॑ । द्वेषः॑ । अप॑ । ह्वरः॑ । अ॒न्यऽव्र॑तस्य । स॒श्चि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -108,41 +108,41 @@ genre M
 हे **अग्ने** **ये** जनाः **वृद्धाः** पश्वादिलक्षणैर्धनैः समृद्धाः सन्तः **ते** तुभ्यं **नेरयन्ति** हवींषि न प्रयच्छन्ति ते **उग्रस्य** अधिकेन **शवसः** बलेन अन्नेन वा **अप** नीताः बलान्नहीना भवन्तीत्यर्थः । किंच **अन्यव्रतस्य** अन्यद्वैदिकाद्विभक्तं व्रतं कर्म यस्य तस्यासुरस्य **द्वेषः** त्वत्संबन्धिनं विरोधं **ह्वरः** अतिहिंसां च **अप** **सश्चिरे** आत्मानं प्रापयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “may those prosperous men who do not offer oblations to you become destitute of great strength, and may (the followers) of other (than **Vaidika**) observances incur (your) enmity and punishment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, those grown strong by your mighty power who do not send  (songs)  
 (to keep) away hatred, away crookedness, follow (the commandments) of  one who is under the commandments of others.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the great who ward not off the anger of thy power and might  
      Stir up the wrath and hatred due to one who holds an alien creed.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They, Agni, who do not set into motion for thee (prayers or offerings), when grown full of mighty strength 1, turn away to encounter the hatred and the tricks of him who follows another (i. e. a wrong) law 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die an gewaltiger Macht erstarkt deine Feindschaft nicht erregen, o Agni, die halten sich fern von der Feindschaft, der Tücke des Andersgläubigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die, Agni, dir nicht huldigen beim Wachsen deiner starken Kraft, Die sind gerathen stets in Hass und Trug der andersgläubigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те (люди), о Агни, которые не приводят в движение (жертвы) для тебя,  
 Став процветающими от силы грозного,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो अस्मि꣡न् महाधने꣡  
 प꣡रा वर्ग् भारभृ꣡द् यथा  
 संव꣡र्गं सं꣡ रयिं꣡ जय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒म्ऽवर्ग॑म् । सम् । र॒यिम् । ज॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -98,7 +98,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **नः** अस्मान् **अस्मिन्** **महाधने** संग्रामे **मा** **परा** **वर्क्** मा परित्याक्षीः । **भारभृद्यथा** । भारवाही यथा भारमन्ते परित्यजति तद्वत् । **संवर्गं** शत्रुभ्यः सहाच्छिद्यमानं **रयिं** धनं **सं** **जय** अस्मदर्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,34 +109,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Asmin =agne
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do not shun us in this (contest for) great stakes, any more than a  burden-bearer would (his burden).  
 Win wealth as your takings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. relies on an untranslatable pun on the root √vṛj ‘twist’, in two different idioms: párā √vṛj ‘shun, avoid’ (← ‘twist around’) and sám √vṛj ‘twist together’ à ‘gather up’ of winnings at dice (hence my ‘takings’).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In this great battle cast us not aside as one who bears a load:  
      Snatch up the wealih and win it all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß uns in diesem großen Kampf nicht fallen wie der Lastträger seine Last. Alles einstreichend gewinne Reichtum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wirf nicht in dieser grossen Schlacht uns wie ein Bürdenträger ab, Gewinn als Beute reiches Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

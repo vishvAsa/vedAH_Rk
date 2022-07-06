@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति त्वा स्तो꣡मैर् ईळते व꣡सिष्ठा  
 उषर्बु꣡धः सुभगे तुष्टुवां꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡षः सुजाते प्रथमा꣡ जरस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 गवा॑म् । ने॒त्री । वाज॑ऽपत्नी । नः॒ । उ॒च्छ॒ । उषः॑ । सु॒ऽजा॒ते॒ । प्र॒थ॒मा । ज॒र॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -116,36 +116,36 @@ genre M
 हे **सुभगे** देव्युषः **त्वा** त्वाम् **उषर्बुधः** उषसि बुध्यन्तः **तुष्टुवांसः** स्तुवन्तः **वसिष्ठाः** **स्तोमैः** स्तोत्रैः **ईळते** स्तुवन्ति । **गवां** **नेत्री** प्रापयित्री **वाजपत्नी** अन्नस्य पालयित्री । अन्नदात्रीत्यर्थः । ईदृशी त्वं **नः** अस्मदर्थम् **उच्छ** विभाहि । हे **उषः** **सुजाते** सुप्रादुर्भावे **प्रथमा** इतरदेवेभ्यो मुख्यभूता **जरस्व** ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Auspicious Uṣas, the **Vasiṣṭhas**, waking at dawn; and praising you, glorify you, glorify you with hymns;Uṣas, who are the conductress of the cattle (to pasture), the bestower of food, dawn upon us; shine, well-bornUṣas, the first (of the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In response to you the Vasiṣṭhas reverently invoke you with praises,  when, waking at dawn, they have praised you, well-portioned one.  
 Leader of cows, mistress of prizes, dawn for us, o well-born Dawn. Be  first awake.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Extolling thee, Blest Goddess, the Vasisthas, awake at early mom, with lauds implore thee.  
      Leader of kine and Queen of all that strengthens, shine, come as first to us, O high-born Morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich rufen wieder die Vasistha´s mit Preisliedern, in der Frühe erwacht, du Holde, unter Lobgesängen. Führerin der Kühe, Herrin der Belohnungen, leuchte du uns auf; erwache als die Erste, du edelgeborene Usas!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Lobgesängen preisen die Vasischtha's, dich selige besingend früh am Morgen, Der Labung Herrin, Rinder führend, leuchte, als erste nahe uns, o edle Uschas.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя призывает восхвалениями Васиштхи,  
 Пробуждающиеся на заре, о счастливая, восхваляющие (тебя),  

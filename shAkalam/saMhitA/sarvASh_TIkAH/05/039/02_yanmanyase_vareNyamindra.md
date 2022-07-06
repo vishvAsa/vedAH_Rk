@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡न् म꣡न्यसे व꣡रेणियम्  
 इ꣡न्द्र द्युक्षं꣡ त꣡द् आ꣡ भर  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡कूपारस्य दाव꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि॒द्याम॑ । तस्य॑ । ते॒ । व॒यम् । अकू॑पारस्य । दा॒वने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yan* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -109,7 +109,7 @@ genre M
 हेइन्द्र यत् द्युक्षमन्नं वरेण्यं वरणीयं मन्यसे तत् द्युक्षं आभरास्मभ्यं ते तवसम्बन्धिनोवयं तस्य तादृशस्योक्तलक्षणस्याकूपारस्य अकुत्सितः पारोन्तोयस्यतादृशस्यान्नस्य दावने दाने विद्याम स्याम ॥ २ ॥ वाजपेयेअतिरिक्तोक्थ्येयत्तेदित्स्वेषा सूत्रितञ्च-यत्तेदित्सुप्रराध्यन्त्वामिच्छवसस्पतइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ Gift of unlimited sustenance: tasya akūpārasya dāvane = in the giving of that
 Akupāra = dūrapāra, mahāpa)ra, having a distant or great opposite boundary, also an appellative of the sun and of the ocean; it also means a tortoise, one who does not go into a well, **kūpa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What you consider worthy to be chosen, that heaven-ruling thing bring  here, Indra.  
 Might we know you as the unbounded (ocean) for giving.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although this vs. is lexically and syntactically quite distinct from V.38.2, they seem to share a thematic core. First, note that váreṇi yam at the end of pāda a is positioned identically to śravā́yi yam in 38a, with the same type of formation and roughly the same meaning, and both are introduced by yád ‘which’ at the beginning of their pādas. Here the adj. clearly designates some good thing that Indra should bring us; recall that śravā́yi ya- also usually refers to wealth of some sort. In the second half-verse Indra’s limitless capacity for giving is expressed in a vivid image -
 
@@ -145,23 +145,23 @@ In the refrain (1-3cd) the pl. ‘bulls’ (vṛ́ṣabhiḥ) accompanying Indra
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring what thou deemest worth the wish, O Indra, that which is in heaven.  
      So may we know thee as thou art, boundless in thy munificence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die du für die vorzüglichste hältst, o Indra, die himmlische Gabe bring uns! Als solchen möchten wir dich kennen lernen, der ein Ozean zum Schenken ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was, Indra, dir vorzüglich dünkt, das himmlische, das bringe her; Wir mögen deine Zeugen sein, dass unerschöpflich du beschenkst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что ты считаешь избранным,  
 О Индра, небесным, то (и) принеси!  

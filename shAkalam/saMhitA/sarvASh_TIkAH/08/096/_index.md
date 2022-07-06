@@ -8,7 +8,7 @@ title = "+096"
 ‘ अस्मै ' इत्येकविंशत्यृचं तृतीयं सूक्तम् । अत्रानुक्रम्यते- अस्मै सैका द्युतानो वा मारुतस्त्रैष्टुभं चतुर्थी विराळिष्यामीति मारुतः पादः परैन्द्राबार्हस्पत्या' इति । द्युतानाख्यो मरुतां पुत्र ऋषिस्तिरश्चीर्नामाङ्गिरसो वा । चतुर्थी विराट् । शिष्टास्त्रिष्टुभः । इन्द्रो देवता । इष्यामि वो मरुतः' इति पादो मरुद्देवत्यः। ‘अध द्रप्सः' इत्येषा त्विन्द्राबृहस्पतिदेवताका । सूक्तविनियोगो लिङ्गादवगन्तव्यः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 96 (705)  
 Indra (except Maruts 14d, Indra and Br̥haspati 15)  
@@ -23,7 +23,7 @@ words of Indra addressing the Maruts. But the “story” may also be an extende
 Unified by its opening words “you then,” the next tr̥ca (vss. 16–18) provides  a survey of some of Indra’s great deeds, some obscure (like the rivalry with the  unidentified seven in vs. 16), some familiar: the defeat of Śuṣṇa (17c), the release  of the cows from Vala (17d), and the Vr̥tra battle again (18). The last tr̥ca begins  with a riddle, though not a very challenging one. The first three pādas of verse 19  give a series of definitional descriptors of a hero. Those asked the riddle give their  answer to “the other,” in our opinion the riddler himself: “That’s the Vr̥tra-smiter!”  And they provide other embellishments to the Vr̥tra-smiter in the following two  verses (20–21), while declaring the need to invoke and praise him. The hymn thus  keeps returning to the Vr̥tra battle, and the final three verses implicitly assert that  Vr̥tra-smiter is Indra’s fundamental role.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

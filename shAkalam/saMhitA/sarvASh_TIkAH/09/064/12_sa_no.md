@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो अर्ष पवि꣡त्र आ꣡  
 म꣡दो यो꣡ देववी꣡तमः  
 इ꣡न्दव् इ꣡न्द्राय पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्दो॒ इति॑ । इन्द्रा॑य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -93,19 +93,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्दो** **यः** त्वं **देववीतमः** अतिशयेन देवकामः **मदः** मदकरश्च भवसि **सः** त्वं **नः** अस्माकं **पवित्रे** **इन्द्राय** इन्द्रस्य पीतये पानाय **आ** **अर्ष** आपवस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, who are exhilarating and most devoted to the gods, hasten to the filter for **Indra** to drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush into our filter, as the exhilarating drink that best pursues the gods, o drop, for Indra to drink.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -115,23 +115,23 @@ There are some unifying features in this tṛca. Although this is hardly strikin
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow to our sieve, a gladdening draught that hath most intercourse with Gods,  
      Indu, to Indra for his drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe du uns in der Seihe als der göttereinladendste Rauschtrank, o Saft, für Indra zum Trunke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indu, ström' in unser Sieb zum Trunk dem Indra, als der Trank, Der Göttern beste Labung bringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

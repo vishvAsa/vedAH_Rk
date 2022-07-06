@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मूरा꣡ अमूर न꣡ वयं꣡ चिकित्वो  
 महित्व꣡म् अग्ने तुव꣡म् अङ्ग꣡ वित्से  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रेरिह्य꣡ते युवतिं꣡ विश्प꣡तिः स꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 शये॑ । व॒व्रिः । चर॑ति । जि॒ह्वया॑ । अ॒दन् । रे॒रि॒ह्यते॑ । यु॒व॒तिम् । वि॒श्पतिः॑ । सन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mūrā* ← *mūrāḥ* ← *mūra*
 - \[noun\], nominative, plural, masculine
@@ -130,7 +130,7 @@ genre M
 हे **अमूर** अमूढ अत एव **चिकित्वः** चेतनवन् हे अग्ने **मूराः** मूढाः **वयं** तव माहात्म्यं **न** जानीमः । किंतु हे अग्ने **त्वमङ्ग**। अङ्गेति निपात एवार्थे । त्वमेव तव **महित्वं** माहात्म्यं **वित्से** जानासि । त्वत्तः कोऽन्यो वेदितुमर्हति । किंच **वव्रिः** जीर्णः ओषधीसङ्गः **शये** शेते। तिष्ठति । यद्वा । वव्रिरिति रूपनाम सामर्थ्याच्चान्तर्णीतमत्वर्थं द्रष्टव्यम्। अहवनीयाख्येन रूपेण रूपवान् शये चरति । अथ जिह्वया ज्वालाख्यया **अदन्** हवींषि भक्षयन् **चरति** । वाक्यभेदादनिघातः। किंच **विश्पतिः** विशां स्वामी **सन्** अग्निः **युवतिम्** आत्मनो मिश्रयित्रीमाहुतिं दीर्घप्रसूतया ज्वालया जिह्वया **रेरिह्यते** अत्यर्थं लेढि आस्वादयति ॥ ‘ लिह आस्वादने । यङि रूपम् । यद्वा । सोऽग्निर्युवतिं तरुणीं जीर्णौषधिकां पृथिवीमास्वादयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 Wearing a form: as the **āhavanīya** fire; licks up the mixed oblatioṅrerehyate yuvatim viśpatiḥ san: yuvai = the youthful earth, as compared with its withered plural nts, taruṇīmjīrṇauṣadhikām pṛthivīm asvādyati
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We fools do not (know) your greatness, o you who are no fool; but,  observant Agni, you surely know it.  
 His covering [=wood] lies still; he moves, eating it with his tongue. The  clanlord licks the young woman [=offering ladle] again and again.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Foolish are we, O Wise and free from error: verily, Agni, thou dost know thy grandeur.  
      There lies the form: he moves and licks, and swallows, and, as House-Lord, kisses the Youthful Maiden.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir Toren verstehen nicht deine Größe, du kluger verständiger Agni; du allein verstehst sie. Seine Hülle liegt da, er geht mit der Zunge essend; als der Clanherr küßt er heftig die Jugendliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir sind wie Thoren, unbethörter, weiser; du hast allein, o Agni, wahre Grösse; Die Hülle ruht, er geht und leckend isst er, die junge Gattin küsst er als der Hausherr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Неразумные, о разумный, мы не (знаем), о мудрый  
 Агни, (твоего) величия. Ты один его знаешь.  

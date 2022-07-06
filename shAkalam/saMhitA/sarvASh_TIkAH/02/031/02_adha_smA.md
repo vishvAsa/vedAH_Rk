@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध स्मा न उ꣡द् अवता सजोषसो  
 र꣡थं देवासो अभि꣡ विक्षु꣡ वाजयु꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पृथिव्याः꣡ सा꣡नौ ज꣡ङ्घनन्त पाणि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । आ॒शवः॑ । पद्या॑भिः । तित्र॑तः । रजः॑ । पृ॒थि॒व्याः । सानौ॑ । जङ्घ॑नन्त । पा॒णिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -121,7 +121,7 @@ genre M
 हेसजोषसः समानम्प्रीयमाणाःक् देवासोदेवाः अधअधुनानोस्माकंवाजयुं वाजमन्नङ्कामयमानं गतिविशेषयुक्तंवारथं विक्षुप्रजासुजनपदेषु अभिअभिमुखंउदवतउदगमयत अवतिरत्रगत्यर्थः स्मे- तिपूरणः यद्यदास्मिन् रथेयुक्ताः आशवोव्यापनशीलाअश्वाः पद्याभिः पादसाध्याभिः गतिभिः रजोरञ्चकम्मार्गतित्रतः तरन्तः तरतेःशतरि बहुलञ्छन्दसीतिशपःश्लुः बहुलञ्छन्द्सीत्यभ्यासस्यत्वम् अभ्यस्तानामादिरित्याद्युदात्तत्वम् पृथिव्याःप्रथितायाः भूमेः सानौसमुच्छ्रितेप्रदेशेपाणिभिः पाण्यु पलक्षितैः पादैः जघनन्त अत्यर्थङ्गच्छन्ति हन्तेर्यङ्लुगन्ताच्छान्दसोलङ् व्यत्ययेनात्मनेपदम् बहु- लञ्छन्दसीतिशपोलुगभावः ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M
 Upon the high plural ces of the earth: pṛthivyāḥ sānau jaṅghananta pāṇibhiḥ = going heavily on the precipice of the earth with their feet; liṭ, with their **hands**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then help out our chariot, you gods of one accord, as it seeks prizes  among the clans,  
 when the swift ones, crossing through the airy realm with their strides,  keep trampling on the back of the earth with their forefeet.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, now ye Gods of one accord speed on our car what time among the folk it seeks an act of might;  
      When, hasting through the region with the stamp of hoofs, our swift steeds trample on the ridges of the earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann bringet, ihr einmütigen Götter, unseren nach dem Siegerpreis strebenden Wagen über andere zu Ehren bei den Clanen, wann die Rennpferde mit den Tritten die Strecke zurücklegend, mit den Hufen auf dem Rücken der Erde stampfen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So fördert jetzt vereinigt unsern Wagen auch, der Preis erstrebend, Götter, bei den Menschen eilt; Wenn unsrer Rosse Hufschlag durch die Lüfte dringt, wenn ihre Füsse stampfen auf der Erde Grund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так помогите же прежде всего нашей колеснице,  
 О единодушные боги, стремящейся к добыче среди племен,  

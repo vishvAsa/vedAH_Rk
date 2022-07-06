@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ नो यज्ञ꣡म् अमृ꣡तेषु धेहि  
 इमा꣡ हव्या꣡ जातवेदो जुषस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हो꣡तः प्रा꣡शान प्रथमो꣡ निष꣡द्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्तो॒काना॑म् । अ॒ग्ने॒ । मेद॑सः । घृ॒तस्य॑ । होत॒रिति॑ । प्र । अ॒शा॒न॒ । प्र॒थ॒मः । नि॒ऽसद्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -114,7 +114,7 @@ genre M
 गाथी प्रार्थयते । हे **जातवेदः** जातप्रज्ञ अग्ने **नः** अस्माकं संबन्धिनम् **इमं** **यज्ञं** पशुयागम् **अमृतेषु** मरणधर्मरहितेषु यष्टव्यदेवेषु **धेहि** तदधीनतया समर्पय । त्वं च **इमा** इमान्यस्माभिर्दीयमानानि **हव्या** हव्यानि हवींषि **जुषस्व** सेवस्व । किंच **होतः** देवानामाह्वातः ।  ‘ अग्निर्वै देवानां होता ' ( ऐ. ब्रा. ३. १४ ) इत्याम्नानात् । तादृश हे **अग्ने** **निषद्य** वेद्यामुपविश्य **प्रथमः** सर्वेषामृत्विजामादिमः सन् **मेदसः** वपाख्यस्य हविषः **घृतस्य** आज्यस्यं च **स्तोकानाम्** । द्वितीयार्थे षष्ठी । मेदोघृतयोर्ये स्तोका बिन्दवो विद्यन्ते तान्प्रकर्षेण **अशान** भक्षय। पिबेत्यर्थः ॥ धेहि । दधातेर्लोटि रूपम् । जुषस्व । जुषी प्रीतिसेवनयोः' इत्यस्य लोटि आत्मनेपदिनो रूपम् । अशान ।  ‘ अश भोजने ' इत्यस्य लोटि ‘हलः श्नः शानज्झौ ' ( पा. सू. ३. १.८३) इति शानजादेशः । पश्चात्  ‘ अतो हेः' इति हेर्लुक्। निघातः। प्रथमः। प्रथ प्रख्याने' । प्रथमः प्रथन्तेऽस्मात् द्वितीयादयः इति । ‘प्रथेरमच्' ( उ. सू. ५. ७४६ ) इत्यमच् । चित्त्वादन्तोदात्तः । निषद्य । ‘षद्लृ विशरणगत्यवसादनेषु ' इत्यस्य ल्यपि रूपम् । **सदिरप्रतेः'** इति षत्वम् । ‘लिति' इति प्रत्ययात्पूर्वस्योदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,34 +125,34 @@ genre M
 Stokāḥ = any small portion; further explained as bindavaḥ, drops; the hymn is proper to animal sacrifices, **paśu**-yāgam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Place this our sacrifice among the immortals. Take pleasure in these  oblations, Jātavedas.  
 Eat of the drops of fat and of ghee, o Agni, our Hotar, taking your seat  as the first.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SET this our sacrifice among the Immortals: be pleased with these our presents, Jatavedas.  
      O Priest, O Agni, sit thee down before us, and first enjoy the drops of oil and fatness.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Take this our sacrifice to the immortals; accept graciously these offerings, O Gâtavedas. O Agni, partake of the drops of fat and ghee, O Hotri, having sat down as the first.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses Opfer von uns bring zu den Unsterblichen, diese Opferspenden laß dir schmecken, o Jatavedas! Agni, nimm Platz und genieße als erster von den Tropfen des Fettes, des Schmalzes, o Hotri!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies unser Opfer bringe zu den Göttern, nimm an, o Wesenkenner, diese Güsse, geniesse von der fetten Butter Tropfen, o Priester Agni, dich als erster setzend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эту нашу жертву помести среди бессмертных!  
 Наслаждайся этими возлияниями, о Джатаведас!  

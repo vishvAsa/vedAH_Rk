@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ ष्मा ते शतं꣡ चन꣡  
 रा꣡धो व꣡रन्त आमु꣡रः  
 न꣡ च्यौत्ना꣡नि करिष्यतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 न । च्यौ॒त्नानि॑ । क॒रि॒ष्य॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi* ← *na*
 - \[adverb\]
@@ -92,36 +92,36 @@ genre M
 हे इन्द्र **आमुरः** बाधका राक्षसादयः **ते** त्वदीयं **शतं** **चन** शतपरिमितमपि **राधः** धनं **नहि** **वरन्ते** **स्म** न वारयन्ति खलु । किंच शत्रूणां हिंसनं **करिष्यतः** तव **च्यौत्नानि** बलानि **न** वारयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adversaries diminish not your hundred-fold opulence nor resist the energies of you opposing (them).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For not even a hundred hindrances can block your generosity,  
 nor your exploits when you will do them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No, not a hundred hinderers can check thy gracious bounty's flow,  
      Nor thy great deeds when thou wilt act.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn nicht halten deine Freigebigkeit auch nicht hundert Hindernisse auf, noch deine Unternehmungen, wenn du sie ausführen willst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn deine Gaben hemmen auch selbst hundert Feinde nimmermehr, Noch deine Thaten, die du wirkst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не мешает же твоему дарению  
 Ни сотня вредителей,  

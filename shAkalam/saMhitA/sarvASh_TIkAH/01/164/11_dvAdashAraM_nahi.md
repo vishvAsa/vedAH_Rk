@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुवा꣡दशारं नहि꣡ त꣡ज् ज꣡राय  
 व꣡र्वर्ति चक्र꣡म् प꣡रि द्या꣡म् ऋत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सप्त꣡ शता꣡नि विंशति꣡श् च तस्थुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । पु॒त्राः । अ॒ग्ने॒ । मि॒थु॒नासः॑ । अत्र॑ । स॒प्त । श॒तानि॑ । विं॒श॒तिः । च॒ । त॒स्थुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dvādaśāraṃ* ← *dvādaśa* ← *dvādaśan*
 - \[noun\]
@@ -126,7 +126,7 @@ popular
 **ऋतस्य** उदकस्य सत्यात्मकस्य वा आदित्यस्य **चक्रं** पुनःपुनःक्रमणशीलं मण्डलाख्यं रथचक्रं वा **वर्वर्ति** पुनःपुनर्वर्तते संचरति । कुत्र । **द्यां** **परि** द्युलोकस्यान्तरिक्षस्य परितः । कीदृशं तत् । **द्वादशारं** द्वादशसंख्याकमेषादिराश्यात्मकैः मासात्मकैर्वा अरैः रथाङ्गावयवैर्युक्तम् । किंच **तत्** चक्रं **नहि** **जराय** नैव खलु जरायै भवति । हे **अग्ने** सर्वदा गमनयुक्त आदित्य । यद्वा । अग्नेरेव स्थानत्रये तत्तदात्मना वर्तमानत्वात् असावप्यग्निरित्युच्यते । **अत्र** अस्मिन् त्वदीये चक्रे **मिथुनासः** स्त्रीपुंसरूपेण परस्परं मिथुनभूताः **सप्त** **शतानि** **विंशतिश्च** विंशत्युत्तरसप्तशतसंख्याकाः **पुत्राः** पुत्रवदुत्पद्यमानाः प्राणिनां दुःखात् त्रातारो वा अहोरात्ररूपाः **तस्थुः** तिष्ठन्ति निष्पद्यन्ते । षष्ठ्यधिकशतत्रयसंख्याकानि अहानि तावत्यः एव रात्रयः इत्येवं तद्विभागः । सप्त च वै शतानि विंशतिश्च संवत्सरस्याहोरात्राः स एषोऽहःसंमानः ' (ऐ. आ. ३. २. १) इत्यारण्यकम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,30 +137,30 @@ popular
 Twelve-spoked wheel: the twelve signs of the **zodiac**: dvādaśāram **dvādaśa** saṅkhyākameṣādirāśyātmakaiḥ māsātmakairvā araiḥ rathāṅgāvayavayairyuktam; the term may also mean twelve months; seven hundred and twenty children: nights and days; three hundred and sixty of each: sapta ca vai śatāni viṃśatiśca saṃvatsarasyāhorātrāḥ sa eṣohaḥ smmānaḥ (**Aitareya** **Āraṇyaka** 3.2.1)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Twelve-spoked, the wheel of truth [=the Sun] ever rolls around  
 heaven—yet not to old age.  
 Upon it, o Agni, stand seven hundred twenty sons in pairs [=the nights  and days of the year].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Formed with twelve spokes, by length of time, unweakened, rolls round the heaven this wheel of during Order.  
      Herein established, joined in pairs together, seven hundred Sons and twenty stand, O Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies zwölfspeichige Rad der Zeitordnung dreht sich immer wieder um den Himmel, denn nicht kann es sich abnutzen. Darauf stehen, o Agni, die Söhne paarweise, siebenhundert und zwanzig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ohne sich je abzunutzen rollt das zwölfspeichige Rad der ewigen Ordnung [das Jahr] um den Himmel, siebenhundertundzwanzig verzwillingte Söhne [360 Tage und Nächte], o Agni, sind auf das selbe hinaufgestiegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 0 двенадцати спицах – ведь оно не изнашивается! -  
 Вращается колесо закона по небу.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ ब्र꣡ह्म ब्रह्मवाहः  
 क्रिय꣡न्त आ꣡ बर्हिः꣡ सीद  
 वीहि꣡ शूर पुरोळा꣡शम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 वी॒हि । शू॒र॒ । पु॒रो॒ळाश॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
@@ -94,7 +94,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **ब्रह्मवाहः**। ब्रह्माणि स्तोत्राणि स्तुत्यतया वहतीति ब्रह्मवाहा ब्रह्मणा स्तोत्रेण प्राप्यते इति वा । हे स्तुत्य इन्द्र तुभ्यम् **इमा** इमानि ब्रह्म ब्रह्माणि स्तोत्राणि अस्माभिः **क्रियन्ते** । अतः **बर्हिः** **आ** **सीद** स्तुत्यतया बर्हिषि यज्ञे उपविश । हे **शूर** समर्थेन्द्र अस्माभिर्दीयमानमिमं **पुरोडाशं** पुरोडाशाख्यं हविः **वीहि** भक्षय ॥ ब्रह्मवाहः । ' वह प्रापणे ' इत्यस्मात् ' वहिहाधाञ्भ्यश्छन्दसि ' इत्यसुन् । ' णित् ' इत्यनुवृत्तेरुपधावृद्धिः । आमन्त्रितत्वान्निघातः । क्रियन्ते । करोतेः कर्मणि यक् ।  रिङ् शयग्लिङ्क्षु ' इति रिङादेशः । प्रत्ययस्वरः । पादादित्वादनिघातः । बर्हिः । कालाध्वनोरत्यन्त- संयोगे द्वितीया । वीहि । वी कान्त्यादिषु । लोटि रूपम् । हेर्ङित्त्वादुदात्तः । पुरोळाशम् ।  दाशृ दाने ' इत्यस्मात् पुरस्पूर्वात् ' मन्त्रे श्वेतवहोक्थशस्पुरोडाशो ण्विन् ' ( पा. सू ३.२. ७१) । पुरो दाशन्त एनमिति । निपातनाद्दकारस्य लकारः । कृदुत्तरपदस्वरः । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,29 +105,29 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Bearer of prayers: **brahmavāhaḥ**, stotrāṇi vahati, who bears or receives praise; or it may mean brahmaṇā stotreṇa prāpyate, who is attained by praise or prayer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here are the sacred formulations being made, o you whose vehicle is the  formulation. Sit on the ritual grass;  
 seek after the offering cake, o champion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These prayers, O thou who hearest prayer are offered: seat thee on the grass.  
      Hero, enjoy the offered cake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hier werden dir Erbauungen bereitet, der du die Erbauungen zu deinem Gefährt machst. Setz dich auf das Barhis, habe Lust zu dem Reiskuchen, o Held!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebete sind, Erflehter, dir gebracht hier, setz dich auf die Streu; Den Opferkuchen iss, o Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Совершаются эти заклинания,  
 О тот, кто ездит на заклинаниях. Садись на солому!  

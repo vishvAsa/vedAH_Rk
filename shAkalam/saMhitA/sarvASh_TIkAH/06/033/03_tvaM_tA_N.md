@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ताँ꣡ इन्द्र उभ꣡याँ अमि꣡त्रान्  
 दा꣡सा वृत्रा꣡णि आ꣡रिया च शूर  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ पृत्सु꣡ दर्षि नॄणां᳐꣡+ नृतम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वधीः॑ । वना॑ऽइव । सुऽधि॑तेभिः । अत्कैः॑ । आ । पृ॒त्ऽसु । द॒र्षि॒ । नृ॒णाम् । नृ॒ऽत॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -124,20 +124,20 @@ genre M
 हे **इन्द्र** **त्वं** **तान्** **उभयान्** वक्ष्यमाणान् उभयविधान् **अमित्रान्** शत्रून् **वधीः** अहिंसीः । के त उभयविधाः । **दासा** उपक्षपयितॄन् कर्मविरोधिनो वलप्रभृतीनसुरान् ॥ ‘सुपां सुलुक्' इति शस आकारः ॥ **आर्या** आर्याणि कर्मानुष्ठातृत्वेन श्रेष्ठानि **वृत्राणि** आवरकाणि विश्वरूपादीनि **च** तान् उभयविधान् हे **शूर** त्वं हतवानित्यर्थः । **नृणां** नेतॄणां मध्ये **नृतम** अतिशयेन नेतर्हे इन्द्र **पृत्सु** संग्रामेषु **सुधितेभिः** सुष्ठु निहितैः **अत्कैः** आत्मीयैरायुधैः **आ** **दर्षि** अन्यानपि शत्रूनादृणासि विदारयसि । तत्र दृष्टान्तः । **वनेव** वनानीव । यथा वृक्षजातानि कुठारादिभिश्छिनत्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, hero, **Indra**, destroyed both (classes of) enemies, (both) **Dāsa** and **Ārya**, adversaries; chief leader of leaders, you cut your foes in pieces in battles with well-plural ed weapons, as (wood-cutters fell) the forests.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o champion, smite both kinds of enemies, the Dāsa and the Ārya  obstacles,  
 like trees (with hatchets), with your well-placed cloaks. Break (them)  apart in the battles, o most manly of men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Ārya obstacles are presumably peoples akin to us, but fighting against us.
 
@@ -146,23 +146,23 @@ As noted in the published introduction, Indra’s apparent weapons of “well-pl
 As also noted in the published introduction, I suspect that súdhita- is a buried play on words. It is stationed between váneva “like the woods, trees” and átkaiḥ. In conjunction with the former, it evokes svádhiti- ‘hatchet, axe’; cf., for similar context, X.89.7 jaghā́na vrtrá ̥ ṃ svádhitir váneva “He smote Vr̥tra, like an axe the trees.” For another pun involving svádhiti-, see V.32.10 where the “Heavenly Hatchet” (devī́svádhitiḥ) probably plays on svadhā́- ‘independent power’. See comm. ad loc. As already pointed out ad VI.4.7, nṛtama is not suitable for the cadence of any Vedic meter, and save for this passage and VI.4.7 it avoids this position. It is found several times with nṛṇā́m in the cadence but in the reverse order: IV.25.4 nṛ́tamāya nṛṇā́m, V.30.12, X.29.2 nṛ́tamasya nṛṇā́m, where the oblique forms of nṛ́tamasupport a good Triṣṭubh cadence. The order may have been flipped here, but why?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Both races, Indra, of opposing foemen, O Hero, both the Arya and the Dasa,  
      Hast thou struck down like woods with well-shot lightnings: thou rentest them in fight, most manly Chieftain!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schlage, tapferer Indra, diese beiden Gegner, die dasischen und die arischen Feinde nieder wie die Bäume, in passenden Verkleidungen! Zersprenge sie in den Schlachten, du Mannhaftester der Männer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du Indra schlägst die beiderseit'gen Feinde, die arischen, o Held, und die Barbaren; Mit wohlgezielten Blitzen triffst im Kampfe du sie wie Bäume, männlichster der Männer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, недругов обоего рода:  
 Врагов из дасов и из ариев, о герой,  

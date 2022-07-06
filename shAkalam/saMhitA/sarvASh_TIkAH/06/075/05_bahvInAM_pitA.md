@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बह्वीना꣡म् पिता꣡ बहु꣡र् अस्य पुत्र꣡श्  
 चिश्चा꣡ कृणोति स꣡मनावग꣡त्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृष्ठे꣡ नि꣡नद्धो जयति प्र꣡सूतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒षु॒ऽधिः । सङ्काः॑ । पृत॑नाः । च॒ । सर्वाः॑ । पृ॒ष्ठे । निऽन॑द्धः । ज॒य॒ति॒ । प्रऽसू॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bahvīnām* ← *bahu*
 - \[noun\], genitive, plural, feminine
@@ -126,7 +126,7 @@ popular
 इषुधिरत्र स्तूयते । **इषुधिः** **बह्वीनाम्** इषूणां **पिता** भवति । रक्षणहेतुत्वात् पितेत्युच्यते । इषुशब्दस्योभयलिङ्गत्वात् बह्वीनामिति प्रयोगः। **अस्य** इषुधेः **पुत्रः** इषुः **बहुः** भवति । बहव इषवो हीषुधौ निधीयन्ते! इषूणां निधानत्वादिषुधिः । तथा च यास्कः - ‘ इषुधिरिषूणां निधानम् ' ( निरु. ९. १३) इति । **चिश्चा** **कृणोति** । चिश्चेति शब्दानुकृतिः । इषुषु उद्ध्रियमाणेषु इषुधिश्चिश्चाशब्दं करोति । किंच इषुधिः **पृष्ठे** **निनद्धः** धन्विनो राज्ञः पृष्ठभागे बद्धः **समना** युद्धानि **अवगत्य** प्राप्य **प्रसूतः** प्रसुवन् ॥ कर्तरि निष्ठा ॥ इषून् प्रेरयन् **संकाः** । सह कायन्ति शब्दयन्त इति संकाः **पृतनाः** **सर्वाः** सेनाः **जयति** ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,36 +137,36 @@ popular
 Shouting hosts: **saṅkāḥ** **pṛtanāḥ**: **saṅkā** = sounding together, sam kāyanti; **Yāska**, **Nirukta** 9.14: saṅkā: from sac, to be assembled or sam, with; kṛ, to be renowned, armies in which there are assembled, or celebrated warriors
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Father of many (daughters [=arrows]), he (also) has many a son; he  makes a clattering when he descends into the melees.  
 The quiver, tied onto the back, wins clashes and battles—all of them— when it is thrust into action.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The expression bahúr asya putráḥ in the singular is somewhat surprising next to the fem. pl. bahvīnā́m, but Renou’s suggestion that it is a “bahuvrīhi défait” can be adopted, whatever we may think the grammatical process is. I have adopted Griffith’s “with many a son” (both RV and VS tr.; see also Maurer), which is surprisingly apt. As is generally recognized, the masc. and fem. referents are both arrows: in addition to the standard fem. íṣu-, forming part of the ‘quiver’ cmpd itself (iṣudhí- in c), there are masc. ‘arrow’ words, incl. bāṇá-, found in vs. 17 below, and śalyá-.
 
 Another onomatopoetic word: ciścā́, which is a hapax (though cf. ciściṣākāram, with √kṛ as here, not attested till the sūtras; see Hoffmann Aufs. 39). Since it expresses the sound of the quiver, “clatter” (pub. tr.), “rattle” (Doniger, Maurer), “clang and clash” (Griffith, RV and VS) all seem within reasonable range; Keith’s “whiz” much less so. Again the sound may in fact just be “chishcha.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With many a son, father of many daughters, He clangs and clashes as he goes to battle.  
      Slung on the back, pouring his brood, the Quiver vanquishes all opposing bands and armies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist der Vater vieler, viel ist seine Söhneschar; er macht kling, wenn er in die Schlacht zieht. Der Köcher gewinnt die Kämpfe und alle Schlachten, auf den Rücken geschnallt, wenn er in Tätigkeit gesetzt wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Vater vieler, viel sind seiner Söhne, lässt schwirren sie, sobald er in den Kampf geht, Der Köcher, auf dem Rücken festgebunden, gewinnt, entbunden, alle Kämpf' und Schlachten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Он-) отец многих (дочерей), много у него (и) сыновей.  
 Он издает (звук) Пшш, пускаясь в битву.  

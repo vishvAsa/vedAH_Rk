@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ अभ्रि꣡यो न꣡ य꣡वस उदन्य꣡न्  
 क्ष꣡याय गातुं꣡ विद꣡न् नो अस्मे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्येनो꣡ अ꣡योअपाष्टिर् हन्ति द꣡स्यून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उप॑ । यत् । सीद॑त् । इन्दु॑म् । शरी॑रैः । श्ये॒नः । अयः॑ऽअपाष्टिः । ह॒न्ति॒ । दस्यू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -122,37 +122,37 @@ genre M
 **सः** इन्द्रः **अभ्रियो** **न** । न भ्राजन्तेऽपो बिभ्रतीति वाभ्राणि मेघाः । तेषां संघोऽभ्रियः । स इव **यवसे** गवादिभक्षणसाधनाय तृणाय **उदन्यन्** उदकं दातुमिच्छन् । तथा **क्षयाय** गमनाय निवासाय वा **अस्मे** अस्माकं **गातुं** मार्गं **विदत्** लम्भयन् । **नः** इति पूरणः । तादृशः सन् **यत्** यदा **इन्दुं** सोमं **शरीरैः** स्वशरीरावयवैरङ्गैः **उप** सीदत् उपगच्छति । यच्छब्दयोगादनिघातः । तदानीं **श्येनः** । सादृश्यप्रधानोऽयं निर्देशः । श्येनसदृशः श्येनवच्छंसनीयगमनः **अयोपाष्टिः** । अपयष्टिर्व्याप्तिर्यस्य स प्रदेशोऽपाष्टिः पार्ष्णिः । अयोमयोऽपाष्टिः पार्ष्णिर्यस्य सः । **दस्यून्** शत्रून् **हन्ति** हिनस्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like the aggregated cloud desiring to pour water on the pasturage, he found the way to our dwellingwhen he approached the **Soma** with his limbs, like a hawk with heel of metal he smites the **Dasyus**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, like a storm-cloud streaming water upon the pasture-land, finds a  way to a peaceful dwelling for us.  
 When he reverently approaches the (soma-)drop with his limbs, the  
 falcon with claws of metal smashes the Dasyus.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, like a cloud that rains upon the pasture, hath found for us the way to dwell in safety.  
      When the Hawk comes in body to the Soma, armed with his iron claws he slays the Dasyus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wasser spendend wie eine Gewitterwolke der Weide, fand er für uns den Weg zu unserem Wohnsitz. Als der Adler mit seinem Leibe an den Soma herankam, da tötet der Eisenkrallige die Dasyu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie ein aus der Wetterwolke strömender Regen, der auf das Gras sich ergiesst, so schenke er uns gedeihlichen Zugang zu[490] sicherm Wohnsitze; wenn er sich mit seinen Gliedern zum Indutranke gesetzt hat, so tödtet der mit ehernen Krallen versehene Adler die Dämonen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно грозовая туча, орошающая пастбище,  
 Он нашел для нас выход к поселению.  

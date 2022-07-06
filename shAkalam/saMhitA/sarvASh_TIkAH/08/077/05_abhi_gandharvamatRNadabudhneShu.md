@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ गन्धर्व꣡म् अतृणद्  
 अबुध्ने꣡षु र꣡जस्सु आ꣡  
 इ꣡न्द्रो ब्रह्म꣡भ्य इ꣡द् वृधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 इन्द्रः॑ । ब्र॒ह्मऽभ्यः॑ । इत् । वृ॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M
 अयम् **इन्द्रः** **गन्धर्वम्** । गामुदकं धारयतीति गन्धर्वो मेघः । तम् **अभि** **आ** **अतृणत्** सर्वतो हिंसितवान् । कुत्र । **अबुध्नेषु** पदनिधानयोग्यस्थानरहितेषु **रजःसु** लोकेषु । अन्तरिक्षप्रदेशेष्वित्यर्थः । किमर्थम् । **ब्रह्मभ्य** **इत्** ब्राह्मणेभ्य एव **वृधे** वर्धनाय ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,12 +95,12 @@ Cloud: **gandharva**, gandharvam;
 Brāhmaṇas: brahmebhyaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He bored through to the Gandharva in the bottomless dusky realms, to strengthen the composers of sacred formulations—(did) Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have no idea who or what the Gandharva represents here. Geldner suggests that it can be the Gandharva as Somabewacher or, alternatively, the sun, but the context gives no particular support to either identification. It would be desirable to connect this verse with the Emuṣa myth, but I do not see how to do that either. It should be noted, however, that the datival phrase brahmábhyaḥ … vṛdhé “to strengthen the composers of sacred formulations” is reminiscent of the datival phrase in vs. 8, an undoubted Emuṣa verse, stotṛ́bhyaḥ … nṛ́bhyo nā́ribhyo áttave “for the praisers, the superior men and their ladies, to eat.” Note in our phrase the “attraction” of the obj. brahmábhyaḥ into the dat. to match the inf. vṛdhé. Unless we wish to interpr. the phrase as passive, “for the composers … to be strengthened.” On the lexeme abhí √tṛd, see comm. ad IX.110.5. It is generally specialized for the drilling into the cave in the Vala myth, but that seems to give us no help here.
 
@@ -124,23 +124,23 @@ The name índraḥ is identically positioned in all three verses of this tṛca,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra in groundless realms of space pierced the Gandharva through, that he  
      Might make Brahmans' strength increase.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra stieß zum Gandharva in den bodenlosen Räumen durch, den Hohenpriestern zum Gedeihen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im bodenlosen Raum der Luft durchbohrte den Gandharven er, Den Betern Indra zum Gewinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он пробуравил (путь) к Гандхарве  
 В бездонных пространствах,  

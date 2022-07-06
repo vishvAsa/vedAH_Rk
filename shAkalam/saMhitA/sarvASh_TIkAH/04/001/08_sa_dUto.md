@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ दूतो꣡ वि꣡श्वे꣡द् अभि꣡ वष्टि स꣡द्मा  
 हो꣡ता हि꣡रण्यरथो रं꣡सुजिह्वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡दा रण्वः꣡ पितुम꣡तीव संस꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 रो॒हित्ऽअ॑श्वः । व॒पु॒ष्यः॑ । वि॒भाऽवा॑ । सदा॑ । र॒ण्वः । पि॒तु॒मती॑ऽइव । स॒म्ऽसत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -127,48 +127,48 @@ genre M
 देवानां **दूतः** **होता** देवानामाह्वाता **हिरण्यरथः** सुवर्णमयरथोपेतः **रंसुजिह्वः** रमणीयशोभनज्वालोपेतः **सः** तादृशोऽग्निः **विश्वेत्** सर्वाण्येव **सद्म** देवयजनस्थानानि **अभि** **वष्टि** कामयते । पुनश्च कीदृशः । **रोहिदश्वः** । रोहितवर्णाः अश्वाः यस्य स तथोक्तः । **वपुष्यः** वपुषि रूपे साधुः **विभावा** कान्तियुक्तोऽत एव **सदा** **रण्वः** रमणीयो भवति । तत्र दृष्टान्तः । **पितुमतीव** **संसत्** ॥ यथा अन्नादिमत् समृद्धं गृहं रमणीयं तद्वत् ॥ रंसुजिह्वः । रमतेः  ‘ अन्येभ्योऽपि दृश्यन्ते' इति विच् । बहुव्रीहौ पूर्वपदस्वरः । वपुष्यः । तत्र साधुः' इति यत् । तित्स्वरितः । विभावा। ‘छन्दसीवनिपौ° ' इति वनिप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The messenger, the invoker (of the gods), riding in a golden chariot with a tongue of flame, he frequents all the chambers (of sacrifice); drawn by red horses embodied resplendent, always agreeable, as a delling well supplied with food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As messenger he strives toward all seats, the Hotar whose chariot is  golden, whose tongue is amid the pleasures [=oblations],  
 whose horses are ruddy, he wondrous, far-radiant, always pleasurable  like a banquet abounding in food.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In b the caesura appears to coincide with a compound seam (#hótā híraṇya/ratho …), as Holland & van Nooten Rig Veda edition also note. This is reminiscent of the proposed caesuras in 4c and 6b, before the splv. suffix -tama. See also 19b.
 
 The first cmpd member ráṃsu- is taken by Schindler (Rt Nns, 40) as the loc. pl. to a root noun rán- ‘Freude’, an analysis accepted by Mayrhofer (EWA s.v. RAṆ).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This envoy joyeth in all seats of worship, borne on his golden car, sweet-tongued Invoker:  
      Lovely to look on, with red steeds, effulgent, like a feast rich in food, joyous for ever.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He, the messenger, longs for all seats, the Hotri with the golden chariot, with the lovely tongue, with the red horses, of marvellous appearance, brilliant, always lovely like an assembly abundant in food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er, der Bote, strebt allen Sitzen zu, der Hotri mit goldenem Wagen und ergötzlicher Zunge, mit roten Rossen, stattlich, erglänzend, immer erfreulich wie eine speisereiche Tafel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Bote strebt er hin zu allen Sitzen, mit goldnem Wagen, holder Zung' als Priester, Mit rothen Rossen wunderschön und strahlend, erfreuend stets wie reich besetzte Tafel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как вестник он стремится ко всем сиденьям,  
 Хотар на золотой колеснице, с радостным языком,  

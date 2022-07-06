@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्य꣡म् इ꣡त् त꣡न् न꣡ त्वा꣡वाँ अन्यो꣡ अस्ति  
 इ꣡न्द्र देवो꣡ न꣡ म꣡र्तियो जिया꣡यान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वासृजो अपो꣡ अ꣡छा समुद्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अह॑न् । अहि॑म् । प॒रि॒ऽशया॑नम् । अर्णः॑ । अव॑ । अ॒सृ॒जः॒ । अ॒पः । अच्छ॑ । स॒मु॒द्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
@@ -128,36 +128,36 @@ genre M
 हे **इन्द्र** वक्ष्यमाणं **तत्** सत्यमित् सत्यमेव नानृतम् । **त्वावान्** त्वत्सदृशः **अन्यः** **देवः**  **न** **अस्ति** । त्वत्सदृशोऽन्यः **मर्त्यः** मनुष्योऽपि **न** एव विद्यते । **ज्यायान्** अधिकोऽपि देवो मनुष्यो वा न खल्वस्ति । इति यद्गीयते तत्सत्यमेवेत्यर्थः । अपि च त्वम् **अर्णः** उदकं **परिशयानं**  परिवृत्य शयानम् **अहिम्** मेघम् **अहन्** अवधीः । हत्या च **समुद्रम्** अन्तरिक्षं जलधिं वा **अच्छ** अभिमुख्येन **अपः** उदकानि **अवासृजः** अवाङ्मुखतया विसृष्टवानसीत्यर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily it is the truth, **Indra**, that there is no other such as you, no god nor mortal is (your) superior; you have slain Ahi obstructing the waters, you have set them free (to flow) to the ocean.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is really true: there exists no other like you. Indra, no god nor  mortal is greater.  
 You smashed the serpent that lay around the flood; you sent the waters  surging toward the sea.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is the truth, none else is like thee, Indra, no God superior to thee, no mortal.  
      Thou slewest Ahi who besieged the waters, and lettest loose the streams to hurry seaward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahr ist das: Nicht ist ein anderer dir gleich, Indra, kein Gott noch Sterblicher ist größer. Du erschlugst den Drachen, der die Flut umlagerte; du ließest die Gewässer zum Meere laufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ist gewiss, kein andrer ist, wie du bist, kein Gott, o Indra, und kein Mensch ist besser; Den Drachen schlugst du, der die Flut umlagert, die Wasser liessest rinnen du zum Meere.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это истинно: нет другого, подобного тебе,  
 Большего (чем ты), о Индра, бога или смертного.  

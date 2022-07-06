@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पुनानो꣡ मदि꣡न्तमः  
 सो꣡मश् चमू꣡षु सीदति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡तिर् वचस्यते धियः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प॒शौ । न । रेतः॑ । आ॒ऽदध॑त् । पतिः॑ । व॒च॒स्य॒ते॒ । धि॒यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -98,42 +98,42 @@ genre M
 **मदिन्तमः** अत्यन्तं मादयिता **सः** **सोमः** **पुनानः** पूयमानः सन् **चमूषु** चमसेषु **सीदति** । ततः **पशौ** **न** यथा पशौ कश्चिद्वृषभो रेत आदधाति तद्वञ्चमसादिषु **रेतः** स्वीयं रसम् **आदधत्** आदधानः **धियः** कर्मणः **पतिः** पालयितायं सोमः **वचस्यते** अभिष्टूयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The most exhilarating **Soma**, being purified, alights on the vessels; putting his seed (in the vessels) as in a heifer, the protector of the rite is worshipped.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming purified, the most exhilarating Soma sits in the cups,  
 depositing his seed (in them) as if in livestock. The lord of insight  
 displays his eloquence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou (also Ober II.43) attach c to d as a new sentence, but this makes the already somewhat difficult simile in c all the more puzzling: what does depositing his seed have to do with displaying his eloquence? Whereas b and c work better together: in b “Soma sits in the cups” - that is, the liquid soma is poured into receptacles, expressed in the loc. (camū́ṣu). In c this same transfer of liquid is compared to depositing seed/semen (réta ādádhat) in an animal, also in the loc. (paśaú). So the structural parallelism between simile and frame is exact. The problem is the loc. paśaú, for morphologically this should be masc. or at best neut., but the image is of impregnation, and for that we want a fem. My ad hoc solution is to assume that paśú- here is used as a collective ‘livestock’, in reference to stockbreeding as a general practice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, best Cheerer, takes his seat, the while they cleanse him in the bowls.  
      He as it were impregns the cow, and babbles on, the Lord of Song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geläutert setzt sich der berauschendste Soma in den Camugefäßen nieder. Wie ein Bock in das Tier seinen Samen hineinlegend, zeigt der Meister der Dichtung seine Beredsamkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, Soma, der berauschendste, setzt in die Schüsseln rieselnd sich, Wie Samen giessend in die Kuh; es rauscht der Herr des Andachtswerks.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь, этот самый пьянящий  
 Сома усаживается в чанах.  

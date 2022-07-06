@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡दि वाह꣡म् अ꣡नृतदेव आ꣡स  
 मो꣡घं वा देवाँ꣡ अपिऊहे꣡ अग्ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्रोघवा꣡चस् ते निरृथं꣡ सचन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 किम् । अ॒स्मभ्य॑म् । जा॒त॒ऽवे॒दः॒ । हृ॒णी॒षे॒ । द्रो॒घ॒ऽवाचः॑ । ते॒ । निः॒ऽऋ॒थम् । स॒च॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadi*
 - \[adverb\]
@@ -132,20 +132,20 @@ popular
 **यदि** **वा** **अहमनृतदेवः** अनृता असत्यभूता देवा यस्य तादृशो यद्यहम् **आस** अस्मि । अथवा **मोघं** **वा** निष्फलं वा **देवान्** **अप्यूहे** उपगच्छामि । अहं यद्युक्तरूपोऽस्मि हे **अग्ने** तर्हि मां बाधस्व । न ह्यहं तथाविधोऽस्मि । एवं सति हे **जातवेदः** जातानां वेदितरग्ने **अस्मभ्यं** किं कारणं **हृणीषे** क्रुध्यसि । तव क्रोधोऽस्मासु न जायतामित्यर्थः । **द्रोघवाचः** अनृतवाचो राक्षसाः **ते** तव **निर्ऋथम्** । निष्पूर्वोऽर्तिर्हिंसायां वर्तते । निर्ऋथं निःशेषेणार्तिं हिंसां **सचन्तां** सेवन्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “If I am one following false gods, if I approach the gods in vain, then **Agni** (punishes me). If (we be notsuch, then) why, **Jātavedas**, are you angry with us? Let the utterers of falsehood incur your chastisement.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If I were a man with false gods, or if I call upon the gods wrongly, o  Agni... .  
 Why are you angry at us, Jātavedas? Let those whose speech is deceitful  to you attend upon dissolution.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The disjunctive “if” clauses that occupy the first hemistich are more complicated than they first appear. In the published translation I took the first half, yádi vāhám ánṛtadeva ā́sa, as a contrary-to-fact expression “if I were …” The general context speaks in favor of this interpr.: in the 2nd hemistich the speaker asks indignantly why Agni is angry at him, so the implication is that the speaker has not done what would occasion such anger. This assumption presumably accounts for Geldner’s tr. “als ob …” (fld. by Lommel), which is strenuously disputed by Oldenberg But the grammar makes problems: the indicative perfect ā́sa should not express contrary-to-fact modality, but a fact in the past (that may or may not have present relevance). For contrary-to-facts of this sort, the pres. opt. usually serves; cf. VII.44.23 yád agne syā́m aháṃ tváṃ, tváṃ vā ghā syā́ahám “If I were you, Agni, or you were me …” Note also that the AV version has an indicative present, ásmi (Wh “If I am one of false gods …”). So we must reckon with the real possibility that “I” did have false gods, at least in the past, and I would slightly alter the tr. to “If I was (previously) a man with false gods …” The parallel verb in b is the perfect apy ūhé. In the published translation I take this as presential -- and this is quite possible, since the other forms of this pf. are so used (see Kümmel 489-90) -- but Kümmel takes it as preterital, and, given my slight reinterpr. of pāda a, this might be best: “if I called upon …” Kümmel accepts Insler’s 1996 positing of a root √vāh ‘respect’ separate both from √vah ‘convey’ and from √ūh ‘laud’ (which latter has a full-gr. root med. pres. à them. pres. óh(a)-). I am not convinced of the 143 need for this separate root and would simply group the pf. ūhé with the pres. of √ūh, despite Kümmel’s argument that unless the pf. is clearly distinguished from the pres. by meaning or function, they should not belong to the same root.
 
@@ -156,23 +156,23 @@ as it contrasts nicely with the false or untrue gods in pāda a.
 The question in d is where to construe te. Geldner (fld. by Scarlatta 469, but with ?) takes it as a quasi-agent: “Die Falschredenden sollen dem Tode durch dich verfallen.” Given that te is an enclitic and that the verb is not passive, this seems a stronger statement than the text would seem to support. I take te with the drogha- of the cmpd drogha-vā́c- “deceitful to you,” but I admit that it might rather go with nirṛthám “your dissolution” (so Brown, Doniger “your destruction”; sim. Lüders) -- that is, dissolution stemming from you. Not all tr. render the te: it is absent from Lommel’s rendering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As if I worshipped deities of falsehood, or thought vain thoughts about the Gods, O Agni.  
      Why art thou angry with us, Jatavedas? Destruction fall on those who lie against thee!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ob ich je falsche Götter gehabt hätte, oder als ob ich nur zum Schein die Götter anerkannt hätte, Agni-was grollst du uns, Jatavedas? Die Falschredenden sollen dem Tode durch dich verfallen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Agni, ich ein falscher Spieler wäre, wenn heuchlerisch die Götter ich verehrte; – Doch warum zürnst du uns, o Wesenkenner? die Lügenredner lass ins Elend stürzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если б я поклонялся Гибели,  
 Или если б неверно воспринимал богов, о Агни!  

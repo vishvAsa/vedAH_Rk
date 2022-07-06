@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ व꣡सिष्ठ इ꣡न्द्रम् ऊत꣡ये नॄ꣡न्  
 कृष्टीनां꣡ वृषभं꣡ सुते꣡ गृणाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 स॒ह॒स्रिणः॑ । उप॑ । नः॒ । मा॒हि॒ । वाजा॑न् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -120,36 +120,36 @@ genre M;; repeated line
 **वसिष्ठः** **नॄन्** नृणाम् । षष्ठ्यर्थे द्वितीया । **ऊतये** रक्षायै **कृष्टीनां** प्रजानां **वृषभं** कामानां वर्षितारम् **इन्द्रम्** **एव** एवं पूर्वोक्तप्रकारेण **गृणाति** स्तौति । अथ प्रत्यक्षस्तुतिः । हे इन्द्र नः अस्मभ्यं **सहस्रिणः** सहस्रसंख्याकान् **वाजान्** अन्नानि **उप** **माहि** । प्रयच्छेत्यर्थः । स्पष्टमन्यत् ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thus does **Vasiṣṭha** glorify **Indra**, the showerer (of benefits) upon the worshippers for the preservationof mankind; bestow upon us, (Indra), thousands of viands; do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just in this way at the pressing Vasiṣṭha hymns Indra, the bull of the  communities, to help men.  
 Mete out prizes to us in thousands. – Do you protect us always with your  blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus, to bring help to men, Vasistha laudeth Indra, the peoples' Hero, at libation.  
      Bestow upon us strength and wealth in thousands. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also preist Vasistha bei Soma den Indra, den Bullen der Völker, daß er unseren Herren beistehe. Teil uns tausendfältige Gewinne zu! - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So preist Vasischtha ihn, den Herrn der Völker, dass er den Männern hold sei bei dem Mahle; O miss uns zu denn tausendfache Labung; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так воспевает Васиштха Индру,  
 Быка народов, на помощь мужам.  

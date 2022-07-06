@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शते꣡ना नो अभि꣡ष्टिभिर्  
 नियु꣡त्वाँ इ꣡न्द्रसारथिः  
 वा꣡यो सुत꣡स्य तृम्पतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 वायो॒ इति॑ । सु॒तस्य॑ । तृ॒म्प॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatenā* ← *śatena* ← *śata*
 - \[noun\], instrumental, singular, neuter
@@ -80,36 +80,36 @@ genre M
 हे **वायो** **नियुत्वान्** नियुद्भिस्तद्वान् **इन्द्रसारथिः** इन्द्रसहायः सन् त्वं **शतेन** अपरिमितैः **अभिष्टिभिः** अभित एषणीयैः कामैर्निमित्तभूतैरागच्छेति शेषः । आगत्य च **सुतस्य** सुतमभिषुतं **नः** अस्मदीयं सोमं **तृम्पतं** पिबतं त्वमिन्द्रश्च । इन्द्रस्य साहित्यं ब्राह्मणे एवोक्तं -- तत्तुरीयभागिन्द्रोऽभवत्त्रिभाग्वायुः' इति, ‘तुरीये हैव संग्रहीतारो वदन्तेऽमुनैवानूकाशेन यदद इन्द्रः सारथिरिव भूत्वोदजयत्' ( ऐ. ब्रा. २. २५ ) इति वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Vāyu**, who are drawn by the **Niyuts**, and have **Indra** for charioteer, come (for the fulfilment) of our numerous wishes, and do you (and Indra) drink of the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With a hundred forms of help for us, (come,) provided with a team,  having Indra as charioteer.  
 O Vāyu—may you both become sated on our pressed (soma).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, team-drawn, with thy hundred helps, with Indra, seated in the car,  
      Vaya, and drink your fill of juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit hundert nahen Hilfen komm zu uns, mit den Niyutgespannen und mit Indra als Wagenlenker! Trinkt euch satt am Gepreßten, Vayu und Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit hundert Hülfen, Vaju, komm, mit Indra fahrend, vielbespannt; Ergötzet beide euch am Saft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С сотней милостей, с упряжками (-дарами),  
 С Индрой-возницей, (приезжайте) к нам!  

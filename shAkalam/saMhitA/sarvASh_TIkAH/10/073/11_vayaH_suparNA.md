@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡यः सुपर्णा꣡ उ꣡प सेदुर् इ꣡न्द्रम्  
 प्रिय꣡मेधा ऋ꣡षयो ना꣡धमानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मुमुग्धि꣡ अस्मा꣡न् निध꣡येव बद्धा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अप॑ । ध्वा॒न्तम् । ऊ॒र्णु॒हि । पू॒र्धि । चक्षुः॑ । मु॒मु॒ग्धि । अ॒स्मान् । नि॒धया॑ऽइव । ब॒द्धान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
@@ -128,36 +128,36 @@ genre M
 **वयः** गन्तारः **सुपर्णाः** सुपतना आदित्यरश्मयः **इन्द्रम्** . **उप** **सेदुः** उपसन्ना अभवन् । कीदृशाः । **प्रियमेधाः** प्रिययज्ञाः **ऋषयः** दृष्टारः **नाधमानाः** प्रज्ञां याचमानाः । याचनप्रकार उच्यते। हे इन्द्र **ध्वान्तम्** अन्धकारम् **अप** **ऊर्णुहि** परिहर पूर्धि पूरय च **चक्षुः** तेजः । **मुमुग्धि** मोचय च **अस्मान्** **निधयेव** **बद्धान्**। निधा पाश्यो भवति । पाश्या पाशसमूहः । पाशसमूहेन बद्धान् यथा मुञ्चन्ति तद्वत् । अत्र वयो वेर्बहुवचनम्' (निरु. ४. ३) इत्यादि निरुक्तं द्रष्टव्यम् ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The swift-moving well-flying (rays of the sun), living sacrifices, discerning (the future), deservingknowledge, invested **Indra**, dissipate the darkness, fill out the light; release us like men bound with a net.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fine-feathered birds have flocked to Indra—the Priyamedhas, seers  in need.  
 Open up the dark (place); fill our eye. Free us who are bound as if by  a snare.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like birds of beauteous wing the Priyamedhas, Rsis, imploring, have come nigh to Indra:  
      Dispel the darkness and fill full our vision deliver us as men whom snares entangle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schöngeflügelte Vögel sind dem Indra genaht: Schutzsuchend die Priyamedha´s, die Rishi´s. Deck die Finsternis auf, erfülle das Auge mit Licht! Befreie uns wie die in einer Schlinge Gefangenen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als schön geflügelte Vögel umsassen den Indra die flehenden Sänger, die Prijamedha's; die Finsterniss enthülle, schenke klaren Blick; löse uns, die wir wie von einer Schlinge umstrickt sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Птицы прекраснокрылые приблизились к Индре,  
 Риши Приямедха, просящие о помощи.  

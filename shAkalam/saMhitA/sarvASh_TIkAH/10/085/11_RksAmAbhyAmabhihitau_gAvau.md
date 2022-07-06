@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋक्सामा꣡भ्याम् अभि꣡हितौ  
 गा꣡वौ ते सामना꣡व् इतः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दिवि꣡ प꣡न्थाश् चराचारः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 श्रोत्र॑म् । ते॒ । च॒क्रे इति॑ । आ॒स्ता॒म् । दि॒वि । पन्थाः॑ । च॒रा॒च॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛksāmābhyām* ← *ṛc*
 - \[noun\], feminine
@@ -104,36 +104,36 @@ popular;; epic anuṣṭubh (380)
 हे सूर्ये देवि ते तव **ऋक्सामाभ्याम्** अभिधानीस्थानाभ्याम् **अभिहितौ** **गाव** गोस्थानीयौ सूर्याचन्द्रमसौ **सामनौ** सामानौ सन्तौ **इतः** गच्छतः । अनोवाहौ पत्युर्गृहं प्रति गच्छतः । **ते** तव **श्रोत्रम्** । श्रोत्रे इत्यर्थः । वरस्य गुणग्राहिणी श्रोत्रे एव **चक्रे** **आस्ताम्** । मनोरूपस्य रथस्य श्रोत्रे चक्रे अभवतामित्यर्थः । **दिवि** **पन्थाश्चराचरः** चलाचलोऽप्यन्तं गमनसाधनभूतो मार्गोऽभूत् । रथसंचारप्रदेशो द्युलोक आसीत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those two oxen yoked by the Ṛk and the **Sāman** march equally; the two wheels were your ears; themoving path (was) in heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your two oxen, harnessed by verse and tune [/r̥c and sāman], went of  one accord.  
 The ear was your two wheels. The path to heaven meandered back  and forth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy Steers were steady, kept in place by holy verse and Sama-hymn:  
      All car were thy two chariot wheels: thy path was tremulous in the sky,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Rik und Saman angeschirrt gehen deine beiden freundlichen Rinder. Das Gehör waren deine Räder, die Straße zieht sich am Himmel hin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Lied und Sang angeschirrt gehen vereint deine beiden Stiere; ganz Ohr waren deine beiden Räder, leicht gangbar der Pfad am Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запряженные гимном и мелодией,  
 Идут два твои соединенных быка.  

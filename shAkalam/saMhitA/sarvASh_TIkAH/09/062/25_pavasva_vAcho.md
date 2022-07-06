@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व वाचो꣡ अग्रियः꣡  
 सो꣡म चित्रा꣡भिर् ऊति꣡भिः  
 अभि꣡ वि꣡श्वानि का꣡विया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒भि । विश्वा॑नि । काव्या॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **सोम** **अग्रियः** मुख्यस्त्वं **चित्राभिः** पूजनीयैः **ऊतिभिः** रक्षणैः सह **वाचः** अस्मदीयाः स्तुतीः **अभि** **पवस्व** । एतदेव दर्शयति । **विश्वानि** सर्वाणि **काव्या** काव्यानि स्तुत्यात्मकानि वाक्यानि अभि पवस्वेति ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, who are most excellent, flow with your marvellous protection towards our praises, towards all hymns (of praise).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, Soma, with your bright help, going at the forefront  of speech  
 toward all products of poetic skill.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou supply an intermediate infinitive to govern víśvāni kā́vyā: “um alle Sehergabe zu gewinnen” and “en vue de (nous procurer) tous pouvoirs-poétiques” respectively - on what basis is completely unclear to me. I see no reason why it can’t simply be a goal, as I’ve taken it. See also comm. ad IX.75.1.
 
@@ -107,23 +107,23 @@ This tṛca shows more signs of unity than others in this hymn, esp. in the 1st 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, as leader of the song flow onward with thy wondrous aids,  
      For holy lore of every kind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich als Führer des Worts, o Soma, mit deinen wunderbaren Hilfen, um alle Sehergaben zu gewinnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit reichen Hülfen riesle du, des Liedes Führer, Soma, uns Die Dichtergaben alle zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

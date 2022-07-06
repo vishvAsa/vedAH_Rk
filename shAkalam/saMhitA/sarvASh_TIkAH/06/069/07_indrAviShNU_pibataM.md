@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राविष्णू पि꣡बतम् म꣡ध्वो अस्य꣡  
 सो꣡मस्य दस्रा जठ꣡रम् पृणेथाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡प ब्र꣡ह्माणि शृणुतं ह꣡वम् मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । वा॒म् । अन्धां॑सि । म॒दि॒राणि॑ । अ॒ग्म॒न् । उप॑ । ब्रह्मा॑णि । शृ॒णु॒त॒म् । हव॑म् । मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
@@ -116,37 +116,37 @@ genre M
 **दस्रा** हे दर्शनीयौ **इन्द्राविष्णू** युवां **मध्वो** **अस्य** मदकरमिमं **सोमस्य** सोमं **पिबतम्** । किंच **जठरम्** उदरं **पृणेथां** सोमेन पूरयेथाम् । हे इन्द्राविष्णू **वां** युवां **मदिराणि** मदकराणि **अन्धांसि** सोमात्मकान्यन्नानि **आ** **अग्मन्** अभिगच्छन्तु । **मे** मदीयानि **ब्रह्माणि** स्तोत्राणि **हवं** मदीयमाह्वानं च **उप** **शृणुतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Viṣṇu**, agreeable of aspect, drink of this sweet **Soma**; fill with it your bellies; may the inebriating Soma reach you; hear my prayers, my invocation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Viṣṇu, drink of this honey, of the soma, o wondrous ones.  Fill your belly.  
 The exhilarating stalks have come to you. Harken to my sacred  
 formulations, my call.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink of this meath, O Indra, thou, and Visnu; drink ye your fill of Soma, Wonder-Workers.  
      The sweet exhilarating juice hath reached you. Hear ye my prayers, give ear unto my calling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Vishnu! Trinket von diesem Met, füllet, ihr Meister, den Bauch mit Soma! Für euch sind die berauschenden Getränke da. Höret auf meine erbaulichen Reden, auf meinen Anruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra-Vischnu, trinkt von diesem Soma und füllt den Bauch mit süssem Trank, o hehre, Euch eilten zu die Säfte, die berauschen, vernehmt mein Rufen höret die Gebete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Вишну, испейте этого сладкого  
 Сомы, о чудесные, наполните себе живот!  

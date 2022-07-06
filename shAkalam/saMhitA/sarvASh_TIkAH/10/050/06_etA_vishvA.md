@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ वि꣡श्वा स꣡वना तूतुमा꣡ कृषे  
 स्वयं꣡ सूनो सहसो या꣡नि दधिषे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यज्ञो꣡ म꣡न्त्रो · ब्र꣡ह्म उ꣡द्यतं व꣡चः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वरा॑य । ते॒ । पात्र॑म् । धर्म॑णे । तना॑ । य॒ज्ञः । मन्त्रः॑ । ब्रह्म॑ । उत्ऽय॑तम् । वचः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
@@ -133,7 +133,7 @@ genre M
 हे इन्द्र **एता** एतानि **विश्वा** सर्वाणि **सवना** सवनानि **तूतुमा** तूर्णानि **कृषे** करोषि । एतानीत्युक्तं कानीति तत्राह । हे **सहसः** बलस्य **सूनो** पुत्र । बलवन्नित्यर्थः । **स्वयं** **यानि** **दधिषे** धारयसि । हे इन्द्र **ते** तव **वराय** शत्रूणां वारकाय ते तव स्वभूतं **पात्रं** रक्षणं भवत्वस्माकम् । किंच **धर्मणे** धारणाय **तना** धनं भवत्विति शेषः । किंच तुभ्यं **यज्ञो** मन्त्रः । इज्यतेऽनेनेति यज्ञकरणसाधनभूतो मन्त्रः । यजुरित्यर्थः । **ब्रह्म** परिवृढम् । शस्त्रमित्यर्थः । तदुभयात्मकं **वचः** **उद्यतं** भवतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,30 +144,30 @@ genre M
 The voice is raised to you: udyatam **vacas**: two things are included inthis phrase: **mantra**, which is the means of enunciating the sacrifice; and the **brahma** = parivṛḍham śastram, theprayer that is not recited aloud
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have made all these soma-pressings powerful, to draw (you) here— which you have (now) taken into your own self, o son of strength.  
 To your liking and for your support, are, in succession, the cup, the  
 sacrifice, the mantra, and the upraised sacred formulation and speech.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All these libations thou makest effectual, of which thou art thyself supporter, Son of Power.  
      Therefore thy vessel is to be esteemed the best, sacrifice, holy text, prayer, and exalted speech.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 All diese Somaopfer hast du wirkungsvoll gemacht, welche du, Sohn der Kraft, selbst dir angeeignet hast. Nach deinem Wunsche, zu deiner Verfügung sind der Reihe nach der Becher, das Opfer, das Dichterwort, das angehobene Erbauungswort und die Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O mache alle diese Spenden wirkungsreich, die du ja selbst, o Sohn der Stärke, zu dir nimmst; Zur Freude und zur Labung sei der Becher dir, Gebet und Opfer, Spruch und das geweihte Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все эти выжимания (сомы) ты делаешь плодотворными,  
 Которые ты сам, о сын силы, забираешь себе.  

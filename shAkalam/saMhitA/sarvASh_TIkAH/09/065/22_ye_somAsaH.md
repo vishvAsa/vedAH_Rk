@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ सो꣡मासः पराव꣡ति  
 ये꣡ अर्वाव꣡ति सुन्विरे꣡  
 ये꣡ वादः꣡ शर्यणा꣡वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ये । वा॒ । अ॒दः । श॒र्य॒णाऽव॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 एतदादिभ्यामृग्भ्यामिन्द्रार्थं सर्वत्र सोमाभिषवोऽस्तीत्याह । **ये** **सोमासः** सोमाः **परावति** विप्रकृष्टेऽतिदूरे देशे **ये** वा **अर्वावति** अन्तिके देश इन्द्रार्थं **सुन्विरे** अभिषूयन्ते अभ्यषूयन्त **ये** **वा** **शर्यणावति** । कुरुक्षेत्रस्य जघनार्धे शर्यणावत्संज्ञकं मधुररसयुक्तं सोमवत्सरोऽस्ति । **अदः** अस्मिन् सरसि सुरसा ये सोमाः इन्द्रायाभिषूयन्ते तेऽस्माकमभिमतफलं प्रयच्छन्त्विति वक्ष्यमाणेन संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,12 +88,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Śaryaṇāvat = possessing sweet juice; reference to a lake in the western part of **Kurukṣetra** region
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma juices that have been pressed in the distance, those nearby, or those yonder in a reed-filled (lake),
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas contain antonymic locations.
 
@@ -110,23 +110,23 @@ As noted in the published introduction, this tṛca is thematically unified by a
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Soma juices which have been expressed afar or near at hand,  
      Or there on Saryanavan's bank,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Somasäfte, die in der Ferne, die in der Nähe ausgepreßt werden, und die dort in Saryanavat;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Somatränke, welche fern gepresst sind, oder in der Näh Und dort auf somareicher Flur,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

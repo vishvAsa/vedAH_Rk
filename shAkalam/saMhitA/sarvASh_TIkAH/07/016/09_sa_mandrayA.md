@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मन्द्र꣡या च जिह्व꣡या  
 व꣡ह्निर् आसा꣡ विदु꣡ष्टरः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 हव्य꣡दातिं च सूदय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अग्ने॑ । र॒यिम् । म॒घव॑त्ऽभ्यः । नः॒ । आ । व॒ह॒ । ह॒व्यऽदा॑तिम् । च॒ । सू॒द॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -114,36 +114,36 @@ genre M
 हे **अग्ने** **मन्द्रया** **च** मोदयित्र्या देवानाम् **आसा** आस्यस्थानीयया **जिह्वया** ज्वालया **वह्निः** हविषां वोढा **विदुष्टरः** विद्वत्तरः **सः** प्रसिद्धस्त्वं **मघवद्भ्यः** हविष्मद्भ्यः नः अस्मभ्यं **रयिं** धनम् **आ** **वह** च । **हव्यदातिम्** । हव्यानि ददातीति हव्यदातिर्यजमानः तम् । तथा च वाजसनेयिन आमनन्ति- 'यजमानो वै हव्यदातिः' (श. ब्रा. १. ४. १. २४) इति । **सूदय** **च** कर्मसु प्रेरय च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The most wise **Agni** is the bearer (of oblations), as the mouth of the gods with his graceful tongue (offlame); bring riches, Agni, to the affluent (in sacrifices); encourage the donor of the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the more knowing conveyor, with your delighting tongue and  your mouth  
 convey wealth to our generous (patrons), Agni, and sweeten our gift of  oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou, a Priest with pleasant tongue, most wise, and very near to us,  
      Agni, bring riches hither to our liberal chiefs, and speed the oflering of our gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist mit seiner wohlklingenden Zunge und mit dem Mund der kundigere Wortführer. Agni! Bring unseren Lohnherrn Reichtum mit deinen Schützern, mit hundert Burgen, du Jüngster!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit holder Zunge bringst du ja, dich recht darauf verstehend dar; So bringe, Agni, Reichthum unsern Opferherrn und mach die Opfergabe süss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он с веселым языком  
 И ртом – самый сведущий возница (жертв).  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡धा हित꣡म् पणि꣡भिर् गुह्य꣡मानं  
 ग꣡वि देवा꣡सो घृत꣡म् अ꣡न्व् अविन्दन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वेना꣡द् ए꣡कं स्वध꣡या नि꣡ष् टतक्षुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 इन्द्रः॑ । एक॑म् । सूर्यः॑ । एक॑म् । ज॒जा॒न॒ । वे॒नात् । एक॑म् । स्व॒धया॑ । निः । त॒त॒क्षुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tridhā*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre D
 **पणिभिः** असुरैः **गवि** गोषु **त्रिधा** क्षीरदध्याज्यभेदेन त्रिप्रकारं **हितं** निहितं **गुह्यमानं** गोपितं **घृतं** दीप्तं रसरूपं वा द्रव्यं **देवासः** देवाः **अन्वविन्दन्** अलभन्त । तत्र **इन्द्र** **एकं** क्षीरं **जजान** उदपादयत् । **सूर्य** **एकं** जजान । **वेनात्** कान्तिमतः अग्नेर्गमनवतो वायोर्वा **एकं** घृतं **स्वधया** अन्नेन निमित्तेन द्रव्येण वा साधनेन **निष्टतक्षुः** निरपादयन् देवाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,36 +142,36 @@ genre D
 The paṇis are **asuras**; the three forms or states in which the ghī was deposited in the cow were milk, curds and butter, of which Indra engendered jajāna, milk, Sūrya butter, and the god (devāsaḥ) fabricated (tatakṣuḥ) curds from the shining, venāt, that is Agni; another rendering is devāsaḥ dvijātayaḥ, the twice-born
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Triply deposited, being hidden by the niggards—the gods discovered the  ghee in the cow.  
 Indra begat one; the Sun begat one; from the seeker they fashioned one  through their own power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was just noted, the Paṇis (niggards) may be indirectly implicated in the verb avamīt in 2d. Here they appear overtly, as the hiders of ghee -- presumably a reference to their stealing of the cows, since the gods find the ghee in the cow in pāda b.
 
 The threefold nature and creation of ghee has been variously interpreted; it again participates in the numerology of the hymn. I do not have a view on it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That oil in triple shape the Gods discovered laid down within the Cow, concealed by Panis.  
      Indra produced one shape, Surya another: by their own power they formed the third from Vena.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreifach geteilt fanden das von den Pani´s verborgene Ghrita die Götter wieder in der Kuh. Indra hat das eine, Surya das eine erzeugt. Eines haben sie aus dem Seher durch eigene Kraft herausgebildet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die dreigetheilt versteckt war von den Pani's, die Butter fanden in der Kuh die Götter; Die eine zeugte Indra, Surja eine, und eine schufen selbst sie aus Verlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Боги снова нашли в корове жир,  
 Трояко разделенный (и) скрываемый Пани.  

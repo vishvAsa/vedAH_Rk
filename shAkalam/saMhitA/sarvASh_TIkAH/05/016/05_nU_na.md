@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू᳐꣡ न ए꣡हि वा꣡रियम्  
 अ꣡ग्ने गृणान꣡ आ꣡ भर  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 उतइ꣡धि पृत्सु꣡ नो वृधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 ये । व॒यम् । ये । च॒ । सू॒रयः॑ । स्व॒स्ति । धाम॑हे । सचा॑ । उ॒त । ए॒धि॒ । पृ॒त्ऽसु । नः॒ । वृ॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -134,41 +134,41 @@ genre M;; repeated line
 हे **अग्ने** **गृणानः** स्तूयमानः सन् **नु** क्षिप्रम् **एहि** । यज्ञं प्रत्यागच्छ । अगत्य च **नः** अस्मभ्यं **वार्यं** वरणीयं धनम् **आ** **भर** संपादय । **ये** **वयं** यजमानाः **ये** **च** **सूरयः** स्तोतारः **सचा** हविर्भिः सहिता उभे ये वयं **स्वस्ति** स्तोत्रं **धामहे** कुर्मः । **उत** अपि च **पृत्सु** पृतनासु **नः** अस्माकं **वृधे** समृद्धये **एधि** भव ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorified by us, **Agni**, come quickly, and bring us desirable wealth; we who (are your worshippers) we (who are your) adorers, offer you welcome together with oblations; be you favourable to us; be (our) success in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now come to us! Being sung, o Agni, bring here a desirable reward to us and our patrons, who together will receive well-being.  
 – And be present to strengthen us in battles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, quickly come to us, and, glorified, bring precious wealth.  
      So we and these our princes will assemble for the good of all. Be near in fight to prosper us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Now then, Agni, come hither and, being praised, bring treasure 1 to us who, we ourselves and our liberal givers, may acquire welfare together. And help us to grow strong in fights.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun komm zu uns; bring, o Agni, gepriesen wünschenswertes Gut mit! Wir selbst und die Opferherren wollen zusammen Glück erlangen - und sei du uns zur Stärkung in den Kämpfen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her nun, bring, gepriesener, uns Agni schönes Gut herbei; Lass uns und diese Opferherrn empfangen Segen allesammt und sei in Schlachten uns zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди же сейчас к нам, о Агни!  
 Воспетый, принеси желанный дар!  

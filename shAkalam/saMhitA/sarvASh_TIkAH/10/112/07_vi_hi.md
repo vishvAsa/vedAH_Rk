@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ हि꣡ त्वा꣡म् इन्द्र पुरुधा꣡ ज꣡नासो  
 हित꣡प्रयसो वृषभ ह्व꣡यन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इमा꣡ भुवन् स꣡वना ते꣡षु हर्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्माक॑म् । ते॒ । मधु॑मत्ऽतमानि । इ॒मा । भु॒व॒न् । सव॑ना । तेषु॑ । ह॒र्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -121,36 +121,36 @@ genre M
 हे **इन्द्र** **वृषभ** कामानां वर्षक **हितप्रयसः** । प्रय इत्यन्ननाम प्रीणनकारित्वात्। संभृतहविष्काः **जनासः** जनाः **पुरुधा** बहुधा । हिरवधारणे । **त्वाम्** एव **वि** **ह्वयन्ते** विविधमाह्वयन्ति ॥ ‘ह्वेञ् स्पर्धायाम् । **निसमुपविभ्यो** ह्वः' इत्यात्मनेपदम् । **अस्माकं** स्वभूतानि **इमा** इमानि **सवना** सवनानि **ते** त्वदर्थं **मधुमत्तमानि** अतिशयेन सोमवन्ति **भुवन्** अभवन् । तस्मात्त्वं **तेषु** सवनेषु **हर्य** सोमान् कामयस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, showerer of benefits, men in several plural ces, offering acceptable food, invoke you; these oursacrifices to you are most full of the sweet (**Soma**); take plural asure in them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because the peoples, with their pleasurable offerings set forth, vie in  invoking you in many ways, bullish Indra,  
 ours will become the most honeyed ones for you—these pressings here.  Delight in them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From many a side with proffered entertainment the folk are calling thee, O Mighty Indra.  
      These our libations shall for thee be richest in sweet meath: dvink thereof and find them pleasant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn dich rufen die Leute vielfach, Indra, bei vorgesetztem Schmause, o Bulle. Unsere Trankopfer hier sollen dir die süßesten sein; an diesen erfreue dich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An vielen Orten rufen zwar die Menschen, Held Indra, dich zum Mahl, das sie bereitet; Doch diese unsre Tränke sind von allen die süssesten für dich, an ihnen lab' dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь тебя, о Индра, много раз призывают  
 Люди, выставившие жертвенную усладу, о бык.  

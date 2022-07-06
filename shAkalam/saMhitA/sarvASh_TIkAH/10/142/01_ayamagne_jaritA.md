@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् अग्ने जरिता꣡ त्वे꣡ अभूद् अ꣡पि  
 स꣡हसः सूनो नहि꣡ अन्य꣡द् अ꣡स्ति आ꣡पियम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आरे꣡ हिं꣡सानाम् अ꣡प दिद्यु꣡म् आ꣡ कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 भ॒द्रम् । हि । शर्म॑ । त्रि॒ऽवरू॑थम् । अस्ति॑ । ते॒ । आ॒रे । हिंसा॑नाम् । अप॑ । दि॒द्युम् । आ । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -157,7 +157,7 @@ popular
 हे अग्ने **त्वे** त्वयि । ‘ सुपां सुलुक्' इति सप्तम्याः शेआदेशः । **अयम्** ऋषिः **जरिता** स्तोता **अभूदपि** । अपिशब्द: संभावनायाम् । इदानीं स्तोतृत्वेन संभाव्यते । तत्र कारणमाह । है **सहसः** **सूनो** बलस्य पुत्र त्वत्तः **अन्यत्** **आप्यम्** आप्तव्यं **नहि** **अस्ति** न खलु विद्यते । अतः प्राप्तव्यं त्वामेव स्तुत्या प्राप्नोमि । **भद्रं** कल्याणं **त्रिवरूथं** दुःखत्रयस्य निवारकं **शर्म** सुखं **हि** यस्मात **ते** तव **अस्ति** विद्यते । अथवा शोभनं त्रिवरूथं त्रिभूमिकं गृहं तवास्ति हि। अतः **हिंसानां** हिंस्यमानानामस्माकम् **आरे** दूरे दिद्युं दीप्यमानामात्मीयां ज्वालाम् **अप** **आ** **कृधि** अपाकुरु निवारय । करोतेश्छान्दसो विकरणस्य लुक् । ‘श्रुशृणुपॄकृवृभ्यः' इति हेर्धिभावः ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -168,29 +168,29 @@ popular
 Triple defence: a defence against the three evils of existence
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, this singer here has come to abide in you, for there exists no  other friendship, o Son of Strength—  
 for auspicious is your shelter, providing threefold defense. Put away in  the distance the injurious missile.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH thee, O Agni, was this singer of the laud: he hath no other kinship, O thou Son of Strength.  
      Thou givest blessed shelter with a triple guard. Keep the destructive lightning far away from us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Sänger hat bei dir Zuflucht gesucht, Agni, Sohn der Kraft, denn es gibt keine andere Freundschaft; denn gesegnet ist dein dreifacher Schutz. Halte das schädliche Geschoß weit ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, dir gehört nun dieser Sänger an, kein andres Band der Freundschaft gibt es, Herr der Kraft! Denn Segen bringend, dreifach schirmend ist dein Schutz, schaff in die Ferne das verwundende Geschoss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот певец, о Агни, прибегнул к тебе,  
 О сын силы, – ведь нет другой дружбы, (кроме твоей)!  

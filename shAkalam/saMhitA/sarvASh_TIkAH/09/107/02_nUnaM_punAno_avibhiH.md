@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नून꣡म् पुनानो꣡ अ꣡विभिः प꣡रि स्रव  
 अ꣡दब्धः सुरभि꣡न्तरः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 श्रीण꣡न्तो गो꣡भिर् उ꣡त्तरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सु॒ते । चि॒त् । त्वा॒ । अ॒प्ऽसु । म॒दा॒मः॒ । अन्ध॑सा । श्री॒णन्तः॑ । गोभिः॑ । उत्ऽत॑रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nūnam*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 हे सोम **अदब्धः** कैश्चिदप्यहिंसितः **सुरभिंतरः** अत्यन्तं सुगन्धिस्त्वं **नूनम्** इदानीं **पुनानः** पूयमानः सन् **अविभिः** अविवालकृतैः पवित्रैस्तेभ्यः **परि** **स्रव** परितः क्षर। **सुते** **चित्** अभिषुते सति **अन्धसा** सक्तुलक्षणेनान्नेन **गोभिः** गोविकारैः क्षीरैः क्षीरादिभिः **श्रीणन्तः** मिश्रयन्तो वयम् **उत्तरम्** उद्गततरम् **अप्सु** वसतीवरीषु संस्थितं त्वां **मदामः** मन्दामहे स्तुमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,14 +120,14 @@ genre M
 With food: andhsā = **saktu**, flour
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, while being purified by the sheep, flow around as one who is  undeceivable, very sweet-smelling.  
 Even when (you) have just been pressed in the waters, we become  
 exhilarated by your stalk, while preparing you with cows as the higher  (oblation),
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2nd hemistich of this vs. is intricately interwoven with constituents overlapping; see Oldenberg’s sensible treatment at loc. The initial loc. expression consists of suté cit … apsú, with tvā interspersed in modified 2nd position. This tvā is not to construed with the nearby verb madāma (pace Grassmann), because máda- without preverb is almost never construed with an acc.; here that verb goes with the instr. ándhasā. The tvā finally finds its governing verb form in the participle śrīṇántaḥ beginning pāda d; it is so distant from it, with parts of two different constituents in between, because it took Wackernagel’s position in the clause. The adj. úttaram at the very end of the vs. modifies it: the soma is “higher” or “better” at this point presumably because the mixing with milk, the last step depicted, improves it.
 
@@ -144,23 +144,23 @@ The vss. are knitted together by lexical repetition and variation. A sample of t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, being purified, flow hither through the fleece inviolate and most odorous.  
      We ladden thee in waters when thou art effused, blending thee still with juice and milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich läuternd fließe jetzt durch die Schafhaare unbeirrt, bestduftend ab! Schon wenn er ins Wasser ausgepreßt ist, berauschen wir uns an dem Tranke, indem wir dich, den Trefflichsten, mit Kuhmilch mischen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich klärend ströme durch des Widders Wolle nun, schönduftend, du untrüglicher; Gepresst auch laben dich mit Trank in Wassern wir, dich schönen mischend mit der Milch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь через овечьи шерстинки, теки сейчас кругами,  
 Безобманный, еще более благоуханный!  

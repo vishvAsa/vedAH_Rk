@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एभि꣡र् द्यु꣡भिः सुम꣡ना एभि꣡र् इ꣡न्दुभिर्  
 निरुन्धानो꣡ अ꣡मतिं गो꣡भिर् अश्वि꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 युत꣡द्वेषसः स꣡म् इषा꣡ रभेमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्रे॑ण । दस्यु॑म् । द॒रय॑न्तः । इन्दु॑ऽभिः । यु॒तऽद्वे॑षसः । सम् । इ॒षा । र॒भे॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
@@ -117,37 +117,37 @@ genre M
 हे इन्द्र **एभिः** अस्माभिर्दत्तैः **द्युभिः** दीप्तैश्चरुपुरोडाशादिभिः **एभिरिन्दुभिः** पुरोवर्तिभिः तुभ्यं दत्तैः सोमैश्च प्रीतस्त्वम् अस्माकम् **अमतिं** दारिद्र्यं **गोभिः** त्वया दत्तैः पशुभिः **अश्विना** अश्वयुक्तेन धनेन च **निरुन्धानः** निवर्तयन् **सुमनाः** शोभनमना भव । वयम् **इन्दुभिः** अस्माभिर्दत्तैः सोमैः प्रीतेन **इन्द्रेण** **दस्युम्** उपक्षपयितारं शत्रुं **दरयन्तः** हिंसन्तः अत एव **युतद्वेषसः** पृथग्भूतशत्रुका भूत्वा **इषा** इन्द्रदत्तेन अन्नेन **सं** **रभेमहि** संरब्धा भवेम । संगच्छेमहीत्यर्थः ॥ सुमनाः। शोभनं मनो यस्य। सोर्मनसी अलोमोषसी' इत्युत्तरपदाद्युदात्तत्वम् । निरुल्धानः। ‘रुधिर् आवरणे । स्वरितेत्त्वात् आत्मनेपदम् । श्नसोरल्लोपः' इति अकारलोपः।  ‘ चितः' इत्यन्तोदात्तत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । अमतिम् । मन्तव्या मतिः ऐश्वर्यम् । न मतिः अमतिः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । 'न लोकाव्यय ' इति षष्ठीप्रतिषेधः । अश्विना । अश्वोऽस्यातीति अश्वि धनम् । मत्वर्थीय इनिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Propitiated by these offerings, be these libations, dispel poverty with cattle and horses; may we subduing our adversary, and relived from enemies by **Indra**, (plural ased) by our libations, enjoy together abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is well disposed through these days by reason of these soma drops,  checking neglect by means of cows and (wealth) in horses.  
 Might we, breaking up the Dasyu with Indra and the soma drops,  
 keeping hostility away, be embraced by refreshment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well pleased with these bright flames and with these Soma drops, take thou away our poverty with seeds and kine.  
      With Indra scattering the Dasyu through these drops, freed from their hate may we obtain abundant food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An diesen Tagen mit diesen Somatränken zufrieden, die Ratlosigkeit durch Kühe und Rosse bannend - Mit Indra, mit Somas wollen wir den Dasyu zersprengen, den Feind abwehren und am Speisegenuß teilhaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch diese Flammen, diese Tränke holdgestimmt, hilf ab dem Mangel durch Besitz an Rind und Ross; Den Feind durch Indra fernhin jagend mögen wir vom Feind befreit durch Indu's Labungen empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В эти дни настроенный благожелательно благодаря этим каплям (сомы),  
 Прогоняя безвдохновенность (поэта) с помощью коров, богатства конями –  

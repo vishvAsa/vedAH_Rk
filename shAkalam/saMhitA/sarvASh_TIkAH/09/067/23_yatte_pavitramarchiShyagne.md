@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् ते पवि꣡त्रम् अर्चि꣡षि  
 अ꣡ग्ने वि꣡ततम् अन्त꣡र् आ꣡  
 ब्र꣡ह्म ते꣡न पुनीहि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ब्रह्म॑ । तेन॑ । पु॒नी॒हि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -95,7 +95,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **तेन** तादृशेन तेजसा **नो** ऽस्माकं **ब्रह्म** पुत्रादिवर्धनकारि शरीरं **पुनीहि** पापरहितं पूतं कुरु ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,13 +106,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Divine body: divine, because it increases, viz., sons; the light is the light of the sun, lightning
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The filter that is stretched out here within your flame, o Agni,  
 and the sacred formulation—with that purify us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The image of the filter stretched out in Agni’s flame is striking, but I don’t know exactly what the picture is meant to be - in contemplating the fire do we have a vision of a purifying apparatus? Or is the expression simply a fancy way of saying “the purifier that is your flame”? The beginning of the next vs., with pavítram arcivát, would support the latter suggestions.
 
@@ -131,23 +131,23 @@ The pavítra is mentioned in vss. 22-25, with other, non-physical means of purif
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, with the cleansing light diffused through all thy fiery glow,  
      Purify thou this prayer of ours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Seihe, die in deiner Flamme, o Agni, ausgespannt ist, mit der läutere unsere feierliche Rede!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit dem Gebet, dem Läutrungsnetz, was, Agni, durch dein Licht hindurch Gespannt ist, damit läutre uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) цедилка, что у тебя в пламени  
 Внутрь протянута, о Агни,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡सीनासो अरुणी꣡नाम् उप꣡स्थे  
 रयिं꣡ धत्त दाशु꣡षे म꣡र्तियाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ यछत त꣡ इहो꣡र्जं दधात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पु॒त्रेभ्यः॑ । पि॒त॒रः॒ । तस्य॑ । वस्वः॑ । प्र । य॒च्छ॒त॒ । ते । इ॒ह । ऊर्ज॑म् । द॒धा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āsīnāso* ← *āsīnāsaḥ* ← *ās*
 - \[verb noun\], nominative, plural
@@ -116,7 +116,7 @@ popular
 **अरुणीनाम्** आरोचमानानां ज्वालानां वा देवतानां वा **उपस्थे** समीपस्थाने वेद्याख्ये **आसीनासः** उपविष्टाः पितरो यूयं **दाशुषे** हविर्दत्तवते **मर्त्याय** मनुष्याय यजमानाय **रयिं** धनं **धत्त** दत्त । हे **पितरः** यूयं **तस्य** यजमानस्य **पुत्रेभ्यः** **वस्वः** वसु धनं **प्र** **यच्छत** । **ते** तादृशा यूयम् **इह** अस्मिन् अस्मदीये कर्मणि **ऊर्जं** धनं **दधात** निधत्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,30 +127,30 @@ popular
 In the proximity of the radiant:aruṇīnām upasthe, purple-coloured: applied to the **wool** of which the blanked called kuṭapu is made of whichPitṛs are fond, kutṭapapriyaḥ pitara (**Yajus**. 19.63); give wealth to his sons: tasya yajamānasya; bestow thiswealth on your sons
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sitting in the lap of the ruddy (Dawns?), provide wealth for the pious  mortal.  
 To your sons, o forefathers, hold out (a portion) of this good thing.  
 Provide nourishment here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lapped in the bosom of the purple Mornings, give riches to the man who brings oblations.  
      Grant to your sons a portion of that treasure, and, present, give them energy, ye Fathers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dem Schoße der rötlichen Wolle sitzend bringet Reichtum dem opferspendenden Sterblichen! Ihr Väter, schenket den Söhnen von diesem Gut, verleihet hier Kraft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier sitzend in dem Schooss der Morgenröthen verleihet Gut dem sterblichen Verehrer, Von diesem Reichthum theilet euren Söhnen, o Väter, aus, und bringet grosse Kraft her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сидя в лоне красноватых (языков пламени),  
 Дайте богатство почитающему (вас) смертному!  

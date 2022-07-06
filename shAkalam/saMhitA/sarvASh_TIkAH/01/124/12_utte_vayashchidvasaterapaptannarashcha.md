@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡त् ते व꣡यश् चिद् वसते꣡र् अपप्तन्  
 न꣡रश् च ये꣡ पितुभा꣡जो वि꣡उष्टौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡षो देवि दाशु꣡षे म꣡र्तियाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒मा । स॒ते । व॒ह॒सि॒ । भूरि॑ । वा॒मम् । उषः॑ । दे॒वि॒ । दा॒शुषे॑ । मर्त्या॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ut* ← *ud*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 **ते** तव **व्युष्टौ** सत्यां **वयश्चित्** गमनवन्तः पक्षिणोऽपि । चिदित्येष अपिशब्दार्थः निपातानामनेकार्थत्वात् ।' उच्चावचेष्वर्थेषु निपतन्ति ' ( निरु. १. ४ ) इति यास्केनोक्तत्वात् । **वसतेः** निवासस्थानान्नीडादेः **उत्** ऊर्ध्वम् **अपप्तन्** पतन्ति । पूर्ववाक्ये ‘गृहं गृहमुपतिष्ठातेऽग्निः' इत्युक्तत्वात्तदपेक्षया अपिशब्दः'। किंच नरश्च मनुष्याश्च **पितुभाजः** अन्नवन्तोऽन्नार्थिनः कृषिवाणिज्यादिकर्तारः स्वस्वव्यापारार्थम् उदुन्मुखा अपप्तन् गच्छन्ति । तथा मन्त्रान्तरं- पद्वदीयत उत्पातयति पक्षिणः ' ( ऋ. सं. १. ४८.५) इति । एवं सत्यां हे **देवि** देवनशीले उषोदेवते **अमा** गृहे देवयजनाये **सते** तिष्ठते यजमानाय तदर्थम् । अमेति गृहनाम 'अमा दमे' (नि. ३. ४. ११ ) इति तन्नामसु पठितत्वात् । यद्वा । अमा सह हूयमानेनाग्निना सह निवसते यजमानाय । अमा वसेतामित्यादौ सहार्थे प्रयोगात् । **मर्त्याय** मनुष्याय **दाशुषे** हविर्दत्तवते यजमानाय **भूरि** **वामं** बहु शोभनं धनं **वहसि** प्रापयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,36 +140,36 @@ genre M
 Naraśca pitubhājaḥ-annārthinaḥ, seeking for food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The birds have also flown up from their dwelling and the men who  partake of food, at your first flush.  
 To the one who is at home you convey much of value, goddess Dawn,  and to the pious mortal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “one being at home” (amā́sánt-) may contrast implicitly with the “Early-coming” one (prātarítvan-) who forms the subject of the 1st half of the next hymn (I.125). In that hymn the Prātaritvan engages in dialogue with a person who is probably a householder, that is, in the words of our verse, one being at home.
 
 This vs. is identical to VI.64.6; for further comm. see there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As the birds fly forth from their resting places, so men with store of food rise at thy dawning.  
      Yea, to the liberal mortal who remaineth at home, O Goddess Dawn, much good thou bringest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst die Vögel sind bei deinem Aufleuchten aus dem Neste aufgeflogen und die Männer, die ihre Nahrung zu sich nehmen, von dem Lager. Dem daheim Bleibenden bringst du viel Gutes, Göttin Usas, dem opferspendenden Sterblichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei deinem Leuchten fliegen auf die Vögel aus ihrem Nest, die Männer suchen Nahrung: dem, der daheim ist, führst du vieles Gut zu, dem frommen Mann, Göttin Morgenröthe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как только ты вспыхнула, и птицы взлетели из гнезда,  
 И люди, что вкушают пищу, (поднялись).  

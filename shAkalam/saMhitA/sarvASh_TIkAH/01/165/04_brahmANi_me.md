@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्माणि मे मत꣡यः शं꣡ सुता꣡सः  
 शु꣡ष्म इयर्ति प्र꣡भृतो मे अ꣡द्रिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इमा꣡ ह꣡री वहतस् ता꣡ नो अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 आ । शा॒स॒ते॒ । प्रति॑ । ह॒र्य॒न्ति॒ । उ॒क्था । इ॒मा । हरी॒ इति॑ । व॒ह॒तः॒ । ता । नः॒ । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
@@ -132,44 +132,44 @@ genre M
 अथैवं तैः पृष्टोऽनया चतुर्थ्या इन्द्रः प्रत्याह । हे मरुतः **ब्रह्माणि** सर्वाणि कर्माणि हवींषि वा **मे** मम स्वभूतानि । तथा **मतयः** चे मननयुक्ताः स्तुतयश्च मे मम **शं** सुखकार्याः। यद्वा । मे मतयो बुद्धयः तेष्वेव वर्तन्ते इति शेषः । तथा **सुतासः** अभिषुताः सोमाः मे मदीया मदर्था एव । अतो यज्ञं प्रति गन्तव्यमित्यर्थः। किंच मध्ये राक्षसादिबाधपरिहाराय **शुष्मः** । बलनामैतत् । बलवान् **मे** मदीयः अद्रिः शत्रूणां भक्षको वज्रः **प्रभृतः** सन् **इयर्ति** गच्छत्येव लक्ष्यं प्रति न च निवर्तते। न केवलं हविरादीनां मदीयत्वमेव अपि तु यजमानाः **आ** **शासते** मामेव प्रार्थयन्ते । किंच **उक्था** उक्थानि शस्त्राणि मां **प्रति** **हर्यन्ति** कामयन्ते मामेव शंसन्तीत्यर्थः । किंच **नः** अस्मदीयौ **इमा** **हरी** इमौ अश्वौ **ता** तानि गन्तव्यानि हविरादीनि अच्छ अभिप्राप्तुं मां **वहतः** अभिमतदेशं प्रापयतः । अत एव शीघ्रं गच्छामि । युष्माभिरपि तत्प्राप्तुं गन्तव्यमित्यर्थः । अतोऽसहाय इति मन्तव्यमिति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “ (**Indra**): Sacred rites are mine; (holy) praises give me plural asure; libations are for me; my vigorous thunderbolt, hurled (against my foes), goes (to its mark); me, do (pious worshippers) proptiate; hymns are addressed tome; these horses bear us to the presence (ofwhose worshippers, and worship).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] The formulations, the thoughts, the pressed soma are good  fortune for me. My explosive power rises; the pressing-stone is  
 brought forth to me.  
 The hymns hope for, receive me joyfully. These two fallow bays carry us  here to them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The act. forms iyarti, etc., are usually transitive, but Oldenberg cites a few passages with the intrans. value that must also be present here.
 
 Although various tr. (e.g., Witzel Gotō) take ukthā́as acc. pl. and supply subjects for the pl. verbs ā́śāsate and práti haryanti (men and gods respectively, Witzel Gotō), taking it as nom. pl. not only avoids the need to cast around for unexpressed subjects but also captures Indra’s extreme egotism: even the hymns long for him, or so he thinks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mine are devotions, hymns; sweet are libations. Strength stirs, and hurled forth is my bolt of thunder.  
      They call for me, their lauds are longing for me. These my Bay Steeds bear me to these oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mir sagen die feierlichen Reden, die Gedichte, die Somagetränke zu. Der Kampfmut regt sich; der Preßstein ist für mich aufgesetzt. Die Loblieder wünschen, erwarten mich. Dieses Falbenpaar fährt uns zu ihnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Gebete, Lieder, Tränke, sie erfreun mich, Begier erwacht, der Pressstein ist geschirrt mir; Sie flehn, willkommen sind mir ihre Sprüche; und meine Füchse fahren uns zum Mahle.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Молитвы, поэтические мысли, соки выжатого (сомы) мне на благо.  
 Воинственный пыл возбуждается. Мне приготовлен давильный камень.  

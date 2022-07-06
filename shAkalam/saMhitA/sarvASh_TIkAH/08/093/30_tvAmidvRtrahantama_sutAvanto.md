@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् इ꣡द् वृत्रहन्तम  
 सुता꣡वन्तो हवामहे  
 य꣡द् इन्द्र मॄळ꣡यासि+ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 यत् । इ॒न्द्र॒ । मृ॒ळया॑सि । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -79,19 +79,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **वृत्रहन्तम** अतिशयेन वृत्रस्यापामावरकस्य हन्तरिन्द्र **सुतवन्तः** अभिषुतसोमवन्तो वयम् । इदवधारणे' । **त्वामित्** त्वामेव **हवामहे** । अस्मद्यज्ञमागत्य सोमपानायाह्वयामः । हे **इन्द्र** **नः** अस्मान् यदि सुखयसि तर्ह्याह्वयाम इति ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bearing the effused libation, we invoke you, mightiest slayer of **Vṛtra**, if you have favour to us, **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We who have pressed soma call upon just you, best smiter of Vr̥tra, when you will show us mercy, Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -100,23 +100,23 @@ A variant of the final pāda of the last tṛca (27c stotṛ́bhya indra mṛḷ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bearing the Soma juice we call, best Vrtra-slayer, unto thee:  
      For, Indra, thou art kind to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur dich, du Erzfeindetöter, rufen wir bei ausgepreßtem Soma, wenn du, Indra, uns barmherzig sein willst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja dich, o Feind vertilgender, dich rufen Soma bringend wir, O sei du, Indra, gnädig uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

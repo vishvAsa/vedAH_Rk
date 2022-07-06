@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प नो ह꣡रिभिः सुतं꣡  
 याहि꣡ मदाना᳐म् पते  
 उ꣡प नो ह꣡रिभिः सुत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 उप॑ । नः॒ । हरि॑ऽभिः । सु॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -89,20 +89,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **मदानां** **पते** । माद्यन्तेऽनेनेति मदाः सोमाः। ‘मदोऽनुपसर्गे' इति करणेऽप्प्रत्ययः । सोमानां स्वामिन्निन्द्र **हरिभिः** ‘आ शतेन हरिभिः' (ऋ. सं. २.१८.६ ) इत्यादिषु बहूनामश्वानां श्रुतेरत्रापि शतसहस्रसंख्याकैरश्वैः सह **नः** अस्माकं यज्ञे **सुतम्** अभिषुतं सोमम् **उप** याहि । तत्पानार्थं शीघ्रमायाहि । पुनः **उप** **नः** इत्यादरार्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come with your steeds to our effused libation, lord of the **Soma**-- come with your steds to our effusedlibation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Right up to our pressed soma with your fallow bays—drive, o lord of  exhilarating drinks—  
 right up to our pressed soma with your fallow bays.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -112,23 +112,23 @@ As noted in the published introduction, the first pāda of the first verse of th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Lord of rapturous, joys, to our libation with thy Bay Steeds, come  
      To our libation with thy Steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm mit den Falben zu unserem Soma, du Herr der Räusche, mit den Falben zu unserem Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O komme mit den Füchsen her, zum Soma, Herr der Tränke du, Mit Füchsen komm zu unserm Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

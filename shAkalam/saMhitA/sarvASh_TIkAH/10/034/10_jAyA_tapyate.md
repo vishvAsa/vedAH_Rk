@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जाया꣡ तप्यते कितव꣡स्य हीना꣡  
 माता꣡ पुत्र꣡स्य च꣡रतः कु꣡व स्वित्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्ये꣡षाम् अ꣡स्तम् उ꣡प न꣡क्तम् एति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ऋ॒ण॒ऽवा । बिभ्य॑त् । धन॑म् । इ॒च्छमा॑नः । अ॒न्येषा॑म् । अस्त॑म् । उप॑ । नक्त॑म् । ए॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jāyā*
 - \[noun\], nominative, singular, feminine
@@ -122,41 +122,41 @@ popular
 **क्व** **स्वित्** क्वापि **चरतः** निर्वेदाद्गच्छतः **कितवस्य** **जाया** भार्या **हीना** परित्यक्ता सती **तप्यते** वियोगजसंतापेन संतप्ता भवति। **माता** जनन्यपि **पुत्रस्य** क्वापि चरतः कितवस्य संबधाद्धीना तप्यते । पुत्रशोकेन संतप्ता भवति। **ऋणावा** अक्षपराजयादृणवान् कितवः सर्वतो **बिभ्यद्धनं** स्तेयजनितम् **इच्छमानः** कामयमानः **अन्येषां** ब्राह्मणादीनाम् **अस्तं** गृहम।  ‘ अस्तं पस्त्यम् ' इति गृहनामसु पाठात् । **नक्तं** रात्रौ **उप** **ऐति** चौर्यार्थमुपगच्छति ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The deserted wife of the gamester is afflicted; the mother (grieves) for the son wandering wherever helikes; involved in debt, ever in fear, anxious for wealth, (the gambler) goes forth by night to the dwellings of others(to plural nder).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The wife of the gambler, abandoned, is scorched, and the mother of the  child wandering who knows where.  
 In debt, fearful, seeking money, he approaches by night the house of  others.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The gambler's wife is left forlorn and wretched: the mother mourns the son who wanders homeless.  
      In constant fear, in debt, and seeking money, he goes by night to the home of others [probably to steal].
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Grieved is the gambler's wife by him abandoned, Grieved, too, his mother as he aimless wanders. Indebted, fearing, he desiring money At night approaches other people's houses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verlassen härmt sich des Spielers Weib, die Mutter des Sohnes, der wer weiß wo hingeht. Verschuldet geht er voll Furcht Geld suchend bei der Nacht in das Haus anderer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verlassen grämt des Spielers Weib sich einsam, die Mutter um den Sohn, wo mag er schweifen? Verschuldet, angstvoll und nach Gut verlangend geht er zur Nacht in andrer Leute Wohnung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Страдает брошенная жена игрока  
 (И) мать сына, бродящего неизвестно где.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ निवर्त नि꣡ वर्तय  
 पु꣡नर् न इन्द्र गा꣡ देहि  
 जीवा꣡भिर् भुनजामहै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 जी॒वाभिः॑ । भु॒न॒जा॒म॒है॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -89,33 +89,33 @@ popular
 हे **इन्द्र** त्वम् **आ** **निवर्त** आनिवर्तस्व अस्मदभिमुखो भव । ततोऽन्यतो गच्छन्तीर्गाः **नि** **वर्तय** अस्मदभिमुखीः कुरु । एवं कृत्वा च हे इन्द्र त्वं **पुनः** पश्चात् **नः** अस्मभ्यं **गाः** **देहि** प्रयच्छ। त्वया दत्ताभिः **जीवाभिः** चिरं जीवन्तीभिः सर्वस्य जीवयित्रीभिर्वा गोभिः **भुनजामहै** वयं भुञ्जीमहि । यद्वा । भुजिरत्रान्तर्भावितण्यर्थः । देवपितॄन्' संभोजयेमहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You turner back, turn them back here; give the cows to us again, o Indra. Let us find enjoyment with them alive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Home-leader, lead them home to us; Indra, restore to us our kine:  
      We will rejoice in them alive.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Heimführer, führe sie heim, gib uns die Kühe wieder, Indra! Wir wollen uns der Lebenden erfreuen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heimfuhrer, führe sie zurück gib Indra uns die Küh' zurück, Wir woll'n der lebenden uns freun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О возвратитель, верни,  
 Отдай нам назад коров, о Индра!  

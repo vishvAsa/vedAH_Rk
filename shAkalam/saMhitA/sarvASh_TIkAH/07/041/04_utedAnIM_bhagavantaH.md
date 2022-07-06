@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उते꣡दा꣡नीम् भ꣡गवन्तः सियाम  
 उत꣡ प्रपित्व꣡ उत꣡ म꣡ध्ये अ꣡ह्नाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वयं꣡ देवा꣡नां सुमतउ꣡ सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒त । उत्ऽइ॑ता । म॒घ॒ऽव॒न् । सूर्य॑स्य । व॒यम् । दे॒वाना॑म् । सु॒ऽम॒तौ । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *utedānīm* ← *uta*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 **उत** अपि च **इदानीं** वयं **भगवन्तः** **स्याम** । हे भग भगेन त्वया स्वामिना युक्ता भवेम । यद्वा । भगवन्तो धनवन्तः स्याम । **उत** अपि च **प्रपित्वे** अह्रां प्राप्ते पूर्वाह्ने भगवन्तः स्याम। **उत** अपि च **अह्नां** दिवसानां **मध्ये** मध्याह्ने भगवन्तः स्याम । **उत** अपि च हे **मघवन्** धनवन् भग देव **सूर्यस्य** सर्वस्य प्रेरकस्य देवस्य **उदिता** उदितौ उदये सति **वयं** त्वदनुग्रहात् **देवानाम्** इन्द्रादीनां **सुमतौ** अनुग्रहबुद्धौ **स्याम** भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ Bhagavantaḥ = also, possessors of knowledge, jñānavantaḥ;
 Atsunrise: prapitve = purvāhne; alternative meaning: sūryasya prapatane, astomaye, sun-down, sunset
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And just now might we be possessed of portion [/accompanied by  Bhaga], and at evening and at the middle of the days,  
 and at the rising of the sun, o bounteous one, might we be in the good  grace of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the structural relationship of the various utá-s here, see Klein DGRV I.355-56.
 
@@ -151,23 +151,23 @@ The concatenation continues in the next vss. The ending of vs. 3, … nṛvánta
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may felicity be ours at present, and when the day approaches, and at noontide;  
      And may we still, O Bounteous One, at sunset be happy in the Deities' loving-kindness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und zu dieser Stunde möchten wir glücklich sein und im Vorrücken der Sonne und in der Mitte der Tage und bei Aufgang der Sonne, o Gabenreicher, möchten wir in der Gunst der Götter stehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitte; Und, o gewalt'ger, bei der Sonne Heimgang lass du uns stehen in der Gunst der Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также пусть будем мы сейчас счастливыми,  
 А также утром, а также в середине дней,  

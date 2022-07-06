@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ अग्न꣡ये विश्वशु꣡चे धियंधे꣡  
 असुरघ्ने꣡ म꣡न्म धीति꣡म् भरध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वैश्वानरा꣡य य꣡तये मतीना꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 भरे॑ । ह॒विः । न । ब॒र्हिषि॑ । प्री॒णा॒नः । वै॒श्वा॒न॒राय॑ । यत॑ये । म॒ती॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prāgnaye* ← *pra*
 - \[adverb\]
@@ -118,36 +118,36 @@ genre M
 हे सखायः **विश्वशुचे** विश्वं यो दीपयति तस्मै **धियंधे** धियां कर्मणां यो धाता तस्मै **असुरघ्ने** असुराणां यो हन्ता तस्मै **अग्नये** **मन्म** मननीयं स्तोत्रं **धीतिं** कर्म च **प्र** **भरध्वम्** । **मतीनाम्** अभिमतानां कामानां **यतये** दात्रे **वैश्वानराय** विश्वनरहितायाग्निविशेषाय **बर्हिषि** यज्ञे **हविर्न** हविरिव स्तुतिं **प्रीणानः** प्रीयमाणोऽहं **भरे** भरामि । यद्वा । हविः प्रीणानः प्रीणयन्नहं बर्हिषि हविर्भरे संभरामि । नेति संप्रत्यर्थे ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer praise and worshp to **Agni**, the enlightener of all, the accepter of pious rites, the destroyer of theAsuras; propitiating him, I now present the oblation on the sacred grass to **Vaiśvānara**, the granter of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring forth to Agni—blazing everywhere, granting insight, smashing  (enemy) lords—our thought, our vision.  
 Being pleased (with it), I bring it, like an offering on the ritual grass, to  Vaiśvānara for him to hold fast to our thoughts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BRING song and hymn to Agni, Asura-slayer, enlightener of all and thought-bestower.  
      Like an oblation on the grass, to please him, I bring this to Vaisvanara, hymn-inspirer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Agni, der ganz Glut ist, dem Gedankeneingeber, dem Asuratöter bringet das Gebet, die Dichtung dar! Ich bringe es freundlich gleich der Opfergabe auf das Barhis für Vaisvanara, den Lenker der Gedanken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Allerleuchter, dem Asurentödter, dem frommen Agni tragt Gebet und Lied vor; Erfreut bring' ich's wie Opfer auf die Streu ihm, dem männerholden Lenker der Gebete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принесите для Агни, что весь – пламя, что дает поэтическое видение,  
 Убивает асуров, как молитву (это) произведение!  

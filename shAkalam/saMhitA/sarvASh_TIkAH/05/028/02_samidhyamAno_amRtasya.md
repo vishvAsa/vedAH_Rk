@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समिध्य꣡मानो अमृ꣡तस्य राजसि  
 हवि꣡ष् कृण्व꣡न्तं सचसे सुअस्त꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आतिथ्य꣡म् अग्ने नि꣡ च धत्त इ꣡त् पुरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 विश्व॑म् । सः । ध॒त्ते॒ । द्रवि॑णम् । यम् । इन्व॑सि । आ॒ति॒थ्यम् । अ॒ग्ने॒ । नि । च॒ । ध॒त्ते॒ । इत् । पु॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samidhyamāno* ← *samidhyamānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -137,41 +137,41 @@ genre M
 हे अग्ने **समिध्यमानः** सम्यगिध्यमानस्त्वम् **अमृतस्य** उदकस्य राजसि ईशिष । तथा **हविष्कृण्वन्तं** पुरोडाशादिहविष्कर्तारं यजमानं **स्वस्तये** अविनाशाय **सचसे** सेवसे । किंच **यं** यजमानम् **इन्वसि** गच्छसि **सः** यजमानः **विश्वं** समस्तं **द्रविणं** पश्वादिलक्षणं धनं **धत्ते** धारयति । अपि च हे **अग्ने** **आतिथ्यम्** अतिथिरूपस्य तव योग्यं हविः **पुरः** **इत्** तव पुरस्तादेव **नि** **धत्ते** **च** स्थापयति च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When about to be kindled, **Agni**, you rule over ambrosial (water); you are present with the offerer of the oblation for his welfare; he to whom you repair acquires universal wealth; he plural ces you, Agni the dues of hospitality.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you are being kindled, you rule over what is immortal. For  well-being you accompany him who prepares the oblation.  
 He acquires all material wealth whom you urge onward, and he sets his  hospitality in front, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Enkindled, thou art King of the immortal world: him who brings offerings thou attendest for his weal.  
      He whom thou urgest on makes all possessions his: he sets before thee, Agni, gifts that guests may claim.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Being kindled thou reignest over immortality; thou attendest for welfare the man who prepares the sacrificial food. He whom thou furtherest, acquires all wealth and puts in front hospitality (towards thee), O Agni 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entflammt bist du Herr der Unsterblichkeit. Den, welcher das Opfer bereitet, geleitest du zum Glück. Der erwirbt allen Besitz, den du antreibst, und er setzt dir, Agni, ein Gastgeschenk vor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entflammt verfügest über Trank der Götter du; wer Opfer bringt, dem gehst zur Seite du zum Heil; Wen du beförderst, der erlanget jeden Schatz; dich zu bewirthen, Agni, hat er stets im Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажигаясь, ты царишь над бессмертием.  
 Ты сопровождаешь к счастью того, кто готовит жертву.  

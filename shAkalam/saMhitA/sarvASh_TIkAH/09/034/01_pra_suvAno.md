@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ स्वानो꣡° धा꣡रया त꣡ना  
 इ꣡न्दुर् हिन्वानो꣡ अर्षति  
 रुज꣡द् दॄळ्हा꣡+ वि꣡ ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 रु॒जत् । दृ॒ळ्हा । वि । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दुः सोमः **सुवानः** सूयमानः **हिन्वानः** अध्वर्युणा प्रेर्यमाणः **धारया** **तना** पवित्रं **प्र** **अर्षति** गच्छति । अथ प्रत्यक्षेणोच्यते । **दृळ्हा** दृढान्यपि शत्रुपुराणि **ओजसा** बलेन **वि** रुजत् विरुजति विश्लथयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,29 +97,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 To the filter: **tanā** pavitram (cf. RV. 9.016.08); it may also mean, 'continuously'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being pressed, being impelled, the drop rushes forth in its full measure in  a stream,  
 shattering the fastnesses by its might.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE drop of Soma juice effused flows onward with this stream impelled.  
      Rending strong places with its might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ausgepreßte Saft rinnt zur Eile getrieben in anhaltendem Gusse; er zerbricht mit Kraft die Festen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Strome rinnet fort und fort gebraut der Indu und entsandt, Das Feste brechend mit Gewalt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый сок (сомы) непрерывно течет вперед  
 Потоком, поторапливаемый (жрецом),  

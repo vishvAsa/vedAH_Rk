@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आरे꣡ सा꣡ वः सुदानवो  
 म꣡रुत ऋञ्जती꣡ श꣡रुः  
 आरे꣡ अ꣡श्मा य꣡म् अ꣡स्यथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 आ॒रे । अश्मा॑ । यम् । अस्य॑थ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āre*
 - \[adverb\]
@@ -85,35 +85,35 @@ genre M
 हे **सुदानवः** शोभनदानाः **मरुतः** वः युष्माकं संबन्धिनी **ऋञ्जती** प्रसाधयन्ती स्वतेजसा स्वात्मानमलंकुर्वती प्रसिद्धिं प्राप्नुवाना वा **सा** प्रसिद्धा **शरुः** हिंसका ऋष्टिः **आरे** दूरे भवतु । तथा **यम्** **अस्यथ** क्षिपथ सः **अश्मा** व्यापकः आयुधविशेषः **आरे**। दूरनामैतत् । दूरे भवतु मां न प्राप्नोतु । यद्वा । आरेशब्दः आराच्छब्दपर्यायः । स च दूरे समीपे च वर्तते । अत्र समीपवचनः । यम् अस्मत्तोऽन्यम् अस्यथ तं वैरिणमस्माकमुपलोपमः कठिन आयुधविशेषः आरे समीपं प्राप्नोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, liberal benefactors, may your bright destructive (shaft) be far from us; may the stone which you hurl be far from us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the distance be your straight-aiming arrow, you Maruts rich in drops, in the distance the stone that you hurl.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far be from us, O Maruts, ye free givers, your impetuous shaft;  
      Far from us be the stone ye hurl.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fern sei dieses euer vorauseilendes Geschoß, ihr gabenschönen Marut, fern der Stein, den ihr schleudert!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fern sei von uns, o spendende, o Maruts, eur gezielter Pfeil, Und fern der Stein, mit dem ihr werft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Далеко (пусть летит), о щедродающие  
 Маруты, эта ваша разящая стрела,  

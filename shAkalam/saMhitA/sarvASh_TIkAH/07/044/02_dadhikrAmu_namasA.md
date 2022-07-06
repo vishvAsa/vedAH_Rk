@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दधिक्रा꣡म् उ न꣡मसा बोध꣡यन्त  
 उदी꣡राणा यज्ञ꣡म् उपप्रय꣡न्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अश्वि꣡ना वि꣡प्रा सुह꣡वा हुवेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इळा॑म् । दे॒वीम् । ब॒र्हिषि॑ । सा॒दय॑न्तः । अ॒श्विना॑ । विप्राः॑ । सु॒ऽहवा॑ । हु॒वे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhikrām* ← *dadhikrā*
 - \[noun\], accusative, singular, masculine
@@ -103,36 +103,36 @@ genre M
 **दधिक्राम्** एतन्नामकमश्वविशेषं देवं **नमसा** स्तोत्रेण **बोधयन्तः** प्रज्ञापयन्तः **उदीराणाः** प्रेरयन्तः **यज्ञं** यागम् **उपप्रयन्तः** उपक्रममाणाः वयं **बर्हिषि** **इळां** हवीरूपां देवीं **सादयन्तः** आस्थापयन्तः **सुहवा** शोभनाह्वानौ **विप्रा** विप्रौ मेधाविनौ **अश्विना** अश्विनौ देवौ **हुवेम** आह्वयाम । **उ** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Arousing and animating Dadhikrā, proceeding diligently with the sacrifice; seating the divine Iḷā onthe sacred grass, let us invoke the intelligent and worthily-invoked **Aśvins**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Awakening Dadhikrā with homage, rousing ourselves and reverently  approaching the sacrifice,  
 seating the goddess Refreshment on the ritual grass, we would call upon  the Aśvins, inspired poets easy to call.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, rising, to the sacrifice we hasten, awaking Dadhikras with adorations.  
      Seating on sacred grass the Goddess Ila. let us invoke the sage swift-hearing Asvins.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem wir den Dadhikravan durch Verneigung aufmerksam machen und uns erhebend zum Opfer schreiten und die göttliche Opferlabung auf das Barhis setzen, wollen wir die redekundigen, leicht zu errufenden Asvin anrufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Dadhikravan durch Gebet erweckend, aufstehend und zum Opfer vorwärts schreitend, Die Göttin Ida auf das Polster setzend, die weisen holden Ritter lasst uns rufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дадхикра пробуждая поклонением,  
 Поднимаясь, приближаясь к жертве,  

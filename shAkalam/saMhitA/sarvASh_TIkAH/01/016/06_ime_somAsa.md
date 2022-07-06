@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ सो꣡मास इ꣡न्दवः  
 सुता꣡सो अ꣡धि बर्हि꣡षि  
 ताँ꣡ इन्द्र स꣡हसे पिब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तान् । इ॒न्द्र॒ । सह॑से । पि॒ब॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -83,36 +83,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दुशब्दः ‘उन्दी क्लेदने' इति धातोरुत्पन्नः । **इन्दवः** क्लेदनयुक्ताः **इमे** वेद्यामवस्थिताः **सोमासः** तत्तत्पात्रगताः सोमाः **बर्हिषि** यज्ञे **अधि** आधिक्येन **सुतासः** अभिषुताः । हे **इन्द्र** **सहसे** बलार्थं **तान्** सोमान् **पिब** ॥ सोमासः ।  ‘ आजसेरसुक्' (पा. सू. ७. १. ५० ) इति जसोऽसुगागमः । इन्दवः । उक्तम् । सुतासः । पूर्ववत् असुक् । संहितायां  ‘ प्रकृत्यान्तःपादमव्यपरे  इति प्रकृतिभावात् परपूर्वत्वं न भवति । बर्हिषि । बृहेर्नलोपश्च' ( उ. सू. २. २६६ ) इति इस् । प्रत्ययस्वरः ।  ‘ ताँ इन्द्र ' इत्यत्र  ‘ दीर्घादटि समानपादे' इति रुत्वम् । यत्वयलोपौ । अनुनासिकः । सहसे । ' षह मर्षणे ' । असुनन्तो नित्त्वादाद्युदात्तः ॥ .
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These dripping **Soma** juices are effused upon the sacred grass; drink them, **Indra**, (to recruit your) vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here are the pressed soma drops on the ritual grass.  
 Drink them, Indra, for might.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here are the drops of Soma juice expressed on sacred grass: thereof  
      Drink, Indra, to increase thy might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese ausgepreßten Somasäfte sind auf dem Barhis, die trink zur Stärke, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Somatropfen stehen hier gepresst, o Indra, auf der Streu, Zu deiner Stärkung trinke sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти соки сомы, выжатые  
 Капли – на жертвенной соломе.  

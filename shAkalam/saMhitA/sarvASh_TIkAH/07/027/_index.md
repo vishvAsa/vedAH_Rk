@@ -8,7 +8,7 @@ title = "+027"
 ‘इन्द्रं नरः' इति पञ्चर्चं दशमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैन्द्रम् । ‘इन्द्रं नरः' इत्यनुक्रान्तम् । महाव्रते निष्केवल्य एतत्सूक्तमुक्तं तृतीयत्वेन । ऐन्द्रे पशौ वपापुरोडाशहविषामाद्यास्तिस्रः क्रमेणानुवाक्याः । सूत्रितं च– इन्द्रं नरो नेमधिता हवन्त इत्युरुं नो लोकमनु नेषि विद्वान्' ( आश्व. श्रौ. ३. ७) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 27 (543)  
 Indra  
@@ -20,7 +20,7 @@ Another important theme in the hymn is confinement, with subtle allusion to the 
 swelling gift-cow in 4cd was previously enclosed (in our opinion; this adjective is  ordinarily ascribed to a different root, and it can be a pun, with the second meaning  “sought after”); and in the final verse (5) we ask Indra to make wide space for our  wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

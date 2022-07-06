@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राग्नी आ꣡ हि꣡ तन्वते꣡  
 न꣡रो ध꣡न्वानि बाहुवोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡रा वर्क्तं ग꣡विष्टिषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 मा । नः॒ । अ॒स्मिन् । म॒हा॒ऽध॒ने । परा॑ । व॒र्क्त॒म् । गोऽइ॑ष्टिषु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -111,35 +111,35 @@ genre M
 हे **इन्द्राग्नी** **नरः** योद्धारो मनुष्याः **बाह्वोः** हस्तयोः **धन्वानि** धनूंषि **आ** **तन्वते** **हि** आततज्यानि कुर्वते **हि** । युवां च **अस्मिन्** **महाधने** जेतव्येन महाधनेनोपेते संग्रामे **गविष्टिषु** गवामन्वेषणेषु **नः** अस्मान् **मा** **परा** **वर्क्तम्** । मा परित्यजतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, men verily stretch their bows with their arms, but do not you desert us contending for cattle in the great combat.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Agni, since gallant men are drawing their bows in their arms, do not shun us in this (contest) for great stakes, in our quests for cattle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 E'en now, O Indra-Agni, men hold in their arms and stretch their bows.  
      Desert us not in this great fray, in battles for the sake of kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni! Da die Männer in ihren Armen die Bogen spannen, so laßt uns in diesem großen Kampf auf der Jagd nach den Kühen nicht im Stich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Männer spannen mit dem Arm die Bogen, Indra-Agni, schon; Verlasst uns in den Kämpfen nicht, uns nicht in dieser grossen Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, ведь натягивают  
 Мужи луки в руках.  

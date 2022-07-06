@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् त्वा भ्रा꣡ता प꣡तिर् भूत्वा꣡  
 जारो꣡ भूत्वा꣡ निप꣡द्यते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡म् इतो꣡ नाशयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292);; repeated line
 प्र॒ऽजाम् । यः । ते॒ । जिघां॑सति । तम् । इ॒तः । ना॒श॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -110,36 +110,36 @@ popular;; epic anuṣṭubh (292);; repeated line
 हे योषित् **यः** राक्षसः **भ्राता** भ्रातृरूपो **भूत्वा** **पतिः** भर्तृरूपो वा भूत्वा त्वां **निपद्यते** अभिगच्छति । अथवा **जारः** उपपतिरूपो वा **भूत्वा** अभिगच्छति । एवंभूतः **यः** राक्षसादिः **ते** तव **प्रजां** **जिघांसति** हन्तुमिच्छति । स्पष्टमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we exterminate from hence (the evil spirit), who in the form of brother, husband, or paramour,approaches you, and seeks to destroy your offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, having become brother, husband, lover, goes down on you,  
 who intends to smite your offspring, that one we banish from here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What rests by thee in borrowed form of brother, lover, or of lord,  
      And would destroy thy Progeny,-even this will we exterminate.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der sich in deinen Bruder, in deinen Gatten verwandelt, sich in deinen Buhlen verwandelt und dich beschläft, der deine Nachkommenschaft töten will, den treiben wir von hinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der sich, als wäre er Bruder, Gatte oder Buhle zu dir niederlegt, der dir dein Kind tödten will, den treiben wir fort von hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, прикинувшись (твоим) братом, мужем,  
 Прикинувшись любовников, ложится к тебе,  

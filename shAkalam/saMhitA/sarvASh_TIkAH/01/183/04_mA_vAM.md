@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ वां वृ꣡को मा꣡ वृकी꣡र् आ꣡ दधर्षीन्  
 मा꣡ प꣡रि वर्क्तम् उत꣡ मा꣡ति धक्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡स्राव् इमे꣡ वां निध꣡यो म꣡धूनाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । वा॒म् । भा॒गः । निऽहि॑तः । इ॒यम् । गीः । दस्रौ॑ । इ॒मे । वा॒म् । नि॒ऽधयः॑ । मधू॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -143,43 +143,43 @@ genre M
 हे **दस्रौ** शत्रूणामुपक्षपयितारावश्विनौ **वां** युवयोः अनुग्रहादिति शेषः । **वृकः** हिंसकः अरण्यश्वादिः **मा** **दधर्षीत्** माम् । तथा **वृकीः** वृक्यो हिंसिका अन्य अपि **मा** दधर्षीत् ॥ वचनव्यत्ययः ॥ धर्षणं मा कार्षुः । युवामेव वा मा दधर्षीदिति योज्यम् । तथा युवां **मा** **परि** **वर्क्त** परितो मा वर्जयतं माम् । **उत** अपि च **माति** **धक्तम्** अस्मानतिक्रम्य अन्यस्मै मा दत्तम् । किमर्थमेवमिति उच्यते । **वां** युवयोरर्थाय **अयं** **भागः** भजनीयो हविरंशः **निहितः**। तथा **इयं** च **गीः** स्तुतिरूपा वागपि निहितेति शेषः । हे दस्रावश्विनौ **वां** युवाभ्याम् **इमे** इमानि **मधूनां** सोमरसानां **निधयः** निधानानि स्थापितानि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not the wolf, let not the she-wolf, harm me safe (in your protection); abandon me not, nor deliver me (to another). This your share (of the offering) is prepared; this prayer, **Dasras**, (is addressed) to you; these treasures of **Soma** are for you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let neither the wolf nor the she-wolf venture against you. Do not avoid  (us) nor pass (us) by.  
 Here is the portion deposited for you, here the hymn, o wondrous ones,  and here the deposits of honey for you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich shows a nice phonological progression (noted also by Renou): the zero-grade vṛk of the wolf and she-wolf (vṛ́ko … vṛkī́r) in pāda a develops into the full-grade vark of the etymologically and grammatically unrelated impv.
 
 varktam in b, which is followed by the rhyming impv. dhaktam. In the 2nd hemistich the lexeme ní √dhā ‘deposit’ appears both as the verbal adj. ppl. níhita(ḥ) and the noun nidhí-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the wolf, let not the she-wolf harm you. Forsake me not, nor pass me by or others.  
      Here stands your share, here is your hymn, ye Mighty: yours are these vessels, full of pleasant juices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll der Wolf, nicht die Wölfin euch angreifen. Meidet uns nicht und bleibt nicht aus! Dieser Anteil ist für euch aufgetischt, dieses Loblied; diese Auftischungen von Süßtränken sind für euch, ihr Meister.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht möge Wolf noch Wölfin euch verletzen, nicht weichet aus, nicht geht an mir vorüber; Hier steht eur Antheil, hier ertönt das Lied euch, hier stehn für euch die Meth-gefüllten Schalen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не посягнет на вас ни волк, ни волчица!  
 Не избегайте и не минуйте (нас)!  

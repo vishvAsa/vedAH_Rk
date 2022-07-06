@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमाना असृक्षत  
 सो꣡माः शुक्रा꣡स इ꣡न्दवः  
 अभि꣡ वि꣡श्वानि का꣡विया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒भि । विश्वा॑नि । काव्या॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānā* ← *pavamānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
@@ -74,20 +74,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **शुक्रासः** उज्ज्वलाः **इन्दवः** दीप्ताः **पवमानाः** क्षरन्तः **सोमाः** **विश्वानि** **काव्या** काव्यानि स्तोत्राणि **अभि** असृक्षत सृज्यन्त ऋत्विग्भिः ॥ ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The brilliant purified **Soma**-juices are let fall amidst all praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The self-purifying soma juices, the clear drops have surged  
 toward all products of poetic skill.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -96,23 +96,23 @@ This tṛca shows clear signs of unity, indeed of a monotonous sort. Like the pr
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Pavamanas have been poured, the brilliant drops of Soma juice,  
      For holy lore of every kind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sich läuternden Soma´s, die klaren Säfte haben sich ergossen, alle Feinde vertreibend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Soma's haben, hell entflammt, als lichte Tropfen ausgeströmt Die Sehergaben allesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

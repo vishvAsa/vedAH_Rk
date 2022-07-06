@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ वाम् ए꣡षे र꣡थाना᳐म्  
 इन्द्रअग्नी꣡ हवामहे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 विद्वां꣡सा गि꣡र्वणस्तमा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पती॒ इति॑ । तु॒रस्य॑ । राध॑सः । वि॒द्वांसा॑ । गिर्व॑णःऽतमा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -95,41 +95,41 @@ genre M
 हे देवौ **ता** तौ वक्ष्यमाणगुणौ **वां** युवां **हवामहे** स्तुमः । किमर्थम् । **रथानाम्** **एषे** युद्धे रथानां प्रेरणाय । कीदृशौ युवाम् । **इन्द्राग्नी** इन्द्रमग्निं च परस्परयुग्मभूतौ **तुरस्य** जङ्गमरूपस्य **राधसः** धनादिलक्षणस्य **पती** स्वामिनौ **विद्वांसा** सर्वज्ञौ **गिर्वणस्तमा** गीर्भिर्वननीयतमौ। ईदृशौ युवां हवामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke you both, **Indra** and **Agni**, for (sending) your chariots to the combat, lords of moveable wealth, all-knowing, most deserving of praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In our quest for chariots we call upon you two, Indra and Agni,  
 the two lords of powerful generosity, the knowing ones who most long  for hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted above, the éṣe + GEN. here helps explain 3cd. It is also integrated into the omphalos-framing (semi)repeated pāda indragnī́havāmahe. Most standard tr., however, render éṣe here not as ‘in quest of, in pursuit of’, but as ‘rush, run, course’ (e.g., Geldner “im Rennen der Wagen,” Renou “pour la course de chars”, Witzel Gotō “anlässlich eines Wagenrennens”), implicitly accepting Grassmann’s separation of éṣa- into two stems ‘das Hineilen, Eilen’ and ‘Aufsuchen, Begehren’. éṣe + GEN. is found three times elsewhere in V -- V.41.5, 8 (both rāyá éṣe “in quest of wealth”) and this very pāda in V.66.3 -- and it seems uneconomical to give these similar syntagms in the same maṇḍala two entirely different meanings. Oldenberg (ZDMG 62: 477-78 [=KlSch 286-87]) makes similar points, arguments accepted by Bloomfield (RReps ad V.66.3).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni, we invoke you both, as such, to send your cars:  
      Lords of quick-coming bounty, ye who know, chief lovers of the song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch beide rufen wir im Rennen der Wagen an, Indra und Agni, die Herren der vorzüglichen Gabe, die Kundigen, Lobliebendsten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum rufen bei der Wagen Lauf euch beide, Indra, Agni, wir. Des reichen Schatzes Herren euch, die weisen, liederlustigsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас двоих, о Индра-Агни,  
 Мы зовем во время гонок колесниц,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नइ꣡ता꣡वद् एना꣡ परो꣡ अन्य꣡द् अस्ति  
 उक्षा꣡ स꣡ द्या꣡वापृथिवी꣡ बिभर्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् ईं सू꣡र्यं न꣡ हरि꣡तो व꣡हन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वच॑म् । प॒वित्र॑म् । कृ॒णु॒त॒ । स्व॒धाऽवा॑न् । यत् । ई॒म् । सूर्य॑म् । न । ह॒रितः॑ । वह॑न्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *naitāvad* ← *na*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 द्यावापृथिव्योर्निर्माणरूपम् **एतावत्** देवजातं सामर्थ्येन युक्तमिति **न** अपि तु **एना** एतेभ्यो देवेभ्यः **परः** उत्कृष्टः **अन्यत्** अन्यो हिरण्यगर्भः **अस्ति**। **उक्षा** सेक्ता । प्रजानां स्रष्टेत्यर्थः । हिरण्यगर्भः परमसूक्ष्मो वायुरूपो लिङ्गात्मा अपः प्रविश्य द्यावापृथिवी द्यावापृथिव्यौ **बिभर्ति** धारयति । किंच **स्वधावान्** बलवानन्नवान् वा स हिरण्यगर्भः **पवित्रं** पवित्रमयं **त्वचम्** अत्मीयं शरीरं दीप्तं मन्त्रं वा **कृणुत** करोति । कदेति उच्यते । **यत्** यदा **ईम्** इमां त्वचं **हरितः** अश्वाः **सूर्यं** **न** **वहन्ति** न प्रापयन्ति तदेति । सृष्टेः प्रागित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,30 +145,30 @@ genre M
 Not such is their power:naitāvat, not so much; the race of gods is not possessed of so much power, namely, that of creating heavenand earth; the creator: **ukṣa** = liṭ, the bull, the sprinkler of seed, i.e., the creator of people, **hiraṇyagarbha**;extremely subtle, in the form of wind, consisting of the **liṅga** (i.e., the subtle body that accompanies the **soul** in itsmigration, not being destroyed at death, when the outer gross body is destroyed) entering the waters supportsheaven and earth; before his horses bear it to the sun: i.e., before creation; the creator took upon himself abodily form, before creating other forms
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There does not exist another of such kind beyond that. The ox bears  heaven and earth.  
 With a will of his own, he makes his skin into a purifier, when they  
 convey him, as the tawny (horses) do the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not only here is this: more is beyond us. He is the Bull, the Heaven's and Earth's supporter.  
      With power divine he makes his skin a filter, when the Bay Coursers bear him on as Surya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht gibt es ein anderes Derartiges noch darüber hinaus: Der Stier trägt Himmel und Erde. Der Eigenmächtige macht seine Haut zur Seihe, wenn sie ihn fahren wie die Falben den Sonnengott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nichts ist so gross, nichts anderes ist grösser, er ist der Stier, der Himmel trägt und Erde; Die Seihe macht der mächt'ge, sich zur Decke, wenn wie die Sonne ihn die Stuten fahren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нет ничего другого, подобного этому, за его пределами:  
 Этот бык несет небо и землю.  

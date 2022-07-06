@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दइ꣡व्या हो꣡तारा प्रथमा꣡ पुरो꣡हित  
 ऋत꣡स्य प꣡न्थाम् अ꣡नु एमि साधुया꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वान् देवाँ꣡ अमृ꣡ताँ अ꣡प्रयुछतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 क्षेत्र॑स्य । पति॑म् । प्रति॑ऽवेशम् । ई॒म॒हे॒ । विश्वा॑न् । दे॒वान् । अ॒मृता॑न् । अप्र॑ऽयुच्छतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daivyā* ← *daivya*
 - \[noun\], accusative, dual, masculine
@@ -112,7 +112,7 @@ genre M
 **प्रथमा** मुख्यौ **पुरोहिता** पुरोहितौ पुरतो निहितौ **दैव्या** देवसंबन्धिनौ **होतारा** होतारावेतन्नामानौ अग्न्यादित्यौ **अन्वेमि** हविर्भिरनुगच्छामि। ततः **ऋतस्य** यज्ञस्य **पन्थां** पन्थानं **साधुया** कल्याणं विघ्नराहित्येन **अन्वेमि** अनुगच्छामि । अनन्तरं **प्रतिवेशं** समीपे वर्तमानं **क्षेत्रस्य** **पतिं** पालयितारमेतन्नामानम् **अमृतान्** मरणधर्मरहितान् **अप्रयुच्छतः** अप्रमाद्यतः **विश्वान्** सर्वान् **देवान्** च **ईमहे** धनं याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,30 +123,30 @@ genre M
 The two chief priests: i.e., **Agni** and **Āditya**\]. well-being; having come to us, gods, at our desire, bestow wealth upon us like affectionate relations.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two divine Hotars, the first two set in front, do I follow along the  path of truth straight to the goal.  
 We beseech the lord of the field, our neighbor, and all the immortal  
 gods, who do not stay distant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I follow with success upon the path of Law the two celestial Hotars, Priests of oldest time.  
      We pray to him who dwelleth near, Guard of the Field, to all Immortal Gods who never are remiss.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den zwei göttlichen Hotri´s, den ersten Bevollmächtigten folge ich richtig auf dem Weg der Wahrheit. An den Herrn der Flur, den Nachbarn wenden wir uns, an alle unsterblichen Götter, die nie achtlos sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Götterpriestern, als dem ersten Priesterpaar, folg' graden Wegs ich auf dem Pfad des rechten Werks, Den Herrn des Feldes wünschen wir zum Nachbar uns, die ew'gen Götter alle als Behüter uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अद्य꣡ सू꣡र्य उद्यति꣡  
 प्रि꣡यक्षत्रा ऋतं꣡ दध꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 य꣡द् वा मध्यं꣡दिने दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । नि॒ऽम्रुचि॑ । प्र॒ऽबुधि॑ । वि॒श्व॒ऽवे॒द॒सः॒ । यत् । वा॒ । म॒ध्यन्दि॑ने । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 हे **प्रियक्षत्राः** प्रीणयितृबला देवाः **सूर्ये** सर्वस्य स्वस्वकर्मणि प्रेरके सवितरि **उद्यति** उद्गच्छति सति **अद्य** अस्मिन् दिने **यत्** यदा **ऋतं** कल्याणभूतं गृहं **दध** धारयत । दधातेर्लिटि मध्यमबहुवचने रूपम्। **यत्** यदा हे **विश्ववेदसः** सर्वधना देवाः **निम्रुचि** । म्रुचिर्गत्यर्थः । सूर्यस्य निम्रोचने नितरां गमने । सायमित्यर्थः । तस्मिन् धारयथ । यद्वा **प्रबुधि** तस्य प्रबोधने प्रातःकाले। **यद्वा** **दिवः** सूर्यतेजसा दीप्यमानस्याह्नः **मध्यंदिने** मध्ये धनं मनवे धत्तेत्युत्तरत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,30 +124,30 @@ genre M
 Presideover the rite: since you uphold the house (rendered prosperous), gṛham kalyāṇabhūtam dhārayatha
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since today as the sun was rising you established truth, o you of dear  dominion,  
 since at (sun)set, at awakening, or since at midday of the day, you  
 affording all possessions,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If ye appoint the rite to-day, kind Rulers, when the Sun ascends,  
      Lords of all wealth, at sunset or at wakingtime, or be it at the noon of day,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr heute bei Sonnenaufgang das Gesetz feststellet, ihr beliebten Herrscher, wenn bei Sonnenuntergang, am Morgen, ihr Allwissende, oder wenn am Mittag,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ihr bei Sonnenaufgang heut, geliebte Herrscher Gutes schenkt, Beim Untergang, allweise, zur Erwachens Zeit, und in des Tages Mitte auch,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда сегодня на восходе солнца,  
 О любящие власть, вы установили закон,  

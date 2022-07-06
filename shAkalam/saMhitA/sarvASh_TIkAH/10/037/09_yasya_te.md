@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य ते वि꣡श्वा भु꣡वनानि केतु꣡ना  
 प्र꣡ चे꣡रते नि꣡ च विश꣡न्ते अक्तु꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ह्नाह्ना नो व꣡स्यसा-वस्यसो꣡द् इहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ना॒गाः॒ऽत्वेन॑ । ह॒रि॒ऽके॒श॒ । सू॒र्य॒ । अह्ना॑ऽअह्ना । नः॒ । वस्य॑साऽवस्यसा । उत् । इ॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -136,7 +136,7 @@ genre M
 हे **हरिकेश** हरितवर्णकेश **सूर्य** **यस्य** **ते** तव **केतुना** प्रज्ञानेन **विश्वा** विश्वानि **भुवनानि** भूतजातानि **प्र** **च** **ईरते** प्रकर्षेण गच्छन्ति **अक्तुभिः** रात्रिभिः **नि** **विशन्ते** **च** विश्राम्यन्ति च । स्वपन्तीत्यर्थः । स त्वं **नः** अस्माकम् **अनागास्त्वेन** अपराधवर्जितत्वेन **वस्यसावस्यसा** अत्यन्तश्रेयस्करेण वसुमत्तरेण वा **अह्नाह्ना** तेन तेन दिवसेन **उदिहि** उद्गच्छ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,30 +147,30 @@ genre M
 By whose guidance...by night: by whosebanner all things go forth (to work), and by whose rays (aktubhiḥ) they go to rest; more felicitous life: vasyasā,ahnā = with an extremely felicitous day
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You at whose signal all creatures both go forth and settle down  
 at night—  
 by reason of our blamelessness, o golden-haired Sun, rise up with ever  better (fortune) for us day after day.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou by whose lustre all the world of life comes forth, and by thy beams again returns unto its rest,  
      O Surya with the golden hair, ascend for us day after day, still bringing purer innocence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, auf des Zeichen alle Wesen sich erheben und mit Dunkelheit zur Ruhe gehen. Mit Unschuldserklärung, o goldhaariger Surya, mit immer größerem Glück geh uns Tag für Tag auf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch dessen Fackel alle Wesen dieser Welt hervorgehn und zur Ruh sich legen bei der Nacht, Geh auf, o Sonne, mit dem Flammenhaar und gib, dass Tag für Tag wir reiner sein von Sündenschuld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты,) по чьему светлому знаку все существа  
 Принимаются за дело (утром) и отдыхают по ночам,  

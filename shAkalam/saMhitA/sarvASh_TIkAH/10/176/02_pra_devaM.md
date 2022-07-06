@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ देवं꣡ देविया꣡ धिया꣡  
 भ꣡रता जात꣡वेदसम्  
 हव्या꣡ नो वक्षद् आनुष꣡क्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 ह॒व्या । नः॒ । व॒क्ष॒त् । आ॒नु॒षक् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -84,36 +84,36 @@ genre M
 अयमु य अ देवयुहता यज्ञार्य नीयते ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring forward the divine **Jātavedas** by means of divine wisdom; may he bear our oblations (to thegods) in succession.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring forward the god Jātavedas with a godly insight.  
 He will convey our oblations in their proper order.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring forth the God with song divine, being Jatavedas hitherward,  
      To bear our gifts at once to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Führet den Gott Jatavedas unter göttlicher Dichtung vor; er soll unsere Opfer richtig befördern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit göttlichem Gebete führt den Gott, den Wesenkenner vor; Die Tränke fahr er fort und fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Несите вперед бога Джатаведаса  
 С помощью божественной силой прозрения!  

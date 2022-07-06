@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परो꣡ मा꣡त्रया तनु꣡वा वृधान  
 न꣡ ते महित्व꣡म् अ꣡नु अश्नुवन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ष्णो देव त्व꣡म् परम꣡स्य वित्से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒भे इति॑ । ते॒ । वि॒द्म॒ । रज॑सी॒ इति॑ । पृ॒थि॒व्याः । विष्णो॒ इति॑ । दे॒व॒ । त्वम् । प॒र॒मस्य॑ । वि॒त्से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *paro* ← *paras*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M
 पर इति सकारान्तं परस्तादित्यस्यार्थे । परशब्दाच्छान्दसोऽसिप्रत्ययः ‘परो दिवा पर एना पृथिव्या ' (ऋ. सं. १०. ८२.५) इति यथा। मात्रयेति व्यत्ययेन तृतीया। **मात्रया** **परः** परस्ताद्वर्तमानयापरिमितया **तन्वा** शरीरेण **वृधान** वर्धमान हे विष्णो **ते** तव **महित्वं** महत्त्वं **न** **अन्वश्नुवन्ति** नानुव्याप्नुवन्ति । त्रैविक्रमसमये यत्तव माहात्म्यं तत्सर्वैरपि जनैर्ज्ञातुं न शक्यत इत्यर्थः । **ते** तव **उभे** **रजसी** उभौ लोकौ **पृथिव्याः** आरभ्य पृथिवीमन्तरिक्षं च **विद्म** जानीमः । वयं चक्षुषोपलभामहे नान्यत् । हे **देव** द्योतमान **विष्णो** **त्वम्** एव **परमस्य** स्वर्गादेरुकृष्टलोकस्य । द्वितीयार्थे षष्ठी। परमं लोकं **वित्से** जानासि । अतस्तव महत्त्वं न केनापि व्याप्तुं शक्यमिति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 Your twoworlds: i.e. the earth and the firmament, which are visible; cf. RV. 10.082.05
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you who have grown with your body beyond measure, they do not  attain to your greatness.  
 We (only) know both your dusky realms of the earth; god Viṣṇu, you  yourself know the farthest one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Renou supplies “other gods” as the subj. of ánv aśnuvanti in b. This seems perfectly acceptable, though not strictly necessary. And since in vs. 2 it is, presumably, mortals (since they are ‘born’) who fail to reach the limit of Viṣṇu’s greatness, mortals could also be the subject here. See remarks below on the formulatic connection between the two vss.
 
@@ -158,23 +158,23 @@ The b-pādas of these two vss. are variants of each other, using two different r
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MEN come not nigh thy majesty who growest beyond all bound and measure with thy body.  
      Both thy two regions of the earth, O Visnu, we know: thou God, knowest the highest also.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du über jedes Maß hinaus am Leibe wächsest, deine Größe erreicht keiner. Wir kennen nur deine beiden Räume der Erde; du kennst den höchsten Gott Vishnu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichkommt; Wir kennen deine beiden Erdenräume des Himmels höchsten kennst du selbst, Gott Vischnu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О растущий телом сверх меры,  
 Никто не может сравниться с твоим величием.  

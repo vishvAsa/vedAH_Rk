@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ त꣡म् पश्य वृषभ꣡स्य यु꣡ञ्जं  
 का꣡ष्ठाया म꣡ध्ये द्रुघणं꣡ श꣡यानम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग꣡वाम् मु꣡द्गलः पृतना꣡जियेषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 येन॑ । जि॒गाय॑ । श॒तऽव॑त् । स॒हस्र॑म् । गवा॑म् । मुद्ग॑लः । पृ॒त॒नाज्ये॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -111,35 +111,35 @@ popular
 कंचन सखायं सेनादिसहायाभावेन जयविषय उपहासं कुर्वाणं प्रति ब्रवीति । राजा द्रुघणेन वृषभेण चाजिं  जिगायेत्युक्तवान् । पूर्वं वृषभो वर्णितः । अत्र द्रुघणो वर्ण्यते । हे सखे **तम्** **इमं** **द्रुघणं** **पश्य** । कीदृशमिममिति उच्यते । ‘ युजेरसमासे' ( पा.  सू. ७. १. ७१ ) इति नुम् । **युञ्जम्** । युज्यत इति युक् सखा । **वृषभस्य** सखिभूतम् । वृषभो यावन्तमर्थं साधयति तावन्तमेव साधयन्तमित्यर्थः । पुनः कीदृशम् । **काष्ठाया** **मध्ये** । ‘ आज्यन्तोऽपि काष्ठोच्यते' (निरु. २.१५) इति निरुक्तम् । आज्यन्तस्य मध्ये। संग्राम इत्यर्थः । तत्र **शयानं** हन्तव्यान् सर्वान् हत्वा सुखेन स्वपन्तं निर्व्यापारत्वेन वर्तमानम् । ईदृशं द्रुमसयं घनं पश्येत्यर्थः । **येन** द्रुघणेन **शतवत्** शतोपेतं **गवां** **सहस्रं** **पृतनाज्येषु** संग्रामेषु **जिगाय** अहमजैषं तमिमं पश्येति समन्वयः। जयतेर्लिट् । ‘ सन्लिटोर्जेः' इत्यभ्यासादुत्तरस्य कुत्वम् । मिपो णल् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Look at it here, the yokemate of the bull, the wooden club lying in the  middle of the race course,  
 with which Mudgala won a thousand plus a hundred cattle in the  
 battle-drives.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here look upon this mace, this bull's companion, now lying midway on the field of battle.  
      Therewith hath Mudgala in ordered contest won for cattle for himself, a hundred thousand.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sieh da den Jochgenossen des Stiers, die Holzkeule mitten in der Rennbahn liegen, mit der Mudgala in den Wettkämpfen ein Tausend Kühe nebst Hundert gewonnen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sieh diese hier, die mit dem Stiere wirkte, die Keule, liegen mitten in der Rennbahn, Mit welcher hunderttausende der Rinder erbeutete Mugdala in der Feldschlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

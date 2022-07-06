@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो य꣡ज्वने पृणते꣡ च शिक्षति  
 उ꣡पे꣡द् ददाति न꣡ सुव꣡म् मुषायति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡भिन्ने खिल्ये꣡ नि꣡ दधाति देवयु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 भूयः॑ऽभूयः । र॒यिम् । इत् । अ॒स्य॒ । व॒र्धय॑न् । अभि॑न्ने । खि॒ल्ये । नि । द॒धा॒ति॒ । दे॒व॒ऽयुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -133,7 +133,7 @@ popular
 **इन्द्रो** **यज्वने** यजनशीलाय **पृणते** **च** स्तुतिभिः प्रीणयित्रे च स्तोत्रे **शिक्षति** अपेक्षितं धनं ददाति । न केवलं सकृदेव दानम् अपि तु सर्वदैवेत्याह **उपेद्ददाति** उपेत्य सर्वदा ददात्येव । यज्वनः स्तोतुश्च **स्वं** स्वभूतं धनं **न** **मुषायति** कदाचिदपि नापहरति । अपि च **अस्य** उभयविधस्य **रयिं** धनमात्मना दत्तं **भूयोभूयः** पुनः पुनः **वर्धयन्** **इत्** वृद्धिं प्रापयन्नेव **देवयुं** देवमिन्द्रमात्मन इच्छन्तं तं जनम् **अभिन्ने** शत्रुभिरभेद्ये **खिल्ये**। खिलमप्रतिहतं स्थानम् । तदेव खिल्यम् । स्वार्थिको यत् । अन्यैर्गन्तुमशक्ये स्थले **नि** **दधाति** निक्षिपति । निवासयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,34 +146,34 @@ Abhinna khilye: śatrubhirabhetavye, not to be breached by enemies;
 Khilye = **khila**, normally wasteland, but here it means apratihatasthānam, an unassailed or unassailable plural ce, one which is unapproachable by others, gantumaśakye sthale
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra does his best for the man who sacrifices and delivers in full. He  gives more; he does not steal what belongs to him.  
 Making wealth increase more and more just for him, he establishes the  man devoted to the gods in undivided virgin land.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 What precise kind of land ábhinne khilyé refers to is unclear; see disc. by Oldenberg and Geldner n. 2d. The general opinion is that ábhinne (‘uncut, unsplit’) describes land that hasn’t been broken into parcels, but I wonder if it instead means ‘unploughed’ -- that is, unsplit by a plough.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra aids him who offers sacrifice and gifts: he takes not what is his, and gives him more thereto.  
      Increasing ever more and ever more his wealth, he makes the pious dwell within unbroken bounds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra will dem, der opfert und schenkt, nützlich sein; er gibt ihm noch dazu, aber raubt nicht seine Habe. Immer mehr seinen Reichtum vergrößernd setzt er den Gottergebenen in ein ungeteiltes Brachland.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht ihm nicht das Seine; indem er stets aufs neue seinen Besitz mehrt, gibt er dem Frommen ungetrenntes Weideland.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра хочет стараться для жертвующего и дарящего.  
 Он ведь еще дает впридачу, своего не похищает.  

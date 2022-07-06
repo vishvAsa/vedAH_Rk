@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ त्यं꣡ गा꣡वः प꣡यसा पयोवृ꣡धं  
 सो꣡मं श्रीणन्ति मति꣡भिः सुवर्वि꣡दम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡प्रः कविः꣡ का꣡वियेना सु꣡वर्चनाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ध॒न॒म्ऽज॒यः । प॒व॒ते॒ । कृत्व्यः॑ । रसः॑ । विप्रः॑ । क॒विः । काव्ये॑न । स्वः॑ऽचनाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -127,41 +127,41 @@ genre M
 **त्यं** तं **पयोवृधं** पयसो वर्धकं **सोमं** **गावः** **पयसा** स्वकीयेन क्षीरेण **श्रीणन्ति** श्रयणं कुर्वन्ति । यः **मतिभिः** स्तुतिभिः सर्वं प्रयच्छति तं **स्वर्विदं** सोमं श्रीणन्ति । सः **धनंजयः** शत्रुधनानां जेता सोमः **काव्येन** कर्मणा **पवते** पूयते । कीदृशः सः । **कृत्व्यः** कर्मण्यः **रसः** रसरूपः **विप्रः** मेधावी **कविः** क्रान्तप्रज्ञः **स्वर्चनाः** सर्वान्नः । चन इत्यन्ननाम ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The kine dilute with their milk that milk augmenting **Soma** who bestows all things by means of praises; (the Soma) the winner of (our foes') wealth flows purified by the rite, apt for the rite, wise, experienced, the (giver of) all food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The cows mix this soma with milk, him who is strengthened by milk— with thoughts, him who finds the sun.  
 Winning the stakes, getting results, the sap purifies himself—an inspired  poet, a sage poet through his poetic skill, who delights in the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The last pāda is notable for the concentration of poet words: vípraḥ kavíḥ kā́vyena, a role not otherwise attributed to Soma in this hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The kine with milk dress him who makes the milk increase, Soma, amid the songs, who finds the light of heaven.  
      Winner of wealth, the effectual juice is flowing on, Singer and Sage by wisdom, dear as heaven itself.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Soma mischen die Kühe mit ihrer Milch, den milchsaftreichen unter Gebeten, den Sonnenfinder. Schätze ersiegend läutert sich der den Sieg entscheidende Saft, beredt, ein Seher an Sehergabe, nach der Sonne verlangend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma, der der Milch sich freut und Glanz verleiht, versehn mit warmer Milch die Kühe andachtsvoll; Es rieselt Schatz erbeutend, wirkungsreich der Saft, der Sänger weis' an Weisheit, schön wie Himmelsglanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Коровы украшают этого сому (своим) молоком,  
 (Этого) крепнущего от молока, – под молитвы – находящего солнце.  

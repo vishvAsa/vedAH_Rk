@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिः꣡ सप्त꣡ य꣡द् गु꣡हियानि तुवे꣡ इ꣡त्  
 पदा꣡विदन् नि꣡हिता यज्ञि꣡यासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पशू꣡ञ् च स्थातॄ꣡ञ् चर꣡थं च पाहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तेभिः॑ । र॒क्ष॒न्ते॒ । अ॒मृत॑म् । स॒ऽजोषाः॑ । प॒शून् । च॒ । स्था॒तॄन् । च॒रथ॑म् । च॒ । पा॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *triḥ* ← *tris*
 - \[adverb\]
@@ -133,7 +133,7 @@ genre M
 **यज्ञियासो** यज्ञार्हा अर्थित्व-सामर्थ्य-वैदुष्यादिभिर् अधिकार-हेतुभिर् युक्ताः । तथा चोक्तम् - "अर्थी समर्थो विद्वान् शास्त्रेणापर्युदस्तः कर्मण्य् अधिकारी"ति । एवंविध-लक्षणोपेता यजमानास् तानि पदान्य् **अविदन्** । अलभन्त । लब्ध्वा च **तेभिर्** यज्ञ-लक्षणैः पदैर् **अमृतम्** अमरणधर्माणं त्वां **रक्षन्ते** । पालयन्ति । यजन्तीत्यर्थः । सजोषास्तैर्यजमानैः समानप्रीतिस्त्वं पशून् गवाश्वादि-पशूंश् च स्थातॄन् व्रीह्यादि-स्थावराणि **चरथं** पशुव्यतिरिक्तम् अन्यद् यत् प्राणिजातम् अस्ति तच्छ **पाहि** । रक्ष । तेषु हि रक्षितेषु त्वदीया यागाः कर्तुं शक्यन्ते नान्यथा । अतस्त्वमेवमुच्यस इत्यर्थः ॥ यत् । सुपां सुलुगिति विभक्तेर्लुक् । गुह्यानि । गुहायां भवानि । भवे छन्दसीति यत् । यतोऽनाव इत्याद्युदात्तत्वम् । त्वे सुपां सुलुगिति सप्तम्याः शे आदेशः । अविदन् । विद्लृ लाभे । लुङि लृदित्त्वादङ् । पशून् स्थातृन् । उभयत्रोभयथर्क्षु (पा ८-३-८) इत्युभयथाभावान्नकारस्य रुत्वाभावः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,14 +144,14 @@ genre M
 Gṛhyāṇi padā (ni): secret or mysterious steps by which heaven is said to be obtained. Ceremonies of **vedas** (all involving **Agni**) are in three classes, each class has seven **yajñas**: **pāka-yajñas**, those in which food of some kind is offered (**aupāsana**, **homa**, **vaiśvadeva**); **havir-yajñas**, those in which clarified butter is offered (**agnyādheya**, **darśa pūrṇamāsa**); and **soma-yajñas**, the principal part of which is the libation of **soma** (**agniṣṭoma**, **atyagniṣṭoma**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since those worthy of worship found deposited just in you the three  times seven secret tracks,  
 with these do they, of one accord, guard their own immortal one.  
 Protect the livestock, both the still and the moving.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Pp. reads unaccented avidan, but accented ávidan should be extracted from the ambiguous sequence padā́vidan.
 
@@ -160,28 +160,28 @@ As often with RVic numerology, the identity of the three times seven secret pad�
 What amṛ́tam refers to is also unclear; it could be, as Sāyaṇa suggests, Agni, or simply “immortality, the immortal principle” (so Renou). It unfortunately cannot be the body, which is fem. Note the “way towards immortality” (amṛtatvā́ya gātúm) in 9b below. The phrase sthātṝ́n caráthaṃ ca with its number mismatch shows Parāśara’s fondness for this merism (I.66.9, 68.1, 70.3, 7) and the grammatical anomaly found in most of the occurrences in his oeuvre; see disc. ad locc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soon as the holy beings had discovered the thrice-seven mystic things contained within thee,  
      With these, one-minded, they preserve the Amrta: guard thou the life of all their plants and cattle.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When the worshipful (gods) have discovered the thrice seven secret steps (or, places) laid down in thee, they concordantly guard with them immortality. Protect thou the cattle and that which remains steadfast and that which moves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seit die Opferwürdigen die dreimal sieben geheimen Worte, die bei dir verborgen waren, gefunden hatten, bewachen sie einträchtig mit diesen den Unsterblichen. Hüte du die Tiere und alles was steht und geht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da dreimal sieben tief verborgne Spuren, die in dir sind, die heiligen gefunden, Behüten sie vereint durch sie den Nektar; das Vieh beschirme, und was steht und wandelt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С тех пор как достойные жертв (боги) нашли спрятанные  
 В тебе трижды семь тайных слов,  

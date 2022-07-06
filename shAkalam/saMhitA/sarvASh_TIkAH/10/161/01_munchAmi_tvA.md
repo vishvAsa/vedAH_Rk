@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मुञ्चा꣡मि त्वा हवि꣡षा जी꣡वनाय क꣡म्  
 अज्ञातयक्ष्मा꣡द् उत꣡ राजयक्ष्मा꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡स्या इन्द्राग्नी प्र꣡ मुमुक्तम् एनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ग्राहिः॑ । ज॒ग्राह॑ । यदि॑ । वा॒ । ए॒तत् । ए॒न॒म् । तस्याः॑ । इ॒न्द्रा॒ग्नी॒ इति॑ । प्र । मु॒मु॒क्त॒म् । ए॒न॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *muñcāmi* ← *muc*
 - \[verb\], singular, Present indikative
@@ -143,7 +143,7 @@ popular
 “उत अपि च **राजयक्ष्मात्** । यक्ष्माणां राजा यक्ष्मरोगो राजयक्ष्मः । राजदन्तादित्वादुपसर्जनस्य परनिपातः (पा. सू. २, ३, ३१)। तस्मादपि त्वां मुञ्चामि। **यदि** **वा** यदि च **एतत्** एतस्मिन् समये **एनं** व्याधितं पुरुषं **ग्राहिः** ग्रहणशीला ग्रहरूपा देवता **जग्राह** गृहीतवती **तस्याः** देवतायाः सकाशाद्धे **इन्द्राग्नी** **एनं** **प्र** **मुमुक्तं** प्रमोचयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,29 +154,29 @@ popular
 Ṛṣiakṣmanāśana: the destroyer of **yakṣmā**, consumption or atrophy; the **sūkta** is recited with an offering to fireor the recovery of a person n from sickness: **Āśvalāyana Gṛhya Sūtra** 3.6\]. 0.161.02 If he be of wasted life, or already dead, or he is on the verge of death, I bring him back from the lap ofirṛti; I have made him strong enough to live for a hundred years. 0.161.03 I have rescued him with an oblation having a thousand eyes, conferring a hundred years, giving life for century, so that Indra may conduct him beyond all harm for a hundred years. 0.161.04 Regaining your strength, live for a hundred autumns, a hundred winters, a hundred springs; may Indra,gni, **Savitā**, and **Bṛhaspati**, (propitiated) by this century-yielding oblation, give this man back (to us) for aundred years. 0.161.05 I have rescued you, I have found you; come back again, you who are young again; sound in body, Iave obtained for you all your senses, your whole life.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I release you, with an oblation, to living, from the unknown disease, from  the kingly disease.  
 Or if a Grabber has truly grabbed him in this way, from her, o Indra and  Agni, release him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FOR life I set thee free by this oblation from the unknown decline and from Consumption;  
      Or, if the grasping demon have possessed him, free him from her, O Indra, thou and Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich befreie dich durch Opferspende, auf daß du lebest, von heimlicher Auszehrung und von der Königsauszehrung. Oder wenn ihn da die Grahi gepackt hat, so befreit ihn davon, Indra und Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Damit du lebest, lös' ich dich durch Opfer von unerkannter und von schwerer Krankheit, Und wenn ihn jetzt die Packerin erpackt hat, so macht ihn frei von der, o Indra-Agni!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я освобождаю тебя с помощью жертвенного возлияния - чтобы (ты) жил –  
 От неизвестной якшмы, и от царской якшмы,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ त्वा नक्षिय विश्पते  
 द्युम꣡न्तं देव धीमहि  
 सुवी꣡रम् अग्न आहुत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒ऽवीर॑म् । अ॒ग्ने॒ । आ॒ऽहु॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **नक्ष्य** उपगन्तव्य । नक्षतिर्व्याप्तिकर्मा। **विश्पते** विशां पते **देव** द्योतमान **आहुत** सर्वैर्यजमानैरभिहुत हे **अग्ने** **द्युमन्तं** दीप्तिमन्तं **सुवीरं** कल्याणस्तोतृकं **त्वा** त्वां वयं **नि** **धीमहि** निहितवन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,30 +98,30 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The approachable: nakṣya upagantavya: nakṣati = **vyāpti** karmā, fromnakṣ, to pervade; the righteously glorified: suvīram = kalyāṇastotṛkam, the object of auspicious or piouspraise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would establish you as the brilliant one, o clanlord to be  
 attained, o god,  
 as the one having good heroes, o Agni, receiving the poured offering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the house, whom men must seek, we set thee down, O Worshipped Onel  
      Bright, rich in heroes, Agni! God
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, du zugänglicher Clanfürst, den Glänzenden setzen wir ein, o Gott, den Meister, du mit Schmalz begossener Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich starken, lichten setzen wir, o Hausherr, nahenswerther Gott, O opferreicher Agni hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о доступный господин племен,  
 Сверкающего, о бог, мы устраиваем (здесь),  

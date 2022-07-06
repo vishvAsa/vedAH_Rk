@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् आविथ सुश्र꣡वसं त꣡वोति꣡भिस्  
 त꣡व त्रा꣡मभिर् इन्द्र तू꣡र्वयाणम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 महे꣡ रा꣡ज्ञे यू꣡ने अरन्धनायः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वम् । अ॒स्मै॒ । कुत्स॑म् । अ॒ति॒थि॒ऽग्वम् । आ॒युम् । म॒हे । राज्ञे॑ । यूने॑ । अ॒र॒न्ध॒ना॒यः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -111,37 +111,37 @@ genre M
 हे **इन्द्र** **त्वं** **तवोतिभिः** त्वदीयैः पालनैः **सुश्रवसं** पूर्वोक्तं राजानम् **आविथ** ररक्षिथ । तथा **तूर्वयाणम्** एतन्नामानं राजानं **तव** **त्रामभिः** त्वदीयैस्त्रायकैः पालकैर्बलैः आविथेति शेषः । किंच **त्वं** **महे** महते **यूने** तरुणाय **अस्मै** सुश्रवसे **राज्ञे** कुत्सादीन् त्रीन् राज्ञः **अरन्धनायः** वशमनयः।  ‘ रध्यतिर्वशगमने' (निरु. ६. ३२) इति यास्कः ॥ त्रामभिः । ‘त्रैङ् पालने'। आदेचः० ' इति आत्वम् । अतो मनिन् ' इति मनिन् । नित्त्वादाद्युदात्तत्वम् । अरन्धनायः । रन्धनं वशीकरणं करोति रन्धनयति । तत्करोति°! (पा. सू. ३. १. २६. ५) इति णिच् ।  ‘ इष्ठवण्णौ प्रातिपदिकस्य ' (पा. सू. ६. ४. १५५. १ ) इति इष्ठवद्भावात् टिलोपः । लङि सिपि दीर्घश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, have preserved **Suśravas** by your succour, Turvayāṇa by your assistance; you have made **Kutsa**, **Atithigva**, and Ātu subject to the mighty though youthful Suśravas.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You helped Suśravas with your means of help and Tūrvayāṇa with your  means of rescue, o Indra.  
 You made Kutsa, Atithigva, and Āyu subject to him, to the great  
 young king.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou hast protected Susravas with succour, and Turvayana with thine aid, O Indra.  
      Thou madest Kutsa, Atithigva, Ayu, subject unto this King, the young, the mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast mit deinen Hilfen dem Susravas geholfen, mit deinen Schutztruppen dem Turvayana, o Indra. Du hast Ihm, dem großen jugendlichen König, den Kutsa, Atithigva, Ayu unterworfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du halfst dem Suçravas mit deinen Hülfen, Indra, mit deinem Schutz dem Turvajana, Du gabst den Kutsa, Atithigva, Aju in seine Hand dem grossen, jungen König.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты помог Сушравасу своими подкреплениями,  
 Своими защитными действиями, о Индра, – Турваяне.  

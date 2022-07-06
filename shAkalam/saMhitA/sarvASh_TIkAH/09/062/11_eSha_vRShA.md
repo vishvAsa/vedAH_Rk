@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ वृ꣡षा वृ꣡षव्रतः  
 प꣡वमानो अशस्तिहा꣡  
 क꣡रद् व꣡सूनि दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 कर॑त् । वसू॑नि । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -87,20 +87,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वृषा** कामानां सेक्ता **वृषव्रतः** वृषकर्मा **अशस्तिहा** राक्षसानां हन्ता **पवमानः** **एषः** सोमः **दाशुषे** हविषां दात्रे यजमानाय **वसूनि** धनानि **करत्** करोति । प्रयच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Pavamāna** **Soma**, the sprinkler (of benefits), engaged in sprinkling, the destroyer of **rākṣasas**, bestows riches upon the donor (of the oblation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This bull following his bullish commandments, purifying himself,  smashing malediction,  
 will provide goods for the pious.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The nom. pávamānaḥ in b is helpful in identifying the referent as Soma, in that both vṛ́ṣā ‘bull’ (and related vṛ́ṣa-vrataḥ) and aśastihā́could be (and are) just as well used of Indra.
 
@@ -114,23 +114,23 @@ In this tṛca all three vss. have a form of med. páva-: pávamānaḥ 10b, 11b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Queller of curses, mighty, with strong sway, this Pavamana shall  
      Bring treasures to the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Bulle von bullenhaftem Wirken, der Pavamana, der die hämischen Reden niederschlägt, möge dem Opferspender Schätze verschaffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Stier, der Stieres Werke thut, der flammende, der Flucher tilgt, Verschaffe dem Verehrer Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

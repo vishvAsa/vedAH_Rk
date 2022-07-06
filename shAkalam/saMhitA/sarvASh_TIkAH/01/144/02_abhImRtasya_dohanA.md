@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡म् ऋत꣡स्य दोह꣡ना अनूषत  
 यो꣡नौ देव꣡स्य स꣡दने प꣡रीवृताः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ध स्वधा꣡ अधयद् या꣡भिर् ई꣡यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒पाम् । उ॒पऽस्थे॑ । विऽभृ॑तः । यत् । आ । अव॑सत् । अध॑ । स्व॒धाः । अ॒ध॒य॒त् । याभिः॑ । ईय॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhīm* ← *abhi*
 - \[adverb\]
@@ -119,41 +119,41 @@ genre M
 **ऋतस्य** उदकस्य **दोहनाः** धाराः **योनौ** उत्पत्तिस्थाने **देवस्य** **सदने** द्योतमानस्य आदित्यस्य स्थाने **परीवृताः** तद्रश्मिभिः परितो व्याप्ताः सत्यः **अभि** **अनूषत** अभिनवा भवन्ति । आभवन्त्येव स्तूयन्ते वा । कदेत्यत आह । **यत्** यदा **अपामुपस्थे** उदकानामुत्सङ्गे अन्तः **विभृतः** विशेषेण ताभिर्धार्यमाणः सन् **आवसत्** आक्रम्य निवसत्ययमग्निः तदानीमित्यर्थः । **अध** अधुना **स्वधाः** अमृतोपमाः अपः **अधयत्** पिबति सर्वो लोकः । ता विशेष्यन्ते । **याभिः** सह **ईयते** अयमग्निः संगच्छते वा भूमिं ता अधयत् । विद्युदात्मना उदकानि जगत् पाययते इत्यग्नेः स्तुतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The drops of rain, enveloped (by the solar rays), are renewed in the dwelling of the divine (sun), their birth-plural ce; when he, (**Agni**), abides cherished on the lap of the waters, then (the world) drinks the nectareous (rain), with which he, (as the lightning), associates.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who produce the milk of truth [=streams of melted butter?] have  bellowed to him—those surrounded on every side in the womb of the  god, in his seat.  
 When, borne away, he dwelt in the lap of the waters, then he suckled  upon his own powers by which he speeds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him sang forth the flowing streams of Holy Law, encompassed in the home and birth-place of the God.  
      He, when he dwelt extended in the waters' lap, absorbed those Godlike powers for which he is adored.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They have greeted with shouts the streams of Rita 1 which were hidden at the birthplace of the god, at his seat. When He dwelt dispersed in the lap of the waters, he drank the draughts by (the power of) which he moves 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Melkkühe des frommen Brauches haben ihn angebrüllt, die im Schoße am Sitz des Gottes von den Flammen eingehüllt werden. Als er verteilt im Schoße der Wasser wohnte, da saugte er die Eigenkräfte ein, mit denen er sich bewegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm jauchzten zu die Melker heil'gen Opfertranks, am Schooss des Gottes, drängend sich um seinen Sitz; Schon als er lag im Schooss der Wasser hier und dort, sog er die Tränke, die man jetzt von ihm erfleht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дойные коровы (вселенского) закона возликовали ему навстречу,  
 Замкнутые в лоне бога, в сидении (обряда).  

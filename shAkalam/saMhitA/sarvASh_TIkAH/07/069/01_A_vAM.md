@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां र꣡थो रो꣡दसी बद्बधानो꣡  
 हिरण्य꣡यो वृ꣡षभिर् यातु अ꣡श्वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इषां꣡ वोळ्हा꣡ नृप꣡तिर् वाजि꣡नीवान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 घृ॒तऽव॑र्तनिः । प॒विऽभिः॑ । रु॒चा॒नः । इ॒षाम् । वो॒ळ्हा । नृ॒ऽपतिः॑ । वा॒जिनी॑ऽवान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -110,37 +110,37 @@ genre M
 हे अश्विनौ **वां** **रथः** **वृषभिः** युवभिः **अश्वैः** युक्तः सन् **आ** **यातु** यज्ञमस्मदीयम् । कीदृशो रथः । रथो विशेष्यते । **रोदसी** द्यावापृथिव्यौ **बद्बधानः** बाधमानः **हिरण्ययः** हिरण्मयः **घृतवर्तनिः** घृतमुदकं वर्तन्यां यस्य तादृशः **पविभिः** रथनेमिभिर्मधुपात्रैर्वा **रुचानः** दीप्यमानः **इषां** **वोळ्हा** यजमानैर्दत्तानां हविषां वाहको दातव्यानां वान्नानां वोळ्हा **नृपतिः** नृणां यजमानानां स्वामी **वाजिनीवान्** अन्नवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your golden chariot, drawn by your vigorous horses, blocking up heaven and earth, come to us,following the track of the waters, radiant with (glowing) wheels, laden with viands, the protector of men, thereceptacle of food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your golden chariot, ever pressing upon the two world-halves,  journey here with those bulls, your horses—  
 the (chariot) with tracks of ghee, gleaming at its wheel-rims, the driver  of refreshments, the lord of men with prizewinning mares.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY your gold chariot, drawn by vigorous horses, come to us, blocking up the earth  
      and heaven,  
      Bright with its fellies while its way drops fatness, food-laden, rich in coursers, man's protector.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euer Wagen, der beide Welten beengt, der goldene soll kommen mit den bullenhaften Rossen, schmalzspurig, glänzend durch die Radreifen, als Bringer der Labsale, reich an Siegesgewinn wie ein Fürst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit starken Hengsten nahe euer Wagen, der goldne, der an Erd' und Himmel anstösst, Dess Schienen glänzen, dessen Spur von Fett trieft, der Labung fährt, an Speisen reich, o Fürsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваша колесница, теснящая две половины вселенной,  
 Пусть приедет – золотая, с бычьими конями,  

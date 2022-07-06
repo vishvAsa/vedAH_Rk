@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡ ईं स्तवत् कः꣡ पृणात् को꣡ यजाते  
 य꣡द् उग्र꣡म् इ꣡न् मघ꣡वा विश्व꣡हा꣡वेत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृणो꣡ति पू꣡र्वम् अ꣡परं श꣡चीभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 पादौ॑ऽइव । प्र॒ऽहर॑न् । अ॒न्यम्ऽअ॑न्यम् । कृ॒णोति॑ । पूर्व॑म् । अप॑रम् । शची॑भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -142,7 +142,7 @@ genre D
 **कः** स्तोता **ईम्** एनमिन्द्रं **स्तवत्** स्तुयात् । स्तोतुं शक्नुयात् । **कः** वा **पृणात्** एनं प्रीणयेत् । **कः** च **यजाते** एनं हविर्भिर्यजेत। **यत्** यस्मात् अयं **मघवा** धनवानिन्द्रः **उग्रमित्** उद्गूर्णमेव **विश्वहा** सर्वदा **अवेत्** आत्मानं वेत्ति जानाति सर्वदा उग्र एव भवति तस्मात् कारणात् न कोऽप्येनं स्तोतुं प्रीणयितुं यष्टुं वा शक्नोतीति भावः । इतोऽपि स्तुत्यादेरविषय इत्याह । यस्मादयमिन्द्रः **शचीभिः** आत्मीयाभिः प्रज्ञाभिः **पूर्वं** प्रथमभाविनं सन्तं स्तोतारम् **अपरं** पश्चाद्भाविनं च **अन्यमन्यं** परस्परव्यतिहारेण **कृणोति** करोति । यः प्रथमभावी मुख्यः स्तोता तं जघन्यं करोति यश्च जघन्यः स्तोता तं मुख्यं करोति । तत्र दृष्टान्तः । **प्रहरन्** **पादाविव** । यथा पादौ प्रहरन् मार्गे प्रक्षिपन् पुरुषः पूर्वं पादमपरं करोत्यपरं च पूर्वं तद्वत् । अतोऽपि कारणात् इन्द्रः स्तुत्यादेरविषय इति भावः । एतदादिकेन पञ्चर्चेन इन्द्रस्यातिस्वातन्त्र्यं प्रतिपाद्यते ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,13 +153,13 @@ genre D
 Make first one and then: that is, **Indra**, at his plural asure, makes the first of his worshippers the last, and the last the first
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who will praise him, who will fill him, who will sacrifice to him, if the  bounteous one would always help only the strong?  
 Like one who puts down his two feet one after the other, with his  powers he makes the one who was behind to be in front.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner renders d exactly opposite to the published translation: “so macht er den Vorderen zum Hintermann” (fld. by Klein, “āmreḍitas”: “he makes the one at the fore into one who lags behind”). But the simile in c is about walking one step at a time (“putting his two feet down one after the other”), and unless Indra is walking backwards my interpr. must be correct. It’s true that pū́rvam ‘in front’ precedes áparam ‘behind’ in the text, but word order is scarcely a reliable guide in the RV, esp. since in nominal sentences we often get PREDICATE SUBJECT order. (Furthermore, there's a sort of iconic ordering of the two adjectives, with pū́rva- first, which can be independent of the larger sense.)
 
@@ -174,23 +174,23 @@ As noted in the published introduction, this section, which concerns Indra’s f
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who lauds him, satisfies him, pays him worship? E'en the rich noble still hath found him mighty.  
      With power, as when one moves his feet alternate, he makes the last precede, the foremost follow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer möchte ihn preisen, wer ihm spenden, wer opfern, wenn der Gabenreiche allezeit nur den Gewaltigen begünstigte? Wie man die Füße einen um den anderen vorsetzt, so macht er den Vorderen zum Hintermann durch seine Macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer preist ihn recht, wer sättigt, wer verehrt ihn, dass auch dem starken stets der mächt'ge helfe? Wie Füsse setzend, einen vor den andern, lässt mächtig er den vordern hinten bleiben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто будет его восхвалять, кто одаривать, кто почитать,  
 Если щедрый все время поддерживал только грозного?  

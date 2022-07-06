@@ -8,7 +8,7 @@ title = "+053"
 ‘उत्ते' इति चतुर्ऋचमेकोनत्रिंशं सूक्तं काश्यपस्यावत्सारस्यार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुकान्तम्-- उत्ते चतुष्कमवत्सारः' इति । उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 53 (765)  
 Soma Pavamāna  
@@ -19,7 +19,7 @@ On the other hand, the organizing principle of V.44 is the double application of
 ent different from the one meant. The first verse deploys clear Indraic vocabulary,  particularly the vocative “possessor of the stone,” though Soma can, and should,  be its subject. The first two-thirds of the second verse (2ab) suggest either Indra or  Soma as referent, until the 1st singular verb form “I will praise” that opens the last  pāda establishes the 1st-person speaker as the referent. Again, the third verse opens  like a verse to Varuṇa or another Āditya, and only the “self-purifying” that begins  the second pāda ties it to Soma. It is only the last verse that contains unmistakable  somian vocabulary and which, in its final pāda, clarifies the roles of the drop (índu)  and Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the rhetorical indirection in this hymn, see published introduction. as well as more detailed comments below.
 

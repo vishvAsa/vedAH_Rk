@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ तू꣡ न इन्द्र वृत्रहन्न्  
 अस्मा꣡कम् अर्ध꣡म् आ꣡ गहि  
 महा꣡न् मही꣡भिर् ऊति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 म॒हान् । म॒हीभिः॑ । ऊ॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -93,7 +93,7 @@ genre M
 हे **वृत्रहन्** वृत्राणां शत्रूणां हिंसक **इन्द्र** त्वं **नः** अस्मान् प्रति **तु** क्षिप्रम् **आ** गच्छ । हे इन्द्र **महान्** प्रभूतस्त्वं **महीभिः** महतीभिः **ऊतिभिः** रक्षभिः सह **अस्माकमर्धं** समीपम् **आ** **गहि** आगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,29 +106,29 @@ Cometo us quickly: asmākam ardham, asmākam samīpam, near to us;
 **Ardha** = dwelling plural ce, nivāsa deśam, or hall of worhip, **deva** yajanadeśam: a half\].
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here to us, o Indra Vr̥tra-smasher, here to our side,  
 as the great one with great means of help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O THOU who slewest Vrtra, come, O Indra, hither to our side,  
      Mighty One with thy mighty aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm doch her zu uns, auf unsere Seite, Vritratöter Indra, du der Große mit deinen großen Hilfen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O nah dich, Vritratödter, doch, o Indra, uns und unsrer Schar Mit grossen Hülfen, grosser du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, убийца Вритры,  
 Приходи же ты в наши края,  

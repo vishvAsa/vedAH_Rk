@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् उक्थे꣡ पुरो꣡हितो  
 ग्रा꣡वाणो बर्हि꣡र् अध्वरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 देवाँ꣡ अ꣡वो व꣡रेणियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ऋ॒चा । या॒मि॒ । म॒रुतः॑ । ब्रह्म॑णः । पति॑म् । दे॒वान् । अवः॑ । वरे॑ण्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -97,7 +97,7 @@ genre M
 मनुः प्रार्थयते । **उक्थे** स्तोत्रशस्त्रात्मके **अध्वरे** हिंसारहितेऽस्मिन् यज्ञे **अग्निः** **पुरोहितः** यज्ञार्थं पुरत उत्तरवेद्यामृत्विग्भिर्निहितोऽभूत् । तथा **ग्रावाणः** च सोमाभिषवार्थं पुरतो निहिताः । **बर्हिः** च पुरतो निहितमासादितम् । एवं सामग्र्यां सत्यां मरुतः एकोनपञ्चाशन्मरुद्गणान् **ब्रह्मणस्पतिं** स्तोत्रस्य पालयितारमेतन्नामकं देवं **देवान्** इन्द्रादींश्च एतान् सर्वान् देवान् **वरेण्यं** वरणीयं भजनीयम् **अवः** रक्षणम् **ऋचा** सूक्तरूपया स्तुत्या **यामि** मनुरहं याचामि। याचतेर्लटि रूपम् । वर्णलोपश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,35 +108,35 @@ genre M
 Purohita= plural ced in front, (or on the east), on the **uttara** **vedi**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni has been set in front while the solemn speech (is being recited), as  have the pressing stones and the ritual grass while the ceremony (is  
 going forth).  
 With a verse I implore the Maruts, Brahmaṇaspati, and the gods for  help worthy to be chosen.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take both ukthé and adhvaré as functional loc. absolutes. Cf. śasyámāna ukthé (VI.23.1, also IV.20.10, X.45.10), prayaty ádhvaré (I.16.3 [=VIII.3.5], V.28.6 [=VIII.71.12], etc.). The latter expression appears as a full phrase in 3a prá sú na etv adhvaráḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 CHEIF Priest is Agni at the laud, as stones and grass at sacrifice:  
      With song I seek the Maruts, Brahmanaspati, Gods for help much to be desired.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni ist zum Leiter des Lobliedes bestellt, die Preßsteine, das Barhis zum Leiter der Opferhandlung. In gebundner Rede wende ich mich an die Marut, an Brihaspati, an die Götter um ihre vielbegehrte Gunst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Spruch ist Agni vorgesetzt, dem Opfer Steine und die Streu; Ich geh mit Lied die Maruts, den Gebetes Herrn, um schönen Schutz die Götter an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни поставлен во главе при произнесении хвалы,  
 Давильные камни, жертвенная солома – при обряде,  

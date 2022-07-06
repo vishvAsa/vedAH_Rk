@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा पुनान꣡ आयु꣡षु  
 स्तन꣡यन्न् अ꣡धि बर्हि꣡षि  
 ह꣡रिः स꣡न् यो꣡निम् आ꣡सदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हरिः॑ । सन् । योनि॑म् । आ । अ॒स॒द॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -82,42 +82,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वृषा** कामानां वर्षकः सोमः **आयुषु** मनुष्येष्वध्वर्य्वादिषु **पुनानः** पूयमानः  सन् 'स्तनयन् शब्दं कुर्वन् **अधि** **बर्हिषि** । अधीति सप्तम्यर्थानुवादी । आस्तीर्णे दर्भे **हरिः** हरितवर्णः **सन्** **योनिं** स्वकीयं स्थानम् **आसदत्** आसीदति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The showerer (of benefits) being purified among men (lies) murmuring upon the sacred grass, green-tinted he sits down in his proper plural ce.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull, being purified among the Āyus, thundering upon the  
 ritual grass,  
 although being a fallow bay horse, has sat down on his womb.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner (but not Renou), I take the pres. part. sán as concessive, as the nom. forms of this participle generally are -- although I’m not sure what the concession is. The most likely possibility is that “sitting down on the womb” is an odd action for a horse. The most common simile with “sit” is “like a falcon,” e.g., IX.82.1 śyenó ná yónim … ā́sadam, with the same lexical material as here. Or perhaps horses don’t thunder.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The tawny Steer, while cleansed among the living, bellowing on the grass,  
      Hath sunk and settled in his home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bulle, der sich bei den Ayu´s läutert, der auf dem Barhis donnert, obwohl er ein Falber ist, hat sich in den Schoß gesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt bei den Menschen sitzt der goldne Hengst auf seinem Sitz, Laut wiehernd auf der Opferstreu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык, очищаясь среди Аю,  
 Грохоча на жертвенной соломе,  

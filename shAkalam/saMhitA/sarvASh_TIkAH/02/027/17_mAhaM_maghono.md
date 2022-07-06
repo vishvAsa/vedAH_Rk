@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ह꣡म् मघो꣡नो वरुण प्रिय꣡स्य  
 भूरिदा꣡व्न आ꣡ विदं शू꣡नम् आपेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृह꣡द् वदेम विद꣡थे सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 मा । रा॒यः । रा॒ज॒न् । सु॒ऽयमा॑त् । अव॑ । स्था॒म् । बृ॒हत् । व॒दे॒म॒ । वि॒दथे॑ । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *māham* ← *mā*
 - \[adverb\]
@@ -138,7 +138,7 @@ genre M;; repeated line
 हेवरुण मघोनोधनवतः प्रियस्यानुकूलस्य भूरिदाव्रः भूरेर्बहुलस्यदातुरहम्माआविदं माआवे- दयानि आवेदनंविज्ञापनम्माकरवाणि किन्तदनावेद्यं आपेर्ज्ञातेः शूनंशून्यन्दारिद्मम् वर्णलोपश्छान्दसः यद्वा शूनङ्गतम्प्राप्तन्दारिद्मम् टुओश्विगतिवृद्भ्योः श्वीदितोनिष्ठायामितीट् प्रतिषेधः यजादित्वात्सम्प्र- सारणम् ओदितश्चेतिनकारः वृषादित्वादाद्युदात्तत्वम् एतदुक्तम्भवति अस्मदीयाः पुत्रादयः क्षुधिता- इतिप्रभुसमीपेभिधाययाचमानोमाभूवमिति हेराजन्सुयमात् सुष्ठुनियम्यतेर्ननपुरुषोगृहइतिसुयमः ईषद्दृःसुष्वितिखल् तादृशाद्रायोधनान्मावस्थांअवयुत्यस्थितोमाभूवं वयंसुवीराः शोभनपुत्राविद- थेयज्ञेगृहेवावर्तमानाः सन्तीबृहत् प्रौढंस्तोत्रं वदेम उच्चारयाम ॥ १७ ॥इदमित्येकादशर्चंषष्ठंसूक्तम् अत्रानुक्रम्यते—इदमेकादशवारुणमिति पूर्वसूक्ते कूर्मोगार्त्समदो- हिवेत्युक्तत्वादस्योत्तरस्यचकूर्मोगृत्समदोवाऋषिः त्रिष्टुप् छन्दः वरुणोदेवता विनियोगोलैङ्गिकः अत्रकेचिदाहुः इदमेकादशर्चन्तुवारुणम्भयपापनुत् । ऋणदारिद्भदुःस्वप्ननाशनञ्चेतिशुश्रुमेति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -157,34 +157,34 @@ Dāridryam = poverty;
 Explanation: may I not be under the necessity of begging of different princes, saying, my sons, or other relatives are hungry: asmadīyaḥ putrādayaḥ **kṣudhita** iti **prabhu** prabhu samīpe abhidyhāya yācamāno mā bhūvam; may I never, royal Varuṇa: refrain from **sūkta** 15
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let me not find the lack of a dear benefactor, of a friend with many  gifts, o Varuṇa.  
 Let me not stand down from wealth easy to control, o king. – May we  speak loftily at the ritual distribution, in possession of good heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May1 not live, O Varuna, to witness my wealthy, liberal, dear friend's destitution.  
      King, may1 never lack well-ordered riches. Lond may we speak, with heroes, in assembly.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May I not ever lack a friendly patron, Nor, Varuṇa, an open-handed comrade. May I, O King, not want well-managed riches, May we speak loud, with heroes, in the synod.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht möchte ich, o Varuna, eines lieben Gönners, eines freigebigen Freundes entraten, noch möchte ich des leicht zu regierenden Besitztums ermangeln, o König. - Wir möchten das große Wort führen als Meister in der weisen Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht lass es mir an mächt'gen Freunden mangeln, o Varuna, an lieben, gabenreichen; Noch schwinden mein geordnet Gut, o König, lass laut im Chore bei dem Fest uns singen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не хотел бы я, о Варуна, испытывать недостаток  
 В милом, щедром дарителе, в друге, много дающем!  

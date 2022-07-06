@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुत्र꣡म् इव पित꣡राव् अश्वि꣡नोभा  
 इ꣡न्द्राव꣡थुः का꣡वियैर् दंस꣡नाभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡रस्वती त्वा मघवन्न् अभिष्णक्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । सु॒राम॑म् । वि । अपि॑बः । शची॑भिः । सर॑स्वती । त्वा॒ । म॒घ॒ऽव॒न् । अ॒भि॒ष्ण॒क् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
@@ -114,7 +114,7 @@ genre M
 हे **इन्द्र** त्वां **पितरौ** मातापितरौ **पुत्रमिव** ॥  ‘ पिता मात्रा' (पा. सू. १.२.७०) इति पितुः शेषः । **उभा** उभौ अश्विनौ **काव्यैः** प्रशस्यैः **दंसनाभिः** आत्मीयैः कर्मभिः **आवथुः** । मध्यमो व्यत्ययेन । आवतुः ररक्षतुः । त्वं च **सुरामं** सुखेन रमणसाधनं हविः **यत्** यदा **शचीभिः** शक्तिभिः सार्धं **व्यपिबः** विशेषेण पीतवानसि तदा हे **मघवन्** धनवन्निन्द्र **सरस्वती** देवी **त्वा** त्वाम् **अभिष्णक्** उपासेवत । भिष्णक् उपसेवायाम् । कण्ड्वादिः । छान्दसो यगभावः । लङि  ‘ बहुलं छन्दसि' इति शपो लुक् । 'हल्ङ्याब्भ्यः' इति लोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,30 +125,30 @@ genre M
 **Yajus**. 10.34
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like parents their son, both the Aśvins helped (you), Indra, through  their wondrous skills and sage words.  
 When with your powers you separated the surā-soma by drinking it,  
 Sarasvatī healed you, bounteous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As parents aid a son, both Asvins, Indra, aided thee with their wondrous Powers and wisdom.  
      When thou, with might. hadst drunk the draught that gladdens, Sarasvati, O Maghavan, refreshed thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Eltern dem Sohne, so die beiden Asvin; ihr standet dem Indra bei mit Sehergaben und Künsten. Als du den geschnapsten Soma nach Kräften heraustrankst, da heilte dich, Gabenreicher, die Sarasvati.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Aeltern ihrem Sohn, so halfen, Indra, die Ritter dir mit Wunderkraft und Weisheit; Als du mit Eifer trankst den freudenreichen, erquickte dich Sarasvati, o starker.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как родители (поддерживают) сына, (так и) оба Ашвина.  
 Индру вы поддержали поэтическими силами (и) чудесными деяниями.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ रा꣡जेव क्र꣡तुमाँ अ꣡मेन  
 वि꣡श्वा घ꣡निघ्नद् दुरिता꣡ पवस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 इन्दो॒ इति॑ । सु॒ऽउ॒क्ताय॑ । वच॑से । वयः॑ । धाः॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -123,44 +123,44 @@ genre M;; repeated line
 अनया स्तुतिमुपसंहरन् फलमाशास्ते । हे सोम **एव** एवं स्तुत इति शेषः। **क्रतुमान्** त्वं **राजेव** **अमेन** बलेन **विश्वा** सर्वाणि **दुरिता** दुरितानि **घनिघ्नत्** विनाशयन् **पवस्व** । हे **इन्दो** दीप्त सोम **सूक्ताय** शोभनमुदिताय **वचसे** अस्माकं स्तोत्राय तद्वचो विमृष्यार्थवदवगत्य **वयो** **धाः** अन्नं धेहि। अन्नलाभस्य स्तुतिनिमित्तकत्वात्तस्य स्तुतिवचसः प्राधान्येनोक्तिः । शिष्टं सिद्धम् ॥ ॥२६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thus (glorified), to you (**Soma**) like a king, performing your functions, flow on destroying all evils by your might; **Indu**, give food (in answer) to (our) well-recited praise; do you (O gods) cherish us ever with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In this way, like a king full of resolve, ever smiting all obstacles to  progress with your onslaught, purify yourself.  
 O drop, impart vitality to our speech. – Do you protect us always with  your blessings.  
 1330 IX.91–92
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that the VP váyo dhāḥ “impart vitality” reprises the cmpd. vayodhā́m in 2a in the same metrical position.
 
 In d sūktā́ya was omitted from the tr., which should be changed to “impart vitality to our well-spoken speech” or, perhaps less likely, “… to our hymn [sūktá], to our speech.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus like a wise and potent King flow onward, destroying with thy vigour all misfortunes.  
      For our well-spoken hymn give life, O Indu. Do ye preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also läutere dich, wie ein umsichtiger König mit Wucht, alle Unfälle abwehrend! O Saft, gib der wohlgesetzten Rede Schwung! - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ströme hell gleich einem mächt'gen König, durch deinen Andrang alle Noth verjagend, Verleihe, Indu, Kraft dem schönen Liede, beschirmet ihr uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Та очищайся же, словно царь, обладающий силой духа (и) неистовством,  
 Мощно поражая все злодеяния!  

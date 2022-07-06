@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡क्षद् ध꣡वम् अरुणीः꣡ पूर्वियं꣡ रा꣡ट्  
 तुरो꣡ विशा꣡म् अ꣡ङ्गिरसाम् अ꣡नु द्यू꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 च꣡तुष्पदे न꣡रियाय द्विपा꣡दे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तक्ष॑त् । वज्र॑म् । निऽयु॑तम् । त॒स्तम्भ॑त् । द्याम् । चतुः॑ऽपदे । नर्या॑य । द्वि॒ऽपादे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakṣaddhavam* ← *nakṣat* ← *nakṣ*
 - \[verb\], singular, Present injunctive
@@ -116,20 +116,20 @@ genre M
 **अरुणीः** अरुणवर्णाः आरोचमानाः वा उषसः **राट्** राजयन् प्रकाशयन् सूर्यात्मा इन्द्रः **पूर्व्यं** पूर्वैर्ऋषिभिः प्रयुक्तं **हवम्** इदानीमस्माभिः क्रियमाणमाह्वानं **नक्षत्** नक्षतु शृणोतु । कीदृशः । **अनु** **द्यून** अनुदिवसं **विशां** मनुष्याणाम् **अङ्गिरसाम्** ऋषीणां स्तोतॄणां **तुरः** धनस्य प्रेरयिता । अपि च स इन्द्रः **वज्रं** स्वकीयमायुधं **नियुतं** हन्तव्येन सह नितरां युक्तं **तक्षत्** अकरोत् । तथा **द्यां** द्युलोकं **तस्तम्भत्** अस्तम्भयत् । यथा अधो न पतति तथा अकरोदित्यर्थः । किमर्थम् । **नर्याय** नृभ्यो हिताय **चतुष्पदे** गवाश्वादये **द्विपादे** मनुष्याय च । एतदुभयार्थमित्यर्थः ॥ नक्षत् । नक्ष गतौ । लेटि अडागमः । पूर्व्यम् । पूर्वैः कृतमिनयौ च ' (पा. सू. ४. ४. १३३ ) इति यप्रत्ययः । राट् ।  ‘ राजृ दीप्तौ । अस्मादन्तर्भावितण्यर्थात् क्विप् । तुरः ।  ‘ तुर त्वरणे '। इगुपधलक्षणः कः । तक्षत् ।  ‘ तक्षू त्वक्षू तनूकरणे'।  ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । तस्तम्भत् । ष्टभि स्कभि गतिप्रतिबन्धे'। अस्मात् ण्यन्तात् लुङि चङि रूपम् । ‘चङयन्यतरस्याम्' इति उपोत्तमस्य उदात्तत्वम् । पूर्वपदस्य असमानवाक्यस्थत्वात् निघाताभावः । चतुष्पदे । चत्वारः पादाः अस्य ।' संख्यासुपूर्वस्य । इति पादशब्दस्य अन्त्यलोपः समासान्तः । चतुर्थ्येकवचने भसंज्ञायां पादः पत्' इति पद्भावः । द्विपादे ।  पूर्ववत्प्रक्रिया । अयं तु विशेषः । अयस्मयादित्वेन पदत्वात् भसंज्ञाया अभावे पद्भावाभावः ।   ‘ द्वित्रिभ्यां पाद्दन्मूर्धसु बहुव्रीहौ ' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May he, illuminating the purple (dawn), listen to the invocation (addressed to him) of old, daily besowing wealth upon the race of **Aṅgiras**; he has sharpened his fatal shaft; he has supported the heaven for the good of men, of quadrupeds, andbipeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The surpassing king will come through the days to the age-old call of the  clans of the Aṅgirases for the ruddy (cows).  
 He will fashion the mace, his team-mate; he will prop up heaven for the  sake of the two-footed and four-footed belonging to men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the published translation this verse is couched in the English future because I took two of the three verbs in the verse (nákṣat and tastámbhat) as subjunctives and the third (tákṣat) as an injunctive but a rhyme form to nákṣat, each of them beginning a hemistich. I considered the verse a continuation of the prospective questions in vs. 1.
 
@@ -147,23 +147,23 @@ Geldner takes aruṇī́ḥ as nom. sg. fem., appositive to rā́ṭ, which must
 and mean ‘queen’ (“die Morgenröte, die Königin”). Both of these are grammatically possible: rā́ṭ must be fem. in V.46.8; aruṇī́ḥ must be nom. sg. in IV.1.16, 14.3. But this leaves the apparent masc. nom. sg. adj. turáḥ without a head. I therefore take aruṇī́ḥ as acc. pl., loosely construed with hávam. See Oldenberg The ruddy ones are presumably the cows imprisoned in the Vala cave, who reappear (with a different color term, usríya-) in vs. 4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of red dawns, he came victorious, daily to the Angirases' former invocation.  
      His bolt and team hath he prepared, and stablished the heaven for quadrupeds and men two-footed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es kam auf den Ruf zuerst die Morgenröte, die Königin; es kam auf den Ruf der Angiras´ der Gebieter der Clane alle Tage. Er zimmerte die ihm zu eigen gegebene Keule; er stützte den Himmel für die den Herren gehörigen Vierfüßler und Zweifüßler.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es vernahm das Gebrüll der röthlichen [? im Gewölk eingeschlossenen] Kuh der starke Gebieter der Menschen und der Angira's Tag für Tag; er machte zurecht den Blitz und das Gespann, befestigte den Himmel dem vierfüssigen Geschlecht und dem zweifüssigen der Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Являлся царь на древний зов племен Ангирасов,  
 (Чтобы захватывать) алых (коров), сильный (бог),  

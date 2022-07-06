@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ विद्वाँ꣡ आ꣡ च पिप्रयो  
 य꣡क्षि चिकित्व आनुष꣡क्  
 आ꣡ चास्मि꣡न् सत्सि बर्हि꣡षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 आ । च॒ । अ॒स्मिन् । स॒त्सि॒ । ब॒र्हिषि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -95,46 +95,46 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हेअग्ने सत्वंविद्वान् विशेषाभिज्ञःसन् आचपिप्रयः सर्वतोस्मान् पूरयचकामैः हेचिकित्वश्चेतनावा- न् आनुषक् अनुक्रमेणयक्षि यज देवान् आसत्सिआसीदचास्मिन् स्तीर्णेबर्हिषि ॥ ८ ॥श्रेष्ठंयविष्ठेतिषडृचंसप्तमंसूक्तंसोमाहुत्यार्षमाग्नेयङ्गायत्रं प्रातरनुवाकाश्विनशस्त्रयोर्गायत्रे छन्दस्य- स्यविनियोगःपूर्वसूक्तएवोक्तः श्रवणाकर्मण्याद्याविनियक्ता ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Agni**, who are all-wise, fulfil (our desire); do you, who are intelligent, worship (the gods) in order; and sit down on this sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the one who knows, you will please (the gods) here, and, o observant  one, you will sacrifice to them in due order,  
 and you will sit here on this ritual grass.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The undoubted subjunctive (ā́) piprayaḥ seems to anchor the following yakṣi and (ā́) satsi as the haplologized s-aor. subjunctives they originally were, rather than in their later imperative function, esp. given the coordination of the first and last terms by ca … ca. However, the two ca’s could be more or less independent, with the second one conjoining yakṣi and satsi more closely.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Befriend us thou as knowing all. Sage, duly worship thou the Gods,  
      And seat thee on this sacred grass.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thus gladden (the gods) 1 as the knowing one; sacrifice, O intelligent one, in due order, and sit down on this Barhis.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Kundiger mögest du die Götter freundlich stimmen und ihnen in richtiger Ordnung opfern, du Verständiger, und auf diesem Barhis Platz nehmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreue denn als kundiger und ehr, o Weiser, allesammt, Und setze dich auf diese Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как знаток настрой благожелательно (богов),  
 Почти их жертвой по порядку, о внимательный,  

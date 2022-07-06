@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अदो꣡ वात ते गृहे꣡  
 अमृ꣡तस्य निधि꣡र् हितः꣡  
 त꣡तो नो देहि जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 ततः॑ । नः॒ । दे॒हि॒ । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -95,31 +95,31 @@ popular
 हे **वात** वायो **ते** तव **गृहे** स्थाने **यददः** योऽसौ **अमृतस्य** अमरणस्य **निधिः** निक्षेपः **हितः** स्थापितो वर्तते **ततः** तस्मान्निधेराहृत्यामृतत्वं **जीवसे** **नः** अस्माकं जीवनाय **देहि** प्रयच्छ ॥ ॥ ४४ । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The store of ambrosia, **Vāta**, which is plural ced in your house, give us of it that we may live.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What deposit of immortality has been deposited yonder in your house,  o Wind,  
 give us of that for us to live.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The store of Amrta laid away yonder, O Vata, in thine home,-  
      Give us thereof that we may live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was dort in deinem Hause, o Wind, als Schatz von Lebensbalsam aufbewahrt wird, davon gib uns zum Leben!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что там в доме у тебя, о ветер,  
 Сложено как сокровище бессмертия,  

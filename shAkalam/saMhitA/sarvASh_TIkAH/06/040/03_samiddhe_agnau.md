@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡मिद्धे अग्नउ꣡ सुत꣡ इन्द्र सो꣡म  
 आ꣡ त्वा वहन्तु ह꣡रयो व꣡हिष्ठाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रा꣡ याहि सुविता꣡य महे꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वा॒ऽय॒ता । मन॑सा । जो॒ह॒वी॒मि॒ । इन्द्र॑ । आ । या॒हि॒ । सु॒वि॒ताय॑ । म॒हे । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samiddhe* ← *samindh* ← *√indh*
 - \[verb noun\], locative, singular
@@ -123,41 +123,41 @@ genre M
 **अग्नौ** **समिद्धे** दीप्ते **सोमे** **सुते** अभिषुते सति हे **इन्द्र** **त्वा** त्वां **वहिष्ठाः** वोढृतमाः **हरयः** अश्वाः **आ** **वहन्तु** । इमं यज्ञं प्रत्यानयन्तु । अहं च **त्वायता** त्वां कामयमानेन **मनसा** जोहवीमि पुनःपुनराह्वयामि । हे **इन्द्र** त्वं **नः** अस्माकं **महे** महते **सुविताय** कल्याणाय **आ** **याहि** आगच्छ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The fire is kindled; the **Soma**, **Indra**, is effused let your vigorous horses bring you hither; I invoke yo, Indra, with a mind wholly devoted to you; come for our great prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the fire kindled, Indra, the soma has been pressed. Let your fallow  bays, the best conveyors, convey you here.  
 With a mind seeking you, I call upon you again and again. Drive here,  Indra, for our great good faring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In sandhi the phrase sutá indra sóma ā́is completely ambiguous between nom. sutáḥ … sómaḥ and loc. suté … sóme. The published translation interprets it as the former, while the Pp. reads the latter. Although nothing rides on it, I would now be inclined to follow the Pp., with two parallel loc. absolutes: “with the fire kindled (and) the soma pressed, let your fallow bays …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The fire is kindled, Soma pressed, O Indra: let thy Bays, best to draw, convey thee hither.  
      With mind devoted, Indra, I invoke thee. Come, for our great prosperity approach us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da das Feuer entflammt, der Soma gepreßt ist, Indra, so sollen dich die Falben herfahren, die besten Fahrer. Von Herzen nach dir verlangend rufe ich dich laut, Indra: Komm her zu großem Glücke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Indra, mögen bei entflammtem Feuer, gepresstem Saft herfahren schnellste Rosse; Ich ruf dich an mit treuergebnem Herzen, o Indra, komm uns her zu grossem Glücke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда зажжен огонь (и) выжат сома, о Индра,  
 Пусть привезут тебя буланые кони, лучше всех возящие!  

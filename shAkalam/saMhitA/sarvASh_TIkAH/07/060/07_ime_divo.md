@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ दिवो꣡ अ꣡निमिषा पृथिव्या꣡श्  
 चिकित्वां꣡सो अचेत꣡सं नयन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पारं꣡ नो अस्य꣡ विष्पित꣡स्य पर्षन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽव्रा॒जे । चि॒त् । न॒द्यः॑ । गा॒धम् । अ॒स्ति॒ । पा॒रम् । नः॒ । अ॒स्य । वि॒ष्पि॒तस्य॑ । प॒र्ष॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -110,7 +110,7 @@ genre M
 **इमे** मित्रादयः **दिवः** द्युलोकस्य **पृथिव्याः** च संबन्धिनः **अनिमिषा** अनिमेषेण सर्वदा **चिकित्वांसः** जानन्तः । कम् । **अचेतसम्** अज्ञानम् । **नयन्ति** प्रापयन्ति कर्माणि । **प्रव्राजे** **चित्** प्रवणेऽप्यत्यन्तनिम्नेऽपि देशे **नद्यः** नद्याः **गाधमस्ति** भवति युष्मत्सामर्थ्यात् । ते महान्तः **नः** अस्माकम् **अस्य** **विष्पितस्य** व्याप्तितस्य(?) कर्मणः **पारं** **पर्षन्** पारयन्तु नयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ genre M
 To the opposite shore: viśpitasya parṣam: vyāpitasya, edpanded; theimplied substantive: karmaṇaḥ, act, duty
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These unwinking, perceptive ones of heaven and of earth lead the  unperceptive man.  
 Even in the onrush of a stream there is a ford. They will bring us across  to the far shore of this peril.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They ever vigilant, with eyes that close not, caring for heaven and earth, lead on the thoughtless.  
      Even in the river's bed there is a shallow. across this broad expanse may they conduct us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie, die ohne Augenschließen auf Himmel und Erde achtgeben, führen den Unverständigen. Auch im Verlauf eines Stromes findet sich eine Furt; mögen sie uns an das andere Ufer dieser Widerwärtigkeit hinüberhelfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als muntre Wächter Himmels und der Erde, als weise führen sicher sie den Thoren, Auch in des Stromes Bett muss eine Furt sein, sie fahren uns ans Ende der Bedrängniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они, (всегда) наблюдавшие, не моргая,  
 За небом и землей, ведут неразумного.  

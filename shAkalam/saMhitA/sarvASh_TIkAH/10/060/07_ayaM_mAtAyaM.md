@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् माता꣡ अय꣡म् पिता꣡  
 अयं꣡ जीवा꣡तुर् आ꣡गमत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सु꣡बन्धव् ए꣡हि नि꣡र् इहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 इ॒दम् । तव॑ । प्र॒ऽसर्प॑णम् । सुब॑न्धो॒ इति॒ सुऽब॑न्धो । आ । इ॒हि॒ । निः । इ॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -100,7 +100,7 @@ popular;; epic anuṣṭubh (525)
 अत्र शेषे शाट्यायनकम् - ‘अथाग्निं द्वैपदेन सूक्तेनास्तुवन् । अग्निः स्तुत आजगाम । आगत्य चाह किंकामा मागच्छतेति । सुबन्धोरेवासुं पुनर्वनुयामेत्यब्रुवन् । एषान्तःपरिधीत्यब्रवीत्तमादद्ध्वमिति । तन्निराह । अयं मातायं पिता' इति । शौनकश्च - स्तुतः स राजा सुप्रीतस्तस्थौ गौपायनानभि ॥ सूक्तेन तेऽस्तुवन्नग्निं द्वैपदेन यथात्रिषु । अथाग्निरब्रवीदेतानयमन्तःपरिध्यसुः ॥ सुबन्धोरस्य चेक्ष्वाकोर्मया गुप्तो हितार्थिना। सुबन्धवे प्रदायासुं जीवेत्युक्त्वा च पावकः ॥ स्तुतो गौपायनैः प्रीतो जगाम त्रिदिवं प्रति । अयं मातेति हृष्टास्ते सुबन्धोरसुमाह्वयन् ॥ शरीरमभिनिर्दिश्य सुबन्धोः पतितं भुवि । सूक्तशेषं जगुश्चास्य चेतसो धारणाय ते' ( बृहद्दे. ७. ९७. १०१ ) इति ॥ **अयम्** अग्निः **माता** । अयम् एव **पिता** । **अयं** **जीवातुः** जीवयिता **आगमत्** आजगाम । अतो हे **सुबन्धो** जीवपरिधौ वर्तमान **इदं** तव शरीरं **तव** प्रसर्पणं प्रकर्षेण सर्पणसाधनम् । अत इदं प्रति **एहि** आगच्छ । **निरिहि** निर्गच्छ परिधेः सकाशात् । अन्य एवं व्याचक्षते । हे निर्गतप्राण सुबन्धो अयम् । विभक्तिव्यत्ययः । इयं मातायं पितायं जीवातुर्जीवनफलभूतः पुत्रश्चागमदिति संबध्यते ॥ सर्वे त्वामागता दुःखिताः सन्तः । शिष्टं समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,29 +111,29 @@ popular;; epic anuṣṭubh (525)
 Givr of life: The brothers of Subandhuaddress their supplications to Agni, to restore him to life and that he has come accordingly, being, as it were, hisparent and begetter; or, as Subandhu, your father, mother and son, have come to mourn your decease\]. not for death, but for security. for death, but for security.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the mother, here the father; here a means of life will come.  
 Here is a way to slither forth for you. Subandhu, come here, come out!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is the mother, this the sire, this one hath come to be thy life.  
      What brings thee forth is even this. Now come, Subandhu, get thee forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser ist als Mutter, dieser als Vater, dieser als das Leben gekommen. Er ist deine Zuflucht, o Subandhu; komm, komm hervor!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Vater nahte dieser Freund, als Mutter und als Leben dir; Hier ist dein Obdach, lieber Freund; hier gehe ein und gehe aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он как мать, он как отец,  
 Он как средство к жизни пришел.  

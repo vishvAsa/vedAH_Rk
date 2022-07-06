@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वा सोम पवमान  
 द्युम्ना꣡नि इन्दव् आ꣡ भर  
 विदाः꣡ सहस्रि꣡णीर् इ꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि॒दाः । स॒ह॒स्रिणीः॑ । इषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
@@ -82,41 +82,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **पवमान** पूयमान **इन्दो** दीप्त त्वं **विश्वा** सर्वाणि बहुविधानि **द्युम्नानि** द्रविणानि **आ** **भर** आहर । **विदाः** लम्भय च **सहस्रिणीः** सहस्रसंख्याकानि **इषः** अन्नानि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O purified **Soma**, O **Indu**, bring all sorts of wealth bestow unlimited food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O self-purifying Soma, o drop, bring all brilliant things hither;  
 you will find refreshments in thousands.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On subj. 2nd sg. vidā́ḥ see comm. ad IX.19.6. As noted there, I think this is the only actual example of vidā́ḥ. The other supposed exx. are actually 2nd sg. impv. vidā́with lengthened final; their sandhi position is ambiguous and so the forms could represent -ā́ḥ as well as -ā́, and the Pp. analyses them as the former. It is in fact not beyond the realm of possibility that the original reading here was also *vidā́. An impv. would fit the context better, with immediately preceding (4b) and following (5a) impv. ā́bhara. It is possible that the original sequence *vidā́sahasríṇīḥ was interpr. as having a degeminated double -s s- (*vidā́s s…), which was then restored. The meter would be unaffected. The almost identical pāda, IX.61.3 kṣárā sahasríṇīr íṣaḥ, is transmitted with an impv. with lengthened final. Note also impv. vardhayā in 5c. An alt. tr. here would then be “find refreshments …” Curiously, both Geldner and Renou tr. as impv., though they register no discomfort with the subjunctive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma Pavamana, bring, Indu, all splcndours hitherward:  
      Find for us food in boundless store.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Herrlichkeiten bring uns, du geläuterter Somasaft; verschaffe tausendfältige Labungen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O bringe alle Schätze her, o Soma, Indu, flammender, Verschaff uns tausendfaches Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ न स्पृ꣡धः स꣡म् अजा सम꣡त्सु  
 इ꣡न्द्र रारन्धि꣡ मिथती꣡र् अ꣡देवीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भर꣡द्वाजा उत꣡ त इन्द्र नून꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि॒द्याम॑ । वस्तोः॑ । अव॑सा । गृ॒णन्तः॑ । भ॒रत्ऽवा॑जाः । उ॒त । ते॒ । इ॒न्द्र॒ । नू॒नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -121,36 +121,36 @@ genre M
 हे **इन्द्र** **एव** एवं स्तुतस्त्वं **नः** अस्मदीयाः **स्पृधः** शत्रुसेनाः **समत्सु** संग्रामेषु **समज** शत्रुवधार्थं प्रेरय । किंच **मिथतीः** हिंसतीः **अदेवीः** आसुरीः सेनाः **ररन्धि** अस्मदर्थं वशीकुरु । **उत** अपि च हे **इन्द्र** **ते** **गृणन्तः** त्वां स्तुवन्तः **भरद्वाजाः** वयम् **अवसा** अन्नेन सह **वस्तोः** वासस्य । निवासमित्यर्थः । **नूनम्** अवश्यं **विद्याम** लभेमहि ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “So (glorified by us), **Indra**, animate us (to overcome) our enemies in battle; overthrow our pious, malevolent (foes), and may we, **Bhāradvājas**, praising you, assuredly possess habitations, with (abundant) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way for us herd together the contenders in the battles. Indra,  subdue the godless ones who oppose (us).  
 And with your help, Indra, might we Bharadvājas know (this), as we sing  just now at dawn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So urge our hosts together in the combats: yield up the godless bands that fight against us.  
      Singing, at morn may we find thee with favour, yea, Indra, and e'en now, we Bharadvajas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So treib du unsere Gegner in den Schlachten zu Paaren, Indra, unterwirf die streitenden gottlosen Stämme! Möchten wir Sänger, wir Bharadvaja´s, auch jetzt durch deine Gnade den neuen Tag erleben, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So treib in Schlachten unsern Feind zu Paaren, die bösen Gegner, Indra, unterwirf uns; Wir Sänger seien deiner Hülfe theilhaft, die Bharadvadscher, Indra, jetzt und morgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так гони наших противников в боях,  
 О Индра, отдай во власть вредные, безбожные (племена)!  

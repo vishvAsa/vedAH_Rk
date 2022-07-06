@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुवा꣡दश द्यू꣡न् य꣡द् अ꣡गोहियस्य  
 अतिथ्ये꣡ र꣡णन्न् ऋभ꣡वः सस꣡न्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ध꣡न्वा꣡तिष्ठन्न् ओ꣡षधीर् निम्न꣡म् आ꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सु॒ऽक्षेत्रा॑ । अ॒कृ॒ण्व॒न् । अन॑यन्त । सिन्धू॑न् । धन्व॑ । आ । अ॒ति॒ष्ठ॒न् । ओष॑धीः । नि॒म्नम् । आपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dvādaśa* ← *dvādaśan*
 - \[noun\], accusative, singular, neuter
@@ -124,36 +124,36 @@ genre M
 “अनयन्त प्रैरयन् । तस्मिन् काले **ओषधीः** ओषधयः **धन्वं** निरुदकस्थानमाश्रित्य **आतिष्ठन्** । **निम्नं** नीचस्थानम् **आपः** अतिष्ठन् । ' उद्वत्स्वस्मा अकृणोतना तृणं निवत्स्वपः ' ( ऋ. सं. १. १६१. ११) इत्युक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the **Ṛbhus**, reposing for twelve days, remained in the hospitality of the uncealable (sun) they rendered the fields fertile, they led forth the rivers, plural nts sprung upon the waste, and waters (spread over) the low (plural ces).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the R̥bhus enjoyed the hospitality of Agohya for twelve days,  sleeping (there),  
 (then) they made the fields good and led the rivers; plants arose upon the  dry land and waters upon the low ground.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When for twelve days the Rbhus joyed reposing as guests of him who never may be hidden,  
      lley made fair fertile fields, they brought the rivers. Plants spread o'er deserts, waters filled the hollows.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die Ribhu´s zwölf Tage lang schlafend in der Gastfreundschaft des Agohya sich´s behaglich gemacht hatten, da brachten sie die Felder in guten Stand, leiteten die Flüsse ab. Es zogen die Pflanzen in die Wüstenei ein, in die Niederung die Gewässer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als dann im Hause des, der unverhüllbar, zwölf Tage ruhend froh die Ribhu's schwelgten, Da schufen Felder sie, ergossen Ströme, die Fluren füllte Kraut, die Tiefen Wasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 После того как Рибху двенадцать дней наслаждались  
 Гостеприимством Агохьи, пребывая во сне,  

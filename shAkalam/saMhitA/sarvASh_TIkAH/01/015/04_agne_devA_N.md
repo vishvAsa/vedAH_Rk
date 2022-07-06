@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने देवाँ꣡ इहा꣡ वह  
 साद꣡या यो꣡निषु त्रिषु꣡  
 प꣡रि भूष पि꣡ब र्तु꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 परि॑ । भू॒ष॒ । पिब॑ । ऋ॒तुना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -92,40 +92,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **देवान्** **इह** अस्मिन् कर्मणि **आ** **वह** । ततः **योनिषु** स्थानेषु **त्रिषु** सवनेषु **सादय** देवानुपवेशय । ततस्तान् **परि** **भूष** अलंकुरु । **ऋतुना** सह त्वं सोमं पिब ॥ ‘अग्ने देवान् ' इत्ययं पादो गतः । योनिषु । ‘यु मिश्रणे । ' वहिश्रि° ' ( उ. सू. ४. ४९१ ) इत्यादिना निप्रत्ययः । नित्त्वादाद्युदात्तः । त्रिषु । ‘षट्त्रिचतुर्भ्यो हलादिः ' ( पा. सू. ६. १. १७९ ) इति विभक्तेरुदात्तत्वम् ।' भूष अलंकारे'। तिङ्ङतिङः' इति निघातः । पिब ऋतुना । गतौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, bring the gods hither, arrange them in three plural ces (**Āhavanīya**, **Dakṣiṇa** and **Gārhapatya**--three fires) decorate them; drink with Ṛtu.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, convey the gods here; make them sit in the three wombs. Attend on them; drink in your turn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The three wombs are presumably the three ritual fires, so “at/by” would be a more felicitous translation than the published “in.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring the Gods, Agni; in the three appointed places set them down:  
      Surround them, and with Rtu drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, fahre die Götter her; laß sie sich an den drei Stätten niedersetzen; warte deines Amtes, trink nach der Zeit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, fahr die Götter her und setz auf die drei Sitze sie, Bedien' sie, trinke nach dem Brauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, привези сюда богов!  
 Посади (их) в трех местах!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ व उग्रा꣡य निष्टु꣡रे  
 अ꣡षाळ्हाय प्रसक्षि꣡णे  
 देव꣡त्तम् ब्र꣡ह्म गायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 दे॒वत्त॑म् । ब्रह्म॑ । गा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे उद्गातारः **वः** यूयम् **उग्राय** उद्गूर्णाय **निष्टुरे** शत्रून्निस्तरते **अषाळ्हाय** शत्रूणामभिभवित्रे **प्रसक्षिणे** प्रसहनशीलायेन्द्राय **देवत्तं** देवप्रसादलब्धं **ब्रह्म** स्तोत्रं **प्र** **गायत** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing aloud (priests) to the fierce, victorious (**Indra**) the overpowerer, the subduer (of foes), the praiseinspired by the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the strong one who lays low, the invincible victor,  
 sing your god-given formulation—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “who lays low” of the published translation might be better “who lays (enemies [vel sim.]) low,” to make clear that a transitive sense is required.
 
@@ -104,23 +104,23 @@ These two verses form a sort of ring with vs. 1. There gā́thayā / máde sóma
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him your matchless Mighty One, unconquerable Conqueror,  
      Sing forth the prayer which Gods have given:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Singet auf den gewaltigen Niederstrecker, auf den unbezwungenen Bezwinger euer von Gott eingegebenes Erbauungswort!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, eurem starken, fällenden, dem unbesiegten Sieger singt Das gottverliehene Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пропойте грозному сокрушителю,  
 Неодолимому, (но) одолевающему,  

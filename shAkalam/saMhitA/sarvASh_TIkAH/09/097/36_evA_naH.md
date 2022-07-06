@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ नः सोम परिषिच्य꣡मान  
 आ꣡ पवस्व पूय꣡मानः सुअस्ति꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वर्ध꣡या वा꣡चं जन꣡या पु꣡रंधिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । आ । वि॒श॒ । बृ॒ह॒ता । रवे॑ण । व॒र्धय॑ । वाच॑म् । ज॒नय॑ । पुर॑म्ऽधिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 हेसोम परिषिच्यमानः परितः पात्रेषु सिच्यमानः पूयमानस्त्वं नोस्माकमेव स्वस्ति अविनाशमापवस्व आप्रापय । किञ्च बृहता महता रवेण शब्देनसह इन्द्रमाविश प्रविश तथा वाचं स्तुतिलक्षणां वर्धय । किञ्च पुरन्धिं बहुधियं प्रज्ञानं जनय अस्मभ्यं उत्पादय । वाक्यभेदादनिघातः ॥ ३६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,13 +127,13 @@ genre M
 With great noise: **Sāmaveda** has madena for raveṇa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus, o Soma, being poured around, being purified, bring well-being  here to us through your purification.  
 Enter Indra with a lofty shout; strengthen speech, beget plenitude.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hymn-summary evā́could once again be rendered more forcefully: “in just this way” vel sim.
 
@@ -147,23 +147,23 @@ All three vss. concentrate on ritual speech and on the noisy approach of both co
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus, Soma, as we pour thee into vessels, while thou art purified flow for our welfare.  
      Pass into Indra with a mighty roaring make the voice swell, and generate abundance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also, o Soma, umgegossen, geläutert, läutere uns Glück zu! Zieh in Indra ein mit hohem Schalle, verstärke die Rede, rufe die Freigebigkeit hervor!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ströme denn, o Soma, rings ergossen uns Heil und Segen zu, du hell entflammter; Mit grossem Brausen gehe ein in Indra, gib Kraft dem Liede, zeuge Segensfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так, о сома, когда (тебя) переливают,  
 Очищайся, когда (тебя) очищают, давая нам счастье!  

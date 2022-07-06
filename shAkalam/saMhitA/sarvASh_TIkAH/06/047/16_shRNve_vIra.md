@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शृण्वे꣡ वीर꣡ उग्र꣡म्-उग्रं दमाय꣡न्न्  
 अन्य꣡म्-अन्यम् अतिनेनीय꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 चोष्कूय꣡ते वि꣡श इ꣡न्द्रो मनुष्या᳡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 ए॒ध॒मा॒न॒ऽद्विट् । उ॒भय॑स्य । राजा॑ । चो॒ष्कू॒यते॑ । विशः॑ । इन्द्रः॑ । म॒नु॒ष्या॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
@@ -107,21 +107,21 @@ genre D
 अयमिन्द्रः **वीरः** वीर्यवानिति **शृण्वे** श्रूयते । किं कुर्वन् । **उग्रमुग्रम्** उद्गूर्णमुद्गूर्णं बलिनं शत्रुं प्रति **दमायन्** । दमः दमनम् । बाधनमिच्छन् । **अन्यमन्यं** प्रथमं नेतव्यमन्यं पश्चान्नेतव्यं चान्यं पूर्वमपरं परस्परव्यतिहारेण स्तोतॄन् **अतिनेनीयमानः** अत्यन्तं पुनःपुनर्नयन् । अपि च **एधमानद्विट्** एधमानानां वर्धमानानामसुन्वतां द्वेष्टा **उभयस्य** दिव्यस्य पार्थिवस्य च धनस्य **राजा** ईश्वरोऽयम् इन्द्रः **विशः** निवेशयितॄन् स्वस्य परिचारकान् **मनुष्यान्** **चोष्कूयते** रक्षणार्थं पुनःपुनराह्वयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The hero **Indra** is renowned; humiliating every formidable (foe), and repeatedly changing the plural ce of one (worshipper) with that of another; Indra, the enemy of the arrogant, the soverign of both (heaven and earth), calls again and again (to encourage) the men who are his worshippers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is famed as a hero who subdues every strong one, continually  leading the one beyond the other in turn. Hating the flashy, king of both (races [=human and divine]), Indra  
 keeps prodding the clans, the sons of Manu—first one, then  
 the other.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In d víśaḥ … manuṣyā̀n do not match in gender. Oldenberg suggests that the latter might be gen. pl., and Geldner’s tr. as such: “die Stämme der Menschen.” I see no reason not to take it as the acc. pl. it appears to be, as a parallel obj. to víśaḥ, not a modifier.
 
@@ -135,23 +135,23 @@ As noted in the published introduction, this section, which concerns Indra’s f
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Famed is the Hero as each strong man's tamer, ever advancing one and then another.  
      King of both worlds, hating the high and haughty, Indra protects the men who are his people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es heißt, daß der Held jeden Gewaltigen zahm macht, daß er einen um den anderen erhöht. Er haßt den Glückspilz, als König über beide Teile kehrt Indra die Stämme der Menschen um und um.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Man hört, der Held bezwinget jeden Starken und immer andre führt er an die Spitze; Den Stolzen hasst der König beider Welten; die menschenholden Stämme schirmet Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Герой слывет укрощающим любого грозного,  
 Выводя вперед то одного, то другого.  

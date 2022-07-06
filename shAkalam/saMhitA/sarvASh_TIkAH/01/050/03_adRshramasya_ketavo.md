@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दृश्रम् अस्य केत꣡वो  
 वि꣡ रश्म꣡यो ज꣡नाँ अ꣡नु  
 भ्रा꣡जन्तो अग्न꣡यो यथा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 भ्राज॑न्तः । अ॒ग्नयः॑ । य॒था॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adṛśram* ← *dṛś*
 - \[verb\], plural, Root aorist (Ind.)
@@ -85,46 +85,46 @@ genre M
 **अस्य** सूर्यस्य **केतवः** प्रज्ञापकाः **रश्ययः** दीप्तयः **जनान्** **अनु** **वि** **अदृश्रं** जातान् सर्वान् अनुक्रमेण प्रेक्षन्ते । सर्वं जगत्प्रकाशयन्तीत्यर्थः। तत्र दृष्टान्तः। **भ्राजन्तः** दीप्यमानाः **अग्नयो** **यथा** अग्नय इव ॥ अदृश्रम् ।' दृशिर प्रेक्षणे ' । वर्तमाने लुङ् ।  ‘ इरितो वा' (पा. सू. ३. १. ५७ ) इति च्लेः अङादेशः ।  ‘ ' इत्यनुवृत्तौ  ‘ बहुलं छन्दसि ' ( पा. सू. ७. १.८) इति रुडागमः । अत एव बहुलवचनात् ऋदृशोऽङि गुणः' इति गुणाभावः इत्युक्तम् । तिङां तिङो भवन्ति ' इति प्रथमपुरुषबहुवचनस्योत्तमपुरुषैकवचनादेशः। प्रथमपुरुषान्त एवं शाखान्तरे श्रूयते -अदृश्रन्नस्य केतवः (अ. सं. १३. २. १८) इति । जनान् इत्यस्य नकारस्य संहितायां रुत्वयत्वादि पूर्ववत् । भ्राजन्तः । शपः पित्त्वादनुदात्तत्वम् । शतुश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “His illuminating rays behold men in succession, like blazing fires.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His beacons have appeared; his rays (extend) widely throughout the  peoples,  
 flashing like fires.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I separate pādas a and b and supply a verb of extension with b. Most tr. take ádṛśram as the main verb of the whole verse. Although my interpretation requires more machinery, it takes account of the fact that ví is vanishingly rare with the root √dṛś (though it must be admitted that there’s an example in the nearby Praskaṇva hymn I.46.11), while it is common with roots like √tan ‘stretch’, which also appears regularly with raśmí-. Cf. X.129.5 vítato raśmíḥ. However, the standard tr. is certainly possible. Elizabeth Tucker also suggests that since ví is fairly common with √bhrāj, that might be the verb to understand with bc: “… his rays flashing widely through the peoples like fires.” Of course, ordinarily participles with preverbs are univerbated, but not always.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His herald rays are seen afar refulgent o'er the world of men,  
      Like flames of fire that burn and blaze.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 His beams, his rays, have shone afar Athwart the many homes of men, Flaming aloft like blazing fires.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine Vorzeichen, die Strahlen sind unter den Menschen weit sichtbar geworden, wie Feuer erglänzend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es zeigten seine Lichter sich, die Strahlen durch die Völker hin, Wie Feuerflammen glänzendhell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Далеко стали видны его знаки –  
 Лучи среди людей,  

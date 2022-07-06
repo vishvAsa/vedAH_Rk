@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ यज्ञं꣡ सहसावन् तुवं꣡ नो  
 देवत्रा꣡ धेहि सुक्रतो र꣡राणः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने म꣡हि द्र꣡विणम् आ꣡ यजस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । यं॒सि॒ । हो॒तः॒ । बृ॒ह॒तीः । इषः॑ । नः॒ । अ॒ग्ने॒ । महि॑ । द्रवि॑णम् । आ । य॒ज॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -124,41 +124,41 @@ genre M
 हेसहसावन् सहस्वन् बलवन् सुक्रतोशोभनकर्मन् हेअग्ने रराणः सर्वदारममाणः शब्दं कुर्वा णोवात्वं नोस्मदीयमिमंयज्ञं देवत्रादेवेषुधेहिनिधेहि हेहोतः देवानामाह्वातः बृहतीः इषः अन्ना निनोस्मभ्यं प्रयंसिप्रयच्छ हेअग्नेमहिमहत् द्रविणम्पश्वादिलक्षणं धनं आयजस्व प्रयच्छ अत्रयजि र्दानकर्मा ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Powerful **Agni**, (fulfiller) of good works, convey, rejoicing this our sacrifice towards the gods; invoker of the gods, bestow upon us abundant food; grant us, Agni, great wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you endowed with strength, you of strong resolve, place this sacrifice  among the gods for us, giving (it to them).  
 Hold forth the lofty refreshing drinks for us, o Hotar. O Agni, win great  wealth by sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This sacrifice of ours do thou, O Mighty, O truly Wise, bear to the Gods rejoicing.  
      Grant us abundant food, thou priestly Herald, vouchsafe to give us ample wealth, O Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bring thou, O strong one, this sacrifice of ours to the gods, O wise one, as a liberal giver. Bestow on us, O Hotri, abundant food; Agni, obtain by sacrificing mighty wealth for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses Opfer bring, du Machtvoller, für uns gern gebend zu den Göttern, du Wohlgesinnter! Gewähre uns, o Hotri, große Labsale; erbitt für uns großes Gut, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Opfer schaffe du, o kraftbegabter, uns götterwärts, o wirkungsreicher, freundlich; O Priester, schenk uns reiche Labetränke, und grossen Schatz, o Agni, opfre her uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эту жертву, о могучий, ты помести  
 Для нас среди богов, вручая (ее), о обладающий силой духа!  

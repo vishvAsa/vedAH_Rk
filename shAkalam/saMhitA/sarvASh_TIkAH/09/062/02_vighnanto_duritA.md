@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विघ्न꣡न्तो दुरिता꣡ पुरु꣡  
 सुगा꣡ तोका꣡य वाजि꣡नः  
 त꣡ना कृण्व꣡न्तो अ꣡र्वते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तना॑ । कृ॒ण्वन्तः॑ । अर्व॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vighnanto* ← *vighnantaḥ* ← *vihan* ← *√han*
 - \[verb noun\], nominative, plural
@@ -81,20 +81,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वाजिनः** बलवन्तः सोमाः **पुरु** बहूनि **दुरिता** दुरितानि **विघ्नन्तः** विशेषेण नाशयन्तः **तोकाय** अस्माकं पुत्राय **अर्वते** अश्वाय च **सुगा** सुखानि **तना** धनानि च **कृण्वन्तः** कुर्वन्तः तिरः पवित्रं सृज्यन्त इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Powerful, repelling evils, bestowing happiness and riches upon our sons and horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The prize-seekers, smashing apart the many obstacles to progress,  making the ways easy going for our offspring  
 and for our steed by their own extension,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has no finite verb, just two nom. pl. participles. With its nom. pl. subj. it can be dependent on vs. 1 or vs. 3 (or both); I prefer anticipatory dependence on vs. 3 because of the repetition of kṛṇvántaḥ and the parallel datives.
 
@@ -116,23 +116,23 @@ kṛṇvántaḥ and datives of benefit.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dispelling manifold mishap, giving the courser's progeny,  
      Yea, and the warrior steed, success.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Sieghaften, die die vielen Fährlichkeiten brechen und unserem Samen und unserem Rennpferd durch ihren Fortgang gute Bahnen bereiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verjagend vieles Ungemach, die raschen, schaffend freie Bahn Dem Stamm, den Rossen fort und fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

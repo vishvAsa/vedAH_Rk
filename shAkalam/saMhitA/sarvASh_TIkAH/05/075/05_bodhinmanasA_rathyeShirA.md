@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बोधि꣡न्मनसा रथि꣡या  
 इषिरा꣡ हवनश्रु꣡ता  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 मा꣡ध्वी म꣡म श्रुतं ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 विऽभिः॑ । च्यवा॑नम् । अ॒श्वि॒ना॒ । नि । या॒थः॒ । अद्व॑याविनम् । माध्वी॒ इति॑ । मम॑ । श्रु॒त॒म् । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bodhinmanasā* ← *bodhinmanas*
 - \[noun\], nominative, dual, masculine
@@ -106,36 +106,36 @@ genre M;; repeated line
 हे **अश्विना** **बोधिन्मनसा** बुध्यमानमनस्कौ **रथ्या** रथस्वामिनौ **इषिरा** शीघ्रगन्तारौ सर्वैर्गन्तव्यौ वा **हवनश्रुता** हवनस्य स्तुतेः श्रोतारौ युवां **विभिः** अश्वैः **च्यवानम्** ऋषिम् **अद्वयाविनं** मायारहितं **नि** **याथः** । यथा तमृषिं प्राप्तवन्तौ तद्वत् मां प्रति पथि नि याथः नितरामागच्छतम् ।' प्र च्यवानाज्जुजुरुषो वव्रिम् ' ( ऋ. सं. ५. ७४. ५ ) इति ह्युक्तम् ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With mind attentive (to praise), riding in cars, swift-moving, listening to invocations, you hastened with your steeds to the single-purposed **cyavana**; masters of mystic lore, hear my invocation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As vigorous charioteers of attentive mind hearing a summons,  
 with your birds (as your team) you run down unduplicitous Cyavāna. – O honey-rich ones, hear my summons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Watchful in spirit, born on cars, impetuous, listing to his cry,  
      Asvins, with winged steeds ye speed down to cyavana void of guile. Lovers of sweetness, hear my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwei Wagenfahrer aufmerksamen Sinnes, eifrig, auf den Ruf hörend, fahret ihr mit den Vogelrossen herab zu Cyavana, dem Aufrichtigen - ihr Süßesliebende, erhöret meinen Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Achtsamen Sinnes kommet ihr, o Ritter, hörend das Gebet, Mit Vögeln zu Tschjavana hin, dem treuen, muntre Lenker ihr; ihr lieben, höret meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Двое чутких мыслью колесничих,  
 Деятельных, прислушивающихся к призывам,  

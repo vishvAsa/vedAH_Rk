@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ रिख किकिरा꣡ कृणु  
 पणीनां꣡ हृ꣡दया कवे  
 अ꣡थेम् अस्म꣡भ्यं रन्धय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अथ॑ । ई॒म् । अ॒स्मभ्य॑म् । र॒न्ध॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **कवे** प्राज्ञ पूषन् **पणीनां** वणिजां **हृदया** हृदयानि **आ** **रिख** आलिख । आलिख्य च **किकिरा** कीर्णानि प्रशिथिलानि **कृणु** कुरु । मृदूनि कुर्वित्यर्थः । अन्यद्गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,12 +101,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 This shows the purpose of ārā, to abrade, to smoothen, as an abrasive
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Shred them, make them shrapnel—the hearts of the niggards, you poet. And make them subject to us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -118,23 +118,23 @@ I do wonder whether the original phrase read *kuru for *kṛṇu. The former is,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tear up and read in pieces, Sage, the hearts of avaricious churls,  
      And make them subject to our will.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ritze, kratze die Herzen der Knauser auf, du Seher, und mach die uns gefügig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zerreiss, zerschlitz in Fetzen nun der Geiz'gen Herzen, weiser du, Und gib sie hin in unsre Hand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Расцарапай, разорви в клочья  
 Сердца скупцов, о поэт,  

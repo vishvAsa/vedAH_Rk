@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡ष्टुर् जा꣡मातरं वय꣡म्  
 ई꣡शानं राय꣡ ईमहे  
 सुता꣡वन्तो वायुं꣡ द्युम्ना꣡ ज꣡नासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सु॒तऽव॑न्तः । वा॒युम् । द्यु॒म्ना । जना॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṣṭur* ← *tvaṣṭuḥ* ← *tvaṣṭṛ*
 - \[noun\], genitive, singular, masculine
@@ -80,42 +80,42 @@ genre M
 इमे **जनासः** जनाः **वयं** **त्वष्टुः** ब्रह्मणः **जामातरम्** **ईशानं** सर्वस्येश्वरमेतादृशं **वायुं** **सुतवन्तः** अभिषुतसोमाः **रायः** धनम् **ईमहे** याचामहे। तेन दत्तेन वयं **द्युम्ना** धनवन्तः स्यामेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We, the offerers of **Soma**, solicit riches from the sovereign, the son- in-law of **Tvaṣṭā**; (may webecome) wealthy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The son-in-law of Tvaṣṭar, the lord of wealth, do we beseech for  wealth—  
 as the people who provide the pressed soma (we beseech) Vāyu for  
 brilliant things.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 rāyá(ḥ) can be both gen. sg. and acc. pl., the former to be construed with ī́śānam, the latter with īmahe, between which it is positioned. So already Oldenberg The identical pādas (VI.54.8, VIII.46.6, 53.1) are susceptible to the same interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Tvastar's son-in-law we pray for wealth whereof he hath control:  
      For glory we seek vayu, men with juice effused.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Tvastri Tochtermann, den Mächtigen, bitten wir um Reichtümer, um Herrlichkeit, den Vayu wir Leute bei gepreßtem Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Tvaschtar Eidam flehn wir an, der über vieles Gut verfügt, Um Schatz den Vaju, trankversehne Männer wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Могущественного зятя Тваштара  
 Мы просим о богатствах,  

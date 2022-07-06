@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् इन्द्रावरुणा भ꣡रे-भरे  
 पुरोयोधा꣡ भवतं कृष्टिओजसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 न꣡रस् तोक꣡स्य त꣡नयस्य साति꣡षु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । वा॒म् । हव॑न्ते । उ॒भये॑ । अध॑ । स्पृ॒धि । नरः॑ । तो॒कस्य॑ । तन॑यस्य । सा॒तिषु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -115,36 +115,36 @@ genre M
 हे **कृष्ट्योजसा** शत्रूणां कर्षकमोजो बलं ययोस्तादृशौ हे इन्द्रावरुणौ **भरेभरे** संग्रामे संग्रामे **अस्माकं** **पुरोयोधा** पुरस्ताद्योद्धारौ **भवतम्** । **यत्** यौ **वाम्** युवाम् **उभये** उभयविधाः पूर्वकालीना इदानींतनाश्च **नरः** नेतारः स्तोतारः **स्पृधि** युद्धे यौ युवां **हवन्ते** । **अध** अपि च **तोकस्य** पुत्रस्य **तनयस्य** पौत्रस्य **सातिषु** संभजनीयेषु निमित्तभूतेषु च यौ युवां हवन्ते । तावस्माकं पुरोयोधा भवंतमित्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Varuṇa**, of irresistible strength, be our preceders in every encounter, for both (past andpresent) worshippers invoke you to defend them iin war, or for the acquisition of sons and grandsons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For us, o Indra and Varuṇa, be our vanguard in every contest, o you  who have power over the peoples,  
 when in competition men of both sides then call upon you to win kith  and kin.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In battle after battle, Indra-Varuna, be ye our Champions, ye who are the peoples' strength,  
      When both opposing bands invoke you for the fight, and men that they may gain offspring and progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seid in jedem Kampfe unsere Vorkämpfer, Indra und Varuna, in denen die Stärke der Völker liegt, gerade dann, wenn euch die beiderseitigen Mannen im Wettstreit anrufen, wenn es gilt, leiblichen Samen zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In jedem Treffen seid, o Indra-Varuna, Vorkämpfer uns, die alle Völker ihr beherrscht, Wenn zu euch rufen beide Heere in der Schlacht, daheim die Männer, Kind und Enkel zu empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нашими передовыми бойцами будьте в каждой битве,  
 О Индра-Варуна, в которых заключена сила народов,  

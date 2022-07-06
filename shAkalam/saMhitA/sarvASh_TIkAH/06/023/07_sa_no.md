@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो बोधि पुरोळा꣡शं र꣡राणः  
 पि꣡बा तु꣡ सो꣡मं गो꣡ऋजीकम् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुं꣡ कृधि तुवायत꣡ उलोक꣡म्†
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । इ॒दम् । ब॒र्हिः । यज॑मानस्य । सी॒द॒ । उ॒रुम् । कृ॒धि॒ । त्वा॒ऽय॒तः । ऊं॒ इति॑ । लो॒कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -132,42 +132,42 @@ genre M
 हे **इन्द्र** **रराणः** रममाणः **सः** त्वं **नः** अस्मदीयं **पुरोडाशम्** एतल्लक्षणं हविः **बोधि** बुध्यस्व । किंच **गोऋजीकं** गोविकारदध्यादिभिः संस्कृतमभिषुतं **सोमं** **तु** क्षिप्रं **पिब** पिबेः । तदर्थं च **यजमानस्य** संबन्धि **इदं** **बर्हिः** **आ** **सीद** अभिविश । तदनन्तरं **त्वायतः** त्वामिच्छतो यजमानस्य **लोकं** स्थानम् **उरुं** विस्तीर्णं **कृधि** कुरु । **उ** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Accept, **Indra**, who are condescending, our cakes and butter; drink the **soma** mixed with curds; sit down upon this sacred grass (strewn by) the worshipper; grant ample possessions to him who depends on you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As giver, take notice of our offering cake; drink the soma, foamy with  cows [=milk], Indra.  
 Sit right here on the ritual grass of the sacrificer. Make wide, wide  
 space for him in devoted pursuit of you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note pleonastic+++(=redundant)+++ #urúm … ulokám#.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mark well our sacrificial cake, delighted Indra, drink Soma and the milk commingled.  
      Here on the sacrificer's grass be seated: give ample room to thy devoted servant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Achte auf unseren Reiskuchen und sei freigebig; trink doch den Soma, bei dem die Milch vorschmeckt, Indra! Setz dich auf dieses Barhis des Opfernden, schaff deinem Verehrer geräumigen Platz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Opferkuchen überlass uns, Indra, den milchgemischten Soma aber trinke; Auf diese Streu des Opfrers setz dich nieder und schaffe weiten Raum dem dir ergebnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Заметь нашу жертвенную лепешку (и) будь щедрым!  
 Пей же сому, смешанного с молоком, о Индра!  

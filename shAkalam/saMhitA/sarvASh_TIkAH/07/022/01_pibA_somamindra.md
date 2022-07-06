@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बा सो꣡मम् इन्दर+ म꣡न्दतु त्वा  
 यं꣡ ते सुषा꣡व हरिअश्व अ꣡द्रिः  
 सोतु꣡र् बाहु꣡भ्यां सु꣡यतो न꣡ अ꣡र्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सो॒तुः । बा॒हुऽभ्या॑म् । सुऽय॑तः । न । अर्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibā* ← *pā*
 - \[verb\], singular, Present imperative
@@ -103,36 +103,36 @@ genre M
 हे **इन्द्र** **सोमं** **पिब** । स सोमः **त्वा** त्वां **मन्दतु** मादयतु । हे **हर्यश्व** **ते** त्वदर्थं **सोतुः** अभिषवकर्तुः **बाहुभ्याम्** **अर्वा** **न** रश्मिभ्यामश्व इव **सुयतः** सुष्ठु परिगृहीतः **अद्रिः** ग्रावा **यं** सोमं **सुषाव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink, **Indra**, the **Soma**; may it exhilarate you, that which the stone tightly held like a horse (by thereins), by the arms of the grinder, has expressed, lord of bay horses for you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink soma, Indra. Let it exhilarate you—(the soma) that the stone has  pressed for you, you of the fallow bays,  
 (the stone) like a steed well guided by the arms of the presser.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 DRINK Soma, Lord of Bays, and let it cheer thee: Indra, the stone, like a well guided courser,  
      Directed by the presser's arms hath pressed it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trinke den Soma, Indra! Dich soll er berauschen, den dir, o Falbenfahrer, der Preßstein ausgepreßt hat, von den Armen des Pressers wohlgelenkt wie ein Rennpferd.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma trink, der dich berausche, Indra, den dir der Stein gepresst, o Herr der Füchse, Den wie ein Ross dir lenkt der Arm des Pressers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей сому, Индра! Да опьянит тебя (тот),  
 Кто выжал для тебя, о повелитель буланых коней, давильный камень,  

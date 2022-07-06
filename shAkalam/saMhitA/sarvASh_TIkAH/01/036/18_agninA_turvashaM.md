@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡ना तुर्व꣡शं य꣡दुम् पराव꣡त  
 उग्रा꣡देवं हवामहे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 तुर्वी꣡तिं द꣡स्यवे स꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । न॒य॒त् । नव॑ऽवास्त्वम् । बृ॒हत्ऽर॑थम् । तु॒र्वीति॑म् । दस्य॑वे । सहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agninā* ← *agni*
 - \[noun\], instrumental, singular, masculine
@@ -101,7 +101,7 @@ genre M
 **अग्निना** सहावस्थितान् तुर्वशनामकं यदुनामकम् उग्रदेवनामकं च राजर्षीन् **परावतः** दूरदेशात् **हवामहे** आह्वयामः । स च **अग्निः** नववास्तुनामकं बृहद्रथनामकं तुर्वीतिनामकं च राजर्षीन् **नयत्** इहानयतु । कीदृशोऽग्निः । **दस्यवे** **सहः** अस्मदुपद्रवहेतोश्चोरस्याभिभविता ॥ नयत् । ‘णीञ् प्रापणे'। लेटि अडागमः । इतश्च लोपः' इति इकारलोपः । नववास्त्वम् । नवं वास्तु यस्यासौ नववास्तुः । ‘ वा छन्दसि' इत्यनुवृत्तेः अमि पूर्वत्वाभावे यणादेशः । बृहद्रथम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,39 +112,39 @@ genre M
 All were **rājarṣis**, royal sages; **Turvasu** and Yadu were sons of **Yayāti** of the lunar race
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With Agni we call Turvaśa and Yadu from afar, also Ugrādeva.  
 Agni, our force against the Dasyu, led Navavāstva of the lofty chariots  and Turvīti.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) takes dásyave sáhaḥ as a phrasal personal name “Dasyave Sahas,” a personal name that would have to be neuter. Better to follow Oldenberg (SBE) by taking it as a qualifier of Agni. Renou also rejects the personal name interpr., but considers it a pāda-final truncation of the instr. sáhasā. (Because sáhaḥ can be construed without problem as the nom./acc. neut. it appears to be, there is no reason to resort either to Renou’s truncation or to an archaic instr. sg. zero-grade ending *-h1 in the mode of Hale [Fs. Melchert].) Oldenberg’s interpretation finds support in 19, where the second pāda contains an entirely parallel phrase qualifying Agni, with neut. noun construed with benefactive dative: jyótir jánāya “a light for the people.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We call on Ugradeva, Yadu, Turvasa, by means of Agni, from afar;  
      Agni, bring Navavastva and Brhadratha, Turviti, to subdue the foe.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Through Agni we call hither from afar Turvasa, Yadu, and Ugradeva. May Agni, our strength against the Dasyu, conduct Navavâstva, Brihadratha, and Turvîti 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch Agni rufen wir aus der Ferne den Turvasa und Yadu, den Ugradeva. Agni geleitet den Navavasta, den Brihadratha, den Turviti, den Dasyave Sahas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir riefen Ugradeva, Turvaça, Jadu durch Agni aus der Ferne her; Auf hohem Wagen komme Navavāstva und Turvīti her zur Feindesschlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе с Агни мы зовем издалека  
 Турвашу, Яду, Уградеву.  

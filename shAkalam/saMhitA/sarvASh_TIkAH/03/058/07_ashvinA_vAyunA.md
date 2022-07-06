@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्विना वायु꣡ना युवं꣡ सुदक्षा  
 नियु꣡द्भिष् च सजो꣡षसा युवाना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मम् पिबतम् अस्रि꣡धा सुदानू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नास॑त्या । ति॒रःऽअ॑ह्न्यम् । जु॒षा॒णा । सोम॑म् । पि॒ब॒त॒म् । अ॒स्रिधा॑ । सु॒दा॒नू॒ इति॑ सुऽदानू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
@@ -107,36 +107,36 @@ genre M
 **सुदक्षा** शोभनसामर्थ्योपेतौ **युवाना** नित्यतरुणौ **नासत्या** । न विद्यतेऽसत्यं ययोस्तौ। **सुदानू** शोभनफलस्य दातारौ हे अश्विनी **वायुना** **नियुद्भिः** अश्वैः **च** **सजोषसा** संगतौ **जुषाणा** सोमविषयप्रीतियुक्तौ **अस्रिधा** अनुपक्षीणौ **युवं** युवां **तिरोअह्नयम्** अह्नि तिरोहिते हूयमानमिमं **सोमं** **पिबतम्** ॥ नियुद्भिः । यौतेः क्विप् । तिरोअह्न्यम् । अह्नि भवमह्न्यम् ।' भवे छन्दसि ' इति यत् । तिरोभूतमह्न्यं यस्मिन् काले स तिरोअह्न्यः । पूर्वपदप्रकृतिस्वरः१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, endowed with power, ever young, in whom is no untruth, unwearied, munificent, accepters (of libations), drink with **Vāyu** and your steeds, rejoicing together, of the **Soma** libation offered at the close of day.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O well-skilled Aśvins, youthful ones, together with the Wind and along  with your teams,  
 drink the day-old soma, taking pleasure and never faltering, o Nāsatyas  who bring good gifts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, Very Mighty ones, with Vayu and with his steeds, one-minded, ever-youthful,  
      Nasatyas, joying in the third day's Soma, drink it, not hostile, Very Bounteous Givers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr wohlverständigen Asvin, ihr Jünglinge, trinket einträchtig mit Vayu und den Niyutgespannen kommend gern den Soma, der über einen Tag alt ist, nicht fehlend, ihr gabenschöne Nasatya´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereint, o Ritter, mit dem Vaju trinket, ihr jungen starken mit den Vielgespannen; Den Somasaft, der gestern gor, o biedre, die Thau ihr spendet, holden Sinns geniessend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ашвины с прекрасной силой действия, вместе с Ваю  
 И с упряжками единодушные, о юные  

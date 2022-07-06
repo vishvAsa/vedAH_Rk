@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दुर् वाजी꣡ पवते गो꣡निओघा  
 इ꣡न्द्रे सो꣡मः स꣡ह इ꣡न्वन् म꣡दाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡रिवः कृण्व꣡न् वृज꣡नस्य रा꣡जा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 हन्ति॑ । रक्षः॑ । बाध॑ते । परि॑ । अरा॑तीः । वरि॑वः । कृ॒ण्वन् । वृ॒जन॑स्य । राजा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
@@ -125,20 +125,20 @@ genre M
 इन्दुः क्षरणशीलः वाजी बलवान् गोन्योघाः गमनशीलनीचीनाग्ररससङ्घातः इन्द्रे स- होबलकररसं इन्वन् प्रेरयन् सोमः मदाय तस्यमदार्थं पवते क्षरति । किञ्च रक्षःकुलं हन्ति हिनस्ति । किञ्च अरातीः अरातीन् शत्रून्परिबाधते परितः संहरति । कीदृशः वरिवोवरणीयं धनं कृण्वन् स्तोतॄणां कुर्वन् वृजनस्य बलस्यराजा ईशितासोमइति ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The powerful, flowing **Soma** having quantities o fjuice flowing down, streams forth infusing strength into **Indra** for his exhilaration; conferring wealth the king of strength slays the **rākṣasas** and harasses the enemy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The prizewinning drop purifies himself, bringing cows down in flood— Soma stimulating the power in Indra, for exhilaration.  
 He smashes demonic force; he deflects hostilities, making wide space as  king of the community.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sense and derivation of gó-nyoghas- are disputed. Geldner tr. “der die Kühe würdigt” and tentatively connects the 2nd member with what he cites as ny òhate in V.52.11. I do not construe ní with ohate in that passage (see comm. ad loc.), in part because √uh does not otherwise appear with ní. The sense he attributes to the cmpd is also rather jarring. He is followed in both sense (“respectant les vaches”) and derivation by Renou, who adds to the dossier of parallels I.180.5 gór óheṇa, which, however, is too riddled with uncertainties (see comm. ad loc.) to provide good evidence. By contrast Oldenberg considers BR’s conjectured emendation *gó-nyokas- ‘accustomed to cows’ (?—he doesn’t gloss) very likely. He rejects the view that the cmpd as transmitted contains an s-stem oghas- ‘flood’, related to later Vedic ogha-, aughá- ‘flood’ (even though he states that if we stick with the transmitted text he would tr. “auf den die Kuh(milch) hernieder flutet”). This dismissal of a potential
 
@@ -160,23 +160,23 @@ All three vss. contain a hemistich beginning índuḥ (10a, 11c, 12c); the verb 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong Indu, bathed in milk, flows on for Indra, Soma exciting strength, to make him joyful.  
      He quells malignities and slays the demons, the King of mighty power who brings us comfort.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Saft, der Preisrenner, der die Kühe würdigt, läutert sich, der Soma, der in Indra die Kraft weckt, zum Rausche. Er schlägt den bösen Geist, hält die Unholdinnen ab, einen Ausweg schaffend, der König des Opferbundes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schnelle Indu strömt zu Kühen eilend, dem Indra Kraft zum Rausch erregend, Soma, Er schlägt Gespenster, stösst hinweg die Bösen, des Stammes König weiten Segen schaffend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сок, завоевывающий награду, очищается, (он) со струями стекающего молока,  
 Сома, возбуждающий в Индре силу – для опьянения.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वाश्रा꣡ अर्षन्ति इ꣡न्दवो  
 अभि꣡ वत्सं꣡ न꣡ धेन꣡वः  
 दधन्विरे꣡ ग꣡भस्तियोः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 द॒ध॒न्वि॒रे । गभ॑स्त्योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāśrā* ← *vāśrāḥ* ← *vāśra*
 - \[noun\], nominative, plural, masculine
@@ -76,36 +76,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **वाश्राः** शब्दयन्तः **इन्दवः** सोमाः **अभि** **अर्षन्ति** अभिगच्छन्ति पात्रं प्रति वाश्राः शब्दकारिण्यः **धेनवः** **न** । ता यथा शब्दयन्त्यः **वत्सं** प्रत्यागच्छन्ति तद्वत् । त एव **गभस्त्योः** बाह्वोः **दधन्विरे** ध्रियन्ते च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Making a loud noise, the libations flow (to the vessel) like cows lowing to their calves; they are held in the arms (of the priests).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bellowing like cows to their calf, the drops rush.  
 They have run between the hands (of the priest).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Noisily flow the Soma-drops, like milch-kine lowing to their calves:  
      They have run forth from both the hands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brüllend wie die Kühe zu ihrem Kalbe fließen die Säfte; sie haben sich unter den Händen des Pressenden in Lauf gesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Indu's laufen rauschend hin wie Mutterkühe zu dem Kalb, Aus beiden Armen, strömen sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мыча, словно дойные коровы теленку,  
 Текут соки сомы.  

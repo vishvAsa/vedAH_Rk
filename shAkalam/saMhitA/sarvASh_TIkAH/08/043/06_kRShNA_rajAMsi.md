@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृष्णा꣡ र꣡जांसि पत्सुतः꣡  
 प्रया꣡णे जात꣡वेदसः  
 अग्नि꣡र् य꣡द् रो꣡धति क्ष꣡मि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्निः । यत् । रोध॑ति । क्षमि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛṣṇā* ← *kṛṣṇa*
 - \[noun\], nominative, plural, neuter
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **जातवेदसः** अग्नेः **प्रयाणे** **पत्सुतः** पत्तः **रजांसि** पांसवः कृष्णानि भवन्ति । कदेत्यत आह । **क्षमि** क्षमायां **यत्** यदा **अग्निः** **रोधति** शुष्कान् वनस्पतीन् निरुणद्धि ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,29 +89,29 @@ Whenagni spread the earth: agnir yad rodhati kṣami = when agni heaps (the dry 
 Rodhati = rush,whatever grows on the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Black are the realms at the feet of Jātavedas on his advance,  
 when Agni grows on the earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Jatavedas speeds along, the dust is black beneath his feet,  
      When Agni spreads upon the earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schwarzer Dunst ist zu Füßen des Jatavedas auf seiner Bahn, wenn Agni auf der Erde reitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Füssen liegt der dunkle Raum, wenn Agni aus dem Boden spriesst, Der Wesenkenner vorwärts dringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Черные места (возникают) у (его) ног  
 При продвижении Джатаведаса,  

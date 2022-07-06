@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡रस्वति देवनि꣡दो नि꣡ बर्हय  
 प्रजां꣡ वि꣡श्वस्य बृ꣡सयस्य मायि꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 विष꣡म् एभ्यो अस्रवो वाजिनीवति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 उ॒त । क्षि॒तिऽभ्यः॑ । अ॒वनीः॑ । अ॒वि॒न्दः॒ । वि॒षम् । ए॒भ्यः॒ । अ॒स्र॒वः॒ । वा॒जि॒नी॒ऽव॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
@@ -114,7 +114,7 @@ genre M
 हे **सरस्वति** **देवनिदः** देवानां निन्दकानसुरान् **नि** बर्हय न्यबर्हयः । अवधीः । तथा **विश्वस्य** व्याप्तस्य **मायिनः** मायाविनः **बृसयस्य** । बृसय इति त्वष्टुर्नामधेयम् । त्वष्टुः **प्रजां** पुत्रं वृत्रासुरं च न्यवधीः । त्वत्साहाय्यादेवेन्द्रो हतवानित्यर्थः । **उत** अपि च हे **वाजिनीवति** अन्नवति सरस्वति त्वं **क्षितिभ्यः** मनुष्येभ्यः **अवनीः** असुरैरपहृता भूमीः **अविन्दः** अलम्भयः । **एभ्यः** मनुष्येभ्यः **विषम्** उदकं च **अस्रवः** अक्षारयः । यद्वा । क्षितयोऽसुरजनाः। तेभ्यः सकाशात् अवनीर्भूमीरविन्दः लब्धवत्यसि । तान् हत्वैभ्यश्चासुरेभ्यो विषं मृतिहेतुभूतं गरलमस्रवः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,14 +125,14 @@ genre M
 Bṛsaya: Bṛsaya is a name of **Tvaṣṭā**, whose son was **Vṛtra**; **Sāyaṇa**, provides a legend in his introduction to the Black Taittirīa **Yajuṣ**, to illustrate te importance of correctly accentuating the words of the **Veda**: **Indra**, had killed a son of Tvaṣṭā, named **Viśvarūpa**, in conseqence of which there was enmity between them. Upon the occasion of **a Soma** sacrifice celebrated by Tvaṣṭā, he omitted to include Indra in his invitation to the gods. Indra, however, came an uninvited guest, and by force took a part of the **Soma** libation. With the remainder Tvaṣṭā performed a sacrifice for the birth of an individual who should avenge his quarrel and destroy his adversary, directing the priest to pray, now let a man be born and prosper, the killer of Indra. In uttering the **mantra**, however, the officiating priest made a mistake in the accentuation of the term indraghātaka, slayer of Indra, in which sense as a **tatpuruṣa** compound, the acute accent should have been plural ced upon the last syllable. instrumental ad of this, the reciter of the mantra plural ced the acent upon the first syllable, whereby the compound became a **bahuvrīhi** epithet, signifying one of whom Indra is the slayer. Consequently, wen by virtue of the rite, Vṛtra was produced, he was fore-doomed by the wrong accentuation to be put to death by Indra instrumental ad of becoming the destroyer. You have acquired for men: kṣitibhyo avanīravindo viṣam abhyo **asravaḥ** = you have shed poison upon them, or destroyed them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sarasvatī, tear down the scorners of the gods, the offspring of every  tricky Br̥saya.  
 And (while) you found streambeds for the settlements, you flowed  
 poison for them, o you rich in prize mares.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phonologically marked (plain b) name bṛ́ṣaya- is found elsewhere only in I.93.4, where his offspring (there called śéṣaḥ ‘remainder’) are destroyed as they are here. That is also the vs. that contains the parallel passage cited above ad vs. 1.
 
@@ -152,23 +152,23 @@ The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou castest down, Sarasvati, those who scorned the Gods, the brood of every Brsaya skilled in magic arts.  
      Thou hast discovered rivers for the tribes of men, and, rich in wealth! made poison flow away from them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sarasvati, streck die Götterschmäher nieder, die Nachkommenschaft jedes listigen Brisaya. Du gewannst unseren Völkern das Stromland und für jene flossest du von Gift, du an Belohnungen reiche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sarasvati, die Götterhasser stoss hinab, die Brut jedwedes trügerischen Zauberers; Den Menschenstämmen schafftest Ströme du herbei, doch jenen gossest Gift du ein, o Spenderin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Сарасвати, искорени хулителей богов,  
 Потомство каждого Брисайи колдовского!  

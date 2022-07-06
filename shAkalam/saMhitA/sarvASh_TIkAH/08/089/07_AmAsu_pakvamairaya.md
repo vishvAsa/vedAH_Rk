@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आमा꣡सु पक्व꣡म् अइ꣡रय  
 आ꣡ सू꣡र्यं रोहयो दिवि꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 जु꣡ष्टं गि꣡र्वणसे बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 घ॒र्मम् । न । साम॑न् । त॒प॒त॒ । सु॒वृ॒क्तिऽभिः॑ । जुष्ट॑म् । गिर्व॑णसे । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āmāsu* ← *āma*
 - \[noun\], locative, plural, feminine
@@ -105,7 +105,7 @@ genre M
 हे इन्द्र **आमासु** अपक्वासु गोषु **पक्वं** पयः **ऐरयः** प्रैरयश्च । तथा मन्त्रः - ‘ आमासु चिद्दधिषे पक्वमन्तः' (ऋ. सं. १. ६२. ९) इति । किंच **दिवि** द्युलोके **सूर्यम्** **आ** **रोहयः** च । पूर्वं पणयो नामासुरा अङ्गिरसां गा अपहृत्यान्धकारावृते कस्मिंश्चित्पर्वते ताः स्थापितवन्तः । ततोऽङ्गिरस इन्द्रं स्तुत्वा गाः पुनरस्मभ्यमाहरेति तैरुक्त इन्द्रो गवां स्थानं तमसावृतं दृष्ट्वा तत्र गोदर्शनाय द्युलोके सर्वप्रकाशकं सूर्यमारोहितवान् । स्थापितवानसि । 'चादिलोपे विभाषा' इति पूर्वस्यैरय इत्यस्य न निघातः । अथ परोक्षकृतोऽर्धर्चः । हे स्तोतारः **सुवृक्तिभिः** शोभनाभिः स्तुतिभिः **तपत** इन्द्रं तीक्ष्णीकुरुत । इन्द्रं स्तुतिभिः प्रवर्धयतेत्यर्थः । तत्र दृष्टान्तः । **घर्मं** **न** । यथा घर्मं दीपनशीलं प्रवर्ग्यं सामन् । 'सुपा सुलुक्°' इति तृतीयाया लुक् । सामभिर्यथा तपन्ति तद्वत् । ततः **गिर्वणसे** गीर्भिर्वननीयायेन्द्राय **जुष्टं** प्रीतिकरं पर्याप्तं वा **बृहत्** साम गायत ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,30 +116,30 @@ genre M
 You caused the sun to arise in heaven: repetition of thelegend of he **paṇis** and the stolen cows of the **Aṅgirasas**. The Ṛṣis implored Indra for help, who, seeing thatthe stronghold of the **asuras** was enveloped in thick darkness, set the sun in the sky to dispel it; as men heat thegharma: for the hymns of the ceremony of heating the **mahāvīra** or gharma pot, used in the pravargyaceremony; cf. **Aitareya** **Brāhmaṇa** 1.21
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You brought the cooked (milk) into the raw (cows); you made the sun  mount in heaven.  
 [To singers/Maruts:] Like the gharma pot when the sāman (is sung), heat  the lofty (song) enjoyable to the one who yearns for song, with its  
 well-twisted ornaments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Raw kine thou filledst with ripe milk. Thou madest Surya rise to heaven.,  
      Heat him as milk is heated with pure Sama hymns, great joy to him who loves the song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du brachtest die gekochte Milch in die rohen Kühe, die Sonne ließest du am Himmel aufsteigen. Wie den Milchtrank machet nach der Melodie mit Preisreden das erwünschte hohe Lied für den Lobbegehrenden erglühen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie Glut durch eure Lieder beim Gesang, was lieb dem Liederfreunde ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В сырых (коровах) ты вызвал к жизни вареное (молоко),  
 Ты поднял солнце на небо.  

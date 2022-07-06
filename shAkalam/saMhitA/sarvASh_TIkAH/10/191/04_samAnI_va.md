@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समानी꣡ व आ꣡कूतिः  
 समाना꣡ हृ꣡दयानि वः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡था वः सु꣡सहा꣡सति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 स॒मा॒नम् । अ॒स्तु॒ । वः॒ । मनः॑ । यथा॑ । वः॒ । सुऽस॑ह । अस॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samānī* ← *samāna*
 - \[noun\], nominative, singular, feminine
@@ -108,31 +108,31 @@ popular;; epic anuṣṭubh (424)
 हे ऋत्विग्यजमानाः **वः** युष्माकम् **आकूतिः** संकल्पोऽध्यवसायः **समानी** एकविधोऽस्तु । तथा **वः** युष्माकं **हृदयानि** **समाना** समानान्येकविधानि सन्तु । तथा **वः** युष्माकं **मनः** अन्तःकरणम् । प्रत्येकापेक्षयैकवचनम् । तदपि **समानमस्तु** । **यथा** **वः** युष्माकं **सुसह** शोभनं साहित्यम् **असति** भवति तथा समानमस्त्वित्यन्वयः ॥ अस्तेर्लटि ‘बहुलं छन्दसि' इति शपो लुगभावः ॥ ॥ ४९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Common, (worshipppers), be your intention; common be (the wishes of) your hearts; common be yourthoughts, so that there may be thorough union among you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Common is your purpose; common your hearts;  
 let your thought be common, so that it will go well for you together.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One and the same be your resolve, and be your minds of one accord.  
      United be the thoughts of all that all may happily agree.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einig sei euer Vorhaben, einig eure Herzen; einig soll euer Sinn sein, auf daß euch schönes Zusammenhalten sei!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Единым (да будет) ваш замысел,  
 Едиными – ваши сердца!  

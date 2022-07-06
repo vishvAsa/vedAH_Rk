@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व्रा꣡तं-व्रातं गणं꣡-गणं सुशस्ति꣡भिर्  
 अग्ने꣡र् भा꣡मम् मरु꣡ताम् ओ꣡ज ईमहे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ग꣡न्तारो यज्ञं꣡ विद꣡थेषु धी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पृष॑त्ऽअश्वासः । अ॒न॒व॒भ्रऽरा॑धसः । गन्ता॑रः । य॒ज्ञम् । वि॒दथे॑षु । धीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vrātaṃ* ← *vrātam* ← *vrāta*
 - \[noun\], accusative, singular, masculine
@@ -126,42 +126,42 @@ genre M
 कुशिका वयम् **अग्नेर्भामं** भासकं **मरुतामोजः** तेजः 'व्रातंव्रातं व्राते व्राते प्रतिसमूहं **गणंगण** गणे गणे महति समूहे क्रियमाणाभिः **सुशस्तिभिः** । शोभनाः शस्तयः स्तुतयो यैर्मन्त्रैः क्रियन्ते ते सुशस्तयः । तैर्मन्त्रैः **ईमहे** तादृशं मारुतं तेजो याचामहे । **पृषदश्वासः** । पृषत्यश्चित्रवर्णा अश्वा येषां ते तादृशाः । **अनवभ्रराधसः** । न विद्यतेऽवभ्रंशो यस्य तदनवभ्रम् । अनवभ्रं राधो धनं येषां तेऽनवभ्रष्टधनाः । संपूर्णधना इति यावत् । **धीराः** कर्माभिज्ञास्ते मरुतः **विदथेषु** यज्ञेषु **यज्ञं** यजनीयं हविः अभिलक्ष्य **गन्तारः** गमनशीला भवन्ति ॥ गणंगणम् ।' गण संख्याने '। पचाद्यच् । ‘ नित्यवीप्सयोः' इति द्विर्वचनम् । परस्याम्रेडितत्वादनुदात्तत्वे पूर्वपदस्वरः । सुशस्तिभिः । बहुव्रीहौ ' नञ्सुभ्याम् ' इत्युत्तरपदान्तोदात्तत्वम् । भामम् । ‘ भा दीप्तौ' ।' अर्तिस्तुसु° ' इत्यादिना मन् । नित्स्वरः । ओजः ।' उब्ज आर्जवे' । 'उब्जेर्बले बलोपश्च' ( उ. सू. ४. ६३१) इत्यसुन् । तत्संनियोगेन बकारलोपः । आर्धधातुकलक्षणो गुण: । नित्स्वरः । ईमहे । ई कान्त्यादिषु । निघातः । अनवभ्रराधसः । अनवभ्रम् । ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । बहुव्रीहौ° पूर्वपदस्वरः । गन्तारः । ताच्छीलिकस्तृन् । विदथेषु ।' विद ज्ञाने' । 'रुदिविदिभ्यां कित्' इत्यथप्रत्ययः । कित्त्वादगुणः । विदन्त्यस्मिन्कर्मजातमध्वर्य्वादय इति विदथो यज्ञः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit the might of the **Maruts**, the irradiation of **Agni** with solemn prayers in every assembly and company (of worshippers); those Maruts who ahve partly-coloured steeds, who are dispensers of unfailing wealth, firm (of purpose), and frequenters of sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We beg (the Maruts)—cohort upon cohort, band upon band—with  our good chants for the radiance of Agni and the power of the  
 Maruts,  
 with their dappled horses, with their unreceding generosity, the travelers  to the sacrifice, wise at the ritual distributions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We, band on band and troop following troop, entreat with fair lauds Agni's splendour and the Maruts' might,  
      With spotted deer for steeds, with wealth that never fails, they, wise Ones, come to sacrifice at our gatherings.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We implore with our best praises every host, every troop (of the Maruts) 1, the splendour of Agni, the power of the Maruts. With the spotted deer as horses 2, with gifts that cannot be taken away, they go to the sacrifice wise in the (sacrificial) ordinances 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schar um Schar, Rotte um Rotte bitten wir mit Preisreden um den Glanz des Agni, um die Kraft der Marut - ihre Rosse sind scheckig, ihre Gaben unentreißbar; sie kommen zum Opfer, kundig in der Weisheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Schar für Schar und Trupp für Trupp verehren wir mit Lobgesang den Feuerglanz, die Marutmacht; Mit Hirschen fahrend, mit Geschenk, das nimmer weicht, so kommen klug bei Festen zu dem Opfer sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ряд за рядом, толпа за толпой мы просим  
 В прекрасных восхвалениях о сиянии Агни, о силе Марутов, -  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्ने धर्णसिं꣡ विश्व꣡धा वयं꣡  
 गीर्भि꣡र् गृण꣡न्तो न꣡मसो꣡प सेदिम  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देवो꣡ म꣡र्तस्य यश꣡सा सुदीति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । जु॒ष॒स्व॒ । स॒म्ऽइ॒धा॒नः । अ॒ङ्गि॒रः॒ । दे॒वः । मर्त॑स्य । य॒शसा॑ । सु॒दी॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -128,42 +128,42 @@ genre M
 हे **अग्ने** **धर्णसिं** सर्वस्य धारकं **त्वां** **वयम्** आत्रेया वा **विश्वधा** बहुप्रकारेण **गीर्भिर्गृणन्तः** स्तुवन्तः **नमसा** नमस्कारेण **उप** **सेदिम** उपसन्ना भवेम । **सः** त्वं **नः** अस्मान् **जुषस्व** सेवस्व धनादिभिः । **समिधानः** सम्यग्दीप्तो दीप्यमानोऽस्माभिर्हे **अङ्गिरः** सर्वत्र गन्तरङ्गिरसः पुत्र वा **देवः** दीप्यमानस्त्वं **मर्तस्य** यजमानस्य **यशसा** **सुदीतिभिः** ज्वालाभिः सह जुषस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We approach you, all-sustaining **Agni**, adoring you in many ways with hymns and with prostrations; do you, **Aṅgiras**, when kindled, be propitious to us; may the divine (Agni be plural ased) by the (sacrificial) food (offered by the) worshippers, and by the bright flames (of his sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, the steadfast one, have we always approached with homage,  singing with our songs.  
 
 Being kindled, find pleasure in our (songs), o Aṅgiras—(you) a god (in  those) of a mortal—with a glorious (fire?), with your bright lights.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ever to thee, O Agni, as exceeding strong have we drawn nigh with songs and reverence singing hymns.  
      So be thou pleased with us, Angiras! as a God enkindled by the noble with man's goodly light.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, the supporter, we always have praised with our songs and have sat down near thee with adoration. Thus being kindled, O Aṅgiras, be pleased with us, as a god through the mortal's brilliant (offering) 1, with thy glorious splendours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, Agni, dem Ausdauernden, sind wir allezeit mit Preisreden dich preisend unter Verbeugung genaht. Hab an uns deine Freude, o Angiras, wenn entzündet, du der Gott an des Sterblichen ehrender Gabe mit schönem Glanze erglänzend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Um dich, o Agni, der du stark bist, sitzen wir mit Liedern preisend mit Verehrung immerdar, Drum sei uns hold, o Angiras, entzündet du, der Gott durch Glanz und hellen Strahl des Sterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе, о Агни, к выносливому, всегда мы  
 Приближаемся с песнями, воспевая (тебя), с поклонением.  

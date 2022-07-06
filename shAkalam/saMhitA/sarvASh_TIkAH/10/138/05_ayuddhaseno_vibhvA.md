@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡युद्धसेनो विभु꣡वा विभिन्दता꣡  
 दा꣡शद् वृत्रहा꣡ तु꣡जियानि तेजते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रा꣡क्रामच् छुन्ध्यू꣡र् अ꣡जहाद् उषा꣡ अ꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑स्य । वज्रा॑त् । अ॒बि॒भे॒त् । अ॒भि॒ऽश्नथः॑ । प्र । अ॒क्रा॒म॒त् । शु॒न्ध्यूः । अज॑हात् । उ॒षाः । अनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayuddhaseno* ← *a*
 - \[adverb\]
@@ -117,7 +117,7 @@ genre M
 **विभ्वा** विभुना व्याप्तेन विभिन्दता विदारयता एवंविधेनापि परकीयबलेन **अयुद्धसेनः** अप्रहृतसेजः । यद्वा । विभ्वा विभुर्व्याप्तो विभिन्दता शत्रुबलानि विदारयता वज्रेण । **वृत्रहा** वृत्रं हतवान् एवंविध इन्द्रः **दाशत्** दाशति । स्तोतृभ्यो धनं प्रयच्छति । दाशृ दाने'। लेट्यडागमः । तथा **तुज्यानि** प्रेर्याणि शत्रुबलानि **तेजते** तनूकरोति अल्पीकरोति । ' तिज निशाने '। यद्वा। शत्रून् प्रति प्रेर्याण्यायुधानि तेजते निश्यति तीक्ष्णीकरोति । ईदृशस्य **इन्द्रस्य** अभिश्नथः अभितो हिंसकात् **वज्रात** सर्वं शत्रुजातम् **अबिभेत्** भीतिं प्राप्नोत् । एवमसुरेष्विन्द्रेण निरस्तेषु शुन्ध्यूः शोधयितादित्यः **प्राक्रामत्** जगत्प्रकाशनाय गन्तुं प्रक्रान्तवान् । **उषाः** उषोदेवता च **अनः** स्वकीयं शकटं रथम् **अजहात्** गन्तुं पर्यत्यजत् । **ओहाक्** त्यागे'।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,7 +128,7 @@ genre M
 Thins the hosts:or, sharpens his weapons (which are to be hurled against the asuras
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Possessing weapons that cannot be combatted, the far-ranging  
 Vr̥tra-smasher, doing his pious work by means of his splitting  
@@ -137,23 +137,23 @@ She feared to be battered by Indra’s mace. The preening female ran
 away: Dawn left her cart behind.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Armed with resistless weapons, with vast power to cleave, the Vrtra-slayer whets his darts and deals fordi wounds.  
      Bright Usas was afraid of Indra's slaughtering bolt: she went upon her way and left her chariot there.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit unbekämpfbarer Heerschar ist der Vritratöter mit seiner mächtigen zerspaltenden Keule freigebig; er schärft die Schleuderwaffe. Sie fürchtete von Indra´s Keule getroffen zu werden; die Schmucke lief davon, die Usas ließ ihren Karren im Stich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit unbezwungnem, starkem, spaltendem Geschoss zu helfen, schärft die Pfeile, der den Vritra schlägt, Von Indra's Blitz durchbohrt zu werden fürchtete die schöne Uschas, floh und liess den Wagen stehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 c-d Она испугалась – Сюжет о нападении Индры на Ушас в РВ упоминается (например, IV, 30, 8-11), но мотивы этого нападения остаются неизвестными
 </details>

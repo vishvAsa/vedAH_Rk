@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वोचे꣡मे꣡द् इ꣡न्द्रम् मघ꣡वानम् एनम्  
 महो꣡ रायो꣡ रा꣡धसो य꣡द् द꣡दन् नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यः । अर्च॑तः । ब्रह्म॑ऽकृतिम् । अवि॑ष्ठः । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vocemed* ← *vocema* ← *vac*
 - \[verb\], plural, Aorist optative
@@ -127,43 +127,43 @@ genre M;; repeated line
 **यत्** य इन्द्रः **महः** महतः **राधसः** संराधकस्य **रायः** धनस्य । द्वितीयार्थे षष्ठी । संराधकं महद्धनं **नः** अस्मभ्यं **ददत्** प्रायच्छत् **यः** चेन्द्रः **अर्चतः** स्तुवतः **ब्रह्मकृतिं** क्रियमाणं ब्रह्म स्तोत्रम् **अविष्ठः** अतिशयेन रक्षिता गन्ता भवति तम् **एनं** **मघवानं** धनवन्तम् **इन्द्रं** **वोचेमेत्** स्तुवेमैव । स्पष्टमन्यत् ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us glorify that opulent **Indra**, that he may give us great and valuable riches, he who is the chiefprotector of the pious rites of the worshipper; do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would proclaim him, just him: Indra the bounteous, so that he will  give to us of the largesse of great wealth,  
 he who best aids the preparation of the chanter’s sacred formulation.  – Do you protect us always with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this verse serves as refrain for VII.28-30, so that it does not respond to (or at least need not respond to) the immediately preceding Varuṇa verse.
 
 In b the genitives mahó rāyáḥ and rā́dhasaḥ may either be parallel or one dependent on the other. I follow the latter interpr., with the rāyáḥ phrase dependent on rā́dhas-. Although I have not found absolutely diagnostic passages, rā́dhas- is regularly modified by adjectives (like ‘bovine’) that specify the type of rā́dhas-, and mahó rāyáḥ may be a defining genitive of the same type.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We will address this liberal Lord, this Indra, that he may grant us gifts of ample riches,  
      Best favourer of the singer's prayer and praises. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten ihn den gabenreichen Indra nennen, wenn er uns von der Gabe seines Reichtums schenkt, der die Erbauung des Preisenden allem vorzieht. - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wollen rufen diesen reichen Indra, dass er uns grossen Gutes Fülle schenke, Er, der vor allen hört des Sängers Bitte; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотели б назвать его щедрым Индрой,  
 Если даст он нам из дара (своего) великого богатства,  

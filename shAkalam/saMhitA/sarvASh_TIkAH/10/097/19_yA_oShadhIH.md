@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ ओ꣡षधीः सो꣡मराज्ञीर्  
 वि꣡ष्ठिताः पृथिवी꣡म् अ꣡नु  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अस्यइ꣡ सं꣡ दत्त वीरि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 बृह॒स्पति॑ऽप्रसूताः । अ॒स्यै । सम् । द॒त्त॒ । वी॒र्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -98,7 +98,7 @@ popular;; epic anuṣṭubh (292)
 **या** **ओषधीः** ओषधयः **सोमराज्ञीः** **पृथिवीमनु** **विष्ठिताः** विविधं स्थिताः दिवः सकाशादागत्य पृथिव्यां नानाभेदेन स्थिताः **बृहस्पतिप्रसूताः** बृहस्पतिनानुज्ञाताः सत्यो यूयम् **अस्यै** रुग्णतन्वे **वीर्यं** **सं** दत्त संधत्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,30 +109,30 @@ popular;; epic anuṣṭubh (292)
 Infirm body: or, to this drug that I have taken (**Yajus**. 12.93)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You plants whose king is Soma, spread wide along the earth—  
 impelled by Br̥haspati, jointly give heroic power to this one here  
 [=medicinal plant].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O all ye various Herbs whose King is Soma, that o'erspread the earth,  
      Urged onward by Brhaspati, combine your virtue in this Plant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kräuter unter König Soma, die über die Erde verbreitet sind, vereinigt auf des Brihaspati Geheiß eure Kraft auf dieses Kraut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Kräuter in des Soma Reich, verbreitet auf der Erde Grund, Legt auf Brihaspati's Geheiss in dieses Kraut all eure Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вы,) растения, кому сома – царь,  
 Распространенные по земле,  

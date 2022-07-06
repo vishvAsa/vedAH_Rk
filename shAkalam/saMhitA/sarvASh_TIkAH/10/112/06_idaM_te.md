@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ ते पा꣡त्रं स꣡नवित्तम् इन्द्र  
 पि꣡बा सो꣡मम् एना꣡ शतक्रतो  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यं꣡ वि꣡श्व इ꣡द् अभिह꣡र्यन्ति देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पू॒र्णः । आ॒ऽहा॒वः । म॒दि॒रस्य॑ । मध्वः॑ । यम् । विश्वे॑ । इत् । अ॒भि॒ऽहर्य॑न्ति । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -116,36 +116,36 @@ genre M
 हे **इन्द्र** **ते** त्वदर्थं **पात्रं** चमसादिकं **सनवित्तम्** । अस्माभिश्चिरादेव लब्धम्।  ‘ विद्लृ लाभे ' । कर्मणि निष्ठा । हे **शतक्रतो** बहुकर्मन्निन्द्र **एना** एनेन पात्रेण **सोमं** **पिब** । यतः **मदिरस्य** मदकरस्य **मध्वः** मधुनः सोमस्य **आहावः** पानस्थानीयपात्रविशेषः **पूर्णः** पूरितोऽभूत् ॥ ह्वेञ् स्पर्धायाम्'।  ‘ निपानमाहावः' (पा. सू. ३. ३.७४) इति निपातितः । स्तुतिभिराहूयमाना देवा अत्र सोमं पिबन्तीति । थाथादिस्वरः ॥ **यम्** **इत्** यमाहावमेव **विश्वे** सर्वे **देवा:** **अभिहर्यन्ति** अभिकामयन्ते ।  ‘ हर्य गतिकान्त्योः । भौवादिकः । यद्योगात्तिङो निघाताभावे  ‘ तिङि चोदात्तवति' इति गतेर्निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This your cup, **Indra**, has been long since provided by us, drink the **Soma** from it, **Śatakratu**; thegoblet is full of the sweet Soma, which all the gods desire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is your cup acquired of old, Indra: drink soma with it, you of a  hundred resolves.  
 The trough is full of exhilarating honey, which all the gods delight in.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Found from of old is this thy cup, O Indra: Satakratu, drink therefrom the Soma.  
      Filled is the beaker with the meath that gladdens, the beaker which all Deities delight in.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Schale ist seit alters dein Besitz, Indra; trink den Soma daraus, du Ratreicher! Der Trog ist voll des berauschenden Süßtranks, auf den sich alle Götter freuen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier, Indra, ist dein längst erworbner Becher, aus diesem trink den Soma, kräftereicher! Mit süssem Rauschtrank ist gefüllt der Eimer, aus dem sich alle Götter gern erlaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот твой кубок, о Индра, существует издревле.  
 Пей сому из него, о стоумный!  

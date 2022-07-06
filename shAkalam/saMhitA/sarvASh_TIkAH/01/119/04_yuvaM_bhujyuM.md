@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युव꣡म् भुज्यु꣡म् भुर꣡माणं वि꣡भिर् गतं꣡  
 स्व꣡युक्तिभिर् निव꣡हन्ता पितृ꣡भ्य आ꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दि꣡वोदासाय म꣡हि चेति वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 या॒सि॒ष्टम् । व॒र्तिः । वृ॒ष॒णा॒ । वि॒ऽजे॒न्य॑म् । दिवः॑ऽदासाय । महि॑ । चे॒ति॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -122,36 +122,36 @@ genre M
 **वृषणा** कामानां वर्षितारौ हे अश्विनौ **युवं** युवां **भुरमाणं** **विभिः** अश्वैः भ्रियमाणं **गतं** समुद्रे निमग्नं **भुज्युं** तुग्रपुत्रं **स्वयुक्तिभिः** स्वयमेव युज्यमानैः अश्वैः नौविशेषैश्च **निवहन्ता** नितरां वहन्तौ **पितृभ्य** **आ** ।' आङ् मर्यादायाम् । यत्र पितरस्तुग्रादय असते तावत्पर्यन्तम्' इत्यर्थः । **विजेन्यम्** इति दूरस्थं ब्रुवते । दूरे वर्तमानं **वर्तिः** तुग्रस्य गृहं प्रति **यासिष्टम्** अगच्छतम् । अपि च **दिवोदासाय** राज्ञे कृतं युवयोः संबन्धि **अवः** रक्षणं शम्बरहननरूपं **महि** महत् गम्भीरं **चेति** अस्माभिर्जायते ॥ भुरमाणम् ।' डुभृञ् धारणपोषणयोः । कर्मणि लटः शानच् । व्यत्ययेन शः । ‘बहुलं छन्दसि ' इति उत्वम् । पितृभ्य आ । मर्यादायाम् आङः कर्मप्रवचनीयसंज्ञा (पा. सू. १. ४. ८९ )। पञ्चम्यपाङ्परिभिः ' ( पा. सू. २. ३. १०) इति पञ्चमी । यासिष्टम् । ' या प्रापणे '। ‘यमरमनमातां सक्च' ( पा. सू. ७. २. ७३ ) इति सगागमः । सिच इडागमः । विजेन्यम् । विजनो दूरदेशः । तत्र भवं विजेन्यम् । “ भवे छन्दसि ' इति यत् । तित्स्वरितम्' इति स्वरितत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You brought back to his ancestor (**Bhujyu**, who, borne by his own steeds, had perished), (but that you rescued him) with your self-harnessed horses, and sent showerers (o fbenefits), to his distant dwellign; and great was the succour whichit is know you rendered to **Divodāsa**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You came to Bhujyu, tossing (in the sea), with your self-harnessed birds,  conveying him back from his ancestors [=from the dead].  
 You traveled your most noble track, o bulls, and your great help became  manifest to Divodāsa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye came to Bhujyu while he struggled in the flood, with flying birds, self-yoked, ye bore him to his sires.  
      Ye went to the far-distant home, O Mighty Ones; and famed is your great aid to Divodisa given.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr kamt mit den selbstgeschirrten Vögeln zu dem im Meer treibenden Bhujyu, ihn zu seinen Eltern heimbringend. Ihr Bullen machtet die Umfahrt in die Fremde; für Divodasa zeigte sich eure große Hilfe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Bhudschju kamt ihr, der im Wasser zappelte, mit selbstgeschirrten Vögeln fuhrt ihr heimwärts ihn; Ihr Helden ginget in sein ferngelegnes Haus; dem Divodasa auch erwiest ihr grosse Huld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Бхуджью, барахтающемуся (в море), вы отправились на самозапрягающихся  
 Птицах, везя его домой от отцов.  

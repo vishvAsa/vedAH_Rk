@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्म च ते जातवेदो न꣡मश् च  
 इयं꣡ च गीः꣡ स꣡दम् इ꣡द् व꣡र्धनी भूत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 र꣡क्षोत꣡ नस् तनु꣡वो अ꣡प्रयुछन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रक्ष॑ । नः॒ । अ॒ग्ने॒ । तन॑यानि । तो॒का । रक्ष॑ । उ॒त । नः॒ । त॒न्वः॑ । अप्र॑ऽयुच्छन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahma* ← *brahman*
 - \[noun\], nominative, singular, neuter
@@ -140,36 +140,36 @@ genre M
 हे **जातवेदः** जातप्रज्ञाग्ने **ते** त्वदर्थं **ब्रह्म** अस्माभिर्दीयमानं हवीरूपमन्नं **वर्धनी** वर्धनं **भूत्** भवतु । तथा **नमः** नमस्कारश्च । किंच **इयम्** इदानीं क्रियमाणैषा स्तुतिः सदमित् सदैव **वर्धनी** वर्धयित्री **भूत्** भवतु । तस्माद्धे **अग्ने** **नः** अस्माकं **तनयानि** पुत्रान् **तोका** पौत्रांश्च **रक्ष** पालय । **उत** अपि च **अप्रयुछन्** अप्रमाद्यंस्त्वं नः अस्माकं तन्वः अङ्गानि **रक्ष** ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this oblation, **Jātavedas**, this reverence, this praise, ever magnify you. Protect, **Agni**, our sons,our grandsons, and diligently defend our person ns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sacred formulation and homage and this song here shall always be  strengthening for you, o Jātavedas.  
 Guard our progeny and posterity, o Agni, and guard our own bodies  unremittingly.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Homage and prayer are thine, O Jatavedas, and this my song shall evermore exalt thee.  
      Agni, protect our children and descendants, and guard with ever-watcliful care our bodies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beschwörung und Verbeugung und diese Lobrede sollen dir, Jatavedas, immerdar als Stärkung dienen. Schütze, o Agni, unseren leiblichen Nachwuchs, schütze auch unsere Person ohne Unterlaß!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Wesenkenner, sei Gebet und Andacht und dieses Lied zu jeder Zeit erlabend, Beschütze, Agni, Kinder uns und Enkel und unsre eignen Leiber unablässig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Священное слово, о Джатаведас, и поклонение,  
 И эта хвалебная песнь пусть всегда будут тебе подкреплениями!  

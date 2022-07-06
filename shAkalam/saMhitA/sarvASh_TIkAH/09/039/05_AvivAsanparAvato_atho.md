@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आवि꣡वासन् पराव꣡तो  
 अ꣡थो अर्वाव꣡तः सुतः꣡  
 इ꣡न्द्राय सिच्यते म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रा॑य । सि॒च्य॒ते॒ । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āvivāsan* ← *āvivās* ← *√van*
 - \[verb noun\], nominative, singular
@@ -70,41 +70,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सुतः** अभिषुतः सोमः **परावतः** । दूरनामैतत् । दूरस्थान् **अथो** अपि च **अर्वावतः** अन्तिकस्थांश्च देवान् **आविवासन्** । रसेन परिचरणायेत्यर्थः । **इन्द्राय** इन्द्रार्थं **मधु** मधुसदृशः सोमः **सिच्यते** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The effused (**Soma**) honouring (the gods) whether he is far off or nigh, is poured out (as) **madhu** for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seeking to lure from afar, and also from nearby, the pressed one  
 is poured as honey for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The suppressed object of āvívāsan is probably the gods (so already Sāyaṇa) or Indra in particular (supported by pāda c), but there is no reason to supply this obj. in tr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Inviting him frorh far away, and even from near at hand, the juice  
      For Indra is poured forth as meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er, der Fern und Nah anlockt, wird ausgepreßt als Süßtrank dem Indra eingeschenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn lockend aus der Ferne her und aus der Nähe her, ergiesst Der Saft dem Indra süssen Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

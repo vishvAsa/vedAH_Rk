@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वच्य꣡न्ते वां ककुहा꣡सो  
 जूर्णा꣡याम् अ꣡धि विष्ट꣡पि  
 य꣡द् वां र꣡थो वि꣡भिष् प꣡तात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 यत् । वा॒म् । रथः॑ । विऽभिः॑ । पता॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vacyante* ← *vañc*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
@@ -82,35 +82,35 @@ genre M
 हे अश्विनौ **वां** युवयोः संबन्धी **रथः** **जूर्णायां** नानाशास्त्रैः स्तुतायाम् **अधि** **विष्टपि** स्वर्गलोके **यत्** यदा **विभिः** अश्वैः **पतात्** पतति गच्छति तदानीं **वां** युवयोः **ककुहासः** स्तुतयः **वच्यन्ते** अस्माभिरुच्यन्ते ॥ वच्यन्ते । ब्रवीतेर्यकि ‘ब्रुवो वचिः' (पा. सू. २. ४. ५३ ) इति वच्यादेशः । ‘वचिस्वपि ' इत्यादिना संप्रसारणम् । ‘ संप्रसारणाच्च' इत्यत्र ‘वा छन्दसि' इत्यनुवृत्तेः परपूर्वत्वस्य पाक्षिकत्वात् यणादेशः । प्रत्ययस्वरः । ककुहासः । ककुभं शृङ्गे विदुः प्रधाने च ' इत्यभिधानात् प्राधान्याभिधायिना ककुप्शब्देन तत्प्रतिपादिकाः स्तुतयो लक्ष्यन्ते । हत्वं छान्दसम् । ‘आज्जसेरसुक्' इति असुक् । जूर्णायाम् । “ जॄष् वयोहानौ' । अत्र स्तुत्यर्थो धातूनामनेकार्थत्वात् । निष्ठायां ‘श्न्युकः किति ' इति इट्प्रतिषेधः । ‘बहुलं छन्दसि ' इति उत्वम् । हलि च ' इति दीर्घः । ‘रदाभ्याम् । (पा. सू. ८. २. ४२ ) इति निष्ठानत्वम् । प्रत्ययस्वरः । विभिः । वी गत्यादौ । वियन्ति गच्छन्तीति वयः अश्वाः । औणादिको डिप्रत्ययः । पतात् । ‘पत्लृ गतौ '। लेटि आडागमः । ‘इतश्च लोपः' इति इकारलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since your chariot proceeds, (drawn) by your steeds, above the glorious heavens, your praises are proclaimed (by us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your lead (animals) twist and turn upon the (sea’s) broken surface, when your chariot will fly with its birds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your giant coursers hasten on over the region all in flames,   
      When your car flies with winged steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Buckeltiere schweben über die morsche Fläche hin, wenn euer Wagen mit den Vögeln dahinfliegen soll.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es springen eure Rosse schnell dort auf der alten Stätte hin, Wenn eur beschwingter Wagen fliegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваши горбатые буйволы мчатся галопом  
 По зыбкой поверхности,  

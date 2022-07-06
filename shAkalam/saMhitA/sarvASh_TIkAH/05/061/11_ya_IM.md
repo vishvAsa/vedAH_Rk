@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ईं व꣡हन्त आशु꣡भिः  
 पि꣡बन्तो मदिर꣡म् म꣡धु  
 अ꣡त्र श्र꣡वांसि दधिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अत्र॑ । श्रवां॑सि । द॒धि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -81,20 +81,20 @@ genre M
 इदानीं मरुत एवैत इति निश्चित्य जनप्रसिद्धैः माहात्म्यैः स्तौति । **ये** मरुतः **ईम्** इदानीम् **आशुभिः** शीघ्रगामिभिरश्वैः **वहन्ते** उह्यन्ते । किं कुर्वन्तः । **मदिरं** मदकरं **मधु** सोमरसं **पिबन्तः** । पाथेयत्वेन धृतं सोममित्यर्थः । ते मरुतः **अत्र** अस्मिन् देशे **श्रवांसि** स्तुतिजनितानि यशांसि **दधिरे** धारयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those (**Maruts**) who are brought hither by swift horses, drinking the inembriating juice, receive here gratification.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The Maruts), who drive themselves with their swift horses, drinking the  exhilarating honey,  
 here they have acquired their fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, this vs. marks the beginning of the second, more conventional hymn in this composite, at least in my analysis.
 
@@ -105,23 +105,23 @@ It is not clear if īm has its usual acc. function: it could anticipate mádhu i
 I have silently depluralized śrávāṃsi, since ‘fames’ is not English. Perhaps the point here is that each Marut has his own śrávas, though, since they are seldom distinguished, this may be overthinking it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who are borne by rapid steeds, drinking the meath that gives delight,  
      They have attained high glories here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die mit schnellen Rossen fahren, den berauschenden Met trinken, die haben sich dabei Ruhm erworben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die fahren mit der Rosse Schar, den Meth einschlürfend, der berauscht, ] empfingen hier viel herrliches.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Маруты, что ездят на быстрых (конях),  
 Выпивая пьянящий мед,  

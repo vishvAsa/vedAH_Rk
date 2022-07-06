@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡हिर् ऽव° भोगइः꣡ प꣡रि एति बाहुं꣡  
 जिया꣡या हेति꣡म् परिबा꣡धमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡मान् पु꣡मांसम् प꣡रि पातु विश्व꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ह॒स्त॒ऽघ्नः । विश्वा॑ । व॒युना॑नि । वि॒द्वान् । पुमा॑न् । पुमां॑सम् । परि॑ । पा॒तु॒ । वि॒श्वतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahir* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
@@ -114,7 +114,7 @@ popular
 अत्र धन्विनः प्रकोष्ठे बन्धनीयस्य हस्तघ्नस्य स्तुतिः । **हस्तघ्नः** । हस्ते हस्तसमीपे वर्तिनि प्रकोष्ठे स्थितः सन् ज्यया हन्यते इति हस्तघ्नः ॥  ‘ घञर्थे कविधानम् ' इति कः ॥ **ज्यायाः** **हेतिं** ज्याहेतुकां हिंसां परिबाधमानः निवारयन् **भोगैः** शरीरेण ॥ वचनव्यत्ययः ॥ **अहिरिव** सर्प इव **बाहुं** प्रकोष्ठम् । लक्षणया बाहुशब्दः प्रकोष्ठे वर्तते । **पर्येति** परिवेष्टयति । किंच **विश्वा** विश्वानि **वयुनानि** ज्ञानानि ज्ञातव्यानि । **माया** वयुनम् ' इति तन्नामसु पाठात् । **विद्वान्** जानन **पुमान्** पौरुषोपेतः स्वयं **पुमांसं** धन्विनं **विश्वतः** सर्वतः **परि** **पातु** रक्षति । तथा च यास्कः --  ‘ अहिरिव भोगैः परिवेष्टयति बाहुं ज्याया वधात्परित्रायमाणो हस्तघ्नः सर्वाणि प्रज्ञानानि प्रजानन्  पुमान्पुरुमना भवति पुंसतेर्वा ' ( निरु. ९. १५ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ popular
 Hastaghna = a shield, as well as the guard of the fore-arm; with its convolutions: ahiriva bhogaiḥ = śarīrena, with the body
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a snake with its coils, it encircles the arm, parrying the blow of the  bowstring—  
 the handguard, knowing all the trajectories (of the bowstring): as a male  let it protect the male all around.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the last of the vss. repeated in the Aśvamedha sections of the YV.
 
@@ -144,23 +144,23 @@ There are numerous diff. interpr. of vayúnāni here. I assume that it refers to
 The last pāda may emphasize the masculinity of the handguard and the archer because the bowstring, from which the handguard protects the archer, is feminine.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 It compasses the arm with serpent windings, fending away the friction of the bowstring:  
      So may the Brace, well-skilled in all its duties, guard manfully the man from every quarter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie eine Schlange umwindet er mit seinen Ringen den Arm, den Anprall der Sehne abhaltend. Der Handschutz, der alle Regeln kennt, der männliche soll den Mann ringsum schützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er schlingt sich um den Arm wie eine Schlange, der Sehne Anprall um ihn her verwehrend, Der Deckungsriemen, alle Künste kennend, als Mann beschütze überall den Mann er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как змея кольцами, он обвивает  
 Руку, отражая удар тетивы.  

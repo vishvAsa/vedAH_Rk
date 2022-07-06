@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो यह्व꣡म् पुरूणां᳐꣡  
 विशां꣡ देवयती꣡ना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 यं꣡ सीम् इ꣡द् अन्य꣡ ई꣡ळते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । सु॒ऽउ॒क्तेभिः॑ । वचः॑ऽभिः । ई॒म॒हे॒ । यम् । सी॒म् । इत् । अ॒न्ये । ईळ॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -104,20 +104,20 @@ genre M
 ईळते । ‘ईड स्तुतौ' । अदादित्वात् शपो लुक्। अनुदात्तेत्त्वात् लसार्वधातुकानुदात्तत्वे धातुस्वरः । यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We implore with sacred hymns the mighty **Agni**, whom other (ṛṣis) also praise, for the benefit of you who are many people, worshipping the gods of you who are many people, worshipping the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We appeal for you with well-spoken speeches to the youthfully exuberant  (fire) of the many (peoples), of the clans that serve the gods,  
 to Agni—just the one whom the others (also) reverently invoke.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 purūṇā́m is generally construed as qualifying yahvám, but this requires taking the latter as an implicit superlative (Geldner “den Jüngsten unter vielen”), which it is not.
 
@@ -126,28 +126,28 @@ purūṇā́m is generally construed as qualifying yahvám, but this requires ta
 I.36.10, 17: As often, it is difficult to know when to tr. analyzable words as PNs rather than literally. There is no particular reason that I explicitly allowed both possibilities in vs. 10 and only the PN in 17.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH words sent forth in holy hymns, Agni we supplicate, the Lord  
      Of many families who duly serve the Gods, yea, him whom others also praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We implore 1 with well-spoken words the vigorous 2 Agni who belongs to many people 3, to the clans that worship the gods 4, whom other people (also) magnify.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir treten für euch mit wohlgesetzten Reden vor Agni, den Jüngsten unter vielen, den Herrn der gottergebenen Stämme, den auch die anderen anrufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir flehen euren Agni an, mit schöngesprochnen Sprüchen ihn, Der emsig wirkt für viele, für den treuen Stamm, ihn, den ja andre preisen auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К юному среди многих (огней)  
 К (богу) племен, преданных богам,  

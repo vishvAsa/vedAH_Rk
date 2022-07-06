@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡यं꣡ जना अभिच꣡क्षे जगाम  
 इ꣡न्द्रः स꣡खायं सुत꣡सोमम् इछ꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡स्य जीर꣡म् अध्वर्य꣡वश् च꣡रन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वद॑न् । ग्रावा॑ । अव॑ । वेदि॑म् । भ्रि॒या॒ते॒ । यस्य॑ । जी॒रम् । अ॒ध्व॒र्यवः॑ । चर॑न्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āyaṃ* ← *āyan* ← *e* ← *√i*
 - \[verb noun\], nominative, singular
@@ -121,43 +121,43 @@ genre M
 हे **जनाः** **अभिचक्षे** युष्मानभिद्रष्टुम् **अयम्** इन्द्रः **सखायं** स्तोतारं **सुतसोमम्** अभिषुतसोमं यजमानम् **इच्छन्** अभिलषन् **आ** **जगाम** आगच्छति । **अध्वर्यवः** **यस्य** ग्राव्णः **जीरं** क्षेपणं प्रेरणं **चरन्ति** कुर्वन्ति सः **ग्रावा** सोमाभिषवपाषाणः **वदन्** शब्दं कुर्वन **वेदिम्** **अव** **भ्रियाते** अभिह्रियते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, oḥ people, has come to see you, wishing to behold his friend the offerer of the libation; let us creaking stones, for whose rotation the priests hasten, supply the altar.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Indra has come here to look about, o peoples, seeking a partner  who has pressed the soma.  
 The pressing stone, speaking, will be carried down to the altar—the  stone whose nimble (action) the Adhvaryus attend to.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take maghā́as object of both yātáyantam and dádatam; it is neatly positioned between the two participles. Geldner renders ṛtuthā́yātáyantam as “dass du pünktlich vergilst” (repay, requite), but this is not a standard meaning of √yat. Witzel Gotō’s “dass du … die (verdiente) Stellung verschaffst” is closer to the sense of the root, but lacks the obj. one expects with an -áya-transitive. A locution very close to my interpr.
 
 is found in IX.39.2 jánāya yātáyann íṣaḥ “arranging the refreshments for the people.” Contra Oldenberg, who assigns garhate to √grabh, I take it to √gṛh ‘complain’; see EWA s.v. GARH and esp. Hoffmann “Vedisch grh̥ 'klagen” (MSS 14 [1959]: 35-38 = Aufs. 439-41) cited there. There is likely a phonological play between this verb and jagṛbhre in the previous, twinned, verse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Indra, O ye men, hath come to see you, seeking a friend who hath expressed the Soma.  
      The creaking stone is laid upon the altar, and the Adhvaryus come to turn it quickly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Indra ist zum Beschauen gekommen, ihr Leute, da er einen Freund sucht, der Soma auspreßt. Der plappernde Stein soll auf die Vedi gesetzt werden, dessen Bewegung die Adhvaryu´s besorgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es kam herbei, o Menschen, dieser Indra, zu sehn den Freund, den Somapresser heischend; Herab zum Altar dring der Pressstein plaudernd, den zu bewegen schon die Priester eilen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот Индра пришел, о люди, чтобы посмотреть –  
 В поисках друга, выжимающего сому.  

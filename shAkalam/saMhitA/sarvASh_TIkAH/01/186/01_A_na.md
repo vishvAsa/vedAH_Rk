@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ न इ꣡ळाभिर् विद꣡थे सुशस्ति꣡  
 विश्वा꣡नरः सविता꣡ देव꣡ एतु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वं ज꣡गद् अभिपित्वे꣡ मनीषा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अपि॑ । यथा॑ । यु॒वा॒नः॒ । मत्स॑थ । नः॒ । विश्व॑म् । जग॑त् । अ॒भि॒ऽपि॒त्वे । म॒नी॒षा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 **नः** **विदथे** अस्मदीये यज्ञे **सुशस्ति** ॥ सुपो लुक् ॥ सुशस्तिभिः शोभनशंसनैः स्तुतिभिः प्रदेयैः रत्नैः सह । यद्वा । **इळाभिः**। तदाश्रितेषु तच्छब्द्यम् । भूमिस्थानाभिर्देवताभिः सह। **विश्वानरः** सर्वप्राणिहितकार्यग्निः **सविता** प्रेरक आदित्यश्च **देवः** **एतु** आगच्छतु । हे **युवानः** नित्यतरुणा यज्ञस्य मिश्रयितारो वा यूयं **नः** अस्मान् **अभिपित्वे** अभिपतनीयेऽस्मद्यज्ञे **मनीषा** मनीषया मनसः ईशितृत्वेन स्वेच्छयेत्यर्थः । अपिः संभावनायाम् । **अपि** अस्मान् **मत्सथ** मादयथ। **यथा** **विश्वं** **जगत्** । एतत्स्थावरस्याप्युपलक्षणम् । यद्वा कृत्स्नं प्रपञ्चे मत्सथ तथा अस्मानपि । यद्वा । जगच्छब्दो यजमानरूपमनुष्यवाची । सर्वानपि यजमानान् यथा मत्सथ तथेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,14 +135,14 @@ Iḷa = food, yathā sarve irām bhakṣayanti tathā etu; but, iḷābhiḥ **s
 Jagad = **jaṅgama**, moveable, i.e. cattle and offspring
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let god Savitar, who belongs to all men, come to us here at the rite with  ritual refreshments and a good laud,  
 so that you, o youths [=gods], will reach exhilaration nearby us—(let)  inspired thought (come) to the whole moving world at the evening  
 mealtime.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. signals the dedicands of the hymn obliquely: viśvā́naraḥ ‘belonging to all men’ in b evokes its opposite number “all gods,” esp. since the sg. deváḥ occurs later in the same pāda. ‘All’ appears again in d, but with a different referent, ‘world’ (víśvaṃ jágat ‘the whole moving world’). The gods are presumably the addressees of pāda c, but only under the designation ‘youths’ (yuvānaḥ).
 
@@ -161,23 +161,23 @@ The c-pādas of all three verses consist of a yáthā purpose clause with subjun
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LOVED of all men, may Savitar, through praises offered as sacred food, come to our synod,  
      That you too, through-our hymn, ye ever-youthful, may gladden, at your visit, all our people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei unserem Opfer soll mit Labungen und Segenswort der allen Menschen gehörende Gott Savitri erscheinen. Auf daß auch ihr Jünglinge uns in gehobener Stimmung versetzet, soll am Abend zur ganzen lebenden Welt die Andacht kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch unser Lied und unsre Opfer komme Gott Savitar zum Opfer hold den Menschen, Dass auch ihr jungen Götter uns erfreuet die ganze Welt mit Huld bei eurer Einkehr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть придет на место жертвоприношения (поощренный) призывами, восхвалениями  
 Бог Савитар, принадлежащий всем людям!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ह꣡म् पितॄ꣡न् सुविद꣡त्राँ अवित्सि  
 न꣡पातं च विक्र꣡मणं च वि꣡ष्णोः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡जन्त पित्व꣡स् त꣡ इहा꣡गमिष्ठाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ब॒र्हि॒ऽसदः॑ । ये । स्व॒धया॑ । सु॒तस्य॑ । भज॑न्त । पि॒त्वः । ते । इ॒ह । आऽग॑मिष्ठाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āham* ← *ā*
 - \[adverb\]
@@ -121,7 +121,7 @@ popular
 **अहं** यजमानः **सुविदत्रान्** मदीयां भक्तिं सुष्ठु जानतः **पितॄन्** **अवित्सि** आभिमुख्येन लब्धवानस्मि । **विष्णोः** व्यापिनो यज्ञस्य **नपातं** **च** विनाशाभावं च **विक्रमणं** **च** विशेषेण प्रवृत्तिं च लब्धवानस्मि । **ये** पितरः **बर्हिषदः** बर्हिषि सीदन्ति **ते** **इह** अस्मिन् कर्मणि **आगमिष्ठाः** अतिशयेनागताः। आदरपूर्वं समागत्य **स्वधया** पुरोडाशाद्यन्नेन सह **सुतस्य** अभिषुतस्य सोमलक्षणस्य **पित्वः** पितोरन्नस्य भागं **भजन्त** सेवन्ते उपयुञ्जते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ popular
 The infallibility...sacrifice: napātam, vikramaṇam = paths ofthe gods, whence there is no falling and where there is going and coming-- both as the consequence of sacrifice(**Yajus**. 29.56)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have found here the forefathers good to find and the grandson and the  wide stride of Viṣṇu.  
 Those who, sitting on the ritual grass, share in the pressed soma and the  food at (the cry of) “svadhā,” they are the most welcome arrivals here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1 have attained the gracious-minded Fathers, I have gained son and progeny from Visnu.  
      They who enjoy pressed juices with oblation seated on sacred grass, come oftenest hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe die leicht aufzufindenden Väter aufgefunden, den Enkel und den Schritt des Vishnu. Die Manen, die auf dem Barhis sitzend nach Herzenslust vom ausgepreßten Trank genießen, die kommen am liebsten hierher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich hab' entdeckt die gabenreichen Väter, die Kinder und den höchsten Schritt des Vischnu, Sie, die mit Lust den saft'gen Trank geniessen, wenn auf der Streu sie sitzen, kommen gern her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я нашел легконаходимых отцов,  
 Потомка и (высший) шаг Вишну.  

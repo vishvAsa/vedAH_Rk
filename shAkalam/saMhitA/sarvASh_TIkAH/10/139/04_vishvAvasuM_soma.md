@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विश्वा꣡वसुं सोम गन्धर्व꣡म् आ꣡पो  
 ददृशु꣡षीस् त꣡द् ऋते꣡ना वि꣡ आयन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि सू꣡र्यस्य परिधीँ꣡र् अपश्यत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तत् । अ॒नु॒ऽअवै॑त् । इन्द्रः॑ । र॒र॒हा॒णः । आ॒सा॒म् । परि॑ । सूर्य॑स्य । प॒रि॒ऽधीन् । अ॒प॒श्य॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāvasuṃ* ← *viśvāvasum* ← *viśvāvasu*
 - \[noun\], accusative, singular, masculine
@@ -122,36 +122,36 @@ popular
 हे सोम त्वया सहितं **गन्धर्वं** गीतरूपां गां शब्दं धारयन्तं **विश्वावसुम्** एतत्संज्ञं माम् । उत्तरत्र तच्छब्दश्रुतेर्यच्छब्दाध्याहारः । यत् **आपः** वसतीवर्याख्याः **ददृशुषीः** दृष्टवत्यः ॥ दृशेर्लिटः क्वसुः।  ‘ उगितश्च ' इति ङीप् ।  ‘ वसोः संप्रसारणम् ' इति संप्रसारणम् । जसि वा छन्दसि । इति पूर्वसवर्णदीर्घः॥ **तत्** तदानीम् **ऋतेन** यज्ञेन हेतुना **व्यायन्** विविधमगच्छन् यष्टृजनाः । **तत्** गमनम् **आसाम्** अपां **ररहाणः** गमयिता **इन्द्रः** **अन्ववैत्** अन्वबुध्यत । बुद्ध्वा च कुत्र यज्ञः प्रवृत्त इति **सूर्यस्य** **परिधीन्** परितो धीयमानान् प्राच्यादिदिग्भागान् **परि** **अपश्यत्** परितो दृष्टवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Beholding **Soma**, the **Gandharva** **Viśvāvasu**, the waters have come forth by means of the sacrifice;**Indra** impelling them knew of this (their approach), and looked round the rims of the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, the waters, having seen Viśvāvasu the Gandharva, then went  apart by their truth.  
 Indra, hastening, went down following that (truth?) of theirs. He looked  around the encirclements of the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Waters from sacrifice came to the Gandharva Visvavasu, O Soma, when they saw him.  
      Indra, approaching quickly, marked their going, and looked around upon the Sun's enclosures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als, o Soma, die Gewässer den Gandharva Visvavasu erblickt hatten, flohen sie von rechts wegen. Indra folgte rasch dieser ihrer Spur; er entdeckte die Verkleidungen der Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma, als die Wasser den allreichen Gandharven sahn, da rannen sie wie's Recht ist; Er ging in Eile hin zu ihrem Strömen und sah ringsum des Sonnengottes Wehren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Увидев Вишвавасу-гандхарву, о сома,  
 Воды разошлись правильным путем.  

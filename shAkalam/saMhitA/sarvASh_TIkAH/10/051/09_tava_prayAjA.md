@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व प्रयाजा꣡ अनुयाजा꣡श् च के꣡वल  
 ऊ꣡र्जस्वन्तो हवि꣡षः सन्तु भागाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तु꣡भ्यं नमन्ताम् प्रदि꣡शश् च꣡तस्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तव॑ । अ॒ग्ने॒ । य॒ज्ञः । अ॒यम् । अ॒स्तु॒ । सर्वः॑ । तुभ्य॑म् । न॒म॒न्ता॒म् । प्र॒ऽदिशः॑ । चत॑स्रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -126,36 +126,36 @@ popular
 एवमग्निना याच्यमाना देवाः प्रतिब्रुवते । हे अग्ने **तव** **प्रयाजा** **अनुयाजाश्च** **केवले** असाधारणाः **ऊर्जस्वन्तः** बलवन्तः **हविषः** **भागाः** सन्तु । हे अग्ने **अयं** **सर्वः** **यज्ञः** च **तव** **अस्तु** । तथा **प्रदिशः** प्रकृष्टा मुख्याः **चतस्रः** दिशः **तुभ्यं** **नमन्ताम्** । अत एहि हविर्वहेति शेषः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The gods). Yours, **Agni**, be the Prayājas and Anuyājas exclusively; yours be the concentrated portions of the oblations; let this sacrifice; Agni, be all yours, and let the four quarters of space bow down beforeyou.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Gods:] Yours be the fore-offerings and the after-offerings exclusively, the  nourishing portions of the oblation;  
 yours, Agni, be this whole sacrifice. To you let the four quarters bow.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine be the first oblations and the latter, entire, thy forceful shares of holy presents.  
      Let all this sacrifice be thine, O Agni, and let the world's four regions how before thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir sollen ausschließlich die Voropfer und die Nachopfer, die nahrhaften Teile des Opfers gehören. Dir, o Agni, soll dieses ganze Opfer gehören; vor dir sollen sich die vier Weltgegenden neigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein sei nun ganz der Vortrunk und der Nachtrunk, der nahrungsreiche Theil des Opfertrankes, Das ganze Opfer hier soll dein sein, Agni, und alle Lande sollen dir sich neigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будут твоими безраздельно начальные и конечные части жертв,  
 Долю возлияния, наделенные питательной силой!  

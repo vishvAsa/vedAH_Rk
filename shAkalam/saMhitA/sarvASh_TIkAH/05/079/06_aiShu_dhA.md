@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अइ꣡षु धा वीर꣡वद् य꣡श  
 उ꣡षो मघोनि सूरि꣡षु  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सु꣡जाते अ꣡श्वसूनृते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 ये । नः॒ । राधां॑सि । अह्र॑या । म॒घऽवा॑नः । अरा॑सत । सुऽजा॑ते । अश्व॑ऽसूनृते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aiṣu* ← *ā*
 - \[adverb\]
@@ -117,20 +117,20 @@ genre M;; repeated line
 हे **उषः** देवि **मघोनि** मघवति त्वम् **एषु** **सूरिषु** स्तोतृषु वा **वीरवद्यशः** वीरैः पुत्रादिभिरुपेतमन्नं यशो वा **आ** **धाः** आधेहि । आदेहि आनय **ये** मघवानः धनवन्तः सूरयः **नः** अस्मभ्यं तव स्तोतृभ्यः **राधांसि** धनानि **अह्रया** अक्षीणानि **अरासत** ददुः तेष्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Affluent Uṣas, bestow upon these (yor) devout adorers food and posterity, so that, being opulent, they may, without stint, bestow riches upon us; bright-born goddess who are sincerely praised for (the gift of) horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Upon them confer glory in heroes, bounteous Dawn—upon the patrons, who, bounteous (themselves), have granted us immoderate benefits  
 – o well-born lady, liberal with horses.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -143,23 +143,23 @@ emphasis on non-material rewards for the patrons continues in vs. 7 with “loft
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give to these wealthy patrons fame, O affluent Dawn, with hero sons,  
      To these our princes who have brought rich gifts ne'er to be reft away, highborn! delightful with thy steeds!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen freigebigen Herren mögest du gabenreiche Usas den Ruhm vieler Söhne bringen, die uns anständige Geschenke gewährt haben, die Freigebigen, du Edelgeborene, Rosseschenkende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib, reiche Morgenröthe du, den Fürsten heldenreichen Schatz, Den Opferherrn, die reichliche Geschenke gaben uns zum Lohn, o edle, rossereiche du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этих покровителей, о щедрая Ушас,  
 Надели великолепием, связанным с героями,  

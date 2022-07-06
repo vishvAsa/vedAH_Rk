@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रव꣡ता हि꣡ क्र꣡तूना᳐म्  
 आ꣡ हा पदे꣡व ग꣡छसि  
 अ꣡भक्षि सू꣡रिये स꣡चा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अभ॑क्षि । सूर्ये॑ । सचा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pravatā* ← *pravat*
 - \[noun\], instrumental, singular, feminine
@@ -89,36 +89,36 @@ genre M
 हे इन्द्र त्वं **क्रतूनां** कर्मणां यजमानानां संबन्धिनः **प्रवता** प्रवतः प्रवणान् देशान् **पदेव** पदानि स्वकीयानि स्थानानीव **आ** **गच्छसि** **हि** आगतो भवसि खलु। **ह** इति पूरणः । हे इन्द्र त्वामहं **सूर्ये** सूर्येण **सचा** सह **अभक्षि** भजे ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You come in a downward (direction) to sacfred rites, as if to your own station; I glorify you together with the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For through the days you come here along the slope of your intentions,  as if by foot.  
 I have taken my share in company with the sun(rise).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou seekest as it were thine own stations with swift descent of powers:  
      I share thee even with the Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du kommst nach dem Zug deiner Gedanken als wäre er dein Fuß. Ich habe meinen Anteil an der aufgehenden Sonne bekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn auf der Kräfte jäher Bahn zu deinen Stätten eilest du, Bei erstem Lichte grüsst' ich dich,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь по отлогому склону обрядов  
 Ты приходишь, словно ногой (идешь).  

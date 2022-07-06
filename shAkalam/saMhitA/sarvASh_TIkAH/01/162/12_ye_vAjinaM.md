@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ वाजि꣡नम् परिप꣡श्यन्ति पक्वं꣡  
 य꣡ ईम् आहुः꣡ सुरभि꣡र् नि꣡र् हरे꣡ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उतो꣡ ते꣡षाम् अभि꣡गूर्तिर् न इन्वतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 ये । च॒ । अर्व॑तः । मां॒स॒ऽभि॒क्षाम् । उ॒प॒ऽआस॑ते । उ॒तो इति॑ । तेषा॑म् । अ॒भिऽगू॑र्तिः । नः॒ । इ॒न्व॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -136,7 +136,7 @@ popular;; repeated line
 **ये** **पक्वं** **वाजिनम्** अश्वम् अश्वावयवं **परिपश्यन्ति** परितः पावनबुद्ध्या ईक्षन्ते । **य** **ईं** ये चैनं **सुरभिः** शोभनगन्धः अतः **निर्हर** किंचिदप्यस्मभ्यं देहि **इति** **आहुः** । यद्वा । निःशेषेण देवेभ्यो हरेत्याहुः । यतः सुरभिः अतो देवयोग्यमिति । किंच **ये** **चार्वतो** **मांसभिक्षामुपासते** ये नराः अस्य अर्वतः अश्वस्य हुतशिष्टमांसयाचनामुपासते कांक्षन्ते । **उतो** अपि च **तेषाम्** उक्तविधानाम् **अभिगूर्तिः** अभितः उद्यमनं **नः** अस्मान् **इन्वतु** व्याप्नोतु । यथा अस्माभिः अश्वे उपालब्धे एवं स्पृहयन्ति तथा यज्ञो निर्वाहयतु इत्यर्थः । यद्वा । मन्त्रः देवपरो व्याख्येयः । ये देवाः वाजिनं पक्वं परिपश्यन्ति कदा होष्यतीति विलम्बं दृष्ट्वा ये च सुरभिरीमेनं निर्हर निःशेषेणास्मभ्यं देहीत्याहुः ये चार्वतोऽश्वस्य मांसभिक्षामुपासते तेषामभिगूर्तिर्न इन्वतु तेषाम् उद्यमः सफलो भवत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,34 +149,34 @@ Therefore give us some: ya īm āhuḥ suribhir nirhareti = ye cainam **śobhana
 Nirhara = take off, or give, having no government
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who inspect the prizewinner when cooked and who say about  him: “It smells good! Take it off (the fire)!”  
 and those who draw near in hopes of a share of the meat of the steed— let the applause also of those urge us on.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not believe that bhikṣā́- has yet developed the later ubiquitous sense ‘alms’ and tr. it here with full desiderative sense, contra Geldner (/Witzel Gotō) “ein Fleischalmosen.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who observing that the Horse is ready call out and say, the smell is good; remove it;  
      And, craving meat, await the distribution,--may their approving help promote labour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die das Streitroß, wenn es gar ist, prüfen, die sagen: es duftet schön, nimm es weg! -und die auf ein Fleischalmosen von dem Rennpferd warten, auch deren Zustimmung soll uns fördern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welche das Ross gar gebraten sehen, welche, von ihm sagen: »Schönduftend ist es vom Feuer«, welche die Gabe vom Fleische des Rosses erwarten, auch deren Zustimmung fördere uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) кто осматривает коня, когда он готов,  
 Кто говорит: Он пахнет хорошо. Снимай (его).  

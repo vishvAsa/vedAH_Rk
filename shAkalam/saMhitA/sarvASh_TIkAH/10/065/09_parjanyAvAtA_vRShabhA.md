@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पर्ज꣡न्यावा꣡ता वृषभा꣡ पुरीषि꣡णा  
 इन्द्रवायू꣡ व꣡रुणो मित्रो꣡ अर्यमा꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ये꣡ पा꣡र्थिवासो दिविया꣡सो अप्सु꣡ ये꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दे॒वान् । आ॒दि॒त्यान् । अदि॑तिम् । ह॒वा॒म॒हे॒ । ये । पार्थि॑वासः । दि॒व्यासः॑ । अ॒प्ऽसु । ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parjanyāvātā* ← *parjanyāvāta*
 - \[noun\], nominative, dual, masculine
@@ -112,36 +112,36 @@ genre M
 **पर्जन्यावाता** पर्जन्यावातौ पर्जन्यावायू **वृषभा** वृषभौ कामानां सेक्तारौ **पुरीषिणा** पुरीषिणौ । पुरीषमुदकम् । कर्तृत्वेन तद्वन्तौ तौ **इन्द्रवायू** वरुणादयश्च एते स्वमहिम्ना सर्वत्र वर्तन्ते । वायोः पर्जन्येनेन्द्रेण च तत्कार्यापेक्षया सहोपादानम् । एतान् **आदित्यान्** **देवान्** **अदितिं** तेषां मातरं च **हवामहे** अस्मिन् यज्ञे वयमाह्वयामः । किंच **ये** देवाः **पार्थिवासः** पार्थिवाः पृथिव्यां भवा ये च दिव्या दिवि जाताः **ये** च **अप्सु** अन्तरिक्षे समुत्पन्नाः तानाह्वयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The two showerers (of desires), **Parjanya** and **Vāta**, the two senders of water, **Indra** and **Vāyu**,**Varuṇa**,m **Mitra**, **Aryaman**; we invoke the divine **Ādityas**, **Aditi**, and the gods, who dwell on the earth, or inheaven, or in the waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Parjanya and Vāta, the two overflowing bulls, Indra and Vāyu, Varuṇa,  Mitra, and Aryaman—  
 we summon the gods—the Ādityas and Aditi (also)—who are earthly,  heavenly, and in the waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Parjanya, Vata, mighty, senders of the rain, Indra and Vayu, Varuna, Mitra, Aryaman:  
      We call on Aditi, Adityas, and the Gods, those who are on the earth, in waters, and in heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Parjanya und Vata, die wasserquellenden Bullen, Indra und Vayu, Varuna, Mitra, Aryaman. - Die Götter Aditya´s, Aditi rufen wir, die irdischen Götter, die himmlischen und die im Wasser sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gewölk und Wind die beiden Stiere wasserreich, Indra, Vaju, Varuna, Mitra, Arjaman, Die Aditi und ihre Söhne rufen wir, die Götter, die im Himmel, Erd' und Wasser sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

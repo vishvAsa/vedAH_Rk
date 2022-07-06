@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पश्चा꣡तान् नासतिया꣡ पुर꣡स्ताद्  
 आ꣡श्विना यातम् अधरा꣡द् उ꣡दक्तात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ । वि॒श्वतः॑ । पाञ्च॑ऽजन्येन । रा॒या । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -109,36 +109,36 @@ genre M;; repeated line
 आपश्चा दिति पञ्चम्याविनियोगोव्याख्यातचरः ॥ ५ ॥इमाउवामिति षळृचं चतुर्थं सूक्तमाश्विनं वसिष्ठस्यार्षं आद्यातृतीयापञ्चम्योबृहत्यः शिष्टाः सतोबृहत्यः तथाचानुक्रान्तम्-इमाउवां षट्प्रागाथमिति । प्रातरनुवाके आश्विनेक्रतौ बार्हतेछन्दस्याश्विनशस्त्रेच सूक्तम् सूत्रितञ्च-इमाउवामयंवामिति । दशरात्रे पञ्चमेहनि प्रउगशस्त्रे इमाउवामित्ययमाश्विनस्तृचः सूत्रितञ्च-इमाउवान्दिविष्टयःपिबासुतस्यरसिनइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Nāsatyās**, from the west, from the east; come, **Aśvins**, from the south, from the north, comefrom every quarter with riches beneficial for the five classes of men; and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey here from the west or from the east, Nāsatyas, here from the  south or from the north, Aśvins,  
 here from everywhere with the wealth belonging to the five peoples. – Do  you protect us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come from the west, come from the cast, Nasatyas, come, Asvins, from below and from above us.  
      Bring wealth from all sides for the Fivefold People. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von West, ihr Nasatya´s, und von Ost, von Süd und von Nord kommet, Asvin, her, von allen Seiten mit dem Reichtum der fünf Völker!-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von vorne kommt von hinten her, ihr treuen, von oben kommt von unten her, o Ritter, Allüberall mit Gut für alle Menschen; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С запада, о Насатьи, (и) с востока,  
 С юга (и) с севера приезжайте, о Ашвины, –  

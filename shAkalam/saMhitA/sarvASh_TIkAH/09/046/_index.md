@@ -8,7 +8,7 @@ title = "+046"
 ‘ असृग्रन्' इति षडृ चं द्वाविंशं सूक्तम्। ऋष्याद्याः पूर्ववत् । “ असृग्रन्' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 46 (758)  
 Soma Pavamāna  

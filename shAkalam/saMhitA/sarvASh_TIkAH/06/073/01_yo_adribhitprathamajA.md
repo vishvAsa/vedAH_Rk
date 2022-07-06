@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अद्रिभि꣡त् प्रथमजा꣡ ऋता꣡वा  
 बृ꣡हस्प꣡तिर् आङ्गिरसो꣡ हवि꣡ष्मान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ रो꣡दसी वृषभो꣡ रोरवीति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 द्वि॒बर्ह॑ऽज्मा । प्रा॒घ॒र्म॒ऽसत् । पि॒ता । नः॒ । आ । रोद॑सी॒ इति॑ । वृ॒ष॒भः । रो॒र॒वी॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -108,7 +108,7 @@ genre M
 यः **बृहस्पतिः** **अद्रिभित्** पणिभिर्विरचितानां शिलोच्चयानां भेत्ता मेघानां विदारको वा ।  ‘ अद्रिः ग्रावः' इति मेघनामसु पाठात् । **प्रथमजाः** प्रजापतेर्वीर्यात् प्रथमं जातः **ऋतावा** सत्यवान् उदकवान् वा **आङ्गिरसः** पश्चाज्जातः । तथा च निगमः - ‘ येऽङ्गारा आसंस्तेऽङ्गिरसोऽभवन्यदङ्गाराः पुनरवशान्ता उददीप्यन्त तत् बृहस्पतिरभवत् ' ( ऐ. ब्रा. ३. ३४ ) इति । **हविष्मान्** यज्ञभागवान् द्विबर्हज्मा द्वयोर्लोकयोर्बृंहितगमनः **प्राघर्मसत्** प्रकर्षेण दीप्तस्थाने वर्तमानः **नः** अस्माकं **पिता** पालयिता भवति स बृहस्पतिः **वृषभः** वर्षकः सन् **रोदसी** द्यावापृथिव्यौ **आ** **रोरवीति** अभिगर्जति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ genre M
 Bṛhaspati was born the seed of Prajāpati; then he was born from **Aṅgirasas**. **Aitareya** Brāhman.a iii.34: A legend of the origin of various deities from the seed of Prajāpati converted into burning coals is narrated: from some of the cinders proceeded, it is said, the Aṅgirasas; and then, from other cinders, not yet cool, Bṛhaspati
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who is splitter of the stone, first born, possessed of truth—Br̥haspati  Āṅgirasa, possessing the oblation—  
 (*filling) the doubly exalted earth, sitting in front of the heated pot, our  father the bull keeps bellowing to the two world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c is somewhat troubled, since neither of the first two words, dvibárhajmā prāgharmasád, is clear. Let us work from the end. The rt. noun cmpd.
 
@@ -143,23 +143,23 @@ as- before a voiced sound, seems to me without merit, though clever.) In any cas
 I do not understand why hánti in d is accented. Nor does Oldenberg (“Akzent … befremdet”). Both Geldner and Renou evade the problem by reading pāda-init. bṛ́haspátiḥ with the previous pāda as subj. of a nominal sentence, leaving hánti to begin a new cl. The published translation does the same. Despite adopting the Geldner/Renou strategem in my tr., I consider this solution artificial but have nothing better to offer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SERVED with oblations, first-born, mountain-render, Angiras' son, Brhaspati, the Holy,  
      With twice-firm path, dwelling in light, our Father, roars loudly, as a bull, to Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Felsenbrecher, der erstgeborene, gesetzestreue Brihaspati, der Angirase, der Opfernde, der eine doppelte Bahn hat, der voran bei dem Gharmatrank sitzt, unser Vater, der Bulle brüllte beide Welten an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der erstgeborne, heil'ge Felszerspalter, Brihaspati, Angirasa, der Opfrer, Der zwiefach schreitet, der in heller Glut wohnt, ein Vater uns, brüllt an, ein Stier, die Welten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Проламыватель скалы, перворожденный, верный закону,  
 Брихаспати из Ангирасов, несущий жертву,  

@@ -8,7 +8,7 @@ title = "+084"
 ‘ असावि ' इति विंशत्यृचमेकादशं सूक्तम् । अत्रानुक्रम्यते-- असावि विंशतिः षळनुष्टुभ औष्णिहपङ्क्तिगायत्रत्रैष्टुभास्तृचाः प्रगाथः' इति । आदितः षडनुष्टुभः सप्तम्याद्यास्तिस्र उष्णिहः। दशम्याद्यास्तिस्रः पङ्क्तयः त्रयोदश्याद्यास्तिस्रो गायत्र्यः । षोडशाद्यास्तिस्रस्त्रिटुभः । एकोनविंशी बृहती विंशी सतोबृहती । अनुवर्तनात् गोतम ऋषिः । अनादेशपरिभाषया इन्द्रो देवता । सूक्तविनियोगो लिङ्गाद्वगन्तव्यः । अविहृतषोडशिशस्त्रे आद्यौ तृचौ स्तोत्रियानुरूपौ। सूत्रितं च- ‘ अथ षोडश्यसावि सोम इन्द्र त इति स्तोत्रियानुरूपौ' (आश्व, श्रौ. ६. २) इति । आभिप्लविकेषूक्थ्येषु तृतीयसवनेऽच्छावाकस्येमावेव तृचौ वैकल्पिकौ स्तोत्रियानुरूपौ । एह्यू षु' इति खण्डे सूत्रितम् ‘ असावि सोम इन्द्र त इममिन्द्र सुतं पिब ' ( आश्व. श्रौ. ७. ८) इति ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 84  
 Indra  
@@ -24,7 +24,7 @@ The last tr̥ca (vss. 16–18) consists entirely of anxious questions, mostly in
 Although no strong unity among the various pieces of this hymn is perceptible, it  does mimic in certain ways the progress of a soma sacrifice. It opens with the invita tion (vss. 1–6), made more pointed by the contrast between our well-made and deserv ing sacrifice and the behavior of ungenerous mortals (vss. 7–9). Verses 10–12 concern  the actual preparation of the soma (and also refer, in vs. 7, to the ritual midpoint).  Verses 13–15 can be seen as a mythic interlude, praising the great deeds of Indra while  he is present on the ritual ground. Verses 16–18 raise doubts about the efficacy of the  sacrifice that has been, or is being, performed—doubts somewhat allayed by the final  two verses (19–20), which end with the usual requests for benefits from the god.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra See the published introduction. for the structure of this composite hymn.
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ रन्धयम् मृ꣡गयं श्रुत꣡र्वणे  
 य꣡न् मा꣡जिहीत वयु꣡ना चना꣡नुष꣡क्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अहं꣡ स꣡व्याय प꣡ड्गृभिम् अरन्धयम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒हम् । वे॒शम् । न॒म्रम् । आ॒यवे॑ । अ॒क॒र॒म् । अ॒हम् । सव्या॑य । पट्ऽगृ॑भिम् । अ॒र॒न्ध॒य॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -119,7 +119,7 @@ genre M
 **अहम्** इन्द्रः **मृगयम्** एतन्नामकमसुरं **श्रुतर्वणे** एतन्नामकाय महर्षये **रन्धयम्** । रध्यतिर्वशगमने । वशमनयम् । **यत्** यस्मात् श्रुतर्वा मा माम् **अजिहीत** । ' ओहाङ गतौ '। आगच्छत् । तदेवोच्यते । **वयुना** प्रज्ञानेन स्तोत्रेण **आनुषक्** अनुषक्तोऽभूत् । **चन** इति पूरणः । **अहं** **वेशम्** एतन्नामानं **नम्रं** प्रह्वं **करम्** अकार्षम् । करोतेर्लुङि ‘कृमृदृरुहिभ्य इति च्लेरङ । अडभावश्छान्दसः । **अहं** **सव्याय** एतन्नामकाय **पड्गृभिम्** एतन्नामकम् **अरन्धयं** वशमनयम् ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,30 +130,30 @@ genre M
 Mṛgaya = an **asura**;
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I made Mr̥gaya subject to Śrutarvan, when he yielded to me when the  ritual patterns were in due order.  
 I made the vassal submissive for Āyu, and I made Paḍgr̥bhi subject  
 to Savya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I gave up Mrgaya to Srutarvan as his prey because he ever followed me and kept my laws.  
      For Ayu's sake I caused Veta to bend and bow, and into Savya's hand delivered Padgrbhi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich unterwarf dem Srutarvan den Mrigaya, als er zu mir nicht einmal gebührlich, wie sich´s gehörte, eilte. Ich machte dem Ayu den Eingesessenen untertan; ich unterwarf dem Savya den Padgribhi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Mrigaja gab dem Çrutarvan ich dahin, auch als des Lebens Kraft mich nach und nach verliess; Den Veça machte ich dem Aju unterthan, und gab dem Savja in die Hand den Padgribhi.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я отдал во власть Шрутарвану Мригаю,  
 Когда он не раз бросался ко мне как к (направляющим) вехам.  

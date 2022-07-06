@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡ नवन्ते अद्रु꣡हः  
 प्रिय꣡म् इ꣡न्द्रस्य का꣡मियम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 जातं꣡ रिहन्ति मात꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒त्सम् । न । पूर्वे॑ । आयु॑नि । जा॒तम् । रि॒ह॒न्ति॒ । मा॒तरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhī* ← *abhi*
 - \[adverb\]
@@ -101,43 +101,43 @@ genre M
 यथा **मातरः** गावः **पूर्वे** प्रथमे **आयुनि** वयसि **जातं** **वत्सं** **रिहन्ति** लिहन्ति तथा **अद्रुहः** अद्रोहा वसतीवर्याख्या आपः **इन्द्रस्य** **प्रियं** **काम्यं** सर्वैः काम्यमानं सोमम् **अभि** **नवन्ते** अभिगच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The innocent waters repair to **Soma** dear to **Indra** and beloved (of all), as the material kine lick the new-born calf at the beginning of its life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those without deceit cry out to him, dear and desirable to Indra.  
 The mothers lick him like a calf in its first stage of life, just born.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 abhī́with lengthened final may conceal the enclitic acc. ī, anticipating the accs. in b. In fact, because of its position before nasal (abhī́navante) it might represent a degeminated *īm.
 
 The mothers without deceit are, as noted by Geldner and Renou, the hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 अ॒भी न॑वन्ते अ॒द्रुहः॑ प्रि॒यमिन्द्र॑स्य॒ काम्य॑म् ।  
 व॒त्सं न पूर्व॒ आयु॑नि जा॒तं रि॑हन्ति मा॒तरः॑ ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie schreien ihm ohne Falsch zu, dem liebwerten Freunde des Indra. Wie ein neugeborenes Kalb im ersten Lebensalter belecken ihn die Mütter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es jubeln ihm die holden zu dem lieben, den sich Indra wünscht, Wie zartes, neugebornes Kalb, belecken diese Mütter ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Громко приветствуют безобманные  
 Приятного, желанного для Индры (сому).  

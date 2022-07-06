@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡म् मन्द्र꣡म् पुरुप्रियं꣡  
 शीर꣡म् पवाक꣡शोचिषम्+  
 हृद्भि꣡र् मन्द्रे꣡भिर् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हृ॒त्ऽभिः । म॒न्द्रेभिः॑ । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -82,41 +82,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मन्द्रं** मादनं **पुरुप्रियं** बहुप्रियं **शीरं** यज्ञेषु शयनशीलं **पावकशोचिषं** पावकदीप्तिम् **अग्निं** **हृद्भिः** मनोहरैर्मन्द्रैः मादनैः स्तोत्रैः **ईमहे** याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke with cheerful and delightful (hymns) the gladdening **Agni**, dear to many, who abides in thesacrifice with purifying brilliance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the gladdening one dear to many, sharp, pure-flamed,  
 do we implore with gladdening hearts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 śīrá- occurs 4x in the RV in the same pāda, śīrám pāvakáśociṣam, and twice more in the compound śīráśociṣ- (also acc. -am). My tr. ‘sharp’ follows the current standard, but not strongly held view (see Geldner, Renou, KEWA, EWA) that sees a possible connection with √śā ‘sharpen’ (see EWA s.v. śīrá-).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We venerate with cheerful hearts the cheerful Agni, dear to all,  
      Burning, with purifying flame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, dem Erfreulichen, Viellieben, dem Scharfen mit lauterer Flamme nahten wir mit frohem Herzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni, welcher vielen lieb und hold ist, heiss und hellentflammt, Ihn flehn wir frohen Herzens an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Агни, радостному, очень любимому,  
 Острому, с чистым пламенем,  

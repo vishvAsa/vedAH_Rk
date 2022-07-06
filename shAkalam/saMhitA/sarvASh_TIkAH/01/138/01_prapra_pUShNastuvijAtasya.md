@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡-प्र पूष्ण꣡स् तुविजात꣡स्य शस्यते  
 महित्व꣡म् अस्य तव꣡सो न꣡ तन्दते  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 देव꣡ आयुयुवे꣡ मखः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 विश्व॑स्य । यः । मनः॑ । आ॒ऽयु॒यु॒वे । म॒खः । दे॒वः । आ॒ऽयु॒यु॒वे । म॒खः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -161,7 +161,7 @@ genre M
 **तुविजातस्य** बहुयजमानार्थमुत्पन्नस्य **अस्य** **पूष्णः** पोषकस्य एतन्नामकस्य देवस्य **तवसः** **महित्वं** बलस्य महत्त्वं **प्रप्र** **शस्यते** प्रस्तूयते सर्वैः ॥ वीप्सा पादपूरणे॥ **न** **तन्दते** न हिनस्ति कश्चित्तदपि । किंच **अस्य** पूष्णः **स्तोत्रं** **न** **तन्दते** न हिनस्ति न विरमति । सर्वोऽपि जनः एनं स्तौतीत्यर्थः । जगत्पोषकत्वादिति भावः । अतः कारणात् **अहं** अहमपि यजमानः **सुम्नयन्** सुखमिच्छन् **अर्चामि** स्तौमि । कीदृशं तम् । **अन्त्यूतिम्** आसन्नरक्षणम् ॥  ‘ कादिलोपो बहुलम्' इति कलोपः ॥ स्तुत्यनन्तरमेव वरप्रदमित्यर्थः । **मयोभुवं** सुखस्योत्पादकं भावयितारं वा । **यः** पूषा **मखः** यज्ञवान् ॥ मत्वर्थों लुप्यते ॥ **विश्वस्य** सर्वस्य स्तोतुर्ऋत्विजः **मनः** **आयुयुवे** समन्तात् मिश्रयति । शीघ्रवरप्रदानात् इति भावः। किंच **देवः** दीप्यमानः एषः **मखः** मखं यज्ञम् **आयुयुवे** संपूर्तिपर्यन्तं मिश्रयति । यद्वा । विश्वस्य मनोमिश्रणे यजमाने किमायातमिति चेत् उच्यते । मखो यज्ञनिर्वाहकोऽयं पूषा देवो यजमानस्य मनः आयुयुवे समन्तात् मिश्रयति । सामर्थ्यात् यजमानस्य मन इति लभ्यते ॥ यौतेश्छान्दसो लिट्॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -172,7 +172,7 @@ genre M
 **Mana** āyuyuve **makha**, **deva** āyuyuve **makhaḥ** : the text intends to identify Pūṣan, spiritually or mystically, with the performer and and the performance of the worship; a different explanation is offered: makha = yajñavān, having or receiving sacrifice, who confers the boon the sacrificer solicits, thus 'mixing with' or assenting to his thoughts or mind (mana ayuyuve samantād miśrayati s'Ighravara pradānāt); makha repeated is equated with makham, objective case, the sacrifice, with which Pūṣan mixes, or is present at, until completed, sampūrtiparyantam miśrayati
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ever further is (the greatness) of powerfully born Pūṣan proclaimed: the  greatness of him, the powerful, does not flag—the praise of him does  not flag.  
 Seeking his favor, I chant to him, whose help is nearby, who is  
@@ -180,24 +180,24 @@ refreshment itself,
 who, the bounteous, has bound to himself the mind of everyone—the  bounteous god has bound it to himself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 STRONG Pusan's majesty is lauded evermore, the glory of his lordly might is never faint, his song of praise is never faint.  
      Seeking felicity I laud him nigh to help, the source, of bliss,  
      Who, Vigorous one, hath drawn to him the hearts of all, drawn them, the Vigorous One, the God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fort und fort wird die Macht des Pusan von starker Art gepriesen; seine, des Starken, Macht, erlahmt nicht, sein Lob erlahmt nicht. Ich besinge um seine Huld bittend ihn, der in der Nähe hilft, den erfreulichen; den freigebigen, der eines jeden Sinn gefesselt hat, als freigebiger Gott gefesselt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des allgewalt'gen Puschan Macht wird stets gerühmt, und nie erlahmt des starken grosse Herrlichkeit, und nie erlahmt sein Lobgesang, Ich preise Gunst begehrend ihn, der Freude bringt, mit Hülfe naht, Der als ein Held erfasst hält jedes Wesens Geist, der Gott als Held ihn an sich zieht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все больше и больше прославляется (величие) Пушана сильного рода.  
 Величие этого сильного не слабеет,  

@@ -8,7 +8,7 @@ title = "+084"
 ‘प्रेष्ठं वः' इति नवर्चं चतुर्थं सूक्तं कवेः पुत्रस्योशनस आर्षं गायत्रमाग्नेयम् । तथानुक्रम्यते’ प्रेष्ठमुशना काव्य आग्नेयम्' इति । प्रातरनुवाक आग्नेये क्रतौ गायत्रे छन्दस्याश्विनशस्त्रे चेदं सूक्तम् । सूत्रितं च--- युवा हि प्रेष्ठं वः' ( आश्व. श्रौ. ४. १३ ) इति । आभिप्लविकेषूक्थ्येषु मैत्रावरुणे ‘ प्रेष्ठं वः' इति तृचो वैकल्पिकः स्तोत्रियः । सूत्रितं च--’ प्रेष्ठं वो अतिथिं श्रेष्ठं यविष्ठ भारत' (आश्व. श्रौ. ७. ८) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 84 (693)  
 Agni  
@@ -18,7 +18,7 @@ This short and simple hymn to Agni makes no reference to his fiery qualities,  a
 The Anukramaṇī names as the poet the legendary and mythic figure Uśanā Kāvya, to whom the three hymns IX.87–89 are also attributed. It is not clear why,  save for the mention of the kaví “sage poet” in verse 2.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

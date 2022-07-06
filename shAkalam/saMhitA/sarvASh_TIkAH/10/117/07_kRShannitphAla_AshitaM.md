@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृष꣡न्न् इ꣡त् फा꣡ल आ꣡शितं कृणोति  
 य꣡न्न् अ꣡ध्वानम् अ꣡प वृङ्क्ते चरि꣡त्रैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृण꣡न्न् आपि꣡र् अ꣡पृणन्तम् अभि꣡ ष्यात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वद॑न् । ब्र॒ह्मा । अव॑दतः । वनी॑यान् । पृ॒णन् । आ॒पिः । अपृ॑णन्तम् । अ॒भि । स्या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛṣann* ← *kṛṣan* ← *kṛṣ*
 - \[verb noun\], nominative, singular
@@ -136,7 +136,7 @@ popular
 **कृषन्** कृर्षि कुर्वन् **फालः** **आशितं** कर्षकं भोक्तारं **कृणोति** करोति । तथा **अध्वानं** मार्गं **यन्** ॥ इणः शतरि नुमागमः । गच्छन् पुरुषः **चरित्रैः** आत्मीयैर्गमनैः **अप** **वृङ्क्ते** । स्वामिनो धनमावर्जयति ॥ वृजी वर्जने' । आदादिकः । अनुदात्तेत् ॥ **वदन्** शास्त्रार्थं ब्रुवाणः **ब्रह्मा** ब्राह्मणः **अवदतः** शास्त्रार्थमब्रुवाणाज्जनात् **वनीयान्** संभक्तृतमः प्रियकरो भवति ॥ वनतेस्तृजन्तस्येयसुनि “ तुरिष्ठेमेयःसु ' इति तृचो लोपः । ते यथा स्वकर्मणि प्रवर्तमानाः परेषामुपकारकाः तथा **पृणन्** दाता पुरुषः **अपृणन्तम्** अदातारं जनम् **अभि** अभिलक्ष्य **आपिः** **स्यात्** बन्धुर्भवेत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,34 +147,34 @@ popular
 Let the man who gives:liṭ, the loving kinsman will prevail over him who loves not
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It’s just when it plows that a plowshare makes a man well fed. It’s just  when he goes that a man “wraps up” the road with his feet.  
 The formulator who speaks is more a winner than the one who doesn’t; a  friend who gives would be superior to one who doesn’t.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The ploughshare ploughing makes the food that feeds us, and with its feet cuts through the path it follows.  
      Better the speaking than the silent Brahman: the liberal friend outyalues him who gives not.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The plough that cleaves the soil produces nurture; He that bestirs his feet completes his journey. The speaking Brahmin earns more than the silent; A friend who gives is better than the niggard.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur die pflügende Pflugschar macht satt; wer mit den Beinen ausschreitet, beendet seinen Weg. Der redende Hohepriester gewinnt mehr als der schweigende, der schenkende Freund soll mehr gelten als der Karge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Pflug schafft Nahrung nur, wenn er das Land pflügt; geht auf den Weg er, stösst man ihn mit Füssen; Und mehr erlangt der Beter, als wer nicht fleht, Der Freund, der gibt, kommt über den, der nicht gibt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только пашущий лемех насыщает,  
 Идущий пешком проделывает (весь) путь.  

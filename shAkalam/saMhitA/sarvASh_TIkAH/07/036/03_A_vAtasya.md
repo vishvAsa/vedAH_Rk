@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वा꣡तस्य ध्र꣡जतो रन्त इत्या꣡  
 अ꣡पीपयन्त धेन꣡वो न꣡ सू꣡दाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡चिक्रदद् वृषभः꣡ स꣡स्मिन् ऊ꣡धन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒हः । दि॒वः । सद॑ने । जाय॑मानः । अचि॑क्रदत् । वृ॒ष॒भः । सस्मि॑न् । ऊध॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -114,7 +114,7 @@ genre M
 **ध्रजतः** गच्छतः **वातस्य** वायोः **इत्याः** गतयः **आ** **रन्ते** अभितो रमन्ते । तथा **सूदाः** ।‘सूद प्रेरणे ' इति धातुः । क्षीरस्य प्रेरयित्र्यः **धेनवो** **न** । नेति चार्थे । गावश्च **अपीपयन्त** प्यायन्ते एधन्ते । अपि च **महः** महतः **दिवः** द्योतमानस्यादित्यस्य **सदने** स्थानेऽन्तरिक्षे **जायमानः** उत्पद्यमानः **वृषभः** वर्षणशीलः पर्जन्यः **सस्मिन्नूधन्** तस्मिन् अन्तरिक्षे **अचिक्रदत्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,14 +125,14 @@ genre M
 The showerer: acikradad **vṛṣabhaḥ** sasmin ūdham: **parjanya** has cried n that firmament, tasmin antarikṣeacikradat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The movements of the swooping wind come to rest. The sweet (stalks?)  have swelled like milk-cows.  
 Being born in the seat of great heaven, the bull has roared in the  
 self-same udder.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 yájasva … devā́n. It is forms (both act. and mid.) compounded with ā́that acquire the meaning ‘obtain by sacrifice’. I therefore think the abstract qualities fellowship and vitality must be the objects of our sacrifice/worship, standing in for their divine possessor.
 
@@ -147,23 +147,23 @@ pres., parallel to badbadhé with both following the standard perfect in functio
 ending characteristic of the perfect, I consider at least bābadhe to be a straight perfect, with adjustment of the vowel length of redupl. and root syllable to conform better to such distribution elsewhere in the perfect system; cf. esp. vāvṛdhé versus vavárdha. The intens. badbadhé then adopted the inflectional patterns of the other two redupl. stems. As for what the verb means here, although ví √bādh generally has a negative sense ‘thrust away (undesirable things)’, here I think the same literal sense refers to the god’s pushing out towards us the pṛ́kśaḥ ‘fortifying nourishments’ we want in exchange for praise. Renou (comm.) suggests a slightly different semantic pathway.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The movements of the gliding wind come hither: like cows, the springs are filled to overflowing.  
      Born in the station e'en of lofty heaven the Bull hath loudly bellowed in this region.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Anläufe des sausenden Windes kommen zur Ruhe; wie Milchkühe sind die Lachen angeschwollen. Am Sitz des großen Himmels geboren hat der Stier im gleichen Euter gebrüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es kommen her des schnellen Windes Züge, wie Kühe strömten reichlich süsse Tränke; Der in des hohen Himmels Sitz geborne, er brüllte laut der Stier an diesem Euter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Утихли шквалы порывистого ветра.  
 Переполнились мужи, словно дойные коровы.  

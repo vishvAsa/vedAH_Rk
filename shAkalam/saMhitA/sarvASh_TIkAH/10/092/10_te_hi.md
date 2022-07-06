@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ हि꣡ प्रजा꣡या अ꣡भरन्त वि꣡ श्र꣡वो  
 बृ꣡हस्प꣡तिर् वृषभः꣡ सो꣡मजामयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देवा꣡ द꣡क्षैर् भृ꣡गवः सं꣡ चिकित्रिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 य॒ज्ञैः । अथ॑र्वा । प्र॒थ॒मः । वि । धा॒र॒य॒त् । दे॒वाः । दक्षैः॑ । भृग॑वः । सम् । चि॒कि॒त्रि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -129,7 +129,7 @@ genre M
 **हि** यस्मात्कारणात् **वृषभः** कामानां वर्षिता **बृहस्पतिः** **सोमजामयः** अन्ये सोमबन्धवः **ते** विश्वे देवाः **प्रजायाः** अर्थाय **श्रवः** अन्नं **वि** **अभरन्त** विभरन्ति वृष्टिद्वारेण पोषयन्ति तस्मात्कारणात् तासां प्रजानां मध्ये **अथर्वा** नामर्षिः **प्रथमः** प्रथममेव क्रियमाणैः **यज्ञैः** **वि** **धारयत्** देवान् कर्ममार्गान् वा विधृतानकरोत् । अत्र निगमः - ‘ यज्ञैरथर्वा प्रथमः पथस्तते । (  ऋ. सं. १. ८३. ५) इति । अथ **दक्षैः** बलैः सह **देवाः** विश्वे **भृगवः** ऋषयश्च **सं** **चिकित्रिरे** अथर्वणा कृतं यज्ञं गत्बा पशून् संज्ञातवन्तः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ genre M
 With strength: i.e., with the strength acquired from thesacrifice which they had eaten; having gone to the sacrifice made by Atharvan, they discovered the cattle; cf. RV1.83.5
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because they disseminated their fame to their progeny—Br̥haspati, the  bull, and those akin to Soma—  
 the first Atharvan (priest) distributed it through sacrifices. The gods  and the Bhr̥gus perceive with like mind through their skills.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For these have spread abroad the fame of human kind, the Bull Brhaspati and Soma's brotherhood.  
      Atharvan first by sacrifices made men sure: through skill the Bhrgus were esteemed of all as Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn diese verbreiteten den Ruhm ihrer Nachkommenschaft, Brihaspati, der Bulle, und die Somaverbrüderten. Durch Opfer stellte zuerst Atharvan die Ordnung fest; die Götter und die Bhrigu´s waren in ihren Bestrebungen eines Sinnes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diese trugen aller Wesen Preis davon, Brihaspati, der Stier, die Soma-Brüderschaft, Durch Opfer hat zuerst Atharvan Recht geschafft, als Götter sich die Bhrigu's durch ihr Thun gezeigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

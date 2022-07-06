@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ ते अग्ने विमदो꣡ मनीषा꣡म्  
 ऊ꣡र्जो नपाद् अमृ꣡तेभिः सजो꣡षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡षम् ऊ꣡र्जं सुक्षितिं꣡ वि꣡श्वम् आ꣡भाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 गिरः॑ । आ । व॒क्ष॒त् । सु॒ऽम॒तीः॑ । इ॒या॒नः । इष॑म् । ऊर्ज॑म् । सु॒ऽक्षि॒तिम् । विश्व॑म् । आ । अ॒भा॒रित्य॑भाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 एवमुक्तप्रकारेण हे **ऊर्जो** **नपात्** ओषधिवनस्पतिपितृभूतस्यान्नस्य पौत्र हे **अग्ने** **अमृतेभिः** अमृतैर्हविर्लक्षणैरन्नैः **सजोषाः** संगतः **विमदः** नामर्षिः **मनीषां** प्रकृष्टां बुद्धिं कामयमानः सन् **ते** तुभ्यं **गिरः** स्तुतिलक्षणा वाचः **आ** **वक्षत्** आभिमुख्येनोक्तवान् । वक्तेश्छन्दसि लेटि रूपम् । ततस्त्वमेतज्ज्ञात्वा **सुमतीरियानः** शोभनलक्षणा बुद्धीः संगमयन **इषम्** अन्नम् **ऊर्ज़ं** क्षीरादिकं रसं च **सुक्षितिं** शोभननिवासम् । यद्वा । क्षितयो मनुष्याः । शोभनपुत्रपौत्रादिकं यत्किंचित् देयमस्ति तत् **विश्वं** धनं च **आभाः** तस्मै विमदायाहर देहि ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,30 +140,30 @@ genre M
 A prosperous abode: or, progeny
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way, o Agni, child of nourishment, Vimada, in company  with the immortals, will convey to you his inspired thought  
 and his songs, as he implores your good favors. Refreshment,  
 nourishment, a good dwelling—all that have you brought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus with his thoughts, O Son of Strength, O Agni, hath Vimada, accordant with the Immortals,  
      Offered thee hymns, soliciting thy favour. Thou hast brought all food, strength, a prosperous dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also hat dir, Agni, Kind der Kraft, zusammen mit den Unsterblichen Vimada ein Gedicht, eine Lobrede dargebracht, um Wohlwollen bittend. Labung, Nahrung, guten Wohnsitz, alles hast du ihm gebracht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So hat dir, o Agni, Vimada Anbetung und Lieder dargebracht, o Sohn der Stärke, vereint mit den Unsterblichen, dein Wohlwollen erflehend; du hast Trank und Speise, sichre Wohnung, alles ihm gebracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так тебе, о Агни, Вимада исполнил произведение,  
 О потомок питательной силы, согласный с бессмертными,  

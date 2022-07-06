@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ सीदस्व महाँ꣡ असि  
 शो꣡चस्व देववी꣡तमः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सृज꣡ प्रशस्त दर्शत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 वि । धू॒मम् । अ॒ग्ने॒ । अ॒रु॒षम् । मि॒ये॒ध्य॒ । सृ॒ज । प्र॒ऽश॒स्त॒ । द॒र्श॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -108,40 +108,40 @@ genre M
 हे अग्ने **सं** **सीदस्व** बर्हिष्युपविश । **महान्** **असि** गुणाधिको भवसि । **देववीतमः** अतिशयेन देवान् कामयमानः **शोचस्व** दीप्यस्व । हे **मियेध्य** मेधार्ह **प्रशस्त** उत्कृष्ट **अग्ने** अरुषं गमनशीलं **दर्शतं** दर्शनीयं **धूमं** **वि** **सृज** विशेषेण संपादय ॥ सीदस्व । षद्लृ विशरणगत्यवसादनेषु' । व्यत्ययेनात्मनेपदम् । प्रार्थनायां लोटि शपि **पाघ्रा** ' इत्यादिना सीदादेशः । महान् । संहितायां नकाराकारयोः रुत्वानुनासिकौ उक्तौ । शोचस्व । ‘शुच दीप्तौ' । अदुपदेशात् लसार्वधातुकानुदात्तत्वे धातुस्वरः । तिङः परत्वात् निघाताभावः। देववीतमः । **वी** गतिप्रजनकान्त्यशनखादनेषु' । देवान् वेति गच्छतीति देववीः । क्विप् च ' इति क्विप् । अतिशयेन देववीर्देववीतमः । तमपः पित्त्वादनुदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् । अरुषम् अरोषणम् । रिष रुष हिंसायाम्'। ‘घञर्थे कविधानम्' इति भावे कप्रत्ययः । नास्ति रुषोऽस्येति बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । मियेध्य । **छन्दसि** च' इति अर्हार्थे यप्रत्ययः । मकारात्परः इयागमश्छान्दसः । सृज । ‘ सृज विसर्गे' । तुदादित्वात् शः । विकरणस्वरः । पादादित्वादनिघातः । दर्शतम् । भृमृदृशि° ' इत्यादिना दृशेः कर्मणि अतच्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Take your seat, **Agni**, on the sacred grass, for you are mighty; shine forth, for you are devoted to the gods; adorable and excellent Agni, emit the moving and graceful smoke.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sit together (with us): you are great. Blaze as the best at pursuing the gods. Let loose your beautiful red smoke in every direction, o lauded Agni,  partaker of the ritual meal—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seat thee, for thou art mighty; shine, best entertainer of the Gods.  
      Worthy of sacred food, praised Agni! loose the smoke, ruddy and beautiful to see.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Take thy seat; thou art great. Shine forth, thou who most excellently repairest to the gods. O Agni, holy god, emit thy red, beautiful smoke, O glorious one!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Setz dich mit uns nieder; du bist groß, flamme auf, als der beste Götterlader! Entsende, du festlicher, gepriesener Agni, deinen rötlichen Rauch, den gerngesehenen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So setz dich nieder, gross bist du, erstrahle, Götternährendster, Den rothen Rauch, o Opfrer Agni, sende aus, den herrlichen, gepriesener!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Садись с (нами)! Ты велик.  
 Вспыхни, о лучший приглашатель богов!  

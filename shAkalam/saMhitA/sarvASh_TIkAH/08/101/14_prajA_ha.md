@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रजा꣡ ह तिस्रो꣡ अतिआ꣡यम् ईयुर्  
 नि꣡ अन्या꣡ अर्क꣡म् अभि꣡तो विविश्रे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡वमानो हरि꣡त आ꣡ विवेश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 बृ॒हत् । ह॒ । त॒स्थौ॒ । भुव॑नेषु । अ॒न्तरिति॑ । पव॑मानः । ह॒रितः॑ । आ । वि॒वे॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prajā* ← *prajāḥ* ← *prajā*
 - \[noun\], nominative, plural, feminine
@@ -122,7 +122,7 @@ popular
 याः **तिस्रः** **प्रजाः** **अत्यायमीयुः** अत्यायमायन् **अन्याः** ता इमाः प्रजाः **अर्कम्** अर्चनीयमग्निम् **अभितो** **विविश्रे** अभितो निविष्टास्ततो न पराबभूवुः । **भुवनेष्वन्तः** मध्ये **बृहत्** महान् असावादित्यः । प्रजापतिरित्येके । **तस्थौ** प्रकाशयन्नतिष्ठत् । **हरितः** दिशः **पवमानः** वायुः **आ** **विवेश** आविष्टः । तथा चैतरेयब्राह्मणं - ‘प्रजा ह तिस्रो अत्यायमीयुरिति या वै ता इमाः प्रजास्तिस्रो अत्यायमायंस्तानीमानि वयांसि वङ्गावगधाश्चेरपादाः । न्यन्या अर्कमभितो विविश्र इति ता इमाः प्रजा अर्कमभितो निविष्टा इममेवाग्निं बृहद्ध तस्थौ भुवनेष्वन्तरित्यद उ एव बृहद्भुवनेष्वन्तरसावादित्यः पवमानो हरित आ विवेशेति वायुरेव पवमानो दिशो हरित आविष्टः ' (ऐ. आ. २. १. १) इति । वाजसनेयिनोऽप्यामनन्ति - ‘ स तपोऽतप्यत स प्रजा असृजत ता अस्य प्रजाः सृष्टाः पराबभूवुस्तानीमानि वयांसि ' इत्युपक्रम्य ‘ प्रजा ह तिस्रो अत्यायमीयुरिति या अमूः प्रजा अत्यायन् न्यन्या अर्कमभितो विविश्र इत्यग्निर्वा अर्कस्तमिमाः प्रजा अभितो निविष्टास्ता इमाः पराभूताः । बृहद्ध तस्थौ भुवनेष्वन्तरिति प्रजापतिमेवैतदभ्यनुक्तं पवमानो हरित आ विवेशेति दिशो वै हरितस्ता अयं पवमान आविष्टः ' (श. ब्रा. २. ५. १. १-५) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ popular
 Legend: **Śatapatha** Brāhmaṇa2.5.1: **Prajāpati** desired to create and after intense meditation, produced in succession, three kinds ofcreatures-- birds, small snakes (**sarisṛpa**), and serpents; but they all died. He then reflected on the cause of thefailure; and, perceiving it to be the want of nourishment, he caused milk to be produced in his own breasts. Afterthis, he created a fourth kind which were thus fed and lived. The 'others' are those which thus survived. Themighty one: the Sun and others; or, Prajāpati
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three offspring [=soma-drinks/pressings] have made their traversal (of  the filter); the others have settled down around the chant.  
 Loftily he has stood among the creatures; the self-purifying (soma) has  entered within the golden (flames).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This difficult and enigmatic vs. is found in slightly variant form in the AV in the mystical skambha hymn X.8.3, is repeated in other Vedic texts, and receives an explanation in ŚB II.5.1.4-5. The interpr. of the verse in this context here has been influenced by its later deployments, esp. the ŚB exegesis — in my opinion misleadingly. The ŚB takes it to refer to the passing of generations or races, expressed by the prajā́ḥ … tisráḥ of pāda a, and this basic understanding is reproduced by Geldner and by Renou (Hymnes spéculatifs 165, though of AV X.8.3, not the RVic passage). Oldenberg sensibly disdains tr. and explanation (“Erklärung dieser Mystik versuche ich nicht.”).
 
@@ -152,23 +152,23 @@ The relevance of pāda b to the soma theme is less clear to me. By my rules, any
 I do not feel I have solved all the problems with this verse, but the lexical clues of pādas a and d seem to me to anchor it in a soma context, with this ritual context reinforced by its pragātha twin.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Past and gone are three mortal generations: the fourth and last into the Sun hath entered.  
      He mid the worlds his lofty place hath taken. Into green plants is gone the Purifying.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Drei Menschengeschlechter sind schon vorübergegangen, andere haben sich seitdem um den Preisgesang niedergelassen. Groß steht er da unter den Geschöpfen. Pavamana Soma ist in die goldgelben Flammen eingegangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei Töchter gingen zur Durchschreitung, [drei] andere lagerten sich rings um die Sonne; erhaben stand der Soma Pavamana unter den Wesen, er ging ein in die goldnen Sonnenrosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Три поколения уже миновали.  
 Другие уселись вокруг хвалебной песни.  

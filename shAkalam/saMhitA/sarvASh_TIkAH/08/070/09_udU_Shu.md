@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् ऊ षु꣡ णो वसो महे꣡  
 मृश꣡स्व शूर रा꣡धसे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 उ꣡द् इन्द्र श्र꣡वसे महे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उत् । ऊं॒ इति॑ । सु । म॒ह्यै । म॒घ॒ऽव॒न् । म॒घत्त॑ये । उत् । इ॒न्द्र॒ । श्रव॑से । म॒हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -118,20 +118,20 @@ genre M
 हे **वसो** वासयितः **शूर** इन्द्र त्वं **नः** अस्मान् **सु** सुष्ठु **उदु** **मृशस्व** उन्मृशस्वैव । उत्थापय । किमर्थम्। **महे** महते **राधसे** अन्नाय । तथा हे शूर **मघवन्** इन्द्र **उत्** मृशस्व **मह्यै** महते मघत्तये धनदानाय । तथा **उत्** मृशस्व **इन्द्र** **महे** महत्यै **श्रवसे** कीर्त्यै ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O hero, giver of dwellings, raise up to enjoy abundant food; raise us up, **Maghavan**, for abundantwealth; raise us up, **Indra**, for abundant fame.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Shape us up for your great generosity, o good one, champion—  
 (shape us) up for your great giving of bounty, bounteous one; (shape  us) up for great fame, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The lexeme ud √mṛś is found only here in early Vedic, but like other combinations of √mṛś ‘touch’ + preverb, it seems to have a slightly slangy sense. Grassmann “jemand [A.] emporheben zu [D.],” but the sense of touch is lost. Geldner “Streck fein (die Hand) für uns aus,” which fails to render both the root meaning and the preverb.
 
@@ -140,23 +140,23 @@ My “shape us up” attempts to render both, with the sense “make us ready/wo
 Note the alliteration: ab … mahé, mṛśasva … and esp. cd … mahyaí maghavan magháttaye, … mahé# This is the culmination of a play on mah- and magha- forms in the central part of the hymn: 6a mahinā́, 6c maghavan, 8a mahó mahā́yyam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Vasu, O thou Hero, raise us up to ample opulence.  
      Raise us to gain of mighty wealth, O Maghavan, O Indra, to sublime renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Streck fein die Hand für uns aus, du Guter, zu großer Freigebigkeit, du Held, zu großer Gabe, du Gabenreicher, zu großem Ruhme, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O hebe, guter, uns empor, zu grossem Schatze schnell, o Held, Empor, o reicher, uns zu reichem Schatzempfang, Idra, empor zu hohem Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

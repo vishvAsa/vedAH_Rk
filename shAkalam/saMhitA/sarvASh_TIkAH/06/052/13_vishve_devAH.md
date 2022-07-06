@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे देवाः शृणुते꣡मं꣡ ह꣡वम् मे  
 ये꣡ अन्त꣡रिक्षे य꣡ उ꣡प द्य꣡वि ष्ठ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आस꣡द्यास्मि꣡न् बर्हि꣡षि मादयध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ये । अ॒ग्नि॒ऽजि॒ह्वाः । उ॒त । वा॒ । यज॑त्राः । आ॒ऽसद्य॑ । अ॒स्मिन् । ब॒र्हिषि॑ । मा॒द॒य॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], vocative, plural, masculine
@@ -134,14 +134,14 @@ genre M
 हे **विश्वे** **देवाः** **मे** मदीयम् **इमं** **हवम्** आह्वानं **शृणुत**। **ये** यूयम् **अन्तरिक्षे** **स्थ** अन्तरिक्षलोके वर्तमाना भवथ । **ये** च **उप** तत्समीपस्थे भूलोके भवथ। ये च **द्यवि** द्युलोके स्थ । **ये** च **अग्निजिह्वाः** । अग्निर्जिह्वास्थानीयो येषाम् । यद्वा । अग्नेर्जिह्वा । तया पोष्यमाणत्वात अग्निजिह्वा इत्युच्यन्ते । **उत** **वा** अपि वा ये **यजत्राः** यजनीयाः ते सर्वे यूयम् आस्तीर्णे **अस्मिन्** **बर्हिषि** **आसद्य** उपविश्य **मादयध्वं** सोमेनात्मानं तर्पयथ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Universal gods, hear this my invocation, whether you be in the firmament or in the heaven; you who (receive oblations) by the tongue of **Agni**, or are to be (otherwise) worshipped; seated on this sacred grass, be exhilarated (by the **Soma**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All you gods, hear this call of mine—you who are in the midspace or  you who are in heaven,  
 you who have Agni as your tongue or you who are the means of  
@@ -149,7 +149,7 @@ sacrifice. Having sat on this ritual grass here, bring yourselves to
 exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The disjunctive pairing yé agnijihvā́utá vā yájatrāḥ is puzzling if we take the utá vā seriously. Klein’s tr. (DGRV II.168-69) can stand for the standard tr.: “which ones have Agni as their tongue or are worthy of worship.” Klein considers this an example of “opposed but nonantonymous terms” giving a “subcategorization of heavenly ones.” But when so rendered there seems to be no distinction between the two groups: the general run of gods who are worthy of the sacrifice also receive those oblations through Agni -- there’s no reason for a vā. I am therefore inclined to pay attention to the -tra instrument suffix on yájatrāḥ: ‘the instruments or means of sacrifice’. Such an interpr. divides the set into those who require Agni as intermediary and those who directly effect the sacrifice. Exactly who the latter might be, I’m not certain -- perhaps only Soma. If I am correct, yájatra- is used differently from yajñíya- in the next vs. But see vs. 17 where yájatra- does not seem to have the instrument sense.
 
@@ -162,23 +162,23 @@ I consider these three vss. as a tṛca. They are thematically unified, by their
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Listen, All-Gods, to this mine invocation, Ye who inhabit heaven, and air's midregions,  
      All ye, O Holy Ones, whose tongue is Agni, seated upon this sacred grass, be joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Götter, erhöret diesen Ruf von mir, die ihr in der Luft, die ihr am Himmel seid, die ihr den Agni zur Zunge habt, oder die ihr sonst opferwürdig seid, nehmet Platz auf diesem Barhis und ergötzet euch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Götter alle, höret hier mein Rufen, die ihr im Himmel und in weiter Luft seid, Die, hehre, ihr mit Agni's Zunge trinket, berauscht euch hier, auf diese Streu euch setzend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Все-Боги, слушайте этот мой призыв, –  
 (Те,) что находятся в воздухе, что на небе,  

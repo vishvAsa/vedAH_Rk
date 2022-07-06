@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवस्यते꣡ स्तुवते꣡ कृष्णिया꣡य  
 ऋजूयते꣡ नासतिया श꣡चीभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विष्णापु꣡वं ददथुर् वि꣡श्वकाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प॒शुम् । न । न॒ष्टम्ऽइ॑व । दर्श॑नाय । वि॒ष्णा॒प्व॑म् । द॒द॒थुः॒ । विश्व॑काय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avasyate* ← *avasā* ← *√sā*
 - \[verb noun\], dative, singular
@@ -101,7 +101,7 @@ genre M
 **अवस्यते** अवनं रक्षणमात्मन इच्छते । **स्तुवते** स्तुतिं कुर्वते **कृष्णियाय** । कृष्णो नाम कश्चित् । तस्य पुत्राय **ऋजूयते** आर्जवमिच्छते **विश्वकाय** एतत्संज्ञाय ऋषये हे नासत्यौ युवां **शचीभिः** आत्मीयैः कर्मभिः **विष्णाप्वं** नाम विनष्टं पुत्रं **दर्शनाय** दर्शनार्थं **ददथुः** दत्तवन्तौ । तत्र दृष्टान्तः । **पशुं** न **नष्टमिव** । एक उपमार्थीयः पूरकः । यथा कश्चिद्विनष्टं पशुं स्वामिनो दृष्टिपथं प्रापयति तद्वत् ॥ अवस्यते । अवःशब्दात् “ सुप आत्मनः क्यच् '। शतुरनुमः' इति विभक्तेरुदात्तत्वम् । कृष्णियाय । कृष्णशब्दादपत्यार्थे छान्दसो घच् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,29 +112,29 @@ genre M
 Kṛṣṇa, Viśvaka and Viṣṇāpu were ṛṣis
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Viśvaka Kr̥ṣṇiya, who was seeking your help and singing your praise,  who was aiming straight, Nāsatyas, you gave by your powers  
 Viṣṇāpū to be seen (once more), like a lost animal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Visvaka, Nasatyas! son of Krsna, the righteous man who sought your aid and praised you,  
      Ye with your powers restored, like some lost creature, his son Visnapu for his eyes to look on.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den schutzsuchenden, lobpreisenden Visvaka Krisniya, dem rechtschaffenen, gabet ihr Nasatya´s durch eure Künste den Visnapu, der wie ein Stück Vieh verloren war, zum Wiedersehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Viçvaka, dem Krischnaspross, o Treue, dem hülfsbegier'gen Sänger, dem gerechten, Habt den Vischnapu ihr gebracht zum Anblick, wie ein verirrtes Vieh, durch eure Kräfte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ищущему помощи, восхваляющему (вас) Вишваке Кришние  
 Благочестивому, о Насатьи, (своими) силами  

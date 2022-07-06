@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तनूत्य꣡जेव त꣡स्करा वनर्गू꣡  
 रशना꣡भिर् दश꣡भिर् अभ्य् अ᳡धीताम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युक्ष्वा꣡ र꣡थं न꣡ शुच꣡यद्भिर् अ꣡ङ्गैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इ॒यम् । ते॒ । अ॒ग्ने॒ । नव्य॑सी । म॒नी॒षा । यु॒क्ष्व । रथ॑म् । न । शु॒चय॑त्ऽभिः । अङ्गैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tanūtyajeva* ← *tanūtyajā* ← *tanūtyaj*
 - \[noun\], nominative, dual, masculine
@@ -123,7 +123,7 @@ genre M
 उखासंभरणीयेष्टावग्नेर्ब्रह्मण्वतो याज्या ‘ ब्रह्म च ते ' इत्येषा । सूत्रितं च--- ब्रह्म च ते जातवेदो नमश्च पुरूण्यग्ने पुरुधा त्वाया' (आश्व. श्रौ. ४. १) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 Daring: tanutyaja = body-abandoning,martum kṛtaniśayau, ready to die, dhṛṣṭau, daring, bold; so the two **hands**: as two daring robbers going in awood lay hold of with ten ropes, tanutyajeva **taskarā** vanargū raśanābhir daśabhir abhyadhīyatām:**Yāska** 3.14: agnimanthanau bāhū taskarābhyām upamimīte, two arms churning the fire are compared totwo thieves
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like thieves who go into the woods risking their lives, the two (arms)  have harnessed (the firewood? Agni?) with ten cords [=fingers].  
 Here for you, Agni, is a newer inspired thought: hitch it up like a chariot  with your blazing limbs.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like thieves who risk their lives and haunt the forest, the twain with their ten girdles have secured him.  
      This is a new hymn meant for thee, O Agni: yoke as it were thy car with parts that glitter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie zwei im Walde streifende Räuber, die ihr Leben einsetzen, haben beide Arme mit zehn Stricken das Reibholz festgebunden. Diese neueste Dichtung ist für dich, Agni; bespanne gleichsam deinen Wagen mit deinen flammenden Gliedern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Umwunden von zehn Stricken sind die Hölzer, ein Räuberpaar, verzweifelnd an der Rettung; Dies ist, o Agni, deine neuste Absicht: den Wagen schirre wie mit Flammengliedern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как два рискующих жизнью разбойника, бродящих по лесу,  
 (Две руки) связали десятью веревками (дощечки для трения).  

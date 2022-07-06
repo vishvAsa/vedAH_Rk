@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि त्यं꣡ हर्यतं꣡ ह꣡रिम्  
 बभ्रु꣡म् पुनन्ति वा꣡रेण  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 म꣡देन सह꣡ ग꣡छति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । दे॒वान् । विश्वा॑न् । इत् । परि॑ । मदे॑न । स॒ह । गच्छ॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -107,36 +107,36 @@ genre M
 **हर्यतं** सर्वैः स्पृहणीयं **हरिं** हरितवर्णं **बभ्रुं** बभ्रुवर्णं च **त्यं** तं सोमं **वारेण** वालेन पवित्रेण **परि** **पुनन्ति** परिशोधयन्ति । **यः** सोमः विश्वान् सर्वानिन्द्रादीन् **देवान्** **इत्** देवानेव **मदेन** मादकेन रसेन **सह** **परि** **गच्छति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Him, coveted (by all), green-tinted, brown, they purify with the filter; who goes to all the gods with (his) exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This delightful tawny brown one they purify all around with the fleece, him who circles around all the gods together with his  
 exhilarating drink.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him with the fleece they purify, brown, golden-hued, beloved of all,  
      Who with exhilarating juice goes forth to all the Deities.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie durchläutern diesen begehrten goldgelben braunen Soma mit dem Haarsieb, der mit seinem Rausche bei allen Göttern herumgeht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn klären durch die Wolle sie, den holden, lichten, goldnen Hengst, Der rings zu allen Göttern hin mit seinem Wonnetranke geht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Того желанного золотистого,  
 Бурого они очищают кругом через сито,  

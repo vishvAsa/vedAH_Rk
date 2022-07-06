@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡रयो धूम꣡केतवो  
 वा꣡तजूता उ꣡प द्य꣡वि  
 य꣡तन्ते वृ꣡थग् अग्न꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत॑न्ते । वृथ॑क् । अ॒ग्नयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *harayo* ← *harayaḥ* ← *hari*
 - \[noun\], nominative, plural, masculine
@@ -83,20 +83,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **हरयः** हरणशीलाः **वातजूताः** वातप्रेरिताः **धूमकेतवः** धूमध्वजाः **अग्नयः** **उप** **द्यवि** अन्तरिक्षे **वृथक्** पृथक् **यतन्ते** गच्छन्ति । पृथगित्यनेन सममव्ययं वृथगिति । पृथगित्येव वाजसनेयिनः पठन्ति (वा. सं. ३३. २)॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The consuming smoke-bannered fires, borne by the wind, spread diversely in the firmament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fallow bays with smoke as their beacon, sped by the wind up  toward heaven,  
 take up opposing positions—the fires.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/043/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ vṛ́thak is found only in these two vss. It is generally considered to be a fo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gold-coloured, bannered with the smoke, urged by the wind, aloft to heaven  
      Rise, lightly borne, the flames of fire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die goldgelben Feuer mit dem Rauch als Fahne streben vom Wind getrieben jäh gen Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Flammen rings von Rauch umwallt die goldnen ziehn mit Lust dahin Zum Himmel auf, vom Wind beeilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Золотистые огни с дымом-знамением,  
 Гонимые ветром, по доброй воле  

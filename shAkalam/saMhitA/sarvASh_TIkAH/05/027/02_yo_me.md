@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ मे शता꣡ च विंशतिं꣡ च गो꣡नां  
 ह꣡री च युक्ता꣡ सुधु꣡रा द꣡दाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने य꣡छ त्रि꣡अरुणाय श꣡र्म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वैश्वा॑नर । सुऽस्तु॑तः । व॒वृ॒धा॒नः । अग्ने॑ । यच्छ॑ । त्रिऽअ॑रुणाय । शर्म॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -131,7 +131,7 @@ genre M
 **यः** त्र्यरुणः **शता** **च** शतानि सुवर्णानां **गोनां** गवां **विंशतिं** **च** **युक्ता** रथेन युक्तौ **सुधुरा** सुधुरौ सुष्ठु धुरं वहन्तौ **हरी** अश्वौ **च** **मे** मह्यं **ददाति** अददात् हे **वैश्वानर** **अग्ने** **सुष्टुतः** अस्माभिः सम्यक्स्तुतः **ववृधानः** हविर्भिर्वर्धमानस्त्वं तस्मै **त्र्यरुणाय** **शर्म** सुखं **यच्छ** प्रयच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,34 +142,34 @@ genre M
 Hundres of suvarṇas: the text has only śatāni, the hundreds; suvaṇānām is implied, of suvarṇas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To him who gives to me a hundred and twenty cattle and two harnessed  fallow bays, compliant to the chariot-pole—  
 to Tryaruṇa offer protection, o Agni Vaiśvānara, o you who are well  praised and grown strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Protect Tryaruna, as thou art waxing strong and art highly praised, Vaisvanara Agni!  
      Who granteth me a hundred kine and twenty, and two bay horses, good at draught, and harnessed.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 To him who gives me one hundred 1 and twenty cows and two fallow steeds, harnessed and well-yoked, to Tryaruna grant thy protection, Agni Vaisvânara, who art highly praised and grown strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der mir hundert und zwanzig Rinder und ein Falbengespann schenkt, das gut im Joch geht: dem Tryaruna gewähre Schutz, o Agni Vaisvanara, wenn du schön gepriesen groß geworden bist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der mir hundertundzwanzig Kühe schenkt, ein Paar rotber Rosse, die an schöne Deichsel geschirrt sind, o allen Menschen holder Agni, dem Triaruna reiche Schutz, du vielgepriesener, starker.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тому,) кто дарит мне сто и двадцать коров  
 И двоих упряжных коней, послушных у дышла, –  

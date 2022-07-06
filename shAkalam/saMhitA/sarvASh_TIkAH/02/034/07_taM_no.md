@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ नो दात मरुतो वाजि꣡नं र꣡थ  
 आपान꣡म् ब्र꣡ह्म चित꣡यद् दिवे꣡-दिवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सनि꣡म् मेधा꣡म् अ꣡रिष्टं दुष्ट꣡रं स꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इष॑म् । स्तो॒तृऽभ्यः॑ । वृ॒जने॑षु । का॒रवे॑ । स॒निम् । मे॒धाम् । अरि॑ष्टम् । दु॒स्तर॑म् । सहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -126,14 +126,14 @@ genre M
 हेमरुतः तम्पुत्रन्नोस्मभ्यन्दात दत्त प्रयच्छत छान्दसःशपोलुक् कीदृशं वाजिनमन्नवन्तं बलवन्तंवार थेरंहणेयुष्मदीयेआगमनेनिमित्तभूतेसति दिवेदिवेप्रतिदिवसञ्चितयत् प्रज्ञापयत् युष्मद्गुणप्रख्यापकं- ब्रह्मस्तोत्रंआपानंआप्नुवन्तं अपिच इषमन्नंस्तोतृभ्योस्मभ्यन्दात प्रयच्छत तथावृजनेषुसङ्ग्रामेषुकार- वेस्तोत्रे वचनव्यत्ययः मेधांयुद्धप्रज्ञांसनिन्धनदातृत्वञ्च अरिष्टंशत्रुभिरहिंसितन्दुस्तरंशत्रुभिस्तरीतुमश- क्यंसहोबलञ्चप्रयच्छत ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us, **Maruts**, that (son) who shall enjoy abundance, and who shall be repeating your appropriate praises day by day to (induce) your coming; give food to those who praise you; to him who glorifies you in battles; (grant him) liberality, intelligence, and unimpaired unsurpassable vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Give us, o Maruts, a prizewinner (attached) to a chariot, a sacred  formulation that attains its object, conspicuous day after day.  
 (Give) refreshment to the praisers; to the bard in the (ritual)  
@@ -141,28 +141,28 @@ enclosures (give) as his gain wisdom and invulnerable might
 difficult to surpass.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the slight phonological play -- a: #svá ā́dám(e), b: #svadhā́m.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us a steed, O Maruts migbty in the car; prevailing prayer that brings remembrance day by day;  
      Food to your praisers, to your bard in deeds of might give winning wisdom, power uninjured, unsurpassed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schenket uns, ihr Marut, den Siegeshelden zu Wagen, erfolgreiches Segenswort, das Tag für Tag Eindruck macht, Speisesegen den Sängern, dem Dichter in dem Opferbund Lohn, die Gabe des Geistes, unverletzliche, unüberwindbare Stärke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O gebt, ihr Marut's, wie ein Ross am Wagen uns, Gebet das durchdringt, euch erinnernd Tag für Tag, Den Sängern Labung, dass der Dichter bei dem Fest erlange Weisheit, unversehrte Siegerkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дайте нам, о Маруты, этого (коня) к колеснице, приносящего награды,  
 Священное слово, достигающее цели, воздействующее день за днем,  

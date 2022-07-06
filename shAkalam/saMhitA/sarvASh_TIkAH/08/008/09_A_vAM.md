@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां वि꣡प्र इहा꣡वसे  
 अ꣡ह्वत् स्तो꣡मेभिर् अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ता꣡ नो भूतम् मयोभु꣡वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अरि॑प्रा । वृत्र॑हन्ऽतमा । ता । नः॒ । भू॒त॒म् । म॒यः॒ऽभुवा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -105,36 +105,36 @@ genre M
 हे **अश्विना** अश्विनौ **विप्रः** मेधावी स्तोता **इह** अस्मिन् यागे **अवसे** रक्षणार्थं स्तोमेभिः स्तोत्रैः **वां** युवाम् **आ** **अह्वत्** आहूतवान् । ह्वयतेर्लुङि ‘लिपिसिचिह्वश्च' इति च्लेरङादेशः । हे **अरिप्रा** । रिप्रमिति पापनाम । अपापौ हे **वृत्रहन्तमा** वृत्राणां शत्रूणां हन्तृतमौ **ता** तौ तादृशौ युवां **नः** अस्माकं **मयोभुवा** सुखस्य भावयितारौ **भूतं** भवतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wise adorer invokes you hither with praise, **Aśvins**, for protection; sinless, utter destroyers ofenemies, be to us the sources of felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The inspired poet has called you here for help, o Aśvins,  
 stainless ones, best smashers of obstacles: become joy itself for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The holy singer with his hymns hath called you, Asvins, hither-ward;  
      Best Vrtra-slayers, free from stain, as such bring us felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, Asvin, hat der Beredte mit Lobreden hierher zum Beistand gerufen. Ihr Fleckenlose, ihr Erzfeindetöter, seid uns Erfreuer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gerufen hat der Dichter hier zu Hülf' euch Ritter durch Gesang; Euch reine, feindvertilgende, so seid denn Freudebringer uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас двоих вдохновенный (поэт)  
 Восхвалениями позвал сюда на помощь, о Ашвины.  

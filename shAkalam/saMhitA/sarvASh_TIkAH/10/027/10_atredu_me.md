@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्रे꣡द् उ मे मंससे सत्य꣡म् उक्तं꣡  
 द्विपा꣡च् च य꣡च् च꣡तुष्पात् संसृजा꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡युद्धो अस्य वि꣡ भजानि वे꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स्त्री॒ऽभिः । यः । अत्र॑ । वृष॑णम् । पृ॒त॒न्यात् । अयु॑द्धः । अ॒स्य॒ । वि । भ॒जा॒नि॒ । वेदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atred* ← *atra*
 - \[adverb\]
@@ -143,36 +143,36 @@ popular
 **मे** मम **अत्र** अस्मिन् स्तोत्रे **उक्तं** मया कथितं **सत्यमित्** यथाभूतमेव **मंससे** त्वं जानीहि । अर्थवादरूपेण नैतदध्यारोपितगुणमित्यर्थः। **उ** इति पूरणः । किंच **द्विपाच्च** मनुष्यादिकं च **चतुष्पात्** च पश्वादिकं च **यत्** स्थावरजङ्गमात्मकं जगत् **संसृजानि** अहमुत्पादयनीति त्वं जानीहि । **अत्र** अस्मिञ्जगति **स्त्रीभिः** स्त्रीसदृशैः बलादिहीनैः पुरुषैः सह **यः** शूरंमन्यो जनः **वृषणम्** अभिलषितस्य वर्षितारं माम् । परित्यज्येति शेषः । **पृतन्यात्** युद्धं कर्तुमिच्छति अहम् **अस्य** ईदृशस्य स्वभूतं **वेदः** धनम् **अयुद्धः** तेन पुरुषेणायोद्धा सन् बलादपहृत्य **वि** **भजानि** स्तोतृभ्यो यष्टृभ्यश्च ददामीत्यर्थः ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Indra** speaks). You know that what is said by me at this time is the truth, that I may create both bipedsand quadrupeds. I distribute without conflict (among my worshippers) the wealth (that I have taken from him), who(neglecting me), the showerer of desires), wishes to contend with women.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] And just then you will consider this truly spoken by me—that  I shall bring the two-footed and the four-footed together.  
 Whoever then will fight the bull [=Indra] with women, I, who cannot be  combatted, will share out his possessions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 There wilt thou hold as true my spoken purpose, to bring together quadrupeds. and bipeds.  
      I will divide, without a fight, his riches who warreth here, against the Bull, with women.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann sollst du mein Wort für wahr halten, daß ich Mensch und Tier durcheinander bringen werde. Wer da den Bullen mit Weibern bekämpfen will, dessen Habe will ich kampflos verteilen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Vernimm nun hier auch meine wahre Rede; die Menschen und ihr Vieh will ich vertreiben; Der hier mit Weibern wider mich, den Stier, kämpft, dess Habe will ich ohne Kampf vertheilen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

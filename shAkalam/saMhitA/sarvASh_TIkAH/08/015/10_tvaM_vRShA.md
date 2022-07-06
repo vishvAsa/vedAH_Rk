@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ वृ꣡षा ज꣡नाना᳐म्  
 मं꣡हिष्ठ इन्द्र जज्ञिषे  
 सत्रा꣡ वि꣡श्वा सुअपत्या꣡नि दधिषे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 स॒त्रा । विश्वा॑ । सु॒ऽअ॒प॒त्यानि॑ । द॒धि॒षे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -88,7 +88,7 @@ genre M
 हे **इन्द्र** **वृषा** वर्षिता **त्वं** **जनानां** देवजनानां मध्ये **मंहिष्ठः** दातृतमः **जज्ञिरे** प्रादुर्भवसि । अत एव **विश्वा** सर्वाणि **स्वपत्यानि** शोभनैः पुत्रादिभिः सहितानि **सत्रा** सह **दधिषे** दातुं धारयसि । ददासि वा ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,14 +99,14 @@ genre M
 i.e. you give offspring, and all good things
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the bull of the peoples; you were born as the most  
 munificent, Indra.  
 In every way you have acquired all things that bring good descendants.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
 <details open><summary><h2>07-10 ...{Loading}...</h2></summary>
 
@@ -116,23 +116,23 @@ Every half-verse in this tṛca but 7c and 10c opens with a form of the 2nd sg. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, thou wast born the Lord of men, most liberal of thy gifts:  
      Excellent deeds for evermore are all thine own.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, bist als der Bulle der Völker, als der Freigebigste geboren. Du besitzest alle Mittel zu guter Nachkommenschaft vollzählig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der gabenreichste Männerherr, o Indra, bist du von Geburt; Du schenkest Kind und Kindeskind, gesegnete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты родился как бык народов  
 Как самый щедрый, о Индра,  

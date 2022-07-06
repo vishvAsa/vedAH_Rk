@@ -6,7 +6,7 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अग्नी꣡षो꣡मा हवि꣡षा सपर्या꣡द्  
 देवद्री꣡चा म꣡नसा यो꣡ घृते꣡न  
@@ -14,7 +14,7 @@ ChandaH = "जगती त्रिष्टुब्वा"
 विशे꣡ ज꣡नाय म꣡हि श꣡र्म यछतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 तस्य॑ । व्र॒तम् । र॒क्ष॒त॒म् । पा॒तम् । अंह॑सः । वि॒शे । जना॑य । महि॑ । शर्म॑ । य॒च्छ॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -117,41 +117,41 @@ genre D
 **यः** यजमानः **अग्नीषोमा** अग्नीषोमौ **देवद्रीचा** देवानञ्चता देवतापरायणेन श्रद्धायुक्तेन **मनसा** अन्तःकरणेन युक्तः सन् **हविषा** चरुपुरोडाशादिना **सपर्यात्** सपर्यति परिचरति । **यः** च यजमानः **घृतेन** आज्येनाप्नीषोमौ परिचरति । **तस्य** यजमानस्य **व्रतं** कर्म **रक्षतम्** । **अंहसः** पापात् तं च यजमानं **पातं** रक्षतम् । **विशे** यागेषु प्रविशते तस्मै **जनाय** यजमानाय **महि** महत् प्रभूतं **शर्म** सुखं **यच्छतं** दत्तम् । अग्नीषोमा । देवताद्वन्द्वे च ' इति उभयपदप्रकृतिस्वरत्वम् । सपर्यात् । ‘सपर पूजायाम् ' । कण्ड्वादिः । लेटि आडागमः । देवद्रीचा । देवानञ्चतीति देवद्र्यङ् । अञ्चतेः ' ऋत्विक् ' इत्यादिना क्विन् । ' अनिदिताम्' इति नलोपः ।  ‘ विष्वग्देवयोश्च टेरद्र्यञ्चतावप्रत्यये' (पा. सू. ६. ३. ९२ ) इति देवशब्दस्य टेः अद्र्यादेशः । तृतीयैकवचने  ‘ अचः' इति अकारलोपे ‘चौ ' इति दीर्घत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते ‘अद्रिसध्र्योरन्तोदात्तनिपातनं कृत्स्वरनिवृत्त्यर्थम् ' ( पा. सू. ६. ३. ९५. १ ) इति वचनात् अद्र्यादेशः अन्तोदात्त: । विशे ।  ‘ सावेकाचः' इति विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** and **Soma**, protect his sacrifice and defend him from illness, who, with a mind devoted to the gods, worships you with clarified butter and oblations; grant to the man engaged (in devotion) extreme felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will serve Agni and Soma with an oblation, with a mind  turned toward the gods, with ghee,  
 guard his (ritual) ordinance; protect him from narrow straits; to his  clan, to his people extend great shelter.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 saparyā́t in b echoes saparyáti in 2b, but displays the more usual case frame: acc. (god) + instr. (means of service). The instance in 2b takes acc. (means of service) + dat. (god), which is only otherwise found at X.37.1. The occurrence in this verse thus functions as a species of poetic repair.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso with oil and poured oblation honours, with God-devoted heart, Agni and Soma,--  
      Protect his sacrifice, preserve him from distress, grant to the sacrificer great felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer Agni und Soma mit Opfer ehrt, wer mit gottgerichtetem Denken, wer mit Schmalz, dessen Dienst nehmet beide in Obhut; schützet ihn vor Not, gewähret dem Clane, dem Volk euren mächtigen Schutz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer euch mit Trank, o Agni-Soma, ehret, mit gottergebnem Herzen, wer mit Butter, Ja, dessen Werk beschirmt ihr, schützt ihn vor Gefahr, dem Haus, den Leuten reichet grossen Schutz ihr dar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто почитает Агни и Сому жертвенным возлиянием,  
 Кто – мыслью, обращенной к богам, кто – жиром, –  

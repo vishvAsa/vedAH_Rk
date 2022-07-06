@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ ह य꣡द् वां देवया꣡ उ अ꣡द्रिर्  
 ऊर्ध्वो꣡ वि꣡वक्ति सोमसु꣡द् युव꣡भ्याम्  
 आ꣡ वल्गू꣡ वि꣡प्रो ववृतीत हव्यइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 आ । व॒ल्गू इति॑ । विप्रः॑ । व॒वृ॒ती॒त॒ । ह॒व्यैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -117,37 +117,37 @@ genre M
 **यत्** यदा **वां** युवां प्रति **देवयाः** देवौ युवां कामयमानः । **उ** इति पूरणः । **अयम्** **अद्रिः** अभिषवग्रावा **सोमसुत्** सोममभिषुण्वन् **युवभ्यां** युवाभ्यामर्थायाभिषुण्वन्निति संबन्धः। एवं कुर्वन् **ऊर्ध्वः** उन्नतः सन् **विवक्ति** उच्चैः शब्दयति तदानीं **वल्गू** सुन्दरौ युवां **विप्रः** मेधावी यजमानः **हव्यैः** हविर्भिः **आ** **ववृतीत** आवर्तयति ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the stone, seeking to propitiate you two divinities, is raised aloft, and loudly sounds, expressingfor you the **Soma**, then the pious worshipper brings you back, beautiful divinities, by his oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When this stone—seeking the gods, pressing the soma—speaks aloft to  you two,  
 the inspired poet should turn you enchanting ones here by the  
 oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time this stone of yours, the Gods' adorer, upraised, sounds forth for you as Soma-presser,  
      Let the priest bring you, Fair Ones, through oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn dieser aufgerichtete Preßstein, gottverehrend, somapressend für euch seine Stimme erhebt, so möchte der Redner mit seinen Opfergaben die Schönen herlenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn dieser Stein euch schönen Soma pressend voll Götterlust euch ruft, empor sich hebend, Dann locke euch der Sänger her durch Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда вот этот стремящийся к вам, двоим богам, камень,  
 Высоко поднятый, говорят, выжимая сому для вас,  

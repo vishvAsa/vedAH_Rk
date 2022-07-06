@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रीण꣡न्न् उ꣡प स्थाद् दि꣡वम् भुरण्यु꣡  
 स्थातु꣡श् चर꣡थम् अक्तू꣡न् वि꣡ ऊर्णोत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 श्री॒णन् । उप॑ । स्था॒त् । दिव॑म् । भु॒र॒ण्युः । स्था॒तुः । च॒रथ॑म् । अ॒क्तून् । वि । ऊ॒र्णो॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrīṇann* ← *śrīṇan* ← *śrī*
 - \[verb noun\], nominative, singular
@@ -76,7 +76,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 श्रीणन्निति द्वैपदं दशर्चं चतुर्थं सूक्तम् । तत्राध्ययनतः पञ्चर्चम् । ऋष्याद्याः पूर्ववत् ॥ विनियोगस्तु लैङ्गिकः ॥Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,12 +87,12 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Comprehending the virtues of all these: alternative, 'he alone surpasses the glories (mahitva) of all these gods'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bringing (the sacrifice) to readiness, bustling about, he approaches heaven. He discloses the still and the moving through the nights,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For this interpr. of śrīṇán, which lacks overt object, see Narten 1987: 281 (=KlSch p. 351).
 
@@ -101,28 +101,28 @@ Rather than taking aktū́n as a second object with vy ū̀rṇot, I make it an 
 On the metrical shape of carátham see I.66.9.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COMMINGLING, restless, he ascends the sky, unveiling nights and all that stands or moves,  
      As he the sole God is preeminent in greatness among all these other Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Cooking 1 (the oblations?) the quick one has approached the sky. He has revealed the nights and what stands and moves 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Schmalzlöffel mischend steigt er eilfertig gen Himmel. Was geht und steht, die Nächte deckt er auf
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Himmel stieg er, – geschäftig flammend, enthüllt' die Nächte, – was steht und wandert; Da er von diesen, – den Göttern allen, der Gott an Grösse – allein hervorragt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

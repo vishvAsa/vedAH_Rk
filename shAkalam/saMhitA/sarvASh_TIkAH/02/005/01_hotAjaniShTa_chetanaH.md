@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हो꣡ताजनिष्ट चे꣡तनः  
 पिता꣡ पितृ꣡भ्य ऊत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 शके꣡म वाजि꣡नो य꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽयक्ष॑न् । जेन्य॑म् । वसु॑ । श॒केम॑ । वा॒जिनः॑ । यम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hotājaniṣṭa* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
@@ -93,7 +93,7 @@ genre M
 होताहोमनिष्पादकः चेतनः चेतयितास्मदनुष्ठितस्यपितापालकोस्मद्यज्ञस्यईदृशोग्निरजनिष्ट उत्पन्नः किमर्थम्पितृभ्यः पालकेभ्योयजमानेभ्यः षष्ठ्यर्थेचतुर्थी तेषामूतयेरक्षणायच वयञ्चवाजिनः हविर्लक्षणान्नवन्तःसन्तः प्रयक्षम्प्रकर्षेणपूज्यं जेन्यञ्जेतव्यं यमंयमयितव्यं वसुधनं शकेम शक्ताभूयास्म लब्धुमितिशेषः यद्वा वाजिनोन्नस्ययमंयमनङ्कर्तुंशकेमप्रयक्षञ्जेन्यंवसुधनमित्युपमानंउक्तलक्षणन्धन- मिवतत् यथावरोद्धंशाक्नुमस्तद्वत् ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,39 +104,39 @@ genre M
 An invoker of the gods: **hotā**; in this and following hymn, **Agni** is addressed, identified with or person nified by, several of the individual priests employed at sacrifices; for the preservation of our patrons: pitṛbhyaḥ ūtaye, for protection to the **pitṛs**; **pitr**. = **pālaka**, or **yajamāna**, the patron or instrumental tutor of the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As Hotar he has just been born, conspicuous, as a father to help his  fathers [=priests],  
 displaying noble goods. May we be able to control his prize-winning  (horses [=flames]).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On jénya- see comm. ad I.128.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HERALD and teacher was he born, a guardian for our patrons' help,  
      Earner by rites of noble wealth. That Strong One may we grasp and guide;
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The brilliant Hotri 1 has been born 2, the father to protect the fathers 3, aspiring after noble wealth. May we be able to bridle the strong (horse) 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ansehnliche Hotri ist jetzt geboren, der Vater zum Schutze für seine Väter, seinen angestammten Reichtum zur Schau tragend. Möchten wir im Stande sein, seine Rosse zu lenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise Priester ward erzeugt, der Vater, der den Vätern half, Der edles Gut durch Opfer bringt; zur Rosselenkung sei uns Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хотар родился, заметный (для всех),  
 Отец – на помощь (своим) отцам,  

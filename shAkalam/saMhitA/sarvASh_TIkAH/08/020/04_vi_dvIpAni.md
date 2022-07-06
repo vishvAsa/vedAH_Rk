@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ द्वीपा꣡नि पा꣡पतन् ति꣡ष्ठद् दुछु꣡ना  
 उभे꣡ युजन्त रो꣡दसी  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 य꣡द् ए꣡जथ स्वभानवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । धन्वा॑नि । ऐ॒र॒त॒ । शु॒भ्र॒ऽखा॒द॒यः॒ । यत् । एज॑थ । स्व॒ऽभा॒न॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 **द्वीपानि** द्वयोः पार्श्वयोरापो येषु तान्युदमध्यस्थलानि । **द्व्यन्तरुपसर्गेभ्योऽप** ईत्' (पा. सू. ६. ३. ९७ ) इतीत्वम् । 'ऋक्पूः इत्यादिनाकारः समासान्तः । तानि च **वि** **पापतन्** अत्यर्थं मरुद्वेगेन विपतन्ति । **तिष्ठत्** स्थावरं चान्यद्वृक्षजातं **दुच्छुना** दुःखेन युज्यते । **उभे** **रोदसी** द्यावापृथिव्यावपि **युजन्त** । ते मरुतः स्वागमनजनितेन कम्पनेन योजयन्ति । परोऽर्धर्चः परोक्षकृतः । **धन्वानि** गमनशीलान्युदकानि च **प्र** **ऐरत** प्रगच्छन्ति । हे **शुभ्रखादयः** शोभनायुधाः शोभनहविष्का वा हे **स्वभानवः** स्वायत्तदीप्तयः यूयं **यत्** यदा **एजथ** कम्पयथ । तदैतत्पूर्वोक्तं सर्वं निष्पद्यत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,14 +127,14 @@ genre M
 "The islands fall asunder, the firmest (trees) experience distress; they (the winds) distress heaven and earth; thewaters hurry onward, O bright-weaponed, self- shining ones, when you agitate them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The islands keep flying further apart; misfortune stands still; they  [=Maruts] yoke both world-halves.  
 The wasteplaces rise forth, when you stir (them), o you self-radiant  
 ones with beautiful bangles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. describes the effects of the monsoon. The first hemistich contains three injunctives (pā́patan, tíṣṭhat, and yujanta) and the last pāda a present (éjatha), but pāda c contains the apparently augmented airata. Given this collection of verbs, it is difficult to produce a consistent temporal interpretation. The injunctives can harmonize either with the preterital airata or with the presential éjatha, but those two are incompatible. A way out of this dilemma was shown by Hoffmann (Injunc, 210), who suggests that the “cacophonous hiatus” dhánvāni *īrata was avoided by substituting the augmented form for the injunctive. (It would be good to have other exx. of such a hiatus-avoiding technique, however.) The whole verse can then be interpr. as presential or “general.” This temporal value continues in vs. 5, also describing the effects of the storm, with two present-tense verbs.
 
@@ -151,23 +151,23 @@ Pādas 3a, 3c, and 4a all begin with vi, with the last example doubled ví (d)v�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Islands are bursting forth and misery is stayed: the heaven and earth are joined in one.  
      Decked with bright rings, ye spread the broad expanses out, when ye, Self. luminous, stirred yourselves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Inseln zerstieben, das Unheil breitet sich aus; sie spannen Himmel und Erde vor. Die Steppen kamen in Bewegung, wenn ihr Schönberingte euch aufmachet, ihr Selbstglänzende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Wolkeninseln stoben und das Unheil floh, und Erd' und Himmel eintet ihr, O Ring-geschmückte, eure Bogen drangen vor, wenn ihr euch regt, o leuchtende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разлетаются острова, рассеивается несчастье,  
 (Маруты) запрягают обе половины вселенной.  

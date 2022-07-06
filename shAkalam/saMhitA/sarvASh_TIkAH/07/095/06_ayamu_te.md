@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् उ ते सरस्वति व꣡सिष्ठो  
 द्वा꣡राव् ऋत꣡स्य सुभगे वि꣡ आवः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वर्ध॑ । शु॒भ्रे॒ । स्तु॒व॒ते । रा॒सि॒ । वाजा॑न् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -126,42 +126,42 @@ genre M;; repeated line
 हे **सुभगे** शोभनधने सरस्वति **अयं** **वसिष्ठः** **ते** त्वां यन्तुः **ऋतस्य** यज्ञस्य संबन्धिन्यौ **द्वारौ** पूर्वापरे **व्यावः** विवृणोति । **उ** इति पूरकः । हे शुभ्रे शुभ्रवर्णे देवि **वर्ध** वर्धस्व । तथा **स्तुवते** स्तोत्रं कुर्वते वसिष्ठाय **वाजान्** अन्नानि **रासि** प्रदेहि । अन्यद्गतम् ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Auspicious **Sarasvatī**, for you **Vasiṣṭha** has set open the two doors (the east and west) of sacrifice;white-complexioned (goddess), be magnified; bestow food on him who glorifies you; and do you (gods) evercherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this Vasiṣṭha here has opened up the doors of truth for you,  
 well-portioned Sarasvatī.  
 Strengthen (him?), resplendent one; grant prizes to the praiser. – Do you  protect us always with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou seem to take vā́jān as the obj. of várdha as well as rāsi, while I supply Vasiṣṭha, the subject of the preceding hemistich.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thee, O Blest Sarasvati, Vasistha hath here unbarred the doors d sacred Order.  
      Wax, Bright One, and give strength to him who lauds thee. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Vasistha hat dir, o holde Sarasvati, die Pforte des Gesetzes geöffnet. Mehre, du Schöne, schenke dem Sänger Belohnungen.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So hat Vasischtha dir des Opfers Thore, Sarasvati, erschlossen, hochbeglückte; O schöne, gib dem Sänger reichlich Labung. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот Васиштха, о Сарасвати,  
 Раскрыл для тебя врата закона, о несущая счастье.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡पाता श꣡वसो महः꣡  
 सूनू꣡ द꣡क्षस्य सुक्र꣡तू  
 सृप्र꣡दानू इषो꣡ वा꣡स्तु अ꣡धि क्षितः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सृ॒प्रदा॑नू॒ इति॑ सृ॒प्रऽदा॑नू । इ॒षः । वास्तु॑ । अधि॑ । क्षि॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *napātā* ← *napāt*
 - \[noun\], nominative, dual, masculine
@@ -92,19 +92,19 @@ genre M
 **महः** महतः **शवसः** बलस्य **नपाता** नपातौ पौत्रौ । बलत उत्पादिताविति बलस्य पौत्रौ । तादृशौ **दक्षस्य** । दक्ष बृद्धौ शीघ्रार्थे च' इति दक्षो वेगः । तस्य **सूनू** पुत्रौ । बलाद्वेग इति तयोः पुत्रत्वम् । तौ **सुक्रतु** शोभनकर्माणौ **सृप्रदानू** प्रसृतधनादिदानौ मित्रावरुणौ **इषः** अन्नस्य **वास्तु** निवासस्थाने **अधि** **क्षितः** अधिवसतः । अधिशीङ् इति वास्तुनः कर्मसंज्ञा । क्षयतेः लटि छान्दसो विकरणस्य लुक्॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grandson sof mighty strength, son sof energy, doers of good deeds, liberal benefactors, they presideover the habitation of food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two grandsons of great strength, the sons of skill, strong-willed, possessing fat drops, dwell in the house of refreshment.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -114,23 +114,23 @@ The usual problem with (-)dānu-: ‘gift’ or ‘drop’ or both? In this case
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The offspring of a lofty Power, Daksa's Two Sons exceeding strong,  
      Who, Lords of flowing rain, dwell in the place of food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Enkel der großen Kraft, Daksa´s Söhne, die Einsichtsvollen, deren Gaben ausgedehnt sind, wohnen an der Stätte der Labung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Enkel grosser Allgewalt, die weisen Söhne hoher Kraft, Die Thau hinträufeln, wohnen in der Tränke Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два отпрыска великой силы,  
 Два сына Дакши, (они) с прекрасной силой духа,  

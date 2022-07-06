@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वस्ति꣡ प꣡न्थाम् अ꣡नु चरेम  
 सूर्याचन्द्रम꣡साव् इव  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 जानता꣡ सं꣡ गमेमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ genre M;; epic anuṣṭubh (424)
 पुनः॑ । दद॑ता । अघ्न॑ता । जा॒न॒ता । सम् । ग॒मे॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svasti*
 - \[noun\], accusative, singular, neuter
@@ -107,7 +107,7 @@ genre M;; epic anuṣṭubh (424)
 ‘
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,7 +120,7 @@ Punardadatā aghnatā jānatā = with one who gives again, one who does not kill
 Jānatā = by one knowing, one who does not cut an old acquaintance, madhiyas' cirakālam **gataḥ** ko **ayam** iti sandeham akurvatu, by one who does not feel any doubt, saying, whos is this of mine that has been long since gone away; all these apply to bandhujana, a kinsman: bandhujanena saṅgamemahi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With well-being we would follow along our path, like the Sun and  the Moon.  
 May we meet up with one who gives in return, who does not smite, with  one who knows.  
@@ -128,7 +128,7 @@ Maṇḍala V contains the largest collection of Marut hymns in the R̥gveda,  V
 riors, and their naturalistic existence as personifications of the monsoon/thun derstorm—without losing sight of their divinity and the benefits they provide  to men.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
 <details open><summary><h2>11-15 ...{Loading}...</h2></summary>
 
@@ -140,23 +140,23 @@ Its lexical hero is svastí-, a form of which appears in every pāda between 11a
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like Sun and Moon may we pursue in full prosperity our path,  
      And meet with one who gives again, -who knows us well and slays us not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glücklich wollen wir unseren Weg gehen wie Sonne und Mond; wir wollen mit einem zusammenkommen, der wiedergibt, der die Erwartung nicht vernichtet, der erkenntlich ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heil lasst unsern Pfad uns gehn, gleichwie die Sonne und den Mond, Gesellt mit dem, der wiedergibt, der nicht verletzt und weise ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На благо пусть идем мы по пути,  
 Словно солнце и луна!  

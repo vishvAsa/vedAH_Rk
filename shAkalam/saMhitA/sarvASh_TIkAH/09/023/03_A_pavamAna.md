@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पवमान नो भर  
 अर्यो꣡ अ꣡दाशुषो ग꣡यम्  
 कृधि꣡ प्रजा꣡वतीर् इ꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 कृ॒धि । प्र॒जाऽव॑तीः । इषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** सोम त्वं **नः** अस्मभ्यम् **अर्यः** अरेः **अदाशुषः** अप्रयच्छतः **गयं** गृहं गृहोपलक्षितं धनम् **आ** **भर** आहर । तथास्मभ्यं **प्रजावतीरिषः** च **कृधि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,28 +101,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The house of our enemy: a metonym for 'wealth'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring here to us, self-purifying one, the patrimony of the impious stranger. Produce refreshments along with progeny.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavamana, bring to us the unsacrificing foeman's wealth,  
      And give us food with progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Pavamana, bring du uns den Besitz des kargen hohen Herrn, schaffe gute Speisen samt Kindern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O bringe, rieselnder, uns her des gottvergessnen Feindes Schatz Und schaff uns kinderreiches Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Павамана, принеси нам  
 Имущество чужого, не почитающего (наших богов)!  

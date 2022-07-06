@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नो वि꣡ष्णुर् उत꣡ वा꣡तो अस्रि꣡धो  
 द्रविणोदा꣡ उत꣡ सो꣡मो म꣡यस् करत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उत꣡ त्व꣡ष्टा उत꣡ वि꣡भ्वा꣡नु मंसते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒त । ऋ॒भवः॑ । उ॒त । रा॒ये । नः॒ । अ॒श्विना॑ । उ॒त । त्वष्टा॑ । उ॒त । विऽभ्वा॑ । अनु॑ । मं॒स॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -147,43 +147,43 @@ genre M
 **उत** अपि च **नः** अस्माकं **विष्णुः** व्यापको देवः **मयस्करत्** । मय इति सुखनाम । सुखं करोतु । **उत** अपि च **वातः** वायुः **अस्रिधः** अहिंसकः सन् मयस्करत् । किंच **द्रविणोदाः** धनस्य दाता **सोमः** अपि मयस्करत् । **उत** अपि च **ऋभवः** **नः** अस्मभ्यं **राये** धनाय **अनु** **मंसते** अनुमन्यन्ताम् । **उत** **अश्विना** अश्विनौ च **उत** **त्वष्टा** देवः **उत** **विभ्वा** ऋभूणामन्यतमो देवः । एते सर्वेऽप्यनु मंसते । यद्वा । अनुमंस्त इति प्रत्येकं संबन्धनीयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Or may **Viṣṇu** grant us felicity, or the innoxious wind, or **Soma** the bestower of riches; or may the **Ṛbhus**, the **Aśvins**, **Tvaṣṭā**, or Vibhvan be favourably disposed to our enrichment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And may Viṣṇu and Wind—the unfailing ones—the Treasure-Giver and  Soma create joy for us.  
 And may the R̥bhus and Aśvins, and Tvaṣṭar and Vibhvan, consent to  wealth for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a asrídhaḥ is clearly pl., though it occurs in dual context (utá … víṣṇur utá vā́to asrídhaḥ). There seem to be 3 possibilities: 1) it also modifies the gods in pāda b, the Treasure-giver (draviṇodā́ḥ) and Soma; 2) it refers to the gods in general, as in I.3.9 víśve devā́so asrídhaḥ; 3) it refers to goddesses or the trio of goddesses so denominated in I.13.9 íḷā sárasvatī mahī́tisró devī́r mayobhúvaḥ / … asrídhaḥ (note mayobhúvaḥ like máyas karat in our pāda b). There is no clear way to choose, and it scarcely seems to matter. I would of course prefer the third possibility, since it involves a female presence in this vs., but the support for this possibility is not strong.
 
 The vs. contains the 3rd mention of Viṣṇu and the 2nd of the Aśvins; the other divinities are newly named.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Visnu also and Vata who injures none, and Soma granter of possessions give us joy;  
      And may the Rbhus and the Asvins, Tvastar and Vibhvan remember us so that we may have wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch Vishnu und Vata, die keinen Unfall erleiden, der Schätzegeber und Soma mögen uns Freude bringen. Auch die Ribhu´s sollen uns zum Reichtum ihre Erlaubnis geben und die Asvin, Tvastri und Vibhvan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schaffe Vischnu und der Wind, die holden, uns der Reichthumspender und auch Soma frohes Glück, Zu Reichthum mögen Ribhu's und das Ritterpaar und Tvaschtar, Vibhvan ihre Gunst erweisen uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также Вишну и Вата (и другие боги,) не знающие неудач,  
 Дравинодас и Сома пусть создадут нам радость!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अद्या꣡ देवा उ꣡दिता सू꣡रियस्य  
 नि꣡र् अं꣡हसः पिपृता꣡ नि꣡र् अवद्या꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D;; repeated line
 तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adyā* ← *adya*
 - \[adverb\]
@@ -122,14 +122,14 @@ genre D;; repeated line
 हे **देवाः** द्योतमानाः सूर्यरश्मयः **अद्य** अस्मिन्काले **सूर्यस्य** आदित्यस्य **उदिता** उदितौ उदये सति इतस्ततः प्रसरन्तो यूयम् अस्मान् **अंहसः** पापात् **निः** **पिपृत** निष्कृष्य पालयत । यदिदमस्माभिरुक्तं **नः** अस्मदीयं **तत्** मित्रादयः षड्देवता: ममहन्तां पूजयन्तु अनुमन्यन्ताम् । रक्षन्त्विति यावत् । **मित्रः** प्रमीतेस्त्रायकः अहरभिमानी देवः । **वरुणः** अनिष्टानां निवारयिता रात्र्यभिमानी । **अदितिः** अखण्डनीया अदीना वा देवमाता । **सिन्धुः** स्यन्दनशीलोदकाभिमानिनी देवता । **पृथिवी** भूलोकस्याधिष्ठात्री **द्यौः** द्युलोकस्य । उतशब्दः समुच्चये ॥ अद्य ।  ‘ निपातस्य च ' इति संहितायां दीर्घत्वम् । उदिता । उत्पूर्वात् एतेर्भावे क्तिन् । सुपां सुलुक्° ' इति डादेशः ।  ‘ तादौ च° ' इति गतेः प्रकृतिस्वरत्वम् । पिपृत।  ‘ पॄ पालनपूरणयोः पृ इत्येके'। लोटि जुहोत्यादित्वात् शपः श्लुः । द्विर्वचनोरदत्वहलादिशेषाः ।  ‘ अर्तिपिपर्त्योश्च ' इति अभ्यासस्य इत्वम् ।  ‘ सार्वधातुकमपित्' इति तशब्दस्य ङित्त्वे सति  ‘ ऋचि तुनुघ° ' इत्यादिना संहितायां दीर्घः ॥ ७ ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This day, gods, with the rising of the sun, deliver us from heinous sin; and may **Mitra**, **Varuṇa**, **Aditi**--ocean, earth and heaven, be favourable to this (our prayer).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Today, o gods, at the rising of the Sun, deliver us from distress and from  disgrace.  
 – This let Mitra and Varuıa grant to us, and Aditi, River, and Earth and  Heaven.  
@@ -141,28 +141,28 @@ quent frustrations. He also has clear thematic preoccupations. Approximately hal
 Because so much of Kakṣīvant’s artistry is bound up with his manipulation of  the Sanskrit language even at the phonological level, the special flavor of his poetry  is particularly hard to convey in translation, unfortunately.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This day, O Gods, while Surya is ascending, deliver us from trouble and dishonour.  
      This prayer of ours may Varuna grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 To-day, O gods, do ye at Sūrya's rising Release us from distress and from dishonour: This boon may Varuṇa and Mitra grant us. And Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter, helfet uns heute bei Aufgang der Sonne von Ungemach und Tadel! Das sollen uns Mitra, Varuna gewähren, Aditi, Sindhu, Erde und Himmel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Befreiet heute bei der Sonne Aufgang, o Götter, uns von Schmach und von Bedrängniss; Das mög' uns Mitra, Varuna gewähren und Aditi, das Meer und Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сегодня, о боги, на восходе солнца,  
 Переправьте нас через узость, через бесчестье!  

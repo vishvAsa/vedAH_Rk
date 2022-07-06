@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ये꣡ वि꣡श्वा पा꣡र्थिवानि  
 पप्र꣡थन् रोचना꣡ दिवः꣡  
 मरु꣡तः सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 म॒रुतः॑ । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -80,42 +80,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **ये** मरुतः **विश्वा** विश्वानि **पार्थिवानि** पृथिव्यां भवानि भूतजातानि **दिवः** द्युलोकस्य **रोचना** रोचमानानि ज्योतींषि च **आ** **पप्रथन्** सर्वत्र विस्तारितान्यकार्षुः । ‘प्रथ प्रख्याने'। ण्यन्तस्य चङि अत्स्मृदॄत्वरप्रथम्रदस्तॄस्पशाम् ' ( पा. सू. ७. ४. ९५ ) इत्यभ्यासस्यादादेशः ।  ‘ चङन्यन्यतरस्याम् ' इति स्वरेण मध्योदात्तः । तादृशान् **मरुतः** देवान् **सोमपीतये** सोमपानायाहमाह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(We invoke) those **maruts** to drink our **Soma**, who have spread our all the things of earth and theluminaries of heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who spread all the earthly realms here and the luminous  
 realms of heaven, (I call)  
 the Maruts to drink the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner and Oldenberg, I borrow huve ‘I call’ from 10 to govern pāda c. See also vs. 3 above with the same c pāda, there governed by (ā̇́) … gṛṇanti.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1 call, to drink the Soma, those Maruts who spread all realms of earth  
      And luminous regions of the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die alle irdischen Räume ausgebreitet haben und die Lichter des Himmels, die Marut lade ich zum Somatrunk.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die alle Lichter ausgespannt des Himmels und des Erdenraums, Die Maruts lad' ich ein zum Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что расширили все  
 Земные просторы, светлые пространства неба,  

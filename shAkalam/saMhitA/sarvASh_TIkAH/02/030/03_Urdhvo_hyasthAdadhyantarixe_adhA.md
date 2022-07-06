@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्वो꣡ हि꣡ अ꣡स्थाद् अ꣡धि अन्त꣡रिक्षे  
 अ꣡धा वृत्रा꣡य प्र꣡ वधं꣡ जभार  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तिग्मा꣡युधो अजयच् छ꣡त्रुम् इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मिह॑म् । वसा॑नः । उप॑ । हि । ई॒म् । अदु॑द्रोत् । ति॒ग्मऽआ॑युधः । अ॒ज॒य॒त् । शत्रु॑म् । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
@@ -132,14 +132,14 @@ genre M
 हेर्हेतो यम्सदयंवृत्रः अन्तरिक्षेऊर्ध्वःस्न् सर्वमावृत्याध्यस्थात् अधिष्ठतोभूत् अधअत्ःकारणात् वृत्रायवृत्रम्प्रतिवर्धंहननसाधनं वज्रंइन्द्रः प्रजभार प्रचिक्षेप हृग्रहोर्भः सहिखलुवृत्रोमिहंवृष्टेः सेक्तारम्मेघंवसानः आच्छादयत् ईमेनमिन्द्रंउपादुद्रोत् उपागमत् दुद्रुगतौ लङिछान्दसः शपः श्लुः तिग्मायुधः तीक्ष्णायुधः इन्द्रः शत्रुंशातयितारन्तंवृत्रंअजयत् जितवान् ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch as he had soared aloft above the firmament **Indra** hurled against **Vṛtra** his destructive (thunderbolt); enveloped in a cloud, he rushed upon Indra, but the wielder of the sharp-edged weapon triumphed over his foe.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For he took his stand, erect, in the midspace. Then he bore his  
 murderous weapon down toward Vr̥tra.  
@@ -147,7 +147,7 @@ Clothing himself in mist, he [=Vr̥tra] ran up to him. Having sharp
 weapons Indra conquered his rival.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is a fairly straightforward account of the Indra-Vṛtra battle, though Indra’s name doesn’t appear until the last word.
 
@@ -158,23 +158,23 @@ The prá √bhṛ expression may be slyly alluded to even in our vs. 2, where pr
 In c Vṛtra must be the subj., even though it breaks the pattern: Indra is the unexpressed subj. of a and b and postposed subj. of d. However, Vṛtra has a penchant for mist (e.g., I.32.13, V.32.4), and in this context it would uniquely identify him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aloft he stood above the airy region, and against Vrtra shot his deadly missile.  
      Enveloped in a cloud he rushed upon him. Indra subdued the foe with sharpened weapons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn aufrecht stand er im Luftraum und schleuderte auf Vritra seine Waffe, denn in Nebel sich hüllend hatte Vritra ihn angelaufen. Mit seiner scharfen Waffe besiegte Indra den Gegner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn aufgerichtet stand er in dem Luftraum, zu tödten Vritra, schwang er seine Keule; Im Dunst gehüllt griff er ihn an behende mit scharfer Waffe schlug den Dämon Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь он стоял прямо в воздухе  
 И метнул во Вритру смертельное оружие,  

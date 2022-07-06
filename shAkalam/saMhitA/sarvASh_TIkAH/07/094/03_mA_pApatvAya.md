@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ पापत्वा꣡य नो नरा  
 इ꣡न्द्राग्नी मा꣡भि꣡शस्तये  
 मा꣡ नो रीरधतं निदे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मा । नः॒ । री॒र॒ध॒त॒म् । नि॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -95,35 +95,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **नरा** नेतारौ **इन्द्राग्नी** **नः** अस्मान् **पापत्वाय**  हीनभावाय **मा** **रीरधतम्** । तथा **अभिशस्तये** शत्रुभिः कृतायाभिशंसनाय **मा** रीरधतम् । तथा **निदे** निन्दकाय जनाय **नः** अस्मान् **मा** रीरधतं मा वशीकुरुतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders of (rites), **Indra** and **Agni**, subject us not to wickedness, nor to calumny, nor to the reviler.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Agni, you superior men—not to evil, nor to imprecation make us subject—nor to scorn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us not up to poverty, ye Heroes, Indra-Agni, nor  
      To slander and reproach of men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Überantwortet uns nicht dem Elend, noch der Verleumdung, ihr Herren Indra und Agni, noch dem Tadel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht gebt uns Preis der Dürftigkeit, o Indra-Agni, noch dem Fluch; Nicht liefert uns dem Hasser aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не предайте нас ни жалкому состоянию, о два мужа.  
 О Индра-Агни, ни проклятью,  

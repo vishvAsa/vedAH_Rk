@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ नूनं꣡ त꣡विषीमन्तम् एषां  
 स्तुषे꣡ गण꣡म् मा꣡रुतं न꣡व्यसीनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उते꣡शिरे अमृ꣡तस्य स्वरा꣡जः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ये । आ॒शुऽअ॑श्वाः । अम॑ऽवत् । वह॑न्ते । उ॒त । ई॒शि॒रे॒ । अ॒मृत॑स्य । स्व॒ऽराजः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -118,20 +118,20 @@ genre M
 **तमु** तमेव पूर्वं स्तुतमेव **मारुतं** मरुतां संबन्धिनं तं **गणं** **तविषीमन्तं** दीप्तिमन्तं **नूनम्** अद्य **स्तुषे** । कीदृशां मरुताम् । **नव्यसीनाम्** ॥ लिङ्गव्यत्ययः ॥ नवतराणां स्तुत्यानां वा । **एषां** मारुतं गणम् । गणावयवभूता मरुतः । कीदृशा इत्युच्यते । **ये** मरुतः आश्वश्वाः शीघ्रगाम्यश्वोपेताः **अमवत्** बलवन्तो यथा भवन्ति तथा **वहन्ते** गच्छन्ति। **उत** अपि च **ईशिरे** ईश्वरा भवन्ति **अमृतस्य** उदकस्य **स्वराजः** स्वायत्तदीप्तयः स्वयमेव राजमानाः तेषां गणं स्तुषे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I praise today that brilliant company of the adorable **Maruts**, lords of swift horses, who pass along in strength, who, self-radiant, preside over the ambrosial rain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now will I praise this (flock) full of power, their Marutian flock of newer  (hymns [=thunderclaps]),  
 those possessing swift horses who drive themselves impetuously and who  as self-rulers are masters of the immortal—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the phrase … gaṇám mā́rutaṃ návyasīnām with its problematic fem. gen. pl. návyasīnām, see the extensive disc. ad V.53.10.
 
@@ -146,23 +146,23 @@ The sequence utéśire is entirely ambiguous between utá īśire and utá ī́�
 The Pp. reads the unaccented verb, but the utá suggests that the verb is conjoined with váhante and belongs to the rel. cl. and should therefore be accented.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now do I glorify their mighty cohort, the company of these the youthful Maruts,  
      Who ride impetuous on with rapid horses, and radiant in themselves, are Lords of Amrta.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jetzt will ich diese ihre kraftvolle Schar, die marutische, preisen, der Jüngsten, die mit raschen Rossen ungestüm fahren, und als freie Herren sind sie im Besitz der Unsterblichkeit;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich will nun preisen die mit Kraft begabte Heerschar der Maruts, dieser neuerstandnen, Die rasch an Rossen kühnen Andrangs fahren, Unsterblichkeit besitzend, selber leuchtend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу сейчас прославить полную сил  
 Толпу марутов – самых новых из них,  

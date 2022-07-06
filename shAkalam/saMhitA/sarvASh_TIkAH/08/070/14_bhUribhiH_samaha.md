@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡रिभिः समह ऋ꣡षिभिर्  
 बर्हि꣡ष्मद्भि स्तविष्यसे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 छ꣡र वत्सा꣡न् पराद꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । इ॒त्थम् । एक॑म्ऽएकम् । इत् । शर॑ । व॒त्सान् । प॒रा॒ऽददः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūribhiḥ* ← *bhūri*
 - \[noun\], instrumental, plural, masculine
@@ -96,7 +96,7 @@ genre M
 हे इन्द्र **समह** समानपूज। सर्वैः पूज्येत्यर्थः। **भूरिभिः** बहुभिः **ऋषिभिः** अतीन्द्रियज्ञैर्ऋत्विग्भिः **बर्हिष्मद्भिः** यागवद्भिः **स्तविष्यसे** स्तूयसे। **यत्** य इन्द्रः **इत्थमेकमेकमित्** एकमेकमेव वत्समित्येवं बहून् **वत्सान्** स्तोतृभ्यः **पराददः** प्रयच्छसि। हे **शर** हिंसक शत्रोः । अत्र वत्सशब्दो वत्समातॄणां गवामुपलक्षकः । गाः प्रयच्छसीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,28 +109,28 @@ In succession: ekam ekam = one byone, i.e., many;
 Calves = calves and cow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Will you be praised in any way by many seers provided with ritual grass, Śara, if you will hand over your calves in just this way, one by one?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By many a sage whose grass is trimmed thou art continually praised,  
      That thou, O Sara, hast bestowed here one and here another'calf.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von vielen opfernden Rishi´s wirst du jedenfalls gepriesen werden, wenn du, Sara, also die Kälber, jedesmal eines, verschwendest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von vielen Sängern, die mit Streu versehn sind, wirst du vielfach gepriesen werden, weil du, o Çara, einen nach dem andern mit Kälbern beschenktest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

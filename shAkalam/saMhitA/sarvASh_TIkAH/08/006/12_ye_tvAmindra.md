@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ त्वा꣡म् इन्द्र न꣡ तुष्टुवु꣡र्  
 ऋ꣡षयो ये꣡ च तुष्टुवुः꣡  
 म꣡मे꣡द् वर्धस्व सु꣡ष्टुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मम॑ । इत् । व॒र्ध॒स्व॒ । सुऽस्तु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -92,20 +92,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **ये** जनाः **त्वां** **न** **तुष्टुवुः** न स्तुवन्ति **ये** **च** **ऋषयः** मन्त्राणां द्रष्टारो जनाः **तुष्टुवुः** त्वां स्तुवन्ति उभयेषां मध्ये **ममेत्** ममैव स्तोत्रेण **सुष्टुतः** शोभनं स्तुतः सन् **वर्धस्व** वृद्धो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Amid those who do not praise you, **Indra**, amid the Ṛṣis who do praise you, by my praise beingglorified, do you increase.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (There are those) who have not praised you, Indra, and seers who have  praised you,  
 but grow strong just (by) my (praise), as one well praised.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2 occurrences of tuṣṭuvúḥ are standardly interpr. as preterital (“… gepreisen haben”; see Geldner and Kümmel [578], as well as the published translation), but the context does not impose this value, and the existence of an augmented plupf. átuṣṭavam (III.53.12) with the same apparent meaning is disturbing. It is therefore possible that the verbs here should be rendered “… who do not praise you … who do praise you.” The existence of a pf. subj. in a nearby hymn, tuṣṭávat in VIII.8.16, also supports a presential interpr. of this pf.
 
@@ -122,23 +122,23 @@ This tṛca is characterized by emphatic pronominals: initial ahám 10a, 10c, 11
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whatever Rsis have not praised thee, Indra, or have lauded thee,  
      By me exalted wax thou strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So viele Rishi´s dich auch gepriesen haben und nicht gepriesen haben, Indra, nur an meinen Liedern erbaue dich schöngepriesen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn andre Sänger dich gelobt, und andre, Indra, nicht gelobt, So labe dich an meinem Lob.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто тебя, Индра, не восхвалял,  
 И какие риши (тебя) восхваляли...  

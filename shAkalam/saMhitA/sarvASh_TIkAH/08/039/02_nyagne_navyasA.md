@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ अग्ने न꣡व्यसा व꣡चस्  
 तनू꣡षु शं꣡सम् एषा᳐म्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 नि । अरा॑तीः । ररा॑व्णाम् । विश्वाः॑ । अ॒र्यः । अरा॑तीः । इ॒तः । यु॒च्छ॒न्तु॒ । आ॒ऽमुरः॑ । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ny* ← *ni*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M;; repeated line
 हे **अग्ने** **तनूषु** अस्माकमङ्गेषु **नव्यसा** नवतरेण **वचः** वचसा स्तोत्रेण **एषां** शत्रूणां **शंसं** शंसनं **नि** दहेत्यर्थः । **रराव्णां** हविः प्रयच्छताम् **अरातीः** शत्रूंश्च **नि** दह । अपि च **विश्वाः** सर्वे **अर्यः** अभिगच्छन्तः **आमुरः** आमूढाः **अरातीः** शत्रवः **इतः** युच्छन्तु गच्छन्तु । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M;; repeated line
 All our foolish assailants: āmuraḥ = āmūḍhāḥ; or, **bādhakaḥ**, rākṣsas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, (set) down on their [=gods’] bodies a laud with our newer  speech. (Put) down the hostilities of the hostile ones.  
 Let all the hostilities of the stranger, the hindrances keep away from here. – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c I read, with Oldenberg but contra Pp, árātīr árāva ṇām. This does not require emending the Saṃhitā text, but simply redividing the words.
 
@@ -161,23 +161,23 @@ We thus have two parallel expressions, pādas ab and cd, each beginning with ní
 “upon which Indra we have set our laud”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, burn down the word within their bodies through our newest speech,  
      All hatreds of the godless, all the wicked man's malignities. Away let the destroyers go. May all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch unsere neueste Rede halte, Agni, das böse Wort in ihren Leibern zurück; zurück die Mißgunst der Mißgünstigen, alle Mißgunst des hohen Herrn. Von hier sollen die Hindernisse weichen. All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aufs neue, Agni, stürz herab das Fluchwort auf ihr eignes Haupt, Herab der Frommen Schädiger, die bösen Frevler allesammt; Verderber seien fern von hier. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У(держи), о Агни, силою (нашей) новейшей речи  
 Хвалу в телах у тех (людей)!  

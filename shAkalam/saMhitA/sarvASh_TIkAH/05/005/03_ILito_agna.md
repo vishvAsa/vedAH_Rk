@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईळितो꣡ अग्न आ꣡ वह  
 इ꣡न्द्रं चित्र꣡म् इह꣡ प्रिय꣡म्  
 सुखइ꣡ र꣡थेभिर् ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 सु॒ऽखैः । रथे॑भिः । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īﾱito* ← *īﾱitaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
@@ -91,41 +91,41 @@ genre M
 हे **अग्ने** **ईळितः** स्तुतः सन् **आ** **वहेन्द्रं** **चित्रं** चायनीयं **प्रियम्** **इह** अस्मिन् यज्ञे **सुखैः** **रथेभिः** रथैः **ऊतये** अस्मद्रक्षणाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Agno, who are Īḷita, bring hither the wonderful and friendly **Indra**, with his easy going chariots for our protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When invoked, o Agni, convey here dear shimmering Indra  
 with his easy running chariots, to help us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Adored, O Agni, hither bring Indra the Wonderful, the Friend,  
      On lightly-rolling car to aid.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Agni, magnified by us, bring hither to our help the bright, beloved Indra, with easy-going chariots.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Berufen fahre du, Agni, den prächtigen lieben Indra hierher auf leichtem Wagen zur Gunsterweisung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepriesner Agni fahre du den lichten, lieben Indra her Auf schnellen Wagen zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Призванный  
 , о Агни, привези  

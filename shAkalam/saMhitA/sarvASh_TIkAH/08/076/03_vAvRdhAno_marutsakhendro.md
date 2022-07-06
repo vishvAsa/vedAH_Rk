@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वावृधानो꣡ मरु꣡त्सखा  
 इ꣡न्द्रो वि꣡ वृत्र꣡म् ऐरयत्  
 सृज꣡न् समुद्रि꣡या अपः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सृ॒जन् । स॒मु॒द्रियाः॑ । अ॒पः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāvṛdhāno* ← *vāvṛdhānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
@@ -83,36 +83,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयम् **इन्द्रः** **वावृधानः** वर्धमानः **मरुत्सखा** मरुत्सहायः **वृत्रं** मेघं **वि** **ऐरयत्** विदारितवान् । किं कुर्वन् । **समुद्रियाः** । समुद्रमन्तरिक्षम् । तत्संबन्धिन्यः **अपः** **सृजन्** ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** increasing in might, attended by the **Maruts**, has torn **Vṛtra** asunder, letting loose the waters ofthe firmament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having grown strong, with the Maruts as comrades, Indra propelled  Vr̥tra apart,  
 releasing the waters of the sea.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, with Marut Friends grown strong, hath rent asunder Vrtra, and  
      Released the waters of the sea.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erstarkt hat Indra mit den Marut als Kameraden den Vritra zerstückt, die nach dem Meere laufenden Gewässer freilassend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Umschart von Maruts trieb hinweg den Vritra Indra kraftbegabt Und liess des Meeres Wasser frei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

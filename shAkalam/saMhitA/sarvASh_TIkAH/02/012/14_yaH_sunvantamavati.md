@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ सुन्व꣡न्तम् अ꣡वति यः꣡ प꣡चन्तं  
 यः꣡ शं꣡सन्तं यः꣡ शशमान꣡म् ऊती꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡स्येदं꣡ रा꣡धः स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । ब्रह्म॑ । वर्ध॑नम् । यस्य॑ । सोमः॑ । यस्य॑ । इ॒दम् । राधः॑ । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -132,41 +132,41 @@ genre M
 यः सुन्वन्तं सोमाभिषवङ्कुर्वन्तंयजमानमवतिरक्षति यश्चपुरोडाशादीनिहवींषिपचन्तंयश्चउती- ऊतये सुपांसुलुगितिचतुर्थ्याःपूर्वसवर्णदीर्घः स्वरक्षायैशस्त्राणिशंसन्तंयश्चशशमानं अवति स्तोत्रङ्कु- र्वाणंरक्षति ब्रह्मपरिवृढंस्तोत्रंयस्यवर्धनंवृद्धिकरम्भवति तथायस्यसोमोवृद्धिहेतुर्भवति यस्यचइदम- स्मदीयंराधः पुरोडाशदिलक्षणमन्नंवृद्धिकरम्भवति सइन्द्रइत्यादिमसिद्धम् ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, who protects (the worshipper) offering the libation, or preparing (the mixed curds and butter), repeating his praise and soliciting his assistance, he, of whom the sacred prayer, the (offered) **Soma**, the (presented sacrificial) food, augment (the vigour); he, men, is **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who helps through his help the one pressing soma, the one cooking (an  offering), the one praising, the one laboring,  
 whose is the strengthening formulation, is the soma, is this gift – he, o  peoples, is Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who aids with favour him who pours the Soma and him who brews it, sacrificer, singer.  
      Whom prayer exalts, and pouring forth of Soma, and this our gift, He, O ye men, Is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Who with his aid helps him that presses Soma, That bakes and lauds and ever sacrifices; Whom swelling prayer, whom Soma pressings strengthen, And now this offering: he, O men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der mit seiner Gunst dem beisteht, der keltert und kocht, der vorträgt und das Opfer zugerichtet hat, für den die feierliche Rede eine Stärkung ist, für den diese Gabe - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der hilft dem Presser und dem Opferkocher, dem preisenden, dem wirkenden mit Beistand, Er, dem Gebete, Trunk und Opfergaben zur Stärkung sind, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто (своей) помощью помогает выжимающему, кто - варящему,  
 Кто – произносящему, кто – приготовляющему,  

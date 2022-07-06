@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः श꣡चीभिर् वृषणा परावृ꣡जम्  
 प्रा꣡न्धं꣡ श्रोणं꣡ च꣡क्षस ए꣡तवे कृथः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । वर्ति॑काम् । ग्र॒सि॒ताम् । अमु॑ञ्चतम् । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -138,7 +138,7 @@ genre M;; repeated line
 याभिः सिन्धु मधुमन्तुमसञ्चतं वसिष्ठं याभिरजरोवर्जिन्वतम् । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,28 +149,28 @@ genre M;; repeated line
 Parāvṛj, Ṛraśva and Śroṇa were ṛṣis. Prāndha was a totally blind ṛṣi (Ṛjraśva); Śroṇa is said to have been made to walk, though not a cripple. **Vārttika** = quail, may also be a bird like a sparrow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those powers with which, o bulls, you (helped) the outcaste, made the  blind to see, the lame to go, with which you released the quail that had been swallowed—with those  forms of help come here, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mighty Ones, with what powers ye gave Paravrj aid what time ye made the blind and lame to see and walk;  
      Wherewith ye set at liberty the swallowed quail,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit welchen Künsten ihr Bullen dem Aussetzling beistandet, dem Blinden und Lahmen zum Sehen und Gehen verhelft, mit denen ihr die verschlungene Wachtel befreitet - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit welchen Kräften, Helden, ihr dem Krüppel halft, den Lahmen gehend und den Blinden sehend macht, Mit denen die verschlungne Wachtel ihr gelöst, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими силами (вы,) два быка, (приходите на помощь) отверженному,  
 Слепого (и) хромого делаете способным видеть (и) ходить,  

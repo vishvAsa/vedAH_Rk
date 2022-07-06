@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्ता꣡स्यासन् परिध꣡यस्  
 त्रिः꣡ सप्त꣡ समि꣡धः कृताः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡बध्नन् पु꣡रुषम् पशु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 दे॒वाः । यत् । य॒ज्ञम् । त॒न्वा॒नाः । अब॑ध्नन् । पुरु॑षम् । प॒शुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -105,7 +105,7 @@ popular;; epic anuṣṭubh (380)
 **अस्य** सांकल्पिकयज्ञस्य गायत्र्यादीनि **सप्त** छन्दांसि परिधयः **आसन्** । ऐष्टिकस्याहवनीयस्य त्रयः परिधय उत्तरवेदिकास्त्रय आदित्यश्च सप्तमः परिधिप्रतिनिधिरूपः । अत एवाम्नायते--  न पुरस्तात्परि दधात्यादित्यो ह्येवोद्यन् पुरस्ताद्रक्षांस्यपहन्ति' (तै. सं. २.६.६.३) इति । तत एत आदित्यसहिताः सप्त परिधयोऽत्र सप्त छन्दोरूपाः । तथा **समिधः** **त्रिः** सप्त त्रिगुणीकृतसप्तसंख्याकाः एकविंशतिः **कृताः** । द्वादश मासाः पञ्चर्तवस्त्रय इमे लोका असावादित्य एकविंशः ( तै. सं. ५.१.१०.३) इति श्रुताः पदार्था एकविंशतिदारुयुक्तेध्मत्वेन भाविताः। यत् यः पुरुषो वैराजोऽस्ति ते **पुरुषं** **देवाः** प्रजापतिप्राणेन्द्रियरूपाः यज्ञं तन्वानाः मानसं यज्ञं तन्वानाः कुर्वाणाः पशुम् **अबध्नन्** विराट्पुरुषमेव पशुत्वेन भावितवन्तः । एतदेवाभिप्रेत्य पूर्वत्र ‘ यत्पुरुषेण हविषा' इत्युक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,30 +116,30 @@ popular;; epic anuṣṭubh (380)
 Seven enclosures: sapta paridhayaḥ = seven metres, ga-yatrīetc., and also as meaning the shallow trenches, three of which were dug round the **Āhavanīya** fireplace, threeround the northern altar, and the seven ideally dug round the sun to keep off evil spirits. paridhayaḥ = moats; or,the seven oceans; thrice seven pieces of fuel = twelve months of the year, the five seasons, the **three worlds** andthe sun; or the three classes of seven metres eaach: **Taittirīya** **Saṃhitā** 5.1.10.3
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Its enclosing sticks were seven; the kindling sticks were made three  times seven,  
 when the gods, extending the sacrifice, bound the Man as the  
 (sacrificial) animal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seven fencing-sticks had he, thrice seven layers of fuel were prepared,  
      When the Gods, offering sacrifice, bound, as their victim, Purusa.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn besprengten, weihten sie als Opfer auf dem Barhis, den am Anfang geborenen Purusa. Diesen brachten die Götter, die Sadhya´s und die Rishi´s sich zum Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen Streu; durch ihn opferten die Götter die Sādhja's [die zu gewinnenden] und die Rischi's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его как жертву кропили на жертвенной соломе,  
 Пурушу, рожденного в начале.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वे꣡ अग्ने वि꣡श्वे अमृ꣡तासो अद्रु꣡ह  
 आसा꣡ देवा꣡ हवि꣡र् अदन्ति आ꣡हुतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तुवं꣡ ग꣡र्भो वीरु꣡धां जज्ञिषे शु꣡चिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वया॑ । मर्ता॑सः । स्व॒द॒न्ते॒ । आ॒ऽसु॒तिम् । त्वम् । गर्भः॑ । वी॒रुधा॑म् । ज॒ज्ञि॒षे॒ । शुचिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -126,7 +126,7 @@ genre M
 हेअग्ने त्वेत्वयि विश्वेसर्वे अमृतासः अमरणधर्माणः अद्रुहः अद्रोग्धारोदेवाआसात्वदीये नास्येना- हुतंहविरदन्ति भक्षयन्ति आस्यशब्दस्यतृतीयैकवचनेपद्दन्नोमासित्यादिनाआसन्नादेशः ऊडिदम्पदादी- तिविभक्तेरुदात्तत्वं तथा मर्तासोमनुष्याःअपित्वयासाधनभूतेनासुतिंरसरूपमन्नादिकं स्वदन्ते आ- स्वादयन्ति त्वमेववीरुधांलतादीनाङ्गर्भोगर्भस्थानीयः तेषाम्मध्येवस्थानात् वसुः सर्वेषान्निवासभूतः शुचिः शुद्धःसन् जज्ञिषे उत्पादयसिसस्याद्यन्नम् ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,39 +137,39 @@ genre M
 Corn and other grains ripen by the heat of the sun or fire; the text has **śuci**, pure; this is interpreted as **vasu**, being the abode of all: sarveṣām nivāsabhūtaḥ san
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, through your mouth do all the undeceptive immortals, the  gods, eat the oblation poured into you.  
 With you the mortals sweeten their pressed drink. You, as embryo of  the plants, were born blazing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first half-verse is simply a rather crudely exploded version of 13d (also found in I.94.3), with tvé moved to front of first pāda and the second pāda otherwise intact. See Bloomfield's withering scorn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By thee, O Agni, all the Immortal guileless Gods eat with thy mouth the oblation that is offered them.  
      By thee do mortal men give sweetness to their drink. Bright art thou born, the embryo of the plants of earth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 In thee, O Agni, with (thy) mouth 1 all the guileless 2 immortal gods eat the offering which is offered to them. Through thee the mortals taste their drink. Thou hast been born, the bright one, as the child of the plants.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dir, Agni, verzehren all die Unsterblichen, die Truglosen, durch deinen Mund die Götter die geopferte Spende. Durch dich lassen sich die Sterblichen ihr Tränklein schmecken. Du bist als Leibesfrucht der Pflanzen rein geboren worden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir sind, o Agni, alle Götter wohlgesinnt, mit deinem Mund verzehren sie den Opfertrank; Durch dich verschönen ihr Gebräu die Sterblichen; du wirst geboren leuchtend als der Pflanzen Spross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В тебе, о Агни, все бессмертные, не поддающиеся обману  
 Боги (твоими) устами вкушают возлитое жертвенное возлияние.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शू꣡रग्रामः स꣡र्ववीरः स꣡हावाञ्  
 जे꣡ता पवस्व स꣡निता ध꣡नानि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡षाळ्हः साह्वा꣡न् पृ꣡तनासु श꣡त्रून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ति॒ग्मऽआ॑युधः । क्षि॒प्रऽध॑न्वा । स॒मत्ऽसु॑ । अषा॑ळ्हः । स॒ह्वान् । पृत॑नासु । शत्रू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śūragrāmaḥ* ← *śūra*
 - \[noun\], masculine
@@ -122,42 +122,42 @@ genre M
 हे सोम **पवस्व** त्वम् । कीदृशस्त्वम् । **शूरग्रामः** शूराणां ग्रामः संघो यस्य सः । **सर्ववीरः** । सर्वे वीरा यस्य स तथोक्तः । **सहावान्** सहनवान् **जेता** जयशीलः **सनिता** संभक्ता **धनानि** **तिग्मायुधः** तीक्ष्णप्रहरणसाधनः **क्षिप्रधन्वा** क्षिप्रसहनशीलधन्वा **समत्सु** संग्रामेषु **अषाळ्हः** असोढः **साह्वान्** अभिभवन् । कुत्र। **पृतनासु** शत्रुसेनासु । कान्। **शत्रून्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow you who have a host of warriors, who have all the heroes, full of strength, victorious, the giver of riches, sharp-weaponed, rapid bowman, irresistible in battle, overthrowing the enemy (arrayed) in (hostile) armies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having a horde of champions, having hale heroes, purify yourself as  victorious conqueror and winner of stakes,  
 with your sharp weapons and snapping bows invincible in combats,  
 vanquishing your rivals in battles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. also shows alliteration, this time of sibilants, esp. in pādas a (śū́ragrāmaḥ sárvavīraḥ sáhāvān) and d (áṣāḷhaḥ sāhvā́n pṛ́tanāsu śátrūn). It also contains forms from three different roots meaning (roughly) ‘conquer, win’: √sah (sáhāvān, áṣāḷhaḥ sāhvā́n), √ji (jétā), √san (sánitā).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Great Conqueror, warnor-girt, Lord of all heroes, flow on thy way as he who winneth riches;  
      With sharpened. arms, with swift bow, never vanquished in battle, vanquishing in fight the foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein überlegener Sieger mit tapferem Clane, mit lauter Männern, läutere dich, ein Gewinner von Schätzen, mit scharfen Waffen, mit schnellschießendem Bogen im Kampfe, ein unbezwungener Bezwinger der Feinde in den Schlachten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Umschart von Helden, alle Männer führend, ström hell, ein mächt'ger Sieger, Gut erbeutend, Im Kampf mit scharfen Waffen, schnellem Bogen, in Schlachten schlagend unbesiegt die Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С отрядом героев, со всеми мужами, покоряющий  
 Победитель, захватчик богатств, очищайся,  

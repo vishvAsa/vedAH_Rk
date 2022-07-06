@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡म् मे धि꣡यम् म꣡रुत इ꣡न्द्र दे꣡वा  
 अ꣡ददात वरुण मित्र यूय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कुवि꣡द् गि꣡रो अ꣡धि र꣡थे व꣡हाथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ताम् । पी॒प॒य॒त॒ । पय॑साऽइव । धे॒नुम् । कु॒वित् । गिरः॑ । अधि॑ । रथे॑ । वहा॑थ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
@@ -132,14 +132,14 @@ genre M
 हे मरुतो हे इन्द्र देवा हे वरुण हे मित्र यूयं यां धियम् यत्कर्म मे मह्यमददात दत्तवन्तः स्थ। मरुत इत्यत्र वाक्यभेदादनिघतः। पूर्वपूर्वस्याविद्यमानत्वेनाद्युदात्तत्वम् । तां धियं पीपयत। फलेनाप्याययत। तत्र दृष्टान्तः। पयसेव धेनुं नवप्रसूतिकां गां क्षीरेण यथाप्याययन्ति तद्वत् किञ्च। गिरोऽस्मदीयाः स्तुतीरधि रथ आत्मीये रथे कुविद्बहुवारं वहाथ। प्राप्ताः स्थ। स्तुतेषु सत्सु यज्ञं प्रत्यागमनाय रथारूधा भवथ॥१३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, **Indra**, gods, **Varuṇa** and **Mitra**, reward the worship, which you have given as (men fatten) the(newly-delivered) cow with milk, you have repeatedly put my praises on your car.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The insight that you gave me—you gods, Maruts, Indra,  
 Varuṇa, Mitra—  
@@ -147,23 +147,23 @@ make it swell like a milk-cow with milk. Surely you will convey the
 hymns on your chariot?1484 X.65
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The thought which ye, O Maruts, Indra and ye Gods have given to me, and ye, Mitra and Varuna,-  
      Cause this to grow and swell like a milchcow with milk. Will ye not bear away my songs upon your car?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Gedicht, das ihr mir eingegeben habt, o Marut, Indra, Varuna, Mitra, ihr Götter, das machet recht voll wie die Kuh mit Milch! Gewiß werdet ihr die Lobesworte auf eurem Wagen mitnehmen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies mein Gebet, das, Maruts, Indra, Götter ihr mir eingeflösst und ihr, o Mitra-Varuna, Das lasset schwellen wie durch Milch die Mutterkuh; ob meine Lieder ihr auf eurem Wagen fahrt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

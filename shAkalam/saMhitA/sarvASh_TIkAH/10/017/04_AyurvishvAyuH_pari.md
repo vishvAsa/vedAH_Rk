@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡युर् विश्वा꣡युः प꣡रि पासति त्वा  
 पूषा꣡ त्वा पातु प्र꣡पथे पुर꣡स्तात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡त्र त्वा देवः꣡ सविता꣡ दधातु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यत्र॑ । आस॑ते । सु॒ऽकृतः॑ । यत्र॑ । ते । य॒युः । तत्र॑ । त्वा॒ । दे॒वः । स॒वि॒ता । द॒धा॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āyur* ← *āyuḥ* ← *āyu*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ popular
 **विश्वायुः** सर्वान्नः सर्वत्र गमनशीलो वा **आयुः** । वकारलोपश्छान्दसः। वायुः । यद्वा । ‘छन्दसीणः' इत्युण्प्रत्यये वृद्धौ च कृतायां रूपम् । गन्ता वायुः । **त्वा** त्वां **परि** **पासति** परिपातु । पूषानुज्ञया परितो रक्षतु । 'पा रक्षणे '। लेटि सिप्यडागमः। **प्रपथे** प्रकृष्टे मार्गे स्वर्गे **पुरस्तात्** सर्वेषां प्रथममेव वर्तमानः **पूषा** स्वयमेव **त्वा** त्वां प्रमितं यजमानं **पातु** रक्षतु । **सुकृतः** पुण्यकर्माणः **यत्र** यस्मिन् देशे **आसते** तिष्ठन्ति यत्र वा **ते** **सुकृतः** **ययुः** प्राप्ताः **तत्र** तस्मिन् स्थाने **देवः** दीप्यमानः **सविता** सर्वस्य स्वस्वकर्मणि प्रेरक एतन्नामको देवः **त्वा** त्वां दधातु निदधातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,30 +146,30 @@ popular
 Āyu =Vāyu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Āyu (“Lifetime”) having a complete lifetime will protect you all around.  Let Pūṣan protect you from in front on the path forward.  
 Where those of good action sit, where they have gone, there let god  
 Savitar place you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Ayu, giver of all life, protect thee, and bear thee forward on the distant pathway.  
      Thither let Savitar the God transport thee, where dwell the pious who have passed-before thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ayus möge dich lebenslänglich schützen, Pusan soll dich auf der weiten Reise von vorne behüten. Wo die Frommen ihren Sitz haben, wohin sie gegangen sind, dorthin soll dich Gott Savitri bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schütze dich der Allbeleber Aju, und Puschan vor dir her auf deinem Wege, Wohin die Frommen gingen, wo sie weilen, dahin soll dich Gott Savitar versetzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Аю, наделенный полным сроком жизни, пусть защищает тебя со всех сторон!  
 Пушан пусть защищает тебя спереди на дальнем пути!  

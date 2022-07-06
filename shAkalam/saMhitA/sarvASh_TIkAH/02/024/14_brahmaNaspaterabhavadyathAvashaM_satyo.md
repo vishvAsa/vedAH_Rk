@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्मणस् प꣡तेर् अभवद् यथावशं꣡  
 सत्यो꣡ मन्यु꣡र् म꣡हि क꣡र्मा करिष्यतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मही꣡व रीतिः꣡ श꣡वसासरत् पृ꣡थक्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यः । गाः । उ॒त्ऽआज॑त् । सः । दि॒वे । वि । च॒ । अ॒भ॒ज॒त् । म॒हीऽइ॑व । री॒तिः । शव॑सा । अ॒स॒र॒त् । पृथ॑क् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmaṇaspater* ← *brahmaṇaspateḥ* ← *brahmaṇaspati*
 - \[noun\], genitive, singular, masculine
@@ -147,14 +147,14 @@ genre M
 महिमहत्कर्मकरिष्यतः ब्रह्मणस्पतेः मन्युः मननसाधनोमन्त्रः क्रोधोवायथावशं यथाकामंसत्यः अवितथोभवत् सयथाकामयतेतथाकरोतीत्यर्थः योब्रह्मणस्पतिः पणिभिरपहृतागाः उदाजत् उदग- मयत् गुहायानिरगमयदित्यर्थः सब्रह्मणस्पतिः दिवेद्युलोकायतत्रत्येभ्योदेवेभ्यइत्यर्थः व्यभजच्च तागाविभक्ताश्चाकरोत् सचगोसमूहः महीवरीतिः महतीस्तुतिरिव रीङ्स्रवणेयथागङ्गादीनांस्रोतः विभक्तंसत् न्म्नदेशाभिमूकम्प्रसरति तथाशवसाआत्मीयेनबलेन तत्तदेवगृहम्पृथक् विभिन्नंअसरत् अग- च्छत् ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purpose of **Brahmaṇaspati**, engaging in a great work, has been successful, according to his wish; for he it was who recovered (the stolen) cattle for (the dwellers in) heaven; and distrubuted them; so that of their own power they took different directions, like (the branches of) a mighty river.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The battle-fury of the lord of the sacred formulation, who will do the  great deed, became real according to his will:  
 He who drove the cattle up also distributed them to heaven. Like a  
@@ -162,23 +162,23 @@ great stream, (the stream of cattle) ran in separate ways through
 his power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The wrath of Brahmanaspati according to his will had full effect when he would do a mighty deed.  
      The kine he drave forth and distributed to heaven, even as a copious flood with strength flows sundry ways.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Brahmanaspati Eifer ging ganz nach Wunsch in Erfüllung, wenn er ein großes Werk vollbringen wollte, der die Kühe heraustrieb, und er teilte sie der Himmelswelt aus. Mächtig wie ein großer Strom lief die Herde auseinander.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm, dem Gebets Herrn, ward nach Wunsch der Zorn zur That als er zu thun das grosse Werk sich rüstete; Die Kühe trieb er aus und gab dem Himmel sie, der grosse Strom ergoss sich da ringsum mit Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пыл Брахманаспати по его воле нашел себе выход,  
 Когда он собрался совершить великие деяния,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नः स꣡नुत्य उत꣡ वा जिघत्नु꣡र्  
 अभिख्या꣡य तं꣡ तिगिते꣡न विध्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्रुहे꣡ री꣡षन्तम् प꣡रि धेहि राजन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृह॑स्पते । आयु॑धैः । जे॒षि॒ । शत्रू॑न् । द्रु॒हे । रिष॑न्तम् । परि॑ । धे॒हि॒ । रा॒ज॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -117,43 +117,43 @@ genre M
 हेबृहस्पते योनोस्माकंसनुत्यः सनुतरित्यन्तर्हितनाम अन्तर्हितेदेशेभवश्चोरः सगर्भसयूथस- नुताद्यत् उतवाअपिवा योजिघत्नुर्जिघांसुर्भवति तमभिख्यायसंवीक्ष्यतिगितेनतीक्ष्णेनायुधेनवि- ध्यताडय यथास्मदीयान् शात्रून् आयुधैरायोधनसाधनैरिष्वादिभिर्जेषिजय तथा हेराजन् रा- जमानबृहस्पते द्रुहेद्रोग्ध्रेशत्रवेरिषन्तंहिंसन्तंवज्रं परिधेहि परितोधारय प्रक्षिपेत्यर्थः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Detecting him who is lying in ambush (against us), who is purposing our death, pierce him, **Bṛhaspati**, with your sharp (thunderbolt), and overthrow (our) enemies with (your) weapons; hurl, monarch, your destroying (shaft) against the oppressor.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever, distant or (near), wishes to harm us, on catching sight of him,  pierce him with a sharp (weapon).  
 Br̥haspati, with your weapons conquer the rivals. Deliver to deceit him  who does harm, o king.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) supply a verb as the 1st member of the disjunctive utá vā constr., contrasting with jighatnúḥ (“Wenn uns ein Unbekannter (nachstellt), oder töten will …”), invoking VI.5.4 with yó naḥ sánutyo abhidā́sat … But more salient in VI.5.4 is the contrastive pair yáḥ … sánutyaḥ … yó ántaraḥ … Therefore, flg. Schmidt (Bṛhaspati und Indra 81; also Klein DGRV II.171), I supply yó ántaraḥ as the 2nd part of the disjunctive phrase. Renou actually proposes a clever variation on the “distant … near” contrast, pairing abhikhā́ya, which he renders “(regandant) en face,” with sánutyaḥ. This avoids the need to supply additional material, but employing the rare gerund simply as a polar term with ‘distant’ seems unlikely.
 
 As Grassmann points out, the idiom ‘hand over, deliver’ is characteristic of pári √dā, not pári √dhā, which generally means ‘clothe, surround’. He suggests that this sense of pári √dhā is attributable to “Verwechslung mit dā.” In a quick scan of the Grassmann’s conspectus of dhā forms, I found only one example of pári √dhā ‘deliver’, namely our pári dhehi. I wonder if dhehi for *dehi is a nonce hypercorrection, for a form that appeared to have undergone Grassmann’s Law because of the -hi ending.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who waylays, yea, him who would destroy us,-aim at him, pierce him with thy sharpened weapon.  
      Brhaspati, with arms thou slayest foemen O King, give up the spoiler to destruction.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn uns ein Unbekannter nachstellt, oder töten will, den nimm aufs Korn und triff ihn mit der scharfen Waffe ! Brihaspati, besieg die Feinde mit Waffen, liefere den Schädiger der Tücke aus, o König!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer aus der Ferne, oder in der Nähe uns tödten will, den triff mit scharfem Strahle, Brihaspati, die Feinde schlag' mit Waffen, den Schäd'ger gib dem Unheil hin, o König.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто незаметно или же лицом к лицу  
 Хочет нас убить – пронзи того острым (оружием)!  

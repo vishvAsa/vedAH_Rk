@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नो अग्ने सन꣡ये ध꣡नानां  
 यश꣡सं कारुं꣡ कृणुहि स्त꣡वानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवइ꣡र् द्यावापृथिवी प्रा꣡वतं नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ऋ॒ध्याम॑ । कर्म॑ । अ॒पसा॑ । नवे॑न । दे॒वैः । द्या॒वा॒पृ॒थि॒वी॒ इति॑ । प्र । अ॒व॒त॒म् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -125,20 +125,20 @@ genre M
 हे **अग्ने** **स्तवानः** स्तूयमानः **त्वं** **नः** अस्माकं **धनानां** **सनये** दानार्थं **यशसं** यशोयुक्तं **कारुं** कर्मणां कर्तारं पुत्रं **कृणुहि** कुरु । **नवेन** नूतनेन **अपसा** प्राप्तेन त्वद्दत्तेन पुत्रेण **कर्म** यागदानादिरूपम् **ऋध्याम** वर्धयाम । हे **द्यावापृथिवी** उभे देवते **देवैः** अन्यैः सह **नः** अस्मान् **प्रावतं** प्रकर्षेण रक्षतम् ॥ यशसम् । अर्शआदित्वात् अच्प्रत्ययः । व्यत्ययेन प्रत्ययात् पूर्वस्योदात्तत्वम् । यद्वा ‘सर्वप्रातिपदिकेभ्यः क्विब्वक्तव्यः' ( पा. म. ३. १. ११. ३) इति यशस्शब्दात् क्विप् । तस्य प्रत्ययान्तस्य सनाद्यन्तत्वात् धातुसंज्ञायां ‘क्विप् च' इति क्विप्प्रत्ययान्तधातोः सतिशिष्टत्वात् ‘धातोः' इत्यन्तोदात्तत्वम् । कृणुहि । ‘उतश्च प्रत्ययाच्छन्दोवावचनम् ' (पा. सू. ६. ४. १०६. १) इति हेर्लुगभावः । स्तवानः । ‘सम्यानच् स्तुवः' ( उ. सू. २. २४६ ) इति बहुलवचनात् केवलस्यापि स्तौतेः आनच्प्रत्ययः । वृषादित्वादाद्युदात्तत्वम् । ऋध्याम ।' ऋधु वृद्धौ'। 'बहुलं छन्दसि ' इति विकरणस्य लुक् । यासुट उदात्तत्वम् । द्यावापृथिवी । ‘दिवो द्यावा' (पा. सू. ६. ३. २९ ) इति द्यावादेशः । आमन्त्रितानुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who are praised by us for the sake of wealth, render illustrious the performer of the rite; may we improve the act by a new offspring (given by you). Preserve us, heaven and earth, along with the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni—for us to win the stakes, make our bard glorious while you  are being praised.  
 Might we bring to fulfillment the (ritual) act through a new (poetic)  worker. O Heaven and Earth, along with the gods—help us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The question in ab is who is winning the stakes. I take it to be “us,” with our winning enabled by Agni’s giving glory to our poet. Most take it to be the poet himself, a poet identified as ours (“for our bard to win the stakes”). This is certainly possible. Indeed Oldenberg (SBE) actually interprets sanáye … kṛṇuhi as a periphrastic causative “make/cause to win,” with the poet the first object. Although Zehnder (Periphrastic Kaus., 2011) does not discuss this passage, he does recognize (p. 61) other examples of periphrastic causatives to √san ‘win’, which does not build a morphological causative (expect *sānáyati, or possibly *sanáyati, neither of which would cause phonological problems). Of course at this period of the language, underlying transitive verbs like √san should not build double transitive causatives (“cause X to win Y”).
 
@@ -153,28 +153,28 @@ Note the phonological play in bc (… kārúṃ kṛṇuhi … kárma), which ma
 The “two fathers” in 9a ushers in the paternal imagery found in the rest of 9- 11 (and beyond). Besides the tanū-kṛ́t- ‘body-creator’ and váyas-kṛ́t- ‘life-forcecreator’, which jointly define the parental contribution to a new human being, we have the repeated word prámati- ‘solicitude’, which is strongly associated with the father (see disc. ad I.71.7). Here the word first appears by itself in 9c, then along with pitā́- in 10a (as well as 14c, 16c). The father figure in these vss. switches back and forth: Agni is first “in the lap of his two fathers” (thus implicitly the son) in 9a, but has the fatherly role in 9cd, 10ab -- then switching back to the son in 11d. The two remaining allusions to the father (14c, 16c) cast Agni in that role again.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, highly lauded, make our singer famous that he may win us store of riches:  
      May we improve the rite with new performance. O Earth and Heaven, with all the Gods, protect us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, praised by us, help the glorious singer to gain prizes. May we accomplish our work with the help of the young active (Agni). O Heaven and Earth! Bless us together with the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Agni mach, gepriesen, unseren Dichter geehrt, daß er Reichtümer gewinne! Möchte uns durch das neue Machwerk die Opferhandlung gelingen. Himmel und Erde, helfet uns mit den Göttern weiter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, mache unsern Sänger herrlich, dass Schätze er gewinne, o gepriesner; Gelingen lass durch neuen Fleiss das Werk uns und mit den Göttern schützt uns, Erd' und Himmel!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, прославленный, сделай нашего –  
 Певца уважаемым и чтобы он добыл богатства!  

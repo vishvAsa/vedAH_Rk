@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्या देवा꣡ उप꣡स्थे  
 व्रता꣡ वि꣡श्वे धार꣡यन्ते  
 सू꣡रियामा꣡सा दृशे꣡ क꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 सूर्या॒मासा॑ । दृ॒शे । कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyā* ← *yasyāḥ* ← *yad*
 - \[noun\], genitive, singular, feminine
@@ -82,19 +82,19 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 गौः सर्वदेवमयीत्याह । **यस्याः** मरुतां मातुर्गोः **उपस्थे** वर्तमानाः **विश्वे** सर्वे **देवाः** **व्रता** व्रतानि स्वस्वकर्माणि **धारयन्ते** बिभ्रति । इयमेवास्माकं स्वपयोमिश्रितस्य सोमस्य दात्रीति सर्वे तत्समीपे तिष्ठन्तीत्यर्थः। किंच **सूर्यामासा** । माति स्वकलाभिस्तिथीनिति माश्चन्द्रमाः ॥  ‘ देवताद्वन्द्वे च ' इत्युभयपदप्रकृतिस्वरत्वम् । सूर्याचन्द्रमसौ **दृशे** दर्शनाय सर्वलोकप्रकाशनाय च यस्या गोः समीपे **कं** सुखेन वर्तमानौ भवतः । सेयं गौः सोमं धयतीति पूर्वेण समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “She, in whose presence all the gods observe their functions, and the sun and moon move in peace toenlighten the world.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She in whose lap all the gods cause their commandments to be upheld, for the sun and moon to be seen.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Curiously, vratā́… dhāráyante seems to be the only full VP with vratá- as obj. of a verbal form of √dhṛ, despite the common (nearly 20x) bahuvrīhi dhṛtávrata- ‘whose commandments are upheld’.
 
@@ -111,23 +111,23 @@ For the somewhat peculiar imagery of these vss., see the published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She in whose bosom all the Gods, and Sun and Moon for men to see,  
      Maintain their everlasting Laws.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In deren Schoße alle Götter die Gebote aufrecht halten und Sonne und Mond zum Sehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In deren Schoosse all ihr Werk die Götter wohl befestigen Und Sonn' und Mond, um recht zu sehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та,) в чьем лоне все  
 Боги поддерживают заветы,  

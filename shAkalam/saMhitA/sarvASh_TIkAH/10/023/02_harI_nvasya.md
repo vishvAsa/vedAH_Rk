@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡री नु꣡ अस्य या꣡ व꣡ने विदे꣡ व꣡सु  
 इ꣡न्द्रो मघइ꣡र् मघ꣡वा वृत्रहा꣡ भुवत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡व क्ष्णौमि दा᳐꣡सस्य ना꣡म चित्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; 11 = 4+7, ending HLX
 ऋ॒भुः । वाजः॑ । ऋ॒भु॒क्षाः । प॒त्य॒ते॒ । शवः॑ । अव॑ । क्ष्णौ॒मि॒ । दास॑स्य । नाम॑ । चि॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
@@ -139,7 +139,7 @@ genre M;; 11 = 4+7, ending HLX
 **अस्य** इन्द्रस्य संबन्धिनौ **या** यौ **हरी** अश्वौ **वने** । वन्यन्ते संभज्यन्तेऽस्मिन् देवा इति वनं यज्ञोऽरण्यं वा । तस्मिन् **वसु** ऋजीषलक्षणं धनं यवसलक्षणं वा **नु** क्षिप्रं **विदे** विन्देते लभेते । यद्वा । यौ हरी अस्येन्द्रस्य वने संभजनार्थं वसु वसुनो लाभाय क्षिप्रं भवत इति शेषः । ताभ्यां हरिभ्यां **मघैः** धनैः **मघवा** धनवान् **इन्द्रः** **वृत्रहा** वृत्राख्यस्यासुरस्य मेघस्य वा हन्ता **भुवत्** भवति । अपि च **ऋभुः** दीप्तः **वाजः** बलवान् **ऋभुक्षाः** महानिन्द्रः **शवः** शवसो बलस्य धनस्य वा **पत्यते** ईष्टे । यद्वा । शत्रूणां बलं प्रति पत्यते प्रतिपद्यते गच्छति । अहमपि तस्य प्रसादात् **दासस्य** उपक्षपयितव्यस्य शत्रोः **नाम** **चित्** । नम्यतेऽनेनेति नाम शिरः। तदपि **अव** **क्ष्णौमि** अव हन्मि । किमुतान्यदङ्गम् । अथवा नामधेयमपि नाशयामि किमुत शत्रुम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,29 +150,29 @@ genre M;; 11 = 4+7, ending HLX
 Brilliant, powerful, mighty: **ṛbhu**, **vāja**, ṛbhukṣan: names of three **ṛbhus**, treates as epithets: **dīpta**, balavat,**mahat**; is the lord of strength: attacks the forces of the enemy; I cut off the head: **nāma** cit, namyate nena, thatwith which one bows; or, I destroy his very name
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His are the two fallow bays and the goods [=soma] to be found in the  wood(en cup). Indra, the smiter of Vr̥tra, shall be bounteous with his  bounties.  
 As R̥bhu, Vāja, R̥bhukṣa [=the three R̥bhus] he masters his strength,  (saying,) “I whet down even the name of the Dāsa.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The treasure which his Bay Steeds found at sacrifice,-this wealth made opulent Indra slayer of the foe.  
      Rbhu, Rbhuksan, Vaja-he is Lord of Might. The Dasa's very name I utterly destroy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sein sind die Falben und die Schätze, die im Holze zu finden sind. Indra, der Vritratöter, ward durch seine Gaben der Gabenreiche. Als Ribhu, Vaja, Ribhuksan besitzt er die Kraft, wenn er sagt: Ich schleife sogar den Namen des Dasa ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sein Füchsepaar, das in der Kufe Gut erlangt, der Vritratödter Indra ist an Schätzen reich, Und Ribhu Vadscha und Ribhukschan haben Macht; ich wische das Gedächtniss auch des Bösen weg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пара его буланых коней – (это) блага, которые находятся в деревянном (сосуде):  
 Индра щедрый благодаря щедрым дарам становится убийцей Вритры.  

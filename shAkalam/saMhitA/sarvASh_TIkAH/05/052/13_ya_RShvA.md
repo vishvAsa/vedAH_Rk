@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ऋष्वा꣡ ऋष्टि꣡विद्युतः  
 कव꣡यः स꣡न्ति वेध꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 नमस्या꣡ रम꣡या गिरा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तम् । ऋ॒षे॒ । मारु॑तम् । ग॒णम् । न॒म॒स्य । र॒मय॑ । गि॒रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -104,20 +104,20 @@ genre M
 **ये** मरुतः **ऋष्वाः** दर्शनीयाः **ऋष्टिविद्युतः** आयुधैर्विद्योतमानाः **कवयः** मेधाविनः **वेधसः** सर्वस्य विधातारः **सन्ति** **तं** तेषां **मारुतं** **गणं** **रमया** रमणीयया **गिरा** स्तुत्या हे **ऋषे** श्यावाश्व **नमस्य** परिचर स्तुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorify, Ṛṣi, with grateful praise, the company of the **Maruts**, who are manifest, bright with lightning lances, who are wise, and the creators (of all things).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Which lofty ones, whose spears are lightning flashes, are (also) sage  poets, ritual adepts—  
 to this Marut flock, o seer, do homage and bring it to a halt with song.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the phrase ṛṣvā́ṛṣṭívidyutaḥ see disc. ad vs. 6; for the number disharmony in yé … tám see disc. ad vs. 7; for the seemingly unnecessary copula sánti see disc. ad vs. 2 as well as immediately below.
 
@@ -126,23 +126,23 @@ This vs. serves as another boundary. The Maruts of the thunderstorm, dominating 
 The address or, as seems likely, self-address to the seer (rṣe) returns us to the very beginning of the hymn, with Śyāvāśva’s clear self-address in 1ab.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sublime, with lightnings for their spears, Sages and Orderers are they.  
      Rsi, adore that Marut host, and make them happy with thy song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die speerblitzenden Recken, die Seher und Meister sind, vor dieser marutischen Schar verbeuge dich, o Rishi, und bring sie mit Lobreden zum Stillstand!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die hohen Speer-erglänzenden, die weise, treue Helfer sind, o Sänger, diese Marutschar verehre, fessle durch dein Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те великаны с копьями -молниями,  
 Которые являются мудрыми поэтами, –  

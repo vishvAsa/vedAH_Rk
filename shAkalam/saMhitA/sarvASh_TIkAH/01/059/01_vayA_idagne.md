@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वया꣡ इ꣡द् अग्ने अग्न꣡यस् ते अन्ये꣡  
 तुवे꣡ वि꣡श्वे अमृ꣡ता मादयन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्थू꣡णेव ज꣡नाँ उपमि꣡द् ययन्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वैश्वा॑नर । नाभिः॑ । अ॒सि॒ । क्षि॒ती॒नाम् । स्थूणा॑ऽइव । जना॑न् । उ॒प॒ऽमित् । य॒य॒न्थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayā* ← *vayāḥ* ← *vayā*
 - \[noun\], nominative, plural, feminine
@@ -126,7 +126,7 @@ genre M
 वया इदिति सप्तर्चं द्वितीयं सूक्तं नोधस आर्षं त्रैष्वुभम् । वैश्वानरगुणकोऽग्निर्देवता । तथा चानुक्रान्तम् । वया इत्सप्त वैश्वानरीयमिति ॥ सूक्तविनियोगो लिङ्गादवगन्तव्यः ॥वयाः शाखा वेतेर्वातायना भवन्तीति यास्कः (नि १-४) हे अग्ने येऽन्येऽग्नयः सन्ति ते सर्वेऽपि ते तव वया इत् शाखा एव । ततस्त्वतोऽन्ये न सन्तीति भावः । किञ्च त्वे त्वयि सति विश्वे सर्वेऽमृता अमरणधर्माणो देवा मादयन्ते । हृष्यन्ति । न हि त्वद्व्यतिरेकेण तैर्जीवितुं शक्यते । हे वैश्वानर विश्वेणां नराणां जाठररूपेण सम्बन्धिन्नग्ने क्षीतीनां मनुष्याणां नाभिः सन्नद्धासि । अवस्थापको भवसि । अतस्त्वमुपमिदुपस्थापयिता सन् । यद्वा । उपमिदित्येतद्दृष्टान्तविशेषणम् । जनान्ययन्थ । अधारयः । तत्र दृष्टान्तः । उपमिदुपनिखाता । स्थूणेव । वंशधारणार्थं निखातः । स्तम्भो यथा गृहोपरिस्थं वंशं धारयति तद्वत् ॥ वैश्वानर । विश्वे चेमे नरा विश्वानरः । तस्येदमित्यण् । नाभिः । नहो मश्च (उ ४-१२५) इतीञ्प्रत्ययो भकारश्चान्तादेशः । ञित्त्वादाद्युदात्तत्वम् । आसि । तासस्त्योर्लोप इति सलोपः । क्षितीनाम् । क्षि निवासगत्योः । अस्मात् क्तिच् क्तौ च सञ्ज्ञायामिति क्तिच् । अन्तोदात्तात्क्षितिशब्दादुत्तरस्य नामो नामन्यतरस्यामित्युदात्तत्वम् । उपमित् । डुमिञ् प्रक्षेपणे । आस्मादुपपूर्वाद्बहुलवचनात्कर्मणि क्विप् । तुगागमः । ययन्थ । यम उपरमे । लिट थलि क्रादिनियमादिट प्राप्त उपदेशेऽत्वतः (पा ७-२-६२) इति प्रतिषेधः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,34 +137,34 @@ genre M
 Vaiśvānara: from **viśva**, all; **nara**, a man; a fire common to all mankind or the fire or natural heat of the stomach; like a deep-plural nted column: like a pillar or **post** fixed firmly in the ground which supports the main beam or roof of a house
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The other fires are just twigs of you, Agni. In you do all the immortals  bring themselves to euphoria.  
 Vaiśvānara, you are the navel of the settlements. Like a pillar, as prop  you hold the peoples fast.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE other fires are, verily, thy branches; the Immortals all rejoice in thee, O Agni.  
      Centre art thou, Vaisvanara, of the people, sustaining men like a deep-founded pillar.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The other Agnis (the other fires) are verily thy branches, O Agni. In thee all the immortals enjoy themselves 1. Vaisvânara! Thou art the centre 2 of human settlements; like a supporting column thou holdest men 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die anderen Agni´s sind nur Zweige von dir, Agni; bei dir schwelgen alle Unsterblichen. Vaisvanara! Du bist der Nabel der Lande; wie eine stützende Säule hältst du die Menschen fest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nur deine Zweige sind die andern Feuer, Agni, in dir erfreun sich alle Götter; Du, Männerhort, bist Mittelpunkt der Völker, wie eine Säule stützest du die Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ветви твои, о Агни, другие огни.  
 В тебе радуются все бессмертные.  

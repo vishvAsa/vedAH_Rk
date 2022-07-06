@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्तुता꣡सो मरु꣡तो विअन्तु  
 वि꣡श्वेभिर् ना꣡मभिर् न꣡रो हवीं꣡षि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जिगृत꣡ रायः꣡ सूनृ꣡ता मघा꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ददा॑त । नः॒ । अ॒मृत॑स्य । प्र॒ऽजायै॑ । जि॒गृ॒त । रा॒यः । सू॒नृता॑ । म॒घानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -112,41 +112,41 @@ genre M
 **उत** अपि च **स्तुतासः** एवमस्माभिः स्तुताः **मरुतः** **हवींषि** **व्यन्तु** भक्षयन्तु । कीदृशाः । **विश्वेभिः** विश्वैः **नामभिः** उदकैः सहिताः **नरः** नेतारः। शेषः प्रत्यक्षस्तुतः। हे मरुतः **नः** अस्मदीयायै **प्रजायै** संततये **अमृतस्य** अमृतमुदकं **ददात** दत्त । तथा हविषो दातुर्यजमानस्य **सूनृता** सुभृतानि सुष्ठु नृत्यन्ति शोभनयोग्यानि **मघानि** धनानि **जिगृत** उद्गिरत प्रयच्छतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the glorified **Maruts** partake of the oblations, they who, accompanied by the bending waters, arethe leaders of rites; bestow water, Maruts, upon our progeny, return suitable opulence for (the donation ofsacrificial) riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And, when praised by all their names, let the Maruts, superior men,  pursue the oblations.  
 Give of immortality to our progeny; awaken riches, liberalities, bounties.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner, I take víśvebhir nā́mabhiḥ with stutā́saḥ, despite the displacement of word order. In fact, there’s nowhere else to put that unwieldy instr. phrase but at the beginning of a new pāda. Renou tr. it as an independent phrase, whose referent and relation to the rest of the sentence aren’t clear to me: “Alors, (une fois) loués, que les seigneurs Marut agréent, de tous (leurs) noms, les offrandes!” 90
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And may the Maruts, praised by all their titles, Heroes, enjoy the taste of our oblations.  
      Give us of Amrta for the sake of offspring: awake the excellent fair stores of riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und nachdem sie mit allen Namen gepriesen sind, sollen die Herren Marut die Opferspenden gern in Empfang nehmen. Gebet unserer Nachkommenschaft von dem Lebensbalsam, wecket Reichtümer, Geschenke, Gaben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und die gepries'nen Maruts mögen speisen in ganzer Schar die Männer unser Opfer; Verleihet unsern Kindern langes Leben, erweckt des Reichthums gabenreiche Fülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И когда (их) прославят, Маруты пусть вкусят,  
 (Эти) мужи, – всеми (своими) именами – жертвенные возлияния!  

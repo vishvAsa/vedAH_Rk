@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कदा꣡ चन꣡ स्तरी꣡र् असि  
 ने꣡न्द्र सश्चसि दाशु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 दा꣡नं देव꣡स्य पृच्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 उप॑ऽउप । इत् । नु । म॒घ॒ऽव॒न् । भूयः॑ । इत् । नु । ते॒ । दान॑म् । दे॒वस्य॑ । पृ॒च्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kadācana*
 - \[adverb\]
@@ -121,14 +121,14 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Never are you niggardly, **Indra**, and give not to the worshipper; but your godlike gifts, O **Maghavan**, arepoured forth more and more.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never are you a barren cow, nor, Indra, do you go dry for the  
 pious man.  
@@ -136,24 +136,24 @@ Over and over, more and more, the gift coming from you, the god,
 becomes engorged.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Notice the over-the-top piling up of particles and similar items in c: úpaupa íd nú ... bhū́ya íd nú, with the actual topic postponed till the next pāda.
 
 The lexeme úpa √pṛc generally has a sexual connotation (see disc. I.40.6), and given the barren cow and the going dry of ab, ‘becomes engorged’ better captures the contrast than Geldner’s anodyne “nimmt … zu und zu” (increases).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch nicht einmal bist du eine unfruchtbare Kuh, nie stehst du für den Opferwilligen trocken. Immer mehr nimmt deine, des Gottes, Freigebigkeit, o Gabenreicher, zu und zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber wird, o mächtiger Gott, deine Gabe desto reichlicher zugetheilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты же никогда не бываешь яловой коровой,  
 Для почитающего (тебя) ты не иссякаешь, о Индра.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृण्व꣡न्तो व꣡रिवो ग꣡वे  
 अभि꣡ अर्षन्ति सुष्टुति꣡म्  
 इ꣡ळाम् अस्म꣡भ्य° संय꣡तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इळा॑म् । अ॒स्मभ्य॑म् । स॒म्ऽयत॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛṇvanto* ← *kṛṇvantaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अस्माकं **गवे** **अस्मभ्यं** च **संयतं** यदस्मान् संयच्छति तत् **वरिवः** धनम् **इळाम्** अन्नं च **कृण्वन्तः** कुर्वन्तः सोमाः **सुष्टुतिम्** अस्मदीयां शोभनां स्तुतिम् **अभ्यर्षन्ति** आभिमुख्येन गच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,14 +94,14 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Sustaining: saṃyatam = yad asmān saṃyacchati, that which supports us
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Making a wide realm for the cow, they rush toward the lovely  
 praise hymn,  
 toward lasting refreshment for us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ kṛṇvántaḥ and datives of benefit.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bringing prosperity to kine, they make perpetual Ila flow  
      To us for noble eulogy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Winde Wohlfahrt verschaffend fließen sie zu schönem Loblied und für uns zu anhaltendem Segen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie strömen zu dem Lobgesang dem Rinde schaffend freien Raum, Uns Labetrunk, der nie versiegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

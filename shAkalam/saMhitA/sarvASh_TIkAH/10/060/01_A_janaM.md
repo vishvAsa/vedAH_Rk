@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ज꣡नं त्वेष꣡संदृशम्  
 मा꣡हीनानाम् उ꣡पस्तुतम्  
 अ꣡गन्म बि꣡भ्रतो न꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -30,7 +30,7 @@ genre D;; repeated line
 अग॑न्म । बिभ्र॑तः । नमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -79,7 +79,7 @@ genre D;; repeated line
 इदमादिभिस्तिसृभी राजानं स्तुवन्ति। वयं बन्ध्वादयः **जनं** जनपदमसुनीतिस्वभूतम् **आ** **अगन्म** अभिगताः । गमेर्लुङि  ‘ मन्त्रे घस' इति च्लेर्लुक्।  ‘ म्वोश्च । इति मकारस्य नकारः । कीदृशं जनम् । **त्वेषसंदृशं** दीप्तदर्शनं **माहीनानां** महताम् **उपस्तुतम्** उपगतस्तुतिम् । तादौ च° इति गतेः प्रकृतिस्वरः । कीदृशा वयम् । **नमः** नमस्कारं **बिभ्रतः** धारयन्तः । कुर्वन्त इत्यर्थः । यद्वा । जनमसमातिमित्यर्थः । शिष्टं समानम् । नमो बिभ्रत इति राजकृते नमस्कारं धारयन्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,29 +90,29 @@ genre D;; repeated line
 To the person n: janam = **rājā** Asamāti or his country, janapadam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the man of the Māhīnas, with glittering appearance, approached  with praise,  
 we have come, bearing homage—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BRINGING our homage we have come to one magnificent in look.  
      Glorified of the mighty Gods
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dem Manne von furchtgebietendem Anblick, dem gepriesenen Helden der Mahina´s sind wir Huldigung darbringend gekommen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Mann, der prächtig anzuschaun gerühmt wird in der Götterschar, Sind Andacht weihend wir genaht,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К мужу с сверкающим обликом,  
 Прославленному среди радующих (нас),  

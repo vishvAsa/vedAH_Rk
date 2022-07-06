@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वीवृधन्त गो꣡तमा  
 इ꣡न्द्र त्वे꣡ स्तो꣡मवाहसः  
 अइ꣡षु धा वीर꣡वद् य꣡शः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 आ । ए॒षु॒ । धाः॒ । वी॒रऽव॑त् । यशः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avīvṛdhanta* ← *vṛdh*
 - \[verb\], plural, Redupl. Aorist (Ind.)
@@ -85,36 +85,36 @@ genre M
 **स्तोमवाहसः** स्तोमानां स्तोत्राणां वोढारः **गोतमाः** ऋषयो हे **इन्द्र** **त्वे** त्वाम् **अवीवृधन्त** स्तोत्रैर्वर्धयन्ति । त्वम् **एषु** गोतमेषु **वीरवत्** पुत्रपौत्रादियुक्तं **यशः** अन्नम् **आ** **धाः** निधेहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Gotamas**, offerers of praise, exalt you, **Indra**; bestow upon them food and prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Gotamas, whose vehicle is praise, have become strengthened in  your company, Indra.  
 On them confer glory in heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, the Gotamas who bring thee praises have grown strong by thee.  
      Give them renown with hero sons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An dir, Indra, haben sich die Gotama´s aufgerichtet mit zugkräftigem Loblied. Ihnen verleih den Ruhm vieler Söhne!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So priesen dich die Gotamer, die Lob dir, Indra, dargebracht, Gib ihnen heldenreichen Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вдохновились тобой, о Индра,  
 Люди из рода Готамы, ведущие восхваления.  

@@ -8,7 +8,7 @@ title = "+039"
 ‘मन्द्रस्य कवेः' इति पञ्चर्चं षोडशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैन्द्रम्। 'मन्द्रस्य' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 39 (480)  
 Indra  
@@ -21,7 +21,7 @@ In verse 1 a long series of adjectives in the genitive describing an unidentifie
 For a similar covert coding of soma, there by the use of the genitive pronoun  asya “of it, of this one” see VI.27.1–2.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra The whole hymn is tr. and disc. by Schmidt (Bṛhaspati und Indra 149-51).
 </details>

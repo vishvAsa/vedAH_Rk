@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बा व꣡र्धस्व त꣡व घा सुता꣡स  
 इ꣡न्द्र सो꣡मासः प्रथमा꣡ उते꣡मे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एवा꣡ पाहि प꣡न्यो अद्या꣡ न꣡वीयान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यथा॑ । अपि॑बः । पू॒र्व्यान् । इ॒न्द्र॒ । सोमा॑न् । ए॒व । पा॒हि॒ । पन्यः॑ । अ॒द्य । नवी॑यान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibā* ← *piba* ← *pā*
 - \[verb\], singular, Present imperative
@@ -124,44 +124,44 @@ genre M
 माध्यन्दिने सवनेऽच्छावाकशस्त्रे यज्या पिबा वर्धस्वेत्येषा । सूत्रितं च । पिबा वर्धस्व तव घा सुतास इति याज्या । आ. ५-१६ । इति ॥हे इन्द्र इमं सोमं पिब । ततो वर्धस्व । शरीरेण पुष्टो भव । त्वदर्धं प्रथमाः पुरातना उत अपि चेमेऽभिनवा उभयविधाः सोमाः सुतासो घ । ग्रावभिरभिषुताः खलु । हे इन्द्र पूर्व्यान्पुरतनान्सोमान्यथा त्वमपिब एवैवमध्याधुना पन्यः स्तुत्योऽत एव नवीयानतिशयेनाभिनवस्त्वमिमानभिनवान्सोमान्पाहि । पिब ॥ पिब । पातेर्लोटि रूपम् । वर्धस्व । तिङ उत्तरत्वान्निघाताभावः । अपिबः । यथायोगादनिघातः । पाहि । पातेर्लोटि बहुलं छनसीति शपो लुक् । निघातः । पन्यः । पनतेः स्तुत्यर्थस्याघ्न्यादित्वाद्यत् । यस्योऽनाव इत्याद्युदात्तत्वम् । नवीयान् । नवशब्दादीयसुनि रूपम् । नित्स्वरः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink, **Indra**, and thrive; yours are these (present) libations, as were the primitive libations; you who is adorable, drink today the recent libations, as you drank those of old.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink, become strong. Yours are the pressed soma drinks, Indra—the  first ones and these here.  
 Just as you drank the previous soma drinks, Indra, so take a drink  
 today, as the one to be admired anew.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both the pres. and the aor. stems of √pā ‘drink’ occur here, as in III.35.10.
 
 The situation is in fact even a bit more complex: as in III.35.10 both stems deploy imperatives here, píba opening pāda a, pāhi in d, but the latter is also in a complex diptych with the impf. ápibaḥ (“just as you drank [ápibaḥ] …, so [take a] drink [pāhi] today …”). As in III.35.10 I have translated as if there is still an aspectual difference between the two stems, but I am not certain this is the case.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink and wax great. Thine are the juices, Indra, both Somas of old time and these we bring thee.  
      Even as thou drankest, Indra, earlier Somas, so drink to-day, a new guest, meet for praises.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink, stärke dich! Dein sind die gepreßten Somatränke, Indra, die allerersten und auch diese. Wie du den früheren Soma getrunken hast, Indra, so trink als der Gefeierte heute aufs neue!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniess, erstarke; dein ja sind die Säfte, und, Indra, diese ersten Somatränke; Wie Indra du vordem den Soma trankest, so trink ihn heut aufs neue, preisenswerther.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей! Подкрепляйся! Твои ведь выжатые  
 Соки (сомы), о Индра, первые и вот эти.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विशां꣡ गोपा꣡ अस्य चरन्ति जन्त꣡वो  
 द्विप꣡च् च य꣡द् उत꣡ च꣡तुष्पद् अक्तु꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 चि॒त्रः । प्र॒ऽके॒तः । उ॒षसः॑ । म॒हान् । अ॒सि॒ । अग्ने॑ । स॒ख्ये । मा । रि॒षा॒म॒ । व॒यम् । तव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
@@ -138,42 +138,42 @@ genre M;; repeated line
 **अस्य** अग्नेः **जन्तवः** जाता रश्मयः **विशां** सर्वेषां प्राणिनां **गोपाः** । गोपायितारो रक्षकाः सन्तः **चरन्ति** उद्गच्छन्ति । तदनन्तरं **यत्** च **द्विपत्** द्विपात् मनुष्यादिकमस्ति **उत** अपि च **चतुष्पत्** चतुष्पात् गवादिकं यदस्ति तदुभयम् 'अक्तुभिः अञ्जकैः अस्य रश्मिभिरक्तम् आश्लिष्टमभूत् । हे **अग्ने** **चित्रः** विचित्रदीप्तियुक्तः **प्रकेतः** रात्रावन्धकारावृतानां सर्वेषां प्रज्ञापयिता प्रदर्शयिता **उषसः** उषोदेवताया अपि **महान** गुणैरधिकः **असि** भवसि । उषास्तु रात्रेश्चरमभागे प्रकाशयति अग्निस्तु सर्वस्यां रात्रौ प्रकाशयतीति तस्य गुणाधिक्यम् ॥ गोपाः । ‘ गुपू रक्षणे'। ‘गुपूधूपविच्छिं ' (पा. सू. ३. १. २८) इति आयप्रत्ययः । अस्मात् क्विप्  । अतो लोपः । ‘ वेरपृक्तलोपाद्वलि लोपो बलीयान्' इति पूर्वं वलि लोपः। न चातो लोपस्य स्थानिवत्त्वं, ‘न पदान्त' इत्यादिना यलोपं प्रति तन्निषेधात्। द्विपत् । द्वौ पादावस्येति बहुव्रीहौ ‘ संख्यासुपूर्वस्य ' ( पा. सू. ५. ४. १४० ) इति पादशब्दस्य अन्त्यलोपः समासान्तः । अयस्मयादित्वेन भत्वे ' पादः पत्' ( पा. सू. ६. ४. १३० ) इति पद्भावः । एकदेशविकृतस्यानन्यवत्त्वात् ( परिभा. ३७ ) ‘ द्वित्रिभ्यां पाद्दन्मूर्धसु° ' ( पा. सू. ६. २. १९७ ) इत्युत्तरपदान्तोदात्तत्वम् । चतुष्पत् । पूर्ववत् समासान्तः पद्भावश्च । ‘ इदुदुपधस्य चाप्रत्ययस्य ' इति विसर्जनीयस्य षत्वम् । ‘त्रः संख्यायाः ' (फि. सू. २८) इति चतुर्शब्द आद्युदात्तः । स एव बहुव्रीहिस्वरेण शिष्यते ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “His genitive al (flames), the preservers of mankind, spread around, and both bipeds and quadrupeds are enlivened by his rays; shining with various lustre, and illuminating (the world by night), you are superior to the dawn; let us not, **Agni**, suffer injury through your friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His kinfolk [=flames], the herdsmen of the clans, (of) both the  
 two-footed and the four-footed, roam by night.  
 You are the great, bright sign of dawn. – O Agni, while in company  with you may we not come to harm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His ministers move forth, the guardians of the folk, protecting quadruped and biped with their rays.  
      Mighty art thou, the wondrous herald of the Dawn. Let us not in thy friendship, Agni, suffer harm.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (He is) the shepherd of the clans 1; by his nightly light the creatures walk, the two-footed and four-footed. Thou art the bright, great splendour of dawn. Agni! May we suffer no harm in thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist der Hirt der Ansiedlungen; als seine Angehörigen kommen Zweifüßler und Vierfüßler während der Nächte. Du bist das prächtige große Vorgesicht der Morgenröte. - O Agni, in deiner Freundschaft sollen wir nicht zu Schaden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Hausbehüter schreiten seine Diener vor, sie, die behüten in den Nächten Mensch und Thier; Des Morgens helles, grosses Licht bist, Agni, du, in deiner Freundschaft, Agni, treff' uns nimmer Leid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Агни -) пастух племен. Бродят по ночам  
 Его существа: двуногие и (те,) что четвероногие!  

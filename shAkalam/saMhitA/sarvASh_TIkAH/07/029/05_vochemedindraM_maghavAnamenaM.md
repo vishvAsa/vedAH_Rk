@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वोचे꣡मे꣡द् इ꣡न्द्रम् मघ꣡वानम् एनम्  
 महो꣡ रायो꣡ रा꣡धसो य꣡द् द꣡दन् नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यः । अर्च॑तः । ब्रह्म॑ऽकृतिम् । अवि॑ष्ठः । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vocemed* ← *vocema* ← *vac*
 - \[verb\], plural, Aorist optative
@@ -133,36 +133,36 @@ genre M;; repeated line
 इयंव्याख्यातचरा ॥ ५ ॥आनोदेवेति पञ्चर्चं त्रयोदशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैन्द्रम् । आनोदेवेत्यनुक्रान्तम् । प्रथमेछन्दोमे प्रउगशस्त्रे आनइत्ययमैन्द्रस्तृचः सूत्र्यतेहि-आनोदेवशवसायाहिशुष्मिन् प्रवोयज्ञेषुदेवयन्तोअर्चन्निति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us glorify that opulent **Indra**, that he may give us vast and valuable riches, he who is the chiefprotector of the religious rites of the worshippers; do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would proclaim him, just him: Indra the bounteous, so that he will  give to us of the largesse of great wealth,  
 he who best aids the preparation of the chanter’s sacred formulation.  – Do you protect us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We will address this liberal Lord, this Indra, that he may grant us gifts of ample riches,  
      Best favourer of the singer's prayer and praises. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten ihn den gabenreichen Indra nennen, wenn er uns von der Gabe seines Reichtums schenkt, der die Erbauung des Preisenden allem vorzieht. - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wollen rufen diesen reichen Indra, dass er uns grossen Gutes Fülle schenke, Er, der vor allen hört des Sängers Bitte; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотели б назвать его щедрым Индрой,  
 Если даст он нам из дара (своего) великого богатства,  

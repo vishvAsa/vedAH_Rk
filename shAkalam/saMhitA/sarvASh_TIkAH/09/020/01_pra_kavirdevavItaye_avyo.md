@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ कवि꣡र् देव꣡वीतये  
 अ꣡व्यो वा꣡रेभिर् अर्षति  
 साह्वा꣡न् वि꣡श्वा अभि꣡ स्पृ꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒ह्वान् । विश्वाः॑ । अ॒भि । स्पृधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -84,40 +84,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **कविः** मेधावी सोमः **देववीतये** देवानां पानाय **अव्यः** अवेः **वारेभिः** वारैः दशापवित्रेण **प्र** **अर्षति** प्रकर्षेण गच्छति । **साह्वान्** शत्रूणां सोढा सोमः **विश्वाः** **स्पृधः** सर्वान् संग्रामान हिंसकान् वा **अभि** भवतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The seer passes through the woollen fleece for the beverage of the gods, triumphing over all adversaries.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth the poet rushes, through the sheep’s fleece, to pursue the gods, having prevailed over all opponents.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vā́rebhiḥ, lit. ‘along the hairs/fleece’ is an instr. of the path-along-which; see comm. ad IX.15.5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FORTH through the straining-cloth the Sage flows to the banquet of the Gods,  
      Subduing all our enemies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Seher fließt an den Schafhaaren weiter zur Götterladung, alle Gegner besiegend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Göttermahle strömet er, der Weise, durch die Wolle hin, Die Feinde alle bändigend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэт струится вперед через сито  
 Из овечьей шерсти для приглашения богов,  

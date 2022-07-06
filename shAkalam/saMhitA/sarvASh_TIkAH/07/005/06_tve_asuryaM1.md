@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ असुर्यं᳡ व꣡सवो नि꣡ ऋण्वन्  
 क्र꣡तुं हि꣡ ते मित्रमहो जुष꣡न्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरु꣡ ज्यो꣡तिर् जन꣡यन्न् आ꣡रियाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वम् । दस्यू॑न् । ओक॑सः । अ॒ग्ने॒ । आ॒जः॒ । उ॒रु । ज्योतिः॑ । ज॒नय॑न् । आर्या॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -130,36 +130,36 @@ genre M
 हे **मित्रमहः** मित्राणां पूजयितः **अग्ने** **त्वे** त्वयि **वसवः** वासका देवा: **असुर्यं** बलं **न्यृण्वन्** न्यगमयन् । **ते** **क्रतुं** त्वत्प्रीतिकरं कर्म **जुषन्त** असेवन्त **हि** । किंच **त्वम्** **आर्याय** कर्मवते जनाय **उरु** **ज्योतिः** अधिकं तेजः **जनयन्** **दस्यून्** कर्महीनान् **ओकसः** स्थानात् **आजः** निरगमयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Reverencer of friends, **Agni**, th **Vasus** have concentrated vigour in you; they have been propitiated byyour acts; genitive rating vast splendour for the **Arya**, do you, Agni, expel the **Dasyus** from the dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The good (gods) installed their lordship in you, for they find pleasure in  your resolve, o you having Mitra’s might.  
 You drove the Dasyus away from their home, o Agni, giving birth to  broad light for the Ārya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In thee, O bright as Mitra, Vasus seated the might of Aduras, for they loved thy spirit.  
      Thou dravest Dasyus from their home, O Agni, and broughtest forth broad light to light the Arya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir übertrugen die Götter die Asurawürde, denn sie nehmen gern deinen Rat an, du wie Mitra Geehrter. Du, Agni, triebst die Dasyu´s aus ihrer Heimat, indem du dem Arier weites Licht schufst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir fügten ein die Vasu's göttlich Leben; sie spürten deine Kraft, o freundereicher; Du, Agni, triebst die Feinde weg vom Heimsitz, erzeugend weiten Glanz dem Volk der Arjer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В тебя Васу заложили асурскую силу –  
 Ведь они ценят твою силу духа, о великий, как Митра.  

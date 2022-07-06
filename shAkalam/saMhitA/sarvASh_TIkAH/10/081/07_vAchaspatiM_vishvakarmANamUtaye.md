@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वाच꣡स् प꣡तिं विश्व꣡कर्माणम् ऊत꣡ये  
 मनोजु꣡वं वा꣡जे अद्या꣡ हुवेम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विश्व꣡शम्भूर् अ꣡वसे साधु꣡कर्मा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । नः॒ । विश्वा॑नि । हव॑नानि । जो॒ष॒त् । वि॒श्वऽश॑म्भूः । अव॑से । सा॒धुऽक॑र्मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vācas* ← *vācaḥ* ← *vāc*
 - \[noun\], genitive, singular, feminine
@@ -121,7 +121,7 @@ popular
 **वाचस्पतिं** मन्त्रात्मकस्य वचसः स्वामिनं **विश्वकर्माणं** विश्वकर्तारं **मनोजुवं** मनोवेगगमनं देवं **वाजे** यज्ञे **अद्य** अस्मिन्दिने **ऊतये** तर्पणाय **हुवेम** आह्वयाम । **सः** देवः **नः** अस्माकं **विश्वानि** सर्वाणि **हवनानि** **जोषत्** सेवताम् । किमर्थम् । **अवसे** अस्माकं रक्षणाय । स विशेष्यते । **विश्वशंभूः** विश्वस्य सुखस्योत्पादकः **साधुकर्मा** च ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ popular
 Lord of speech: all the epithets apply to **Indra**; **Yajus**. 8.45; 17.23
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would today summon the Lord of Speech, Viśvakarman, swift as  thought, for help in the contest.  
 He will take pleasure in every oblation of ours—he who is luck for  
 everyone, whose work succeeds—to give us help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let us invoke to-day, to aid our labour, the Lord of Speech, the thought-swift Visvakarman.  
      May he hear kindly all our invocations who gives all bliss for aid, whose works are righteous.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Meister der Rede, den gedankenerweckenden Visvakarman, wollen wir heute bei dem Wettstreit zum Beistand rufen. Er möge an allen unseren Anrufungen Gefallen haben, der Allwohltätige, Guteswirkende zur Gnade.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst uns den Herrn des Lieds, den Allvollbringer, den Mutherreger heut beim Kampfe rufen, Er höre freundlich alle unsre Lieder, allsegnend, uns zum Heile herrlich wirkend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Повелителя речи, Вишвакармана, быстрого, как мысль,  
 Мы хотим призывать сегодня на помощь при состязании.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वा꣡हाग्न꣡ये व꣡रुणाय  
 स्वा꣡हे꣡न्द्राय मरु꣡द्भियः  
 स्वा꣡हा देवे꣡भियो हविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 स्वाहा॑ । दे॒वेभ्यः॑ । ह॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svāhāgnaye* ← *svāhā*
 - \[adverb\]
@@ -80,7 +80,7 @@ genre M
 अग्न्यादिविश्वेदेवाः। तेभ्यः  **देवेभ्य** इदं **हविः** **स्वाहा** करोमीति शेषः । स्वाहुतं करोमीत्यर्थः । एवं स्वाहाकृतेः स्तुतिः ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,33 +91,33 @@ genre M
 To Agni: the term is **svāhā**, who is an āpri, or person nification of Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Svāhā to Agni and to Varuṇa, svāhā to Indra and to the Maruts, svāhā to the gods—the offering!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Agni and to Varuna, Indra, the Maruts, and the Gods,  
      With Svaha be oblation brought.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Svâhâ to Agni and Varuna! Svâhâ to Indra and the Maruts! Svâhâ to the gods for our offering!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter Svaharuf vollziehe ich für Agni, für Varuna, unter Svaharuf für Indra, für die Marut, unter Svaharuf für die Götter das Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei Heil dem Agni, Varuna, dem Indra und der Marutschar, Der Guss zum Heil der Götterwelt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Под возглас)  
 Свага!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रस्या अ꣡धि संव꣡तो  
 अ꣡वराँ अभि꣡ आ꣡ तर  
 य꣡त्राह꣡म् अ꣡स्मि ताँ꣡ अव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत्र॑ । अ॒हम् । अस्मि॑ । तान् । अ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parasyā* ← *parasyāḥ* ← *para*
 - \[noun\], ablative, singular, feminine
@@ -93,35 +93,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **परस्याः** अन्यस्याः **संवतः** सेनायाः **अवरान्** अन्यानस्मदीयान् **अभि** अभिमुखम् **आ** सर्वतः **तर** तारय । वैरिसेना अस्मद्भटैः पराभावयेत्यर्थः । **यत्र** येष्वस्मदीयपरिजनमध्ये **अहमस्मि** स्वामी **तानव** रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Deliver us wholly from the hostile army, shield those among whom I am (lord).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From beyond the distant boundary, cross over to the ones below, where I am. Help them!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Abandoning the foeman's host pass hither to this company:  
      Assist the men with whom I stand.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von der anderen Seite geh zu den auf dieser Seite Stehenden über! Wo ich bin, die begünstige!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus ferner Gegend dringe du zu uns den näheren hindurch, Bei denen ich bin, denen hilf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

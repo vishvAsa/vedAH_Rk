@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्रह्मचारी꣡ चरति वे꣡विषद् वि꣡षः  
 स꣡ देवा꣡नाम् भवति ए꣡कम् अ꣡ङ्गम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मेन नीतां꣡ जुहु꣡वं न꣡ देवाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तेन॑ । जा॒याम् । अनु॑ । अ॒वि॒न्द॒त् । बृह॒स्पतिः॑ । सोमे॑न । नी॒ताम् । जु॒ह्व॑म् । न । दे॒वाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmacārī* ← *brahmacārin*
 - \[noun\], nominative, singular, masculine
@@ -130,7 +130,7 @@ popular
 एवं सप्ततिर्मामलभतेति जुहूः परोक्षतया वद्ति। हे देवाः पूर्वं स ब्रह्मचारी जायाभावेन ब्रह्मचारी चरति। अत एव विषः सर्वेशु यज्ञेषु व्याप्तवान्देवान्वेविशत् स्तुतिभिर्हविभिश्च व्याप्नुवन् देवानामेकमङ्गं भवति। जायापती यज्ञस्य द्वे अङ्गे खलु। वेविषत्। विष्लृव्याप्तौ जौहोतादिकः। निजां त्रयाणां गुणः श्लौ। पा. ७-४-७५। इत्यभ्यासस्य गुणः। शतुर्नाभ्यस्ताच्छतुरिति नुमागमप्रतिषेधः। अभ्यस्तानामादिरित्याद्युदात्तत्वम्। तेन देवानां परिचरणेन ब्रुहस्पतिर्जायां जुहूनामिकां मामन्वविन्दत्। अनुगम्यालभत। नशब्द उपमार्थे। पूर्वं यथा सोमेन नीतां सोमो ददद्गन्धर्वाय। ऋ. १०-८५-४१। इत्यादि क्रमेण नीतां जुहूं जुहूं यथा लब्धवान् तद्वदिदानीमपि। जुहूम् । हु दानादनयोः। अन्येभ्योऽपि दृश्यत इति क्विप्। जुहोतेर्द्वे चेति द्विर्वचनं दीर्घश्च। उदात्तयणो यल्पूर्वादिति विभक्त्युदात्तत्वे प्राप्ते नोङ् धात्वोरिति प्रतिषेध उदात्त स्वरितयोर्यण इति स्वरितत्वम्॥५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ popular
 Brahmacārin: i.e., being without a wife
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who practices formulations keeps constantly laboring at his  labors. He becomes (just) one limb of the gods.  
 With him Br̥haspati discovered the (Brahmin’s) wife, who was led by  Soma, as (you found) the sacrificial ladle [/tongue (=Agni)], o gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Brahmacari goes engaged in duty: he is a member of the Gods' own body.  
      Through him Brhaspati obtained his consort, as the Gods gained the ladle brought by Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er lebt als Brahmanschüler seine Dienste verrichtend, er wird ein Glied der Götter. Dadurch bekam Brihaspati seine Frau wieder, die vom Soma entführt war, so wie ihr Götter die Juhu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der, welcher das Brahmanengelübde abgelegt hat, geht als geschäftiger Diener wirkend, er allein ist ein Glied der Götterschar; durch ihn hat Brihaspati seine Gattin gefunden, die von Soma heimgeführt war wie die Dschuhû (?), o Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он живет как ученик брахмана, делая (многие) дела.  
 Он становится одним из членов богов.  

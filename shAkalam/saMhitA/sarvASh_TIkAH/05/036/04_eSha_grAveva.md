@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ ग्रा꣡वेव जरिता꣡ त इन्द्र  
 इ꣡यर्ति वा꣡चम् बृह꣡द् आशुषाणः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ दक्षिणि꣡द् धरिवो मा꣡ वि꣡ वेनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । से॒व्येन॑ । म॒घ॒ऽव॒न् । यंसि॑ । रा॒यः । प्र । द॒क्षि॒णित् । ह॒रि॒ऽवः॒ । मा । वि । वे॒नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -127,40 +127,40 @@ genre M
 **एष जरिता** गरिता+++(??)+++ स्तोता **ग्रावेव** अभिषवाश्मेव स यथा रसं जनयति तद्-वत् हे **इन्द्र ते** तुभ्यं **वाचं** स्तुतिं **इयर्ति** प्रेरयतीत्यर्थः **बृहत्** महत् प्रभूतं फलं **आशुषाणः** आशु-सम्भक्ता सन् हे **मघवन्** **सव्येन** हस्तेन **रायो** धनानि **प्रयंसि** प्रयच्छसि हे **हरिवः** हर्यश्वेन्द्र **दक्षिणित्** दक्षिणेनापि प्रयंसीति शेषः॥ **मा विवेनः** - विगतकामं मा कार्षीः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This your adorer, **Indra**, like the stone (that expresses the **Soma** juice), urges praise to you, participating in the great (reward); you bestow, **Maghavan**, riches with your left **hand**, you bestow them, lord of horses, with the right be not reluctant.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This singer, like a pressing stone, raises his voice high to you, Indra,  panting after (you). With your left hand, bounteous possessor of the fallow bays, hold forth  wealth, and hold it forth right-handed: do not lose track.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The semantically complementary expressions referring to giving with the left and right hands have different morphological realizations: instr. savyéna and the hapax adv. dakṣiṇít. The latter is, of course, anomalously formed; it appears also in the cmpd. pradakṣiṇít (6x), which may be the basis here as well -- note immediately preceding prá. Thieme (KZ 69 [1951] = KlSch 71) suggests that it’s a cmpd with the root noun to √i ‘go’ (with the expected empty -t stem final); others that it contains the relic of a PIE instr. ending in -t/d. For a full disc. see Scarlatta (42-44). Since the first is not straightforward functionally (“going to the right” is not its sense) and the second depends on a highly dubious morphological reconstruction, I withhold judgment on the source of the form, but see ubhayāhastí (or -ī̇) in V.39.1 below. The lack of morphological parallelism in this passage is not surprising, since the hymn tends towards slightly skewed expressions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like the press-stone is this thy praiser, Indra. Loudly he lifts his voice with strong endeavour.  
      With thy left hand, O Maghavan, give us riches: with thy right, Lord of Bays, be not reluctant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Sänger hier erhebt wie der Preßstein seine Stimme laut, sich ereifernd, o Indra. Spende mit der Linken, o Gabenreicher, Reichtümer, spende rechts, du Falbenlenker! Wende deinen Blick nicht ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dir erhebt, o Indra, dieser Sänger die Stimme mächtig, wie ein Pressstein schnaufend, Mit deiner Linken reich, o Starker, Schätze und mit der rechten säume nicht, o Rossherr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот певец твой, о Индра, словно давильный камень,  
 Высоко поднимает голос, возбуждаясь.  

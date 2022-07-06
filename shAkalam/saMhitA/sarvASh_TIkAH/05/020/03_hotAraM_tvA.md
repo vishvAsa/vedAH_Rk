@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हो꣡तारं त्वा वृणीमहे  
 अ꣡ग्ने द꣡क्षस्य सा꣡धनम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्र꣡यस्वन्तो हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 य॒ज्ञेषु॑ । पू॒र्व्यम् । गि॒रा । प्रय॑स्वन्तः । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
@@ -88,7 +88,7 @@ genre M
 हे **अग्ने** **प्रयस्वन्तः** अन्नवन्तः एतन्नामका वयं **दक्षस्य** बलस्य **साधनं** साधकं साधयितारं त्वां **होतारं** देवानामाह्वातारं **वृणीमहे** । किंच **यज्ञेषु** **पूर्व्यं** मुख्यं त्वां **गिरा** स्तुतिरूपया वाचा **हवामहे** स्तुमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,33 +99,33 @@ genre M
 Prayasvats: prayasvantaḥ = liṭ, those having food, annavantaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We choose you, o Agni, as our Hotar, ensuring success for our skill. Bringing pleasing offerings, we summon with our song the one who is  first in the sacrifices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee, Agni, would we choose as Priest, the perfecter of strength and skill;  
      We who bring sacred food invoke with song thee Chief at holy rites.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We choose thee as our Hotri, Agni, the giver of skill; offering delight (to thee) we call with our prayer (thee), the foremost at the sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir erwählen dich, den Kraftwirker, zum Opferpriester, o Agni. Als Ersten bei den Opfern rufen wir unter Lobreden und Bewirtung dich an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wählen dich als Opferer, als Segner, Agni, unsrer Kraft; Wir rufen labungspendend dich zuerst beim Fest durch unser Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы выбираем тебя хотаром, о Агни,  
 (Тебя,) приводящего к цели силу действия.  

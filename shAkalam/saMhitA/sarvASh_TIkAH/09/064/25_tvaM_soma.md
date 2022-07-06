@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सोम विपश्चि꣡तम्  
 पुनानो꣡ वा꣡चम् इष्यसि  
 इ꣡न्दो सह꣡स्रभर्णसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दो॒ इति॑ । स॒हस्र॑ऽभर्णसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -74,7 +74,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** दीप्त **सोम** **पुनानः** पूयमानः **त्वं** **विपश्चितं** प्रज्ञया पवित्रां **सहस्रभर्णसं** बहुभरणां **वाचम्** **इष्यसि** प्रेरयसि ॥ ॥ ४० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,13 +85,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Sapient speech: vipaścitam = prajñayā pavitrām, cleaning (?) by wisdom
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Soma, while becoming purified, send out speech that is attentive to  poetic inspiration  
 and brings a thousand presents, o drop.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -102,23 +102,23 @@ contain the nom. sg. masc. punānáḥ.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, Indu, thou while thou art purified urgest onward speech.  
      Thousandfold, with the lore of hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Soma, treibst die wortkundige Rede hervor, wenn du dich läuterst, die Tausend aufwiegende, o Saft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt lässt, o Soma, du erschallen dein begeistert Lied, Das, Indu, tausend Gaben beut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

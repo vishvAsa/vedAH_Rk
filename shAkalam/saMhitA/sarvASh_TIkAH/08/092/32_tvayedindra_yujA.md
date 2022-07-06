@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡ये꣡द् इन्द्र युजा꣡ वय꣡म्  
 प्र꣡ति ब्रुवीमहि स्पृ꣡धः  
 त्व꣡म् अस्मा꣡कं त꣡व स्मसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 त्वम् । अ॒स्माक॑म् । तव॑ । स्म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayed* ← *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -90,35 +90,35 @@ genre M
 हे **इन्द्र** **त्वयेत्** । इदवधारणे । त्वयैव **युजा** सहायेन **स्पृधः** स्पर्धमानाञ्छत्रून् **वयं** **प्रति** **ब्रुवीमहि** निराकुर्वीमहि । प्रतिवचनं निराकरणम् । उत्तरार्धेनेन्द्रसाहाय्यमेव प्रतिपादयति । हे इन्द्र **त्वमस्माकं** भवसि स्तुत्यस्तोतृयष्टृयष्टव्यतया त्वमस्माकं भवसि वयं **तव** **स्मसि** भवामः । तथारण्यकं- ‘ त्वमिदं सर्वं भवसि तव वयं स्मः त्वमस्माकमसि' इति । तस्मात्त्वया सहायेन शत्रून् हन्यामेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With you, **Indra**, as our helper, let us answer our enemies; you are ours, we are yours.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With just you as yokemate, Indra, we would respond to the challengers. You are ours; we are yours.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With thee to help us, Indra, let us answer all our enemies:  
      For thou art ours and we are thine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dir, Indra, im Bunde wollen wir den Nebenbuhlern die richtige Antwort geben. Du bist uns, wir sind dein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit dir vereinigt werden wir begegnen, Indra, jedem Feind; Du bist der unsre, dein sind wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

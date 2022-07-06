@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो वधी रुदर+ मा꣡ प꣡रा दा  
 मा꣡ ते भूम प्र꣡सितौ हीळित꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ । नः॒ । भ॒ज॒ । ब॒र्हिषि॑ । जी॒व॒ऽशं॒से । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -141,42 +141,42 @@ genre M;; repeated line
 हे **रुद्र** त्वं **नः** अस्मान् **मा** **वधीः** मा हिंसीः । तथा **मा** **परा** **दाः** मा च त्याक्षीः । अपि च **हीळितस्य** क्रुद्धस्य **ते** तव **प्रसितौ** प्रकर्षेण बन्धने वयं च **मा** **भूम**। किंच **जीवशंसे** जीवैराशंसनीये **बर्हिषि** यज्ञे **नः** अस्मान् **आ** **भज** भागिनः कुरु । हे रुद्रप्रमुखाः देवाः **यूयं** **नः** अस्मान् कल्याणैः सर्वदा पालयत ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Harm us not, **Rudra**; abandon us not; let us not fall under the bondage of you when displeased; makeus partakers of the life-promotion sacrifice; and do you, (gods), ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do not smite us, Rudra. Do not deliver us up. Let us not be in the toils  of you in your anger.  
 Give us a share in the ritual grass and in the praise of the living. – Do  you protect us always with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The prohibitive mā́, introduced in 3d as a variant of 2d, dominates the first hemistich of this final vs. ## 047
 Waters
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Slay us not, nor abandon us, O Rudra let not thy noose, when thou art angry, seize us.  
      Give us trimmed grass and fame among the living. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Töte uns nicht, Rudra, gib uns nicht preis! Wir möchten, wenn du ärgerlich bist, dir nicht ins Garn kommen. Laß uns am Opfer, an der Rede der Lebenden teilnehmen! Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht schlage uns, nicht gib dahin uns, Rudra, nicht seien wir, wo du im Zorn herandringst, Lass lange lebend uns die Streu noch schmücken; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не убей нас, о Рудра, не выдай!  
 Да не окажемся мы в западне у тебя, рассерженного!  

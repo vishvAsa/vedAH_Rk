@@ -8,7 +8,7 @@ title = "+003"
 ‘ अग्ने स क्षेषत्' इत्यष्टर्चं तृतीयं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमाग्नेयम् । अनुक्रान्तं च----‘अग्नेऽष्टौ' इति । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 3 (444)  
 Agni  
@@ -18,7 +18,7 @@ The first two verses of this hymn promise success to the mortal who behaves prop
 fling ride, especially in the original Sanskrit.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

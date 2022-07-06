@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡कर्म ते सुअ꣡पसो अभूम  
 ऋत꣡म् अवस्रन्न् उष꣡सो विभातीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देव꣡स्य म꣡र्मृजतश् चा꣡रु च꣡क्षुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अनू॑नम् । अ॒ग्निम् । पु॒रु॒धा । सु॒ऽच॒न्द्रम् । दे॒वस्य॑ । मर्मृ॑जतः । चारु॑ । चक्षुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akarma* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
@@ -126,46 +126,46 @@ genre M
 हे अग्ने **ते** तव परिचरणम् **अकर्म** कुर्मः । तेन कर्मणा **स्वपसः** शोभनकर्माणः **अभूम** । **विभातीः** व्युच्छन्त्यः **उषसः** **ऋतं** तेजः **अवस्रन्** आच्छादयन्ति । धारयन्तीत्यर्थः । तथा ता उषसः **अनूनं** संपूर्णं **पुरुधा** बहुधा **सुश्चन्द्रं** सुष्ठ्वाह्लादकारिणं यद्वा सुहिरण्यम् **अग्निं** धारयन्ति । किंच **देवस्य** द्योतमानस्य तव **चारु** मनोहरं **चक्षुः** तेजः **मर्मृजतः** परिचरन्तो वयं स्वपसोऽभूमेति पूर्वेणान्वयः ॥ अकर्म । करोतेर्लङि ‘बहुलं छन्दसि' इति विकरणस्य लुक् । मर्मृजतः ।  ‘ मृजूष् शुद्धौ ' । यङ्लुकि “ रुग्रिकौ च लुकि ' इत्यभ्यासस्य रुगागमः । शतरि नाभ्यस्ताच्छतुः इति नुमभावः । अभ्यस्तस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We have worshipped you (**Agni**), and have thereby become the performers of a good work, adoring the full and variously delighting Agni, the beautiful lustre of the radiant divinity, when the brilliant dawns have arrayed (themselves) in light.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have acted for you; we have been good workers—(as) the radiant  dawns have clothed themselves in truth—  
 we always grooming in many ways unfailing Agni, beautifully gleaming,  the dear eye of the god.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The augmented 3rd pl. avasran is listed as an aor. to √vas ‘shine’ by Whitney (Rts) and Grassmann and so tr. by Oldenberg (SBE), Renou, and (somewhat attenuated) Geldner I take it rather as an impf. to the root pres. of √vas ‘wear’ (so listed by Lubotsky, so interpr., more or less, by Kümmel, Stativ, 97-98); Witzel Gotō take it also to ‘wear’, but as an ingressive aorist. Since the root already has a root present and there are no other forms to a root aorist, this seems to multiply entities unnecessarily. What does it mean for the dawns to wear/clothe themselves in truth? Perhaps either that they are greeted by a (truly formulated) hymn that serves as their garment or that by dawning they display the truth of the orderly functioning cosmos as their clothing. Although I think that avasran belongs properly to √vas ‘wear’, this of course does not mean that there is not a pun on √vas ‘dawn, shine’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We have worked for thee, we have laboured nobly-bright Dawns have shed their light upon our worship-  
      Adding a beauty to the perfect Agni, and the God's beauteous eye that shines for ever.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We have done our work for thee; we have been good workers—the brilliant dawns have shone out Rita 1,—brightening 2 the perfect Agni who manifoldly shines with fine splendour, (brightening) the god's beautiful eye.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben für dich geschafft, wir sind gute Arbeiter gewesen - rechtzeitig sind die strahlenden Morgenröten aufgegangen - den vollkommenen Agni, den vielfach schimmernden, das schöne Auge des Gottes herausputzend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir dienten dir und waren eifrig thätig, rechtzeitig strahlten hell die Morgenröthen, Den Agni schmückend, den vollkommnen, prächt'gen, des Gottes Auge, welches weithin leuchtet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы для тебя трудились, мы были хорошими работниками, -  
 Сверкающие утренние зори зажглись по закону –  

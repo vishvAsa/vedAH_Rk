@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡जध्वैनम् प्रियमेधा  
 इ꣡न्द्रं सत्रा꣡चा म꣡नसा  
 यो꣡ भू꣡त् सो꣡मैः सत्य꣡मद्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 यः । भूत् । सोमैः॑ । स॒त्यऽम॑द्वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajadhvainam*
 - \[adverb\]
@@ -83,7 +83,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **प्रियमेधाः** । प्रियोऽनुकूलो मेधो यज्ञो येषां ते तथोक्ताः । आत्मनि पूजार्थं बहुवचनम् । प्रियमेधाख्य ऋषिरात्मानं संबोध्य ब्रूते । हे प्रियमेधाः **सत्राचा** सहाञ्चता स्तोतव्येनेन्द्रेण सह वर्तमानेन **मनसा** चित्तेन **एनम्** **इन्द्रं** **यजध्व** यजध्वम् । बुद्धिपूर्वकं यजेत्यर्थः । यजध्वैनम्' (पा. सू. ७. १. ४३) इति निपातनाद्वर्णलोपः । **यः** इन्द्रः **सोमैः** करणभूतैः **सत्यमद्वा** **भूत्** सत्यमदोऽवितथमदो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,33 +94,33 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Truthful: somaiḥ satyamadvā: truth, as applied to a vedic deity, means one who keeps faithwith his worshippers, who grants his prayers; so Indra, in his cups, is especially bountiful to those who praisehim
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sacrifice to him, o Priyamedhas, with fully focused mind—to Indra, whose exhilaration becomes real through the soma juices.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On apparent impv. yájadhva see Oldenberg, though I don’t think the last word has been said about this form.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Priyamedhas, worship with collected mind this Indra whom  
      The Soma hath full well inspired.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verehret ihn, den Indra, ihr Priyamedha´s, gesammelten Geistes, der durch Soma wahrhaft berauscht wird;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O verehrt ihn, Prijamedha's, Indra mit gespanntem Geiste, Der vom Soma recht berauscht ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приносите ему жертвы, о Приямедхи,  
 Индре – с духом, устремленным к одной цели,  

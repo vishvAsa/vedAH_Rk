@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तियं꣡ नु꣡ मा꣡रुतं गणं꣡  
 गिरिष्ठां꣡ वृ꣡षणं हुवे  
 अस्य꣡ सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒स्य । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
@@ -81,37 +81,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **त्यं** तं सर्वत्र विश्रुतं **गिरिष्ठां** गिरिषु मेघेषु पर्वतेषु वा तिष्ठन्तं **वृषणम्** उदकानां कामानां वा वर्षितारं **मारुतं** मरुत्संबन्धिनं **गणं** संघं **हुवे** बिन्दुरहमाह्वयामि । किं प्रयोजनम् । **अस्य** अस्मदीयस्य **सोमस्य** **पीतये** पानाय ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke that band of the **Maruts**, abiding in the clouds, the showerers, to drink this **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just this, the bullish mountain-dwelling Marut flock, I now call,  
 to drink of this soma.  
 Oldenberg collects the hymns 95–101 into a single group, despite the varying num ber of verses and the lack of other clear unifying features.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That vigorous band of Maruts that abidetb in the mountains, I  
      Invoke to drink this Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese im Gebirge hausende Marutschar, die bullenhafte, rufe ich - zum Trunke dieses Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich rufe nun die Marutschar, die starke, die auf Bergen wohnt, Zum Trunke dieses Soma's her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вон ту стаю Марутов,  
 Мужественную, живущую на горе, я зову  

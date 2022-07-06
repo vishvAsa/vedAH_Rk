@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ त आघृणे सुतो꣡  
 घृतं꣡ न꣡ पवते शु꣡चि  
 आ꣡ भक्षत् कनि꣡यासु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 आ । भ॒क्ष॒त् । क॒न्या॑सु । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **आघृणे** । 'घृ क्षरणदीप्त्योः । सर्वतो दीप्यमान पवमान पूषन् वा **ते** त्वदर्थं **सुतः** अभिषुतः **अयं** सोमः **पवते** त्वदभिमुखमागच्छति । यद्वा । त्वदर्थं पात्रेषु पवित्रेण पूतो भवति क्षरति वा । तत्र दृष्टान्तः। **घृतं** **न** **शुचि** । शुद्धं घृतं यथा त्वां प्राप्नोति तद्वत् । ततस्त्वमभिलषितान्यस्माकं देहीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Soma** poured for you, shining (**Pūṣan**) flows like pure ghī; may he bestow maidens on us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This pressed soma here purifies himself, gleaming like ghee, for you,  glowing one.  
 – He will give us a share in maidens.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ā́ghṛṇi- is an epithet exclusive to Pūṣan. On the word, see comm. ad VI.53.3.
 
@@ -123,23 +123,23 @@ Ober refines this somewhat by identifying the maidens as brides (e.g., I.320), b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Soma juice, O glowing God, flows like pure oil, effused for thee:  
      He shall give us our share of maids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser für dich ausgepreßte Soma, o ........., wird rein wie Schmalz geläutert. Er verhelfe uns zu Jungfrauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der ist, glutreicher, dir gepresst, er rieselt gleichsam helles Fett, Er schenke holde Bräute uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот, выжатый для тебя, о пылающий,  
 Очищается, словно прозрачное топленое масло.  

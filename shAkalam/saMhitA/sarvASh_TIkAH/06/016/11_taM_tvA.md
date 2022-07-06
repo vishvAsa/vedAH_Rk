@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा समि꣡द्भिर् अङ्गिरो  
 घृते꣡न वर्धयामसि  
 बृह꣡च् छोचा यविष्ठिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 बृ॒हत् । शो॒च॒ । य॒वि॒ष्ठ्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -79,35 +79,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अङ्गिरः, अङ्गनादिगुणयुक्त अङ्गाररूप वाङ्गिरसः पुत्र वाग्ने **तं** पूर्वोक्तगुणं **त्वा** त्वां **समिद्भिः** समिन्धनहेतुभिर्दारुभिः **घृतेन** आज्येन च **वर्धयामसि** वर्धयामः । अतो हे **यविष्ठ्य** युवतमाग्ने **बृहत्** महदत्यन्तं **शोच** दीप्यस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We augment you, **Aṅgiras**, with fuel and with butter; blaze fiercely, youngest (of the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Aṅgiras, with kindling sticks, with ghee do we strengthen. Blaze aloft, youngest one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, Angiras, we make thee strong with fuel and with holy oil.  
      Blaze high, thou youngest of the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir machen dich groß, o Angiras, mit Brennhölzern, mit Schmalz. Flamme hoch, du Jüngster!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Angiras, verherrlichen mit Brennholz und mit Butter wir, Erstrahle hell, o jüngster du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, такого (как ты есть), о Ангирас, дровами  
 Мы усиливаем, жиром.  

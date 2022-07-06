@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्रा व꣡देते अ꣡वरः प꣡रश् च  
 यज्ञनि꣡योः कतरो꣡ नौ वि꣡ वेद  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡क्षन्त यज्ञं꣡ क꣡ इदं꣡ वि꣡ वोचत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । शे॒कुः॒ । इत् । स॒ध॒ऽमाद॑म् । सखा॑यः । नक्ष॑न्त । य॒ज्ञम् । कः । इ॒दम् । वि । वो॒च॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatrā* ← *yatra*
 - \[adverb\]
@@ -132,7 +132,7 @@ popular
 **यत्र** यस्मिन्काले **अवरः** पार्थिवोऽग्निर्देव्यो होता **परश्च** मध्यमो वायुश्च उभौ **वदेते** विवादं कुर्वाते **यज्ञन्योः** यज्ञस्य नेत्रोः **नौ** आवयोर्मध्ये **कतरः** भूयिष्ठं यज्ञं **वि** **वेद** वेत्ति तत्र **सखायः** समानख्याना ऋत्विजः **सधमादं** यज्ञम् **आ** **शेकुः** कर्तुं शक्नुवन्ति । तथा **यज्ञं** **नक्षन्त** अश्नुवतेऽनुतिष्ठन्ति च ये तेषां विदुषां यज्ञमश्नुवानानां मध्ये **कः** विद्वाननुष्ठाता वा **इदम्** अस्य विवादस्य निर्णयरूपं वाक्यं **वि** **वोचत्** ब्रवीति । माध्यमिकमिममग्निं ब्रवीति । तथा च यास्कः---- ‘ यत्र विवदेते दैव्यौ होतारावयं चाग्निरसौ च मध्यमः कतरो नौ यज्ञे भूयो वेदेत्याशक्नुवन्ति तस्सहमदनं समानख्याना ऋत्विजस्तेषां यज्ञं समश्नुवानानां को न इदं विवक्ष्यति' (निरु. ७. ३०) इति।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ popular
 Lower and upper fire: the lower fire is **Agni**, or the terrestrial fire; the upper fire is **Vāyu**, or the intermediate fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the lower [/nearer] one and the higher [/farther] one debate with  each other, (they ask) “Of the two leaders of the sacrifice, which of  us two knows it through and through?”  
 Have our comrades been able to achieve joint revelry? Have they  realized the sacrifice? Who can proclaim this here?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Which of us twain knows where they speak together, upper and lower of the two rite-leaders?  
      Our friends have helped to gather our assembly. They came to sacrifice; who will announce it?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Über den beide einen Wortstreit führen, hüben und drüben sitzend: Welcher von uns beiden Opferleitern weiß es genau? Die Genossen haben die gemeinsame Trankfeier zustande gebracht, sie kamen zum Opfer. Wer wird Folgendes beantworten?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo sich der untre und der obre sprechen, wer weiss das von uns Opferleitern beiden, Des Festes Mahl bereiteten die Freunde, zum Opfer kamen sie, wer wird es kund thun?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда двое беседуют по эту и по ту сторону,  
 Который из нас двоих, ведущих жертвоприношение, знает (это)?  

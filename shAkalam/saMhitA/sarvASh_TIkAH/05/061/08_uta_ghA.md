@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ घा ने꣡मो अ꣡स्तुतः  
 पु꣡माँ इ꣡ति ब्रुवे पणिः꣡  
 स꣡ वइ꣡रदेय इ꣡त् समः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सः । वैर॑ऽदेये । इत् । स॒मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -100,7 +100,7 @@ genre M
 **उत** **घ** अपि च । घेति पूरणः । **नेमः** । ‘त्वो नेम इत्यर्धस्य ' ( निरु. ३. २० ) इति निरुक्तम् । नेमोऽर्धः । जायापत्योर्मिलित्वैककार्यकर्तृत्वादेक एव पदार्थः ।  ‘ अर्धं शरीरस्य भार्या । इत्यादिस्मृतेः । शशीयस्या अर्धभूतस्तरन्तः **पुमान्** **अस्तुतः** इति **ब्रुवे** । बहुधा स्तुतोऽपि गुणस्यातिबाहुल्यादस्तुत एवेति ब्रुवे **पणिः** स्तोताहम् । **सः** च तरन्तः **वैरदेये** । वीरा धनानां प्रेरयितारो दानशीलाः । तैर्दातव्यं धनं देयम् । तस्मिन् धने **समः** । सर्वेभ्यो दातेत्यर्थः । **इत्** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,13 +111,13 @@ genre M
 Her other half: **nemaḥ** is the term of the text; liṭ, half as it is said in the Sṃṛti, ardham śarīrasya **bhāryā**, wife is the half of the body (of the husband)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And some other guy, a niggard not deserving praise, (may be) called  a “man,”  
 but he is only equivalent (to a man) in the matter of wergeld.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On vaíradeya-, lit. ‘what is to be given for a man/hero’, as Wergeld or blood money, see Roth (ZDMG 41: 672-76) and Macdonell-Keith Vedic Index s.v. vaira.
 
@@ -134,23 +134,23 @@ As indicated in the published translation, I consider these vss. a digression re
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And yet full many a one, unpraised, mean niggard, is entitled man:  
      Only in weregild is he such.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch mancher ungepriesene Geizhals wird Mann genannt; er steht diesem nur bei Zahlung des Wergeldes gleich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dagegen ist mancher nicht lobenswerthe geizig, der einen Mann sich nennt, ein solcher ist der Strafe verfallen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А вот какой-нибудь непрославленный (за щедрость)  
 Скупец (тоже) мужчиной называется.  

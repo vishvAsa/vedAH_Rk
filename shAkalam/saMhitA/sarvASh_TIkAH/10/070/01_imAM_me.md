@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡म् मे अग्ने समि꣡धं जुषस्व  
 इळ꣡स् पदे꣡ प्र꣡ति हर्या घृता꣡चीम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऊर्ध्वो꣡ भव सुक्रतो देवयज्या꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वर्ष्म॑न् । पृ॒थि॒व्याः । सु॒दिन॒ऽत्वे । अह्ना॑म् । ऊ॒र्ध्वः । भ॒व॒ । सु॒क्र॒तो॒ इति॑ सुऽक्रतो । दे॒व॒ऽय॒ज्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -140,36 +140,36 @@ genre M
 हे **अग्ने** **इळस्पदे** इळायास्पदे । एतद्वा इळायास्पदं यदुत्तरवेदीनाभिः' (ऐ. ब्रा. १. २८ ) इति ब्राह्मणम् । उत्तरवेद्याम् **इमां** **मे** मदीयां **समिधं** **जुषस्व** सेवस्व  । तथा **घृताचीं** घृतमञ्चन्तीं स्रुचं **प्रति** **हर्य** प्रतिकामयस्व । किंच हे **सुक्रतो** सुप्रज्ञ **पृथिव्याः** **वर्ष्मन्** वर्ष्मणि समुच्रिस्ते पूर्वोक्ते देशे **अह्नां** **सुदिनत्वे** तन्निमित्तं **देवयज्या** देवयागेन हेतुना **ऊर्ध्वः** ज्वालाभिरुन्नतः **भव** ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Graciously accept, **Agni**, this my fuel (plural ced) on the plural ce of libation (the altar); delight in thebutter-laden (spoon); most wise, rise up upon the lofty plural ce of the earth for the propitiousness of the daysthrough the worship of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Take pleasure in this kindling wood of mine, o Agni; delight in the  ghee-covered (ladle) in the footprint of refreshment.  
 On the height of the earth, on the brightest day of days, become upright,  o very resolute one, together with our sacrifice to the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ENJOY, O Agni, this my Fuel, welcome the oil-filled ladle where we pour libation.  
      Rise up for worship of the Gods, wise Agni, on the earth's height, while days are bright with beauty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An diesem Brennholz von mir hab Gefallen, o Agni; an der Stätte der Opferspende freue dich auf die Schmalzkelle! Auf der Erhöhung der Erde richte dich auf an dem glücklichen der Tage, du Einsichtsvoller, zur Götterverehrung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass dies mein Flammholz, Agni, dir gefallen, am Labungsort nimm an den Butterlöffel, Am Grund der Erde in des Festes Tagen steig herrlich wirkend auf durch Götteropfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайся сегодня моими  
 дровами,  

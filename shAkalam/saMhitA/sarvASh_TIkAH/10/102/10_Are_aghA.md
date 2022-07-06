@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आरे꣡ अघा꣡ को꣡ नु꣡ इत्था꣡ ददर्श  
 यं꣡ युञ्ज꣡न्ति त꣡म् उ आ꣡ स्थापयन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡त्तरो धुरो꣡ वहति प्रदे꣡दिशत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 न । अ॒स्मै॒ । तृण॑म् । न । उ॒द॒कम् । आ । भ॒र॒न्ति॒ । उत्ऽत॑रः । धु॒रः । व॒ह॒ति॒ । प्र॒ऽदेदि॑शत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āre*
 - \[adverb\]
@@ -147,37 +147,37 @@ popular
 यः **आरे** समीप एव **अघा** अघानि दुःखानि शत्रुरूपाणि करोति तं **कः** नरः **नु** इदानीम् **इत्था** इत्थं **ददर्श** पश्यति । किंच **यं** द्रुघणं **युञ्जन्ति** रथे **तमु** तमेव **आ** **स्थापयन्ति** आरोहयन्तीत्यर्थः। अथवा । यं रथे युञ्जन्ति तमेव प्रहरणार्थमा स्थापयन्ति । उभयविधकार्यमेकः करोतीत्यर्थः । किंच **अस्मै** **तृणं** न **आ** **भरन्ति** नाहरन्ति । तथा **उदकं** **न** आहरन्ति । हृग्रहोर्भः इति भत्वम् । ईदृशो द्रुघणः **उत्तरः** दक्षिणस्य वृषभस्य स्वयमुत्तरः सन् **धुरः** रथभारस्य रथधुरं **वहति** **प्रदेदिशित्** प्रकर्षेण जयं स्वामिने प्रदिशन् शत्रूणां वा भयं प्रदिशन् वहति । ‘दिश अतिसर्जने' इत्यस्माद्यङ्लुगन्ताच्छतरि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who has thus beheld the evils near at **hand**? The (bull) which they yoke, they stop; to him they bringneither fodder nor water. Being above (the bull) he bears the chariot-pole announcing (victory to his lord).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Troubles begone! Who has ever seen such a thing? The one whom they  yoke, they (now) make him mount (the chariot/his wife?).  
 They bring him neither grass nor water. The higher (end) of the  
 chariot-pole draws (the chariot), directing (it) ever forward.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far is the evil: who hath here beheld it? Hither they bring the bull whom they are yoking..  
      To this they give not either food or water. Reaching beyond the pole it gives directions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fern blieb das Unheil! Wer hat dergleichen wohl gesehen? Den sie geschirrt hatten, den lassen sie jetzt den Wagen besteigen. Nicht bringen sie ihm Gras und Wasser. Das Deichseljoch überragend fährt er kutschierend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gefahr ist fern; wer hat ihn recht gesehen? den man sonst anschirrt, führt man in den Stall auch; Doch diesem setzt man Gras nicht vor noch Wasser, gelöst vom Joche, fährt er Weisung gebend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

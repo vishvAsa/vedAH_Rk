@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡नां युगे꣡ प्रथमे꣡  
 अ꣡सतः स꣡द् अजायत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡द् उत्तान꣡पदस् प꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 तत् । आशाः॑ । अनु॑ । अ॒जा॒य॒न्त॒ । तत् । उ॒त्ता॒नऽप॑दः । परि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
@@ -104,37 +104,37 @@ popular;; epic anuṣṭubh (380)
 पूर्वार्धमुक्तम् । **तत्** **अनु** **आशाः** दिशः **अजायन्त** **तत्** **परि** तदन्वित्यर्थः । **उत्तानपदः** । उत्तानमूर्ध्वतानं पद्यन्त इत्युत्तानपदो वृक्षाः । ते अजायन्त प्रादुरभवन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In the firsst age of the gods the existent was born of the non- existent; after that the quarters (of thehorizon) were born, and after them the upward-growing (trees).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the first generation of the gods, what exists was born from what does  not exist.  
 The regions of space were born following that (which exists)—that  
 (which exists) was born from the one whose feet were opened up.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Existence, in the earliest age of Gods, from Non-existence sprang.  
      Thereafter were the regions born. This sprang from the Productive Power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im ersten Zeitalter der Götter entstand das Seiende aus dem Nichts; nach diesem entstanden die Welträume: Dieses wurde von der Kauernden geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus dem Nichtseienden entsprang zur ersten Götterzeit das Sein; Der Welten Räume gingen dann hervor aus der Gebärerin,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В первом поколении богов  
 Из небытия бытие родилось.  

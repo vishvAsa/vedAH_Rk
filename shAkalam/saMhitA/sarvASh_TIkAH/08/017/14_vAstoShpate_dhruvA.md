@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡स्तोष् पते ध्रुवा꣡ स्थू꣡णा  
 अं꣡सत्रं सोमिया꣡ना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्रो मु꣡नीनां᳐ स꣡खा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 द्र॒प्सः । भे॒त्ता । पु॒राम् । शश्व॑तीनाम् । इन्द्रः॑ । मुनी॑नाम् । सखा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāstoṣpate* ← *vāstoṣpati*
 - \[noun\], vocative, singular, masculine
@@ -91,36 +91,36 @@ genre M
 हे **वास्तोष्पते** गृहपते **स्थूणा** गृहाधारभूतः स्तम्भः **ध्रुवा** स्थिरा भवतु । **सोम्यानां** सोमर्हाणां सोमसंपादिनां वास्माकं **अंसत्रम्** अंसत्राणमंसोपलक्षितस्य कृत्स्नशरीरस्य त्रायकं रक्षकं बलं भवतु । अपि च **द्रप्सः** द्रवणशीलः सोमः तद्वान् । अर्शआदित्वादच्प्रत्ययः । **शश्वतीनां** बह्वीनां **पुराम्** असुरपुरीणां **भेत्ता** विदारयिता एवंभूतः **इन्द्रः** **मुनीनाम्** ऋषीणामस्माकं **सखा** मित्रभूतो भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of dwellings, may the (roof) pillar be strong; may there be vigour of body for the offerers of libation;may **Indra**, the drinker (of the **Soma**), the destroyer of the numerous cities (of the **asuras**), ever be the friend ofthe **Munis**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Lord of the Dwelling Place, a steadfast pillar, armor for comrades  in soma  
 is the drop, a splitter of strongholds, one after the other. Indra is the  comrade of ecstatics.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong pillar thou, Lord of the home armour of Soma-offerers:  
      The drop of Soma breaketh all the strongholds down, and Indra is the Rsis' Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Herr des Hauses! Eine feste Säule, ein Panzer der Somatrinker ist der Tropfen, aller Burgen Brecher. Indra ist der Freund der Verzückten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Hauses Herr, du bist eine feste Säule und ein Harnisch für die Somabereiter, der von Soma triefende Indra ist der Zerstörer aller Burgen und ein Genosse der Asketen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О хозяин дома, крепкий столб,  
 Панцирь для готовящих сому,  

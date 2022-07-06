@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुता꣡ इ꣡न्द्राय वज्रि꣡णे  
 सो꣡मासो द꣡धिआशिरः  
 पवि꣡त्रम् अ꣡ति अक्षरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प॒वित्र॑म् । अति॑ । अ॒क्ष॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sutā* ← *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
@@ -76,19 +76,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वज्रिणे** वज्रवते **इन्द्राय** इन्द्रार्थं **सुताः** अभिषुताः **दध्याशिरः** । दधि आशीराश्रयणद्रव्यं येषां ते दध्याशिरः । दधिसंस्कृताः **सोमासः** सोमाः **पवित्रमति** अतिक्रम्य **अक्षरन्** धारया क्षरन्ति ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma**-juices mixed with curds effused for **Indra**, the wielder of the thunderbolt, flow through the filter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pressed for Indra the mace-bearer, the soma juices, mixed with curds, have streamed across the filter.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -98,23 +98,23 @@ Again no particular signs of unity. The unmixed (“clear” śukrá-) soma in 1
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Over the cleansing sieve have flowed the Somas, blent with curdled milk,  
      Effused for Indra Thunder-armed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die für den Keulenträger Indra ausgepreßten Somasäfte, die mit saurer Milch gemischten sind über die Seihe geflossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Blitzer Indra ausgepresst, ergiessen durch die Seihe sich Die Somatränke milchgemischt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

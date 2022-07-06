@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्रासा꣡हं व꣡रेणियं सहोदां꣡  
 ससवां꣡सं सु꣡वर् अप꣡श् च देवीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रम् मदन्ति अ꣡नु धी꣡रणासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 स॒सान॑ । यः । पृ॒थि॒वीम् । द्याम् । उ॒त । इ॒माम् । इन्द्र॑म् । म॒द॒न्ति॒ । अनु॑ । धीऽर॑णासः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satrāsāhaṃ* ← *satrāsāham* ← *satrāsāh*
 - \[noun\], accusative, singular, masculine
@@ -116,43 +116,43 @@ genre M
 धीरणासो धिया स्तुत्या रणयन्तः स्तोतारः सत्रासाहं महतो वृत्रादेरभिभवितारमत एव वरेण्यं सर्वैर्वरणीयं सहोदां दुर्बलस्यार्थिनो बलप्रदं देविर्देवनशिला अपः स्वश्च स्वर्लोकं च ससवांसम् भजमानमिन्दर्मनु मदन्ति । हृष्यन्ति । हर्षमनु स्वयम् हृष्यन्तीत्यर्थः । य इन्द्रः पृथिवीमुत अपि च च्यां द्युलोकमिमामिममन्तरिक्षलोकम् । चैतांस्त्रिल्लोकान् ससान तत्तल्लोकवासिभ्यो ददौ । तमनुमदन्तीत्यन्वयः । सत्रासाहम् । षह मर्षने । छन्दसि सह इति ण्विः । णित्वा दुपधावृद्धिः । ससवांसम् । षण सम्भक्तावित्यस्य क्वसाविडभावे नकारलोपे रूपं प्रत्ययस्वरः । ससान । षणु दान इत्यस्य लिति रुपम् । लित्स्वरः । मदन्ती । मदि स्तुत्याद्श्वित्यस्य व्यत्ययेन परस्मैपदम् । निघातः । धीरनासः । रणतीति रणा वाक् । धिया स्तुत्या रणा येशां ते धीरणाः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Devout worshippers propitiate **Indra**, the victorious, the excellent, the bestower of strength, the enjoyer of heaven and the divine waters, and who was the giver of the earth and heaven and this (firmament to their inhabitants).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, victorious in every way, worthy to be chosen, granting victorious  might, having won the sun and the divine waters,  
 him, who won the earth and this heaven—Indra do they celebrate, those  who take joy in his insight.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The intense concentration on the root √san ‘win’ noted in the published introduction.
 
 and the concomitant s-alliteration begin here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Excellent, Conqueror, the victory-giver, the winner of the light and Godlike Waters,  
      He who hath won this broad earth and this heaven, -in Indra they rejoice who love devotions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem vollständigen Sieger, dem vorzüglichen Siegverleiher, der die Sonne und die göttlichen Wasser gewonnnen hat, der die Erde und diesen Himmel gewonnen hat, dem Indra jubeln die Liederfrohen Beifall zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der immer siegt und Sieg verleiht, dem lieben, der Licht gewann und göttliche Gewässer, Die Erde auch gewann und diesen Himmel, dem Indra jubelt zu, wer Andacht liebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всегда побеждающего, избранного, дающего силу,  
 Захватившего солнце и эти божественные воды,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ स्तोतारः पूर्वियं꣡ य꣡था विद꣡  
 ऋत꣡स्य ग꣡र्भं जनु꣡षा पिपर्तन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मह꣡स् ते विष्णो सुमति꣡म् भजामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । अ॒स्य॒ । जा॒नन्तः॑ । नाम॑ । चि॒त् । वि॒व॒क्त॒न॒ । म॒हः । ते॒ । वि॒ष्णो॒ इति॑ । सु॒ऽम॒तिम् । भ॒जा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -137,7 +137,7 @@ genre M
 हे **स्तोतारः** **तमु** तमेव विष्णुं **पूर्व्यं** पूर्वार्हम् अनादिसंसिद्धम् **ऋतस्य** **गर्भं** यज्ञस्य गर्भभूतं यज्ञात्मनोत्पन्नमित्यर्थः । यज्ञो वै विष्णुः '(श. ब्रा. १. १. २. १३) इति श्रुतेः । यद्वा । ऋतस्योदकस्य गर्भं गर्भकारणम् उदकोत्पादकमित्यर्थः ।  ‘ अप एव ससर्जादौ' (मनु. १.८) इति स्मृतेः । एवंभूतं विष्णुं **यथा** **विद** जानीथ तथा **जनुषा** जन्मना स्वत एव न केनचिद्वरलाभादिना पिपर्तन स्तोत्रादिना प्रीणयत यावदस्य माहात्म्यं जानीथ तावदित्यर्थः ॥ विदेर्लटि मध्यमबहुवचनम् । ' विद ऋतस्य ' इत्यत्र संहितायाम्  ‘ ऋत्यकः' इति प्रकृतिभावः ॥ किंच **अस्य** महानुभावस्य विष्णोः **नाम** **चित्** सर्वैर्नमनीयमभिधानं सार्वात्म्यप्रतिपादकं विष्णुरित्येतन्नाम **जानन्तः** पुरुषार्थप्रदमित्यधिगच्छन्तः **आ** समन्तात् **विवक्तन** वदत संकीर्तयत । यद्वा । नाम यज्ञात्मना नमनं विष्णोरेव सर्वेषां स्वर्गापवर्गसाधनाय इष्ट्याद्यात्मना द्रव्यदेवतात्मना वा परिणामम् आ जानन्तो यूयं विवक्तन ब्रूत स्तुत ॥ वचेर्लोटि छान्दसः शपः श्लुः । बहुलं छन्दसि' इति अभ्यासस्य इत्वम् । पूर्ववत् तनादेशः ॥ इदानीं साक्षात्कृत्याह । हे **विष्णो** सर्वात्मक देव **महः** महतः **ते** तव **सुमतिं** सुष्टुतिं शोभात्मिकां बुद्धिं वा **भजामहे** सेवामहे वयं यजमानाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,13 +148,13 @@ genre M
 Propitiate of your own accord: januṣā pipartana = lit. plural ase or propitiate (him) by your birth; i.e. **svata** eva, of yourself or spontaneously, not from any interested motive: na kenacid **vara** lābhādinā; the germ of sacrifice: ṛtasya garbham, born as one with sacrifice (yajño vai **viṣṇuḥ**: **Aitareya** **Brāhmaṇa** 1.1.2.13); verily (is) Viṣṇu; or, if ṛta keep the sense of water, then the phrase applies to Viṣṇu as the cause or creator of water: apa eva sasarja ādau (**Manu** 1.8), in the beginning he created water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You praisers, carry him to term in the way that is known—the ancient  one who is by birth the embryo of truth.  
 Recognizing him, announce his very names. Let us share in the favor of  you who are great, o Viṣṇu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Pp. reads vidá here, the 2nd pl. act. pf., though vidé or indeed vidáḥ would be equally possible in this sandhi situation. Oldenberg says we’re not obliged to read vidé, and the standard tr. follow the Pp. The cross-pāda sandhi -a ṛ- suggested by the Pp is impeccable. As Dieter Gunkel points out to me (pc 11/5/15) “’underlying’ /-e ṛ- /, /-a ṛ-/, and /-as ṛ-/ are all transmitted as ←-a ṛ-> in the saṃhitā text. Where the hemistich boundary intervenes, as here, they are also metrically identical, and therefore identical in the restored text. I gathered examples of /-a ṛ-/ at hemistich boundary from the first four books and found these: 1.15.12ab, 1.68.4ab, 1.116.23b, 1.152.3cd, 2.35.8ab, 3.14.” Nonetheless, against the Pp. I opt for the 3rd sg. mid. vidé, which is common in this phrase (yáthā vidé).
 
@@ -163,23 +163,23 @@ The standard tr. interpr. pipartana in fairly generic ways: Geldner “ihn heget
 nā́ma in c is ambiguous as to number (sg. or pl.), but is taken by all standard tr., I think correctly, as plural. Given that Viṣṇu is being identified with a number of gods in this hymn, he has multiple names, and this middle verse gives the clue to this trick of the hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him have ye satisfied, singers, as well as ye know, primeval gem of Order even from his birth.  
      Ye, knowing e'en his name, have told it forth: may we, Visnu, enjoy the grace of thee the Mighty One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn heget, ihr Sänger, der, wie ihr wisset, der Geburt nach der allererste Sproß des Gesetzes ist! Sprechet kundig seinen Namen aus! Wir wollen, o Vishnu, deines, des Großen, Wohlwollens teilhaftig werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und ihn, o Sänger, der von Alters her besteht, den Spross des Rechts beschenket nun nach seiner Art; Die ihr ihn kennt, verkündet seinen Namen auch, uns wird zu Theil, o grosser Vischnu, deine Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его одаряйте, о певцы: (он,) как вы знаете,  
 По рождению – древний отпрыск (вселенского) закона!  

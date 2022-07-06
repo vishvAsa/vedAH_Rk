@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡निष्वा देव꣡वीतये  
 सर्व꣡ताता सुअस्त꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 यज्ञं꣡ देवे꣡षु पिस्पृशः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । दे॒वान् । व॒क्षि॒ । अ॒मृता॑न् । ऋ॒त॒ऽवृधः॑ । य॒ज्ञम् । दे॒वेषु॑ । पि॒स्पृ॒शः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *janiṣvā* ← *janiṣva* ← *jan*
 - \[verb\], singular, Aorist imperative
@@ -99,40 +99,40 @@ genre M
 हे अग्ने **सर्वताता** सर्वैस्तायमाने यज्ञे मथ्यमानस्त्वं **जनिष्व** प्रादुर्भव । किमर्थम् । **देववीतये** देवकामाय यजमानाय । षष्ठ्यर्थे चतुर्थ्येषा । ईदृशस्य यजमानस्य **स्वस्तये** अविनाशार्थम् । जनित्वा च **अमृतान्** मरणरहितान् **ऋतावृधः** यज्ञस्य वर्धयितॄन् **देवान्** **आ** **वक्षि** आवह । तदनन्तरं तेषु **देवेषु** अस्मदीयं **यज्ञं** **पिस्पृशः** स्पर्शय । प्रापयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be born, **Agni**, at the sacrifice, for the welfare of the offerer (of oblation) to the gods; bring hither the immortal deities, the augmenters of the (sacred) rite present our sacrifice to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be born, to pursue the gods in their entirety, for well-being. Convey the gods hither, the immortals growing strong through truth.  You cause the sacrifice to touch the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On jániṣvā as belonging to the -iṣ-aorist, see Narten (Sig.-Aor, 68).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For the Gods' banquet be thou born, for full perfection and for weal.  
      Bring the Immortal Gods who strengthen holy Law: so let our sacrifice reach the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Werde geboren, um die Götter herzubitten in Vollzähligkeit zum Heile! Fahre die unsterblichen Götter her, die Mehrer der Wahrheit, laß das Opfer die Götter erreichen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren sei zum Göttermahl, zum Heile mit der ganzen Schar; fahre her die unsterblichen Götter, die heiligen, und lass die Götter das Opfer berühren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рождайся для приглашения богов,  
 Для полного благополучия!  

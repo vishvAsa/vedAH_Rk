@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दितिर् न उरुष्यतु  
 अ꣡दितिः श꣡र्म यछतु  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M;; repeated line
 मा॒ता । मि॒त्रस्य॑ । रे॒वतः॑ । अ॒र्य॒म्णः । वरु॑णस्य । च॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
@@ -123,42 +123,42 @@ genre M;; repeated line
 **नः** अस्मान् **अदितिः** अखण्डनीया देवमाता **उरुष्यतु** रक्षतु । तथा **अदितिः** **शर्म** सुखं **यच्छतु** । अदितिर्विशेष्यते । या **माता** निर्मात्री । कस्य । मित्रस्य **रेवतः** धनवतः **अर्यम्णः** **वरुणस्य** च । सा न उरुष्यत्विति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Aditi** defend us, may Aditi grant us happiness, the mother of the wealthy **Mitra**, **Aryama** andVaruṇa; your aids are void of harm, your aids are true aids.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Aditi deliver us; let Aditi spread her shelter—  
 the mother of rich Mitra, of Aryaman and Varuṇa.  
 –Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take revátaḥ with Aryaman, not Mitra. It is true that the adj. is positioned between the two names and could in principle modify either one or both, but it belongs to the same pāda as mitrásya, and the following pāda containing aryamṇáḥ is a repeated pāda (=I.136.2e), in a verse where revánt- is not found. Since, further, revánt- is not a standard epithet of Aryaman, it seems wise to take it with Mitra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Aditi defend us, may Aditi guard and shelter us,  
      Mother of wealthy Mitra and of Aryaman and Varuna.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aditi soll uns frei machen, Aditi soll ihren Schirm gewähren, die Mutter des Mitra, des reichen Aryaman und des Varuna. - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es gebe Raum uns Aditi, und Aditi verleih uns Schutz, Des reichen Mitra Mutter sie, des Arjaman und Varuna; ganz unvergleichlich ist eur Schutz und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть спасет нас Адити,  
 Пусть Адити дарует защиту,  

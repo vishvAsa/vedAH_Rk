@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वावृधानः꣡ श꣡वसा भू꣡रिओजाः  
 श꣡त्रुर् दासा꣡य भिय꣡सं दधाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ ते नवन्त प्र꣡भृता म꣡देषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अवि॑ऽअनत् । च॒ । वि॒ऽअ॒नत् । च॒ । सस्नि॑ । सम् । ते॒ । न॒व॒न्त॒ । प्रऽभृ॑ता । मदे॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāvṛdhānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
@@ -120,36 +120,36 @@ popular
 **शवसा** बलेन **ववृधानः** वर्धमानः अत एव **भूर्योजाः** बहुबलः **शत्रुः** शातयितेन्द्रः **दासाय** उपक्षयकारिणे शत्रवे **भियसं** भीतिं **दधाति** विदधाति । करोति । **अव्यनत्** । विविधमनिति श्वसितीति **व्यनत्** प्राणवज्जङ्गमम् । तद्विलक्षणमव्यनत् स्थावरम् । तदुभयमपि **सस्नि** संस्नातमिन्द्रेण सम्यक् शोधितं भवति ॥ स्नातेः  ‘ आदृगमहन०' इति व्यत्ययेन कर्मणि किन्प्रत्ययः॥ यद्वा अन्तर्णीतण्यर्थात् कर्तर्येव किन् । वृष्ट्यादिना सम्यक् स्नापयिता शोधयिता भवति ॥  ‘न लोकाव्यय' इति कर्मणि षष्ठ्याः प्रतिषेधः । शिष्टः पादः प्रत्यक्षकृतः । हे इन्द्र **ते** तव **मदेषु** हर्षेषु हविषा स्तुत्या च जातेषु सत्सु **प्रभृता** प्रभृतानि प्रकर्षेण धृतानि पोषितानि वा सर्वाणि भूतजातानि **सं** **नवन्त** संगच्छन्ते । स्तोतुं हवींषि च दातुं समूहीभवन्तीत्यर्थः । नवतिर्गतिकर्मा ॥ प्रभृता । बिभर्तेः कर्मणि निष्ठा ।  ‘ शेश्छन्दसि बहुलम्' इति शेर्लोपः।  ‘ गतिरन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Waxing in strength, the very powerful, destructive (**Indra**), implants fear in the **Dāsa**; both theinanimate and the animate (world) is purified by him. Nourished in your exhilaration (all creatures) are assembled.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having grown strong through his swelling power, he of much might, as  rival to the Dāsa, creates terror for him.  
 On your winning the animate and the inanimate, (your helpers) bellow to  you together at the presentation (of the soma), at the revels.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Grown mighty in his strength, with ample vigour, he as a foe strikes fear into the Dasa,  
      Eager to win the breathing and the breathless. All sang thy praise at banquet and oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An Stärke gewachsen, kraftvoll, bringt er als Gegner Furcht über den Dasa. Während er Lebloses und Lebendiges gewinnt, schreien sie dir unter Darbringung des Soma im Rausche zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An Macht erstarkend als der vielgewalt'ge, versetzt den Dämon er als Feind, in Schrecken, Erbeutend das, was athmet und nicht athmet; dir nahn beim Mahl die dargebrachten Tränke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возросши мощью, (этот) обладатель большой силы  
 Внушает дасе страх как противник,  

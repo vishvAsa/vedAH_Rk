@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् वो जामित्व꣡म् मरुतः प꣡रे युगे꣡  
 पुरू꣡ य꣡च् छं꣡सम् अमृ꣡तास आ꣡वत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 साकं꣡ न꣡रो दंस꣡नैर् आ꣡ चिकित्रिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒या । धि॒या । मन॑वे । श्रु॒ष्टिम् । आव्य॑ । सा॒कम् । नरः॑ । दं॒सनैः॑ । आ । चि॒कि॒त्रि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -134,14 +134,14 @@ genre M
 हे **मरुतः** **वो** **जामित्वं** बन्धुत्वमस्मद्विषयप्रेमाधिक्यं **तत्** खलु प्रसिद्धमित्यर्थः। कियत्पर्यन्तमिति तदुच्यते । **परे** **युगे** । युगशब्दः कालोपलक्षकः । उत्कृष्टे महति कालेऽतीतेऽपि वर्तत इति शेषः । तत्कथमधिगतमित्यत आह । **अमृतासः** अमरणधर्माणो हे मरुतः यूयं **यत्** यस्मात् **शंसम्** अस्माभिः क्रियमाणां स्तुतिं **पुरु** प्रभूतं यथा भवति तथा **आवत** रक्षथ । तस्माद्युष्मत्कृतं जामित्वमविनाशीत्यर्थः । किंच यूयम् **अया** **धिया** अनयानुग्रहात्मिकया बुद्ध्या **मनवे** मनुष्याय स्तोत्रे यष्ट्रे वा अस्मदादये **श्रुष्टिमाव्य** कीर्तिं स्तुतिं वा रक्षित्वा **साकं** संभूय **नरः** नेतारः सन्तः **दंसनैः**। कर्मभिरित्थंभूताः **आ** **चिकित्रिरे** सर्वतो जानीथ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your alliance with us, **Maruts**, is of a long duration on which account, immortals, accept our ample praise and, having accepted ourlaudation, be gratified, leaders (of sacrifice), by our holy acts, through this (your) favourable disposition towards mankind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is your kinship to the earlier generation, o Maruts, that as  
 immortals you many times favored its laud.  
@@ -149,28 +149,28 @@ By reason of this poetic insight (of Manu’s), having favored his
 attentive hearing, the superior men [=Maruts] showed themselves to  Manu all at once through their wondrous deeds.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take cd as a concrete example of the statement in ab, that the Maruts’ connection with the older generation arises from their favoring its “laud” (śáṃsam -- note that this positively viewed śáṃsa- contrasts with the evil śáṃsa- of 8d). Manu is of course a member of the older generation, and because of his “insight” (ayā́dhiyā́) the Maruts favor him and show themselves to him with all their wondrous qualities.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is your kinship, Maruts, that, Immortals, ye were oft in olden time regardful of our call,  
      Having vouchsafed to man a hearing through this prayer, by wondrous deeds the Heroes have displayed their might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das war, o Marut, euer Verwandtschaftsgefühl in einer fernen Zeit, daß ihr Unsterbliche oftmals das Preislied bevorzugtet. Mit dieser Gesinnung haben die Herren sich vor Manu, seine Dienstwilligkeit bevorzugend, zugleich mit ihren Meisterkünsten sehen lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Darin steht eure Freundschaft in vergangner Zeit, dass, Maruts, oft dem Sänger ihr geholfen habt; Für dies Gebet dem Menschen schenkend will'ges Ohr, thun sich die Männer all' hervor durch Wunderthat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Таково (было) ваше родство, о Маруты, в далекие времена,  
 Что вы, о бессмертные, много раз отзывались на (нашу) хвалебную речь  

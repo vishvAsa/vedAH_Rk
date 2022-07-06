@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रायेन्दो मरु꣡त्वते  
 प꣡वस्व म꣡धुमत्तमः  
 ऋत꣡स्य यो꣡निम् आस꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 ऋ॒तस्य॑ । योनि॑म् । आ॒ऽसद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -75,19 +75,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्दो** सोम **मधुमत्तमः** अतिशयेन मधुमांस्त्वम् **ऋतस्य** यज्ञस्य **योनिं** स्थानम् **आसदम्** उपवेष्टुं **मरुत्वते** **इन्द्राय** इन्द्रार्थं **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow, **Indu**, for **Indra** associated with the **Maruts**, you who are most sweet-flavoured, and take your seat on the plural ce of the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Indra with the Maruts, o drop, purify yourself as the most honeyed, to sit on the womb of truth.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -97,23 +97,23 @@ The mention of the divine recipients of the soma in vss. 22 and 24 marks this t�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra girt by Maruts, flow, thou Indu, very rich in sweets,  
      To sit in place of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, o Saft, als Süßester für Indra in Begleitung der Marut, um dich in deinen ordnungsgemäßen Schoß zu setzen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra mit der Marutschar, o Indu, riesle, süssester! Zu setzen dich in Opfers Schooss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

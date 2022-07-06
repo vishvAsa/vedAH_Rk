@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प स्र꣡क्वेषु ब꣡प्सतः  
 कृण्वते꣡ धरु꣡णं दिवि꣡  
 इ꣡न्द्रे अग्ना꣡ न꣡मः सु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रे॑ । अ॒ग्ना । नमः॑ । स्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 महावीरस्य **स्रक्केषु** **बप्सतः** ज्वालया भक्षयतोऽग्नेरन्नं **धरुणम्** इन्द्रे अग्ना इति वक्ष्यमाणत्वादिन्द्राग्न्योर्धारकं **दिवि** अन्तरिक्षे **उप** **कृण्वते** उपकुर्वते । यदाग्निर्महावीरं दहति तदा तस्योपर्युभयविधं क्षीरमासेचयन्तीत्यर्थः । एवं महावीर आसिच्य **इन्द्रे** **अग्ना** अग्नौ च **स्वः** सर्वं गव्यमाजं च **नमः** अन्नम् । अथवा स्वरन्तरिक्षे । योजयन्तीति शेषः ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,34 +99,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 All the food: svaḥ = **divi**, in the sky
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the jaws of the (soma press) as it chews they make themselves a  support in heaven,  
 make their reverence to Indra and Agni, and create the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take kṛnvaté as governing three different objects, dharúṇam, námaḥ, and svàḥ, each with a slightly different relationship with the verb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Devouring in their greedy jaws, they make sustaining food in heaven,  
      To Indra, Agni light and prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Gebiß des Schnappenden machen sie die Stütze am Himmel, die Sonne: eine Huldigung für Indra und Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Munde dessen, der da kaut, verschaffen sie dem Himmel Halt, Dem Indra, Agni Ehr' und Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В челюсти грызущего  
 Они создают опору неба,  

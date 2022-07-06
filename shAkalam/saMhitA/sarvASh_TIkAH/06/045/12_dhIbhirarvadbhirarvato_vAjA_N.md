@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धीभि꣡र् अ꣡र्वद्भिर् अ꣡र्वतो  
 वा꣡जाँ इन्द्र श्रवा꣡यियान्  
 त्व꣡या जेष्म हितं꣡ ध꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त्वया॑ । जे॒ष्म॒ । हि॒तम् । धन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
@@ -84,7 +84,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **धीभिः** स्तुतिभिस्त्वद्विषयाभिः प्रीतेन **त्वया** अनुगृहीता वयम् **अर्वद्भिः** अस्मदीयैः अश्वैः **अर्वतः** शत्रुसंबन्धिनोऽश्वान् **श्रवाय्यान्** श्रवणीयान् प्रशस्यान् **वाजान्** अन्नानि च **हितं** शत्रुषु निहितं **धनं** च **जेष्म** त्वदनुग्रहाज्जयेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,13 +95,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Literally, with praises, by horses, horses food, excellent Indra by you, we conquer deposited wealth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With insights as our steeds, (might we win) steeds and prizes worthy of  fame, o Indra;  
 with you might we win the stake that is set.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase hitá- dhána- is repeated from 11b and also picks up the same phrase in 2c. (See disc. above.) In fact 12c tváyā jeṣma hitáṃ dhánam is a telling variant on 2c índro jétā hitáṃ dhánam. In vs. 2 Indra is described as a/the (habitual) winner of the stake, while by vs. 12 it is we who hope to be the winners with his help. The vocalism of the precative jeṣma matches that of the agent noun jétā in 2.
 
@@ -110,23 +110,23 @@ See further 15c. Note also that 2b contains an instr. árvatā “with a steed�
 The opening of the vs. is called “stark elliptisch” by Geldner, who sees two different possible constructions (n. 12a): “with insights (might we overcome) (the insights of other poets) and with steeds (might we overcome) steeds” or “with insights (as) steeds …” His tr. seems to reflect the first (though without supplying any further material), while I prefer the second.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With hymns and coursers we will gain, Indra, through thee, both steeds and spoil  
      Most glorious, and the proffered prize.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit weisen Gedanken, mit Rennpferden wollen wir die Rennpferde besiegen, zu Ruhm gereichende Gewinne, o Indra, durch dich den ausgesetzten Kampfpreis ersiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Rosse, Indra, und Gebet lass uns den ausgesetzten Preis Erringen Rosse, Nahrung, Schatz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Молитвами (- молитвы), скакунами – скакунов,  
 Награды, о Индра, достойные славы,  

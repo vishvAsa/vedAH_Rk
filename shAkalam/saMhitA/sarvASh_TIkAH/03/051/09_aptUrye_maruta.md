@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अप्तू꣡रिये मरुत आपि꣡र् एषो꣡  
 अ꣡मन्दन्न् इ꣡न्द्रम् अ꣡नु दा꣡तिवाराः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुतं꣡ सो꣡मं दाशु꣡षः स्वे꣡ सध꣡स्थे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तेभिः॑ । सा॒कम् । पि॒ब॒तु॒ । वृ॒त्र॒ऽखा॒दः । सु॒तम् । सोम॑म् । दा॒शुषः॑ । स्वे । स॒धऽस्थे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aptūrye* ← *aptūrya*
 - \[noun\], locative, singular, neuter
@@ -119,20 +119,20 @@ genre M
 हे **मरुतः** यः **एषः** इन्द्रः **अप्तूर्ये** अपां प्रेरणे **आपिः** युष्माकं सखा सन् वर्तते **दातिवाराः**। वारो वरणीयं बलं धनं वा । दत्तबला दत्तधना वा । ते मरुतस्तम् **इन्द्रमनु** **अमन्दन्** अहृष्यन् । **वृत्रखादः** वृत्रस्य हिंसकः स इन्द्रः **तेभिः** तैर्मरुद्भिः **साकं** **दाशुषः** हविर्दत्तवतो यजमानस्य **स्वे** स्वकीये **सधस्थे** । सह तिष्ठन्त्यस्मिन्निति सधस्थं गृहम् । तस्मिन् **सुतम्** अभिषुतं **सोमं** **पिबतु** ॥ अप्तूर्ये । ' तूरी त्वराहिंसयोः' इत्यस्मात् “ अघ्न्यादयश्च ' इति यत्प्रत्ययः । यतोऽनावः' इत्याद्युदात्तः । समासे कृदुत्तरपदस्वरः । अमन्दन् । मदि स्तुत्यादिषु । परस्मैपदी । पादादित्वादनिघातः । वृत्रखादः । ‘ खादृ भक्षणे '। कर्मण्यण् । दाशुषः । दाशृ दाने ' इत्यस्य क्वसौ ' दाश्वान्साह्वान्मीढ्वांश्च ' इति द्विर्वचनाद्यभावः । वसोः संप्रसारणम् । प्रत्ययस्वरः । सधस्थे । ‘ सध मादस्थयोश्छन्दसि ' इति सहस्य सधादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, this is your friend for sending of the waters; they (the Maruts), the givers of strength, have yielded **Indra** gratification; may the devourer of **Vṛtra** drink with them the libation offered by the worshipper in his abode.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the crossing of the waters, o Maruts, he is a friend. They, who give  favors, have applauded Indra.  
 Together with them let the Vr̥tra-gnawer drink the pressed soma in the  very seat of the pious worshiper.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The abrupt temporal shifts continue in this vs., exacerbated by shifts in person. The poet first addresses the Maruts in the 2nd ps. and asserts something about Indra in the present time (or so I [and the other standard tr.] take the nominal sentence without overt copula). In pāda b the Maruts are then referred to in the 3rd ps.
 
@@ -144,23 +144,23 @@ In 6c Indra was urged to become “a friend of present help”; what that presen
 III.51.9-10. Note that pibatu takes an acc. in 9cd, but a gen. in 10c, as with ápibaḥ in 7b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He was your comrade in your zeal, O Maruts: they, rich in noble gifts, rejoiced in Indra.  
      With them together let the Vrtra-slayer drink in his home the worshipper's libation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei der Überschreitung der Gewässer ist dieser der gute Freund, o Marut. Es jubelten dem Indra die Wunschgewährer zu. Mit ihnen zusammen soll der Vritravertilger den gepreßten Soma an des Opferspenders eigenem Sitze trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im schnellen Werk war er ein Freund euch, Maruts, dem Indra jauchzten zu die gabenreichen; Der Vritratilger trinke nun mit diesen im eignen Sitz des Frommen Somatränke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он союзник, о Маруты, при переправе через воды.  
 Индру приветствовали, ликуя, (эти) дающие лучшее.  

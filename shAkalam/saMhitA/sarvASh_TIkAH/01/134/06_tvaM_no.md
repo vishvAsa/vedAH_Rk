@@ -6,7 +6,7 @@ ChandaH = "अष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नो वायव् एषा᳐म् अ꣡पूर्वियः  
 सो꣡माना᳐म् प्रथमः꣡ पीति꣡म् अर्हसि  
@@ -17,7 +17,7 @@ ChandaH = "अष्टिः"
 घृतं꣡ दुह्रत आशि꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 विश्वाः॑ । इत् । ते॒ । धे॒नवः॑ । दु॒ह्रे॒ । आ॒ऽशिर॑म् । घृ॒तम् । दु॒ह्र॒ते॒ । आ॒ऽशिर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -153,7 +153,7 @@ genre M
 हे वायो **त्वम्** **अपूर्व्यः** । न विद्यते पूर्वं यस्मात् तत्पानमपूर्वम् । तदर्हतीत्यपूर्व्यः । तादृशः अत एव **प्रथमः** इतरदेवेभ्यः पूर्वभूतः सन् **सोमानां** **पीतिं** पानम् **अर्हसि** प्राप्नोषि। **सुतानाम्** अभिषवकृतानां सोमानां **पीतिं** पानम् **अर्हसि** । यत्र यत्र अभिषवोऽस्ति तत्र सर्वत्र नियमेन पिबसीत्यर्थः । पूर्वं प्राथम्याभिप्रायेण इदानीं तु सर्वत्र सोमवति यागे अस्य पानमस्तीति ज्ञापयितुं पृथगभिधानम् । न केवलं सोमपानमात्रम् **उतो** अपि तु **विहुत्मतीनां** विशेषेण होमवतीनामाह्वानवतीनां वा ॥ जुहोतेः संपदादिलक्षणो भावे क्विप् । ततो मतुब्ङीपौ ॥ **ववर्जुषीणाम्** अनभिमतपापं वर्जयन्तीनाम् ॥ वर्जयतेर्लिटः क्वसुङीप्संप्रसारणत्वानि ॥ **विशाम्**  ऋत्विग्यजमानरूपाणां प्रजानां संबन्धि हविः स्वीकरोषीति शेषः । यद्वा । तेषां यष्टॄणां **विश्वाः** **इत्** **धेनवः** सर्वा अपि गावः **ते** त्वदर्थम् **आशिरम्** आश्रयणद्रव्यं क्षीरं **दुहे** दुहन्ति स्वयमेव ॥ कर्मकर्तरि  ‘ न दुहस्नुनमाम्° इति यगभावः ।  ‘ लोपस्त आत्मनेपदेषु' इति तलोपः ।  ‘ बहुलं छन्दसि ' इति रुट् ॥ तथा **आशिरं** **घृतम्** उपस्तरणाभिघारणाद्याश्रयणाय योग्यं करणं द्रव्यं **दुह्रते** ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -164,7 +164,7 @@ genre M
 Āśiram = kṣīram; **ghṛta**; in both meanings, aṣrayana dravyam, an article which is the material of oblations and the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Vāyu, with no one ahead, have first right to the drinking of these  soma drinks of ours—you have the right to the drinking of these  
 pressings.  
@@ -173,7 +173,7 @@ toward them)—
 all their milk-cows have milked out the milk-mixture for you—have  milked out the ghee and the milk-mixture.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For abc as a “repair” of pāsi in 5fg, see disc. there.
 
@@ -189,24 +189,24 @@ Fronted forms of the 2nd sg. pronoun begin most of the metrically significant se
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Vayu, who hast none before thee, first of all hast right to drink these offerings of Soma juice, hast right to drink the juice out-poured,  
      Yea, poured by all invoking tribes who free themselves from taint of sin,  
      For thee all cows are milked to yield the Soma-milk, to yield the butter and the milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Vayu, hast als allererster das Anrecht auf den Trunk dieser Somatränke von uns, hast das Anrecht auf den Trunk der ausgepreßten. Und wenn die um die Wette opfernden Stämme dich in Beschlag genommen haben, so geben alle Milchkühe für dich ihre Mischmilch her, geben ihren Schmalz, ihre Mischmilch her.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor allen andern dir zuerst gebührt der Trunk, o Vaju, dieser unsrer Somatränke hier der Säfte Trunk gebühret dir, Der opferreichen Stämme Trank, die dir die Streu bereiteten; Dir strömen alle Kühe fettes Milchgemisch, sie strömen dir das Milchgemisch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Ваю, первым, не имеющим предшественников,  
 Заслуживаешь питья этих наших соков сомы,  

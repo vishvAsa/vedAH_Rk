@@ -6,7 +6,7 @@ ChandaH = "अतिशक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡म्-अग्निं वः समि꣡धा दुवस्यत  
 प्रिय꣡म्-प्रियं वो अ꣡तिथिं गृणीष꣡णि  
@@ -15,7 +15,7 @@ ChandaH = "अतिशक्वरी"
 देवो꣡ देवे꣡षु व꣡नते हि꣡ नो दु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 उप॑ । वः॒ । गीः॒ऽभिः । अ॒मृत॑म् । वि॒वा॒स॒त॒ । दे॒वः । दे॒वेषु॑ । वन॑ते । हि । वार्य॑म् । दे॒वः । दे॒वेषु॑ । वन॑ते । हि । नः॒ । दुवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -158,43 +158,43 @@ genre M
 हे अस्मदीयाः स्तोतारः **वः** यूयं **प्रियंप्रियम्** अत्यन्तं प्रियं **वः** युष्माकम् **अतिथिम्** अतिथिवत्पूज्यं **गृणीषणि** शब्दनीयं स्तुत्यम् **अग्निमग्निम्** अग्निमेव । नान्यं देवमित्यर्थः । **समिधा** समिन्धनेन समिद्भिर्वा **दुवस्यत** परिचरत । यद्वा । गृणीषणीति सप्तम्यन्तम् । गृणीषणि स्तोत्रे विषयतया वर्तमानम् । अपि च **वः** यूयम् **अमृतम्** अमरणमग्निं **गीर्भिः** स्तुतिभिरुपेत्य **विवासत** परिवरत । **हि** यस्मात् **देवेषु** मध्ये **देवः** दानादिगुणयुक्तोऽग्निः **वार्यं** वरणीयं समिदादिकं **वनते** संभजते । **हि** यस्माच्च **देवेषु** मध्ये **देवः** अग्निः **नः** अस्माकं **दुवः** परिचरणं **वनते** संभजते तस्मात् दुवस्यतेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Worship repeatedly the adorable **Agni** with fuel (him) who is ever your dear friend, your guest; approach the immortal Agni with praises, for he, a god among gods, accepts our homage.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To your every fire do friendly service with a kindling stick, to your every  dear guest in hymning (them).  
 Seek to win the immortal one with your hymns, for the god will win what  is choice among the gods; for the god will win friendship for us among  the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The locatival inf. gṛṇīṣáṇi occurs only here and in VIII.12.19. Curiously, in both passages it is construed with āmreḍitas: here priyám-priyam … átithim (matching agním-agnim in pāda a), in VIII.12.19 deváṃ-devam … índram-indram. I don’t quite know what to do with this fact. Keydana (p. 178) takes it as a “Matrixinfinitiv” functionally equivalent to an imperative, pointing to impv.
 
 duvasyata in pāda a. However, it would also be possible to interpret it as I do, with duvasyata the main verb of both pādas and the infinitive an adverbial adjunct to both pādas. I would change the tr. of the āmreḍitas, however, to one more in harmony with that in VIII.12.19: “Time after time do friendly service to the fire with a kindling stick, time after time to your dear guest, in hymning (him).” The morphology of gṛṇīṣáṇi is of course unusual, though it belong with the small group of RV -san-i locatival infinitives, some of which (cf. esp. upastṛṇīṣáṇi, which, however, I now consider to be based on gṛṇīṣáṇi; see comm. ad VI.44.6) are built to already derived verbal stems (see AiG II.2.924-25). In this passage it phonologically echoes ghṛṇé and tatṛṣāṇáḥ in the preceding vs. (5d), and in the next vs. (which also belongs to the next tṛca) pāda-final gṛṇe, which is also of course etymologically related.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Worship ye Agni, Agni, with your log of wood; praise your beloved, your beloved guest with songs.  
      Invite ye the Immortal hither with your hymns. A God among the Gods, he loveth what is choice, loveth our service, God mid Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Immer huldiget eurem Agni mit Brennholz, immer feiert euren lieben Gast; machet mit Lobreden den Unsterblichen euch geneigt, denn der Gott gewinnt von den Göttern alles Wünschenswerte, denn der Gott gewinnt bei den Göttern Achtung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beschenkt den Agni stets mit eurem Flammenholz, und preiset hoch ihn euren lieben, lieben Gast; Gewinnet euch durch Lieder den Unsterblichen; denn zu den Göttern bringt der Gott die Schätze hin; (denn zu den Göttern bringt er unsre Gaben hin.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Почитайте вашего Агни раз за разом дровами!  
 Воспевайте вашего милого гостя раз за разом!  

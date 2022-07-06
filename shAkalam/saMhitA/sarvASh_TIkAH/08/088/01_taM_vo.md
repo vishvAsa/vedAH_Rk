@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वो दस्म꣡म् ऋतीष꣡हं  
 व꣡सोर् मन्दान꣡म् अ꣡न्धसः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्रं गीर्भि꣡र् नवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । व॒त्सम् । न । स्वस॑रेषु । धे॒नवः॑ । इन्द्र॑म् । गीः॒ऽभिः । न॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -105,7 +105,7 @@ genre M
 नोधा इन्द्रं स्तौति । हे ऋविग्यजमानाः **दस्मं** दर्शनीयम् **ऋतीषहम्** । ऋतयो बाधकाः शत्रवः । तेषामभिभवितारम् । पुनः कीदृशम् । **वसोः** वासयितुर्दुःखस्य निवासयितुः । यद्वा । वसोः पात्रे निवसतः । तादृशस्य **अन्धसः** सोमलक्षणस्यान्नस्य पानेन **मन्दानं** मन्दमानं मोदमानं **वः** यष्टृयष्टव्यत्वेन युष्मत्संबन्धिनं **तं** तादृशम् **इन्द्रं** **गीर्भिः** स्तुतिलक्षणाभिर्वाग्भिः **अभि** **नवामहे** ।‘नू स्तवने' 'नु शब्दे'। अभिष्टुमः। कुत्रेति। **स्वसरेषु** । अत्र यास्कः- ‘ स्वसराण्यहानि स्वयंसारीण्यपि वा स्वरादित्यो भवति स एनानि सारयति' (निरु. ५. ४ ) इति । सूर्यनेतृकेषु दिवसेषु वयमभिष्टुमः । तत्र दृष्टान्तः । **वत्सं** **न** यथा **धेनवः** नवप्रसूतिका धेनवः स्वसरेषु । सुष्ठ्वस्यन्ते प्रेर्यन्ते गावोऽत्रेति स्वसराणि गोष्ठानि । तेषु वत्समभिलक्ष्य शब्दयन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,34 +116,34 @@ genre M
 In the stalls: svasareṣu; **Yāska**(**Nirukta** 5.4): days; we praise you in the days; excellent Soma: vasoḥ = vasayītuḥ; cf. RV 6.16.25
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To him, the wondrous, vanquishing with his attack, becoming exhilarated  from the good stalk,  
 to Indra do we bellow with our hymns on your behalf, like milk-cows in  good pastures to their calf.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A neuter word for a verbal product needs to be supplied with bṛhát in a; Geldner suggests either bráhma (from 3b) or sā́ma (after Sāyaṇa). The latter is more likely, since sāmans are sung (cf. VIII.98.1 índrāya sā́ma gāyata, which is almost identical to our pāda), and since loc. sā́man is found in the last verse, 7c, it produces an implicit ring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As cows low to their calves in stalls, so with our songs we glorify  
      This Indra, even your Wondrous God who checks attack, who joys in the delicious juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach diesem Meister, der die Angriffe besteht, der sich an dem guten Trank ergötzt, nach Indra, schreien wir für euch mit Lobesworten wie die Kühe auf der Frühweide nach dem Kalbe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir schreien euren Helden an, der sich des guten Tranks erfreut, Wie in den Ställen Kühe nach dem Kalbe schrein. den tapfern Indra mit Gesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы взываем для вас песнями  
 К этому удивительному, отражающему атаки,  

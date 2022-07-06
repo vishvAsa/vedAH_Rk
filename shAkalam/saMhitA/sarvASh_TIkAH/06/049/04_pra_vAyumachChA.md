@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वायु꣡म् अ꣡छा बृहती꣡ मनीषा꣡  
 बृह꣡द्रयिं विश्व꣡वारं रथप्रा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कविः꣡ कवि꣡म् इयक्षसि प्रयज्यो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 द्यु॒तत्ऽया॑मा । नि॒ऽयुतः॑ । पत्य॑मानः । क॒विः । क॒विम् । इ॒य॒क्ष॒सि॒ । प्र॒य॒ज्यो॒ इति॑ प्रऽयज्यो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 ”बृहती महती **मनीषा** अस्मदीया स्तुतिः **वायुम्** **अच्छ** आभिमुख्येन **प्र** गच्छतु ॥ उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ कीदृशं वायुम् । **बृहद्रयिं** महाधनं **विश्ववारं** विश्वैर्वरणीयं संभजनीयं **रथप्रां** रथस्यात्मीयस्य प्रातारं पूरयितारम् । यद्वा । स्तोतॄणां रथं धनैः पूरयितारम् । अथ प्रत्यक्षस्तुतिः । हे **प्रयज्यो** प्रकर्षेण यष्टव्य वायो **द्युतद्यामा** प्रदीप्तयानः **नियुतः** आत्मीयरथयोज्याः वडवाः ताः **पत्यमानः** अभिपतन्नभिगच्छन् । यद्वा । पत्यतिरैश्वर्यकर्मा। तासां वडवानामीश्वरः **कविः** क्रान्तदर्शी। एवंभूतः त्वं **कविं** मेधाविनं स्तोतारम् **इयक्षसि** धनेन पूजय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 Kavim iyakṣasi prayajyo: prayajyo is applied to the priest, the **adhvaryu**; worship, venerable priest, the wise Vāyu...
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A lofty inspired thought (goes) forth to Vāyu, who, possessing lofty  wealth and all valuables, fills the chariot.  
 Having a brilliant course, master of teams, as poet you seek to reach the  poet, you who are worshiped at the forefront of the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I with a lofty song call hither Vayu, all-bounteous, filler of his car, most wealthy.  
      Thou, Sage, with bright path, Lord of harnessed horses, impetuous, promptly honourest the prudent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mein hohes Sinnen geht zu Vayu dem Vielbegehrten mit hohem Reichtum und vollem Wagen. In glänzender Auffahrt, die Niyut besitzend, begehrst du, der Seher, nach dem Seher, du Opfersamer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hin zu dem Vaju dring das grosse Preislied, der reich an allen Gütern vollen Wagens Im Glanze fährt, mit Vielgespann versehen; als weiser ehrst den weisen du, o Stürmer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Ваю стремится (мой) высокий помысел,  
 К обладанию высокого богатства, всего желанного, наполняющего колесницу (сокровищами).  

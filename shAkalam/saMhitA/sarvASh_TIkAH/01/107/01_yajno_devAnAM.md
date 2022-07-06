@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञो꣡ देवा꣡नाम् प्र꣡ति एति सुम्न꣡म्  
 आ꣡दित्यासो भ꣡वता मॄळय꣡न्तः+  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अंहो꣡श् चिद् या꣡ वरिवोवि꣡त्तरा꣡सत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । वः॒ । अ॒र्वाची॑ । सु॒ऽम॒तिः । व॒वृ॒त्या॒त् । अं॒होः । चि॒त् । या । व॒रि॒वो॒वित्ऽत॑रा । अस॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
@@ -123,44 +123,44 @@ genre M
 इति पर्युदासात् निघाताभावः । मृळ्यन्तः ।  ‘ मृड सुखने '। प्यन्तात् लटः शतृ । शप् । छन्दस्युभयथा ' इति शतुः आर्धधातुकत्वेन अदुपदेशात् लसार्वधातुकानुदात्तत्वाभावे शतुः स्वरः शिष्यते । ववृत्यात् । वृतु वर्तने । लिङि व्यत्ययेन परस्मैपदम् । बहुलं छन्दसि ' इति शप: श्लुः । अंहोः ।  ‘ अहि गतौ ' । इदित्त्वात् नुम् । औणादिक उप्रत्ययः । वरिवोवित्तरा ।' विद्लृ लाभे'। अस्मादन्तर्भावितण्यर्थात् क्विप् । तत आतिशायनिक तरप् । असत् ।' अस भुवि '। लेटि अडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May our sacrifice give satisfaction to the gods; **Ādityas**, be gracious, and may your good intentions be directed towards us, so as to be abundant source of affliction to the poor.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sacrifice goes toward the benevolence of the gods: o Ādityas, become  compassionate.254 I.108  
 Your benevolent thought, inclined our way, should turn you hither—that  which will be excellent at finding a wide place even out of narrow  
 straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take ā́… vavṛtyāt as transitive, with vaḥ as object, contra all standard tr.
 
 An intransitive tr. is tempting (and see VII.59.4), but this stem is overwhelming transitive elsewhere.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE sacrifice obtains the Gods' acceptance: be graciously inclined to us, Adityas.  
      Hitherward let your favour be directed, and be our best deliverer from trouble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfer kommt der Huld der Götter entgegen. Adityas! Seid barmherzig! Eure Gunst soll zu uns einlenken, die auch aus Not am besten befreien wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Huld der Götter eilet hin das Opfer, o seid uns gnädig, ihr Aditi-Söhne, Zu uns hinstrebend lenk euch eure Gunst her, die auch aus Drangsal freisten Raum uns schaffe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертва движется навстречу милости богов.  
 О Адитьи, будьте снисходительны!  

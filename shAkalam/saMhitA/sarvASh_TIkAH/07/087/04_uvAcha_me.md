@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उवा꣡च मे व꣡रुणो मे꣡धिराय  
 त्रिः꣡ सप्त꣡ ना꣡म अ꣡घ्निया बिभर्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युगा꣡य वि꣡प्र उ꣡पराय शि꣡क्षन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि॒द्वान् । प॒दस्य॑ । गुह्या॑ । न । वो॒च॒त् । यु॒गाय॑ । विप्रः॑ । उप॑राय । शिक्ष॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uvāca* ← *vac*
 - \[verb\], singular, Perfect indicative
@@ -127,7 +127,7 @@ genre M
 **मेधिराय** मेधाविने **मे** मह्यं **वरुणः** **उवाच** उक्तवान् । किमुक्तवान् तदाह । **त्रिः** **सप्त** एकविंशतिसंख्याकानि नामानि **अघ्न्या** गौः **बिभर्ति** धारयतीति । वागत्र गौरुच्यते । सा च उरसि कण्ठे शिरसि च बद्धानि गायत्र्यादीनि सप्त छन्दसां नामानि बिभर्ति । यद्वा । वेदात्मिका वागेकविंशतिसंस्थानां यज्ञानां नामानि बिभर्ति धारयति । अपर आह । गौः पृथिवी । तस्याश्च  ‘ गौर्ग्मा ज्मा ' इति पठितान्येकविंशतिनामानीति । अपि च **विद्वान्** जानन **विप्रः** मेधावी स वरुणः **युगाय** युक्ताय **उपराय** उप समीपे रममाणायान्तेवासिने मह्यं **शिक्षन्** उपदिशन् **पदस्य** उत्कृष्टस्य स्थानस्य ब्रह्मलोकलक्षणस्य संबन्धीनि **गुह्या** गुह्यानि रहस्यान्युपदेशगम्यानि । नशब्दश्चार्थे । इमानि च **वोचत्** उक्तवान् । अतोऽहं वरुणस्य शिष्योऽस्मि । तस्मात् स वरुणः अस्मान् पापात् मोचयत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,30 +140,30 @@ The cow: aghnyā = vāk, speech;
 Gauḥ = aghnyā; the twenty- oneappellations are the seven metres of the **Veda**, as corresponding with the breast, throat, or head; or speech maymean the Veda; gauḥ may also mean, **pṛthivī**, earth, having also 21 synonyms
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Varuṇa said to me who am wise: “The inviolable cow bears three times  seven names.”  
 Knowing of its track, he will speak (its names) like secrets—he, the  
 inspired poet who strives on behalf of the later generation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To me who understand hath Varuna spoken, the names borne by the Cow are three times seven.  
      The sapient God, knowing the place's secret, shall speak as 'twere to teach the race that cometh.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mir, dem Weisen, hat Varuna kundgetan: "Die Kuh führt dreimal sieben Namen. Wer der rechten Spur des Wortes kundig ist, soll sie wie Geheimnisse lehren, wenn er dem späteren Geschlecht nützlich sein will.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu mir sprach Varuna, dem einsichtsvollen: »Die Weltkuh trägt der Namen dreimal sieben«, Der Weise, der des Orts Geheimniss kennet, verkünd' es nicht der Nachwelt, sie zu lehren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Провозгласил мне, умудренному, Варуна:  
 Трижды семь имен несет корова.  

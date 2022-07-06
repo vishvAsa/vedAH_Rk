@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो महा꣡न्तम् उत꣡ मा꣡ नो अर्भक꣡म्  
 मा꣡ न उ꣡क्षन्तम् उत꣡ मा꣡ न उक्षित꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ नः प्रिया꣡स् तनु꣡वो रुद्र रीरिषः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 मा । नः॒ । व॒धीः॒ । पि॒तर॑म् । मा । उ॒त । मा॒तर॑म् । मा । नः॒ । प्रि॒याः । त॒न्वः॑ । रु॒द्र॒ । रि॒रि॒षः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -154,42 +154,42 @@ genre M
 हे **रुद्र** **नः** अस्माकं मध्ये **महान्तं** वृद्धं **मा** **वधीः** मा हिंसीः । **उत** अपि च **नः** अस्माकम् **अर्भकं** बालं **मा** हिंसीः । तथा **नः** अस्माकं मध्ये **उक्षन्तं** सेक्तारं मध्यवयस्कं युवानं **मा** वधीः। **उत** अपि च **नः** अस्माकम् **उक्षितं** गर्भरूपेण स्त्रीषु निषिक्तमपत्यं मा वधीः । तथा **नः** अस्माकं **पितरं** जनकं **मा** वधीः। **उत** अपि च **मातरं** जननीं **मा** वधीः । तथा **नः** अस्माकं **प्रियाः** स्नेहविषयाः **तन्वः** शरीराणि तनूषु भवाः प्रजा वा हे रुद्र **मा** **रिरिषः** मा हिंसीः ॥ वधीः । हन्तेर्माङि • लुङि च ' इति वधादेशः । स चादन्तः । सिच इट् । अतो लोपस्य स्थानिवद्भावात् वृद्ध्यभावः । रिरिषः ।  ‘ रिष हिंसायाम्' । ण्यन्तात् लुङि चङि णिलोपोपधाह्रस्वत्वादीनि । छान्दसः पदकालीनोऽभ्यासह्रस्वः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Injure not, **Rudra**, those amongst us who are old or young, who are capable of begetting, or who are begotten, nor a father, nor a mother, nor afflict our precious person ns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not the great one among us nor the wee little one, not the growing one  among us nor the grown—  
 don’t smite our father nor our mother. Don’t harm our own dear  
 bodies, Rudra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “wee little one” reflects the suffixation of the (sometimes) diminutive -ká- to árbha-, which already means ‘small’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Rudra, harm not either great or small of us, harm not the growing boy, harm not the full-grown man.  
      Slay not a sire among us, slay no mother here, and to our own dear bodies, Rudra, do not harm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Weder den Großen noch den Kleinen unter uns, weder den Heranwachsenden noch den Erwachsenen unter uns, nicht unseren Vater noch die Mutter sollst du töten, noch unsere lieben Leiber schädigen, o Rudra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verletze nicht den grossen, noch den kleinen uns, nicht den erwachsnen, noch auch den, der uns erwächst, Verwunde unsern Vater, unsre Mutter nicht, noch füge unsern lieben Leibern Schaden zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни великого среди нас, ни малого среди нас,  
 Ни растущего среди нас, ни выросшего среди нас,  

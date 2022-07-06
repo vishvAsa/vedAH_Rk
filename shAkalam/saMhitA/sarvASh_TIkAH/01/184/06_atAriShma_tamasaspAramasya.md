@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡तारिष्म त꣡मसस् पार꣡म् अस्य꣡  
 प्र꣡ति वां स्तो꣡मो अश्विनाव् अधायि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ । इ॒ह । या॒त॒म् । प॒थिऽभिः॑ । दे॒व॒ऽयानैः॑ । वि॒द्याम॑ । इ॒षम् । वृ॒जन॑म् । जी॒रऽदा॑नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atāriṣma* ← *tṛ*
 - \[verb\], plural, Athematic is aor. (Ind.)
@@ -125,37 +125,37 @@ genre M;; repeated line
 अतारिष्मेतिषष्ठी व्याख्याता ॥ ६ ॥कतरापूर्वेतिएकादशर्चंषष्ठंसूक्तं द्यावापृथिवीदेवताकं अगस्त्यन्त्रैष्टुभं कतरैकादश द्यावापृथिवीय- मित्यनुक्रान्तम् आभिप्लविकेषष्ठेहनिवैश्वदेवशस्त्रेद्यावापृथिव्यनिविद्धानमिदं तृतीयस्येतिखण्डेसूत्रि- तम्—कतरापूर्वेषासानक्तेतिवैश्वदेवमिति महाव्रतेपिवैश्वदेवशस्त्रेइदमेवद्यावापृथिव्यनिविद्धानं उत्त- मादाभिप्लविकात्तृतीयसवनमित्यतिदेशात् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Through your aid), **Aśvins**, we cross over the limit of darkness; to you this (our hymn) has been addressed; come hither by the path traversed by thd gods, thatwe may obtain food, strength and long life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have crossed to the further shore of this darkness. A praise hymn has  been set out in response to you, o Aśvins.  
 Drive just here along the paths leading to the gods. – May we know  
 refreshment and a community having lively waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We have passed o'er the limit of this darkness: our praise hath been bestowed on you, O Asvins.  
      Come hitherward by paths which Gods have travelled. may we find strengthening food in full abundance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir sind ans Ende dieser Finsternis gelangt. An euch, Asvin, ist das Loblied gerichtet. Kommt auf den gottbegangenen Wege hierher! - Wir möchten einen gastfreien Opferbündler kennen lernen, der rasch schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch dieses Dunkel sind wir durchgedrungen und haben Loblied euch gebracht, o Ritter, So kommt denn her auf gottbetretnen Pfaden. – Gebt Labung uns und wasserreiche Fluren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы достигли другого берега этого мрака.  
 На вас нацелена эта хвалебная песнь, о Ашвины.  

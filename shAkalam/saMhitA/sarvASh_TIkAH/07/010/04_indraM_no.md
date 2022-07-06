@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं नो अग्ने व꣡सुभिः सजो꣡षा  
 रुद्रं꣡ रुद्रे꣡भिर् आ꣡ वहा बृह꣡न्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हस्प꣡तिम् ऋ꣡क्वभिर् विश्व꣡वारम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒दि॒त्येभिः॑ । अदि॑तिम् । वि॒श्वऽज॑न्याम् । बृह॒स्पति॑म् । ऋक्व॑ऽभिः । वि॒श्वऽवा॑रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -115,36 +115,36 @@ genre M
 हे **अग्ने** **वसुभिः** देवैः **सजोषाः** संगतस्त्वं **नः** अस्मदर्थम् **इन्द्रम्** **आ** **वह**। **रुद्रेभिः** रुदैर्देवैः संगतः **बृहन्तं** महान्तं **रुद्रं** चा वह। **आदित्येभिः** आदित्यैर्देवैः संगतः **विश्वजन्यां** विश्वजनहिताम् **अदितिं** चा वह । **ऋक्वभिः** स्तुत्यैः अङ्गिरोभिर्देवैः संगतः **विश्ववारं** विश्वैः संभजनीयं **बृहस्पतिं** चा वह ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Consentient with the **Vasus**, **Agni**, bring hither **Indra**, with the **Rudras**, the benevolent **Aditi**, with theĀdityas and **Bṛhaspati**, the desired of all, with the adorable (**Aṅgirasas**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, convey Indra to us along with the Vasus, lofty Rudra along with  the Rudras,  
 Aditi belonging to all peoples along with the Ādityas, and Br̥haspati  granting all wishes along with the reciters of verses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 joined with the Vasus, Agni, bring thou Indra bring hither mighty Rudra with the Rudras,  
      Aditi good to all men with Adityas, Brhaspati All-bounteous, with the Singers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Fahr zu uns her den Indra im Verein mit den Vasu´s, den hohen Rudra mit den Rudra´s, die allen Menschen gehörige Aditi mit den Aditya´s, den allbegehrten Brihaspati mit seinen Sängern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fahr, Agni, her den Indra sammt den Vasu's, den grossen Rudra mit den Rudrasöhnen, Mit den Aditja's Aditi, die güt'ge, Brihaspati, den reichen, mit den Sängern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру нам, о Агни, вместе с (богами) Васу,  
 Рудру с Рудрами привези высокого,  

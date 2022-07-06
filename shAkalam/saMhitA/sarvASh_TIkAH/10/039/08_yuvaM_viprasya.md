@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ वि꣡प्रस्य जरणा꣡म् उपेयु꣡षः  
 पु꣡नः कले꣡र् अकृणुतं यु꣡वद् व꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 युवं꣡ सद्यो꣡ विश्प꣡लाम् ए꣡तवे कृथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒वम् । वन्द॑नम् । ऋ॒श्य॒ऽदात् । उत् । ऊ॒प॒थुः॒ । यु॒वम् । स॒द्यः । वि॒श्पला॑म् । एत॑वे । कृ॒थः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
@@ -132,7 +132,7 @@ genre M
 हे अश्विनौ **युवं** युवां **विप्रस्य** मेधाविनः **जरणां** जराम् **उपेयुषः** उपगतवतः **कलेः** कलिनामधेयस्य ऋषेः **वयः** पुनः पुनरपि **युवत्** युवत्वयुक्तम् **अकृणुतम्** अकुरुतम् । तथा च निगमान्तरं- कलिं याभिर्वित्तजानिं दुवस्यथः' (ऋ. सं. १. ११२. १५) इति । किंच **युवं** युवां **वन्दनं** जायावियोगसंतापेन कूपपतितं वन्दनाख्यमृषिम् **ऋश्यदात्** कूपात् **उदूपथुः** उदैरयतम् । तथा निगमान्तरम् - ’उद्वन्दनमैरयतं स्वर्दृशे' (ऋ. सं. १. ११२. ५) इति । किंच **युवं** युवां **विश्पलाम्** । खेलस्य राज्ञः सेनायां योद्ध्री विश्पला नाम काचित् स्त्री । तां संग्रामे शत्रुभिश्छिन्नजङ्घां **सद्यः** तदैव **एतवे** गमनाय **कृथः** अकुरुतम् । तथा च निगमान्तरं- चरित्रं हि वेरिवाच्छेदि पर्णमाजा खेलस्य परितक्म्यायाम् । सद्यो जङ्घामायसीं विश्पलायै धने हिते सर्तवे प्रत्यधत्तम्' (ऋ. सं. १. ११६. १५) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,30 +147,30 @@ Kali: cf. RV 1.112.15;
 Viśpala: cf. RV 1.116.15
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two made youthful vigor again for the inspired poet Kali, who was  approaching old age.  
 You two dug Vandana out from the antelope snare. You two in an  
 instant made Viśpalā go.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye gave a ain the vigour of his youthful life to tge sage Kali when old age was coming nigh.  
      Ye rescued Vandana and raised him from the pit, and in a moment gave Vispala power to move.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr machtet das Alter des redegewaltigen Kali, der ins Greisenalter gekommen war, wieder jugendlich. Ihr grubt den Vandana aus der Fanggrube aus; ihr bringet die Vispala sofort wieder zum Laufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Sänger Kali, da er alt geworden war, verschafftet ihr aufs neue frische Jugendkraft, Ihr zoget aus der tiefen Gruft den Vandana, schnell machtet gehend ihr die lahme Viçpala.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы сделали возврат вдохновенного Кали,  
 Достигшего старости, снова юным.  

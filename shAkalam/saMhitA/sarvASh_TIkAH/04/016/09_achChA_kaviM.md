@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा कविं꣡ नृमणो गा अभि꣡ष्टौ  
 सु꣡वर्षाता मघवन् ना꣡धमानम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ माया꣡वान् अ꣡ब्रह्मा द꣡स्युर् अर्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऊ॒तिऽभिः॑ । तम् । इ॒ष॒णः॒ । द्यु॒म्नऽहू॑तौ । नि । मा॒याऽवा॑न् । अब्र॑ह्मा । दस्युः॑ । अ॒र्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **नृमणः** नृभिर्मनुष्यैर्मन्यते इति नृमणः । त्वं **कविं** मेधाविनं कुत्सम् **अच्छ’** **गाः** अभ्यगाः । किंच **स्वर्षाता** । स्वर्धनम् । तस्य सातौ दाने निमित्ते **अभिष्टौ** कवेरभिगमे सति **नाधमानं** युद्धार्थं त्वां याचमानं कुत्सम् **ऊतिभिः** शत्रुकृतोपद्रवपरिहाररूपै रक्षणैः **इषणः** प्रेरितवानसि । **मायावान्** कपटवान् **अब्रह्मा** । ऋत्विग्भिः क्रियमाणं सर्वं कर्मजातमनुज्ञारूपेण जानन् ऋत्विग्विशेषो ब्रह्मशब्देनोच्यते । स न विद्यते यस्य असौ अब्रह्मा । वेदोक्तकर्मस्वास्तिक्यरहितः इत्यर्थः । **दस्युः** कुत्सस्य शत्रुः **द्युम्नहूतौ** द्युम्नं धनं हूतिराह्वानं यस्यां युधि तस्यां **नि** **अर्त** विनष्टो बभूव । इन्द्रः कुत्सेनाहूतः सन् तस्य शत्रुं हतवानित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,7 +124,7 @@ genre M
 The sage: the text has kavim, usually rendered as **krānta**-darśi, the seer of the past; but, here it is a synonym of **Kutsa**, as in the next verse
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In your dominance you came here to the poet in need [=Kutsa?] at the  winning of the sun, o bounteous one with your mind on men.  
 With your help you urged him on at the invocation to heavenly  
@@ -132,7 +132,7 @@ brilliance; but the Dasyu, possessing magic arts but no sacred
 formulation, sank down.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although, as noted ad vs. 3, the word kaví- often signals a mention of Uśanā Kāvya -- and this personage figures in the myth being recounted here -- in the published
 
@@ -145,23 +145,23 @@ The apparent thematic verbal stem iṣaṇa- is almost confined to this group of
 243.) In its other two occurrences (I.129.7, VI.26.8) dyumnáhūti- ‘invocation to heavenly brilliance’ is a call that we sacrificers make to attract the god(s). I do not understand what it is expressing here. It does not seem to have anything to do with dyumnaíḥ in 19c below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Maghavan, Friend of Man, to aid the singer imploring thee in battle for the sunlight.  
      Speed him with help in his irypired invokings: down sink the sorcerer, the prayerless Dasyu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Suche, du mannhaft Gesinnter, hilfsbereit den Kavi auf, der wegen der Sonnengewinnung in Nöten ist, du Gabenherr. Eile zu ihm mit deinen Hilfen auf seinen hellen Ruf! Der listenreiche Dasyu, der keine erbaulichen Worte hat, soll erliegen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Sänger komm mit Hülfe, männlich starker, der fleht, o reicher, um des Glücks Erlangung; Gewähr ihm Hülfe, wenn er dich um Kraft ruft; der zaubervolle, böse Feind versinke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О мужественный мыслью, в стремлении помочь отправляйся за поэтом,  
 Необходимым при покорении солнца, о щедрый!  

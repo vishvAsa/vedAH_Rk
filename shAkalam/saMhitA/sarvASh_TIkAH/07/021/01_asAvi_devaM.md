@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सावि देवं꣡ गो꣡ऋजीकम् अ꣡न्धो  
 नि꣡ अस्मिन्न् इ꣡न्द्रो जनु꣡षेम् उवोच  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बो꣡धा न स्तो꣡मम् अ꣡न्धसो म꣡देषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 बोधा॑मसि । त्वा॒ । ह॒रि॒ऽअ॒श्व॒ । य॒ज्ञैः । बोध॑ । नः॒ । स्तोम॑म् । अन्ध॑सः । मदे॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asāvi* ← *su*
 - \[verb\], singular, Aorist passive
@@ -119,43 +119,43 @@ genre M
 **देवं** दीप्तं **गोऋजीकं** गोभिः संस्कृतम् । गव्येन मिश्रितमित्यर्थः । **अन्धः** सोमरूपमन्नम् **असावि** अभिषुतम् । **ईम्** अयम् **इन्द्रः** **अस्मिन्** अभिषुते सोमरूपेऽन्धसि **जनुषा** स्वभावत एव **नि** **उवोच** नितरां संगतो भवति । अथ प्रत्यक्षस्तुतिः। हे **हर्यश्व** **त्वा** त्वां **यज्ञैः** स्तोत्रैर्हविर्भिर्वा **बोधामसि** बोधयामः । **अन्धसः** सोमस्य **मदेषु** **नः** अस्माकं **स्तोमं** स्तोत्रं **बोध** बुध्यस्व च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bright sacrificial food mixed with curds and milk has been poured out; **Indra** delights in it from his birth;lord of bay horses, we wake you up with sacrifices, acknowledge our praises in the exhilaration of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It has been pressed—the divine stalk, foamy with cows [=milk]. Indra is  accustomed to it even from birth.  
 We take heed of you with sacrifices, you of the fallow bays. Take heed of  our praise amid the exhilarating drinks from the stalk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Some recycling and recombination from the last hymn: janúṣem uvoca combines janúṣem (20.3b) and uvoca (20.4d), each in its metrical position, and ándhaso mádeṣu echoes ándhasā mádeṣu of 20.4d.
 
 devám appears to be one of the few adjectival forms of the stem, modifying neut. ándhaḥ. Although I would like to reduce the number of these supposed adjectival forms to zero, it is difficult to see what else to do with it here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PRESSED is the juice divine with milk commingled: thereto hath Indra ever been accustomed.  
      We wake thee, Lord of Bays, with sacrifices: mark this our laud in the wild joy of Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der göttliche Somatrunk, bei dem die Milch vorschmeckt, ist ausgepreßt. An ihm ist Indra von Geburt an gewöhnt. Wir bedenken dich, du Falbenfahrer, mit Opfern; gedenke du unseres Lobliedes im Rausche des Tranks!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der milchgemischte Göttertrank ist fertig; an ihm hat Indra sich ergötzt von jeher, Mit Opfern wecken wir dich, Herr der Füchse; beachte unser Lob beim Trunk des Saftes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжат божественный сок сомы, смешанный с молоком.  
 Индра привык к нему с самого рожденья.  

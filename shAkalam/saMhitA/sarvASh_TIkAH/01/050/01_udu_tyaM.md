@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ त्यं꣡ जात꣡वेदसं  
 देवं꣡ वहन्ति केत꣡वः  
 दृशे꣡ वि꣡श्वाय सू꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 दृ॒शे । विश्वा॑य । सूर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -90,26 +90,26 @@ genre M
 त्यं तं जातवेदसं जातानां वेदितारम् । 'गतिकारकयोरपि' इत्यसुन्प्रत्ययः । जातप्रज्ञानं वा सूर्यं देवं देवनादिगुणयुक्तं उद्वहन्ति ऊर्ध्वं वहन्ति केतवो रश्मयः दृशे द्रष्टुम् । 'दृशे विख्ये च' इति निपात्यते । विश्वाय विश्वार्थं विश्वं लोको यथा एनं पश्येत् तदनुरूपमुद्वहन्ति । स्मैभावाभावश्छान्दंसः । क्रियमाणेन का सङ्गतिः? उच्यते - एतस्य कर्मणस्सामर्थ्यादेतदेवं भवतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up do the beacons convey this god Jātavedas,  
 the Sun, for all to see.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HIS bright rays bear him up aloft, the God who knoweth all that lives,  
      Surya, that all may look on him.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Aloft his beams now bring the god Who knows all creatures that are born, That all may look upon the Sun.
 </details>
@@ -121,17 +121,17 @@ Thy rays bear upwards,
 The sun for all to see.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort fahren den Gott Jatavedas seine Strahlen herauf, auf daß die ganze Welt den Sonnengott schaue.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann die Sonne schau.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот лучи везут вверх  
 Того бога, Джатаведаса,  

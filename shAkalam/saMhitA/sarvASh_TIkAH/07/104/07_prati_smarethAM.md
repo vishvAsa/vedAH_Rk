@@ -6,7 +6,7 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति स्मरेथां तुज꣡यद्भिर् ए꣡वैर्  
 हतं꣡ द्रुहो꣡ रक्ष꣡सो भङ्गुरा꣡वतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती त्रिष्टुब्वा"
 यो꣡ नः कदा꣡ चिद् अभिदा꣡सति द्रुहा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इन्द्रा॑सोमा । दुः॒ऽकृते॑ । मा । सु॒ऽगम् । भू॒त् । यः । नः॒ । क॒दा । चि॒त् । अ॒भि॒ऽदास॑ति । द्रु॒हा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -120,20 +120,20 @@ popular
 हे इन्द्रासोमौ **तुजयद्भिः** त्वरमाणैः **एवैः** गन्तृभिरश्वैः **प्रति** **स्मरेथाम्** अभिगच्छतम् । उपसर्गवशेन स्मरतिरत्रार्थान्तरे वर्तते । यथा प्रस्मरणं प्रस्थानमिति । अभिगत्य च **द्रुहः** द्रोग्धॄन् **भङ्गुरावतः** भञ्जनकर्मवतः **रक्षसः** राक्षसान् **हतं** हिंस्तम् । हे इन्द्रासोमौ **दुष्कृते** पापकारिणे राक्षसाय **सुगं** सुखं **मा** **भूत्** मा भवतु । **द्रुहा** द्रोहेण युक्तः **यः** **नः** अस्मान् **कदा** **चित्** अपि **अभिदासति** अभिहन्ति तस्मै दुष्कृत इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come with rapid steeds, slay the oppressive mischievous **rākṣasas**; let there be no happiness, Indraand **Soma**, to the malignant, who harasses us with his oppression.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Keep (this) in mind! With your thrusting ways smite the deceits of the  demon with his wreckage.  
 Indra and Soma, let there be no good passage for the evildoer who with  his deceit ever shows hostility against us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See published introduction. for the init. práti here echoed by that beginning 11c and forming a ring defining vss. 7-11 as a subsection. Since práti ‘against’ is not otherwise found with √smṛ (or with √śuṣ, see vs. 11), I think the preverb has been stationed at both ends of this section to focus attention on the targeted victim. See disc. in published introduction.
 
@@ -146,23 +146,23 @@ On the other hand, in IX.71.1 (also cited by Geldner) in the two-word sequence d
 The poss. adj. bhaṅgurā́-vant- (to bhaṅgurá- [AiG II.2.487], to √bhañj ‘break’; see EWA s.v. BHAÑJ) modifies rakṣás- 3x and hantár- once. I choose to render its possessive morphology by tr. ‘with his wreckage’ (lit. ‘having breakage, wreckage’), referring to the damage that a demon brings in his train -- in contrast to 141 looser and more colorful tr. like Brown’s (reproduced almost verbatim by Doniger): “Slay those who employ demons, who hate us, who would break us to bits,” where he manages to turn both the root noun druh- and the poss. adj. bhaṅgurā́vant- into verbs qualifying rakṣásaḥ. Others attenuate the meaning of bhaṅgurā́vant- to ‘crooked’, and then by easy metaphorical extension ‘tricky, malicious’ (see Grassmann’s ‘tückisch, trügerisch’, also EWA’s ‘trügerisch, mit krummen Wegen’; Geldner, Lommel, Lüders 419 ‘hinterlistig’). This interpr. is based on the second of BR’s glosses of the base adj. bhaṅgura- 1) zerbrechlich, vergänglich, 2) krumm, kraus, gerunzelt; see Grassmann’s reproduction of the 1st word of each in his gloss of (bhaṅgurá). This base word is not found in Vedic -- and bhaṅgurā́vant- is found outside the RV only in passages based on RVic passages -- though bhaṅgura is fairly widespread in Classical Skt., where it generally means ‘breakable’, but occasionally ‘curved’ esp. in connection with eyebrows (cf. AiG III.195 in addition to BR s.v.). Since the ‘curved, crooked’ sense seems to be a late and specialized development, I see no reason to impose it on this RVic word, esp. since I see no clear line from ‘break’ to ‘be crooked’ except in such a specialized application.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In your impetuous manner think ye both thereon: destroy these evil beings, slay the treacherous fiends.  
      Indra and Soma, let the wicked have no bliss who evermore assails us with malignity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gedenket daran; in fliegender Eile erschlaget die Tückebolde, die hinterlistigen Unholde! Indra und Soma, nicht soll es dem Übeltäter gut ergehen, wer uns jemals mit Tücke nachstellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gedenkt an uns auf euren schnellen Gängen doch, die bösen Geister, die Zerbrecher, tilget aus; O Indra-Soma, nimmer sei dem Frevler Glück, der voller Arglist jemals Feindschaft uns erweist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вспоминайте (нас) при (ваших) стремительных действиях!  
 Убейте обманщиков – ракшасов коварных!  

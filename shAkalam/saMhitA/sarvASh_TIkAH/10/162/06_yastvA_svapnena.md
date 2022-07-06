@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् त्वा स्व꣡प्नेन त꣡मसा  
 मोहयित्वा꣡ निप꣡द्यते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡म् इतो꣡ नाशयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292);; repeated line
 प्र॒ऽजाम् । यः । ते॒ । जिघां॑सति । तम् । इ॒तः । ना॒श॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -96,35 +96,35 @@ popular;; epic anuṣṭubh (292);; repeated line
 हे योषित् **यः** राक्षसादिः **स्वप्नेन** स्वप्नावस्थया **तमसा** निद्रया **त्वा** त्वां **मोहयित्वा** मूढतां प्रापय्य **निपद्यते** गर्भघाताय गच्छति । अन्यद्गतम् ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we exterminate from hence (the evil spirit), who, having beguiled you by sleep or darkness,approaches you, and seeks to destroy your offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, having stupefied you with sleep, with darkness, goes down on you, who intends to smite your offspring, that one we banish from here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That which through sleep or darkness hath deceived thee and lies down by thee,  
      And will destroy thy progeny,--even this will we exterminate.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der dich durch Schlaf, durch Finsternis benebelt und dich beschläft, der deine Nachkommenschaft töten will, den treiben wir von hinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der dich durch Schlaf oder Dunkelheit betäubend, sich zu dir legt, der dir dein Kind tödten will, den treiben wir fort von hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, тебя сном, темнотой  
 Охмуривши, ложится к тебе,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡ध्वः पिबतम् मधुपे꣡भिर् आस꣡भिर्  
 उत꣡ प्रिय꣡म् म꣡धुने युञ्जथां° र꣡थम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दृ꣡तिं वहेथे म꣡धुमन्तम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । व॒र्त॒निम् । मधु॑ना । जि॒न्व॒थः॒ । प॒थः । दृति॑म् । व॒हे॒थे॒ इति॑ । मधु॑ऽमन्तम् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
@@ -123,14 +123,14 @@ genre M
 **मध्वः** मधुरं सोमरसं **"मधुपेभिः** सोमपानार्हैः **आसभिः** आस्यैः **पिबतम्** । **उत** अपि च **प्रियं** **रथं** **मधुने** मधुलाभाय **युञ्जाथाम्** अश्वैर्युक्तं कुरुतम् । **वर्तनिं** यजमानगृहम् **आ** गच्छतमिति शेषः । **पथः** गमनमार्गान् **मधुना** **जिन्वथः** प्रीणयतम् । यद्वैकं वाक्यम् । पथो वर्तनिमाकाशं जिन्वथः । **दृतिं** **मधुमन्तं** हे **अश्विना** **वहेथे** धारयथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink of the **Soma** juice, with mouths (fit for) imbibing the beverage; harness your beloved chariot for the Soma juice; (come to the dwelling) of the sacrifice; enliven the path with the Soma; bring, **Aśvins**, the leather vessels filled with the Soma-juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink of the honey with your honey-drinking mouths and hitch up your  own dear chariot for honey.  
 
@@ -138,23 +138,23 @@ You quicken the course of the path with honey, and you carry your
 honey-filled skin-bag, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink of the meath with lips accustomed to the draught; harness for the meath's sake the chariot that ye love.  
      Refresh the way ye go, refresh the paths with meath: hither, O Asvins, bring the skin that holds the meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trinkt von dem Honig mit dem Honig trinkenden Mund und schirrt für den Honig euren lieben Wagen! Ihr erquicket die Wegspur mit Honig; ihr führet den Schlauch, der Honig enthält, mit euch, ihr Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Honig trinket mit den Honiglippen nun, und schirrt den lieben Wagen an zum süssen Trunk, Erfrischt des Pfades Spur mit süssem Honigseim, und fahrt, o Ritter, her den honigreichen Schlauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Испейте меду устами, пьющими мед,  
 И запрягите для меда вашу милую колесницу!  

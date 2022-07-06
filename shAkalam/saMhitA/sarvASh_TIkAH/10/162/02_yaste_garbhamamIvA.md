@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते ग꣡र्भम् अ꣡मीवा  
 दुर्णा꣡मा यो꣡निम् आश꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 नि꣡ष् क्रव्या꣡दम् अनीनशत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 अ॒ग्निः । तम् । ब्रह्म॑णा । स॒ह । निः । क्र॒व्य॒ऽअद॑म् । अ॒नी॒न॒श॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -105,35 +105,35 @@ popular;; epic anuṣṭubh (292)
 गतः पूर्वोऽर्धर्चः । गतः पूर्वोऽर्धर्चः । **तं** **क्रव्यादं** मांसाशिनं राक्षसादिकं **ब्रह्मणा** सहितः **अग्निः** निःशेषेण **अनीनशत्** नाशयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Agni**, concurring in our prayer, destroy the cannibal who, as sickness, assails your embryo, who,as the disease **durṇāman**, assails your womb.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever evil-named affliction lies on your embryo, in your womb, Agni, along with a sacred formulation, has banished the flesh-eater.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, concurring in the prayer, drive off the eater of the flesh,  
      The malady of evil name that hath attacked thy babe and womb.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Verrufenen, der mit Krankheit auf deiner Leibesfrucht, deinem Schoße liegt, den Fleischfresser hat Agni zusammen mit dem Zauberwort vertrieben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die übelnamige Krankheit, die in deinem Mutterleibe und Schoosse haust, die fleischverzehrende hat Agni im Verein mit dem Gebete herausgetrieben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто лежит на твоем зародыше,  
 На (твоем) лоне, (эта) болезнь, (ракшас) с дурным именем,  

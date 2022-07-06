@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरू꣡णि अग्ने पुरुधा꣡ तुवाया꣡  
 व꣡सूनि राजन् वसु꣡ता ते अश्याम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने व꣡सु विधते꣡ रा꣡जनि त्वे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पु॒रूणि॑ । हि । त्वे इति॑ । पु॒रु॒ऽवा॒र॒ । सन्ति॑ । अग्ने॑ । वसु॑ । वि॒ध॒ते । राज॑नि । त्वे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purūṇy* ← *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
@@ -129,20 +129,20 @@ genre M
 हे **अग्ने** **राजन्** **ते** तव **पुरूणि** बहूनि **पुरुधा** गवश्विादिरूपेण बहुप्रकाराणि **वसूनि** धनानि **वसुता** वसुतायै वसुमत्त्वाय **अश्यां** व्याप्नुयां भुञ्जीय वा । अत्र भरतस्वामी वसुतात इत्येकपदं सप्तम्यन्तं चकार भट्टभास्करमिश्रोऽप्येकपदं संबुद्धयन्तं चकार । हे **पुरुवार** बहुभिर्वरणीय **अग्ने** राजनि राजमाने **त्वे** त्वयि **पुरूणि** बहूनि **वसु** वसूनि **त्वे** त्वां **विधते** परिचरते मह्यं दातव्यानि **सन्ति** ॥ ॥ ३६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Royal **Agni**, may I obtain from you your many and various treasures whereby to be enriched; for, Agni, who are the desired of multitudes, infinite are the riches (aggregated) in you, fit, monarch, for your worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Many goods many-fold in their goodness might I attain of you through  seeking you, o King Agni.  
 For many are the goods in you, o Agni of many favors, for the one who  does (you) honor, since you are king.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -152,23 +152,23 @@ These two vss. play on the two words purú- ‘many’ and vásu- ‘good’ in 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May I obtain much wealth in many places by love of thee and through thy grace, King Agni;  
      For in thee Bounteous One, in thee the Sovran, Agni, are many boons for him who serves thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viel Gutes, o Agni, möchte ich vielfach um dich bemüht, o König, durch deine Güte erlangen, denn viele Güter sind bei dir, vielbegehrter Agni, bei dir, dem König, für deinen Verehrer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass viele Güter reichlich mich erlangen, durch deine Huld und Güte, König Agni; Denn vieles Gut, o Schätzereicher, hast du für den Verehrer, Agni, du ein König.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, в (моей) любви к тебе пусть достигну я  
 Многих благ многими способами, благодаря твоей благостности, о царь!  

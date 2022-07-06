@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ ह स्थो भिष꣡जा भेषजे꣡भिर्  
 अ꣡थो ह स्थो रथि꣡या रा꣡थियेभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ वां हवि꣡ष्मान् म꣡नसा ददा꣡श
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अथो॒ इति॑ । ह॒ । क्ष॒त्रम् । अधि॑ । ध॒त्थ॒ । उ॒ग्रा॒ । यः । वा॒म् । ह॒विष्मा॑न् । मन॑सा । द॒दाश॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -128,36 +128,36 @@ genre M
 हे अश्विनौ **युवं** युवां **ह** खलु **भेषजेभिः** भेषजैरौषधैः।' भेषजौषधभैषज्यान्यगदो जायुः ‘अगदं तत्रौषधम् ' इति चाभिधानात् । तैः **भिषजा** भिषजौ **स्थः**। हशब्दः ‘अश्विनौ हि देवानां भिषजौ' इत्यादिप्रसिद्धिद्योतनार्थः । **अथो** अपि च **रथ्येभिः** रथवोढृभिरश्वैः **रथ्या** रथवन्तौ **स्थः** ।  ‘ आ वां रथो अश्विना' ( ऋ. सं. १. ११८. १) इत्यादिप्रसिद्धिद्योतनार्थो हशब्दः । अनयोः रथेन विशेषसंबन्धः **युवोर्हि** पूर्वं सवितोषसो रथमृताय चित्रं घृतवन्तमिष्यति' (ऋ. सं. १. ३४. १०) इत्यादिमन्त्रान्तरेषु प्रसिद्धः । **अथो** अपि च युवयोः **क्षत्रं** बलम् **अधि** **ह** अधिकं खलु । हशब्दः प्रसिद्धौ । यस्मादेवं तस्मात् हे **उग्रा** उद्गूर्णसामर्थ्यावश्विनौ **वां** युवाभ्यां **यः** **हविष्मान्** आज्यपुरोडाशादिहविर्युक्तो यजमानः **मनसा** युष्मदायत्तेन चेतसा **ददाश** ददाति हविरादिकं तं **धत्थः** धारयथः अत्यधिकमनुगृह्णीथ इत्यर्थः। प्रभूतबलौ युवां रथमारुह्य अस्मद्देवयजनमागत्य हविष्प्रदं मां धृत्वा अस्मद्यज्ञे अस्मान्विचिकित्सतमिति तात्पर्यार्थः ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You two are physicians, (conversant) with (all) medicaments; you ride in a chariot (drawn by) well-trained steeds; therefore, mighty (divinities), resolutely uphold (the worshipper), who, with a mind (devoted to you), offers you oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are healers through your healing remedies, and you are also  charioteers through the parts of your chariot.  
 And again, o powerful ones, you set dominion upon him who ritually  serves with his oblation and by his thought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Leeches are ye with medicines to heal us, and charioteers are ye with skill in driving.  
      Ye Strong, give sway to him who brings oblation and with his heart pours out his gift before you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr beide seid ja die Ärzte mit euren Arzneien, und ihr seid die Wagenfahrer mit euren Wagenkünsten. Und ihr Gewaltige verleihet die Herrschaft dem, der euch opfernd von Herzen gespendet hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr seid's, die ihr mit Arzeneien heilet, und die mit Lenkerkunst ihr Wagen lenket, Drum schenket ihr, gewaltige, auch Herrschaft dem, der mit Opfer euch von Herzen huldigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы – два целителя с целебными средствами  
 И два колесничих со всем, что связано с колесницей.  

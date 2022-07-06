@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सहस्राक्षे꣡ण शत꣡शारदेन  
 शता꣡युषा हवि꣡षा꣡हार्षम् एनम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रो वि꣡श्वस्य दुरित꣡स्य पार꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 श॒तम् । यथा॑ । इ॒मम् । श॒रदः॑ । नया॑ति । इन्द्रः॑ । विश्व॑स्य । दुः॒ऽइ॒तस्य॑ । पा॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasrākṣeṇa* ← *sahasra*
 - \[noun\], neuter
@@ -122,34 +122,34 @@ popular
 **सहस्राक्षेण** । सहस्रमिति बहुनाम । सहस्रमक्षीणि चक्षूंषि यस्य हविषः फलत्वेन विद्यन्ते तत् सहस्राक्षम् ॥  ‘ बहुव्रीहौ सक्थ्यक्ष्णोः ' (पा. सू. ५, ४. ११३) इति पच् समासान्तः । शरदः संबन्धी शारदः संवत्सरः। शतं शारदा यस्य तत्तथोक्तम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अत एव **शतायुषा** शतसंवत्सरपरिमितमायुर्जीवनं फलभूतं यस्य तादृशेन **हविषा** । यद्वा । सहस्राक्ष इन्द्रः । तेन शतशारदेन शरदां संवत्सराणां शतस्य दातृत्वेन संबन्धिना कर्त्रा शतायुषा हविषा करणभूतेन । **एनं** यक्ष्मगृहीतम् **आहार्षं** रोगादनैषम् । **यथा** येन प्रकारेण **इमं** पुरुषं या **शतं** **शरदः** संवत्सरान् । अत्यन्तसंयोगे द्वितीया । एतावन्तं कालम् **इन्द्रो** **विश्वस्य** सर्वस्व **दुरितस्य** दुःखस्य **पारम्** अवसानं दुःखराहित्यं **नयाति** नयेत् तथाहार्षमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With an oblation with a thousand eyes, conferring a hundred autumns  and a hundred lifetimes, I have brought him here,  
 so that Indra will lead him through a hundred autumns to the far shore  of all difficult going.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With hundred-eyed oblation, hundred-autumned, bringing a hundred lives, have I restored him,  
      That Indra for a hundred years may lead him safe to the farther shore of all misfortune.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit der Opferspende, die tausend Augen hat, hundert Winter, hundert Herbste und hundert Leben verleiht, habe ich ihn geholt, auf daß ihn Indra hundert Herbste lang an das jenseitige Ufer jeglicher Gefahr führe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Trank, der tausend Augen, hundert Herbste, und hundert Leben birgt, hab' ich erlöst ihn, Damit ihn Indra während hundert Jahre hinüberführe über alles Unglück.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я забрал его с помощью жертвенного возлияния, тысячеглазого,  
 Дающего (жизнь) в сто осеней, дающего сотенный срок жизни,  

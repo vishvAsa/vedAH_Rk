@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ ते अग्ने वृषभ प्रतिधृ꣡षे  
 ज꣡म्भासो य꣡द् विति꣡ष्ठसे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वं꣡स्वा नो वा꣡रिया पुरु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सः । त्वम् । नः॒ । हो॒त॒रिति॑ । सुऽहु॑तम् । ह॒विः । कृ॒धि॒ । वंस्व॑ । नः॒ । वार्या॑ । पु॒रु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -130,36 +130,36 @@ genre M;; repeated line
 हे **वृषभ** वर्षक **ते** तव **जम्भासः** जम्भा दन्तस्थानीय ज्वालाः **नहि** **प्रतिधृषे** प्रतिधर्षितुं न शक्याः। **यत्** यस्मात् **वितिष्ठसे** विविधं गच्छसि । प्रवर्धस इत्यर्थः । हे **होतः** होमनिष्पादक **स** **त्वं** **हविः** अस्मद्दत्तं **सुहुतं** **कृधि** कुरु। **नः** अस्मभ्यं **वार्या** वरणीयानि **पुरु** बहूनि **वंस्व** देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since you spread out on all sides, your teeth, bull **Agni**, are not to be resisted; O offerer, do you makeour oblation rightly presented; give us many precious (gifts).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For your fangs are not to be withstood when you spread yourself out, o  bullish Agni.  
 Make our oblation well poured, o Hotar. Win for us many things worth  choosing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not to be stayed, O Bull, O Agni, are thy teeth when thou art spreading far and wide.  
      Make our ohlations duly offired up, O Priest, and give us store of precious things.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deinen Beißzähnen ist nicht zu trotzen, du Bulle Agni, wenn du dich ausbreitest. Mache, du Hotri, unsere Opferspende rechtgeopfert, Gewinn uns viele Kostbarkeiten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Unwiderstehlich ist, o Stier, ja dein Gebiss, wenn du, o Agni, dich erhebst; Mach unsre Opfer schön geopfert, Opferer, und schenke viele Güter uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не устоять перед твоими челюстями, о Агни-бык,  
 Когда ты распространяешься.  

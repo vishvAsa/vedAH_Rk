@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मा꣡नुषीषु दूळ꣡भो  
 विक्षु꣡ प्रावी꣡र् अ꣡मर्तियः  
 दूतो꣡ वि꣡श्वेषा᳐म् भुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 दू॒तः । विश्वे॑षाम् । भु॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -79,41 +79,41 @@ genre M
 **दूळभः** दुर्दभो राक्षसादिना दुर्हिंसः **मानुषीषु** मनुसंबन्धिनीषु **विक्षु** प्रजासु **प्रावीः** प्रकर्षेण गन्ता **अमर्त्यः** अमरणधर्मा **सः** अग्निः **विश्वेषां** सर्वेषां देवानां **दूतः** **भुवत्** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that **Agni**, who is difficult to overcome, who is immortal, who is pre-eminent among men the descendants of **Manu**, becomes the messenger of all the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, the immortal difficult to deceive, pursuing (his ritual duties) among  the clans stemming from Manu,  
 has become messenger for all.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he the Immortal, Helper, bard to be deceived among mankind,  
      Become the messenger of all.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who cannot be deceived, the zealous, the immortal has among men become the messenger of all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Unsterbliche ward unter den menschlichen Stämmen der unbeirrbare zuredende Bote aller.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Menschenstämmen möge er der Bote aller sein, der Gott, Hülfreich, der nicht zu täuschende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот бессмертный среди смертных племен  
 Является всеобщим вестником,  

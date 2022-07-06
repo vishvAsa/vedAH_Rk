@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ नो वि꣡श्वा अवस्यु꣡वो  
 गि꣡रः शुम्भन्ति पूर्व꣡था  
 इ꣡न्दुम् इ꣡न्द्राय पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्दु॑म् । इन्द्रा॑य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -84,41 +84,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **तम्** **इन्दुं** सोमं **नः** अस्माकं **विश्वाः** सर्वाः **अवस्युवः** । अवो रक्षणम् । तदिच्छन्त्यः **गिरः** स्तुतयः **पूर्वथा** पूर्वमिव पूर्वं यथा तथैवेदानीमपि **शुम्भन्ति** दीपयन्ति । किमर्थम् । **इन्द्राय** इन्द्रस्य **पीतये** पानाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Indu** all our praises desiring protection, beautify (new) as of old for **Indra** to drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him do all our hymns, seeking aid, beautify in the ancient way—  
 the drop for Indra to drink.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 gíraḥ … pūrváthā “hymns in the ancient way” is reminiscent of 42.2 pratnéna mánmanā “with the age-old thought.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All songs of ours desiring grace adorn him in the ancient way,  
      Indu for Indra, for his drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn machen alle unsere gunstheischenden Lobreden in alter Weise schön, den Saft für Indra zum Trunke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 All unsre Lieder schmücken ihn, Huld suchend wie in alter Zeit, Zum Trunk dem Indra, Indu ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

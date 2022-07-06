@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मातु꣡र् दिधिषु꣡म् अब्रवं  
 स्व꣡सुर् जारः꣡ शृणोतु नः  
 भ्रा꣡ते꣡न्द्रस्य स꣡खा म꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 भ्राता॑ । इन्द्र॑स्य । सखा॑ । मम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mātur* ← *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मातुः** निर्मात्र्या रात्रेः **दिधिषुं** पतिं पूषणम् **अब्रवं** स्तौमि । **स्वसुः** उषसः **जारः** च पूषा **नः** अस्माकं स्तोत्राणि **शृणोतु** । **इन्द्रस्य** **भ्राता** सहजातः पूषा **मम** स्तोतुः **सखा** मित्रभूतोऽस्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,13 +97,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Husband of his mother: mātur didhiṣum: rāreḥ patim, the lord or husband of the night; brother of Indra: as one of the **Ādityas**, or sons of **Aditi**, he may be called the brother of Indra, who is also one of the 12 Ādityas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The wooer of his mother I have spoken to: let the lover of his sister  hear us,  
 brother of Indra, companion to me.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner interpr. abravam to mean “I have spoken of” (“(Von Pūṣan) … habe ich gesprochen”), but the fact that we immediately urge him to hear us suggests that we have spoken to him. In the next hymn VI.56.4 … tvā … brávāma also clearly means “we speak/say to you.”
 
@@ -117,23 +117,23 @@ As noted in the published introduction, these allusions to incest seem remarkabl
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His Mother's suitor I address. May he who loves his Sister hear,  
      Brother of Indra, and my Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Pusan, dem Freier seiner Mutter, habe ich gesprochen: Der Buhle seiner Schwester soll uns hören, Indra´s Bruder, mein Freund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mutter Freier nannt' ich ihn, der Schwester Buhle höre uns, Des Indra Bruder und mein Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я говорил (о Пушане,) хотевшем посвататься к (своей) матери.  
 Да услышит нас любовник (своей) сестры.  

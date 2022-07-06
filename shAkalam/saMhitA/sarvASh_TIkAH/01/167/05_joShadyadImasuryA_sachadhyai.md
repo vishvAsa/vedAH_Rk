@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जो꣡षद् य꣡द् ईम् असुरि꣡या सच꣡ध्यै  
 वि꣡षितस्तुका रोदसी꣡ नृम꣡णाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्वेष꣡प्रतीका न꣡भसो न꣡ इत्या꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । सू॒र्याऽइ॑व । वि॒ध॒तः । रथ॑म् । गा॒त् । त्वे॒षऽप्र॑तीका । नभ॑सः । न । इ॒त्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *joṣad* ← *joṣat* ← *juṣ*
 - \[verb\], singular, Aorist conj./subj.
@@ -119,7 +119,7 @@ genre M
 **रोदसी** मरुत्पत्नी विद्युत् वा एतन्नामिकेयमपि **ईम्** एनं मरुत्संघं **जोषत्** सेवते ॥ जुषेर्लेटि अडागमः ॥ किमर्थम् । **सचध्यै** संगमनार्थम् । कीदृशी सा । **असुर्या** । असुराः क्षेप्तारो मरुतः । तेषां  स्वभूता **विषितस्तुका** विशिष्टकेशसंघा विप्रकीर्णकेशसंघा वा संभोगवशेन तथा **नृमणाः** नृषु नेतृषु मरुत्सु मननवती मनुष्येषु वा वृष्टिप्रदानमनोयुक्ता **त्वेषप्रतीका** दीप्तोपक्रमा दीप्तावयवा । ईदृशी देवी **विधतः** परिचरतो मरुत्संघस्य **रथम्** **आ** **गात्** आगच्छति व्याप्नोति । यागदेशं गन्तुं रथमारुह्य वा यज्ञमागच्छति । केव । विधतः सूर्यस्य रथं त्वेषप्रतीका **सूर्येव** सूर्यपत्नीव । यद्वा । सूर्यस्य दुहिता अश्विनोः रथमिव सा यथा आरोहति तद्वत् आगमने दृष्टान्तः। **नभसः** **इत्या** **न** । अन्तरिक्षादित्ययोः साधारणोऽयं नभःशब्दः ‘नभ इति षट् साधारणानि ' ( नि. १. ४. ६ ) इत्युक्तत्वात् । अत्र आदित्यवचनः । तस्य गतिरिव । सा यथा शीघ्रा तद्वत् ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,13 +132,13 @@ Rodasī = heaven and earth; here, it signifies the lightning; or the bride of th
 Sūrya: sūryeva, like sūrya; either the wife or the daughter of sūrya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If it please her ladyship to accompany them—Rodasī with unloosened  braid had her mind set on the men—  
 like Sūryā she mounts the chariot of the one who does honor, she whose  face is turbulent like the approach of a cloud.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. depicts a svayaṃvara (self-choice) marriage likened to the mythological prototype of the svayaṃvara, that of Sūryā. The identification of the two female figures is underlined by the echo between asurí yā ‘her ladyship’ (pāda, referring to Rodasī) and ā́sūr i yā (opening pāda c, naming Sūryā).
 
@@ -166,23 +166,23 @@ Hoffmann (Injunk., 194-97) translates and comments on these verses.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When chose immortal Rodasi to follow--she with loose tresses and heroic spirit--  
      She climbed her servant's chariot, she like Surya with cloud-like motion and refulgent aspect.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als es der Asurischen gefiel, sie zu begleiten, der mannhaftgesinnten Rodasi mit aufgelösten Zöpfen, so bestieg sie wie Surya den Wagen des Verehrers, von funkelndem Aussehen wie das Nahen der Wetterwolke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn sie nun will die himmlische begleiten, gelösten Haars die männerholde Jungfrau, Dann komme wie die Sonne sie erglänzend, wie aus der Wolke zu des Treuen Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда асуровой Родаси понравилось их сопровождать,  
 С распущенными волосами, мужественная мыслью,  

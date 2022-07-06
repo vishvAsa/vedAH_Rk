@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अविप्रे꣡ चिद् व꣡यो द꣡धद्  
 अनाशु꣡ना चिद् अ꣡र्वता  
 इ꣡न्द्रो जे꣡ता हितं꣡ ध꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रः॑ । जेता॑ । हि॒तम् । धन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avipre* ← *a*
 - \[adverb\]
@@ -93,35 +93,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अविप्रे** **चित्** । विप्रः स्तोता। तद्विलक्षणेऽपि पुरुषे **वयः** अन्नं **दधत्** इन्द्रो धारयति ॥ किमु वक्तव्यं स्तोतरि धारयतीति । सः **इन्द्रः** **अनाशुना** **चित्** अक्षिप्रगमनेनापि **अर्वता** अश्वेन **हितं** शत्रुषु निहितं स्थापितं **धनं** **जेता** जयशीलो भवति ॥ जयतेस्ताच्छीलिकस्तृन् । अतो ‘न लोकव्यय° ' इति षष्ठीप्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** gives sustenance, even to the undevout he is the conqueror of wealh accusative ulated (by enemies) though (going against) them with a slow-paced steed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Placing vitality even in the uninspired, even with a steed lacking speed, Indra is the winner of the stake that is set.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even to the dull and uninspired Indra, gives vital power, and wins  
      Even with slow steed the offered prize.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch dem Unberedten verleiht er Schwung, auch mit dem langsamen Rennpferd gewinnt Indra den ausgesetzten Preis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch in den Matten legt er Kraft, mit trägem Rosse auch erlangt Indra den ausgesetzten Preis.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже лишенного вдохновения он наделяет силой.  
 Даже с небыстрым скакуном  

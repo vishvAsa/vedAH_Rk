@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ हि꣡ ते वि꣡भूतय  
 ऊत꣡य इन्द्र मा꣡वते  
 सद्य꣡श् चित् स꣡न्ति दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒द्यः । चि॒त् । सन्ति॑ । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -85,36 +85,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **ते** तव **विभूतयः** ऐश्वर्यविशेषाः **एवा** हि एवंविधाः खलु । किंविधा इति तदुच्यते । **मावते** मत्सदृशाय **दाशुषे** हविर्दत्तवते यजमानाय **ऊतयः** त्वदीयरक्षारूपाः **सद्यश्चित्** **सन्ति** । यदा कर्म अनुष्ठितं तदैव भवन्ति ॥ मावते मत्सदृशाय।  ‘ वतुप्प्रकरणे युष्मदस्मद्भ्यां छन्दसि सादृश्य उपसंख्यानम्' (पा. सू. ५. २. ३९. १) इति अस्मच्छब्दात् वतुप् । मपर्यन्तस्य ‘प्रत्ययोत्तरपदयोश्च' (पा. सू. ७. २. ९८ ) इति मादेशः । अद्शब्देन सह  ‘ अतो गुणे' (पा. सू. ६. १, ९७ ) इति । पररूपत्वम् । ‘दृग्दृशवतुषु' (पा. सू. ६. ३. ८९) इत्यनुवृत्तौ ‘आ सर्वनाम्नः' (पा. सू. ६.३.९१) इति दकारस्य आकारः। सवर्णदीर्घत्वम् । वतुपः पित्त्वात् प्रातिपदिकस्वर एव शिष्यते । सद्यः । समाने द्यवि इत्यर्थे ' सद्यः परुत्परार्यैषमः' (पा. सू. ५. ३. २२) इत्यादिना निपातितम् । प्रत्ययस्वरेणान्तोदात्तत्वम् । चित् । चादयोऽनुदात्ताः' (फि. सू. ८४ ) इत्यनुदात्तः । सन्ति । अस भुवि'। लटः स्थाने झि।  ‘ झोऽन्तः' (पा. सू. ७. १.३)। ‘अदिप्रभृतिभ्यः शपः' (पा. सू. २. ४. ७२) इति शपो लुक् । तिङः प्रत्ययाद्युदात्तत्वम् । ' प्रत्ययलोपे प्रत्ययलक्षणम्' (पा. सू. १. १. ६२) इति शबकारमाश्रित्य लसार्वधातुक़ानुदात्तत्वं न भवति । वर्णाश्रयविधौ प्रत्ययलक्षणं नास्ति ' (परिभा. ३१) इति निषेधात् । दाशुषे । गतमन्त्रे गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, **Indra**, your glories are at all times the protectors of every such worshipper as I am.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just the same is your help, o Indra—extensive for one like me,  
 present in an instant for the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For verily thy mighty powers, Indra, are saving helps at once  
      Unto a worshipper like me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wahrlich deine Gnaden sind für meinesgleichen ausreichend, sind für den Spender alsbald zur Hand
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn so sind, o Indra, deine Hülfen sogleich zu Hand einem Verehrer wie ich bin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поистине, сильны твои  
 Поддержки, о Индра, для такого, как я;  

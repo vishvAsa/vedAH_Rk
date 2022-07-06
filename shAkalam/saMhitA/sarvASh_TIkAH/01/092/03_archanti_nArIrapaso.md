@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡र्चन्ति ना꣡रीर् अप꣡सो न꣡ विष्टि꣡भिः  
 समाने꣡न यो꣡जनेना꣡ पराव꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वे꣡द् अ꣡ह य꣡जमानाय सुन्वते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इष॑म् । वह॑न्तीः । सु॒ऽकृते॑ । सु॒ऽदान॑वे । विश्वा॑ । इत् । अह॑ । यज॑मानाय । सु॒न्व॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arcanti* ← *arc*
 - \[verb\], plural, Present indikative
@@ -121,7 +121,7 @@ genre M
 **नारीः** नेत्र्यः उषसः **विष्टिभिः** निवेशकैः स्वकीयैस्तेजोभिः **समानेन** **योजनेन** एकेनैव योजनेनोद्योगेन’ **आ** **परावतः** आ दूरदेशात् आ पश्चिमदिग्भागात् **अर्चन्ति** नभःप्रदेशं पूजयन्ति। कृत्स्नं जगद्युगपदेव व्याप्नुवन्तीत्यर्थः । तत्र दृष्टान्तः । **अपसो** **न** । युद्धकर्मणोपेताः पुरुषा यथा स्वकीयैरायुधैर्धाटीमुखेन सर्वं देशं व्याप्नुवन्ति तद्वत् । किं कुर्वत्यः । **सुकृते** शोभनस्य कर्मणः कर्त्रे **सुन्वते** सोमाभिषवं कुर्वते **सुदानवे** कल्याणीर्दक्षिणाः ऋत्विग्भ्यो ददते **यजमानाय** **विश्वेदह** सर्वमेव **इषम्** अन्नं **वहन्तीः** आवहन्त्यः प्रयच्छन्त्य इत्यर्थः ॥ नारीः । ‘नॄ नये । ऋदोरप् । नृनरयोर्वृद्धिश्च' (पा. सू.४. १.७३. ग.) इति शार्ङ्गरवादिषु पाठात् ङीन् । जसि' वा छन्दसि ' इति पूर्वसवर्णदीर्घत्वम् । अपसः । अपशब्दात् ' अर्शआदिभ्योऽच्' इति अच् । ‘सुपां सुलक्° ' इति जसः सुः । व्यत्ययेन प्रत्ययात् पूर्वस्योदात्तत्वम् । विष्टिभिः ।  ‘ विश प्रवेशने' । विशन्ति प्रविशन्तीति विष्टयः किरणाः ।  ‘ क्तिचूक्तौ च संज्ञायाम्' इति क्तिच् । विश्वा । ‘सुपां सुलुक्' इति अमः डादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -132,13 +132,13 @@ genre M
 Arcanti = lit. worship; i.e. illuminate the heavens, spreading over or extending; like warriors: the comparison is explained: 'as they spread with bright arms along the front of the array, so the rays of the dawn spread along the sky before the coming of the sun'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They chant [/shine] like women busy with their labors, (coming always)  along the same route from afar,  
 conveying refreshment to the man of good action [=sacrificer], the man  of good gifts, the man who sacrifices and presses soma all the days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. are in agreement that árcanti only means “they sing” here and that the meaning ‘shine’ for this verb stem is dubious. This judgment seems short- sighted and unresponsive to the poetics of this hymn, and even if ‘shine’ is not the normal sense of árca-, the nominal derivatives like arcí(s)- ‘ray, flame’ (see arcís- in 5a) would allow a ‘shine’ sense under the proper circumstances. And these are the proper circumstances. This verse-initial verb, following on two verses describing the color, brightness, and beams of the dawns, would most naturally be interpreted with a ‘shine’ sense. The simile that follows, involving women at work, would then cause the audience to rethink this assumption, producing the interpretation ‘sing’, with the women singing work songs at their labors. But ‘sing’ makes little sense for the frame of the passage: do dawns ‘sing’? While ‘shine’ makes little sense for the simile: do working women ‘shine’? As in 1c the poet uses the ambiguity of the verbal pivot to craft two incompatible but verbally impeccable pictures, but this time he relies not on syntactic ambiguity as in 1c but synonymity -- a pun on the verbal root underlying the verb form. The pun may be even cleverer than so far presented. Although the primary sense of árcanti for the dawns should be ‘shine’, it is possible that there is a secondary sense ‘sing’, in that birds begin to sing at dawn and the ritual recitation also begins at that time. Similarly, although ‘sing’ should be the primary sense for the women in the simile, they may also be said to shine if they are glistening with sweat from their labors. (Recall the old expression “men sweat, but women ‘glow.’”) It should be noted that Ludwig thought the verb was “doppelsinnig” (see Geldner n. 3a).
 
@@ -147,23 +147,23 @@ In terms of the published translation (and other standard tr.), the simile parti
 to áhar / áhan- ‘day’, with víśvā; cf. the well-attested expression áhā víśvā.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They sing their song like women active in their tasks, along their common path hither from far away,  
      Bringing refreshment to the liberal devotee, yea, all things to the worshipper who pours the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie stimmen den Lobgesang an, gleich Frauen fleißig an der Arbeit, in ein und derselben Fahrt aus der Ferne kommend, indem sie alle Tage dem Werkfrommen und Freigebigen, dem Soma bereitenden Opferer Labsal zuführen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Frauen, fleissig bei der Arbeit, strahlen sie, auf gleichem Wege ziehend aus der Ferne her, Dem gabenreichen Frommen bringend Labetrunk, an jedem Tag dem Opferer, der Soma braut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поют они, словно женщины, занятые делами,  
 (Прибыв) издалека, (проехав) на той же самой упряжке,  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुसंदृ꣡शं तुवा वय꣡म्  
 म꣡घवन् वन्दिषीम꣡हि  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 यो꣡जा नु꣡ इन्द्र ते ह꣡री
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 प्र । नू॒नम् । पू॒र्णऽव॑न्धुरः । स्तु॒तः । या॒हि॒ । वशा॑न् । अनु॑ । योज॑ । नु । इ॒न्द्र॒ । ते॒ । हरी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *susaṃdṛśaṃ* ← *su*
 - \[adverb\]
@@ -128,42 +128,42 @@ genre M;; repeated line
 महापितृ यज्ञे सुसन्दृ शमित्येषाहवनीयोपस्थापने विनियुक्ता । सूत्रितं च । आहवनीयं सुसन्दृशं त्वेति पङ्क्त्या (आ २-१९) इति ॥हे मघवन्निन्द्र सुसन्दृशं सुष्ट्वनुग्रहदृष्व्या सर्वस्य द्रष्टारं त्वा त्वां वयं वन्दिषीमहि । स्तवामहि । स्तुतिकर्तारो भूयास्मेत्याशास्यते । अस्माभिर्वन्दिभिः स्तुतस्त्वं पूर्णवन्धुरः स्तोतृभ्यो देयैर्धनैः पूरितेन रथेन युक्तः सन् वशान् कामयमानानन्यान्यजमानान्प्रति नूनं प्र याहि । अवश्यं प्रतिष्ठस्व । योजेत्यादि पूर्ववत् ॥ वन्दिषीमहि । वदि अभिवादनस्तुत्योः । आशीर्लिङ् । लिङ्चाशिषि (पा ३-४-११६) इति तस्यार्धधातुकत्वेन लसार्वधातुकस्वराभावे प्रत्ययाद्युदात्तत्वम् । मघवन्नित्यस्यामन्त्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्त्वे सति पादादित्वान्निघाताभावः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We praise you, **Maghavan**, who look benignly (upon all); thus praised by us, repair (in your car), filled with treasure, to those who desire your presence; **Indra**, quickly yoke your horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would extol you of wholly lovely appearance, o bounteous one. Praised, drive forth now following your will, once your chariot box  
 is full.  
 – Now, Indra, I will hitch up your two fallow bays.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The exact sense of the hapax pūrṇávandhura- ‘having a full chariot box’ is not entirely clear. Geldner suggests that it is full either because Indra has drunk so much or because he is taking Opfergabe home with him; Renou goes for the latter: “plein (de biens).” This seems unlikely, since Indra is supposed to bring goods to distribute to us, not take them away with him like party favors. Moreover the vandhúra- appears to be the place where the charioteer stands (cf. the cmpd vandhureṣṭhā́-, as well as I.139.4, III.14.3), not a container for cargo. Although a jocular interpretation like Geldner’s is possible, I wonder if a “full chariot box” is simply one that has the driver in it; in other words, Indra has mounted the chariot and is ready to go. In any case, pūrṇá- here has to be read in the context of the same word in the next verse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Maghavan, we will reverence thee who art so fair to look upon.  
      Thus praised, according to our wish come now with richly laden car. Now, Indra, yoke thy two Bay Steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, der schön zu schauen, wollen wir loben, o Freigebiger. Fahre jetzt gepriesen mit vollem Wagensitz nach Wunsch weiter! - Ich will dir jetzt das Falbenpaar schirren, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wollen, reicher, preisen dich, der schönen Anblick du gewährst. Mit reichgefülltem Wagen komm, gerühmter, nun nach Wunsch herbei. Schirr, Indra, nun dein Füchsepaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, прекрасного на вид, мы  
 Хотим прославить, о щедрый.  

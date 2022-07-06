@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्त꣡ हो꣡तारस् त꣡म् इ꣡द् ईळते तुवा  
 अ꣡ग्ने सुत्य꣡जम् अ꣡ह्रयम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 प्रा꣡ग्ने तिष्ठ ज꣡नाँ अ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 भि॒नत्सि । अद्रि॑म् । तप॑सा । वि । शो॒चिषा॑ । प्र । अ॒ग्ने॒ । ति॒ष्ठ॒ । जना॑न् । अति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
@@ -132,7 +132,7 @@ genre M
 हे **अग्ने** **तमित्** तमेव **त्वा** त्वां **सप्त** **होतारः** होत्रकाः **ईळते** स्तुवन्ति । कीदृशं त्वाम् । **सुत्यजं** सुत्यागम् । अभिमतप्रदमित्यर्थः । **अह्रयम्** अक्षीणं प्रवृद्धम्। किंच **अद्रिं** मेघं **तपसा** तापकेन **शोचिषा** तेजसा । तपसा शोचिषा चेति वा योज्यम् । **वि** **भिनत्सि**। हे **अग्ने** **जनान्** अस्मान् **अति** अतीत्य **प्र** **तिष्ठ** प्रगच्छ हविरादाय देवान् प्रति । अथवास्मद्विरोधिजनानतिक्रम्य प्र तिष्ठ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,34 +143,34 @@ genre M
 Janām = asmān, proceed to the gods with theoblation, having left us behind
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The seven Hotars reverently invoke just you, o Agni, the unabashed one  displaying great abandon.  
 You split apart the rock with your heat and your flame. Agni, stand out  beyond the peoples.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sense of sutyájam is disputed. I ascribe to it the same metaphorical meaning as ‘abandon’ acquires in English, namely acting without constraint. This fits nicely with áhrayas- ‘unabashed, immoderate, unrestrained’. A fire blazing up out of control is presumably meant; in the next pāda it manages to split a rock -- a sudden glancing allusion to the Vala myth, in which Agni usually has no role.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And so the seven priests, O Agni, worship thee, Free-giver, Everlasting One.  
      Thou cIeavest through the rock with heat and fervent glow. Agni, rise up above the men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sieben Opferpriester rufen dich darum an, Agni, den Flüchtigen, der nicht schüchtern ist. Du spaltest den Fels mit deiner Glut, deiner Flamme. Agni erhebe dich über die Menschen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als solchen preisen, Agni, sieben Priester dich, den kecken, tücht'gen Schleuderer, Den Fels zerbrichst du mit der Glut, mit deinem Licht dring' über alle Menschen vor.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Семеро хотаров зовут тебя такого, (, как ты есть),  
 О Агни, легко отдающего, не стесняющегося.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त꣡स्य माय꣡या चन꣡  
 रिपु꣡र् ईशीत म꣡र्तियः  
 यो꣡ अग्न꣡ये ददा꣡श हव्य꣡दातिभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यः । अ॒ग्नये॑ । द॒दाश॑ । ह॒व्यदा॑तिऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -91,36 +91,36 @@ genre M
 **मर्त्यः** मनुष्यः **रिपुः** शत्रुः । चनेति निपातसमुदायोऽप्यर्थे । **मायया** **चन** माययापि **तस्य** जनस्य **न** **ईशीत** ईश्वरो न भवति । **यः** जनः **हव्यदातिभिः** हविषां दातृभिर्ऋत्विभिः **अग्नये** **ददाश** हवींषि प्रयच्छति । तस्य रिपुर्नास्तीत्यर्थः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “No hostile mortal shall have power by fraud over him who by the (sacred) offerers of the oblationpresents (offerings) to **Agni**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not by any wile should a cheating mortal be master of him  
 who offers ritual service to Agni with gifts of oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No mortal foe can e'er prevail by arts of magic over him  
      Who serveth Agni well with sacrificial gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll, auch nicht durch Zauberei, ein heimtückischer Sterblicher über den Macht bekommen, der gegen Agni mit Opferanteilen freigebig ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dess wird nicht Herr durch Zauber selbst ein feindgesinnter Sterblicher, Wer, Agni, dir mit Opferguss gehuldigt hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не приобретет над ним власти  
 Даже с помощью колдовства обманщик-смертный,  

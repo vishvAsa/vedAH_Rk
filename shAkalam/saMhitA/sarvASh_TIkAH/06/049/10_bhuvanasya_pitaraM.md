@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भु꣡वनस्य पित꣡रं गीर्भि꣡र् आभी꣡  
 रुद्रं꣡ दि꣡वा वर्ध꣡या रुद्र꣡म् अक्तउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋ꣡धग् घुवेम कवि꣡नेषिता꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 बृ॒हन्त॑म् । ऋ॒ष्वम् । अ॒जर॑म् । सु॒ऽसु॒म्नम् । ऋध॑क् । हु॒वे॒म॒ । क॒विना॑ । इ॒षि॒तासः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
@@ -111,20 +111,20 @@ genre M
 **भुवनस्य** भूतजातस्य **पितरं** पालयितारं **रुद्रम्** । रुत् दुःखम् । तत् द्रावयितारमीश्वरम् **आभिः** **गीर्भिः** स्तुतिभिः **दिवा** अहनि हे स्तोतः **वर्धय** । **अक्तौ** रात्र्यां च तमेव **रुद्रं** स्तुतिभिर्वर्धय । वयं च **कविना** प्राज्ञेन रुद्रेण **इषितासः** प्रेरिताः सन्त: **बृहन्तं** महान्तम् **ऋष्वं** दर्शनीयम् **अजरं** जरारहितं **सुषुम्नं** शोभनसुखमेवंगुणविशिष्टं रुद्रम् **ऋधक्** ऋद्धं समृद्धं यथा भवति तथा **हुवेम** स्तवाम ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Exalt **Rudra**, the parent of the world, with these hmns by day; (exalt) Rudra (with them) by night; animated by the far-seeing, we invoke him, mighty, of plural asing aspect, undecaying, endowed with felicity, (the source of) prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The father of creation: with these hymns strengthen Rudra by day,  Rudra by night;  
 the lofty, high, ageless, very gracious one would we invoke separately,  roused by the poet.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The form vardháyā can be either 2nd sg. impv. (Grassmann, Geldner) or 1st sg.
 
@@ -135,23 +135,23 @@ tr.) and has borrowed its accent from vardháyā.
 Despite Geldner’ and Renou’s comments, considering ‘separately’ (‘allein’, ‘à part’) for ṛ́dhak only to reject it, this must be the correct tr. In his n. 10d Geldner cites II.33.4, where we hope not to anger Rudra by invoking him with an invocation shared with another god or gods. See comm. ad loc. The fact that Rudra’s sons are addressed in the next vs. (11), as well as namelessly in 6cd (see above), might make the need for a separate invocation of Rudra all the more acute.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rudra by day, Rudra at night we honour with these our songs, the Universe's Father.  
      Him great and lofty, blissful, undecaying let us call specially as the Sage impels us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rudra, den Vater der Welt, erbaue mit diesen Lobesworten bei Tag, Rudra in der Nacht! Den hohen, erhabenen, alterlosen, wohlwollenden Gott wollen wir recht anrufen, von dem Weisen angeregt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Weltenvater stärk mit diesen Liedern am Tag den Rudra und bei Nacht den Rudra, Den hohen, grossen, ewig jungen, holden lasst rufen uns zusammt erregt vom Dichter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этими хвалебными песнями отца мироздания  
 Рудру днем я хочу усилить, Рудру – ночью!  

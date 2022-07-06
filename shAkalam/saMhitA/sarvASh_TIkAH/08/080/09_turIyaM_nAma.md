@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुरी꣡यं ना꣡म यज्ञि꣡यं  
 यदा꣡ क꣡रस् त꣡द् उश्मसि  
 आ꣡द् इ꣡त् प꣡तिर् न ओहसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 आत् । इत् । पतिः॑ । नः॒ । ओ॒ह॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *turīyaṃ* ← *turīyam* ← *turīya*
 - \[noun\], accusative, singular, neuter
@@ -98,7 +98,7 @@ genre M
 हे इन्द्र त्वं **यज्ञियं** यज्ञसंबन्धि **तुरीयं** चतुर्थं **नाम** **यदा** **करः** करोषि **तदुश्मसि** कामयामहे । **आदित्** अनन्तरमेव नामकामानन्तरमेव **पतिः** पालकस्त्वं **नः** अस्मान् **ओहसे** वहसि प्रापयसि । नक्षत्रनाम गुह्यं नाम प्रकाशं नामेति त्रीणि नामानि सोमयाजीति तुरीयं नाम तच्च यज्ञियम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,34 +109,34 @@ genre M
 Fourth name: The four names are explained to be the **nakṣatra** or constellation-name (i.e., **Arjuna**, as connectedwith the constellation arjunekṣu or phalgunyau? cf. **Śatapatha Brāhmaṇa** 2.1.2.11 which calls it guhyamnāma, hidden name; the hidden name, the revealed name, and the sacrificial name **somayājin**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you will make your fourth sacrificial name—this we eagerly  desire—  
 after that you will be solemnly proclaimed as our lord.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For speculation about the meaning of the “names,” see published introduction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This thing we wish. that thou mayst take thy fourth, thy sacrificial name.  
      So art thou held to be our Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du deinen vierten Namen, den opferwürdigen, annimmst, so wünschen wir das, dann erst bist du als unser Herr anerkannt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dass deinen vierten Namen du preiswürdig machst, das wünschen wir; Denn Güterherr wirst du genannt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

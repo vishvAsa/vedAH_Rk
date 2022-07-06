@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡कं चमसं꣡ चतु꣡रः कृणोतन  
 त꣡द् वो देवा꣡ अब्रुवन् त꣡द् व आ꣡गमम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 साकं꣡ देवइ꣡र् यज्ञि꣡यासो भविष्यथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सौध॑न्वनाः । यदि॑ । ए॒व । क॒रि॒ष्यथ॑ । सा॒कम् । दे॒वैः । य॒ज्ञिया॑सः । भ॒वि॒ष्य॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
@@ -145,36 +145,36 @@ popular
 एवं पृष्टोऽग्निस्तान् प्रत्युवाच । हे **सौधन्वनाः** सुधन्वनः पुत्राः यूयम् **एकं** **चमसं** त्वष्ट्रा संपादितं पूर्वमेकमेव सन्तं चमसं **चतुरः** **कृणोतन** चतुःसंख्याकान् कुरुत । चतुरः शसि' (पा. सू. ६. १. १६७ ) इत्यन्तोदात्तत्वम् । पूर्ववत् तनप् ॥ यथा उपरितने ' ज्येष्ठ आह चमसा द्वा करेति । इत्युपक्रम्य  ‘ कनिष्ठ आह चतुरस्करेति' ( ऋ. सं. ४. ३३. ५) इति चतुष्कं निर्धारितम् । न केवलमहमेव ब्रवीमि किंतु **वः** युष्मान प्रति **तत्** उक्तं चतुर्धाकरणरूपं कर्म उत्तरत्र वक्ष्यमाणम् अश्वरथादिकरणरूपं च कर्म **देवाः** इन्द्रादयः **अब्रुवन्** । देवत्वप्राप्त्युपायत्वेन **तत्** तादृशं कर्म **वः** युष्माकं वक्तुम् अहम् **आगमम्** प्राप्तोऽस्मि । यस्मादेवं तस्माद्यूयं **यद्येवा** **करिष्यथ** यद्येवं मदुक्तप्रकारेण कर्तुं शक्नुथ तथा चेत् **देवैः** **साकं** सह **यज्ञियासो** **भविष्यथ** । इति तैरुक्तमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Make fourfold the single ladle; so the gods command you; and for that purpose have I come, sons of **Sudhanvan**; if you accomplish this, you will be entitled to sacrifices along with the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] “ ‘Make the one cup to be four’—that the gods said to you. For  that I have come to you.  
 Sons of Sudhanvan, if you will do thus, you will become worthy  (recipients) of the sacrifice along with the gods.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The chalice that is single make ye into four: thus have the Gods commanded; therefore am I come.  
      If, O Sudhanvan's Children, ye will do this thing ye shall participate in sacrifice with Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus dem einen Becher machet vier! Das sagten euch die Götter, darum bin ich zu euch gekommen. Ihr Söhne des Sudhanvan, wenn ihr also tun werdet, so sollt ihr zusammen mit den Göttern opferberechtigt werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Aus einem Becher sollt ihr vier verfertigen; das sagen euch die Götter, darum komm' ich her; Wenn ihr, Sudhanvans Söhne, solches werdet thun, so werdet ihr den Göttern gleich an Ehren sein.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из одного кубка сделайте четыре!  
 Это вам сказали боги. За этим я к вам пришел.  

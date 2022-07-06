@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ विध꣡न्तो अपां᳐꣡ सध꣡स्थे  
 द्विता꣡दधुर् भृगवो विक्षु꣡ आयोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡नाम् अग्नि꣡र् अरति꣡र् जीरा꣡श्वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ए॒षः । विश्वा॑नि । अ॒भि । अ॒स्तु॒ । भूम॑ । दे॒वाना॑म् । अ॒ग्निः । अ॒र॒तिः । जी॒रऽअ॑श्वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 इममग्निंविधन्तः परिचरन्तोभृगवोस्मत्पूर्वेमहर्षयः अपांसधस्थेसहस्थानेन्तरिक्षेआयोर्मनुष्य- स्ययजमानस्यस्वभूतासुविक्षुप्रजास्वृत्विक्षुतेषाम्मध्येचद्विताद्वयोःस्थानात् अदधुः अधारयत् दधाते- र्लुङिरूपं एषोग्निर्भूमभूम्नाअत्यर्थंविश्वानिभूतजातान्यस्मद्विरोधीन्यभ्यस्तुअभिभवतु सकीदृशः देवानामरतिरीश्वरः तेषाम्मध्येशीघ्रंअरणशीलोवास्मद्यागम्प्रति तथाजीराश्वः क्षिप्राश्वः ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 Twice made him manifest: as lightning in the firmament, and as culinary fire on earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here—having done honor (to him) in the seat of the waters— once again the Bhr̥gus have installed among the clans of Āyu.  
 Let him surmount all the worlds—Agni, the spoked wheel of the gods  whose horses are lively.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The combination of honoring Agni “in the seat of the waters” (a) and the Bhṛgus “once again” installing him among the clans (b) suggests that this vs. concerns the well-known myth of Agni’s flight and concealment in the waters and the Bhṛgus’ discovery, recovery, and reinstallation of Agni as the ritual fire. X.46.2 begins with a pāda identical to our pāda a and then relates the Bhṛgu’s finding of the fire gúhā cátantam “hiding in secret”: imáṃ vidhánto apā́ṃ sadhásthe, … padaír ánu gman / gúhā cátantam uśíjo námobhir, ichánto dhī́rā bhṛ́gavo ‘vindan “This one here
 
@@ -160,28 +160,28 @@ Holland &amp; van Nooten Rig Veda edition suggest a rest in 4th position. It wou
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bhrgus who served him in the home of waters set him of old in houses of the living.  
      Over all worlds let Agni be the Sovran, the messenger of Gods with rapid coursers.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The Bhrigus worshipping him in the abode of the waters 1 have verily 2 established him among the clans of Âyu. Let him surpass all worlds, Agni, the steward of the gods 3, the possessor of quick horses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In der Wohnung der Gewässer ihm dienend setzten die Bhrigus ihn abermals unter die Clane des Ayu: "Er soll über allen Wesen stehen, Agni, der Rosselenker der Götter, der mit raschen Rossen fährt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Bhrigus fanden ihn im Sitz der Wasser, und setzten ein ihn in der Menschen Häuser; Er möge herrschen über alle Wesen der Götter Diener, Herr der schnellen Rosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Служа ему в обиталище вод,  
 Бхригу с самого начала поместили его среди племен Аю.  

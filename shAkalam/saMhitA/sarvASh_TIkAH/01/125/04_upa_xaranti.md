@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प क्षरन्ति सि꣡न्धवो मयोभु꣡व  
 ईजानं꣡ च यक्ष्य꣡माणं च धेन꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 घृत꣡स्य धा꣡रा उ꣡प यन्ति विश्व꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पृ॒णन्त॑म् । च॒ । पपु॑रिम् । च॒ । श्र॒व॒स्यवः॑ । घृ॒तस्य॑ । धाराः॑ । उप॑ । य॒न्ति॒ । वि॒श्वतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 पूर्वस्यामृचि आनीतेन धनेन सोमयागं कुर्वित्युक्तम् । तमेव सोमयागं फलप्रदर्शनेन स्तौति । **सिन्धवः** स्यन्दनशीलाः प्रस्तुतपयोधाराः । सिन्धुः स्यन्दनात्' (निरु. ९. २६) इति यास्कः । **मयोभुवः** सुखभावयित्र्य: । मय इति सुखनाम ' मयः स्यूमकम् ' ( नि. ३. ६. ७ ) इति तन्नामसु पाठात् । **धेनवः** प्रीणयित्र्यो गावः **ईजानं** सोमयागमनुतिष्ठन्तं तथा **यक्ष्यमाणं** यक्ष्ये इति प्रणतिं कुर्वन्तं **च** । न केवलमीजानं अपि तु यक्ष्ये इति अध्यवसितवन्तमपि **उप** उपेत्य **क्षरन्ति** स्रवन्ति प्रीणयन्तीत्यर्थः । न च पूर्वस्यामृचि सोमं पिबेत्युक्तत्वात् सर्वेषां सोमयागानाम् अग्निष्टोमात्मकज्योतिष्टोमस्य प्रकृतस्य  ‘ ज्योतिष्टोमेन स्वर्गकामो यजेत' इति स्वर्ग एव फलत्वेन श्रुतः न गवादिकमिति वाच्यम्। स्वर्गवत् गवादिकामनयापि सोमयागस्य कर्तुं शक्यत्वात् । न केवलं सोमयागमनुतिष्ठतामेव महत्फलम् अपि तु सुकृतसाधनानि कर्मान्तराणि अधितिष्ठतामपि महत् फलमस्त्येवेति दर्शयति । **पृणन्तं** पितॄन् प्रीणयन्तं  **पपुरिं**  प्रीणनशीलम् इष्टदातारं  प्राणिनः सर्वदा प्रीणयन्तं **च** पुरुषं **श्रवस्यवः** अन्नमिच्छन्त्यः अन्नसमृद्धिहेतवः **घृतस्य** **धाराः**। यद्वा । घृतकुल्याः। **विश्वतः** सर्वतः **उप** उपेत्य **यन्ति** प्राप्नुवन्ति प्रीणयन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,37 +124,37 @@ genre M
 Pṛṇantam ca papurim- ca = agent who gives plural asure or who gives satisfaction; pṛṇantam is applied to the **pitṛs**, or progenitors (pitram pṛṇayantam; papurm is applied to all living beings (**prāṇinaḥ** **sarvadā** pṛṇayantam puruṣam)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The rivers, embodiments of joy, milk-cows, flow near to the one who has  sacrificed and the one who will sacrifice;  
 seeking fame, the streams of ghee on every side go near to him who  
 grants and has granted.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two conjoined phrases ījānáṃ ca yakṣyámānaṃ ca (b) and pṛṇántaṃ ca pápuriṃ ca (c) have the same referent, and their syntactic parallelism invites a completely parallel interpretation of their verbal semantics. But the pairs are not morphologically parallel: the first phrase consists of a perfect part. and a future part., the second of a present part. and a reduplicated -i-stem adj. In the published translation I render pápuri- as preterital (“who … has granted”), but following Grestenberger (JAOS 113.2 [2013]) I now see such forms as imperfectives, often with habitual or iterative sense; unfortunately in this context the conjoined phrase then seems almost pleonastic+++(=redundant)+++, though perhaps “the one who grants and keeps granting” would work.
 
 I would also slightly alter the tr. of the phrase in b to “the one who has sacrificed and will sacrifice,” to make the parallelism of the two phrases in bc clearer and also to rule out a reading in which the two participles in b have different referents.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Health-bringing streams, as milch-cows, flow to profit him who hath worshipped, him who now will worship.  
      To him who freely gives and fills on all sides full streams of fatness flow and make him famous.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erquickend strömen dem die Flüsse, dem die Milchkühe, der geopfert hat und opfern wird. Dem der reichlich spendet und schenkt, fließen von allen Seiten die Schmalzströme wetteifernd zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rinnen lustbringende Ströme, die Milchtränke, hin zu dem, der geopfert hat, und zu dem, der opfern will; zu dem, welcher spendet und reichlich schenkt, gehen hohes Glück verleihend von allen Seiten die Ströme des Fettes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Притекают благодатные реки,  
 Дойные коровы к тому, кто пожертвовал и собирается жертвовать,  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वंसते मघ꣡वा वीर꣡वद् य꣡शः  
 स꣡मिद्धो द्युम्नी꣡ आ꣡हुतः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡छा वा꣡जेभिर् आग꣡मत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 कु॒वित् । नः॒ । अ॒स्य॒ । सु॒ऽम॒तिः । नवी॑यसी । अच्छ॑ । वाजे॑भिः । आ॒ऽगम॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -106,36 +106,36 @@ genre M
 मघवा धनवान् **द्युम्नी** अन्नवान् यशस्वी वा । तथा च यास्कः---‘द्युम्नं द्योततेर्यशो वान्नं वा' (निरु. ५. ५) इति । **यशः** यशस्करमन्नम् **आ** **वंसते** यजमानेभ्य आ प्रयच्छति। **अस्य** अग्नेः **नवीयसी** नवतरा **सुमतिः** अनुग्रहबुद्धिः **नः** अस्मान् **अच्छ'** प्रति **वाजेभिः** अन्नैः सह **कुवित्** बहुवारम्'। 'सलिलं कुवित्' इति बहुनामसु पाठात् । **आगमत्** आगच्छतु॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wealthy and glorious (**Agni**), when invoked and kindled, pours forth on his votaries abundance offood with children; may his ever fresh favour continually come to us with all kinds of food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bounteous one will gain heroic glory (for us)—he who is brilliant  when kindled and bepoured.  
 Surely his benevolence will come here to us anew along with prizes?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Worshipped with gifts, enkindled, splendid, Maghavan shall win himself heroic fame.  
      And will not his most newly shown benevolence come to us with abundant strength?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der freigebige Agni möge die Ehre vieler Söhne einbringen, der entflammte, glänzende, mit Opferschmalz begossene. Gewiß wird aufs neue zu uns seine Huld kommen mit reichen Belohnungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der mächtige verschaffe heldenreichen Ruhm, entflammt, beopfert, glanzbegabt; Ob nicht zu uns hin seine neue Huld und Gunst gelangen wird mit reichem Gut?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть щедрый добудет (нам) почесть, состоящую из сыновей,  
 Зажженный, сверкающий, политый (жиром)!  

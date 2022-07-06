@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रुतं꣡ वो वृत्रह꣡न्तमम्  
 प्र꣡ श꣡र्धं चर्षणीना᳐꣡म्  
 आ꣡ शुषे रा꣡धसे महे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । शु॒षे॒ । राध॑से । म॒हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे ऋत्विग्यष्टारः **श्रुतं** बलवत्तया प्रसिद्धमत एव **वृत्रहन्तमम्** अतिशयेन वृत्रहन्तारं **शर्धं**  बलभूतं वेगवन्तं वा एतादृशमिन्द्रं **चर्षणीनां** मनुष्याणां **वः** युष्माकम् **आशुषे** । अश्नोतेर्लेट्युत्तम इटि सिप् । व्यत्ययेनोप्रत्ययः । ‘बहुलं छन्दसि' इत्यडागमः । तमिन्द्रं स्तुतिभिः प्रीणयित्वा युष्मभ्यं प्रकर्षेणाश्नवै । प्रयच्छामीत्यर्थः । किमर्थम्। **महे** महते **राधसे** धनाय धनं युष्मभ्यं दातुम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Carṣaṇīnām: renowned and mighty among men
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him famed as the best smiter of Vr̥tra, the propelling force of the  settled peoples,  
 do I inspire to great generosity to you (patrons).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him your best Vrtra-slayer, him the famous Champion of mankind  
      I urge to great munificence,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eurem berühmten Erzfeindetöter, die Stärke der Völker, eifere ich zu großer Freigebigkeit an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den hehren, feindetödtendsten, den Führer alles Menschenvolks Fach' ich zu grosser Gab' euch an,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

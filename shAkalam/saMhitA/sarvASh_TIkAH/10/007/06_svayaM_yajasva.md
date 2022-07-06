@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वयं꣡ यजस्व दिवि꣡ देव देवा꣡न्  
 किं꣡ ते पा꣡कः कृणवद् अ꣡प्रचेताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एवा꣡ यजस्व तनु꣡वं सुजात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यथा॑ । अय॑जः । ऋ॒तुऽभिः॑ । दे॒व॒ । दे॒वान् । ए॒व । य॒ज॒स्व॒ । त॒न्व॑म् । सु॒ऽजा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svayaṃ* ← *svayam*
 - \[adverb\]
@@ -135,7 +135,7 @@ genre M
 हे **देव** द्योतमानाग्ने त्वं **दिवि** द्युलोके स्थितान् **देवान्** इन्द्रादीन् **स्वयम्** आत्मनैव **यजस्व** । **पाकः** पक्तव्यप्रज्ञः **अप्रचेताः** अप्रकृष्टज्ञानो मनुष्यः **ते** तव किं **कृणवत्** किं करोति । त्वयानधिष्ठितः किंचिदपि न जानातीत्यर्थः । किंच हे **देव** त्वम् **ऋतुभिः** कालविशेषैः **देवान्** **यथायजः** इष्टवानसि **एव** एवं हे **सुजात** शोभनजन्मन्नग्ने **तन्वम्** आत्मानमपि **यजस्व** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,30 +146,30 @@ genre M
 What caṇ..for you: kim te kṛṇavat =tvayānadhiṣṭhitaḥ kiñcidapi na janāti, undirected (or unpresided over) by you he knows nothing
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Perform sacrifice by yourself to the gods in heaven, o god. How can a  callow man without discernment do it for you?  
 Just as you sacrificed to the gods, o god, according to the ritual  
 sequences, so perform sacrifice to your own body, o well-born one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Worship, thyself, O God, the Gods in heaven: what, void of knowledge, shall the fool avail thee?  
      As thou, O God, hast worshipped Gods by seasons, so, nobly-born! to thine own self pay worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Opfere selbst, o Gott, den Göttern im Himmel! Was kann dir ein einfältiger Tor ausrichten? Wie du zu ihren Zeiten den Göttern opfertest, o Gott, so opfere dir selbst, du Schöngeborener!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Himmel opfre selbst, o Gott, den Göttern; was kann der Thor im Unverstand dir nützen? Wie du zur Festzeit opfertest den Göttern, so opfre, Gott, dir selbst, o schöngeborner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сам почитай богов на небе, о бог!  
 Что может причинить тебе несведущий глупец?  

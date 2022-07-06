@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वयु꣡र् इन्द्र स्वरा꣡ळ् असि  
 स्म꣡द्दिष्टिः स्व꣡यशस्तरः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 भ꣡वा नः सुश्र꣡वस्तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । व॒वृ॒धा॒नः । ओज॑सा । पु॒रु॒ऽस्तु॒त॒ । भव॑ । नः॒ । सु॒श्रवः॑ऽतमः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svayur* ← *svayuḥ* ← *svayu*
 - \[noun\], nominative, singular, masculine
@@ -106,20 +106,20 @@ genre M
 हे **इन्द्र** **स्वयुः** धनवानसि । तथा **स्वराट्** स्वर्गस्य राजा **असि** । **स्मद्दिष्टिः** भद्रवाक्यः **स्वयशस्तरः** अतिशयेन प्रभूतकीर्तिरसि । हे **पुरुष्टुत** बहुभिराहूतेन्द्र **सः** त्वम् **ओजसा** बलेन **वावृधानः** वर्धमानः सन् **नः** अस्मदर्थं **सुश्रवस्तमः** अतिशयेन शोभनान्नोपेतः **भव** ॥ स्वयुः । स्वशब्दात् मत्वर्थीयो युः । स्वराट् ।' राजृ दीप्तौ ' । क्विप् । व्रश्चादिना षत्वम् । स्मद्दिष्टिः । स्मत् सुमदित्यर्थे। उकालोपश्छान्दसः। बहुव्रीहौ पूर्वपदस्वरः । पुरुष्टुत । संहितायां स्तुतस्तोमयोश्छन्दसि इति षत्वम् । भव । भवतेर्लोटि रूपम् । ‘ द्व्यचोऽतस्तिङः ' इति संहितायां दीर्घः । सुश्रवस्तमः । श्रवःशब्दोऽसुन्नन्तः । बहुव्रीहौ ' आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । तदन्तादतिशायने तमप् । तस्य पित्त्वादनुदात्तत्वे बहुव्रीहिस्वरः ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are possessed of opulence, **Indra**; you are the lord of heaven, auspicious and renowned; may you who is adored of many, increasing in vigour, be to us a most (bountiful bestower) of food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Self-seeking, you are self-ruling, and, along with (the gifts you) allot,  exceptionally self-glorious, o Indra.  
 Having increased in strength, much-praised one, become the one who  most receives our praises.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains three forms with sva- ‘self’: svayúḥ … svarā́ṭ … sváyaśastaraḥ, and the second hemistich opens sá v-, with a scrambling of the phonetic elements. Other patterning is seen in the comparative sváyaśastaraḥ ending the first hemistich and the superlative suśrávastamaḥ ending the 2nd, both built to -asstems and compounded with the phonological variants sva- and su-.
 
@@ -128,23 +128,23 @@ smáddiṣṭi- occurs 4x in the RV. It is a cmpd. of smád- ‘altogether, toge
 The splv. suśrávastamaḥ is rendered by the standard tr. (Geldner, Renou, Witzel Gotō) as ‘best listener’. Since it is built to the noun śrávas- ‘fame’ rather than directly to the root √śru, I find this meaning unlikely. In some other passages the word simply means ‘most famous, having the best good fame’ (e.g., VIII.13.2). Here because of the involvement of ‘us’ (naḥ), I take it as ‘receiving the best good fame’, i.e., with ‘fame’ being the praises we offer him. In only one passage does ‘best hearer’ seem a likely interpr., and there that meaning is induced by the presence of the verb śṛṇuṣvá: I.131.7 śṛṇuṣvá suśrávastamaḥ “listen (to us) as the one who listens best.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, self-ruling Lord art thou, good Leader, of most glorious fame.  
      So, waxen in thy strength, O thou whom many praise, be thou most swift to hear our call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, du bist dein eigener selbständiger Herr, gleichmäßig zuteilend, gar selbstherrlich. An Stärke gewachsen, du Vielgepriesener, sei uns der beste Erhörer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Selbsteigner Herr bist Indra, du, gut lenkend und von eigner Pracht; An Kraft gewachsen, o du vielgepriesener, sehr gern erhörend sei du uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, ты самосущий, ты самодержец,  
 Со (своим) наставлением, со своим самым ярким блеском.  

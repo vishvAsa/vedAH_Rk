@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् भू꣡म्या अ꣡न्ता ध्वसिरा꣡ अदृक्षत  
 इ꣡न्द्रावरुणा दिवि꣡ घो꣡ष आ꣡रुहत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अर्वा꣡ग् अ꣡वसा हवनश्रुता꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अस्थुः॑ । जना॑नाम् । उप॑ । माम् । अरा॑तयः । अ॒र्वाक् । अव॑सा । ह॒व॒न॒ऽश्रु॒ता॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -131,41 +131,41 @@ genre M
 हे इन्द्रावरुणौ **भूम्याः** **अन्ताः** पर्यन्ताः **ध्वसिराः** सैनिकैर्ध्वस्ताः **सम्** **अदृक्षत** संदृश्यन्ते । तथा **दिवि** द्युलोके **घोषः** सैनिकानां शब्दश्च **आरुहत्** आरूढोऽभूत् । **जनानाम्** अस्मदीयानां भटानाम् **अरातयः** शत्रवः **माम्** **उप** **अस्थुः** उपस्थिताः। एवं प्रवर्तमानेऽस्मिन् युद्धे हे **हवनश्रुता** । आह्वानशीलाविन्द्रावरुणौ **अर्वाक्** अस्मदभिमुखम् **अवसा** रक्षणेन सह **आ** **गतम्** आगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The ends of the earth are beheld laid waste; the clamour has ascended, **Indra** and **Varuṇa**, to heaven;the adversaries of my people approach me; having heard my invocation, come for my defence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “The ends of the earth have appeared covered in dust! O Indra and  Varuṇa, the tumult has mounted to heaven!  
 The tribes’ hostilities have come upon me: o you hearing my call, come  near with help.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The boundaries of earth were seen all dark with dust: O Indra-Varuna, the shout went up to heaven.  
      The enmities of the people compassed me about. Ye heard my calling and ye came to me with help.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Earth's ends appear enwrapt in dust, O Varuṇa And Indra; now the din has mounted to the sky; The onset of the warriors rolls close up to me: Come hither with your aid, O ye that hear my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Enden der Erde schienen verfinstert, zum Himmel ist das Geschrei emporgestiegen, Indra und Varuna. Wider mich hat sich die Mißgunst der Völker erhoben; kommet näher mit eurem Beistand, ihr Ruferhörer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Erde Enden zeigen sich in Staub gehüllt, zum Himmel steigt der Schlachtlärm, Mitra-Varuna; Der Menschen Feindschaft hat sich wider uns erregt, o kommt mit Hülfe Ruf erhörend her zu mir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Края земли показались затемненными,  
 О Индра-Варуна, к нему поднялся шум.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वासृजन्त जि꣡व्रयो न꣡ देवा꣡  
 भु꣡वः सम्रा꣡ळ् इन्दर+ सत्य꣡योनिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ वर्तनी꣡र् अरदो विश्व꣡धेनाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अह॑न् । अहि॑म् । प॒रि॒ऽशया॑नम् । अर्णः॑ । प्र । व॒र्त॒नीः । अ॒र॒दः॒ । वि॒श्वऽधे॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avāsṛjanta* ← *avasṛj* ← *√sṛj*
 - \[verb\], plural, Imperfect
@@ -118,36 +118,36 @@ genre M
 हे **इन्द्र** **देवाः** त्वां **जिव्रयो** **न** जीर्णाः प्रवृद्धाः पितरो यूनः पुत्रानिव **अवासृजन्त** असुरवधार्थं प्रैरयन् । ततो हे इन्द्र **सत्ययोनिः** सत्यनिवासस्त्वं **सम्राट्** सर्वेषां लोकानामधीश्वर: **भुवः** अभवः । **अर्णः** उदकं लक्षीकृत्य **परिशयानं** परितः समन्तात् शयनं कुर्वन्तम् **अहिं** वृत्रासुरम् **अहन्** अवधीः । **विश्वधेनाः** विश्वस्य प्रीणयित्रीः **वर्तनीः** सर्वत्र प्रवर्तिका नदीः **प्र** **अरदः** प्रकर्षेण विलेखनं कृतवानसि। इन्द्रो वृत्रं हत्वा तेनावृतान्युदकानि प्रवाहरूपेण प्रवर्तयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As elders (send forth their young), so the gods have sent you (against **Vṛtra**); thence you became, **Indra** who is the abode of truth, the soverign of the world; you have slain the slumbering Ahi for (the release of) the water and have marked out (the channels of) all the delighting rivers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like old men the gods let go, and you became the universal king, Indra,  acquiring your own true womb [=place].  
 You smashed the serpent lying around the flood; you dug out the courses  for all the nourishing streams.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Gods, as worn witheld, relaxed their efforts: thou, Indra, born of truth, wast Sovran Ruler.  
      Thou slewest Ahi who besieged the waters, and duggest out their all-supporting channels.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Götter verzichten wie die Greise; du Indra wurdest der Allkönig, deinen wahren Platz einnehmend. Du erschlugst den Drachen, der die Flut umlagerte; du hast die alltränkenden Flußläufe gefurcht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Greise sanken matt die Götter nieder, du Indra, warst der Allherr, Segen bringend; Du schlugst den Drachen, der die Flut umlagert, und spaltetest die Bahnen allen Kühen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Боги отпали, как старики.  
 Ты оказался, о Индра, вседержителем, чье место истинно.  

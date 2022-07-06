@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गु꣡हा सती꣡र् उ꣡प त्म꣡ना  
 प्र꣡ य꣡च् छो꣡चन्त धीत꣡यः  
 क꣡ण्वा ऋत꣡स्य धा꣡रया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 कण्वाः॑ । ऋ॒तस्य॑ । धार॑या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *guhā*
 - \[adverb\]
@@ -84,19 +84,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **गुहा** गुहायां **सतीः** सत्यो भवन्त्यः **यत्** याः **धीतयः** स्तुतयः कर्माणि वा **त्मना** आत्मना स्वेनेन्द्रेणोपगम्यमानाः **प्र** **शोचन्त** प्रादीप्यन्त । यद्वा । आत्मना स्वत एवेन्द्रमुपगच्छन्त्यः प्रदीप्यन्ते । ताः स्तुतीः **कण्वाः** कण्वगोत्रा ऋषयः **ऋतस्य** उदकस्य सोमात्मकस्य **धारया** सहिताः कुर्वन्तीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The praises that are offered in secret shine brightly when approaching (**Indra**) of their own will; theKaṇvas (combine them) with the stream of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since, though they are hidden, the insights blaze forth by themselves— the Kaṇvas (blaze forth)—in a stream of truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See comments on 7ab. The identification of the Kaṇvas and their dhītí is quite clear here.
 
@@ -105,23 +105,23 @@ Another example of anomalously positioned yád, like 2b and 3a. In fact this ver
 referrring to poets followed by r̥tásya INSTR. phrase.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When bidden thoughts, spontaneously advancing, glow, and with the stream  
      Of sacrifice the Kanvas shine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die im Verborgenen weilenden Gedanken von selbst hervorglühen, da erglühen die Kanva´s durch den Strahl der Wahrheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Seit die zuvor verborgenen, andächt'gen Kanva's in dem Strom Des frommen Werkes leuchteten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда сами по себе запылают  
 Поэтические мысли, пребывавшие в тайне,  

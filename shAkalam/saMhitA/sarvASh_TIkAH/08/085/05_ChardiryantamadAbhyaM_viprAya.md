@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 छर्दि꣡र् यन्तम् अ꣡दाभियं  
 वि꣡प्राय स्तुवते꣡ नरा  
 म꣡ध्वः सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मध्वः॑ । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *chardir* ← *chardiḥ* ← *chardis*
 - \[noun\], accusative, singular, neuter
@@ -75,41 +75,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **नरा** नेतारावश्विनौ **विप्राय** मेधाविने अत एव **स्तुवते** स्तोत्रं कुर्वते कृष्णायर्षये **अदाभ्यम्** । ‘दभेश्च' इति ण्यत्प्रत्ययः । परैरहिंस्यं **छर्दिः** गृहं **यन्तं** प्रयच्छतम् । किमर्थम् । सोमपानाय । स्तोत्रे गृहे दीयमाने सति तदा स सोमं युवाभ्यां प्रयच्छति ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders, give to the sage who praises you an unassailable dwelling that you may drink the exhilaratingSoma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Extend undeceivable protection to the praising poet, o men,  
 to drink of the honeyed soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase chardíḥ … ádābhyam is tr. “shelter that cannot be cheated” in VIII.5.12, which rendering seems preferable to “undeceivable protection” here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Chiefs, to the sage who sings your praise grant an inviolable home,  
      To drink the savoury Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewähret untrüglichen Schirm dem beredten Sänger, ihr Herren, um vom süßen Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Männer, reichet sichern Schutz dem Sänger, welcher euch besingt, Zum Trunk des süssen Somasafts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даруйте безобманный щит  
 Восхваляющему (вас) вдохновенному, о два мужа,  

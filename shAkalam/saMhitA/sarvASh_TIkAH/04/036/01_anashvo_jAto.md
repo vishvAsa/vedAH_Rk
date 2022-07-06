@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनश्वो꣡ जातो꣡ अनभीशु꣡र् उक्थि꣡यो  
 र꣡थस् त्रिचक्रः꣡ प꣡रि वर्तते र꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द्या꣡म् ऋभवः पृथिवीं꣡ य꣡च् च पु꣡ष्यथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 म॒हत् । तत् । वः॒ । दे॒व्य॑स्य । प्र॒ऽवाच॑नम् । द्याम् । ऋ॒भ॒वः॒ । पृ॒थि॒वीम् । यत् । च॒ । पुष्य॑थ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anaśvo* ← *an*
 - \[adverb\]
@@ -142,36 +142,36 @@ genre M
 हे **ऋभवः** अश्विनोः संबन्धी युष्मद्दत्तः **रथः** **अनश्वो** **जातः** वाहनाश्वनिरपेक्षः संपन्नः । तथा **अनभीशुः** प्रग्रहरहितः **उक्थ्यः** स्तुत्यः **त्रिचक्रः** चक्रत्रययुक्तः सन् **रजः** अन्तरिक्षं **परि** **वर्तते** परिभ्रमति । **महत्** प्रभूतं **तत्** रथनिर्माणाख्यं कर्म **वः** युष्माकं **देव्यस्य** देवत्वस्य **प्रवाचनं** प्रवक्तृ प्रख्यापकम् । **यच्च** येन कर्मणा **द्यां** **पृथिवीं** च **पुष्यथ** पुष्टां कुरुथ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The glorious three-wheeled car (of the **Aśvins** made, **Ṛbhus** by you) traverses the firmament without horses, without reins; great was that proclamation of your divine (power), by which, Ṛbhus, you cherish heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Produced without horse and rein, the praiseworthy chariot with its three  wheels rolls through the airy space.  
 This is the great proclamation of your divinity: that you prosper heaven  and earth, o R̥bhus.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THia car that was not made for horses or for reins, three-wheeled, worthy of lauds, rolls round the firmament.  
      That is the great announcement of your Deity, that, O ye Rbhus, ye sustain the earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Roß entstanden, ohne Zügel, umkreist der preiswürdige Wagen mit drei Rädern den Raum. Das war die große Ankündigung eurer göttlichen Natur, daß ihr, o Ribhu´s, Himmel und Erde zur Blüte bringet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dreirädrig ist der hehre Wagen einst gebaut, der ohne Ross' und Zügel um den Himmel rollt, Das ist das hohe Zeugniss eurer Götterkraft, dass Erd' und Himmel ihr, o Ribhu's, blühend macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рожденная без коней, без поводьев, достойная хвалы  
 Трехколесная колесница объезжает пространство.  

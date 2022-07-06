@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ विश्वसामन् अत्रिव꣡द्  
 अ꣡र्चा पवाक꣡शोचिषे+  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 हो꣡ता मन्द्र꣡तमो विशि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । अ॒ध्व॒रेषु॑ । ईड्यः॑ । होता॑ । म॒न्द्रऽत॑मः । वि॒शि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -91,41 +91,41 @@ genre M
 हे **विश्वसामन्** । ऋषेः संबोधनमेतत् । त्वम् **अत्रिवत्** अत्रिरिव **पावकशोचिषे** शोधकदीप्तये तस्मा अग्नये **प्र** **अर्च** प्रगाय । **यः** अग्निः **अध्वरेष्वीड्यः** सर्वैर्यज्वभिः स्तुत्यः **होता** देवानामाह्वाता **विशि** जने **मन्द्रतमः** स्तुत्यतमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing, Viśvasāman, like **Atri**, (a hymn) to the dispenser of purifying light; (to him) who is to be praised at sacrifices, the invoker of the gods, the most adorable by man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Viśvasāman, like Atri chant forth to him of purifying flame,  
 who is to be invoked at the rites as the most delighting Hotar within  the clan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LIKE Atri, Visvasaman! sing to him of purifying light,  
      Who must be praised in holy rites, the Priest most welcome in the house.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Lo, Visvasâman! Like Atri sing to him who purifies with his flames, to the Hotri who should be magnified at the sacrifices, most delightful in the clan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stimme, o Visvasaman, wie Atri ein Preislied auf den Hellflammigen an, der als der wohlredendste Opferpriester im Clan bei den Opfern zu berufen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, Viçvasaman, preise laut nach Atri-Art den Flammenden, Der bei den Festen preisenswerth der liebste Priester ist im Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Исполни, о Вишвасаман, подобно Атри,  
 (Гимн) для (бога) с чистым пламенем,  

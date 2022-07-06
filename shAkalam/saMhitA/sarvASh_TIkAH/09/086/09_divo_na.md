@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ न꣡ सा꣡नु स्तन꣡यन्न् अचिक्रदद्  
 दियउ꣡श् च य꣡स्य पृथिवी꣡ च ध꣡र्मभिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सो꣡मः पुनानः꣡ कल꣡शेषु सीदति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 इन्द्र॑स्य । स॒ख्यम् । प॒व॒ते॒ । वि॒ऽवेवि॑दत् । सोमः॑ । पु॒ना॒नः । क॒लशे॑षु । सी॒द॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -118,20 +118,20 @@ genre M;; repeated line
 **दिवो** **न** **सानु** **स्तनयन्** द्युलोकस्य समुच्छ्रितं स्थानं शब्दयन्निव **अचिक्रदत्** क्रन्दते **यस्य** सोमस्य **धर्मभिः** धारणैः **द्यौश्च** **पृथिवी** **च** धृते स्याताम् । वृष्टिप्रदानद्वारौषध्याद्युत्पादनेन देवानां हविर्भावेन चोभयधारकत्वं प्रसिद्धम् । तादृशः **सोमः** महानुभावः सोमः **पुनानः** पूयमानः **इन्द्रस्य** **सख्यं** **विवेविदत्** **पवते** पूयते पवित्रे । सः पुनानः सोमः **कलशेषु** **सीदति** निवसति
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thundering like the summit of the sky (the **Soma**) roars, by whose support both heaven and earth, (are upheld); the Soma flows acquiring **Indra**'s friendship, purified he alights upon the pitchers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thundering like the back of heaven he has roared, he according to  whose ordinances both heaven and earth (abide).  
 He purifies himself, always finding the fellowship of Indra. Soma, while  being purified, sits in the tubs.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rel. cl. of b lacks a verb. I think that whatever is supplied must be able to be construed with dhármabhiḥ “according to (his) ordinances.” My ‘abide’ is a slight elaboration on Geldner’s ‘sind’: “durch dessen Bestimmungen Himmel und Erde sind,” which I think is fundamentally correct. This is another hyperbolic statement of Soma’s cosmic power. Renou’s “lui à qui (appartiennent) le ciel et la terre avec les choses-à-maintenir” separates yásya from dhármabhiḥ and finds little work for the instr. pl. to do. The two instances of dhármabhiḥ (here and 5c) should be more or less in harmony.
 
@@ -145,23 +145,23 @@ The beginning and end of this tṛca echo the preceding one: ketúḥ in 7a pick
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He on whose high decree the heavens and earth depend nath roared and thundered like the summit of the sky.  
      Soma flows on obtaining Indra's friendly love, and, as they purify him, settles in the jars.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Donnernd wie des Himmels Rücken hat er sein Gebrüll erhoben, durch dessen Bestimmungen Himmel und Erde sind. Er läutert sich, der Indra´s Freundschaft genau kennt; sich läuternd setzt sich Soma in den Krügen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt brüllte donnernd wie des Himmels Gipfel er, in dessen Ordnung Himmel sich und Erde fügt; Des Indra Freundschaft sich gewinnend rieselt er, gereinigt setzet Soma in die Kufen sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡या नो अग्ने वि꣡ वसः सुवृक्तिं꣡  
 का꣡म् उ स्वधा꣡म् ऋणवः शस्य꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रायो꣡ वन्ता꣡रो दुष्ट꣡रस्य साधोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 क॒दा । भ॒वे॒म॒ । पत॑यः । सु॒ऽद॒त्र॒ । रा॒यः । व॒न्तारः॑ । दु॒स्तर॑स्य । सा॒धोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
@@ -130,36 +130,36 @@ genre M
 हे **अग्ने** त्वं **कया** स्वधया हविषा **नः** अस्माकं **सुवृक्तिं** स्तुतिं **वि** **वसः** व्याप्नुषे आच्छादयसि वा । **कामु** कां च **स्वधां** **शस्यमानः** स्तूयमानस्त्वम् **ऋणवः** प्राप्नुयाः । हे **सुदत्र** शोभनदानाग्ने । तथा च यास्कः-- सुदत्रः कल्याणदानः ' (निरु. ६.१४ ) इति । वयं **कदा** **दुष्टरस्य** शत्रुभिर्दुर्हिंसकस्य **साधोः** समीचीनस्य **रायः** धनस्य **पतयः** स्वामिनः **भवेम** । **वन्तारः** संभक्तारश्च कदा भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By what oblation, **Agni**, do you clothe our praise? What offering do you, when glorified, accept? When,giver of good, may we be the possessors and enjoyers of perfect and unmolested riches?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In what way, Agni, will you shine our intricate hymn afar, and what  self-resolve will you put into action when you are proclaimed?  
 When would we become lords and winners of hard-gained wealth that  brings success, o very generous one?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How dost thou decorate our hymn, O Agni? What power dost thou exert when thou art lauded?  
      When, Bounteous God, may we be lords of riches, winners of precious wealth which none may conquer?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vermöge welcher besonderen Eigenschaft wirst du, Agni, das Loblied erleuchten, und welche besondere Eigenschaft wirst du wecken, wenn du gepriesen wirst? Wann werden wir, du Gabenschöner, Besitzer von Reichtum, Gewinner unübertroffenen frommenden Reichtums sein?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie schmückest du, o Agni, unser Lied aus? welch eigne Lust erregst du uns, besungner? Wann werden wir Besitzer sein, o güt'ger, Empfänger schönen, unbestrittnen Reichthums?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По какому (побуждению), о Агни, ты осветишь наш гимн  
 И какое побуждение вызовешь, когда тебя восхваляют?  

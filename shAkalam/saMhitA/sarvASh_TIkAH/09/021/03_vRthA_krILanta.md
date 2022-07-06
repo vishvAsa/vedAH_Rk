@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡था क्री꣡ळन्त इ꣡न्दवः  
 सध꣡स्थम् अभि꣡ ए꣡कम् इ꣡त्  
 सि꣡न्धोर् ऊर्मा꣡ वि꣡ अक्षरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सिन्धोः॑ । ऊ॒र्मा । वि । अ॒क्ष॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛthā*
 - \[adverb\]
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वृथा** अनायासेन **क्रीळन्तः** **इन्दवः** सोमाः **एकमित्** एकमेव **सधस्थं** सहस्थानं द्रोणकलशं वा **अभि** अक्षरन्निति शेषः । **सिन्धोरूर्मा** वसतीवरीषु **व्यक्षरन्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,29 +97,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 I.e. the vasatīvarī water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Moving playfully at will toward one and the same seat,  
 the drops have flowed in various ways into the swell of the river.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lightly disporting them, the drops flow to one common reservoir,  
      And fall into the river's wave.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgelassen spielend sind die Säfte auf des Stromes Woge nach ein und demselben Behälter abgeflossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Tropfen springend voller Lust, zur einen Stätte rannen sie Hin mit des Stromes Wogendrang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Играя в свое удовольствие, капли  
 Потекли на волне реки  

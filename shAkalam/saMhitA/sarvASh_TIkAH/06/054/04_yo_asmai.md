@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अस्मै हवि꣡षा꣡विधन्  
 न꣡ त꣡म् पूषा꣡पि मृष्यते  
 प्रथमो꣡ विन्दते व꣡सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र॒थ॒मः । वि॒न्द॒ते॒ । वसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -91,36 +91,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** यजमानः **अस्मै** पूष्णे **हविषा** चरुपुरोडाशादिना **अविधत्** परिचरति **तं** यजमानं **पूषा** **न** **अपि** **मृष्यते** । अपिशब्द ईषदर्थे । ईषदपि न हिनस्ति । स च **प्रथमः** मुख्यः सन् **वसु** धनं **विन्दते** लभते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Pūṣan** inflicts not the least injury on the man who propitiates him by oblations; he is the first who acquires wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever has done honor to him with an oblation, him Pūṣan does not  neglect.  
 He is the first to acquire goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pusan forgetteth not the man who serveth him with offered gift:  
      That man is first to gather wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer ihm mit Opfer gedient hat, den vergißt Pusan nicht, der findet zuerst das Gut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer ihm mit Opfer huldiget, den lässt auch Puschan nicht im Stich, Zuerst erlanget Güter der.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто почтил его жертвенным возлиянием,  
 Того Пушан не забывает:  

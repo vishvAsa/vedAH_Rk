@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वां र꣡जांसि अश्विना  
 र꣡थो विया꣡ति रो꣡दसी  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -91,36 +91,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **वां** युवयोः **यः** **रथः** अस्ति स रथः **रजांसि** लोकान् **रोदसी** द्यावापृथिव्यौ च **वियाति** विशेषेण गच्छति । अतस्तेन रथेन शीघ्रमागच्छतमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your chariot, **Aśvins**, moves swifty through the worlds, through heaven and earth; let your protectionabide near me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your chariot that drives through the airy realms, through the two  world-halves, o Aśvins—  
 – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is your chariot, Asvins, which speeds through the regions, earth and heaven  
      Let your protecting aid be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren Wagen, der durch die Räume, durch beide Welten fährt, ihr Asvin, - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eur Wagen nah, o Ritter, sich, der Himmel, Erd' und Luft durchdringt; Es sei uns eure Hülfe nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Та ваша колесница, о Ашвины,  
 Что проезжает через пространства, через две половины вселенной –  

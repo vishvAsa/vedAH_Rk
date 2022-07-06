@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शशमान꣡स्य वा नरः  
 स्वे꣡दस्य सत्यशवसः  
 विदा꣡ का꣡मस्य वे꣡नतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 वि॒द । काम॑स्य । वेन॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaśamānasya* ← *śam*
 - \[verb noun\], genitive, singular
@@ -78,43 +78,43 @@ genre M
 हे **सत्यशवसः** अवितथबलाः **नरः** नेतारो मरुतः **शशमानस्य** युष्मान् स्तुतिभिः संभजमानस्य **स्वेदस्य** स्तावकमन्त्रोच्चारणजनितेन श्रमेण स्विद्यमानगात्रस्य **वेनतः** । वेनतिः कान्तिकर्मा । कामयमानस्य । वाशब्दः समुच्चये। एवंभूतस्य स्तोतुश्च **कामस्य** काममभिलाषं **विद** लम्भयत प्रयच्छतेत्यर्थः ॥ शशमानस्य । ‘शश प्लुतगतौ । ताच्छीलिकः चानश् । स्वेदस्य ।  ‘ ञिष्विदा गात्रप्रक्षरणे । अन्तर्भावितण्यर्थात् कर्मणि घञ् । ञित्त्वादाद्युदात्तत्वम् । विद्लृ लाभे'। लोटि मध्यमपुरुषबहुवचनस्य व्यत्ययेन झादेशः ।  ‘ बहुलं छन्दसि' इति विकरणस्य लुक् । झस्य अदादेशः ।  ‘ लोपस्त आत्मनेपदेषु' इति तलोपः । प्रत्ययाद्युदात्तत्वम् । पादादित्वात् निघाताभावः ।  ‘ द्व्यचोऽतस्तिङः' इति संहितायां दीर्घः । कामस्य । वृषादिषु पाठादाद्युदात्तत्वम् ।  ‘ क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वात् चतुर्थ्यर्थे षष्ठी ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Possessors of true vigour, be cognizant of the wishes of him who praises you, and toils in your service, desirous of (your favour).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You superior men whose strength is real, you know the sweat of the one  laboring to exhaustion,  
 or the desire of the one who seeks the (ritual) track.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the vā here as inverse, connecting the two double gen. phrases śaśamānásya … svédasya and kā́masya vénataḥ, though it appears after the first word of the first gen. phrase (śaśamānásya vā … svédasya …). Klein (DGRV II: 205) also thinks an inverse reading is possible (though he doesn’t use the term), but he also suggests vā here might be equivalent to vaí. This seems unnecessary, and the inverse interpretation gets some support from the inversion of the syntax in vs. 7.
 
 Note the chiastic structure of the two genitive phrases: in the first the personal participle śaśamānásya depends on the material svédasya, while the likewise personal participle vénataḥ depends on kā́masya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Heroes truly strong, ye know the toil of him who sings your praise,  
      The heart's desire of him who loves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr kennt ja wohl, ihr Männer von wahrhafter Stärke, den Schweiß des Diensteifrigen, den Wunsch des nach euch Ausschauenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr, wahrhaft kräftige, gewahrt den Schweiss des emsig opfernden, Den Wunsch dess, der euch Männer liebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О мужи, чья сила истинна,  
 Вы же знаете пот усердно трудящегося (при обряде),  

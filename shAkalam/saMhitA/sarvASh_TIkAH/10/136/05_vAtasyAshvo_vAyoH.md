@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡तस्या꣡श्वो वायोः꣡ स꣡खा  
 अ꣡थो देवे꣡षितो मु꣡निः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡श् च पू꣡र्व उता꣡परः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 उ॒भौ । स॒मु॒द्रौ । आ । क्षे॒ति॒ । यः । च॒ । पूर्वः॑ । उ॒त । अप॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vātasyāśvo* ← *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
@@ -116,36 +116,36 @@ popular;; epic anuṣṭubh (380)
 **वातस्य** वायोर्गतिरिव **अश्वः** व्याप्तः । यद्वा । वायोः अशिता भोक्ता। वायुरेव तस्याहार इत्यर्थः । अत एव **वायोः** सखा मित्रभूतः **अथो** अपि च देवेषितः देवेन द्योतमानेन वायुना सूर्येण वा इषितः प्राप्तः। तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । इदृशो **मुनिः** करिक्रताख्य ऋषिरुक्तप्रकारेण वायुरूपः सूर्यरूपो वा सन् **उभौ** समुद्रौ उदधी **आ** **क्षेति** अभिगच्छति । ‘क्षि निवासगत्योः' । छन्दसो विकरणस्य लुक् । कौ तौ समुद्रौ। **यश्च** **पूर्वः** समुद्रः । उतशब्दश्चार्थे । यश्च **अपरः** समुद्रः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The steed of the wind, the friend of **Vāyu**, the **Muni**, who is instrumental gated by the deity, repairs to bothoceans, the eastern and the western.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The horse of the wind, the comrade of Vāyu—so sped by (that) god, the  ascetic  
 presides over both seas, the eastern and the western.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Steed of Vata, Vayu's friend, the Muni, by the Gods impelled,  
      In both the oceans hath his home, in eastern and in western sea.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Vata, des Sturmes Roß, des Vayu, des Windes Freund und von den Göttern getrieben ist der Verzückte. Er wohnt an beiden Meeren, am östlichen und am westlichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Windes Ross, des Vāju Genosse ist dann der gottbegeisterte Büsser; beide Meere bewohnt er, das östliche und das westliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Конь Ваты, друг Ваю,  
 Вот аскет, подстегнутый богами.  

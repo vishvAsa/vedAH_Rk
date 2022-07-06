@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡भिर् आ꣡ गछतं नरा  
 उ꣡पेदं꣡ स꣡वनं सुत꣡म्  
 इ꣡न्द्राग्नी सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इन्द्रा॑ग्नी॒ इति॑ । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
@@ -95,21 +95,21 @@ genre M
 हे **नरा** नेतारौ **इन्द्राग्नी** । सूयतेऽभिषूयत इति सवनः सोमः । **इदं** **सवनम्** इमं सोमं **सुतम्** अभिषुतम् **उप** प्रति । यद्वा । इदं प्रातःसवनमुप अस्मिन् सवने सुतमभिषुतं सोमं प्रति **ताभिः** नियुद्भिः **आ** **गच्छतम्** । किमर्थम् । **सोमपीतये** तस्य सोमस्य पानार्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come with them, leaders (of rites),”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With those come here, you superior men, up to this pressing  
 pressed here,  
 o Indra and Agni, for soma-drinking.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -119,23 +119,23 @@ o Indra and Agni, for soma-drinking.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With those to this libation poured, ye Heroes, Indra-Agni, come:  
      Come ye to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen kommet, ihr Herren, zu diesem ausgepreßten Trankopfer, Indra und Agni, um Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit denen, Indra-Agni, kommt zu diesem ausgepressten Saft, O Männer, her zum Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте на них, о два мужа,  
 На это жертвоприношение выжатого (сока),  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ रुद्रे꣡भिर् अ꣡शस्तवार ऋ꣡भ्वा  
 हित्वी꣡ ग꣡यम् आरे꣡अवद्य आ꣡गात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡न्नम् अभी꣡त्यारोदयन् मुषाय꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒म्रस्य॑ । म॒न्ये॒ । मि॒थु॒ना । विव॑व्री॒ इति॒ विऽव॑व्री । अन्न॑म् । अ॒भि॒ऽइत्य॑ । अ॒रो॒द॒य॒त् । मु॒षा॒यन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -117,14 +117,14 @@ genre M
 **सः** इन्द्रः **रुद्रेभिः** रुद्रपुत्रैर्मरुद्भिः सहितः **आगात्** आगच्छतु । कीदृशः । **अशस्तवारः** स्तोतृभिरप्रार्थितधनः । स्वयमेव प्रदातेत्यर्थः । तथा **ऋभ्वा** महान् **गयं** **हित्वी** हित्वा स्वस्थानं परित्यज्यागात् आगच्छतु । तत्र संबन्धः। **आरेअवद्यः** दूरगतगर्ह्यः । किंच **वम्रस्य** एतन्नामकस्य ऋषेर्मम **मिथुना** मिथुनौ मातापितरौ **विवव्री** विगतज्वरौ **मन्ये** अवगच्छामि । अयं वम्रः **अन्नं** शत्रुसंबन्धि **अभीत्य** अभिप्राप्य **मुषायन्** मुष्णन् **अरोदयत्** रोदयति । 'छन्दसि शायजपि ' इत्यहावपि मुषेः श्नः शायजादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May he, our unsolicited benefactor, the mighty one, from whom blame is far removed, come with theRudras, having quit his dwelling. I think of the two (parents) of Vamra, who are free from fever. Having obtained(the enemy's) food, he called aloud while stealing it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Together with the Rudras, the Craftsman, whose wish is unpraiseworthy  but who keeps disrepute at a distance, has come here, abandoning  
 his house.  
@@ -133,23 +133,23 @@ and (someone), approaching and stealing their food, made
 (them) weep.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bold, unsolicited for wealth, with Rudras he came, the Blameless, having left his dwelling,  
      Came, seized the food of Vamra and his consort, and left the couple weeping and unsheltered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den Rudrasöhnen ist der Meister gekommen, sein Haus verlassend, mit unerlaubten Wünschen und doch frei von Makel. Ich habe das entblößte Paar des Vamra im Sinn. Auf Speise ausgehend, hat er raubend zum Weinen gebracht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der unaussprechliche Schätze besitzt, der tüchtige, der fern ist von jedem Tadel, kam, nachdem er seinen Wohnsitz verlassen, mit den Rudra's herbei, und nachdem er, wie ich meine, der Ameise [hier Bezeichnung des Dämons, der in seiner Höhle die Nahrung versteckt hält] gepaarte Höhlenzugänge angegriffen hatte, versetzte er den Dämon in Trauer, seine Nahrung raubend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он, чьи богатства несказанны, умелый,  
 Безупречный, пришел с Рудрами, оставив (свой) дом.  

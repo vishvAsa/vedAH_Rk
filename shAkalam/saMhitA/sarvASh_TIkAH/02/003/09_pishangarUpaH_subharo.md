@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पिश꣡ङ्गरूपः सुभ꣡रो वयोधाः꣡  
 श्रुष्टी꣡ वीरो꣡ जायते देव꣡कामः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था देवा꣡नाम् अ꣡पि एतु पा꣡थः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽजाम् । त्वष्टा॑ । वि । स्य॒तु॒ । नाभि॑म् । अ॒स्मे इति॑ । अथ॑ । दे॒वाना॑म् । अपि॑ । ए॒तु॒ । पाथः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *piśaṅgarūpaḥ* ← *piśaṅga*
 - \[noun\]
@@ -131,21 +131,21 @@ genre M
 पिशङ्गरूपः सुवर्णवर्णः नानारूपोवासुभरः शोभनयज्ञः शोभनभरणोवा वयोधावयसोन्नस्य धारयितादातावा श्रुष्टीक्षिप्रगुणः वीरोविविधमीरयिता देवकामः देवाः काम्यन्तेयेनतादृशः पुत्रो- जायते जयतामुत्पाद्यतान्त्वष्टुरनुग्रहात् सचत्वष्टाएतन्नामकोदेवोस्मेस्मभ्यन्नाभिङ्कुलस्यबन्धिकाम्प्रजां पुत्रादिरूपांविष्यतु विमुञ्चतु वितरत्वित्यर्थः अथअपिचदेवानांसम्बन्धिपाथोन्नमप्यस्मानेतु गच्छतु अपिःक्रिययावासम्बध्यते गच्छत्वित्यर्थः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May a tawny-hued, well-grown (son), the bestower of food, active, manly, a worshipper of the gods, be born; may **Tvaṣṭā** prolong for us a continuous (line of) progeny, and may the food of the gods come also to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of tawny form, of good support [/easy to bear], conferring vigor, a  hero desirous of the gods is born because of (Tvastar’s?/the gods’?)  
 attentive listening—  
 let Tvaṣṭar unbind (our) navel and release the offspring to us. Then let  (the sacrificial victim) go into the pen of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 subhára- here is used in a different sense (or senses) from the same word in 4b, where it referred to the good burden, that is, the seated gods, that the barhis was bearing. Here I think there is a pun: the hero is ‘easy to bear’, that is, his birth, depicted in pāda b, was easy. But the hero so born provides good support to those who depend on him.
 
@@ -154,28 +154,28 @@ With Renou, I tr. ví ṣyatu in two slightly different senses with two differen
 The Tvaṣṭar verse in Āprī hymns generally directly concerns only his participation in the birth process (see I.142.10, III.4.9=VII.2.9, X.110.9, X.142.10; our pādas abc). Releasing the sacrificial animal and escorting it to (the fold/pen of) the gods is properly the province of the post (“Lord of the Forest,” vánaspátiḥ, 10a), and that expression (“go to [the fold of] the gods”) is a euphemism for the animal’s death. However, note X.70.9-10, where both Tvaṣṭar and the Lord of the Forest convey the animal to the fold of the gods (devā́nām pā́thaḥ). Like X.70.9 our pāda d implies that the journey of the sacrifical animal (that is, its death) occurs under the auspices of Tvaṣṭar, and in fact, given the apparent temporal/logical connector áthā beginning pāda d, the implication is that the offspring born in abc is to undertake this journey. This seems rather muddled: our new (human) offspring is not the sacrificial animal. I think the roles of Tvaṣṭar and the Lord of the Forest were quite distinct, but conflations like this could occur because the Tvaṣṭar and Vanaspati vss. are always adjacent in Āprī hymns and because the vocabulary is similar: Tvaṣṭar’s ví √sā ‘unbind/release’ and Vanaspati’s áva √sṛj ‘release/discharge’. The fact that the victim is usually not overly expressed (presumably a euphemistic avoidance) makes confusion all the more likely.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born is the pious hero swift of hearing, like gold in hue, well formed, and full of vigour.  
      May Tvastar lengthen our line and kindred, and may they reach the place which Gods inhabit.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Through (the god's) hearing (our prayer) a manly son is born (to us), tawny-coloured, rich in gain, bringing vigour, loving the gods. May Tvashtri deliver for us a son, the navel (i. e. the tie that binds generations together), and may he then go to the abode of the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein bräunlicher Sohn, der nicht zur Last fällt, ein Stärkebringer, wird pünktlich geboren, ein götterliebender. Tvastri soll uns den Nabel von Nachkommenschaft entbinden. Nunmehr soll es in die Obhut der Götter übergehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von Farbe braun, gedrungen, Leben spendend ersteht sogleich der Held die Götter liebend, Tvaschtar beglück' uns Kinder und Verwandtschaft, und dann gelang' er zu der Götter Wohnsitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Коричневатый, которого легко носить, наделяющий жизненной силой, –  
 Во исполнение (наших молитв) рождается сын, любящий богов.  

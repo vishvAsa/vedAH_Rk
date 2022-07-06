@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति अग्नि꣡र् उष꣡सो जात꣡वेदा  
 अ꣡ख्यद् देवो꣡ रो꣡चमाना म꣡होभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इमं꣡ यज्ञ꣡म् उ꣡प नो यातम् अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । ना॒स॒त्या॒ । उ॒रु॒ऽगा॒या । रथे॑न । इ॒मम् । य॒ज्ञम् । उप॑ । नः॒ । या॒त॒म् । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *praty* ← *prati*
 - \[adverb\]
@@ -120,48 +120,48 @@ genre M
 **देवः** द्योतमानः **जातवेदाः** जातधनः **अग्निः** **महोभिः** तेजोभिः **रोचमानाः** दीप्यमानाः **उषसः** **प्रति** उषसो लक्षीकृत्य **अख्यत्** प्रवृद्धो भवति । **उरुगाया** प्रभूतगमनौ हे नासत्या अश्विनौ **रथेन** **नः** अस्मदीयम् **इमं** **यज्ञम्** **अच्छ** अभिमुखम् **उप** **यातम्** उपगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The resplendent **Agni**, by whom all is known, has manifested (his might) in regard to the dawns radiant with lustre; far-going **Nāsatyas**, come with your car to this our sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 God Agni, Jātavedas, has looked toward the Dawns, shining with all  their might.  
 Here, o Nāsatyas [=Aśvins], wide-ranging with your chariot, drive up to  this sacrifice of ours.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening of the verse, práty agnír uṣásaḥ, matches that of 13.1 práty agnír uṣásām, though the difference in case of the dawn words signals that the verses will veer in slightly different directions. Both also share the verb akhyat, but in 13.1 it ends the first pāda, while in 14.1 it opens the 2nd pāda (accented ákhyat).
 
 The 2nd half vss. of the two hymns deviate more, though both concern the Aśvins and contain the verb yātam (accented yātám in 13.1c). Sūrya (13.2d) is absent from 14.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE God hath looked, even Agni Jatavedas, to meet the Dawns refulgent in their glories.  
      Come on your chariot, ye who travel widely, come to this sacrifice of ours, Nasatyas.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni Gâtavedas, the god, has looked on the dawns that shine with all their might 1. Come hither, O Nâsatyas 2, wide-ruling (gods), on your chariot to this our sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni Jatavedas hat die Morgenröten erwartet, der Gott die in ganzer Herrlichkeit erglänzenden. Kommet, ihr Nasatya´s, zu Wagen weite Strecken zurücklegend zu diesem Opfer zu uns her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Morgenröthen sah der Wesenkenner, Gott Agni, die mit hellem Glanze strahlten; Ihr treuen Ritter, kommt zu diesem Opfer auf breiter Bahn zu uns auf eurem Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни заметил утренние зори,  
 (Он,) Джатаведас, бог – (их,) мощно сверкающих.  

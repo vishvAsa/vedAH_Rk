@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यम् प꣡यो य꣡त् पित꣡राव् अ꣡नीतां  
 रा꣡धः सुरे꣡तस् तुर꣡णे भुरण्यू꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सबर्दु꣡घायाः प꣡य उस्रि꣡यायाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 शुचि॑ । यत् । ते॒ । रेक्णः॑ । अय॑जन्त । स॒बः॒ऽदुघा॑याः । पयः॑ । उ॒स्रिया॑याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -113,7 +113,7 @@ genre M
 शुद्धं **सबर्दुघायाः** क्षीरस्य दोग्ध्र्याः **उस्रियायाः** गोः **पयः** **रेक्णः** । धननामैतत् । धनवदतिप्रियम् । यद्वा । अतिरिक्तं प्रवृद्धम् । एवंविधं हविः तुभ्यम् **आयजन्त** आभिमुख्येन यजमानाः प्रायच्छन् । तदानीं द्रुहो मानुषस्य द्वाराण्यपवृणोतीति पूर्वया संबन्धः ॥ अनीताम् ।  ‘ णीञ् प्रापणे '। लङि  ‘ बहुलं छन्दसि ' इति शपो लुक् । सुरेतः ।  ‘ सोर्मनसी अलोमोषसी' इत्युत्तरपदाद्युदात्तत्वम् । तुरणे । “ तुरण त्वरायाम् ' । कण्ड्वादिः ।  ‘ क्विप् च' इति क्विप् । अतोलोपयलोपौ । भुरण्यू ।' भुरण धारणपोषणयोः । अयमपि कण्ड्वादिः । औणादिक उप्रत्ययः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,34 +124,34 @@ genre M
 The cow: i.e. the clarified butter of the oblations, from which the nutriment of all things proceeds, for the oblation ascends to the sun, by whom rain is engendered, from which springs corn, the support of living beings; when this has beendone, **Indra** opens the doors of the cave, and rescues the cattle, as described in the preceding verse, with which this is connected
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you is this milk, consisting of good semen, which your two bustling  parents brought as a bounty, (for you) to become surpassing—  
 your blazing legacy, which they gained through sacrifice, the milk of the  ruddy one who gives sap as milk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Under this elaborate disguise, the verse is simply about soma and Indra’s possession of it. The parents are, acdg. to most, Heaven and Earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine is that milk which thy swift-moving Parents brought down, a strengthening genial gift for conquest;  
      When the pure treasure unto thee they offered, the milk shed from the cow who streameth nectar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich war die Milch, die beide Eltern eilig brachten, die Gabe aus gutem Samen dir zum Sieg, der reine Trank, den sie dir als dein Eigentum zum Opfer brachten, die Milch der immermelken Kuh.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als dir die Aeltern [Himmel und Erde] die Milch darreichten als segensreiche Gabe, die geschäftigen, eilenden, und als dir die Opferer die Milch der Nektar strömenden Kuh als glänzendes Erbtheil brachten,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это для тебя молоко, что принесли родители,  
 Деятельные, быстрые – дар из чистого семени,  

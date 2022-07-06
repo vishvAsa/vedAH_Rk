@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡सू रुद्रा꣡ पुरुम꣡न्तू वृध꣡न्ता  
 दशस्य꣡तं नो वृषणाव् अभि꣡ष्टौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ य꣡त् सस्रा꣡थे अ꣡कवाभिर् ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दस्रा॑ । ह॒ । यत् । रेक्णः॑ । औ॒च॒थ्यः । वा॒म् । प्र । यत् । स॒स्राथे॒ इति॑ । अक॑वाभिः । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vasū* ← *vasu*
 - \[noun\], nominative, dual, masculine
@@ -120,7 +120,7 @@ genre M
 हे **वृषणौ** कामानां वर्षितारौ **दस्रा** अस्मद्विरोध्युपक्षपयितारौ हे अश्विनौ युवां **नः** अस्मभ्यं **दशस्यतं** दत्तं दित्सितं फलम् । कीदृशौ युवाम् । **वसू** वासयितारौ प्रजानाम् । वसुना धनेन तद्वन्तौ वा ॥ मत्वर्थो लुप्यते ॥ **रुद्रा** रुद्रौ । रुद्दुःखं तद्धेतुभूतं पापं वा । तस्य द्रावयितारौ । संग्रामे भयंकरं शब्दयन्तौ वा । रुद्रो रौतीति सतः ' (निरु. १०. ५) इति यास्कः । **पुरुमन्तू** बहूनां ज्ञातारौ ॥ मनेरौणादिकः तुन्प्रत्ययः ॥ **वृधन्ता** वर्धमानौ स्तोत्रादिना **अभिष्टौ** आभिमुख्येन पूजितौ अभीष्टसाधकौ वा । हशब्दः उक्तगुणप्रसिद्धिद्योतनार्थः । किमर्थं दीयते इति चेत् । **यत्** यस्मात् **औचथ्यः** उचथ्यस्य पुत्रो दीर्घतमाः **वां** युवां **रेक्णः** धनं स्तुतिव्याजेन प्रार्थयते तदर्थम् । यद्वा । अयं यजमानो यद्यस्मात् रेक्णो हविर्लक्षणमन्नं वां युवाभ्यां दास्यति ददातीति शेषः । यस्माच्च **अकवाभिः** अकुत्सितैः **ऊती** ऊतिभिः रक्षणैः ॥  ‘ सुपां सुलुक्° ' इति तृतीयायाः पूर्वसवर्णदीर्घः ॥ **प्र** **सस्राथे** प्रसारयथः प्रकर्षेण दत्थः तस्माद्दशस्यतम् । यस्मादभिमतप्रदौ यस्माच्चायं प्रार्थयते ददाति वा हविः तस्माद्दशस्यतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,7 +131,7 @@ genre M
 Granter of dwellings: **vasus**-vāsayitārau prajānām, causers of the habitations ofmanking; or, possessorsof **vasu**, wealth; dispellers of sin: the text has **rudras** (rudro rautīti **sataḥ**-- **Nirukta** 10.5): from rut, pain or its cause, sin; and dru, what drives away; or, from rut, to sound, a reference perhaps to those who shout in battle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two Vasus, Rudras, who give many counsels, strengthening (our  praise) in preeminence—favor us, o bulls,  
 since the son of Ucathya [=Dīrghatamas] is the legacy (left) for  
@@ -139,23 +139,23 @@ you, wondrous ones, since you two have run forth (to him) with
 unstinting help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YE Vasus Twain, ye Rudras full of counsel, grant us, Strong Strengtheners, when ye stand beside us,  
      What wealth Aucathya craves of you, great Helpers when ye come forward with no niggard succour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gut sind die beiden Rudra´s, vielsorgend, an Stärke zunehmend. Erweist uns hilfsbereit eure Gunst, ihr Bullen, da ja der Sohn des Ucathya euch, ihr Meister, seine Habe spenden will, wenn ihr mit euren vollkommenen Hilfen zum Vorschein gekommen seid.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr einsichtsvollen, glänzenden, ihr guten, ihr starken Helden, seid uns hold zum Beistand; Wenn euch Utschathja's Sohn um Reichthum bittet, wenn, hehre, ihr mit reichen Hülfen strömet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два добрых Рудры, многомудрых, возрастающих в силе. . .  
 О два быка, одарите нас в (своем) благоволении,  

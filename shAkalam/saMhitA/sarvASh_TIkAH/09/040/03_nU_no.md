@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ नो रयि꣡म् महा꣡म् इन्दो  
 अस्म꣡भ्यं सोम विश्व꣡तः  
 आ꣡ पवस्व सहस्रि꣡णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । प॒व॒स्व॒ । स॒ह॒स्रिण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -84,41 +84,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** अभिषुतस्त्वं हे **इन्दो** **नः** **अस्मभ्यं** **नु** क्षिप्रं **महां** महान्तं **सहस्रिणम्** असंख्यातं **रयिं** धनं **विश्वतः** **आ** **पवस्व** सर्वतः परिस्रव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Indu**, O **Soma**, quickly pour upon us from all quarters vast and infinite riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now for us, o drop, for us all all around, o Soma, attract great wealth in thousands, in purifying yourself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The expression asmábhyam … víśvataḥ “for us all around” in b I take as a heavy specification of enclitic naḥ in Wackernagel’s position in pāda a. Most take víśvataḥ as qualifying “wealth.” The fact that this pāda (asmábhyaṃ soma víśvataḥ) appears 3x (also IX.33.6, 65.21) suggests that víśvataḥ goes with ‘us’; on the other hand, that all three occurrences involve the acquisition of wealth or other good things somewhat undercuts that argument.
 
 On mahā́m see AiG III.251.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, Soma, send us now great opulence from every side, Pour on us treasures thousandfold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun läutere uns, o Somasaft, großen Reichtum von allen Seiten zu, tausendfachen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun riesle grossen Schatz herbei von allen Seiten, Indu, uns, O Soma, tausendfaches Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

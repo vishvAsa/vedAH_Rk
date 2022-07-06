@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युजे꣡ वाम् ब्र꣡ह्म पूर्वियं꣡ न꣡मोभिर्  
 वि꣡ श्लो꣡क एतु पथि꣡येव सूरेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ ये꣡ धा꣡मानि दिविया꣡नि तस्थुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 शृ॒ण्वन्तु॑ । विश्वे॑ । अ॒मृत॑स्य । पु॒त्राः । आ । ये । धामा॑नि । दि॒व्यानि॑ । त॒स्थुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuje* ← *yuj*
 - \[verb\], singular, Present indikative
@@ -132,7 +132,7 @@ popular
 हे हविर्धानशकटे **वां** युवामहं **पूर्व्यं** पूर्वस्मिन् काले भवम् । अनादिकालप्रवृत्तमित्यर्थः । एवंभूतं **ब्रह्म** मन्त्रम् । उच्चार्येति शेषः । **नमोभिः** सोमादिहविर्लक्षणैरन्नैः **युजे** युनज्मि । युवयोरुपरि सोमादिकमारोप्य पत्नीशालातो हविर्धानं प्रति युवां नयामीत्यर्थः । एवंभूतयोर्युवयोः **श्लोकः** शब्दः **वि** **एतु** विश्वान् देवान् प्रति विविधं गच्छतु । तत्र दृष्टान्तः । **पथ्येव** **सूरेः** । यथा स्तोतुः स्वभूता पथ्या परिणामसुखावहा आहुतिः विश्वान् देवान् प्रति विविधं गच्छति तद्वत् । **अमृतस्य** अमरणधर्मणः प्रजापतेः **पुत्राः** **विश्वे** देवाः एवंभूतं शब्दं **शृण्वन्तु** **ये** देवाः **दिव्यानि** दिवि भवानि **धामानि** स्थानानि **आ** **तस्थुः** अधिष्ठितवन्तः । ते शृण्वन्त्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ popular
 One interpretation (**Yajus**. 10.5) apply the ṛca to the sacrificer and his wife,for you two I instrumental tute the ancient rite with sacrificial offerings; the path of the worshipper: **pathya** =pariṇāmasukhāvahā **āhutiḥ**, the oblation which brings happiness as its result
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I yoke for you two with reverence the age-old sacred formulation. Let the  signal-call of the patron go forth afar like a pathway.  
 Let all the sons of the immortal one [=gods] listen (to it)—those who  inhabit the heavenly domains.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I YOKE with prayer your ancient inspiration: may the laud rise as on the prince's pathway.  
      All Sons of Immortality shall hear it, all the possessors of celestial natures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich schirre für euch beide unter Verneigungen das allererste Segenswort an. Der Ruf des Opferveranstalters soll wie eine Straße in die Weite gehen. Alle Söhne der Unsterblichkeit sollen zuhören, die himmlische Leibesform angenommen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich schirre euch beiden [dem Himmel und der Erde] ein altes Gebet in Demuth an; der Preisgesang schreite durch wie der Weg des Opferherrn; es mögen hören alle Söhne des Götterreichs, welche die himmlischen Wohnungen bestiegen haben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я запрягаю для вас двоих с поклонением древнее священное слово.  
 Пусть возглас покровителя жертвы разойдется, как широкий путь!  

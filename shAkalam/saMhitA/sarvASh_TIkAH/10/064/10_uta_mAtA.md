@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ माता꣡ बृहद्दिवा꣡ शृणोतु नस्  
 त्व꣡ष्टा देवे꣡भिर् ज꣡निभिः पिता꣡ व꣡चः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 रण्वः꣡ शं꣡सः शशमान꣡स्य पातु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ऋ॒भु॒क्षाः । वाजः॑ । रथः॒पतिः॑ । भगः॑ । र॒ण्वः । शंसः॑ । श॒श॒मा॒नस्य॑ । पा॒तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -125,36 +125,36 @@ genre M
 उतापि च बृहद्दिवा। महद्दिवेति यास्कः। नि. ११-४९। महती दिवा दीप्तिर्यस्याः सा माता देवमाता नोऽस्माकमाह्वानम् शृणोतु। तथा देवेभिर्देवैरिन्द्रादिभिर्जनिभिर्देवपत्नीभिश्च पिता सर्वेशाम् त्वष्टैतन्नामकोऽस्मदीयं वचः शृणोतु। तथर्भुक्स्षा इन्द्रो वाजस्तत्सहायो वाजो नाम सौधन्वनः कनीयान् रथस्पती रथस्य पतिर्भगश्च तथा रण्वो रमणीयः शंसः स्तुत्यो मरुद्गणश्च ततः शशमानस्य शंसमानम् स्तोतॄन्नोऽस्मान्पातु। रक्षतु॥११॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the bright shining mother (of the gods) hear us; may father **Tvaṣṭā**, with the gods, and theirwives, (hear our) words; may Ṛbhukṣan, **Vāja**, Rathaspati, **Bhaga**, may the joyous adorable (company of theMaruts) protect us their praisers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And let the mother Br̥haddivā hear our speech, and Tvaṣṭar with the  divine ones, (namely) the Wives (of the Gods), and the Father,  
 R̥bhukṣan, Vāja, Lord of the Chariot, Bhaga. Let the delightful laud of  the one who labors protect us—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And let Brhaddiva, the Mother, hear our call, and Tvastar, Father, with the Goddesses and Dames.  
      Rbhuksan, Vaja, Bhaga, and Rathaspati, and the sweet speech of him who labours guard us well!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und die Mutter, die im hohen Himmel wohnt, soll unser Wort hören, Tvastri mit den Göttern und ihren Frauen, der Vater, Ribhksan, Vaja, der Wagenherr Bhaga. Der erfreuende Preis des Opferzurichters soll uns schützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaddiva die Mutter höre unser Wort, der Vater Tvaschtar mit den Göttern und den Fraun, Ribhukschan, Vādscha, Bhaga und Rathaspati; der liebe Spruch des frommen Beters schütze uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

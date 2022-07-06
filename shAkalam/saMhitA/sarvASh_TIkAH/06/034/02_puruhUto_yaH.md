@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरुहूतो꣡ यः꣡ पुरुगूर्त꣡ ऋ꣡भ्वाँ  
 ए꣡कः पुरुप्रशस्तो꣡ अ꣡स्ति यज्ञइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡भिर् इ꣡न्द्रो अनुमा꣡दियो भूत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 रथः॑ । न । म॒हे । शव॑से । यु॒जा॒नः । अ॒स्माभिः॑ । इन्द्रः॑ । अ॒नु॒ऽमाद्यः॑ । भू॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puruhūto* ← *puru*
 - \[noun\]
@@ -130,20 +130,20 @@ genre M
 **पुरुहूतः** बहुभिराहूतः **पुरुगूर्तः** बहुभिरुद्यमितः **ऋभ्वा** महान् **एकः** प्रधानभूत एवंगुणविशिष्टः **यः** इन्द्रः **यज्ञैः** यष्टृभिः पुरुषैः यजनसाधनैः स्तोत्रैर्वा **पुरुप्रशस्तः** **अस्ति** बहुधा प्रशस्तः स्तुतो भवति सः **इन्द्रः** **रथो** **न** रथ इव **महे** महते **शवसे** बलाय तदर्थं **युजानः** अस्मत्स्तुतिभिर्युज्यमानः सन् **अस्माभिः** स्तोतृभिः **अनुमाद्यो** **भूत्** सर्वदा स्तुत्यो भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that **Indra** ever be propitiated, by us who is the invoked of many, mighty and chief, especially honoured by sacrifices, and to whom, as to a conveyance, we are attached for (the attainment of) great strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The skillful one, who is called upon by many and welcomed by many,  who alone is celebrated by many with sacrifices—  
 like a chariot yoked for great power, Indra is to be cheered on.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The heavy presence of puru-PAST PART. cmpds in the first hemistich (puruhūtáḥ … purugūrtáḥ … purupraśastáḥ) was prepared for by the fem. pl. pūrvī́ḥ in 1a and the (unrelated) purā́in 1c.
 
@@ -152,23 +152,23 @@ It is difficult to render the gerundive + injunctive phrase anumā́dyo bhūt; �
 The instr. asmā́bhiḥ was unaccountably omitted in the published translation: I correct to “… to be cheered on by us.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, praised of many, bold, invoked of many, alone is glorified at sacrifices.  
      Like a car harnessed for some great achievement, Indra must be the cause of our rejoicing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der der vielgerufene, vielgelobte Meister, als Einziger mit Opfern vielgefeierte ist - wie ein Wagen, der zu großer Krafttat geschirrt wird, so muß Indra von uns bejubelt werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der vielbesungne, vielgerühmte, starke, er ist allein durch Opfer hochgefeiert; Dem Indra wollen wir entgegen jubeln, wie dem zu grosser Macht geschirrten Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Многопризываемый, многовоспетый мастер,  
 Кто один многопрославлен жертвами:  

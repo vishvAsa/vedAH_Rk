@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नो मित्रः꣡ शं꣡ व꣡रुणः  
 शं꣡ नो भवतु अर्यमा꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 शं꣡ नो वि꣡ष्णुर् उरुक्रमः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (424)
 शम् । नः॒ । इन्द्रः॑ । बृह॒स्पतिः॑ । शम् । नः॒ । विष्णुः॑ । उ॒रु॒ऽक्र॒मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[adverb\]
@@ -120,36 +120,36 @@ genre D;; epic anuṣṭubh (424)
 अहरभिमानी **मित्रः** देवः **नः** अस्माकं **शं** सुखकरो भवतु । यद्वा । अस्मदीयानामुपद्रवाणां शमयिता भवतु । राज्यभिमानी **वरुणः** च **शं** सुखकरः **भवतु** । **अर्यमा** अहोरात्रयोः ख्यापयिता सूर्यश्च **नः** अस्माकं **शं** सुखकरो भवतु । **बृहस्पतिः** बृहतां देवानां पालयिता **इन्द्रः** च **नः** अस्माकं **शं** सुखकरो भवतु । **उरुक्रमः** । उरु विस्तीर्णं क्रामति पादौ विक्षिपतीति उरुक्रमः । विष्णुर्हि वामनावतारे पृथिव्यादीन् लोकान् पदत्रयरूपेणाक्रान्तवान् । अतः उरुक्रमः **विष्णुः** च **नः** अस्माकं **शं** सुखकरः उपद्रवाणां शमयिता वा भवतु ॥ उरुक्रमः ।  ‘ क्रमु पादविक्षेपे । पचाद्यच् । यद्वा । उरून् क्रामतीति उरुक्रमः । कर्मणि अण् । ‘नोदात्तोपदेशस्य मान्तस्य' इति वृद्धिप्रतिषेधः ॥ ॥१८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “May **Mitra** be propitious to us; may **Varuṇa**, may **Aryaman**, be propitious to us; may **Indra** and **Bṛhaspati** be propitious to us; may the wide-stepping **Viṣṇu** be propitious to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Luck for us Mitra, luck Varuṇa; luck be Aryaman for us—  
 Luck for us Indra and Br̥haspati; luck for us Viṣṇu of the wide strides.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be Mitra gracious unto us, and Varuna and Aryaman:  
      Indra, Brhaspati be kind, and Visnu of the mighty stride.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück soll uns Mitra, zum Glück uns Varuna, zum Glück uns Aryaman sein, zum Glück soll uns Indra und Brihaspati, zum Glück uns der weitschreitende Vishnu sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heile sei uns Mitra, zum Heile Varuna, zum Heile uns Arjaman, zum Heil uns Indra und Brihaspati, zum Heil uns Vischnu, der weitschreitende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье нам – Митра, на счастье – Варуна!  
 На счастье да будет нам Арьяман!  

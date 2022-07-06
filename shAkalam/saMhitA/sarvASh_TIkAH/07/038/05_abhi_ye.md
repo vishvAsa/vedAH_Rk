@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ ये꣡ मिथो꣡ वनु꣡षः स꣡पन्ते  
 रातिं꣡ दिवो꣡ रातिषा꣡चः पृथिव्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡रूत्री ए꣡कधेनुभिर् नि꣡ पातु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अहिः॑ । बु॒ध्न्यः॑ । उ॒त । नः॒ । शृ॒णो॒तु॒ । वरू॑त्री । एक॑धेनुऽभिः । नि । पा॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 **रातिषाचः** दानसेविनः **वनुषः** संभक्तारः **ये** यजमानाः **मिथः** परस्परं संहता भूत्वा सवितारमभिलक्ष्य **सपन्ते** परिचरन्ति । कीदृशम् । **दिवः** द्युलोकस्य **पृथिव्याः** भूमेश्च **रातिं**  मित्रभूतम् । **उत** अपि च **अहिर्बुध्न्यः** । बुध्नेऽन्तरिक्षे भवो बुध्न्यः । एतीत्यहिः। एतत्पदद्वयाभिधो मध्यमस्थानोऽग्निरहिर्बुध्न्य इत्युच्यते । सवितुर्मित्रभूतः सोऽपि तेषां **नः** अस्माकं सवितृविषयं स्तोत्रं **शृणोतु** । तथा **वरूत्री** वाग्देवी च सवितृसहिता सती **एकधेनुभिः** मुख्याभिर्गोभिः **नि** **पातु** नितरामस्मान् पालयतु । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,13 +120,13 @@ genre M
 Ahirbudhnya = a name of **Agni**, of the middle region or firmament; the protectress: varutra = vāgdevatā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (As do) those who, zealous in rivalry, serve the gift of Heaven and Earth  as Gift-Escorts.  
 And let Ahi Budhnya hear us; let the Shielding Goddess defend (us) with  the Ekadhenus.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On this assortment of minor divinities, see published introduction. In particular, ékadhenu- ‘having one milk-cow’ is a hapax, and who these beings are is otherwise unknown.
 
@@ -146,23 +146,23 @@ The conj. utá is oddly positioned in the middle of its pāda, and it is not cle
 clause here. But even were we to supply that verb (see above for reasons not to), utá would still be out of position: we would expect it pāda-initial. I think that the utá is loosely conjoining this clause with what precedes, but that this does not require matching verbs. I further think that it has been postponed in order to allow áhiḥ to take initial position, in order to echo the abhí’s that open this vs. (5a) and three of the pādas in the preceding vs. (4a, c, d). Notably, two of the twelve pādas containing áhir budhnyàḥ elsewhere in the RV are opened by utá (I.186.5, VI.50.14), with the latter almost identical to ours except for the order of utá and the divine name: VI.50.14 utá nó ‘hir budhnyàḥ śṛṇotu. This would give support to my view that the ordinary order was disrupted to allow the semi-rhyme of #abhí / #áhi(ḥ). (Note that when utá was moved to mid-pāda, it took the Wackernagel-positioned naḥ along with it.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who come emulous to our oblation, dispensing bounty, from the earth and heaven.  
      May they and Ahibudhnya hear our calling: guard us Varutri with the Ekadhenus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die gabenbegleiteten Genien, die gegenseitig eifersüchtig die Gabe des Himmels und der Erde hüten-auch der Drache der Tiefe soll uns hören, die Schützerin mit den Ekadhenu´s soll uns schützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Spender, die, wetteifernd mit einander des Himmels und der Erde Gabe wirken, Der Drachen auch der Tiefe mög' uns hören, durch Ekadhenu's uns Varutri schützen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) сопровождающие дары (боги), которые стараясь друг перед другом  
 Лелеют дар неба и земли:  

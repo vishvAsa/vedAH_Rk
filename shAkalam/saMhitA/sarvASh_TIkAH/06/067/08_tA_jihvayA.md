@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ जिह्व꣡या स꣡दम् ए꣡दं꣡ सुमेधा꣡  
 आ꣡ य꣡द् वां सत्यो꣡ अरति꣡र् ऋते꣡ भू꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युवं꣡ दाशु꣡षे वि꣡ चयिष्टम् अं꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तत् । वा॒म् । म॒हि॒ऽत्वम् । घृ॒त॒ऽअ॒न्नौ॒ । अ॒स्तु॒ । यु॒वम् । दा॒शुषे॑ । वि । च॒यि॒ष्ट॒म् । अंहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -145,7 +145,7 @@ genre M
 **ता** तौ मित्रावरुणौ युवां **सुमेधाः** प्राज्ञः **जिह्वया** वाचा **सदं** सर्वदा **इदं** जलम् **आ** याचते । आ इत्युपसर्गदर्शनात् योग्यक्रियाध्याहारात याचत इत्यध्याह्रियते । पूर्वस्यामृचि जलस्य प्रकृतत्वात् बुद्धौ विपरिवर्तमानं जलमिदंशब्देन परामृश्यते । **यत्** यदा **वां** युवयोः **अरतिः** अभिगन्ता **ऋते** यज्ञे **सत्यः** मायारहितः **आ** **भूत्** आभवति हे **घृतान्नौ** **तत्** **महित्वम्** अपेक्षितप्रदातृत्वलक्षणं **वां** युवयोः **अस्तु** । किंच **युवं** युवां **दाशुषे** दाशुषो यजमानस्य ॥ षष्ठ्यर्थे चतुर्थी ॥ **अंहः** पापं **वि** **चयिष्टं** विनाशयतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,14 +156,14 @@ genre M
 With his prayers: with his tongue, jihvayā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You) two (does) the one of good wisdom [=Agni] always (call) here  with his tongue, when the true wheel (of the sacrifice) [=Agni] has  
 come to be without you.  
 Let this be your greatness, you who have ghee for food: you open up the  narrow place for the pious one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a lacks a verb; on its structure and on the grammatical interpr. of sumedhā́(ḥ), see esp. Oldenberg Since it is likely that sumedhā́(ḥ) is a nom. sg., referring to Agni, this slots the du. tā́into the acc., and we need a verb to link the two. Though Oldenberg’s ‘lead’ is possible, I follow Geldner(/Renou) in supplying ‘call’, since this connects this ritual vs. with those in the earlier parts of the hymn (2ab, 3ab; see published introduction. and comm. ad locc.). As is generally recognized, the referent of the nom. is Agni; III.57.5, adduced by Oldenberg, makes this quite clear: yā́te jihvā́madhumatī́sumedhā́, ágne … The word aratí- ‘spoked wheel’ in b is another word regularly applied to Agni.
 
@@ -172,23 +172,23 @@ This pāda also contains, by most interpr., two words associated with truth, sat
 On (vi) cayiṣṭam see Hoffmann, Aufs. II.367.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So with your tongue come ever, when your envoy, faithful and very wise, attends our worship.  
      Nourished by holy oil! he this yGur glory: annihilate the sacrificer's trouble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch ruft der Weise immerdar mit seiner Zunge hierher, wenn euer wahrer Rosselenker bei dem rechten Werk erscheint. Darin soll eure Größe bestehen, ihr Schmalzesser: Räumet die Not dem Opfernden weg!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nehmt stets ihn mit der Zunge, wenn der Opfrer, der weise, gute euch beim Fest erscheinet; Das sei eur Labsal, o ihr Butteresser, o nehmt hinweg Bedrängniss dem Verehrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас двоих при(зывает) сюда языком очень мудрый,  
 Когда он возник перед вами на обряде как истинный посланник (?).  

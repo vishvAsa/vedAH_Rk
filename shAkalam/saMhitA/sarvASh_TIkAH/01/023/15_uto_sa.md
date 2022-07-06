@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उतो꣡ स꣡ म꣡ह्यम् इ꣡न्दुभिः  
 ष꣡ड् युक्ताँ꣡ अनुसे꣡षिधत्  
 गो꣡भिर् य꣡वं न꣡ चर्कृषत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गोभिः॑ । यव॑म् । न । च॒र्कृ॒ष॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uto* ← *uta*
 - \[adverb\]
@@ -93,7 +93,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उतो** अपि च **सः** पूषा **मह्यं** यजमानाय **इन्दुभिः** यागहेतुभिः सोमैः **युक्तान** **षट्** वसन्तादीन् ऋतून् **अनुसेषिधत्** अनुक्रमेण पुनःपुनर्नयन् वर्तते इति शेषः । तत्र दृष्टान्तः । **गोभिः** बलीवर्दैः **यवं** **न** **चर्कृषत्** नशब्द उपमार्थः । यथा यवमुद्दिश्य भूमिं प्रतिसंवत्सरं पुनःपुनः कृषति तद्वत् ॥ मह्यम् । ङयि च ' ( पा. सू. ६. १. २१२ ) इत्याद्युदात्तत्वम् । इन्दुभिः ।  ‘ उन्दी क्लेदने ।  ‘ उन्देरिच्चादेः ' ( उ. सू. १. १२ ) इति उप्रत्ययः, उकारस्य इकारादेशश्च । नित्' इति अनुवृत्तेराद्युदात्तत्वम् । युक्तान्। दीर्घादटि समानपादे ' इति संहितायां नकारस्य रुत्वम् । आतोऽटि नित्यम्' इति सानुनासिक आकारः । अनुसेषिधत् । **षिधु** गत्याम् ।' धातोरेकाचः ' ( पा. सू. ३. १. २२ ) इति यङ् । यङोऽचि च ' (पा. सू. २. ४. ७४ ) इति तस्य लुक् । प्रत्ययलक्षणेन  ‘ सन्यङोः ' (पा. सू. ६. १. ९) इति द्विर्भावः । हलादिशेषः ।  ‘ गुणो यङ्लुकोः ' ( पा. सू. ७. ४. ८२ ) इति अभ्यासस्य गुणः ।  ‘ इण्कोः ' ( पा. सू. ८. ३. ५७ ) इति षत्वम् । सनादित्वात् धातुसंज्ञायां लटः शतृ। कर्तरि शप् । **अदादिवच्च'** इति वचनात् तस्य लुक् । ‘नाभ्यस्ताच्छतुः (पा. सू. ७. १. ७८ ) इति नुम्प्रतिषेधः । प्रत्ययस्वरे प्राप्ते  ‘ अभ्यस्तानामादिः ' ( पा. सू. ६. १. १८९) इत्याद्युदात्तत्वम् । गोभिः ।  ‘ सावेकाचः' इति भिस उदात्तत्वे प्राप्ते  ‘ न गोश्वन्° " इति प्रतिषेधः । चर्कृषत् । “ कृष विलेखने ' । यङ्लुकि द्विर्भावहलादिशेषचर्त्वानि । 'रुग्रिकौ च लुकि' (पा. सू. ७. ४. ९१ ) इति अभ्यासस्य रुगागमः । अस्मात् यङ्लुगन्तात् लेटस्तिप्। ‘इतश्च लोपः' । ‘लेटोऽडाटौ ' इति अडागमः ।  ‘ अदिप्रभृतिभ्यः शपः' इति शपो लुक् । लघूपधगुणे प्राप्ते ‘नाभ्यस्तस्याचि पिति” ' ( पा. सू. ७. ३. ८७ ) इति निषेधः ।  ‘ तिङ्ङतिङः' इति निघातः ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,36 +104,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Śat. = vasantādin ṛtun, the spring and the rest of seasons
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And with drops (of ghee) he will keep driving along to me the six yoked  (flames),  
 as if plowing a grain(field) with oxen.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ritual referent of the “six yoked” entities (ṣáḍ yuktā́n) is unclear, no matter whether Soma or Agni is taken as the main referent: those in the Soma camp consider the yoked ones to be the dakṣiṇās due the poet; I consider them the flames of the recovered Agni, roused by the drops of ghee. In terms of the simile in c, the six yoked ones are clearly the teams for plowing. See esp. AV VI.91.1, cited by Schaefer (1994: 197). On anu √sidh as ‘entlangtreiben’, see Schaefer 1994: 196-97.
 
 In my translation I have reversed the renderings of the finite intensive (unaccented carkṛśat in c) and the intensive participle (accented anuséṣidhat) to make the relationship between simile and frame clearer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And may he. duly bring to me the six bound closely, through these drops,  
      As one who ploughs with steers brings corn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und er soll mir, indem er durch die Somasäfte sechs Gespanne erzielt, gleichsam Korn mit Rindern erpflügen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Herführend durch den Indusaft die Sechsgepaarten, pflüge er Mit Stieren gleichsam mir das Feld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И пусть он мне каплями сомы  
 Добьется шести упряжек,  

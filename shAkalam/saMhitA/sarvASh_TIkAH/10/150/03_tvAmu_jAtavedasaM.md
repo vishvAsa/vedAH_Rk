@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् उ जात꣡वेदसं  
 विश्व꣡वारं गृणे धिया꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मॄळीका꣡य+ प्रिय꣡व्रतान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अग्ने॑ । दे॒वान् । आ । व॒ह॒ । नः॒ । प्रि॒यऽव्र॑तान् । मृ॒ळी॒काय॑ । प्रि॒यऽव्र॑तान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -119,36 +119,36 @@ genre M
 हे **अग्ने** **विश्ववारं** विश्वैः सर्वैर्वरणीयं **जातवेदसं** **जातानां** वेदितारं जातप्रज्ञं जातधनं वा **त्वामु** त्वामेव **धिया** स्तुत्या **गृणे** स्तौमि। ‘ गॄ शब्दे ' । क्रैयादिकः । प्वादित्वाद्धूस्वः । **प्रियव्रतान्** प्रियाणि व्रतानि कर्माणि येषां तादृशान् **देवान्** नः अस्मदर्थम् **आ** **वह** **आनय** । अस्मद्यज्ञं प्रापय । **मृळीकाय** सुखार्थमेतत्संज्ञाय वा मह्यं प्रियव्रतान् तानेवावह ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify with my praise you, **Jātavedas**, desired by akll; bring hither, **Agni**, to us the gods who aregratified by offerings, (bring) those gratified by offerings for our felicity. invoke Agni for the acquisition of abundant wealth, (may he make me) happy for the acquisition of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Jātavedas, granting all wishes, do I hymn with my insightful  thought.  
 O Agni, bring here to us the gods whose commandments are dear, for  grace (bring) those whose commandments are dear.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I laud thee Jatavedas, thee Lord of all blessings, with my song.  
      Agni, bring hitherward the Gods whose Laws we love, whose laws we love, to show us grace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den allbegehrten Jatavedas, preise ich mit Kunst. O Agni, fahre die liebwaltenden Götter her, zur Gnade die Liebwaltenden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich Wesenkenner preise ich mit Andacht dich, der alles hat, Die Götter fahr', o Agni, her, die Liebes thun, die Liebes wirken, uns zur Huld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, Джатаведаса,  
 Со всеми избранными дарами я воспеваю (своим) искусством.  

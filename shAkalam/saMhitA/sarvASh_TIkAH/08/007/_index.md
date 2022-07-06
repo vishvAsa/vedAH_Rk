@@ -8,7 +8,7 @@ title = "+007"
 ‘प्र यद्वः' इति षट्त्रिंशदृचं द्वितीयं सूक्तं कृण्वगोत्रस्य पुनर्वत्सस्यार्षं मारुतं गायत्रम् । तथा चानुक्रान्तं -- प्र यद्वः षट्त्रिंशत्पुनर्वत्सो मारुतम् ' इति । व्यूळ्हे दशरात्रे प्रथमे छन्दोम आग्निमारुतशस्त्र इदं सूक्तं मारुतनिविद्धानम् । सूत्रितं च - प्र यद्वस्त्रिष्टुभं दूतं व इत्याग्निमारुतम् ' ( आश्व. श्रौ. ८. ९) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 7 (627)  
 Maruts  
@@ -20,7 +20,7 @@ Verses 22–26 present various fragments of mythology; particularly striking, an
 Like other long hymns in VIII the structure of this one is quite loose. However,  it does have at least a sketchy ring:  in addition to verses 2/5 and 34 mentioned  above, note the references to meter in the first and last verses (1 and 36). It is char acterized also by recycling of vocabulary, by rhetorical repetition (see, e.g., vss. 6,  9, 17, 22–24), and by frequent phonetic figures (a particularly nice one is found in  28ab:...pŕ̥ṣatī ráthe / práṣṭir...róhitaḥ).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts As noted in the published introduction, this hymn contains dense repetitions of vocabulary and numerous phonetic echoes within and across verses. I have noted some, but by no means all, below. Particularly common in the earlier part of the hymn is the root √yā ‘drive’, in both verbal and nominal forms (2b, 4c [2x], 5a, 7b, 8b; also 14b, 23a, 26b, 28c, 29c).
 </details>

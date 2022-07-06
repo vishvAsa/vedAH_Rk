@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ वेद जा꣡नम् एषां᳐  
 को꣡ वा पुरा꣡ सुम्ने꣡षु आस मरु꣡ताम्  
 य꣡द् युयुज्रे꣡ किलासि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यत् । यु॒यु॒ज्रे । कि॒ला॒स्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -96,43 +96,43 @@ genre M
 **एषाम्** ॥ मरुतां पूर्वसूक्ते प्रस्तुतत्वादत्रान्वादेशविषयत्वादेषामित्यस्य निघातता ॥ **जानम्** उत्पत्तिं को **वेद** जानाति कः पुमान् । **को** **वा** **पुरा** पूर्वमप्येषां **मरुतां** **सुम्नेषु** सुखेषु **आस** भवति । **यत्** यदा एते किलास्यः किलासीः । पृषतीः इत्यर्थः । ताः **युयुज्रे** रथे योजितवन्तः तदैषां स्थितिं बललक्षणानि सुखानि च को जानातीत्यर्थः । वेगविषये सर्वत्र वायोरुपमास्पदत्वादिति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who knows the birth of these (**Maruts**)? who has formerly been (participant) of the enjoyments of them (by whom) the spotted deer are harnessed (to their chariots)?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who knows their birth? Or, who was previously in the graces of the  Maruts,  
 when they yoked their own spotted (female antelopes)?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Like V.52.14 in the immediately preceding hymn, this vs. contains a vā ‘or’ whose disjunctive alternatives do not seem parallel. While it is true that both alternatives are questions beginning with káḥ ‘who’, the questions seem ill-matched.
 
 Renou’s assessment here is “illogisme de vā́[sic -- he prints it with accent].” Perhaps the point is that if no one knows as far back as the Maruts’ birth, there may still be someone who has had long association with them and their habits.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who knows the birth of these, or who lived in the Maruts' favour in the days of old  
      What time their spotted deer were yoked?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer kennt den Ursprung? Oder wer war früher in der Marut Gunst, wenn sie ihre Schecken angeschirrt haben?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer ist's, der ihren Ursprung kennt? wer ist zuvor gewesen in der Maruts Huld, Als sie die Schecken sich geschirrt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто знает их рождение?  
 Или кто прежде был в милости у Марутов,  

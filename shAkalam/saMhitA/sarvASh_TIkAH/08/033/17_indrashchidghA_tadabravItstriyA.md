@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रश् चिद् घा त꣡द् अब्रवीत्  
 स्त्रिया꣡ अशासिय꣡म् म꣡नः  
 उतो꣡ अ꣡ह क्र꣡तुं रघु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 उ॒तो इति॑ । अह॑ । क्रतु॑म् । र॒घुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -102,7 +102,7 @@ popular
 यो मेध्यातिथेर्धनप्रदाता प्लायोगिरासङ्गः स पुमान् भूत्वा स्त्र्यभवत् । तदा यदिन्द्र उवाच तदिदमाह । तथा चाहुः -‘प्लायोगिश्चासङ्गो यः स्त्री भूत्वा पुमानभूत् स मेध्यातिथये दानं दत्त्वा ' इति । **इन्द्रश्चिद्ध** इन्द्रः खलु **तदब्रवीत्** । **स्त्रियाः** **मनः** चित्तम् **अशास्यं** पुरुषेणाशिष्यं शासितुमशक्यं प्रबलत्वादिति । **उतो** अपि च स्त्रियाः **क्रतुं** प्रज्ञां **रघुं** लघुमाह ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,13 +113,13 @@ popular
 Mind of a woman: the legend: **Asaṅga**, the son of plural **yoga**, the patron of the ṛṣi, has been changed to awoman
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra said just this, “the mind of woman is not to be instructed,  
 and her will is fickle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra begins, cleverly, with concession: he admits that women’s mental powers are not as strong as they should be. I take this as Indra’s direct speech, even though pāda c is in the accusative (and pāda b could be), since I think such mixed constructions (X said “abc” / said that abc) are found elsewhere. However, little is lost if it is taken as indirect discourse.
 
@@ -136,23 +136,23 @@ These verses are extensively discussed by Oldenberg and Geldner, with Oldenberg 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra himself hath said, The mind of woman brooks not discipline,  
      Her intellect hath little weight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch Indra hat das gesagt, daß der Sinn des Weibes unbelehrbar, und ihre Einsicht zu gering ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch Indra selbst nannte ja diesen Sinn des Weibes untadelig und ihre rüstige Thätigkeit. –
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А Индра сказал вот что:  
 Женский разум ненаучаем,  

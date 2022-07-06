@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ मित्र꣡स्य प्र꣡शस्तय  
 इन्द्राग्नी꣡ ता꣡ हवामहे  
 सोमपा꣡ सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सो॒म॒ऽपा । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -90,35 +90,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मित्रस्य** स्नेहविषयस्य मम अनुष्ठातुः **प्रशस्तये** **ता** पूर्वोक्तौ देवौ संपद्येताम् इति शेषः । यद्वा । मित्रस्य मम संबन्धिनौ ताविन्द्राग्नी प्रशस्तये प्रशंसितुमिच्छामः इति शेषः । **सोमपा** सोमपानक्षमौ **ता** पूर्वोक्तौ **इन्द्राग्नी** **सोमपीतये** सोमपानार्थं **हवामहे** आह्वयामः ॥ प्रशस्तये । 'तुमर्थाच्या भाववचनात् ' (पा. सू. २. ३. १५) इति चतुर्थी । कृदुत्तरपदप्रकृतिस्वरत्वं बाधित्वा • तादौ च निति कृत्यतौ ' (पा. सू. ६. २. ५० ) इति गतेः प्रकृतिस्वरत्वम् । सोमपीतये । सोमस्य पीतिर्यस्मिन्कर्मणि तस्मै । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । सोमस्य पीतिः इति तत्पुरुषे वा दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke **Indra** and **Agni**, for the benefit of our friend (the instrumental tutor of the rite), drinkers of the **Soma** juice, to drink the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We call these two to proclaim their alliance; we call them, Indra and Agni, the two soma-drinkers, to drink soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni we invite, the Soma-drinkers, for the fame  
      Of Mitra, to the Soma-draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese beiden gereichen Mitra zum Preise. Indra und Agni rufen wir, die beiden Somatrinker zum Somatrunke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra und Agni rufen wir, die Trinker zu dem Somatrunk, Zu Mitra's Ruhm und Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти двое – во славу Митре.  
 Индру-Агни – их мы зовем,  

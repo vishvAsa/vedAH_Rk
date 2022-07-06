@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरुप्रिया꣡ ण ऊत꣡ये  
 पुरुमन्द्रा꣡ पुरूव꣡सू  
 स्तुषे꣡ क꣡ण्वासो अश्वि꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्तु॒षे । कण्वा॑सः । अ॒श्विना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purupriyā* ← *puru*
 - \[noun\]
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पुरुप्रिया** बहूनां प्रियौ **पुरुमन्द्रा** बहुमदौ बहूनां मादयितारौ वा । यद्वा । पुरु बहुलं माद्यन्तौ । **पुरुवसू** बहुधनौ ईदृशौ **अश्विना** अश्विनौ **नः** अस्माकम् **ऊतये** रक्षणाय **कण्वासः** कण्वगोत्रा वयं **स्तुषे** स्तुमहे । पुरुषवचनयोर्व्यत्ययः । यद्वा । कण्वास इति पूजार्थं बहुवचनम् । ऋषिरात्मानं संबोध्य ब्रूते । हे अन्तरात्मन् कण्वासः कण्वगोत्रस्त्वं स्तुषे अश्विनौ स्तुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We, **Kaṇvas**, praise for our protection the many-loved, the many- delighting **Aśvins**, abounding inwealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 *O Kaṇvas, for us shall I praise the two dear to many, delightful to  many, who bring many good things,  
 the Aśvins—for their help—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the three compounds beginning with puru- in ab.
 
@@ -110,23 +110,23 @@ Both these vss., though not belonging to the same tṛca, most likely contain 1s
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Kanvas must praise the Asvins dear to many, making many glad,  
      Most rich, that they may succour us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die viellieben, vielerfreuenden, schätzereichen Asvin wollen die Kanva´s zu unserem Beistand preisen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die vielgeliebten preise ich, die Ritter reich an Freud' und Gut, O Kanva's, zur Erquickung uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очень приятных, очень радующих,  
 Очень богатых добром Ашвинов  

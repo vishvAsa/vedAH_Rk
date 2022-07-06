@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡र्वतश् चिन् म꣡हि वृद्धो꣡ बिभाय  
 दिव꣡श् चित् सा꣡नु रेजत स्वने꣡ वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡प इव सध्रि꣡अञ्चो धवध्वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । क्रीळ॑थ । म॒रु॒तः॒ । ऋ॒ष्टि॒ऽमन्तः॑ । आपः॑ऽइव । स॒ध्र्य॑ञ्चः । ध॒व॒ध्वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parvataś* ← *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
@@ -116,20 +116,20 @@ genre M
 हे मरुतः **वः** युष्माकं **स्वने** भयंकरशब्दे सति **पर्वतश्चित्** पर्वतोऽपि **महि** महान् **वृद्धः** सन्नपि **बिभाय** बिभेति । **दिवश्चित्** अन्तरिक्षस्यापि **सानु** समुच्छ्रितः प्रदेशः **रेजत** कम्पते । **यत्** यदा **क्रीळथ** हे **मरुतः** यूयम् **ऋष्टिमन्तः** आयुधवन्तः सन्तस्तदा **आपइव** उदकानीव **सध्र्यञ्चः** सहाञ्चनाः **धवध्वे** धावध्वे गच्छथ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mountain, vast and lofty (though it be), is alarmed at your noise, and the summit of the firmament trembles when, lance-armed **Maruts**, you are sporting; you rush along together like waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even the mountain, grown great, has fear; even the back of heaven  trembles at your roar.  
 When you are at play, o Maruts, equipped with spears, you run toward a  single goal like the waters.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/060/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -139,23 +139,23 @@ Note the concatenation: 2d … párvataś cit# // 3a #párvataś cit … The two
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Though vast and tall, the mountain is affrighted, the height of heaven is shaken at your roaring  
      When, armed with lances, ye are sporting, Maruts, and rush along together like the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst das hochgewachsene Gebirge hat Furcht bekommen, selbst des Himmels Rücken bebt bei eurem Tosen. Wenn ihr Marut mit Speeren bewaffnet euer Spiel treibt, so eilt ihr nach dem gleichen Ziele wie die Gewässer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es fürchten sich die mächtig hohen Berge, des Himmels Gipfel bebt bei eurem Toben, Wenn ihr, o Maruts, speerbewaffnet tanzet, dann strömet ihr vereint wie Wasserwogen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже гора, гигантски выросшая, испугалась,  
 Даже вершина неба затряслась от вашего гула.  

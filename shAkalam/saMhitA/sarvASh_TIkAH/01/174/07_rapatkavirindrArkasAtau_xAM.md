@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡पत् कवि꣡र् इन्दर+ अर्क꣡सातौ  
 क्षां᳐꣡ दासा꣡य उपब꣡र्हणीं कः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ दुर्योणे꣡ कु꣡यवाचम् मृधि꣡ श्रेत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 कर॑त् । ति॒स्रः । म॒घऽवा॑ । दानु॑ऽचित्राः । नि । दु॒र्यो॒णे । कुय॑वाचम् । मृ॒धि । श्रे॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rapat* ← *rap*
 - \[verb\], singular, Present injunctive
@@ -133,7 +133,7 @@ genre M
 हे **इन्द्र** त्वां **कविः** क्रान्तदर्शी अनूचानो वा होता **अर्कसातौ** अर्चनीयस्यान्नस्य लाभे निमित्तभूते सति **रपत्** स्तौति । यद्वा । एतन्नामर्षी रपत् अस्तौत् अन्नार्थम् । तस्यातिप्रभूतमन्नं प्रादाः इत्यर्थः । तथा च **दासाय** प्राण्युपक्षपयित्रेऽसुराय **क्षां** भूमिम् उपबर्हणीं शय्यां **कः** अकरोः । हत्वा भूमावपातय इत्यर्थः । करोतेर्लुङि ‘मन्त्रे घस' इति च्लेर्लुक् ॥ अथ परोक्षकृतः । **मघवा** धनवान् अयमिन्द्रः **तिस्रः** भूमीः । दार्शिकपाशुकसौमिकरूपा भूमीः क्षित्यन्तरिक्षद्युरूपा वा भूमीः **दानुचित्राः** दानेन देयैर्धनैर्वा चायनीयाः **करत्** करोति । यद्वा । तिस्रः अयोरजतहिरण्यमयाः पुरीर्दानुचित्राः खण्डनेन चित्रा अकरोत् । तथा **दुर्योणे** दुष्टयोनौ स्थाने एतन्नामकस्य राज्ञः प्रीत्यर्थं वा **कुयवाचं** कुत्सितं शब्दायन्तमेतन्नामानमसुरं **मृधि** संग्रामे **नि** **श्रेत्** हिंसितवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,14 +144,14 @@ genre M
 The three regions: **bhūmiḥ** is added to the term of the text, **tisraḥ**: either earth in three aspects as identical with the three rituals of the **darśa** or lunar periods; the **paśu** or victim; and **Soma**, or libation; or, as implying earth, firmament and heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sage poet [=Uśanā Kāvya?] murmured, o Indra, at the winning  of the chants [/(sun’s) rays]: “He has made the earth a pillow for  
 the Dāsa.  
 The bounteous one will make the three (worlds?) bright with drops; he  has embedded in a woeful womb the one who speaks evil in scorn.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As often in a mythological context, kaví- by itself seems to refer to Uśanā Kāvya. The previous mention (vs. 5) of Kutsa, often associated with UK, supports this assumption.
 
@@ -164,23 +164,23 @@ Geldner tentatively takes the referent of fem. “three” (tisráḥ) as rivers
 Geldner takes the loc. mṛdhí as parallel to loc. duryoṇé (“in ein böses Nest, in Missachtung”), and as so often he is followed by Renou and Witzel Gotō; all of them also take kúyavācam as a PN. But given mṛdhrávācaḥ ‘of scornful speech’ in 2a, it seems better to give kúyavāc- lexical value and construe it with mṛdhí.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, the bard sang forth in inspiration: thou madest earth a covering for the Dasa.  
      Maghavan made the three that gleam with moisture, and to his home brought Kuyavac to slay him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es raunte, o Indra, der Kavi im Kampf um die Sonne zu: "Mach die Erde für den Dasa zum Kissen! Der Gabenreiche mache die drei Flüsse gabenglänzend; er bringe den Kuyavac in ein bößes Nest, in Mißachtung."
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies rühm der Sänger bei dem Fest, o Indra: dem Feinde gabst die Erde du zur Decke, Drei Thau-getränkte warf der Held ihm über, stiess in die Gruft hinab im Kampf den Schmäher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стал нашептывать поэт, о Индра, во время (битвы) за захват солнца:  
 Ты сделал землю подушкой для Дасы!  

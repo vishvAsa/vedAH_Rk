@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡ज् जात꣡म् इन्द्र ते श꣡व  
 उ꣡त् तुवा꣡म् उ꣡त् त꣡व क्र꣡तुम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; repeated line
 भूरि॑गो॒ इति॒ भूरि॑ऽगो । भूरि॑ । व॒वृ॒धुः॒ । मघ॑ऽवन् । तव॑ । शर्म॑णि । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uj* ← *ud*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M;; repeated line
 हे **इन्द्र** **उत्** । अयं व्यवहितेनापि **वावृधुः** इत्यनेन संबध्यते । उद्वर्धयन्ति सोमेन । किम् । **ते** **शवः** बलम् । न केवलं बलं किंतु **त्वाम्** उत् वर्धयन्ति स्तुत्यादिना । पश्चात् **तव** **क्रतुं** प्रज्ञां स्वानुकूलाम् **उत्** वर्धयन्ति। **भूरि** इत्येतत् प्रत्याख्यातं संबध्यते । अतिप्रभूतमुद्वर्धयन्तीत्यर्थः । क एवं कुर्वन्तीति उच्यते । हे भूरिगो बहुपशो हे **मघवन्** धनवन्निन्द्र **तव** **शर्मणि** त्वदीये सुखे ये वर्तन्ते ते च कुर्वन्तीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre M;; repeated line
 Greatly augmented: by their **Soma**-offerings and hymns
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have increased your new-born strength, Indra, increased you and  your resolve  
 many times, o you of many cows, under your shelter, bounteous one. – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy might, O Indra, at its birth, thee also, and thy mental power,  
      In thy care, Maghavan rich in kine! they have increased exceedingly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie haben deine neugeborene Kraft und dich und deine Umsicht, o Rinderreicher, vielmals erhöht in deinem Schutz, du Gabenreicher. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kraft, die, Indra dir erstand, und dich und deine Geistesmacht O rinderreicher, stärkten sie, o reicher, oft in deinem Sitz; des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твою (едва) родившуюся силу, о Индра,  
 Тебя (самого), твою силу духа,  

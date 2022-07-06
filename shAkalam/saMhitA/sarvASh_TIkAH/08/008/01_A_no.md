@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो वि꣡श्वाभिर् ऊति꣡भिर्  
 अ꣡श्विना ग꣡छतं युव꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पि꣡बतं सोमिय꣡म् म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दस्रा॑ । हिर॑ण्यवर्तनी॒ इति॒ हिर॑ण्यऽवर्तनी । पिब॑तम् । सो॒म्यम् । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -97,36 +97,36 @@ genre M;; repeated line
 हे **अश्विना** अश्विनौ अश्नुवानौ सर्वं जगद्व्याप्नुवन्तौ यद्वा अश्वैर्युक्तौ **युवं** युवां **विश्वाभिः** सर्वाभिर्व्याप्ताभिर्वा **ऊतिभिः** रक्षाभिः दातव्याभिः सार्धं **नः** अस्मान् **आ** **गच्छतम्** । आगत्य च हे **दस्रा** दस्रौ दर्शनीयौ शत्रूणामुपक्षपयितारौ वा हे हिरण्यवर्तनी हिरण्मयरथौ हितरमणीयाचरणौ म ईदृशौ हे अश्विनौ **सोम्यं** सोममयं **मधु** **पिबतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us, **Aśvins**, with all your protections; **Dasras**, riders in a golden chariot, drink the sweet **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here to us, o Aśvins, with all forms of help;  
 you wondrous ones whose track is golden—drink the somian honey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH all the succours that are yours, O Asvins, hither come to us:  
      Wonderful, borne on paths of gold, drink ye the meath with Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit allen Hilfen kommet zu uns, o Asvin, ihr Meister mit goldenen Rädern! Trinkt den somischen Met!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit allen euren Hülfen kommt, o wunderthät'ge, her zu uns, Auf goldnen Pfaden, Ritter ihr, und trinkt des Soma Süssigkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нам со всеми поддержками  
 Приезжайте вы, о Ашвины,  

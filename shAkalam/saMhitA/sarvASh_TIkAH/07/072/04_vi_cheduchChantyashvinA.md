@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ चे꣡द् उछ꣡न्ति अश्विना उषा꣡सः  
 प्र꣡ वाम् ब्र꣡ह्माणि कार꣡वो भरन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृह꣡द् अग्न꣡यः समि꣡धा जरन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऊ॒र्ध्वम् । भा॒नुम् । स॒वि॒ता । दे॒वः । अ॒श्रे॒त् । बृ॒हत् । अ॒ग्नयः॑ । स॒म्ऽइधा॑ । ज॒र॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -125,36 +125,36 @@ genre M
 हे **अश्विनौ** **उषासः** उषसः **वि** **उच्छन्ति** **चेत्** तमांसि विवासयन्ति । चेदिति पूरणश्चार्थे वा । स च वक्ष्यमाणसूर्याद्यपेक्षकः । चेद्योगादनिघातः। अतो युवयोः स्तुतिसमयत्वात् **ब्रह्माणि** स्तोत्राणि **कारवः** स्तोतारः **प्र** **भरन्ते** प्रकर्षेण संपादयन्ति । **ऊर्ध्वम्** **अश्रेत्** आश्रयति **भानुं** तेजः **सविता** **देवः**। **अग्नयः** अपि **समिधा** समिन्धनेन **बृहत्** अतिमहत् **जरन्ते** स्तूयन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the dawns arise, your worshippers, **Aśvins**, profer you praises; the divine **Savitā** casts hissplendours on high; the fires, with their (kindled) fuel, greatly glorify you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the dawns break forth, Aśvins, the singers present to you their  formulations.  
 The god Savitar has fixed the radiant beam on high. The fires awaken  aloft by kindling.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the Dawns break forth in light, O Asvins, to you the poets offer their devotions.  
      God Savitar hath sent aloft his splendour, and fires sing praises with the kindled fuel.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Morgenröten aufleuchten, o Asvins´, so tragen euch die Dichter ihre erbaulichen Worte vor. Gott Savitri hat sein Licht emporgerichtet; die Feuer wachen hoch auf durch das Brennholz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da nun, o Ritter, hell die Morgen strahlen, so tragen euch die Sänger vor Gebete, Hoch streckt empor Gott Savitar die Arme; durch Holz entzündet rauschen laut die Feuer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ярко вспыхивают, о Ашвины, утренние зори,  
 Певцы исполняют для вас священные слова.  

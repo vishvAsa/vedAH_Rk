@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वः शिव꣡तमो र꣡सस्  
 त꣡स्य भाजयतेह꣡ नः  
 उशती꣡र् इव मात꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 उ॒श॒तीःऽइ॑व । मा॒तरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -89,36 +89,36 @@ genre M
 हे आपः **वः** युष्माकं स्वभूतः **यः** **रसः** **शिवतमः** सुखतमः **इह** अस्मिँल्लोके **तस्य** तं रसं **नः** अस्मान् **भाजयत** सेवयत । उपयोजयतेत्यर्थः। तत्र दृष्टान्तः । **उशतीरिव** उशत्य इव पुत्रसमृद्धिं कामयमानाः **मातरः** स्तन्यरसं यथा भाजयन्ति प्रापयन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your most beneficent juice—make us have a share in that here,  
 like eager mothers (their milk).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us a portion of the sap, the most auspicious that ye have,  
      Like mothers in their longing love.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was euer angenehmstes Naß ist, des machet uns hier teilhaftig wie die liebevollen Mütter ihrer Milch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebevollen Müttern gleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какая у вас самая целительная влага,  
 Наделите нас ею здесь,  

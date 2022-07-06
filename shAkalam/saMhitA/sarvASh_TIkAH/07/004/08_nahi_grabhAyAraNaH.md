@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ ग्र꣡भाय अ꣡रणः सुशे꣡वो  
 अन्यो꣡दर्यो म꣡नसा म꣡न्तवा꣡ उ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ नो वाजी꣡ अभीषा꣡ळ् एतु न꣡व्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अध॑ । चि॒त् । ओकः॑ । पुनः॑ । इत् । सः । ए॒ति॒ । आ । नः॒ । वा॒जी । अ॒भी॒षाट् । ए॒तु॒ । नव्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -136,7 +136,7 @@ genre M
 पूर्वस्यामृचि उक्त एवार्थोऽत्र प्रपञ्च्यते । **अरणः** अरममाणः **अन्योदर्यः** **सुशेवः** सुखतमः सन् **ग्रभाय** पुत्रत्वेन ग्रहणाय **मनसा** **मन्तवा** **उ** मनसापि मन्तव्यः **न** भवति **हि** । **अध** **चित्** अपि च **सः** अन्योदर्यः **ओकः** **इत्** संस्थानमेव **पुनः** **एति** प्राप्नोति । अतः **वाजी** अन्नवान् **अभीषाट्** शत्रूणामभिभविता **नव्यः** नवजातः पुत्रः **नः** अस्मान् **आ** **एतु** आगच्छतु ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,7 +147,7 @@ genre M
 One not acquitting debts: araṇa = aramamāṇa, onenot plural asing or delighting; in the previous verse, it is rendered as anṛṇa, one free from debt, i.e. obligations dueto men, progenitors and gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For an outsider, (even one) of great kindness, is not to be accepted as  one’s own, nor is one born of another’s belly to be well regarded in  
 one’s thinking.  
@@ -155,23 +155,23 @@ He returns again to his home. Let the overpowering, prizewinning
 horse come here to us anew.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unwelcome for adoption is the stranger, one to be thought of as another's offipring,  
      Though grown familiar by continual presence. May our strong hero come, freshly triumphant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn nicht ist ein fremder Sohn so lieb, daß man ihn festhalten, nicht ein aus anderem Mutterleib Geborener, daß man seiner von Herzen gedenken mag. Auch geht er wieder nach seiner Heimat. Uns soll aufs neue ein siegreicher Preisgewinner kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht darf man halten, noch im Geist erstreben den Fremden andern Stamms, auch wenn er tüchtig; Denn bald ja kehrt ein solcher wieder heimwärts; uns werd' zu Theil ein neuer wackrer Sieger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь не станешь удерживать чужого, (даже) очень милого,  
 Не станешь сердцем помышлять о том, кто рожден из чрева другой.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡कस्मिन् यो꣡गे भुरणा समाने꣡  
 प꣡रि वां सप्त꣡ स्रव꣡तो र꣡थो गात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ वां धूर्षु꣡ तर꣡णयो व꣡हन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 न । वा॒य॒न्ति॒ । सु॒ऽभ्वः॑ । दे॒वऽयु॑क्ताः । ये । वा॒म् । धूः॒ऽसु । त॒रण॑यः । वह॑न्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekasmin* ← *eka*
 - \[noun\], locative, singular, masculine
@@ -140,37 +140,37 @@ genre M
 हे **भुरणा** सर्वस्य भर्तारौ युवयोः **एकस्मिन्** **समाने** उभयसाधारणे **योगे** अस्मद्विषये सति **वां** युवयोः **रथः** **सप्त** **स्रवतः** सर्पणस्वभावाः सप्तसंख्याका वा गङ्गाद्याः **परि** **गात्** परिगच्छति । शीघ्रमागच्छतीत्यर्थः। तद्रथानुकूलाः **सुभ्वः** सुभवनाः **देवयुक्ताः** देवाभ्यां युवाभ्यां युक्ता अश्वाः शीघ्रगमने **न** **वायन्ति** न शुष्यन्ति न श्राम्यन्ते । **ये** अश्वाः **वां** **धूर्षु** रथस्य **तरणयः** तारकाः शीघ्रगन्तारः **वहन्ति** युवां ते न वायन्तीति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Nourishers of all, the chariot of you two, who are associated in a common purpose, traverses the sevenflowing (streams); the excellent horses harnessed by the gods, who bear you rapidly, careering in the car, arenever wearied.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In your single, joint trek, o energetic ones, your chariot encompasses the  seven flowing streams.  
 They do not become exhausted—these your surpassing (horses) of  
 powerful presence, which, yoked by the gods on their yoke-poles, carry  you two.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With one, the same, intention, ye swift movers, o'er the Seven Rivers hath your chariot travelled.  
      Yoked by the Gods, your strong steeds never weary while speeding forward at the pole they bear you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In ein und derselben Fahrt gelangt euer Wagen über die sieben Ströme, ihr Eilige. Nicht fallen die stattlichen gottgeschirrten Rosse ab, die euch in euren Jochen rasch bis ans Ziel fahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit einer Fahrt, einmal geschirrt, o schnelle, geh euer Wagen durch die sieben Ströme, Nicht werden matt die schönen, gottgeschirrten, die vorwärtsdringend eure Deichsel ziehen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За один и тот же выезд, о вы, спешащие,  
 Ваши колесница проезжает через семь рек,  

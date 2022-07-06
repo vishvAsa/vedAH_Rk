@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡स् त꣡म् इन्द्र तुवा꣡वसुम्  
 आ꣡ म꣡र्तियो दधर्षति  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वाजी꣡ वा꣡जं सिषासति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 श्र॒द्धा । इत् । ते॒ । म॒घ॒ऽव॒न् । पार्ये॑ । दि॒वि । वा॒जी । वाज॑म् । सि॒सा॒स॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -107,7 +107,7 @@ genre M
 हे **इन्द्र** तव चित्ते यो भवेत् **त्वावसुम्**। त्वं वसुव्यपको यस्येति बहुव्रीहिः। **तं** जनं **कः** **मर्त्यः** **आ** **दधर्षति** आधर्षेत्। हे **मघवन्** **ते** त्वदर्थं यः **श्रद्धा** श्रद्धया युक्तः सन् **वाजी** हविष्मान् भवेत् **पार्ये** **दिवि** सौत्येऽहनि सः **वाजम्** अन्नं बलं वा **सिषासति** सेवते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,35 +118,35 @@ genre M
 Pārye **divi** **vājī** vājam siṣāsati = sautyeahani sa **haviṣmān** **annam** sevate
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What mortal will dare against him who has you as his  
 possession, Indra?  
 It is with trust in you, bounteous one, that on the decisive day the one  vying for the prize seeks to win the prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 śraddhā́is most likely instrumental, but its lack of contraction with the following vowel in the Saṃhitā text gives pause. See Oldenberg on this problem. 36 vājī́vā́jaṃ siṣāsati seems like a variant of gámad vā́jam vājáyan in 11a with different emphasis. See also 20a below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, what mortal will attack the man who hath his wealth in thee?  
      The strong will win the spoil on the decisive day through faith in thee, O Maghavan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Sterbliche, o Indra, wagt sich an den, der dich besitzt? Im Vertrauen auf dich, du Gabenreicher, sucht am entscheidenden Tage der Preiskämpfer den Siegerpreis zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Sterblicher, o Indra, kann dem dir ergebnen Schaden thun? Wer dir vertraut, o mächtiger, am Tag der Schlacht, gewinnet Beute, beutereich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой смертный, о Индра, посягнет  
 На того, кто владеет тобой?  

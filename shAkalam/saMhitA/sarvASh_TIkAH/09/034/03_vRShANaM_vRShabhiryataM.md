@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षाणं वृ꣡षभिर् यतं꣡  
 सुन्व꣡न्ति सो꣡मम् अ꣡द्रिभिः  
 दुह꣡न्ति श꣡क्मना प꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दु॒हन्ति॑ । शक्म॑ना । पयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣāṇaṃ* ← *vṛṣāṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
@@ -74,41 +74,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वृषाणं** रससेक्तारं **यतं** नियतं **सोमं** **वृषभिः** रसस्य वर्षकैः **अद्रिभिः** ग्रावभिः **सुन्वन्ति**। **शक्मना** कर्मणा **दुहन्ति** अध्वर्य्वादयः **पयः** सोमरसम् । सोमं पयो दुहन्तीति द्विकर्मकोऽयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They press the crushed **Soma** as it pours forth its juice between the effusing stones, they milk out its juice by their acts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull controlled by bulls, the soma, do they press with stones.  
 They milk out its milk with their skill.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 just cited, where ajyate could also belong to √aj ‘drive’, hence a 2nd reading “is driven together with the forms (of milk).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With stones they press the Soma forth, the Strong conducted by the strong:  
      They milk the liquor out with skill.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den von Bullen gezügelten Bullen, den Soma pressen sie mit Steinen aus; sie melken mit Geschick die Milch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Steinen pressen Soma sie, und Stiere lenken ihn, den Stier, Sie melken kräftig seinen Saft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они выжимают сому камнями,  
 Быка, направленного быками.  

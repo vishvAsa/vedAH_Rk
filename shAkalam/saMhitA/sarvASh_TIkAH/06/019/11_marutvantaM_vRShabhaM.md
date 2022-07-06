@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मरु꣡त्वन्तं वृषभं꣡ वावृधान꣡म्  
 अ꣡कवारिं दिवियं꣡ शास꣡म् इ꣡न्द्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उग्रं꣡ सहोदा꣡म् इह꣡ तं꣡ हुवेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 वि॒श्व॒ऽसह॑म् । अव॑से । नूत॑नाय । उ॒ग्रम् । स॒हः॒ऽदाम् । इ॒ह । तम् । हु॒वे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *marutvantaṃ* ← *marutvantam* ← *marutvat*
 - \[noun\], accusative, singular, masculine
@@ -113,36 +113,36 @@ genre M;; repeated line
 **इह** अस्मिन् यज्ञे **नूतनाय** अभिनवाय **अवसे** रक्षणाय **तं** प्रसिद्धम् **इन्द्रं** **हुवेम** स्तुमः। आह्वयामो वा । कीदृशम् । **मरुत्वन्तं** मरुद्भिर्युक्तं **वृषभं** कामानां वर्षितारं **ववृधानं** प्रवृद्धम् **अकवारिम्** अकुत्सितशत्रुं **दिव्यं** द्योतमानं **शासं** शासितारं **विश्वसहं** विश्वस्य लोकस्य अभिभवितारम् **उग्रम्** ओजस्विनं **सहोदां** बलप्रदम्।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke on this occasion for his present protection, that **Indra** who is attended by the **Maruts**; who is the showerer (of benefits); augmenting (in prowess); the unreviled of foes, radiant, ruling, all-subduing, fierce, the giver of strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, accompanied by the Maruts, the bull grown strong, not stingy, the  heavenly commander—Indra—  
 the all-conquering, mighty giver of strength—him we would invoke  here for present help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bull, whose strength hath waxed, whom Maruts follow, free-giving Indra, the Celestial Ruler,  
      Mighty, all-conquering, the victory-giver, him let us call to grant us new protection.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den erstarkten Bullen in Begleitung der Marutschar, der kein geiziger Herr ist, den himmlischen Gebieter Indra, den Allbezwinger, den gewaltigen Siegverleiher, den wollen wir zu erneutem Beistand hierher rufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Marutherrscher Indra, den erstarkten, der nimmer geizt, den himmlischen Gebieter, Den Allbesieger, starken Kraftverleiher, ihn rufen wir herbei zu neuer Hülfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Усилившегося быка, окруженного Марутами,  
 Нескаредного небесного правителя Индру,  

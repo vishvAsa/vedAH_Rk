@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वरा꣡ इवे꣡द् रैवता꣡सो हि꣡रण्यैर्  
 अभि꣡ स्वधा꣡भिस् तनु꣡वः पिपिश्रे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सत्रा꣡ म꣡हांसि चक्रिरे तनू꣡षु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 श्रि॒ये । श्रेयां॑सः । त॒वसः॑ । रथे॑षु । स॒त्रा । महां॑सि । च॒क्रि॒रे॒ । त॒नूषु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *varā* ← *varāḥ* ← *vara*
 - \[noun\], nominative, plural, masculine
@@ -118,42 +118,42 @@ genre M
 **वराइव** विवाहयोग्या युवान इव । ते यथा **रैवतासः** धनवन्तः **हिरण्यैः** हिरण्यमयैराभरणविशेषैः **स्वधाभिः** उदकैश्च **तन्वः** स्वीयानि शरीराणि **अभि** **पिपिश्रे** संयोजयन्ति अलंकुर्वन्ति तद्वदेते मरुतोऽपि रैवतासः धनवन्तः हिरण्यैः हिरण्यस्थानीयैर्विद्युदाख्यैराभरणैः स्वधाभिश्च तन्वः स्वीयानि शरीराणि पिपिश्रे । **श्रिये** शोभायै **श्रेयांसः** श्रेष्ठाः **तवसः** बलवन्तो मरुतः **रथेषु** **सत्रा** सत्यं सह वा **तनूषु** **महांसि** **चक्रिरे** कृतवन्तः । सर्वाभरणैरुदकैश्चोपेताः रथानधिष्ठाय शरीरेषु तेजांस्यधारयन्नित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like wealthy bridegrooms who have decorated their person ns with golden (ornaments) and purifying waters, so the noble and powerful **Maruts**, associated together in their chariots, have made great (preparation) in their several person ns for their embellishment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just like wooers coming from wealth, with golden (ornaments) they have  emblazoned their bodies through their own powers.  
 For splendor the very splendid ones, powerful on their chariots, all  
 together have furnished themselves marks of greatness on their bodies.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “marks of greatness” of the published translation follows Renou’s “signes-de-grandeur”; máhāṃsi must refer to something that can be visible on their bodies.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They, like young suitors, sons of wealthy houses, have with their golden natures decked their bodies.  
      Strong on their cars, the lordly Ones, for glory, have set their splendours on their forms for ever.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Freier aus reichem Hause haben sie mit Goldsachen, mit ihren Eigenheiten die Leiber verziert. Zur Schönheit haben die Schönsten, die Starken auf den Wagen ihre Herrlichkeiten allesamt an den Leibern angelegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Goldgeschmeide schmückten sie die Leiber nach ihrer Art, wie reichgeborne Freier; Die prangenden, die starken legten Lichtglanz an ihre Wagen und an ihre Leiber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно женихи из богатого дома, они украсили  
 (Свои) тела золотыми (предметами), обычными (для них).  

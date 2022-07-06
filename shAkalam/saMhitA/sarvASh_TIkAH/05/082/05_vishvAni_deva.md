@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वानि देव सवितर्  
 दुरिता꣡नि प꣡रा सुव  
 य꣡द् भद्रं꣡ त꣡न् न आ꣡ सुव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यत् । भ॒द्रम् । तत् । नः॒ । आ । सु॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
@@ -92,7 +92,7 @@ genre M
 हे सवितः **देव** त्वं विश्वानि दुरितानि परा सुव । यद्भदं प्रजापशुगृहादिकं तत् **नः** अस्मभ्यम् “ **सुव** अस्मदभिमुखं प्रेरय। ‘प्रजा वै भद्रं पशवो भद्रं गृहं भद्रम् ' इति हि श्रुतिः ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,29 +103,29 @@ genre M
 Bhadram = progeny, cattle, dwelling, **prajā** vai bhadram, **pasa**'vo bhadram, gṛham bhadram iti
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All difficulties impel away, god Savitar.  
 What is beneficial, that impel here to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Savitar, God, send far away all sorrows and calamities,  
      And send us only what is good.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Weise alle Gefahren ab, Gott Savitri. Was Glück bringt, das weise uns zu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das schaff uns her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все, о бог Савитар,  
 Бедствия прочь отзови,  

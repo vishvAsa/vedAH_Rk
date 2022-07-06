@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वैश्वानरा꣡य पृथुपा꣡जसे वि꣡पो  
 र꣡त्ना विधन्त धरु꣡णेषु गा꣡तवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡था ध꣡र्माणि सन꣡ता न꣡ दूदुषत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । हि । दे॒वान् । अ॒मृतः॑ । दु॒व॒स्यति॑ । अथ॑ । धर्मा॑णि । स॒नता॑ । न । दू॒दु॒ष॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaiśvānarāya* ← *vaiśvānara*
 - \[noun\], dative, singular, masculine
@@ -116,41 +116,41 @@ genre M
 विपोमेधाविनः स्तोतारः पृथुपाजसे बहुबलायबह्वन्नायवापाजः शब्दस्यबलान्ननाम्नोःपाठात् वैश्वानरायाग्नये धरुणेषुधर्मेषुयज्ञेषु रत्ना रमणीयानिस्तोत्राणि गातवे सन्मार्गलाभाय विधन्त परिचरन्तिकुर्वन्ति अमृतः मरणरहितोग्निः देवानदुवस्यति हविषाम्प्रदानेनपरिचरतिहिः प्रसिद्धौ अथअतःकारणात कोपिसनता सनातनानि धर्माणि यज्ञान् नदूदुषत् नदूषयति ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Intelligent (worshippers), offer to the powerful **Vaiśvānara** precious things at holy rites, that they may go (the way of the good), for the immortal **Agni** worships the gods; therefore, let no one violate eternal duties.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To honor Vaiśvānara of broad visage, our inspired words offer him  treasures so that he goes upon strong supports.  
 Since immortal Agni befriends the gods, therefore, from of old, he has  never corrupted the foundations (of the sacrifice).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him who shines afar, Vaisvanara, shall bards give precious things that he may go on certain paths:  
      For Agni the Immortal serves the Deities, and therefore never breaks their everlasting laws.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They have worshipped Vaisvânara with his broad stream of light with prayers 1 and treasures in order that he may walk on firm ground. For immortal Agni honours the gods, and from of old he has not violated the laws.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Vaisvanara von breiter Gestalt weihen sie die Redeperlen, um auf sicherem Grunde zu wandeln, denn der unsterbliche Agni bevorzugt die Götter, und er entweiht von jeher nicht die Satzungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Männerhort, der weithin schimmert, mögen weihn die Priester Gaben, dass er zu den starken geh'; Denn Agni ehrt die Götter der unsterbliche, und nimmermehr verletzt er ihre Ordnungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вайшванаре с широкой грудью они посвятили  
 Слова-сокровища, чтобы добраться до оснований (закона).  

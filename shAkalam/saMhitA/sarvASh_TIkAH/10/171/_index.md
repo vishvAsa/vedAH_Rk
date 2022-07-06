@@ -8,7 +8,7 @@ title = "+171"
 त्वं त्यम्' इति चतुर्ऋचं विंशं सूक्तं भृगुपुत्रस्येटस्यार्षं गायत्रमैन्द्रम् । अनुक्रान्तं च--- * त्वं त्यमिटो भार्गवो गायत्रम्' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 171 (997)  
 Indra  

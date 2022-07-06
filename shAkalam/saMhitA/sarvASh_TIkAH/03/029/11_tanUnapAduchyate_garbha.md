@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡नून꣡पाद् उच्यते ग꣡र्भ आसुरो꣡  
 न꣡राशं꣡सो भवति य꣡द् विजा꣡यते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वा꣡तस्य स꣡र्गो अभवत् स꣡रीमणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 मा॒त॒रिश्वा॑ । यत् । अमि॑मीत । मा॒तरि॑ । वात॑स्य । सर्गः॑ । अ॒भ॒व॒त् । सरी॑मणि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tanūnapād* ← *tanūnapāt*
 - \[noun\], nominative, singular, masculine
@@ -117,7 +117,7 @@ genre D
 योऽग्निर्यदा **गर्भः** अरणीषु गर्भरूपतया वर्तते तदा सोऽग्निः **तनूनपादुच्यते** । यष्टॄणां तनूः शरीराणि न पातयति न दहतीति व्युत्पत्तेः । यद्वा तनूशब्देनापोऽभिधीयन्ते नपाच्छब्देनैकान्तरिताः प्रजाः । तथा च अपां नप्ता । कथमेतत्। आपस्तता अन्तरिक्षे । ताभ्य ओषधिवनस्पतयो जायन्ते । तेभ्यो ह्येष इति । **यत्** यदा **विजायते** विशेषेण प्रत्यक्षतया जायते तदा **आसुरः** कर्मविघ्नकारिणामसुराणां हन्ता अत एव **नराशंसः** नरैः कर्मणां नेतृभिरध्वर्य्वादिभिः शंसनीयो **भवति** । **यत्** यदा **मातरि** अन्तरिक्षे स्वं तेजः **अमिमीत** निर्मिमीते तदा **मातरिश्वा** भवति । मातरि अन्तरिक्षे श्वसिति चेष्टते इति व्युत्पत्तेः । एवंविधस्याग्नेः **सरीमणि** सरणे शीघ्रगमने **वातस्य** वायोः **सर्गः** सृष्टिः **अभवत्** भवति । यदाग्निररणीषु गर्भरूपतया वर्तते तदा तनूनपान्नामको भवति । यदा जायते तदा नराशंसनामको भवति । यदान्तरिक्षे विद्योतते तदा मातरिश्वनामको भवतीति ॥ तनूनपात् ।' तनु विस्तारे । 'कृषिचमितनिधनिसर्जिखर्जिभ्य ऊः' इति ऊप्रत्ययः । व्यत्ययेनाद्युदात्तः । नपात् । ‘पा रक्षणे  ‘ पत्लृ गतौ ' वा ण्यन्तः। क्विप् । न पाति न पातयतीति वा नपात्। 'नभ्राण्नपान्नवेदा' इत्यादिना निपातनात्  नञः प्रकृतिभावः। नञ्स्वरः। तनूर्न पातीति तनूनपात् । कृदुत्तरपदप्रकृतिस्वत्वे प्राप्ते  ‘ उभे वनस्पत्यादिषु युगपत् ' इति उभयपदप्रकृतिस्वरत्वम् । आसुरः । असुरस्यायमासुरः । अहितकारित्वेन संबन्धी । तस्येदम्' इत्यण् । प्रत्ययस्वरः । नराशंसः। ‘नॄ नये'।' ऋदोरप्' इत्यप् । प्रत्ययस्य पित्त्वान्नरशब्द आद्युदात्तः ।  ‘ शंसु स्तुतौ ' इत्यस्मात् घञन्त आद्युदात्तः । नरशब्दस्य  ‘ अन्येषामपि दृश्यते ' इति दीर्घः । वनस्पत्यादित्वादुभयोः प्रकृतिस्वरत्वम् । विजायते । जनी प्रादुर्भावे'। दिवादित्वात् श्यन् । धातुस्वरः । अमिमीत । • माङ् माने शब्दे च '। जुहोत्यादिः । ‘भृञामित्' इत्यभ्यासस्येत्वम् । यद्योगादनिघातः । सरीमणि ।  ‘ सृ गतौ ' । हृभृसृस्तृसूभ्यः ' ( उ. सू. ४. ५८७ ) इति ईमनिन्प्रत्ययः । नित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,34 +130,34 @@ genre D
 Mātariśvan = who breathes, śvasiti, in the material atmosphere mātari
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is called Tanūnapāt as the embryo belonging to the lord [=the upper  churning stick?]. He becomes Narāśaṃsa when he is born,  
 and Mātariśvan when he has assumed his measure in his mother. He  became the rush of the wind in leaping forth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Germ Celestial he is called Tanunapat, and Narasamsa born diffused in varied shape.  
      Formed in his Mother he is Matarisvan; he hath, in his course, become the rapid flight of wind.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He is called Tanûnapât as the Asura's germ. Narâsamsa he becomes when he is born, Mâtarisvan when he has been shaped in the mother 1. And he has become the rush of the wind in his swift course 2,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tanunapat heißt der Asurische als Leibesfrucht, zum Narasamsa wird er, wenn er geboren wird, Matarisvan, wenn er in der Mutter sich bildete. Zum Windstrom ward er in seinem Laufe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sohn seiner selbst, so heisst er als himmlischer Spross, der Männerliort wird er, wenn er [im Opfer] gehören wird, Mutter- spross wenn er gebildet wird in der Mutter Leib, des Windes Strom wird er, wenn er in der Luft strömt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Танунапат – зовется отпрыск Асуров;  
 Нарашансой становится он, когда рождается;  

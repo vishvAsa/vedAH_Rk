@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ य꣡द् इषो꣡ व꣡नामहे  
 सं꣡ हव्या꣡ मा꣡नुषाणा᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ऋत꣡स्य रश्मि꣡म् आ꣡ ददे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒त । द्यु॒म्नस्य॑ । शव॑सा । ऋ॒तस्य॑ । र॒श्मिम् । आ । द॒दे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -100,7 +100,7 @@ genre M
 **यत्** यदा **इषः** अन्नानि **सं** **वनामहे** संभजामहे । यदी च **मानुषाणां** मनुष्याणाम् अस्माकं **हव्या** हवींषि अग्निः **सं** सेवते **उत** तदानीं **द्युम्नस्य** द्योतमानस्यान्नस्य **शवसा** बलेन सामर्थ्येन **ऋतस्य** उदकस्य ग्राहकं **रश्मिमा** **ददे** आदत्तेऽग्निः । फलजनकं तेजः स्वीकृतवान् इत्यर्थः । यद्वा । **ऋतस्य** यज्ञस्य रश्मिं रश्मिवत् ग्राहकं स्तवम् आ ददे स्वीकरोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,34 +111,34 @@ genre M
 Ṛtasya raśmim ādade: the ray is the apprehender or absorber, **grāhaka**, of water; alluding to the production of rain as the result of burnt-offerings; or he becomes endowed with the energy genitive rative or the reward of the sacrifice, phalajanakam svīkṛtavān; or, he accepts the praise, as it were, thelustre or ray of the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When we get together the refreshments and together the oblations of the  sons of Manu,  
 he for his part has taken the rein of truth with the vast power of his  brilliance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When we present to him the food and sacrificial gifts of men,  
      He by the might of splendour grasps the holy Ordinance's rein.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When we get together the food and the offerings of men, he has grasped, with the strength of his splendour, the rein of Rita.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir die Labungen, die Opfer der Menschen zusammenbringen, dann ergreift auch er Kraft seines Glanzes den Zügel des rechten Brauchs.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn wir der Menschen Tränke ihm und ihre Opfergüsse weihn, Ergreift des Glanzes Zügel er, des Gottesdienstes mit Gewalt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда мы вместе приготовим жертвенные услады,  
 Вместе жертвы людей,  

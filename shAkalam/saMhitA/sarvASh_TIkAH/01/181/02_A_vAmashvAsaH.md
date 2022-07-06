@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वाम् अ꣡श्वासः शु꣡चयः पयस्पा꣡  
 वा꣡तरंहसो दिविया꣡सो अ꣡त्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡ह꣡ स्वरा꣡जो अश्वि꣡ना वहन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒नः॒ऽजुवः॑ । वृष॑णः । वी॒तऽपृ॑ष्ठाः । आ । इ॒ह । स्व॒ऽराजः॑ । अ॒श्विना॑ । व॒ह॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -121,37 +121,37 @@ genre M
 अश्विनौ शोभनाश्वयुक्तौ **वां** युवाम् **अश्वासः** युष्मदीयाः **इह** अस्मिन् यज्ञे **आ** **वहन्तु** प्रापयन्तु । अवशिष्टानि अश्वविशेषणानि । कीदृशास्ते । **शुचयः** शुद्धा दीप्ता वा **पयस्पाः** वृष्ट्युदकस्य पातारः **वातरंहसः** वायुवेगाः दिव्याः दिविभवाः **अत्याः** अतनशीलाः **मनोजुवः** मनोजवाः **वृषणः** वर्षकाः युवान इत्यर्थः । **वीतपृष्ठाः** कान्तपृष्ठाः वपुष्मन्त इत्यर्थः । **स्वराजः** स्वयमेव राजमानाः। ईदृशा भवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, may your horses, pure, rain-drinking, swift as the wind, heaven-born, quick-moving, fleet as thought, vigorous, well-backed, and self-irradiating, bring you hither.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your blazing, milk-drinking horses, the heavenly steeds whose speed is  the wind’s,  
 the mind-swift, straight-backed bulls—let (those) self-ruling  
 [/self-directing] ones convey you Aśvins here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May your pure steeds, rain-drinkers, bring you hither, swift as the tempest, your celestial coursers,  
      Rapid as thought, with fair backs, full of vigour, resplendent in their native light, O Asvins.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Rosse, die reinen, Milch trinkenden, windschnellen himmlischen Rennpferde, die gedankenschnellen, bullenartigen mit geradem Rücken, die selbstherrlichen sollten die Asvin hierher fahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Her mögen euch die lichten Rosse fahren, rasch wie der Wind, des Himmels muntre Renner, Gedankenschnell die Hengste, glatt am Rücken, Milch trinkend selbsterstrahlend, o ihr Ritter!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваши кони, чистые, пьющие молоко,  
 Быстрые, как ветер, небесные скакуны,  

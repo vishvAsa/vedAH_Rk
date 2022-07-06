@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नॄणा꣡म्+ उ त्वा नृ꣡तमं गीर्भि꣡र् उक्थइ꣡र्  
 अभि꣡ प्र꣡ वीर꣡म् अर्चता सबा꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡मो अस्य प्रदि꣡व ए꣡क ईशे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम् । सह॑से । पु॒रु॒ऽमा॒यः । जि॒ही॒ते॒ । नमः॑ । अ॒स्य॒ । प्र॒ऽदिवः॑ । एकः॑ । ई॒शे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
@@ -128,21 +128,21 @@ genre M
 हे इन्द्र **सबाधः** । रक्षोघ्नमन्त्रोच्चारणेन तद्विषयबाधया सह वर्तन्त इति सबाधः ऋत्विजः । **नृणां** **नृतमं** मनुष्याणामतिशयेन स्वस्वकर्मणि नेतारं **वीरं** सामर्थ्योपेतं **त्वा** त्वां **गीर्भिः** स्तुतिसाधनभूतैर्वाक्यैः **उक्थैः** शस्त्रैश्च **अभि** आभिमुख्येन **प्र** **अर्चत** प्रकर्षेणार्चन्ति । **पुरुमायः** वृत्रहननादिबहुकर्मा स इन्द्रः **सहसे** बलाय **सं** **जिहीते** गमनोद्यमं करोति । किंच **प्रदिवः** पुरातनः **एकः** असहायः स इन्द्रः **नमः** नमसः **अस्य** हविर्लक्षणस्यान्नस्य **ईशे** इष्टे । यद्वा अस्य सर्वस्य जगत ईष्टे । तस्मै इन्द्राय नमः ॥ नृणाम् । नामन्यतरस्याम् ' इति विभक्तेरुदात्तत्वम् । अर्चत । अर्चतेर्लटि झेस्तादेशः ‘ तिङां तिङो भवन्ति' इति वचनात् । सबाधः । ‘ बाधृ विलोडने '। क्विप् । ‘ वोपसर्जनस्य ' इति सहस्य सत्वम् । कृदुत्तरपदस्वरः । पुरुमायः । ‘ अन्तोदात्तप्रकरणे त्रिचक्रादीनामुपसंख्यानम् ' इत्यन्तोदात्तत्वम् । ईशे । ‘ ईश ऐश्वर्ये ' इत्यस्य लटि • लोपस्त आत्मनेपदेषु' इति तलोपः । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The priests glorify you, heroic leader of men, with praises and with prayers; **Indra**, the author of many delusions, exerts himself for (the acquisition of) strength; he from of old is the lord of this (oblation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You [=Indra], the most manly of men—you [=singers], recite to the hero  forcefully with songs, with hymns.  
 Possessing many magical powers, he compacts himself together for  
 might. Reverence is his. From olden days he alone is lord.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though this vs. begins a new tṛca in a different meter, it partially restores the syntactic structure of vss. 1-2: the first pāda presents Indra in the acc., the second one directs praises to him. Note also that nṛṇā́m … nṛ́tamam picks up náram of 2a.
 
@@ -153,23 +153,23 @@ This leads both Geldner and Renou to separate the two pādas: Geldner pronounces
 Pāda d consists of two clauses, the nominal námo asya and the short verbèd clause pradíva éka īśe, and so, contra Grassmann’s suggestion (s.v. īś, col. 236, #8), the verb doesn’t take an acc. here. For supposed exx. of √īś with the acc., see comm. ad VII.32.18.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee, valorous, most heroic of the heroes, shall the priests glorify with songg and praises.  
      Full of all wondrous power he goes to conquest: worship is his, sole Lord from days aforetime.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den mannhaftesten der Männer, mit Reden, mit Liedern - besinget inbrünstig den Helden! Er rührt sich zum Siege, der Verwandlungsreiche. Ehre sei ihm, er allein ist von jeher der Herr!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besinget nun den männlichsten der Männer, mit Spruch und Lied den Helden recht bestürmend; Es rüstet sich zum Sieg der Zauberreiche; Verehrung ihm; von jeher herrscht allein er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, самого мужественного из мужей, в песнях, в гимнах –  
 Воспевайте героя неустанно!  

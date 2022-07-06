@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वं सत्य꣡म् मघवाना युवो꣡र् इ꣡द्  
 आ꣡पश् चन꣡ प्र꣡ मिनन्ति व्रतं꣡ वाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡न्नं यु꣡जेव वाजि꣡ना जिगातम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अच्छ॑ । इ॒न्द्रा॒ब्र॒ह्म॒ण॒स्प॒ती॒ इति॑ । ह॒विः । नः॒ । अन्न॑म् । युजा॑ऽइव । वा॒जिना॑ । जि॒गा॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
@@ -124,7 +124,7 @@ genre M
 हेमघवाना मघमितिधननाम तद्वन्ताविन्द्राब्रह्मणस्पती युवोरित् युवयोरेव विश्वंसर्वं स्तोत्रं सत्यं यथार्थं स्तुत्यायद्यद्गुणजातं प्रतिपाद्यते तत्सर्वंयुवयोर्विद्यमानमेव नत्वारोपितमित्यर्थः तथाचनेत्ये तत्पदद्लयसमुदायः ऎकपद्यन्त्वाध्यापकसाम्प्रदायिकं यद्येवशब्दस्यपूर्वपदेन आपश्चआपोपिउपलक्षण मेतत् एतदुपलक्षितानिसर्वाण्यपिभूतानिवांयुवयोर्व्रतं कर्मनप्रमिनन्तिनहिंसन्ति मीङ् हिंसायाम् क्रैयादिकः मीनातेर्निगमइतिह्रस्वत्वम् हेइन्द्राब्रह्मणस्पती नोस्माकंहविरच्छाभिमुख्येन जिगातङ्गच्छ तम् आगच्छतमितियावत् जिगातिर्गतिकर्मा जौहोत्यादिकः तत्रदृष्टान्तः—युजेववाजिना युजारथेनि युक्तौवाजिनौ वेजनवन्तावश्वौअन्नङ्घासं प्रतियथास्वयमेवशीघ्रङ्गछतस्तद्वत् शीघ्रमागच्छतमित्यर्थः युजेवेत्यत्रसुपांसुलुगितिप्रथमाद्विवचनस्याकारः तृतीयायांहिसावेकाचइतिविभक्तेरुदात्तत्वम् ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 The waters injure not your rites: āpaśca na praminanti vratam vām: āpaḥ = by metonymy, for all human beings, sarvāṇi bhūtani
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All that is real belongs just to you two, o generous ones. Even the waters  do not confound your commandment.  
 O Indra, o lord of the sacred formulation, do you two come here to our  offering, like two prize-winning yokemates to their food.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From you, twain Maghavans, all truth proceedeth: even the waters break not your commandment.  
      Come to us, Brahmanaspati and Indra, to our oblation Iiie yoked steeds to fodder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch beiden geht alles in Erfüllung, ihr Gabenreiche. Auch die Gewässer übertreten nicht euer Gebot. Kommt, Indra und Brahmanaspati, zu unserem Opfer wie zwei siegreiche Verbündete zum Mahle!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch mächt'gen beiden eignet alles Gute, auch die Gewässer stören eur Gesetz nicht; euch, Indra und Gebets Herr, gilt das Opfer; zu unsrer Speise kommt wie reiche Freunde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все истинно только благодаря вам двоим, о щедрые!  
 Даже воды не нарушают вашего завета.  

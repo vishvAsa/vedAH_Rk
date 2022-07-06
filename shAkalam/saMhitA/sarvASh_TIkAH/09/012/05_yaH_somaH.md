@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ सो꣡मः कल꣡शेषु आँ꣡  
 अन्तः꣡ पवि꣡त्र आ꣡हितः  
 त꣡म् इ꣡न्दुः प꣡रि षस्वजे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तम् । इन्दुः॑ । परि॑ । स॒स्व॒जे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** **सोमः** **कलशेषु** कुम्भेषु **आ** आस्ते यश्च **पवित्र** पवित्रस्य **अन्तः** मध्ये **आहितः** निहितः **तं** स्वांशभूतं सोमम् **इन्दुः** सोमो देवः **परि** **षस्वजे** प्रविशति ॥ ॥ ३८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,37 +96,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Indu has embraced: Indu embraces the Soma which is a portion of himself-- the deity seems to be thus opposed to the mere Soma in its early forms
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma that is in the tubs, that is placed within the filter,  
 that does the drop embrace.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. seems to posit a distinction between two somas: one, called sóma-, that is in containers and on the filter and another, called índu- ‘drop’, that embraces / surrounds (pári ṣasvaje) the first. What distinguishes them is difficult to discern; Geldner suggests that the “nachrinnende” Soma is taken in by the pressed juice, but this doesn’t seem to make ritual sense, since the soma in the tubs and on the filter would already have been pressed as well.
 
 Lüders, predictably, thinks the heavenly soma incorporates the earthly soma. Say identifies índu- as the god Soma (somo devaḥ). Of the various possibilities, Sāyaṇa’s seems the most plausible -- that is, Soma the god encompasses all the forms that soma the substance takes in the course of ritual processing, though physically that substance is somewhat different at every stage. I also considered the possibility -- given the occasional identification and frequent juxtaposition of índu- and índra- -- that índu- here refers to Indra, and “embrace” is a metaphor for “drink, consume.” But I’d prefer to keep índu- separate from Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In close embraces Indu holds Soma when  
      poured within the jars.  
      And on the. purifying sieve.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Soma, der in den Krügen auf die Seihe gesetzt ward, den hält der Saft umfangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma, der in Schalen, ruht, und welcher durch die Seihe rinnt, Nimmt Indu auf in seinen Arm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома, который помещен  
 Внутри кувшинов, в цедилку, –  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡त्रीभिर् अस्मा अ꣡हभिर् दशस्येत्  
 सू꣡र्यस्य च꣡क्षुर् मु꣡हुर् उ꣡न् मिमीयात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यमी꣡र् यम꣡स्य बिभृयाद् अ꣡जामि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दि॒वा । पृ॒थि॒व्या । मि॒थु॒ना । सब॑न्धू॒ इति॒ सऽब॑न्धू । य॒मीः । य॒मस्य॑ । बि॒भृ॒या॒त् । अजा॑मि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rātrībhir* ← *rātrībhiḥ* ← *rātri*
 - \[noun\], instrumental, plural, feminine
@@ -110,7 +110,7 @@ popular
 **रात्रिभिः** **अहभिः** अहोरात्रयोः **अस्मै** यमाय कल्पितं भागं सर्वो यजमानः **दशस्येत्** प्रयच्छतु । **सूर्यस्य** संबन्धि **चक्षुः** तेजः **मुहुः** मुहुः अस्मै यमाय **उन्मिमीयात्** उदेतु। **दिवा** **पृथिव्या** द्यावापृथिवीभ्यां सह **मिथुना** मिथुनौ **सबन्धू** समानबन्धू अहोरात्रे अस्मै यमाय । एतज्ज्ञात्वा इयं **यमीः** **यमस्य** **अजामि** अभ्रातरं **बिभृयात्** धारयतु । यानेन परिगृह्णात्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ popular
 Yama will adhere: or, may **Yamī** bear patiently Yama's unbrotherly (refusal)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yamī:] Night and day she would do service to him. She could for an  instant trip up the eye of the sun.  
 The couple has the same (kin-)ties as Heaven and Earth. Yamī could  bear the unbrotherly (act) of Yama.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Surya's eye with days and nights endow him, and ever may his light spread out before him.  
      In heaven and earth the kindred Pair commingle. On Yam! be the unbrotherly act of Yama.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie würde ihm Tag und Nacht gefällig sein, sie würde für ein Weilchen das Auge der Sonne täuschen. Mit Himmel und Erde steht das Paar in gleichem Verwandtschaftsverhältnis. Yami würde des Yama ungeschwisterliches Tun auf sich nehmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Sie will bei Tag und Nacht ihm gern bereit stehn, der Sonne Auge mög' ein Weilchen schlummern, Gleich Erd' und Himmel paaren sich Geschwister; gern will des Jama Blutschuld Jamī tragen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ночами и днями она услаждала бы его.  
 В (один) миг обманула бы глаз солнца.  

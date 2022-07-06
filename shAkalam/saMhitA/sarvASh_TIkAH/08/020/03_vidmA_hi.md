@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्मा꣡ हि꣡ रुद्रि꣡याणां᳐  
 शु꣡ष्मम् उग्र꣡म् मरु꣡तां᳐ शि꣡मीवताम्  
 वि꣡ष्णोर् एष꣡स्य मीळ्हु꣡षाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 विष्णोः॑ । ए॒षस्य॑ । मी॒ळ्हुषा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -81,7 +81,7 @@ genre M
 **रुद्रियाणां** रुद्रपुत्राणां **शिमीवतां** कर्मवतां **विष्णोः** व्याप्तस्य **एषस्य** एषणीयस्य वृष्ट्युदकस्य **मीळ्हुषां** सेक्तॄणां **मरुताम्** **उग्रम्** उद्गूर्णं **शुष्मं** बलं **विद्म** **हि** जानीमः खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ genre M
 Shedder: viṣṇor mīḷhuṣām = vyāptasya eṣaṇīyasya vṛṣṭyudakasya eṣasya sektṛṇām
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For we know the mighty forcefulness of the Rudrian Maruts, the  strenuous ones,  
 of quick Viṣṇu, of the ones who grant rewards.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ Pādas 3a, 3c, and 4a all begin with vi, with the last example doubled ví (d)v�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For well we know the vigorous might of Rudra's Sons, the Martits, who are passing strong,  
      Swift Visnu's band, who send the rain.,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wir kennen den gewaltigen Ungestüm der Rudrasöhne, der wütigen Marut, des raschen Vishnu, der freigebigen Herren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir kennen ja die starke Kraft der regen Rudra's, der gewog'nen Marutschar, Des schnellen Vischnu holder Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь мы знаем грозный  
 Пыл сыновей Рудры, порывистых Марутов,  

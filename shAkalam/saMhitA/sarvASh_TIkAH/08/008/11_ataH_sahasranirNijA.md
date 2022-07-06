@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡तः सह꣡स्रनिर्णिजा  
 र꣡थेना꣡ यातम् अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡शंसीत् कावियः꣡ कविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 व॒त्सः । वा॒म् । मधु॑ऽमत् । वचः॑ । अशं॑सीत् । का॒व्यः । क॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ataḥ* ← *atas*
 - \[adverb\]
@@ -98,7 +98,7 @@ genre M
 हे **अश्विना** अश्विनौ येषु लोकेषु यत्र वर्तेथे **अतः** अस्मात्स्थानात् **सहस्रनिर्णिजा** । निर्णिगिति रूपनाम । स्वर्णमयतया बहुविधरूपयुक्तेन **रथेन** **आ** **यातम्** आगच्छतम् । **काव्यः** कवेः पुत्रः **कविः** मेधावी **वत्सः** ऋषिः **वां** युवाभ्यां युवयोरर्थं **मधुमत्** माधुर्योपेतं **वचः** वचनमुक्थम् **अशंसीत्** शंसितवान् । यत एवमत आगच्छतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,29 +109,29 @@ genre M
 Son of Kavi: **vatsaḥ** **kāvyaḥ**: kāvyaḥ = kavehputraḥ, son of the sae, i.e. of **Kaṇva**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From there drive here with your chariot with its thousandfold raiment,  o Aśvins.  
 Vatsa has recited for you his honeyed speech—he a poet, son of a poet.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come thence, O Asvins, on your car that hath a thousand ornaments:  
      Vatsa the sage, the sage's son, hath sung a song of sweets to you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dort kommet auf eurem tausendfarbigen Wagen, o Asvin! Vatsa hat zu euch ein süßes Wort gesprochen, der seherische Seher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dort, o Ritter, kommt herbei auf reichgeschmücktem Wagen nun, Gesungen hat ein süsses Lied der weise Seher Vatsa euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Оттуда приезжайте, о Ашвины,  
 На тысячецветной колеснице!  

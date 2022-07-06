@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ स्वाना꣡सो र꣡था इव  
 अ꣡र्वन्तो न꣡ श्रवस्य꣡वः  
 सो꣡मासो राये꣡ अक्रमुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमा॑सः । रा॒ये । अ॒क्र॒मुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **प्र** **स्वानासः** अभिषववेलायामुपरवेषु शब्दं कुर्वन्तः **सोमासः** सोमाः **रथाइव** यथा शब्दं कुर्वन्तो रथा: **अर्वन्तो** **न** यथा शब्दं कुर्वन्तोऽश्वाः तथा **श्रवस्यवः** शत्रुभ्योऽन्नमिच्छन्तः **राये**। यजमानानां धनाय **अक्रमुः** आगच्छन् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,34 +90,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Somāsaḥ = desiring to seize food from their enemies; taken with arvantaḥ, it is translated 'or like glory-seeking steeds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While being pressed, the soma juices, resounding like chariots, seeking  fame like chargers,  
 have marched forth for wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 svānā́saḥ can be both the nom. pl. masc. of the adj. svāná- ‘resounding’ (√svan) and the med. rt. aor. part. to √su ‘press’, in passive usage as is usual for this part. I consider the ambiguity intentional and render it twice (“while being pressed … resounding”), but although both Geldner (n. 1a) and Renou (with more fuss) recognize the double identity, they render only the ‘resound’ sense that is appropriate to the simile.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LIKE cars that thunder on their way, like coursers eager for renown,  
      Have Soma-drops flowed forth for wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dröhnend wie die Wagen, ruhmbegierig wie die Rennpferde haben sich die Somasäfte in Lauf gesetzt, um Reichtum zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Wagen rasselnd eilten sie, wie Renner strebend nach dem Ziel, Die Soma's zu den Schätzen hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вперед выступили соки сомы ради богатства,  
 Словно грохочущие колесницы,  

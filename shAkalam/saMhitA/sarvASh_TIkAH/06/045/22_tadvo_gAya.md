@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् वो गाय सुते꣡ स꣡चा  
 पुरुहूता꣡य स꣡त्वने  
 शं꣡ य꣡द् ग꣡वे न꣡ शाकि꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शम् । यत् । गवे॑ । न । शा॒किने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -90,19 +90,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे स्तोतारः **वः** यूयं **सुते** अभिषुते सोमे सति **पुरुहूताय** बहुभिर्यजमानैराहूताय **सत्वने** शत्रूणां सादयित्रे धनानां वा सनित्रे दात्रे इन्द्राय **तत्** स्तोत्रं **सचा** सह संहता भूत्वा **गाय** गायत । **यत्** स्तोत्रं **शाकिने** शक्तिमते इन्द्राय **शं** सुखकरं भवति **गवे** **न** । यथा गवे यवसं सुखकरं तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing praises, when your libation is poured out, to him who is the invoked of many, the subduer (of foes), giving him gratification, like (fresh pasture) to cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing this at the pressing to the warrior called upon by many, (this) that is weal for the able one as if for a cow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda contains the common locution in which a poet addresses himself in the sg., but makes a nod to his ritual colleagues in the 2nd pl.: tád vo gāya.
 
@@ -123,23 +123,23 @@ This tṛca concerns itself with cows, picking up gómadbhir gopate from the end
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 तद्वो॑ गाय सु॒ते सचा॑ पुरुहू॒ताय॒ सत्व॑ने ।  
 शं यद्गवे॒ न शा॒किने॑ ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das singe bei dem Somasaft eurem vielgerufenen Krieger, was ihm wohltut, der kräftig wie ein Stier ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das sing' ich eurem tapferen, beim Soma vielgerufenen, Was heilsam ist dem starken Stier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У выжатого (сомы) пой о том вашему  
 Многопризываемому воину,  

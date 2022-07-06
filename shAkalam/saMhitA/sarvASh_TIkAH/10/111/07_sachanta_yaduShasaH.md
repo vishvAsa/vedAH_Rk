@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡चन्त य꣡द् उष꣡सः सू꣡रियेण  
 चित्रा꣡म् अस्य केत꣡वो रा꣡म् अविन्दन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡नर् यतो꣡ न꣡किर् अद्धा꣡ नु꣡ वेद
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । यत् । नक्ष॑त्रम् । ददृ॑शे । दि॒वः । न । पुनः॑ । य॒तः । नकिः॑ । अ॒द्धा । नु । वे॒द॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sacanta* ← *sac*
 - \[verb\], plural, Present injunctive
@@ -133,36 +133,36 @@ genre M
 **यत्** यदा **उषसः** उषःकालाः **सूर्येण** सूर्यात्मकेनेन्द्रेण **सचन्त** संगच्छन्ते ।  ‘ सच समवाये । भौवादिकः । तदानीम् **अस्य** स्वभूताः **केतवः** सर्वस्य प्रज्ञापका रश्मयः **चित्रां** नानावर्णां **रां** रायं श्रियम् **अविन्दन्** अलभन्त । **पुनः** उदयानन्तरं **यत्** यदा **दिवः** **नक्षत्रं** **न** **ददृशे** न दृश्यते ॥ दृशेः कर्मणि लिट् । यद्योगादनिघातः ॥ तदानीं **यतः** ॥ इणः शत्रन्तस्य शसि शतुरनुमो नद्यजादी' इति विभक्तेरुदात्तत्वम् ॥ सर्वत्र गच्छतोऽस्य रश्मीन् **नकिः** न कश्चित् **नु** **वेद** जानाति । एतत् **अद्धा** सत्यमेव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the dawns are associated with the sun, his rays acquire wonderful beauty; but when theconstellation of heaven is not seen, no one really knows (his rays) as he moves.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the Dawns kept company with the Sun, their beacons found his  glittering gift,  
 the heavenly body that appeared here from heaven. No! No one really  knows about its going (away) again.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the Dawns come attendant upon Surya their rays discover wealth of divers colours.  
      The Star of heaven is seen as 'twere approaching: none knoweth aught of it as it departeth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als sich die Usas mit dem Sonnengotte zusammentaten, da fanden dessen Strahlen den wunderbaren Reichtum. Wenn das kommende Tagesgestirn noch nicht sichtbar geworden ist, weiß niemand etwas Sicheres von dem wieder Gehenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn sich die Morgen mit der Sonne nahen, dann glänzt ihr Licht von hellem Farbenreichthum, Wenn sie gesehn wird als Gestirn des Himmels, doch niemand weiss von ihr, wenn sie zurückgeht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда утренние зори соединились с солнцем,  
 Его лучи нашли яркое богатство.  

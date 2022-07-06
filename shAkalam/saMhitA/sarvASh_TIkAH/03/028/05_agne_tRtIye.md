@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने तृती꣡ये स꣡वने हि꣡ का꣡निषः  
 पुरोळा꣡शं सहसः सूनव् आ꣡हुतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 धा꣡ र꣡त्नवन्तम् अमृ꣡तेषु जा꣡गृविम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अथ॑ । दे॒वेषु॑ । अ॒ध्व॒रम् । वि॒प॒न्यया॑ । धाः । रत्न॑ऽवन्तम् । अ॒मृते॑षु । जागृ॑विम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -115,7 +115,7 @@ popular
 **सहसः** **सूनो** बलस्य पुत्र हे **अग्ने** त्वं **तृतीये** **सवने** **आहुतं** हूयमानं **पुरोडाशं** **कानिषः** कामयसे । **अथ** अनन्तरम् **अध्वरम्** अविनाशिनं **रत्नवन्तम्** । रत्नशब्देन स्वर्गादिलक्षणमुत्तमं फलमभिधीयते । तद्वन्तं फलप्रदं **जागृविं** जागरणकारिणम् । प्रातः सोमो जागृविर्भवति स्वप्ननिवारक इति । तमिमं सोमं **विपन्यया** स्तुतिलक्षणया वाचा स्तुतस्त्वम् **अमृतेषु** मरणधर्मरहितेषु **देवेषु** इन्द्रादिषु **धाः** धेहि। **हि** पूरणः । तृतीये। त्रिशब्दात्पूरणार्थे ' त्रेः संप्रसारणम् । (पा.सू. ५. २. ५५) इति तीयप्रत्ययः । तत्संनियोगेन संप्रसारणम् । हलः' इति दीर्घो न भवति । अणिति(? अणः इति; पा. सू. ६. ३. १११ ) तत्रानुवर्तनात् प्रत्ययस्वरः । कानिषः । कनी कान्त्यादिषु । लेटि  ‘ सिब्बहुलम् ' इति सिप् । तस्यार्धधातुकत्वादिडागमः । कान्तिरभिलाषः । अकारस्य आकारो व्यत्ययेन । हियोगादनिघातः । धातुस्वरः । विपन्यया । ‘पन स्तुतौ ' । भावे क्विप् । विपनं यतीति कप्रत्ययः । प्रत्ययस्वरः । धाः । दधातेः धातोः  छान्दसे लुङि रूपम् । पादादित्वादनिघातः । जागृविम् । क्विन्प्रत्ययान्तो जागृविशब्दः । नित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,35 +126,35 @@ popular
 Awakening oblation: jāgṛvim; the **Soma** is offered at dawn is termed jāgṛvi, the sleep-dispelling, svapnanivārakaḥ; but, the reference here is to the third or evening worship
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, since at the Third Pressing you will take pleasure in the  
 sacrificial cake offered you, o son of strength,  
 then (establish) the rite among the gods, amid their admiration; establish  it, bearing treasure and wakeful, among the immortals.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, at the third libation takewith joy the offered cake of sacrifice, thou, Son of Strength.  
      Through skill in song bear to the Gods our sacrifice, watchful and fraught with riches, to Immortal God.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, at the third libation take joyfully the sacrificial cake, O son of strength, which has been offered. And in thy admirable way place our wakeful sacrifice, blessed with treasures, before the immortal gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, so mögest du denn bei der dritten Spende den geopferten Reiskuchen genehmigen, du Sohn der Stärke. Und bring das Opfer unter Beifall zu den Göttern, das kostbare, das auf die Götter wartet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim dritten Mahl', o Agni, lass dir munden nun den dargereichten Kuchen, o du Sohn der Kraft bring zu den Göttern liederregt das Opfer hin, das schatzbegabte, wache, den Unsterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, раз на третьем выжимании (сомы) тебе понравилась.  
 О сын силы, рисовая лепешка, политая (сомой),  

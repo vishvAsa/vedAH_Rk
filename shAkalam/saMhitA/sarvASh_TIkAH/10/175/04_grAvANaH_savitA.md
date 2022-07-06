@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग्रा꣡वाणः सविता꣡ नु꣡ वो  
 देवः꣡ सुवतु ध꣡र्मणा  
 य꣡जमानाय सुन्वते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 यज॑मानाय । सु॒न्व॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *grāvāṇaḥ* ← *grāvan*
 - \[noun\], vocative, plural, masculine
@@ -76,35 +76,35 @@ popular;; repeated line
 **देवः** दानादिगुणयुक्तः सविता हे ग्रावाणः Vवः युष्मान् **धर्मणा** आत्मीयेन धारणेन 'नु क्षिप्रं **सुवतु** अभिषवे प्रेरयतु । किमर्थम् । सुन्वते सोमाभिषवं कुर्वते यजमानाय यजमानार्थम् । तस्य यागनिष्पत्तय इत्यर्थः ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the divine **Savitā** quickly urge you, stones, by his sustaining (action) for the sake of theworshipper, who makes the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O pressing stones, let god Savitar now propel you according to ordinance for the sacrificer who presses (soma).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Savitar the God, O Stones, stir you as Law commands for him  
      Who sacrifices, pouring juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Savitri, der Gott, soll euch, Steine, nach der Bestimmung in Bewegung setzen, zu Gunsten des somapressenden Opferers!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bewegen soll, o Steine, euch Gott Savitar der Reihe nach, dem Opferer, der Soma braut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас, давильные камни, пусть сейчас бог  
 Савитар приведет в движение по (своему) закону  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ व꣡स्त्रा सुवसना꣡नि अर्ष  
 अभि꣡ धेनूः꣡ सुदु꣡घाः पूय꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ अ꣡श्वान् रथि꣡नो देव सोम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । च॒न्द्रा । भर्त॑वे । नः॒ । हिर॑ण्या । अ॒भि । अश्वा॑न् । र॒थिनः॑ । दे॒व॒ । सो॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -123,20 +123,20 @@ genre M
 हे सोम त्वमस्माकं सुवसनानि सुपरिधानानि वस्त्रा वस्त्राणि अभ्यर्ष अभिगमय । यद्वा सुवसनानि शोभनवस्त्रसहितानि वस्त्रा आच्छादकानि धनान्यभिगमय । किञ्च पूय- मानः पवित्रेण त्वं सुदुघाः सुष्ठुपयसोदोग्ध्रीः धेनूः नवप्रसूतिकागाः अभिप्रापय । अपि च चन्द्रा चन्द्राण्याह्लादकानि हिरण्या हिरण्यानि भर्तवे भरणाय पोषणाय नोस्माकमभि- गमय । तथा हेदेव स्तोतव्य हेसोम रथिनोरथवतोश्वान् अस्माकमभिप्रापय ॥ ५० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring us handsome garments, bring us, when you are purified, cows easily milked; bring for our maintenance gratifying gold; divine **Soma**, bring us horses fit for chariots.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush toward your garments that garb well, toward the good-milking  cows, while being purified,  
 toward glittering golden goods, to bring them to us, and toward chariot  horses, o god Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner adds “zu gewinnen” in pādas a and b (also d) with no textual support.
 
@@ -153,23 +153,23 @@ In contrast to the tṛcas with faint or no signs of cohesion, this one is over-
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour on us garments that shall clothe us meetly, send, purified, miIch-kine, abundant yielders.  
      God Soma, send us chariot-drawing horses that they may bring us treasures bright and golden.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe, um gutkleidende Kleider zu gewinnen, um gutmelke Kühe zu gewinnen, wenn du geläutert wirst, um uns blinkende Goldsachen zum Tragen zu bringen, um Rosse samt Wagen zu gewinnen, Gott Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O ströme her schönkleidende Gewänder, du hellentflammter, milchgefüllte Kühe, Herbei uns Goldschmuck, glänzenden, zum Tragen und Rosse uns, Gott Soma, nebst den Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Струи (нам), когда тебя очищают, одежды,  
 Хорошо одевающие, коров, хорошо доящихся,  

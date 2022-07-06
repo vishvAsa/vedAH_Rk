@@ -6,7 +6,7 @@ ChandaH = "पुरस्ताद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धी꣡न् नु꣡ अ꣡त्र सप्ततिं꣡ च सप्त꣡ च  
 सद्यो꣡ दिदिष्ट ता꣡नुवः  
@@ -14,7 +14,7 @@ ChandaH = "पुरस्ताद्बृहती"
 सद्यो꣡ दिदिष्ट मायवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 स॒द्यः । दि॒दि॒ष्ट॒ । तान्वः॑ । स॒द्यः । दि॒दि॒ष्ट॒ । पा॒र्थ्यः॑ । स॒द्यः । दि॒दि॒ष्ट॒ । मा॒य॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhīn* ← *adhi*
 - \[adverb\]
@@ -107,36 +107,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **अत्र** एषु राजसु **तान्वः** नामर्षिः गवां **सप्त** **च** सप्ततिं **च** **नु** क्षिप्रं **सद्यः** **इत्** सद्य एव **अधि** **दिदिष्ट** । अधिपूर्वो दिशिर्याचनार्थः । ययाचे । किंच पार्थो नाम युवनाश्वनामकस्य कुले पृथोः पुत्रः कश्चित् **सद्यः** एव गवां सप्तसप्ततिमधि **दिदिष्ट** । किंच **मायवः** अपि **सद्यः** एवाधि **दिदिष्ट** ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Strongest of them **Tānva** promptly demanded seven and seventy (cows), Pārthya demandedall three names may refer to the same person n\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In addition here and now seven and seventy  
 at once did Tānva assign (to us), at once did Pārthya assign, at once did  Māyava assign.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Besides, they showed us seven -and-seventy horses here.  
      Tanva at once displayed his gift, Parthya at once displayed his gift; and straightway Mayava showed his.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da wies überdies noch sieben und siebenzig am gleichen Tage Tanva an, wies am gleichen Tage Parthya an, wies am gleichen Tage Mayava an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ausserdem wies uns hier siebenundsiebzig [Rosse] Tānua [der Nachkomme des Tanva] sogleich als Geschenk an, sogleich auch Pārthia [der Nachkomme des Prithi], sogleich auch Mājava [der Nachkomme des Maju].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

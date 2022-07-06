@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ श्यावअश्व धृष्णुया꣡  
 अ꣡र्चा मरु꣡द्भिर् ऋ꣡क्वभिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 श्र꣡वो म꣡दन्ति यज्ञि꣡याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ये । अ॒द्रो॒घम् । अ॒नु॒ऽस्व॒धम् । श्रवः॑ । मद॑न्ति । य॒ज्ञियाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -88,20 +88,20 @@ genre M
 हे **श्यावाश्व** एतन्नामक ऋषे **धृष्णुया** धृष्णुस्त्वम् **ऋक्वभिः** स्तुत्यान् **मरुद्भिः** मरुतः **प्र** **अर्च** । द्वितीयार्थे तृतीया । एवं स्वयमेव संप्रेष्यति । यद्वा । यजमानो होतारं श्यावाश्वं ब्रूते । यद्वा । मरुद्भिर्मरुत्सदृशैर्ऋक्वभिः स्तोतृभिः सह स्तोत्रैर्वा अर्च स्तुहीत्यर्थः । **ये** मरुतः यज्ञियाः यज्ञार्हाः **अनुष्वधं** प्रत्यहम्। हविर्लक्षणान्नप्रदानं स्वधा । अनु पश्चाद्वा ।  **अद्रोघम्** अहिंसकं **श्रवः** अन्नं लब्ध्वा **मदन्ति** हृष्यन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer, worship with person verance, **Śyāvāśva**, to the praise-deserving **Maruts**; they who are adorable and delight in the daily offered and inoffensive sacrificial food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Śyāvāśva, chant forth boldly—along with the Maruts possessing chants, who rejoice in [/cheer on] undisguised fame according to their own  
 nature, those worthy of the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the somewhat anomalous expression in the first hemistich, see reff. given just above.
 
@@ -110,23 +110,23 @@ The 2nd hemistich is also syntactically somewhat compromised. Forms of uncompoun
 Geldner and Renou seem to take adroghám as an adv., a possibility also mentioned by Witzel Gotō. However, the other apparent adv. form has initial accent (ádrogham VIII.60.4), and furthermore the existence of a bahuvrīhi ádrogha-vāc- (2x) and the syntagm adroghá- vácas- (III.14.6) support a collocation with semantically similar śrávas-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING boldly forth, Syavasva, with the Maruts who are loud in song,  
      Who, holy, as their wont is, joy in glory that is free from guile.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Syavasva! Stimme zuversichtlich mit den singenden Marut das Lied an, die ohne Falsch nach ihrer Art sich am Ruhm berauschen, die Opferwürdigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, Çjavaaçva, stimme kühn in den Gesang der Maruts ein, Die treugesinnt aus eigner Lust, des Ruhms sich freu'n, die heiligen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Шьявашва! Отважно запой  
 Вместе с ликующими Марутами,  

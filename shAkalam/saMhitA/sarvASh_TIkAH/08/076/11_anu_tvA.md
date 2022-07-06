@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु त्वा रो꣡दसी उभे꣡  
 क्र꣡क्षमाणम् अकृपेताम्  
 इ꣡न्द्र य꣡द् दस्युहा꣡भवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑ । यत् । द॒स्यु॒ऽहा । अभ॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **क्रक्षमाणं** शत्रून् विलिखन्तं **त्वा** त्वाम् **उभे** **रोदसी** उभे अपि द्यावापृथिव्यौ **अनु** **अकृपेताम्** अनुकल्पयेताम् । **यत्** यदा **दस्युहा** **अभवः** भवसि तदा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Krakṣamāṇamakṛpetām = spardhamānam adadetām; anu akṛpetām = anukalpayetām; from krap, heaven and earthlonged after you, as you smote...
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Both the world-halves yearned after you as you howled,  
 Indra, when you became the smiter of the Dasyus.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, both worlds complained to thee when uttering thy fearful roar,  
      What time thou smotest Dasyus dead.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beide Welten fügten sich dir, dem Lärmenden, als du Indra, der Dasyutöter wardst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir seufzten beide Welten nach dem brausenden, als Indra du Vernichter der Dämonen warst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

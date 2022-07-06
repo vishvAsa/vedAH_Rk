@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राये꣡न्दुम् पुनीतन  
 उग्रं꣡ द꣡क्षाय सा꣡धनम्  
 ईशानं꣡ वीति꣡राधसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ई॒शा॒नम् । वी॒तिऽरा॑धसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāyendum* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -77,19 +77,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे ऋत्विजः **उग्रम्** उद्गूर्णं **दक्षाय** बलस्य **साधनं** करणम् **ईशानं** धनानामीश्वरं **वीतिराधसं** दत्तधनम् **इन्दुं** सोमम् **इन्द्राय** इन्द्रार्थं **पुनीतन** पुनीत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purify for **Indra** the fierce **Indu**, the means of strength, the lord (of wealth), the giver of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Indra purify the drop, the strong one bringing success to skill, the lord whose largesse is worth pursuing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although it may not be clear from the Engl. tr., the phrase beginning “the strong one … the lord” refer to Soma (in the acc.), not Indra (in the dat.).
 
@@ -104,23 +104,23 @@ No overt signs of unity.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For potent Indra purify Indu effectual and strong,  
      Enjoyment-giver, Mighty Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Indra läutert den Saft, den gewaltigen, der Wirkenskraft förderlichen, den mächtigen, der Freigebigkeit liebt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra macht den Indu hell, dem starken den, der kräftig hilft, Den Herrscher, der Genuss gewährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

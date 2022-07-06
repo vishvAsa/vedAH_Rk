@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡श् चिद् रोचना꣡द् अ꣡धि  
 आ꣡ नो गन्तं सुवर्विदा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्तो꣡मेभिर् हवनश्रुता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 धी॒भिः । व॒त्स॒ऽप्र॒चे॒त॒सा॒ । स्तोमे॑भिः । ह॒व॒न॒ऽश्रु॒ता॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divaś* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -101,7 +101,7 @@ genre M;; repeated line
 हे **स्वर्विदा** स्वः सूर्यस्य द्युलोकस्य वा लम्भयितारावश्विनौ **दिवश्चित्** द्युलोकाच्च **रोचनादधि** रोचमानादन्तरिक्षाच्च **नः** अस्मान् **आ** **गन्तम्** आगच्छतम् । पूर्ववदधिः पञ्चम्यर्थानुवादकः । हे **वत्सप्रचेतसा** वत्से स्तोतरि प्रकृष्टज्ञानौ । यद्वा । वत्सं निवासकं वेदितव्यं वा प्रकृष्टं चेतो ज्ञानं ययोस्तौ तथोक्तौ । तौ युवां **धीभिः** आत्मीयाभिर्बुद्धिभिः सहागच्छतम् । हे **हवनश्रुता** हवनस्यास्मदीयस्याह्वानस्य स्तोत्रस्य श्रोतारौ **स्तोमेभिः** स्तोत्रैरस्मत्कृतैर्युज्यमानौ सन्तावागच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,29 +112,29 @@ genre M;; repeated line
 Familiar with heaven: **svar** vidak\_ = dyulokasya lambhayitārau, causing to obtain heaven; induced by his piousacts: dhībhiḥ... aśvinā, come with your minds (favourable ro us)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here to us even from the luminous realm of heaven, o finders of  the sun,  
 you who are attentive to Vatsa by reason of his insights and listen to  our summons by reason of our praise songs.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even from the luminous sphere of heaven come to us, ye who find the light,  
      Carers for Vatsa, through our prayers and lauds, O yewho hearour call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst von des Himmels Lichtraum kommet her zu uns, ihr Sonnenfinder, auf die Gebete hin, für Vatsa besorgt, auf die Loblieder hin, ihr Ruferhörer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch von des Himmels Lichtgefild' kommt her zu uns, o himmlische, Durch Bitten, Vatsa's Freunde ihr, durch Lieder, die ihr Ruf vernehmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже из светлого пространства неба  
 К нам приезжайте, о (вы,) находящие солнце,  

@@ -8,7 +8,7 @@ title = "+015"
 ‘अग्निर्होता ' इति दशर्चं पञ्चमं सूक्तं वामदेवस्यार्षं गायत्रम् । अत्रेयमनुक्रमणिका -- अग्निर्होता दश गायत्रमृषिर्बोधत् इत्याभ्यां सोमकं साहदेव्यमभ्यवदत्पराभ्यामस्याश्विनावायुरयाचत' इति । ‘बोधद्यत्' इति द्वृचेन सोमकराजा स्तूयते ‘एष वाम्' इति द्वृचेनाश्विनौ शिष्टाभिः षड्भिरग्निः स्तूयते। अतस्ता एव क्रमेण देवताः । सूक्तविनियोगो लैङ्गिकः । पशोः पर्यग्निकरणे • अग्निर्होता नः' इत्याद्यस्तृचोऽनुवचनीयः । तथा च सूत्रितम् - ’अग्निर्होता न इति तृचं पर्यग्नयेऽन्वाह' (आश्व. श्रौ. ३.२) इति । प्रातरनुवाकेऽप्याग्नेये क्रतौ गायत्रे छन्दस्याश्विनशस्त्रे चायं तृचो विनियुक्तः । तथा च सूत्रितम् -- ’अग्निर्होता नो अध्वर इति तिस्रः ' ( आश्व. श्रौ. ४. १३) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 15 (311)  
 Agni (1–6), Somaka Sāhadevya (7–8), Aśvins (9–10)  
@@ -22,7 +22,7 @@ control such a fire: the implication is that Sr̥ñjaya Daivavāta, mentioned in
 coristic: note the -ka-suffix characteristic of nicknames) of the patron in 7–10 is  Somaka (vs. 9).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

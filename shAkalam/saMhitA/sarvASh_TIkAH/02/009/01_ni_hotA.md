@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ हो꣡ता होतृष꣡दने वि꣡दानस्  
 त्वेषो꣡ दीदिवाँ꣡ असदत् सुद꣡क्षः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सहस्रम्भरः꣡ शु꣡चिजिह्वो अग्निः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अद॑ब्धव्रतऽप्रमतिः । वसि॑ष्ठः । स॒ह॒स्र॒म्ऽभ॒रः । शुचि॑ऽजिह्वः । अ॒ग्निः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 यस्यनिः श्वसितंवेदायोवेदेभ्योऽखिलञ्जगत् । निर्ममेतमहंवन्देविद्यातीर्थमहेश्वरम् ॥ १ ॥वागीशाद्याःसुमनसः सर्वार्थानामुपक्रमे । यन्नत्वाकृतकृत्याःस्युस्तन्नमामिगजाननम् ॥ २ ॥निहोतेतिषळ्रुचन्नवमंसूक्तङ्गृत्समदस्यार्षं निहोतेत्यनुक्रान्तत्वात् अनुक्तत्वान्त्रिष्टुप् मण्डलादिपरि- भाषयाग्निर्देवता प्रातरनुवाकाश्विनशस्त्रयोराग्नेयेक्रतौत्रैष्टुभेछन्दस्यस्यविनियोगःअथैतस्याइतिखण्डे- सूत्रितम्—निहोताहोतृषदनइतिसूक्तेइति अग्निप्रणयनेआद्येऋचौविनियुक्ते पञ्चम्याम्पौर्णमास्यामि- तिखण्डेसूत्रितम्—निहोताहोतृषदनेविदानइतिद्वेइति ।ग्रुत्समदःस्तौति होतादेवानामाह्वाताविदानोविद्वान् त्वेषः प्रवृद्धः दीदिवान् दीप्यमानः सुदक्षः शोभनबलः अदब्धव्रतप्रमतिः अदब्धानिअहिंसितानिव्रतानिकर्माणियस्याःसाअदब्धव्रतप्रमतिः प्रकृ- ष्टाबुद्धिःयस्य सतथोक्तः वसिष्ठः सर्वस्यवासयितृतमः वासयतेस्तृजन्तस्यइष्ठनिरूपं सहस्रम्भरः सहस्र- स्यानेकविधस्यभर्ताविहरणेननानाविधरूपस्यधारकइत्यर्थः यद्वा सहस्रस्यसर्वस्यभर्ता तथाचवाज- सनेयकेम्—सर्वंवैसहस्रंसर्वम्भरइत्येवतदाहेति । शुचिजिह्वः शुचिर्दीप्ताजिह्वाज्वालायस्यसतथोक्तः एवम्भूतोग्निः होतृषदने होतात्रसीदतीतिहोतृषदनमुत्तरावेदी अधिकरणेल्युट् तत्रन्यसदत् नितरांसी- दतु उक्तार्थेब्राह्मणम्—निहोताहोतृषदनेविदानइत्यग्निर्वैदेवानांहोतातस्यैतद्धोतृषदनंयदुत्तरवेदीना- भिस्त्वेषोदीदिवाँअसदत्सुदक्षइत्यासन्नोहिसतर्हिभवत्यदब्धव्रतप्रमतिर्वसिष्ठइत्यग्निर्वैदेवानांवसिष्ठः सहस्रम्भरःशुचिजिह्वोअग्निरित्येषाहवाअस्यसहस्रम्भरतायदेनमेकंसन्तम्बहुधाविहरन्तीति ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,41 +124,41 @@ genre M
 In the station of the invoking priest: **hotā** sadane, in a plural ce convenient for pouring the butter on the fire, or near to the **uttara**-**vedī**, the north altar; or considering the fire itself to be introduced upon the altar; **Yajurveda** 6.36
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (As) Hotar, once found, he sat down in the Hotar’s seat, glittering,  shining, very skillful,  
 giving forethought to his unfalsifiable commandments, the best one  bringing a thousand (goods), flame-tongued Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vídāna- is ambiguous: it can belong either to √vid ‘know’ (Geldner [/Witzel Gotō], Renou, though he registers the ambiguity in n.) or √vid ‘find’ (Oldenberg [SBE]). I assign it to the latter and think it refers to the myth of the discovery and recovery of the fugitive Agni. The word forms a weak ring with suvidátra- in the final vs., 6a, assuming the latter word is a derivative of √vid; see comm. ad vs. 6.
 
 ádabdhavratapramati- is an unusual cmpd for the RV in having three members, and with its initial accent (on which see AiG II.1.293) the accent falls about as far from word-end as it is possible to be.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ACCUSTOMED to the Herald's place, the Herald hath seated him, bright, splendid, passing mighty,  
      Whose foresight keeps the Law from violation, excellent, pure-tongued, bringing thousands, Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The Hotri who is found on the Hotri's seat has sat down (there), the fierce, the resplendent, the dexterous one, the protector of (his own) infallible laws 1, the highest Vasu, he who brings thousandfold (gain), the pure-tongued Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Hotri hat sich auf seinem Hotri-Sitz als Bekannter niedergesetzt, der funkelnde, leuchtende, wohlverständige, der für die unverletzlichen Gebote sorgt, der beste, hellzüngige Agni, der Tausend einbringt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Opfrer liess zum Opfersitz sich nieder, der weise, helle, leuchtend, reich an Kräften, Der beste, sorgend für die heil'ge Ordnung, mit lichter Zunge Agni vieles schenkend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хотар воссел на сидение хотара,  
 Сведущий, искрящийся, сверкающий, очень умелый,  

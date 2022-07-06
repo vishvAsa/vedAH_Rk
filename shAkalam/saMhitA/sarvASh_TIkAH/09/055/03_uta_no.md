@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नो गोवि꣡द् अश्ववि꣡त्  
 प꣡वस्व सोम अ꣡न्धसा  
 मक्षू꣡तमेभिर् अ꣡हभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒क्षुऽत॑मेभिः । अह॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -84,7 +84,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **सोम** **नः** अस्माकं **गोवित्** गोप्रदः **अश्ववित्** अश्वप्रदश्च त्वं **मक्षूतमेभिः** मक्षुतमैरतिशयेन शीघ्रैः **अहभिः** अहोभिर्हेतुभिः **अन्धसा** अन्नेन **पवस्व** धारया क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,28 +95,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 'by reason (or by means) of the days quickly passing'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And as cow-finder for us, horse-finder, purify yourself, Soma, with your stalk through the days soonest to come.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And, finding for us kine and steeds, O Soma, with thy juice flow on  
      Through days that fly most rapidly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und läutere dich, o Soma, mit deinem Tranke für uns als Rinderfinder, Rossefinder in den allernächsten Tagen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und riesle hell durch deinen Saft, o Soma, spendend Ross und Rind In allernächsten Tagen uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

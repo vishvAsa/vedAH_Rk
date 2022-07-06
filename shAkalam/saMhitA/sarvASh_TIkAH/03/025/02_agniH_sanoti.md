@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निः꣡ सनोति वीरि꣡याणि विद्वा꣡न्  
 सनो꣡ति वा꣡जम् अमृ꣡ताय भू꣡षन्  
 स꣡ नो देवाँ꣡ ए꣡ह꣡ वहा पुरुक्षो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 सः । नः॒ । दे॒वान् । आ । इ॒ह । व॒ह॒ । पु॒रु॒क्षो॒ इति॑ पुरुऽक्षो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -108,41 +108,41 @@ genre M
 **विद्वान्** कर्माभिज्ञो यः **अग्निः** **वीर्याणि** पशुपुत्रादिसंपद्रूपाणि सामर्थ्यानि **सनोति** यजमानाय ददाति । यश्चाग्निः **भूषन्** स्वतेजसा सर्वं जगत् भूषयन् अलंकुर्वन् **अमृताय** मरणधर्मरहितायेन्द्रादिदेवाय **वाजं** हविर्लक्षणमन्नं **सनोति** प्रयच्छति **पुरुक्षो** पुरोडाशादिबहुविधान्नोपेत हे अग्ने **सः** तादृशस्त्वं **नः** अस्माकं संबन्धिनि **इह** अस्मिन्यज्ञे **देवान्** यजनीयान्देवान् **आ** **वह** आह्वय ॥ सनोति ।  ‘ षणु दाने '। तनादित्वादुप्रत्ययः । प्रत्ययस्वरः । पादादित्वादनिघातः । भूषन् ।  ‘ भूष अलंकारे । अन्तर्भावितण्यर्थः । शतुर्लसार्वधातुकस्वरेणानुदात्तत्वे धातुस्वरः शिष्यते । वह । वहेर्लोटि रूपम् । पुरुक्षो । पुरवः क्षुधोऽन्नानि यस्येति पुरुक्षुः । अन्त्यलोपश्छान्दसः । ‘संबुद्धौ च' इति गुणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wise **Agni** bestows faculties (securing prosperity and descendants); adorning (the world with lustre) he gives (sacrificial food) to the immortals; Agni, (to whom) many oblations (are offered), bring hither to us the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the knowing one, wins heroic deeds. He wins victory’s prize,  exerting himself for immortality.  
 Convey the gods here to us, o you of many cattle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni the wise bestows the might of heroes grants strengthening food, preparing it for nectar.  
      Thou who art rich in food bring the Gods hither.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, the knowing, obtains (for his worshipper) heroic powers; he obtains (for him) strength, being busy for the sake of immortality. Bring then the gods hither, O (Agni), rich in food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der Kundige, gewinnt die Kräfte, er gewinnt den Siegerpreis, er der zum Empfang des Unsterblichen bereit ist. Fahr du uns die Götter her, du Viehreicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der kund'ge Agni schenket Heldenkräfte, verleiht Genuss der Götterwelt geschäftig, So fahr uns her die Götter, nahrungsreicher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни-знаток добывает героические силы,  
 Он добывает награду, готовясь к бессмертию.  

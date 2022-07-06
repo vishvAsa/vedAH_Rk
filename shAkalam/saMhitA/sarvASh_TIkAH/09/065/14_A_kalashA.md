@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ कल꣡शा अनूषत  
 इ꣡न्दो धा꣡राभिर् ओ꣡जसा  
 ए꣡न्द्रस्य पीत꣡ये विश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । इन्द्र॑स्य । पी॒तये॑ । वि॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -81,20 +81,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** क्षरणशील सोम **ओजसा** बलेन युक्तस्य तव **धाराभिः** निरन्तराभिः सहिताः **कलशाः** । प्रयोगबाहुल्यापेक्षमेतद्बहुवचनम् । द्रोणकलशाः **आ** **अनूषत** स्तोतृभिः आभिमुख्येन स्तूयन्ते । सोमाभिषवकाले हि ऋत्विजः स्तुवन्ति खलु। ततस्त्वम् **इन्द्रस्य** **पीतये** पानाय **आ** **विश** ग्रहांश्चमसांश्च प्रविश ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, they praise the vessels together with your streams (who are endowed) with strength; enter for **Indra**'s drinking.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The tubs have cried out, o drop. In streams, with strength,  
 enter (them) for Indra’s drinking.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -104,23 +104,23 @@ Again, no signs of unity.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The pitchers, Indu, with thy streams have sung aloud in vigorous might  
      Enter them, and let Indra drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Krüge erbrausten kräftiglich, o Indu, durch deine Ströme. Zieh ein zum Trunk für Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erklungen, Indu, sind mit Macht die Schüsseln hier von deinem Strom, Zum Trunk des Indra geh hinein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

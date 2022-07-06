@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ वृक्षा꣡न् हन्ति उत꣡ हन्ति रक्ष꣡सो  
 वि꣡श्वम् बिभाय भु꣡वनम् महा꣡वधात्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡त् पर्ज꣡न्य स्तन꣡यन् ह꣡न्ति दुष्कृ꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒त । अना॑गाः । ई॒ष॒ते॒ । वृष्ण्य॑ऽवतः । यत् । प॒र्जन्यः॑ । स्त॒नय॑न् । हन्ति॑ । दुः॒ऽकृतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -130,46 +130,46 @@ popular
 अयम्मन्त्रोनिरुक्तेस्पष्टव्याख्यातत्वात्तदेवात्रलिख्यते पर्जन्यःविहन्ति वृक्षान्विहन्तिच रक्षांसि सर्वाणिचास्माद्भूतानिबिभ्यति महाव- धान्महान्ह्यस्यवधोप्यनपराधोभीतः पलायते वर्षकर्मवतोयत्पर्जन्यस्तनयन्हन्ति दुष्कृतः पापकृतइति ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He strikes down the trees, he destroys the **rākṣasas**, he terrifies the whole world by his mighty weapon; even the innocent man flies from the sender of rain, when **Parjanya**, thundering, slays the wicked.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He smashes apart the trees and also smashes the demons. All creation  fears him who has the mighty weapon.  
 And (even) the blameless one shrinks from the one of bullish powers,  when Parjanya, thundering, smashes those who do ill.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. quickly modulates from the physical to the moral, with Parjanya the scourge not only of the trees but of demons and evil-doers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He smites the trees apart, he slays the demons: all life fears him who wields the mighty weapon.  
      From him exceeding strong fices e'en the guiltless, when thundering Parjanya smites the wicked.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The trees he shatters and he smites the demon host: The whole world trembles at his mighty weapon's stroke, The guiltless man himself flees from the potent god, When miscreants Parjanya with his thunder strikes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er zerschlägt die Bäume und erschlägt die Unholde; die ganze Welt hat vor ihm Furcht, der die große Waffe führt. Auch der Schuldlose geht dem Bullenstarken aus dem Wege, wenn Parjanya donnernd die Übeltäter erschlägt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er fäll't die Bäume, fäll't die Nachtgespenster auch; das Weltall bebt vor ihm, der grosse Waffen trägt, Vor dem gewalt'gen fliehet auch, wer schuldlos ist, so oft Pardschanja donnernd Uebelthäter schlägt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он разбивает деревья и убивает ракшасов.  
 Весь мир страшится носителя великого оружия.  

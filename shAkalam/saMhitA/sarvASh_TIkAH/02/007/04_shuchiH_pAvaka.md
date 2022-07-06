@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡चिः पवाक+ व꣡न्दियः  
 अ꣡ग्ने बृह꣡द् वि꣡ रोचसे  
 तुवं꣡ घृते꣡भिर् आ꣡हुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 त्वम् । घृ॒तेभिः॑ । आऽहु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
@@ -89,26 +89,26 @@ genre M
 15'अग्नये रुक्मवते पुरोडाशम् अष्टाकपालं निर्वपेद् रुक्कामः' इत्यस्य पुरोनुवाक्या - शुचिरिति गायत्री । वन्द्योन्तः प्रथमः पादः ॥ हे अग्ने । पादादित्वान्न निहन्यते, षाष्ठिकमामान्त्रिताद्युदात्तत्वम् । पावक शोधक, त्वं खलु शुचिश्शुद्धः न केवलं शोधयिता वन्द्यस्स्तुत्यश्च सर्वेषाम् । 'ईडवन्दवृशंस' इत्याद्युदात्तत्वम् । स त्वं घृतेभिः घृतैः । 'बहुलं छन्दसि' इत्यैसभावः । अनेकपात्रगतत्वाद्बहुवचनम् । तैराहुतः आभिमुख्येन मर्यादया वा हुतः । 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । बृहत् भृशं विरोचसे विविधमनेकप्रकारं दीप्यसे । त्वं हि शुचित्वादिगुणैः प्रागेव रोचसे, अधुना तु घृतैरप्याहुतो बृहद्विरोचसे । स त्वमस्मिन्यजमाने रुचं देहीति भावः, शेषो वा । 'स एवास्मिन्रुचं दधाति रोचत एव'`इति ब्राह्मणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purifier, **Agni**, holy, adorable, you shine exceedingly when (you are) worshipped with (oblations of) butter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O pure Agni, to be extolled, blazing you shine out loftily,  
 when you are bepoured with ghee(-stream)s.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Purifier Agni, high shinest forth, bright, adorable,  
      When worshipped with the sacred oil.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bright, O purifier, worthy of adoration, Agni, thou shinest mightily; thou hast been worshipped by offerings of ghrita 1.
 ꣡</details>
@@ -120,17 +120,17 @@ O Agni, mightily thou shinest,
 To whom offering is made with ghee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hell, lobenswert leuchtest du lauterer Agni hoch auf, wenn du mit Schmalz begossen wirst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hell strahlest du, o Flammender, gewaltig, Agni, preisenswerth, Begossen du mit Opferschmalz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Светлый, о чистый Агни,  
 Достойный хвалы, ты сверкаешь высоко (и) далеко.  

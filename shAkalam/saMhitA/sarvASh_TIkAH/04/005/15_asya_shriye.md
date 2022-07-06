@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ श्रिये꣡ समिधान꣡स्य वृ꣡ष्णो  
 व꣡सोर् अ꣡नीकं द꣡म आ꣡ रुरोच  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्षिति꣡र् न꣡ राया꣡ पुरुवा꣡रो अद्यौत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 रुश॑त् । वसा॑नः । सु॒दृशी॑कऽरूपः । क्षि॒तिः । न । रा॒या । पु॒रु॒ऽवारः॑ । अ॒द्यौ॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -123,7 +123,7 @@ genre M
 **समिधानस्य** समिध्यमानस्य ॥ कर्मणि कर्तृप्रत्ययः ॥ **वृष्णः** वर्षितुः फलस्य **वसोः** वासयितुः **अस्य** अग्नेः **अनीकं** तेजःसंघः **दमे** यागगृहे **आ** **रुरोच** सर्वतो दीप्यते । किमर्थम् । **श्रिये** श्रेयसे यजमानानाम् । सोऽग्निः **रुशत्** । वर्णनामैतत् । दीप्तं तेजः **वसानः** आच्छादयन् अत एव **सुदृशीकरूपः** सुष्ठु दर्शनीयरूपः **पुरुवारः** बहुभिः ऋत्विग्भिर्यजमानैः वरणीयः सन् **अद्यौत्** द्योतते । किमिव । **राया** अश्वादिधनेन **क्षितिर्न** राजादिरिव । क्षितिरिति मनुष्यनाम ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,35 +134,35 @@ genre M
 Kṣitir narāya, like a **rājā**; or, the like, with wealth of cattle and treasure, rāyāśvādinā dhanena rājādiriva
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of him, being kindled for beauty, the bull, the good one—his face  shines here in the house.  
 Gleamingly clad, with a form lovely to see, he of many favors has  
 flashed like a dwelling (flashing) with wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The majesty of him the Good, the Mighty, aflame, hath shone for glory in the dwelling.  
      He, clothed in light, hath shone most fair to look on, wealthy in boons, as a home shines with riches.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The face of this kindled, manly Vasu has shone gloriously in the house. Clothed in brilliancy, with his shape beautiful to behold, the bountiful has shone like a house 1 with its wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sein Antlitz, des zur Schönheit entflammten Bullen, des Gottes Antlitz ist im Hause erstrahlt. In weiß sich kleidend, von schöner Farbe erglänzte der Vielbegehrte wie eine Wohnung von Reichtum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dieses Stieres, des entflammten, Schmucke erstrahlte hell des guten Glanz im Hause; in Licht gehüllt und schön zu sehn erglänzte der gabenreiche wie ein Sitz des Schatzes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Лик) этого быка, зажженного для красоты,  
 Лик Васу, засверкал в (нашем) доме.  

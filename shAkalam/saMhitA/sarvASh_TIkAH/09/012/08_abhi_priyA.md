@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ प्रिया꣡ दिव꣡स् पदा꣡  
 सो꣡मो हिन्वानो꣡ अर्षति  
 वि꣡प्रस्य धा꣡रया कविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विप्र॑स्य । धार॑या । क॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -84,19 +84,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **कविः** क्रान्तकर्मा **सोमः** **दिवः** अन्तरिक्षात् **हिन्वानः** प्रेर्यमाणः **विप्रस्य** मेधाविनः स्वस्य **धारया** **प्रिया** प्रियाणि **पदा** पदानि स्थानानि **अभि** **अर्षति** अभिगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sage **Soma**, urged from heaven, flows in a stream to the beloved abodes of his devout (worshipper).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being himself propelled, Soma rushes toward the dear tracks of heaven, the sage poet, with the stream of an inspired poet.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted just above, hinvāná- is used passively here, in contrast to the same form in 7c -- here referring to the priestly impulsion given to the soma on its journey of purification.
 
@@ -105,23 +105,23 @@ The “tracks of heaven” are, in my view, the traces of the soma on the filter
 Pāda c is identical to IX.44.2c, where I do not construe víprasya with dhā́rayā but with something earlier in the vs. My reason there is that the dhā́rā- ‘stream’ is always otherwise only Soma’s, and so should not belong to the/a vípra-. But in our passage there is nowhere to construe víprasya but with dhā́rayā. I consider ad IX.44.2 the possibility that the pāda was borrowed thoughtlessly here. But there are several ways to make sense of our passage. If the dhā́rā- is Soma’s, the point may be that he is a kaví-, a sage, but he also has the fluency of an inspired poet, who simply pours out verbal eloquence, thus identifying Soma with both types of poet. This suggestion is supported by the next hymn, IX.13.2, where Soma is explicitly identified as a vípra-, as well as his parallel identification as vípra and kaví in IX.18.2. Or dhā́rā- can be used here metaphorically to refer to a stream of words.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Wise One, with the Sage's stream, the Soma urged to speed, flows on  
      To the dear places of the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu den lieben Stätten des Himmels fließt Soma zur Eile getrieben, der Seher im Strome des Redekundigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma strömet angespornt zu lieben Himmelsstätten hin, Der Seher mit des Priesters Strom.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К излюбленным местам неба  
 Струится сома, поторапливаемая (жрецами)  

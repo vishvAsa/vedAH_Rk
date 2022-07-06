@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡हन्तु त्वा मनोयु꣡जो  
 युक्ता꣡सो नवति꣡र् न꣡व  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 याहि꣡ सुत꣡स्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वायो॒ इति॑ । आ । च॒न्द्रेण॑ । रथे॑न । या॒हि । सु॒तस्य॑ । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
@@ -105,35 +105,35 @@ genre M;; repeated line
 हे **वायो** **त्वा** त्वां **मनोयुजः** मनःसमानगतयः **युक्तासः** परस्परसंयुक्ताः **नवतिर्नव** नवोत्तरनवतिसंख्याका अश्वाः **वहन्तु** धारयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the ninety-nine steeds harnessed together, that are as swift as thought, convey you; come, **Vāyu**, with your brilliant car, to drink the **Soma** juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the ones with mind as yoke, the ninety-nine yoked ones, convey you. – O Vāyu, drive here with your glittering chariot, to drink of the pressed  (soma).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May nine-and-ninety harnessed steeds who yoke them at thy will bring thee.  
      O Vayu, on refulgent car come to the drinking of the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen dich die neunundneunzig Gespanne fahren, die durch den bloßen Gedanken geschirrt sind. Komm, Vayu, auf schimmerndem Wagen zum Trunke des Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass neunundneunzig fahren dich geschirrte, folgend deinem Wink, Auf lichtem Wagen komme her, o Vaju, zu des Saftes Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да привезут тебя запряженные (одной) мыслью  
 Девяносто девять запряженных (коней)!  

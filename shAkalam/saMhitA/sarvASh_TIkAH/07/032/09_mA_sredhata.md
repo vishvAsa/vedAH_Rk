@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ स्रेधत सोमिनो द꣡क्षता महे꣡  
 कृणुध्वं꣡ राय꣡ आतु꣡जे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 न꣡ देवा꣡सः कवत्न꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त॒रणिः॑ । इत् । ज॒य॒ति॒ । क्षेति॑ । पुष्य॑ति । न । दे॒वासः॑ । क॒व॒त्नवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -110,7 +110,7 @@ genre M
 हे मदीया जनाः **सोमिनः** सोमवतो यागान् मा **स्रेधत** मा हिंसिष्ट। **दक्षत** यागादिकं कर्तुमुत्सहध्वं च । **महे** महते **आतुजे** । तुजिार्हिंसाकर्मा दानकर्मा वा। शत्रूणामभिहिंसकाय धनानां प्रदात्रे वेन्द्राय **राये** धनलाभार्थं **कृणुध्वं** कर्माणि कुरुत च। **तरणिरित्** कर्मसु त्वरित एव **जयति** शत्रून् । **क्षेति** गृहे निवसति च । **पुष्यति** प्रजया पशुभिश्च पुष्टो भवति । **कवत्नवे** कुत्सितक्रियायै । कवोपसृष्टस्यातेः सातत्यगमनकर्मणो रूपं कवत्नुरिति । **देवासः** देवाः **न** भवन्तीति शेषः । सुखप्राप्तये भवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,34 +121,34 @@ genre M
 Na devāsaḥ karatnave: karatnuḥ = **kutsita** **kriya**, bad or defective act of religion; men donot become gods by such means, **devā** na **bhavanti**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You pressers of soma, do not fail; be skillful for the great one. Make  (him inclined) to thrust wealth (to us).  
 It is just the surpassing man who wins: he dwells peacefully, he thrives.  The gods are not for the petty.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 kṛṇudhvám … ātúje similarly functions as a periphrastic causative. So also Zehnder (p. 20 and passim).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Grudge not, ye Soma pourers; stir you, pay the rites, for wealth, to the great Conqueror.  
      Only the active conquers dwells in peace, and thrives: not for the niggard are the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bleibt nicht Stecken, ihr Somavollen, machet es dem Großen recht! Machet, daß er Reichtum herausschlage. Nur der Meister gewinnt das Spiel; er wohnt glücklich, gedeiht. Die Götter sind nicht für den Stümper.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht opfert fehl, o Priester, macht's dem grossen recht, zur Reichthumsgabe regt ihn an; Wer eifrig ist, der siegt, hat Frieden und gedeiht; dem Kargen sind die Götter feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не споткнитесь вы, полные сомы! Угодите великому!  
 Сделайте, чтобы он рванул (нам) богатство!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य मा हरि꣡तो र꣡थे  
 तिस्रो꣡ व꣡हन्ति साधुया꣡  
 स्त꣡वै सह꣡स्रदक्षिणे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 स्तवै॑ । स॒हस्र॑ऽदक्षिणे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -74,37 +74,37 @@ genre M
 **यस्य** कुरुश्रवणाख्यस्य राज्ञः स्वभूताः **तिस्रः** **हरितः** त्रयोऽश्वाः **रथे** प्रस्थितं **मा** मां कवषं **साधुया** साधु **वहन्ति** कुरुश्रवणं राजानमहं **सहस्रदक्षिणे** अस्मिन् यागे **स्तवै** स्तौमि । प्रष्टिवाहिनं रथं परिगृह्य ऋषिराशास्ते ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whose three horses bear me plural asantly in the chariot; I praise him at the ceremony in which hepresents thousands.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Saying,) “He whose three tawny (horses) convey me on his chariot along  the straight way—  
 I shall praise him at a (sacrifice) with a priestly gift of a thousand  
 (cows)”—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose three bays harnessed to the car bear me straight onward: I will laud  
      The giver of a thousand meeds,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen drei Falben am Wagen mich aufs Beste fahren, ihn will ich preisen bei einem Opfer mit tausend Kühen als Opferlohn;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dessen drei gelbe Stuten mich im Wagen auf geradem Wege fahren; ich will Lob spenden dem, der tausend Gaben schenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чьи три буланые кобылицы при колеснице  
 Везут меня прямо к цели,  

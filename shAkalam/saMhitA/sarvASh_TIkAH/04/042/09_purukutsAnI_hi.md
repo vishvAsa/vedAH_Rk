@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरुकु꣡त्सानी हि꣡ वा᳐म् अ꣡दाशद्  
 धव्ये꣡भिर् इन्द्रावरुणा न꣡मोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृत्रह꣡णं ददथुर् अर्धदेव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अथ॑ । राजा॑नम् । त्र॒सद॑स्युम् । अ॒स्याः॒ । वृ॒त्र॒ऽहन॑म् । द॒द॒थुः॒ । अ॒र्ध॒ऽदे॒वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purukutsānī*
 - \[noun\], nominative, singular, feminine
@@ -108,7 +108,7 @@ genre M
 हे इन्द्रावरुणौ **पुरुकुत्सानी** पुरुकुत्सस्य पत्नी ऋषिप्रेरिता **वां** युवाम् **अदाशत्** **हि** अप्रीणयत् खलु । **हव्येभिः** हविर्भिः **नमोभिः** स्तुतिभिश्च । **अथ** **राजानं** **त्रसदस्युं** वृत्रहणम् **अर्धदेवम्** उक्तलक्षणं पुत्रम् **अस्याः** अस्यै पुरुकुत्सान्यै **ददथुः** दत्तवन्ताविति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,29 +119,29 @@ genre M
 Dwelling near the gods: ardhadevam = devānām samīpe vartamānam (yat sarveṣāmardhamindraḥ : **Taittirīya** **Saṃhitā** 5.4.8.3); or, Indra is declared to be one half of all the gods, and therefore, entitled to the largest share of offerings, yat sarveṣām ardham **indraḥ** **prati** tasmād indro devatānām bhuyiṣṭha bhāktmaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because the wife of Purukutsa served you two with oblations and acts  of homage, o Indra and Varuṇa,  
 so then to her you two gave King Trasadasyu, who smashes obstacles  (and) who is half a god.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The spouse of Purukutsa gave oblations to you, O Indra-Varuna, with homage.  
      Then unto her ye gave King Trasadasyu, the demi-god, the slayer of the foeman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn die Frau des Purukutsa wartete euch, Indra und Varuna, mit Opfern und Verneigungen auf. Ihr gabet ihr darauf den König Trasadasyu, den Vritratöter, den Halbgott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weil Purukutsa's Gattin euch mit Opfern huldigte, o Indra-Varuna ehrfurchtsvoll, so gabt ihr dieser den König Trasadasju als Feindbezwinger, den Halbgott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь жена Пурукутсы почтила вас  
 Жертвами, о Индра-Варуна, (и) поклонениями.  

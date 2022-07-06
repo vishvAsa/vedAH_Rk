@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग꣡न्ता इ꣡यान्ति स꣡वना ह꣡रिभ्याम्  
 बभ्रि꣡र् व꣡ज्रम् पपिः꣡ सो꣡मं ददि꣡र् गाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्रो꣡ता ह꣡वं गृणत꣡ स्तो꣡मवाहाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 कर्ता॑ । वी॒रम् । नर्य॑म् । सर्व॑ऽवीरम् । श्रोता॑ । हव॑म् । गृ॒ण॒तः । स्तोम॑ऽवाहाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ganteyānti* ← *gantā* ← *gam*
 - \[verb\], singular, periphrast. future
@@ -133,20 +133,20 @@ genre M
 इन्द्रः **हरिभ्यां** स्वकीयाभ्याम् **इयन्ति** हृदयस्थानि त्रीणि **सवना** सवनानि **गन्ता** गमनशीलो भवतु । कीदृशः । **वज्रं** स्वकीयमायुधं **बभ्रिः** भर्ता धारकः **सोमम्** अभिषुतं **पपिः** पाता **गा**। ददिः दाता **नर्यं** मनुष्यहितं **सर्ववीरं** बहुपुत्रोपेतं **वीरं** पुत्रं **कर्ता** यजमानाय दाता **गृणतः** स्तुवतः स्तोतुः संबन्धि **हवं** स्तोत्रं **श्रोता** श्रावकः **स्तोमवाहाः** स्तोमैः स्तोत्रैर्वहनीयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, with his steeds, come o us as many (daily) rites (as may be celebrated), bearing the thundeerbolt, drinking the **soma**, bestowing cattle, granting manly and multiplied posterity, hearing the invocation of his adorer, and being the accenter of (our) praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Going to even such pressings as these with his two fallow bays, bearing  his mace, drinking soma, giving cows,  
 who makes the manly hero possessed of hale heroes, the hearer of the  singer’s call, for praise songs are his vehicle.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/023/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -156,23 +156,23 @@ The alternation of root-accented -tar- agent nouns and redupl. agentive - i-stem
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 E'en humble rites with his Bay steeds he visits: he wields the bolt, drinks Soma, gives us cattle.  
      He makes the valiant rich in store of heroes, accepts our praise and hears the singer's calling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Besucher so vieler Somaopfer mit seinem Falbenpaar, Träger der Keule, Trinker des Soma, Schenker der Kühe, Macher des mannhaften Helden zum Vater von lauter Söhnen, Erhörer des Rufs der Sängers, vom Preislied angezogen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu schwachem Trank auch kommt er mit den Füchsen, den Blitz im Arm, trinkt Soma, schenket Kühe, Versieht den tapfern Mann mit allen Helden, vernimmt den Ruf des Sängers, Lob empfangend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он (должен) выезжать на паре буланых коней на столько-то выжимании сомы,  
 Нести ваджру, пить сому, дарить коров,  

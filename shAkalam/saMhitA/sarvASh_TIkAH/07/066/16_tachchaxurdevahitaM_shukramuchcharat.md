@@ -6,14 +6,14 @@ ChandaH = "पुरउष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡च् च꣡क्षुर् देव꣡हितं शुक्र꣡म् उच्च꣡रत्  
 प꣡श्येम शर꣡दः शतं꣡  
 जी꣡वेम शर꣡दः शत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 पश्ये॑म । श॒रदः॑ । श॒तम् । जीवे॑म । श॒रदः॑ । श॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tac* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -92,7 +92,7 @@ popular
 **तत्** प्रसिद्धं **चक्षुः** सर्वस्य प्रकाशकं **देवहितं** देवानां हितम् । तेषां हविःस्वीकारस्यैतदधीनत्वात् । अथवा  देवेन हितं **शुक्रं** निर्मलं सूर्यमण्डलम् **उच्चरत्** उद्गच्छति । तत् **शरदः** **शतं** शतसंवत्सरं **पश्येम** । **जीवेम** **शरदः** **शतम्** । पुनःश्रुतिरादरार्था ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,30 +103,30 @@ popular
 **Yajus**. 36.24 adds: śṛṇuyāma **śaradaḥ** śatam, prabravāma śaradaḥ śatam,**adīnaḥ** **syāma** śaradaḥ śatam, bhūyāśca śaradaḥ śatam, may we hear, may we speak, may we beindependent, for a hundred years or more
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That eye, fixed in place by the gods, blazing as it ascends,  
 might we see for a hundred autumns. Might we live for a hundred  
 autumns!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A hundred autumns may we see that bright Eye, God-ordained, arise  
      A hundred autumns may we live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten das von den Göttern eingesetzte lichte Auge hundert Herbste aufgehen sehen; wir möchten hundert Herbste erleben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mögen wir dies helle von den Göttern eingesetzte Auge [die Sonne], welches leuchtend aufgeht noch hundert Jahre lang sehen, hundert Jahre noch leben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот глаз, установленный богами, чистый, восходящий,  
 Мы хотели бы видеть сто осеней!  

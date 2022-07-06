@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उश꣡न्ता दूता꣡ न꣡ द꣡भाय गोपा꣡  
 मास꣡श् च पाथः꣡ शर꣡दश् च पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मार्डीक꣡म् ईट्टे सुवितं꣡ च न꣡व्यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑वायू॒ इति॑ । सु॒ऽस्तु॒तिः । वा॒म् । इ॒या॒ना । मा॒र्डी॒कम् । ई॒ट्टे॒ । सु॒वि॒तम् । च॒ । नव्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uśantā* ← *vaś*
 - \[verb noun\], nominative, dual
@@ -125,20 +125,20 @@ genre M
 हे इन्द्रवायू **उशन्ता** उशन्तौ कामयमानौ दूतौ । देवतेर्गतिकर्मणो दूतशब्दः । गन्तारौ **गोपा** गोपयितारावीदृशौ युवां **दभाय** हिंसायै **न** भवतम् । अपि तु **मासः** मासान् **च** **पूर्वीः** बह्वीः **शरदः** संवत्सरान् **च** चिरकालमस्मान् **पाथः** रक्षतम् । अपि च हे **इन्द्रवायू** **सुष्टुतिः** अस्मदीया शोभना स्तुतिः **वां** युवाम् **इयाना** गच्छन्ती प्राप्नुवन्ती **मार्डीकं** सुखम् **ईट्टे** याचते । यद्वा । सुखं यथा भवति तथा युवामीट्टे स्तौति । तथा **नव्यं** प्रशस्यं **सुवितं** सुष्ठु प्राप्यं धनं **च** ईट्टे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desiring (adoration), proceeding (in the sky), preservers of mankind, be not disposed, **Indra** and **Vāyu**,to do us harm; protect us through many months and years; our sincere praise, addressed to you both, solicitshappiness and excellent wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Two willing messengers, cow-protectors not to be deceived, you who  protect through the months and the many autumns [=years]—  
 Indra and Vāyu, this lovely praise hymn, speeding to you two, reverently  invokes you for grace and easy passage anew.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (n. 2a) suggests that ná in pāda a stands for haplologized *ná ná, with both the simile particle (“Willig wie Boten”) and the negative (“… nicht zu hintergehen”). Certainly it must represent the negative with infinitival dat., since ná dábhāya occurs twice elsewhere (V.44.3, IX.73.8) with gopá-, but it is less clear that we need the simile marker. Though Indra and Vāyu are probably not technically messengers in the way that Agni is, I see no real problem in identifying them thus 113 when they come to the sacrifice from the heavenly world, rather than simply comparing them to messengers.
 
@@ -147,23 +147,23 @@ I do not entirely understand why pātháḥ is accented, and, unusually, Oldenbe
 Geldner tr. the just cited phrase with “viele Monaten und Herbst,” though technically speaking fem. pūrvī́ḥ can only modify śarádaḥ, to which it is also adjacent. Klein (DGRV I.134) echoes Geldner’s interpr. forcefully (“… must be taken with both conjoined nouns” [my ital.]), and no doubt this is the ultimate intent, though I find preferable the rendering that matches the grammar (so also Renou without comment).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Guardians infallible, eager as envoys' preserve us safe through many months and autumns.  
      Addressed to you, our fair praise, Indra-Vayu, implores your favour and renewed well-being.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Willig wie Boten, als Wächter nicht zu hintergehen, haltet ihr beide viele Monate und Herbste lang Wacht. Indra und Vayu! Der Lobgesang, der sich an euch wendet, ruft um Erbarmen und um neue Wohlfahrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als will'ge Boten, Hüter nicht zu täuschen, behütet viele Monde ihr und Jahre, O Indra-Vaju, euch begehrt das Preislied, um Huld euch flehend und um neues Wohlsein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно два вестника, готовых служить, два пастыря, (которых) не обмануть,  
 Вы охраняете много месяцев и осеней.  

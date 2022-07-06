@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् इन्द्रासि वृत्रहा꣡  
 वि꣡ अन्त꣡रिक्षम् अतिरः  
 उ꣡द् द्या꣡म् अस्तभ्ना ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 उत् । द्याम् । अ॒स्त॒भ्नाः॒ । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -86,35 +86,35 @@ popular
 हे **इन्द्र** **त्वं** **वृत्रहा** **असि** । शत्रूणां हन्ता भवसि । **अन्तरिक्षं** मध्यमस्थानं च **वि** **अतिरः** । आवरकापनोदनेन प्रावर्धयः । **द्यां** द्युलोकं च **ओजसा** बलेन **उत्** **अस्तभ्नाः** । ऊर्ध्वमस्तम्भीः । यथाधो न पतति तथोपर्यवस्थापितवानित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, are the slayer of **Vṛtra**, you have spread out the firmament; you have upheld the heavenby your power.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, are the smasher of Vr̥tra. You spread out the midspace. You propped up heaven with your might.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art the Vrtra-slayer, thou, Indra, hast spread the firmament:  
      Thou hast with might upheld the heavens.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, bist der Vritratöter, du hast das Luftreich ausgedehnt; du hast den Himmel mit Kraft emporgestemmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist es, der den Vritra schlug, die Luft durchdrangst, o Indra, du; Den Himmel stütztest du mit Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра – убийца Вритры.  
 Ты расширил воздушное пространство,  

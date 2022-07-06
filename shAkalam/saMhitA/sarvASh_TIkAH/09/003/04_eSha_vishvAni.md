@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ वि꣡श्वानि वा꣡रिया  
 शू꣡रो य꣡न्न् इव स꣡त्वभिः  
 प꣡वमानः सिषासति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑मानः । सि॒सा॒स॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -77,41 +77,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पवमानः** क्षरन् **शूरः** वीरः **एषः** सोमो देवः **विश्वानि** सर्वाणि **वार्या** वरणीयाणि धनानि सत्वभिः बलैः **यन्निव** गच्छन्निव **सिषासति** अस्मदर्थं संभक्तुमिच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This strong one, as it drops, seems to encompass all desirable things with its power and seeks to bestow them upon us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, like a champion traveling with his warriors,  
 strives to win all desirable things, while he purifies himself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As often, the simile particle iva is “late,” following the first two words: śū́ro yánn iva sátvabhiḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, like a warrior going forth with heroes, as he flows along  
      Is fain to win all precious boons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser, während er sich läutert, wünscht wie ein mit seinen Soldaten ausziehender Held alles Wertvolle zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er strebt nach allen Gütern hin, sie zu erbeuten wie ein Held Mit Streiterschar, der rieselnde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот Павамана хочет захватить  
 Все желанные вещи,  

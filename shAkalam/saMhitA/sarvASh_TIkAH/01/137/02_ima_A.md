@@ -6,7 +6,7 @@ ChandaH = "अतिशक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡ आ꣡ यातम् इ꣡न्दवः  
 सो꣡मासो द꣡धिआशिरः  
@@ -17,7 +17,7 @@ ChandaH = "अतिशक्वरी"
 चा꣡रुर् ऋता꣡य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 सु॒तः । मि॒त्राय॑ । वरु॑णाय । पी॒तये॑ । चारुः॑ । ऋ॒ताय॑ । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ima* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -147,20 +147,20 @@ genre M
 हे मित्रावरुणौ **आ** **यातम्** आगच्छतम् । यतो युष्मदर्थम् **इन्दवः** क्लेदनसमर्थाः **सोमासः** सोमाः **दध्याशिरः** दध्नाश्रयणवन्तः सन्तः **इमे** पुरतो ग्रहेण गृहीता वर्तन्ते अतः आ यातम् । किंच **दध्याशिरः** धीयमानाशिरः सोमाः **सुतासः** मन्त्रेण ग्रावभिरभिषुताः संपन्नाः । अत आ यातमिति शेषः। आदित्यग्रहे दध्यवनयसद्भावात् तदपेक्षया दध्याशिर इत्युक्तम्। **उत** अपि च **वां** युवयोः प्रीतये पालनाय **उषसो** **बुधि** उषसः संबन्धिनि बोधे सति ॥ संपदादिलक्षणो भावे क्विप्।  ‘ सावेकाचः । इति विभक्तेरुदात्तत्वम् ॥ प्रकाशे संजाते सति । न केवलमुषस एव बोधे अपि तु **सूर्यस्य** **रश्मिभिः** **साकं** सूर्यकिरणैः सह प्रकाशे हविष्प्रदानाय संजाते सति **सुतः** सोमोऽभिषुतः। इदानीं वियुज्य उच्यते । **मित्राय** सर्वहिताय एतन्नामकाय अहरभिमानिदेवाय तथा **वरणाय** आवरकाय रात्र्यभिमानिदेवाय च तदर्थं सोमः सुतः इति शेषः । किंच **ऋताय** यज्ञाय तन्निर्वाहकाय तदर्थं **पीतये** पानाय । यज्ञसिद्ध्यर्थं हि देवानां सोमपानम् । यद्वा ॥ कर्तरि क्तिच् ॥ पीतये पात्रे ऋत्विगादये ऋताय यज्ञाय तन्निर्वाहकाय । **चारुः** चरणीयो भक्षणीयः सोमः सुतोऽभिषुतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, for the dipping **Soma** are mixed with curds; they are expressed and mixed with curds; whether they be prepared for you at the awaking of the dawn, or (be associated) with the rays of the sun; the juice is effused for **Mitra** and **Varuṇa**, for their drinking the grateful (libation); for their drinking at the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here—you two, drive hither—are the drops, the soma drinks mixed with  curds—the pressings mixed with curds.  
 And at the waking of the dawn, simultaneous with the rays of the sun, it is pressed for you two, Mitra and Varuṇa, for drinking—the pleasing  one (pressed) for truth and for drinking.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the temporal expression in e, see disc. ad I.135.3.
 
@@ -174,24 +174,24 @@ For the temporal expression in e, see disc. ad I.135.3.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here are the droppings; come ye nigh the Soma-droppings blent with curd, juices expressed and blent with curd.  
      Now for the wakening of your Dawn together with the Sun-God's rays,  
      juice waits for Mitra and for Varuna to drink, fair juice for drink, for sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Somasäfte sind mit saurer Milch gemischt - kommt her - die ausgepreßten sind mit saurer Milch gemischt. Auch für euch beide ist er bei dem Erwachen der Morgenröte, gleichzeitig mit den ersten Strahlen der Sonne gepreßt, für Mitra, für Varuna zum Trunke, der angenehme für den Wahrhaften zum Trunke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier sind die Indu's, kommet her, die milchgemischten Soma's hier, die milchgemischten Säfte hier; Und bei des Morgens Anbruch auch und bei der Sonne erstem Strahl Steht schöner Saft zum Trunk euch, Mitra-Varuna, bereit zu regelrechtem Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот – приходите! – капли  
 Сомы, разбавленные простоквашей,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ रोदसी अ꣡हिना बुध्नि꣡येन  
 स्तुवीत꣡ देवी अ꣡पियेभिर् इष्टइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घर्म꣡स्वरसो नदि꣡यो अ꣡प व्रन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒मु॒द्रम् । न । स॒म्ऽचर॑णे । स॒नि॒ष्यवः॑ । घ॒र्मऽस्व॑रसः । न॒द्यः॑ । अप॑ । व्र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 हे **रोदसी** द्यावापृथिव्यौ युवाम् **अहिना** **बुध्न्येन** अहिर्बुध्न्यनामकेन देवेन सह **नु** क्षिप्रम् **अप्येभिः** आपनीयैः **इष्टैः** कामैर्निमित्तभूतैः **स्तुवीत** स्तुवे । **सनिष्यवः** धनानां संभक्तुमिच्छन्तः **संचरणे** संचाराय समुद्रमध्यगमनाय **समुद्रं** **न** समुद्रमिव । तं यथा स्तुवन्ति तद्वत् । यस्मादेते देवाः **घर्मस्वरसः** दीप्तध्वनयः **नद्यः** नदीः **अप** **व्रन्** अपवृण्वन्तीति परोक्ष इव । अथवा ते देवा नदीरपवृण्वन्तु इत्याशीः । तस्मात् स्तुवे इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,7 +122,7 @@ genre M
 As those desirous: **samudram** na sañcaraṇe saniṣyavaḥ = dhanānām sambhaktum iccantaḥ samudramadhyagamanāya samudram yathā stuvanti, as those wishing to possess riches for the sake of going through the midst of the ocean praise the ocean; gharmasvara so nadyo apavran = dīptadhvanayho nadyo apavṛnvantiti **parokṣa** iva, referring this to the deities, the explanation is: may they, Heaven and Earth, cherish or replenish the rivers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, you divine World-Halves, one should praise (you) along with Ahi  Budhnya, with watery sacrifices.  
 They [=priests?], desirous of gain, have revealed them [=the watery  
@@ -130,7 +130,7 @@ sacrifices?] gurgling like the gharma pot, (like) rivers in their
 converging on the sea.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is close to impenetrable. For my view of its function in the hymn, see published introduction. I am still baffled by the concentration on water in bcd and by the proper disposition of the parts of cd.
 
@@ -143,23 +143,23 @@ iṣṭá- is rare and rarely applied to the object sacrificed, there are such e
 Although some distraction of complex similes is not rare, this seems an extreme example. Moreover, pāda c is identical to I.56.2, where there are no rivers in the context (but where the pāda doesn’t make much sense in context either). On the other hand, rivers converging on the sea is a very common trope in the RV, and so the distraction would not be too challenging to interpret. I am not particularly convinced by my own construction of this hemistich, but I find the the various other attempts at wringing sense out of it (in addition to the standard tr., cf. Lüders [Var. 190-91]) no more (indeed generally less) persuasive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agree, through these our watery oblations, Goddesses, Heaven and Earth, with Ahibudhnya.  
      As if to win the sea, the Gharma-heaters have opened, as they come anear, the rivers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun soll der Sänger euch, ihr beiden Welten, nebst dem Ahi budhnya preisen, ihr beiden Göttinnen mit den erwünschten Wassergottheiten. Wie die Gewinnsüchtigen auf gemeinsamer Fahrt das Meer, so haben sie die Flüsse, die wie der heiße Trank brodeln, entdeckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Preis sei euch nun, o Welten beide, nebst der Schlange der Tiefe, o Göttinnen, nebst den erwünschten Wassergöttern; wie bei dem Zusammenströmen ins Meer eröffneten die begierigen Ströme [des Soma's?] die von warmem Opfertrank rauschenden [etwa die Milch?].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сейчас (пусть прославит вас певец,) о две половины вселенной,  
 Вместе со Змеем глубин, о две богини, вместе с желанными водными божествами!  

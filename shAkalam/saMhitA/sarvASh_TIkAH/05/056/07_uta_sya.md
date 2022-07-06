@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्य꣡ वाजी꣡ अरुष꣡स् तुविष्व꣡णिर्  
 इह꣡ स्म धायि दर्शतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 प्र꣡ तं꣡ र꣡थेषु चोदत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मा । वः॒ । यामे॑षु । म॒रु॒तः॒ । चि॒रम् । क॒र॒त् । प्र । तम् । रथे॑षु । चो॒द॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -125,20 +125,20 @@ genre M
 **उत** अपि च **स्यः** सः **वाजी** वेजनवान् **अरुषः** आरोचमानः **तुविष्वणिः** प्रभूतध्वनिरश्वः । अरुष इत्यनेन रोहित इत्युक्तं भवति ।  ‘ प्रष्टिर्वहति रोहितः ' ( ऋ. सं. १. ३९. ६ ) इति ह्युक्तम् । **इह** इदानीं **दर्शतः** दर्शनीयः सन् **धायि** रथे नियोजितः । **स्म** इति पूरणः । हे **मरुतः** **वो** **यामेषु** गमनेषु सोऽश्वः **चिरं** विलम्बं **मा** **करत्** मा करोतु । **तं** **रथेषु** । रथे युक्तमिति शेषः । **प्र** **चोदत** प्रेरयत । यथा विलम्बं न कुर्यात्तथा प्रेरयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And let not that horse, bright-shining, loud-neighing, of graceful form, who has been plural ced (in harness), delay you, **Maruts**, on your journey; urge him on in the car.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this reddish racehorse here [=Agni], powerfully noisy, has been set  here to be seen.  
 Let him not make you too long on your journeys, o Maruts: spur him  forth on the chariots.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Whatever the reason for the previous vs., syá vājy àruṣaḥ “this reddish race horse here” contrasts with the áruṣī(ḥ) ‘reddish (mares)’ in 6a. Although in the published
 
@@ -152,23 +152,23 @@ Witzel Gotō produce a curious hybrid of prohibitive and subjunctive: “Nicht s
 the function of the subjunctive as “expectation,” but I do not understand how the subjunctive would interact with the mā́.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, and this loudly-neighing bright red vigorous horse who hath been sutioned, fair to see,  
      Let him not cause delay, O Maruts,, in your course, urge ye him onward in your cars.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch jener rötliche Renner, der laut tosende, möge dabei sichtbar werden; nicht soll er auf euren Fahrten säumen, ihr Marut, treibt ihn am Wagen an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies rothe, schnelle Ross auch, das gewaltig tobt, das schöne ward hier angelegt; Nicht säum', o Maruts, lang auf euren Fahrten es, an euren Wagen treibt es an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: этого рыжего скакуна, громко ржущего,  
 Надо поставить вот сюда, чтобы он был виден!  

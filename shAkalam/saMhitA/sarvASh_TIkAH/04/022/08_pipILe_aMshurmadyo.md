@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पिपीळे꣡ अंशु꣡र् म꣡दियो न꣡ सि꣡न्धुर्  
 आ꣡ त्वा श꣡मी शशमान꣡स्य शक्तिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आशु꣡र् न꣡ रश्मिं꣡ तुविओ꣡जसं गोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्म॒द्र्य॑क् । शु॒शु॒चा॒नस्य॑ । य॒म्याः॒ । आ॒शुः । न । र॒श्मिम् । तु॒वि॒ऽओज॑सम् । गोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pipīﾱe* ← *pipīḍe* ← *pīḍ*
 - \[verb\], singular, Perfect indicative
@@ -118,7 +118,7 @@ genre M
 हे इन्द्र **मद्यः** मादयिता **अंशुः** सोमः **पिपीळे** अपीड्यत। अभ्यषूयत इत्यर्थः। नेति संप्रत्यर्थे । **न** इदानी **सिन्धुः** स्यन्दमानः सोमः **त्वा** त्वाम् **आ** **यम्याः** आयच्छतु । **शुशुचानस्य** दीप्यमानस्य **शशमानस्य** स्तुवतः संबन्धी **अस्मद्र्यक्** अस्मदभिमुखं **शमी** शमनं **शक्तिः** स्तुतिकर्म च आयच्छतु । तत्र दृष्टान्तः । **आशुः** शीघ्रगामी यन्ता **गोः** गन्तुरश्वस्य तुव्योजसं बहुबलम् । दृढमित्यर्थः। **रश्मिं** **न** अश्वबन्धनरज्जुमिव तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 **Śamī** śaśamānasya **śaktiḥ** = śamanam stuvataḥ **stuti** **karma**; **śasa**'cānasya = dīptamānasya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The (soma-)plant has been squeezed out like an exhilarating river. By  the labor of the laboring (priest), might the skill  
 of bright blazing (Agni) pull you here toward us, as a swift (horse pulls  on) the powerfully strong reins of the cow [=leather?].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 asmadryàk opening 8c ushers in the suite of pāda-initial emphatic forms of the 1st pl. pronoun that lasts and intensifies through the real end of the hymn, vs. 10 (vs. 11 being the Vāmadeva Indra refrain): 8c: asmadryàk, 9a asmé, 9c asmábhyam, 10a asmā́kam, 10b asmábhyam, 10c asmábhyam, 10d asmā́kam. Kümmel (310) interpr. pipīḷé as presential, but there is in fact no way to tell: this is not only the only perfect form to this root attested anywhere but the only verb form to it in the RV (pīḍayati is added in the AV). I think it works better as an immediate past, although there is in practice little difference between my “has been squeezed” and Kümmel’s “ausgepresst ist.” Geldner, flg. Sāyaṇa., takes mádyaḥ with āṃśúḥ and explains the position of ná as “wie oft in Pādaausgang vor dem Vergleich.” But there seems no reason to ignore the usual structure of the simile, since mádyaḥ easily modifies síndhuḥ.
 
@@ -146,23 +146,23 @@ The simile in d and the frame in bc have slightly different senses. In the simil
 Despite Oldenberg’s expressed disbelief, I think Grassmann and Ludwig are correct in taking góḥ ‘of the cow’ to refer to reins made of leather. On pāda-final góh see also disc. ad vs. 4c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pressed is the gladdening stalk as 'twere a river: so let the rite, the toiler's power, attract thee  
      To us-ward, of the Bright One, as the courser strains his. exceedingly strong leather bridle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der berauschende Stengel ist ausgedrückt wie ein Strom. Dich soll die Macht des mit Fleiß den Opferdienst besorgenden, des Erglühenden zu uns heranziehen wie das schnelle Roß den Zügel des Rindes, dich den Starkkräftigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst ward Soma wie ein Strom, der Rausch bringt, dich ziehe her der Dienst des eifrig thät'gen, Des glänzenden zu uns her, wie ein Renner den sehr gewalt'gen Strang des Lederriemens.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стебель выжат, словно опьяняющая река.  
 Труд (и) сила трудящегося сверкающего (жреца)  

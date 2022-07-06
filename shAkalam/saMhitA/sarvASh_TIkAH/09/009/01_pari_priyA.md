@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि प्रिया꣡ दिवः꣡ कवि꣡र्  
 व꣡यांसि नप्ति꣡योर् हितः꣡  
 स्वानो꣡° याति कवि꣡क्रतुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒वा॒नः । या॒ति॒ । क॒विऽक्र॑तुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **कविः** मेधावी **कविक्रतुः** क्रान्तप्रज्ञः क्रान्तकर्मा वा सोमः **नप्त्योः** अधिषवणफलकयोः **हितः** निहितः **सुवानः** अभिषूयमाणः **दिवः** द्युलोकस्य **परि** **प्रिया** अतिप्रियाणि **वयांसि** ग्राव्णः । तथा च मन्त्रवर्णः -- वयांसि श्येना अतिथयः पर्वतानां ककुभः' इति । **याति** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,13 +101,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Sāmaveda** has svanaiḥ for suvānaḥ; between the two boards: liṭ, between the two grand-daughters, naptyoḥ. Terms of relationship are used in the **Veda** often to imply material objects; e.g. 'sisters' are 'fingers. Here, the two boards are a reference to the two boards used in pressing the Soma; another interpretation is that they imply two **hands**; proceeds to the stones: vayāṃsi; alternative rendering: the seer is plural ced between the hands as a most dear banquet to heaven; the knower of the past (or the wise in sacrifice) goes forth effused
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The poet of heaven makes the circuit of his own vital powers, when  propelled between his two granddaughters  
 as he is being pressed—he who has a poet’s purpose.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 víśvā yád rūpā́pariyā́ti “when he makes the circuit of all his forms …,” as Geldner points out (n. 1b). The journey around the filter must be meant.
 
@@ -118,23 +118,23 @@ The ppl. hitáḥ with which naptyòḥ is construed is ambiguous, between √hi
 Either is possible, however; ‘placed’ would weakly favor the ‘pressing boards’ interpr. of naptyòḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 परि॑ प्रि॒या दि॒वः क॒विर्वयां॑सि न॒प्त्यो॑र्हि॒तः ।  
 सु॒वा॒नो या॑ति क॒विक्र॑तुः ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Seher des Himmels durchläuft die beliebten Altersstufen, wenn er in die beiden Enkelinnen gesetzt und ausgepreßt wird, er, der Sehergabe besitzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels weiser Seher wird ans Töchterpaar gefügt und geht Gepresst zu lieben Labungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэт неба, помещенный между двух внучек,  
 Выжатый, проходит кругами любимые  

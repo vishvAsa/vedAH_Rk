@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मः प्रथमो꣡ विविदे  
 गन्धर्वो꣡ विविद उ꣡त्तरः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तुरी꣡यस् ते मनुष्यजाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 तृ॒तीयः॑ । अ॒ग्निः । ते॒ । पतिः॑ । तु॒रीयः॑ । ते॒ । म॒नु॒ष्य॒ऽजाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -104,7 +104,7 @@ popular;; epic anuṣṭubh (380)
 जातां कन्यां **सोमः** प्रथमभावी सन् **विविदे** लब्धवान् । **गन्धर्वः** **उत्तरः** सन् **विविदे** लब्धवान् । **अग्निः** **तृतीयः** **पतिः** **ते** तव । पश्चात् **मनुष्यजाः** पतिः **तुरीयः** चतुर्थः ॥ ॥२७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,28 +115,28 @@ popular;; epic anuṣṭubh (380)
 Gandharva: the Sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma acquired (you) first; the Gandharva acquired (you) next. Agni was your third husband. The fourth was human-born.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma obtained her first of all; next the Gandharva was her lord.  
      Agai was thy third husband: now one bornof woman is thy fourth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma hat sie zuerst bekommen, der Gandharva hat sie als Nächstfolgender bekommen. Dein dritter Gatte war Agni, dein vierter ist der Menschgeborene.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Soma erhielt dich zuerst; der Gandharve erhielt dich als der zweite, dein dritter Gemahl wurde Agni, dein vierter der Menschgeborene.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома первым познал (ее),  
 Гандхарва познал следующим.  

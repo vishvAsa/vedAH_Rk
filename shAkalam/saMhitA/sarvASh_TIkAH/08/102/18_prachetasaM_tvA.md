@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡चेतसं तुवा कवे  
 अ꣡ग्ने दूतं꣡ व꣡रेणियम्  
 हव्यवा꣡हं नि꣡ षेदिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ह॒व्य॒ऽवाह॑म् । नि । से॒दि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pracetasaṃ* ← *pracetasam* ← *pracetas*
 - \[noun\], accusative, singular, masculine
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **कवे** क्रान्तकर्मन् **अग्ने** **प्रचेतसं** प्रकृष्टबुद्धिं **वरेण्यं** वरणीयं **दूतं** देवानां **हव्यवाहं** हविषां वोढारं **त्वा** त्वां **नि** **षेदिरे** देवा निषीदन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods seat you in your plural ce, O wise **Agni**, the seer, the messenger, the most excellent the bearerof the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o sage Agni, a discerning messenger worthy to be chosen,  
 have they installed as conveyor of the oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise Agni, Gods established thee, the Seer, noblest messenger,  
      As bearer of our sacred gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Vorsorgenden, o Seher Agni, haben sie als kürbaren Boten, als Opferfahrer eingesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie setzen dich als kundigen, als schönen Boten, Agni, ein Als Opferfahrer, weiser, dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, прозорливца, о поэт,  
 О Агни, они усадили  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रजान꣡न्न् अग्ने त꣡व यो꣡निम् ऋत्वि꣡यम्  
 इ꣡ळायास् पदे꣡ घृत꣡वन्तम् आ꣡सदः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अरेप꣡सः सू꣡रियस्येव रश्म꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । ते॒ । चि॒कि॒त्रे॒ । उ॒षसा॑म्ऽइव । एत॑यः । अ॒रे॒पसः॑ । सूर्य॑स्यऽइव । र॒श्मयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prajānann* ← *prajānan* ← *prajñā* ← *√jñā*
 - \[verb noun\], nominative, singular
@@ -125,37 +125,37 @@ genre M
 हे **अग्ने** **तव** **ऋत्वियम्** ऋतौ भवं **घृतवन्तं** घृतेन सहितं **योनिं** निवासस्थानम् **इळायास्पदे** उत्तरवेद्यां **प्रजानन्** त्वम् **आसदः** आसीदसि । किंच **ते** तव **रश्मयः** **उषसामिव** यथोषसाम् **एतयः** प्रज्ञाः प्रकाशलक्षणा आगतयो वा निर्गता रश्मयो दृश्यन्ते तद्वत् **आ** **चिकित्रे** प्रज्ञायन्ते । **सूर्यस्येव** यथा सूर्यस्य **अरेपसः** पापरहिता निर्गताः **रश्मयः** दृश्यन्ते तद्वदा चिकित्रे प्रज्ञायन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sagacious **Agni**, you sit at your station suited to the sacrifice and anointed with butter at the foot-markof Iḷā. your quick-moving rays are manifested like those of the dawns, beautiful as those of the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Foresightful, o Agni, you have settled down seasonably to your  
 ghee-rich womb, in the footprint of refreshment.  
 Your arrivals show brightly like those of the dawns, your reins spotless  like the rays of the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Foreknowing well, O Agni, thou in Ila's place hast occupied thy regular station balmed with oil.  
      Marked are thy comings like the comings of the Dawns, the rays of him who shineth spotless as the Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich auskennend hast du dich, Agni, in deinen zeitgemäßen Schoß, den schmalzigen, an der Stätte der Ila gesetzt. Deine Ankunft ist prächtig wie die der Usas, makellos wie die Strahlen der Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wohl kennend, Agni, deinen regelrechten Sitz, den butterreichen, nahmst du Platz am Andachtsort, Es glänzten deine Bahnen wie des Morgenroths und wie der Sonne fleckenloser Strahlenschein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зная путь, о Агни, ты уселся на подобающее  
 Тебе лоно, богатое жиром, на месте Иды.  

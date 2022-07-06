@@ -8,7 +8,7 @@ title = "+062"
 ‘एते असृग्रम्' इति त्रिंशदृचं द्वितीयं सूक्तं भार्गवस्य जमदग्नेरार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रान्तम्-- एते असृग्रं जमदग्निः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 62 (774)  
 Soma Pavamāna  
@@ -20,7 +20,7 @@ ful expression of his relationship to creative speech.
 Though some of the tr̥cas display internal formal unity (e.g., vss. 19–21 begin ning with ā́), most do not. The poet to whom the hymn is attributed names himself  in verse 24.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061-067.md">
 <details open><summary><h2>61-67 ...{Loading}...</h2></summary>

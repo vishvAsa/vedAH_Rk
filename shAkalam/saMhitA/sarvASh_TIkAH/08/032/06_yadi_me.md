@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡दि मे रार꣡णः सुत꣡  
 उक्थे꣡ वा द꣡धसे च꣡नः  
 आरा꣡द् उ꣡प स्वधा꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒रात् । उप॑ । स्व॒धा । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadi*
 - \[adverb\]
@@ -92,41 +92,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **मे** मम **सुते** अभिषुते सोमे **उक्थे** स्तोत्रे **वा** **यदि** **रारणः** रमसे **चनः** अन्नं यदि च **दधसे** मह्यं प्रयच्छसि तर्हि **आरात्** दूरात् **स्वधा** अन्नेन **उप** **आ** **गहि** उपागच्छ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “If you are propitiated by my libation and praise, and bestow food (upon me), come with viands from afar.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If you will take pleasure in my pressed (soma) or you will find delight in  my solemn speech,  
 from afar come near through your own power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 An alternative syntactic analysis of ab would take everything through vā in b as part of the yádi clause with rāráṇaḥ as verb, and start the main clause with dádhase, accented because it’s clause-initial: “If you will take pleasure in my pressed (soma) or in my solemn speech, you will find delight.” There are no strong arguments either way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If my libation gladdens, if thou takest pleasure in my laud,  
      Come with thy Godhead from afar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du an meinem Safte Freude hast oder an dem Loblied gefallen findest, so komm doch nach Belieben aus der Ferne her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn du an meinem Trank dich freust, an meinem Spruch Gefallen hast, So komm mit Lust von ferne her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если тебе понравится мой сок,  
 Или ты получишь удовольствие от гимна,  

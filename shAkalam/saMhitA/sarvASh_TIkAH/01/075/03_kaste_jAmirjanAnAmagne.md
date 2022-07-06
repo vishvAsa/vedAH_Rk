@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡स् ते जामि꣡र् ज꣡नाना᳐म्  
 अ꣡ग्ने को꣡ दाशु꣡अध्वरः  
 को꣡ ह क꣡स्मिन्न् असि श्रितः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 कः । ह॒ । कस्मि॑न् । अ॒सि॒ । श्रि॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -90,20 +90,20 @@ genre M
 हे **अग्ने** **जनानां** मनुष्याणां मध्ये **ते** तव **कः** **जामिः** को बन्धुः । त्वं सर्वैर्गुणैरधिकोऽसि । तवानुरूपो बन्धुर्नास्तीति भावः । **को** **दाश्वध्वरः** । दाशुर्दत्तोऽध्वरो यज्ञो येन स तथोक्तः । त्वां यष्टुमपि समर्थः कोऽपि नास्तीत्यर्थः । **को** **ह** त्वं कथंभूतस्त्वम् । ईदृग्रूपः इति सर्वैर्न ज्ञायसे इत्यर्थः । **कस्मिन्** स्थाने **श्रितः** आश्रितः **असि** वर्तसे । तत्स्थानमपि न केनचित् ज्ञायते । अतस्त्वमस्माभिः मांसदृष्टिभिः कथमुपलब्धव्यः इत्यग्निः प्रशस्यते । दाश्वध्वरः । दाशृ दाने '। ‘ उणादयो बहुलम् (पा. सू. ३. ३.१ ) इति बहुलवचनात् कर्मणि उण्प्रत्ययः। बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । यणादेशे ‘ उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य ' इति स्वरितत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who, **Agni**, is your kinsman amongst people? Who is worthy to offer you sacrifice? Who, indeed, are you and where do you abide?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is the kinsman of your peoples? O Agni, who holds the pious  ceremony?  
 Who are you and fixed in what?
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -113,28 +113,28 @@ As noted in the published introduction, only the first of the questions in vs. 3
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who, Agni, is thy kin, of men? who is thy worthy worshipper?  
      On whom dependent? who art thou?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Who is thy kinsman among men, O Agni? Who performs worship to thee 1? Who art thou, and where dost thou rest?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer ist unter den Menschen dein Verwandter, o Agni, welcher Opferspender? Wer ist es? An wen hältst du dich?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer ist der Menschen Bruder dir? wer, Agni, ist's, der Opfer weiht? Wer ist's? mit wem bist du vereint?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто твой родственник среди людей,  
 О Агни, кто почтительно совершает обряд?  

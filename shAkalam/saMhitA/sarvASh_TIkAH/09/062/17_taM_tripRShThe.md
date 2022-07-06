@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्रिपृष्ठे꣡ त्रिवन्धुरे꣡  
 र꣡थे युञ्जन्ति या꣡तवे  
 ऋ꣡षीणां सप्त꣡ धीति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ऋषी॑णाम् । स॒प्त । धी॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **त्रिपृष्ठे** त्रिषवणपृष्ठे **त्रिवन्धुरे** त्रिवेदवन्धुरे **ऋषीणां** **रथे** यज्ञरथे **तं** सोमं **सप्त** सप्तभिः **धीतिभिः** छन्दोभिः **यातवे** देवान् प्रति गन्तुं **युञ्जन्ति** ऋत्विजो योजयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,12 +102,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Seven ceremonies: The back are the three oblations, the benches are the three **vedas**, and the ceremonies are the seven hymns, **chāndas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They yoke him to the three-backed, three-seated chariot, to drive, yoking him by means of the seven visionary thoughts of the seven seers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See published introduction. for the ritual specificity of the images in this vs. The participle “yoking” in the published translation of c should properly be in parens., since it’s simply generated from the finite yuñjanti in b.
 
@@ -124,23 +124,23 @@ Several elements link at least two of the vss. in the tṛca: the presence of v�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That he may move, they yoke him to the three-backed triple-seated car  
      By the Seven Rsis' holy songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn schirren sie an den dreirückigen, dreisitzigen Wagen zum Fahren unter den Gebeten der sieben Rishi´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Wagen, der drei Rücken hat, drei Sitze, schirren sie ihn an Zur Fahrt durch sieben Sängerwerk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

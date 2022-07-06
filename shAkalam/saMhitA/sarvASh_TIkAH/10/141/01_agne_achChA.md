@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने अ꣡छा वदेह꣡ नः  
 प्रत्य꣡ङ् नः सुम꣡ना भव  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 धनदा꣡ असि नस् तुव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (292)
 प्र । नः॒ । य॒च्छ॒ । वि॒शः॒ । प॒ते॒ । ध॒न॒ऽदाः । अ॒सि॒ । नः॒ । त्वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -131,36 +131,36 @@ genre D;; epic anuṣṭubh (292)
 हे **अग्ने** **इह** अस्मिन् देशे **नः** अस्मान् **अच्छ** **वद** आभिमुख्येन प्रियं ब्रूहि । तथा **प्रत्यङ्** **नः** अस्मान् प्रत्यञ्चन् **सुमनाः** शोभनमनस्को **भव** । हे **विशस्पते** यजमानलक्षणायाः प्रजायाः पालयितः **नः** अस्मभ्यं **प्र** **यच्छ** धनानि प्रदेहि यतः **त्वं** **नः** अस्माकं **धनदाः** **असि** धनानां दाता भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, speak to us here, be favourably disposed towards us; bestow upon us (riches), lord of men, foryou are the giver of wealth to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, address us here; facing us, become well-disposed to us.  
 Provide for us, Lord of the Clan. You are a prize-giver to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 TURN hither, Agni, speak to us: come to us with a gracious mind.  
      Enrich us, Master of the house: thou art the Giver of our wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, heiß uns hier willkommen, wende dich uns zu, sei wohlgesinnt! Schenke uns, du Clanherr; du bist uns der Schatzgeber!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sprich hold, o Agni, hier uns zu, sei freundlich gegen uns gesinnt; Und schenk uns Gut, o Stammes Herr, du bist es, der uns Reichthum gibt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, приветствуй нас здесь,  
 Обращенный к нам, будь благожелателен!  

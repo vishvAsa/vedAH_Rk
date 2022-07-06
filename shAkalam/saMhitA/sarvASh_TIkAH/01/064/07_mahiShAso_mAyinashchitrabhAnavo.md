@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महिषा꣡सो मायि꣡नश् चित्र꣡भानवो  
 गिर꣡यो न꣡ स्व꣡तवसो रघुष्य꣡दः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡द् आ꣡रुणीषु त꣡विषीर् अ꣡युग्धुवम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 मृ॒गाःऽइ॑व । ह॒स्तिनः॑ । खा॒द॒थ॒ । वना॑ । यत् । आरु॑णीषु । तवि॑षीः । अयु॑ग्ध्वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahiṣāso* ← *mahiṣāsaḥ* ← *mahiṣa*
 - \[noun\], nominative, plural, masculine
@@ -119,36 +119,36 @@ genre M
 महिष इति महन्नाम। **महिषासः** महान्तः । मायेति ज्ञाननाम । **मायिनः** प्राज्ञाः ”चित्रभानवः शोभनदीप्तयः **गिरयो** **न** **स्वतवसः** पर्वता इव स्वकीयेन बलेन युक्ताः **रघुष्यदः** शीघ्रगमना हे मरुत एवंभूतगुणविशिष्टाः यूयं **हस्तिनः** हस्तवन्तः **मृगाइव** गजा इव **वना** वनानि वृक्षजातानि **खादथ** भक्षयथ । प्रभङ्क्थेति यावत् । **यत्** यस्मात् **आरुणीषु** अरुणवर्णासु वडवासु **तविषीः** बलानि **अयुग्ध्वं** संयोजितवन्तः । तस्माद्भवतामिव वाहनस्यापि प्रबलत्वात्तत्संयुक्ता भवन्तः सर्वं भञ्जन्तीत्यर्थः ॥ रघुष्यदः । स्यन्दू प्रस्रवणे'। रघु शीघ्रं स्यन्दन्ते गच्छन्तीति रघुष्यदः ।  ‘ क्विप् च' इति क्विप् । अनिदिताम् ' इति नलोपः ।  ‘ वालमूललघ्वलम्° ' ( पा. म. ८. २. १८) इति लत्वविकल्पः । कृदुत्तरपदप्रकृतिस्वरत्वम् । खादथ ।  ‘ खादृ भक्षणे ' । अयुग्ध्वम् ।  ‘ युजिर् योगे । लुङि च्लेः सिच् । एकाचः० ' इति इट्प्रतिषेधः ।  ‘ धि च ' (पा. सू. ८. २. २५) इति सकारलोपः । ‘चोः कुः' इति कुत्वम् । अडागम उदात्तः । यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Vast, possessed of knowledge, bright-shining, like mountains in stability and quick in motion, you, like elephants, break down the forests when you put vigour into your ruddy (mares).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Buffalos, masters of artifice, of bright radiance, self-powerful like  mountains yet quick streaming,  
 like wild elephants you chew up the woods, when you have yoked your  own powers to those of your ruddy (horses).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mighty, with wondrous power and marvellously bright, selfstrong like mountains, ye glide swiftly on your way.  
      Like the wild elephants ye eat the forests up when ye assume your strength among the bright red flames.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Büffel, die verwandlungsfähigen, von prächtigem Glanze, selbststark wie die Berge, schnellaufend. Wie die Elefantentiere fresset ihr die Bäume ab, wenn ihr eure Stärken an die der roten Rosse gespannt habt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr zauberreichen Büffel strahlend hell an Glanz voll eigner Kraft wie Berge ihr, in schnellem Lauf Vernichtet gleich den Elefanten Wälder ihr, wenn ihr in eure rothen Stuten Kraft gelegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Быки, способные к волшебным превращениям, испускающие яркие лучи,  
 Сильные сами собой, словно горы, быстрые в беге,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वा꣡हिष्ठं त꣡द् अग्न꣡ये  
 बृह꣡द् अर्च विभावसो  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तुव꣡द् वा꣡जा उ꣡द् ईरते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 महि॑षीऽइव । त्वत् । र॒यिः । त्वत् । वाजाः॑ । उत् । ई॒र॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -113,7 +113,7 @@ genre M
 कस्मादिव ? - महिषीव, महान् ऋषिर्महर्षिः महेश्वरः । पृषोदरादित्वात् (पा.सू. 6.3.109) आकारस्येत्वम्, रेफलोपश्च । ततः पञ्चम्येकवचनस्य 'सुपां सुलुक्' (पा.सू. 7.1.39) इति लुक् । महाराजादिव त्वत्तो धनमुत्पद्यते । वृषादित्वात् (पा.सू. 6.1.203) आद्युदात्तत्वम् । यद्वा - महिष्येव गृह्यते, यथा राजभार्यायाः रत्नादिकं लभते एवं त्वत्तोपि । 'अविमह्योष्टिषच्' (उ.सू. 48) इति महेष्टिषचि कृते टित्त्वात् ङीप् (पा.सू. 4.1.15) । उदात्तनिवृत्तिस्वरेण (पा.सू. 6.1.174) ङीप उदात्तत्वे प्राप्ते ' महिष्य(ा)षाढयो(र्जाये)रिष्टकाख्या (चेत्)याम्' (फि.सू. 68) इत्याद्युदात्तत्वम् । किञ्च - वाजाः अन्नान्यपि त्वत्तः उदीरते उत्पद्यन्ते । ईर गतौ कम्पने च, इत्यदादिकोऽनुदात्तेत्, 'आत्मनेपदेष्वनतः' (पा.सू. 7.1.5) इत्यदादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,20 +124,20 @@ genre M
 **Yajus**. 26.12; yad vahiṣṭham tad agnaye bṛhad **arca** vibhāvaso: addressed to the **udgātā**, the interpretation is: sing to Agni, that bṛhad **sāma** (a hymn of the **Sāmaveda**), which is the most effectual means of obtaining our desires; **mahiṣī** iva tvad rayistvad vājā udīrate: mahiṣī is the adjective of **rayi**, great riches, iveti **pūraṇaḥ**; alternatively, iva denotes a comparison, thus explaining the passage: as the first-married bride proceeds from her home to her hausband, prathamapariṇītā **strī** gṛhāt patim udgacchati so riches and food proceed to the worshipper, Agni, from you
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What best conveys (offerings), that is for Agni. Chant (your chant) aloft,  o you of far-radiant goods.  
 Like a buffalo-cow wealth (arises) from you; victory’s prizes arise  
 from you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mightiest song is Agni's: shine on high, thou who art rich in light.  
      Like the Chief Consort of a King, riches and strength proceed -from thee.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Sing mightily to Agni the (song) which may best bring him (to us), O (god) rich in splendour 1! From thee (proceeds) wealth (mighty) like a buffalo-cow 2; from thee proceed gains.
 </details>
@@ -151,17 +151,17 @@ From thee wealth, like a cow,
 From thee strength riseth forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Singe dem Agni ein hohes Lied, das am meisten Zugkraft hat, o Vibhavasu. Von dir geht Reichtum aus, groß wie eine Büffelkuh, von dir die Siegerpreise.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein, Agni, ist das köstlichste, o strahle hell, du glänzender, Wie eine Milchkuh kommt von dir der Reichthum, Labungen von dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Исполни для Агни такое высокое (восхваление),  
 Которое лучше всех увозит жертву, о богатый сверкающим добром!  

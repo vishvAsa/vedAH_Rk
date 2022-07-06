@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ घा नः सूनुः꣡ श꣡वसा  
 पृथु꣡प्रगामा सुशे꣡वः  
 मीढ्वाँ꣡ अस्मा꣡कम् बभूयात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 मी॒ढ्वान् । अ॒स्माक॑म् । ब॒भू॒या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -90,45 +90,45 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **सः** **घ** स एवाग्निः **नः** अस्माकं **सुशेवः** सुसुखो भवत्विति शेषः । कीदृशः । **शवसा** बलस्य **सूनुः** पुत्रः **पृथुप्रगामा** पृथुप्रगमनः किंच **अस्माकं** **मीढ्वान्** कामानां वर्षिता **बभूयात्** भवतु ॥ घा नः । ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम् ' ( पा. सू. ६. ३. १३३) इति दीर्घः । शवसा । सुपां सुपो भवन्ति' इति ङसः टादेशः । पृथुप्रगामा । प्रकर्षेण गमनं प्रगामः । ‘हलश्च' इति घञ् । पृथुः प्रगामा यस्यासौ पृथुप्रगामा ।‘सुपां सुलुक्° ' इति पूर्वसवर्ण आकारः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । सुशेवः । ‘इण्शीङ्भ्यां वन्' ( उ. सू. १. १५० ) इति शेवशब्दो वन्प्रत्ययान्त आद्युदात्तः । ततो बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वे प्राप्ते ' आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । मीढ्वान् । मिह सेचने' इत्यस्मात् क्वसुप्रत्ययान्तो ‘दाश्वान् साह्वान् मीढ्वांश्च' इति निपातितः । बभूयात् । भवतेश्छान्दसस्य लिटः तिङां तिङो भवन्ति' (पा. म. ७. १. ३९ ) इति लिङादेशः । यासुट्स्थानिवद्भावात् आर्धधातुकत्वात् शबभावः । द्विर्वचने ‘भवतेरः (पा. सू. ७. ४. ७३) इति अत्वम् । तिङ्ङतिङः' इति निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May he, the son of strength, who moves everywhere fleetly, be propitious to us, and shower down (blessings).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might the son (of strength) by his strength, very kindly, of broad advance, become our benefactor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Oldenberg I supply śávasaḥ with sūnúḥ, to complete the common epithet of Agni “son of strength,” which is suggested by the associated instr. śávasā. Indirect support might come from the parallel voc. sahaso yaho ‘o young (son) of strength’ (with a different word for strength, also regularly appearing as an epithet of Agni) that ends the preceding hymn (I.26.10c). However, this supplement is not strictly necessary, and most tr. do not supply it (e.g., Geldner simply “unser Sohn”). In favor of a translation like Geldner’s is the presence of naḥ in pāda a. However, this could simply be a Wackernagel place-holder for asmā́kam in c. Although the difference might seem slight, in fact the two interpretations are quite different. Geldner’s emphasizes that we have created Agni, supplying ‘our’ with śávasā (“unser Sohn durch (unsere) Kraft”); this might suggest that Agni is in our debt because we begot him and he ought therefore to become our benefactor. The other tr. invest Agni with his own strength and hopes that he will graciously use some of it to benefit us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the far-striding Son of Strength, bringer of great felicity,  
      Who pours his gifts like rain, be ours.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May he, our son of strength 1, proceeding on his broad way, the propitious, become bountiful to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er, unser Sohn durch Kraft, der breitbahnige, freundliche sei uns ein Belohner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und er, der krafterzeugte Sohn, der holde, weithinschreitende, Er möge segensreich uns sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть же этот наш (Агни), сын (силы), с силой (своей),  
 Широко продвигающийся, очень благосклонный,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्य वयं꣡ सुमतउ꣡ यज्ञि꣡यस्य  
 अ꣡पि भद्रे꣡ सौमनसे꣡ सियाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आरा꣡च् चिद् द्वे꣡षः सनुत꣡र् युयोतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सः । सु॒ऽत्रामा॑ । स्वऽवा॑न् । इन्द्रः॑ । अ॒स्मे इति॑ । आ॒रात् । चि॒त् । द्वेषः॑ । स॒नु॒तः । यु॒यो॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
@@ -121,20 +121,20 @@ genre M
 **यज्ञियस्य** यज्ञार्हस्य **सुमतौ** शोभनायामनुग्रहात्मिकायां बुद्धौ **वयं** **स्याम** । तद्विषयभूताः भवेम । तथा **भद्रे** कल्याणे **सौमनसे** सुमनसो भावे **अपि** तदीये स्याम भवेम । स इन्द्रोऽस्मास्वनुग्रहात्मिकां बुद्धिं सौमनस्यं च करोत्वित्यर्थः । **सुत्रामा** सुष्ठु त्राता **स्ववान्** धनवान् **सः** **इन्द्रः** च **अस्मे** अस्मत्त: **आराच्चित्** दूरदेश एव **द्वेषः** द्वेष्टॄन् **सनुतः** । अन्तर्हितनामैतत् । अन्तर्हितान् **युयोतु** पृथक्करोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we continue in the favour of that adorable (deity) even in his auspicious good-will; may that protecting and opulent **Indra** drive far from us, into extinction, all those who hate us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we be in the favor of him who deserves the sacrifice, in his  propitious benevolence.  
 Let Indra of good protection, of good help to us keep hatred away even  from a distance.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details open><summary><h2>11-13 ...{Loading}...</h2></summary>
 
@@ -144,23 +144,23 @@ The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we enjoy the grace of him the Holy, yea, may we dwell in his auspicious favour.  
      May helpful Indra as our good Preserver drive from us, even from afar, our foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen in der Gunst und glückbringenden Gnade dieses Opferwürdigen leben. Dieser Indra, unser guter Schirmer und guter Helfer soll schon von ferne die Anfeindung abseits wenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir mögen stehn in deiner Huld, des Heil'gen, in segensvollem Glücke fest gegründet; Er, Indra, schön uns helfend und errettend, verjage uns den Feind, auch wenn er fern ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будем мы в милости у него, достойного жертв,  
 И в добром (его) расположении!  

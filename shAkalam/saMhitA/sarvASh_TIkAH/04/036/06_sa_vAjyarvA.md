@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वाजी꣡ अ꣡र्वा स꣡ ऋ꣡षिर् वचस्य꣡या  
 स꣡ शू꣡रो अ꣡स्ता पृ꣡तनासु दुष्ट꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यं꣡ वा꣡जो वि꣡भ्वाँ ऋभ꣡वो य꣡म् आ꣡विषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । रा॒यः । पोष॑म् । सः । सु॒ऽवीर्य॑म् । द॒धे॒ । यम् । वाजः॑ । विऽभ्वा॑ । ऋ॒भवः॑ । यम् । आवि॑षुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -151,36 +151,36 @@ genre M
 **स** **वाजी** वेजनवान् बलवान् सन् **अर्वा** अरणकुशलो भवति । **स** **ऋषिः** अतीन्द्रियज्ञानी सन् **वचस्यया** स्तुत्या युक्तो भवति । **स** **शरः** विक्रान्तः सन् **अस्ता** क्षेप्ता शत्रूणां भवति । स्वयं च **पृतनासु** संग्रामेषु **दुष्टरः** नाभिभाव्यो भवति । **सः** एव **रायस्पोषं** धनपुष्टिं **दधे** धत्ते । **स** **सुवीर्यं** सुवीरत्वं दधे धत्ते । **यं** मनुष्यं **वाजो** **विभ्वा** **ऋभवः** च **आविषुः** अरक्षन् । स एवमेवं भवतीति । अन्त्यस्य बहुवन्निर्देशस्त्रयाणाम् ऋभुव्यवहारप्राचुर्याभिप्रायः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He is vigorous and skilled in war, he is a ṛṣi worthy of homage, he is a hero, the discomfiter of foes, invincible in battles, he is possessed of ample wealth, and (is blessed) with excellent posterity, whom **Vāja** and Vibhvan, whom the **Ṛbhus** protect.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is a prizewinning charger; he a seer through his verbal artfulness; he a  champion, an archer, who is difficult to overcome in battles;  
 he has received an increase of his wealth and he an abundance of good  heroes—he, whom Vāja and Vibhvan, whom the R̥bhus have helped.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong is the steed, the man a sage in eloquence, the bowman is a hero hard to beat in fight,  
      Great store of wealth and manly power hath he obtained whom Vaja, Vibhvan, Rbhus have looked kindly on.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das wird ein gewinnreiches Rennpferd, der ein Rishi an Beredsamkeit, der ein tapferer Schütze, in Kämpfen unüberwindlich; der bekommt wachsenden Reichtum, der die Meisterschaft, den Vaja, Vibhvan, den die Ribhu´s begünstigt haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Ross ist schnell, der Sänger ist voll Liederkunst, der Schleuderheld ist unbesiegbar in der Schlacht, Und der empfängt des Gutes Mehrung, Heldenmacht, den Vadscha, Vibhvan, den die Ribhu's förderten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот – скакун, завоевывающий награду, тот – риши по (своему) красноречию,  
 Тот – герой-стрелок, неодолимый в сражениях,  

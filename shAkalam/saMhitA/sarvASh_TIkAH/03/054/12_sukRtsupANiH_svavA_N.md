@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुकृ꣡त् सुपाणिः꣡ सुअ꣡वाँ ऋता꣡वा  
 देव꣡स् त्व꣡ष्टा अ꣡वसे ता꣡नि नो धात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऊर्ध्व꣡ग्रावाणो अध्वर꣡म् अतष्ट
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पू॒ष॒ण्ऽवन्तः॑ । ऋ॒भ॒वः॒ । मा॒द॒य॒ध्व॒म् । ऊ॒र्ध्वऽग्रा॑वाणः । अ॒ध्व॒रम् । अ॒त॒ष्ट॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sukṛt* ← *su*
 - \[adverb\]
@@ -122,37 +122,37 @@ genre M
 **सुकृत्** सुष्ठु जगतः कर्ता **सुपाणिः** कल्याणपाणिः **स्ववान्** धनवान् **ऋतावा** सत्यसंकल्पः **त्वष्टा** **देवः** **तानि** यान्यस्माकमपेक्षितानि **अवसे** रक्षणाय **नः** अस्मभ्यं **धात्** ददातु । **ऋभवः** । उरु भान्तीत्यृभवः । हे ऋभवः **पूषण्वन्तः** पूष्णा सहिता यूयं **मादयध्वम्** । अस्मान् धनप्रदानेन हृष्टान् कुरुत। **ऊर्ध्वग्रावाणः** सोमाभिषवार्थमुद्यतग्रावाणः सन्तः ऋत्विज इममस्मदीयम् **अध्वरमतष्ट** अकुर्वन् । अतप्त ।  ‘ तक्षू त्वक्षू तनूकरणे' । ऊदित्त्वादत्रेडभावः ।  ‘ झलो झलि' इति सिलोपः ।  ‘ स्कोः संयोगाद्योः' इति ककारलोपः । बहुवचनस्यैकवचनं छान्दसम् ॥ विद्युथा मरुतं ऋष्टिमन्तौ दिवो मय ऋतजाता अयासः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the divine **Tvaṣṭā**, the able artificer, the dextrous-handed, the possessor of wealth, the observer of truth, bestow upon us those things (which are necessary) for our preservation; **ṛbhus**, associated with **Pūṣan**, make us joyful, as they (the priests), with uplifted stones, prepare the sacred libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of good action, of good hands, of good aid, truthful—let God Tvaṣṭar  establish these things for us for help.  
 In company with Pūṣan, o R̥bhus, make yourselves exhilarated.  With pressing stones raised, you have fashioned the  
 ceremony.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Deft worker, skiful-handed, helpful, holy, may Tvastar, God, give us these things to aid us,  
      Take your delight, Ye Rbhus joined with Pusan: ye have prepared the rite with stones adjusted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gutes wirkende, schönhändige, huldreiche, gesetzestreue Gott Tvastri möge uns diese Dinge zu unseren Gunsten gewähren. Ihr Rbhu´s ergötzet euch in Gesellschaft des Pusan! Die Preßsteine aufrichtend habt ihr Opfer geformt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gott Tvaschtar, schön an Händen, Werk und Beistand, der heilige, gewähr' uns dies zur Hülfe; Vereint mit Puschan trinkt zum Rausch, ihr Ribhu's, den Pressstein hebend wirktet ihr beim Feste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасно действующий, прекраснорукий, отзывчивый, соблюдающий закон  
 Бог Тваштар пусть даст нам (все) это на помощь?  

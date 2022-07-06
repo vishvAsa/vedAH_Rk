@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्ये꣡द् इ꣡न्द्रो म꣡देषु आ꣡  
 वि꣡श्वा वृत्रा꣡णि जिघ्नते  
 शू꣡रो मघा꣡ च मंहते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शूरः॑ । म॒घा । च॒ । मं॒ह॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -95,41 +95,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **शूरः** वीरः **इन्द्रः** **अस्येत्** अस्य सोमस्यैव **मदेषु** **विश्वा** विश्वानि **वृत्राणि** शत्रून् **आ** जिघ्नते आहन्ति । **मघा** मघानि धनानि **च** **मंहते** यजमानेभ्यः प्रयच्छति ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In the exhilaration of this draught the hero **Indra** smites all his enemies and bestows wealth (on his worshippers).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the raptures of just this (soma) Indra the champion keeps smashing  all obstacles  
 and bestows bounties.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just noted, the last pāda of vs. 9 seems to bring the hymn to a conclusion with a reprise of the end of the 1st vs., even though another vs. follows. Indeed vs. 10 does seem to stand apart from the rest of the hymn, while picking up various elements from it. First, note that though Indra was mentioned in the ring- compositional pādas, 1c índrāya pā́tave sutáḥ, 9c sómam índrāya pā́tave, he was absent from the rest of the hymn and his characteristics and deeds assigned to Soma instead. But here he reasserts his role as vṛtrá-smasher (b víśvā vṛtrā́ṇi jighnate), posited of Soma in 3b vṛtrahántamaḥ, and as giver of bounties (c maghā́ … maṃhate), also posited of Soma in 3b máṃhiṣṭhaḥ. The superlative mádiṣṭha- ‘most exhilarating’, describing the stream of soma in the first pāda of the hymn (1a), returns as the exhilarations of soma (asyá … mádeṣu)(10a) that spur Indra on to his exploits, the signature root √mad having been absent for all the rest of the hymn. (This particular ringcompositional effect is obscured in the published translation by my use of ‘raptures’ for mádeṣu in 10a.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the wild raptures of this draught, Indra slays all the Vrtras: he,  
      The Hero, pours his wealth on us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In seinem Rausche erschlägt Indra alle Feinde, und verschenkt der Held die Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In seinem Rausch erschlägt der Held die Feinde alle, und es theilt Die reichen Güter Indra aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это в опьянении им Индра  
 Убивает всех врагов  

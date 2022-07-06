@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ देवाँ꣡ इ꣡न्दरो+ विविये नॄ꣡न्  
 प्र꣡ च्यौत्ने꣡न मघ꣡वा सत्य꣡राधाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ तुरा꣡सः स्वयशो गृणन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑ । इत् । ता । ते॒ । ह॒रि॒ऽवः॒ । श॒ची॒ऽवः॒ । अ॒भि । तु॒रासः॑ । स्व॒ऽय॒शः॒ । गृ॒ण॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -130,35 +130,35 @@ genre M
 अथानयेन्द्र इन्द्रभावं परित्यज्य ऋषिभावेनाह । **एव** एवमुक्तप्रकारेण **देवान्** **नॄन्** च **इन्द्रः** देवः **प्र** **विव्ये** प्रकर्षेण गमयति । तस्मात्पराचीः प्रजाः प्र वीयन्ते प्रतीचीर्जायन्ते । ( तै. सं. ६. ३. १. ४ ) इति ब्राह्मणम् । किमन्यसहायेन नेत्याह । **च्यौत्नेन** स्वीयेन बलेन । कीदृश इन्द्रः । **मघवा** धनवान् **सत्यराधाः** सत्यधनः । अथ प्रत्यक्षेणाह । हे **हरिवः** हरिभ्यां तद्वन् **शचीवः** कर्मवन् हे **स्वयशः** स्वायत्तकीर्तेऽन्नवन् वेन्द्र **ता** तानि **विश्वा** सर्वाणि कर्माणि **ते** तव संबन्धीनि येषु कर्मसु **तुरासः** त्वरमाणा ऋत्विजः **अभि** **गृणन्ति** अभिष्टुवन्ति ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus in this way Indra sought to attract the gods and men to him; with  his stirring (action) he be(stirred them)—the bounteous one whose  
 generosity is real.  
 All these (deeds) of yours do the powerful ones sing, you able master of  the fallow bays, whose glory is your own.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even thus hath Indra Maghavan, truly bounteous, sped Gods and men with mighty operation.  
      The pious glorify all these thine exploits, Lord of Bay Coursers, Strong, and Selfresplendent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also redete Indra den Göttern zu, den Männern mit seinem Werk, der Gabenreiche, dessen Freigebigkeit wahrhaft ist. All dem von dir, o kräftiger Falbenbesitzer, stimmen die Mächtigen zu, du Selbstherrlicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So hat der starke, wahrhaft reiche Indra durch kräft'ge Thaten Gott und Mensch begeistert, Dies alles rühmen, starker Rosselenker! o herrlicher, an dir die eifervollen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так Индра вдохновил богов (и) мужей  
 (Своим) деянием, (он,) щедрый, чей дар истинен.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दुर् देवा꣡नाम् उ꣡प सख्य꣡म् आय꣡न्  
 सह꣡स्रधारः पवते म꣡दाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡गन्न् इ꣡न्द्रम् महते꣡ सउ꣡भगाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नृऽभिः॑ । स्तवा॑नः । अनु॑ । धाम॑ । पूर्व॑म् । अग॑न् । इन्द्र॑म् । म॒ह॒ते । सौभ॑गाय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
@@ -126,20 +126,20 @@ genre M
 देवानामिन्द्रादीनां सख्यं सखिभावं उपायन् उपगच्छन् सहस्रधारः बहुविधधारः इन्दुः सोमः मदाय देवानाम्मदार्थं पवते कलशादिषुक्षरति । नृभिः कर्मनेतृभिः स्तवानः स्तूयमानः सोमः पूर्वं पुरातनं धाम द्युलोकमनुगच्छति । तदेवाह—महते प्रभूताय सौभगाय सौभाग्याय इन्द्रं अगन् गच्छति । सोमे इन्द्रेण पीते सति यजमानानां महा- सौभाग्यं भवति खलु । अगन् गमेर्लुङि घसेति च्लेर्लुक् मोनोधातोरिति नत्वं ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu** coming to obtain the friendship of the god; flows in a thousand streams for (their) exhilaration, glorified by the priests (he proceeds) to his ancient station, he proceeds to **Indra** for the sake of great prosperity (to the worshippers).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The drop, coming here to fellowship with the gods, purifies himself in a  thousand streams for exhilaration.  
 Being praised by men, he has gone along his earlier domain, to Indra for  great good portion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take ánu dhā́ma pū́rvam as referring to an earlier mode of praise (e.g., “nach der früheren Weise”), but dhā́man- in soma hymns tends, in my view, to refer to the physical domain(s) of the ritual ground, which Soma typically travels across in the course of his ritual preparation. See, e.g., the exx. in the immediately preceding hymn IX.96.18-19 and comm. thereon).
 
@@ -154,23 +154,23 @@ As Renou points out (ad vs. 6), the key to this tṛca is the dative of purpose:
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Winning the friendship of the Deities, Indu flows in a thousand streams to make them joyful.  
      Praised by the men after the ancient statute, he hath come nigh, for our great bliss, to Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem der Saft zu der Götter Freundschaft eingeht, läutert er sich in tausend Strömen zum Rausche; von den Männern gepriesen nach der früheren Weise, hat er den Indra aufgesucht zu großem Glücke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Indu, eilend zu der Götter Freundschaft, in tausend Strömen rieselt er zum Rausche, Gerühmt von Männern nach der alten Ordnung; zu hohem Glück ist er genaht dem Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приближаясь к дружбе богов, сок сомы  
 В тысячу потоков очищается для опьянения.  

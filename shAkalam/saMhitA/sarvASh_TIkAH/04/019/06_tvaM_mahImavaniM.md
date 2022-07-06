@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् मही꣡म् अव꣡निं विश्व꣡धेनां  
 तुर्वी꣡तये वयि꣡याय क्ष꣡रन्तीम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुतरणाँ꣡ अकृणोर् इन्द्र सि꣡न्धून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अर॑मयः । नम॑सा । एज॑त् । अर्णः॑ । सु॒ऽत॒र॒णान् । अ॒कृ॒णोः॒ । इ॒न्द्र॒ । सिन्धू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -112,36 +112,36 @@ genre M
 हे इन्द्र **त्वं** **महीं** महती **विश्वधेनां** विश्वस्य प्रीणयित्रीं **तुर्वीतये** तुर्वीतिनाम्ने राज्ञे **वय्याय** वय्यनाम्ने च **क्षरन्तीम्** अभीष्टान् कामान् दुहतीम् **अवनिं** भूमिं **नमसा** अन्नेन **एजत्** एजता चलता **अर्णः** अर्णसोदकेन च **अरमयः** रमयसि । इन्द्रः पृथिवीमन्नोदकसमृद्धां करोतीत्यर्थः । किंच हे **इन्द्र** त्वं **सिन्धून्** जलानि **सुतरणान्** सुष्ठु तीर्णानि **अकृणोः** अकार्षीः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have made the vast, all-cherishing, and exuberant earth, delighted with (abundant) food, and tremulous water, for (the sake of) **Turvīti** and Vayyā; you have made the rivers easy to be crosseḍ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Turvīti and Vayya you brought to rest the great flowing watercourse  with its all-nourishing streams  
 and the moving flood, because of their reverence. You made the rivers  easy to cross, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou for the sake of Vayya and Turviti didst stay the great stream, flowing, allsustaining:  
      Yea, at their prayer didst check the rushing river and make the floods easy to cross, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hießest für Turviti und Vayya den strömenden Fluß ehrerbietig still stehen, die bewegte Flut; du machtest die Ströme leicht zu durchschreiten, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du hieltest willig fest die schnelle Strömung, den grossen Fluss, der alle Wasser fasste, Den rinnenden, und machtest leicht durchschreitbar, o Indra, ihn dem Vajja und Turviti.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Великую всенасыщающую переливающуюся стремнину  
 Для Турвити (и) Вайи ты остановил.  

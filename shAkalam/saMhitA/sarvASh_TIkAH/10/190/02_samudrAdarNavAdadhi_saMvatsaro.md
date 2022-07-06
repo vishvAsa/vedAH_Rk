@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समुद्रा꣡द् अर्णवा꣡द् अ꣡धि  
 संवत्सरो꣡ अजायत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡श्वस्य मिषतो꣡ वशी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 अ॒हो॒रा॒त्राणि॑ । वि॒ऽदध॑त् । विश्व॑स्य । मि॒ष॒तः । व॒शी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samudrād* ← *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
@@ -97,36 +97,36 @@ popular;; epic anuṣṭubh (292)
 **मिषतो** निमिषादि-युक्तस्य विश्वस्य सर्वस्य प्राणिजातस्य **वशी** स्वामी भूत्वा वर्तते॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “From the watery ocean was the year afterwards produced, ordaining nights and days, the ruler ofevery moment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From the undulating sea was born the year,  
 which distributes the days and nights and exerts its will over everyone  who blinks [=mortals].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From that same billowy flood of sea the Year was afterwards produced,  
      Ordainer of the days nights, Lord over all who close the eye.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus dem flutenden Ozean entstand das Jahr, das die Tage und Nächte ordnet, das über alles, was die Augen öffnet, gebeut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke hat den Tag erhellt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из волнующегося океана  
 Родился год.  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उवे꣡ अम्ब सुलाभिके  
 य꣡थेवाङ्ग꣡ भविष्य꣡ति  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 भ॒सत् । मे॒ । अ॒म्ब॒ । सक्थि॑ । मे॒ । शिरः॑ । मे॒ । विऽइ॑व । हृ॒ष्य॒ति॒ । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uve*
 - \[adverb\]
@@ -129,7 +129,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 एवमिन्द्राण्या शप्तो वृषाकपिर्ब्रवीति । **उवे** इति संबोधनार्थो निपातः । हे **अम्ब** मातः **सुलाभिके** शोभनलाभे त्वया **यथैव** येन प्रकारेणैवोक्तं तथैव तत् **अङ्ग** क्षिप्रं **भविष्यति** भवतु । किमनेन त्वदनुप्रीतिकारिणा ग्रहेण मम प्रयोजनम् । किंच **मे** मम पितुः त्वदीयो **भसत्** भग उपयुज्यताम्। किंच मम पितुस्त्वदीयं **सक्थि** चोपयुज्यताम् । किंच **मे** मम पितरमिन्द्रं त्वदीयं **शिरः** च प्रियालापेन **वीव** यथा कोकिलादिः पक्षी तद्वत् **हृष्यति** हर्षयतु । मम पिता **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,30 +140,30 @@ popular;; epic anuṣṭubh (525);; repeated line
 \[Vṛṣākapi speaks\]: O mother, who are easy of access, it will quickly be as (you have said); may my(father) and you, mother, be united; may it delight my (father) and your head like a bird; Indra is above all (theworld).
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Vr̥ṣākapi:] “Hey mama, you easy little lay, I get how it’s, like, really  gonna be.  
 My bottom, mama, my thigh, my ‘head’ are gettin’, like, excited.”  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mother whose love is quickly wibn, I say what verily will be.  
      My,breast, O Mother, and my head and both my hips seem quivering. Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O weh, Mütterchen, du leicht zu kriegendes Weibchen, wie es wohl sicher kommen wird, meine Scham, meine Schenkel, mein Kopf jucken mir schier darnach, Mütterchen." - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich spreche, o leicht zu gewinnende Mutter, wie es bald geschehen wird. Mein Hinterer, o Mutter, meine Hüfte und mein Kopf ist gleichsam in Aufregung. Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

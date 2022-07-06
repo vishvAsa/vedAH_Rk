@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् सो꣡म आ꣡ सुते꣡ न꣡र  
 इन्द्रअग्नी꣡ अ꣡जोहवुः  
 स꣡प्तीवन्ता सपर्य꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सप्ति॑ऽवन्ता । स॒प॒र्यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -81,43 +81,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सोमे** **सुते** अभिषुते सति **नरः** कर्मणां नेतार ऋत्विजः **सपर्यवः** परिचरणकामाः सन्तः **सप्तीवन्ता** प्रशस्ताश्वौ **इन्द्राग्नी** इन्द्रमग्निं च **यत्** यदा **आ** **अजोहवुः** अभिह्वयन्ते तदा युवामागच्छतमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When adoring leaders (of rites), invoke you two, lords of horses, on the **Soma** being offered, (comehither).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When superior men kept calling Indra and Agni when the soma was  pressed,  
 (men) seeking to serve the two who possess teams—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is a fragment, a yád clause without a main cl. It also contains an augmented intensive ájohavuḥ; this preterital form seems out of place in a hymn that lives almost entirely in the ritual present (our actions for Indra and Agni) and immediate future (via the imperatives we address to those same gods). (Only ajani in vs. 1 is preterital, but this aorist refers to the immediate ritual past.) The verse is also one of the few in this hymn that lacks parallel pādas or near repetitions elsewhere.
 
 (See Geldner’s nn and Bloomfield, RReps for some of the details, though Bloomfield does not list partial repetitions.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When heroes prompt in worship call Indra and Agni, Lords of steeds,  
      Beside the Soma juice effused.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da bei gepreßtem Soma die Herren ehrerbietig die beiden Rossefahrer Indra und Agni riefen, -
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Männer bei gepresstem Trank euch, Indra-Agni, rufen an, Euch rossbegabte, ehrfurchtsvoll,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если при выжатом соме  
 Индру-Агни громко позвали мужи,  

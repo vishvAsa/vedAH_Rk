@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिया꣡न् नु꣡ पूत꣡दक्षसो  
 दिवो꣡ वो मरुतो हुवे  
 अस्य꣡ सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒स्य । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyān* ← *tya*
 - \[noun\], accusative, plural, masculine
@@ -83,35 +83,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **मरुतः** मितराविण एतन्नामका देवाः **पूतदक्षसः** परिशुद्धबलान् **दिवः** स्वतेजसा दीप्यमानान् । यद्वा । दिवो द्युलोकस्थितान् । **त्यान्** तान् प्रसिद्धान् **वः** युष्मान् **नु** क्षिप्रं **हुवे** आह्वयामि । किमर्थम् । **अस्य** अस्मदीयस्य **सोमस्य** **पीतये** पानाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Maruts**, I invoke you, resplendent, of pure vigour, to drink this **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just these of refined skill—you, o Maruts—from heaven I now call, to drink of this soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 You, even such, pure in your might, you, O ye Maruts, I invoke  
      From heaven to drink this Somajuice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, Marut, von lauterem Wollen rufe ich vom Himmel her - zum Trunke dieses Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch reingesinnte ruf' ich nun, o Maruts, von dem Himmel euch, Zum Trunke dieses Soma's her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вон тех с чистой силой действия  
 Марутов я зову для вас с неба  

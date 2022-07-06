@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ष्यन् वा꣡चम् उपवक्ते꣡व हो꣡तुः  
 पुनान꣡ इन्दो वि꣡ षिया मनीषा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवी꣡रियस्य प꣡तयः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 इन्द्रः॑ । च॒ । यत् । क्षय॑थः । सौभ॑गाय । सु॒ऽवीर्य॑स्य । पत॑यः । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣyan* ← *iṣ*
 - \[verb noun\], nominative, singular
@@ -126,7 +126,7 @@ genre M;; repeated line
 हे **इन्दो** सोम **वाचं** स्तुतिम् **इष्यन्** प्रेरयन् **होतुः** **उपवक्तेव** यथाध्वर्युः प्रतिगरं कुर्वन् प्रोत्साहयति तद्वत् स्तोतॄणां शंसनाय प्रोत्साहं कुर्वन् **पुनानः** पूयमानस्त्वं **मनीषां** बुद्धि **वि** **ष्य** विमुञ्च । किंतु बुद्धिं धनप्रदानाभिमुखीं कुरु । किंच **यत्** यदा **इन्द्रश्च** त्वं च सह यज्ञे **क्षथथः** निवसथः तदा स्तोतारो वयं **सौभगाय** सौभाग्याय स्याम । किंच **सुवीर्यस्य** शोभनवीर्योपेतस्य धनस्य **पतयः** स्वामिनः **स्याम** भवेम ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,35 +137,35 @@ genre M;; repeated line
 Set free the understanding: i.e., make his (?Indra's) mind favourably disposed to grant wealth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Inciting speech, as the Upavaktar incites the speech of the Hotar, while  being purified, o drop, unleash the inspired thought.  
 Since (you) and Indra have the power for good fortune, might we be  
 lords of an abundance of heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Upavaktar priest prompts the Hotar to speak. On this priestly title and its relationship to the Maitrāvaruṇa priest, see Minkowski, Priesthood in Ancient India, 118-27. It may be no accident that this priestly title, found only 3x in the RV (IV.9.5, VI.71.5, and here), occurs directly after a mention of Varuṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sending thy voice out as Director, loosen the Invoker's thought, O Indu, as they cleanse thee.  
      While thou and Indra rule for our advantage, may we be masters of heroic vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zur Rede auffordernd, wie der Upavaktri zur Rede des Hotri, entbinde bei deiner Läuterung die Dichtung, o Saft! Da du und Indra, ihr beide, die Macht zum Glück habt, so möchten wir die Herren der Meisterschaft sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Stimm erhebend wie des Priesters Mahner mach flammend, Indu, frei des Herzens Andacht, Wenn du und Indra herrscht zu hohem Glücke, so lasst uns Herren sein von Heldenscharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Побуждая к речи, как упавактар, (-речь) хотара,  
 Очищаясь, о сок сомы, развяжи поэтическую мысль!  

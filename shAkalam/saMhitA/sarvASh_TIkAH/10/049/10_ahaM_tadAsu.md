@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ त꣡द् आसु धारयं य꣡द् आसु न꣡  
 देव꣡श् चन꣡ त्व꣡ष्टा अ꣡धारयद् रु꣡शत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡धोर् म꣡धु श्वा꣡त्रियं सो꣡मम् आशि꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्पा॒र्हम् । गवा॑म् । ऊधः॑ऽसु । व॒क्षणा॑सु । आ । मधोः॑ । मधु॑ । श्वात्र्य॑म् । सोम॑म् । आ॒ऽशिर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -137,7 +137,7 @@ genre M
 **अहं** **तत्** प्रसिद्धं पयः **आसु** गोषु **धारयं** धृतवानस्मि । धृञ् धारणे । ण्यन्तस्य लङि रूपम् । **यत्** पयः **आसु** गोषु **देवश्चन** **त्वष्टा** देवशिल्पी सूर्यो वा देवः **न** **चन** **अधारयत** धर्तुं नाशक्नोत् । कीदृक् पयोऽधारयमिति चेत् उच्यते । **रुशत्** दीप्तं **स्पार्हं** स्पृहणीयम् । केषु प्रदेशेष्विति उच्यते । **गवामूधःसु** उद्धततरेषु गवां पयोधारणप्रदेशेषु । किंच **मधु** उदकं **वक्षणासु** । नदीनामैतत् । वहनशीलासु नदीषु धारयामीत्यनुषज्यते । नद्युदकधारणस्थावधिरुच्यते । **आ** **मधोः** आ उदकोत्पत्तेः । आगामिवर्षासमयपर्यन्तमित्यर्थः । कीदृशं मध्विति तदुच्यते । **श्वात्र्यम्** । श्वात्रमिति क्षिप्रनाम । क्षिप्रगमनार्हम् । यद्वा । श्वात्र्यमित्युत्तरत्र संबध्यते । श्वात्र्यं सुखावहं **सोमं** प्रति **आशिरं** धारयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,30 +148,30 @@ genre M
 In them that: them, means the cows and that, means the milk; upto thesource of the water: ā madhoḥ\]. his energy stimulates both gods and men; lord of horses, doer of great deeds, renowned (**Indra**), the eager(priests) glorify all these (your actions).
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I held fast in them that which the god Tvaṣṭar never held fast in  
 them: the gleaming,  
 eagerly sought (milk) in the udders, in the bellies of the cows, the honey  of honey, the swelling soma, and its milk-mixture.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I set within these cows the white milk which no God, not even Tvastar's self, had there deposited,-  
      Much-longed-for, in the breasts, the udders of the kine, the savoury sweets of meath, the milk and Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich erhalte in ihnen, was in ihnen nicht einmal Gott Tvastri festgehalten hat, die weiße begehrte Milch in der Kühe Euter, in den Bäuchen, die süßer als süß ist, um den schwellenden Soma zu mischen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In diese Kühe fügte ich die helle Milch, die selbst Gott Tvaschtar einzufügen nicht verstand, Die lieblich in der Kühe Bauch und Euter ruht, des Methes Süss, den kräft'gen Trank, die warme Milch.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я сохраняю в них то, что в них даже  
 Бог Тваштар не сохранил – светлое  

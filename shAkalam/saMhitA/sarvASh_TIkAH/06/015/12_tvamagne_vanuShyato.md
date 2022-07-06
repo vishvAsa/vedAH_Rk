@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने वनुष्यतो꣡ नि꣡ पाहि  
 तुव꣡म् उ नः सहसावन्न् अवद्या꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ रयि꣡ स्पृहया꣡यियः सहस्री꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सम् । त्वा॒ । ध्व॒स्म॒न्ऽवत् । अ॒भि । ए॒तु॒ । पाथः॑ । सम् । र॒यिः । स्पृ॒ह॒याय्यः॑ । स॒ह॒स्री ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -119,42 +119,42 @@ genre M
 हे **अग्ने** **त्वं** **वनुष्यतः** हिंसकाच्छत्रोः **नि** नितरामस्मान्रक्ष। हे सहसावन् बलवन्नग्ने **त्वमु** त्वमेव **नः** अस्मान् **अवद्यात्** पापात् निपाहि। **त्वा** त्वां **ध्वस्मन्वत्** ध्वंसनवत् ध्वस्तदोषं **पाथः** हविर्लक्षणमस्माभिर्दत्तमन्नं **सम्** **अभ्येतु** सम्यगभिगच्छतु । **स्पृहयाय्यः** स्पृहणीयः **सहस्री** सहस्रसंख्यायुक्तः **रयिः** त्वया दत्तं धनं सम्यगभिगच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Protect us, **Agni**, from the malignant, preserve us, mighty one, from wickedness; may the offering come to you free from defects; may desirable riches, by your sands, (reach us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni—protect (us) from the rapacious one, and you, mighty one— (protect) us from reproach.  
 Let the smoke-enwrapped (oblation) come entirely to you, to the  fold (of the gods); let thousandfold desirable wealth (come)  
 entirely.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The problematic pāda here is c. The initial sám in both c and d and the fact that d otherwise contains only a phrase in the nominative invite us to assume that c and d have the same structure and that we should supply the verb abhy ètu from c for d, as well as, quite possibly, tvā. But though the NP in d, “thousandfold desirable wealth,” is something we would quite naturally invite to “come to you entirely,” the general assumption is that dhvasmanvát, whether it modifies pā́thaḥ ‘fold’ (Grassmann, Renou) or not (Oldenberg, Geldner), refers to something undesirable -- e.g., Oldenberg’s (ZDMG 55.313) tentative “was voll von Zerfall [decay] ist.” It is therefore uncomfortable to invite it to come anywhere near Agni or us. Certainly both occurrences of its base dhvasmán- (IV.6.6, VIII.66.15) are in fact in negative contexts. But the substance itself, smoke, is semantically neutral, and in this ritual context something ‘possessing smoke’ can be positive: the oblation as it is poured into the fire will be surrounded by smoke, and, by one model of the sacrifice, it will go to the gods in Agni’s smoke as that smoke rises to heaven. I therefore supply havyám here (found in this tṛca in 10d), and take tvā and pā́thaḥ as two sequential accusatives of goal. Agni is the first destination of the smoke-wrapped oblation, which must be poured into the fire, but it then goes to “the fold (of the gods)” for their consumption -- devā́nām is a standard dependent gen. with pā́thaḥ (esp. in Āprī hymns, II.3.9, III.8.9, etc.).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Guard us from him who would assail us, Agni; preserve us, O thou Victor, from dishonour.  
      Here let the place of darkening come upon thee: may wealth be ours, desirable in thousands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütze du, Agni, vor dem Neider, du uns vor Tadel, du Gewaltiger! Alles, was einen Beschmutzer hat, soll insgesamt bei dir Zuflucht finden, bei dir kommt begehrenswerter, tausendfältiger Reichtum zusammen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schirm uns, Agni, vor dem händelsücht'gen und vor Verleumdung uns, o kraftbegabter; Es dring mit dir dein rauchumhüllter Gang vor und tausendfacher, vielbegehrter Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, оберегай (нас) от завистника,  
 Ты, о владеющий силой, нас от бесчестья!  

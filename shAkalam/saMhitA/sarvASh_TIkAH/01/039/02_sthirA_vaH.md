@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्थिरा꣡ वः सन्तु आ꣡युधा पराणु꣡दे  
 वीळू꣡ उत꣡ प्रतिष्क꣡भे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 मा꣡ म꣡र्तियस्य मायि꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यु॒ष्माक॑म् । अ॒स्तु॒ । तवि॑षी । पनी॑यसी । मा । मर्त्य॑स्य । मा॒यिनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sthirā* ← *sthira*
 - \[noun\], nominative, plural, neuter
@@ -104,41 +104,41 @@ genre M
 "मा बलं मा भवतु ॥ स्थिरा आयुधा । उभयत्र ‘शेश्छन्दसि बहुलम्' इति शेर्लोपः । पराणुदे ।  ‘ णुद प्रेरणे'। संपदादिलक्षणः क्विप् । ' उपसर्गादसमासेऽपि ' ( पा. सू. ८. ४. १४ ) इति णत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । वीळु। ‘सुपां सुलक्०' इति विभक्तेर्लुक् । ईषाअक्षादित्वात्प्रकृतिभावः (पा. सू. ६. १. १२७.२ )। प्रतिष्कभे । स्कम्भुः सौत्रो धातुः। संपदादिलक्षणो भावे क्विप्।  ‘ अनिदिताम् ' इति नलोपः । पनीयसी । पनतिः स्तुत्यर्थः । अस्मात् औणादिकः कर्मणि असुन् । तत ईयसुनि ‘टेः' इति टिलोपः ।  ‘ उगितश्च' इति ङीप् । ईयसुनो नित्त्वादाद्युदात्तत्वम् । मायिनः । मायाशब्दस्य व्रीह्यादिषु पाठात् “ व्रीह्यादिभ्यश्च ' इति मत्वर्थीय इनिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Strong be your weapons for driving away (your) foes, firm in resisting them; yours be the strength that merits praise, not (the strength) of a treacherous mortal.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your weapons be steadfast for thrusting far away, and let them be  staunch for blocking.  
 Yours be the might more to be admired, not that of the tricky mortal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two contrastive pādas of the first hemistich express offensive and defensive procedures respectively.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong let your weapons be to drive away your foes, firm for resistance let them be.  
      Yea, passing glorious must be your warrior might, not as a guileful mortal's strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr so aus der Ferne eure Tonweise vorauswerfet wie die Flamme ihren Schein, nach wessen Sinn, in wes Gestalt, zu wem fahret ihr Marut, zu wem ihr Schüttler?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es mögen eure Waffen fest zum Widerstand und haltbar auch zum Angriff sein, Und wunderherrlich möge eure Stärke sein, nicht die des trügerischen Manns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет твердым ваше оружие, чтоб оттолкнуть,  
 Крепким, чтоб дать отпор!  

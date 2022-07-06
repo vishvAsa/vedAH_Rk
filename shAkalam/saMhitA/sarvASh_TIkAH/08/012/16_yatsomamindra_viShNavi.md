@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् सो꣡मम् इन्द्र वि꣡ष्णवि  
 य꣡द् वा घ त्रित꣡ आप्तिये꣡  
 य꣡द् वा मरु꣡त्सु म꣡न्दसे स꣡म् इ꣡न्दुभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 यत् । वा॒ । म॒रुत्ऽसु॑ । मन्द॑से । सम् । इन्दु॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -101,36 +101,36 @@ genre M;; line affected by realignment
 हे **इन्द्र** **विष्णवि** विष्णौ पानार्थमागते सत्यन्यदीये यागे **सोमं** **यत्** यदि तेन विष्णुना सार्धं पिबसि । **यद्वा** यदि च **आप्त्ये** अपां पुत्रे **त्रिते** एतत्संज्ञे राजर्षौ यजमाने सोमं पिबसि । **घ** इति पूरणः । **यद्वा** यदि च **मरुत्सु** च सोमपानायागतेष्वन्यदीये यज्ञे **मन्दसे** माद्यसि । तथाप्यस्मदीयैरेव **इन्दुभिः** सोम **सं** सम्यक् माद्य ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch as you are exhilarated by the **Soma** shared with **Viṣṇu**, or when (offered) by **Trita**, the son ofthe waters, or along with the **Maruts**, so now (be gratified) by (our) libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When (you drink) soma in company with Viṣṇu or when with Trita  Āptya,  
 or when in company with the Maruts you reach exhilaration with  the drops—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If, Indra, thou drink Soma by Visnu's or Trta Aptya's side,  
      Or with the Maruts take delight in flowing drops;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du, Indra, den Soma bei Vishnu, oder wenn du bei Trita Aptya trinkst, oder wenn du bei den Marut dich ergötzest an den Somasäften;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ob du beim Vischnu, Indra, dich ob bei dem Trita Aptia, Bei Maruts dich des Soma's freust am Indusaft,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Индра, (ты пьешь) сому у Вишну,  
 Или же когда у Триты Аптьи,  

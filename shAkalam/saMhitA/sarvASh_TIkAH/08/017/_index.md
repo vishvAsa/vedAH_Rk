@@ -8,7 +8,7 @@ title = "+017"
 ' आ याहि' इति पञ्चदशर्चं पञ्चमं सूक्तमिरिम्बिठेरार्षमैन्द्रम् । चतुर्दशी बृहती पञ्चदशी सतो बृहत्यादितस्त्रयोदश गायत्र्यः । अनुक्रम्यते हि--- ‘ आ याहि पञ्चोना प्रगाथान्तम्' इति । अन्त्यं प्रगाथं वर्जयित्वा शिष्टस्य महाव्रत उक्तो विनियोगः । ज्योतिष्टोमे प्रातःसवने ब्रह्मशस्त्र आद्याः षडृचः स्तोत्रियानुरूपार्थाः । तथानन्तराः सप्तर्चश्च शंसनीयाः । सूत्र्यते हि - ‘ आ याहि सुषुमा हि त इति षट् स्तोत्रियानुरूपावनन्तराः सप्त' (आश्व. श्रौ. ५. १० ) इति । चातुर्विंशिकेऽहनि प्रातःसवन आद्यस्तृचोऽस्मिन्नेव शस्त्रे षळहस्तोत्रियसंज्ञक आवापार्थः । सूत्रितं च - आ याहि सुषुमा हि त इन्द्रमिद्गाथिनो बृहत् ' (आश्व. श्रौ. ७. २ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 17 (637)  
 Indra  
@@ -19,7 +19,7 @@ The first and longest of the three hymns (vss. 1–10) is a straightforward invi
 The other two hymns, or hymn fragments, are more opaque. The first (vss.  11–13) begins with a conventional invitation to Indra, but the following two verses  address otherwise unknown men involved in some way in the soma sacrifice. The  final pragātha (vss. 14–15) first gives a praiseful description of the soma drop in verse 14, but ends with yet another unknown man also engaged in the soma sacri fice, who seems to have some success in getting Indra to drink it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सद्यो꣡ अपिबो जात꣡ इन्द्र  
 म꣡दाय सो꣡मम् परमे꣡ वि꣡ओमन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡थाभवः पूर्वियः꣡ कारु꣡धायाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । ह॒ । द्यावा॑पृथि॒वी इति॑ । आ । अवि॑वेशीः । अथ॑ । अ॒भ॒वः॒ । पू॒र्व्यः । का॒रुऽधा॑याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -123,41 +123,41 @@ genre M
 हे **इन्द्र** **सद्यः** तदानीमेव **जातः** **परमे** **व्योमन्** उत्तमे स्थाने स्थितः **त्वं** **मदाय** हर्षाय **सोमम्** **अपिबः** । **यत्** यदा त्वं **द्यावापृथिवी** द्यावापृथिव्यौ **आविवेशीः** **ह** आ समन्तात् भृशं प्रविष्टोऽसि खलु । **अथ** अनन्तरं **पूर्व्यः** पुरातनः सन् **कारुधायाः** कर्मणां विधाता **अभवः** खलु । व्योमन् । अव रक्षणगत्यादिषु । विपूर्वस्यावतेः ' नामन् सीमन्' इत्यादिना मनिन् । ज्वरत्वर' इत्यादिना ऊठ् । विशेषेणौम व्याप्तिर्यस्य तत् । ‘सुपां सुलुक्' इत्यादिना सुपो लुक् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । आविवेशीः । ‘ विश प्रवेशने ' इत्यस्य यङ्लुकि लङि सिपि **यङो** वा' इतीडागमः । ‘ इतश्च' इति सिप इकारलोपः । यद्योगादनिघातः । कारुधायाः । कारुः । करोतेः कृवापाजिमिस्वदिसाध्यशूभ्य उण्प्रत्ययः । णित्वााःत् वृद्धिः । दधातेः ‘वहिहाधाञ्भ्यश्छन्दसि ' इत्यसुन्। णित्' इत्यनुवृत्तेः ' आतो युक् चिण्कृतोः' इति युगागमः । समासे गति कारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च ' इति सूत्रात् पूर्वपदप्रकृतिस्वरः ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As soon as born in the highest heaven, you have quaffed, **Indra**, the **Soma** for your exhilaration; and when you had pervaded the heaven and earth, you became the primary artificer (of creation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, just born, drank the soma for exhilaration in the highest  distant heaven.  
 After you had entered heaven and earth, then you became the first to  suckle the bard.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just noted, this vs. contains an apparent attempt to express anteriority: the pluperfect ā́viveśīḥ seems to function like an English pluperfect (rather than the standard Vedic plupf., a past tense to a presential perfect), to express an action that happened before the action of the main verb, an interpr. more or less endorsed by Kümmel (500).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As soon as thou wast born in highest heaven thou drankest Soma to delight thee, Indra;  
      And when thou hadst pervaded earth and heaven thou wast the first supporter of the singer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du trankst, eben geboren, sogleich den Soma im höchsten Himmel zum Rausche, o Indra. Als du in beide Welten eingezogen warst, da wurdest du der erste Brotgeber der Dichter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren kaum, im höchsten Himmel, trankest den Soma du, zum Rausche dir, o Indra; Als du hinein in beide Welten drangest, da warst du schon der alte Hort der Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты сразу стал пить сому, едва родившись, о Индра,  
 Для опьянения на высшем небе.  

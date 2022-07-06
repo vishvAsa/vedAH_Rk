@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र ने꣡दीय ए꣡द् इहि  
 मित꣡मेधाभिर् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ सुआपे सुआपि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 आ । श॒म्ऽत॒म॒ । शम्ऽत॑माभिः । अ॒भिष्टि॑ऽभिः । आ । सु॒ऽआ॒पे॒ । स्वा॒पिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -110,34 +110,34 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, come very near with your firmly-wise protections; come, O most healthful, with your mos healthfulaid, come, good kinsma, with your good kinsmen.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, come closer here with your help that provides secure wisdom— here, most wealful one with your most wealful superior powers, here,  friendly one with your friendly powers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner tr. mitámedha- as “die die Gedanken aufrichten,” but I do not see how a transitive reading of mitá- would work in a compound so constructed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, komm doch näher heran mit deinen wohltätigsten Beschirmungen, mit den freundschaftlichen, du Feundschaftlicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Recht nah, o Indra, komme her, mit Schutz, der fest auf Säulen ruht, Heilvollster du, mit Hülfen voll des schönsten Heils, mit besten Freunden, bester Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, подойди же поближе  
 Со (своими) укрепляющими мысли поддержками,  

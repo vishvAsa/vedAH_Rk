@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छिद्रा श꣡र्म जरितः पुरू꣡णि  
 देवाँ꣡ अ꣡छा दी꣡दियानः सुमेधाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने तुवं꣡ रो꣡दसी नः सुमे꣡के
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रथः॑ । न । सस्निः॑ । अ॒भि । व॒क्षि॒ । वाज॑म् । अ॒ग्ने॒ । त्वम् । रोद॑सी॒ इति॑ । नः॒ । सु॒मेके॒ इति॑ सु॒ऽमेके॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchidrā* ← *acchidra*
 - \[noun\], accusative, plural, neuter
@@ -121,41 +121,41 @@ genre M
 **जरितः** सर्वस्य जगतोऽन्तकाले जरयितर्हे अग्ने **सुमेधाः** शोभनप्रज्ञोपेतः **दीद्यानः** स्वतेजसा प्रकाशमानस्त्वं **देवान्** यष्टव्यान् देवान् **अच्छ** अभिलक्ष्य तदुद्देशेन क्रियमाणानि **पुरूणि** **शर्म** स्वर्गादिसुखसाधनभूतानि अग्निहोत्रादीनि कर्माणि **अच्छिद्रा** अच्छिद्राणि कुरु । कर्तृकर्मसाधनवैकल्यराहित्येन संपूर्णानि कुरु । किंच हे अग्ने **त्वं** सस्निः संनिरुद्धः स्वकीयं सततगमनं संनिरुध्य हविःप्रक्षेपपर्यन्तमत्र वर्तमानस्त्वं **वाजं** **नः** अस्माभिर्दीयमानं हविर्लक्षणमन्नम् **अभि** देवानभिलक्ष्य **वक्षि** वह प्रापय । तत्र दृष्टान्तः । **रथो** **न** रथ इव । यथा रथो धान्यादिकमूढ्वा तत्स्वामिनं प्रापयति तद्वत् । किंच त्वम् **अग्ने** **रोदसी** द्यावापृथिव्यौ **सुमेके** शोभनरूपोपेते स्वकीयप्रभाभिः प्रकाशयुक्ते कुरु ॥ दीद्यानः । दीदेतिर्दीप्तिकर्मा । तस्मात् शानच् । ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । सुमेधाः । ‘ नित्यमसिच् प्रजामेधयोः' इत्यसिच्प्रत्ययः । बहुव्रीहौ ' नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । सस्निः। ‘ षस स्वप्ने'। अस्मादौणादिको निन् । नित्त्वादाद्युदात्तत्वम्। वक्षि । ‘ वह प्रापणे' अस्य लोटः सिपि ‘ बहुलं छन्दसि ' इति शपो लुक् । ढत्वकत्वे । हिरादेशश्छान्दसत्वान्न भवति । निघातः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Destroyer (of the world), do you who is endowed with intelligence and radiance celebrate many faultless sacred rites in honour of the gods, and restraining (your impatience), convey to them like a wagon our (sacrificial) food; illume (with your rays) the beautiful heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your shelters are many and unbreakable, o singer [=Agni?]. As one very  wise, shining up to the gods,  
 like a winning chariot convey (us) to victory’s prize. Agni, (convey) us to  the well-supported world-halves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lighting Gods hither, Agni, wisest Singer, bring thou to us many and flawless shelters.  
      Bring vigour, like a car that gathers booty: bring us, O Agni, beauteous.Rarth and Heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O singer, thou who art wise, brightly shining towards the gods 1, bring to us thy many perfect shelters, and gain like a victorious car 2; Agni, (carry) thou (hither) towards us the two well-established 3 worlds (Heaven and Earth).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viele lückenlose Schilde hat, o Sänger, der Weise, der bis zu den Göttern leuchtet. Wie ein gewinnender Wagen fahr uns zum Kampfpreis; o Agni, bring du uns die beiden festbegründeten Rodasi!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Sänger Agni, bringe viele sichre Beschirmung, weiser, auf die Götter achtend, Und reiches Gut wie ein beladner Wagen herbei uns und die segensreichen Welten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Надежны (твои) защиты, о певец, многочисленны.  
 Сверкающий, очень мудрый к богам (движется Агни).  

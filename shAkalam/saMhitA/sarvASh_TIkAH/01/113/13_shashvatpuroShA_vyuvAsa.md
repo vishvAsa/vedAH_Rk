@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡श्वत् पुरो꣡षा꣡ वि꣡ उवास देवी꣡  
 अ꣡थो अद्ये꣡दं꣡ वि꣡ आवो मघो꣡नी  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अज꣡रामृ꣡ता चरति स्वधा꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अथो॒ इति॑ । वि । उ॒च्छा॒त् । उत्ऽत॑रान् । अनु॑ । द्यून् । अ॒जरा॑ । अ॒मृता॑ । च॒र॒ति॒ । स्व॒धाभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaśvat*
 - \[adverb\]
@@ -135,20 +135,20 @@ genre M
 **देवी** देवनशीला **उषाः** **पुरा** पूर्वस्मिन्काले **शश्वत्** नित्यं संततं **व्युवास** व्यौच्छत् । **अथो** अनन्तरम् **अद्य** अस्मिन् काले **मघोनी** धनवती उषाः तमसा तिरोहितम् **इदं** सर्वं जगत् **व्यावः** विवासितं प्रकाशनेन तमसा वियुक्तमकरोत् । **अथो** अनन्तरम् **उत्तरान्** ऊर्ध्वंतरान् भाविनः **द्यून्** दिवसान् अनुलक्ष्य आगामिष्वपि दिवसेषु **व्युच्छात्** व्युच्छति विवासयति । अतः कालत्रयव्यापिनी सोषाः **अजरा** जरारहिता सर्वदैकरूपा **अमृता** मरणरहिता च सती **स्वधाभिः** आत्मीयैस्तेजोभिः सह **चरति** वर्तते ॥ उवास।  ‘वस निवासे '।‘लिट्यभ्यासस्योभयेषाम् ' इति अभ्यासस्य संप्रसारणम् । आवः । तस्मादेव धातोर्लंङि बहुलं छन्दसि' इति विकरणस्य लुक्। 'हल्ङ्याब्भ्यः' इति तिलोपः। 'छन्दस्यपि दृश्यते ' इति आडागमः । उच्छात् । लेटि आडागमः । उत्तरान् । ' दीर्घादटि समानपदे ' इति नकारस्य रुत्वम् । आतोऽटि नित्यम्' इति सानुनासिकः आकारः। अनु। 'अनुर्लक्षणे' (पा. सू. १. ४. ८४ ) इति अनोः कर्मप्रवचनीयत्वम्। अजरा अमृता । तत्र बहुव्रीहौ ‘नञो जरमरमित्रमृताः ' इति उत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine Uṣās dawned continually in former times; the source of wealth, she still rises on this (world); so will she give light hereafter, through future days, for, exempt from decay or death, she goes on in her splendour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Over and over in the past the goddess Dawn dawned forth. And today  she has dawned forth here, the bounteous one.  
 And she will dawn forth through later days. Unaging, immortal, she  proceeds according to her own customs.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that in this verse a single Dawn subsumes the various temporal dawns of the surrounding vss.
 
@@ -163,28 +163,28 @@ These verses have a surprising density of forms of ví √vas ‘dawn forth’ (
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From days eternal hath Dawn shone, the Goddess, and shows this light to-day, endowed with riches.  
      So will she shine on days to come immortal she moves on in her own strength, undecaying.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The goddess Dawn has flushed in former ages, And here to-day the bounteous maiden flushes: So also may she flush in days hereafter. With powers her own she fares, immortal, ageless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Immer wieder ist früher die Göttin Usas aufgeleuchtet und auch für heute ist sie jetzt hell aufgeleuchtet, die Gabenreiche. Und sie wird alle späteren Tage aufgehen; nie alternd, unsterblich wandelt sie nach eigenem Ermessen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stets schien zuvor die Göttin Morgenröthe, auch jetzt hat diesen Raum enthüllt die reiche, Nun wird sie leuchten auch in spätern Tagen, geht, wie sie will, nicht alternd, nimmer sterbend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бесконечно зажигалась раньше божественная Ушас,  
 И сейчас здесь зажглась щедрая,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शा꣡क्मना शाको꣡ अरुणः꣡ सुपर्ण꣡  
 आ꣡ यो꣡ महः꣡ शू꣡रः सना꣡द् अ꣡नीळः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡सु स्पार्ह꣡म् उत꣡ जे꣡तोत꣡ दा꣡ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 यत् । चि॒केत॑ । स॒त्यम् । इत् । तत् । न । मोघ॑म् । वसु॑ । स्पा॒र्हम् । उ॒त । जेता॑ । उ॒त । दाता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śākmanā* ← *śākman*
 - \[noun\], instrumental, singular, neuter
@@ -137,7 +137,7 @@ genre D
 **शाक्मना** । शक्मैव शाक्म । शक्मना बलेन **शाकः** शक्त। ‘शक्लृ शक्तौ । स्वशक्त्यैव सर्वं कर्तुं शक्तः इत्यर्थः । न हीन्द्रस्य सहायान्तरापेक्षास्तीन्द्रत्वादेव । **अरुणः** अरुणवर्णः **सुपर्णः** कश्चिच्छोभनपर्णः पक्षी **आ** गच्छतीत्यध्याहारः । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । **यः** **महः** महान् **शूरः** विक्रान्तः **सनात्** पुराणः **अनीळः** अनीडो नीडस्याकर्ता । नहीन्द्रोऽग्निवत् कुत्रचिदपि यज्ञे निकेतनं करोति । एवं सुपर्णरूपकेणेन्द्रमाह। स पक्षीन्द्रः **यच्चिकेत** कर्तव्यत्वेन जानाति **तत्** **सत्यमित्** सत्यमेव **न** तु **मोघं** व्यर्थं भवति । सः **स्पार्हं** स्पृहणीयं **वसु** **उत** **जेता** जयति शत्रुभ्यः सकाशात् **उत** अपि **दाता** प्रयच्छति च स्तोतृभ्यः । ‘न लोकाव्यय°' इत्यादिना षष्ठीप्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre D
 Purple-coloured bird: **Indra** in the form of **suparṇa**, or **garuḍa**; having no nest: i.e., nestless from eternity
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through his power he is the powerful, ruddy eagle, who, as the nestless  champion from of old, (has power) over the great.  
 What he perceives, that is truly real, not false. He is both the winner and  the giver of the eagerly sought good.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong is the Red Bird in his strength, great Hero, who from of old hath had no nest to dwell in.  
      That which he knows is truth and never idle: he wins and gives the wealth desired of many.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch eigene Kraft ist er der kräftige, der rötliche Vogel, der als der große, tapfere, seit alters nestlose herbeikommt. Was er im Sinne hat, das ist wahr, nicht eitel. Er gewinnt und verschenkt begehrenswertes Gut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der grosse Vogel roth und stark an Stärke, der starke Held, der keine Heimat kennet, Was er erschaut, ist ohne Falsch, ist Wahrheit; erwünschtes Gut erbeutet er und schenkt er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Он) силен благодаря своей силе, (этот) рыжий орел,  
 Который по(является) как великий, отважный, издревле лишенный гнезда.  

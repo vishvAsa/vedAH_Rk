@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ रा꣡जानम् इ꣡रियं ज꣡नाय  
 विभ्वतष्टं꣡ जनयथा यजत्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युष्म꣡द् स꣡दश्वो मरुतः सुवी꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒ष्मत् । ए॒ति॒ । मु॒ष्टि॒ऽहा । बा॒हुऽजू॑तः । यु॒ष्मत् । सत्ऽअ॑श्वः । म॒रु॒तः॒ । सु॒ऽवीरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -122,7 +122,7 @@ genre M
 हे मरुतः **यूयं** **जनाय** यजमानाय **राजानं** स्वामिनं राजमानं वा **इर्यं** शत्रूणां प्रेरकं च्यावयितारं **विभ्वतष्टम्** । विभ्वा नाम ऋभूणां मध्यमः । स कुशली । तेन निर्मितम् । अत्यन्तरूपवन्तमित्यर्थः । तादृशं पुत्रं **जनयथ** उत्पादयथ हे **यजत्राः** यष्टव्याः । हे **मरुतः** **युष्मत्** युष्मत्तः **एति** गच्छति पुत्रः । कीदृशः । मुष्टिहा । मुष्टिशब्दो बाहूपलक्षकः । स्वभुजबलेनैव हन्ता शत्रूणाम् । तदेवोच्यते । **बाहुजूतः** । बाहुः प्रेरकः शत्रूणां यस्य तादृशः पुत्र एति । तथा **युष्मत्** युष्मत्तः **सदश्वः** विद्यमानाश्वः । बह्वश्वः इत्यर्थः । **सुवीरः** शोभनवीर्यः पुत्र एति । जायते इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 Modelled by Vibhvan: vibhvataṣṭam: vibhvān is the second of the **Ṛbhus**, a skilful artist; fabricated by him, implies very perfect or handsome, tena nirmitam atyantarūpavantam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You beget for the people a take-charge king, fashioned for distinction,  you who deserve the sacrifice.  
 From you comes the fist-fighter, quick with his arms, from you the one  of trusty horses and good heroes, o Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The wrong sandhi in d yuṣmád sádaśvo is found in both Aufr. and Holland & van Nooten Rig Veda edition, but the Max Müller ed. has the correct yuṣmát. So, a copying error going back to Aufr., presumably generated from the yuṣmád beginning c.
 
@@ -156,23 +156,23 @@ There are two approaches to the interpr. of vibhva-taṣṭá-. One assumes that
 The hapax sád-aśva- appears to be the only RVic cmpd with the first member sa(n)t- -- assuming, with most, that sát-pati- contains a reduced form of sádas- ‘seat’ (see EWA s.v.). I take it as semantically related to the derived adj. sátvan-, of warriors ‘the real thing’. So ‘(having) true horses’ in the sense of “good men and true”; English “trusty” works well. We might have expected s(u)váśva- ‘having good horses’ parallel to suvī́ra- at the end of the pāda, but perhaps the poet wanted to vary the expression.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye raise up for the folk an active ruler whom, Holy Ones! a Master's hand hath fashioned.  
      Ye send the fighter hand to hand, armmighty, and the brave hero, Maruts with good horses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr erzeuget dem Volk einen rührigen, vollendeten König, ihr Opferwürdige. Von euch kommt der armbehende Faustkämpfer, von euch, Marut, einer, der tüchtige Rosse und gute Söhne besitzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr schafft dem Volke einen kräft'gen König, den Vibhvan formte, o ihr ehrenwerthen; Von euch geht aus der armgewandte Ringer, von euch der Held auf starkem Ross, o Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы рождаете для народа деятельного  
 Царя, созданного мастером, о достойные жертв.  

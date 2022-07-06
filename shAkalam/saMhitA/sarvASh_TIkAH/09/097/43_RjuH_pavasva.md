@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋजुः꣡ पवस्व वृजिन꣡स्य हन्ता꣡  
 अ꣡पा꣡मीवाम् बा꣡धमानो मृ꣡धश् च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रस्य त्वं꣡ त꣡व वयं꣡ स꣡खायः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒भि॒ऽश्री॒णन् । पयः॑ । पय॑सा । अ॒भि । गोना॑म् । इन्द्र॑स्य । त्वम् । तव॑ । व॒यम् । सखा॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛjuḥ* ← *ṛju*
 - \[noun\], nominative, singular, masculine
@@ -118,20 +118,20 @@ genre M
 हेसोम ऋजुः ऋजुगमनःसन् पवस्व क्षर । किङ्कुर्वन् वृजिनस्य उपद्रवस्य हन्ता अमी वां रोगरूपं राक्षसं अपबाधमानः तथा अस्मदीयान् मृधोहिंसकान् शत्रूंश्च बाधमानः सन् पवस्व ततः पयआत्मीयंरसं गोनां गवाम्पयसाक्षीरेण अभिश्रीणन् अभिसंयोजयन् पात्राण्य- भिगच्छसि । अपिच त्वं इन्द्रस्य सखासि हेसोम तव वयं सखायः स्तुत्यस्तोतृत्वयष्टृयष्ट-व्यत्वलक्षणेन सखिभूताः स्मः ॥ ४३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow you who are straight going, the slayer of the crooked-goer, driving away disease and enemies; mixing your juice with thejuice of the kine (you go to the cups); (you are) **Indra**'s (friend), we (are) your friends.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, as the straight smiter of the crooked, thrusting away  affliction and insults,  
 perfecting your milk with the milk of cows. You are (the comrade) of  Indra; we are your comrades.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich introduces a note of aggression, but this quickly dissipates. The oppositional pair ‘straight’ (ṛjú-) and ‘crooked’ (vṛjiná-) recurs from vs. 18, where, unlike here, it was a morally neutral description of the paths across the sheep’s fleece filter.
 
@@ -148,23 +148,23 @@ The tṛca has a superficial unity from the (over-)abundance of forms of √pū,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward righteous slayer of the wicked, driving away our enemies and sickness,  
      Blending thy milk with milk which cows afford us. We are thy friends, thou art the Friend of Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich gerade, das Krumme zerstörend, die Krankheit vertreibend und die Verächter, deine Milch mit der Milch der Kühe vermischend! Du bist des Indra Freund, wir sind deine Freunde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gerechter riesle, Ungerechte tödtend, den Plagegeist verjagend und die Schmäher; Erwärmend deine Milch mit Milch der Kühe, sei du des Indra Freund und wir die deinen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Сам) прямой, очищайся как убийца кривого,  
 Гоня прочь болезнь и недостатки,  

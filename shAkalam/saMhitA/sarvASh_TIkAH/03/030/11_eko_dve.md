@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡को दुवे꣡ व꣡सुमती समीची꣡  
 इ꣡न्द्र आ꣡ पप्रौ पृथिवी꣡म् उत꣡ द्या꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इषो꣡ रथीः꣡ सयु꣡जः शूर वा꣡जान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒त । अ॒न्तरि॑क्षात् । अ॒भि । नः॒ । स॒म्ऽई॒के । इ॒षः । र॒थीः । स॒ऽयुजः॑ । शू॒र॒ । वाजा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
@@ -123,21 +123,21 @@ genre M
 योऽयम् **इन्द्रः** **एकः** असहाय एव सन् **पृथिवीम्** **उत** अपि च **द्यां** **द्वे** एते द्यावापृथिव्यौ **समीची** परस्परं संगते **वसुमती** धनयुक्ते सत्यौ **आ** **पप्रौ** समन्तात् पूरयामास । **उत** अपि च हे **शूर** सामर्थ्योपेत तादृशस्त्वं **रथीः** रथवान् सः **नः** अस्माकं **समीके** समीपे **इषः** स्थातुमिच्छन् 'सयुजः संगतान् **वाजान्**। वजन्ति गच्छन्तीति वाजा अश्वाः। तानश्वान्  **अन्तरिक्षात्** अन्तरिक्षसकाशात् **अभि** प्रेरय । रथारूढस्त्वम् अस्मत्समीपं शीघ्रमागच्छेति भावः ॥ वसुमती। ' वा छन्दसि ' इति पूर्वसवर्णदीर्घः । पप्रौ।' प्रा पूरणे ' इत्यस्य लिटि णलि ‘आत औ णलः' इत्यौकारः । निघातः । इषः । इषु इच्छायाम् ' । अस्मादिगुपधलक्षणः कः । कित्त्वादगुणः । प्रत्ययस्वरः । रथीः । रथोऽस्यास्तीति मतुबर्थे ' छन्दसीवनिपौ ' इति ईप्रत्ययः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** alone has filled the two,both earth and heaven mutually combined, and abounding with wealth; do you hero, mounted in your car, come with your harnessed horses from the firmament, impatient to be near us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one—Indra—filled the two—earth and heaven—the joint  repositories of goods.  
 And from the midspace, at their join [i.e., of heaven and earth], as  charioteer of refreshment (bring) us prizes in yoke together, o  
 champion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a begins with an elementary numerical figure: éko dvé “the one the two,” subject and object of ā́paprau respectively, both of which are identified in the 2nd pāda. The juxtaposition of the two numbers is responsible for my tr. éka- as ‘the one’, rather than ‘alone’ as elsewhere in the hymn (vss. 4, 5).
 
@@ -148,23 +148,23 @@ All tr., incl. Renou, take samīké as “in battle” (or, closer to the root s
 I supply ‘bring’ as the verb of cd, with sayújaḥ … vā́jān as obj. There are several possible interpr of iṣáḥ. As just noted, Renou takes it as a verb. Assuming (with everyone else) that it belongs to the root noun íṣ-, there are two possible analyses, as gen. (/abl.) sg. or nom./acc. pl., although in the latter case we would prefer it to be accented íṣaḥ (cf. the acc. pl. íṣaḥ in 18b). Both Klein and Scarlatta take it as acc. pl.; I agree with Geldner (/Witzel Gotō) in construing it as gen. sg. with rathī́ḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra alone filled full the earth and heaven, the Pair who meet together, rich in treasures.  
      Yea, bring thou near us from the air's mid-region strength, on thy car, and wholesome food, O Hero.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra allein hat die beiden schätzereichen gepaarten Himmel und Erde erfüllt. Auch aus der Luft komm zu uns im Kampfe, bring uns als der Wagenlenker der Speise verdoppelt die Gewinne, du Held!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die zwei vereinten güterreichen füllte der eine Indra beide Erd' und Himmel, Und aus der Luft auch fährst du her uns Tränke im Wagen, und, o Held, verbundne Speisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра один заполнил две богатые добром  
 Соединенные (половины) вселенной: землю и небо.  

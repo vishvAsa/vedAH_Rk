@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् ई स꣡खायो अस्वरन्  
 व꣡ने क्री꣡ळन्तम् अ꣡त्यविम्  
 इ꣡न्दुं नावा꣡ अनूषत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दु॑म् । ना॒वाः । अ॒नू॒ष॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -78,42 +78,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अत्यविम्** अतिक्रान्तं दशापवित्रं **वने** उदके **क्रीडन्तं** संक्रीडमानम् **ईम्** एनम् **इन्दुं** सोमं **सखायः** प्रियस्तोतारः **सम्** **अस्वरन्** संस्तुवन्ति । **नावाः** वाचोऽपि **अनूषत** अस्तुवन् । ‘ नौरक्षरम्' इति वाङ्नामसु पाठात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “His friends praise **Indu** sporting in the water and passing through the fleece; their hymns glorify him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His comrades cried out in unison to him as he was playing in the  
 wood(en vessel), beyond the sheep [=fleece].  
 To the drop the roars have roared.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted ad 2c, if we take sákhibhyaḥ there as referring to the gods, sákhāyaḥ here is probably not picking up that referent, but likely refers to the human poets.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All friends have lauded him as he sports in the wood, beyond the fleece:  
      Singers have chanted Indu's praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Freunde haben dem im Holze sich tummelnden, über die Schafwolle laufenden Safte, sie, die Sänger, gemeinsam zugeschrieen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm jauchzten jetzt die Freunde zu, der durch die Wolle springt ins Holz, Den Indu pries der Lieder Schall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

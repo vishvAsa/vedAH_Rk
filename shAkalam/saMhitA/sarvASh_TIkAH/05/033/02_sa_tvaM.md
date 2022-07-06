@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्वं꣡ न इन्द्र धियसानो꣡ अर्कइ꣡र्  
 ह꣡रीणां᳐ · वृषन् यो꣡क्त्रम् अश्रेः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡क्षो अभि꣡ प्रा꣡रियः꣡ सक्षि ज꣡नान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 याः । इ॒त्था । म॒घ॒ऽव॒न् । अनु॑ । जोष॑म् । वक्षः॑ । अ॒भि । प्र । अ॒र्यः । स॒क्षि॒ । जना॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -130,20 +130,20 @@ genre M
 हे **वृषन्** वर्षक **इन्द्र** **सः** प्रसिद्धः **त्वं** **नः** अस्मान् **धियसानः** ध्यायन् **अर्कैः** अर्चनसाधनैः स्तोत्रैर्निमित्तभूतैः **हरीणां** रथे नियोज्यानामश्वानां **योक्त्रं** नियोजनरज्जुम् **अश्रेः** आश्रयसि । **याः** ॥ लिङ्गव्यत्ययः ॥ यानर्कान् हे **मघवन्** **इत्था** इत्थं **जोषं** प्रीतिम् **अनु** **वक्षः** अवहः तैर्निमित्तैर्योक्त्रमश्रेरिति । तथा कृत्वा **अर्यः** अस्मदरीन् **जनान्** **अभि** आभिमुख्येन **प्र** प्रकृष्टं **सक्षि** पराभव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, meditating upon us, fasten the traces of yourborses, (incited), showerer (of benefits), by those praises in which you have suitable delight, and do you therefore overcome (for us) hostile men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, being conjured up by our chants, have fixed the yoking thong  for the fallow bays, you bull.  
 You will drive here just so, following your pleasure, bounteous one. You  will bring (good things); you will be victorious over the peoples of the  stranger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The (pseudo-)participle dhiyasāná- clearly patterns with dīdhi ye in 1a, hence my complementary ‘being conjured up’. I take it to mean that Indra’s epiphany at the sacrifice is brought about by our chants (arkaíḥ), that his appearance there is literally “thought up” by our thoughts. This notion is close to what is found in the previous hymn V.32.11 (at least by my interpr.), that every sacrifice brings a “newest Indra,” that the Indra of the sacrificial epiphany is newly created by sacrificial activity every time. The standard interpr. of dhiyasāná- by Geldner [/Witzel Gotō] is more pedestrian: Indra becomes attentive (“aufmerksam geworden”) through our hymns. The other occurrence of the stem, in X.32.1, in my opinion fits my interpr., but to be honest neither passage is absolutely clear. As for the stem itself, dhiyasāná- does not pattern with the majority of -asāná- stems discussed ad IV.3.6, and I do not have a satisfactory account of it.
 
@@ -156,23 +156,23 @@ The yā́(ḥ) beginning the 2nd hemistich is problematic. If it is a rel. prn. 
 Both Geldner and Witzel Gotō take aryáḥ and jánān as parallel acc. pl., while I make aryáḥ a gen. sg. dependent on jánān. There is no way to tell; Thieme (Fremdl., 11 n. 2) refuses to deal with the passage at all.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So made attentive by our hymns, Steer! Indra! thou fastenedst the girth of thy Bay Coursers,  
      Which, Maghavan, at thy will thou drivest hither. With these subdue for us the men who hate us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch unsere Preislieder aufmerksam geworden, hast du nun, o Bulle Indra, deinen Falben den Strang angelegt. Komm hierher, du Freigebiger, nach deinem Wohlgefallen; fahre her, werde mit den vornehmen Nebenbuhlern, den anderen Leuten fertig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schirrtest an, o Held, den Strang der Füchse aufmerkend, Indra, du auf unsre Lieder; O komme bald nach deiner Lust, o mächt'ger, fahr her zu uns, sei hold den treuen Männern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, став внимательным благодаря нашим песням,  
 Надел недоуздок на буланых коней, о бык.  

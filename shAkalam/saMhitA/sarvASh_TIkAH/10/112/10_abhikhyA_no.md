@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभिख्या꣡ नो मघवन् ना꣡धमानान्  
 स꣡खे बोधि꣡ वसुपते स꣡खीनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡भक्ते चिद् आ꣡ भजा राये꣡ अस्मा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रण॑म् । कृ॒धि॒ । र॒ण॒ऽकृ॒त् । स॒त्य॒ऽशु॒ष्म॒ । अभ॑क्ते । चि॒त् । आ । भ॒ज॒ । रा॒ये । अ॒स्मान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhikhyā* ← *\_* ← *√\_*
 - \[?\]
@@ -136,35 +136,35 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **नाधमानान्** ॥  ‘ नाधृ नाथृ याञ्चोपतापैश्वर्याशीःषु । भौवादिकः । अनुदात्तेत् ॥ याचमानान् **नः** अस्मान् **अभिख्या** अभिख्यापनेन तेजसा युक्तान कुरु। प्रसिद्धान् वा कुरु। । हे **सखे** धनदानेन हे **वसुपते** वसूनां स्वामिन् त्वं **सखीनां** स्तोतृत्वेन सखिभूतानामस्माकं स्वभूतानि स्तोत्राणि **बोधि** बुध्यस्व ॥  ‘ बुध अवगमने'। भौवादिकः । लोटि छान्दसः शपो लुक्। छन्दस्युभयथा    इति हेरार्धधातुकरत्वेनाङित्त्वात् ' अङितिश्च ' इति हेर्धिभावः। अत एव गुणः। सार्वधातुकत्वेन ङित्त्वादन्तोदात्तत्वम् । वर्णलोपष्छान्दसः ॥ हे **रणकृत्** शत्रुभिः सह  युद्धकर्तः अत एव हे **सत्यशुष्म** यथार्थबलोपेत त्वं **रणं** **कृधि** कुरु । शत्रून् जहि ॥ करोतेर्लोटि  ‘ श्रुशृणुपॄकृवृभ्यश्छन्दसि' इति हेर्धिः ॥ किंच **अभक्ते** **चित्** असंभजनीये स्थानेऽपि **अस्मान्** **राये** धनाय **आ** **भज** भागिनः कुरु । ' द्व्यचोऽतस्तिङः ' इति संहितायां दीर्घः । ॥ १३॥ ॥९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By watching over us, who are in need, bounteous one, become a  
 comrade to your comrades, o lord of goods.  
 Do battle, you battle-doer [/make joy, you joy-maker] whose impetuous  powers are real. Give us a portion of wealth, even in what is (as yet)  unapportioned.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aim of our eyes be thou, for we implore thee, O Maghavan, Friend of friends and Lord of treasures.  
      Fight, Warrior strong in truth, fight thou the battle: give us our share of undivided riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf uns, die Schutzsuchenden, blickend, o Gabenreicher, gedenke, o Freund, deiner Freunde, du Schätzeherr! Bereite ein Kampffest, du Kampfbereiter von echtem Eifer; gib uns einen Anteil auch an dem noch unverteilten Reichtum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O sieh auf uns, die flehenden, o mächt'ger, der Freunde Freund sei du, o Herr der Guten, Lustschaffer, schaffe Lust uns, wahrhaft starker, und theil uns zu noch unvertheilten Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Со взором, обращенным к нам, молящим о помощи, о щедрый,  
 О повелитель благ, будь другом для друзей!  

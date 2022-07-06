@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था चित् क꣡ण्वम् आ꣡वतम्  
 प्रिय꣡मेधम् उपस्तुत꣡म्  
 अ꣡त्रिं शिञ्जा꣡रम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अत्रि॑म् । शि॒ञ्जार॑म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -74,36 +74,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अश्विना** अश्विनौ **यथा** **चित्** येन खलु प्रकारेण **कण्वम्** एतत्संज्ञमृषिम् **आवतम्** अरक्षतं प्रियमेधं प्रिययज्ञमेतत्संज्ञं च **उपस्तुतम्** एतदाख्यं च **शिञ्जारं** शब्दयन्तं स्तुवन्तम् **अत्रिम्** एतानृषींश्च येन प्रकारेणारक्षतं तथास्मानपि रक्षतमिति शेषः । यद्वा । एतावद्वां वृषण्वसू' इत्यनयैकवाक्यता॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In like manner as you protected **Kaṇva**, **Priyamedha**, Upastuta, and the praise-repeating **Atri**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as you helped Kaṇva, Priyamedha, Upastuta,  
 Atri, and Śr̥ñjāra, o Aśvins,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As ye protected Kanva erst, Priyamedha and Upastuta,  
      Atri, Sinjara, Asvins Twain
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gerade wie ihr dem Kanva beistandet, dem Priyamedha, dem Upastuta, dem Atri, dem Sinjara, ihr Asvin;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Kanva eure Hülfe fand, Prijamedha, Upastuta, O Ritter, Atri, Çindschara,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Именно так, как вы помогали Канве,  
 Приямедхе, Упастуте,  

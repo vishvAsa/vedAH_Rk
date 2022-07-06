@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भीता꣡य ना꣡धमानाय  
 ऋ꣡षये सप्त꣡वध्रये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वृक्षं꣡ सं꣡ च वि꣡ चाचथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 मा॒याभिः॑ । अ॒श्वि॒ना॒ । यु॒वम् । वृ॒क्षम् । सम् । च॒ । वि । च॒ । अ॒च॒थः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhītāya* ← *bhī*
 - \[verb noun\], dative, singular
@@ -93,36 +93,36 @@ popular;; epic anuṣṭubh (424)
 **भीताय** निर्गमात् बिभ्युषे **नाधमानाय** विमोक्षं याचमानाय **सप्तवध्रये** **ऋषये** हे **अश्विना** अश्विनौ **युवं** युवां **मायाभिः** **वृक्षं** वृक्षविकारां पेटिकां **सं** **चाचथः** मम निर्गमार्थं संगच्छथः । **वि** अचथः **च** विभक्तं कुरुथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, by your devices sunder the wicker-work for (the liberation of the) terrified, imploring Ṛṣi, Saptavadhri.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the seer Saptavadhri, who is fearful and in need,  
 o Aśvins, you bend the tree together and apart by your cunning.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Saptavadhri, for the seer affrighted when he wept and wafled,  
      Ye, Asvins, with your magic powers rent up the tree and shattered it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem geängstigten, in Not befindlichen Rishi Saptavadhri klemmet ihr Asvin durch Zauberkünste den Baum auf und zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem fürchtenden, dem flehenden, dem Dichter Saptavadhri biegt Mit Zauberkunst, o Ritter ihr, den Baum zurecht und löset ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для испуганного, ищущего защиты  
 Риши Саптавадхри  

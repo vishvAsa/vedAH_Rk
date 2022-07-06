@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ जामि꣡र् ज꣡नाना᳐म्  
 अ꣡ग्ने मित्रो꣡ असि प्रियः꣡  
 स꣡खा स꣡खिभ्य ई꣡डियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सखा॑ । सखि॑ऽभ्यः । ईड्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -84,19 +84,19 @@ genre M
 हे **अग्ने** **त्वम्** उक्तप्रकारेण अचिन्त्यरूपोऽप्यनुग्रहीतृतया सर्वेषां **जनानां** **जामिः** बन्धुः **असि**। तथा **प्रियः** प्रीणयिता त्वं यजमानानां **मित्रः** प्रमीतेस्त्रायकोऽसि । **ईड्यः** स्तुतिभिः स्तुत्यस्त्वं **सखिभ्यः** समानख्यानेभ्य ऋत्विग्भ्यः **सखा** सखिवदत्यन्तं प्रियः असि ॥ जामिः । 'जमु अदने'। जमन्ति सहैकस्मिन्पात्रे अदन्तीति जामयो बन्धवः । ‘ जनिघसिभ्यामिण् ' ( उ. सू. ४-५६९ ) इति विधीयमानः इण् बहुलवचनादस्मादपि द्रष्टव्यः । ईड्यः । ‘ ईड स्तुतौ '। ‘ ईडवन्दवृशंसदुहां ण्यतः 'इत्याद्युदात्तत्वम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, are the kinsman of people. You are the protector of sacrificers. You are extolled by priests, since you are the friend of all.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the kinsman of the peoples. O Agni, you are the dear envoy, a comrade for your comrades, to be reverently invoked.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -106,28 +106,28 @@ As noted in the published introduction, only the first of the questions in vs. 3
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The kinsman, Agni, of mankind, their well beloved Friend art thou,  
      A Friend whom friends may supplicate.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, art the kinsman, the dear friend ('Mitra') of men, a friend who is to be magnified by his friends.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist der Verwandte der Menschen, Agni, ihr lieber Verbündeter, ein Freund für die Freunde anzurufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Menschen Bruder bist nur du, du, Agni, ein Genosse traut, Ein Freund dem Freunde preisenswerth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты людям родственник,  
 О Агни, ты союзник милый,  

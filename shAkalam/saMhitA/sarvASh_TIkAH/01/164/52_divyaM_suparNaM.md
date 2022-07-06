@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव्यं꣡ सुपर्णं꣡ वायस꣡म् बृह꣡न्तम्  
 अपां꣡ ग꣡र्भं दर्शत꣡म् ओ꣡षधीनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡रस्वन्तम् अ꣡वसे जोहवीमि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒भी॒प॒तः । वृ॒ष्टिऽभिः॑ । त॒र्पय॑न्तम् । सर॑स्वन्तम् । अव॑से । जो॒ह॒वी॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divyaṃ* ← *divyam* ← *divya*
 - \[noun\], accusative, singular, masculine
@@ -100,7 +100,7 @@ popular
 **दिव्यं** दिवि भवं **सुपर्णं** शोभनगमनं **वायसं** गमनशीलं **बृहन्तं** महान्तम् **अपां** **गर्भं** वृष्ट्युदकानां गर्भवदुत्पादकम् । **ओषधीनाम्** ओषधीः **दर्शतं** दर्शनाय । दर्शयन्तमित्यर्थः। यद्वा । ओषधीनां गर्भं दर्शतमिति पृथग्विशेषणम् । किंच **अभीपतः** आनुकूल्येन **वृष्टिभिस्तर्पयन्तं** जगत्प्रीणयन्तम् । यद्वा । अभीपतोऽभिगमनवतः सलिलाधारांस्तटाकादींस्तर्पयन्तम् अथवा अभिगन्ताहम् । **सरस्वन्तम्** उदकवन्तम् । सर इत्युदनाम । देवं सूर्यं वा **अवसे** रक्षणाय **जोहवीमि** पुनः पुनः आह्वयामि ॥ ॥ २३ ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,7 +113,7 @@ Replenishing the ponds: abhīpato vṛṣṭibhis tarpayantam, satisfying with r
 Abhīpata = favourably, willingly, ānukūlyena
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The heavenly well-feathered, lofty bird, child of the waters, and  beautiful (child) of the plants,  
 the one bringing satisfaction by the rains from what is bounded by  
@@ -125,23 +125,23 @@ lection of Dīrghatamas, the Agastya hymns thus form an unusual sequence. Also l
 In all but six of his hymns Agastya concludes with his signature pāda vidyā́meṣáṃ vr̥jánaṃ jīrádānum “May we know refreshment and a community having lively  waters.” Also 165–168 share the same final verse, as do 175 and 176, and 183  and 184.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bird Celestial, vast with noble pinion, the lovely germ of plants, the germ of waters,  
      Him who delighteth us with rain in season, Sarasvan I invoke that he may help us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den himmlische Adler, den großen Vogel, das gerngesehene Kind der Gewässer, der Pflanzen, der stracks durch Regen labt, den Sarasvat rufe ich zum Beistand an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diesen himmlischen, schöngeflügelten Aar, den grossen Spross der Gewässer, den schönen [Spross] der Kräuter, der vom Wolkenraume aus durch Regen erquickt, den flutenreichen rufe ich zur Hülfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Небесного орла, птицу большую,  
 Отпрыска вод, приятного на вид, (отпрыска) растений,  

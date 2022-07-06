@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व य꣡त् त्वं꣡ शतक्रतव्  
 इ꣡न्द्र वि꣡श्वानि धूनुषे꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 भद्रा꣡ ज꣡नित्र्य् अजीजनत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 र॒यिम् । न । सु॒न्व॒ते । सचा॑ । स॒ह॒स्रिणी॑भिः । ऊ॒तिऽभिः॑ । दे॒वी । जनि॑त्री । अ॒जी॒ज॒न॒त् । भ॒द्रा । जनि॑त्री । अ॒जी॒ज॒न॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -128,37 +128,37 @@ genre M;; repeated line
 हे **शतक्रतो** बहुकर्मन् बहुप्रज्ञ वा **इन्द्र** **सुन्वते** सोमाभिषवं कुर्वते । सुनोतेर्लटः शतृ । 'हुश्नुवोः सार्वधातुके' इति यण् । ‘शतुरनुमः' इति विभक्तेरुदात्तत्वम् । ईदृशाय यजमानाय **यत्** यदा **त्वं** **विश्वानि** व्याप्तान्यन्नानि धनानि वा **अव** **धूनुषे** अभिगमयसि ददासीत्यर्थः । तदा **रयिं** **न** रयिं च पुत्ररूपं धनं च **सहस्रिणीभिः** सहस्रसंख्यायुक्ताभिः **ऊतिभिः** रक्षाभिः **सचा** सह प्रदेहि । गतमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When you, **Indra**, **Śatakratu**, shake down (upon us) all blessings, (then bestow) upon the offerer of thelibation wealth also, together with your thousandfold protections; the divine progenitress has given you birth, theauspicious progrenitress has given you birth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since you shake down all these, o Indra of a hundred resolves,  
 like wealth for the presser, together with thousandfold forms of help,  
 the goddess Begetter begot (you), the auspicious Begetter begot (you).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As thou, O Satakratu, thou, O Indrv, shakest all things down  
      As wealth for him who sheds the juice, with thine assistance thousandfold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du, ratreicher Indra, alle Güter mit einem Male wie Reichtum für den Somapresser herabschüttelst mit deinen tausendfältigen Gnaden, so hat dich die göttliche Erzeugerin erzeugt, die segensreiche Erzeugerin hat dich erzeugt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra, hundertkräftiger! herab du schüttelst alles Gut, Wie Reichthum dem, der Soma braut, mit tausendfacher Hülf' und Huld; Die Göttin Mutter zeugte dich, die holde Mutter zeugte dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ты, о стоумный  
 Индра, стряхиваешь все (блага),  

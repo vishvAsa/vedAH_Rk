@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् पवि꣡त्रे र꣡जसो वि꣡धर्मणि  
 देवे꣡भ्यः सोम पवमान पूयसे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तु꣡भ्येमा꣡ वि꣡श्वा भु꣡वनानि येमिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वाम् । उ॒शिजः॑ । प्र॒थ॒माः । अ॒गृ॒भ्ण॒त॒ । तुभ्य॑ । इ॒मा । विश्वा॑ । भुव॑नानि । ये॒मि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -116,21 +116,21 @@ genre M
 हे **सोम** **पवमान** **त्वं** **रजसः** लोकस्य रसस्य वा **विधर्मणि** विधारके दशापवित्रे **देवेभ्यः** देवार्थं **पूयसे** । **त्वामुशिजः** कामयमाना ऋत्विजः **प्रथमाः** प्रतमा मुख्याः **अगृभ्णत** गृह्णन्ति । **तुभ्य** तुभ्यम् **इमा** इमानि **विश्वा** सर्वाणि **भुवनानि** भूतजातानि **येमिरे** यच्छन्त्यात्मानम्॥॥१७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified **Soma**, you are purified for the gods in the filter the supporter of the worlds; the chief (priests) desiring (you) lay hold (of you), all these worlds offer themselves to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o self-purifying Soma, are purified for the gods in the filter, in the  expansion of space.  
 You did the fire-priests first grasp; to you have all these worlds  
 submitted themselves.1324 IX.86
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the expression pavítre rájaso vídharmaṇi and its more succinct variants see comm. ad IX.64.9.
 
@@ -146,23 +146,23 @@ In terms of contents, the tṛca insistently asserts Soma’s universal rule ove
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou in the filter, Soma Pavamana, art purified to support the region for the Gods.  
      The chief, the longing ones have sought to hold thee fast, and all these living creatures have been turned to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du wirst in der Seihe, in der ganzen Ausbreitung des Raums, für die Götter geläutert, Soma Pavamana. Dich nahmen zuerst die Usij in Besitz; dir sind alle diese Welten untergeordnet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt wirst den Göttern du, o flammender, o Soma, in der Seihe in der Lüfte Raum, Zuerst ergriffen, Indu, dich die heischenden, und alle diese Wesen streben hin zu dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты очищаешься, о Сома-Павамана, для богов  
 В цедилке во (всей) протяженности пространства.  

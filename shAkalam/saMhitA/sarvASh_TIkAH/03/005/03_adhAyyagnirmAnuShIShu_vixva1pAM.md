@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धायि अग्नि꣡र् मा꣡नुषीषु विक्षु꣡  
 अपां꣡ ग꣡र्भो मित्र꣡ ऋते꣡न सा꣡धन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡भूद् उ वि꣡प्रो ह꣡वियो मतीना꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । हि॒र्य॒तः । य॒ज॒तः । सानु॑ । अ॒स्था॒त् । अभू॑त् । ऊं॒ इति॑ । विप्रः॑ । हव्यः॑ । म॒ती॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhāyy* ← *adhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
@@ -128,7 +128,7 @@ genre M
 मित्रः यजमानानाम्मित्रभूतः ऋतेनसत्येनसाधन् कामान् साधयन् अपाङ्गर्भोग्निः मानुषीषुमनोः सम्बन्धिनीषुविक्षुप्रजासु अधायिदेवैराहितः किञ्च हर्यतः स्पृहणीयः यजतोयष्टव्यः सः सानुउच्छ्रि तन्धिष्ण्यं उत्तरवेद्याख्यं आस्थात् अध्यतिष्ठत् विप्रःप्राज्ञःअग्निः मतीनाम्मातॄणांस्तोतॄणांहव्यः स्तुत्यः अभूत् उःपूरणः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,35 +139,35 @@ genre M
 Taken his station on high: sānvasthā = **sānu** ucchritam; i.e. uttaravedyākhyam, the plural ce called the north altar
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni has been installed among the clans of the sons of Manu—the  embryo of the waters and Mitra bringing success through the truth.  
 Beloved and worthy of the sacrifice, he has mounted the back (of the  altar), and has become the inspired (priest) to be invoked by our  
 thoughts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Amid men's homes hath Agni been established, fulfilling with the Law, Friend, germ of waters.  
      Loved and adored, the height he hath ascended, the Singer, object of our invocations.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni has been established among the tribes of men, the son of the waters, Mitra 1, acting in the right way. The delightful, worshipful one has reached the top; the priest has become one who should be invoked by prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni ward unter die menschlichen Stämme gesetzt, der Gewässer Kind, der Mitra, der auf rechtem Wege zum Ziel kommt. Der Begehrte, Verehrungswürdige hat die Erhöhung bestiegen; der Redekundige ist jetzt in Liedern anzurufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gesetzt ist Agni in der Menschen Häuser, der Wasser Spross, der Freund nach Brauch vollendend, Zum Himmel reicht er, werth der Lieb' und Ehre, der rufenswerthe ist der Lieder Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни был установлен среди племен человеческих,  
 Зародыш вод, Митра, прямо идущий к цели благодаря закону.  

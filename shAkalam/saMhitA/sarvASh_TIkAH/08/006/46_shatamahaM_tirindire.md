@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शत꣡म् अहं꣡ तिरि꣡न्दिरे  
 सह꣡स्रम् प꣡र्शाव् आ꣡ ददे  
 रा꣡धांसि या꣡दुवाना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 राधां॑सि । याद्वा॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इदमादिकेन तृचेन तिरिन्दिरस्य राज्ञो दानं स्तूयते । **पर्शौ** परशुनाम्नः पुत्रे । उपचारज्जन्ये जनकशब्दः । **तिरिन्दिरे** एतत्संज्ञे राजनि **याद्वानाम्** । यदुरिति मनुष्यनाम । यदव एव याद्वाः । स्वार्थिकस्तद्धितः । तेषां मध्ये **अहं** **शतं** शतसंख्याकानि **सहस्रं** सहस्रसंख्याकानि च **राधांसि** धनानि **आ** **ददे** स्वीकरोमि । यद्वा । याद्वानां यदुकुलजानामन्येषां राज्ञां स्वभूतानि राधांसि बलादपहृतानि तिरिन्दिरे वर्तमानान्यहं प्राप्नोमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,29 +87,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Yādvānām, from **yadu** = a synonym of **manuṣya**, **yādava** eva yādvāḥ; or, yadukulajānām, of thoseborn of the race of Yadu, who have been despoiled by Tirindira; or, "I among men have accepteḍ.."
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At Tirindira’s I received a hundred and at Parśu’s a thousand  
 as the bounties of the Yāduvas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A hundred thousand have I gained from Parsu, from Tirindira,  
      And presents of the Yadavas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert empfing ich bei Tirindira, Tausend bei Parsu als Ehrengeschenke der Yaduiden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hundert Geschenke des Jaduervolkes habe ich von Tirindira, tausend von Parçu empfangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сотню я взял у Тириндиры,  
 Тысячу у Паршу  

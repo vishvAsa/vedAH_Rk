@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्रे पृ꣡षतीना᳐म्  
 अ꣡धि श्चन्द्र꣡म् बृह꣡त् पृथु꣡  
 शुक्रं꣡ हि꣡रण्यम् आ꣡ ददे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शु॒क्रम् । हिर॑ण्यम् । आ । द॒दे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasre* ← *sahasra*
 - \[noun\], locative, singular, neuter
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अहं **पृषतीनां** गवां **सहस्रे** **अधि** उपरि धारितं **बृहत्** महत् **पृथु** विस्तृतं **चन्द्रम्** आह्लादकं **शुक्रं** निर्मलं **हिरण्यमा** **ददे** स्वीकरोमीन्द्रेणानीतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,28 +93,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Upon a thousandcows I obtain gold: as if the cows came as it were laden with gold from **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On top of the thousand dappled cows, I took glistening, lofty, wide, gleaming gold.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Beside a thousand spotted kine I have received a gift of gold,  
      Pure, brilliant, and exceeding great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu den tausend scheckigen Kühen habe ich noch gleißendes, hohes, breites, lichtes Gold bekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf den tausend gefleckten Stuten liegt grosser, ausgedehnter, glänzender Schatz, leuchtendes Gold habe ich empfangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сверх тысячи пятнистых (коров)  
 Я получил (еще) блестящий, мощный,  

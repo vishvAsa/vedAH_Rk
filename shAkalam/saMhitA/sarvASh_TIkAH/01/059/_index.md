@@ -8,7 +8,7 @@ title = "+059"
 ‘वया इत्' इति सप्तर्चं द्वितीयं सूक्तं नोधस आर्षं त्रैष्टुभम् । वैश्वानरगुणकोऽग्निर्देवता । तथा चानुक्रान्तम् -- ‘वया इत्सप्त वैश्वानरीयम्' इति । सूक्तविनियोगो लिङ्गादवगन्तव्यः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 59  
 (Agni) Vaiśvānara  
@@ -23,7 +23,7 @@ is not entirely clear, but it brings together the cosmic (the two world-halves) 
 It is worthy of note that, in contrast to the last hymn (I.58) with its graphic  depiction of actual fire, this hymn contains almost no mention of Agni’s physical  qualities.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni Vaiśvānara
 </details>

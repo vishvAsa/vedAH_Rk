@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡पद् गन्धर्वी꣡र् अ꣡पिया च यो꣡षणा  
 नद꣡स्य नादे꣡ प꣡रि पातु मे म꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 भ्रा꣡ता नो ज्येष्ठः꣡ प्रथमो꣡ वि꣡ वोचति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 इ॒ष्टस्य॑ । मध्ये॑ । अदि॑तिः । नि । धा॒तु॒ । नः॒ । भ्राता॑ । नः॒ । ज्ये॒ष्ठः । प्र॒थ॒मः । वि । वो॒च॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rapad* ← ← *rap*
 - \[verb\], singular, Present injunctive
@@ -141,7 +141,7 @@ genre D
 **रपत्** रपितवत्यग्निगुणानुक्तवती **गन्धर्वीः** गन्धर्वस्य स्त्री **अप्या** अद्भिः संस्कृता **योषणा** आहुतिलक्षणा स्त्री **च** । अग्निं तर्पितवतीति शेषः । **नदस्य** । स्तोतृनामैतत् । स्तोतुः **मे** मम स्वभूतं **मनः** **नादे** स्तुतिलक्षणे शब्दे **परि** **पातु** अग्निः सम्यग्रक्षतु । अहं समाहितमना भूत्वा सम्यक् स्तुतिं करोमीत्यर्थः । किंच **अदितिः** अखण्डनीयोऽग्निः **नः** अस्मान् **इष्टस्य** यागस्य **मध्ये** **नि** **धातु** निदधातु नितरां स्थापयतु । **प्रथमः** सर्वेषां यजमानानां मुख्यः **नः** अस्माकं **ज्येष्ठः** भ्राता **वि** **वोचति** विशेषेण ब्रवीति । स्तौतीत्यर्थः । नाहमेव केवलो यजनशीलः किंतु सर्वं एवास्मत्कुलीनो देवयागप्रिय इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,29 +152,29 @@ genre D
 Agni: **aditiḥ** = akhaṇḍanīyogniḥ, the indivisibleAgni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Gandharvī is murmuring, and let (that) watery maiden protect my  mind all around at the bellowing of the bellowing (bull) [=Soma].  
 Let Aditi set us down in the middle of what we desire. Our eldest brother  [=Agni] will proclaim (it) first.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gandharvi spake: may she, the Lady of the flood, amid the river's roaring leave my heart untouched.  
      May Aditi accomplish all that we desire, and may our eldest Brother tell us this as Chief.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Gandharvin, die Wasserfrau, flüstert, so soll sie bei dem Brüllen des Brüllers meinen Sinn bewahren. Aditi soll uns inmitten unseres Wunsches versetzen, unser ältester Bruder soll als Erster entscheiden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rauschte laut Gandharva und die Wasserfrau; sie schütze bei des Stieres Toben meinen Sinn; In des gewünschten Mitte setz uns Aditi, und unser ältster Bruder künd' es uns zuerst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зашептала Гандхарви, водяная женщина.  
 Да сохранит она мой разум при реве ревуна!  

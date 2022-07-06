@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दूणा꣡शं सखियं꣡ त꣡व  
 गउ꣡र् असि वीर गव्यते꣡  
 अ꣡श्वो अश्वायते꣡ भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अश्वः॑ । अ॒श्व॒ऽय॒ते । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dūṇāśaṃ* ← *dūṇāśam* ← *dūṇāśa*
 - \[noun\], nominative, singular, neuter
@@ -82,20 +82,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **तव** त्वदीयं **सख्यं** सखित्वं **दूणाशं** दुर्णाशं नाशयितुमशक्यम् । अतिदृढमित्यर्थः । अतो हे वीर वीरयितरिन्द्र  गव्यते गामात्मन इच्छते त्वं **गौरसि** गवां प्रदाता भवसि । उपचारात् कारणे कार्यशब्दः । तथा **अश्वायते** अश्वानात्मन इच्छते **अश्वः** **भव** अश्वप्रदो भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your friendship, **Indra**, is not easily lost; you, hero are (the giver of) cattle to him who desires cattle (of) horses him who desires horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Partnership with you is difficult to attain. You are, o hero, the cow for  him who seeks cattle.  
 Become the horse for him who seeks horses.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -105,23 +105,23 @@ There is no obvious unifying feature in this tṛca, though Indra is compared to
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hard is thy love to win: thou art a Steer to him who longs for steers:  
      Be to one craving steeds a Steed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Freundschaft ist schwer zu erlangen. Du bist , o Held, wie ein Rind für den Rinderwünschenden; sei wie ein Roß für den Roßewünschenden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht schwindet deine Freundschaft hin, ein Stier du dem, der Stiere wünscht ein Ross sei dem, der Rosse wünscht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дружбы твоей трудно добиться.  
 Ты, о герой, (словно) бык, для того, кто ищет быка.  

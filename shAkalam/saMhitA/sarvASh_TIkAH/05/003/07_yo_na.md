@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ न आ꣡गो अभि꣡ ए꣡नो भ꣡राति  
 अ꣡धी꣡द् अघ꣡म् अघ꣡शंसे दधात  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने यो꣡ नो मर्च꣡यति द्वये꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ज॒हि । चि॒कि॒त्वः॒ । अ॒भिऽश॑स्तिम् । ए॒ताम् । अ॒ग्ने॒ । यः । नः॒ । म॒र्चय॑ति । द्व॒येन॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -131,7 +131,7 @@ genre M
 **यः** मर्त्यः **आगः** अपराधम् **एनः** पापं च नः अस्मभ्यम् **अभि** **भराति** अभितः करोति । तस्मिन् **अघशंसे** **अघं** पापम् **अधि** **दधात** ददात्वग्निः । इत् इति पूरणः । आगोऽपराधं यो मह्यमिदं करोति तस्मा एवाग्निस्तत्करोत्वित्यर्थः। अथ प्रत्यक्षेणोच्यते । हे **अग्ने** **एताम्** अभिशस्तिं **जहि** । उत्तरत्र यच्छब्दश्रवणात्तदानुगुण्येनैनमभिशंसकमिति व्याख्येयम् । यः अभिशस्ता **नः** अस्मान् **द्वयेन** उक्तेन आगसा एनसा वा **मर्चयति** बाधते । तमिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,35 +142,35 @@ genre M
 The calumniator: abhiśastim etam = this calumny; the antecent of yaḥ, he who, is in the masculine, hence abhiśastri = accusative er or calumniator is identified; in these two ways: offence, **āgas** or **aparādha**, and sin or wretchedness, enas or **pāpa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who will bring offense or blame against us—all of you: set evil  upon him, the speaker of evil.  
 O watchful Agni, smash this curse (of him) who harms us with  
 duplicity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He shall bring evil on the evil-plottcr whoever turns against us sin and outrage.  
      Destroy this calumny of him, O Agni, whoever injures us with double-dealing.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 If a man should turn upon us sin or guilt, bring ye the evil on him who pronounces evil spells (against us). Destroy, O knowing one, such a curse, O Agni, (of a man) who injures us by falsehood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer auf uns Sünde und Unrecht bringen möchte, auf diesen Verleumder ladet das Übel ab! Schlag nieder, du kundiger Agni, die Beschuldigung des, der uns durch Doppelzüngigkeit schädigt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer Sünd' und Frevel wider uns will üben, wer Unheil sinnt, der ernte selbst das Unheil; O weiser, tödte diesen argen Schmäher, und den, der uns durch Trug verletzt, o Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто хочет наслать на нас грех, вину,  
 Кладите зло на (этого) злоречивого!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सि꣡षक्ति सा꣡ वां सुमति꣡श् च꣡निष्ठा  
 अ꣡तापि घर्मो꣡ म꣡नुषो दुरोणे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡तग्वा चिन् न꣡ सुयु꣡जा युजानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । वा॒म् । स॒मु॒द्रान् । स॒रितः॑ । पिप॑र्ति । एत॑ऽग्वा । चि॒त् । न । सु॒ऽयुजा॑ । यु॒जा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
@@ -128,7 +128,7 @@ genre M
 **सा** **सुमतिः** अस्माभिः क्रियमाणा शोभना स्तुतिः **चनिष्ठा** कमनीयतमातिशयेनान्नवती वा **वां** युवां **सिषक्ति** सेवते । किंच **घर्मः** प्रवर्ग्यश्च **मनुषः** मनुष्यस्य यजमानस्य **दुरोणे** यागग्रहे **अतापि** तप्तोऽभूत् । यत् घ्राँ इत्यपतत्तद्घर्मस्य घर्मत्वम् ' (तै. आ. ५. १. ५) इति श्रुतिः । यज्ञस्य शिरःस्थानीयत्वादस्य । **यः** घर्मः **वां** युवां प्राप्नुवन्निति शेषः । **समुद्रान्** **सरितः** च **पिपर्ति** पूरयति वृष्टिद्वारा । **एतग्वा** **चिन्न** । चिदिति पूरणः । अश्वाविव यथा **सुयुजा** सुष्ठु युक्तौ रथे भवतस्तथेत्यर्थः। नेत्युपमार्थे । तद्वद्युवां यज्ञे युजानः योजयन् यज्ञः । स एवं करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ genre M
 The ewer: **gharma** = pravarga; **gharmaḥ** pravargaśca
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The most delightful favor clings to you two. In the house of Manu has  been heated the hot milk  
 that carries you, having been harnessed like a pair of well-harnessed  swift steeds, across the seas and rivers,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This most delightful eulogy awaits you in the man's house drink-offering hath been heated,  
      Which bringeth you over the seas and rivers, yoking as'twere two well-matched shining horses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese eure beste Huld folgt euch auf dem Fuße; der Gharmatrank ist in der Wohnung des Menschen heiß gemacht worden, der euch über die Meere, die Flüsse hinüberbringt, indem er eure Rosse anschirrt, die so gut geschirrt sind wie selbst die Sonnenrosse.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es sucht euch auf dies sehr willkommne Loblied, gekocht ist Brühe in des Menschen Wohnung, Und schön bespannt wie mit der Sonne Rossen der Wagen, der euch fährt durch Meer und Ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Следует за вами эта приятнейшая хвала.  
 В доме человека разогрет котелок с молоком,  

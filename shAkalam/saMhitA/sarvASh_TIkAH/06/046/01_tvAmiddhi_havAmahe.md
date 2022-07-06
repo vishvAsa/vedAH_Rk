@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् इ꣡द् धि꣡ ह꣡वामहे  
 साता꣡ वा꣡जस्य कार꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 तुवां꣡ का꣡ष्ठासु अ꣡र्वतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वाम् । वृ॒त्रेषु॑ । इ॒न्द्र॒ । सत्ऽप॑तिम् । नरः॑ । त्वाम् । काष्ठा॑सु । अर्व॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -102,7 +102,7 @@ genre M
 **कारवः** स्तोतारो वयं **वाजस्य** अन्नस्य **साता** सातौ संभजने निमित्तभूते सति हे इन्द्र **त्वामिद्धि** त्वामेव **हवामहे** स्तुतिभिराह्वयामः । हे **इन्द्र** **सत्पतिं** सतां पालयितारं श्रेष्ठं **त्वां** **नरः** अन्येऽपि मनुष्याः **वृत्रेषु** आवरकेषु शत्रुषु सत्सु हवन्ते आह्वयन्ति तज्जयार्थम् । अपि च **अर्वतः** अश्वस्य संबन्धिनीषु **काष्ठासु** यत्राश्वः क्रान्त्वा तिष्ठति तासु काष्ठासु संग्रामेषु युद्धकामाश्च **त्वाम्** एवाह्वयन्ति । अतो वयं त्वामेवाह्वयाम इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,14 +113,14 @@ genre M
 Kāṣṭhāsu **arvataḥ**, in the quarters or regions of the hors, where horses are engaged, or, according to **Sāyaṇa**, the field of battle; or, as men invoke you for victory
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because it is just you that we bards call upon at the winning of  the prize,  
 you, Indra, as master of settlements that our men (call upon) amid  
 obstacles, you at the finish lines of our steed,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -136,23 +136,23 @@ kira (see my 1992 “Vedic ‘sá figé’: An inherited sentence connective?”
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THAT we may win us wealth and power we poets, verily, call on thee:  
      In war men call on thee, Indra, the hero's Lord, in the steed's race-course call on thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur dich rufen ja wir Dichter, um den Siegerpreis zu gewinnen; dich, Indra, den rechtmäßigen Gebieter rufen die Herren in den Feindeschlachten, dich auf den Rennbahnen des Rennpferdes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich rufen ja wir Sänger an, um zu gewinnen Siegespreis, Die Männer dich, den tapfern Herrn beim Feindeskampf und bei des Renners Wettlauf dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только тебя мы зовем,  
 Певцы, для завоевания награды,  

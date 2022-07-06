@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र आसां नयिता꣡+ बृ꣡हस्प꣡तिर्  
 द꣡क्षिणा यज्ञः꣡ पुर꣡ एतु सो꣡मः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡यन्तीनाम् मरु꣡तो यन्तु अ꣡ग्रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दे॒व॒ऽसे॒नाना॑म् । अ॒भि॒ऽभ॒ञ्ज॒ती॒नाम् । जय॑न्तीनाम् । म॒रुतः॑ । य॒न्तु॒ । अग्र॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -109,7 +109,7 @@ popular
 **आसाम्** अस्मत्सहायार्थमागतानाम् अयम् **इन्द्रः** **नेता** नायकोऽस्तु । तथा तस्य **बृहस्पतिः** **पुर** **एतु** । एवं **दक्षिणा** **“यज्ञः** सोमः च पुर एत्विति प्रत्येकं संबन्धः । तथा **देवसेनानामभिभञ्जतीनाम्** अस्मदमित्रानाभिमुख्येन मर्दयन्तीनां **जयन्तीनाम्** । 'छन्दसि' इति नाम उदात्तत्वं जयन्तीनामित्यत्र बहुलवचनान्न भवति ( पा. सू. ६. १. १७८)। तासाम् **अग्रं** **मरुतो** **यन्तु** गच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ popular
 Dakṣiṇā: not a proper name;may the **yajña- puruṣa** (i.e., **Viṣṇu**) go on the right and Soma go before
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra (go in front) as their leader, let Br̥haspati, the priestly gift, the  sacrifice, the soma go in front;  
 let the Maruts go to the forefront of the shattering, conquering armies  of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra guide these: Brhaspati precede them, the guerdon, and the sacrifice, and Soma;  
      And let the banded Maruts march in forefront of heavenly hosts that conquer and demolish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra soll als deren Anführer, Brihaspati, die Daksina, das Opfer und Soma vorangehen. Die Marut sollen an der Spitze der einbrechenden, siegreichen Götterheere gehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, Und an der Spitze geh der Götterheere die Marutschar, der siegenden Durchbrecher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

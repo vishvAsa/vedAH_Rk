@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् इन्दो प꣡रि स्रव  
 स्वा꣡दिष्ठो अ꣡ङ्गिरोभियः  
 वरिवोवि꣡द् घृत꣡म् प꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 व॒रि॒वः॒ऽवित् । घृ॒तम् । पयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -81,20 +81,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** सोम **स्वादिष्टः** स्वादुतमः **वरिवोवित्** अस्मदभिलषितस्य धनस्य लम्भकश्च **त्वम्** **अङ्गिरोभ्यः** अङ्गिरसामर्थाय **घृतम्** आज्यं **पयः** च **परि** **स्रव** परिक्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, who are most sweet-flavoured, the bestower of riches, drop for the **Aṅgirasas** butter and milk.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o drop, stream around—sweetest for the Aṅgirases,  
 finding a wide realm—to the ghee, the milk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The metaphorical universe of the soma hymns makes it difficult to interpr. the phrase ghṛtám páyaḥ, lit. “ghee (and) milk.” In the published translation I take the phrase as the ultimate goal of pári srava, referring to the milk with which the soma will be mixed after its trip across the filter. See the esp. explicit IX.31.5 túbhyaṃ gā́vo ghṛtám páyah … dudhré “For you the cows have milked out ghee and milk,” which identifies the phrase as referring to substance(s) that the cows produce for soma, real dairy products. But soma is also sometimes compared to milk and to ghee (e.g., IX.74.4), and so the phrase can also be an appositive metaphorically characterizing the subject soma, accounting for Geldner’s “Laufe du … als Schmalz und Milch.” However, our 5c svádanti gā́vo páyobhiḥ “the cows sweeten (soma) with their milk” suggests that the milk and ghee in this vs. are likewise firmly bovine
 
@@ -109,23 +109,23 @@ The tṛca shows no strong signs of internal unity, save for the “sitting” f
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As giving room and freedom, as most sweet, pour butter forth and milk,  
      O Indu, for the Angirases.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laufe du, der Süßeste, ab, für die Angira´s einen Ausweg findend, o Saft, als Schmalz und Milch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indu, ströme fette Milch ringsum, der Segen du verleihst, Du süssester, den Angiras.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

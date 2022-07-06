@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व चष्ट ऋ꣡चीषमो  
 अवताँ꣡ इव मा꣡नुषः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; repeated line
 जु॒ष्ट्वी । दक्ष॑स्य । सो॒मिनः॑ । सखा॑यम् । कृ॒णु॒ते॒ । युज॑म् । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M;; repeated line
 अयमिन्द्रः **ऋचीषमः** ऋचा स्तुत्या समस्तथा परिच्छिन्नः सन् **अव** **चष्टे** पश्यत्यनुग्रहेणास्मान् । तत्र दृष्टान्तः । **मानुषः** मनुष्यः **अवतान्** अवटान् कूपादिप्रदेशान् **इव** । दृष्ट्वा च जुष्वी ् प्रीतोऽयं **दक्षस्य** प्रवृद्धस्य **सोमिनः** यजमानस्य युजं युज्यमात्मानं **सखायं** **कृणुते** करोति । तस्याभिमतं साधयतीत्यर्थः । अथवा । तृषितो मनुष्यो जलपूर्णानवटानिव स्तुतः सन् पश्यति सोमं पातुम् । पश्चादवेक्षितं तं युज्यमानं सोमं जुष्ट्वी सेवित्वा दक्षस्य सोमिनः सखायं कुरुते ॥ ॥ ४० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,7 +123,7 @@ genre M;; repeated line
 His friend: yujam = ātmānam; he makes the skilled Soma-offerer his friend; alternative interpretatioṅhe makes the Soma the friend of the worshipper
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who is equal to song gazes down on the (soma-)springs like a man  into wells.  
 Finding pleasure, he makes a partner and yokemate of the skillful  
@@ -131,7 +131,7 @@ soma-bearer.
 – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner suggests, the object of Indra’s gazing should be the soma, parallel to the wells (avatā́n) of the simile. As he also suggests, the avatā́n can simultaneously refer to soma-springs (Somabrunnen), and so I have tr. the word twice, in simile and frame.
 
@@ -140,23 +140,23 @@ Geldner construes the gen. phrase dákṣasya somínaḥ with the gerund juṣ�
 I would thus change the published translation to “Finding pleasure in the skillful provider of soma, he makes (him) a partner …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Worthy of song, he looketh down as a man looketh into wells.  
      Pleased with the Soma-bringer's skill he maketh him his mate and friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ....... schaut herab wie der Mensch in die Brunnen. An dem geschickten Somabereiter findet er Gefallen und macht ihn zu seinem verbündeten Freund. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es blickt der glänzende herab, wie auf den Wasserquell der Mensch, Und durch des Opfrers Geist erfreut, macht er ihn zum Genossen sich; des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Смотри вниз:,  
 Как человек в колодцы.  

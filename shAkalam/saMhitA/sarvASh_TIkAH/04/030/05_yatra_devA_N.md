@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्र देवाँ꣡ ऋघायतो꣡  
 वि꣡श्वाँ अ꣡युध्य ए꣡क इ꣡त्  
 तुव꣡म् इन्द्र वनूँ꣡र् अ꣡हन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 त्वम् । इ॒न्द्र॒ । व॒नून् । अह॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatra*
 - \[adverb\]
@@ -88,20 +88,20 @@ genre M
 हे **इन्द्र** **त्वम्** **एक** **इत्** असहाय एव **यत्र** यस्मिन् संग्रामे **देवान्** इन्द्रादीन् **ऋघायतः** बाधमानान् **विश्वान्** सर्वान् राक्षसादीन् **अयुध्यः** युद्धमकरोः । तथा **वनृन्** हिंसकान् **अहन्** अवधीः ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In which (contest) you singly indeed have warred with all those opposing the gods; you, **Indra**, have slain the malignant.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you fought the swaggering gods, all of them, even though you  were alone,  
 and you smashed the rapacious ones, o Indra;
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In b I read ā́hā not ā́hā (a change only in the Pp. not the Saṃhitā text), and analyze this sequence as ā́+ áhā, the neut. pl. of ‘day’ (found also in IV.30.3 and 33.6; cf. also viśváhā in 12a below). This is one of only two supposed exx. of the particle ha with long vowel; the other one (V.41.7) also follows ā́and is susceptible to the same analysis. The ā-final version of ha is ghā, which shows Brugmann's Law and velar outcome before original *o, acdg. to Mark Hale. Note that ha only once elsewhere occurs after the preverb ā́(VIII.9.18 ā́hāyám …). (In fact an analysis ā́hā́yám “this one through the days here …” is also possible in VIII.9.18, though I did not so analyze it there.) By contrast ghā is found fairly commonly after ā́(I.30.8, I.48.5, etc.).
 
@@ -128,22 +128,22 @@ Klein (DGRV I.431-32). It would be better if the first one were in vs. 5, not vs
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, fighting singly, Indra. thou o'ercamest all the furious Gods, thou slewest those who strove with thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo du die drohenden Götter alle ganz allein bekämpftest und du die Vanu´s erschlugst, o Indra;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als die ergrimmten Götter du bekämpftest, alle du allein, Und Indra du die Streiter schlugst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда всех разбушевавшихся богов  
 Ты поборол совсем один,  

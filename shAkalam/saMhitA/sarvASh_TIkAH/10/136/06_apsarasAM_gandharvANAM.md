@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अप्सर꣡सां गन्धर्वा꣡णाम्  
 मृगा꣡णां च꣡रणे च꣡रन्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡खा स्वादु꣡र् मदि꣡न्तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 के॒शी । केत॑स्य । वि॒द्वान् । सखा॑ । स्वा॒दुः । म॒दिन्ऽत॑मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apsarasāṃ* ← *apsarasām* ← *apsaras*
 - \[noun\], genitive, plural, feminine
@@ -88,7 +88,7 @@ popular;; epic anuṣṭubh (380)
 **अप्सरसां** देवस्त्रीणां **गन्धर्वाणां** **चरणे** संचारभूते दिव्यन्तरिक्षे च तथा **मृगाणां** सिंहादीनां संचारस्थले पृथिव्यां **चरन** व्याप्य संचरन् **केशी** अग्निर्वायुः सूर्यो वा **केतस्य** ज्ञातव्यस्य सर्वस्यार्थजातस्य **विद्वान्** यद्वा ज्ञातव्यस्यास्यर्षेरेतशस्य **सखा** विद्वान् अविशेषात् सर्वं जानन् स्वादुः स्वादयिता रसयिता सर्वस्य रसस्योत्पादकः अत एव **मदिन्तमः** मादयितृतमो भवति । ‘नाद्धस्य ' इति नुडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,30 +99,30 @@ popular;; epic anuṣṭubh (380)
 Radiant Sun: or, **Agni**, or **Vāyu**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ranging in the range of the Apsarases and the Gandharvas, of the  wild birds,  
 the long-haired one is their sweet, most exhilarating comrade, who  
 knows their will.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Treading the path of sylvan beasts, Gandharvas, and Apsarases,  
      He with long locks, who knows the wish, is a sweet most delightful friend
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf der Fährte der Apsaras´, der Gandharven, der wilden Tiere wandelnd, die Gedanken verstehend, ist der Langhaarige ihr süßer, gar entzückender Freund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf der Apsarasen, der Gandharven, der wilden Thiere Bahn wandernd ist der Langhaarige, des Begehrens kundig, der süsse, erquickendste Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Странствуя тропой Апсарас,  
 Гандхарвов, диких зверей,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वेषं꣡ रूपं꣡ कृणुत उ꣡त्तरं य꣡त्  
 सम्पृञ्चानः꣡ स꣡दने गो꣡भिर् अद्भिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सा꣡ देव꣡ताता स꣡मितिर् बभूव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 क॒विः । बु॒ध्नम् । परि॑ । म॒र्मृ॒ज्य॒ते॒ । धीः । सा । दे॒वऽता॑ता । सम्ऽइ॑तिः । ब॒भू॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, neuter
@@ -135,7 +135,7 @@ genre M
 **सदने** अन्तरिक्षे **गोभिः** गन्त्रीभिः **अद्भिः** मेघस्थाभिः सह संपृञ्चानः वैद्युतरूपेण संयुक्तः सन् **त्वेषं** दीप्तं सर्वैर्द्रष्टुमशक्यम् **उत्तरम्** उत्कृष्टतरं **रूपं** वैद्युतं प्रकाशं **यत्** यदा **कृणुते** करोति तदानीं **कविः** क्रान्तदर्शी **धीः** सर्वेषां धारकः सोऽग्निः **बुध्नं** सर्वस्योदकस्य मूलभूतमन्तरिक्षं **परि** **मर्मृज्यते** परितो मार्ष्टि स्वतेजसाच्छादयति । तस्याग्नेः **सा** **देवताता** देवेन देवनशीलेनाग्निना तता विस्तारिता दीप्तिरस्माभिः स्तुता सती **समितिर्बभूव** तेजसां संहतिर्भवति ॥ संपृञ्चानः । ‘पृची संपर्के'। रौधादिकः । अस्मात् लटः शानच् । ' श्नसोरल्लोपः' इति अकारलोपः । सीदन्त्यस्मिन् गन्धर्वादय इति सदनमन्तरिक्षम् । अधिकरणे ल्युट् । मर्मज्यते । ‘ मृजूष् शुद्धौ । अस्मात् यङि ‘ मर्मृज्यते मर्मृज्यमानास उपसंख्यानम् ' (पा. सू. ७. ४. ९१. १) इति निपातनात् अभ्यासस्य रुगागमः । देवताता । देवेन तता देवताता । तनोतेः कर्मणि निष्ठा ।' अनुदात्तोपदेश' ' इत्यादिना अनुनासिकलोपः । व्यत्ययेन आत्वम् ।' तृतीया कर्मणि ' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,13 +146,13 @@ genre M
 **Budhna** = **antarikṣa** or firmament, as the source of the rains
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He makes for himself a glittering form, which is (even) higher, as he  mingles with the cows and waters in his seat.  
 The poet keeps grooming his foundation all around, while his insight is  being groomed. He has become the meeting point with the assemblage  of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first three pādas of this verse sounds very somian: the cows [=milk] and the waters of b are the standard ritual substances mixed with soma in the IXth Maṇḍala; the beginning of a, tveṣáṃ rūpáṃ kṛṇute, is also found in a soma hymn, IX.71.8; and √mṛj ‘wipe, groom’ in c is a signature soma verb. This may be an example of the covert equation of the two ritual gods, Agni and Soma. Pāda a is easily interpreted in an Agni context; b makes more difficulties: the cows can here be the ghee poured into the fire (which could cause the creation of an “even higher” form in a), but the waters would obviously have a diminishing effect on the fire if it actually “mingles” with them. Geldner (n. 8b) suggests that the vedi is being sprinkled with water, but that’s not what the text says. I think better to assume that this is an incompletely adapted somian description.
 
@@ -163,28 +163,28 @@ My solution involves reading the intensive marmṛjyate simultaneously in two sy
 On the syntax and sense of d, see comm. ad X.11.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He makes him a most noble form of splendour, decking him in his home with milk and waters.  
      The Sage adorns the depths of air with wisdom: this is the meeting where the Gods are worshipped.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He assumes his fierce appearance which is above (i. e. the lightning?), being united with the cows 1, the waters in his seat. The prayer purifies the bottom of the seer (?) 2. This was the meeting among the gods 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er nimmt seine funkelnde Gestalt an, die sein oberes Gewand ist, wenn er an seinem Platz mit Kuhschmalz, mit Wasser in Berührung kommt. Der Seher und sein Denken umstreicht die Unterlage des Agni. Er wurde beim Gottesdienst der Versammlungsort der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er schafft sich seine Lichtgestalt, die höchste, in seinem Sitz mit Milch und Flut sich mischend; Der weise schmückt mit Andacht aus den Boden, so hat er sich vereinigt mit den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он принимает искрящуюся, высшую форму,  
 Когда смешивается на сиденье с коровьим (молоком), с водами.  

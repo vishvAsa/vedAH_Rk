@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मह꣡ उग्रा꣡य तव꣡से सुवृक्ति꣡म्  
 प्र꣡ ईरय शिव꣡तमाय पश्वः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धेहि꣡ तनु꣡वे कुवि꣡द् अङ्ग꣡ वे꣡दत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 गिर्वा॑हसे । गिरः॑ । इन्द्रा॑य । पू॒र्वीः । धे॒हि । त॒न्वे॑ । कु॒वित् । अ॒ङ्ग । वेद॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maha* ← *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
@@ -114,7 +114,7 @@ genre M
 हे स्तोतः **महे** महते गुणैः **उग्राय** बलेनोद्गूर्णाय **तवसे** । तु इति धातुर्वृद्ध्यर्थः । प्रवृद्धाय **शिवतमाय** कल्याणतमायेन्द्राय **सुवृक्तिं** शोभनां स्तुतिं **प्रेरय** चोदय । कुरु। किमर्थम् ।"पश्वः पशोः। द्विपाच्चतुष्पाच्च । पशोर्ममास्मदीयाय गवे वा । यद्वा पशोरतीन्द्रियार्थं द्रष्टुर्मम धनादिकं दातुं गवे सुखादिकं प्रदातुमिन्द्राय स्तुतिं प्रेरय । एतदेवाह । हे स्तोतः **गिर्वाहसे** गीर्भिः स्तुतिभिरुह्यमानाय **इन्द्राय** **पूर्वीः** बह्वीः **गिरः** स्तुतीः **धेहि** कुरु । ततः स इन्द्रः **तन्वे** । तनोति कुलमिति तनूस्तनयः । तस्मै पुत्राय स्वशरीरयात्मने वा **कुवित्** । बहुनामैतत् । बहु धनम् **अङ्ग** क्षिप्रं **वेदत्** लम्भयतु ददातु ।' विद्लृ लाभे ' । लेट्यडागमः । कुविच्छब्दयोगादनिघातः ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,14 +125,14 @@ genre M
 Who is borne by praise: cf. RV 1.30.5; 61.4
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the great, strong, powerful one, for the one most propitious to cattle  send forth a well-twisted (hymn).  
 Produce many hymns for Indra whose vehicle is songs, for his body.  
 Surely he will take cognizance (of them)?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although they belong to different tṛcas, 10ab responds to vs. 9: in both Indra is characterized by the lexeme abhí √bhū ‘dominate, surmount’ (9c abhibhū́ḥ, 10a abhibhū́taram), with each governing an NP beginning with víśva-. Moreover, in vs. 9 it is said that gods (as well as mortals) have not attained (āśata) Indra, while in 10ab the gods appear to be the implied subject of the verbs tatakṣuḥ and jajanuḥ “fashioned and begot” - in other words, paradoxically, though they do not attain him they are credited with creating him.
 
@@ -141,23 +141,23 @@ In c there is pseudo-etymological play between váriṣṭḥaṃ váre, which n
 The etymological figure ugrám ójiṣṭham, with a positive and its superlative, is reminiscent of the simplex followed by comparative in 9c / 10a abhibhū́ḥ …  abhibhū́taram. The rest of pāda d, tavásam tarasvínam, almost mimics an etymological figure via phonological scrambling, although the words are of course unrelated.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him the Strong and Mighty, most auspicious, send up the beAuteous hymn for sake of cattle.  
      Lay oa his body many songs for Indra invoked with song, for will not he regard. them?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Großen, Gewaltigen, Starken sende ein Loblied hinaus, der dem Zugtier gar freundlich ist! Bringe dem Indra für seine Person viele Lobesworte dar, den die Lobesworte anziehen. Gewiß wird er sie recht verstehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem grossen, hehren, starken sende Loblied, und Heerden treibe hin zum heilbegabten, Dem Liederfreunde lege viele Lieder ans Herz, dem Indra, ob er wol drauf achtet?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

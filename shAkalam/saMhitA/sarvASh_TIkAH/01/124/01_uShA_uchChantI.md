@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उषा꣡ उछ꣡न्ती समिधाने꣡ अग्ना꣡  
 उद्य꣡न् सू꣡र्य उर्विया꣡ ज्यो꣡तिर् अश्रेत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रा꣡सावीद् द्विप꣡त् प्र꣡ च꣡तुष्पद् इत्यइ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दे॒वः । नः॒ । अत्र॑ । स॒वि॒ता । नु । अर्थ॑म् । प्र । अ॒सा॒वी॒त् । द्वि॒ऽपत् । प्र । चतुः॑ऽपत् । इ॒त्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
@@ -130,7 +130,7 @@ genre M
 एषा **उषाः** **समिधाने** **अग्नौ** । अग्नित्वसामान्येन एकवचनम् । अग्निषु समिध्यमानेषु सत्सु । कर्मार्थे कर्तृप्रयोगः । उषःकाले हि आहवनीयादयः प्रज्वाल्यन्ते । **उच्छन्ती** तमो विवासयन्ती **उर्विया** उरु बहुलं **ज्योतिः** प्रकाशम् **अश्रेत्** सेवते प्रकाशते प्रकाशयति वा सर्वम् । किमिव । **उद्यन्** **सूर्यः** । उपमाप्रधाननिर्देशः । उदितः सूर्य इव । सूर्यो यथा प्रकाशयति तथेत्यर्थः । **अत्र** त्वदुदयानन्तरम् अस्मिन् कर्मणि वा **सविता** **देवः** सर्वस्य प्रेरकः सूर्यः **नः** अस्मदर्थं **नु** क्षिप्रम् **अर्थम्** । अर्थशब्दोऽत्र विशेषणवाची नपुंसकलिङ्गः । ‘ अयन्नर्थानि कृणवन्नपांसि' ( ऋ. सं. ७. ६३. ४) इत्यादौ तथा दृष्टत्वात् । अरणीयं **द्विपत्** पादद्वयोपेतं मनुष्यादिरूपं धनं **प्रासावीत्** अनुजानातु ददात्वित्यर्थः। तथा **चतुष्पत्** पादचतुष्टयोपेतं गवादिरूपं धनं प्रासावीत् । किमर्थम्। **इत्यै** द्विपदां चतुष्पदां च गमनाय । यद्वा । नः इत्यै इति संबन्धः । अस्मद्गमनागमनादिव्यापारायेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 For our use: ityatai, lit. = for going; i.e. for carrying on our own affairs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dawn as she dawns when the fire is being kindled; the sun as it rises— each has propped up its own light widely.  
 God Savitar here and now has impelled forth our two-footed, forth our  four-footed, each to go to its task.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE Dawn refulgent when the fire is kindled, and the Sun rising, far diffuse their brightness.  
      Savitar, God, hath sent us forth to labour, each quadruped, each biped, to be active.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Während das Feuer angezündet wird, hat die aufleuchtende Usas, hat der aufgehende Surya sein Licht weithin aufgesteckt. Gott Savitri hat unsere Zwei- und Vierfüßler nunmehr angetrieben, an ihr Geschäft zu gehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Uschas leuchtend bei entflammtem Feuer, die Sonn' im Aufgehn, breitet weit ihr Licht aus; Gott Savitar hat uns erweckt zur Arbeit, und Mensch und Thier, was Füsse hat, zum Gehen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда зажигается огонь, воспламенящаяся Ушас  
 (И) восходящий Сурья далеко простерли свет.  

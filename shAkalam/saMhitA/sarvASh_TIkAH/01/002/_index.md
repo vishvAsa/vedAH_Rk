@@ -52,7 +52,7 @@ title = "+002"
 अग्निष्टोमे सुत्यादिने, सूर्योदयात् पूर्वं प्रेषितो होता प्रातरनुवाकमनुब्रूयात् । एतच्चैतरेयब्राह्मणे प्रपञ्चितं- देवेभ्यः प्रातर्यावभ्यो होतरनुब्रूहीत्याहाध्वर्युः ' ( ऐ. ब्रा. २.१५) इत्यादि ब्राह्मणम् । तस्मिंश्च प्रातरनुवाके ' अग्निमीळे '  इत्यादिसूक्तमन्तर्भूतम् । तच्च व्याख्यातम् । प्रातःसवने वैश्वदेवग्रहणादूर्ध्वं प्रउगशस्त्रं होत्रा शंसनीयम् । तच्च शस्त्रं ' वायवा याहि ' इत्यादिसप्ततृचात्मकम् । एतच्च ब्राह्मणे ' ग्रहोक्थम् ' ( ऐ.ब्रा. ३.१) इत्यादिखण्डे प्रपञ्चितम् । तथा पञ्चमाध्याये ' स्तोत्रमग्रे शस्त्रात् ' ( आश्व. श्रौ. ५. १०) इत्यादिखण्डे सूत्रितं च । अत्रेयमनुक्रमणिका- वायो वायव्यैन्द्रवायवमैत्रावरुणास्तृचा अश्विना द्वादशाश्विनैन्द्रवैश्वदेवसारस्वतास्तृचाः सप्तैताः प्रउगदेवताः ' इति । अस्यायमर्थः । ' वायवा याहि ' इत्यादिकं नवर्चं सूक्तम् । ' अग्निं नव ' इत्यतो नवशब्दस्यानुवृत्तेः । तत्राद्यस्तृचो वायुदेवताकः । द्वितीय इन्द्रवायुदेवताकः । तृतीयो मित्रावरुणदेवताकः । ' अश्विना ' इत्यादिकं द्वादशर्चं सूक्तम् । तत्राद्यस्तृच आश्विनः । द्वितीय ऐन्द्रः । तृतीयो वैश्वदेवः । चतुर्थः सारस्वतः । तेषु तृचेषु प्रतिपाद्या वाय्वादयः सरस्वन्यन्ताः सप्तसंख्याकाः प्रउगशस्त्रस्य देवता इति । मधुच्छन्दसोऽनुवर्तनात् स एवर्षिः । तथैवानुवृत्त्या गायत्रं छन्दः । वायव्ये तृचे प्रथमा ग्रहस्य ऐन्द्रवायवस्यैका पुरोनुवाक्या । एतच्च ब्राह्मणे समाम्नातं-  वायव्या पूर्वा पुरोनुवाक्यैन्द्रवायव्युत्तरा ' ( ऐ. ब्रा. २. २६) इति । तथा सूत्रितं च-' वायवा याहि दर्शतेन्द्रवायू इमे सुता इत्यनुवाक्ये ( आश्व श्रौ. ५ ५) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 2  
 Vāyu (1–3), Indra and Vāyu (4–6), Mitra and Varuṇa (7–9)  
@@ -68,7 +68,7 @@ For further on this śastra and the order of divinities addressed, see the other
 The actual content of the two hymns is quite simple. In I.2 the first two tr̥cas to  Vāyu and Indra and Vāyu respectively announce that the soma has been pressed  and urge the gods to come to our sacrifice. The tr̥ca to Mitra and Varuṇa is slightly  more interesting, in that it mentions the frequently conjoined notions of “insight” (dhī́), “skill” (dákṣa), and “resolve” or “purpose” (krátu), the three elements neces sary to conceive and carry out an action.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Vāyu, etc. (Praügaśastra)
 

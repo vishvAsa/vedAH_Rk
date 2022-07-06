@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡या तुवं꣡ न ऊतिया꣡  
 अभि꣡ प्र꣡ मन्दसे वृषन्  
 क꣡या स्तोतृ꣡भ्य आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 कया॑ । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
@@ -88,19 +88,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वृषन्** कामानां वर्षितरिन्द्र **कया** केन **ऊत्या** । अव रक्षणादिषु गत्यर्थे । ऊतियूति' इत्यादिना निपातितः । केनाभिगमनेन **नः** अस्मान् **अभि** अभितः **प्र** **मन्दसे** प्रकर्षेण मादयसि । अस्मदीयं यज्ञं प्रति सोमपानार्थमागमनेन वा त्वदीयस्तुतिश्रवणार्थमागमनेन वा कदास्मान् प्रमादयसीति । किंच **कया** केनाभिगमनेन **स्तोतृभ्यः** अस्मभ्यं धनम् **आ** **भर** आबिभर्षीतीन्द्रं स्तोता पृच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Showerer (of blessings), with what coming of yours do you gladden us, with what coming bring you(wealth) to your worshippers?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Coming) with what help for us do you reach exhilaration, bull? With what (help) for the pressers? Bring it here!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse presents both a conceptual difficulty (in ab) and a syntactic one (in c). As for the first, Indra should not be reaching exhilaration though his help for us, but rather through our soma. Geldner sidesteps the difficulty by simply reinterpreting the lexeme abhí prá √mand as meaning ‘draw near’ (“ziehst du her zu uns”) without comment, but this relatively common collocation elsewhere always has the meaning expected of √mad / mand, a meaning that abhī́… mandasānáḥ in 21ab would reinforce. In order to avoid the conceptually unlikely “by what help for us do you become exhilarated?” I have supplied “coming” with the kayā́… ūtyā́phrase - re-establishing the usual balance between what Indra bestows on his worshippers and the soma they offer him in return.
 
@@ -111,23 +111,23 @@ To avoid the syntactic clash I assume that káyā stotṛ́bhyaḥ, parallel to 
 Oldenberg cites a similar solution, though taking stotṛ́bhyaḥ with the imperative not the kayā́clause, found in Grassmann’s tr., also in Caland/Henry’s, which he dismisses as “künstliches Ueberspringen der Schwierigkeit.” This hardly seems fair, since it does in fact avoid the difficulty, and seems no more artificial than many interpretations of syntactically awkward passages. As for my division into clauses as opposed to that of Grassmann and Cal/Hen, although stotṛ́bhya ā́bhara is found several times elsewhere as a syntagm (V.6.1 [and reps.], nearby VIII.77.8), pāda-final ā́bhara is extraordinarily common and could easily be construed independently, especially since stotṛ́bhyaḥ would naturally pair with naḥ in these parallel expressions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Hero, with that aid dost thou delight us, with what succour bring  
      Riches to those who worship thee?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit welcher Gunst ziehst du her zu uns, du Bulle, mit welcher willst du den Sängern etwas bringen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit welcher Hülfe willst du uns erfreuen, o du starker Held? Mit welcher? bring den Sängern sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

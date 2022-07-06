@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हव्यवा꣡ळ् अ꣡मर्तिय  
 उशि꣡ग् दूत꣡श् च꣡नोहितः  
 अग्नि꣡र् धिया꣡ स꣡म् ऋण्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 अ॒ग्निः । धि॒या । सम् । ऋ॒ण्व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -84,7 +84,7 @@ genre M
 स हव्यवाट् हविषो वोढामर्त्यो मरणधर्मरहित उशिक् हविः कामयमानो दूतो देवानां दूतश्चा नसे हविर्लक्षणायान्नाय हितो निहितः । यद्वा चनोहितः । चनोऽऽन्न हविर्लक्षणं हितमस्येति चनोहितः । स तथाविधोऽग्निर्धिया प्रज्ञया समृण्वति । सङ्गच्छते । कर्मविषयप्रज्ञान्वितोऽग्निरस्मानपि तादुक्प्रज्ञान्वितान्करोत्वित्याशास्ते ॥ हव्यवाट् । वह प्रापणे । वहश्चेति ण्विः । धत्व जत्त्व चर्त्वानि । कृदुत्तरपदप्रकृतिस्वरत्वम् । उशिक् । वश कान्तौ । इजिरित्यनुवृत्तौ वशेः । किच्चेतीजिप्रत्ययः । तस्य कित्त्वात् ग्रहिज्येति सम्प्रसारणम् । प्रत्ययस्वरः । चनो हितः । चनः शब्दश्चायतेरन्ने ह्रस्वश्चेत्यनुनन्तु । चकारान्नुडागमः । तस्मिन्यलोपः । नित्त्वादाद्युदात्तः । पुनश्चनसोश्छन्दसि गतिसञ्ज्ञा वक्तव्या । पा. १-४-६०-२ । इति गति सम्ज्ञायां गतिरनन्तर इति प्रकृति स्वरत्वम् । बहुव्रिहौ तु पूर्वपदप्रकृतिस्वरत्वम् । धिया । सावेकाच इति विभक्तेरुदात्तत्वम् । ऋण्वति । ऋणु गतौ । लेट तनादित्वादु प्रत्ययः । लेटोऽडाटावित्यडागमः । ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,34 +95,34 @@ genre M
 Dhiyā samṛṇvati, i.e. Agni is fully aware of the objects of the ceremony, and a wish is implied that he may communicate similar knowledge to its performers, tān tādṛk prajñānvitān karotu; another interpretation: **Yajus**. 22.16: through knowledge Agni associates with the gods, for the purpose of conveying the oblations to them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The conveyor of oblations, the immortal fire-priest, and the messenger  placed for delight,  
 Agni through insight assembles (the sacrifice).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Oblation-bearer, deathless, well inclined, an eager messenger,  
      Agni comes nigh us with the thought.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He, the immortal carrier of oblations, the Usig 1, the messenger, with satisfied mind, Agni sets himself in motion 2 (incited) by the thought (of praying men?).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist der Opferfahrer, der Unsterbliche, er der Fürbitter, als Bote beliebt. Agni bringt es mit Kunst zustande.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Opfer fährt, unsterblich ist, der rasche Bote, holdgesinnt; Gefügt wird Agni durch Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он бессмертный возница жертв,  
 Жрец, вестник, поставленный на радость (людям).  

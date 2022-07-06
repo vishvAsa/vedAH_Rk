@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवो꣡र् दाना꣡य सुभ꣡रा असश्च꣡तो  
 र꣡थम् आ꣡ तस्थुर् वचसं꣡ न꣡ म꣡न्तवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । धियः॑ । अव॑थः । कर्म॑न् । इ॒ष्टये॑ । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
@@ -135,21 +135,21 @@ genre M;; repeated line
 **सुभराः** शोभनस्तोत्रभरणाः **असश्चतः** अन्यत्रानासक्ताः स्तोतारो हे अश्विनौ **युवोः** युवयोः **रथम्** **आ** **तस्थुः** आतिष्ठन्ति प्राप्नुवन्ति । किमर्थम् । **दानाय** युष्मत्कर्तृकदानार्थम् । धनलाभायेत्यर्थः । तत्र दृष्टान्तः । **वचसं** **न** यथा न्यायोपेतेन वचसा वाक्येन युक्तं विपश्चितं **मन्तवे** बुभुत्सितार्थप्रतिपत्तये स्तोतारः प्राप्नुवन्ति तद्वत् । अपि च **कर्मन्** कर्मणि **इष्टये** यागार्थं प्रवृत्तान् **धियः** ध्यातॄन विशिष्टज्ञानोपेतान् **याभिः** **ऊतिभिः** पालनैः **अवथः** युवां रक्षथः । ताभिरित्यादि पूर्ववत् ॥ वचसम् । अर्शआदित्वात् मत्वर्थीयः अच् । मन्तवे । ‘मन ज्ञाने'। ‘कमिमनिजनि” ' इत्यादिना तुप्रत्ययः । धियः । ध्यायन्तीति धियः स्तोतारः । ‘ध्यै चिन्तायाम् । ‘क्विप् च ' इति क्विप् । चशब्देन दृशिग्रहणानुकर्षणात् संप्रसारणम् । कर्मन् । ‘सुपां सुलुक्' इति सप्तम्या लुक् । 'न ङिसंबुद्ध्योः' इति नलोपप्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Earnest and exclusive adorers stand, **Aśvins**, round your car, (to benefit) by your bounty, as (disciples listen) to the words (of a teacher) for instrumental uction; with those aids with which you defend the pious who are engaged in acts of worship, come, Aśvins,wilingly hither.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you two to give them, inexhaustible (gifts?), easy to carry, have  mounted onto your chariot, as if onto an eloquent (vehicle) for  
 thinking.  
 Those with which you help (us) to seek insights at the cultic act—with  those forms of help come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is very dense and has been subject(ed) to a variety of interpretations, the details of which can’t be laid out here. The first hemistich depicts gifts or some other desirable things mounting the chariot of the Aśvins to be given.
 
@@ -164,23 +164,23 @@ The final phrase of c, kárman iṣṭáye echoes that of 1b yā́man iṣṭáy
 Others tr., with different interpretations of iṣṭáye, have taken different routes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ample, unfailing, they have mounted as it were an eloquent car that ye may think of us and give.  
      Come hither unto us, O Asvins, with those aids wherewith ye help our thoughts to further holy acts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf eurem Wagen stellten sich zum Verschenken die leichtlastenden unversieglichen Gaben ein wie bei einem Wortkundigen die Gedanken zum Ersinnen sich einstellen. Mit denen ihr Asvin die Gedanken fördert, daß sie bei der heiligen Handlung willig kommen - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für eure Huld bestiegen wuchtig unerschöpft den Wagen Hülfen, dass er fast zu wanken scheint, Mit solchen Hülfen kommt, o Ritter, schnell herbei, mit denen Andacht ihr beeilt beim heil'gen Werk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваши неиссякающие (подарки) для раздачи, чье бремя легко,  
 Взошли на колесницу, как на речистого (находят мысли), чтобы придумывать гимн.  

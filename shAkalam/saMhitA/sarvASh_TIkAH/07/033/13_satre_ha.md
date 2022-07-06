@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्रे꣡ ह जाता꣡व् इषिता꣡ न꣡मोभिः  
 कुम्भे꣡ रे꣡तः सिषिचतुः समान꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡तो जात꣡म् ऋ꣡षिम् आहुर् व꣡सिष्ठम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ततः॑ । ह॒ । मानः॑ । उत् । इ॒या॒य॒ । मध्या॑त् । ततः॑ । जा॒तम् । ऋषि॑म् । आ॒हुः॒ । वसि॑ष्ठम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satre* ← *sattra*
 - \[noun\], locative, singular, neuter
@@ -132,7 +132,7 @@ popular
 **सत्रे** बहुकर्तृके यागे । **ह** इति पूरणः । **जातौ** दीक्षितौ मित्रावरुणौ **इषिता** अध्येषितौ स्वयमन्यैर्जनैः **नमोभिः** स्तुतिभिः **कुम्भे** वासतीवरे कलशे **समानम्** एकदैव **रेतः** **सिसिचतुः** असिञ्चताम्। **ततः** वासतीवरात्कुम्भात् **मध्यात्** अगस्त्यः **मानः** शमीप्रमाणः **उदियाय** प्रादुर्बभूव । **ततः** एव कुम्भात् **वसिष्ठम्** अपि **ऋषिं** **जातमाहुः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,14 +145,14 @@ Consecrated: satre jātau = yāge dīkṣitau, prepared by preliminary purificat
 Māna: a name of **Agastya** with reference to his being of the measure of a span at his birth; udiyāya tatoagastyaḥ śamyamātro mahitapaḥ mānena sammito yasmād **mānya** ihocyate, thence arose the great asceicAgastya of the measure of a span, as measured by a measure (māna); he is therefore, caled upon earthMānya. Another legend: Agastya was, in a preceding birth, the son of **Pulastya**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two [=Mitra and Varuṇa?], brought into being at a (ritual) Session,  aroused by reverences, poured their common semen into a pot.  
 From it arose Māna from the middle. From it they say the seer was  
 born—Vasiṣṭha.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is the basis of Oldenberg’s (and others’) reconstruction of the 1st birth of Vasiṣṭha (see comm. add vss. 10-13), with Mitra and Varuṇa at a Sattra emitting semen into a pot, which then gave rise to both Agastya and Vasiṣṭha. Unfortunately the details of this vs. are far from clear, though pāda b does (fairly) straightforwardly depict a dual entity pouring semen into a pot.
 
@@ -184,23 +184,23 @@ Oldenberg is uncertain about the details; I am even more uncertain.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born at the sacrifice, urged by adorations, both with a common flow bedewed the pitcher.  
      Then from the midst thereof there rose up Mana, and thence they say was born the sage Vasistha.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei einem langen Somaopfer durch die Huldigungen erregt geworden, vergossen beide Samen in einen Krug. Daraus ging Mana hervor; daraus wurde, wie man sagt, der Rishi Vasistha geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die beiden zugleich geborenen [Mitra und Varuna], durch Gebete erregt, ergossen den gemeinsamen Samen in den Krug; aus dessen Mitte ging hervor der Dichter; den daraus geborenen Sänger nannte man Vasischtha.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рожденные оба во время жертвенного праздника, возбужденные поклонениями,  
 Они излили общее семя в кувшин.  

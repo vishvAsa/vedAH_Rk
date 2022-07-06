@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हये꣡ न꣡रो म꣡रुतो मॄळ꣡ता+ नस्  
 तु꣡वीमघासो अ꣡मृता ऋ꣡तज्ञाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हद्गिरयो बृह꣡द् उक्ष꣡माणाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सत्य॑ऽश्रुतः । कव॑यः । युवा॑नः । बृह॑त्ऽगिरयः । बृ॒हत् । उ॒क्षमा॑णाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *haye*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 **हये** हे **नरः** नेतारः **मरुतः** **नः** अस्मान् **मृळत** सुखयत अस्मभ्यं हिताय वा सुखिनो भवत । हे **तुवीमघासः** प्रभूतधनाः **अमृताः** अमरणस्वभावाः **ऋतज्ञाः** उदकस्य यज्ञस्य वा ज्ञातारः । कर्तार इत्यर्थः । **सत्यश्रुतः** सत्येन सत्यफलत्वेन प्रसिद्धाः **कवयः** मेधाविनः। **युवानः** नित्यतरुणाः **बृहद्गिरयः** प्रभूतस्तुतयः **बृहत्** अत्यधिकम् **उक्षमाणाः** हविर्भिः सेविताः उदकं वा सिञ्चन्तो यूयं मृळत ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ genre M
 **Bṛhat** ukṣāmāṇāḥ may also mean sprinkliing much water, udakam siñcantaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 – Hail, Maruts, superior men! Be merciful to us—o you of great bounty,  immortal, knowing the (immanent) truth,  
 hearing the realized (truth) [=poetic formulations], sage poets, youths,  belonging to the lofty mountains, loftily growing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. consists almost entirely of accented vocatives. Only the last phrase bṛhád ukṣámāṇāḥ escapes the voc. and that probably because accent conversion would be tricky.
 
@@ -137,23 +137,23 @@ The juxtaposition (across hemistich boundary) of ṛ́ta-jñāḥ and sátya-śr
 In some contexts this can be simply palpable reality, but here I think it refers to how ṛtá- is realized verbally, in the formulations of poets, available to be heard.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ho! Maruts, Heroes, skilled in Law, immortal, be gracious unto us, ye rich in treasures,  
      Ye hearers of the truth, ye sage and youthful, grown mighty, dwelling on the lofty mountains.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Höret, ihr Herren Marut, seid uns barmherzig, ihr viel schenkenden, unsterblichen, des Rechten kundigen, die Wahrheit erhörenden, jugendlichen Seher, vom hohen Berg stammend, hoch wachsend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wohlan, ihr Männer, Maruts, seid uns gnädig, o schätzereiche Götter, die ihr Recht kennt, Wahrhaft berühmte, jugendliche Seher, wie Berge hoch, gewaltig aufgewachsen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ну, мужи Маруты, помилуйте же нас,  
 О мощнодарящие, бессмертные, знающие закон,  

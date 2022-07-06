@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ त्वा वाजसा꣡तमम्  
 अङ्गिरस्व꣡द् धवामहे  
 द्युम्नइ꣡र् अभि꣡ प्र꣡ णोनुमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; repeated line
 द्यु॒म्नैः । अ॒भि । प्र । नो॒नु॒मः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -83,41 +83,41 @@ genre M;; repeated line
 हे अग्ने **वाजसातमं** वाजानामन्नानामतिशयेन सनितारं दातारं तमेव **त्वा** त्वाम् **अङ्गिरस्वत्** अङ्गिरस इव **हवामहे** आह्वयामः । शिष्टं गतम् ॥ वाजसातमम् । ‘ षणु दाने'। ‘जनसनखनक्रमगमो विट्'।विड्वनोरनुनासिकस्यात्' इति आत्वम्। अतिशयेन वाजसा वाजसातमः। तमपः पित्त्वादनुदात्तत्वे कृदुत्तरपदप्रकृतिस्वर एव शिष्यते । अङ्गिरस्वत् । तेन तुल्यम्' इति वतिः । ‘नभोऽङ्गिरोमनुषां वत्युपसंख्यानम्' (पा. सू. १, ४, १८. ३) इति भत्वेन पदत्वाभावात् रुत्वाद्यभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke you, such as you are, the giver of abundant food, in like manner as did **Aṅgiras**; we praise you repeatedly with commendatory (hymns).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And to you, best winner of prizes, do we call, as Aṅgiras did.  
 – We keep bellowing to (you), with éclat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, like Angiras we call on thee best winner of the spoil:  
      We laud thee for thy glories' sake.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We call thee, such as thou art, the highest winner of booty, as Aṅgiras did. We praise thee aloud with (songs full of) splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den ersten Preisgewinner, rufen wir wie Angiras tat. Hellauf schreien wir dir zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rufen wie die Angiras dich an, den Labung spendendsten; Wir preisen dich mit hellem Sang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя, лучше всех добывающего награду,  
 Мы призываем, подобно Ангирасам.  

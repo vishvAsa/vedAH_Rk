@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दा꣡ नो अग्ने धिया꣡ रयिं꣡ सुवी꣡रं  
 सुअपत्यं꣡ सहसिय प्रशस्त꣡म्  
 न꣡ यं꣡ या꣡वा त꣡रति यातुमा꣡वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 न । यम् । यावा॑ । तर॑ति । या॒तु॒ऽमावा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dā* ← *dāḥ* ← *dā*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -108,36 +108,36 @@ genre M
 **सहस्य** अभिभवकुशल हे **अग्ने** **सुवीरं** शोभनपुत्रोपेतं **स्वपत्यं** शोभनपौत्रोपेतं **प्रशस्तं** श्रेष्ठं **रयिं** धनं **धिया** स्तोत्रेण **नः** अस्मभ्यं **दाः** देहि । **यं** रयिं **यावा** अभिगन्ता शत्रुः **यातुमावान्** हिंसाया निर्गतः ॥ नलोपाभावश्छान्दसः॥ यद्वा । हिंसायुक्तः ॥ परो वतिर्मत्वर्थीयः पूरकः ॥ **न** **तरति** न बाधते ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Vigorous **Agni**, grant to us, (in requital) of our praises, excellent riches, worthy **male** offspring, anddescendants; (wealth), which an enemy attemptin to assail, may not despoil.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through insight, Agni, give us wealth abounding in good men and, o  capable one, a good lineage that is proclaimed  
 and that the invading sorcerer does not overcome.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Victorious Agni, grant us wealth with wisdom, wealth with brave sons, famous and independent,  
      Which not a foe who deals in magic conquers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns, Agni, nach Wunsch einen trefflichen Schatz an Meistern, guten Kindern, du Gewaltiger, den niemals ein Zauber überwindet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib, starker Agni, huldvoll uns gepries'ne an Helden und an Kindern reiche Schätze, Die nicht ein Räuber bös' gesinnt gewinne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дай нам, Агни, за (нашу) молитву богатство из мужественных героев,  
 Прекрасное потомство, о мощный, прославленное,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो बोधि पुरएता꣡ सुगे꣡षु  
 उत꣡ दुर्गे꣡षु पथिकृ꣡द् वि꣡दानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡भिर् न इन्द्र अभि꣡ वक्षि वा꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ये । अश्र॑मासः । उ॒रवः॑ । वहि॑ष्ठाः । तेभिः॑ । नः॒ । इ॒न्द्र॒ । अ॒भि । व॒क्षि॒ । वाज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -128,41 +128,41 @@ genre M
 हे **इन्द्र** **पथिकृत्** वर्त्मनां कर्ता **विदानः** सर्वं विद्वान् **सः** त्वं **सुगेषु** सुखेन गन्तव्येषु **उत** अपि च **दुर्गेषु** दुःखेन गन्तव्येषु च मार्गेषु **नः** अस्माकं **पुरएता** पुरो गन्ता **बोधि** भव । बोधीति भवतेर्लोण्मध्यमपुरुषैकवचनस्य छान्दसं रूपम् । **अश्रमासः** श्रमरहिताः **उरवः** महान्तः **वहिष्ठाः** वोढृतमाः तव **ये** अश्वाः सन्ति हे इन्द्र **तेभिः** तैरश्वैः **नः** अस्मभ्यं **वाजम्** अन्नम् **अभि** **वक्षि** अभिवह ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Constructor of paths, who are cognizant (of all things), be our preceder, whether in easy or difficult (ways); bring to us food, **Indra**, with those your (steeds), who are unwearied, large, and bearers of great burdens.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become a leader for us on easy roads and on difficult ones, since you  are known as a path-maker.  
 The broad, unflagging (horses), the best conveyors—with them convey  the prize to us, o Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vídānaḥ in b reprises yó vídānaḥ in 2a and thus forms a weak ring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On good and evil ways be thou our Leader, thou who art known to all as Path-preparer.  
      Bring power to us, O Indra, with thy Horses, Steeds that are best to draw, broad-backed, unwearied.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei du unser Führer auf guten und schlimmen Wegen, als Pfadbereiter bekannt! Mit den unermüdlichen, breiten, besten Fahrrossen, mit denen fahre uns, o Indra, zum Sieg!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei uns ein Führer, zeigend dich auf guten und schlimmen Wegen als den Pfadbehüter, Mit denen, welche weit und unermüdlich am besten fahren, bring uns Labung, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь для нас идущим впереди по хорошим  
 И плохим дорогам, известный как пролагатель пути!  

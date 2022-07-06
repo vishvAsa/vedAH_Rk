@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपो꣡ य꣡द् अ꣡द्रिम् पुरुहूत द꣡र्दर्  
 आवि꣡र् भुवत् सर꣡मा पूर्वियं꣡ ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गोत्रा꣡ रुज꣡न्न् अ꣡ङ्गिरोभिर् गृणानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । ने॒ता । वाज॑म् । आ । द॒र्षि॒ । भूरि॑म् । गो॒त्रा । रु॒जन् । अङ्गि॑रःऽभिः । गृ॒णा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apo* ← *apa*
 - \[adverb\]
@@ -136,20 +136,20 @@ genre M
 हे **पुरुहूत** बहुभिराहूतेन्द्र **यत्** यदा **अपः** प्रति वृष्टिलक्षणान्युदकानि लक्षीकृत्य **अद्रिं** मेघं **दर्दः** विदारितवानसि। **सरमा** देवशुनी **पूर्व्य** पुरा **ते** तुभ्यं पणिभिः अपहृतं गोधनम् **आविर्भुवत्** प्रकाशयामास । **अङ्गिरोभिः** ऋषिभिः **गृणानः** स्तूयमानः सन् **गोत्रा** गोत्राण्यभ्राणि **रुजन्** **नः** अस्मान **भूरि** प्रभूतं **वाजम्** अन्नं **नेता** प्रापयिता **सः** त्वम् **आ** **दर्षि** आदरं कृतवानसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invoked of many, when you had divided the cloud for (the escape of) the waters, **Saramā** appeared before you; and you, the bringer of abundant food, have shown us favour, dividing the clouds and glorified by the **Aṅgirasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you tore open the rock for the waters, o much-invoked one,  Saramā had appeared to you before:  
 “As our leader, tear out an abundant prize, breaking apart the cowpens,  being sung by the Aṅgirases.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was just mentioned, verse-initial apó causes some problem. This form matches the two occurrences of apó opening 6b and 7a and grammatically should be, with them, the acc. pl. of áp- ‘water(s)’. But the problem is that ‘waters’ do not figure in the Vala myth: it is cows/dawns that are freed from the rock. For this reason Oldenberg suggests reading *ápo = ápa + u, with ápa a preverb with dárdar, and this conjecture is followed by Geldner However, ápa is only marginally attested with √dṛ (only RV VI.17.5 and nowhere else in Skt., at least acdg. to MWms). I therefore accept the transmitted apó and assume 1) syntactically, that √dṛ takes a double obj.
 
@@ -177,23 +177,23 @@ As noted in the published introduction, these two vss. tease apart the Vala and 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Much-invoked! the water's rock thou cleftest, Sarama showed herself and went before thee.  
      Hymned by Angirases, bursting the cowstalls, much strength thou foundest for us as our leader.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du Vielgerufener den Fels aufsprengtest, da war dir zuvor die Sarama erschienen: "Als unser Führer sollst du reiche Beute herausschlagen, die Kuhhöhlen erbrechend, von den Angiras angerufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als du zerbrachst des Wassers Fels, gepries'ner, ging Sarama voran als deine Botin; Erschliess uns nun als Führer reiche Labung die Ställ' erbrechend mit den Angirasen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о многопризываемый, ты взорвал скалу,  
 Прежде всего перед тобой возникла Сарама:  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ वो अर्चे पोषिया꣡वतो नॄ꣡न्  
 वा꣡स्तोष् प꣡तिं · त्व꣡ष्टारं र꣡राणः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡नस्प꣡तीँर् ओ꣡षधी राय꣡ ए꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 धन्या॑ । स॒ऽजोषाः॑ । धि॒षणा॑ । नमः॑ऽभिः । वन॒स्पती॑न् । ओष॑धीः । रा॒यः । एषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -104,20 +104,20 @@ genre M
 अहं **पोष्यावतः** बहुपोष्यजनयुक्तान् **नॄन्** कर्मनेतॄन् **वः** युष्मान् **अभि** **अर्चे** अभिपूजयामि स्तौमीत्यर्थः । के पुनस्ते यूयम् । उच्यते । **वास्तोष्पतिं** **त्वष्टारं** **रराणः** स्तोत्रादिभिः क्रीडन् हविर्ददद्वा अहम् । **धन्या** धनकरी **सजोषाः** इतरदेवैः सह गच्छन्ती प्रीणयन्ती वा **धिषणा** । वाङ्नामैतत् । वाग्देवता ॥ एता द्वितीयार्थे प्रथमाः ॥ उक्तलक्षणां वाणीं **वनस्पतीन्** ओषधीः च **नमोभिः** सह अर्चे इति संबन्धः । किमर्थम् । **राय** **एषे** धनानि प्राप्तुम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify you, leaders (of rites), cherishers (of many), gratifying (with oblation, you) **Tvaṣṭā** the lord of foundations, and the goddess of speech, bestower of opulence, and share in the satisfaction (of the other divinities); also the lords of the forest, and the herbs, that I may obtain riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I chant for you to the men granting prosperity, to the Lord of the  Dwelling-Place, to Tvaṣṭar, as I give;  
 with reverences (I chant) to the trees, the plants, along with the rich Holy  Place, in the quest for wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes nṛ́̄n as gen. pl. rather than acc., but this is unnec. The stem nṛ́- is regularly used of gods, esp. the Maruts, so there is no reason that they cannot be addressees here (so Renou, Witzel Gotō).
 
@@ -126,23 +126,23 @@ The standard tr. take dhányā sajóṣā dhiṣáṇā as nom. sg. and parenthe
 -ā-stems is still quite common in the RV, and that is how I construe the phrase here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 You I extol, the nourishers of heroes bringing you gifts, Vastospati and Tvastar-  
      Rich Dhisana accords through our obeisance - andTrees and Plants, for the swift gain of riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich besinge opferspendend für euch die Gedeihenbringer der Menschen, den Vastospati und Tvastri - einverstanden ist die reichmachende Dhisana - unter Verbeugungen, die Bäume, die Pflanzen im Streben nach Reichtum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich preise euch, die segensreichen Männer, den Hauses Hort und Tvaschtar, Gaben opfernd, Mit Demuth beide reichen Weltenschalen, die Bäum' und Kräuter geh ich an um Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я воспеваю для вас мужей, дающих процветание,  
 Вастошпати, Тваштара, принося (жертву) –  

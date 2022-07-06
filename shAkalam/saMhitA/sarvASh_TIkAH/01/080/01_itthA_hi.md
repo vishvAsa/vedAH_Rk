@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इत्था꣡ हि꣡ सो꣡म इ꣡न् म꣡दे  
 ब्रह्मा꣡ चका꣡र व꣡र्धनम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M
 शवि॑ष्ठ । व॒ज्रि॒न् । ओज॑सा । पृ॒थि॒व्याः । निः । श॒शाः॒ । अहि॑म् । अर्च॑न् । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *itthā*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre M
 हे **शविष्ठ** अतिशयेन बलवन् **वज्रिन्** वज्रवन्निन्द्र **इत्था** **हि** इत्थमेव अनेन शास्त्रोक्तप्रकारेणैव **मदे** मदकरे हर्षकरे **सोमे** त्वया पीते सति **ब्रह्मा** ब्राह्मणः स्तोता **वर्धनं** तव वृद्धिकरं स्तोत्रं  **चकार** अनेन सूक्तेन कृतवान् । **इत्** इत्येतत् पादपूरणम् । अतस्त्वम् **ओजसा** बलेन **पृथिव्याः**  सकाशात् **अहिम्** आगत्य हन्तारं वृत्रं **निः** **शशाः** निःशेषेण अशाः । मा बाधस्वेति शासनं कृत्वा पृथिव्याः सकाशात् निरगमयः इत्यर्थः । किं कुर्वन् । **स्वराज्यं** स्वस्य राज्यं राजत्वम् **अनु** अनुलक्ष्य **अर्चन्** पूजयन् स्वस्य स्वामित्वं प्रकटयन्नित्यर्थः॥ शशाः ।  ‘ शासु अनुशिष्टौ । लङि लुकि प्राप्ते ' बहुलं छन्दसि ' इति शपः श्लुः । स्वराज्यम् । राज्ञो भावः कर्म वा राज्यम्।  ‘ पत्यन्तपुरोहितादिभ्यो यक्' इति यक्। तत्र हि ' राजासे' (पा. सू. ५. १. १२८ ग. ) इति पठ्यते । स्वस्य राज्यं स्वराज्यम् ।' अकर्मधारये राज्यम् ' (पा. सू. ६. २. १३०) इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,35 +142,35 @@ genre M
 **Brahmā** = **brāhmaṇa**; this **sūka** is arcannanu svarājyam: arcannanu is interpreted as prakaṭayan: svsya svāmitvam prakaṭayan, making manifest his own mastership or supremacy
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because right at the time of the soma exhilaration the formulator created  a strengthening (formulation) in the current style,  
 o strongest mace-bearer, with your might you ordered the serpent forth  from the earth.  
 – They cheer on your sovereign power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg takes śaśā(ḥ) to √śā ‘sharpen’ rather than √śās ‘order’ (as does Renou, judging from his portmanteau and barely comprehensible tr. “as-chassé-comme-enaiguisant”), but there seems no advantage in this. Neither root is found elsewhere with níḥ, but a literal additive tr. of níḥ √śās works well here. And √śā does not have a reduplicated form of this shape, whereas √śās has a pf. śaśāsa (etc.), to which this can be a (plupf.) injunctive. So Kümmel (521), as well as Grassmann, etc. The níḥ found in vss. 2 and 4 (also 10), also of the expulsion of Vṛtra, may account for the use of this preverb here: it seems to be a signature word of this hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THUS in the Soma, in wild joy the Brahman hath exalted thee:  
      Thou, mightiest thunder-armed, hast driven by force the Dragon from the earth, lauding thine own imperial sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn also hat bei Soma in der Begeisterung der Hohepriester ein Erbauungslied gedichtet. Du mächtigster Keulenträger hast mit Kraft den Drachen von der Erde verwiesen. - Sie sollen in deine Selbstherrlichkeit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Somarausch allein ja schafft der Priester stets dir Kräftigung, Drum treibe, stärkster, blitzender den Drachen aus der Welt mit Kraft, erstrahl in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот так, в полном опьянении сомой,  
 Брахман создал (песнь-) подкрепление.  

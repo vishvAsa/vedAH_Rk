@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ गव्यता꣡ म꣡नसा सेदुर् अर्कइः꣡  
 कृण्वाना꣡सो अमृतत्वा꣡य गातु꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡न मा꣡साँ अ꣡सिषासन्न् ऋते꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒दम् । चि॒त् । नु । सद॑नम् । भूरि॑ । ए॒षा॒म् । येन॑ । मासा॑न् । असि॑सासन् । ऋ॒तेन॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -127,20 +127,20 @@ genre M
 **गव्यता** गा इच्छता **मनसा** युक्ताः **अर्कैः** अर्चनीयैः स्तोत्रैः **अमृतत्वाय** देवत्वप्राप्त्यर्थं **गातुम्** । गच्छन्त्यनेनेति गातुर्मार्गः । अमृतत्वप्राप्त्युपायभूतं मार्गं **कृण्वानासः** कुर्वाणास्तेऽङ्गिरसः **नि** **सेदुः** सत्राख्ये कर्मणि आसीदन् । **एषाम्** अङ्गिरसाम् **इदं** **चित्** **सदनम्** इदमेव सत्राख्ये कर्मणि आसदनं **भूरि** **नु** प्रभूतम् । अमृतत्वप्राप्त्यर्थं महानुपायः खलु । कुत इत्यत आह । **ऋतेन** सत्यभूतेन **येन** सत्रकर्मणा तेऽङ्गिरसः **मासान्** अभिप्लवपृष्ठ्यषडहै। कल्पितान् मासान् **असिसासन्** संभक्तुमैच्छन् ॥ गव्यता । गोशब्दात् क्यचि रूपम् । ‘वान्तो यि प्रत्यये' इति वान्तादेशः। एकादेशस्वरः । सेदुः । सदेर्लिटि ‘अत एकहल्मध्येऽनादेशादेर्लिटि' इत्येत्वाभ्यासलोपौ । निघातः । कृण्वानासः । ‘कृवि हिंसाकरणयोः' इत्यस्य ताच्छीलिकश्चानश् ।' धिन्विकृण्व्योरच ' इत्युप्रत्ययः । चित्स्वरः । गातुम् । गाङ् गतौ'। 'कमिमनिजनिगाभापायाहिभ्यः' इति करणे तुप्रत्ययः। प्रत्ययस्वरः । असिषासन् । ‘षण संभक्तौ' इत्यस्य सनि “ जनसनखनां सञ्झलोः' इत्यात्वम् । अभ्यासस्य ‘सन्यतः' इतीत्वम् । सनोतेरनः' इति संहितायां षत्वम् । तदन्ताल्लङि रूपम् । यद्वृत्त योगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **aṅgirasas**, with minds intent on their cattle, (sat down to worshipIndra) with hymns, following the road to immortality; great was their person verance by which they sought for months to accomplish (their ends).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With cow-seeking mind, they sat down (to a ritual “Session”) with their  chants, making for themselves a way toward immortality.  
 Just this was their long Session, by which, for months, they sought to  win (the cows) through truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner’s suggestion that this vs. concerns the Aṅgirases’ Sattra, a months-long ritual, seems completely convincing. Note the verb sedur ‘they sat’ in pāda a and the nominal sádanam ‘sitting’ in c. I am less convinced by his interpr. of c (fld. by Renou, Witzel Gotō), that this Sattra is frequently (bhū́ri) repeated now, though I admit that both the hic-et-nunc prn. idám and the particle nú might support his view. I prefer Lüders’s interpr.
 
@@ -154,23 +154,23 @@ would be an appositive to sádanam “the Session, (that is,) the ṛtá by whic
 They also take māsā́n as the obj. of ásiṣāsan (“they sought to win the months”), but this acc. pl. can easily be an acc. of extent of time (again, as so often), and the true object of their desire to win can be supplied as the cows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They sate them down with spirit fain for booty, making with hymns a way to life eternal.  
      And this is still their place of frequent session, whereby they sought to gain the months through Order.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Herz voll verlangen nach den Rindern setzten sie sich unter Lobpreisungen nieder, indem sie sich den Weg zur Unsterblichkeit bereiteten. Diese ihre Opfersitzung ist auch jetzt noch häufig, der rechte Brauch, durch den sie die Monate zu gewinnen suchten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie [die Angirasen] setzten sich nieder mit brünstigem Geiste, durch Lieder sich bahnend den Weg zur Unsterblichkeit; das ist ja nun ihr grosser Wohnsitz, durch den sie nach der Ord- nung die Monate gewannen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С душой, жаждущей захватить коров, они уселись под песнопения,  
 Создавая себе путь к бессмертию.  

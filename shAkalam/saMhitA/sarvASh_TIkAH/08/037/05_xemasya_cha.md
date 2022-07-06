@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्षे꣡मस्य च प्रयु꣡जश् च त्व꣡म् ईशिषे शचीपत  
 इ꣡न्द्र वि꣡श्वाभिर् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "महापङ्क्तिः"
 पि꣡बा सो꣡मस्य वज्रिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; line affected by realignment;; repeated line
 माध्य॑न्दिनस्य । सव॑नस्य । वृ॒त्र॒ऽह॒न् । अ॒ने॒द्य॒ । पिब॑ । सोम॑स्य । व॒ज्रि॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṣemasya* ← *kṣema*
 - \[noun\], genitive, singular, neuter
@@ -112,14 +112,14 @@ genre M;; line affected by realignment;; repeated line
 अपि च हे **शचीपते** **इन्द्र** सर्वस्य जगतः **क्षेमस्य** **प्रयुजश्च** प्रयोगस्य च । योगक्षेमयोरित्यर्थः। **ईशिषे** ईश्वरो भवसि । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, lord of rites, are sovereign over our prosperity and gains, with all your protections; slayer of **Vṛtra**,irreproachable wielder of the thunderbolt, drink of the **Soma** at the mid-day solemnity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Over both peace and hitching up (for war) you are master—  
 – you lord of power, Indra, with all help—at the Midday Pressing,  
@@ -127,22 +127,22 @@ irreproachable Vr̥tra-smasher, drink of the soma, possessor of
 the mace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art the Lord supreme o'er rest and energy, O Indra, Lord of Strength, with all thy saving help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du herrschest über Rast und Unternehmung, Herr der Kraft, mit allen Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du gebietest über Frieden über Krieg, o Herr der Kraft, mit allen Hülfen, Indra du; O Vritratödter von der Mittagsspende hier, vom Soma trinke, tadelloser Schleuderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты распоряжаешься миром и войной,  
 О повелитель силы,  

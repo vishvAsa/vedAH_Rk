@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ने꣡न्द्रो हवि꣡षा कृत्वी꣡  
 अ꣡भवद् द्युम्नी꣡ उत्तमः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 असपत्नः꣡ कि꣡लाभुवम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 इ॒दम् । तत् । अ॒क्रि॒ । दे॒वाः॒ । अ॒स॒प॒त्नः । किल॑ । अ॒भु॒व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yenendro* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
@@ -123,36 +123,36 @@ popular;; epic anuṣṭubh (380)
 येन हविषास्माभिर्दत्तेन माद्यन्निन्द्रः कृत्वी वृत्रवधादेः कर्मणः कर्ता भवत् द्युम्नी। द्युम्नं द्योततेर्यशो वान्नं वा। तद्वान् अत एवोत्तम उत्कृष्टतमश्चाभवत् तदिदं हविर्हे देवाः अक्रि। अकारि। यद्वा। अहमकार्षम्। अत एवाहमसपत्नः किलाभुवम्। शत्रुरहितोऽप्यभवं खलु॥४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That oblation whereby **Indra** became heroic, renowned and eminent, I have offered, O gods, (to you),may I become freed from my rivals.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The oblation through which Indra, when he performed it, became the  highest brilliant one,  
 that (oblation) I have now performed, o gods: I have therefore become  without rivals.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Oblation, that which Indra. gave and thus grew glorious and most high,-  
      This have I offered, Gods! and hence now, verily, am rivalless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit welcher Opferspende Indra opferte und der Glänzende, Höchste wurde, diese habe ich, ihr Götter, jetzt vollzogen. Ich ward wirklich ohne Nebenbuhlerinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Opfer, Götter, ist gebracht, durch welches, als es dargebracht, Sehr gross und kräftig Indra ward; von Nebenbuhlern bin ich frei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) жертва, совершив которую, Индра  
 Стал сверкающим, самым высшим,  

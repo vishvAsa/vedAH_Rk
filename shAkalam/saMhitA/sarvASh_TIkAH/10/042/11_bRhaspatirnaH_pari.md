@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृ꣡हस्प꣡तिर् नः प꣡रि पातु पश्चा꣡द्  
 उतो꣡त्तरस्माद् अ꣡धराद् अघायोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡खा स꣡खिभ्यो व꣡रिवः कृणोतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इन्द्रः॑ । पु॒रस्ता॑त् । उ॒त । म॒ध्य॒तः । नः॒ । सखा॑ । सखि॑ऽभ्यः । वरि॑वः । कृ॒णो॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
@@ -124,36 +124,36 @@ popular
 **पश्चात्** पश्चिमतो योऽघायुरागच्छति तस्मात् **अघायोः** पापकाच्छत्रोः **नः** अस्मान् **बृहस्पतिः** **परि** **पातु** रक्षतु । **उत** अपि च **उत्तरस्मात्** उत्तरतः **अधरात्** अधस्ताच्च योऽघायुरागच्छति तस्मादघायोः नोऽस्मान् परि पातु । **उत** अपि च **इन्द्रः** **पुरस्तात्** पूर्वतः **मध्यतः** व योऽघायुरागच्छति तस्मादघायोः **नः** अस्मान् परि पातु । किंच **सखा** सखिभूतेन्द्रः **सखिभ्यः** प्रियेभ्योऽस्मभ्यं **वरिवः** धनं **कृणोतु** करोतु ॥ ॥ २३ ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Bṛhaspati** defend us from a malignant (foe) coming from behind, from above, or from below; mayIndra defend us from foes in front and in the middle; may he, our friend, bestow wealth upon (us) his friends.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra, lord of the formulation, protect us all around, from behind  and from above and from below, from him who wishes ill—  
 from in front and from the middle. Let him, as comrade, create wide  space for his comrades.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brhaspati protect us from the rearward, and from above, and from below, from sinners!  
      May Indra from the front, and from the centre, as Friend to friends, vouchsafe us room and freedom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati soll uns von hinten und von oben, von unten vor dem Übelwollenden schützen, Indra soll uns von vorn und in der Mitte als Freund den Freunden einen Ausweg schaffen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, Von Osten Indra und aus unsrer Mitte; der Freund verschaffe weiten Raum uns Freunden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Брихаспати пусть защитит нас сзади,  
 А также сверху и снизу от злоумышленника,  

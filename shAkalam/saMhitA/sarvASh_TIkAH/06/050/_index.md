@@ -8,7 +8,7 @@ title = "+050"
 पञ्चमेऽनुवाके द्वादश सूक्तानि । तत्र ‘हुवे वः' इति पञ्चदशर्चं प्रथमं सूक्तमृजिश्वन आर्षं बहुदेवताकं त्रैष्टुभम् । ‘हुवे वः' इत्यनुक्रान्तम् । गतः सूक्तविनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 50 (491)  
 All Gods  
@@ -19,7 +19,7 @@ imperatives and requests in the optative, in contrast to the generally descripti
 Another noteworthy feature is the relative prominence of female divinities.  Again, the first verse sets the scene by placing Aditi first. Besides Earth, in the  pair Heaven and Earth (vs. 3), we find Rodasī (vs. 5), the motherly Waters (vs. 7),  Sarasvatī (vs. 12), the Wives of the Gods, associated with Tvaṣṭar (vs. 13), and  Earth again (vss. 13–14). The divine ladies end the hymn (vs. 15).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods
 </details>

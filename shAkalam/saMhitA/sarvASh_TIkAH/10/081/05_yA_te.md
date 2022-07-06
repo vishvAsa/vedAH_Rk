@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ ते धा꣡मानि परमा꣡णि या꣡वमा꣡  
 या꣡ मध्यमा꣡ विश्वकर्मन्न् उते꣡मा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वयं꣡ यजस्व तनु꣡वं वृधानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 शिक्ष॑ । सखि॑ऽभ्यः । ह॒विषि॑ । स्व॒धा॒ऽवः॒ । स्व॒यम् । य॒ज॒स्व॒ । त॒न्व॑म् । वृ॒धा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
@@ -121,7 +121,7 @@ popular
 अनया भौवनो विश्वकर्मा जगत्कारणं विश्वकर्मदेवं स्तौति । हे **विश्वकर्मन्** **या** यानि **ते** तव **परमाणि** **धामानि** शरीराणि सन्ति **या** यानि च **मध्यमा** मध्यमानि शरीराणि सन्ति **उत** अपि च **या** यानि **अवमा** अवमानि शरीराणि सन्ति उतापि च तानीमानि सर्वाणि शरीराणि **सखिभ्यः** अस्मभ्यं यष्टुं **हविषि** मयि हविर्भूते सति **शिक्ष** देहि । हे **स्वधावः** हविर्लक्षणान्नवन् **स्वयम्** एव त्वं **तन्वं** स्वकीयं पूर्वोक्तं त्रिविधं शरीरं **वृधानः** हविषा वर्धमानः सन् । अनेन धामत्रैविध्योपन्यासेनो त्तमभूतानि देवादिशरीराणि मध्यमभूतानि मनुष्यादिशरीराणि निकृष्टभूतानि कृमिकीटादिशरीराणि च परिगृहीतानि । किं बहुना सर्वं जगदुपात्तं भवति । उक्तव्यतिरेकेण निरवयवस्य परमेश्वरस्य विग्रहाभावात् तदैक्षत बहुः स्यां प्रजायेय ' (छा. उ. ६. २. ३) इत्यादिश्रुतिभ्यः परमेश्वरस्यैव देवादिभेदेन बहुभावावगमात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ popular
 Your beṣṭ..forms: The best forms are the bodies of the gods, etc.; the intermediate forms are thebodies of men, etc.; the inferior forms are the bodies of worms, etc. Viśvakarman, the creator is mixed up withViśvakarman, as **Tvaṣṭā** or **Agni**. It means that man is incompetent to worship the creator, that is, in his forms,and it must be done by himself
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What are your highest domains, what your lowest, and these that are  your midmost, Viśvakarman—  
 do your best for them for the sake of your companions at the oblation,  o you of independent will. Increasing your own person, by yourself  
 sacrifice for yourself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nine highest, lowest, sacrificial natures, and these thy mid-most here, O Visvakarman,  
      Teach thou thy friends at sacrifice, O Blessed, and come thyself, exalted, to our worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was deine höchsten Formen, deine niedrigsten und diese mittleren, o Visvakarman, sind, die versuche den Genossen bei dem Opfer begreiflich zu machen, du Eigenartiger; bring dir selbst das Opfer, deinen Leib stärkend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo deine höchsten, wo die tiefsten Stätten, wo deine mittelsten, o Allvollbringer, Das zeig beim Opfer, göttlicher, den Freunden, du starker, bring' den eignen Leib zum Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) твои состояния, которые высшие, которые низшие,  
 А также те, которые средние, о Вишвакарман,  

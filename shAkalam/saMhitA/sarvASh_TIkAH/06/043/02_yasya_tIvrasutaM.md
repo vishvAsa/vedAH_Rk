@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य तीव्रसु꣡तम् म꣡दम्  
 म꣡ध्यम् अ꣡न्तं च र꣡क्षसे  
 अयं꣡ स꣡ सो꣡म इन्द्र ते सुतः꣡ पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; 12 = 8+4;; repeated line
 अ॒यम् । सः । सोमः॑ । इ॒न्द्र॒ । ते॒ । सु॒तः । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -109,19 +109,19 @@ genre M;; 12 = 8+4;; repeated line
 हे **इन्द्र** त्वं **यस्य** सोमस्यावयवभूतं **तीव्रसुतम्** । तीक्ष्णं सुतमभिषवो यस्य स तीव्रसुतः प्रातःसवनिकः । तं **मदं** मदकरं सोमरसं **मध्यं** मध्यंदिनसवनगतम् **अन्तं** तृतीयसवनगतं **च** सोमरसं **रक्षसे** रक्षसि **सः** **अयं** **सोमः** त्वदर्थमभिषुतस्तं **पिब** इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Soma**, the exhilarating draught of which, when fresh effused (at dawn), or at noon, or at the last (or evening worship), you cherish, is poured out, **Indra**, for you; drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose sharp-pressed exhilaration, whose middle and end, you guard— here is that soma, Indra, pressed for you. Drink!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner points out, this must be a ref. to the three soma-pressings: the “middle and end” are respectively the Midday Pressing and the Third Pressing; the “sharp-pressed” refers to the freshly pressed soma of the Morning Pressing, which must be especially pungent.
 
@@ -142,23 +142,23 @@ are structured by rel. clauses in ab with soma as the referent of the rel. prn.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose gladdening draught, shed from the points, thou guardest in the midst and end,  
      This Soma is pressed out for thee, O Indra drink!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des scharfgepreßten Rauschtrank, dessen Mitte und Ende du dir wahrest, dieser Soma ist für dich, Indra, gepreßt. Trink!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, dessen scharfen Saft du hegst, den letzten und den mittleren, Der Soma ist gepresst dir, Indra, trinke ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) резковыжатый пьянящий напиток,  
 Чью середину и конец ты охраняешь –  

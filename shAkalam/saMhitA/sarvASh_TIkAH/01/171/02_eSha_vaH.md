@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ व स्तो꣡मो मरुतो न꣡मस्वान्  
 हृदा꣡ तष्टो꣡ म꣡नसा धायि देवाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूयं꣡ हि꣡ ष्ठा꣡ न꣡मस इ꣡द् वृधा꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 उप॑ । ई॒म् । आ । या॒त॒ । मन॑सा । जु॒षा॒णाः । यू॒यम् । हि । स्थ । नम॑सः । इत् । वृ॒धासः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -135,36 +135,36 @@ genre M
 हे **मरुतः** **एष** **वः** स्तोमः इदानींक्रियमाणप्रकारो वो युष्माकम् । युष्मदर्थं इत्यर्थः । कीदृशोऽयम् । **नमस्वान्** । नम इत्यन्ननाम । हविर्लक्षणान्नवान् । न केवलं स्तुतिमात्रं भक्षणाय हविरपि युष्माकमित्यर्थः । किंच 'हृदा **तष्टः** युष्मन्निवेदनबुद्ध्या संपादितः । तादृशः स्तोमो हे **देवाः** देवनशीलाः **मनसा** अस्मदनुग्रहवता चित्तेन **धायि** धार्यताम् । तदर्थं **मनसा** आदरया बुद्ध्या **जुषाणाः** **ईम्** एनां स्तुतिं तद्धविश्च सेवमानाः **उप** **आ** **यात** उपागच्छतैव । मा विलम्बं कुरुत । **यूयं** **नमसः** अन्नस्य हवीरूपस्य **वृधासः** **स्थ** **हि** वर्धयितारो भवथ खलु । अतो गन्तव्यमेव । **इत्** पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This praise, accompanied by offerings, **Maruts**, is for you, offered from the heart; accept it, divinities, with favour, and come with willing minds (to receive) these (laudations), for you are the augmenters of sacrificial food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fashioned by my heart and mind, this praise song with my reverence is  set in place for you, o Maruts, o gods.  
 Being pleased in mind, travel here to it, for you are those growing strong  by just (such) reverence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Maruts, to you this laud with prayer and worship, formed in the mind and heart, ye Gods, is offered.  
      Come ye to us, rejoicing in your spirit, for ye are they who make our prayer effective.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses ehrfürchtige Loblied, das mit Herz und Verstand gedichtet ist, ist für euch gemacht, ihr Götter Marut. Kommet her, mit Verstand es genießend, denn ihr seid die Erhöher der Ehrfurcht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Lob ist willig euch gebracht, o Maruts, das andachtsvoll im Herzen wir gezimmert; Erfreuten Sinnes kommet her, ihr Götter, denn ihr ja seid die Segner des Gebetes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта почтительная хвала, о Маруты,  
 Выточенная сердцем (и) мыслью, сложена для вас, о боги.  

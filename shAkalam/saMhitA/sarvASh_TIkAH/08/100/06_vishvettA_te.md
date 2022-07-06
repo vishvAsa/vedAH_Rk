@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे꣡त् ता꣡ ते स꣡वनेषु प्रवा꣡चिया  
 या꣡ चक꣡र्थ मघवन्न् इन्द्र सुन्वते꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अपा꣡वृणोः शरभा꣡य ऋ꣡षिबन्धवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पारा॑वतम् । यत् । पु॒रु॒ऽस॒म्भृ॒तम् । वसु॑ । अ॒प॒ऽअवृ॑णोः । श॒र॒भाय॑ । ऋषि॑ऽबन्धवे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvet* ← *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
@@ -132,7 +132,7 @@ popular
 स्वसमीपमागतमिन्द्रं दृष्ट्वा संतुष्ट ऋषिरिन्द्रस्य विविधानि कर्माणि दानं च ' विश्वेत्ता ते इत्यनेन द्वृचेन स्तौति । हे **मघवन्निन्द्र** त्वं **सवनेषु** यज्ञेषु **सुन्वते** सोमाभिषवं कुर्वते यजमानाय **या** यानि कर्माणि **चकर्थ** अकरोः **ते** तव **ता** तानि कर्माणि **प्रवाच्या** प्रवक्तव्यानि **विश्वेत्** अनन्तान्येव । किंच त्वं **पारावतं** परावन्नामकस्य कस्यचिच्छत्रोः स्वभूतं **यत्** धनमस्ति तत् **ऋषिबन्धवे'** **शरभाय** शरभनाम्न ऋषये **अपावृणोः** अपवृतवानसि । **पुरुसंभृतं** यथा बहुसंभृतं भवति ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,35 +145,35 @@ Pārāvat: a certain enemy so-called;
 **Pārāvata** = brought from afar; collected by many:**puru** sambhṛtam = that wealth of Pārāvat you have opened to Śarabha, so that it now is collected by many.Śarabha was a ṛṣi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Singer:] “All these (deeds) of yours are to be proclaimed at the  pressings, those which you did, bounteous Indra, for the presser— when you uncovered the goods, stemming from afar, brought together  by many, for Śarabha of seers’ lineage.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Here the singer of vs. 3 seems to be convinced by Indra’s assertions in vss. 4-5 and promises a proper recital of Indra’s deeds, in contrast to the conditional praise of vs. 3.
 
 I take pā́rāvatam in c as a vṛddhi adjective derived from parāvát- ‘distance’, rather than as a PN as Geldner does (flg. Sāyaṇa, followed tentatively by Mayrhofer, Personennamen s.v.). As an adj. it works nicely with purusambhṛtám ‘brought together by many’, and there is no other mention of human opponents in this hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All these thy deeds must be declared at Soma-feasts, wrought, Indra, Bounteous Lord, for him who sheds the juice,  
      When thou didst open wealth heaped up by many, brought from far away to Sarablia, the Rsi's kin.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 All das ist bei den Somaopfern von dir zu verkünden, was du gabenreicher Indra für den Somapressenden getan hast, da du das von vielen aufgehäufte Gut der Paravata´s für Sarabha aus dem Geschlechte der Rishi´s aufgeschlossen hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Alle deine Thaten sind bei den Somafesten zu preisen, die du, o mächtiger Indra, an dem Somapresser gethan hast, als du das ferne zusammengehäufte Gut dem mit dem Dichter verwandten Çarabha erschlössest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Достойны провозглашения на выжиманиях (сомы) все те твои (деяния),  
 Что совершил ты, о щедрый Индра, для выжимающего (сому),  

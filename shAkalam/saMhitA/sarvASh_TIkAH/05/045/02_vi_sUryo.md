@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ सू꣡रियो अम꣡तिं न꣡ श्रि꣡यं साद्  
 आ꣡ ऊर्वा꣡द् ग꣡वाम् माता꣡ जानती꣡ गात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्थू꣡णा इव सु꣡मिता दृंहत द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 धन्व॑ऽअर्णसः । न॒द्यः॑ । खादः॑ऽअर्णाः । स्थूणा॑ऽइव । सुऽमि॑ता । दृं॒ह॒त॒ । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -135,21 +135,21 @@ genre M
 **सूर्यः** देवः **श्रियं** दीप्तिं **वि** **सात्** विभजते प्रकाशयतीत्यर्थः । **अमतिं** **न** । रूपनामैतत् । रूपमिव द्रव्यम् । यथा द्रव्याणि घटपटादीनि नीलपीतादिरूपं लभन्ते तद्वत् । तथा **गवां** रश्मीनां **माता** उषाः **जानती** सूर्यं उदेष्यति मया च व्युच्छनं कर्तव्यमिति जानती **ऊर्वात्** महतोऽन्तरिक्षात् **आ** **गात्** आगच्छति । तथा **नद्यः** च **धन्वर्णसः** ॥ धन्वतिर्गतिकर्मा । धन्वन्ति गच्छन्त्यर्णांसि यासु तास्तथोक्ताः । दीर्घाभावश्छान्दसः ॥ **खादोअर्णाः** भक्षितकूलोदकाः । कूलंकषा इत्यर्थः । नद्यश्चैवंरूपा भवन्ति । किंच **द्यौः** च **सुमिता** सुष्ठु गृहे स्थापिता **स्थूणेव** गृहाधारस्तम्भ इव **दृंहत** दृढाभवत् । एतत्सर्वं सूर्यस्याज्ञयेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sun distributes his radiance as it was a substance; the parent of the rays of light, (the dawn), knowing his approach, comes from the spacious (firmament); the rivers with running waters flow, breaking down their banks; the heaven is stable like a well-constructed pillar.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Sun unlooses his beauty like an ensign; the mother of the cows  [=Dawn], recognizing (the way), comes here from the pen.  
 The rivers (of light) have floods (broad and high) like plains, have  floods that chew (their banks). Heaven becomes firm like a  
 well-fixed pillar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ámati- see comm. ad I.73.2.
 
@@ -160,23 +160,23 @@ Thieme rejects the variation in stem, taking both as containing -arṇas-, which
 What then do the cmpds mean? Again, a variety of interpr. have been suggested. I take dhánv-arṇas- as an equational bv., ‘whose floods are dhánu-’. A dhánu- appears to be a high flat plain or steppe; two of its five occurrences in the RV are characterized as bṛhatī́- ‘lofty’. In our context I think it refers to what we often call a “wall of water,” a mass of oncoming water far above flood stage, perhaps already flooding over the banks and across the adjacent land. As for khā́do-arṇāḥ, it should mean something like ‘whose floods are a biting/devouring’; in this case, I think Geldner (flg. Sāyaṇa.) is correct that the rivers are devouring their banks, eating away at the solid ground. The sturdy pillar of heaven in d provides a bulwark against this featureless undulating torrent of light.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Surya hath spread his light as splendour: hither came the Cows' Mother, conscious, from the stable,  
      To streams that flow with biting waves to deserts; and heaven is stablished like a firm-set pillar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Surya entfaltete seine Pracht wie ein Bildnis; die Mutter der Kühe kam des Weges kundig aus dem Verschluß. Ihre Fluten ergießen die Flüsse, deren Fluten die Ufer anfressen. Der Himmel wurde gefestigt wie eine wohlaufgerichtete Säule.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Glanz erschloss die Sonne ihre Schönheit; vom Stall her kam der Kühe Mutter kundig. Die Ströme wogten über Fels und Ufer; der Himmel stand gleich wohlgesetzter Säule.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сурья развернул (свою) красоту, как прекрасную картину.  
 Мать коров вышла из укрытия, зная (путь).  

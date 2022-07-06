@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ वि꣡चर्षणिर् हितः꣡  
 प꣡वमानः स꣡ चेतति  
 हिन्वान꣡ आ꣡पियम् बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हि॒न्वा॒नः । आप्य॑म् । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विचर्षणिः** विद्रष्टा **हितः** पात्रेषु निहितः **पवमानः** **अयं** सोमः **आप्यम्** अप्सु भवं **बृहत्** महदन्नं **हिन्वानः** प्रेरयन् **चेतति** सर्वैः ज्ञायते ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This all-seeing **Pavamāna** **Soma** deposited (in the vessels), sending forth abundant (food), the product of the waters, is known (by all).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here has the limitless one been established; purifying himself, he takes  note of  
 lofty friendship while being impelled.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Several items in this vs. present choices of interpr., none of which are strongly either favored or disfavored.
 
@@ -112,23 +112,23 @@ In this tṛca all three vss. have a form of med. páva-: pávamānaḥ 10b, 11b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most active and benevolent, this Pavamana, sent to us  
      For lofty friendship, meditates.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn dieser Ausgezeichnete zum Lauf getrieben ist, so tut er sich bei seiner Läuterung hervor, die hohe Freundschaft zur Eile treibend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entsandt ist dieser thätige, und es erscheint der flammende, Der hold den hohen Freunden ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

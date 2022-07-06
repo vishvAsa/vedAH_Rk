@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् इ꣡न् नु꣡ अस्य रिच्यते  
 अं꣡शो ध꣡नं न꣡ जिग्यु꣡षः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 द꣡क्षं दधाति सोमि꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । इन्द्रः॑ । हरि॑ऽवान् । न । द॒भ॒न्ति॒ । तम् । रिपः॑ । दक्ष॑म् । द॒धा॒ति॒ । सो॒मिनि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -121,36 +121,36 @@ genre M
 **अस्य** इन्द्रस्य **अंशः** यज्ञे सोमस्य भागः अतिरिच्यतेऽन्येभ्योऽपि देवेभ्यः । इन्द्रस्य त्रिष्वपि सवनेषु सोमपानमस्ति माध्यंदिनं हि सर्वमैन्द्रमिति । **जिग्युषः** जितवतः **धनं** **न** धनमिव । **उदिन्नु** इति त्रयः पूरणाः । अपि च **यः** **हरिवान्** **इन्द्रः** सोमिनि यजमाने **दक्षं** बलं **दधाति** संदधाति **तं** **रिपः** रिपवः **न** **दभन्ति** न हिंसन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily (**Indra**'s) share (of the **Soma**) exceeds (that of other deities) like the wealth of the victorious;enemies overcome not him, who is the lord of bay steeds, who gives strength to the offerer of the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His share now is outstanding like the spoils of a victor.  
 Indra of the fallow bays—cheats do not outwit him. He places skill in  the one who has soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His portion is exceeding great like a victorious soldier's spoil.  
      Him who is Indra, Lord of Bays, no foes subdue. He gives the Soma-pourer strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sein Anteil ist der größte wie der Gewinn des Siegers. Ihn, der der Falbenfahrer Indra ist, hintergehen die Schelme nicht. Den Somavollen verleiht er Tüchtigkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Antheil dessen raget hoch, gleichwie des Siegers Preis hervor, Wem Indra hold ist, den beschäd'gen Feinde nicht, dem Somabringer gibt er Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поистине, выделяется его доля,  
 Словно добыча победителя.  

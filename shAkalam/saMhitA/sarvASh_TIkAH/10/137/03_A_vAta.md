@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वात वाहि भेषजं꣡  
 वि꣡ वात वाहि य꣡द् र꣡पः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवा꣡नां दूत꣡ ई꣡यसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 त्वम् । हि । वि॒श्वऽभे॑षजः । दे॒वाना॑म् । दू॒तः । ईय॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -109,36 +109,36 @@ popular;; epic anuṣṭubh (380)
 हे **वात** **भेषजं** सुखं व्याध्युपशमनमौषधं वा **आ** **वाहि** आगमय । हे **वात** **यद्रपः** अस्मदीयं पापं तत् **वि** **वाहि** विगमय । अस्मत्तो विश्लेषय । **त्वं** **हि** खलु **देवानां** **दूतः** **विश्वभेषजः** । विश्वानि भेषजानि यस्मिन् । 'बहुव्रीहौ विश्वं संज्ञायाम् ' इति पूर्वपदान्तोदात्तत्वम् । ईदृशश्च सन् **ईयसे** सततं गच्छसि ॥  ‘ ईङ् गतौ ' । दैवादिकः । श्यनो नित्त्वात्  ञ्नित्यादिर्नित्यम् ' इत्याद्युदात्तत्वम् । ' हि च' इति निघातप्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Breathe, wind, medicinal balm; blow away, wind, all evil; for you are the universal **medicine**, you moveas the messenger of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Wind, blow healing here; o Wind, blow away what is malady,  
 for you, possessing all healing, speed as the messenger of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, O Wind, blow healing balm, blow all disease away, thou Wind;  
      For thou who hast all medicine comest as envoy of the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wind, wehe das Heilmittel her! Wind, wehe das Gebreste fort, denn du, der Allheiler, gehst als der Götter Bote!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wind, wehe Arzenei herbei, Wind, wehe das Gebrechen fort; Denn du hast alle Arzenei und eilst als Götterbote her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Навей, о ветер, целебное средство,  
 Развей, о ветер, (то,) что повреждение!  

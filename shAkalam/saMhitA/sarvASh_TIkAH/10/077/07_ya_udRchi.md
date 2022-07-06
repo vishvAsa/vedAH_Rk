@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उदृ꣡चि · यज्ञे꣡ अध्वरेष्ठा꣡  
 मरु꣡द्भियो न꣡ मा꣡नुषो द꣡दाशत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ देवा꣡नाम् अ꣡पि गोपीथे꣡ अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 रे॒वत् । सः । वयः॑ । द॒ध॒ते॒ । सु॒ऽवीर॑म् । सः । दे॒वाना॑म् । अपि॑ । गो॒ऽपी॒थे । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ genre M
 **अध्वरेष्ठाः** यागे सीदन् **मानुषः** **यः** यजमानः **यज्ञे** **उदृचि** सति । ऋक्शब्देन स्तोत्रमुपलक्ष्यते । यज्ञे समाप्तस्तुतिके सति संपूर्णे सति **मरुद्भ्यो** **न** मरुद्भ्य इवान्येषामध्वर्युभ्य ऋत्विगादिभ्यः **ददाशत्** दद्यात् । यद्वा यज्ञ उदृच्युपक्रान्त इत्यर्थः । तस्मिन् यज्ञे मरुद्भ्य इवान्यस्मै इन्द्राय ददाशत् ददाति । **सः** यजमानः **रेवत्** धनवत् **सुवीरं** शोभनपुत्राद्युपेतं **वयः** अन्नं **दधते** धारयति । व्यत्ययेनैकवचनम् । **स** **देवानाम्** इन्द्रादीनाम् **अपि** **गोपीथे** सोमपाने **अस्तु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre M
 Praise: urichi yajñe = when the sacrifice has the praise perfected, i.e., when thesacrifice is complete; or, when the sacrifice is begun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The descendant of Manu who, like (Agni) standing up at the ceremony,  will do ritual service to the Maruts at the sacrifice when the chant is  raised,  
 he will acquire rich vitality abounding in good heroes. Let him be in the  protection of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who, engaged in the rite's final duty brings, as a man, oblation to the Maruts,  
      Wins him life's wealthy fulness, blest with heroes: he shall be present, too, where Gods drink Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Mensch, wenn das Lied im Opfer ausklingt, bei der heiligen Handlung zugegen, den Sängern wie den Marut spendet, der empfängt reiche Kraft an guten Söhnen, der soll unter dem Schutze der Götter stehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer beim Opfer fort und fort mit der heiligen Handlung beschäftigt als Mensch den Maruts huldigt, der empfängt reiche Erquickung nebst tapferen Helden; der wird auch stets in der Götter Schutz stehen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Если) какой человек, участвующий в обряде,  
 Почтит (певцов), как если б (это было) для Марутов, когда отзвучит гимн при жертвоприношении,  

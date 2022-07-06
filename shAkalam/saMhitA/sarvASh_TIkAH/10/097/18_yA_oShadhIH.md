@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ ओ꣡षधीः सो꣡मराज्ञीर्  
 बह्वीः꣡ शत꣡विचक्षणाः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡रं का꣡माय शं꣡ हृदे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 तासा॑म् । त्वम् । अ॒सि॒ । उ॒त्ऽत॒मा । अर॑म् । कामा॑य । शम् । हृ॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -108,37 +108,37 @@ popular;; epic anuṣṭubh (292)
 **या** **ओषधीः** ओषधयः **सोमराज्ञीः** सोमो राजा स्वामी यासां तास्तथोक्ताः **बह्वीः** असंख्याताः **शतविचक्षणाः** बहुदर्शना हे सोमाख्ये ओषधे **तासाम्** ओषधीनां **त्वम्** **उत्तमा** **असि** । यस्मादेवं तस्मात् **अरम्** अलमत्यर्थं **कामाय** कान्ताय **हृदे** हृदयाय **शं** सुखकरी भवेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The which have the **Soma** for their king, and are numerous and all- seeking of them you (O Soma) arethe best; be very bountiful to the affectionate heart.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The many plants, having a hundred appearances, whose king  
 is Soma—  
 of those you are the highest—sufficient for our desire, weal for our heart.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of all the many Plants whose King is, Soma, Plants of hundred forms,  
      Thou art the Plant most excellent, prompt to the wish, sweet to the heart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die vielen Kräuter unter König Soma, von hundertfachem Aussehen, deren oberstes bist du, recht nach Wunsch, dem Herzen wohltuend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Kräuter in des Soma Reich, der vielen hundertfach an Art, All dieser bist das beste du, dem Wunsche recht, dem Herzen hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те многочисленные растения,  
 Кому сома – царь, с сотней обликов –  

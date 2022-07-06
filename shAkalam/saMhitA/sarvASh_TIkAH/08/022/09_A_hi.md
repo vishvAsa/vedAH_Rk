@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ हि꣡ रुह꣡तम् अश्विना  
 र꣡थे को꣡शे हिरण्य꣡ये वृषण्वसू  
 युञ्जा꣡थाम् पी꣡वरीर् इ꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यु॒ञ्जाथा॑म् । पीव॑रीः । इषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M
 **वृषण्वसू** वर्षणशीलधनौ हे **अश्विना** अश्विनौ **हिरण्यये** हिरण्मयरज्ज्वादियुक्ते **कोशे** आयुधादीनां कोशस्थाने रमणशीले **रथे** । हिरवधारणे । युवामेव **आ** **रुहतम्** आरोहणं कुरुतम् । ततः **पीवरीः** पावयितॄणि स्थूलानि वा **इषः** अन्नानि **युञ्जाथाम्** अस्मासु योजयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ genre M
 Fattening: pīvariḥ = purifying, or stout; pāvayitṛṇi sthūlāni vā (**annam**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ascend onto the chariot, into the golden (chariot-)cask, o Aśvins with  bullish goods,  
 and so hitch up refreshments rich in fat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, mount the chariot, mount the golden seat, ye who are Lords of plenteous wealth,  
      And bring to us abundant food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Steiget darum, o Asvin, auf den Wagen in den goldenen Wagenkasten, o Schätzereiche! Schirret die fetten Labungen an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besteiget doch, o Ritter, nun den Wagen und den goldnen Sitz, ihr kräftigen, Und schirrt die fetten Tränke an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэтому поднимайтесь, о Ашвины,  
 На колесницу в золотой кузов, о владеющие мощными благами!  

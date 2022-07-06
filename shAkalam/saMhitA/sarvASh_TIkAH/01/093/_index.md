@@ -8,7 +8,7 @@ title = "+093"
 ‘अग्नीषोमौ' इति द्वादशर्चं नवमं सूक्तं गोतमस्यार्षम्। आदितस्तिस्रोऽनुष्टुभः । नवम्याद्यास्तिस्रो गायत्र्यः । अष्टमी जगती त्रिष्टुब्वा । शिष्टाः पञ्च त्रिष्टुभः । अग्नीषोमौ देवता । तथा चानुक्रान्तम् -- ‘ अग्नीषोमौ द्वादशाग्नीषोमीयमाद्यास्तिस्रोऽनुष्टुभ उपान्त्यास्तिस्रो' गायत्र्योऽष्टमी जगती वा ' इति । अग्नीषोमीयस्य पशोर्वपापुरोडाशहविषामादितस्तिस्र ऋचः क्रमेणानुवाक्याः । सूत्रितं च- अग्नीषोमाविमं सु मे युवमेतानि दिवि रोचनानीति तृचौ ' ( आश्व. श्रौ. ३.८) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 93  
 Agni and Soma  
@@ -19,7 +19,7 @@ The essential unity of the hymn is also discernible in its fairly simple  themat
 One part of the hymn stands out, verses 4–6, which ascribe various mythological  deeds to the pair. Curiously, the deeds in verses 4 and 5 are really more appropri ate to other gods: the mysterious Br̥saya and the theft in verse 4 are found also  in a hymn to the river goddess Sarasvatī (VI.61.1, 3), while verse 5 sounds like  a generic praise of Indra. In verse 6, however, we do find mythological material  appropriate to the two gods addressed, namely the story of the stealing of those  gods. This is, tellingly, the only place in the hymn where the two gods are treated  separately: Mātariśvan is the figure who stole fire, while the falcon’s theft of soma  from heaven is also often alluded to.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni and Soma
 </details>

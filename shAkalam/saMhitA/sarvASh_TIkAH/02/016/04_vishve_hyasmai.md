@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे हि꣡ अस्मै यजता꣡य धृष्ण꣡वे  
 क्र꣡तुम् भ꣡रन्ति वृषभा꣡य स꣡श्चते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पि꣡बेन्द्र सो꣡मं वृषभे꣡ण भानु꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृषा॑ । य॒ज॒स्व॒ । ह॒विषा॑ । वि॒दुःऽत॑रः । पिब॑ । इ॒न्द्र॒ । सोम॑म् । वृ॒ष॒भेण॑ । भा॒नुना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -115,7 +115,7 @@ genre M
 हेयजमान विशेसर्वेजनाः यजतायसर्वैर्यजनीयायधृष्णवेशत्रूणान्धर्षणशीलाय वृषभायकामानांव-र्षित्रेस्श्चतेसज्जमानायस्तुत्यादिकर्मवत्सुस्तोतृषुएतादृशायास्माइन्द्रायक्रतुंयज्ञादिलक्षणङ्कर्मभरन्तिहि हरन्तिखलु प्र्णयन्तीत्यर्थः भरन्ति हियोगादनिघातः यस्मादेवन्तस्माद्वृषासोमरससेचनसमर्थः विदु- ष्टरः विद्वच्छब्दात्तरपिछान्दसंसम्प्रसारणं शासिवसिघसीनाञ्चेतिसंहितायांषत्वम् विद्वत्तरस्त्वंहविषा- तमिन्द्रंयजस्व इदानीमिन्द्रंसम्बोध्यआह—हेइन्द्र वृषभेणकामानांवर्षकेणभानुनादीप्यमानेनाग्निनास- हसोमम्पिब ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,29 +126,29 @@ genre M
 Together with the Sun: vṛṣabheṇa bhānunā: **bhānu** = **agni**, fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since all carry their resolve to him, the one worthy of the sacrifice, the  daring one, to the bull following (that resolve),  
 (so), as a bull who knows more, perform the sacrifice for yourself with  the oblation: drink the soma, Indra, by means of the bull [=Agni], by  means of his radiance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For all men bring their will to him the Resolute, to him the Holy One, to him the Strong they cleave.  
      Pay worship with oblation, strong and passing wise. Drink thou the Soma, Indra, through the mighty blaze.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn alle geben ihm den Rat, den er befolgt, dem opferwürdigen, kühnen Bullen: Als Bulle opfere dir selbst als der Kundigere die Opferspende ! Trink, Indra, den Soma durch den bullengleichen Glanz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn alle bringen ihm, dem kühnen, heiligen, den Krafttrunk dar, dem Stiere, welcher Hülfe schafft, Du kundigster, verehr' als Stier mit Opferguss, o Indra, trink den Sorna in dem Stier, dem Licht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь все несут (свой) совет этому  
 Достойному жертв, дерзкому быку, который (ему) следует.  

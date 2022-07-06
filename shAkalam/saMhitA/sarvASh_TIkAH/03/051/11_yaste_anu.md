@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते अ꣡नु स्वधा꣡म् अ꣡सत्  
 सुते꣡ नि꣡ यछ तनु꣡वम्  
 स꣡ त्वा ममत्तु सोमिय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 सः । त्वा॒ । म॒म॒त्तु॒ । सो॒म्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -95,35 +95,35 @@ genre M
 हे इन्द्र 'ते त्वदर्थं **यः** सोमः **स्वधाम्** अन्नम् **अनु** अनुसृत्य ग्रावभिरभिषुतः **असत्** **सुते** तस्मिन् सोमे **तन्वं** स्वकीयं शरीरं **नि** **यच्छ** प्रेरय । **सः** सोमः **सोम्यं** सोमार्हं **त्वा** त्वां **ममत्तु** मादयतु ॥ असत् । अस्तेर्लेट्यडागमे रूपम् । यद्वृत्तयोगादनिघातः। आगमस्यानुदात्तत्वे धातुस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invigorate your body with the **Soma** that has been poured out as food for you; may it exhilarate you, delighting in the Soma draught.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Which(ever soma drink) will suit your nature, halt yourself at that pressing. Let it exhilarate you, who deserve the soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Incline thy body to this juice which suits thy Godlike nature well:  
      May it cheer thee who lovest it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Halte dich bei dem Soma auf, der deiner Natur entsprechen möge! Er soll dich, den Somafreund, berauschen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu ihm, der recht nach Wunsch dir sei, zum Safte lenke deinen Leib; Dich Somafreund berausche er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Остановись у выжатого (сомы),  
 Который будет по твоему вкусу!  

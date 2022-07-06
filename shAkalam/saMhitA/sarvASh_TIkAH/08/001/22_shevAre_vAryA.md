@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शे꣡वारे वा꣡रिया पुरु꣡  
 देवो꣡ म꣡र्ताय दाशु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 विश्व꣡गूर्तो अरिष्टुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । सु॒न्व॒ते । च॒ । स्तु॒व॒ते । च॒ । रा॒स॒ते॒ । वि॒श्वऽगू॑र्तः । अ॒रि॒ऽस्तु॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śevāre* ← *śevāra*
 - \[noun\], locative, singular, masculine
@@ -102,7 +102,7 @@ genre M
 **शेवारे** । शेवं सुखम् । तस्य गमके यज्ञे **दाशुषे** चरुपुरोडाशादीनि दत्तवते यजमानाय **पुरु** पुरूणि बहूनि वार्याणि वरणीयानि धनानि **देवः** दानादिगुणयुक्त इन्द्रः **रासते** ददाति । **सः** एव **सुन्वते** **च** सोमाभिषवं कुर्वते च **स्तुवते** **च** स्तोत्रं कुर्वते च धनानि रासते । कीदृशः सः । **विश्वगूर्तः** विश्वेषु सर्वेषु कार्येषुद्यतः स्वतः प्रवृत्तः **अरिष्टुतः** अरिभिः प्रेरयितृभिः प्रशस्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,36 +113,36 @@ genre M
 Glorifiedby his foes: ari = prerayitrī, one who utters a hymn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In his treasury are many desirable things. The god (will grant them) to  the pious mortal;  
 he will grant to him who presses and to him who praises—(the god)  who is welcomed by all, praised by the stranger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 śévāra- ‘treasury’ is a hapax, derived from haplologized *śéva-vāra- ‘having dear valuables’, a derivation found already in Grassmann (though with vara- as suggested 2nd member; for reff. see KEWA s.v. śévaḥ). Note its juxtaposition with vā́ryā ‘desirable things’ here.
 
 I take pāda a as a nominal sentence, and supply rāsate ‘will grant’ in b, from c, given their parallel datives. Geldner takes ab as a single sentence and supplies “verwahrt” (keeps), again possible but not generated from context.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where bliss is not, may he, All-praised, God whom the pious glorify,  
      Bestow great wealth upon the mortal worshipper who sheds the juice and praises him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In seinem Schatzhaus verwahrt der Gott viele Kostbarkeiten für den opferspendenden Sterblichen. Er möge dem Somapressenden wie dem Sänger spenden, der von aller Welt Gelobte, von dem hohen Herrn Gepriesene.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für sterbliche Verehrer hat der Gott viel Gut in seinen Schatz; Dem Sänger und dem Somapresser schenke er, der frommgepries'ne, allverehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бог для смертного, почитающего его,  
 (Держит) в кладовой много избранных даров.  

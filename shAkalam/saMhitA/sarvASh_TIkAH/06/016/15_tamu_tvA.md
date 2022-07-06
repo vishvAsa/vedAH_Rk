@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ त्वा पाथियो꣡ वृ꣡षा  
 स꣡म् ईधे दस्युह꣡न्तमम्  
 धनंजयं꣡ र꣡णे-रणे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ध॒न॒म्ऽज॒यम् । रणे॑ऽरणे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -87,20 +87,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पाथ्यो** **वृषा** नाम कश्चिदृषिः **तमु** तमेव **त्वा** त्वां हे अग्ने **समीधे** समैन्ध समदीपयत् । कीदृशम् । **दस्युहन्तमम्** अतिशयेन दस्यूनामुपक्षपयितॄणां शत्रूणां हन्तारं **रणेरणे** युद्धे युद्धे **धनंजयं** धनानां जेतारम् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The ṛṣi) **Pāthya**, the showerer, kindled you the destroyer of the **Dasyu**, the winner of spoil in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You did Vr̥ṣan Pāthya kindle as best Dasyu-smasher,  
 winning the stakes in every battle.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -112,23 +112,23 @@ This tṛca is recited in śrauta ritual during the churning of the fire; see Kr
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The hero Pathya kindled thee the Dasyus'. most destructive foe,  
      Winner of spoil in every fight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich hat auch Vrisan Pathya angezündet, den größten Dasyutöter, den Beutegewinn in jedem Kampfe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dich entflammte Pathia, der Held, den Feindetödtendsten, Der Beute du im Kampf gewinnst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще тебя зажег  
 Вришан Патхья, (тебя,) лучше всех убивающего дасью,  

@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुदेवः꣡ समहासति  
 सुवी꣡रो नरो मरुतः स꣡ म꣡र्तियः  
 यं꣡ त्रा꣡यध्वे सिया꣡म ते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यम् । त्राय॑ध्वे । स्याम॑ । ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sudevaḥ* ← *su*
 - \[adverb\]
@@ -103,37 +103,37 @@ genre M
 हे **समह** । प्रशस्तवचनः समहशब्दः । हे पूजित मरुतां गण **सः** **मर्त्यः** च **सुदेवः** कल्याणमरुत्संज्ञकदेवोपेतः **असति** भवति । हे **नरः** नेतारो हे **मरुतः** सः **सुवीरः** शोभनपुत्राद्युपेतश्च असति भवति । **यं** मर्त्यं **त्रायध्वे** पालयध्वे । एवं भवति **ते** वयं **स्याम** युष्मदीयाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Renowned (host of) **Maruts**, leaders (of rites), that mortal is favoured by the gods, and blessed with progeny, whom you protet; may we be such as he is.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Well provided with gods and with heroes in every way will that  
 mortal be  
 whom you protect, o men, o Maruts. May we be those (mortals).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Favoured by Gods shall he the man, O Heroes, Marutr! and possessed of noble sons,  
      Whom ye protect. Such may we be.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche wird jedenfalls von Gott begünstigt ein Meister werden, ihr Herren Marut, den ihr beschirmet. Wir wollen zu denen gehören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Göttern und den Menschen werth, o Marutschar, ist überall der Sterbliche, Den ihr beschützt; so sei'n auch wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Непременно уж бывает любимцем богов,  
 Обладателем прекрасных героев тот смертный, о мужи Маруты,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् उत्तमा꣡सि ओषधे  
 त꣡व वृक्षा꣡ उ꣡पस्तयः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यो꣡ अस्माँ꣡ अभिदा꣡सति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 उप॑स्तिः । अ॒स्तु॒ । सः । अ॒स्माक॑म् । यः । अ॒स्मान् । अ॒भि॒ऽदास॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -101,7 +101,7 @@ popular;; epic anuṣṭubh (292)
 हे **ओषधे** सोमाख्ये **त्वम्** ओषधीनामन्यासाम्' **उत्तमासि** । **तव** **वृक्षाः** सर्वे **उपस्तयः** अधःशायिन एव । तथा सति **सः** **उपस्तिरस्तु** अधःशायी भवतु **योऽस्मान्** **अभिदासति** अभिहिनस्ति भ्रातृव्य इति ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,29 +112,29 @@ popular;; epic anuṣṭubh (292)
 May the trees shelter you, and may he who is our foe become our own servant
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the highest, o plant. The trees are your subordinates.  
 Let him be subordinate to us, whoever assails us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most excellent of all art thou, O Plant thy vassals are the trees.  
      Let him be subject to our power, the man who seeks to injure us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Kraut, bist das Oberste, die Bäume sind deine Untergebenen. Der soll unser Untergebener sein, der uns bedroht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Kraut, du bist der Oberherr; die Bäume sind dir unterthan; Und so sei uns auch unterthan der, welcher uns zu schaden sucht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты высшее, о растение,  
 Деревья – твои подданные.  

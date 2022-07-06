@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡रेषु इ꣡न्द्रं सुह꣡वं हवामहे  
 अंहोमु꣡चं सुकृ꣡तं दइ꣡वियं ज꣡नम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द्या꣡वापृथिवी꣡ मरु꣡तः सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । मि॒त्रम् । वरु॑णम् । सा॒तये॑ । भग॑म् । द्यावा॑पृथि॒वी इति॑ । म॒रुतः॑ । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhareṣv* ← *bhareṣu* ← *bhara*
 - \[noun\], locative, plural, masculine
@@ -125,36 +125,36 @@ genre M
 **अंहोमुचम्** अंहसः पापस्य मोचकं **सुहवं** शोभनाह्वानम् **इन्द्रं** **भरेषु** । भृणन्ति भर्जयन्ति विनाशयन्ति शत्रूनत्रेति भराः संग्रामाः । तेषु **हवामहे** रक्षणायाह्वयामः । किंच **सुकृतं** सुकर्माणं **दैव्यं** देवसंबन्धिनमन्यं **जनं** चाह्वयामहे । तं जनमुद्दिशति । **अग्निं** **मित्रं** **वरुणं** **भगं** भजनीयमेतन्नामानं देवं **द्यावापृथिवी** द्यावापृथिव्यौ **मरुतः** च **सातये** अन्नलाभाय **स्वस्तये** अविनाशाय रक्षणायाह्वयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We call in battles upon the well-invoked **Indra**, the liberator from sin, and upon the virtuous folk ofheaven, **Agni**, **Mitra**, **Varuṇa**, **Bhaga**, Heaven and Earth, the **Maruts**, for the acquisition (of food), for well-being.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the raids we call on Indra easy to call, on the divine race of good  action that releases from difficult straits,  
 on Agni, Mitra, Varuṇa, Bhaga, for winning, on Heaven and Earth, the  Maruts—for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In battles we invoke Indra still swift to hear, and all the holy Host of Heaven who banish grief,  
      Agni, Mitra, and Varuna that we may gain, Dyays, Bhaga, Maruts, Prthivi for happiness:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir rufen den in Kämpfen gern gerufenen Indra an, den Noterlöser, den Wohltäter, das göttliche Volk, den Agni, Mitra, Varuna, den Bhaga, um das Glück zu gewinnen, Himmel und Erde, die Marut zum Heile!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Schlachten rufen Indra wir, der schnell erhört, die Götterschar, die wohl thut und von Noth erlöst, Den Agni, Mitra, Varuna zum Glücksgewinn, die Maruts, Bhaga, Erd' und Himmel uns zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

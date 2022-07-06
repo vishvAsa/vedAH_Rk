@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ वाम् अद्या꣡ करते रात꣡हव्य  
 ऊत꣡ये वा सुतपे꣡याय वार्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡मो येमानो꣡ अश्विना꣡ ववर्तत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ऋ॒तस्य॑ । वा॒ । व॒नुषे॑ । पू॒र्व्याय॑ । नमः॑ । ये॒मा॒नः । अ॒श्वि॒ना॒ । आ । व॒व॒र्त॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -135,43 +135,43 @@ genre M
 **कः** यजमानः **अद्य** **वां** युवयोः **करते** कुर्यात् स्तुतिम् । **अर्कैः** मन्त्रैः **रातहव्यः** दत्तसोमः **ऊतये** **वा** रक्षणाय वा **सुतपेयाय** सोमपानाय **वा** । **ऋतस्य** उदकस्य यज्ञस्य **वा** **पूर्व्याय** पुराणाय **वनुषे** संभजनाय हे **अश्विना** अश्विनौ **नमो** **येमानः** नमस्कारं कुर्वाणः कः **आ** **ववर्तत्** आवर्तयेत् यज्ञं प्रति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What offer of oblations addresses you today with hymns for the sake (of obtaining) protection, for the drinking of the **Soma**, or for the ancient fulfilment of the sacrifice? what offer of adoration may bring you **Aśvins** may bring you Aśvins (to this rite)?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who today, having bestowed his oblation, will attract you here with his  chants, for help or for drinking the pressed soma,  
 or, having held fast to his reverence, will turn (you) here for the foremost  striving for truth, O Aśvins?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. take the dative phrase in c, ṛtásya … vanúṣe pūrvyā́ya as personal (e.g., Geldner “für den, der schon früher des rechten Brauches beflissen war”).
 
 But since this phrase is parallel to two purpose-activity datives in b (ūtáye … sutapéyāya) and is in fact conjoined with them by vā, I think they should be parallel in function. Oldenberg sees the problem and suggests that if we interpr. the passage as I do, we might need to read *vánuṣe -- though he ultimately opts for the personal dative.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who bringeth you to-day for help with offered oblation, or with hymns to drink the juices?  
      Who, for the sacrifice's ancient lover, turneth you hither, Asvins, offering homage?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer wird euch opferspendend heute mit Preisliedern zur Hilfe oder zum Somatrunk bewegen, oder wer für den, der schon früher des rechten Brauches beflissen war, eine Verbeugung machend euch, Asvin, herlenken?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer schafft euch her zur Hülfe heut durch Opfer? wer durch Gesänge zu dem Trunk des Saftes? Wer wendet her euch zu dem alten Pfleger des heil'gen Werks, o Ritter, Ehrfurcht übend?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто сегодня, принеся жертву, песнями  
 Настроит вас на помощь или на питье выжатого сомы  

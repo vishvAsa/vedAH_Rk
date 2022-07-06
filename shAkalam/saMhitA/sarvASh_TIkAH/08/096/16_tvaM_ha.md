@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ह त्य꣡त् सप्त꣡भ्यो जा꣡यमानो  
 अशत्रु꣡भ्यो अभवः श꣡त्रुर् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विभुम꣡द्भ्यो भु꣡वनेभ्यो र꣡णं धाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 गू॒ळ्हे इति॑ । द्यावा॑पृथि॒वी इति॑ । अनु॑ । अ॒वि॒न्दः॒ । वि॒भु॒मत्ऽभ्यः॑ । भुव॑नेभ्यः । रण॑म् । धाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -115,7 +115,7 @@ genre M
 हे **इन्द्र** **त्वं** खलु **त्यत्** तत् कर्म कृतवानसि। किं तत् उच्यते । **जायमानः** त्वं प्रादुर्भवन्नेव । **अशत्रुभ्यः** स्तुरहितेभ्यः **सप्तभ्यः** कृष्णवृत्रनमुचिशम्बरादिसप्तभ्यो बलवद्भ्यः शत्रुभ्यः तदर्थं **शत्रुः** **अभवः** । यद्वा । सप्तभ्यः । ससैवाङ्गिरसः । सप्तभ्योङ्गिरोभ्यो गवानयनार्थं प्रादुर्भवन्नेवाशत्रुभ्यो बलवद्भ्यः पणिभ्यः शत्रुरभवः । किंच हे इन्द्र त्वं **गूळ्हे** तमसा गूढे संवृते **द्यावापृथिवी** द्यावापृथिव्यौ सूर्यात्मना ते प्रकाश्यानुक्रमेण **अविन्दः** अलभथाः । तथा **विभुमद्भ्यः** महत्त्वयुक्तेभ्यः **भुवनेभ्यः** लोकेभ्यः **रणं** रमणं **धाः** धारयसि । विदधासीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,13 +126,13 @@ genre M
 Thoseseven who had no enemy: **Kṛṣṇa**, **Vṛtra**, Namūci, **Śambara** etc.; or, you were an enemy to those who had noenemy, on behalf of the seven sages (the **Aṅgirasas**). i.e., inorder to recover their cows
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You then—just as you were being born, you became the rival to the  seven unrivaled ones, Indra.  
 You discovered heaven and earth, which were hidden. You provided joy  to the wide-ranging creatures.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of the “seven” is unclear; ordinarily that number refers to rivers or priestly offices, but neither makes sense here. However, Geldner (n. to 16a) points to seven enemies destroyed by Indra in X.49.8, 120.6.
 
@@ -149,23 +149,23 @@ These three vss. begin tváṃ ha tyád. As elsewhere with this configuration (2
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then, at thy birth, thou wast the foeman, Indra, of those the seven who ne'er had met a rival.  
      The hidden Pair, the Heaven and Earth, thou foundest, and to the mighty worlds thou gavest pleasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du geboren wurdest, wardst du der Sieben, die keinen Bemeisterer fanden, Meister, o Indra. Du fandest die versteckten Welthälften wieder; du brachtest den Geschöpfen Freude, die in dir einen Gebieter hatten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren kaum, erstandest du, o Indra, als Feind den sieben, die sich feindlos dünkten; Du fandest Erd' und Himmel, die verborgnen, verschafftest Lust den machtbegabten Welten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

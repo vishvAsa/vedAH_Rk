@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नूनं꣡ सा꣡ ते प्र꣡ति व꣡रं जरित्रे꣡  
 दुहीय꣡द् इन्द्र द꣡क्षिणा मघो꣡नी  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृह꣡द् वदेम विद꣡थे सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 शिक्ष॑ । स्तो॒तृऽभ्यः॑ । मा । अति॑ । ध॒क् । भगः॑ । नः॒ । बृ॒हत् । व॒दे॒म॒ । वि॒दथे॑ । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nūnaṃ* ← *nūnam*
 - \[adverb\]
@@ -134,37 +134,37 @@ genre M;; repeated line
 नूनंसातइतिव्याख्याता ॥ ९ ॥तदस्माइतिनवर्चंषष्ठंसूक्तङ्गार्त्समदमैन्द्रं अत्रानुक्रमणिका तदस्मैद्वित्रिष्टुबन्तमिति अन्त्येद्वेत्रिष्टु- भे शिष्टाःसप्तजगत्यः अतिरात्रेद्वितीयेपर्यायेअच्छावाकशस्त्रे तदस्माइतिसूक्तम् अतिरात्रेपर्यायाणा- मितिखण्डेसूत्रितम् तदस्मैनव्यमस्यपिबयस्यजजानइन्द्रेतियाज्येति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That opulent donation which proceeds, **Indra**, from you, assuredly bestows upon him who praises you, the boon (that he desires); grant (it) to (us) your adorers; do not you, who are the object of adoration, disregard our prayers; so that, blessed with worthy descendants, we may glorify you at this sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now should the generous priestly reward yield your boon for the singer  as its milk, Indra.  
 Exert yourself for the praise singers. Let fortune not pass us by. – May  we speak loftily at the ritual distribution, in possession of good  
 heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now let that wealthy Cow of thine, O Indra, yield in return a boon to him who lauds thee.  
      Give to thy praisers: let not fortune fail us. Loud may we speak, with heroes, in assembly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun soll diese deine reichliche Lohngabe, o Indra, dem Sänger nach Wunsch ergiebig sein. Suche den Sängern zu nützen; das Glück soll nicht an uns vorübergehen. - Wir möchten das große Wort führen als Meister in der Weisheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wohlan, es locke diese reiche Gabe dir ab, o Indra, was der Sänger wünschet; Den Preisern spende, kürze nicht den Antheil. Lasst laut im Chore bei dem Fest uns singen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть сейчас это твое щедрое вознаграждение, о Индра,  
 Выдаивается для певца по (его) желанию!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पवि꣡त्रेभिः प꣡वमानो नृच꣡क्षा  
 रा꣡जा देवा꣡नाम् उत꣡ म꣡र्तियानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋत꣡म् भरत् सु꣡भृतं चा꣡रु इ꣡न्दुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 द्वि॒ता । भु॒व॒त् । र॒यि॒ऽपतिः॑ । र॒यी॒णाम् । ऋ॒तम् । भ॒र॒त् । सुऽभृ॑तम् । चारु॑ । इन्दुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavitrebhiḥ* ← *pavitra*
 - \[noun\], instrumental, plural, neuter
@@ -125,7 +125,7 @@ genre M
 पवित्रेभिः पवित्रैः पवमानः पूयमानः नृचक्षाः नृणाम्फलाफलयोः द्रष्टा अथ देवाना- मिन्द्रादीनां उतापिच मर्त्यानां मनुष्याणां एवमुभयेषां जनानां राजा रयिपतिः धनस्य- पतिः नत्वल्पस्यपतिः किन्तु रयीणां बहूनां धनानांस्वामी । वृत्यवृत्तिभ्यांस्वामित्वं बाहु- ल्यञ्च विवक्ष्यते । ईदृशः सोमः द्विता द्विधा देवेष्वपिच मनुष्येषु भुवत् भवति । सोय- मिन्दुः सोमः सुभृतं सम्भृतं चारु कल्याणं ऋतमुदकं भरत् बिभर्ति ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 Soma is twofold: i.e., abides among both gods and men
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purifying himself with the filters, having his gaze on men, as the king of  gods and mortals  
 he has become once again the wealth-lord of wealth; the drop bears the  pleasing truth that is easy to bear.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two words making up the VP in d, ṛtám bharat, appear also in vs. 23, though not together (ṛtám ṛtā́ya b, bhāri d). As is pointed out by Hoffmann (implicitly: Injunc. 122 and esp. n. 34) and Ober (II.121), this appears to be an Indo-Iranian phrase, and it thus invests Soma with yet more traditional dignity. The pāda thus deserves a more solemn tr. than I gave it in the published translation - perhaps “the drop bears the dear truth that is well worth the bearing.” Although the morphological means are different, the lexical duplication in both rayipátī rayīṇā́m (c) and ṛtám bharat súbhṛtam (d) gives the end of this tṛca a stately and archaic air.
 
@@ -165,23 +165,23 @@ Karṇaśrut Vāsiṣṭha, a name that has no source in the text and is not oth
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who beholds mankind, made pure with filters, the King supreme of Deities and mortals,  
      From days of old is Treasure-Lord of riches: he, Indu, cherishes fair well-kept Order.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Seihen geläutert ist der wie ein Herrscher blickende König über Götter und Sterbliche, der Herr der Reichtümer abermals erschienen. Der Saft hält das werte Gesetz in Ehren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Männer Licht, durch Seihen hell geläutert, der Götter und der Menschen König, Indu, Er ist fürwahr der Schätze Schatzgebieter, das theure schöngetragne Opfer trägt er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаемый цедилками (бог) со взглядом героя,  
 Царь богов и смертных  

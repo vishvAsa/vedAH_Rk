@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡हा य꣡द् इन्द्र सुदि꣡ना विउछा꣡न्  
 द꣡धो य꣡त् केतु꣡म् उपमं꣡ सम꣡त्सु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हुवानो꣡ अ꣡त्र सुभ꣡गाय देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नि । अ॒ग्निः । सी॒द॒त् । असु॑रः । न । होता॑ । हु॒वा॒नः । अत्र॑ । सु॒ऽभगा॑य । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahā* ← *aha*
 - \[noun\], nominative, plural, neuter
@@ -134,35 +134,35 @@ genre M
 हे **इन्द्र** **यत्** यदा **अहा** अहानि **सुदिना** सुदिनानि **व्युच्छान्** व्युच्छेयुः **यत्** यदा च **समत्सु** संग्रामेषु **केतुं** ज्ञानम् **उपमम्** अन्तिकं **दधः** धारयेः तदा **असुरः** बलवान् **होता** देवानामाह्वाता **अग्निः** **सुभगाय** अस्माकं शोभनधनप्राप्तये **देवान्** **हुवानः** ह्वयन् **अत्र** अस्मिन् यज्ञे **नि** **षीदत्** न्यसीदत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, **Indra**, fortunate days arise, when you advance your emblem in battles, the strong **Agni**, theinvoker of the gods, summoning the gods hither for our benefit, sits down on the sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So that the days will dawn forth day-bright, so that you will establish  your utmost beacon in the combats, Indra, Agni has sat down as Hotar, like a lord, calling the gods here for the one  of good portion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When fair bright days shall dawn on us, O Indra, and thou shalt bring thy banner near in battle,  
      Agni the Asura shall sit as Herald, calling Gods hither for our great good fortune.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf daß schöne Tage anbrechen mögen, o Indra, auf daß du das oberste Zeichen im Kampfe geben mögest, nimm Agni, der Hotri, seinen Sitz ein wie der Asura und ruft die Götter für den beliebten Opferherren hierher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns mögen hell die Tage leuchten, Indra, wenn hoch du hebst die Fahne in den Kämpfen; Als Himmelspriester sitze Agni nieder, die Götter rufend hier zu hohem Glücke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чтобы зажглись счастливые дни, о Индра,  
 Чтобы ты дал высший знак в сраженьях,  

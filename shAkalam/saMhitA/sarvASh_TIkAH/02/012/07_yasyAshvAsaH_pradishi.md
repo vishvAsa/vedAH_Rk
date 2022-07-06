@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्या꣡श्वासः प्रदि꣡शि य꣡स्य गा꣡वो  
 य꣡स्य ग्रा꣡मा य꣡स्य वि꣡श्वे र꣡थासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ अपां꣡ नेता꣡ स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । सूर्य॑म् । यः । उ॒षस॑म् । ज॒जान॑ । यः । अ॒पाम् । ने॒ता । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyāśvāsaḥ* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -135,40 +135,40 @@ genre M
 यस्यसर्वान्तर्यामितयावर्तमानस्यप्रदिशि प्रदेशनेनुशासने अश्वासोश्वावर्तन्ते यस्यानुशासनेगावः यस्यानुशासनेग्रामाः ग्रसन्तेत्रेति ग्रामाजनपदाः यस्याज्ञायांविश्वेसर्वेरथासोरथावर्तन्ते यश्चवृत्रंहत्वा- सूर्यञ्जजान जनयामास यश्चोषसं तथामन्त्रः—जजानसूर्यमुषसंसुदंसाइति । यश्चमेघभेदनद्वारा अपां- नेताप्रेरकः सइन्द्रइत्यादिप्रसिद्धम् ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, under whose control are horses and cattle, and villages, and all chariots; he who gave birth to the sun and to the dawn; and who is the leader of the waters; he, men, is **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Under whose direction are the horses, under whose the cows, under  whose the nomadic bands, and under whose all the chariots, who has given birth to the sun and who to the dawn, who is the guide  of the waters – he, o peoples, is Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He under whose supreme control are horses, all chariots, and the villages, and cattle;  
      He who gave being to the Sun and Morning, who leads the waters, He, O men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 In whose control are horses and all chariots, In whose control are villages and cattle; He who has generated sun and morning, Who leads the waters: he, O men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter dessen Befehl die Rosse, die Rinder, die Dorfmannschaften und alle Wagen stehen, der die Sonne, die Morgenröte erschaffen hat, der der Leiter der Gewässer - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dessen Macht die Rosse und die Rinder, die Wagen alle sind und alle Völker, Der schuf die Sonne und die Morgenröthe, der Wasser Hort, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У кого в подчинении кони, у кого – коровы,  
 У кого – отряды, у кого – все колесницы,  

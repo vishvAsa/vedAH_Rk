@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡राशं꣡सो नो अवतु प्रयाजे꣡  
 शं꣡ नो अस्तु अनुयाजो꣡ ह꣡वेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था करद् य꣡जमानाय शं꣡ योः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 क्षि॒पत् । अश॑स्तिम् । अप॑ । दुः॒ऽम॒तिम् । ह॒न् । अथ॑ । क॒र॒त् । यज॑मानाय । शम् । योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *narāśaṃso* ← *narāśaṃsaḥ* ← *narāśaṃsa*
 - \[noun\], nominative, singular, masculine
@@ -128,7 +128,7 @@ popular;; repeated line
 पञ्चसु प्रयाजेषु द्वितीयः प्रयाजो नराशंसदेवताकः । तस्मिन् **प्रयाजे** देवताभूतः **नराशंसः** नरैः शंसनीयोऽग्निः **नः** अस्मान् **अवतु** रक्षतु । **हवेषु** आह्वानेषु सत्सु **अनुयाजः** । त्रयोऽनुयाजाः । द्वितीयोऽनुयाजो नराशंसः । तस्यानुयाजस्य देवताभूतो नराशंसोऽग्निश्च **नः** अस्माकं **शं** सुखकरः **अस्तु** । बृहस्पतिश्च **अशस्तिं** **क्षिपत्** इत्यादि पूर्ववत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ popular;; repeated line
 At the Prayāja rite: there are five prayājas, and threeanuyājas; the second Prayāja has Narāśaṃsa (a name of **Agni**) for its deity; the second Anuyāja has Agnias its deity
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Narāśaṃsa help us at the Fore-offering; let the After-offering be luck  for us at the invocations.  
 – He hurls aside malediction and smites away ill-will; then he will create  luck and life for the sacrificer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Naratarhsa aid us at Prayaja: blest be our Anuyaja at invokings.  
      May he repel the curse, and chase ill-feeling, and give the sacrificer peace and comfort.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Narasamsa soll uns beistehen bei dem Prayaja; der Anuyaja soll uns bei den Götteranrufungen glücken. Er stoße die Afterrede von sich, wehre die Mißgunst ab und schaffe dem Opfernden Glück und Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim Eingangsopfer schütz der Männerhort uns, das Ausgangsopfer sei zum Heil beim Anruf, Er werfe fort den Fluch und schlag' das Unheil, und schaffe dann dem Opfrer Heil und Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нарашанса пусть поможет нам в начальной части жертвоприношения!  
 Да будет на счастье нам (его) конечная часть во время призывов богов!  

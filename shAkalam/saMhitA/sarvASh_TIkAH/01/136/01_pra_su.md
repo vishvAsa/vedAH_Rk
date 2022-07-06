@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सु꣡ ज्ये꣡ष्ठं निचिरा꣡भ्याम् बृह꣡न् न꣡मो  
 हव्य꣡म् मति꣡म् भरता मॄळय꣡द्भियां+  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 देवत्वं꣡ नू꣡ चिद् आधृ꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 अथ॑ । ए॒नोः॒ । क्ष॒त्रम् । न । कुतः॑ । च॒न । आ॒ऽधृषे॑ । दे॒व॒ऽत्वम् । नु । चि॒त् । आ॒ऽधृषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -177,7 +177,7 @@ genre M
 हे ऋत्विजः मित्रावरुणाभ्यां **ज्येष्ठं** प्रशस्यं **बृहत्** महदतिप्रवृद्धं **नमः** नमस्कारोपलक्षितं स्तोत्रं तदुपलक्षितं हविर्लक्षणमन्नं वा **प्र** **भरत** संपादयत । नम इत्यन्ननाम, ‘नमः आयुः (नि. २. ७. २२) इति तन्नामसु पाठात् । किंच **हव्यं** हव्यां मतिं तत्प्रदानविषयां बुद्धिं भरत । यद्वा मतिं पूज्यं हव्यं हविर्भरत । पूर्वत्र पुरोडाशाद्यदनीयमन्नं इदानीं तु सोमाज्यादिरूपं निपेयं हविः इति विवेकः । कीदृशाभ्यां ताभ्याम् । **निचिराभ्यां** नितरां चिरकालाभ्यां नित्याभ्यामित्यर्थः । प्रवाहरूपेणेति भावः । किंच **मृळयद्भ्यां** स्तुत्या हविःस्वीकारेण स्वयं मृडित्वा यजमानमपि सुखयद्यांचि तथा **स्वादिष्ठं** स्वादुतरं मृळयद्भ्यां हविः सुखयद्यां क भक्षयद्याेणमित्यर्थः । कस्तयोर्विशेषः इति तत्राह । **ता** तौ मित्रावरुणौ **सम्राजा** सम्यक् राजमानौ॥ राजतेः क्विप् । ‘मो राजि समः क्वौ' इति समो मकारस्य मकारः ॥ **घृतासुती** । घृतमासूयते आदीयते याभ्यां तौ तादृशौ। यद्वा । घृतमुदकं वृष्टिलक्षणं प्रसूयते सर्वत्रानुज्ञायते याभ्यां तौ । एतयोः अहोरात्राभिमानिदेवत्वात् अहोरात्रद्वारा वृष्ट्युत्पादकत्वात् ‘अहोरात्रे वै मित्रावरुणावहोरात्राभ्यां खलु वै पर्जन्यो वर्षति' (तै. सं. २. १. ७. ३) इति श्रुतेर्वृष्ट्यनुज्ञाप्रदत्वं प्रसिद्धम् । किंच एतौ **यज्ञेयज्ञे** सर्वेष्वपि यज्ञेषु **उपस्तुता** सर्वैर्ऋत्विग्भिः स्तूयमानौ ।' गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥ **अथ** अपि च **एनोः** एनयोः ॥ संज्ञापूर्वकस्य विधेरनित्यत्वात्  ‘ ओसि च ' ( पा. सू. ७. ३. १०४ ) इति गुणाभावे । अतो गुणे: इति पररूपत्वम् ॥ **क्षत्रं** बलं **कुतश्चन** कस्मादपि च शत्रोः राक्षसादेः सकाशात् कस्मादप्युपायाद्वा **न** **आधृषे** आधर्षितुं शक्यं न भवति ॥  ‘ कृत्यार्थे तवैकेन्' इति केन्प्रत्ययः ॥ किंच तयोः देवत्वं **नू** **चित्** देवभावोऽपि न **आधृषे** अधर्षणायोग्यः । यद्वा । पूर्वमिव इदानीमपि । **नू** चिदिति निपातः पुराणनवयोः' (निरु. ४. १७ ) इति यास्केनोक्तत्वात् । आधृषे न केनाप्याधर्षणीयो भवति । एतयोर्बलं नाधृष्यं किमु तद्देवत्वमिति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -188,7 +188,7 @@ genre M
 Imperial sovereigns: tā samrājā; or, sāmrāja = thoroughly shining, samyakrājamānau
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Present preeminent, lofty reverence to the two attentive ones; present  an oblation, a thought to the two compassionate ones—the sweetest  (oblation) to the two compassionate ones.  
 They are the two sovereign kings, whose potion is ghee, approached with  praise at every sacrifice.  
@@ -196,24 +196,24 @@ And so the dominion of these two is not to be challenged from
 anywhere—their divinity is never to be challenged.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BRING adoration ample and most excellent, hymn, offerings, to the watchful Twain, the bountiful, your sweetest to the bounteous Ones.  
      Sovrans adored with streams of oil and praised at every sacrifice.  
      Their high imperial might may nowhere be assailed, ne'er may their Godhead be assailed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet fein eure größte hohe Huldigung den beiden aufmerksamen Göttern, Opfer und Gedicht den barmherzigen dar, das süßeste den barmherzigen! Sie sind die beiden Allkönige, die sich mit Schmalz stärken, in jedem Gottesdienst angesungen. Und ihre Herrschaft ist von keiner Seite anzutasten, ihre Göttlichkeit niemals anzutasten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den beiden, die drauf achten, bringt als bestes dar, den gnäd'gen hohe Ehrfurcht, Opfer und Gesang, das süsseste den gnädigen, Den milchgetränkten Oberherrn, die man bei jedem Opfer preist; An ihre Herrschaft kann sich niemand wagen je, noch auch an ihre Gottheit sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасно принесите двум внимательным (богам) величайшее могучее  
 Поклонение: жертвенное возлияние (и) молитву, двум милосердным,  

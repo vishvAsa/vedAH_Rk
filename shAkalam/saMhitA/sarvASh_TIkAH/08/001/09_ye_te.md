@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ ते स꣡न्ति दशग्वि꣡नः  
 शति꣡नो ये꣡ सहस्रि꣡णः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ते꣡भिर् नस् तू꣡यम् आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अश्वा॑सः । ये । ते॒ । वृष॑णः । र॒घु॒ऽद्रुवः॑ । तेभिः॑ । नः॒ । तूय॑म् । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -113,7 +113,7 @@ genre M
 हे इन्द्र **दशग्विनः** दशयोजनगामिनः **ये** अश्वाः **ते** तव **सन्ति** विद्यन्ते । **ये** चान्ये **शतिनः** शतसंख्याकाः **सहस्रिणः** सहस्रसंख्याकाः सन्ति । **ये** **ते** त्वदीयाः **अश्वासः** अश्वाः **वृषणः** सेचनसमर्था युवानः **रघुद्रुवः** शीघ्रगामिनश्च । **तेभिः** तैः सर्वैरश्वैः **नः** अस्मान् **तूयं** क्षिप्रम् **आ** **गहि** आगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,30 +124,30 @@ genre M
 Traversers: or, which are traversers of ten leagues, and are numbered byhundreds and thousands.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those of yours which bring ten cows, which bring a hundred, a  
 thousand,  
 those horses of yours which are swift-running bulls, with these come  swiftly to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Horses which are thine in tens, in hundreds, yea, in thousands thine,  
      Even those vigorous Steeds, fleet-footed in the course, with those come quickly near to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine zehnfachen, hundertfachen, tausendfachen Rosse, die du hast, deine schnellaufenden Hengste, mit denen komm eilig zu uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Rossen, die dir zehnfach sind, und hundertfach und tausendfach Mit deinen Hengsten, die da fliegen raschen Laufs, mit denen komme rasch herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те (табуны) из десятков, сотен коней,  
 Что есть у тебя, (те,) что из тысяч,  

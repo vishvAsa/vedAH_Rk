@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरुव्य꣡चा नो महिषः꣡ श꣡र्म यंसद्  
 अस्मि꣡न् ह꣡वे पुरुहूतः꣡ पुरुक्षुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र मा꣡ नो रीरिषो मा꣡ प꣡रा दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । नः॒ । प्र॒ऽजायै॑ । ह॒रि॒ऽअ॒श्व॒ । मृ॒ळ॒य॒ । इन्द्र॑ । मा । नः॒ । रि॒रि॒षः॒ । मा । परा॑ । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uruvyacā* ← *uru*
 - \[noun\]
@@ -144,36 +144,36 @@ popular
 **उरुव्यचाः** विस्तीर्णव्यापनः **महिषः** महान् पूज्यो वा **पुरुहूतः** बहुभिर्यजमानैराहूतः **पुरुक्षुः** बहुनिवासः ॥ क्षियतेः ‘मितद्र्वादिभ्य उपसंख्यानम् ' (पा. सू. ३. २. १८०. १ ) इति डुप्रत्ययः ॥ यद्वा । पुरुभिर्बहुभिः शब्द्यमानः स्तूयमानः ॥ पूर्ववत् डुप्रत्ययः । औणादिके कर्मणि क्विपि वा  ‘ अनित्यमागमशासनम् ' इति तुगभावः ॥ ईदृशः इन्द्रः **अस्मिन्** **हवे** यज्ञे । हूयन्ते अस्मिन् हवींषीति हवो यज्ञः । जुहोतेरधिकरणेऽप् ॥ यद्वा । अस्मिन् हवे त्वद्विषये आह्वाने ॥  ‘ भावेऽनुपसर्गस्य ' इति ह्वयतेरप् संप्रसारणं च ॥ **नः** अस्मभ्यं **शर्म** सुखं **यंसत्** यच्छतु ददात्वित्यर्थः॥ यमेर्लेट्यडागमः ।  ‘ सिब्बहुलम् ' इति सिप् ॥ हे **हर्यश्व** हरी अश्वौ यस्य तादृश हे **इन्द्र** **सः** त्वं **नः** अस्माकं **प्रजायै** । द्वितीयार्थे चतुर्थी। प्रजां पुत्रपौत्रादिकां **मृळय** सुखय । **नः** अस्मान्  **मा** **रीरिषः** मा हिंसीः । **मा** च **परा** **दाः** । परादानं परित्यागः । मा परित्याक्षीरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the omnipresent (**Indra**), the mighty one, who is invoked by many, and lauded by many, bestow ablessing on this our sacrifice; be gracious to our offspring, Indra, lord of bay horses; harm us not, desert us not.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The buffalo of broad expanse will offer shelter to us at this invocation— he who is invoked by many, who provides many cattle.  
 Show mercy to our offspring, o you of the fallow bays. Do not harm us  nor hand us over.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Foodful, and much-invoked, at this our calling may the great Bull vouchsafe us wide protection.  
      Lord of Bay Coursers, Indra, blew our children: harm us not, give us riot as prey to others.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der umfängliche Büffel soll uns Zuflucht gewähren bei diesem Anruf, der Vielgerufene, Viehreiche. Sei unseren Kindern gnädig, o Falbenherr; schädige uns nicht, Indra, gib uns nicht preis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Nährer, Sei unsern Kindern hold, o Füchselenker, verletz uns nicht, o Indra, noch gib preis uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Огромный буйвол пусть дарует нам защиту  
 При этом призыве (богов), (он), многопризываемый, богатый скотом!  

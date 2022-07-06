@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ य꣡जाति य꣡जात इ꣡त्  
 सुन꣡वच् च प꣡चाति च  
 ब्रह्मे꣡द् इ꣡न्द्रस्य चाकनत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ब्र॒ह्मा । इत् । इन्द्र॑स्य । चा॒क॒न॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -90,7 +90,7 @@ genre M
 **यः** यजमानः सकृत् **यजाति** यागं करोति हविर्भिर्देवान् पूजयति स देवेभ्यो लब्धधनादिकः सन् **यजात** **इत्** पुनरभीष्टप्राप्तये देवेभ्यो हवींषि प्रयच्छत्येव । तथा स एव यजमानः **सुनवच्च** सोमाभिषवं करोति च । स एव **पचाति** **च** पशुपुरोडाशादिकं पचति च । सर्वत्र यजादिषु लेट्यडागमाः । स यजमानः **इन्द्रस्य** **ब्रह्म** ब्रह्माणि । **इत्** अवधारणे । इन्द्रसंबन्धीनि स्तोत्राण्येव **चाकनत्** पुनःपुनः कामयते । कनतेः कान्त्यर्थात् यङ्लुकि अभ्यासत्वं छान्दसम् । ततो लेट्यडागमः । अत्र यागे यजमानो धनादि लभत इति यज्ञप्रशंसा । स एव दृष्टफलः सन् सोमाभिषवादीन् करोतीति यजमानप्रशंसा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,28 +101,28 @@ genre M
 Sacred cake: **paśu** puroḷāśa, the cake is anessential part of the animal sacrifice in the **jyotiṣṭoma**: paśu **devatā** sanskāraḥ: Nyāyamalavistara
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will sacrifice for another and will also sacrifice for himself,  who will press (soma) and will cook (the oblation),  
 just that formulator will find pleasure of Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THAT Brahman pleases Indra well, who worships, sacrifices, pours Libation, and prepares the meal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer für andere und für sich selbst opfern und Soma auspressen und Opferspeisen kochen wird, der Brahmane wird des Indra froh werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer opfert und wer recht verehrt, wer Soma braut, wer kocht und bäckt, Solch Beter ist dem Indra lieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто жертвует для других (и) жертвует для себя,  
 Выжимает (сому) и варит (жертву),  

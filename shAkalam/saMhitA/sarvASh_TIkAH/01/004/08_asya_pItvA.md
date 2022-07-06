@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ पीत्वा꣡ शतक्रतो  
 घनो꣡ वृत्रा꣡णाम् अभवः  
 प्रा꣡वो वा꣡जेषु वाजि꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र । आ॒वः॒ । वाजे॑षु । वा॒जिन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **शतक्रतो** बहुकर्मयुक्तेन्द्र त्वम् **अस्य** सोमस्य संबन्धिनमंशं **पीत्वा** **वृत्राणां** वृत्रनामकासुरप्रमुखाणां शत्रूणां **घनः** **अभवः** हन्ताऽभूः । ततो **वाजेषु** संग्रामेषु **वाजिनं** संग्रामवन्तं स्वभक्तं **प्रावः** प्रकर्षेण रक्षितवानसि ॥ अस्य इति इदंशब्देन प्रयोगसमये पुरोदेशस्थः सोमो निर्दिश्यते न तु पूर्वप्रकृतः सोमः परामृश्यते । अतोऽनन्वादेशत्वात् नात्र ‘इदमोऽन्वादेशेऽशनुदात्तस्तृतीयादौ ' ( पा.सू. ३. ४. ३२) इत्यशादेशः । अतो न सर्वानुदात्तत्वं, किंतु त्यदाद्यत्वे ( पा. सू. ७. २. १०२) हलि लोपे (पा. सू. ७. २. ११३ ) अकारः प्रातिपदिकस्वरेणोदात्त इति ‘अन्तोदात्तात् ' इत्यनुवृत्तौ “ ऊडिदंपदाद्यप्पुम्रैद्युभ्यः' (पा. सू. ६. १. १७१) इति विभक्तिरुदात्ता । पीत्वा । पिबतेः क्त्वाप्रत्यये घुमास्थादिना (पा. सू. ६.४. ६६ ) ईत्वम् । प्रत्ययस्वरेणान्तोदात्तः । असामर्थ्यान्न परामन्त्रिताङ्गवद्भावः । घनः । ‘मूर्तौ घनः ' ( पा. सू. ३. ३. ७७ ) इति हन्तेर्धातोः काठिन्ये अप्प्रत्ययः । तदस्यास्तीति अर्शआदित्वात् (पा. सू. ५. २. १२७ ) अजन्तः । चित्त्वादन्तोदात्तः। वाजेषु । वृषादित्वादाद्युदात्तः । वाजिनम् । इनिप्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,34 +94,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Vṛtrāṇām = enemies of whom the **asura**, **Vṛtra** was the chief
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having drunk of this, o you of a hundred resolves, you became the bane  of obstacles.  
 You helped the prizewinner to the prizes.94 I.5
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My occasional tr. of ghaná- as ‘bane’ was inspired by my husband’s treatment of etymologically related nominal constructions in Greek and Germanic (Watkins 1996: 418ff., 423). I think Jesse Lundquist for reminding me of this.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ruler of sacrifices, guard of Law eternal, radiant One,  
    Increasing in thine own abode.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du davon getrunken hattest, du Ratreicher, da wardst du ein Hammer der Feinde. Du halfst dem Sieggewinner in den Kämpfen um den Siegerpreis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als, mächt'ger, du getrunken ihn, da wurdest du des Feinds Verderb Und halfst dem Kämpfer in dem Kampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Испив его, о стосильный,  
 Ты стал убийцей врагов.  

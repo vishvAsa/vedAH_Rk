@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ ना꣡रीर् अविधवाः꣡ सुप꣡त्नीर्  
 आ꣡ञ्जनेन सर्पि꣡षा सं꣡ विशन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ रोहन्तु ज꣡नयो यो꣡निम् अ꣡ग्रे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒न॒श्रवः॑ । अ॒न॒मी॒वाः । सु॒ऽरत्नाः॑ । आ । रो॒ह॒न्तु॒ । जन॑यः । योनि॑म् । अग्रे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -125,41 +125,41 @@ popular
 **अविधवाः** । धवः पतिः । अविगतपतिकाः । जीवद्भर्तृका इत्यर्थः । **सुपत्नीः** शोभनपतिकाः **इमाः** **नारीः** नार्यः **आञ्जनेन** सर्वतोऽञ्जनसाधनेन **सर्पिषा** घृतेन अक्तनेत्राः सत्यः **सं** **विशन्तु** स्वगृहान् प्रविशन्तु । तथा **अनश्रवः** अश्रुवर्जिता अरुदत्यः **अनमीवाः** । अमीवा रोगः। तद्वर्जिताः। मानसदुःखवर्जिता इत्यर्थः। **सुरत्नाः** शोभनधनसहिताः **जनयः**। जनयन्त्यपत्यमिति जनयो भार्याः । ताः **अग्रे** सर्वेषां प्रथमत एव **योनिं** गृहम् **आ** **रोहन्तु** आगच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let these women who are not widows, who have good husbands, enter (anointed) with unguent andbutter. Let women without tears, without sorrow, and decorated with jewels, first proceed to the house.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These women here, non-widows with good husbands—let them, with  fresh butter as ointment, approach together.  
 Without tears, without afflictions, well-jeweled, let the wives first mount  the womb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let these unwidowed dames with noble husbands adorn themselves with fragrant balm and unguent.  
      Decked with fair jewels, tearless, free from sorrow, first let the dames go up to where he lieth.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 These women here, non-widows, with good husbands, Let them provide themselves with fat and butter. Tearless and free from care, well-decked with jewels, Let first these wives ascend the place of mourning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Frauen, Nichtwitwen mit guten Gatten, sollen mit Butter als Augensalbe gesalbt sich niederlegen. Ohne Tränen, frei von Krankheit, mit schönen Kleinodien sollen die Frauen zuerst das Lager wieder besteigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit fettem Oel und Salben mögen kommen die Weiber hier, vermählt und nicht verwitwet, Die Stätte mögen sie zuerst beschreiten, die schöngeschmückten, ohne Leid und Thränen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти жены, не вдовые, счастливые в браке,  
 Пусть натрутся маслом как притиранием!  

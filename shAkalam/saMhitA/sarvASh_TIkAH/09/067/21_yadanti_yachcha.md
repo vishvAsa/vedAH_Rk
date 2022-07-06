@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अ꣡न्ति य꣡च् च दूरके꣡  
 भयं꣡ विन्द꣡ति मा꣡म् इह꣡  
 प꣡वमान वि꣡ त꣡ज् जहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑मान । वि । तत् । ज॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -94,20 +94,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** पूयमान पुनान वा सोम **यत्** **भयम्** **अन्ति** अन्तिके तथा **यञ्च** भयं **दूरके** अतिदूरे देशे अथवा **इह** अस्मिन् प्रदेशेऽपि भयं **मां** **विन्दति** लभते प्राप्नोति **तत्** भयं त्वं **वि** **जहि** विशेषेण नाशय । यद्वा । इहेति यज्ञोऽयं लोको वा । अस्मिन् क्रियमाणे यज्ञेऽस्मिँल्लोके वा यद्भयं व्याप्नोति तन्नाशयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever fear seizes me, near, afar off, or here, purified (**Soma**) dispel that (fear).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What peril nearby and what at a little distance finds me here—  
 o self-purifying one, smash that away.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -116,23 +116,23 @@ This is the last tṛca of the hymn, attributed to Vasiṣṭha. The 1st two vss
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavamana, drive away the danger, whether near at hand  
      Or far remote, that finds me here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eine Gefahr, die nah oder fern mich hier trifft, die vertreibe, o Pavamana!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn in der Nähe hier Gefahr und in der Ferne mich erreicht, So schlage fort sie, flammender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какая опасность вблизи и какая далеко  
 Подстерегает меня здесь,  

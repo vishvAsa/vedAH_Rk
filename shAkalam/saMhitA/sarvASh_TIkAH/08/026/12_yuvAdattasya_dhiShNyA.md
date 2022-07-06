@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवा꣡दत्तस्य धिष्णिया  
 युवा꣡नीतस्य सूरि꣡भिः  
 अ꣡हर्-अहर् वृषण म꣡ह्य° शिक्षतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अहः॑ऽअहः । वृ॒ष॒णा॒ । मह्य॑म् । शि॒क्ष॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvādattasya* ← *yuvādatta*
 - \[noun\], genitive, singular, masculine
@@ -73,40 +73,40 @@ genre M
 हे **धिष्ण्या** धिष्ण्यौ धिषणार्हौ स्तुत्यौ वृषणौ कामानां सेक्तारावश्विनौ **सूरिभिः** । ‘सुपां सुपो भवन्ति' इति चतुर्थ्यास्तृतीया । सूरिभ्यः स्तोतृभ्यः **युवादत्तस्य** युवाभ्यां यत्स्तोतृभ्यो दीयते तत् तथा **युवानीतस्थ** युवाभ्यां यत्स्तोतृभ्यो नीयते तञ्च धनादिकम् **अहरहः** अहन्यहनि **मह्यं** विश्वमनसे स्तोत्रं कुर्वाणाय युवां **शिक्षतं** प्रयच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adorable showerers (of benefits), bestow daily upon me (some) of that (wealth) which is given by you,which is brought by you for the worshippers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O holy ones, out of what is given by you and what is brought by you, do your best for me along with my patrons day after day, o bulls.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take sūríbhiḥ as an instr. of accompaniment “for me along with my patrons,” but Geldner’s view, that the patrons are the middlemen distributing the goods, is possible: “do your best for me by means of / through my patrons.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gods whom we yearn for, of your gifts, of what ye bring to us, bestow  
      By princes' hands on me, ye Mighty, day by day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dem von euch geschenkten, ihr ......., von dem von euch zugewendeten Reichtum denket mir Tag für Tag durch die freigebigen Herren etwas zu, ihr Bullen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dem, was ihr, freigiebige, gebracht, geschenkt habt, theilet mit Mir durch die Fürsten Tag für Tag, o Helden ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из данного вами, о возбуждающие вдохновение,  
 Из принесенного вами через (наших) покровителей  

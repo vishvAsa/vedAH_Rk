@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धिष्व꣡ व꣡ज्रं ग꣡भस्तियो  
 रक्षोह꣡त्याय वज्रिवः  
 सासहीष्ठा꣡ अभि꣡ स्पृ꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒स॒ही॒ष्ठाः । अ॒भि । स्पृधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhiṣva* ← *dhā*
 - \[verb\], singular, Aorist imperative
@@ -76,40 +76,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वज्रिवः** वज्रवन्निन्द्र **गभस्त्योः** आत्मीययोर्हस्तयोः **वज्रं** कुलिशं **धिष्व** धारय । किमर्थम् । **रक्षोहत्याय** रक्षसां हननार्थम् । धृत्वा च **स्पृधः** स्पर्धमानाः **अभि** अभिगन्त्रीरासुरीः सेनाः **ससहीष्ठाः** अत्यर्थमभिभव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wielder of the thunderbolt, take the bolt in your **hands** for the destruction of **rākṣasas**, and uttely overthrow those who defy you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Set your mace in your hands to smash the demons, mace-bearer. You should overpower your opponents.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The precative perfect sāsahīṣṭhāḥ is striking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Grasp in thine arms the thunderbolt, O Thunder-armed, to slay the fiends:  
      Mayst thou subdue the foemen's host.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nimm die Keule in die Hände, um den Unhold zu erschlagen, du Keulenträger! Bezwinge die Nebenbuhler!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimm in die Arme, Blitzes Herr, zur Unholdtödtung deinen Blitz, Die Feinde überwältige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вложи себе в руки ваджру  
 Для убийства ракшасов, о повелитель ваджры!  

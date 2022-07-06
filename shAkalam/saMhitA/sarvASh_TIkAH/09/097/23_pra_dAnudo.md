@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ दानुदो꣡ दिवियो꣡ दानुपिन्व꣡  
 ऋत꣡म् ऋता꣡य पवते सुमेधाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ रश्मि꣡भिर् दश꣡भिर् भारि भू꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ध॒र्मा । भु॒व॒त् । वृ॒ज॒न्य॑स्य । राजा॑ । प्र । र॒श्मिऽभिः॑ । द॒शऽभिः॑ । भा॒रि॒ । भूम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -114,20 +114,20 @@ genre M
 दिव्योदिविभवः दानुदः दातृभ्योधनादीनान्दाता तदेवाह दानुपिन्वः पिविसेचने कर्मण्यणित्यण् दातृभ्यः कामानां रक्षयिता सुमेधाः शोभनप्रज्ञः सोमः ऋताय सत्यभूता- येन्द्राय तं सत्यभूतमात्मीयं रसम्पवते प्रकर्षेण क्षरति । राजा दीप्यमानः सोमः वृजन्यस्य साधुबलस्य धर्मा धारयिता भुवद्भवति । किञ्च दशभिः एतत्सञ्ज्ञकाभीरश्मिभिः कर्म- करणार्थमश्नुवानाभिः अङ्गुलिभिः भूम प्रभूतं प्रभारि प्रभार्यते चिणिरूपं ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine benefactor of givers, poured (boons) on givers, the intelligent (**Soma**) distils his true beverage for true (**Indra**); the radiant (Soma) is the upholder of strength, he is entirely restrained by the ten fingers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The divine giver of drops, sweller of drops, (goes) forth. As truth, he  purifies himself for truth, the very wise one.  
 Possessing the (royal) mandate, he has become the king of what belongs  to the community. He has been brought forward to the earth by the  ten reins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since √pū does not appear with prá, it’s best to supply a verb of motion with the prá opening pāda a and take b (with pavate) separately. Note the alliteration in pāda a … dānudó divyó dānu(-pinváḥ).
 
@@ -154,23 +154,23 @@ Karṇaśrut Vāsiṣṭha, a name that has no source in the text and is not oth
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Sage, Celestial, liberal, raining bounties, pours as he flows the Genuine for the Truthful.  
      The King shall be effectual strength's upholder: he by the ten bright reins is mostly guided.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der himmlische Gabenspender strömt gabenschwellend hervor; der Weise, das verkörperte Gesetz, läutert sich für die Opfersatzung. Er ward der maßgebende König eines jeden, der zur Opfergemeinschaft gehört. Mit zehn Zügeln ward er reichlich vorangebracht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels weiser Träufler, reichlich träufelnder ergiesst den heil'gen Saft dem heil'gen Gotte; Der Ortsgemeinde Fürst ist er und Ordner; zehn Zügel haben ihn gelenkt zur Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (движется) вперед дарящий влагу, небесный, набухший от влаги.  
 Вселенский закон, он очищается по закону, очень мудрый.  

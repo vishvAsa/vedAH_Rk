@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने पवाक+ रोचि꣡षा  
 मन्द्र꣡या देव जिह्व꣡या  
 आ꣡ देवा꣡न् वक्षि य꣡क्षि च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 आ । दे॒वान् । व॒क्षि॒ । यक्षि॑ । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -88,27 +88,27 @@ genre M
 हे **पावक** शोधक **रोचिषा** स्वदीप्त्या **मन्द्रया** देवानां मादयित्र्या **जिह्वया** च हे **देव** द्योतमान **अग्ने** **देवान्** **आ** **वक्षि** यज्ञार्थम् आवह । **यक्षि** **च** । तान् यज ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine purifier, **Agni**, with your radiant and plural asing tongue, bring hither and worship the gods”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O purifying Agni, with your radiance and with your gladdening  
 tongue, o god,  
 convey the gods hither and sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O AGNI, Holy and Divine, with splendour and thy pleasant tongue  
      Bring hither and adore the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, purifier! With thy splendour, with thy delightful tongue, O god, bring hither the gods and perform the sacrifice.
 </details>
@@ -121,17 +121,17 @@ Bring hither the gods and sacrifice.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gott Agni, du Heller, bring mit deinem Glanze, mit deiner wohlklingenden Zunge die Götter her und opfere ihnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entflammter Agni, fahr, o Gott, mit holder Flammenzunge her Die Götter und verehre sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О чистый Агни, пламенем,  
 Веселым языком, о бог,  

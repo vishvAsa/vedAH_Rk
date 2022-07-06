@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ ये꣡ ते अग्ने भेजिरे꣡ अ꣡नीकम्  
 म꣡र्ता न꣡रः पि꣡त्रियासः पुरुत्रा꣡  
 उतो꣡ न एभिः꣡ सुम꣡ना इह꣡ स्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 उ॒तो इति॑ । नः॒ । ए॒भिः । सु॒ऽमनाः॑ । इ॒ह । स्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -111,36 +111,36 @@ genre M
 हे **अग्ने** **ते** तव **अनीकं** तेजः **पित्र्यासः** पितृहिताः आर्षेया वा **मर्ताः** मनुष्याः **नरः** कर्मणां नेतारः **ये** यजमानाः **पुरुत्रा** बहुषु देशेषु **वि** **भेजिरे** विभजन्ते । आदधुरिति यावत् । तेषामिव **नः** अस्माकम् **उतो** अपि **एभिः** स्तुतैः सह स्तोत्रैर्वा **सुमनाः** अनुग्राहकमनाः सन् **इह** यज्ञे **स्थाः** भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Patriarchal mortals, leaders or rites have shared, **Agni**, your radiance in many plural ces; (propitiated) bythese our (praises, as by theirs), be present at this sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our ancestral, mortal men, who shared among themselves your face  many times, o Agni—  
 also because of these you should be favorable here to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the patriarchal men, the mortals who have in many places spread thy lustre,-  
      Be gracious to us here for their sake also.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welche sterblichen, unter den Manen weilenden Männer, dein Antlitz an vielen Orten verteilt haben, o Agni, durch deren Lobreden mögest du auch uns hier wohlgesinnt sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die oftmals, Agni, dir dein Licht ertheilten als Sterbliche, die väterlichen Männer, Mit denen sei du wohlgesinnt auch uns hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто твой лик разделил, о Агни,  
 По многим местам, смертные мужи из числа предков,  

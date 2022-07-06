@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मा असृग्रम् आश꣡वो  
 म꣡धोर् म꣡दस्य धा꣡रया  
 अभि꣡ वि꣡श्वानि का꣡विया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒भि । विश्वा॑नि । काव्या॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
@@ -79,37 +79,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **आशवः** शीघ्राः **सोमाः** **असृग्रम्** असृग्रन् सृज्यन्ते । **मधोः** मधुरस्य **मदस्य** मदकरस्य **धारया** असृग्रमिति संबन्धः । किं प्रति उच्यते । **अभि** लक्षीकृत्य **विश्वानि** सर्वाणि **काव्या** काव्यानि स्तोत्राणि प्रति । स्तोत्रसमय इत्यर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The swift-flowing **Soma**-juices have issued in a stream of the sweet exhilarating (beverage), at (the recital of) all the praise (of the sages).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The swift soma juices have surged forth in a stream of honey, of  
 exhilaration,  
 toward all our poems.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SWIFT Soma drops have been effused in streams of meath, the gladdening drink,  
      For sacred lore of every kind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die raschen Rennpferde, die Somasäfte sind mit dem Guß des süßen Rauschtranks losgelassen, um alle Sehergaben zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schnellen Soma's sind entsandt im Strom des süssen Wonnetranks Zu allen Lobgesängen hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выпущены быстрые соки сомы  
 Потоком сладкого пьянящего напитка,  

@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡नेषु जायु꣡र् म꣡र्तेषु मित्रो꣡  
 वृणीते꣡ श्रुष्टिं꣡ रा꣡जेवाजुर्य꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 वने॑षु । जा॒युः । मर्ते॑षु । मि॒त्रः । वृ॒णी॒ते । श्रु॒ष्टिम् । राजा॑ऽइव । अ॒जु॒र्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
@@ -71,7 +71,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 वनेष्विति द्वैपदं दशर्चमध्ययनतः पञ्चर्चं तृतीयं सूक्तं पराशरस्यार्षमाग्नेयम् । वनेष्वित्यनुक्रान्तं ॥ विनियोगो लैङ्गिकः ॥Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -82,41 +82,41 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Havyavāḥ = bearer of oblations to the gods; three **Agnis**: havyavāḥ (**havyavāhana**), that which conveys offerings to the gods; kavyavāḥ, that which conveys them to the **pitṛs** or manes; saharakṣas, that which receives those offered to the **rākṣasas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A conqueror amid the wood, an ally among mortals;  
 like a king he demands obedience without fail.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ‘Demand’ may push √vṛ ‘choose’ a bit, but the simile suggests a degree of coercion.
 
 Adverbial ajuryám is lit. ‘undecaying, unaging’, but in the developed sense ‘unfailing’ or, in English idiomatic terms, ‘without fail’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 VICTORIOUS in the wood, Friend among men, ever he claims obedience as a King.  
      Gracious like peace, blessing like mental power, Priest was he, offering-bearer, full of thought.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Victorious 1 in the forests, a friend among men, he demands obedience like a king, the undecaying one 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In den Hölzern Sieger, unter Menschen der Freund, beansprucht er wie der König Gehorsam ohne nachzulassen
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Hölzern siegreich, – ein Freund der Menschen heischt stets Gehorsam – er wie ein König, Wie Friede heilvoll, – wie Kraft voll Segen, als treuer Priester – die Opfer fahrend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

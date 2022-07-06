@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ हि꣡ क्षत्र꣡म् अ꣡विह्रुतं  
 सम्य꣡ग् असुर्य᳡म् आ꣡शते°  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सु꣡वर् ण꣡ धायि दर्शत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । व्र॒ताऽइ॑व । मानु॑षम् । स्वः॑ । न । धा॒यि॒ । द॒र्श॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -109,36 +109,36 @@ genre M
 **ता** **हि** । हीति हेतौ । यस्मात् ता तौ **क्षत्रं** बलम् **अविह्रुतम्** अहिंस्यम् **असुर्यम्** असुरविघाति महद्बलं **सम्यक्** **आशाते** व्याप्नुतः **अध** अतो हेतोः **मानुषं** मनुष्येषु प्रवृत्तं **व्रतेव** कर्मेव तद्यथा मनुष्येषु नियतं **स्वर्ण** सूर्य इव स यथा दिवि दृश्यते तद्वत् **दर्शतं** दर्शनीयं बलं **धायि** यज्ञे निहितम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch as you two are possessed of irresistible and **asura**-subduing strength, therefore has holy sacrifice been established among men, as the sun (has been plural ced) in the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because these two together have achieved lordly dominion that is not  overturned,  
 so then, like the lovely sun, (their dominion) over the sons of Manu has  been set in place like their commandments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For they have won unbroken sway in full perfection, power divine.  
      And, like high laws, the world of man hath been made beautiful as light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn die zwei haben die unumstößliche Herrschaft und vollständig die Asurawürde erlangt. Und ihre Gesetze sind wie das menschliche Gesetz gleich der Sonne sichtbar aufgerichtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ungebeugte Herrschermacht und Gottheit ist ihr gleiches Theil; Da ward gleichwie ein Menschenwerk die schöne Sonne hingesetzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь они двое достигли непререкаемой власти,  
 Полного асурского господства.  

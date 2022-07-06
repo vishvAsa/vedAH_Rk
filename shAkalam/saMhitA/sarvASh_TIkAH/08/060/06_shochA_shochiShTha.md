@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शो꣡चा शोचिष्ठ दीदिहि꣡ विशे꣡ म꣡यो  
 रा꣡स्व स्तोत्रे꣡ महाँ꣡ असि  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 शत्रूषा꣡हः सुअग्न꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दे॒वाना॑म् । शर्म॑न् । मम॑ । स॒न्तु॒ । सू॒रयः॑ । श॒त्रु॒ऽसहः॑ । सु॒ऽअ॒ग्नयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śocā* ← *śoca* ← *śuc*
 - \[verb\], singular, Present imperative
@@ -114,7 +114,7 @@ genre M
 हे **शोचिष्ठ** अतिशयेन शोचयितरने **शोच** दीप्यस्व । **दीदिहि** दीपयास्मान् । **विशे** प्रजायै **स्तोत्रे** **मयः** सुखं **रास्व** देहि । त्वं **महानसि** । **देवानां** संबन्धिनि **शर्मन्** शर्मणि सुखे **मम** **सूरयः** स्तोतारो मेधाविनोऽस्माकं पुत्रादयो वा **सन्तु** भवन्तु। **शत्रूषाहः** **शत्रूणामभिभविता** **स्वग्नयः** शोभनाग्नयश्च सन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,30 +125,30 @@ genre M
 My priests: sūrayaḥ = stotaro medhāvinaḥ asmākam putrādayo vā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Blaze bright, brightest blazing one; shine joy for the clan. Give to the  praiser. You are great!  
 Let my patrons, overpowering their rivals and endowed with good fires,  be under the shelter of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Shine, Most Resplendent! blaze, send bliss unto the folk, and to thy worshipper  
      Great art thou.  
      So may my princes, with good fires, subduing foes, rest in the keeping of the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Flamme, du Flammendster, scheine dem Stamme Freude zu, spende dem Sänger; du bist der Große. Meine Lohnherren sollen in der Götter Hut sein, die Feinde bezwingend, von Agni begünstigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O hellster, leuchte, strahl dem Hause Wonne zu, dem Sänger spende, gross bist du; Im Schutz der Götter seien meine Opferherrn feindschlagend und dem Agni lieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пылай, о самый пылающий, просверкай радость для племени,  
 Одари восхвалителя! Ты велик.  

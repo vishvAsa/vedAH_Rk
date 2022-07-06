@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रः सुशि꣡प्रो मघ꣡वा त꣡रुत्रो  
 महा꣡व्रातस् तुविकूर्मि꣡र् ऋ꣡घावान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कु꣡व त्या꣡ ते वृषभ वीरि꣡याणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । उ॒ग्रः । धाः । बा॒धि॒तः । मर्त्ये॑षु । क्व॑ । त्या । ते॒ । वृ॒ष॒भ॒ । वी॒र्या॑णि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 **वृषभ** कामानां वर्षक हे इन्द्र यस्त्वम् **इन्द्रः** परमैश्वर्यसंपन्नः **सुशिप्रः** । शिप्रशब्देन शिरस्त्राणमभिधीयते । शोभनशिरस्त्राणोपेतः । यद्वा शोभनहनुमान् । ‘शिप्रे हनू नासिके वा ' ( निरु. ६. १७) इति यास्कः । **मघवा** धनवान् **तरुत्रः** । तरन्त्यनेन शत्रून्देवा इति तरुत्रः इन्द्रः । **महाव्रातः** मरुद्भिर्महान् व्रातः समूहो यस्येति स तथोक्तः ।"तुविकूर्मिः संग्रामे नानाविधकर्मणां कर्ता **ऋघावान्** शत्रुविषयहिंसावान् अत एव **उग्रः** शत्रूणां भयंकरः स तादृशस्त्वं **बाधितः** असुरैः संग्रामे बाधितः सन् **मर्त्येषु** मारयितृषु असुरेषु **यत्** यानि वीर्याणि **धाः** व्यधा इदानीं **ते** तव **त्या** तानि **वीर्याणि** **क्व** क्वासते वद ॥ सुशिप्रः । ‘सृप्लृ गतौ ' । औणादिको रन्प्रत्ययः । बाहुलकात् सृ इत्यस्य शि इत्यादेशः । बहुव्रीहौ आद्युदात्तं द्व्यच्छन्दसि ' इत्युत्तरपदाद्युदात्तत्वम् । तरुत्रः । तरतेः  अशित्रादिभ्य इत्रोत्रौ' इत्युत्रप्रत्ययः । व्यत्ययेनाद्युदात्तत्वम् । महाव्रातः । 'आन्महतः' इत्याकारादेशो महतस्तकारस्य । तुविकूर्मिः । करोतेरौणादिको मिप्रत्ययः । गुणे कृते करोतेरकारस्योत्वं छान्दसम् । ‘हलि च' इति दीर्घः। ऋघावान् । ऋन् ( नॄन्) हन्तीत्यृघाः । अन्येभ्योऽपि दृश्यन्ते' इति विच् । दृशिग्रहणान्नलोपो हकारस्य घत्वम् । तदस्यास्तीति मतुबर्थे छन्दसीवनिपौ' इति वनिप् । व्यत्ययेनाद्युदात्तः । क्व । किंशब्दस्य सप्तम्यर्थे ‘किमोऽत्' इत्यत्प्रत्ययः । तस्मिन् ‘ क्वाति' इति क्वादेशः । तित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M
 The wearer of the helmet: su'**sipra** = having a handsome nose, or chin (**Nirukta** 6.17); now a new meaning is given: **śiras** strāṇam = a guard of the head, a helmet; the conveyor of men beyond evil: tarutra = he by whom the gods surpass or defeat the asuras
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra of good lips, bounteous, overwhelming, having a great troop,  powerfully ranging, mettlesome—  
 that which you, powerful one, established among mortals, even when  hard-pressed, where are these manly powers of yours now, bull?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2nd member of tuvikūrmí-, an epithet of Indra, is generally now derived from the seṭ root √cari , a derivation already found in AiG I.24, 141, 152 -- hence my ‘powerfully ranging’. See EWA s.v. tuvikūrmí-. The older deriv. from √kṛ (e.g., Grassmann, Wh Rts; explicitly rejected by AiG II.2.776) is nonetheless still reflected in the standard tr.: Geldner “der Tatenreiche,” Renou (with hesitation) “aux actes (?) puissants,” Witzel Gotō “der mächtig Wirkende” -- even though AiG I (1896) predates all of them by a good margin, well over a century in the case of Witzel Gotō! There is number incongruence between the neut. sg. yád of the rel. clause and neut. pl. tyā́… vīryā̀ṇi. The yád is, as it were, an anticipatory collective: “what(ever) you did … where are those deeds?”
 
@@ -154,23 +154,23 @@ The next two vss. develop the theme sounded in pāda d of vs. 1.: Indra’s abse
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fair cheeks hath Indra, Maghavan, the Victor, Lord of a great host, Stormer, strong in action.  
      What once thou didst in might when mortals vexed thee,-where now, O Bull, are those thy hero exploits?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra mit schönen Trinkerlippen, der Gabenreiche, der Überwinder mit der großen Heerschar, der Tatenreiche, Drohende - was du, der Gewaltige, unter den Sterblichen in der Bedrängnis tatest, wo bleiben diese deine Heldentaten, du Bulle?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schönbehelmte mächt'ge Sieger wirket mit grosser Schar viel Thaten Indra, stürmend, Wo sind, o starker, deine Heldenkräfte, dass du, o Stier, bestürmt den Menschen Gut schenkst?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра прекрасногубый, щедрый, пересекающий (опасности),  
 С великим войском, решительный в деле (?), неистовый...  

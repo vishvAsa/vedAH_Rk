@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सावि सो꣡म इन्द्र ते  
 श꣡विष्ठ धृष्णव् आ꣡ गहि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 र꣡जः सू꣡र्यो न꣡ रश्मि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 आ । त्वा॒ । पृ॒ण॒क्तु॒ । इ॒न्द्रि॒यम् । रजः॑ । सू॒र्यः॑ । न । र॒श्मिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asāvi* ← *su*
 - \[verb\], singular, Aorist passive
@@ -112,41 +112,41 @@ genre M
 हे **इन्द्र** **ते** त्वदर्थं **सोमः** **असावि** अभिषुतोऽभूत् । हे **शविष्ठ** अतिशयेन बलवन् अत एव **धृष्णो** शत्रूणां धर्षयितरिन्द्र **आ** **गहि** देवयजनदेशमागच्छ । आगतं च त्वाम् **इन्द्रियं** सोमपानेनोत्पन्नं प्रभूतं सामर्थ्यम् **आ** **पृणक्तु** आपूरयतु । **रजः** अन्तरिक्षं **रश्मिभिः** किरणैः **सूर्यो** **न** । यथा सूर्यः पूरयति तद्वत् ॥ शविष्ठ । शवस्विञ्शब्दात् इष्टनि ‘ विन्मतोर्लुक्'।' टेः' इति टिलोपः । पादादित्वात् निघाताभावः । गहि । गमेर्लोटि: बहलं छन्दसि ' इति शपो लुक् ।' अनुदात्तोपदेश इत्यादिना अनुनासिकलोपः । तस्य ‘असिद्धवदत्रा भात्' इति असिद्धवत्त्वात् हेः लुगभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** has been expressed, **Indra**, for you; potent humber (of your foes), approach; may vigour fill you (by Soma), as the sun fills the firmament with his rays.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma has been pressed for you, Indra. O strongest bold one,  come here.  
 Let Indrian strength permeate you, as the sun permeates the airy realm  with its rays.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unlike the standard tr., Witzel Gotō take rájaḥ ‘Raum’ with the frame, not the simile: “… soll dich (und) den Raum erfüllen, wie die Sonne …” I assume this is because the simile particle ná, which usually follows the first word of a simile, here follows the second word, by most interpretations (rájaḥ sū́ryo ná raśmíbhiḥ). This does not seem to me sufficient reason to split apart this cosmological image. I attribute the position of ná to the particularly close association of sū́rya- and raśmíbhiḥ, which are frequently adjacent (cf. esp. the identical simile but without a third term … sū́ryo ná raśmíbhiḥ in VIII.43.32, IX.41.5).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Soma hath been pressed for thee, O Indra; mightiest, bold One, come.  
      May Indra-vigour fill thee full, as the Sun fills mid-air with rays.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma ist für dich, Indra, ausgepresst, du Stärkster, Mutiger, komm herbei! Dich soll die Indrakraft durchdringen wie die Sonne mit ihren Strahlen den Raum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst ist Soma, Indra, dir, o stärkster, kühner, komme her; Die Indrakraft durchdringe dich, wie Sonnenstrahlen rings die Luft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжат сома для тебя, о Индра, –  
 Приди, о самый сильный, дерзкий (бог)!  

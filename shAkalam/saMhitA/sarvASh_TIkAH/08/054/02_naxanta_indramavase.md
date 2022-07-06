@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡क्षन्त इ꣡न्द्रम् अ꣡वसे सुकृत्य꣡या  
 ये꣡षां सुते꣡षु म꣡न्दसे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 एवा꣡स्मे꣡ इन्द्र मत्सुव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यथा॑ । स॒म्ऽव॒र्ते । अम॑दः । यथा॑ । कृ॒शे । ए॒व । अ॒स्मे इति॑ । इ॒न्द्र॒ । म॒त्स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakṣanta* ← *nakṣante* ← *nakṣ*
 - \[verb\], plural, Present indikative
@@ -112,37 +112,37 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They have drawn near **Indra** with holy rites for his protection, they in whose libations you rejoice; as youdid rejoice in **Samvara** and **Kṛśa**, so now, Indra, do you rejoice in us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With their good (ritual) work they approach Indra for help—they at  whose pressings you reach exhilaration.  
 Just as you became exhilarated at Saṃvarta’s, at Kr̥śa’s, just so become  exhilarated among us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 índram in pāda a, apparently 3rd ps., is co-referential with the 2nd sg.
 
 subject of mándase in the relative clause of b, but this kind of slippage is common.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie kommen zu Indra um Beistand mit ihrer Kunst, an deren Soma du dich ergötzest. Wie du dich bei Samvarta ergötztest, wie bei Krisa, so ergötze dich bei uns, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Indra, nahn mit heil'gem Werk um Hülfe sie, an deren Tränken du dich labst; Wie du bei Kriça, bei Samvarta dich berauscht, berausch bei uns auch, Indra, dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они пришли к Индре со (своим) искусством,  
 (Те,) чьими выжатыми (соками сомы) ты опьяняешься,  

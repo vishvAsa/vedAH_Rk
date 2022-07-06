@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् अ꣡त्र दस्रा कृणुथः कि꣡म् आसथे°  
 ज꣡नो यः꣡ क꣡श् चिद् अ꣡हविर् महीय꣡ते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ज्यो꣡तिर् वि꣡प्राय कृणुतं वचस्य꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अति॑ । क्र॒मि॒ष्ट॒म् । जु॒रत॑म् । प॒णेः । असु॑म् । ज्योतिः॑ । विप्रा॑य । कृ॒णु॒त॒म् । व॒च॒स्यवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
@@ -146,14 +146,14 @@ genre M
 हे **दस्रा** उपक्षपयितारौ युवाम् **अत्र** अस्मिन् मनुष्ये **किं** **कृणुथः** कुरुथः । हविषोऽभावादिति भावः । तत्रैव किमासाथे किं तिष्ठथः । अत्रेत्युक्तं कुत्रेत्याह । **यः** **कश्चित्** **जनः** जन्मवान् **अहविः** यज्ञार्थहवीरहितः **महीयते** पूज्यते स्वयं न युष्मान् पूजयति । तं जनम् **अति** **क्रमिष्टं** पराभूय तिष्ठतम् । न केवलमतिक्रममात्रं किंतु **पणेः** वणिग्भूतस्य लुब्धकस्यायष्टुः तस्य **असुं** प्राणं **जुरतम्** अहिंसिष्टम् अनीनशतम् । **विप्राय** मेधाविने **वचस्यवे** वचसः स्तोत्ररूपस्य युवाभ्यामिच्छते मह्यं **ज्योतिः** **कृणुतं** युष्मद्यजनविषयज्ञानं कुरुतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What makes you here, **Aśvins**; why do you tarry, (where) any man who makes no oblation is respected; humble him; take away the life of the niggard; grant light to the pious man striving to speak your praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What are you doing here, wondrous ones; why are you sitting (by) some  man, who, though offering no oblations, makes a great show of  
 himself.  
@@ -161,7 +161,7 @@ Pass him by; wear away the life of the niggard. Make light for the
 eloquent inspired poet.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sense of pāda a would be better conveyed by “what are you doing there?” The main cl. kím āsāthe lacks an expressed antecedent to jáno yáḥ in the following rel. cl., but it is not difficult to supply.
 
@@ -176,23 +176,23 @@ The two 2nd dual middles, vahethe (2c) and āsāthe (3a), would both be better m
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What make ye there, ye Mighty? Wherefore linger ye with folk who, offering not, are held in high esteem?  
      Pass over them; make ye the niggard's life decay: give light unto the singer eloquent in praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was tut ihr dort, ihr Meister, was sitzet ihr bei irgend einem Manne, der ohne Opfer sich großtut? Geht vorüber an ihm, macht das Leben des Knausers altern, lasset dem beredten Sprecher das Licht aufgehe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was thut ihr dort, was sitzt ihr wunderkräftige beim Volk, das alles opferlos sich mächtig dünkt? Durchschreitet sie, des Knausers Odem lasst vergehn, und Glanz verschafft dem Priester, welcher Lieder singt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что вы там делаете, о чудесные? Что же вы сидите?  
 (Ведь это) какой-то человек, который не приносит жертв, (но) возвеличивает себя!  

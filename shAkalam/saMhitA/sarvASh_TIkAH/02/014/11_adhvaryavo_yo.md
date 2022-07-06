@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवो यो꣡ दिविय꣡स्य व꣡स्वो  
 यः꣡ पा꣡र्थिवस्य क्ष꣡मियस्य रा꣡जा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रं सो꣡मेभिस् त꣡द् अ꣡पो वो अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । ऊर्द॑रम् । न । पृ॒ण॒त॒ । यवे॑न । इन्द्र॑म् । सोमे॑भिः । तत् । अपः॑ । वः॒ । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -123,37 +123,37 @@ genre M
 हेअध्वर्यवः यइन्द्रः दिव्यस्यद्युलोकार्हस्यवस्वोवसुनोराजाभवति यश्चपार्थिवस्य पृथिवीशब्देन- विस्तीर्णमन्तरिक्षमुच्यते तत्रत्यन्धनम्पार्थिवं तस्यराजा यश्चक्षम्यस्यक्षमाभूमिः तत्रत्यन्धनङ्क्षम्यन्तस्य- चराजाभवति तमेवंविधमिन्द्रंसोमेभिःसोमैः पृणतपूरयत तत्रदृष्टान्तः—ऊर्दरन्न ऊर्ध्वन्दीर्णमूर्दरङ्कुसूलं यथायवेनपूर्णन्तद्वदिन्द्रम्पूरयतेति तत् तादृशंसोमादिनेन्द्रोदरपूरणलक्षणमपःकर्म वोयुष्माकमस्तु ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Priests, fill with libations, as a granary (is filled) with barley, **Indra**, who is the lord of the riches of heaven, of mid-heaven, of earth; and may such (pious) act be for your (good).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus! Who is king of the heavenly good, who of the land’s  earthly good,  
 fill Indra with soma juices, like a granary with barley. Let that be  
 your labor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, ministers, the Lord of heavenly treasure and all terrestrial wealth that earth possesses,  
      Him, Indra, fill with Soma as a garner is filled with barley full: be this your labour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Der König ist des himmlischen Guts, des irdischen, das im Boden liegt, den Indra füllet mit Soma wie ein Speicher mit Korn ! Das soll euer Geschäft sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Priester, ihn, den Herrn des Gut's im Himmel, und was auf Erden oben und im Innern, Den Indra füllt mit Soma, wie der Scheffel mit Korn gefüllt wird, das soll euer Werk sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью! Кто царь небесного добра,  
 Кто земного (и) того, что в почве, –  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अ꣡र्वन्तं न꣡ सानसिं꣡  
 गृणीहि꣡ विप्र शुष्मि꣡णम्  
 मित्रं꣡ न꣡ यातय꣡ज्जनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मि॒त्रम् । न । या॒त॒यत्ऽज॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -86,35 +86,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **विप्र** मेधाविन् स्तोतः **अर्वन्तं** **न** अश्वमिव **सानसिं** संभजनीयं **शुष्मिणं** बलिनं **मित्रं** **न** सखायमिव **यातयज्जनं** हतशत्रुजनं **तम्** अग्निं **गृणीहि** स्तुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O priest, glorify him, who is welcome and strong as a horse, and who like a friend conquers all foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing him, o poet, like a winning steed, the tempestuous one, who arranges the peoples in their places, like Mitra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sage, laud the Mighty One who wins the spoil of victory like a steed,  
      And, Mitra like, unites the folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn lobe wie ein vielgewinnendes Rennpferd, o Redekundiger, den Ungestümen, der wie Mitra die Menschen eint!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der wie ein Renner Preis gewinnt, der wie ein Freund die Menschen eint, Den starken preise, Sänger du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспевай его, как скакуна,  
 Приносящего победу, о поэт, неистового,  

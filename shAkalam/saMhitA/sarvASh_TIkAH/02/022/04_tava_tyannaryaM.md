@@ -6,7 +6,7 @@ ChandaH = "अतिशक्वर्यष्टिर्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व त्य꣡न् न꣡रियं नृतो  
 अ꣡प इन्द्र प्रथम꣡म् पूर्वियं꣡ दिवि꣡  
@@ -18,7 +18,7 @@ ChandaH = "अतिशक्वर्यष्टिर्वा"
 विदा꣡द् इ꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -41,7 +41,7 @@ genre M
 भुव॑त् । विश्व॑म् । अ॒भि । अदे॑वम् । ओज॑सा । वि॒दात् । ऊर्ज॑म् । श॒तऽक्र॑तुः । वि॒दात् । इष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -200,7 +200,7 @@ genre M
 विदिर् लाभे शाविकरणी लेट्याडागमः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -211,31 +211,31 @@ genre M
 The delighter of all: nṛto = lit. dancer; one who dances of exults in battle; here, it means nartayitrī, one who causes to dance or to rejoice; of the enemy of the gods: the text has only **devasya**, of the divine, or the deity; this is explained as asurasya; asum riṇan = prāṇam himsan, injuring or taking away the breath or life, in consequence of which Indra sends down the water or rain, prāriṇāḥ āpaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This manly deed of yours, o dancing Indra, the foremost work done  by you, is to be proclaimed early in the day—  
 that by the power of a god you let life flow forward by letting the waters  flow.  
 He will overcome every godless one by his strength. He of a hundred  resolves will find nourishment; he will find refreshment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This, Indra, was thy hero deed, Dancer, thy first and ancient work, worthy to be told forth in heaven,  
      What time thou sentest down life with a God's own power, freeing the floods.  
      All that is godless may he conquer with his might, and, Lord of Hundred Powers, find for us strength and food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies mannhafte Werk von dir, du Tänzer Indra, ist als die erste Tat früh am Tag zu verkünden, daß du durch die Kraft des Gottes den Lebenshauch frei strömen ließest, indem du die Wasser strömen ließest. Jedem Gottlosen war er an Stärke überlegen. Er schaffte Stärkung, der Ratreiche, er schaffe Labung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein ist, o Held, dies Manneswerk, dies erste und dies alte Werk, die That im Himmel rühmenswerth, Dass du mit Kraft des Dämons Lebenshauch geraubt, die Flut befreit; Mit macht bezwing' er alles, was ungöttlich ist, und schenke Speise, der gewalt'ge schenke Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это твое мужественное деяние, о плясун Индра, следует провозгласить  
 В самом начале дня как первое свершение –  

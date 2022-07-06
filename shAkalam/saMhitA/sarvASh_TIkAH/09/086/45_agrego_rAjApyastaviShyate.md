@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्रेगो꣡ रा꣡जा अ꣡पियस् तविष्यते  
 विमा꣡नो अ꣡ह्नाम् भु꣡वनेषु अ꣡र्पितः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ज्योती꣡रथः पवते राय꣡ ओकि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 हरिः॑ । घृ॒तऽस्नुः॑ । सु॒ऽदृशी॑कः । अ॒र्ण॒वः । ज्यो॒तिःऽर॑थः । प॒व॒ते॒ । रा॒ये । ओ॒क्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agrego* ← *agregaḥ* ← *agrega*
 - \[noun\], nominative, singular, masculine
@@ -108,7 +108,7 @@ genre M
 **अग्रेगः** अग्रे गन्ता **राजा** राजमानः **अप्यः** अप्सु संस्कृतः सोमः **तविष्यते** स्तूयते । यः **अह्नां** दिनानां **विमानः** निर्माता चन्द्रकलाहासवृद्ध्यधीनत्वादहर्व्यवहारस्य । **भुवनेषु** उदकेषु वसतीवरीसंबन्धिषु **अर्पितः** स्थापितः स राजा तविष्यते। किंच **हरिः** हरितवर्णः **घृतस्नुः** प्रसृतोदकः **सुदृशीकः** शोभनदर्शनः **अर्णवः** उदकवान् । अर्ण इत्युदकनाम। **ज्योतीरथः** ज्योतिर्मयरथः **राये** धनस्य प्रापयिता । **ओक्यः** । ओक इति निवासनाम । तस्य हितः ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ genre M
 The measure of days: beacause, the rule as to the length of day depends on the increase and decrease of the moon's digits, Soma being here regarded as the moon
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Going in the vanguard, the king who is found in the waters displays his  power, the measure(r) of the days, fitted into the worlds.  
 The ghee-backed fallow bay, a flood lovely to see, having light as his  chariot, accustomed to wealth, purifies himself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In a agre-gáḥ echoes ágre áhnām in 42a; in our vs. áhnām appears in the following pāda, dependent on something else (vimā́naḥ), though Renou supplies it with agregáḥ as well.
 
@@ -143,23 +143,23 @@ This tṛca seems more artful than most of the other, with metaphor layered upon
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dweller in floods, King, foremost, he displays his might, set among living things as measurer of days.  
      Distilling oil he flows, fair, billowy, golden-hued, borne on a car of light, sharing one hom-e with wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vorangehend zeigt der im Wasser wohnende König seine Stärke, der Ausmesser der Tage, über die Welten gesetzt. Ein Falbe, der Schmalz auf dem Rücken trägt; dessen Wagen Licht ist, schön von Aussehen, läutert er sich flutend zu Reichtum, gern bleibend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Fluten König, führend sie, erweist sich stark, die Tage messend, in die Wesen eingefügt; Das schöne Ross, das wallende mit Fett bedeckt, den Lichtschein fahrend, strömt als Hausherr reiches Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

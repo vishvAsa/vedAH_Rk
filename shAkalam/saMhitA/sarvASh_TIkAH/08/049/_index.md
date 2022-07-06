@@ -8,7 +8,7 @@ title = "+049"
 श्रीगणेशाय नमः । श्रुतिकञ्जार्थलक्ष्मीं यो विकासयति हृद्गतम्( १ °ताम् ) । स पायात्सच्चिदानन्दः सूर्यमण्डलगो हरिः ।  'अभि प्र वः' इति दशर्चं प्रथमं सूक्तं प्रस्कण्वस्थार्षमैन्द्रम् । अनुक्रान्तं च--- अभि प्र दश प्रस्कण्वः प्रागाथं तत्' इति । अयुजां बृहती छन्दः । युजां सतोबृहती छन्दः । विनियोगः सूत्रादवगन्तव्यः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 49 (1018)  
 Indra  
@@ -19,7 +19,7 @@ The interest in these two hymns lies in the interplay between the quite strict  
 hetáyaḥ “missiles with a hundred facets,” where the comparandum is explicit.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra This hymn is twinned with VIII.50. Parallel aspects of the two hymns will be treated in the comments on the latter.
 </details>

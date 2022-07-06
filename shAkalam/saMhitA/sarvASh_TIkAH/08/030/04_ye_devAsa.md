@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ देवास इह꣡ स्थ꣡न  
 वि꣡श्वे वैश्वानरा꣡ उत꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ग꣡वे अ꣡श्वाय यछत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मभ्य॑म् । शर्म॑ । स॒ऽप्रथः॑ । गवे॑ । अश्वा॑य । य॒च्छ॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -97,43 +97,43 @@ genre M
 हे **देवासः** देवाः **उत** अपि च **वैश्वानराः** । विश्व सर्वे नरः कर्मनेतारोऽध्वर्य्वादयो यस्य स विश्वानरो यज्ञः । तस्मिन् सोमादिहवींषि स्वीकर्तुं भवाः प्रादुर्भूताः । भवार्थेऽण्प्रत्ययः । यद्वा । विश्वानरोऽग्निः । देवानां तन्मुखत्वात् तस्य संबन्धिनः । **विश्वे** सर्वे **ये** देवा यूयम् **इह** अस्मिन्नस्मदीये यज्ञे **स्थन** हवींष्यादातुं भवथ ततः **सप्रथः** । प्रथ प्रख्याने '। सर्वतः प्रसिद्धं सर्वत्र पृथुतमं वा **शर्म** । सर्वं शृणाति हिनस्ति दुःखमिति शर्म सुखम् । तत् **अस्मभ्यं** प्रयच्छत । तथा **गवे** अस्मदीयेभ्यो यज्ञसाधनभूतेभ्यो गोभ्यः **अश्वाय** शर्म सुखं प्रदत्त ॥ ॥ ३७॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Gods, who are here present, all to whom this full sacrifice is offered, bestow upon us, upon our cattleand horses, happiness far renowned.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O gods, all of you who are here and belonging to all men—  
 to us hold out extensive shelter, and to our cattle and horse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes víśve vaiśvānarā́utá as “and all the Vaiśvānaras” (so also Klein, DGRV), but it is the gods who are vaiśvānará-, as Geldner clearly states in his n. 4b.
 
 (Interestingly, this is the only pl. form of this stem, which otherwise, save for one passage [IX.61.16, referring to light], is used only of Agni.) The terms that are being conjoined are ihá ‘here’ and ‘belonging to all men’, not gods and Vaiśvānaras; the point is that they are here and available to us because they belong to all of us. There is also complementary contrast between “all gods” and “(belonging) to all men,” and the víśve of the former phrase has been postponed so that it can adjoin the latter: devāsaḥ …, víśve vaiśvānarā́ḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Deities who stay with us, and all ye Gods of all mankind,  
      Give us your wide protection, give shelter for cattle and for steed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter, die ihr hier seid, und alle die Vaisvanara´s haltet über uns, über Rind und Roß euren Schirm in ganzer Breite!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Götter, die bei uns ihr seid, und alle in der ganzen Welt, Erstrecket ausgedehnten Schirm zum Schutz für uns, für Ross und Rind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О боги, (те,) что находитесь здесь,  
 А также все, принадлежащие всем людям,  

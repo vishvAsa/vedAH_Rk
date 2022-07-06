@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सोम तनूकृ꣡द्भ्यो  
 द्वे꣡षोभ्यो अन्य꣡कृतेभ्यः  
 उरु꣡ यन्ता꣡सि व꣡रूथम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 उ॒रु । य॒न्ता । अ॒सि॒ । वरू॑थम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -104,7 +104,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,13 +115,13 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Yantāsi = bhavasi;you the restraint (yanta) from enemies, etc., you are a wide shelter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, for those who create your body [=soma-pressers] you hold out a  broad defense  
 from the hateful things done by others.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 By my interpr. (and Geldner’s), pādas ab contain a series of adjacent -bhyaḥ plural nominals, which by sense must be sorted into dative pl. tanūkṛ́dbhyaḥ (“for the body-makers”) and ablative pl. dvéṣobhyo anyákṛtebhyaḥ (“from hateful things done by others”). The pāda break assists in splitting up these formally identical forms. 
 
@@ -130,7 +130,7 @@ A different interpr., going back to the MS (see Geldner’s n. 3a) and followed 
 See Oldenberg for disc.; he opts for the active sense, but considers the tanū- in question to belong to the doers/makers referred to by -kṛ́t-: “(den Frommen), die tätig sind sich die eigne tanū́zu schaffen.” (Scarlatta weakly favors this.) This seems unnecessarily complex, though the usual polarity between tanū- ‘self’ and anyá- ‘other’ is an argument in its favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Soma, givest wide defence against the hate of alien men,  
      Hatreds that waste and weaken us.
@@ -142,17 +142,17 @@ Thou, O Soma, art the giver of wide protection from hostility, brought about by 
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Soma, pflegst deinen leiblichen Erzeugern eine weite Schutzwehr gegen die von anderen angetanen Feindseligkeiten zu bieten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, o Soma, reichest Schutzwehr vor den selbsterzeugten Leiden, Vor den anderwärts entstammten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Сома, тот, кто дает широкую защиту  
 От враждебных действий, вызванных самими,  

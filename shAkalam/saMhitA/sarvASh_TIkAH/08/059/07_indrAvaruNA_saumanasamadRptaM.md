@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रावरुणा सौमनस꣡म् अ꣡दृप्तं  
 राय꣡स् पो꣡षं य꣡जमानेषु धत्तम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दीर्घायुत्वा꣡य प्र꣡ तिरतं न आ꣡युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; Vālakhilya;; 12 = 5+7, ending LHX
 प्र॒ऽजाम् । पु॒ष्टिम् । भू॒ति॒म् । अ॒स्मासु॑ । ध॒त्त॒म् । दी॒र्घा॒यु॒ऽत्वाय॑ । प्र । ति॒र॒त॒म् । नः॒ । आयुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
@@ -125,14 +125,14 @@ popular;; Vālakhilya;; 12 = 5+7, ending LHX
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Indra** and **Varuṇa**, give to the offerers cheerfulness without levity, and abundance of wealth; give tous offspring, food, prosperity; prolong our lives to length of days.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Varuṇa, establish undistracted benevolence and thriving of  wealth among the sacrificers.  
 Establish offspring, prosperity, and development among us. Lengthen  our lifetime for long life.  
@@ -140,17 +140,17 @@ The grouping of the VIIIth Maṇḍala hymns that follow the Vālakhilya hymns (
 The next collection of hymns (VIII.60–66) is ascribed to Pragātha and several of  his sons. All but the first are dedicated to Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Varuna, verleihet den Opferherren Frohsinn, Besonnenheit, Zunahme des Reichtums! Uns verleihet Nachkommenschaft, Gedeihen, Wohlstand; verlängert unsere Lebenszeit zu langem Leben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra-Varuna gebt den Opferern guten, nicht verblendeten Sinn und Blüte des Reichthums; Nachkommenschaft, Nahrung, Wohlstand verleiht uns und bis zu hohem Alter verlängert unser Leben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Варуна, даруйте жертвователям  
 Радость, владение разумом, процветание богатства!  

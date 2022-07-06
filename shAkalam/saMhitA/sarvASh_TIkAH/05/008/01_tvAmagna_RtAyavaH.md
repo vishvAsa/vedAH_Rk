@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्न ऋताय꣡वः स꣡म् ईधिरे  
 प्रत्न꣡म् प्रत्ना꣡स ऊत꣡ये सहस्कृत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द꣡मूनसं गृह꣡पतिं व꣡रेणियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पु॒रु॒ऽच॒न्द्रम् । य॒ज॒तम् । वि॒श्वऽधा॑यसम् । दमू॑नसम् । गृ॒हऽप॑तिम् । वरे॑ण्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -111,42 +111,42 @@ genre M
 हे **सहस्कृत** बलस्य कर्तः **अग्ने** **प्रत्नं** पुरातनं **त्वां** **प्रत्नासः** पुरातनाः **ऋतायवः** यज्ञकामा ऋषयः **ऊतये** स्वरक्षणाय **समीधिरे** सम्यग्दीपितवन्तः । कीदृशं त्वाम् । **पुरुश्चन्द्रं** बहुधनम् अतिशयेनाह्लादकं वा **यजतं** यष्टव्यं **विश्वधायसं** बह्वन्नं **दमूनसं** दानमनसं **गृहपतिं** यजमानगृहस्य पालकं **वरेण्यं** वरणीयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Manifest of strength, **Agni**, ancient worshippers have kindled you of old for their preservation; you, the delighter of many, the adorable, the all-sustaining, the lowly-minded, the lord of the house, the excellent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, did the truth-seekers kindle—the ancients (kindled) the  ancient one—for your help, o you made with strength,  
 (you) the much-glittering, all-nurturing one worthy of the sacrifice, the  desirable master of the household, lord of the house.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O AGNI urged to strength, the men of old who loved the Law enkindled thee,  
      the Ancient, for their aid,  
      Thee very bright, and holy, nourisher of all, most excellent, the Friend and Master of the home.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, the men who love Rita have kindled, the ancient ones thee the ancient, for the sake of bliss, O (god) who art produced by strength; the highly-brilliant, worshipful, in whom all refreshment dwells, the household god, the lord of the house, the chosen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, haben die Gesetzesliebenden entzündet, dich den Alten die Altvorderen zur Gnade, du Krafterzeugter, den glanzreichen, opferwürdigen, alle labenden, vorzüglichen Gebieter und Hausherrn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Agni, haben frommgesinnte angefacht, den alten alte sich zu Nutz, o Sohn der Kraft; Den glänzenden, den hehren, welcher alle nährt, den wünschenswerthen, gastlich lieben Hausesherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, зажгли преданные закону,  
 Древнего – древние для поддержки, о созданный силой,  

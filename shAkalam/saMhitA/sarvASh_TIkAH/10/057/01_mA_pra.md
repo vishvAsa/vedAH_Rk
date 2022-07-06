@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ प्र꣡ गाम पथो꣡ वय꣡म्  
 मा꣡ यज्ञा꣡द् इन्द्र सोमि꣡नः  
 मा꣡न्त꣡ स्थुर् नो अ꣡रातयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 मा । अ॒न्तरिति॑ । स्थुः॒ । नः॒ । अरा॑तयः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -97,7 +97,7 @@ popular
 अत्रोक्ताख्याने शाट्यायनकम् - असमातिं राथप्रौष्ठं गौपायना अभ्यगमंस्ते खाण्डवे सत्रमासताथ हासमातौ राथप्रौष्ठे किलाताकुली ऊषतुरसुरमायौ तं ह स्मानग्नौ निधायौदनं पचतोऽग्नौ मांसमथासुरान्नं दग्ध्वेक्ष्वाकवः पराबभूवुः । तमसमातिं राथप्रौष्ठं गौपायनानामाहुतयोऽभ्यतपन् सोऽब्रवीदिमौ किलाताकुली इमा वै मा गौपायनानामाहुतयोऽभितपन्तीति तावब्रूतां तस्य वा आवामेव भिषजौ स्व आवां प्रायश्चित्तिरावां तथा करिष्यावो यथा न्वेता नाभितपन्तीति । तौ परेत्य सुबन्धोर्गौपायनस्य स्वपतः प्रमत्तस्यासुमाहुत्यान्तःपरिधि न्यधत्ताम् ' इत्यादि । तं सुबन्धोरसुमादातुं खाण्डवादसमातिं प्रतिगच्छन्तो गौपायना वदन्ति । हे **इन्द्र** **वयं** गौपायनाः **पथः** समीचीनान्मार्गात् **मा** **प्र** **गाम** मा परागच्छाम । असमातिगृहमेव गच्छाम । **मा** च **सोमिनः** असमातेः **यज्ञात्** मा प्र गाम । **मा** **स्थुः** मा तिष्ठन्तु **नः** अस्माकम् **अन्तः** मार्गमध्ये **अरातयः** शत्रवः । यद्वा । सोमिनः सोमवतो यागान्मा प्र गाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,29 +108,29 @@ popular
 A legend explains the origin of the **sūkta**: there were fourbrothers, **purohitas** of the **rājā** Asamāti: **Bandhu**, **Subandhu**, Śrutabandhu and Viprabandhu. The king havingdismissed them, appointed to others, Māgavins (magicians), at which the brothers being offended, instrumental tutedmagic ceremonies for the rājā's destruction; hearing of this, the Māgavins put Subandhu to death; on whichthe other three composed this sūkta for their own safety. The offerer of the libation: i.e., king Asamāti; or,taking sominaḥ as nominative plural, may we the offerers of the **Soma** not depart from the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let us not depart from the path, nor from the sacrifice of the one who  has soma, Indra.  
 Let hostilities not stand between us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET us not, Indra, leave the path, the Soma-presser's sacrifice:  
      Let no malignity dwell with us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen uns nicht vom rechten Wege entfernen, nicht von dem Opfer des Somaspenders, o Indra. Nicht sollen uns Feinde dazwischen treten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass, Indra, nicht vom rechten Pfad, vom Somaopfer weichen uns; Nicht seien Böse unter uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не удалимся мы ни от (праведного) пути.  
 Ни от жертвы того, кто приносит сому, о Индра!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡तोपधूत इषितो꣡ व꣡शाँ अ꣡नु  
 तृषु꣡ य꣡द् अ꣡न्ना वे꣡विषद् विति꣡ष्ठसे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 छ꣡र्धांसि अग्ने अज꣡राणि ध꣡क्षतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । ते॒ । य॒त॒न्ते॒ । र॒थ्यः॑ । यथा॑ । पृथ॑क् । शर्धां॑सि । अ॒ग्ने॒ । अ॒जरा॑णि । धक्ष॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vātopadhūta* ← *vāta*
 - \[noun\], masculine
@@ -122,37 +122,37 @@ genre M
 हे **अग्ने** **यत्** यदा त्वं **वातोपधूतः** वायुना कम्पितः **वशान्** कान्तान् वनस्पतीन् **अनु** प्रति **तृषु** क्षिप्रम् **इषितः** प्रेरितश्च सन् **अन्ना** अदनीयानि वनस्पत्यादीनि स्थावराणि **वेविषत्** व्याप्नुवन् **वितिष्ठसे** इतस्ततो गच्छसि तदानीं **धक्षतः** काष्ठानि दहतः **ते** तव **अजराणि** जरारहितानि **शर्धांसि** तेजांसि **यथा** **रथ्यः** रथिनः तद्वत् **पृथक्** **आ** **यतन्ते** गच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, agitated by the wind and quickly moving through the beloved (trees), you spread aboutdevouring the food, the imperishable energies of you, **Agni**, the devourer, rush forth like charioteers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When whipped up by the wind, aroused, you spread yourself out,  constantly worrying the dry food at will,  
 your unaging troops [=flames] take up their places separately like  
 charioteers, as you go burning, Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, sped and urged by wind, thou spreadest thee abroad, swift piercing through thy food according to thy will,  
      Thy never-ceasing blazes, longing to consume, like men on chariots, Agni, strive on every side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wann du vom Winde angefacht, zur Eile getrieben, nach Belieben gierig die Speisen verarbeitend dich ausbreitest, dann nehmen deine ewig jungen Heerhaufen wie Wagenfahrer getrennt Aufstellung, o Agni, während du brennst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn gierig du vom Wind bewegt nach Wunsch dich regst, und deine Speisen rasch ergreifend weiter dringst, Dann streben deine Flammen Wagenlenkern gleich, die ewig muntern, Agni, vorwärts hier und dort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ты распространяешься, раздутый ветром, приведенный в движение,  
 Жадно пожирающий пищу, сколько хочешь,  

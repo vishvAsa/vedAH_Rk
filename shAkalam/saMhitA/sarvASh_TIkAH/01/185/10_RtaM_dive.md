@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋतं꣡ दिवे꣡ त꣡द् अवोचम् पृथिव्या꣡  
 अभिश्रावा꣡य प्रथमं꣡ सुमेधाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पिता꣡ माता꣡ च रक्षताम् अ꣡वोभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पा॒ताम् । अ॒व॒द्यात् । दुः॒ऽइ॒तात् । अ॒भीके॑ । पि॒ता । मा॒ता । च॒ । र॒क्ष॒ता॒म् । अवः॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
@@ -117,42 +117,42 @@ genre M
 **सुमेधाः** शोभनप्रज्ञोऽहं **दिवे** द्युदेवतायै **पृथिव्यै** पृथिवीदेवतायै **तत्** तत्प्रीतिकरम् **ऋतं** स्तोत्रं **प्रथमम्** । मुख्यनामैतत् । प्रतमं प्रष्टतमम् **अवोचं** ब्रवीमि । किमर्थम् । **अभिश्रावाय** अभितः सर्वतः श्रवणाय । किंच **पिता** पालको द्युलोकः **माता** सस्यादेर्निर्मात्री पृथिवी **च** उभे **अवद्यात्** निन्दितात् दुःखप्रापकात् अंहसः सकाशात् **पातां** रक्षताम् । तथा **अभीके** । अन्तिकनामैतत् । समीपे एव **अवोभिः** अभिमततर्पणैः रक्षतां पालयताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Endowed with understanding, I repeat to Heaven and Earth this initial praise, to be heard around; may paternal (heaven) and maternal (earth) preserve us from reprehensible iniquity; and ever nigh defend us with their protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I of good wisdom have spoken this truth to Heaven and to Earth to  hear first.  
 Let the two of them protect from disgrace and difficulty in close  
 quarters. Let the mother and father guard (us) with their help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Endowed with understanding, I have uttered this truth, for all to hear, to Earth and Heaven.  
      Be near us, keep us from reproach and trouble. Father and Mother, with your help preserve us.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 This truth have I now uttered first with wisdom To Heaven and Earth that every one may hear it. Protect me from disgrace and peril; guard me As Father and as Mother with your succour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses wahre Wort habe ich weisheitsvoll zu Himmel und Erde gesprochen, daß sie es zuerst hören. Beide sollen unmittelbar vor Unehre, vor Unheil bewahren. Vater und Mutter sollen uns gnädig in Schutz nehmen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies wahre hab' ich weiser ausgesprochen zuerst zu Erd' und Himmel, dass man's höre, Beschirmt vor Schmach mich, schützt mich vor Gefahren, mit Hülfen schirmt als Vater mich und Mutter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эту истину я провозгласил Небу и Земле,  
 Чтобы они услышали первыми, (я,) очень мудрый.  

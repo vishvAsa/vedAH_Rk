@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡प ज्यो꣡तिषा त꣡मो अन्त꣡रिक्षाद्  
 उद्नः꣡ शी꣡पालम् इव वा꣡त आजत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभ्र꣡म् इव वा꣡त आ꣡ चक्र आ꣡ गाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पतिः॑ । अ॒नु॒ऽमृश्य॑ । व॒लस्य॑ । अ॒भ्रम्ऽइ॑व । वातः॑ । आ । च॒क्रे॒ । आ । गाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apa*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 सः **बृहस्पतिः** **ज्योतिषा** तमसावृते पर्वतविवरे कृतेन सूर्येण **अन्तरिक्षात्** **तमः** **अप** **आजत्** अपागमयत् । तत्र दृष्टान्तः । **उद्नः** **शीपालमिव** । यथोदकात् **वातः** वायुः शीपालं शैवालमपगमयति तद्वत् । ततः सोऽयम् **अनुमृश्य** अत्र गावस्तिष्ठन्तीति विचार्य निश्चित्य **वलस्य** स्वभूतस्य पर्वतस्यान्तर्गताः **गाः** **आ** **चक्रे** समन्तादकार्षीत् । कथमिव । **अभ्रमिव** । यथा वायुरन्तरिक्षस्थितमभ्रं मेघमाकिरति तद्वत् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ genre M
 **Śīpāla** = an aquatic plural nt, **śaivāla**, the vallisneria
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With his light he drove away the darkness from the midspace as the wind  drives the śīpāla-plant from the water.  
 Br̥haspati, having (just) stroked (the skin/womb) of Vala, as the wind  does a cloud, brought the cows here as his own.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forth from mid air with light he dravc the darkness, as the gale blows a lily from the fiver.  
      Like the wind grasping at the cloud of Vala, Brhaspati gathered to himself the cattle,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Licht hat er die Finsternis aus dem Luftreich getrieben wie der Wind die Sipalapflanze aus dem Wasser. Brihaspati packte die Kühe des Vala und trieb sie vor sich her wie der Wind die Wolke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Licht vertrieb das Dunkel aus der Luft er, so wie der Sturm die Binsen aus dem Wasser; Brihaspati, des Vala Kühe fassend, trieb sie herbei wie Wind die Wetterwolke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Светом он прогнал мрак из воздушного пространства,  
 Как ветер – (растение) шипала из воды.  

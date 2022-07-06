@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उग्रा꣡ इव प्रव꣡हन्तः समा꣡यमुः  
 साकं꣡ युक्ता꣡ वृ꣡षणो बि꣡भ्रतो धु꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शृण्व꣡ एषाम् प्रोथ꣡थो अ꣡र्वताम् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यत् । श्व॒सन्तः॑ । ज॒ग्र॒सा॒नाः । अरा॑विषुः । शृ॒ण्वे । ए॒षा॒म् । प्रो॒थथः॑ । अर्व॑ताम्ऽइव ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ugrā* ← *ugrāḥ* ← *ugra*
 - \[noun\], nominative, plural, masculine
@@ -118,36 +118,36 @@ popular
 **वृषणः** । फलं वर्षतीति वृषा यज्ञः। तस्य **धुरः** धुरं भारं **बिभ्रतः** धारयन्त एते ग्रावाणः । **साकं** सोमेन सह **युक्ताः** सन्तः प्रवहन्तः रथं प्रकर्षेण वोढारः **उग्राः** उद्गूर्णा अश्वाः **इव** **समायमुः** समायच्छन्ति । आयता भवन्तीत्यर्थः । यत् यदा **श्वसन्तः** अभिषवसमय उत्पतननिपतनव्यापारजनितेन वायुना श्वसन्त इव स्थिता ग्रावाणः **जग्रसानाः** सोमं ग्रसमानाः अराविषुः शब्दायन्ते तदानीम् **एषां** ग्राव्णां संबन्धी **प्रोथथः** मुखाच्छब्दः शृण्वे श्रूयते । तत्र इष्टान्तः । **अर्वतामिव** । अश्वानां संबन्धिनो मुखाद्धेषाशब्दो यथा तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bearing the burden of the sacrifice, yoked with (the **Soma**), they extend themselves like spiritedhorses; when panting and extracting (the Soma), they cried aloud, their snoring is heard like that of horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like powerful draft(-horses), they have held fast, yoked together, the  bulls bearing the chariot-poles.  
 When panting and gulping they have bellowed, their snorting sounds  like that of chargers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like strong ones drawing, they have put forth all their strength: the Bulls, harnessed together, bear the chariot-poles.  
      When they have bellowed, panting, swallowing their food, the sound of their loud snorting is like that of steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie starke Zugtiere im Fahren ziehen sie an, zusammen eingespannt, die Stiere, die die Joche tragen. Wenn sie keuchend, schlingend gebrüllt haben, so hört sich ihr Schnauben wie das der Rennpferde an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie starke Rosse fahrend ziehn die Stränge sie, zugleich geschirrt die Stiere, tragend gleiches Joch; Wenn schnaubend, fressend sie erheben ihr Gebrüll, dann klingt es wie Gewieher einer Rosseschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

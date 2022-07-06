@@ -8,7 +8,7 @@ title = "+024"
 ‘ का सुष्टुतिः' इत्येकादशर्चं तृतीयं सूक्तं वामदेवस्यार्षमैन्द्रम् । दशम्यनुष्टुप् शिष्टास्त्रिष्टुभः। तथा चानुक्रमणिका- का सुष्टुतिरुपान्त्यानुष्टुप् ' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 24 (320)  
 Indra  
@@ -21,7 +21,7 @@ gling. An unidentified party seems to have made a bad deal, offering a higher pr
 The allusion to dānastutis above was purposeful, for this little set of verses not  only occupies the position of a dānastuti in this hymn, but also has the slangy  and derisory tone of many dānastutis and the same recognition of the commer cial underpinnings of the relationship between patron and client. It may even be  that, using Indra’s withdrawal as model, the poet is indirectly complaining about  an ungenerous patron and threatening to withhold his poetic production unless he  receives a better deal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

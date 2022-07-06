@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् प्रत्ने꣡न म꣡न्मना  
 गि꣡रः शुम्भामि कण्वव꣡त्  
 ये꣡ने꣡न्द्रः शु꣡ष्मम् इ꣡द् दधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 येन॑ । इन्द्रः॑ । शुष्म॑म् । इत् । द॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **कण्ववत्** मम जनकः कण्व इव **अहं** **प्रत्नेन** नित्येन वेदरूपेण **मन्मना** मनसाधनेनेन्द्रविषयेण स्तोत्रेण **गिरः** वाचः **शुम्भामि** अलंकरोमि । यदा हीन्द्रविषये प्रयुज्यन्ते तदानीं यथार्थत्वाद्वाचोऽलंकृता भवन्ति । **येन** खलु स्तोत्रेण **इन्द्रः** **शुष्मं** शत्रूणां शोषकं बलं **दधे** **इत्** धत्त एव धारयत्येव । यत्स्तोत्रमिन्द्रे ईदृशं बलमवश्यं जनयति तेन मन्मनेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I grace my words with ancient praise, like **Kaṇva**; whereby **Indra** assuredly enjoys vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I, like Kaṇva, beautify my songs with an age-old thought—  
 just the one with which Indra acquired his unbridled force.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ This tṛca is characterized by emphatic pronominals: initial ahám 10a, 10c, 11
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 After the lore of ancient time I make, like Kanva, beauteous songs,  
      And Indra's selfgains strength thereby.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich putze meine Lobesworte mit einem alten Gedicht in der Weise des Kanva auf, durch das Indra Mut gewann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach alter Weise schmücke ich nach Kanva's Art die Lieder aus, Durch welche Indra Kraft empfing.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я древним произведением  
 Украшаю (свои) песни в духе Канвов,  

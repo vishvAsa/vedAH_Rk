@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्यं꣡ वीरं꣡ धनसा꣡म् ऋजीषि꣡णं  
 दूरे꣡ चित् स꣡न्तम् अ꣡वसे हवामहे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ नो वि꣡ यौष्टं सखिया꣡ मुमो꣡चतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यस्य॑ । स्वादि॑ष्ठा । सु॒ऽम॒तिः । पि॒तुः । य॒था॒ । मा । नः॒ । वि । यौ॒ष्ट॒म् । स॒ख्या । मु॒मोच॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M;; repeated line
 हे अश्विनौ **उत** अपि च **वीरं** कर्मणि समर्थं **धनसां** धनानां संभक्तारम् **ऋजीषिणम्** । ऋजीषोऽपार्जितोऽभिषुतः सोमः। तद्वन्तं **दूरे** **चित्** दूर एव **सन्तं** भवन्तं विनष्टमिव **त्यं** तं विष्णाप्वम् **अवसे** अस्माकं रक्षणाय **हवामहे** आह्वयामः । पुत्रो हि पितरं रक्षति । किंच **यस्य** पुत्रस्य पौत्रस्य वा **सुमतिः** शोभना स्तुतिः **स्वादिष्ठा** स्वादुतमा । अतिशयेन देवानां स्वादुकारिणीत्यर्थः । तत्र दृष्टान्तः । **पितुर्यथा** । पितुर्विश्वकस्य स्तुतिर्यथा देवानां प्रीतिकरी तद्वत् । तस्मात्तमाह्वयाम इति शेषः । **मा** **नो** इति गतार्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,34 +145,34 @@ genre M;; repeated line
 We summon that hero: the ṛṣi here prays for the presence of his absent sonViṣṇāpu; it is for the son to protect the father; possessor of the Soma: ṛjīṣin is an epither of **Indra**, possessorof the stale Soma, ṛjīs. a (RV 3.32.1; 36.10); in RV 1.32.6, ṛjīṣa is applied to Indra, as enemy-repelling
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this hero, the winner of spoils and possessor of the silvery drink  [=Indra], do we call upon for help, even though he is at a distance,  
 upon him whose favor is sweetest like that of a father. – Do not keep us  away from partnership with you. Release (him?)!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though Geldner identifies the vīrá- ‘hero’ as Viṣṇāpu, as Renou points out ṛjīṣín- ‘possessing the silvery drink’ is almost exclusively used of Indra (and never of humans), and we are more likely to call upon this god than upon a rather vaguely defined mortal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And that Impetuous Hero, winner of the spoil, though he is far away, we call to succour us,  
      Whose gracious favour, like a father's, is most sweet. Break ye not off our friendship, come and set me free.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und jenen schätzegewinnenden Mann, der die Somatrester auspreßt, wenn er auch fern weilt, rufen wir zum Beistand, dessen Fürsorge die angenehmste ist wie die eines Vaters. - Schließet uns nicht von eurer Freundschaft aus! Spannet aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diesen Helden, der Beute gewinnt und vorwärts dringt, den rufen wir zu Hülfe, auch wenn er in der Ferne weilt, ihn, dessen Wohlwollen sehr lieblich wie das eines Vaters ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также мы взываем о помощи к тому мужу,  
 Добывающему богатства, готовящего выжимки (сомы), хоть и находящегося вдалеке,  

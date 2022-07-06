@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ स्मा पृछ꣡न्ति कु꣡ह से꣡ति घोर꣡म्  
 उते꣡म् आहुर् नइ꣡षो꣡ अस्ती꣡ति एनम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्र꣡द् अस्मै धत्त स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । अ॒र्यः । पु॒ष्टीः । विजः॑ऽइव । आ । मि॒ना॒ति॒ । श्रत् । अ॒स्मै॒ । ध॒त्त॒ । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -157,20 +157,20 @@ genre M
 अपश्यन्तोजनाघोरंशत्रूणाङ्घातकंयम्पृच्छन्तिस्मकुहसेति सइन्द्रः कुत्रवर्ततइति सेति सोचिलोपे- चेत्पादपूरणमितिसोर्लोपेगुणः नक्वचिदसौतिष्ठतीतिमन्यमानाजनाएनमिन्द्रमाहुः एषइन्द्रोनास्तीति तथाचमन्त्रे—नेन्द्रोअस्तीतिनेमउत्वआहेति । ईमितिपूरणः उतापिचसइन्द्रोविजइव इवशब्दएवार्थे उद्वेजकएवसन् अर्योरेःसम्बन्धीनिपुष्टीः पोषकाणि गवाश्वादीनिधनानि आमिनाति सर्वतोहिनस्ति मीङ् हिंसायां मीनातेर्निगमेइतिह्रस्वः तस्मात् श्रदस्माइन्द्रायधत्तसइन्द्रोस्तीतिविश्वासमत्रकुरुत यद्यप्यसौविशेषतोस्माभिर्नदृश्यते तथापिअस्तीतिविश्वासङ्कुरुत एवन्निर्धारणमहिमोपेतः सइन्द्रोना- हमिति ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, whom, terrible, they ask for, (saying), Where is he? or, verily, they say of him, he is not (in any one plural ce); but who, inflicting (chastisement), destroys the cherisshed (treasures) of the enemy; in him have faith; for he, men, is **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The terrifying one about whom they always ask, “Where is he?”—and  they say of him, “He does not exist!”—  
 he diminishes the riches of the stranger like the stakes. Put trust in him!  – he, o peoples, is Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although in answer to the question in pāda a kúha sá “where is he,” we might expect naíṣó asti to mean “he is not (here),” I prefer the existential “he does not exist” of the published translation for two reasons. In main clauses the pres. copula asti is almost always existential, and doubts about Indra’s existence are expressed elsewhere in the RV.
 
@@ -187,28 +187,28 @@ abstract to √puṣ, both in the plural, do not seem to differ from each other 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of whom, the Terrible, they ask, Where is He? or verily they say of him, He is not.  
      He sweeps away, like birds, the foe's possessions. Have faith in him, for He, O men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Of whom, the terrible, they ask, "Where is he?" Of him, indeed, they also say, "He is not." The foemen's wealth, like players' stakes, he lessens. Believe in him: for he, O men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach dem sie fragen: Wo ist er ? - nach dem Furchtbaren, und sie sagen von ihm: "Er ist nicht" - er läßt die Reichtümer des großen Herrn verschwinden wie der Glücksspieler die schlechten Würfel, glaubt an ihn - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der hehre Gott, von dem sie zweifelnd fragen: »wo ist er?«, spottend sagen »Indra ist nicht«, Doch sieh', er streicht wie Geld des Feindes Gut ein; glaubt fest an ihn, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О ком спрашивают: Где он? – об ужасном,  
 И говорят: Нет его – о нем,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ त्यां꣡ न इन्दर+ देव चित्रा꣡म्  
 इ꣡षम् आ꣡पो न꣡ पीपयः प꣡रिज्मन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्म꣡नम् ऊ꣡र्जं न꣡ विश्व꣡ध क्ष꣡रध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यया॑ । शू॒र॒ । प्रति॑ । अ॒स्मभ्य॑म् । यंसि॑ । त्मन॑म् । ऊर्ज॑म् । न । वि॒श्वध॑ । क्षर॑ध्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -128,21 +128,21 @@ genre M
 हे **देव** द्योतमान **इन्द्र** **त्वं** **नः** अस्माकं **चित्रां** चायनीयां **त्यां** ताम् **इषम्** अन्नं **परिज्मन्** परितो व्याप्तायां भूमौ **पीपयः** प्रावर्धयः । यथा सर्वा भूमिरन्नेन परिपूर्णा भवति तथा कुर्वित्यर्थः । तत्र दृष्टान्तः । **आपो** **न** । यथा अपो वृष्ट्युदकानि भूम्यां वर्षणेन प्रवर्धयसि तद्वत् । यद्वा । भूमौ वर्तमानानस्मान् यथा अपः पाययसि तद्वत् चित्रामिषमपि पाययेति भावः । हे **शूर** इन्द्र **यया** इषा **त्मनम्** आत्मानं जीवम् **अस्मभ्यं** **प्रति** **यंसि** प्रयच्छसि । तत्र दृष्टान्तः । **विश्वध** विश्वतः सर्वतः **क्षरध्यै** क्षरितुम् **ऊर्जं** **न** उदकमिव । यथास्मभ्यं बहुलमुदकं प्रयच्छसि तद्वत्प्राणधारणरूपं जीवनमपि प्रयच्छसीति भावः ॥ आपः । शसि प्राप्त व्यत्ययेन जस् ।' अप्तृन्” इत्यादिना दीर्घः। पीपयः । ‘स्फायी ओप्यायी वृद्धौ' । ण्यन्तात् छान्दसे लुङि ‘ प्यायः पी' (पा. सू. ६. १. २८) इति व्यत्ययेन पीभावः ।  ‘ णिश्रिद्रुस्रुभ्यः । इति च्लेः चङादेशः । णिलोपादीनि । यद्वा । ' पीङ् पाने' इत्यस्मात् लुङि चङि पूर्ववत् । ‘बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । परिज्मन् । जमतिर्गतिकर्मा ।  ‘ अज गतिक्षेपणयोः । आभ्यां परिपूर्वाभ्यां ‘श्वन्नुक्षन्' इत्यादौ कनिन्प्रत्ययान्तो निपातितः ।  ‘ सुपां सुलुक् ' इति सप्तम्या लुक् । यंसि । “ यम उपरमे '। बहुलं छन्दसि ' इति शपो लुक् । त्मनम्।  ‘ आङोऽन्यत्रापि च्छन्दसि दृश्यते ' ( का. ६. ४. १४१. १) इत्यात्मनः आकारलोपः । संज्ञापूर्वकस्य विधेरनित्यत्वात् उपधादीर्घाभावः । विश्वध। विश्वशब्दात्तसिलः सकारलोपो धत्वं च पृषोदरादित्वात् । क्षरध्यै।  ‘ क्षर संचलने'। तुमर्थे सेसेन् ' इति अध्यैन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Increase, divine **Indra**, for us throughout the earth, abundant food, (that it may be as plural ntiful) as water, by which, hero, you bestow upon us (existence), as you cause water to flow on every side.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, god Indra, will make this bright refreshment swell for us as waters  do in their circling,  
 the refreshment with which, o champion, you will extend yourself  
 toward us like nourishment to flow everywhere.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ā́paḥ in b can certainly be the old nominative plural used as an accusative, as occasionally happens in late RV (so Grassmann and implicitly most tr.), but as I suggested elsewhere (1982: 260), it may be the nominative plural it appears to be; this may be an example of case disharmony in a simile, exploiting the ambiguities in syntax of the verb √pi ‘swell’ that the poets were always happy to capitalize on. In the frame pīpayaḥ is transitive (“you swell the refreshment”), but in the simile intransitive (“as waters [swell]”).
 
@@ -151,23 +151,23 @@ I take tmánam as functioning as a reflexive pronoun (“extend yourself”), wh
 However, the active form of yáṃsi gives my pause, and so the standard tr. should be considered (though I am not ready to adopt it). “Extend nourishment to us” seems to be formulaic, with an active form of √yam, and so that voice may have prevailed here, despite the reflexive tmánam; cf. III.1.22 prá yaṃsi … íṣo nah, IV.32.7 sá no yandhi … íṣam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, God who movest round about us, feed us with varied food plenteous as water-  
      Food wherewithal, O Hero, thou bestowest vigour itself to flow to us for ever.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du mögest uns jenes wunderbare Labsal wie die Gewässer in ihrem Laufe anschwellen lassen, Gott Indra, mit dem du Held uns den Lebensgeist aufrichten mögest, daß er wie die Lebenskraft allezeit uns durchströme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, füll uns diese reiche Labung wie Wasserfluten zu uns rings umwandelnd, Durch die du Held uns Lebenshauch verleihest, der überall wie Labetrunk uns ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о бог Индра, для нас ту яркую  
 Питательную силу сделал набухшей, словно воды в своем круговом течении,  

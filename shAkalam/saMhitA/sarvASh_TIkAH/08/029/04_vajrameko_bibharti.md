@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡ज्रम् ए꣡को बिभर्ति ह꣡स्त आ꣡हितं  
 ते꣡न वृत्रा꣡णि जिघ्नते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M
 वज्र॑म् । एकः॑ । बि॒भ॒र्ति॒ । हस्ते॑ । आऽहि॑तम् । तेन॑ । वृ॒त्राणि॑ । जि॒घ्न॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
@@ -76,34 +76,34 @@ genre M
 अत्र वज्रलिङ्गादिन्द्रो देवता । **एकः** इन्द्रः **आहितं** स्वकीयहस्ते निहितं **वज्रम्** एतन्नामकमायुधं **बिभर्ति** धत्ते । स एवेन्द्रः **तेन** निहितेन वज्रेण **वृत्राणि** आवरकाणि रक्षांसि पापानि वा **जिघ्नते** भृशं हन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “One (**Indra**) holds his thunderbol wielded in his **hand**, by which he slays the **Vṛtras**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A mace this one bears in his hand, set there; with it he keeps smashing  obstacles. [=Indra]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Another holds the thunderbolt, wherewith he slays the Vrtras, resting in his hand.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine trägt die in die Hand gelegte Keule; mit der erschlägt er die Vritra´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der eine hält den Blitz mit seiner Hand umfasst, mit dem er seine Feinde schlägt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Один несет вложенную в руку  
 Ваджру. Ею он убивает врагов.

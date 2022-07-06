@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिवन्धुरे꣡ण त्रिवृ꣡ता  
 र꣡थेना꣡ यातम् अश्विना  
 म꣡ध्वः सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मध्वः॑ । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trivandhureṇa* ← *tri*
 - \[noun\]
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **अश्विना** अश्विनौ **त्रिवन्धुरेण** त्रिफलकासंघटितेन **त्रिवृता** त्रिकोणेन । यद्वा । त्रिवृता। त्रीणि कवचादिभिरावरणानि यस्य स तथोक्तः । तेन **रथेन** अस्मद्यज्ञं प्रति **आ** **यातं** युवामागच्छतं च । शिष्टं गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,29 +93,29 @@ Car: trivandhureṇa = triphalakāsaṃghati.tena, compacted of three pieces;
 **Trivṛta** = defended by three sets ofplates
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your triply-turning chariot with its three chariot boxes drive here, o  Aśvins,  
 to drink of the honeyed soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither, Asvins, on your car of triple form with triple seat,  
      To drink the savoury Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem dreisitzigen, dreiteiligen Wagen kommet her, Asvin, um vom süßen Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt, Ritter, auf dem Wagen her, der dreigetheilt drei Sitze hat, Zum Trunk des süssen Somasafts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте, о Ашвины,  
 На трехместной трехчастной колеснице,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡म् ऋते꣡न स꣡पन्ता  
 इषिरं꣡ द꣡क्षम् आशाते  
 अद्रु꣡हा देवउ꣡ वर्धेते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अ॒द्रुहा॑ । दे॒वौ । व॒र्धे॒ते॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
@@ -76,7 +76,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **ऋतेन** उदकेन निमित्तेन **ऋतं** यज्ञं **सपन्ता** स्पृशन्तौ **इषिरम्** एषणवन्तं **दक्षं** प्रवृद्धं यजमानं हविर्वा **आशाते** व्याप्नुतः । **अद्रुहा** अद्रोग्धारौ **देवौ** मित्रावरुणौ युवां **वर्धेते** प्रवृद्धौ भवतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,28 +87,28 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 They favour the zealous worshipper: ṛtam ṛtena sapanta iṣiram dakṣam āśāte = **udakena** nimittena yajñam spriśantau eṣanavantam pravṛddham yajamānam havir vā vyāpnutaḥ, they two, for the sake of water touching or affecting the sacrifice, they pervade the inquiring, powerful instrumental tutor of the rite, they reward him; or, it may be, they pervade or accept the efficacious, adequate oblation.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Serving the truth by the truth, they two have attained vigorous skill. Undeceiving, the two gods grow strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Carefully tending Law with Law they have attained their vigorous might.  
      The two Gods wax devoid of guile.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem beide das Gesetz nach dem Gesetz hegen, haben sie eifrige Tatkraft erlangt. Ohne Trug gedeihen die zwei Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Betreibend Recht durch rechtes Werk erlangend frische Geisteskraft Gedeiht das fromme Götterpaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Закон законом пестуя,  
 Вы достигли стремительной силы действия.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यदा꣡ वल꣡स्य पी꣡यतो ज꣡सुम् भे꣡द्  
 बृ꣡हस्प꣡तिर् अग्नित꣡पोभिर् अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आवि꣡र् निधीँ꣡र् अकृणोद् उस्रि꣡याणाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 द॒त्ऽभिः । न । जि॒ह्वा । परि॑ऽविष्टम् । आद॑त् । आ॒विः । नि॒ऽधीन् । अ॒कृ॒णो॒त् । उ॒स्रिया॑णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadā*
 - \[adverb\]
@@ -127,37 +127,37 @@ genre M
 **पीयतः** । पीयतिर्हिंसाकर्मा । हिंसकस्य **वलस्य** **जसुम्** आयुधं **यदा** यस्मिन्काले **भेत्** भिनत्ति । केन साधनेन । **अग्नितपोभिः** अग्निवत्तपनशीलैः **अर्कैः** अर्चनीयै रश्मिभिः अपि वा मन्त्रैर्भिनत्ति । किंच **दद्भिः** । पद्दन्नोमास्°' इत्यादिना दन्तशब्दस्य दद्भावः । यथा दन्तैः परिविष्टं भक्ष्यं जिह्वा भक्षयति तद्वत् सः **परिविष्टं** पर्वतं पणिभिः परिवृतं वलनामानं यदा **आदत्** अभक्षयत् अवधीत् तदानीं तैरपहृतानाम् **उस्त्रियाणां** गवां **निधीन्** **आविः** **अकृणोत्** आविर्भूतमकरोत् ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When **Bṛhaspati** demolished with rays burning like fire the weapon of the malignant **Vala**, he devouredhim (encompassed by his followers) as the tongue (consumes) that which is encompassed by the teeth; he mademanifest the hiding- plural ce of the kine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Br̥haspati split the feebleness of taunting Vala with his fire-hot chants, he took (the cows) as the tongue takes (food) trapped by the teeth  
 [/he “ate” (the cows?) as the tongue along with the teeth eats served  
 (food)], and he revealed the hidden treasures of the ruddy (cows).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brhaspati, when he with fiery lightnings cleft through the weapon of reviling Vala,  
      Consumed.him as tongues cat what teeth have compassed: he threw the prisons of the red cows open.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Brihaspati das Gefängnis des Hohn bietenden Vala erbrach mit seinen wie Feuer glühenden Zauberliedern, da packte und aß er sie wie die Zunge mit den Zähnen die angerichtete Speise. Er brachte den Schatz der Kühe ans Licht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als er des bösen Vala Burg zersprengte, Brihaspati durch heissentflammte Gluten, Und das umfasste wie mit Zähnen kaute, da that er auf der Kühe reiche Ställe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Брихаспати сломил бессилие Валы,  
 Источавшего хулу, (своими) пылающими, как огонь, песнями,  

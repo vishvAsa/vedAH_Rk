@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ से꣡शे य꣡स्य र꣡म्बते  
 अन्तरा꣡ सक्थि꣡या क꣡पृत्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 सः । इत् । ई॒शे॒ । यस्य॑ । रो॒म॒शम् । नि॒ऽसे॒दुषः॑ । वि॒ऽजृम्भ॑ते । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -124,36 +124,36 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे इन्द्र **सः** जनः **न** **ईशे** मैथुनं कर्तुं नेष्टे न शक्नोति **यस्य** जनस्य **कपृत्** शेपः **सक्थ्या** सक्थिनी **अन्तरा** **रम्बते** लम्बते । **सेत्** स एव स्त्रीजने **ईशे** मैथुनं कर्तुं शक्नोति **यस्य** जनस्य **निषेदुषः** शयानस्य **रोमशम्** उपस्थं **विज़म्भते** विवृतं भवति । यस्य च पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The man who is impotent begets not progeny, but he who is endowed with vigour; **Indra** is above all(the world).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] “He is not master, whose penis hangs (limp) between his thighs. He is master, for whose (penis) the hairy (vulva) gapes when it [=erect  penis] has sat down.”  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 न सेशे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॑त् ।  
 सेदी॑शे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der kann nichts, dessen Rute zwischen den Schenkeln hängt; nur der kann´s, dem die haarige Scham klafft, wenn er sich draufsetzt." -Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt; sondern der ist stark, dessen behaartes Glied, wenn er sich niedergelassen hat, sich ausdehnt. Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

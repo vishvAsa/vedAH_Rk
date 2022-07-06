@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वते हर्यतो꣡ ह꣡रिर्  
 गृणानो꣡ जम꣡दग्निना  
 हिन्वानो꣡ गो꣡र् अ꣡धि त्वचि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हि॒न्वा॒नः । गोः । अधि॑ । त्व॒चि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavate* ← *pū*
 - \[verb\], singular, Present indikative
@@ -76,20 +76,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **हर्यतः** देवान् कामयमानः **हरिः** हरितवर्णः किंच **गोः** **त्वचि** **अधि** आनडुहे चर्मणि **हिन्वानः** प्रेर्यमाणः स सोमः **जमदग्निना** मन्त्रद्रष्ट्रर्षिणा **गृणानः** स्तूयमानः सन् **पवते** दशापवित्रेण पूतो भवति । यद्वा । पात्राण्यभिगच्छति ॥ ॥ ५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The delightful green-tinted **Soma**, praised by **Jamadagni**, urged on the cow-hide flows (to the vessels).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He purifies himself, the delightful tawny one, while being hymned by  Jamadagni  
 and being impelled onto the hide of the cow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 haryató háriḥ “delightful tawny one” is a word play, with two semantically different stems. This same word play is the focus of a whole hymn, III.44, and obviously was a staple of RVic phraseology.
 
@@ -104,23 +104,23 @@ All three vss. in this tṛca contain a middle form of √hi ‘impel’ (25c hi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Urged forward o'er the ox-hide flows the Lovely One of tawny hue,  
      Lauded by Jamadagni's song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er läutert sich, der begehrte Falbe, von Jamadagni gepriesen, in Fluß gebracht auf der Kuhhaut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es flammt das holde goldne Ross, von Dschamadagni hochgerühmt, Hin auf das Rinderfell entsandt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

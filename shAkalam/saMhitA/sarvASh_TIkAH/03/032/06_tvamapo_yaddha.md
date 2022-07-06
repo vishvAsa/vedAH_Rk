@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अपो꣡ य꣡द् ध वृत्रं꣡ जघन्वाँ꣡  
 अ꣡त्याँ इव प्रा꣡सृजः स꣡र्तवा꣡जउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वव्रिवां꣡सम् प꣡रि देवी꣡र् अ꣡देवम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शया॑नम् । इ॒न्द्र॒ । चर॑ता । व॒धेन॑ । व॒व्रि॒ऽवांस॑म् । परि॑ । दे॒वीः । अदे॑वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -128,43 +128,43 @@ genre M
 हे **इन्द्र** **त्वं** **देवीः** देवनशीलाः **अपः** **परि** **वव्रिवांसं** परित आवृत्य वर्तमानमत एव **अदेवं** बहूदकतयास्वच्छत्वेनाप्रतिभासमानं **शयानम्** एकत्र निश्चलतया वर्तमानं **वृत्रं** मेघं **यत्** यदा **चरता** तमुद्दिश्य वर्तमानेन **वधेन** युद्धेन **जघन्वान्** हतवानसि तदा त्वम् **आजौ** युद्धे **सर्तवै** अतिवेगगमनाय **अत्यानिव** यथाश्वान् प्रेरयसि तथा त्वमपः उदकान्यन्तरिक्षादाकाशात् **प्रासृजः** **ह** प्रकर्षेण मेघभेदनं कृत्वासृजः खलु । तं यजाम इत्युत्तरेणान्वयः ॥ जघन्वान् । ‘हन हिंसागत्योः ' इत्यस्य क्वसौ ' विभाषा गमहनविदविशाम् ' इतीटो विकल्पितत्वादत्र इडभावः । ‘ अभ्यासाच्च इति हकारस्य घत्वम् । प्रत्ययस्वरः । असृजः । ‘ सृज विसर्गे '। शविकरणी । यद्योगादनिघातः । सर्तवै । ' सृ गतौ' । तुमर्थे तवैप्रत्ययः । ‘ अन्तश्च तवै युगपत् ' इति धातोः प्रत्ययस्य चोदात्तत्वम् । आजौ ।' अज गतिक्षेपणयोः' । 'अज्यतिभ्यां च ' ( उ. सू . ४, ५७०) इति इण्प्रत्ययः । णित्त्वादुपधावृद्धिः । अजन्ति गच्छन्त्यस्मिन्नित्याजिर्युद्धम् । प्रत्ययस्वरः। सर्तवाजावित्यत्र संहितायाम् आयादेशे कृते तस्य लोपः शाकल्यस्य' इति यकारलोपः । सर्वविधीनां छन्दसि विकल्पितत्वात् सवर्णदीर्घत्वे कर्तव्ये यलोपो नासिद्धो भवति । सवर्णदीर्घः। शयानम् । ‘ शीङ स्वप्ने' । शानच् । अदादित्वाच्छ्पो लुक् । ङित्त्वाल्लसार्वधातुकस्वरेण शानचोऽनुदात्तत्वे धातुस्वरः । वधेन । हन्तेर्भावे ‘ हनश्च वधः' इत्यप्प्रत्ययो वधादेशश्च धातोरन्तोदात्तश्च । वव्रिवांसम्। ‘ वृञ् वरणे ' इत्यस्य क्वसौ  इडागमश्छान्दसः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch as you have slain with active strife the slumbering, darking, water-investing **Vṛtra**, you have let forth the bright waters like horses (rushing) into battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you sent forth the waters, like steeds to run in a contest—having  smashed Vr̥tra,  
 who was lying still, with your moving weapon of death, o Indra, him  having surrounded the goddesses, godless himself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. appears to have no main clause. I take it as loosely attached to the preceding vs., while Geldner attaches it to the next one. Oldenberg (fld. by Witzel Gotō) disputes the Nebensatz analysis, pointing first to the odd doubly accented Pp. analysis of prā́sṛjaḥ as prá ásṛjaḥ: if the verb is accented, we would expect univerbation with the preverb and loss of the preverb accent. He instead suggests that yád is to be construed with the participial phrase vṛtráṃ jaghanvā́n, as if it contained the finite verb jagántha -- a mixed construction. I am in general reluctant to allow a subordinating conjunction to have domain over a participle, and in this particular case this assumption would further require bits of the main clause and the subordinate clause to be interwoven in a fashion unprecedented (as far as I know) even in RVic syntax: the major part of the subordinate clause would be plunked down between the object of the main verb, apáḥ, and that verb (prā́sṛjat), and the 2nd half verse would consist of NPs modifying the object of the subordinate clause but following the end of the main clause. I do admit that the position of yád dha in pāda a suggests a close relation with the participial phrase, but I do not consider that position sufficient to override the arguments against that analysis.
 
 The vs. contains several nice oppositions: śáyānam … cáratā “(him) lying (still) with (your) moving (weapon)” and the etymological devī́r ádevam “the goddesses, godless …” In addition note the etymological pun: vṛtrám … vavrivā́ṃsam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou didst loose the streams to run like racers in the swift contest, having smitten Vrtra  
      With flying weapon where he lay, O Indra, and, godless, kept the Goddesses encompassed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da du die Gewässer losließest, um wie Renner im Wettkampf zu laufen, nachdem du den Vritra erschlagen hattest, o Indra, mit der beweglichen Waffe den Liegenden, den Ungott, der die göttlichen Gewässer eingeschlossen hatte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Wasser liessest rinnen du im Wettlauf wie Renner, als den Vritra du erschlagen Mit raschem Streiche, Indra, ihn, der da lag, der gottlos rings die Göttinnen gebannt hielt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь, убив Вритру, ты выпустил воды,  
 Чтобы они мчались, как кони на скачках,  

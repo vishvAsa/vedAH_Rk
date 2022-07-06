@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ सू꣡र्यो म꣡ध्ये अमुचद् र꣡थं दिवो꣡  
 विद꣡द् दासा꣡य प्रतिमा꣡नम् आ꣡रियः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रो वि꣡ आस्यच् चकृवाँ꣡ ऋजि꣡श्वना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दृ॒ळ्हानि॑ । पिप्रोः॑ । असु॑रस्य । मा॒यिनः॑ । इन्द्रः॑ । वि । आ॒स्य॒त् । च॒कृ॒ऽवान् । ऋ॒जिश्व॑ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -134,36 +134,36 @@ genre M
 **दिवः** द्युलोकस्य **मध्ये** **सूर्यः** **आदित्यः** **रथं** प्रस्थानाय **वि** **अमुञ्चत्** विमुक्तवान् । मुचेर्लुङि लुदित्वात् च्लेरङादेशः । कदेति चेत् उच्यते । यदा **आर्यः**  अभिज्ञः इन्द्रः **दासाय** उपक्षपयित्रे वृत्रादये **प्रतिमानं** प्रतिकृतिं प्रतीकारं **विदत्** वेत्ति जानाति । अलभत वा । अपि च **मायिनः** मायाविनः ॥ मायाशब्दस्य व्रीह्यादिषु पाठात 'व्रीह्यादिभ्यश्च 'इतीनिप्रत्ययः ॥ **पिप्रोः** एतन्नाम्नः **असुरस्य** **दृळ्हानि** दृढानि स्थिराणि पुराणि बलानि वा **ऋजिश्वना** राजर्षिणा **चकृवान्** सख्यं कुर्वन् **इन्द्रः** **व्यास्यत्** व्यक्षिपत् । विविधमाक्षिप्तवान् । व्यनीनशदित्यर्थः ।  ‘ असु क्षेपणे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sun unyoked his chariot in the midst of the sky, (when) the **Ārya** (**Indra**) encountered the Dāsaassociated with Ṛjiśvan, Indra destroyed the stronghold of the guileful **asura**, Pipru.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Sun unhitched his chariot in the middle of heaven. The Ārya found a  match for the Dāsa.  
 The firm fortifications of the crafty lord Pipru did Indra throw open,  having acted together with R̥jiśvan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the mid-way of heaven the Sun unyoked his car: the Arya found a match to meet his Dam foe.  
      Associate with Rjisvan Indra overthrew the solid forts of Pipru, conjuring Asura.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Surya spannte in der Mitte des Himmels den Wagen aus. Der Arier fand ein Gegengewicht gegen den Dasa. Die Festen des zauberkundigen Asura Pipru zerschmiß Indra, mit Rijisvan zusammenwirkend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sonne spannte Mittags ihren Wagen aus, der Arjer fand den Helden, der Barbaren schlägt; Mit dem Ridschiçvan wirkend tilgte Indra da des zauberhaften Dämons Pipru Burgen aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 a Сурья распряг – В РВ не раз упоминается о сотязании Индры и Сурьи, когда Индра сорвал колесо солнца I, rv10.138.121
 </details>

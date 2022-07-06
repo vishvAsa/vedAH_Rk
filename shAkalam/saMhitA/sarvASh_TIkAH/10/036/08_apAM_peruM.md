@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपा꣡म् पे꣡रुं जीव꣡धन्यम् भरामहे  
 देवावि꣡यं सुह꣡वम् अध्वरश्रि꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सु॒ऽर॒श्मिम् । सोम॑म् । इ॒न्द्रि॒यम् । य॒मी॒म॒हि॒ । तत् । दे॒वाना॑म् । अवः॑ । अ॒द्य । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
@@ -125,37 +125,37 @@ genre M;; repeated line
 **अपाम्** उदकानां **पेरुं** पालकं **जीवधन्यम्** । धन्या जीवा यस्मिन्नसौ जीवधन्यः । तं **देवाव्यं** देवानां तर्पकं **सुहवं** शोभनाह्वानं शोभनस्तुतिं वा **अध्वरश्रियं** सुरश्मिं  शोभनांशुं **सोमं** **भरामहे** धारयामः । पत्नीशालातो हविर्धानं प्रति प्रापयामो वा । भृतं तं सोमम् **इन्द्रियं** वीर्यं **यमीमहि** वयं याचामहे । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We offer the **Soma**, the protector of the waters, affluent in life, the delighter of the gods, who iswell-praised, the glory of sacrifice, the brilliant-rayed, the vigour which we desire; we solicit today this protectionof the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We will bring (forward) the one swollen with the moisture of the waters,  providing riches for the living, pursuing the gods, good to invoke, the  glory of the ceremony.  
 Soma, destined for Indra, with his good reins would we hold fast.  
 – This help of the gods we choose today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We bring the Stay of Life, who makes the waters swell, swift-hearing, Friend of Gods, who waits on sacrifice.  
      May we control that Power, Soma whose rays are bright. We crave this gracious favour of the Gods to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den von Wasser vollgesogenen, der die Lebenden beglückt, tragen wir auf, der die Götter einlädt, den Gerngerufenen, der das Opfer verschönt; den für Indra bestimmten Soma wollen wir mit schönen Zügeln lenken. - Diese Gunst der Götter erbitten wir heute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Flutdurchdringer, Lebensschaffer bringen wir, der Götter Lust, des Opfers Schmuck, der schnell uns hört, Des Indra Soma schön an Zügeln lenken wir, die Gunst der Götter wünschen heute wir herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы приносим оплодотворителя вод, обогащающего (все) живое,  
 Приглашающего богов, легко призываемого, украшение обрядов,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ अर्षे꣡न्द्राय पीत꣡ये  
 तिरो꣡ रो꣡माणि अव्य꣡या  
 सी꣡दन् यो꣡ना व꣡नेषु आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सीद॑न् । योना॑ । वने॑षु । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -89,20 +89,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **सः** अभिषुतस्त्वम् **अव्यया** अव्ययानि अविमयानि **रोमाणि** वालानि **तिरः** तिरस्कुर्वन् **वनेषु** पात्रेषु **योना** योनौ स्थाने **आ** **सीदन्** **इन्द्राय** इन्द्रस्य **पीतये** पानाय **अर्ष** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Passing obliquely through the sheep's hairs, hasten for **Indra**'s drinking, sitting in your plural ce in the wooden vessels.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush, for Indra to drink, across the sheep’s fleece,  
 sitting on your womb, in the wooden (vessels).
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -112,23 +112,23 @@ The tṛca shows no strong signs of internal unity, save for the “sitting” f
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So flow thou onward through the fleece, for Indra flow, to be his drink,  
      Finding thine home in vats of wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rinne du für Indra zum Trank über die Schafhaare und setze dich auf deinen Platz in den Holzgefäßen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So fliess dem Indu denn zum Trunk durchs Widderhaar und setze dich Auf deinen Sitz, das Holzgefäss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

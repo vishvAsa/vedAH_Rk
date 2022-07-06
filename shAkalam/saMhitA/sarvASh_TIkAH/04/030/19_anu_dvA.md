@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु द्वा꣡ जहिता꣡ नयो  
 अन्धं꣡ श्रोणं꣡ च वृत्रहन्  
 न꣡ त꣡त् ते सुम्न꣡म् अ꣡ष्टवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 न । तत् । ते॒ । सु॒म्नम् । अष्ट॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -97,7 +97,7 @@ genre M
 हे **वृत्रहन्** वृत्रस्य हिंसकेन्द्र त्वं **जहिता** जहितौ सर्वैर्बन्धुभिस्त्यक्तौ **अन्धं** चक्षुर्हीनमेकं **श्रोणं** **च** पङ्गुमपरं च **द्वा** एतौ द्वौ **अनु** **नयः** अन्धपङ्गुत्वपरिहारेण अनुनीतवानसि । हे इन्द्र **ते** त्वया दत्तं **तत्** **सुम्नं** सुखम् **अष्टवे** व्याप्तुं कोऽपि **न** । प्रभवतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,13 +108,13 @@ genre M
 Blind and lame: in an earlier passage, blindness and lameness were attributed to one person n, Parāvṛja (son of Agru); here, the dual jahitā (for jahitau) and dva (for dvau), the two are used
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You led along the two that had been abandoned, the blind man and the  lame, o Vr̥tra-smasher:  
 that favor of yours is not to be equaled.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The blind man and the lame one also figure in IV.19.9, along with the son of the unmarried woman; see vs. 16 above. The blind and the lame form a pair elsewhere in the RV, e.g., I.112.8; II.13.12, 15.7; VIII.79.3.
 
@@ -131,23 +131,23 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Vrtra-slayer, didst conduct those two forlorn, the blind, the lame.  
      None may attain this bliss of thine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du geleitetest die beiden Ausgesetzten, den Blinden und den Lahmen, o Vritratöter. Diese deine Güte ist nicht mit Worten zu erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und zwei Verlassne führtest du, den Blinden, Lahmen, Vritrafeind, Nichts gleichet dieser deiner Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты вел двоих покинутых:  
 Слепого и хромого, о убийца Вритры.  

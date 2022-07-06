@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पृ꣡षध्रे मे꣡धिये मातरि꣡श्वनि  
 इ꣡न्द्र स्वाने꣡° अ꣡मन्दथाः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 स्यू꣡मरश्माव् ऋ꣡जूनसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यथा॑ । सोम॑म् । दश॑ऽशिप्रे । दश॑ऽओण्ये । स्यूम॑ऽरश्मौ । ऋजू॑नसि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pṛṣadhre* ← *pṛṣadhra*
 - \[noun\], locative, singular, masculine
@@ -86,35 +86,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You did enjoy, **Indra**, the effused drink with **Pṛṣadhra**, **Medhya** and **Mātariśvan**, just as you did drinkthe **Soma** with Daśaśipra, Daśoṇya, Syumaraśmi, and Ṛjunas.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Just as) at Pr̥ṣadhra’s, at Medhya’s, at Mātariśvan’s, Indra, you became  exhilarated on the (soma) being pressed,  
 just as at Daśasipra’s, at Daśoṇya’s, at Syūmaraśmi’s, at R̥jūnas’ (you  drank) the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pattern of the first verse is continued here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du bei Prisadhra, bei Medhya, bei Matarisvan an dem ausgepreßten Soma dich ergötztest, Indra; wie du bei Dasasipra den Soma trankst, bei Dasonya, Sumarasmi, Rijunas-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie du bei Prischadhra, Medhja, Mātariçvan, o Indra, dich am gepressten Tranke erfreut hast, wie du den Soma [trankst] bei Daçaçipra, Daçonia, Sjūmaraçmi und Ridschūnas.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Как) у Пришадхры, Медхьи, Матаришвана, о Индра,  
 Ты опьянялся выжатым (сомой),  

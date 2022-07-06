@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ नः शक्तम् पा꣡र्थिवस्य  
 महो꣡ रायो꣡ दिविय꣡स्य  
 म꣡हि वां क्षत्रं꣡ देवे꣡षु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 महि॑ । वा॒म् । क्ष॒त्रम् । दे॒वेषु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -87,36 +87,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **ता** तौ देवौ **नः** अस्मदर्थं **पार्थिवस्य** पृथिवीसंबद्धस्य **दिव्यस्य** दिवि भवस्य च **महः**। महतः **रायः** धनस्य **शक्तं** समर्थौ भवतम् । दातुमिति शेषः । हे देवौ **वां** युवयोः **महि** महत् पूज्यं **क्षत्रं** बलं **देवेषु** प्रसिद्धं स्तुम इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They two are able (to grant us) of great terrestrial and celestial riches; great is your might among the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Show us your mastery over great wealth, earthly and heavenly.  
 Great is your dominion among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So help ye us to riches, great terrestrial and celestial wealth:  
      Vast is your sway among the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erwirket uns beide großen irdischen und himmlischen Reichtum! Groß ist eure Macht unter den Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schenket grossen Reichthum denn uns irdischen und himmlischen; Bei Göttern gross ist eure Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Помогите вы нам с великим  
 Богатством, земным (и) небесным!  

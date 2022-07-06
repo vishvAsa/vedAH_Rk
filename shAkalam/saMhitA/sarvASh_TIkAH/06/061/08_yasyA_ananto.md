@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्या अनन्तो꣡ अ꣡ह्रुतस्  
 त्वेष꣡श् चरिष्णु꣡र् अर्णवः꣡  
 अ꣡मश् च꣡रति रो꣡रुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 अमः॑ । चर॑ति । रोरु॑वत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyā* ← *yasyāḥ* ← *yad*
 - \[noun\], genitive, singular, feminine
@@ -76,20 +76,20 @@ genre M
 **यस्याः** सरस्वत्याः **अमः** बलम् **अनन्तः** अपर्यन्तोऽपरिमितः **अह्रुतः** अहिंसितोऽकुटिलो वा **त्वेषः** दीप्तः **चरिष्णुः** चरणशीलः । सर्वत्राप्रतिहतगतिरित्यर्थः । **अर्णवः** उदकवान् । उदकप्रद इत्यर्थः । एवंभूतः सन् **रोरुवत्** भृशं शब्दं कुर्वन् **चरति** वर्तते सा नो विश्व इत्युत्तरत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May she whose might, infinite, undeviating, splendid, progressive, water-shedding, proceeds loud-sounding.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose boundless, unswerving, turbulent, roving flood,  
 her onslaught, proceeds ever roaring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Like vs. 5, this middle vs. of the tṛca contains only a rel. cl., which I consider to hang off vs. 7, though it could also attach to the flg. vs. 9. Both 7 and 9 have an overt possible correlative for yásyāḥ in 8a: 7a syā́… sárasvatī, 9a sā́.
 
@@ -104,23 +104,23 @@ Unlike the preceding tṛca, this one dispenses with repetition and therefore ha
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose limitless unbroken flood, swift-moving with a rapid rush,  
      Comes onward with tempestuous roar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deren Andrang endlos, ungebrochen, heftig, wallend, wogend unter Brüllen dahingeht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, deren starker Wogendrang ohn' Ende, ungehindert stets, Vordringend, wallend, brausend geht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та,) чья бесконечная, непетляющая,  
 Опасная, подвижная, бурная  

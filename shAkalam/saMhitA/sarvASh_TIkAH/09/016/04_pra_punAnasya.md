@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ पुनान꣡स्य चे꣡तसा  
 सो꣡मः पवि꣡त्रे अर्षति  
 क्र꣡त्वा सध꣡स्थम् आ꣡सदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क्रत्वा॑ । स॒धऽस्थ॑म् । आ । अ॒स॒द॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **चेतसा** स्तुत्या **पुनानस्य** पूयमानस्यांशीभूतः **सोमः** **पवित्रे** दशापवित्रे **अर्षति** गच्छति । अथ पश्चात् **क्रत्वा** कर्मणा प्रज्ञानेन वा **सधस्थं** सहस्थानं द्रोणकलशे **आसदत्** आसीदति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,33 +87,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Settles in the plural ce: the vessel called droṇakalaśa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With attention Soma rushes forth into the filter of the one being purified; with resolve he has taken his seat.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the published translation I construe punānásya with pavítre, not with adjacent cétasā, as Geldner and Renou do. I would now emend my tr. to the standard: “with the attention of the one being purified [that is, himself].” Geldner comments (n. 4a), “Er weiss von selbst, was er zu tun hat,” and although I’m not entirely sure that this is what the phrase means, my published translation doesn’t make much sense either and overlooks the fact that pāda b, which contains the noun, pavítre, on which I hang the gen. punānásya, is found identically in the next hymn (17.3), as well as in IX.37.1, both times without a gen.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Moved by the purifier's thought, the Soma flows into the sieve:  
      By wisdom it hath gained its home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Einsicht des sich Läuternden rinnt Soma auf die Seihe; mit Überlegung hat er sich auf seinen Platz gesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erglänzend als sich läutender ergiesst der Soma sich ins Sieb, Und setzt sich kräftig auf den Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С сознанием очищающегося  
 Течет сома вперед в цедилку.  

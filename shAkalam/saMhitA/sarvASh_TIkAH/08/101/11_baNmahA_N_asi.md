@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब꣡ण् महाँ꣡ असि सूरिय  
 ब꣡ळ् आदित्य महाँ꣡ असि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अद्धा꣡ देव महाँ꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒हः । ते॒ । स॒तः । म॒हि॒मा । प॒न॒स्य॒ते॒ । अ॒द्धा । दे॒व॒ । म॒हान् । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *baṇ* ← *baṭ*
 - \[adverb\]
@@ -118,19 +118,19 @@ genre M
 हे **सूर्य** त्वं **महान्** तेजसाधिकः **असि** । **बट्** सत्यम्। नैतन्मिथ्येत्यर्थः। हे **आदित्य** अदितेः पुत्र त्वं **महान्** बलेनाप्यधिकः **असि** । **बट्** सत्यम् । **महः** महतः **सतः** भवतः **ते** **महिमा** महत्त्वं **पनस्यते** स्तोतृभिः स्तूयते । हे **देव** द्योतनादिगुणयुक्त सूर्य त्वं **महान्** वीर्येणाप्यधिकः **असि** भवसि । **अद्धा** सत्यमेव । अत्र न संशय इत्यर्थः । ‘ बट् सत्रा अद्धा ' इति सत्यनामसु पाठात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily you are great, O Sun; verily, **Āditya**, you are great; the greatness of you, the greatone,ispraised; verily you are great, O god.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yes indeed! you are great, Sūrya; yes indeed! Āditya, you are great. The greatness of you who are great attracts admiration. Certainly, god,  you are great.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/101/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -140,23 +140,23 @@ As noted in the published introduction, the banality of these vss. is a surprisi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Verily, Surya, thou art great; truly, Aditya, thou art great.  
      As thou art great indeed, thy greatness is admired: yea, verily, thou, God, art great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrhaftig, du bist der Große, Surya; wahrhaftig, du bist der Große, Aditya. Deine, des Großen, Größe verdient Preis; wirklich bist du, Gott, der Große.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, gross bist du, o Sonnengott, ja, o Aditja, gross bist du; deine, des grossen, Grösse wird fürwahr gepriesen, o Gott, du bist gross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В самом деле, ты велик, о Сурья.  
 В самом деле, ты велик, о Адитья.  

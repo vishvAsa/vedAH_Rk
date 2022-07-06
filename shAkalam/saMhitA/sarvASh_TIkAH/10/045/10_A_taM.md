@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त꣡म् भज सौश्रवसे꣡षु अग्न  
 उक्थ꣡-उक्थ आ꣡ भज शस्य꣡माने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡ज् जाते꣡न भिन꣡दद् उ꣡ज् ज꣡नित्वैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्रि॒यः । सूर्ये॑ । प्रि॒यः । अ॒ग्ना । भ॒वा॒ति॒ । उत् । जा॒तेन॑ । भि॒नद॑त् । उत् । जनि॑ऽत्वैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -147,36 +147,36 @@ genre M
 आतमिति ॥ हे अग्ने । तं अपूपस्य दातारं आभज । सौ श्रवसेषु । श्रव इत्यन्ननाम । शोभनैश्चरुपुरोडाशादिभिर्युक्तेषु यागेषु उक्थउक्थे शस्त्रेशस्त्रे शस्यमाने प्रतिशस्रमित्यर्थः । आभज । स च त्वत्प्रसादात् सूर्ये सूर्यस्य प्रियो भवाति भवेत् । प्रियो अग्ना अग्नेश्च तव प्रियो भवेत् । किञ्च - जातेन । जातावेकवचनम् । जातैः पुत्रैः । उद्भिनदत् उद्भियतां प्रताशताम् । उज्जनित्वैः जनिष्यमाणैश्च पुत्रै रुद्भिनदत् ॥
 ꣡</details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Prosper the worshipper, **Agni**, when beautiful sacrificial viands (are being offered), when sacredpraises are being recited (by him). May he be dear to **Sūrya**, dear to Agni; may he by a son born, or sons to beborn, overcome (his foes).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Give him a portion in (ritual acts) deserving good fame, Agni; give him  a portion in every solemn speech being pronounced.  
 He will become dear to the Sun, dear to Agni. He will burst out with  (offspring already) born, burst out with those to be born.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Endow him, Agni, with a share of glory, at every song of praise sung forth enrich him.  
      Dear let him be to Surya, dear to Agni, preeminent with son and children's children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib ihm Anteil an ruhmreichen Werken, o Agni, gib ihm Anteil an jedem vorgetragenen Lobgedicht! Beliebt bei Surya, beliebt bei Agni soll er sein, mit dem geborenen und den künftigen Söhnen soll er Erfolg haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem theile zu, o Agni, reichen Segen, bei jedem Spruch, den er dir nennt, gewähr's ihm; Er sei beliebt bei Agni, bei der Sonne und rag hervor durch Kind und Kindeskinder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дай ему волю в славных делах, о Агни!  
 Дай ему долю в каждом произносимом восхвалении!  

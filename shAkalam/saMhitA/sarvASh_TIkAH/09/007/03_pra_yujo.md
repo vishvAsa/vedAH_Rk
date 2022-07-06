@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ युजो꣡ वाचो꣡ अग्रियो꣡  
 वृ꣡षा꣡व चक्रदद् व꣡ने  
 स꣡द्माभि꣡ सत्यो꣡ अध्वरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सद्म॑ । अ॒भि । स॒त्यः । अ॒ध्व॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -89,20 +89,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 एतदेव दर्शयति । **वृषा** कामानां वर्षकः **सत्यः** सत्यभूतः **अध्वरः** हिंसावर्जितः **अग्रियः** मुख्यः **सोमः** **सद्म** यज्ञगृहम् **अभि** प्रति **वने** उदके **युजः** युक्ताः **वाचः** **प्र** **अव** **चक्रदत्** अवक्रन्दति । शब्दान् करोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pre-eminent (**Soma**), the showerer of benefits, the truthful, the indestructible, utters continuous sounds in the water, towards the sacrificial hall.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth (he goes) as the forefront of speech, his yokemate; the bull has  roared down into the wood(en vessel),  
 toward his seat: he is the real rite.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase satyó adhvaráḥ, which I take as a separate nominal cl., but which can simply be another appositional nominative as most take it, must identify soma as, as it were, the embodiment of the ritual, the substance that must be present for the adhvaráḥ to occur.
 
@@ -117,23 +117,23 @@ A verb of motion needs to be supplied with prá in the initial pādas of both vs
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 About the holy place, the Steer true, guileless, noblest, hath sent forth  
      Continuous voices in the wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der vereinigten Rede geht er voraus; der Bulle brüllt im Holzgefäß; zu seinem Sitze eilt er, die wahre Opfergabe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voreilend dem gesellten Lied, laut wiehert in der Flut der Hengst, Das wahre Opfer eilt zum Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Он) про(двигается) впереди сопровождающей (его) речи.  
 Бык ревет в деревянном сосуде.  

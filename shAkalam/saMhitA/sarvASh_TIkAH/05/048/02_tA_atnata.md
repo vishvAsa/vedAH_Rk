@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ अत्नत वयु꣡नं वीर꣡वक्षणं  
 समानिया꣡ वृत꣡या वि꣡श्वम् आ꣡ र꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ पू꣡र्वाभिस् तिरते देवयु꣡र् ज꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अपो॒ इति॑ । अपा॑चीः । अप॑राः । अप॑ । ई॒ज॒ते॒ । प्र । पूर्वा॑भिः । ति॒र॒ते॒ । दे॒व॒ऽयुः । जनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
@@ -129,7 +129,7 @@ genre M
 इयमुषस्या । **ताः** उषसः **अत्नत** वितन्वन्ति । किम् । **वयुनं** प्रज्ञानम् । कीदृशम् । **वीरवक्षणम्** । वीरैर्ऋत्विग्भिर्वहनीयम् । यद्वा । वक्षणाः कार्यवोढारो येन प्रेर्यन्ते तत्तादृशम् । किंच **समान्या** एकरूपया **वृतया** आवरकया दीप्त्या **विश्वम्** **आ** सर्वमपि **रजः** जगत् अत्नत । एवं सति **देवयुः** देवकामः **जनः** **अपाचीः** अपाञ्चनाः प्रतिनिवृत्तमुखीः **अपराः** अन्या आगामिनीः उषसः **अपेजते** अपचालयति । अपरोऽपशब्दः पूरणः । **पूर्वाभिः** ताभिः **प्र** **तिरते**। प्रपूर्वस्तिरतिर्वर्धनार्थः । वर्धयति स्वमनीषां वर्धते वा स्वयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,13 +144,13 @@ Aparā = agaminir uṣasaḥ;
 Apejate = apācalayati, he causes to go away; he sends away future dawns with averted faces; improves his understanding: pra pūrvābhistirate = pratirate: vardhayati sva maniṣam or svayam vardhate
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They [=Dawns] have spread their hero-strengthening tracery along the  same course through the whole dusky realm.  
 A man devoted to the gods drives away the backward-facing (dawns)  ever behind (him), and lengthens (his life) with those in front.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The image in 1cd is repeated with variation in 2ab. The fem. sg. subj. of 1d has been replaced by the fem. pl., easily interpr. as plural Dawns, as often. The verb is held constant, though the root aor. atnata substitutes for the pres. vitanóti. The waters/rays of light that the Dawn spread out in 1cd are now characterized as forming a pattern or tracery across the dusky realm (víśvam ā́rájaḥ) that also figured in 1cd. The spreading performed by the Dawns is done “along the same course” (samānyā́vṛtáyā) by my interpretation -- that is, the same course that the successive Dawns follow day after day. I do not understand why their pattern of light is “herostrengthening” (vīrá-vakṣaṇa-). Perhaps this is simply a reference to the usual trope that dawn rouses all people to undertake their daily labors.
 
@@ -159,23 +159,23 @@ The adjective may also prepare for the more human-oriented 2nd hemistich, in whi
 This vs. is full of alliteration and sound play, esp. in pāda c: a: tā́atnata vayúnaṃ vīrávakṣaṇam / c: ápo ápācīr áparā ápejate (noted also by Watkins, Dragon 109) / d: prá pū́rvābhis.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O'er all the region with their uniform advance these have spread out the lore that giveth heroes strength.  
      Back, with their course reversed, the others pass away: the pious lengthens life with those that are before.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Morgenröten haben die Reihe der Tage, die die Männer heranwachsen läßt, in der gleichen Richtung durch den ganzen Raum ausgebreitet. Der gottergebene Mann drängt die späteren weit zurück, durch die früheren verlängert er sein Leben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie woben ihr Gewebe, das die Helden stärkt, mit gleicher Wendung durch den ganzen Luftraum hin, Der fromme Mann treibt vor die westlich strebenden nach Westen hin, dringt vorwärts mit den östlichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти (зори) протянули череду (дней), укрепляющую мужей,  
 В одну и ту же сторону через все воздушное пространство.  

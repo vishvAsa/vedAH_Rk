@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡नि भद्रा꣡ कलश क्रियाम  
 कु꣡रुश्रवण द꣡दतो मघा꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अयं꣡ च सो꣡मो हृदि꣡ य꣡म् बि꣡भर्मि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दा॒नः । इत् । वः॒ । म॒घ॒ऽवा॒नः॒ । सः । अ॒स्तु॒ । अ॒यम् । च॒ । सोमः॑ । हृ॒दि । यम् । बिभ॑र्मि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāni* ← *etad*
 - \[noun\], accusative, plural, neuter
@@ -131,7 +131,7 @@ popular
 हे **कलश** कलावन् सर्वकलापरिपूर्ण । यद्वा । लुप्तमत्वर्थीयः । द्रोणकलशवन् हे **कुरुश्रवण** । कुरव ऋत्विजः । तेषां स्वभूतानां स्तुतीनां श्रोतर्हे इन्द्र **मघानि** धनानि स्तोतृभ्यो यष्टृभ्यश्च **ददतः** प्रयच्छतस्तवेन्द्रस्यार्थम् **एतानि** **भद्रा** भजनीयानि हवींषि स्तोत्राणि च **क्रियाम** विधेयास्म । करोतेराशीर्लिंङि  ‘ रिङ्शयग्लिङ्क्षु ' (पा. सू. ७. ४. २८) इति रिङादेशः । अथ स्तोतॄन्प्रत्याह । हे **मघवानः** महनीयस्तोत्ररूपधनवन्तः **वः** युष्माकं **सः** इन्द्रः **दान** - **इत्** धनादेर्दातैव **अस्तु** भवतु । **अयं** **च** यज्ञे स्थितः **सोमः** दातास्तु हृदय आत्मीये **यं** पीतं सोमं **बिभर्मि** धारयामि ।  ‘ डुभृञ् धारणपोषणयोः'। जौहोत्यादिकः ।  ‘ भृञामित् ' इत्यभ्यासस्येत्वम् । यद्योगादनिघातः । यद्वा । हे कलशकुलजात हे कुरुश्रवणैतन्नामक त्रसदस्योः पुत्र राजन् ऋत्विग्भ्यो धनानि प्रयच्छतः तवार्थं वयं कर्माणि क्रियाम । मघवानः कुरुश्रवणाः । पूजायां बहुवचनम् । एवं यागकर्म कुर्वाणस्य तवेन्द्रो दाता भवतु । अयं सोमश्च धनानि प्रयच्छतु ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ The possessor of the pitchers:**kalaśa** = complete in all the arts (**kalā**?
 Kuruśravaṇa = hearer of the praise of priests; the nextsūkta refers to this term as the name of a prince
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we do these auspicious things in giving bounties, o wooden vessel,  o Kuruśravaṇa.  
 Let this be a gift just for you, bounteous ones, and this soma here, which  I bear in my heart.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Kalasa, all these blessings will we bring them, O Kurusravana, who give rich presents.  
      May he, O wealthy princes, and this Soma which I am bearing in my heart, reward you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Guttaten wollen wir erweisen, o Somakrug, o Kurusravana, indem wir Geschenke geben." Das soll euer Geschenk sein, ihr freigebigen Gönner, und dieser Soma, den ich im Herzen trage.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Heilvolle wollen wir, o Kalaça, vollbringen, Schätze spendend, o Kuruçravana; dies sei euch ein Geschenk, o ihr Fürsten, und der Soma, den ich im Herzen trage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти добрые дела мы хотим совершить, о чаша (с сомой),  
 О Курушравана, давая щедрые дары!  

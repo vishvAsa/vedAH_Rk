@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आव꣡दंस् त्वं꣡ शकुने भद्र꣡म् आ꣡ वद  
 तूष्णी꣡म् आ꣡सीनः सुमतिं꣡ चिकिद्धि नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बृह꣡द् वदेम विद꣡थे सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 यत् । उ॒त्ऽपत॑न् । वद॑सि । क॒र्क॒रिः । य॒था॒ । बृ॒हत् । व॒दे॒म॒ । वि॒दथे॑ । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āvadaṃs* ← *āvadan* ← *āvad* ← *√vad*
 - \[verb noun\], nominative, singular
@@ -128,7 +128,7 @@ popular;; repeated line
 श्कुनेहेकपिञ्चल आवदन् शब्दङ्कुर्वन् त्वम्भद्रमावद मङ्गलंवद तूष्णीमासीनः तूष्णीन्तिष्ठन्न पिनोस्माकंसुमतिञ्चिकिद्धिबुद्भ्यस्वयद्यदाउत्पतन् वदसितदा कर्करिर्यथाकर्करिर्वदति कर्करिर्वाद्य विशॆषः अन्यद्भ्याख्यातचरम् ॥ ३ ॥ ॥ अथतृतीयम्मण्डलम् ॥वैश्वामित्रेतृतीयेमण्डलेपञ्चानुवाकाः तत्रप्रथमेनुवाके द्वादशसूक्तानि तत्रसोमस्यमेतित्रयो- विंशत्यृचम्प्रथमंसूक्तं तथाचानुक्रान्तं—सोमस्यत्र्यधिकेति अस्यमण्डलस्यद्रष्टाविश्वामित्रऋषिः अनु क्तत्वान्त्रिष्टुप् छन्दः मण्डलादिष्वाग्नेयमितिपरिभाषयाग्निर्देवता प्रातरनुवाकाश्विनशस्त्रयोस्त्रैष्टुभे छन्दसिविनियोगः तथाचसूत्रम्—सोमस्यमातवसम्प्रत्यग्निरितित्रीणीति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,33 +139,33 @@ popular;; repeated line
 Like that of a lute: karkarir yathā: the **karkari** is a musical instrumental ument: **vādya** **viśeṣaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you are speaking, omen-bird, speak auspiciously; when you are  sitting silently, take note of our good thought.  
 When, as you fly up, you speak like a lute... – May we speak loftily at the  ritual distribution, in possession of good heroes.III
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The provision of sitting silently reminds us of the actions and role of the Brāhmaṇa priest in later śrauta ritual: associated (secondarily) with the AV, he silently observes the proceedings for errors and omissions. But that development may be too late for even a late RVic hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When singing here, O Bird. announce good luck to us, and when thou sittest still think on us with kind thoughts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du dich ankündigst, so künde uns Glück, o Vogel; wenn du schweigend sitzest, dann sinne Wohlwollen für uns; wenn du auffliegend wie eine Laute erklingst - Wir möchten das große Wort führen als die Meister in der Weisheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn du uns anschreist, o ^'akuni, so lasse glücklichen Ruf erschallen, wenn du still sitzest, so achte auf unsern Lobgesang, und wenn du auffliegend gleich der Laute erklingst; im Männerchor lasst laut uns singen beim Gottesdienst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Провозглашая, счастье ты нам провозгласи, о вещая птица!  
 Сидя молча, направь на нас (свою) благожелательность!  

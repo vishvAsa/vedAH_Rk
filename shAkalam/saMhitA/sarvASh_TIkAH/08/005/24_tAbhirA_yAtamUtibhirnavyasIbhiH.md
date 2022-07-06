@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡भिर् आ꣡ यातम् ऊति꣡भिर्  
 न꣡व्यसीभिः सुशस्ति꣡भिः  
 य꣡द् वां वृषण्वसू हुवे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत् । वा॒म् । वृ॒ष॒ण्व॒सू॒ इति॑ वृषण्ऽवसू । हु॒वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
@@ -86,41 +86,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वृषण्वसू** वर्षणधनौ। ‘वृषण्वस्वश्वयोरुपसंख्यानम्' (पा.सू. १. ४. १८. ४) इति वृषभावो निपात्यते । तदानीं **ताभिः** पूर्वोक्ताभिः **नव्यसीभिः** नवतराभिः **सुशस्तिभिः** सुप्रशस्याभिः  **ऊतिभिः** रक्षाभिः सार्धम् **आ** **यातम्** आगच्छतम् । **यत्** यदा **वां** **हुवे** स्तुतिभिराह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rich in showers, come with your newest and most excellent protections when I call upon you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here with this help, when with our newer good lauds  
 I call upon you, o you with bullish goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 suśastíbhiḥ in pāda b is taken by Geldner (also Grassmann) as modifying ūtíbhiḥ in pāda a (“mit diesen löblichen Hilfen”; Geldner takes návyasībhiḥ as adverbial “aufs neue”), but this requires suśastí- to be adjectival. However, almost all occurrences of this stem -- and all seven other instr. -- are nouns (‘good laud’)(and see nominal suṣṭutím ‘good praise’, identically formed and nearly synonymous, in 30c below). Although in Gāyatrī the b-pāda more regularly construes with the a-pāda, it is not out of the question for it to go with c instead. In this case the instr. phrase of b goes well with c, and it would only represent one constituent fronted before the subordinating yád.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come near with those most recent aids of yours which merit eulogy,  
      When I invoke you, Wealthy Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit diesen löblichen Hilfen kommt aufs neue, wenn ich euch rufe, ihr Schatzreiche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit solchen Hülfen kommt herbei, wenn ich euch rufe, kräftige, Mit neuen, hoch zu rühmenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте с этими услугами,  
 Новыми, достойными прекрасной хвалы,  

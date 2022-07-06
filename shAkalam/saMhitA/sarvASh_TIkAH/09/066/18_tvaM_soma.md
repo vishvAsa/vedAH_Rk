@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सोम सू꣡र ए꣡षस्  
 तोक꣡स्य साता꣡ तनू꣡नाम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वृणीम꣡हे यु꣡जियाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 वृ॒णी॒महे॑ । स॒ख्याय॑ । वृ॒णी॒महे॑ । युज्या॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -88,20 +88,20 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **सोम** **सूरः** सुवीर्यः । यद्वा । सर्वस्य यागादिकर्मणि प्रेरकः **त्वम्** **इषः** अन्नानि अस्माकम् **आ** धेहि। उपसर्गश्रुतेर्योग्यक्रियाध्याहारः। किंच त्वं **तोकस्य** पुत्रस्य **तनूनाम्** । ‘ तन्वन्ति विस्तारयन्ति कुलमिति तन्वः पौत्राः। तेषां च **साता** दाता भव। ‘षणु दाने'।  जनसन' इति विट्। 'जनसन °' इत्यात्वम् । वयं तं त्वां **सख्याय** सखिभावाय कर्मणे वा **वृणीमहे** संभजामहे । तथा **युज्याय** । युज् सहायः । तस्य भावे कर्मणि वा ष्यञ् । संज्ञापूर्वकस्य विधेत्यरनित्वादवृद्धिः । शत्रुवधादिलक्षणसाहाय्याय च वयं **वृणीमहे** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Soma**, who are a hero (bestow) upon (us) food, (be) the giver of sons (to us); we choose you for your friendship, (we choose you) for your alliance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Soma, are the sun; (bring) refreshments here at the winning of the  offspring of our own bodies.  
 We choose (you) for comradeship; we choose (you) for fellowship.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sole Anuṣṭubh verse in a sea of Gāyatrīs. Note that it is the last vs. before the Agni tṛca, and so it may function as a closing or pseudo-closing vs., dividing the larger hymn into parts.
 
@@ -123,23 +123,23 @@ The first two vss. are linked lexically and by their investment in grammatical c
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, as Sura, bring us food, win offspring of our bodies: we  
      Elect thee for our friendship, we elect thee for companionship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Soma stehst uns bei der Gewinnung der Sonne, der Speisegenüsse, der Nachkommenschaft und der eigenen Leiber bei. Wir erküren dich zur Freundschaft, wir erküren dich zur Bundesgenossenschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Soma, du bist Sonne, schenkest Labung uns und unsern Kindern, Dich begehren wir zum Bündniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

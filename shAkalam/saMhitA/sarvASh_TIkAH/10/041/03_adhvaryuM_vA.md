@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अध्वर्युं꣡ वा म꣡धुपाणिं सुह꣡स्तियम्  
 अग्नि꣡धं वा धृत꣡दक्षं द꣡मूनसम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡त आ꣡ यातम् मधुपे꣡यम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विप्र॑स्य । वा॒ । यत् । सव॑नानि । गच्छ॑थः । अतः॑ । आ । या॒त॒म् । म॒धु॒ऽपेय॑म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryuṃ* ← *adhvaryum* ← *adhvaryu*
 - \[noun\], accusative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 हे अश्विनौ युवां **मधुपाणिं** सोमपाणिम् **अध्वर्युं** **वा** **सुहस्त्यं** सुहस्त्यनामानमृषिं मां **धृतदक्षं** धृतबलं **दमूनसं** दानमनसम् **अग्निधं** **वा** ऋत्विग्विशेषं समायातम् । तदेव दर्शयति । **यत्** यद्यपि **विप्रस्य** अन्यस्य मेधाविनः **सवनानि** यज्ञान् **गच्छथः** तथापि **अतः** तेभ्यो यज्ञेभ्यः **मधुपेयम्** अस्माकं सोमात्मकं पेयम् **आ** **यातम्** अन्वागच्छतम् ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,30 +130,30 @@ genre M
 Competent lowly-minded feeder: damunasa = intending togive, dānamanasam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whether you are going to an Adhvaryu of good hands with honey in his  palms, or to an Agnidh of steadfast skill, a domestic leader,  
 or to the soma-pressings of an inspired poet, from there drive here to  honey-drinking, o Aśvins.  
 Kr̥ṣṇa Āṅgirasa is said to be the poet of the next three hymns (42–44), all dedicated  to Indra and showing clear verbal connections.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If to the deft Adhvaryu with the meath in hand, or to the Kindler firm in strength, the household friend,  
      Or to the sage's poured libations ye approach, come thence, O Asvins, now to drink the offered meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ob ihr zu dem Adhvaryu mit geschickter Hand, der den Süßtrank in der Hand hält, oder zu dem Feueranzünder, dem willensfesten Hausherrn, oder zu den Trankspenden eines Redegewandten geht, so kommt von dort zum Süßtrank, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ihr zum Diener, der geschickt den Meth euch reicht, und zu des Hauses treuem Feuerzünder kommt, Wenn zu des Sängers Festgelagen ihr erscheint, so kommt von dort, o Ritter, her zum Trunk des Meths.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отправляетесь ли вы к адхварью с медом в руках, с умелыми руками,  
 Или к зажигателю огня с твердой силой действия, другу дома,  

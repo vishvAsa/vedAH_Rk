@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ य꣡द् युवे꣡थे नियु꣡तः सुदानू  
 उ꣡प स्वधा꣡भिः सृजथः पु꣡रंधिम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ महे꣡ ददे सुव्रतो꣡ न꣡ वा꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्रेष॑त् । वेष॑त् । वातः॑ । न । सू॒रिः । आ । म॒हे । द॒दे॒ । सु॒ऽव्र॒तः । न । वाज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -131,20 +131,20 @@ genre M
 हे **सुदानू** शोभनदानावश्विनौ **यत्** यदा **नियुतः** अश्वान् **नि** **युवेथे** नियुञ्जाथे नियोजयथः ताभिरस्मद्यज्ञगमनाय संयुक्तौ भवथः तदा **स्वधाभिः** अन्नैः तत्कारणैरुदकैर्वा **पुरंधिं** बहूनां धात्रीं पृथिवीम् **उप** **सृजथः**। एवं च सति **सूरिः** स्तोता अयं यजमानः **वातो** **न** वायुरिव तद्वत् क्षिप्रं युवां **प्रेषत्** तर्पयतु । **वेषत्** व्याप्नोतु । कामयतां वा ॥ प्रीणातेर्वेतेश्च लेटि रूपे ॥ अनन्तरं **सुव्रतो** **न** अतिप्रशस्तोष्मादिकर्मवानिव **वाजम्** अन्नं **महे** महत्त्वाय अयं यजमानः **आ** **ददे** आदत्ते स्वीकरोति ॥ ‘ आङो दोऽनास्यविहरणे' (पा. सू. १. ३. २०) इत्यात्मनेपदम् । ‘लोपस्त आत्मनेपदेषु' इति तलोपः । यद्वा । छान्दसे लिटि रूपम् ॥ स्वीकृत्य स्वमहत्त्वाय युवामेव तर्पयत्वित्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bountiful givers, when you yoke your horses you replenish the earth with viands; may this your worshipper be (swift) as the wind to propitiate and plural ase you, that, through your great (favour), he may, like a pious man, obtain food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you team up your teams, o you of good gifts, you send abundance  nearby by your own autonomous powers.  
 Our patron gives the ritual prompt [/will please]; he toils [/will pursue]  like the wind. Like one who well follows his commandments, he has  taken victory’s prize, in order (to show) great (generosity?).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, I take the 2nd hemistich as a punning depiction of the poet’s patron, anchored by two adjacent and rhyming verbs that have double readings, préṣad véṣad. The former is generally taken as the s-aor. subj. to √prī ‘please’ (Wh Rts, Grassmann, Narten [176], as well as the standard tr.), but it could also be assigned to prá √iṣ ‘send forth’ (pace Renou, who explicitly rejects this analysis) and refer to the praiṣa- ‘ritual prompt’, a technical term in the later ritual but already reflected in the RV, at least in my view (cf. purupraíṣa- I.145.3 and comm. ad loc.). I think that both readings are present. Those who assign the form to √prī interpret it as an unusual intransitive / reflexive (“becomes pleased, pleases himself”), in contrast to the standard transitive use of the active forms of this root. But this is unnecessary.
 
@@ -153,23 +153,23 @@ The subject is the ritual patron (sūrí-), whose function is to distribute larg
 Given the patronage situation depicted, I take it as short for mahé *rā́dhase “for great (generosity),” as in I.139.6, II.41.6=VI.45.27, VIII.2.29, 24.10, 45.24, 64.12, 93.16.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Bounteous Ones, ye drive your yoked team downward, ye send, by your own natures, understanding.  
      Swift as the wind let the prince please and feast you: he, like a pious man, gains strength for increase.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr Gabenschöne die Gespanne anbindet, so lasset ihr nach eigenem Ermessen der Wunscherfüllung freien Lauf. Der Lohnherr soll befriedigen, soll hinterher sein wie der Wind. Er hat Gewinn eingebracht, um ihn wie ein pflichtgetreuer Lohnherr zu verschenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, gabenreiche, ihr die Rosse lenket, so lasst ihr willig Segensfülle strömen; Erquickend eile wie der Wind der Reiche, er gab zur Lust die Labung als ein frommer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда вы запрягаете упряжки, о щедродающие,  
 По своим обычаям вы изливаете изобилие (богатства).  

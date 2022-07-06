@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यज्ञइ꣡र् देव म꣡र्तिय  
 इत्था꣡ त꣡व्यांसम् ऊत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पूरु꣡र् ईळीत अ꣡वसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । कृ॒ते । सु॒ऽअ॒ध्व॒रे । पू॒रुः । ई॒ळी॒त॒ । अव॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -107,42 +107,42 @@ genre M
 हे **देव** **मर्त्यः** मनुष्य ऋत्विक् **इत्था** इत्थं **तव्यांसं** स्वतेजोभिः प्रवृद्धम् **अग्निम्** **ऊतये** तर्पणाय **यज्ञैः** स्तोत्रैः **आ** ह्वयति । किंच **पूरुः** मनुष्यः स्तोता **कृते** **स्वध्वरे** शोभने क्रतौ तम् अग्निम् **अवसे** रक्षणाय **ईळीत** स्तौति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Agni**, a mortal thus with sacrifices (calls upon you) who are endowed with lustre for protection; **Puru** adores Agni for protection when the sacred rite is solemnized.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here, o god, by his sacrifices the mortal (should summon) the mightier  one for help;  
 Pūru should summon Agni to give help, when a good rite has been  
 performed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GOD, may a mortal call the Strong hither, with solemn rites, to aid,  
      A man call Agni to protect when sacrifice is well prepared.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the mortal truly by sacrifices, O god, (magnify) the stronger one for help; may the Pûru, when good service has been performed, magnify Agni (and thereby draw him) hither for his aid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Opfersprüchen soll, o Gott, der Sterbliche den so viel Stärkeren zur Gunst, der Puru den Agni zur Gnade anrufen, da ein schönes Opfer bereitet ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Opfer flehe dich, o Gott, der Sterbliche um Beistand an; Um Huld den starken Agni recht der Mensch bei schön vollbrachtem Fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О бог, пусть смертный жертвами (призовет) сюда  
 (Агни,) гораздо более сильного, (чем другие), – для поддержки,  

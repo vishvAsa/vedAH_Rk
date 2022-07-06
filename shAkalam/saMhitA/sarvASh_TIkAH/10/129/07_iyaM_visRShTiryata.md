@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयं꣡ वि꣡सृष्टिर् य꣡त आबभू꣡व  
 य꣡दि वा दधे꣡ य꣡दि वा न꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡ अङ्ग꣡ वेद य꣡दि वा न꣡ वे꣡द
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यः । अ॒स्य॒ । अधि॑ऽअक्षः । प॒र॒मे । विऽओ॑मन् । सः । अ॒ङ्ग । वे॒द॒ । यदि॑ । वा॒ । न । वेद॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -139,7 +139,7 @@ popular
 “न **वेद** न जानाति । को नाम अन्यो जानीयात् । सर्वज्ञ ईश्वर एव तां सृष्टिं जानीयात् नान्य इत्यर्थः   ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,33 +150,33 @@ popular
 Sa bhagavahkasmin **pratiṣṭhita**: **Chāndogya Upaniṣad** 7.24.1
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This creation—from where it came to be, if it was produced or if not— he who is the overseer of this (world) in the furthest heaven, he surely  knows. Or if he does not know...?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, the first origin of this creation, whether he formed it all or did not form it,  
      Whose eye controls this world in highest heaven, he verily knows it, or perhaps he knows not.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 None knoweth whence creation has arisen; And whether he has or has not produced it: He who surveys it in the highest heaven, He only knows, or haply he may know not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Woraus diese Schöpfung sich entwickelt hat, ob er sie gemacht hat oder nicht - der der Aufseher dieser Welt im höchsten Himmel ist, der allein weiß es, es sei denn, daß auch er es nicht weiß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, Der auf sie schaut im höchsten Himmelsraume, der weiss allein es, oder weiss ers auch nicht?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Откуда это творение возникло,  
 Было ли оно создано или же нет –  

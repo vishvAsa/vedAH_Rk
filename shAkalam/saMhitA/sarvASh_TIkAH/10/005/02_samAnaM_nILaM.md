@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समानं꣡ नीळं꣡ वृ꣡षणो व꣡सानाः  
 सं꣡ जग्मिरे महिषा꣡ अ꣡र्वतीभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गु꣡हा ना꣡मानि दधिरे प꣡राणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तस्य॑ । प॒दम् । क॒वयः॑ । नि । पा॒न्ति॒ । गुहा॑ । नामा॑नि । द॒धि॒रे॒ । परा॑णि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samānaṃ* ← *samānam* ← *samāna*
 - \[noun\], accusative, singular, neuter
@@ -122,7 +122,7 @@ genre M
 **वृषणः** आहुतीनां सेक्तारः **समानम्** एकं **नीळं** स्थानमग्निं **वसानाः** मन्त्रत आच्छादयन्तः **महिषाः** महान्तो यजमानाः **अर्वतीभिः** वडवाभिः **सं** **जग्मिरे** समगच्छन्त । अश्ववन्तोऽभूवन् । यद्वा । अग्निमेवात्मीययज्ञं प्रत्यागन्तुं रोहिदाख्याभिर्वडवाभिः संयोजितवन्तः । तथा **कवयः** मेधाविनः **ऋतस्य** उदकस्य **पदम्** आवासस्थानमग्निं **नि** **पान्ति** नितरां रक्षन्ति । हविर्भिः स्तुतिभिश्च आराधयन्तीत्यर्थः। ततः **गुहा** गुहायामन्तरिक्षे स्थितानि दिव्यानि **नामानि** उदकानि **दधिरे** धारयन्ति । यद्वा । गुहा गूढे संवृते हृदये **पराणि** प्रधानान्यग्निर्जातवेदा वैश्वानर इत्यादीनि नामानि दधिरे कुर्वन्ति । स्तुवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,29 +133,29 @@ genre M
 Have associated him: have (themselves) becomepossessed of horses; the strong stallions dwelling in one common plural ce have joined the mares; the plural ce of thewater: i.e., the fire. **guhā** nāmāni dadhire parāṇi = they keep in their secret hearts (i.e., worship) **Agni**'sprincipal names, Agni, **Jātavedas**, **Vaiśvānara**...
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Cloaking themselves [/dwelling] in the same nest, the bullish buffaloes  have united with the mares.  
 The sage poets protect the track of truth: they have placed in hiding the  highest names.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Inhabiting one dwelling-place in common, strong Stallions and the Mares have come together.  
      The sages guard the seat of Holy Order, and keep the highest names concealed within them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In das gemeinsame Nest sich versteckend sind die brünstigen Büffel mit den Stuten zusammen gekommen. Die Seher hüten der Wahrheit Spur; sie haben ihre höchsten Bezeichnungen in ein Geheimnis gehüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die starken Hengste, gleichen Sitz bewohnend, vereinten sich, die grossen, mit den Stuten; Als Seher schützen sie den Ort des Opfers, empfangen im Verborgnen schönre Namen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прячась в общее гнездо, мужественные  
 Буйволы сошлись с кобылицами.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नः पुनान꣡ आ꣡ भर  
 रयिं꣡ स्तोत्रे꣡ सुवी꣡रियम्  
 जरितु꣡र् वर्धया गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ज॒रि॒तुः । व॒र्ध॒य॒ । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -93,36 +93,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **सः** त्वं **नः** अस्मभ्यं **स्तोत्रे** स्तोतृभ्यः **पुनानः** पूयमानोऽभिषूयमाणः **आ** **भर** आहर । किम् । **रयिं** धनम् । कीदृशम् । **सुवीर्यं** सुपुत्रम् । किंच **जरितुः** स्तोतुः **गिरः** स्तुतीः **वर्धय** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Soma**, being purified, bring us your worshippers wealth with **male** offspring, recompense the praises of him who glorifies you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being purified, bring hither wealth and an abundance of heroes to our  praise singer;  
 strengthen the songs of the singer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As thou art cleansed, bring hero strength and riches to thy worshipper,  
      And prosper thou the singer's hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring, dich läuternd, unserem Sänger Reichtum, die Meisterschaft; stärke die Lobreden des Sängers!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt bringe Reichthum du dem Sänger her und Heldenkraft, Des Dichters Lieder segne du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ श्येन꣡स्य ज꣡वसा नू꣡तनेन  
 अस्मे꣡ यातं नासतिया सजो꣡षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शश्वत्तमा꣡या उष꣡सो वि꣡उष्टौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 हवे॑ । हि । वा॒म् । अ॒श्वि॒ना॒ । रा॒तऽह॑व्यः । श॒श्व॒त्ऽत॒मायाः॑ । उ॒षसः॑ । विऽउ॑ष्टौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -110,36 +110,36 @@ genre M
 हे नासत्यावश्विनौ **सजोषाः** सजोषसौ समानप्रीतियुक्तौ **श्येनस्य** शंसनीयं गच्छतः अश्वस्य **नूतनेन** नवतरेण प्रत्यग्रेण **जवसा** वेगेन सहितौ युवाम् **अस्मे** अस्मान् **आ** **यातम्** आगच्छतम्। **अश्विना** हे अश्विनौ **रातहव्यः** **वां** युवाभ्यां दातव्येन हविषा युक्तः सन् **शश्वत्तमायाः** कालात्मकतया नित्यायाः **उषसो** व्युष्टौ विवासनसमये वां युवां **हवे** आह्वयामि । हिः हेतौ । **हि** यस्मादेवं तस्मात् आयातमित्यर्थः ॥ अस्मे । ‘सुपां सुलुक् ' इति शसः शेआदेशः । सजोषाः ॥ तेनैव द्विवचनस्य सुआदेशः। हवे । ह्वेञो लडुत्तमैकवचने ‘बहुलं छन्दसि' इति संप्रसारणम् । शब्गुणावादेशाः । शश्वत्तमायाः। ‘उत्तमशश्वत्तमौ सर्वत्र' (पा. सू. ६. १. १६०. ग. ) इति उञ्छादिषु पाठात् अन्तोदात्तत्वम् ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us, auspicious **Nāsatyas**, with the fresh velocity of a hawk; bearing an oblation, I invoke you, **Aśvins**, at the rising of the ever constant dawn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of one accord, Nāsatyas, journey here to us with the fresh speed of a  falcon,  
 for, as one who has given an oblation, I call upon you, Aśvins, at the  break of the newest dawn of all.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come unto us combined in love, Nasatyas come with the fresh swift vigour of the falcon.  
      Bearing oblations I invoke you, Asvins, at the first break of everlasting morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet mit der frischen Schnelligkeit des Adlers einträchtig zu uns, ihr Nasatya´s, denn ich rufe euch Asvin an unter Opferspenden bei Aufgang der Morgenröte, die zum vielten Male da ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Treue, kommet mit des Adlers Schnelle, der neusten her zu uns, ihr engverbundnen, Denn Opfer bringend ruf' ich euch, ihr Ritter, beim Aufgang jeder neusten Morgenröthe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С мгновенной скоростью орла  
 Приезжайте к нам, о Насатьи, единодушные!  

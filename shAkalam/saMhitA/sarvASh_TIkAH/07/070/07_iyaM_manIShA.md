@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इय꣡म् मनीषा꣡ इय꣡म् अश्विना गी꣡र्  
 इमां꣡ सुवृक्तिं꣡ वृषणा जुषेथाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इ॒मा । ब्रह्मा॑णि । यु॒व॒ऽयूनि॑ । अ॒ग्म॒न् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -120,36 +120,36 @@ genre M;; repeated line
 अथ सप्तम्या स्तुतिमुपसंहरति । हे **अश्विना** अश्विनौ **इयं** **मनीषा** स्तुतिर्युवयोः कृतेति शेषः । तदेवादरार्थं पुनरुच्यते । **इयं** **गीः** स्तुतिः कृता । हे **वृषणा** कामानां वर्षको **इमाम्** अस्मत्कृतां **सुवृक्तिं** शोभनां स्तुतिं **जुषेथां** सेवेथाम् । **इमा** इमानि **ब्रह्माणि** कर्माणि स्तुतिरूपाणि युवयूनि युवां कामयमानानि सन्ति **अग्मन्** गच्छन्तु युवाम् । यूयं पातेति सिद्धम् ॥ ॥ १७ ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This adoration, **Aśvins**, this praise (is for you) be gratified, showerers (of benefits), by this laudationmay these eulogies, addressed to you, reach you; and do you ever cherish us with blessing.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the inspired thought, here the song, Aśvins—take pleasure in this  intricate (hymn), o bulls.  
 These formulations have gone, seeking you. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is the thought, this is the song, O Asvins: accept this hymn of ours, ye Steers, with favour.  
      May these our prayers addressed to you come nigh you. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Gedicht, diese Lobrede ist für euch, ihr Asvin. Erfreuet euch an diesem Lobpreis, ihr Bullen! Diese feierlichen Worte sind ausgezogen nach euch verlangend.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier tönt das Lied, hier das Gebet, o Ritter, nehmt an mit Huld, o Helden, dieses Preislied; Zu euch ist liebend dies Gebet gedrungen; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вот) эта молитва, о Ашвины, эта хвалебная песнь.  
 Радуйтесь, о два быка, этому гимну!  

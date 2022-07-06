@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡नर् ये꣡ चक्रुः꣡ पित꣡रा यु꣡वाना  
 स꣡ना यू꣡पेव जरणा꣡ श꣡याना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡धुप्सरसो नो अवन्तु यज्ञ꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ते । वाजः॑ । विऽभ्वा॑ । ऋ॒भुः । इन्द्र॑ऽवन्तः॑ । मधु॑ऽप्सरसः । नः॒ । अ॒व॒न्तु॒ । य॒ज्ञम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punar*
 - \[adverb\]
@@ -130,37 +130,37 @@ genre M
 **ये** ऋभवः **पितरा** मातापितरौ **यूपेव** छिन्नस्थाणू इव **जरणा** जीर्णौ **शयाना** शयानौ **पुनः** **सना** सदा **युवाना** युवानौ **चक्रुः** नित्यतरुणावकुर्वन् । **ते** **वाजो** **विभ्वा** **ऋभुः** च एतन्नामकास्त्रयः सुधन्वन आङ्गिरसस्य पुत्रा ऋभवः ”इन्द्रवन्तः अनुग्राहकेणेन्द्रेण तद्वन्तः **मधुप्सरसः** मधुरस्य सोमरसस्य भक्षयितारः मनोहररूपा वा **नः** अस्मदीयं **यज्ञम्** **अवन्तु** रक्षन्तु गच्छन्तु वा ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May they who rendered their decrepid and dropsy parents, when, like two dry **posts**, again perpetually young, **Vāja**, Vibhavan, and **Ṛbhu** associated with **Indra**, drinkers of the **Soma** juice, protect our sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They who made their parents, lying aged like two old posts,  
 youths again—  
 let them—Vāja, Vibhvan, and R̥bhu together with Indra—delighting in  the honeyed (soma), help our sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May they who made their Parents, who were lying like posts that moulder, young again for ever,-  
      May Vaja, Vibhvan, Rbhu, joined with Indra , protect our sacrifice, the Soma-lovers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die die Eltern wieder jung machten, die alt wie zerfallene Pfosten dalagen, Vaja, Vibhvan, Ribhu, die Honiggenießer, sollen nebst Indra unser Opfer bevorzugen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die wieder jung die alten Aeltern machten, als sie da lagen wie zwei morsche Pfeiler, Die, Vadscha, Vibhvan, Ribhu sammt dem Indra Meth-schmausend mögen unser Opfer kosten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) кто снова сделал юными родителей,  
 Старых, лежащих как два изношенных (жертвенных) столба,  

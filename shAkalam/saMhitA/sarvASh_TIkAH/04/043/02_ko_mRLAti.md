@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ मॄळाति+ कतम꣡ आ꣡गमिष्ठो  
 देवा꣡नाम् उ कतमः꣡ श꣡म्भविष्ठः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यं꣡ सू꣡रियस्य दुहिता꣡वृणीत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रथ॑म् । कम् । आ॒हुः॒ । द्र॒वत्ऽअ॑श्वम् । आ॒शुम् । यम् । सूर्य॑स्य । दु॒हि॒ता । अवृ॑णीत ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -116,44 +116,44 @@ genre M
 **को** **मृळाति** को देवो मृडाति सुखयेत् अस्मान् । **कतमः** देवः **आगमिष्ठः** आगन्तृतमः अस्मद्यज्ञं प्रति । **देवानामु** देवानां मध्ये **कतमः** देवः **शंभविष्ठः** सुखस्य भावयितृतमः। एवमुक्तगुणविशिष्टः को भवेत् अश्विनावन्तरेणेति भावः । **कं** **रथं** **द्रवदश्वमाशुम्”** **आहुः** ब्रुवते। **यं** रथं **सूर्यस्य** **दुहिता** सूर्यस्य पत्नी **अवृणीत** समभजत् । तं कं रथं वेगवन्तमाहुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who will make us happy? which of the gods is the most prompt to come to our sacrifice? which is the most willing to grant us felicity? what chariot do they say is quick and drawn by rapid steeds? That which the daughter of **Sūrya** selected.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who will have mercy? Which one (will be) the first to come? Which one  of the gods (will be) the most wealful?  
 What swift chariot with speeding horses do they say is the one that the  Daughter of the Sun chose?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again, two occurrences of katamá- and one of the pl. devā́nām keep the widest possible range of choices for the answer to these questions.
 
 On “Sūryā chose the chariot” and sim. expressions as an indication of the svayaṃvara (self-choice) marriage in the RV, see my “The Rigvedic svayaṃvara? Formulaic evidence” (Fs. Parpola 2001). Although, as just mentioned, the first halfvs. keeps the options open, the mention of Sūryā and the chariot immediately narrows down the choice of answer to the Aśvins (to a contemporary audience).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who will be gracious? Who will come most uickly of all the Gods? Who will  
      bring liss most largely?  
      What car do they call swift with rapid coursers? That which the Daughter of the Sun elected.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer wird Erbarmen haben, welcher kommt am ehesten, welcher der Götter ist der Wohlwollendste? Welchen Wagen nenne sie den schnellen mit den raschlaufenden Rossen, den die Tochter des Surya sich erkor?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer mag uns hold sein? welcher kommt am schnellsten? und wer der Götter bringt am meisten Heil uns? Welch Wagen ist's, dess Rosse eiligst laufen, der rasche, den der Sonne Tochter wählte?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто смилостивится? Кто придет скорее?  
 Который из богов самый благожелательный?  

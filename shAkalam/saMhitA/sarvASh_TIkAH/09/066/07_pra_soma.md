@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सोम याहि धा꣡रया  
 सुत꣡ इ꣡न्द्राय मत्सरः꣡  
 द꣡धानो अ꣡क्षिति श्र꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दधा॑नः । अक्षि॑ति । श्रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -82,19 +82,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** अभिषूयमाण देव **मत्सरः** इन्द्रस्य मदकरस्वं **सुतः** अस्माभिरभिषुतः सन् **इन्द्राय** इन्द्रार्थं दशापवित्रान्निर्गतया संततया त्वदीयया **धारया** द्रोणकलशं **प्र** **याहि** प्रकर्षेण प्राप्नुहि । यद्वा । हे सोम सुतोऽभिषुतस्त्वमिन्द्राय मत्सरो मादयितृतमः सन् धारयाग्नौ स्वाहाकारेण पात्रात् पतन्त्या धारया सह त्वमिन्द्रमुपयाहि । कीदृशः । **अक्षिति** अक्षीणं **श्रवः**। श्रव इत्यन्ननाम । **दधानः** अस्मभ्यं प्रयच्छन् प्र याहीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Proceed, **Soma**, in a stream when effused, giving exhilaration to **Indra**, bestowing (upon us) inexhaustible food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive forth, Soma, in a stream, pressed as exhilarating for Indra, establishing for yourself imperishable fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains the famous phrase ákṣiti śrávaḥ (or a minor variant of it) “imperishable fame,” interestingly acquired not by a human, but by Soma himself.
 
@@ -109,23 +109,23 @@ No particular sign of cohesion either internal or external.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward, Soma in a stream, effused to gladden Indra's heart,  
      Bringing imperishable fame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm hervor mit deinem Strome, o Soma, für Indra ausgepreßt, berauschend, unvergänglichen Ruhm erwerbend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma, schreite vor im Strom, zum Rausch für Indra ausgepresst, Erlangend Ruhm, der nie vergeht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

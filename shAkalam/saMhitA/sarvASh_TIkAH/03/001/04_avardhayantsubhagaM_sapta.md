@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वर्धयन् सुभ꣡गं सप्त꣡ यह्वीः꣡  
 श्वेतं꣡ जज्ञान꣡म् अरुष꣡म् महित्वा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡सो अग्निं꣡ ज꣡निमन् वपुष्यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शिशु॑म् । न । जा॒तम् । अ॒भि । आ॒रुः॒ । अश्वाः॑ । दे॒वासः॑ । अ॒ग्निम् । जनि॑मन् । व॒पु॒ष्य॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avardhayan* ← *vardhay* ← *√vṛdh*
 - \[verb\], plural, Imperfect
@@ -122,41 +122,41 @@ genre M
 सप्त सर्पणशीलाः यह्वीर्यह्व्यः महत्योनद्यः सुभगं शोभनधनं श्वेतंशुभ्रं जज्ञानं जातं महित्वामहत्त्वेन अरुषमारोचमानं अप्सुस्थितमग्निंअवर्धयन् स्वकार्यभूताभिरोषधीभिर्वृद्धिं प्रापितवत्यः यद्वा दिव्यमग्निं अपोवर्धयन्ति अबिन्धनत्वात्तस्य किञ्च शिशुन्नजातं यथाजातं शिशुंअश्वाः वडवाः अभ्यारुः अभिगच्छन्ति तथानद्यः उत्पन्नमग्निं अभ्यारुः अभिजग्मुः अपि चदेवासः देवाः अग्निञ्जनिमन् जन्मन्युदकेवा वपुष्यन् वपुर्दीप्तिमकुर्वन् ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The seven great rivers augmented in might the auspicious, pure, and radiant **Agni** as soon as he was born, in like manner as mares (tend) the newborn foal; the gods cherished the body (of Agni) at his birth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The seven young women strengthened him of good fortune, who is white  as he comes to birth, red in his greatness.  
 (Those) mares came to him (newly born) as to a new-born colt. The gods  marveled at Agni at his birth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, Blessed One, the Seven strong Floods augmented, him white at birth and red when waxen mighty.  
      As mother mares run to their new-born you ling, so at his birth the Gods wondered at Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The seven young (wives) 1 made the blessed one grow who had been born white, ruddy in his growth. They ran up to him like mares 2 to a newborn foal. The gods wondered at Agni at his birth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sieben jüngsten Ströme zogen den Holden groß, den weiß und rötlich in voller Größe geborenen. Sie kamen zu ihm wie Stuten zum neugeborenen Füllen, die Götter staunten bei seiner Geburt den Agni an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sieben Ströme nährten ihn, den schönen, als licht und roth in Pracht er ward geboren; Die Stuten eilten wie zum jungen Füllen, die Götter schmückten Agni, den gebornen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Семь юниц усилили счастливого,  
 Родившегося светлым (и) алым в величии.  

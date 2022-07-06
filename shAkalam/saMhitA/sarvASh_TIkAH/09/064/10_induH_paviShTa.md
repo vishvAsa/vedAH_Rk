@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दुः पविष्ट चे꣡तनः  
 प्रियः꣡ कवीना᳐꣡म् मती꣡  
 सृज꣡द् अ꣡श्वं रथी꣡र् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सृ॒जत् । अश्व॑म् । र॒थीःऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
@@ -84,20 +84,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **चेतनः** प्रज्ञापकः **प्रियः** देवानां प्रीतिकरः **इन्दुः** सोमः **कवीनां** क्रान्तकर्मणां स्तोतॄणां **मती** मत्या स्तुत्या **पविष्ट** पवते । **अश्वं** हयं **रथीरिव** रथीव ऊर्मिं **सृजत्** सृजति च ॥ ॥ ३७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu** the enlightener, beloved (of the gods), flows forth at the praise of the sages; he lets loose (his wave) as a charioteer his horse.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The drop has become purified, the conspicuous dear one, by the  thought of the poets.  
 Like a charioteer his horse, it has released (its wave),
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -107,23 +107,23 @@ There are some unifying features in this tṛca. Although this is hardly strikin
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu, Enlightener, Friend, hath been purified by the sages' hymns:  
      So starts the charioteer his steed-
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Saft hat sich merklich geläutert, der liebe durch des Sehers Dichtung. Er lasse wie der Wagenlenker das Roß, so seine Welle laufen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der liebe Indu riesle hell erglänzend durch der Sänger Lied, rasch, wie das Ross der Lenker treibt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

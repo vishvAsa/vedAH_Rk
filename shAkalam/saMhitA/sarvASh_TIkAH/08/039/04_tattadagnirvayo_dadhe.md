@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त्-तद् अग्नि꣡र् व꣡यो दधे  
 य꣡था-यथा कृपण्य꣡ति  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 ऊ॒र्जाऽआ॑हुतिः । वसू॑नाम् । शम् । च॒ । योः । च॒ । मयः॑ । द॒धे॒ । विश्व॑स्यै । दे॒वऽहू॑त्यै । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -150,7 +150,7 @@ genre M;; repeated line
 **यथायथा** यद्यदन्नं **कृपण्यति** स्तोतृभिर्याच्यते **तत्तत्** **वयः** **अग्निः** **दधे** स्तोतृभ्यः प्रयच्छति । अपि च **ऊर्जाहुतिः** अन्नेनाहूयमानोऽग्निः **वसूनां** हविषां वासकानां यजमानानां **शं** शान्तिनिमित्तं **योः** विषययोगजनितं **च** **मयः** सुखं **दधे** करोति । **विश्वस्यै** **देवहूत्यै** सर्वस्मै देवानां ह्वानाय च भवति । यः कश्चनापि देवो यदि हूयते अग्निरेव सर्वं करोतीत्यर्थः । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -161,13 +161,13 @@ genre M;; repeated line
 Happiness springing froṃ..: śam ca yośca **mayaḥ** = śāntinimittamviṣaya yogajanitam ca sukham
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Every kind of vigor does Agni acquire, even as (soon as) he longs for  it—his oblation is the nourishment of the good ones—  
 he acquires luck and lifetime, acquires joy, for every invocation of the gods. – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner supplies a different subject (“singer”) for kṛpaṇyáti in the rel. clause than for dadhe in the preceding main clause: “so viel Kraft verlieht Agni wie immer (der Sänger) bedarf.” This is novel, but seems unnecessary and supported neither by context nor by parallels.
 
@@ -179,23 +179,23 @@ Note that both -ā́huti- (√hu ‘pour’) and -hūti- (√hū ‘call’) app
 The standard interpr. take pratīvyàm as the obj. of inóti (e.g., Geldner “er befördert die Darbringung”), and this is certainly the simplest way. But inóti means ‘impel’, and práti √vī refers to the gods’ reception of mortals’ offerings, not the offerings themselves (see the root noun in quasi-infinitival usage in VIII.23.1, 26.8, and finite passages like VIII.101.10), so the simpler syntax requires attenuating the meanings of both words. I therefore complicate the surface syntax somewhat by supply an obj. to inóti extracted from dákṣiṇābhiḥ in pāda c and making pratīvyàm the goal. If the infinitival sense of pratīvyàm in its other two occurrences is maintained here, it could be tr. “impels (them) to be received.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni bestows all vital power even as each man supplicates.  
      He brings the Vasus strengthening gifts, and grants deliglht, in rest and stir, for every calling on the Gods. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So viel Kraft verleiht Agni, wie immer der Sänger bedarf. Er, dessen Opfer die Stärkung der Götter ist, verleiht jedweder Götteranrufung Heil und Glück und Freude. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So theilt Genüsse Agni aus, wie jeder sie zu haben wünscht, Ergossen wird der Götter Trank, Glück, Heil und Wonne theilt er aus für jede Götteranrufung. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни получает столько телесной силы,  
 Сколько он пожелает.  

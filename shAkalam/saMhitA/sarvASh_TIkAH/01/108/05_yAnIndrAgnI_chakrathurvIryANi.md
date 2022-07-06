@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡नीन्द्राग्नी चक्र꣡थुर् वीरि꣡याणि  
 या꣡नि रूपा꣡णि उत꣡ वृ꣡ष्णियानि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡भिः सो꣡मस्य पिबतं सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 या । वा॒म् । प्र॒त्नानि॑ । स॒ख्या । शि॒वानि॑ । तेभिः॑ । सोम॑स्य । पि॒ब॒त॒म् । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yānīndrāgnī* ← *yāni* ← *yad*
 - \[noun\], accusative, plural, neuter
@@ -131,43 +131,43 @@ genre M
 हे **इन्द्राग्नी** **यानि** **वीर्याणि** वृत्रवधादिरूपाणि **चक्रथुः** कृतवन्तौ युवां **यानि** च **रूपाणि** निरूप्यमाणानि गवाश्वादीनि भूतजातानि कृतवन्तौ । इन्द्राग्निभ्यां हि सर्वं जगत् सृज्यते । इन्द्रः सूर्यात्मना वृष्टिं सृजत्यग्निश्चाहुतिद्वारा वृष्टयुत्पादकः। वृष्टेः सकाशात् सर्वे प्राणिन उत्पद्यन्ते । **उत** अवि च यानि **वृष्ण्यानि** वृष्णि भवानि वृष्टिप्रदानादिरूपाणि कर्माणि कृतवन्तौ । तथा **वां** युवयोः संबन्धीनि **प्रत्नानि** चिरंतनानि **शिवानि** शोभनानि **या** यानि **सख्या** सखित्वानि सन्ति । **तेभिः** तैः सर्वैः सहितौ युवां **सुतस्य** **सोमस्य** अभिषुतं सोमं **पिबतम्** ॥ सख्या । सख्युर्भावः सख्यम् ।  ‘ सख्युर्यः' इति यप्रत्ययः ।  ‘ शेश्छन्दसि बहुलम्' इति शेर्लोपः । तेभिः ।  ‘ बहुलं छन्दसि' इति भिस ऐसभावः ।  ‘ सावेकाचः' इति प्राप्तस्य विभक्त्युदात्तत्वस्य  ‘ न गोश्वन्साववर्ण ' इति प्रतिषेधः ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever heroic exploits you ahve achieved whatever forms (you have created), whatever benefits (you have poured down), whatever ancient and fortunate friendships (you have contracted, come with them all), and drink of the effused **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Agni, which manly deeds you two have done; which forms  and bullish powers you have made your own;  
 which age-old propitious partnerships are yours—with these, drink of  the pressed soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I read cakrathuḥ of a also with b, though in a different sense. Ideally for this sense (‘assumed, made your own’) the verb of b would have been med. cakrāthe.
 
 The referents of tébhiḥ in d are syntactically the neut. yā́(ni) phrases in abc, but it doesn’t make much sense to “drink with” those particular referents. It would be possible to tr. tébhiḥ more heavily as “because of these” or the like, but I think the answer is simpler: rhetorical patterning trumps semantics. The poet is leading up to the loosely attached refrain of vss. 6-12, whose last pāda is identical to 5d but with áthā rather than tébhiḥ; the tébhiḥ here serves as a transition between the earlier verses, where the d pāda is integrated into the verse and the refrain-marked verses to come. It is grammatically connected to but semantically estranged from the first three pādas of 5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The brave deeds ye have done, Indra and Agni, the forms ye have displayed and mighty exploits,  
      The ancient and auspicious bonds of friendship,--for sake of these drink of the flowing Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welche Heldentaten ihr getan habt, welche Gestalten und Kräfte ihr angenommen habt, Indra und Agni, was eure alte liebe Freundschaft ist, mit all diesen trinket vom gepreßten Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra-Agni, welche Heldenthaten, gewalt'ge, schöne Werke ihr vollbracht habt, Welch alte, hehre Freunde euch geleiten, mit denen trinkt vom ausgepressten Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) героические подвиги, о Индра и Агни, что вы совершили,  
 Облики, что (вы принимали), а также силы мужества,  

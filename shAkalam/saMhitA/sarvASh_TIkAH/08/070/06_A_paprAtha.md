@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पप्राथ महिना꣡ वृ꣡ष्णिया वृषन्  
 वि꣡श्वा शविष्ठ श꣡वसा  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 व꣡ज्रिञ् चित्रा꣡भिर् ऊति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒स्मान् । अ॒व॒ । म॒घ॒ऽव॒न् । गोऽम॑ति । व्र॒जे । वज्रि॑न् । चि॒त्राभिः॑ । ऊ॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -109,44 +109,44 @@ genre M;; repeated line
 हे **वृषन्** अभिमतवर्षकेन्द्र त्वम् **आ** **पप्राथ** आपूरयसि व्याप्नोषि । कानि। **विश्वा** सर्वाणि **वृष्ण्या** वर्षकाणि बलानि शत्रुसंबन्धीनि । केन साधनेन । **महिना** महता **शवसा** बलेन स्वीयेन । अथवा वृष्ण्येत्येतच्छवोविशेषणम्। तथा सति अभिमतवर्षकेण महता बलेनास्मदीयानि बलानि पूरयसीत्यर्थः । अथ तथा कृत्वा **अस्मान्** **गोमति** बहुभिर्गोभिर्युक्ते **व्रजे** शत्रुसंबन्धिनि निमित्ते सत्यस्मान् **अव** हे वज्रिन् वज्रयुक्तेन्द्र। कैः साधनैः। **चित्राभिः** नानाविधैः **ऊतिभिः** रक्षणैरिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mightiest showerer (of blessings), you have filled all (our hosts) with your vast bountiful power; OMaghavan, thunderer, guard us with your manifold protections, (when we march) against the well-stockedcowpen of our enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You have filled all things with your bullish greatness, bull, and with your  strength, strongest one.  
 Help us to a pen full of cattle with your bright help, bounteous  
 mace-bearer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes the loc. gómati vrajé as a loc. absolute (“wenn es sich um rindergefüllte Hürde handelt”). By using the Engl. idiom “help someone to something” I may be stretching Sanskrit syntax further than is legitimate. Though see Grassmann, definition 4 s.v. av: “jemandem [A.] wozu [D., L.] verhelfen.” Unfortunately this is the only passage he places under that rubric with a loc.; the others have datives.
 
 However, in Rivelex vol. I the Deep Case Frame for avi , subsection 1d / 1da, tags a number of other possible such passages with this structure (not all of which I would so interpret).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Hero, hast performed thy hero deeds with might, yea, all with strength, O Strongest One.  
      Maghavan, help us to a stable full of kine, O Thunderer, with wondrous aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast mit deiner Größe, deiner Bullenkraft, du Bulle, mit deiner Macht, du Mächtigster, alle Räume erfüllt. Steh uns bei, Gabenreicher, wenn es sich um rindergefüllte Hürde handelt, mit deinen wunderbaren Hilfen, Keulenträger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Macht hast du dein Heldenwerk erfüllt, o Held, mit Stärke alles, stärkster du; Verhilf, o mächt'ger, uns zu rinderreichem Stall, mit reichen Hülfen, Blitzender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

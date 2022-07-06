@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्व꣡प्नेनाभ्यु꣡प्या चु꣡मुरिं धु꣡निं च  
 जघ꣡न्थ द꣡स्युम् प्र꣡ दभी꣡तिम् आवः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 र॒म्भी । चि॒त् । अत्र॑ । वि॒वि॒दे॒ । हिर॑ण्यम् । सोम॑स्य । ता । मदे॑ । इन्द्रः॑ । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svapnenābhyupyā* ← *svapnena* ← *svapna*
 - \[noun\], instrumental, singular, masculine
@@ -132,7 +132,7 @@ genre M;; repeated line
 सत्वन्दस्युंसर्वस्योपक्षपयितारञ्चुमुरिन्धुनिञ्च एतन्नामानावसुरौस्वप्नेनदीर्घनिद्रयाअभ्युप्य संयोज्य- जघन्थहतवानसि ततस्ताभ्यांयुध्यमानन्दभीतिंराजर्षिम्प्रावः रक्षितवानसि तथाचमन्त्रवर्णः—त्वन्निद- स्युञ्चुमुरिन्धुनिञ्चास्वापयोदभीतयेसुहन्त्विति । आवः अवतेरक्षणार्थस्यलङिसिपिरूपम् रम्भीचित् वेत्रधारीचास्यदौवारिकः अत्रास्मिन्युद्धेतयोरसुरयोरसुरयोर्हिरण्यन्धनंविविदेलेभे विदॢलाभे स्वरिते- त् तानीमानिकर्माणिसोमस्यमदेसतिचकारेति ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,34 +143,34 @@ genre M;; repeated line
 His chamberlain: rambhī cid atra vivide hiraṇyam: rambhī = vetradhārī, staff bearer; or, **dauvārika**, porter or door-keeper
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having scattered sleep on Cumuri and Dhuni, you smashed the Dasyu  and helped Dabhīti.  
 Though leaning on a staff, he found gold there. – In soma’s exhilaration  Indra did these things.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since cakāra in the refrain vss. 2-8 was rendered ‘has done’ in the published translation, this form in identical context should receive the same tr., rather than ‘did’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, with sleep whelming Cumuri and Dhuni, slewest the Dasyu, keptest safe Dabhiti.  
      There the staff-bearer found the golden treasure. These things did Indra in the Soma's rapture.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Cumuri und Dhuni hast du in Schlaf versenkt; du hast den Dasyu erschlagen, dem Dabhiti standest du bei. Selbst der Stockträger fand dabei Gold. - Im Rausche des Soma hat das Indra getan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Schlaf versenkend Tschumuri und Dhuni schlugst du den Dämon, halfest dem Dabhiti, Und goldnen Schatz fand da der Krückengänger; im Rausch des Soma hat vollbracht dies Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Окутав сном Чумури и Дхуни,  
 Ты убил Дасью, помог Дабхити.  

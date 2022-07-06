@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ शग्मा꣡सो · अरुषा꣡सो अ꣡श्वा  
 बृ꣡हस्प꣡तिं सहवा꣡हो वहन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡भो न꣡ रूप꣡म् अरुषं꣡ व꣡सानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सहः॑ । चि॒त् । यस्य॑ । नील॑ऽवत् । स॒धऽस्थ॑म् । नभः॑ । न । रू॒पम् । अ॒रु॒षम् । वसा॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -113,7 +113,7 @@ genre M
 **शग्मासः** शग्माः सुखकराः शक्ता वा **अरुषासः** आरोचमानाः **सहवाहः** संहत्य वाहकाः **अश्वाः** **तं** **बृहस्पतिं** **वहन्ति** वहन्तु । **यस्य** बृहस्पतेः **सहश्चित्** बलं च भवति । **नीलवत्** । नीलं निलयो निवासः । तद्युक्तं **सधस्थं** सहस्थानं च यस्य । तं बृहस्पतिमित्यन्वयः । कीदृशा अश्वाः । **नभो** **न** आदित्यमिव **अरुषम्** आरोचमानं **रूपं** **वसानाः** धारयन्तः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,12 +124,12 @@ genre M
 In whom strength abides: or,to whom belongs strenght, and whose friendship bestows a dwelling
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The capable, ruddy horses who pull together are pulling Br̥haspati, who is simply strength itself, whose seat has darkness while (the horses)  like a cloud clothe themselves in ruddy form.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The construction of the vs. is uncertain in several regards, which center on the 2nd hemistich. The first is whether neut. sáhaḥ belongs in the rel. cl. or not; the position of rel. yásya is compatible with either answer. I take it as an independent qualifier of acc. bṛ́haspátim in b, hence an acc.: Bṛhaspati is identified with the abstract noun ‘strength / force’ itself. I therefore assume that the rel. cl. begins with yásya. This also seems to be the Geldner solution. The sense of Renou’s tr. is similar, but he puts sáhaḥ in the, or a, rel. cl. as a nominative -- taking c as containing two nominal rel. clauses: “lui dont la force-dominante (est réelle, dont) le séjour-commun (est) noir.” HPS makes sáhaḥ the subject of an equational rel. cl.: “dessen Gewalt eine schwarze Stätte ist.” Since I think it more likely that Bṛhaspati is identified as strength itself than that his seat is, I find Schmidt’s interpr. less likely, though it does have the merit of not inserting a syntactic break in the middle of a pāda. If Bṛhaspati is identified with sáhaḥ here (as I think), Schmidt’s claim that Bṛhaspati is identified with Agni in this hymn -- an identification esp. clear in this vs. (see published introduction.) -- is strenthened, since Agni is so often called “son of strength” (sūnú- sáhasaḥ, e.g., in this maṇḍala VII.1.21, 22, 3.8, etc.). 125 A more interesting question is what to do with d. The pl. vásānāḥ is universally, and plausibly, taken as referring to to the horses of ab: in pāda they are called ‘ruddy’ (aruṣā́saḥ); in d they “clothe themselves in ruddy form” (rūpám aruṣám). The question then is whether d is simply a continuation of the main cl. in ab, the part. vásānāḥ modifying áśvāḥ in pāda a, with the rel. cl. of c embedded in it.
 
@@ -140,23 +140,23 @@ allows the ‘ruddy’ in d to be more than a pleonastic+++(=redundant)+++ repet
 Geldner (n. 6bc) notes the word play between semantically and etymologically distinct saha- (b) and sáhaḥ (c). In fact the play is more tightly constructed than he indicates, with the chiastic figure saha-vā́ho vahanti / sáhaḥ, with the hemistich boundary isolating the semantically non-conforming word.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, this Brhaspati, his red-hued horses, drawing together, full of strength, bring hither.  
      Robed in red colour like the cloud, they carry the Lord of Might whose friendship gives a dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Brihaspati fahren tüchtige, rötliche Rosse gemeinsam ziehend, das gar gewaltige Wesen, dessen Sitz dunkelfarbig ist, die Rosse die sich gleich der Wolke in rötliche Farbe kleiden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaspati, ihn, dessen Kraft erstarkt ist, ihn fahren hin zum dunkeln Sitz die Hengste, Die starken, rothen, gleichen Wagen ziehend, mit rothem Glanz umkleidet, wie mit Wolken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мощные рыжие кони, тянущие вместе,  
 Везут этого Брихаспати,  

@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुन꣡म् अस्म꣡भ्यम् ऊत꣡ये  
 व꣡रुणो मित्रो꣡ अर्यमा꣡  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 आदित्या꣡सो य꣡द् ई꣡महे अ꣡ति द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -33,7 +33,7 @@ genre M;; line affected by realignment;; repeated line
 शर्म॑ । य॒च्छ॒न्तु॒ । स॒ऽप्रथः॑ । आ॒दि॒त्यासः॑ । यत् । ईम॑हे । अति॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
@@ -99,35 +99,35 @@ genre M;; line affected by realignment;; repeated line
 वरुणादयो देवा ऊतये रक्षायै शुनं सुखमस्मभ्यं स्तोतृभ्यः प्रयच्छन्तु। तथादित्यासोऽदितेः पुत्रास्ते सप्रथः सर्वतः पृठु विस्तीर्णं शर्म सुखं च यच्छन्तु। अस्मभ्यं ददतु। यच्छर्म वयमीमहे याचामहे। द्विषश्चाति नयन्तु॥७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Varuṇa**, **Mitra**, **Aryaman** (bestow) upon us felicity for our protection; may the **Ādityas** grant usthat abundant happiness which we solicit, (and lead us) beyond (the reach of) our enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let them extend blessing to us to aid us—Varuṇa, Mitra, Aryaman— and broad shelter—the Ādityas, when we implore them—beyond hatreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May they give bliss to aid us well, Varuna, Mitra, Aryaman:  
      May the Adityas, when we pray, grant us wide shelter and defence beyond our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erfolgreich sollen über uns zum Beistand Varuna, Mitra, Aryaman, die Aditya´s ihren Schild in ganzer Breite halten, um den wir bitten - über die Anfeindungen hinweg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns mögen hold zur Hülfe sein Varuna, Mitra, Arjaman, Und die Aditja's weiten Schutz gewähren uns, den wir erflehn – durch jeden Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На благо, для поддержки нам  
 Варуна, Митра, Арьяман –  

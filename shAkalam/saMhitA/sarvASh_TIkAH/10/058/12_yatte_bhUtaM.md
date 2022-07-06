@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् ते भूतं꣡ च भ꣡व्यं च  
 म꣡नो जगा꣡म दूरक꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इह꣡ क्ष꣡याय जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 तत् । ते॒ । आ । व॒र्त॒या॒म॒सि॒ । इ॒ह । क्षया॑य । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -117,33 +117,33 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे सुबन्धो **यत्ते** **मनः** **भूतं** च **भव्यं** **च** इत्यनेन भूतभव्यात्मकव्यतिरेकेण कस्यचिदभावाद्वर्तमानस्य पृथगेवाभिधानात् कृत्स्नं प्रपञ्चमुक्तं भवति । तत्र सर्वत्र गतं मनो जीवनाय निवासाय चावर्तयामः ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If your mind has gone to what has been and what will be far away, we will make it turn hither to you, here to live and dwell.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy spirit, that went far away to all that is and is to be,  
      We cause to come to thee again that thou mayst live and sojourn heie.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn dein Geist in das Vergangene und Werdende weit weg gegangen ist, so holen wir ihn dir her, daß er hier wohne und lebe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Geist, der zur Vergangenheit und Zukunft in die Ferne ging, Der werde von uns hergelockt zum Leben und zu sicherm Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда твой дух ушел далеко  
 В то, что было, и в то, что будет,  

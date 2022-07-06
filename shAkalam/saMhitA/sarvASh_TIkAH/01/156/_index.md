@@ -8,7 +8,7 @@ title = "+156"
 ‘ भवा मित्रः' इति पञ्चर्चं सप्तदशं सूक्तं दैर्घतमसम् । ' जागतं तु ' इत्युक्तत्वादिदमपि जागतम् । 'वैष्णवं हि ' इत्युक्तत्वाद्वैष्णवम् । ‘भव पञ्च' इत्यनुक्रान्तम् ॥ उक्थ्ये तृतीयसवने अच्छावाकशस्त्रे एतत् सूक्तं विनियुक्तम् । 'उक्थ्ये तु होत्रकाणाम्' इति खण्डे सूत्रितं - भवा मित्रः सं वां कर्मणा ' ( आश्व. श्रौ. ६. १) इति । सौम्यचरोरुभयतो वृतेन यष्टव्यं तत्रोपरितने घृतयागे  ‘ उरु विष्णो वि क्रमस्व' इति प्राकृता याज्या। दशमेऽहनि तु तस्याः स्थाने ' भवा मित्रः इत्येषा प्रयोक्तव्या ।' दशमेऽहनि' इति खडे सूत्रितम् -' उरु विष्णो वि क्रमस्वेति घृतयाज्यास्थाने भवा मित्रः' (आश्व. श्रौ. ८. १२ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 156  
 Viṣṇu  
@@ -18,7 +18,7 @@ The primary deed of Viṣṇu, his claim to fame—the three strides—is not me
 The theme of Viṣṇu’s multiple identities is announced, in typically oblique  fashion, in the middle verse of this hymn:  “recognizing him, announce his very  names” (3c).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Viṣṇu
 </details>

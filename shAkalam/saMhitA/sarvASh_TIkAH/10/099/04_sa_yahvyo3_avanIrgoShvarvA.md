@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ यह्वि꣡यो अव꣡नीर् गो꣡षु अ꣡र्वा  
 आ꣡ जुहोति प्रधनि꣡यासु स꣡स्रिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्रोणि꣡अश्वास ई꣡रते घृतं꣡ वाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒पादः॑ । यत्र॑ । युज्या॑सः । अ॒र॒थाः । द्रो॒णिऽअ॑श्वासः । ईर॑ते । घृ॒तम् । वारिति॒ वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -117,36 +117,36 @@ genre M
 **सः** इन्द्रः **अर्वा** मेघेष्वभिगन्ता सस्रिः सरणकुशलः प्रधन्यासु प्रकृष्टधननिमित्तासु **गोषु** भूमिषु **यह्व्यः** । महन्नामैतत् । महतीः **अवनीः**। अवन्तीत्यवनय आपः । ताः **आ** जुहोति आक्षिपति । **यत्र** यासु भूमिषु **अपादः** पादरहिताः **अरथाः** रथवर्जिताः । पादरहिताः केचन रथेन गच्छन्ति । केनापि शून्याः **द्रोण्यश्वासः** द्रुतव्यापनाः **युज्यासः** युज्या इन्द्रस्य सख्यो नद्यः **वाः** वारकं **घृतम्** उदकम् **ईरते** प्रेरयन्ति तत्राजुहोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The victorious **Indra**, coming among the clouds, quickly moving, offers the abundant waters on the rich(plural ins) where his associates (the rivers) footless, and without conveyances, having pitchers for horses, pour outwater like ghī.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He pours out the youthful streams, while as charger running for the  cows that are at stake,  
 when those in harness, though lacking feet and chariots, having wooden  cups as horses, move toward the ghee, the water.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fighting for kine, the prize of war, and I roaming among the berd be brings the young streams hither,  
      Where, footless, joined, without a car to bear them, with jars for steeds, they pour their flood like butter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ergießt als Opfer die jüngsten Ströme, als Renner um die als Preis ausgesetzten Kühe laufend, während seine Verbündeten ohne Füße, ohne Wagen mit den Kufen als Rossen ihr Schmalz-Wasser strömen lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er giesst die raschen Ströme hin zu den Kühen, die den Kampfpreis bilden, dahin wo die fusslosen, wagenlosen [Wasserströme], die die Wolkeneimer zu Rossen haben, miteinander verbunden das fette Nass hervortreiben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он возливает (жертву) юные потоки, скакун,  
 Бегущий среди коров, являющихся наградой (в состязании),  

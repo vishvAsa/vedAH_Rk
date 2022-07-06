@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानस्य विश्ववित्  
 प्र꣡ ते स꣡र्गा असृक्षत  
 सू꣡र्यस्येव न꣡ रश्म꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सूर्य॑स्यऽइव । न । र॒श्मयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
@@ -86,20 +86,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **विश्ववित्** विश्वस्य द्रष्टः सोम **पवमानस्य** क्षरतः **ते** तव **सर्गाः** सृज्यमाना धाराः **सूर्यस्येव** **रश्मयः** सूर्यस्य किरणा इव प्रकाशमानाः । **न** इति संप्रत्यर्थे । इदानीं **प्र** **असृक्षत** प्रसृज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All-beholding **Soma**, your streams as you are being purified are sent forth like the rays of the sun at present.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you who find [/know] all, of you purifying yourself the surges have  surged forth,  
 like the rays of the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The root noun cmpd viśva-víd-, like other -víd- cmpds, is completely ambiguous between ‘knowing all’ and ‘finding all’ (for viśvavíd- itself see Scarlatta 489 and more generally 480-93). In this context, given Soma’s bestowal of “all goods” (víśvā … vásu) in the previous vs. (6a), as well as Soma’s journey to all forms in 8b, ‘all-finding’ seems preferable.
 
@@ -116,23 +116,23 @@ As just noted, pávamānasya in 7a chains with forms to the same stem in vss. 5 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The streams of Pavamana, thine, Finder of all, have been effused,  
      Even as Surya's rays of light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine, des Pavamana Güsse, sind ausgegossen wie die Strahlen der Sonne, du Allwissender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Allweiser, dein, des flammenden, Ergüsse sind hervorgeströmt Gleich wie der Sonne Strahlenschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

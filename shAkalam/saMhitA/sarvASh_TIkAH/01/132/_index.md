@@ -8,7 +8,7 @@ title = "+132"
 ‘ त्वया वयम्' इति षडृचं षष्ठं सूक्तं पारुच्छेपमात्यष्टमैन्द्रम् । ‘युवं तम्' इत्ययमैन्द्रापार्वतोऽर्धर्चः । त्वया वयं षड्युवं तमैन्द्रापार्वतोऽर्धर्चः' इत्यनुक्रमणिका । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 132  
 Indra  
@@ -19,7 +19,7 @@ This short hymn contains many puzzles of detail, which render much of the trans 
 and present are invoked together, we ask Indra to aid us in the same way as he aided  his companions in myth, particularly, here, the Aṅgirases at the opening of the Vala  cave (vs. 4). The theme of speech, both by and about Indra, is also strongly high lighted, especially in the first four verses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

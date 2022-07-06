@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ सूनुं꣡ स꣡नश्रुतं  
 स꣡हसो जात꣡वेदसम्  
 व꣡ह्निं देवा꣡ अकृण्वत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 वह्नि॑म् । दे॒वाः । अ॒कृ॒ण्व॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -87,41 +87,41 @@ genre M
 सहसः सूनुं बलस्य् पुत्रं मथनरूपेण बलेन निष्पाद्यमानत्वात् सनशुत्रं सनातनत्वेन प्रसिद्धं जातवेदसं जातप्रज्ञं शमिममग्निं देवा हविर्भुजो देवा वह्निं हविषां वोढारमकृण्वत । अकुर्वत ॥ सनुश्रुतम् । शुश्रवणे । कर्मणि क्तः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् । वह्निम् । वह प्रापणे । निरित्यनुवृत्तौ वहिश्रीत्यादिना निप्रत्ययः । अकृण्वत । कृवि हिंसाकरणयोः । इदित्त्वान्नुम् । धिन्विकृण्व्योरच्छेत्युप्रत्ययः । अकारश्चान्तादेशः । लङ् व्यत्ययेनात्मनेपदम् । निघातः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods have made **Agni**, who is the son of strength, the eternally-renowned, the knower of all that is born, the bearer (of oblations).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the son of strength famed of old, Jātavedas—  
 him the gods made their conveyor (of oblations).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, illustrious from old time, the Son of Strength who knows all life,  
      The Gods have made to their Priest.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The gods have made Agni, the old-renowned son of strength, the Gâtavedas, their carrier (towards the sacrifice) 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, den altberühmten Sohn der Kraft, den Jatavedas, machten die Götter zu ihrem Opferfahrer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den altberühmten Sohn der Kraft, den Agni, der die Wesen kennt, Ersahn zum Fährmann Götter sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, сына силы,  
 Знаменитого издревле, Джатаведаса,  

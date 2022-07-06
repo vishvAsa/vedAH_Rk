@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ हिन्वाना꣡स इ꣡न्दवो  
 अ꣡छा समुद्र꣡म् आश꣡वः  
 धिया꣡ जूता꣡ असृक्षत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धि॒या । जू॒ताः । अ॒सृ॒क्ष॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -78,7 +78,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **आशवः** वेगवन्तः **इन्दवः** सोमाः **समुद्रम्** अन्तरिक्षम् **अच्छ** प्रति **हिन्वानासः** हिन्वानाः प्रेर्यमाणाः **धिया** अङ्गुल्या **जूताः** कृष्टाश्च **प्र** **असृक्षत** सृज्यन्ते ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,13 +89,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The firmament: **samudram** may mean the vasatīvarī waters
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being impelled forth, the swift drops,  
 sped by insightful thought, have surged to the sea.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -105,23 +105,23 @@ The first two vss. of this tṛca both contain nom. ‘drops’ (índavaḥ) and
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Accelerated by the hymn, the rapid drops of Soma juice  
      Have flowed, urged onward, to the lake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Somasäfte, die Renner, wurden, zur Eile getrieben, zum Meere losgelassen, durch die Kunst beschleunigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schnellen Rosse, angespornt, sind zu dem Meere vorgeströmt, Die Indu's, durch Gebet beeilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

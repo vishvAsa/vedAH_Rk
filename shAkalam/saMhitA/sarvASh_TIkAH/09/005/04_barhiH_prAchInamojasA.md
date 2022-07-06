@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बर्हिः꣡ प्राची꣡नम् ओ꣡जसा  
 प꣡वमान स्तृण꣡न् ह꣡रिः  
 देवे꣡षु देव꣡ ईयते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 दे॒वेषु॑ । दे॒वः । ई॒य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
@@ -77,36 +77,36 @@ genre M
 **हरिः** हरितवर्णः **देवः** द्योतमानः सोमः **पवमानः** **देवेषु** यज्ञेषु **बर्हिः** **प्राचीनं** प्राचीनाग्रं **स्तृणन्** स्तारयन **ओजसा** बलेन **ईयते** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The bright golden-hued pure-flowing one rushes in its might, strewing the sacred grass in the sacrifice with its points towards the cast.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The tawny self-purifying one, strewing the ritual grass toward the east  with his strength,  
 speeds as a god to the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The tawny Pavamana, who strews from of old the grass with might,  
      Is worshipped, God amid the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Barhis ostwärts nach Kräften hinbreitend eilt sich läuternd der Falbe, der Gott zu den Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Osten breitet er die Streu, der Gott eilt zu den Göttern hin, Der goldne, kräftig rieselnde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мощно расстилая обращенную к востоку  
 Жертвенную солому  

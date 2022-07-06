@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवे꣡भ्यो हि꣡ प्रथमं꣡ यज्ञि꣡येभियो  
 अमृतत्वं꣡ सुव꣡सि भाग꣡म् उत्तम꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अनूचीना꣡ जीविता꣡ मा꣡नुषेभियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आत् । इत् । दा॒मान॑म् । स॒वि॒तः॒ । वि । ऊ॒र्णु॒षे॒ । अ॒नू॒ची॒ना । जी॒वि॒ता । मानु॑षेभ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
@@ -119,7 +119,7 @@ genre M
 **प्रथमं** **देवेभ्यो** **हि** । हिशब्दः प्रसिद्धौ। देवेभ्यः **यज्ञियेभ्यः** यज्ञार्हेभ्यः **अमृतत्वं** तत्साधनम् **उत्तमम्** उत्कृष्टतमं **भागं** सोमादिलक्षणं **सुवसि** अनुजानासि । **आदित्** अनन्तरमेव **दामानं** हविषां दातारं हे **सवितः** **ब्यूर्णुषे** प्रकाशयसि । **मानुषेभ्यः** यजमानेभ्यः **जीविता** जीवितानि **अनूचीना** अनुक्रमयुक्तानि । पितृपुत्रपौत्रा इत्यनुक्रमः । ईदृशानि जीवितानि पश्चात् व्यूर्णुषे  ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ genre M
 Damanam = dātāram; or, raśmisamūham, collection of rays; alternative rendering: you spread abroad your rays, and excite among men the consequent offices of vitality, i.e., the daily duties following on the return of morning
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you first impel immortality to the gods worthy of the sacrifice as  their highest share;  
 just after that, o Savitar, you reveal your gift: lives following in  
 succession for the sons of Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou at first producest for the holy Gods the noblest of all portions, immor-tality:  
      Thereafter as a gift to men, O Savitar, thou openest existence, life succeeding life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn zuerst weisest du den opferwürdigen Göttern die Unsterblichkeit als bestes Teil zu. Dann tust du, Savitri, deine Gabe auf und weisest den Menschen ihre Lebenszeiten in der richtigen Folge zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du zuerst verschaffst der heil'gen Götterschar Unsterblichkeit, o Savitar, als höchstes Theil, Und dann erschliessest dem Geschlecht der Menschen du als ihren Antheil Leben, das auf Leben folgt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь сначала богам, достойным жертв,  
 Ты предназначаешь бессмертие как высшую долю.  

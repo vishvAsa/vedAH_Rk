@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वा꣡ञ्चं त्वा पुरुष्टुत  
 प्रिय꣡मेधस्तुता ह꣡री  
 सोमपे꣡याय वक्षतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सो॒म॒ऽपेया॑य । व॒क्ष॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvāñcaṃ* ← *arvāñcam* ← *arvāñc*
 - \[noun\], accusative, singular, masculine
@@ -76,36 +76,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पुरुष्टुत** बहुभिः स्तुतेन्द्र **प्रियमेधस्तुता** प्रियमेधैः प्रिययज्ञैर्ऋषिभिः स्तुतौ। तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । ‘सुपां सुलुक्' इत्याकारः । ईदृशौ **हरी** अश्वौ **सोमपेयाय** सोमपानार्थं त्वाम् **अर्वाञ्चम्** अस्मदभिमुखं **वक्षतः** वहताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your horses, praised by the pious priests, bring you, who are the praised of many, down to drinkthe **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fallow bays, praised by Priyamedha, will convey you near,  
 o much praised one, for soma-drinking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy steeds, by Priyamedhas praised, shall bring thee, God whom all invoke,  
      Hither to drink the Somajuice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich soll, du Vielgepriesener, das von den Priyamedha´s gepriesene Falbenpaar herwärts fahren zum Somatrunk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, vielgepriesner, mögen her die Rosse ziehn zum Somatrunk, Gerühmt vom Prijamedha-stamm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть привезет тебя в наши края,  
 О многовосхваленный, пара буланых коней,  

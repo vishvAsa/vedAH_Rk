@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्या꣡जस्रं श꣡वसा मा꣡नम् उक्थ꣡म्  
 परिभुज꣡द् रो꣡दसी विश्व꣡तः सीम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सः । पा॒रि॒ष॒त् । क्रतु॑ऽभिः । म॒न्द॒सा॒नः । म॒रुत्वा॑न् । नः॒ । भ॒व॒तु॒ । इन्द्रः॑ । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyājasraṃ* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -119,7 +119,7 @@ genre M;; repeated line
 **यस्य** इन्द्रस्य **उक्थं** प्रशस्यं **शवसा** **मानं** बलेन सर्वस्य परिच्छेदकं सर्वेषां बलस्योपमानभूतं वा **रोदसी** द्यावापृथिव्यौ **विश्वतः** **सीं** सर्वतः **अजस्रम्** अनवरतं **परिभुजत्** परितः सर्वतो भुनक्ति पालयति **सः** इन्द्रः **क्रतुभिः** अस्माभिः कृतैर्यागैः **मन्दसानः** मोदमानः सन् 'पारिषत् अस्मान् दुरितात् पारयतु । उक्थम् । ‘वच परिभाषणे '। ‘ पातॄतुदिवचि°' इत्यादिना कर्मणि थक् । ‘ वचिस्वपि° ' इत्यादिना संप्रसारणम् । परिभुजत् ।' भुज पालनाभ्यवहारयोः '। लेटि अडागमः । व्यत्ययेन शः । पारिषत् ।' पार तीर कर्मसमाप्तौ । लेटि अडागमः। ‘ सिब्बहुलं लेटि' इति सिप् । तस्य आर्धधातुकत्वात् इट् । व्यत्ययेन णिलोपः। मन्दसानः । मदि स्तुतिमोदसदस्वप्नकान्तिगतिषु । ‘ ऋञ्जिवृधिमन्दिसहिभ्यः कित्' ( उ. सू. २. २४४ ) इति असानच्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,37 +130,37 @@ genre M;; repeated line
 **Śavasā**-mānam, the distributor of all things, through his power, i.e. he is the prototype of everything endued with vigour
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose inexhaustible measure in its vastness, (like our) hymn, will coil  around both worlds on all sides,  
 he will deliver (us) with his strategies while he is rejoicing.  
 – Accompanied by the Maruts, let Indra be here for us with help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Having described the vastness of Indra’s power throughout the hymn, the poet now implicitly attributes the same vastness to his own hymn (ukthám) by juxtaposing it with Indra’s mā́nam ‘measure’, which encompasses the two worlds.
 
 With Oldenberg I take mā́nam ukthám as “coordinated and asyndetic.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose home eternal through his strength surrounds him on every side, his laud, the earth and heaven,  
      May he, delighted with our service, save us. May Indra, girt by Maruts, be our succour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen an Macht unerschöpfliche Größe zu einem Preislied wird, das die beiden Welten allenthalben umfaßt, er möge es zu gutem Ende führen, sich an den klugen Gedanken erfreuend - der Indra soll uns in Begleitung der Marut zu Hilfe kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, dessen Wort und Mass an Kraft nicht abnimmt, umfassend rings den Himmel und die Erde, Er fülle sie mit Kräften voll Begeistrung, er mög' uns helfen, Indra mit den Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот,) чья неисчерпаемая по силе мера- (подлинный) гимн –  
 Охватывает два мира со всех сторон,  

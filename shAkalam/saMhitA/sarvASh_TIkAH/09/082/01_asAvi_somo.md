@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सावि सो꣡मो अरुषो꣡ वृ꣡षा ह꣡री  
 रा꣡जेव दस्मो꣡ अभि꣡ गा꣡ अचिक्रदत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 श्येनो꣡ न꣡ यो꣡निं घृत꣡वन्तम् आस꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पु॒ना॒नः । वार॑म् । परि॑ । ए॒ति॒ । अ॒व्यय॑म् । श्ये॒नः । न । योनि॑म् । घृ॒तऽव॑न्तम् । आ॒ऽसद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asāvi* ← *su*
 - \[verb\], singular, Aorist passive
@@ -130,36 +130,36 @@ genre M
 **सोमः** **असावि** अभिषुतोऽभूत्। कीदृशः सोमः । **अरुषः** आरोचमानः **वृषा** वर्षकः **हरिः** हरितवर्णः । स च **राजेव** **दस्मः** दर्शनीयः सन् **गाः** उदकानि अभिलक्ष्य **अचिक्रदत्** शब्दं करोति स्वरसनिर्मोकसमये । पश्चात् **पुनानः** पूयमानः **अव्ययम्** अविमयं **वारं** वालं दशापवित्रं **पर्येति** । ततः **श्येनो** **न** श्येन इव **योनिं** स्वकीयं स्थानं **घृतवन्तम्** उदकवन्तम् **आसदम्** आसदनाय पवत इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** has been effused radiant, the showerer, green-inted; magnificent as a king, he cries aloud when approaching the waters; purified, he passes through the sheep's fleece, to alight on the water-moistened seat like a hawk (on its nest).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma has been pressed—the ruddy, tawny bull. Wondrous like a king, he  has roared to the cows.  
 While being purified, he circles around the sheep’s fleece, to sit, like a  falcon, on his ghee-filled womb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 EVEN as a King hath Soma, red and tawny Bull, been pressed: the Wondrous One hath bellowed to the kine.  
      While purified he passes through the filtering fleece to seat him hawk-like on the place that drops with oil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgepreßt ward der rötliche Soma, der starke Falbe. Ein Meister gleich einem König hat er nach Kühen gebrüllt. Während er sich klärt, umkreist er das Schafhaar, um sich auf den schmalzigen Schoß zu setzen wie ein Falke ins Nest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erzeugt ist Soma, er, der rothe, goldne Hengst gleich kräft'gem König schrie er jetzt die Kühe an, Sich klärend geht er durch die Widderwolle hin, zu setzen sich dem Adler gleich aufs reiche Nest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжат сома красноватый, бык золотистый.  
 Словно царь замечательный, он взревел навстречу коровам.  

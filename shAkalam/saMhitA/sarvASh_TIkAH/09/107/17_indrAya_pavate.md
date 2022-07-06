@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय पवते म꣡दः  
 सो꣡मो मरु꣡त्वते सुतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 त꣡म् ई मृजन्ति आय꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 स॒हस्र॑ऽधारः । अति॑ । अव्य॑म् । अ॒र्ष॒ति॒ । तम् । ई॒मिति॑ । मृ॒ज॒न्ति॒ । आ॒यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -104,20 +104,20 @@ genre M;; repeated line
 **मदः** मादकः **सुतः** अभिषुतः **सोमः** **मरुत्वते** मरुद्भिस्तद्वते **इन्द्राय** इन्द्रार्थं **पवते** क्षरति । ततः **सहस्रधारः** बहुधारोपेतः सोमः **अव्यम्** अविमयं पवित्रम् **अति** **अर्षति** अतिगच्छति । **तम्** इमं सोमम् **आयवः** मनुष्या ऋत्विजः **मृजन्ति** शोधयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Exhilarating, flows, when effused, for **Indra** attended by the **Maruts**; thousand-streamed he passes through the fleece; men cleanse him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma purifies himself as the exhilarating drink, pressed for Indra along  with the Maruts.  
 Possessed of a thousand streams he rushes beyond the sheep’s fleece.  The Āyus groom him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The enclitic ī in d could stand for *īm in this sandhi position before mṛjanti with degemination.
 
@@ -132,23 +132,23 @@ No particular internal cohesion, but a number of ties with other parts of the hy
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, the gladdening juice, flows pressed for Indra with his Marut host:  
      He hastens o'er the fleece with all his thousand streams: men make him bright and beautiful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Indra läutert sich der Rauschtrank, für den Marutherrn der ausgepreßte Soma. In tausend Strahlen fließt er durch die Schafwolle; ihn machen die Ayu´s sauber.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra mit den Maruts strömt gepresst der helle Somatrank; In tausend Strömen rinnt er durch die Wolle hin, ihn reinigen die emsigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Индры очищается пьянящий напиток,  
 Для сопровождаемого Марутами – выжатый сома.  

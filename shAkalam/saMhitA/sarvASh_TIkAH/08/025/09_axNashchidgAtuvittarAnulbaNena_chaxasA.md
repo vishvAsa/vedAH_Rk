@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अक्ष्ण꣡श् चिद् गातुवि꣡त्तर  
 अनुल्बणे꣡न च꣡क्षसा  
 नि꣡ चिन् मिष꣡न्ता निचिरा꣡ नि꣡ चिक्यतुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 नि । चि॒त् । मि॒षन्ता॑ । नि॒ऽचि॒रा । नि । चि॒क्य॒तुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akṣṇaś* ← *akṣṇaḥ* ← *akṣi*
 - \[noun\], ablative, singular, neuter
@@ -89,7 +89,7 @@ genre M
 **अक्ष्णश्चित्** चक्षुषोऽपि पूर्वं **गातुवित्तरा** गातुवित्तरावतिशयेन मार्गवेत्तारौ । यद्वा । गातुवित्तरौ गातु गमनशीलं प्राणिजातं चक्षुषोऽपि पूर्वं वेत्तारौ मित्रावरुणौ । कीदृशौ। **नि** **मिषन्ता** निमिषन्तौ सर्वमुन्मेषयन्तौ स्वस्वकर्मणि **निचिरा** नितरां चिरंतनौ तौ **अनुल्बणेन** । उल्बणमिति दुःसहमग्नेस्तेजः । तद्वददुःसहेन **चक्षसा** अहोरात्रयोर्व्याप्तेन तेजसैब **नि** **चिक्यतुः** पूजितौ बभूवतुः । **चित्** अवधारणे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,13 +100,13 @@ genre M
 The ṛca is a referenceto **Mitra** and **Varuṇa** as respectively presiding over day and night, ahorātrayor vyāptena tejasā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Better even than the eye at finding the way, by means of eyesight  without motes,  
 even when blinking, the two attentive ones remain attentive.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -115,23 +115,23 @@ Both these verses have a subject / VP construction that’s an etymological figu
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pathfinders even better than the eye, with unobstructed sight,  
      Even when they close their lids, observant, they perceive.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die noch besser als das Auge den Weg finden mit fehlerlosem Gesicht. Selbst wenn sie die Augen schließen, beobachten sie aufmerksam.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, die mit unumwölktem Blick mehr als das Auge Heil ersehn; Selbst wenn sie schlummern, nehmen sie beachtend wahr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) двое, что находят выход даже лучше, чем глаз,  
 (Они) со своим безошибочным зрением,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्म꣡भ्यं त꣡द् दिवो꣡ अद्भ्यः꣡ पृथिव्या꣡स्  
 त्व꣡या दत्तं꣡ का꣡मियं रा꣡ध आ꣡ गात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुशं꣡साय सवितर् जरित्रे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शम् । यत् । स्तो॒तृऽभ्यः॑ । आ॒पये॑ । भवा॑ति । उ॒रु॒ऽशंसा॑य । स॒वि॒तः॒ । ज॒रि॒त्रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
@@ -129,41 +129,41 @@ genre M
 हेसवितः अस्मभ्यन्त्वयादत्तन्तत्प्रसिद्धङ्काम्यं कमनीयंराधोधनन्दिवः द्युलोकात् अद्भ्योन्तरिक्ष लोकात् पृथिव्याभूमेश्चआगादागच्छतु किञ्च स्तोस्तृभ्यःस्तोतॄणामापयेबन्धवे तद्वंशजाय यद्धनं शं सुखकरम्भवातिभवेत् उरुशंसायबहुस्तुतयेजरित्रेस्तोत्रेमह्यं जरिताकारुरितिस्तोतृनामसुपाठात् हेसवितः तत्प्रयच्छ ॥ ११ ॥ग्रावाणेवेत्यष्टर्चंसप्तमंसूक्तङ्गार्त्समदन्त्रैष्टुभमाश्विनं ग्रावणेवाष्टावाश्विनमित्यनुक्रान्तत्वात् प्रवर्ग्ये भिष्टवेपूर्वेपटलेस्यविनियोगः सूत्रितञ्च—ग्रावाणेवेळेद्यावापृथिवीइति प्रातरनुवाकाश्विनशस्त्रयोर पीदंसूक्तं सूत्रितञ्च—ग्रावाणेवनासत्याभ्यामितित्रीणीति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that desirable wealth which is granted to us, **Savitā**, by you, proceed from the sky, from the waters from the earth; and may the happiness (which belongs) to the race of those who eulogise you, devolve upon me, repeating diligently your praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That desirable benefit given by you has come to us from heaven, from  the waters, from earth,  
 (a benefit) that will become weal for your praisers and your friend, the  singer whose recitations extend widely, o Savitar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb ā́gāt is interpr. by the Pp as injunc gāt and so treated in most editions and tr., but it could just as well be augmented agāt, a typical aorist in a summary vs. [II.39 JPB]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So come to us our hearts' desire, the bounty bestowed by thee, from heaven and earth and waters,  
      That it be well with friends and those who praise thee, and, Savitar, with the loud-lauding singer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Uns soll vom Himmel, vom Wasser, von der Erde als dein Geschenk diese erwünschte Ehrengabe zukommen, die den Sängern Glück bringen soll und deinem Freunde, dem Lobredner, dessen Worte weithin dringen, o Savitri.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns fliesse zu von Himmel, Erd' und Wassern begehrenswerthes Gut, von dir geschenktes, was Segen bring' den Sängern und dem Freunde, o Savitar, und dem, der laut dich preiset.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нам пусть достанется данный тобою вожделенный подарок,  
 Тот с неба, из вод, с земли,  

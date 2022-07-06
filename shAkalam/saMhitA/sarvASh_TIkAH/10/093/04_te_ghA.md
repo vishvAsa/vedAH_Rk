@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ घा रा꣡जानो अमृ꣡तस्य मन्द्रा꣡  
 अर्यमा꣡ मित्रो꣡ व꣡रुणः प꣡रिज्मा  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 मरु꣡तः पूष꣡णो भ꣡गः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 कत् । रु॒द्रः । नृ॒णाम् । स्तु॒तः । म॒रुतः॑ । पू॒षणः॑ । भगः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -108,36 +108,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **अर्यमा** देवः **मित्रः** च **परिज्मा** सर्वतोगामी सर्वत्राप्रतिहतगतिः **वरुणः** अन्यो देवजनश्चर्त्विग्भिः **स्तुतः** **रुद्रः** च **पूषणः** सर्वस्य पोषयितारो **मरुतः** च **भगः** च एते देवाः **मन्द्राः** सर्वैः स्तुत्याः सन्तः **नृणां** मनुष्याणां **कत्** सुखं प्रयच्छतेति शेषः । **ते** सर्वे **अमृतस्य** अमृतसदृशस्य हविषः **राजानः** **घ** ईश्वराः खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They are the lords of the ambrosia, adorable, **Aryaman**, **Mitra**, the circumambient **Varuṇa**, **Rudra**, whois hymned by the priests, the **Maruts**, **Pūṣan**, **Bhaga**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The kings of immortality are gladdening: Aryaman, Mitra, Varuṇa,  and the Earth-Encircler [=Wind?]—  
 and what about Rudra praised of men?—the Maruts, Pūṣan, Bhaga.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These are the joyous Kings of Immortality, Parijman, Mitra, Aryaman, and Varuna.  
      What else is Rudra, praised of men? the Maruts, Bhaga, Pusana?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie, die Könige der Unsterblichkeit, sind beliebt: Aryaman, Mitra, Varuna, der Umherfahrende. Doch wohl auch Rudra, der Gelobte der Männer, die Marut, Pusan, Bhaga?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diese sind erfreuende Könige des Reiches der Unsterblichen: Arjaman, Mitra, Varuna, der Umwandler; sind es nicht auch Rudra, der von den Männern gerühmte, die Maruts, Puschana und Bhaga?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

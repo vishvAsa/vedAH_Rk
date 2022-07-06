@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दियुतानं꣡ वो अ꣡तिथिं सु꣡वर्णरम्  
 अग्निं꣡ हो꣡तारम् म꣡नुषः सुअध्वर꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 हव्यवा꣡हम् अरतिं꣡ देव꣡म् ऋञ्जसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विप्र॑म् । न । द्यु॒क्षऽव॑चसम् । सु॒वृ॒क्तिऽभिः॑ । ह॒व्य॒ऽवाह॑म् । अ॒र॒तिम् । दे॒वम् । ऋ॒ञ्ज॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyutānaṃ* ← *dyutānam* ← *dyut*
 - \[verb noun\], accusative, singular
@@ -114,14 +114,14 @@ genre M
 हे वीतहव्य त्वं **सुवृक्तिभिः** शोभनाभिः स्तुतिभिः **हव्यवाहं** हविषां वोढारं **देवम्** **अग्निम्** **ऋञ्जसे** प्रसाधय । कीदृशम् । **द्युतानं** दीप्यमानं **वः** युष्माकम् **अतिथिम्** अतिथिवत्पूज्यं **स्वर्णरं** स्वर्गस्य नेतारं **मनुषः** मनोः प्रजापतेर्यज्ञे **होतारं** देवानामाह्वातारं **स्वध्वरं** शोभनयज्ञं **विप्रं** **न** मेधाविनं विपश्चितमिव **द्युक्षवचसम्** । दीप्तेर्निवासभूतं द्युक्षम् । तादृशवाक्योपेतम् **अरतिम्** अर्यं स्वामिनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Propitiate with pious praises the radiant **Agni**, your guest, the guide to heaven, the invoker of the gods( at the sacrifice) of **manu**, the celebrator of holy rites, the speaker of brilliant words like a learned sage, the bearer of oblations (to the gods), the lord, the divine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your flashing guest with his solar glory, Agni, the Hotar conducting  good ceremonies for Manu,  
 possessing heaven-ruling speech like an inspired poet, the  
@@ -129,28 +129,28 @@ oblation-conveying spoked wheel (of the sacrifice)—to (this) god
 I stretch with my well-twisted (hymns).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this initial vs. of the 2nd tṛca is a variant on the 1st hemistich of the 1st tṛca: in their first pādas an opening of 5 ending in vo is followed by átithim; the end of the 2nd pāda of vs. 1, ṛñjase girā́, is reprised by 4cd … suvṛktíbhiḥ, … ṛñjase.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, your refulgent guest, Agni who comes from heaven, the Herald of mankind, well-skilled in sacred rites,  
      Who, like a holy singer, utters heavenly words, oblation-bearer, envoy, God, I seek with hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eurem aufleuchtenden Gast, dem Sonnenmann Agni, dem Hotri des Manu, der gut opfert, der himmlische Worte hat wie ein Redekundiger, dem Opferfahrer, dem göttlichen Rosselenker will ich mit Lobliedern den Vorzug geben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich streb' dem Gaste, eurem lichten Glanzesherrn, dem Priester Agni, der des Menschen Opfer weiht, Mit Liedern zu, der wie ein Dichter himmlisch spricht, dem Gott, dem Ordner, der die Opfertränke fährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К вашему сверкающему гостю, предводителю неба Агни,  
 К хотару Мануса, устраивающему прекрасный обряд,  

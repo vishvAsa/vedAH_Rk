@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ ह घर्म꣡म् म꣡धुमन्तम् अ꣡त्रये  
 अपो꣡ न꣡ क्षो꣡दो अवृणीतम् एषे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 र꣡थ्येव चक्रा꣡ प्र꣡ति यन्ति म꣡ध्वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तत् । वा॒म् । न॒रौ॒ । अ॒श्वि॒ना॒ । पश्वः॑ऽइष्टिः । रथ्या॑ऽइव । च॒क्रा । प्रति॑ । य॒न्ति॒ । मध्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -128,7 +128,7 @@ genre M
 अत्रेतिहासमाहुः । प्रवर्ग्येण प्रचरन्तमत्रिं राक्षसास्तप्ते घर्मेऽपातयन् । स च तप्यमानोऽश्विनौ तुष्टाव । तौ च स्तुत्या हृष्टमनसावरक्षतामिति । अपरेऽग्नौ क्षिप्तमपालयतामित्याहुरिति । हे अश्विनौ । **युवं** युवां **मधुमन्तं** पयोघृतरूपाभ्यां मधुभ्यां तद्वन्तं **घर्मं** दीप्तं प्रवर्ग्यम् **एषे** सौख्यमिच्छते **अत्रये** एतन्नाम्ने महर्षये **क्षोदः** क्षोदांसि क्षोद्यमानानि **अपो** **न** उदकानीव **अवृणीतम्** अवारयतम् । औष्ण्यं शैत्यसुखं कृतवन्तौ । तप्तघर्मसकाशात् भ(र)क्षितवान् (वन्तौ) इत्यर्थः । यद्वा । अत्रये क्षोदः । उदकनामैतत् । तत्स्थं शैत्यं लक्ष्यते । अपः क्षोदो न । अप इति षष्ठ्यर्थे द्वितीया । उदकानां शैत्यं यथा भवति तद्वत् । पक्षान्तरे तु घर्मं दीप्तमग्निं मधुमन्तं कृत्वा अवृणीतं सुखयतमित्यर्थः । तथा च मन्त्रान्तरं-’ तप्तं घर्ममोम्यावन्तमत्रये' (ऋ. सं. १. ११२. ७ ) इति । **तत्** तस्मात् यस्मादेवं तस्मात् हे **नरौ** नेतारौ नराकारौ वा **अश्विना** अश्विनौ **वां** युवाभ्यां **पश्वइष्टिः** । पशुरित्यग्नेर्नाम । ‘अग्निः पशुरासीत् ' (तै. सं. ५. ७. २६ ) इत्यादिश्रुतेः । यद्वा । पशुप्रियत्वात् पशुरित्युच्यते । तस्याग्नेः इष्टिर्भवति । अग्नौ यागः सर्वो युष्मदर्थं प्रवर्तते इत्यर्थः । यद्वा । पशुसाध्यो यागो युवाभ्यां प्रवर्तते इति शेषः । ‘आश्विनं धूम्रललाममा लभेत यो दुर्ब्राह्मणः सोमं पिपासेत् '(तै. सं. २. १. १०. १) इत्यादिनाप्यश्विभ्यां पशुर्विहितः । तथा **मध्वः** मधुसदृशाः सोमरसा अपि युवाभ्यां **प्रति** यन्ति अभिगच्छन्ति । तत्र दृष्टान्तः । **रथ्येव** **चक्रा** रथसंबन्धीनि चक्रा चक्राणीव । तानि यथा प्रवणदेशमभिगच्छन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 The fire-offering is made: tad vam paśva **iṣṭī** **paśu** = fire; agrees with the text agnir paśur-āsīt, **agni** was the victim; the implication is that the oblations are presented through fire to the Aśvins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You chose the honeyed hot drink for Atri, to send it here like a surge  of water.  
 Now (the refreshing drinks) of honey come back to you, like chariot  wheels on the quest for livestock, o Aśvins, superior men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. also presents a number of difficulties. The easiest to deal with is avṛṇītam, the 2nd du. active imperfect, to the 9th class pres. to √vṛ ‘choose’, which is otherwise only middle. We should hypothetically expect middle *avṛṇāthām, but in fact, acdg. to Macdonell, no athematic present in Vedic attests such a form, whatever the present class. The 2nd /3rd ps. middle dual forms seem to have been avoided. and this active nonce form is probably modeled on 3rd singular medial impf. avṛṇīta, which is fairly common and occurs a number of times in just this metrical position, after an opening of 5 in trimeter verse. Geldner (p. 258 n. 3) attributes the active voice to the fact that the Aśvins are choosing on behalf of someone else; this is an ingenious suggestion and merits consideration, but I think the formal problems tipped the balance.
 
@@ -154,23 +154,23 @@ The real crux in this vs. is eṣé, which has received almost as many analyses 
 I take the simile apó ná kṣódaḥ as obj. of this inf., parallel to the gharma drink that the Aśvins are sending here. With Grassmann, I take apáḥ as one of the rare sg. forms of áp- ‘water’, preserved here in what is almost a deconstructed compound. For the gen. with kṣódaḥ cf. I.112.12 kṣódasā-udnáḥ “with a gush of water.” As for the 2nd hemistich, against the standard interpr. (incl. Oldenberg), I take cd as a single clause. I supply “refreshing drinks” (íṣaḥ) as subj. of práti yanti with mádhvaḥ dependent on it (not a nom. pl., per Grassmann), on the basis of the phrase cited above from
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye made the fierce heat to be full of sweetness for Atri at his wish, like streaming water.  
      Fire-offering thence is yours, O Asvins, Heroes: your car-wheels speed to us like springs of honey.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr wünschtet für Atri den süßen Gharma, daß er wie die Wasserflut komme. Das war für euch, ihr Herren Asvin, lohnend wie das Herdensuchen: die Gaben des süßen Tranks gehen jetzt zurück wie die Wagenräder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Atri habt ihr euren süssen Milchtrank auf seinen Wunsch gewährt, wie Wasserfluten, Drum gehn zu euch, o Ritter, süsse Tränke wie Wagenräder, die ihr Milch begehret.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы создали сладкое горячее молоко для Атри,  
 Стремившегося (попасть) словно в поток воды.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृणो꣡त धूमं꣡ वृ꣡षणं सखायो  
 अ꣡स्रेधन्त इतन वा꣡जम् अ꣡छ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡न देवा꣡सो अ꣡सहन्त द꣡स्यून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 अ॒यम् । अ॒ग्निः । पृ॒त॒ना॒षाट् । सु॒ऽवीरः॑ । येन॑ । दे॒वासः॑ । अस॑हन्त । दस्यू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛṇota* ← *kṛ*
 - \[verb\], plural, Present imperative
@@ -123,7 +123,7 @@ genre D
 यजमानोऽध्वर्य्वादीन्प्रति ब्रूते । हे **सखायः** कर्मसहकारिणः यूयं **वृषणं** कामानां वर्षितारं **धूमम्** । धुनोति कम्पयतीति धूमोऽग्निः। एवंविधम् अग्निं **कृणोत** कुरुत । मथनेन उत्पादयत । यद्यग्निर्न जायते तदानीमाह । **अस्रेधन्तः** अक्षीणा अनुपरतसामर्थ्याः सन्तो यूयं **वाजं** मथनलक्षणं युद्धम् **अच्छ** अग्न्याभिमुख्येन **इतन** प्राप्नुत । **सुवीरः** शोभनसामर्थ्योपेतः **अयमग्निः** पृतनाषाट् पृतनोपलक्षितं युद्धं सहमानो भवति । **येन** युद्धं सहमानेनाग्निना **देवासः** देवाः **दस्यून्** उपक्षपयितॄनसुरान् **असहन्त** अभ्यभवन् । तस्मादक्षीणबला यूयं मथनं कुरुतेति भावः ॥ कृणोत ।' कृवि हिंसाकरणयोः' । लोटि तप्रत्ययस्य ' तप्तनप्तनथनाश्च ' इति तबादेशः । पित्त्वाद्गुणः । पादादित्वादनिघातः । उप्रत्ययस्वरः । धूमम् ।  ‘ धूञ् कम्पने० ' । ' इषियुधीन्धिदसि ' इत्यादिना मक् । कित्त्वाद्गुणाभावः । धुनोति कम्पयति दाह्यानीति धूमोऽग्निः । प्रत्ययस्वरः । इतन । इण् गतौ ' इत्यस्य लोटि तप्रत्ययस्य तनादेशः । निघातः । पृतनाषाट् ।  ‘ षह मर्षणे '।  ‘ छन्दसि सहः' इति ण्विः । णित्त्वादुपधावृद्धिः ।' सहेः साडः सः' इति षत्वम् । कृदुत्तरपदस्वरः । असहन्त ।  ‘ षह मर्षणे ' इत्यस्य लङि रूपम् । यद्योगादनिघातः । दस्यून् ।' दसु उपक्षये '।' यजिमनिशुन्धिदसिजनिभ्यो युच्' इति युच् । दस्यन्तीति दस्यवः शत्रवः । व्यत्ययेनाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre D
 Produce smoke: kṛṇota dhūmam, produce fire,by metonymy
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Companions, create the smoky bull and without faltering go toward  victory’s prize.  
 Here is Agni, overwhelming in battles and rich in good heroes, by  whom the gods overwhelmed the Dasyus.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Raise ye a mighty smoke, my fellow-workers! Ye shall attain to wealth without obstruction.  
      This Agni is the battle-winning Hero by whom the Gods have overcome the Dasyus.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Produce a mighty 1 smoke, ye friends. Without fail go forward towards strength. This Agni is the conqueror in battles, rich in valiant men, he by whom the gods have overpowered the Dasyus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Macht riesigen Rauch, ihr Freunde! Ohne Unfall gelangt zum Ziel! Dies ist der Agni, der Schlachtensieger, der Meister, durch den die Götter die Dasyu´s überwältigten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst Rauch entstehn, o Freunde, geht den Stier um Lab- sal an, nimmer falsch verfahrend; dieser Agni ist ein sehr mann- hafter Feindbesieger, durch den die Götter die Dämonen besiegt haben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Создайте сильный дым, друзья!  
 Невредимыми идите к награде!  

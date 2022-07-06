@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो अग्ने सखिया꣡ पि꣡त्रियाणि  
 प्र꣡ मर्षिष्ठा अभि꣡ विदु꣡ष् कविः꣡ स꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरा꣡ त꣡स्या अभि꣡शस्तेर् अ꣡धीहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नभः॑ । न । रू॒पम् । ज॒रि॒मा । मि॒ना॒ति॒ । पु॒रा । तस्याः॑ । अ॒भिऽश॑स्तेः । अधि॑ । इ॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 हे **अग्ने** **पित्र्याणि** पितरं वसिष्ठमुपक्रम्यागतानि **सख्या** सखित्वानि **मा** **प्र** **मर्षिष्ठाः** मा विनाशय । अत्र मृष्यतेरुपसर्गवशादर्थान्तरे वृत्तिः । यतस्त्वं **कविः** क्रान्तदर्शी **सन्** **अभि** आभिमुख्येन **विदुः** सर्वं विद्वान् । **नभो** **न** **रूपम्** । यथान्तरिक्षं रूपवन्तः सूर्यरश्मय आच्छादयन्ति तद्वदाच्छादयति । **जरिमा** जरा **मिनाति** मां सूक्तद्रष्टारं हिनस्ति । **अभिशस्तेः** हिंसाहेतोः **तस्याः** जरायाः **पुरा** **अधीहि** मां बुध्यस्व । सा यथा न प्राप्नोति तथा कुरु । अमृतत्वं प्रयच्छेति यावत् ॥ सख्या । सख्युर्भावः सख्यम् । • सख्युर्यः' इति यः । पित्र्याणि । पितृभ्य आगतानि । ‘ पितुर्यच्च । (पा. सू. ४. ३. ७९ ) इति यत्प्रत्ययः । ‘ रीङृतः ' ( पा. सू. ७. ४. २७ ) इति रीङादेशः । ‘ यस्येति च ' इति ईकारलोपः । यतोऽनावः' इत्याद्युदात्तत्वम् । मर्षिष्ठाः । ‘ मृष तितिक्षायाम् । प्रार्थनायां छान्दसो लुङ् । ' न माङ्योगे ' इति अडभावः । विदुः । ‘ विद ज्ञाने'। ‘ बहुलमन्यत्रापि ' इति उसिप्रत्ययः । अत एव बहुलवचनाद्गुणाभावः । ‘ छन्दसि वाप्राम्रेडितयोः '( पा. सू. ८. ३. ४९ ) इति विसर्जनीयस्य षत्वम् । नभः । ‘ नहेर्दिवि भश्च' ( उ. सू. ४.६५०) इति असुन् । जरिमा । ‘ जॄष् वयोहानौ'। औणादिको भावे इमनिच्प्रत्ययः । मिनाति । ‘ मीञ् हिंसायाम् । ‘ प्वादीनां ह्रस्वः' इति ह्रस्वत्वम् । अभिशस्तेः । अभिशस्यते हिंस्यतेऽनयेत्यभिशस्तिः । करणे क्तिन् । ‘ तादौ च° ' इति गतेः प्रकृतिस्वरत्वम् । अधीहि । ‘ इक् स्मरणे '। लोटि अदादित्वात् शपो लुक् । हेरपित्त्वेन ङित्त्वाद्गुणाभावः ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,41 +141,41 @@ genre M
 Amṛtatvam prayacchati yāvat, asking Agni, therefore, to grant immortality
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, do not neglect our ancestral partnerships, being preeminent as a  wise poet.  
 Old age alters our form like a cloud. Be attentive (to us) in the face of  this curse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another apparent non sequitur. I have nothing to say about the morphology of the famous crux vidúḥ, which occurs also in VII.18.2 in the same phrase with the same irregular sandhi (abhí vidúṣ kavíḥ sán). I do consider it a nom. sg., not acc. pl.
 
 For further disc. see comm. at VII.18.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, break not our ancestral friendship, Sage as thou art, endowed with deepest knowledge.  
      Old age, like gathering cloud, impairs the body: before that evil be come nigh protect me.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Do not forget, O Agni, who art a sage possessed of knowledge 1, our paternal friendship. Old age impairs the appearance (of men) as a cloud (covers the sun or the sky). Before this curse (attains us), think thou (of us) 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vergiß nicht, Agni, unsere väterliche Freundschaft, der du als Seher die Wissenden übertriffst! Das Alter verändert das Aussehen wie die Wolke ihr Aussehen ändert. Bevor solcher Vorwurf erhoben wird, gedenke unser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, der du bist ein weiser Seher, vergiss nicht unsre väterliche Freundschaft; Das Alter mindert Schönheit wie der Nebel, vor solchem Uebel wollest du uns wahren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не забывай, о Агни, наших отеческих, дружеских чувств,  
 (Ты,) поэт, ведающий больше (всех).  

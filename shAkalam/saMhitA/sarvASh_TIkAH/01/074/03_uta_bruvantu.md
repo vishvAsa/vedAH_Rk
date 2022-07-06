@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ ब्रुवन्तु जन्त꣡व  
 उ꣡द् अग्नि꣡र् वृत्रहा꣡जनि  
 धनंजयो꣡ र꣡णे-रणे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 ध॒न॒म्ऽज॒यः । रणे॑ऽरणे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -87,7 +87,7 @@ genre M
 **अग्निः** **उत्** **अजनि** अरण्योः सकाशादुत्पन्नः । **उत** अनन्तरं **जन्तवः** जाताः सर्वे ऋत्विजः **ब्रुवन्तु** तमग्निं स्तुवन्तु । कीदृशोऽग्निः । **वृत्रहा** वृत्राणामावरकाणां शत्रूणां हन्ता **रणेरणे** सर्वेषु संग्रामेषु **धनंजयः** शत्रुधनानां जेता ॥ धनंजयः । ‘ संज्ञायां भृतॄवृजि ' (पा. सू. ३. २. ४६ ) इति खच्। ' अरुर्द्विषदजन्तस्य°' (पा. सू. ६. ३. ६७ ) इति मुम् । चित्स्वरेणान्तोदात्तत्वम् । रणेरणे। रण शब्दार्थः । रणन्ति दुन्दुभयोऽस्मिन्निति रणः संग्रामः । ‘वशिरण्योरुपसंख्यानम् ' ( पा. सू. ३. ३. ५८. ३) इति अप् । 'नित्यवीप्सयोः' इति द्विर्वचनम् । आम्रेडितानुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,34 +98,34 @@ genre M
 Vṛtra = an enemy, in genitive ral; Agni is identified with **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And let the people say: “Agni, the Vr̥tra-smasher, has arisen,  
 who wins the stakes in every battle!”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And let men say, Agni is born, e'en he who slayeth Vrtra, he  
      Who winneth wealth in every fight.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And let the people say 'Agni is born, the slayer of foes (or, the slayer of Vritra), he who wins the prize in every battle.'
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und die Leute sollen sagen: Agni, der Vritratöter, ist erstanden, der in jedem Kampfe der Beutegewinner ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Menschen mögen es gestehn: »Agni erstand als Siegesheld, Der Beute macht in jeder Schlacht.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И пусть люди говорят:  
 "Возник Агни, побеждающий сопротивление,  

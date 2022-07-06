@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रात꣡र् अग्नि꣡म् प्रात꣡र् इ꣡न्द्रं हवामहे  
 प्रात꣡र् मित्रा꣡व꣡रुणा प्रात꣡र् अश्वि꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रातः꣡ सो꣡मम् उत꣡ रुद्रं꣡ हुवेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र॒तः । भग॑म् । पू॒षण॑म् । ब्रह्म॑णः । पति॑म् । प्र॒तः । सोम॑म् । उ॒त । रु॒द्रम् । हु॒वे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prātar*
 - \[adverb\]
@@ -123,43 +123,43 @@ genre M
 **प्रातः** उषःकाले **अग्निं** देवं **हवामहे** वयं स्तोतार आह्वयामः । तथा प्रातःकाले **इन्द्रं** हवामहे। तथा **मित्रावरुणा** मित्रावरुणावहोरात्राभिमानिनौ देवौ **प्रातः** वयं हवामहे । तथाश्विनौ देवानां भिषजौ **प्रातः** वयं हवामहे । तथा **प्रातः** **भगं** देवं **पूषणं** देवं **ब्रह्मणस्पतिं** मन्त्राभिमानिनमेतत्संज्ञकं चाह्वयामः। तथा **प्रातः** **सोमम्** एतत्संज्ञकं देवम् **उत** अपि च **रुद्रं** देवं च **हुवेम** आह्वयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke at dawn **Agni**; at dawn **Indra**; at dawn **Mitra** and **Varuṇa**; at dawn the **Aśvins**; at dawnBhaga, **Pūṣan**, **Brahmaṇaspati**; at dawn **Soma** and **Rudra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At early morning we call on Agni, at early morning on Indra, at early  morning on Mitra and Varuṇa, at early morning on the Aśvins;  
 at early morning on Bhaga, Pūṣan, Brahmaṇaspati, at early morning on  Soma and Rudra should we call.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was just noted, this vs. is in Jagatī in an otherwise Triṣṭubh hymn (and hymn sequence) -- or rather its first three quarters are. The final pāda is in Triṣṭubh and ends with the verb 1st pl. opt. huvema, which gives a Triṣṭubh cadence and also ends the first pāda of the next vs. (2a), contrasting with its semantic match 1st pl. pres.
 
 indic. havāmahe in the first pāda (1a), which provides a Jagatī cadence. The switch in meter at the end of the vs., cleverly accomplished while holding the verb essentially constant, and the variant repetition of the opening of the 2nd hemistich, prātár bhágam, at the opening of vs. 2, prātar(-jítam) bhágam, knit the 1st vss. together despite the metrical difference and the range of gods in vs. 1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI at dawn, and Indra we invoke at dawn, and Varuna and Mitra, and the Asvins twain.  
      Bhaga at dawn, Pusan, and Brahmanaspati, Soma at dawn, Rudra we will invoke at dawn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Am Morgen rufen wir Agni, am Morgen Indra, am Morgen Mitra und Varuna, am Morgen die beiden Asvin, am Morgen Bhaga, Pusan, Brahmanaspati. Am Morgen wollen wir Soma und Rudra rufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter früh, Frühmorgens Bhaga, Puschan und Brihaspati, frühmorgens laden Soma wir und Rudra ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рано утром Агни, рано утром Индру мы призываем,  
 Рано утром Митру-Варуну, рано утром Ашвинов,  

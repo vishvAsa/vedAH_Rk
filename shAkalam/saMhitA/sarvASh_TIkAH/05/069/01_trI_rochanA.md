@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्री꣡ रोचना꣡ वरुण त्रीँ꣡र् उत꣡ द्यू꣡न्  
 त्री꣡णि मित्र धारयथो र꣡जांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु व्रतं꣡ र꣡क्षमाणाव् अजुर्य꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 व॒वृ॒धा॒नौ । अ॒मति॑म् । क्ष॒त्रिय॑स्य । अनु॑ । व्र॒तम् । रक्ष॑माणौ । अ॒जु॒र्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
@@ -115,7 +115,7 @@ genre M
 हे वरुण हे **मित्र** युवां **त्री** त्रीणि **रोचना** रोचनानि द्युलोकान् धारयथ इति संबन्धः । **उत** अपि च **त्रीन्** **द्यून्** द्योतमानानन्तरिक्षलोकान् **धारयथः** । तथा **त्रीणि** **रजांसि** भूलोकान् । कीदृशौ युवाम् । **वावृधानौ** वर्धमानौ **क्षत्रियस्य** । क्षत्रं बलम् । तद्वत इन्द्रस्य । यद्वा । क्षत्रियजातीयस्य यजमानस्य **अमतिम्** । रूपनामैतत् । रूपं **व्रतं** कर्म च **अजुर्यम्** अजीर्णमविरतं वा **रक्षमाणौ** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,29 +128,29 @@ Augmenting the force of the vigorous Indra: vāvṛdhānau amatim kṣatrīyasya
 Kṣatriyasya = possessed of strength, kṣatram, balam, an attribute, and here an appellative of Indra; or it may mean, the **kṣatriya**, or the military
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The three realms of light and the three heavens, the three airy spaces do  you two uphold, o Varuṇa and Mitra,  
 strengthening the emblem of your lordship, protecting your unaging  commandment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THREE spheres of light, O Varuna, three heavens, three firmaments ye comprehend, O Mitra:  
      Waxed strong, ye keep the splendour of dominion, guarding the Ordinance that lasts for ever.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die drei Lichträume und die drei Himmel, die drei Lufträume erhaltet ihr, Mitra und Varuna, die Herrschererscheinung erhöhend, über das unverwelkliche Gesetz wachend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei Aetherräume, Varuna, drei Himmel, drei Luftgebiete haltet fest ihr, Mitra; Vermehrend eurer Herrschaft mächt'ges Walten, der Satzung nach das Götterreich bewahrend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Три светлых пространства, о Варуна, а также три неба,  
 Вы поддерживаете, о Митра, три (воздушных) пространства,  

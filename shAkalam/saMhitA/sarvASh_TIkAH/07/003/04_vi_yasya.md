@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ य꣡स्य ते पृथिव्या꣡म् पा꣡जो अ꣡श्रेत्  
 तृषु꣡ य꣡द् अ꣡न्ना सम꣡वृक्त ज꣡म्भैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡वं न꣡ दस्म जुहु꣡वा विवेक्षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सेना॑ऽइव । सृ॒ष्टा । प्रऽसि॑तिः । ते॒ । ए॒ति॒ । यव॑म् । न । द॒स्म॒ । जु॒ह्वा॑ । वि॒वे॒क्षि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 हे अग्ने **यस्य** दावरूपस्य **ते** तव **पाजः** तेजः **पृथिव्यां** भूम्यां **तृषु** क्षिप्रं **वि** **अश्रेत्** विश्रयति **यत्** यदा अन्नानि काष्ठादीनि **जम्भैः** दन्तैः । ज्वालाभिरित्यर्थः । **समवृक्त** वृङ्क्ते खादति । तथा **सेनेव** **सृष्टा** उद्युक्ता **ते** तव **प्रसितिः** ज्वाला **एति** गच्छति । **दस्म** हे दर्शनीयाग्ने त्वं **यवं** **न** यवमिव **जुह्वा** ज्वालया **विवेक्षि** काष्ठादीनि भक्षयसि व्याप्नोषि वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ genre M
 You spread with your flame: yavam na dasma juhvā = darśanīyāgnertvam yavam iva jvālayā kāṣṭhādīni bhakṣayasi, when you eat wood and other things like barley, withflame
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You whose leading edge has spread out upon the earth when it has  hungrily encircled its food with its jaws—  
 your advance comes like a loosed weapon; wondrous one, you work  over (the wood) like barley with your tongue.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou whose fresh lustre o'er the earth advanceth when greedily with thy jaws thy food thou eatest.  
      Like a host hurried onward comes thy lasso: fierce, with thy tongue thou piercest, as 'twere barley.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sobald deine Erscheinung auf der Erde sich breit macht, wenn sie gierig die Speisen mit den Fangzähnen gepackt hat, so geht dein Anlauf wie ein losgelassenes Heer. Wie das Roß die Gerste vertilgest du Meister das Holz mit der Zunge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, dessen Lichtschein durch die Erde hinschritt, als gierig kauend Speisen du zermalmtest, Du dringst voran gleich dem entsandten Pfeile, du hehrer trennst wie Korn sie mit der Zunge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, чей огненный столп укрепился на земле,  
 Когда он жадно схватил клыками еду, –  

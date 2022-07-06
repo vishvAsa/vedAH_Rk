@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ व स्तो꣡मं राधति यं꣡ जु꣡जोषथ  
 वि꣡श्वे देवासो मनुषो य꣡ति ष्ठ꣡न  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यो꣡ नः प꣡र्षद् अ꣡ति अं꣡हः सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 कः । वः॒ । अ॒ध्व॒रम् । तु॒वि॒ऽजा॒ताः॒ । अर॑म् । क॒र॒त् । यः । नः॒ । पर्ष॑त् । अति॑ । अंहः॑ । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -147,7 +147,7 @@ genre M
 ऋषिर्दैवान् प्रति बहुधा वितर्कयति । हे देवाः **वः** युष्माकं **कः** स्तोता **स्तोमं** त्रिवृत्पञ्चदशादिलक्षणं **राधति** संसाधयति । न कश्चिदस्तीत्यर्थः । यद्वा । मदन्यः को वो युष्मभ्यं स्तोमं करोति । यूयं **यं** स्तोतारं **जुजोषथ** सेवध्वे ।  ‘ जुषी प्रीतिसेवनयोः ' । लेटि शपः श्लुः । अड़ागमः । किंच हे **मनुषः** मन्तारो ज्ञातारो हे **विश्वे** **देवासः** देवा यूयं **यति** यत्संख्याः **स्थन** भवथ ॥ यच्छब्दादपि छान्दसो डतिर्दृष्टव्यः । हे **तुविजाताः** धावादिविभागेन बहुजनता हे देव। युष्मदर्थं **कः** वा यजमानः **अध्वरे** यज्ञम् **अरं** **करत** अलंकरोति स्तुतिभिर्हविर्भिश्च । मदन्यो नास्तीत्यर्थः । **यः** यज्ञः **नः** अस्मान् **स्वस्तये** अविनाशाय **अंहः** पापरूपं मार्गमवैदिकं **अति** **पर्षत्** अतिपारयति तं यज्ञं को वालंकरोतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -158,29 +158,29 @@ genre M
 Which you like: stotāram, what worshipper whom you accepṭ..
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who brings to success for you the praise that you will enjoy, all you  gods of Manu, however many you are?  
 Who will properly prepare for you, powerfully born ones, the ceremony  that will carry us across difficult straits—for well-being?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who offereth to you the laud that ye accept, O ye All-Gods of Manu, many as ye are?  
      Who, Mighty Ones, will prepare for you the sacrifice to bear us over trouble to felicity?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer trifft euer Lob richtig, daß ihr daran Freude habt, ihr Götter alle des Manu, so viele ihr seid? Wer wird euch das Opfer recht machen, ihr Vielartige, das uns über die Not helfen soll zum Heile?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer bringt euch dar den Lobgesang, der euch gefällt, ihr Männer alle, Götter ihr, so viel ihr seid? Wer macht das Opfer, vielgeborne, euch bereit, das über Noth hin uns zum Heile führen soll?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

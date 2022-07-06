@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ पृ꣡षतीभिर् ऋष्टि꣡भिः  
 साकं꣡ वा꣡शीभिर् अञ्जि꣡भिः  
 अ꣡जायन्त स्व꣡भानवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अजा॑यन्त । स्वऽभा॑नवः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -78,7 +78,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ये मरुतः पृषत्यादिभिः **साकं** **स्वभानवः** स्वकीयदीप्तियुक्ताः **अजायन्त** इति संपन्नाः । पृषत्यो बिन्दुयुक्ता मृग्यो मरुद्वाहनभूताः।  ‘ पृषत्यो मरुताम्' (नि.१.१५.६) इति निघण्टावुक्तत्वात् । ऋष्टय आयुधानि । वाश्यः शब्दविशेषाः परकीयसेनाभीतिहेतवः। ‘वाशी वाणी' ( नि. १. ११. ११) इति वाङ्नामसु पठितत्वात् । अञ्जयोऽलंकरणानि । तान् स्तुम इति शेषः ॥ अजायन्त । ‘जनी प्रादुर्भावे' । श्यनि ‘ज्ञाजनोर्जा' ( पा. सू. ७. ३. ७९ ) इति जादेशः । अडागम उदात्तः । स्वभानवः । स्वकीया भानवो येषाम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,29 +91,29 @@ Vāśībhiḥ = with sounds or speeches; i.e. with cries terrifying the enemy's 
 **Vaśi** = vāc, speech, voice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, together with their dappled (mares) and their spears, their axes  and unguents,  
 were born having a radiance of their own.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who, self-luminous, were born together, with the spotted deer,  
      Spears, swords, and glittering ornaments.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die mit dem Schecken, den Lanzen, mit den Bullen und Zierraten zusammen geboren wurden, von selbst glänzend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die mit Gazellen, Speeren auch mit Aexten und mit Schmuck zugleich In eignem Glanz geboren sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те Маруты), что родились вместе  
 С пестрыми (антилопами), с копьями,  

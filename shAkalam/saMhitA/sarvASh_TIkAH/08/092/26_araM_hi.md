@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रं हि꣡ ष्म सुते꣡षु णः  
 सो꣡मेषु इन्द्र भू꣡षसि  
 अ꣡रं ते शक्र दाव꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; repeated line
 अर॑म् । ते॒ । श॒क्र॒ । दा॒वने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *araṃ* ← *aram*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M;; repeated line
 हे **इन्द्र** **सुतेषु** अभिषुतेषु **नः** अस्मदीयेषु **सोमेषु** । **हि** **ष्म** इत्यवधारणे । त्वमेव तेषां पाने अलं पर्याप्तः **भूषसि** भवसि । यद्वा। सोमेष्वभिषुतेषु सत्सु नोऽस्माकं पर्याप्तं धनं भूषसि । ‘भू प्राप्तौ । त्वं प्रापय । तथा भवति हे **शक्र** समर्थेन्द्र **दावने** धनादिकस्य दात्रे **ते** तुभ्यमस्माभिर्दीयमानाः सोमाः **अरम्** अलं पर्याप्ता भवन्तु ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,14 +99,14 @@ genre M;; repeated line
 Abundantly able: bhiṣasi = bhavasi, prāpaya, bring us abundant wealth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For fittingly you exert yourself when our soma drinks are  
 pressed, Indra,  
 fittingly for your giving, able one.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-27.md">
 <details open><summary><h2>24-27 ...{Loading}...</h2></summary>
 
@@ -118,23 +118,23 @@ The final áram in 27c returns us to the situation found in 24, where the provid
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here, Indra, thou art ready by our Soma juices shed for thee,  
      Sakra, at hand that thou mayst give.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du machst dich bereit für unseren ausgepreßten Soma, Indra; wir sind bereit für deine Schenkung, o Mächtiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn passend, Indra, mühst du dich für uns bei dem gebrauten Trank, O Indra, deiner Gab' gemäss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

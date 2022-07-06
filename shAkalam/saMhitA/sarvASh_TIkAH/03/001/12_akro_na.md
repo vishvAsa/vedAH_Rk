@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अक्रो꣡ न꣡ बभ्रिः꣡ समिथे꣡ मही꣡नां  
 दिदृक्षे꣡यः सून꣡वे भा꣡ऋजीकः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपां꣡ ग꣡र्भो नृ꣡तमो यह्वो꣡ अग्निः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उत् । उ॒स्रियाः॑ । जनि॑ता । यः । ज॒जान॑ । अ॒पाम् । गर्भः॑ । नृऽत॑मः । य॒ह्वः । अ॒ग्निः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akro* ← *akraḥ* ← *akra*
 - \[noun\], nominative, singular, masculine
@@ -117,41 +117,41 @@ genre M
 जनिता सर्वस्यलोकस्यजनयिता अपांउदकानाङ्गर्भः गर्भरूपः नृतमः नेतृतमः अतिशयेन मनुष्याणांरक्षिता यह्वः महान् योग्निः अक्रः परेषामाक्रमितापरैरनाक्रमणीयोवा नेतिपाद पूरणः समिथेसङ्ग्रामे महीनाम्महतीनांस्वसेनानां बभ्रिःभर्ता दिदृक्षेयः सर्वैर्दर्शनीयः भाऋजीकः स्वदीप्त्याप्रकाशमानः सोग्निः सूनवेहविषाम्प्रदात्रे यजमानाय तदर्थं उस्रियाः अपः उज्जजानौद जनयत् सूनवे षूप्रेरणे इत्यस्माद्धातोरौणादिकोनुप्रत्ययः ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The invincible **Agni**, the cherisher of the valiant in battle, the seen of all, shining by his own lustre, the genitive rator (of the world), the embryo of the waters, the chief of leaders, the mighty, is he who has begotton the waters for (the benefit of) the offerer of the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a burden-bearing foal [?], at the meeting place of the great (waters?),  the one desirable for a son to see and foaming with radiance,  
 the begetter who gave birth to the ruddy (cows of dawn), the embryo of  the waters, and the best of men is the young Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As keen supporter where great waters gather, light-shedder whom the brood rejoice to look on;  
      He who begat, and will beget, the dawnlights, most manly, Child of Floods, is youthful Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Like a horse that carries (the prize), in the assembly of the great (waters) 1, visible to his son 2, he whose … is light 3: he who as father begat the ruddy cows 4, he the son of the waters is the most manly, restless 5 Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein tragender Elefant im Zusammenfluß der Hochwasser, ein begehrter Anblick für den Sohn, glanzverschönt, er der als Erzeuger die Kühe hervorgebracht hat, das Kind der Gewässer, der mannhafteste, der jüngste Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Strebepfeiler in der Wellen Andrang ist sehenswerth dem Sohn der lichtdurchstrahlte; Er, der das Licht erzeugte als Erzeuger, der Wasser Spross, der starke, rasche Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подобен коню (?), выносящему (на спине) при столкновении двух великих (войск),  
 Агни, желанный для взгляда (своего) сына, пламенеющий блеском  

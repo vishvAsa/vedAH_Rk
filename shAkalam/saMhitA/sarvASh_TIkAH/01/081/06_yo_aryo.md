@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अर्यो꣡ मर्तभो꣡जनम्  
 पराद꣡दाति दाशु꣡षे  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 भक्षीय꣡ त꣡व रा꣡धसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M
 इन्द्रः॑ । अ॒स्मभ्य॑म् । शि॒क्ष॒तु॒ । वि । भ॒ज॒ । भूरि॑ । ते॒ । वसु॑ । भ॒क्षी॒य । तव॑ । राध॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -111,37 +111,37 @@ genre M
 **अर्यः** स्वामी पालयिता **यः** इन्द्रः **मर्तभोजनं** सर्वैर्मनुष्यैरुपभोज्यमन्नं **दाशुषे** चरुपुरोडाशादीनि दत्तवते यजमानाय **पराददाति** प्रयच्छति सः **इन्द्रः** **अस्मभ्यं** **शिक्षतु** तादृशमन्नं ददातु । अवशिष्टपादद्वयं प्रत्यक्षकृतम् । हे इन्द्र अस्मभ्यं दातुं धनं **वि** **भज** विभक्तं कुरु । यतः **ते** तव **वसु** धनं **भूरि** बहुलमसंख्यातं अतः **तव** **राधसः** धनस्यैकदेशं **भक्षीय** भजेय प्राप्नुयाम् ॥ पराददाति । अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ।  ‘ तिङि चोदात्तवति' इति गतेः अनुदात्तत्वम् । दाशुषे ।' दाशृ दाने '। दाश्वान् साह्वान्' इति क्वसुप्रत्ययान्तो निपात्यते । चतुर्थ्येकवचने ' वसोः संप्रसारणम् ' इति संप्रसारणम् । शासिवसिघसीनां च ' इति षत्वम् । भक्षीय ।  ‘ भज सेवायाम् । प्रार्थनायां लिङि तस्य  ‘ छन्दस्युभयथा ' इति आर्धधातुकत्वात् शबभावः सलोपाभावश्च । ' एकाचः ' इति इट्प्रतिषेधः । आगमानुदात्तत्वे प्रत्ययस्वर एव शिष्यते । पूर्वपदस्यासमानवाक्यगतत्वात् निघाताभावः  ‘ समानवाक्ये निघातयुष्मदस्मदादेशा वक्तव्याः' इति वचनात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “May **Indra**, the protector, who returns to the giver (of oblations) the food that is fit for mortals, bestow (such food) on us; distribute your wealth, which is abundant, so that I may obtain (a portion) of your riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who hands over to the pious man the sustenance for mortals that  belongs to the stranger—  
 let Indra do his best for us. Share out your many goods:  
 might I have a share of your generosity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he who to the offerer gives the foeman's man-sustaining food,  
      May Indra lend his aid to us. Deal forth--abundant is thy wealth--that in thy bounty I may share.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die Menschenzehrung des hohen Herrn dem Opferspender verschenkt, der Indra soll uns zu nützen suchen. Teil aus; dein ist viel Gut! Ich möchte deiner Gabe teilhaftig werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der des Feindes Speis' und Trank dem frommen Manne übergibt, Uns theile Indra Gaben zu, vertheile du, reich ist dein Gut, und gib auch mir davon mein Theil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто еду смертных, принадлежащую врагу,  
 Отдает почитающему (его) –  

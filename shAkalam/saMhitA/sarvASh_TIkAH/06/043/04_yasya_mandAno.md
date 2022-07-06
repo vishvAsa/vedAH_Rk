@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य मन्दानो꣡ अ꣡न्धसो  
 मा꣡घोनं दधिषे꣡ श꣡वः  
 अयं꣡ स꣡ सो꣡म इन्द्र ते सुतः꣡ पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; 12 = 8+4;; repeated line
 अ॒यम् । सः । सोमः॑ । इ॒न्द्र॒ । ते॒ । सु॒तः । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, neuter
@@ -94,7 +94,7 @@ genre M;; 12 = 8+4;; repeated line
 हे **इन्द्र** त्वं **यस्य** **अन्धसः** सोमलक्षणस्यान्नस्य पानेन’ **मन्दानः** मन्दमानो हृष्टः सन् **माघोनम्** ऐन्द्रं **शवः** असाधारणं बलं **दधिषे** धारयसि । येन सोमेन तवेन्द्रत्वं जातमित्यर्थः । **सः** **अयं** **सोमः** **सुतः** अभिषुतस्तं **पिब** ॥ ॥ १५ ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,13 +105,13 @@ genre M;; 12 = 8+4;; repeated line
 The might of Maghavan: māghonam **śavas**, the rank of office of Indra, is engendered by the Soma, **somam** indratvam jātam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Finding exhilaration in whose stalk, you acquire the capacity for  generosity—  
 here is that soma, Indra, pressed for you. Drink!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On áprahan- (or, less likely, áprahaṇa-), see Oldenberg, Scarlatta (689). Scarlatta construes vaḥ with this form (“der nicht auf euch einschlägt”) as well as with gṛṇīṣé (“… will ich für euch preisen”). I take vaḥ only with gṛṇīṣé and supply ‘us’ with the root noun cmpd.; Geldner likewise takes vaḥ with the verb and supplies “keiner” as obj. of the cmpd. There is no way to choose and no reason to do so, since all three are more or less equivalent: Indra is all powerful but does not threaten the community to which the poet belongs.
 
@@ -126,23 +126,23 @@ Although this tṛca does not have glaring signs of unity, it particularly conce
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This, in whose juice delighting thou gainest the might of Maghavan,  
      This Soma is pressed out for thee, O Indra drink!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von des Trank begeistert du die Macht des Maghavan erlangt hast, dieser Soma ist für dich, Indra, gepreßt. Trink!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An dessen Trunke du erfreut empfangen hast gewalt'ge Macht, Der Soma ist gepresst dir, Indra, trinke ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чьим соком опьяненный  
 Ты достиг силы, свойственной щедрому,  

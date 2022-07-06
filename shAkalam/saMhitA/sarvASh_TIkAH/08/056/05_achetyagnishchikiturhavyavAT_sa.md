@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡चेति अग्नि꣡श् चिकितु꣡र्  
 हव्यवा꣡ट् स꣡ सुम꣡द्रथः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 दिवि꣡ सू꣡र्यो अरोचत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; Vālakhilya
 अ॒ग्निः । शु॒क्रेण॑ । शो॒चिषा॑ । बृ॒हत् । सूरः॑ । अ॒रो॒च॒त॒ । दि॒वि । सूर्यः॑ । अ॒रो॒च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acety* ← *aceti* ← *cit*
 - \[verb\], singular, Aorist passive
@@ -114,35 +114,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The shining **Agni** has appeared, the bearer of the oblation, with his chariot; Agni has gleamed forthbrilliantly with his bright flame as **Sura**, he has gleamed forth in heaven as **Sūrya**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the perceptive, has just been perceived, the oblation-conveyor  along with his chariot.  
 Agni shone with his blazing flame, having his own sun aloft, as the Sun  shone in heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I suggest reading *bṛhát-sūro here, that is, a bahuvrīhi meaning ‘possessing a lofty sun’. The point is the usual one, that Agni is another form of the sun, and his flame as it rises is like the sun. The published translation should have an asterisk before “having his own sun aloft.”
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erschienen ist Agni, der wegekundige, der Opferfahrer mit schönem Wagen. Agni leuchtete mit lichter Glut, hoch leuchtete die Sonne; es leuchtete die Sonne am Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der glänzende Agni hat sich gezeigt, der Opferfahrende, er sammt seinem Wagen; Agni erglänzte mit dem hellen Lichte der Sonne, – die Sonne glänzte am Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Явился Агни, знающий (путь).  
 Он увозит жертву на колеснице.  

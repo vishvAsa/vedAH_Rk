@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो भ꣡गाय वाय꣡वे  
 पूष्णे꣡ पवस्व म꣡धुमान्  
 चा꣡रुर् मित्रे꣡ व꣡रुणे च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 चारुः॑ । मि॒त्रे । वरु॑णे । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -88,20 +88,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **मधुमान्** मधुररसः **चारुः** कल्याणस्वरूपश्च **सः** अभिषुतस्त्वं **नः** अस्माकं यज्ञे **भगाय** भगाख्याय देवाय **वायवे** च **पूष्णे** च **मित्रे** मित्राय देवाय **वरुणे** वरुणाय **च** **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you who are sweet-flavoured and beautiful flow (at) our (sacrifice) for **Bhaga**, **Vāyu**, **Pūṣaṇ**, **Mitra** and **Varuṇa**”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself for us, honeyed for Bhaga, for Vāyu, for Pūṣan,  
 dear to Mitra and Varuṇa.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -110,23 +110,23 @@ The tṛca is characterized by the mention of gods in all three vss. The Āditya
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow rich in sweets and lovely for our Bhaga, Vayu, Pusan flow  
      For Mitra and for Varuna.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich uns, süß für Bhaga, für Vayu und Pusan, dem Mitra und Varuna wohlgefällig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ströme unserm Bhaga nun, dem Vaju, Puschan honigreich, Dem Varuna und Mitra lieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся у нас медовым  
 Для Бхаги, Ваю, Пушана,  

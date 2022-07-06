@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते धा꣡रा म꣡धुमतीर् असृग्रन्  
 वा꣡रान् य꣡त् पूतो꣡ अतिए꣡षि अ꣡व्यान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जज्ञानः꣡ सू꣡रियम् अपिन्वो अर्कइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पव॑मान । पव॑से । धाम॑ । गोना॑म् । ज॒ज्ञा॒नः । सूर्य॑म् । अ॒पि॒न्वः॒ । अ॒र्कैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -119,20 +119,20 @@ genre M
 ते तव स्वभूता मधुमतीः मधुगत्योधाराः प्रासृग्रन् तदाप्रसृज्यन्ते यद्यदा पूतोवसती- वरीभिः त्वं अव्यानविभवान् वारान् वालान् पवित्राण्यत्येषि अतीत्य गच्छसि । किञ्च हेपवमान गोनां गवान्धान धारकं पयोलक्षीकृत्य पवसे ततः जज्ञानः जायमानस्त्वं अर्कैर र्चनीयैः स्वतेजोभिः सूर्यमादित्यमपिन्वः पूरयसि ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your exhilarating streams are let loose when you pass purified through the woollen fleece; **Pavamāna** you flow to the supporting (milk) of the kine, as soon as genitive rated you fill the sun with your radiance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your honeyed streams have surged forth, when, purified, you go across  the sheep’s fleece.  
 Self-purifying one, purify yourself as the domain for the cows. On being  born, you swelled the sun with rays [/chants].
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -142,7 +142,7 @@ The first vs. of the tṛca contains a form of √sṛj, thus concatenating with
 </div>
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The skeleton of pāda a, (prá te) dhā́rā (mádhumatīr) asṛgran, is identical to 29a (śatáṃ) dhā́rā (devájātā) asṛgran.
 
@@ -151,23 +151,23 @@ The published translation renders pávase as if it were an imperative; correct t
 As often, arká- can be read as a pun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now are thy streams poured forth with all their sweetness, when, purified. thou goest through the filter.  
      The race of kine is thy gift, Pavarridna: when born thou madest Surya rich with brightness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine süßen Ströme haben sich ergossen, während du geläutert durch die Schafhaare gehst. O Pavamana, du läuterst dich als Essenz der Kühe. Sobald du geboren wardst, hast du die Sonne mit Strahlen angeschwellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen sind jetzt deine, süssen Ströme, da du gereinigt durch die Wolle schreitest, Hellflammend strömst du zu der Kühe Stätte; geboren fülltest du mit Licht die Sonne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выпущены вперед твои медовые потоки,  
 Когда, очищенный, ты проходишь сквозь сито из овечьей шерсти.  

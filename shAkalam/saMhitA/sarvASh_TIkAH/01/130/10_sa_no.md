@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो न꣡व्येभिर् वृषकर्मन् उक्थइः꣡  
 पु꣡रां दर्तः पायु꣡भिः पाहि शग्मइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वावृधीथा꣡ · अ꣡होभिर् इव द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 दि॒वः॒ऽदा॒सेभिः॑ । इ॒न्द्र॒ । स्तवा॑नः । व॒वृ॒धी॒थाः । अहो॑भिःऽइव । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 हे इन्द्र **वृषकर्मन्** अभिमतवर्षणव्यापारवन् **पुरां** **दर्तः** असुरपुराणां दारयितः ॥ ‘सुबामन्त्रिते°' इति षष्ठ्याः पराङ्गवद्भावात् षष्ठ्यामन्त्रितसमुदायस्य पादादित्वात् अष्टमिकमाद्युदात्तत्वम् ॥ **सः** तादृशो महानुभावस्त्वं **नः** अस्मत्संबन्धिभिः **नव्येभिः** नूतनैः **उक्थैः** इदानीं प्रतिपादितप्रकारैः स्तोत्रैस्तुष्टः सन् **पायुभिः** पालनप्रकारैः **शग्मैः** सुखैश्च ऐहिकामुष्मिकरूपैः । **पाहि** पालय । किंच हे **इन्द्र** **दिवोदासेमिः** दिवोदासगोत्रोत्पन्नैः ॥ अर्शआदित्वात् अच् ॥ अस्माभिः परुच्छेपैः । यद्वा । पूजार्थं बहुवचनम् । **स्तवानः** स्तूयमानः । कर्मणि कर्तृप्रत्ययः ॥ **ववृधीथाः** प्रवृद्धो भव ॥ वृधेर्लिङि छान्दसः शपः श्लुः ॥ किमिव । **अहोभिरिव** **द्यौः** । द्योतनशीलः आदित्यः अहोभिः प्रसिद्धैर्यथा प्रवृद्धो भवति तथा अस्मत्स्तुत्या अत्यन्तं प्रवृद्धो भवेत्यर्थः ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M
 Divodāsebhiḥ = by us, the paruchepas, or me, **parucchepa**, the plural is honorific
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because of our new hymns, you splitter of strongholds whose deeds are  bullish, protect us along with your capable protectors.  
 O Indra, being praised by the Divodāsas, you should grow strong, like  heaven through the days.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lauded with our new hymns, O vigorous in deed, save us with strengthening help, thou Shatterer of the Forts!  
      Thou, Indra, praised by Divodasa's clansmen, as heaven grows great with days, shalt wax in glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So Schütz uns mit deinen wirksamen Schutzgeistern, mit neuen Liedern gepriesen, du Brecher der Burgen, an Taten ein Stier; von den Divodasa´s gepriesen, mögest du, Indra, zunehmen wie der Himmel durch die Tage.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch neuen Spruch bewogen schütz uns, mächt'ger, mit starken Hütern du, o Burgzerstörer, Gepriesen, Indra, von den Divodasa's bist du erquickt durch Strahlen wie der Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Защити нас, (пришедших) с новыми песнями, о ты, чьи деяния мужественны,  
 О проламыватель крепостей, (своими) могучими защитниками!  

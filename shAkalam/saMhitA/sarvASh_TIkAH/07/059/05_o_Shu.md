@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 õ꣡ षु꣡ घृष्विराधसो  
 यात꣡ना꣡न्धांसि पीत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मो꣡ षु꣡ अन्य꣡त्र गन्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इ॒मा । वः॒ । ह॒व्या । म॒रु॒तः॒ । र॒रे । हि । क॒म् । मो इति॑ । सु । अ॒न्यत्र॑ । ग॒न्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *o* ← *ā*
 - \[adverb\]
@@ -126,42 +126,42 @@ genre M
 हे **घृष्विराधसः** परस्परघृष्टानि सुसंहतानि राधांसि येषां ते हे मरुतः यूयम् **अन्धांसि** सोमलक्षणानि हवींषि **पीतये** भक्षणार्थं **सु** सुष्ठु **ओ** **यातन** आयात । **हि** यस्मात् कारणात् हे **मरुतः** **वः** युष्मभ्यम् **इमा** इमानि **हव्या** हव्यानि हवींषि **ररे** अहं ददामि अतः कारणात् यूयम् **अन्यत्र** **मो** **षु** **गन्तन** मा गच्छत ॥'
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you whose riches are connected together come to partake of the (sacrificial) viands, for **Maruts**, Ioffer to you these oblations, therefore go not away to any other (sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You of ardent generosity, drive here to drink the stalks.  
 Here are the oblations for you, o Maruts. Because I have bestowed  
 them, don’t go somewhere else.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take c as a single clause (e.g., “Car je vous ai donné ces offrandes”), but the position of hí suggests that a new clause begins with preceding 95 raré, and imā́vo havyā́is a fine nominal clause announcing the oblations present right here on the ritual ground.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hitherward to drink the juice, O ye whose bounties give you joy.  
      These offerings are for you, these, Maruts, I present. Go not to any place but this.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet fein her, um die Somasäfte zu trinken, ihr, deren Freigebigkeit zu schenken begierig ist, denn euch, Marut, habe ich diese Opfer gespendet. Geht fein nicht anderswohin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr, deren Gaben uns erfreun, kommt her zum Trunk des Somakrauts, O Maruts, diese Opfer hab' ich euch geweiht, so geht denn nicht wo anders hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте же прекрасно (к нам),  
 О (боги) с потрясающими дарами, для питья соков (сомы)!  

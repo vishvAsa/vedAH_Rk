@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शू꣡रा इवे꣡द् यु꣡युधयो न꣡ ज꣡ग्मयः  
 श्रवस्य꣡वो न꣡ पृ꣡तनासु येतिरे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 रा꣡जान इव त्वेष꣡संदृशो न꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 भय॑न्ते । विश्वा॑ । भुव॑ना । म॒रुत्ऽभ्यः॑ । राजा॑नःऽइव । त्वे॒षऽस॑न्दृशः । नरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śūrā* ← *śūrāḥ* ← *śūra*
 - \[noun\], nominative, plural, masculine
@@ -118,36 +118,36 @@ genre M
 इत् इत्येतत्समुच्चये। **शूराइवेत्** शौर्योपेता युयुत्सवः पुरुषा इव च **युयुधयः** शत्रुभिर्बुध्यमानाः पुरुषा इव च **जग्मयः** शीघ्रं गच्छन्तो मरुतः **श्रवस्यवो** **न** श्रवोऽन्नमात्मन इच्छन्तः पुरुषा इव **पृतनासु** संग्रामेषु **येतिरे** प्रयतन्ते वृत्रादिभिर्युद्धे व्याप्रियन्ते । तादृशेभ्यः **मरुद्भ्यः** **विश्वा** **भुवना** सर्वाणि भूतजातानि **भयन्ते** बिभ्यति। ये **नरः** वृष्ट्यादेर्नेतारो मरुतः **राजानइव** राजमाना नृपतय इव **त्वेषसंदृशः** दीप्तसंदर्शना उग्ररूपतया द्रष्टुमशक्या भवन्ति तेभ्य इत्यर्थः ॥ युयुधयः ।  ‘ युध संप्रहारे । आदृगमहनजनः० ' इत्यत्र  ‘ उत्सर्गश्छन्दसि ( पा. सू. ३. २. १७१. २) इति वचनात् किन्प्रत्ययः । लिङवद्भावात् द्विर्भावादि । कित्त्वात् गुणाभावः । नित्त्वादाद्युदात्तत्वम् । जग्मयः । तेनैव सूत्रेण किन्प्रत्ययः ।  ‘ गमहन' इत्यादिना उपधालोपः । स्थानिवद्भावात् द्विर्भावादि। श्रवस्यवः । श्रव इच्छति श्रवस्यति ।  ‘ क्याच्छन्दसि' इति उप्रत्ययः । येतिरे। **यती** प्रयत्ने' ।  ‘ छन्दसि लुङ्लङ्लिटः' इति वर्तमाने लिट् । भयन्ते ।  ‘ ञिभी भये । बहुलं छन्दसि ' इति शपः श्लोरभावः । त्वेषसंदृशः ।  ‘ त्विष दीप्तौ । पचाद्यच् । 'दृशिर प्रेक्षणे '। संपूर्वादस्मात् संपदादिलक्षणो भावे क्विप् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like heroes, like combatants, like men anxious for food, the swift-moving (**Maruts**) have engaged in battles; all beings fear the Maruts, who are the leaders (of the rain), and awful of aspect, like princes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like champions, like oncoming fighters, like those seeking fame in  battles, they have marshaled themselves.  
 All creatures fear the Maruts—the superior men glittering in appearance  like kings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In sooth like heroes fain for fight they rush about, like combatants fame-seeking have they striven in war.  
      Before the Maruts every creature is afraid: the men are like to Kings, terrible to behold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie tapfere Krieger ausziehend, haben sie wie Ruhmbegierige in den Kämpfen gewetteifert. Es fürchten sich alle Wesen vor den Marut. Wie die Könige sind die Männer von funkelndem Anblick.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kampflust'gen Helden gleich sind eilend sie, wie ruhmbegier'ge gehn in Schlachten sie geschart, Es fürchten alle Wesen vor den Maruts sich, die Männer zeigen prächtig sich wie Könige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Быстро шагая, как герои, как воины,  
 Как ищущие славы, встали они строем в сражениях.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अ꣡क्रन्दः प्रथमं꣡ जा꣡यमान  
 उद्य꣡न् समुद्रा꣡द् उत꣡ वा पु꣡रीषात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उपस्तु꣡त्यम् म꣡हि जातं꣡ ते अर्वन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 श्ये॒नस्य॑ । प॒क्षा । ह॒रि॒णस्य॑ । बा॒हू इति॑ । उ॒प॒ऽस्तुत्य॑म् । महि॑ । जा॒तम् । ते॒ । अ॒र्व॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -118,7 +118,7 @@ popular
 हे **अर्वन्** अरणकुशलाश्व **ते** तव **जातं** जन्म जननम् **उपस्तुत्यम्** उपेत्य सर्वैः स्तोतव्यम् ॥ स्तौतेः ‘एतिस्तुशास्वृ°' इति क्यप् । ततः तुक् ॥ कथं स्तुत्यत्वमिति उच्यते । **यत्** यस्मात् **समुद्रात्** । अन्तरिक्षनामैतत् । उदकसमुन्दनापादानात् यक्षगन्धर्वादिसंमोदनाधिकरणात् वा अन्तरिक्षात् **प्रथमं** पूर्वं **जायमानः** उत्पन्नः । यद्वा । समुद्रः आदित्यः समुन्दगात् वृष्ट्या । तस्माद्वा जायमानः । ‘सूरादश्वं वसवो निरतष्ट' (ऋ. सं. १. १६३. २) इति वक्ष्यमाणत्वात् । **उत** **वा** अथवा **पुरीषात्** सर्वकामानां पूरकात् उदकात् प्रथमम् **उद्यन्** जायमानः । स तादृशस्त्वं यत् यस्मात् **अक्रन्दः** महाशब्दमकरोः यजमानमनुग्रहीतुम् । किंच ते **पक्षा** पतनसाधनौ पक्षौ **श्येनस्य** पक्षाविव । तौ यथा शीघ्रपतनसाधनौ तादृशावित्यर्थः । तव **बाहू** **हरिणस्य** बाहू इव । तौ यथा वेगवन्तौ तादृशावित्यर्थः । यस्मादेवं तस्मात्ते जन्म स्तुत्यमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ Spring from the firmament: samudrād uta vā purīṣāt = **antarikṣa**, the 
 **Samudra** = the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you whinnied on first being born, rising from the sea or from the  fertile soil,  
 (having) the two wings of a falcon, the two forelegs of an antelope— your great birth was worthy of praise, o steed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The tr. of púrīṣa- as ‘fertile ground’ is an adaptation of Krick’s (Feuergrundung, 101 n. 253). The basic meaning is ‘fullness, fulfillment’, but it can indicate fruitful, loose rich earth, bottom land, as well as overflowing fullness.
 
@@ -146,23 +146,23 @@ The tr. of púrīṣa- as ‘fertile ground’ is an adaptation of Krick’s (Fe
 I follow Renou in taking pāda c as containing two de-composed bahuvrīhis at least functionally. Though Renou generally overuses this explanation, in this case we have almost documentary proof, in that 9a contains both a real bahuvrīhi and a decomposed expression like this one in parallel: híraṇyaśṛṅgó ‘yo asya pā́dā “having golden horns, his feet copper.” In our pāda c the expressions are technically nominal sentences with possessive value, with the possessive pronoun te to be supplied from pāda d: “(your) wings (those) of a falcon, (your) forelegs (those) of an antelope.” But these are tantamount to bahuvrīhis and go more smoothly into English that way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHAT time, first springing into life, thou neighedst, proceeding from the sea or upper waters,  
      Limbs of the deer hadst thou, and eagle pinions. O Steed, thy birth is nigh and must be lauded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du eben erst geboren wiehertest, aus dem Meer oder aus dem Urquell heraussteigend, mit Flügeln des Adlers und den Vorderfüßen der Antilope - das war deine preisenswerte hohe Geburt, du Renner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als du wiehertest, da du zuerst geboren wurdest, hervorgehend aus dem Meere oder aus dem Nebel, da wurden dir des Falken Flügel, der Gazelle Füsse, hoher, preisenswerther Ursprung, o Renner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ты заржал впервые, рождаясь,  
 Вздымаясь из океана или из первородного источника, -  

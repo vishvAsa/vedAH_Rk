@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ऊ स्य꣡ व꣡ह्निः पथि꣡याभिर् अस्यान्  
 दिवो꣡ न꣡ वृष्टिः꣡ प꣡वमानो अक्षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मातु꣡र् उप꣡स्थे व꣡न आ꣡ च सो꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒हस्र॑ऽधारः । अ॒स॒द॒त् । नि । अ॒स्मे इति॑ । मा॒तुः । उ॒पऽस्थे॑ । वने॑ । आ । च॒ । सोमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pro* ← *pra*
 - \[adverb\]
@@ -133,41 +133,41 @@ genre M
 प्र ऊ इति निपातद्वयसमुदाय एको निपातितः । **प्रो** **अस्यान्** प्रस्यन्दते **स्यः** सः **वह्निः** वोढा **पथ्याभिः** यज्ञमार्गैः । **दिवो** **न** **वृष्टिः** दिवः सकाशात् वृष्टिरिव **पवमानः** पूयमानः सन् **अक्षाः** व्याप्नोषि । सोऽयं **सोमः** **सहस्रधारः** बहुधारः सन् **अस्मे** अस्मासु **नि** **असदत्** निषीदति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This horse of burden moves forth by the (sacrificial) paths; when purified you flow like the rain from heaven; the thousand-streamed **Soma** sits down among us on his mother's lap in the water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This draft-horse has streamed forth along the paths. Like the rain from  heaven, the self-purifying one has flowed.  
 Having a thousand streams, he has taken his seat by us, in the lap of his  mother, and in the wood: Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The explicitly conjoined loc. phrase mātúr upásthe vána ā́ca “in the lap of the mother and in the wood” is a bit puzzling; the ca implies that the two terms belong to a natural or reasonably comprehensible constructed class. Geldner (n. 1d) suggests that “mother” refers to the earth, that is, (he further specifies) the surface of the ground or the Vedi, while “wood” refers to the wooden cup. The latter is quite likely, but I prefer Geldner’s 2nd suggestion for the former - that “mother” here refers to Aditi. The phrase upásthe áditeḥ is found 3x in IX (26.1, 71.5, 74.5) as well as 2x in X. Although the exact referent is not entirely clear (see JPB, Ādityas 238-41), it obviously refers to something on the ritual ground or to the ritual ground itself. Aditi is of course the archetypal mother, so “of the mother” is an easy substitute “of Aditi” in the phrase. The referent would be more specific that simply “of the earth,” which could cover a lot of ground, as it were. Alternatively, if the mother = earth, this could be a reference to the soma plant growing on the earth, but the ritual setting of the vs. seems too insistent to allow that - though see 2d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS Chariot-horse hath moved along the pathways, and Pavamana flowed like rain from heaven.  
      With us hath Soma with a thousand currents sunk in the wood, upon his Mother's bosom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Wagenfahrer ist auf seinen Wegen abgefahren; wie des Himmels Regen strömte der Pavamana. Tausendfach ablaufend hat sich Soma bei uns niedergelassen in der Mutter Schoß und im Holze.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon floss er her auf seinen Bahnen fahrend, und strömte flammend wie des Himmels Regen, In tausend Strömen liess er hier sich nieder im Schooss der Mutter, in dem Holze, Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вперед помчался этот возница по дорогам.  
 Павамана потек, словно дождь с неба.  

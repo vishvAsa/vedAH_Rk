@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् ऋ꣡षिः प꣡वमानः  
 पा꣡ञ्चजन्यः पुरो꣡हितः  
 त꣡म् ईमहे महागय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 तम् । ई॒म॒हे॒ । म॒हा॒ऽग॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 **पाञ्चजन्यः** । निषादपञ्चमाश्चत्वारो वर्णाः पञ्चजनाः। यद्वा । गन्धर्वाः पितरो देवा असुरा रक्षांसीत्येते पञ्चजनाः । अथवा देवमनुष्या गन्धर्वाप्सरसः सर्पाः पितर इति ब्राह्मणेऽभिहिताः पञ्चजनाः। ‘ गम्भीराञ्यः्  ' इत्यत्र ‘ बहिर्देवपञ्चजनेभ्य इति वक्तव्यम्' (का. ४. ३. ५८. १ ) इति वचनात् भवार्थे ञ्यप्रत्ययः । तेषां तत्तदभीष्टप्रदानेन स्वभूतः **ऋषिः** सर्वस्य द्रष्टा **पवमानः** तद्रूपोऽग्निः **पुरोहितः** कर्मार्थमृत्विग्भिः पुरो निहितः । **तं** पूर्वोक्तलक्षणं **महागयं** महद्भिर्देवादिभिरपि गीर्भिः गातव्यम् । महान्ति प्रभूतानि यज्ञगृहाणि वा यस्य स तथोक्तः । तं पवमानगुणविशिष्टमग्निम् **ईमहे** धनादीनि याचामहे ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 Five orders: four **varṇas** and the **niṣāda**; or, the **gandharvas**, **pitṛs**, gods, **asuras**, and **rākṣasas**; or, the gods, mankind, gandharvas, **apsarasas**, serpents and pitṛs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni—a seer, self-purifying, belonging to the five peoples, installed  in front—  
 him we beseech for a great household.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -112,23 +112,23 @@ The equation and poetic merging of these two ritual gods is found elsewhere, mos
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni is Pavamana, Sage, Chief Priest of all the Races Five:  
      To him whose wealth is great we pray.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der sich läuternde Soma ist Agni, der Rishi, der über die fünf Völker gesetzte Vormund. Ihn bitten wir um großen Hausstand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Sänger Agni flehn wir an, der flammt, der viele Güter hat, Der fünf Geschlechter Priester ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

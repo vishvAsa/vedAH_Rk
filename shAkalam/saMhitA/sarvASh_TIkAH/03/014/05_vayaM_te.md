@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ ते अद्य꣡ ररिमा꣡ हि꣡ का꣡मम्  
 उत्तान꣡हस्ता न꣡मसोपस꣡द्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡स्रेधता म꣡न्मना वि꣡प्रो अग्ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यजि॑ष्ठेन । मन॑सा । य॒क्षि॒ । दे॒वान् । अस्रे॑धता । मन्म॑ना । विप्रः॑ । अ॒ग्ने॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -121,7 +121,7 @@ genre M
 हे **अग्ने** **उत्तानहस्ताः** हविःस्वीकरणादुत्तानपाणयः **वयं** **कामं** कमनीयं पुरोडाशादिहविः **ते** तुभ्यम् **अद्य** इदानीमस्मिन् कर्मणि  **ररिम** दद्मः । **नमसा** नमस्कारेण **उपसद्य** प्रसन्नो भूत्वा **यजिष्ठेन** यष्टृतमेन यागेच्छावता **मनसा** अन्तःकरणेन **देवान्** **यक्षि** यजनीयान् देवान्  यज पूजय। किंच **विप्रः** मेधावी कर्माभिज्ञः त्वम् **अस्रेधता** अक्षीणेन प्रभूतेन **मन्मना** मन्तव्येन स्तोत्रेण देवान् पूजय' ॥ अद्य । ‘ सद्यः परुत्परार्यैषमः' इत्यादिना निपातितः । अन्तोदात्तश्च । ररिम । ‘रा दाने ' इत्यस्य वर्तमाने लिटि ‘ परस्मैपदानां णलतुः ' ( पा. सू. ३. ४. ८२ ) इत्यादिना मसो मादेशः ॥ क्रादिनियमादिडागमः । अतो लोप इटि च ' इत्याकारलोपः । हियोगादनिघातः । ‘ आगमा अनुदात्ताः' इतीटोऽनुदात्तत्वात् प्रत्ययस्वरः । उपसद्य। ' षद्लृ विशरणगत्यवसादनेषु'। अस्य क्त्वा । ‘ समासेऽनञ्पूर्वे क्त्वो ल्यप् ' इति ल्यप् । लित्स्वरः। यक्षि । ‘ यज देवपूजासंगतिकरणदानेषु'। लोटि ‘ बहुलं छन्दसि ' इति शपो लुक् । पत्वकत्वे । सिपो ह्यादेशाभावश्छान्दसः ॥ अस्रेधंता । स्रिधिः क्षयार्थः । तत्पुरुषे ' इति नञ्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre M
 Oblation: **kāmam** = oblation, puroḍāśādihavis, as that which is desirable to the gods, kamanīyam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since today we have given you your desire, having reverently approached  with hands outstretched,  
 sacrifice to the gods by means of your most sacrificially skillful mind,  being our inspired priest with faultless thought, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Approaching with raised hands and adoration, we have this day fulfilled for thee thy longing.  
      Worship the Gods with most devoted spirit, a Priest with no unfriendly thought, O Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We have given thee thy desire to-day, sitting down near thee adoringly with outstretched hands 1: sacrifice thou to the gods as a priest with thy mind most skilled in sacrifice, with unerring thoughts, O Agni!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben dir ja heute deinen Wunsch gewährt, indem wir mit ausgestreckten Händen unter Verneigung uns zu dir setzen. Mit opfertätigstem Sinn opfere den Göttern, mit nie fehlendem Nachdenken als der Beredte, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wir erfüllten heute dein Begehren, die Händ' ausstreckend, demuthsvoll verehrend. Mit bestem Sinn verehre du die Götter, mit holdem Geiste, Agni, du ein Priester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь сегодня мы исполнили твое желание,  
 Приблизившись с поклонением, с протянутыми руками.  

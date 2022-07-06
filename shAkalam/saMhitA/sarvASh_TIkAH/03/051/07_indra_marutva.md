@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र मरुत्व इह꣡ पाहि सो꣡मं  
 य꣡था शार्याते꣡ अ꣡पिबः सुत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ विवासन्ति कव꣡यः सुयज्ञाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तव॑ । प्रऽनी॑ती । तव॑ । शू॒र॒ । शर्म॑न् । आ । वि॒वा॒स॒न्ति॒ । क॒वयः॑ । सु॒ऽय॒ज्ञाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 हे मरुत्वः मरुद्भिस्तद्वन् हे **इन्द्र** त्वम् **इह** अस्मदीये यज्ञे आगत्य **सोमं** **पाहि** पिब । **यथा** त्वं पूर्वं **शार्याते** शर्यातेः पुत्रे तस्मिन् राजनि यज्ञं कुर्वाणे **सुतस्य** अभिषुतं सोमम् **अपिबः** तथा अत्रापि पिबेत्यर्थः । इन्द्रः शार्यातस्य यज्ञे सोमरसानपिबदित्येषोऽर्थः कौषीतके स्पष्टमुक्तः । तथा मन्त्रवर्णश्च -- आ स्मा रथं वृषपाणेषु तिष्ठसि शार्यातस्य प्रभृता येषु मन्दसे' (ऋ. सं. १. ५१. १२) इति । हे **शूर** इन्द्र **तव** संबन्धिनि **शर्मन्** शर्मणि निर्बाधस्थाने स्थिताः **सुयज्ञाः** सुष्ठुकृतयज्ञाः **कवयः** मेधाविनो यजमानाः **प्रणीती** तव हविषां प्रणयनेन प्रापणेन **आ** समन्तात् विवासन्ति त्वामेव परिचरन्ति । विवासतिः परिचरणकर्मा ॥ शार्याते । शर्यातेरयमित्यर्थे ‘ तस्येदं ' इत्यण्प्रत्ययः । अपिबः । यथायोगादनिघातः । अडागमस्वरः । प्रणीती । नयतेर्भावे  क्तिन् ।  तादौ च निति कृति° ' इति गतेः प्रकृतिस्वरत्वम्। ‘ सुपां सुलुक्° ' इति तृतीयाया: सवर्णदीर्घः । ‘ उपसर्गादसमासेऽपि' इति णत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,14 +133,14 @@ genre M
 Śarman = **sukha**-nimitte, for the sake of happiness; or, **yajña**-**gṛha**, the chamber of sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra along with the Maruts, drink the soma here, as you drank of  the pressed (soma) beside Śāryāta.  
 With your guidance, in your shelter, o champion, the wise poets of  
 good sacrifices seek their win.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains yet another implicit contrast between the aor. and pres. of √pā ‘drink’: pāhi … yáthā … ápibaḥ. See comm. ad III.35.10, 36.3, 40.1-2, and 47.3.
 
@@ -151,23 +151,23 @@ The verb ā́vivāsanti lacks an object here, though it usually is construed wit
 Given the usual rendering of kaví- elsewhere in the published translation, I would change the tr. here to ‘sage poets’ or just ‘poets’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here, Indra, drink thou Soma with the Maruts, as thou didst drink the juice beside Saryata.  
      Under thy guidance, in thy keeping, Hero, the singers serve, skilled in fair sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, Marutbegleiteter, trink hier den Soma, wie du bei Saryata vom Safte trankst! Unter deiner Führung, in deinem Schutze, du Held, laden die Weisen mit schönem Opfer ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier trinke Soma mit den Maruts, Indra, wie bei Çarjata du den Saft getrunken; In deiner Huld, o Held, in deinem Schutze erfreuen sich die opferreichen Weisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, сопровождаемый Марутами, пей здесь сому,  
 Как пил ты выжатого у Шарьяты.  

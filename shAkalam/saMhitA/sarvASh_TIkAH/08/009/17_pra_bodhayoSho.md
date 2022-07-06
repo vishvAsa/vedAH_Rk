@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ बोधयोषो अश्वि꣡ना  
 प्र꣡ देवि सूनृते महि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्र꣡ म꣡दाय श्र꣡वो बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । य॒ज्ञ॒ऽहो॒तः॒ । आ॒नु॒षक् । प्र । मदा॑य । श्रवः॑ । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -108,36 +108,36 @@ genre M
 हे **उषः** अश्विनौ देवौ **प्र** **बोधय** अस्मत्स्तोत्रस्य श्रवणार्थम् । हे **देवि** दानादिगुणयुक्ते हे **सूनृते** सुष्ठु नेत्रि हे **महि** महति इत्थंमहाभागा त्वमश्विनौ **प्र** बोधय । हे **यज्ञहोतः** यज्ञानां यष्टव्यानां देवानामाह्वातर्होतर्वा **आनुषक्** अनुषक्तं संततं यथा भवति तथाश्विनौ स्तुतिभिः **प्र** बोधय। तथा **मदाय** अश्विनोर्मदोत्पादनार्थं **बृहत्** महत् **श्रवः** श्रवणीयं सोमलक्षणमन्नमस्माभिः कल्पितम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Uṣas, truht-speaking mighty goddess, awake the **Aśvins**; invoker of the adorable (deities, arouse them)successively; the copious sacrificial food (is prepared) for their exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wake up the Aśvins, o Dawn—(wake them) up, o goddess, liberal  and great,  
 (wake them) up in due order, o Hotar of the sacrifice [=Agni]. (Wake)  up lofty fame for our exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Awake the Asvins, Goddess Dawn! Up Mighty Lady of sweet strains!  
      Rise, straightway, priest of sacrifice! High glory to the gladdening draught!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wecke, o Usas, die beiden Asvin, wecke sie, o Große, Edelmütige, wecke sie, du Priester des Opfers, pünktlich, wecke großen Ruhm zur Freude!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Uschas, weck die Ritter auf, o grosse Göttin, liebliche; Erweck, o Opferpriester, bald zu unsrer Wonne hohes Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пробуди, о Ушас, Ашвинов,  
 Про(буди), о благодатная великая богиня,  

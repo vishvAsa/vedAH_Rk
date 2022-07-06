@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ भोजा꣡ अ꣡ङ्गिरसो वि꣡रूपा  
 दिव꣡स् पुत्रा꣡सो अ꣡सुरस्य वीराः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सहस्रसावे꣡ प्र꣡ तिरन्त आ꣡युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि॒श्वामि॑त्राय । दद॑तः । म॒घानि॑ । स॒ह॒स्र॒ऽसा॒वे । प्र । ति॒र॒न्ते॒ । आयुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -109,7 +109,7 @@ genre M
 हे इन्द्र **इमे** यागं कुर्वाणाः **भोजाः** सौदासाः क्षत्रियास्तेषां याजकाः '“विरूपाः नानारूपाः मेधातिथिप्रभृतयः **अङ्गिरसः** च **दिवः** **असुरस्य** देवेभ्योऽपि बलवतो रुद्रस्य **पुत्रासः** पुत्राः **वीराः** बलवन्तो मरुतः ते सर्वे विश्वामित्राय मह्यं **सहस्रसावे** । सहस्रं सूयतेऽत्रेति सहस्रसावोऽश्वमेधः । तस्मिन्नश्वमेधे **मघानि** मंहनीयानि धनानि **ददतः** प्रयच्छन्तः सन्तः **आयुः** जीवनमन्नं वा **प्र** **तिरन्ते** प्रकर्षेण वर्धयन्ति ॥ दिवस्पुत्रास इति संहितायां ' षष्ठ्याः पतिपुत्र° ' इति विसर्जनीयस्य सत्वम् । ददतः । ‘ डुदाञ् दाने ' इत्यस्य शतरि रूपम् । ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । तिरन्ते । तरतेर्व्यत्ययेन शः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ genre M
 These sacrificers are the Bhojas: ime **bhojā** aṅgiraso **virūpā**: bhojā = **kṣatriya** descendants of **Sudās**, **sudāsaḥ** kṣatriya, yāgam kurvāṇaḥ, instrumental tuting the sacrifice at which the latter, **Medhātithi**, and the rest of the race of **aṅgiras** were their yājakas, or officiating priests; the expeller: **rudra**, his sons are the **maruts**; sacrifice of a thousand victims: sahasrasave = the **aśvamedha**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These benefactors, the Aṅgirases in different form, sons of heaven,  heroes of the Lord,  
 giving bounties to Viśvāmitra at the Pressing of a Thousand, lengthen  their own lifetime.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bounteous are these, Angirases, Virupas: the Asura's Heroes and the Sons of Heaven.  
      They, giving store of wealth to Visvamitra, prolong his life through countless Soma-pressings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Gastfreien sind die Angiras´ in anderer Gestalt, die Söhne des Himmels, des Asura Mannen. Weil sie dem Visvamitra reiche Gaben schenken bei dem Tausendopfer, bekommen sie ein langes Leben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die freigiebigen Angirasen und Virupa's, die Söhne des Himmels, des Asura Mannen [die Götter überhaupt, oder die Aditja's] dem Viçvamitra Schätze schenkend, mögen bei tausendfacher Somapressung sein Leben verlängern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти щедрые Ангирасы в измененном облике,  
 Сыновья неба, мужи Асуры,  

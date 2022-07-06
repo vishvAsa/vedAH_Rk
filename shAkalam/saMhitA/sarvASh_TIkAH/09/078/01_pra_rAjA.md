@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ रा꣡जा वा꣡चं जन꣡यन्न् असिष्यदद्  
 अपो꣡ व꣡सानो अभि꣡ गा꣡ इयक्षति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शुद्धो꣡ देवा꣡नाम् उ꣡प याति निष्कृत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 गृ॒भ्णाति॑ । रि॒प्रम् । अविः॑ । अ॒स्य॒ । तान्वा॑ । शु॒द्धः । दे॒वाना॑म् । उप॑ । या॒ति॒ । निः॒ऽकृ॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 **राजा** राजमानोऽयं सोमोऽभिषूयमाणः सन् **वाचं** शब्दं **जनयन्** उत्पादयन् **असिष्यदत्** प्रस्यन्दते । तथा **अपः** वसतीवरीः **वसानः** आच्छादयन् **गाः** स्तुतीः' **अभि** **इयक्षति** अभिगच्छति । इयक्षतिर्गतिकर्मसु पठितः । **अस्य** सोमस्य **रिप्रम्** अनुपादेयत्वेन पापरूपम् अभिषुतवल्लीशकलादिरूपम् **अविः** अविरोमनिर्मितं दशापवित्रं **तान्वा** स्वीयेन वस्त्रेण **गृभ्णाति** गृह्णाति शोधनसमये । पश्चात् **शुद्धः** **देवानां** निष्कृतं संस्कृतं स्थानम् **उप** **याति** उपगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,14 +141,14 @@ genre M
 The sheep: i.e., the filter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The king, begetting speech, has flowed forth; clothing himself in the  waters, he seeks to attain to the cows.  
 The sheep grasps his defilement, (the stems) attached to his body.  
 Cleansed, he travels to his rendezvous with the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the loc. bṛháddiveṣu in b as referring to the gods, who inhabit lofty heaven (so also Ober II.60; see also alternative in Geldner’s n. 1b). I take it as referring to the destined recipients of our pressed soma. The standard view is rather that it is a personal name and refers to the human pressers, to be construed with suvānā́saḥ (e.g., Klein DGRV I.241 “being pressed among the Bṛhaddiva’s”). But this PN is only certain in a single passage in the late RV, X.120.8-9, in the sg.; elsewhere, and esp. in the plural, the stem refers to gods or other heaven-located substances. Cf., e.g., II.2.9 amṛ́teṣu … bṛháddiveṣu. Mayr (Pers.Nam.) considers the PN possible here (“vielleicht”), but does not commit to it.
 
@@ -181,23 +181,23 @@ Although (a)codásaḥ (1a) and (mada-)cyútaḥ (2a) obviously belong to differ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 RAISING his voice the King hath flowed upon his way: invested with the waters he would win the kine.  
      The fleece retains his solid parts as though impure, and bright and cleansed he seeks the special place of Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Rede hervorbringend ist der König Soma hervorgeflossen, in Wasser sich hüllend strebt er den Kühen zu. Das Schaf nimmt sein Unreines, die an seinem Leibe haftenden Stacheln weg. Rein geht er in die Gesellschaft der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gesang erzeugend ist der König vorgeströmt; gehüllt in Wasser strebt er nach den Kühen hin; Die ausgespannte Wolle fasst, was unrein ist, und hell gereinigt geht er zu der Götter Ort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хлынул вперед царь, вызывая к жизни речь.  
 Рядясь в воды, он стремиться к коровам.  

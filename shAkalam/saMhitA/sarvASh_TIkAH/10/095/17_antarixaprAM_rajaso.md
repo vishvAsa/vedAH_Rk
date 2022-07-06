@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्तरिक्षप्रां꣡ र꣡जसो विमा꣡नीम्  
 उ꣡प शिक्षामि उर्व꣡शीं व꣡सिष्ठः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ वर्तस्व हृ꣡दयं तप्यते मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 उप॑ । त्वा॒ । रा॒तिः । सु॒ऽकृ॒तस्य॑ । तिष्ठा॑त् । नि । व॒र्त॒स्व॒ । हृद॑यम् । त॒प्य॒ते॒ । मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *antarikṣaprāṃ* ← *antarikṣa*
 - \[noun\], neuter
@@ -119,7 +119,7 @@ genre D
 **अन्तरिक्षप्रां** स्वतेजसान्तरिक्षस्य पूरयित्रीं तथा **रजसः** रञ्जकस्योदकस्य **विमानीं** निर्मात्रीम् **उर्वशीं** **वसिष्ठः** समानानां मध्येऽतिशयेन वासयिताहम् **उप** **शिक्षामि** वशं नयामि। **सुकृतस्य** शोभनकर्मणः **रातिः** दाता पुरूरवाः **त्वा** त्वाम् **उप** **तिष्ठात्** उपतिष्ठतु । **मे** **हृदयं** **तप्यते**। अतो **नि** **वर्तस्व** । एवं राजोवाच ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ genre D
 Vasiṣṭha: an epithet, pre-eminently the giver of dwellings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Purūravas:] “She who fills the midspace, who is the measurer of the  dusky realm, Urvaśī—I, the best (of men?), seek to bring her under  my sway.  
 Since the granting of a good deed will stand you in good stead, turn  back: my heart is scorched.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I, her best love, call Urvasi to meet me, her who fills air and measures out the region.  
      Let the gift brought by piety approach thee. Turn thou to me again: my heart is troubled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die die Lüfte erfüllende, den Raum durchmessende Urvasi locke ich her, ihr Liebster: Auf daß der Lohn der Guttat dir zuteil werde, kehre um, mein Herz verzehrt sich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Urvaçī, die die Luft erfüllt, und den Raum durchmisst, verehre ich, der trefflichste; dich möge erreichen, was die Frömmigkeit darbringt; o kehre wieder, mein Herz wird gequält.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

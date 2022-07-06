@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡म् मृजन्ति म꣡र्जियम्  
 उ꣡प द्रो꣡णेषु आय꣡वः  
 प्रचक्राण꣡म् मही꣡र् इ꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र॒ऽच॒क्रा॒णम् । म॒हीः । इषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
@@ -75,35 +75,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **आयवः** मनुष्या ऋत्विजः **एतं** सोमं **मर्ज्यं** मार्जनीयम् **उप** **मृजन्ति** । निष्पीडयन्तीत्यर्थः । कुत्र । **द्रोणेषु** द्रोणकलशेषु । कीदृशम् । **महीरिषः** महान्त्यन्नानि **प्रचक्राणं** कुर्वाणम् । प्रभूतरसस्राविणमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The priests express into the vessels this juice which is to be purified, the bestower of abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one worthy of grooming do the Āyus groom in the wooden cups, when he has produced great refreshments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men beautify him in the vats, him worthy to be beautified,  
      Him who brings forth abundant food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Putzwerten putzen die Ayu´s in den Holzgefäßen, der große Labsale hervorbringt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn läutern, den man läutern muss, der grossen Labetrunk verschafft, Die Männer in dem Somatrog.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого достойного начищения начищают  
 Аю в деревянных сосудах,  

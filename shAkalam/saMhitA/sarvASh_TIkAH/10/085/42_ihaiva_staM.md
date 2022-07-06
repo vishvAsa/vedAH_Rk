@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इहइ꣡व꣡ स्तम् मा꣡ वि꣡ यौष्टं  
 वि꣡श्वम् आ꣡युर् वि꣡ अश्नुतम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मो꣡दमानौ सुवे꣡ गृहे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 क्रीळ॑न्तौ । पु॒त्रैः । नप्तृ॑ऽभिः । मोद॑मानौ । स्वे । गृ॒हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ihaiva* ← *iha*
 - \[adverb\]
@@ -109,40 +109,40 @@ popular;; epic anuṣṭubh (380)
 **इहैव** **स्तम्** इहैवास्मिँल्लोके स्तं भवतम् । **मा** **वियौष्टं** मा पृथग्भूतम् । विश्वमायुर्व्यश्नुतं प्राप्नुतम् । किंच **पुत्रैर्नप्तृभिः** पौत्रैः सह **स्वे** **गृहे** **मोदमानौ** भवतमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Abide here together; may you never be separated; live together all your lives, sporting with sons andgrandsons, happy in your own home.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stay just here, (you two); don’t go apart. Attain your entire lifespan, playing with your sons and grandsons, rejoicing in your own house.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be ye not parted; dwell ye here reach the full time of human life.  
      With sons and grandsons sport and play, rejoicing in your own abode.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Abide ye here; be not disjoined; Complete life's full allotted span, Frolicking with sons and grandsons, Rejoicing in your own abode.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bleibet immer hier, trennet euch nicht, erreichet das volle Lebensalter, mit Söhnen und Enkeln spielend, im eigenen Hause fröhlich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier mögt ihr beide weilen, trennt euch nicht, erreicht die volle Lebensdauer, spielend mit Kindern und Enkeln, euch freuend im eigenen Hause.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так и оставайтесь здесь вы двое, не разлучайтесь!  
 Проживите весь срок жизни,  

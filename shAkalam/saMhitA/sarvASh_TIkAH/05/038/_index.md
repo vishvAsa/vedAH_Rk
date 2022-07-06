@@ -8,7 +8,7 @@ title = "+038"
 ‘उरोष्टे ' इति पञ्चर्चं षष्ठं सूक्तमत्रेरार्षमानुष्टुभमैन्द्रम् । ' उरोरानुष्टुभम्' इत्यनुक्रान्तम् । विनियोगो लैङ्गिकः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 38 (392)  
 Indra  
@@ -18,7 +18,7 @@ Geldner, the most authoritative twentieth-century translator of the R̥gveda, pr
 The hymn is in some ways a twin to the following one, sharing vocabulary  and thematics, but the second hymn provides only limited help in interpreting  this one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra For the general contents, see disc. in published introduction. Witzel Gotō interpr. it as plea to Indra for rain -- a purpose that I find very hard to discern and that results in farfetched interpr. of details.
 </details>

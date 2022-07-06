@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मिम्य꣡क्ष ये꣡षु रोदसी꣡ नु꣡ देवी꣡  
 सि꣡षक्ति पूषा꣡ अभिअर्धय꣡ज्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भू꣡मा रेजन्ते अ꣡ध्वनि प्र꣡विक्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 श्रु॒त्वा । हव॑म् । म॒रु॒तः॒ । यत् । ह॒ । या॒थ । भूम॑ । रे॒ज॒न्ते॒ । अध्व॑नि । प्रऽवि॑क्ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mimyakṣa* ← *myakṣ*
 - \[verb\], singular, Perfect indicative
@@ -115,20 +115,20 @@ genre M
 **येषु** मरुत्सु **रोदसी** रुद्रस्य पत्नी **देवी** द्योतमाना माध्यमिका वाक् **मिम्यक्ष** **नु** क्षिप्रं संगच्छते । तथा **अभ्यर्धयज्वा** स्तोतॄनभ्यर्धयन् समृद्धान् कुर्वन् यो यजति धनेन पूजयति तादृशः **पूषा** पोषको देवश्च **सिषक्ति** यान् मरुतः सेवते ।  ‘ अभ्यर्धयज्वाभ्यर्धयन्यजति ' (निरु. ६.६ ) इति यास्कः । हे **मरुतः** ते यूयं **हवम्** अस्मदीयमाह्वानं **श्रुत्वा** **यद्ध** यदा खलु **याथ** आगच्छथ तदानीम् **अध्वनि** मार्गे **प्रविक्ते** गमनार्थं पृथक्कृते सति तत्र विद्यमानानि **भूम** भूतजातानि **रेजन्ते** कम्पन्ते । तथा च मन्त्रान्तरं - प्र वेपयन्ति पर्वतान्वि विञ्चन्ति वनस्पतीन्' (ऋ. सं. १. ३९.५) इति ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With whom the divine Heaven and Earth are associated; whom **Pūṣan**, the rewarder (of his worshippers) with prosperity, honours; when, **Maruts**, having heard our invocation, you come hither, then on your several paths all beings tremble.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ones to whom the goddess Rodasī is joined, on whom Pūṣan attends,  sharing the sacrifice by halves.  
 O Maruts, when, on having heard our call, you make your drive, the  worlds tremble at your agitated course.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take b as an indep. cl., while I interpr. it as a dependent clause parallel to pāda a, likewise hanging off yéṣu. Either is grammatically possible, since the verb of b síṣakti is pāda-initial and could owe its accent to that position.
 
@@ -143,23 +143,23 @@ The point, I think, is that Pūṣan is almost always in partnership with other 
 Compared to later texts, the gerund is comparatively rare in the RV; the -tvā gerund is found only 21x. The configuration of pāda c shows that the gerund phrase (śrutvā́hávam marutaḥ) must constitute a separate syntactic unit here, since the subord. conj. yád occurs only after the whole phrase, and it is followed by 2ndposition part. (d)ha.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To whom the Goddess Rodasi clings closely, whom Pusan follows bringing ample bounty.  
      What time ye hear our call and come, O Maruts, upon your separate path all creatures tremble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An die sich jetzt die Göttin Rodasi angeschlossen hat - Pusan gesellt sich dazu als ihr Gegenverehrer. Wenn ihr Marut den Ruf erhöret und kommet, so zittern die Länder auf eurem auserwählten Wege.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei denen Rodasi, die Göttin, funkelt, und gern der holde Spender Puschan weilet; Wenn ihr, o Maruts, kommt auf unser Rufen, erbeben auf der schwanken Bahn die Welten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К которым приникла Родаси-богиня!  
 (За ней) следует Пушан, получающий особую жертву.  

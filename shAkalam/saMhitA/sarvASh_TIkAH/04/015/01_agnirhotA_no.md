@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् हो꣡ता नो अध्वरे꣡  
 वाजी꣡ स꣡न् प꣡रि णीयते  
 देवो꣡ देवे꣡षु यज्ञि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; repeated line
 दे॒वः । दे॒वेषु॑ । य॒ज्ञियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -89,7 +89,7 @@ genre M;; repeated line
 **होता** देवानामाह्वाता होमनिष्पादको वा **अग्निः** **नः** अस्मदीये **अध्वरे** यागे । वाजीत्येतत् लुप्तोपमाकम् । **वाजी** शीघ्रगामी वोढाश्व इव तथा देवेभ्यो हविर्वाहकः **सन्** **परि** **णीयते** परितः समन्तात् प्राप्यते । तथा ब्राह्मणं च भवति - ’वाजी सन्परि णीयत इति वाजिनमिव ह्येनं सन्तं परिणयन्ति ' ( ऐ. ब्रा. २.५ ) इति । कीदृशोऽग्निः । **देवेषु** द्योतमानेष्विन्द्रादिषु मध्ये **देवः** द्योतमानः **यज्ञियः** यज्ञार्हः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,39 +100,39 @@ genre M;; repeated line
 Is brought to our sacrifice: pariṇīyate = implies a formal ceremonial, the bringing of the fire taken from the household fire wherewith to light the sacrificial fire; **vāji** san = a horse, i.e., whom they load as a horse bringing a load; Agni is brought to become the bearer of the oblation, havir **vāhanaḥ** (**Aitareya** **Brāhmaṇa** 2.5)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the Hotar at our ceremony, while being a prizewinning (horse), is  led around,  
 the god devoted to the sacrifice among the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The usual concessive force of the nom. of the pres. part. to √as ‘be’ is absent here, as far as I can see. Geldner suggests that it is marking the phrase as a simile (Renou’s tr. suggests that he agrees). Since the vs. seems to concern the paryagnikaraṇa, the leading of the sacrificial animal around the fire, the sán may signal that Agni is acting in the guise of a horse, “being a horse.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI the Herald, like a horse, is led forth at our solemn rite,  
      God among Gods adorable.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, the Hotri, he who is a strong horse, is led around at our sacrifice, the god worshipful among the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der Hotri bei unserem Opfer, wird als Siegesroß herumgeführt, der Gott, der unter den Göttern der Opferwürdige ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Göttern hochgeehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, хотар на нашем обряде,  
 Обводится вокруг (алтаря), словно конь, приносящий награду,  

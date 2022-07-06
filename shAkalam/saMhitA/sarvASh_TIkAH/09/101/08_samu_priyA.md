@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् उ प्रिया꣡ अनूषत  
 गा꣡वो म꣡दाय घृ꣡ष्वयः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡वमानास इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सोमा॑सः । कृ॒ण्व॒ते॒ । प॒थः । पव॑मानासः । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -101,7 +101,7 @@ genre M;; repeated line
 **प्रियाः** प्रियतमाः **घृष्वयः** अत्यन्तं दीप्ताः। यद्वा । अहं प्रथमतः स्तौमि अहं पुरस्तात् स्तौमीति परस्परं स्पर्धमानाः । **गावः** स्तुतिलक्षणा वाचः सोमस्य मदार्थं **सम्** **अनूषत** संस्तुवन्ति । उः प्रसिद्धौ । यद्वा । गावो धेनवः सोमस्य मदाय शब्दायन्ते । ततः **पवमानासः** पूयमानाः **इन्दवः** दीप्ताः **सोमासः** सोमाः **पथः** मार्गान् **कृण्वते** क्षरणार्थं कुर्वन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,13 +112,13 @@ genre M;; repeated line
 Cows: or, voice of praise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Together the dear ones have cried out to him, the cows avid for  exhilaration.  
 The soma drinks make their own paths, the self-purifying drops.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -128,23 +128,23 @@ Again, quite straightforward and not particularly cohesive.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The dear cows lowed in joyful mood together to the gladdening drink.  
      The drops as they were purified, the Soma juices, made then paths.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es haben die lieben Kühe zusammen gebrüllt, auf den Rauschtrank ungeduldig. Die Somasäfte bereiten sich ihre Wege, wann sie geläutert werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm jauchzten jetzt die Stiere zu, die nach dem Rausche lüsternen, Die Soma's bahnen hell entflammt die Wege sich, die tropfenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приятные коровы приветствовали (его) вместе,  
 Предвкушая пьянящий напиток.  

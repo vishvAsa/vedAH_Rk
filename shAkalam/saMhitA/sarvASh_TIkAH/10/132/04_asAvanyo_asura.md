@@ -6,7 +6,7 @@ ChandaH = "विराड्रूपा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 असा꣡व् अन्यो꣡ असुर सूयत द्यउ꣡स्  
 तुवं꣡ वि꣡श्वेषां वरुणासि रा꣡जा  
@@ -14,7 +14,7 @@ ChandaH = "विराड्रूपा"
 नइ꣡ता꣡वता ए꣡नसा अन्तकध्रु꣡क्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 मू॒र्धा । रथ॑स्य । चा॒क॒न् । न । ए॒ताव॑ता । एन॑सा । अ॒न्त॒क॒ऽध्रुक् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asāv* ← *asau* ← *adas*
 - \[noun\], nominative, singular, masculine
@@ -112,7 +112,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **असुर** तमसः क्षेपक । यद्वा असवः प्राणाः । तान् ददाति मनुष्येभ्यः स्वोदयेन प्रयच्छतीत्यसुरः । ईदृश हे मित्र **द्यौः** द्युलोको देवनशीलादितिर्वा **अन्यः** ।  ‘ सुपां सुलुक्' इति द्वितीयायाः स्वादेशः । वरुणापेक्षया अन्यम् **असौ** अमुं नभसि दृश्यमानं त्वां **सूयत** असूत ॥ 'षूङ् प्राणिप्रसवे'। छान्दसोऽडभावः ॥ हे **वरुण** **त्वं** च **विश्वेषां** सर्वेषां प्राणिनां **राजा** **असि** ईश्वरो भवसि । तादृशयोर्युवयोः **रथस्य** **मूर्धा** शिरः **चाकन्** अस्मद्यज्ञं कामयते । यद्वा । रथस्य रंहणशीलस्य यज्ञस्य मूर्धा न मूर्धेव प्रधानः सोमश्चाकन् युवां कामयते ॥ ‘कन दीप्तिकान्तिगतिषु' । अस्माद्यङ्लुगन्ताच्छान्दसो लङ् ॥ यत एवमतः कारणात् **अन्तकध्रुकु** अन्तकस्य हननशीलस्य राक्षसादेर्यमस्यैव वा द्रोग्धा । 'द्रुह जिघांसायाम् ' ।  ‘ सत्सूद्विष इत्यादिना क्विप् । 'वा द्रुहमुहष्णुहष्णिहाम्' (पा. सू. ८. २. ३३ ) इति घत्वम् । भष्भावः । ईदृशः स यज्ञः **एतावता** **एनसा** इयत्परिमाणेनापि पापलेशेनापि **न** युज्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,14 +123,14 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 The Heaven gave birth: **anyaḥ** = anyam, other than Varuṇa; head of your chariot: or, thehead of the sacrifice, i.e., **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one, yonder Heaven, was consecrated (as king), but (the other,  namely) you, lord Varuṇa, are (now) king of all.  
 As head (of all), you take pleasure in the chariot [=war chariot? chariot  of the sacrifice?]. It is not by such a transgression that (a man) is  
 (called) “oath-breaker,”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That other, Asura! too was born of Heaven. thou art, O Varuna, the King of all men.  
      The chariot's Lord was well content, forbearing to anger Death by sin so great.  
@@ -138,17 +138,17 @@ That other, Asura! too was born of Heaven. thou art, O Varuna, the King of all m
      When the Steed bringeth down your grace and favour in bodies dear and worshipful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jener Andere, der Himmel, wurde geweiht, o Asura; du, Varuna, bist König über alle. Das Oberhaupt erfreut sich des Wagens, nicht ist Antakadruh eines derartigen Frevels schuldig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch jener andere, o höchster Gott [asura], wurde geboren vom Himmel; du, o Varuna, bist König über alle; das Haupt [der Herr] des Wagens war zufrieden, durch eine so grosse Sünde nicht den Tod gereizt zu haben (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот другой (бог), Небо, был рожден (на свет), о Асура;  
 Ты (же), о Варуна, – царь надо всеми (существами).  

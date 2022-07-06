@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्वानः꣡° प꣡रि सो꣡मः पवि꣡त्रे  
 स꣡र्गो न꣡ सृष्टो꣡ अदधावद् अ꣡र्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गा᳐꣡ गव्य꣡न्न् अभि꣡ शू꣡रो न꣡ स꣡त्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ति॒ग्मे इति॑ । शिशा॑नः । म॒हि॒षः । न । शृङ्गे॒ इति॑ । गाः । ग॒व्यन् । अ॒भि । शूरः॑ । न । सत्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -127,36 +127,36 @@ genre M
 **एष** **सुवानः** सूयमानः **अर्वा** अरणकुशलः **सोमः** **सर्गो** **न** **सृष्टः** विसृष्टोऽश्व इव **पवित्रे** **परि** **अदधावत्** परिधावति । किंच **तिग्मे** तीक्ष्णे **शृङ्गे** **शिशानः** तीक्ष्णीकुर्वन् **महिषो** **न** महान् महिषाख्यो मृग इव । तथान्यदृष्टान्तः। **गा** **गव्यन्** प्रभूता गा इच्छन् **शूरो** **न** शूर इव । एतौ महिषशूरौ यथा प्रतिबुद्धौ शीघ्रं धावतः तद्वत् **सत्वा** सदनशीलोऽयं गच्छतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When effused, this quick-flowing **Soma** hastens to the filter like a steed let loose; while alighting he moves like a buffalo sharpening his pointed horns, like a warrior on a foray for cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Soma being pressed, the steed like a surge sent surging, has run  around in the filter,  
 whetting his sharp horns like a buffalo, on a cow-hunt toward cows, like  a champion warrior.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Soma, pressed into the cleansing filter, hath run as 'twere a host let loose, the Courser;  
      Like a strong bull who whets his horns kpen-pointed, like a brave warrior in the fray for cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma schoß ausgepreßt in der Seihe herum, das Rennpferd wie ein losge-lassenes Rennen, wie ein Büffel seine spitzen Hörner wetzend, auf die Kühe los, nach Kühen verlangend, wie ein tapferer Krieger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon lief gepresst der Soma durch die Seihe, gleichwie entsandte Wagenschar, wie Renner, Gleich einem Büffel scharf die Hörner wetzend, um Kühe kampfend wie ein tapfrer Kriegsheld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот выжатый сома побежал кругами  
 По цедилке, скакун, подобный выпущенному порыву,  

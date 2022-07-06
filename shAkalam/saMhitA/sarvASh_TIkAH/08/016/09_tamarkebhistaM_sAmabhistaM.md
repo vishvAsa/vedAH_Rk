@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अर्के꣡भिस् तं꣡ सा꣡मभिस्  
 तं꣡ गायत्रइ꣡श् चर्षण꣡यः  
 इ꣡न्द्रं वर्धन्ति क्षित꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 इन्द्र॑म् । व॒र्ध॒न्ति॒ । क्षि॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -89,7 +89,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **चर्षणयः** द्रष्टारो मन्त्राणां **क्षितयः** मनुष्याः **तं** इन्द्रम् **अर्केभिः** अर्चनसाधनैर्यजूरूपैर्मन्त्रैः **वर्धन्ति** वर्धयन्ति । तथोद्गातारः **सामभिः** गानविशिष्टैर्मन्त्रैः **तं** वर्धयन्ति । तथा **गायत्रैः** गायत्र्यादिच्छन्दोयुक्तैः शस्त्ररूपैरप्रगीतैर्मन्त्रैः **तम्** एव **इन्द्रं** होतारो वर्धयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,29 +100,29 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 With pious precepts: tam arkebhis tam sāmabhis tam gāyatrais' carṣaṇayaḥ kṣitayaḥ: the last twoimply men; or, the first is an epithet of the second-- the seers or understanders of **Mantras**, or texts, such asthose of the **yajus**. (**arka**), of the sa)man, and metrical prayers not chanted (**gāyatra**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him with chants, him with melodies, him with songs  
 do the separate peoples, the settlements make strong: Indra—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The men, the people magnify that Indra with their Slina. songs,  
      With hymns and sacred eulogies
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, den Indra, stärken die Völker, die Länder mit Preisliedern, ihn mit Sangesweisen, ihn mit Sangesliedern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Alle Menschen, alle Völker preisen Indra mit Gesängen, Ihn mit Liedern, ihn mit Weisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его, Индру, усиливают народы  
 (И) поселения хвалами,  

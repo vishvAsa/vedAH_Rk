@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति ते दस्यवे वृक  
 रा꣡धो अदर्शि अ꣡ह्रयम्  
 दियउ꣡र् न꣡ प्रथिना꣡ श꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Vālakhilya;; repeated line
 द्यौः । न । प्र॒थि॒ना । शवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -83,30 +83,30 @@ genre M;; Vālakhilya;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your inexhaustible gift has appeared, O Dasyave **vṛka**, its fullness is in extent like the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your immoderate generosity has just been seen, Dasyave Vr̥ka—  
 Your capacious power is like heaven in its extent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Ehrengabe, Dasyave Vrika, derer man sich nicht zu schämen braucht, ist erschienen: Deine Macht ist an Ausdehnung gleich dem Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es hat sich gezeigt, o Dasjavevrika, dein reichliches Geschenk, wie der Himmel breitet sich dein Ruhm aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Показался, о Дасьяве Врика,  
 Твой дар, которого не придется стыдиться.  

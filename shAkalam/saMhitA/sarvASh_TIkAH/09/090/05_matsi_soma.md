@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡त्सि सोम व꣡रुणम् म꣡त्सि मित्र꣡म्  
 म꣡त्सी꣡न्द्रम् इन्दो पवमान वि꣡ष्णुम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡त्सि महा꣡म् इ꣡न्द्रम् इन्दो म꣡दाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मत्सि॑ । शर्धः॑ । मारु॑तम् । मत्सि॑ । दे॒वान् । मत्सि॑ । म॒हाम् । इन्द्र॑म् । इ॒न्दो॒ इति॑ । मदा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *matsi* ← *mad*
 - \[verb\], singular, Present imperative
@@ -131,36 +131,36 @@ genre M
 हे **पवमान** पूयमान **इन्दो** **सोम** त्वं वरुणादीन् **मत्सि** तर्पय तेषां **मदाय** । इन्द्रस्य प्राधान्यात् द्विरभिधानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, exhilarate **Varuṇa**, exhilarate **Mitra**; O Soma **Pavamāna**, exhilarate **Indra** and **Viṣṇu**, exhilarate the company of the **Maruts**, exhilarate the gods, exhilarate the mighty Indra, O **Indu**, for his exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Exhilarate Varuṇa, o Soma; exhilarate Mitra. Exhilarate Indra, o  self-purifying drop, and Viṣṇu.  
 Exhilarate the troop of Maruts; exhilarate the gods. Exhilarate great  Indra, o drop, for his exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, gladden Varuna and Mitra; cheer, Indu Pavamana! Indra, Visnu.  
      Cheer thou the Gods, the Company of Maruts: Indu, cheer mighty Indra to rejoicing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Berausche, o Soma, den Varuna, berausche Mitra, berausche Indra, o Saft, o Pavamana, den Vishnu; berausche das Marutheer, berausche die Götter, berausche den großen Indra, o Saft, zum Rausche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Berausch, o Soma, Varuna und Mitra, den Indra, Indu, rieselnder, den Vischnu, Berausch der Maruts Schar, berausch die Gotter, berausch zum Rausch den grossen Indra, Indu!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьяняй, о сома, Варуну, опьяняй Митру,  
 Опьяняй Индру, о сок Павамана, (и) Вишну!  

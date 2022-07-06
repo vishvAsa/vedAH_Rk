@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ वे꣡दा व꣡सुधितिम्  
 महाँ꣡ आरो꣡धनं दिवः꣡  
 स꣡ देवाँ꣡ ए꣡ह꣡ वक्षति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; repeated line
 सः । दे॒वान् । आ । इ॒ह । व॒क्ष॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -98,46 +98,46 @@ genre M;; repeated line
 **स** **हि** प्रसिद्ध एवाग्निः **वसुधितिं** यजमानाभीष्टफलरूपधनस्य दानं **वेद** वेत्ति । **महान्** प्रभूतोऽग्निः **दिवः** **आरोधनम्** आरोहणं देवानां स्थानं वेत्ति । **सः** अग्निः **इह** अस्मिन् यज्ञे **देवान्** इन्द्रादीन् **आ** **वक्षति** आवहतु ॥ वहेर्धातोः ‘ लिङर्थे लेट्' इति लेट् । तस्य तिप् ।  ‘ सिब्बहुलं लेटि' इति सिप् । 'लेटोऽडाटौ ' इत्यडागमश्च । **हो** ढः' इति ढत्वम् । ढत्वकत्वचत्वानि । तिङ्ङतिङः' इति निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mighty one knows how to bestow the (desired) wealth (upon the worshipper); he knows the ascents of heaven; may he bring the gods hither.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For he knows the depository of goods; the great one knows the means of  ascending to heaven.  
 He will convey the gods hither.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On prāvī́- see comm. ad I.34.4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Mighty, knows the gift of wealth, he knows the deep recess of heaven:  
      He shall bring hitherward the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He, the great one, knows indeed the place of wealth 1, the ascent to heaven; may he, (therefore,) conduct the gods hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er kennt den Schatzbehälter, der Große den Aufstieg zum Himmel. Er möge die Götter hierher fahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der grosse kennt der Güter Schatz, des Himmels inn'res Heiligthum; Drum fahre er die Götter her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это он знает вместилище добра,  
 Великий (знает) подъем на небо.  

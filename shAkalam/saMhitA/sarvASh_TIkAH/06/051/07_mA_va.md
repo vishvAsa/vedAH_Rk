@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ व ए꣡नो अन्य꣡कृतम् भुजेम  
 मा꣡ त꣡त् कर्म वसवो य꣡च् च꣡यध्वे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वयं꣡ रिपु꣡स् तनु꣡वं रीरिषीष्ट
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्व॑स्य । हि । क्षय॑थ । वि॒श्व॒ऽदे॒वाः॒ । स्व॒यम् । रि॒पुः । त॒न्व॑म् । रि॒रि॒षी॒ष्ट॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -145,43 +145,43 @@ genre M
 हे देवाः **वः** युष्माकं स्वभूता वयम् **अन्यकृतम्** अन्यैः शत्रुभिः कृतमुत्पादितम् **एनः** पापं **मा** **भुजेम** मा भुंक्ष्महि । हे **वसवः** वासयितारो देवाः **यत्** येन कृतेन पापेन **चयध्वे** अस्मान् बाधध्वे । चयतिर्हिंसाकर्मा । **तत्** च पापं **मा** **कर्म** मा कार्ष्म ॥ करोतेर्माङि लुङि ‘मन्त्रे घस' इति च्लेर्लुक् ॥ हे **विश्वदेवाः** सर्वे देवाः **विश्वस्य** सर्वस्य जगतो यूयं हि **क्षयथ** ईश्वरा भवथ । अतः कारणात् अस्मदीयः **रिपुः** शत्रुः **तन्वं** स्वशरीरं **स्वयम्** एव **रिरिषीष्ट** हिंस्यात् । यथैवं भवति तथा कुरुतेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us not suffer for the sin committed by another; let us not do that which, **Vasus**, you prohibit; you rule universal gods, over the universe; (so provide that) mine enemy may inflict injury on his own person n.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t let us pay for the offense done to you by another; don’t let us do  that which you avenge, o good ones,  
 for you rule over all, All Gods. Let the cheat harm his own body.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On apparently anomalous mā́… bhujema see comm. ad IV.3.13.
 
 Renou points out the rarity of the cmpd. viśvádeva- in the pl. referring to the All Gods (though to his X.125.1 should be added VII.35.11). At least in our passage the full voc. viśve devāḥ would produce a bad cadence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let us not suffer for the sin of others, nor do the deed which ye, O Vasus, punish.  
      Ye, Universal Gods! are all-controllers: may he do harm unto himself who hates Me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht möchten wir fremde Sünde wider euch büßen, nicht wollen wir das tun, was ihr heimsuchet, ihr Guten, denn ihr vermöget alles, ihr Allgötter. Der Schelm soll sich selbst Schaden antun.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst nicht uns büssen andrer Leute Frevel, lasst nicht uns thun, was ihr, o gute, hasset; Denn über alles herrscht ihr, Götter alle; es mag der Feind den eignen Leib verletzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не расплатимся мы за грех, содеянный против вас другими,  
 Да не совершим мы того, о Васу, что вы наказуете!  

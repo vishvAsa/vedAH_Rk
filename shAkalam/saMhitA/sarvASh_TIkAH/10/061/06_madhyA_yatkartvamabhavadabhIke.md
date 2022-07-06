@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मध्या꣡ य꣡त् क꣡र्त्वम् अ꣡भवद् अभी꣡के  
 का꣡मं कृण्वाने꣡ पित꣡रि युवत्या꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सा꣡नौ नि꣡षिक्तं सुकृत꣡स्य यो꣡नौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒ना॒नक् । रेतः॑ । ज॒ह॒तुः॒ । वि॒ऽयन्ता॑ । सानौ॑ । निऽसि॑क्तम् । सु॒ऽकृ॒तस्य॑ । योनौ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhyā*
 - \[adverb\]
@@ -143,36 +143,36 @@ genre M
 **कामं** यथेच्छं **कृण्वाने** कुर्वाणे **पितरि** प्रजापतौ **युवत्यां** दुहितर्युषसि दिवि वा । ‘ दिवमित्यन्ये ' इति हि ब्राह्मणं प्रदर्शितम् । **मध्या** तयोर्मध्येऽन्तरिक्षमध्ये वा **अभीके** समीपे **यत्** **कर्त्वं** कर्म **अभवत्** मिथुनीभावाख्यं तदानीं **मनानक्** अल्पं **रेतः** **जहतुः** त्यक्तवन्तौ । किं कुर्वाणाविति तत्राह। **वियन्तौ** परस्परमभिगच्छन्तौ । प्रजापतिना **सानौ** समुच्छ्रिते स्थाने **सुकृतस्य** यज्ञस्य **योनौ** **निषिक्तम्** आसीदित्यर्थः । ततो रुद्र उत्पन्न इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the deed was done in mid-heaven in the proximity of the father working his will, and thedaughter coming together, they let the seed fall slightly; it was poured upon the high plural ce of sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When what was to be done was at its middle, at the encounter when the  father was making love to the young girl—  
 as they were going apart, the two left behind a little semen sprinkled  down on the back and in the womb of the well-performed (sacrifice).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 म॒ध्या यत्कर्त्व॒मभ॑वद॒भीके॒ कामं॑ कृण्वा॒ने पि॒तरि॑ युव॒त्याम् ।  
 म॒ना॒नग्रेतो॑ जहतुर्वि॒यन्ता॒ सानौ॒ निषि॑क्तं सुकृ॒तस्य॒ योनौ॑ ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als man mitten in der Arbeit war bei der Liebesbegegnung, da der Vater bei der Jungfrau der Liebe pflegte, da ließen beide im Auseinandergehen ein wenig Samen zurück, der auf dem Rücken der Erde vergossen war, auf dem Platz des guten Werks.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was inzwischen zu thun war, als der Vater seine Lust an der jungen Tochter kühlte [das geschah]; sie beide liessen zusammentreffend eine kurze Zeit den Samen strömen, der sich auf die Fläche ergoss in dem Schooss des schönen Liebeswerkes (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

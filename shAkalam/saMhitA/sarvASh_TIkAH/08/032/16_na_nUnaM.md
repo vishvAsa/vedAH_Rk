@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ नून꣡म् ब्रह्म꣡णाम् ऋण꣡म्  
 प्राशूना꣡म् अस्ति सुन्वता꣡म्  
 न꣡ सो꣡मो अप्रता꣡ पपे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 न । सोमः॑ । अ॒प्र॒ता । प॒पे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **प्राशूनाम्** । ये सोमं प्राश्नुवन्ति ते प्राशवः । तेषां सोमं **सुन्वतां** **ब्रह्मणां** ब्राह्मणानाम् **ऋणं** देवर्णं **न** **नूनम्** अस्ति न खलु विद्यते । तथा च श्रूयते - ‘एष वा अनृणो यः पुत्री यज्वा ब्रह्मचारिवासी' ( तै. सं. ६. ३. १०. ५) इति । किंच **अप्रता** अविस्तीर्णधनेन **सोमः** **न** **पपे** न पीयते । प्रभूतधनेनैव सोमः पीयत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,12 +94,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Verily no debt is due: he who has a son, or is chaste, isfree from debt, i.e., to the gods and manes: eṣa vā anṛṇo yaḥ putrī yajvā brahmacārivāsī: TaittirīyaSaṃhitā 6.3.10.5; without the expendiure of boundless wealth: apratā = avistīrṇadhanena, by one who hasnot abundant wealth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There exists no debt to the formulators, nor to the puffed-up  pressers now: no soma has been drunk without a counter(gift).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On prāśū́- see Scarlatta (539-40) and vs. 2 above, as well as comm. ad VIII.31.6.
 
@@ -108,23 +108,23 @@ This verse is oddly couched as an impersonal. Geldner’s interpretation of it i
 On apratā́see Oldenberg
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No debt is due by Brahmans now, by active men who press the juice:  
      Well hath each Soma-draught been paid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht besteht jetzt eine Schuld der pünktlichen somapressenden Priester, nicht ward der Soma ohne Gegenleistung getrunken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht wirken falsch die Beter jetzt, noch auch die schnellen Kelterer, Nicht ist umsonst des Soma's Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нет сейчас долга у очень ловких  
 Брахманов, выжимающих (сому),  

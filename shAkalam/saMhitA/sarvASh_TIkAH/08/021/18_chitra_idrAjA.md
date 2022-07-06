@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चि꣡त्र इ꣡द् रा꣡जा राजका꣡ इ꣡द् अन्यके꣡  
 यके꣡ स꣡रस्वतीम् अ꣡नु  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 सह꣡स्रम् अयु꣡ता द꣡दत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प॒र्जन्यः॑ऽइव । त॒तन॑त् । हि । वृ॒ष्ट्या । स॒हस्र॑म् । अ॒युता॑ । दद॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *citra* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
@@ -113,20 +113,20 @@ genre M
 अनया चित्र एव प्रादादिति निश्चयमकार्षीत् । **सहस्रं** सहस्रसंख्याकं धनम् **अयुता** अयुतानि च धनानि च **ददत्** प्रयच्छन् **चित्र** **इत्** चित्रनामैव **राजा** । **अन्यके** **यके** । अल्प इत्यर्थे कः । अल्पा येऽन्ये **राजका** **इत्** राजान एव **सरस्वतीमनु** सरस्वत्यास्तीरे वर्तन्ते । तान् सर्वान् याचमानानयमेव चित्रो राजा **ततनत्** धनैस्तनोति । तनोतेर्लुङि चङि रूपम् । ‘चङ्यन्यतरस्याम्' इति स्वरः। तत्र दृष्टान्तः । **पर्जन्यइव**। यथा पर्जन्यः पृथिवीं वृष्ट्या तनोति प्रीणयति तथायं चित्रः सर्वान् धनैः प्रीणयतीत्यर्थः ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily the **Rājā** **Citra**, giving his thousands and tens of thousands, has overspread (with his bounty)those other petty princes, who rules along the **Sarasvatī**, as **Parjanya** (overspeads the earth) with rain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Citra is the only king; the other petty little ones who (live) along the  Sarasvatī are only kinglets—  
 for like Parjanya with rain, he will thunder [/stretch forth] as he gives a  thousand ten thousands.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The clustering of demotic ka-forms in dānastutis (see Jamison 2008, 2009) is nicely illustrated by rājakā́íd anyaké, yaké, with the suffix even attached to the relative pronoun.
 
@@ -137,23 +137,23 @@ Parjanya of course thunders, but he also stretches through the midspace with his
 Citra will likewise both make a big noise and extend his largesse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Citra is King, and only kinglings are the rest who dwell beside Sarasvati.  
      He, like Parjanya with his rain, hath spread himself with thousand, yea, with myriad gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur Citra ist König; Kleinkönige sind die anderen Kleinen, die an der Sarasvati wohnen. Denn wie Parjanya mit Regen, so hält er an, Tausend, Zehntausende zu verschenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Tschitra ist ein rechter König, geringe Könige die andern alle, die um die Sarasvati wohnen, denn wie eine donnernde Wetterwolke mit Regen, so gab er tausend Myriaden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только Читра царь, остальные же – царьки,  
 Которые живут вдоль Сарасвати.  

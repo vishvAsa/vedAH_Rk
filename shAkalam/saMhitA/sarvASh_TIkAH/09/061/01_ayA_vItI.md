@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ वीती꣡ प꣡रि स्रव  
 य꣡स् त इन्दो म꣡देषु आ꣡  
 अवा꣡हन् नवती꣡र् न꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒व॒ऽअह॑न् । न॒व॒तीः । नव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** सोम **अया** अनेन रसेन **वीती** वीत्या इन्द्रस्य भक्षणाय **परि** **स्रव** परिक्षर । कीदृशेन रसेनेत्यत आह । **ते** तव **यः** रसः **मदेषु** संग्रामेषु **नवतीर्नव** इति नवनवतिसंख्याकाश्च शत्रुपुरीः **अवाहन** जघान । अमुं सोमरसं पीत्वा मत्तः सन्निन्द्र उक्तलक्षणाः शत्रुपुरीर्जघानेति कृत्वा रसो जघानेत्युपचारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,12 +101,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Ayā vītī may also mean 'with that food'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Flow around in pursuit (of him) who amid your raptures, o drop, smashed down the nine and ninety—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation fails to render the demon. ayā́that opens the hymn; more literal would be “flow around in this pursuit (of him) …” Geldner (n. 1) considers ayā́a kind of attraction from
 
@@ -126,23 +126,23 @@ This tṛca shows some signs of unity. The 1st two vss. are a syntactic unit, wi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FLOW onward, Indu, with this food for him who in thy wild delight  
      Battered the nine-and-ninety down,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dieser Einladung kreise um für Indra, der in deinen Räuschen, o Saft, die neunundneunzig Burgen herabschmetterte,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ströme nun zum Trunk für den, o Indu, der in deinem Rausch Die neunundneunzig niederschlug,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря этому приглашению растекайся вокруг (для Индры),  
 Который в опьянениях тобой, о сок,  

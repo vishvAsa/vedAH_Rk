@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि प्रा꣡सिष्यदत् कविः꣡  
 सि꣡न्धोर् ऊर्मा꣡व् अ꣡धि श्रितः꣡  
 कार꣡म् बि꣡भ्रत् पुरुस्पृ꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 का॒रम् । बिभ्र॑त् । पु॒रु॒ऽस्पृह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **परि** **प्रासिष्यदत्** परिप्रस्यन्दते **कविः** मेधावी सोमः **सिन्धोरूर्मौ** तरङ्गे वस्तीवर्युदकरसे **अधि** **श्रितः** आश्रितः । **पुरुस्पृहं** बहुभिः स्पृहणीयं **कारं** शब्दं **बिभ्रत्** धारयन् परिस्यन्दत इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,34 +90,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The waves of the river are the vasatīvari waters; uttering a sound desired by many: alternative reading may be, 'bearing a hymn beloved by many'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The poet flowed around and forth, set upon the swell of the river,  
 bringing the decisive action for which many are eager.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ‘decisive act’ (kārá-) in question is presumably the purification itself. See Renou’s n. on the need to preserve this sense here, rather than giving in to Geldner’s convenient “Kampfpreis” (presumably vā́ja-), which Renou pronounces “un peu loin.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 REPOSING on the river's wave the Sage hath widely flowed around,  
      Bearing the hymn which many love.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Seher hat seinen Umlauf gemacht, auf die Woge des Stroms gestützt, den vielbegehrten Kampfpreis davontragend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Seher strömte rings hervor, sich stützend auf des Stromes Flut, Erhebend viel begehrten Sang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэт устремился кругами  
 Покоясь на волне реки  

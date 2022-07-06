@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प त्वाग्ने दिवे꣡-दिवे  
 दो꣡षावस्तर् धिया꣡ वय꣡म्  
 न꣡मो भ꣡रन्त ए꣡मसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नमः॑ । भर॑न्तः । आ । इ॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -90,46 +90,46 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** वयम् अनुष्ठातारः **दिवेदिवे** प्रतिदिनं दोषावस्तः रात्रावहनि च **धिया** बुद्ध्या **नमः** **भरन्तः** नमस्कारं संपादयन्तः **उप** समीपे **त्वा** **एमसि** त्वामागच्छामः । उपशब्दस्य निपातस्वरः (फि. सू. ८०)। त्वामौ द्वितीयायाः' ( पा. सू. ८. १. २३) इति युष्मच्छब्दस्यानुदात्तस्त्वादेशः । दोषाशब्दो रात्रिवाची । वस्तर् इति अहर्वाची । द्वन्द्वसमासे कार्तकौजपादित्वात् ( पा. सू. ६. २. ३७ ) आद्युदात्तः । ‘सावेकाचः० ' ( पा. सू. ६. १. १६८ ) इति धियो विभक्तिरुदात्ता । नम इति निपातः । भरन्त इत्यत्र शपः (पा. सू. ३. १. ६८ ) पित्वा वत् शतुर्लसार्वधातुकत्वाच्च अनुदात्तत्वे सति ( पा. सु. ६. १. १८६ ) धातुस्वरः शिष्यते । इमसि इत्यत्र ‘इदन्तो मसिः' (पा. सू. ७. १. ४६ ) इत्यादेशो निघातश्च ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We approach you, **Agni**, with reverential homage in our thoughts, daily, both morning and evening.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We approach you, o Agni, illuminator in the evening, every day with our  insight,  
 bringing homage—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee, dispeller of the night, O Agni, day by day with prayer  
    Bringing thee reverence, we come
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, we approach day by day, O (god) who shinest in the darkness 1; with our prayer, bringing adoration to thee
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 To thee, O Agni, day by day, O thou illuminer of gloom, With thought we, bearing homage, come:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, Agni, nahen wir Tag für Tag, du Dunkel-Erheller, mit Andacht, Huldigung darbringend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Agni, nahn wir Tag für Tag, o Nachterheller, mit Gebet Und bringen dir Verehrung dar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе, о Агни, изо дня в день,  
 О озаряющий тьму, мы приходим  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡राशं꣡सं वाजि꣡नं वाज꣡यन्न् इह꣡  
 क्षय꣡द्वीरम् पूष꣡णं सुम्नइ꣡र् ईमहे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 रथ॑म् । न । दुः॒ऽगात् । व॒स॒वः॒ । सु॒ऽदा॒नवः॒ । विश्व॑स्मात् । नः॒ । अंह॑सः । निः । पि॒प॒र्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *narāśaṃsaṃ* ← *narāśaṃsam* ← *narāśaṃsa*
 - \[noun\], accusative, singular, masculine
@@ -118,7 +118,7 @@ genre M;; repeated line
 **नराशंसं** नरैः शंसनीयं **वाजिनम्** अन्नवन्तमग्निं **वाजयन्** उपवाजयन् प्रज्वलयन् **इह** अस्मिन् काले स्तौमीति शेषः । तथा **क्षयद्वीरम्** अतिबलिनं यस्मिन् सर्वे वीराः क्षीयन्ते एवंरूपं **पूषणं** पोषकं देवं **सुम्नैः** सुखकरैः स्तोत्रैर्हेतुभूतैः **ईमहे** याचामहे अभीष्टं प्रार्थयामहे ॥ नराशंसम् । ' उभे वनस्पत्यादिषु' इति युगपदुभयपदप्रकृतिस्वरत्वम् । नरशब्दः ‘ऋदोरप्' इति अबन्त आद्युदात्तः। निपातनात् दीर्घः । शंसशब्दो घञन्त आद्युदात्तः । वाजयन् ।‘वज व्रज गतौ' । अस्मात् णिच् । क्षयद्वीरम् ।  ‘ क्षि क्षये '। लटः शतृ । शपि प्राप्ते व्यत्ययेन शः । तस्य छन्दस्युभयथा' इति आर्धधातुकत्वेन ङित्त्वाभावात् गुणायादेशौ । अदुपदेशात् लसार्वधातुकानुदात्तत्वे विकरणस्वरः । अतो गुणे इति पररूपत्वे ' एकादेश उदात्तेन ' इति एकादेश उदात्तः । क्षयन्तो वीरा यस्मिन् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,34 +129,34 @@ genre M;; repeated line
 Poṣakam devam = nourishing gods: **Agni** and **Pūṣan**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Inciting the prizewinner Narāśaṃsa here—with appeals for grace we beg  Pūṣan, who rules over heroes.  
 – Like a chariot from a hard place, o good ones of good gifts, rescue us  from all narrow straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The singular part. vājáyan in pāda a clashes with the 1st plural verb īmahe in b. With Geldner (/Witzel Gotō) we can supply a 1st singular verb (“bitte ich”) in the first pāda, but the discordance could be ascribed simply to the loose structure of this hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To mighty Narasamsa, strengthening his might, to Pusan, ruler over men, we pray with hymns.  
      Even as a chariot from a difficult ravine, bountiful Vasus, rescue us from all distress.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Narasama bitte ich jetzt, den Sieggewinner zum Sieg anspornend; den männerberauschenden Pusan bitten wir mit freundlichen Worten. - Wie einen Wagen aus unfahrbarem Wege, so helfet uns aus aller Not heraus, ihr freigebigen Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier treiben wir den starken Naraçansa an, und flehn zum Männerherrscher Puschan mit Gebet; Wie einen Wagen führet aus der Enge uns aus aller Noth, o gabenreiche, gute ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Нарашансе, приносящему награду (мы обращаемся) здесь, вдохновляя (его) к награде,  
 К Пушану, владеющему героями, мы обращаемся с просьбами о милости.  

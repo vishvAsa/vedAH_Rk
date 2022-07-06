@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ ते स꣡खा सखियं꣡ वष्टि एत꣡त्  
 स꣡लक्ष्मा य꣡द् वि꣡षुरूपा भ꣡वाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवो꣡ धर्ता꣡र उर्विया꣡ प꣡रि ख्यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 म॒हः । पु॒त्रासः॑ । असु॑रस्य । वी॒राः । दि॒वः । ध॒र्तारः॑ । उ॒र्वि॒या । परि॑ । ख्य॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -119,7 +119,7 @@ popular
 यम आत्मानं परोक्षीकृत्य यमीं प्रत्युवाच । हे यमि **ते** तव **सखा** गर्भवासलक्षणेन सखीभूतो यमः **एतत्** ईदृशं त्वयोक्तं स्त्रीपुरुषलक्षणं **सख्यं** **न** **वष्टि** न कामयते । **यत्** यस्मात् कारणात् यमी **सलक्ष्मा** समानयोनित्वलक्षणा **विषुरूपा** भगिनीत्वाद्विषमरूपा **भवाति** भवति । तस्मान्न वष्टीत्यर्थः । इदानीं 'तिरः पुरू चिदर्णवं जगन्वान्' इत्यस्य प्रतिवचनमुच्यते । **महः** महतः **असुरस्य** प्राणवतः प्रज्ञावतो वा प्रजापतेः **पुत्रासः** पुत्रभूताः **वीराः** । ‘वीरो वीरयत्यमित्रान् वेतेर्वा स्याद्गतिकर्मणो वीरयतेर्वा' (निरु. १. ७) इति निरुक्तम् । शत्रूणां विविधमीरयितारः **धर्तारः** धारयितारः **दिवः** द्युलोकस्य । प्रदर्शनमेतत् । द्युप्रभृतीनां लोकानामित्यर्थः । - - - ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,30 +130,30 @@ popular
 Yourfrieṇḍ..different from: your friend longs not for a frienship in which (etad yat) a kinswoman is treated as one ofdifferent family; the hero sons of the great asura: **mahas** putrāso asurasya: asurasya = prāṇavatahprajñāvato vā; enjoying vast renown: urviyā **pari** khyan = they can see from afar
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yama:] Your partner doesn’t want that partnership, in that she [=sexual  partner] will have the same “marks” [=family characteristics] (though)  dissimilar form [=gender].  
 The sons of the great one, the heroes of the Lord, the upholders of  
 heaven, look around widely.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy friend loves not the friendship which considers her who is near in kindred as stranger.  
      Sons of the mighty Asura, the Heroes, supporters of the heavens, see far around them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Solche Freundschaft will dein Freund nicht, daß Blutsverwandtes wie Fremdartiges werde. Die Söhne des großen Asura, seine Mannen, des Himmels Erhalter schauen weit und breit umher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Freund verlangt nach solcher Freundschaft nimmer, als wär die gleichentsprungne fremden Ursprungs, Des grossen Geistes Söhne, seine Mannen, des Himmels Träger können weithin schauen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твой друг не хочет такой дружбы,  
 Когда (женщина) с одинаковыми признаками становится чужой.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ सु꣡ त्ये꣡ पयोवृ꣡धा  
 माकी꣡ र꣡णस्य नप्ति꣡या  
 जनित्वना꣡य मामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 ज॒नि॒ऽत्व॒नाय॑ । म॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -78,7 +78,7 @@ genre M
 **उत** अपि च **सु** सुष्ठु **त्ये** ते सर्वत्र प्रसिद्धे **पयोवृधा** पयस उदकस्य वर्धयित्र्यौ **माकी** निर्मात्र्यौ भूतजातस्य **रणस्य** । स्तोतृनामैतत् । स्तोतुः **नप्त्या** नप्त्यौ न पातयित्र्यौ सर्वदानुग्रहशीले द्यावापृथिव्यौ **जनित्वनाय** पूर्वोक्तधनस्य जननाय प्रादुर्भवाय लाभाय **ममहे** स्तुतवानस्मि । द्यावापृथिव्योः प्रसन्नयोरेवेदं दानं लभ्यते नान्यदेति दानमाहात्म्यप्रशंसाधिगन्तव्या ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,33 +93,33 @@ Mākī = nirmātryau, makers, creators;
 Naptyā = anugrahaśīle, inclided to be favourable; raṇasya,of or to the stotā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And these two dear little ones of mine, the milk-strong daughters of joy, has he bounteously given to become my wives.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although Geldner declines to tr. mākī́, the interpretation of this word as a -kasuffixed form of the 1st ps. possessive pronoun, accepted by Oldenberg (see also Scarlatta 519), not only fits the context but would exemplify the tendency to use -ka-suffixed forms in slangy, low-register contexts such as dānastutis. For disc. see Jamison 2009, also 2008.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And these twain pouring streams of milk, creative, daughters of delight,  
      For wedlock sake I glorify.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und diese beiden milchreichen ........., die Töchter der Lust, hat er zur Ehe geschenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diese beiden milchreichen ausgedehnten [Welten?], die aus der Freude entsprossenen, verherrliche ich um der Nachkommenschaft willen (?)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также этих двух очень богатых молоком  
 Моих (?) дочерей наслаждения  

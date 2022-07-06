@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ प्र꣡ स्थात अ꣡हेव यज्ञं꣡  
 या꣡तेव प꣡त्मन् त्म꣡ना हिनोत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 अ॒भि । प्र । स्था॒त॒ । अह॑ऽइव । य॒ज्ञम् । याता॑ऽइव । पत्म॑न् । त्मना॑ । हि॒नो॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -81,20 +81,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 यज्ञस्तुतिरियम् । हे जनाः **यज्ञम्** **अभि** **प्र** **स्थात** अभिक्रमत । **अहेव** इति पूरणौ । अपि च **पत्मन्** पत्मनि यज्ञमार्गे **त्मना** स्वयमेव **यातेव** गन्तेव **हिनोत** गच्छत । ' हि गतौ' इति धातुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Proceed to the sacrifice like one who goes along the road; proceed of your own accord.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Set out on the sacrifice as if through the days.  
 Like a (chariot-)driver in flight, spur it on by yourself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 sá śardhad aryó víṣuṇasya jantóḥ, where the second phrase shows (or at least strongly suggests) that aryáḥ is gen. sg. On the phrase see Thieme (Fremdling 54-55).
 
@@ -116,22 +116,22 @@ The 2nd pl. impvs. in these two vss., 5a abhí prá sthāta, 5d hinota, 6b hinó
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Arouse you, like the days, to sacrifice speed gladly like a traveller on the way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tretet an zum Opfer wie die Tage! Wie der Fahrer im Galopp, so bringet es in eigner Person in raschen Gang!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wohlan, so kommt denn – herbei zum Opfer, im Fluge fahrend, – beeilt euch selber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подступите к жертве, словно дни!  
 Сами поторапливайте (ее), словно ездок в пути!

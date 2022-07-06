@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वैश्वानरा꣡य मीळ्हु꣡षे सजो꣡षाः  
 कथा꣡ दाशेम अग्न꣡ये बृह꣡द् भाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡प स्तभायद् उपमि꣡न् न꣡ रो꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अनू॑नेन । बृ॒ह॒ता । व॒क्षथे॑न । उप॑ । स्त॒भा॒य॒त् । उ॒प॒ऽमित् । न । रोधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaiśvānarāya* ← *vaiśvānara*
 - \[noun\], dative, singular, masculine
@@ -110,20 +110,20 @@ genre M
 **सजोषाः** सजोषसः समानप्रीतियुक्ता वयमृत्विग्यजमानाः **वैश्वानराय** विश्वनरसंबन्धिने एतन्नामकाय **मीळ्हुषे** अभिमतवृष्ट्यादिसेक्त्रे **बृहत्** बृहते महते **भाः** भासमानाय **अग्नये** देवाय **कथा** कथं केन प्रकारेण दाशेम दद्याम । सामर्थ्यात् हविरिति गम्यते । अथवा बृहद्भा इत्युत्तरत्र योज्यम् । कथा दाशेमेत्युक्तम् । किं तत्र आधिक्यमिति तदुच्यते । योऽग्निर्बृहन्महान् भा भासमानश्च सन् **अनूनेन** अविकलेन संपूर्णेन अत एव **बृहता** प्रभूतेन **वक्षथेन** वोढव्येन स्वशरीरेण **उप** **स्तभायत्** उप स्तभ्नाति । सामर्थ्यात् द्यामिति शेषः । द्युलोकं व्याप्नोतीत्यर्थः। तत्र दृष्टान्तः। **उपमिन्न** **रोधः** । उप समीपे मीयते क्षिप्यते इत्युपमित् स्थूणा । सा यथा तृणाच्छादनादिनिरोधकं वंशादिकमुपस्तभ्नाति तद्वत् । यद्वा । वक्षथेनोक्थलक्षणेन फलादिवाहकेन स्तोत्रेण सह द्युलोकमुपस्तभायत् ॥ स्तभायत् । स्तम्भुः सौत्रो धातुः । लङि ‘ छन्दसि शायजपि ' इति व्यत्ययेन अहावपि शायजादेशः । ‘ बहुलं छन्दसि ' इत्यडभावः ॥ किमिव । उपमिन्न रोधः । उप समीपे मीयते इत्युपमिदुदकम् । कूलमिव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “How may we present rejoicing (fit offering) to **Agni** the showerer (of benefits); to **Vaiśvānara**, he, who, bright with great lustre, sustains the heaven, with his entire vast and insupportable (bulk), as a pillar (sustains a roof).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How might we, in concert, do service to Vaiśvānara, to Agni who gives  rewards; how might we serve his lofty light?  
 With his unfailing lofty growth he propped (heaven) like a post a bulwark.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that the first word of the hymn is vaiśvānará-.
 
@@ -134,28 +134,28 @@ First, why would we need to confer light on Agni -- does he not already have it?
 The usual obj. of √stambh is dyā́m ‘heaven’, which is the obj. expected (and supplied) in the frame. The obj. in the simile, ródhas- ‘bulwark’, may have been chosen because it is phonologically reminiscent of ródasī ‘two world-halves’, another way to refer to the cosmic masses. This word serves as obj. to √stambh a number of times with the preverb ví (‘prop apart’), e.g. VI.8.3 (another Vaiśvānara hymn) with Agni as subj.: vy àstabhnād ródasī.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How shall we give with one accord oblation to Agni, to Vaisvanara the Bounteous?  
      Great light, with full high growth hath he uplifted, and, as a pillar bears the roof, sustains it.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 How may we unanimously offer mighty light 1 to bountiful Agni Vaisvânara? With his mighty perfect growth he supports the high bank 2 like a pillar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie könnten wir einmütig dem Agni Vaisvanara, dem Belohnenden, hohen Glanz verleihen? In vollkommenem, hohem Wachstum stützt er den Himmel wie der Pfeiler den Deich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie mögen wir vereint dem Männerhorte das grosse Licht dem gnäd'gen Agni weihen? Mit seiner hohen ausgewachsnen Grösse nun trag' er's wie den Ueberhang der Pfeiler [d. h. das Licht durch das Agni entzündet ist, dass soll er nun, wenn er zu seiner vollen Grösse erwachsen ist, zum Himmel emportragen].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вайшванаре щедрому, Агни, как сможем мы,  
 Единодушные, поклониться? Обладающий высоким блеском  

@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नो देवा꣡व् अश्वि꣡ना शुभ꣡स् प꣡ती  
 धा꣡मभिर् मित्रा꣡व꣡रुणा उरुष्यताम्  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 अ꣡ति ध꣡न्वेव दुरिता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 म॒हः । सः । रा॒यः । आ । ई॒ष॒ते॒ । अति॑ । धन्व॑ऽइव । दुः॒ऽइ॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -114,36 +114,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **उत** अपि च **शुभस्पती** शुभस्योदकस्य पती **अश्विना** अश्विनौ **देवौ** **नः** अस्मान् **धामभिः** आत्मीयैः शरीरैः **उरुष्यतां** रक्षताम् । किंच **मित्रावरुणौ** आत्मीयैः शरीरैरुरुष्यतां रक्षताम् । यं यजमानं पुरुषममी देवा रक्षन्ति **सः** **महः** महान्ति **रायः** धनानि **एषते** आभिमुख्येन गच्छति प्राप्नोति । किंच **दुरिता** दुरितानि शीघ्रम् **अति** अतिगन्तातिक्रान्ता च भवति । तत्र दृष्टान्तः । **धन्वेव** । यथा पथिको निरुदकान् देशानतिक्रामति तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And may the divine **Aśvins**, the lords of pure (water), and **Mitra** and **Varuṇa** protect us with theirbodies; he (whom they protect) acquires ample riches, (and passes) through misfortunes as (a traveller through)a desert.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And for us let the two gods, the Aśvins, lords of beauty, let Mitra and  Varuṇa make broad space through their domains.  
 He hastens toward great riches, across difficulties as if across wastelands.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And let the Asvins, Lords of splendour, set us free,- both Gods, and, with their Laws, Mitra and Varuna.  
      Through woes, as over desert lands, he speeds to ample opulence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und die beiden Götter Asvin, die Herren der Schönheit, Mitra und Varuna sollen in Person uns schützen. Zu großen Reichtümern kommt er, an den Fährlichkeiten vorüber wie der Reisende an den wüsten Strecken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und die beiden Götter, die Açvinen, die Herrn des Glanzes und Mitra und Varuna mit ihren Scharen mögen uns hülfreich sein; zu grossem Reichthum dringt der [, dem sie helfen,] hin und durch Gefahren wie durch wüste Lande.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

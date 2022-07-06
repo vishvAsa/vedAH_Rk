@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पा꣡मीवाम् अ꣡प वि꣡श्वाम् अ꣡नाहुतिम्  
 अ꣡पा꣡रातिं दुर्विद꣡त्राम् अघायतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उरु꣡ णः श꣡र्म यछता सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒रे । दे॒वाः॒ । द्वेषः॑ । अ॒स्मत् । यु॒यो॒त॒न॒ । उ॒रु । नः॒ । शर्म॑ । य॒च्छ॒त॒ । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apāmīvām* ← *apa*
 - \[adverb\]
@@ -117,36 +117,36 @@ genre M
 हे **देवाः** **अमीवां** रोगादिकं यद्वा रोगवद्बाधकं शत्रुमस्मत्तो दूरे **अप** कुरुत पृथक्कुरुत । तथा **विश्वां** सर्वाम् **अनाहुतिं** देवानामनाह्वानबुद्धिं यद्वा देवानां महाशत्रुं पृथक्कुरुत । किंच   **अरातिम्** अदानं लोभबुद्धिं यद्वा देवेभ्यो हविषामदातारं शत्रुम् **अप** गमयत । अपि च **अघायतः** पापमिच्छतः शत्रोः **दुर्विदत्रां** दुर्ज्ञानं दुष्टां बुद्धिम् इत्थं च **द्वेषः** द्वेष्टॄन् सर्वाञ्छत्रून् **अस्मत्** अस्मत्तः **आरे** दूरे **युयोतन** पृथक्कुरुत । एवं सति यूयं **नः** अस्मभ्यम् **उरु** विस्तीर्णं **शर्म** सुखं **स्वस्तये** कल्याणाय प्रयच्छत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Remove far) from us disease, remove all neglect of oblations, remove illiberality, the malevolence ofthose who wish to do us harm; remove far from us, gods, those who hate us; grant us ample happiness for ourwell-being.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Away with disease, away with all lack of oblation, away with the ill-met  hostility of the malicious.  
 Gods, keep hatred at a distance from us. Extend broad shelter to us— for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Keep all disease afar and sordid sacrifice, keep off the wicked man's malicious enmity.  
      Keep far away from us all hatred, O ye Gods, and give us ample shelter for our happiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Haltet Krankheit ab, allen Mangel an Opfern ab, die unzugängliche Mißgunst des Übelwollenden ab; Götter, haltet fern von uns die Feindschaft! Gewähret uns breiten Schirm zum Heile!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verjagt die Krankheit, jede Opferlässigkeit, verjagt des Bösen frevelhafte Uebelthat, O Götter, jaget weit von uns hinweg den Hass und breitet euer Schirmdach über uns zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

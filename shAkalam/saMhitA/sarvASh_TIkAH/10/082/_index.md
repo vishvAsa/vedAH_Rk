@@ -8,7 +8,7 @@ title = "+082"
 ‘ चक्षुषः' इति सप्तर्चं चतुर्दशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘चक्षुषः' इत्यनुक्रान्तम् । गतः सूक्तविनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 82 (908)  
 Visvakarman ́  

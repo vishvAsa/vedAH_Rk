@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सम्रा꣡जं चर्षणीना꣡म्  
 इ꣡न्द्रं स्तोता न꣡व्यं गीर्भिः꣡  
 न꣡रं नृषा꣡हम् मं꣡हिष्ठम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 नर॑म् । नृ॒ऽसह॑म् । मंहि॑ष्ठम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -80,36 +80,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **चर्षणीनां** मनुष्याणां मध्ये **सम्राजं** सम्यग्राजमानं यद्वा मनुष्याणामधीश्वरम् **इन्द्रं** हे स्तोतारः **प्र** **स्तोत** प्रकर्षेण स्तुत । कीदृशम् । **गीर्भिः** स्तुतिभिः **नव्यं** स्तुत्यं **नरं** नेतारं **नृषाहं** नृणां शत्रुमनुष्याणामभिभवितारं **मंहिष्ठं** दातृतमम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorify with hymns the adorable **Indra**, the supreme king of men, the leader (of rites), the overcomer ofenemies, the most munificent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Start up the praise anew with songs to the sovereign king of the separate  peoples, Indra,  
 the man who overpowers men, the most munificent,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PRAISE Indra whom our songs must laud, sole Sovran of mankind, the Chief  
      Most liberal who controlleth men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lobsinget dem Allkönig der Völker, dem Indra aufs neue mit Lobliedern, dem männerbezwingenden, freigebigsten Herrn!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Preist den preisenswerthen Indra, der die Welt beherrscht, mit Liedern, Ihn, den reichsten Mann, den Sieger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прославьте снова вседержителя народов  
 Индру хвалебными песнями,  

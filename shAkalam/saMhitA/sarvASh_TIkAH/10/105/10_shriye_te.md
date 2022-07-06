@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रिये꣡ ते पृ꣡श्निर् उपसे꣡चनी भूच्  
 छ्रिये꣡ द꣡र्विर् अरेपाः꣡  
 य꣡या सुवे꣡ पा꣡तरे सिञ्च꣡से उ꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 यया॑ । स्वे । पात्रे॑ । सि॒ञ्चसे॑ । उत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
@@ -99,35 +99,35 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे इन्द्र' **ते** तव संबन्धिनः सोमस्थ **श्रिये** श्रयणाय **पृश्निः** गौः पृश्निवर्णा उपसेचनी पयसो दोग्रीन् **भूत** भवतु । तथा **दर्विः**  अपि **अरेपाः** अपापा सती ते **श्रिये** हविषः श्रयणाय **भूत्** भवतु । **यया** दर्व्या **स्वे** स्वकीये पात्रे पानसाधने मुखे **उत्** सिञ्चसे उपर्याकृष्य पिबसि सा श्रियेऽभूदिति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the spotted cow yield milk for mixing with your (**Soma**), may the ladle for the mixture wherewithyou pour it into your own vessel be free from defect.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For splendor is your dappled pourer, for splendor your spotless ladle, with which you pour up into your own vessel.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy glory was the speckled cup, thy glory was the flawless scoop.  
      Wherewith thou pourest into thy receptacle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir zu Ehren ist die bunte Kuh, die zugießt, dir zu Ehren der makellose Opferlöffel, mit dem du in deinen eigenen Trinkbecher ausschenkst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Freude war dir die bunte Zuguss-Kelle, zur Freude der fleckenlose Löffel, mit dem du dir [den Trank] in dein eignes Trinkgefäss eingiessest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для блеска тебе пусть будет пестрая (корова), доливающая (молоко в жертву),  
 Для блеска беспорочная деревянная ложка,  

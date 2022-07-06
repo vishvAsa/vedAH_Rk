@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सुते꣡ सिञ्चत श्रि꣡यं  
 रो꣡दसीयोर् अभिश्रि꣡यम्  
 रसा꣡ दधीत वृषभ꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 र॒सा । द॒धी॒त॒ । वृ॒ष॒भम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सुते** दुग्धे गोपयसि **श्रियं** श्रयणमाजं पयः **आ** **सिञ्चत** । सिञ्चत हे अध्वर्यवः । कीदृशमाजम् । **रोदस्योः** । कर्मणि षष्ठ्येषा । द्यावापृथिव्यौ **अभिश्रियम्** अभिश्रयन्तम् । अग्निसंयोगात्तावत्पर्यन्तं प्रवृद्धमित्यर्थः । अथवा  ‘ तत्कावश्विनौ द्यावापृथिव्यावित्येके' (निरु. १२. १) इति निरुक्तत्वादश्विनोरभिश्रियमित्यर्थः । सेचनानन्तरं **रसा** रस आजे पयसि **वृषभं** वर्षकमग्निं **दधीत** स्थापयत । अजाया आग्नेयीत्वात् क्षीरस्याप्यग्निसंयोजनमुचितम् ।  ‘ आग्नेयी वा एषा यदजा ' (तै. ब्रा. ३. ७. ३. १) इति ब्राह्मणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,29 +90,29 @@ Admixture: goat's milk which is poured into the cow's milk in the **gharma**; he
 **Rasa** = rase, liquor is the goat's milk. The goat isdedicated to Agni, hence the contact of its milk with fire is proper
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Into the pressed soma pour glory [=milk], the full glory of the two  world-halves.  
 The Rasā (River [=water]) should receive the bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour on the juice the ornament which reaches both the heaven and earth  
      Supply the liquid to the Bull.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gießet die Herrlichkeit in den ausgepreßten Saft, die beiden Welten überstrahlt! Den Bullen soll die Rasa annehmen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Soma giesst die warme Milch, die Erd' und Himmel schön versüsst, Die Flut, sie nehme auf den Stier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наливайте в выжатый сок красоту (добавлений),  
 Украшение двух половин мироздания!  

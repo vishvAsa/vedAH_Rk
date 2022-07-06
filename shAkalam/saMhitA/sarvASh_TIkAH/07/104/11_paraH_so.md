@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परः꣡ सो꣡ अस्तु तनु꣡वा त꣡ना च  
 तिस्रः꣡ पृथिवी꣡र् अधो꣡ अस्तु वि꣡श्वाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ नो दि꣡वा दि꣡प्सति य꣡श् च न꣡क्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्रति॑ । शु॒ष्य॒तु॒ । यशः॑ । अ॒स्य॒ । दे॒वाः॒ । यः । नः॒ । दिवा॑ । दिप्स॑ति । यः । च॒ । नक्त॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *paraḥ* ← *paras*
 - \[adverb\]
@@ -138,7 +138,7 @@ popular
 **सः** राक्षसः **तन्वा** **तना** **च** । व्यत्ययेन तृतीया । तन्वाः शरीरस्य तनयस्य च **परः** परस्तात् **अस्तु** वर्तमानो भवतु । उभाभ्यां वियुक्तो भवत्वित्यर्थः । **विश्वाः** व्याप्ताः **तिस्रः** **पृथिवीः** त्रीँल्लोकान् **अधो** ”अस्तु अधस्ताद्भवतु । लोकत्रयादपि प्रच्युतो भवत्वित्यर्थः । हे **देवाः** **अस्य** शत्रोः **यशः** अन्नं कीर्तिर्वा **प्रति** **शुष्यतु** । **यः** राक्षसः **नः** अस्मान् **दिवा** अहनि **दिप्सति** जिघांसति **यश्च** **नक्तं** रात्रौ जिघांसति अस्योभयविधस्य यशः प्रति शुष्यत्विति संबन्धः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,34 +149,34 @@ popular
 May he be deprived:or, may he exist after his body and progeny, i.e. continue severed from them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him be far in the distance, along with his life and lineage; let him be  beneath all three earths.  
 Let his glory dry up, o gods—whoever wishes to cheat us by day and  whoever by night.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See disc. in published introduction. and ad vs. 7 on the use of práti to define this section of the hymn and call attention to the victim. As noted ad vs. 7, práti √śuṣ is found only here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he be swept away, himself and children: may all the three earths press him down beneath them.  
      May his fair glory, O ye Gods, be blighted, who in the day or night would fain destroy us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der soll um Leib und Kinder kommen; er soll unter alle drei Erdräume versinken. Sein Ansehen soll verdorren, ihr Götter, wer uns am Tag und wer uns bei Nacht zu schädigen sucht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verkümmern mög' er an sich selbst, an Kindern, tief lieg' er unter den drei Erden allen; Verschrumpfen möge dessen Macht, o Götter, der uns bei Tag, bei Nacht zu schaden trachtet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да исчезнет он сам вместе с потомством!  
 Да провалится он сквозь все три земли!  

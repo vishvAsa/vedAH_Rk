@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युजानो꣡ हरि꣡ता र꣡थे  
 भू꣡रि त्व꣡ष्टेह꣡ राजति  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 उता꣡सीनेषु सूरि꣡षु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 कः । वि॒श्वाहा॑ । द्वि॒ष॒तः । पक्षः॑ । आ॒स॒ते॒ । उ॒त । आसी॑नेषु । सू॒रिषु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yujāno* ← *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
@@ -107,7 +107,7 @@ genre M
 **हरिता** हरितावश्वौ **रथे** **युजानः** युञ्जन् **त्वष्टा** दीप्त इन्द्रः **इह** त्रैलोक्ये **भूरि** भूरिषु बहुषु प्रदेशेषु **राजति** दीप्यते । **उत** अपि च **सूरिषु** स्तोतृष्वस्मादृशेषु **आसीनेषु** सत्सु **विश्वाहा** सर्वदा इन्द्रादन्यः **कः** नाम द्विषतः शत्रोः **पक्षः** पाचको बाधकः सन् **आसते** आस्ते । इन्द्र एव सर्वदा शत्रून् बाधत इत्यर्थः । यद्वा । पक्ष इति सकारान्तं समीपवचनम् । इन्द्रादन्यः को नाम द्विषतः शत्रोः समीप आसते आस्ते । इन्द्र एव निर्भयः सन् शत्रुसमीपे स्थातुं शक्नोतीति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,14 +118,14 @@ genre M
 In this ṛca,Tvaṣṭā is an appellative of **Indra**, the ancient artificer!
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having yoked the two fallow bay mares to his chariot, Tvaṣṭar rules  over the many (forms) here.  
 Who will always sit on the side of the hostile—and especially when  
 (our) patrons are sitting (a sacrificial session)?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. makes a small ring with vs. 15, both containing káḥ + SUBJUNCTIVE. The fact that this vs. is in a different meter (Bṛhatī, not Triṣṭubh) from the whole hymn that precedes it may also signal the end of a section. As indicated in the published introduction, I think this vs. is meant as reassurance: in contrast to the endlessly multiplying Indra of vs. 18 (and the fickle Indra of the previous vss.), Tvaṣṭar has now taken control, yoking only a single team (for Indra’s journey, in my opinion) and exerting his dominion over forms, thus reining in Indra’s excess shape-shifting.
 
@@ -140,23 +140,23 @@ s-stem found only here in the RV, but attested in AV and elsewhere. This require
 Pāda d constitutes a loc. abs., with the part. ā́sīna- used pregnantly for ‘sitting (a sattra)’. The introductory utá is curious, since there is nothing it can conventionally conjoin. Klein (DGRV 45-56) classifies it with the unclassifiable residue of utá forms, tr. it ‘especially’. The published translation follows this tack. However, I think we can derive it from the standard uses of utá ‘and’. English has an idiom in which ‘and’ is used to add as an afterthought what the speaker considers the clinching, but somewhat off-topic, circumstantial argument -- as in a sequence like “why would he break up with her now-- and with her just graduated?”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here Tvastar, yoking to the car the Bay Steeds, hath extended sway.  
      Who will for ever stand upon the foeman's side, even when our princes sit at ease?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine beiden Falbinnen an den Wagen spannend schaltet Tvastri hier viel. Wer wird allezeit sich auf die Seite des Feindes schlagen, zumal wann die freigebigen Gönner eine Opfersitzung halten?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die goldfarbenen beiden Stuten sich anschirrend, erglänzet Tvaschtar prächtig hier. Wer sitzt gelassen stets, auch an des Feindes Seite, wie bei den Priestern, welche um ihn sitzen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запрягши в колесницу двух буланых кобылиц  
 Здесь мощно царствует Тваштар.  

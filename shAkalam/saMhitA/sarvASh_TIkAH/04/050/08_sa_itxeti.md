@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ इ꣡त् क्षेति सु꣡धित ओ꣡कसि स्वे꣡  
 त꣡स्मा इ꣡ळा पिन्वते विश्वदा꣡नीम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡स्मिन् ब्रह्मा꣡ रा꣡जनि पू꣡र्व ए꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्मै॑ । विशः॑ । स्व॒यम् । ए॒व । न॒म॒न्ते॒ । यस्मि॑न् । ब्र॒ह्मा । राज॑नि । पूर्वः॑ । एति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -132,21 +132,21 @@ genre M
 **स** **इत्** स एव **क्षेति** निवसति । **सुधितः** सुष्ठु तृप्तः सन् **स्वे** स्वकीये एव **ओकसि** सदने । स एव समृद्धो निर्बाधः सन् सुखेनास्ते । **तस्मा** **इळा** भूमिः **विश्वदानीं** सर्वकालं **पिन्वते** वर्धते फलैः । **तस्मै** **विशः** प्रजाः **स्वयमेव** **नमन्ते** प्रणता भवन्ति । दण्डनमन्तरेण स्वयमेव दत्तकरा भवन्ति । **यस्मिन्** **राजनि** **ब्रह्मा** **पूर्वः** प्रथमं पूज्यः सन् **एति** गच्छति । वर्तत इत्यर्थः ॥ .
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily he abides prosperous in his own abode; for him the earth bears fruit at all seasons; to him (his) subjects willingly pay homage, the prince, to whom the **Brāhmaṇa** first, (duly reverenced), repairs.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Only he dwells peacefully, well-situated in his own home; for him  refreshment swells at all times;  
 to him the clans bow just of themselves—for which king the  
 Formulator comes first.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -158,28 +158,28 @@ The figure in vs. 6 is Bṛhaspati; filling the same slot in vs. 7 is the brahm�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In his own house he dwells in peace and comfort: to him for ever holy food flows richly.  
      To him the people with free will pay homage-the King with whom the Brahman hatb precedence.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 He truly in his house dwells well-established, To him the sacred food affords abundance, To him his subjects with free will pay homage, If from this king the priest receives precedence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der wohnt behaglich im eigenen Hause, ihm schwillt die Ila allezeit an. Vor dem König beugen sich von selbst die Untertanen, bei dem der Hohepriester den Vortritt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nur der wohnt sicher in dem eignen Hause, dem schwillt reichlich zu aller Zeit die Nahrung, dem beugen ganz von selbst sich die Leute, dem König, welcher dem Brahmanen den Vortritt einräumt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только тот царь живет благополучно в своем доме,  
 Для того набухает всегда жертвенное питье,  

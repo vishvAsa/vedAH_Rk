@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्म꣡भ्यं सु꣡ तुव꣡म् इन्द्र तां꣡ शिक्ष  
 या꣡ दो꣡हते प्र꣡ति व꣡रं जरित्रे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सह꣡स्रधारा प꣡यसा मही꣡ गउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अच्छि॑द्रऽऊध्नी । पी॒पय॑त् । यथा॑ । नः॒ । स॒हस्र॑ऽधारा । पय॑सा । म॒ही । गौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
@@ -129,36 +129,36 @@ genre M;; repeated line
 हे **इन्द्र** **त्वं** **तां** गाम् **अस्मभ्यं** स्तोतृभ्यः **सु** **शिक्ष** प्रदेहि । शिक्षतिर्दानकर्मा । **या** गौः **जरित्रे** स्तोत्रे **वरं** वरणीयं पयः **प्रति** **दोहते** प्रतिदिनं नैरन्तर्येण दुग्धे ॥ दुहेः ' बहुलं छन्दसि' इति शपो लुगभावः । अदुपदेशात् लसार्वधातुकानुदात्तत्वे शपः पित्त्वादनुदात्तत्वम् । धातुस्वरः शिष्यते । वरम् । वृञ् वरणे' इत्यस्मात् ' ग्रहवृदृनिश्चिगमश्च ' इति कर्मण्यप् ॥ सा प्रत्ता **गौः** **अच्छिद्रोध्नी** निबिडोधस्का अत एव **सहस्रधारा** बहुभिः क्षीरधाराभिरुपेता **मही** महती सती **यथा** **नः** अस्मान् **पयसा** क्षीरेण **पीपयत्** प्रवर्धयेत् तथा तां कुर्विति शेषः ॥  ‘ ओप्यायी वृद्धौ । ण्यन्ताच्छान्दसो लुङ् । व्यत्ययेन धातोः पीभावः । अडभावश्छान्दसः ॥ ॥२१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Give to us, **Indra**, (the cow) who gives milk to the worshipper according to his desire, so that themighty cow, possessed of an unfailing udder, the shedder of a thousand streams, may supply us plural ntifully withmilk.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, for us exert your power over her who will milk out a choice  thing for the singer—  
 so that the great cow with unsplit udder will swell with milk for us, in a  thousand streams.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou bestow upon us her, O Indra, who yields according to the singer's longing,  
      That the great Cow may, with exhaustless udder, pouring a thousand streams, give milk to feed us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Such du uns fein, Indra, die Kuh zu verschaffen, die nach Wunsch dem Sänger ihre Milch spende, auf daß sie mit niemals undichtem Euter für uns strotze, die große Kuh, die mit ihrer Milch tausend Strahlen Milch gibt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schenke du uns, o Indra, die Kuh, welche dem Sänger, so oft er wünscht, Milch gibt, dass uns die grosse Kuh mit unversehrtem Euter anschwelle von Milch, uns tausend Ströme ergiessend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нам, о Индра, постарайся ты хорошенько подарить такую (корову),  
 Которая доилась бы для певца по (его) желанию,  

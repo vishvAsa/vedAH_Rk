@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुविग्री꣡वो वृषभो꣡ वावृधानो꣡  
 अशत्रु꣡ अर्यः꣡ स꣡म् अजाति वे꣡दः  
@@ -15,7 +15,7 @@ ChandaH = "शक्वरी"
 धवि꣡ष्मते म꣡नवे श꣡र्म यंसत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -34,7 +34,7 @@ genre M
 इति॑ । इ॒मम् । अ॒ग्निम् । अ॒मृताः॑ । अ॒वो॒च॒न् । ब॒र्हिष्म॑ते । मन॑वे । शर्म॑ । यं॒स॒त् । ह॒विष्म॑ते । मन॑वे । शर्म॑ । यं॒स॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tuvigrīvo* ← *tuvi*
 - \[noun\]
@@ -137,7 +137,7 @@ genre M
 **तुविग्रीवः** बहुज्वालः प्रभूतग्रीवो वा **वृषभः** वर्षिता कामानां **ववृधानः** वर्धमानोऽग्निः **अर्यः** अरेः **वेदः** धनम् **अशत्रु** अकण्टकं **समजाति** संयोजयति । **इतीमम्** अर्थम् **अग्निम्** **अमृताः** अन्ये देवाः **अवोचन्** । यस्मादेवं तस्मात् **बहिष्मते** यागवते **मनवे** मनुष्याय यजमानाय **शर्म** सुखं **यंसत्** यच्छतु । **हविष्मते** च **शर्म** **यंसत्** ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,7 +148,7 @@ genre M
 That he will bestow happiness: barhiṣmate manave **śarma** yaṃsat is repeated with a slight variation of the first word, haviṣmate
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “The bull of powerful neck, having become full-grown, will drive  together unchallenged the possessions of the stranger,”  
 thus the immortals have spoken to this Agni here. He will offer  
@@ -156,28 +156,28 @@ protection to Manu bearing ritual grass; he will offer protection to
 Manu bearing offerings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he, the strong-necked Steer, waxing in vigour, gather the foeman's wealth with none to check him.  
      Thus to this Agni have the Immortals spoken. To man who spreads the grass may he grant shelter, grant shelter to the man who brings oblation.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the bull 1 with mighty neck, grown strong, with no foe to resist him, get together the niggard's wealth. Thus the immortal (gods) have spoken to this Agni: may he grant protection to the man who has spread the Barhis; may he grant protection to the man who brings offerings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Starknackige ausgewachsene Bulle Indra soll das Besitztum des Geldprotzen ohne Widerstand beitreiben", also haben die Unsterblichen zu diesem Agni gesagt. Er soll dem opfernden Menschen Schutz gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Der Stier mit starkem Nacken, kräftig wachsend, bring her des Feindes Gut, das unbeschützte.« So sprachen die Unsterblichen zu Agni; er reiche Schutz dem Mann, der Streu bereitet, er reiche Schutz dem Manne, der ihm opfert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык с мощным затылком, набравшись силы,  
 Беспрепятственно пусть отнимет имущество у врага! -  

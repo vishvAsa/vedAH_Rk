@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ अ꣡ङ्गिरसाम् उच꣡था जुजुष्वा꣡न्  
 ब्र꣡ह्मा तूतोद् इ꣡न्दरो+ गातु꣡म् इष्ण꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡श्नस्य चिच् छिश्नथत् पूर्विया꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मु॒ष्णन् । उ॒षसः॑ । सूर्ये॑ण । स्त॒वान् । अश्न॑स्य । चि॒त् । शि॒श्न॒थ॒त् । पू॒र्व्याणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -114,36 +114,36 @@ genre M
 अङ्गिरसांसम्बन्धीनिउचथाउक्थानिजुजुष्वान् जुषीप्रीतिसेवनयोरित्यस्यलिटिक्वसौरूपं सेवमा- नः सइन्द्रः गातुम्पणिभिरुपद्रुतानामङ्गिरसाम्मार्गमिष्णन् प्रेरयन् ब्रह्म तेषां स्तोत्रङ्कामप्रदानेन तूतोत् तुविद्धावित्यस्यलङि बहुलञ्छन्दसीतिविकरणस्यश्लुः अवर्धयत् किञ्च स्तवान् स्तोत्रुभिः स्तूयमानः सूर्येणस्वात्मभूतेनौषसोमुष्णन् अपहरन् उदितेहिसूर्येउषसोव्यावर्तन्ते तादृशः सइन्द्रः अश्नस्य अश्नुते स्वतेजसासर्वञ्जगदित्यश्नःकश्विदसुरः तस्यपूर्व्याणिपुरातनानि पुराणिबलानिवा शिश्नयत् अश्नथयत् शिथिलीचकार चित्पूरणः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Propitiated by the hymns of the **Aṅgirasas**, **Indra** granted their prayer, and directed them on the way (to recover their cattle); carrying off the dawns by the (light of the) sun, he, animated by praise, demolished the ancient cities of Aśna.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having found pleasure in the hymns of the Aṅgirases, Indra made their  formulations powerful, sending them along their way.  
 Robbing the dawns by means of the sun, receiving praise, he has pierced  the primordial (establishments) even of the Devourer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Indra whom the Angirases' praise delighted, strengthened their prayer and made their goings prosper.  
      Stealing away the mornings with the sunlight, he, lauded, crushed even Asna's ancient powers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra fand an den Preisliedern des Angiras´ Gefallen und gab ihrem Segenswort Gewicht, indem er ihm den rechten Weg suchte, indem er die Usas´ samt der Sonne raubte, er der Gepriesene. Er hat sogar des Asna alte Werke zerschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebet erfüllte Indra, nahm die Sprüche, der Angirasen an, den Wohlstand fördernd; Die Morgenröthen durch die Sonne tilgend, zerstiess der Donnrer Açna's alte Thaten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот наслаждавшийся гимнами Ангирасов  
 Индра подтолкнул (их) молитву, ища выхода (для нее).  

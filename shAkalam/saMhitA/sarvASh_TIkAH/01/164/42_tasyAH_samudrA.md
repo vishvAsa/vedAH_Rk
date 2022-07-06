@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्याः समुद्रा꣡ अ꣡धि वि꣡ क्षरन्ति  
 ते꣡न जीवन्ति प्रदि꣡शश् च꣡तस्रः  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 त꣡द् वि꣡श्वम् उ꣡प जीवति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ततः॑ । क्ष॒र॒ति॒ । अ॒क्षर॑म् । तत् । विश्व॑म् । उप॑ । जी॒व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasyāḥ* ← *tad*
 - \[noun\], ablative, singular, feminine
@@ -112,7 +112,7 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **तस्याः** उक्ताया गोः सकाशात् **समुद्राः** वृष्ट्युदकसमुन्दनाधिकरणभूता मेघाः **अधि** अधिकं प्रभूतमुदकं **वि** **क्षरन्ति** विविधं क्षरन्ति । **तेन** उदकेन **प्रदिशश्चतस्रः** । प्रशब्दो वीत्यर्थः । विदिशश्चतस्रो दिशश्च । अथवा प्रकृष्टा दिशो मुख्याश्चतस्रः । तत्स्थेषु ताच्छब्द्यम् । तत्स्थाः पुरुषाः **जीवन्ति** । **ततः** पश्चात् तत् **अक्षरम्** उदकं **क्षरति** सस्यादिकमुत्पादयतीत्यर्थः। **तत्** सस्यादिकं **विश्वं** जगत् **उप** **जीवति** । अयमपि यास्केन व्याख्यातः - तस्याः समुद्रा अधिविक्षरन्ति वर्षन्ति मेघास्तेन जीवन्ति दिगाश्रयाणि भूतानि ततः क्षरत्यक्षरमुदकं तत्सर्वाणि भूतान्युपजीवन्ति । ( निरु. ११. ४१ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,28 +123,28 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 From her: the sound of the clouds or sky, the thunder
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seas flow everywhere from her: by that the four directions live, from that the syllable flows, upon that does everything live.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From her descend in streams the seas of water; thereby the world's four regions have their being,  
      Thence flows the imperishable flood and thence the universe hath life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von ihr strömen Meere aus, davon leben die vier Weltgegenden. Davon strömt das Unvergängliche aus, von dem zehrt alles.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von ihr strömen die Meere aus, davon leben die vier Erdräume; von dort ergiesst sich das unversiegbare Wasser, davon lebt alles
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из нее моря вытекают.  
 Этим живут четыре стороны света.  

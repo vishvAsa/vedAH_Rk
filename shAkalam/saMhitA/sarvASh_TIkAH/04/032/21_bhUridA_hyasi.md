@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भूरिदा꣡ हि꣡ अ꣡सि श्रुतः꣡  
 पुरुत्रा꣡ शूर वृत्रहन्  
 आ꣡ नो भजस्व रा꣡धसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 आ । नः॒ । भ॒ज॒स्व॒ । राध॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūridā* ← *bhūri*
 - \[noun\]
@@ -90,36 +90,36 @@ genre M
 हे **वृत्रहन्** वृत्रस्य हिंसक **शूर** विक्रान्तेन्द्र **भूरिदाः** बहुप्रदस्त्वं **पुरुत्रा** पुरुषु बहुषु यजमानेषु **श्रुतः** **असि** **हि** विख्यातो भवसि खलु । **राधसि** धने **नः** अस्मान् **आ** **भजस्व** ॥ समन्तात् भागिनः कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily you are renowned among many as a bountiful giver, hero, slayer of **Vṛtra**, make us sharers in wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since you are famed in many places as the giver of much, o champion,  Vr̥tra-smasher,  
 give us a share in your largesse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Vrtra-slayer, thou art famed in many a place as bountiful  
      Hero, thy bounty let us share.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du bist als Vielgeber vielerorts bekannt, tapferer Virtratöter; gib uns Anteil an deiner Gabe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vielschenkender ja nennt man dich, o Vritratödter, überall, So schenke Schätze uns, o Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты слывешь дающим много  
 Во многих местах, о герой – убийца Вритры.  

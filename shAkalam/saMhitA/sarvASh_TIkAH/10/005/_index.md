@@ -8,7 +8,7 @@ title = "+005"
 ‘ एकः समुद्रः' इति सप्तर्चं पञ्चमं सूक्तम् । ऋष्याद्याः पूर्ववत्। विनियोगश्च । “एकः ' इत्यनुक्रान्तम् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 5 (831)  
 Agni  

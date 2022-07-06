@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुनिर्म꣡था नि꣡र्मथितः  
 सुनिधा꣡ नि꣡हितः कविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवा꣡न् देवयते꣡ यज
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (424);; repeated line
 अग्ने॑ । सु॒ऽअ॒ध्व॒रा । कृ॒णु॒ । दे॒वान् । दे॒व॒ऽय॒ते । य॒ज॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sunirmathā* ← *sunirmatha*
 - \[noun\], instrumental, singular, masculine
@@ -99,41 +99,41 @@ genre D;; epic anuṣṭubh (424);; repeated line
 हे **अग्ने** **कविः** मेधावी **सुनिर्मथा** शोभनेन मन्थनेन **निर्मथितः** नितरां मथितोऽसि । तथा **सुनिधा** शोभनेन निधानेन **निहितः** असि । उत्तरवेद्यादिस्थानेषु नितरां प्रक्षिप्तोऽसि । किंच **स्वध्वरा** अस्माभिः क्रियमाणानि कर्माणि सुष्ठु हिंसारहितानि **कृणु** कुरु । तथा **देवयते** देवान्कामयमानाय यजमानाय **देवान्** यजनीयानिन्द्रादीन् **यज** पूजय ॥ सुनिर्मथा । मथे विलोडने ' । अस्मात् संपदादिलक्षणो भावे क्विप् । प्रादिसमासः । कृदुत्तरपदस्वरः । निर्मथितः ।  ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वत्वम् । सुनिधा । निपूर्वस्य दधातेर्भावे  ‘ आतश्चोपसर्गे' इत्यङ् । ‘सुपां सुलुक्° ' इति तृतीयाया लुक् । कृदुत्तरपदस्वरः । कृणु । ' कृवि हिंसाकरणयोः । इत्यस्य लोटि ‘धिन्विकृण्व्योः ' इत्युप्रत्ययः ।  ‘ उतश्च प्रत्ययात्° ' इति हेर्लुक् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who is pronounced by reverential attrition, and deposited with reverential care, and who are far-seeing, render our rites (exempt from defects), and worship the gods (on behalf) of the devout worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The poet is churned out by skillful churning and installed with skillful  installation.  
 O Agni, perform good rites. Sacrifice to the gods for him seeking  the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With strong attrition rubbed to life, laid down with careful hand, a Sage,  
      Agni, make sacrifices good, and for the pious bring the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Rubbed forth by skilful rubbing, established by skilful establishing, as a sage, O Agni, perform excellent sacrifices. Sacrifice to the gods for him who is devoted to the gods 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Geschick ist der Seher herausgerieben, mit Geschick eingesetzt. Agni, vollzieh das Opfer gut, verehre für den Gottverlangenden die Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schaffe als hervorgeriebener schön hervorgeriebenes Gut, schön niedergelegtes wenn du weiser niedergesetzt bist, o Agni, wirke schöne Opferfeier, die Götter verehre für den Gotter- gebenen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасным трением вытерт наружу,  
 Прекрасным водворением водворен поэт.  

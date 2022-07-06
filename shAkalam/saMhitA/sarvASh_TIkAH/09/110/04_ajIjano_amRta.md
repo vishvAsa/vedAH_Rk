@@ -6,14 +6,14 @@ ChandaH = "ऊर्ध्वबृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡जीजनो अमृत म꣡र्तियेषु आँ꣡  
 ऋत꣡स्य ध꣡र्मन्न् अमृ꣡तस्य चा꣡रुणः  
 स꣡दासरो वा꣡जम् अ꣡छा स꣡निष्यदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सदा॑ । अ॒स॒रः॒ । वाज॑म् । अच्छ॑ । सनि॑स्यदत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ajījano* ← *ajījanaḥ* ← *jan*
 - \[verb\], singular, Redupl. Aorist (Ind.)
@@ -91,7 +91,7 @@ genre M
 हे **अमृत** मरणधर्मरहित सोम त्वम् **ऋतस्य** सत्यभूतस्य **चारुणः** कल्याणस्य **अमृतस्य** उदकस्य **धर्मन्** धारकेऽन्तरिक्षे सूर्यम् **अजीजनः** । किमर्थम् । **मर्त्येष्वा** मनुष्येष्वभिमुखीभवनाय। किंच **सनिष्यदत्** संभजन स त्वं **वाजमच्छ** संग्राममभिलक्ष्य **सदा** **असरः** सरसि गच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,12 +102,12 @@ genre M
 Streaming forth: saniṣyadat = sambhajan, distributing (blessings?): from san, to acquire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You have begotten it, o immortal one, here among mortals, upon the  foundation of the truth, of the dear immortal one [=heavenly soma]. You have always flowed, ever streaming toward the prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though the meter changes here, vss. 3 and 4 are knit together by initial ájījanaḥ. Here the obj. is left unspecified and presumably re-supplies the obj. of 3.
 
@@ -130,23 +130,23 @@ A very challenging tṛca, esp. the last two vss.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou didst produce him, Deathless God mid mortal men for maintenance of Law and lovely Amrta:  
      Thou evermore hast moved making strength flow to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Unsterblicher unter den Sterblichen hast nach der rechten Vorschrift den Trunk des angenehmen Göttertranks hervorgebracht. Immerdar bist du eilend nach dem Preis gelaufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du hast gezeugt, Unsterblicher, bei Sterblichen im Brauch des Opfers den beliebten Göttertrank Hast eilend stets uns Labetrunk herbeigeströmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты породил, о бессмертный среди смертных,  
 По установлению (вселенского) закона (приношение) милого напитка бессмертия.  

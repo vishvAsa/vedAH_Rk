@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभ꣡यं शृण꣡वच् च न  
 इ꣡न्द्रो अर्वा꣡ग् इदं꣡ व꣡चः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 धिया꣡ श꣡विष्ठ आ꣡ गमत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒त्राच्या॑ । म॒घऽवा॑ । सोम॑ऽपीतये । धि॒या । शवि॑ष्ठः । आ । ग॒म॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhayaṃ* ← *ubhayam* ← *ubhaya*
 - \[noun\], accusative, singular, neuter
@@ -110,7 +110,7 @@ genre M
 **उभयं** स्तोत्रात्मकं शस्त्रात्मकं चोभयविधम् **इदं** **वचः** अर्वाक् अस्मदभिमुखम् **इन्द्रः** **शृणवत्** शृणोतु । श्रुत्वा च **सत्राच्या** अस्माकं सहाञ्चन्त्या **धिया** युक्तः सन् **मघवा** **शविष्ठः** अतिशयेन बलवान् **आ** **गमत्** आगच्छतु **सोमपीतये** सोमपानाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,13 +121,13 @@ genre M
 Satrācyā dhiyā = come to us with your wholemind; both our hymns: i.e.whether recited (**śāstra**) or sung praises (**stotra**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If Indra nearby will hear this twofold speech of ours,  
 the most powerful benefactor will come here to the soma-drinking by  reason of our fully focused insight.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ca in pāda a is subordinating, as the accented verb (śṛṇávat) shows.
 
@@ -136,23 +136,23 @@ See Klein DGRV I.245-46.
 Geldner, flg. Sāyaṇa, suggests that the twofold speech (ubháyaṃ vácaḥ) is Gesang and Vortrag. This is certainly possible, though I wonder if it might be refined to words and melody - that is, not separate performances of songs and recitations, but words set to music - accounting for the grammatical singular.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BOTH boons,-may Indra, hitherward turned, listen to this prayer of ours,  
      And mightiest Maghavan with thought inclined to us come near to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn Indra auf diese unsere doppelte Rede herhorchen sollte, so möge der Gewaltigste, Gabenreiche mit ungeteilter Aufmerksamkeit zum Somatrunk herkommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es höre Indra nahe hier dies unser beiderseit'ges Lied; Der reiche, stärkste komme her zum Somatrunk durch das vereinigte Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если бы Индра услышал здесь  
 Эту нашу двойную речь,  

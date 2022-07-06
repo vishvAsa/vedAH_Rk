@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ सुप्रतू꣡र् अ꣡सि  
 तुवं꣡ नो गो꣡मतीर् इ꣡षः  
 महो꣡ रायः꣡ साति꣡म् अग्ने अ꣡पा वृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 म॒हः । रा॒यः । सा॒तिम् । अ॒ग्ने॒ । अप॑ । वृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -98,35 +98,35 @@ genre M
 हे **अग्ने** **त्वम्** । हिरवधारणे । त्वमेव **सुप्रतूः** स्तोतॄणां धनादिकं सुष्ठु प्रदाता **असि** प्रयच्छसीत्यर्थः । अत एव **गोमतीः** पश्वादियुक्तानि इषः अन्नानि **महः** महतः **रायः** धनस्य मध्ये **सातिं** देयं धनं च **नः** स्तोतॄणामस्माकम् **अपा** **वृधि** अपावृणु । प्रयच्छेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You verily are a liberal benefactor; bestow upon us, **Agni**, food, with cattle, and the gift of abundantriches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you are the furtherer. Uncover for us refreshments consisting of cows and the winning of great wealth, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A mighty Conqueror art thou, O Agni, so disclose to us  
      Food in our herds of kine and gain of ample wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du gehst an der Spitze; erschließe du uns Speisen nebst Vieh, den Gewinn großen Reichtums, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, o Agni, bist ja ein starker Eroberer, so eröffne uns denn reiche Labetränke und Erlangung grossen Reichthums.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты ведь очень быстро продвигаешься вперед.  
 Ты нам открой, о Агни,  

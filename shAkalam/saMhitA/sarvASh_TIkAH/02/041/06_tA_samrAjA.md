@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ सम्रा꣡जा घृता꣡सुती  
 आदित्या꣡ दा꣡नुनस् प꣡ती  
 स꣡चेते अ꣡नवह्वरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 सचे॑ते॒ इति॑ । अन॑वऽह्वरम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -77,36 +77,36 @@ genre M
 सम्राजौ आज्ञयैवसर्वेषांशास्तारौघृतासुती घृतान्नौ तद्वाम्महित्वङ्घृतान्नावस्त्वितिमन्त्रान्तरात् आदित्या अदितेःपुत्रौ दानुनस्पती दानुनोदानस्य देवस्यवाधनस्यपतीस्वामिनौ ता तौ मित्रावरु णौ अनह्वरमकुटिलं यजमानं सचेते सेवेते ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May these two universal monarchs, fed with clarified butter, sons of **Aditi**, lords of liberality, show favour to their sincere (worshipper).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These two sovereign kings, whose potion is ghee, Ādityas, the lords of  the drop,  
 accompany him who does not go astray.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fed with oblation, Sovran Kings, Adityas, Lords of liberal gifts.  
      They wait on him whose life is true.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Allkönige, die den Schmalzaufguß bekommen, die Aditi-Söhne, die Herren der Himmelsgabe, geleiten den, der nicht krumme Wege geht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Oberherrn mit Milch getränkt, Aditisöhne, Herrn des Thau's, Sind hold dem ränkelosen Mann.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Оба этих вседержителя, получающих как возлияние жир,  
 Два Адитьи, повелителя дара,  

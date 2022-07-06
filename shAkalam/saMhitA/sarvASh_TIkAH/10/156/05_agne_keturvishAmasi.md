@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने केतु꣡र् विशा꣡म् असि  
 प्रे꣡ष्ठः श्रे꣡ष्ठ उपस्थस꣡त्  
 बो꣡धा स्तोत्रे꣡ व꣡यो द꣡धत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 बोध॑ । स्तो॒त्रे । वयः॑ । दध॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -94,36 +94,36 @@ genre M
 हे **अग्ने** **विशां** प्रजानां यजमानानां **केतुः** केतयिता **असि** ज्ञापयिता भवसि। अत एव **प्रेष्ठः** प्रियतमः **श्रेष्ठः** प्रशस्यतमश्च भवसि । स त्वम् **उपस्थसत्** उपस्थाने यज्ञगृहे निषीदन् **बोध** अस्मदीयं स्तोत्रमवगच्छ । किं कुर्वन् । **स्तोत्रे** स्तुवते जनाय **वयः** अन्नं **दधत्** विदधत् कुर्वन् प्रयच्छन् ॥ ॥१४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, are the best beloved and most excellent banner of the people; understand (our praise)giving food to the praiser.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, you are the beacon of the clans, dearest, fairest lap-child.  
 Awaken, as you establish vitality for your praiser.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, art the people's light, best, dearest, seated in thy shrine:  
      Watch for the singer, give him life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, du bist der Clane Feldzeichen, ihr liebstes schönstes Schoßkind. Erwache, dem Sänger Kraft verleihend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, bist der Menschen Licht, der liebste beste hier im Sitz; Des Sängers achte, gib ihm Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, ты – знамя племен,  
 Самый любимый, лучший, сидящий в лоне (закона).  

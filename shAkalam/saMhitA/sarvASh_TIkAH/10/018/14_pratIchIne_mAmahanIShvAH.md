@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रतीची꣡ने मा꣡म् अ꣡हनि  
 इ꣡ष्वाः पर्ण꣡म् इवा꣡ दधुः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡श्वं रशन꣡या यथा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 प्र॒तीची॑म् । ज॒ग्र॒भ॒ । वाच॑म् । अश्व॑म् । र॒श॒नया॑ । य॒था॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pratīcīne* ← *pratīcīna*
 - \[noun\], locative, singular, neuter
@@ -104,36 +104,36 @@ popular;; epic anuṣṭubh (424)
 अनया प्रजपतिः प्रार्थ्यते हे प्रजापते प्रतीचीने प्रतिपूज्ये अहनि तदुपलक्षिते संवत्स- सङ्कुसुकमृषिं आदधुः निहितवन्तः सर्वे देवाः । किमिव इष्वाः बाणस्य पर्णमिव पक्षमिव पक्षं यथा बाणस्य मूले स्थापयन्ति तद्वत् जगत्मूले त्वयि मां स्थापितवन्तः अतोमदीयां प्रतीचीं पूज्यां वाचं स्तुतिरूपां जगृभ गृहाण । कतमित्युच्यते अश्वं आशुगामिनं हयं रशनया रज्ज्वा यथा गृह्णन्ति तद्वत् कर्णाभ्यां मत्कृतां स्तुतिं गृहाणेत्यर्थः ॥ १४ ॥वेदार्थस्य प्रकाशेन तमोहार्दं निवारयन् । पुमर्थांश्चतुरोदेयाद्विद्यातीर्थमहेश्वरः ॥ १ ॥इतिश्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरन्धरण सा- यणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभष्ये सप्तमाष्टके षष्ठोध्यायः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke the knowledge of the plural ce, of their going, of their coming, of their departure, of theirwandering, of their returning; (I invoke) him who is their keeper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On the day facing me [=today] they have set (him=dead man) down  like a feather from an arrow.  
 The speech facing me I have grasped, like a horse by its halter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as an arrow's feathers, they have set me on a fitting day.  
      The fit word have I caught and held as 'twere a courser with the rein.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An einem nachfolgenden Tage setzen sie mich bei, wie man die Feder des Pfeils feststeckt. Ich habe die Rede zurückgehalten wie ein Roß mit dem Zügel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Am nächstvergangnen Tage hat man mich wie Federn an den Pfeil gefügt; ich halte das Wort zurück wie ein Ross am Zügel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В (какой-нибудь) грядущий день (и) меня  
 Положат (в землю), как перо стрелы.  

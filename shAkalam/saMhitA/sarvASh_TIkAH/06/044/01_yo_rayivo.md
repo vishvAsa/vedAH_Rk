@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ रयिवो रयिं꣡तमो  
 यो꣡ द्युम्नइ꣡र् द्युम्न꣡वत्तमः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡स्ति स्वधापते म꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सोमः॑ । सु॒तः । सः । इ॒न्द्र॒ । ते॒ । अस्ति॑ । स्व॒धा॒ऽप॒ते॒ । मदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -107,7 +107,7 @@ genre M
 हे **रयिवः** धनवन् इन्द्र **यः** सोमः **रयिंतमः** अतिशयेन रयिमान् धनवान् । **यः** च **द्युम्नैः** द्योतमानैर्यशोभिः **द्युम्नवत्तमः** अतिशयेन यशस्वी हे **स्वधापते** स्वधाया अन्नस्य सोमलक्षणस्य पालक **इन्द्र** **सः** **सोमः** अभिषुतः सन् **ते** तव **मदः** मदकरः **अस्ति** भवति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,30 +118,30 @@ genre M
 Lord of the offering: svadhāpati = cherisher or protector of the Soma libation, svadhāyā annasya somalakṣaṇasya pālanāt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one that is wealthiest, o wealthy one, that is most brilliant through  its brilliance,  
 the pressed soma—that is your exhilarating drink, o Indra, lord of  
 independent power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THAT which is wealthiest, Wealthy God in splendoursmost illustrious,  
      Soma is pressed: thy gladdening draught, Indra! libation's Lord! is this.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ausgepreßte Soma, der der reichste, o Reicher, der an Glanz der glanzvollste ist, er ist dein Rauschtrank, Indra, Herr des Lebenssaftes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der reichste Soma, reichster du, der herrlichste an Herrlichkeit, Der ist, o Indra, dir gebraut, der Rauschtrank, o du Opferherr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто самый богатый, о богатый,  
 Кто сверканиями самый сверкающий,  

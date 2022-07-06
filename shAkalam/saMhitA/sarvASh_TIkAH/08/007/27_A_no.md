@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो मख꣡स्य दाव꣡ने  
 अ꣡श्वैर् हि꣡रण्यपाणिभिः  
 दे꣡वास उ꣡प गन्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 देवा॑सः । उप॑ । ग॒न्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -86,41 +86,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे देवासः दानादिगुणयुक्ता मरुतः **नः** अस्माकं **मखस्य** यज्ञस्य **दावने** दानाय । ददातेरौणादिको भावे वनिः । **हिरण्यपाणिभिः** स्वर्णमयपादैः स्वर्णालंकृतैर्हितरमणीयपादैर्वा **अश्वैः** **आ** **उप** **गन्तन** उपागच्छत प्राप्नुत ॥ गमेर्लोटि छान्दसः शपो लुक् । 'तप्तनप्तनथनाश्च ' इति तनबादेशः । अत एव ङित्त्वाभावादनुनासिकलोपो न क्रियते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, gods, to (show your) liberality at our sacrifice with your golden-footed steeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Come) here to us, for the giving of bounty, with horses whose forefeet  are golden—  
 come near, o gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Borne by your golden-footed steeds, O Gods, come hither to receive  
      The sacrifice we offer you.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Brought by your golden-footed steeds Come hither, O ye gods, to us, To take from us our sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet zu uns mit den goldhufigen Rossen, um eine Gabe zu schenken, ihr Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit goldbehuften Rossen kommt, o Götter, nun zu uns herbei, Den muntern Helden zu empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нам для дарения дружеского расположения  
 Приезжайте, о боги,  

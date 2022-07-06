@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्राता꣡ र꣡थो · न꣡वो योजि स꣡स्निश्  
 च꣡तुर्युगस् त्रिकशः꣡ सप्त꣡रश्मिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ इष्टि꣡भिर् मति꣡भी रं꣡हियो भूत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दश॑ऽअरित्रः । म॒नु॒ष्यः॑ । स्वः॒ऽसाः । सः । इ॒ष्टिऽभिः॑ । म॒तिऽभिः॑ । रंह्यः॑ । भू॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prātā* ← *prātar*
 - \[adverb\]
@@ -132,7 +132,7 @@ genre M
 रथोरंहणाद्रथोयज्ञः सचनबोनूयतेस्तूयतेत्रेतिनवःस्तुतिमान् सस्निः स्नाशौचे आदृगमहनेतिकिन्प्र- त्ययः शुद्धः एवंविधोयज्ञः प्रातः प्रातःकालेयोजि अयोज्यस्माभिः चतुर्युगः युज्यन्तइतियुगानिग्रावा- णः चत्वारियुगानियस्यसतथोक्तः अध्वर्य्वाद्यृत्विगभिप्रायंवा त्रिकशः तिस्रः कशावाचोमन्द्रमध्यमो- त्कृष्टरूपायस्यसतथोक्तः सवनत्रयाभिप्रायंवा सप्तरश्मिःअश्नुवते व्याप्नुवन्ति कर्माणीतिरश्मयः छन्दां सिसप्तसङ्ख्याकानिगायत्र्यादीनिच्छन्दांसियस्यसतथोक्ताः दशारित्रः अरिभ्यः पापेभ्यस्त्रायन्तइतिअ- रित्राग्रहाः दशसङ्ख्याकाग्रहायस्यसतादृशः चमसाध्वर्य्वभिप्रायंवा मनुष्योमनुष्याणांहितः स्वर्षाः स्वर्गस्यदाता सएवंविधोयज्ञः इष्टिभिः प्रायणीयातिथ्यादिभिः मतिभिर्मननीयैःस्तोत्रैःरंह्यः शब्दनी- योभूदभूत् यद्वा नवोभिवः सस्निः स्नोतेर्द्विर्वचनादि कामानान्दातारथः रमन्तेस्मिन्नितिरथः स्यन्दनः प्रातः सवनेचसोमपानार्थंयोजि अश्वैरयोजि कीदृशःचतुर्युगः त्रिकशः तिस्रःकशाय्स्यसतथोक्तः सप्तर- श्मिः सप्तरज्जु दशारित्रोदशवक्रः मनुष्यः मनुष्यहितः स्वर्षाः स्वर्गस्यसङ्गमयिताइन्द्ररथः इष्टिभिः यागैर्मतिभिः स्तोत्रैश्चव्याप्तव्योभवति ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,30 +143,30 @@ genre M
 A laudable and pure sacrifice: **prāta** ratho navo yoji ratho ranhaṇād **yajñaḥ**: the word **ratha**, as derived from ranh., to ho = worship, sacrifice; as a chariot, it has been harnessed, ayoji; provided with four yokes, **catur yuga**; three whips, trikaṣa; seven reins, **saptaraśmi**; and ten sides or faces, **daśa** **aritra**; such a figurative chariot is a conveyance to **svarga**, applicable to **yajña**,, sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Early in the morning a new, victorious chariot is yoked up with four  yokes, three whips, and seven reins.  
 Having ten oars, the sun-winning (chariot) belonging to the sons of  
 Manu becomes swift through our wishes and thoughts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE rich new car hath been equipped at morning; four yokes it hath, three whips, seven reins to guide it:  
      Ten-sided, friendly to mankind, light-winner, that must be urged to speed with prayers and wishes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Am Morgen wird der neue Wagen geschirrt, der gewinnreiche mit vier Jochen, drei Peitschen, sieben Zügeln, mit zehn Rudern, von Menschen gemacht, das Himmelslicht erringend. Er soll mit unseren Wünschen, mit unseren frommen Gedanken in Lauf gesetzt werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Früh ward geschirrt der neue, reiche Wagen, dess Joche vier, sechs Peitschen, sieben Stränge, zehn Räder auch, der menschenhold voll Glanz ist; durch Wünsch' und Bitten lasst uns ihn beeilen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поутру запряжена новая колесница, захватывающая (добычу),  
 С четырьмя хомутами, тремя кнутами, семью поводьями,  

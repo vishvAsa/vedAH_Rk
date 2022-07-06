@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्रा ते रूप꣡म् उत्तम꣡म् अपश्यं  
 जि꣡गीषमाणम् इष꣡ आ꣡ पदे꣡ गोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् इ꣡द् ग्र꣡सिष्ठ ओ꣡षधीर् अजीगः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒दा । ते॒ । मर्तः॑ । अनु॑ । भोग॑म् । आन॑ट् । आत् । इत् । ग्रसि॑ष्ठः । ओष॑धीः । अ॒जी॒ग॒रिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atrā* ← *atra*
 - \[adverb\]
@@ -135,7 +135,7 @@ popular
 एवं गमनानन्तरं हे अश्व **ते** तव **उत्तमम्** उक्तरूपेणोत्कृष्टतमं **रूपम्** **अत्र** अस्मिन् यागदेशे **अपश्यं** पश्यामि । कीदृशम् । **गोः** भूम्याः **पदे** स्थाने देवस्थाने देवयजनप्रदेशे आजिधावनस्थाने वा **इषः** । कर्मणि षष्ठी ॥ इषम् इष्यमाणम् अन्नम् अन्नानि वा **आ** सर्वतः **जिगीषमाणं** गन्तुमिच्छन्तम् । हे अश्व **ते** तव **यदा** मर्तः मनुष्यः **भोगं** भोक्तव्यमन्नम् **अनु** **आनट्** ॥ नशतिर्गतिकर्मा ॥ अनुक्रमेण समीपं गमयति । **आदित्** अनन्तरं तदानीमेव तदनुग्रहात् विलम्बमकृत्वा **ग्रसिष्ठः** महातृष्णयेव ग्रसितृतमो भक्षयितृतमः सन् **ओषधीः** अन्नानि **अजीगः** गिरसि भक्षयसि । महानुभावोऽपि त्वं लौकिकाश्ववत् तुच्छेन पुरुषेण दीयमानं स्वल्पं भक्ष्यम् अनुग्रहात् स्वीकरोषीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,13 +146,13 @@ popular
 The fodder: identical with the sun; applied to his acceptance of the oblations offered in the ceremony
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here I saw your highest form, seeking to win refreshments in the track  of the cow.  
 When the mortal attained the benefit from you, just after that the  foremost devourer of plants [=Agni] awakened (you?).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are multiple conflicting interpretations of the personnel and import of this verse; I will not add another.
 
@@ -169,23 +169,23 @@ Note the apaśyam ‘I saw’ in all three verses (5c, 6c, 7a): the poet bears w
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here I beheld thy form, matchless in glory, eager to win thee food at the Cow's station.  
      Whene'er a man brings thee to thine enjoyment, thou swallowest the plants most greedy eater.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort sah ich deine höchste Gestalt, wie sie auf der Fährte der Kuh die Speise zu gewinnen sucht. Sobald der Sterbliche in deinen Genuß gelangt ist, hat der Verzehrer der Pflanzen ihn geweckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier sah ich deine herrlichste Gestalt am Orte der Kuh begierig nach den Tränken hinstreben; so oft der Sterbliche es erlangt, dass du sie geniessest, dann sogleich verschlingst du als bester Verschlinger die Pflanzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Здесь увидел я твой высший образ,  
 Стремящийся к подкреплениям в следе коровы.  

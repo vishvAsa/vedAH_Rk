@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् भ꣡गो न आ꣡ हि꣡ र꣡त्नम् इषे꣡  
 प꣡रिज्मेव क्षयसि दस्म꣡वर्चाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡सि क्षत्ता꣡ वाम꣡स्य देव भू꣡रेः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अग्ने॑ । मि॒त्रः । न । बृ॒ह॒तः । ऋ॒तस्य॑ । असि॑ । क्ष॒त्ता । वा॒मस्य॑ । दे॒व॒ । भूरेः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -137,7 +137,7 @@ genre M
 हे अग्ने **भगः** भजनीयः **त्वं** **नः** अस्मभ्यं **रत्नं** रमणीयं धनम् **आ** **इषे** आगमय प्रयच्छ॥  ‘ इण् गतौ ' इत्यस्यैतद्रूपम् । **हि** इति पूरकः । **दस्मवर्चाः** दर्शनीयदीप्तिस्त्वं **परिज्मेव** परितो गन्ता वायुरिव **क्षयसि** सर्वत्र निवससि। यद्वा । क्षयतिरैश्वर्यकर्मा । सर्वस्येशिषे । हे **अग्ने** **मित्रो** **न** प्रमीतेस्त्रायको देव इव **बृहतः** महतः **ऋतस्य** उदकस्य यज्ञस्य वा **क्षत्ता** **असि** । क्षदतिरत्र दानकर्मा । दाता भवसि । तथा हे **देव** द्योतमानाग्ने **भूरेः** बहुलस्य **वामस्य** वननीयस्य धनस्य च दाता भवसीत्यनुषङ्गः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,36 +150,36 @@ Who are adorable: tvam bhago na = you like **bhaga**; bhago, as an adjective, bh
 Na = naḥ, us
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are our Apportioner, for your treasure here is for our refreshment.  Like an encompassing (household), you of wondrous luster hold sway  (over treasure),  
 as Mitra does over lofty truth, o Agni. You, god, are the distributer of  an abundance of valuables.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As usual, the form iṣé is subject to multiple possible analyses, but most interpr. opt for a dat. of íṣ- ‘refreshment’, as do I. With most (but not Oldenberg), I split pāda a into two nominal clauses, based on the apparently clause-initial sequence ā́hí after the caesura. The enclitic naḥ must of course belong properly to the 1st clause, though it can be understood with the 2nd as well.
 
 In pāda b, the referent in the simile qualified as párijmā ‘encompassing’ has been variously identified: Geldner (sim. Lüders) Vāyu, Renou the sun or Agni solaire, Grassmann Agni himself. By contrast, I supply ‘household’ (gáya-), on the basis of nearby VI.2.8, where Agni is said to be párijmeva … gáyaḥ “encompassing like a household” (on which see comm. ad loc.). This simile would play on Agni’s well-known connection to the domestic sphere. The point of comparison is that the household is the unit that controls the wealth of its members. I supply “over treasure” on the basis of rátnam in pāda a; kṣayasi in b needs a gen. complement to parallel the simile in c: mitró ná bṛhatá ṛtásya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art our Bhaga to send wealth thou dwellest, like circumambient air, with wondrous splendour.  
      Friend art thou of the lofty Law, like Mitra, Controller, Agni! God! of many a blessing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist unser Bhaga, denn du bringst Lohn zum Genießen. Wie der umziehende Vayu herrschest du von vollkommenem Glanze, du wie Mitra über das hohe Gesetz, o Agni; du bist der Verteiler vielen Gutes, o Gott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist uns Bhaga; denn nach Schätzen streb' ich; schönglänzend herrschst du gleich dem Allumwandler; Wie Mitra bist du, Agni, gross an Werken, o Gott, und vieles schönen Guts Vertheiler.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты для нас Бхага: ведь ты посылаешь сокровище.  
 Словно странствующее кругом (солнце), ты правишь, о (бог) с чудесным блеском,  

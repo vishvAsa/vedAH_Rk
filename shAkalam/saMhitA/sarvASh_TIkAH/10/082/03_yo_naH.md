@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नः पिता꣡ जनिता꣡ यो꣡ विधाता꣡  
 धा꣡मानि वे꣡द भु꣡वनानि वि꣡श्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तं꣡ सम्प्रश्न꣡म् भु꣡वना यन्ति अन्या꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यः । दे॒वाना॑म् । ना॒म॒ऽधाः । एकः॑ । ए॒व । तम् । स॒म्ऽप्र॒श्नम् । भुव॑ना । य॒न्ति॒ । अ॒न्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -131,7 +131,7 @@ popular
 **यः** विश्वकर्मा **नः** अस्माकं **पिता** पालयिता । न केवलं पालकः किंतु **जनिता** उत्पादकः। किमनेनास्माकमुत्पादक इति संकोचेन । **यो** **विधाता** सर्वस्य जगत उत्पादको यो विश्वकर्मा  नोऽस्माकमुत्पन्नानि **धामानि** देवानां तेजःस्थानानि **वेद** वेत्ति । किं बहुना । **विश्वा** विश्वानि **भुवना** भूतजातानि वेद वेत्ति । **यः** च **देवानाम्** अग्निवाय्वादीनां **नामधाः** नाम्नां धाता इन्द्रादीन्निर्माय तेषामिन्द्रादि नाम कृत्वा तत्तत्पदेषु स्थापयिता **एक** **एव** । **तं** देवम् **अन्या** अन्यानि **भुवना** भूतजातानि **प्रश्नं** कः परमेश्वर इति पृच्छां **यन्ति** प्राप्नुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,30 +142,30 @@ popular
 I.e., to ask, 'who isthe supreme lord?' or, they ask, what their offices are, and he appoints them their several functions
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To him who is our father and progenitor, who is the vast distributor, who  knows the domains and living beings, all of them,  
 who is the giver of names to the gods, the one alone—to him go the  
 other living beings to make peace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Father who made us, he who, as Disposer, knoweth all races and all things existing,  
      Even he alone, the Deities' narne-giver,him other beings seek for information.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der unser Vater, der Erzeuger ist, der der Ordner, der alle Arten und Geschöpfe kennt, der der alleinige Namengeber der Götter ist, zu ihm kommen die anderen Geschöpfe, um ihn zu befragen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der unser Vater ist, Erzeuger, Schöpfer, der alle Stätten kennt und alle Wesen, Zu ihm, der einzig Göttern gibt die Namen, gehn hin die andern Wesen ihn zu fragen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто наш отец, родитель, кто наделитель,  
 (И) знает все состояния (и) существа,  

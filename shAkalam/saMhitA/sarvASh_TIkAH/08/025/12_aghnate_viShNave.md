@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡घ्नते वि꣡ष्णवे वय꣡म्  
 अ꣡रिष्यन्तः सुदा꣡नवे  
 श्रुधि꣡ स्वयावन् सिन्धो पूर्व꣡चित्तये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 श्रु॒धि । स्व॒ऽया॒व॒न् । सि॒न्धो॒ इति॑ । पू॒र्वऽचि॑त्तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aghnate* ← *a*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M
 पूर्वोऽर्धर्चः परोक्षकृतः । **अरिष्यन्तः** पालनवत्त्वात् केनाप्यबाधिताः **वयम्** **अघ्नते** स्तोतॄणां यष्टॄणां चाहिंसकाय **सुदानवे** शोभनदानाय **विष्णवे** स्वमहत्त्वेन सर्वव्यापकायैतन्नामकाय देवाय स्तुतिं कुर्मः । अथ प्रत्यक्षः । हे **स्वयावन्** । स्वयमेवासहायः सन् दिवि संग्रामे वा यातीति स्वयावान् । **सिन्धो** स्तोतॄन् प्रति धनानां स्यन्दनशील विष्णो **पूर्वचित्तये** । चित्तिः कर्म । मन्त्रान्तरेऽपि तथा श्रवणात् - ‘सा चित्तिभिर्नि हि चकार मर्त्यम् ' (ऋ. सं. १. १६४. २९) इति । पूर्वं प्रारब्धकर्मणे यजमानाय तदर्थं **श्रुधि** अस्माभिः क्रियमाणां स्तुतिं त्वं शृणु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,13 +103,13 @@ Sindho = stotṛn **prati** dhanānām syandanaśīla viṣṇo;
 Pūrvacittaye = prārabdhakarmaṇe yajamānāya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not suffering harm, we (sing) to Viṣṇu of good drops who does  not smite.  
 Listen, o River traveling your own course, (for us) to be first in your  thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A verb needs to be supplied for ab to be a clause. On the basis of śrudhí in c, I supply ‘sing’, but any verb of service to a divinity that takes a dative would work. Geldner “serve” (dienen), Renou, somewhat more elaborately “apportons notre prière.” Ideally we would supply sacemahi on the basis of áriṣyantaḥ … sacemahi in 11c, but √sac doesn’t accommodate this case frame. (The few exx. with dat. given by Grassmann are to be explained otherwise.)
 
@@ -124,23 +124,23 @@ This tṛca takes a break from Mitra and Varuṇa, introducing a somewhat random
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we, unharmed, serve bountiful Visnu, the God who slayeth none:  
      Self-moving Sindhu hear and be the first to mark.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten ohne Schaden dem die Erwartung nicht zerstörenden Vishnu, dem Gabenschönen dienen. Erhöre uns, du von selbst fließender Sindhu, daß wir zuerst bedacht werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Vischnu folgen unversehrt, dem Spender wir, der nicht verletzt; O höre, selbstbewegter Strom auf ersten Wink.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вишну, не уничтожающему, мы,  
 Не терпя вреда, (ему,) с прекрасными дарами (хотим служить).  

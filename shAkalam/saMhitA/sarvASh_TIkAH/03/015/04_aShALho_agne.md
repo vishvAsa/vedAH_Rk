@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡षाळ्हो अग्ने वृषभो꣡ दिदीहि  
 पु꣡रो वि꣡श्वाः सउ꣡भगा संजिगीवा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जा꣡तवेदो बृहतः꣡ सुप्रणीते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 य॒ज्ञस्य॑ । ने॒ता । प्र॒थ॒मस्य॑ । पा॒योः । जात॑ऽवेदः । बृ॒ह॒तः । सु॒ऽप्र॒नी॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aṣāḍho* ← *aṣāḍhaḥ* ← *aṣāḍha*
 - \[noun\], nominative, singular, masculine
@@ -113,7 +113,7 @@ genre M
 हे **अग्ने** **अषाळ्हः** शत्रुभिरसोढोऽपराजितः । स्वयं शत्रूञ्जयतीत्यर्थः । **वृषभः** कामानां वर्षयिता एवंभूतस्त्वं **विश्वाः** सर्वाः **पुरः** शत्रूणां पुरीः **सौभगा** तत्रत्यानि शोभनान्युत्तमानि धनानि च **संजिगीवान्** सम्यक् जयन् **दिदीहि** सर्वतो ज्वालाभिर्दीप्यस्व । **सुप्रणीते** शोभनप्रणयने **जातवेदः** जातप्रज्ञ हे अग्ने **बृहतः** उपदिष्टातिदिष्टद्विविधेतिकर्तव्यताकलापेन महतः **पायोः** तत्फलप्रदानेन रक्षकस्य **प्रथमस्य** मुख्यतया प्रथमं क्रियमाणस्य । ‘ एष वाव प्रथमो यज्ञो यज्ञानां यज्योतिष्टोमः' इति श्रुतेः । तादृशस्य ज्योतिष्टोमाख्यस्य **यज्ञस्य** **नेता** हविर्वहनदेवताह्वानादिक्रियाया निर्वाहको भव ॥ अषाळ्हः । ‘ षह मर्षणे' अस्य निष्ठायां ' हो ढः' इति ढकारः । झषस्तथोर्धोऽधः' इति क्तस्य धकारः । ष्टुत्वेन ढः । ढलोपे कृते ‘ढ्रलोपे पूर्वस्य दीर्घः' इति दीर्घः । ओत्वाभावश्छान्दसः । ‘ सहेः साडः सः' इति सकारस्य मूर्धन्यादेशः । अव्ययपूर्वपदप्रकृतिस्वरे नञ्स्वरः । वृषभः । वृष सेचने'।' ऋषिवृषिभ्यां कित्' इत्यभच् । चित्स्वरः । दिदीहि ॥ दिवु क्रीडादौ इत्यस्य यङ्लुकि लोटो मध्यमैकवचने ' संज्ञापूर्वको विधिरनित्यः' इत्यभ्यासस्य गुणाभावः । ‘ सर्वे विधयश्छन्दसि विकल्प्यन्ते' इति ‘पूर्वत्रासिद्धम्' इत्यस्याप्रवृत्तौ परत्वात् ‘हलि च' इति दीर्घत्वम् । पश्चात् वलोपः । सौभगा । ‘सुभगान्मन्त्रे" ' इत्युद्गात्रादिषु पाठाद्भावार्थेऽञ् । ‘ हृद्भगसिन्ध्वन्ते' इति पूर्वपदस्य वृद्धिः । उत्तरपदस्य वृद्धिर्न भवति सर्वविधीनां छन्दसि विकल्पितत्वात् । ‘सुपां सुलुक् ' इति सुपो डादेशः । तेन च सौभाग्येन धनान्युपलक्ष्यन्ते । ञित्त्वादाद्युदात्तः। संजिगीवान् । **जि** जये ' । छन्दसि लिट् । तस्य क्वसुः । 'सन्लिटोर्जेः' इति कवर्गादेशः । प्रत्ययस्वरः । दीर्घश्छान्दसः । पायोः । ‘पा रक्षणे '। ‘कृवापाजिमि°' इत्यादिना उण्प्रत्ययः । ‘ आतो युक् चिण्कृतोः' इति युगागमः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,34 +124,34 @@ genre M
 The first great preserving sacrifice: of the **jyotiṣṭoma** which is the first and the most important of sacrifices
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Shine, Agni, as the invincible bull having conquered all the fortresses and  their good possessions,  
 and as the leader of the sacrifice and of its foremost, lofty protector, o  Jātavedas of good guidance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Shine forth, a Bull invincible, O Agni, winning by conquest all the forts and treasures,  
      Thou Jatavedas who art skilled in guiding, the chief high saving sacrifice's Leader.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Shine, O Agni, thou the invincible bull, who hast conquered all strongholds and all delights, the leader of the first, the protecting 1, mighty sacrifice, O Gâtavedas, best guide.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Leuchte, o Agni, als der unbezwungene Bulle, der du alle Burgen und Glücksgüter erobert hast, als Leiter des Opfers, des ersten Schutzgeistes, o Jatavedas, des hohen, du guter Führer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als unbesiegter Held erstrahl, o Agni, erobernd alle Burgen sammt den Schätzen, Schönleitend du, o Wesenkenner, Führer des ersten, grossen, schutzverleih'nden Opfers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, (ты-) неодолимый бык, воссияй,  
 Завоевав все крепости (и) блага!  

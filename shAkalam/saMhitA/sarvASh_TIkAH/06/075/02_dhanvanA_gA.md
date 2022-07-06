@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध꣡न्वना गा꣡ ध꣡न्वनाजिं꣡ जयेम  
 ध꣡न्वना तीव्राः꣡ सम꣡दो जयेम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ध꣡न्वना स꣡र्वाः प्रदि꣡शो जयेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 धनुः॑ । शत्रोः॑ । अ॒प॒ऽका॒मम् । कृ॒णो॒ति॒ । धन्व॑ना । सर्वाः॑ । प्र॒ऽदिशः॑ । ज॒ये॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhanvanā* ← *dhanvan*
 - \[noun\], instrumental, singular, neuter
@@ -121,7 +121,7 @@ popular
 **धन्वना** चापेन **गाः** शत्रूणां जयेम वयं वशीकरवाम । **धन्वना** **आजिं** संग्रामं च जयेम । **धन्वना** **तीव्राः** उद्धताः **समदः** अत्यन्तं मदवतीः शत्रुसेनाश्च **जयेम** । तथा च यास्कः -  ‘ समदः समदो वात्तेः संमदो वा मदतेः ' (निरु. ९.१७) इति । **धनुः** शत्रोः  **अपकामं** कामस्यापायं **कृणोति** करोतु । किंच **धन्वना** वयं **सर्वाः** **प्रदिशः** सर्वासु दिक्षु वर्तमानान् शत्रून् **जयेम** । प्रदिक्शब्दो लक्षणया तत्स्थेषु पुरुषेषु वर्तते मञ्चा: क्रोशन्तीतिवत् । धन्वञ्शब्दस्य जयतेश्चावृत्तिरादरार्था ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,36 +132,36 @@ popular
 Exulting: **samadaḥ**: sa, with; **amda**, exhilaration; or, sam, entirely; ad, who devours (**Nirukta** 9.17, 9.18)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the bow may we win cattle, with the bow the contest, with the bow  may we win the sharp battles.  
 The bow banishes the (battle-)lust of our rival. With the bow may we  win all the quarters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. displays the proper RVic distribution of the suppletive stem of ‘bow’, whose nom./acc. sg. is supplied by dhánus- and the rest of its paradigm (and cmpding forms) by dhánvan-. On this suppletion see AiG III.318 and esp. the detailed disc. of Hoffmann (Aufs. I.330 = Spr. 20 [1974] 18), as well as EWA s.v. dhánuṣ-. Here the instr. sg. dhánvanā opens pādas a, b, and d (and see loc. dhánvan in the next vs. 3c), while nom./acc. sg. dhánuḥ holds the same position in c. Grassmann identifies a single occurrence of dhánva as nom./acc. sg. (V.7.7), which would thus violate the suppletive pattern, but this is otherwise universally and rightly assigned to the homonymous stem dhánvan- ‘wasteland’. The form dhánva (or quite possibly dhánvā) in II.33.10 is identified by Grassmann as a pl., which would fit the suppletive paradigm. It is generally, however, taken as a sg., which would not. However, see comm. ad II.33.10, where I now suggest restoring Grassmann’s pl. interpr., contra the standard sg. renderings incl. that of the published translation The RV suppletive pattern is soon broken: already in the AV dhánus- begins to acquire oblique forms.
 
 Technically speaking, dhánuḥ could be an acc., modified by apakāmám (if this stem can be adjectival; see below), which could be tr. “he makes the bow of his rival lose its desire,” but this requires supplying a generic animate subject for kṛṇoti. The stem apakāmá-, again a hapax in the RV but found elsewhere in early Vedic, is generally taken as a noun (Geldner’s ‘Unlust’ being the best rendering), but I think it possible that it’s a nominalized bahuvrīhi ‘having desire gone/away’; there are not enough stems of this structure to anchor the grammatical value to accentual behavior, in my opinion. In any case, lacking the useful German ‘Unlust’, I have tr. as if we had a lexeme *ápa √kṛ ‘make (go) away’, with kā́ma- as obj. Cf. ápa-ā́√kṛ in passages like nearby VI.59.8 ápa dvéṣāṃsy ā́kṛtam “make hatreds stay far away” (≅ III.16.5). (Grassmann identifies one instance of an ápa √kṛ, in VIII.18.7, but the verb and preverb there belong to separate constituents; see comm. ad loc.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With Bow let us win kine, with Bow the battle, with Bow be victors in our hot encounters.  
      The Bow brings grief and sorrow to the foeman: armed with the Bow may we subdue all regions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem Bogen wollen wir Rinder, mit dem Bogen die Schlacht gewinnen, mit dem Bogen die heftigen Kämpfe gewinnen. Der Bogen macht dem Feinde Unlust, mit dem Bogen wollen wir alle Weltgegenden gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Bogen lässt uns Rind und Preis gewinnen, gewinnen auch die heissentbrannten Schlachten; Der Bogen schafft dem Feinde banges Grauen, durch ihn wird Sieg uns über alle Lande.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С луком (пусть завоюем мы) коров, с луком пусть выиграем бой!  
 С луком пусть выиграем жаркие сражения!  

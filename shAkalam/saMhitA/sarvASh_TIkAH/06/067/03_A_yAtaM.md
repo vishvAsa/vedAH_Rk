@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यातम् मित्रावरुणा सुशस्ति꣡  
 उ꣡प प्रिया꣡ न꣡मसा हूय꣡माना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 छ्रुधीयत꣡श् चिद् यतथो महित्वा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सम् । यौ । अ॒प्नः॒ऽस्थः । अ॒पसा॑ऽइव । जना॑न् । श्रु॒धि॒ऽय॒तः । चि॒त् । य॒त॒थः॒ । म॒हि॒ऽत्वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -118,21 +118,21 @@ genre M
 हे मित्रावरुणौ **सुशस्ति** शोभनशंसनं **नमसा** अन्नेन हविषा स्तोत्रेण वा **हूयमाना** स्तूयमानौ वा **प्रिया** विश्वस्य प्रियौ **उप** **आ** **यातम्** उपागच्छतम् । **यौ** महित्वा महत्त्वेन युक्तौ युवां **श्रुधीयतः** श्रुधिमन्नं यशो वात्मन इच्छतो **जनान्** **अप्नःस्थः** कर्मण्यधिकृतः पुरुषः ।  ‘ अपः अप्नः' इति कर्मनामसु पाठात् । **अपसेव** कर्मणेव **सं** **यतथः** संयच्छथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Mitra** and **Varuṇa**, beloved by all, and invoked with reveence to the propitious ite, you who by your bounty support men labouring for sustenance as a work man (maintains himself) by work.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive hither, Mitra and Varuṇa, dear ones being called to (the ritual  grass) with good recitation, with homage.  
 You two who like industrious workers firmly (control) (even) the peoples  ensconced in prosperity, you set in their place even those (who  
 themselves say) “listen!” [=bosses], with your greatness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the connection of the first hemistich, and esp. b, with 2ab, esp. b, see comm. on the preceding vs. Here, since Mitra and Varuṇa are subjects, the pass.
 
@@ -152,23 +152,23 @@ Neisser, takes it as the designation of a group of people distinct from the gene
 The denom. śrudhīyá- is, by most accounts (see Oldenberg, Renou), but not by Geldner’s (see n. 3d), built to the 2nd sg. impv. śrudhí ‘listen!’. It is an acc. pl. part. The question is what sense it is conveying. Grassmann glosses ‘gehorsam sein’, but since even (cid) this group of people is put in its place by M+V with their greatness (mahitvā́), it is unlikely that they were already obedient. Oldenberg (see also Renou) suggests that it is people who address M+V with this impv., perhaps indicating that they stand in a close or privileged relationship with those gods. I think rather that it may refer to people powerful enough to command obedience from other men through such peremptory commands. They would then be similar in stature to the apnastháḥ: two sets of people used to getting their own way (rich and demanding), who have to submit to M+V.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither, Mitra-Varuna, invited with eulogies and loving adoration,  
      Ye who with your might, as Work-Controllers, urge even men who quickly hear to labour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet her, Mitra und Varuna, die Beliebten, mit schöner Rede unter Verneigung hergerufen, die die Menschen zusammenhalten wie Werkmeister die Lohnarbeiter. Ihr gebet durch eure Größe auch den Gehorsam Verlangenden ein gutes Beispiel
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her zum Preislied, Varuna und Mitra, herbeigerufen demuthsvoll, ihr lieben, Die, wie der Herr zur Arbeit seine Leute, ihr mächtig alle, die euch folgen, antreibt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходите, о Митра-Варуна, как любимые,  
 Призываемые прекрасной речью с поклонением,  

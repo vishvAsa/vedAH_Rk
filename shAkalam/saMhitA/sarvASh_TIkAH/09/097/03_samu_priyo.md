@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् उ प्रियो꣡ मृज्यते सा꣡नो अ꣡व्ये  
 यश꣡स्तरो यश꣡सां क्षइ꣡तो अस्मे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒भि । स्व॒र॒ । धन्व॑ । पू॒यमा॑नः । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M;; repeated line
 यशसां यशस्विनाम्मध्ये यशस्तरः अतिशयेनयशस्वी क्षैतः क्षितौभवः प्रियः प्रीणयिता सोमः सानौ समुच्छ्रिते अव्ये अविमये पवित्रे अस्मे अस्मदर्थं सम्मृज्यते ऋत्विग्भिः परिपूयते । उ अवधारणे । पूयमानस्त्वं धन्वान्तरिक्षे अभिस्वर अभितः शब्दय यूयं पूजायां बहुवचनं हे सोम त्वं नोस्मान् स्वस्तिभिः कल्याणतमैः पालनैः सदा सर्वदा पात रक्षत पालयत ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,13 +127,13 @@ genre M;; repeated line
 Sound aloud: **dhanvā** = imperative of dhanv
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The dear one is groomed on the sheep’s back, the more glorious of the  glorious ones, a fellow countryman at our side.  
 Cry out, run, as you are being purified. – Do you protect us always with  your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 pūṣéva dhījávano ‘si soma, which is, of course, a good arg. But Pūṣan doesn’t cut much of a figure in IX, does not really belong in this exalted company (Vāyu, Mitra+Varuṇa, Indra - though see the list in IX.81.4-5), and is not an appropriate referent for the other words in this pāda: náram … ratheṣṭhā̇́m. In the sg.
 
@@ -150,23 +150,23 @@ No obvious cohesion in this tṛca, though it ends with a clan refrain.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dear, he is brightened on the fleecy summit, a Prince among us, nobler than the noble.  
      Roar out as thou art purified, run forward. Do ye preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Liebling wird auf dem Schafrücken geputzt, der Geehrtere unter den Geehrten, unser Landsmann. Rausche zu, rinne, wann du geläutert wirst! - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf wollnem Gipfel wird geklärt der liebe, der Fürst bei uns beliebter als beliebte, Ergiesse dich und ströme, du geklärter, Behütet ihr uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приятного начищают все вместе на спине у (сита) из овечьей шерсти,  
 Почтенного из почтенных, предводителя среди нас.  

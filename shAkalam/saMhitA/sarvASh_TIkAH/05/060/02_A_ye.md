@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ये꣡ तस्थुः꣡ पृ꣡षतीषु श्रुता꣡सु  
 सुखे꣡षु रुद्रा꣡ मरु꣡तो र꣡थेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृथिवी꣡ चिद् रेजते प꣡र्वतश् चित्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वना॑ । चि॒त् । उ॒ग्राः॒ । जि॒ह॒ते॒ । नि । वः॒ । भि॒या । पृ॒थि॒वी । चि॒त् । रे॒ज॒ते॒ । पर्व॑तः । चि॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,20 +129,20 @@ genre M
 **ये** **मरुतः** **रुद्राः** रुद्रपुत्राः **आ** **तस्थुः** आतिष्ठन्ति **पृषतीषु** मरुतां वाहनेषु **श्रुतासु** श्रान्तासु प्रसिद्धासु वा **सुखेषु** । खमाकाशं छिद्रम् । शोभनरथाक्षद्वारेषु **रथेषु** रथान् आ तस्थुः आतिष्ठन्ति । हे **उग्राः** उद्गूर्णबला मरुतो यूयं यदा रथमारूढाः स्थ तदानीं **वना** **चित्** वनान्यपि **नि** **जिहते** न्यग्गच्छन्ति **वः** युष्माकं **भिया** भीत्या । **पृथिवी** **चित्** पृथिव्यपि **रेजते** । **पर्वतश्चित्** पर्वतोऽपि रेजते कम्पते । उत्तरार्ध: प्रत्यक्षकृतः । पूर्वार्धे य एवमकुर्वन् तेषां स्तोममृध्यामिति पूर्वत्रान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fierce **Maruts**, sons of **Rudra**, who ride in easy chariots (drawn by) celebrated steeds, (at your coming) the woods bow down with fear, the earth tremles, and the mountains (shake).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who have mounted on the famed dappled mares, on the well-naved  chariots—the Rudras, the Maruts—  
 even the trees duck down with fear of you, powerful ones. Even the earth  trembles, even the mountain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The parallelism between the two loc. phrases pṛ̥ṣatīṣu śrutā́su (a) and sukhéṣu … rátheṣu (b) seems clear, but this entails that the Maruts are mounted both on their horses and on their chariots. This is a price that most tr. are willing to pay, but Renou avoids it at the price of the parallelism, by attaching the dappled females to the chariots: “… qui sont montés sur les chars aisés conduit par les (antilopes) tachetées.” Since the Maruts are clearly astride horses in the next hymn, V.61.3, I think we can have them there here as well.
 
@@ -160,23 +160,23 @@ Note the concatenation: 2d … párvataś cit# // 3a #párvataś cit … The two
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Maruts, yea, the Rudras, who have mounted their famous spotted deer and cars swift-moving,-  
      Before you, fierce Ones! woods bow down in terror: Earth, even the mountain, trembles at your coming.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Rudrasöhne, die Marut, die die berühmten Schecken bestiegen haben und ihre leichten Wagen - aus Furcht bekommen, selbst des Himmels Rücken bebt selbst die Erde, selbst das Gebirge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn sie bestiegen die gepriesnen Hirsche und schnellen Wagen, sie, die lichten Maruts, Dann bücken sich aus Furcht vor euch die Wälder, die Erde selbst erbebt und das Gebirge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) Рудры, Маруты, что взошли на (свои)  
 Легкоходные колесницы, (влекомые) прославленными пестрыми (антилопами) –  

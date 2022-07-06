@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृ꣡षुम् पवाकं꣡+ वनि꣡नं वि꣡चर्षणिं  
 रुद्र꣡स्य सूनुं꣡ हव꣡सा गृणीमसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ऋजीषि꣡णं वृ꣡षणं सश्चत श्रिये꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 र॒जः॒ऽतुर॑म् । त॒वस॑म् । मारु॑तम् । ग॒णम् । ऋ॒जी॒षिण॑म् । वृष॑णम् । स॒श्च॒त॒ । श्रि॒ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛṣum* ← *ghṛṣu*
 - \[noun\], accusative, singular, masculine
@@ -107,7 +107,7 @@ genre M
 **घृषुं** शत्रूणां बलस्य घर्षकं विनाशयितारं **पावकं** सर्वेषां शोधकं **वनिनम्** । वनमित्युदकनाम । उदकवन्तम् । वृष्टिप्रदमित्यर्थः । **विचर्षणिं** विशेषेण सर्वस्य द्रष्टारं **रुद्रस्य** महादेवस्य **सूनुं** पुत्रभूतम् । एवंविधं मरुतां समूहं **हवसा** आह्वानसाधनेन स्तोत्रेण **गृणीमसि** शब्दयामः । स्तुम इत्यर्थः । हे ऋत्विग्यजमानाः यूयमपि **श्रिये** ऐश्वर्याय धनार्थं **मारुतं** **गणं** मरुतां संघं **सश्चत** प्राप्नुत । कीदृशम् । **रजस्तुरं** पार्थिवस्य पांसोस्त्वरयितारं प्रेरकमित्यर्थः। **तवसं** प्रवृद्धं **ऋजीषिणम्** । तृतीयसवने हि मरुतः स्तूयन्ते तत्र च ऋजीषमभिषुण्वन्तीति ऋजीषसंबन्धः श्रुतः । अतस्तद्वन्तं **वृषणं** कामानां वर्षितारम् ॥ हवसा । ह्वेञः असिप्रत्यये बहुलं छन्दसि' इति संप्रसारणम् । गृणीमसि । **गॄ** शब्दे । इदन्तो मसिः ।  ‘ प्वादीनां ह्रस्वः' इति ह्रस्वत्वम् । रजस्तुरम् । रजांसि तुतोर्तीति रजस्तूः ।  ‘ तुर स्वरणे'। क्विप् च ' इति क्विप् । वृषणम् । वा पपूर्वस्य निगमे ' इति दीर्घाभावः । सश्चत ॥ ग्लच्च षस्ज गतौ ' इत्यत्र सश्चिमप्येके इति धातुवृत्तावुक्तम् । गतिकर्मसु च सश्चतीति पठितम् । श्रिये ।  ‘ सावेकाचः' इति विभक्तेरुदात्तत्वम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,35 +118,35 @@ genre M
 Receiving libations from sacred vessels: ṛjiṣiṇam abhiṣunv.vanti, they (the priests) pour the **soma** into the vessel. ṛjiṣam = a frying-pan; in context, is means any sacrificial vessel
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ardent, pure, winning, unbounded offspring of Rudra do we hymn  with an invocation.  
 The space-traversing, powerful Marut flock, possessing the silvery  
 drink, bullish—follow it for splendor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The word sūnú- ‘son’ in the singular takes one aback in a hymn devoted to celebrating the very plural Maruts. It clearly refers to the ‘flock’ (gaṇá-) in pāda c, but I have tr. ‘offspring’ to avoid the misleading “we hymn the son of Rudra…”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The progeny of Rudra we invoke with prayer, the brisk, the bright, the worshipful, the active Ones  
      To the strong band of Maruts cleave for happiness, the chasers of the sky, impetuous, vigorous.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die kampflustige, lautere, sieggewohnte, ausgezeichnete Söhneschar des Rudra feiern wir mit Anruf. An die Marutschar, die die Lüfte durcheilt, an die starke, die den Trestersoma bekommt, an die bullige schließt euch an, um den Vorrang zu gewinnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die lust'gen Flammer, sie die muntern, spendenden, des Rudra Söhne preisen wir mit unserm Ruf, Die Marutschar die starke, Luft durchdringende, die vorwärts strebt, die kräft'ge ehrt zu eurem Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бодрых, очищающих, победоносных, очень подвижных  
 Сыновей Рудры мы воспеваем, призывая.  

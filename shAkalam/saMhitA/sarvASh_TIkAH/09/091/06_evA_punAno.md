@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ पुनानो꣡ अपः꣡ सु꣡वर् गा꣡  
 अस्म꣡भ्यं तोका꣡ त꣡नयानि भू꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जियो꣡ङ् नः सू꣡र्यं दृश꣡ये रिरीहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शम् । नः॒ । क्षेत्र॑म् । उ॒रु । ज्योतीं॑षि । सो॒म॒ । ज्योक् । नः॒ । सूर्य॑म् । दृ॒शये॑ । रि॒री॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 हे सोम **एव** एवं **पुनानः** पूयमानः पवित्रादिभिः **अस्मभ्यं** **रिरीहि** प्रापय प्रयच्छ । किं तत्। **अपः** । अप इत्यन्तरिक्षनाम । आप्नोति सर्वमपि । अन्तरिक्षं **स्वः** स्वर्गं द्युलोकं **गाः** । सर्वैर्गम्यतेऽत्रेति गावः पृथिव्यः । ताः पृथिवीश्च **भूरि** । ' सुपां सुलुक्' इति द्वितीयाया लुक् । बहून् **तोका** पुत्रान् **तनयानि** । तन्वन्ति कुलमिति तनयाः पौत्राः । तांश्च तथा **नः** अस्मभ्यं **क्षेत्रं** **शं** सुखकरं कुरु । हे **सोम** **ज्योतींषि** नक्षत्राणि **उरु** उरूणि अन्तरिक्षे विस्तीर्णानि कुरु । तथा **नः** अस्मभ्यं **सूर्यम्** आदित्यं **ज्योक्** । चिरनामैतत् । चिरकालं **दृशये** द्रष्टुं कुरु ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ genre M
 Diffuse the luminaries widely: uru = urūṇi related to jyotiṃṣi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming purified in just this way, (grant) waters, the sun, and cattle to  us, and ample progeny and posterity,  
 luck, broad dominion, and lights to us, o Soma—grant that we may see  the sun for a long time.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So purifying thee vouchsafe us waters, heaven's light, and cows, offipring and many children.  
      Give us health, ample land, and lights, O Soma, and grant us long to look upon the sunshine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also dich läuternd schenke uns Wasser, Sonnenlicht, Kühe, viele leibliche Kinder; schenke uns Glück, weite Flur, Lebenslicht, o Soma, laß uns noch lange die Sonne sehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schenke du, hell leuchtender, uns Wasser, uns Glanz und Kühe, Kinder viel und Enkel, Uns weites Feld, uns Segen, hellen Lichtschein, dass lange wir die Sonne sehn, o Soma!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так очищаясь, дай нам воды, солнце,  
 Коров, много детей и внуков!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चनिष्टं꣡ देवा ओ꣡षधीषु अप्सु꣡  
 य꣡द् योगिया꣡ अश्न꣡वैथे ऋ꣡षीणाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु पू꣡र्वाणि चख्यथुर् युगा꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पु॒रूणि॑ । रत्ना॑ । दध॑तौ । नि । अ॒स्मे इति॑ । अनु॑ । पूर्वा॑णि । च॒ख्य॒थुः॒ । यु॒गानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *caniṣṭaṃ* ← *caniṣṭam* ← *can*
 - \[verb\], dual, Aorist inj. (proh.)
@@ -114,7 +114,7 @@ genre M
 हे **देवा** देवौ युवाम् **ओषधीषु** ओषधिविकारांश्चरुपुरोडाशादिकान् **अप्सु** सोमरसान् **चनिष्टम्** । अत्यन्तकमनीयतमं कामयेथामित्यर्थः। **यत्** यस्मात् **योग्याः** युवयोरुचिता ओषधीरपश्च **ऋषीणां** संबन्धिनीः **अश्नवैथे** व्याप्नुथः तस्मादस्मदीया अपि कामयेथामित्यर्थः । यद्वा । ऋषीणामस्माकमिति पूजार्थं बहुवचनम् । यद्यस्मादोषधीष्वप्सु च चनिष्टं योग्याः स्तुतीश्चाश्नवैथे तस्मात् **अस्मे** अस्मासु **पुरूणि** बहूनि **रत्ना** रमणीयानि धनानि **नि** **दधतौ** **पूर्वाणि** **युगानि** मिथुनानि जायापतिरूपाणि **अनु** **चख्यथुः** ख्यातवन्तौ । अनुकृष्टवन्तावनुग्रहार्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,30 +125,30 @@ genre M
 That which is most acceptable: i.e.the cakes of meal and the **Soma** offered in sacrifices; former couples: sacrifiers, or instrumental tutors of sacrifices,**yajamānas**, and their wives
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O gods, delight in the plants and waters when you will take on the  harness cords [=the ritual acts?] of our seers.  
 While granting many treasures to us, you two have kept in view the  
 ancient generations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Delight yourselves, ye Gods, in plants and waters when Rsis give them and ye find they suit You.  
      Enriching us with treasures in abundance ye have looked back to former generations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Habet an den Kräutern und am Wasser gefallen, ihr beide Götter, wenn ihr zu den Anstrengungen der Rishi´s kommen werdet. Indem ihr viele Kleinode bei uns hinterlasset, blicket ihr auf die früheren Zeiten zurück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So kommt, erfreut an Kräutern euch und Fluten, dass Götter ihr erlangt der Sänger Sprüche;[356] Viel reiche Schätze bei uns niederlegend, erweist ihr euch wie in vergangnen Zeiten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Радуйтесь, о два бога, растениям (и) водам,  
 Когда вы встретились с творениями риши!  

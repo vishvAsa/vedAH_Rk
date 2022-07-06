@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सजो꣡षस आदित्यइ꣡र् मादयध्वं  
 सजो꣡षस ऋभवः प꣡र्वतेभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सजो꣡षसः सि꣡न्धुभी रत्नधे꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒ऽजोष॑सः । दैव्ये॑न । स॒वि॒त्रा । स॒ऽजोष॑सः । सिन्धु॑ऽभिः । र॒त्न॒ऽधेभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sajoṣasa* ← *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
@@ -95,7 +95,7 @@ genre M
 हे **ऋभवः** **आदित्यैः** **सजोषसः** संगता यूयं **मादयध्वम्** । तथा **पर्वतेभिः** पर्ववद्भिः पर्वण्यर्च्यमानैर्देवविशेषैः **सजोषसः** मादयध्वम् । तथा च **दैव्येन** देवेभ्यो हितेन **सवित्रा** **सजोषसः** **रत्नधेभिः** रत्नानां दातृभिः **सिन्धुभिः** स्यन्दनस्वभावैर्नद्यभिमानिदेवैश्च **सजोषस:** मादयध्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,30 +106,30 @@ genre M
 With the parvatas: parvatebhiḥ; parvavadbhiḥ parvaṇyarcyamānair devaviśeṣaiḥ, deities to be worshipped at the **parvas**, certain periods of the month, such as the new and full moon
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Together with the Ādityas become exhilarated; o R̥bhus, together with  the mountains;  
 together with the divine Savitar; together with the rivers, conferring  
 treasure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rejoice in full accord with the Adityas, in concord with the Parvatas, O Rbhus;  
      In full accord with Savitar, Divine One; in full accord with floods that pour forth riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Berauschet euch einträchtig mit den Aditya´s, einträchtig mit den Bergen, ihr Ribhu´s, einträchtig mit den Belohnung bringenden Flüssen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Berauschet euch vereint mit den Aditja's, vereint, o Ribhu's, mit den hohen Bergen, Vereinigt auch mit Savitar, dem Gotte, vereint den Strömen, die da Schätze schenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Единодушные с Адитьями, опьяняйтесь,  
 Единодушные, о Рибху, с горами,  

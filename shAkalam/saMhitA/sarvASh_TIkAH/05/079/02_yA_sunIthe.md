@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ सुनीथे꣡ शौचद्रथे꣡  
 वि꣡ अउ꣡छो दुहितर् दिवः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सु꣡जाते अ꣡श्वसूनृते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 सा । वि । उ॒च्छ॒ । सही॑यसि । स॒त्यऽश्र॑वसि । वा॒य्ये । सुऽजा॑ते । अश्व॑ऽसूनृते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -112,20 +112,20 @@ genre M;; repeated line
 हे **दिवः** **दुहितः** दिवः सूर्यस्य पुत्र्युषः **या** त्वं **सुनीथे** एतन्नामके **शौचद्रथे** शुचद्रथस्थापत्ये पूर्वं **व्यौच्छः** व्यवासयस्तमांसि **सा** त्वं **सहीयसि** अतिशयेन बलवति **वाय्ये** वय्यपुत्रे **सत्यश्रवसि** मयि **व्युच्छ** तमो विवासय । उच्छी विवासे' । विवासो वर्जनम् । शिष्टमुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Daughter of heaven, who have dawned upon **Sunitha**, the son of Śucadratha, bright-born, and praised sincerely for (the gift of) horses, dawn upon the powerful son of **Vayya**, **Satyaśravas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who dawned forth at Sunītha Śaucadratha’s, o Daughter of Heaven, dawn forth at the mightier Satyaśravas Vāyya’s  
 – o well-born lady, liberal with horses.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -148,23 +148,23 @@ with 2nd ps. impvs.; see my 1992 “Vedic ‘sá figé’: An inherited sentence
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Daughter of Heaven, thou dawnedst on Sunitha Sucadratha's son,  
      So dawn thou on one mightier still, on Satyasravas, Vayya's son, high-born! delightful with thy steeds!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die du aufgeleuchtet bist über Sunitha, des Sucadratha Sohn, o Himmelstochter, leuchte du über dem mächtigeren Satyasravas Vayya auf, du Edelgeborene, Rosseschenkende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie du bei Çutscharatha's Sohn, Sunitha, Himmelstochter schienst, So leuchte bei dem stärkeren, bei Vajja's Sohn, Satjaçravas, o edle, rossereiche du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, что ярко зажигалась  
 У Сунитхи Шаучадратхи, о дочь неба,  

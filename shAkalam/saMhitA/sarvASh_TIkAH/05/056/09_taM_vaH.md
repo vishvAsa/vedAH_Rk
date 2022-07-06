@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वः श꣡र्धं रथेशु꣡भं  
 त्वेष꣡म् पनस्यु꣡म् आ꣡ हुवे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 स꣡चा मरु꣡त्सु मीळ्हुषी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यस्मि॑न् । सुऽजा॑ता । सु॒ऽभगा॑ । म॒ही॒यते॑ । सचा॑ । म॒रुत्ऽसु॑ । मी॒ळ्हु॒षी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -109,7 +109,7 @@ genre M
 हे मरुतः **वः** **शर्धं** युष्मदीयं बलं गणं **रथेशुभं** रथे शोभनं **त्वेषं** दीप्तं **पनस्युं** स्तुत्यम् **आ** **हुवे** आह्वये। **यस्मिन्** शर्धे **सुजाता** सुष्ठु प्रवृद्धा **सुभगा** शोभनभाग्यातिमहती **मीळ्हुषी** ।  ‘ मीळ्हुष्टम शिवतम' इत्यादौ दर्शनात् मीढ्वान् रुद्रः। तत्पत्नी मीळ्हुषी । **मरुत्सु** **सचा** सह **महीयते** पूज्यते **तं** शर्धमा हुवे । आपस्तम्बोऽपि रुद्रपत्नीं मीळ्हुषीसंज्ञया व्यवजहार - उत्तरया दक्षिणस्यामीशानमावाहयति लौकिक्या वाचोत्तरस्यां मीळ्हुषीं मध्ये जयन्तम् ' ( आप. गृ. २०. १-३ ) इति ॥ ॥ २० ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,13 +120,13 @@ genre M
 The rain-bestowing goddess: mīḷhuṣī is another name of **Rodasi**, the wife of Miḍhvat, an appellation of **Rudra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This troop of yours, beauty on the chariot, vibrant, inviting admiration  do I call here,  
 in which the noble, well-portioned (Rodasī) shows her greatness, the  generous one in company with the Maruts.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/056/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -140,23 +140,23 @@ Geldner’s acceptance of Sāyaṇa.’s interpr. of mīḷhuṣī́as the name 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call that brilliant band of yours, adorable, rapid on the car  
      Whereon the bounteous Dame, auspicious, nobly born, shows glorious with the Marut host.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe eure Heerschar, die zu Wagen prunkende, schreckhafte, beifalliebende her, unter der die edelgeborene, holde Rodasi bei den Marut sich geehrt fühlt, die Milhusi, die Gnädige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich rufe eure schnelle Schar, die schöne wagenglänzende, Bei der die holde, hochgeborne, selige sich mit den Maruts herrlich zeigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я призываю эту вашу толпу,  
 Красующуюся на колеснице, неистовую, удивительную,  

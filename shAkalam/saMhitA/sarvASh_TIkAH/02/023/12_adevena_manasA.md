@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡देवेन म꣡नसा यो꣡ रिषण्य꣡ति  
 शासा꣡म् उग्रो꣡ म꣡न्यमानो जि꣡घांसति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 नि꣡ कर्म मन्युं꣡ दुरे꣡वस्य श꣡र्धतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृह॑स्पते । मा । प्रण॑क् । तस्य॑ । नः॒ । व॒धः । नि । क॒र्म॒ । म॒न्युम् । दुः॒ऽएव॑स्य । शर्ध॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adevena* ← *a*
 - \[adverb\]
@@ -131,36 +131,36 @@ genre M
 यःपुमान् अदेवेनदेवानमन्यमानेन यद्वाआसुरव्रुत्तिविशिष्टेनमनसास्मान् रिषण्यति हिनस्ति दुर स्युर्द्रविणस्युर्वृषण्यतिरिषण्यतीतिनिपातितः यश्चोग्रः पापचित्तः मन्यमानः आत्मानं बहुमन्यमानः पुमान् शासां उक्थस्यशंसितारं यद्वा अस्माकमाशंसांशसितॄणां उग्रइतिवायोजनीयं अस्मान् जिघां सतिहन्तुमिच्छति हन्तेःसनिअज्झनगमांसनीतिदीर्घः हेबृहस्पते तस्यवधः वध्यतेनेनेतिवधआयुधं नोस्मान् मापृणक् मासम्पर्कयतु पृचीसम्पर्के श्नम् विकरणी व्यत्ययेनअमागमः चादिलोपेइतिननिघातः व्यत्ययेनाद्युदात्तः किञ्च दुरेवस्यदुष्टगमनस्यशर्धतोबलवतः यद्वा दुष्टाभिसन्धेःवेगङ्कुर्वतः तस्यमन्युं क्रोधञ्ज्ञानंवानिकर्म त्वत्प्रसादान्निराकुर्मश्च ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not, **Bṛhaspati**, the murderous (weapon) of that man reach us, who, with unrighteous mind, seeks to harm us; who, fierce and arrogant, designs to kill (your) worshippers; may we baffle the wrath of the strong evil-doer\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, through his godless thinking, intends harm and, thinking himself  powerful in his commands, tries to smash us—  
 o Br̥haspati, let his deadly weapon not reach us and let us thwart the  fury of the evil-doer who vaunts himself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso with mind ungodly seeks to do us harm, who, deeming him a man of might mid lords, would slay,-  
      Let not his deadly blow reach us, Brhaspati; may we humiliate the strong ill-doer's wrath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer mit gottlosem Sinne Schaden stiften will, wer unter den Gebietern sich für gewaltig hält und mordlustig ist, dessen Todeswaffe soll uns, o Brihaspati nicht treffen. Wir vereiteln den bösen Eifer des Böswilligen, Vermessenen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer gottvergessnen Sinnes zu beschäd'gen sucht, und wer den Sänger, stark sich dünkend, tödten will, Brihaspati, nicht treffe dessen Waffe uns, lass tilgen uns den Zorn des frechen Bösewichts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто с безбожной мыслью хочет навредить,  
 Хочет убить, считая себя грозным среди правителей, -  

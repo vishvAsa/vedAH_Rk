@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् न इ꣡न्द्रस् त꣡द् व꣡रुणस् त꣡द् अग्नि꣡स्  
 त꣡द् अर्यमा꣡ त꣡त् सविता꣡ च꣡नो धात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -151,36 +151,36 @@ genre M;; repeated line
 यदस्माभिः प्रार्थ्यमानमन्नमस्ति । चन इत्यन्ननाम । **तत्** तादृशं **चनः** अन्नं **नः** अस्मभ्यम् **इन्द्रः** **धात्** दधातु ददातु । एवं **तद्वरुणः** इत्यादावपि योज्यम् । तत् इदमिन्द्रादिभिर्दत्तमस्मदीयमन्नं मित्रादयः **ममहन्तां** पूजयन्तु पालयन्वित्यर्थः ॥ चनः ।  ‘ चायृ पूजानिशामनयोः । ‘चायेरन्ने ह्रस्वश्च ' ( उ. सू. ४. ६३९) इति असुन् नुडागमश्च धातोर्ह्रस्वत्वं च । वलि लोपः। नित्त्वादाद्युदात्तत्वम् । धात् । छन्दसि लुङ्लङलिटः' इति प्रार्थनायां लुङ् ।  ‘ गातिस्था' इति सिचो लुक् ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, may **Varuṇa**, may **Agni**, may **Aryaman**, may **Savitā**, bestow upon us that food (which we solicit); and may **Mitra**, Varuṇa, **Aditi**--ocean, earth and heaven, preserve it (to us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In this of ours shall Indra take delight, in this shall Varuṇa, in this Agni,  in this shall Aryaman, in this Savitar take delight.  
 – This let Mitra and Varuṇa grant to us, and Aditi, River, and Earth and  Heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This laud of ours may Varuna and Indra, Aryaman Agni, Savitar find pleasant.  
      This prayer' of ours may Varuna grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das sollen uns Indra, das Varuna, das Agni, das Aryaman und Savitri gut aufnehmen. Das sollen uns Mitra und Varuna gewähren, Aditi, Sindhu, Erde und Himmel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das mög' uns Indra, Varuna und Agni, das Arjaman und Savitar verleihen; Das mög' uns Mitra, Varuna gewähren, und Aditi, das Meer und Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В этом нас Индра, в этом Варуна, в этом Агни,  
 В этом Арьяман, в этом Савитар пусть нас удовлетворит!  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभे꣡ य꣡त् ते महिना꣡ शुभ्रे अ꣡न्धसी  
 अधिक्षिय꣡न्ति पूर꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 चो꣡द रा꣡धो मघो꣡ना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सा । नः॒ । बो॒धि॒ । अ॒वि॒त्री । म॒रुत्ऽस॑खा । चोद॑ । राधः॑ । म॒घोना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
@@ -113,7 +113,7 @@ genre M;; repeated line
 हे **शुभ्रे** शुभ्रवर्णे सरस्वति **यत्** यस्याः **ते** तव **महिना** महिम्ना **उभे** **अन्धसी** उभयविधं दिव्यं पार्थिवं चाग्निं ग्राम्यमारण्यं वा **पूरवः** पूरयितव्या मनुष्याः **अधिक्षियन्ति** अधिगच्छन्ति **सा** त्वम् **अवित्री** रक्षित्री सती **नः** अस्मान् **बोधि** बुध्यस्व । अपि च **मरुत्सखा** । मरुतो माध्यमिका देवगणाः। ते सखायो यस्या माध्यमिकाया वाचस्तादृशी त्वं **मघोनां** हविर्लक्षणधनोपेतानामस्माकं **राधः** धनं **चोद** प्रेरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,7 +124,7 @@ genre M;; repeated line
 Both kindsof food: ubhe andhasī = fires celestial and terrestrial; or if the reference is to food: grāmyam āraṇyam vā,domestic and wild
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since by your might, resplendent lady, the Pūrus preside over  
 both “stalks” [=honey and ghee? soma and surā? two banks  
@@ -133,30 +133,30 @@ become our helper, with the Maruts as companions. Stimulate the
 generosity of the benefactors.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the interpretational problem posed by du. ubhé … ándhasī “both stalks,” see published introduction. As indicated there, I do not subscribe to the interpretation that takes this as a metaphorical expression of political geography. Rather I assume that the usual sense of ándhas- ‘soma stalk’ à ‘soma’ allows the dual to refer to two liquids.
 
 Geldner (n. 2a) points out that in ŚB V.1.2.10 this dual is used for soma and surā (the profane intoxicating drink), and since in the Sautrāmaṇī ritual surā is mixed with milk, the second liquid could also be the more benign milk. Oldenberg makes a good case for the connection of soma and surā with Sarasvatī and also suggests that the formulation is meant to indicate that the Pūrus make use of profane drinks as well as soma. Renou favors soma and surā without disc. Two textual passages nearer to hand suggest other possible solutions. As was noted ad VII.95.1, 3, these two adjacent hymns to Sarasvatī, VII.95 and 96, show twinning tendencies. In VII.95.2 (that is, the vs. corresponding to this one in position) Sarasvatī milks out “ghee and milk” (ghṛtám páyaḥ) for Nāhuṣa, probably the designation of a human family group or lineage (see Mayrhofer, Personennamen s.v. náhuṣ-); here the Pūrus (another such designation) preside over two liquids, which could be those very two. Alternatively, in this same hymn, VII.96.5, Sarasvant’s waves are characterized by honey and ghee (mádhumanto ghṛtaścútaḥ), and this pair is another possibility, esp. if ‘honey’ stands for soma, as often. These two vss. (2, 5) match each other in another way; see ad vs. 5 below. In the end, Geldner’s interpr (at the end of his n.) that the Pūrus, living beside the Sarasvatī, inhabit a land rich in soma and milk seems to suggest the most likely image: whatever the two liquids are, they are indications of a place rich in nourishment -- in biblical terms, a land of milk and honey. 122 I do not know why the Maruts would be the particular companions of Sarasvatī, unless their storms swell her waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When in the fulness of their strength the Purus dwell, Beauteous One, on thy two grassy banks,  
      Favour us thou who hast the Maruts for thy friends: stir up the bounty of our chiefs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da durch deine Macht die Puru´s bei beiden Getränken wohnen, du Schöne, so sei du unsere Helferin, die mit den Marut befreundet ist. Sporne die Freigebigkeit der Lohnherren an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn deine beiden Rasenufer, Schöne du, das Volk umwohnt in grosser Kraft, So sei vereint mit Maruts, unsre Schützerin, der Fürsten Güter mehre du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Раз благодаря твоему величию, о прекрасная, обоими напитками  
 Владеют Пуру,  

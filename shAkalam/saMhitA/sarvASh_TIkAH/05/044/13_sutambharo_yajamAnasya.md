@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुतम्भरो꣡ य꣡जमानस्य स꣡त्पतिर्  
 वि꣡श्वासाम् ऊ꣡धः स꣡ धिया꣡म् उद꣡ञ्चनः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अनुब्रुवाणो꣡ अ꣡धि एति न꣡ स्वप꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 भर॑त् । धे॒नुः । रस॑ऽवत् । शि॒श्रि॒ये॒ । पयः॑ । अ॒नु॒ऽब्रु॒वा॒णः । अधि॑ । ए॒ति॒ । न । स्व॒पन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sutambharo* ← *sutambharaḥ* ← *sutambhara*
 - \[noun\], nominative, singular, masculine
@@ -121,7 +121,7 @@ genre M
 **यजमानस्य** अवत्सारस्य मम **सुतंभरः** यागनिर्वाहक एतन्नामा ऋषिः **सत्पतिः** सतां विद्यमानानां फलानां पालयिता होता भवतीत्यर्थः । **सः** च **विश्वासां** **धियां** सर्वेषां कर्मणाम् **ऊधः** उद्धततरं फलम् **उदञ्चनः** ऊर्ध्वमुद्गमयिता फलप्रापक इत्यर्थः । **धेनुः** गौः **रसवत्** सारवत् **पयः** **भरत्** अहरत् । तत्र पयः **शिश्रिये** श्रयति चास्य सामर्थ्यात् । तत्सर्वम् **अनुब्रुवाण:** अनुक्रमेण संकीर्तयन् **न** **स्वपन्** स्वापमकुर्वन् अनवरतम् **अध्येति** स्मरत्यवत्सारः। सुतंभरस्तादृश इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ The ministrant priest: sutambharo yajamānasya satpatiḥ: satpatiḥ = **hotā*
 Sutambhara = name of a ṛṣi, etymologically, the bearer or offerer of the oblation; hence, possibly a metaphorical person nation and in the context, merely describes the effusion of the **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bearing the pressed (soma) of the sacrificer, master of the settlements,  he [=poet] is the udder, the ladle of all visionary thoughts.  
 He bears the (two) milk-cows [=Heaven and Earth, or Agni and Soma];  the milk, full of sap, has been brought to perfection. The one who  
 recites following (his teacher), he learns, not the one who sleeps.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, in this last real vs. of the hymn I think the poet, who has been learning his trade, is extravagantly celebrated as the figure on whom the whole sacrifice depends and the representative of various sacrificial personnel and equipment. By contrast, Geldner and Renou once again opt for a PN, this time Sutambhara whom they consider to be the patron of the sacrifice. I take sutambharáas the transparent cmpd it appears to be, conforming to the model of other -bharátatpuruṣas (cf., with acc. 1st member, puṣṭim-bhará-, vājam-bhará-, etc.) For the underlying syntagm see VIII.66.7 sutám bhara, where the subject is a priest or similar figure (also IX.6.6 sutám bhárāya). I construe the gen. yájamānasya with the 1st member sutam, though it could also be a gen. of benefit (‘for the sacrificer’) and loosely construed with the whole cmpd. I do not think it is dependent on sátpatiḥ, pace Geldner, Renou, and Witzel Gotō.
 
@@ -158,23 +158,23 @@ Contra Narten (1987: 281) and Kümmel (p. 528), who follows her, in the publishe
 The final pāda of the vs., and thus of the hymn, brings us back, abruptly and somewhat reductively, to the poet’s training: “pay attention to your teacher; don’t nod off or go wool-gathering.” The lexemes ánu √brū and ádhi √i belong to pedagogical vocabulary (for the latter see Apālā VIII.91.3 and comm. ad loc.). The final phrase ná svapán “not the one who sleeps” provides a transition to the final two responsive verses with their insistently repested jāgāra ‘is/stays awake’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The worshipper's defender is Sutambhara, producer and uplifter of all holy thoughts.  
      The milch-cow brought, sweet-flavoured milk was dealt around. Who speaks the bidding text knows this, not he who sleeps.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sutamibhara ist der wahre Herr des Opfernden, er schöpft das Euter aller Gedanken aus. Die Kuh trägt die würzige Milch und hat sie beigemischt. Wer lernt, versteht es, nicht wer verschläft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Beschützer des Opfernden, der den Soma herbeibringt, ist aller Gebete Euter und Schöpfgefäss ; er pflegte die Milchkühe, nahm an sich die Milch, nachsprechend überlegt er nicht schlummernd.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сутамбхара – истинный повелитель жертвователя.  
 Это он черпает из вымени всех поэтических мыслей.  

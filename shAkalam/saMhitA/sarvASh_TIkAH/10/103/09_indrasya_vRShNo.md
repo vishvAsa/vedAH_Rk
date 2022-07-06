@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रस्य वृ꣡ष्णो व꣡रुणस्य रा꣡ज्ञ  
 आदित्या꣡नाम् मरु꣡तां श꣡र्ध उग्र꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घो꣡षो देवा꣡नां ज꣡यताम् उ꣡द् अस्थात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 म॒हाऽम॑नसाम् । भु॒व॒न॒ऽच्य॒वाना॑म् । घोषः॑ । दे॒वाना॑म् । जय॑ताम् । उत् । अ॒स्था॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
@@ -108,36 +108,36 @@ popular
 **वृष्णः** वर्षकस्य **इन्द्रस्य** **राज्ञः** **वरुणस्य** **आदित्यानां** **मरुतां** च **उग्रम्** उद्गूर्णं **शर्धः** बलमस्माकं भवत्विति शेषः। किंच **महामनसाम्** उदारमनसां **भुवनच्यवानां** भुवनानां च्यावयितॄणां देवानां **घोषः** जयशब्दः **उदस्थात्** उत्तिष्ठति । अनूर्ध्वकर्मत्वादात्मनेपदाभावः। ( पा. सू. १. ३. २४ ) ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(May) the mighty force of the showerer **Indra**, of the royal **Varuṇa**, of the **Ādityas** and **Maruts** (beours). The shout of the magnanimous and victorious deities, the subverters of the worlds, has arisen.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of Indra the bull and of Varuṇa the king—mighty their troop of  Ādityas and of Maruts—  
 of the great-minded, earth-shaking, conquering gods the battle-cry has  arisen.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ours be the potent host of mighty Indra, King Varuna, and Maruts, and Adityas.  
      Uplifted is the shout of Gods who conquer high-minded Gods who cause the worlds to tremble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Getöse des Bullen Indra, des Königs Varuna, der Aditya´s - der Marut gewaltige Heerschar - das Getöse der hochgemuten, welterschütternden siegenden Götter hat sich erhoben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächtig, Der hochgesinnten Welterschüttrer Schlachtlärm erhob sich nun der Götter, da sie siegten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

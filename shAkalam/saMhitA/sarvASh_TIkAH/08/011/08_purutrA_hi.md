@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरुत्रा꣡ हि꣡ सदृ꣡ङ्ङ् अ꣡सि  
 वि꣡शो वि꣡श्वा अ꣡नु प्रभुः꣡  
 सम꣡त्सु त्वा हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒मत्ऽसु॑ । त्वा॒ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purutrā*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **पुरुत्रा** **हि** बहुषु देशेषु त्वं **सदृङ्ङसि** समानं द्रष्टा भवसि । अत एव **विश्वाः** सर्वाः **विशः** प्रजा अनुलक्ष्य **प्रभुः** ईश्वरो भवसि । ईदृशं त्वां **समत्सु** संग्रामेषु रक्षणार्थं हवामहे आह्वयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,30 +96,30 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 You are lord:**Sāmaveda** has **diśaḥ** for **viśaḥ**: countries for people
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you are of the same aspect in many places, preeminent  
 throughout all the clans,  
 in combats we call upon you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art the same in many a place: mid all the people thou art Lord.  
      In fray and fightt we call on thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn vielerorts bist du der Gleiche, unter allen Stämmen der Herr. In den Kämpfen rufen wir dich an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn allenthalben bist du gleich, gebietend über jedes Volk; Dich rufen wir in Schlachten an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хоть (ты) во многих местах, (но везде) одинаков,  
 Повелевая всеми племенами,  

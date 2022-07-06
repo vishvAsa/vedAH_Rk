@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्मा꣡ ते अग्ने त्रे᳐धा꣡ त्रया꣡णि  
 विद्मा꣡ ते धा꣡म वि꣡भृता पुरुत्रा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्मा꣡ त꣡म् उ꣡त्सं य꣡त आजग꣡न्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि॒द्म । ते॒ । नाम॑ । प॒र॒मम् । गुहा॑ । यत् । वि॒द्म । तम् । उत्स॑म् । यतः॑ । आ॒ऽज॒गन्थ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -142,7 +142,7 @@ genre M
 विद्मा त इति ॥ हे अग्ने । ते तव स्वभूताति? त्रेधा त्रिषु स्थानेषु पृथिव्यामन्तरिक्षे दिवि च स्थितानि त्रयाणि त्रीणि रूपाणि अग्निवाय्वादित्याख्यानि विद्म जानीमः तथा ते सद्म सद्मानि स्थानानि विभृतं विभृतानि । हृग्रहोर्भः इति छन्दसि भः विहृतानि पुरुत्रा बहुनि वा गार्हपत्याहवनीयादीनि विद्म । तथा ते नाम परमं गुहा गूढं अविज्ञातं अवेदविद्भिः यदेवम्भूतं तव नाम तदपि वयं विद्म । तथा यतः त्वं आजगन्थ आगतवानसि तमप्युत्सं विद्म । उत्सः प्रस्रवणं स चापामुत्पत्तिस्थानमिति तेनो त्पत्तिस्थानमात्रं लक्ष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,29 +153,29 @@ genre M
 In heaven, earth and mid-air-- and as Agni, **Vāyu** and **Sūrya**-- as the household and other fires
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We know your threefold triads, Agni; we know your domains dispersed  in many places.  
 We know your highest name, which is hidden; we know the wellspring  whence you have come here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, we know thy three powers in three stations, we know thy forms in many a place divided.  
      We know what name supreme thou hast in secret: we know the source from which thou hast proceeded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir kennen deine dreimal dreierlei Formen, o Agni; wir kennen deine Formen, die vielerorts verteilt sind. Wir kennen deinen höchsten Namen, der geheim ist; wir kennen den Quell, von wannen du gekommen bist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir kennen Agni dreifach deine Dreiheit, wir kennen deine vielvertheilten Stätten, Und deinen höchsten Namen, den verborgnen; den Born auch kennen wir, von dem du ausgingst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы знаем, о Агни, твои трижды троякие (жилища).  
 Мы знаем твои жилища, распределенные по многим местам.  

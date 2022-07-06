@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मिन्न् उक्था꣡नि र꣡ण्यन्ति  
 वि꣡श्वानि च श्रवसि꣡या  
 अपा꣡म् अ꣡वो न꣡ समुद्रे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अ॒पाम् । अवः॑ । न । स॒मु॒द्रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
@@ -80,7 +80,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **यस्मिन्** इन्द्रे **उक्थानि** शस्त्राणि **रण्यन्ति** रमन्ते **विश्वानि** सर्वाणि **श्रवस्या** श्रवस्थानि श्रवणीयानि हविर्लक्षणान्यन्नानि **च** रमन्ते । तत्र दृष्टान्तः । **समुद्रे** उदधौ **अपाम्** उदकानाम् **अवो** **न** । अवति गच्छतीत्यवस्तरङ्गजालम् । तद्यथा समुद्रेऽन्तर्भवति तथा रण्यन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,33 +91,33 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 All praises: in whom (as their object) all praises, and all kinds of offspring exultingly meet
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In whom recitations find their joy, and all (deeds) worthy of fame, as the aid of the waters does in the sea.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile in c, apā́m ávo ná samudré, is hard to interpret. “The sea” corresponds to Indra in the frame and “the aid of the waters” should correspond to recitations and famous deeds, but what is the aid of the waters? Geldner suggests in passing a possible connection with avániḥ ‘stream(bed)’, but this seems based only on superficial phonological similarity, and in the end he tr. “die Gunst der Gewässer” and hopes for the best. Oldenberg suggests an emendation to apā́m *ápaḥ ‘work of the waters’, but it is hard to see how a nice alliterative phrase like that would become corrupted, and so, like Geldner, I stick to the text transmitted and the common word ávasthat it seems to contain. Perhaps the point is that, like recitations that find their joy in contributing to Indra's power, the waters take pleasure in submerging themselves in the sea, “aiding” the sea by making it bigger.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In whom the hymns of praise delight, and all the glory-giving songs.  
      Like the floods' longing for the sea.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf den die Loblieder und alle Ruhmestaten sich freuen wie die Gunst der Gewässer auf den Ozean.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, an dem sich alle Sprüche weiden und die reichen Gaben, Wie am Meere die Gewässer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В ком находят удовлетворение гимны  
 И все славные деяния,  

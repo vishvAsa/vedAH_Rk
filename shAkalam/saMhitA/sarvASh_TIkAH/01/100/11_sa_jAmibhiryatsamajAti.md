@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ जामि꣡भिर् य꣡त् सम꣡जाति मीळ्हे꣡  
 अ꣡जामिभिर् वा पुरुहूत꣡ ए꣡वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒पाम् । तो॒कस्य॑ । तन॑यस्य । जे॒षे । म॒रुत्वा॑न् । नः॒ । भ॒व॒तु॒ । इन्द्रः॑ । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -121,20 +121,20 @@ genre M;; repeated line
 **पुरुहूतः** बहुभिर्यजमानैराहूतः **सः** इन्द्रः **मीळ्हे** संग्रामे । मीळ्हम् इति धननाम् । तद्धेतुत्वात् संग्रामोऽपि मीळ्हशब्देनोच्यते । **जामिभिः** बन्धुभिः **अजामिभिर्वा** बान्धवरहितैर्वा **एवैः** युद्धार्थं मरुद्भिः सह **यत्** यदा **समजाति** संगच्छते । तेषाम् उभयविधानाम् **अपाम्** इन्द्रं प्राप्नुवतां पुरुषाणां **तोकस्य** पुत्रस्य **तनयस्य** तत्पुत्रस्य च **जेषे** जयप्राप्तये सः **इन्द्रः** भवति । किमु वक्तव्यम् अस्माकं स्तोतृतमानां जयो भवतीति । अन्यत् समानम् । समजाति । अज गतिक्षेपणयोः । लेटि आडागमः । जेषे । ' जि जये । औणादिकः सप्रत्ययः । चतुर्थ्यर्थे सप्तमी । यद्वा । ' जेषृ णेषृ प्रेषृ गतौ । क्विप् च ' इति क्विप् । ‘सावेकाचः' इति विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Invoked by many, he goes to battle with his kinsmen, or with (followers) not of his kindred; he secures the (triumph) of those who trust him, and of their sons and grandsons; may **Indra**, associated with the **Maruts**, be our protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since with his kindred or with his non-kin he will drive together (the  warriors? the spoils?) when the prize of battle (is at stake), he is  invoked by many in (many) ways  
 for the conquering of the waters, of life and lineage. – Accompanied by  the Maruts, let Indra be here for us with help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb samájāti lacks an overt object; the standard tr. supply ‘booty’.
 
@@ -143,23 +143,23 @@ This lexeme sometimes takes an acc. expressing the prize one wins (e.g., cows in
 Note how (saṃ)ájā(ti) echoes jā(míbhir) … ájā(mibhir).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When in his ways with kinsmen or with strangers he speedeth to the fight, invoked of many,  
      For gain of waters, and of sons and grandsons, may Indra, girt by Maruts, be our succour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn er mit Eifer vielgerufen mit Stammesgenossen oder Fremden im Kampfe die Beute zusammentreiben soll, wenn es sich um die Gewinnung von Wasser, von leiblichem Samen handelt - der Indra soll uns in Begleitung der Marut zu Hilfe kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn mit verwandten, wenn mit unverwandten der vielgerufne Männer treibt zum Kampfe, Zum Kampf für Wasser, Kinder und für Enkel, so mög' uns helfen, Indra mit den Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда он, многопризываемый, в борьбе с родными  
 Или неродными сгоняет (добычу) по своей воле,  

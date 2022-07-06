@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् आश꣡सा निःश꣡सा अभिश꣡सा  
 उपारिम꣡ जा꣡ग्रतो य꣡त् स्वप꣡न्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡जुष्टानि आरे꣡ अस्म꣡द् दधातु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒ग्निः । विश्वा॑नि । अप॑ । दुः॒ऽकृ॒तानि॑ । अजु॑ष्टानि । आ॒रे । अ॒स्मत् । द॒धा॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -111,7 +111,7 @@ popular
 **यत्** दुष्कृतम् **आशसा** आशंसनेनाभिलाषेण **जाग्रतः** जागरणावस्थायां वर्तमाना वयम् **उपारिम** उपगतवन्तः स्म **यत्** च **स्वपन्तः** स्वप्नावस्थां प्राप्ता उपगतवन्तः स्म । तथा **निःशसा** निःशंसनेन निर्गताभिलाषेण **अभिशसा** अभिगताभिलाषेण च कारणेनावस्थाद्वये यद्दुष्कृतमुपागच्छेम । तानि **विश्वानि** सर्वाणि **अजुष्टानि** असेव्यान्यप्रियाणि वा **दुष्कृतानि** दुष्कर्माणि **अग्निः** **अस्मत्** **आरे** अस्मत्तो दूरदेशे **अप** **दधातु** अपकृष्य स्थापयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,24 +122,24 @@ popular
 By speaking:āśasā = abhilāṣeṇa, by desire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever pass we’ve reached by hope, by blame, by curse, when awake or  sleeping.  
 let Agni put away, at a distance from us, all those things ill-done and  unpleasing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If by address, by blame, by imprecation we have committed sin, awake or sleeping,  
      All hateful acts of ours, all evil doings may Agni bear away to distant places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was wir absichtlich, unabsichtlich, in übler Absicht versehen haben, im Wachen, was im Schlafe, all diese unlieben Sünden soll Agni weit von uns wegtun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если намеренно, ненамеренно, со злым намерением  
 Мы провинились, бодрствующие или спящие,  

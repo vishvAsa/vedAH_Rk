@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे देवास आ꣡ गत  
 शृणुता꣡ म इमं꣡ ह꣡वम्  
 ए꣡द꣡म् बर्हि꣡र् नि꣡ षीदत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 आ । इ॒दम् । ब॒र्हिः । नि । सी॒द॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], vocative, plural, masculine
@@ -97,7 +97,7 @@ genre M
 विश्वेदेवासः हेविश्वेदेवाः आगत इहागच्छतमे मदीयंइमंहवमाह्वानंशृणुत इदम्बर्हिरस्मिन् बर्हिषिआनिषीदत उपविशत ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,29 +108,29 @@ genre M
 **Yajus**. 7.34
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All you gods, come here; hear this call of mine.  
 Sit down here on this ritual grass.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O all ye Gods, come hitherward: hear this mine invocation, seat  
      Yourselves upon this sacred grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter alle, kommet, erhöret diesen Ruf von mir, setzet euch auf dieses Barhis nieder!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Götter alle, kommt herbei, vernehmet diesen meinen Ruf, Und setzet euch auf diese Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Все-Боги, придите!  
 Услышьте этот мой зов!  

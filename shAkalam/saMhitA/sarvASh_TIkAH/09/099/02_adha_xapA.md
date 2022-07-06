@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध क्षपा꣡ प꣡रिष्कृतो  
 वा꣡जाँ अभि꣡ प्र꣡ गाहते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ह꣡रिं हिन्व꣡न्ति या꣡तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यदि॑ । वि॒वस्व॑तः । धियः॑ । हरि॑म् । हि॒न्वन्ति॑ । यात॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -94,20 +94,20 @@ genre M
 **क्षपा** । 'सुपां सुलुक्' इति पञ्चम्या आकारः । क्षपाया रात्रेः **अध** अनन्तरं प्रातःकाले **परिष्कृतः** । भूषणार्थे ' संपर्युपेभ्यः' इति करोतेः सुडागमः । अद्भिरलंकृतः । यद्वा । क्षपयित्र्यां सेनायामलंकृतः । सोमः **वाजान्** अन्नानि बलानि वाभिलक्ष्य **प्र** **गाहते** प्रगच्छति । **विवस्वतः** परिचरणवतो यजमानस्य **धियः** कर्मसाधनभूता अङ्गुलयः **हरिं** हरितवर्णमेतमंशुं **यातवे** पात्राण्यभिगमनाय **यदि** **हिन्वन्ति** प्रेरयन्ति तर्हि सवनानि गच्छतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Consecrated at the end of the night (the **Soma**) plural nges into the viands, when the fingers of the worshipper press out the green-tinted (juice) to go (to the vessels).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And prepared by night, he plunges toward the prizes,  
 when the insightful thoughts of Vivasvant impel him, the tawny one,  to drive.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 kṣapā́‘by night’ is somewhat surprising in the context of a soma sacrifice, since the beginning of the sacrifice is supposed to coincide with earliest morning.
 
@@ -116,23 +116,23 @@ Sāyaṇa. deals with this problem by advancing the time into morning, glossing 
 In c yádī (‘if’) should be read yád ī (‘when him’).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And he, made beautiful by night, dips forward into strengthening food',  
      What time the sacrificer's thoughts speed on his way the Golden-hued.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und bei Nacht zugerichtet, taucht er ein nach den Siegespreisen, wenn des Vivasvat Gebete den Falben zum Lauf antreiben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann in die Opfertränke taucht bei Nacht er schön geschmückt sich ein, Wenn des Vivasvat frommes Werk zum Laufe spornt den goldnen Hengst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот, приготовленный ночью,  
 Он ныряет вперед к наградам,  

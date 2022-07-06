@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभे꣡ चिद् इन्द्र रो꣡दसी महित्वा꣡  
 आ꣡ पप्राथ त꣡विषीभिस् तुविष्मः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡म् अ꣡न्धसा म꣡देषु वा꣡ उवोच
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नि । वज्र॑म् । इन्द्रः॑ । हरि॑ऽवान् । मिमि॑क्षन् । सम् । अन्ध॑सा । मदे॑षु । वै । उ॒वो॒च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
@@ -116,43 +116,43 @@ genre M
 हे **तुविष्मः** बहुधन **इन्द्र** **महित्वा** महत्त्वेन **तविषीभिः** बलैश्च **उभे** **चित्** उभे अपि **रोदसी** द्यावापृथिव्यौ **आ** **पप्राथ** आपूरितवानसि। अथ परोक्षस्तुतिः। **हरिवान्** अश्ववान् **इन्द्रः** **वज्रं** **नि** **मिमिक्षन्** शत्रुषु प्रापयन् **मदेषु** यज्ञेषु निवित्सु वा **अन्धसा** सोमेन **सम्** **उवोच** संसेव्यते संगच्छते वा ॥ ‘उच समवाये' इति धातुः । **वै** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Opulent **Indra**, you have filled both heaven and earth with your magnitutde, your energies; Indra, thelord of horses, brandishing the thunderbolt, is gratified at sacrifices by the (sacrificial) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You have filled even the two world-halves with your greatness, Indra,  with your powers, powerful one.  
 Indra of the fallow bays, holding fast to his mace, is accustomed to the  exhilarating drinks along with the stalk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again the poet plays with case disharmony, construing both inst. ándhasā and loc. mádeṣu with uvoca.
 
 Note again the apparently functionless vaí and see disc. above ad vs. 2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou with thy greatness hast filled full, O Indra, even both the worlds with might, O thou Most Mighty.  
      Lord of Bays, Indra, brandishing his thunder, is gratified with Soma at the banquet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beide Welthälften sogar hast du, Indra, mit deiner Größe erfüllt, mit deinen Kräften, du Kräftiger. Der Falbenlenker Indra, der die Keule festhält, hat sich unter den Rauschtränken gerade an den Somatrank gewöhnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Welten beide fülltest du, o Indra, mit deiner Grösse, kräftiger, mit Kräften; Dass rossbegabt den Blitz er niederschmettre, erlabte Indra sich beim Mahl am Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обе половины вселенной целиком ты, о Индра, заполнил  
 (Своим) величием, (своими) силами, о сильный.  

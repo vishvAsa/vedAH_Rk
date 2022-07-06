@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡स्मिन् ह꣡स्ते न꣡रिया मिमिक्षु꣡र्  
 आ꣡ र꣡थे · हिरण्य꣡ये रथेष्ठाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ध्वन्न् अ꣡श्वासो वृ꣡षणो युजानाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । र॒श्मयः॑ । गभ॑स्त्योः । स्थू॒रयोः॑ । आ । अध्व॑न् । अश्वा॑सः । वृष॑णः । यु॒जा॒नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 **यस्मिन्** इन्द्रे **नर्याः** नृभ्यो हिता रायः **आ** **मिमिक्षुः** आसिच्यन्ते आपूर्यन्ते । व्यत्ययेन कर्मणि कर्तृप्रत्ययः । इन्द्रे कुत्रेति चेत् । **हस्ते** तदीये बाहौ । यद्वा । एतत्समानाधिकरणमिन्द्रस्य विशेषणम् । हस्ते हन्तर्यस्मिन्निन्द्र इत्यर्थः । उक्तं यास्केन- हस्तो हन्तेः प्राशुर्हनने ' (निरु. १.७) इति । यद्वा । ईदृशे यस्मिन्निन्द्रे वर्तमाना नृहिता राय आमिमिक्षुः आसिञ्चन्ति आपूरयन्ति स्तोतॄन् । यश्चेन्द्रः **रथेष्ठाः** रथे स्थाता तत्स्वभावः सन् **हिरण्यये** सुवर्णमये **रथे** **आ** तिष्ठति । यद्वा । रथेष्ठा रथेऽवस्थिता रायो धनानि हिरण्मये रथे तिष्ठन् य इन्द्र आ सिञ्चति अभिवर्षति । यस्य च **स्थूरयोः** स्थूलयोर्विस्तृतयोः **गभस्त्योः** । बाहुनामैतत् । बाह्रोः **रश्मयः** अभीशवः **आ** सिच्यन्ते आयम्यन्ते। यस्य च **अश्वासः** अश्वाः **वृषणः** सेक्तारः युवानः **युजानाः** रथे युज्यमानाः **अध्वन्** अध्वनि मार्गे **आ** मिमिक्षुः आसिञ्चन्ति आपूरयन्ति । आगच्छन्तीत्यर्थः । तमिन्द्रं स्तुम इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,36 +129,36 @@ genre M
 In whose hand: yasmin haste; or, in whom, the slayer of foes, yasmin hantari (**Nirukta** 1.7).
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To which hand manly powers are firmly attached, (as) a chariot driver is  to his golden chariot,  
 (as) reins are to the two brawny fists, (as) bullish horses yoked together  are to the road.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 cyāvayante is the only med. form to this stem, against 16 act. transitive ones.
 
 Although in my 1983 monograph (p. 126 n. 43) I identify it as intransitive, I now think it is a passive to the transitive act.: “are bought to shaking, caused to shake” rather than a simple intr. semantically identical to cyávate (i.e., just ‘shake’). Fear of Indra is the cause and Indra the unexpressed agent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him to whose hand, men closely cling, and drivers stand on his golden chariot firmly stationed.  
      With his firm arms he holds the reins; his Horses, the Stallions, are yoked ready for the journey.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dessen Hand die Manneskräfte gehören - es gehört der Wagenlenker Indra auf den goldenen Wagen, die Zügel in seine derben Hände, die angeschirrten Bullenrosse auf den Weg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei welchem glänzten in der Hand die Gaben, auf goldnem Wagen dort der Wagenlenker, Und in den festen Armen seine Zügel, und auf der Bahn die ihm geschirrten Hengste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В чьей длани сосредоточены силы мужества,  
 (Тот) стоит на золотой колеснице,  

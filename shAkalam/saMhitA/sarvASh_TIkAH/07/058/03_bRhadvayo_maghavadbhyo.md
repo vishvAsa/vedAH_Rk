@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡द् व꣡यो मघ꣡वद्भ्यो दधात  
 जु꣡जोषन्न् इ꣡न् मरु꣡तः सुष्टुतिं꣡ नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ ण स्पार्हा꣡भिर् ऊति꣡भिस् तिरेत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ग॒तः । न । अध्वा॑ । वि । ति॒रा॒ति॒ । ज॒न्तुम् । प्र । नः॒ । स्पा॒र्हाभिः॑ । ऊ॒तिऽभिः॑ । ति॒रे॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
@@ -129,20 +129,20 @@ genre M
 हे **मरुतः** यूयं **मघवद्भ्यः** हविर्लक्षणान्नवद्भ्योऽस्मभ्यं **बृहत्** महत् **वयः** अन्नं **दधात** प्रयच्छत । **नः** अस्मदीयां **सुष्टुतिं** शोभनं स्तोत्रं **जुजोषन्नित्** सेवन्तामेव । **गतः** मरुद्भिः प्राप्तः **अध्वा** मार्गः **जन्तुं** प्राणिनं **न** **वि** **तिराति** नाहन्ति । उदकेनाप्याययत्येव । यद्वा । वितिरतिर्वर्धनार्थः। नेति चार्थे । मरुद्भिर्गतो मार्गश्च जन्तुं वर्धयति । तथा **नः** अस्मान् **स्पार्हाभिः** स्पृहणीयाभिः **ऊतिभिः** रक्षाभिः **प्र** **तिरेत** प्रवर्धयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant, **Maruts**, to us who are affluent (in sacrificial offering) abundant food; accept complacently ourearnest praise; the path you follow is not hurtful to living beings; may it increase our (prosperity) by (your)desirable protections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Impart lofty vigor to our bounteous (patrons). Only the Maruts shall  enjoy our good praise.  
 Like a road when it’s traveled, (the flock) will bring the people across;  may it further us with the help we crave.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a I take maghávadbhyaḥ as referring to our human patrons, because I take the Maruts as subj. of the 2nd pl. impv.: dadhāta. However given the connections between 3ab and 6ab (for which see below), where maghónām refers to the Maruts, it is quite possible that the subj. of the impv. is the poet’s fellow priests and the Maruts are the referent of maghávadbhyaḥ.
 
@@ -159,23 +159,23 @@ active opt. with Indra and Varuṇa as subj. In other words, in that passage god
 opt., and different factors pull in different directions. The parallel in VII.84.3 suggests we have gods, namely the Maruts, as subject here too, and the easiest way to do that is take it as a 2nd pl. A passage in the preceding hymn, VII.57.5 prá vā́jebhis tirata puṣyáse naḥ “Further us with prizes for our thriving,” with 2nd pl. act. impv. to the same stem, also supports this interpr. This is the analysis of Grassmann, and it is also responsible for Oldenberg’s “So bringt …” On the other hand, the clear 3rd sg. tirāti in c invites a 3rd sg. interpr. also of tireta, and the following hymn contains the idioms we have here, prá √tṝ and ví √tṝ, there with a single instance of the verb stem in the 3rd sg. middle positioned between the preverbs: VII.59.2 prá sá kṣáyaṃ tirate ví mahī́r íṣaḥ “He furthers his dwelling place, ex(tends) his great refreshments.” Renou and Geldner both opt for the 3rd sg. middle interpr., but the subject they each (seem to) provide is the good praise of b, a far cry from the gods we expect as subject of the expression found in d. My interpr. of cd solves both problems, though, admittedly, not in the most elegant fashion. I supply ‘flock’ (gaṇá-; see 1a) as the subj. of both ví tirāti and prá … tireta. We thus have a singular subject that will allow tireta to harmonize with tirāti and the divine subject that will allow d to harmonize with VII.84.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give ample vital power unto our princes let our fair praises gratify the Maruts.  
      As the way travelled helpeth people onward, so further us with your delightful succours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet den Lohnherren hohe Lebenskraft! An unserem Loblied sollen die Marut Freude haben. Wie ein zurückgelegter Weg die Leute, so möge es uns zum Ziele führen; es soll uns vorwärts bringen durch eure begehrenswerten Gnaden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verleihet viele Kraft den Opferherren, den Maruts möge unser Lob genehm sein; Wie ein betretner Weg den Menschen fördert, so fördert uns durch vielbegehrte Hülfen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Высокой жизненной силой наделите (наших) щедрых покровителей!  
 Пусть Маруты наслаждаются только нашей прекрасной хвалой!  

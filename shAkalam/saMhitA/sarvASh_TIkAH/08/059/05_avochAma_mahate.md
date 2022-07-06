@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वोचाम महते꣡ सउ꣡भगाय सत्यं꣡  
 त्वेषा꣡भियाम् महिमा꣡नम् इन्द्रिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्रि꣡भिः साप्ते꣡भिर् अवतं शुभस् पती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; Vālakhilya
 अ॒स्मान् । सु । इ॒न्द्रा॒व॒रु॒णा॒ । घृ॒त॒ऽश्चुतः॑ । त्रिऽभिः॑ । सा॒प्तेभिः॑ । अ॒व॒त॒म् । शु॒भः॒ । प॒ती॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avocāma* ← *vac*
 - \[verb\], plural, Thematic aorist (Ind.)
@@ -109,7 +109,7 @@ genre D;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,30 +120,30 @@ Sayana bhashya empty
 Cf. use of the samephrase in: RV. 1.133.6: O irresistible one, you destroy not men with the warriors, with the thrice seven warriors
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have proclaimed a true thing for great good fortune, have proclaimed  greatness and Indrian strength for the two vibrant ones.  
 Help us who drip ghee, o Indra and Varuṇa, with three groups of seven,  you lords of beauty.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ṛtáḥ here is one of only two masc. forms of this extraordinarily common neut. stem, the other of which also qualifies kavíḥ (IX.62.30). (Grassmann’s three masc. acc. ṛtám are actually neut., and the apparent du. masc. ṛtā́appears in X.106, a hymn constructed of gibberish, in vs. 5, which I refused to tr.) In these two passages it must be a secondarily adjectivized application of ṛtá- ‘truth’, facilitated by its past participle shape (and origin). Hence the special-effect tr. ‘entruthed’. Its appearance here may also be motivated in part by the semi-palindromic trātar rtás ̥ . The form ṛtás is unusual also because of its irregular sandhi with following kavíḥ, on which see comm. ad VII.18.2. Curiously the other example of this phrase in IX.62.30 shows the standard sandhi ṛtáḥ kavíḥ.
 
 The trio kaví-, vedhás-, and vípra- recurs from vs. 3. There Agni was both kaví- and vedhás- attended to by vípras; here his attendants are vípras and vedháses, while he remains a kaví-.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu großem Glücke haben wir vor den Furchtgebietenden ihre wahre indrische Größe verkündet. Schützet uns fein, Indra und Varuna, die schmalzträufenden, mit dreimal siebenfachem Schutze, ihr Herren der Schönheit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu hohem Glücke haben wir verkündet euch, den glänzenden, die wahre Indragrösse nun; Durch dreimal sieben helfet uns, o Glanzesherrn, die wir euch Butter spenden, Indra-Varuna.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы провозгласили на великое счастье  
 Перед двоими сверкающими (богами) истинное свойственное Индре величие.  

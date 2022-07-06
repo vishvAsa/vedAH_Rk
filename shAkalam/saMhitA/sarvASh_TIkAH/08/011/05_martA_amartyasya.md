@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡र्ता अ꣡मर्तियस्य ते  
 भू꣡रि ना꣡म मनामहे  
 वि꣡प्रासो जात꣡वेदसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 विप्रा॑सः । जा॒तऽवे॑दसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *martā* ← *martāḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
@@ -74,36 +74,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **मर्ताः** मनुष्याः **विप्रासः** मेधाविनो वयं हे अग्ने **जातवेदसः** जातानां वेदितुः **अमर्त्यस्य** मरणरहितस्य देवस्य **भूरि** विस्तृतं **नाम** स्तोत्रं **मनामहे** जानीमः । कुर्म इति यावत् ॥ ॥ ३५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Prudent mortals, we offer abundant homage to you, who are immortal and all-knowing.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of you the immortal we mortals revere the many names—  
 (we) inspired poets (revere the names) of Jātavedas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We sages, mortals as we are, adore the mighty name oof thee,  
      Immortal Jatavedas' name.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir Sterblichen gedenken deiner vielen Namen, des Unsterblichen, des Jatavedas, wir Redekundigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Viel Namen des unsterblichen erkennen wir, die Sterblichen, Des Wesenkenners, preisend an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Смертные, мы представляем себе многие  
 Имена у тебя, бессмертного,  

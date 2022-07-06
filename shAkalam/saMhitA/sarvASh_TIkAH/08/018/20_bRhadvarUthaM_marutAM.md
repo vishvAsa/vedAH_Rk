@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡द् व꣡रूथम् मरु꣡तां  
 देवं꣡ त्राता꣡रम् अश्वि꣡ना  
 मित्र꣡म् ईमहे व꣡रुणं सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 मि॒त्रम् । ई॒म॒हे॒ । वरु॑णम् । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
@@ -83,36 +83,36 @@ genre M
 **मरुतां** देवानां स्वामिनां **त्रातारं** पालयितारं **देवम्** इन्द्रम् **अश्विना** अश्विनौ च **मित्रं** **वरुणं** च **बृहत्** प्रौढं **वरूथं** शीतातपादिनिवारकं गृहं **स्वस्तये** अविनाशाय **ईमहे** याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit of the divine protector of he **Maruts**, of the Aśvisn, of **Mitra** and of **Varuṇa**, a spaciousdwelling for our welfare.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts’ lofty defense, the god Rescuer, the Aśvins,  
 Mitra and Varuṇa—(all of them) do we beg for our well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Maruts' high protecting aid, the Asvins, and the God who saves,  
      Mitra and Varuna for weal we supplicate.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um den hohen Schutz der Marut bitten wir den Gott Schützer, die Asvin, den Mitra, Varuna zum Heile.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir flehen an um hohen Schutz die Ritter und den Rettungsgott, die Maruts, Mitra, Varuna zum Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О высокой защите марутовой  
 Просим мы бога-спасителя, Ашвинов,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मक्षू꣡ कना꣡याः सखियं꣡ न꣡वीयो  
 रा꣡धो न꣡ रे꣡त ऋत꣡म् इ꣡त् तुरण्यन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सबर्दु꣡घायाः प꣡य उस्रि꣡यायाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 शुचि॑ । यत् । ते॒ । रेक्णः॑ । आ॒ऽअय॑जन्त । स॒बः॒ऽदुघा॑याः । पयः॑ । उ॒स्रिया॑याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *makṣū*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M;; repeated line
 **मक्षु** शीघ्रं **कनायाः** कमनीयाया घर्मदोग्ध्र्याः **नवीयः** नवतरं **सख्यम्** । प्राप्येति शेषः । अथवा नवीय इति राधोविशेषणम् । नवतरं **राधः** धनमिव **रेतः** सिच्यमानम् **ऋतम्** उदकं **तुरण्यन** दिवः सकाशात्प्रेरितवन्तः । हे इन्द्र **ते** तुभ्यं **यत्** यदा **रेक्णः** पाथोलक्षणं धनम् **आ** अभिमुखम् **अयजन्त** अपूजयन् । कीदृशं रेक्णः । **सबर्दुघायाः** । सबरित्यमृतनाम । अमृतदोग्ध्र्याः **उस्रियायाः** गोः **पयः** पानयोग्यं रसम् । तदोदकं तुरण्यन्निति । अत्राध्वर्युब्राह्मणम् - ‘अङ्गिरसो वै सत्रमासत तेषां पृश्निर्घर्मधुगासीत् सर्जीषेणाजीवत् तेऽब्रुवन् कस्मै नु सत्रमास्महे येऽस्या ओषधीर्न जनयाम इति ते दिवो वृष्टिमसृजन्त' (तै, ब्रा. २. १. १. १ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,29 +123,29 @@ genre M;; repeated line
 Pure riches: rekṇas = wealth leftby a dead person n, wealth consisting of water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Right away they hastened anew to the fellowship of the maiden and to  the semen, which was like a bounty, which is just truth—  
 your blazing legacy, which they gained through sacrifice, and the milk  of the ruddy female who gives sap as milk.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Swift was new friendship with the maid they quickly accepted it as genuine seed and bounty.  
      Milk which the cow Sabardugha had yielded was the bright heritage which to thee they offered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alsbald nachdem sie aufs neue die Freundschaft der Jungfrau erlangt hatten, beschleunigten sie den rechten Samen wie eine Ehrengabe, den reinen Trank, den sie dir als dein Eigentum zum Opfer brachten, die Milch der immermelken Kuh.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schnell zu des Mädchens Genossenschaft kommend beeilten sie den rechten Samen, wie ein Geschenk (?), als sie dir als glänzende Gabe huldigend darbrachten die Milch der Göttertrank strömenden Kuh.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

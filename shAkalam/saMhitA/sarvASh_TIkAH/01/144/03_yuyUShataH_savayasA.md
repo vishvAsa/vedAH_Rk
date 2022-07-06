@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यु꣡यूषतः स꣡वयसा त꣡द् इ꣡द् व꣡पुः  
 समान꣡म् अ꣡र्थं वित꣡रित्रता मिथः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वो꣡ळ्हुर् न꣡ रश्मी꣡न् स꣡म् अयंस्त सा꣡रथिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आत् । ई॒म् । भगः॑ । न । हव्यः॑ । सम् । अ॒स्मत् । आ । वोळ्हुः॑ । न । र॒श्मीन् । सम् । अ॒यं॒स्त॒ । सार॑थिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuyūṣataḥ* ← *yuyūṣ* ← *√yu*
 - \[verb\], dual, Present indikative
@@ -137,7 +137,7 @@ genre M
 **सवयसा** समानवयस्कौ । वयःशब्देन सामर्थ्यं लक्ष्यते । समानसामर्थ्यौ **तदित्** तदानीमेव यदा प्रवृद्धो भवति तदानीमेव **समानमर्थं** समानप्रयोजनं निष्पत्तिं **मिथः** प्रत्येकं **वितरित्रता** भृशं तरन्तौ होत्रध्वर्यू **वपुः** अग्नेः शरीरं **युयूषतः** स्वस्वव्यापारेण मिश्रयितुमिच्छतः । प्रैषानन्तरं याज्यादिपाठो होतुर्व्यापारः वषट्कारानन्तरं होमोऽध्वर्योरिति विभागः । अत्रेदमनुसंधयम् । सवयसा समानवयस्कौ मिथः प्रत्येकं समानप्रयोजनं  सुखप्राप्तिं वितरित्रता विशेषेण तरितुमिच्छन्तौ । तरतेर्यङ्लुगन्तात् शतरि दाधर्त्यादौ (पा. सू. ७. ४. ६५ ) निपात्यते । द्विवचनस्य आकारः ॥ जायापती तद्वपुस्तदेव परस्परं शरीरं युयूषतः मिश्रयितुमिच्छतः परस्परमालिङ्गतः । तद्वदग्निं साकं होत्रध्वर्यू युयूषतः । **आदीम्** अनन्तरमेव **हव्यः** आहवनीयोऽग्निः सारथिः सरणशीलः सारथिवत् यज्ञात्मकस्य रथस्य निर्वाहको वा सन् **अस्मत्** अस्माकं संबन्धिनः **रश्मीन्** रश्मिवदायता घृतधाराः **आ** सर्वतः **समयस्त** सम्यक् स्वीकरोति । तत्र दृष्टान्तद्वयमुच्यते। **भगो** **न** सर्वैः सेवनीय आदित्यः स यथा सर्वतः पूजामादत्ते तद्वत् । **सारथिः**  रथस्य यन्ता वोढुर्वाहकस्याश्वादेः रश्मीन् प्रग्रहानिव । तान् यथा स्वीकरोति तद्वदयमग्निरपि हवींषि समयंस्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,13 +148,13 @@ genre M
 The two priests: or the two, in both this and the next hymn, may refer to the husband and wife associated in the performance of the sacrifice; as a charioteer gathers: the comparison is justified by raśmin = rays of light or reins and also, streams of butter spreading like rays
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two of the same vigor [=fire-churning sticks] seek to keep hold of  that marvelous form, constantly crossing each other in turn, toward  the same goal;  
 after that he is to be invoked like Bhaga. He has been firmly held by us,  as a chariot-driver holds firm the reins of a draft-horse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse contains a number of elements reminiscent of I.140 and I.141.
 
@@ -182,28 +182,28 @@ The pair sávayasā ‘of the same vigor’ in these two verses have been variou
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seeking in course altern to reach the selfsame end the two copartners strive to win this beauteous form.  
      Like Bhaga must he be duly invoked by us, as he who drives the car holds fast the horse's reins.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Two (beings) of the same age 1 try to draw that wonderful shape (Agni) towards themselves, progressing in turns towards a common aim 2. Then he is to be proclaimed by us like a winner 3 (in a contest). The charioteer 4 (governs all things) as if pulling in the reins of a draught-horse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Gleichaltrigen suchen seine schöne Erscheinung festzuhalten, die die gleiche Arbeit abwechselnd betreiben. Dann ist er wie Bhaga von uns anzurufen. Er hat die Zügel in die Hand genommen wie der Wagenlenker die des Zugtieres.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Um seine Schönheit buhlen Tag und Nacht gepaart, die wechselweise gleichem Ziele streben zu, Dann rufen wir wie Bhaga ihn zu uns herbei, des Zugthiers Zügel hält gefasst der Lenker schon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Две одинаково сильные (руки) стремятся удержать этот прекрасный образ,  
 Состязаясь друг с другом (в достижении) общей цели.  

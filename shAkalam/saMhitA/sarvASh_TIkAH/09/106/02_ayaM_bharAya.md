@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् भ꣡राय सानसि꣡र्  
 इ꣡न्द्राय पवते सुतः꣡  
 सो꣡मो जइ꣡त्रस्य चेतति य꣡था विदे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 सोमः॑ । जैत्र॑स्य । चे॒त॒ति॒ । यथा॑ । वि॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -86,7 +86,7 @@ genre M;; line affected by realignment;; repeated line
 **भराय** संग्रामाय तदर्थं **सानसिः** भजनीयः **सुतः** अभिषुतः **अयं** **सोमः** **इन्द्राय** इन्द्रार्थं **पवते** ग्रहादिषु क्षरति । ततः **सोमः** **जैत्रस्य** ॥ ‘ क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानसंज्ञा । ‘ चतुर्थ्यर्थे बहुलम् ' इति षष्ठी ॥ जयशीलमिन्द्रं **चेतति** जानाति । **यथा** इन्द्रः **विदे** लोकैर्ज्ञायते तथा जानाति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,13 +97,13 @@ genre M;; line affected by realignment;; repeated line
 This effused soma...filtered for Indra: 'this munificent effused Soma is filtered for Indra's sutenance; indrāya bharāya is like a gerund
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here, bringing gain for the taking, purifies himself for Indra  when pressed.  
 Soma takes note of the victorious one, as is (well) known.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take jaítrasya as a noun ‘victory’, but with Grassmann I supply Indra as the referent for this vṛddhi adj. This would provide a thematic reciprocity between vss. 1 and 2: in 1 the soma drops are born because of Indra’s attentive hearing (in my interpr.), while here Soma repays Indra’s attention with his own.
 
@@ -120,23 +120,23 @@ Vss. 2 and 3 are also lexically linked: sānasí- (2a, 3b), jaítrasya (2c) / -j
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effused, this juice victorious flows for Indra, for his maintenance.  
      Soma bethinks him of the Conqueror, as he knows.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser ausgepreßte Soma läutert sich für Indra, der einträgliche, daß er aufgetragen werde, den Gewinn einbringe. Soma versteht sich auf den Sieg, wofür er bekannt ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra rieselt zum Genuss der segensreiche Trank herbei, Und Soma hat des Siegers Acht nach seiner Art.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот захватчик, выжатый сок  
 Очищается для добычи, для Индры.  

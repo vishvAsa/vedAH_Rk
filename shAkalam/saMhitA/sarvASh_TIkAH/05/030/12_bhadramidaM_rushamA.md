@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्र꣡म् इदं꣡ रुश꣡मा अग्ने अक्रन्  
 ग꣡वां चत्वा꣡रि द꣡दतः सह꣡स्रा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡त्य् अग्रभीष्म नृ꣡तमस्य नॄणा꣡म्+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ऋ॒ण॒म्ऽच॒यस्य॑ । प्रऽय॑ता । म॒घानि॑ । प्रति॑ । अ॒ग्र॒भी॒ष्म॒ । नृऽत॑मस्य । नृ॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
@@ -120,7 +120,7 @@ genre M
 रुशम इति कश्चिज्जनपदविशेषः । अत्र रुशमशब्देन तत्रत्या जना उच्यन्ते । **रुशमाः** ऋणंचयनाम्नो राज्ञः किंकराः हे **अग्ने** 'भद्रं कल्याणम् **इदं** कर्म **अक्रन्** अकुर्वन् । कीदृशाः । **गवां** धेनूनां **चत्वारि** चतुःसंख्यायुक्तानि **सहस्रा** सहस्राणि **ददतः** मह्यं प्रयच्छन्तः । राज्ञा हि दीयमानानि धनानि राजपुरुषा एव प्रयच्छन्तीत्यर्थः । **नृणां** नेतॄणां मध्ये **नृतमस्य** अतिशयेन नेतृतमस्य **ऋणंच** यस्य एतन्नामकेन राज्ञा **प्रयता** प्रयतानि दत्तानि **मघानि** गोरूपाणि धनानि वयं **प्रत्यग्रभीष्म** प्रतिगृहीतवन्तः स्मः । पूजार्थं बहुवचनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,30 +131,30 @@ genre M
 **Ruśamās** are a people of a country of the same name, the principality of ṛnañcaya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Ruśamas have done this auspicious thing, o Agni, in giving four  thousand cows.  
 The proffered bounties of R̥ṇaṃcaya, most manly of men, we have  
 accepted.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This good deed have the Rusamas done, Agni! that they have granted me four thousand cattle.  
      We have received Rnancaya's wealth, of heroes the most heroic, which was freely offered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das haben die Rusama´s gut gemacht, o Agni, die viertausend Kühe schenkten. Die überreichen Gaben des Rini?caya haben wir in Empfang genommen, des mannhaftesten der Männer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies machten schön die Ruçamer, o Agni, dass sie mir schenkten viermal tausend Rinder; Des Rinamtschaja dargereichte Schätze empfingen wir, des männlichsten der Männer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это хорошо поступили потомки Рушамы, о Агни,  
 Даря четыре тысячи коров.  

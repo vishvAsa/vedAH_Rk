@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्या꣡म् आशि꣡षं कृणुता वयोधइ꣡  
 कीरिं꣡ चिद् धि꣡ अ꣡वथ स्वे꣡भिर् ए꣡वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡द् रोदसी शृणुतं विश्वमिन्वे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प॒श्चा । मृधः॑ । अप॑ । भ॒व॒न्तु॒ । विश्वाः॑ । तत् । रो॒द॒सी॒ इति॑ । शृ॒णु॒त॒म् । वि॒श्व॒मि॒न्वे इति॑ वि॒श्व॒म्ऽइ॒न्वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satyām* ← *satya*
 - \[noun\], accusative, singular, feminine
@@ -130,37 +130,37 @@ genre M
 हे बृहस्पतिप्रभृतयो देवाः **वयोधै**  अन्नस्य निधानायास्मदीयाम् **आशिषं** स्तुतिं **सत्यां** यथार्थां **कृणुत** कुरुत । तथा यूयं **स्वेभिः** आत्मीयैः **एवैः** गमनैः **कीरिं** स्तोतारं माम् **अवथ** रक्षथ । हिरवधारणे । **पश्चा**।  ‘ °पश्चा च च्छन्दसि ' (पा. सू. ५. ३. ३३ ) इति निपातितः । पश्चात् **विश्वाः** सर्वाः **मृधः** हिंसित्र्यः **अप** **भवन्तु** नश्यन्तु। **तत्** इदमस्माभिरुक्तं वचनं हे **विश्वमिन्वे** विश्वस्य प्रीणयित्र्यौ हे **रोदसी** द्यावापृथिव्यौ **शृणुतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Make good our prayer for the bestowal of food; you protect through your movements even (me) yourprayer).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make our hope come true, our hope for the conferring of vigor. For  you help even the weakling in your own ways.  
 Let all slighters be off, be behind (us). You two world-halves, who  
 set all in motion, hear this.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fulfil the prayer that begs for vital vigour: aid in your wonted manner even the humble.  
      Let all our foes be turned and driven backward. Hear this, O Heaven and Earth, ye All-producers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erfüllet die Bitte zur Kräftigung, denn ihr nehmet euch aus eigenem Antrieb selbst des Dürftigen an! Alle Unbilden sollen dahinten und fern bleiben! Dies höret, Himmel und Erde, die ihr alles zuwege bringet!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfüllt [o Götter] unser Gebet durch eure Stärkungsmittel und unterstützt den Dichter auch nach eurer Weise; weit hinter uns mögen alle Feinde weichen; das vernehmt, o ihr Welten beide, ihr allerquickenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделайте, чтобы исполнилось наше желание – для получения жизненной силы –  
 Ведь даже убогого вы поддерживаете по своему обычаю!  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ राधस्पते रा꣡धसो महः꣡  
 क्ष꣡यस्य अ꣡सि विधतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 सुता꣡वन्तो हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तम् । त्वा॒ । व॒यम् । म॒घ॒ऽव॒न् । इ॒न्द्र॒ । गि॒र्व॒णः॒ । सु॒तऽव॑न्तः । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -106,41 +106,41 @@ genre M;; repeated line
 हे **राधस्पते** धनस्वामिन् **त्वं** **हि** त्वं खलु **महः** महतः **राधसः** धनस्य **क्षयस्य** च गृहस्य' च वर्धयिता **असि** हि खलु। सामर्थ्यादेवं लभ्यते । कस्य राधसो गृहस्य च वर्धक इत्युच्यते । **विधतः** परिचरतो यजमानस्य । **तं** तादृशं **त्वा** त्वां **वयं** हे **मघवन्निन्द्र** **गिर्वणः** गीर्भिर्वननीय **सुतावन्तः** अभिषुतसोमाः **हवामहे** आह्वयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of wealth, you are (the bestower) of great wealth and a dwelling plural ce upon your worshipper; assuch, we invoke you, bearing the **Soma**, O **Maghavan**, **Indra**, who are to be honoured with hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, lord of largesse, are (lord) of great largesse and of the dwelling  place of him who does honor.  
 We, who have pressed (the soma), invoke you, bounteous Indra, who  long for songs.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg takes rādhaspate as a predicated vocative, presumably with at least rā́dhaso máhaḥ and possibly kṣáyasya dependent on it. Geldner (whom I follow) supplies a “lord” for those dependent genitives, which may amount to the same thing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou, O liberal Lord of bounty, strengthenest his ample home who worships thee.  
      So Indra, Maghavan, thou Lover of the Song, we with pressed Soma call on thee,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du, Herr der Gabe, bist Herr über große Gabe, über des Verehrers Haus. Dich freigebiger, lobbegehrender Indra, rufen wir bei ausgepreßtem Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für den Verehrer bist du grosser Gaben Herr, und Schützer seiner Wohnungen, Drum rufen wir, o reicher, liederfreuter, dich, o Indra, Soma bringend an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты, о господин дарения, (господин) великого дарения  
 (И) жилища почитателя (твоего).  

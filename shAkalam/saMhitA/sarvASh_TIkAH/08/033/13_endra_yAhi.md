@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ इन्द्र याहि पीत꣡ये  
 म꣡धु शविष्ठ सोमिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ब्र꣡ह्म उक्था꣡ च सुक्र꣡तुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 न । अ॒यम् । अच्छ॑ । म॒घऽवा॑ । शृ॒णव॑त् । गिरः॑ । ब्रह्म॑ । उ॒क्था । च॒ । सु॒ऽक्रतुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *endra* ← *ā*
 - \[adverb\]
@@ -118,14 +118,14 @@ genre M
 हे **शविष्ठ** बलवत्तम **इन्द्र** **सोम्यं** सोमात्मकं **मधु** अमृतं **पीतये** पानाय **आ** **याहि** आगच्छ । किमर्थमागमनमित्यत आह । यत आगमनमन्तरेण **मघवा** धनवान् **सुक्रतुः** सुकर्मा शोभनप्रज्ञो वा **अयम्** इन्द्रः **गिरः** स्तुतीः **ब्रह्म** स्तोत्राण्युक्थानि **च** **न** **अच्छ**, **शृणवत्** नाभिशृणोति । अत आगमनमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, most powerful **Indra**, to drink of the **Soma** ambrosia, (for without coming) this **Maghavan**, theachiever of many exploits, hears not our praises, our chants, our hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here, most powerful Indra, to drink the somian honey;  
 as bounteous one, (drive) on your own to the landing site. He of  
@@ -133,7 +133,7 @@ good resolve will listen to the songs, the sacred formulations, and the
 hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On nā́yám see VIII.2.28. After my reexamination of the evidence (Hock Fs., 2013) I would now rephrase the translation of the first three pādas as “Drive here, most powerful Indra, to the somian honey to drink it, as bounteous one, all on your own,” eliminating “to the landing site” and construing áchā with mádhu … somyám in the preceding pāda.
 
@@ -142,23 +142,23 @@ A new clause begins with śṛṇávat in the middle of c. Geldner takes all of 
 Moreover áchā is not otherwise found with √śru but is common with √yā.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, thou most potent Indra, come to drink the savoury Soma juice.  
      Maghavan, very wise, will quickly come to hear the songs, the prayer, the hymns of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, Indra, um den somischen Süßtrank zu trinken, Mächtiger! Er soll in eigener Person herhören, der Gabenreiche, auf die Lobreden, die Erbauung und auf die Loblieder, der Ratreiche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, komm zu trinken her den süssen Soma, kräftigster, Es höre diese Lieder an der mächtige, und Sprüche, er der tüchtige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, приходи пить  
 Сладость сомы, о самый сильный!  

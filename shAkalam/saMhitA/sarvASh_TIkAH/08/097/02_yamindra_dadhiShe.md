@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् इन्द्र दधिषे꣡ तुव꣡म्  
 अ꣡श्वं गा꣡म् भाग꣡म् अ꣡व्ययम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 त꣡स्मिन् तं꣡ धेहि मा꣡ पणउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यज॑माने । सु॒न्व॒ति । दक्षि॑णाऽवति । तस्मि॑न् । तम् । धे॒हि॒ । मा । प॒णौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -114,36 +114,36 @@ genre M
 हे इन्द्र त्वं यमश्वं गमनसाधनान् हरीन् गां अग्निहोत्रकर्मणि पयःप्रदानेनोपकारिकागाः अव्ययं व्ययरहितं अविनश्वरं भागं भजनीयं धनं सर्वत्रै- कत्वमविवक्षितं एतान् शत्रुभ्यः आहृत्य दधिषे धत्से बिभर्षि । तं सर्वं सुन्वति सोमाभिषवं कुर्वति दक्षिणावति यज्ञे ऋत्विग्भ्योदक्षिणादेयत्वेन तद्वति यजमाने यागङ्कुर्वाणे तस्मिन् त्वं धेहि । सर्वत्रधनादिदानं माकुर्वित्याह मापणौ पणव्यवहारे द्रव्यव्यवहारादयष्टाजनः पणिः तस्मिन् एतत्सर्वं मादेहि ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those horses, those cows, that imperishable wealth which you have seized (from your enemies)--bestow them on the sacrificer who offers the **Soma** and is liberal to the priests-- not on the niggard.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What you have appropriated, Indra—the horse, the cow, and the ovine  portion—  
 confer that on the one who sacrifices, presses, and offers priestly gifts— not on the niggard.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The unwasting share of steeds and kine which, Indra, thou hast fast secured,  
      Grant to the worshipper who presses Soma and gives guerdon, not unto the churl.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welches Roß und Rind du, Indra, als Anteil ohne Einbuße bestimmt hast für den Opfernden, Somapressenden, der Dichtersold spendet, den gib diesem, nicht dem Geizhals!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was, Indra, du an Ross und Rind, an Schafbesitz erbeutet hast, Das schenke diesem Opferherrn, der Soma braut und Opfer lohnt, dem geiz'gen nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какого коня (и) быка, о Индра,  
 Ты определил как неизменную долю  

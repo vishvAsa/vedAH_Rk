@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ इन्द्र शूर स्त꣡वमान ऊती꣡  
 ब्र꣡ह्मजूतस् तनु꣡वा वावृधस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 उप॑ । नः॒ । वाजा॑न् । मि॒मी॒हि॒ । उप॑ । स्तीन् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -125,42 +125,42 @@ genre M;; repeated line
 हे **शूर** **इन्द्र** **नु** अद्य **स्तवमानः** अस्माभिः स्तूयमानः **ब्रह्मजूतः** ब्रह्मणा स्तोत्रेण प्रेरितः **तन्वा** शरीरेण ऊत्या रक्षणेन’ **ववृधस्व** । अपि च **नः** अस्मभ्यं **वाजान्** अन्नानि **उप** **मिमीहि** । प्रयच्छेत्यर्थः । **स्तीन** गृहांश्च **उप** मिमीहि । स्पष्टमन्यत् ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hero, **Indra**, glorified on the present occasion, and propitiated by praise, be amplified in your person n forour protection; bestow upon us food and habitations; and do you ever cherish us wiht blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, o champion Indra, being praised by reason of your help, aroused  by sacred formulations, become strengthened in your own body.  
 Measure out prizes to us, measure out beings [=people]. – Do you  
 protect us always with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The finals of pādas a and c echo each other: … ūtī́# … úpa stī́n # I think it quite likely that mimihy out of sandhi should be accented (mimihí) contra the Pp., given the balanced clausal-type constructions before and after (úpa no vā́jān … úpa stī́n), a possibility Oldenberg raises but considers uncertain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, lauded for thine aid, Heroic Indra, sped by our prayer, wax mighty in thy body.  
      Apportion to us strength and habitations. Ye Gods, protect us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun mach dich stark am Leibe, zur Gunsterweisung gepriesen, durch das Kraftwort angefeuert, tapferer Indra! Teil uns die Gewinne zu und Angehörige! - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erstark am Leib nun, Indra, du gepries'ner, o Held, zur Hülfe durch Gebet beflügelt; Miss du uns Schätze zu und tücht'ge Leute; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ну, Индра отважный, восхваляемый для помощи,  
 Крепни телом, вдохновленный священным словом!  

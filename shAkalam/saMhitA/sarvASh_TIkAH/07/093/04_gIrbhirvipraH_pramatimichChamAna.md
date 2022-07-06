@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गीर्भि꣡र् वि꣡प्रः प्र꣡मतिम् इछ꣡मान  
 ई꣡ट्टे रयिं꣡ यश꣡सम् पूर्वभा꣡जम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ नो न꣡व्येभिस् तिरतं दयिष्णइः꣡+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्रा॑ग्नी॒ इति॑ । वृ॒त्र॒ऽह॒ना॒ । सु॒ऽव॒ज्रा॒ । प्र । नः॒ । नव्ये॑भिः । ति॒र॒त॒म् । दे॒ष्णैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
@@ -122,7 +122,7 @@ genre M
 हे इन्द्राग्नी **प्रमतिं** युवयोरनुग्रहबुद्धिम् **इच्छमानः** इच्छन् **विप्रः** मेधावी वसिष्ठः **यशसं** यशसा युक्तं **पूर्वभाजं** पूर्वमेव संभजनीयं **रयिं** धनमुद्दिश्य **गीर्भिः** स्तुतिभिः **ईट्टे** युवां स्तौति । हे **वृत्रहणा** वृत्रस्य हन्तारौ **सुवज्रा** शोभनायुधौ **इन्द्राग्नी** **नव्येभिः** नवतरैः प्रशस्तैः **देष्णैः** दातव्यैर्धनैः **नः** अस्मान् **प्र** **तिरतं** प्रवर्धयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,12 +133,12 @@ genre M
 Formerly enjoyed riches: i.e. riches desirable even in older time, pūrvam eva sambhajanīyam\],
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With his hymns the inspired poet seeking your solicitude reverently  invokes (you) for glorious wealth that provides the foremost portion. Indra and Agni, smiters of Vr̥tra, possessing good maces, further us with  new gifts.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -152,23 +152,23 @@ However, the first pāda of vs. 4 echoes 3b exactly, save for number: 3b … ví
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The singer, seeking with his hymns your favour, begs splendid riches of their first possessor.  
      Further us with new bounties, Indra-Agni, armed with strong thunder, slayers of the foeman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann erfleht der Redekundige, der mit seinen Lobreden eure Fürsorge sich wünscht, Reichtum, welcher Ansehen und Vorrang verleiht. Indra und Agni, ihr Vritratöter mit der schönen Keule, seid uns durch neue Gaben förderlich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sänger, eure Huld durch Lieder suchend, erfleht des schönen Reichthums besten Antheil, O Indra-Agni, Feinde tödtend, blitzend, erquicket uns durch neue Liebesgaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэт, ища (вашей) заботы хвалебными песнями,  
 Призывает богатство, влекущее за собой славу (и) первую долю.  

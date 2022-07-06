@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡श अ꣡श्वान् द꣡श को꣡शान्  
 द꣡श व꣡स्त्रा꣡धिभोजना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वोदासाद् असानिषम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दशो॒ इति॑ । हि॒र॒ण्य॒ऽपि॒ण्डान् । दिवः॑ऽदासात् । अ॒सा॒नि॒ष॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daśāśvān* ← *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
@@ -94,36 +94,36 @@ genre M
 **दश** दशसंख्याकान् **अश्वान्** दशसंख्याकान् हिरण्यपूर्णान् **कोशान्** **अधिभोजना**। भोजनमिति धननाम । अधिकं धनं येषां मूल्यम् । तादृशानि दशसंख्याकानि वस्त्राणि च । **दशो** दश च दशसंख्याकांश्च **हिरण्यपिण्डान्** सुवर्णपिण्डानेतान् सर्वान् **दिवोदासात्** प्रस्तोकादहम् **असानिषं** समभजम् । लब्धवानस्मि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I have received ten horses, ten purses, clothes, and ample food and ten lumps of gold from **Divodāsa**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ten horses, ten casks, ten garments, with delights on top—  
 ten golden balls have I gained from Divodāsa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ten horses and ten treasure-chests, ten garments as an added gift,  
      These and ten lumps of gold have I received from Divodasa's hand.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zehn Rosse, zehn Kasten, zehn Kleider nebst der Bewirtung und zehn Goldklumpen habe ich von Divodasa als Lohn bekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zehn Pferde, zehn Kasten, zehn Kleider als Zugabe, zehn Goldklumpen erhielt ich von Divodasa.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Десять коней, десять кузовов,  
 Десять одежд и угощения,  

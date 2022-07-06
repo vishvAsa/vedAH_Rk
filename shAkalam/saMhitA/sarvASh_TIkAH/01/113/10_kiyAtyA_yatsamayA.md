@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡याति आ꣡ य꣡त् सम꣡या भ꣡वाति  
 या꣡ विऊषु꣡र् या꣡श् च नूनं꣡ विउछा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रदी꣡ध्याना जो꣡षम् अन्या꣡भिर् एति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अनु॑ । पूर्वाः॑ । कृ॒प॒ते॒ । वा॒व॒शा॒ना । प्र॒ऽदीध्या॑ना । जोष॑म् । अ॒न्याभिः॑ । ए॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kiyāty* ← *kiyāti* ← *kiyat*
 - \[noun\], locative, singular, masculine
@@ -121,20 +121,20 @@ genre M
 लोपः । कृपते।  ‘ कृपू सामर्थ्ये '। व्यत्ययेन शः । वावशाना ।  ‘ वश कान्तौ'। अस्मान् यङ्लुगन्तात् ताच्छीलिकः चानश् । प्रदीध्याना ।' दीधीङ् दीप्तिदेवनयोः '। लटः शानच् । अदादित्वात् शपो लुक् । ‘जक्षित्यादयः षट्' इति अभ्यस्तसंज्ञायाम्  ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । गतिसमासे कृदुत्तरपदप्रकृतिस्वरत्वम् ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For how long a period is it that the dawns have risen? for how long a period will they rise? still desirous to bring us light, Uṣās pursues the functions of those that have gone before, and, shining brightly, proceeds with the others (that are to follow).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How long (will it be) until she will be together with those who  (previously) dawned forth and those who will dawn forth now?  
 Bellowing, she yearns after the early ones; thinking ahead, she goes at  pleasure with the others.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this is the most challenging verse of the hymn.
 
@@ -175,28 +175,28 @@ These verses have a surprising density of forms of ví √vas ‘dawn forth’ (
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How long a time, and they shall be together,--Dawns that have shone and Dawns to shine hereafter?  
      She yearns for former Dawns with eager longing, and goes forth gladly shining with the others.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 How distant is the time when she comes midway Between the past and those to shine in future? The earlier dawns right willingly she follows. Expected, she fulfils the later's wishes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie lange währt es, daß sie in der Mitte sein wird zwischen denen die aufgegangen sind und die künftig aufgehen werden? Voll Verlangen fühlt sie sich zu den früheren hingezogen; von den anderen erwartet sie es gern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie lange währt's, dass sie mit denen eins wird, die früher strahlten und noch strahlen werden? Sie sehnt verlangend hin sich nach den frühern, und geht ausschauend auf die Lust mit spätern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В каком (месте) она будет посредине  
 Тех, что зажглись (раньше), и что сейчас зажгутся?  

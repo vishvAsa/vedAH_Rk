@@ -8,7 +8,7 @@ title = "+181"
 ‘कदु प्रेष्ठौ ' इति नवर्चं द्वितीयं सूक्तमागस्त्यं त्रैष्टुभमाश्विनम् । ‘कदु नव' इत्यनुक्रान्तम् ॥ प्रातरनुवाकाश्विनशस्त्रयोर्विनियोगः पूर्वसूक्ते एव उक्तः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 181  
 Aśvins  
@@ -19,7 +19,7 @@ Verses 5–6 are entirely parallel to each other in structure and return to the 
 The final verses (7–9) take place on the sacrificial ground. Verse 8 is especially  rich in striking images of the ritual: the sacrificial fire is depicted as a “gleaming  wasp” whose sound is likened to a praise hymn, and the imminent mixing of soma  and milk gives rise to a complex erotic image, with the soma a swollen “bullish  cloud” at the “pouring out” (séka) of the milk—its swelling attributed to its sexual  excitement at the “insemination” (séka) of the cow. In general, swelling as a sign of  abundance is a consistent theme in the latter part of the hymn (vss. 5c, 6c, 8b, 8c).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
 </details>

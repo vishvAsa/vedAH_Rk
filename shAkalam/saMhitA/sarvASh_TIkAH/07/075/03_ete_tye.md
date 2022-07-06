@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ तिये꣡ भान꣡वो दर्शता꣡याश्  
 चित्रा꣡ उष꣡सो अमृ꣡तास आ꣡गुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आपृण꣡न्तो अन्त꣡रिक्षा वि꣡ अस्थुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ज॒नय॑न्तः । दैव्या॑नि । व्र॒तानि॑ । आ॒ऽपृ॒णन्तः॑ । अ॒न्तरि॑क्षा । वि । अ॒स्थुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -107,20 +107,20 @@ genre M
 **दर्शतायाः** दर्शनीयायाः प्रकाशयुक्तायाः **उषसः** एते पुरो दृश्यमानाः **त्ये** ते प्रसिद्धाः **चित्राः** पूज्या आश्चर्यभूता वा **अमृतासः** अमरणा अनश्वराः **भानवः** रश्मयः **आगुः** आगच्छन्ति । किं कुर्वन्तः। **दैव्यानि** देवानां संबन्धीनि **व्रतानि** कर्माणि **जनयन्तः** उत्पादयन्तः । तदनुकूलप्रकाशप्रदानात्तदुत्पादकत्वमेषाम्। **अन्तरिक्षा** अन्तरिक्षाणि आपृणन्तः आपूरयन्तः । एकस्यैवान्तरिक्षस्य वायुमेघपक्षिणामालम्बनोपाधिना त्रिविधत्वम् । अतो बहुवचनमुपपन्नम्। एवं कुर्वन्तो भानवः **व्यस्थुः** विविधं तिष्ठन्ति । सरन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These wonderful, immortal rays of the beautifu Dawn appear, giving birth to the pious rites of divineworship, and filling the firmament, they spread around.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These are the very beams of Dawn, who is lovely to see, the bright  immortal beams that have come here.  
 Generating the heavenly commandments, filling the midspaces, they have  spread out.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The focus shifts from the sg. Dawn of vss. 1-2 to her pl. beams (bhānávaḥ), but with lexical repetition linking them: ā́guḥ at the end of b echoes ā́gāt similarly position in 1b, citrā́ḥ repeats citrám (qualifying ‘wealth’) in 2c. And the nom. pl.
 
@@ -131,23 +131,23 @@ m.] darśatā́yāś [gen. sg. fem.] citrā́[nom. pl. m.] uṣáso [[gen. sg. f
 The phrase janáyanto daívyāni vratā́ni “generating the heavenly commandments” seems to expand on the ṛténa of vs. 1: by her dawning, Dawn every day recreates in visible form the rules that govern the cosmos.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 See, lovely Morning's everlasting splendours, bright with their varied colours, have approached us.  
      Filling the region of mid-air, producing the rites of holy worship, they have mounted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort sind die prächtigen Strahlen der gerngesehenen Usas, die unsterblichen, gekommen. Die göttlichen Gebote auswirkend, die Lufträume anfüllend, haben sie sich ausgebreitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erschienen sind der schönen Morgenröthe unsterbliche, von Glanz erfüllte Strahlen; Der Götter Werke wiederum erzeugend, die Lüfte füllend sind sie nun erstanden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот пришли эти яркие бессмертные лучи  
 Ушас, на которые приятно смотреть.  

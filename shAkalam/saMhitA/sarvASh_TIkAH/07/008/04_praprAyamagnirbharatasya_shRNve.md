@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡-प्राय꣡म् अग्नि꣡र् भरत꣡स्य शृण्वे  
 वि꣡ य꣡त् सू꣡र्यो न꣡ रो꣡चते बृह꣡द् भाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्युतानो꣡ दइ꣡व्यो अ꣡तिथिः शुशोच
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । यः । पू॒रुम् । पृत॑नासु । त॒स्थौ । द्यु॒ता॒नः । दैव्यः॑ । अति॑थिः । शु॒शो॒च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -135,7 +135,7 @@ genre M
 **अयं** प्रसिद्धः **अग्निः** **भरतस्य** यजमानस्य मम **प्रप्र** अत्यन्तं **शृण्वे** प्रथितो भवति । कदेत्यत्राह । **यत्** यदा **सूर्यो** **न** सूर्य इव **बृहद्भाः** बृहद्भासमानो **वि** **रोचते** प्रकाशते । किंच **यः** अग्निः **पृतनासु** संग्रामेषु पूरुं पूरुनामकमसुरम् **अभि** **तस्थौ** अभिबभूव सोऽयं **द्युतानः** दीप्यमानः **दैव्यः** **अतिथिः** देवानामतिथिवत् पूज्यः सन् **शुशोच** जज्वाल ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,30 +146,30 @@ genre M
 Is greatley celebrated: bharasyaśṛṇve, yajamānasya prathito **bhavati**; or, yajamānasya āhvānam śṛṇoti, he hears the invocation of theworshipper
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Farther and farther is this Agni of Bharata famed when his lofty  radiance gleams afar like the sun.  
 He who dominated the Pūru in battles blazes as our glowing,  
 godly guest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far famed is this the Bharata's own Agni he shineth like the Sun with lofty splendour.  
      He who hath vanquished Puru in the battle, the heavenly guest hath glowed in full refulgence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Agni des Bharata ist weit berühmt, wenn sein hohes Licht wie die Sonne leuchtet, der dem Puru in den Kämpfen überlegen war, der göttliche Gast ist hell aufgeflammt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier wird der Agni Bharata's gepriesen, wenn wie die Sonne hell sein Licht erstrahlet, Der in den Schlachten unserm Volke beistand, der Götter Gastfreund leuchtete erglänzend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все дальше и дальше славится этот Агни у Бхараты,  
 Когда ярко сверкает, словно солнце, (его) высокий свет.  

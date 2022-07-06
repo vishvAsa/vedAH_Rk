@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गु꣡हा शि꣡रो नि꣡हितम् ऋ꣡धग् अक्षी꣡  
 अ꣡सिन्वन्न् अत्ति जिह्व꣡या व꣡नानि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उत्तान꣡हस्ता न꣡मसा꣡धि विक्षु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अत्रा॑णि । अ॒स्मै॒ । प॒ट्ऽभिः । सम् । भ॒र॒न्ति॒ । उ॒त्ता॒नऽह॑स्ताः । नम॑सा । अधि॑ । वि॒क्षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *guhā*
 - \[adverb\]
@@ -119,7 +119,7 @@ genre M
 अस्याग्नेः **शिरः** मूर्धा **गुहा** गुहायां **निहितं** मनुष्योदरेषु वर्तते । अस्य **अक्षी** अक्षिणी **ऋधक्** पृथग्निहितं निहिते चन्द्रसूर्यात्मना । तावेवाक्षिणी इत्यर्थः । ईदृशो योऽग्निः **असिन्वन्** दन्तैरसंखादन् **जिह्वया** **वनानि** **अत्ति** काष्ठानि भक्षयति दाहभूतः **अस्मै** अग्नयेऽध्वर्य्वादयः **पड्भिः** पादैरभिगत्य **अत्राणि** **सं** **भरन्ति** संपादयन्ति हवींषि । कथंभूताः । **उत्तानहस्ताः** पात्रधारणार्थमुन्नतकराः **नमसा** नमस्कारेण युक्ताः । कुत्र । **अधि** **विक्षु** प्रजास्वृत्विक्षु मध्ये ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ In a cavern: i.e., in the stomachs of men, referring to the fire of digestion;
 Eyes = the sun andmoon
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His head is deposited in hiding; his eyes set apart. Insatiable, he eats the  wood with his tongue.  
 With their feet they [=priests] collect things for him to eat, their hands  outstretched with reverence among the clans.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His eyes are turned away, his head is hidden: unsated with his tongue he eats the fuel.  
      With hands upraised, with reverence in the houses, for him they quickly bring his food together.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Versteckt ist sein Kopf, abseits die Augen; ohne zu kauen ißt er mit der Zunge die Hölzer. Mit den Füßen tragen sie ihm Nahrung zusammen, mit ausgestreckten Händen nahen sie ihm unter Verbeugung in den Niederlassungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verborgen ist sein Haupt, versteckt die Augen; nicht rastend frisst das Holz er mit der Zunge; Sie häufen ihm zu Fuss die Nahrungsmittel mit ausgestreckter Hand in Häusern betend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Спрятана (его) голова, в сторону глаза,  
 Не разгрызая, языком он сьедает куски дерева.  

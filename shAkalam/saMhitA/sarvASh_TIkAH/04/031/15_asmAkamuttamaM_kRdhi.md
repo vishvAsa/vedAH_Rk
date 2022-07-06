@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् उत्तमं꣡ कृधि  
 श्र꣡वो देवे꣡षु सूरिय  
 व꣡र्षिष्ठं द्या꣡म् इवोप꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 वर्षि॑ष्ठम् । द्याम्ऽइ॑व । उ॒परि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -90,36 +90,36 @@ genre M
 हे सूर्य सर्वस्य प्रेरकेन्द्र हे आदित्य वा त्वं **देवेषु** द्योतमानेषु वह्न्यादिषु मध्ये **अस्माकम्** अस्मत्संबन्धि **श्रवः** यशः **उत्तमम्** उत्कृष्टं **कृधि** कुरु । तत्र दृष्टान्तः । **वर्षिष्ठम्** अतिशयेन प्रवृद्धं सेचनसमर्थं वा **द्यामिव** द्युलोकं यथा सर्वेषां लोकानाम् **उपरि** स्थितमुत्कृष्टमकरोस्तद्वत् ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “**Sūrya**, make our fame exalted among the gods, as (you have plural ced) the sky, the shedder of most copious rain, above (all other regions).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our fame—make it most preeminent among the gods, o Sun,  
 and highest, as if above heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Surya, make our fame to be most excellent among the Gods,  
      Most lofty as the heaven on high.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unseren Ruhm mach zum obersten bei den Göttern, o Surya, zum höchsten wie den Himmel droben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verschaff, o Sonnengott, uns Ruhm, den höchsten bei der Götterschar Und schönsten, der zum Himmel ragt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нашу славу сделай  
 Высшей среди богов, о Сурья,  

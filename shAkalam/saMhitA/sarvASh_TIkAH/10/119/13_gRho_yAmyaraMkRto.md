@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गृहो꣡ यामि अ꣡रंकृतो  
 देवे꣡भ्यो हव्यवा꣡हनः  
 कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 कु॒वित् । सोम॑स्य । अपा॑म् । इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gṛho* ← *gṛhaḥ* ← *gṛha*
 - \[noun\], nominative, singular, masculine
@@ -81,36 +81,36 @@ popular;; repeated line
 **गृहः** हविषां ग्रहीता **अरंकृतः** यजमानैरलंकृतोऽहं **देवेभ्यः** इन्द्रादिभ्यः **हव्यवाहनः** हविषां वोढा प्रापयिता अग्न्यात्मा सन् **यामि** हवींषि प्रापयामि ॥  ‘ या प्रापणे '। लट् ।  ‘ हव्येऽनन्तःपादम् ' इति वहेर्ञ्युट् । ञित्त्वादाद्युदात्तः । समासे कृदुत्तरपदप्रकृतिस्वरः ॥ **इति** यस्मात् **कुवित्** बहुवारं **सोमस्य** सोमम् **अपां** पीतवानस्मि । तस्मादेतान्यकार्षमितीन्द्रः स्वात्मानमेवास्तावीत् ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Receiving the offering I go, graced (by the worshippers), bearing the oblation to the gods, for I haveoften drunk of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As a household that is properly equipped, I journey as the carrier of the  oblations to the gods.  
 – Have I drunk of the soma? Yes!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I seek the worshipper's abode; oblation-bearer to the Gods:  
      Have I not drunk of Soma juice?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich gehe, ein reichausgestattetes Haus, den Göttern die Opfer bringend. - Ich merke, daß ich Soma getrunken habe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich gehe als Diener bereit gemacht, indem ich den Göttern die Opferspeisen zuführe. Hat mich der Soma denn berauscht?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отбываю – хорошо оснащенный дом, –  
 Везя богам жертвоприношения –  

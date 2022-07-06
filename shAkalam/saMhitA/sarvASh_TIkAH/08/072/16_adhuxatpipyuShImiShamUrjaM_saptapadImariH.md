@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धुक्षत् पिप्यु꣡षीम् इ꣡षम्  
 ऊ꣡र्जं सप्त꣡पदीम् अरिः꣡  
 सू꣡र्यस्य सप्त꣡ रश्मि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सूर्य॑स्य । स॒प्त । र॒श्मिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhukṣat* ← *duh*
 - \[verb\], singular, sa aorist (Ind.)
@@ -74,7 +74,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अरिः** अरणशीलो वायुः **सूर्यस्य** **सप्त** **रश्मिभिः** साधनैः **पिप्युषीम्** आप्याययत् **इषम्** अन्नम् **ऊर्जं** रसं च **सप्तपदीं** सर्पणस्वभावपादां माध्यमिकां वाचं घर्मधुग्रूपेणावस्थिताम् **अधुक्षत्** दुग्धवान् । यद्यप्यध्वर्युः पात्रेण गां दुग्धे तथाप्येवंभावनया साङ्गं भवति । माध्यमिकाया वाचो मधुधुक्त्वं ' हिङ्कृण्वती, गौरमीमेत्' (ऋ. सं. १. १६४. २७, २८) इत्यादिषु प्रसिद्धम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,29 +85,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Saptapadīm = the middle tone with gliding foot, which is person nified in the cow that is milked into thegharma; sarpaṇa **svabhāva** pādam mādhyamikam vācam gharmadhugrūpeṇāvasthitām; the thunder isoften called the **mādhyamikā** vāk; the cow (**soma** krayani) which is given as the price of the Soma, has totake seven steps, and it is considered to be vāk person nified; cf. **Taittirīya** **Saṃhitā** 6.1.7.8
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The stranger has milked the swelling refreshment, the nourishment  associated with the seven steps,  
 along with the seven rays of the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Pious One milked out rich food, sustenance dealt in portions seven,  
      Together with the Sun's seven rays.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der hohe Herr hat quillende Speise, Nahrung, die sieben Schritte mitgeht, herausgemolken, mit den sieben Strahlen der Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Treue sog den fetten Trank, die Speis', die sieben Stätten füllt, Durch siebenfachen Sonnenstrahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Преданный (друг) надоил набухшей  
 Жертвенной услады, питательной силы (прочностью) в семь шагов  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡किः प꣡रिष्टिर् मघवन् मघ꣡स्य ते  
 य꣡द् दाशु꣡षे दशस्य꣡सि  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 मं꣡हिष्ठो वा꣡जसातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒स्माक॑म् । बो॒धि॒ । उ॒चथ॑स्य । चो॒दि॒ता । मंहि॑ष्ठः । वाज॑ऽसातये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakiḥ* ← *nakir*
 - \[adverb\]
@@ -102,20 +102,20 @@ genre M;; repeated line
 हे **मघवन्** धनवन्निन्द्र **ते** तव **मघस्य** मंहनीयस्य धनस्य **परिष्टिः** परिबाधको निरोद्धा **नकिः** न कश्चिदस्ति । **यत्** यदा **दाशुषे** हविर्दत्तवते यजमानाय **दशस्यसि** धनं प्रयच्छसि तदा तस्य निरोधको नास्तीत्यर्थः । तथा सति **चोदिता** धनानां चोदयिता स्तोतृभ्यः प्रेरयिता अत एव **मंहिष्ठः** दातृतमो मंहनीयो वा स त्वम् **अस्माकं** संबन्धि **उचथस्य** स्तोत्रं **वाजसातये** अन्नलाभाय तदर्थं क्रियमाणमिति **बोधि** बुध्यस्व । स्तोत्रेण स्तुतः सन्नस्मभ्यमन्नादिकं प्रयच्छेति शेषः । बोधि ।  ‘ बुध अवबोधने । भौवादिकः । लोटि छान्दसः शपो लुक् । ध्यादेशः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “None can hinder your bounty, **Maghavan**, when you give wealth to your votary, most liberal sender (ofwealth), listen to our praise for the attainment of food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There is no constriction of your bounty, bounteous one, when you show  favor to the pious man.  
 Become the stimulator of our speech, most munificent, for the winning  of prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes háskṛti- as qualifying the ritual fire - again a good suggestion.
 
@@ -124,23 +124,23 @@ The fire’s crackling is the “laughter.” Unfortunately Geldner bleaches the
 “der helle Schein (des Opferfeuers),” which substitutes an unremarkable visual image for the striking auditory one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Maghavan, thou honourest the worshipper, no one is there to stay thy wealth.  
      Most liberal Giver thou, do thou inspire our song of praise, that we may win the spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für deine Gabe gibt es kein Hemmnis, o Gabenreicher, wenn du dem Opferspen-denden gefällig bist. Sei du unseres Lieds Ermutiger, recht freigebig, damit wir den Siegerpreis gewinnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für deine Gabe ist kein Hinderniss, o Held, wenn du dem Frommen spenden willst; Sei du es, welcher unsern Lobgesang verschärft, aufs beste schenkend zu dem Fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нет никакого препятствия, о щедрый, для твоего щедрого дара,  
 Когда ты почитаешь почитателя (своего).  

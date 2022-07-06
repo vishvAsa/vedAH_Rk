@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तीव्र꣡स्याभि꣡वयसो अस्य꣡ पाहि  
 सर्वरथा꣡ वि꣡ ह꣡री इह꣡ मुञ्च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ रीरमन् तु꣡भ्यम् इमे꣡ सुता꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ । मा । त्वा॒ । यज॑मानासः । अ॒न्ये । नि । री॒र॒म॒न् । तुभ्य॑म् । इ॒मे । सु॒तासः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tīvrasyābhivayaso* ← *tīvrasya* ← *tīvra*
 - \[noun\], genitive, singular, masculine
@@ -129,36 +129,36 @@ genre M
 **तीव्रस्य** तीक्ष्णस्य क्षिप्रंमदकरस्य **अभिवयसः**। वय इत्यन्ननाम। अभिगतं चरुपुरोडाशाद्यन्नं यस्य तादृशस्य **अस्य** सोमस्य। क्रियाग्रहणं कर्तव्यम् इति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी। ईदृशं सोमं हे इन्द्र **पाहि** पिब। पिबतेश्छान्दसः शपो लुक्। तदर्थं **सर्वरथा** सरणशीलस्थौ **हरी** अश्वौ **इह**  अस्मिन् यज्ञगृहे **वि** **मुञ्च** रथाद्विसृज। हे **इन्द्र** अस्मत्तः **अन्ये** **यजमानासः** यजमानाः **त्वा** त्वां **मा** **नि** **रीरमन्** नितरां मा रमयन्तु। वयमेव रमयाम इत्यर्थः। ततः **तुभ्यं** त्वदर्थमेव **सुतासः** सुता अभिषुताः **इमे** प्रत्यक्षेणोपलभ्यमानाः सोमा वर्तन्ते।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink, **Indra**, of this sharp (**Soma**, which is) combined with sacrificial food, unyoke here your bay”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink of this sharp vitalizing (soma). Here unhitch your two fallow bays,  chariot and all.  
 O Indra, let the other sacrificers not stop you: yours are these pressed  (soma drinks) here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 TASTE this strong draught enriched with offered viands: with all thy chariot here unyoke thy Coursers.  
      Let not those other sacrificers stay thee, Indra: these juices shed for thee are ready.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink von diesem scharfen, zu Kraft verhelfenden Soma! Spann hier das Falbenpaar mit vollständigem Wagenzug aus, Indra! Nicht sollen dich andere Opferer anhalten: Für dich sind diese Soma´s ausgepreßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von diesem starken trinke, der dich labet, und lös' die Rosse mit dem ganzen Wagen, Nicht sollen andre Opferer dich fesseln, o Indra, dir gehören diese Tränke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выпей этого резкого дающего силу (сомы)!  
 Распрягай здесь пару буланых коней со всем обозом!  

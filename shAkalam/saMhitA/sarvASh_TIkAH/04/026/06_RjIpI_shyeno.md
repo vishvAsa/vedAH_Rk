@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋजीपी꣡ श्येनो꣡ द꣡दमानो अंशु꣡म्  
 पराव꣡तः शकुनो꣡ मन्द्र꣡म् म꣡दम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवो꣡ अमु꣡ष्माद् उ꣡त्तराद् आदा꣡य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सोम॑म् । भ॒र॒त् । द॒दृ॒हा॒णः । दे॒वऽवा॑न् । दि॒वः । अ॒मुष्मा॑त् । उत्ऽत॑रात् । आ॒ऽदाय॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛjīpī* ← *ṛjīpin*
 - \[noun\], nominative, singular, masculine
@@ -114,20 +114,20 @@ genre M
 ऋजीपी ऋजुगामी परावतः दूरात् **अंशुं** सोमं **ददमानः** धारयन् श्येनः शंसनीयगमनः देववान् देवैः सहितः शकुनः पक्षी मन्द्रं मदनीयं स्तुत्यं मदं मदकरं सोमम् उत्तरात् उद्गततरात् **अमुष्मात्** **दिवः** द्युलोकात् आदाय स्वीकृस्य ददृहाणः दृढीभवन् **भरत्** अहरत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The straight-flying hawk, conveying the **Soma** from afar; the bird, attended by the gods, brought, resolute of purpose, the adorable exhilarating Soma, having taken it from that lofty heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Flying straight, the falcon, the bird, hanging onto the plant, brought  from afar the gladdening, exhilarating drink,  
 the soma, holding it firmly, having the gods on his side, having taken it  from yonder high heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Three of the four cadences in this verse are bad (b, c, d).
 
@@ -146,23 +146,23 @@ The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythol
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bearing the stalk, the Falcon speeding onward, Bird bringing from afar the draught that gladdens,  
      Friend of the Gods, brought, grasping fast, the Soma which be bad taken from yon loftiest heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vorausschließend, den Stengel haltend bracht der Adler, der Vogel aus der Ferne den erfreulichen Rauschtrank, der Götterfreund den Soma, ihn festhaltend, nachdem er ihn aus jenem höchsten Himmel geholt hatte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der rasche Aar, die Somapflanze nehmend, von Ferne trug den Freudentrank der Vogel; Der gottumgebne, fest den Soma haltend, den er sich nahm von jenem höchsten Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прямолетящий (?) орел, держа стебель (сомы),  
 Птица издалека, преданная богам, крепко ухватив  

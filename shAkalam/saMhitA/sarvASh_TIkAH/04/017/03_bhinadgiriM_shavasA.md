@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भिन꣡द् गिरिं꣡ श꣡वसा व꣡ज्रम् इष्ण꣡न्न्  
 आविष्कृण्वानः꣡ सहसान꣡ ओ꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡रन्न् आ꣡पो ज꣡वसा हत꣡वृष्णीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वधी॑त् । वृ॒त्रम् । वज्रे॑ण । म॒न्द॒सा॒नः । सर॑न् । आपः॑ । जव॑सा । ह॒तऽवृ॑ष्णीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhinad* ← *bhinat* ← *bhid*
 - \[verb\], singular, Present injunctive
@@ -116,21 +116,21 @@ genre M
 **सहसानः** शत्रूणामभिभवन् **ओजः** तेजः आविष्कृण्वानः आविष्कुर्वन् इन्द्रः **वज्रमिष्णन्** वज्रं प्रेरयन् **शवसा** बलेन **गिरिं** पर्वतं जातं **भिनत्** अभिनत् बिभेद । किंच **मन्दसानः** सोमेन मोदमान इन्द्रः **वज्रेण** **वृत्रं** वृत्रनामानमसुरं **वधीत्** अवधीत् जघान । ततः **आपः** वृत्रेणावृतान्युदकानि **हतवृष्णीः** । हतो वृषा वृत्रो यासां ता हतवृष्ण्यः । ता वृत्रवधानन्तरं निवारणरहिताः सत्यः **जवसा** वेगेन **सरन्** असरन् अगच्छन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The subduer of foes, manifesting his energy and hurling his thunderbolt, shattered the mountain by his strength; he slew **Vṛtra** with the thunderbolt, exulting, and the waters whose obstructor was destroyed rushed forth with rapidity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He split the mountain, hurling his mace with his strength, revealing his  power, displaying his might.  
 He smashed Vr̥tra with his mace in his exhilaration. With their bull  
 struck down, the waters ran swiftly.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Almost the full panoply of power terms is on display in the first hemistich: śávas-, sáhas- (in the pseudo-part., on which see comm. ad IV.3.6), and ójas-.
 
@@ -156,23 +156,23 @@ Its medial ending is an example of -anta replacement of the usual type (cf. Jami
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hurling his bolt with might he cleft the mountain, while, putting forth his strength, he showed his vigour.  
      He slaughtered Vrtra with his bolt, exulting, and, their lord slain, forth flowed the waters swiftly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er spaltete den Berg, mit Kraft die Keule entsendend, als Sieger seine Stärke offenbarend. Er erschlug berauscht den Vritra mit der Keule; die Gewässer liefen in Eile davon, als ihr Bulle erschlagen war.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Macht zerbrach den Fels er, Blitze schleudernd, der allgewalt'ge, seine Kraft erweisend; Den Vritra schlug er munter mit dem Blitze, befreit vom Stiere rannen schnell die Wasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С силой он расколол гору, швыряя ваджру,  
 Как победитель являя силу.  

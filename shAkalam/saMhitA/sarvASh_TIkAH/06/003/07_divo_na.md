@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ न꣡ य꣡स्य विधतो꣡ न꣡वीनोद्  
 वृ꣡षा रुक्ष꣡ · ओ꣡षधीषु नूनोत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ रो꣡दसी व꣡सुनादं꣡ सुप꣡त्नी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 घृणा॑ । न । यः । ध्रज॑सा । पत्म॑ना । यन् । आ । रोद॑सी॒ इति॑ । वसु॑ना । दम् । सु॒पत्नी॒ इति॑ सु॒ऽपत्नी॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -123,7 +123,7 @@ genre M
 **दिवो** **न** दीप्तस्य सूर्यस्येव **विधतः** विधातू रश्मीकुर्वतः **यस्य** अग्नेः **नवीनोत्** भृशं शब्दोऽभूत् । एतदेव व्याचष्टे । **वृषा** कामानां वर्षिता **रुक्षः** दीप्तः सोऽग्निः **ओषधीषु** दह्यमानासु **नूनोत्** भृशं शब्दमकरोत् । **यः** च **घृणा** **न** संचलनशीलेन दीप्तेनेव **ध्रजसा** गमनशीलेन तेजसा **पत्मना** इतस्तत उत्पतता **यन्** गच्छन् वर्तते सोऽग्निः **दम्** अस्मच्छत्रून् दमयन् **सुपत्नी** शोभनपतिके **रोदसी** द्यावापृथिव्यौ **वसुना** धनेन **आ** पूरयति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M
 Fills the well-wedded: ā **rodasī** vasunā supātnī, śobhanapatikā **dyāvā** pṛthivyau dhanena pūrayati = he fills with wealth heaven and earth, both having a brilliant husband or lord; may be a reference to **Agni** or **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He whose (roar), like that of heaven, keeps roaring as he does honor,  (that) bull keeps roaring in the tree, in the plants— he who, like a traveler in the (sun’s) heat, going with a swoop, with a  flight, has *stretched with his goods to the two world-halves, who  
 (thus) have (in him) a good husband.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 More or less with Geldner (fld. also by Renou), I supply a word for sound or noise as the subj. of pāda a; see Geldner’s parallels cited in his n. 7a. They opt for ‘voice’, while I favor something generated from the two verbs in this hemistich, both derived from √nu ‘roar’, e.g., nāvá- ‘roar(ing)’.
 
@@ -157,23 +157,23 @@ rukṣá- is a hapax. It is generally taken as a nom. sg. -as out of sandhi with
 Note the return of √dhraj (dhrájasā) and pátman (pátmanā) from 5cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like Heaven's when scattering beams his voice was uttered: among the plants the radiant Hero shouted,  
      Who with his glow in rapid course came hither to fill both worlds, well-wedded Dames, with treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Stimme, wenn er die Götter verehrt, wie die des Himmels ertönt, der glänzende Stier brüllt in den Pflanzen, der wie bei Sonneglut in Eile, im Fluge geht und Himmel und Erde mit Gut erfüllt, die beide in ihm einen guten Hausgebieter haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, dessen Keule, wie des Himmels, donnert, der helle Stier, er brüllt bei den Gewächsen, Er, der mit Glut im Windzug geht im Fluge, mit Gut zu beiden wohlvermählten Welten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чей (голос) громко ревет, когда он почитает (богов), словно (голос) неба,  
 (Тот) бык громко ревет в дереве, в растениях.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गृभीतं꣡ ते म꣡न इन्द्र द्विब꣡र्हाः  
 सुतः꣡ सो꣡मः प꣡रिषिक्ता म꣡धूनि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इय꣡म् इ꣡न्द्रं जो꣡हुवती मनीषा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विसृ॑ष्टऽधेना । भ॒र॒ते॒ । सु॒ऽवृ॒क्तिः । इ॒यम् । इन्द्र॑म् । जोहु॑वती । म॒नी॒षा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gṛbhītaṃ* ← *gṛbhītam* ← *grah*
 - \[verb noun\], nominative, singular
@@ -120,7 +120,7 @@ genre M
 हे इन्द्र **द्विबर्हाः** । षष्ठ्यर्थे प्रथमा । द्विबर्हसो द्वयोः स्थानयोः परिवृढस्य **ते** तव **मनः** **गृभीतम्** अस्माभिः परिगृहीतम् । **सोमः** च **सुतः** अभिषुतः । **मधूनि** च **परिषिक्ता** पात्रेषु परिषिक्तानि । **विसृष्टधेना** विसृष्टजिह्वा मध्यमस्वरेणोच्चार्यमाणा **सुवृक्तिः** सुसमाप्तिः **इयं** **मनीषा** स्तुतिः **इन्द्रं** **जोहुवती** भृशमाह्वयन्ती **भरते** संभ्रियते च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,14 +131,14 @@ genre M
 Mighty in the two worlds: dvibhara = dvibarhasaḥ, agreeing with te dvayoḥ sthanayoḥ parivṛḍhasya tava **mana** gṛhitam, the mind of you who are enlarged in both is apprehended; the plural ces may beheaven and earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your doubly lofty mind has been captured, Indra; the soma has been  pressed, the honeyed (drinks) poured.  
 With the milk-streams released, the well-turned (hymn) is borne  
 (forth)—this inspired thought constantly invoking Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The striking expression “your mind … has been captured” presumably indicates that our successful preparations for the ritual have forcibly brought Indra to the soma sacrifice, with the implication that he is prevented from going to the sacrifices of others.
 
@@ -154,23 +154,23 @@ Gotō (1stCl., 226 n. 483) interprets bharate in c not as a passive (with Grassm
 With others I take pāda d as an extension of c, with iyám … manīṣā́an appositive to suvṛktíḥ. However, it would be possible to take it independently: “this inspired thought is constantly invoking Indra,” since, though fairly rare, predicated present participles do exist, and the short staccato clauses of the earlier part of the hymn may invite an independent reading here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, thy wish, twice-strong, is comprehended: pressed is the Soma, poured are pleasant juices.  
      This hymn of praise, from loosened tongue, made perfect, draws Indra to itself with loud invoking.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Sinn, o Indra, ist doppelt gefangen. Der Soma ist gepreßt, die süßen Tränke sind eingeschenkt. Die Lobrede wird in entfesseltem Strome dargebracht, dieses Gedicht, das Indra anruft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erregt, o Indra, ist dein Geist, und reichlich gepresst der Soma, Süssigkeit ergossen, Gebracht wird dir die milchgemischte Speise, und mächtig ruft dies Andachtslied den Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разум твой дважды захвачен, о Индра.  
 Выжат сома, разлиты сладкие (струи).  

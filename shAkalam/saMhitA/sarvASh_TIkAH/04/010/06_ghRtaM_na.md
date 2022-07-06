@@ -6,7 +6,7 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृतं꣡ न꣡ पूतं꣡  
 तनू꣡र् अरेपाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 त꣡त् ते रुक्मो꣡ न꣡ रोचत स्वधावः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 तत् । ते॒ । रु॒क्मः । न । रो॒च॒त॒ । स्व॒धा॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
@@ -96,48 +96,48 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **स्वधावः** । स्वधाशब्दोऽन्नवाची । अन्नवन्नग्ने **पूतं** शोधितं **घृतं** **न** आज्यमिव **तनूः** त्वदीया मूर्तिः **अरेपाः** पापरहिता भवति । **शुचि** शुद्धं **हिरण्यं** हितरमणीयं **ते** त्वदीयं **तत्** प्रसिद्धं तेजः **रुक्मो** **न** भूषणमिव **रोचत** रोचते भासते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Giver of sustenance, (**Agni**), your favour is free from fault, like clarified butter; your pure and golden lustre shines like an ornament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like purified ghee your body is spotless gleaming gold.  
 This (flame?) of yours shines like a gold ornament, autonomous one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referent of tát in d is unclear. It cannot be ‘body’, since tanū́- is feminine. I’ve supplied ‘flame’, but any bright neuter entity would do. Most tr.
 
 simply leave the referent blank.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Spotless thy body, brilliant as gold, like clarified butter:  
      This gleams like gold on thee, O Self. dependent.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Like purified ghrita is thy stainless body; (it is) brilliant gold: that (body) of thine has shone 1, O self-dependent one, like gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie geläutertes Schmalz, fleckenlos ist dein Leib, lauteres Gold; das leuchtet an dir wie Goldschmuck, du Freischaltender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie helle Butter – wie reiner Körper – wie glänzend Gold auch, So strahlt dein Licht, o Herrlicher, wie Goldschmuck.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищено, словно жир,  
 Без пятен тело твое,  

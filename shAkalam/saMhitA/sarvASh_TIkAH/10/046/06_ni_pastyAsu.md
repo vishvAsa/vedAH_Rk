@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ पस्ति꣡यासु त्रित꣡ स्तभूय꣡न्  
 प꣡रिवीतो यो꣡नौ सीदद् अन्तः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡धर्मणा अयन्त्रइ꣡र् ईयते नॄ꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अतः॑ । स॒म्ऽगृभ्य॑ । वि॒शाम् । दमू॑नाः । विऽध॑र्मणा । अ॒य॒न्त्रैः । ई॒य॒ते॒ । नॄन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 **त्रितः** त्रिषु स्थानेषु गार्हपत्यादिषु तायमानः **स्तभूयन्** यजमानगृहान् स्तम्भयितुमिच्छन् । इच्छार्थे क्यचि तदन्ताच्छतरि रूपम् । **परिवीतः** परितो ज्वालाभिर्व्याप्तः सन् **पस्त्यासु** यागगृहेषु **योनौ** **अन्तः** स्वीये वेद्यात्मके स्थाने **नि** **षीदत्** निषीदति । **अतः** अस्मात्स्थानात् **विशां** प्रजानां संबन्धीनि हवींषि **संगृभ्य** संगृह्य इन्द्रादीनुद्दिश्य प्रत्तानि चरुपुरोडाशादीनि स्वीकृत्य **दमूनाः** देवेभ्यो दानमना यजमानाय वाभिमतप्रदानमनाः **विधर्मणा** तासां विविधेन कर्मणा निमित्तेन दानमना देवेभ्यो दानपक्षे विविधगमनरूपेण कर्मणा **यन्त्रैः** शत्रूणां नियमनैः सह **नॄन्** देवान **ईयते** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,30 +120,30 @@ genre M
 Goes to the gods: ayantrai īyate nṛn = liṭ, by non-restraints he goes to men; śatrūṇām niyamanaihsaha = with restraints on his foes, devān gacchati
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Trita [= the “third” fire], standing fast in the dwelling places,  surrounded, sits down inside the womb.  
 From there the domestic leader of the clans [=Agni], having amassed  (goods?), with his reinless (horses) speeds to the superior men  
 through the spreading expanse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Holding his station firmly in the houses, Trita sat down within his home surrounded  
      Thence, as Law bids, departs the Tribes' Companion having collected men with no compulsion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In den Flüssen sich ausbreitend saß Trita, im Mutterschoße umhüllt. Von da eilt der Gebieter der Clane zu den Männern, sie durch seine Ausbreitung ohne Zwangsmittel zusammenhaltend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erzeugt von Trita, in den Häusern, weilend, sass er verhüllt im Innern seiner Wohnung; Von dort her kam der Hausfreund aller Menschen, die Männer sammelnd ohne Zwang im Umkreis.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обосновавшись в реках как Трита,  
 Сидел он, окруженный со всех сторон в (материнском) лоне.  

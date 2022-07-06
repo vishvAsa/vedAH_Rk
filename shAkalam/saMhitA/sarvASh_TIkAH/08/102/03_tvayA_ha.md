@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡या ह स्विद् युजा꣡ वयं꣡  
 चो꣡दिष्ठेन यविष्ठिय  
 अभि꣡ ष्मो वा꣡जसातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒भि । स्मः॒ । वाज॑ऽसातये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **यविष्ठ्य** युवतमाग्ने **चोदिष्ठेन** अतिशयेन धनानां प्रेरयित्रा **त्वया** **युजा** **स्वित्** **ह** सहायेनैव **वयं** भार्गवः प्रयोगो बार्हस्पत्याः पावका अग्नयो वा **वाजसातये** अन्नलाभाय **अभि** **ष्मः** शत्रूनभिभवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O ever youthful one, with you as our ally, the sender of wealth, we overcome (our enemies) fo rtheattainemnt of food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With you as best inciting yokemate, o youngest one,  
 we become dominant to win the prize.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Ever-Youthful One, with thee, best Furtherer, as our ally,  
      We overcome, to win the spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dir, dem Anspornendsten im Bunde, du Jüngster, haben wir den Vorsprung zur Gewinnung des Siegerpreises.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit dir, dem bestbegeisternden, vereint, o jüngster, sind wir ja Geschickt, um Beute zu empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это с тобою как с союзником,  
 Лучше всех вдохновляющим, о самый юный,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡द् भिया꣡ वि꣡श आयन्न् अ꣡सिक्नीर्  
 असमना꣡ ज꣡हतीर् भो꣡जनानि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡रो य꣡द् अग्ने दर꣡यन्न् अ꣡दीदेः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वैश्वा॑नर । पू॒रवे॑ । शोशु॑चानः । पुरः॑ । यत् । अ॒ग्ने॒ । द॒रय॑न् । अदी॑देः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
@@ -108,7 +108,7 @@ genre M
 हे **वैश्वानर** विश्वनरहित **अग्ने** **त्वत्** त्वत्तः **भिया** भीत्या **असिक्नीः** असितवर्णा राजस्यः ॥ प्रथमार्थे द्वितीया ॥ **विशः** प्रजाः **असमनाः** परस्परमसमेताः **भोजनानि** धनानि **जहतीः** त्यजन्त्यः **आयन्** आगच्छन् । कदेत्यत आह । **यत्** यदा **पूरवे** राज्ञे **शोशुचानः** दीप्यमानः **पुरः** तस्य शत्रूणां पुरः **दरयन्** दारयन् **अदीदेः** अज्वलः । तथा च निगमः-’ अंहो राजन्वरिवः पूरवे कः' (ऋ. सं. १. ६३. ७) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,28 +119,28 @@ genre M
 Puru: In RV. 1.67.3, Purave occurs as an epithet of **Sudāsa**, one who fills or satisfies with offerings.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The dark clans went breaking ranks, leaving their supplies, from fear of you, o Vaiśvānara, when you shone, breaking their strongholds, blazing for  Pūru, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For fear of thee forth fled the dark-hued races, scattered abroad, deserting their possessions,  
      When, glowing, O Vaisvanara, for Puru, thou Agni didst light up and rend their castles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus Furcht vor dir zogen die schwarzen Stämme fort, indem sie kampflos ihren Besitz zurückließen, als du, Vaisvanara Agni, für Puru flammend, ihre Burgen brechend, leuchtetest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus Furcht vor dir entflohn die schwarzen Stämme, zerstiebend rings, verlassend ihre Habe, Als leuchtend du, o Männerhort, dem Volke erstrahltest, Agni, ihre Burgen brechend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из страха перед тобой ушли черные племена,  
 Разбегаясь в разные стороны, оставляя (свое) имущество,  

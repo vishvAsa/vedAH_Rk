@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रम् मे गन्तं ह꣡वनाय अस्मइ꣡  
 गृणाना꣡ य꣡था पि꣡बाथो अ꣡न्धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ य꣡त् प꣡रो न꣡ अ꣡न्तरस् तुतुर्या꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 परि॑ । ह॒ । त्यत् । व॒र्तिः । या॒थः॒ । रि॒षः । न । यत् । परः॑ । न । अन्त॑रः । तु॒तु॒र्यात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aram*
 - \[adverb\]
@@ -130,41 +130,41 @@ genre M
 हे अश्विनौ युवां **मे** मदीयाय **अस्मै** **हवनाय** आह्वानाय **अरं** पर्याप्तं **गन्तं** गच्छतम् । **गृणाना** स्तूयमानौ **अन्धः** सोमं **यथा** **पिबाथः** पिबतम् । **रिषः** हिंसकस्य शत्रोः **त्यद्वर्तिः** तद्गृहं **परि** **याथः** परितो याथः **यत्** वर्तिः **परः** विप्रकृष्टः **न** **तुतुर्यात्** न हिंस्यात् । **अन्तरः** संनिकृष्टोऽपि **न** तुतुर्यात् । यद्वा । त्यद्वर्तिस्तदस्मदीयं गृहं रिषो हिंसकात् परि याथः । त्यद्वर्तिः परो विप्रकृष्टोऽन्तरः संनिकृष्टोऽपि न तुतुर्यात् । अयं भावः । यथास्मदीयं गृहं दूरस्थः संनिकृष्टोऽपि न हिंस्यात्तथा रक्षां कुरुथ इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praised, that you may drink the (sacrificial) **Soma**, you come promptly upon this my invocation; keep guard around the dwelling against (all) advdrsaries, so that neither one that abides at a distance nor a neighbour may do us harm.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come fit for this summons of mine, so that, being hymned, you will  drink the stalk.  
 You drive, away from harm, around this circuit, which neither a distant  one nor one close by may traverse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The abl. (or, in principle, gen.) riṣáḥ is a bit hard to construe. Whenever this form occurs elsewhere (and it’s not rare), it is with a form of either √pā or √rakṣ: “protect from harm.” Geldner supplies ‘protect’ here as well: “(zum Schutz) gegen Schaden.” However, in the absence of a lexical ‘protect’ and in the presence of a verb of motion (yāthaḥ), I take it as an ablative of place from which.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come readily to this mine invocation, lauded with songs, that ye may drink the juices.  
      Compass this house to keep it from the foeman, that none may force it, either near or distant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet rechtzeitig auf diese Anrufung von mir, auf daß ihr gepriesen den Saft trinket. Ihr macht diese Umfahrt zum Schutz gegen den Schaden, die weder der Fremde noch der Nahestehende übertreffen kann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt nahe her zu diesem meinen Anruf, dass ihr, gepries'ne, trinken mögt vom Safte; Und geht um diesen Hof, damit der Feinde kein naher und kein ferner uns bewält'ge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте сразу же на этот мой зов,  
 Чтобы пить сок, когда (вас) воспоют!  

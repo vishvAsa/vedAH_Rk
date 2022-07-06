@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡प प्रा꣡च इन्द्र वि꣡श्वाँ अमि꣡त्रान्  
 अ꣡पा꣡पाचो अभिभूते नुदस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरउ꣡ य꣡था त꣡व श꣡र्मन् म꣡देम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अप॑ । उदी॑चः । अप॑ । शू॒र॒ । अ॒ध॒राचः॑ । उ॒रौ । यथा॑ । तव॑ । शर्म॑न् । मदे॑म ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apa*
 - \[adverb\]
@@ -121,37 +121,37 @@ genre M
 हे **इन्द्र** **प्राचः** प्रमुखमञ्चतः प्राग्देशे वर्तमानान् । अस्मत्तः पूर्वभागे वर्तमानानित्यर्थः । प्रपूर्वादञ्चतेः  ‘ ऋत्विक् इत्यादिना क्विन् ।  ‘ अनिदिताम्' इति, नलोपः । शसि  ‘ अचः । इत्यकारलोपे ' चौ ' इति दीर्घत्वम् ।“ अनिगन्तोऽञ्चतौ वप्रत्यये' (पा. सू. ६.२.५२) इति गतेः प्रकृतिस्वरत्वम् । तादृशान् **विश्वान्** सर्वान् **अमित्रान्** शत्रून् **अप** **नुदस्व** अस्मत्तोऽपगमय । तथा हे **अभिभूते** शत्रूणामभिभवितरिन्द्र **अपाचः** अपमुखमञ्चतः पृष्ठभागे वर्तमानान् सर्वान् शत्रून् अप नुदस्व । अपि च **उदीचः** ऊर्ध्वमञ्चतः उपरिवर्तमानान् । उत्पूर्वादञ्चतेः पूर्ववत् क्विनि  ‘ उद ईत्' इत्यञ्चतेरकारस्येकारः । पूर्ववत्स्वरः । तथाविधानपि शत्रून **अप** नुदस्व। तथा हे **शूर** शौर्यवन्निन्द्र **अधराचः** अधरदेशमधोभागमञ्चतश्च अधस्तनानपि शत्रून् **अप** नुदस्व । अधरशब्दोपपदादञ्चतेः शसि पूर्ववत् प्रक्रिया । **चौ** ' इति पूर्वपदस्यान्तोदात्तः । **उरौ** विस्तीर्णे **तव** संबन्धिनि त्वया दत्ते **शर्मन्** शर्मणि गृहे सुखे वा **यथा** वयं **मदेम** निरुपद्रवाः सन्तो हृष्येम तथा त्वं सर्वत्र वर्तमानानस्मदीयान् शत्रून् विनाशयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Victorious **Indra**, drive off all our foes, those who dwell in the east, and those who dwell in the west,(drive) off, O hero, those who dwell in the north, and those who dwell in the south, that we may rejoice in yourexceeding felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O overpowering Indra, thrust away all the eastern foes, away the  
 western ones,  
 away the northern ones, o champion, and away the southern ones, so  that we might rejoice in your broad shelter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 DRIVE all our enemies away, O Indra, the western, mighty Conqueror, and the eastern.  
      Hero, drive off our northern foes and southern, that we in thy wide shelter may be joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vertreibe, Indra, alle östlichen Feinde, vertreibe die westlichen, o Überlegener, vertreibe die nördlichen, vertreibe die südlichen, o Held, auf daß wir uns unter deinem breiten Schirm erfreuen können!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, stoss hinweg die Feinde alle, die östlichen, die westlichen, o Sieger, Hinweg, o Held, die nördlich sind und südlich, damit in deinem weiten Schutz wir froh sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От(толкни) восточных всех врагов, о Индра,  
 Оттолкни, западных, о (всех) превосходящий,  

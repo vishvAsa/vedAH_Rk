@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृज्या꣡म ते प꣡रि द्वि꣡षो  
 अ꣡रं ते शक्र दाव꣡ने  
 गमे꣡मे꣡द् इन्द्र गो꣡मतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ग॒मेम॑ । इत् । इ॒न्द्र॒ । गोऽम॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛjyāma* ← *vṛj*
 - \[verb\], plural, Aorist optative
@@ -92,40 +92,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे शक्र **इन्द्र** याचमाना वयं **ते** तव **द्विषः** द्वेष्टॄन् **परि** **वृज्याम** नोपगच्छेम । किंतु **ते** तव **गोमतः** पशुमतः **दावने** अभीष्टदानाय **अरं** पर्याप्तं **गमेमेत्** गच्छेमैव ॥ ॥४३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Surround **Indra**, may we escape your enemies; may we come to you abundantly for your gifts, rich incattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we avoid your hatred (and be) fit for you to give to, able one. May we go to (prizes) consisting of cattle, Indra—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes b and c together as a single clause and has gómataḥ modify te (“zu deiner, des Kuhbesitzers, Schenkung”), but gómant- is not regularly used of gods (though it occasionally is) and is frequently found with vā́ja- ‘prize’, as in vs. 28 below. And áram is used elsewhere as predicate of a nominal clause.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine enmity may we escape, and, gakra, for thy bounty, rich  
      In kine, may we come near to thee
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten deine Feindschaft vermeiden; wir möchten zu deiner, des Kuhbesitzers, Schenkung gerade recht kommen, o mächtiger Indra;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir mögen deinem Hass entgehn zur Hand sein deiner Gab', o Held, O Indra, der du Kühe schenkst,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да избежим мы проявлений твоей враждебности!  
 Да приобщимся мы к твоему дарению,  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ दइ꣡वोदासो अग्नि꣡र्  
 देवाँ꣡ अ꣡छा न꣡ मज्म꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 तस्थउ꣡ ना꣡कस्य सा꣡नवि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अनु॑ । मा॒तर॑म् । पृ॒थि॒वीम् । वि । व॒वृ॒ते॒ । त॒स्थौ । नाक॑स्य । सान॑वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -108,41 +108,41 @@ genre M
 **दैवोदासः** दिवोदासेनाहूयमानः **अग्निः** **मातरम्** । सर्वस्य लोकस्य धारणवत्त्वात् पृथिवी माता । तां **पृथिवीम्** **अच्छ** प्रति **देवान्** तस्य दिवोदासस्य यज्ञे देवान् **अनु** प्रति हविर्वोढुं **न** **प्र** **वि** **वावृते** । यस्मादेनमग्निं दिवोदासः **मज्मना** बलेन आजुहाव तस्मादयमग्निः **नाकस्य** स्वर्गस्य **सानवि** समुच्छ्रिते देशे स्वायतन एव **तस्थौ** अतिष्ठत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, when invoked by **Divodāsa**, ran along the mother Earth as with might, towards the gods; he tookhis plural ce in the height of heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Fire allied to Divodāsa (has gone) forth, as if (all the way) to the  gods with his might.  
 He has unrolled himself along Mother Earth; he has taken his stand on  the back of the firmament.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes the verb of ab to be prá … tasthau, with the tasthau long postponed to pāda d and pāda c (which has its own verb) parenthetical. This seems too fussy. It is perfectly easy to supply a verb of motion with prá in a (so also Renou, Kümmel 464).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni of Divodasa turned, as 'twere in majesty, to the Gods.  
      Onward he sped along the mother earth, and took his station in the height of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Agni des Divodasa hat sich auf den Weg gemacht in ganzer Größe, wie es sich zu den Göttern ziemt - er hat sich der Mutter Erde entlang verbreitet - nach dem Rücken des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Divodasa Agni hat mit Macht sich götterwärts gewandt Die Mutter Erd' entlang; dann stand er aufrecht da, hoch auf des Himmelsdomes Haupt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни Диводасы от(правился)  
 К богам, как (подобает) во (всем) величии.  

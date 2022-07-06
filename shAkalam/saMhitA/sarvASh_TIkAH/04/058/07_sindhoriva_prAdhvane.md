@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सि꣡न्धोर् इव प्राध्वने꣡ शूघना꣡सो  
 वा꣡तप्रमियः पतयन्ति यह्वाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 का꣡ष्ठा भिन्द꣡न्न् ऊर्मि꣡भिः पि꣡न्वमानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 घृ॒तस्य॑ । धाराः॑ । अ॒रु॒षः । न । वा॒जी । काष्ठाः॑ । भि॒न्दन् । ऊ॒र्मिभिः॑ । पिन्व॑मानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, feminine
@@ -105,7 +105,7 @@ genre D
 **सिन्धोः** स्यन्दमानाया नद्याः सकाशात् **इव** उदकानीव **प्राध्वने** प्रवणवति देशे **शूघनासः** आशुगन्त्र्यः ।  ‘ आशु इति च शु इति च क्षिप्रनामनी भवतः ' ( निरु. ६. १ ) इति निरुक्तम् । **वातप्रमियः** वायुवत् प्रकृष्टवेगाः **यह्वाः** महत्यः **घृतस्य** **धाराः** **पतयन्ति** गच्छन्त्यग्नेरुपरि । घृतमुदकमिति पक्षे सिन्धोरिवेत्यत्र इवशब्दोऽनर्थकः । स्यन्दनसाधनादन्तरिक्षादुक्तलक्षणा घृतधारा उदकधाराः पतयन्ति गच्छन्ति भूमौ । किंच घृतसंस्त्यायः **काष्ठाः** मर्यादाभूतान् परिधीन् **भिन्दन्** **ऊर्मिभिः** रसैः **पिन्वमानः** वर्धमानो भवति । उदकमिति पक्षे काष्ठाः क्रान्त्वा स्थिता दिशो भिन्दन्नूर्मिभिः तरङ्गैः पिन्वमानो भवति । तत्र दृष्टान्तः । **अरुषो** **न** **वाजी** आरोचमानो गर्वेण गमनशीलोऽश्व इव । स यथा भिन्दन् पिन्वमानश्च भवति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,14 +116,14 @@ genre D
 Swift as the wind: **vāta** pramiyaḥ vayūvat prakṛṣṭavega; the comparison may be to **Sindhu**, a river agitated by the wind; breaking through the confining banks: **kāṣṭhā** bhindan urmibhiḥ pinvamānaḥ: kāṣṭhā = limiting circles; maryādābhūtān paridhīn limits within which the flowing butter increases with its juice; **ghṛta** may also mean water, when sindhu will imploy **antarikṣa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As if on the straightaway of a river, they fly—the youthfully exuberant  ones, swift-battering, confounding the wind—  
 the streams of ghee—like a ruddy prizewinning horse splitting  
 the wooden race-course barriers [/splintering the sticks (in their  current)], swelling with their waves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A difficult verse, primarily because of the two hapaxes, śūghanā́saḥ and vā́tapramiyaḥ. The former is taken by Geldner as ‘whirlpools, eddies’ (Wirbel)(followed not terribly enthusiastically by Renou) on no particular basis, and others have added their own at best weakly supported tr.: e.g., Thieme ‘cow-killing’ [śū- ← *pśu-] KlSch. 52), most recently Witzel Gotō ‘die schwellenden Massen’ (presumably with root noun 1st member and later ghana- ‘clump, mass’). The interpr. reflected in the published translation is no stronger than these others. It begins with ghaná- ‘smiter’ (well represented in the RV), as Thieme’s also must. But for 1st member I assume a zero-grade of āśú- ‘swift’ (for the uncertainties of the initial of the PIE ‘swift’ words, see EWA s.v.) with lengthening at compound seam. With two such ad hoc assumptions, this interpr. is simply a place-holder.
 
@@ -142,7 +142,7 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As rushing down the rapids of a river, flow swifter than the wind the vigorous currents,  
      The streams of oil in swelling fluctuation like a red courser bursting through the fences.  
@@ -150,17 +150,17 @@ As rushing down the rapids of a river, flow swifter than the wind the vigorous c
      The streams of holy oil attain the fuel, and Jatavedas joyfully receives them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie im Gefälle des Stromes die Wirbel, so eilen den Wind hinter sich lassend die jüngsten Ströme des Ghrita, wie ein rötliches Roß, das die Schranken durchbricht, mit den Wogen hochgehend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schnellen fliegen wie im Sturz des Stromes, hinschiessend rascher als des Windes Wehen, Der Butter Ströme wie ein feur'ges Rennpferd, die Bahn durchschneidend, schwellend durch die Wogen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подобно водоворотам в прямом русле реки  
 Летят, оставляя позади себя ветер, юные  

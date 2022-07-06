@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व त्य꣡द् इन्द्रिय꣡म् बृह꣡त्  
 त꣡व शु꣡ष्मम् उत꣡ क्र꣡तुम्  
 व꣡ज्रं शिशाति धिष꣡णा व꣡रेणियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वज्र॑म् । शि॒शा॒ति॒ । धि॒षणा॑ । वरे॑ण्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -91,19 +91,19 @@ genre M
 हे इन्द्र **त्यत्** तत् प्रसिद्धम् **इन्द्रियम्** इन्द्रस्य लिङ्गं **बृहत्** प्रभूतं वीर्यं **धिषणा** स्तुतिः **शिशाति** निःश्यति तीक्ष्णीकरोति । तथा **तव** त्वदीयं **शुष्मं** शोषकं बलम् **उत** अपि च **क्रतुं** प्रज्ञानं बलं कर्म वा **वरेण्यं** वरणीयं **वज्रम्** आयुधं च स्तुतिस्तीक्ष्णीकरोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise sharpens your great energy, your strength, your acts, and your majestic thunderbolt.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This lofty Indrian power of yours, your unbridled force and resolve, and the mace worthy to be chosen—these does the Holy Place sharpen.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
 <details open><summary><h2>07-10 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ Every half-verse in this tṛca but 7c and 10c opens with a form of the 2nd sg. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That lofty Indra-power of thine, thy strength and thine intelligence,  
      Thy thunderbolt for which we long, the wish makes keen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine bekannte hohe Indrakraft, deinen Ungestüm und deine Umsicht, die vorzügliche Keule schärft die Dhisana.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, deine grosse Indramacht und deine Kraft und Tüchtigkeit, Den Blitz auch schärft dir Lied und Trunk, den prächtigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ту твою крепкую силу Индры,  
 Твое неистовство и силу духа,  

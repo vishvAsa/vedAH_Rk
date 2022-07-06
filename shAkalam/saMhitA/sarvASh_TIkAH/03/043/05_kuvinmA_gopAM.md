@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कुवि꣡न् मा गोपां꣡ क꣡रसे ज꣡नस्य  
 कुवि꣡द् रा꣡जानम् मघवन्न् ऋजीषिन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कुवि꣡न् मे व꣡स्वो अमृ꣡तस्य शि꣡क्षाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कु॒वित् । मा॒ । ऋषि॑म् । प॒पि॒ऽवांस॑म् । सु॒तस्य॑ । कु॒वित् । मे॒ । वस्वः॑ । अ॒मृत॑स्य । शिक्षाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kuvin* ← *kuvid*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 हे इन्द्र **कुवित्** अपि च **मा** मां **जनस्य** **गोपां** गोप्तारं **करसे** कुरु । तथा हे **मघवन्** धनवन् **ऋजीषिन्** सोमवन् हे इन्द्र मां **राजानं** सर्वस्य स्वामिनं कुरु । **कुवित्** च **मा** माम् **ऋषिम्** अतीन्द्रियार्थस्य द्रष्टारं कुरु । ‘ ऋषिर्दर्शनात् ' ( निरु. २. ११ ) इति यास्कः । तथा **सुतस्य** अभिषुतस्य सोमस्य **पपिवांसं** पातारं कुरु । अपि च **मे** मह्यम् **अमृतस्य** क्षयरहितं **वस्वः** वसु **शिक्षाः** प्रयच्छ ॥ करसे ।' कृञ् करणे'। लेट्यडागमे रूपम् । कुविद्योगादनिघातः । म ऋषिम् इत्यत्र संहितायाम् ‘ ऋत्यकः' इति प्रकृतिभावो ह्रस्वश्च । पपिवांसम् । 'पा पाने ' इत्यस्य क्वसौ ‘वस्वेकाजाद्धसाम्' इतीडागमः । प्रत्ययस्वरः । शिक्षाः । शिक्षतिर्दानकर्मा । अस्मात् लेट्याडागमे रूपम् । कुविद्योगादनिघातः । आगमा अनुदात्ताः' इत्याटोऽनुदात्तत्वे धातुस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,14 +135,14 @@ genre M
 Or rather a monarch of men: kuvid mām gopām karase janasya kuvid rājānam: kuvid = api, surely, verily
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Will you indeed make me your herdsman of the people; will you indeed  (make me) king, you bounteous possessor of the silvery drink?  
 Will you indeed (make) me a seer, (for) I have drunk of the pressed  
 drink; will you indeed do your best for immortal goods for me?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 2nd ps. reference to Indra returns here, in kuvíd clauses otherwise parallel to the one in 4cd with 3rd ps. ref.
 
@@ -151,23 +151,23 @@ Geldner (fld. by Witzel Gotō and by me) takes the pf. part. papivā́ṃsam as 
 The transmitted Saṃhitā text ma ṛ́ṣim must be read contracted, as márṣim (so Holland & van Nooten Rig Veda edition) to achieve a Triṣṭubh line; the Pp. correctly analyzes this sandhi sequence as mā ṛ́ṣim.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wilt thou not make me guardian of the people, make me, impetuous Maghavan, their ruler?  
      Make me a Rsi having drunk of Soma? Wilt thou not give me wealth that lasts for ever?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewiß wirst du mich zum Hirten des Volks machen, gewiß zu einem König, du gabenreicher Trestersomatrinker, gewiß mich zu einem Rishi, da ich Soma getrunken habe. Gewiß wirst du mir unsterbliches Gut zudenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wirst du mich nicht zum Herrn des Volkes machen? zum Könige, o eilender, gewalt'ger? Zum Seher mich, der ich vom Saft getrunken? und Gut mir schenken, welches nimmer schwindet?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Конечно, ты сделаешь меня пастухом народа,  
 Конечно, царем, о щедрый, пьющий выжимки (сомы),  

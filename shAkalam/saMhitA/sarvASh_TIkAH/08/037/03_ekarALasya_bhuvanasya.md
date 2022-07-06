@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एकरा꣡ळ् अस्य꣡ भु꣡वनस्य राजसि शचीपत  
 इ꣡न्द्र वि꣡श्वाभिर् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "महापङ्क्तिः"
 पि꣡बा सो꣡मस्य वज्रिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; line affected by realignment;; repeated line
 माध्य॑न्दिनस्य । सव॑नस्य । वृ॒त्र॒ऽह॒न् । अ॒ने॒द्य॒ । पिब॑ । सोम॑स्य । व॒ज्रि॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekarāﾱ* ← *eka*
 - \[noun\]
@@ -109,14 +109,14 @@ genre M;; line affected by realignment;; repeated line
 हे **शचीपते** **इन्द्र** **अस्य** **भुवनस्य** **एकराट्** एक एव राजा सन् **राजसि** भ्राजसे। सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You shine the sole sovereign of this world, **Indra**, lord of rites, with all your protections; slayer of **Vṛtra**,irreproachable wielder of the thunderbolt, drink of the **Soma** at the mid-day solemnity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As lone king do you rule over this creation—  
 – you lord of power, Indra, with all help—at the Midday Pressing,  
@@ -124,22 +124,22 @@ irreproachable Vr̥tra-smasher, drink of the soma, possessor of
 the mace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sole Ruler, thou art Sovran of this world of life, O Indra, Lord of Strength, with all thy saving help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Alleinherrscher herrschest du über diese Welt, Herr der Kraft, mit allen Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als einz'ger König herrschst du über diese ganze Welt, o Herr der Kraft, mit allen Hülfen, Indra du; O Vritratödter von der Mittagsspende hier, vom Soma trinke, tadelloser Schleuderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как единственный царь ты правишь этой вселенной,  
 О повелитель силы,  

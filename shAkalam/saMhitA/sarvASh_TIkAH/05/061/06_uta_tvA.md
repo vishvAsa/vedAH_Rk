@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्वा स्त्री꣡ श꣡शीयसी  
 पुंसो꣡ भवति व꣡स्यसी  
 अ꣡देवत्राद् अराध꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अदे॑वऽत्रात् । अ॒रा॒धसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M
 **उत** अपि च **त्वा** एका **शशीयसी**। शशीयसी इस्येतन्महिष्या नाम। सैव **स्त्री** । यद्वा । उतेत्ययमेवकारार्थे । स्त्रीषु सैव प्रशस्येत्यर्थः । त्वसमसिमनेमेत्यनुच्चानि ' इति वचनात् त्वेति निघातः ॥ सैव **पुंसः** पुरुषात् **वस्यसी** वसीयसी **भवति** । कस्मात्पुंस इत्युच्यते । **अदेवत्रात्** । देवाः अनेन त्रायन्ते स्तुत्यादिना सः देवत्रः । न देवत्रः अदेवत्रः। तस्मात् **अराधसः** । राधो धनम् । दानार्हधनरहितात् । लुब्धकादित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,13 +88,13 @@ genre M
 Though a feminine le: uta tvā **strī** śaśīyasī: tvā = eka, one
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now a woman can be more reliable, better than a man  
 if he’s estranged from the gods, ungenerous—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The comparative śáśīyas- is attested only twice in the RV, here and in IV.32.3. Though they have different senses in the two passages (‘more reliable’ here, ‘more numerous’ there, at least by my interpr.), the semantic dev. from the positive śáśvant- ‘regularly recurring, in unbroken sequence, each and every’ to the two senses of the comp. is fairly straightforward. Here, regularly recurring > constant > reliable. In VIII.1.34 this development takes a sexual turn, with a śáśvatī nā́rī being one who is “ever ready” for sex (in my interpr.), and a sexual nuance is not ruled out in our passage either -- though here the emphasis is on her dependable qualities compared to the unsatisfactory man.
 
@@ -108,23 +108,23 @@ As indicated in the published translation, I consider these vss. a digression re
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, many a woman is more firm and better than the man who turns  
      Away from Gods, andoffers not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und manche Frau ist öfter besser als der gottlose, geizige Mann;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und manches Weib ist beständiger und besser als der Mann, der gottlos und gabenlos ist,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И такая женщина чаще  
 Бывает лучше мужчины,  

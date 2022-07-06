@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् सोम चित्र꣡म् उक्थि꣡यं  
 दिविय꣡म् पा꣡र्थिवं व꣡सु  
 त꣡न् नः पुनान꣡ आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तत् । नः॒ । पु॒ना॒नः । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -93,35 +93,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **यत्** **चित्रं** चायनीयम् **उक्थ्यं** स्तुत्यं **दिव्यं** दिवि भवं **पार्थिवं** पृथिवीसंबद्धं च **वसु** धनमस्ति **तत्** **नः** अस्मभ्यं **पुनानः** पूयमानः सन् **आ** **भर** आहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever wonderful glorious wealth there be in heaven or in earth, do you, **Soma**, being purified, bring it to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, what bright good thing, heavenly or earthly, is worthy of hymns, bring that here to us as you are being purified.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O SOMA, being purified bring us the wondrous treasure, meet  
      For lauds, that is in earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das wundersame, preiswürdige himmlische und irdische Gut, das bring uns, Soma, wenn du dich läuterst herbei!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch reiches preisenswerthes Gut, o Soma, Erd' und Himmel birgt, Das bring uns her, geläuterter!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какое, о сома, (есть) яркое, достойное гимна  
 Небесное (или) земное добро,  

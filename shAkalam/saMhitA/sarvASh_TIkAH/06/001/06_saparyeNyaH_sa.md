@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सपर्ये꣡ण्यः स꣡ प्रियो꣡ विक्षु꣡ अग्नि꣡र्  
 हो꣡ता मन्द्रो꣡ नि꣡ षसादा य꣡जीयान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡प ज्ञुबा꣡धो न꣡मसा सदेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तम् । त्वा॒ । व॒यम् । दमे॑ । आ । दी॒दि॒ऽवांस॑म् । उप॑ । ज्ञु॒ऽबाधः॑ । नम॑सा । स॒दे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saparyeṇyaḥ* ← *sapary*
 - \[verb noun\], nominative, singular
@@ -128,20 +128,20 @@ genre M
 **सः** **अग्निः** सपर्येण्यः पूज्यः **प्रियः** कामानां पूरकः विक्षु प्रजासु **होता** होमनिष्पादकः **मन्द्रः** मदनीयः **यजीयान्** अतिशयेन इतरदेवानां यष्टा यजनायो वा । एवं महानुभावोऽग्निः **नि** **षसाद** निषण्णोऽभूत् । अथ प्रत्यक्षकृतः। **तं** **त्वा** तादृशं त्वां वयं यजमानाः **दमे** गृहे **दीदिवांसं** दीप्यमानं **ज्ञुबाधः** जानुनी बाधयन्तः अवनतजानवः प्रणताः सन्तः नमसा स्तोत्रेण **उप** **आ** **सदेम** आसादयेम । अथवा उपासीदेमेत्येवमाशास्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who is adorable, affectionate, the offerer of oblations among men, the giver of delight, the celebrator of worship, has sat down (upon the altar); let us approach you, kindled in our dwellings, on bended knees, with praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dear Agni is to be served among the clans. As Hotar he has sat down,  the gladdening superior sacrificer.  
 You, shining in our house, do we reverently approach, on bended knee,  with homage.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b hótā … ní ṣasāda yájīyān closely echoes 2a ádhā hótā ny àsīdo yájīyān. The opening of pāda c (as well as 7a), táṃ tvā, also matches 2c, and dīdivā́ṃsam of c matches the same adj. in 3d.
 
@@ -171,23 +171,23 @@ The hapax cmpd. prétīṣaṇi- is curiously formed and its sense not entirely 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dear priest among mankind, adorable Agni hath seated him, joy-giver, skilled in worship.  
      Let us approach thee shining in thy dwelling, kneeling upon our knees, with adoration.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In Ehren soll man den bei den Clanen beliebten Agni halten. Der erfreuliche Opferpriester hat sich niedergelassen, der Opfertüchtigere. Dir, der im Hause leuchtet, wollen wir die Kniee beugend mit Verbeugung nahen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der flehenswerthe, liebe Agni setzte sich in die Häuser hold als bester Opfrer; Drum wollen wir um dich, der strahlt im Hause, die Knie beugend demuthsvoll uns setzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он должен быть в чести, этот Агни, любимый племенами.  
 Веселый хотар уселся, жертвующий лучше (всякого другого).  

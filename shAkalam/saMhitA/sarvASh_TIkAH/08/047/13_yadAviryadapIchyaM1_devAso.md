@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् आवि꣡र् य꣡द् अपीचि꣡यं  
 दे꣡वासो अ꣡स्ति दुष्कृत꣡म्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -36,7 +36,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 त्रि॒ते । तत् । विश्व॑म् । आ॒प्त्ये । आ॒रे । अ॒स्मत् । द॒धा॒त॒न॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -135,7 +135,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे देवासः देवा आदित्याः यदाविः यत् पापमाविर्भूतम् **अस्ति** । **दुष्कृतं** **यत्** च **अपीच्यम्** अन्तर्हितमस्ति । ‘ अपीच्यम्' इत्यन्तर्हितनाम । **तद्विश्वं** तदुभयम् **आप्त्ये** **त्रिते** मयि मा भूत्। किंतु **अस्मत्** **आरे** दूरे **दधातन** स्थापयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,30 +146,30 @@ popular;; epic anuṣṭubh (525);; repeated line
 Trita Āptya is the ṛṣi of the hymn. Trita Āptyawas a deity dwelling in remote distance, and consequently evil was sought to be transferred to him; keep it farfrom us in Trita Āptya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever is ill-done in the open, whatever in secret, o gods,  
 all that set on Trita Āptya, far away from us.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Each evil deed made manifest, and that which is concealed, O Gods,  
      The whole thereof remove from us to Trita Aptya far away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welche Missetat, ihr Götter, offenkundig, welche geheim ist, all die schaffet von uns in die Ferne zu Trita Aptya! - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was offenbar, was ins Geheim, o Götter, Uebles ist gethan, Das alles schaffet weit hinweg von uns zu Trita Aptia; ganz unvergleichlich ist eur Schutz und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какое явно, какое тайно  
 Существует злодеяние, о боги,  

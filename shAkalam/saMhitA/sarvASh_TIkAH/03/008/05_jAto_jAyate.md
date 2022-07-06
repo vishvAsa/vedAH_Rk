@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जातो꣡ जायते सुदिनत्वे꣡ अ꣡ह्नां  
 समर्य꣡ आ꣡ विद꣡थे व꣡र्धमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवया꣡ वि꣡प्र उ꣡द् इयर्ति वा꣡चम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पु॒नन्ति॑ । धीराः॑ । अ॒पसः॑ । म॒नी॒षा । दे॒व॒ऽयाः । विप्रः॑ । उत् । इ॒य॒र्ति॒ । वाच॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
@@ -142,20 +142,20 @@ genre M
 जातः पृथिव्यां प्रथमुमुत्पन्नो यूपः समर्ये । मर्य इति मनुष्यनाम । तैः सहिते विदथे वर्धमानः । विदथ इति यज्ञनाम विदथः सवनमिति यज्ञ नामसु पाठात् । तस्मिन्यज्ञ आ वर्धमानो घृतान्जनरशनापरिव्ययणादिना सर्वतः शोभमानः सन् आह्नां सुदिनत्वे जायते । पशुनियोजनादिद्वारेण यज्ञ निर्वाहकतयाहानि सुदिनानि करोतीत्यर्थः । आपसः कर्मवन्तो धीराः सुप्रज्ञा आध्वर्य्वादयो मनिषा बुद्ध्या तं यूपं पुनन्ति । प्रक्षलनादिभिः शोधयन्ति । देवया देवानां यष्टा देवानां हवीषि प्रापयिता वा विप्रो मेधावी होता च वाचं यूपविषयां स्तुतिलक्षणां वाचमुदियर्ति । प्रेरयति । उच्चारयतीत्यर्थः । उक्तार्थे ब्राह्मणम् । जातो जायते सुदिनत्वे अह्नामिति जातो ह्येष एतज्जायते समर्य आ विदथे वर्धमान इति वर्धयन्त्येवैनं तत्पुनन्ति धीरा अपसो मनीषेति पुनन्त्येवैनं तद्देवया विप्र उदियर्ति वाचमिति देवेभ्य एवैनं तन्निवेदयति । ऐ. ब्रा. २-२ ॥ सुदिनत्वे । सुदिनानां भावे इति तस्य भावस्त्वतलाविति त्वः । प्रत्ययस्वरः । समर्ये । मृङ् प्राणत्याग इत्यस्माच्छन्दसि निष्टर्क्येति क्यप्रत्ययान्तत्वेन निपातनाद्गुणः । समासस्येत्यन्तोदात्तत्वम् । पुनन्ति । पूञ् पवने । क्र्यादित्वाच्छ्ना । स्वादित्वाद्ध्रस्वः । प्रत्ययस्वरः । देवयाः । या प्रापणे । आतो मनिन्निति विच् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् । इयर्ति । ऋ गतौ । जुहोत्यादिः । अभ्यासस्यार्तिपिपर्त्योश्चेतीत्वम् । अभ्यासस्यासवर्ण इतीयजादेशः । निघातः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Born (in the forest), and beautified in the sacrifice celebrated by men, it is (again) engendered for the sanctification of the days (of sacred rites); steadfast, active and intelligent (priests) consecrate it with intelligence, and the devout worshipper recites its praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Once born, he is born (again) on the brightest day of days, growing  strong at the encounter, at the rite.  
 The insightful, industrious ones purify (him) with inspired thought.  Beseeching the gods, the poet raises his voice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sprung up he rises in the days' fair weather, increasing in the men-frequented synod.  
      With song the wise and skilful consecrate him: his voice the God-adoring singer utters.  
@@ -163,22 +163,22 @@ Sprung up he rises in the days' fair weather, increasing in the men-frequented s
      Let those the Stakes divine which here are standing be fain to grant us wealth with store of children.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who has been born is born 1 in the auspiciousness of days, growing up in the assembly and at the sacrifice 2. Wise, active men purify him by pious thoughts; the priest approaching the gods raises his voice 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geboren wird er nochmals geboren an dem Glückstag der Tage, im Wettstreit in der Weisheit wachsend. Es heiligen ihn die werkkundigen Weisen mit Bedacht. Zu den Göttern sich wendend erhebt der Redekundige die Stimme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur guten Stunde ward das Kind geboren, genähret ward es in der Festversammlung; Die klugen thät'gen schmücken ihn mit Weisheit, der fromme Sänger lässt die Stimm' erschallen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Едва) родившись, оно рождается (снова) в счастливейший из дней,  
 Возрастая при состязании на месте жертвенных раздач.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सविता꣡ पश्चा꣡तात् सविता꣡ पुर꣡स्तात्  
 सवितो꣡त्तरा꣡त्तात् सविता꣡धरा꣡त्तात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सविता꣡ नो रासतां दीर्घ꣡म् आ꣡युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒वि॒ता । नः॒ । सु॒व॒तु॒ । स॒र्वऽता॑तिम् । स॒वि॒ता । नः॒ । रा॒स॒ता॒म् । दी॒र्घम् । आयुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
@@ -106,37 +106,37 @@ genre M
 **पश्चातात्** पश्चिमतः स्थितः **सविता** **पुरस्तात्** पूर्वतश्च स्थितः **सविता** **उत्तरात्तात** उत्तरतः स्थितश्च **सविता** **नः** अस्माकं **सर्वतातिं** सर्वमभिलषितं धनादिकं **सुवतु** प्रेरयतु । किंच **सविता** एव **नः** अस्मभ्यं **दीर्घं** बहुकालीनम् **आयुः** **रासतां** ददातु । बहुधा सवितृपदग्रहणमत्यन्तमादरार्थम् ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Savitā** on the west, Savitā on the east, Savitā on the north, Savitā on the south, may Savitāsend us all desired wealth, may Savitā bestow upon us long life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Savitar from behind, Savitar from in front, Savitar from above, Savitar  from below—  
 let Savitar impel wholeness to us; let Savitar bestow on us a long  
 lifetime.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Savitar, Savitar from cast and westward, Savitar, Savitar from north and southward,  
      Savitar send us perfect health and comfort, Savitar let our days of life be lengthened!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Savitri hinten, Savitri vorn, Savitri oben, Savitri unten, Savitri soll uns Vollkommenheit schicken, Savitri soll uns langes Leben gönnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Savitar [schütze uns] von Westen, Savitar von Osten, Savitar von Norden, Savitar von Süden, Savitar schaffe uns Unversehrtheit, Savitar verleihe uns langes Leben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Савитар сзади, Савитар спереди,  
 Савитар сверху, Савитар снизу,  

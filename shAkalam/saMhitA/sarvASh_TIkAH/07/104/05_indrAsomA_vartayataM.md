@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रासोमा वर्त꣡यतं दिव꣡स् प꣡रि  
 अग्नितप्ते꣡भिर् युव꣡म् अ꣡श्महन्मभिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 नि꣡ प꣡र्शाने विध्यतं य꣡न्तु निस्वर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तपुः॑ऽवधेभिः । अ॒जरे॑भिः । अ॒त्रिणः॑ । नि । पर्शा॑ने । वि॒ध्य॒त॒म् । यन्तु॑ । नि॒ऽस्व॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
@@ -117,7 +117,7 @@ popular
 हे इन्द्रासोमौ **दिवः** अन्तरिक्षात् परितः सर्वतः **वर्तयतम्** आयुधानि प्रेरयतम् । **युवं** तौ युवाम् **अग्नितप्तेभिः** अग्निना संतप्तैः **तपुर्वधेभिः** तापकप्रहारैः **अजरेभिः** जरारहितैर्दृढैः **अश्महन्मभिः** अश्मसारभूतस्यायसो विकारैर्हननसाधनैस्तैरायुधैः **अत्रिणः** राक्षसस्य **पर्शाने** पार्श्वस्थाने **नि** **विध्यतं** निहतम् । ते च राक्षसाः **निःस्वरं** निःशब्दं **यन्तु** अपयन्तु निर्गच्छन्तु ॥ ॥५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,36 +128,36 @@ popular
 Scorching: ajarebhiḥ, ageless, undecaying
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Soma, make it roll from heaven. With fire-heated (weapons)  that smite like stones,  
 with unaging (weapons) whose murderous force is searing heat, spear  the voracious ones down into a deep place. Let them go to silence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 párśāna- occurs only 3x in the RV (and nowhere else in Skt.), here and in VIII.7.34, VIII.45.41. It has no good etymology (see EWA s.v.). The sense of ‘deep place, chasm’ is thus entirely dependent on context. Such a meaning is compatible with all three passages; the strongest support for it is VIII.7.34 giráyaś cin ní jihate párśānāso mányamānāḥ “Even the peaks bend down, thinking themselves depths.” Parallel locatives in VIII.45.41 make it likely that it refers to a place, but not what sort of place it might be: yád vīḷā́v indra yát sthire, yát párśāne párābhṛtam “What is in a firm place, what in a solid place, Indra, what has been borne away (in)to a párśāna ....” In our passage the ní ‘down’ does suggest that the destination is a depth, but I also think that this interpr. has been somewhat uncritically embraced by those with preconceptions about the Vedic hell/underworld.
 
 nisvarám ‘in silence, to silence’ contrasts with svaryà- ‘reverberant’, used of the weapon in 4c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Soma, cast ye downward out of heaven your deadly darts of stone burning with fiery flame,  
      Eternal, scorching darts; plunge the voracious ones within the depth, and let them sink without a sound.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Soma! Schleudert vom Himmel her die Geschosse! Mit den feuergeglühten, wie Stein schlagenden Geschossen, mit den glutbewaffneten, nie altersschwachen Flammen, stoßet die Atrin´s in die Versenkung! Lautlos sollen sie dahingehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel, Indra-Soma, schleudert nun herab die gluterhitzten Steingeschosse beide ihr, Gesellt der jungen blitzversehnen Schar, verstosst die Fresser in den Abgrund, lasst verstummen sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Сома, швырните с неба (смертельное оружие)!  
 (Выстрелами,) раскаленными на огне, бьющими камнями,  

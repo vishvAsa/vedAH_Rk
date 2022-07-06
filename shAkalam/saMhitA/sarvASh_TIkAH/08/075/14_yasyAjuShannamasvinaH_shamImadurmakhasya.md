@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्या꣡जुषन् नमस्वि꣡नः  
 श꣡मीम् अ꣡दुर्मखस्य वा  
 तं꣡ घे꣡द् अग्नि꣡र् वृधा꣡वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तम् । घ॒ । इत् । अ॒ग्निः । वृ॒धा । अ॒व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyājuṣan* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यस्य** **नमस्विनः** नमस्कारवतः **अदुर्मखस्य** **वा** अदुष्टयागस्य वा **शमीं** कर्म **अजुषत्** असेवत **तं** **घेत्** तमेव यजमानं संग्रामे **अग्निर्विधावति** विशेषेण गच्छति । अतो नमोयुक्ता अदुर्मखाश्च भवामेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,34 +102,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Especially protects: vṛdhā **avati** = viśeṣeṇa gacchati; agni protects him with blessing
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The man) who offers homage or is no stingy patron, whose ritual labor  he [=Agni] has enjoyed—  
 him alone does Agni help with strengthening.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Technically speaking, the genitives yásya … namasvínaḥ … ádurmakhasya vā depend on śámīm, but it is almost impossible to render this in parsable English (“the labor of which homage-offerer or not stingy one Agni has enjoyed …”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The reverent or unwearied man whose holy labour he accepts,  
      Him Agni favours with success.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An wes Verehrers oder Nichtkargen Opferdienst er Gefallen gefunden hat, den begünstigt Agni mit Gedeihen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Beter und den Emsigen, dess Arbeit er mit Huld empfing, Den fördert Agni durch Gedeihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

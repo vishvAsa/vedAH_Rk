@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अपाची꣡ने त꣡मसि म꣡दन्तीः  
 प्रा꣡चीश् चका꣡र नृ꣡तमः श꣡चीभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नानतं दम꣡यन्तम् पृतन्यू꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तम् । ईशा॑नम् । वस्वः॑ । अ॒ग्निम् । गृ॒णी॒षे॒ । अना॑नतम् । द॒मय॑न्तम् । पृ॒त॒न्यून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -121,7 +121,7 @@ genre M
 **नृतमः** नेतृतमः **यः** अग्निः **अपाचीने** अप्रकाशमाने **तमसि** निमग्नाः प्रजाः **मदन्तीः** स्तुवन्तीः **शचीभिः** ताभ्यो दत्ताभिः प्रज्ञाभिः **प्राचीः** ऋजुगामिनीः **चकार** । यद्वा । नेतृतमो योऽग्निः अपाचीने तमसि निशायां मदन्तीर्माद्यन्तीरुषसः शचीभिः प्रज्ञाभिः प्राचीश्चकारेत्यर्थः । **तं** **वस्वः** धनस्य **ईशानम्** अनानतम् अप्रह्वं **पृतन्यून्** युद्धकामांश्च **दमयन्तम्** अग्निं **गृणीषे** स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M
 Guided those: **pūrvas**' **cakāra** aparam ayayitun = agnir **mukhyaḥ** san ayajamānān aparān jaghanyāncakāra; he who enlightens by the manifestation of dawn those praising him in the night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The best of men, who by his powers has put those (Dawns) in the east,  though they were finding joy in the western darkness—  
 I shall sing to that Agni, master of the good, the one unable to be bent,  who subdues those doing battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who brought eastward, manliest with his prowess, the Maids rejoicing in the western darkness,  
      That Agni I extol, the Lord of riches, unyielding tamer of assailing foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die im westlichen Dunkel sich ergötzenden Morgenröten nach vorne gebracht hat, der Mannhafteste, durch seine Künste, diesen Agni preise ich, den Herrn des Reichtums, den Unbeugsamen, der die Angreifer bezwingt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Held, der kräftig die im dunklen Abend sich freu'nden Röthen nach dem Morgen brachte, Ihn, Agni, preis' ich, der der Güter Herr ist, den ungebeugten, der die Feinde bändigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто (утренние зори), развлекающиеся в западном мраке,  
 Перевел на восток (своими) силами, (он,) самый мужественный, -  

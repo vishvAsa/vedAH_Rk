@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ वा꣡ उ ते तनु꣡वा तनु꣡वं स꣡म् पपृच्याम्  
 पाप꣡म् आहुर् यः꣡ स्व꣡सारं निग꣡छात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ ते भ्रा꣡ता सुभगे वष्टि एत꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒न्येन॑ । मत् । प्र॒ऽमुदः॑ । क॒ल्प॒य॒स्व॒ । न । ते॒ । भ्राता॑ । सु॒ऽभ॒गे॒ । व॒ष्टि॒ । ए॒तत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -136,36 +136,36 @@ popular
 यमो यमीं प्रत्युक्तवान् । हे यमि **ते** तव **तन्वा** शरीरेण **तन्वम्** आत्मीयं शरीरं **न** **वै** **सं** पपृच्यां नैव संपर्चयामि । नैवाहं त्वां संभोक्तुमिच्छामीत्यर्थः । **यः** भ्राता **स्वसारं** भगिनीं **निगच्छात्** नियमेनोपगच्छति । संभुङ्त्श इत्यर्थः । तं **पापं** पापकारिणम् **आहुः** । शिष्टा वदन्ति । एतज्ज्ञात्वा हे **सुभगे** सुष्ठु भजनीये हे यमि त्वं **मत्** मत्तः **अन्येन** त्वद्योग्येन पुरुषेण सह **प्रमुदः** संभोगलक्षणान् प्रहर्षान् **कल्पयस्व** समर्थय । **ते** तव **भ्राता** यमः **एतत्** ईदृशं त्वया सह मैथुनं कर्तुं **न** **वष्टि** न कामयते । नेच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Yama** speaks). I will not unite my person n with yours; they call him who approaches a sister, a sinneṛEnjoy plural asure with some other than me; your brother, auspicious one, has no such desire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yama:] Verily, I must not mingle my body with your body. They call  him evil who will go down on his sister.  
 With another than me arrange your pleasures. Your brother does not  want this, well-portioned one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I will not fold mine arms about thy body: they call it sin when one comes near his sister.  
      Not me,-prepare thy pleasures with another: thy brother seeks not this from thee, O fair one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nie will ich meinen Leib mit deinem vereinen. Einen Schlechten nennen sie den, der zur Schwester geht. Mit einem anderen als mir bereite dir die Freuden! Dein Bruder wünscht solches nicht, o Holde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht will mit deinem Leib ich meinen mischen, für sündhaft gilt's, der Schwester sich zu gatten Mit anderem als mir geniess der Freuden, danach verlangt dein Bruder nicht, o schöne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никогда не стану я соединять (свое) тело с твоим телом!  
 Плохим называют (того), кто войдет к сестре.  

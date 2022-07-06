@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ पीत्वा꣡ म꣡दाना᳐म्  
 इ꣡न्द्रो वृत्रा꣡णि अप्रति꣡  
 जघा꣡न जघ꣡नच् च नु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ज॒घान॑ । ज॒घन॑त् । च॒ । नु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -86,37 +86,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मदानां** मदकराणां मध्येऽतिशयेन मदकरम् **अस्य** अमुं सोमं **पीत्वा** **वृत्राणि** शत्रून् अप्रतिगतः सन् **इन्द्रः** **जघान** हतवान् । **नु** क्षिप्रं **जघनत्** **च** । हन्तु चेदानीमपि ॥ ॥१३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Having drunk of this chief of exhilarating draughts, **Indra** irresistible has slain his foes, and may he ever slay them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having drunk of it, of its exhilarating drinks, Indra smashed the  
 unopposable obstacles,  
 and he shall smash them now.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When he had drunken draughts of this, Indra smote down resistless foes:  
      Yea, smote them, and shall smite them still.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wann Indra von dessen Rauschtränken getrunken hat, hat er die Feinde, denen keiner gewachsen war, erschlagen und wird sie noch weiter erschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach dem Genusse seines Safts schlug Indra ohne Widerstand Die Feinde, schlägt sie künftig auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Испив его, (вкуси его) опьянений,  
 Индра, не знающий себе равных,  

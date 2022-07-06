@@ -8,7 +8,7 @@ title = "+106"
 षोडशेऽनुवाके दश सूक्तानि । तत्र ‘इन्द्रम्' इति सप्तर्चं प्रथमं सूक्तम् । अत्रानुक्रम्यते ---‘इन्द्रं मित्रं सप्त त्रिष्टुबन्तम् ' इति। अनुवर्तमानत्वात् कुत्स ऋषिः। त्रितस्तु वाविशिष्टत्वात् तत्रैव विकल्पितो नानुवर्तते । अन्त्या त्रिष्टुप् । शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । विश्वे देवा देवतेत्युक्तम् । विनियोगो लैङ्गिकः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 106  
 All Gods  
@@ -18,7 +18,7 @@ After the challenges and pyrotechnics of the previous hymn, this simple appeal  
 ation and makes the same appeal. The verse conforms better to its context in this  hymn than in I.105: in I.106 the refrain filling half of each verse calls on the gods  to “rescue us from narrow straits,” as exemplified by Kutsa’s confinement, whereas  in I.105 the poet is tormented by spiritual doubts that only in that one particular verse are conceived of as physical confinement. It seems possible that I.105.17 was  adapted from this hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods
 </details>

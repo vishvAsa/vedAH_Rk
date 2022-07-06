@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सूर्याचन्द्रम꣡सौ धाता꣡  
 यथापूर्व꣡म् अकल्पयत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अन्त꣡रिक्षम् अ꣡थो सु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 दिव॑म् । च॒ । पृ॒थि॒वीम् । च॒ । अ॒न्तरि॑क्षम् । अथो॒ इति॑ । स्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūryācandramasau* ← *sūryācandramas*
 - \[noun\], accusative, dual, masculine
@@ -87,35 +87,35 @@ popular;; epic anuṣṭubh (292)
 तद् एतत् सर्वं धाता विधाता यथा पूर्वं पूर्विस्मिन् काले **ऽकल्पयत्** सृष्टवान् तथैवागामिन्य् अपि कल्पे कल्पयिश्यतीत्यर्थः॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Dhātā** in the beginning created the sun and moved the heaven, the earth, the firmament, and thehappy (sky).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Ordainer arranged, according to their proper order, sun and moon, heaven and earth, midspace and sunlight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dhatar, the great Creator, then formed in due order Sun and Moon.  
      He formed in order Heaven and Earth, the regions of the air, and light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Schöpfer regelte der Reihe nach Sonne und Mond und Himmel und Erde, das Luftreich und das Sonnenlicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch dreissig Stätten strahlet er, und Sang begrüsst den Fliegenden Am frühen Morgen Tag für Tag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Солнце-и-луну Дхатар  
 Последовательно установил по порядку,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सू꣡र्यस्येव रश्म꣡यो द्रावयित्न꣡वो  
 मत्सरा꣡सः प्रसु꣡पः साक꣡म् ईरते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ने꣡न्द्राद् ऋते꣡ पवते धा꣡म किं꣡ चन꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तन्तु॑म् । त॒तम् । परि॑ । सर्गा॑सः । आ॒शवः॑ । न । इन्द्रा॑त् । ऋ॒ते । प॒व॒ते॒ । धाम॑ । किम् । च॒न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūryasyeva* ← *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
@@ -119,21 +119,21 @@ genre M
 **सूर्यस्य** **रश्मयः** सर्वस्य प्रेरकस्य सुवीर्यस्य वादित्यस्य रश्मयः सर्वतो व्यापकाः किरणाः **इव** **द्रावयित्नवः** सर्वत्रद्रवणशीलाः **मत्सरासः** मदकराः **प्रसुपः** शत्रूणां प्रस्वापका हन्तारः **आशवः** ग्रहेषु चमसेषु च व्याप्ताः **सर्गासः** सृज्यमानाः सोमाः **ततं** विस्तृतं **तन्तुं** तन्तुभिः कृतं वस्त्रं **साकं** सह युगपत् **परि** **ईरते** परितो गच्छन्ति । ते सोमाः **इन्द्रादृते** इन्द्रं वर्जयित्वा अन्यत् **किं** **चन** **धाम** देवशरीरं लक्षीकृत्य **न** **पवते** न गच्छति। एकवचनं छान्दसम् । न गच्छन्ति । किंत्विन्द्रस्यैव धाम प्रति गच्छन्ति । इन्द्रस्य धाम्नो यष्टव्यत्वं च ' अयाळिन्द्रस्य प्रिया धामानि ' (वा. सं. २१.४७ ) इति मन्त्रवर्णादवगम्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The rushing exhilarating foe-slaying **Soma**-juices when let loose flow together round the extended cloth like the sun's rays; they flow to no other person n except **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the rays of the sun that set sleepers in motion, the exhilarating  (soma juices) arise all at once from sleep.  
 The swift surges (surge) around the stretched string [=filter]. But  
 without Indra he [=Soma] does not purify any domain of his.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou assume that the ná in a is wrongly placed and that the simile really targets usríyaḥ (though they both somehow work the two mothers into it). I think rather that mātárā ná is the complete simile and the “two mothers” are being compared to the gapped goal “Heaven and Earth.” Cf. IX.97.13 nadáyann eti prthiv ̥ ī́m utá dyā́m “roaring he goes to H+E” to our nā́nadad eti. The “two mothers” as stand-ins for H+E are found in our little group of hymns in IX.68.4 sá mātárā vicáran.
 
@@ -146,23 +146,23 @@ However we distribute the accusatives, each of us has to decide what this hemist
 With regard to my own interpr., I tentatively suggest that once again its subject is the earthly, ritual soma; in his cosmic journey to and through Heaven and Earth he recognizes the sun as “the first truth” and chooses it as his alter ego, his cosmic doublet, which resounds to his own glorification. In this paraphrase I realize that it is unclear why this is the “first” truth, and I therefore consider it possible that prathamám is adverbial, as Lüders takes it - and suggest an alternate tr. “first recognizing the truth that is the realm of solar splendor …” But all this is very sketchy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as the beams of Surya, urging men to speed, that cheer and send to sleep, together rush they forth,  
      These swift outpourings in long course of holy rites: no form save only Indra shows itself so pure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gleich den Sonnenstrahlen, die die Schläfer auf die Beine bringen, kommen die berauschenden Säfte auf einmal hervor. Die raschen Güsse umkreisen den ausge-spannten Faden. Ohne Indra läutert sich kein Ding.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wie in schnellem Lauf der Sonne Strahlen, gehn zusammen die berauschenden, befruchtenden, Die schnellen Ströme durch das ausgespannte Netz; zu keiner andern Stätte als zu Indra rieselt er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как лучи солнца заставляют убегать  
 Заснувших, (так) пьянящие соки сразу приходят в движение.  

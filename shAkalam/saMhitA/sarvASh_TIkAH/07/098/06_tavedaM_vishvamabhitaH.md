@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वेदं꣡ वि꣡श्वम् अभि꣡तः पशव्यं᳡  
 य꣡त् प꣡श्यसि च꣡क्षसा सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भक्षीम꣡हि ते प्र꣡यतस्य व꣡स्वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 गवा॑म् । अ॒सि॒ । गोऽप॑तिः । एकः॑ । इ॒न्द्र॒ । भ॒क्षी॒महि॑ । ते॒ । प्रऽय॑तस्य । वस्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tavedaṃ* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -126,37 +126,37 @@ genre M
 हे इन्द्र **पशव्यम्** । पशवो द्विविधा द्विपादश्चतुष्पादश्च । तेभ्यो हितम् **अभितः** सर्वतो विद्यमानम् **इदं** **विश्वं** सर्वं जगत् **तवेत्** तवैव स्वभूतम् । **सूर्यस्य** प्रेरकस्यादित्यस्य **चक्षसा** तेजसा **यत्** विश्वं **पश्यसि** त्वं प्रकाशयसि । अपि च हे **इन्द्र** **एकः** एव त्वं **गोपतिः** **असि** । न केवलमेकस्या एव गोः पतिः अपि तु सर्वासामित्याह **गवाम्** इति । अतः कारणात् **ते** त्वया **प्रयतस्य** प्रत्तस्य । द्वितीयार्थे षष्ठी । प्रत्तं **वस्वः** धनं **भक्षीमहि** भजेमहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thine is all this animal world around you, which you illumine with the light of the sun; you, **Indra**, are theone lord of cattle, thence may we possess wealh bestowed by you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yours is all this (wealth in) livestock all around, which you see with the  eye of the sun.  
 You alone are the cowherd of cows, Indra. Might we share in your  
 proffered goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine is this world of flocks and herds around thee, which with the eye of Surya thou beholdest.  
      Thou, Indra, art alone the Lord of cattle; may we enjoy the treasure which thou givest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir gehört der ganze Viehreichtum allenthalben, den du durch der Sonne Auge siehst. Du bist der einzige Herr der Rinder, Indra. Wir möchten an deinem verschenkten Gute Anteil haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Eigenthum ist rings der Welten Heerde, die mit der Sonne Auge du beschauest; Du Indra bist allein der Herr der Rinder, mach theilhaft uns des Gutes, das du bietest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все это богатство из скота целиком твое,  
 (То,) которое ты озираешь глазом солнца.  

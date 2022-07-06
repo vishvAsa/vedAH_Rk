@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रअग्नी युवो꣡र् अ꣡पि  
 व꣡सु दिव्या꣡नि पा꣡र्थिवा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 रयिं꣡ विश्वा꣡युपोषसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ । नः॒ । इ॒ह । प्र । य॒च्छ॒त॒म् । र॒यिम् । वि॒श्वायु॑ऽपोषसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -110,36 +110,36 @@ genre M;; repeated line
 हे **इन्द्राग्नी** **युवोः** युवयोः **दिव्यानि** दिवि भवानि **पार्थिवा** पृथिव्यां भवानि लोकद्वयसंबन्धीनि **वसु** वसूनि **अपि** हितानि युवयोरेव वर्तन्ते । अतः कारणात् **इह** अस्मिन् यज्ञे **नः** अस्मभ्यं **रयिं** धनम् **आ** अभि **प्र** यच्छतम् । कीदृशं रयिम् । **विश्वायुपोषसम्** । आयव इति मनुष्यनाम । सर्वेषां मनुष्याणां पोषणाय पर्याप्तम् । यद्वा । सर्वस्यायुषः पोषणे शक्तम् । छान्दसो वर्णलोपः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, yours are both celestial and terrestrial treasures; bestow upon us, on this occasion, life-sustaining riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Agni, in you are heavenly and earthly goods.  
 Extend to us here wealth that brings lifelong prosperity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni, yours are all the treasures of the heavens and earth.  
      Here give ye us the opulence that prospers every living man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni! Bei euch sind die himmlischen und irdischen Güter. Gewähret uns hier den Reichtum, der lebenslang nährt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei euch, o Indra-Agni, ist der Erde und des Himmels Gut; O schenket hier uns reichen Schatz, der alle Lebensblüten treibt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, у вас двоих  
 Блага небесные (и) земные.  

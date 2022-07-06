@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡या वीरे꣡ण वीरवो  
 अभि꣡ ष्याम पृतन्यतः꣡  
 क्ष꣡रा णो अभि꣡ वा꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क्षर॑ । नः॒ । अ॒भि । वार्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -80,41 +80,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वीरवः** वीरवन् सोम **वीरेण** **त्वया** साधनेन **पृतन्यतः** संग्राममिच्छतः शत्रून् **अभि** **ष्याम** अभिभवेम । अतः **नः** अस्माकं **वार्यं** वरणीयं धनम् **अभि** **क्षर** । अभिगमयेत्यर्थः । अथवा वरणीयं सोमाख्यं धनं क्षर पवस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With you, heroic (**Soma**), as our hero, may we overcome our enemies, pour upon the desirable (riches).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With you as hero, you possessor of heroes, might we overcome those who  give battle.  
 Stream toward us what is choice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take vā́ryam as an Inhaltsakk.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With thee for Hero, Valiant One! may we subdue our enemies:  
      Let what is precious flow to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dir, dem Helden, du Heldenbegleiter, wollen wir die Angreifer bestehen. Fließe uns, zu begehrenswertem Besitz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass du, o heldenreicher Held, die Feinde uns bewältigen Und ström uns schönes Gut herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

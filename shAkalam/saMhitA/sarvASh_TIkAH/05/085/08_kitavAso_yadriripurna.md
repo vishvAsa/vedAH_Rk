@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कितवा꣡सो य꣡द् रिरिपु꣡र् न꣡ दीवि꣡  
 य꣡द् वा घा सत्य꣡म् उत꣡ य꣡न् न꣡ विद्म꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धा ते स्याम वरुण प्रिया꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सर्वा॑ । ता । वि । स्य॒ । शि॒थि॒राऽइ॑व । दे॒व॒ । अध॑ । ते॒ । स्या॒म॒ । व॒रु॒ण॒ । प्रि॒यासः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kitavāso* ← *kitavāsaḥ* ← *kitava*
 - \[noun\], nominative, plural, masculine
@@ -155,36 +155,36 @@ genre M
 हे **देव अथ** अनन्तरं **ते** तव **प्रियासः** प्रियाः **स्याम** भवेम ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “If, like gamesters, who cheat at plural y, (we commit offences) knowingly, or (those) of which we know not, do you divine **Varuṇa**, extricate us from them all, as if from loosened (bonds), so that we may be dear, Varuṇa, to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If (we have cheated) as gamblers cheat in a dice game, whether overtly or  whether we are unaware,  
 unbind all these things (so they will be) like loose things, o god. Then  would we be dear to you, Varuṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If we, as gamesters cheat at play, have cheated, done wrong unwittingly or sinned of purpose,  
      Cast all these sins away like loosened fetters, and, Varuna let us be thine own beloved.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir wie Spieler bei dem Spiele betrogen haben, ob wir es gewiß wissen, ob nicht, all das löse von uns wie lockere Bande, o Gott! So mögen wir deine Lieblinge sein, o Varuna.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend oder wissend, Was uns verstrickt, das alles löse du uns, Gott Varuna, und wieder sei'n wir lieb dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если мы обманули, как игроки в игре,  
 Будь то сознательно, или если мы не знали,  

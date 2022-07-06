@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡ द्युम्नइ꣡र् द्युम्नि꣡नी बृह꣡द्  
 उ꣡पोप श्र꣡वसि श्र꣡वः  
 द꣡धीत वृत्रतू꣡रिये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दधी॑त । वृ॒त्र॒ऽतूर्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
@@ -83,41 +83,41 @@ genre M
 **सा** अस्माभिः क्रियमाणा स्तुतिः **द्युम्नैः** द्योतमानैरन्नैः अस्मभ्यं प्रदेयैः **द्युम्निनी** अन्नवती **श्रवसि** पूर्वस्मिन् विद्यमानेऽन्ने पुनरपि **बृहत्** महत् **श्रवः** अन्नम् **उपोप** **दधीत** पुनरुपरि धारयतु । कुत्रेति उच्यते । **वृत्रतूर्ये** संग्रामे । शत्रोः संबन्धीति यावत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this (hymn) the rich source of wealth, heap abundance on our abundance (with stores won fromour enemies) in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Brilliance with its brilliance, it should set lofty fame upon fame  
 at the smashing of obstacles [/Vr̥tra].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation should read “Brilliant with its brilliance …” and “at the overcoming of obstacles.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Splendid with splendours may it be, and in the battle with the foe  
      Add loftier glory to thy fame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies an Herrlichkeit herrliche möge hohen Ruhm auf Ruhm häufen im Feindekampf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es möge herrlich dir an Glanz zum Ruhme dir noch höhern Ruhm verleihen in der Feindesschlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

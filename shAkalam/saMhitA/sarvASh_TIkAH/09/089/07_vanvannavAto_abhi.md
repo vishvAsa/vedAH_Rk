@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वन्व꣡न्न् अ꣡वातो अभि꣡ देव꣡वीतिम्  
 इ꣡न्द्राय सोम वृत्रहा꣡ पवस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवी꣡रियस्य प꣡तयः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 श॒ग्धि । म॒हः । पु॒रु॒ऽच॒न्द्रस्य॑ । रा॒यः । सु॒ऽवीर्य॑स्य । पत॑यः । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vanvann* ← *vanvan* ← *van*
 - \[verb noun\], nominative, singular
@@ -121,43 +121,43 @@ genre M;; repeated line
 वन्वन् सन् देववीतिं देवानाम्पानार्थं हे सोम इन्द्राय इन्द्रार्थं वृत्रहा वृत्रस्यहन्ता अवातः त्वं अभिपवस्व क्षर । कथम्भूतः त्वं शग्धि शक्तिमान् महोमहानसि त्वत्प्रसा- दाद्वयं पुरुश्चन्द्रस्य बह्वाह्वादकस्य सुवीर्यस्य शोभनावीरायस्मिन् तादृशस्य राये धनस्य पतयः स्याम ॥ ७ ॥प्रहिन्वानइति षळृचम्पञ्चमंसूक्तं मैत्रावरुणेर्वसिष्ठस्यार्षं त्रैष्टुभं पवमानसोमदेवताकम् । तथाचानुक्रान्तम् । प्रहिन्वानः षड्वसिष्ठइति । गतोविनियोगः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Conquering (and) unconquered approach the banquet of the gods; **Soma**, who are the slayer of **Vṛtra**, flow for **Indra**; grant us abundant and splendid riches, may we be masters of excellent **male** offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vanquishing but unvanquished, o Soma, as Vr̥tra-smasher purify  yourself for Indra and to pursue the gods.  
 Have mastery over great, much-glittering wealth. Might we be lords of  an abundance of heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The dat. índrāya opening pāda b echoes the dat. indriyā́ya, which closes the preceding vs. (6d). It is also piquant that Soma adopts “Vṛtra-slayer” (vṛtrahán-), Indra’s own epithet, when he acts on behalf of Indra.
 
 The two aims of Soma’s purification abhí devávītim and índrāya “towards pursuit of the gods” and “for Indra” are grammatically non-parallel.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fighting, uninjured come where Gods are feasted; Soma, as Vitra-slayer flow for Indra.  
      Vouchsafe us ample riches very splendid may we be masters of heroic vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du der unüberwundene Überwinder läutere dich für die Götterladung, für Indra, o Soma, du der Vritratöter! Erwirk uns großen vielblinkenden Reichtum. Wir möchten die Besitzer der Meisterschaft sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Unangefochten, siegreich riesle, Soma, zum Göttermahl dem Indra, Feinde tödtend, Verleih uns grossen, glanzbegabten Reichthum; wir seien Herrn von starken Heldenscharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Настигающий, (но) не настигнутый, очищайся, о сома,  
 Для приглашения богов, для Индры как убийца Вритры!  

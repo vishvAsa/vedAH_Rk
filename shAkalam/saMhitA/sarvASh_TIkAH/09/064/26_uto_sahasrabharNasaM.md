@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उतो꣡ सह꣡स्रभर्णसं  
 वा꣡चं सोम मखस्यु꣡वम्  
 पुनान꣡ इन्दव् आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पु॒ना॒नः । इ॒न्दो॒ इति॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uto* ← *uta*
 - \[adverb\]
@@ -81,20 +81,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **उतो** अपि च हे **इन्दो** दीप्त **सोम** **पुनानः** पूयमानस्त्वं **सहस्रभर्णसं** सहस्रभरणां **मखस्युवं** धनकामां **वाचम्** अस्मभ्यम् **आ** **भर** आहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Brilliant **Soma**, when purified bring (us) a voice, feeding thousands and desiring wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And speech bringing a thousand presents, ready for combat [/bounty],  o Soma—  
 becoming purified, o drop, bring that hither.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -105,23 +105,23 @@ contain the nom. sg. masc. punānáḥ.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, Soma, Indu, while thou art purified do thou bring to us  
      Speech thousandfold that longs for war.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und bring uns die Tausend aufwiegende Rede, o Soma, die Belohnung erwartende, wenn du dich läuterst, Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Lied, was tausend Gaben beut, o Soma, den Triumphgesang, Bring', Indu, her, gereinigter!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

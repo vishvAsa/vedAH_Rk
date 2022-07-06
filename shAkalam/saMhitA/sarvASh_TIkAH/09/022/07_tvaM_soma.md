@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सोम पणि꣡भ्य आ꣡  
 व꣡सु ग꣡व्यानि धारयः  
 ततं꣡ त꣡न्तुम् अचिक्रदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त॒तम् । तन्तु॑म् । अ॒चि॒क्र॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -82,20 +82,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **त्वं** **पणिभ्यः** असुरेभ्यो लुब्धकेभ्यो वा सकाशात् **गव्यानि** गोहितानि **वसु** वसूनि गोयूथानि वसूनि चेति वा **आ** आहृत्य **धारयः** धारयसि । तथा **तन्तुं** यज्ञं प्रति **ततं** विस्तृतं यथा भवति तथा **अचिक्रदः** शब्दमकार्षीः ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Soma**, hold the wealth of kine which you have won from the **Paṇis**, you have called aloud at the outspread sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Soma, secured from the Paṇis the good things of cattle.  
 You have roared toward the stretched thread.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take acikradaḥ as transitive/causative (e.g., “tu l’as fait crier”), but although (á)cikrada- looks like a typical redupl. aor. to an -áya-transitive, it is not so used.
 
@@ -110,23 +110,23 @@ As noted in the published introduction, vs. 7 stands somewhat apart from the res
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Soma, boldest wealth in kine which thou hast seized from niggard churls:  
      Thou calledst forth the outspun thread.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Soma, sollst den Pani´s, den Geizhälsen, die Rinderschätze abnehmen. Du hast den aufgespannten Faden laut erklingen lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Soma, hast vor Geizigen das rinderreiche Gut bewahrt, Und das Gewebe rauscht durch dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о сома, у Пани  
 Забрал богатство из коров.  

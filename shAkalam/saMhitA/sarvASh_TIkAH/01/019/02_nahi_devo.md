@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ देवो꣡ न꣡ म꣡र्तियो  
 मह꣡स् त꣡व क्र꣡तुम् परः꣡  
 मरु꣡द्भिर् अग्न आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 म॒रुत्ऽभिः॑ । अ॒ग्ने॒ । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -95,36 +95,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **अग्ने** **महः** महतः **तव** संबन्धिनं **क्रतुं** कर्मविशेषमुल्लङ्घ्य **परः** **नहि** उत्कृष्टः **देवः** न भवति खलु । तथा **मर्त्यः** मनुष्यश्च परः **न** भवति । ये मनुष्यास्त्वदीयं क्रतुमनुतिष्ठन्ति ये च । देवास्त्वदीये क्रतौ इज्यन्ते ते एवोत्कृष्टा इत्यर्थः । मरुद्भिरित्यादि पूर्ववत् ॥ नहि । एवमादीनामन्तः ' इत्यन्तोदात्तः । देवः । पचाद्यजन्तः चित्त्वादन्तोदात्तः । महः । महतस्तलोपश्छान्दसः ।  ‘ बृहन्महतोरुपसंख्यानम् ' ( पा. सू. ६. १. १७३. १ ) इति विभक्तेरुदात्तत्वम् । तव ।  ‘ युष्मदस्मदोर्ङसि' (पा. सू. ६. १. २११ ) इत्याद्युदात्तत्वम् । क्रतुम् ॥  ‘ कृञः कतुः । ( उ. सू. १. ७७ )। प्रत्ययाद्युदात्तत्वम् । गहि ।  ‘ गम्लृ सृप्लृ गतौ ' । लोटः सेर्हिः ।  ‘ बहुलं छन्दसि ' इति शपो लुक् ।' अनुदात्तोपदेश° ' ( पा. सू. ६. ४. ३७ ) इत्यादिना अनुनासिकलोपः । तस्य • असिद्धवदत्रा भात् ' ( पा. सू. ६. ४. २२ ) इति असिद्धत्वात् “ अतो हेः' इति लुक् न भवति । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Nor god nor man has power over a rite (dedicated) to you, who are mighty; come, **Agni**, with the **Maruts**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For no god nor mortal is beyond the will of you who are great.  
 – With the Maruts, o Agni, come hither.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No mortal man, no God exceeds thy mental power, O Mighty one:  
      O Agni, with the Maruts come:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn nicht übertrifft ein Gott noch ein Sterblicher deine, des Großen Umsicht. - Mit den Marut komm, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn über dein, des grossen, Macht ragt weder Gott, noch Sterblicher, Komm, Agni, mit der Marutschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни бог, ни смертный  
 Не превосходит силой духа тебя, великого.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्य ते सखिये꣡ वय꣡म्  
 इ꣡यक्षन्तस् तुवो꣡तयः  
 इ꣡न्दो सखित्व꣡म् उश्मसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्दो॒ इति॑ । स॒खि॒ऽत्वम् । उ॒श्म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्दो** पवमान **इयक्षन्तः** यष्टुमिच्छन्तः पूजयितुमिच्छन्तो वा **अस्य** प्रसिद्धस्य **ते** तव **सख्ये** सखिकर्मणि स्थिताः **वयं** **त्वोतयः** त्वदायत्तरक्षणाः सन्तः **सखित्वं** सखिभावमेव **उश्मसि** उश्मः कामयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, we abiding in your friendship, desiring to sacrifice, depending on your protection, desire your friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since we are likely to gain in comradeship with you, with you as  our help,  
 we long for comradeship, o drop.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is difficult to render the vs.-initial ásya te lit. “of this here you”; the demon.
 
@@ -113,23 +113,23 @@ No signs of cohesion.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In this thy friendship, and with thee to help us, fain to sacrifice,  
      Indu, we crave thy friendly love.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da wir in deiner Freundschaft mit deiner Hilfe etwas erreichen möchten, so wünschen wir deine Freundschaft, o Saft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum wünschen deine Freundschaft wir verlangend, Indu, unterstützt Von dir in deiner Brüderschaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

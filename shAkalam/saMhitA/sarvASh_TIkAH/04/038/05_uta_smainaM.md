@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्मैनं वस्त्रम꣡थिं न꣡ तायु꣡म्  
 अ꣡नु क्रोशन्ति क्षित꣡यो भ꣡रेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्र꣡वश् च अ꣡छा पशुम꣡च् च यूथ꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नी॒चा । अय॑मानम् । जसु॑रिम् । न । श्ये॒नम् । श्रवः॑ । च॒ । अच्छ॑ । प॒शु॒ऽमत् । च॒ । यू॒थम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 **उत** **स्म** अपि खलु **एनं** दधिक्रां **भरेषु** संग्रामेषु **वस्त्रमथिं** **तायुं** **न** वस्त्रमाथिनं तस्करमिव । तं दृष्ट्वा **क्षितयः** मनुष्या यथा **अनु** क्रोशन्ति तद्वद्वैरिणः अनुक्रोशन्ति। किंच **नीचा** नीचैः **अयमानं** गच्छन्तं **जसुरिं** **न** **श्येनं** क्षुधितं श्येनं पक्षिणमिव । तं यथा दृष्ट्वा पक्षिणः पलायन्ते तद्वत् । **श्रवः** अन्नं कीर्तिं वा **पशुमत्** **यूथं** **च** **अच्छ** अभिलक्ष्य गच्छन्तमेनमनुक्रोशन्तीति संबन्धः । ‘अपि स्मैनं वस्त्रमथिमिव वस्त्रमाथिनम् ' (निरु. ४. २४ ) इत्यादिनिरुक्तमत्रानुसंधेयम् ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,36 +131,36 @@ genre M
 They call after him: śravascācchā paśumacca yūtham = **annam** kīrttim vā paśumad yūtham ca **acchā** abhilakṣya gacchantam enam anukrośanti, they call after him, that is Dadhikrā, going, having in view either food or fame, or a herd consisting of cattle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And the settled peoples shriek after him at his raidings as if after a thief  who steals clothes,  
 as he makes his way downward like a famished falcon toward fame and  a herd full of livestock.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The lexeme ánu √kruś is later a semi-technical term for raising the hue-andcry, which would be appropriate in this context.
 
 There is a phonological echo of 4c nicíkyat in 5c nīcā́yamānam, although the latter is to be analyzed as nīcā́+áyamānam. The latter belongs to the marginal thematized pres. áyate to √i (see Gotō, 1st Kl., 92-97). There is one other occurrence of this medial part. in the RV, otherwise a few finite forms, some of which are ambiguous between subjunctive to the root pres. and indicative to a them. pres.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loudly the folk cry after him in battles, as 'twere a thief who steals away a garment;  
      Speeding to glory, or a herd of cattle, even as a hungry falcon swooping downward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und die Völker schreien ihm in den Kämpfen nach wie einem Dieb, der Kleider raubt, wenn er wie ein niederstoßender hungriger Adler auf den Ruhmespreis und auf die Viehherde losstürmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm schreien nach die Feinde in den Schlachten, wie einem Diebe, der das Kleid geraubt hat, Wie einem Adler, der voll Gier herabfährt auf schönes Gut und rinderreiche Heerde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 . И еще: кричат ему вслед в сражениях народы,  
 Словно вслед вору, похитившему одежду,  

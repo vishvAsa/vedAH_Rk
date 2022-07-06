@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्यौषधीः प्रस꣡र्पथ  
 अ꣡ङ्गम्-अङ्गम् प꣡रुष्-परुः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 उग्रो꣡ मध्यमशी꣡र् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 ततः॑ । यक्ष्म॑म् । वि । बा॒ध॒ध्वे॒ । उ॒ग्रः । म॒ध्य॒म॒शीःऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyauṣadhīḥ* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -102,7 +102,7 @@ popular;; epic anuṣṭubh (292)
 हे **ओषधीः** ओषधयः **यस्य** रुग्णस्य **अङ्गमङ्गं** यद्यदङ्गं परुःपरुः यद्यत्पर्व **प्रसर्पथ** प्रकर्षेणाश्रयथ **ततः** अङ्गात्पर्वणश्च **यक्ष्मं** व्याधिं **वि** **बाधध्वे** । **उग्रः** उद्गूर्णबलः **मध्यमशीः** मध्यमस्थाने वर्तमानो राजा यथा उपद्रवकारिणः समनन्तरशत्रून् पदे पदे विबाधते तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,29 +113,29 @@ popular;; epic anuṣṭubh (292)
 Mighty prince: or, as **Rudra** pierces the world with thecentral point of his trident (**Yajus**. 12.86)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him whose every limb, every joint you slither over,  
 from him thrust aside the sickness, like a mighty (man) lying in the middle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He through whose frame, O Plants, ye creep member by member, joint by joint,-  
      From him ye drive away disease like some strong arbiter of strife.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei wem ihr Kräuter Glied um Glied, Gelenk um Gelenk vordringt, von dem vertreibt ihr die Schwindsucht, wie ein Mächtiger, der in der Mitte zwischen zwei Freunden lagert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf eurem Weg von Glied zu Glied, und von Gelenke zu Gelenk Treibt ihr das Siechthum vor euch her, als wär's durch strengen Richters Spruch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У кого вы проползаете, о растения,  
 В каждый член, в каждый сустав,  

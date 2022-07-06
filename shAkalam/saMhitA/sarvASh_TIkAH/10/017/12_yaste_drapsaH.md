@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते द्रप्स꣡ स्क꣡न्दति य꣡स् ते अंशु꣡र्  
 बाहु꣡च्युतो धिष꣡णाया उप꣡स्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तं꣡ ते जुहोमि म꣡नसा व꣡षट्कृतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒ध्व॒र्योः । वा॒ । परि॑ । वा॒ । यः । प॒वित्रा॑त् । तम् । ते॒ । जु॒हो॒मि॒ । मन॑सा । वष॑ट्ऽकृतम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -132,36 +132,36 @@ popular
 हे सोम **ते** त्वदीयः **यः** **द्रप्सः** रसः **स्कन्दति** अधिषवणचर्मणोऽन्यत्र गच्छति । **यः** च **ते** त्वदीयः **अंशुः** रसादितरः सन् स्कन्दति। **बाहुच्युतः** अध्वर्योर्बाहुभ्यां प्रच्युतः सन् स्कन्दति । यद्वा । बाहुवत्साधनभूता ग्रावाणः । तैः प्रच्युतोऽभिषुतः सन् **धिषणायाः** । धिषणेत्यधिषवणफलकनाम । प्रत्येकविवक्षयैकवचनम्। अधिषवणफलकयोः **उपस्थात्** समीपस्थात् प्रदेशादन्यत्र गच्छति। तथा **अध्वर्योर्वा** अभिषुण्वतोऽध्वर्योर्हस्तात् स्कन्दति। **वा** अपि वा **पवित्रात्** दशापवित्रात् **परि** स्कन्दति । तं सर्वं द्रप्सं **ते** त्वदीयं रसं **मनसा** अन्तःकरणेन स्तोत्रेण वा सह **वषट्कृतं** वषट्कारेण स्वाहाकारेण कृतं **जुहोमि** अग्नौ प्रक्षिपामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, which escapes (from the hide), your filaments which let fall from the **hands** (of the priestescape) from the vicinity of the plural nks (of the press), or (from the **hand**) of the **Adhvaryu**, or from the filter; I offer itall with my mind (to **Agni**) with the word vaṣat.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your drop that spurts and your plant that is set in motion by the arms,  from the lap of the Holy Place,  
 or from the Adhvaryu or from the filter, that one of yours I offer with  my mind when the vaṣaṭ-cry is made.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Drop that falls, thy stalk which arms have shaken, which from the bosom of the press hath fallen,  
      Or from the Adhvaryu's purifying filter, I offer thee with heart and cry of Vasat!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Tropfen von dir daneben fällt, welche Stengel den Armen entfallen, aus dem Schoße der Dhisana oder aus der Hand des Adhvaryu oder von der Seihe, den opfere ich dir im Geiste mit Vasatrufe gesegnet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Tropfen, welcher herabfällt, dein von den Armen in Bewegung gesetzter Saft, der aus dem Schoosse der Schale herabfällt, sei es von dem Opferpriester her oder aus der Seihe, den giesse ich mit Verstand aus, den Opferruf sprechend. [Das Versmass verlangt vaṣaṭkŕt statt váṣaṭkṙtam].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какая капля проливается у тебя, какой сок у тебя,  
 Приведенный в движение руками, (вылился) из лона Дхишаны,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ वाम् ए꣡षे र꣡थाना᳐म्  
 उर्वीं꣡ ग꣡व्यूतिम् एषा᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दधृ꣡क् स्तो꣡मैर् मनामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 रा॒तऽह॑व्यस्य । सु॒ऽस्तु॒तिम् । द॒धृक् । स्तोमैः॑ । म॒ना॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -92,36 +92,36 @@ genre M
 हे मित्रावरुणौ **ता** तौ प्रसिद्धौ **वां** युवां **रथानाम्** अस्मदीयानाम् **एषां** पुरतो वर्तमानानाम् **उर्वीं** प्रभूतां **गव्यूतिम्** अतिविस्तृतं मार्गम् **एषे** गन्तुम् । मार्गरक्षणायेत्यर्थः ॥ तुमर्थेऽसेन्प्रत्ययः । तदर्थं वां **मनामहे** स्तुमः **रातहव्यस्य** ऋषेः रातहव्यसंबन्धिभिः **सुष्ठुतिं** सुष्ठुतिभिः शोभनस्तुतिसाधनैः **स्तोमैः** **दधृक्** धर्षकौ युवाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We glorify you both, that your chariots may precede ours by a long distance; accepting the pious worship of Rātahavya with (his) praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (We search for) you two in our quest for chariots (and for) a broad  pasture-land for them.  
 With our praise songs we will boldly conceive the good praise of him by  whom the oblation is given,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Therefore we praise you that your cars may travel far in front of ours-  
      You who accept the eulogy of Ratahavya with his hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch beide bitten wir im Rennen der Wagen um breite Bahn für sie. Wir haben zuversichtlich euren Lobpreis mit Lobliedern des Ratahavya im Sinn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Lob gedenken eurer wir, mit Ernst, wenn eurer Wagen Schar Hineilet auf die weite Flur und zu des Opfrers Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас двоих, таких (великих), (я зову) на гонки колесниц,  
 На широкое их ристалище.  

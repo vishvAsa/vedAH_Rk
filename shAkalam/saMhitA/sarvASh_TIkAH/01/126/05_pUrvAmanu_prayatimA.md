@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पू꣡र्वाम् अ꣡नु प्र꣡यतिम् आ꣡ ददे वस्  
 त्री꣡न् युक्ताँ꣡ अष्टा꣡व् अरि꣡धायसो गाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नस्वन्तः श्र꣡व अइ꣡षन्त पज्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽबन्ध॑वः । ये । वि॒श्याः॑ऽइव । व्राः । अन॑स्वन्तः । श्रवः॑ । ऐष॑न्त । प॒ज्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūrvām* ← *pūrva*
 - \[noun\], accusative, singular, feminine
@@ -134,7 +134,7 @@ genre M
 इदानीमानीतं धनं बन्धुभ्यो निवेदयन्नाह । हे **सुबन्धवः** **पूर्वां** **प्रयतिं** पूर्वप्रदानम् **अनु** तमनुसृत्य वक्ष्यमाणानि रथादीनि **वः** युष्मदर्थम् **आ** **ददे** स्वीकृतवानस्मि । यद्वा । पूर्वां प्रयतिं प्रदेयं रथादिकम् अनु दानक्रमेणैव आ ददे प्रतिगृहीतवानस्मि । कानि तानीति । **त्रीन्** **अष्टौ** च **युक्तान्** चतुर्भिश्चतुर्भिरश्वैर्धनैर्वा युक्तान् रथानिति शेषः । अत्र संख्यापृथग्निर्देशो न विवक्षितः । तथा **अरिधायसः** अरिभिरीश्वरैर्धारणीयाः बहुमूल्याः असंख्याताः **गाः** च आ ददे । अत्र वक्ष्यमाणानि पूर्वं प्रतिगृहीतादधिकानीति युक्तम् । पूर्वमेव पित्रे निवेदितानां पुनर्बन्धुभ्यो निवेदनासंभवात्  वधूमन्तो दश रथासो अस्थुः ' ( ऋ. सं. १, १२६. ३ ) इति दशानां रथानामुक्तत्वात् अत्र च त्रीनष्टौ इत्येकादशानां वक्ष्यमाणत्वात् वधूविशिष्टानाम् अन्येभ्यो दातुमनुचितत्वाच्च अन्यानीति युक्तम् । उक्तानामेव अनुवदनपक्षे दशवधूयुक्ता रथा एको धनपूर्णं इति विवेकः । उक्तानामेव रथादीनां पुनरभिधानं प्रकृष्टत्वज्ञापनार्थम् । सर्वे ब्राह्मणा आगता वसिष्ठश्चागत इतिवत् । इदानीं परोक्षेणाह । सुबन्धवः शोभना विद्यायोनिसंबन्धिनः येषां ते तथोक्ताः । यद्वा । शोभनबान्धवोपेताः परस्परमनुरागयुक्ता इत्यर्थः । विशः प्रजाः । तत्र भवाः **विश्याः** । व्रियन्त इति **व्राः** व्राताः ॥ तकारलोपश्छान्दसः ॥ विशां व्राता यथा परस्परमनुरागवन्तः तथा एतेऽपीत्यर्थः। **पज्राः** अन्नवन्तोऽङ्गिरसः संतानप्रभवा ये सन्ति ते सर्वे सुबन्धवः **अनस्वन्तः** शकटवन्तः हविर्धानशकटोपलक्षितसोमयागवन्तः सन्तः **श्रवः** सर्वत्र श्रूयमाणां कीर्तिम् **ऐषन्त** इच्छन्ति इच्छन्तु वा । तदर्थम् आ ददे इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,14 +147,14 @@ Perhaps, 3 and 8 connote a different sense of 11; aridhāyaso gāḥ = aribhir-i
 Anas = small cart or truck in which **Soma** was brought to the plural ce of sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Following the previous presentation, I got for you three yoked (horses?)  and eight cows that suckle the stranger—  
 (for you,) the Pajras, who sought fame—as those of good lineage  
 provided with (wedding-)carts seek maidens with a choice, appropriate  to their clan.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Having employed a no-nonsense style in listing the gifts he acquired in vss.
 
@@ -167,23 +167,23 @@ Since I discuss this verses at length in Jamison 2003 (Fs. H.-P. Schmidt) pp.
 As I point out in the loc. cit., the elaborate simile in cd seems typed as a wedding scene by the telling words ánasvant- ‘possessing carts’ and vrā́- ‘female chooser’. The cart (ánas-) is the wedding vehicle par excellence and hardly appears in the RV except in conjunction with females, particularly in marriage context, and, as I argue in that art., vrā́- is the designation for a girl exercising her choice at a svayaṃvara marriage. The image presented in the simile is of well-connected young men traveling to svayaṃvaras in hopes of acquiring a bride (that is, being chosen by a bride) of acceptable family and clan. I therefore take the vrā́ḥ phrase as acc. pl., not nom. with most interpr. and take the simile as beginning with subándhavaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 An earlier gift for you have I accepted eight cows, good milkers, and three harnessed horses,  
      Pajras, who with your wains with your great kinsman, like troops of subjects, have been fain for glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach der ersten Schenkung bekam ich für euch drei bespannte Wagen, acht auch den reichen Herren ernährende Kühe für die lieben Verwandten, die auf Karren wie die Clandirnen fahrend den Ruhm für sich begehrten, die Pajra´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach der früheren Darreichung empfing ich von euch drei angeschirrte Rosse und acht reichlich milchende Kühe; die zum Stamme gehörigen, schöne Verwandte habenden Padschra's erlangten Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вслед за первым дарением я получил для вас  
 Три запряженных (конями колесницы), восемь коров, насыщающих хозяина,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ प꣡तिं द्रोणसा꣡चं स꣡चेतसम्  
 ऊर्ज꣡ स्कम्भं꣡ धरु꣡ण आ꣡ वृषायसे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡सो य꣡था केनिपा꣡नाम् इनो꣡ वृधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ओजः॑ । कृ॒ष्व॒ । सम् । गृ॒भा॒य॒ । त्वे इति॑ । अपि॑ । असः॑ । यथा॑ । के॒ऽनि॒पाना॑म् । इ॒नः । वृ॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -130,14 +130,14 @@ genre M
 हे इन्द्र त्वम् **एव** एवं **पतिं** पालकं **द्रोणसाचं** द्रोणकलशस्य सेवितारं **सचेतसं** सप्रज्ञम् **ऊर्जः** **स्कम्भं** बलस्य धारकं सोमं **धरुणे** धारके जठरे **आ** **वृषायसे** आसिञ्चसे । धारयसीत्यर्थः । किंच मह्यम् **ओजः** बलं **कृष्व** कुरुष्व। **त्वे** त्वयि अस्मान् **अपि** **सं** **गृभाय** संगृहाण च । किंच **केनिपानां** मेधाविनामस्माकम् ।' केनिप उशिजः' इति मेधाविनामसु पाठात् । **वृधे** वर्धनाय **यथा** यथावत् सर्वथा **इनः** स्वामी **असः** भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, **Indra**, you pour into your capacious (stomach) the protecting (**Soma**), serving the woodentrough, intelligent, holding strength; bestow (upon us) vigour; take us into yourself, for you are the lord for theexaltation of the wise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just in this way you drench yourself in the lord [=soma], the companion  of the cup, the like-minded one, the prop of nourishment upon its  
 support.  
@@ -146,23 +146,23 @@ powerful for the strengthening of those who keep watch (over us)
 nearby [=patrons?].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So like a Bull thou rushest to the Lord who loves the trough, the Sage, the prop of vigour, in the vat,  
      Prepare thine energies, collect them in thyself: be for our profit as the Master of the wise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrlich, du schüttest den der Kufe gesellten Herrn der Kraft auf seine Grundlage. Nimm Stärke an, raffe sie in dir zusammen, auf daß du, der Gebieter, den im Opfer Pünktlichen förderlich seiest!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fürwahr du stürzest gierig auf den weisen Herrn, den Kraftbegründer, der den Trog liebt, ins Gefäss; So schaff dir Stärke, fasse ganz sie in dich auf, dass du zum Heil die Flutgebieter übermannst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В самом деле, ты вливаешь себе в основание повелителя (силы),  
 Пребывающего в деревянном сосуде, прозорливого, опору питательной силы.  

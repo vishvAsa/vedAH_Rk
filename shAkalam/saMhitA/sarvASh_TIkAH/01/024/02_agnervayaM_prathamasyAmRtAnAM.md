@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्ने꣡र् वय꣡म् प्रथम꣡स्यामृ꣡तानाम्  
 म꣡नामहे चा꣡रु देव꣡स्य ना꣡म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पित꣡रं च दृशे꣡यम् मात꣡रं च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; repeated line
 सः । नः॒ । म॒ह्यै । अदि॑तये । पुनः॑ । दा॒त् । पि॒तर॑म् । च॒ । दृ॒शेय॑म् । मा॒तर॑म् । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
@@ -134,7 +134,7 @@ genre D;; repeated line
 इत्थं प्रथमया ऋचा विचिकित्सां कृत्वा प्रजापतेः सकाशात् तं देवम् अग्निं निश्चित्य अनया तुष्टाव । तथा च श्रूयते-’तं प्रजापतिरुवाचाग्निर्वै देवानां नेदिष्ठस्तमेवोपधावेति सोऽग्निमुपससाराग्नेर्वयं प्रथमस्यामृतानामित्येतयर्चा ' ( ऐ. ब्रा. ७. १६) इति । पूर्ववत् योजना । **दात्** ददातु **दृशेयं** पश्यानि इत्येवम् आशीःपरत्वेन पदद्वयं योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,30 +145,30 @@ genre D;; repeated line
 **Aitareya** **Brāhmaṇa**: **Prajāpati** said to Śunahśepas: 'Have recourse to Agni, who is the nearest of the gods'; upon this, he resorted to Agni. Tam prajāpati-ruvācāgnirvai devānām nediṣṭhastam evopadhāveti: so Agnim upasasāra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We will recall the dear name of the god Agni, of the first of the  
 immortals.  
 He will return us to great Aditi. I would see my father and mother.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni the God the first among the Immortals,--of his auspicious name let us bethink us.  
      He shall to mighty Aditi restore us, that I may see my Father and my Mother.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gott Agni ist der erste der Unsterblichen, an dessen teuren Namen wir gedenken. Er soll uns der großen Aditi zurückgeben. Möchte ich Vater und Mutter sehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gott Agni ist's, der ew'gen Götter erster, an dessen theuren Namen wir gedenken; Er gibt der grossen Aditi zurück uns, dass Vater ich und Mutter wieder schaue.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы вспомним милое имя бога  
 Агни – первого из бессмертных.  

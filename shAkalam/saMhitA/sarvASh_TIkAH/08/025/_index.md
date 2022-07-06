@@ -8,7 +8,7 @@ title = "+025"
 ‘ ता वाम्' इति चतुर्विंशत्यृचं पञ्चमं सूक्तम् । अत्रेयमनुक्रमणिका-' ता वां चतुर्विंशतिर्मैत्रावरुणं दशम्याद्यास्तिस्रो वैश्वदेव्य उपान्त्योष्णिग्गर्भा ' इति । व्यश्वपुत्रो विश्वमना ऋषिः । उष्णिक् छन्दः । उपान्त्या उष्णिग्गर्भा ‘षट्सप्तैकादशा उष्णिग्गर्भा' (अनु. ४. ३ ) इति तल्लक्षणोपेतत्वात् । दशम्येकादशीद्वादश्यो वैश्वदेव्योऽवशिष्टानां मित्रावरुणौ देवता । सूक्तविनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 25 (645)  
 Mitra and Varuṇa (1–9, 13–24) and the All Gods  (10–12)  
@@ -18,7 +18,7 @@ The only hymn in Maṇḍala VIII ostensibly devoted to Mitra and Varuṇa, it k
 Although the thematic structure of the hymn roughly tracks the arrangement  in tr̥cas, the tr̥cas do not have strong internal cohesion, and there is relatively little  verbal unity within them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Mitra and Varuṇa
 </details>

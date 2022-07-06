@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ज्रे चिद् अस्मै कृणुथा निअ꣡ञ्चनं  
 दुर्गे꣡ चिद् आ꣡ सुसरण꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡स्रेधन्ती वि꣡ नश्यतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ए॒षा । चि॒त् । अ॒स्मा॒त् । अ॒शनिः॑ । प॒रः । नु । सा । अस्रे॑धन्ती । वि । न॒श्य॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ajre* ← *ajra*
 - \[noun\], locative, singular, masculine
@@ -133,21 +133,21 @@ genre M
 हे देवाः **अज्रे** **चित्** । ‘ज्रि अभिभवे'। परैरनभिभवनीयेऽपि परपुरे **न्यञ्चनं** नितरां गमनम् **अस्मै** मनवे कृणुथ यूयं कुरुत । यद्वा । अज्रे ऋजुगमने प्रस्थे गमनं कुस्त । तथा **दुर्गे** **चित्** अगन्तव्येऽपि स्थले **सुसरणम्** । सृ गतौ' । शोभनगमनम् **आ** समन्तात् कुरुत । एवं सति सा **एषा** **अशनिः** शत्रूणां तदेतदायुधम् **अस्मात्** सर्वतो गन्तुर्मनोः **नु** क्षिप्रं **परः** परस्ताद्भवेत् । पश्चात् **सा** अशनिः अस्रेधन्ती कांश्चिदप्यहिंसती **वि** **नश्यतु** विनष्टा भवेत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You enable him (**Manu**) to proceed by an unobstructed road; you grant him easy access to difficultpasses; may the weapon (of the foe) be far from him, and, inflicting no injury, perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even in the flat plain you make a niche for him; even in difficult going  (you make for him) smooth flowing.  
 Also this missile—it is now far from him—let it go unfaltering to  
 destruction.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2nd hemistich presents some niggling syntactic and lexical problems.
 
@@ -160,23 +160,23 @@ I am disturbed by the pleonastic+++(=redundant)+++ pāda-final sā́, doubling i
 I have reluctantly rendered cid in c as ‘also’ (so also Geldner), though it does not match the two cids in a and b (‘even’) because I cannot make ‘even’ work. (I suppose “even this missile …” is possible, but it is not favored.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 E'en on the plain for him ye make a sloping path, an easy way where road is none:  
      And far away from him the ineffectual shaft must vanish, shot at him in vain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch in der Ebene macht ihr dem einen Schlupfwinkel, auch im Gebirge leichtes Fortkommen. Auch jener Schleuderstein soll weit weg von ihm sein, er soll ohne Schaden anzurichten verschwinden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf ebner Flur auch schafft ihr eine Zuflucht ihm und im Gebirge schöne Bahn; Das fliegende Geschoss auch sinke fern von ihm zu Boden, nicht ihn schädigend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже на равнине вы создаете ему укромный уголок,  
 Даже в труднопроходимом месте – удобный проход.  

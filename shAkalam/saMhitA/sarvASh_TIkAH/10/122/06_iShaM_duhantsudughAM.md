@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡षं दुह꣡न् सुदु꣡घां विश्व꣡धायसं  
 यज्ञप्रि꣡ये य꣡जमानाय सुक्रतो  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वर्ति꣡र् यज्ञ꣡म् परिय꣡न् सुक्रतूयसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अग्रे॑ । घृ॒तऽस्नुः॑ । त्रिः । ऋ॒तानि॑ । दीद्य॑त् । व॒र्तिः । य॒ज्ञम् । प॒रि॒ऽयन् । सु॒क्र॒तु॒ऽय॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
@@ -125,14 +125,14 @@ genre M
 हे **सुक्रतो** सुकर्मन् शोभनप्रज्ञ व **अग्ने** **यज्ञप्रिये** यज्ञैर्हविर्भिर्देवान् प्रीणयित्रे **यजमानाय** **विश्वधायसं** विश्वस्य सर्वस्य धारयित्रीं **सुदुघां** दोग्धुं सुशकां यज्ञरूपिणीं गाम् **इषम्** इष्यमाणं यागफलरूपं पयः **दुहन** क्षारयन् तथा **घृतस्नुः** घृतेनाज्येन प्रस्नातः ॥ स्नातेरौणादिकः कुप्रत्ययः॥ यद्वा । घृतो दीप्त: स्नुः सानुः समुच्छ्रितो ज्वालासमूहो यस्य स तथोक्तः ॥ ‘ पदादिषु मांस्पृत्स्नूनामुपसंख्यानम्' (पा. सू. ६. १. ६३. १) इति सानुशब्दस्य स्नुभावः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥ ईदृशस्त्वं **त्रिः** त्रिवारमावृत्तानि **ऋतानि** सत्यभूतानि पृथिव्यादीनि त्रीणि स्थानानि । यद्वा गार्हपत्यादीनि स्थानानि **दीद्यत्** दीपयन **वर्तिः** सर्वं यज्ञगृहं सर्वमनुष्ठीयमानं यागं च **परियन्** परितो गच्छन् तत्तद्यज्ञगृहं तं तं यज्ञं च प्राप्नुवन् **सुक्रतूयसे** । शोभनं क्रतुं यज्ञमात्मन इच्छसि । यद्वा । शोभनः क्रतुर्यस्यासौ सुक्रतुर्यजमानः। स इवाचरसि । स यथा सम्यगनुष्ठाने प्रवर्तते एवं त्वमपि स्वयमेव यागस्य सम्यग्निष्पत्त्यर्थं प्रवर्तस इत्यर्थः ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Milking the easily milked cow (of sacrifice) of her all-sustaining food, for the benefit of the piousinstitutor of the rite, O **Agni**, doer of good deeds, anointed with butter, illumining the three regions, presiding(over the hall of sacrifice), going round the sacrifice, you accomplish each holy rite.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In milking all-nourishing refreshment out of the good milker for the  sacrificer who is pleasing to the sacrifice, o very effective one,  
 and in making the circuit three times around the truths, around the  
@@ -140,23 +140,23 @@ sacrifice, while shining ghee-backed, o Agni, you well display your
 effective power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Milking the teeming Cow for all-sustaining food. O Wise One, for the worship-loving worshipper,  
      Thou, Agni, dropping oil, thrice lighting works of Law, showest thy wisdom circling home and sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem du für den opferliebenden Opferer aus der guten Milchkuh allnährende Speise herausmelkst, du Einsichtsvoller, und, o Agni, mit Schmalz auf dem Rücken dreimal, die Opferbräuche beleuchtend, deinen Umgang um das Opfer machst, handelst du wie ein Einsichtsvoller.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den reichen Trank ausmelkend, welcher alle nährt, dem Opferer, der Opfer liebt, schön wirkender! Dreimal gehst Agni du ums Opfer fettbedeckt und wirkest schön, erleuchtend des Gesetzes Werk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Надаивая всенасыщающей жертвенной услады у хорошо доящейся (коровы),  
 Для жертвователя, любящего жертвоприношение, о прекрасный силой духа  

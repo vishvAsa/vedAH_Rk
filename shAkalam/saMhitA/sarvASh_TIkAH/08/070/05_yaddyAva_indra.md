@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् द्या꣡व इन्द्र ते शतं꣡  
 शत꣡म् भू꣡मीर् उत꣡ सियुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 न꣡ जात꣡म् अष्ट रो꣡दसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न । त्वा॒ । व॒ज्रि॒न् । स॒हस्र॑म् । सूर्याः॑ । अनु॑ । न । जा॒तम् । अ॒ष्ट॒ । रोद॑सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 हे **इन्द्र** **ते** तव प्रतिमानार्थं **यत्** यदि **द्यावः** द्युलोकाः **स्युः** तथापि नाश्नुवन्ति । **उत** अपि च **भूमीः** भूम्यस्ते तव मूर्तिप्रतिबिम्बाय **शतं** स्युः तथापि नाश्नुवन्ति । हे **वज्रिन्** **त्वा** त्वां **सहस्रं** सूर्याः अगणिता अपि सूर्याः **न** **अनु** भवन्ति । न प्रकाशयन्तीत्यर्थः। ‘न तत्र सूर्यो भाति' ( क. उ. ५. १५) इति श्रुतेः । किं बहुना । **जातं** पूर्वमुत्पन्नं किंचन **न** **अष्ट** नाश्नुते । तथा **रोदसी** द्यावापृथिव्यौ नाश्नुवाते । सर्वेभ्योऽतिरिच्यस इत्यर्थः। ‘ज्यायान्पृथिव्या ज्यायानन्तरिक्षाज्ज्यायान्दिवो ज्यायानेभ्यो लोकेभ्यः' (छा. उ. ३. १४. ३) इति श्रुतेः ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ genre M
 Not even a thousand suns: there (in **brāhmaṇa**) the sun shines not: **Katha** Upan. 5.15; no created thingwould fill you: the **soul** within my heart is greater than the earth, greater than the sky, greater than the heaven,greater than all these worlds: Chāndogya Up. 3.14
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since a hundred heavens and a hundred earths could be yours, Indra, a thousand suns were not equal to you when you were just born, o  
 mace-bearer, nor were the two world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The conjoined NPs in ab display a neat chiasmus: dyā́vaḥ … śatáṃ, śatám bhū́mīḥ. This may help account for the placement of the utá after the second term (indeed after the entire second term: śatám bhū́mīr utá). Although XY utá structures are by no means uncommon (see Klein DGRV I.344-53), they are considerably rarer than the standard X utá Y type.
 
@@ -150,23 +150,23 @@ In cd there are two parallel nominal subjects, pl. sahásraṃ sū́ryāḥ and 
 ródasī, and neither matches the sg. verb ánu … aṣṭa in number. Several solutions have been proposed. BR (see Oldenberg) and Grassmann take ródasī as singular, but all other examples of sg. ródasī (and more common rodasī́) refer to the goddess of that name; when ródasī refers to the world-halves, it is always dual. Oldenberg also cites Geldner Komm for the view that the sg. verb was influenced by sahásram. I am inclined to assume that the sg. verb split the difference between the plural and dual subjects, and it is also possible that the construction was somehow syntactically calqued on the inherited neuter plural subject + singular verb construction (though neither of the subjects is neuter). It’s also worth noting that the root aor. 3rd du. middle of √(n)aś is not attested, and in fact, acdg. to Macdonell, Vedic Grassmann, the only 2nd or 3rd du. mid. root aor. attested is adhītām (X.4.6, √dhā) -- so the poet may have been a bit insecure about what the du. form ought to be (*aśātām? *aṣṭāṃ?), and the pl. sū́ryāḥ may have been too distant in the vs. to allow the 3rd pl. aśata to be used instead.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, if a hundred heavens and if a hundred earths were thine-  
      No, not a thousand Suns could match thee at thy birth, not both the worlds, O Thunderer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn dir, Indra, auch hundert Himmel und hundert Erden wären, nicht tausend Sonnen würden dir, dem Geborenen, gleichkommen, noch beide Welten, o Keulenträger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra, hundert Himmel dir und hundert Erden wären auch, So fassten tausend Sonnen nicht dich, Blitzender, nicht das Geschaffne, Welten nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

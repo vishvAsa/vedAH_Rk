@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ यो꣡ वीरु꣡त्सु रो꣡धन् महित्वा꣡  
 उत꣡ प्रजा꣡ उत꣡ प्रसू꣡ष्व् अन्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 वि । यः । वी॒रुत्ऽसु॑ । रोध॑त् । म॒हि॒ऽत्वा । उ॒त । प्र॒ऽजाः । उ॒त । प्र॒ऽसूषु॑ । अ॒न्तरिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -80,20 +80,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “\[9-10\] The wise, (first) honouring **Agni**, as they do a dwelling, worship him who implants their (peculiar) virtues in herbs, as progeny in their parents, and who, the source of knowledge and of all sustenance, (abides) in the domicile of the waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who [=Agni]—along with his offspring—sprouts greatly  
 in the sprouts and within the fruitful (plants),
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The second half of the verse is metrically disturbed. As Holland & van Nooten Rig Veda edition note in their metrical commentary, it actually reads better as a Triṣṭubh, as is occasionally the case with Dvipadā Virāj.
 
@@ -102,27 +102,27 @@ The syntax of the verse is also problematic. The two utá-s of c are difficult t
 Note also that the verse begins ví REL, just like vs. 8, but with entirely different referents for the rel. pronoun. This might be another reason why 8ab shifts to the plural, to establish the difference between those who serve Agni and Agni himself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 वि यो वी॒रुत्सु॒ रोध॑न्महि॒त्वोत प्र॒जा उ॒त प्र॒सूष्व॒न्तः ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who grows up with might within the plants, and within the children 1, and within the sprouting grass 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der in den Pflanzen mächtig wächst, sowohl das neugeborene Kind, als in den befruchteten Pflanzen
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der in den Pflanzen – mit Kraft emporwuchs, und in den Völkern – und in den Müttern; Der Wasser kundig – im Haus erquickend; ihm machten Weise – den Sitz ermessend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

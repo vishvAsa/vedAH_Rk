@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त्वा शतं꣡ चन꣡ ह्रु꣡तो  
 रा꣡धो दि꣡त्सन्तम् आ꣡ मिनन्  
 य꣡त् पुनानो꣡ मखस्य꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत् । पु॒ना॒नः । म॒ख॒स्यसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -84,7 +84,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **राधः** धनम् **आ** **दित्सन्तम्** आदातुमिच्छन्तं **त्वा** त्वां **शतं** **चन** बहवोऽपि **ह्रुतः** हिंसकाः शत्रवः **न** **मिनन्** न हिंसन्ति । कदेत्यत्राह । **यत्** यदा **पुनानः** पूयमानस्त्वं **मखस्यसे** अस्मभ्यं धनं दातुमिच्छसि । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,13 +95,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Purposing to give wealth: makhasyase = asmabhyām dhanam dātum icchasi; cf. RV 9.020.07, where **makhaḥ** = **dānam**; RV. 9.064.026, where makhasyuvam = dhanakāmam; RV. 9. 101.5, makhasyate = stutibhiḥ pūjām icchati; thus makhaḥ = yajñam or dhanam or dānam; from magh = great
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A hundred crooks [/wool tufts] will never confound you when you are  eager to give largesse,  
 when you, becoming purified, do battle [/act bounteously].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is rather cleverer than the two that precede it. In pāda a the nom. pl. root noun hrútaḥ is, in my opinion, a pun. It belongs to the root √hvṛ ‘go crookedly, curve’, and its sense was disc., e.g., by Hoffmann (Fs. Thieme [1980] =Aufs. III.753-54). He suggests that here it refers to unevennesses (Unebenheiten) in the fleece sieve (i.e., as I see it, the curvy tufts of wool), just as, in the other occurrence of this root noun (VI.4.5), it refers to the curves of a race course (see comm. ad loc.). The literal sense here then is that though the soma must navigate around the tufts on the sieve, they will not keep it from completing the course. The second sense is one referring to unscrupulous enemies—Engl. ‘crook’ is an exact semantic match—and the point is that when Soma wishes to dispense goods to us, our crooked enemies can’t divert him.
 
@@ -117,24 +117,24 @@ This tṛca focuses even more strongly on combat, with forms of √han in 25 and
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A hundred obstacles have ne'er checked  
      thee when fain to give thy boons,  
      When, being cleansed, thou combatest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich hindern auch nicht hundert Ränke, wenn du eine Schenkung gewähren willst, wenn du dich läuternd den Freigebigen spielst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Selbst hundert Feinde hemmen nicht dich, wenn du Gaben schenken willst, Wenn flammend du den Kampf beginnst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже сотня обманов  
 Не помешает тебе, желающему наградить подарком,  

@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बो꣡धा सु꣡ मे मघवन् वा꣡चम् ए꣡मां꣡  
 यां꣡ ते व꣡सिष्ठो अ꣡र्चति प्र꣡शस्तिम्  
 इमा꣡ ब्र꣡ह्म सधमा꣡दे जुषस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 इ॒मा । ब्रह्म॑ । स॒ध॒ऽमादे॑ । जु॒ष॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bodhā* ← *bodha* ← *budh*
 - \[verb\], singular, Present imperative
@@ -108,20 +108,20 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **ते** तव **प्रशस्तिं** स्तुतिरूपां **यां** **वाचं** **वसिष्ठः** **अर्चति** वदति ताम् **इमां** **मे** वसिष्ठस्य संबन्धिनीं वाचं **सु** **आ** **बोध** सुष्ठु अभिबुध्यस्व । किंच **इमा** इमानि **ब्रह्म** ब्रह्माणि **सधमादे** यज्ञे **जुषस्व** सेवस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Understand thoroughly, **Maghavan**, this my speech, this praise of you, which **Vasiṣṭha** recites; bepleased by these prayers at the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Take heed of this speech of mine, o bounteous one, which Vasiṣṭha  chants to you as an encomium;  
 enjoy these sacred formulations at the (time of) joint revelry.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The position of ā́in the middle of the NP vā́cam … imā́m is worth noting.
 
@@ -130,23 +130,23 @@ Grassmann takes it as a preverb with bódhā, but √budh does not otherwise occ
 Pāda-final vā́cam émā́m is also found in IX.97.13, a verse attributed to Upamanyu Vāsiṣṭha, again without obvious function.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mark closely, Maghavan, the words I utter, this eulogy recited by Vasistha:  
      Accept the prayers I offer at thy banquet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Achte fein auf dies mein Wort, du Gabenreicher, auf das Lob, das dir Vasistha singt. Erfreue dich an diesen erbaulichen Reden bei dem Somagelage!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beachte recht, o mächt'ger, dies mein Loblied, das dir Vasischtha singt zu deinem Preise, Nimm diese Bitten an beim Festgelage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чутко внемли этой речи моей, о щедрый,  
 (Той) хвале, что поет тебе Васиштха.  

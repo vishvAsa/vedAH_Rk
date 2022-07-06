@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 च꣡तुःसहस्रं ग꣡वियस्य पश्वः꣡  
 प्र꣡त्य् अग्रभीष्म रुश꣡मेषु अग्ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अयस्म꣡यस् त꣡म् उ आ꣡दाम वि꣡प्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 घ॒र्मः । चि॒त् । त॒प्तः । प्र॒ऽवृजे॑ । यः । आसी॑त् । अ॒य॒स्मयः॑ । तम् । ऊं॒ इति॑ । आदा॑म । विप्राः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *catuḥsahasraṃ* ← *catur*
 - \[noun\]
@@ -128,7 +128,7 @@ genre D
 हे अग्ने वयं **रुशमेषु** एतत्संज्ञकेषु जनेषु **गव्यस्य** गवात्मकस्य **पश्वः** पशोः पशूनाम् । जातावेकवचनम् । **चतुःसहस्रं** चत्वारि सहस्राणि प्रत्यग्रभीष्म प्रतिगृहीतवन्तः स्मः । **प्रवृजे** प्रवृञ्जनार्थं **तप्तः** संतप्तः शोभनवर्णः **घर्मश्चित्** महावीर इव **अयस्मयः** अयोमयो हिरण्मयः **यः** कलशः **आसीत्** अभवत् 'तमु दोहनार्थं कलशं च **विप्राः** मेधाविनो वयं रुशमेषु **आदाम** आदत्तवन्तः ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,33 +141,33 @@ The golden ewer: **gharmas**' cit **taptaḥ** pravṛje ya āsid ayasmayaḥ: a
 Gharmaścit = **mahāvīra** iva, that is, like the ewer or vessel so termed, containing a mixture of **Soma**, melted butter, and milk, perhaps put upon the fire: yad ghara ityatapat tad gharmasya gharmatvam it **śruti**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Four thousand bovine livestock have we accepted from the Ruśamas. Also the gharma pot, which was heated for the Pravargya rite, the one  made of copper, that too have we inspired poets taken.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The idiom ā́√dā ‘take’ is ordinarily in the middle, whereas ā́dāma here is active. I consider this active form a secondary formation based on the (pseudo- )active ā́dat ‘took’, for which see comm. ad V.32.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We have received four thousand head of cattle presented by the Rusamas, O Agni.  
      And we, the singers, have received the caldron of metal which was heated for Pravargya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viertausend Stück Rindvieh haben wir von den Rusama´s empfangen, o Agni. Auch den eisernen Kessel, der zum Sieden der Pravargyamilch erhitzt wurde, haben wir Redekundigen mitbekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja viermal tausend Vieh der Rinderheerde empfingen wir von Ruçamern, o Agni, Und erzgemachten Kessel, ihn zu wärmen am Feuer, den erhielten wir, die Säuger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Четыре тысячи голов коров  
 Мы приняли от потомков Рушамы, о Агни,  

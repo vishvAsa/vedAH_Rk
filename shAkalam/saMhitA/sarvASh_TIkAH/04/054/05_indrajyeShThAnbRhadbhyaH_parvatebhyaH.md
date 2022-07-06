@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रज्येष्ठान् बृह꣡द्भ्यः प꣡र्वतेभियः  
 क्ष꣡याँ एभ्यः सुवसि पस्ति꣡यावतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 एवइ꣡व꣡ तस्थुः सवितः सवा꣡य ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यथा॑ऽयथा । प॒तय॑न्तः । वि॒ऽये॒मि॒रे । ए॒व । ए॒व । त॒स्थुः॒ । स॒वि॒त॒रिति॑ । स॒वाय॑ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrajyeṣṭhān* ← *indra*
 - \[noun\], masculine
@@ -118,7 +118,7 @@ genre M
 हे **सवितः** **इन्द्रज्येष्ठान्** । इन्द्रः परमैश्वर्ययुक्तस्त्वमेवेन्द्रो वा ज्येष्ठो ज्यायान् पूज्यो येषां ते  तादृशाः । तान् अस्मान् **बृहद्भ्यः** महद्भ्यः **पर्वतेभ्यः** अप्यधिकान् **सुवसि** प्रेरयसि । किंच **एभ्यः** यजमानेभ्यः **पस्त्यावतः** गृहवतः **क्षयान्** निवासान् ग्रामनगरादीन्  सुवसि प्रेरयसि । **यथायथा** **पतयन्तः** गच्छन्तः त्वां **वियेमिरे** विनियम्यन्ते त्वया । **ते** तव **सवाय** अनुज्ञायै **एवैव** एवमेव नियमनमनतिक्रम्य **तस्थुः** तिष्ठन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,35 +129,35 @@ genre M
 Yathā yathā patayantaḥ gaccandas tvam viyemire evaiva tasthuḥ savāya te: tavanujñayā eva tiṣṭhanti, probably this applies to the worshippers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You impel) those whose chief is Indra [=Maruts] from the lofty  mountains, and you impel the dwelling places that provide homes  
 [=clouds?] for them.  
 Just as they spread out while flying, just so do they stand still for your  impulsion, o Savitar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. here impose a different sense on √sū than in the previous vs. and one no more aligned with its usual semantics, i.e., ‘assign, direct’, with the interpr. that Savitar is assigning dwelling places to gods (the high mountains) and to men (pastyā́vataḥ, interpr. by Geldner and Renou as watery places, Witzel Gotō just dwellings). Oldenberg, however, resists the easy contextual shift and attempts to find an interpr. compatible with lexicon and grammar. (Among other things, he points out that unaccented ebhyaḥ should not introduce a new referent, ‘men’, into the discourse.) He does not settle on an interpr., however. My own interpr. assumes first that índrajyeṣṭhān refers to the Maruts, rather than the gods in general. (This stem sometimes modifies one, sometimes the other.) I also take párvatebhyaḥ not as dat., but abl. The Maruts tend to haunt the high mountains, but Savitar can dislodge them. He can also impel the clouds on which they (fancifully) dwell -- this is, in my opinion, the referent of kṣáyān … pastyā́vataḥ, with ebhyaḥ here a dative referring to the previously mentioned Maruts, thus properly unaccented. The 2nd hemistich announces that the famously hyperactive Maruts can be controlled by Savitar: they can fly widely, but they can also be brought to a standstill.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To lofty hills thou sendest those whom Indra leads, and givest fixed abodes with houses unto these.  
      However they may fly and draw themselves apart, still, Savitar, they stand obeying thy behest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast die Götter mit Indra als Oberstem den hohen Bergen zugewiesen, diesen weisest du die flußreichen Wohnsitze zu. So sehr sie auch im Fliegen die Flügel ausgebreitet haben, so standen sie doch auf deine Weisung still, o Savitri.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den hohen Bergen theilst du Indra's Scharen zu, und schaffest ihnen wohnungsreiche Sitze dort, Wie immer sich vertheilten auch die eilenden, so stehn sie deinem Antrieb stets, o Savitar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Богов) с Индрой во главе (ты предназначил) для высоких гор,  
 Этим ты предназначаешь места для жилья, богатые водой.  

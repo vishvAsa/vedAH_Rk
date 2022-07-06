@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡कारि वाम् · अ꣡न्धसो व꣡रीमन्न्  
 अ꣡स्तारि बर्हिः꣡ सुप्रायण꣡तमम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ वां न꣡क्षन्तो अ꣡द्रय आ᳐ञ्जन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒त्ता॒नऽह॑स्तः । यु॒व॒युः । व॒व॒न्द॒ । आ । वा॒म् । नक्ष॑न्तः । अद्र॑यः । आ॒ञ्ज॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akāri* ← *kṛ*
 - \[verb\], singular, Aorist passive
@@ -105,21 +105,21 @@ genre M
 **वां** युवयोरर्थे **अन्धसः** सोमस्य **वरीमन्** विस्तृतेऽभिषवादौ यत् कृत्यमस्ति तत् **अकारि** कृतम् । **सुप्रायणतमं** मृदुतमं **बर्हिः** **अस्तारि** स्तीर्णम् । **उत्तानहस्तः** कृताञ्जलिः **युवयुः** युवां कामयमानो होता **ववन्द** स्तौति । **वां** युवां **नक्षन्तः** व्याप्नुवन्तः ॥  ‘ तृक्ष पृक्ष नक्ष गतौ ' इति धातुः ॥ **अद्रयः** ग्रावाणः **आ** **आञ्जन** सोमरसम् आ समन्तात् व्यक्तीकृतवन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(What is essential) for the copious effusion of the (sacrificial) food has been done for you; the very delicate sacred grass has been strewn; the (priest with) uplifted **hands** desirous o your presence praises you; the stones express (the **Soma**), designing it for you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It has been made for you from the stalk; on the expanse [=ritual  ground] has been strewn the ritual grass, offering the easiest  
 approach.  
 With hands outstretched, seeking you, I have greeted (you). Approaching  you, the stones have anointed you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is no expressed subj. to ákāri and the abl./gen. ándhasaḥ has nothing to depend on. Geldner takes it as a partitive gen. (n. 3a) but simply tr. as an indef. subject (“Trank ist euch bereitet”), while Renou takes it as belonging to an elliptical construction and suggests supplying either sutám or pā́ntam. I prefer to assume that the subject of ákāri has been gapped, and ándhasaḥ is an abl. of source.
 
@@ -130,23 +130,23 @@ vavande is of course ambig. as to person, but given the 1st ps. in 2a and no int
 In real-world terms the phrase “the stones have anointed you” is, of course, distinctly peculiar. But in the foreshortened universe of RVic discourse, this simply abbreviates the sequence “the stones pressed out the soma liquid, which was prepared for you to drink, and your drinking of it was as if it were anointing you (and perhaps did, by running down your chins).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Juice in wide room hath been prepared to feast you: for you the grass is strewn, most soft to tread on.  
      With lifted hands your servant hath adored you. Yearningfor you the press-stones shed the liquid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trank ist euch bereitet, in voller Breite ist das Barhis hingelegt, das gern betretene. Mit ausgestreckten Händen habe ich euch beneidet, nach euch verlangend. Die ankommenden Preßsteine haben euch geschmeidig gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gedient ward euch im weiten Strom des Soma, der Sitz gestreut, der schön ist zu besteigen, Erhobner Hand verehrte euch der fromme, zu euch hindringend salbten euch die Steine.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приготовлено вам соку в большом количестве,  
 Расстелена солома, по которой очень приятно пройтись.  

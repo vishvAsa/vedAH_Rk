@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शे꣡षे व꣡नेषु मातरोः꣡  
 सं꣡ त्वा म꣡र्तास इन्धते  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡द् इ꣡द् देवे꣡षु राजसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अत॑न्द्रः । ह॒व्या । व॒ह॒सि॒ । ह॒विः॒ऽकृतः॑ । आत् । इत् । दे॒वेषु॑ । रा॒ज॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śeṣe* ← *śī*
 - \[verb\], singular, Present indikative
@@ -103,7 +103,7 @@ genre M
 हे अग्ने **वनेषु** वर्तमानयोः **मात्रोः** अरण्योः **शेषे** स्वपिषि वर्तसे। **त्वा** त्वां तथाभूतं **मर्तासः** मनुष्या अध्वर्य्वादयो मथनेनोत्पाद्य **सम्** **इन्धते** । पश्चात् प्रवृद्धस्त्वम् **अतन्द्रः** अनलसः सन् **हविष्कृतः** यजमानस्य **हव्या** हवींषि **वहसि** देवान् प्रति । **आदित्** अनन्तरमेव **देवेषु** मध्ये **राजसि** दीप्यसे । ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,29 +114,29 @@ genre M
 Your mothers: the two **araṇis** or pieces of wood from which thesacrificial fire is produced by attrition; RV 3.29.2
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You lie in the pieces of wood and in your two mothers [=kindling  sticks]; the mortals kindle you.  
 Tireless, you convey the oblations of him who makes oblation. Right  after that you shine [/rule] among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou liest in the wood: from both thy Mothers mortals kindle thee.  
      Unweariedly thou bearest up the offerer's gifts, then shinest bright among the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du liegst in den Hölzern, in deinen beiden Müttern; die Sterblichen entzünden dich. Unermüdlich fährst du die Opferspenden des Opferbereiters. Dann gebietest du über die Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Hölzern, deiner Mutter Schooss, liegst du, dich zünden Menschen an; Des Opfers Tränke fährst du unermüdlich hin; dann strahlest bei den Göttern du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты покоишься в деревьях, (в лоне) двух матерей.  
 Смертные зажигают тебя.  

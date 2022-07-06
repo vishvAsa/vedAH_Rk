@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञइ꣡र् इ꣡षूः संन꣡ममानो अग्ने  
 वाचा꣡ शल्याँ꣡ अश꣡निभिर् दिहानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रतीचो꣡ बाहू꣡न् प्र꣡ति भङ्धि एषाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ताभिः॑ । वि॒ध्य॒ । हृद॑ये । या॒तु॒ऽधाना॑न् । प्र॒ती॒चः । बा॒हून् । प्रति॑ । भ॒ङ्धि॒ । ए॒षा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñair* ← *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
@@ -117,36 +117,36 @@ popular
 हे अग्ने त्वं **यज्ञैः** अस्मदीयैर्बलकरैर्यागैः **वाचा** अस्मदीयया स्तुत्या च **इषूः** वक्रान् बाणान् **संनममानः** संनमयन् **शल्यान्** तासां शल्यान् **अशनिभिः** दीप्तिभिः **दिहानः** तीक्ष्णीकुर्वन् **ताभिः** इषुभिः **यातुधानान्** राक्षसान् **हृदये** **विध्य** । ततः **एषां** यातुधानानां संबन्धिनः **प्रतीचः** युद्धाय त्वां प्रतिगतान् **बाहून** **प्रति** **भङ्धि** प्रत्यामर्दय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, do you, bending your arrows by means on your sacrifices and praise, and sharpening thejavelins with your splendours, pierce with them the **yātudhānas** to the heart, break their arms when raisedagainst you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fitting your arrows to the bow with sacrifices, o Agni, and smearing  their shafts along with their points with speech,  
 with these pierce the sorcerers in the heart. Break their arms, turned  against (us), in turn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bending thy shafts through sacrifices, Agni, whetting their points with song as if with whetstones,  
      Pierce to the heart therewith the Yatudhanas, and break their arms uplifed to attack thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An den Opfergebeten deine Pfeile glättend, o Agni, an unserem Worte die Pfeilspitzen wie an Schleifsteinen streichend, triff mit diesen Pfeilen die Zauberer ins Herz, brich ihre Arme rückwärts um!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Opfer, Agni, die Geschosse richtend der Pfeile Spitzen mit dem Lied bestreichend, Durchbohr damit den Zauberern die Herzen, zerknicke ihre vorgestreckten Arme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертвами отделывая стрелы, о Агни,  
 Речью, (как) острыми камушками, обрабатывая основания (их) наконечников.  

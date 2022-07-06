@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡र्वद्भिर् अग्ने अ꣡र्वतो नृ꣡भिर् नॄ꣡न्  
 वीरइ꣡र् वीरा꣡न् वनुयामा तुवो꣡ताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ सूर꣡यः शत꣡हिमा नो अश्युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ई॒शा॒नासः॑ । पि॒तृ॒ऽवि॒त्तस्य॑ । रा॒यः । वि । सू॒रयः॑ । श॒तऽहि॑माः । नः॒ । अ॒श्युः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvadbhir* ← *arvadbhiḥ* ← *arvant*
 - \[noun\], instrumental, plural, masculine
@@ -120,49 +120,49 @@ genre M
 हे **अग्ने** **त्वोताः** त्वया रक्षिताः सन्तो वयम् **अर्वद्भिः** अस्मदीयैरश्वैः **अर्वतः** शत्रुसंबन्धिनः अश्वान् **नृभिः** अस्मदीयैर्भटैः **नॄन्** शत्रोर्भटान् । वीर्याज्जायन्ते इति वीराः पुत्राः । तैः **वीरान्** शत्रुपुत्रांश्च **वनुयाम** हन्याम । वनुष्यतिर्हन्तिकर्मानवगतसंस्कारो भवति ' ( निरु. ५. २ ) इति यास्कः । **पितृवित्तस्य** पित्रादिपरंपरया लब्धस्य **रायः** धनस्य **ईशानासः** स्वामिनः **सूरयः** विद्वांसः **नः** अस्माकं पुत्राः **शतहिमाः** शतं संवत्सरान् जीवन्तः सन्तः **वि** **अश्युः** विशेषेण भुञ्जताम् । अस्मदीयानां पुत्राणामारोग्यं दीर्घमायुश्च भवत्वित्यर्थः ॥ त्वोताः त्वयोताः ।' प्रत्ययोत्तरपदयोश्च ' इति मपर्यन्तस्य त्वादेशः । व्यत्ययेन आत्वम् । “ तृतीया कर्मणि ' इति पूर्वपदप्रकृतिस्वरत्वम् । शतहिमाः । अत्र हिमशब्देन तद्वान् हेमन्तो लक्ष्यते । ब्राह्मणं च भवति - शतं हिमा इत्याह शतं त्वा हेमन्तानिन्धिषीयेति वावैतदाह ' ( तै. सं. १, ५, ८. ५ ) इति । शतं हिमाः शतं हेमन्तर्तवो येषां ते शतसंवत्सरजीविन इत्यर्थः । अश्युः । ‘ अश भोजने '। ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Defended, **Agni**, by you, may we destroy the horses (of your enemies) by (our) horses, their men by (our) men, their sons by (our) sons, and may our sons, learned and inheritors of ancestral wealth, live for a hundred winters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we vanquish steeds with steeds, men with men, and heroes with  heroes, o Agni, when aided by you.  
 As lords of wealth acquired from their fathers, might our patrons,  
 having a hundred winters, reach through (a whole lifetime).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the echo of I.70.1, with optatives to the same (synchronic) root and a likely identical case frame. See disc. ad I.70.1.
 
 The second hemistich reprises material from earlier in the hymn: “wealth acquired from their fathers” is exactly the same phrase, though in a different case, as the simile that begins the hymn (I.73.1a); the patrons with their long lives were encountered in 5b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aided by thee, O Agni, may we conquer steeds with steeds, men with men, heroes with heroes,  
      Lords of the wealth transmitted by our fathers: and may our princes live a hundred winters.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May we, O Agni, guarded by thee, conquer with our racers the racers, with our men the men, with our heroes the heroes (of our enemies). Being masters of the riches which their fathers 1 have conquered, may our rich (givers) reach a hundred winters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den Rennpferden wollen wir, o Agni, die Rennpferde, mit den Mannen die Mannen, mit Söhnen die Söhne überbieten durch deinen Beistand. Im Besitz des vom Vater geerbten Reichtums sollen unsere Herren auf hundert Winter ihr Leben bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit dir lass Renner uns durch Renner schlagen, durch Männer Männer und durch Helden Helden, Lass unsre Fürsten hundert Jahr' erreichen, verfügend über den ererbten Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Скакунами, о Агни, – скакунов, мужами – мужей,  
 Героями – героев хотим мы превзойти с твоей помощью!  

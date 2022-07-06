@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ प꣡र्वतस्य मरु꣡ताम् अ꣡वांसि  
 देव꣡स्य त्रातु꣡र् अवरि भ꣡गस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मित्रो꣡ मित्रि꣡याद् उत꣡ न उरुष्येत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पात् । पतिः॑ । जन्या॑त् । अंह॑सः । नः॒ । मि॒त्रः । मि॒त्रिया॑त् । उ॒त । नः॒ । उ॒रु॒ष्ये॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -116,19 +116,19 @@ genre M
 **पर्वतस्य** इन्द्रसखस्य एतन्नामकस्य **देवस्य** **मरुतां** च **ञातुः** रक्षकस्य **भगस्य** देवस्य च **अवांसि** रक्षणानि **आ** **अव्रि** आवृणे । किंच **पतिः** वरुणो देवः **जन्यात्** जनसंबन्धात् **अंहसः** पापात् **नः** अस्मान् **पात्** पातु रक्षतु । **उत** अपि च **मित्रः** च **मित्रियात्** मित्रभावेन **नः** अस्मान् उरुष्येत् रक्षतु ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I have recourse to the protection of **Parvata**, of the **Maruts**, and of the divine protector, **Bhaga**; may the lord (**Varuṇa**) preserve us from human wretchedness, and may **Mitra** defend us with a friendly regard.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The help of the Mountain, of the Maruts, of the divine Protector, of  Bhaga have I chosen. The lord [=Agni? Varuṇa?] will guard us from anxiety stemming from  (our own) people; Mitra from that stemming from our allies, and he  should make wide space for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The echo of vs. 1 noted at the end of vs. 4 continues here, where devásya trātúḥ picks up trātā́of 1a (as well as trā́sīthām in 1b). The abl. “(protect) from …” in 1c sáhīyasaḥ … mártāt recurs in cd jányād áṃhasaḥ … mitríyāt.
 
@@ -141,23 +141,23 @@ Pāda d revives the question of wide space, here with a god making it for mortal
 Nonetheless, I think the overall structure of the hymn fits better with my interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I have besought the favourof the Maruts, of Parvata, of Bhaga God who rescues.  
      From trouble caused by man the Lord preserve us; from woe sent by his friend let Mitra save us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe mir die Hälfte des Parvata, der Marut erwählt und die des Gottes Schirmer, des Bhaga. Der Herr schütze uns vor Bedrängnis durch Fremde und Mitra befreie uns von solcher durch Befreundete.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich hab' erfleht des Berges und der Marut's, des Gottes Tratar und des Bhaga Hülfe, Der Schützer schütz uns vor der Fremden Frevel, vor dem des Freundes schaffe Raum uns Mitra
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я выбрал себе помощь Парваты,  
 Марутов, бога-спасителя, Бхаги.  

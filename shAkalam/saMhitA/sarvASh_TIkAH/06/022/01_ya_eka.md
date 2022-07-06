@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ए꣡क इ꣡द् ध꣡वियश् चर्षणीना꣡म्  
 इ꣡न्द्रं तं꣡ गीर्भि꣡र् अभि꣡ अर्च आभिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सत्यः꣡ स꣡त्वा पुरुमायः꣡ स꣡हस्वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । पत्य॑ते । वृ॒ष॒भः । वृष्ण्य॑ऽवान् । स॒त्यः । सत्वा॑ । पु॒रु॒ऽमा॒यः । सह॑स्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -128,43 +128,43 @@ genre M
 **यः** इन्द्रः **चर्षणीनां** प्रजानामापत्सु **एक** **इत्** एक एव **हव्यः** ह्वातव्यः **आभिः** **गीर्भिः** स्तुतिरूपाभिर्वाग्भिः **तम्** **इन्द्रम्** **अभ्यर्चे** अभिष्टौमि । **यः** इन्द्रः **पत्यते** स्तोतॄनभिगच्छति । यद्वा । पत्यते लोकानामीष्टे । कीदृशः । **वृषभः** कामानां वर्षिता **वृष्ण्यावान्** बलवान् **सत्यः** अविसंवादी **सत्वा** शत्रूणां सादयिता कामानां दाता वा । सदेर्वा सनोतेवेंदं रूपम् । **पुरुमायः** बहुप्रज्ञः **सहस्वान्** अभिभवनवान् तमिन्द्रमभिष्टौमीति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify with these praises, **Indra**, who alone is to be invoked by man; who comes (to his worshippers) the showerer (of benefits), the vigorous, the observer of truth, the subduer of foes, the possessor of manifold knowledge, the mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To him who alone is to be called by the separate peoples, to Indra chant  with these hymns,  
 to the bull with bull-like strength who is master, the real “real thing”  with many magic wiles, mighty.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 To add to the similarities between VI.21 and VI.22 noted in the published introduction, hávya- is applied to Indra in the first pāda here, recalling 22.1b hávyam .. hávyā havante; note also purumāyá- in b, a descriptor of Indra also in VI.21.2d (as well as nearby VI.18.12).
 
 On sátvan- see comm. ad I.173.5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH these my hymns I glorify that Indra who is alone to be invoked by mortals,  
      The Lord, the Mighty One, of manly vigour, victorious, Hero, true, and full of wisdom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ganz allein von den Stämmen anzurufen ist, den Indra besinge ich mit diesen Lobesworten, der der Herr ist, der Bulle mit Bullenkraft, der wahre Krieger, der verwandlungsreiche, überlegene.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der einzig ist von Menschen anzurufen, den Indra preise ich mit diesen Liedern, Der als Gebieter herrscht mit Heldenkräften, der wahre, starke, zauberreiche Sieger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот единственный, кого должны призывать народы, -  
 Этого Индру я буду воспевать (вот) в этих славословиях,  

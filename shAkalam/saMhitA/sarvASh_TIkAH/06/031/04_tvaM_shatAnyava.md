@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ शता꣡नि अ꣡व श꣡म्बरस्य  
 पु꣡रो जघन्थ अप्रती꣡नि द꣡स्योः  
@@ -15,7 +15,7 @@ ChandaH = "शक्वरी"
 भर꣡द्वाजाय गृणते꣡ व꣡सूनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M
 अशि॑क्षः । यत्र॑ । शच्या॑ । श॒ची॒ऽवः॒ । दिवः॑ऽदासाय । सु॒न्व॒ते । सु॒त॒ऽक्रे॒ । भ॒रत्ऽवा॑जाय । गृ॒ण॒ते । वसू॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -116,7 +116,7 @@ genre M
 हे इन्द्र **त्वं** **शतानि** शतसंख्यानि **दस्योः** उपक्षपयितुरसुरस्य **शम्बरस्य** एतत्संज्ञस्य **पुरः** पुरी: **अप्रतीनि** । लिङ्गव्यत्ययः । केनाप्यप्रतिगताः **अव** **जघन्थ** अवाहन् । हे **शचीवः** प्रज्ञावन् हे **सुतक्रे** अभिषुतेन सोमेन क्रीतेन्द्र **यत्र** यस्मिन् काले **सुन्वते** सोमाभिषवं कुर्वते **दिवोदासाय** **शच्या** प्रज्ञया **अशिक्षः** धनानि प्रादाः **गृणते** स्तवते **भरद्वाजाय** च **वसूनि** प्रादाः तस्मिन् काले शाम्बरीः पुरोऽव जघन्थेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,30 +127,30 @@ genre M
 Dasyu, Śambara: Śambara is an **asura**; Dasyu and Asura appear to be synonymous
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You smashed down hundreds of impregnable fortresses of the Dasyu  Śambara,  
 when, able one, with your ability you did your best for Divodāsa the  presser and for Bharadvāja the singer, for (them to obtain) goods, o  
 you who can be bought with the pressing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou smotest to the ground the hundred castles, impregnable, of Sambara the Dasyu,  
      When, Strong, with might thou holpest Divodasa who poured libations out, O Soma-buyer, and madest Bharadvaja rich who praised thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die hundert Burgen des Dasyu Sambara, gegen die keiner ankonnte, hast du hinabgestürzt, wobei du mit deiner Kraft, du Kräftiger, dem somaopfernden Divodasa, dem lobsingenden Bharadvaja die Schätze zu verschaffen suchtest, du mit Soma Käuflicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du brachst herab des Dämons hundert Burgen, des Çambara, die unangreifbar waren, Als du mit Kraft, o kräftiger, o schneller, dem Somapresser Divodasa halfest (und Güter gabst dem Sänger Bharadvadscha.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты низверг сотни крепостей  
 Дасы Шамбары – неприступных,  

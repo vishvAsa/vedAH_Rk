@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य त्य꣡च् छ꣡म्बरम् म꣡दे  
 दि꣡वोदासाय रन्ध꣡यः  
 अयं꣡ स꣡ सो꣡म इन्द्र ते सुतः꣡ पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; 12 = 8+4
 अ॒यम् । सः । सोमः॑ । इ॒न्द्र॒ । ते॒ । सु॒तः । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -96,7 +96,7 @@ genre M;; 12 = 8+4
 हे इन्द्र **यस्य** सोमस्य **मदे** पानेन जनिते हर्षे सति **शम्बरम्** असुरं **दिवोदासाय** **रन्धयः** अहिंसीः । यद्वा । वशीकृतवानसि । रध्यतिर्वंशगमने ' (निरु, ६. ३२) इति यास्कः । इति क्रियाविशेषणम् । **त्यत्** तत् प्रसिद्धं यथा भवति तथा अरन्धय इत्यर्थ: । हे **इन्द्र** ”सः सोमः **ते** त्वदर्थं **सुतः** अभिषुतः अतस्तं **पिब** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,13 +107,13 @@ genre M;; 12 = 8+4
 It is known: yasya tyacchambaram made: tyat = tat prasiddham yathā **bhavati** tathā, such as that which is notorious
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In whose exhilaration you subdued Śambara for Divodāsa—  
 here is that soma, Indra, pressed for you. Drink!
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -129,23 +129,23 @@ are structured by rel. clauses in ab with soma as the referent of the rel. prn.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 IN whose wild joy thou madest once Sambara Divodasa's prey,  
      This Soma is pressed out for thee, O Indra: drink!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dessen Rausch du damals den Sambara dem Divodasa überantwortet hast, dieser Soma ist für dich, Indra, gepreßt. Trink!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dessen Rausch du Çambara dem Divodasa übergabst, Der Soma ist gepresst dir, Indra, trinke ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В чьем опьянении ты отдал  
 Шамбару во власть Диводасе,  

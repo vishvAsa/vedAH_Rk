@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् ईं त्रित꣡स्य यो꣡षणो  
 ह꣡रिं हिन्वन्ति अ꣡द्रिभिः  
 इ꣡न्दुम् इ꣡न्द्राय पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दु॑म् । इन्द्रा॑य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **आत्** अपि च **ईम्** एनं **हरिं** हरितवर्णं सोमं **त्रितस्य** ऋषेः **योषणः** अङ्गुलयः **अद्रिभिः** ग्रावभिः **हिन्वन्ति** प्रेरयन्ति । किमर्थम् । **इन्दुं** दीप्तं सोमम् **इन्द्राय** इन्द्रस्य **पीतये** पानाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And the fingers of **Trita** express this green-tinted **Soma** with the stones for **Indra**'s drinking.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then the maidens of Trita [=fingers] impel him, the tawny one, with the  stones,  
 the drop for Indra to drink.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On Trita as the archetypal soma-presser and his “maidens” (yóṣanaḥ) as the fingers, see disc. ad IX.37.4.
 
@@ -107,23 +107,23 @@ The ā́d that begins both these vss. does not seem to have its usual “(just) 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then Trita's Maidens onward urge the Tawny-coloured with the stones,  
      Indu for Indra, for his drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann bringen des Trita Frauen mit den Steinen den Falben in Lauf, den Saft zum Trunke für Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Trita Jungfraun senden jetzt durch das Gestein das goldne Ross, Zum Trunk dem Indra Indu hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тут жены Триты  
 Поторапливают камнями золотистого –  

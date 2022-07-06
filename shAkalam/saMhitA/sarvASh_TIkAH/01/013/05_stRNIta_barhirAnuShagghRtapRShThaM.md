@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तृणीत꣡ बर्हि꣡र् आनुष꣡ग्  
 घृत꣡पृष्ठम् मनीषिणः  
 य꣡त्रामृ꣡तस्य च꣡क्षणम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत्र॑ । अ॒मृत॑स्य । चक्ष॑णम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stṛṇīta* ← *stṛ*
 - \[verb\], plural, Present imperative
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **मनीषिणः** बुद्धिमन्त ऋत्विजः **बर्हिः** दर्भं **स्तृणीत** वेदेरुपरि आच्छादयत । अत्रापि बर्हिर्नामकोऽग्निः सूच्यते । कीदृशं बर्हिरास्तरणीयम् । **आनुषक्** अनुक्रमेण सक्तं परस्परं संबद्धं **घृतपृष्ठं** घृतपूर्णानां स्रुचां बर्हिषि आसादितत्वात् घृतं पृष्ठे उपरिभागे यस्य बर्हिषः तत् घृतपृष्ठम् । **यत्र** यस्मिन् बर्हिषि **अमृतस्य** अमृतसमानस्य घृतस्य **चक्षणं** दर्शनं भवति । यद्वा । मरणरहितस्य देवस्य बर्हिर्नामकस्य अग्नेर्दर्शनं भवति तद्बर्हिः स्तृणीत इति पूर्वत्रान्वयः ॥ स्तृणीत । ‘स्तॄञ् आच्छादने'। लोण्मध्यमपुरुषस्य बहुवचनम् । ‘लोटो लङ्वत्' (पा. सू. ३. ४. ८५ )। ‘तस्थस्थमिपाम्°! (पा. सू. ३. ४. १०१ ) इति थस्य तादेशः । ‘क्र्यादिभ्यः श्ना'।  ‘ ई हल्यघोः ' (पा. सू. ६. ४. ११३) इति ईत्वम् । ऋवर्णाच्चेति वक्तव्यम् ' (पा. सू. ८.४.१.१) इति णत्वम् । प्वादीनां ह्रस्वः' ( पा. सू. ७. ३. ८० ) इति धातोर्ह्रस्वत्वम् । सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्यः । अतः तिङ एव प्रत्ययस्वरेणोदात्तत्वम् । बर्हिः ।  ‘ बृंहेर्नलोपश्च' ( उ. सू. २. २६६) इति इस्प्रत्ययनलोपौ । प्रत्ययस्वरः । आनुषक् । आ समन्तात् अनुषजति इति आनुषक् । ‘षञ्ज सङ्गे'।  ‘ धात्वादेः षः सः'।‘क्विप् च ' ( पा. सू. ३. २. ७६) इति क्विप्। **अनिदिताम्'** (पा. सू. ६. ४. २४) इति लोपः । आङन्वोरुपसर्गयोः प्राक्प्रयोगः । गतिसमासः ।  ‘ उपसर्गात्सुनोति । इत्यादिना षत्वम् । घृतपृष्ठम् । घृ क्षरणदीप्त्योः '। निष्ठा ' ( पा. सू. ३. २. १०२ ) इति क्तः । प्रत्ययस्वरेणोदात्तः । घृतयुक्तं पृष्ठम् अस्येति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । मनीषिणः । आमन्त्रितनिघातः । अमृतस्य । न विद्यते मृतं मरणम् अस्मिन्निति अमृतम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं बाधित्वा नञ्सुभ्याम् ' ( पा. सू. ६. २. १७२ ) इत्युत्तरपदान्तोदात्तत्वे प्राप्ते 'नञो जरमरमित्रमृताः' ( पा. सू. ६. २. ११६ ) इत्युत्तरपदाद्युदात्तत्वम् । चक्षणम् । चक्षिङ् व्यक्तायां वाचि'। वागभिव्यक्तिवाची धातुः इह अभिव्यक्तिमात्रं लक्षयति ।' ल्युट् च ' ( पा. सू. ३. ३. ११५ ) इति भावे ल्युट् । योरनादेशः । तस्य आर्धधातुकत्वात् ' चक्षिङः ख्याञ्' (पा. सू. २. ४. ५४ ) इति ख्याञादेशे प्राप्ते “ असनयोश्च ' ( पा. सू. २. ४. ५४. १०) इति प्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,40 +87,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Barhis** is an appellative of **Agni**; **amṛta**-samānasya ghṛtasya or **maraṇa**-rahitasya barhirnāmakasya, agneḥ:amṛta (clarified butter sprinkled on grass) has the appearance of ambrosia; or agni is immortal
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Strew in due order the ritual grass with ghee on its back, o  
 inspirited ones,  
 where the sighting of the immortal (host) (will be).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The singular amṛ́tasya ‘of the immortal’ seems to refer to the collectivity of gods who will come to the sacrifice and sit on the barhis. Vss. 7, 9 name some of the individual gods who will sit on the barhis.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strew, O ye wise, the sacred grass that drips with oil, in order due,  
      Where the Immortal is beheld.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Strew, O thoughtful men, in due order 1 the sacrificial grass, the back (or surface) of which is sprinkled with butter, on which the appearance of immortality 2 (is seen).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Leget, ihr Andächtigen, das Barhis, mit Schmalz obenauf, in der richtigen Reihe aus, auf dem die Götterwelt erscheint!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Lager streut, o kundige, das fettbedeckte nach dem Brauch, Wo der unsterbliche sich zeigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Расстелите в правильном порядке  
 жертвенную солому  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡ इ꣡द् उग्राः꣡ श꣡वसा धृष्णु꣡षेणा  
 उभे꣡ युजन्त रो꣡दसी सुमे꣡के  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ अ꣡मवत्सु तस्थौ न꣡ रो꣡कः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । स्म॒ । ए॒षु॒ । रो॒द॒सी । स्वऽशो॑चिः । आ । अम॑वत्ऽसु । त॒स्थौ॒ । न । रोकः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -124,7 +124,7 @@ genre M
 **ते** मरुतः **उग्राः** **शवसा** बलेन वेगेन युक्ताः **धृष्णुषेणाः** धर्षकसेनाः **सुमेके** सुरूपे **उभे** **रोदसी** द्यावापृथिव्यौ **युजन्त** योजयन्ति । वृष्ट्या पृथिवीं तर्पयन्तीत्यभिप्रायः । **अध** **स्म** अपि च **एषु** येषु मरुत्सु **रोदसी** रुद्रस्य पत्नी माध्यमिकी वाक् **स्वशोचिः** स्वदीप्तिर्वर्तते **अमवत्सु** बलवत्सु तेषु **रोकः** दीप्ति: बाधको वा **न** **आ** **तस्थौ** न तिष्ठति । न निःसरत्येवेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,7 +135,7 @@ genre M
 Unite by their strength: by the rain, which may be said to form a bond of union between heaven and earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just these mighty ones in a bold host yoked both well-fixed  
 world-halves [=ródasī] through their vast power.  
@@ -143,23 +143,23 @@ Then Rodasī mounted among these impetuous ones like a
 self-blazing light.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, strong in strength and armed with potent weapons, they had united wellformed earth and heaven,  
      Rodasl stood among these furious Heroes like splendour shining with her native brightness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese an Macht Gewaltigen, die eine kühne Heerschar bilden, spannten sich die festgegründeten Welthälften vor. Dann ist zu ihnen, den Wuchtigen, die von selbst flammende Rodasi wie eine Leuchte auf den Wagen aufgestiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, die gewalt'gen, kühnen Scharen füllten mit Kraft die beiden segensreichen Welten; Da stand bei ihnen Rodasi erstrahlend, den ungestümen, gleich wie eine Leuchte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти самые, грозные силой, образуя отважную рать,  
 Запрягли себе обе хорошо укрепленные половины вселенной.  

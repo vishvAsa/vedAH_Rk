@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभे꣡ य꣡द् इन्द्र रो꣡दसी  
 आपप्रा꣡थ उषा꣡ इव  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 भद्रा꣡ ज꣡नित्र्य् अजीजनत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M
 म॒हान्त॑म् । त्वा॒ । म॒हीना॑म् । स॒म्ऽराज॑म् । च॒र्ष॒णी॒नाम् । दे॒वी । जनि॑त्री । अ॒जी॒ज॒न॒त् । भ॒द्रा । जनि॑त्री । अ॒जी॒ज॒न॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
@@ -124,14 +124,14 @@ genre M
 हे **इन्द्र** उभे रोदसी द्यावापृथिव्यौ  **यत्** यस्त्वम् **आपप्राथ** तेजसाप्रासि आपूरयसि ।  प्रा पूरणे'। आदादिकः । छान्दसो लिट् ।  **उषाइव** यथोषाः स्वभासा सर्वं जगदापूरयति तद्वत् । तं  **महीनां** महतां देवानामपि  **महान्तम्** अधिकं चर्षणीनां मनुष्याणामपि सम्राजम् ईश्वरमिन्द्रं **त्वा** त्वां देवी देवनशीला **जनित्री** साधु जनयित्री अदितिः  **अजीजनत्** अजनयत् । जनेर्ण्यन्तात्, लुङि चङि रूपमैतत् । यस्मादेषा **जनित्री** ईदृशं पुत्रम् अजीजनत् अतः कारणात् सा भद्रा कल्याणी प्रशस्ता जाता। जनेर्ण्यन्तात् साधुकारिणि तृन् । ' जनिता मन्त्रे' इतीयादौ णिलोपो निपत्यते।'ऋश्वेभ्यः' इति ङीप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, who will both heaven and earth (with light) like the dawn- - the divine progenitress hasgiven birth to you, the mighty (gods), the sovereign of man; the auspicious progenitress has given you birth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, Indra, you filled the two world-halves, as Dawn does,  
 as the great sovereign king of the great domains  
@@ -139,23 +139,23 @@ did the goddess Begetter beget you, did the auspicious Begetter
 beget you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As, like the Morning, thou hast filled, O Indra, both the earth and heaven.  
      So as the Mighty One, great King of all the mighty world of men, the Goddess Mother brought thee forth, the Blessed Mother gave thee life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du, Indra, beide Welten gleich der Morgenröte erfülltest, da hatte dich, den großen Herrn der großen Gewässer, den Allkönig der Völker, die göttliche Erzeugerin erzeugt, die segensreiche Erzeugerin erzeugt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als, Indra, gleich dem Morgenroth du Erd' und Himmel ausgefüllt, Da zeugte dich als Oberherrn als grossen Herrn der grossen Welt, Die Göttin Mutter zeugte dich, die holde Mutter zeugte dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Индра, обе половины вселенной  
 Ты заполнил, словно Ушас,  

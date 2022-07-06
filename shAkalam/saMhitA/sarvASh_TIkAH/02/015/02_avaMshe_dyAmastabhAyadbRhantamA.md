@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवंशे꣡ द्या꣡म् अस्तभायद् बृह꣡न्तम्  
 आ꣡ रो꣡दसी अपृणद् अन्त꣡रिक्षम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । धा॒र॒य॒त् । पृ॒थि॒वीम् । प॒प्रथ॑त् । च॒ । सोम॑स्य । ता । मदे॑ । इन्द्रः॑ । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avaṃśe* ← *avaṃśa*
 - \[noun\], locative, singular, neuter
@@ -128,36 +128,36 @@ genre M
 अवंशेआकाशेद्यान्द्योतमानंसूर्यन्द्युलोकंवा अस्तभायत् इन्द्रः अस्तभ्रात् अनवलम्बनस्यतस्थावस्था- पनमकरोदित्यर्थः स्तम्भुइतिसौत्रोधातुः क्र्यादिः लङिव्यत्ययोबहुलमितिअहावपि शायजदेशः बृहन्तं- महदन्तरिक्षं रोदसीद्यावापृथिव्यौचआअपृणत् स्वतेजसापूरितवान् किञ्च सइन्द्रः पृथिवींविस्तीर्णां- भूमिन्धारयत् अधारयत् तथा पप्रथच्च एनाम्भूमिंअप्रथयत् प्रथप्रख्याने ण्यन्तस्यलुङिचङिरूपम् चङ्य- न्यतरस्यामितिमध्योदात्तत्वं सोमस्यमदेहर्षेसञ्चातेसति ता तानीमानिकर्माणीन्द्रश्चकार ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who fixed the heaven in unsupported (space) and filled the spacious firmament, and heaven and earth, (with light); he it is who has upheld, and has made the earth renowned; in the exhilaration of the **Soma**, **Indra** has done these (deeds).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He propped up lofty heaven on (the midspace) that has no pole. He filled  the two world-halves and the midspace.  
 He held the earth fast and spread it out. – In soma’s exhilaration Indra  did these things.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 High heaven unsupported in space he stablished: he filled the two worlds and the air's mid-region.  
      Earth he upheld, and gave it wide expansion. These things did Indra in the Soma's rapture.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da, wo kein Balken haftet, stützte er den hohen Himmel, er füllte beide Welten, den Luftraum an. Die Erde hat er befestigt und ausgebreitet. - Im Rausche des Soma hat das Indra getan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den grossen Himmel stützt er ohne Balken, erfüllte beide Welten und den Luftraum; Er setzte fest und dehnte aus die Erde; im Rausch des Soma hat vollbracht dies Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 . Без балок он укрепил высокое небо.  
 Он наполнил два мира, воздушное пространство.  

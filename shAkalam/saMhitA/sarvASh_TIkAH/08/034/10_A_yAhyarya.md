@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि अर्य꣡ आ꣡ प꣡रि  
 स्वा꣡हा सो꣡मस्य पीत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं यय꣡ दिवावसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दि॒वः । अ॒मुष्य॑ । शास॑तः । दिव॑म् । य॒य । दि॒वा॒व॒सो॒ इति॑ दिवाऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -98,14 +98,14 @@ genre M;; repeated line
 हे **अर्य** ईश्वर त्वम् **आ** **परि** सर्वतः **आ** **याहि** आगच्छ । **पीतये** तव पानार्थं **सोमस्य** सोमं **स्वाहा** स्वाहा करोमि । सिद्धमन्यत् ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, lord, from whatever direction, to drink the **Soma** offered with **svāhā**; do you, ruling yonderheaven, O radiant with oblations, return here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here—drive here, away from the stranger—hail!—to drink of the  soma,  
 o you who bring goods by day—(though) you (other gods),  
@@ -113,17 +113,17 @@ who impose order over yonder heaven, have driven off to
 heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come from the enemy to us, to svaha and the Soma-draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm vom hohen Herrn weg - Svaha! - zum Trunk des Soma! - Über jenen Himmel herrschend seid ihr ja in den Himmel gegangen, o Divavasu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай к (нам) от чужого –  
 Свага! – на питье сомы!  

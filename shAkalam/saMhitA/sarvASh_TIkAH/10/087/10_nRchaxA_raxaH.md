@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नृच꣡क्षा र꣡क्षः प꣡रि पश्य विक्षु꣡  
 त꣡स्य त्री꣡णि प्र꣡ति शृणीहि अ꣡ग्रा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्रेधा꣡ मू꣡लं यातुधा꣡नस्य वृश्च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्य॑ । अ॒ग्ने॒ । पृ॒ष्टीः । हर॑सा । शृ॒णी॒हि॒ । त्रे॒धा । मूल॑म् । या॒तु॒ऽधान॑स्य । वृ॒श्च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nṛcakṣā* ← *nṛ*
 - \[noun\], masculine
@@ -132,36 +132,36 @@ popular
 हे **अग्ने** **नृचक्षाः** नृणां द्रष्टा त्वं **विक्षु** मनुष्येषु हिंसकत्वेन वर्तमानं **रक्षः** राक्षसं **परि** **पश्य** सर्वतोऽवलोकय । अवलोक्य च **तस्य** रक्षसः **त्रीणि** **अग्रा** अग्राणि शिरांसि **प्रति** **शृणीहि** छिन्द्धीत्यर्थः । ततः **तस्य** रक्षसः **पृष्टीः** पार्श्वस्थान् राक्षसानपि **हरसा** स्वकीयेन तेजसा **शृणीहि** मारय । एवं **त्रेधा** **यातुधानस्य** तस्य राक्षसस्य **मूलं** पादं **वृश्च** छिन्द्धि ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Regard, beholder of men, the **rākṣasas** among the people; cut off his three heads; cut off his flankswith your might; cut off the triple foot of the **Yātudhāna**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your eye on men, look all over for the demonic among the clans.  Shatter his three points.  
 Agni, with your blaze cleave his ribs, and hew the root of the sorcerer  into three parts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Look on the fiend mid men, as Man-beholder: rend thou his three extremities in pieces.  
      Demolish with thy flame his ribs, O Agni, the Yatudhana's root destroy thou triply.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem Herrscherauge erspähe den bösen Geist in den Niederlassungen, brich dessen drei Spitzen ab! Agni, zerbrich mit deiner Glut seine Rippen, zerhau in drei Teile des Zauberers Wurzel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Männerschauer blicke das Gespenst an bei Menschen und zerbrich ihm Kopf und Schultern, Die Rippen brich ihm mit der Flammenspitze, dreifach zerreiss des Zaubergeistes Wurzel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Как тот, кто) со взглядом героя, разгляди ракшаса в поселениях!  
 Отбей ему три вершины!  

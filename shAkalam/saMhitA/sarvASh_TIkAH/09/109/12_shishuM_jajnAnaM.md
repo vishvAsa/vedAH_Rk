@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शि꣡शुं जज्ञानं꣡ ह꣡रिम् मृजन्ति  
 पवि꣡त्रे सो꣡मं देवे꣡भ्य इ꣡न्दुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 शिशु॑म् । ज॒ज्ञा॒नम् । हरि॑म् । मृ॒ज॒न्ति॒ । प॒वित्रे॑ । सोम॑म् । दे॒वेभ्यः॑ । इन्दु॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
@@ -72,19 +72,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **शिशुम्** अपां पुत्रभूतं **जज्ञानं** जायमानं **हरिं** हरितवर्णम् **इन्दुं** दीप्तं **सोमं** **देवेभ्यः** देवार्थं **पवित्रे** **मृजन्ति** ऋत्विजो मार्जयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They cleanse the new-born infant, the green-tinted shining **Soma**, on the filter for the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They groom the tawny child just born, the soma in the filter, the drop  for the gods.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -93,22 +93,22 @@ Once again, three different forms of the root √pū: 10 pávasva, 11 punánti, 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They deck the Gold-hued Infant, newlyborn, even Soma, Indu, in the sieve for Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den neugeborenen Jungen, den Falben, machen sie in der Seihe sauber, den Somasaft für die Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den neugebornen, – den goldnen, klären im Sieb sie, Soma, – den Trank den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Новорожденного ребенка золотистого они начищают,  
 Сому в цедилке, сок для богов.

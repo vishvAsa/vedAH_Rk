@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ अस्मै मत꣡यो वा꣡चो अस्म꣡द् आँ꣡  
 ऋ꣡चो गि꣡रः सुष्टुत꣡यः स꣡म् अग्मत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वृद्धा꣡सु चिद् व꣡र्धनो या꣡सु चाक꣡नत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 व॒सु॒ऽयवः॑ । वस॑वे । जा॒तऽवे॑दसे । वृ॒द्धासु॑ । चि॒त् । वर्ध॑नः । यासु॑ । चा॒कन॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -123,36 +123,36 @@ genre M
 **जातवेदसे** जातप्रज्ञाय **वसवे** वासयित्रे **अस्मै** अग्नये **मतयः** पूजयित्र्यः **इमाः** **वाचः** **वसूयवः** अस्मदर्थं धनकामाः सत्यः **अस्मत्** अस्मत्तो निर्गत्य **आ** **समग्मत** आभिमुख्येन संगच्छन्ते । तमिममग्निं प्रीणयन्त्वित्यर्थः । काः पुनस्ताः । **सुष्टुतयः** शोभनस्तुतिरूपाः **ऋचः** ऋगात्मिकाः **गिरः** वाचः । तथा **यासु** **वृद्धासु** **चित्** स्वत एव वृद्धास्वपि **वर्धनः** पुनरपि वर्धयिता सन्नग्निः **चाकनत्** स्तोतॄन् कामयते । इमा मतय इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May these laudatory words, these eulogistic verses, these voices (proceeding) from us, reach him thegiver of wealth, **Jātavedas**; these wealth- desiring (words) in which when they are perfected, the perfecterdelights.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These here—the thoughts, speeches, verses, songs, and good praises  from us—have come together for him,  
 for Jātavedas the good one—goods-seeking (praises) in which he will  take pleasure as their strengthener, though they are (already) strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From us these hymns in concert have gone forth to him, these. holy words, these Rcas, songs and eulogies,  
      Eager for wealth, to Jatavedas fain for wealth: when they have waxen strong they please their Strengthener.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Dichtungen, Reden, Verse, Lobesworte, Preislieder sind von uns aus vereint zu ihm gekommen, nach Gut verlangend, zu dem guten Jatavedas, an denen er seine Freude haben soll, sie noch höher machend, obwohl sie schon hoch sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm sind von uns her diese Lieder zugeeilt, Gebete, Sprüche, Hymnen voll des schönsten Lobs Dem Wesenkenner, von dem guten heischend Gut, die kräftigen, an denen sich der Kräft'ger labt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти молитвы, речи, гимны, хвалебные песни,  
 Прекрасные прославления вместе отправились от нас к нему,  

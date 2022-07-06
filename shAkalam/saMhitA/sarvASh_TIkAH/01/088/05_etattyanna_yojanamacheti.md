@@ -6,7 +6,7 @@ ChandaH = "विराड्रूपा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡त् तिय꣡न् न꣡ यो꣡जनम् अचेति  
 सस्व꣡र् ह य꣡न् मरुतो गो꣡तमो वः  
@@ -14,7 +14,7 @@ ChandaH = "विराड्रूपा"
 अ꣡योदंष्ट्रान् विधा꣡वतो वरा꣡हून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 पश्य॑न् । हिर॑ण्यऽचक्रान् । अयः॑ऽदंष्ट्रान् । वि॒ऽधाव॑तः । व॒राहू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
@@ -116,21 +116,21 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **मरुतः** **एतत्** **योजनं** युज्यतेऽनेन देवतेति योजनम् एतत्सूक्तसाध्यं स्तोत्रम् । **त्यन्न** त्यत् प्रसिद्धमन्यदुत्कृष्टं स्तोत्रमिव **अचेति** सर्वैर्ज्ञायते । **वः** युष्मदर्थं **यत्** यदेतत्सूक्तरूपं स्तोत्रं **गोतमः**  ‘ ऋषिः **सस्वर्ह** उच्चारितवान् खलु। किं कुर्वन् । **हिरण्यचक्रान्** हिरण्मयचक्ररथारूढान् हितरमणीयकर्मयुक्तान् वा **अयोदंष्ट्रान्** । दशतीति दंष्ट्रा चक्रधारा । अयोमयीभिश्चक्रधाराभिर्युक्तान् । यद्वा दंशनसाधना ऋष्टयो दंष्ट्राः । अयोमया ऋष्टयो येषाम् । तान् **विधावतः** विविधमितस्ततः प्रवर्तमानान् **वराहून्** । वरस्योत्कृष्टस्य शत्रोर्हन्तॄन् । यद्वा उत्कृष्टस्य वृष्ट्युदकस्याहर्तॄन् । अथवा उत्कृष्टानां देवतानामाह्वातॄन वरस्य हविषो भक्षयतॄन् वा । एवंभूतान् मरुतः **पश्यन्** सम्यग्जानन् गोतमः यत्स्तोत्रं कृतवान् तदेतत्सर्वोत्कृष्टं सत् अस्माभिः सर्वैरुपलभ्यते इत्यर्थः । अत्र निरुक्तम् - अथाप्येते माध्यमका देवगणा वराहव उच्यन्ते । पश्यन्हिरण्यचक्रान्' (निरु. ५, ४ ) इति । अचेति ।  ‘ चिती संज्ञाने । छान्दसो वर्तमाने कर्मणि लुङ् । सस्वः ।  स्वृ शब्दोपतापयोः । लङि तिपि  ‘ बहुलं छन्दसि ' इति शपः श्लुः । गुणे  ‘ हल्ङ्याब्भ्यः० ' इति तलोपः । धातुस्वरेण अन्तोदात्तत्वम् । वराहून्। वरशब्दोपपदात् आङ्पूर्वात् हन्तेर्वा हरतेर्वा ह्वयतेर्वा जुहोतेरदनार्थात् वा हु इत्येतस्य निष्पत्तिः इति स्कन्दस्वामी । अस्य पृषोदरादित्वात् अभिमतसिद्धिः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “This hymn is known to be the same as that which **Gotama** recited **Maruts**, in your (praise) when he beheld you seated in your chariots with golden wheels, armed with weapons, hurrying hither and thither, and destroying your mightiest foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just now it has appeared, not (even) a wagon-trek away—the  
 (formulation) that Gotama (has made) in private for you, Maruts,  
 upon seeing your golden-wheeled (chariots) and (you) copper-tusked  boars streaking across (the sky).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All standard tr. take ná as negating the verb aceti. It seems unlikely to me that an annunciatory aorist would be negated (“this very thing has not just been seen”), and its clause-internal position, not immediately preceding the verb, also seems unusual for such an interpretation. I take it instead as negating only the following word yójanam and expressing the surprise that what has just appeared is very close, not (even) a trek away.
 
@@ -141,23 +141,23 @@ My last departure from the standard tr. in this verse is in taking the acc. pl.
 masculines in cd, híraṇyacakrān, áyodaṃṣṭrān … varā́hūn as comprising two separate but conjoined NPs without overt conjunction (as so often), rather than one single NP, since I find “golden-wheeled boars” an unlikely entity even in the RVic universe of discourse. With ‘golden-wheeled’ in c it is natural to supply ‘chariots’; the “copper-tusked boars” in d can easily be an extravagant characterization of the Maruts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No hymn way ever known like this aforetime which Gotama sang forth for you, O Maruts,  
      What time upon your golden wheels he saw you, wild boars rushing about with tusks of iron.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht war das bekannte Gespann sichtbar, als Gotama euch, ihr Marut, heimlich erspähte, der die goldrädrigen, eisenzahnigen Eber weglaufen sah.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nie hat ein Lied-gespann sich wie dies erwiesen, was euch, o Maruts, Gotama sang, als er sah die mit goldnen Rädern [Wagen], mit eisernem Gebiss versehenen einherstürmenden Eber [die Maruts].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта самая упряжка не была заметна,  
 Когда тайно, о Маруты, вас (разглядел) Готама,  

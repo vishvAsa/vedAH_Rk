@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरु꣡गव्यूतिर् अ꣡भयानि कृण्व꣡न्  
 समीचीने꣡ आ꣡ पवस्वा पु꣡रंधी  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ चिक्रदो महो꣡ अस्म꣡भ्य° वा꣡जान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒पः । सिसा॑सन् । उ॒षसः॑ । स्वः॑ । गाः । सम् । चि॒क्र॒दः॒ । म॒हः । अ॒स्मभ्य॑म् । वाजा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *urugavyūtir* ← *uru*
 - \[noun\]
@@ -121,19 +121,19 @@ genre M
 हे सोम **उरुगव्यूतिः** विस्तीर्णमार्गस्त्वम् **अभयानि** स्तोतृभ्यः **कृण्वन्** कुर्वन् **पुरंधी**। इदं द्यावापृथिव्योर्नाम । ते **समीचीने** संगते कुर्वन् **आ** **पवस्व** आक्षर। **अपः** **उषसः** **स्वः** आदित्यं **गाः** रश्मींश्च **सिषासन्** पुष्ट्यर्थं संभक्तुमिच्छन् **सं** **चिक्रदः** संक्रन्दसे । **महः** महतो महान्ति **वाजान्** अन्नानि **अस्मभ्यं** दातुमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow you whose paths are broad, giving security (to the worshipper), uniting heaven and earth, wishing to enjoy the waters of dawn, the sun and (his) rays you cry aloud, ( to bestow upon) us ample food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Providing broad pastures, creating (places) without danger, by purifying  yourself procure the two united forms of plenty [=Heaven and Earth]. Striving to win the waters, also the dawns, the sun, and the cows, you  have roared together great prizes for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ábhayāni in pāda a is the only neut. pl. to this stem. The idiom ábhayaṃ √kr̥ is quite common (and cf. abhayaṃ-kará- 1x). This idiom is formulaically connected with “broad pastures”; see esp. VII.77.4 urvī́ṃ gávyūtim ábhayaṃ krdh̥ ī naḥ “create broad pastureland and fearlessness for us” and nearby IX.78.5 urvī́ṃ gávyūtim ábhayaṃ ca nas krdhi ̥ “Make wide pasturage and security for us.” I have supplied ‘places’ because of the association with pasturage.
 
@@ -142,23 +142,23 @@ The apparent transitive value of sáṃ cikradaḥ … vā́jān “you have roa
 “Striving to win the waters, also the dawns, the sun, the cows, and great prizes, you have roared at them all together.” Note vā́jaṃ saniṣyán in 1b, and see the disc. ad vs. 1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Giving security, Lord of wide dominion, send us both earth and heaven with all their fulness.  
      Striving to win the Dawns, the light, the waters, and cattle, call to us abundant vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Weite Triften, Sicherheit schaffend läutere die beiden vereinigten Glücksgöttinnen Himmel und Erde herbei! Das Wasser, die Morgenröten, die Sonne, die Kühe suche zu gewinnen und brause uns große Gewinne zusammen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geräum'ge Flur und sichern Sitz gewährend, ström her des Himmels und der Erde Fülle; Gern spendend Wasser, Morgen, Sonne, Kühe, bring rauschend uns zusammen grosse Schätze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С широким пастбищем, создающий безопасность,  
 Очищайся (на благо) двум обращенным друг к другу Изобилиям!  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡ षत꣡स् त꣡द् आ꣡ भर  
 इ꣡न्द्र ज्या꣡यः क꣡नीयसः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 भ꣡रे-भरे च ह꣡वियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पु॒रु॒ऽवसुः॑ । हि । म॒घ॒ऽव॒न् । स॒नात् । असि॑ । भरे॑ऽभरे । च॒ । हव्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhī* ← *abhi*
 - \[adverb\]
@@ -114,19 +114,19 @@ genre M
 हे **ज्यायः** ज्यायन् **इन्द्र** ॥ ‘आमन्त्रितं पूर्वमविद्यमानवत्' इतीन्द्रपदस्याविद्यमानवद्भावात् ज्याय इत्यस्य सर्वानुदात्तत्वाभावः नकारस्य रुत्वं व्यत्ययान्नुमभावो वा ॥ **कनीयसः** **सतः** मम **तत्** प्रसिद्धं धनम् **अभि** **आ** **भर** । हे **मघवन्** त्वं **सनात्** चिरादेवारभ्य **पुरूवसुर्हि** बहुधनो हि **असि** । **भरेभरे** संग्रामे यज्ञे वा **हव्यः** हविष्यः **च** असि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Elder **Indra**, bring that (wealth to me), being the junior, for, **Maghavan**, you have from the beginningbeen possessed of infinite treasure, and are to be adored at repeated sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring this greater (good) here, Indra, to those who are lesser, for you, bounteous one, are from of old one with many goods, and the  one to be called upon at every raid.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are two word plays in this verse. The simpler one is between the impv. bhara ‘bring’ in pāda a and the āmreḍita bháre-bhare ‘at every raid’, where the noun bhára- has been specialized from ‘(an occasion for) bearing away’ to ‘raid’.
 
@@ -135,23 +135,23 @@ The more complex one involves the creation and disappointment of expectations. T
 I cannot follow Grassmann, Oldenberg in interpreting jyā́yaḥ as voc., but take it, with Geldner, as neut. sg. with tád. Among other things, AiG III.296 notes only two masc. vocatives in -īyas in the RV, this one and ójīyaḥ in X.120.4, which is also better taken as a neut.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring, Indra, the Victorious Ones; bring, elder thou, the younger host.  
      For, Maghavan, thou art rich in treasures from of old, and must be called in every fight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu denen, die die Kleineren sind, bringe, o Indra, das größere Gut, denn du Gabenreicher bist von jeher der Schatzreiche und in jedem Kampfe anzurufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra bring des Starken Schatz den besten auch des schwächern her; Denn reich bist du an allem Gut, o mächtiger, und rufenswerth in jeder Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси то (добро) получше, о Индра,  
 Нам, оказавшимся более слабыми!  

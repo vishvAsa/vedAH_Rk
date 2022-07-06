@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्य꣡ धा꣡रया सुतो꣡  
 अ꣡व्यो वा꣡रेभिः पवते मदि꣡न्तमः  
 क्री꣡ळन्न् ऊर्मि꣡र् अपा꣡म् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 क्रीळ॑न् । ऊ॒र्मिः । अ॒पाम्ऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -86,20 +86,20 @@ genre M
 ”स्यः सः **एषः** **सुतः** अभिषुतः सोमः **अव्यः** अवेः **वारेभिः** वालैस्तेभ्यः पवित्रेभ्यः **धारया** आत्मीयया **पवते** कलशमभिलक्ष्य क्षरति । कीदृशः । **मदिन्तमः** मादयितृतमः **अपामिव** उदकानाम् **ऊर्मिः** संघात इव **क्रीळन्** इतस्ततः संक्रीडमानः पवते ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (**Soma**) when effused flows most exhilarating through the woollen fleece, sporting like a wave of water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This most exhilarating one here, pressed in a stream, purifies himself  with the fleeces of sheep,  
 playing like a wave of the waters,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -109,23 +109,23 @@ The 1st hemistich of vs. 6 is a relative cl. in the 3rd ps. dependent on vs. 5, 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effused, he floweth in a stream, best rapture-giver, in the long wool of the sheep,  
      Sporting, as 'twere the waters' wave.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Ausgepreßte wird im Strome durch die Schafhaare geläutert, der am meisten Berauschende, der wie die Wasserwelle sein Spiel treibt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, dieser Soma rieselt hell durch Widders Haar im Strome der berauschendste, Der wie der Wasser Welle hüpft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот выжатый (сок) очищается  
 Потоком через сито из овечьей шерсти, самый пьянящий,  

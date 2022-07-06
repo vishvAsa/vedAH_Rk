@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यूथे꣡व क्षुम꣡ति पश्वो꣡ अख्यद्  
 देवा꣡नां य꣡ज् ज꣡निम अ꣡न्ति उग्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृधे꣡ चिद् अर्य꣡ उ꣡परस्य आयोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मर्ता॑नाम् । चि॒त् । उ॒र्वशीः॑ । अ॒कृ॒प्र॒न् । वृ॒धे । चि॒त् । अ॒र्यः । उप॑रस्य । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 **उग्र** तेजस्विन् हे अग्ने **देवानाम्** **अङ्गिरसां** संबन्धि **यज्जनिम** यं गोसंघम् **अन्ति** पर्वतस्य समीपे **आ** **अख्यत्** ॥ समन्तादिन्द्रोऽपश्यत् । तत्र दृष्टान्तः । **यूथेव** । यथा **पश्वः** पशूनां गवां यूथानि **क्षुमति** अन्नवत्याढ्यगृहे वर्तमानानि पश्यन्ति जनास्तद्वत् । यद्वा । हे अग्ने तव परिचारकः अङ्गिरोगणः देवानाम् इन्द्रादीनां यज्जनिम योऽयं जनः अन्ति मदन्तिके पश्वः पणिभिः अपहृतान् पशून् आख्यत् समन्तान् पश्यति । तत्र दृष्टान्तः । यथा क्षुमति शब्दं कुर्वाणे गवां यूथा यूथे पशून् पश्यन्ति तद्वत् । **मर्तानां** **चित्** मनुष्याणाम् **उर्वशीः** ऊरुभ्यामश्नुवानाः ।  ‘ उर्वभ्यश्नुत ऊरुभ्यामश्नुते ' ( निरु. ५. १३) इति यास्कः । प्रजाः **अकृप्रन्** । ताभिरानीताभिर्गोभिः क्लृप्ताः समर्था अभवन् । **चित्** अपि च **अर्यः** स्वामी लब्धगोधनः **उपरस्य** उप्तस्य निषिक्तस्यापत्यस्य **वृधे** वर्धनाय समर्थो भवति । तथा **आयोः** मनुष्यस्य भृत्यादेश्च पोषणे समर्थो भवति ॥ यूथेव । शसः सप्तम्या वा डादेशः । क्षुमति । क्षुत् इत्यन्ननाम् । यद्वा । 'टुक्षु शब्दे '। भावे क्विप् । छान्दसः तकारलोपः ।  ‘ तदस्यास्ति' इति मतुप् । ह्रस्वनुड्भ्यां मतुप्' इति मतुप उदात्तत्वम् । अख्यत् । ‘ख्या प्रकथने '। लुङि च्लेः अस्यतिवक्तिख्यातिभ्योऽङ् ' इत्यङादेशः । आतो लोपः। जनिम । जनी प्रादुर्भावे '।  ‘ हृजनिभ्यामिमनिन् ' इति इमनिन्प्रत्ययः । नित्त्वादाद्युदात्तः । अकृप्रन् । ‘कृपू सामर्थ्ये ' । लङि • बहुलं छन्दसि' इति विकरणस्य लुक् । रुडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ Janāmā = go saṅgham; martānām cid urvaśīrakṛpranvṛdhe cid **arya** u
 Akṛpran = were made able (cf. **Nirukta** 5.13: urvaśiḥ = **apsaras**, i.e. urvabhya aśnuta;or, urubhyām aśnuta, who pervades or proceeds from the thigh. The legend is that Urvaśi was born from the thigh of **Nārāyaṇa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He [=Agni?] watched over them like (a herdsman) the herds of livestock  in a cattle-rich (pasture)—watched over the race of gods that was  nearby, o strong one.  
 The Urvaśīs yearned also for (the race of) men, also for the increase of  the stranger, of Āyu to come.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. closes the mythological section of the hymn and is so positioned to seem as if it ought to be the denouement of the Vala myth. But it seems, at least to me, to have no connection with that myth or, indeed, with anything else in this hymn.
 
@@ -156,23 +156,23 @@ As to what the “nearby” race of gods consists of, I have no idea -- perhaps 
 The second half-vs. is even more puzzling than the first, because there seems no reason to introduce Urvaśī and her retinue (pl. urvaśī́ḥ) and her son Āyu. I supply jánima with mártānām rather than construing this gen. independently as most others do; the parallelism of the passage supports this.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong One! he marked them-and the Gods before them-like herds of cattle in a foodful pasture.  
      There they moaned forth their strong desire for mortals, to aid the True, the nearest One, the Living.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He looked (on the gods) as on herds of cattle 1 in a rich (pasture) 2, when the generations of the gods (were) near him, O mighty one 3. After (the generations) of the mortals the Urvasîs 4 have pined, for the growing strong of the Arya 5, of the nearer Âyu 6.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er hat sie wie die Viehherden bei einem Viehbesitzer gezählt, da die Geschlechter der Götter gegenwärtig sind, du Gewaltiger. Selbst die Urvasi´s haben Sehnsucht nach den Sterblichen bekommen; sie sind sogar bereit, den hohen Herrn, den späteren Ayu zu fördern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он глядел (на них), как на стада скота у владельца скота,  
 Потому что поколения богов (находятся) перед (ним), о грозный.  

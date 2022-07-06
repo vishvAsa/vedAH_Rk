@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्व꣡रन्ति त्वा सुते꣡ न꣡रो  
 व꣡सो निरेक꣡ उक्थि꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्र स्वब्दी꣡व वं꣡सगः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 क॒दा । सु॒तम् । तृ॒षा॒णः । ओकः॑ । आ । ग॒मः॒ । इन्द्र॑ । स्व॒ब्दीऽइ॑व । वंस॑गः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svaranti* ← *svar*
 - \[verb\], plural, Present indikative
@@ -111,36 +111,36 @@ genre M
 हे **वसो** वासयितरिन्द्र **त्वा** त्वां **सुते** अभिषुते सोमे **निरेके** निर्गमने **उक्थिनः** **नरः** नेतारः **स्वरन्ति** शब्दायन्ते । अपि चेन्द्रः **सुतं** सोमं प्रति **तृषाणः** तृष्यन् **स्वब्दीव** स्वभूतशब्द इव **वंसगः** वननीयगमनो वृषभः शब्दं कुर्वन् **कदा** **ओकः** स्थानम् **आ** गमत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The leaders (of rites), repeating praises, shout to you, **Vasu**, when the libation issues forth; when, **Indra**,bellowing like a bull, do you come to the dwelling thirsting fo the **Soma**?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The men provided with hymns cry out to you exclusively when (soma) is  pressed, o good one.  
 When will you come thirsting here to our house, to our pressed (soma),  Indra, like a buffalo following its own track?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men, Vasu! by the Soma, with lauds call thee to the foremost place:  
      When comest thou athirst unto the juice as home, O Indra, like a bellowing bull?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich ausschließlich brausen die Männer bei ausgepreßtem Saft mit ihren Lobgedichten an, du Guter. Wann wirst du durstig zum Soma als dem gewohnten Ort kommen, Indra, wie der Büffel, der seinen eigenen Spuren folgt?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim Soma preisen, guter, dich mit Spruch die Sänger um dich her, Wann kommst du Indra Soma-lechzend in das Haus, gleich wie ein Stier, der dürstend brüllt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Шумят тебе навстречу мужи, исполняющие хвалу,  
 О Васу, у выжатого (сомы) – (тебе) безраздельно.  

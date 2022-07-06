@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रं कृण्वन्तु वे꣡दिं  
 स꣡म् अग्नि꣡म् इन्धताम् पुरः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यज्ञं꣡ ते तनवावहै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 तत्र॑ । अ॒मृत॑स्य । चेत॑नम् । य॒ज्ञम् । ते॒ । त॒न॒वा॒व॒है॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *araṃ* ← *aram*
 - \[adverb\]
@@ -104,7 +104,7 @@ popular;; epic anuṣṭubh (424)
 इदमिन्द्रवाक्यम् । अपरे अगस्त्यवाक्यमाहुः । हे ऋत्विजो यूयं अगस्त्योऽङ्गीकृतवान् तस्मात् **वेदिम्** **अरं** **कृण्वन्तु** । संमार्जनपर्युक्षणादिना परिचरन्तु । तथा **पुरः** पुरस्तात् **अग्निम्** आहवनीयादिकं **सम्** **इन्धताम्** इध्मप्रक्षेपेण प्रज्वालयन्तु । **तत्र** अग्नौ **अमृतस्य** अमरणलक्षणस्य वेदत्वस्य **चेतन** प्रज्ञापकं **यज्ञं** हे अगस्त्य **ते** त्वदीयं त्वं चाहं च **तनवावहै** । अगस्त्यवाक्यपक्षे शिष्टमविशिष्टम् । तत्र वेद्याममृतस्य तत्साधनस्य हविषो वा चेतनं प्रज्ञापनमासादनं कुरुत । आवां पत्नीयजमानौ अध्वर्युयजमानौ वा हे इन्द्र ते त्वदर्थं यज्ञं तनवावहै ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,30 +115,30 @@ popular;; epic anuṣṭubh (424)
 The hymn is also attributed to **Indra**; let us both: the two are either the sacrificer and his wife, or the instrumental tutor of the ceremony and the officiating priest
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agastya:] Let them ready the altar. Let them kindle the fire in front  (of it).  
 The appearance of the immortal (soma will be) there. We two shall  
 extend the sacrifice for you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let them prepare the altar, let them kindle fire in front: we two  
      Here will spread sacrifice for thee, that the Immortal may observe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie sollen die Vedi zurechtmachen, sie sollen zuvörderst das Feuer entzünden. Darin wollen wir beide dir, dem Unsterblichen, ein denkwürdiges Opfer vollziehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Altar mögen schmücken sie, entzünden Feuer auch zuvor, Dann schaffen beide wir den Glanz des Gottes und das Opfer dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть они украсят алтарь!  
 Пусть они зажгут перед (ним) огонь!  

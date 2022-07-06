@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो वि꣡श्व आ꣡स्क्रा गमन्तु देवा꣡  
 मित्रो꣡ अर्यमा꣡ व꣡रुणः सजो꣡षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡रन् सुषा꣡हा विथुरं꣡ न꣡ श꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 भुव॑न् । यथा॑ । नः॒ । विश्वे॑ । वृ॒धासः॑ । कर॑न् । सु॒ऽसहा॑ । वि॒थु॒रम् । न । शवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -137,20 +137,20 @@ genre M
 **नः** अस्माकं यज्ञं **विश्वे** सर्वे देवाः **आस्क्राः** शत्रूणामास्कन्दयितारः आक्रमितारो वा **आ** **गमन्तु** आगच्छन्तु । के ते । **मित्रो** **अर्यमा** **वरुणः** च त्रयोऽपि **सजोषाः** समानप्रीतयः सन्तः आगच्छन्तु । किंतु **विश्वे** देवाः **नः** अस्माकं **वृधासः** वर्धयितारः यथा **भुवन्** भवेयुः तथा **सुषाहा** सुष्ठु शत्रूणामभिभवेन नोऽस्मदीयं **शवः** अन्नं **विथुरं** हीनं यथा **न** **करन्** न कुर्युः तथा आगच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May all the triumphant gods, **Mitra**, **Aryaman**, **Varuṇa** equally well plural ased, come (to our rite); may they all be propitious to us; may they not leave us in want of food, after overcoming (our foes).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let all the gods together come here to us: Mitra, Aryaman, and Varuṇa  in concert,  
 so that they all will become our strengtheners and will make (all things)  easy to overcome, like faltering power.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -160,23 +160,23 @@ The c-pādas of all three verses consist of a yáthā purpose clause with subjun
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To us may all the Gods come trooped together, Aryaman, Mitra, Varuna concordant,  
      That all may be promoters of our welfare, and with great might preserve our strength from slackness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu uns sollen all die zusammenhaltenden Götter kommen: Mitra, Aryaman, Varuna in Eintracht, auf daß sie alle unsere Förderer seien, und alles leicht besiegbar machen wie eine wankende Macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereinigt mögen alle Götter kommen, Arjaman, Mitra, Varuna gemeinsam, Damit sie alle uns zum Heile werden, und alle Kraft uns schaffen, die nicht wanket.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть придут к нам все объединившиеся боги:  
 Митра, Арьяман, Варуна, единодушные,  

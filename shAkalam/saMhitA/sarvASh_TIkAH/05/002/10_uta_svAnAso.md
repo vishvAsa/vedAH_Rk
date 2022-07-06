@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्वाना꣡सो दिवि꣡ षन्तु अग्ने꣡स्  
 तिग्मा꣡युधा र꣡क्षसे ह꣡न्तवा꣡ उ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ वरन्ते परिबा꣡धो अ꣡देवीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 मदे॑ । चि॒त् । अ॒स्य॒ । प्र । रु॒ज॒न्ति॒ । भामाः॑ । न । व॒र॒न्ते॒ । प॒रि॒ऽबाधः॑ । अदे॑वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -128,27 +128,27 @@ genre M
 **उत** अपि च **अग्नेः** **स्वानासः** शब्दं कुर्वाणा ज्वालाः **दिवि** **षन्तु** द्युलोके प्रादुर्भवन्तु । किमर्थम् । **तिग्मायुधाः** तीक्ष्णायुधस्थानीया ज्वालाः । **रक्षसे** **हन्तवा** **उ** रक्षसो हननाय । उ इति पूरणः । **मदे** **चित्** हर्षे सति **अस्य** अग्नेः **भामाः** क्रोधा दीप्तयो वा **प्र** **रुजन्ति** प्रकर्षेण भङ्गं गच्छन्ति पीडयन्ति वा रक्षांसि । **परिबाधः** परितो बाधिकाः **अदेवीः** अदेवनाः आसुर्यः सेनाः **न** **वरन्ते** न वारयन्त्येनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “My roaring (flames), **Agni**, be manifest in the sky as sharp weapons wherewith to slay the **rākṣasas**; in his exhilaration his shining (rays) inflict (destruction), and undivine opposing (hosts) arrest him not.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And in heaven let there be the roars of Agni with their sharp weapons  to smash the demonic.  
 Even in his elation his (furious) radiance breaks forth. Ungodly  
 evasions will not hinder him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loud in the heaven above be Agni's roarings with keen-edged weapons to destroy the demons.  
      Forth burst his splendours in the Soma's rapture. The godless bands press round but cannot stayhim.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And may the roarings of Agni mount up to the sky, with sharp weapons in order to kill the Rakshas. In his rapture his flames break down (everything); the godless hindrances do not hold him back.
 </details>
@@ -162,17 +162,17 @@ The godless assailers cannot restrain him.
 
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und das Getöse des Agni soll zum Himmel dringen, um mit scharfer Waffe den bösen Geist zu töten. Wie im Rausche brechen seine Zornesgluten durch, nicht halten ihn die gottlosen Hindernisse auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Agni Prasseln töne laut im Himmel, mit scharfen Waffen das Gespenst zu tödten; Bei seiner Thatlust brechen vor die Flammen, nicht hemmen ihn die gottvergessnen Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть дойдет до неба треск Агни,  
 Вызванный (его) острым оружием, чтобы он убил ракшаса!  

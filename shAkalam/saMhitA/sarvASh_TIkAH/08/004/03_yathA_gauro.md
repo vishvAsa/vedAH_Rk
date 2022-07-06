@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था गौरो꣡ अपा꣡ कृतं꣡  
 तृ꣡ष्यन्न् ए꣡ति अ꣡वे꣡रिणम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 क꣡ण्वेषु सु꣡ स꣡चा पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ॒ऽपि॒त्वे । नः॒ । प्र॒ऽपि॒त्वे । तूय॑म् । आ । ग॒हि॒ । कण्वे॑षु । सु । सचा॑ । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -122,20 +122,20 @@ genre M
 **गौरः** गौरमृगः **तृष्यन्** पिपासन् **अपा** अद्भिरुदकैः । व्यत्ययेनैकवचनम्। 'ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम्। **कृतं** संपूर्णं कृतम् **इरिणं** निस्तृणं तटाकदेशं **यथा** येन प्रकारेण **अव** **एति** अवगच्छति । अवशब्दोऽभिशब्दस्यार्थे । अभिमुखः सन् शीघ्रं गच्छति तथा **आपित्वे** बन्धुत्वे **प्रपित्वे** प्राप्ते सति हे इन्द्र त्वं **नः** अस्मान् **तूयम्**। क्षिप्रनामैतत् । शीघ्रम् **आ** **गहि** आगच्छ । आगत्य च **कण्वेषु** कण्वपुत्रेष्वस्मासु **सचा** सहैकयत्नेनैव विद्यमानं सर्वं सोमं **सु** सुष्ठु **पिब** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As the thirsty **Gaura** hastens to the pool filled with water in the desert, so, (**Indra**), our affinity beingacknowledged, come quickly, and drink freely with the **Kaṇvas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As a thirsty buffalo goes down to a salt-pocket made by water,  
 come swiftly here to us in friendship [/in the morning], in the evening. In  the company of the Kaṇvas, drink up!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 apā́is one of the few singular forms of the áp- ‘water’ stem.
 
@@ -144,23 +144,23 @@ On íriṇa- as ‘salt-pocket’, see EWA s.v., citing esp. Falk, Bruderschaft.
 VIII contains two other occurrences of āpitvá-, both clearly derived from āpí- ‘friend’ and meaning ‘friendship’ (VIII.20.22, 21.13), but the presence of the temporal designation prapitvá- here suggests a similar temporal analysis, ā-pitvá-. It is surely a pun, as indicated in the published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as the wild-bull, when he thirsts, goes to the desert's watery pool,  
      Come hither quickly both at morning and at eve, and with the Kanvas drink thy fill.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie der durstige Büffel zu einem vom Wasser gemachten Rinnsal hinabsteigt, so komme rasch zu uns früh und spät; trink fein bei den Kanva´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich wie der Büffel dürstend hin zur wasserreichen Quelle eilt, So komme Abends, Morgens eilend her zu uns, und trinke bei den Kanva's gern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как бык-гаура, мучимый жаждой,  
 Спускается к стоку, образованному водой,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 च꣡क्षुर् नो धेहि च꣡क्षुषे  
 च꣡क्षुर् विख्यइ꣡ तनू꣡भियः  
 सं꣡ चेदं꣡ वि꣡ च पश्येम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 सम् । च॒ । इ॒दम् । वि । च॒ । प॒श्ये॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
@@ -93,36 +93,36 @@ popular
 **नः** अस्माकं **चक्षुषे** रूपोपलब्धिकारणायेन्द्रियाय **चक्षुः** प्रकाशकं तदनुग्राहकं तेजो हे सूर्य **धेहि** विधेहि कुरु । यद्वा । न इति व्यत्ययेन बहुवचनम् । चक्षुषे चक्षुःसंज्ञाय नो मह्यं चक्षुरिन्द्रियं वा तेजो वा हे सूर्य धेहि प्रयच्छ । **तनूभ्यः** अस्माकं शरीरेभ्यस्तनयेभ्यो वा **विख्यै** विख्यानाय प्रकाशनाय **चक्षुः** त्वदीयं प्रकाशं विधेहि । यत एवं तस्मात्कारणात् त्वदीयेन तेजसा वयं **च** **इदं** सर्वं जगत् **सं** **पश्येम** । सम्यग्द्रष्टारो भवेम । **वि** पश्येम **च** । विविधं च सविशेषं द्रष्टारो भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Give sight, **Sūrya**, to our eyes, (bestow) sight for the illumination of our bodies, so that we may lookupon and into this (world).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Place the eye for our eyeing, the eye for us to see for ourselves.  
 May we look at this (world) both whole and distinct.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give sight unto our eye, give thou our bodies sight that they may see:  
      May we survey, discern this world.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring unserem Auge das Augenlicht, das Augenlicht zum Sehen für unsere Leiber! Wir wollen diese Welt überschauen und unterscheiden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib unserm Auge hellen Blick, den Blick, um weit um uns zu schaun, Dass rings wir schauen diese Welt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дай нашему глазу способность видеть,  
 Способность видеть, чтобы мы различали для себя!  

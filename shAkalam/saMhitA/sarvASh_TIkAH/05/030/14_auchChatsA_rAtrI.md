@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अउ꣡छत् सा꣡ रा꣡त्री प꣡रितक्मिया याँ꣡  
 ऋणंचये꣡ रा꣡जनि रुश꣡मानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बभ्रु꣡श् चत्वा꣡रि असनत् सह꣡स्रा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अत्यः॑ । न । वा॒जी । र॒घुः । अ॒ज्यमा॑नः । ब॒भ्रुः । च॒त्वारि॑ । अ॒स॒न॒त् । स॒हस्रा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aucchat* ← *vas*
 - \[verb\], singular, Imperfect
@@ -109,21 +109,21 @@ genre M
 **रुशमानं** रुशमनाम्नां जनानां **राजनि** प्रभौ **ऋणंचये** एतत्संज्ञके तत्समीप एव **या** रात्रिः **परितक्या** परितो गन्त्री भवति **सा** **रात्री** **औच्छत्** व्युष्टाभवत् । **अत्यः** सततगामी **वाजी** **न** अश्व इव **रघुः** शीघ्रगामी **अज्यमानः** प्रेर्यमाणः **बभ्रुः** एतन्नामक ऋषिः **चत्वारि** चतुःसंख्याकानि **सहस्रा** सहस्राणि गोरूपाणि धनानि **असनत्** अलभत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The (gloom-) investing night has dispersed with the dawn (upon the appearance of) Ṛṇañcaya, the **rājā** of the **ruśamās**; **Babhru** being summoned, going like a fleet courser, has received the four thousand (cattle).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (When) that night brightened at its final turn, at (the hands of)  
 R̥ṇaṃcaya, king of the Ruśamas,  
 like a steed quick in competition, being driven [/anointed], Babhru won  four thousand (cows).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The primary reading of ajyámānaḥ is surely “being driven,” as the standard interpr. have it. But it could also be the passive of √añj ‘anoint’ and inhabit the same semantic realm as “well-ornamented with thousands of cows” in 13ab: he would be anointed with prize cows.
 
@@ -148,23 +148,23 @@ The fact that the poet alters the expected form in two different ways in succeed
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Night, well-nigh ended, at Rnancaya's coming, King of the Rusamas, was changed to morning.  
      Like a strong courser, fleet of foot, urged onward, Babhru hath gained four thousand as his guerdon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Nacht, die die entscheidende war, wurde bei Riamicaya, dem König der Rusama´s hell. Wie ein siegreiches, rasches Rennpferd, wenn es zum Wettkampf getrieben wird, hat Babhru Viertausend gewonnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als dämmerte die Nacht im Morgendunkel, hat Babhru viermal tausende empfangen, Gleich kräft'gem Renner der zum Lauf geschmückt wird, vom Herrn der Ruçamer, dem Rinamtschaja.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта ночь, которая кончалась, стала светлой  
 У Ринамчайи, царя потомков Рушамы.  

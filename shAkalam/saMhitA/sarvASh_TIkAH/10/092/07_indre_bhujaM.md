@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रे भु꣡जं शशमाना꣡स आशत  
 सू꣡रो दृ꣡शीके वृ꣡षणश् च पउं꣡सिये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यु꣡जं व꣡ज्रं नृष꣡दनेषु कार꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । ये । नु । अ॒स्य॒ । अ॒र्हणा॑ । त॒त॒क्षि॒रे । युज॑म् । वज्र॑म् । नृ॒ऽसद॑नेषु । का॒रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indre* ← *indra*
 - \[noun\], locative, singular, masculine
@@ -116,37 +116,37 @@ genre M
 ये **शशमानासः** शशमानाः स्तोतारः **इन्द्रे** स्तुते सति **भुजं** पालनम् **आशत** प्राप्नुवन्ति । **सूरः** सूर्ये स्तुते सति **दृशीके** दर्शनं सर्ववस्तुविषयं प्राप्नुवन्ति । **वृषणः** वर्षितरीन्द्रे स्तुते **पौंस्यं** बलं च प्राप्नुवन्ति । किंच **ये** **कारवः** स्तोतारः **अस्य** इन्द्रस्य **अर्हणा** पूजनानि **नु** क्षिप्रं **ततक्षिरे** प्रकृष्टानि कुर्वन्ति ते स्तोतारः **नृषदनेषु** नरः कर्तृत्वेन येषु सीदन्ति तिष्ठन्ति तेषु यज्ञेषु **युजं** सहायमिन्द्रस्य **वज्रं** प्राप्नुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those who praise him find protection in **Indra**; (those who praise him find) universal vision in the sun;(those who praise him find) manly vigour in the vigorous (Indra); those worshippers who diligently offer adorationto Indra (acquire) the thunderbolt as their ally in the dwellings of men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having labored to exhaustion, they have obtained their benefit in Indra,  in the sight of the sun, and in the masculine nature of the bull—  
 the bards [=Aṅgirases?] who fashioned as his due the mace, his  
 yokemate, at the sessions [=sacrifices] of men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With Indra have they found enjoyment, they who toil, in the light's beauty, in the very Strong One's strength;  
      The singers who in men's assemblies forged for him, according to his due, his friend the thunderbolt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Indra haben die Diensteifrigen Nutzen erlangt, wann es sich um den Anblick der Sonne und um die Krafttat des Bullen handelt: die Dichter, die nach seinem Verdienst seine verbündete Keule in den Männersitzungen gezimmert haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Indra fanden Labsal die sich mühenden im Licht der Sonne, in des Helden Manneskraft, Die Sänger, die durch ihr Verdienst ihm seinen Freund, den Blitz nun in den Männersitzen zimmerten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि चिन् म꣡र्तो द्र꣡विणम् ममन्याद्  
 ऋत꣡स्य पथा꣡ न꣡मसा꣡ विवासेत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्रे꣡यांसं द꣡क्षम् म꣡नसा जगृभ्यात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒त । स्वेन॑ । क्रतु॑ना । सम् । व॒दे॒त॒ । श्रेयां॑सम् । दक्ष॑म् । मन॑सा । ज॒गृ॒भ्या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -123,36 +123,36 @@ genre M
 **मर्तः** मनुष्यः यजमानः **परि** **चित्** सर्वतः **द्रविणं** विश्वेषां देवानां यागार्थं धनं ममन्यात् । मन्यतिः कान्तिकर्मा । कामयेत लब्धुमिच्छेत् । धनं लब्ध्वा च **ऋतस्य** यज्ञस्य **पथा** मार्गेण **नमसा** हविराख्येनान्नेन **आ** **विवासेत्** परिचरेत् । **उत** अपि च **स्वेन** आत्मीयेन **क्रतुना** प्रज्ञानेन । मनसेत्यर्थः । **सं** **वदेत** । संवादोऽत्र समाध्यानमुच्यते । हविर्गृहीत्वा वषट्करिष्यन् विश्वान् देवान् मनसाध्यायेदित्यर्थः । विश्वेषां देवानां यागानन्तरं च तत्प्रसादात् **श्रेयांसम्** अतिशयेन प्रशस्यमात्मानं **दक्षं** प्रवृद्धं सर्वव्यापिनं **मनसा** ध्यानसाधनेनान्तःकरणेन **जगृभ्यात्** गृह्णीयात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let a mortal be ever desirous of affluence, (having acquired it), let him worship with oblations on thepath of the sacrifice; and let him with his own intellect meditate upon (the gods); let him grasp with his mind thebest and most mighty (of the universal deities).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A mortal should await material wealth along the path of truth; he should  seek to win it through reverence.  
 And he should consult with his own resolve and grasp better skill with  his mind.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A man should think on wealth and strive to win it by adoration on the path of Order,  
      Counsel himself with his own mental insight, and grasp still nobler vigour with his spirit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche sollte doch den Reichtum gering schätzen, er soll ihn auf dem Wege des Rechten demütig zu gewinnen suchen. Und er gehe mit seiner eigenen Einsicht zu Rate und fasse im Geiste besseren Entschluß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Reichthum mag der Sterbliche erstreben, durch Andacht auf dem Opferpfad herbeiziehn, Und sich bereden mit dem eignen Herzen; dann wird im Geist er bessre Kraft erlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Если) смертный прозевает имущество,  
 Пусть поклонением на пути закона он постарается привлечь (богов),  

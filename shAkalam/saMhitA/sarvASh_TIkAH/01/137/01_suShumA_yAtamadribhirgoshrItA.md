@@ -6,7 +6,7 @@ ChandaH = "अतिशक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुषुमा꣡ यातम् अ꣡द्रिभिर्  
 गो꣡श्रीता मत्सरा꣡ इमे꣡  
@@ -17,7 +17,7 @@ ChandaH = "अतिशक्वरी"
 सो꣡माः शुक्रा꣡ ग꣡वाशिरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 इ॒मे । वा॒म् । मि॒त्रा॒व॒रु॒णा॒ । गोऽआ॑शिरः । सोमाः॑ । शु॒क्राः । गोऽआ॑शिरः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suṣumā* ← *suṣuma* ← *su*
 - \[verb\], plural, Perfect indicative
@@ -146,7 +146,7 @@ genre M
 हे मित्रावरुणौ **आ** **यातम्** अस्मद्यज्ञं प्रति आगच्छतम् । आगमनाय किमस्तीति चेत् तत्राह। **अद्रिभिः** अभिषवसाधनैर्ग्रावभिः **सुषुम** सोमं सुतवन्तो वयम् ॥ सुनोतेर्लिटि रूपम् । अतः **गोश्रीताः** । विकारे प्रकृतिशब्दः । पयोभिर्मिश्रिताः । तस्मान्मैत्रावरुणं पयसा श्रीणाति' (तै. सं. ६. ४. ८. १) इति हि ब्राह्मणम् । **मत्सराः** तृप्तिहेतवः सोमाः ।' मत्सरः सोमो मन्दतेस्तृप्तिकर्मणः । (निरु. २. ५) इति यास्कः । **इमे** पुरतो गृहीता वर्तन्ते । अतः आ यातम् । पुनस्त एव विशेष्यन्ते । **इमे** **सोमासो** **मत्सराः** मदहेतवो मादने मात्सर्यवन्तो वा इतरयज्ञगतसोमेभ्यः सोमाः। कीदृशौ युवाम् । **राजाना** राजनशीलौ **दिविस्पृशा** द्युलोकवासिनौ ॥' हृद्यु्तभ्यां ङेरुपसंख्यानम् । (पा. सू. ६. ३. ९. १) इति अलुक् ॥ ईदृशौ युवाम् **अस्मत्रा** अस्मासु मध्ये अस्मत्पालकौ वा युवां **नः** अस्मत्संबन्धिनं यज्ञम् **उप** **गन्तम्** आगच्छतम् । किंच हे **मित्रावरुणा** एतन्नामानौ देवौ **वां** युवयोरर्थाय **इमे** **सोमाः** **गवाशिरः** । पूर्ववत् विकारे प्रकृतिशब्दः । गोभिः क्षीरैः आशिरो मिश्रिताः संजाताः। किंच **गवाशिरः** गोभिः उदकैः मिश्रिताः संजाताः । यद्वा । गोभिः स्तुतिलक्षणैर्मन्त्रैः मिश्रिताः । अत एव **शुक्राः** दीप्ताः संजाताः। 'आशिरमव नयति सशुक्रत्वाय' (तै. सं. ६. १. ६. ५) इति श्रुतेः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -157,7 +157,7 @@ genre M
 Matsarāḥ = the repetition of the word suggests the sense of 'envious', envious or emulous of those presented at other ceremonies.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have pressed—you two, drive hither—with the stones; these  
 exhilarating ones here are mixed with cows [=milk]—these  
@@ -165,7 +165,7 @@ exhilarating soma drinks.
 You two kings, touching heaven, come here right to us, into our midst. These with their milk mixture are for you two, Mitra and Varuṇa—the  clear soma drinks and those with their milk mixture.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/137/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -175,24 +175,24 @@ You two kings, touching heaven, come here right to us, into our midst. These wit
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH stones have we pressed out: O come; these gladdening drops are blent with milk, these Soma-drops which gladden you.  
      Come to us, Kings who reach to heaven, approach us, coming hitherward.  
      These milky drops are yours, Mitra and Varuna, bright Soma juices blent with milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben ihn mit Steinen ausgepreßt -kommt herbei! Diese berauschenden sind mit Milch gemischt, diese berauschenden Somatränke. Kommt beide her zu uns, ihr bis zum Himmel reichenden Könige! Diese milchgemischten sind für euch beide, Mitra und Varuna, die klaren Somatränke, die mit Milch gemischten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gekeltert haben wir, o kommt, die Soma's sind mit Milch gemischt, die kräftigen berauschenden; Kommt her, die ihr zum Himmel reicht, o Könige, zu uns herbei; Hier sind die milchgemischten, Mitra-Varuna, die hellen Soma's, milchgemischt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы его выжали – приходите! – камнями.  
 Смешаны с молоком пьянящие эти,  

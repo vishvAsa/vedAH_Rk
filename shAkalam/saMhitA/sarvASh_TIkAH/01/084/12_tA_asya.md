@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ अस्य न꣡मसा स꣡हः  
 सपर्य꣡न्ति प्र꣡चेतसः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 व꣡स्वीर् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 व्र॒तानि॑ । अ॒स्य॒ । स॒श्चि॒रे॒ । पु॒रूणि॑ । पू॒र्वऽचि॑त्तये । वस्वीः॑ । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
@@ -113,38 +113,38 @@ genre M;; repeated line
 **प्रचेतसः** प्रकृष्टज्ञानाः **ताः** गावः **अस्य** इन्द्रस्य **सहः** बलं **नमसा** स्वकीयेन पयोरूपेणान्नैन **सपर्यन्ति** परिचरन्ति । **पुरूणि** बहूनि **अस्य** इन्द्रस्य **व्रतानि** शत्रुवधादिरूपाणि वीर्यकर्माणि **सश्चिरे** सिषेविरे ज्ञायन्ते' इत्यर्थः । किमर्थम् । **पूर्वचित्तये** युयुत्सूनां शत्रूणां पूर्वमेव प्रज्ञापनाय। अनेन युध्यमाना वृत्रादयः सर्वे मरणं प्राप्ताः किमर्थं भवद्भिः प्राणास्त्यज्यन्ते' इति तेषां बोधनायेत्यर्थः । अन्यत् पूर्ववत् ॥ सश्चिरे। **सश्च** गतौ'। व्यत्ययेनात्मनेपदम् । पूर्वचित्तये ।  ‘ चिती संज्ञाने' । भावे क्तिन् । मरुद्वृधादित्वात् पूर्वपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These intelligent kine reverence his prowess with the adoration (of their milk); they celebrate his manly exploits as an example to later (adversaries); abiding (in their stalls), expectant of his sovereignty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They, forethoughtful, serve his might with reverence.  
 They follow his many commandments, to be first in his thought.  
 – The good ones (cheer) on his sovereignty.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With veneration, passing wise, honouring his victorious might,  
      They follow close his many laws to win them due preeminence, good in their  
      own supremacy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie huldigen ehrfürchtig seiner Macht, die Klugen; sie befolgen seine vielen Gebote, um seine erste Sorge zu sein. Die Guten jubeln seiner Selbstherrlichkeit zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie ehren seine Siegerkraft anbetend voller Achtsamkeit, Sie folgen seinen Satzungen, den mannichfachen auf den Wink, lichthell in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они, прозорливые, чтут  
 Поклонением его силу.  

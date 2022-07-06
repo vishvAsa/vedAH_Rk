@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ चक्रमे पृथिवी꣡म् एष꣡ एतां꣡  
 क्षे꣡त्राय वि꣡ष्णुर् म꣡नुषे दशस्य꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुक्षितिं꣡ सुज꣡निमा चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ध्रु॒वासः॑ । अ॒स्य॒ । की॒रयः॑ । जना॑सः । उ॒रु॒ऽक्षि॒तिम् । सु॒ऽजनि॑मा । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 **एषः** देवः **विष्णुः** **एतां** **पृथिवीं** पृथिव्यादीनिमांस्त्रीँल्लोकान् **क्षेत्राय** निवासार्थं **मनुषे** स्तुवते देवगणाय **दशस्यन्** असुरेभ्योऽपहृत्य प्रदास्यन् **वि** **चक्रमे** विक्रान्तवान् । **अस्य** च विष्णोः **कीरयः** स्तोतारः **जनासः** जनाः **ध्रुवासः** निश्चला भवन्ति । ऐहिकामुष्मिकयोर्लाभेन स्थिरा भवन्तीत्यर्थः । **सुजनिमा** शोभनानि जनिमानि कीर्तनस्मरणादिना सुखहेतुभूतानि यस्य तादृशो विष्णुः **उरुक्षितिं** विस्तीर्णनिवासं **चकार** स्तोतृभ्यः करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M
 Which he was desirous of giving: manuṣe daśasyan = stuvate devagaṇāya, to the company ofgods praising him-- Viṣṇu having taken the **three worlds** from the **Asuras** to give to them; the engenderer ofgood: or, to whom belong fortunate births
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Quick Viṣṇu strode across this earth for a dwelling place for Manu,  showing his favor.  
 Firmly fixed are his peoples, (even) the weak. He, affording good birth,  has made (them) wide dwelling.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 By concentrating Viṣṇu’s strides in the first pāda of 4, the poet is free to express the aim of Viṣṇu’s action -- creating space and dwelling places for the people
 
@@ -157,23 +157,23 @@ As noted in the published introduction, vss. 3 and 4 are responsive. The first p
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Over this earth with mighty step strode Visnu, ready to give it for a home to Manu.  
      In him the humble people trust for safety: he, nobly born, hath made them spacious dwellings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Vishnu hat diese Erde ausgeschritten zum Landbesitz für Manu, um ihm gefällig zu sein. Ansässig wurden dessen besitzlose Leute. Er, der gute Geburt gibt, schuf weite Wohnstatt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnung schenkend; Gesichert stehn die Männer, die ihn preisen; der gutes wirkt, er schaffte weiten Wohnsitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он прошагал эту землю,  
 (Чтоб она стала) владением, Вишну награждающий человека.  

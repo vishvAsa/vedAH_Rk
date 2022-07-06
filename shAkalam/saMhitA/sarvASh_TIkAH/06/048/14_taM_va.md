@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ व इ꣡न्द्रं न꣡ सुक्र꣡तुं  
 व꣡रुणम् इव मायि꣡नम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वि꣡ष्णुं न꣡ स्तुष आदि꣡शे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒र्य॒मण॑म् । न । म॒न्द्रम् । सृ॒प्रऽभो॑जसम् । विष्णु॑म् । न । स्तु॒षे॒ । आ॒ऽदिशे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -113,20 +113,20 @@ genre M
 हे मरुद्गण **तं** तादृशं **वः** त्वां **स्तुषे** स्तौमि । किमर्थम् । **आदिशे** आदेशनाय धनानामतिसर्जनाय प्रदानाय । कीदृशं त्वाम् । **इन्द्रं** न इन्द्रमिव **सुक्रतुं** सुकर्माणं **वरुणमिव** **मायिनं** मायावन्तं प्रज्ञावन्तम् **अर्यमणं** **न** अर्यमणमिव मन्द्रं स्तुत्यं **विष्णुं** **न** विष्णुमिव **सृप्रभोजसं** प्रसृप्तधनम् । यदा त्वस्या लिङ्गोक्तदेवतास्तदानीं नेवशब्दौ चशब्दार्थे द्रष्टव्यौ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I praise you, the (company of **Maruts**), for the distribution of wealth; (the company that), like **Indra**, is the achiever of great deeds; sagacious like **Varuṇa**; adorable as **Aryaman** and munificent as **Viṣṇu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Strong-willed like Indra, master of artifice like Varuṇa,  
 gladdening and yielding lush nourishment like Aryaman, just like  Viṣṇu—that one will I praise for you, to mark him out—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Despite the change in topic, sṛprá-bhojasam (a) responds to viśvábhojasam, which ends the previous vs. (13c).
 
@@ -151,23 +151,23 @@ On these Pūṣan vss., see published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your friend like Indra passing wise, with magic power like Varuna.  
      Like Aryaman joy-giving, bringing plenteous food like ViSnxu for my wish, I praise,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen euren Gott, der ratreich wie Indra, listenreich wie Varuna, beliebt wie Aryaman, langen Genuß gebend wie Vishnu ist, preise ich, um ihm einen Wink zu geben;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den euren, der wie Indra wirkt, wie Varuna voll Weisheit ist, Wie Arjaman erfreuend, fette Nahrung bringt, den meinend preis' wie Vischnu ich,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого (бога), как Индра, богатого силой духа,  
 Как Варуна, наделенного силой превращений,  

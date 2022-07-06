@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡नर् वइ꣡ देवा꣡ अददुः  
 पु꣡नर् मनुषि꣡या उत꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ब्रह्मजाया꣡म् पु꣡नर् ददुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 राजा॑नः । स॒त्यम् । कृ॒ण्वा॒नाः । ब्र॒ह्म॒ऽजा॒याम् । पुनः॑ । द॒दुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punar*
 - \[adverb\]
@@ -115,37 +115,37 @@ popular;; epic anuṣṭubh (424)
 लाभहेतुमाह। देवा ब्रह्मजायां जुहूं बृहस्पतये पुनरददुः। वैशब्दः प्रसिद्धवाची। उताप्यर्थे। मनुश्युआ अपि पुनरददुः। एवं देवमनुष्यैः क्रुतं दानं सत्यं यथार्थं कृण्वानाः कुर्वाणाः राजानोऽपि पुनस्तस्मै ददुः। एवमव्यवहार्यनिमित्तं पापमपि व्यनाशयन्निति भावः॥६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods gave her back again, men also gave her back, and kings confirming (the gift) gaveBrahmā's wife back again.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gods, verily, have given (her) back, and the sons of Manu (have given  her) back;  
 the kings [=Ādityas], making it come true, have given back the  
 Brahmin’s wife.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So then the Gods restored her, so men gave the woman back again.  
      The Kings who kept their promises restored the Brahman's wedded wife,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Götter gaben sie ja zurück und auch die Menschen sollen sie zurückgeben. Die Könige, die ihr Wort halten, sollen das Weib des Brahmanen zurückgeben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter gaben sie zurück, und die Menschen gaben sie zurück; die Könige, was recht ist ausführend, gaben die Gattin des Brahmanen zurück.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обратно отдали (ее) боги,  
 Обратно (должны отдать) и люди.  

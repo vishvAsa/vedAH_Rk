@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञा꣡-यज्ञा वः समना꣡ तुतुर्व꣡णिर्  
 धि꣡यं-धियं वो देवया꣡ उ दधिध्वे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 महे꣡ ववृत्याम् अ꣡वसे सुवृक्ति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । वः॒ । अ॒र्वाचः॑ । सु॒वि॒ताय॑ । रोद॑स्योः । म॒हे । व॒वृ॒त्या॒म् । अव॑से । सु॒वृ॒क्तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñā* ← *yajñāḥ* ← *yajña*
 - \[noun\], nominative, plural, masculine
@@ -129,21 +129,21 @@ genre M
 हे मरुतः **वः** **समना** समीकृतिर्न्यूनाधिकाभावलक्षणा **यज्ञायज्ञा** सर्वेष्वपि यज्ञेषु तुर्वणिः तूर्णवनिस्त्वरमाणा संभजमाना भवति । ‘तुर्वणिस्तूर्णवनिः' (निरु, ६. १४ ) इति यास्कः । तत्तद्यागावसरे अगत्य हविः स्वीकृत्य वैकल्यपरिहारेण समं कुरुथेत्यर्थः । किंच **वः** यूयं **धियंधियं** युष्मत्संबन्धिवृष्टिप्रदानादिरूपं सर्वं कर्म **देवयाः** देवान् प्रापयितार एव सन्तः **दधिध्वे** धारयथ धारयध्वे वा । देवार्थहविराद्युत्पादनाय वृष्टिं कुरुथेत्यर्थः । यस्मादेवं कुरुथ तस्मात् **वः** युष्मान् **अर्वाचः** अस्मदभिमुखान् **आ** **ववृत्याम्** आवर्तयामि । किमर्थम् । **रोदस्योः** द्यावापृथिव्योः **महे** महते **अवसे** रक्षणाय प्रीणनाय वा । तदपि किमर्थमिति । सुविताय सुष्ठु व्याप्ताय। कैः साधनैः। **सुवृक्तिभिः** शोभनावर्जनैः स्तोत्रैः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, at every sacrifice your alacrity is uniform; you, verily, discharge your every function for the benefit of the gods; therefore, do I invite you to come hither, by sacred hymns, for (the sake of) your powerful protection of heaven and earth, and your benevolent praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With sacrifice after sacrifice to you (performed always) in the same way  (am I) victorious. Thought after thought have you received, as they  
 travel to you, the gods.  
 With well-twisted (hymns) might I turn you our direction, for the welfare  of the two world-halves, for great help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes b as parenthetical. Although I agree that the 1st sg. subject of cd is also the subj. of pāda a, I think it less awkward to take pāda a as a nominal sentence, given the sheer amount of material that intervenes between it and the verb in d, vavṛtyām.
 
@@ -160,23 +160,23 @@ The standard (and I think correct) interpr. of devayā́(ḥ) here is that it is
 pl., agreeing with the implicit plurality of the (sg.) āmreḍita dhíyaṃ-dhiyam -- an interesting syntactic constructio ad sensum.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SWIFT gain is his who hath you near at every rite: ye welcome every song of him who serves the Gods.  
      So may I turn you hither with fair hymns of praise to give great succour for the weal of both the worlds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit jedem Opfer für euch ein wie alle Male den anderen zuvorkommend - ihr habt die zu den Göttern gehenden Gedanken an euch, Gedanken um Gedanken, eingegeben - möchte ich euch herlenken zum Wohlergehen beider Welten, zu großer Gunst mit Lobliedern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch stetes Opfer möcht' ich euch gewinnen recht, Gebet, das zu euch Göttern dringt, empfangt ihr gern; Durch Lieder möchte ich zum Heil der Welten euch zu grosser Hülfe nahe wenden her zu mir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Каждой жертвой для вас стремясь также превзойти (соперников) –  
 А вы принимали на свой счет каждую мысль, идущую к богам –  

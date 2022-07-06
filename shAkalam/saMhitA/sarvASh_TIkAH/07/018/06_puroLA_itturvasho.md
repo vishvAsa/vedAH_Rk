@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरोळा꣡ इ꣡त् तुर्व꣡शो य꣡क्षुर् आसीद्  
 राये꣡ म꣡त्स्यासो नि꣡शिता अ꣡पीव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡खा स꣡खायम् अतरद् वि꣡षूचोः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 श्रु॒ष्टिम् । च॒क्रुः॒ । भृग॑वः । द्रु॒ह्यवः॑ । च॒ । सखा॑ । सखा॑यम् । अ॒त॒र॒त् । विषू॑चोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puroﾱā* ← *puroḍāś*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 **यक्षुः** यज्ञकुशलः ॥ यजेः सन्प्रत्ययो न तु सनन्तः । अतो न द्विर्भावः ॥ **पुरोळाः** पुरोगामी पुरोदाता वा । **इत्** इति पूरणः । **तुर्वशः** नाम राजासीत्। सः तुर्वशः **राये** धनप्राप्तये इन्द्रस्य सखायं सुदासं जगाम । **मत्स्यासः** **इव** जालनिहिता मत्स्या इव **निशिताः**  नियन्त्रिताः **अपि** **भृगवः** **द्रुह्यवश्च** योधाश्च सुदासः तुर्वशस्य च **श्रुष्टिम्** आशुप्राप्तिं **चक्रुः** । **विषूचोः** विष्वगञ्चतोरुभयोर्मध्ये **सखा** सुदासश्चेन्द्रः **सखायं** सुदासम् **अतरत्** अतारयत् । तुर्वशं चावधीदित्यर्थः । यद्वा । यक्षुर्यज्ञशीलः पुरोळाः पुरोदाता तुर्वशो नाम राजासीत् । तेन मत्स्यासो मत्स्यजनपदा निशिता बाधिता आसन् । अपि च भृगवो द्रुह्यवश्च श्रुष्टिं सुखं तुर्वशस्य चक्रुः । विषूचोर्विष्वगञ्चतोरुभयोर्मध्ये सखा तुर्वशस्य सखेन्द्रः सखायं राजानमतरत् अतारयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ genre M
 The legend: Indra saves one of the two,Sudāsa (and perhaps slays the other), turvaśam avadhīt; matsyaso **niśitaḥ**, fishes limited to water; the peopleof the country **Matsya** were attacked by Turvaśa, tena matsyajanapada bādhitaḥ; śruṣṭim cakruḥ (applied tothe Bhrigus) = aśuprāptim cakruḥ; sukham turvaśasys cakruḥ-- making the Bhrigus and Druhyus the allies ofTurvaśa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Turvaśa Yakṣu (the “sacrificer”) was himself the offering cake—also the  Matsyas [“fish”], whetted down (in their quest) for wealth, like fish  in water.  
 The Bhr̥gus and the Druhyus (just) followed orders. (Former) comrade  crossed (former) comrade on the two opposing (sides).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains two ironic reversals, based on what are presumably personal names or plays on them. In the first pāda yákṣu-, perhaps a pun on Yadu, can be rendered as ‘sacrificer’ (so Schmidt, from whom I adapted the tr.), and he himself becomes the sacrifice, or a part of it: puroḷā́ḥ ‘offering cake’.
 
@@ -156,23 +156,23 @@ There is a diversity of opinion on what is happening in d as expressed by the ve
 Witzel’s treatment cited above).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eager for spoil was Turvasa Purodas, fain to win wealth, like fishes urged by hunger.  
      The Bhrgus and the Druhyus quickly listened: friend rescued friend mid the two distant peoples.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Turvasa, Yaksu war das Voropfer. Die Matsya´s, die auf Reichtum versessen waren wie im Wasser die Fische auf den Köder, die Bhrigu´s und Druhyu´s leisteten willig Folge. Der Freund hat dem, der unter den beiden Gegnern sein Freund war, durchgeholfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voran ging Turvaça, nach Reichthum jagend, wie Fisch' im Wasser von Begier getrieben; Ihm folgten bald die Bhrigu's und die Druhju's; durch beide brach die Bahn der Freund dem Freunde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самым началом жертвоприношения были турваша (и) якшу.  
 Матсья, жадные до богатства, как рыбы в воде (до наживки),  

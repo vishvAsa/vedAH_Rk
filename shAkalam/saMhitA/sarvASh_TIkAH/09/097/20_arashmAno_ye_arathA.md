@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अरश्मा꣡नो ये꣡ अरथा꣡ अ꣡युक्ता  
 अ꣡त्यासो न꣡ ससृजाना꣡स आजउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दे꣡वासस् ताँ꣡ उ꣡प याता पि꣡बध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ए॒ते । शु॒क्रासः॑ । ध॒न्व॒न्ति॒ । सोमाः॑ । देवा॑सः । तान् । उप॑ । या॒त॒ । पिब॑ध्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *araśmāno* ← *a*
 - \[adverb\]
@@ -130,20 +130,20 @@ genre M
 अरश्मानोरश्मिवर्जिता रज्जुवर्जिताइतियावत् अरथारथवर्जिताः अयुक्ताः कुत्रापिननि- युक्ताः अबद्धाइत्यर्थः एतादृशाये आजौ युद्धे ससृजानासः सृज्यमानाः अत्यासोन अश्वा- यथा त्वरयालक्ष्यं गच्छन्ति तद्वत् आजौ अजन्ति कर्मकरणार्थमृत्विजोत्रेति आजिर्यज्ञस्त- स्मिन् सृज्यमानाः शुक्रासः शुक्रादीप्यमाना एतेसोमाः धन्वन्ति क्षिप्रं कलशानभिगच्छन्ति । अथप्रत्यक्षः हेदेवासोदेवाः तानागच्छतः सोमान् पिबध्यैपानायउपयातउपगच्छत ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These brilliant **Soma** juices flow like horses let loose inbattle without reins, without chariots, unharnessed; approach them, you gods, to drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Though without reins, without chariot, not yoked, having been let loose  like steeds in a contest,  
 these gleaming soma-drinks run. O gods, drive right up to them, to  drink them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation dispenses with the rel. prn. in pāda a, as tr. the hemistich as a rel. cl. seemed clunky.
 
@@ -161,23 +161,23 @@ Attributed to Śakti Vāsiṣṭha, who, unlike most of the other Vasiṣṭhids
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Without a car, without a rein to guide them, unyoked, like coursers started in the contest,  
      These brilliant drops of Soma juice run forward. Do ye, O Deities, come nigh to drink them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die ohne Zügel, ohne Wagen, ungeschirrt, wie Rennpferde im Wettrennen losgelassen werden, diese klaren Somasäfte rinnen. Ihr Götter, kommet her, um sie zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Renner die beim Wettlauf ohne Wagen unangeschirrt und ohne Zügel laufen, So strömen diese hellen Somatränke, zu denen eilt, o Götter, hin zum Trunke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что без поводьев, без колесниц, незапряженные,  
 Выпускаются, словно скакуны на ристалище,  

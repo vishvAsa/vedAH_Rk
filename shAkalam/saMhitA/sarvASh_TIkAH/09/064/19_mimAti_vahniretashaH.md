@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मि꣡माति व꣡ह्निर् ए꣡तशः  
 पदं꣡ युजान꣡ ऋ꣡क्वभिः  
 प्र꣡ य꣡त् समुद्र꣡ आ꣡हितः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र । यत् । स॒मु॒द्रे । आऽहि॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mimāti* ← *mā*
 - \[verb\], singular, Present indikative
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **यत्** यदा यः **वह्निः** वहनशीलः **एतशः** अश्वः **मिमाति** शब्दं करोति **ऋक्वभिः** ऋत्विग्भिः स्तोतृभिः **पदं** यज्ञे **युजानः** निदधत् स्तोत्रश्रवणार्थमागच्छति च तदा स यज्ञवाहकाश्वात्मा त्वं **समुद्रे** उदके वसतीवरीषु **प्र** **आहितः** भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,14 +99,14 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Yat = yadā; thus, 'when the horse of burden neighṣ.., then you who are the horse of burden of the sacrifice are plural ced in the vasatīvarī waters
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Etaśa the draft-horse measures out his pace, being yoked by the  
 versifiers,  
 when he is deposited in the sea.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 sī́dañ chyenó ná yónim ā́, as well as IX.96.23 śakunáḥ ná pátvā and with the pl.
 
@@ -123,23 +123,23 @@ The undiscerning (ápracetasaḥ) in 20c are contrasted with the discerning (pr�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loud neighs the Courser Etasa, with singers, harnessed for the place,  
      Guided for travel to the lake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es brüllt das Zugroß Etasa von den Sängern angeschirrt, wenn er in den Ozean gesetzt den Schritt vorwärts tut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es brüllt das bunte Wagenross, von Sängern an den Platz geschirrt, Wenn es zum Meere ist entsandt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

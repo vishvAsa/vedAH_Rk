@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सो꣡ अग्ने त꣡वोति꣡भिः  
 सुवी꣡राभिस् तिरते वा꣡जभर्मभिः  
 य꣡स्य त्वं꣡ सख्य꣡म् आव꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यस्य॑ । त्वम् । स॒ख्यम् । आ॒ऽवरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -99,41 +99,41 @@ genre M
 हे **अग्ने** **तवोतिभिः** रक्षाभिः **सः** यजमानः **प्र** **तिरते** प्रवर्धते । ऊतयो विशेष्यन्ते । **सुवीराभिः** । शोभना वीराः पुत्रादयो यासु तास्तथोक्ताः। **वाजभर्मभिः** । वाजानामन्नानां बलानां वा भर्म भरणं यासु तादृशीभिः । हे अग्ने **त्वं** यस्य यजमानस्य **सख्यं** सखित्वं मित्रत्वम् **आवरः** अभिवृणोषि स तिरत इत्यन्वयः ॥ ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, **Agni**, whose friendship you accept, prospers through your favours, granting **male** progeny andample food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He advances himself through your help well provided with heroes and  bringing prizes—  
 (the man) whose companionship you will choose.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On āváraḥ see comm. on I.143.6. It may be better to tr. it as ‘grant’, rather than ‘choose’ -- hence “(the man) to whom you grant companionship.” The general sense is essentially unaffected either way: a man who is Agni’s companion thrives.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, he conquers by thine aid that brings him store of noble heroes and great strength,  
      Whose bond of friendship is thy choice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der kommt durch deine meisterhaften, Gewinn einbringenden Hilfen vorwärts, o Agni, dessen Freundschaft du vorziehen wirst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch deine heldenreiche Gunst, die Kraft verleiht, gedeihet der, o Agni, recht, Den du dem Freunde dir gewählt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С твоими поддержками, о Агни, приносящими прекрасных мужей,  
 Чреватыми наградами, вперед продвигается тот,  

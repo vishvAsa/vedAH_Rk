@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ ते राजन् भिष꣡जः सह꣡स्रम्  
 उर्वी꣡ गभीरा꣡ सुमति꣡ष् टे अस्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृतं꣡ चिद् ए꣡नः प्र꣡ मुमुग्धि अस्म꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 बाध॑स्व । दू॒रे । निःऽऋ॑तिम् । प॒रा॒चैः । कृ॒तम् । चि॒त् । एनः॑ । प्र । मु॒मु॒ग्धि॒ । अ॒स्मत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
@@ -133,7 +133,7 @@ popular
 हे राजन् वरुण **ते** तव **शतं** **भिषजः** बन्धनिवारकाणि शतसंख्याकानि औषधानि वैद्या वा सन्ति । **ते** तव **सुमतिः** अस्मदनुग्रहबुद्धिः **उर्वी** विस्तीर्णा **गभीरा** गाम्भीर्योपेता स्थिर **अस्तु** । **निर्ऋतिम्** अस्मदनिष्टकारिणीं निर्ऋतिं पापदेवतां 'पराचैः पराङ्मुखां कृत्वा **दूरे** अस्मत्तो व्यवहिते देशे स्थापयित्वा तां **बाधस्व** । **कृतं** **चित्** अस्माभिरनुष्ठितमपि **एनः** पापम् **अस्मत्** **प्र** **मुमुग्धि** प्रकर्षेण मुक्तं नष्टं कुरु ॥ सुमतिः । ‘तादौ च ' इति पूर्वपदप्रकृतिस्वरत्वे प्राप्ते ' मन्क्तिन' इत्यादिनोत्तरपदान्तोदात्तत्वम् । संहितायां विसर्जनीयसकारस्य । युष्मत्तत्ततक्षुःष्वन्तःपादम् ' ( पा. सू. ८. ३. १०३ ) इति षत्वम् । बाधस्व । ‘बाधृ विलोडने '। शपः पित्त्वादनुदात्तत्वम् । तिङ्श्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । निर्ऋतिम् । तादौ च ' इति गतेः प्रकृतिस्वरत्वम् । मुमुग्धि । 'मुच्लृ मोक्षणे ' ।' बहुलं छन्दसि ' इति श्लुः । ‘हुझल्भ्यो हेर्धिः' (पा. सू. ६. ४. १०१ )। तस्य अपित्त्वेन ङित्त्वाद्गुणाभावः। ‘चोः कुः' (पा. सू. ८. २. ३०) इति कुत्वम्॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ popular
 Nirṛti = deity of sin, **pāpa**-**devatā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A hundred healers are yours, o king, a thousand. Let your favor be  broad and deep.  
 Drive dissolution far away into the distance. Release from us even the  guilt we have created.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A hundred balms are thine, O King, a thousand; deep and wide-reaching also be thy favours.  
      Far from us, far away drive thou Destruction. Put from us e'en the sin we have committed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast, o König, hundert, tausend Ärzte. Weit, unergründlich soll deine Gnade sein. Jage weit in die Ferne die Todesgöttin ! Auch die getane Sünde nimm von uns !
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du hast an hundert, tausend Arzeneien, o König, weit und tief ist deine Güte; Verderben stosse fort in weite Ferne, auch von begangner Sünde mache frei uns,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сотня, о царь, у тебя целебных средств, тысяча.  
 Широким (и) глубоким пусть будет благоволение твое!  

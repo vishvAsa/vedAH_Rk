@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्त꣡ होत्रा꣡णि म꣡नसा वृणाना꣡  
 इ꣡न्वन्तो वि꣡श्वम् प्र꣡ति यन्न् ऋते꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभी꣡मं꣡ यज्ञं꣡ वि꣡ चरन्त पूर्वीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नृ॒ऽपेश॑सः । वि॒दथे॑षु । प्र । जा॒ताः । अ॒भि । इ॒मम् । य॒ज्ञम् । वि । च॒र॒न्त॒ । पू॒र्वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
@@ -127,7 +127,7 @@ genre M
 मनसावृणानाः प्रार्थ्यमानाः ऋतेनउदकेन विश्वंइन्वन्तः प्रीणयन्तः देवाः सप्तहोत्राणि होतॄ णांवषट् कर्तॄणाङ्कर्माणिप्रतियन् प्रतिगच्छन्ति अतःपरन्द्वारंस्तुतिः नृपेशसः नररूपाः विदथेषुयागे षुजाताः उत्पन्नाः पूर्वीर्वह्व्यः विग्रहवत्योयज्ञद्वाराभिमानिन्योदेवताः इममस्मदीयंयज्ञं विचरन्त विचरन्तु ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ genre M
 Deities in sensible shapes: in preceding **sūktas**, the doors of the hall of sacrifice, are the person nifications specified; here, the divinities presiding over the doors are implied
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Choosing in their mind the seven offices of the Hotar, driving everything  onward, they [=the gods] return in accordance with the truth.  
 They wander forth to this sacrifice through the many (Divine Doors),  which have excellent men [=the gods?] as their adornment and which  are born at the ritual distributions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Claiming in mind the seven priests' burntoblations, inciting all, they came in settled order.  
      To this our sacrifice approach the many who show in hero beauty at assemblies.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Choosing in their mind the sevenfold work of the Hotris 2, enlivening everything (the gods) came hither in the right way. (The divine doors 3) with men as their ornaments 4, born at the sacrifices 5, have come hither and thither to this sacrifice, many of them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sieben Priesterämter im Geiste sich ausbittend, alles in Bewegung setzend sollen die Götter in rechter Ordnung wiederkehren. Sie ziehen zu diesem Opfer ein durch die vielen Tore, die Männerfigur haben und bei den Opfern Vorrang bekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sieben Opfer sich mit Lust erwählend, das All belebend gehn sie nach der Ordnung, Im Männerschmuck erquickend sich bei Festen erschienen zahlreich sie zu dieser Feier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мыслью выбирая семь обязанностей хотара,  
 Все вдохновляя, пусть вернутся (боги) в соответствии с законом!  

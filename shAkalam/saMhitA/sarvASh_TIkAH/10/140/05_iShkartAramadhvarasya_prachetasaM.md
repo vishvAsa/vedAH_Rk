@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इष्कर्ता꣡रम् अध्वर꣡स्य प्र꣡चेतसं  
 क्ष꣡यन्तं रा꣡धसो महः꣡  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 द꣡धासि सानसिं꣡ रयि꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 रा॒तिम् । वा॒मस्य॑ । सु॒ऽभगा॑म् । म॒हीम् । इष॑म् । दधा॑सि । सा॒न॒सिम् । र॒यिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣkartāram* ← *iṣkartṛ*
 - \[noun\], accusative, singular, masculine
@@ -97,7 +97,7 @@ genre M
 **इष्कर्तारं** निष्कर्तारम् । छान्दसो वर्णलोपः । **अध्वरस्य** यज्ञस्य निष्कर्तारं संस्कर्तारं **प्रचेतसं** प्रकृष्टज्ञानं **महः** महतः **राधसः** धनस्य **क्षयन्तम्** ईश्वरम् । क्षयतिरैश्वर्यकर्मा । **वामस्य** वननीयस्य धनस्य **रातिं** दातारम् । रातेः कर्तरि क्तिच् । ईदृशं त्वां स्तुम इति शेषः । स त्वं **सुभगां** सौभाग्योपेतां **महीं** महतीम् **इषम्** अन्नं **सानसिं** संभक्तव्यं **रयिं** धनं च **दधासि** स्तोतृभ्यो ददासि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,30 +108,30 @@ genre M
 Or, you bestow wealth upon theperfecter of the sacrifice (the **yajamāna**)...
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You,) the preparer of refreshment for the ceremony, forethoughtful,  holding sway over great benefit, (have they set in front)—  
 you establish the well-portioned gift of a precious thing: great  
 refreshment and wealth that brings gain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him, the wise, who orders sacrifice, who hath great riches un der his control,  
      Thou givest blest award of good, and plenteous food, givest him wealth that conquers all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den vorausdenkenden Ausrichter des Opfers, der über große Belohnung gebietet - du verschaffst die beglückende Gabe von Gut, großen Speisesegen, einträglichen Reichtum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den weisen preis' ich, der das Opfer wohl versieht und über grossen Lohn verfügt, Geschenk des Reichthums gibst du, grossen, lieblichen Genuss und Schatz, der Macht gewinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прозорливого (бога,) приводящего в порядок обряд,  
 Повелевающего великим даром:  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् जागार त꣡म् ऋ꣡चः कामयन्ते  
 अग्नि꣡र् जागार त꣡म् उ सा꣡मानि यन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡वाह꣡म् अस्मि सखिये꣡ नि꣡ओकाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; repeated line
 अ॒ग्निः । जा॒गा॒र॒ । तम् । अ॒यम् । सोमः॑ । आ॒ह॒ । तव॑ । अ॒हम् । अ॒स्मि॒ । स॒ख्ये । निऽओ॑काः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -143,21 +143,21 @@ genre D;; repeated line
 अग्निर्जागारेतिपञ्चदशी पूर्वयैवनिगदितव्याख्या यइत्यस्यस्थाने अग्निरितिविशेषः ॥ १५ ॥अथचतुर्थेनुवाकेद्वादशसूक्तानि तत्रविदादिवइत्येकादशर्चम्प्रथमंसूक्तं सदापृणोनामात्रेयऋषिः त्रिष्टुप् छन्दः वैतदित्युक्तत्वादि -दमपिवैश्वदेवं विदाएकादशसदापृणइत्यनुक्रमणीका विनियोगोलैङ्गिकः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** is ever vigilant, and him holy verses desire; Agni is ever vigilant, and to him sacred songs proceed; Agni is ever vigilant, and him the **Soma** addresses, I am ever abiding in your fellowship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni stays awake: him the verses desire. Agni stays awake: to him go the  melodies.  
 Agni stays awake: to him does this Soma say, “I am at home in  
 fellowship with you.”
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/044/14-15.md">
 <details open><summary><h2>14-15 ...{Loading}...</h2></summary>
 
@@ -169,23 +169,23 @@ Rather the final word is found in the last pāda of both vss., the direct addres
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni is watchful, and the gcas love him; Agni is watchful, Sama verses seek him.  
      Agni is watchful, to him saith this Soma, I rest and have my dwelling in thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni ist wach geblieben, ihn lieben die Rikverse; Agni ist wach geblieben, zu ihm kommen die Sangesweisen. Agni ist wach geblieben, zu ihm spricht dieser Soma: "In deiner Freundschaft fühle ich mich heimisch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni ist wach, ihn lieben die Gebete, Agni ist wach, ihm strömen zu die Lieder, Agni ist wach, zu ihm spricht dieser Soma: ] An deiner Freundschaft habe ich Gefallen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни бодрствует, его любят гимны.  
 Агни бодрствует, к нему идут и мелодии.  

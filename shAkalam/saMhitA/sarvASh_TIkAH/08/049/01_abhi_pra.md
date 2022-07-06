@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ प्र꣡ वः सुरा꣡धसम्  
 इ꣡न्द्रम् अर्च य꣡था विदे꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सह꣡स्रेणेव शि꣡क्षति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यः । ज॒रि॒तृऽभ्यः॑ । म॒घऽवा॑ । पु॒रु॒ऽवसुः॑ । स॒हस्रे॑णऽइव । शिक्ष॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -107,29 +107,29 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I would praise to you the bounteous **Indra** as is fit, the wealth- abounding **Maghavan**, who loves to helpwith thousandfold treasure those who praise him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chant forth to Indra, the very generous, in the way that is known— who as a bounteous one possessing many goods—by the thousands, as it  were—exerts himself for you singers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stimmt euer Lied auf den freigebigen Indra an, wie er bekannt ist, der wie ein schätzereicher Freigebiger mit tausend Kühen den Sängern gern zu Diensten steht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra will ich preisen euch, der vieles schenkt nach seiner Art, Den mächtigen, der seine Sänger reich an Gut mit tausenfachem Schatz erfreut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспой, как полагается,  
 Вашего Индру, раздающего дары,  

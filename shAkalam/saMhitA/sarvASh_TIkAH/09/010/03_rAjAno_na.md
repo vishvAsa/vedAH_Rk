@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡जानो न꣡ प्र꣡शस्तिभिः  
 सो꣡मासो गो꣡भिर् अञ्जते  
 यज्ञो꣡ न꣡ सप्त꣡ धातृ꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 य॒ज्ञः । न । स॒प्त । धा॒तृऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rājāno* ← *rājānaḥ* ← *rājan*
 - \[noun\], nominative, plural, masculine
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सोमासः** सोमाः **प्रशस्तिभिः** प्रशस्ताभिः स्तुतिरूपाभिर्वाग्भिः **राजानो** **न** यथा राजानः **सप्त** **धातृभिः** सप्त होत्राभिः **यज्ञो** **न** यथा च यज्ञस्तथा **गोभिः** गोविकारैः पयोभिः **अञ्जते** अज्यन्ते । संस्क्रियन्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The libations are anointed with milk as kings with praises, and (tended) as a sacrifice by seven priests.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like kings by encomia, the soma juices are anointed with cows,  
 like the sacrifice by its seven ordainers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains a simile embedded, as it were, in a metaphor: kings are only metaphorically “anointed” (that is, decorated, adorned) with praises; the soma juices are somewhat less metaphorically “anointed,” since “the cows” are actually milk, which is liquid enough to anoint.
 
@@ -102,23 +102,23 @@ In c the poet seems silently to switch instrumental functions, while holding the
 The relationship between kings and the genre of práśasti-, which I discuss in my RV between Two Worlds (pp. 146-48), is very clear here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Somas deck themselves with milk, as Kings are graced with eulogies,  
      And, with seven priests, the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Könige mit Lobreden werden die Somatränke mit Milch gesalbt, heraus-gestrichen, wie das Opfer von den sieben Vollziehern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Soma's schmücken sich mit Milch, wie Könige mit Herrlichkeit, Wie sieben Opferer das Fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как цари (украшаются) славословиями,  
 Соки сомы умащаются коровьим молоком,  

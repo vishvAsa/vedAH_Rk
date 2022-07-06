@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ प्रिया꣡णि पवते पुनानो꣡  
 देवो꣡ देवा꣡न् स्वे꣡न र꣡सेन पृञ्च꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡श क्षि꣡पो अव्यत सा꣡नो अ꣡व्ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्दुः॑ । धर्मा॑णि । ऋ॒तु॒ऽथा । वसा॑नः । दश॑ । क्षिपः॑ । अ॒व्य॒त॒ । सानौ॑ । अव्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -122,20 +122,20 @@ genre M
 प्रियाणि प्रीणयितॄणि धर्माणि धारकाणि तेजांसि ऋतुथा कालेकाले वसान् आच्छा- दयन् इन्दुः सोमः पुनानः पूयमानः सन् अभिपवते कलशानभिलक्ष्य क्षरति । कीदृशः देवः सङ्क्रीडनशीलः स्वेन आत्मीयेनरसेन देवानिन्द्रादीन् पृञ्चन् सम्पर्चयन् संयोजयन् तमिमं दश दशसङ्ख्याकाः क्षिपः अङ्गुलिनामैतत् कर्मार्थं प्रेर्यन्तइति तत्सङ्ख्याकाअङ्गुलयः सानौ समुच्छ्रिते अव्ये अविभवेपवित्रे अव्यत गमयन्ति यद्वा अत्र पवित्रे पूयमानंसोमं अव्यत गच्छन्ति वीगत्यादिषु लङिव्यत्ययेनात्मनेपदं ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Clothed in plural asant radiance suited to the season, the sportive **Indu** flows purified, reaching the gods with its juice; the ten fingers guide it to the elevated fleece.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He purifies himself toward his own dear (tracks?), while being purified,  the god infusing the gods with his own sap.  
 The drop, clothing himself in his foundations according to the ritual order,  has enwrapped himself in the ten fingers on the back of the sheep.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda is alliterative: … priyā́ṇi pavate punānáḥ, while opening of the 2nd is an etymological figure that matches the one opening 11d.
 
@@ -157,23 +157,23 @@ All three vss. contain a hemistich beginning índuḥ (10a, 11c, 12c); the verb 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As he is purified he pours out treasures, a God bedewing Gods with his own juices.  
      Indu hath, wearing qualities by seasons, on the raised fleece engaged, the ten swift fingers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Geläuterte läutert sich für seine lieben Namen, der Gott, indem er die Götter mit seinem würzigen Nasse tränkt. Der Saft nimmt zu den rechten Zeiten seine Eigenschaften an; er hat sich auf dem Schafrücken in die zehn Finger eingehüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dem erwünschten rieselt er gereinigt, der Gott mit seinem Saft die Götter füllend, Zur rechten Zeit schlüpft Indu zu den Bräuchen und den zehn Fingern auf der Wolle Gipfel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь, он очищает (нам) приятные (дары),  
 Бог, наполняющий богов своим соком,  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡षे मन्त्रकृ꣡तां स्तो꣡मैः  
 क꣡श्यपोद्वर्ध꣡यन् गि꣡रः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 सोम॑म् । न॒म॒स्य॒ । राजा॑नम् । यः । ज॒ज्ञे । वी॒रुधा॑म् । पतिः॑ । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛṣe* ← *ṛṣi*
 - \[noun\], vocative, singular, masculine
@@ -123,42 +123,42 @@ popular;; epic anuṣṭubh (525);; repeated line
 ऋषिः स्वात्मानं प्रत्याह । हे **ऋषे** सूक्तद्रष्टर्हे **कश्यप** आत्मन् त्वं **मन्त्रकृतां** ऋषीणां **स्तोमैः** स्तोत्रैः **गिरः** स्तुतिरूपा वाचः **उद्वर्धयन्** उपर्युपरि वर्धयन् **राजानं** सर्वेषां स्वामिनं तं **सोमं** **नमस्य** पूजयः। नमसः पूजयां 'नमोवरिव' इति क्यच् । **यः** सोमः **वीरुधां** वनस्पतीनां पतिः पालकः **जज्ञे** जातः तं नमस्य । हे सोम यथात्मना सुतो भवसि तथा परि स्रव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Ṛṣi **Kaśyapa**, raising your voice with the praises of the hymn-makers, adore the royal **Soma** who is born the lord of the growing (vīrūdhām); flow, **Indu**, for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O seer Kaśyapa, strengthening up your songs with the praises of the  mantra-makers,  
 do homage to Soma the king, who was born as the lord of plants.  
 – O drop, flow around for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Anukr. ascribes this hymn to Kaśyapa Mārica, along with the previous one (IX.113), along with several others in IX and a few in other maṇḍalas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Kasyapa, Rsi, lifting up thy voice with hymn-composers' lauds,  
      Pav reverence to King Soma born the Sovran Ruler of the plants. Flow, Indu, flow for Indra's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Rishi Kasyapa, deine Lobreden durch der Liederdichter Lobgesänge noch vermehrend, huldige du dem König Soma, der als der Pflanzenherr geboren ward! Fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Dichter Kaçjapa [nach der Ueberlieferung, die aber ausser an dieser Stelle nirgends eine Unterstützung findet, der Dichter vieler Lieder dieses Buchs], durch die Lobgesänge der Spruchdichter die Lieder vermehrend, verehre den König Soma, welcher erzeugt ist als der Herr der Gewächse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О риши, усиливающий хвалебные песни  
 Прославлениями создателей стихов, о Кашьяпа,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मर्मृजान꣡ इन्द्रिया꣡य धा꣡यस  
 ओ꣡भे꣡ अन्ता꣡ रो꣡दसी हर्षते हितः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आदे꣡दिशानः शर्यहे꣡व शुरु꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वृषा॑ । शुष्मे॑ण । बा॒ध॒ते॒ । वि । दुः॒ऽम॒तीः । आ॒देदि॑शानः । श॒र्य॒हाऽइ॑व । शु॒रुधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -115,7 +115,7 @@ genre M
 **मर्मृजानः** पवित्रेण मृज्यमानः **सः** पवमानः **धायसे** जगतो धारकाय **इन्द्रियाय** इन्द्रस्य पर्याप्ताय बलाय तदर्थम् **उभे** **रोदसी**। ‘ कालाध्वनोः' इति द्वितीया । उभयोः द्यावापृथिव्योः **अन्तः** **हितः** मध्ये वर्तमानः सन् **आ** **हर्षते** सर्वतो गच्छति । इन्द्रस्य हि सोमेन बलं भवति । **वृषा** कामानामुदकानां वा वर्षकः सोऽयं **शुष्मेण** शोषकेण बलेन **दुर्मतीः** दुष्टबुद्धीनसुरान् **वि** **बाधते** विशेषेण पीडयति । किं कुर्वन् । **शुरुधः** । शुचा रुन्धन्ति परानिति । पृषोदरादिः । दुःखकारिणोऽसुरान् **आदेदिशानः** पुनःपुनराह्वयन् हन्ति । तत्र दृष्टान्तः। **शर्यहेव** । हननसाधनैः इषुभिर्हन्ता वीरः प्रतिभटान् यथा हिनस्ति तद्वत् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ Asuras: śurudhaḥ = **śucā** rundhanti parān, they avert painfrom others;
 Śarya = an arrow, paṇaiḥ śatrūṇām **hantā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Constantly being groomed, propelled between the two worlds-halves, he  is roused to give suck to Indra.  
 With his blustering the bull thrusts away evil thoughts, always setting his  sights, like a sharpshooter, on rich spoils.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, while he is adorned to stream forth mighty strength, rejoices in his place between the earth and heaven.  
      The Steer dispels the evil-hearted with his might, aiming at offerings as an archer at the game.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geputzt, um die indrische Kraft zu laben, wird er kampflustig, zwischen beiden Welten angespornt. Der Bulle vertreibt mit Wut die Feindseligen, wie ein Pfeilkämpfer auf die Gewinne abzielend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn für den Indra er zum Trunk gereinigt ist, so jubelt zwischen Erd' und Himmel er gesandt, Es jagt der Stier mit Kraft die Bösgesinnten fort, hinzielend wie ein Schütze auf die Kriegerschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мощно начищаемый для удовлетворения Индры,  
 Он (радостно) возбуждается, помещенный между обоими мирами.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वं꣡स्वा नो वा꣡रिया पुरु꣡  
 वं꣡स्व रायः꣡ पुरुस्पृ꣡हः  
 सुवी꣡र्यस्य प्रजा꣡वतो य꣡शस्वतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सु॒ऽवीर्य॑स्य । प्र॒जाऽव॑तः । यश॑स्वतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaṃsvā* ← *vaṃsva* ← *van*
 - \[verb\], singular, Aorist imperative
@@ -84,41 +84,41 @@ genre M
 हे अग्ने **वार्या** वार्याणि वरणीयानि **पुरु** पुरूणि बहूनि गवादीनि **नः** अस्मभ्यं **वंस्व** प्रयच्छ । तथा **पुरुस्पृहः** पुरुभिर्बहुभिः स्पृहणीयं **रायः** धनम्। किंविशिष्टम् । **सुवीर्यस्य** शोभनवीर्योपेतं **प्रजावतः** पुत्रपौत्रादिसहितं **यशस्वतः** कीर्तिमच्च धनं नोऽस्मभ्यं **वंस्व** प्रयच्छ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant us (**Agni**) many desirable (things), grant us riches, envied by many, (comprehending) vigour,offspring, fame.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Win for us many desirable things. Win of the wealth eagerly sought  by many—  
 accompanied by good heroes, offspring, and glory.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am not happy with the partitive gen. with √van in cd, but I do not see any way out of it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Grant us abundant. treasures, grant the opulence which many crave,  
      With store of heroes, progeny, and high renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erwirk uns viele begehrenswerte Dinge, erwirke vielbeneideten Reichtum an guten Söhnen und Meistern, an Kindern, an Ansehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O schenke viele Schätze uns, o schenk uns vielbegehrtes Gut, Und kinderreiche Heldenschar, sehr glänzende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Добудь нам много избранных даров,  
 Добудь богатства многожеланного,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चित्र꣡ इ꣡च् छि꣡शोस् त꣡रुणस्य वक्ष꣡थो  
 न꣡ यो꣡ मात꣡राव् अपिए꣡ति धा꣡तवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वव꣡क्ष सद्यो꣡ म꣡हि दूति꣡यं च꣡रन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒नू॒धाः । यदि॑ । जीज॑नत् । अध॑ । च॒ । नु । व॒वक्ष॑ । स॒द्यः । महि॑ । दू॒त्य॑म् । चर॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *citra* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
@@ -130,7 +130,7 @@ genre M
 **शिशोः** शिशुभूतस्य अत एव **तरुणस्य** नूतनस्याग्नेः **वक्षथः** । वक्षेरौणादिकोऽथप्रत्ययः ॥ हविर्वहनं **चित्र** **इत्** आश्चर्यभूतमेव **यः** जातोऽग्निः **मातरौ** सर्वस्य निर्मात्र्यौ मातृपितृभूते द्यावापृथिव्यावरण्यौ वा **धातवे** **न** **अप्येति** ॥ ‘ धेट् पाने'। तुमर्थे तवेन्प्रत्ययः ॥ स्तनपानायापि न गच्छति ॥ ‘ इण् गतौ'। लट्युपसर्गेण समासः । ‘तिङि चोदात्तवति ' इति गतेर्निघातः ॥ **अनूधाः** ॥ नञ्बहुव्रीहिः । समासान्तस्यानङः स्त्रियामिष्टत्वादत्रानभावः ( पा. सू. ५.४.१३१) । प्रत्येकविवक्षयैकवचनम् ॥ ऊधोहितोऽयं लोकोऽसौ लोकश्चैनमग्निं **यदि** **जीजनत्** अजीजनत अजनयत् । तर्हि स्तनपानाय न गच्छतीति युक्तम् । तथा न भवति । किंतु द्यावापृथिव्यौ सर्वेषां कामदुघे खलु । तथापि न याति । तस्मादस्य हविर्वहनं चित्रम्। **अध** **च** उत्पत्त्यनन्तरमेव **नु** अद्य अस्मिन् दिने **सद्यः** तदानीमेव शीघ्रं **महि** महत् **दूत्यम्** ॥ ‘ दूतस्य भागकर्मणी ' ( पा. सू. ४. ४. १२०) इति कर्मणि यत्प्रत्ययः ॥ दूतकर्म **चरन्**  **ववक्ष** । देवान् प्रति हवींषि वहति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 His parents: heaven and earth, or the two sticks for kindling fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Brilliant is the waxing of the tender babe, though he does not approach  his two mothers to suck.  
 When the udderless one has begotten him, even then has he waxed  strong in an instant, undertaking a great mission.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 VERILY wondrous is the tender Youngling's growth who never draweth nigh to drink his Mothers' milk.  
      As soon as she who hath no udder bore him, he, faring on his great errand, suddenly grew strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gar wunderbar ist des zarten Kindes Wachstum, das nicht zu seinen beiden Müttern kommt, um zu saugen. Wenn die Euterlose geboren hat, dann ist er auch alsbald erwachsen, um sofort den großen Botengang zu gehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erstaunlich ist des zarten Kalbes Wachsthum doch, das nicht zum Saugen zu den Mutterkühen eilt; Wenn ihn die euterlose nun geboren hat, erwächst er schnell und geht auf grosse Botschaft aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как ярок рост нежного дитяти,  
 Который не подходит к двум (своим) матерям, чтобы пососать!  

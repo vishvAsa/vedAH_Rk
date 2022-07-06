@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡ ईं वि꣡अक्ता न꣡रः स꣡नीळा  
 रुद्र꣡स्य म꣡र्या अ꣡ध सुअ꣡श्वाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 के । ई॒म् । विऽअ॑क्ताः । नरः॑ । सऽनी॑ळाः । रु॒द्रस्य॑ । मर्याः॑ । अध॑ । सु॒ऽअश्वाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ka* ← *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
@@ -75,20 +75,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **व्यक्ताः** कान्तियुक्ताः **नरः** नेतारः **सनीळाः** समानौकसः **रुद्रस्य** महादेवस्य पुत्राः **मर्याः** मर्येभ्यो नृभ्यो हिताः **अध** अपि च **स्वश्वाः** शोभनवाहाः **ईम्** इमे एवंभूताः **के** भवन्तीति रूपातिशयादृषिराश्चर्येणाह ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who are these resplendent chiefs, the dwellers in one abode, the sons of **Rudra**, friends of man, atpresent well-mounted?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, separately, are these anointed superior men who belong to the  same nest—  
 the young bloods of Rudra, possessing good horses?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes cd to be the answer to the question in ab, but since vs. 2 seems more directly responsive to the question, I take cd here as simply further specification of the subject of the question.
 
@@ -105,22 +105,22 @@ in adverbial usage. There are obviously weaknesses in every link in this chain o
 However, a poet intent on packing a pun into vyàktā(s) might not scruple to use unusual forms to achieve it, and elsewhere in the RV puns sometimes ignore accentuation for their 2nd reading. In slight support of the suggestion, we might note that this set of hymns has one other ex. of the instr. of such a stem in adverbial usage:
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wno are these radiant men in serried rank, Rudra's young heroes borne by noble steeds?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer sind die aufgeputzten gleichbürtigen Mannen? Die Jünglinge des Rudra und gute Reiter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer sind die schönen – vereinten Männer, Des Rudra Mannen – mit schönen Rossen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто же (эти) украшенные мужи из одного гнезда,  
 Молодые люди Рудры, к тому же с прекрасными конями?

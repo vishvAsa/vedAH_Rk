@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡च् छुश्रूया꣡ इमं꣡ ह꣡वं  
 दुर्म꣡र्षं चक्रिया उत꣡  
 भ꣡वेर् आपि꣡र् नो अ꣡न्तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 भवेः॑ । आ॒पिः । नः॒ । अन्त॑मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yacchuśrūyā* ← *yat*
 - \[adverb\]
@@ -92,43 +92,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **यत्** यदि **इमम्** अस्मदीयं **हवम्** आह्वानं **शुश्रुयाः** शृणुयाः तर्हि **दुर्मर्षं** शत्रूणां दुःसहं बलं **चक्रियाः** कुर्याः । **उत** अपि च **नः** अस्माकम् **अन्तमः** अन्तिकतमः **आपिः** बन्धुः **भवेः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “If you hear this our prayer, then display your invincible power and be our nearest kinsman.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you should hear this call here, you should do (a deed) difficult to  forget, and then  
 you would become our most intimate friend.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas contain two perfect optatives: śuśrūyā́ḥ and cakriyā́ḥ.
 
 On the surprising dominance of perfect optatives in the RV, see Jamison 2009.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou hast listened, make our call one which thou never wilt forget,  
      And be our very nearest Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du auf diesen Ruf hörtest, so tätest du etwas, was gar nicht zu vergessen ist, und du würdest unser bester Freund sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Damit du hörest unsern Ruf und dir ihn unvergesslich machst; So sei denn unser nächster Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если б ты услышал этот зов,  
 То сделал бы (что-нибудь) трудно забываемое,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋता꣡वाना नि꣡ षेदतुः  
 सा꣡म्राजियाय सुक्र꣡तू  
 धृत꣡व्रता क्षत्रि꣡या क्षत्र꣡म् आशतुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 धृ॒तऽव्र॑ता । क्ष॒त्रिया॑ । क्ष॒त्रम् । आ॒श॒तुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtāvānā* ← *ṛtāvan*
 - \[noun\], nominative, dual, masculine
@@ -87,7 +87,7 @@ genre M
 **ऋतावाना** ऋतावानौ सत्यवन्तौ **सुक्रतू** शोभनकर्माणौ सुप्रज्ञौ वा मित्रावरुणौ **साम्राज्याय** साम्राज्यार्थं **नि** **षेदतुः** न्यसीदताम् । तथा मन्त्रः --- नि षसाद धृतव्रतो वरुणः पस्त्यास्वा साम्राज्याय सुक्रतुः' (ऋ. सं. १. २५. १०) इति । **धृतव्रता** धृतव्रतौ धृतकर्माणौ **क्षत्रिया** क्षत्रियौ बलवन्तौ **क्षत्रं** बलम् **आशतुः** आनशाते व्याप्नुत इत्यर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,13 +98,13 @@ genre M
 Vigour: **kṣatriyā** kṣatram āśatuḥ = balavantau balamvyāpnutaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Truth-possessing, strong-willed, the two took their place for sovereign  kingship.  
 Their commandments upheld, the rulers attained their rule.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ Both these verses have a subject / VP construction that’s an etymological figu
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They, true to Law, exceeding strong, have sat them down for savran rule:  
      Princes whose laws stand fast, they have obtained their sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden gesetzhegenden Weisen haben sich zur Ausübung der Allherrschaft niedergesetzt, die Einsichtsvollen. Die Gebote aufrecht haltend haben die zwei Herrscher die Herrschaft inne;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Weltregierung setzten sich die weisen, die gerechten hin, Die Herrscher haben Recht beschirmend Macht erlangt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Уселись двое преданных закону  
 Для высшего господства, (они) с прекрасной силой духа.  

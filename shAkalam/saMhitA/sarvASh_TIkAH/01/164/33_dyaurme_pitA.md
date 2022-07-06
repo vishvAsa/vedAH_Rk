@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्यउ꣡र् मे पिता꣡ जनिता꣡ ना꣡भिर् अ꣡त्र  
 ब꣡न्धुर् मे माता꣡ पृथिवी꣡ मही꣡य꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡त्रा पिता꣡ दुहितु꣡र् ग꣡र्भम् आ꣡धात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒त्ता॒नयोः॑ । च॒म्वोः॑ । योनिः॑ । अ॒न्तः । अत्र॑ । पि॒ता । दु॒हि॒तुः । गर्भ॑म् । आ । अ॒धा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ popular
 दीर्घतमा ब्रवीति । **मे** मम **द्यौः** द्युलोकः **पिता** पालकः । न केवलं पालकत्वमात्रं अपि तु **जनिता** जनयितोत्पादयिता । तत्रोपपत्तिमाह । **नाभिरत्र** नाभिभूतो भौमो रसोऽत्र तिष्ठतीति शेषः । ततश्चान्नं जायते अन्नाद्रेतः रेतसो मनुष्य इत्येवं पारंपर्येण जननसंबन्धिनो हेतोः रसस्यात्र सद्भावात् । अनेनैवाभिप्रायेण जनितेत्युच्यते । अत एव **बन्धुः** बन्धिका । तथा **इयं** **मही** महती **पृथिवी** **मे** **माता** मातृस्थानीया स्वोद्भूतौषध्यादिनिर्मात्रीत्यर्थः । किंच **उत्तानयोः** ऊर्ध्वतानयोः **चम्वोः** सर्वस्य अत्त्र्योः भोगसाधनयोर्द्यावापृथिव्योः **अन्तः** मध्ये **योनिः** सर्वभूतनिर्माणाश्रयमन्तरिक्षं वर्तते इति शेषः । **अत्र** अस्मिन्नन्तरिक्षे **पिता** द्युलोकः । अधिष्ठात्रधिष्ठानयोः अभेदेन आदित्यो द्यौरुच्यते। स स्वरश्मिभिः । अथवा इन्द्रः पर्जन्यो वा । **दुहितुः** दूरे निहिताया भूम्याः **गर्भं** सर्वोत्पादनसमर्थं वृष्ट्युदकलक्षणम् **आधात्** सर्वतः करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ My parent: nābhir atra **bandhu**: **nābhi** is related to me **pitā** **jani
 **Bandhuḥ** = bandhikā, binding or supporting; this word is an epithet of **pṛthivī**, the earth; two uplifted ladles: uttānayos' camvor yonir antar: the uplifted ladles are heaven and earth, and the womb of all beings between them is the firmament, the region of the rain; the parent has deposited: the father, the heaven, may be regarded as identical with either **Āditya** or **Indra**; the daughter is the earth, whose fertility depends upon the rain deposited as a germ in the firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [The Sun:] “My father, my progenitor, is Heaven; here is my navel. My  mother, this great Earth, is my relation.  
 My womb is within the two open cups [=Heaven and Earth]. Here my  father placed the child [=the Sun] of his daughter [=Dawn].”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dyaus is my Father, my begetter: kinship is here. This great earth is my kin and Mother.  
      Between the wide-spread world-halves is the birth-place: the Father laid the Daughter's germ within it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Himmel ist mein Vater, der Erzeuger, dort ist mein Nabel. Diese große Erde ist meine Sippe, die Mutter. In diesen hat der Vater die Leibesfrucht der Tochter gelegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Der Himmel ist mein Vater und Erzeuger, dort ist mein Ursprung, meine Mutter und Verwandte ist diese weite Erde; zwischen den beiden weit ausgedehnten Weltschalen ist der Schooss [der mich getragen hat], dorthin setzte der Vater die Leibesfrucht der Tochter.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Небо – отец мой, родитель. Там (мой) пуп.  
 Родня моя, мать – эта великая земля.  

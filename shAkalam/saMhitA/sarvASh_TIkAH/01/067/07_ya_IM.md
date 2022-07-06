@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ईं चिके꣡त गु꣡हा भ꣡वन्तम्  
 आ꣡ यः꣡ ससा꣡द धा꣡राम् ऋत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 यः । ई॒म् । चि॒केत॑ । गुहा॑ । भव॑न्तम् । आ । यः । स॒साद॑ । धारा॑म् । ऋ॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -79,20 +79,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “\[7-8\] He who knows **Agni** hidden in the hollows; he who approaches him as the maintainer of truth; those who, performing worship, repeat his praises, to them assuredly he promises affluence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who perceives him gone into hiding,  
 and who has taken his seat at the stream of truth—
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/067/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -104,27 +104,27 @@ clauses have singular rel. pronouns (yáḥ 71, 7c) and the pronoun in the main 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 य ईं॑ चि॒केत॒ गुहा॒ भव॑न्त॒मा यः स॒साद॒ धारा॑मृ॒तस्य॑ ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who has seen him the hidden one, he who has got near to the stream of Rita 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer ihn entdeckt hat, da er sich versteckt hielt, wer zum Strom der Wahrheit gelangt ist
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer ihn erblickte, – der im Versteck lag, wer auf den Strom sich – des Opfers setzte, Und die ihn lösen – der Bräuche wartend, für die hat Güter – er stets verkündet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ सु꣡ तु꣡भ्यं वरुण स्वधावो  
 हृदि꣡ स्तो꣡म उ꣡पश्रितश् चिद् अस्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 शम् । नः॒ । क्षेमे॑ । शम् । ऊं॒ इति॑ । योगे॑ । नः॒ । अ॒स्तु॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -142,37 +142,37 @@ genre M;; repeated line
 हे स्वधावः अन्नवन्वरुण तुभ्यं त्वदर्थं क्रियमाणः अयं एतत्सूक्तात्मकः स्तोमः स्तोत्रं त्दृदि त्वदीये हृदये सु सुष्ठु उपश्रितः उपगतः समवे- तेस्तु चिदितिपूरकः अप्राप्तस्य प्रापणं योगः प्राप्तस्य रक्षणं क्षेमः नोस्मदीये क्षेमे रक्षणे शं उपद्रवाणांशमनमस्तु योगेच नोस्मदीये प्रापणे शमु शमनमेवास्तु उपद्रवाणां हे वरुणादयोदेवाः यूयं नोस्मान्सर्वदा स्वस्तिभिरविनाशैः पात रक्षत ॥ ८ ॥रदत्पथइति स्प्तर्चं सप्तदशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वारुणं अनुक्रान्तञ्च-रदत्सप्तेति । गतोविनियोगः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this laudation, food-conferring **Varuṇa**, be taken to your heart; may success be ours in retainingwhat we have, and in acquiring more; and do you, (deities), ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This praise song is for you, Varuṇa, you who are of independent will: let  it be set within your heart.  
 Let there be good fortune in peaceful settlement for us and let there  
 be good fortune in war for us. – Do you protect us always with your  blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Lord, O Varuna, may this laudation come close to thed and lie within thy spirit.  
      May it be well with us in rest and labour. Preserve us ever-more, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses Loblied soll dir fein, du eigenmächtiger Varuna, recht ans Herz gelegt sein. Glück werde uns im Frieden, Glück auf der Kriegsfahrt! Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es möge dies mein Loblied, o gewalt'ger, o Varuna, so recht ans Herz dir dringen; Heil sei beim Ruhn uns, Heil uns bei der Arbeit. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта хвала, о Варуна самосущий,  
 Да ляжет тебе прямо на сердце!  

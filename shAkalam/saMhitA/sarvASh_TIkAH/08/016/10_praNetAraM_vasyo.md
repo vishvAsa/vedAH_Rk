@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रणेता꣡रं व꣡स्यो अ꣡छा  
 क꣡र्तारं ज्यो꣡तिः सम꣡त्सु  
 सासह्वां꣡सं युधा꣡मि꣡त्रान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 स॒स॒ह्वांस॑म् । यु॒धा । अ॒मित्रा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *praṇetāraṃ* ← *praṇetāram* ← *praṇetṛ*
 - \[noun\], accusative, singular, masculine
@@ -75,7 +75,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **वस्यः** वसीयः प्रशस्तं वसु धनम् **अच्छ** आभिमुख्येन **प्रणेतारं** प्रापयितारं **समत्सु** संग्रामेषु शत्रुनिरसनेन **ज्योतिः** प्रकाशं जयलक्षणं **कर्तारं** करणशीलम् । करोतेस्ताच्छीलिकस्तृन् । कुत इत्यत आह । **युधा** युद्धेन **अमित्रान्** शत्रून् **ससह्वांसम्** अभिभूतवन्तम् । एवंगुणकमिन्द्रं वर्धयन्तीति शेषः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -86,29 +86,29 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Or, by his weapon, āyudhena
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The leader to a better state, the creator of light in combats,  
 conquering foes in battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who advances them to wealth, sends light to lead them in the war,  
      And quells their foemen in the fray.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der zum Glück führt, der in den Schlachten Licht schafft, der im Kampfe die Feinde bezwingt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der zu bestem Gute leitet, Glanz und Glück verschafft in Schlachten Und im Kampf besiegt die Feinde,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Того,) кто ведет к добру,  
 Создает свет в сражениях,  

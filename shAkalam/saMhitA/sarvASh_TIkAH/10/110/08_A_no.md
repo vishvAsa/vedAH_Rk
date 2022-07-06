@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो यज्ञ꣡म् भा꣡रती तू꣡यम् एतु  
 इ꣡ळा मनुष्व꣡द् इह꣡ चेत꣡यन्ती  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡रस्वती सुअ꣡पसः सदन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ति॒स्रः । दे॒वीः । ब॒र्हिः । आ । इ॒दम् । स्यो॒नम् । सर॑स्वती । सु॒ऽअप॑सः । स॒द॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,36 +123,36 @@ genre M
 **भारती** । भरत आदित्यः । तस्य स्वभूता दीप्तिः । तस्येदम् ' इत्यर्थे उत्सादित्वादञ् (पा. सू. ४. १. ८६ )।  ‘ टिड्ढाणञ् ' इति ङीप् । **नः** अस्मदीयं **यज्ञं** तूयं ' क्षिप्रम् **आ** **एतु** आगच्छतु । तथा **मनुष्वत्** मनुष्यो यथा इदं मया कर्तव्यमिति जानाति तद्वत् **चेतयन्ती** जानाना **इळा** देवी च **इह** अस्मिन् कर्मण्यागच्छतु । तथा **सरस्वती** च । **स्वपसः** सुकर्माणः । अप इति कर्मनाम ॥ आप्नोतेरसुनि आपः कर्माख्यायां ह्रस्वः । बहुव्रीहौ 'आद्युदात्तं द्व्यच्छन्दसि ' इत्युत्तरपदाद्युदात्तत्वम् ॥ एताः **तिस्रो** **देवीः** देव्यः **स्योनं** सुखकरम् **इदं** **बर्हिः** इमं यज्ञम् **आ** **सदन्तु** आसीदन्तु प्राप्नुवन्तु ॥ सदेर्लोटि सीदादेशाभावश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Bhāratī** come quickly to our sacrifice, and Iḷā thinking (of what she has to do), like a humanbeing; may **Sarasvatī** also-- the three gracious goddesses, sit down upon this plural asant sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Bharatī come straightaway to our sacrifice, and Iḍā, making (us)  perceive here [=instructing us] as she did Manu.  
 Let the three goddesses, (those two and) Sarasvatī, the good workers, sit  here on this ritual grass, a comfortable place.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let Bharati come quickly to our worship, and Ila showing like a human being.  
      So let Sarasvati and both her fellows, deft Goddesses, on this fair grass be seated.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu unserem Opfer soll eilig die Bharati kommen, Ila wie bei Manu hier belehrend; sie und Sarasvati, die drei kunstfertigen Göttinnen sollen sich auf dieses bequeme Barhis setzen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schnell komme Bhāratī zu unserm Opfer und Iḍā hier nach Menschen Art erscheinend, Sarasvatī, die drei Göttinnen mögen sich hülfreich setzen auf die weiche Streu hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть быстро придет на наше жертвоприношение Бхарати,  
 (А также) Ида, проявляющая себя здесь, как при Манусе!  

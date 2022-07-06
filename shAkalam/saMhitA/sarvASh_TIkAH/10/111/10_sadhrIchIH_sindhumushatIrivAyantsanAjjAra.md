@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सध्री꣡चीः सि꣡न्धुम् उशती꣡र् इवायन्  
 सना꣡ज् जार꣡ आरितः꣡ पूर्भि꣡द् आसाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ जग्मुः सूनृ꣡ता इन्द्र पूर्वीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अस्त॑म् । आ । ते॒ । पार्थि॑वा । वसू॑नि । अ॒स्मे इति॑ । ज॒ग्मुः॒ । सू॒नृताः॑ । इ॒न्द्र॒ । पू॒र्वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sadhrīcīḥ* ← *sadhryañc*
 - \[noun\], nominative, plural, feminine
@@ -123,37 +123,37 @@ genre M
 **सध्रीचीः** ॥  ‘ सहस्य सध्रिः' इति सध्रीत्यादेशः ।  ‘ अञ्चतेश्चोपसंख्यानम्' इति ङीप् । अलोपदीर्घौ। ' वा छन्दसि' इति पूर्वसवर्णदीर्घः ॥ सहाञ्चनाः सहगमना आपः **सिन्धुं** समुद्रं भर्तारम् **आयन्** आगच्छन् । तत्र दृष्टान्तः । **उशतीरिव** यथा कामयमानाः स्त्रियः स्वपतिमभिगच्छन्ति तद्वत् । **जारः** शत्रूणां जारयिता **पूर्भित्** इन्द्रः **सनात्** चिरादेव **आसाम्** अपाम् **आरितः** प्रेरकत्वेन स्वामी भवति । हे **इन्द्र** **अस्मे** अस्माकं स्वभूतानि **पार्थिवा** पार्थिवानि **वसूनि** धनवत्प्रीणयितॄणि हवींषि **पूर्वीः** बह्व्यः **सूनृताः** वाचः स्तुतिलक्षणाश्च **ते** त्वदीयम् **अस्तं** गृहम् **आ** **जग्मुः** आगच्छन्तु । यद्वा अस्मदीयाः स्तुतयस्ते गृहं गच्छन्तु । अस्माकं गृहं त्वदीयानि पार्थिवानि धनान्यभिगच्छन्तु ॥ गमेश्छन्दसि सार्वकालिको लिट् ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They hasten associated together to the ocean, like loving wives (to a husband); (**Indra**), the witherer offoes, the demolisher of cities, is their impeller of old; may our oblations, the treasures of earth, and our copiouspraises, proceed, Indra, to your dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Converging, they went to the river like willing girls. From of old the  stronghold-splitter has been acknowledged as their lover.  
 To your house have come the earthly goods; to us your many  
 liberalities, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yearning together they have sped to Sindhu: the Fort-destroyer, praised, of old, hath loved them.  
      Indra, may thy terrestrial treasures reach us, and our full songs of joy approach thy dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vereint gingen sie wie verliebte Frauen zum Sindhu, seit Alters ist der Burgenbrecher ihr anerkannter Buhle. Zu deinem Hause sind die irdischen Schätze gekommen; zu uns sind deine vielen Schenkungen gekommen, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereinigt gingen sie zum Meer wie Bräute; stets wird geehrt ihr Buhle, der Durchbrecher; Der Erde Güter sind zu dir gekommen, zu uns, o Indra, viele Herrlichkeiten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе отправились они к Синдху, как страстно желающие (женщины):  
 Проломитель крепостей – издревле их прославленный любовник.  

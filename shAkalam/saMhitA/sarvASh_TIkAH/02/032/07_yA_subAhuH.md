@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ सुबाहुः꣡ सुअङ्गुरिः꣡  
 सुषू꣡मा बहुसू꣡वरी  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सिनीवाल्यइ꣡ जुहोतन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 तस्यै॑ । वि॒श्पत्न्यै॑ । ह॒विः । सि॒नी॒वा॒ल्यै । जु॒हो॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -93,35 +93,35 @@ popular;; epic anuṣṭubh (424)
 यासिनीवाली सुबाहुः शोभनबाहुः स्वङ्गुरिः शोभनाङ्गुलिः सुषूमा सुष्ठुप्रसवित्री षूङ् प्रा- णिप्रसवे अन्येभ्योपिद्रुश्यन्तइतिमनिन् क्रुदुत्तरपदप्रकृतिस्वरत्वम् बहुसूवरी बह्वीनाम्प्रजानांसवि त्री तेनैवसूत्रेणक्वनिप् वनोरचेतिङीब्रेफौ क्रुदुत्तरपदप्रकृतिस्वरत्वम् तस्यैसिनीवाल्यैविश्पत्नयै विशाम्पालयित्र्यै विभाषासपूर्वस्येतिपत्युर्नकारान्तादेशः अयस्मयादित्वेनभत्वाद्विशोजश्त्वाभावः परादिश्छन्दसिबहुलमित्युत्तरपदाद्युदात्तत्वम् हेऋत्विग्यजमानाः हविर्जुहोतन जुहुत तप्तनप्तनथ- नाश्चेतितनबादेशः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer the oblation to that **Sinīvālī**, the protectress of mankind who has beautiful arms, beautiful fingers, who is the parent of many children, and who has numerous children.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She who has lovely arms, lovely fingers, bearing easily, bearing amply, to her, mistress of the clan, to Sinīvalī, pour an oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With lovely fingers, lovely arms, prolific Mother of many sons-  
      Present the sacred gifts to her, to Sinlivali Queen of men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sinivali mit schönen Armen, schönen Fingern, die leicht gebärende, viel gebärende, dieser Stammesfürstin opfert die Spende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schön an Fingern, schön an Arm, die leicht gebiert, die viel gebiert, Der Hausfrau, der Sinīvālī, ergiesset euren Opfertrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Синивали, (той,) что прекраснорукая, прекраснопалая,  
 Прекраснорожающая, многорожающая,  

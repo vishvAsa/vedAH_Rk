@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नीचा꣡ वर्तन्त उप꣡रि स्फुरन्ति  
 अहस्ता꣡सो ह꣡स्तवन्तं सहन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शीताः꣡ स꣡न्तो हृ꣡दयं नि꣡र् दहन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दि॒व्याः । अङ्गा॑राः । इरि॑णे । निऽउ॑प्ताः । शी॒ताः । सन्तः॑ । हृद॑यम् । निः । द॒ह॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nīcā* ← *nīcāḥ* ← *nīca*
 - \[noun\], nominative, plural, masculine
@@ -110,41 +110,41 @@ popular
 अपि चैतेऽक्षाः **नीचा** नीचीनस्थले वर्तन्ते । तथापि **उपरि** पराजयात् भीतानां द्यूतकराणां कितवानां हृदयस्योपरि **स्फुरन्ति** । **अहस्तासः** हस्तरहिता अध्यक्षाः **हस्तवन्तं** द्यूतकरं कितवं **सहन्ते** पराजयकरणेनाभिभवन्ति । **दिव्याः** दिवि भवा अपकृताः **अङ्गाराः** अङ्गारसदृशा अक्षाः **इरिणे** इन्धनरहिते आस्फारे **न्युप्ताः** **शीताः** शीतस्पर्शाः **सन्तः** अपि **हृदयं** कितवानामन्तःकरणं **निर्दहन्ति** पराजयजनितसंतापेन भस्मीकुर्वन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Now they abide below; now they palpitate on high handless, they overpower him who has **hands**; castupon the dice-board like coals from the sky, even though cold they burn the heart.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Downward they roll; up above they ricochet. Lacking hands, they  overpower the man with hands.  
 Heavenly coals scattered down in the gaming hollow, though they are  cold they burn up the heart.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Downward they roll, and then spring quickly upward, and, handless, force the man with hands to serve them.  
      Cast on the board, like lumps of magic charcoal, though cold themselves they burn the heart to ashes.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Downward they roll, then swifty springing upward, They overcome the man with hands, though handless. Cast on the board like magic bits of charcoal, Though cold themselves, they burn the heart to ashes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie rollen nieder, schnellen in die Höhe, ohne Hände zwingen sie dem, der Hände hat. Die überirdischen Kohlen, in die Rinne geworfen, versengen das Herz, obwohl sie kalt sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie rollen nieder, springen in die Höhe, und handlos zwingen sie den handbegabten, Als Zauber-Kohlen auf die Bahn geworfen versengen sie das Herz, obwol sie kalt sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они катятся вниз, прыгают вверх.  
 Без рук они одолевают того, у кого есть руки.  

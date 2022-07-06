@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रयिं꣡ नश् चित्र꣡म् अश्वि꣡नम्  
 इ꣡न्दो विश्वा꣡युम् आ꣡ भर  
 अ꣡था नो व꣡स्यसस् कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अथ॑ । नः॒ । वस्य॑सः । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
@@ -98,36 +98,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्दो** यागेषु क्लिद्यमान सोम त्वं **चित्रं** नानाविधम् **अश्विनम्** अश्ववन्तं च **विश्वायुं** सर्वगामिनं **रयिं** **नः** अस्मभ्यम् **आ** **भर** आहर । सिद्धमन्यत् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, bring to us varied wealth, abundant in horses and all-reaching, and make us happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring us glittering wealth in horses, o drop, through our whole lifetime. – Then make us better off.  
 The pattern of matches between the order of poets in the Maṇḍala I and that of  IX is broken by IX.5. The next twenty hymns (IX.5–24) are attributed to Asita  Kāśyapa or Devala Kāśyapa, poets not otherwise found in the Anukramaṇī list  of R̥gvedic poets, though there are other poets with the patronymic Kāśyapa, as  well as Kaśyapa Mārīca, to whom a number of hymns, including several in IX, are  attributed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, bring us wealth in steeds, manifold. quickening all life;  
      And mate us better than we are.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns ansehnlichen Reichtum, in Rossen bestehend, das ganze Leben während, o Saft, und mach uns besser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indu, bring uns reichen Schatz an Rossen, allerquickenden, Und mach' uns reicher nun an Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Богатство яркое, состоящее из коней,  
 О капля, приноси нам весь век  

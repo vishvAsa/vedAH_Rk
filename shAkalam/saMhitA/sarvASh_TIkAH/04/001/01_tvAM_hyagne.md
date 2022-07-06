@@ -6,7 +6,7 @@ ChandaH = "अष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ हि꣡ अग्ने स꣡दम् इ꣡त् समन्य꣡वो  
 देवा꣡सो देव꣡म् अरतिं꣡ निएरिर꣡  
@@ -16,7 +16,7 @@ ChandaH = "अष्टिः"
 वि꣡श्वम् आ꣡देवं जनत प्र꣡चेतसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M
 अम॑र्त्यम् । य॒ज॒त॒ । मर्त्ये॑षु । आ । दे॒वम् । आऽदे॑वम् । ज॒न॒त॒ । प्रऽचे॑तसम् । विश्व॑म् । आऽदे॑वम् । ज॒न॒त॒ । प्रऽचे॑तसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -152,7 +152,7 @@ genre M
 वामदेवः स्तौति । हे **अग्ने** **समन्यवः** । मन्युः स्पर्धा । तया सह वर्तमानाः । स्वसमानैः स्पर्धमाना इत्यर्थः । **देवासः** देवनशीला इन्द्रादयो देवाः **देवं** द्योतमानम् **अरतिं** शीघ्रं गन्तारं **त्वां** **सदमित्** सदैव **न्येरिरे** **हि** । स्पर्धानिमित्ते युद्धे प्रेरयन्ति खलु । इतिशब्दो हेत्वर्थः । यस्मात् देवास्त्वां युद्धार्थं नितरां प्रेरयन्ति तस्माद्यजमानाः **क्रत्वा** स्तुतिलक्षणेन कर्मणा **न्येरिरे** । यज्ञकर्मणि देवान् हविः प्रापयितुं देवानाह्वातुं च त्वां नितरां प्रेरयन्ति खलु । **यजत** यजनीय हे अग्ने अमर्त्यं मरणधर्मरहितम् **आ** सर्वतः **देवं** द्योतमानं **प्रचेतसम्** । प्रकृष्टं कर्मविषयं चेतो ज्ञानं यस्य तादृशं त्वां **मर्त्येषु** यागं कुर्वाणेषु मनुष्येषु **आदेवम्** आगन्तारं **जनत** देवा हविःश्रपणार्थम् अजनयन् । तथा **प्रचेतसं** कर्माभिज्ञम् **आदेवं** तत्तद्यज्ञेष्वागन्तारं त्वां **विश्वं** जनत युगपन्नानादेशवर्तिषु यज्ञेषु यौगपद्येन हविरानयनार्थं व्याप्तं देवा अकुर्वन् ॥ न्येरिरे । ' ईर गतौ । लिटि मन्त्रत्वात् आम् न भवति । सहेति योगविभागात् समासः । हियोगादनिघातः । क्रत्वा । ' जसादिषु छन्दसि वावचनम् ' इति नादेशाभावः । यणादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -163,7 +163,7 @@ genre M
 The emulous gods: samanyavo devāsas tvam nyerire: samanyavaḥ = spardhamānaḥ, viewing with. In this and he next verse, there is a repetition at the end of the line of three or four preceding words; thus, adevam janata pracetasam, viśvam adevam janata pracetasam, with a slight modification of meaning in the repetition
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, the god, did the gods of equal fervor install for always as  the spoked wheel (of the sacrifice)—  
 with such a purpose did they install you:  
@@ -171,7 +171,7 @@ with such a purpose did they install you:
 beget each one [=every new fire] as god-directed and discerning.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Hymn-introductory hí is difficult to render. It does not have its normal causal sense, though perhaps in this position hí is meant to explain why the hymn is recited following a particular ritual action. It is noteworthy that the first hymn of Maṇḍala VI (also, of course, to Agni) opens in exactly the same way: tváṃ hí agne.
 
@@ -182,28 +182,28 @@ Geldner’s direct speech interpr. solves these grammatical problems and also ma
 The poet plays with ā/a and the oppositional pair mártya- / devá- in de, with chiastic #ámartyam … mártyeṣv ā́# in d, and devám ā́devam opening e. (See also devā́so devám opening 1b.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 त्वां ह्य॑ग्ने॒ सद॒मित्स॑म॒न्यवो॑ दे॒वासो॑ दे॒वम॑र॒तिं न्ये॑रि॒र इति॒ क्रत्वा॑ न्येरि॒रे ।  
 अम॑र्त्यं यजत॒ मर्त्ये॒ष्वा दे॒वमादे॑वं जनत॒ प्रचे॑तसं॒ विश्व॒मादे॑वं जनत॒ प्रचे॑तसम् ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, the gods concordantly have ever set to work as their divine steward; with this intention 1 they have set thee to work. They have generated 2 thee, O worshipful one 2, the immortal among the mortals, the wise, god-loving god; they have generated every wise, god-loving (Agni) 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, den Gott, haben ja die Götter jederzeit einmütig zu ihrem Wagenlenker bestellt, in diesem Sinne bestellt: Verehret den Unsterblichen unter den Sterblichen, erzeuget den götterfreundlichen Gott, den Verständigen, den ganz götterfreundlichen Gott, den Verständigen, den ganz götterfreundlichen erzeuget, den Verständigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich Agni haben als den Opferbringer stets den Gott die Götter eines Sinnes eingesetzt (so dich mit Weisheit eingesetzt); Bei Sterblichen verehret den Unsterblichen, erzeugt den Gott, den weisheitsvollen Götterfreund (erzeugt den steten weisheitsvollen Götterfreund.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь тебя, о Агни, единодушные боги –  
 Бога всегда назначали распорядителем (обряда),  

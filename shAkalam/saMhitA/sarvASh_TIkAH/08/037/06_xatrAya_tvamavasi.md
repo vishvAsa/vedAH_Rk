@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्षत्रा꣡य त्वम् अ꣡वसि न꣡ त्वम् आविथ शचीपत  
 इ꣡न्द्र वि꣡श्वाभिर् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "महापङ्क्तिः"
 पि꣡बा सो꣡मस्य वज्रिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; line affected by realignment;; repeated line
 माध्य॑न्दिनस्य । सव॑नस्य । वृ॒त्र॒ऽह॒न् । अ॒ने॒द्य॒ । पिब॑ । सोम॑स्य । व॒ज्रि॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṣatrāya* ← *kṣatra*
 - \[noun\], dative, singular, neuter
@@ -111,7 +111,7 @@ genre M;; line affected by realignment;; repeated line
 हे **शचीपते** **इन्द्र** **त्वं** **क्षत्राय** जगतो बलाय भवसि । **अवसि** आश्रितान् रक्षसि । **त्वं** **न** **आविथ** केनापि न रक्ष्यसे । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,7 +122,7 @@ genre M;; line affected by realignment;; repeated line
 But you need no defender: na tvamāvitha; or, did you not protect?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You help one to lordly power, you did not help another—  
 – you lord of power, Indra, with all help—at the Midday Pressing,  
@@ -130,22 +130,22 @@ irreproachable Vr̥tra-smasher, drink of the soma, possessor of
 the mace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou helpest one to power, and one thou hast not helped, O Indra, Lord of Strength, with all thy saving aid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem einen hilfst du zur Herrschaft, dem anderen hast du nicht geholfen, Herr der Kraft, mit allen Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem einen hilfst zur Herrschaft du, dem andern nicht, o Herr der Kraft, mit allen Hülfen, Indra du; O Vritratödter von der Mittagsspende hier, vom Soma trinke, tadelloser Schleuderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одного ты поддерживаешь для власти, другого не поддержал,  
 О повелитель силы,  

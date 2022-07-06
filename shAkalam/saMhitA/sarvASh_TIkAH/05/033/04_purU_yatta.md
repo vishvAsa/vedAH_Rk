@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरू꣡ य꣡त् त इन्दर+ स꣡न्ति उक्था꣡  
 ग꣡वे चक꣡र्थ उर्व꣡रासु यु꣡ध्यन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृ꣡षा सम꣡त्सु दा᳐स꣡स्य ना꣡म चित्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त॒त॒क्षे । सूर्या॑य । चि॒त् । ओक॑सि । स्वे । वृषा॑ । स॒मत्ऽसु॑ । दा॒सस्य॑ । नाम॑ । चि॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purū* ← *puru*
 - \[noun\], nominative, plural, neuter
@@ -134,21 +134,21 @@ genre M
 हे **इन्द्र** **ते** तव **यत्** यदा स्वभूतानि **पुरू** पुरूणि बहूनि । **उक्था** उक्थानि शस्त्राणि **सन्ति** तदा **उर्वरासु** सस्योपेतासु भूमिषु निमित्तभूतासु **गवे** वृष्ट्युदकाय **युध्यन्** जलप्रतिबन्धकान् संहरन् **चकर्थ** करोषि भेदनम् । कुत्रेति । **सूर्याय** सूर्यस्य **स्वे** स्वकीये **ओकसि** स्थाने । **वृषा** वर्षिता सन् **ततक्षे** संपादयसि । **समत्सु** संग्रामेषु **दासस्य** वृष्टिप्रतिबन्धकर्तुरेतन्नामकस्य असुरस्य **नाम** **चित्** नामापि ततक्षे नाशयसीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch, **Indra**, as many praises are yours, therefore, combating for the sake of (shedding) water on fertile (lands), you have effected (the discomfiture of its obstructors); you, who are the showerer (of benefits), have on behalf of the sun, destroyed in his own dwelling the very name of (the **asura**), **Dāsa**, in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as there are many hymns that exist for you, Indra, and many  are (the deeds) you have done for the cow, when fighting over the  
 meadows,  
 (and many [the paths]?) you carved out also for the sun in your [/his]  own home, as bull you (have carved out) even the names of the Dāsa  in the contests.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another troubled vs., though the first hemistich is more transparent than the second. The first thing to notice is that the accent on cakártha in b indicates that b must still be under the domain of yád in pāda a, as parallel dependent clauses. Geldner (/Witzel Gotō) attempt to make initial purū́a single-word main clause on which they both depend (“Viel ist, was …”). This assumes that purū́is a neut. sg. here. Although the existence of a neut. sg. in -ū is standard doctrine (see Lanman, Noun Inflec., 406-7, AiG III.145, etc.), this grammatical truism rests primarily on Grassmann’s identification of twelve forms of purū́as sg. (see Lanman and AiG), but in only one instance, the late X.94.5, does this seem the likely interpr. (There is also one form of urū́and, for Lanmann, two of míthū, which is better taken as an adv.) I do not therefore think that
 
@@ -174,24 +174,24 @@ In contrast c sets out his beneficial cosmic activity -- keeping the sun on trac
 In at least the first two cases I think there’s an implicit Ārya presence, which contrasts with the explicit Dāsa in d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, because many lauds are thine, O Indra, wast active warring in the fields  
      for cattle.  
      For Surya in his own abode thou, Hero, formedst in fights even a Dasa's nature.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viel ist, was deine Preislieder sind, o Indra, was du für die Kuh getan hast, um die Fluren kämpfend. Er beschnitt sogar der Sonne ihren Namen im eigenen Hause, in den Kämpfen beschnitt der Bulle auch des Dasa Namen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn viele Sprüche, Indra, dir geweiht sind, so wirkst für Heerden du um Fluren kämpfend; Der Held erreichte kämpfend die Dämonen im eignen Hause, zu der Sonne Bestem.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так как много тебе сложено гимнов, о Индра,  
 Ты (многое) сделал для коровы, сражаясь за пастбища.  

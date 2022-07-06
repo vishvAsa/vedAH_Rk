@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भा꣡रती꣡ळे स꣡रस्वति  
 या꣡ वः स꣡र्वा उपब्रुवे꣡  
 ता꣡ नश् चोदयत श्रिये꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 ताः । नः॒ । चो॒द॒य॒त॒ । श्रि॒ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhāratīﾱe* ← *bhārati* ← *bhāratī*
 - \[noun\], vocative, singular, feminine
@@ -90,7 +90,7 @@ genre M
 हे **भारति** । भरतः आदित्यः । तस्य संबन्धिनी भारती । तादृशि द्युलोकदेवते हे **इळे** भूदेवि हे **सरस्वति** । सरः वागुदकं वा । तद्वत्यन्तरिक्षदेवते तादृशि देवि । एताः क्षित्यादिदेवताः । एतास्तिस्र आदित्यप्रभावविशेषरूपा इत्याहुः । **याः** तिस्रः **सर्वाः** **वः** युष्मान् **उपब्रुवे** उपेत्य स्तौमि **ताः** यूयं **नः** अस्मान् **श्रिये** संपदे **चोदयत** प्रेरयत ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,34 +101,34 @@ genre M
 Bhāratī, the goddess presiding over the heaven; Iḷā, the goddess presiding over the earth; Sarasvatī, the goddess presiding over the firmament; they are all three considered to be special manifestations of the majesty of the sun: etis **tisra** ādityaprabhāva viśeṣarūpa ityāhuḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Bhāratī, Iḍā, and Sarasvatī—all of you whom I implore—  
 spur us on to splendor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 You I address, Sarasvati, and Bharati, and Ila, all:  
      Urge ye us on to glorious fame.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bhâratî! Ilâ! Sarasvatî! All ye (goddesses) whom I invoke, promote us to splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bharati, Ila, Sarasvati, die ich euch alle herbitte, eifert uns zur Vortrefflichkeit an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch drei Ida, Sarasvati und Bharati ruf ich herbei, Ihr möget fördern uns zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Бхарати, Ида, Сарасвати,  
 Вы все (те  

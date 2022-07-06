@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सप्त꣡गुम् ऋत꣡धीतिं सुमेधा꣡म्  
 बृ꣡हस्प꣡तिम् मति꣡र् अ꣡छा जिगाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं चित्रं꣡ वृ꣡षणं रयिं꣡ दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यः । आ॒ङ्गि॒र॒सः । नम॑सा । उ॒प॒ऽसद्यः॑ । अ॒स्मभ्य॑म् । चि॒त्रम् । वृष॑णम् । र॒यिम् । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -122,36 +122,36 @@ genre M;; repeated line
 **सप्तगुं** मां **मतिः** स्तुतिदेवविषया **अच्छा** **जिगाति** अभिगच्छति । कीदृशं सप्तगुम् । **ऋतधीतिं** सत्यकर्माणं **सुमेधां** शोभनप्रज्ञं बृहस्पतिं बृहतो मन्त्रस्य स्वामिनम्। **यः** सप्तगुः **आङ्गिरसः** अङ्गिरोगोत्रोत्पन्नोऽहं **नमसा** नमस्कारेण देवान् **उपसद्यः** उपगतः । यद्वा । नमसान्नेनोपसद्य उपसदनीयः । देवैरनुग्राह्य इत्यर्थः । तादृशाय **अस्मभ्यं** मह्यं **चित्रं** **वृषणं** **रयिं** **दाः**॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The praise (addressed to the gods) comes to the presence of Saptagu, the observer of the truth, theintelligent, the lord of much (praise), who, being of the family of **Aṅgirasa**, has approached (the gods) withoblations; do you, (**Indra**) grant me various fertilizing riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the one with seven cows [/Saptagu], whose poetic vision is truth, to  Br̥haspati of good wisdom my thought goes forth,  
 to him, the Āṅgirasa, who is to be reverently approached with homage.  – To us give bright, bullish wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Saptagu the sage, the holy-minded, to him, Brhaspati, the song approaches,  
      Angiras' Son who must be met with homage: vouchsafe us mighty and reslendent riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Brihaspati, der sieben Kühe hat und das Rechte erkennt, zu dem Weisen geht mein Denken, zu dem angirasischen, dem man unter Verbeugung nahen muß. - Gib uns den ansehnlichen bullenhaften Schatz;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum heiligen Brihaspati, dem weisen, der fährt mit sieben Rindern, eilt Gebet hin; Verehrt als Herr der Angiras mit Demuth, verleih uns Reichthum, mannichfachen, starken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К имеющему семь коров, обладающему истинной мыслью, очень мудрому  
 Брихаспати движется молитва,  

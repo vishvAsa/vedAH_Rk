@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धेनू꣡र् जिन्वतम् उत꣡ जिन्वतं वि꣡शो  
 हतं꣡ र꣡क्षांसि से꣡धतम् अ꣡मीवाः  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 सो꣡मं सुन्वतो꣡ अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । सोम॑म् । सु॒न्व॒तः । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhenūr* ← *dhenūḥ* ← *dhenu*
 - \[noun\], accusative, plural, feminine
@@ -108,7 +108,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे अश्विनौ **धेनूर्जिन्वतम्** । **उत** अपि च **विशः** वैश्यांश्च **जिन्वतम्** । सिद्धमन्यत् ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,14 +119,14 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 Be propitious to the people: **viśaḥ** = thevaiśyas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Quicken our cows and quicken our clans. – Smite demons; keep away  diseases.  
 In concert with Dawn and the Sun, (drink) the soma of the presser,  
 o Aśvins.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -136,23 +136,23 @@ A verb needs to be supplied with the d pādas of this tṛca (sómaṃ sunvató 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give strength unto the milch-kine, give the people strength, slay ye the Raksasas and drive away disease.  
      Accordant, of one mind with Surya and with Dawn, the presser's Soma, Asvins drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stärket die Kühe und stärket die Untertanen, erschlaget die bösen Geister, haltet die Krankheiten ab, einträchtig mit Usas und Surya, trinket den Soma des Pressenden, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kühe segnet, segnet die Bewohner auch, Gespenster schlaget, wehret alle Plagen ab; Vereinigt mit der Sonne und dem Morgenroth, des Pressers Soma, Ritter, trinkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Укрепите дойных коров, а также подданных укрепите,  
 Убейте ракшасов, прогоните болезни!  

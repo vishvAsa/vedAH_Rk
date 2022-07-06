@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡नर् एना नि꣡ वर्तय  
 पु꣡नर् एना नि꣡ आ꣡ कुरु  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अग्नि꣡र् एना उपा꣡जतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 इन्द्रः॑ । ए॒नाः॒ । नि । य॒च्छ॒तु॒ । अ॒ग्निः । ए॒नाः॒ । उ॒प॒ऽआज॑तु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punar*
 - \[adverb\]
@@ -118,34 +118,34 @@ popular;; epic anuṣṭubh (424)
 अत्र मन्त्रद्रष्टा स्वात्मानं प्रति ब्रूते । हे मदीयात्मन् त्वम् **एनाः** एताः अन्यतोऽभिगन्त्रीर्गा अपो वा **पुनः** **नि** **वर्तय** पुनःपुनर्मदभिमुखीकुरु । तदनन्तरम् **एनाः** एताः **पुनः** भूयो भूयो **न्या** कुरु नियता आत्मायत्ताः कुरु। किंच **इन्द्रः** अपि तव सहायभूतः सन् **एनाः** एताः **नि** **यच्छतु** त्वदायत्ताः करोतु । **अग्निः** च **एनाः** एताः गा अपो वा **उपाजतु** उपगमयतु उपक्षिपतु वा । उपयोग्याः करोत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Turn them back again; bring them back here again.  
 Let Indra hold them back; let Agni drive them near.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make these return to us again, bring them beside us once again.  
      May. Indra give them back to us, and Agni drive them hither-ward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring sie zurück, treib sie wieder heim; Indra soll sie festhalten, Agni soll sie hertreiben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schaff diese Kühe uns zurück und lass sie wiederkehren hier; Es lenke Indra sie uns her, und Agni treibe sie uns zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Верни их назад!  
 Обрати их назад!  

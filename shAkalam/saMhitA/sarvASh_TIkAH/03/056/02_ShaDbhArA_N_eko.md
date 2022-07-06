@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ष꣡ड् भाराँ꣡ ए꣡को अ꣡चरन् बिभर्ति  
 ऋतं꣡ व꣡र्षिष्ठम् उ꣡प गा꣡व आ꣡गुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गु꣡हा दुवे꣡ नि꣡हिते द꣡र्शि ए꣡का
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ति॒स्रः । म॒हीः । उप॑राः । त॒स्थुः॒ । अत्याः॑ । गुहा॑ । द्वे इति॑ । निहि॑ते॒ इति॒ निऽहि॑ते । दर्शि॑ । एका॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṣaḍ* ← *ṣaṭ* ← *ṣaṣ*
 - \[noun\], accusative, plural, masculine
@@ -140,7 +140,7 @@ genre M
 **अचरन्** स्थायी **एकः** संवत्सरः **षट्** षट्संख्याकान् **भारान्** ।भ्रियते पुष्पविकासादि येष्विति भारा ऋतवः । तान् वसन्तादीन् **बिभर्ति** अवयवत्वेन धारयति । तथा **ऋतं** सत्यभूतं **वर्षिष्ठं** वृद्धतरमादित्यात्मकं तमेव संवत्सरं **गावः** रश्मयः **उप** **आगुः** प्राप्नुवन्ति । किंच तस्मिन्नेव संवत्सरे **अत्याः** अतनशीला आगमापायिधर्मोपेताः **तिस्रो** **महीः** त्रयो लोकाः **उपराः** उपर्युपरि वर्तमानाः **तस्थुः** तिष्ठन्ति । लोकत्रयमेव दर्शयति । **गुहा** गुहायां स्वात्मनि **द्वे** द्यौश्चान्तरिक्षं चेत्येते **निहिते** न दृश्येते । **एका** भूमिः **दर्शि** सर्वभूताधारतया दृश्यते ॥ भारान् । डुभृञ् धारणपोषणयोः' इत्यस्मादधिकरणे घञ् ।' कर्षात्वतो घञः ' इत्यन्तोदात्तत्वम् । निहिते । दधातेः कर्मणि निष्ठा ।' गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । दर्शि । 'दृशिर् प्रेक्षणे' । कर्मणि लुङि चिणि ' चिणो लुक्' इति प्रत्ययस्य लुक् । वाक्यभेदादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,36 +151,36 @@ genre M
 One is visible: heaven and the firmament are not wholly discernible, earth is
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Six burdens does the One, unmoving, bear. The cows have approached  the highest truth.  
 Three great females stand below, as steeds: two were deposited in hiding;  one has become visible.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Witzel Gotō suggest that átyā(ḥ) is a hapax related to ánta- ‘border, edge’, ántya-, tr.
 
 ‘Begrenzungen’. Since no other forms show such a putative zero-grade, since ántyais not found in the RV, since the stem átya- is well attested, and since there is no metrical advantage to reducing an *antyā(ḥ) here to átyā(ḥ), this suggestion doesn’t merit adopting. In a hymn of this nature, the females might as well be steeds as boundaries. For other attempts to reinterp. átyā(ḥ) see those rejected by Oldenberg and another given by Geldner (n. 2c).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One, moving not away, supports six burthens: the Cows proceed to him the true, the Highest.  
      Near stand three Mighty Ones who travel swiftly: two are concealed from sight, one is apparent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sechs Lasten trägt der Eine ohne zu gehen. Zur höchsten Ordnung sind die Kühe gekommen. Drei Erden stehen unten ......; zwei sind verborgen, eine ist sichtbar.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sechs Lasten trägt der eine unbeweglich, zur höchsten Stätte gingen hin die Kühe; Drei unerschöpfte, grosse standen unten, zwei im Verborgnen, eine nur ist sichtbar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Шесть нош несет неподвижный.  
 К высшему закону подошли коровы.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ यो꣡ र꣡जांसि अ꣡मिमीत सुक्र꣡तुर्  
 वैश्वानरो꣡ वि꣡ दिवो꣡ रोचना꣡ कविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡दब्धो गोपा꣡ अमृ꣡तस्य रक्षिता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 परि॑ । यः । विश्वा॑ । भुव॑नानि । प॒प्र॒थे । अद॑ब्धः । गो॒पाः । अ॒मृत॑स्य । र॒क्षि॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -121,14 +121,14 @@ genre M
 **सुक्रतुः** सुकर्मा **वैश्वानरः** विश्वेषां नराणां हितः **यः** अग्निः **रजांसि** उदकानि लोकान् वा **वि** **अमिमीत** निर्मितवान् । तथा **दिवः** द्युलोकस्य संबन्धीनि **रोचना** रोचमानानि दीप्यमानानि नक्षत्रादीनि **कविः** क्रान्तदर्शी सन् योऽग्निः **वि** अमिमीत । **यः** च **विश्वा** सर्वाणि **भुवनानि** भूतजातानि व्याप्तान्युदकानि वा **परि** **पप्रथे** परितोऽप्रथयत् सोऽयम् **अदब्धः** केनाप्यहिंसितः **गोपाः** सर्वस्य गोपायिता रक्षिता **अमृतस्य** अमरणहेतोरुदकस्य **रक्षिता** पालयिता सन् वर्तत इति शेषः ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Vaiśvānara**, the performer of sacred acts, is he who made the regions; foreseeing (he has made) the luminaries of heaven, and has spread throughout all worlds; the irresistibel guardian (of all), the protector of ambrosial (rain).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, the very resolute one, who measured out the dusky spaces,  
 (measured) out the luminous realms of heaven—the sage poet  
@@ -137,30 +137,30 @@ who extends himself around all creatures, he is the undeceivable
 herdsman, the protector of the immortal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In this vs. the subject of the cosmogonic ví √mā ‘measure out’ is Agni Vaiśvānara, not the sun, as in the immediately preceding vs., and the more usual identification of Agni Vaiśvānara with the sun seems to have reasserted itself. See VI.8.2.
 
 In a sukrátuḥ reprises krátubhiḥ in 4c, and it might have been better to render the krátu- in the same way -- either as “by your resolutions” … “the very resolute one” or “by your intentions” … “he of good intention.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vaisvanara, who measured out the realms of air, Sage very wise who made the lucid spheres of heaven,  
      The Undeceivable who spread out all the worlds, keeper is he and guard of immortality.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vaisvanara, der klugsinnige Seher, der die Räume ausgemessen hat und die Lichter des Himmels, der sich über alle Welten ausgebreitet hat, der untrügliche Hüter, der Wächter der Unsterblichkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der wirkungsreich den Raum der Luft durchmessen hat, des Himmels Lichtraum, er der weise Männerhort, Der sich um alle Wesen rings verbreitet hat, der treue Hüter, Schützer des Unsterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вайшванара, который измерил просторы (земли),  
 Обладая прекрасной силой духа, из(мери0л) светлые пространства неба, поэт,  

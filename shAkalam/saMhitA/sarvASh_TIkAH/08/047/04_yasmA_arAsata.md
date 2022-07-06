@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मा अ꣡रासत क्ष꣡यं  
 जीवा꣡तुं च प्र꣡चेतसः  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M;; repeated line
 मनोः॑ । विश्व॑स्य । घ॒ । इत् । इ॒मे । आ॒दि॒त्याः । रा॒यः । ई॒श॒ते॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmā* ← *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
@@ -129,7 +129,7 @@ genre M;; repeated line
 **यस्मै** मनुष्याय **क्षयं** निवासं जीवातुं जीवनसाधनमन्नं **च** **प्रचेतसः** प्रकृष्टमतयः **अरासत** प्रयच्छन्ति तस्मै यजमानाय तदर्थम् **इमे** **आदित्याः** **विश्वस्य** **घेत्** सर्वस्याप्ययष्टुः **मनोः** मनुष्यस्य धनिकस्य **रायः** धनस्य **ईशते** स्वामिनो भवन्त्यपहृत्य यजमानाय प्रदातुम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,30 +140,30 @@ genre M;; repeated line
 Of every man: who does not offersacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mankind—to which the attentive ones gave peaceful dwelling and  livelihood—  
 over all its wealth do these Ādityas hold sway.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To whomsoever they, Most Wise, have given a home and means of life,  
      O'er the whole riches of this man they, the Adityas, have control.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wem die Fürsorglichen Wohnung und Lebensunterhalt gewährt haben - diese Aditya´s verfügen ja über den ganzen Reichtum des Menschen. - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wem sie, die weisen, sichern Sitz und Lebensunterhalt verliehn, Des Menschen ganzer Reichthum steht in ihrer, der Aditja's, Hand; ganz unvergleichlich ist eur Schutz und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кому прозорливые (боги) даровали  
 Жилье и средства к жизни:-  

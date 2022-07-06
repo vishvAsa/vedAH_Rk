@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानास इ꣡न्दवस्  
 तिरः꣡ पवि꣡त्रम् आश꣡वः  
 इ꣡न्द्रं या꣡मेभिर् आशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑म् । यामे॑भिः । आ॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānāsa* ← *pavamānāsaḥ* ← *pū*
 - \[verb noun\], nominative, plural
@@ -73,20 +73,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पवित्रम्** ऊर्णास्तुकेन निर्मितं दशापवित्रं **तिरः** तिरस्कृत्य व्यवधायकं कृत्वा **पवमानासः** कलशं प्रति बहुधाराः क्षरन्तः **आशवः** क्षिप्रंमदकारिणश्चमसादीन् व्याप्नुवन्तो वा **इन्दवः** सोमाः **यामेभिः** स्वीयैर्गमनैः **इन्द्रम्** **आशत** व्याप्नुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purified swift-flowing **Soma**-juices passing hrough the filter reach **Indra** by their own paths.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The self-purifying drops, swift across the filter,  
 have reached Indra on their journeys.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -98,23 +98,23 @@ The published translation contains a grammatical error: asvaran should of course
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In purifying, through the sieve the rapid drops of'Soma juice  
      Come nigh to Indra in their course.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Säfte, die durch die Seihe hindurch sich läutern, die Renner sind auf ihren Fahrten zu Indra gelangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schnellen Indu's haben schon, hinrieselnd durch das Somasieb, Indra erreicht auf ihrer Bahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Паваманы – капли сомы,  
 Быстрые, (пройдя) сквозь цедилку,  

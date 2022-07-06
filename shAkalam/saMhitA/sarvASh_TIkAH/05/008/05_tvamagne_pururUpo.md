@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने पुरुरू꣡पो विशे꣡-विशे  
 व꣡यो दधासि प्रत्न꣡था पुरुष्टुत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्वि꣡षिः सा꣡ ते तित्विषाण꣡स्य ना꣡धृ꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पु॒रूणि॑ । अन्ना॑ । सह॑सा । वि । रा॒ज॒सि॒ । त्विषिः॑ । सा । ते॒ । ति॒त्वि॒षा॒णस्य॑ । न । आ॒ऽधृषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -131,41 +131,41 @@ genre M
 हे **अग्ने** **त्वं** **पुरुरूपः** सन् **विशेविशे** सर्वस्मै यजमानाय **प्रत्नथा** पुराण इव **वयः** अन्नं **दधासि** धारयसि । हे **पुरुष्टुत** बहुभिः स्तुत **पुरूणि** बहूनि **अन्ना** अन्नानि चरुपुरोडाशादीनि **सहसा** बलेन **वि** **राजसि** ईश्वरो भवसि स्वीकर्तुम् । **तित्विषाणस्य** दीप्तस्य **ते** तव **सा** प्रसिद्धा **त्विषिः** दीप्तिः **नाधृषे** अन्यैरधृष्या भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, the praised of many, you who are multiform, giver of old food to every mortal; you reign with strength over the various (sacrificial) viands; the splendour of you when blazing brightly is not rivalled (by any).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, with your many forms establish vitality for every clan in  your ancient way, o you much praised.  
 By your strength you rule over many foods. When you have flared, that  flare of yours is not to be challenged.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni! multiform, God who art lauded much! givest in every house subsistence as of old.  
      Thou rulest by thy might o'er food of many a sort: that light of thine when blazing may not be opposed.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, manifold-shaped, bestowest vigour on every house in thy ancient way, O much-praised one.! Thou rulest with might over much food. This impetuousness of thine, when thou rushest forward impetuously, is not to be defied.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, der Vielgestaltige, verleihst jedem Clane Lebenskraft wie ehedem, du Vielgepriesener. Du gebeutst durch deine Macht über viele Speisen. Gegen deinen, des Eifernden, glühenden Eifer ist nicht anzukommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni du, in jedem Haus gestaltenreich, o vielgepriesner, gibst wie früher frische Kraft, Mit Macht gebietest über viele Speisen du; dein Andrang ist unhemmbar, wenn erregt du bist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, (бог) с многими формами каждому племени  
 Даешь жизненную силу, как издревле, о многопрославленный.  

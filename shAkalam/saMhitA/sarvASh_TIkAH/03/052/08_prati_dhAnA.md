@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति धाना꣡ भरत तू꣡यम् अस्मै  
 पुरोळा꣡शं वीर꣡तमाय नॄणा꣡म्+  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡र्धन्तु त्वा सोमपे꣡याय धृष्णो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 दि॒वेऽदि॑वे । स॒ऽदृशीः॑ । इ॒न्द्र॒ । तुभ्य॑म् । वर्ध॑न्तु । त्वा॒ । सो॒म॒ऽपेया॑य । धृ॒ष्णो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -116,20 +116,20 @@ genre D
 यजमानोऽध्वर्य्वादीन् प्रति ब्रूते । हे अध्वर्य्वादयः **अस्मै** इन्द्राय **धानाः** **तूयं** क्षिप्रं **प्रति** **भरत** संपादयत । **नृणां** **वीरतमाय** अस्मै इन्द्राय **पुरोडाशं** च संपादयत । अथ प्रत्यक्षकृतः। हे **धृष्णो** शत्रूणामभिभवनशील हे **इन्द्र** **सदृशीः** एकविधाः स्तुतयः **तुभ्यं** त्वदर्थं **दिवेदिवे** प्रतिदिवसम् अस्माभिः क्रियन्ते । ताः स्तुतयः **सोमपेयाय** सोमपानार्थं **त्वा** त्वां **वर्धन्तु** उत्साहेन प्रवृद्धं कुर्वन्तु ॥ सदृशीः ।' समानान्ययोश्च' इति कञ्प्रत्ययः । ‘टिड्ढाणञ्' इत्यादिना ङीप् ।' दृग्दृशवतुषु ' इति समानस्य सभावः ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer to him quickly (priests) the fried barley; offer to the most heroic of leaders the cakes and butter; may the like offerings, victorious **Indra**, presented to you daily, augment your vigour for the drinking of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring the roasted grains swiftly toward him, the offering cake for the  most virile of men.  
 Every day there are (roasted grains) with the same appearance for you,  Indra. Let them strengthen you for soma-drinking, daring one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Schaefer points out (p. 162), the intens. bobhavīti construed with an āmreḍita rūpáṃ-rūpam must signal repetitive function (“Gestalt um Gestalt”).
 
@@ -154,23 +154,23 @@ A mortal, he is described as ‘god-begotten’ (devajā́-) and ‘god-sped’ 
 means here is unclear to me: is it that they too attract the gaze (and thus admiration) of other men, or that they, despite possessing only a man’s sight, still manage feats sufficient to match the gods, esp. Viśvāmitra’s stopping the rivers in full flood?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring forth the roasted corn to meet him quickly, cake for the bravest Hero mid the heroes.  
      Indra, may hymns accordant with thee daily strengthen thee, Bold One, for the draught of Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bietet ihm rasch die gerösteten Körner an, den Reiskuchen dem heldenhaftesten der Männer! Tag für Tag sind die gleichen für dich, Indra, bestimmt; sie sollen dich für den Somatrunk stärken, du Mutiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Getreidekörner bringt ihm schnell entgegen, den Kuchen ihm, dem tapfersten der Männer. Die gleichen Opfer werden dir Tag für Tag ; sie mögen dich, Kühner, zum Somatrunke stärken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Быстро поднесите ему жареные зерна,  
 Лепешку – самому героическому из мужей!  

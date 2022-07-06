@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡स्य वो रथि꣡यः पूत꣡दक्षान्  
 ऋत꣡स्य पस्तियस꣡दो अ꣡दब्धान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वान् व आ꣡ नमे महो꣡ यजत्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तान् । आ । नमः॑ऽभिः । उ॒रु॒ऽचक्ष॑सः । नॄन् । विश्वा॑न् । वः॒ । आ । न॒मे॒ । म॒हः । य॒ज॒त्राः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
@@ -122,7 +122,7 @@ genre M
 हे **यजत्राः** यष्टव्या देवाः **वः** युष्मदीयस्य **ऋतस्य** यज्ञस्य **रथ्यः** रंहितॄन् नेतॄन् **पूतदक्षान्** शुद्धबलान् **ऋतस्य** यज्ञस्य **पस्त्यसदः** यज्ञसंबन्धिनि पस्त्ये देवयजनलक्षणे गृहे सीदतो निषण्णान् **अदब्धान्** रक्षःप्रभृतिभिरहिंसितान् **उरुचक्षसः** बहुद्रष्टॄन् **नॄन्** नेतॄन् **महः** महतः **तान्** **विश्वान** सर्वान् **वः** युष्मान् **आ** आभिमुख्येन क्रियमाणैः **नमोभिः** नमस्कारैः **आ** **नमे** आनतोऽस्मि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,35 +133,35 @@ genre M
 The regulator: ṛtasya **rathyaḥ** = yajñasya ranhitṛn, netṛn, leaders or conveyers of the sacrifice offered to them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You charioteers of truth who possess refined skill, settled in the  dwelling places of truth, undeceivable,  
 all you great superior men of broad gaze do I bend here with  
 reverences, o you who deserve the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. recalls the námas- vs. (8), with its two occurrences of ā́vivase, one of which is construed with instr. námasā. Here we have the verb form ā́name, which imitates ā́vivase in preverb and med. 1st sg. form, but with the verbal root from which námas- is derived, √nam ‘bow, bend’. It also is construed with an instr. of the s-stem, námobhiḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 You Furtherers of Law, pure in your spirit, infallible, dwellers in the home of Order,  
      To you all Heroes mighty and far-seeing I bow me down, O Holy Ones, with homage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, die Lenker des Gesetzes von lauterem Wollen, die im Hause des Gesetzes wohnen, die untrüglichen, diese weitschauenden Männer, euch alle, die Großen, mache ich durch Anbetung geneigt, ihr Opferwürdige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch reingesinnte Lenker heil'gen Brauches, des heil'gen Brauches treue Hausgenossen, Euch bet' ich an, die weithinschaunden alle, mit Demuth euch, die hohen, hehren Männer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас, колесничих закона с чистой силой действия,  
 Пребывающих в доме закона, не допускающих обмана,  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो वि꣡श्वे सजो꣡षसो  
 दे꣡वासो ग꣡न्तनो꣡प नः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 छृण्व꣡न्तु मरु꣡तो ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 वस॑वः । रु॒द्राः । अव॑से । नः॒ । आ । ग॒म॒न् । शृ॒ण्वन्तु॑ । म॒रुतः॑ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -117,20 +117,20 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You gods, come all with one accord to us; let the **Vasus** and **Rudras** come for our protection, let theMaruts hear our call.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All you gods joined in revelry, come here to us.  
 The Vasus, the Rudras will come here to help us. Let the Maruts hear  our call.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though this vs. continues the list of gifts begun in vs. 2, it is entirely in the accusative, while vs. 2 is in the nominative. There is no verb governing vs. 3, and I simply tr. as part of the list.
 
@@ -139,17 +139,17 @@ In the published translation “ewes” should be in parens.
 Geldner tr. áruṣīṇāṃ cátuḥśatam as “hundertundvier rötliche (Schafe)” (my italics), which makes one wonder about his barnyard experience. Wikipedia tells me that there does exist something called the Armenian red sheep (or Armenian mouflon, etc.), native to Iran and Armenia. But since the gifts celebrated in dānastutis are domestic animals, this information doesn’t seem helpful. There is also something called the California red sheep, but this hybrid was only developed in the 1970s and half a world away from Dasyave Vṛka. On the other hand, “black” sheep are often more brownish than black and in certain lights could appear reddish. There is also a (recent?) breed of Indian sheep known as Bannur or Mandya, some of which appear (on Google Images) reddish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter alle, kommet einmütig zu uns! Die Vasu´s, Rudra´s sollen uns zum Beistand kommen, die Marut sollen den Ruf hören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Götter, kommet doch zu uns, ihr alle, eines Sinnes her, Die Vasu's, Rudra's, mögen sich zur Hülfe nahn, die Maruts hören unsern Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Все-Боги, единодушные,  
 Придите к нам!  

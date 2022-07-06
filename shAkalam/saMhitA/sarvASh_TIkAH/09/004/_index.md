@@ -8,7 +8,7 @@ title = "+004"
 ‘सना च' इति दशर्चं चतुर्थं सूक्तमाङ्गिरसकुलस्य हिरण्यस्तूपस्थार्षं गायत्रं पवमानसोमदेवताकम् । अनुक्रान्तं च- सन हिरण्यस्तूपः ' इति । उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 4 (716)  
 Soma Pavamāna  
@@ -19,7 +19,7 @@ The thematic constriction of the soma hymns is even narrower than usual in this 
 These conscious formal limits of the hymn are obviously its point: content is  secondary. One might note, however, that the sun’s light is especially desired (vss.  2, 5, 6).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the formal constraints in this hymn, see published introduction.
 </details>

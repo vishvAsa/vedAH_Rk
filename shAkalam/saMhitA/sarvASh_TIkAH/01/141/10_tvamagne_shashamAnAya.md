@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने शशमाना꣡य सुन्वते꣡  
 र꣡त्नं यविष्ठ देव꣡तातिम् इन्वसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 भ꣡गं न꣡ कारे꣡ महिरत्न धीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । त्वा॒ । नु । नव्य॑म् । स॒ह॒सः॒ । यु॒व॒न् । व॒यम् । भग॑म् । न । का॒रे । म॒हि॒ऽर॒त्न॒ । धी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -134,7 +134,7 @@ genre M
 हे **अग्ने** **यविष्ठ** युवतम **त्वं** **शशमानाय** त्वां स्तुवते । शशमान: शंसमानः '( निरु, ६.८ ) इति यास्कः । **सुन्वते** त्वदर्थमभिषवं कुर्वते यजमानाय तद्यागार्थं **रत्नं** रमणीयं हविः **देवताति** देवेषु तायमानं विस्तार्यमाणम् **इन्वसि** व्याप्नोषि । अस्मत्प्रत्तं हविः देवान् प्रापयसीत्यर्थः । इन्वतिः व्याप्तिकर्मा, ‘इन्वति ननक्ष' (नि. २. १८. १ ) इति तन्नामसु पाठात् । हे **सहसो** **युवन्** । युवशब्देनोत्पत्तिर्लक्ष्यते । मथनकाले बलेनोत्पन्न बलस्य मिश्रयितर्वा। यद्वा । सहसस्पुत्र युवन् नित्यतरुण **महिरत्न** अस्मत्प्रदेयमहद्रमणीयधन **नव्यं** नवतरं स्तुत्यं वा **तं** तादृशं हविर्भुजं **त्वा** त्वां **वयं** यजमानाः **कारे** शब्दे स्तोत्रलक्षणे **नु** क्षिप्रं **धीमहि** स्थापयामः । हविष्प्रदानसमये क्षिप्रमेव स्तुम इत्यर्थः । तत्र दृष्टान्तः । **भगं** **न** आदित्यमिव । यद्वा । महान्तं राजानमिव । तं यथा स्तुवन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,14 +145,14 @@ genre M
 As men eulogize a powerful prince: bhagamiva
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, impel treasure and the conclave of the gods to the man  who labors and presses soma, o youngest one.  
 Might we now acquire [/install] you anew, o young (son) of strength,  like good fortune [/Bhaga] at the decisive moment, o you who have  
 great treasure.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 dhīmahi in d is probably has a slight double meaning: we want to acquire Agni like good fortune, but in the technical ritual sense we want to install / establish him. For the technical sense see dádhānaḥ in 13b.
 
@@ -170,28 +170,28 @@ The last clausal tag in d, ṛtá ā́ca sukrátuḥ could simply be taken as a 
 However, I supply a passive form of √yam (presumably ppl. yatáḥ) corresponding to the act. subj. yámati of c. Cf., for ṛtá ā́, VI.7.1 r̥tá ā́jātám “born in truth” and, for yatá- + LOC, VIII.92.7 víśvāsu gīrṣv ā́yatam “held in place amidst all your hymns” (also V.44.9). I recognize that this extra material may be unnecessary, however. On the other hand, see comm. on I.144.3 for possible support.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, to him who toils and pours libations, thou, Most Youthful! sendest wealth and all the host of Gods.  
      Thee, therefore, even as Bhaga, will we set anew, young Child of Strength, most wealthy! in our battle-song.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, youngest (god), furtherest treasures and (the friendship of) the gods for him who performs worship, who presses Soma. May we thus establish thee the young one, O young (son) of strength, possessor of great treasures, like the winner in a race 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, bringst dem dienstfertigen Somapresser das Kleinod, du Jüngster die Götterschaft. Aufs neue wollen wir dich, du junger Sohn der Kraft, zu eigen haben wie den Bhaga das Glück im Kampfspiel, der du das große Kleinod hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du führst, o Agni, dem, der eifrig Soma presst, o jüngster, Reichthum und die Götterschar herbei; Drum wollen wir aufs neue nun, o Sohn der Kraft, o Schätzereicher, dir als Spender Preislied weihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, старающемуся (при обряде), выжимающему (сому),  
 Приносишь сокровище, о самый юный, – службу богам.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्यो꣡ विशां꣡ गातु꣡र् एति  
 प्र꣡ य꣡द् आ꣡नड् दिवो꣡ अ꣡न्तान्  
 कवि꣡र् अभ्रं꣡ दी꣡दियानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 क॒विः । अ॒भ्रम् । दीद्या॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
@@ -91,7 +91,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **विशां** यजमानमनुष्याणाम् **अर्यः** गन्तव्यः **गातुः** गमनशीलोऽग्निः **दीद्यानः** दीप्यमानः **यत्** यदा **एति** ऊर्ध्वं गच्छति तदा **दिवः** द्युलोकस्य **अन्तान्** पर्यन्तान् **कविः** मेधावी सोऽग्निः **प्र** **आनट्** प्रकर्षेण व्याप्नोति । **अभ्रं** मेघोपलक्षितमन्तरिक्षं च व्याप्नोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,29 +104,29 @@ The refuge of the people: aryo viśām = who is to be gone to or had recourse to
 Abhram = that which is characterized by clouds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The way for the stranger and the clans goes onward, since he [=Agni]  has reached the ends of heaven—  
 as the bright-shining poet, (but also as) a cloud.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Kind, Furtherer of men, he comes, when he hath reached the ends of heaven,  
      Sage, giving splendour to the clouds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Tageslauf des hohen Herrn und der Clanleute geht weiter, wenn er des Himmels Grenzen erreicht hat und das Gewölk, der leuchtende Seher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Frommer Sang der Menschen folgt ihm, wenn er dringt zur Himmelswölbung, Auf die Wolke glänzend strahlet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благой (бог) движется, счастливый исход для племени,  
 Когда он достиг пределов неба,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ गुङ्गू꣡र् या꣡ सिनीवाली꣡  
 या꣡ राका꣡ या꣡ स꣡रस्वती  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वरुणानीं꣡ सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424);; repeated line
 इ॒न्द्रा॒णीम् । अ॒ह्वे॒ । ऊ॒तये॑ । व॒रु॒णा॒नीम् । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -93,7 +93,7 @@ popular;; epic anuṣṭubh (424);; repeated line
 अत्रगुङ्गूशब्देनराकासिनीवाल्योः साहचर्यात्कुहूरुच्यते यागुङ्गूः कुहूस्तामह्वे आह्वयामि एवमुत्तरत्रापियोज्यम् तथा यासरस्वतीतान्देवींअह्वे इन्द्राणीमिन्द्रस्यपत्नींऊतयेरक्षणार्थंअह्वे आह्वयामि तथावरुणानींवरुणस्यपत्नींस्वस्तयेअविनाशायाह्वयामि इन्द्रवरुणेत्यादिनाङीष् आनुगागमश्च ॥ ८ ॥ चतुर्थेनुवाकेएकादशसूक्तानि तत्रातेपितरितिपञ्चदशर्चम्प्रथमंसूक्तम् गृत्समदस्यार्षन्त्रैष्टुभंरौ- द्रम् अनुक्रान्तञ्च—आतेपञ्चोनारौद्रमिति शूलगवादिरुद्रयज्ञेषुअनेनसूक्तेनप्रतीचीदिगुपस्थेया सूत्रितञ्च—कद्रुद्रायेमारुद्रायातेपितरिमारुद्रायस्थिरधन्वनइतिसर्वरुद्रयज्ञेषुदिशामुपस्थानइति । रुद्रदेवत्येपशौआतेपितरितिहविषोनुवाक्या सूत्रितञ्च—आतेपितर्मरुतांसुम्नमेतुप्रबभ्रवेवृषभायश्वि- तीचइतितिस्रइति । अत्रशौनकः—चतुर्दशीमुपोष्यैकाङ्कृष्णस्यजुहुयाच्चरुम् । आतेसूक्तेनरौद्रेणप्रत्युचं वाग्यतः शुचिः ॥ १ ॥ पूर्वमाज्याहुतीर्हुत्वाथोपस्थायचशङ्करम् । हविःशेषेणवर्तेतनैकान्तरमतन्द्रितः ॥ २ ॥ पूर्णेमासेजयेन्म्रुत्युंरोगैश्चपरिमुच्यतइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,28 +104,28 @@ popular;; epic anuṣṭubh (424);; repeated line
 Gaṅgū = **kuhu**, the day of conjunction, when the moon rises invisible; these phases of moon were perhaps, identifiable with Indrāṇī or Varuṇānī, or with both
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Guṅgū, Sinīvalī, Rākā, Sarasvatī—  
 (on them and) on Indrāṇī I have called for help and on Varuṇānī for  well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Her, Sinivali, her, Gungu, her, Raka, her, Sarasvati, Indrani to mine aid I call, and Vartunani for my weal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gungu, die Sinivali, die Raka, die Sarasvati, die Indrani habe ich zur Gnade gerufen, die Varunani zum Heile.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Gungu, die Sinīvālī, die Rākā und Sarasvatī, Indrānī ruf' zu Hülfe ich und Varunānī mir zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 . (Ту,) что Гунгу, что Синивали,  
 Что Рака, что Сарасвати,  

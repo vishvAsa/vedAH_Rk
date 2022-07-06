@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡किर् अस्य श꣡चीनां᳐  
 नियन्ता꣡ सूनृ꣡ताना᳐म्  
 न꣡किर् वक्ता꣡ न꣡ दाद् इ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नकिः॑ । व॒क्ता । न । दा॒त् । इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakir*
 - \[adverb\]
@@ -85,36 +85,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अस्य** इन्द्रस्य **सूनृतानां** शोभनानां **शचीनां** कर्मणाम् ।  ‘ धीः शची' इति कर्मनामसु पाठात् । **नकिः** न कश्चित् **नियन्ता** नियामकः । अयमिन्द्रः **न** **दादिति** न प्रयच्छतीति **नकिर्वक्ता** न कश्चिद्वदति । किंतु सर्वोऽपि जनोऽयं प्रदातेत्येव ब्रवीतीत्यर्थः ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “No one puts a limit to his glorious deeds, no one asserts that he is not genitive rous.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 No one can restrain his powers, his liberalities;  
 no one can say, “he does not give.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 There liveth none to cheek or stay his energies and gracious deeds:  
      None who can say, He giveth not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Keiner tut seinen Wirkungen, seinen Gnadengaben Einhalt, keiner sagt: er soll nicht geben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nichts ist, was seine Thaten hemmt und seiner Gaben Herrlichkeit, Und niemand sag': er schenket nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никто не удержит  
 Его склонностей, его милостей.  

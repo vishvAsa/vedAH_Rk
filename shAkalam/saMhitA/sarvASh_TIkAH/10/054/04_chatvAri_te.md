@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चत्वा꣡रि ते असुरि꣡याणि ना꣡म  
 अ꣡दाभियानि महिष꣡स्य सन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡भिः क꣡र्माणि मघवञ् चक꣡र्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 त्वम् । अ॒ङ्ग । तानि॑ । विश्वा॑नि । वि॒त्से॒ । येभिः॑ । कर्मा॑णि । म॒घ॒ऽव॒न् । च॒कर्थ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *catvāri* ← *catur*
 - \[noun\], nominative, plural, neuter
@@ -122,7 +122,7 @@ genre D
 हे इन्द्र **महिषस्य** महतः पूज्यस्य **ते** तव **चत्वारि** **असुर्याणि** असुरविघातीनि **अदाभ्यानि** अन्यैरहिंस्यानि उत्तरसूक्त उपान्त्यवर्जिते ‘दूरे तन्नाम' इत्यादिषु प्रतिपादितानि यानि **नाम** नामकानि शरीराणि **सन्ति** **अङ्ग** सखे **त्वं** **तानि** **विश्वानि** सर्वाणि **वित्से** वेत्सि जानासि । **येभिः** यैः नामभिः **कर्माणि** वृत्रवधादिरूपाणि **चकर्थ** कुरुषे हे **मघवन्** तानि वेत्सीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ Four forms: cf. **sūkta** 55, ṛca 1;
 **Nāma** = **śarīra**, body, form
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There exist four lordly names for you, the unfalsifiable names of the  buffalo.  
 You surely know all these, through which you have done your deeds, o  bounteous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Mighty Steer, hast four supremest natures, Asura natures that may ne'er be injured.  
      All these, O Maghavan, thou surely knowest, wherewith thou hast performed thy great achievements.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vier sind deine, des Büffels, asurische Namen, die unbetörbaren. Du allein kennst alle diese, unter denen du Gabenreicher deine Taten getan hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vier allerhöchste Wesenheiten sind dir, dem allgewalt'gen, ewig unvertilgbar; Nur dir allein sind alle sie zu eigen, durch sie hast, starker, du vollbracht die Thaten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Четыре асурских имени,  
 Не поддающихся обману, есть у тебя, быка.  

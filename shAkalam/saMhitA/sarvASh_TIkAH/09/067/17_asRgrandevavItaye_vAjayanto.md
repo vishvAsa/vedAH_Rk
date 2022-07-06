@@ -6,13 +6,13 @@ ChandaH = "द्विपदा गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सृग्रन् देव꣡वीतये  
 वाजय꣡न्तो र꣡था इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 असृ॑ग्रन् । दे॒वऽवी॑तये । वा॒ज॒ऽयन्तः॑ । रथाः॑ऽइव ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asṛgran* ← *sṛj*
 - \[verb\], plural, Root aorist (Ind.)
@@ -61,19 +61,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 एतेऽभिषुताः सोमाः **वाजयन्तः** सन्तः **देववीतये** देवानां पानाय **असृग्रन्** विसृज्यन्ते ऋत्विग्भिः प्रदीयन्ते । तत्र दृष्टान्तः । **रथाइव** । वाजयन्तः शत्रुधनानि बलानि वा स्वामिन इच्छन्तो रथा देववीतये देवानां गमनाय यथा विसृज्यन्ते तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The **Soma**-juices) are let loose for the banquet of the gods like chariots desiring the wealth (of the enemy).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have been released to pursue the gods, like chariots seeking  the prize.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -82,22 +82,22 @@ This tṛca, ascribed to Jamadagni, is unifed first and foremost by its meter, D
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They were sent forth to feast the Gods, like chariots that display their strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die um den Preis laufenden Wagen sind sie losgelassen worden zur Götterladung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Wagen sind die labenden zum Göttermahle hingesandt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выпущены течь (соки) для приглашения богов,  
 Стремящиеся к награде, как колесницы.

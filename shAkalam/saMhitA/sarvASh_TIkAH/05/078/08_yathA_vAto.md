@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था वा꣡तो य꣡था व꣡नं  
 य꣡था समुद्र꣡ ए꣡जति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सहा꣡वेहि जरा꣡युणा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 ए॒व । त्वम् । द॒श॒ऽमा॒स्य॒ । स॒ह । अव॑ । इ॒हि॒ । ज॒रायु॑णा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -94,36 +94,36 @@ popular;; epic anuṣṭubh (424)
 वातोयथाकम्पमानोवनङ्कम्पयतिस्वयं ॥ यथासमुद्रश्चलतिचाल्यतेवाथवायुना ॥ १ ॥ स्थित्वादशैवमासांस्त्वङ्गर्भोल्बेनसुवेष्टितः ॥ निर्गच्छजठारान्मातुर्जरायुयुजआपत ॥ २ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As the wind, as the wood, as the ocean are agitated, so do you, gestation of ten months, invested with the uterine membranes, descend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the wind, as the forest, as the ocean stirs,  
 so you in your tenth month—descend together with the afterbirth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like as the wind, like as the wood, like as the sea is set astir,  
      So also, ten-month babe, descend together with the after-birth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie sich der Wind, wie der Wald, wie das Meer bewegt, so geh du Zehnmonatskind samt der Nachgeburt ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie sich der Wind, wie sich der Wald, wie sich das Meer in Wogen regt, so du auch zehnmonatliche, geh mit der Eihaut du hervor.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как ветер, как лес,  
 Как море колышется,  

@@ -14,7 +14,7 @@ title = "+062"
 अथ पञ्चमाध्याय आरभ्यते । प्रथमे मण्डले एकादशेऽनुवाके चत्वारि सूक्तानि गतानि । ' प्र मन्महे' इत्येतत् त्रयोदशर्चं पञ्चमं सूक्तम् । अत्रानुक्रम्यते- प्र सप्तोनेति । अनिरुक्ता संख्या विंशतिः । ( अनु. १२. ४ ) इत्युक्तत्वात् प्र सप्तोनेत्युक्ते त्रयोदशेत्युक्तं भवति ।  ‘ ऋषिश्चान्यस्मात् ' इति परिभाषया नोधा ऋषिः । अनादेशपरिभाषया त्रिष्टुप् छन्दः । इन्द्रो देवता । गतः सामान्य विनियोगः । विशेषविनियोगस्तु लिङ्गादवगन्तव्यः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 62  
 Indra  
@@ -26,7 +26,7 @@ The hymn falls into two main sections. The first five verses are the more conven
 10cd is double, providing a transition from the cosmic mythological realm in verses  6–10 to the ritual here-and-now of verses 11–13. The hymn ends, like I.61, with a  verse (13) specifically applicable to the “Fallow-bay-yoking” oblation, and like I.61  (vss. 14 and 16) mentions both the poet Nodhas and his clan, the Gotamas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra Shares much vocabulary with I.61 and sometimes plays off the turns of phrase in that hymn.
 </details>

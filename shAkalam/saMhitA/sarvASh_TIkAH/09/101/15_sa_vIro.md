@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वीरो꣡ दक्षसा꣡धनो  
 वि꣡ य꣡स् तस्त꣡म्भ रो꣡दसी  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वेधा꣡ न꣡ यो꣡निम् आस꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 हरिः॑ । प॒वित्रे॑ । अ॒व्य॒त॒ । वे॒धाः । न । योनि॑म् । आ॒ऽसद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -106,20 +106,20 @@ genre M
 **दक्षसाधनः** बलसाधनः **सः** सोमः **वीरः** समर्थो भवति । **यः** सोमः **रोदसी** द्यावापृथिव्यौ **वि** **तस्तम्भ** स्वतेजसा व्यस्तभ्नात् । आच्छादयतीत्यर्थः । किंच **हरिः** हरितवर्णः सोमः **वेधा** **न** विधाता यजमानो यथा स्वगृहमासीदति तद्वत् **योनिं** स्वस्थानं कलशम् **आसदम्** आसत्तुं पवित्रे **अव्यत** आवृणोति । संबद्धो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The green-tinted (**Soma**), the implement of strength, the hero, who has upheld heaven and earth, is enveloped in the filter like the sacrificer (in his house) to sit upon his station.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is a hero, bringing skill to realization, who has propped apart the  two world-halves.  
 The tawny one has wrapped himself in the filter, like a ritual adept, to  sit in the womb.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The isolated summary vs. The cow’s hide (gávye ádhi tvací) closely matches gór ádhi tvací in 11b, but the sheep’s fleece is found nowhere else in the hymn, unless the ví of 11a gestures towards it. See comm. ad loc. 
 
@@ -132,23 +132,23 @@ The dog returns from the first tṛca in the first vs. of this one. The tṛca i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That Hero who produces strength, he who hath propped both worlds apart,  
      Gold-hued, hath wrapped him in the sieve, to settle, priest-like, in his place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist der Held, der Kraftwirker, der beide Welten auseinandergestemmt hat. Der Goldgelbe hat sich in die Seihe gehüllt, um wie ein Meister sich auf seinen Platz zu setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dieser Held, der Kraft vollendende, der beide Welten gesondert befestigt hat, der goldfarbene hat sich in das Läuterungsnetz eingehüllt, um sich wie ein Ordner auf seinen Sitz niederzulassen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он тот герой, осуществляющий силу действия,  
 Кто установил врозь две половины вселенной.  

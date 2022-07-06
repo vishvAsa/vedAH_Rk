@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ धेहि द्युम꣡द् य꣡शो  
 मघ꣡वद्भ्यश् च म꣡ह्य° च  
 सनि꣡म् मेधा꣡म् उत꣡ श्र꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒निम् । मे॒धाम् । उ॒त । श्रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], dative, plural
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **अस्मे** अस्मभ्यं **द्युमत्** दीप्तिमत् **यशः** अन्नं **धेहि** देहि । कीदृशेभ्योऽस्मभ्यम् । **मघवद्भ्यश्च** हविर्लक्षणान्नवद्भ्यश्च **मह्यं** **च** स्तुतिकर्त्रे च । अथवा मह्यमस्मभ्यमित्यर्थः । अस्मे मघवद्भ्यश्च मह्यं चेति तेषामेवाशंसनाभेदादुभयत्र चशब्दो युक्तः । किंच **सनिं** धनं **मेधां** प्रज्ञाम् **उत** अपि च **श्रवः** कीर्तिं च धेहि ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,28 +99,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Glory: **śravas** = **kīrti**, glory; it may also mean, **anna**, food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Destine brilliant glory for us, both for our benefactors and for me— wisdom and fame as our winnings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bestow illustrious fame on us, both on our liberal lords and me,  
      Glory, intelligence, and wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns durch deine Läuterungen Reichtümer, die vier Meere voll, tausendfältige von allen Seiten her, o Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verleih uns reiche Herrlichkeit, den Opferherren und mir selbst, Besitz und Weisheit, hohen Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нам принеси сверкающую честь:  
 И щедрым покровителям, и мне –  

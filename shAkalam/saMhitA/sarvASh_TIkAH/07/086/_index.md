@@ -8,7 +8,7 @@ title = "+086"
 ' धीरा त्वस्य ' इत्यष्टर्चं षोडशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वरुणदेवत्यम्। तथा चानुक्रान्तं- ' धीराष्टौ वारुणं ह ' इति । गतो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 86 (602)  
 Varuṇa  
@@ -22,7 +22,7 @@ In verse 2b the meaning of váruṇe “within Varuṇa” may play on the poss
 In verse 4d, we read áva...īyām, from ava + √yā “make recompense,” instead of  the transmitted but metrically faulty áva...iyām.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Varuṇa
 </details>

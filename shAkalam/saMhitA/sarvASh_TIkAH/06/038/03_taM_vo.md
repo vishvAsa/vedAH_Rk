@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वो धिया꣡ परम꣡या पुराजा꣡म्  
 अज꣡रम् इ꣡न्द्रम् अभ्य् अ᳡नूषि अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 महां꣡श् च स्तो꣡मो अ꣡धि वर्धद् इ꣡न्द्रे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ब्रह्म॑ । च॒ । गिरः॑ । द॒धि॒रे । सम् । अ॒स्मि॒न् । म॒हान् । च॒ । स्तोमः॑ । अधि॑ । व॒र्ध॒त् । इन्द्रे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -141,21 +141,21 @@ genre M
 हे इन्द्र **तं** तादृशम् **इन्द्रं** **वः** त्वाम् ॥ व्यत्ययेन बहुवचनम् ॥ **परमया** उत्कृष्टतमया **धिया** स्तुत्या **अकैं:** अर्चनसाधनैर्हविर्भिः सार्धम् अभ्यनूषि अभिष्टौमि । कीदृशम् । **पुराजां** पूर्वस्मिन् काले जातं चिरंतनम् **अजरं** जरारहितं नित्यम् । अतः कारणात् अस्मिन् **इन्द्रे** **ब्रह्म** ब्रह्माणि हविर्लक्षणान्यन्नानि **गिरः** स्तुतयश्च **सं** दधिरे संधीयन्ते संश्लिष्यन्ते । **महान्** प्रवृद्धः **स्तोमः** **च** **अधि** **वर्धत्** अधिकं वर्धते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify you wiht hymns and with pious worship, the ancient undecaying **Indra**, for in him are oblations and praises concentrated, and great adoration is enhanced (when addressed to him).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With my highest insight, with my recitations I have roared for you to  ageless Indra, born of old.  
 Not only have the sacred formulations and the songs together been  
 placed in him, but in Indra the great praise puts strength.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As usual, the enclitic vaḥ ‘for you’ refers to the priestly colleagues of the poet on whose behalf he acts; as is also usual, the Engl. tr. has to be heavier and more prominent than the recessive 2nd position accentless vaḥ.
 
@@ -175,23 +175,23 @@ After the absence of overt referents in vs. 1, starting with 2b we have a form o
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him have I sung with my best song and praises, Indra of ancient birth and Everlasting.  
      For prayer and songs in him are concentrated: let laud wax mighty when addressed to Indra:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu diesem vor Zeiten geborenen, alterlosen Indra habe ich mit vortrefflichem Gedicht, mit Preisliedern für euch geschrieen. Segen und Lobreden werden auf ihn vereinigt, und der große Preisgesang möge an Indra stark werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den urgebornen Indra, der nicht altert, begrüss' ich euch mit Preis und bester Andacht; Gebet und Lieder wurden ihm geweihet; den Indra mög' das hohe Lob erquicken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К этому от века рожденному нестареющему Индре  
 Я громко обратился для вас с превосходной молитвой (и) гимнами,  

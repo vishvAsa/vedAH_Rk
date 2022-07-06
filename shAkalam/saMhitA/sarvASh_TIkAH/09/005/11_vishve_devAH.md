@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे देवाः स्वा꣡हाकृतिम्  
 प꣡वमानस्य आ꣡ गत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अग्नि꣡र् इ꣡न्द्रः सजो꣡षसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 वा॒युः । बृह॒स्पतिः॑ । सूर्यः॑ । अ॒ग्निः । इन्द्रः॑ । स॒ऽजोष॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], vocative, plural, masculine
@@ -98,35 +98,35 @@ popular;; epic anuṣṭubh (424)
 हे **विश्वे** **देवाः** **वायुः** **बृहस्पतिः** च **सूर्यः** च **अग्निः** च **इन्द्रः** च सर्वे यूयं **सजोषसः** संगताः सन्तः **पवमानस्य** सोमस्य **स्वाहाकृतिं** स्वाहाकारं प्रति **आ** **गत** आगच्छत ॥ ॥२५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O all ye gods, come together to the consecration of the **Soma**-- **Vāyu**, **Bṛhaspati**, **Sūrya**, **Agni** and **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All you gods, come here to the svāhā-cry of the self-purifying one: Vāyu, Br̥haspati, the Sun, Agni, and Indra, all of one accord.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to the consecrating rite of Pavamana, all ye Gods,-  
      Vayu, Surya, Brhaspati, Indra, and Agni, in accord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter alle kommet zur Svahasegnung des sich läuternden: Vayu, Brihaspati, Surya, Agni, Indra, einmütig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heiles-ruf des rieselnden, o Götter, alle kommt herbei, Der Wind, Gebetsherr, Sonnengott, Agni und Indra im Verein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Все-Боги, приходите  
 На провозглашение:  

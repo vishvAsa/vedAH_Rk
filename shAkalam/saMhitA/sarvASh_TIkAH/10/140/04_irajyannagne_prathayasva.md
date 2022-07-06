@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इरज्य꣡न्न् अग्ने प्रथयस्व जन्तु꣡भिर्  
 अस्मे꣡ रा꣡यो अमर्तिय  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 पृण꣡क्षि सानसिं꣡ क्र꣡तुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । द॒र्श॒तस्य॑ । वपु॑षः । वि । रा॒ज॒सि॒ । पृ॒णक्षि॑ । सा॒न॒सिम् । क्रतु॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *irajyann* ← *irajyan* ← *irajy* ← *√rañj*
 - \[verb noun\], nominative, singular
@@ -107,7 +107,7 @@ genre M
 हे **अग्ने** **जन्तुभिः** जातैः शत्रुभिः सह **इरज्यन्** ईर्ष्यन् स्पर्धां कुर्वन् । ‘इरज् ईर्ष्यायाम् । कण्ड्वादिः । यद्वा इरज्यतिरैश्वर्यकर्मा । जन्तुभिर्जायमानैरात्मीयैस्तेजोभिः इरज्यन् ईश्वरो भवन् । हे **अमर्त्य** मरणरहित **अग्ने** **अस्मे** अस्माकम् । ‘सुपां सुलुक्° ' इति षष्ठ्या: शेआदेशः । **रायः** धनानि **प्रथयस्व** विस्तारय । रयिशब्दाच्छसः स्थाने व्यत्ययेन जस् । शसो वा व्यत्ययेन ‘ उडिदम्' इति विभक्त्युदात्तत्वं न क्रियते । **सः** त्वं **दर्शतस्य** दर्शनीयस्य **वपुषः** तेजोमयस्य शरीरस्य **वि** **राजसि** । तृतीयार्थे षष्ठी वा । ईदृशेन शरीरेण विशेषेण दीप्यसे । यद्वा । राजतिरैश्वर्यकर्मा । वपुरिति च रूपनाम । दर्शनीयेन रूपेण वि राजसि विशेषेण ईशिषे । अत एवं **सानसिं** संभजनीयं **क्रतुं** कर्मं **पृणक्षि** अस्माभिः संपर्चयसि । फलेन वा संयोजयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,7 +118,7 @@ genre M
 Contending with enemies: shining by the priestṣ.., offeringoblations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, exerting control, have yourself extended by the (human)  
 kinsmen. In us (be) riches, o immortal one.  
@@ -126,23 +126,23 @@ You rule over a wonder lovely to see. You (ful)fill your resolve that
 brings gain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, spread forth, as Ruler, over living things: give wealth to us, Immortal God.  
      Thou shinest out from beauty fair to look upon: thou leadest us to conquering power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Freischaltend breite dich, Agni, mit deinen Anhängern aus! Bei uns seien die Reichtümer, Unsterblicher! Du verfügst über sehenswerte Schönheit; du durchdringst die einträgliche Überlegung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit deinen Dienern waltend breit' dich, Agni, aus uns werde Gut, Unsterblicher! Du sehenswerther strahlst hervor aus schönem Glanz, du schenkst die Kraft, die Gut gewinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Распрямляясь, о Агни, распространяйся с помощью живых существ!  
 У нас (пусть будут) богатства, о бессмертный!  

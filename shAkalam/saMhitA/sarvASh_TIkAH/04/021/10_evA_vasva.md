@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ व꣡स्व इ꣡न्दरः+ सत्यः꣡ सम्रा꣡ड्  
 ढ꣡न्ता वृत्रं꣡ व꣡रिवः पूर꣡वे कः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भक्षीय꣡ ते अ꣡वसो दइ꣡वियस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पुरु॑ऽस्तुत । क्रत्वा॑ । नः॒ । श॒ग्धि॒ । रा॒यः । भ॒क्षी॒य । त॒े । अव॑सः । दैव्य॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 **एवा** एवमुक्तप्रकारेण स्तूयमानः **सत्यः** सत्यवान् **वस्वः** धनस्य **सम्राट्** ईश्वरः **वृत्रं** वृत्रनामानमसुरं **हन्ता** हिंसिता **इन्द्रः** **पूरवे** मनुष्याय यजमानाय **वरिवः** धनं **कः** करोति । ददातीत्यर्थः । 'क्रत्वा कर्मणा स्तुतिहेतुना हे **पुरुष्टुत** बहुभिर्यजमानैः स्तुतेन्द्र त्वं **नः** अस्मभ्यं **रायः** धनानि **शग्धि** देहि ॥ **ते** त्वया दीयमानस्य **दैव्यस्य** देवसंबन्धिनः **अवसः** अन्नस्य ॥ कर्मणि षष्ठी ॥ अन्नं **भक्षीय** अहं भजेय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,36 +140,36 @@ genre M
 Bestow riches on man: varivaḥ pūrave kaḥ = manuṣyāya dhanam **karoti**; or, it may be a reference to a descendant of **Puru**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just in this way, Indra, the real sovereign king of goods, the smiter of  Vr̥tra, made wide space for Pūru.  
 O you praised by many, in accordance with your will, show your power  over wealth for us. Might I have a share in your divine help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This last vs. before the refrain shows some ring-composition with the beginning of the hymn: samrā́ṭ (a) and krátvā (c) respond to krátuḥ ... samrā́ṭ in 2c.
 
 In pāda a satyáḥ ‘real, really here’ may signal Indra’s epiphany at the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So Indra is the truthful Lord of treasure. Freedom he gave to man by slaying Vrtra.  
      Much-lauded! help us with thy power to riches: may I be sharer of thy Godlike favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fürwahr, Indra der wahre Gebieter über das Gut, der Töter des Vritra soll dem Puru Errettung bringen. Vielgepriesener, erwirk uns ernstlich Reichtum! Ich möchte deiner göttlichen Gunst teilhaft werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fürwahr des Gutes wahrer Herr ist Indra, den Feind vertilgt er, schaffet Raum dem Volke, O vielgerühmter, schenk uns kräftig Reichthum, gib Antheil mir an deiner Gotteshülfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подлинно, Индра, истинный вседержитель блага,  
 Убийца Вритры, пусть создаст широкий простор для пуру!  

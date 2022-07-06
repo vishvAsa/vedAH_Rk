@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡मिद्धो अद्य꣡ राजसि  
 देवो꣡ देवइः꣡ सहस्रजित्  
 दूतो꣡ हव्या꣡ कवि꣡र् वह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 दू॒तः । ह॒व्या । क॒विः । व॒ह॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samiddho* ← *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -87,7 +87,7 @@ genre M
 हे अग्ने **देवैः** व्यवहर्तृभिर्ऋत्विग्भिः **समिद्धः** सम्यग्दीपितः **देवः** अत एव दीप्यमानः समिद्धैः वा देवैः सहितः समिद्धः सन् **अद्य** अस्मिन् यागदिने **राजसि** ईशिषे । हे **सहस्रजित्** सहस्रस्य धनस्य एतत्संख्याकानां शत्रूणां वा जेतः ततः **दूतः** देवानां दूतः तद्यज्ञादिवार्ताहरः आह्वाता वा ।  ‘ अग्निर्देवानां दूत आसीत् ' (तै. सं. २. ५. ८. ५) इति श्रुतेः। **कविः** क्रान्तदर्शी ईदृशस्त्वं **हव्या** अस्मदीयानि हवींषि **वह** देवेभ्यः प्रापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,35 +100,35 @@ The Āpris are also prayājas; kim. **devatā** = what sort of divinities are th
 Susamiddha = well-kindled, a name of Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Kindled today you rule as a god with the gods, o conqueror of  
 thousands.  
 As messenger and poet, convey the oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WINNER of thousands, kindled, thou shinest a God with Gods to-day.  
      Bear out oblations, envoy, Sage.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Being kindled thou reignest to-day, a god with the gods, O conqueror of thousandfold (wealth)! As messenger, as a sage, carry the oblations (to the gods).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entflammt schaltest du heute als Gott mit den Göttern, du Tausendgewinner. Als Bote und Seher fahre die Opferspenden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Gott bei Göttern leuchtest du entflammt, besiegend tausende, Fahr Opfer, weiser Bote du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажженный  
 , ты царствуешь сегодня  

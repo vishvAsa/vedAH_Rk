@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पिते꣡व पुत्र꣡म् अबिभर् उप꣡स्थे  
 तुवा꣡म् अग्ने वध्रिअश्वः꣡ सपर्य꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उत꣡ पू꣡र्वाँ अवनोर् व्रा꣡धतश् चित्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 जु॒षा॒णः । अ॒स्य॒ । स॒म्ऽइध॑म् । य॒वि॒ष्ठ॒ । उ॒त । पूर्वा॑न् । अ॒व॒नोः॒ । व्राध॑तः । चि॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *piteva* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
@@ -119,36 +119,36 @@ genre M
 हे **अग्ने** **त्वाम्** **उपस्थे** पृथिव्या उपस्थान उतरवेद्यां **सपर्यन्** । परिचर्याकर्मा । परिचरन् **वध्र्यश्वः** मम पिता **अबिभः** धृतवान् हविर्भिः पोषितवान्वा । कथमिव । **पितेव** यथा पिता समीपे **पुत्रं** स्थापयति पोषयति वा । ‘ डुभृञ् धारणपोषणयोः । लङि तिपि गुणे कृते हल्ङ्यादिना तिपो लोपः । हे **यविष्ठ** युवतमाग्ने **उत** अपि च **अस्य** वध्र्यश्वस्य पितुर्वा मम वा **समिधं** **जुषाणः** सेवमानः सन् **पूर्वान्** प्रत्नान **व्राधतश्चित्** बाधकानपि शत्रून् **अवनोः** अवधीः । वनतिर्हिंसयां भौवादिकः । व्यत्ययेनोप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Vadhryaśva, honouring you, **Agni**, plural ced you upon the altar as a father (plural ces) his son (upon hislap); plural ased with his fuel, youngest (of the gods), you did slay the ancient obstructers of the rite.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a father his son, Vadhryaśva bore you on his lap as he served you,  o Agni.  
 And taking pleasure in his kindling, o youngest one, you vanquished the  former (fires), even though they were greatly arrogant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like as a father bears his son, O Agni, Vadhryasva bare thee in his lap and served thee.  
      Thou, Youngest God, having enjoyed his fuel, didst vanquish those of old though they were mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie der Vater seinen Sohn, trug Vadhryasva dich, Agni, ehrend auf seinem Schoße. An dessen Brennhölzern Gefallen findend, o Jüngster, hast du auch die früheren Feinde überwunden, wenn sie sich stark fühlten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du trugst im Schooss ihn, wie den Sohn der Vater, als, Agni, dich verehrte Vadhriaçva; Du nahmst, o jüngster, gnädig an sein Brennholz und schlugst die mächt'gen, wenn sie dir auch trotzten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

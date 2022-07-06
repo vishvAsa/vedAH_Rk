@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ त्वा देव उस्रिक꣡म् म꣡न्यमानाः  
 पापा꣡ भद्र꣡म् उपजी꣡वन्ति पज्राः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हस्पते च꣡यस इ꣡त् पि꣡यारुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 न । दुः॒ऽध्ये॑ । अनु॑ । द॒दा॒सि॒ । वा॒मम् । बृह॑स्पते । चय॑से । इत् । पिया॑रुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -117,7 +117,7 @@ genre M
 हे **देव** बृहस्पते **ये** **पापाः** पापबुद्धयोऽल्पाः **पज्राः** हविर्लक्षणान्नवन्तः पापेन जीर्णा वा नराः **भद्रं** कल्याणं **वा** त्वाम् **उस्रिकम्** । उस्रियेति गोनाम । कुत्सितामल्पक्षीरोत्स्राविणीं गां जीर्णमनड्वाहं वा 'मन्यमानाः **उपजीवन्ति** उपेत्य प्राणन्ति अल्पं याचन्ते इत्यर्थः। दूढये दुर्धिये ॥ वचनव्यत्ययः ॥ दुर्बुद्धिभ्यस्तेभ्यः **वामं** वननीयं धनं **न** **अनु** **ददासि** अनुकूलं न वितरसि । हे **बृहस्पते** देव **पियारुं** सोमपानशीलं सोमेन यष्टारं महाफलरिप्सुं तु **चयसे** **इत्** गच्छस्येवानुग्रहीतुम् ॥ ‘चय गतौ ' इत्यस्येदं रूपम् ॥ यद्वा । हे बृहस्पते पियारुं हिंसकम् ॥ पीयतेर्हिंसाकर्मणः इदं रूपम् ॥ तं प्राणिहिंसकं चयसे इत् । हंस्येव । बृहस्पते यच्चातयसि देवपीयुम् (निरु. ४. २५) इति निरुक्तम् ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,13 +128,13 @@ genre M
 As an old ox: tvā usriyam manyamānaḥ: usriya = a cow giving little milk; or an old one, jīrṇam anaḍvāham vā; but your favour: cayasa it piyārum, you go to bestow favour on him who sacrifices with the **Soma**; another interpretation: you destroy the malevolent (**Nirukta** 4.25)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who are wicked and tough, who live off you who are good, taking  you for a ruddy little bullock, o god—  
 to the evil-minded one you do not concede anything of value; you just  punish the reviler, Br̥haspati.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. take pajrā́ḥ as a PN, as it can be elsewhere, but there seems no reason to drag in Kakṣīvant’s kin for vilification, and I prefer taking it as a simple descriptor.
 
@@ -145,23 +145,23 @@ There is disharmony in number between the two hemistichs: the relative cl. in th
 The accent on cáyase is probably due to the following íd, which does condition verbal accent -- though in fewer passages than listed by Grassmann (s.v. íd 5), since many of his exx. are pāda-initial. It can also be noted here that the verb immediately follows a pāda-initial voc. and is contrastive with ánu dadāsi in c, either of which would also favor verbal accent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those, God, who count thee as a worthless bullock, and, wealthy sinners, live on thee the Bounteous,--  
      On fools like these no blessing thou bestowest: Brhaspati, thou punishest the spiteful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da die Pajra´s dich für ein Öchslein halten und die Bösen dich, den Guten, ausnutzen, o Gott. So gestehst du dem Bösgesinnten nicht den Gewinn zu. Du strafst vielmehr den Feindseligen, o Brihaspati.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Bösen, die dem Oechslein gleich dich achten, und üppig von dem eignen Reichthum schwelgen, Dem Schlechten nicht, o Gott, gewährst du Schätze, und du bestrafst, Brihaspati, den Spötter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) злодеи паджры, которые, считая тебя, о бог,  
 Слабым бычком, живут (тобою,) несущим благо... –  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यं꣡ ह꣡स्ते न꣡ खादि꣡नं  
 शि꣡शुं जातं꣡ न꣡ बि꣡भ्रति  
 विशा꣡म् अग्निं꣡ सुअध्वर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 वि॒शाम् । अ॒ग्निम् । सु॒ऽअ॒ध्व॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -95,42 +95,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मन्थनोत्पन्नं **यम्** अग्निं **शिशुम्** **जातं** **न** जातं पुत्रमिव **हस्ते** **आ** **बिभ्रति** हस्तेष्वभिमुखं धारयन्त्यध्वर्यवः । पूर्वो नशब्दः पुरस्तादुपचारोऽप्युपमार्थीयः। **खादिनं** **न** भक्षकं व्याघ्रादिमिव । यथा तं बिभ्रतः पुरुषा अवहितास्तथाभूता इत्यर्थः। यद्वा संप्रत्यर्थे संप्रतीदानीं खादिनं हविषां भक्षकं यम् अग्निं हस्ते धारयन्ति **विशां** जनानां **स्वध्वरं** शोभनयागस्य निष्पादकं तम् **अग्निं** हे ऋत्विजः परिचरतेति शेषः ॥ ॥ २८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Worship) that **Agni** whom (the priests) bear in their **hands** like a new-born babe; the devourer (of the oblation), the (conveyer of the) holy sacrifices of men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom they carry like a bangle on the hand, like an infant just born, Agni, who conducts good ceremonies for the clans,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile marker ná is wrongly placed in pāda b, for no obvious reason.
 
 The two comparanda to Agni -- a bangle in the hand, a newborn babe, both carried -- suggest that this is the newly kindled fire, probably the offering fire, being taken out of the householder’s fire and carried to the east.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whom, like an infant newly born, devourer, in their arms they bear,  
      Men's Agni, skilled in holy rites.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den sie wie den Ring an der Hand, wie ein neugeborenes Kind tragen, den Agni, der für die Clane gut opfert,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni, den wie am Arm den Ring, wie neugebornes Kind man trägt, Der schön für Menschen Opfer bringt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого носят, как браслет на руке,  
 Как новорожденного младенца,  

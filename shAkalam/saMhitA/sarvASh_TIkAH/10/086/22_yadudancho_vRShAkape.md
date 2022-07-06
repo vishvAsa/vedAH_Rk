@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् उ꣡दञ्चो वृषाकपे  
 गृह꣡म् इन्द्रा꣡जगन्तन  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 क्व॑ । स्यः । पु॒ल्व॒घः । मृ॒गः । कम् । अ॒ग॒न् । ज॒न॒ऽयोप॑नः । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -126,7 +126,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 गत्वा पुनरागतं वृषाकपिमिन्द्रः पृच्छति । हे **इन्द्र** परमैश्वर्यवन् हे **वृषाकपे** यूयम् **उदञ्चः** उद्गामिनः सन्तो मद्गृहम् **अजगन्तन** आगच्छ । एकस्यापि बहुवचनं पूजार्थम् । तत्र भवतः संबन्धी **पुल्वघः** बहूनां भौमरसानामत्ता **स्यः** सः **मृगः** **क्व** अभूत् **जनयोपनः** जनानां मोदयिता मृगः **कं** वा देशम् **अगन्** अगच्छत् । सोऽहम् **इन्द्रः** **विश्वस्मात्** **उत्तरः** । यद्वा इन्द्राणीवाक्यमिदम् । अत्र यास्कः---- ‘ यदुदुञ्चो वृषाकपे गृहमिन्द्राजगमत क्व स्य पुल्वघो मृगः क्व स बह्वादी मृगः । मृगो मार्ष्टेर्गतिकर्मणः । कमगमद्देशं जनयोपनः ' (निरु. १३. ३ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,30 +137,30 @@ popular;; epic anuṣṭubh (525);; repeated line
 To what region: **Nirukta**, 13.3
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Vr̥ṣākapi, o Indra, you (all) went upward toward home, where was this beast of many misdeeds, to whom did the effacer of  
 men go?  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Indra and Vrsakapi, ye travelled upward to your home,  
      Where was that noisome beast, to whom went it, the beast that troubles man? Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr, Indra und Vrisakapi, aufwärts nach Hause gegangen waret, wo war das viel Unheil stiftende Tier, zu wem ist der Leutestörer gegangen? - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Als ihr, Vrischākapi und Indra, [mit euren Genossen] hinaufgegangen wart nach dem Hause [des Somapressers (Vers 1)], wohin ging da dies viel verderbende Wild, zu wem der Menschenquäler?« Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

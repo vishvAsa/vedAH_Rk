@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवो यः꣡ शत꣡म् आ꣡ सह꣡स्रम्  
 भू꣡म्या उप꣡स्थे अ꣡वपज् जघन्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ आ꣡वृणग् भ꣡रता सो꣡मम् अस्मै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कुत्स॑स्य । आ॒योः । अ॒ति॒थि॒ऽग्वस्य॑ । वी॒रान् । नि । अवृ॑णक् । भर॑त । सोम॑म् । अ॒स्मै॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -116,36 +116,36 @@ genre M
 हेअध्वर्यवः आजघन्वान् पूर्वंशत्रून् हतवान् यइन्द्रः शतं सहस्रमसुरान् भूम्याउपस्थे उत्सङ्गेअव- पत् एकैकेनप्रकारेणापातयत् किञ्च यःकुत्सस्यएतन्नामकस्यराजर्षेः आयोः पौरूरवस्यराजर्षेः अति- थिग्वस्यदिवोदासस्य एतेषान्त्रयाणांवीरानभिगन्तॄन् प्रतिद्वन्द्विनः शुष्णादीनसुरान् न्यावृणक् वृणा- क्तिर्हिंसाकर्मा अवधीत् तथाचमन्त्रवर्णः—त्वङ्कुत्संशुष्णहत्ये ष्वाविथारन्धयोतिथिग्वायशम्बरमिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Priests, present the **Soma** to him, who, slaying hundreds and thousands (of **asuras**), cast them down upon the lap of the earth; who destroyed the assailants of **Kutsa**, Āyu and **Atithigva**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus! Who, having struck them, scattered here the hundred, the  thousand on the lap of the earth, and slung down the heroes of Kutsa, Āyu, and Atithigva—to him  
 bring soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye ministers, to him who slew a hundred thousand, and cast them down upon earth's bosom;  
      Who quelled the valiant men of Atithigva, Kutsa, and Ayu,-bring to him the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! der hundert und tausend erschlug und in den Schoß der Erde säte. Die Mannen des Kutsa, des Ayu, des Atithigva niederrang - traget ihm Soma auf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Priester dem, der tausend und einhundert erschlug und hinwarf auf den Schooss der Erde; Des Kutsa, Aju, Atithigvan Mannen zu Boden stürzte, diesem bringet Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью! Кто сотню, тысячу  
 Убил (и) засеял лоно земли,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ वाम् अह्व ऊत꣡ये  
 य꣡था꣡हुवन्त मे꣡धिराः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 नास॑त्या । सोम॑ऽपीतये । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -97,14 +97,14 @@ genre M;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In like manner as the wise invoke you for protection, so do I invoke you, **Nāsatyās**, to drink the **Soma**;may all our enemies perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way have I called to you two for help, just as the wise have  called,  
 for you to drink the soma, o Nāsatyas.  
@@ -112,23 +112,23 @@ for you to drink the soma, o Nāsatyas.
 As Oldenberg remarks (1888: 216), on the basis of agreements in lexicon, phrase ology, and style it is likely that VIII.43–48 form a group, though they are not all  attributed to the same poet.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So have I called you to our aid, even as the wise have called of old,  
      Nasatyas, to the Soma-draught. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So habe ich euch zum Beistand angerufen, wie euch ehedem die Weisen anriefen, ihr Nasatya´s zum Somatrunk. All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So habe ich um Gunst gefleht, wie sonst euch rief der Weisen Schar, O treue, zu dem Somatrunk. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так я вас позвал на помощь,  
 Как призывали мудрые  

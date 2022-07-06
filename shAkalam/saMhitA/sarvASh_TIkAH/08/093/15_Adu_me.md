@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् उ मे निवरो꣡ भुवद्  
 वृत्रहा꣡दिष्ट पउं꣡सियम्  
 अ꣡जातशत्रुर् अ꣡स्तृतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अजा॑तऽशत्रुः । अस्तृ॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -92,20 +92,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **आदु** इत्यवधारणे । देवानां भीत्या सर्वतो गमनानन्तरमेव **मे** स्तोतृस्तुत्यलक्षणेन संबन्धेन मम संबन्ध्ययमिन्द्रः **निवरः** वृत्रासुरस्य निवारयिता हन्ता **भुवत्** अभवत् । ततः **वृत्रहा** वृत्रस्य हन्तेन्द्रः **पौंस्यम्** । पुंसः कर्म पौंस्यम् । यद्वा । स्त्रीपुंसाभ्याम् (पा. सू. ४. १. ८७ ) इति भवार्थे स्रञ्   । नकारस्य यकारो वर्णव्यत्ययेन । पुंसीन्द्रे भवम् । यद्वा । बलनामैतत् । स्वबलम् ॥ **अदिष्ट** तस्य राज्ये दिशति निदधाति । तद्राज्यं स्ववशमकरोदित्यर्थः । ततः प्रभृतीन्द्रः **अजातशत्रुः** अनुत्पन्नशत्रुः **अस्तृतः** संग्रामे परैरहिंसितश्चाभवत् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Then was my **Indra** the repeller; then did the smiter of **Vṛtra** put forth his might, he who has no existentenemies, the invincible.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And after that he became a covering for me: the Vr̥tra-smiter displayed  his masculine nature—  
 he for whom no rival has been born, he who cannot be laid low.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Judging from Geldner’s tr. of the first pāda, “Davor sei mir Bewahrung,” he takes ā́t as an ablative pronoun referring to ámaḥ in 14c (his “Panik,” my “onslaught”), but as far as I can tell, ā́t is elsewhere only adverbial, as opposed to the fuller pronominal form asmā́t. I also question his modal, indeed imperatival interpretation of bhuvat in this preterital context; thematic forms belonging originally to the root aorist stem (á)bhū- can be either subjunctive or a secondarily thematicized injunctive. See Hoffmann 1967 passim, esp. 214-15.
 
@@ -120,23 +120,23 @@ The connection among the verses in this tṛca eludes me, though the fact that t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then he was my Defender, then, Invincible, whose foe is not,  
      The Vrtra-slayer showed his might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Davor sei mir Bewahrung! Der Vritratöter hat seine Manneskraft erwiesen, er dem kein Gegner erstanden ist, der Ungefällte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch da war er Beschützer mir, und Kraft erwies der Vritrafeind, Unwiderstehlich, unbesiegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

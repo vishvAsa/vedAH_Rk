@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ ते अग्ने समि꣡धा विधेम  
 प्र꣡ति स्तो꣡मं शस्य꣡मानं गृभाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्रुहो꣡ निदो꣡ मित्रमहो अवद्या꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दह॑ । अ॒शसः॑ । र॒क्षसः॑ । पा॒हि । अ॒स्मान् । द्रु॒हः । नि॒दः । मि॒त्र॒ऽम॒हः॒ । अ॒व॒द्यात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -134,26 +134,26 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we propitiate you, **Agni**, by this fuel; accept the praise that is recited by us; consume the unadoring **rākṣasas**; you are to be honoured by (your) friends, preserve us from the reproach of the oppressor and the reviler.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With this kindling stick we would do honor to you, Agni. Accept the  praise being chanted.  
 Burn the demons who lack chant; protect us from deceit, from scorn,  from calumny, o you with Mitra’s might.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, with this fuel will we serve thee; accept the laud we sing to thee with favour  
      Destroy the cursing Raksasas: preserve us, O rich in friends, from guile and scorn and slander.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May we worship thee, O Agni, with this log of wood. Accept the hymn of praise which we recite. Burn down those who curse us, the sorcerers. Protect us, O (god) who art great like Mitra, from guile, from revilement, and from disgrace.
 </details>
@@ -166,17 +166,17 @@ Burn those that revile, the Raksases; guard us,
 From the foe, the reviler, O rich in friends, from blame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit diesem Brennholz wollen wir dir dienen, o Agni, nimm das vorgetragene Loblied entgegen, verbrenn die unerwünschten Unholde, schütz uns vor Trug, vor Tadel, vor Unehre, du wie Mitra Geehrter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir huld'gen, Agni, dir mit diesem Brennholz, empfange du das ausgesprochne Loblied; Die bösen Geister brenne, uns beschütze vor Trug und Hass, vor Schmach, o freundereicher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим почтить тебя, о Агни, этими дровами.  
 Прими произносимую хвалу!  

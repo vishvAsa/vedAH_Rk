@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ हि꣡ द्या꣡वापृथिवी꣡ भू꣡रिरेतसा  
 न꣡राशं꣡सश् च꣡तुरङ्गो यमो꣡ ऽदितिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ रोदसी꣡ मरु꣡तो वि꣡ष्णुर् अर्हिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दे॒वः । त्वष्टा॑ । द्र॒वि॒णः॒ऽदाः । ऋ॒भु॒क्षणः॑ । प्र । रो॒द॒सी इति॑ । म॒रुतः॑ । विष्णुः॑ । अ॒र्हि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, dual, feminine
@@ -126,36 +126,36 @@ genre M
 **भूरिरेतसा** बहूदके **द्यावापृथिवी** द्यावापृथिव्यौ **यमः** देवः **अदितिः** च **त्वष्टा** **देवः** च  **द्रविणोदाः** अग्निश्च **ऋभुक्षणः** ऋभवश्च **रोदसी** रुद्रस्य पत्नी च **मरुतः** देवाश्च **विष्णुः** च एते विश्वे देवाः **चतुरङ्गः** चतुर्भिरग्निभिर्युक्तस्तस्मिन्  **नराशंसः** नराशंसनामधेये यज्ञे **प्र** **अर्हिरे** अस्माभिः स्तोतृभिः पूज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They the heaven and earth, abounding with waters, the Narāśaṃsa rite with its four fires, **Yama**,**Aditi**, the divine **Tvaṣṭā**, (**Agni**) the giver of wealth, the **Ṛbhus**, **Rodasī**, the **Maruts**, and **Viṣṇu** areworshipped (by us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Heaven and Earth of abundant seed, Narāśaṃsa, the four-square,  Yama, Aditi,  
 god Tvaṣṭar, treasure-giver, the masters of the R̥bhus, Rodasī [/the two  World-Halves], the Maruts, Viṣṇu are deserving.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For these, the Earth and Heaven with their abundant seed, four-bodied Narasmsa, Yama, Aditi,  
      God Tvastar Wealth-bestower, the Rbhuksanas, Rodasi, Maruts, Visnu, claim and merit praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn diese beiden, Himmel und Erde, die samenreichen, Narasamsa, der viergliedrige, Yama, Aditi, Gott Tvastri, Dravinodas, die Rhibuksan´s, Himmel und Erde, die Marut, Vishnu haben den Vorrang.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die samenreichen Erd und Himmel, Jama auch, an Gliedern vierfach Naraçansa, Aditi; Der Reichthum schenkt, Gott Tvaschtar und die Ribhuschar, die Maruts, Vischnu, Rodasi verdienen Preis.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

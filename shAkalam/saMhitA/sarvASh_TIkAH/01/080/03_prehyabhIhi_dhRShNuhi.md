@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रे꣡हि अभी꣡हि धृष्णुहि꣡  
 न꣡ ते व꣡ज्रो नि꣡ यंसते  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 इन्द्र॑ । नृ॒म्णम् । हि । ते॒ । शवः॑ । हनः॑ । वृ॒त्रम् । जयाः॑ । अ॒पः । अर्च॑न् । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prehy* ← *prehi* ← *pre* ← *√i*
 - \[verb\], singular, Present imperative
@@ -133,42 +133,42 @@ genre M;; repeated line
 हे 'इन्द्र **प्रेहि** प्रकर्षेण गच्छ। **अभीहि** । हन्तव्यान् शत्रूनाभिमुख्येन प्राप्नुहि । प्राप्य च **धृष्णुहि** । तान् शत्रूनभिभव । **ते** तव **वज्रः** **न** **नि** **यंसते** शत्रुभिर्न नियम्यते अप्रतिहतगतिरित्यर्थः । तथा **ते** **शवः** त्वदीयं बलं **नृम्णं** नृणां पुरुषाणां नामकमभिभावकं **हि** यस्मादेवं तस्मात् **वृत्रम्** असुरं मेघं वा **हनः** जहि । ततोऽनन्तरं तेन निरुद्धाः **अपः** उदकानि **जयाः** जय । वृत्रं हत्वा तेनावृतमुदकं लभस्वेत्यर्थः । अन्यत् समानम् ॥ यंसते । यमेः कर्मणि लेटि  ‘ सिब्बहुलम्” इति सिप् । ‘लेटोऽडाटौ' इति अडागमः। हनः । लोडर्थे छान्दसो लङ । बहुलं छन्दसि ' इति शपो लुगभावः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । पूर्वपदस्यासमानवाक्यस्थत्वात् निघाताभावः । जयाः । जयतेर्लेटि आडागमः । पूर्ववत्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hasten, assail, subdue; your thunderbolt cannot fail; your vigour, **Indra**, destroys men; slay **Vṛtra**, win the waters, manifesting your own sovereignty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Go forth! Go to it! Dare! Your mace will not be restrained,  
 for, Indra, manly power and strength are yours. You will smash Vr̥tra;  you will conquer the waters.”  
 – They cheer on your sovereign power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the alliteration in b: dhṛṣṇáve dhīyate dhánā, a phrase that also contains an example of neut. pl. with sg. verb (dhīyate dhánā).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Go forward, meet the foe, be bold; thy bolt of thunder is not checked.  
      Manliness, Indra, is thy might: stay Vrtra, make the waters thine, lauding thine own imperial sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh vor, greif an, sei mutig! Deine Keule wird nicht aufgehalten werden, denn dein, Indra, ist die Manneskraft, die Stärke; du sollst den Vritra erschlagen, die Gewässer erobern. - Sie sollen in deine Selbstherrlichkeit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geh vorwärts, greife an, sei kühn, nichts möge hemmen deinen Blitz; Denn stark ist, Indra, deine Kraft; den Vritra triff, erring' die Flut, erstrahl in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выходи вперед! Нападай! Дерзай!  
 Твоя ваджра не будет знать удержу:  

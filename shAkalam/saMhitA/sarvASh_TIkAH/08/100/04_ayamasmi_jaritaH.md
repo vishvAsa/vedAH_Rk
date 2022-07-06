@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् अस्मि जरितः प꣡श्य मेह꣡  
 वि꣡श्वा जाता꣡नि अभि꣡ अस्मि मह्ना꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आदर्दिरो꣡ भु꣡वना दर्दरीमि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ऋ॒तस्य॑ । मा॒ । प्र॒ऽदिशः॑ । व॒र्ध॒य॒न्ति॒ । आ॒ऽद॒र्दि॒रः । भुव॑ना । द॒र्द॒री॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -116,20 +116,20 @@ popular
 एवं नेमस्यर्षेर्वचनमाकर्ण्य इन्द्रस्तस्य समीपमाजगाम । आगत्य चात्मानमनेन द्वृचेन स्तौति । हे **जरितः** स्तोतः **अयम्** अहम् **अस्मि** । **इह** तव समीपे स्थितं **मा** मां **पश्य** । **विश्वा** सर्वाणि **जातानि'** भुवनानि **मह्ना** महत्त्वेन **अभ्यस्मि** अहमभिभवामि । किंच माम् **ऋतस्य** सत्यस्य यज्ञस्य वा **प्रदिशः** प्रदेष्टारो विद्वांसः स्तोत्रैः **वर्धयन्ति** । अपि च **आदर्दिरः** आदरणशीलोऽहं **भुवना** भुवनानि शत्रुभूतानि **दर्दरीमि** भृशं विदारयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Indra** speaks): "here I am, worshipper, behold me here; I overpower all beings by my might; the offerersof sacrifice magnify me by their praises; I, the shatterer, shatter the worlds".”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] “Here I am, singer: see me here. I dominate all created things  with my greatness.  
 The instructions of truth [=hymns] strengthen me. As the one who  keeps breaking open (Vala), I keep breaking the worlds.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra clearly announces his epiphany, after the doubts expressed in vs. 3.
 
@@ -142,23 +142,23 @@ On ṛtásya … pradíśaḥ see Lüders (Varuṇa, 566-67), who considers them
 The duplication of intensive forms in nominal ādardiráḥ … dardarīmi is taken by Geldner (also Lüders, 566-67) as merely an etymological figure (esp. clear in Lüders’s “zerschmetternd zerschmettere ich…”). This is of course possible, but I wonder if the preverb of the nominal form does not signal more. The lexeme ā́√dṛ is often used for breaking open cowpens and tearing out the cattle, esp. in the Vala myth (cf., e.g., III.30.21), and so Indra may be not only announcing his current actions but also alluding to his regular mythological role as opener of the Vala cave full of cows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here am I, look upon me here, O singer. All that existeth 1 surpass in greatness.  
      The Holy Law's commandments make me mighty. Rending with strength I rend the worlds asunder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da bin ich, o Sänger, sieh mich hier! Alle Geschöpfe überrage ich an Größe. Die Beweise des rechten Glaubens stärken mich. Als Erbrecher sprenge ich die Welten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Hier bin ich, Sänger, sieh mich an, hier steh' ich; die Wesen alle übertreff' an Macht ich; Mich kräftigen des heil'gen Werkes Bräuche, zerschmetternd schmettre ich die Wesen nieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот я есть, о певец, смотри здесь на меня!  
 Все существа я превосхожу величием.  

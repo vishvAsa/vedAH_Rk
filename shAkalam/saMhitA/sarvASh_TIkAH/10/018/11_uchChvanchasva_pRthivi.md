@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡च् छ्वञ्चस्व पृथिवि मा꣡ नि꣡ बाधथाः  
 सूपायना꣡स्मै भव सूपवञ्चना꣡  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 अभ्य् ए᳡नम् भूम ऊर्णुहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मा॒ता । पु॒त्रम् । यथा॑ । सि॒चा । अ॒भि । ए॒न॒म् । भू॒मे॒ । ऊ॒र्णु॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ucchvañcasva* ← *ucchvañc* ← *√śvañc*
 - \[verb\], singular, Present imperative
@@ -121,7 +121,7 @@ popular
 हे पृथिवि **उच्छ्वञ्चस्व** । ऊर्ध्वंगतोच्छ्वासमेनं कुरु । अधस्तान्मा कृथा इत्यर्थः । किंच **मा** **नि** **बाधथाः** मा संपीडय । तथा **अस्मै** यजमानार्थं सूपायना शोभनोपगमना सूपचारिका भवेत्यर्थः । **सूपवञ्चना**। उपवञ्चनं प्रलम्भनम् । शोभनप्रलम्भा सुप्रतिष्ठा **भव** । अपि च **माता** **पुत्रम्** आत्मीयं बालकं **सिचा** वस्त्रान्तेन **यथा** आच्छादयति तद्वद्धे भूमि **एनम्** अस्थिरूपं यजमानं त्वम् **अभि** **ऊर्णुहि** आभिमुख्येनाच्छादय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ Earth, rise up above him: i.e., so as to give himbreathing room; while reciting 
 Comfortable: sūpavañcanā =deceiving well; treat him kindly for the sake of the sacrifice; fondle him, lull him to rest; **supratiṣṭhā** **bhava** = be
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Arch up, Earth; do not press down. Become easy to approach for him,  easy to curl up in.  
 Like a mother her son with her hem, cover him, Earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Heave thyself, Earth, nor press thee downward heavily: afford him easy access, gently tending him.  
      Cover him, as a mother wraps her skirt about her child, O Earth.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Wide open, earth, O press not heavily on him; Be easy of approach to him, a refuge safe; As with a robe a mother hides Her son, so shroud this man, O earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wölbe dich auf, o Erde, bedrücke ihn nicht, gib ihm guten Zugang und guten Unterschlupf! Wie die Mutter ihren Sohn mit einem Zipfel, so decke ihn zu, o Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eröffne dich, o Erde; nicht bedränge ihn, gewähr ihm leichten Eingang, sichern Zufluchtsort, Umhüll ihn, Erde, wie den Sohn die Mutter hüllt in ihr Gewand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Расступись, земля! Не дави (его)!  
 Будь ему легким входом, легким прибежищем!  

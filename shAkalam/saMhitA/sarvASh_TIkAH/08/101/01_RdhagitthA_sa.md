@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡धग् इत्था꣡ स꣡ म꣡र्तियः  
 शशमे꣡ देव꣡तातये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आचक्रे꣡ हव्य꣡दातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । नू॒नम् । मि॒त्रावरु॑णौ । अ॒भिष्ट॑ये । आ॒ऽच॒क्रे । ह॒व्यऽदा॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛdhag* ← *ṛdhak*
 - \[adverb\]
@@ -93,7 +93,7 @@ genre M
 **यः** मनुष्यः **नूनं** क्षिप्रं **हव्यदातये** हविषां प्रदात्रे यजमानाय **मित्रावरुणौ** **अभिष्टये** अभिमतसिद्धयर्थम् **आचक्रे** अभिमुखौ करोति **सः** **मर्त्यः** मनुष्यः **ऋधक्** सत्यम् **इत्था** इत्थं **देवतातये** यज्ञार्थं **शशमे** हविः संस्करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,34 +104,34 @@ genre M
 Verily that man who worships Mitra and Varuṇa for the attainment of hisdesires and the giving of oblations, becomes thereby perfectly tranquil and able to perform the sacrifice: ṛdhagdevatātaye
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That mortal has labored just so for the conclave of the gods, each one  by one,  
 who has now brought Mitra and Varuṇa here for their preeminence, for  our giving of oblations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first word of the hymn, ṛ́dhak ‘separately, one by one’, may be stationed there to indicate that the hymn (or hymn collection; see published introduction.) to follow praises a number of gods individually, who collectively are summed up in devátātaye ‘for the conclave of the gods’ at the end of the same hemistich.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YEA, specially that mortal man hath toiled for service of the Gods,  
      Who quickly hath brought near Mitra and Varuna. to share his sacrificial gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche hat so der Gottheit richtig gedient, der jetzt Mitra und Varuna zum Vortritt für die Opferausteilung bestimmt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Schar der Götter dient fürwahr am besten solch ein Sterblicher, Der stets sich Mitra-Varuna zum Beistand schafft für seine Opfer, die er bringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Действительно, тот смертный особо  
 Потрудился для толпы богов,  

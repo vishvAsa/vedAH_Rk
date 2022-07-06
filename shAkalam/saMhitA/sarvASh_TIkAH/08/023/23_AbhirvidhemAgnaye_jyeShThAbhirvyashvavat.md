@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡भिर् विधेम अग्न꣡ये  
 ज्य꣡यिष्ठाभिर्+ विअश्वव꣡त्  
 मं꣡हिष्ठाभिर् मति꣡भिः शुक्र꣡शोचिषे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 मंहि॑ष्ठाभिः । म॒तिऽभिः॑ । शु॒क्रऽशो॑चिषे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ābhir* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
@@ -81,36 +81,36 @@ genre M
 विश्वमनोनामका वयं **ज्येष्ठाभिः** प्रशस्यतमाभिः **मंहिष्ठाभिः** पूज्यतमाभिः **आभिः** सूक्तरूपाभिः स्तुतिभिः **शुक्रशोचिषे** ज्वलत्तेजसे **अग्नये** **विधेम** परिचरेम । कथमिव । **व्यश्ववत्** । यथा व्यश्वोऽस्माकं पिता अग्निं स्तुतिभिः पर्यचरत् तद्वद्वयमपि परिचरेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us, like **Vyaśva**, glorify the brilliant **Agni** with these excellent and most pious praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like Vyaśva, we would do honor to Agni with these most distinguished  (thoughts),  
 to him of blazing flame with most munificent thoughts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as Vyatya did, may we with these most high and liberal hymns  
      Pay worship unto Agni of the splendid flame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit diesen besten, reichhaltigsten Gebeten wollen wir wie Vyasva dem hellglühenden Agni dienen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Last dienen nach Viaçva's Art dem Agni uns, der hell erstrahlt, Mit diesen besten, reichlichsten Gesängen ihm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим служить Агни  
 Наподобие Вьяшвы, этими лучшими  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ ते शुक्रा꣡सः शु꣡चयः शुचिष्मः  
 क्षां᳐꣡ व꣡पन्ति वि꣡षितासो अ꣡श्वाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यात꣡यमानो अ꣡धि सा꣡नु पृ꣡श्नेः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अध॑ । भ्र॒मः । ते॒ । उ॒र्वि॒या । वि । भा॒ति॒ । या॒तय॑मानः । अधि॑ । सानु॑ । पृश्नेः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -117,7 +117,7 @@ genre M
 हे **शुचिष्मः** दीप्तिमन्नग्ने **ते** तव **शुक्रासः** शुभ्राः **ये** **शुचयः** दीप्तयः **क्षां** पृथिवीं भूमिं **वपन्ति** मुण्डयन्ति । केशस्थानीयानोषधिवनस्पतीन् दहन्तीत्यर्थः । ‘ अग्निर्ह दाति रोमा पृथिव्याः' (ऋ. सं. १. ६५. ४ ) इति निगमान्तरम् । ते रश्मयः **विषितासः** विमुक्ताः **अश्वाः** इव इतस्ततो गच्छन्तीति शेषः । **अध** अस्मिन् काले **ते** त्वदीयः **भ्रमः** भ्रमणशीलो ज्वालासमूहः **पृश्नेः** नानारूपाया भूमेः **अधि** उपरि **सानु** समुच्छ्रितं देशं पर्वताग्रादिकं प्रति **यातयमानः** स्वकीयमग्रं व्यापारयन् **उर्विया** उरु बहुलं **वि** **भाति** विशेषेण प्रकाशते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,13 +128,13 @@ genre M
 Shear the earth: kṣām **vapanti**, muṇḍayanti = shave the earth, the plural nts of which constitute the hair; mounting above the highlands: yātayamāno **adhi** **sānu** pṛśneḥ, bhumer-upari parvatāgrādikam **prati** svakīyam agram vyāpārayan, displaying its own point of flame upon the summit, and the like, of the mountains upon the earh; volcanic eruptions are, perhaps, alluded to
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your flaming flames, o possessor of flame, which shear the earth— (flames) like unharnessed horses.  
 Then your flickering radiates forth widely, marshaling itself on the back  of the dappled one [=earth].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my view (flg. Renou), the rel. cl. of the first hemistich hangs off the previous vs. 3 and supplies the subject (śúcayaḥ ‘flames’) of vananti in 3d. However, Geldner takes the rel. prn. yé as a stand-in for ‘wenn’, providing a subordinate clause to cd, with its resumptive ádha. The conspicuous alliteration of vs. 3, continued here (4a) — śukrā́saḥ śúcayaḥ śuciṣṃah, also a triple etymological figure — might be a weak arg.
 
@@ -149,28 +149,28 @@ In d the standard view (e.g., Geldner, Renou, Macdonell [Hymns, p. 74], Klein [D
 Though Renou (comm. ad loc.) suggests that there is such a ref. in IV.5.7, 10, those are desperately obscure passages and nothing can be built upon them. Generally pṛ́śninames the mother of the Maruts, who seems to have been a dappled cow, and “dappled (cow)” à “earth” is not a difficult step in RVic discourse. Still it should be kept in mind that it’s a step that hasn’t been taken elsewhere.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy pure white horses from their bonds are loosened: O Radiant One, they shear the ground beneath them,  
      And far and wide shines out thy flame, and flickers rapidly moving over earth's high ridges.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Thy steeds, the bright, the pure, O radiant Agni, Let loose speed on and shave the ground beneath them. Thy whirling flame then widely shines refulgent, The highest ridges of earth's surface reaching.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn deine leuchtenden hellen Rosse, du Leuchtender, losgekoppelt den Boden abscheren, dann erglänzt deine Lohe weithin über den Rücken der bunten Erde, um die Wette laufend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es scheren deine losgelassnen Rosse, die hellen, lichten, leuchtenden das Land ab, Und dann erstrahlet weit dein Flammenwirbel, der bunten Erde Fläche überfahrend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твои сверкающие светлые кони, о светящийся,  
 Которые стригут землю, когда отвязаны ... –  

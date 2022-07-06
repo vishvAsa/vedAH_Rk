@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡म ए꣡केभ्यः पवते  
 घृत꣡म् ए꣡क उ꣡पासते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तां꣡श् चिद् एवा꣡पि गछतात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 येभ्यः॑ । मधु॑ । प्र॒ऽधाव॑ति । तान् । चि॒त् । ए॒व । अपि॑ । ग॒च्छ॒ता॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -108,7 +108,7 @@ popular;; epic anuṣṭubh (292)
 **एकेभ्यः** केभ्यश्चित् पितृभ्यः **सोमः** **पवते** । उपभोगाय कुल्यारूपेण प्रवहति । एषां गोत्रजाः सामानि ब्रह्मयज्ञसमयेऽधीयते । श्रूयते हि -- यत्सामानि सोम एभ्यः पवते ' (तै. आ. २. १० ) इति । **एके** अन्ये पितरः **घृतम्** आज्यम् **उपासते** उपगच्छन्ति । उपभुञ्जत इत्यर्थः । एषां पुत्रादयो यजूंषि ब्रह्मयज्ञकालेऽधीयते । श्रुतिश्च भवति – 'यद्यजूंषि घृतस्य कुल्या ' इति । **येभ्यः** पितृभ्यः । तादर्थ्ये चतुथीं । उपभोगार्थं **मधु** क्षौद्रं **प्रधावति** प्रवाहरूपेण शीघ्रं गच्छति । य अथर्वणान् मन्त्रान् ब्रह्मयज्ञार्थमधीयते तेषां पितॄन् मधुकुल्या प्रवहति । तथा चाम्नायते-- यदाथर्वणाङ्गिरसो मधोः कुल्या ' इति । **तांश्चिदेव** तान् पूर्वोक्तान् सर्वानेव हे प्रेत त्वं **अपि** **गच्छतात्** अपिगच्छ प्राप्नुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,29 +119,29 @@ popular;; epic anuṣṭubh (292)
 Those who offer Soma to their **pitṛs** are the students of the **Sāmaveda**, those who offerghī are students of the **yajurveda**, and who offer honey are students of the **Atharvaveda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma purifies himself for some; others reverently approach ghee.  
 Those for whom honey flows forth—right to them let him go now.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FOR some is Soma purified, some sit by sacrificial oil:  
      To those for whom the meath flows forth, even to those let him depart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für die einen wird Soma geläutert, andere sitzen bei dem Schmalz. Für die der Met rinnt, auch zu diesem soll er gelangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den einen rieselt Somatrank, die andern lieben fette Kost; Auch sie, für die der Honig rinnt, – zu diesen allen gehe hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома очищается для одних,  
 Другие сидят возле жира.  

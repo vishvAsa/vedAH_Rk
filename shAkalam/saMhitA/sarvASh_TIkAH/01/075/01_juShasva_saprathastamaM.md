@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुष꣡स्व सप्र꣡थस्तमं  
 व꣡चो देव꣡प्सरस्तमम्  
 हव्या꣡ जु꣡ह्वान आस꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 ह॒व्या । जुह्वा॑नः । आ॒सनि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
@@ -71,20 +71,20 @@ genre M
 हे अग्ने **सप्रथस्तमम्** अतिशयेन विस्तीर्णं **वचः** स्तोत्रलक्षणमस्मदीयं वचनं **जुषस्व** सेवस्व । कीदृशम् । **देवप्सरस्तमं** देवानां प्रीणयितृतमम् । किं कुर्वन् । **आसनि** तवास्ये **हव्या** हव्यानि स्तोकलक्षणानि हवींषि **जुह्वानः** प्रक्षिपन् । इमानि स्तोकलक्षणानि हवींषि वृथा मा भूवन् तत्सर्वं त्वदीयेन मुखेन स्वीकुर्वित्यर्थः ॥ देवप्सरस्तमम् ।' स्पृ प्रीतिबलयोः । देवान् स्पृणोति प्रणयतीति देवप्सराः ।' गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च ' इति असुन् पूर्वपदप्रकृतिस्वरत्वं च । सकारपकारयोः स्थानविपर्ययः। अतिशयेन देवप्सरा देवप्सरस्तमः । जुह्वानः । जुहोतेर्व्यत्ययेन शानच् । ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । आसनि । ' पद्दन्' इत्यादिना आस्यशब्दस्य आसन्नादेशः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Accept our most exhaustive prayers, propitiatory of the gods, accepting our oblations in your mouth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Take delight in the most extensive speech, which affords most delight to  the gods,  
 while pouring the oblations into your own mouth.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -95,28 +95,28 @@ The two verses also contain four superlatives in -tama-, each to a stem ending i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ACCEPT our loudest-sounding hymn, food most delightful to the Gods,  
      Pouring our offerings in thy mouth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Accept gladly our most widely-sounding 1 speech, the most agreeable to the gods, thou who, in thy mouth, offerest the sacrificial food (to the gods).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erfreue dich an der sehr ausgedehnten Rede, die ganz nach der Götter Geschmack ist, während du die Spenden in deinem Mund opferst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimm an das Lied, das weit erschallt, der Götter schönstes Labsal ist, Den Trank dir giessend in den Mund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прими радостно (эту) шире всех простирающуюся  
 Речь, больше всех служащую к усладе богов,  

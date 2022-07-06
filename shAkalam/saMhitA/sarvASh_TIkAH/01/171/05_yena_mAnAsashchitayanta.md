@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡न मा꣡नासश् चित꣡यन्त उस्रा꣡  
 वि꣡उष्टिषु श꣡वसा श꣡श्वतीनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उग्र꣡ उग्रे꣡भि स्थ꣡विरः सहोदाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । म॒रुत्ऽभिः॑ । वृ॒ष॒भ॒ । श्रवः॑ । धाः॒ । उ॒ग्रः । उ॒ग्रेभिः॑ । स्थवि॑रः । स॒हः॒ऽदाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
@@ -117,36 +117,36 @@ genre M
 हे इन्द्र **येन** **शवसा** बलभूतेन त्वयानुगृहीताः **मानासः** मान्यास्त्वयाभिमानिताः वा **उस्राः** रश्मयः **शश्वतीनां** नित्यानां बह्वीनामुषसां **व्युष्टिषु** सतीषु प्रकाशेषु सत्सु **चितयन्ते** चेतयन्ते प्राणिनां स्वस्वव्यवहाराय प्रज्ञापयन्ति । ऐन्द्र्यां दिशि तेनैवानुगृहीता उषसो रश्मय उद्गच्छन्तीति प्रसिद्धम् । हे **वृषभ** वर्षितरिन्द्र **सः** तादृशस्त्वं **मरुद्भिः** सहितः **श्रवो** **धाः** सर्वत्र श्रूयमाणमन्नं धेहि स्थापय देहीत्यर्थः । कीदृशस्त्वम् । **उग्रः** उद्गूर्णबलः **सहोदाः** । पराभिभवसामर्थ्यं बलं सहः । तस्य दाता **स्थविरः** पुरातनः । कीदृशैर्मरुद्भिः। **उग्रेभिः** क्रूरबलैः । एवंमहानुभावः अन्नं देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The rays of the ever-recurring mornings, favoured, **Indra**, by your vigour, confer consciousness as they shine; showerer of benefits, ancient (of days), bestower of strength, fierce, (and attended), by the fierce **Maruts**, grant us (abundant) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The fame) by which the sons of Māna will shine with power during the  ruddy (dawns), at the dawning of the ever-constant (dawns)—  
 grant (that) fame to us, o bull!—You together with the Maruts, you  the mighty one together with the mighty ones, you the enduring one  giving strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By whom the Manas recognize the day-springs, by whose strength at the dawn of endless mornings,  
      Give us, thou Mighty, glory with Maruts. fierce with the fierce, the Strong who givest triumph.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch den die Mana´s mächtig bekannt werden, alle Morgen bei Anbruch all der vielen Morgenröten, den Ruhm bring uns, o Bulle, mit den Marut, du der Gewaltige mit den Gewaltigen, der Erstarkte, Übermacht verleihende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch den die Māna's früh am Morgen glänzen, mit Kraft im Licht der steten Morgenröthen, Du gib uns Ruhm, o Herrscher, mit den Maruts, mit starken stark, gewaltig, Sieg verleihend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 То, чем потомки Маны резко выделялись  
 (Все) утра, когда зажигались непрерывные (зори), –  

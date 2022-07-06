@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्राह्मणो᳡ ऽस्य मु꣡खम् आसीद्  
 बाहू꣡ राजनि꣡यः कृतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पद्भ्यां꣡ शूद्रो꣡ अजायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 ऊ॒रू इति॑ । तत् । अ॒स्य॒ । यत् । वैश्यः॑ । प॒त्ऽभ्याम् । शू॒द्रः । अ॒जा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *candramā* ← *candramāḥ* ← *candramas*
 - \[noun\], nominative, singular, masculine
@@ -113,7 +113,7 @@ popular;; epic anuṣṭubh (380)
 इदानीं पूर्वोक्तानां प्रश्नानामुत्तराणि दर्शयति । **अस्य** प्रजापतेः **ब्राह्मणः** ब्राह्मणत्वजातिविशिष्टः पुरुषः **मुखमासीत** मुखादुत्पन्न इत्यर्थः । योऽयं **राजन्यः** क्षत्रियत्वजातिमान् पुरुषः सः **बाहू** **कृतः** बाहुत्वेन निष्पादितः । बाहुभ्यामुत्पादित इत्यर्थः । तत् तदानीम् अस्य प्रजापतेः **यत्** यौ **ऊरू** तद्रूपः **वैश्यः** संपन्नः । ऊरुभ्यामुत्पन्न इत्यर्थः । तथास्य **पद्भ्यां** पादाभ्यां **शूद्रः** शूद्रत्वजातिमान् पुरुषः **अजायत** । इयं च मुखादिभ्यो ब्राह्मणादीनामुत्पत्तिर्यजुःसंहितायां सप्तमकाण्डे ‘स मुखतस्त्रिवृतं निरमिमीत' (तै. सं. ७. १. १. ४ ) इत्यादौ विस्पष्टमाम्नाता। अतः प्रश्नोत्तरे उभे अपि तत्परतयैव योजनीये ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,29 +124,29 @@ popular;; epic anuṣṭubh (380)
 The Brāhmaṇa was his mouth; the Rājanya was made his arms; thatwhich was the Vaiśya was his thighs; the S'Ūdra sprang from his feet: Muir, **Sanskrit** Texts, vol. 1, p.9
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The brahmin was his mouth. The ruler was made his two arms.  
 As to his thighs—that is what the freeman was. From his two feet the  servant was born.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Brahman was his mouth, of both his arms was the Rajanya made.  
      His thighs became the Vaisya, from his feet the Sudra was produced.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Mond ist aus seinem Geist entstanden, die Sonne entstand aus seinem Auge; aus seinem Munde Indra und Agni, aus seinem Aushauch entstand der Wind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Munde Indra und Agni, aus seinem Athem der Wind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Луна из (его) духа рождена,  
 Из глаза солнце родилось.  

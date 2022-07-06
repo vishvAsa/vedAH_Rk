@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मह꣡त् त꣡द् वः कवयश् चा꣡रु ना꣡म  
 य꣡द् ध देवा भ꣡वथ वि꣡श्व इ꣡न्द्रे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इमां꣡ धि꣡यं सात꣡ये तक्षता नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सखा॑ । ऋ॒भुऽभिः॑ । पु॒रु॒ऽहू॒त॒ । प्रि॒येभिः॑ । इ॒माम् । धिय॑म् । सा॒तये॑ । त॒क्ष॒त॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahat*
 - \[noun\], nominative, singular, neuter
@@ -139,7 +139,7 @@ genre M
 हे **कवयः** मेधाविनो हे देवाः **वः** युष्माकं **तत्** तादृशं **महत्** प्रभूतं **नाम** कर्म नमनं वा **चारु** मनोहरं खलु । **यत्** येन कर्मणा **विश्वे** सर्वे यूयम् **इन्द्रे** इन्द्रोपलक्षिते लोके **देवाः** **भवथ** **ह** देवत्वं प्राप्नुथ खलु । हे **पुरुहूत** बहुभिराहूत हे इन्द्र त्वं **प्रियेभिः** प्रियतमैः **ऋभुभिः** । ऋतेन भवन्त्यृतेन भान्तीति वा । ऋभुभिर्देवैः **सखा** असि । इन्द्रसहिता ऋभवो यूयम् **इमाम्** अस्मदीयां **धियं** स्तुतिं **नः** अस्माकं **सातये** धनादिलाभार्थं **तक्षत** स्वीकुरुत ॥ यत् । ‘सुपां सुलुक्° ' इत्यादिना सुपो लुक् । भवथ । भवतेर्लटि रूपम् । यद्वत्तयोगादनिघातः । सख ऋभुभिः इत्यत्र संहितायाम् ‘ऋत्यकः ' इति प्रकृतिभावो ह्रस्वत्वं च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,13 +150,13 @@ genre M
 That beautiful appellation: **cāru** **nāma** = agreeable or acceptable act or devotion, nāmakarma nāmānām vā, cāru, manoharam, by which the **Aśvins** attained deification, yena devatvam prāpnutha; in the preceding verse, sajātyam cāru nāma is explained as sajāte bhavam kamanīyam, desirable cognate appellation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Great is this cherished name of yours, o poets [=R̥bhus], that you all  become “gods” to Indra.  
 You are partner with the dear R̥bhus, much-invoked one. (All of you,)  fashion this insight here for us to win.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is phraseological connection between the first pāda of this vs. and the previous vs.: cā́ru nā́ma “dear name” repeats verbatim the end of 16b, and though they are etymologically unrelated, kavayaḥ in 17a echoes ákavaiḥ in 16d.
 
@@ -167,23 +167,23 @@ The second half-vs. consists of a pāda (c) with a sg. nom. (sákhā) referring 
 to the verb in d, but I have kept strictly to the grammar, as do the standard tr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is, ye Wise, your great and glorious title, that all ye Deities abide in Indra.  
      Friend, Much-invoked! art thou with thy dear Rbhus: fashion ye this our hymn for our advantage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das ist ein großes, schönes Wort von euch, ihr Seher, daß ihr Götter alle in Indra seid. Du vielgerufener Indra bist mit den lieben Ribhu´s befreundet. Formet dies Gedicht von uns zum Preisgewinn!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ist, o weise, euer theures Wesen, dass Götter alle ihr bei Indra weilet, Vereint den lieben Ribhu's, vielgerufen, macht unsre Bitte kräftig zum Erlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Велико это ваше милое имя, о поэты,  
 (Оно) ведь (в том,) о боги, что все вы заключаетесь в Индре.  

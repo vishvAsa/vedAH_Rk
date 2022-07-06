@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पि꣡त्रियाणि आ꣡युधानि विद्वा꣡न्  
 इ꣡न्द्रेषित आप्तियो꣡ अभ्य् अ᳡युध्यत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्वाष्ट्र꣡स्य चिन् निः꣡ ससृजे त्रितो꣡ गाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्रि॒ऽशी॒र्षाण॑म् । स॒प्तऽर॑श्मिम् । ज॒घ॒न्वान् । त्वा॒ष्ट्रस्य॑ । चि॒त् । निः । स॒सृ॒जे॒ । त्रि॒तः । गाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -129,36 +129,36 @@ genre M
 **आप्त्यः** आप्त्यस्य पुत्रोऽपां पुत्रो वा। तकारोपजनश्छान्दसः । **सः** त्रितः **पित्र्याणि** स्वपितृसंबन्धीनि **आयुधानि** **विद्वान्** जानन् **इन्द्रेषितः** त्रिशिरसा मया सह युद्धार्थमिन्द्रेण प्रेषितः सन् **अभ्ययुध्यत्** अभिमुख्येन युद्धवान् । तदनन्तरं सप्तरश्मिं शत्रुनियमनार्थं सप्तप्रग्रहहस्तम् । यद्वा । सप्तरश्मिरादित्यः । तत्सदृशम् । **त्रिशीर्षाणं** त्रिशिरस्कं मां **जघन्वान्** हतवान् । मूर्च्छितं कृतवानित्यर्थः । किं च **त्रितः** **त्वाष्ट्रस्य** **चित्** त्वष्टृपुत्रस्य ममापि **गाः** पशून् **निः** **ससृजे** विसृष्टवान् । अपहृतवानित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, the son of the waters, incited by **Indra**, skilled in his paternal weapons, fought against (the enemy),and slew the seven-rayed, three-headed (**asura**); then **Trita** set free the cows of the son of **Tvaṣṭā**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That one, Āptya, knowing his ancestral weapons, urged on by Indra,  attacked.  
 Having smashed the three-headed, seven-reined (monster), Trita let loose  the cows, even those of Tvaṣṭar’s son.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well-skilled to use the weapons of his Father, Aptya, urged on by Indra, fought the battle.  
      Then Trita slew the foe seven-rayed, three-headed, and freed the cattle of the Son of Tvastar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser, der Aptya, der väterlichen Waffen kundig, von Indra aufgefordert, bestand den Kampf. Als er den Dreiköpfigen, der sieben Zügel braucht, erschlagen hatte, ließ Trita die Kühe sogar des Tvastrisohnes heraus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wohl kennend seine väterlichen Waffen, gesandt von Indra kämpfte Trita Aptja, Den Tvāschtra mit drei Köpfen, sieben Zungen erschlug er und befreite dessen Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зная оружие, идущее от предков, этот  
 Аптья, посланный Индрой, победил в борьбе.  

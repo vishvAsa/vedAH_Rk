@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अमू꣡र् या꣡ उ꣡प सू꣡रिये  
 या꣡भिर् वा सू꣡रियः सह꣡  
 ता꣡ नो हिन्वन्तु अध्वर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ताः । नः॒ । हि॒न्व॒न्तु॒ । अ॒ध्व॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amūr* ← *amūḥ* ← *adas*
 - \[noun\], nominative, plural, feminine
@@ -91,7 +91,7 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **याः** **अमूः** आपः **सूर्ये** **उप** समीपेन अवस्थिताः।  ‘ आपः सूर्ये समाहिताः' (तै. आ. १. ८. १ ) इति श्रुत्यन्तरात् । **वा** अथवा **सूर्यः** **याभिः** अद्भिः **सह** वर्तते । पूर्वत्रापां प्राधान्यम् उतरत्र सूर्यस्येति विशेषः । **ताः** तादृश्य आपो **नः** अस्मदीयम् **अध्वरं** यागं **हिन्वन्तु** प्रीणयन्तु । याभिः ।  ‘ सावेकाचः' इति विभक्त्युदात्तस्य  ‘ न गोश्वन्साववर्ण° ' इति प्रतिषेधः। शेषा तु प्रक्रिया स्पष्टा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,28 +102,28 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Cf. āpaḥ surye samāhitāḥ, waters are collected in the Sun: **Taittirīya** **Āraṇyaka** 2.8.21).
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those (waters) yonder that are close to the sun, or with whom the sun is— let them propel our rite.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Waters gathered near the Sun, and those wherewith the Sun is joined,  
      Speed forth this sacrifice of ours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jene Gewässer, die bei der Sonne sind oder mit denen die Sonne ist, die sollen unsere Opferhandlung fördern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Wasser bei der Sonne dort, bei denen auch die Sonne weilt, Sie seien unserm Opfer hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те, кто возле солнца,  
 Или с кем солнце вместе,  

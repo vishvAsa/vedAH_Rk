@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ हि꣡ ष्ठा꣡ सुदानव  
 इ꣡न्द्रज्येष्ठा अभि꣡द्यवः  
 क꣡र्ता नो अ꣡ध्वन्न् आ꣡ सुगं꣡ गोपा꣡ अमा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 कर्त॑ । नः॒ । अध्व॑न् । आ । सु॒ऽगम् । गो॒पाः । अ॒मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -105,19 +105,19 @@ genre M;; line affected by realignment
 हे **सुदानवः** शोभनदाना देवाः **यूयं** हि **ष्ठ** यूयं खलु प्रभवथ । सन्नद्धाः स्थ । **इन्द्रज्येष्ठाः** । इन्द्रो ज्येष्ठो मुख्यो येषां ते । **अभिद्यवः** अभिगतदीप्यस्ते यूयम् **अध्वन्** अध्वनि मार्गे **नः** अस्माकम् **अमा** सहैव **गोपाः** गोपायितारो रक्षितारः सन्तः **सुगं** सुखम् । आकारः समुच्चये । सुखं च **कर्त** कुरुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are munificent and illustrious, gods, with **Indra** for your chief, be with us, protectors, on the road, and grant us happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you of good drops, with Indra preeminent, are heaven-bound, make good passage for us on the road. (Be) herdsmen at home.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the second hemistich ádhvan ‘on the road’ and amā́‘at home’ are contrastive, as Renou points out. The brief tag gopā́amā́must be a separate clause: both Geldner and Renou supply an imperatival “be,” as do I. Again clausal division supports the metrical division suggested ad vs. 13.
 
@@ -132,23 +132,23 @@ As noted in the published introduction, I consider the remaining vss. to belong 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, O most bountiful, are they who, led by Indra, seek the sky.  
      Give us good paths for travel: guard us ivell at home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr Gabenschönen seid ja die Glorreichen mit Indra als Oberstem. Schaffet uns unterwegs gute Fahrt, seid Schützer daheim!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr, o gabenreiche [Maruts] seid ja himmelstrebend und habt Indra an der Spitze; drum schafft uns auf unserm Wege guten Fortgang und behütet uns daheim.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы, (о боги) с прекрасными дарами,  
 С Индрой во главе обращены к небу.  

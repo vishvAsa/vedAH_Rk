@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि अग्ने समिधानो꣡ अर्वा꣡ङ्  
 इ꣡न्द्रेण देवइः꣡ सर꣡थं तुरे꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वा꣡हा देवा꣡ अमृ꣡ता मादयन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ब॒र्हिः । नः॒ । आ॒स्ता॒म् । अदि॑तिः । सु॒ऽपु॒त्रा । स्वाहा॑ । दे॒वाः । अ॒मृताः॑ । मा॒द॒य॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 हेअग्ने अर्वाक् अस्मदभिमुखंसमिधानः समिध्यमानः ज्वालारूपेणदीप्यमानः त्वंआयाहि देवतारूपेणागच्छ कथमितिउच्यते—नोस्माकंयज्ञंइन्द्रेणदेवैश्चतुरेभिः त्वरमाणैःदेवैः सरथंसमान रथं यथातथा आयाहि किञ्च सुपुत्राअदितिरपिनोबर्हिः आस्तां अध्यास्तां स्वाहा स्वाहाकारेण युक्ताअमृताः नित्यादेवाः मादयन्तां तृप्यन्तु ॥ ११ ॥प्रत्यग्निरुषसइत्येकादशर्चम्पञ्चमंसूक्तं वैश्वामित्रन्त्रैष्टुभमाग्नेयं अत्रानुक्रमणिका—प्रत्यग्निरिति । प्रातरनुवाकाश्विनशस्त्रयोरिदमादिसूक्तत्रयस्यविनियोगः सूत्रितञ्च—प्रत्यग्निरुषसइतित्रीणीति इळामग्नइतिअस्यउक्तोविनियोगः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ genre M
 May the immortal gods: **svāhā** **devā** **amṛtā** mādayantām: svāhā = svāhākāreṇa **yuktaḥ**, joined with or addressed by the exclamation, svāhā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey near here, o Agni, as you are kindled, on the same chariot with  Indra and the swift gods.  
 Let Aditi of good sons sit on our ritual grass. Svāhā! Let the immortal  gods rejoice!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come thou to us, O Agni, duly kindled, together with the potent Gods and Indra.  
      On this our grass sit Aditi, happy Mother, and let our Hail delight the Gods Immortal.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, being kindled, come hither, on one chariot with Indra, with the quick gods. May Aditi, the mother of noble sons, sit down on our sacrificial grass. With Svâhâ may the immortal gods rejoice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm entflammt näher, o Agni, mit Indra und den höheren Göttern auf gleichem Wagen! Auf unser Barhis soll sich Aditi, die Mutter guter Söhne setzen. Unter Svaharuf sollen sich die unsterblichen Götter ergötzen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzündet komme noch herbei, o Agni, vereint mit Indra und den starken Göttern; Auf unsrer Streu sitz' Aditi, die Mutter, die Götter mögen sich zum Heil berauschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажженный, о Агни, приезжай к нам сюда  
 Вместе с Индрой, с могучими богами на одной колеснице!  

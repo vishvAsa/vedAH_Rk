@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्यम् मृजन्ति कल꣡शे द꣡श क्षि꣡पः  
 प्र꣡ वि꣡प्राणाम् मत꣡यो वा꣡च ईरते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ए꣡न्द्रं विशन्ति मदिरा꣡स इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पव॑मानाः । अ॒भि । अ॒र्ष॒न्ति॒ । सु॒ऽस्तु॒तिम् । आ । इन्द्र॑म् । वि॒श॒न्ति॒ । म॒दि॒रासः॑ । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atyam* ← *atya*
 - \[noun\], accusative, singular, masculine
@@ -122,21 +122,21 @@ genre M
 **अत्यम्** अतनवन्तमश्वस्थानीयं वा सोमं **कलशे** **दश** **क्षिपः** दशाङ्गुलयोऽध्वर्युसंबन्धिन्यः **मृजन्ति** शोधयन्ति । तथा **विप्राणां** मध्ये **मतयः** स्तोतारः **वाचः** स्तुतीः **ईरते** प्रेरयन्ति । **पवमानाः** सोमाः **अभ्यर्षन्ति** अभिगच्छन्ति **सुष्टुतिं** शोभनस्तुतिम् । **इन्द्रं** **मदिरासः** मदकराः **इन्दवः** सोमाः **आ** **विशन्ति** प्रविशन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The ten fingers clean the horse in the pitcher; among the **vipras** the worshippers send forth praises; the filtered (juices) hasten to the fair praise, the exhilarating **Soma** juices enter **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ten fingers groom the steed in the tub. The thoughts, the words of  the inspired poets press forward.  
 Purifying themselves, they rush to the lovely praise hymn. The  
 exhilarating drops enter Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -146,23 +146,23 @@ Pādas 7c and 8a have almost identical structure: pávamānā abhy àrṣanti su
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ten rapid fingers deck the Courser in the jar: with hymns the holy singers send their voices forth.  
      The filtering juices hasten to their eulogy, the drops that gladden find their way to Indra's heart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die zehn Finger putzen den Renner in dem Kruge; die Gedanken und Worte der Redekundigen kommen hervor. Sich läuternd strömen sie dem Loblied zu; die berauschenden Säfte gehen in Indra ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zehn Finger striegeln in dem Krug das schnelle Ross; der Sänger Lieder und Gebete dringen vor; Dem Lobgesang entgegen gehn die rieselnden, in Indra's Bauch die Indu's, die berauschenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Десять пальцев начищают скакового коня в кувшине,  
 Возникают поэтические произведения вдохновенных, (их) речи.  

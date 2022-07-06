@@ -3,7 +3,7 @@ title = "+05"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 ### Sages  
 Only fourteen of the eighty-seven hymns of the maṇḍala are attributed or alter nately attributed to Atri himself (V.27, 37–43, 76–77, 83–86). The majority of the  hymns were composed by Ātreyas, descendants of Atri, thirty-six of whom are  mentioned by the Anukramaṇī in Maṇḍala V.  In the Anukramaṇī’s reckoning,  only three of the Ātreyas— Vasuśruta (3–6), Sutambhara (11–14), and Śyāvāśva  (52–59, 81–82)—composed more than one or two hymns, and only Atri himself,  Śyāvāśva, and Avasyu Ātreya (31, 75) provided hymns to more than one deity or  set of deities in this book. 
@@ -24,7 +24,7 @@ The Atri Maṇḍala contains a noteworthy collection of hymns to the All Gods  
 The Marut cycle attributed to Śyāvāśva Ātreya (52–61) contains the longest  sequence of hymns dedicated to these gods in the R̥gveda and is a remarkably exciting and satisfying achievement. Other hymns of note include two  hymns to gods of the natural world, V.80 to Dawn and V.83 to Parjanya, the  Thunderstorm. The first is the most famous and certainly one of the most beautiful of the hymns to Dawn in the R̥gveda, famed for its sensual portrayal of  Dawn as a beautiful woman revealing herself to men. The latter is an energetic  picture of the storm god, roaring loudly and flooding the earth. The rains are a  constant theme in a number of the strongest hymns in this collection+++(4)+++, including  V.54, which vividly describes the Maruts and the storms they bring, and V.63,  which rumbles repeated sounds in its praise of Mitra and Varuṇa as masters  of the monsoons. The single hymn to Varuṇa in this collection, V.85, presents  both a grand vision of the god as the creator of the world and a more intimate  one of Varuṇa as a god who can forgive offenses and free people from them.  In general, the Atri poets were at their best in describing natural phenomena,  especially thunderstorms, which they both fervently desire and fear because of  their power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Commentary V [V.1-28 JPB]
 </details>

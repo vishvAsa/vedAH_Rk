@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् जातो꣡ अरोचत  
 घ्न꣡न् द꣡स्यूञ् ज्यो꣡तिषा त꣡मः  
 अ꣡विन्दद् गा꣡ अपः꣡ सु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 अवि॑न्दत् । गाः । अ॒पः । स्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -92,41 +92,41 @@ genre M
 **जातः** अरण्योर्मथनेन प्रादुर्भूतः **अग्निः** **दस्यून्** यज्ञविघ्नकारिणः शत्रून् **घ्नन्** हिंसन् **ज्योतिषा** स्वेन तेजसा **तमः** घ्नन् **अरोचत** अदीप्यत । किंच **गा** **अपः** उदकानि **स्वः** सूर्यं च **अविन्दत्** अवेदयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, as soon as born, blazes brightly, destroying the **dasyus**, and (dispersing) the darkness by his lustre; he has discovered the cows, the waters, the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni shone as soon as he was born, smashing Dasyus and darkness with  his light.  
 He found the cows, the waters, and the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni shone bright when born, with light killing the Dasyus and the dark:  
      He found the Kine, the Floods, the Sun.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni when born has shone, killing the Dasyus, (killing) darkness by light. He has found the cows, the waters, the sun 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni erstrahlte eben geboren, die Dasyu´s erschlagend, mit seinem Lichte die Finsternis zerstörend. Er fand die Rinder, die Gewässer, die Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren glänzte Agni, schlug durch Licht Dämonen, Finsterniss, Fand Kühe, Wasser, Himmelsglanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, едва родившись, запылал,  
 Убивая дасью, (разгоняя) мрак светом.  

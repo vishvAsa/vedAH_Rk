@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य अ꣡नूना गभीरा꣡  
 म꣡दा उर꣡वस् त꣡रुत्राः  
 हर्षुम꣡न्तः शू꣡रसातौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 ह॒र्षु॒ऽमन्तः॑ । शूर॑ऽसातौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyānūnā* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -72,7 +72,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **यस्य** इन्द्रस्य **मदाः** सोमपानजनिताः **अनूनाः** अन्यूनाः **गभीराः** गाम्भीर्योपेताः **उरवः** विस्तीर्णाः **तरुत्राः** शत्रूणां तारकाः **शूरसातौ** शूरसंभजनीये संग्रामे **हर्षुमन्तः** हर्षयुक्ताः संग्रामोत्सुका भवन्ति । तमिन्द्रमिति पूर्वयोत्तरया वा संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -83,35 +83,35 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Harṣamantaḥ = exulting in, i.e. eager for, war, harṣayuktaḥ saṅgrāmotsukaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To whom belong the exhilarating drinks—unfailing, deep, wide,  
 overwhelming—  
 that produce his excitement at the contest of champions...
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 harṣumánt- occurs only here, but note the impv. harṣayā that ends the last hymn (VIII.15.13).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose perfect ecstasies are wide, profound, victorious, and give  
      joy in the field where heroes win.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Räusche vollkommen, unergründlich, breit, durchhelfend und streitlustig sind im Kampf um den Tapfersten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dessen Rauschmuth unerschöpflich, ohne Mangel, weit und rettend, Freudebringend in der Schlacht ist,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чьи полные, глубокие,  
 Широкие опьянения спасают  

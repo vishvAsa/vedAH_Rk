@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मनीषि꣡भिः पवते पूर्वियः꣡ कवि꣡र्  
 नृ꣡भिर् यतः꣡ प꣡रि को꣡शाँ अचिक्रदत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रस्य वायोः꣡ सखिया꣡य क꣡र्तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्रि॒तस्य॑ । नाम॑ । ज॒नय॑न् । मधु॑ । क्ष॒र॒त् । इन्द्र॑स्य । वा॒योः । स॒ख्याय॑ । कर्त॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *manīṣibhiḥ* ← *manīṣin*
 - \[noun\], instrumental, plural, masculine
@@ -126,21 +126,21 @@ genre M
 अयं सोमः **मनीषिभिः** मेधाविभिरध्वर्य्वादिभिः **पवते** पूयते । यद्वा । अयं मनीषिभिर्मनीषिणीभिर्धाराभिः पवते क्षरति । कीदृशोऽयम् । **पूर्व्यः** पुराणः **कविः** मेधावी **नृभिः** नेतृभिरध्वर्य्वादिभिः **यतः** नियमितः सन् **कोशान्** कलशान प्राप्तुं **परि** **अचिक्रदत्** परिक्रन्दते शब्दं करोति । **त्रितस्य** त्रिषु स्थानेषु विस्तृतस्येन्द्रस्य संबन्धि **नाम** नामकमुदकं **जनयन्** उत्पादयन् **मधु** मधुरं रसं **क्षरत्** क्षरति । किमर्थम् । **इन्द्रस्य** **वायोः** च **सख्याय** **कर्तवे** सख्यं कर्तुम् ॥ ॥१५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The ancient sage (**Soma**) is purified by the wise, guided by the priests he roars into the receptacles; genitive rating the water of the threefold (**Indra**), he distils sweet juice to gain Indra's and **Vāyu**'s friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through the inspired ones the primordial poet purifies himself; guided  by men he has roared around the casks.  
 Engendering the name of Trita, he flows as honey, to create the  
 partnership of Indra and Vāyu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner interpr. pavate as a passive, with manīṣíbhiḥ as agent (“Von den Verständigen wird der allerste Seher geläutert”), but pávate is so insistently reflexive in the Soma maṇḍala that I strongly resist a passive here. Renou’s tr. is like mine, though he doesn’t comment.
 
@@ -157,23 +157,23 @@ No obvious signs of unity. The instr. manīṣíbhiḥ is found at the end of 19
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On, with the prudent singers, flows the ancient Sage and guided by the men hath roared about the vats.  
      Producing Trita's name, may he pour forth the meath, that Vayu and that Indra may become his Friends.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von den Verständigen wird der allererste Seher geläutert; von den Männern gezügelt hat er die Kufe umwiehert. Den Namen des Trita hervorrufend strömt er Süßes aus, um Freundschaft mit Indra und Vayu zu schließen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der alte Seher rieselt durch der Priester Werk, gelenkt von Männern schrie er um die Kufen jetzt, Des Trita Wesen zeugend ström' er süssen Trank dem Indra, Vaju zu erweisen Freundesdienst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

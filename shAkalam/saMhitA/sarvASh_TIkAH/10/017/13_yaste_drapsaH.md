@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्पुरस्ताद्बृहती
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते द्रप्स꣡ स्कन्नो꣡ य꣡स् ते अंशु꣡र्  
 अव꣡श् च यः꣡ परः꣡ स्रुचा꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्पुरस्ताद्बृहती
 सं꣡ तं꣡ सिञ्चतु रा꣡धसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अ॒यम् । दे॒वः । बृह॒स्पतिः॑ । सम् । तम् । सि॒ञ्च॒तु॒ । राध॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -120,36 +120,36 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे सोम **ते** त्वदीयः **यः** **द्रप्सः** रसोऽन्यत्र **स्कन्नः** गतः **यः** च त्वदीयस्तव कारणभूतः **अंशुः** लताखण्डो रसादितरो भवति **स्रुचा** पात्रविशेषण गृहीतः सोमः **अवः** अवस्तात् स्कन्दते **परः** परस्ताद्वातिरिक्तो भवति **तम्** इमं सोमम् **अयं** **बृहस्पतिः** एतन्नामकः **देवः** **सं** **सिञ्चतु** सम्यक् प्रक्षारयतु । किमर्थम् । **राधसे** अस्माकं धनार्थम् । स्कन्ने हि सोमे प्रजापश्वादिकमपस्कन्नं भवति खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your juice and your filaments, (**Soma**), which escape, and which fall from the ladle on this side or onthat; may this divine **Bṛhaspati** sprinkle it for our enrichment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your drop that has spurted, your plant, and what is below and what  beyond the ladle—  
 let this god Br̥haspati pour it all together for benefit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That fallen Drop of thine, the stalk which from the ladle fell away,  
      This present God Brhaspati shall pour it forth to make us rich.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Tropfen, der daneben fiel, dein Stengel, der vom Löffel herab oder über den Löffel hinaus fiel, den soll dieser Gott Brihaspati hinzugießen zur Opferspende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Tropfen, dein Saft, der später und früher mit dem Löffel [ausgegossen ist], den möge dieser Gott Brihaspati strömen lassen zu reicher Gabe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какая капля пролита у тебя,  
 Какой у тебя сок – (с ложки) вниз и какой через ложку, -  

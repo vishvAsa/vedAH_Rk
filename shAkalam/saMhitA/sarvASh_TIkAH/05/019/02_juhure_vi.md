@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुहुरे꣡ वि꣡ चित꣡यन्तो  
 अ꣡निमिषं नृम्ण꣡म् पान्ति  
 आ꣡ दॄळ्हा꣡म्+ पु꣡रं विविशुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 आ । दृ॒ळ्हाम् । पुर॑म् । वि॒वि॒शुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juhure* ← *hu*
 - \[verb\], plural, Perfect indicative
@@ -80,42 +80,42 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 ये **वि** **चितयन्तः** तव प्रभावं जानन्तो जनाः **अनिमिषं** सर्वदा **जुहुरे** जुहुविरे यज्ञार्थं त्वामाह्वयन्ति, आहूय च **नृम्णं** तव बलं हविर्भिः स्तोत्रैश्च **पान्ति** रक्षन्ति ते **दृळ्हां** शत्रुभिः साधयितुमशक्यां **पुरं** पुरीम् **आ** **विविशुः** प्रविशन्ति ।  ‘ शतं पूर्भिरायसीभिर्नि पाहि' ( ऋ. सं. ७. ३. ७) इति निगमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They who know (your power) invoke you incessantly and nourish (your) strength (by oblations); they dwell in an impregnable city.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Attentive, they [=the priests] have poured various offerings.  
 Unblinkingly, they protect his manly power.  
 They have entered into the firm fortress.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Discerning, have they offered gifts: they guard the strength that never wastes.  
      To a strong fort have they pressed in.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Causing him to discern (the pious and the impious?), they have sacrificed. With unwinking eyes they protect his manly power. They have penetrated into the firm stronghold 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aufmerksam haben sie verschiedene Opfer gebracht; ohne die Augen zu schließen bewachen sie seine Kraft. Sie sind in die feste Burg eingezogen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die glänzenden [Soma's] ergossen sich und schützen wachsam seine Kraft, sie drangen in die feste Burg [wol Indra].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сосредоточенно они принесли разные жертвы.  
 Не смыкая глаз, охраняют они (его) мужественность.  

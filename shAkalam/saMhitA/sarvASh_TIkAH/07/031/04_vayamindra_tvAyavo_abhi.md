@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वय꣡म् इन्द्र तुवाय꣡वो  
 अभि꣡ प्र꣡ णोनुमो वृषन्  
 विद्धी꣡ तु꣡ अस्य꣡ नो वसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि॒द्धि । तु । अ॒स्य । नः॒ । व॒सो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -88,19 +88,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वृषन्** कामानां वर्षितः **इन्द्र** **त्वायवः** त्वत्कामाः **वयं** वसिष्ठास्त्वाम् **अभि** **प्र** **णोनुमः** प्रकर्षेण स्तुमः । हे **वसो** वासयितरिन्द्र **अस्य** इदमस्मदीयं स्तोत्रं **तु** क्षिप्रं **विद्धि** अवधारय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Devoted to you, showerer (of benefits), we glorify you; be cognizant, giver of dwellings, of this ourpraise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We are seeking you, o Indra; we keep bellowing out to you, o bull. Know this (cry?) of ours, o good one.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -112,22 +112,22 @@ There is no obvious noun to supply with asyá ‘of this’ in c. Geldner suppli
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Faithful to thee we loudly sing, heroic Indra, songs to thee: Mark, O Good Lord, this act of ours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir schreien nach dir, du Bulle Indra, verlangend; beachte doch diesen Schrei von uns, du Gütiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die, Indra, wir die deinen sind, o starker, wir besingen dich; O guter, achte du darauf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы, о Индра, стремясь к тебе,  
 Громко приветствуем (тебя) криками, о бык.  

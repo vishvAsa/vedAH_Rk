@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् इ꣡द् यवयु꣡र् म꣡म  
 का꣡मो गव्यु꣡र् हिरण्ययुः꣡  
 तुवा꣡म् अश्वयु꣡र् ए꣡षते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 त्वाम् । अ॒श्व॒ऽयुः । आ । ई॒ष॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -78,7 +78,7 @@ genre M
 **त्वामित्** त्वामेव **एषते** । किम् । **मम** **कामः** । स कीदृशः । **यवयुः** यवेच्छुः सन्नेषते । तथा **गव्युः** सन्नेषते । तथा **हिरण्ययुः** च सन्नेषते । तथा **अश्वयुः** च सन्नेषते । तं काममाप्तेच्छं कुर्विति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,29 +89,29 @@ genre M
 Barley:**yava** = barley; in the **Atharva Veda** and the **Brāhmaṇas**, yava and **vrīhi** (rice) are the principal kinds of corn,while rice is not mentioned in the **Rigveda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just toward you does my desire hasten, seeking grain, seeking cattle,  seeking gold,  
 toward you, seeking horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee speeds forth my hope that craves the gift of corn, and kine and gold,  
      Yea, craving horses, speeds to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dir strebt mein Wunsch, der nach Korn und Rind und Gold verlangt, zu dir mein Wunsch, der nach Rossen verlangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dir ja strebet hin mein Wunsch, der Gerste, Rinder, Gold begehrt, Zu dir mein Wunsch nach Rossbesitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

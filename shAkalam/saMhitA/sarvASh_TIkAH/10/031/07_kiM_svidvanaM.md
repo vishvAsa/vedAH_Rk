@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 किं꣡ स्विद् व꣡नं क꣡ उ स꣡ वृक्ष꣡ आस  
 य꣡तो द्या꣡वापृथिवी꣡ निष्टतक्षुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡हानि पूर्वी꣡र् उष꣡सो जरन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒न्त॒स्था॒ने इति॑ स॒म्ऽत॒स्था॒ने । अ॒जरे॒ इति॑ । इ॒तऊ॑ती॒ इती॒तःऽऊ॑ती । अहा॑नि । पू॒र्वीः । उ॒षसः॑ । ज॒र॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
@@ -116,36 +116,36 @@ genre M
 **यतः** यस्माद्वृक्षात् **द्यावापृथिवी** द्यावापृथिव्यौ **निष्टतक्षुः** देवाः निःशेषेण कृतवन्तः **सः** तादृशः **वृक्षः** **क** **उ** **आस** कीदृग्वा बभूव । तदुत्पादकं **वनम्** अरण्यं **किं** **स्वित्** । संतस्थाने सम्यक्तिष्ठन्त्यौ **अजरे** जरावर्जिते **इतऊती** इत एतेभ्यो देवेभ्यो रक्षणं ययोस्ते । किंच **अहानि** सर्वाणि दिनानि **पूर्वीः** बह्वीः **उषसः** च देवा निष्टतक्षुः । एवंभूतान् देवान् **जरन्त** स्तोतारः स्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What is the forest, which is the tree, out of which (the gods) have fabricated heaven and earth,ever-stationary and undecaying, giving protection to the deities; through numerous days and dawns (men)praises (the gods for this).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What was the wood, and what the tree from which they carved out  heaven and earth,  
 the two that stand together, unaging and enduring? But the days, the  many dawns, grow old.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What was the tree, what wood, in sooth, produced it, from which they fashioned forth the Earth and Heaven?  
      These Twain stand fast and wax not old for ever: these have sung praise to many a day and morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welches war denn das Holz, welches der Baum, woraus sie Himmel und Erde gezimmert haben, die bestehen ohne zu altern, fortdauernd; nur die Tage, die vielen Morgenröten werden alt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Wald war es, und welches war der Baum doch, aus dem sie Erd' und Himmel zimmernd bauten, Die beide stehn, nicht altern ewig dauern, indess der Tage viel und Morgen schwinden?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что было древесиной, а что тем деревом,  
 Из которого они вытесали небо и землю?  

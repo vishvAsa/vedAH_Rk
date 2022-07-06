@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ गन्ता मा꣡ रिषण्यत  
 प्र꣡स्थावानो मा꣡प स्थाता समन्यवः  
 स्थिरा꣡ चिन् नमयिष्णवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 स्थि॒रा । चि॒त् । न॒म॒यि॒ष्ण॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -92,36 +92,36 @@ genre M
 हे **प्रस्थावानः** प्रस्थातारः प्रगन्तारो मरुतः **आ** **गन्त** अस्मानागच्छत । **मा** **रिषण्यत** अनागमनेनास्मान् मा हिंस्त । हे **समन्यवः** समानतेजस्काः समानक्रोधा वा **स्थिरा** **चित्** स्थिराणि दृढान्यपि पर्वतादीनि हे **नमयिष्णवः** नमनशीलाः कम्पयितारः **माप** **स्थात** अस्मत्तोऽपेत्यान्यत्र मा तिष्ठत । अस्मास्वेव तिष्ठतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Far-travellig (winds), alike wrathful, come here, harm us not; benders of the solid (mountains), withdrawnot from us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here; don’t mean harm. Setting out, don’t stay away, o you of  equal spirit,  
 who are able to bow even the fixed things.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET none, Swift Travellers! check you: come hither, like-spirited, stay not far away,  
      Ye benders even of what is firm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommt, verseht euch nicht, bleibt nicht fern, ihr Ausfahrer, von gleichem Eifer beseelt, die ihr sogar das Feste beuget.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O kommt herbei und säumet nicht, o gleichgesinnte, brechet auf, nicht bleibet fern, Ihr, die ihr auch das Feste beugt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте! Не пропустите!  
 О выезжающие (боги), не останьтесь вдалеке, о (вы,) одинаково яростные,  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ काकम्बी꣡रम् उ꣡द् वृहो व꣡नस्प꣡तिम्  
 अ꣡शस्तीर् वि꣡ हि꣡ नी꣡नशः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 ग्रीवा꣡ आद꣡धते वे̃ः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मा । उ॒त । सूरः॑ । अह॒रिति॑ । ए॒व । च॒न । ग्री॒वाः । आ॒ऽदध॑ते । वेरिति॒ वेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 ऋषिः पुत्रपौत्रसहितमात्मानं बहुपक्ष्याश्रयवनस्पतित्वेन रूपयन् तस्यानुद्धारमाशास्ते । हे पूषन् **काकम्बीरं** काकानां भर्तारं **वनस्पतिं** वृक्षं **मा** **उद्वृहः** उद्धर । मा बाधस्व । पुत्रपौत्रादिभिः सखीभूतैरुपेतमन्यैश्च बहुभिराश्रितं मां मा हिंसीरित्यर्थः । हिशब्दश्चार्थे । **अशस्तीः** अशंसनीया अशंसनीयस्य दुःखस्य कीर्तयित्रीर्वा शत्रुभूताः प्रजाः **वि** **नीनशः** **हि** विनाशय च । **उत** अपि च **सूरः** प्रेरकः शत्रुः **एव** एवं **मा** **अहः** अस्मान् मा हार्षीत् ॥ एवमित्यभिसंबन्धात् आख्यातस्योदात्तवत्त्वाच्च अश्रुतोऽपि यथेत्येतद्वाक्ये अध्याह्रियते ॥ **ग्रीवाः** । गिरन्त्यन्तरवस्थापयन्ति बध्नन्तीति ग्रीवा दामानि । यथा व्याधाः **वेः** पक्षिणो हरणार्थं ग्रीवा दामानि जालरूपाणि **आदधते** भूम्यां निदधते तैश्च निहितैः पक्षिणो हरन्ति एवमस्मान् बन्धनोपायैः शत्रुर्मा हार्षीदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,12 +126,12 @@ Progeny of cows: kākambīram vanaspatim: implies metaphorically the author of t
 Grīvā = damam, jālarūpam, a snare of the nature of a net
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Don’t tear out the Kākambīra tree—pursue the taunts and make them  disappear! And certainly don’t (tear off the wheel) of the sun: for thus never could  you give pursuit to the one who ‘puts the necks’ (of the horses to the  chariot-pole?).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. seems to continue the poet’s direct speech to Pūṣan, and if it is meant to be a secret, it will remain so: as noted in the published introduction. the vs. is close to unintelligible. My interpr. differs markedly from those of others (or rather, from that of others: Renou and Klein [DGRV I.289] basically follow Geldner; Oldenberg, however, differs from them in cd, suggesting several other alternatives, none of which he stands behind).
 
@@ -174,23 +174,23 @@ On these Pūṣan vss., see published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tear not up by the roots the Kakambira tree: destroy thou all malignity.  
      Let them not snare by day the neck of that Celestial Bird the Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rotte nicht den Kakambira-Baum aus, denn du solltest die Afterreden zuschanden machen. Und nicht soll die Sonne auch nur einen Tag dem scheinen, der den Hals des Vogels packt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht reisse aus dem Stamm des Kakambirabaums; denn tilgen sollst die Hasser du, Nicht schwinde hin die Sonne dem, dess Hand des Vogels Hals ergreift.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не вырывай с корнем дерево какамбира –  
 Ты ведь должен уничтожить проклятия!  

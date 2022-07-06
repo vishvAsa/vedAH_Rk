@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ तिष्ठ वृत्रहन् र꣡थं  
 युक्ता꣡ ते ब्र꣡ह्मणा ह꣡री  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ग्रा꣡वा कृणोतु वग्नु꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒र्वा॒चीन॑म् । सु । ते॒ । मनः॑ । ग्रावा॑ । कृ॒णो॒तु॒ । व॒ग्नुना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -117,36 +117,36 @@ genre M
 हे **वृत्रहन्** शत्रूणां हन्तरिन्द्र **रथम्** **आ** **तिष्ठ** आरोह । यस्मात् **ते** **हरी** त्वदीयावश्वौ **ब्रह्मणा** स्तोत्रलक्षणेन मन्त्रेण **युक्ता** रथेऽस्माभिर्योंजितौ तस्मात् त्वं रथमातिष्ठ। **ते** **मनः** त्वदीयं मनश्च **ग्रावा** अभिषवार्थं प्रवृत्तः पाषाणः **वग्नुना** वचनीयेनाभिषवशब्देन **अर्वाचीनम्** अस्मदभिमुखं **सु** **कृणोतु** सुष्ठु करोतु ॥ युक्ता । ‘सुपां सुलुक्' इति आकारः । वग्नुना । ' वचेर्गश्च ' ( उ. सू. ३. ३१३ ) इति नुप्रत्ययो गकारश्चान्तादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slayer of **Vṛtra**, ascend your chariot, for your horses have been yoked by prayer; may the stone (that bruises the **Soma**) attract, by its sound, your mind towards us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mount the chariot, Vr̥tra-smasher: your two fallow bays have been  yoked with a sacred formulation.  
 Let the pressing stone with its call make your mind inclined hither.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Slayer of Vrtra, mount thy car; thy Bay Steeds have been yoked by prayer.  
      May, with its voice, the pressing-stone draw thine attention hitherward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Besteig den Wagen, o Vritratöter; deine Falben sind durch die erbauliche Rede angeschirrt! Der Preßstein soll durch sein Getöse doch ja deinen Sinn geneigt machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besteig' den Wagen, Vritrafeind; die Rosse hat Gebet geschirrt; Der Pressstein lenke deinen Sinn recht nahe her durch sein Getön.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Взойди на колесницу, о убийца Вритры!  
 Запряжены молитвой два твоих буланых коня.  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गृणे꣡ त꣡द् इन्द्र ते श꣡व  
 उपमं꣡ देव꣡तातये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -33,7 +33,7 @@ genre M;; line affected by realignment;; repeated line
 यत् । हंसि॑ । वृ॒त्रम् । ओज॑सा । श॒ची॒ऽप॒ते॒ । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gṛṇe* ← *gṛ*
 - \[verb\], singular, Present indikative
@@ -109,7 +109,7 @@ genre M;; line affected by realignment;; repeated line
 हे **इन्द्र** **ते** तव तत् **शवः** बलम् **उपमम्** अन्तिकं **देवतातये** यजमानाय यज्ञार्थं वा **गृणे** स्तुवे । **यत्** यस्माद्धे **शचीपते** **वृत्रम्** **ओजसा** बलेन हंसि तस्मात्ते शवो गृणे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,36 +120,36 @@ genre M;; line affected by realignment;; repeated line
 To the worshipper: for the sake of theoffering
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I sing that utmost strength of yours, Indra, for the divine assembly, that you smash Vr̥tra with your might, o lord of ability.  
 – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes the dat. devátātaye with cd: “dass du für die Götterschaft mit Übermacht den Vṛtra erschlägst.” This has some immediate appeal, but I am reluctant to adopt it because both the hemistich-break and the yád intervene.
 
 Moreover, the use of present tense háṃsi suggests that the Vṛtra-smashing continues in the present day and is perhaps separate from the primal act performed for the benefit of the gods in mythological time.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praised, Indra, is this might of thine, best for the service of the Gods,  
      That thou with power dost slay Vrtra, O Lord of Strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich preise, Indra, diese deine höchste Gewalt, daß du für die Götterschaft mit Übermacht den Vritra erschlägst, Herr der Kraft. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich preise, Indra, deine Kraft, die höchstes Heil den Göttern bringt, Wenn du mit Macht den Vritra schlägst, o Herr der Kraft; des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я воспеваю, о Индра, то твое высшее  
 Могущество, что ты для сонма богов  

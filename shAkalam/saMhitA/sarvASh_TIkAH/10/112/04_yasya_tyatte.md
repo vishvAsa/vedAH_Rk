@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य त्य꣡त् ते महिमा꣡नम् म꣡देषु  
 इमे꣡ मही꣡ रो꣡दसी ना꣡विविक्ताम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रिये꣡भिर् याहि प्रिय꣡म् अ꣡न्नम् अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तत् । ओकः॑ । आ । हरि॑ऽभिः । इ॒न्द्र॒ । यु॒क्तैः । प्रि॒येभिः॑ । या॒हि॒ । प्रि॒यम् । अन्न॑म् । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -137,36 +137,36 @@ genre M
 हे **इन्द्र** **इमे** **मही** महत्यौ **रोदसी** द्यावापृथिव्यौ **यस्य** **ते** तव सोमपानेन जनितेषु **मदेषु** संभूतं **त्यत्** तं **महिमानं** **न** **अविविक्तां** न पृथकुरुतः किंतु यस्य महिम्न्येव तिष्ठतः ॥  ‘ विचिर् पृथग्भावे' । जौहोत्यादिकः । लङि  ‘ संज्ञापूर्वको विधिरनित्यः' इत्यभ्यासस्य गुणाभावः । यद्योगादनिघातः ॥ **प्रियेभिः** प्रियतमैः रथे **युक्तैः** **हरिभिः** अश्वैः **प्रियं** प्रीणनकरम् **अन्नं** सोमलक्षणम् **अच्छ** अभिलक्ष्य **तदोकः** अस्मदीयं यज्ञसदनम् **आ** **याहि** आगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You whose greatness (manifested) in your exhilarations the vast heaven and earth, do not separate;come, **Indra**, with your beloved bay horses harnessed to your chariot, come to our dwelling to (partake of) the(sacrificial) food that is agreeable to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, in the raptures of exhilaration, whose greatness these two great  world-halves did not encompass—  
 Indra, drive here to this home with your yoked fallow bays, to the dear  food with the dear ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O thou whose grandeur in thy festive transports not even these two great worlds have comprehended.  
      Come, Indra, with thy dear Bay Horses harnessed, come to our dwelling and the food thou lovest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, dessen Größe dann in deinem Rausche diese beiden großen Welthälften nicht faßten, komme zu diesem Heim, Indra, mit den angeschirrten Falben, den lieben zu der lieben Speise!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du dessen Grösse bei den Rauschgelagen die beiden grossen Welten nicht umfassen, O Indra, komme her zu diesem Hause zum lieben Mahl mit deinen lieben Füchsen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, чье величие во время твоих опьянений  
 Не могли вместить эти две великих половины вселенной,  

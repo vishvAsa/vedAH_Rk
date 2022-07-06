@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ श꣡मीभिः सुश꣡मी अभूवन्  
 ये꣡ हिन्विरे꣡ तनु꣡वः सो꣡म उक्थइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवि꣡ श्र꣡वो दधिषे ना꣡म वीरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 नृ॒ऽवत् । वद॑न् । उप॑ । नः॒ । मा॒हि॒ । वाजा॑न् । दि॒वि । श्रवः॑ । द॒धि॒षे॒ । नाम॑ । वी॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -132,14 +132,14 @@ popular
 **ये** देवर्ष्यादयः **तन्वः** शरीराणि **सोमे** सोमयागे **उक्थैः** शस्त्रैः **हिन्विरे** वर्धयन्ति **एते** देवादय इन्द्रादेशात् सोमे आहृते सति **शमीभिः** सोमयागकर्मभिः **सुशमी** सुकर्माणः **अभूवन्** । **नृवत्** मनुष्यवत् **वदन्** इदं युष्मभ्यं मया दत्तमिति व्यक्तां वाचमुच्चारयन् **नः** अस्मभ्यम् **उप** **माहि** उपगम्य **वाजान्** अन्नानि बलानि वा हे इन्द्र त्वं देहीति शेषः । अतः कारणात् **वीरः** दानशूरस्त्वं **दिवि** द्युलोके **श्रवः** दानपतिरिति कीर्तितं **नाम** नामधेयं **दधिषे** धारयसि ॥॥२१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They have been sanctified by holy rites, who have fostered their bodies with prayers, at the **Soma**(sacrifice); speaking like a man, grant us food, you possess in heaven name and fame as a hero.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 But these (others) have become very fortunate by their ritual labors— the ones who urged themselves on at the soma(-pressing) with  
 their hymns.  
@@ -147,23 +147,23 @@ Speaking manfully, measure out prizes to us; in heaven you have
 established your fame, your name as “hero.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They were well occupied with holy duties who sped in person with their lauds to Soma.  
      Speaking like man, mete to us wealth and booty: in heaven thou hast the name and fame of Hero.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sind durch ihre Opferdienste und guten Dienst jetzt hochgekommen, die sich bei Soma mit ihren Lobliedern beeilt haben. Wie ein Herr sprechend, teil uns Belohnungen zu! Im Himmel hast du dir Ruhm, den Namen Held erworben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die haben schön gewirkt mit ihren Werken, die sich mit Sprüchen hin zum Soma wandten, Schenk Güter uns, du, der du wie ein Mensch sprichst, du hast als Held im Himmel Ruhm erlanget.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти стали счастливыми благодаря жертвенным трудам, прекрасному труду,  
 Кто поспешил со своими хвалебными песнями при соме.  

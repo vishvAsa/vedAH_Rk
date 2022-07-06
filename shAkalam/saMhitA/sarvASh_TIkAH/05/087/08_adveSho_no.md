@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अद्वेषो꣡ नो मरुतो गातु꣡म् ए꣡तन  
 श्रो꣡ता ह꣡वं जरितु꣡र् एवया꣡मरुत्  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 अ꣡प द्वे꣡षांसि सनुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 विष्णोः॑ । म॒हः । स॒ऽम॒न्य॒वः॒ । यु॒यो॒त॒न॒ । स्मत् । र॒थ्यः॑ । न । दं॒सना॑ । अप॑ । द्वेषां॑सि । स॒नु॒तरिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adveṣo* ← *a*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 हे **मरुतः** **अद्वेषः** अद्वेषसो यूयं **नः** अस्माकं **गातुं** गमनस्वभावं स्तोत्रं प्रति **एतन** आगच्छत । तदर्थं **जरितुः** स्तोतुः **एवयामरुत्** एवयामरुतो मम **हवं** **श्रोत** शृणुत । **विष्णोः** व्यापकस्येन्द्रस्य **महः** महतः हे **समन्यवः** समानयज्ञा यूयं **स्मत्** । अयं प्रशस्तनाम । प्रशस्ताः **रथ्यो** **न** रथिनो योद्धार इव । ते यथा शत्रूनपाकुर्वन्ति तद्वदस्माकं **दंसना** कर्मणा **सनुतः** । अन्तर्हितनामैतत् । अन्तर्हितान् द्वेषांसि द्वेष्टॄन् **अप** **युयोतन** दूरे वियोजयत पृथकुरुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,7 +145,7 @@ genre M
 Viṣṇu = **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Without hatred, come on your way to us here, Maruts. Hear the call of  the singer—Maruts on the march.  
 O you of equal spirit, along with great Viṣṇu,  
@@ -153,7 +153,7 @@ like charioteers with wondrous skill, keep hatreds far away in the
 distance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first word in the vs. adveṣáḥ must be adverbial; it of course resonates with the 2nd to last word in the vs., dvéṣāṃsi.
 
@@ -166,23 +166,23 @@ construes it with smát ‘together with’ at the beginning of d, as Grassmann 
 The instr. daṃsánā must belong with the simile: cf. VIII.101.2 tā́bāhútā ná daṃsánā ratharyataḥ “With their wondrous skill as if with their arms they drive their chariot,” also adduced by Geldner
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come in a friendly spirit, come to us, O Maruts, and hear his call who praises you, Evayamarut.  
      Like car-borne men, one-minded with the mighty Visnu, keep enmity far from us with your deeds of wonder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Feindseligkeit nehmet, o Marut, euren Weg zu uns, erhöret den Ruf des Sängers - Vishnu ist der, mit dem die Marut gern kommen -. Ihr einmütigen Mannen des großen Vishnu, haltet gleichmäßig die Anfeindungen abseits wie Wagenlenker mit Geschick!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Holdgesinnt kommt, o Maruts, zu unserm Gesänge; hört den Ruf des Sängers Evajämarut; des grossen Vischnu Mannen, ihr gleich muthigen, verjagt zusammt die Feinde weit hinweg, wie Wagenkämpfer mit Wunderkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Невраждебными, о Маруты, отправляйтесь по пути к нам!  
 Услышьте призыв певца – (и Вишну) вместе с быстродвижущимися Марутами!  

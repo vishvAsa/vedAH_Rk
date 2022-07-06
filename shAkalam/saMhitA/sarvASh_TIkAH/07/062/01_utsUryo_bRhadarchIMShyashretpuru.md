@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡त् सू꣡रियो बृह꣡द् अर्चीं꣡षि अश्रेत्  
 पुरु꣡ वि꣡श्वा ज꣡निम मा꣡नुषाणाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्र꣡त्वा कृतः꣡ सु꣡कृतः कर्तृ꣡भिर् भूत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒मः । दि॒वा । द॒दृ॒शे॒ । रोच॑मानः । क्रत्वा॑ । कृ॒तः । सुऽकृ॑तः । क॒र्तृऽभिः॑ । भू॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ut* ← *ud*
 - \[adverb\]
@@ -144,7 +144,7 @@ genre M
 **सूर्यः** सर्वस्य प्रेरको देवः **बृहत्** अत्यधिकं **पुरु** पुरूणि बहूनि **अर्चींषि** तेजांसि **उत्** **अश्रेत्** ऊर्ध्वं श्रयति । किं प्रति । **मानुषाणां** मनुष्याणां **विश्वा** सर्वाणि **जनिम** जनिमानि जनान् । जनशब्दः संघवचनः । तान् प्रत्युदश्रेत् । स देवः दिवा अहनि **रोचमानः** सन् **समः** **ददृशे** । एकरूपः प्रतिनियतः सन् दृश्यते । तस्मात्पुरुषं पुरुषं प्रत्यादित्यो भवति (ऐ. आ. ३.२.३) इति हि श्रुतिः । स देवः **क्रत्वा** सर्वस्य कर्ता **कृतः** संपादितः प्रजापतिना **कर्तृभिः** स्तुतिकर्तृभिः **सुकृतः** स्तुत्या तीक्ष्णीकृतः **भूत्** भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,29 +155,29 @@ genre M
 The creator: kratvā **kṛtaḥ**= sarvasya **kartā** prajāpatinā sam;pāditaḥ, the maker of all produced by **Prajāpati**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Sun has raised up his flames aloft, (facing) all the many tribes of  Manu’s sons.  
 Radiating, he is visible as the equal to heaven. Created by their will, he  has become well created by his creators.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SURYA hath sent aloft his beams of splendour o'er all the tribes of men in countless places.  
      Together with the heaven he shines apparent, formed by his Makers well with power and wisdom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Surya hat seine Strahlen hoch aufgerichtet und all die vielen Geschlechter der Menschen erweckt. Gleich der Tageshelle leuchtend ist er erschienen. Mit Umsicht geschaffen ist er von den Schöpfern wohlgeschaffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weithin liess Surja seine Lichter strahlen in reicher Schar zu allen Menschenstämmen; Er wird gesehn den Himmel ganz durchstrahlend, mit Kraft geschaffen herrlich von den Schöpfern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Высоко укрепил лучи Сурья,  
 (Озирая) все многочисленные поколения людей.  

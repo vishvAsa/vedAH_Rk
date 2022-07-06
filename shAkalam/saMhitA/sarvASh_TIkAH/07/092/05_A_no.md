@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो नियु꣡द्भिः शति꣡नीभिर् अध्वरं꣡  
 सहस्रि꣡णीभिर् उ꣡प याहि यज्ञ꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वायो॒ इति॑ । अ॒स्मिन् । सव॑ने । मा॒द॒य॒स्व॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M;; repeated line
 हे **वायो** **नः** अस्माकम् **अध्वरं** हिंसारहितं **यज्ञं** **शतिनीभिः** शतसंख्यावतीभिः **सहस्रिणीभिः** सहस्रसंख्यावतीभिश्च **नियुद्भिः** वडवाभिः **उप** **आ** **याहि** उपागच्छ। तदनन्तरम् **अस्मिन्** **सवने** प्रातःसवने **मादयस्व** सोमेन तृप्यस्व । अन्यद्गतम् ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ genre M;; repeated line
 Do you gods: (added) ṛtvijaḥ,priests
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your teams in the hundreds, in the thousands, drive here to our  ceremony, right up to our sacrifice.  
 Vāyu, at this pressing exhilarate yourself. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With thy yoked teams in hundreds and in thousands come to our sacrifice and solemn worship.  
      Come, Vayu, make thee glad at this libation. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm mit hundertfachen, mit tausendfachen Niyutgespannen zu unserem Gottesdienst, zum Opfer! Vayu! Ergötze dich bei dieser Somaspende!-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu unsrer Feier komm mit hundert Rossen, mit tausendfacher Schar zu unserm Opfer; An dieser Spende labe dich, o Vaju. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай с сотенными упряжками(-дарами) на наш обряд,  
 С тысячными на (наше) жертвоприношение!  

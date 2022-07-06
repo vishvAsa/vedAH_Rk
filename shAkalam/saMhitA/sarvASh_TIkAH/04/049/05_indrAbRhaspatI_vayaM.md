@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राबृ꣡हस्प꣡ती वयं꣡  
 सुते꣡ गीर्भि꣡र् हवामहे  
 अस्य꣡ सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; repeated line
 अ॒स्य । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrābṛhaspatī* ← *indrābṛhaspati*
 - \[noun\], accusative, dual, masculine
@@ -72,35 +72,35 @@ genre M;; repeated line
 **सुते** सोमेऽभिषुते **गीर्भिः** स्तुतिभिः । शिष्टं गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Bṛhaspati**, we invoke you with praises, when the libation is effused, to drink of this **Soma** juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Br̥haspati we invoke with hymns when (the soma) is pressed, to drink of this soma here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra. and Brhaspati, we call you when the meath is shed,  
      With songs, to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Brihaspati laden wir mit Lobreden zum Ausgepreßten, zum Trunk dieses Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir laden euch durch Lieder ein beim Saft, Indra-Brihaspati, Zu trinken diesen Somatrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Брихаспати, мы  
 Зовем (вас) песнями к выжатому (соме),  

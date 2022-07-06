@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मूर्धा꣡नं दिवो꣡ अरति꣡म् पृथिव्या꣡  
 वैश्वानर꣡म् ऋत꣡ आ꣡ जात꣡म् अग्नि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आस꣡न्न् आ꣡ पा꣡त्रं जनयन्त देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 क॒विम् । स॒म्ऽराजम् । अति॑थिम् । जना॑नाम् । आ॒सन् । आ । पात्र॑म् । ज॒न॒य॒न्त॒ । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mūrdhānaṃ* ← *mūrdhānam* ← *mūrdhan*
 - \[noun\], accusative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **मूर्धानं** शिरोभूतम् । कस्य । **दिवः** द्युलोकस्य **पृथिव्याः** प्रथिताया भूमेः **अरतिं** गन्तारम् । यद्वा । गन्तव्यं स्वामिनं **वैश्वानरं** विश्वेषां नराणां संबन्धिनम् **ऋते** । ऋतमिति सत्यस्य यज्ञस्य वा नाम । निमित्तसप्तम्येषा । ऋतनिमित्तम् **आ** आभिमुख्येन **जातं** सृष्ट्यादावुत्पन्नं **कविं** क्रान्तदर्शिनं **सम्राजं** सम्यग्राजमानं **जनानां** यजमानानाम् **अतिथिं** हविर्वहनाय सततं गन्तारम् । यद्वा । अतिथिवत्पूज्यम् । **आसन्** आसनि आस्ये । द्वितीयार्थे सप्तमी । आस्यभूतम् । अग्निलक्षणेनास्येन हि देवा हवींषि भुञ्जते । **पात्रं** पातारं रक्षकम् । यद्वा । आस्येन धारकम् । एवंगुणविशिष्टं वैश्वानराग्निं **देवाः** स्तोतार ऋत्विजो देवा एव वा **आ** **जनयन्त** । यज्ञाभिमुख्येन अजीजनन् । अरण्यो: सकाशादुदपादयन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ genre M
 **Vaiśvānara** = what or who belongs to or is beneficial to, all (**viśva**) men (**naraḥ**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The head of heaven, the spoked wheel of the earth, Agni Vaiśvānara,  born in truth,  
 sage poet, sovereign king, guest of the peoples—as a drinking cup to  their mouth did the gods beget (him).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since Agni is often called the mouth of the gods, Geldner (and others) assume that the loc. āsán in d refers to Agni, and the gods have produced a drinking cup (pā́tram) to put in his mouth. But this requires Geldner to treat the three-pāda accusative phrase that opens the hymn and refers to Agni as grammatically untethered, as an anacoluthon with the referent picked up in the loc. in pāda d (see his n. 1d). But, with Renou, I see no reason why Agni cannot be conceptualized here as the cup that the gods drink from.
 
@@ -162,23 +162,23 @@ There are only three finite verbs in this two-vs. sequence, all injunctives: 1d 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, messenger of earth and head of heaven, Agni Vaisvanara, born in holy Order,  
      The Sage, the King, the guest of men, a vessel fit for their mouths, the Gods have generated.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Haupt des Himmels, den Lenker der Erde, den Agni Vaisvanara, den zur rechten Zeit Geborenen, den Seher und Allkönig, den Gast der Menschen - in seinem Munde haben die Götter sich ein Trinkgefäß gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Haupt des Himmels und der Erde Ordner, den Männerhort, den frommerzeugten Agni, Den weisen Herrscher und den Gast der Menschen, die Götter zeugten ihn dem Mund als Becher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Главу неба, повелителя земли,  
 Агни-Вайшванару, рожденного в законе,  

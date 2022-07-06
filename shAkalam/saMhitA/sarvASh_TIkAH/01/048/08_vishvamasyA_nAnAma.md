@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वम् अस्या नानाम च꣡क्षसे ज꣡गज्  
 ज्यो꣡तिष् कृणोति सून꣡री  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 उषा꣡ उछद् अ꣡प स्रि꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अप॑ । द्वेषः॑ । म॒घोनी॑ । दु॒हि॒ता । दि॒वः । उ॒षाः । उ॒च्छ॒त् । अप॑ । स्रिधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
@@ -118,7 +118,7 @@ genre M
 **विश्वं** सर्वं **जगत्** जङ्गमं प्राणिजातम् **अस्याः** उषसः **चक्षसे** प्रकाशाय **ननाम** प्रह्वीभवति । रात्रौ तमसि निमग्नाः सर्वे जनास्तन्निवारयित्रीमुषसमुपलभ्य नमस्कुर्वन्तीत्यर्थः । कुतः । यस्मादेषा **सूनरी** सुष्ठु नेत्री अभिमतफलस्य प्रापयित्री उषाः **ज्योतिष्कृणोति** सर्वं प्रकाशयति । किंच **मघोनी** मघवती धनवती **दिवः** **दुहिता** द्युलोकसकाशादुत्पन्ना **उषाः** **द्वेषः** द्वेष्टन् **अप** **उच्छत्** अपवर्जयति । तथा **स्रिधः** शोषयितॄन् **अप** उच्छत् अपवर्जयति । तस्मादिष्टप्राप्त्यनिष्टपरिहारहेतुभूतामुषोदेवतां विश्वं जगन्नमस्करोतीत्यर्थः ॥ अस्याः ।  ‘ इदमोऽन्वादेशे० ' इति अशादेशः अनुदात्तः विभक्तिश्च सुप्त्वादनुदात्तेति सर्वांनुदात्तत्वम् । ननाम । संहितायाम् । अन्येषामपि दृश्यते ' इति अभ्यासस्य दीर्घत्वम् । तुजादित्वे हि तूतुजानः इत्यादाविव पदकालेऽपि दीर्घः श्रूयेत । ज्योतिः ।  ‘ इणः षः ' इत्यनुवृत्तौ  ‘ इसुसोः सामर्थ्ये ' ( पा. सू. ८, ३. ४४ ) इति विसर्जनीयस्य षत्वम् । द्वेषः ।  ‘ द्विष अप्रीतौ । अन्येभ्योऽपि दृश्यन्ते' इति विच् । लघूपधगुणः । मघोनी। मघं वनति संभजते इति मघोनी । ' श्वन्नुक्षन् ' इत्यादिना मघवञ्शब्दः कनिन्प्रत्ययान्तौ निपातितः । स्त्रियाम्  ‘ ऋन्नेभ्यो ङीप्' इति ङीप् । भसंज्ञायां । श्वयुवमघोनामतद्धिते ' इति संप्रसारणम् । उच्छत् ।  ‘ उछी विवासे । विवासो वर्जनम् । छन्दसि लुङ्लङ्लिटः' इति वर्तमाने लङ् । बहुलं  ‘ छन्दस्यमाङ्योगेऽपि ' इति अडागमाभावः । स्रिधः ।  ‘ स्रिधु शोषणे'। क्विप् च ' इति क्विप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre M
 Sridhaḥ: śoṣayitṛn = the driers up; an allusion to the clouds which take up the dew of night?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Every moving creature bows before her gaze. The spirited one  
 creates light. Dawn, the bounteous Daughter of Heaven, dawns away hatred, away  failures.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To meet her glance all living creatures bend them down: Excellent One, she makes the light.  
      Usas, the Daughter of the Sky, the opulent, shines foes and enmities away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alles was lebt, beugt sich ihrem Anblick; Licht macht die Edle. Die freigebige Tochter des Himmels Usas soll die Anfeindung, die Fehlschläge hinweg leuchten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es neigt die ganze Welt sich ihrem Anblick zu, die jugendliche schaffet Licht; Die reiche Himmelstochter strahle weg den Hass, die Feinde weg das Morgenroth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Весь движущийся мир склонился пред ее видом.  
 Прекрасная создает свет.  

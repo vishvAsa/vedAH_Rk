@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति प्रिय꣡तमं र꣡थं  
 वृ꣡षणं वसुवा꣡हनम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 मा꣡ध्वी म꣡म श्रुतं ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 स्तो॒ता । वा॒म् । अ॒श्वि॒नौ॒ । ऋषिः॑ । स्तोमे॑न । प्रति॑ । भू॒ष॒ति॒ । माध्वी॒ इति॑ । मम॑ । श्रु॒त॒म् । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M
 हे **अश्विनौ** । एकः प्रतिशब्दोऽनुवादः । **वां** युवयोः **प्रियतमं** **रथं** **स्तोता** **ऋषिः** अवस्युः **स्तोमेन** **प्रति** **भूषति** अलंकरोति । कीदृशं रथम् । **वृषणं** वर्षितारं फलानां **वसुवाहनं** धनानां वाहकम् । ईदृशं रथमागमनाय स्तौतीत्यर्थः । तस्मात् हे **माध्वी** मधुविद्यावेदितारौ **मस** **हवम्** आह्वानं **श्रुतं** शृणुतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,29 +123,29 @@ genre M
 **Mādhvī** māma śrutam havam: mādhvī = **madhuvidyā** veditārau
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The most loved chariot—a bull and a vehicle for goods—  
 does your praise singer, the seer, attend upon with his praise, o Aśvins. – O honey-rich ones, hear my summons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To meet your treasure-bringing car, the mighty car most dear to us,  
      Asvins, the Rsi is prepared, your raiser, with his song of praise. Lovers of sweetness, hear my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren Wagen, den liebsten, bullenhaften, schätzebringenden erwartet euer Lobsänger, der Rishi, mit Lobgesang, ihr Asvin. - Ihr Süßesliebende, erhöret meinen Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wagen, den beliebtesten, den starken Güter fahrenden Und euch, o Ritter, schmückt mit Lob der Dichter aus, der euch besingt; ihr lieben, höret meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самую приятную колесницу,  
 Мужественную, везущую добро,  

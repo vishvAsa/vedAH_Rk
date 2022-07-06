@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡त्य् उ अदर्शि आयती꣡  
 उछ꣡न्ती दुहिता꣡ दिवः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ज्यो꣡तिष् कृणोति सून꣡री
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अपो॒ इति॑ । महि॑ । व्य॒य॒ति॒ । चक्ष॑से । तमः॑ । ज्योतिः॑ । कृ॒णो॒ति॒ । सू॒नरी॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *praty* ← *prati*
 - \[adverb\]
@@ -116,41 +116,41 @@ genre M;; repeated line
 **आयती** आगच्छन्ती व्युच्छन्ती तमांसि विवासयन्ती वर्जयन्ती **दिवः** द्युलोकस्य सूर्यस्य वा **दुहिता** पुत्री एवंभूतोषाः **प्रति** **अदर्शि** सर्वैः प्रतिदृश्यते । **उ** इति पूरकः । सैषा **महि** महत् **तमः** नैशमन्धकारम् । अप उ इति निपातद्वयसमुदायोऽपेत्यस्यार्थे। **अपो** **व्ययति** अपवृणोति । किमर्थम् । **चक्षसे** दर्शनार्थम् । एवं कृत्वा **सूनरी** जनानां सुष्ठु नेत्र्युषाः **ज्योतिः** प्रकाशं **कृणोति** करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The daughter of heaven is everywhere beheld advancing and shedding light; she drives away the deepdarkness that objects may meet the eye; the kind guide of man, she diffuses light.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She has appeared opposite, as she comes here dawning, the Daughter of  Heaven.  
 She unwraps the great darkness for seeing; the spirited one creates light.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the adjacency of támaḥ and jyótiḥ, though here across the pāda break.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ADVANCING, sending forth her rays, the Daughter of the Sky is seen.  
      Uncovering, that we may see, the mighty gloom, the friendly Lady makes the light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ankommend, aufleuchtend ist die Himmelstochter wieder sichtbar geworden. Sie zieht die große Finsternis weg, auf daß man sehe; die Edle macht Licht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Tochter ward erblickt, die kommende, erstrahlende; Des grossen Dunkels Decke nimmt sie ab zum Sehn, und schaffet Licht, die Liebliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот показалась перед (нами) приближающаяся  
 Сверкающая дочь неба.  

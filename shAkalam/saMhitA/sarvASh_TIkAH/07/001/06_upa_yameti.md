@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प य꣡म् ए꣡ति युवतिः꣡ सुद꣡क्षं  
 दोषा꣡ व꣡स्तोर् हवि꣡ष्मती घृता꣡ची  
 उ꣡प स्वइ꣡नम् अर꣡मतिर् वसूयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 उप॑ । स्वा । ए॒न॒म् । अ॒रम॑तिः । व॒सु॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -98,36 +98,36 @@ genre M
 **सुदक्षं** सुबलं **यम्** अग्निं **हविष्मती** हविषा युक्ता **घृताची** । घृतमञ्चतीति घृताची जुहूः । **युवतिः** अग्निना नित्ययुक्ता **दोषा** **वस्तोः** रात्रावहनि च **उप** **एति** उपगच्छति तम् **एनं** **स्वा** स्वकीया **अरमतिः** दीप्तिः **वसूयुः** स्तोतॄणां धनमिच्छन्ती **उप** एति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whom vigorous, the young damsel (the ladle) charged with the oblation, presenting the melted butter,day and night approaches; him, his own lustre approaches, favourable to (the bestowal of) wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The very skillful one toward whom the young, oblation-bearing girl [=the  ladle], filled with ghee, goes in the evening and at dawn,  
 toward him (goes) our own devotion, seeking goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To whom, the Strong, at morn and eve comes, maid-like, the ladle dropping oil, with its oblation.  
      Wealth-seeking comes to him his own devotion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Verständige, dem die Jungfrau, die Schmalzkelle, abends und morgens mit der Opfergabe naht und Gutes wünschend die ihm gebührende Andacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem starken, dem wie eine Jungfrau Abends und Morgens naht die butterreiche Kelle, Ersteht die eigne Sehnsucht, Schatz begehrend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Агни,) к которому приближается юная жена, к (нему,) прекрасно действующему,  
 (Она,) несущая жертву вечером и на рассвете, полная жира,  

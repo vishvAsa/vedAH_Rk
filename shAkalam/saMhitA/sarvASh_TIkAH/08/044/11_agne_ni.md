@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने नि꣡ पाहि नस् तुव꣡म्  
 प्र꣡ति ष्म देव री꣡षतः  
 भिन्धि꣡ द्वे꣡षः सहस्कृत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 भि॒न्धि । द्वेषः॑ । स॒हः॒ऽकृ॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -92,20 +92,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सहस्कृत** बलेन कृत **देव** दीप्त **अग्ने** **रिषतः** हिंसकान् **नः** अस्मान् **प्रति** **नि** **पाहि** प्रतिरक्ष । **स्म** इति पूरणः । **द्वेषः** द्विषः शत्रूंश्च **भिन्धि** विदारय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Agni**, produced by strength, do you protect us from the injurer, tear asunder our enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Agni, protect us. (Burn), god, against those who do harm.  
 Split hatred, o might-made one.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner I supply daha in b, with the preverb práti, since práti is not otherwise found with √pā, the verb of pāda a, but is common with √dah ‘burn’. Cf. esp. I.12.15 práti ṣma ríṣataḥ daha. VII.15.13b is identical to our pāda, and the verb in pāda c of that vs. is daha, which governs the acc. in b.
 
@@ -120,23 +120,23 @@ The contents of the imploring mentioned in 10c seems to be given in direct speec
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, be our Guardian thou, God, against those who injure us:  
      Destroy our foes, thou Son of Strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütze du uns, Agni, versenge die Schädiger, o Gott; brich die Feindschaft, Krafterzeugter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Behüte du, o Agni, uns, o Gott, vor dem Beschädiger, Den Feind zerspalte, krafterzeugt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, защити ты нас,  
 От(брось) же, о бог, тех, кто (нам) вредит!  

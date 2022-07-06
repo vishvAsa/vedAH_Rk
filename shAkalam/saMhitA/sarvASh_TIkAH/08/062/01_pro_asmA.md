@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ऊ अस्मा उ꣡पस्तुतिम्  
 भ꣡रता य꣡ज् जु꣡जोषति  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M
 उ॒क्थैः । इन्द्र॑स्य । माहि॑नम् । वयः॑ । व॒र्ध॒न्ति॒ । सो॒मिनः॑ । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pro* ← *pra*
 - \[adverb\]
@@ -113,37 +113,37 @@ genre M
 **अस्मै** इन्द्राय उपस्तुतिम् उपेत्य क्रियमाणां स्तुतिं **प्रो** **भरत** प्रकर्षेण संपादयत हे ऋत्विजः । यत् यदि अयमिन्द्रः **जुजोषति** सेवते तर्हि भरतेति । सोमिनः सोमप्रियस्य **इन्द्रस्य** स्वभूतं **माहिनं** महत् वयः अन्नं सोमलक्षणम् उक्थैः शस्त्रैः **वर्धन्ति** वर्धयन्ति । **भद्राः** स्तुत्यानि खलु **इन्द्रस्य** रातयः दानानि ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Present the offering of praise to **Indra**, since he enjoys it; (the priests) augment the ample food of theSoma-loving Indra with their recited hymns, Indra's gifts are worthy of praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Present a praise invocation to him so that he will find pleasure.  
 By solemn recitations the providers of soma increase the great vitality  of Indra.  
 – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 OFFER ye up as praise to him that wherein Indra takes delight.  
      The Soma-bringers magnify Indra's great energy with hymns. Good are the gifts that Indra gives.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Traget ihm das Preislied vor, woran er Gefallen haben soll! Mit Lobliedern stärken die Somabereiter des Indra gewaltige Kraft. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, bringet ihm den Lobgesang, an dem er sich erfreue, dar; Die Somabringer kräftigen durch Sprüche Indra's hohe Macht; des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вознесите же ему хвалу,  
 Которой он будет наслаждаться!  

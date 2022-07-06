@@ -6,7 +6,7 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ पि꣡प्रोर् अ꣡हिमायस्य दॄळ्हाः꣡+  
 पु꣡रो वज्रिञ् छ꣡वसा न꣡ दर्दः  
@@ -14,7 +14,7 @@ ChandaH = "विराट्"
 ऋजि꣡श्वने दात्रं꣡ दाशु꣡षे दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सुऽदा॑मन् । तत् । रेक्णः॑ । अ॒प्र॒ऽमृ॒ष्यम् । ऋ॒जिश्व॑ने । दा॒त्रम् । दा॒शुषे॑ । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -128,36 +128,36 @@ genre M
 हे **वज्रिन्** वज्रवन्निन्द्र त्वम् **अहिमायस्य** आहन्त्र्यो माया यस्य **पिप्रोः** एतन्नाम्नोऽसुरस्य संबन्धिनीः **दृळ्हाः** दृढानि **पुरः** प्राकारादीनि दुर्गाणि **शवसा** बलेन **वि** **दर्दः** विदारितवानसि । **न** इति पादपूरणः । त्वं पिप्रोर्नृमणः प्रारुज: पुरः ' (ऋ. सं. १. ५१. ५); ‘शतं पूर्भिरायसीभिर्नि पाहि' (ऋ. सं. ७. ३. ७ ) इति दर्शनात् । अपि च हे सुदामन् शोभनदानेन्द्र त्वं **दात्रं** हविर्लक्षणं धनं **दाशुषे** दत्तवते **ऋजिश्वने** एतन्नामकाय राजर्षये **अप्रमृष्यं** केनाप्यबाध्यं **तत्** तस्य स्वभूतं **रेक्णः** धनं **दाः** अदाः दत्तवानसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have scatered by force, wielder of the thunderbolt, the strong cities of the deadly-deluding Pipru; you have given, bountiful **Indra**, uninjurable wealh to rijiṣvat, the donor of sacrificial gifts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You split open the fortified strongholds of Pipru, who had the tricks of  a snake, o mace-bearer, as if with swelling strength.  
 O generous giver, you gave that legacy not to be spurned as a gift to the  pious R̥jiśvan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, thunder-armed, with thy great might hast shattered Pipru's strong forts who knew the wiles of serpents.  
      Thou gavest to thy worshipper Rjisvan imperishable Wealth, O Bounteous Giver.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die festen Burgen des Pipru, der sich in einen Drachen verwandelte, hast du Keulenträger wie mit Gewalt zersprengt. Du reichlich Schenkender hast dieses unvergeßliche Besitztum dem opferspendenden Rijisvan als Geschenk gegeben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des schlangelist'gen Pipru feste Burgen zerbrachst du, o gewalt'ger Blitzesträger; Vielgebender, du gabst zum Lohn dem frommen Ridschiçvan diesen Schatz, der unvertilgbar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прочные крепости Пипру, обладающего змеиной силой превращений,  
 Ты разнес словно мощью (своей), о громовержец.  

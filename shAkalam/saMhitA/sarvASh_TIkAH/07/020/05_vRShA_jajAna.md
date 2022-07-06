@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा जजान वृ꣡षणं र꣡णाय  
 त꣡म् उ चिन् ना꣡री न꣡रियं ससूव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इनः꣡ स꣡त्वा गवे꣡षणः स꣡ धृष्णुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । यः । से॒ना॒ऽनीः । अध॑ । नृऽभ्यः॑ । अस्ति॑ । इ॒नः । सत्वा॑ । गो॒ऽएष॑णः । सः । धृ॒ष्णुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -131,40 +131,40 @@ genre M
 **वृषा** सेक्ता पिता कश्यपः **वृषणं** कामानां वर्षितारमिन्द्रं **रणाय** युद्धार्थं **जजान** । ‘जन जनने ' इति धातुः । **नर्यं** नरहितं **तमु** तमेवेन्द्रं **नारी** **चित्** अदितिरपि **ससूव** सुषुवे। **अध** अपि च **यः** इन्द्रः **नृभ्यः** नृणां **सेनानीः** सेनानां नेता सन् **प्र** **अस्ति** प्रभवति **सः** इन्द्रः **इनः** सर्वस्य जगत ईश्वरो भवति । ' नियुत्वान् इनः' इति ईश्वरनामसु पाठात् । **सत्वा** शत्रूणां सादकश्च **गवेषणः** गवामन्वेष्टा च **धृष्णुः** शत्रूणां धर्षकश्च भवतीति शेषः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(His) progenitor begot **Indra**, the showerer (of benefits) for (the purpose of) war; his mother brought himforth the benefactor of man; the leader of armies who is chief over men, he is the lord, the conqueror, therecoverer of the kine, the subduer of foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull begat the bull for battle; that manly one did a woman bear. He who as leader of the army stands out from the (other) superior men,  a powerful warrior, he is the daring seeker of cattle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Once again a particle is positioned oddly: ádha in the middle of the relative clause (versus properly positioned ádhā in 3d). Klein (II.130) suggests the ádha here “is either a subclausal conjunction [but conjoining what? sj] or weakly conjoins the second distich with the first,” but neither explanation accounts for the mid-pāda position.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A Bull begat the Bull for joy of battle, and a strong Mother brought forth him the manly.  
      He who is Chief of men, their armies' Leader, is strong Hero, bold, and fain for booty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Bulle hat den Bullen zur Kampfeslust erzeugt; den Mannhaften hat eine Männin geboren. Der da als Heerführer den Männern voransteht, der ist ein gewaltiger Krieger, ein kühner Beutemacher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Stier erzeugte ihn, den Stier, zum Kampfe, und ihn den starken Mann gebar die Männin; Den Scharenführer, der den Männern vorsteht, den starken kräft'gen, kampfbegier'gen, kühnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык породил быка для битвы.  
 Это его, мужественного, произвела на свет женщина.  

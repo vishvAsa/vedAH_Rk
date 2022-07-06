@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ त्वा देवा꣡पिः शुशुचानो꣡ अग्न  
 आर्ष्टिषेणो꣡ मनुषि꣡यः समीधे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ पर्ज꣡न्यम् ईरया वृष्टिम꣡न्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 विश्वे॑भिः । दे॒वैः । अ॒नु॒ऽम॒द्यमा॑नः । प्र । प॒र्जन्य॑म् । ई॒र॒य॒ । वृ॒ष्टि॒ऽमन्त॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -106,36 +106,36 @@ popular
 हे **अग्ने** **यं** **त्वा** त्वां **शुशुचानः** स्तोत्रेण ज्वलन् **मनुष्यः** **आर्ष्टिषेणः** **देवापिः** **समीधे** सम्यग्दीपयति स त्वं **विश्वेभिः** सर्वैः **देवैः** **अनुमद्यमानः** अनुमाद्यमानः सन् **पर्जन्यं** मेघं वृष्टिमन्तं वर्षणवन्तं **प्र** **ईरय** गमय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, whom the mortal **Devāpi**, the son of Ṛṣṭiseṇa, lighting you, has kindled, do you, beingpropitiated with all the gods, send down the rain- laden cloud.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, you whom Devāpi kindled—the son of R̥ṣṭisena, belonging to  Manu’s line, himself blazing—  
 cheered on by all the gods, rouse forth Parjanya who brings rain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni whom Devapi Arstisena, the mortal man, hath kindled in his glory,  
      Joying in him with all the Gods together, urge on the sender of the rain, Parjanya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, den des Risitisena Sohn Devapi, der menschliche Hotri inbrünstig angezündet hatte, treibe, von allen Göttern ermuntert, den regenbringenden Parjanya an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, den der treffliche Devapi des Rischtischena Sohn als Mensch entflammte, An ihm mit allen Göttern dich erfreuend, lass regenreich die Wetterwolke strömen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, ты, кого зажег пылающий  
 Девапи, сын Риштишены, человеческий (хотар),  

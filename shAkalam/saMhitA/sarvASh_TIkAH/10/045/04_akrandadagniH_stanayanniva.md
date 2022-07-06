@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡क्रन्दद् अग्नि꣡ स्तन꣡यन्न् इव द्यउः꣡  
 क्षा꣡मा रे꣡रिहद् वीरु꣡धः समञ्ज꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ रो꣡दसी भानु꣡ना भाति अन्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒द्यः । ज॒ज्ञा॒नः । वि । हि । ई॒म् । इ॒द्धः । अख्य॑त् । आ । रोद॑सी॒ इति॑ । भा॒नुना॑ । भा॒ति॒ । अ॒न्तरिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akrandad* ← *akrandat* ← *krand*
 - \[verb\], singular, Imperfect
@@ -149,20 +149,20 @@ genre M
 दावाग्निस्स्तूयते - अक्रन्ददिति ॥ अक्रन्दत् क्रन्दती अग्निः दावरूपः स्तनयन्निव पर्जन्य इव द्यौः सप्तम्यर्थे प्रथमा । दिवि व्योम्नि क्षाम क्षामेती पृथिवीनाम । पदकाले छान्दसं हृस्वत्वम् । द्वितीयार्थं चैतल्लुप्तविभक्तिकम् । क्षामां रेरिहत् आस्वादयन् अटवीस्थलं दहन्नित्यर्थः । वीरुधः गुल्मान् समञ्जन् सम्यग्गच्छन् भक्षणार्थं भक्षयन्नित्येव वाऽर्थः । किञ्च - जज्ञानः जातोऽयमटव्यां सद्यः तदैव इद्धः दीप्तः व्यख्यत् । व्यत्ययेनायं कर्मणि कर्तृप्रत्ययः । विख्यायते विशेषेण दृश्यते दूरस्थैरपि हि । ईमिति? पादपूरणे । तथा रोदसी सन्तः द्यावापृथिव्योर्मध्ये भानुना स्वया दीप्त्या आभाति समन्ता दीप्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** cries aloud like the thundering heaven; he licks the earth burning the plural nts; as soon asgenerated, he contemplates this (conflagration); when kindled he blazes with his (own) radiance between heavenand earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni has roared like thundering heaven, constantly licking at (heaven  and) earth, anointing the plants,  
 for as soon as he was born kindled, he surveyed them. He radiates with  his radiant beam between the two world-halves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni roared out, like Dyaus what time he thunders: he licked the ground about the plants he flickered.  
      At once, when born, he looked around enkindled, and lightened heaven and earth within with splendour.
@@ -176,17 +176,17 @@ Straightway on birth he shone aflame;
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es brüllte Agni wie der Himmel donnernd, den Erdboden leckend, die Pflanzen bestreichend. Denn eben geboren hat der Entflammte alsbald nach ihnen Ausschau gehalten; er erglänzt mit seinem Glanze zwischen beiden Welthälften.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es brüllte Agni, donnernd wie der Himmel, den Boden leckend, um die Pflanzen flackernd; Denn kaum erzeugt, erblickt er Erd' und Himmel und strahlt entzündet glänzend zwischen beiden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Взревел Агни, как гремящее небо,  
 Облизывая почву, смазывая растения.  

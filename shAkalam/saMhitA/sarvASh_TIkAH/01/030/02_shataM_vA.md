@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ वा यः꣡ शु꣡चीनां᳐  
 सह꣡स्रं वा स꣡माशिराम्  
 ए꣡द् उ निम्नं꣡ न꣡ रीयते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 आ । इत् । ऊं॒ इति॑ । नि॒म्नम् । न । री॒य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
@@ -91,43 +91,43 @@ genre M
 **यः** इन्द्रः **शुचीनां** शुद्धानां सोमानां **शतं** **वा** शतसंख्याकं समूह वा **समाशिरां** समीचीनेन आशिराख्येन श्रपणद्रव्येणोपेतानां सोमानां **सहस्रं** **वा** सहस्रसंख्याकं समूहं वा **एदु** **रीयते** आगच्छत्येव । सोऽस्माननुगृह्णात्विति शेषः । सोमप्राप्तौ दृष्टान्तः । निम्नं **न** । यथा निन्नप्रदेशम् आपः आप्नुवन्ति तद्वत् ॥ समाशिराम् । ‘श्रीञ् पाके' इत्यस्य समाङ्पूर्वस्य क्विपि 'अपस्पृधेथाम् । इत्यादौ आशीरादेशो' निपातितः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । रीयते । ‘रीङ् श्रवणे'। दिवादिभ्यः श्यन्' ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May he who is (the recipient) of a hundred pure, and of a thousand distilled, (libations), come (to the rite), as water to low (plural ces).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The (soma), which is a hundred pure (draughts) or a thousand mixed  with milk,  
 flows here as if into the deep.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The number disharmony continues here, at least in my view. Geldner takes the sg.
 
 rel. pron. yáḥ as referring to Indra and then supplies the verb ‘drinks’ to governing the ‘hundred’ and ‘thousand’ phrases referring to soma. But if yáḥ is instead taken as referring to soma and coreferential with the (unexpressed) subj. of the verb in the main clause rīyate, no material needs to be supplied. Instead the singular ‘which (soma)’ is defined as consisting of a hundred or a thousand separate drinks. So also Renou
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who lets a hundred of the pure, a thousand of the milk-blent draughts  
      Flow, even as down a depth, to him;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der hundert Spenden des reinen oder tausend des milchgemischten Soma trinkt. Er rinnt wie Wasser in die Tiefe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der hundert- oder tausendfach das Milchgebräu in sich hinein Wie in die Tiefe strömen lässt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто – или сто чистых (струй),  
 Или тысяча смешанных с молоком,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ ष्य꣡ देवः꣡ सविता꣡ ययाम  
 हिरण्य꣡यीम् अम꣡तिं या꣡म् अ꣡शिश्रेत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ यो꣡ र꣡त्ना पुरूव꣡सुर् द꣡धाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नू॒नम् । भगः॑ । हव्यः॑ । मानु॑षेभिः । वि । यः । रत्ना॑ । पु॒रु॒ऽवसुः॑ । दधा॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -121,40 +121,40 @@ genre M
 **सविता** सर्वस्य प्रेरकः **स्यः** सः **देवः** **हिरण्ययीं** सुवर्णमयीं **याम्** **अमतिम्** । रूपनामैतत् । रूपं प्रभामित्यर्थः । **अशिश्रेत्** आश्रयति ताममतिम् **उत्** **ययाम** उद्यच्छति उद्गमयति । **उ** इति पादपूरणः । **नूनम्** अद्य **भगः** भजनीयो यः सविता **मानुषेभिः** मनुष्यैः स्तोतृभिः **हव्यः** हवनीयः स्तोतव्यो भवति । पुरूवसुः बहुधनः **यः** देवः स्तोतृभ्यः **रत्ना** रत्नानि रमणीयानि धनानि **वि** **दधाति** करोति । स सविता देवः ताममतिमुद्ययामेति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine **Savitā** has diffused the golden radiance on high, of which he is the asylum; verily **Bhaga** isto be absorbed by men who, abounding in wealth, distributes treasures (among them).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This god Savitar holds up the golden emblem which he has fixed firm. Now is Bhaga to be invoked by the sons of Manu—he of many goods  who distributes treasures.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the presential value of the pf. of √yam and of this passage in particular, see Kümmel 395.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ON high hath Savitar, this God, extended the golden lustre which he spreads around him.  
      Now, now must Bhaga be invoked by mortals, Lord of great riches who distributes treasures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gott Savitri hat dort sein Bildnis emporgerichtet, das goldene, das er jetzt aufgestellt hat. Nun ist Bhaga von den Menschen anzurufen, der Schatzreiche, der die Kleinode austeilt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Empor schon streckte seinen goldnen Schimmer Gott Savitar, mit dem er sich bekleidet; Der Segner ist zu rufen von den Menschen, der güterreiche, welcher Schätze austheilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вверх вознес этог бог Савитар  
 Золотой (свой) образ, который укрепил (на небе).  

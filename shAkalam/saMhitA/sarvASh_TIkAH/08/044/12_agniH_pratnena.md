@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निः꣡ प्रत्ने꣡न म꣡न्मना  
 शु꣡म्भानस् तनु꣡वं सुवा꣡म्  
 कवि꣡र् वि꣡प्रेण वावृधे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क॒विः । विप्रे॑ण । व॒वृ॒धे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **कविः** क्रान्तकर्मा **अग्निः** **प्रत्नेन** पुराणेन **मन्मना** मननीयेन स्तोत्रेण **स्वां** स्वकीयां **तन्वं** तनुमङ्गं **शुम्भानः** शोभयन् **विप्रेण** मेधाविना स्तोत्रा **ववृधे** प्रवृद्धो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wise **Agni**, beautifying his body with the ancient hymn, has grown in might through the intelligenthymner.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni beautifying his own body with an age-old thought,  
 the sage poet is strengthened by the inspired poet.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Making his body beautiful, Agni the Sage hath waxen by  
      The singer and his ancient hymn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der seinen Leib damit herausputzt, ist mit einem alten Gedicht, er der Seher, von dem beredten Sänger groß gemacht worden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise Agni ist erquickt durch altes, geisterregtes Lied, Auschmückend seinen eignen Leib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, древним произведением  
 Украшающий тело свое,  

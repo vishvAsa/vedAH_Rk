@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भूया꣡म ते सुमतउ꣡ वाजि꣡नो वय꣡म्  
 मा꣡ न स्तर् अभि꣡मातये  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 आ꣡ नः सुम्ने꣡षु यामय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मान् । चि॒त्राभिः॑ । अ॒व॒ता॒त् । अ॒भिष्टि॑ऽभिः । आ । नः॒ । सु॒म्नेषु॑ । य॒म॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūyāma* ← *bhū*
 - \[verb\], plural, Aorist optative
@@ -114,41 +114,41 @@ genre M
 हे इन्द्र **ते** तव **सुमतौ** शोभनायां मतावनुग्रहबुद्धौ **वाजिनः** हविष्मन्तः **वयं** **भूयाम** वर्तमाना भवाम । **अभिमातये** । अभिमन्यत इत्यभिमातिः शत्रुः । तस्मै तदर्थं **नः** अस्मान् **मा** **स्तः** मा हिंसीः । ‘स्तृङ् हिंसायाम् । माङि लुङि छान्दसश्लेनःर्लुक् । अपि तु **अभिष्टिभिः** अभ्येषणी याभिः प्रार्थनीयाभिः **चित्राभिः** चायनीयाभिर्बहुविधाभिर्वा त्वदीयाभिरूतिभिः **अस्मान्** **अवतात्** अव रक्ष । तथा **नः** अस्मान् **सुम्नेषु** सुखेषु **आ** **यामय** आयतान् कुरु। सर्वदा सुखिन एवं कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we be offerers of oblations (to enjoy) your favour; harm us not for the sake of the enemy; protectus with your wondrous solicited (protections), maintain us ever in felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would be in the good favor of you, the prizewinner. Do not lay us  low before hostility.  
 Help us with your conspicuous powers to prevail. Keep us in your good  thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am not sure why the “future imperative” avatāt is used in pāda c. Its use implies that Indra should, first, not lay us low and, then, actually help us. This is possible but not compellingly required by the sense.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In thy kind grace and favour may we still be strong: expose us not to foe's attack.  
      With manifold assistance guard and succour us, and bring us to felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen in deiner, des Siegreichen, Gunst stehen. Wirf uns nicht dem Feinde hin! Steh uns mit deiner wunderbaren Übermacht bei; befestige uns in deiner Gande!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In deiner Gnade seien reichgesegnet wir, nicht wirf uns dem Verfolger hin; Mit mannichfacher Hülfeleistung fördre uns, und nimm uns auf in deine Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим быть в милости у тебя, отважного.  
 Не расстели нас (под ноги) преследователю!  

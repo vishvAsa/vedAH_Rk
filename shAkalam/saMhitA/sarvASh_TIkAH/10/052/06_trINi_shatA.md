@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्री꣡णि शता꣡ त्री꣡ सह꣡स्राणि अग्निं꣡  
 त्रिंश꣡च् च देवा꣡ न꣡व चासपर्यन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् इ꣡द् धो꣡तारं नि꣡ असादयन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 औक्ष॑न् । घृ॒तैः । अस्तृ॑णन् । ब॒र्हिः । अ॒स्मै॒ । आत् । इत् । होता॑रम् । नि । अ॒सा॒द॒य॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trīṇi* ← *tri*
 - \[noun\], nominative, plural, neuter
@@ -127,35 +127,35 @@ popular;; repeated line
 **त्रीणि** **शता** शतानि त्रीणि **सहस्राणि** **त्रिंशच्च** **नव** **च** एतत्संख्याकाः **देवाः** **अग्निं** माम् **असपर्यन्** पर्यचरन् । परिचर्याप्रकार उच्यते । **घृतैः** क्षरद्भिराज्यैः **औक्षन्** सिक्तवन्तः । **अस्मै** अग्नये मह्यं **बर्हिः** **अस्तृणन्** आस्तृतवन्तः। **आदित्** आस्तरणानन्तरं **होतारम्** आह्वातारं **न्यसादयन्त** नियमेनासादितवन्तः ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Three thousand three hundred and thirty-and-nine deities worshipped **Agni**, they sprinkled (me) withbutter, they strewed the sacred grass, and then made the invoker of the gods sit down.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Poet:] Three hundred, three thousand, and thirty-nine gods revered Agni. They sprinkled him with ghee; they strewed the ritual grass for him. Just  after that they installed him as Hotar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Deities three hundred and thirty-nine, have served and honoured Agni,  
      Strewn sacred grass, anointed him with butter, and seated him as Priest, the Gods' Invoker.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreihundert, dreitausend und neununddreißig Götter ehrten den Agni. Sie besprengten ihn mit Schmalz, legten das Barhis aus und setzten ihn als Hotri ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni haben hochgeehrt die Götter, dreitausend und dreihundertneununddreissig, Mit Fett ihn netzend und ihm Streu bereitend, dann setzten sie ihn als den Priester nieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Три сотни, три тысячи и тридцать  
 Девять богов почтили Агни.  

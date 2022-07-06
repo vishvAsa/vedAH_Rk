@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बीभत्सू꣡नां सयु꣡जं हंस꣡म् आहुर्  
 अपां꣡ दिव्या꣡नां सखिये꣡ च꣡रन्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रं नि꣡ चिक्युः कव꣡यो मनीषा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 अ॒नु॒ऽस्तुभ॑म् । अनु॑ । च॒र्चू॒र्यमा॑णम् । इन्द्र॑म् । नि । चि॒क्युः॒ । क॒वयः॑ । म॒नी॒षा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bībhatsūnāṃ* ← *bībhatsūnām* ← *bībhatsu*
 - \[noun\], genitive, plural, feminine
@@ -110,7 +110,7 @@ genre D
 **बीभत्सूनां** कम्पमानावयवानां यद्वा मेघेन बद्धानाम् । हन्ति गच्छतीति हंसः सूर्यः । तं **सयुजं** सखायम् **आहुः** । ब्रह्मवादिनः कथयन्ति । एतदेवाह । **दिव्यानां** दिवि भवानामान्तरिक्षाणाम् **अपां** **सख्ये** सखित्वे **चरन्तं** वर्तमानम् । **अनुष्टुभम्** अनुष्टोभनीयं स्तोतव्यम् । यद्वा । अनुष्टुप्शब्देन तत्संबद्धो यागः स्तुतिर्वा लक्ष्यते । अनुष्टुप्संबद्धं यागमनुष्टुप्छन्दसा युक्तं स्तुतिविशेषं वा । अनुलक्ष्य **चर्चूर्यमाणं** पुनःपुनश्चरन्तं गच्छन्तम् ॥ चरतेर्यङि ‘ उत्परस्यातः' (पा. सू. ७. ४. ८८) इत्यभ्यासादुत्तरस्याकारस्योत्वम् । **चरफलोश्च'** (पा. सू. ७. ४, ८७ ) इति नुकि प्राप्ते व्यत्ययेनाभ्यासस्य रुगागमः ॥ एवंगुणविशिष्टम् **इन्द्रं** **कवयः** क्रान्तदर्शिन ऋषयः **मनीषा** मनीषया स्तुत्या **नि** चिक्युः पूजयन्ति । यद्वा । मनीषा बुद्ध्या नि चिक्युः जानन्ति ॥ मनीषाशब्दात्तृतीयायाः ‘ सुपां सुलुक्' इति लुक् । 'चायृ पूजानिशामनयोः' इत्यस्माच्छान्दसे लिटि ‘ चायः की' (पा. सू. ६. १.३५) इति प्रकृतेः कीभावः । ‘एरनेकाचः' (पा. सू. ६. ४. ८२ ) इति यण् ॥ ॥१०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ genre D
 Anuṣṭup:or, the ceaselessly moving Indra, who is worthy to be praised with an Anuṣṭup; or, anuṣṭubham = one who isdeserving of praise (anuṣṭobhanīyam)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They say that a goose is the yokemate of those who recoiled, a goose  roaming in the fellowship of the heavenly waters.  
 The one roaming hither and yon in pursuit of the verse of praise have  the sage poets discerned to be Indra through their inspired thought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They call him Swan, the abhorrent floods' Companion, moving in friendship with celestial Waters.  
      The poets in their thought have looked on Indra swiftly approaching when Anustup calls him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie sagen, daß ein Schwan der Gefährte der Spröden sei, der in Gesellschaft der himmlischen Gewässer dahinzieht. Die Seher erkennen durch Nachsinnen den Indra, der nach der Anustubh hin und her zieht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Einen Schwan [haṅsám] nannten sie den Genossen der mit Abscheu entfliehenden Gewässer, den, der in der Genossenschaft der himmlischen Fluten wanderte; die Sänger nahmen mit Andacht des Indra wahr, welcher dem Lobgesang eifrig nachwanderte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Говорят, что спутник (этих) испытывающих отвращение - лебедь,  
 Движущийся в обществе небесных вод.  

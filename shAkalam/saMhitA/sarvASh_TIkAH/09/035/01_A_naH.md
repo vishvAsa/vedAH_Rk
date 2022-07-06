@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नः पवस्व धा꣡रया  
 प꣡वमान रयि꣡म् पृथु꣡म्  
 य꣡या ज्यो꣡तिर् विदा꣡सि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यया॑ । ज्योतिः॑ । वि॒दासि॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -84,7 +84,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** सोम त्वं **धारया** **नः** अस्माकम् **आ** **पवस्व** सर्वतः क्षर। किम् । **रयिं** धनं **पृथु** विस्तीर्णम् । **यया** धारया **ज्योतिः** द्योतमानं यज्ञं स्वर्गं वा **विदासि** लम्भयसि **नः** अस्माकम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,29 +95,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Yayā** jyotir **vidāsi** naḥ: **jyotis** = sacrifice, or heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bringing broad wealth for us, o self-purifying one, purify yourself in  a stream  
 with which you will find the light for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour forth on us abundant wealth, O Pavamana, with thy stream.  
      Wherewith thou mayest find us light
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns durch deine Klärung, o Pavamana, mit deinem Strome ausgedehnten Reichtum, durch den du uns Licht schaffen sollst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle uns, du rieselnder, im Strome grossen Reichthum her, Durch den du Glanz uns geben sollst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

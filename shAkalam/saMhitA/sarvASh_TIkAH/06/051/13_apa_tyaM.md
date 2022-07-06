@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡प त्यं꣡ वृजिनं꣡ रिपुं꣡  
 स्तेन꣡म् अग्ने दुराधि꣡यम्  
 दविष्ठ꣡म् अस्य सत्पते कृधी꣡ सुग꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 द॒वि॒ष्ठम् । अ॒स्य॒ । स॒त्ऽप॒ते॒ । कृ॒धि । सु॒ऽगम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apa*
 - \[adverb\]
@@ -100,20 +100,20 @@ genre M;; line affected by realignment
 हे **अग्ने** त्वं **त्यं** तं प्रसिद्धं **वृजिनं** कुटिलं **रिपुं** 'पापकारिणं **दुराध्यं** दुःखस्याध्यातारं दुष्टाभिप्रायमेवंभूतं **स्तेनं** हिंसकं **दविष्ठं** दूरतमम् **अप** **अस्य** अपक्षिप । **असु** क्षेपणे ' इति धातुः । हे **सत्पते** सतां पालयितरग्ने अस्माकं **सुगं** शोभनेन गन्तव्यं सुखं **कृधि** कुरु । अत्र सर्वदेवात्मकस्याग्नेः स्तवनाद्वैश्वदेवत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drive away, **Agni**, to a distance the wicked, felonious, malignant enemy; grant us felicity, protector of the virtuous.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Away with this crooked, cheating, ill-intentioned thief, o Agni.  
 Make an easy passage for him far, far away, o lord of settlements.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This first vs. of the extra material has various lexical ties to the first hymn: vṛjinám: 2c vṛjinā́; satpate: 4a sátpatīn; ripúm: 7d ripúḥ, which might help explain why it (and the following two vss.) were attached here.
 
@@ -134,23 +134,23 @@ As noted in the published introduction, I consider the remaining vss. to belong 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, drive thou the wicked foe, the evil-hearted thief away,  
      Far, far, Lord of the brave I and give us easy paths.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jenen falschen Schelm, den Dieb, der böße Absichten hat, jage recht weit fort, du rechter Herr Agni! Schaffe gute Fahrt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wirf weit hinweg, o Agni, den trügerischen Feind, den bösegesinnten Dieb, o starker Herr, und schaffe Wohlfahrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Прогони) прочь того лживого обманщика,  
 Вора, о Агни, с дурными замыслами!  

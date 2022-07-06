@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञा꣡नां रथि꣡ये वयं꣡  
 तिग्म꣡जम्भाय वीळ꣡वे  
 स्तो꣡मैर् इषेम अग्न꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्तोमैः॑ । इ॒षे॒म॒ । अ॒ग्नये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñānāṃ* ← *yajñānām* ← *yajña*
 - \[noun\], genitive, plural, masculine
@@ -76,41 +76,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यज्ञानां** **रथ्ये** नेत्रे **तिग्मजम्भाय** तीक्ष्णज्वालाय **वीळवे** बलवते **अग्नये** **स्तोमैः** स्तोत्रैः **वयम्** आङ्गिरसाः **इषेम** स्तुतिं कर्तुमिच्छेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us seek with our hymns **Agni**, the conductor of the sacrifices, the mighty, the sharp-jawed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the charioteer of the sacrifices, sharp-fanged, staunch,  
 would we make haste with praises—to Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The root affiliation of iṣema is not entirely clear. Lubotsky puts it with √iṣ ‘send’, but the case frame is wrong. But an affiliation with √iṣ ‘desire’ is even less likely. With Geldner and Renou I take it as meaning ‘hasten’ or the like and note the connection of the pāda, stómair iṣemāgnáye, with VIII.43.11c stómair vidhemāgnáye in the immediately preceding hymn, with iṣema a near-rhyme with vidhema in an otherwise identical pāda. Renou suggests that the form and the syntactic construction have been borrowed from VIII.43.11, but doesn’t explain what verb we’re starting with (though I surmise ‘send’). So perhaps substituting for “we would send praises to Agni.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Agni let us haste with lauds, the Guide of sacrificial rites,  
      Armed with sharp teeth, the Mighty One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen uns für den Wagenfahrer der Opfer, für den scharfzahnigen, starken Agni mit unseren Lobliedern beeilen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Agni, der die Opfer fährt, den scharfgezahnten, kräftigen, Lasst streben uns mit Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К колесничему жертв,  
 К мощному (богу) с острыми клыками,  

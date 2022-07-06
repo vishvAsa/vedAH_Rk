@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अष्टउ꣡ पुत्रा꣡सो अ꣡दितेर्  
 ये꣡ जाता꣡स् तनु꣡वस् प꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡रा मार्ताण्ड꣡म् आसियत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 दे॒वान् । उप॑ । प्र । ऐ॒त् । स॒प्तऽभिः॑ । परा॑ । मा॒र्ता॒ण्डम् । आ॒स्य॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aṣṭau* ← *aṣṭan*
 - \[noun\], nominative, plural, masculine
@@ -100,7 +100,7 @@ popular;; epic anuṣṭubh (380)
 **अष्टौ** **पुत्रासः** पुत्रा मित्रादयः **अदितेः** भवन्ति **ये** अदितेः **तन्वस्परि** शरीरात् **जाताः** उत्पन्नाः । अदितेरष्टौ पुत्रा अध्वर्युब्राह्मणे परिगणिताः । तथा हि - ‘ ताननुक्रमिष्यामो मित्रश्च वरुणश्च धाता चार्यमा चांशश्च भगश्च विवस्वानादित्यश्च ' (तै. आ. १. १३. ३) इति । तथा तत्रैव प्रदेशान्तरेऽदितिं प्रस्तुत्याम्नातं--  ‘ तस्या उच्छेषणमददुस्तत्प्राश्नात् सा रेतोऽधत्त तस्यै चत्वार आदित्या अजायन्त सा द्वितीयमपचत् ' इत्यादिनाष्टानामादित्यानामुत्पत्तिर्वर्णिता (तै. सं. ६. ५. ६. १ ) । सादितिः **सप्तभिः** पुत्रैः **देवानुप** **प्रैत्** उपागच्छत् । अष्टमं पुत्रं **मार्ताण्डं** सूर्यं **परा** **आस्यत्** उपरि प्राक्षिपदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,29 +111,29 @@ popular;; epic anuṣṭubh (380)
 Eight sons: **Mitra**, **Varuṇa**, **Dhātā**,**Aryaman**, **Aṃśa**, **Bhaga**, **Vivasvat** and Āditya (the sun). **Purāṇās** made the **Ādityas** twelve in number;**Sāyaṇa** cites Taittirīya **Saṃhitā** 6.5.6.1
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Eight are the sons of Aditi, which were born from her body.  
 With seven she went forth to the gods. She cast away the one stemming  from a dead egg.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eight are the Sons of Adid who from her body sprang to life.  
      With seven she went to meet the Gods she cast Martanda far away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Acht Söhne der Aditi sind es, die aus ihrem Leibe geboren wurden. Mit sieben ging sie zu den Göttern, den Martanda schob sie beiseite.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Acht Sähne sind's der Aditi, die ihrem Leib entsprungen sind; Den Göttern führt' sie sieben zu und warf hinweg des Eies Sohn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восьмеро сыновей у Адити,  
 Которые рождены из (ее) тела.  

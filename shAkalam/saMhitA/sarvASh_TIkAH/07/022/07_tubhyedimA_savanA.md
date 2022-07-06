@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्ये꣡द् इमा꣡ स꣡वना शूर वि꣡श्वा  
 तु꣡भ्यम् ब्र꣡ह्माणि व꣡र्धना कृणोमि  
 तुवं꣡ नृ꣡भिर् ह꣡वियो विश्व꣡धासि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 त्वम् । नृऽभिः॑ । हव्यः॑ । वि॒श्वधा॑ । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyed* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
@@ -109,41 +109,41 @@ genre M
 हे **शूर** **तुभ्येत्** तुभ्यमेव **इमा** इमानि **विश्वा** विश्वानि **सवना** सोमाभिषवणानि मया क्रियन्त इति शेषः । **तुभ्यं** त्वदर्थमेव **वर्धना** वर्धनानि **ब्रह्माणि** स्तोत्राणि **कृणोमि** करोमि। **त्वम्** एव **नृभिः** यज्ञानां नेतृभिः **विश्वधा** सर्वप्रकारैः **हव्यः** ह्वातव्यः स्तुत्यो वा **असि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To you, hero, I indeed offer these sacrifices, to you I address these elevating praises; you are to be inall ways invoked by the leaders (of rites).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you alone are all these pressings, o champion; for you I make  strengthening sacred formulations.  
 You are to be invoked by men at all times.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda could also be another obj. of kṛṇomi in b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All these libations are for thee, O Hero: to thee I offer these my prayers. that strengthen.  
      Ever, in every place, must men invoke thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich sind all diese Somaspenden, du Held; ich mache dir die erbaulichen Reden zur Stärkung. Du bist allezeit von den Männern anzurufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, dir bereit ich alle diese Säfte, und dir, o Held, die stärkenden Gebete, Du bist von Männern überall zu rufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только тебе все эти возлияния сомы, о герой.  
 Тебе я сотворяю подкрепляющие молитвы.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रा꣡ञ्चं यज्ञं꣡ चकृम व꣡र्धतां गीः꣡  
 समि꣡द्भिर् अग्निं꣡ न꣡मसा दुवस्यन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गृ꣡त्साय चित् तव꣡से गातु꣡म् ईषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दि॒वः । श॒शा॒सुः॒ । वि॒दथा॑ । क॒वी॒नाम् । गृत्सा॑य । चि॒त् । त॒वसे॑ । गा॒तुम् । ई॒षुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prāñcaṃ* ← *prāñcam* ← *prāñc*
 - \[noun\], accusative, singular, masculine
@@ -128,41 +128,41 @@ genre M
 हेअग्ने वयं यज्ञं प्राञ्चं प्रकर्षेणग्च्छन्तं चकृम अकार्ष्म गीः मदीयास्तुतिः वर्धतां एधतां अग्निंसमिद्धिर्नम्स्वाहविषाचदुवस्यन् अस्म्दीयाः परिचरेयुः किञ्च दिवोद्युलोकादागत्य देवाः कवीनां स्तोतॄणां विदथा ज्ञानानि स्तोत्राणिवाशशासुः अन्वशिषन् अपिच गृत्साय गृणातेरिदं रूपं स्तोतव्यायाग्नये तवसेवृद्धाय गातुंस्तोतुं ईषुश्रित् स्तोतारइच्छन्तिच चिदितिचार्थे ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We have performed, **Agni**, a successful sacrifice; may my praise magnify (you) as worshipping you with fuel and with reverence; (the gods) fromheaven desire the adoration of the pious, who are anxious to praise the adorable and mighty (Agni).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [The priests:] “We have made the sacrifice turned to the east (in order to  begin). Let our song become strong.” (So saying) they befriend Agni  with kindling wood and with reverence.  
 From heaven they [=the gods?] have directed the ritual distributions of  the sages. They have sought the way for (Agni), even for the clever and  mighty one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 East have we turned the rite; may the hymn aid it. With wood and worship shall they honour Agni.  
      From heaven the synods of the wise have learnt it: c'en for the quick and strong they seek advancement.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Eastward we have turned the sacrifice 2; may the prayer increase. They honoured Agni with fuel and adoration. They have taught (him) the sacrificial ordinances of the sages of Heaven 3. Though he (Agni) is clever and strong, they have sought a way for him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben das Opfer vorgeführt, das Lied soll wachsen. Mit Brennhölzern und Verneigung bevorzugten sie den Agni. Des Himmels Seher haben die weisen Reden der Seher angeleitet. Sie suchten für ihn, der schon selbst erfahren und stark ist, einen Weg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir förderten das Opfer, Sang gedeihe; Agni versahn mit Flammen sie voll Ehrfurcht, Vom Himmel lehrten sie die Schar der Priester und schafften Fortgang jedem raschen, starken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы направили жертву вперед. Пусть растет песня!  
 Дровами и поклонением одарили они Агни.  

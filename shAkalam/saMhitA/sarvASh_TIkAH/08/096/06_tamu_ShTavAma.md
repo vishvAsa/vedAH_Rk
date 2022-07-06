@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ ष्टवाम य꣡ इमा꣡ जजा꣡न  
 वि꣡श्वा जाता꣡नि अ꣡वराणि अस्मात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡पो न꣡मोभिर् वृषभं꣡ विशेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्रे॑ण । मि॒त्रम् । दि॒धि॒षे॒म॒ । गीः॒ऽभिः । उपो॒ इति॑ । नमः॑ऽभिः । वृ॒ष॒भम् । वि॒शे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 परस्परं स्तोतार आहुः । **तमु** तमेवेन्द्रं वयं संहत्य **स्तवाम** स्तोत्रं करवाम । **यः** इन्द्रः **इमा** इमानि भूतानि **जजान** जनयामास । तस्मात् **अस्मात्** इन्द्रादेव **विश्वा** विश्वानि सर्वाणि वस्तुजातानि सर्वाणि जगन्ति वा **अवराणि** अवरकालीनानि पश्चाद्भवानि भवन्ति । तेनानेन **इन्द्रेण** वयं **गीर्भिः** स्तुतिभिः **मित्रम्** । लुप्तभावप्रत्ययेन निर्देशः । मैत्रीं **दिधिषेम** धारयेम । ‘धिष धारणे इति धातुं केचिद्वदन्ति । यद्वा । मित्रम् । छान्दसमेकवचनम् । वयमिन्द्रेण सह मित्राणि सुहृदो भवामेति गीर्भिरिन्द्रं शब्दयेम ।  ‘ धिष शब्दे । जौहोत्यादिकः । अत्र व्यत्ययेन द्विविकरणता श्लुश्च शश्च। ततः **नमोभिः** क्रियमाणैर्नमस्कारैर्दीयमानैर्हविर्भिर्वा **वृषभं** कामानां वर्षकमिन्द्रम् **उपो** **विशेम** अस्मदभिमुखमेव कुर्याम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,35 +135,35 @@ genre M
 May wemaintain friendship: mitram = maitrīm; let us say by our hymns, may we be friends with Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Maruts:] “Let us praise him, who begat all these creatures here  
 below him.  
 We would like to establish an alliance with Indra with our hymns; we  would come near the bull with reverences.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (so also Grassmann) takes ávarāṇy asmāt as temporal: “die nach ihm kommen,” whereas I interpret it spatially. Though “later than him” is possible, it seems pleonastic+++(=redundant)+++, in that if Indra begat them, they would have to be later than him. The idea is rather that they exist here on earth, below him,, and also that he begot them as subordinates. Cf. vrjánem ̥ ā́varāṇi “these communities here below” (IX.96.7) and bándhūm̐r imā́m̐ávarān “these bonds here below” (IX.97.17), which both seem spatial, not temporal, also.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let us praise him who made these worlds and creatures, all things that after him sprang into being.  
      May we win Mitra with our songs, and Indra, and. wait upon our Lord with adoration.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn wollen wir preisen, der alle diese Geschöpfe erzeugt hat, die nach ihm kommen. Mit Indra möchten wir Freundschaft schließen durch Lobesworte; wir wollen uns unter Verbeugungen zu dem Bullen setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn lasst uns preisen, welcher diese Wesen zusammt erschuf, die nach ihm sind entsprossen, Mit Indra lasst den Mitra uns verehren, mit Liedern uns in Demuth nah'n dem Helden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

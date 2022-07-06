@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ स्तो꣡मं स꣡क्रतवो मे अद्य꣡  
 मित्रो꣡ अर्यमा꣡ व꣡रुणो जुषन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वृजिना अनवद्या꣡ अ꣡रिष्टाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ॒दि॒त्यासः॑ । शुच॑यः । धार॑ऽपूताः । अवृ॑जिनाः । अ॒न॒व॒द्याः । अरि॑ष्टाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 इमम्मेस्मदीयंस्तोमंस्तोत्रंसक्रतवः समानक्रमाणःसमानप्रज्ञावामित्रादयः अद्येदानीञ्जुषन्त जुषन्ताम् सेवन्ताम् कीदृशास्तेआदित्यासः अदितेःपुत्राःशुचयोदीप्यमानाः धारपूताः उदकधाराभिः क्षालिताइवपूताः निर्मलाइत्यर्थः अवृजिनाः वृजीवर्जने अवर्जितारः सर्वानुग्राहकाइत्यर्थः अनवद्याः अवद्येनगर्ह्येणपापेनरहिताः अरिष्टाः केनाप्यहिंसिताः ॥ २ ॥ तस्मिन्नेवपशौतआदित्यासइतिहविषोनुवाक्या सूत्रन्तुपूर्वमेवोदाहृतम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,35 +127,35 @@ genre M
 Purified by showers: dhārapūtā, cleansed by water, clean (**nirmala**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Today, they of common resolve—Mitra, Aryaman, and Varuṇa—will  enjoy this praise song of mine—  
 they, the gleaming Ādityas, pure as a stream (of soma) and free of  
 crookedness, disgrace, or injury.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With one accord may Aryaman and Mitra and Varuna this day accept this praise-song-  
      Adityas bright and pure as streams of water, free from all guile and falsehood, blameless, perfect.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 This praise of mine may Aryaman and Mitra And Varuṇa to-day accept united: The radiant Ādityas, like sword-blades shining, From guile and falsehood free, unscathed, and blameless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An diesem Loblied von mir sollen heute einmütig Mitra, Aryaman, Varuna Gefallen finden, die reinen Aditya´s, die lauter wie die Somagüsse, die ohne Falsch, ohne Makel, ohne Schaden sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Loblied möge heut die gleichgesinnten Arjaman, Mitra, Varuna geniessen, Der Aditi stromhelle, lichte Söhne, die frei von Tadel, Unrecht sind und Schaden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этому моему восхвалению пусть радуются сегодня  
 Единодушные Митра, Арьяман, Варуна –  

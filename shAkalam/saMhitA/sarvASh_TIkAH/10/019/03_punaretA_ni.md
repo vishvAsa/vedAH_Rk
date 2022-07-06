@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡नर् एता꣡ नि꣡ वर्तन्ताम्  
 अस्मि꣡न् पुष्यन्तु गो꣡पतौ  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इह꣡ तिष्ठतु या꣡ रयिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 इ॒ह । ए॒व । अ॒ग्ने॒ । नि । धा॒र॒य॒ । इ॒ह । ति॒ष्ठ॒तु॒ । या । र॒यिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punar*
 - \[adverb\]
@@ -115,34 +115,34 @@ popular;; epic anuṣṭubh (424)
 एना एता ईदृश्यो गाव आपो वा **पुनः** **नि** **वर्तन्तां** भूयो भूयो मां प्रत्यागच्छन्तु । आगत्य च **गोपतौ** सास्नादिमतीनां धेनूनां वृष्टिलक्षणानामपां पालके **अस्मिन्** ईदृशे मयि **पुष्यन्तु** आत्मायत्तत्वेन स्थित्वा पुष्टा भवन्तु । पुष्टाः सतीस्ता हे **अग्ने** त्वम् **इहैव** अस्मिन्नेव मयि **नि** **धारय** नियमेन स्थापय । **या** **रयिः** यदपि व्रीह्यादिकं धनमस्ति तदपि धनं गोसहितम् **इह** अस्मिन्नेव गोपतौ मयि **तिष्ठतु** निवसतु ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let these turn back again. Let them prosper in (the care of) this man, the  lord of the cattle.  
 Right here, o Agni, fix them down fast. Here let it remain—our wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let them return to us again: under this herdsman let them feed.  
      Do thou, O Agni, keep them here, and let the wealth we have remain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese sollen wieder heimkehren, bei diesem Rinderbesitz sollen sie gedeihen. Hier nur halte sie, Agni, fest; hier soll der Reichtum verbleiben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie mögen wiederkehren nun, bei diesem Hirten recht gedeihn; Hier halte sie, o Agni, fest; und jeder Reichthum weile hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да вернуться эти назад!  
 Да процветают они у этого хозяина коров!  

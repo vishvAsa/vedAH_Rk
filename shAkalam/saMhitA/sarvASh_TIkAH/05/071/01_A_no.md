@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो गन्तं रिशादसा  
 व꣡रुण मि꣡त्र बर्ह꣡णा  
 उ꣡पेमं꣡ चा꣡रुम् अध्वर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 उप॑ । इ॒मम् । चारु॑म् । अ॒ध्व॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -87,36 +87,36 @@ genre M
 हे **वरुण** हे **मित्र** हे **रिशादसा** शत्रूणां प्रेरकौ युवां **नः** अस्माकम् **इमं** **चारुं** चरणीयम् **अध्वरम्** अहिंसकं यज्ञम् **उप** **आ** **गन्तम्** उपागच्छतम् । कीदृशौ । **बर्हणा** परिबर्हणौ निबर्हणौ हन्तारौ शत्रूणाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Mitra** and **Varuṇa**, scatterers of foes, destroyers of enemies, come to this our accessible sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here to us with might, o you caring for the stranger, o Varuṇa  and Mitra,  
 to this cherished rite.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Varuna and Mitra, ye who slay the foemen, come with might  
      To this our goodly sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommt mit Eifer zu uns, ihr überlegenen Varuna und Mitra, zu diesem angenehmen Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Feindverzehrer, kommt zu uns mit Kraft, o Mitra, Varuna, Zu diesem schönen Opferfest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Придите к нам, о каратели врагов (?),  
 О Варуна, о Митра, с крепкой силой  

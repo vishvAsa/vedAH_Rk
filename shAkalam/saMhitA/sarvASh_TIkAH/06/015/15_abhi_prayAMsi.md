@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ प्र꣡यांसि सु꣡धितानि हि꣡ ख्यो꣡  
 नि꣡ त्वा दधीत रो꣡दसी य꣡जध्यै  
@@ -15,7 +15,7 @@ ChandaH = "शक्वरी"
 ता꣡ तरेम त꣡वा꣡वसा तरेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 अव॑ । नः॒ । म॒घ॒ऽव॒न् । वाज॑ऽसातौ । अग्ने॑ । विश्वा॑नि । दुः॒ऽइ॒ता । त॒रे॒म॒ । ता । त॒रे॒म॒ । तव॑ । अव॑सा । त॒रे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -145,44 +145,44 @@ genre M;; repeated line
 हे अग्ने **सुधितानि** सुनिहितानि वेयामासादितानि **प्रयांसि** अन्नानि हविर्लक्षणानि **अभि** **ख्यः** अभिपश्यसि । **हि** पूरकः । तादृशं त्वां **रोदसी** द्यावापृथिव्यावेतदुपलक्षितान् सर्वान् देवान् **यजध्यै** यष्टुं **नि** **दधीत** । अयं यजमानो निहितवान् । हे **मघवन्** **अग्ने** **नः** अस्मान् **वाजसातौ** संग्रामे अन्नस्य संभजने वा निमित्तभूते **अव** रक्ष । वयं च **विश्वानि** सर्वाणि **दुरिता** दुरितानि दुःखानि **तरेम** अतिक्रामेम । अन्यद्गतम् ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Look, **Agni**, upon the (sacrificial) viands duly deposited (upon the altar); heaven and earth detain you to sacrifice (to the gods); opulent Agni, protect us in battle, whereby we may pass safe over all evils; may we pass over those of a prior existence; may we pass over them by your protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you watch over the well-placed pleasurable offerings then. One  should set you down, to sacrifice to the two world-halves.  
 Help us, bounteous one, in the winning of prizes. Agni, may we cross  over all (narrow straits) difficult to traverse; may we cross over  
 them—with your help may we cross over.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Oldenberg points out (see published introduction.), this is no doubt the last vs. of this collection of tṛcas, with vss. 16-19 later additions. There is some faint sign of ring composition with the first tṛca: súdhitāni in pāda a reprises súdhitam in 2a, as dadhīta with Agni as object does dadhúḥ also in 2a. The last three pādas of this vs., esp. de, appear to be a refrain: pāda e is identical to VI.2.11e = 14.6e in this Agni cycle, and pāda d ágne víśvāni duritā́tarema is a variant of VI.2.11d = 14.6d dviṣó áṃhāṃsi duritā́tarema, hence my supplied “narrow straits” here. These refrain pādas also signal that the hymn (or the tṛcas loosely collected into a hymn) once ended here.
 
 On the anomalous position of hí here, see comm. ad III.31.12, where the idiosyncratic behavior of √khyā is discussed. Here the immediate preverbal position of hí is esp. anomalous because the preverb abhí has been fronted (as opposed to III.31.12 … ví hí kyán #, where the preverb stays in the verb complex).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Look thou upon the viands duly laid for thee. Fain would he set thee here to worship Heaven and,Earth.  
      Help us, O liberal Agni, in the strife for spoil, so that we may o'ercome all things that trouble us, o'ercome, o'ercome them with thy help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So betrachte denn die wohlbereiteten Opfergenüsse. Der Priester soll dich einsetzen, um beiden Welten zu opfern. Sei uns günstig bei der Lohngewinnung, o Gabenreicher! O Agni, über alle Fährlichkeiten möchten wir hinwegkommen, wir möchten über diese hinwegkommen, durch deine Gnade hinwegkommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So sieh dir an die wohlgesetzten Speisen; dich wählt man gern zu opfern beiden Welten; Uns hilf, o mächt'ger, bei der Opferspende, lass, Agni, alles Unglück uns durchschreiten; (kraft deiner Gunst lass du hindurch uns schreiten.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обрати же внимание на жертвенные услады – ведь они хорошо приготовлены!  
 Пусть устроит тебя (жрец), чтобы ты приносил жертвы двум мирам!  

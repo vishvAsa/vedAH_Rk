@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गो꣡माँ अग्ने अ꣡विमाँ अश्वी꣡ यज्ञो꣡  
 नृव꣡त्सखा स꣡दम् इ꣡द् अप्रमृष्यः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दीर्घो꣡ रयिः꣡ पृथुबुध्नः꣡ सभा꣡वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इळा॑ऽवान् । ए॒षः । अ॒सु॒र॒ । प्र॒जाऽवा॑न् । दी॒र्घः । र॒यिः । पृ॒थु॒ऽबु॒ध्नः । स॒भाऽवा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gomāṃ* ← *gomat*
 - \[noun\], nominative, singular, masculine
@@ -115,7 +115,7 @@ genre M
 हे **असुर** बलवन् हे **अग्ने** **एषः** मदीयोऽयं **यज्ञः** **गोमान्** गोभिस्तद्वान् **अविमान्** । अवयो मेषा अस्य सन्ति इति तद्वान् **अश्वी** अश्वोपेतश्चास्तु। **नृवत्सखा** । नरः कर्मणां नेतारोऽध्वर्वान्दयः तद्वन्तः सखायोऽनुष्ठातारो यजमाना यस्य स तथोक्तः । **सदमित्** सदैव **अप्रमृष्यः** अप्रधृष्यश्चास्तु । तथा **इळावान्**। इळा हविर्लक्षणमन्नम् । तद्वान् । **प्रजावान्** पुत्रपौत्रादियुक्तश्चास्तु । **दीर्घः** अविच्छिन्नानुष्ठानोपेतः **रयिः** धनवान् । लुप्तमत्वर्थीयः । **पृथुबुध्नः** । पृथूनि बहुलानि बुध्नानि धनादीनि कारणानि यस्य स तथोक्तः । **सभावान्** उपद्रष्टृरूपसभायुक्तश्चास्तु ॥ नृवत्सखा । नरो येषां सन्तीति नृवत् । मतुप् । तस्य छान्दसं वत्वम् । ‘ह्रस्वनुड्भ्यां मतुप्' इति मतुप उदात्तत्वम् । बहुव्रीहौ पूर्वपदस्वरः ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,39 +126,39 @@ genre M
 I.e. sabhāvān, in the presence of spectators upadraṣṭi sabhārūpayuktaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, a sacrifice bringing cows, sheep, horses, and manly comrades is  never to be spurned.  
 Bringing refreshment and progeny, o Lord, it is long wealth, broad of  base, fit for the assembly.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The qualifier ‘long’ (dīrgháḥ) of wealth in d means, of course, ‘long-lasting’ (just as dīrgháṃ támaḥ [I.32.10, etc.] refers to “long(-lasting) darkness”). However, since it is implicitly contrasted here with ‘broad’ (pṛthu-budhná- ‘having a broad base’), it is clear that the image is one of physical dimensions, not merely temporal ones. And, at least for me, “long darkness” is a more striking verbal formulation than “long-lasting darkness.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, be this our sacrifice eternal, with brave friends, rich in kine and sheep and horses,  
      Rich, Asura! in sacred food and children, in full assembly, wealth broad-based and during.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 This sacrifice, O Agni, is rich in cows 1, in sheep and horses, in manly friends; it is never to be despised; it is rich in nourishment, O wonderful lord 2, rich in offspring; it is long-lasting wealth, broad-based, with (brilliant) assemblies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfer bringt Rinder, Schafe, Rosse, hat mannhafte Freunde, ewig denkwürdig ist es, reich an Himmelsspeise und kinderreich, o Asura, ein bleibender Schatz, der auf breiter Grundlage ruht und gute Gesellschaft hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Opfer, Agni, ausgeführt von Starken, ist reiches Gut an Rossen, Rindern, Schafen, an Speis', o Gott, an Kindern und Gemeinden, weitreichend, festgegründet, unvertilgbar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертва, о Агни, приносит коров, овец, коней;  
 У нее мужественные друзья, ее никогда нельзя забыть.  

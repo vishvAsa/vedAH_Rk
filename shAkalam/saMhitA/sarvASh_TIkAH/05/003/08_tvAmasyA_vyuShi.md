@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अस्या꣡ विउ꣡षि देव पू꣡र्वे  
 दूतं꣡ कृण्वाना꣡ अयजन्त हव्यइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवो꣡ म꣡र्तैर् व꣡सुभिर् इध्य꣡मानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒म्ऽस्थे । यत् । अ॒ग्ने॒ । ईय॑से । र॒यी॒णाम् । दे॒वः । मर्तैः॑ । वसु॑ऽभिः । इ॒ध्यमा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -126,7 +126,7 @@ genre M
 हे अग्ने **त्वामस्याः** रात्रेः **व्युषि** । व्युष्टायामुषसीत्यर्थः । **पूर्वे** पुरातना यजमानाः **दूतं** देवानां प्रेरकं **कृण्वानाः** कुर्वाणाः **अयजन्त** **हव्यैः** हर्विभिः साधनैः **रयीणां** हविर्लक्षणानां **संस्थे** संस्थाने आसादने सति हे **अग्ने** **यत्** यदा **ईयसे** गच्छसि। **देवः** द्योतमानः **मर्तैः** मनुष्यैर्ऋत्विग्भिः **वसुभिः** वासकैः **इध्यमानः** समिध्यमानः सन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,34 +137,34 @@ genre M
 Proceed to the wealth of sacrifice: saṃsthe yad agni iyase rayīṇām = liṭ,to the heap of riches, but the riches here are those of the oblation, havirlakṣanānām; kindled by mortals: martair vasubir idhyamānaḥ: the second is an epithet of the first, meaning, vasakiḥ, plural cing or fixing in an abode or plural ce of the dwelling, i.e., either the altar, or the chamber of sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the dawning of this (dawn), o god, the ancients, making you their  messenger, offered you sacrifice with oblations,  
 when, o Agni, you speed amid the gathering of riches as the god being  kindled by mortals and by the good (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At this dawn's flushing, God! our ancient fathers served thee with offerings, making thee their envoy,  
      When, Agni, to the store of wealth thou goest, a God cnkindled with good things by mortals.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O god, the ancient (mortals) have made their messenger at the break of this (dawn), and have sacrificed with their oblations, when thou goest along, O Agni, in the abode of wealth, a god kindled by the mortals and by the Vasus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich machten im Aufleuchten dieser Morgenröte die Vorfahren zu ihrem Boten, o Gott; und sie verehrten dich mit Opfergaben, da du, Agni, dorthin kommst, wo sich Reichtümer ansammeln, du der Gott, der von den Sterblichen, von den Göttern entzündet wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Tages Anbruch ehrten dich die Väter, o Gott, durch Opfer, dich zum Boten machend, Weil du ja wandelst mitten unter Schätzen, Gott Agni du, entflammt von guten Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Делая тебя вестником при зажигании этой (зари),  
 О бог, предки почитали (тебя) жертвенными возлияниями,  

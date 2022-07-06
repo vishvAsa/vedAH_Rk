@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡म् ईळिष्व अ꣡वसे  
 गा꣡थाभिः शीर꣡शोचिषम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अग्निं꣡ सुदीत꣡ये छर्दिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । रा॒ये । पु॒रु॒ऽमी॒ळ्ह॒ । श्रु॒तम् । नरः॑ । अ॒ग्निम् । सु॒ऽदी॒तये॑ । छ॒र्दिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -102,7 +102,7 @@ genre M
 हे **पुरुमीळ्ह** त्वम् **अग्निम्** **अवसे** आवयो रक्षणाय **ईळिष्व** स्तुहि **गाथाभिः** । गाथेति वाङ्नाम । मन्त्ररूपाभिर्वाग्भिः । कीदृशम् । **शीरशोचिषं** शयनस्वभावरोचिष्कम् । तथा **राये** धनाय ईळिष्व । **श्रुतम्** एनं **नरः** अन्येऽपि यजमानाः स्तुवन्ति स्वार्थम् । तस्मात् **सुदीतये** मह्यम् **अग्निं** **छर्दिः** गृहं याचस्वेत्येवं सुदीतिः पुरुमीळ्हं ब्रूते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,30 +113,30 @@ genre M
 Whose splendours lie outspread: śīraśociṣam, śayanasvabhāva rociṣkam; (RV 4.5.10): aśanaśīla jvālam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni—with songs reverently invoke him of sharp flame for help;  
 Agni the famed (do) men (invoke) for wealth, o Purumīḷha; Agni as  
 shelter for Sudīti.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Solicit with your chants, for help, Agni the God with piercing flame,  
      For riches famous Agni, Purumilha and ye men! Agni to light our dwelling well.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni rufe zum Beistand mit Gesangesversen, den Scharfflammigen, den Agni um Reichtum, o Purumilha, den berühmten rufen die Männer, den Agni für Suditi um Schutz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni fleh um Hülfe an, durch Lieder ihn, der heiss erglüht; Um Gut, o Purumidha, und o Männer ihr, um Schutz zum Glanz den herrlichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

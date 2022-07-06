@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्त꣡ धा꣡मानि परिय꣡न्न् अ꣡मर्तियो  
 दा꣡शद् दाशु꣡षे सुकृ꣡ते मामहस्व  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡स् त आ꣡नट् समि꣡धा तं꣡ जुषस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽवीरे॑ण । र॒यिणा॑ । अ॒ग्ने॒ । सु॒ऽआ॒भुवा॑ । यः । ते॒ । आन॑ट् । स॒म्ऽइधा॑ । तम् । जु॒ष॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
@@ -128,7 +128,7 @@ genre M
 हे अग्ने **सप्त** सप्तसंख्याकानि **धामानि** स्थानानि पृथिव्यादिलोकात्मकानि **परियन्** परितो गच्छन् **अमर्त्यः** मरणधर्मरहितस्त्वं यो यजमानः पुरोडाशादीनि हवींषि **दाशत्** प्रयच्छति तस्मै **दाशुषे** दत्तवते **सुकृते** सुष्ठु यागं कृतवते **मामहस्व** । अपेक्षितं धनं ददस्व । महतिर्दानकर्मा ॥ ‘ सुकर्मपाप' (पा. सू. ३. २. ८९ ) इत्यादिना सुपूर्वात्कृञो भूते काले क्विप् ॥ **यः** च यजमानः **समिधा** समिन्धनसाधनेनेध्मेन हे **अग्ने** **ते** त्वाम् **आनट्** प्राप्नोति ॥ नशतिर्गतिकर्मा । अस्माच्छान्दसो लङ् । 'बहुलं छन्दसि' इति शपो लुक् । 'छन्दस्यपि दृश्यते' इत्याडागमः । अश्नोतेर्वा व्यत्ययेन श्नम् ॥ **तं** यजमानं **सुवीरेण** । शोभनवीराः पुत्रा यस्य ॥ ‘ वीरवीर्यौ च इत्युत्तरपदाद्युदात्तत्वम् ॥ तादृशेन **स्वाभुवा** सुष्ठु आ समन्ताद्भूष्णुना वर्धिष्णुना **रयिणा** धनेन दातव्येन सार्धं **जुषस्व** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ genre M
 Giving liberally: dāśat yaḥ: to the pious worshipper who gives
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As you, the immortal, circle the seven domains, as you do pious work for  the pious, be generous to the one who performs (rituals) well  
 with wealth rich in heroes ready to hand, o Agni. Whoever has reached  toward you with a kindling stick, take pleasure in him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Immortal, wandering round the seven stations, give, a liberal Giver, to the pious worshipper,  
      Wealth, Agni, with brave sons and ready for his use: welcome the man who comes with fuel unto thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du, der Unsterbliche, die sieben Formen durchläufst, und wenn du dem frommen Spender spendest, so zeige dich freigebig durch einen recht diensamen Schatz an Meistern, o Agni! Wer zu dir mit Brennholz gekommen ist, an dem habe Wohlgefallen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durchwandernd sieben Stätten als Unsterblicher, beschenk, o Agni, hold den frommen Huldiger Mit heldenreichem Gute, das zur Hand ihm sei, und sei du freundlich dem, der dir mit Brennholz naht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обходя вокруг семи мест как бессмертный,  
 Почитая благочестивого почитателя (своего), осчастливь (нас),  

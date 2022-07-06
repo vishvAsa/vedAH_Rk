@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ सि꣡न्धुं विबालि꣡यं  
 वितस्थाना꣡म् अ꣡धि क्ष꣡मि  
 प꣡रि ष्ठा इन्द्र माय꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 परि॑ । स्थाः । इ॒न्द्र॒ । मा॒यया॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M
 हे **इन्द्र** **उत** अपि च **विबाल्यं** विगतबाल्यावस्थां संपूर्णजलां **वितस्थानां** वितिष्ठमानां **सिन्धुं** नदीम् **अधि** **क्षमि** क्षमायां **मायया** प्रज्ञया **परि** **ष्ठाः** पर्यस्थाः । सर्वतः स्थापनं कृतवानसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ genre M
 Sindhu vibālyam vitasthānam : vigatabālyāvasthām, whose youth was passed, i.e., who was full of water, sampūrṇajalam, and vitiṣṭhamānam, stopping or being stopped
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And the River Vibālī, which had spread out upon the earth,  
 did you hem in, Indra, by your magic power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vibālī́- is almost universally taken as the name of (another) river, though the name (and indeed the word) shows up nowhere else. By contrast, in the first ed.
 
@@ -115,23 +115,23 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, didst. with magic power resist the overflowing stream  
      Who spread her waters o'er the land.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch den Strom Vibali, der sich über die Erde ausgebreitet hatte, hieltest du, Indra, durch Zauberkraft auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Strom Vibali, der das Land weit überschwemmte, engtest du, O Indra, ein mit weiser Kunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Также поток Вибали,  
 Растекшийся по земле,  

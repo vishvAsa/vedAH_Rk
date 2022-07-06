@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वीरया꣡ शु꣡चयो दद्रिरे वाम्  
 अध्वर्यु꣡भिर् म꣡धुमन्तः सुता꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पि꣡बा सुत꣡स्य अ꣡न्धसो म꣡दाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 वह॑ । वा॒यो॒ इति॑ । नि॒ऽयुतः॑ । या॒हि॒ । अच्छ॑ । पिब॑ । सु॒तस्य॑ । अन्ध॑सः । मदा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 हे वायो **वीरया** वीराय विविधमीरयित्रे ॥ ‘सुपां सुलुक्' इति चतुर्थ्या याजादेशः ॥ **वां** ते । व्यत्ययेन द्विवचनम् । तुभ्यं **शुचयः** शुद्धाः **मधुमन्तः** माधुर्योपेताः **सुतासः** अभिषुताः सोमा ऐतरेयिभिर्नवमेऽहनि प्रउगे **अध्वर्युभिः** अध्वरस्य नेतृभिर्ऋत्विग्भिः **प्र** **दद्रिरे** प्रदीयन्ते । **दद** दाने' इत्यस्यैतद्रूपम् । यत एवमतः कारणात् हे **वायो** **नियुतः** वडवाः **वह** रथं प्रापय । तेन च रथेन **अच्छ** **याहि** । अस्मद्यज्ञमभिगच्छ । अभिगत्य च **सुतस्य** अभिषुतस्य **अन्धसः** अन्नस्य सोमलक्षणस्य स्वकीयं भागं **पिब** । किमर्थम् । **मदाय** मदोत्पत्यर्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,13 +132,13 @@ Vām = te; or, vīrayā = **vīra**;
 Vām = of you two, to the sacrificer and his wife, he patinyajamānau yuvayoḥ soma dadrire, your Somalibations, wife and sacrificer, are being effused by the priests
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The clear, honeyed pressed (soma-drinks) have been presented to you two  by the Adhvaryus with desire for heroes.  
 Drive, Vāyu; travel to our teams [=poetic thoughts]. Drink of the pressed  stalk, to euphoria.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this hymn plays on the two senses of niyút- in Vāyu context: his teams of wind-horses and our teams of poetic thoughts. This ambiguity is fully on display in pāda c váha vāyo niyúto yāhy áchā, where acc. pl.
 
@@ -151,23 +151,23 @@ The situation is complicated by the semi-parallel passage I.135.2 váha vāyo ni
 tr. of this passage and of I.135.2 could be “Drive (your teams), Vāyu; travel to our teams.” See also 3c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To you pure juice, rich in meath, are offered by priest: through longing for the Pair of Heroes.  
      Drive, Vayu, bring thine harnessed horses hither: drink the pressed Soma till it make thee joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In Erwartung eines Sohnes der Helden, sind euch beiden von den Adhvaryu´s die klaren, süßen Somasäfte dargebracht worden. Fahre, Vayu, die Niyut-Rosse, komm her! Trink vom gepreßten Trank zum Rausche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus Liebe sind euch dargereicht die reinen, die honigsüssen Tränke von den Priestern; O Vaju komm mit Vielgespannen fahrend und trink zum Rausch den ausgepressten Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из желания иметь сына вам двоим принесли с помощью адхварью  
 Чистые, полные сладости выжатые (соки).  

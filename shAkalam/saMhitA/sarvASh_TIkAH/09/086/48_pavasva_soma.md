@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व सोम क्रतुवि꣡न् न उक्थियो꣡  
 अ꣡व्यो वा꣡रे प꣡रि धाव म꣡धु प्रिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बृह꣡द् वदेम विद꣡थे सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 ज॒हि । विश्वा॑न् । र॒क्षसः॑ । इ॒न्दो॒ इति॑ । अ॒त्रिणः॑ । बृ॒हत् । व॒दे॒म॒ । वि॒दथे॑ । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -136,7 +136,7 @@ genre M;; repeated line
 हे **सोम** **नः** अस्माकं **ऋतुवित्** कर्मज्ञः । स्तुतिज्ञ इत्यर्थः । **उक्थ्यः** स्तुत्यः । यतः स्तुत्योऽतः क्रतुविदित्यभिप्रायः । ईदृशस्त्वं नोऽस्माकं यागाय **पवस्व** स्रव रसम् । **अव्यो** **वारे** दशापवित्रे **प्रियं** **मधु** **परि** **धाव** परिक्षर । हे **इन्दो** दीप्त सोम **अत्रिणः** भक्षकान् **विश्वान** **रक्षसः** **जहि** । **सुवीराः** सुपुत्रा वयं **विदथे** यज्ञे **बृहत्** महद्धनं **वदेम** उच्चारयेम । याचेमेत्यर्थः । यद्वा प्रभूतं स्तोत्रं वदेम ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,14 +147,14 @@ genre M;; repeated line
 May we offer ample praises: bṛhad vadema = liṭ, may we say much (or speak loudly); or, may we solicit much wealth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, Soma, finding the will, to be hymned by us. Run around  in the sheep’s fleece as dear honey.  
 Smite all rapacious demons, o drop. – May we speak loftily at the ritual  distribution, in possession of good heroes.  
 Trisṭubh Hymns: 87–97 ̣
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The aggressively hostile command in pāda c comes as something of a surprise in this otherwise ritually and cosmically focused hymn.
 
@@ -170,23 +170,23 @@ The hymn ends with a tṛca no more unified than most of those that preceded it,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Winner of' power, flow, Soma, worthy of our laud: run onward to the fleece as well-beloved meath.  
      Destroy, O Indu, all voracious Raksasas. With brave sons in the assembly let our speech be bold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, Soma, uns Rat findend, preislich, lauf in dem Schafhaar um als lieber Süßtrank! Erschlag, o Saft, alle Unholde, die Atrin´s! Wir möchten das große Wort führen als Meister in der weisen Rede!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma, riesle Kraft uns zu, gepriesener! und ströme durch die Widderwolle, lieber Meth! Die Fresser und Gespenster alle, Indu, triff, wir mögen laut beim Feste singen heldenreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

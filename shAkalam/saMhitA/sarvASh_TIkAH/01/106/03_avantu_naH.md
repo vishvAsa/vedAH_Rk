@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वन्तु नः पित꣡रः सुप्रवाचना꣡  
 उत꣡ देवी꣡ देव꣡पुत्रे ऋतावृ꣡धा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 रथ॑म् । न । दुः॒ऽगात् । व॒स॒वः॒ । सु॒ऽदा॒नवः॒ । विश्व॑स्मात् । नः॒ । अंह॑सः । निः । पि॒प॒र्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avantu* ← *av*
 - \[verb\], plural, Present imperative
@@ -124,7 +124,7 @@ genre M;; repeated line
 **नः** अस्मान् **पितरः** अग्निष्वात्तादयः **अवन्तु** रक्षन्तु । कीदृशाः। 'सुप्रवाचनाः सुखेन प्रवक्तुं स्तोतुं शक्याः । **उत** अपि च **देवपुत्रे** देवाः सर्वे पुत्रस्थानीया ययोस्ते **ऋतावृधा** ऋतस्य सत्यस्य यज्ञस्य वा वर्धयित्र्यौ **देवी** देवनादिगुणयुक्ते द्यावापृथिव्यौ अस्मान् रक्षताम्। अन्यत् समानम् ॥ देवी । वा छन्दसि ' इति पूर्वसवर्णदीर्घत्वम् । ऋतावृधा । वृधेरन्तर्भावितण्यर्थात् क्विप्। सुपां सुलुक्' इति विभक्तेः आकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,33 +135,33 @@ genre M;; repeated line
 **Pitṛs** = **agniṣvāttas** and others (**Manu**, III.195)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the Fathers help us, those good to proclaim, and the two goddesses  [=Heaven and Earth], whose sons are the gods, strong through truth. – Like a chariot from a hard place, o good ones of good gifts, rescue us  from all narrow straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 supravācana-, here used of gods, is found also in the preceding hymn, I.105.12.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the most glorious Fathers aid us, and the two Goddesses, Mothers of the Gods, who strengthen Law.  
      Even as a chariot from a difficult ravine, bountiful Vasus, rescue us from all distress.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen uns die gelobten Väter beistehen und die beiden Göttinnen, deren Söhne die Götter sind, die Wahrheitsmehrerinnen. - Wie einen Wagen aus unfahrbarem Wege, so helfet uns aus aller Not heraus, ihr freigebigen Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die hochgerühmten Väter mögen helfen uns, der Götter heil'ge Mütter, Erd' und Himmel auch; Wie einen Wagen führet aus der Enge uns aus aller Noth, o gabenreiche, gute ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да помогут нам отцы, которых приятно восхвалять,  
 А также две богини, чьи сыновья – боги, (эти) две, усиливающие закон.  

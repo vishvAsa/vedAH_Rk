@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ग्ने वह हविर꣡द्याय देवा꣡न्  
 इ꣡न्द्रज्येष्ठास इह꣡ मादयन्ताम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इ॒मम् । य॒ज्ञम् । दि॒वि । दे॒वेषु॑ । धे॒हि॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āgne* ← *ā*
 - \[adverb\]
@@ -128,36 +128,36 @@ genre M;; repeated line
 हे **अग्ने** **हविरद्याय** हविषां भक्षणाय **देवान्** **आ** **वह** । किमर्थमित्यत आह । **इह** अस्मिन् यज्ञे **इन्द्रज्येष्ठासः** इन्द्रप्रमुखा देवाः **मादयन्ताम्** । **इमं** **यज्ञम्** इदं यष्टव्यं हविः **दिवि** स्थितेषु **देवेषु** **धेहि** निधेहि । देवान्वेह नयेदं हविर्वा देवेषु नयेति भावः । अन्तिमः पादो व्याख्यातचरः ॥॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, bring the gods to eat of the oblation; may they, of whom **Indra** is the chief, be delighted on thisoccasion; convey this sacrifice to the deities in heaven, and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, convey the gods hither to consume the oblations. Let those whose  chief is Indra find elation here.  
 Place this sacrifice here in heaven among the gods. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, bring the Gods to taste our presents: with Indra leading, here let them be joyful.  
      Convey this sacrifice to Gods in heaven. Ye Gods, preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Fahre die Götter her zum Opfermahl, mit Indra an der Spitze sollen sie sich hier ergötzen. Bring dieses Opfer zu den Göttern im Himmel! - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Mahle fahr, o Agni, her die Götter, geführt von Indra mögen hier sie schwelgen; Dies Opfer bringe himmelwärts den Göttern. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, привези богов для вкушения жертв!  
 Да опьяняются здесь они с Индрой во главе!  

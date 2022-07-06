@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मिन् वि꣡श्वानि भु꣡वनानि तस्थु꣡स्  
 तिस्रो꣡ द्या꣡वस् त्रे᳐धा꣡ सस्रु꣡र् आ꣡पः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡ध्व श्चोतन्ति अभि꣡तो विरप्श꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D;; repeated line
 त्रयः॑ । कोशा॑सः । उ॒प॒ऽसेच॑नासः । मध्वः॑ । श्चो॒त॒न्ति॒ । अ॒भितः॑ । वि॒ऽर॒प्शम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
@@ -106,42 +106,42 @@ genre D;; repeated line
 **यस्मिन्** पर्जन्ये **विश्वानि** **भुवनानि** सर्वाणि भूतजातानि **तस्थुः** तिष्ठन्ति । यदधीनवृत्तीनि भवन्तीत्यर्थः । यस्मिंश्च **द्यावः** द्युप्रभृतयो लोको अवतिष्ठन्ते । यस्माच्च **आपः** **त्रेधा** **सस्रुः** प्राच्यः प्रतीच्योऽवाच्यश्च सत्यो निर्गच्छन्ति । **उपसेचनासः** उपसेक्तारः **त्रयः** पौरस्त्यः प्रतीच्य उदीच्यश्चेति त्रिप्रकाराः **कोशासः** मेघाः **विरप्शं** महान्तं पर्जन्यम् **अभितः** परितः **मध्वः** । कर्मणि षष्ठी । मधूदकं **श्चोतन्ति** क्षारयन्ति वर्षन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In whom all beings exist; the **three worlds** abide; from whom the waters flow in three directions (east,west, and south); the three water-shedding masses of clouds (east, west, and north) pour the waters round themighty (**Parjanya**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In whom all the creatures abide, (in whom) the three heavens; (in whom)  the waters have flowed in three stages—  
 (his) three buckets for pouring drip an abundance of honey all  
 around.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This extravagant claim of Parjanya’s cosmic centrality -- all creatures, the three heavens, and the waters all take him as their basis -- must derive from his control of the rain, as the second hemistich suggests and 5cd further develops. The vs. is also made up of pādas with either exact (a, d) or near repetitions (b, c) elsewhere in the RV (see Geldner’s nn. 4a, 4c, 4d and for pāda b partial reps. in I.35.6, VII.87.5; VII.90.4, X.111.8), which may account for the generic impression it gives.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In him all living creatures have their being, and the three heavens with triplyflowing waters.  
      Three reservoirs that sprinkle down their treasure shed their sweet streams around him with a murmur.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem alle Welten ruhen, die drei Himmel, von dem dreifach die Gewässer strömen-drei Kufen zum Begießen träufen nach allen Seiten die Überfülle des Süßen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In welchem alle Wesen sind gegründet, drei Himmel, dreifach auch die Wasser rannen, Um ihn den starken fliessen drei der Kufen, die ringsumher von süssem Safte träufeln.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На ком покоятся все существа,  
 Три неба, (из кого) трояко струятся воды:-  

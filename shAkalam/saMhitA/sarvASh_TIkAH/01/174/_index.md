@@ -8,7 +8,7 @@ title = "+174"
 ‘त्वं राजा' इति दशर्चं दशमं सूक्तमागस्त्यमैन्द्रं त्रैष्टुभम् । ‘त्वं राजा दश' इत्यनुक्रान्तम् । पृष्ठ्ये षळहे स्तोमवृद्धौ स्तोमातिशंसनार्थं होत्रकैरेतच्छस्तव्यम् । ‘ऐन्द्राणि त्रैष्टुभान्यमरुच्छब्दान्यावपेरन्’ (आश्व. श्रौ. ७. १२) इति सूत्रम् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 174  
 Indra  
@@ -19,7 +19,7 @@ the Vr̥tra myth and the release of the waters recur throughout the hymn (vss. 2
 Two separate devices structure the hymn. On the one hand, the vocative indra (always to be read trisyllabically) appears in the first pāda of every verse immedi ately after the caesura. On the other hand, there is ring composition: the first and  last (10) verses name Indra as “giver of victorious power” and “protector of men,”  while verse 2 has numerous echoes in verses 7–9.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इ꣡त् सध꣡स्थम् अभि꣡ चा꣡रु दीधय  
 गा꣡वो य꣡च् छा꣡सन् वहतुं꣡ न꣡ धेन꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अभि꣡ वाण꣡स्य सप्त꣡धातुर् इ꣡ज् ज꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मा॒ता । यत् । मन्तुः॑ । यू॒थस्य॑ । पू॒र्व्या । अ॒भि । वा॒णस्य॑ । स॒प्तऽधा॑तुः । इत् । जनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -140,37 +140,37 @@ genre M
 **तदित्** तदेव **सधस्थम्** । सह तिष्ठन्त्यत्रेति सधस्थं स्थानं यज्ञाख्यम् । **चारु** शोभनम् **अभि** **दीधय** हे इन्द्र अभितो दीप्यस्व । **यत्** यत्र **गावः** स्तुतिलक्षणा वाचः इन्द्र आगच्छ हरिव आगच्छ इत्येवमाद्याः **शासन्** अस्मद्यज्ञं प्रति त्वदागमनमाशासते । तत्र दृष्टान्तः । **वहतुं** **न** **धेनवः** । यथा धेनवो नवप्रसूता गावः प्रापणसाधनं गृहमाशासते तद्वत् । यत आगत्य प्रकाशयेत्यत्र कारणमाह । **यत्** यस्मात् **मन्तुः** । मन्यतिरर्चतिकर्मा । अर्चकस्य मम स्वभूता **माता** देवतागुणानां निष्पादयित्री स्तुतिः **यूथस्य** यष्टृस्तोतृगणस्य **पूर्व्या** प्रथमभाविनी खलु। यस्माच्च **सप्तधातुः** । धार्यन्ते क्रियन्त कर्माण्येष्विति धातवश्छन्दांस्यृतवो  वा । सप्तच्छन्दस्कः सप्तर्तुकः सप्तहोत्रात्मको वायं **जनः** **वाणस्य** स्तुतिशब्दस्य **अभि** कर्ता खलु । तस्माच्छीघ्रमागच्छेति भावः । यद्वा । यत्कल्याणं  तदेव स्थानमस्माकमभिधारय प्रयचछ । यस्मिन् स्थाने धेनवः पथप्रदानेन प्रीणयित्र्यो गावो वहतुम् । उह्यते पुरुषोऽनेनेति वहतुरन्नम्। पयोघृताद्यनुशासति । न संप्रत्यर्थे । इदानीं प्रयच्छन्ति । तथा यस्मिन् मन्तुर्मन्तव्या पूजनीया पुत्रसमूहस्य माताभिगच्छति वाणस्य वाद्यस्य सप्तधातुर्निषादादिसप्तस्वरोपेतो जनोऽभिगच्छति तद्वत्तद्गुणोपेतं प्रयच्छेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Shine, **Indra**, upon this elegant chamber of sacrifice when our praises desire (your approach) as kine(desire) their stalls; since the praise of (me) the worshipper precedes (the adoration) of the company, and thisperson accompanied by the seven officiating priests is the offerer of praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just this dear seat do I ponder, to which the milk-cows will direct (their  journey) like a bridal procession,  
 as will the foremost mother of the flock, a wise counselor, and the  
 sevenfold people of the music.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This beauteous place of meeting have I looked upon, where, like milch-cows, the kine order the marriage train;  
      Where the Herd's Mother counts as first and best of all, and round her are the seven-toned people of the choir.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese angenehme Stätte habe ich geschaut, zu welcher die Milchkühe deine Fahrt gleich einer Brautfahrt weisen sollen, und die sorgende früheste Mutter der Herde und das siebenfache Volk der Gesangesstimme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich habe mir recht diesen schönen Sitz beschaut, den die Stiere priesen, wie die Milchkühe die Darbringung (?); als die uralte Mutter die Beratherin der Heerde war, und dazu der siebentheilige Musikchor (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я наблюдал за этим приятным местом,  
 Куда дойные коровы направляют (твой путь), как свадебный поезд,  

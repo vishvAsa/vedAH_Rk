@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ रोदसी बृह꣡द्भिर् नो व꣡रूथैः  
 प꣡त्नीवद्भिर् इष꣡यन्ती सजो꣡षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धिया꣡ सियाम रथि꣡यः सदासाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 उ॒रू॒ची इति॑ । विश्वे॒ इति॑ । य॒ज॒तेे इति॑ । नि । पा॒त॒म् । धि॒या । स्या॒म॒ । र॒थ्यः॑ । स॒दा॒ऽसाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -110,14 +110,14 @@ genre M;; repeated line
 हे **रोदसी** द्यावापृथिव्यौ **नु** क्षिप्रं **पत्नीवद्भिः** पत्नीसहितैः **बृहद्भिः** महद्भिः **वरूथैः** गृहैर्धनैर्वा सह **इषयन्ती** अस्माकमन्नमिच्छन्त्यौ **सजोषाः** परस्परं संगते **उरूची** उर्वञ्चने **विश्वे** व्याप्ते **यजते** यष्टव्ये सत्यौ **नः** अस्मान् **नि** **पातं** नितरां रक्षतम् । धियेत्यादि गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May Heaven and Earth, vast, universal, adorable, united in satisfaction and disposed to give us food, protect us with our spacious dwelings, inhabited by our wives, and may we for our (pious) acts be possessed of chariots and slaves.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, you two World-Halves, with your lofty defenses, nurturing us in  concert with (the gods) accompanied by their wives,  
 protect us, o you of wide extent, who entirely deserve the sacrifice.  
@@ -125,23 +125,23 @@ Through our insightful thought may we be charioteers who
 always win.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Heaven and Earth, with one accord promoting, with high protection as of Queens, our welfare,  
      Far-reaching, universal, holy, guard us. May we, car-borne, through song be victors ever.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun schützet uns, ihr beiden Welten, im Verein mit den hohen Schutzmächten samt ihren Frauen uns labend, die ihr umfangreich und alle beide opferwürdig seid! Wir möchten durch die Dichtung immergewinnende Wagenfahrer sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun schützt, o Welten, uns mit mächt'gen Wehren, vereint mit Göttern und Göttinnen segnend, Ihr weitgedehnten beid' anbetungswürdig, durch Andacht sei'n wir Kämpfer, immer siegend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О две половины вселенной, защитите нас высокими защитами.  
 Единодушные (с богами, сопровождаемыми) женами, подкрепляющие.  

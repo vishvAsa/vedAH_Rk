@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ति चिन् नु꣡ प्रजा꣡यै पशुम꣡त्यै  
 दे꣡वासो · व꣡नते म꣡र्तियो व  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 जरां꣡ चिन् मे नि꣡रृतिर् जग्रसीत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 अत्र॑ । शि॒वाम् । त॒न्वः॑ । धा॒सिम् । अ॒स्याः । ज॒राम् । चि॒त् । मे॒ । निःऽऋ॑तिः । ज॒ग्र॒सी॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iti*
 - \[adverb\]
@@ -146,21 +146,21 @@ genre M
 हे **देवासः** देवाः **वः** युष्मान् **इति** **चित्** इत्थमेव **नु** क्षिप्रं **प्रजायै** **पशुमत्यै** पशुसहितायापत्याय **वनते** भजते **मर्त्यः** मनुष्यो यजमानः । **आ** **देवासः** इति पुनरुक्तिरादरार्था। **अत्र** अस्मिन् यज्ञे **शिवां** **धासिम्** अन्नं **मे** मम **अस्याः** **तन्वः** देवैरनुगृहीतस्य पुत्रस्य करोतु निर्ऋतिः देवता । **जरां** **चित्** जरां च **जग्रसीत** ग्रसतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mortal (sacrificer) worships you, gods, at all times for progeny and cattle; verily, gods, the mortal worships you; may **Nirṛti**, on this occasion, sustain my body with salutary food, and keep off decay.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just these words now, for the sake of offspring along with cattle, the  mortal (seeks to) win you, o gods—the mortal (seeks to) win you  
 here, o gods.  
 Otherwise Dissolution might swallow the secure depository beneficial  to this body, my own old age.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, vss. 16-17, in a different meter from what precedes (and follows), seem to provide a summary of the preceding hymn, esp. 17, with its self-conscious internal quote íti cin nú “in just these (words) now.” See Janert (Dhāsi, pp. 16-17), who argues this position in some detail.
 
@@ -173,23 +173,23 @@ Instead I think de is the expression of his fear that if he fails to win the god
 Although this word often means ‘well-spring’ or ‘source’ (see comm. ad I.62.3, 140.1), in some cases it seems to mean ‘place, depository’ and be associated with (/derived, at least synchronically, from) √dhā. Here the dhāsí- seems to be the nominalization of ní dhāyi in 15 (cf. hitáḥ in X.58.4) — that is, the place in which old age is securely held. I therefore take it as coreferential with jarā́m in e. ### 18-20 If, as suggested above, 16-17 are the finale of the hymn proper, these 3 (or 2 ¼) were tacked on. They certainly lack the complications of the rest of the hymn. The dominance of female figures is striking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus thinking, O ye Gods, the mortal wins you to give him increase of his herds of cattle: the mortal wins him, O ye Gods, your favour.  
      Here he wins wholesome food to feed this body: as for mine old age, Nirrti consume it
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also gewinnt euch, ihr Götter, der Sterbliche zu viehreichem Nachwuchs, gewinnt euch, ihr Götter, der Sterbliche. Gewähret dabei ein erfreuliches Gemächte dieses Leibes! Nirriti möge sogar mein Alter verschlingen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So auch um reichen Nachwuchs unsrer Heerde ruft euch nun an der Sterbliche, o Götter; Nicht möge dieses Leibes liebe Nahrung, noch hier mein Leben Nirriti verschlingen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот так ради потомства, состоящего (также и) из скота,  
 О боги, вас покоряет смертный,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ दि꣡वं वि꣡ आ꣡सरत्  
 तिरो꣡ र꣡जांसि अ꣡स्पृतः  
 प꣡वमानः सुअध्वरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑मानः । सु॒ऽअ॒ध्व॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पवमानः** क्षरन् **एषः** सोमः **स्वध्वरः** सुयज्ञः **अस्पृतः** कैनाप्यहिंसितश्च सन् **रजांसि** लोकान् **तिरः** तिरस्कुर्वन् यज्ञात् **दिवं** प्रति **व्यासरत्** विसरति गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,13 +93,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Astṛtaḥ** replaces aspṛtaḥ in **Sāmaveda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one has now run through heaven, across the airy spaces, and  cannot be recaptured—  
 good at the rite as he purifies himself.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/003/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ Thus, although the nearly identical vss. 7 and 8 might seem evidence that the po
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 While flowing, meet for sacrifice, he hath gone up to heaven across  
      The regions, irresistible.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser hat den Himmel durcheilt, durch die Lüfte eilend ohne losgelassen zu werden, sich läuternd, gutes Opfer wirkend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist's, der durch den Himmel strömt und durch die Lüfte unverwehrt, An Opfern reich der rieselnde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот пролетел по небу  
 Сквозь пространства, непокоренный,  

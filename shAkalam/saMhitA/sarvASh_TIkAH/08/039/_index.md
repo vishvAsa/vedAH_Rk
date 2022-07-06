@@ -8,7 +8,7 @@ title = "+039"
 ‘अग्निमस्तोषि' इति दशर्चं नवमं सूतं काण्वस्य नाभाकस्यार्षम् । षडष्टका महापङ्क्तिश्छन्दः । अग्निर्देवता । अनुक्रान्तं च–' अग्निमस्तोषि नाभाक आग्नेयं महापाङ्क्तं हि ' इति । विनियोगो लैङ्गिकः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 39 (659)  
 Agni  
@@ -21,7 +21,7 @@ The hymn in general has a benign tone and high discourse level, and so the flip 
 The poet handles the six-pāda structure of the mahāpaṅkti flexibly. The last pāda  of each verse is the Nabhāka refrain. Otherwise the first two pādas (ab) and the  fourth and fifth (de) pādas each group together, while the third pāda (c) belongs  sometimes with ab (generally in the first part of the hymn) and sometimes with de  (toward the end, vss. 7–9).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो मदाना᳐म् पत  
 इ꣡न्दो देव꣡प्सरा असि  
 स꣡खेव स꣡ख्ये गातुवि꣡त्तमो भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सखा॑ऽइव । सख्ये॑ । गा॒तु॒वित्ऽत॑मः । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -105,20 +105,20 @@ genre M
 **नः** अस्मदीयानां **मदानां** मदकानां **पते** स्वामिन हे **इन्दो** सोम **सः** त्वं **देवप्सरा** **असि** । प्सर इति रूपनाम । दीप्तरूपो भवसि । स त्वं **सखेव** यथा सखा सुहृत् **सख्ये** मित्राय सत्यं मार्गं ज्ञापयति तद्वदस्माकमपि **गातुवित्तमः** अत्यन्तं मार्गस्य लम्भकः **भव** ज्ञापको भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of our exhilaration, **Indu**, you are of brilliant form; be our true guide as a friend is to a friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drop, lord of exhilarating drinks—you are the one affording delight to  the gods—  
 like a comrade for a comrade, become the best finder of the way for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because of the 2nd ps. reference of vs.-init. sá, which is only appropriate with imperatives, I take devápsarā asi as a parenthentical insertion, with sá to be construed with vs.-final bhava. This has the advantage of allowing naḥ in pāda a, which would have no function in ab, to be construed with gātuvíttamaḥ in c, where it most naturally belongs. See asmábhyam gātuvíttamaḥ in two nearby hymns IX.101.10 and IX.106.6. My interpr. of b is supported by the parallel vs. in the twinned hymn, IX.105.5, which has no intermediate clause and has the same configuration #sá naḥ … / …. bhava# with polarized vs.-init. and vs.-final elements as here.
 
@@ -126,23 +126,23 @@ The Anukr. credits this hymn to Parvata Kāṇva and Nārada Kāṇva or, altern
 
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indu, art the food of Gods, O Sovran of all gladdening drinks:  
      As Friend for friend, be thou best finder of success.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, o Herr der Rauschtränke, o Saft, mundest den Göttern. Sei der beste Pfadfinder wie ein Freund für seinen Freund!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indu, unsrer Tränke Herr, du bist es, der die Götter nährt; Verschaff uns Wohlfahrt bestens, wie der Freund dem Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О господин наших пьянящих напитков,  
 О сок сомы, ты – пиршество богов.  

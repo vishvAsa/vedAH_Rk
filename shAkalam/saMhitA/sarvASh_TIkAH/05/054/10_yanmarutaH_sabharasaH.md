@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡न् मरुतः सभरसः सुवर्णरः  
 सू꣡र्य उ꣡दिते म꣡दथा दिवो नरः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सद्यो꣡ अस्य꣡ अ꣡ध्वनः पार꣡म् अश्नुथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । वः॒ । अश्वाः॑ । श्र॒थ॒य॒न्त॒ । अह॑ । सिस्र॑तः । स॒द्यः । अ॒स्य । अध्व॑नः । पा॒रम् । अ॒श्नु॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yan* ← *yat*
 - \[adverb\]
@@ -122,7 +122,7 @@ genre M
 हे **मरुतः** **सभरसः** सहबलाः **स्वर्णरः** सर्वस्य नेतारो यूयं **यत्** यदा सूर्ये **उदिते** उद्गते मध्याह्ने **मदथ** सोमेन हे **दिवः** द्युलोकस्य **नरः** नेतारः । यदा सोमं पातुमिच्छथेत्यर्थः । तदा **वोऽश्वाः** **सिस्रतः** सरन्तः **न** **अह** **श्रथयन्त** नैव श्लथयन्ति । **सद्यः** तदानीमेव **अस्याध्वनः** देवयजनमार्गस्य **पारमश्नुथ** व्याप्नुथ । यद्वा । यदा सोमेन मदथ तदा त्वदीया अश्वा न शिथिला भवन्ति । यूयं च कृत्स्नस्य लोकत्रयमार्गस्य पारमश्नुथ ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,36 +133,36 @@ genre M
 Leaders of the universe: svarṇaraḥ = sarvasya netāraḥ, leaders of all; divo **naraḥ** = leaders of heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While—you Maruts of equal gravity, you sunlike men, you men of  heaven—you become exhilarated when the sun has risen,  
 your horses certainly never slacken as they run. In a single day you  reach the far limit of this road.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The s-stem adj. sá-bharas- (so accented in X.101.3, though it is an accentless voc. here), tr. here ‘of equal gravity’, is a bahuvrīhi with the lit. sense ‘having the same burden / weight’, with the same -bharas- as in viśvá-bharas- ‘bringing all’, i.e., lit. ‘having/bringing all burdens’ in IV.1.19.
 
 s u varṇaraḥ at the end of pāda a picks up náraḥ at the end of 8a and 10b and asvaran at the end of 8c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, as the Sun hath risen up, ye take delight, O bounteous radiant Maruts, Heroes of the sky,  
      Your coursers weary not when speeding on.their way, and rapidly ye reach the end of this your path.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr gleichgewichtigen Marut, ihr Sonnenmänner, ihr Mannen des Himmels bei Sonnenaufgang ausgelassen seid, so lassen eure Rosse in ihrem Laufe niemals locker. An einem Tage erreichet ihr das Ende dieses Weges.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ihr, o Maruts, gabenreiche Glanzesherrn, bei Sonnenaufgang, Himmelsmänner, euch berauscht, Dann suchen nimmer eure schnellen Rosse Rast, in einem Tag erreicht ihr dieses Weges Ziel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Маруты равновесомые, о мужи солнца,  
 На восходе солнца вы опьяняетесь, о мужи неба,  

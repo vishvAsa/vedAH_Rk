@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡र्हि स्वित् त꣡द् इन्दर+ य꣡ज् जरित्रे꣡  
 विश्व꣡प्सु ब्र꣡ह्म कृण꣡वः शविष्ठ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कदा꣡ गो꣡मघा ह꣡वनानि गछाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 क॒दा । धियः॑ । न । नि॒ऽयुतः॑ । यु॒वा॒से॒ । क॒दा । गोऽम॑घा । हव॑नानि । ग॒च्छाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *karhi*
 - \[adverb\]
@@ -135,43 +135,43 @@ genre M
 अनयापि कतिचित् प्रश्नाः क्रियन्ते । हे **इन्द्र** **कर्हि** **स्वित्** कदा खलु **तत्** भवेत् । हे **शविष्ठ** बलवत्तमेन्द्र त्वं **जरित्रे** स्तोत्रे **विश्वप्सु** बहुविधरूपं **ब्रह्म** अन्नं **कृणवः** करोषीति **यत्** तत्कदा भवेदिति वितर्कः। **कदा** च **धियः** कर्माणि । **न** इति समुच्चये । **नियुतः** स्तुतीश्च **युवासे** आत्मनि योजये: । **कदा** च त्वं **गोमघा** गोमघानि गवां दातॄणि ॥ मंहतेर्दानार्थस्य रूपमुत्तरपदम् ॥ **हवनानि** स्तोत्राणि **गच्छाः** अभिगच्छेः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, most vigorous **Indra**, will you grant your worshipper that food which is all-sufficing? When will you combine (in yourself) worship and praises? When will you render oblations productive of cattle?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just when will it be, Indra, that you will make the sacred formulation  provided with all goods for the singer, o strongest one?  
 When will you team your teams, as (we do our) insights? When will you  go to the calls whose bounty is cattle?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is a reprise of and variation on vs. 1. Like vs. 1, it treats the rewards that accrue to verbal praise, and in fact repeats two of the three types of verbal products found in vs. 1 (bráhma 1a/3b, dhíyaḥ 1d/3c), with stómam (1c) and hávanāni (3d) being the novel terms. bráhma and hávanāni are modified by bahuvrīhis that express the material reward they will obtain (‘all goods’ [viśvápsu] and ‘cattle as bounty’ [gómaghā] respectively). In the c pāda the chariot motif of 1a returns in slightly different form: we “team up” our insights, as Indra does his teams (niyútaḥ) -- the teams that, pulling his chariot (cf., e.g., I.135.4 rátho niyútvān), will bring Indra and his bounty to the sacrifice, where the “teams” of insights will be exchanged for the goods he brings.
 
 On viśvápsu- see comm. ad I.148.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, when wilt thou, O Indra, thou Most Mighty, make the prayer all-sustaining for the singer?  
      When wilt thou yoke, as we yoke songs, thy Horses, and come to offerings that bring wealth in cattle?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wann geschieht das denn, Indra, daß du dem Sänger das erbauliche Wort mit lauter Vieh belohnt machen wirst, du Gewaltigster? Wann wirst du deine Gespanne anspannen wie der Dichter seine Gedanken? Wann wirst du zu den rinderbeschenkten Anrufern kommen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wann wird's geschehn, dass, Indra, du dem Sänger an Nahrung reich, o stärkster, das Gebet machst? Wann schirrst du an wie Rosse dir die Bitten? wann kommst du her zu rinderreichen Opfern?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же (будет) это, о Индра, что воспевателю  
 Ты сделаешь молитву приносящей весь скот, о сильнейший.  

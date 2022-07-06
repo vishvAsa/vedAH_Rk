@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने युक्ष्वा꣡ हि꣡ ये꣡ त꣡व  
 अ꣡श्वासो देव साध꣡वः  
 अ꣡रं व꣡हन्ति मन्य꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अर॑म् । वह॑न्ति । म॒न्यवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **देव** द्योतमान **अग्ने** तानश्वान् **युक्ष्व** आत्मीये रथे योजय। **ये** **तव** त्वदीयाः **साधवः** साधकाः सुशीला वा **अश्वासः** अश्वाः **अरम्** अलं पर्याप्तं **वहन्ति** । किमर्थम् । **मन्यवे** । मन्यते यष्टव्यत्वेन देवानत्रेति मन्युर्यागः । तदर्थं तानश्वान् रथे युक्ष्वेत्यर्थः । **हि** खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,36 +102,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Manyave = yajñaya, manyur yāhaḥ; **Yajus**. 13.36
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 God Agni, yoke (them) then!—those horses of yours that go straight to  their goal,  
 that convey (the gods) in accord with your fervor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hí in the impv. clause is somewhat disturbing, since there is no following impv. in this vs. to which the hí impv. clause could serve as basis.
 
 However, 44a contains two impvs. that logically follow the yukṣvā́‘yoke!’ -- namely yāhi ā́vaha “drive and convey here!” and so the usual use of hí in impv. clauses can be seen here, across two vss.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Harness, O Agni, O thou God, thy steeds which are most excellent:  
      They bear thee as thy spirit wills.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So schirre denn deine trefflichen Rosse an, Gott Agni, die deiner Absicht gemäß fahren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, schirr die Rosse an, die dein sind, Gott, die richtig gehn, Sie fahren deinem Sinn gemäss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, запрягай же своих  
 Коней, о бог, которые мчатся прямо к цели,  

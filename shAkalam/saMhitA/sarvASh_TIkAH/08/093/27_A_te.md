@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते दधामि इन्द्रिय꣡म्  
 उक्था꣡ वि꣡श्वा शतक्रतो  
 स्तोतृ꣡भ्य इन्द्र मॄळय+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्तो॒तृऽभ्यः॑ । इ॒न्द्र॒ । मृ॒ळ॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -83,20 +83,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **शतक्रतो** इन्द्र **ते** तव **इन्द्रियं** वीर्यवन्तं सोमं **विश्वा** **उक्था** सर्वाणि स्तोत्राणि **आ** **दधामि** संपादयामि । हे **इन्द्र** त्वं **स्तोतृभ्यः** **मृळय** सुखय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I prepare, **Śatakratu**, your strong (**Soma**) and all your praises; be gracious, **Indra**, to your hymners.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I establish here your Indrian strength and set out all solemn words for  you, o you of a hundred resolves.  
 Be merciful, Indra, to the praisers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again I read the verb ā́… dadhāmi with both pādas, with slightly different senses with the two different objects and with te read as gen. with pāda a and dat. with pāda b.
 
@@ -110,23 +110,23 @@ The c pādas of all three verses in this tṛca have the same structure: dat. pl
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Satakratu, wondrous strength and all our lauds I bring to thee:  
      Be gracious to thy worshippers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bringe dir Indrakraft, alle Loblieder, du Ratreicher; sei den Sängern barmherzig, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Indra, bring ich Indrakraft, dir alle meine Sprüche dar, Kraftreicher, sei den Sängern hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

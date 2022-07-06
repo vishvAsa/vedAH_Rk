@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ गृणता꣡म् इ꣡द् आ꣡सिथ  
 आपि꣡र् ऊती꣡ शिवः꣡ स꣡खा  
 स꣡ त्वं꣡ न इन्द्र मॄळय+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सः । त्वम् । नः॒ । इ॒न्द्र॒ । मृ॒ळ॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -96,36 +96,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **यः** त्वम् **ऊती** ऊत्या रक्षया **शिवः** सुखकरोऽत एव **सखा** मित्रभूतश्च सन् **गृणतामित्** स्तुवतामस्माकमेव **आपिः** बन्धुः **आसिथ** पुरा बभूविथ **सः** तादृशः **त्वं** **नः** अस्मान् इदानीं **मृळय** सुखय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, who has ever been the friend of those who praise you, and the insurer of their happiness by your protection, grant us felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who were the only friend with help, the kindly comrade of the  singers,  
 have mercy on us, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou who hast been the singers' Friend, a Friend auspicious with thine aid,  
      As such, O Indra, favour us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du mit deiner Gunst der Vertraute, der gute Freund der Sänger geworden bist, sei du uns barmherzig, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der du durch Huld der Sänger Freund und liebender Genosse warst, Sei du, o Indra, gnädig uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты,) кто стал для воспевающих  
 Товарищем, добрым другом, со (своей) поддержкой,  

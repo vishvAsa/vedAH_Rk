@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ विंशत्या꣡ त्रिंश꣡ता याहि अर्वा꣡ङ्  
 आ꣡ चत्वारिंश꣡ता ह꣡रिभिर् युजानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ षष्टिया꣡ सप्तत्या꣡ सोमपे꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । प॒ञ्चा॒शता॑ । सु॒ऽरथे॑भिः । इ॒न्द्र॒ । आ । ष॒ष्ट्या । स॒प्त॒त्या । सो॒म॒ऽपेय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -124,36 +124,36 @@ genre M
 हेइन्द्र सोमपेयम्पातव्यंसोमम्प्रतिअर्वाङस्मदभिमुखः सन् विंशतिसङ्ख्याकैरशैरायाहि त्रिंशतात्रिं- शत्सङ्ख्यकैर्हरिभिरागच्छ चत्वारिंशताचत्वारिंशत्सङ्ख्याकैर्हरिभिर्युजानोयुज्यमानस्त्वंसोमपानम्प्रत्या- याहि सुरथेभिः सुरंहणैः सुगमनैः पञ्चशताहरिभिरायाहि तथाषष्ट्याषष्टिसङ्ख्याकैर्हरिभिः सप्तत्या- एतत्सङ्ख्याकैर्हरिभिः सोमपानम्प्रत्यागच्छ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to our presence, **Indra**, having harnessed your car with twenty, thirty, or forty horses; or with fifty well-trained steeds; or with sixty or with seventy, Indra, to drink the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey here, right nearby, with your twenty and your thirty, yoking up  with your forty fallow bays,  
 with your fifty pulling your good chariot, Indra, with your sixty and  your seventy, to the soma-drinking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, come thou hither having harnessed thy car with twenty, thirty, forty horses.  
      Come thou with fifty well trained coursers, Indra, sixty or seventy, to drink the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm mit zwanzig, mit dreißig hierher, mit vierzig Falben fahrend, mit fünfzig gut eingefahren, o Indra, mit sechzig, mit siebenzig zum Somatrunk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her mit zwanzig, komm mit dreissig Füchsen, mit vierzigen herbei den Wagen schirrend, Mit funfzigen an schönem Wagen, Indra, mit sechzig, siebzig zu dem Somatrunke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай сюда на двадцати, тридцати,  
 На сорока буланых конях, запрягши (их),  

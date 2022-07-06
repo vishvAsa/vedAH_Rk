@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चित्र꣡स् ते भानुः꣡ क्रतुप्रा꣡ अभिष्टिः꣡  
 स꣡न्ति स्पृ꣡धो जरणिप्रा꣡ अ꣡धृष्टाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तू꣡तूर्षति प꣡रि अ꣡ग्रं दुवस्युः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रजि॑ष्ठया । रज्या॑ । प॒श्वः । आ । गोः । तूतू॑र्षति । परि॑ । अग्र॑म् । दु॒व॒स्युः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *citras* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
@@ -126,37 +126,37 @@ genre M
 हे इन्द्र **ते** **भानुः** प्रकाशः **चित्रः** आश्चर्यभूतश्चायनीयो वा । तथा **क्रतुप्राः** स भानुरस्माकं कर्मणां पूरकः **अभिष्टिः** अभ्येषणीयः । हे इन्द्र ते **जरणिप्राः** स्तोतॄणां धनस्य पूरयित्र्यः **अधृष्टाः** अन्यैरप्रधृष्याः **स्पृधः** स्पर्धाः **सन्ति** । यस्मादेवं तस्मात् **रजिष्ठया** ऋजुतमया **रज्या** रज्ज्वा **गोः** **पश्वः** पशोः **अयं** **दुवस्युः** परिचरणमिच्छन्नेतन्नामर्षिः **परि** **तूतूर्षति** अभित्वरयति ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your splendour, **Indra**, is wonderful, fulfilling our pious acts, desirable; your efforts replenishing thewealth of your worshippers are irresistible; (therefore) Duvasyu hastens in front of the victim cow, (leading it) witha straight cord.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bright is your radiance—your superiority brings your conception to  fulfillment. (But still) there exist unassailable opponents who bring  
 their own old age to fulfillment.  
 The one offering friendship seeks to rush in the straightest line to round  up the foremost of bovine stock.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wondrous thy spirit-filling light, triumpliant; thy hosts save from decay and are resistless.  
      The pious votary by straightest pathway speeds to possess the best of all the cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgezeichnet ist dein Glanz, die Gedanken erfüllend deine Überlegenheit. Es sind Nebenbuhler da, die unangefochten das volle Alter erreichen. In geradester Linie bestrebt sich der Huldiger, die Spitze der Rinderherde zu überholen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hell ist dein Glanz und Kraft verleihend dein Beistand; ohnmächtig sind die muthlosen Feinde; in geradester Richtung dringt der verehrende hindurch zum besten Besitze der Rinderheerden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

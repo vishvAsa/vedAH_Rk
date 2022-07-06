@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ श꣡र्धाय मरु꣡ताम् ऋता꣡य  
 कथा꣡ सूरे꣡ बृहते꣡ पृछ्य꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सा꣡धा दिवो꣡ जातवेदश् चिकित्वा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्रति॑ । ब्र॒वः॒ । अदि॑तये । तु॒राय॑ । साध॑ । दि॒वः । जा॒त॒ऽवे॒दः॒ । चि॒कि॒त्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -107,20 +107,20 @@ genre M
 हे अग्ने **ऋताय** गन्त्रे सत्यभूताय वा **मरुतां** **शर्धाय** बलभूताय गणाय **कथा** केन हेतुना मदीयमागः प्रतिब्रूयाः । तेन **पृच्छ्यमानः** सन् तस्मै **बृहते** महते **सूरे** सूर्याय **कथा** कथं वदेः । तथा **अदितये** देव्यै **तुराय** त्वरितगमनाय वायवे च। अदितयेऽदीनाय तुराय वा । **प्रति** **ब्रवः** । मदीयमागः कथं प्रतिब्रूयाः । यस्मादेवं तस्मात् हे जातवेदः अग्ने **चिकित्वान्** एतत्सर्वं जानानस्त्वं **दिवः** दीप्तान् देवान् **साध** साधय गच्छ । यद्वा । दिवो द्युलोकस्य यज्ञवहनलक्षणं कार्यं साध कुरु॥ सूरे । सर्वविधीनां छन्दसि विकल्पितत्वात् ङेर्यत्वाभावः ।  ‘ अतो गुणे ' इति पररूपत्वम् । पृच्छ्यमानः । ' प्रच्छ ज्ञीप्सायाम् । कर्मणि यक् । ग्रहिज्यादिना संप्रसारणम् । शानचो लसार्वधातुकानुदात्तत्वे यक्स्वरः । साध। ‘राध साध संसिद्धौ ' । अन्तर्भावितण्यर्थस्य लोटि व्यत्ययेन शप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Why tell it to the veracious company of the **Maruts**? why, even when asked, to the mighty sun? why repeat it to **Aditi**, or to the swift wind? fulfil, all-knowing **Jātavedas**, (the worship) of heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How (will you speak) to the troop of Maruts, for truth? How to the  lofty Sun? When you are asked,  
 (how) will you answer to Aditi, to powerful (Indra?)? Send (our  thought) to its goal, all the way to heaven—(you are) the observant  one, o Jātavedas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although it is tempting to take ṛtā́ya as an adj. modifying śárdhāya (so, e.g., Geldner “der rechtwandelnden Schar,” sim. Witzel Gotō, Oldenberg SBE), the stem ṛtá- is overwhelmingly a neut. noun. It is possible, with Renou, to take it as an appositive with the Marut troop: “Ordre (incarné)” or, with Lüders (623), as a separate entity to whom Agni’s speech is directed, but I think it more likely that it is a dative of purpose, like (ya)kṣé in 6d, havirdé in 7b: “for truth,” that is, for the Maruts to attain or ascertain the truth.
 
@@ -144,28 +144,28 @@ Although we might have expected the Sun here, because he serves as the Ādityas�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What wilt thou tell the truthful band of Maruts, how answer the great Sun when thou art questioned?  
      Before the Free, before the Swift, defend us: fulfil heaven's work, all-knowing Jatavedas.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 How wilt thou answer, when thou art asked, to the righteous 1 host of the Maruts? How to the mighty Sun, to the quick Aditi 2? Accomplish thy work, O Gâtavedas, thou who knowest the Heaven!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie wirst du der rechtwandelnden Schar der Marut, wie dem hohen Sonnengott antworten, wenn du gefragt wirst, wie der Aditi, dem mächtigen Himmel? Richte deine Sache gut aus, der du den Himmel kennst, o Jatavedas!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie gibst der heil'gen Marutschar du Antwort, wenn du gefragt wirst? wie der hohen Sonne? Dem kräftigen und schrankenlosen Gotte? zum Himmel schreite weiser Wesenkenner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как (ответишь ты) толпе Марутов, закону?  
 Как высокому солнцу, когда тебя спросят?  

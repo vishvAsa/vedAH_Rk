@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समुद्र꣡म् आसाम् अ꣡व तस्थे अग्रिमा꣡  
 न꣡ रिष्यति स꣡वनं य꣡स्मिन् आ꣡यता  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡त्रा मति꣡र् विद्य꣡ते पूतब꣡न्धनी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अत्र॑ । न । हार्दि॑ । क्र॒व॒णस्य॑ । रे॒ज॒ते॒ । यत्र॑ । म॒तिः । वि॒द्यते॑ । पू॒त॒ऽबन्ध॑नी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
@@ -125,21 +125,21 @@ genre M
 इयमपि सौरी । **आसां** स्तुतीनां **समुद्रं** समुद्रवत्पर्यवसानभूतं सूर्यम् **अग्रिमा** अत्यन्तं श्रेष्ठा अस्मदीया स्तुतिः **अव** **तस्थे** अवगच्छति । यद्वा आसां प्रजानामृत्विजां स्तुतिरिति संबन्धः । **सवनम्**। सूयते सोमोऽत्रेति सवनं यज्ञगृहम् । **न** **रिष्यति** न हिंस्यते । किंतु प्रवर्धते इत्यर्थः । **यस्मिनायता** विस्तीर्णानि स्तोत्राणि तत्सवनमिति । **अत्र** अस्मिन् यजमानगृहे **क्रवणस्य** स्तुतिकर्तुः **हार्दि** हृदयसंबन्धि हृदयगतं काम्यं फलं **न** **रेजते** न विचलति । न मृषा भवति । **यत्र** यस्मिन् स्तोतृगृहे **मतिः** स्तुतिः **पूतबन्धनी** पूतं सूर्यम् अनुबध्नती **विद्यते** अत्र न रेजत इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The chief of these (our praises) proceed to the ocean-like sun; that chamber of sacrifice fails not in which (his praises) are prolonged; there are heart's desire of the worshiper is not disappointed where the mind is known to be attached to the pure (sun).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The foremost of these (females) has stepped down into the ocean (of  soma). The pressing is not harmed into which she is guided.  
 Here the heart of the working poet [?] does not tremble, where the  
 thought is found that is his bond to the purified (soma/fire).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my interpr., the first half of this vs. depicts the offering of ritual oblations, while the second one connects the poet, whom we first met in the previous vs., with this ritual activity.
 
@@ -154,23 +154,23 @@ As with the hapax yatúna- in 8a beside ketúnā, one of the contributors to the
 First, if kriví- in 4d and kravaṇá- here are both deformations of kaví-, which itself appears in 7b, we have a little ring of references to the poet in the midsection of this hymn. More important, reference to a poet in 9c fits well with the subordinate clause in 9d. Just at the time when oblation is made and the soma is prepared (9ab), the poet who is not intimidated (“his heart does not tremble”) finds the poetic expression (matí-) that connects him to the purified ritual substances soma and fire. (Though pūtá- almost always refers to soma and never to fire directly, other forms derived from the root √pū, like pāvaká-, are standard qualifiers of Agni.) If I am correct that vs. 8 depicts an apprentice or neophyte poet embarking on his journey to poetic mastery, then 9cd shows him achieving his first success at a climactic moment in the sacrifice, which provides inspiration to his undaunted heart.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The chief and best of these abideth in the sea, nor doth libation fail wherein it is prolonged.  
      The heart of him who praiseth trembleth not in fear there where the hymn is found connected with the pure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihre Anführerin kam hinab zum Meere; nicht mißlingt die Somapressung, zu der sie sich hingezogen fühlt. Da zittert nicht das Herz des Kravana, wo die Dichtung sich befindet, die mit dem geläuterten Soma verbunden ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Meer [Soma] herab ging von diesen [Milchströmen] der erste; nicht leidet die Saftspende Schaden, zu welcher dieser hingegangen" ist; da schwankt nicht das Herz des erschreckten [Sängers nach Säy.], wo der am Reinen hangende Sinn gefunden wird.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Первая из них погружается в океан.  
 Не бывает неудачным выжимание сомы (у того), к кому прибилась она.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सद्योजु꣡वस् ते वा꣡जा  
 अस्म꣡भ्यं विश्व꣡श्चन्द्राः  
 व꣡शैश् च मक्षू꣡ जरन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 वशैः॑ । च॒ । म॒क्षु । ज॒र॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sadyojuvas* ← *sadyas*
 - \[adverb\]
@@ -85,20 +85,20 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे इन्द्र **ते** तव **वाजाः** **अस्मभ्यं** **सद्योजुवः** शीघ्रं गन्तारो भवन्तु । कीदृशास्ते । **विश्वचन्द्राः** सर्वहिरण्योपेता बहूनामाह्लादका वा । अस्मदीयाश्च जनाः **वशैः** कामैरनेकैर्युक्ताः **मक्षु** शीघ्रं **जरन्ते** स्तुवन्ति ॥ ॥ ३८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your all-rejoicing riches speedily come to us; full of desires, men immediately offer their praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your all-glittering prizes come speeding in an instant to us.  
 They awaken at our will and right away.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner, Mayr (PN), followed by Klein (DGRV I.104) and Scarlatta (175), take váśaiḥ as a PN (“by the Vaśas”). This is possible but not necessary; as Geldner (n.) reports, Sāyaṇa takes it in its usual sense, as I do.
 
@@ -107,23 +107,23 @@ The verb jarante is taken by Gotō (150) to ‘awaken’, an interpretation I fo
 I take ca in c as inverse “X ca Y” connecting the two adverbials; Geldner, Klein as connecting the two clauses, ab and c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, thy swiftly-coming spoil, the booty which rejoices all,  
      Sounds quick in concert with our hopes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine allschimmernden Belohnungen beeilen sich alsbald für uns, und werden von den Vasa´s in aller Frühe wachgesungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Deine reichgeschmückten Gaben kommen zu uns her in Eile, Durch Gebete nahen schnell sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

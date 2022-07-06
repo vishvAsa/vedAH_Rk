@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ वात पिता꣡सि न  
 उत꣡ भ्रा꣡तोत꣡ नः स꣡खा  
 स꣡ नो जीवा꣡तवे कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 सः । नः॒ । जी॒वात॑वे । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -107,31 +107,31 @@ popular
 **उत** अपि च हे **वात** त्वं **नः** अस्माकं **पिता** **असि** उत्पादको भवसि । **उत** अपि च **भ्राता** भवसि । **उत** अपि च **नः** अस्माकं **सखा** समानख्यानो मित्रभूतश्च भवसि । **सः** त्वं **नः** अस्मान् **जीवातवे** जीवनहेतवे यागाय **कृधि** कुरु ॥ करोतेश्छान्दसो विकरणस्य लुक् ।  ‘ श्रुशृणुपॄकृवृभ्यः” इति हेर्धिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Vāta**, are both our father and our brother and our friend; cause us to live.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Wind, you are father to us, and brother, and comrade to us.  
 Make us live.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art our Father, Vata, yea, thou art a Brother and a friend,  
      So give us strength that we may live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Wind, bist unser Vater und Bruder und unser Freund. Laß du uns leben!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О ветер, ты и отец наш,  
 И брат, и друг наш.  

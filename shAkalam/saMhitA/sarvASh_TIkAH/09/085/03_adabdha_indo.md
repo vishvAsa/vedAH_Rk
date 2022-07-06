@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दब्ध इन्दो पवसे मदि꣡न्तम  
 आत्मे꣡न्द्रस्य भवसि धासि꣡र् उत्तमः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 रा꣡जानम् अस्य꣡ भु꣡वनस्य निंसते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒भि । स्व॒र॒न्ति॒ । ब॒हवः॑ । म॒नी॒षिणः॑ । राजा॑नम् । अ॒स्य । भुव॑नस्य । निं॒स॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adabdha* ← *adabdhaḥ* ← *adabdha*
 - \[noun\], nominative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 हे **इन्दो** क्लिद्यमान सोम **अदब्धः** अहिंसितः **मदिन्तमः** मादयितृतमस्त्वं **पवसे** पूयसे । **आत्मा** स्वयमेव **उत्तमः** त्वम् **इन्द्रस्य** **धासिः** अन्नं **भवसि** । **अस्य** **भुवनस्य** **राजानं** सोमं **बहवो** **मनीषिणः** स्तोतारः **अभि** स्वरन्ति अभिष्टुवन्ति । **निंसते** गच्छन्ति च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 The best support: food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Undeceivable, you purify yourself as most exhilarating, o drop; you  become the very self of Indra, the highest wellspring.  
 Many men of inspired thought cry out to him; they seek out the king of  this creation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The blending of identities in 2cd is made explicit in pāda b here, where Soma is called “the very self of Indra” (ātméndrasya).
 
@@ -144,23 +144,23 @@ On the meaning of the secondary root √niṃs see comm. ad VIII.43.10. There I 
 is made the more likely because “kissing” Soma in the ritual can well indicate consuming soma by mouth, that is, drinking it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unharmed, best Cheerer, thou, O Indu, flowest on: thou, even thou thyself, art Indra's noblest food.  
      Full many a wise man lifts to thee the song of praise, and hails thee with a kiss as Sovran of this world.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unbeirrt läuterst du dich, o Saft, als der Berauschendste. Du bist Indra´s Leben, seine höchste Labung. Viele Nachsinnende stimmen in den Gesang ein; sie berühren den König dieser Welt mit dem Munde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du rieselst lauter, Indu, o berauschendster, des Indra Hauch und beste Labung bist du ja; Dir stimmen viele Sänger ihre Lieder an, begrüssen freudig dich als König dieser Welt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О сок безобманный, ты очищаешься как самый пьянящий.  
 Ты сила жизни Индры, высший источник.  

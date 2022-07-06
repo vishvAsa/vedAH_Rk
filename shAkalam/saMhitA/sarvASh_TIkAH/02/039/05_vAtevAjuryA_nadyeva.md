@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡तेवाजुर्या꣡ नदि꣡येव रीति꣡र्  
 अक्षी꣡ इव च꣡क्षुषा꣡ यातम् अर्वा꣡क्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पा꣡देव नो नयतं व꣡स्यो अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 हस्तौ॑ऽइव । त॒न्वे॑ । शम्ऽभ॑विष्ठा । पादा॑ऽइव । नः॒ । न॒य॒त॒म् । वस्यः॑ । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vātevājuryā* ← *vātā* ← *vāta*
 - \[noun\], nominative, dual, masculine
@@ -129,36 +129,36 @@ genre D
 हे अश्विनौ वातेव वाताविव अजुर्या जरितुमशक्यौ नद्येव नद्याविव रीतिः व्यत्ययेनैक वचनं शीघ्रङ्गन्तारौयुवां अक्षीइव अक्षिणी इव चक्षुषादर्शनेन अर्वागस्मदभिमुखं आयातमाग च्छतं किञ्च हस्ताविव हस्तौइव पादेवपादाविव तन्वेशरीराय शम्भविष्ठा सुखस्यभावयितृतमौ युवान्नोस्मान् वस्यः वसीयः श्रेष्ठन्धनं अच्छप्रतिनयतं प्रापयतम् ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Irresistible as two winds, rapid as two rivers; and quick of sight, come like two eyes before us; like two **hands**; like two feet; subservient to the well-being of our bodies, conduct us to (the acquisition) of excellent (wealth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never growing old like winds, (forming a single) current like rivers,  (endowed) with sight like eyes, journey here this way.  
 Becoming the best blessing for the body like hands, like feet, lead us  toward the better thing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like two winds ageing not, two confluent rivers, come with quick vision like two eyes before us.  
      Come like two hands most helpful to the body, and guide us like two feet to what is precious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie der Wind nie altersschwach, rasch wie die Flußströmung, wie die Augen mit dem Blick, kommet herwärts! Wie die Hände für den Leib am dienlichsten, wie die Füße führet uns zum Glück!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie zwei Winde nicht alternd, wie zwei Flüsse im Strömen {nü oder rlti als Instr. zu lesen], wie zwei Augen im Sehen [cäksusä ist Instr.] kommt herbei, wie zwei Hände, dem Leibe das Beste wirkend, wie zwei Füsse führet uns zu schönerem Gute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как ветер неослабевающий, как речное течение,  
 Как два глаза с (их) взглядом, приезжайте в нашу сторону!  

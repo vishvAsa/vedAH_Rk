@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने मरु꣡द्भिः शुभ꣡यद्भिर् ऋ꣡क्वभिः  
 सो꣡मम् पिब मन्दसानो꣡ गणश्रि꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वइ꣡श्वानर प्रदि꣡वा केतु꣡ना सजूः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पा॒व॒केभिः॑ । वि॒श्व॒म्ऽइ॒न्वेभिः॑ । आ॒युऽभिः॑ । वैश्वा॑नर । प्र॒ऽदिवा॑ । के॒तुना॑ । स॒ऽजूः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -99,41 +99,41 @@ genre M
 हे **अग्ने** **मरुद्भिः** सह **मन्दसानः** सन् **सोमं** **पिब** । कीदृशैः मरुद्भिः। **शुभयद्भिः** शोभमानैरन्यान् शोभयद्भिर्वा **ऋक्वभिः** स्तुत्यैः **गणश्रिभिः** गणभावमाश्रयद्भिः **पावकेभिः** शोधकैः **विश्वमिन्वेभिः** विश्वं वृष्ट्या प्रणयद्भिः **आयुभिः** आयुष्मद्भिः। हे **वैश्वानर** विश्वनरहिताग्ने **प्रदिवा** पुराणेन **केतुना** ज्वालापुञ्जेन **सजूः** सहितः ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, drink the **Soma**-juice, rejoicing, along with the **Maruts**, resplendent, adorable, associated in troops, purifying all, animating and long-lived; drink, **Vaiśvānara**, who are identified with the ancient emblem (of flame).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, with the Maruts, the versifiers in their beauty, drink the soma,  you exulting along with those who are splendor in a flock,  
 along with the pure Āyus who set all in motion, o Vaiśvānara, along with  your age-old beacon.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation takes āyúbhiḥ in c as a PN (as often), thus identifying a separate group of co-soma-drinkers. The standard tr. take the instr. phrase in c as a further characterization of the Maruts, with āyú- as ‘langlebig’ (Geldner, Witzel Gotō), ‘vigilants’ (Renou). I now think this is the better course and would emend the tr. to “along with the pure, lively ones who set all in motion.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, with the Maruts as they gleam and sing, gathered in troop, rejoicing drink the Soma juice;  
      With these the living ones who cleanse and further all, joined with thy banner, O Vaisvanara, from of old.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Trink lustig Soma mit den prunkenden lobsingenden Marut, der auserlesenen Schar, mit den läuternden, allbewegenden, langlebigen, o Vaisvanara, im Verein mit deinem langdauernden Lichtschein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Trink Soma, Agni, freudig mit den leuchtenden, den jubelnden, den Maruts, die in Scharen gehn, Den flammenden, den all erfreunden, emsigen, o Männerhort, vereint mit Licht von Alters her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, вместе с блистающими Марутами, поющими гимны,  
 Прекрасными в (своей) толпе, пей сому, радуясь,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ह꣡म् मघो꣡नो वरुण प्रिय꣡स्य  
 भूरिदा꣡व्न आ꣡ विदं शू꣡नम् आपेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृह꣡द् वदेम विद꣡थे सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 मा । रा॒यः । रा॒ज॒न् । सु॒ऽयमा॑त् । अव॑ । स्था॒म् । बृ॒हत् । व॒दे॒म॒ । वि॒दथे॑ । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *māham* ← *mā*
 - \[adverb\]
@@ -139,36 +139,36 @@ genre M;; repeated line
 व्याख्यातेयम् ॥ ७ ॥ऋतन्देवायेत्येकादशर्चमष्टमंसूक्तम् गार्त्समदं अन्त्यजगती शिष्टास्त्रिष्टुभः प्रहिक्रतुमित्येषाइन्द्रा- सोमदेवताका सरस्वतित्वम् स्मानित्यर्धर्चःसारस्वतः योनःसनुत्यइत्येषाबार्हस्पत्या अन्त्यामारुती शिष्टाऎन्द्र्यः तथाचानुक्रान्तम्—ऋतमेकादशजगत्यन्तंषष्ठ्यैन्द्रासोमीसरस्वति त्वमितिसारस्वतो- र्धर्चोयोनोवार्हस्पत्यातंवोमारुतीति गतोविनियोगः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May I never (have to) represent, **Varuṇa**, the destitution of a (once) opulent, dear, and munificent kinsman; may I never, royal (Varuṇa), be devoid of well-regulated riches, and may we, blessed with excellent descendants, worthily glorify you at this sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let me not find the lack of a dear benefactor, of a friend with many gifts,  o Varuṇa.  
 Let me not stand down from wealth easy to control, o king. – May we  speak loftily at the ritual distribution, in possession of good heroes.444 II.30
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May I not live, O Varuna, to witness my wealthy, liberal, dear friend's destitution.  
      King, may I never lack well-ordered riches. Loud may we speak, with heroes, in assembly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht möchte ich, o Varuna, eines lieben Gönners, eines freigebigen Freundes entraten, noch möchte ich des leicht zu regierenden Besitztums ermangeln, o König. - Wir möchten das große Wort führen als Meister in der weisen Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht lass es mir an mächt'gen Freunden mangeln, o Varuna, an lieben, gabenreichen; Noch schwinden mein geordnet Gut, o König, lass laut im Chore bei dem Fest uns singen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не хотел бы я, о Варуна, испытывать недостаток  
 В милом, щедром дарителе, в друге, много дающем!  

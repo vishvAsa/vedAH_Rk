@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ष꣡ळ् अ꣡श्वाँ आतिथिग्व꣡  
 इन्द्रऊते꣡ वधू꣡मतः  
 स꣡चा पूत꣡क्रतौ सनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सचा॑ । पू॒तऽक्र॑तौ । स॒न॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṣaﾱ* ← *ṣaṣ*
 - \[noun\], accusative, singular, neuter
@@ -68,7 +68,7 @@ genre M
 **आतिथिग्व** **इन्द्रोते** **पूतक्रतौ** शुद्धप्रज्ञे शुद्धकर्मोपेते वा तस्मिन् **वधूमतः** वधूभिर्वडवाभिस्तद्वतः **षडश्वान्** **सचा** ऋक्षाश्वमेधयोः पुत्राभ्यां दत्तेनाश्वादिधनेन सचा सह **सनं** लब्धवानस्मि । एतत्साहित्यवचनमिन्द्रोतदानस्य प्रासङ्गिकत्वे लिङ्गम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -79,13 +79,13 @@ genre M
 Together: sacā: i.e. together with the gifts of **Ṛkṣa** and **Aśvamedha**; Indrota's gift is incidental andno part of the original sacrifice. The implied meanings could be: trees and horses used in the **yajña**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I gained six (horses), along with brides [?], from the son of Atithigva,  from Indrota,  
 along with Pūtakratu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vadhúmant- means literally ‘having women, brides’, but Geldner raises the question whether in this context it really refers to mares. I think this unlikely.
 
@@ -106,23 +106,23 @@ I have made no effort to sort out the internal relationships among the patrons
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indrota, Atithigva's son, gave me six horses matched with mares  
      And Patakratu gave besides.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sechs Hengste samt Frauen empfing ich zusammen von Atithigva Indrota, von Putakratu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sechs Rosse nebst zugehörigem Geschirr empfing ich von Indrota, dem Nachkommen des Atithigva, und zugleich von Putakratu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

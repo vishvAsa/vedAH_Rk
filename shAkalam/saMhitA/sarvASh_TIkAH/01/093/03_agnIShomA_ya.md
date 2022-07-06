@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्नीषोमा य꣡ आ꣡हुतिं  
 यो꣡ वां दा꣡शाद् धवि꣡ष्कृतिम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡श्वम् आ꣡युर् वि꣡ अश्नवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (424)
 सः । प्र॒ऽजया॑ । सु॒ऽवीर्य॑म् । विश्व॑म् । आयुः॑ । वि । अ॒श्न॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnīṣomā* ← *agnīṣoma*
 - \[noun\], vocative, dual, masculine
@@ -106,41 +106,41 @@ genre D;; epic anuṣṭubh (424)
 हे अग्नीषोमौ **यः** यजमानः **आहुतिम्** आज्याहुतिं **वां** युवाभ्यां दाशात् दद्यात् । अथवा **हविष्कृतिं** हविषा चरुपुरोडाशादिना कृताम् आहुतिं **यः** यजमानो दद्यात् । **सः** यजमानः **प्रजया** पुत्रपौत्रादिना युक्तं **सुवीर्यं** शोभनवीर्ययुक्तं **विश्व** सर्वम् **आयुः** जीवनं **व्यश्नवत्** व्याप्नोतु ॥ आहुतिम् । जुहोतेः क्तिनि ' तादौ च° ' इति गतेः प्रकृतिस्वरत्वम् । दाशात् ।' दाशृ दाने '। लेटि आडागमः ॥ यद्वृत्तयोगादनिघातः । हविष्कृतिम् । हविषः कृतिः करणं यस्यामाहुतौ । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ।  नित्यं समासेऽनुत्तरपदस्थस्य ' इति विसर्जनीयस्य षत्वम् । अश्नवत् । अश्नोतेर्व्यत्ययेन परस्मैपदम् । लेटि अडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** and **Soma**, may he who offers you the oblation of clarified butter, enjoy sound strength, with progeny, through all his life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni and Soma, whoever will piously perform a poured offering or the  preparation of an oblation for you,  
 he along with his offspring will attain to an abundance of heroes and a  complete lifespan.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A choppy series of clauses, five in the first three pādas, with only the last dependent in any way on another.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The man who offers holy oil and burnt oblations unto you,  
      Agni and Soma, shall enjoy great strength, with offspring, all his life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni und Soma! Wer euch eine Spende, wer euch eine Opferveranstaltung weiht, der soll mit seinen Nachkommen die Meisterschaft und das volle Lebensalter erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni-Soma, wer mit Trank und Butterspende euch verehrt, Der mög' durch Kinder Heldenschar erreichen und des Lebens Ziel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни и Сома, кто – возлияние,  
 Кто вам жертвенное действие посвящает,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् अर्यमा꣡ भवसि य꣡त् कनी꣡नां  
 ना꣡म स्वधावन् गु꣡हियम् बिभर्षि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् द꣡म्पती स꣡मनसा कृणो꣡षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒ञ्जन्ति॑ । मि॒त्रम् । सुऽधि॑तम् । न । गोभिः॑ । यत् । दम्प॑ती॒ इति॒ दम्ऽप॑ती । सऽम॑नसा । कृ॒णोषि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -124,7 +124,7 @@ genre M
 हे अग्ने **त्वमर्यमा** **भवसि** । सर्वेषां नियमितासि । **यत्** यदा **कनीनां** कन्यकानां संबन्ध्यसि । किंच हे **स्वधावन्** हविर्लक्षणान्नवन् **गुह्यं** गोपनीयं नाम **बिभर्षि** वैश्वानर इति तन्नाम । **सुधितं** सुष्ठु निहितं **मित्रं** न मित्रमिव त्वां **गोभिः** । विकारे प्रकृतिशब्दः । गोविकारैः क्षीरादिभिः **अञ्जन्ति** । **यत्** यस्मात् **दम्पती** जायापती **समनसा** समानमनस्कौ **कृणोषि** करोषि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,35 +135,35 @@ genre M
 You are Aryaman in relation to maidens: tvam **aryamā** yat kanīnām: as regulator of the ceremony the nuptial fire may be regarded as Aryaman; a mysterious name: that of **Vaiśvānara**, the friend of all, **viśva**, men, **nara**; with milk and butter: añjanti mitram sudhitam na **gobhiḥ**: gobbhiḥ: liṭ, with cows, used by metonymy for the products of the cow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You become Aryaman when you belong to young girls (at marriage). You  bear a secret name, o you of independent will. They anoint (you as) Mitra with cows [=milk/butter], like a  
 well-established (ally), when you make the lord and lady of the  
 household to be of one mind.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aryaman art thou as regardeth maidens mysterious, is thy name, O Self-sustainer.  
      As a kind friend with streams of milk they balm thee what time thou makcst wife and lord one-minded.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou becomest Aryaman when thou bearest 1 the secret name of the maidens, O self-dependent one. They anoint (thee) with cows 2 like the well-established Mitra 3, when thou makest husband and wife one-minded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist Aryaman, wenn du der Vertraute der Mädchen bist, du führst diesen Geheimnamen, du Selbstherrlicher. Wie Mitra ein Freund wohlaufgenommen, salben sie dich mit Kuhschmalz, da du die beiden Ehegatten einig machst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bist Arjaman beim Werben um die Jungfrau'n; verborgnes Wesen trägst du Machtbegabter; Als lieben Hausfreund salbt man dich mit Butter, wenn du versöhnst die beiden Hausgebieter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты бываешь Арьяманом, когда (связан) с девицами.  
 Ты носишь тайное имя, о следующий своему обычаю.  

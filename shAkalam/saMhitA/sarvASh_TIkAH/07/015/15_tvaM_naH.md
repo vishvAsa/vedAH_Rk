@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नः पाहि अं꣡हसो  
 दो꣡षावस्तर् अघायतः꣡  
 दि꣡वा न꣡क्तम् अदाभिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दिवा॑ । नक्त॑म् । अ॒दा॒भ्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -73,36 +73,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अदाभ्य** अहिंस्य **दोषावस्तः** रात्रेराच्छादयितः । तमसो वारयितरित्यर्थः । अग्ने **त्वं** **नः** अस्मान् **अंहसः** पापात् **अघायतः** पापमिच्छतः शत्रोश्च **दिवा** **नक्तम्** अहनि रात्रौ च सर्वदा **पाहि** रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Uninjurable **Agni**, dispeller of darkness, preserve us night and day from sin, and from the malevolent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Guard us from difficult straits and from him wishing evil, o you  dawning in the evening,  
 by day and at night, o undeceivable one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou preserve us, eve and morn, from sorrow, from the wicked men,  
      Infallible! by day and night.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütze du uns vor Not, du Dunkelerheller, vor dem Übelwollenden Tag und Nacht, du Untrügbarer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schütze Abends, Morgens uns vor Andrang jedes Bösewichts, Bei Tag und Nacht, untrüglicher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты нас охраняй от нужды,  
 О (бог,) озаряющий ночи, от злоумышленника,  

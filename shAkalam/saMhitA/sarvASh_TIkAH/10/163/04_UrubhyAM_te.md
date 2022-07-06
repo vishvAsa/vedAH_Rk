@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊरु꣡भ्यां ते अष्ठीव꣡द्भ्याम्  
 पा꣡र्ष्णिभ्याम् प्र꣡पदाभियाम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 भं꣡ससो वि꣡ वृहामि ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 यक्ष्म॑म् । श्रोणि॑ऽभ्याम् । भास॑दात् । भंस॑सः । वि । वृ॒हा॒मि॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrubhyāṃ* ← *ūrubhyām* ← *ūru*
 - \[noun\], ablative, dual, masculine
@@ -88,35 +88,35 @@ popular;; epic anuṣṭubh (292)
 हे रुग्ण **ते** तव **ऊरुभ्याम्** **अष्ठीवद्भ्यां** जानुभ्यां च **यक्ष्मं** **वि** **वृहामि** । तथा **पार्ष्णिभ्यां** पादस्यापरभागाभ्यां **प्रपदाभ्यां** पादाग्राभ्यां च यक्ष्मं वि वृहामि । अपि च **श्रोणिभ्यां** जघनाभ्यां च यक्ष्मं वि वृहामि । तथा **भासदात्** । भसत् कटिप्रदेशः । तत्संबन्धात् **भससः** भासमानात् पायोः **ते** तव यक्ष्मं वि वृहामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I banish disease from your thighs, from your knees, from your heels, from your toes, from your loins,from your buttocks, from your private parts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From your thighs, your knee-sockets, your heels, the front of your feet, I tear out the disease—from your hips, your backside, your buttocks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From thighs, from knee-caps, and from heels, and from the forepart of the feet,  
      From hips from stomach, and from groin I drive thy malady away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von deinen Schenkeln, von den Kniescheiben, von den Fersen, von den Fußspitzen, von den Hüften, vom Hintern, von der Scham zieh ich dir die Auszehrung ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus deinen Schenkeln, den Kniescheiben, den Fersen, den Fussspitzen, aus den Hüften, den Hinterbacken, dem After treibe ich dir die Krankheit fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из ляжек, из твоих коленных чашечек,  
 Из пяток, из носков,  

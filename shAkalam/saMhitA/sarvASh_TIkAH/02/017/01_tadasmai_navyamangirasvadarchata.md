@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् अस्मै न꣡व्यम् अङ्गिरस्व꣡द् अर्चत  
 शु꣡ष्मा य꣡द् अस्य प्रत्न꣡था उदी꣡रते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡दे सो꣡मस्य दृंहिता꣡नि अइ꣡रयत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 विश्वा॑ । यत् । गो॒त्रा । सह॑सा । परि॑ऽवृता । मदे॑ । सोम॑स्य । दृं॒हि॒तानि॑ । ऐर॑यत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -121,7 +121,7 @@ genre M
 गृत्समदोब्रूते हेस्तोतारः नव्यन्नवतरमन्येष्वदृष्टपूर्वन्तत्तादृशंस्तोत्रमङ्गिरस्वत् अङ्गिरसइवास्मा इन्द्रायार्चतब्रूत यद्यस्माज्जातमात्रस्यास्येन्द्रस्य शुष्माः शत्रूणांशोषकाणितेजांसिप्रत्नथा प्रत्नपूर्वविश्वे- मात्थाल् छन्दसीतिइवार्थेथाल् प्रत्ययः प्रत्नानि पुरातनानीव उदीरते उद्गच्छन्ति ईरगतौ अनुदात्तेत् तिङिचोदात्तवतीतिगतेर्निघातः यद्यस्माच्च विश्वासर्वान् गोत्रामेघान् गाः उदकानित्रायन्तेरक्षन्तीति गोत्रामेघाः परीवृतावृत्रेणाक्रान्तान् सर्वत्रसुपोडादेशः तान् दृंहितानितेनदृढीकृतान् मेघान् सोमस्य- मदे हर्षेसञ्चातेसति सहसाबलेनऎरयत् उदघाटयत् मेघभेदनेनापःप्रेरयामासेत्यर्थः यद्वा विश्वा सर्वा- णिपरीबृता वृत्रासुरेणाक्रान्तानिदृंहितानि पर्वतबिले निरुद्धानि गोत्रा इनित्रकट्यचश्चेतिसमूहार्थेत्र- प्रत्ययः गवंवृन्दानि सहसाऎरयत् तम्साद्बिलान्निरगमयत् तस्मादर्चतेतिसमन्वयः ऎरयत् ईरगतौ ण्यन्तस्यलङिरूपं यद्वृत्तयोगादनिघातः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ Yad **gotrā**, i.e. gotrāṇi, clouds; from go, water; tra, to preserve or con
 **Gotra** = herds of cattle, the cows of the **Aṅgirasas** recovered by Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As did the Aṅgirases, chant this new (chant) to him, so that his explosive  powers rise up as in ancient times  
 when, through his strength and in the exhilaration of soma, he razed all  the firmly fixed cow pens, enclosed on every side.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LIKE the Angirases, sing this new song forth to him, for, as in ancient days, his mighty powers are shown,  
      When in the rapture of the Soma he unclosed with strength the solid firm-shut stables of the kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Singet ihm dieses neue Lied in Angirasweise, daß sich wie vormals seine Kräfte regen, wie damals als er mit Gewalt all die eingesperrten Kuhherden, die festverschlossenen im Somarausch herschaffte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies neue Lied singt ihm nach Angirasen Art, dass seine Kraft sich rege wie in alter Zeit, Als er mit Macht der Kühe Ställe all' erschloss, die rings umhegten, festen in des Soma Rausch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как Ангирасы, спойте ему новую (песнь),  
 Чтобы его силы неистовства возбуждались, как прежде,  

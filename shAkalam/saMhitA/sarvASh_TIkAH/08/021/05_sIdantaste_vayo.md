@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सी꣡दन्तस् ते व꣡यो यथा  
 गो꣡श्रीते म꣡धौ मदिरे꣡ विव꣡क्षणे  
 अभि꣡ त्वा꣡म् इन्द्र नोनुमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अ॒भि । त्वाम् । इ॒न्द्र॒ । नो॒नु॒मः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sīdantas* ← *sīdantaḥ* ← *sad*
 - \[verb noun\], nominative, plural
@@ -93,7 +93,7 @@ genre M
 हे **इन्द्र** **गोश्रीते** । ‘श्रीङ् पाके'। गोविकारे दधिपयसी गोशब्देनोच्यते । दध्ना पयसा च श्रीते श्रयद्रव्येण मिश्रिते **मदिरे** मदकरे **विवक्षणे** स्वर्गप्रापणशीले त्वदीये **मधौ** सोमे **सीदन्तः** निवसन्तः । सदने दृष्टान्तः । **वयो** **यथा** पक्षिणो यथैकत्र संघीभूय तिष्ठन्ति तद्वत् सीदन्तो वयं **त्वाम्** **अभि** आभिमुख्येन **नोनुमः** पुनःपुनर्भृशं वा स्तुमः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,34 +104,34 @@ genre M
 Vivakṣaṇe = svargarprāpaṇaśīle, causing to obtain **svarga**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like birds (in a tree), sitting by your exhilarating, strengthening honey  prepared with cows,  
 we keep bellowing to you, o Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A verse that makes less sense the more one thinks about it, since the bird simile does not seem to fit the context: birds don't normally sit either next to or in honey, nor do they normally roar. The simile must have as its third term “in a nest” or “in a tree” (cf. dru-ṣád(van) several times of birds) as the parallel to the loc. honey phrase.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sitting like birds beside thy meath., mingled with milk, that gladdeneth and exalteth thee,  
      Indra, to thee we sing aloud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gleich Vögeln bei deinem milchgemischten, berauschenden, redselig machenden Süßtrank sitzend, schreien wir nach dir, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Vögel sitzend bei dem Meth, der dich berauscht, dem milchgemischten, schwellenden, Besingen wir, o Indra, dich,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как птицы, сидя у твоего  
 Смешанного с молоком сладкого питья, пьянящего, делающего красноречивым,  

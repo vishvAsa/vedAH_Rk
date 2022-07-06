@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ अर्च नभाकव꣡द्  
 इन्द्राग्नी꣡ यज꣡सा गिरा꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 ययोः॑ । विश्व॑म् । इ॒दम् । जग॑त् । इ॒यम् । द्यौः । पृ॒थि॒वी । म॒ही । उ॒पऽस्थे॑ । बि॒भृ॒तः । वसु॑ । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhy* ← *abhi*
 - \[adverb\]
@@ -141,7 +141,7 @@ genre M;; repeated line
 हे नाभाक नभाकवदिन्द्राग्नी **यजसा** यागेन **गिरा** स्तुत्या च **अभ्यर्च** अभिपूजय । **ययोः** इन्द्राग्न्योः **विश्वं** सर्वम् **इदं** जगत् तिष्ठति । ययोश्च **उपस्थे** **इयं** **द्यौः** **मही** महती **पृथिवी** च द्यावापृथिव्यावुभे **वसु** धनं **बिभृतः** धारयतः । सिद्धमन्यत्
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,14 +152,14 @@ genre M;; repeated line
 Nabhāka: the ṛṣiof the hymn is **Nābhāka**, perhaps a patronymic
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like Nabhāka recite to Indra and Agni with a worshipful song, the two to whom this whole moving world belongs,  
 whose goods this heaven and the great earth bear in their lap.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take cde as consisting of two relative clauses, both introduced by yáyoḥ in c. The first is only pāda c and is a statement of ownership (“whose is this whole moving world,” phrased in the published translation as “to whom … belongs”); the second comprises de, with yáyoḥ construed with vásu and Heaven and Earth the subj. of the dual verb bibhṛtáḥ. (Renou’s tr. is sim.) Geldner’s tr. differs from mine in taking cde as a single relative cl., with “this whole moving world” as a parallel subj. to Heaven and Earth. He must assume that bibhṛtáḥ has been attracted into the dual by the nearer paired subject. I prefer to take the dual verb seriously, and I also wonder if the moving world (which usually refers to the animate beings therein) has a collective lap. For the lap of Heaven and Earth, see nearby VIII.42.2 pātáṁ no dyāvāprthiv ̥ ī upásthe (in the same hymn cycle).
 
@@ -168,23 +168,23 @@ Judging by word order, iyáṃ dyaúḥ should belong together and I have so tr.
 them. But iyám has the wrong deixis: iyám expresses near deixis and, when indicating a cosmic division, ordinarily characterizes the earth (cf., e.g., X.60.9 iyám prthiv ̥ ī́mahī́). It also has the dispreferred gender: dyaúḥ is ordinarily masc., though occasionally fem. Since demonstratives are often separated from their nouns, I am tempted to take it with pṛthivī́here (“heaven and this great earth”). But a series of passages in which the feminine near deictic does seem to belong with ‘heaven’ (prthiv ̥ ī́ṃ dyā́m utémā́m III.32.8, 34.8, X.88.3, 9, 121.1) gives me pause, and IX.96.3 dyā́m utémā́m is even worse, because it is not conjoined with an ‘earth’ word. So I have honored the word order as well as accepting the gender switch.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nabhaka-like, with sacred song Indra's and Agni's praise I sing,  
      Theirs to whom all this world belongs, this heaven and this mighty earth which bear rich treasure in their lap.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Besinge wie Nabhaka den Indra und Agni mit Anbetung und Lobrede, deren Gut diese ganze Welt, dieser Himmel, die große Erde in ihrem Schoße tragen! - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra-Agni preise nun mit frommem Lied, Nabhaka-gleich, Die Herrscher dieser ganzen Welt, des Himmels und der weiten Erd', im Schoosse tragend reiches Gut. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспой, подобно Набхаке,  
 Индру и Агни песней, исполненной почитания,  

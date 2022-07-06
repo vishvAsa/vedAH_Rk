@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे꣡द् एते꣡ ज꣡निमा सं꣡ विविक्तो  
 महो꣡ देवा꣡न् बि꣡भ्रती न꣡ व्यथेते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 च꣡रत् पतत्रि꣡ वि꣡षुणं वि꣡ जात꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 एज॑त् । ध्रु॒वम् । प॒त्य॒ते॒ । विश्व॑म् । एक॑म् । चर॑त् । प॒त॒त्रि । विषु॑णम् । वि । जा॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśved* ← *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
@@ -136,7 +136,7 @@ genre M
 **एते** द्यावापृथिव्यौ **विश्वेत्** **जनिम** सर्वाण्यपि भूतजातानि **सं** **विविक्तः** अवकाशप्रदानेन संविभज्य कुरुतः । किंच **महः** महतः **देवान्** इन्द्रसूर्यादीन् सरित्समुद्रपर्वतादींश्च **बिभ्रती**  बिभ्राणे अपि ते **न** **व्यथेते** न खिद्येते । किंच **एजत्** जङ्गमात्मकं **ध्रुवं** स्थावरात्मकं च **विश्वं** जगत् **एकं** स्थानं पृथिवीमेव **पत्यते** अभिगच्छति । तथा **चरत्** चञ्चलं पशुजातं **पतत्रि** पक्षिजातं च **विषुणं** विष्वक् नानारूपमनयोर्मध्ये **वि** तिष्ठते । योग्यक्रियाध्याहारः ॥ विविक्तः ।  ‘ विचिर् पृथग्भावे ' । जुहोत्यादिः । निघातः । बिभ्रती ।  ‘ डुभृञ् धारणपोषणयोः' इत्यस्य शतरि  ‘ नाभ्यस्ताच्छतुः' इति नुमभावः । अभ्यस्तस्वरः । एजत् । “ एजृ कम्पने ' । शतरि रूपम् ॥ पत्यते । ‘पद गतौ ' । दिवादिरात्मनेपदी । दकारस्य तकारो व्यत्ययेन । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,34 +147,34 @@ genre M
 Keep all born things discrete: heaven and earth all that is born distinct, by furnishing interval or space, avakāśapradānena
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All these races do the two contain. (Though) supporting the great gods,  they do not waver.  
 The One is master of all: the moving and the fixed, the walking and the  flying, of various sorts, variously born.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The notion of the pair of H+E, separate but unified, is, in the 2nd hemistich, replaced by an even starker contrast, the One (ékam, neut. as noted in comm. to previous vs.), which controls the Many, with the Many first configured as oppositional pairs in the neuter: the moving and the fixed (éjad dhruvám), the walking/roaming and the flying (cárad patatrí). ékam is found at the end of its pāda, just as it is in the refrain to the next hymn (III.55).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All living things they part and keep asunder; though bearing up the mighty Gods they reel not.  
      One All is Lord of what is fixed and moving, that walks, that flies, this multiform creation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese beiden fassen alle Geschöpfe in sich; sie tragen die großen Götter und kommen doch nicht ins Wanken. Das Eine beherrscht alles was sich regt und was fest ist, was geht und was fliegt, das Verschiedenartige, verschieden Geborene.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie halten alle Wesen auseinander, sie wanken nicht, die grossen Götter tragend; Bewegtes, festes, alles hegt die eine, was geht und fliegt, das mannichfach geborne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти двое охватывают все рождения.  
 Они не колеблются, неся великих богов.  

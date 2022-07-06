@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो रेव꣡त् समिधानः꣡ सुअस्त꣡ये  
 संददस्वा꣡न् रयि꣡म् अस्मा꣡सु दीदिहि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ग्ने हव्या꣡ म꣡नुषो देव वीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । नः॒ । कृ॒णु॒ष्व॒ । सु॒वि॒ताय॑ । रोद॑सी॒ इति॑ । अग्ने॑ । ह॒व्या । मनु॑षः । दे॒व॒ । वी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -129,20 +129,20 @@ genre M
 हे अग्ने **सः** तादृशस्त्वं **नः** अस्माकं **स्वस्तये**। स्वस्तीत्यविनाशनाम। क्षेमाय। **रेवत्** रयिमत् **रयिं** धनं उपर्युपरिवृद्धिमद्दानयोग्यं वा धनम् **अस्मासु** **संददस्वान्** सम्यक् प्रयच्छन् **समिधानः** अस्माभिः सम्यगिध्यमानः सन् **दीदिहि** दीप्यस्व । यद्वा रेवदिति क्रियाविशेषणम्। रा धनं समृद्धिमद्यथा तथा दीप्यस्वेति । तथाभूतः सन् 'नः अस्मभ्यं **सुविताय** सुहिताय शोभनफलाय **रोदसी** द्यावापृथिव्यौ **आ** **कृणुष्व** सर्वतः कुरुष्व । उभौ लोकौ भोगप्रदौ कुर्वित्यर्थः । किमर्थमिति तदुच्यते । हे **देव** **अग्ने** **मनुषः** मनुष्यस्य यजमानस्य मम संबन्धीनि **हव्या** हवींषि **वीतये** देवेभ्यो भक्षणाय । पुनःपुनर्यागाद्यनुष्ठानायेत्यर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, are he who, for our good, are possessed of riches; kindled by us, blaze as the liberal donor of wealth to us; render heaven and earth propitious to us so that, divine Agni, (the gods) may partake of the oblations of the instrumental tutor of the rite.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you have been kindled, (shine) richly for our well-being; even  after you are entirely extinguished, shine wealth upon us.  
 Turn the two world-halves toward here, for our easy progress, o god  Agni, (for them) to seek out the oblations of Manu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the phonological and morphological parallelism of the infinitival datives, s(u)vastáye, suvitā́ya, vītáye.
 
@@ -157,28 +157,28 @@ Note the phonological and morphological parallelism of the infinitival datives, 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Such as thou art, brilliantly kindled for our weal, a liberal giver, send us riches in thy shine,  
      For our advantage, Agni, God, bring Heaven and Earth hither that they may taste oblation brought by man.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thus mayst thou, being brightly kindled for our welfare or being exhausted (?) 1, shine upon us with thy wealth. Carry hither to us the two worlds for the sake of happiness, Agni, O god, that they may eagerly partake 2 of the offering of the man (or, of Manus).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du entzündet wirst, strahle uns reiches Gut aus zum Glück; nachdem du erloschen warst, strahle uns wieder Reichtum zu ! Gewinne uns Himmel und Erde, daß wir gut fahren, daß beide die Opfer des Menschen gern annehmen, o Gott Agni !
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So strahl' uns reichlich Schätze zu zum Wohlergehn, seist du entzündet, oder seist erloschen du; Mach Erd' und Himmel uns geneigt zu hohem Glück, des Menschen Opfer, Agni, Göttern zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажженный, (дай) нам богатство на счастье!  
 Погаснув, (дай нам) богатство (и снова) воссияй среди нас!  

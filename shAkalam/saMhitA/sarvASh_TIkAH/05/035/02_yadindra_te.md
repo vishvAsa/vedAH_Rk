@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्र ते च꣡तस्रो  
 य꣡च् छूर स꣡न्ति तिस्रः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡वस् त꣡त् सु꣡ न आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । वा॒ । पञ्च॑ । क्षि॒ती॒नाम् । अवः॑ । तत् । सु । नः॒ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 हे **इन्द्र** **ते** तव **यत्** या ऊतयः **चतस्रः** चतुर्षु वर्णेषु संश्रिताः **सन्ति** **यत्** याश्च हे **शूर** **तिस्रः** त्रिषु लोकेषु वर्तमानाः **यद्वा** । वाशब्दश्चार्थे । यत् याश्च **पञ्च** क्षितीनां पञ्चजनसंबन्धिन्य ऊतयः सन्ति **तत्** सर्वम् **अवः** रक्षणं **सु** सुष्ठु **नः** अस्मभ्यम् **आ** **भर** आहरेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,34 +131,34 @@ genre M
 Four, three, oṛ..five classes: whatever favours may be granted to the four **varṇas**, the three **lokas**, or the five orders of men, **pañca** kṣitinām
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whether you have four, Indra, or you have three, o champion,  
 or five settlements (for you to help)—bring this same help to us now.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ... stómam manāmahe ... divispṛ́śaḥ “we shall conceive a praise-song (for Agni), who touches the sky.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, whatever aids be thine, four be they, or, O Hero, three,  
      Or those of the Five Tribes of men, bring quickly all that help to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ob du Held Indra vier oder drei Völkern helfen sollst, ob du fünf Völkern Beistand bringst, bring doch ja uns diesen Beistand!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra, du der Hülfen vier und wenn du drei, o starker, hast, Und welche den fünf Stämmen ist, die Hülfe bringe rasch uns her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если, о Индра, у тебя четыре,  
 Если, о герой, у тебя есть три,  

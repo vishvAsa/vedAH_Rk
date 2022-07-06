@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ ते गृत्समदाः꣡ शूर म꣡न्म  
 अवस्य꣡वो न꣡ वयु꣡नानि तक्षुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡षम् ऊ꣡र्जं सुक्षितिं꣡ सुम्न꣡म् अश्युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ब्र॒ह्म॒ण्यन्तः॑ । इ॒न्द्र॒ । ते॒ । नवी॑यः । इष॑म् । ऊर्ज॑म् । सु॒ऽक्षि॒तिम् । सु॒म्नम् । अ॒श्युः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 शूरबलवन् हेइन्द्र गृत्समदाः अत्रयास्कः—गृत्समदोगृत्समदनः गृत्सइतिमेधाविनाम गृणातेः स्तुतिकर्मणइति । तथाविधाःमन्ममननीयं स्तोत्रन्तीवतुभ्यमेव तक्षुः ततक्षुःचक्रुःतत्रदृष्टान्तः—अवस्य वोन अवः गत्यर्थादवतेरसुनिरूपमवइति अवोगमनमिच्छन्तः पुमांसोवयुनानि मार्गान् यथाकुर्व- न्तितद्वत् किञ्च नवीयः सुपांसुलुगितिषष्ठ्यालुक् नवीयसोनवतरस्यते तवब्रह्मण्यन्तः स्तोत्रङ्कर्तुमि च्छन्तः गृत्समदाः सुक्षितिमिषं शोभननिवासोपेतमन्नंऊर्जम्बलं सुम्नं सुखं चाश्युः प्राप्नुयुः एकस्मिन् गृत्समदेबहुवचनम्परोक्षनिर्देशश्च ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,28 +131,28 @@ genre M
 Gṛṇāteḥ stutikarmaṇaḥ (**Nirukta** 9.5) fabricated praises to you, as they who are desirous of travelling (construct) roads; may those who worship you, adorable **Indra**, obtain food, strength, habitations and felicity. \[As they who are desirous: avasyavo na vayunāni = gamanam icchantaḥ pumāṃso mārgān yathā kurvanti = as men, wishing to go,make roads
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So the Gr̥tsamadas have fashioned their thought for you, o champion,  and the (ritual) patterns, like those seeking help. Those creating the formulations, Indra, would obtain anew refreshment  and nourishment, a good dwelling place, and your good favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus the Grtsamadas for thee, O Hero, have wrought their hymn and task as seeking favour.  
      May they who worship thee afresh, O Indra, gain food and strength, bliss, and a happy dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also haben die Gritsamada´s auf dich, o Held, ein Gedicht gefertigt wie Schatzsuchende als Richtzeichen. Die Segensprechenden mögen von dir, Indra, aufs neue Labsal, Stärkung, guten Wohnsitz, Beliebtheit erlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So woben dir, o Held, die Gritsamader Gebet, wie kunstverständ'ge die Gewebe; Die Beter mögen, Indra, nun aufs neue Kraft, Labung, Sitz und Gunst von dir erlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот потомки Гритсамады создали тебе, о герой,  
 Произведение, как ищущие помощи (создают) правила жертвоприношения.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ सु꣡ पुत्र शवसो  
 अ꣡वृत्रन् का꣡मकातयः  
 न꣡ त्वा꣡म् इन्द्रा꣡ति रिच्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 न । त्वाम् । इ॒न्द्र॒ । अति॑ । रि॒च्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -91,35 +91,35 @@ genre M
 हे **शवसः**। **पुत्र** बलनिमित्तमुत्पन्नत्वाद्वलस्य पुत्रेन्द्र **कामकातयः** । ‘कै गै रै शब्दे'। कामपराः कातयः शब्दाः येषां भवन्ति ते तथोक्ताः । तादृशा मनुष्याः **त्वे** त्वयि **सु** **अवृत्रन्** स्वस्वकामाभिपूरणार्थं सुष्ठु वर्तन्ते । तस्मान्मर्त्यत्वानि कामोपेतानि इत्युत्पन्नम्। ‘वृतु वर्तने'। लङि छान्दसो विकरणस्य लुक् । ‘बहुलं छन्दसि' इति रुडागमः । यत एवं ततो हे **इन्द्र** **त्वां** कश्चिदपि देवः **न** **अति** **रिच्यते** । बलेन धनेन वातिरिक्तः समर्थो नास्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O son of strength, men, uttering their desires, abide happily in you, none, **Indra**, surpasses you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To you, o son of strength, the desirers of desires have turned. Nothing surpasses you, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those, Son of Strength, are come to thee who cherish wishes in their hearts  
      O Indra, none excelleth thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An dich haben sich baß die Wunschwünscher gewandt, o Sohn der Stärke. Über dich, Indra geht nichts.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es wandten sich, o Herr der Kraft, zu dir sogleich die wünschenden; Nichts überragt, o Indra, dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

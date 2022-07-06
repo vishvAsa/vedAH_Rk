@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मत्सरः꣡ पृत्सु꣡ वन्व꣡न्न् अ꣡वातः  
 सह꣡स्ररेता अभि꣡ वा꣡जम् अर्ष  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अंशो꣡र् ऊर्मि꣡म् ईरय गा꣡ इषण्य꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्रा॑य । इ॒न्दो॒ इति॑ । पव॑मानः । म॒नी॒षी । अं॒शोः । ऊ॒र्मिम् । ई॒र॒य॒ । गाः । इ॒ष॒ण्यन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa*
 - \[adverb\]
@@ -119,21 +119,21 @@ genre M
 **मत्सरः** मदकरः **पृत्सु** संग्रामेषु **वन्वन्** शत्रून् हिंसन् अत एव **अवातः** अन्यैर्गन्तुमशक्यः **सहस्ररेताः** सहस्रोदकधारोपेतः **सः** सोमः **वाजं** शत्रूणां बलम् **अभि** **अर्ष** अभिगच्छ। हे **इन्दो** सोम **पवमानः** पूयमानः **मनीषी** प्राज्ञस्त्वं **गा:** **इषण्यन्** शब्दान् प्रेरयन् । यद्वा । यजमानानां यज्ञसाधनभूता गाः प्रेरयन् । **इन्द्राय** इन्द्रार्थम् **अंशोः** अभिषूयमाणस्य सोमस्य **ऊर्मिं** संघम् **ईरय** प्रेरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Soma**) who are the exhilarator, harming (the foe) in battles, (yourself) unharmed, who have a thousand streams, rush against the strength (of the enemy), **Indu**, who are being purified, the sage, uttering cries, urge on for **Indra** the wave of juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Exhilarating, vanquishing in battles but unvanquished,  
 thousand-spurting—rush to the prize.  
 Purifying yourself for Indra, o drop, as inspired thinker raise a wave  from the plant, driving the cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes iṣaṇyán in d to mean ‘desiring’ (“nach den Kühen verlangend”) as in the sim. passage he cites, III.50.3. But this verb stem always means ‘drive, send’ (see Renou’s n. ad loc.) and is, one way or another, derived from iṣṇā́ti ‘impels, sends’.
 
@@ -147,23 +147,23 @@ Although these two vss. belong to two different hymns within the larger structur
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Gladdener, Warrior never harmed in battle, with thousand genial streams, pour strength and vigour.  
      As thoughtful Pavamana, urge O Indu, speeding the kine, the plant's wave on to Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du der Berauschendste, in den Kämpfen unüberwundene Überwinder, rinne mit tausendfachem Samen nach dem Siegerpreis, für Indra dich läuternd, o Saft, gedankenreich, bring die Woge des Stengels in Bewegung, nach den Kühen verlangend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ström' berauschend, siegreich in den Schlachten zum Kampfpreis sicher, tausend Samen hegend, Zu Indra, weiser Indu, sende rieselnd, die Kühe treibend, deines Saftes Welle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьяняющий, настигающий, (но) не настигнутый в боях,  
 С тысячным семенем струись к награде!  

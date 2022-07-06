@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सृग्रन् देव꣡वीतये  
 अ꣡त्यासः कृ꣡त्विया इव  
 क्ष꣡रन्तः पर्वतावृ꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क्षर॑न्तः । प॒र्व॒त॒ऽवृधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asṛgran* ← *sṛj*
 - \[verb\], plural, Root aorist (Ind.)
@@ -71,7 +71,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पर्वतावृधः** पर्वतैरभिषवग्रावभिर्वृद्धाः पर्वतेषु जाता वा **क्षरन्तः** सोमाः **देववीतये** यज्ञाथ **अत्यासः** अश्वाः **कृत्व्याइव** यथा कर्मण्या अश्वाः तद्वत् **असृग्रन्** सृज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -82,33 +82,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Begotten by the stones: or, growing on the mountain slopes
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have been released to pursue the gods, like steeds that get results, flowing, grown strong in the mountains.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the unusual position of iva after the full simile, not its first word.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LIKE able coursers they have been sent forth to be the feast of Gods,  
      joying in mountains, flowing on.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie sind losgelassen wie siegesgewisse Rennpferde zur Göttereinladung, wann die auf dem Berge Gewachsenen rinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen sind zum Göttermahl wie kraftbegabte Rosse sie, Die rinnend sich der Steine freun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

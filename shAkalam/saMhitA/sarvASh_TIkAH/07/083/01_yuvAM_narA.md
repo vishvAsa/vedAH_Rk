@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवां꣡ नरा प꣡श्यमानास आ꣡पियम्  
 प्राचा꣡ गव्य꣡न्तः पृथुप꣡र्शवो ययुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुदा꣡सम् इन्द्रावरुणा꣡वसावतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दासा॑ । च॒ । वृ॒त्रा । ह॒तम् । आर्या॑णि । च॒ । सु॒ऽदास॑म् । इ॒न्द्रा॒व॒रु॒णा॒ । अव॑सा । अ॒व॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
@@ -121,7 +121,7 @@ genre M
 हे **नरा** नेताराविन्द्रावरुणौ **युवाम्** । षष्ठ्यर्थे द्वितीया । युवयोः **आप्यं** बन्धुभावं **पश्यमानासः** पश्यन्तो युष्मद्बान्धवलाभार्थिनः **गव्यन्तः** गा आत्मन इच्छन्तो यजमानाः **पृथुपर्शवः** । पृथुर्विस्तीर्णः पर्शुः पार्श्वास्थि येषां ते तथोक्ताः । विस्तीर्णाश्वपर्शुहस्ताः सन्तः **प्राचा** प्राचीनं **ययुः** बर्हिराहरणार्थं गच्छन्ति। पर्श्वा हि बर्हिराच्छिद्यते । तथा च तैत्तिरीयकम्- ‘ अश्वपर्श्वा बर्हिरच्छैति' (तै. ब्रा. ३. २. २. १ ) इति । हे इन्द्रावरुणौ युवां **दासा** दासान्युपक्षपयितॄणि **च** वृत्राणि आवरकाणि शत्रुजातानि **आर्याणि** **च** कर्मानुष्ठानपराणि च शत्रुजातानि **हतं** हिंस्तम्। अपि च **सुदासम्** अस्मद्याज्यमेतत्संज्ञं राजानम् **अवसा** रक्षणेन सार्धम् **अवतम्** आगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ Sickles: pṛthuparśavaḥ =**vistīrṇa** śvaparśu hasta, holding large rib
 Aśvaparśu = an implement for cutting the kuśagrass (aśvaparśvā barhiracchaiti: **Taittirīya** **Brāhmaṇa** 3.2.2.1), either the rib of a horse, or an instrumental umentlike it; it is frequently alluded to in the **Brāhmaṇas** and **Sūtras**; Taittirīya **Saṃhitā** 1.1.2: ghoṣad asi:**Baudhāyana** says that this is addressed to the Aśvaparśu; you are the implement, the priest having taken it inhis **hand**; aśvaparśu aśvaparśvasthi, the rib-bone of a horse, the edge of which is as sharp as a sword, and fitfor cutting; tac ca khaḍgavat tīkṣṇadbaratvat lavane **samarthaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Looking upon you two and their friendship (with you), o you superior  men, the broad-chested ones have gone forward in their quest for  
 cattle. Strike down the obstacles, both Dāsa and Ārya! Help Sudās with your  help, Indra and Varuṇa!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LOOKING to you and your alliance, O ye Men, armed with broad axes they went forward, fain for spoil.  
      Ye smote and slew his Dasa and his Aryan enemies, and helped Sudas with favour, Indra-Varuna.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Looking to you, O heroes, and your friendly aid, They with broad sabres armed and battle-eager marched; Then ye two smote the Dāsa and the Aryan foes: Ye favoured, Indra-Varuṇa, Sudās with help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als sie euch, ihr Herren, als Bundesgenossenschaft sahen, gingen die auf Rinderbeute ausziehenden mit geschwellter Brust vorwärts. "Schlaget die dasischen und arischen Feinde und stehet dem Sudas hilfreich bei, Indra und Varuna!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf euch, o Männer, eure Freundschaft schauend zog mit breiten Säbeln aus die kampfbegier'ge Schar, Die Feinde schlagt, die fremden und die arischen, und stehet bei dem Sudas, Indra-Varuna.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Видя вас, (ваше) дружелюбие, о два мужа,  
 Широкобокие (люди), жаждущие коров, двинулись на восток.  

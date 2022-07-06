@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते अग्न इधीमहि  
 द्युम꣡न्तं देव अज꣡रम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 यत् । ह॒ । स्या । ते॒ । पनी॑यसी । स॒म्ऽइत् । दी॒दय॑ति । द्यवि॑ । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,41 +123,41 @@ genre M;; repeated line
 हे अग्ने **देव** **द्युमन्तं** दीप्तिमन्तम् **अजरम्** अजीर्णं **ते** त्वाम् **आ** सर्वतः **इधीमहि** दीपयामः । **यद्ध** खलु **स्या** सा **ते** तव **पनीयसी** स्तुत्या **समित्** दीप्तिः **दीदयति** दीप्यते द्यवि द्युलोके ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We kindle you, divine **Agni**, bright, undecaying so that your glorious blaze shines in heaven; do you bring food to your adorers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, here would we kindle your brilliant and unaging (flame), o god, so that this your kindling stick, admired more, will shine in heaven.  
 – Bring here refreshment for the praise singers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 God, Agni, we will kindle thee, rich in thy splendour, fading not,  
      So that this glorious fuel may send forth by day its light for thee. Bring food to those who sing thy praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May we kindle thee 1, Agni, O god, the brilliant, never ageing, in order that yon highly miraculous fuel of thine 2 may shine in the sky. Bring food to thy praisers!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten, Gott Agni, dein glänzendes, alterloses Feuer entzünden, auf daß dein kostbares Brennholz am Himmel leuchte. - Bring den Sängern gute Speise!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir Agni zünden wir, o Gott, die helle, ew'ge Leuchte an, Dass diese lichte Flamme dir am Himmel glänze wunderschön; den Sängern bringe Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим зажечь, о Агни, твое  
 Сверкающее нестареющее (пламя), о бог,  

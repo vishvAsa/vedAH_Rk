@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने वि꣡श्वेभिर् अग्नि꣡भिर्  
 देवे꣡भिर् महया गि꣡रः  
 यज्ञे꣡षु य꣡ उ चाय꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 य॒ज्ञेषु॑ । ये । ऊं॒ इति॑ । चा॒यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -85,40 +85,40 @@ genre M
 हे **अग्ने** **देवेभिः** द्योतमानैः **विश्वेभिः** सर्वैः **अग्निभिः** यष्टव्यतया स्थितैरग्निभिः सहितस्त्वं **चायवः** त्वद्विषयस्तुतिरूपाभि: वाग्भिरनन्यमनस्कतया पूजकाः **ये** विद्यन्ते तेषां **यज्ञेषु** ज्योतिष्टोमादिषु **गिरः** स्तोत्रशस्त्रादिलक्षणानि वाक्यानि **महय** पूजय ॥ महय ।  ‘ मह पूजायाम् । चुरादिः । अदन्तत्वादुपधावृद्ध्यभावः । निघातः । चायवः ।  ‘ चायृ पूजानिशामनयोः । • मृगय्वादयश्च ' इति कुप्रत्ययः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, with all the divine fires, respect the praises of those who in (their) sacrifices are (your especial) worshippers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, exalt our songs together with all the fires, with (all) the gods, and those who are the respected (priests) in the sacrifices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With all thy fires, with all the Gods, Agni, exalt the songs we sing.  
      And living men in holy rites.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, together with all Agnis, with the gods exalt our prayers and those who are respectful at the sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Halte unsere Lobreden in Ehren mit allen Agni´s, mit den Göttern, und die sich sonst bei dem Opfer geehrt fühlen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit aller Feuergötter Schar erfreu die Sänger, Agni du, Und die bei Opfern thätig sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, вместе со всеми Агни,  
 С богами, осчастливь (мои) песни  

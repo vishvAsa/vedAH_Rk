@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् वो अद्य꣡ मनामहे  
 सुउक्तइः꣡ सू꣡र उ꣡दिते  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 यूय꣡म् ऋत꣡स्य रथियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । ओह॑ते । वरु॑णः । मि॒त्रः । अ॒र्य॒मा । यू॒यम् । ऋ॒तस्य॑ । र॒थ्यः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -105,36 +105,36 @@ genre M
 **तत्** प्रसिद्धम् **अद्य** अस्मिन् यागकाले **वः** युष्मान् **मनामहे** याचामहे । कैः साधनैः । **सूक्तैः** । कस्मिन् काले। **सूर** **उदिते** । प्रातःकाल इत्यर्थः । **यत्** धनं हे **ऋतस्य** उदकस्य **रथ्यः** नेतारः **यूयं** वरुणादयः **ओहते**। यूयमित्यनेन सामानाधिकरण्यात् ओहत इत्यत्र पुरुषव्यत्ययः । ओहध्व इत्यर्थः । तद्धनं मनामह इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Therefore today at sunrise we solicit you with hymns for (wealth), which **Varuṇa**, **Mitra**, **Aryaman**,bearers of water, you convey.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Today for you, at the rising of the sun, with our hymns we will conceive what Varuṇa, Mitra, and Aryaman solemnly declare. You are  
 charioteers of truth!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So at the rising of the Sun we think of you with hymns to-day,  
      Even as Varuna, Mitra, Aryaman deserve: ye are the charioteers of Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das ersinnen wir für euch in wohlgesetzten Worten heute bei Sonnenaufgang, was Varuna, Mitra, Aryaman löblich finden. Ihr seid die Lenker der wahrhaften Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Sonnenaufgang denken wir, an das, was heute euch erfreut, Mit Liedern, Mitra, Varuna und Arjaman, des Opfers Lenker seid ihr ja.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это мы сегодня сочиняем для вас  
 В гимнах на восходе солнца:  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सम्मृष्टो जायसे मातरोः꣡ शु꣡चिर्  
 मन्द्रः꣡ कवि꣡र् उ꣡द् अतिष्ठो विव꣡स्वतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 धूम꣡स् ते केतु꣡र् अभवद् दिवि꣡ श्रितः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 घृ॒तेन॑ । त्वा॒ । अ॒व॒र्ध॒य॒न् । अ॒ग्ने॒ । आ॒ऽहु॒त॒ । धू॒मः । ते॒ । के॒तुः । अ॒भ॒व॒त् । दि॒वि । श्रि॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asaṃmṛṣṭo* ← *a*
 - \[adverb\]
@@ -139,7 +139,7 @@ genre M
 हे **अग्ने** **मात्रोः** अरण्योः । स्वजनननिमित्तत्वात्  अरणी मातरावित्युच्येते । ताभ्याम् **असंमृष्टः** अबाधित एव **जायसे** प्रादुर्भूतो भवसि । **मन्द्रः** सर्वैः स्तुत्यः **कविः** क्रान्तः सर्वत्र व्याप्तः । अथवा मेधावी **शुचिः** त्वं **विवस्वतः** अग्निहोत्राद्यर्थं गृहे विशेषेण वसतः यजमानात् **उदतिष्ठः** उदितोऽभवः । पूर्वे महर्षयः **त्वा** त्वां **घृतेन** **अवर्धयन्** वृद्धिमनयन् । हे **आहुत** आहुतिभिर्हुत **ते** तव **दिवि** अन्तरिक्षे **श्रितः** व्याप्तः **धूमः** **केतुः** प्रज्ञापकः **अभवत्** । अग्न्यनुमापकत्वात् धूमस्य ॥ मात्रोः । उदात्तयणो हल्पूर्वात् ' इति विभक्तेरुदात्तत्वम् । मन्द्रः ।  ‘ मदि स्तुतिमोदमदस्वप्नकान्तिगतिषु । अत्र स्तुत्यर्थादस्मात् ' स्फायितञ्चि° ' इत्यादिना रक् । अन्तोदात्तः । कविः । क्रमेः ‘इन् सर्वधातुभ्यः ' इति इन्प्रत्ययः । बाहुलकत्वात् मकारस्य वत्वं रेफलोपश्च । व्यत्ययेनान्तोदात्तत्वम् । उदतिष्ठः । उत्पूर्वादूर्ध्वकर्मवाचिनस्तिष्ठतेरात्मनेपदाभावः । विवस्वतः। विपूर्वाद्वसतेः संपदादिलक्षणो भावे क्विप् ।  ‘ तदस्यास्ति° ' इति मतुप् । ' मादुपधायाश्च° ' इति वत्वम् । मतुपोऽनुदात्तत्वाद्धातुस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,33 +150,33 @@ genre M
 Born of two two mothers: the two sticks of attrition; you have sprung from the devotion of the householder: udatiṣṭho **vivasvataḥ**: the latter designates the **yajamāna**, from his especially, vi, abiding, vasata, in the chamber where the **agnihotra**, and other rites with fire are celebrated
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Though ungroomed, you are born blazing in your two mothers [=the  fire-churning sticks]. As the delighting poet of Vivasvant, you rose up. They made you grow strong with ghee, o (ghee-)anointed Agni. Your  smoke became a beacon, resting upon heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pure , unadorned, from thy two Mothers art thou born: thou camest fromVivasvan as a charming Sage.  
      With oil they strengthened thee, O Agni, worshipped God: thy banner was the smoke that mounted to the sky.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Though not cleansed, thou art born bright from thy two mothers 1. Thou hast arisen as the joy-giving sage belonging to Vivasvant 2 They have strengthened thee by ghrita, O Agni, into whom oblations are poured. Smoke, reaching the sky, has become thy beacon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Obwohl nicht gesäubert wirst du von den Müttern doch rein geboren; als der wohlredende Seher des Vivasvat erstandest du. Mit Schmalz zogen sie dich groß, du mit Schmalz begossener Agni. Dein Rauch ward das Banner, das sich gen Himmel reckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hell, ohne Schmuck entspringst du aus der Aeltern Schooss, erhobst als muntrer Sänger des Vivasvat dich; Mit Butter nährten dich, besalbter Agni, sie; der Rauch, dein Banner, stieg bis an den Himmel auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хоть ты и не вытерт (своими) двумя матерями, ты рождаешься чистым,  
 Как радостный поэт ты восстал из (лона) Вивасвата.  

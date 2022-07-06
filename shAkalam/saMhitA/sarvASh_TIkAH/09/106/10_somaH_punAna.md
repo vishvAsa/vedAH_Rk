@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मः पुनान꣡ ऊर्मि꣡णा  
 अ꣡व्यो वा꣡रं वि꣡ धावति  
 अ꣡ग्रे वाचः꣡ प꣡वमानः क꣡निक्रदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अग्रे॑ । वा॒चः । पव॑मानः । कनि॑क्रदत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -86,19 +86,19 @@ genre M
 **पुनानः** पूयमानः **सोमः** **ऊर्मिणा** स्वीयया धारया **अव्यः** अवेः **वारं** वालं पवित्रं **वि** **धावति** विविधं गच्छति । कीदृशः सोमः । **पवमानः** पूतः **वाचः** स्तोत्रस्य **अग्रे** **कनिक्रदत्** पुनःपुनः शब्दं कुर्वन् वि धावति ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Some being filtered flows in a stream through the woollen fleece, crying aloud when filtered in advance of the voice (of praise).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma, being purified in a wave, runs across the fleece of the sheep, at the forefront of speech, self-purifying, ever roaring.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -107,23 +107,23 @@ In all cases it’s possible to detach the last four syllables, but Oldenberg co
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, while filtered, with his wave flows through the long wool of the sheep,  
      Shouting while purified before the voice of song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma läuft sich läuternd, wogend durch das Schafhaar, brüllend der Rede voran, der Pavamana.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hell rieselnd strömt der Somatrank in Wellen durch des Widders Haar, Voran dem Liede wiehert er, der flammende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома, очищаясь волной,  
 Бежит сквозь сито из овечьей шерсти.  

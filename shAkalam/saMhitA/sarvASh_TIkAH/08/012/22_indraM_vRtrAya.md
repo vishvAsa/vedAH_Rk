@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं वृत्रा꣡य ह꣡न्तवे  
 देवा꣡सो दधिरे पुरः꣡  
 इ꣡न्द्रं वा꣡णीर् अनूषता स꣡म् ओ꣡जसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 इन्द्र॑म् । वाणीः॑ । अ॒नू॒ष॒त॒ । सम् । ओज॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -90,36 +90,36 @@ genre M;; line affected by realignment
 **देवासः** देवाः **वृत्राय** **हन्तवे** वृत्रमावरकमसुरं हन्तुम् । हन्तेस्तुमर्थे तवेन्प्रत्ययः । इमम् **इन्द्रं** **पुरः** **दधिरे** पुरस्तात् स्वामित्वेनाधारयन् । **वाणीः** वाण्यः स्तुतिरूपा वाचश्चेममेव **इन्द्रम्** **अनूषत** स्तुवन्ति । किमर्थम् । **सं** समीचीनाय **ओजसे** बलार्थम् । यथा वृत्रवधानुगुणमुत्कृष्टं बलमस्य जायते तथा स्तुवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods have plural ced **Indra** (foremost) for the destruction of **Vṛtra**; their praise has been addressed tohim to enhance his vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra did the gods set in front to smash Vr̥tra.  
 To Indra did their voices roar—entirely for his might.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For slaying Vrtra have the Gods set Indra in the foremost place.  
      Indra the choral bands have sung, for vigorous strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Daß er den Vritra erschlage, haben die Götter Indra an die Spitze gestellt. Nach Indra haben die Sängerstimmen geschrieen insgesamt zur Stärke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra hat die Götterschar zur Vritratödtung ausersehn, Ihm tönet zu der Sänger Chor zu hoher Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру, чтоб он убил Вритру,  
 Боги поставили впереди.  

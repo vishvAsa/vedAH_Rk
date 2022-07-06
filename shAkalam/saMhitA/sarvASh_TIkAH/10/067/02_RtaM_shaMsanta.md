@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋतं꣡ शं꣡सन्त ऋजु꣡ दी꣡धियाना  
 दिव꣡स् पुत्रा꣡सो अ꣡सुरस्य वीराः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यज्ञ꣡स्य धा꣡म प्रथम꣡म् मनन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विप्र॑म् । प॒दम् । अङ्गि॑रसः । दधा॑नाः । य॒ज्ञस्य॑ । धाम॑ । प्र॒थ॒मम् । म॒न॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
@@ -115,7 +115,7 @@ genre M
 **ऋतं** सत्यभूतं स्तोत्रं **शंसन्तः** स्तुवन्तः **ऋजु** कल्याणं **दीध्यानाः** कर्माणि ध्यायन्तः **दिवः** दीप्तस्य **असुरस्य** प्रज्ञावतः अग्नेः **अङ्गिरसः** पुत्रा: । अङ्गिरसो ह्यङ्गारेभ्यो जाता इत्युक्तम् । अङ्गारेष्वङ्गिराः ' ( निरु. ३. १७) इति । **वीराः** विक्रान्तप्रज्ञा एतेऽङ्गिरसः **विप्रं** प्रज्ञापकं **यज्ञस्य** **धाम** धारकं **पदं** बृहस्पत्याख्यं **दधानाः** कर्मणा धारयन्तः सन्तः **प्रथमम्** आदित एव **मनन्त** स्तुवन्ति । प्रज्ञापकं ह्येतत्स्थानं यद्बृहस्पतिरिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,29 +126,29 @@ genre M
 Supporter: padamrefers to **Bṛhaspati**, as supporting (**dhāma**), the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pronouncing the truth, thinking straight, the sons of heaven, the heroes  of the lord,  
 the Aṅgirases, establishing their inspired word [/laying their inspired  track], pondered the first foundation of the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thinking aright, praising eternal Order, the sons of Dyaus the Asura, those heroes,  
      Angirases, holding the rank of sages, first honoured sacrifice's holy statute.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrheit sprechend, redlich denkend haben die Söhne des Himmels, die Mannen des Asura, die Angiras´ den Redekundigen zu ihrer Wegspur machend die erste Form des Opfers ersonnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die heilige Ordnung preisend, dem Rechte nachsinnend, gedachten die Söhne des Himmels, des höchsten Gottes Helden, die Angiras, zum Sänger ihren Schritt lenkend (?) an die erste Stätte des Opfers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Произнося истину, правильно размышляя,  
 Сыновья неба, мужи Асуры –  

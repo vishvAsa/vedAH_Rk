@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुष꣡स्व अग्न इ꣡ळया सजो꣡षा  
 य꣡तमानो रश्मि꣡भिः सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ च देवा꣡न् हविर꣡द्याय वक्षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 जु॒षस्व॑ । नः॒ । स॒म्ऽइध॑म् । जा॒त॒ऽवे॒दः॒ । आ । च॒ । दे॒वान् । ह॒विः॒ऽअद्या॑य । व॒क्षि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣasvāgna* ← *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
@@ -115,41 +115,41 @@ genre M
 हे **अग्ने** **जुषस्व** सेवस्व स्तुतिम् । **इळया** वेदिलक्षणया भूम्या वाचा वा **सजोषाः** समानप्रीतिः । तथा **सूर्यस्य** **रश्मिभिः** **यतमानः** प्रयत्नमुषःकाले कुर्वन् । किंच हे **जातवेदः** जातस्य वेदितरग्ने **नः** अस्मदीयां **समिधं** जुषस्व सेवस्व । **आ** वह **च** **देवान्** हविरद्याय हविरदनाय । आवाह्य **वक्षि** वहसि तद्धविः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be propitiated, **Agni**, sharing in satisfaction with Iḷā, viewing with the rays of the sun; be gratified, **Jātavedas**, by our fuel, and bring the gods to partake of the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Take pleasure, o Agni, along with the libation, aligning with the rays of  the sun.  
 Take pleasure in our kindling wood, o Jātavedas, and convey the gods  here to eat the oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, enjoy, of one accord with Ila, striving in rivalry with beams of Sarya,  
      Enjoy, O Jatavedas, this our fuel, and bring the Gods to us to taste oblations.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Enjoy thyself, O Agni, joined with Idâ, uniting thyself with the rays of the sun. Enjoy our fuel, O Gâtavedas, and bring the gods hither that they may eat our offerings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nimm fürlieb mit der Opferspende einverstanden, o Agni, an Glanz mit den Strahlen der Sonne wetteifernd! Nimm mit unserem Brennholz fürlieb, o Jatavedas, und fahre die Götter zum Opferschmaus her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniess, o Agni, du vereint mit Ida, und dich verbindend mit der Sonne Strahlen, Geniess, o Wesenkenner, unser Brennholz und fahr die Götter her zum Opfermahle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайся, о Агни, (жертвой), единодушный с Идой,  
 Соразмеряясь с лучами солнца!  

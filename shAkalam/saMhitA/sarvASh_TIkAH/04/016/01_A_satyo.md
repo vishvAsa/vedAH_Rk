@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सत्यो꣡ यातु मघ꣡वाँ ऋजीषी꣡  
 द्र꣡वन्तु अस्य ह꣡रय उ꣡प नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इहा꣡भिपित्वं꣡ करते गृणानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तस्मै॑ । इत् । अन्धः॑ । सु॒सु॒म॒ । सु॒ऽदक्ष॑म् । इ॒ह । अ॒भि॒ऽपि॒त्वम् । क॒र॒ते॒ । गृ॒णा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre M
 **ऋजीषी**। ऋजीषशब्देन निष्पिष्टो विगतसारः सोमोऽभिधीयते । तद्वान् **सत्यः** सत्यवान् **मघवान्** धनवानिन्द्रः **नः** अस्माकम् **उप** समीपे **आ** **यातु** आगच्छतु। किंच **अस्य** इन्द्रस्य **हरयः** अश्वाः नोऽस्माकम् उप समीपे **द्रवन्तु** आगच्छन्तु । वयं यजमानाः **इह** अस्मिन् यज्ञे **तस्मै** इन्द्राय **सुदक्षं** शोभनबलम्। सारोपेतमित्यर्थः। **इत्** इदं प्रत्यक्षेणोपलभ्यमानम् **अन्धः** अन्नरूपं सोमं **सुषुम** अभिषुतं कुर्याम। **गृणानः** अस्माभिः स्तूयमान इन्द्रः **अभिपित्वम्** अस्मदभिमतप्राप्तिं **करते** करोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,35 +142,35 @@ genre M
 Spiritless soma: ṛjīṣin = from ṛjīṣa, vigata **sāraḥ** **somaḥ**, the Soma of which the essence is gone
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him drive here (to be) really present—the bounteous one possessing  the silvery drink. Let his fallow bays run to us.  
 It is just for him that we have pressed the well-skilled stalk. Being  
 hymned, he will make his meal here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As often, satyá- ‘real’ seems here to have the sense ‘really present’, expressing the standard hope of every Vedic ritual, that the gods, esp. Indra, should be physically present at the sacrifice, providing a technical epiphany.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 IMPETUOUS, true, let Maghavan come hither, and let his Tawny Coursers speed to reach us.  
      For him have we pressed juice exceeding potent: here, praised with song, let him effect his visit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der wahre Gabenherr, der Trestersafttrinker soll kommen; seine Falben sollen zu uns laufen. Für ihn haben wir den wirksamen Trank gepreßt; hier möge der Gepriesene Einkehr halten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vordringend komme her der mächt'ge treue, zu uns her mögen eilen seine Füchse; Ihm haben starken Rauschtrank wir gekeltert; hier möge Einkehr halten der gepries'ne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть приедет истинный, щедрый, пьющий выжимки (сомы)!  
 Пусть прискачут к нам его буланые кони!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡द् ग꣡र्भम् प्रथमं꣡ दध्र आ꣡पो  
 य꣡त्र देवाः꣡ सम꣡गछन्त वि꣡श्वे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡स्मिन् वि꣡श्वानि भु꣡वनानि तस्थुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 अ॒जस्य॑ । नाभौ॑ । अधि॑ । एक॑म् । अर्पि॑तम् । यस्मि॑न् । विश्वा॑नि । भुव॑नानि । त॒स्थुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -131,7 +131,7 @@ popular;; repeated line
 अनया पूर्वमन्त्रोक्तस्य प्रश्नस्योत्तरमभिधीयते । **तमित्** तमेव विश्वकर्माणं **गर्भं** गर्भस्थानीयं **प्रथमम्** इतरसृष्टेः पूर्वम् **आपः** **दध्रे** धृतवत्यः । **यत्र** गर्भे विश्वे सर्वे **देवाः** इन्द्रादयः **समगच्छन्त** संगता भवन्ति । तस्य **अजस्य** **नाभावधि** नाभौ । अधीति सप्तम्यर्थानुवादी । **एकमर्पितम्** इत्यण्डाभिप्रायेणोक्तम् । अण्डं हि प्राक्सर्गान्नाभिस्थाने तिष्ठति । **यस्मिन्** अण्डे **विश्वानि** **भुवनानि** सर्वाणि भूतजातानि **तस्थुः** तिष्ठन्ति । अथवा । अजस्य जन्मरहितस्य ब्रह्मणः स्वसृष्टे जले शयानस्य नाभौ सर्वजगद्बन्धक उदक एकं ब्रह्माण्डमर्पितं स्थापितम्। शिष्टं समानम् । अथास्मिन्नर्थे स्मृतिः - ‘ अप एव ससर्जादौ तासु वीर्यमवाकिरत् । तदण्डमभवद्धैमं सूर्यकोटिसमप्रभम् ' (मनु. १.८-९ ) इति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ popular;; repeated line
 The embryo is **Viśvakarman**. arpitam aṇḍam =mundane egg; or, bījam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just this first embryo did the waters receive, where all the gods gathered  together:  
 the one fitted upon the navel of the unborn, that upon which all living  beings have taken their places.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The waters, they received that germ primeval wherein the Gods were gathefed all together.  
      It rested set upon the Unborn's navel, that One wherein abide all things existing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen empfing das Wasser als ersten Keim, in dem alle Götter sich vereinigten. In des Ungeborenen Nabel steckt das Eine, auf dem alle Geschöpfe beruhen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Wasser nahmen auf den ersten Urkeim, in dem die Götter alle sich beschauten, Der einzig lag im Schooss des ungebornen, in dem verborgen alle Wesen ruhten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его восприняли воды как первый зародыш,  
 (Там,) где сошлись вместе все боги.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अश्वि꣡ना सु꣡ ऋषे स्तुहि  
 कुवि꣡त् ते श्र꣡वतो ह꣡वम्  
 ने꣡दीयसः कूळयातः पणीँ꣡र् उत꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 नेदी॑यसः । कू॒ळ॒या॒तः॒ । प॒णीन् । उ॒त ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
@@ -86,36 +86,36 @@ genre M
 हे **ऋषे** विश्वमनः **अश्विना** अश्विनौ देवौ **सु** **ष्टुहि** शोभनं स्तुहि । ततस्तावश्विनौ **ते** स्तोतुस्तव **हवम्** आह्वानं **कुवित्** । कुविदिति बहुनाम । बहुवारं **श्रवतः** शृणुताम् । श्रु श्रवणे'। लेट्यडागमः । एवं त्वया स्तुतावश्विनौ **नेदीयसः** अन्तिकतमान् शत्रून् कूळयातः हिंस्ताम् । **उत** अपि च **पणीन्** एतन्नामकान् अङ्गिरोगवामपनेतॄन असुरानपि हिंस्ताम् ॥ ‘कुडि दाहे । ण्यन्तस्य लेट्याडागमः ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise the **Aśvins** devoutly, Ṛṣi, that they may repeatedly hear your invocation, and destroy thenearest (approaching enemies) and the **Paṇis**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praise the Aśvins, o seer. Surely they will listen to your call  
 and burn up the niggards very nearby?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Rsi, laud the Asvins well. Will they not listen to thy call?  
      Will they not burn the Panis who are nearer them?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Preise fein, o Rishi, die Asvin; gewiß werden sie deinen Ruf erhören, und sie werden die Pani´s in nächster Nähe versengen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Ritter preis', o Sänger, laut; ob sie wol hören deinen Ruf? Die Diebe mögen sie verbrennen, die uns nahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восхваляй хорошенько Ашвинов, о риши!  
 Конечно, они услышат твой зов!  

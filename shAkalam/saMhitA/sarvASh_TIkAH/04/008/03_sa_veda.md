@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वेद देव꣡ आन꣡मं  
 देवाँ꣡ ऋतायते꣡ द꣡मे  
 दा꣡ति प्रिया꣡णि चिद् व꣡सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 दाति॑ । प्रि॒याणि॑ । चि॒त् । वसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -91,46 +91,46 @@ genre M
 **देवः** द्योतमानः **सः** अग्निः **आनमं** यजमानादीनानमयितुं नमस्कारयितुं **देवान्** इन्द्रादीन् **वेद** क्रमेण वेत्ति । **दमे** यज्ञगृहे **ऋतायते** ऋतं यज्ञमिच्छते यजमानाय **प्रियाणि** **चित्** अभीष्टान्यपि **वसु** वसूनि पश्वादीनि धनानि **दाति** ददाति प्रयच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, the divine (**Agni**), knows how the gods are to be reverenced; to the sincere (worshipper) in his dwelling he gives wealth that is desired.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, the god, knows how to bow the gods here to the house for him who  acts with truth.  
 He will give especially dear goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Lubotsky I take dā́ti as a contracted root-aor. subjunctive. Unfortunately the root syllable never requires a disyllabic reading.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He knows, a God himself, to guide Gods to the righteous in his home:  
      He gives e'en treasures that we love.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He, the god, knows how to direct the gods for the righteous (worshipper), in his house. He gives (us) wealth dear (to us).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gott weiß die Götter herzuwenden, dem, der recht wandelt, ins Haus; er gibt uns gar liebe Güter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter her zu lenken weiss der Gott ins Haus dem frommen Mann, Er giebt ihm liebe Gaben auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот бог знает, как привлечь  
 Богов в дом для того, кто любит закон.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानो अजीजनद्  
 दिव꣡श् चित्रं꣡ न꣡ तन्यतु꣡म्  
 ज्यो꣡तिर् वैश्वानर꣡म् बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ज्योतिः॑ । वै॒श्वा॒न॒रम् । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पवमानः** सोमः **बृहत्** महत् **वैश्वानरं** वैश्वानराख्यं **ज्योतिः** तेजः **दिवः** द्युलोकस्य **चित्रं** विचित्रं **तन्यतुं** **न** अशनिमिव **अजीजनत्** अजनयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,12 +92,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Vaiśvānara light: i.e., **Agni**, the son of Vaiśvānara
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purifying himself he has begotten thunder dazzling like that of heaven and the lofty light belonging to all men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The question in this vs. is how to interpr. the simile in pāda b, diváś citráṃ ná tanyatúm. It has been variously rendered. Note first that in none of the available interpr.
 
@@ -118,23 +118,23 @@ This tṛca is unified by the simple device of stationing a form of pávamāna- 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From heaven hath Pavamana made, as 'twere, the marvellous thunder, and  
      The lofty light of all mankind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd hat er den Donner, grell wie den des Himmels, hervorgebracht, den hohen Lichtglanz des Vaisvanara.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es hat erzeugt der flammende, des Himmels lautem Donner gleich, Das hehre Licht der Menschenwelt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Павамана породил  
 Высокий свет – Вайшванару,  

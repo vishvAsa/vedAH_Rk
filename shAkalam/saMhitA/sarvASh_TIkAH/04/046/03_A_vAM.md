@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां सह꣡स्रं ह꣡रय  
 इ꣡न्द्रवायू अभि꣡ प्र꣡यः  
 व꣡हन्तु सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 वह॑न्तु । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -87,36 +87,36 @@ genre M
 हे **इन्द्रवायू** **वां** युवां **सहस्रं** **हरयः** सहस्रसंख्याका अश्वाः **प्रयः** अन्नं प्रति त्वरयन्तः सन्ति । अत्र हरिशब्दोऽश्वसामान्यवचनः । ते **सोमपीतये** **आ** **वहन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Vāyu**, may a thousand steeds, eager for food, bring you to drink the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Vāyu, let your thousand fallow bays convey you here, to the  pleasurable offering,  
 to drink the soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May steeds a thousand bring you both, Indra. and Vayu, hitherward  
      To drink the Soma, to the feagt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, Indra und Vayu, sollen tausend Falben zum Opfermahl fahren, um Soma zu trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es mögen tausend Rosse euch, o Indra-Vaju, zum Genuss, Zum Somatrunke fahren her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да привезет вас тысяча  
 Буланых коней, о Индра-Ваю,  

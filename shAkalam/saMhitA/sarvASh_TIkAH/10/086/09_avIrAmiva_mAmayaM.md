@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवी꣡राम् इव मा꣡म् अयं꣡  
 शरा꣡रुर् अभि꣡ मन्यते  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 उ॒त । अ॒हम् । अ॒स्मि॒ । वी॒रिणी॑ । इन्द्र॑ऽपत्नी । म॒रुत्ऽस॑खा । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avīrām* ← *avīra*
 - \[noun\], accusative, singular, feminine
@@ -121,7 +121,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 पुनरिन्द्रमिन्द्राणी ब्रवीति । **शरारुः** घातुको मृगः **अयं** वृषाकपिः **माम्** इन्द्राणीम् **अवीरामिव** **अभि** **मन्यते** विजानाति । **उत** अपि च **इन्द्रपत्नी** इन्द्रस्य भार्या **अहम्** इन्द्राणी **वीरिणी** पुत्रवती **मरुत्सखा** मरुद्भिर्युक्ता च **अस्मि** भवामि । यस्या मम पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ popular;; epic anuṣṭubh (525);; repeated line
 \[Indrāṇī speaks\]: This savage beast (Vṛṣākapi) despises me as one who has no male (protector),and yet I am the mother of male offspring, the wife of Indra, the friend of the Maruts; Indra is above all (the world).
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indrāṇī:] “This noxious creature has designs on me, as if I lacked a man  [/hero].  
 And I have a man [/hero]—with Indra as husband and the Maruts as  companions.”  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This noxious creature looks on me as one bereft of hero's love,  
      Yet Heroes for my sons have I, the Maruts' Friend and Indra's Queen. Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Boshafte hat es auf mich abgesehen, als ob ich keinen Mann hätte. Und ich habe doch einen Mann, bin Indra´s Gattin, habe die Marut zu Freunden." - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Dieser Verderber stellt mir nach wie einer von Helden verlassenen, und doch bin ich einem Helden vermählt, bin des Indra Gattin, die Genossin der Maruts. Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ त्वा वृत्रह꣡न्तमं  
 यो꣡ द꣡स्यूँर् अवधूनुषे꣡  
 द्युम्नइ꣡र् अभि꣡ प्र꣡ णोनुमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; repeated line
 द्यु॒म्नैः । अ॒भि । प्र । नो॒नु॒मः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -89,49 +89,49 @@ genre M;; repeated line
 हे अग्ने **दस्यून्** उपक्षपयितॄन् राक्षसादीन् **यः** त्वम् **अवधूनुषे** अवचालयसि स्थानात् प्रच्यावयसि **वृत्रहन्तमं** वृत्राणां पाप्मनाम् अतिशयेन हन्तारं **तमु** **त्वा** तमेव त्वां द्युम्नैरित्यादि पूर्ववत् ॥ वृत्रहन्तमम् । अतिशयेन वृत्रहा वृत्रहन्तमः । पदसंज्ञायां नलोपे ‘नाद्धस्य ' ( पा. सू. ८. २. १७) इति तमपो नुट् । दस्यून् ।' दीर्घादटि समानपादे' इति नकारस्य रुत्वम् । अत्रानुनासिकः पूर्वस्य तु वा ' इति ऊकारः सानुनासिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We praise you repeatedly with commendatory (hymns), who are the destroyer of **Vṛtra**, and who put the **Dasyus** to flight.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And to you, best smasher of obstacles, who send the Dasyus  
 tumbling down,  
 we keep bellowing, with éclat.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The use of the epithet vṛtrahán-, esp. in the superlative, for Agni is of course striking since this is overwhelmingly an Indra descriptor. The name agní- hasn’t yet figured in the hymn, but jā́tavedaḥ in vs. 1 clearly announces him as the recipient of this praise.
 
 As noted above, the second pāda is technically an embedded relative (assuming that nonumaḥ in c governs tvā in a).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee, best of Vrtra-slayers, thee who shakest off our Dasyu foes:  
      We laud thee for thy glories' sake.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (We praise) thee, the greatest destroyer of enemies (or, of Vritra), who hurlest the Dasyus away—we praise thee, such as thou art, aloud with (songs full of) splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, der die meisten Feinde tötet, der du die Dasyu´s abschüttelst. Hellauf schreien wir dir zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja dich, den feindetödtendsten, der du Dämonen von dir stösst, Dich preisen wir mit hellem Sang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя, лучше всех убивающего врагов,  
 (Тебя), кто стряхнул вниз дасью...  

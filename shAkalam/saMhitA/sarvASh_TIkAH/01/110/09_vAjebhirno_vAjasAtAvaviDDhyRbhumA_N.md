@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡जेभिर् नो वा꣡जसाताव् अविड्ढि  
 र्भुमाँ꣡ इन्द्र चित्र꣡म् आ꣡ दर्षि रा꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vājebhir* ← *vājebhiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
@@ -127,7 +127,7 @@ genre M;; repeated line
 हे **इन्द्र** **ऋभुमान्** । ऋभुर्विभ्वा वाज इति त्रयोऽपि ऋभुशब्देनोपचारादत्रोच्यन्ते । तैर्युक्तस्त्वं **वाजसातौ** वाजस्यान्नस्य संभजने निमित्तभूते सति **वाजेभिः** अन्नैः **अविड्ढि** अस्मान् व्याप्नुहि । यद्वा । वाजसातिरिति संग्रामनाम । वाजसातौ संग्रामे वाजेभिर्वेजनयुक्तैरश्वैरविड्ढि  अस्मान् रक्ष । अपि च **चित्रं** चायनीयं **राधः** धनम् **आ** **दर्षि** अस्मभ्यं दातुमाद्रियस्व । तृतीयसवने ऋभुभिः सहेन्द्रस्यावस्थानात् प्रसंगादत्रेन्द्रस्तुतिः । यदेतदस्माभिः प्रार्थितमस्मदीयं **तत्** मित्रादयः **ममहन्तां** पूजयन्ताम् ॥ वाजसातौ ।  ‘ वन षण संभक्तौ । भावे क्तिन् ।  ‘ जनसनखनां सञ्झलोः' इति आत्वम् । वाजानां सातिर्यस्मिन् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अविड्ढि ।  ‘ विष्लृ व्याप्तौ । लोटो हिः ।  ‘ बहुलं छन्दसि ' इति शपो लुक् । ‘हुझल्भ्यो हेर्धिः' । ष्टुत्वजश्त्वे । छन्दस्यपि दृश्यते' (पा. सू. ६. ४. ७३ ) इति दृशिग्रहणात् लोटि अडागमः । यद्वा । अवतेर्लोटि • सिब्बहुलं लेटि ' इति बहुलवचनात् विकरणः सिप् । तस्यार्धधातुकत्वात् इट् ।  ‘ आदेशप्रत्यययोः' इति षत्वम् । धित्वादि पूर्ववत् । ऋभुमान् । 'ह्रस्वनुड्भ्यां मतुप ' इति मतुप उदात्तत्वम् । दर्षि । दृङ् आदरे । लोटि व्यत्ययेन परस्मैपदम् ।  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ genre M;; repeated line
 Alternative: vājebhir no vājasātau aviddhi = protect us in battle with your horses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aid us with prizes at the winning of prizes: o Indra, accompanied by the  R̥bhus, break out bright benefit.  
 – This let Mitra and Varuṇa grant to us, and Aditi, River, and Earth and  Heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again the standard tr. take vájebhiḥ as a proper name.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Help us with strength where spoil is won, O Indra: joined with the Rbhus give us varied bounty.  
      This prayer of ours may Varuna grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Steh uns mit den Vaja´s bei dem Lohngewinn bei: im Verein mit den Ribhu´s schlag uns, o Indra, eine ansehnliche Ehrengabe heraus! - Das sollen uns Mitra, Varuna gewähren, Aditi, Sindhu, Erde und Himmel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Labung hilf uns bei dem Kampf um Labung, mit Ribhu gib uns, Indra, reiche Gabe. Das mög' uns Mitra, Varuna gewähren und Aditi, das Meer, und Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С Ваджами поддержи нас в завоевании награды!  
 Сопровождаемый Рибху, о Индра, раскрой блестящий дар!  

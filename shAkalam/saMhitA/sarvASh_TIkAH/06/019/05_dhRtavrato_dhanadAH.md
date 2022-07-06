@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धृत꣡व्रतो धनदाः꣡ सो꣡मवृद्धः  
 स꣡ हि꣡ वाम꣡स्य व꣡सुनः पुरुक्षुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 समुद्रे꣡ न꣡ सि꣡न्धवो या꣡दमानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सम् । ज॒ग्मि॒रे॒ । प॒थ्याः॑ । रायः॑ । अ॒स्मि॒न् । स॒मु॒द्रे । न । सिन्ध॑वः । याद॑मानाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhṛtavrato* ← *dhṛta* ← *dhṛ*
 - \[verb noun\]
@@ -128,20 +128,20 @@ genre M
 **स** **हि** स खलु इन्द्रः **धृतव्रतः** धृतकर्मा । **धनदाः** स एव धनप्रदः । कीदृशस्य धनस्येत्याकाङ्क्षायामुपसर्जनीभूतस्यापि धनस्य विशेषणे वामस्य वसुन इति । **वामस्य** वननीयस्य **वसुनः** श्रेष्ठस्य । यद्वा वसुनो धनस्य स्वामीति शेषः। **सोमवृद्धः** स एव सोमेन प्रवृद्धः । **पुरुक्षुः** बह्वन्नः स एव । **अस्मिन्** इन्द्रे एव **पथ्याः** स्तोतॄणां हितानि **रायः** धनानि **सं** **जग्मिरे** संगच्छन्ते । तत्र दृष्टान्तः । **सिन्धवः** नद्यः **समुद्रे** **न** यथा समुद्रे **यादमानाः** अभिगच्छन्त्यस्तद्वत् ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In him who is observant of pious rites, who is a giver of wealth, who is exalted by the **Soma**, the (lord) of desirable riches, the distributor of food, (in him) the treasures fit (for his worshippers) congregate like rivers flowing into ocean.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of steadfast commandment, giving spoils, strengthened by soma (is he),  for he is the possessor of much livestock, of goods worth winning.  
 The paths of wealth have joined in him, like the rivers uniting in the sea.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The gen. phrase vāmásya vásunaḥ in b is difficult to construe. Geldner supplies “(Spender)” as its head noun; my tr. assumes that it is a loose genitive specification of the paśú- that is lurking in the -kṣú- in the bahuvrīhi puru-kṣú- ‘possessing much livestock’. This interpr. is suggested by the other occurrence of this gen. phrase in VIII.1.31 utá vāmásya vásunaś ciketati, yó ásti yā́dvaḥ paśúḥ “of the valuable goods what will stand out is the livestock coming from Yadu,” where the vāmá- vásu- is identified as a particular paśú-. But the syntax proposed for our passage is sketchy.
 
@@ -150,23 +150,23 @@ By accent rā́yaḥ should be nom. pl., not, as I have tr. it, gen. sg. As Geld
 In d Geldner suggests a haplology of *samudréṇa ná, with an instr. rather than a loc., as in III.36.7 samudréṇa síndhavo yā́damānāḥ, where he proposes a similar haplology. This is possible, but not nec.: I see no reason why rivers can’t unite in the sea as well as with it. As for III.36.7 see comm. ad loc.; I do not think that a simile particle is necessary there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With steadfast laws, wealth-giver, strong through Soma, he hath much fair and precious food to feed us.  
      In him unite all paths that lead to riches, like rivers that commingle with the ocean.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine Gebote aufrecht haltend, Schätze spendend, somagestärkt - denn der Viehbesitzer ist Spender schönen Gutes - in ihm laufen die Wege des Reichtums zusammen wie die Flüsse, die sich mit dem Ozean vereinigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gestärkt durch Soma, ist er Rechtsbeschirmer und Gutverleiher, schönen Schatzes Spender; Zu ihm hin gehen alle Reichthumspfade, wie zu dem Meere hin die Ströme eilen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твердый в обете, даритель сокровищ, подкрепленный сомой –  
 Ведь этот (бог,) богатый скотом – (наделитель) ценным имуществом –  

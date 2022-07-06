@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ स्तुष इ꣡न्दरं+ तं꣡ गृणीषे  
 य꣡स्मिन् पुरा꣡ वावृधुः꣡ शाशदु꣡श् च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब्रह्मणियतो꣡ नू꣡तनस्य आयोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । वस्वः॑ । काम॑म् । पी॒प॒र॒त् । इ॒या॒नः । ब्र॒ह्म॒ण्य॒तः । नूत॑नस्य । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -125,36 +125,36 @@ genre M
 तमुतमेवेन्द्रंस्तुषेस्तौमि तथातमिन्द्रङ्गृणीषेशंसामि उभयत्रपुरुषव्यत्यय्ः यस्मिन्निन्द्रेपुरापूर्वं स्तो तारोवावृधुःप्रवृद्धाअभवन् शाशदुश्च शत्रून् हिंसितवन्तश्च शदॢशातने लिटि तुजादीनामित्यभ्यासस्य दीर्घः इयानः स्तोतृभिर्याच्यमानः सइन्द्रः ब्रह्मण्यतः स्तोत्रमिच्छतोनूतनस्यायोर्मनुष्यस्ययजमानस्य वस्वः वसुनःकाममभिलाषम्पीपरत् अभिलषितफलदानेनपूरयतु ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I laud that **Indra**, I glorify him, in whom of old (his worshippers) prospered, and overcame (their enemies); may he, when solicited, gratify the desire of wealth of his present pious adorer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I shall praise him—Indra—I shall sing to him, alongside whom long ago  they grew strong and exulted.  
 Being implored, he carries to success the desire for the good thing, (that  desire) of the present Āyu creating (these) poetic formulations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With laud and song let me extol that Indra in whom of old men prospered and were mighty.  
      May he, implored, fulfil the prayer for plenty of him who worships, of the living mortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Indra will ich preisen und loben, an dem sie vordem ihre Stärke und Zuversicht hatten. Er möge, darum gebeten, auch des jüngsten segensprechenden Ayu´s Wunsch nach Gut erfüllen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diesen Indra lob' ich und besing' ich, an dem auch sonst man sich erfreut, erquickt hat; Auch heute noch erfüllt den Wunsch nach Gütern dem frommen Mann er, wenn er angefleht wird.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Того Индру я хочу восхвалить, того – воспеть,  
 У кого раньше усиливались и крепли (благочестивые мужи).  

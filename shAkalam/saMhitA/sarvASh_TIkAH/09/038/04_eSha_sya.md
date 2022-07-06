@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्य꣡ मा꣡नुषीषु आ꣡  
 श्येनो꣡ न꣡ विक्षु꣡ सीदति  
 ग꣡छञ् जारो꣡ न꣡ योषि꣡तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गच्छ॑न् । जा॒रः । न । यो॒षित॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -91,40 +91,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **स्यः** सः **एषः** सोमः **मानुषीषु** **विक्षु** प्रजासु यजमानरूपास्वनुग्रहेण **आ** **सीदति** **श्येनो** **न** श्येन इव । पुनः क इव । **योषितं** **गच्छन्** अभिगच्छन् **जारो** **न** जार इव । यथा संकेतितस्तस्याः कामपूरणाय गूढो गच्छति तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That **Soma** sits down among human beings like a falcon, hastening as a gallant to his mistress.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This very one settles among the human clans like a falcon (on a nest), going like a swain to a maiden.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It may be that the adj. mā́nuṣa- here should be rendered more restrictively as “stemming from Manu,” referring to only those clans that participate in Ārya sacrificial culture.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He like a falcon settles down amid the families of men.  
      Speeding like lover to his love.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Derselbige läßt sich in den menschlichen Ansiedelungen nieder wie ein Falke im Nest, wie ein Buhle, der zur jungen Frau geht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und er gleich einem Adler setzt sich auf der Menschen Häuser hin, geht wie der Bräutigam zur Braut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

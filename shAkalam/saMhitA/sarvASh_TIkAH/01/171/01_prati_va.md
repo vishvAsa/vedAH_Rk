@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति व एना꣡ न꣡मसाह꣡म् एमि  
 सूक्ते꣡न भिक्षे सुमतिं꣡ तुरा꣡णाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ हे꣡ळो धत्त꣡ वि꣡ मुचध्वम् अ꣡श्वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 र॒रा॒णता॑ । म॒रु॒तः॒ । वे॒द्याभिः॑ । नि । हेळः॑ । ध॒त्त । वि । मु॒च॒ध्व॒म् । अश्वा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -121,7 +121,7 @@ genre M
 .हे मरुतः **वः** युष्मान् **अहं** **प्रति** **एमि** अभिगच्छामि । केन साधनेन । **नमसा** नमस्कारेण हविषा वा । नम इत्यन्ननाम । तथा **सूक्तेन** शोभनवचनेन स्तुतिरूपेण । **तुराणां** त्वरमाणानां शत्रूणां हिंसकानां वा युष्माकं **सुमतिं** शोभनमतिम् अनुग्रहबुद्धिं **भिक्षे** याचे । इन्द्रस्यैव पुनर्हविष्प्रदानादिदं याच्यते । किंच हे **मरुतः** यूयं **वेद्याभिः** वेदितव्याभिः स्तुतिभिः **रराणता** रममाणेन मनसा इत्थंभूताः सन्तः **हेळ:** । क्रोधनामैतत् । क्रोधं युष्मदभिक्रमजनितं **नि** **धत्त** निकृष्टं धारयत त्यजतेत्यर्थः । तथा **अश्वान्** **वि** **मुचध्वम्** रथेभ्यो वियोजयत । क्रोधात् पुनर्गमनं मा कुरुतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,28 +132,28 @@ genre M
 I.e. take the horses out of your car, that you may not come back to the sacrifice in anger
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agastya:] I come before you with this, my reverence. With my hymn  I beg the favor of you overpowering ones. Through your generosity and knowing ways, o Maruts, put aside your  anger! Unhitch your horses!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To you I come with this mine adoration, and with a hymn I crave the Strong Ones' favour  
      A hymn that truly makes you joyful, Maruts. Suppress your anger and unyoke your horses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dieser Verbeugung wende ich mich an euch, mit schönem Liede bitte ich um Gnade der Mächtigen. Leget bereitwillig und wissentlich den Groll ab, ihr Marut! Spannet die Rosse aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit dieser frommen Bitte komm' ich zu euch, der Raschen Gunst erfleh' ich mit dem Liede; Ergötzet euch, o Maruts, nach Belieben, legt ab den Zorn und löset eure Rosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я иду к вам (вот) так, с поклоном.  
 Гимном я испрашиваю благоволения доблестных,  

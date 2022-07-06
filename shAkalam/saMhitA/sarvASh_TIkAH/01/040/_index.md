@@ -13,7 +13,7 @@ title = "+040"
 इत्येतामुक्त्वावतिष्ठते ' ( आश्व. श्रौ. ४. ७) इति सूत्रितत्वात् ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 40  
 Brahmaṇaspati  
@@ -23,7 +23,7 @@ Brahmaṇaspati, “Lord of the Sacred Formulation,” is addressed in this hymn
 The test comes in the following pragātha (vss. 5–6):  the new mantra under  the patronage of Brahmaṇaspati is pronounced both by Brahmaṇaspati and by  the human actors at the ritual. If it is a properly formulated mantra, it will bring  the desired success. Judging from the final pragātha (vss. 7–8), ritual success was  achieved, and this success is expressed in strikingly sexual terms: both the patron’s  dwelling place and his power to rule are infused with productive sexuality (vss. 7d,  8a). He also gains the gods as his allies (8a), and, most surprising of all, becomes  identified as the god Indra himself (8cd), via the very last word in the hymn, vajrín “wielder of the mace,” a qualifier otherwise only of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Brahmaṇaspati
 </details>

@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् अग्ने म꣡न्यसे रयिं꣡  
 स꣡हसावन्न् अमर्तिय  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 तम् । आ । नः॒ । वाज॑ऽसातये । वि । वः॒ । मदे॑ । य॒ज्ञेषु॑ । चि॒त्रम् । आ । भ॒र॒ । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -127,14 +127,14 @@ genre M;; repeated line
 हे **अमर्त्य** अमरणधर्मन् **सहसावन्** बलवन् एवंभूत हे **अग्ने** त्वं **यं** **रयिं** **मन्यसे** सर्वेषु धनेषु यद्धनं वरिष्ठमिति जानासि **चित्रं** चायनीयं **तं** रयिं **नः** अस्माकं **वाजसातये** अन्नलाभाय **आ** **भर** आहर प्रयच्छ । किमर्थम् । **वः** युष्माकं सर्वेषां देवानां **यज्ञेषु** **विमदे** विविधसोमादिहविर्जन्यमदनिमित्ते । यागेषु नानाप्रकारैर्हविर्भिर्युष्माकं तर्पणायेत्यर्थः । त्वमपि **विवक्षसे** महान् भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Powerful and immortal **Agni**, bring to us, for our sustenance, the precious wealth which you think best;(bring it) for your exhilaration at the sacrifices; you are mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever wealth you hold in regard, o Agni, you overpowering  
 immortal,  
@@ -142,23 +142,23 @@ bring that here for us to win the prize, the bright (wealth) here to the  sacrif
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, what thou deemest wealth, Victorious and Immortal One!  
      Bring thou to give us vigour,-at your glad carouse -splendid at sacrifices. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welchen Reichtum du für gut erachtest, du überlegener Unsterblicher, den bring uns zur Belohnung bei den Opfern, den ansehnlichen - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Gut, was, Agni, dir beliebt, o mächtiger, unsterblicher, Das bringe zur Erlangung uns bei Opfern her, das glänzende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что, о Агни, ты считаешь богатством,  
 О могущественный, бессмертный,  

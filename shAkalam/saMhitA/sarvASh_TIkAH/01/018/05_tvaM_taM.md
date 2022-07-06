@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ त꣡म् ब्रह्मणस् पते  
 सो꣡म इ꣡न्द्रश् च म꣡र्तियम्  
 द꣡क्षिणा पातु अं꣡हसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दक्षि॑णा । पा॒तु॒ । अंह॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -88,36 +88,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **ब्रह्मणस्पते** **त्वं** **तं** **मर्त्यम्** अनुष्ठातारं मनुष्यम् **अंहसः** पापात् पाहीति शेषः । तथा **सोमः** **पातु** **इन्द्रश्च** पातु दक्षिणाख्या देवता च पातु ॥ दक्षिणा । दक्ष वृद्धौ' । ‘द्रुदक्षिभ्यामिनन् (उ. सू. २. २०८ )। नित्त्वादाद्युदात्तः । अंहसः । ‘नब्विषयस्य' इत्यादिनाद्युदात्तः । ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Brahmaṇaspati**, and do you, **Soma**, **Indra** and **Dakṣiṇā** (= present person nified as a feminine le divinity), protect that man from sin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Lord of the Sacred Formulation, (protect) him; let Soma and Indra  (protect) the mortal:  
 Let the Priestly Gift protect (him) from difficult straits.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do, thou, O Brahmanaspati, and Indra, Soma, Daksina,  
      Preserve that mortal from distress.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Brahmanaspati, Soma und Indra und die Daksina sollen den Sterblichen vor Not schützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Mann, o du Gebetesherr, und Soma, Indra schützt vor Noth, Und Dakschina beschütze ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Брахманаспати,  
 Сома и Индра, Дакшина,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यं स्तोका꣡ घृतश्चु꣡तो  
 अ꣡ग्ने वि꣡प्राय सन्तिय  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यज्ञ꣡स्य प्राविता꣡ भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ऋषिः॑ । श्रेष्ठः॑ । सम् । इ॒ध्य॒से॒ । य॒ज्ञस्य॑ । प्र॒ऽअ॒वि॒ता । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -97,41 +97,41 @@ genre M
 **सन्त्य** यष्टृभिः संभजनीय यद्वा यष्टृभ्यः फलप्रद हे अग्ने **विप्राय** मेधाविने **तुभ्यं** त्वदर्थं **घृतश्रुतः** घृतक्षरणयुक्ताः स्तोकाः सन्ति । **ऋषिः** अतीन्द्रियार्थदर्शी अत एव **श्रेष्ठः** सर्वातिशायी त्वं समिध्यसे घृतयुक्तमेदोबिन्दुभिः सम्यक् प्रज्वल्यसे । स त्वं **यज्ञस्य** अस्माभिः क्रियमाणस्य पशुयागस्य **प्राविता** प्रकर्षेण पालकः **भव** ॥ तुभ्यम् । युष्मच्छब्दस्य ङयि ' तुभ्यमह्यौ ङयि ' (पा. सू. ७. २. ९५ ) इति तुभ्यादेशः ।  ‘ ङेप्रथमयोरम्' इति ङेरमादेशः ।  ‘ ङयि च ' इति आद्युदात्तत्वम् । सन्त्य ।  ‘षण संभक्तौ'; ‘षणु दाने' वा । क्तिच्क्तौ च संज्ञायाम्' इति क्तिच् । न क्तिचि दीर्घश्च' इति दीर्घनलोपाभावः । सन्तौ भवः भवे छन्दसि' इति तत्र साधुः' इति वा यत्प्रत्ययः । यस्येति लोपः। आमन्त्रितत्वान्निघातः। इध्यसे । 'ञिइन्धी दीप्तौ' । कर्मणि यक् । कित्त्वादनुनासिकलोपः । निघातः। प्राविता । अव रक्षणादिषु । तृचि रूपम् । समासस्वरः । भव । निघातः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The drops (of the marrow) dripping with butter are offered, **Agni**, to you who are wise; you the most excellent ṛṣi are kindled; be the protector of the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, the inspired poet, o Agni, are the drops dripping with ghee, o  companion.  
 As the best seer you are kindled. Become the helper of our sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, Most Excellent! for thee the Sage are drops that drip with oil.  
      Thou art enkindled as the best of Seers. Help thou the sacrifice.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 To thee, the priest, O Agni, (belong) the drops dripping with ghee, O good one! Thou art kindled as the best Rishi. Be a furtherer of our sacrifice!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich sind die schmalztriefenden Tropfen, wahrhafter Agni, für den Redegewandten. Als bester Rishi wirst du entzündet; sei Förderer des Opfers.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein, Agni, guter Sänger, sind die butterreichen Tropfen hier, als bester Dichter du entflammt, sei unsres Opfers Förderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это для тебя – сочащиеся маслом капли,  
 О Агни, для вдохновенного, о истинный!  

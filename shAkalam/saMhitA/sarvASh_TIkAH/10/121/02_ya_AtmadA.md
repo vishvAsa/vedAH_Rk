@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ आत्मदा꣡ बलदा꣡ य꣡स्य वि꣡श्व  
 उपा꣡सते प्रशि꣡षं य꣡स्य देवाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡स्मै देवा꣡य हवि꣡षा विधेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 यस्य॑ । छा॒या । अ॒मृत॑म् । यस्य॑ । मृ॒त्युः । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -128,7 +128,7 @@ popular;; repeated line
 **यः** प्रजापतिः **आत्मदाः** आत्मनां दाता । आत्मानो हि सर्वे तस्मात् परमात्मन उत्पद्यन्ते । यथाग्नेः सकाशाद्विस्फुलिङ्गा जायन्ते तद्वत् । यद्वा आत्मनां शोधयिता । दैप् शोधने ' ।  ‘ आतो मनिन्  इति विच् । **बलदाः** बलस्य च दाता शोधयिता वा । **यस्य** च **प्रशिषं** प्रकृष्टं शासनमाज्ञां **विश्वे** सर्वे प्राणिनः **उपासते** प्रार्थयन्ते सेवन्ते वा ।  ‘ शासु अनुशिष्टौ ।  ‘ शास इत्°  ( पा. सू. ६.४.३४ ) इत्युपधाया इत्वम् । शासिवसिघसीनां च ' इति षत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । आसेरनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः ।  ‘ तिङि चोदात्तवति ' इति गतिरनुदात्ता । तथा **देवाः** अपि **यस्य** प्रशासनमुपासते । अपि च **अमृतम्** अमृतत्वम् । भावप्रधानो निर्देशः । यद्वा । अमृतम् । मरणं नास्त्यस्मिन्नित्यमृतं सुधा। बहुव्रीहौ  ‘ नञो जरमरमित्रमृताः' इत्युत्तरपदाद्युदात्तत्वम् । तदपि **यस्य** प्रजापतेः **छाया** छायेव वर्ति भवति । **मृत्युः** यमश्च प्राणापहारी छायेव भवति । तस्मै **कस्मै** **देवाय** इत्यादि समानं पूर्वेण **हविषा** पुरोडाशात्मनेति तु विशेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ The giver of soul: as all spirit proceeds from him;
 Ātmadā = giver of himself, i.e., combing with his ownspiritual being that of his worshippers: **Yajus**. 25.13
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is the giver of breath, the giver of strength; whose command all  honor, whose command the gods honor;  
 whose shadow is immortality, whose shadow is death— – Who is the god  to whom we should do homage with our oblation?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Giver of vital breath, of power and vigour, he whose commandments all the Gods acknowledge -.  
      The Lord of death, whose shade is life immortal. What God shall we adore with our oblation?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Leben und Kraft gibt, des Weisung alle, des Weisung die Götter harren, des Schattenbild Unsterblichkeit und Tod sind. - Wer ist der Gott, dem wir mit Opfer dienen sollen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Odem gibt und Kraft, und dessen Weisung die Wesen alle, auch die Götter achten, Dess Schattenbild Unsterblichkeit und Tod ist, wem sollen wir als Gott mit Opfer dienen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто дает жизнь, дает силу, чей приказ  
 Все признают, чей (приказ признают) боги,  

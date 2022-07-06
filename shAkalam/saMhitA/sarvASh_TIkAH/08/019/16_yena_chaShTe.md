@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡न च꣡ष्टे व꣡रुणो मित्रो꣡ अर्यमा꣡  
 ये꣡न ना꣡सतिया भ꣡गः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 इ꣡न्द्रत्वोता विधेमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒यम् । तत् । ते॒ । शव॑सा । गा॒तु॒वित्ऽत॑माः । इन्द्र॑त्वाऽऊताः । वि॒धे॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
@@ -113,20 +113,20 @@ genre M
 **येन** आग्नेयेन तेजसा **वरुणः** देवः **चष्टे** प्रकाशयति । येन च **मित्रः** **अर्यमा** च चष्टे । **येन** च **नासत्या** अश्विनौ च चक्षाते । **भगः** भजनीय एतत्संज्ञो देवश्च चष्टे । **शवसा** बलेन **गातुवित्तमाः** गातोर्गातव्यस्य स्तोत्रस्य ज्ञातृतमाः । यद्वा । गन्तव्यस्य प्राप्तव्यस्य लब्धृतमाः ॥ **इन्द्रत्वोताः** इन्द्रेणेश्वरेण त्वयोता रक्षिताः सन्तः **वयं** हे अग्ने **ते** त्वदीयं **तत्** तेजः **विधेमहि** परिचरेमहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Protected by **Indra**, well-knowing the path that through your power, (**Agni**), we should follow, we adorethat (radiance) of you, by which **Varuṇa**, **Mitra**, **Aryaman**, the **Nāsatyās**, and **Bhaga** shine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The brilliance) by which Varuṇa, Mitra, and Aryaman see, by which  the Nāsatyas and Bhaga,  
 in that (brilliance) of yours might we receive ritual shares, (becoming)  the best pathfinders by your power, helped (also) by you, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take cáṣṭe here as ‘appears’, but this sense is otherwise not found for this stem, and I see no reason why the gods are not seeing by means of the illumination (dyumná-) that Agni provides. (Geldner allows for the possibility of ‘sieht’ in n. 16a.) It is the same illumination that we wish to acquire, in order to become the best path-finders (gātuvíttama-), presumably since it’s impossible to find one’s way in the dark. My interpr. of vidhemahi reflects this desire for acquistion and differs from the standard rendering ‘honor, do reverence to’ (so Geldner/Renou). My interpr. depends first on the analysis of √vidh as historically derived from ví √dhā ‘divide, ritually distribute’ (see EWA II.555-56) and further on the observation that our form is the only real medial form to this secondary root (vidhanta in III.3.1 is an -anta replacement).
 
@@ -135,23 +135,23 @@ While act. vidhéma, etc., means “may we distribute ritual shares (à do honor
 There is some phonetic play between the pāda-final (gātu-)víttamā(ḥ) and vidhemahi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That, wherewith Mitra, Varuna, and Aryaman, the Asvins, Bhaga give us light,  
      That may we, by thy power finding best furtherance, worship, O Indra, helped by thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deinen Glanz, in dem Varuna, Mitra, Aryaman, in dem die Nasatya´s, Bhaga erscheinen, diesen wollen wir verehren, die durch deine Macht die besten Pfadfinder sind, von dir, Indra, unterstützt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kraft, durch die Varuna, Mitra, Arjaman, die Ritter, Bhaga, herrlich sind, Durch Indra's Hülfe mögen wir erlangen sie, durch deine Kraft auf freister Bahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот блеск,) благодаря которому является Варуна, Митра, Арьяман,  
 Благодаря которому – Насатьи, Бхага!  

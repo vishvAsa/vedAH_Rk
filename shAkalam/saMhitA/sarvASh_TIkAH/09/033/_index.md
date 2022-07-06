@@ -8,7 +8,7 @@ title = "+033"
 ‘प्र सोमासः' इति षडृचं नवमं सूक्तं त्रितस्यार्षं गायत्रं पवमानसोमदेवताकम् । ‘प्र सोमासस्त्रितः ' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 33 (745)  
 Soma Pavamāna  

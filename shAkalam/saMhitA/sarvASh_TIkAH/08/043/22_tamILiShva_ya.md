@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ईळिष्व य꣡ आ꣡हुतो  
 अग्नि꣡र् विभ्रा꣡जते घृतइः꣡  
 इमं꣡ नः शृणवद् ध꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इ॒मम् । नः॒ । शृ॒ण॒व॒त् । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** **अग्निः** **घृतैः** सह 'आहुतः **विभ्राजते** यश्च **नः** अस्माकम् **इमं** **हवम्** आह्वानं **शृणवत्** शृणोति **तम्** अग्निम् **ईळिष्व** स्तुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adore that **Agni** who shines brightly when fed with offerings of butter, who hears this our invocation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Reverently invoke him, Agni who flashes forth when bepoured with  (streams of) ghee.  
 He will listen to this call of ours.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pray thou to Agni, pray to him who blazes served with sacred oil:  
      Let him give ear to this our call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Agni berufe, der mit Schmalz begossen erstrahlt: er höre auf diesen Ruf von uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni preise, welcher stets, mit Schmalz beträufelt, hell erstrahlt; Er höre diesen unsern Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зови того Агни, который, когда полит (жиром),  
 Ярко светит от капель жира!  

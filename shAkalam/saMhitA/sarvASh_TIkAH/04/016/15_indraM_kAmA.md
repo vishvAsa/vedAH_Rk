@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं का꣡मा · वसूय꣡न्तो अग्मन्  
 सु꣡वर्मीळ्हे न꣡ स꣡वने चकानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ओ꣡को न꣡ रण्वा꣡ सुदृ꣡शीव पुष्टिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 श्र॒व॒स्यवः॑ । श॒श॒मा॒नासः॑ । उ॒क्थैः । ओकः॑ । न । र॒ण्वा । सु॒दृशी॑ऽइव । पु॒ष्टिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -114,7 +114,7 @@ genre M
 **कामाः** राक्षसादिभयनिवारणार्थमिन्द्रं कामयमानाः **वसूयन्तः** पश्वादिधनमिच्छन्तः स्तोतारः **इन्द्रं** परमैश्वर्ययुक्तम् **अग्मन्** अगमन् गच्छन्ति ॥ वर्तमानेऽर्थे छान्दसो लुङ् ॥ कीदृशाः स्तोतारः । **स्वर्मीळ्हे** **न** युद्धे इव **सवने** यज्ञे **चकानाः** याचमानाः **श्रवस्यवः** अन्नकामाः **उक्थैः** स्तोत्रैः **शशमानासः** शंसमानाः स्तुवन्तः । तदा सोऽयमिन्द्रः **ओको** **न** स्तोतॄणामावास इव भवति । **रण्वा** रमणीया **सुदृशीव** **पुष्टिः** शोभनदर्शना लक्ष्मीरिव भवति ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ genre M
 I.e. goddess **Lakṣmī**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Indra have desires gone seeking goods, taking their pleasure at the  soma-pressing as if at a (contest) having the sun as its prize,  
 (desires) seeking fame, laboring with hymns, delightful like a home, like  prosperity beautiful to see.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile in b, svàrmīḷhe ná “as if at (a contest) with the sun as its prize,” provides a transition from the sun-winning myth of Indra and Kutsa, which occupied the previous few vss., and this more general final section of the hymn.
 
@@ -140,23 +140,23 @@ The desires (kā́māḥ) that are the grammatical subject of this vs. -- namely
 Pace Oldenberg, ókaḥ in d is most likely not an acc. goal to be construed with agman in a (though this might be a possible secondary reading), but a nominative -- on the basis of a web of formulaic associations with raṇvá- ‘delightful’. Cf. I.66.3 óko ná raṇváḥ “(Agni) delightful like a home”; also I.69.4-5 raṇvó duroṇé “a joy in the house,” X.64.11 [=I.144.7] raṇváḥ … iva kṣáyaḥ “delightful … like a dwelling,” X.33.6 kṣétraṃ ná raṇvám “delightful like a dwelling place.” The problem in our passage is that raṇvā́(the only possible underlying form given its sandhi context) cannot technically modify neut. ókaḥ, despite the formulaics just discussed. The solution, as Geldner saw (n. 15d), is that nom. sg. fem. raṇvā́also participates in the second simile in this pāda, sudṛ́ṣīva puṣṭíḥ “like prosperity beautiful to see” -- with which raṇvá- also has formulaic associations. Cf. I.65.5 puṣṭír ná raṇvā́“like thriving that brings delight” (immediately followed by kṣitíḥ ‘dwelling place’) and II.4.4 raṇvā́… iva puṣṭíḥ ‘id.’. Of course, both similes provide comparisons to the desires that are the ultimate subject, with raṇvā́as the pivotal tert. comp. in both -- though it does not match kā́māḥ in gender or number.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wishes for wealth have gone to Indra, longing for him in war for light and at libation,  
      Eager for glory, labouring with praisesongs: he is like home, like sweet and fair nutrition.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Indra sind Gutes verlangend die Wünsche gekommen, an der Somaspende wie an der Schlacht ihre Freude habend, Ruhm suchend, diensteifrig mit Preisliedern, erfreulich wie das Heim, wie der schön zu schauende Wohlstand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Indra kamen Wünschende begehrend, das Opfer liebend wie des Glücks Erlangung, Nach Gut verlangend, sich mit Sprüchen mühend, wie liebe Heimat, wie willkommne Nahrung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Индре пришли (люди), испытывающие желания, стремящиеся к благам,  
 Находящие удовольствие в выжимании, как в битве за солнце,  

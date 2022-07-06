@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ तू꣡ गहि प्र꣡ तु꣡ द्रव  
 म꣡त्स्वा सुत꣡स्य गो꣡मतः  
 त꣡न्तुं तनुष्व पूर्वियं꣡ य꣡था विदे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 तन्तु॑म् । त॒नु॒ष्व॒ । पू॒र्व्यम् । यथा॑ । वि॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -102,41 +102,41 @@ genre M;; line affected by realignment
 हे इन्द्र **तु** क्षिप्रम् **आ** **गहि** आगच्छ । आगत्य च **तु** क्षिप्रं **प्र** **द्रव** । सोमो यत्र निवसति तं देशं प्रति शीघ्रं गच्छ । गत्वा च **गोमतः** गोविकारैः पयःप्रभृतिभिः श्रयणद्रव्यैर्युक्तस्य **सुतस्य** अभिषुतस्य सोमस्य पानेन **मत्स्व** माद्य हृष्टो भव। तदनन्तरं **यथा** अहं **विदे** उपलभे तथा **पूर्व्यं** पूर्वैः कृतं **तन्तुं** विस्तृतं यज्ञं **तनुष्व** सम्यङ्निष्पादय । फलोत्पादनसमर्थं कुर्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come quickly; hasten, be exhilarated by the libation mixed with milk; extend the ancient sacrifice, sothat I may obtain (its reward).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here! Run forth! Take the exhilaration of the pressed (soma)  accompanied by cows.  
 Stretch the ancient thread in the way that is known.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although Geldner interprets the stretching of the thread as a metaphorical expression for the continuation of old relationships, it seems far more likely that it reflects the normal idiom “stretch the thread” for setting up and performing the sacrifice. See vs. 18b devā́so yajñám atnata. “The way that is known” means the standard procedure. That Indra is being urged to do this, rather than the sacrificers, might be a little odd, but see, in fact, 18b just cited, as well as 30c mímīte yajñám.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Speed forward hither, come to us, rejoice thee in the milky draught:  
      Spin out the thread of ancient time, as well is known.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm doch her, beeile dich doch, berausche dich am milchgemischten Soma, spann den altgewohnten Faden, wie bekannt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O komm doch her, o eile doch, und trink vom milchgemischten Saft; Den alten Faden webe fort nach deiner Art.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай же, примчись!  
 Опьяняйся сомой, смешанным с молоком!  

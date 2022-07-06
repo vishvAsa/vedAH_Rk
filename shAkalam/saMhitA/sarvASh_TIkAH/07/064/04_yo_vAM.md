@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वां ग꣡र्तम् म꣡नसा त꣡क्षद् एत꣡म्  
 ऊर्ध्वां꣡ धीतिं꣡ कृण꣡वद् धार꣡यच् च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ राजाना सुक्षिती꣡स् तर्पयेथाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒क्षेथा॑म् । मि॒त्रा॒व॒रु॒णा॒ । घृ॒तेन॑ । ता । रा॒जा॒ना॒ । सु॒ऽक्षि॒तीः । त॒र्प॒ये॒था॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -130,36 +130,36 @@ genre M
 हे मित्रावरुणौ **यः** **वां** युवयोः **एतं** **गर्तं** रथं **मनसा** **तक्षत्** स्तोमेन संकल्पयेत् तथा कृत्वा **ऊर्ध्वाम्** उन्नतां **धीतिं** कर्म स्तुतिरूपं **कृणवत्** कुर्यात् उच्चैः स्तुयात् एवं कृत्वा **धारयच्च** यागे धारयेत् हे **राजाना** स्वामिनौ **मित्रावरुणा** मित्रावरुणौ **ता** तौ युवां जनं **घृतेन** उदकेन **उक्षेथां** सिञ्चतम् । तस्मै **सुक्षितीः** शोभननिवासाः प्रजाः **तर्पयेथाम्** । यथा सुक्षितयो भवन्ति तथा तर्पयेथामिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Mitra** and **Varuṇa**, bedew with water him who fabricates your chariot in his mind, offering high praise,the people well affected towards him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who will fashion for you two this chariot seat by his thought and who  will make and sustain a high vision—  
 sprinkle him with ghee, Mitra and Varuṇa. Bring satisfaction to our  good dwellings, o kings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who hath wrought for you this car in spirit, who makes the song rise upward and sustains it,  
      Bedew with fatness, Varuna nd Mitra ye Kings, make glad the pleasant dwelling-places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer euch im Geiste diesen Hochsitz zimmert, wer das Gedicht emporrichten und festmachen wird, den besprenget mit Schmalz und tränket die schönen Fluren, ihr Könige Mitra und Varuna!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer euch im Herzen diesen Thron bereitet, die Andacht aufwärts richtet und bewahret, Den netzt mit Fett, o Varuna und Mitra; erquickt, o Herrscher, uns die sicher wohnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто мыслью вытешет вам этот трон,  
 Создаст устремленное вверх произведение и удержит (его),  

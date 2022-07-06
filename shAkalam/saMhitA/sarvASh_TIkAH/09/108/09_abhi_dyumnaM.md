@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ द्युम्न꣡म् बृह꣡द् य꣡श  
 इ꣡षस् पते दिदीहि꣡ देव देवयुः꣡  
 वि꣡ को꣡शम् मध्यमं꣡ युव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वि । कोश॑म् । म॒ध्य॒मम् । यु॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -96,20 +96,20 @@ genre M
 हे **इषस्पते** अन्नस्य पते हे **देव** स्तोतव्य सोम **देवयुः** देवकामस्त्वं **द्युम्नं** द्योतमानं **बृहत्** प्रभूतं **यशः** अन्नमस्मभ्यम् **अभि** **दिदीहि** आभिमुख्येन प्रकाशय। प्रयच्छेत्यर्थः । आमन्त्रितस्याविद्यमानवत्त्वेन पादादित्वादनिघातः । किंच **मध्यमम्** अन्तरिक्षस्थितं **कोशं** मेघं **वि** **युव** वृष्ट्यर्थं विगमय विश्लेषय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine (**Soma**) lord of viands, who are devoted to the gods, bestow upon us brilliant and abundant food; separate the mid-aerial receptacle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Illuminate lofty splendor and glory, o lord of refreshment, as you seek  the gods, o god.  
 Unleash the middle bucket [=rain cloud].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The impv. didīhí in b is accented because it follows the pāda-init. complex voc. phrase íṣas pate. On the impv. and its twin dīdihí with switched quantity, see Oldenberg ad loc. The well-attested redupl. formation(s) to √dī, a perfect transitioning to a redupl. pres. (see, e.g., my “The Vedic Perfect Imperative” [Fs. Lubotsky, 2018]: 58- 59), show a long ī in the root syllable only in the impv. didīhí (1x accented, 11x unacc.); the weak forms otherwise show only dīdi-, incl. the competing impv. dīdihí (1x accented, 17x unacc.). They are mostly distributed metrically: dīdihi is found almost exclusively in final position in a Jagatī or iambic dimeter line; didīhi regularly takes final position in a Triṣṭubh line. But a few examples of both forms are found in metrically unfavorable places. E.g., in VIII.60.6 dīdihi occurs after a 5-syl. opening; although HEAVY LIGHT is an attested break, LIGHT LIGHT (*didihi, to an unattested stem form) would be better. Likewise, our form, found after a 4-syl. opening, presents an unusual L H L break, though neither *dīdihi nor *didihi would give the most favored break. (Oldenberg states that we would expect *dīdihi here, but does not suggest emending because there are several other exx. of L H L breaks in this hymn.) It is also worth noting that didīhi is found several times in the curious phrase … sám íṣo didīhi (naḥ)# “illuminate our refreshments entirely” (III.3.7, 54.22, V.4.2), and our passage contains the voc. íṣas pate “o lord of refreshment,” so that the presence of íṣaḥ may have triggered the didīhi variant here. As for the source of the variation, it’s possible that transposing the Jagatī/iambic-final dīdihi into a Triṣṭubh cadence may have led to an almost mechanical balancing of quantities (on the model of alternations like vavardh- / vāvṛdh-), and then both forms were sometimes used outside of their original places (including didīhi in Jagatī/iambic cadences, with the addition of final naḥ [III.3.7, V.25.2]), though this seems too convenient an explanation.
 
@@ -128,23 +128,23 @@ These two vss. are syntactically independent but linked by the theme of rain.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make splendid glory shine on us, thou Lord of strengthening food, God, as the Friend of Gods:  
      Unclose the fount of middle air.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Leuchte du zu hohem Glanz und Ruhme, Herr der Labung, o Gott, nach den Göttern verlangend! Entleere die mittlere Kufe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Herr des Trankes, strahle her, die Götter liebend, Gut und grossen Glanz, o Gott, Den mittlern Schlauch eröffne uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воссвети высокий блеск, великолепие,  
 О господин жертвенной услады, о бог, преданный богам!  

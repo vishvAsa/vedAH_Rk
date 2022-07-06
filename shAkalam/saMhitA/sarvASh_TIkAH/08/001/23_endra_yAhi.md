@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ इन्द्र याहि म꣡त्सुव  
 चित्रे꣡ण देव रा꣡धसा  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ सो꣡मेभिर् उरु꣡ स्फिर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सरः॑ । न । प्रा॒सि॒ । उ॒दर॑म् । सपी॑तिऽभिः । आ । सोमे॑भिः । उ॒रु । स्फि॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *endra* ← *ā*
 - \[adverb\]
@@ -115,36 +115,36 @@ genre M
 हे **इन्द्र** **आ** **याहि** आगच्छ । हे **देव** द्योतमान **चित्रेण** दर्शनीयेन **राधसा** धनेन सोमलक्षणेन **मत्स्व** माद्य । **सपीतिभिः** मरुद्भिः सह पीयमानैः **सोमेभिः** सोमैः **उरु** विस्तीर्णं **स्फिरं** वृद्धम् **उदरम्** आत्मीयं जठरं **सरो** **न** सर इव **आ** **प्रासि** आपूरय । ‘प्रा पूरणे' । आदादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come here, **Indra**, be exhilarated by the wonderful (libatory) affluence and with your fellow-troopers (theMaruts) fill with the **Soma** your vast belly, capacious as a lake,”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here, Indra—find your invigoration (here)—together with your  bright bounty, o god.  
 Fill your belly, like a lake, broad and fat with soma juices drunk in  common.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Indra, and rejoice thyself, O God, in manifold affluence.  
      Thou fillest like a lake thy vast capacious bulk with Soma and with draughts besides.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm her, Indra, - berausche dich - mit prächtiger Gabe, o Gott! Wie einen See fülle mit dem gemeinsam getrunkenen Soma deinen breiten dicken Bauch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her mit mannichfachem Schatz, o Indra, Gott, berausche dich; Du füllst den weiten, feisten Bauch wie einen Teich mit tränkereichen Säften an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди, о Индра, – опьяняйся –  
 С блистательным даром, о бог!  

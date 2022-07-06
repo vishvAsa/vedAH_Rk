@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गिरा꣡ व꣡ज्रो न꣡ स꣡म्भृतः  
 स꣡बलो अ꣡नपच्युतः  
 ववक्ष꣡ ऋष्वो꣡ अ꣡स्तृतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 व॒व॒क्षे । ऋ॒ष्वः । अस्तृ॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **गिरा** स्तुतिलक्षणया वाचा स्तोतृभिः **संभृतः** उत्पादितस्तीक्ष्णीकृतः । तत्र दृष्टान्तः । **वज्रो** **न** । वज्र आयुधम् । तत्कर्तृभिर्निशितधारो यथा भवति तीक्ष्णीक्रियते तद्वत् स्तोतृभिः स्तुत्या संभृतोऽत एव **सबलः** बलसहितस्तस्मात् **अनपच्युतः** परैरप्रच्युतः । अनभिगत इत्यर्थः । तादृशः **ऋष्वः** महान् दीप्यमानो वा **अस्तृतः** युद्धे शत्रुभिरहिंसित इन्द्रः **ववक्षे** स्तोतृभ्यो धनादिकं वोढुमिच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,28 +98,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Ṛṣvaḥ = **ugraḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a mace equipped with a hymn, powerful, not to be budged, he has waxed high, not to be laid low.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By song as 'twere, the powerful bolt which none may parry was prepared  
      Lofty, invincible he grew.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie seine Keule durch die Lobrede instand gesetzt, ist er kräftig, unentwegt, übergroß, unüberwindlich herangewachsen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Sang bereitet wie der Blitz, voll Kraft und unerschütterlich, Erstand der hohe, unbesiegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

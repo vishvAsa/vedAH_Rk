@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡रः सद्य꣡ इत्था꣡धिये  
 दि꣡वोदासाय श꣡म्बरम्  
 अ꣡ध त्यं꣡ तुर्व꣡शं य꣡दुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अध॑ । त्यम् । तु॒र्वश॑म् । यदु॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
@@ -74,20 +74,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सद्यः** एकस्मिन्नेवाह्नि **पुरः** शत्रूणां पुराणि सोमरसोऽवाहन् । **इत्थाधिये** सत्यकर्मणे **दिवोदासाय** राज्ञे **शम्बरं** शत्रुपुराणां स्वामिनम् **अध** अथ **त्यं** तं **तुर्वशं** तुर्वशनामकं राजानं दिवोदासशत्रुं **यदुं** यदुनामकं राजानं च वशमानयञ्च । अत्रापि सोमरसं पीत्वा मत्तः सन्निन्द्रः सर्वमेतदकार्षीदिति सोमरसे कर्तृत्वमुपचर्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Which overturned) the cities in a moment, and for the sake of the devout **Divodāsa** (subdued) **Śambara**, and then that **Turvaśa** and **Yadu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Smashed down) the strongholds in one day for the one whose thought  is to the point, (smashed down) Śambara for Divodāsa,  
 and as for that Turvaśa and Yadu... .
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was just noted, púraḥ completes the acc. phrase navatī́r náva that serves as obj.
 
@@ -108,23 +108,23 @@ This tṛca shows some signs of unity. The 1st two vss. are a syntactic unit, wi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Smote swiftly forts, and gambara, then Yadu and that Turvaga,  
      For pious Divodasa's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An einem Tage die Burgen für Divodasa, der darnach trachtete, und den Sambara zerschmetterte und jeden Turvasa und Yadu-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Burgen all' und Çambara, dem frommen Divodasa hold, Und auch den Turvaça Jadu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Крепостей за один день для Диводасы,  
 Чья мысль так (жаждала этого), (убил) Шамбару,  

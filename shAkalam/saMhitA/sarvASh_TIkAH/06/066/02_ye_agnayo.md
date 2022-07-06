@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ अग्न꣡यो न꣡ शो꣡शुचन्न् इधाना꣡  
 दुवि꣡र् य꣡त् त्रि꣡र् मरु꣡तो वावृध꣡न्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 साकं꣡ नृम्णइः꣡ पउं꣡सियेभिश् च भूवन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒रे॒णवः॑ । हि॒र॒ण्यया॑सः । ए॒षा॒म् । सा॒कम् । नृ॒म्णैः । पौंस्ये॑भिः । च॒ । भू॒व॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -119,36 +119,36 @@ genre M
 **ये** **मरुतः** **इधानाः** **अग्नयो** **न** समिध्यमाना अग्नय इव **शोशुचन्** दीप्यन्ते । **यत्** ये मरुतः **द्विः** द्विगुणं **त्रिः** त्रिगुणं च **ववृधन्त** इच्छानुरूपं वर्धन्ते ॥ संहितायां दीर्घश्छान्दसः ॥ **एषां** मरुतां रथाः **अरेणवः** रेणुरहिताः **हिरण्ययासः** हिरण्मयालंकाराश्च भवन्ति। ते मरुतः **नृम्णैः** धनैः **पौंस्येभिः** बलैः **च** **साकं** सार्धं **भूवन्** प्रादुर्भवन्ति । तथा च निगमान्तरं - ये पृषतीभिर्ऋष्टिभिः' ( ऋ. सं. १. ३७. २ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Unsoiled by dust the golden chariots of those **Maruts**, who are shining like kindled fires, enlarging themselves (at will) twofold and threefold, and (charged) with riches and virile energies, are manifest.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who kept blazing up like fires being kindled, when the Maruts  were strengthened two or three times over—  
 dustless, golden were their (chariots)—they came into being all at once  with their manly and male powers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who like kindled flames of fire are glowing,. the Maruts, twice and thrice have waxen mighty.  
      Golden and dustless were their cars, invested with their great strength and their heroic vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die gleich entbrannten Feuern erglühten, als die Marut zweimal und dreimal stärker wurden - ihre staublosen goldigen Wagen sind zugleich mit ihren Manneskräften und Stärken entstanden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, die erstrahlten wie entflammte Feuer, die Maruts, als sie zwiefach, dreifach wuchsen; Staublos, mit Gold bedeckt sind ihre Leiber, begabt mit Mannes- und mit Heldenkräften;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Маруты, которые, подобно зажженным огням, ярко запылали,  
 Когда они дважды, трижды возросли силой...  

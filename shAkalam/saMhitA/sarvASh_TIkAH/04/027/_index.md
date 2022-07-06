@@ -8,7 +8,7 @@ title = "+027"
 गर्भे न्विति पंचर्चं षष्ठं सूक्तं वामदेवस्यार्षं त्रैष्टुभं । अंत्या शक्करी षट्पंचाशदक्षरा। श्येनो देवता । पूर्वसूक्तेऽष्टौ वेत्युक्तत्वादंत्याया इंद्रो वा देवता। तथा चानुक्रांतं । गर्भे नु पंचांत्या शक्करीति ॥ श्येने निष्केवल्यशस्त्र इदं सूक्तं । सूत्रं तु पूर्वमुदाहृतं ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 27 (323)  
 Falcon (1–4), Falcon or Indra (5) [Soma-Theft]  
@@ -18,7 +18,7 @@ The second of the pair of hymns devoted to the soma-theft, this one is told from
 The next two verses (3–4) freeze the dramatic moment when the archer Kr̥śānu,  guardian of Soma, shoots at the fleeing falcon with his precious cargo, and man ages only to shoot off one feather. The final verse (5) depicts Indra about to drink  the soma, now ritually prepared and offered by the priests. In keeping with the  archery theme, the verb used of Indra’s approach to the soma is an idiom (práti √dhā) ordinarily used of fixing an arrow to a bowstring and aiming it at the target.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 (323) Falcon (1-4), Falcon or Indra (5) [=Soma theft] Note the periodic punctuation by ádha (1d, 3a, 4d, 5a) -- and some play with that word: ádhi 4b, adhva... 5c, ándhah 5b, maybe adīyam 1d; also the preponderance of a-init. preverbs, ánu 1a, ápa 2a, abhí 2b, áva 3a, 3c.
 
@@ -34,7 +34,7 @@ Unfortunately they are very obscure in many details, esp. IV.27. The myth and th
 </div>
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Adler:
 </details>

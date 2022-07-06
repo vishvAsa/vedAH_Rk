@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ विक्षु꣡ प्रदि꣡वः सीद आसु꣡  
 क्र꣡त्वा रथी꣡र् अभवो वा꣡रियाणाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ आनुष꣡ग् जातवेदो व꣡सूनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अतः॑ । इ॒नो॒षि॒ । वि॒ध॒ते । चि॒कि॒त्वः॒ । वि । आ॒नु॒षक् । जा॒त॒ऽवे॒दः॒ । वसू॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -114,41 +114,41 @@ genre M
 हे अग्ने **त्वं** **प्रदिवः** । पुराणनामैतत् । पुरातनकालीनासु **विक्षु** प्रजासु **आसु** परिदृश्यमानासु च **सीदः** सीदसि । वैश्वानरात्मना वर्तसे। तथा **क्रत्वा** आत्मीयेन कर्मणा **वार्याणां** वरणीयानां धनानां **रथीरभवः** । रंहयिता' यजमानेभ्यः प्रापयिताभूः । अतः कारणात् हे **चिकित्वः** विद्वन् **जातवेदः** जातानां प्राणिनां वेदितरग्ने **विधते** परिचरते यजमानाय **वसूनि** धनानि **आनुषक्** अनुषक्तं सततं यथा भवति तथा **वि** **इनोषि** विविधं प्रेरयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, abide from of old in these people, and by your deeds have been (to them) the conveyer of good things; thence, sage **jātavedas**, you bestow continually wealth upon the sacrificer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You sat down among these clans here from olden days; by your will you  became charioteer of valuables.  
 Therefore you send goods in due order to him who does (you) honor, o  observant Jātavedas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted above ad vs. 1, we have both thematized ínva- and athem. inó- in this hymn, with very similar objects: drávināni ‘movable goods’ (1c), vásūni ‘goods’ (3d). As was also noted above, ad VI.4.3, Geldner (and others: cf. Grassmann and Renou) construes the ví opening pāda d with inoṣi in c and uses this supposed lexeme to argue that ví … inóti in VI.4.3 has positive value. As I argued there, ví … inóti is more likely to mean ‘dispel’ and to take a negatively viewed object. In our passage here I do not think that ví belongs with inoṣi. Instead I think ví forms a phrase with immediately following ānuṣák; cf. the same pāda-initial expression I.58.3, 72.7, IV.12.3, as well as #ví … ānuṣák# 16.2. I assume that the expression arose from passages like I.72.7 vy ā̀nuṣak … dhāḥ “distribute in due order” with ví √dhā (reinforced here by vidhaté), and then ví and ānuṣák became phrasally fused.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou from of old hast dwelt among these people, by mental power the charioteer of blessings.  
      Hence sendest thou, O sapient Jatavedas, to him who serves thee treasures in succession.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du saßest seit alters unter diesen Clanen, mit Umsicht warst du der Wagenführer der Kostbarkeiten. Von diesen teilst du kundiger Jatavedas dem Verehrer nach Gebühr die Schätze aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In diesen Häusern nahmst du Platz von je her, und warst mit will'gem Geist der Gaben Fährmann; Drum sendest du, o Weiser, dem Verehrer ohn' Ende Güter zu, o Wesenkenner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От века ты сидишь среди этих племен.  
 Благодаря силе духа ты стал колесничим избранных даров.  

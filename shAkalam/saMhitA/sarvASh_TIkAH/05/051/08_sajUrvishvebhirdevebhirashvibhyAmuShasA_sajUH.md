@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सजू꣡र् वि꣡श्वेभिर् देवे꣡भिर्  
 अश्वि꣡भ्याम् उष꣡सा सजूः꣡  
 आ꣡ याहि अग्ने अत्रिव꣡त् सुते꣡ रण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 आ । या॒हि॒ । अ॒ग्ने॒ । अ॒त्रि॒ऽवत् । सु॒ते । र॒ण॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sajūr* ← *sajūs*
 - \[adverb\]
@@ -95,7 +95,7 @@ genre M;; line affected by realignment
 हे **अग्ने** **विश्वेभिः** सर्वैः **देवेभिः** देवैः **सजूः** संगतः सन् **अश्विभ्यामुषसा** च **सजूः** समानप्रीतिः सन् **आ** **याहि** आगहि। **अत्रिवत्** अत्रिरिव । अत्रेर्यज्ञे यथा तथेत्यर्थः । यद्वा । अत्रिर्यथा यज्ञे रमते तद्वत् **सुते** अभिषुते सोमे **रण** रमस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,29 +106,29 @@ genre M;; line affected by realignment
 Atri = sacrifice of the ṛṣi; delight as at the **yajña** of Atri
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Jointly with all the gods, jointly with the Aśvins, with Dawn,  
 drive hither, Agni. Take pleasure in the pressed soma, as (you did) at Atri’s.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Associate with all the Gods, come, with the Asvins and with Dawn,  
      Agni, as erst with Atri, so enjoy the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einträchtig mit allen Göttern, einträchtig mit den Asvin, mit Usas komm, o Agni; ergötze dich am Trank wie bei Atri!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit allen Göttern im Verein, den Rittern und dem Morgenroth Komm, Agni, wie zum Atri her, – geniess den Saft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В согласии со Всеми-Богами,  
 С Ашвинами, с Ушас в согласии  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व तिये꣡ पितो र꣡सा  
 र꣡जांसि अ꣡नु वि꣡ष्ठिताः  
 दिवि꣡ वा꣡ता इव श्रिताः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दि॒वि । वाताः॑ऽइव । श्रि॒ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -89,35 +89,35 @@ genre M
 हे **पितो** **तव** त्वत्संबन्धिनः **त्ये** ते स्वाद्वम्लादि षट् **रसाः** **रजांसि** लोकान् लोकस्थानार्थान् **अनु** आनुकूल्येन **विष्ठिताः** विविधं स्थिताः । विविधस्थितौ दृष्टान्तः । **दिवि** द्युलोकेऽन्तरिक्षे **श्रिताः** **वाताः** वायवः ते यथा व्याप्तास्तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your flavours, **Pitā**, are diffused through the regions, as the winds are spread through the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These juices of yours, food, are dispersed throughout the realms, adjoined to heaven like the winds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These juices which, O Food, are thine throughout the regions are diffused.  
      like winds they have their place in heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Säfte, o Speise, sind durch die Räume verbreitet, bis zum Himmel reichen sie wie die Winde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja deine Säfte, Opfertrank, sind durch die Räume rings vertheilt, Zum Himmel Winden gleich gelangt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти соки твои, о пища,  
 Распространились через пространства  

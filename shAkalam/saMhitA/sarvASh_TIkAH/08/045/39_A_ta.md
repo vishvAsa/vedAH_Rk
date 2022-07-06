@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त एता꣡ वचोयु꣡जा  
 ह꣡री गृभ्णे सुम꣡द्रथा  
 य꣡द् ईम् ब्रह्म꣡भ्य इ꣡द् द꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत् । ई॒म् । ब्र॒ह्मऽभ्यः॑ । इत् । ददः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -103,42 +103,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ते** तव **सुमद्रथा** कल्याणरथौ **वचोयुजा** मन्त्रेण युज्यमानौ **एता** एतौ **हरी** अश्वौ **आ** **गृभ्णे** । अस्मदभिमुखं यातुं हस्ताभ्यामाकर्षामीत्यर्थः । **यत्** यस्मात् त्वं **ब्रह्मभ्य** **इत्** ब्राह्मणेभ्य एव **ईम्** इदं धनं **ददः** ददासि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I draw here your two steeds, harnessed to a beauiful chariot and yoked by hymns, since you givewealth to the **brāhmaṇas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I hold onto these two fallow bays of yours, yoked by speech, along with  their chariot,  
 so that you will give to the formulators.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unfortunately this last verse of the tṛca does not seem to have any connection with the foregoing Indra-Marut dialogue. The "I" is presumably not a Marut, but the poet or other ritual officiant, and it’s difficult to know how his holding on to the horses will bring about Indra’s gifts. Is he holding them hostage, as it were, not allowing them to leave the ritual ground and return to heaven (recall the “Fallowbay-yoking libation” that ends I.61-63 and sends Indra and his horses back home at the end of the sacrifice) until Indra distributes the goods? Or is he helpfully holding them to leave Indra’s hands free? Given the aggressive tone of the previous two verses, I favor the former idea.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither I draw those Bays of thine yoked  
      by our hymn, with splendid car,  
      That thou mayst give unto the priests.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese deine auf das Wort sich anspannenden Falben mit schönem Wagen halte ich fest, auf daß du den Hohenpriestern schenken sollst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein wortgeschirrtes Füchsepaar halt hier ich sammt dem Wagen an, Damit den Beter du beschenkst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эту твою пару запрягаемых (одним) словом  
 Буланых коней вместе с колесницей я удерживаю,  

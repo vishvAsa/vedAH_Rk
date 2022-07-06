@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡व वः सुम्ना꣡ न꣡व्यांसि  
 म꣡रुतः कु꣡व सुविता꣡  
 कु꣡वो वि꣡श्वानि सउ꣡भगा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क्वो॒३॒॑ इति॑ । विश्वा॑नि । सौभ॑गा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kva*
 - \[adverb\]
@@ -84,7 +84,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **मरुतः** **वः** युष्माकं संबन्धीनि **नव्यांसि** नवतराणि **सुम्ना** प्रजापशुरूपाणि धनानि ‘प्रजा वै पशवः सुम्नम् ' ( तै. सं. ५. ४. ६. ६ ) इति श्रुत्यन्तरात् । **क्व** कुत्र वर्तन्ते । तथा **सुविता** शोभनानि प्राप्याणि मणिमुक्तादीनि भवदीयानि **क्व** कुत्र वर्तन्ते । **विश्वानि** सर्वाणि **सौभगा** सौभाग्यरूपाणि गजाश्वादीनि **क्वो** कुत्र वा वर्तन्ते । भवदीयैः सुम्नादिभिः सर्वैः सहागन्तव्यमित्यर्थः ॥ सुम्ना ।  ‘ शेश्छन्दसि बहुलम् ' इति शेर्लोपः । नव्यांसि । नवशब्दात् ईयसुनि ईकारलोपश्छान्दसः । सुविता । सुष्ठु इतानि सुवितानि ।  ‘ तन्वादीनां छन्दसि बहुलमुपसंख्यानम् ' ( पा. सू. ६. ४. ७७. १ ) इति उवङादेशः । सौभगा। ‘सुभगान्मन्त्रे' (पा. सू. ५. १. १२९ ग.) इति तस्य भावः इत्यर्थे अन् । पूर्ववत् शेर्लोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,29 +95,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Sumnā, suvitā, **saubhaga**: offspring and cattle, jewels and gold, horses, elephants and the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where are your newer favors, Maruts, where the easy passages?  
 Where all the good portions?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where are your newest favours shown? Where, Maruts, your prosperity?  
      Where all your high felicities?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo sind eure neuesten Gunsterweisungen, ihr Marut, wo die Wohlfahrt und wo alle Glücksgüter?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo zeigt sich eure neuste Huld? o Maruts, wo das Wohlergehn? Und wo das ganze höchste Glück?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где ваши новые проявления милости?  
 Где счастливые случаи, о Маруты?  

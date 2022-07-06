@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वर्धिता꣡ व꣡र्धनः पूय꣡मानः  
 सो꣡मो मीढ्वाँ꣡ अभि꣡ नो ज्यो꣡तिषावीत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवर्वि꣡दो अभि꣡ गा꣡ अ꣡द्रिम् उष्ण꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 येन॑ । नः॒ । पूर्वे॑ । पि॒तरः॑ । प॒द॒ऽज्ञाः । स्वः॒ऽविदः॑ । अ॒भि । गाः । अद्रि॑म् । उ॒ष्णन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -138,7 +138,7 @@ genre M
 वर्धिता देवानां स्वकलाप्रदानेन वर्धयिता वर्धनः स्वयंवर्धमानः पवित्रेण पूयमानः मीढ्वान् कामानांसेक्ता ससोमः नोस्माकं ज्योतिषा स्वतेजसा अभ्यावीत् अभिरक्षतु । येन सोमेन पदज्ञाः पणिभिरपहृतानां गवाम्पदानि जानन्तः स्वर्विदः सर्वज्ञाः सूर्यञ्जान- न्तोवा नोस्माकम्पूर्वे चिरन्तनाः पितरोङ्गिरसःगाः पशूनभिलक्ष्य अद्रिमुष्णन् शिलोच्चय- मुष्णन् सोमतेजसा अन्धकारावृतं शिलोच्चयङ्गत्वा पशूनाहरन्नित्यर्थः । उषिरिहमुष्णाति- समानकर्मा । यद्वा मुष्णातेर्लङि वर्णलोपः ॥ ३९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,13 +149,13 @@ genre M
 Stock the cattle from the rock: us. = muṣ; i.e. 'stole (ransacked) the rock with regard to (i.e., for) the cattle'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The strengthening strengthener, being purified, Soma the rewarder,  helped us with his light,  
 with which our forefathers, knowing the track, finding the sun, burned  the cows out of the rock.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a contains another etymological doubling, vardhitā́várdhanaḥ “strengthening strengthener,” rather like the doubling of priyá- in 38c.
 
@@ -175,23 +175,23 @@ I do not see any signs of unity in this tṛca. All three vss. contain a partici
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, being cleansed, the Strengthener and Increaser, Soma the Bounteous, helped us with his lustre,  
      Wherewith our sires of old who knew the footsteps found light and stole the cattle from the mountain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist der stärkende Stärker, der geläuterte Soma. Der Belohnende stand uns mit seinem Lichte bei, mit dem unsere Vorväter, die Spurenkundigen, Himmelsfindenden, den Fels seiner Kühe beraubten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der gereinigt, kräftigt und erquicket, der holde Soma hat mit Glanz erfreut uns, Durch den des Weges kundig unsre Ahnen den Stein bewegten, Licht und Kühe suchend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот подкрепляющий подкрепитель, сома  
 Щедрый помог нам (своим) светом, очищаясь,  

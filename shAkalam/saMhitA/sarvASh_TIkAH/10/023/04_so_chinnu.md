@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ चिन् नु꣡ वृष्टि꣡र् यूथि꣡या सुवा꣡ स꣡चाँ  
 इ꣡न्द्रः श्म꣡श्रूणि ह꣡रिताभि꣡ प्रुष्णुते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उ꣡द् इ꣡द् धूनोति वा᳐꣡तो य꣡था व꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अव॑ । वे॒ति॒ । सु॒ऽक्षय॑म् । सु॒ते । मधु॑ । उत् । इत् । धू॒नो॒ति॒ । वातः॑ । यथा॑ । वन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
@@ -145,36 +145,36 @@ genre M
 तच्छब्दश्रुतेर्यच्छब्दोऽध्याहर्तव्यः । या महती वृष्टिरस्ति **सो** सा **वृष्टिः** **नु** क्षिप्रम् । **चित्** इत्युपमार्थे। यथा सर्वं सिञ्चति तथा **इन्द्रः** **स्वा** स्वानि **यूथ्या** यूथानि मरुदादिगणलक्षणानि **सचा** सह स्वानि **श्मश्रूणि** च **हरिता** हरिद्वर्णेन सोमेन **अभि** **प्रुष्णुते** । ‘प्रुष प्लुष स्नेहनसेचनपूरणेषु' इति धातुः । आभिमुख्येन स्थित्वा क्षिप्रं सिञ्चति । सोमं पाययति पिबति चेत्यर्थः । अपि च **सुक्षयं** शोभनं यज्ञगृहम् **अव** **वेति** अभिगच्छति । गत्वा च **सुते** सोमे अभिषुते सति **मधु** मधुररसोपेतं सोमं पीत्वा । मत्तः सन्निति शेषः। **उदिद्धूनोति** स्वशरीरमुत्कम्पयति । तत्र दृष्टान्तः । **वातः** वायुः **यथा** **वनं** वृक्षसमूहमुत्कम्पयति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As the rain (bedews all), so, **Indra**, accompanied by his troops (of the **Maruts**), sprinkles their beards,with the green (**Soma**); he repairs to the plural asant chamber (of sacrifice); (the Soma) beign effused, the sweetSoma agitates (his frame), as the breeze (shakes) the forest.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even now, as rain he (sprinkles) all things belonging to his herd; Indra  sprinkles his tawny beard.  
 He pursues his track down to the honey having its lovely dwelling in the  pressed soma. He tosses (his beard) upward like the wind a tree.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With him too is this rain of his that comes like herds: Indra throws drops of moisture on his yellow beard.  
      When the sweet juice is shed he seeks the pleasant place, and stirs the worshipper as wind disturbs the wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch dieser Regen ist als sein unzertrennlicher Genosse dabei: Indra begießt seinen goldgelben Bart. Er verlangt nach dem im ausgepreßten Soma wohl hausenden Honig; er schüttelt den Bart wie der Wind den Baum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er kommt, der Held und seine ganze Schar zugleich; den blonden Schnurrbart netzt mit Soma Indra sich, Geniesst das Süss, das reichlich in dem Safte ruht, und schüttelt dann ihn, wie der Wind den Wald bewegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот самый дождь – в то же время собственные принадлежности (его):  
 Индра забрызгивает (свою) желтоватую бороду.  

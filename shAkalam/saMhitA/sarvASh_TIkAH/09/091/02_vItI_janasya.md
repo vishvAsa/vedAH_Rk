@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वीती꣡ ज꣡नस्य दिविय꣡स्य कव्यइ꣡र्  
 अ꣡धि स्वानो꣡° नहुषि꣡येभिर् इ꣡न्दुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मर्मृजानो꣡ अ꣡विभिर् गो꣡भिर् अद्भिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । यः । नृऽभिः॑ । अ॒मृतः॑ । मर्त्ये॑भिः । म॒र्मृ॒जा॒नः । अवि॑ऽभिः । गोभिः॑ । अ॒त्ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vītī* ← *vīti*
 - \[noun\], dative, singular, feminine
@@ -111,21 +111,21 @@ genre M
 **कव्यैः** साधुभिः स्तोतृभिः **नहुष्येभिः** मनुष्यैः **सुवानः** अभिषूयमाणः **इन्दुः** सोमः **दिव्यस्य** दिवि भवस्य **जनस्य** देवगणस्य **वीती**। ‘सुपां सुलुक्' इति चतुर्थ्याः पूर्वसवर्णदीर्घः । सोमभक्षणार्थं यज्ञम् **अधि** गच्छति । किंच **अमृतः** मरणधर्मरहितः **यः** सोमः **नृभिः** कर्मनेतृभिः **मर्त्येभिः** मर्त्यैः **अविभिः** अविमयैः पवित्रैस्तथा **गोभिः** अनडुहैरधिषवणचर्मभिः यद्वा गोविकारैः क्षीरादिभिः **अद्भिः** वसतीवर्यादिभिरुदकैश्च **मर्मृजानः** भृशं शोध्यमानः सन् यज्ञं प्रति गच्छति । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** juice effused by pious mortals (comes) down (to the sacrifice) for the food of the celestial people; which immortal (beverage) is purified by mortal (priests) with the filter, the curds and milk and the waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In pursuit of the heavenly race, the drop is being pressed on (it [=fleece])  by the poets, the sons of Nahus,  
 the drop that is constantly being groomed (to go) forth by men—by  
 mortals as the immortal—by the sheep, the cows, and the waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The main clause of this vs., pādas ab, contains a predicated aor. part., svānáḥ, while the rel. cl., pādas cd, may contain a predicated intens. part., marmṛjānáḥ. However, given the prá opening c, it’s quite possible that we should supply a verb of motion “(go) forth” as the main verb, with the part. simply a modifier (“the drop [goes] forth, being groomed …”). Howvever, I prefer the published
 
@@ -134,23 +134,23 @@ tr., which does supply ‘go’ but as an oblique expression of purpose. Alterna
 On nahuṣyà- see also IX.88.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The drop of Soma, pressed by wise Nahusyas, becomes the banquet of the Heavenly People-  
      Indu, by hands of mortal men made beauteous, immortal, with the sheep and cows and waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zur Einladung des himmlischen Volkes ist der Saft von den dichterischen Nahussöhnen ausgepreßt, der Unsterbliche, der von den sterblichen Männern mittels Schafwolle, Kuhmilch und Wasser aufgeputzt hervorkommt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst zum Mahl des himmlischen Geschlechtes ist Indu von der Menschen Priesterscharen, Unsterblich er, von Sterblichen gereinigt durch Widderwolle, Milch und Wasserfluten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для приглашения божественного рода выжат  
 Кавьями (и) потомками Нахуша сок сомы,  

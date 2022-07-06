@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् ईरय कवि꣡तमं कवीना꣡म्  
 उन꣡त्तैनम् अभि꣡ म꣡ध्वा घृते꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 चन्द्रा꣡णि देवः꣡ सविता꣡ सुवाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । वसू॑नि । प्रऽय॑ता । हि॒तानि॑ । च॒न्द्राणि॑ । दे॒वः । स॒वि॒ता । सु॒वा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 अनया सविता च स्तूयते । हे ऋत्विजः **कवीनां** **कवितमं** क्रान्तदर्शिनम् अमुं पुरोवर्तिनमग्निं सवितारं वा **उदीरय** ऊर्ध्वं प्रापयत हर्षयतेत्यर्थः । **एनं** देवं **मध्वा** मधुरेण सोमरसेन **घृतेन** च **अभि** **उनत्त** अभिषिञ्चत । तर्पयतेत्यर्थः । **सः** **सविता** **देवः** नः अस्मभ्यं **वसूनि** निवासयोग्यानि गवादिधनानि **प्रयता** प्रयतानि **हितानि** **चन्द्राणि** आह्लादकानि हिरण्यानि **सुवाति** प्रयच्छत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,34 +127,34 @@ genre M
 The most prophetic of the prophets: kavitamam kavīnām: **kavi** = **krānta** dar'ī, a seer or shower of the past, whence may be inferred the application of his knowledge to the future
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rouse the best poet of poets. Wet him with honey, with ghee.  
 He—god Savitar—will propel to us the golden goods that have been  held forth and set out.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the distinction in no. between the two 2nd ps. impvs. in ab: sg. úd īraya and pl. unátta. As commonly, the sg. is probably a self-addressed by the poet to himself; that his object is “the best poet of poets” (kavítamaṃ kavīnā́m) simply emphasizes the closed loop of reciprocity. The pl. impv. is presumably addressed to his fellow celebrants, in this case the priests charged with the physical activity (the Adhvaryu and his helpers, quite possibly). The pl. impv. unátta has a strong stem form where we properly expect weak, but the expected form *und-ta à *untta à (probably simplified to) *unta would have been difficult to parse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In spirit him, the Sagest of the Sages; with sacrificial oil and meath bedew him   
      So then let him, God Savitar, provide us excellent, ready, and resplendent treasures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ermuntere den Weisesten der Weisen, begießet ihn mit Met, mit Schmalz: Gott Savitri möge uns die dargebotenen ausgesetzten blinkenden Schätze zuweisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhebe ihn, den weisesten der weisen, benetzet ihn mit süsser Opferbutter; Gott Savitar, er schaffe her uns Schätze, willkommne, glänzende, uns dargereichte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приведи в действие самого мудрого из мудрых!  
 Окропите его медом (и) жиром!  

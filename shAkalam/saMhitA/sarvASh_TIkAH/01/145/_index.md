@@ -8,7 +8,7 @@ title = "+145"
 ' तं पृच्छत ' इति पञ्चर्चं पञ्चमं सूक्तम् । अत्रानुक्रमणिका-' तं पृच्छत पञ्चान्त्या त्रिष्टुप्  इति । दीर्घतमा ऋषिः । पूर्वत्र ‘ आग्नेयं तु तत्' इत्युक्तत्वात् इदमप्याग्नेयम् । अन्त्या त्रिष्टुप् । शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । प्रातरनुवाकाश्विनशस्त्रयोरस्य विनियोग उक्तः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 145  
 Agni  
@@ -19,7 +19,7 @@ The hymn begins with the peremptory (2nd pl.) command “Ask him!” In the firs
 Agni’s identification with Apām Napāt (“Child of the Waters”), whose roaming in  the woods refers to his burning of firewood. Once installed as the ritual fire in pāda  b, Agni implicitly answers the questions asked of him in verses 1–2 in pāda c: he  explains the ritual patterns to us. In the final pāda he is characterized by the same  vocabulary as in verse 1:  “knowing” (vidvā́n) matching “he knows (veda) of 1a;  “perceiver of truth” ([r̥ta-]cít) matching “the one who perceives” (cikitvā́n) of 1b.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

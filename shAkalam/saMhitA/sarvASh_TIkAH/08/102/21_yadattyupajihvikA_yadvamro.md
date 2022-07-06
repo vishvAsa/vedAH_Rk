@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अ꣡त्ति उपजि꣡ह्विका  
 य꣡द् वम्रो꣡ अतिस꣡र्पति  
 स꣡र्वं त꣡द् अस्तु ते घृत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सर्व॑म् । तत् । अ॒स्तु॒ । ते॒ । घृ॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -87,20 +87,20 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **यत्** काष्ठादिकम् **उपजिह्विका** । उपजिघ्रतीत्युपजिह्विका’ । **अत्ति** भक्षयति । यत् च काष्ठादिकं **वम्रः** । वमत्युदकमिति वम्रः । उपजिह्विकावम्रशब्दौ यद्यपि पर्यायौ तथापि पृथगुपादानात् वम्रशब्दस्तद्विशेषे पर्यवस्यति । सोऽपि **अतिसर्पति** अतिगच्छति । **तत्** सर्वं **ते** तव **घृतं** घृतसदृशम् **अस्तु** । यथा घृतं तव प्रियकरं भवति तथा प्रियकरं भवत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever timber the ant has gnawed, whatever the emmet has infested-- may it all be welcome to youas ghī.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What the little termite eats, what the ant creeps over,  
 let all that be ghee for you.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
 <details open><summary><h2>19-22 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ See published introduction. for my general interpr. of these verses.</details>
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That which the white-ant cats away, that over which the emmet crawls-  
      May all of this be oil to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was die Termite benagt, worüber die Ameise kriecht, all das soll dir zu Schmalz werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was die weibliche Ameise verzehrt, über was die männliche kriecht, das alles sei dir Schmelzbutter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что сжирает термит,  
 По чему ползает муравей,  

@@ -6,7 +6,7 @@ ChandaH = "अतिधृतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ श꣡र्धो न꣡ मा꣡रुतं तुविष्व꣡णिर्  
 अ꣡प्नस्वतीषु उर्व꣡रासु इष्ट꣡निर्  
@@ -18,7 +18,7 @@ ChandaH = "अतिधृतिः"
 न꣡रः शुभे꣡ न꣡ प꣡न्था᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -41,7 +41,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अध॑ । स्म॒ । अ॒स्य॒ । हर्ष॑तः । हृषी॑वतः । विश्वे॑ । जु॒ष॒न्त॒ । पन्था॑म् । नरः॑ । शु॒भे । न । पन्था॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -165,20 +165,20 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **स** **हि** स एव स्तुत्यतया प्रसिद्ध एवाग्निः **तुविष्वणिः** । तुवि इति बहुनाम ‘ उरु तुवि । ( नि. ३. १. २ ) इति तन्नामसु पाठात् । बहुस्वनिः प्रभूतध्वनियुक्तो वर्तते । अत्यन्तज्वलितेऽग्नौ वायुसंपर्कात् भुगिभुगिति ध्वनिरुत्पद्यते ज्वलतीत्यर्थः । ध्वनने दृष्टान्तः । **मारुतं** **शर्धो** **न** मरुत्संबन्धि बलमिव । मरुतां समूहो यथा ध्वनयति तथेत्यर्थः । कुत्रेति तदुच्यते । **अप्नस्वतीषु** खननप्रोक्षणादिकर्मोपेतासु । अप्न इति कर्मनाम, ‘ अप्नः दंसः' ( नि, २. १. २) इति तन्नामसु पाठात् । **उर्वरासु** उरुवरणयुक्तासु श्रेष्ठासु वेदिभूमिषु । कीदृशोऽयम् । **इष्टनिः** यष्टव्यः ॥ औणादिकोऽनिक् तुडागमश्च ॥ किंच आर्तनासु । आर्तान् करोत्यार्तयति । आर्तयन्तीत्यार्तनाः पृतनाः । तासु ॥ ‘ ण्यासश्रन्थो युच् ' ( पा. सू. ३. ३. १०७ ) । वृषादित्वादाद्युदात्तत्वम् ॥ तासां जयाय **इष्टनिः** एष्टव्यो यष्टव्यो वा । किंच एवं स्वनयन्नग्निः **हव्यानि** आज्यपुरोडाशादीनि **आदत्** अत्ति भक्षयति ॥ छान्दसो लुङ् । यद्वा । आङ्पूर्वाद्ददातेः ‘ आङो यमहनः ' ( पा. सू. १. ३. २८ ) इति व्यत्ययेनात्मनेपदाभावः । गातिस्था' इति सिचो लुक् । छान्दसो ह्रस्वः । केवलादेव वा ‘ छन्दस्यपि दृश्यते ' इति अनजादेरपि आडागमः । अत एवानवग्रहः स एव शिष्यते ॥ **आददिः** सर्वत्र हविरादानशीलः तथा **यज्ञस्य** **केतुः** प्रज्ञापकः केतुस्थानीयो वा **अर्हणा** पूजनीयः ॥ ‘ सुपां सुलुक्' ' इति सोः आकारः । प्रत्ययाद्युदात्तत्वं छान्दसम् । किंच **हर्षतः** हविर्भक्षणादत्यन्तहर्षयुक्तस्य । यद्वा । अभिमतफलदानेन यजमानान् हर्षयतः **हृषीवतः** आज्यस्वीकारेण हर्षयुक्तस्याग्नेः **पन्थां** पन्थानं मार्गं **विश्वे** सर्वे मनुष्याः **जुषन्त** अप्रीणयन् असेवन्त वा । किमर्थम् । **शुभे** शुभाय शोभनाय सुखप्राप्तये । पन्थानं सर्वैर्गन्तव्यम् ऐहिकामुष्मिकफलस्य अग्नेरेव मार्गं सर्वेऽनुगच्छन्ति । अग्निमेव प्रीणयित्वा साधयन्ति । मार्गश्रयणे दृष्टान्तः । यथा लोके **नरः** मनुष्या: शुभे शोभनाय सुखप्राप्तये पन्थानं सर्वैर्गन्तव्यं निर्भयं प्रौढमार्गमिव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He roars aloud, like the roaring of the winds, amidst the sanctified and selected (rites of sacred) solemnities; he who is to be worshipped, who is to be adored (for victory) over hosts (of enemies); he, the receiver 9of oblations), the manifester of the sacrifice; he, who is deserving of veneration, devours the oblations; hence, all men for their good pursue the path of **Agni**, who gives plural asure (to his worshipper), being plural ased (himself), in like manner as men follow a path (that leads) to happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For he is very noisy like the Marut troop, thundering widely in the  productive meadows—thundering widely in the disorderly meadows. The taker has taken, has eaten the oblations, as is his due, he the  beacon of the sacrifice.  
 And then when he is excited, bristling with excitement, all take pleasure  in his path—as the superior men [=Maruts] (take pleasure) in the  path to beauty.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verse has an extra pāda (h), which serves as the tag-pāda to g. Given the difficulties in the verse, the extra pāda just provides more occasion for bewilderment.
 
@@ -201,29 +201,29 @@ hárṣato hṛ́ṣīvataḥ in f is a nice etymological figure, though in the 
 Most tr. take the náraḥ of h as ordinary, human men, but I think it refers rather to the Maruts. śubhé (and śúbh- in general) is one of their signature words; cf., e.g., I.88.2 śubhé kám yānti and, with náraḥ referring to them, V.52.8 … té śubhé náraḥ. The mention of the Maruts here would form a ring with their appearance in pāda a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, roaring very loudly like the Maruts' host, in fertile cultivated fields adorable, in desert spots adorable,  
      Accepts and eats our offered gifts, ensign of sacrifice by desert;  
      So let all, joying, love his path when he is glad, as men pursue a path for bliss.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He indeed makes a mighty noise like the host of the Maruts, … 1 on the rich fields, … 1 on the … 1. He, the seizer, ate the offerings 2, he who has deservedly become the banner of the sacrifice. And when he joyously and joyfully (proceeds), all followed gladly on his path; men (have followed) his path as for a triumphal procession.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er ist lautrauschend gleich der marutischen Heerschar in den ertragreichen Feldern sich ausbreitend, in den ...........sich ausbreitend. Der Nehmer hat die Opferspenden an sich genommen, wie sich´s gebührt, er des Opfers Wahrzeichen. Dann, wenn er freudig, ungeduldig ist, haben alle an seinem Wege ihr Wohlgefallen wie die Herren an dem Wege zur Prunkfahrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn er ist mächtig, rauschend wie die Marutschar, auf wohlbebauten Ackerfeldern brauset er, auf öden Flächen brauset er; Empfangend nahm die Tränke er, des Opfers Banner, nach Gebühr; Wenn er sich freut, der freudenreiche, mögen sich an seinem Gange alle freun. (die Männer alle wie zur Pracht.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь он (продвигается вперед), громко шумя, как толпа Марутов,  
 Распространяясь на плодородные пашни,  

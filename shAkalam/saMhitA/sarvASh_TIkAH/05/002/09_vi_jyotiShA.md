@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ ज्यो꣡तिषा बृहता꣡ भाति अग्नि꣡र्  
 आवि꣡र् वि꣡श्वानि कृणुते महित्वा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शि꣡शीते शृ꣡ङ्गे र꣡क्षसे विनि꣡क्षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 प्र । अदे॑वीः । मा॒याः । स॒ह॒ते॒ । दुः॒ऽएवाः॑ । शिशी॑ते । शृङ्गे॒ इति॑ । रक्ष॑से । वि॒ऽनिक्षे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -132,26 +132,26 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, shines with great and varied radiance; he makes all things manifest by his might; he overcomes undivine malignant delusions; he sharpens his horns for the destruction of the **rākṣasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni radiates in all directions with a lofty light. He makes visible all  things by his greatness.  
 He overpowers ungodly guiles and those of evil ways. He sharpens his  horns to pierce through the demonic.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni shines far and wide with lofty splendour, and by his greatness makes all things apparent.  
      He conquers godless and malign enchantments, and sharpens both his horns to gore the Raksas.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni shines with mighty light; he makes all things visible by his greatness. He conquers godless, wicked wiles. He sharpens his two horns in order to pierce the Rakshas.
 </details>
@@ -164,17 +164,17 @@ He overcometh godless and malign enchantments
 He sharpeneth his horns to pierce the Raksas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In hohem Licht erstrahlt Agni, er offenbart alle seine Kräfte mit Macht. Er überwindet die gottlosen böswilligen Blendwerke, er wetzt die Hörner, um den bösen Geist aufzuspießen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er; Bezwingt die bösen, gottverhassten Listen, er wetzt die Hörner, das Gespenst zu tilgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни ярко сверкает высоким светом.  
 (Своим) величием он делает видными все (предметы).  

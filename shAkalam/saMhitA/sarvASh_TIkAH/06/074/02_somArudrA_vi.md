@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मारुद्रा वि꣡ वृहतं वि꣡षूचीम्  
 अ꣡मीवा या꣡ नो ग꣡यम् आविवे꣡श  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ भद्रा꣡ सौश्रवसा꣡नि सन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 आ॒रे । बा॒धे॒था॒म् । निःऽऋ॑तिम् । प॒रा॒चैः । अ॒स्मे इति॑ । भ॒द्रा । सौ॒श्र॒व॒सानि॑ । स॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somārudrā* ← *somārudra*
 - \[noun\], vocative, dual, masculine
@@ -109,7 +109,7 @@ popular;; repeated line
 **सोमारुद्रा** हे सोमारुद्रौ **नः** अस्माकं **गयं** गृहं गृहगतं प्राणिजातं वा **या** **अमीवा** यो रोगः **आविवेश** तां **विषूचीं** विष्वक् सर्वतो गच्छन्तीममीवां **वि** **वृहतं** वियोजयतम् । अपि च **निर्ऋतिम्** अलक्ष्मीं **पराचैः** पराग्यथा भवति तथा **आरे** दूरे **बाधेथां** निवारयतम् । **अस्मे** अस्माकं **भद्रा** भद्राणि **सौश्रवसानि** अन्नानि यशांसि च **सन्तु** भवन्तु । सुश्रवसो भावः सौश्रवसम् । श्रवोऽन्नं यशश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ popular;; repeated line
 Nirṛti = **alakṣmī**, misfortune and poverty
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma and Rudra, tear out, tear to pieces the disease that has entered  our household.  
 Drive calamity into the distance far away. For us let there be auspicious  things bringing good fame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma and Rudra, chase to every quarter the sickness that hath visited our dwelling.  
      Drive Nirrti away into the distance, and give us excellent and happy glories.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma und Rudra! Vertreibet die Krankheit von uns fort, die in unser Anwesen eingedrungen ist. Jaget weit in die Ferne die Nirriti! Guter Ruf soll uns zuteil werden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma-Rudra, treibt nach allen Seiten die Krankheit, die in unser Haus gedrungen; In weite Ferne stosset das Verderben, und segensreiches Glück sei unser eigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Сома-Рудра, вырвите (и рассейте) в разные стороны  
 (Ту) болезнь, которая проникла в наш дом!  

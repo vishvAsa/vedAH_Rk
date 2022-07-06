@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡स्मा꣡कम् अस्ति त꣡त् त꣡र  
 आ꣡दित्यासो अतिष्क꣡दे  
 यूय꣡म् अस्म꣡भ्य° मॄळत+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यू॒यम् । अ॒स्मभ्य॑म् । मृ॒ळ॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nāsmākam* ← *na*
 - \[adverb\]
@@ -81,36 +81,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **आदित्यासः** आदित्या युष्मत्कर्तृकः **तत्** **तरः** वेगः **अस्माकं** **न** **अस्ति** यो वेगो बन्धकाज्जालात् **अतिष्कदे** अस्माकमतिस्कन्दनाय प्रभवति । अतः **यूयमस्मभ्यं** **मृळत** । तत्तादृशं तरः कुरुतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Not to us is there strength enough to burst from this (net); O **Ādityas**, do you grant us your favour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We do not have the driving force to leap beyond, Ādityas.  
 You—have mercy upon us!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O ye Adityas, this your might is not to be despised by us:  
      So be ye graciously inclined.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben nicht die Ausdauer, um hinüberzuspringen, Aditya´s. Habt mit uns Erbarmen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht soll man je beseitigen, Aditja's, diese unsre Kraft, Ihr möget holdgesinnt uns sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нет у нас той прыти,  
 Чтобы перепрыгнуть, о Адитьи.  

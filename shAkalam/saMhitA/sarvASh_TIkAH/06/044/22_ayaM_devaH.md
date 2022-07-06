@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ देवः꣡ स꣡हसा जा꣡यमान  
 इ꣡न्द्रेण युजा꣡ पणि꣡म् अस्तभायत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्दुर् अमुष्णाद् अ꣡शिवस्य मायाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । स्वस्य॑ । पि॒तुः । आयु॑धानि । इन्दुः॑ । अ॒मु॒ष्णा॒त् । अशि॑वस्य । मा॒याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -112,19 +112,19 @@ genre M
 **देवः** द्योतमानः **अयम्** **इन्दुः** सोमः **इन्द्रेण** **युजा** सख्या सह **जायमानः** प्रादुर्भवन् **पणि** वणिजं गवामादातारं वलाख्यमसुरम् । यद्वा । पणीनां स्वामित्वात् पणिरित्युच्यते । तमसुरं **सहसा** बलेन **अस्तभायत्** अस्तभ्नात् न्यरुधत् । अपि च **स्वस्य** धनस्य गोरूपस्य **पितुः** पालयितुः **अशिवस्य** असुखकरस्य वलस्य **आयुधानि** वज्रादीनि **अमुष्णात्** अपाहरत् । तदीयाः **मायाः** च अमुष्णात् । हे इन्द्र त्वत्सख्यबलादेतत्सर्वं सोमः कृतवान् अतस्तव महिमा केन वर्णयितुं शक्यत इतीन्द्रस्तुतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This divine **Soma**, with **Indra** for its ally, crushed, as soon as genitive rated, **Paṇi** by force; this Soma baffled the devices and the weapons of the malignant secreter of (the stolen) wealth, (the cattle).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This god here, being born with strength, with Indra as his yokemate,  blocked the Paṇi [/niggard]. This one here, the drop, stole the weapons of his own father, the tricks  of the unkindly one.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just noted, índuḥ ‘drop’ opening pāda b firmly identifies the subject as Soma, but the common word play between phonologically similar índu- and índra-, found esp. in Maṇḍala IX, underlines the permeable boundary just noted between Indra and Soma in this tṛca.
 
@@ -141,23 +141,23 @@ As noted in the published introduction, repetition also characterizes this tṛc
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This God, with might, when first he had his being, with Indra for ally, held fast the Pani.  
      This Indu stole away the warlike weapons, and foiled the arts of his malignant father.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Gott, unter Kraftanstrengung geboren, hat mit Indra als Verbündetem den Pani gelähmt. Dieser Saft stahl dem eigenen Vater die Waffen, die Zauberkünste des Feindseligen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indu, der Gott, er, der durch Kraft geborne, er fesselte den Dieb im Bund mit Indra, Des eignen Vaters Waffen raubte Indu und tilgte aus des Unholds Zauberkünste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот бог, рожденный силой,  
 Вместе с Индрой-союзником подавил Пани.  

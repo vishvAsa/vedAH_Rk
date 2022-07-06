@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व प्र꣡णीती इन्द्र जो꣡हुवानान्  
 सं꣡ य꣡न् नॄँ꣡न् न꣡ रो꣡दसी निने꣡थ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡तूतुजिं चित् तू꣡तुजिर् अशिश्नत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒हे । क्ष॒त्राय॑ । शव॑से । हि । ज॒ज्ञे । अतू॑तुजिम् । चि॒त् । तूतु॑जिः । अ॒शि॒श्न॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -125,7 +125,7 @@ genre M
 हे **इन्द्र** यत् यस्त्वं **तव** **प्रणीती** प्रणीत्या प्रणयनेन **जोहुवानान्** भृशं स्तुवतः **नॄन्** **रोदसी** द्यावापृथिव्यौ **सं** **निनेथ** संगमयसि । दिवि पृथिव्यां च स्तोतॄन् प्रतिष्ठापयसीत्यर्थः । स त्वं **महे** महते **क्षत्राय** धनाय । रयिः क्षत्रम्' इति धननामसु पाठात् । **शवसे** बलाय च । यजमानेभ्यो महद्धनं बलं च दातुमित्यर्थः । **जज्ञे** जज्ञिषे। **हि** इति हेत्वर्थे । यत एवमतः कारणात् **अतूतुजिम्** अदातारमयजमानं **तूतुजः** दाता यजमानः **अशिश्नत्** । श्नथतिर्हिंसाकर्मा । तस्माल्लडर्थे लुङ्। हिनस्ति । **चित्** इत्येवकारार्थे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 Have conducted men: **nriti** na **rodasi** san ninetha: the verb is saṅgamayasi, you bring together;**divi** pṛthivyam ca stotrin pratiṣṭhāpayasi, you establish the worshippers in heaven and earth; the particle na, isignored
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When with your guidance you “united” the two world-halves, which were  like men eagerly calling upon (you).  
 Because he was born for great dominion, for power, the thruster pierced  just the non-thruster.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take ab as dependent on the previous verse, 2d, describing Indra’s cosmogonic deeds right after birth. For a novel, but not ultimately persuasive interpretation of this hemistich, see Oldenberg Note that forms of √nī open and clause this half-verse: #táva praṇītī … ninétha#.
 
@@ -155,23 +155,23 @@ For the oppositional pun in sám … ninétha, standing for ví (… ninétha), 
 After the 2nd ps. description of Indra’s mythological activity in 2d-3ab, the second half of vs. 3 summarizes the birth in the 3rd person. Geldner’s interpretation, which makes c parenthetical and connects ab with d despite an awkward change of person, seems clumsy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time thou drewest both world-halves together, like heroes led by thee who call each other-  
      For thou wast born for strength and high dominion-then e'en the active overthrew the sluggish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du unter deiner Führung die um Hilfe rufenden Welten wie die Herren zusammenschartest, o Indra - denn er ist zu großer Herrschaft, zur Macht geboren - da hat der Eiferer auch dem Uneifrigen einen Stoß gegeben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als leitend du, wie Männer, die dich rufen, zusammenführtest, Indra, beide Welten; Denn er erstand zu grosser Kraft und Herrschaft; durchstiess der Rasche da den trägen Dämon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда твоим водительством, о Индра, ты свел вместе  
 Две половины вселенной, словно громко взывающих мужей, -  

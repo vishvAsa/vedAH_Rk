@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मइ꣡ भीमा꣡य न꣡मसा स꣡म् अध्वर꣡  
 उ꣡षो न꣡ शुभ्र आ꣡ भरा प꣡नीयसे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ज्यो꣡तिर् अ꣡कारि हरि꣡तो न꣡ अ꣡यसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । धाम॑ । श्रव॑से । नाम॑ । इ॒न्द्रि॒यम् । ज्योतिः॑ । अका॑रि । ह॒रितः॑ । न । अय॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -136,20 +136,20 @@ genre M
 हे **उषः** उषोदेवते **शुभ्रे** शोभने त्वं **भीमाय** शत्रूणां भयंकराय **पनीयसे** अतिशयेन स्तोतव्याय **अस्मै** इन्द्राय **अध्वरे** हिंसारहितेऽस्मिन्यागे । **न** इति संप्रत्यर्थे । तथा च यास्कः - ‘ अस्त्युपमार्थस्य संप्रत्यर्थे प्रयोग इहेव निधेहि ' (निरु. ७. ३१) इति । संप्रतीदानीं **नमसा** नमो हविर्लक्षणमन्नं **सम्** **आ** **भर** सम्यक् संपादय । **धाम** सर्वस्य धारकं **नाम** स्तोतृषु नमनशीलं प्रसिद्धं वा **इन्द्रियम्** इन्द्रत्वस्य परमैश्वर्यस्य लिङ्गं यस्य इन्द्रस्य एवंविधं **ज्योतिः** **श्रवसे** अन्नाय हविर्लक्षणान्नलाभार्थम् **अयसे** इतस्ततो गमनाय **अकारि** क्रियते । **हरितो** **न** । यथाश्वान्सादिनः स्वाभिलषितदेशं गमयन्ति तद्वदिन्द्रोऽपि स्वाभिमतहविर्लाभाय स्वकीयं तेजो गमयतीति भावः ॥ उषः । पादादित्वात् निघाताभावः । शुभ्रे । 'शुभ दीप्तौ'। स्फायितञ्चि° ' इत्यादिना रक् । भर ।' हृग्रहोर्भः' इति भत्वम् ।' द्व्यचोऽतस्तिङः' इति दीर्घः । पनीयसे । पनतेः स्तुत्यर्थात् बहुलवचनात् कर्मणि असुन् । तस्मात् आतिशायनिके ईयसुनि ‘टे: ' इति टिलोपः । अकारि । 'छन्दसि लुङ्लङ्लिटः' इति वर्तमाने कर्मणि लुङ् । यद्वृत्तयोगादनिघातः । अडागम उदात्तः । अयसे ।' अय गतौ' इत्यस्मात् भावे असुन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Beautiful Uṣas, now present the oblation in this rite to the formidable, praise-deserving **Indra**, whose all-sustaining, celebrated, and characteristic radiance has impelled him hither and thither, (in quest) of (sacrificial) food, as (a charioteer drives) his horses (in various directions).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For him the fearsome, much to be admired, assemble with homage  (everything) here at the rite, o (you,) lovely like Dawn—  
 (for him) whose Indrian name has been made a light, a foundation for  fame, like tawny mares for coursing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase úṣo ná śubhre is quite problematic. In the first place, it is syntactically odd to have a voc. in a simile (“X like o Dawn”). úṣaḥ may be vocative by attraction from an underlying nominative, as in I.30.21 áśve ná citre aruṣi “O you, dappled bright and ruddy like a(n o) mare.” Then, for reasons given in the introduction, I am certain that the fem. voc. śubhre in b cannot be addressed to the Sacrificer’s Wife, despite the standard view, but that leaves the identity of the addressee baffling. Fem.
 
@@ -178,23 +178,23 @@ A bit of word play in the sequence haryatá(ḥ) (2c), haríto (3d), harya tád 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him the terrible, most meet for lofty praise, like bright Dawn, now bring gifts with reverence in this rite,  
      Whose being, for renown, yea, Indra-power and light, have been created, like bay steeds, to move with speed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für diesen Furchtbaren, Hochgeschätzten bring du, schmuck wie Usas, unter Verneigung alles zum Opfer zusammen, des Art zum Ruhm, des indrischer Name als Leuchte geschaffen ist wie die falben Stuten zum Laufen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem hehren huld'ge bei dem Feste demuthsvoll, dem preisenswerthen, wie das lichte Morgenroth; Als dessen Indraschöpfung ja zu seinem Ruhm das Licht entstand, zu schreiten goldnen Stuten gleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этому страшному с поклонением принеси (все,) что нужно  
 Для обряда, нарядная, как Ушас, (ему,) очень удивительному,  

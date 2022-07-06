@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्या꣡वा नः पृथिवी꣡ इमं꣡  
 सिध्र꣡म् अद्य꣡ दिविस्पृ꣡शम्  
 यज्ञं꣡ देवे꣡षु यछताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 य॒ज्ञम् । दे॒वेषु॑ । य॒च्छ॒ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyāvā* ← *div*
 - \[noun\], nominative, dual, masculine
@@ -80,35 +80,35 @@ genre M
 द्यावाद्यौश्चपृथिवीचउभे सिध्रंस्वर्गादेःसाधकं दिविस्पृशं देवान् गच्छन्तं अद्यास्मिन्नहनि अस्माकं इमंयज्ञन्देवेषुयच्छतान्नियच्छताम् ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Heaven and Earth, bear to the gods today our heaven aspiring sacrifice, the means of obtaining **svarga**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Heaven and Earth today hold fast this effective, heaven-touching sacrifice of ours among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This our.effectual sacrifice, reaching the sky, shall Heaven and Earth  
      Present unto the Gods to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Himmel und Erde sollen heute dies unser gelungenes, den Himmel erreichendes Opfer den Göttern anbieten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es mögen Erd' und Himmel heut dies Opfer lenken götterwärts, Das wohl gelingt, zum Himmel dringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть сегодня Небо и Земля  
 Вручат богам эту нашу жертву,  

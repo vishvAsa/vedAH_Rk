@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान धिया꣡ हितो꣡  
 अभि꣡ यो꣡निं क꣡निक्रदत्  
 ध꣡र्मणा वायु꣡म् आ꣡ विश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धर्म॑णा । वा॒युम् । आ । वि॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** सोम **धिया** कर्मणास्मद्व्यापारेण अङ्गुल्या वा **हितः** धृतः सन् **कनिक्रदत्** शब्दं कुर्वन् **योनिं** स्थानं ग्रहं वा **अभि** विशेति शेषः । तदेवाह। **धर्मणाः** **वायुम्** । वायुसंबन्धि पात्रमित्यर्थः । तत् **आ** **विश** प्रविश ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,35 +94,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 I.e. the vessel associated with, or set apart for Vāyu, vāyu **sambandhi** pātram
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Self-purifying one, sped by insight, ever roaring toward your womb, enter Vāyu according to the (ritual) statute.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 hitáḥ here fairly clearly belongs to √hi ‘impel’, given the expressions of movement and goal in the rest of the vs. But the ambiguity between hitá- ‘impelled’ and ‘placed’ is common in this maṇḍala, as we’ve already seen (e.g., IX.1.2).
 
 Both Geldner and Renou take dhármaṇā to be Soma’s: “nach deiner Bestimmung” and “selon (ta) nature” respectively. However, I take it to refer to the statute or ordinance of the ritual, in particular that which establishes Vāyu as the first recipient of the soma drink: dhármaṇā is used in this exact sense here as well as in IX.63.22 and I.134.5; see disc. ad the latter passage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavamana, sent by song, roaring about thy dwelling-place,  
      Pass into Vayu as Law bids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Pavamana, mit Kunst in Gang gebracht, auf deine Wiege losbrüllend, geh nach deiner Bestimmung in Vayu ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Andacht, rieselnder, entsandt, entgegenwiehernd deinem Sitz, Geh ein in Vaju nach dem Brauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Павамана, воодушевленный молитвой,  
 Громко ревя навстречу (своему) лону,  

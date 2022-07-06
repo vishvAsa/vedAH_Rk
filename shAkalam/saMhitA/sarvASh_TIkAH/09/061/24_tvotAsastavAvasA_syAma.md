@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवो꣡तासस् त꣡वा꣡वसा  
 स्या꣡म वन्व꣡न्त आमु꣡रः  
 सो꣡म व्रते꣡षु जागृहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोम॑ । व्र॒तेषु॑ । जा॒गृ॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvotāsas* ← *tvotāsaḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
@@ -75,21 +75,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **तव** त्वदीयेन **अवसा** रक्षणेन **त्वोतासः** त्वया रक्षिताः सन्तः **वन्वन्तः** शत्रून् भजमानाः **आमुरः** तेषामभिमारकाः **स्याम** भवेम । **व्रतेषु** अस्माकं कर्मसु **जागृहि** प्रबुद्धो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Protected by you, through your protection may we be victorious, slaying (our enemies); be vigilant **Soma**, at our sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aided by you, with your help, might we be combative against  
 hindrances.  
 O Soma, be watchful over the commandments.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a consists of the etymologically identical phrases tvótāsaḥ ‘aided by you’ and távā́vasā ‘with your help’, both containing forms of the 2nd sg. prn. and nominal forms of √av ‘help, aid’.
 
@@ -105,23 +105,23 @@ The tṛca has something of an emphasis on combat and winning, and the Vṛtra t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aided by thee, and through thy grace, may we be slayers when we war:  
      Watch, Soma, at our solemn rites.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dir unterstützt, mit deinem Beistand wollen wir die Hemmnisse überwinden. O Soma, wache über die Vorschriften!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch deine Hülfe, deinen Schutz lass schlagen die Verderber uns, Bewach', o Soma, unser Werk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поддержанные тобой, с твоей поддержкой  
 Да будем мы теми, кто преодолевает препятствия!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सु꣡ वि꣡श्वान् रक्ष꣡सो ध꣡क्षि अग्ने  
 भ꣡वा यज्ञा꣡नाम् अभिशस्तिपा꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आतिथ्य꣡म् अस्मै चकृमा सुदा꣡व्ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अथ॑ । आ । व॒ह॒ । सोम॑ऽपतिम् । हरि॑ऽभ्याम् । आ॒ति॒थ्यम् । अ॒स्मै॒ । च॒कृ॒म॒ । सु॒ऽदाव्ने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -141,7 +141,7 @@ genre M
 हे **अग्ने** **विश्वान्** सर्वान् **रक्षसः** राक्षसान् **प्र** **सु** **धक्षि** प्रकर्षेण दह । दग्ध्वा च **यज्ञानाम्** अस्माभिरनुष्ठेयानां यागानाम् **अभिशस्तिपावा** अभिशस्तेर्हिसायाः पाता रक्षिता **भव** । **अथ** अनन्तरं **सोमपतिं** सर्वेषां सोमानां पालकमिन्द्रं **हरिभ्यां** तदीयाश्वाभ्याम् **आ** **वह** अस्मयज्ञं प्राप्य । आगताय **अस्मै** सुदाव्ने शोभनस्य फलस्य दात्रे इन्द्राय **आतिथ्यम्** अतिथ्यर्हं सत्कारं **चकृम** कुर्मः ॥ धक्षि । ' दह भस्मीकरणे'। ‘ बहुलं छन्दसि ' इति शपो लुक् । ढत्वभष्भावकत्वषत्वानि । अभिशस्तिपावा । ‘शसु हिंसायाम्' । अस्मादभिपूर्वात् भावे क्तिन् । अभिशस्तेः पातीति अभिशस्तिपावा। “ पा रक्षणे'। ‘ आतो मनिन् ' इति वनिप् । सोमपतिम् । “ पत्यावैश्वर्ये ' इति पूर्वपदप्रकृतिस्वरत्वम् । सुदाव्ने । पूर्ववद्ददातेर्वनिप् । ‘अल्लोपोऽनः' इति अकारलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,13 +152,13 @@ genre M
 Somapati: a remarkable epithet for Indra (though not mentioned in the text, indicated by reference to haribhyām, Indra's two steeds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Burn away all demonic beings, Agni. Become for the sacrifices the  protector from curses.  
 Then convey here the lord of soma with his two fallow bays. We have  made a guest reception for him who gives well.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The accent on dhákṣi is unmotivated. Witzel Gotō label it as antithetical accent, but that is only found in sequences that are more tightly bound rhetorically than this one.
 
@@ -167,28 +167,28 @@ The accent on dhákṣi is unmotivated. Witzel Gotō label it as antithetical ac
 The two hemistichs end with two unusual -van- forms: (abhiśasti-)pā́van- and (su-)dāvan-. Though parallel in formation, they are in different cases (nom. and dat. respectively), which somewhat conceals their morphological match. They are near hapaxes: the first is found only once elsewhere in the RV (VII.11.3) in a similarly constructed pāda, the latter only here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Burn thou up all the Raksasas, O Agni; ward thou off curses from our sacrifices.  
      Bring hither with his Bays the Lord of Soma: here is glad welcome for the Bounteous Giver.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Burn down all sorcerers, O Agni; become a protector of the sacrifices against imprecations. And. conduct hither the lord of Soma (Indra) with his two bay horses. We have prepared hospitality for him, the good giver.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verbrenn doch ja alle Dunkelmänner, o Agni, sei der Ehrenretter der Opfer! Und fahr den Somaherrn mit dem Falbenpaar her! Wir haben ihm, dem Freigebigen, das Gastmahl bereitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verbrenn, o Agni, alle bösen Geister, und schütze unsre Opfer vor dem Flucher; Den Somaherrn fahr her mit seinen Füchsen, dem Geber haben Gastmahl wir bereitet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сожги дотла, о Агни, всех ракшасов!  
 Будь защитником жертвоприношений от проклятий!  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्त्युत्तरा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् इन्द्र ईरय गा᳐꣡म् अनड्वा꣡हं  
 य꣡ आ꣡वहद् उशीन꣡राणिया अ꣡नः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्त्युत्तरा"
 मो꣡ षु꣡ ते किं꣡ चना꣡ममत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -35,7 +35,7 @@ popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
 भर॑ताम् । अप॑ । यत् । रपः॑ । द्यौः । पृ॒थि॒वि॒ । क्ष॒मा । रपः॑ । मो इति॑ । सु । ते॒ । किम् । च॒न । आ॒म॒म॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -143,36 +143,36 @@ popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
 हे **इन्द्र** **सम्** न्वितिईरय संप्रेरय । किम् । **गां** गन्तारम् **अनड्वाहम्** अनोवहनसमर्थम् । **यः** अनड्वान् **आवहत्** आवहत्यस्मान्प्रति । किम् । **अनः** शकटम् । कस्य । **उशीनराण्याः** एतन्नामिकाया ओषधेः । ययार्तमनुलिम्पन्ति सोशीनराणी । भरतामित्यादि गतम् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Send, **Indra**, the active ox, who may bring the cart (laden with) the uśīnarāṇi grass; heaven andearth, remove all iniquity; let heaven (take away) iniquity; may no ill ever approach you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, restore the cart-drawing ox that drew the (wedding-)cart of  Uśīnarāṇī hither.  
 – Let the two bear away what(ever) malady there is. O Heaven and Earth,  to ground (let) malady (go). Let nothing whatsoever plague (him).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive forward thou the wagon-ox, O Indra, which brought Usinarani's wagon hither.  
      May Heaven and Earth uproot and sweep iniquity and shame away: nor sin nor sorrow trouble thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stell, Indra, das Rind, das Zugtier wieder her, das den Karren der Frau des Usinara herfuhr! Beide sollen das Gebreste fortnehmen. Himmel und Erde, zu Boden gehe das Gebreste! Dir soll ja nicht irgend etwas wehe tun!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, treibe den Zugstier an, welcher den Wagen der Frau vom Lande der Uçīnara's herbeizog, hinwegschaffen mögen sie u.s.w. [wie in Vers 8].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пригони, о Индра, тяглового быка,  
 Который привез повозку жены Ушинары!  

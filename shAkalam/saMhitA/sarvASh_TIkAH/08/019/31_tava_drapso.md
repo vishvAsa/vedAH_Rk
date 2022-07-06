@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व द्रप्सो꣡ नी꣡लवान् वाश꣡ ऋत्वि꣡य  
 इ꣡न्धानः सिष्णव् आ꣡ ददे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 क्षपो꣡ व꣡स्तुषु राजसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । म॒ही॒नाम् । उ॒षसा॑म् । अ॒सि॒ । प्रि॒यः । क्ष॒पः । वस्तु॑षु । रा॒ज॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -111,7 +111,7 @@ genre M
 हे **सिष्णो** । सिषिः सेचनार्थः । सोमेनासिच्यमानाग्ने **द्रप्सः** द्रवणशीलः **नीलवान्** शकटनीडेऽवस्थानात् तद्वान् **वाशः** कान्तः शब्दायमानो वा **ऋत्वियः** ऋतौ वसन्तादिकालविशेषे भवः **इन्धानः** संदीपयन् एवंभूतः **तव** सोमः **आ** **ददे** तुभ्यं होमायाध्वर्युणादीयते । अपि च **त्वं** **महीनां** महतीनाम् **उषसां** **प्रियः** मित्रभूतः **असि** । उषसि ह्यग्नयो होमाय प्रज्वाल्यन्ते । तथा **क्षपः** क्षपाया रात्रेः संबन्धिषु **वस्तुषु** **राजसि** प्रकाशसे । यद्वा । रात्रिसंबन्धीनि वस्तूनि पदार्थजातानि त्वं प्रकाशयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,14 +122,14 @@ genre M
 Rājasi = you shine amid; or, you illuminate
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your drop [=spark], accompanied by dark [=smoke], bellowing as it  is kindled at the right ritual moment, has taken, o you who desire  
 to win.  
 You are dear to the great dawns; you rule [/shine] through the nights  and at the dawns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The voc. siṣṇo is a hapax. Flg. Grassmann (hesitatingly endorsed by EWA, s.v.), I take it as a nonce u-adj. to a reduplicated form of √sani ‘gain, win’. Although an analysis as a desiderative u-adjecive is morphologically impossible (there being no trace of a desid. suffix), I still wonder if that is the semantic nuance here -- as if it were an aniṭ variant of siṣāsú-. Geldner tentatively follows Ludwig’s connection with √sā/si ‘bind’ (“du Fänger”); Renou tr. it as a PN and considers it an imitation of viṣṇo. It might also be a deformation of *śiśo, the expected but unattested voc. to śíśu- ‘child’, a frequent epithet of Agni. The context does not strongly favor (or disfavor) any of these hypotheses, and none of them is particularly strong.
 
@@ -141,23 +141,23 @@ Grassmann, Geldner, and Renou take kṣapáḥ as gen. sg. dependent on vástu�
 usage. Case disharmony (here between acc. and loc. pl.) is esp. common in temporal expressions, and, as we’ve seen, there are a number of other disharmonious phrases in this hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy spark is black and crackling, kindled in due time, O Bounteous, it is taken up.  
      Thou art the dear Friend of the mighty Mornings: thou shinest in glimmerings of the night.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Funke, der von schwärzlichem Rauche begleitet ist, der brüllende, rechtzeitig entzündete hat gefangen, du Fänger. Du bist der Liebling der großen Usas, beim Hellwerden der Nacht herrschest du.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein dunkles Banner, das zur Zeit entzündet rauscht, o Spender, ist dir angelegt, Du bist der hehren Morgenröthen lieber Freund, des Nachts und Morgens leuchtest du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твоя искра с темным (следом дыма), трещащая, вовремя  
 Зажегшаяся, о насыщающий (?), поймана.  

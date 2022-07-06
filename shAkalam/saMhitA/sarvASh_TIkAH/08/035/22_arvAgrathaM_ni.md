@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वा꣡ग् र꣡थं नि꣡ यछतम्  
 पि꣡बतं सोमिय꣡म् म꣡धु  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 धत्तं꣡ र꣡त्नानि दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 आ । या॒त॒म् । अ॒श्वि॒ना॒ । आ । ग॒त॒म् । अ॒व॒स्युः । वा॒म् । अ॒हम् । हु॒वे॒ । ध॒त्तम् । रत्ना॑नि । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvāg* ← *arvāk*
 - \[adverb\]
@@ -121,36 +121,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे अश्विनौ वां स्वीयं **रथम्** **अर्वाक्** अस्मदभिमुखं **नि** **यच्छतम्** । **सोम्यं** सोममयं **मधु** अमृतं च **पिबतम्** । यज्ञम् **आ** **यातं** च । सोमं प्रति **आ** **गतम्** आगच्छतं च । **अवस्युः** रक्षणकामः **अहं** श्यावाश्वः **वां** **हुवे** ह्वयामि । **दाशुषे** हवींषि प्रयच्छते मह्यं **रत्नानि** **धत्तं** धारयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Direct your chariot downwards, drink the **Soma** nectar; come, **Aśvins**, come (here); desirous of yourprotection, I invoke you; give precious riches to the donor of the offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stop your chariot nearby. Drink the somian honey.  
 – Drive here, o Aśvins; come here. Seeking help, I call to you: provide  riches for the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive down your chariot hitherward drink ye the Soma's savoury juice.  
      Approach, ye Asvins, come to us: I call you, eager for your aid. Grant treasures to the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lenket den Wagen herwärts, trinket den somischen Süßtrank! Fahret hierher, Asvin, kommet her! Um euren Beistand bittend rufe ich euch, bringet dem Opfernden Kleinode!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Einkehr lenkt den Wagen her und trinkt des Soma Süssigkeit; Fahrt her, o Ritter, kommt herbei, euch ruf' ich hülfsbegierig an, gebt Schätze dem verehrenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В наши края направляйте колесницу!  
 Пейте сладость сомы!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुष꣡द् धव्या꣡ मा꣡नुषस्य  
 ऊर्ध्व꣡स् तस्थाव् ऋ꣡भ्वा यज्ञे꣡  
 मिन्व꣡न् स꣡द्म पुर꣡ एति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 मि॒न्वन् । सद्म॑ । पु॒रः । ए॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣaddhavyā* ← *juṣat* ← *juṣ*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -85,7 +85,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **मानुषस्य** यजमानस्य **यज्ञे** यजनीये यागे **हव्या** हव्यानि हवींषि **जुषत्** सेवमानोऽग्निः  **ऋभ्वा** उरुभूतो बहुज्वालोपेतः **ऊर्ध्वस्तस्थौ** उत्तिष्ठति । ऊर्ध्वं ज्वलतीत्यर्थः । अपि चायमग्निः प्राग्वंशादारभ्य **सद्म** सदनं सौमिकी वेदिं  **मिन्वन्** परिच्छिन्दन् **पुरः** पुरस्तादुत्तरवेदिशालामुखीयात् प्रणीयमानः सन् **एति** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Fixing his abode: an allusion to a part of the fire worship: when the fire is takenfrom one altar or firepit, to another, from the saumikī **vedi**, or altar of libation, to the **uttara** vedi, the north orprincipal altar
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He takes pleasure in the oblations of the son of Manu. The craftsman  stands erect at the sacrifice.  
 Fixing his seat, he goes in front.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To taste man's offerings, he, the Strong, hath risen erect at sacrifice:  
      Fixing his dwelling he proceeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er genieße die Opfergabe des Menschen; aufrecht steht der Meister bei dem Opfer, seinen Sitz absteckend geht er voran.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aufrecht steht er, kühn beim Opfer; wenn er speist des Menschen Tränke, Geht voran er, Sitz errichtend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть наслаждается он жертвенными дарами человека!  
 Он стоит прямо, искусный на жертвоприношении;  

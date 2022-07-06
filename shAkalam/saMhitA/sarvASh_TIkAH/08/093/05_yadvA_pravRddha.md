@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वा प्रवृद्ध सत्पते  
 न꣡ मरा इ꣡ति म꣡न्यसे  
 उतो꣡ त꣡त् सत्य꣡म् इ꣡त् त꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒तो इति॑ । तत् । स॒त्यम् । इत् । तव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -99,7 +99,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वाशब्दः समुच्चये । अपि च हे **प्रवृद्ध** स्वबलेन प्रवर्धमान **सत्पते** सतां पते स्वप्रकाशाधिक्येन सतां  नक्षत्राणां पते हे इन्द्र **न** **मरै** **इति** मनुष्यवद्वार्धक्येनाहं न म्रिय इति **यत्** यदि **मन्ये** युध्यसे। मृङ् प्राणत्यागे'। लेट्यडागमः।' वैतोऽन्यत्र' इत्यैकारः। **उतो** अपि च **तव** **तत्** न म्रिय इति मननं **सत्यमित्** यथार्थमेव । इन्द्रो न म्रियत इत्यर्थे मन्त्रान्तरं-- न ह्यस्या अपरं चन जरसा मरते पतिः' (ऋ. सं. १०. ८६. ११) इति ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,12 +110,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Lord of the good: lord of the **nakṣatras**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or if, o lord of settlements grown strong, you think, “I shall not die,” just that comes true for you.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -129,23 +129,23 @@ But sárvāṃs tā́n indra … semi-duplicates 4c sárvaṃ tád indra …, an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Mighty One, Lord of the brave, thou thinkest thus, I shall not die,  
      That thought of thine is true indeed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder wenn du hochgewachsener, rechtmäßiger Gebieter denkst: " Ich werde nicht sterben", so wird auch das bei dir wahr.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und wenn du hoch erhabner Fürst »nicht werd' ich sterben« also denkst, So ist auch dies dein Denken wahr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रीमे꣡ गा꣡म् अनेषत  
 प꣡रि अग्नि꣡म् अहृषत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 क꣡ इमाँ꣡ आ꣡ दधर्षति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 दे॒वेषु॑ । अ॒क्र॒त॒ । श्रवः॑ । कः । इ॒मान् । आ । द॒ध॒र्ष॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parīme* ← *pari*
 - \[adverb\]
@@ -111,7 +111,7 @@ popular;; epic anuṣṭubh (292)
 **इमे** विश्वे देवाः **गाम्** । जात्यभिप्रायमेकवचनम् । पणिभिरपहृताः सर्वा देवगवीः **परि** **अनेषत** पर्यनयन् । यष्टॄनङ्गिरसः परिप्रापयन् । ततः **अग्निं** च **परि** **अहृषत** परितो व्यहरन् । यागार्थं तत्र तत्र गार्हपत्यादिरूपेण स्थापितवन्त इत्यर्थः । एवं कृत्वा **देवेषु** यष्टव्येष्विन्द्रादिषु **श्रवः** अन्नम् **अक्रत** अकृषत । **कः** शत्रुरसुरादिः **इमान्** विश्वान् देवान् **आ** **दधर्षति** अभिभवितुं शक्नोति । न कश्चिदित्यर्थः ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ popular;; epic anuṣṭubh (292)
 **Yajus**. 35.18: **jīvāḥ**, lives or living beings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These (men) here have led the cow around; they have taken the fire  around.  
 They have made themselves fame among the gods. Who will venture  against them?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These men have led about the cow, have duly carried Agni round,  
      And raised their glory tg the Gods. Who will attack them with success?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese haben die Kuh herumgeführt, sie haben das Feuer herumgetragen. Sie haben sich bei den Göttern einen guten Ruf erworben. Wer wird sich an diese heranwagen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Frommen haben hier die Kuh, und Feuer rings herumgeführt, Und Preis den Göttern dargebracht; wer wagt sich nun an sie heran?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти обвели кругом корову,  
 Они обнесли кругом огонь.  

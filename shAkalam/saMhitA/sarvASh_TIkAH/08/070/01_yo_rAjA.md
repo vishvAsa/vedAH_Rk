@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ रा꣡जा चर्षणीनां᳐꣡  
 या꣡ता र꣡थेभिर् अ꣡ध्रिगुः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ज्ये꣡ष्ठो यो꣡ वृत्रहा꣡ गृणे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑साम् । त॒रु॒ता । पृत॑नानाम् । ज्येष्ठः॑ । यः । वृ॒त्र॒ऽहा । गृ॒णे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -97,7 +97,7 @@ genre M
 **यः** इन्द्रः **चर्षणीनां** मनुष्याणां **राजा** स्वामी रथैः **याता** गन्ता च **अध्रिगुः** अधृतगमनोऽन्यैः **विश्वासां** **पृतनानां** सेनानां **तरुता** तारकः । **यः** च **ज्येष्ठः** गुणैर्ज्यायान् । यश्च **वृत्रहा** वृत्रं हतवान् । तं महाभागमिन्द्रं **गृणे** स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,28 +108,28 @@ genre M
 **Tarutā** = **tārakaḥ**, deliverer; (RV 8.1.21): conqueror
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who is king of the separate peoples, a driver with chariots, rich, an overcomer in all battles, who is sung as the preeminent smasher of  Vr̥tra—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HE who, as Sovran Lord of men, moves with his chariots unrestrained,  
      The Vrtra-slayer vanquisher, of fighting hosts, preeminent, is praised with song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der der König der Völker ist, der Vornehme, der zu Wagen fährt, der Überwinder in allen Kämpfen, der als größter Vritratöter gefeiert wird;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der der Menschen König ist, auf Wagen unaufhaltsam fährt, Den Schlachtensieger preise ich, den besten Vritratödter ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

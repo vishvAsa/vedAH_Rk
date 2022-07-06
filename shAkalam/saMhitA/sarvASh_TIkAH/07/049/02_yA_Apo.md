@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ आ꣡पो दिव्या꣡ उत꣡ वा स्र꣡वन्ति  
 खनि꣡त्रिमा उत꣡ वा याः꣡ स्वयंजाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ आ꣡पो देवी꣡र् इह꣡ मा꣡म् अवन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; repeated line
 स॒मु॒द्रऽअ॑र्थाः । याः । शुच॑यः । पा॒व॒काः । ताः । आपः॑ । दे॒वीः । इ॒ह । माम् । अ॒व॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -136,7 +136,7 @@ genre D;; repeated line
 **या** **आपो** **दिव्याः** अन्तरिक्षभवाः सन्ति। **उत** **वा** अपि च याः आपः नद्यादिगताः सत्यः **स्रवन्ति** गच्छन्ति । याश्च **खनित्रिमाः** खननेन निर्वृत्ताः। **उत** **वा** अपि च **याः** **स्वयंजाः** स्वयमेव प्रादुर्भवन्त्यः **समुद्रार्थाः** । समुद्र एवार्थो गन्तव्यो यासां ताः समुद्रार्थाः । **शुचयः** दीप्तियुक्ताः **पावकाः** शोधयित्र्यश्च भवन्ति । **ता** **आपः** **मामवन्तु** इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,13 +147,13 @@ genre D;; repeated line
 Those whose channels have been dug: khanitrimā = khanenanivṛttaḥ, formed, or perhaps stopped by digging, canals or reservoirs. A possible indication of irrigation systemsin use
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The heavenly waters, or those that flow, or are found by digging, or arise  by themselves,  
 those, clear and pure, whose goal is the sea—let those waters, goddesses,  help me here.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/049/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -163,28 +163,28 @@ Pādas 2c and 3c contain the same three words after the caesura, but with the fi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Waters which come from heaven, or those that wander dug from the earth, or flowing free by nature,  
      Bright, purifying, speeding to the Ocean, here let those Waters. Goddesses, protect me.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Waters that come from heaven or run in channels Dug out, or flow spontaneously by nature, That, clear and pure, have as their goal the ocean: Here may those waters, goddesses, preserve me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die himmlischen Gewässer oder die, welche fließen, die Gegrabenen oder Selbstentstandenen, deren Ziel das Meer ist, die reinen, lauteren, diese göttlichen Gewässer sollen mich hier betreuen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Wasser und die niederrinnen aus eignen Quellen oder in Kanälen, Die lautern, hellen, die zum Meere streben, die göttlichen, sie mögen nun mir beistehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) небесные, а также (земные) вбды, которые текут,  
 Прорытые, а также (те,) которые сами возникли,  

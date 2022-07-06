@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ सू꣡रियस्य रश्मि꣡भिः प꣡रि व्यत  
 त꣡न्तुं तन्वान꣡स् त्रिवृ꣡तं य꣡था विदे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प꣡तिर् ज꣡नीनाम् उ꣡प याति निष्कृत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नय॑न् । ऋ॒तस्य॑ । प्र॒ऽशिषः॑ । नवी॑यसीः । पतिः॑ । जनी॑नाम् । उप॑ । या॒ति॒ । निः॒ऽकृ॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -125,20 +125,20 @@ genre M
 **सः** सोमः **सूर्यस्य** **रश्मिभिः** **परि** **व्यत** परिवेष्टयत्यात्मानम् । किं कुर्वन् । **त्रिवृतं** सवनैर्देवैर्वा त्रिर्वृतं **तन्तुं** यज्ञं **तन्वानः** विस्तारयन् **यथा** **विदे** जानाति । येन प्रकारेण संपूर्णमवगच्छति तथा तन्वानः । **ऋतस्य** सत्यभूतस्य यजमानस्य **नवीयसीः** नवतराः **प्रशिषः** प्रशंसना अभिमतानि **नयन्** प्रापयन् । तस्मा एव **जनीनां** **पतिः** पालकः स्वामी **निष्कृतं** संस्कृतं पात्रम् **उप** **याति** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He invests himself with the rays of the sun stretching out the triple thread in the way he knows; guiding the recent adorations of the truthful (worshipper), the protection of women passes to the consecrated (vessel).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has enveloped himself with the rays of the sun, stretching his own  threefold thread, in the way that is known.  
 Leading the newer directives of truth, as a husband he proceeds to the  rendezvous with his wives.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the standard interpr. of yáthā vidé here makes Soma subj. of the verb (e.g., Geldner “wie er es versteht”), pāda-final yáthā vidé is a common tag (I.127.4, 132.2, etc.) with a passive reading of the verb: “as is known, in the way that is known.” The “directives of truth” (ṛtásya praśíṣaḥ) are convincingly identified as the hymns by Lüders (469-70), as the adj. návīyas-, a standard descriptor of hymns in the fem., suggests.
 
@@ -158,23 +158,23 @@ As for external connections, GEN niṣkṛtám √yā in 32d is found also in 7b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He hath assumed the rays of Surya for his robe, spinning, as he knows bow, the triply-twisted thread.  
      He, guiding to the newest rules of Holy Law, comes as the Women's Consort to the special place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er umkleidet sich mit den Sonnenstrahlen, den dreifachen Faden ausspannend, wie er es versteht. Der Opferordnung Vorschriften aufs neue leitend geht er als Gatte zum Treffort seiner Frauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er hat sich mit der Sonne Strahlen rings umhüllt, den dreigetheilten Faden webend, wie gewohnt; Des Opfers neuste Ordnung leitend eilet er als Gatte hin zu seiner Frauen Brautgemach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот он окутался лучами солнца,  
 Протягивая тройную нить, как (это ему) свойственно.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ त्य꣡म् म꣡दियम् म꣡दम्  
 इ꣡न्दव् इ꣡न्द्र इ꣡ति क्षर  
 अभि꣡ वाजि꣡नो अ꣡र्वतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒भि । वा॒जिनः॑ । अर्व॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** सोम त्वम् **इन्द्रः** ईश्वरः **इति** कृत्वा **त्यं** तं **मद्यं** मदकरं **मदं** रसम् **अभि** **क्षर** वर्ष । **वाजिनः** बलवतः **अर्वतः** अश्वांश्च अस्मदर्थम् अभि क्षरेत्यर्थः । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,34 +98,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 As sovereign: Lit. 'as **Indra**', i.e., acting as sovereign
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward this exhilarating exhilaration, o drop, flow as “Indra”—  
 and toward prizewinning chargers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b índav índra íti kṣara “o drop, flow as ‘Indra’” is the strongest piece of evidence for the identification of Indra and Soma in the previous hymn (IX.5.7, 9) and is so cited by Geldner (n. 7c to IX.5). As noted ad locc., I do not believe that those vss. equate the two gods; I do, however, believe that there is a (partial) equation here, on the basis of the mystical phonological near-identity of the two stems ‘drop’ (índu-) and ‘Indra’ (índra-), a similarity that is frequently exploited in this maṇḍala, as we have already noted. The identification of the two here also depends on the ambiguity of the goal of kṣara ‘flow’, namely mádam in pāda a. The stem máda- often refers to the ‘exhilarating drink’, namely soma itself, as well as to the abstract state of exhilaration. With Soma flowing to mádam, the former, concrete meaning is more or less excluded: S/soma can’t flow to itself. But the concrete goal is certainly available to the god Indra; cf. III.42.2 tám indra mádam ā́gahi, barhiṣṭhā́ṃ grā́vabhiḥ sutám “Come, Indra, to the exhilarating drink, stationed on the ritual grass, pressed by stones,” where the second pāda makes it clear that the concrete substance, not the abstract state, is meant. So if “Indra” substitutes for the drop here, mádam as concrete goal is possible. See also 9b and comm. thereon.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour hitherward, as Indra's Self, Indu, that gladdening stream of thine,  
      And send us coursers full of strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe zu solchem berauschenden Rausche, o Saft, indem du denkst: Ich bin Indra! Fließe um sieggewohnte Rennpferde einzubringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den starken Rauschtrank ströme du den Indra rufend, Indu, her Und schnelle Rosse uns herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Теки к этому пьяняещему опьянению,  
 О сок, (говоря себе) так: Индра!,  

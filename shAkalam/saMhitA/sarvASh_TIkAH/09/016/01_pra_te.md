@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते सोता꣡र ओणि꣡यो  
 र꣡सम् म꣡दाय घृ꣡ष्वये  
 स꣡र्गो न꣡ तक्ति ए꣡तशः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सर्गः॑ । न । त॒क्ति॒ । एत॑शः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -87,42 +87,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **ते** तव रसं **सोतारः** सोमाभिषवकर्तारः **ओण्योः** **रसम्** । लुप्तोपममेतत् । द्यावापृथिव्यो रसमुदकमिव । अथवौण्योर्द्यावापृथिव्योर्मध्ये तयोः संबन्धिनं वा रसस् । **प्र** स्रावयन्तीति शेषः । किमर्थम् । **घृष्वये** शत्रुघर्षणशीलाय’ **मदाय** इन्द्रस्य मदाय । अभिषवजनितः सोमः **सर्गः** सृष्टः **एतशः** **न** अश्व इव **तक्ति** गच्छति पात्रं प्रति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They who express you, the juice of heaven and earth do it for the foe-destroying exhilaration (of **Indra**); your flow rushes as a swift horse.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The pressers pro(pel) your sap in their arms, for ardent exhilaration. Etaśa charges like a surge (of waters).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On oṇí- see comm. ad VI.20.4, where I am unsatisfied by the current consensus that it means ‘arm’ (see EWA s.v.) but offer nothing to take its place. Here ‘arm’ works perfectly well.
 
 Etaśa is the sun’s horse, so he would be traveling through the air. On √tac as referring generally to birds’ movements, see IX.32.4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE pressers from the Soma-press send forth thy juice for rapturous joy  
      The speckled sap runs like a flood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deinen Saft lassen die Pressenden unter ihren Armen weiter laufen zu fröhlichem Rausche: Wie ein losgelassenes Rennen schießt Etasa dahin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In beide Schalen sandten dir die Presser Saft zum muntern Rausch; Das Ross schiesst wie ein Strom dahin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжиматели вы(пускают течь) из из-под рук твой  
 Сок для радостного опьянения.  

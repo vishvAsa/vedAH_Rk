@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ राजानः कं꣡ चिच् चर्षणीसहः  
 क्ष꣡यन्तम् मा꣡नुषाँ अ꣡नु  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 स्या꣡मे꣡द् ऋत꣡स्य रथि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒यम् । ते । वः॒ । वरु॑ण । मित्र॑ । अर्य॑मन् । स्याम॑ । इत् । ऋ॒तस्य॑ । र॒थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -112,20 +112,20 @@ genre M
 हे **राजानः** राजमाना हे **चर्षणीसहः** शत्रुभूतानामभिभवितार आदित्याः **यूयं** **मानुषाननु** मनुष्यान् यजमानाननुलक्ष्य **क्षयन्तं** क्षपयन्तं **कं** **चित्** कमपि शत्रुं सर्वमपि शत्रुवर्गमभिभवथेति शेषः । यद्वा । मनुष्येषु यजमानेषु क्षयन्तं स्तुतीनामीश्वरं कं चित् कमपि स्तोतारं मा यूयं गच्छत । हे **वरुण** हे **मित्र** हे **अर्यमन्** **ते** तादृशाः **वयं** **वः** युष्माकं संबन्धिनः **ऋतस्य** यज्ञस्य **रथ्यः** **स्याम** नेतारो भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Royal (**Ādityas**), overcomers of (hostile) men, (you subdue) any one harassing those (who areengaged in sacred rites) and may we, **Varuṇa**, **Mitra**, and **Aryaman**, be the conveyers of the sacrifice(addressed) to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Any (man) holding power throughout the sons of Manu—you kings  who conquer territories—  
 might we be those to you, o Varuṇa, Mitra, and Aryaman; might we  alone be the charioteers of truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The triple voc. phrase váruṇa mítrā́ryaman is accented despite being internal in a pāda that begins with tonic elements. There is no obvious reason for this: although the vocc. follow the caesura and immediately follow an enclitic (vayám té vo, váruṇa mítrā́ryaman), neither of these factors ordinarily triggers voc. accentuation. See, e.g., I.122.7 stuṣé sā́vāṃ, varuṇa mitra rātíḥ, where both conditions are found. For discussion of a similar case, see comm. ad VII.59.1.
 
@@ -140,23 +140,23 @@ These two vss. are so interrupted by heavy voc. phrases addressed to the Āditya
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoe'er he be, Man-ruling Kings! the Regent of the race of men-  
      May we, O Mitra, Varuna, and Aryaman, like him be furtherers of your law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jedweden Herrschenden unter den Menschen, ihr völkerzwingenden Könige - wir möchten euch diese sein, Varuna, Mitra, Aryaman, wir möchten die Lenker des rechten Wortes sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Könige [(beschützt) dies oder ähnliches aus einem frühern, nicht vorhandenen Verse zu ergänzen] ihr jeden der unter den Menschen waltet, o Völkerbezwinger; wir seien solche euch o Varuna, Mitra, Arjaman, die das Opferwerk lenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, (Адитьи,) о цари, покоряющие народы,  
 Любого (смертного) правящего среди людей...  

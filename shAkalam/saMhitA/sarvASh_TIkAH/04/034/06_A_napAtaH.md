@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नपातः शवसो यातनो꣡प  
 इमं꣡ यज्ञं꣡ न꣡मसा हूय꣡मानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡ध्वः पात रत्नधा꣡ इ꣡न्द्रवन्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒ऽजोष॑सः । सू॒र॒यः॒ । यस्य॑ । च॒ । स्थ । मध्वः॑ । पा॒त॒ । र॒त्न॒ऽधाः । इन्द्र॑ऽवन्तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -119,37 +119,37 @@ genre M
 हे **शवसः** **नपातः** बलस्य न पातयितारस्तस्य पुत्रा वा । बलवन्त इत्यर्थः । यूयं **नमसा** स्तोत्रेण **हूयमानाः** आकारिताः सन्तः **इमं** **यज्ञम्** **उप** **आ** **यातन** उपागच्छत । कीदृशा यूयम् । **सजोषसः** इन्द्रेण सह प्रीताः **सूरयः** मेधाविनः । इन्द्रस्य चैषां च कः प्रसङ्ग इत्युच्यते । **यस्य** **च** **स्थ** । चेति प्रसिद्धौ । यस्येन्द्रस्य संबन्धिनो यूयं भवथ तदुचिताश्वनिर्माणात् इत्यभिप्रायः । यस्मादेवं तस्मात् **इन्द्रवन्तः** प्रीतेन इन्द्रेण तद्वन्तः **रत्नधाः** रमणीयधनानां दातारो यूयं **मध्वः** मधुरं सोमं **पात** पिबत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sons of strength, come to this sacrifice, invoked with veneration; givers of precious things, associated with **Indra**, with whom you are intelligent, participate in being gratified (by the libation), drink ofthe sweet **Soma** juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O children of strength, travel here toward this sacrifice, being  
 summoned with reverence.  
 Together, o patrons and (the one) to whom you belong [=Indra], drink  of the honey [=soma] along with Indra, as those who confer treasure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to this sacrifice of ours, ye Children of Strength, invoked with humble adoration.  
      Drink of this meath, Wealth-givers, joined with Indra with whom ye are in full accord, ye Princes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet her zu diesem Opfer, ihr Kinder der Stärke, unter Verbeugung gerufen, und trinket einträchtig in Begleitung des Indra, Belohnung bringend, von dem Met, dessen Opferherren ihr seid!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun kommt herbei, o Söhne ihr der Stärke, zu diesem Opfer demuthsvoll gerufen; Vereinigt trinkt, o reiche, und mit Indra, dem ihr gehört, vom Meth, ihr Schätzespender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О отпрыски силы, приходите  
 На эту жертву, призываемые с поклонением!  

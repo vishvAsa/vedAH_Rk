@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य ते अग्ने अन्ये꣡ अग्न꣡य  
 उपक्षि꣡तो वया꣡ इव  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 त꣡व क्षत्रा꣡णि वर्ध꣡यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विपः॑ । न । द्यु॒म्ना । नि । यु॒वे॒ । जना॑नाम् । तव॑ । क्ष॒त्राणि॑ । व॒र्धय॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -113,36 +113,36 @@ genre M
 हे **अग्ने** **यस्य** **ते** तव **अन्ये** **अग्नयः** **वयाइव** वृक्षस्य शाखा इव **उपक्षितः** समीपे निवसन्तो भवन्ति **जनानां** जनिमतां मनुष्याणां मध्येऽहं तस्य **तव** **क्षत्राणि** बलानि स्तुत्या **वर्धयन्** **विपो** **न** । स्तोतृनामैतत् । अन्ये स्तोतार इव **द्युम्ना** द्योतमानान्यन्नानि यशांसि वा **नि** **युवे** नितरां प्राप्नोमि । त्वत्प्रसादाल्लभेयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, on whom your other fires are dependent, like branches (on the stem of the tree), may I amongmen, magnifying your powers, become possessed, like (other) votaries, of (abundant) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, on whom the other fire are dependent, like branches (on  a tree).  
 I team up the brilliant glories of the peoples as (poets team up) inspired  poems, while I strengthen your powers to rule.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, thou on whom all other fires depend, as branches on the parent stem,  
      I make the treasures of the folk, like songs, mine own, while I exalt thy sovran might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, von dem die anderen Agni´s Abhänglinge sind wie die Zweige vom Baum. Ich binde die Herrlichkeiten der anderen Leute an mich, wie man die Reden anbindet anspannt, indem ich deine Herrschaft erhöhe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An dem, o Agni, deine andern Feuer auch wie Aeste haften an dem Baum; Der Männer Schätze zieh' ich Zweigen gleich heran, indem ich deine Herrschaft mehr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты,) О Агни, (тот,) от которого зависят  
 Другие Агни, словно ветви (от дерева).  

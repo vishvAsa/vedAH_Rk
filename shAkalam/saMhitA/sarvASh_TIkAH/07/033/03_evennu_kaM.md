@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवे꣡न् नु꣡ कं सि꣡न्धुम् एभिस् ततार  
 एवे꣡न् नु꣡ कम् भेद꣡म् एभिर् जघान  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रा꣡वद् इ꣡न्द्रो ब्र꣡ह्मणा वो वसिष्ठाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ए॒व । इत् । नु । क॒म् । दा॒श॒ऽरा॒ज्ञे । सु॒ऽदास॑म् । प्र । आ॒व॒त् । इन्द्रः॑ । ब्रह्म॑णा । वः॒ । व॒सि॒ष्ठाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *even* ← *eva*
 - \[adverb\]
@@ -148,7 +148,7 @@ popular
 **एवेत्** यथा पाशद्युम्नस्य सवाख्ये' सोमयागे चमसस्थं सोमं पिबन्तमपीन्द्रं वसिष्ठैः सुदाः प्राप्तवान् एवमेव **सिन्धुं** नदीम् **एभिः** वसिष्ठैः **कं** सुखेन **ततार** तीर्णं आसीत् । **नु** इति पूरणः । तथा च निगमान्तरम्-’ अर्णांसि चित्पप्रथाना सुदासे' (ऋ. सं. ७. १८, ५) इति । **एवेत्** एवमेव **भेदं** भेदनामकं शत्रुमपि **एभिः** वसिष्ठैरेव **जघान** । अथ प्रत्यक्षस्तुतिः । **एवेत्** एवमेव हे **वसिष्ठाः** **वः** युष्मदीयेन **ब्रह्मणा** स्तोत्रेण **दाशराज्ञे** दशभी राजभिः सह युद्धे प्रवृत्ते सति **सुदासं** राजानम् **इन्द्रः** **प्रावत्** प्रारक्षत् । तथा च निगमान्तरं - दश राजानः समिता अयज्यवः सुदासमिन्द्रावरुणा न युयुधुः' (ऋ. सं. ७, ८३. ७) इति ‘दाशराज्ञे परियत्ताय विश्वतः' (ऋ. सं. ७, ८३.८) इति च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -159,34 +159,34 @@ popular
 He easily sle his foe: bhedam jaghāna: **bheda** may also be aproper name; in the war with ten kings: dāśarājñe = daśabhī rājābhiḥ **saha** yuddhe
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It was certainly just with them that he crossed the Sindhu; certainly just  with them that he smashed Bheda [/the “Splitter”];  
 it was certainly just by reason of your sacred formulation that Indra  helped Sudās in the Battle of the Ten Kings, o Vasiṣṭhas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With this vs. we pass to the Ten Kings Battle and the Vasiṣṭhas’ crucial efforts in securing Indra’s aid for Sudās. The emphatic repeated opening of the first three pādas evén nú kam highlights the critical incidents. The two sequences evéd and nú kam are both found fairly frequently elsewhere, but never elsewhere together, so it’s difficult to judge the force of their combination.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, verily, with these he crossed the river, in company with these he slaughtered Bheda.  
      So in the fight with the Ten Kings, Vasisthas! did Indra help Sudas through your devotions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So überschritt er gar bald mit ihnen die Sindhu, so erschlug er gar bald mit ihnen den Bheda, so kam Indra gar bald in der Zehnkönigsschlacht dem Sudas zu Hilfe durch euer Kraftwort, ihr Vasistha´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fürwahr, mit ihnen durchdrang er einst die Ströme, mit ihnen schlug er den Bheda [einen der zehn Könige, die wider den Sudas kämpften], fürwahr durch euer Gebet, o Vasischtha's half Indra dem Sudas in der Zehnkönigsschlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот так он вскоре пересек с ними Синдху,  
 Вот так он вскоре убил с ними Бхеду,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वेदिष꣡दे प्रिय꣡धामाय सुद्यु꣡ते  
 धासि꣡म् इव प्र꣡ भरा यो꣡निम् अग्न꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ज्योती꣡रथं शुक्र꣡वर्णं तमोह꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वस्त्रे॑णऽइव । वा॒स॒य॒ । मन्म॑ना । शुचि॑म् । ज्यो॒तिःऽर॑थम् । शु॒क्रऽव॑र्णम् । त॒मः॒ऽहन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vediṣade* ← *vediṣad*
 - \[noun\], dative, singular, masculine
@@ -132,47 +132,47 @@ genre M
 हे अध्वर्यो **वेदिषदे** वेद्यां सीदते नित्यं **प्रियधामाय** प्रियधाम्ने प्रियस्थानाय उत्तरवेदिलक्षणप्रियाय **सुद्युते** शोभनद्योतनाय **अग्नये** अग्रनयनादिगुणविशिष्टाय **योनिं** स्थानं वेद्याख्यं **धासिमिव** हवीरूपमन्नमिव **प्र** **भर** प्रहर प्रकर्षेण संपादयेत्यर्थः। तच्च स्थानं **वस्त्रेणेव** तेन यथा मार्दवाय आस्तृणाति तद्वत् **मन्मना** मननीयेन संभारेण बर्हिषा वा वेदिस्थान **वासय** आच्छादय । कीदृशं तत्स्थानमिति तदुच्यते। **शुचिम्** उत्पवनप्रोक्षणादिना अमेध्यासुरादीनाम् अपगतत्वात् शुद्धं **ज्योतीरथं** ज्योतिषः आज्यादेरग्नेर्वा रथस्थानीयम् आधारभूतत्वात् **शुक्रवर्णम्** अग्न्युपेतत्वाद्दीप्तवर्णम् अत एव **तमोहनं** तमसोऽन्धकारस्य हन्तारमज्ञानस्य वा । अग्निसाध्ययज्ञादिद्वारा ज्ञानविचारकत्वादिति भावः । यद्वा । तस्यां योनौ स्थाने वस्त्रेण यथा गोपनीयं वस्तु गोपयन्ति तद्वत्तमग्निं वासय निवासय स्थापय । मन्मना मननीयेन हृद्येन वस्त्रसदृशेन मृदुकाष्ठादिना आच्छादय वा । कीदृशम्। ज्योतीरथं दीप्तिरथोपेतम् । शेषं पूर्ववत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Prepare a (fit) plural ce, as it were an offering, for the radiant **Agni**, who is seated on the altar, and fond of his station; strew the sacred, light-bearing, bright and gloom-dispelling (spot), with agreeable (**kuśa** grass), as with a garment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To him sitting on the altar, the very bright one whose domain is dear—to  Agni bear forth his womb like a wellspring (of nourishment).  
 As if with a garment, clothe the blazing one with a thought—the  
 smiter of darkness whose chariot is of light, whose color is blazing  bright.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referent of dhāsí- ordinarily ‘wellspring’ (see comm. I.62.3), which is identified here as Agni’s yóni- ‘womb’, is unclear. In VIII.43.7, 29 and III.7.3 (also perhaps III.7.1) the dhāsí- is the plants (=firewood) to be “eaten,” i.e., burned, by the fire, hence the source (‘wellspring’) of the fire’s growth. Since whatever it is here can be carried (prá bharā), firewood makes sense, and this interpr. is supported by the fact that the plants that Agni burns are an important theme in this hymn (vss. 2ab, 6-8). Though in I.122.13, a passage adduced by Witzel Gotō, I render dhāsí- as ‘gush’ (developing a different aspect of ‘wellspring, fountain’; cf. also VI.67.6), that sense does not work well here because it must be identified with the yóni- and capable of being carried.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To splendid Agni seated by the altar, loving well his home, I bring the food as 'twere his place of birth.  
      I clothe the bright One with my hymn as with a robe, him with the car of light, bright-hued, dispelling gloom.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For him who sits on the Vedi (i. e. on the sacrificial bed), whose foundations are pleasant, for the brilliant Agni bring forward 1 a receptacle 2, which is to him like a drink. Clothe 1 the bright one in prayer as in a garment, him whose chariot is light, whose colour is bright, the destroyer of darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, dem Altarsitzer, der seine Geburtsstätte lieb hat, dem schön leuchtenden bring seinen Schoß dar wie eine Speise! Hülle den Reinen in Gebet ein wie ein Gewand, den Dunkelzerstörer, des Wagen Licht, des Farbe hell ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der am Altar auf lieber Stätte schön erglänzt, dem Agni richt' ich zu den Schooss wie Labetrunk; Den lichten schmück' mit Liedern wie mit Kleidern ich, der hell an Glanz auf Flammen fährt, das Dunkel schlägt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сидящему на алтаре, любящему (свое) место, прекрасно сверкающему  
 Агни принеси (его) лоно, как расплавленную массу (жира)!  

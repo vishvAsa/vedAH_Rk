@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ त्वा ज꣡नासो अभि꣡ संच꣡रन्ति  
 गा꣡व उष्ण꣡म् इव व्रजं꣡ यविष्ठ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्त꣡र् महां꣡श् चरसि रोचने꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दू॒तः । दे॒वाना॑म् । अ॒सि॒ । मर्त्या॑नाम् । अ॒न्तः । म॒हान् । च॒र॒सि॒ । रो॒च॒नेन॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -122,36 +122,36 @@ genre M
 हे **यविष्ठ** युवतम अग्ने **यं** **त्वा** त्वां **जनासः** जना यजमानाः फलप्राप्त्यर्थम् **अभि** **संचरन्ति** अभितः परिचरन्ति सेवन्ते। तत्र दृष्टान्तः । **गावः** **उष्णमिव** यथा गावः शीतार्ता • उष्णं शीतजनितदुःखापनोदनार्थमुष्णं **व्रजं** गोष्ठमभिगच्छन्ति तद्वत्। स त्वं **देवानाम्** इन्द्रादीनां **मर्त्यानां** मनुष्याणां च **दूतः** **असि** हविष्प्रापणद्वारा। ततः **महान्** त्वम् **अन्तः** द्यावापृथिव्योर्मध्ये हवींष्यादाय **रोचनेन** अन्तरिक्षेण लोकेन **चरसि** गच्छसि । तं त्वां स्तुम इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Men have recourse to you, **Agni**, youngest (of the gods), as cattle hasten to the warm stall. You arethe messenger of the gods and of mortals; mighty, you proceed by the firmament between (heaven and earth). sustains you. You come, eager from above the firmament, by a downward path, and when released (after theoblation is offered), you desire to go back like cattle (to their stall).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, upon whom the peoples converge like cows on a warm pen, o  youngest one,  
 you are the messenger of gods and of mortals. A great one, you act the  go-between through the luminous realm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou unto whom resort the gathered people, as the kine seek the warm stall, O Most Youthful.  
      Thou art the messenger of Gods and mortals, and goest glorious with thy light between them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um den die Menschen sich scharen wie die Rinder um den warmen Viehstand, du Jüngster. Du bist der Bote der Götter und der Sterblichen. Du, der Große, gehst zwischen Himmel und Erde mit deinem Glanze.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dem die Menschen rings zusammenströmen, wie Kühe in den warmen Stall, o jüngster, Der Götter Bote bist du und der Menschen, und gehst mit Glanz erhaben zwischen beiden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты – тот,) к кому сходятся люди,  
 Как коровы к теплому загону, о самый юный.  

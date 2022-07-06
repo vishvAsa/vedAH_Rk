@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञे꣡ दिवो꣡ नृष꣡दने पृथिव्या꣡  
 न꣡रो य꣡त्र देवय꣡वो म꣡दन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग꣡मन् म꣡दाय प्रथमं꣡ व꣡यश् च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्रा॑य । यत्र॑ । सव॑नानि । सु॒न्वे । गम॑त् । मदा॑य । प्र॒थ॒मम् । वयः॑ । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 **यत्र** यस्मिन् यज्ञे **देवयवः** देवान् कामयमानाः **नरः** नेतार ऋत्विजः **मदन्ति** हृष्यन्ति **यत्र** यस्मिंश्च **सवनानि** अभिषोतव्याः सोमाः **इन्द्राय** इन्द्रार्थं **सुन्वे** अभिषूयन्ते **पृथिव्याः** संबन्धिनि **नृषदने** नृणां नेतॄणां सदनभूते तस्मिन् **यज्ञे** **प्रथमं** सर्वेभ्यो देवेभ्यः पूर्वं **दिवः** द्युलोकात् **गमत्** आगच्छतु । किमर्थम् । **मदाय** मदार्थम् । सोमं पातुमित्यर्थः। तथा **वयश्च** गन्तारस्तदीया अश्वाश्च गमत् आगच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,14 +127,14 @@ genre M
 In the dwellings: at the sacrifice which is the home of the priests upon earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the sacrifice, at the seat of men (coming) from heaven and from  earth, where men seeking the gods become exhilarated,  
 where pressings are pressed for Indra, he will come at first for  
 exhilaration and to vitality.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. plays on the ambiguity of reference of the noun nṛ́-, which can refer both to superior (mortal) men and to gods. It also cleverly but uninsistently identifies the sacrifice as the meeting place of men and gods, the nṛṣádana- ‘seat of men’ who come from / belong to both heaven and earth (diváḥ … pṛthivyā́ḥ) -- though see Geldner’s n. 1a for other, in my opinion less likely, possibilities. The náraḥ in pāda b, however, seem only to be men proper, that is mortals, who seek the gods at the sacrificial common ground. 123 In c sunvé is one of the rare exx. of a singular verb with neut. pl. subj. (here sávanāni), a construction that is of course supported by comparative evidence. Grassmann interprets the verb rather as a 1st sg. transitive. This is not impossible -- and note the 1st pl. verb in 2a -- but sunve is otherwise passive, with 3rd pl. sunviré likewise passive.
 
@@ -147,23 +147,23 @@ The pāda is also marked by case disharmony: dat. mádāya and acc. váyaś ca a
 A more problematic issue, at least for me, is the position of ca, unmentioned by any one, incl. Klein. The standard tr./interpr. take the 2nd term of the conjoined NP to be prathamáṃ váyaḥ “first vitality/youth,” but we should then expect the ca to follow prathamám, the first word of the second member. Although such positioning is not an unbreakable rule, it is remarkably regular. To avoid the problem I take prathamám as an adverb here, as I do in the parallel I.83.4 (prathamám … váyaḥ without a ca), cited by Oldenberg and Renou, for which see comm. ad loc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHERE Heaven and Earth combine in men's assembly, and ttose who love the Gods delight in worship,  
      Where the libations are effused for Indra, may he come first to drink and make him stronger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Opfer, zu der Männerversammlung des Himmels und der Erde, wo die gottergebenen Männer schwelgen, wo dem Indra Trankspenden gepreßt werden, soll Indra kommen, um sich zu berauschen, und zur ersten Jugendkraft kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim Himmelsfest, im Männersitz der Erde, wo sich erfreun die gottergebnen Männer, Wo Opfertränke ich dem Indra braue, da komm zum Rausch er, zu der ersten Labung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На жертвоприношение, на собрание мужей неба и земли,  
 Где опьяняются преданные богам мужи,  

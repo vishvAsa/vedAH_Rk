@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ उ प्रियो꣡ म꣡नुषः सादि हो꣡ता  
 ना꣡सत्या यो꣡ य꣡जते व꣡न्दते च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ वां वोचे विद꣡थेषु प्र꣡यस्वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒श्नी॒तम् । मध्वः॑ । अ॒श्वि॒नौ॒ । उ॒पा॒के । आ । वा॒म् । वो॒चे॒ । वि॒दथे॑षु । प्रय॑स्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ny* ← *ni*
 - \[adverb\]
@@ -125,37 +125,37 @@ genre M
 **प्रियः** युवयोः प्रियभूतः **मनुषः** मानुषो मनुषः सकाशाज्जातो वा **होता** देवानामाह्वाता स्तोतायं **नि** **षादि** न्यसादि निषण्णो भवति । युवयोः कर्मणि वर्तत इत्यर्थः । हे **नासत्या** अश्विनौ **यः** **यजते** यागं करोति **वन्दते** स्तौति **च** तस्य संबन्धिनं **मध्वः** मधुरं सोमरसं हे **अश्विना** अश्विनौ **उपाके** अन्तिक एव समीपे स्थित्वैव **अश्नीतम्** । पिबतमित्यर्थः । **विदथेषु** यज्ञेषु **वां** युवा **प्रयस्वान्** अन्नवान् सन् **आ** **वोचे** आह्वये ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The man who is dear to you, **Nāsatyās**, the invoker of the gods, has taken his seat, he who offersworship and repeats praise; be near, **Aśvins**, and partake of the libation; supplied with food, I address you atsacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Manu’s own dear Hotar [=Agni] has been set down, he who sacrifices to  the Nāsatyas and extols them.  
 Eat of the honey [=soma], Aśvins, nearby to us. Bringing pleasing  
 offerings, I call on you two at the ritual distributions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And, O Nasatyas, man's dear Priest is seated, who brings to sacrifice and offers worship,  
      Be near and taste the pleasant juice, O Asvins: with food, I call you to the sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der liebe Hotri des Manu hat sich niedergesetzt, der die Nasatya´s verehrt und lobt. Genießet, ihr Asvin, in nächster Nähe vom Süßtrank! Ich rufe euch her bei weisen Reden euch labend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hin setzte sich der Menschen lieber Priester, der die getreuen feiert und verehret; Geniesst bei uns-den süssen Trank, o Ritter; ich ruf euch an, beim Feste Labung bringend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот уселся милый хотар человека,  
 Который почитает Насатьев и восхваляет.  

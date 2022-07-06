@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡खातं चिद् यः꣡ पुरुसम्भृतं꣡ व꣡सु  
 उ꣡द् इ꣡द् व꣡पति दाशु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 इ꣡न्द्रः क्र꣡त्वा य꣡था व꣡शत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒ज्री । सु॒ऽशि॒प्रः । हरि॑ऽअश्वः । इत् । क॒र॒त् । इन्द्रः॑ । क्रत्वा॑ । यथा॑ । वश॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nikhātaṃ* ← *nikhātam* ← *nikhan* ← *√khan*
 - \[verb noun\], accusative, singular
@@ -130,7 +130,7 @@ genre M
 निशातञ्चित् भूमौखात्वा स्थापितमतिसम्भृतं सङ्गृहीतं यागदानादिकं कृत्वा ईदृशं पुरुबहु वसु धनं उदिद्वपति उद्वपत्येव दाशुषे यजमानाय एवम् । योदेवःकरत् करोति सवज्री सुशिप्रः सुहनुः हर्यश्वइत् हरितवर्णाश्वयुक्त इन्द्रएव करोति केनोपाधिना कत्वा कर्मणा यागेनोपाधिना यथाव- शत् येनप्रकारेण कामयते तथासएव करोति ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,30 +143,30 @@ Accusative ulated by many: **puru** saṃbhṛtam = the buried wealth, plural nt
 Whenpropitiated: sacrifice is here the **upādhi** or necessarypreliminary condition
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who casts upward for the pious man the goods assembled by many,  even when they are buried deep,  
 Indra, with mace, fair lips, and fallow bays, will act as he wishes  
 according to his will.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who for the worshipper scatters forth ample wealth, even though buried, piled in heaps:  
      May Indra, Lord of Bay Steeds, fair-helmed Thunderer, act at his pleasure, as he lists.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der für den Spender auch einen vergrabenen, von vielen angehäuften Schatz ausgräbt, der Keulenträger mit schönen Lippen, der Falbenfahrer Indra möge tun, wie er in seinem Sinn will.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der auch vergrabnen reichlich aufgehäuften Schatz zuschüttet dem Verehrenden, mit Füchsen fährt, und Blitze trägt und schönen Helm, thu' Indra kräftig, was er will.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто даже зарытое, собранное у многих богатство  
 Выкапывает для (своего) почитателя,  

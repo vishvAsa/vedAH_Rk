@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सृजो꣡ मही꣡र् इन्द्र या꣡ अ꣡पिन्वः  
 प꣡रिष्ठिता अ꣡हिना शूर पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 अ꣡वाभिनद् उक्थइ꣡र् वावृधानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 अम॑र्त्यम् । चि॒त् । दा॒सम् । मन्य॑मानम् । अव॑ । अ॒भि॒न॒त् । उ॒क्थैः । व॒वृ॒धा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sṛjo* ← *sṛjaḥ* ← *sṛj*
 - \[verb\], singular, Present injunctive
@@ -110,42 +110,42 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 शूरशत्रूणांहिंसक हेइन्द्र याअपोऽपिन्वः अवर्धयः पूर्वीः प्रभूतस्ताअहिनामेघेनवृत्रेण वापरि- ष्ठिताः अधिष्ठिताः आक्रान्ताः ततस्त्वन्तस्मादहेः सकाशात् महीः महतीः अपः सृजः व्यसृजः उक्थैः शस्त्रैर्वावृधानोवर्धमानस्त्वन्दासंसर्वस्योपक्षपयितारंअमर्त्यञ्चित् मरणधर्मरहितमेवात्मानम्मन्यमानं- तमसुरंअवाभिनत् अवाङ्मुखंयथाभवतितथाहिंसितवानित्यर्थः भिदिर् विदारणे लङिसिपिरूपम् ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, hero, you have set free the copious (waters) which were formerly arrested by Ahi, and which you have distributed; invogorated by hymns, you have cast down headlong the slave, conceiting himself immortal.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You let loose the great (waters), Indra, which you swelled—the many  (waters) surrounded by the serpent [=Vr̥tra], o champion.  
 You cut down the Dāsa [=Vr̥tra], even though he thought he was  
 immortal, when you became strong through the hymns.414 II.11
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pf. part. vāvṛdhānáḥ would better be rendered as an anterior: “when you had become strong …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Floods great and many, compassed by the Dragon, thou badest swell and settest free, O Hero.  
      Strengthened by songs of praise thou rentest piecemeal the Dasa, him who deemed himself immortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du ließest die großem Ströme laufen, o Indra, die du anschwelltest, die vielen von dem Drachen umstellten, du Held. Den Dasa, der sich sogar für einen Unsterblichen hielt, hiebst du herunter, durch die Loblieder aufgerichtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du liessest frei die Ströme, die du schwelltest, die vielen, Indra, von der Schlang' umstellten; Den Dämon auch, der sich unsterblich dünkte, schlugst du herab, durch Sprüche wohlgekräftigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты выпустил, о Индра, великие (реки), которые сделал набухшими,  
 Многочисленные запруженные змеем, о герой.  

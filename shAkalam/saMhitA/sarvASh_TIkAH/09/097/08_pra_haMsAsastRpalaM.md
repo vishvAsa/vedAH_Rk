@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ हंसा꣡सस् तृप꣡लम् मन्यु꣡म् अ꣡छ  
 अमा꣡द् अ꣡स्तं वृ꣡षगणा अयासुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दुर्म꣡र्षं साक꣡म् प्र꣡ वदन्ति वाण꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ॒ङ्गू॒ष्य॑म् । पव॑मानम् । सखा॑यः । दुः॒ऽमर्ष॑म् । सा॒कम् । प्र । व॒द॒न्ति॒ । वा॒णम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -106,7 +106,7 @@ genre M
 हंसासः शत्रुभिर्हन्यमानाः हंसाइव चरन्तोवावृषगणाः एतन्नामकाऋषयः अमात् शत्रूणां बलात् त्रासिताःसन्तः तृपलं त्ऋपलशब्दःक्षिप्रचारी तदुक्तंयास्केन—तृपलप्रभर्मा- क्षिप्रप्रहारीति । क्षिप्रप्रहारिणम्मन्युं शत्रूनभिहन्यमानं सोमं अच्छ अभिलक्ष्य अस्तं यज्ञगृहं प्रायासुः प्रयासिषुः प्रगच्छन्ति । ततः सखायः स्तुत्यस्तोतृत्वलक्षणेन सम्बन्धेन सखिभूताः स्तोतारः आङ्गूष्यं सर्वैरभिगन्तव्यं यद्वा घोषशब्दस्य पृषोदरादित्वादाङ्गूषइत्यादेशः आङ् अनुनासिकश्छान्दसः स्तोत्रार्हं दुर्मर्षं शत्रुभिर्दुर्धरं दुःसहं एवंविधंसोमं पवमानमुद्दिश्य वाणं वाद्यविशेषं साकं सहैवप्रवदन्ति प्रवादयन्ति तदुपलक्षितं गानङ्कुर्वन्तीत्यर्थः ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ Walking like swans: haṃsāsaḥ = wounded by the enemy;
 Amāt = śatrūṇām balāt trāsitāḥ **santaḥ**; another interpretation: the vṛṣagaṇas have gone from hence to their home
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The geese have journeyed forth to (Soma’s) sharp battle-fury, from  nearby to their home, in a bullish flock.  
 The comrades speak in unison to the self-purifying one a songful music  difficult to forget.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. of this vs. differs from the standard because I don’t interpr.
 
@@ -148,23 +148,23 @@ This tṛca is attributed to Vṛṣagaṇa Vāsiṣṭha, whose given name was 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Swans, the Vrsaganas from anear us have brought their restless spirit to our dwelling.  
      Friends come to Pavamana meet for praises, and sound in concert their resistless music.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Gänse haben die Vrisagana´s sich von daheim zu Tripala Manyu in das Haus begeben, zum preislichen Pavamana die Freunde. Gemeinsam erheben sie ihre unvergeßliche Stimme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Schwäne nahten seinem raschen Andrang, sie eilten heim erschreckt in grossen Scharen; Sie stimmen an gemeinsam als Genossen hell tönenden Gesang, der unvergesslich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Словно) гуси, двинулись вперед из своих краев домой  
 К Трипале Манью люди Вришагана,  

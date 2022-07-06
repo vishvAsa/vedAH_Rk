@@ -6,12 +6,12 @@ ChandaH = "एकपदा विराट् (पाद एव वा शान
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्रं꣡ नो अ꣡पि वातय म꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -25,7 +25,7 @@ genre M
 भ॒द्रम् । नः॒ । अपि॑ । वा॒त॒य॒ । मनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
@@ -56,7 +56,7 @@ genre M
 हे अग्ने त्वं **नः** अस्माकं **मनः** **भद्रं** शुभयुक्तम् **अपि** **वातय** । अपिरत्र धात्वर्थानुवादी ॥ आगमय । त्वत्संबन्धिस्तोत्रकरणे प्रेरयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -67,27 +67,27 @@ genre M
 This one line is meant as a propitiation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make auspicious thought our familiar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SEND unto us a good and happy mind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns einen glücklichen Gedanken ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O flösse schönen Sinn uns ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вдохни же в нас счастливую мысль!
 </details>

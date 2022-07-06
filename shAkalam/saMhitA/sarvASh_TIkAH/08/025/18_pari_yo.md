@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि यो꣡ रश्मि꣡ना दिवो꣡  
 अ꣡न्तान् ममे꣡ पृथिवियाः꣡  
 उभे꣡ आ꣡ पप्रौ रो꣡दसी महित्वा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 उ॒भे इति॑ । आ । प॒प्रौ॒ । रोद॑सी॒ इति॑ । म॒हि॒ऽत्वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -90,41 +90,41 @@ genre M;; repeated line
 **यः** मित्रः **दिवः** **पृथिव्याः** द्यावापृथिव्योः **अन्तान्** **रश्मिना** स्वतेजसा **परि** **ममे** परिमिनोति । तयोः पर्यन्तान् स्वरश्मिना भासयतीत्यर्थः। स एव **उभे** **रोदसी** द्यावापृथिव्यौ **महित्वा** स्वमहिम्ना **आ** **पप्रौ** आ समन्तात् पूरयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Mitra** is he) who has measured with his rays the limits of both heaven and earth; who has filled bothheaven and earth with his greatness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who measured on every side the ends of heaven and of earth with  his ray,  
 he filled both world-halves with his greatness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I would now substitute ‘limits’ or ‘boundaries’ for ‘ends’ in tr. ántān.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath measured with his ray the boundaries of heaven and earth,  
      And with his majesty hath filled the two worlds full,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der mit seinem Strahl der Meßschnur die Grenzen des Himmels, der Erde ausgemessen hat, er erfüllt mit seiner Größe beide Welten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, welcher misst mit seinem Strahl der Erde und des Himmels Saum, Mit seiner Grösse füllte beide Welten er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот,) кто лучом (своим) границы  
 Неба (и) земли измерил,  

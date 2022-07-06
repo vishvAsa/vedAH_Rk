@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व म꣡धुमत्तम  
 इ꣡न्द्राय सोम क्रतुवि꣡त्तमो म꣡दः  
 म꣡हि द्युक्ष꣡तमो म꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 महि॑ । द्यु॒क्षऽत॑मः । मदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -84,21 +84,21 @@ genre M
 हे **सोम** **मधुमत्तमः** अतिशयेन माधुर्योपेतस्त्वम् **इन्द्राय** इन्द्रार्थं **मदः** मदकरः सन् **पवस्व** क्षर। कीदृशः । **क्रतुवित्तमः** अत्यन्तं प्रज्ञायाः कर्मणो वा लम्भकः **महि** महान् मंहनीयो वा **द्युक्षतमः** अत्यन्तं दीप्तः **मदः** मदहेतुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**,who are most sweet-flavoured, most intelligent, the exhilarator, flow for **Indra**, the great, the most brilliant,the exhilarator.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself as the most honeyed for Indra, o Soma, as the  
 exhilarating drink that best finds resolve,  
 greatly, as the exhilarating drink that best rules heaven,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ There is syntactic dependence between the two vss., at least by my reading: 2ab 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FOR Indra, flow thou Soma on, as gladdening juice most sweet, intelligent,  
      Great, cheering, dwelling most in heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, Soma, für Indra als süßester, am besten ratfindender Rauschtrank, als weitaus der himmlischste Rauschtrank;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra ström, o Soma, hell, als süssestes, als kraftverleihendstes Getränk, erhaben himmlisches Getränk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся как самый сладкий  
 Для Индры, о сома, лучше всех создающий силу духа пьянящий напиток,  

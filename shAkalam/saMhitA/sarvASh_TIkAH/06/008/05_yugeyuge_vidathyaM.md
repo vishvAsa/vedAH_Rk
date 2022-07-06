@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युगे꣡-युगे विदथि꣡यं गृण꣡द्भियो  
 अ꣡ग्ने रयिं꣡ यश꣡सं धेहि न꣡व्यसीम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 नीचा꣡ नि꣡ वृश्च वनि꣡नं न꣡ ते꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प॒व्याऽइ॑व । रा॒ज॒न् । अ॒घऽशं॑सम् । अ॒ज॒र॒ । नी॒चा । नि । वृ॒श्च॒ । व॒निन॑म् । न । तेज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuge* ← *yuga*
 - \[noun\], locative, singular, neuter
@@ -133,20 +133,20 @@ genre M
 “अघशंसम् अघस्यानर्थस्य शंसितारं शत्रुं **नीचा** नीचीनो न्यग्भूतो यथा भवति तथा **नि** **वृश्च** निजहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To those, **Agni**, who repeat new (praises) to you, the object of their worship from age to age, grant riches and famous (posterity); strike don, undecaying, sovereign, the sinner with your blaze like the thunderbolt, as if he were a tree.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In every generation, o Agni, establish for the singers glorious wealth for  ritual distribution and a newer (thought).  
 As if with a metal wheel-rim, o unaging king, hew down like a tree the  one who curses, with your sharpness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the first hemistich the distribution of the accusatives is at issue: vidathyàm … rayíṃ yaśásam … návyasīm. The first, vidathyàm, must be either masc. or neut.; yaśásam is ambiguous between masc. and fem. (though far more often masc. than fem.); návyasīm is clearly fem. The sole noun, rayím, is generally held to be normally masc., but occasionally fem. Although I think this statement is true, I also think that the number of supposedly fem. occurrences can be considerably reduced, to the point that apparently fem. examples should be viewed as aberrancies, not as normal if rare usages. In this particular case Oldenberg (ZDMG 55.296 [=KlSch 755], not restated in Noten) and Geldner decide that rayím must be fem. here, as evidenced by návyasīm, so that another noun must be supplied for vidathyàm to modify. Oldenberg supplies agním and takes that phrase as an obj. to the part. gṛṇádbhyaḥ (without tr.), while Geldner supplies vīrám (which does indeed occur with vidathyàm in I.91.20 and VII.36.8) as an obj.
 
@@ -157,23 +157,23 @@ In my opinion, rayím is masc. here, modified by vidathyàm and yaśásam (so al
 In the 2nd hemistich Geldner and Renou take téjasā with the simile (“mit dem Schärfe (der Axt)” and “avec l’aigu (de la hache)” respectively), while I attribute the sharpness only to Agni in the frame. Certainly their interpr. fits the word order well (vanínaṃ ná téjasā), though it doesn’t necessarily require téjasā to be part of the simile. On the other hand, it does require pavyéva at the beginning of the hemistich to be dissociated from the later simile or at least considerably sidelined. In the end, I would go for a compromise position, that téjasā should be read with both simile and frame: “as if with a metal wheel rim, hew down the curser with your sharpness like a tree with the sharpness (of an axe vel sim.).” I have not separately rendered nīcā́in the phrase nīcā́ní vṛśca, which seems simply to reinforce the ní.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In every age bestow upon the singers wealth, worthy of holy synods, glorious, ever new.  
      King, undecaying, as it were with sharpened bolt, smite down the sinner like a tree with lightning-flash.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verschaffe den Sängern in jedem Menschenalter einen in Weisheit tüchtigen Mann, o Agni, und Ansehen bringenden neuen Reichtum! Wie mit dem Eisen fälle den Lästerer nieder, o alterloser König, wie den Baum mit der Schärfe der Axt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu jeder Zeit verleih den Sängern, Agni du, den neusten schönen Reichthum, der bei Festen glänzt, Den Bösen reisse nieder, ew'ger König du, wie mit der Pflugschar, wie mit scharfer Axt den Baum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В каждом поколении даруй певцам богатство,  
 О Агни, исходящее из жертвенных раздач, блистательное, самое новое!  

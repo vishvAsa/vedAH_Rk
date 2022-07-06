@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गि꣡रस् त इन्द ओ꣡जसा  
 मर्मृज्य꣡न्ते अपस्यु꣡वः  
 या꣡भिर् म꣡दाय शु꣡म्भसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 याभिः॑ । मदा॑य । शुम्भ॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *giras* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
@@ -79,40 +79,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** **ते** तव **ओजसा** बलेन **अपस्युवः** कर्मेच्छासंबन्धिन्यः ताः **गिरः** स्तुतयः **मर्मृज्यन्ते** शोध्यन्ते **याभिः** गीर्भिस्त्वं **मदाय** क्षरन् **शुम्भसे** अलंक्रियसे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Indu**, by the power the busy voices are hallowed which adorn you as you drop for our exhilaratioṇ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drop, the industrious songs are constantly groomed by your power, the songs by which you are (in turn) beautified for exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Finite forms of the intens. -yá-pres. marmṛjyá- are ordinarily transitive, as in
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Songs, Indu, active in their might are beautified for thee, wherewith  
      Thou deckest thee for our delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch deine Kraft putzen sie die emsigen Loblieder heraus, o Saft, mit denen du dich zum Rausche schön machst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Werkthät'ge Lieder werden dir, o Indu, kräftig ausgeschmückt, Mit denen du zum Rausche strahlst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Силой твоей, о капля, они мощно  
 Начищают прилежные песни,  

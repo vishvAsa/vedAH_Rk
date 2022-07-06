@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्वयाँ꣡ अग्ने रथि꣡नो विंशतिं꣡ गा꣡  
 वधू꣡मतो मघ꣡वा म꣡ह्य° सम्रा꣡ट्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दूणा꣡शेयं꣡ द꣡क्षिणा पार्थवा꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒भि॒ऽआ॒व॒र्ती । चा॒य॒मा॒नः । द॒दा॒ति॒ । दुः॒ऽनशा॑ । इ॒यम् । दक्षि॑णा । पा॒र्थ॒वाना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dvayāṃ* ← *dvaya*
 - \[noun\], accusative, plural, masculine
@@ -108,7 +108,7 @@ genre M
 अधुना भरद्वाजः स्वस्मा अभ्यावर्तिना दत्तं धनजातमग्नये प्रकथयति । हे **अग्ने** **मघवा** धनवान् प्रभूतदानो वा **सम्राट्** राजसूययाजी **चायमानः** चयमानस्य पुत्रः अभ्यावर्ती एतदाह्वयो राजा **रथिनः** रथसहितान् **वधूमतः** स्त्रीयुक्तान् **द्वयान्** मिथुनभूतान् **विंशतिं** विंशतिसंख्याकान् **गाः** पशून् **मह्यं** **ददाति** प्रायच्छत् । **पार्थवानां** पृथोर्वंशजस्याभ्यावर्तिनो राज्ञः संबन्धिनी । पूजार्थं बहुवचनम् । **इयं** **दक्षिणा** **दुर्नशा** केनापि नाशयितुमशक्या भवति ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ Two damsels: dvayān rathino viṃśati gā vadhūmantaḥ = rathasahitān vadh�
 Pārthava: Abhyāvartin, as descended from Pṛthu, the plural ral is used honorifically
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, chariot-steeds by twos and twenty head of cattle together with  brides does the bounteous, universal king give to me—  
 Abhyāvartin the son of Cayamāna. Difficult to attain is this priestly gift  of the Pārthavas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Two wagon-teams, with damsels, twenty oxen, O Agni, Abhydvartin Cayamana,  
      The liberal Sovran, giveth me. This guerdon of Prthu's seed is hard to win from others.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Paarweise Rosse mit Wagen, zwanzig Stiere samt Frauen schenkt mir der freigebige Allkönig Abhyavartin, der Sohn des Cayamana. Kaum zu erreichen ist diese Schenkung der Parthava´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, zwanzig gepaarte mit Geschirr versehene Wagenstiere gibt mir der mächtige Oberherr Abhjavartin Tschajamana; schwer zu erreichen ist dieser Opferlohn des Prithu-stammes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Двадцать парных (коней) с колесницами, быков  
 С женщинами дарит мне щедрый самодержец  

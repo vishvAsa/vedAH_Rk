@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ रेतोधा꣡ वृषभः꣡ श꣡श्वतीनां  
 त꣡स्मिन्न् आत्मा꣡ ज꣡गतस् तस्थु꣡षश् च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D;; repeated line
 तत् । मा॒ । ऋ॒तम् । पा॒तु॒ । श॒तऽशा॑रदाय । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -130,7 +130,7 @@ genre D;; repeated line
 **सः** पर्जन्यः **शश्वतीनां** बह्वीनामोषधीनां **रेतोधाः** रेतस उदकस्य बीजभूतस्य धाता विनिधाता भवति । **वृषभः** इत्युपमा । यथा कश्चिद्वृषभो बह्वीनां गवां गर्भस्याधाता भवति तद्वत् । अतः **तस्मिन्** पर्जन्ये **जगतः** जङ्गमस्य **तस्थुषः** स्थावरस्य च **आत्मा** देहो वर्तते । **तत्** पर्जन्येन दत्तम् **ऋतम्** उदकं **मा** मां **शतशारदाय** शतसंवत्सरजीवनार्थ **पातु** रक्षतु ॥ माशब्दस्य  ‘ ऋत्यकः ' इति प्रकृतिभावो ह्रस्वत्वं च । अन्यद्गतम् ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,35 +141,35 @@ genre D;; repeated line
 May he: atas = he is, instrumental ad of: for he has; in him is the vitality: tasminnātmā = **deha**, body;perhaps the life of the vegetable world depending upon the rain, and that of animals upon corn and the rest
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “The bull is the inseminator of each and every (plant). In him is the  life-breath of the moving (world) and of the still.”  
 Let this truth be protective of me for a hundred autumns. – Do you  
 protect us always with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Lüders (506), I take the first hemistich as a truth-formulation, summarily referred to by tád ṛtaṃ “this truth” beginning c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He is the Bull of all, and their impregner lie holds the life of all things fixed and moving.  
      May this rite save me till my hundredth autumn. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist der besamende Stier aller Pflanzen, in ihm ist die Seele dessen, was geht und steht. Diese Wahrheit soll mich schützen zu hundertjährigem Leben.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist der Stier, der alles stets befruchtet, der Odem dessen, was da steht und wandert; Dies Opfer schütze mich auf hundert Jahre. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он бык, вкладывающий семя во все (растения),  
 В нем жизненный дух живого и неподвижного (мира).  

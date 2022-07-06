@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ इधान꣡ उष꣡सो रा꣡मिया अ꣡नु  
 सु꣡वर् ण꣡ दीदेद् अरुषे꣡ण भानु꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 रा꣡जा विशा꣡म् अ꣡तिथिश् चा꣡रुर् आय꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 होत्रा॑भिः । अ॒ग्निः । मनु॑षः । सु॒ऽअ॒ध्व॒रः । राजा॑ । वि॒शाम् । अति॑थिः । चारुः॑ । आ॒यवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ genre M
 **सः** अग्निः **राम्याः** रमणहेतुभूताः **उषसः** **अनु** अनुलक्ष्य **इधानः** इध्यमानो दीपितः सन् **अरुषेण** रोचमानेन **भानुना** तेजसा **स्वर्ण** आदित्य इव **दीदेत्** दीप्यते । सः **अग्निः** **मनुषः** मनुष्यस्य होतुः **होत्राभिः** । होत्रेति वाङ्नाम । होमसाधनभूताभिः स्तुतिभिः स्तूयमानः **स्वध्वरः** शोभनयागः **विशां** प्रजानां **राजा** राजमानः स्वामी **आयवे** मनुष्याय यजमानाय तदर्थं **चारुः** चरणशीलः **अतिथिः** अतिथिवत्पूज्यो भवति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 The king of men: **rājā** viśām = king or master of the **viśas**, or people
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On being kindled through (all) the dawns and the nights, like the sun he  has shone with red radiance.  
 With the libations of Manu he conducts good ceremonies—the king of  the clans, the guest dear to Āyu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note #sá idhāná(ḥ) echoing 1c #samidhānám and 6a #sá … samidhānáḥ.
 
@@ -151,28 +151,28 @@ With Oldenberg (SBE), Geldner, Renou, I take uṣáso rā́myā as parallel in a
 In the second hemistich agníḥ was omitted in the published translation, which should read “With the libations of Manu Agni conducts …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Enkindled night by night at every morning's dawn, may he shine forth with red flame like the realm of light,-  
      Agni adored in beauteous rites with lauds of men, fair guest of living man and King of all our folk.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Being kindled after dawns and nights may he shine with his red light like the sun, Agni, being a good sacrificer with the help of the offerings of man (or, of Manus) 1, the king of the clans, and the welcome guest of Âyu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Morgen, Nacht für Nacht entzündet soll er wie die Sonne mit rötlichem Licht scheinen. Mit den Opfergaben des Menschen versieht Agni den Gottesdienst gut, er der König der Stämme, für den Ayusohn ein gerngesehener Gast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzündet leuchtet durch die dunkeln Morgen er, der Sonne gleich mit feurigrothem Strahlenschein; Schönwirkend Agni mit des Menschen Opferguss, der Stämme König und dem Mann ein werther Gast.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажигаемый при (всех) зорях (и) ночи,  
 Пусть сверкает он красноватым лучом, словно солнце!  

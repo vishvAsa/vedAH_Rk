@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुवी꣡रस् ते जनिता꣡ मन्यत द्यउ꣡र्  
 इ꣡न्द्रस्य कर्ता꣡ सुअपस्तमो भूत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नपच्युतं स꣡दसो न꣡ भू꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । ई॒म् । ज॒जान॑ । स्व॒र्य॑म् । सु॒ऽवज्र॑म् । अन॑पऽच्युतम् । सद॑सः । न । भूम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suvīras* ← *su*
 - \[adverb\]
@@ -137,7 +137,7 @@ genre M
 हे इन्द्र **यः** प्रजापतिः **स्वर्यम्** ऋत्विगादिभिः स्तुत्यं **सुवज्रं** शोभनवज्रोपेतं **सदसः** स्वकीयात् स्वर्गाख्यात् स्थानात् **अनपच्युतं** विच्युतिरहितं च । **न** इति समुच्चयार्थे । 'भूम भूम्ना महत्त्वेन युक्तम् **ईम्** एनं त्वां **जजान** अजीजनत् ॥ ‘ जन जनने ' इति धातुः ॥ **द्यौः** द्योतमानः **ते** तव **जनिता** जनयिता स प्रजापतिः **सुवीरः** शोभनपुत्रवानहमस्मीति **मन्यत** अमन्यत । किंच **इन्द्रस्य** **कर्ता** इन्द्रस्य जनयिता प्रजापतिः **स्वपस्तमः** अत्यन्तं शोभनकर्मा अभूत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,12 +150,12 @@ Heaven, your progenitor: **suvīras** te **janitā** manyata **dyauḥ**: dyau�
 Janitā = **prajāpati**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rich in heroes, Heaven is considered to be your begetter. The best  craftsman was the creator of Indra, who begot him, booming and bearing the good mace, not to be moved,  any more than the Earth from its seat.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. shows a clever twist on ring composition. Like vss. 1 and 2 it contains occurrences of both heaven and earth (here dyaúḥ a, bhū́ma d), and in fact pāda a ends exactly as 1b does: manyata dyaúḥ. But the two phrases mean very different things: in vs. 1 manyata is construed with ánu in the lexeme meaning ‘concede’, whereas here there is no preverb and the verb means ‘be considered as’.
 
@@ -174,23 +174,23 @@ Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disrup
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy Father Dyaus esteemed himself a hero: most noble was the work of Indra's Maker,  
      His who begat the strong bolt's Lord who roareth, immovable like earth from her foundation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für deinen Erzeuger und Vater des tüchtigen Sohnes galt der Himmel; des Indra Erzeuger war der große Künstler, der ihn erzeugt hat, ihn mit der lauten Stimme und der schönen Keule, der wie die Erde nicht vom Platz weicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Vater dünkte mächtig sich, der Himmel; des Indra Zeuger hat vollbracht das Beste, Als er erzeugt den blitzbegabten Donn'rer, den, wie vom Sitz die Erde, niemand fortstösst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Небо считается твоим родителем, (отцом) прекрасного сына.  
 Создатель Индры – это лучший творец,  

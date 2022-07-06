@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् सु꣡ नो वि꣡श्वे अर्य꣡ आ꣡  
 स꣡दा गृणन्ति कार꣡वः  
 मरु꣡तः सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 म॒रुतः॑ । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **अर्यः** स्तोत्रकरणार्थमितस्ततो गन्तारः **नः** अस्मदीयाः विश्वे सर्वे **कारवः** स्तोतारः **तत्** मरुतां बलं  **सदा** सर्वदा **आ** **गृणन्ति** । आभिमुख्येन स्तुतिभिः स्तुवन्ति । किमर्थम् । **सोमपीतये** अस्माभिर्दीयमानं  सोमं पातुम् । **मरुतः** एतन्नामका देवा अस्माभिराह्वातव्याः खलु । ततः पुरस्तात्तद्बलं स्तुवन्तीत्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,13 +100,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 All ourpriests in their worship always sing that (might of the Maruts) that they may drink the Soma; the Maruts 9are tobe invoked by us)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So then do all our bards sing them here, away from (the sacrifice of) the  stranger—  
 the Maruts to drink the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda has been subjected to a dizzying number of different interpretations, primarily because of the uncertain sense of the resonant word aryáḥ in context, which is complicated by its ambiguous grammatical identity: it can be gen. or abl. sg. or nom. or acc. pl. of arí- or even nom. sg. of aryá-. In addition to the standard treatments, see also Oldenberg ZDMG 54 (=KlSch. p. 79), Bloomfield Rig-Veda Repetitions ad VI.45.33, Thieme Fremdling 74ff. I won’t discuss the various suggested alternatives, but simply present my own. I take aryáḥ as abl. sg.; as for the immediately following ā́, I give it a double interpr. On the one hand it is a postposition with aryáḥ in the meaning ‘from’; the phrase aryá ā́is found elsewhere and always in this sense (VIII.34.10, IX.61.11, X.191.1, in addition to the repetition of our pāda in VI.45.33).
 
@@ -117,23 +117,23 @@ Any interpr. that requires aryáḥ to be some other case than abl. sg. needs to
 The published translation fails to tr. sádā ‘always’; it should read “… always sing them here …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This all the pious sing to us, and sacred poets evermore:  
      The Maruts to the Soma-draught
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das sollen von uns fein alle, auch die hohen Herren wissen: Immer preisen die Dichter die Marut, auf daß sie den Soma trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum laden unsre Sänger auch, die treugesinnten alle, stets Die Marutschar zum Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это у нас хорошо (знают) все, (даже) у чужого (в доме):  
 Всегда певцы восхваляют  

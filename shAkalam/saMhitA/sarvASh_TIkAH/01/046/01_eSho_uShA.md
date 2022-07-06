@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एषो꣡ उषा꣡ अ꣡पूर्विया  
 वि꣡ उछति प्रिया꣡ दिवः꣡  
 स्तुषे꣡ वाम् अश्विना बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 स्तु॒षे । वा॒म् । अ॒श्वि॒ना॒ । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣo* ← *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
@@ -89,36 +89,36 @@ genre M
 **एषो** एषैवास्माभिः परिदृश्यमाना **प्रिया** सर्वेषां प्रीतिहेतुः **अपूर्व्या** पूर्वेषु मध्यरात्रादिकालेषु विद्यमाना न भवति, किंतु इदानींतनी **उषाः** उषोदेवता **दिवः** द्युलोकस्य सकाशादागत्य **व्युच्छति** तमो वर्जयति । हे अश्विनौ **वां** युवां **बृहत्** प्रभूतं यथा भवति तथा **स्तुषे** स्तौमि ॥ स्तुषे । ‘ष्टुञ् स्तुतौ । तिङां तिङो भवन्ति' इति उत्तमैकवचनस्य मध्यमैकवचनादेशः । यद्वा । लेटि उत्तमैकवचने ‘सिब्बहुलं लेटि' इति सिप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The beloved Uṣas, until now unseen, scatters darkness from the sky; **Aśvins**, I greatly praise you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With none before her, this Dawn breaks, the beloved of heaven.  
 I shall sing aloft praise to you, Aśvins,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now Morning with her earliest light shines forth, dear Daughter of the Sky:  
      High, Asvins, I extol your praise,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort leuchtet die Morgenröte wie keine je zuvor auf, die liebe Tochter des Himmels. Laut preise ich euch, Asvin,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels liebe Tochter glänzt die erste Morgenröthe hier, Ich preise hoch, o Ritter, euch,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот эта небывалая заря  
 Ярко сверкает, приятная, с (высоты) неба.  

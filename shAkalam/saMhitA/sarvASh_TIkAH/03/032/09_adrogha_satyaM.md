@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡द्रोघ सत्यं꣡ त꣡व त꣡न् महित्वं꣡  
 सद्यो꣡ य꣡ज् जातो꣡ अ꣡पिबो ह सो꣡मम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ना꣡हा न꣡ मा꣡साः शर꣡दो वरन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 न । द्यावः॑ । इ॒न्द्र॒ । त॒वसः॑ । ते॒ । ओजः॑ । न । अहा॑ । न । मासाः॑ । श॒रदः॑ । व॒र॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adrogha*
 - \[noun\], vocative, singular, masculine
@@ -139,20 +139,20 @@ genre M
 **अद्रोघ** द्रोहवर्जित हे इन्द्र **तव** **तन्महित्वं** तादृशं माहात्म्यं **सत्यं** यथार्थम् । **यत्** यस्मात् **जातः** उत्पन्नः **सद्यः** तदानीमेव **सोमम्** अस्माभिर्दीयमानं सोमरसम् **अपिबः** । **ह** प्रसिद्धौ । किंच **तवसः** बलवतः **ते** तव **ओजः** सामर्थ्यं **द्यावः** दिवः दिवोपलक्षिताः सर्वे लोकाः **न** **वरन्त** न वारयन्ति । किंच **अहा** प्रतिपदादीन्यहानि न वारयन्ति । तथा **मासाः** चैत्राद्याः **शरदः** संवत्सराश्च तव सामर्थ्यं न वारयन्ति। किंतु तव सामर्थ्यमनुसृत्य सर्वे वर्तन्त इति भावः ॥ अद्रोघ ।' आमन्त्रितस्य च ' इति षाष्ठिकमाद्युदात्तत्वम् । अपिबः । यद्योगादनिघातः । मासाः । ‘ मसी परिमाणे ' । मस्यते परिमीयते त्रिंशता दिनैरिति मासः । कर्मणि घञ् । ञित्वादाद्युदात्तः । शरदः । ‘शॄ हिंसायाम् ' इत्यस्मात् शॄदॄभसोऽदिः' इत्यधिकरणेऽदिप्रत्ययः । शीर्यन्तेऽस्यां तृणगुल्मवनस्पतीनां तेजांसीति शरत् । प्रत्ययस्वरः । वरन्त । ‘ वृञ् वरणे ' । अन्तर्भावितण्यर्थोऽत्र निवारणे वर्तते । भौवादिकः । छान्दसे लङि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Doer of no wrong, such was your true greatness, that as soon as born, you have quaffed the **Soma**; neither the heavens, nor days, nor months, nor years, resist the force of you who is mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Undeceptive one, this greatness of yours is truly real: because, just born,  you drank the soma,  
 not the heavens, Indra, nor the days, nor the months and years could  obstruct the strength of you, the powerful one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The juxtaposition of adroghá- ‘undeceptive’ and satyá- ‘real, true’ is also found in III.14.6 adroghéṇa vácasā satyám.
 
@@ -163,23 +163,23 @@ The standard tr. also take dyā́vaḥ as ‘days’, whereas the published tran
 varanta here and in 16b is formally ambiguous; it can be either an injunctive or a subjunctive to the root aor. (see Hoffmann 239-40); Hoffmann takes it as a subjunctive. It does not work terribly well as either one; in both passages I tr. it as a preterital modal (“could obstruct”), but this interpr. is not firmly based in the morphology. I sense that in this vs. and the next the poet is struggling to express a verbal category that isn’t found in the Skt. verbal system, namely anteriority: modal anteriority here, temporal anteriority in 10cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Herein, O Guileless One, is thy true greatness, that soon as born thou drankest up the Soma.  
      Days may not check the power of thee the Mighty, nor the nights, Indra, nor the months, nor autumns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Trugloser! Diese deine Größe ist wahrhaft, daß du eben geboren sogleich den Soma trankst. Weder die Tage, noch Tage und Nächte, noch die Monate und Herbste tuen deiner, des Kräftigen, Stärke Einhalt, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Trugloser, das ist wahrhaft deine Grösse, dass kaum geboren schon du Soma trankest; Nicht Himmel hemmen deine Macht, des starken, nicht Tag', o Indra, Monde nicht, noch Jahre.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О не знающий обмана, истинно твое величие, (состоящее) в том  
 Что едва родившись, ты сразу стал пить сому.  

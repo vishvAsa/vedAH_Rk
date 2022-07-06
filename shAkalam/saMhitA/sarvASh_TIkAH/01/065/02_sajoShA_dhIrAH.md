@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सजो꣡षा धी꣡राः पदइ꣡र् अ꣡नु ग्मन्न्  
 उ꣡प त्वा सीदन् वि꣡श्वे य꣡जत्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 स॒ऽजोषाः॑ । धीराः॑ । प॒दैः । अनु॑ । ग्म॒न् । उप॑ । त्वा॒ । सी॒द॒न् । विश्वे॑ । यज॑त्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sajoṣā* ← *sa*
 - \[adverb\]
@@ -87,18 +87,18 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **धीराः** मेधाविनो देवाः **सजोषाः** समानप्रीतयः सन्तो हे अग्ने त्वां **पदैः** मार्गे पादकृतैर्लाञ्छनैः **अनु** **ग्मन्** अन्वगमन् । कीदृशम् । **पश्वा** अपहृतेन पशुना सह वर्तमानं **तायुं** **न** । तायुरिति स्तेननाम । यथा स्तेनः परकीयं पश्वादिधनमपहृत्य दुष्प्रवेशे गिरिगह्वरे वर्तते तद्वत् । **गुहा** **चतन्तं** अब्रूपायां गुहायां गच्छन्तं वर्तमानम् । चततिर्गतिकर्मा । तथा च तैत्तिरीयैरग्नेरप्सु प्रवेशः समाम्नायते-- ’ स निलायत सोऽपः प्राविशत् ' (तै. सं. २. ६. ६. १ ) इति । यद्वा । अश्वत्थगुहायां वर्तमानम्। श्रूयते च -– अग्निर्देवेभ्यो निलायत । अश्वो रूपं कृत्वा सोऽश्वत्थे संवत्सरमतिष्ठत् ' ( तै. ब्रा. १. १. ३. ९ ) इति । तथा **नमो** **युजानं** हविर्लक्षणमन्नमात्मना संयुजानं **नमो** **वहन्तं** देवेभ्यः प्रत्तं हविर्वहन्तम् । **यजत्राः** यजनीयाः **विश्वे** सर्वे देवा हे अग्ने **त्वा** त्वाम् **उप** **सीदन्** समीपं प्राप्नुवन्  ददृशुरित्यर्थः । पश्वा । तृतीयैकवचनस्य ' जसादिषु च्छन्दसि वावचनम् ' इति नाभावाभावः । ‘उदात्तयण: ' इति विभक्तेरुदात्तत्वम् । गुहा । भिदादिषु पाठात् अङ्गप्रत्ययान्तः । वृषादिषु पाठादाद्युदात्तत्वम् ।' सुपा सुलुक्' इति सप्तम्या लुक् । युजानम् । शानचि ‘बहुलं छन्दसि ' इति विकरणस्य लुक् । सजोषाः । ‘ जुषी प्रीतिसेवनयोः'। समानं जुषन्त इति सजोषसः । ‘ समानस्य च्छन्दसि° ' इति सभावः । कृदुत्तरपदप्रकृतिस्वरत्वम् । ‘सुपां सुलुक्' इति जसः सुः । ग्मन् । गमेर्लुङि ‘ मन्त्रे घस ' इति च्लेर्लुक् ।' गमहन° ' इत्यादिना उपधालोपः । ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । यजत्राः ।“ अमिनक्षि' इत्यादिना अत्रन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You) did the clever, of one accord, follow along your tracks;  
 all those worthy of the sacrifice reverently approached you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 something else is enclosing Agni, configured as a calf (vátsaṃ), using pári √as.
 
@@ -117,28 +117,28 @@ These verses contain 3rd pl. act. root aorists ánu gman (2b) and ánu … guḥ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Gods approached the ways of holy Law; there was a gathering vast as heaven itself.  
      The waters feed with praise the growing Babe, born nobly in the womb, the seat of Law.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The wise unanimously followed by thy foot-marks 1. All (gods) deserving worship (reverentially) sat down near thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 ihm gingen die Weisen einträchtig auf seinen Spuren nach. Dir nahten alle Opferwürdigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir nahten einig, – die weisen schreitend, wie einem Viehdieb, – der sich versteckt hält, Die hehren alle, – um dich sich setzend, Der Andacht anschirrt – und Andacht fähret.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

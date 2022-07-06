@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आत्मा꣡ यज्ञ꣡स्य रं꣡हिया  
 सुष्वाणः꣡ पवते सुतः꣡  
 प्रत्नं꣡ नि꣡ पाति का꣡वियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र॒त्नम् । नि । पा॒ति॒ । काव्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यज्ञस्य** **आत्मा** आत्मभूतः **सुतः** अभिषुतः सोमः **सुष्वाणः** यजमानेभ्यः कामान् प्रेरयन **रंह्या** वेगेन **पवते** क्षरति । **प्रत्नं** पुरातनं **काव्यम्** आत्मनः कवित्वं च **नि** **पाति** अभिरक्षति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **soul** of the sacrifice, the effused **Soma**, flows; with speed bringing blessings, and maintains his ancient seer-hood.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The embodiment of the sacrifice, the pressed soma, having been pressed,  purifies himself at speed.  
 He protects the age-old poetic skill.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/006/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -105,23 +105,23 @@ Note also that in the next hymn (IX.7.4a) Soma the poet clothes himself (vásān
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soul of the sacrifice, the juice effused flows quickly on: he keeps  
      His ancient wisdom of a Sage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Seele des Opfers, in raschem Laufe ausgepreßt, läutert sich der Ausgepreßte, er wahret die alte Seherweisheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Opfers Seele rieselt er in Eile, der gepresste Trank, Er schützt die alte Seherkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дух жертвы, в быстром беге  
 Выжатый, очищается сома.  

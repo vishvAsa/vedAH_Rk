@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दर्शि गातु꣡र् उर꣡वे व꣡रीयसी  
 प꣡न्था ऋत꣡स्य स꣡म् अयंस्त रश्मि꣡भिश्  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 उपस्तु꣡त्यम् बृह꣡द् व꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 अथ॑ । द॒धा॒ते॒ इति॑ । बृ॒हत् । उ॒क्थ्य॑म् । वयः॑ । उ॒प॒ऽस्तुत्य॑म् । बृ॒हत् । वयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adarśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
@@ -161,7 +161,7 @@ genre M
 **गातुः** गमनशीला **वरीयसी** उरुतरा उषाः **उरवे** विस्तीर्णाय यागाय गमनादिव्यापाराय अदर्शि सर्वेर्दृष्टा अभूत्। तथा **ऋतस्य** गमनशीलस्यादित्यस्य **पन्थाः** मार्गः आकाशलक्षणः **रश्मिभिः** **समयंस्त** प्रकाशैः संगतोऽभूत् । **भगस्य** सर्वैर्भजनीयस्य एतन्नामकस्य देवस्य **रश्मिभिः** **चक्षुः** सर्वप्राणिनां लोचनं समयंस्त संगतमभूत् । सर्वे स्वस्वद्रव्यदर्शनाय समर्था अभवन्नित्यर्थः । तदेव स्पष्टीक्रियते । **मित्रस्य** प्रकाशकारित्वात् सर्वजनमित्रस्य **सदनं** गृहमन्तरिक्षं **द्युक्षं** दीप्तानां निवासस्थानं रश्मिभिः समयंस्त संगतमभूत् । तथा **अर्यम्णः** एतन्नामकस्य देवस्य ॥ उदात्तनिवृत्तिस्वरेण विभक्तेः उदात्तत्वम् ॥ द्युक्षं सदनं रश्मिभिः समयंस्त । किंच **वरुणस्य** तमोनिवारकस्य एतन्नामकस्य देवस्य सदनं तथाभूत् । यद्यपि सूर्यस्य एकत्वेऽपि उपाधिभेदेन भेदात् पृथक् स्तुतिः तथा यद्यपि त्रिभिरपि प्रकाश्यमप्यन्तरिक्षमेकं तथापि प्रकाशकानां भेदात् त्रिधा स्तूयते । उदयानन्तरं कर्मानुष्ठानाय प्रकाशः अभवदित्यर्थः। **अथ** अतः कारणात् उदितत्वादेव **उक्थ्यं** स्तुत्यं **बृहत्** प्रभूतं **वयः** हविर्लक्षणमन्नं **दधाते** धारयतः । किंच **उपस्तुत्यम्** उपेत्य स्तोतव्यम् ॥ ‘एतिस्तुशासु' (पा. सू. ३. १. १०९) इत्यादिना क्यप् । **बृहत्** स्तोमादिना महत्स्तोत्रं **वयः** हविर्लक्षणमन्नं च दधाते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -172,34 +172,34 @@ genre M
 The brilliant mansion: the firmament is lighted by the sun; the several names of designations or forms of the sun; several names are used to to multiply his praises
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The way has appeared—a wider one for the wide (light); its path has  been firmly guided by the reins of truth—its eye by the reins of Bhaga. Heaven-dominating is the seat of Mitra and of Aryaman and Varuṇa. And so they two assume lofty vigor, worthy of hymns—lofty vigor to be  approached with praise.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the published translation I blindly followed Geldner and Renou in supplying jyótiṣe ‘light’ with uráve in a. Although this makes fine sense, neither scholar cites parallel passages. It is certainly true that jyótis- is qualified by urú- elsewhere (e.g., I.117.21, II.27.14, VI.3.1) and that jyótiṣmant- is found twice in the next vs. (I.136.3), but I think I would now be inclined to be more circumspect about what uráve refers to.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For the broad Sun was seen a path more widely laid, the path of holy law hath been maintained with rays, the eye with Bhaga's rays of light.  
      Firm-set in heaven is Mitra's home, and Aryaman's and Varuna's.  
      Thence they give forth great vital strength which merits praise, high power of life that men shall praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die weitere Bahn für das weite Licht ist sichtbar geworden, sein Weg ward durch die Zügel des Gesetzes gelenkt, das Auge durch die Zügel des Bhaga. Der himmlische Sitz des Mitra, des Aryaman und Varuna ward sichtbar und beide besitzen hohe preiswürdige Kraft, löbliche, hohe Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem weiten Raume zeigte weiter sich ihr Gang, mit Strahlen ist der heil'gen Ordnung Bahn geschmückt, das Himmelsaug' mit Bhaga's Strahl; Im Lichte thront des Mitra Sitz, des Arjaman und Varuna, Dort schaffen sie sich hohe preisenswerthe Kraft, gerühmte, hohe Lebenskraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Показался более широкий выход для широкого (света).  
 Путь закона стал управляться лучами,  

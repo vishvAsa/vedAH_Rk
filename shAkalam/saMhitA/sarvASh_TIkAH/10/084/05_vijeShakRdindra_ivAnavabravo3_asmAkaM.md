@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विजेषकृ꣡द् इ꣡न्द्र इवानवब्रवो꣡  
 अस्मा꣡कम् मन्यो अधिपा꣡ भवेह꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 विद्मा꣡ त꣡म् उ꣡त्सं य꣡त आबभू꣡थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्रि॒यम् । ते॒ । नाम॑ । स॒हु॒रे॒ । गृ॒णी॒म॒सि॒ । वि॒द्म । तम् । उत्स॑म् । यतः॑ । आ॒ऽब॒भूथ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vijeṣakṛd* ← *vijeṣa*
 - \[noun\], masculine
@@ -131,37 +131,37 @@ popular
 हे **मन्यो** **इन्द्रइव** **विजेषकृत्** विजयकर्ता । तथा **अनवब्रवः** अनिन्दितवचनः ।  ‘ अनवब्रवोऽनवक्षिप्तवचनः ' (निरु. ६. २९) इति यास्कः । ईदृशस्त्वम् **अस्माकम्** **अधिपाः** अधिकं पाता रक्षिता **भव** **इह** अस्मिन्यज्ञे । हे **सहुरे** शत्रूणां सहनशील **ते** **प्रियं** **नाम** स्तोत्रं **गृणीमसि** गृणीमः स्तुमः । **यतः** नाम्नः स्तोत्रात् त्वम् **आबभूथ** आभवसि प्रवृद्धो भवसि **तमुत्सं** बलस्योद्गमयितारं **विद्म** जानीमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Manyu**, the giver of victory like **Indra**, irreproachable, be you our protector at this (sacrifice); enduringone, we sing to you acceptable praise; we know this to be the source whence you have become (mighty).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Creating victory like Indra, without talking us down, Battle Fury,  become our overlord here.  
 We hymn your dear name, victorious one. We know the wellspring  
 whence you came to be ready to hand.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unyielding bringing victory like Indra, O Manyu, be thou here our Sovran Ruler.  
      To thy dear name, O Victor, we sing praises: we know the spring from which thou art come hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Siegbereiter gleich Indra, keine Absage gebend, sei du, Manyu, hier unser Schirmherr! Wir preisen deinen lieben Namen, du Überlegener; wir kennen den Quell, von wannen du entstammst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Indra Sieg verschaffend und untadelhaft, sei du, o Manju, unser höchster Herrscher hier; O Sieger, deinen lieben Namen preisen wir; bekannt ist uns der Quell, dem du entsprungen bist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

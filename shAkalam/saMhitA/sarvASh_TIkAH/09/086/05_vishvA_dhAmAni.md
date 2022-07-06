@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वा धा꣡मानि विश्वचक्ष ऋ꣡भ्वसः  
 प्रभो꣡स् ते सतः꣡ प꣡रि यन्ति केत꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प꣡तिर् वि꣡श्वस्य भु꣡वनस्य राजसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒ऽआ॒न॒शिः । प॒व॒से॒ । सो॒म॒ । धर्म॑ऽभिः । पतिः॑ । विश्व॑स्य । भुव॑नस्य । रा॒ज॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
@@ -122,7 +122,7 @@ genre M
 हे **विश्वचक्षः** सर्वस्य द्रष्टः सोम **प्रभोः** परिवृढस्य **सतः** **ते** तव **ऋभ्वसः** । ऋभ्वा इति महन्नाम । महान्तः **केतवः** रश्मयः **विश्वा** सर्वाणि **धामानि** तेजःस्थानानि देवशरीराणि **परि** **यन्ति** परिगच्छन्ति । प्रकाशयन्तीत्यर्थः । हे **सोम** **व्यानशिः** व्यापनशीलश्च त्वं **धर्मभिः** धारकैः रसनिस्यन्दैः **पवसे** पूयसे । **विश्वस्य** **भुवनस्य** च **पतिः** स्वामी त्वं **राजसि** ईश्वरो भवसि ॥ ॥१२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,14 +133,14 @@ genre M
 Through your functions: 'by the supporting streams of juice'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your beacons circle around all the domains, though you are in  
 advance—you ingenious one whose gaze is on all.  
 Reaching through (the domains), you purify yourself, Soma, according  to your ordinances. You rule as lord of all creation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As should be clear from the immed. preceding discussion, as elsewhere in IX I take dhā́māni ‘domains’ as referring to the filter and subsequent locales that the soma traverses, not, with Geldner, Soma’s forms. (What Renou means by “structures” is uninterpretable to me.) The physical locations on the ritual ground can also be viewed as the cosmic domains over which Soma has dominion - hence the hyperbolic statement in d, attributing universal rule to Soma.
 
@@ -168,23 +168,23 @@ As noted above, these two vss. have parallel structures in the crucial 2nd pāda
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O thou who seest all things, Sovran as thou art and passing strong, thy rays encompass all abodes.  
      Pervading with thy natural powers thou flowest on, and as the whole world's Lord, O Soma, thou art King.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du der Gebieter bist, deine, des Meisters, Banner durchlaufen alle deine Formen, o Allseher. Durchdringend läuterst du dich, o Soma, nach den Vorschriften. Als Gebieter herrschst du über die ganze Welt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Allsehender, es dringen deine Strahlen rings um alle Stätten, der du kühn und kräftig bist, Durchdringend rieselst, Soma, du nach deinem Brauch, als König herrschst du über diese ganze Welt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

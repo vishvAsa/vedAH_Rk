@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युव꣡म् प्रत्न꣡स्य साधथो महो꣡ य꣡द्  
 दइ꣡वी सुअस्तिः꣡ प꣡रि णः सियातम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे पश्यन्ति मायि꣡नः कृता꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 गो॒पाजि॑ह्वस्य । त॒स्थुषः॑ । विऽरू॑पा । विश्वे॑ । प॒श्य॒न्ति॒ । मा॒यिनः॑ । कृ॒तानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -120,7 +120,7 @@ genre M
 हे इन्द्रावरुणौ **युवं** युवां **प्रत्नस्य** स्तोतुः **महः** तादृशं श्रेयः **साधथः** साधयथः । कीदृशं तदित्यत आह । **यद्दैवी** **स्वस्तिः** यदिदं देवसंबन्धि श्रेयः स्वराज्यलक्षणम् । किंच युवां **नः** अस्मान् **परि** परितः **स्यातं** रक्षको भवेतम् । **विश्वे** सर्वे **मायिनः** देवाः **गोपाजिह्वस्य** । गोप्त्री जिह्वा मा बिभीतेत्येतादृशी वाग्यस्य स तथोक्तः । **तस्थुषः** स्थिरतरस्येन्द्रस्य **विरूपा** नानाविधानि वृत्रहननादीनि **कृतानि** कर्माणि **पश्यन्ति** । एवमिन्द्रस्य विश्वरूपत्वमुक्तम् ॥ युवम् । युष्मच्छब्दस्य द्विवचने ‘युवावौ द्विवचने' ( पा. सू. ७. २. ९२ ) इति युवादेशः । ‘ ङेप्रथमयोरम्' (पा. सू. ७. १. २८) इति सुपः अमादेशः । साधथः । ‘ साध संसिद्धौ ' इत्यस्य ण्यन्तस्य लटि रूपम् । ‘ बहुलमन्यत्रापि°' इति णेर्लुक् । निघातः । दैवी । ' देवाद्यञञौ ' इति अञ्प्रत्ययः । ञित्स्वरः ॥ स्यातम् । अस्तेर्लिङि रूपम् । गोपजिह्वस्य । ‘गुपू रक्षणे' इत्यस्य आयप्रत्ययान्तस्य क्विपि अतोलोपयलोपयोः कृतयो रूपं गोपा इति । बहुव्रीहौ पूर्वपदस्वरः । तस्थुषः । **ष्ठा** गतिनिवृत्तौ ' इत्यस्य क्वसौ ‘वस्वेकाजाद्धसाम्' इति प्राप्तस्य इटः ‘ संप्रसारणं संप्रसारणाश्रयं च बलीयः' इति संप्रसारणस्य बलीयस्त्वान्निवृत्तिः । ‘ वसोः संप्रसारणम्' । प्रत्ययस्वरः । पश्यन्ति । ' दृशिर् प्रेक्षणे ' । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,36 +133,36 @@ All those who exercise illusion: viśve māyinaḥ = sarve **devāḥ**, all the
 **Māya** = deceivers, or **asuras**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two assure success to (that creation) of the age-old great one, (the  creation) that is the divine blessing. May you two enfold us.  
 All masters of artifice look upon the deeds of him whose tongue is a  herdsman, who surmounts the various forms.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As discussed in the published introduction, I take this vs. as showing both contributors to the second creation -- the two (world-halves) from 8c and the masters of artifice (mayínaḥ) from 7d -- bearing witness to our poet’s new skill. In the first half of the verse the two (world-halves) begin by bringing to success the first creation of “the age-old great one” (pratnásya … maháḥ). I supply the equivalent of tád in pāda a, picked up by yád at the end of the pāda and further specified by daívī svastíḥ beginning b. The standard tr. instead take a and b as separate clauses, with daívī svastíḥ somewhat loosely construed with b.
 
 In c the sequence gopā́jihvasya is variously interpr. Geldner (/Witzel Gotō), Renou (Hymnes spéc.), and at least partially Oldenberg read it as two words, the first nom. gopā́, the 2nd emended to jīvásya (Geldner, Witzel Gotō) or jagatas (Renou; he gives no accent, but it should be jágatas) -- attaching pāda c to b and taking d as a separate clause. I see no reason in this case to go against the Pp, which considers the form a cmpd, much less to emend the text so severely. Instead I take the two apparent genitives in c (gopā́jihvasya tasthúṣaḥ) as referring to the current poet: he boasts that his tongue is a herdsman -- that is, it marshals words -- and that he surmounts the various forms (vírūpā) -- that is, he has (verbal) control over the differentiated forms of the second creation. The poet has achieved his vocation. For the tongue, see vs. 3 of the following hymn (III.39.3b), where the poem, the hymnic vision, “mounts the tip of (the poet’s) tongue.” A form of the root √sthā is also found in the same pāda.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fulfil, ye twain, his work, the Great, the Ancient: as heavenly blessing keep your guard around us.  
      All the wise Gods behold his varied actions who stands erect, whose voice is like a herdsman's.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr beide führet das Werk des Großen, Uralten aus. Als göttliches Heil möget ihr um uns sein, als die verschiedengestalteten Hüter des Lebendigen, des Unbeweglichen. Alle sehen die Werke des Zauberkundigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasset ihr beide [Mitra -Varuna] gelingen das Werk des uralten erhabenen [Agni], seid um uns als göttlicher Segen (?), alle weisen [Götter] beschauen die vielgestaltigen Werke dessen [Agni], der aufrecht steht, und dessen Zunge behütet (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы оба приводите к цели (творение) древнего, великого.  
 Пусть окружите вы нас как божественное счастье!  

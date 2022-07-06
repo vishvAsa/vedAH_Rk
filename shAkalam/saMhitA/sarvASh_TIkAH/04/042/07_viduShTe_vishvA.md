@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विदु꣡ष् ते वि꣡श्वा भु꣡वनानि त꣡स्य  
 ता꣡ प्र꣡ ब्रवीषि व꣡रुणाय वेधः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवं꣡ वृताँ꣡ अरिणा इन्द्र सि꣡न्धून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 त्वम् । वृ॒त्राणि॑ । शृ॒ण्वि॒षे॒ । ज॒घ॒न्वान् । त्वम् । वृ॒तान् । अ॒रि॒णाः॒ । इ॒न्द्र॒ । सिन्धू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viduṣ* ← *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -129,37 +129,37 @@ genre M;; repeated line
 इतः परमिन्द्रावरुणयोः स्तुतिः । हे वरुण **तस्य** **ते** । कर्मणि षष्ठी। तं त्वां **विश्वा** सर्वाणि **ता** तानि **भुवनानि** भूतजातानि **विदुः** जानन्ति । हे **वेधः** । स्तोतृनामैतत् । हे स्तोतः **वरुणाय** **प्र** **ब्रवीषि** वरुणं स्तौषि । हे **इन्द्र** **त्वं** **वृत्राणि** वैरिणः **जघन्वान्** हतवानिति **शृण्विषे** श्रूयसे। किंच हे इन्द्र **त्वं** **वृतान्** आच्छन्नान् **सिन्धून्** स्यन्दनस्वभावानप्संघान् **अरिणाः** अगमयः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All beings recognize you (**Varuṇa**), and your, worshipper, address these (encomiums) to Varuṇa; you, **Indra**, are renowned as slaying **Vṛtra**; you have set the obstructed rivers free to flow.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [The poet:] All living beings know this of you, and you proclaim these  things to Varuṇa, o you ritual adept:  
 you are famed as he who smashed obstacles; you, Indra, made the  
 blocked rivers to flow.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All beings know these deeds of thine thou tellest this unto Varuna, thou great Disposer!  
      Thou art renowned as having slain the Vrtras. Thou madest flow the floods that were obstructed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Geschöpfe wissen das von dir. Du verkündest diese Taten dem Varuna, o Meister. Du bist bekannt als der Vritratöter, du, Indra, ließest die eingeschlossenen Flüsse laufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dass dies du thatest, wissen alle Wesen, das kündest du dem Varuna, o Ordner; Dich, Indra, rühmt man als den Feindetödter, du liessest rinnen die umschlossnen Ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все существа знают это о тебе.  
 Эти (подвиги) ты провозглашаешь Варуне, о устроитель (обряда).  

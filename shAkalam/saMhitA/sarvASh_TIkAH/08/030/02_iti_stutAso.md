@@ -6,14 +6,14 @@ ChandaH = "पुरउष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ति स्तुता꣡सो असथा रिशादसो  
 ये꣡ स्थ꣡ त्र꣡यश् च त्रिंश꣡च् च  
 म꣡नोर् देवा यज्ञियासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 मनोः॑ । दे॒वाः॒ । य॒ज्ञि॒या॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iti*
 - \[adverb\]
@@ -95,43 +95,43 @@ genre M
 हे **रिशादसः** रिशतां हिंसतामसितारो हे **मनोः** **यज्ञियासः** मनुनामकस्य मम यज्ञार्हा हे देवाः **ये** यूयं **त्रयश्च** त्रिसंख्याकाः **त्रिंशच्च** त्रिंशत्संख्याकास्त्रयस्त्रिंशद्देवताः **स्थ** भवथ अभूत ते यूयम् इति इत्थमनेन प्रकारेण **स्तुतासः** **असथ** । मया मनुना स्तुता भवथ । अस्तेर्लेटि छान्दसो लुगभावः । यद्वा । असतिः कान्त्यर्थः । इत्थं स्तुता यूयं हवींषि कामयध्वम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Destroyers of foes, gods, adored by **Manu**, who are three-and-thirty, and are thus hymned.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus shall you be praised, you who care for the stranger, who are the  three and thirty,  
 you gods who deserve the sacrifice of Manu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction. I take the introductory íti here as a mark that the preceding vs. is the quoted praise referred to by iti stutā́so asathā “thus shall you be praised.” Renou comments that this is a relatively rare passage with íti not close to direct speech. But my interpr. avoids that.
 
 The 33, the (or a) canonical number of gods, were mentioned in a nearby hymn by the same poet, VIII.28.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus be ye lauded, ye destroyers of the foe, ye Three-and-Thirty Deities,  
      The Gods of man, the Holy Ones.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darum sollt ihr gepriesen sein, ihr Herrenstolze, die ihr die Dreiunddreißig seid, ihr anbetungswürdigen Götter des Manu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So, Feindverzehrer, sollt von uns gerühmt ihr sein, ihr dreiunddreissig an der Zahl, Des Menschen heil'ge Götter ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так вы должны быть прославлены, о заботящиеся о чужом (?),  
 (те,) которых три и тридцать,  

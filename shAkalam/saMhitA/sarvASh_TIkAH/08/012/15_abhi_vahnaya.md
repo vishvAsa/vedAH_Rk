@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ व꣡ह्नय ऊत꣡ये  
 अ꣡नूषत प्र꣡शस्तये  
 न꣡ देव वि꣡व्रता ह꣡री ऋत꣡स्य य꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 न । दे॒व॒ । विऽव्र॑ता । हरी॒ इति॑ । ऋ॒तस्य॑ । यत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M;; line affected by realignment;; repeated line
 **वह्नयः** वोढार ऋत्विजः **ऊतये** रक्षणार्थं **प्रशस्तये** प्रशस्त्यर्थं च **अभि** **अनूषत** इन्द्रमम्यष्टुवन् । 'नू स्तुतौ ' । कुटादिः । हे **देव** दानादिगुणयुक्तेन्द्र । **न** इति संप्रत्यर्थे । संप्रति **विव्रता** विविधकर्माणौ **हरी** त्वदीयावश्वौ **ऋतस्य** यज्ञस्य सत्यस्य वा संबन्धि **यत्** स्तोत्रं हविर्वा विद्यते तदभिलक्ष्य त्वां वहत इति शेषः । ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,12 +99,12 @@ genre M;; line affected by realignment;; repeated line
 Protection: or, for the sake of his protection andpraise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The draft-horses have roared to (him) for help and for his glorification. Your two fallow bays, o god, do not follow a commandment separate  (from the one) that belongs to truth.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -114,23 +114,23 @@ Lüders (Varuṇa 450) comments about the tṛca that it concerns only the songs
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The ministering priests have sung their songs for aid and eulogy:  
      God, thy Bays turn not from the rite which Law ordains.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Wortführer haben zu ihm um seinen Beistand geschrieen, zu seinem Preise. Nicht sind dir, o Gott, die Falben widerspenstig, was das Wort der Wahrheit ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es jauchzten ihm die Priester zu zur Wonne, zur Verherrlichung, Nicht widerstrebt sein Füchsepaar dem Opferwerk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведущие (речь) приветствовали (его) криками  
 Ради (его) помощи, ради прославления.  

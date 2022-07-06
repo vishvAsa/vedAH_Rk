@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् वः सुजाता मरुतो महित्वनं꣡  
 दीर्घं꣡ वो दात्र꣡म् अ꣡दितेर् इव व्रत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ज꣡नाय य꣡स्मै सुकृ꣡ते अ꣡राधुवम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । च॒न । त्यज॑सा । वि । ह्रु॒णा॒ति॒ । तत् । जना॑य । यस्मै॑ । सु॒ऽकृते॑ । अरा॑ध्वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -141,7 +141,7 @@ genre M
 हे **सुजाताः** शोभनजननाः हे मरुतः **वः** युष्मदीयं **महित्वनं** महत्त्वं तत् तादृक् खलु। तदित्युक्तं किमित्याह । **वः** युष्माकं **दात्रं** दानं वृष्टयादिरूपं **दीर्घम्** अत्यायतमविच्छिन्नम् । प्रकृष्टोपकारीत्यर्थः । दीर्घत्वे दृष्टान्तः । **अदितेः** **व्रतम्** **इव** । अदीनाया देवमातुर्भूम्या वा । व्रतमिति कर्मनाम् । तद्यथा दीर्घम् अतिविस्तृतं तद्वत् । अदितिर्द्यौरदितिरन्तरिक्षम् ' ( ऋ. सं. १. ८९. १०) इत्यादिमन्त्रवर्णात् । किंच हे मरुतः यूयं **यस्मै** **सुकृते** शोभनयागादिकर्त्रे यजमानाय यदभिमतं धनम् **अराध्वं** तत् **इन्द्रः** च इन्द्रोऽपि **त्यजसा** त्यागेन न **वि** **ह्रुणाति** न विह्वरति कौटिल्यं न करोति ॥ चन इत्ययं यद्यपि निपातद्वयसमुदायरूप एको निपातः तथाप्यवयवविभागेन चशब्दः समुच्चये नशब्दो निषेधेऽधिगन्तव्यः ॥ युष्मद्धनादित्यागम् इन्द्रत्यागोऽपि नातिक्रामतीत्यर्थः । यद्वा । यस्मै तद्धनमराध्वं तमिन्द्रोऽपि न कुटिलयति । न निषेधयति किंत्वनुमोदयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,14 +152,14 @@ genre M
 Aditer iva vratam, the act or obligation of Aditi, either the mother of the gods, or the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is your greatness, o well-born Maruts: your gift is long(-lasting), like  the commandment of Aditi.  
 For the person of good action to whom you gave it, not even Indra  
 makes it go awry through dereliction.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has ties to earlier parts of the hymn. The opening tád vaḥ … mahitvanám “this is your greatness” echoes 1ab tán nú vocāma … mahitvám. There it was their previous (pū́rvam) greatness; this vs. presumably brings this greatness into the present time.
 
@@ -168,23 +168,23 @@ Pāda b seems a paraphrase of 7a anavabhrárādhasaḥ ‘whose gifts are not wi
 The connection between the main clause and the relative clause in cd is somewhat loose: as a correlative to the rel. cl. jánāya yásmai “for whatever person” we would expect tám, not tád, which must refer to the gift, not the recipient of it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is your majesty, ye Maruts nobly born, far as the sway of Aditi your bounty spreads.  
      Even Indra by desertion never disannuls the boon bestowed by you upon the pious man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das ist eure Größe, ihr edelgeborenen Marut: eure Gabe ist dauernd wie das Gebot der Aditi. Auch Indra macht sie nicht aus Feindschaft dem frommen Mann abwendig, dem ihr sie geschenkt habt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ist, o edle Maruts, eure Herrlichkeit, weit reicht eur Geben wie der Aditi Gesetz; Auch Indra selbst verletzt mit seinem Angriff nicht, das, was dem frommen Manne ihr gewähret habt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Таково ваше величие, о прекраснорожденные Маруты.  
 Длителен ваш дар, словно обет Адитьи.  

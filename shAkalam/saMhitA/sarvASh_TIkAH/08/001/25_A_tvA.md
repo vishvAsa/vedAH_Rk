@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा र꣡थे हिरण्य꣡ये  
 ह꣡री मयू꣡रशेपिया  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 विव꣡क्षणस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 शि॒ति॒ऽपृ॒ष्ठा । व॒ह॒ता॒म् । मध्वः॑ । अन्ध॑सः । वि॒वक्ष॑णस्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -98,42 +98,42 @@ genre M
 पूर्वं हर्योर्विभूतिरूपा अश्वा इन्द्रमावहन्त्विति प्रार्थितम् । अधुना तावेवेन्द्रमावहतामिति प्रार्थ्यते। **हिरण्यये** हिरण्मये **रथे** युक्तौ **मयूरशेप्या** मयूरशेपौ मयूरवर्णशेपो ययोस्तौ। ‘सुपां सुलुक्' इति विभक्तेर्ड्यादेशः । **शितिपृष्ठा** श्वेतपृष्ठौ एवंभूतावश्वौ” हे इन्द्र त्वाम् **आ** **वहताम्** । किमर्थम् । **मध्वः** मधुररसस्य **विवक्षणस्य** वक्तुमिष्टस्य स्तुत्यस्य यद्वा वोढव्यस्य प्राप्तव्यस्य **अन्धसः** अन्नस्य सोमरूपस्य **पीतये** पानार्थम् ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your two peacock-tailed, white-backed horses, yoked to your golden chariot, bring you to drink ofthe sweet praiseworthy libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here let the two fallow bays (yoked) to the golden chariot, those with  peacock tails  
 and white backs, convey you to drink of the honey, of the  
 strengthening stalk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I supply ‘yoked’ with ráthe hiraṇyáye, on the basis of the same phrase in 24b with yuktā́(ḥ), but it would be possible to follow Geldner and take it as merely a locational phrase: “[d]ich … im goldenen Wagen.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yoked to thy chariot wrought of gold, may thy two Bays with peacock tails,  
      Convey thee hither, Steeds with their white backs, to quaff sweet juice that makes us eloquent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich soll im goldenen Wagen das Falbenpaar mit den pfauenartigen Schweifen, das Weißrückige herfahren zum Trunk des süßen, redselig machenden Trankes!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf goldnem Wagen mögen dich die Rosse mit dem Pfauenschweif, Und weissem Rücken herziehn zu dem süssen Trank, des aufgeschwollnen Somakrauts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть тебя на золотой колеснице  
 Повезет пара буланых коней с павлиньими хвостами,  

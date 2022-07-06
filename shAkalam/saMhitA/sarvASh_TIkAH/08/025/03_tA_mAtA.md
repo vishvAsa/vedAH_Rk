@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ माता꣡ विश्व꣡वेदसा  
 असुर्या᳡य प्र꣡महसा  
 मही꣡ जजान अ꣡दितिर् ऋता꣡वरी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 म॒ही । ज॒जा॒न॒ । अदि॑तिः । ऋ॒तऽव॑री ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -84,41 +84,41 @@ genre M
 अदितेस्तनयत्वमेव स्फुटयति । **विश्ववेदसा** विश्ववेदसौ सर्वधनौ । यद्वा । विश्वानि स्थावरजङ्गमात्मकानि सर्वाणि विदतुर्जानीत इति विश्ववेदसौ । **प्रमहसा** प्रमहसौ प्रकृष्टतेजस्कौ **ता** तौ तादृशौ मित्रावरुणौ **मही** महती **ऋतावरी** सत्यवती **माता** देवमाता **अदितिः** **जजान** जनयामास । किमर्थम् । असुर्याय असुराणां हन्त्रे बलाय । असुरान् हन्तुमुत्पादितवतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The great and truthful **Aditi**, the mother (of the gods), gave birth to those two who are possessed of allaffluence, and shining with great splendour, for the (destruction of the) **asuras**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Their mother, great truth-possessing Aditi, gave birth  
 to the two who possess all possessions, whose greatness (goes) forward to  lordship.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because the phrase asuryā̀ya prámahasā is found also in VII.66.2 (also of Mitra and Varuṇa), the two words must be construed together -- though in both instances Geldner construes them separately (as do Renou and W. E. Hale). Moreover Geldner’s minimalist tr. of prámahas- (“Die … Erhabenen”) does not reflect its bahuvrīhi status: it should mean something like ‘having their greatness forth/in front’. In combination with the dat. asuryā̀ya, some forward motion seems indicated.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Twain, possessors of all wealth, most glorious, for supremest sway  
      Aditi, Mighty Mother, true to Law, brought forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Allwissenden, Erhabenen hat die große Gesetzeshegerin, die Mutter Aditi zur Asurawürde geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, die allweisen, herrlichen, gebar zu hoher Göttermacht Die grosse Mutter Aditi, die heilige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этих двоих всеведущих, очень могущественных,  
 Мать для асурского достоинства  

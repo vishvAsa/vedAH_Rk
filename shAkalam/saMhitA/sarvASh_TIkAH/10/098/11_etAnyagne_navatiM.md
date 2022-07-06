@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡नि अग्ने नवतिं꣡ सह꣡स्रा  
 स꣡म् प्र꣡ यछ वृ꣡ष्ण इ꣡न्द्राय भाग꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡प्य् औलानं꣡ दिवि꣡ देवे꣡षु धेहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वि॒द्वान् । प॒थः । ऋ॒तु॒ऽशः । दे॒व॒ऽयाना॑न् । अपि॑ । औ॒ला॒नम् । दि॒वि । दे॒वेषु॑ । धे॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāny* ← *etāni* ← *etad*
 - \[noun\], accusative, plural, neuter
@@ -129,37 +129,37 @@ popular
 हे **अग्ने** गवाम् **एतानि** **नवतिं** **सहस्रा** सहस्राणि च **वृष्णे** वर्षित्रे **इन्द्राय** **भागं** **सं** **प्र** **यच्छ** । तत्प्रीत्यर्थमृत्विग्भ्यो देहि । किंच **देवयानान्** **पथः** देवयानान् मार्गान् **विद्वान्** त्वम् **ऋतुशः** काले काले **औलानम्** **अपि** कुरुकुलजातमपि शान्तनवं **देवेषु** मध्ये **धेहि** निधेहि स्थापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Give, **Agni**, these ninety thousands to the showerer, **Indra**, as his share; knowing the paths traversedby the gods in due season plural ce the Aulāna (**Śantanu**), in heaven among the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These ninety thousand, o Agni—present them to the bull Indra as  his share.  
 Knowing the paths leading to the gods in proper order, set Aulāna  
 among the gods in heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give thou these ninety thousand loads, O Agni, to Indra, to the Bull, to be his portion.  
      Knowing the paths which Deities duly travel, set mid the Gods in heaven Aulana also.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese neunundneunzig Tausend übergib dem Bullen Indra als Anteil, o Agni! Weil du die von den Göttern befahrenen Wege genau kennst, so bring auch den Aulana in den Himmel unter die Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, diese neunzigtausend Lasten reich dar als seinen Theil dem Stiere Indra; Den Göttern bring zum Himmel hin die Gabe, die gottbetretnen Pfade richtig kennend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти, о Агни, девяносто тысяч  
 Передай быку Индре как (его) долю!  

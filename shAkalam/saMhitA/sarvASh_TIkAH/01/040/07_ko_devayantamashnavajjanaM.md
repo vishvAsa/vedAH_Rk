@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ देवय꣡न्तम् अश्नवज्  
 ज꣡नं को꣡ वृक्त꣡बर्हिषम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अन्तर्वा꣡वत् क्ष꣡यं दधे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 प्रऽप्र॑ । दा॒श्वान् । प॒स्त्या॑भिः । अ॒स्थि॒त॒ । अ॒न्तः॒ऽवाव॑त् । क्षय॑म् । द॒धे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -103,20 +103,20 @@ genre M
 **देवयन्तं** देवान् कामयमानं **जनं** **कः** **अश्नवत्** ब्रह्मणस्पतिव्यतिरिक्तः को नाम देवो व्याप्नुयात् । तथा **वृक्तबर्हिषम्** अनुष्ठानाय छिन्नबर्हिषं यजमानं **कः** नाम अन्यो देवोऽश्नवत् । **दाश्वान्** हविर्दत्तवान् यजमानः **पस्त्याभिः** मनुष्यैर्ऋत्विग्भिः सह **प्रप्र** **अस्थित** देवयजनदेशं प्रति प्रस्थितवान्। अन्तर्वावत् अन्तःस्थितबहुधनोपेतम् । यद्वा । अन्तःस्थितपुत्रपौत्रादिप्रयुक्तबहुविधवागुपेतं **क्षयं** निवासस्थानं गृहं **दधे** धृतवान् भवति ॥ देवयन्तम् इत्यादयो गताः । प्रप्र ।  ‘ प्रसमुपोदः पादपूरणे' (पा. सू. ८. १. ६) इति प्रशब्दस्य द्विर्भावः ।  ‘ अनुदात्तं च ' इत्याम्रेडितानुदात्तत्वम् । अस्थित ।' ष्ठा गतिनिवृत्तौ । लुङि • समवप्रविभ्यः स्थः ' ( पा. सू. १. ३. २२ ) इत्यात्मनेपदम् । स्थाध्वोरिच्च ' ( पा. सू. १. २. १७ ) इति धातुसिचोः इत् । कित्त्वे ‘ह्रस्वादङ्गात्' (पा.सू. ८. २. २७) इति सलोपः। अन्तर्वावत्। ‘वा गतिगन्धनयोः' । अन्तर्वान्ति गच्छन्तीति अन्तर्वाः पुत्रपश्वादयः । आतो मनिन्' इत्यादिना विच् । तदस्यास्ति' इति मतुप्। मतुपः पित्त्वादनुदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् । यद्वा । वावदीतेः क्विप् । क्षयम् । क्षियन्ति निवसन्त्यस्मिन्निति क्षयः। 'पुंसि संज्ञायाम्” इत्यधिकरणे घः।  ‘ क्षयो निवासे' इत्याद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who, (except **Brahmaṇaspati**), may approach the man who is devoted to the gods, by whom the clipped sacred grass is spread; the giver of the oblation has proceeded with the priests (to the hall of sacrifice), for he has a dwelling (abounding) internally with precious things.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who can attain to the man who seeks the gods, and who to the man  whose ritual grass has been twisted?  
 The pious man has advanced ever further through his abodes; he has  made his own dwelling place pregnant.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the standard tr. take antarvā́vat as referring to territory “in between” (e.g., Geldner “das dazwischen liegende (Land)”), I follow Schmidt’s (Bṛhaspati und Indra, 102; see also Oldenberg ad loc., AiG II.2.893) suggestion that it is a pleonastically+++(=redundant)+++ marked variant of antárvant- ‘pregnant’, an interpretation that works nicely with the following verse.
 
@@ -127,23 +127,23 @@ Where I differ from Schmidt (and some others) is in the interpr. of pastyā̀bhi
 For additional if indirect evidence for ‘dwelling place’ see comm. ad IX.97.18.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who shall approach the pious? who the man whose sacred grass is trimmed?  
      The offerer with his folk advances more and more: he fills his house with precious things.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer vermöchte den gottergebenen Mann zu erreichen, wer den, der das Barhis umgelegt hat?Mit den Strömen ist der Opferspender immer weiter gezogen. Das dazwischen liegende Land hat er zu seinem Wohnsitz gemacht:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer reichet an den frommen Mann, wer an den Streu bereitenden? Der Gottesfürcht'ge ragt an Haus und Hof hervor, und hat darinnen sichern Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто может угнаться за человеком, любящим богов?  
 Кто – за человеком, разложившим жертвенную солому?  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ योजते अरुषा꣡ विश्व꣡भोजसा  
 स꣡ दुद्रवत् सु꣡आहुतः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 देवं꣡ रा꣡धो ज꣡नाना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽब्रह्मा॑ । य॒ज्ञः । सु॒ऽशमी॑ । वसू॑नाम् । दे॒वम् । राधः॑ । जना॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 **सः** अग्निः **अरुषा** आरोचमानौ विश्वभोजसा विश्वस्य पालयितारावश्वौ **योजते** रथे युनक्तु । यद्वा । सोऽरुषा आरोचमानेन तेजसा विश्वभोजसा विश्वस्य रक्षकेण योजते युज्यते । किंच **सः** अग्निः **दुद्रवत्** आनेतुं देवान् प्रति भृशं द्रवतु द्रवति वा । **स्वाहुतः** सुष्ठु आहुतः **सुब्रह्मा** सुस्तुतिः शोभनान्नो वा **यज्ञः** यष्टव्यः **सुशमी** सुकर्मा च भवति । तमिमं **देवं** द्योतमानं **वसूनां** वासकानां **जनानां** वसिष्ठानां **राधः** हविः अभिगच्छत्विति शेषः । यद्वा । एवंगुणविशिष्टोऽग्निर्वसूनां धनानां मध्ये देवमत्यन्तप्रकाशमानं राधो धनं जनानां यजमानानाम् । धनवत् प्रियतम इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ Vasunām devan rādho janānām = tam dhanānām madhyedevam atayantoparakṣam�
 Alternative: Agni goes quickly where the worship of the **Vasus**, **Rudras**,**Ādityas** is celebrated, and the sacrificial wealth of the worshippers is offered
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He will hitch up his two flame-red (horses) that bring nurture to all. He  will run swiftly, when he receives the well-poured offering.  
 With its good formulations and with good labor, the sacrifice belongs  to the good (gods), and the divine gift belongs to the peoples.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His two red horses, all-supporting, let him yoke: let him, well-worshipped, urge them fast.  
      Then hath the sacrifice good prayers and happy end, and heavenly gift of wealth to men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er möge seine beiden Rotfüchse anschirren, die allen frommen; er beeile sich wohlbegossen. Den Vasu´s gehört das Opfer mit gutem Segenswort und gutem Dienst, den Menschen die göttliche Belohnung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die alles nähren, schirrt er an, die feurigen, er eile reichbeopfert vor; Der Menschen Opfer sei an Werk und Andacht reich, der Güter Gabe gottbeliebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть запрягает он пару алых коней, всенасыщающих,  
 Пусть он быстро мчится, хорошо политый (жиром)!  

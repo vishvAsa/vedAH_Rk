@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्व्यस्य त्म꣡ना र꣡थियस्य पुष्टे꣡र्  
 नि꣡त्यस्य रायः꣡ प꣡तयः सियाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मत्रा꣡ रा꣡यो नियु꣡तः सचन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ता । च॒क्रा॒णौ । ऊ॒तिऽभिः॑ । नव्य॑सीभिः । अ॒स्म॒ऽत्रा । रायः॑ । नि॒ऽयुतः॑ । स॒च॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvyasya* ← *aśvya*
 - \[noun\], genitive, singular, neuter
@@ -116,7 +116,7 @@ genre M
 **अश्व्यस्य** अश्वसमूहस्य **रथ्यस्य** रथरूपस्य रथार्हस्य वा **पुष्टेः** पोषस्य **नित्यस्य** अविचलितस्य **रायः** धनस्य **त्मना** आत्मना स्वयमेवाप्रयत्नेन **पतयः** **स्याम** । **ता** तौ देवौ **चक्राणा** चङ्क्रममाणौ गन्तारौ । भवतमिति शेषः। **नव्यसीभिः** नूतनाभिः **ऊतिभिः** रक्षाभिः **अस्मत्रा** अस्मासु **नियुतः** अश्वाः **रायः** धनानि च **सचन्तां** सेवन्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,36 +127,36 @@ genre M
 May we of our own be: tmanā **patayaḥ** **syāma**, without any effort or labour, aprayatnena
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we by ourselves be lords of prosperity in horses and chariots, of  our own proper wealth,  
 making the two (gods) our own along with their newer forms of help.  Let riches in teams accompany (them) among us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c has been variously dealt with -- as parenthetical (Geldner), as a separate clause (Renou, Witzel Gotō), as the obj. of the verb in d (Oldenberg). All of these take the two gods as the subj. of the part. cakrāṇā́(flg. the du. reading of the Pp., cakrāṇaú), and all of them fail to render the medial sense of the part. Since the med. pf. cakré in 2a has clear medial sense (“made X his own”), the voice of this participle should not be ignored. I therefore read it as nom. plural (contra Pp. but compatible with Saṃhitā), modifying the 1st pl. subj. of ab. Again, we want to make the gods our own; this forms a ring with the same usage in 2a.
 
 [IV.42 JPB]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we ourselves be lords of during riches, of ample sustenance for car and hones.  
      So may the Twain who work with newest succours bring yoked teams hitherward to us and riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten selbst die Besitzer einer Roßherde, der Vollbesitzer von Wagengeschirr, von eigenem Reichtum sein - die beiden Götter wirken durch ihre neusten Hilfen mit - uns sollen die Reichtümer, die Gaben zufallen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besitzer seien wir von Ross und Wagen, von reicher Nahrung und von eigner Habe; Dies alles schaffend durch die neusten Hülfen lasst zu uns gehn des Reichthums Wagenzüge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть будем мы повелителями процветания собственного богатства,  
 Состоящего из коней, состоящего из колесниц, своего (процветания)!  

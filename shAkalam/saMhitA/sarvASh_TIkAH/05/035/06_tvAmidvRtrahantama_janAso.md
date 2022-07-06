@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् इ꣡द् वृत्रहन्तम  
 ज꣡नासो वृक्त꣡बर्हिषः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ह꣡वन्ते वा꣡जसातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒ग्रम् । पू॒र्वीषु॑ । पू॒र्व्यम् । हव॑न्ते । वाज॑ऽसातये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -90,20 +90,20 @@ genre M
 हे **वृत्रहन्तम** अतिशयेन शत्रूणां हन्तरिन्द्र **त्वामित्** त्वामेव **जनासः** जनाः **वृक्तबर्हिषः** आच्छादितदर्भाः । प्रवृत्तयज्ञा इत्यर्थः । **उग्रम्** उद्गूर्णबलं **पूर्वीषु** बह्वीषु प्रजासु मध्ये **पूर्व्यं** पुरातनं सन्तं **वाजसातये** संग्रामाय **हवन्ते** आह्वयन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slayer of **Vṛtra**, men with clipped sacred grass invoked you, who are fierce and foremost among many, for aid in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just you, best smasher of obstacles, do the peoples, when they have  twisted their ritual grass,  
 call on for the winning of prizes—you the strong, foremost among the  many (peoples) [/in the many (battles)].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the phonol. figure pūrvī́ṣu pūrv(i)yám, though the words belong to diff.
 
@@ -112,23 +112,23 @@ stems. The referent of fem. pūrvī́ṣu is not clear. Grassmann suggests ājí
 form, in I.116.15, but nothing in that passage signals that gender.) We could, of course, suggest a different word for ‘battle’ with fem. gender, like pṛ́tanā or samád-; there is weak support for both (/either) of these because they both are construed in the loc. pl. with ugrá-, which is also found here: ugrám … samátsu in an oft-repeated pāda (III.30.22, etc.); VII.56.23 ugráḥ pṛ́tanāsu, VIII.61.12, 70.4 ugrám (…) pṛ́tanāsu. An entirely different referent is also possible: ‘peoples’ comes to mind, picking up the jánāsaḥ of pāda b, with several different possible fem. stems as substitute: kṣití- from 2c or the developed sense of carṣaṇí-, extractable from 1c (cf. III.43.2 pūrvī́ḥ … carṣaṇī́ḥ) or víś- (cf. VII.31.10 víśaḥ pūrvī́ḥ).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Mightiest Vrtra-slayer, thee, fierce, foremost among many, folk  
      Whose sacred grass is trimmed invite to battle where the spoil is won.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, du Feindetöter, rufen die Menschen bei umgelegtem Barhis, den Gewaltigen als ersten in den vielen Kämpfen zum Siegesgewinn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn dich, o feindetödtendster, dich rufen um den Preisgewinn Die Männer Streu bereitend an, dich starken, alten oft im Kampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя, о лучше всех убивающий врагов,  
 Люди, расстелившие жертвенную солому,  

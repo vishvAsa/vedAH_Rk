@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दाना꣡ मृगो꣡ न꣡ वारणः꣡  
 पुरुत्रा꣡ चर꣡थं दधे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 महां꣡श् चरसि ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नकिः॑ । त्वा॒ । नि । य॒म॒त् । आ । सु॒ते । ग॒मः॒ । म॒हान् । च॒र॒सि॒ । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dānā* ← *dāna*
 - \[noun\], instrumental, singular, neuter
@@ -117,44 +117,44 @@ genre M
 **मृगः** शत्रूणामन्वेषकः **वारणः** गजः **दाना** मदजलानीव **पुरुत्रा** बहुषु यज्ञेषु **चरथं** चरणशीलं मदं **दधे** इन्द्रो धारयति । अथ प्रत्यक्षस्तुतिः । हे इन्द्र **त्वा** त्वां **नकिः** **नि** **यमत्** न कश्चिन्नियच्छति । **सुते** सोमे **आ** **गमः** आगच्छ । **महान्** हि त्वम् **ओजसा** बलेन सर्वतः **चरसि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As a wild elephant emitting the dews of passion, he manifests his exhilaration in many plural ces; no onechecks you, (**Indra**), come to the libation; you are mighty, and goes (everywhere) through your strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a wild elephant he has established his wandering [=his territory] in  many places, through his giving.  
 No one will restrain you; you will come here to the pressed (soma);  
 great, you wander about in your strength.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I think the idea behind the simile is that elephants establish a large territory in which they wander, and that Indra has established a similarly large territory by giving to sacrificers scattered all over the map. Geldner’s “mit seinem Bruntsaft” (‘rutting liquid’) stems from an idea of Pischel’s (see Oldenberg, Kl. Sch 306) connecting this passage with the later (Epic+ dāna- meaning elephant’s rutting liquid [see EWA s.v. dāná-]). This seems unlikely and it is hard to see how simile and frame would work together.
 
 I have toyed with another possibility that remains tantalizingly hard to realize: dānā́may indeed be a pun, but a different one: an instrumental both to dānā́, as it’s taken here, and also to dāmán- ‘rope’ (whose inst. is indeed regularly dānā́). In this second reading ná would be ‘not’, not ‘like’, and vāraṇáḥ would be some derivative of √vṛ ‘hold back, restrain’ in addition to ‘wild’. The meaning of the second reading would be “a beast not (to be) restrained by a rope,” in addition to “Like a wild elephant … by his giving.” The second reading would harmonize with 6a, 10b ávṛtaḥ ‘unobstructable’ and be paraphrased by the next pāda in its own verse, 8c nákiṣ ṭvā ní yamat “No one will restrain you.” However, I have been unable to find a way to make vāraṇá- a plausible form of √vṛ in the correct sense and so have not pursued this possibility further.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As a wild elephant rushes on this way and that way, mad with heat,'  
      None may compel thee, yet come hither to the draught: thou movest mighty in thy power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit seiner Gabe schuf er Regsamkeit an vielen Orten, wie ein wilder Elefant mit seinem Brunstsaft. Niemand soll dich aufhalten. Komm zum Soma; du wandelst groß an Stärke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Schmause wie ein starkes Wild nimmt hier und dort hin er den Lauf; Dich hindre niemand, komme zu dem Somasaft, du grosser, schreitest vor mit Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опасный, как дикий зверь, (своим) дарением  
 Он вызвал движение во многих местах.  

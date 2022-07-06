@@ -8,7 +8,7 @@ title = "+031"
 ‘शासद्वह्निः' इति द्वाविंशत्यृचं द्वितीय सूक्तम् । अत्रानुक्रमणिका -- शासत् कुशिको विश्वामित्र एव वा श्रुतेः' इति । इषीरथस्य पुत्रः कुशिको विश्वामित्र एव वा ऋषिः । इन्द्रो देवता । त्रिष्टुप्छन्दः । चातुर्विंशिकेऽहनि माध्यंदिने सवने अच्छावाकशस्त्र आरम्भणीयाया ऊर्ध्वमहीनसूक्तसंज्ञकमेतत्सूक्तं शंसनीयम् । सूत्रितं च - अस्मा इदु प्रतवसे शासद्वह्निरितीतरावहीनसूक्ते' (आश्व. श्रौ. ७. ४ ) इति । पृष्ठ्याभिप्लवषडहयोः प्रथमेऽहनि माध्यंदिनसवनेऽच्छावाकशस्त्रेऽहीनसूक्तस्य स्थाने त्रीणि संपातसूक्तानि । तत्रेदं तृतीयं संपातसूक्तम् । ‘इमामू ष्विच्छन्ति वा शासद्वह्निरिति संपाताः' ( आश्व. श्रौ. ७.५ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 31 (265)  
 Indra  
@@ -23,7 +23,7 @@ It is notable that neither Indra nor the Aṅgirases are named for most of the r
 The hymn returns to the ritual here-and-now starting around verse 17, and the  theme of dawn, appropriate both to the fire-kindling verses 1–3 and the extensive  treatment of the Vala myth, prompts the requests for Indra’ liberality to be mani fested in the early-morning dakṣiṇā, with the dispensing of gifts compared to the  outpouring of cows from the opened Vala cave.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra As indicated in the published introduction, the hymn presents multiple difficulties, esp.
 

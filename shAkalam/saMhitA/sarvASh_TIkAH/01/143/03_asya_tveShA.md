@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ त्वेषा꣡ अज꣡रा अस्य꣡ भान꣡वः  
 सुसंदृ꣡शः सुप्र꣡तीकस्य सुद्यु꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अग्ने꣡ रेजन्ते अ꣡ससन्तो अज꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 भाऽत्व॑क्षसः । अति॑ । अ॒क्तुः । न । सिन्ध॑वः । अ॒ग्नेः । रे॒ज॒न्ते॒ । अस॑सन्तः । अ॒जराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -131,7 +131,7 @@ genre M
 **अस्य** स्तूयमानस्याग्नेः **त्वेषाः** दीप्तयः **अजराः** जरारहिताः अजीर्णा: अविरता इत्यर्थः ॥ ‘ नञो जरमर ' इत्यादिना उत्तरपदाद्युदात्तत्वम् ॥ तथा **सुप्रतीकस्य** शोभनमुखस्य **अस्य** अग्नेः **भानवः** रश्मयः । दीप्तेरुक्तत्वादत्र विस्फुलिङ्गा अवगन्तव्याः । ते च सुसंदृशः सुष्ठु सम्यक् द्रष्टारः । सर्वतो व्याप्ता इत्यर्थः । **सुद्युतः** सुष्ठु सर्वतो द्योतमानाः । तथा अस्य अग्नेः **भात्वक्षसः** । त्वक्ष इति बलनाम, ‘ त्वक्षः शर्धः ' ( नि. २. ९, ६ ) इति बलनामसु पाठात् । भासमानबलाः । **अक्तुः** इति सत्रिनामैतत् ,' अक्तुः ऊर्म्या' (नि. १. ७. ४ ) इति तन्नामसूक्तत्वात् । द्वितीयार्थे प्रथमा । अक्तुं जगदञ्जकं नैशं तमः **अति** अतिक्रम्य **सिन्धवः** स्यन्दमानाः सर्वत्र व्याप्नुवन्तः **अससन्तः** स्वव्यापारेषु अस्वपन्तोऽविरताः अत एव **अजराः** **न** **रेजन्ते** न कम्पन्ते । दाहपाकादिषु न चलन्ति न चाल्यन्ते वा अन्यैः । यद्वा । नशब्दो दृष्टान्तवचनः। भात्वक्षसो भा एवं त्वक्षो बलं यस्य तादृशस्यादित्यस्य सिन्धवो न रश्मय इव । ते यथा स्यन्दनशीला व्याप्तिमन्तः अक्तुरति भञ्जकं तमः अतिक्रम्य अससन्तो रेजन्ते तद्वत् भात्वक्षसोऽस्याग्नेरुक्तलक्षणा दीप्तयोऽपि सर्वत्र रेजन्ते कम्पन्ते व्याप्नुवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,14 +142,14 @@ genre M
 Desist not: na rejante, do not tremble; they do not move, or are moved in burning, maturing; dāhapākādiṣu na calanti na cālyante vā anyaiḥ, or na may imply comparison, when bhātvakṣasasor na **sindhavaḥ** = like the rays of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His are the dazzling, his the unaging radiant beams—he possessing a  lovely appearance, a lovely face, a lovely flash.  
 
 The (beams) of Agni, with the energy of their radiance, are churning like  rivers of the night, across (the nights), unsleeping, unaging.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The bahuvrīhi bhā́tvakṣasaḥ in c is generally taken as a gen. sg., modifying Agni, who is amply represented by genitives in b and in the two forms of asyá in a. I prefer to take it as a nom. pl. modifying the beams (bhānávaḥ) that remain the subject of the sentence. However, either interpr. is possible.
 
@@ -170,33 +170,33 @@ I.36.16; with acc. pl. kṣapáḥ VIII.26.3, X.77.2). For aktúḥ, however, I 
 In any case, the expression is reminiscent of the curious phrase aktúr apā́m “the ‘night’ of the waters” in II.30.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His flames that wax not old, beams fair to look upon of him whose face is lovely, shine with beauteous sheen.  
      The rays of Agni, him whose active force is light, through the nights glimmer sleepless, ageless, like the floods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 His flames are fierce; never ageing are the flames of him who is beautiful to behold, whose face is beautiful, whose splendour is beautiful. The never sleeping, never ageing (rays) of Agni whose power is light, roll forward like streams across the nights (?) 2.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 His flames that grow not old, the beams of Agni's fire, Whose aspect, countenance, and sheen are beautiful. With mighty radiance undulate and shine afar, Like glistening rivers' flow: they slumber not nor age.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine funkelnden alterlosen Flammen, seine Strahlen, des schönleuchtenden, schön zu schauenden von schönem Angesicht, des lichtstarken Agni, zittern die Nacht über gleich dem Farbenspiel der Flüsse, nicht schlafend, nicht alternd.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Agni Strahlen, seine muntre Flammenschar, des funkelnden mit schönem Blick und Angesicht, Die Flammenströme flimmern, wie das Tageslicht, die lichtgewalt'gen, nimmer schlummernd, ewig jung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его искрящиеся нестареющие (языки пламени), его лучи –  
 (У этого) прекрасного видом (бога) с прекрасным обликом, с яркой вспышкой,  

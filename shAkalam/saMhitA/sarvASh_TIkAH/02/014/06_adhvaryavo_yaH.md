@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवो यः꣡ शतं꣡ श꣡म्बरस्य  
 पु꣡रो बिभे꣡द अ꣡श्मनेव पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपा꣡वपद् भ꣡रता सो꣡मम् अस्मै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यः । व॒र्चिनः॑ । श॒तम् । इन्द्रः॑ । स॒हस्र॑म् । अ॒प॒ऽअव॑पत् । भर॑त । सोम॑म् । अ॒स्मै॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -117,7 +117,7 @@ genre M
 हेअध्वर्यवः यइन्द्रः शम्बरस्यमायाविनोसुरस्यपूर्वीः पुरातनीः शतम्पुरः पुरीः अश्मनेवअश्मसदृशे- नवज्रेणबिभेद यश्चेन्द्रोवर्चिनः वर्चदीप्तौ गमेरिनिरितिविधीयमानइनिर्बहुलवचनादस्माद्भवति यद्वा नामैतत् तस्यासुरस्यशतंसहस्रंएतत्सङ्ख्याकानपरिमितान्वीरान्पुत्रान् अपावपत् युगपदेवभूम्यामपा- तयत् तथाचमन्त्रवर्णः—शतंवर्चिनःसहस्रञ्चसाकंहथोअप्रत्यसुरस्यवीरानिति । अस्मैइन्द्रायसोमं- भरत ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,29 +128,29 @@ genre M
 Varcin, an **asura** who reviled **Indra** and was consequently destroyed, with all his children and dependants
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus! Who split the hundred, the many fortresses of Śambara as  with a stone,  
 and who scattered afar the hundred, the thousand (warriors) of Varcin— to him bring soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye ministers, to him who as with thunder demolished Sambara's hundred ancient castles;  
      Who cast down Varcin's sons, a hundred thousand,-to him, to Indra, offer ye the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Der die hundert Burgen des Sambara brach, die vielen wie mit einem Stein, der die hundert, die tausend Mannen des Varcin wegfegte - traget ihm Soma auf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Priester, der zerschlug die hundert Burgen des Çambara, mit Einem Wurf die vielen, Des Dämon Vartschin hunderttausend Mannen verjagte, diesem Indra bringet Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью! Кто разбил сотню крепостей  
 Шамбары, словно камнем, многие,  

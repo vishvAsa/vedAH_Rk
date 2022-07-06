@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ तुर꣡म् मरु꣡तो रामयन्ति  
 इमे꣡ स꣡हः स꣡हस आ꣡ नमन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गुरु꣡ द्वे꣡षो अ꣡ररुषे दधन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इ॒मे । शंस॑म् । व॒नु॒ष्य॒तः । नि । पा॒न्ति॒ । गु॒रु । द्वेषः॑ । अर॑रुषे । द॒ध॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -117,20 +117,20 @@ genre M
 **इमे** ईदृशः **मरुतः** **तुरं** कर्मसु क्षिप्रवन्तं यजमानं **रमयन्ति** क्रीडयन्ति । **इमे** मरुतः **सहः** सहसा बलेन **सहसः** बलवतो जनान् **आ** **नमन्ति** । **इमे** मरुतः **वनुष्यतः** हिंसकात् पुरुषात् **शंसं** शंसकं स्तोतारं **नि** **पान्ति** नितरां पालयन्ति । **अररुषे** हविरप्रयच्छते जनाय **गुरु** महत् **द्वेषः** अप्रियं **दधन्ति** कुर्वन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These, **Maruts**, give plural asure to the zealous (worshipper); these humble the strength of the strong man;they entertain severe displeasure towards the withholder of offerings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These Maruts here bring the hasty to a halt; they make might bow  to might.  
 They protect the laud from the rapacious; they establish heavy hatred  for the ungenerous.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was noted above, this vs. contains three examples of the near-deictic imé, opening the first three pādas. The published translation only fully renders the first one, as three examples of “these here” seemed too heavy. It is also worth noting that, though the imé forms might suggest the presence of the Maruts right here at the sacrifice (as was suggested above), the clauses in which they are found describe general activities of those gods, which would almost necessarily be performed away from the ritual ground.
 
@@ -149,23 +149,23 @@ As was just noted, vs. 17 “feels” like a final (or pseudo-final) vs. If vs. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Maruts bring the swift man to a stand-still, and strength with mightier strength they break and humble  
      These guard the singer from the man who hates him and lay their sore displeasure on the wicked.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Marut dämpfen den Mächtigeren; sie beugen die Gewalt des Gewaltigen. Sie schützen die heilige Rede vor dem Neidischen. Dem Geizigen schaffen sie schwere Feindschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den raschen bringen sie zum Stehn, die Maruts, sie beugen jede Kraft durch eigne Stärke; Den Sänger schützen vor dem kühnen Feind sie und werfen jede Feindschaft auf den Kargen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти Маруты заставляют притихнуть (даже) могучего,  
 Они сгибают силу сильного.  

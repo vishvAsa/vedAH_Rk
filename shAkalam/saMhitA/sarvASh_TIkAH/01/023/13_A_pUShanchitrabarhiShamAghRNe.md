@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पूषञ् चित्र꣡बर्हिषम्  
 आ꣡घृणे धरु꣡णं दिवः꣡  
 आ꣡जा नष्टं꣡ य꣡था पशु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । अ॒ज॒ । न॒ष्टम् । यथा॑ । प॒शुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -85,36 +85,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पूषन्** 'चित्रबर्हिषं विचित्रैर्दर्भैर्युक्तं **धरुणं** यागस्य धारकं सोमं **दिवः** **आ** द्युलोकात् आहर इति शेषः । पूषा विशेष्यते । **आघृणे** अगतदीप्तियुक्त । तत्र दृष्टान्तः । हे **अज** गमनशील **यथा** लोके **नष्टं** **पशुं** महारण्यादौ अन्वीक्ष्य कश्चिदाहरति तद्वत् ॥ आघृणे। ‘घृ क्षरणदीप्त्योः' इत्यस्मात् घृणिपृश्नि' इति निप्रत्ययो निपातितः । ऋवर्णाच्चेति वक्तव्यम्' इति णत्वम् । प्रादिसमासः । आमन्त्रिताद्युदात्तत्वम् । धरुणम् । ‘धृञ् धारणे'। अस्मात् ण्यन्ताद्धातोः ‘धारेर्णिलुक्च' ( दश. पा. ५) इति उनन्प्रत्ययः । व्यत्ययेन नित्स्वराभावे प्रत्ययस्वरः । दिवः । ऊडिदम्' इत्यादिना षष्ठ्या उदातत्वम् । अज।  ‘ अज गतिक्षेपणयोः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Resplendent and (swift) moving **Pūṣan**, bring from heaven the **Soma** juice, in combination with the variegated sacred grass, as (a man brings back) an animal that was lost.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Pūṣan, glowing one—the buttress of heaven [=Agni?] with his  glittering ritual grass—  
 drive him here like lost livestock.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like some lost animal, drive to us, bright Pusan, him who bears up heaven,  
      Resting on many-coloured grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pusan, du.....! Treib den Soma, der einen bunten Teppich hat, den Träger des Himmels, heim wie ein verlorenes Stück Vieh!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Trank, o Puschan, strahlender, der Götter labt, dess Streu erglänzt, Bring her wie ein verlornes Rind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Пушан, пылающий,  
 Пригони (сому,) обладателя пестрой соломы,  

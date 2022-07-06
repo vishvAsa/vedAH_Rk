@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो ने꣡दिष्ठम् अ꣡वसा꣡गमिष्ठः  
 स꣡रस्वती सि꣡न्धुभिः पि꣡न्वमाना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्निः꣡ सुशं꣡सः सुह꣡वः पिते꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प॒र्जन्यः॑ । नः॒ । ओष॑धीभिः । म॒यः॒ऽभुः । अ॒ग्निः । सु॒ऽशंसः॑ । सु॒ऽहवः॑ । पि॒ताऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -117,20 +117,20 @@ genre M
 अयम् **इन्द्रो** **नेदिष्ठम्** अन्तिकतमं यथा भवति तथा **अवसा** रक्षणेन सार्धम् **आगमिष्ठः** आगन्तृतमोऽस्तु । **सिन्धुभिः** स्यन्दनैरुदकैः **पिन्वमाना** वर्धमाना नदीरूपा **सरस्वती** चागन्तृतमा भवतु । **ओषधीभिः** सार्धं **पर्जन्यः** च **नः** अस्माकं **मयोभुः** सुखस्य भावयिता भवतु । **अग्निः** च **पितेव** पुत्रस्य जनक इव **सुशंसः** सुखेन शंसनीयः **सुहवः** सुखेनाह्वातव्यश्च भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra** be most prompt to come nigh for our protection, and **Sarasvatī** dwelling with (tributary) rivers; may **Parjanya**, with the plural nts, be a giver of happiness; and may **Agni**, worthily praised and earnestly invoked, (be to us) like a father.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra the most welcome arrival in the nearest nearness because of his  help; Sarasvatī swelling with the (other) rivers;  
 Parjanya—joy itself for us with his plants; Agni good to proclaim, good  to call on, like a father.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The part. pínvamānā is repeated from 4b, with a small twist of phraseology: Sarasvatī swelling with the rivers, rather than the rivers swelling as in 4b.
 
@@ -139,23 +139,23 @@ The syntactic status of the various gods in bcd is unclear. Are they all separat
 Or is this just the beginning of an All God list, with no predicates required -- or feeding into the next tṛca inviting the All Gods to come here?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most near, most oft comes Indra with protection, and she Sarasvati, who swells with rivers -  
      Parjanya, bringing health with herbs, and Agni, well lauded swift to listen, like a father.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra kommt am ehesten und am nächsten mit Hilfe und Sarasvati, die durch die Flüsse anschwillt. Parjanya sei uns durch die Pflanzen erlabend: Agni sei Gutes redend, leicht zu errufen wie ein Vater.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Recht nah herbei mit Hülfe eile Indra, Sarasvati, anschwellend durch die Ströme, Pardschanja, uns durch Kräuter Nahrung bringend, und Agni hold, erhörend wie ein Vater.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра, приходящий со (своей) помощью быстрее всех (и) ближе всех;  
 Сарасвати, набухающая вместе с реками;  

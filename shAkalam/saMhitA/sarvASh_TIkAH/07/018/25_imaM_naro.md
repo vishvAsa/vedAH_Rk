@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ नरो मरुतः सश्चता꣡नु  
 दि꣡वोदासं न꣡ पित꣡रं सुदा꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दूणा꣡शं क्षत्र꣡म् अज꣡रं दुवोयु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒वि॒ष्टन॑ । पै॒ज॒ऽव॒नस्य॑ । केत॑म् । दुः॒ऽनश॑म् । क्ष॒त्रम् । अ॒जर॑म् । दु॒वः॒ऽयु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -105,36 +105,36 @@ genre M
 हे **नरः** नेतारः **मरुतः** **इमं** सुदासं राजानं **सुदासः** राज्ञः **पितरं** **दिवोदासं** **न** दिवोदासमिव । दिवोदास इति पिजवनस्यैव नामान्तरम् । **अनु** **सश्चत** अनुसेवध्वम् । किंच **दुवोयु** परिचरणकामस्य ॥ षष्ठ्या लुक् ॥ **पैजवनस्य** पिजवनपुत्रस्य सुदासः **केतं** मन्त्रं गृहं वा **अविष्टन** रक्षत । अपि चास्य सुदासः **क्षत्रं** बलं **दूणाशं** दुर्नशमविनाशि **अजरम्** अशिथिलं चास्तु ॥ ॥ २८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, leaders (of rites), attend upon this (prince) as you did upon **Divodāsa**, the father of **Sudāsa**;favour the prayers of the devout son of Pijavana, and may his strength be unimpaired, undecaying\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You superior men, you Maruts, accompany this (man) here, like  Divodāsa, the father of Sudās.  
 Give aid to the aspiration of Paijavana—lordly power difficult to attain  and unaging—(as he) seeks (your) favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Attend on him O ye heroic Maruts as on Sudas's father Divodasa.  
      Further Paijavana's desire with favour. Guard faithfully his lasting firm dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Haltet zu ihm, ihr Herren Marut, wie zu Divodasa, des Sudas Vater! Unterstützet aus Hochachtung den Wunsch des Paijavana, eine unerreichte, unverwelkliche Herrschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O ihr Maruthelden geleitet diesen, wie den Divodasa, den Vater des Sudas, befördert des Paidschavana Absicht, seine unvertilgbare unvergängliche Herrschaft zum Lohne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За ним следуйте, о мужи Маруты,  
 Как за Диводасой, отцом Судаса!  

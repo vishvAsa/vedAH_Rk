@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद꣡द् य꣡त् पूर्वियं꣡ नष्ट꣡म्  
 उ꣡द् ईम् ऋतायु꣡म् ईरयत्  
 प्रे꣡म् आ꣡युस् तारीद् अ꣡तीर्णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 प्र । ई॒म् । आयुः॑ । ता॒री॒त् । अती॑र्णम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -93,37 +93,37 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **यत्** यदा **पूर्व्यं** पुराणं **नष्टं** स्वकीयं धनं **विदत्** लभते नष्टधनः **ईम्** एनम् **ऋतायुं** नष्टधनलाभार्थं यज्ञकामम् **उत्** **ईरयत्** प्रेरयति । धनं साधयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Soma**) urges him on when the sacrificer obtains (by offerings) him old lost wealth, he lengthen out hisunending life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He finds what was previously lost; he raises up the man who  
 follows truth.  
 He lengthens our (as yet) untraversed lifetime.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may he find what erst was lost, so may be speed the pious man,  
      And lengthen his remaining life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er finde das, was früher verloren ging, er hebe den Rechtwandelnden empor; er verlängere die noch nicht zurückgelegte Lebenszeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was verloren, schaff er wieder und erhöhe jeden Frommen, Dehne aus sein Leben endlos.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть найдет он, что раньше потеряно!  
 Пусть поможет выдвинуться тому, кто предан закону!  

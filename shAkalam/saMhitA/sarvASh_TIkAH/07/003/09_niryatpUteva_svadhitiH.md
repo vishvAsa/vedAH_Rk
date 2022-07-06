@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡र् य꣡त् पूते꣡व स्व꣡धितिः शु꣡चिर् गा꣡त्  
 स्व꣡या कृपा꣡ तनु꣡वा रो꣡चमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवय꣡ज्याय सुक्र꣡तुः पवाकः꣡+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । यः । मा॒त्रोः । उ॒शेन्यः॑ । जनि॑ष्ट । दे॒व॒ऽयज्या॑य । सु॒ऽक्रतुः॑ । पा॒व॒कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nir* ← *niḥ*
 - \[adverb\]
@@ -126,36 +126,36 @@ genre M
 **यत्** यदा **शुचिः** अग्निः **स्वया** स्वकीयया **तन्वा** ततया **कृपा** कृपया दीप्त्या **रोचमानः** **पूतेव** **स्वधितिः** तीक्ष्णीकृता स्वधितिरिव **निः** **गात्** काष्ठान्निर्गच्छति तदानीं **देवयज्याय** भवति । तदेव विशदयति । **यः** अग्निः **उशेन्यः** कमनीयः **सुक्रतुः** सुकर्मा **पावकः** शोधकश्च **मात्रोः** अरण्योः **आ** **जनिष्ट** आजायत स देवयज्याय भवतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the bright **Agni**, radiant with his own diffusive lustre, issues (from the touchwood) like asharpened axe; and he who is desirable, the doer of great deeds, the purifier, is born of his two parents; (heappears) for the worship of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, gleaming like a (heat-)purified axe, he has come out, glowing in  his own form, in his own body—  
 who, eagerly sought, has been born in his two mothers [=the friction  sticks], the pure one strongly resolved to sacrifice to the gods—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When forth he cometh, like an axe new-sharpened, pure in his form, resplendent in his body,  
      Sprung, sought with eager longing, from his Parents, for the Gods' worship, Sage and Purifier:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn er hell und blank wie eine Axt zum Vorschein kommt in eigener Schönheit am Leibe erstrahlend, der als Liebling seiner Eltern geboren ward, mit rechtem Verständnis für das Götteropfer, rein;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn leuchtend er wie eine blanke Axt geht, durch eigne Schönheit an sich selbst erstrahlend, Er, der erwünscht den Aeltern ward geboren, der flammende, zur Gottverehrung tüchtig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда он появляется, чистый, как сверкающий топор,  
 (Всем) своим телом сияя красотой,  

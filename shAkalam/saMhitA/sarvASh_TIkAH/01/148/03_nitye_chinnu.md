@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡त्ये चिन् नु꣡ यं꣡ स꣡दने जगृभ्रे꣡  
 प्र꣡शस्तिभिर् दधिरे꣡ यज्ञि꣡यासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡श्वासो न꣡ रथि꣡यो रारहाणाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 प्र । सु । न॒य॒न्त॒ । गृ॒भय॑न्तः । इ॒ष्टौ । अश्वा॑सः । न । र॒थ्यः॑ । र॒र॒हा॒णाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nitye* ← *nitya*
 - \[noun\], locative, singular, neuter
@@ -121,7 +121,7 @@ genre M
 रथशब्दात् मत्वर्थीय ईकारः ॥ **अश्वासो** **न** अश्वा इव । ते यथा धृत्वा रथस्वामिनम् अभिमतदेशं नयन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,35 +132,35 @@ genre M
 Holders convey him: praṇayanta: the allusion is to the solemn conveyance of fire from the **gārhapatya** or household, to the **āhavanīya**, or sacrificial fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom even now those worthy of the sacrifice have grasped in his very  own seat and installed with lauds,  
 him they lead forth, grasping him in their quest, hastening like  
 chariot-horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him in his constant seat men skilled in worship have taken and with praises have established.  
      As, harnessed to a chariot fleet-foot horses, at his command let bearers lead him forward.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Whom the worshipful (gods) 1 took and placed in his own seat (as priest) with their praises: him they 2 have carried forward, taking hold of him in their search, hastening like horses that draw a chariot.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den die Opferwürdigen nun eingefangen und mit Lobesworten an seinen rechtmäßigen Sitz gebracht haben; sie führten ihn fein zum Altar, ihn auf der Suche festnehmend, eilig wie die Wagenrosse.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Am eignen Sitze haben ihn ergriffen die andachtsvollen und mit Preis errichtet; Sie mögen nun ihn auf Geheiss erfassen und ihn wie schnelle Wagenrosse führen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кем овладели достойные жертв (боги)  
 (И) со славословиями поместили на подобающее (ему) сиденье,  

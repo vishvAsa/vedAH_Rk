@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्री꣡णि आ꣡यूंषि त꣡व जातवेदस्  
 तिस्र꣡ आजा꣡नीर् उष꣡सस् ते अग्ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था भव य꣡जमानाय शं꣡ योः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ताभिः॑ । दे॒वाना॑म् । अवः॑ । य॒क्षि॒ । वि॒द्वान् । अथ॑ । भ॒व॒ । यज॑मानाय । शम् । योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trīṇy* ← *trīṇi* ← *tri*
 - \[noun\], nominative, plural, neuter
@@ -125,7 +125,7 @@ genre M
 हे **जातवेदः** जातप्रज्ञ **तव** **त्रीण्यायूंषि** त्रिविधानि आज्यौषधिसोमात्मकान्यन्नान्याहारतया कल्पितानि हे **अग्ने** **तिस्रः** **उषसः** एकाहाहीनसत्रगता उषसः उषोऽभिमानिन्यस्तिस्रो देवताः **ते** तव **आजानीः** जनयित्र्यो मातरः । यद्वा उषोऽभिमानिन्यो देवतास्तवाजानीस्त्वामनुजातास्तिस्रः स्वसारः । तथा च स्वसॄः प्रकृत्य मन्त्रः----’ प्रजामेका रक्षत्यूर्जमेका राष्ट्रमेका रक्षति' इति । **ताभिः** उषोऽभिमानिनीभिर्देवताभिः सहितस्त्वम् **अवः** अस्माभिर्दीयमानं हविर्लक्षणमन्नं **देवानां** **यक्षि** यष्टव्यदेवानां प्रयच्छ । **अथ** अनन्तरं **विद्वान्** जानंस्त्वं **यजमानाय** **शं** **भव** सुखहेतुर्भव । **योः** च सुखस्य मिश्रयिता च भव ॥ तव । युष्मदस्मदोर्ङसि' इत्याद्युदात्तः । तिस्रः । त्रिशब्दस्य स्त्र्यर्थे ' त्रिचतुरोः स्त्रियाम् ' इति तिसृ इत्यादेशः । अचि र ऋतः' इति रेफादेशः । ‘ तिसृभ्यो जसः' इति विभक्तेरुदात्तत्वम् । आजानीः । ‘ जन जनने' । जनिघसिभ्यामिण् ' इति कर्तरि इण् । णित्त्वादुपधावृद्धिः । ‘ वा छन्दसि ' इति सवर्णदीर्घः । कृदुत्तरपदप्रकृतिस्वर:। अवः । ‘ अव रक्षणे ' । ' असुन्' इत्यसुन् । नित्स्वरः । यक्षि । यजेर्दानार्थस्य लेटि रूपम् । यजमानाय । ‘ पूङ्यजोः शानन्' ( पा. सू. ३. २. १२८ ) इति यजेः शानन् । नित्स्वरः । योः । यु मिश्रणे ' इत्यस्मात् “ अन्येभ्योऽपि दृश्यन्ते ' इति विच् । आर्धधातुकलक्षणो गुणः । कृदुत्तरपदप्रकृतिस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ genre M
 Three existences: trīṇyāyuṃsi, three lives, as supported by butter, by fuel and the **Soma**; parent dawns: **tisra** agnīruṣasaḥ: ājānī may mean sisters, or mothers; the dawns person nified as the parents or sisters of Agni, as prior or subsequent to the lighting of the sacrificial fire in the early morning; 'three' may relate to three diurnal fires; as sisters, separate offices are assigned to them: prajām ekā rakṣaty ūrjam ekā, rāṣṭram ekā rakṣati, one preserves the people, one vigour, one the kingdom
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three lifetimes are yours, Jātavedas, and three dawns are your births,  o Agni.  
 By these (births) win the help of the gods by sacrifice as the knowing  one, and then become luck and life for the sacrificer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three are thy times of life, O Jatavedas, and the three mornings are thy births, O Agni.  
      With these, well-knowing, grant the Gods' kind favour, and help in stir aiid stress the man who worships.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou hast three lives, O Gâtavedas, and three births from the Dawn 1, O Agni! Being wise, sacrifice with these to the favour of the gods, and bring luck and welfare to the sacrificer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Drei Leben hast du, Jatavedas, drei Usas sind deine Mütter, Agni. Mit diesen erbitte kundig der Götter Gunst und sei dem Opfernden zu Heil und Segen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei Lebensalter hast du, Wesenkenner, und drei Geburten aus der Morgenröthe; Mit denen schaff uns kundig Gunst der Götter, und Agni, sei zu Heil und Glück dem Opfrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Три срока жизни у тебя, о Джатаведас.  
 Три утренние зари – родительницы твои, о Агни.  

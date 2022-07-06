@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प छाया꣡म् इव घृ꣡णेर्  
 अ꣡गन्म श꣡र्म ते वय꣡म्  
 अ꣡ग्ने हि꣡रण्यसंदृशः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । हिर॑ण्यऽसन्दृशः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -87,37 +87,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **हिरण्यसंदृशः** हितरमणीयतेजसो हिरण्यवद्रोचमानतेजसो वा **घृणेः** दीप्तस्य **ते** तव **शर्म** शरणमाश्रयणम् **उप** **अगन्म** उपगच्छाम । तत्र दृष्टान्तः । **छायामिव** । यथा घर्मार्ताः संतप्ताश्छायामुपगच्छन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We have recourse, **Agni**, to the shelter of you, the lustrous, the golden-feathered, as to the shade (of a tree).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward your shelter we have come, as if into shadow from the  
 (sun’s) heat,  
 o Agni of golden appearance—794 VI.17
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee for shelter are we come, as to the shade from fervent heat  
      Agni, who glitterest like gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie aus der Sonneglut in den Schatten, so haben wir uns in deinen Schutz begeben, o Agni, der du wie Gold anzuschauen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir kamen, wie vor Sonnenglut in Schatten, unter deinen Schirm, O Agni, der wie Gold du strahlst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как в тень от солнечного зноя,  
 Пришли мы под твою защиту,  

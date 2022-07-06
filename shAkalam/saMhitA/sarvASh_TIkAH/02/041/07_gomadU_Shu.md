@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गो꣡मद् ऊ षु꣡ नासतिया  
 अ꣡श्वावद् यातम् अश्विना  
 वर्ती꣡ रुद्रा नृपा꣡यियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 व॒र्तिः । रु॒द्रा॒ । नृ॒ऽपाय्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gomad* ← *gomat*
 - \[noun\], accusative, singular, neuter
@@ -79,7 +79,7 @@ genre M
 अश्विनाहेअश्विनौ हेनासत्या अनृतभाषाणरहितौ हेरुद्रा रोरूयमाणौ द्रवन्तौयुवांवर्तिर्मार्गः तेनमार्गेणरथेनवा न्रुपाय्यन्नृभिःनेतृभिर्देवैः पातव्यं सोमङ्गोमत् गोमद्यथाभवति तथा अश्ववत् अश्ववच्चयथाभवति तथा यातङ्गच्छतं ऊष्वितिपूरणौ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,28 +90,28 @@ genre M
 **Yajus**. repeats this and the following two hymns: 20.80-83
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Nāsatyas, Aśvins, drive (your circuit) bringing cows, bringing horses, your circuit protective of men, o Rudras,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With kine, Nasatyas, and with steeds, come, Asvins, Rudras, to the house  
      That will protect its heroes well;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Nasatya Asvin! Fahret fein eure Rinder und Rosse bringende, männerschützende Umfahrt, ihr Rudra´s,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Ross- und Rindergabe kommt, o treue Ritter, glänzende, Zur Stätte, die die Männer schützt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О двое Насатьев, отправляйтесь же  
 В объезд, дающий коров, дающий конец, о Ашвины,  

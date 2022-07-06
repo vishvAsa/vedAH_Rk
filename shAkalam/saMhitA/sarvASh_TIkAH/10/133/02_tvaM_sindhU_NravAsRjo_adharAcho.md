@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सि꣡न्धूँर् अ꣡वासृजो  
 अधरा꣡चो अ꣡हन्न् अ꣡हिम्  
@@ -17,7 +17,7 @@ ChandaH = "शक्वरी"
 जियाका꣡ अ꣡धि ध꣡न्वसु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -38,7 +38,7 @@ genre M;; repeated line
 अ॒श॒त्रुः । इ॒न्द्र॒ । ज॒ज्ञि॒षे॒ । विश्व॑म् । पु॒ष्य॒सि॒ । वार्य॑म् । तम् । त्वा॒ । परि॑ । स्व॒जा॒म॒हे॒ । नभ॑न्ताम् । अ॒न्य॒केषा॑म् । ज्या॒काः । अधि॑ । धन्व॑ऽसु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -139,36 +139,36 @@ genre M;; repeated line
 हे **इन्द्र** **त्वं** **सिन्धून** स्यन्दनशीलान् जलपूरान् **अधराचः** अधरमधोमुखमञ्चतो गन्तॄन् **अवासृजः** मेघान्निरगमयः । यतस्त्वम् **अहिम्** अन्तरिक्षे गतं मेघम् **अहन्** हतवानसि । यद्वा । अहिमागत्य हन्तारं सर्वस्य जगत आवरकं वृत्रमसुरमहन् हतवानसि । अतो हे **इन्द्र** त्वम् **अशत्रुः** शत्रुरहितः **जज्ञिषे** जायसे । न सन्ति शत्रवोऽस्येति बहुव्रीहौ  ‘ नञ्सुभ्याम् ' इत्युत्तरपदान्तोदात्तत्वम् । जनेर्लिटि  ‘ गमहन इत्यादिनोपधालोपः। द्विर्वचनेऽचि' इति स्थानिवद्भावात् द्विर्वचनम् । तथा **विश्व** सर्वं **वार्यं** वरणीयं संभजनीयं धनं **पुष्यसि** वर्धयसि । वृङ् संभक्तौ । ऋहलोर्ण्यत् ।  ‘ ईडवन्दवृशंसदुहां ण्यतः' इत्याद्युदात्तत्वम् । **तं** तादृशं **त्वा** त्वां **परि** **ष्वजामहे** हविर्भिः स्तुतिभिश्चालिङ्गनं कुर्मः । वशीकुर्म इत्यर्थः।  ‘ ष्वन्ज परिष्वङ्गे'। दंशसञ्जष्वञ्जां शपि' (पा. सू. ६. ४, २५ ) इत्यनुनासिकलोपः । गतमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have sent the rivers away downwards, you have slain Ahi; you are born, **Indra**, without an enemy,you grant all that is desirable, as such we embrace you; may the bowstrings on the bows of our enemies bedestroyed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You sent the rivers surging downward; you smashed the serpent. You were born without a rival, Indra; you foster everything of value. We  embrace you.  
 – Let the little bowstrings of the other squirts burst on their bows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou didst destroy the Dragon: thou sentest the rivers down to earth.  
      Foeless, O Indra, wast thou born. Thou tendest well each choicest thing. Therefore we draw us close to thee. Let the weak bowstrings break upon the bows of feeble enemies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du ließest die Flüsse abwärts laufen; du erschlugst den Drachen. Ohne ebenbürtigen Gegner bist du, Indra, geboren. Alles Wünschenswerte hast du in Fülle; dich umklammern wir. - Die Sehnchen der anderen Schwächlinge sollen an dem Bogen entzwei gehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Ströme gossest du herab zur Erde, schlugst den Drachen todt, Du, Indra, bist's, dem keiner trotzt; du erntest reichlich alles Gut, Drum halten wir uns fest an dich; zerreissen soll den anderen Die Sehne, die den Bogen spannt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты выпустил течь реки  
 Вниз. Ты убил змея.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्तावि अग्नि꣡र् नरां᳐꣡ सुशे꣡वो  
 वैश्वानर꣡ ऋ꣡षिभिः सो꣡मगोपाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दे꣡वा धत्त꣡ रयि꣡म् अस्मे꣡ सुवी꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒द्वे॒षे इति॑ । द्यावा॑पृथि॒वी इति॑ । हु॒वे॒म॒ । देवाः॑ । ध॒त्त । र॒यिम् । अ॒स्मे इति॑ । सु॒ऽवीर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *astāvy* ← *astāvi* ← *stu*
 - \[verb\], singular, Aorist passive
@@ -121,36 +121,36 @@ genre M;; repeated line
 **अद्वेषे** **द्यावापृथिवी** द्यावापृथिव्यौ **हुवेम** वयं ह्वयेम । किंच हे **देवाः** यूयं **सुवीर** शोभनपुत्राद्युपेतं रयिं धनम् **अस्मे** अस्मासु **धत्त** धारयत ॥ ॥ २९ ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who are very dear to men, **Vaiśvānara**, the guardian of the **Soma**, has been glorified by the”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni has been praised by the seers—Vaiśvānara, well-disposed to men,  having Soma as his herdsman.  
 We would invoke Heaven and Earth, the two without hatred. O gods,  establish wealth rich in heroes for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the Friend of men, the Soma's keeper, Vaisvanara, hath been lauded by the Rsis.  
      We will invoke benignant Earth and Heaven: ye Deities, give us wealth with hero children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni ist jetzt von den Rishi´s besungen worden, der den Menschen freundliche Vaisvanara, der Somahüter. Himmel und Erde, die ohne Feindschaft sind, wollen wir rufen. Ihr Götter, gebet uns einen Schatz von Meistern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gerühmt von Sängern ist der Freund der Menschen, der Männerhort, der Somahüter Agni, Wir rufen nun die holden Erd' und Himmel, ihr Götter schafft uns heldenreiche Güter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни прославлен певцами, очень милый людям  
 Вайшванара, хранитель сомы.  

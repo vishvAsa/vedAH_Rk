@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवो य꣡न् नरः काम꣡याध्वे  
 श्रुष्टी꣡ व꣡हन्तो नशथा त꣡द् इ꣡न्द्रे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्राय सो꣡मं यज्यवो जुहोत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 गभ॑स्तिऽपूतम् । भ॒र॒त॒ । श्रु॒ताय॑ । इन्द्रा॑य । सोम॑म् । य॒ज्य॒वः॒ । जु॒हो॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -114,36 +114,36 @@ genre M
 नरः कर्मणान्नेतारः हेअध्वर्यवः यदभिलषितमर्थङ्कामयाध्वे कामयतेर्लेट्यडागमः श्रुष्टी क्षिप्रं इन्द्रे- सोमवहन्तः प्रापन्तोयूयन्तदभषितम्फलन्नशथप्राप्नुत श्रुतायलोकेप्रसिद्धायेन्द्रायगभस्तिपूतंहस्ताभ्यां-मार्जनदोहनादिभिःशोधितंसोमम्भरत उत्तरवेदिम्प्रतिहरत ततोयज्यवः यागङ्कुर्वाणाहेअध्वर्यवः आहृ- तंसोममिन्द्रायजुहोतजुहुत अग्नौप्रक्षिपत । ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Priests, leaders (of the ceremony), may you, quickly bringing the offering to **Indra**, receive that (recompense) which you may desire; solemnizing the sacrifice, offer the **Soma**, purified by expressing, to the renowned Indra.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus! What you will desire, o men, you will attain that with Indra,  by bearing (offerings) in obedience.  
 Bring what is purified by your hand to the one who is famed. To Indra  offer soma, o you eager to sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ministers, men, whatever thing ye long for obtain ye quickly bringing gifts to Indra.  
      Bring to the Glorious One what bands have cleansed; to Indra bring, ye pious ones, the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Was ihr Herren auch wünschen möget, das erlangt ihr von Indra, wenn ihr gehorsam das Opfer darbringt. Traget dem Berühmten den mit den Händen geläuterten Soma auf, opfert dem Indra Soma, ihr Opferwilligen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Priester, was, o Männer ihr begehret, Gehör euch schaffend, findet ihr bei Indra; Ihm bringt den Trank, den eure Hand gekeltert, ergiesst, ihr Opfrer, Soma dem berühmten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью! (Все) чего вы захотели бы, о мужи,  
 Вы получите это у Индры, с послушанием отвозя (ему жертву).  

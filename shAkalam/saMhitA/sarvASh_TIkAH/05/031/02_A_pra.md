@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ प्र꣡ द्रव हरिवो मा꣡ वि꣡ वेनः  
 पि꣡शङ्गराते अभि꣡ नः सचस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अमेनां꣡श् चिज् ज꣡निवतश् चकर्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 न॒हि । त्वत् । इ॒न्द्र॒ । वस्यः॑ । अ॒न्यत् । अस्ति॑ । अ॒मे॒नान् । चि॒त् । जनि॑ऽवतः । च॒क॒र्थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -137,7 +137,7 @@ genre M
 हे **हरिवः** हरिवन्निन्द्र त्वम् **आ** अस्मानभिमुखं **प्र** **द्रव** प्रकर्षेण गच्छ। किंतु **मा** **वि** **वेनः** । वेनतिः कान्तिकर्मा । अस्मासु विगतकामो मा भूः । किंच हे **पिशङ्गराते** बहुरूपधनेन्द्र **नः** अस्मान् **अभि** **सचस्व** अभिसेवस्व । अपि च हे **इन्द्र** **वस्यः** वसीयः श्रेयस्करं **त्वत्** त्वत्तः **अन्यत्** **नहि** **अस्ति** अन्यद्वस्तुजातं नास्ति । **अमेनांश्चित्** । मेनाशब्दः स्त्रीवाची । अपगतस्त्रीकांश्चित् **जनिवतः** जायावतः **चकर्थ** करोषि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,13 +150,13 @@ You have given wives: amenām ścijjanivatas' cakartha: **menā** = **strī**, w
 **Jani** = wife; apagatastrīkāṃśca jāyāvataḥ karoṣi, you make sundry person ns, from whom women are separated, possessed wives
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Run hither, you of the fallow bays; do not lose the track. You of tawny  [=golden] gifts, accompany us,  
 for there exists nothing better than you, Indra: you have provided even  those lacking the brideprice with wives.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich redeploys vocab. from the 1st vs.: 1) The two members of the NP útsān … badbadhānā́n in pāda a were both found in 1ab, but not in the same constituent. 2) áraṃhaḥ ‘you sent speeding’ in b rhymes with aramṇāḥ in 1b and is its antonym. This antonymic pairing might support the suggestion floated just above, that áramṇāḥ is meant to evoke its semantic opposite.
 
@@ -181,23 +181,23 @@ In c ékaḥ … apratíḥ “alone (and) unopposable” applies to (the unname
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Haste to us, Lord of Bays; be not ungracious: visit us, lover of gold-hued oblation.  
      There is naught else better than thou art, Indra: e'en to the wifeless hast thou given spouses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm eilig her, du Falbenlenker, wende dich nicht ab, halte zu uns, du Schenker von Gold! Denn nicht gibt es ein anderes Heil außer dir, Indra. Auch die Unbeweibten hast du beweibt gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lauf vor mit deinen Füchsen, nicht verschmäh es, sei uns gewogen, der du goldnes schenkest; Denn, Indra, nichts ist herrlicher als du bist, den unvermählten schaffest du die Gattin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Спеши сюда, о обладатель буланых коней! Не оборачивайся!  
 Нас держись, о даритель золота!  

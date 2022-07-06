@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युव꣡म् प꣡य उस्रि꣡यायाम् अधत्तम्  
 पक्व꣡म् आमा꣡याम् अ꣡व पू꣡र्वियं गोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ह्वारो꣡ न꣡ शु꣡चिर् य꣡जते हवि꣡ष्मान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒न्तः । यत् । व॒निनः॑ । वा॒म् । ऋ॒त॒प्सू॒ इत्यृ॑तऽप्सू । ह्वा॒रः । न । शुचिः॑ । यज॑ते । ह॒विष्मा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -120,14 +120,14 @@ genre M
 "यत् यस्मात् हे **ऋतप्सू** सत्यस्वरूपौ यज्ञियहविर्भक्षयितारौ वा हे अश्विनौ **वां** **वनिनः** उदकवतः उद्कोपलक्षितहविष्मतो यज्ञस्य **अन्तः** मध्ये **हविष्मान्** प्रदेयहविषा तद्वान् **शुचिः** शुद्धो यजमानः **यजते** पूजयति युवां तस्मादेवमकुरुतम् । यद्वा । यदैवं यजमानः करोति तदेत्यर्थः । तत्र दृष्टान्तः । वनिनः वनसंबन्धिवृक्षसमूहस्य अन्तः मध्ये **ह्वारो** **न** चोर इव । स यथा जागरूको वर्तते तथा यजमानोऽपीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Youhave restored milk to the cow; you have (brought) down the prior mature (secretion) into the unripe (or barren udder) of the cow; the devout offerer of the oblation worships you, whose forms are truth, (as vigilant in the midst of the ceremony), as a thief (in the midst) of a thicket.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You set milk in the ruddy (cow)—the cooked in the raw—(set) down the  cow’s primordial (substance),  
 which (milk) is (now) going within the wooden (cups) for you, as a  
@@ -135,7 +135,7 @@ blazing twisting (snake [=fire]) goes among the trees, o you whose
 breath is truth. The one with the oblation is performing sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The construction of this vs. is, if anything, even more challenging than the previous one, at least in its second half. As noted in the published introduction, the first half concerns the favorite paradox of the “cooked” milk coming from the raw cow. My only deviation from the standard tr. is to take account of the odd position of áva in b, which I take to signal a transition from a general statement about the paradoxical nature of milk to a particular statement about the ritual situation. I re-supply adhattam with áva, but here it refers to the deposit of the ritual milk down on the ritual ground.
 
@@ -145,23 +145,23 @@ The problems lie in the 2nd hemistich, and the knottiest one is posed by the app
 haplologized monosyllable here fixes the meter, making a 10-syllable line into a proper Triṣṭubh, with an opening of 5 and a fine break and cadence. Hence, the milk “which (yád) is going (*yát) within (antár) the wooden cups (vanínaḥ).” With milk as a nominative subject, the nominative simile is grammatically impeccable, without (in the mode of Thieme [/Witzel Gotō]) having to apply it to the havíṣmān, which does not work well. I believe that the “blazing twisting” entity is an image of a snake, but refers to the snaking flames of fire, going into the woods. Thus vanínaḥ is read with both frame and simile. In the published translation “is (now) going” should be marked with an asterisk.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye have deposited, matured within her, in the raw cow the first milk of the milch-cow,  
      Which the bright offerer, shining like a serpent mid trees, presents to you whose form is perfect.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr legtet die Milch in die Kuh, die gekochte in die rohe, den uralten Schatz der Kuh, die euch, ihr Verkörperer der Wahrheit, im Holzgefäß rein wie der Sonnenvogel, der Opferspender darbringt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr habt die erste Milch der Kuh als gare hineingesetzt in diese rohe Milchkuh; Die Milch, die Agni euch, als bunte Schlange, durch Tränke weiht, o schöner, bei den Spendern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы вложили молоко в корову,  
 Вареное – в сырую, древнее (богатство) коровы,  

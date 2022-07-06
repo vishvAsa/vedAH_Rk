@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ ना꣡के म꣡धुजिह्वा असश्च꣡तो  
 वेना꣡ दुहन्ति उक्ष꣡णं गिरिष्ठा᳐꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सि꣡न्धोर् ऊर्मा꣡ म꣡धुमन्तम् पवि꣡त्र आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒प्ऽसु । द्र॒प्सम् । व॒वृ॒धा॒नम् । स॒मु॒द्रे । आ । सिन्धोः॑ । ऊ॒र्मा । मधु॑ऽमन्तम् । प॒वित्रे॑ । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -117,7 +117,7 @@ genre M
 **दिवः** द्योतमानस्य यज्ञस्य संबन्धिनि **नाके** दुःखरहिते हविर्धानाख्ये स्थाने **मधुजिह्वाः** मधुरवाचः **असश्चतः** असंसक्ता । पृथक्पृथगित्यर्थः । यद्वा चिरमकृत्वा शीघ्रमभिषुण्वन्तः **वेनाः** एतन्नामका महर्षयः **दुहन्ति** अभिषुण्वन्ति । यद्वा द्युलोक एव वेनाः कान्ता देवा दुहन्ति । तं सोमम् **उक्षणं** सेक्तारं **गिरिष्ठां** गिरावुन्नते देशे वर्तमानम् **अप्सु** उदकेषु वसतीवरीष्वन्तः **ववृधानं** वर्धमानं **द्रप्सं** रसरूपं **समुद्रे** समुद्रवत् प्रवृद्धे द्रोणकलशे **सिन्धोः** उदकस्य **ऊर्मा** ऊर्मौ पूरे **आ** सिञ्चन्तीति शेषः । तदर्थं **मधुमन्तं** माधुर्योपेतं रसं **पवित्रे** दशापवित्रे **आ** सिञ्चन्तीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,13 +130,13 @@ In the heaven: nāke = free from pain, the plural ce called **havirdhāna**;
 **Divaḥ** = dyotamānasya yajñasya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the vault of heaven the seekers milk honey-tongued, inexhaustible  (streams) from the mountain-dwelling ox,  
 the droplet growing strong in the waters, in the sea, the honeyed one in  the wave of the river, in the filter.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The cosmic/natural and the earthly/ritual double vision is played out simultaneously throughout this vs. In ab the seekers milk the streams “in the vault of heaven” (divó nā́ke) but milk them out of “the mountain-dwelling ox” (ukṣáṇaṃ giristhā́m), the earthly soma plant. In c the drop grows strong not only “in the waters” (apsú), presumably the ritual waters used to swell the plant, but also “in the sea” (samudrá ā́); in d it is both “in the wave of the river” (síndhor ūrmā́) and “in the filter” (pavítra ā́).
 
@@ -162,23 +162,23 @@ The two tr. of vená- in 10b ‘seekers’ and 11b ‘trackers’ respectively s
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 High in the vault of heaven, unceasing, honey-tongued, the Loving Ones drain out the mountain-haunting Steer,-  
      The drop that hath grown great in waters, in the lake meath-rich, in the stream's wave and in the cleansing sieve.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf des Himmels Firmament melken die honigzungigen Seher unversiegliche Ströme aus dem bergbewohnenden Stiere, den im Wasser groß gewordenen Tropfen, im Meere, in des Stromes Welle, den süßen auf die Seihe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Stier der Berge melken lieblich redende verlangend rastlos an des Himmels Wölbung aus, Den Tropfen, der in Wassern schwillt, zum Meere hin den honigsüssen in der Woge hin zum Sieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На своде неба (они доят) сладкоязычные, неиссякающие (струи),  
 Прозорливцы выдаивают из быка, пребывающего на горе,  

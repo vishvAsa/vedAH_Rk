@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इन्द्र म꣡दम् आ꣡ गहि  
 बर्हिष्ठां꣡ ग्रा꣡वभिः सुत꣡म्  
 कुवि꣡न् नु꣡ अस्य तृप्ण꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 कु॒वित् । नु । अ॒स्य॒ । तृ॒प्णवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -96,36 +96,36 @@ genre M
 सकारस्य ‘ आदेशप्रत्यययोः' इति षत्वम् । ष्टुत्वम् । कृदुत्तरपदस्वरः । तृप्णवः । ‘ तृप प्रीणने । इत्यस्य लेट्यडागमः । कुविद्योगादनिघातः । क्षुभ्नादिषु ‘नृनमन तृप्नोति' इति पठितम् । तथापि सर्वविधीनां छन्दसि विकल्पितत्वादत्र णत्वप्रतिषेधो न भवति । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Indra**, to the exhilarating (**Soma**) expressed by the stones, poured upon the sacred grass; drink of it to satiety, for there is plural nty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come, Indra, to the exhilarating drink, stationed on the ritual grass,  pressed by stones.  
 Will you now indeed sate yourself on it?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Indra, to this gladdening drink, placed on the grass, pressed out with stones:  
      Wilt thou not drink thy fill thereof?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, Indra, zu diesem Rauschtrank, der auf dem Barhis steht mit den Steinen ausgepreßt! Gewiß wirst du dich daran erlaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Rauschtrank komm, o Indra! her, dem steingepressten auf der Streu, Wirst du an ihm dich nun erfreun?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай, о Индра, на этот пьянящий напиток,  
 Стоящий на жертвенной соломе, выжатый давильными камнями!  

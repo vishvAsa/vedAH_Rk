@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ हुवे य꣡योर् इद꣡म्  
 पप्ने꣡ वि꣡श्वम् पुरा꣡ कृत꣡म्  
 इन्द्रअग्नी꣡ न꣡ मर्धतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इ॒न्द्रा॒ग्नी इति॑ । न । म॒र्ध॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -99,20 +99,20 @@ genre M
 **ता** तौ तादृशाविन्द्राग्नी **हुवे** आह्वये । **ययोः** इन्द्राग्न्योः **पुरा** पूर्वस्मिन् काले **कृतं** **विश्वं** सर्वम् **इदं** पूर्वासु ऋक्षु कीर्तितं वीर्यं **पप्ने** पन्यते ऋषिभिः स्तूयते । ताविन्द्राग्नी हुवे इत्यन्वयः । तौ च **इन्द्राग्नी** **न** **मर्धतः** स्तोतॄन्न हिंस्तः । अतोऽस्मानप्याहूतौ रक्षतामिति भावः । मर्धतिर्हिंसाकर्मा ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke those two, the whole of whose deeds of old have been celebrated; **Indra** and **Agni** harm us not.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call upon these two whose every previous deed is admired.  
 Indra and Agni do not neglect (us).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not have a view on how (or whether) to fix the meter of pāda a; see Oldenberg
 
@@ -128,23 +128,23 @@ Note the phonological (and partly etymological) figure mardh(ataḥ) (4c), mṛ�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call the Twain whose deeds of old have all been famed in ancient days  
      O Indra-Agni, harm us not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden rufe ich, von denen alles das, was sie vormals taten, Anerkennung findet. Indra und Agni lassen nicht im Stich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ruf' ich, deren ganze Welt, die sie geschaffen, herrlich ist, Nie werden Indra-Agni matt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я призываю тех двоих, у кого все  
 Это, сделанное (ими) раньше, вызывает (наше) восхищение.  

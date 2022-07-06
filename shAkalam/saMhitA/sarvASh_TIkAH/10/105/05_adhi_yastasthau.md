@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धि य꣡स् तस्थउ꣡ के꣡शवन्ता  
 व्य꣡चस्वन्ता न꣡ पुष्टियइ꣡  
 वनो꣡ति शि꣡प्राभ्यां शिप्रि꣡णीवान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 व॒नोति॑ । शिप्रा॑भ्याम् । शि॒प्रिणी॑ऽवान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhi*
 - \[adverb\]
@@ -80,36 +80,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **यः** इन्द्रः **केशवन्ता** केशिनौ **व्यचस्वन्ता** व्यचनवन्तौ व्याप्तिमन्तौ । **न** इत्यनर्थको निपातः । ईदृशावश्वौ **पुष्ट्यै** पोषणाय यजमानस्यात्मनो वा **अधि** **तस्थौ** अधितिष्ठति आरोहति । ‘ अधिशीङ्स्थासां कर्म' (पा. सू. १. ३. ४६ ) इति कर्मणोऽधिकरणसंज्ञा । यद्वा नेति चार्थे । तेन गुणौ समुच्चीयेते । प्रशस्तकेशौ व्यचस्वन्तौ चेत्यर्थः । स **शिप्राभ्यां** हनूभ्यां शिप्रिणीवान् शिप्रवानिन्द्रः । एको मत्वर्थीयोऽनुवादः । **वनोति** सोमान् याचते । ‘ वनु याचने '। यद्वा। वनुष्यतिर्हन्तिकर्मा । शत्रून् हिनस्ति’ ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who has mounted the two long-maned and all pervading steeds for the nourishment (of thesacrificer) asks (for the **Soma**) with his two jaws, possessing mighty jaws.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who has mounted on the maned pair, as if on the two of broad  expanse [=Heaven and Earth?], to prosper,  
 the fair-lipped one wins (the soma?) with his pair of lips.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Borne onward by the long-maned Steeds who stretch themselves as 'twere for food,  
      The God who wears the helm defends them with his jaws.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die bemähnten Falben besteigt, die für die Nahrung gleichsam Platz haben, der Lippenspitzer verlangt mit geöffneten Lippen nach Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, welcher die beiden mähnigen Rosse bestieg, die sich gleichsam ausdehnten, um die Nahrung aufzunehmen, zieht [die Nahrung] an sich mit den beiden Lippen, er, der schlürfende Lippen hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто сел на двух (коней) с (пышной) гривой,  
 Словно потянувшихся за кормом,  

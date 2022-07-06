@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ हि꣡ ते अ꣡मर्तिय  
 इ꣡न्दुर् अ꣡त्यो न꣡ प꣡त्यते  
 द꣡क्षो विश्वा꣡युर् वेध꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दक्षः॑ । वि॒श्वऽआ॑युः । वे॒धसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -89,35 +89,35 @@ genre M
 अयं हि ते अमर्त्य इन्दुरत्यो न पत्य॑ते । दक्षौ विश्वायुर्वेधसे ॥ १ ॥ अयम् । हि । ते । अमर्त्यः । इन्दुः । अत्यः । न । पत्यते । दक्षः । विश्वऽआयुः । वेधसे ॥१॥  हे इन्द्र **वेधसे** विधात्रे **ते** तुभ्यं त्वदर्थम् **अमर्त्यः** मरणरहितोऽमृतत्वप्रापकः **अयं** **हि** अयं खलु **इन्दुः** सोमः **अत्यो** **न** सततगाम्यश्व इव **पत्यते** गच्छति । यद्वा । पत्यतिरैश्वर्यकर्मा । तव स्वभूतोऽयं सोमः **वेधसे** विधानाय सदस्य करणायेष्टे । कीदृश इन्दुः। **दक्षः** प्रवृद्धो बलहेतुर्वा **विश्वायुः** विश्वैः सर्वैरेतव्यः प्राप्तव्यः । यद्वा । विश्वेषामायुर्जीवनहेतुः । अथवा। आयुरित्यन्ननाम । सर्वैश्चरुपुरोडाशादिभिर न्नैर्हविर्भिरुपेतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This immortal **Soma**, the giver of strength, the giver of long life to all, hastens like a swift horse to you(**Indra**), the creator.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because this deathless drop here, like a courser, displays his mastery as lifelong skill for you, the ritual adept,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS deathless Indu, like a steed, strong and of full vitality,  
      Belongs to thee, the Orderer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser unsterbliche Saft gehört ja dir wie ein Rennpferd, der wirksame lebenslänglich dir, dem Meister.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir gehört ja zu eigen dieser unsterbliche [oder ist amartia zu lesen?] Indu, wie ein Renner, der kräftige, allerquickende dir, dem Ordner [der Welt].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь этот бессмертный сок (сомы)  
 Принадлежит тебе, как скаковой конь,  

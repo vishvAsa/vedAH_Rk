@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रं क्ष꣡याय नो महे꣡  
 वि꣡श्वा रूपा꣡णि आविश꣡न्  
 इ꣡न्द्रं जइ꣡त्राय हर्षया श꣡चीप꣡तिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 इन्द्र॑म् । जैत्रा॑य । ह॒र्ष॒य॒ । शची॒३॒॑ऽपति॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *araṃ* ← *aram*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M
 हे स्तोतः **महे** महते **नः** अस्माकं **क्षयाय** । गृहनामैतत् । गृहाय । तादर्थ्ये चतुर्थी । गृहार्थम् **अरम्** अलं पर्याप्तं **विश्वा** विश्वानि व्याप्तानि **रूपाणि** इन्द्रगतानि गुणजातानि **आविशन्** स्तुत्या व्याप्नुवन् **शचीपतिम्** । शचीति कर्मनाम । कर्मणां पालकम् । यद्वा । शच्या इन्द्राण्या भर्तारम् । तमेव **इन्द्रं** **जैत्राय** जेतव्यधनार्थं **हर्षय** तोषय । स्तुत्या परिचरणेन वेति शेषः ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,12 +99,12 @@ genre M
 All the forms: i.e. the various attributes celebrated in ourpraises
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fit (to be) a great dwelling for us, entering into all forms, (o Soma,) excite Indra, the lord of power, to victory.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of the addressee in this verse is not overt. As Geldner points out, Sāyaṇa suggests that the singer is addressing himself, though pādas ab make difficulties for that interpretation. Oldenberg argues for Soma, which seems likely even though, unusually for an Indra hymn, soma has not previously figured in this hymn. However, all three pādas have parallels in the soma maṇḍala: for pāda a see IX.109.3c mahé kṣáyāya; pāda b is repeated in IX.25.4a modifying soma; and IX.111.3e is identical to the first three words in pāda c, save for the grammatical identity of the verb form (3rd pl. injunctive in IX.111.3, 2nd sg. imperative here). That Soma is the addressee here and so the subject of the impv. harṣayā is also supported by vs. 4 in the next hymn (VIII.16), where the exhilarating drinks (of soma) are called harṣumánt-.
 
@@ -113,23 +113,23 @@ Again, as in vs. 9, Geldner waters down the meaning of kṣáya- to fit the cont
 In c jaítrāya picks up jaítrā in 3c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Already have all forms of him entered our spacious dwelling-place:  
      For victory stir thou Indra, up, the Lord of Might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei uns für den großen Wohner bereit, alle Formen annehmend, mache dem Indra, dem Herrn der Kraft, Lust zum Siege!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heile für unsern grossen Wohnsitz dich in alle Gestalten kleidend, begeistere den Indra, den Herrn der Kraft, zum Siege.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Будь) готов для великого нашего обитателя,  
 Принимая все формы!  

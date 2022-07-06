@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुदेवो꣡ अद्य꣡ प्रप꣡तेद् अ꣡नावृत्  
 पराव꣡तम् परमां꣡ ग꣡न्तवा꣡ उ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धैनं वृ꣡का रभसा꣡सो अद्युः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 अध॑ । शयी॑त । निःऽऋ॑तेः । उ॒पऽस्थे॑ । अध॑ । ए॒न॒म् । वृकाः॑ । र॒भ॒सासः॑ । अ॒द्युः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sudevo* ← *sudevaḥ* ← *sudeva*
 - \[noun\], nominative, singular, masculine
@@ -112,7 +112,7 @@ genre D
 अथ परिदूनः पुरूरवा उवाच । **सुदेवः** त्वया सह सुक्रीडः पतिः **अद्य** **प्रपतेत्** । अत्रैव प्रपततु । अथवा **अनावृत्** अनावृत्तः सन् **परमां** **परावतं** दूरादपि दूरदेशं **गन्तवै** गन्तुं महाप्रस्थानगमनं कुर्यात् । **अध** अथवा यत्रकुत्रापि गन्तुमसमर्थः निर्ऋतेः पृथिव्याः **उपस्थे** **शयीत** शयनं कुर्यात् । यद्वा । निर्ऋतिः पापदेवता । तस्या उपस्थे उत्संगे संनिधौ म्रियतामित्यर्थः। **अध** अथवा **एनं** **वृकाः** आरण्याः श्वानः रभसासः वेगवन्तः **अद्युः** भक्षयन्तु । अत्र वाजसनेयकं - सुदेवोऽद्योद्वा बध्नीत प्र वा पतेत्तदेनं वृका वा श्वानो वाद्युरिति हैव तदुवाच' (श. ब्रा. ११. ५. १.८) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,29 +123,29 @@ genre D
 Let him sleep: i.e., let him die; Nirṛti being either the earth or the goddess of ill
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Purūravas:] “And if the gods’ pet should fly away today, never to  return, to go to the most distant distance ...  
 Then he might lie in the lap of Dissolution. Then again the ravening  wolves might eat him...”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy lover shall flee forth this day for ever, to seek, without return, the farthest distance.  
      Then let his bed be in Destruction's bosom, and there let fierce rapacious wolves devour him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Liefe heute dein Abgott davon auf Nimmerwiederkehr, um in die fernste Ferne zu gehen, und ruhte er im Schoße des Todes und fräßen ihn dann die reißenden Wölfe"-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Forteilen möchte heute der, dem die Götter einst hold waren, in die weiteste Ferne zu dringen und nicht wieder umkehren; immerhin möge er liegen im Schoosse der Nirriti [des Todes] und wüthende Wölfe ihn fressen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

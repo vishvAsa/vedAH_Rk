@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वचोवि꣡दं वा꣡चम् उदीर꣡यन्तीं  
 वि꣡श्वाभिर् धीभि꣡र् उपति꣡ष्ठमानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ मावृक्त म꣡र्तियो दभ्र꣡चेताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 दे॒वीम् । दे॒वेभ्यः॑ । परि॑ । आ॒ऽई॒युषी॑म् । गाम् । आ । मा॒ । अ॒वृ॒क्त॒ । मर्त्यः॑ । द॒भ्रऽचे॑ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vacovidaṃ* ← *vacaḥ* ← *vacas*
 - \[noun\], neuter
@@ -120,7 +120,7 @@ genre D
 **वचोविदं** वचसो लम्भयित्रीं **वाचम्** **उदीरयन्तीं** पयः पीत्वा पश्चाद्वाचमुदीरयन्तीम् । क्षुधितो हि जनो न वाचमुदीरयति भुक्त्वा पश्चादुदीरयति । **विश्वाभिः** सर्वाभिः **धीभिः** वाग्भिः **उपतिष्ठमानां** **देवीं** द्योतमानां **देवेभ्यः** देवार्थं **मा** माम् **एयुषीम्** अवगच्छन्तीं **गां** **दभ्रचेताः** अल्पबुद्धिः **मर्त्यः** मनुष्यः परि **आ** **अवृक्त** परिवर्जयति ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,7 +131,7 @@ genre D
 Gives speechto others: men are silent while they are hungry,but begin to speak when they have eaten food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Knowing speech, rousing speech, reverently approaching with all  visionary thoughts,  
 the goddess, coming hither from the gods, the cow—*let not a  
@@ -139,7 +139,7 @@ small-witted mortal appropriate me.
 The final group of hymns consists of 102–103, dedicated to Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 According to the transmitted text, this hymn ends on a downbeat: the small-witted man (dabhrácetāḥ), the last word of the hymn, has taken possession (avṛkta) of the cow that has been so extravagantly praised in vss. 15-16, whose right to safety was proclaimed to “observant people” or “the observant man” (cikitúṣe jánāya 15c), the opposite of the small-witted man of 16d. This sad finale seems unlikely to me, and a small emendation to the text will change the tone entirely.
 
@@ -151,23 +151,23 @@ As for reading the prohibitive negative mā́for preverb ā́, note that the pre
 prohibitive with a cow as obj.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Weak-minded men have as a cow adopted me who came hither from the Gods, a Goddess,  
      Who, skilled in eloquence, her voice uplifteth, who standeth near at hand with all devotions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mich, die die Worte findet, die Rede anregt, die mit allen frommen Gedanken naht, die göttliche Kuh, die von den Göttern gekommen ist, mich hat der Sterbliche von schwacher Einsicht sich angeeignet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mich, die der Rede kundige, die ich die Stimme erhebe, allen Andachten zur Seite stehe, die Göttin, die ich von den Göttern herbeigekommen bin, mich hat vernachlässigt der bösegesinnte Mensch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Меня, находящую слова, приводящую речь в движение,  
 Присутствующую (везде) благодаря всем молитвам,  

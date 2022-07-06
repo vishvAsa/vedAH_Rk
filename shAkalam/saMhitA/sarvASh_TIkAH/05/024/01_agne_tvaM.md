@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने तुवं꣡ नो अ꣡न्तम  
 उत꣡ त्राता꣡ शिवो꣡ भवा वरूथ्यः᳡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अग्ने॑ । त्वम् । नः॒ । अन्त॑मः । उ॒त । त्रा॒ता । शि॒वः । भ॒व॒ । व॒रू॒थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -78,7 +78,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **अग्ने** **वरूथ्यः** वरणीयः संभजनीयः । यद्वा । वरूथैः परिधिभिर्वृतः **त्वं** **नः** अस्माकम् **अन्तमः** अन्तिकतमः **भव** । **उत** अपि च **त्राता** रक्षकः **शिवः** सुखकरश्च भव ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,32 +95,32 @@ Alternative: favourable or auspicious to the family of the house, **varutha** me
 Vasuśravas = vyāptannaḥ, he by whom food is dispensed; or, renowned for wealth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, be our nearest and our kind rescuer, providing (us) a shield.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O AGNI, be our nearest Friend, be thou a kind deliverer and a gracious Friend.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, be thou our nearest (friend) and our kind, protecting guardian.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Sei du unser Vertrauter und freundlicher schirmhafter Schützer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, sei recht nahe uns, und sei ein holder Retter, ein Beschirmer;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -2 О Агни, будь ты нам самым близким  
 И милым спасителем, дарующим защиту!  

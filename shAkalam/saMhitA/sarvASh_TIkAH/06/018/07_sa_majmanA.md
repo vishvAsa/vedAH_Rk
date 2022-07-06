@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मज्म꣡ना ज꣡निम मा꣡नुषाणाम्  
 अ꣡मर्तियेन ना꣡म्ना꣡ति प्र꣡ सर्स्रे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ वीरि꣡येण नृ꣡तमः स꣡मोकाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सः । द्यु॒म्नेन॑ । सः । शव॑सा । उ॒त । रा॒या । सः । वी॒र्ये॑ण । नृऽत॑मः । सम्ऽओ॑काः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -123,41 +123,41 @@ genre M
 **सः** इन्द्रः **अमर्त्येन** विनाशरहितेन **नाम्ना** शत्रूणां नमयित्रा **मज्मना** बलेन । मज्मनेति बलनामैतत् । **मानुषाणां** मनुष्याणां **जनिम** जन्म । संघमित्यर्थः । **अति** **प्र** **सर्रेुष** अतिप्रपेदे । **सः** इन्द्रः **द्युम्नेन** यशसा **समोकाः** समानस्थानो भवति । किंच **सः** इन्द्रः **शवसा** बलेन समोका भवति । **उत** अपि च **नृतमः** नेतृतमः **सः** इन्द्रः **राया** धनेन **वीर्येण** सामर्थ्येन च समोका भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With immortal, foe-humiliating might he has promoted the (multiplied) birth of mankind; he, the chief of leaders, dwells in the same dwelling with fame, with strength, with riches, with heroism.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through his greatness and his immortal name he has extended himself  over the races of the sons of Manu.  
 He is at home with brilliance and with power and wealth, and he, the  best of men, with heroism—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. continues the overabundance of sá from the last vs., esp. in the 2nd hemistich, with initial sá and post-caesura sá in c and initial sá in d, in addition to the one opening the vs. Each of these sá is associated with a different instr. phrase or phrases. The one in the first hemistich has the capacious bipartite majmánā … ámartyena nā́mnā embedded in a full clause with the verb prá sarsre; the two in pāda c occur only with instrumentals (dyumnéna in the opening and the conjoined śávasotá rāyā́after the caesura); the one in d has only a single instr. (vīryèṇa) but is part of a clause again, though with a pred. adj. sámokaḥ, not a finite verb. Since the structure of this vs. is like that of vs. 6, the question again arises as to where to attach c (or the two parts of c). Flg. Geldner I take all of c with d, construing all the instrumentals with sámokaḥ ‘at home (with)’. But I now see that, because the structures in c are minimal, it could as well go with ab (or the first half with ab, the second with d). This would produce alternative translations “Through his greatness and his immortal name he extended himself, (and also) through his brilliance and his power and wealth. He is at home with heroism.” or even “Through his greatness and his immortal name he extended himself, (and also) through his brilliance; he is at home with power and wealth and with heroism.” (This last, with the first part of c leaning backward and the 2nd leaning forward, would mimic my interpr. of vs. 6.) Again I do not see a way to decide the question, but I think it’s worth noting how the poet has cleverly constructed pāda c so that it is ambig.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He in his might, with name that lives for ever, hath far surpassed all human generations.  
      He, most heroic, hath his home with splendour, with glory and with riches and with valour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit seiner Mächtigkeit, seinem unsterblichen Namen überdauert er der Menschen Geschlechter. Er ist mit Glanz, mit Kraft und Reichtum, er mit Heldenmut gepaart, der Mannhafteste.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er dringt mit Macht hindurch durch die Geschlechter der Menschen mit unsterblichem Erscheinen, Mit schönem Gut, mit Stärke und mit Reichthum, mit Heldenkraft gepaart der männlich stärkste,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он (своей) мощью, (своим) бессмертным именем  
 Пережил поколения людей.  

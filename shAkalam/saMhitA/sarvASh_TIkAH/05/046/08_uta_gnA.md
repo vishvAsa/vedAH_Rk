@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ ग्ना᳐꣡ वियन्तु देव꣡पत्नीर्  
 इन्द्राणी꣡ · अग्ना꣡यी अश्वि꣡नी रा꣡ट्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विअ꣡न्तु देवी꣡र् य꣡ ऋतु꣡र् ज꣡नीनाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । रोद॑सी॒ इति॑ । व॒रु॒णा॒नी । शृ॒णो॒तु॒ । व्यन्तु॑ । दे॒वीः । यः । ऋ॒तुः । जनी॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M
 **उत** अपि च **ग्नाः** स्त्रियः **देवपत्नीः** देवपत्न्यो देवाः पतयो यासां ताः । तादृश्यः **व्यन्तु** हविर्भक्षयन्तु । ता विविच्योच्यन्ते । **इन्द्राणी** इन्द्रस्य पत्नी **अग्नायी** अग्नेः पत्नी **अश्विनी** अश्विनोः पत्नी **राट्** राजमाना। किंच **रोदसी**। रुद्रस्य पत्नी' (निरु. ११. ४९) इति यास्केनोक्तम् । एवं सति  ‘ विषितस्तुका रोदसी ' ( ऋ. सं. १. १६७. ५) इत्यत्र यथाद्युदात्तप्रगृह्यते न स्तः तद्वदत्रापि भाव्यम् । तथापि शाकल्येन महर्षिणैवमुक्तत्वात्तथैव द्रष्टव्यम् । **वरुणानी** वरुणस्य पत्नी **आ** सर्वतः प्रत्येकं **शृणोतु** । किंच **देवीः** पत्नीसंयाजदेव्यः **व्यन्तु** खादन्तु हविः। **यः** **जनीनां** देवजायानाम् **ऋतुः** कालस्तदभिमानी देवोऽपि शृणोतु वेतु च । अत्र  ‘ अपि च ग्ना व्यन्तु देवपत्न्यः ' (निरु. १२. ४६ ) इत्यादि निरुक्तं द्रष्टव्यम् ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,36 +123,36 @@ genre M
 Rodasi: wife of **Rudra**; earlier, she had been referred to as the bride of the **Maruts**; may the goddesses partake: vyantu **devīḥ**, may the goddesses eat (**Nirukta** 12.46); the seacon of the wives of the gods: ya ṛtur janīnām that which is the time of the wives of the gods, that is, the goddesses presiding over it: yo devajayanam kālastadabhimāna devyaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And let the ladies, the Wives of the Gods pursue (the offering)—Indra’s  wife, Agni’s wife, the Aśvins’ queen.  
 Let Rodasī and Varuṇa’s wife pay heed. Let the goddesses pursue (the  offering), which is the regular season for women.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This last vs. is in a diff. meter and also shows some metrical irregularities (see Holland & van Nooten Rig Veda edition notes). It seems tacked on, to allow an enumeration of the gods’ wives in question, most of whom (save for Indrāṇī) have a very shadowy existence. It is also not clear whether aśvínī and rā́ṭ refer to a single individual or two.
 
 The last phrase, yá ṛtúr jánīnām “which is the regular season for women,” is somewhat puzzling, made more so by the fact that there is no overt referent in the main clause for the yáḥ, since the verb vyántu lacks an object (also in pāda a). I follow Geldner (flg. Sāyaṇa.) in taking this as a reference to the patnīsaṃyāja offering (or its forerunner), and I therefore supply ‘offering’ as obj. for vyántu (havís-, etc., is a common, though not invariable, obj. to this root). The rel. cl. is then also a pun: it refers not only to this offering, which is the ritual “time/season” allotted to women, but probably also to their menstrual periods, since ṛtú- is regularly so used later. For a similar pun, using the adj. ṛtvíyāvatī-, see VIII.12.10, 80.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the Dames, wives of Gods, enjoy our presents, Rat, Asvini, Agnayi, and Indrani.  
      May Rodasi and Varunani hear us, and Goddesses come at the Matrons' season.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch die Götterfrauen sollen gern kommen, die Gemahlinnen der Götter: Indrani, Agnayi, Asvini, die Königin. Rodas? soll zuhören, Varunani; die Göttinnen sollen gern kommen zu der Zeit der Frauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die gottvermählten Frauen mögen kommen, Indrani, Agnani, die Ritterfürstin, die Welten beide, Varunani hör uns, sie all' und die der Weiber Zeiten regelt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также (божественные) жены – супруги богов пусть одобрят (наше приглашение):  
 Индрани, Агнайи, Ашвини, Царица!  

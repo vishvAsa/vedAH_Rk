@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इ꣡न्द्रो अ꣡नयद् रि꣡तो  
 मही꣡र् अपो꣡ वृ꣡षन्तमः  
 त꣡त्र पूषा꣡भवत् स꣡चा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तत्र॑ । पू॒षा । अ॒भ॒व॒त् । सचा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -87,41 +87,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यत्** यदा **वृषन्तमः** अतिशयेन वर्षिता **इन्द्रः** **रितः** गन्त्रीः **महीः** महतीः **अपः** वृष्ट्युदकानि **अनयत्** इमं लोकं प्रापयति **तत्र** तदानीं **पूषा** पोषको देवः **सचा** **अभवत्** अस्येन्द्रस्य सहायो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the showerer **Indra** sends down the falling and mighty waters, there is **Pūṣan** along with him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Indra the most bullish led the streams, the great waters,  
 then Pūṣan came along.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The root noun rít- to √ri ‘flow’ is a hapax.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Indra, wondrous strong, brought down the streams, the mighty waterfloods,  
      Pusan was standing by his side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Indra, der Bullenhafteste, die strömenden großen Gewässer in ihre Bahnen leitete, da war Pusan dabei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Indra, der gewaltigste, die grossen Fluten rinnen liess, Da stand zur Seite Puschan ihm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Индра провел великие воды  
 (Так,) что они стали проточными, (этот) самый мужественный,  

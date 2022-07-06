@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् अग्ने सप्र꣡था असि  
 जु꣡ष्टो हो꣡ता व꣡रेणियः  
 त्व꣡या यज्ञं꣡ वि꣡ तन्वते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 त्वया॑ । य॒ज्ञम् । वि । त॒न्व॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -88,41 +88,41 @@ genre M
 हे **अग्ने** **जुष्टः** सर्वदा प्रीतः **वरेण्यः** सर्वैर्वरणीयः **होता** **त्वं** **सप्रथाः** सर्वतः पृथुः **असि** भवसि । तथाह यास्कः - ‘ सप्रथाः सर्वतः पृथुः ' ( निरु. ६. ७ ) इति । किंच सर्वे यजमानाः **त्वया** साधनेन **यज्ञं** **वि** **तन्वते** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, are mighty and gracious, the (ministrant) priest, the desired (of all) through your worshippers complete the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, are spread wide as the pleasing Hotar to be chosen.  
 Through you they stretch out the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, art spread widely forth, Priest dear and excellent; through thee  
      Men make the sacrifice complete.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, art widely extended, the gladly accepted, desirable Hotri; through thee they spread out the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, bist weitbekannt als der beliebte, zu erwählende Opferpriester. Durch dich vollziehen sie das Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weit ausgedehnt bist Agni du, ein lieber, schöner Opferer, Durch dich vollführt das Opfer man.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, широко распространяешься,  
 Довольный, избранный хотар.  

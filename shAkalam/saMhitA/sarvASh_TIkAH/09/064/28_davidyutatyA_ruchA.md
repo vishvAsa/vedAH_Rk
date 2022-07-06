@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡विद्युततिया रुचा꣡  
 परिष्टो꣡भन्तिया कृपा꣡  
 सो꣡माः शुक्रा꣡ ग꣡वाशिरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सोमाः॑ । शु॒क्राः । गोऽआ॑शिरः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *davidyutatyā* ← *davidyut* ← *√dyut*
 - \[verb noun\], instrumental, singular
@@ -65,19 +65,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **शुक्राः** उज्ज्वलाः **दविद्युतत्या** द्योतमानया **रुचा** दीप्त्या **परिष्टोभन्त्या** परितः शब्दायमानया **कृपा** धारया च युक्ताः **सोमाः** **गवाशिरः** भवन्ति । गव्येन पयसा मिश्रिता भवन्तीत्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The bright **Soma**-juices with their shining radiance and resounding stream are mixed with the milk and the curds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Provided) with ever-flashing light, with a form that encircles with chant are (both) the clear soma drinks and those mixed with cows [=milk].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On pari √stubh see nearby IX.62.24. It is not entirely clear to me how the kṛ́p- (form, body) of Soma would ‘encircle with chant/rhythm’, since its physical form should not be producing noise. More common is the association of kṛ́p- with light (esp. the light of Agni), as Renou points out (cf. VI.2.6 kṛpā́… rocase, VII.3.9 sváyā kṛpā́tanvā̀rócamānaḥ), but in our passage rucā́and kṛpā́are parallel and independent. A passive sense ‘encircled with chant/rhythm’ (so Renou) would work better in context, but that seems precluded by the use of the act. stem stóbha-.
 
@@ -92,22 +92,22 @@ The contrast between the two types of soma drinks, pure and mixed with milk, are
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright are these Somas blent with milk, with light that flashes brilliantly. And form that utters loud acclaim.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit blitzendem Glaste, mit brausender Schönheit sind die Geklärten, die mit Milch gemischten Somatränke geflossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die milchgemischten Soma's sind erhellt von lichtem Strahlenglanz, Versehn mit rauschender Gestalt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

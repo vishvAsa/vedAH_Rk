@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्विना म꣡धुमत्तमम्  
 पातं꣡ सो꣡मम् ऋतावृधा  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 दाश्वां꣡सम् उ꣡प गछतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अथ॑ । अ॒द्य । द॒स्रा॒ । वसु॑ । बिभ्र॑ता । रथे॑ । दा॒श्वांस॑म् । उप॑ । ग॒च्छ॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
@@ -101,37 +101,37 @@ genre M
 हे **ऋतावृधा** यज्ञस्य वर्धकौ अश्विनौ **मधुमत्तमं** **सोमं** **पातं** पिबतम् । हे **दस्रा** अश्विनौ सोमपानार्थम् **अथ** अस्मदाह्वानानन्तरम् **अद्य** अस्मिन् दिने **रथे** स्वकीये **वसु** **बिभ्रता** अस्मदुपयुक्तं धनं धारयन्तौ **दाश्वांसं** हविष्प्रदं यजमानम् **उप** **गच्छतं** समीपे प्राप्नुतम् ॥ बिभ्रता। ‘डुभृञ् धारणपोषणयोः '। शतरि जुहोत्यादित्वात् शपः श्लुः । ‘भृञामित्' इति अभ्यासस्य इत्वम् ॥ शतुर्ङित्त्वात् गुणाभावे यणादेशः ।' अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, encouragers of sacrifice, drink this most sweet **Soma**; approach today the giver of the offering, you who are of plural asing aspects and bearers of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Aśvins, growing strong through truth, drink the most  
 honey-filled soma.  
 Then today, wondrous ones, come to the pious man, bringing goods on  your chariot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, ye who strengthen Law, drink ye this sweetest Soma juice.  
      Borne on your wealth-fraught car come ye this day to him who offers, ye of wondrous deeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trinket den süßesten Soma, ihr Wahrheitsmehrer Asvin, drum kommt heute zu dem Spender und bringt auf dem Wagen Gutes mit, ihr Meister!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Ritter, trinkt den Soma denn, den süssesten, o heilige, Und bringt, o Helfer, Gut auf eurem Wagen heut, zu dem Verehrer kommt herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ашвины, самого сладкого  
 Сому пейте, о вы двое, умножающие закон,  

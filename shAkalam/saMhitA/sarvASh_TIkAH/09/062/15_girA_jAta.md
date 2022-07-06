@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गिरा꣡ जात꣡ इह꣡ स्तुत꣡  
 इ꣡न्दुर् इ꣡न्द्राय धीयते  
 वि꣡र् यो꣡ना वसता꣡व् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विः । योना॑ । व॒स॒तौऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *girā* ← *giri*
 - \[noun\], locative, singular, masculine
@@ -91,20 +91,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **जातः** प्रादुर्भूतः **गिरा** स्तुत्या **स्तुतः** च **इन्दुः** सोमः **इह** अस्मिन् यज्ञे **योना** योनौ स्वस्थाने **इन्द्राय** इन्द्रार्थं **वसताविव** **विः** यथा स्ववासे पक्षी तथा **धीयते** निधीयते ॥ ॥२६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “genitive rated and praised by song, **Indu** at this sacrifice is deposited in his plural ce for **Indra**, like a bird on its nest.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Born on a mountain [/begotten by a hymn], praised here, the drop is  placed for Indra,  
 a bird in his womb, as if in a nest.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 girā́jātáḥ “born on a mountain” is in the first instance a phrasal variant of giriṣṭhā́ḥ ‘mountain-abiding’ in 4b, with girā́showing the i-stem loc. in -ā regular before consonants (see, e.g., Lanman, Noun Inflect, 385). This interpr. is followed by Geldner and Renou in their tr. (see also Ober II.13). However, girā́can also be, as Oldenberg and Geldner (n. 15a) point out, the instr. sg. of gír- ‘hymn’; in fact Grassmann puts it there. The alt. given in the published translation “[/begotten by a hymn]” reflects this other possible analysis; that soma is produced to the accompaniment of hymns would make this statement true in ritual logic. It is also possible that girā́‘by a hymn’ could be construed with stutáḥ ‘praised’ later in the pāda. And to make things even more complex, stutáḥ might also evoke sutáḥ ‘pressed’.
 
@@ -122,23 +122,23 @@ The first two vss. contain forms of kaví-. The epithet “wide-going” (urugā
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born on the inountain, lauded here, Indu for Indra is set down,  
      As in her sheltering nest a bird.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem Berg entsprossen, hier gepriesen, wird der Saft für Indra hingesetzt an seinen Platz wie ein Vogel ins Nest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Lied gezeugt, gepriesen hier, wird Indu Indra'n dargereicht, Ein Vogel in des Nestes Schooss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 का꣡वियेभिर् अदाभिया  
 आ꣡ यातं वरुण द्युम꣡त्  
 मित्र꣡श् च सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 मि॒त्रः । च॒ । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kāvyebhir* ← *kāvyebhiḥ* ← *kāvya*
 - \[noun\], instrumental, plural, neuter
@@ -77,36 +77,36 @@ genre M
 हे **अदाभ्या** अदम्भनीयौ हे **वरुण** त्वं **मित्रश्च** **द्युमत्** द्युतिमन्तौ युवां **काव्येभिः** अस्मत्कृतैः स्तोत्रैः **आ** **यातम्** । किमर्थम् । **सोमपीतये** सोमपानाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Unconquerable, resplendent **Varuṇa** and **Mitra**, (induced) by our praises, come to drink the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your poetic arts, o undeceivable ones, travel here in brilliance,  o Varuṇa  
 and Mitra, in order to drink the soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Infallible through your wisdom, come hither, resplendent Varuna,  
      And Mitra, to the Soma draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit eurer Weisheit kommet, ihr untrügbaren Mitra und Varuna, glanzvoll her, um Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Seherkraft, untrügliche, kommt leuchtend her, o Varuna Und Mitra, zu dem Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С (вашими) силами прозорливцев, о вы, не поддающиеся обману,  
 Приезжайте, о Варуна, блистательно,  

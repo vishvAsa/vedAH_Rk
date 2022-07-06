@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा वदा त꣡ना गिरा꣡  
 जरा꣡यै ब्र꣡ह्मणस् प꣡तिम्  
 अग्नि꣡म् मित्रं꣡ न꣡ दर्शत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्निम् । मि॒त्रम् । न । द॒र्श॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -83,42 +83,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे ऋत्विक्समूह **तना** तनया देवतास्वरूपं प्रकाशयन्त्या **गिरा** वाचा **ब्रह्मणस्पतिं** मन्त्रस्य हविर्लक्षणस्यान्नस्य वा पालकं मरुद्गणम् **अग्निं** **दर्शतं** दर्शनीयं **मित्रं** **न** मित्रमपि **जरायै** स्तोतुम् **अच्छ** आभिमुख्येन **वद** ब्रूहि ॥ अच्छ।' निपातस्य च ' इति संहितायां दीर्घत्वम्। वद । ‘द्व्यचोऽतस्तिङः' इति संहितायां दीर्घः । तना। तनु विस्तारे'। तनोति देवतामाहात्म्यं विस्तारयतीति तना । पचाद्यच् । वृषादित्वादाद्युदात्तत्वम् । तृतीयाया डादेशः। गिरा। ‘सावेकाचः' इति विभक्तेरुदात्तत्वम् । ब्रह्मणः । षष्ठ्याः पतिपुत्र' इति सहितायां सत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Declare in our presence, (priests), with voice attuned to praise **Brahmaṇaspati** (lord of the sacriricial food), **Agni** and the beautiful **Mitra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Speak here with a song at length to the Lord of the Sacred  
 Formulation, to awaken him,  
 and to Agni, lovely to see like an ally.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have tr. jarā́yai as ‘to awaken him’, but this is probably wrong, however appealing in context. The noun jarā́- only means ‘old age’, and therefore some version of Geldner’s “dass er das Greisenalter (uns schenke)” is better. Its intent would match the last pāda of the previous hymn, I.37.15c “in order (for us) to live a full lifetime,” and the two hymns have much in common.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Invite thou hither with this song, for praise, Agni the Lord of Prayer,  
      Him who is fair as Mitra is.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rufe mit anhaltender Lobrede den Brahmanaspati an, daß er das Greisenalter uns schenke, den Agni, den gern gesehen ist wie ein Freund!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit stetem Lied begrüsse ihn, besinge den Gebetesherrn, Den Agni, der wie Mitra schön.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обратись с долгой хвалебной песнью  
 К Брахманаспати для (достижения) старости,  

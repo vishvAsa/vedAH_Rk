@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते रु꣡चः प꣡वमानस्य सोम  
 यो꣡षेव यन्ति सुदु꣡घाः सुधाराः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡चिक्रदत् कल꣡शे देवयूना꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 हरिः॑ । आऽनी॑तः । पु॒रु॒ऽवारः॑ । अ॒प्ऽसु । अचि॑क्रदत् । क॒लशे॑ । दे॒व॒ऽयू॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -122,42 +122,42 @@ genre M
 हे **सोम** पवमानस्य पूयमानस्य **ते** तव स्वभूता **योषेव** स्त्री यथा पुत्राणां पयो दोग्धि तद्वद्यजमानानां धनादिकस्य सुष्ठु दोग्ध्र्यः **सुधाराः** शोभनधारोपेताः **रुचः** दीप्तयः **आ** **यन्ति** पात्रादीन्यागच्छन्ति । किंच **हरिः** हरितवर्णः **आनीतः** ऋत्विग्भिः **पुरुवारः** बहुधा वरणीयः सोमः **अप्सु** वसतीवरीषु **देवयूनां** देवानिच्छतां यजमानानां स्वभूते **कलशे** द्रोणाख्ये च **अचिक्रदत्** पुनःपुनः क्रन्दते शब्दायते ॥ ॥ १० ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The lustres, **Soma**, of you when being purified, approach with abundant milk with copious streams like a woman (giving milk to her child); the green-tinted Soma, the desired of many, has been brought to the waters and cries repeatedly in the pitcher of the god-loving (worshippers).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As you purify yourself, Soma, your beams come here like a maiden— the good milkers giving good streams.  
 The fallow bay granting many favors, led hither into the waters, has  
 roared in the tub of those who seek the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A last pāda-init. form of √krand, ácikradat in d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With full stream and abundant milk, O Soma, thy beams come, like a woman, as they cleanse thee.  
      He, gold-hued, rich in boons, brought to the waters, hath roared within the goblet of the pious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine, des Pavamana, Glanzlichter kommen, o Soma, wie eine junge Frau, wie leicht zu melkende Kühe, die schöne Milchstrahlen geben. Der Falbe wird ins Wasser gegossen, der Vielbegehrte; er brüllte im Kruge der Gottverlangenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Bräute gehn, o Soma, deine Strahlen, des hell entflammten, reich an Milch und Strömen, Das Ross mit busch'gem Schweif geführt ins Wasser hat laut gewiehert in dem Kelch der Frommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Яркие) блики у тебя, Павамана, о сома,  
 Являются, как юная женщина, (как) дойные коровы с прекрасными струями.  

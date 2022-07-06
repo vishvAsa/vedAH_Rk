@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ युवानः कवयो यज्ञियासो  
 म꣡रुतो गन्त꣡ गृणतो꣡ वरस्या꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इत्था꣡ न꣡क्षन्तो नरो अङ्गिरस्व꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒चि॒त्रम् । चि॒त् । हि । जिन्व॑थ । वृ॒धन्तः॑ । इ॒त्था । नक्ष॑न्तः । न॒रः॒ । अ॒ङ्गि॒र॒स्वत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 हे **युवानः** नित्यतरुणाः **कवयः** प्राज्ञाः **यज्ञियासः** यज्ञार्हा एवंभूता हे **मरुतः** **गृणतः** स्तुवतः **वरस्यां** वरणीयां स्तुतिं प्रति **आ** **गन्त** आगच्छत । अपि च हे **नरः** नेतारो मरुतः **इत्था** इत्थमनेन प्रकारेण **वृधन्तः** वर्धमानाः । यद्वा इत्था अमुत्रान्तरिक्षे **नक्षन्तः** व्याप्नुवन्तः **अङ्गिरस्वत्** । अङ्गिरसो गमनशीला रश्मयः । ते यथा शीघ्रं नभस्तलं व्याप्नुवन्ति तद्वत् । यद्वा । ऋषय एवाङ्गिरसः । तद्वच्छीघ्रगामिनः । एवंभूता यूयम् **अचित्रं** **चित्** । ओषधिवनस्पतिभिर्निबिडो देशश्चित्रम् । तद्विलक्षणम् ओषध्यादिभिर्वियुक्तमपि देशं **जिन्वथ** वृष्ट्या तर्पयथ। **हि** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,14 +122,14 @@ genre M
 Like rays of light: nakṣanto aṅgirasvat = **aṅgirasaḥ** gamanaśīlāraśmayaḥ, rays endowed with motions; te yatha śīghram nabhastalam vyāpnuvanti tad vat, as they spread quickly through the sky, so) do the winds; or, if **aṅgirasa** is a reference to a ṛṣi, the property of rapid movement is assigned to the ṛṣis: yad va ṛṣayastad vacchīghragāminaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You youths, poets deserving the sacrifice, you Maruts—come hither in  response to the singer’s longing for space,  
 for you in your strength quicken even (a place) without brightness,  
 approaching in just the same way as to Aṅgiras, you superior men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The interpr. of varasyā́- as somehow a deriv. of vára- ‘wish’, found, e.g., in Grassmann, Geldner, and AiG II.2.244, is contextually understandable: Geldner’s “Kommet … zum Bittgesuch des Sängers” makes more immediate sense than my “come hither in response to the singer's longing for space,” with “in response to” smuggled in to make the sentence somewhat more parsable. But there is no váras- to √vṝ ‘wish, choose’, whereas váras- means ‘wide space’, something that RVic poets often express a desire for. Renou hesitates (his word), but opts for ‘desire for space’ and adduces the quite apposite I.181.9 varivasyā́gṛṇānáḥ “singing (to you) with a desire for space,” comparable to our gṛṇató varasyā́.
 
@@ -138,23 +138,23 @@ The causal relationship between c and ab, suggested by hí (c), is not straightf
 I don’t understand the point of d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye who are youthful, wise, and meet for worship, come, Martits, to the longing of the singer.  
      Coming, as erst to Angiras, O Heroes, ye animate and quicken e'en the desert.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet, ihr jugendlichen, opferwürdigen Seher, ihr Marut, zum Bittgesuch des Sängers. Denn erstarkend belebt ihr auch das Unansehnliche, indem ihr hierher kommt wie zu den Angiras, ihr Herren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her, o weise, jugendliche Maruts, ehrwürd'ge ihr, auf das Begehr des Sängers; Das Matte auch erquicket ihr belebend, o Männer, recht wie Götterboten kommend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О юные поэты, достойные жертв,  
 О Маруты, придите на просьбу о милости воспевающего!  

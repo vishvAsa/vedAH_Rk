@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ व इ꣡न्द्राय मा꣡दनं  
 ह꣡रिअश्वाय गायत  
 स꣡खायः सोमपा꣡वने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सखा॑यः । सो॒म॒ऽपाव्ने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -76,36 +76,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सखायः** **वः** यूयं **हर्यश्वाय** **सोमपाव्ने** सोमानां पात्रे **इन्द्राय** **मादनं** मदकरं स्तोत्रं **प्र** **गायत** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing, friends, an exhilarating hymn to **Indra**, the lord of bay steeds, the drinker of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing forth your exhilarating (song) to Indra of the fallow bays,  
 to the soma-drinker, o comrades.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING ye a song, to make him glad, to Indra, Lord of Tawny Steeds,  
      The Soma-drinker, O my friends.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stimmet auf den Falbenlenker Indra euer begeisterndes Lied an, ihr Freunde auf den Somatrinker!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra singt ein Jubellied, der mit den goldnen Rossen fährt, Dem Somatrinker, Freunde ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пропойте для Индры вашу вдохновляющую  
 (Песнь), для повелителя буланых коней,  

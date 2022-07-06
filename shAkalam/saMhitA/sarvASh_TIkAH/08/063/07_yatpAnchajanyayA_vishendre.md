@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् पा꣡ञ्चजन्यया विशा꣡  
 इ꣡न्द्रे घो꣡षा अ꣡सृक्षत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अर्यो꣡ मा꣡नस्य स꣡ क्ष꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अस्तृ॑णात् । ब॒र्हणा॑ । वि॒पः । अ॒र्यः । मान॑स्य । सः । क्षयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -97,42 +97,42 @@ genre M
 **यत्** यदा **पाञ्चजन्यया** । निषादपञ्चमाश्चत्वारो वर्णाः पञ्चजनाः। तत्र भवया **विशा** प्रजया **इन्द्रे** **घोषाः** स्तुतयः **असृक्षत** सृज्यन्ते तदानीमयमिन्द्रः **अस्तृणात्** हिनस्ति शत्रून् **बर्हणा** स्वमहत्त्वेन । अनन्यसहायेनेत्यर्थः । तादृशः **सः** **अर्यः** इन्द्रः **विपः** मेधाविनः स्तोतुर्मम **मानस्य** पूजायाः सत्कारस्य **क्षयः** निवासो भवति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When praises are addressed to **Indra** by the men of the five classes, he destroys their enemies by hismight; he, the lord, is the abode of the worshipper's homage.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When cries were sent surging to Indra by the clan belonging to the Five  Peoples,  
 through the power of their inspiration, through the power of his  
 measure he laid the strangers low. He is peaceful dwelling.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The second hemistich has been subject to various interpretations. See, inter alia, Oldenberg’s discussion, also Thieme (Fremdl. 42-43). The primary points of difference are the case/number of vipáḥ (gen. sg. or acc. pl.) and of aryáḥ (gen. sg. or acc. pl.), the sense of mā́na- (as also in vs. 2), and the syntactic structure of the final pāda. I opt for gen. sg. vipáḥ (as Oldenberg points out, the acc. pl. should be accented vípaḥ), acc. pl. aryáḥ, and the same sense for mā́na- as in vs. 2, namely ‘measure’ - in this case the measure, i.e., the sheer size, of Indra. I construe both genitives (vipáḥ and mā́nasya) with barháṇā, and take the last two words sá kṣáyaḥ as a separate clause, as the position of sá might suggest - contra all other intrepretations I am aware of. It makes sense that Indra should be identified as “peaceful dwelling,” because he has killed the strangers and thus brought peace to the Five Peoples.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the Five Tribes with all their men to Indra have sent out their voice,  
      And when the priest hath strewn much grass, this is the Friend's own dwellingpiace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als von dem zum Fünfvölkerbund gehörigen Stamme die Rufe zu Indra entsandt worden waren, da brachte durch seinen Eifer dieses Haus der Melodie die Reden des Nebenbuhlers zu Falle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn von der fünf Geschlechter Stamm dem Indra sich Gesang ergoss, Zerstreut mit Macht die Pfeile er des Feindes, er, des Dichters Hort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда до Индры донесся глас  
 Племени, принадлежащего к пяти народам,  

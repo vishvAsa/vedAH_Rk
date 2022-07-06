@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्य꣡ देवः꣡ सविता꣡ भ꣡गो नो  
 अपां꣡ न꣡पाद् अवतु दा꣡नु प꣡प्रिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दियउ꣡र् देवे꣡भिः पृथिवी꣡ समुद्रइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वष्टा॑ । दे॒वेभिः॑ । जनि॑ऽभिः । स॒ऽजोषाः॑ । द्यौः । दे॒वेभिः॑ । पृ॒थि॒वी । स॒मु॒द्रैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -120,41 +120,41 @@ genre M
 **उत** अपि च **स्यः** स यः प्रेरकतया सर्वत्र प्रख्यातः सः **सविता** **देवः** **भगः** च **अपां** **नपात्** च अपां मेघस्थानां पुत्रो माध्यमिकोऽग्निः स च **नः** अस्मान् **अवतु** रक्षतु । कीदृशोऽपां नपात् । **दानु** दातव्यं धनं **पप्रिः** प्राता पूरयिता ॥ ‘प्रा पूरणे' इत्यस्मात्  ‘ आदृगमहन०' इति किनो लिड्वद्भावात् ‘न लोकाव्यय' इति षष्ठीप्रतिषेधः ॥ तथा **देवेभिः** देवैः **जनिभिः** तत्पत्नीभिश्च **सजोषाः** सहप्रीतिः **त्वष्टा** च **देवेभिः** देवैः सह प्रीयमाणा **द्यौः** च **समुद्रैः** सह प्रीयमाणा **पृथिवी** चैताश्च सर्वा देवता अस्मानवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And may the divine **Savitā** and **Bhaga**, and the grandson of the waters, (**Agni**), the prodigal of gifts, preserve us; and may **Tvaṣṭā** with the gods, and Earth with the seas, (preserve us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this god Savitar and Bhaga and the Child of the Waters—let (each)  help us, supplying gifts,  
 and Tvaṣṭar jointly with the divine ones, the Wives, Heaven with the  gods, Earth with the seas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the phrase tváṣṭā devébhir jánibhiḥ, which, with Renou, I consider to be the equivalent of “with the wives of the gods, with the divine wives,” see comm. ad II.36.5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this God Savitar, the Lord, the Offspring of Waters, pouring down his dew be gracious,  
      And, with the Gods and Dames accordant, Tvastar; Dyaus with the Gods and Prthivi with oceans.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch der Gott Savitri, Bhaga, Apam Napat, der Gaben Spendende, sollen uns ihre Gunst schenken, Tvastri im Verein mit den Göttern und ihren Frauen, der Himmel mit den Göttern, die Erde mit den Meeren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dieser Gott Savitar, der Vertheiler, der Wasser Sohn [Agni], Thau spendend möge uns fördern; Tvaschtar mit den Göttern und den Frauen vereint, der Himmel mit den Göttern, die Erde mit den Meeren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также этот бог Савитар, Бхага,  
 Апам Напат пусть поможет нам, наполняя дарами,  

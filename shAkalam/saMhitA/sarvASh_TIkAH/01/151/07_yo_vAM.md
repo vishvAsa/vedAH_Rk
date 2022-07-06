@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वां यज्ञइः꣡ शशमानो꣡ ह दा꣡शति  
 कवि꣡र् हो꣡ता य꣡जति मन्मसा꣡धनः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡छा गि꣡रः सुमतिं꣡ गन्तम् अस्मयू꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उप॑ । अह॑ । तम् । गच्छ॑थः । वी॒थः । अ॒ध्व॒रम् । अच्छ॑ । गिरः॑ । सु॒ऽम॒तिम् । ग॒न्त॒म् । अ॒स्म॒यू इत्य॑स्म॒ऽयू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -137,21 +137,21 @@ genre M
 यः **ह** यः खलु यजमानः **वां** युवामुद्दिश्य युवाभ्यां वा **यज्ञैः** यागैर्निमित्तभूतैः **शशमानः** शंसमानः **दाशति** हविरादिकं स्वस्वत्वं निवर्त्य युष्मत्स्वत्वापादनं करोति । य एव **कविः** अनूचानः  ‘ येऽनूचानास्ते कवयः' (ऐ. ब्रा. २.२) इति श्रुतेः । अथवा कविर्मेधावी **होता** सम्यग्होमनिष्पादको यजमानः **मन्मसाधनः** मननीयद्रव्यदक्षिणादिसाधनोपेतः सन् **यजति** सोमयागादिकं करोति । **तम्** एव यजमानं °सुमतिं शोभनप्रज्ञम् **उप** उपलक्ष्य **गच्छथः** प्राप्नुथः खलु। **अध्वरं** तदीयं यज्ञं **वीथः** कामयेथे। किंच **अस्मयू** अस्मान् कामयमानौ युवां **गिरः** स्तुतीः **अच्छ** अभिलक्ष्य **गन्तं** गच्छतम् । तादृशं मां प्राप्य स्तुतीः स्वीकुरुतमित्यर्थः । अत्र यद्यपि तम् इति सामान्यनिर्देशः प्रतिभाति तथापि अस्मयू इत्युक्तत्वात् दीर्घतमाः स्वात्मानमेव परोक्षतया उक्तवानिति गम्यते । यद्वा । यो दाशति यश्च यजते तमुपेत्य तदीयं यज्ञं कामयेथे । अतोऽस्मयू युवां सुमतिं मां मदीया गिरः स्तुती: अच्छ अभिलक्ष्य गच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to the devout (worshipper), who, glorifying you, and providing (all that is) acceptable, presents you with oblations; (to him), the sage, the invoker, who offers you worship; accept his sacrifice; favourably disposed towards us, (accept) our praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The man) who as he labors piously serves you with sacrifices, the poet  and Hotar who performs the sacrifice, bringing his thoughts to  
 success—  
 it’s him that you come near; you pursue his rite. Seeking us, come here to  our songs and our good thinking.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vīthó adhvarám exactly matches vītho adhvarám in 3d (save for the accent).
 
@@ -160,23 +160,23 @@ Here, unlike the false identity in vs. 6 just discussed, the phrases have identi
 In b the nominatives kavíḥ and hótā seem each appropriate to one part of the rest of the pāda: the poet to manmasā́dhanaḥ and the Hotar-priest to yájati. Renou’s tr., with his trademark verbosity, makes this division of labor explicit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso with sacrifices toiling brings you gifts, and worships, sage and priest, fulfilling your desire,--  
      To him do ye draw nigh and taste his sacrifice. Come well-inclined to us unto our songs and prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer euch mit Opfer dient und spendet, als weiser Hotri opfert und das Gedicht richtig durchführt, den suchet ihr auf und bekommt Lust zu seinem Opfer. Kommet zu unserer Lobrede, zu der Huldigung uns zugetan!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer euch durch Opfer eifrig wirkend huldiget, als weiser Priester euch verehrt, Gebete spricht, Zu dem erscheint ihr und geniesst den Opfertrank; kommt holdgesinnt zu unserm Liede und Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто вас двоих, стараясь, почитает жертвами,  
 Приносит жертвы как поэт, хотар, приводящий молитву к цели,  

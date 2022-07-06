@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡मसे꣡द् उ꣡प सीदत  
 दध्ने꣡द् अभि꣡ श्रिणीतन°  
 इ꣡न्दुम् इ꣡न्द्रे दधातन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दु॑म् । इन्द्रे॑ । द॒धा॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *namased* ← *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
@@ -87,41 +87,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे ऋत्विजः **नमसेत्** नमस्कारेणैव **उप** **सीदत** सोममुपगच्छत । **दध्नेत्** दध्नैव **अभि** **श्रीणीतन** अभिश्रीणीत च । **इन्द्रे** **इन्दुं** सोमं **दधातन** धत्त च ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Approach with reverence, mix (the libation) with the curds, offer the **Soma** to **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just with homage approach it. Just with curds mix it.  
 Place the drop in Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c índum índre paraphrases deváṃ devā́ya in 2c, though with a loc., not dat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With humble homage draw ye nigh; blend the libation with the curds:  
      To Indra offer Indu up.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Naht euch unter Verneigung, mischet ihn mit saurer Milch, bringet den Saft an Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Ehrfurcht setzt euch zu ihm hin, und mischt mit warmen Molken ihn, Den Indu setzt dem Indra vor.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приближайтесь же с поклонением!  
 Украшайте кислым молоком!  

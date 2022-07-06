@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ प्रेषा꣡ हेम꣡ना पूय꣡मानो  
 देवो꣡ देवे꣡भिः स꣡म् अपृक्त र꣡सम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मिते꣡व स꣡द्म पशुमा꣡न्ति हो꣡ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सु॒तः । प॒वित्र॑म् । परि॑ । ए॒ति॒ । रेभ॑न् । मि॒ताऽइ॑व । सद्म॑ । प॒शु॒ऽमन्ति॑ । होता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -122,20 +122,20 @@ genre M
 अस्य सोमस्य प्रेषा प्रेषतिर्गत्यर्थः क्विपिरूपं सावेकाचइतिविभक्तेरुदात्तत्वम् । प्रेषा प्रेरकेण हेमना हिरण्येन पूयमानः हिरण्यपाणिरभिषुणोतीति हिरण्यसम्बन्धः । तादृशः देवोदीप्यमानांशुः रसमात्मीयं देवेभिःदेवैः सह समपृक्तः सम्पर्चयति संयोजयति । पृची- सम्पर्के ततः सुतोभिषुतः सोमः रेभन् शब्दायमानःसन् पवित्रं ऊर्णास्तुकेननिर्मितं पर्येति परिगच्छति । कथमिव होता देवानामाह्वाता ऋत्विक् मितेव निर्मितान् पशुमन्ति बद्ध- पशून् सद्म सदनानि यज्ञगृहान् यथा पर्येति तद्वत् ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The shining Somabeing purified by the golden **hand** that urges it forth, brings its juice into contact with the gods; when effused it proceeds with a roar to the filter like the ministrant priest to the halls prepared (for sacrifice) containing victims.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being purified by his impulsion, his drive, the god has intermingled his  sap with the gods.  
 Pressed, he goes rasping around the filter like the Hotar around the fixed  seats provided with (sacrificial) animals.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Renou points out, init. asyá is reflexive or pseudo-reflexive, referring to Soma.
 
@@ -154,23 +154,23 @@ No obvious cohesion in this tṛca, though it ends with a clan refrain.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MADE pure by this man's urgent zeal and impulse the God hath to the Gods his juice imparted.  
      He goes, effused and singing, to the filter, like priest to measured seats supplied with cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf sein eigenes Geheiß und Betreiben geläutert hat der Gott seinen Saft mit den Göttern geteilt. Ausgepreßt umkreist er die Seihe lautredend wie der Hotri die abgesteckten Plätze mit Opfertieren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geklärt durch dieses Priesters schnellen Eifer, hat seinen Saft der Gott bescheert den Göttern; Gepresst nun geht er singend durch die Seihe, wie zu geweihtem Platz des Viehs der Priester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь по своему желанию и побуждению,  
 Бог смешал с богами (свой) сок.  

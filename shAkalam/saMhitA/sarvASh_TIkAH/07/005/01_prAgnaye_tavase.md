@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ अग्न꣡ये · तव꣡से भरध्वं  
 गि꣡रं दिवो꣡ अरत꣡ये पृथिव्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वैश्वानरो꣡ वावृधे꣡ जागृव꣡द्भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । विश्वे॑षाम् । अ॒मृता॑नाम् । उ॒पऽस्थे॑ । वै॒श्वा॒न॒रः । व॒वृ॒धे । जा॒गृ॒वत्ऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prāgnaye* ← *pra*
 - \[adverb\]
@@ -107,36 +107,36 @@ genre M
 हे स्तोतारः **तवसे** प्रवृद्धाय **दिवः** अन्तरिक्षस्य **पृथिव्याः** च अरतये गन्त्रे **अग्नये** वैश्वानरसंज्ञकायाग्नये **गिरं** स्तुतिं **प्र** **भरध्वम्** । **यः** **वैश्वानरः** विश्वनरहितोऽग्निः **विश्वेषां** सर्वेषाम् **अमृतानां** देवानाम् **उपस्थे** उपस्थाने यज्ञे जागृवद्भिः प्रबुद्धैर्देवैः सहितः सन् **ववृधे** स्तुतिभिर्हविर्भिश्च वर्धते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer praise to the strong **Agni**, traversing without hindrance heaven and earth; he who (as)**Vaiśvānara** prospers at the sacrifices of all the immortals, being associated with the awaking divinities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring forth a song to the mighty Agni, to the spoked wheel of heaven  and earth,  
 who as Vaiśvānara has grown strong in the lap of all the immortals  through the watchful (priests).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BRING forth your song of praise to mighty Agni, the speedy messenger of earth and heaven,  
      Vaisvanara, who, with those who wake, hath waxen great in the lap of all the Gods Immortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet dem starken Agni eine Lobrede dar, dem Lenker von Himmel und Erde, der als Vaisvanara im Schoße aller Unsterblichen von den wachenden Priestern großgezogen ward.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Tragt eurem starken Agni vor ein Loblied, dem schnellen Diener Himmels und der Erde, Der in dem Schoosse aller ew'gen Götter, der Männerhort, durch wache Priester aufwuchs.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принесите Агни могучему  
 Хвалебную песнь, посланнику (?) неба и земли,  

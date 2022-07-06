@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ पाहि प्रत्न꣡था म꣡न्दतु त्वा  
 श्रुधि꣡ ब्र꣡ह्म वावृध꣡स्वोत꣡ गीर्भिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जहि꣡ श꣡त्रूँर् अभि꣡ गा꣡ इन्द्र तृन्धि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ॒विः । सूर्य॑म् । कृ॒णु॒हि । पी॒पि॒हि । इषः॑ । ज॒हि । शत्रू॑न् । अ॒भि । गाः । इ॒न्द्र॒ । तृ॒न्धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -139,21 +139,21 @@ genre M
 हे इन्द्र त्वं **प्रत्नथा** प्रत्नान् पुराणान् सोमान् यथापिबः तथा **एव** एवम् इममस्मदीयं सोमं **पाहि** पिब । स च सोमस्त्वया पीतः सन् **त्वा** त्वां **मन्दतु** मदयतु । **ब्रह्म** अस्माभिः कृतं स्तोत्रं **श्रुधि** शृणु । **उत** अपि च **गीर्भिः** स्तुतिरूपाभिर्वाग्भिः **ववृधस्व** त्वं वर्धस्व । अपि च **सूर्यं** सर्वस्य प्रेरकं देवम् **आविः** कृणुहि आविष्कुरु । वयं सूर्यं यथा पश्येम तथा कुर्वित्यर्थः । **इषः** अन्नानि च **पीपिहि** अस्मभ्यं प्यायय" । **शत्रून्** अस्मत्सपत्नान् **जहि** नाशय । हे **इन्द्र** त्वं पणिभिरपहृताः **गाः** **अभि** **तृन्धि** प्रकाशय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink it as of old, and may it exhilarate ou; hear our prayer, and be exalted by our praises; make the sun visible, nourish us with food, destroy our enemies, rescue the cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink it in just this way, as of old. Let it exhilarate you. Hear our sacred  formulation, and grow strong through our songs.  
 Disclose the sun, swell refreshments, and smash rivals. Indra, drill  
 through to the cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “drink!” sequence is brought to an end with a summary evā́in 3a. The verse continues with a series of 7 choppy imperatival clauses, all but the first (mándatu tvā) with Indra as subj., which balance the choppy nominal relative clauses of vs. 2. The last of these clauses is the third iteration of abhí √tṛd, with which we began.
 
@@ -174,23 +174,23 @@ These first three vss. form something of a unity. Each begins with a “drink!�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink as of old, and let the draught delight thee. hear thou our prayer and let our songs exalt thee.  
      Make the Sun visible, make food abundant, slaughter the foes, pierce through and free the cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So trink wie früher; er soll dich berauschen, höre die feierliche Rede und erbaue dich an den Lobesworten! Bring die Sonne zum Vorschein, laß die Speisegenüsse anschwellen. Erschlag die Feinde, schlag Rinder heraus, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So trink, er mög' nach alter Art erfreun dich, Gebet vernimm und labe dich an Liedern; Mach offenbar die Sonne, fett die Tränke, die Feinde tödte, Indra, lös die Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей так, как прежде! Пусть опьянит он тебя!  
 Услышь молитву и усилься от хвалебных песен!  

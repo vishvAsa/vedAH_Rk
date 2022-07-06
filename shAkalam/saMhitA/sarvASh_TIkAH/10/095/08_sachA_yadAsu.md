@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡चा य꣡द् आसु ज꣡हतीषु अ꣡त्कम्  
 अ꣡मानुषीषु मा꣡नुषो निषे꣡वे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ अत्रसन् रथस्पृ꣡शो न꣡ अ꣡श्वाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 अप॑ । स्म॒ । मत् । त॒रस॑न्ती । न । भु॒ज्युः । ताः । अ॒त्र॒स॒न् । र॒थ॒ऽस्पृशः॑ । न । अश्वाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sacā*
 - \[adverb\]
@@ -124,36 +124,36 @@ genre D
 इदमादित्रीण्यैळवाक्यानि । तत्रादितो द्वाभ्यामुर्वशीमन्याश्च सह स्तौति । **यत्** यदा **सचा** सहायभूतः पुरूरवाः **अत्कं** स्वकीयं रूपम् । अत्क इति रूपनाम। **जहतीषु** परित्यजन्तीषु **अमानुषीषु** देवताभूतास्वप्सरःसु मानुषः सन् **निषेवे** अभिमुखं गच्छति तदानीं **ताः** अप्सरसः **मत्** मत्तः **अप** अपसृत्य **अत्रसन्**। त्रसतिर्गतिकर्मा । गच्छन्ति । पलायने दृष्टान्तः । **तरसन्ती** **भुज्युः** **न**। तरसन्नाम मृगः । तस्य स्त्री भुज्युर्भोगसाधनभूता स्त्री मृगी । सा यथा व्याधाद्भीता पलायत्ते । किंच **रथस्पृशो** **नाश्वाः** रथे नियुक्ता अश्वा इव। यथा ते पलायन्ते तद्वत्पलायन्त इति । उर्वश्यानेकाभिरस्माभिः सह भोगमनुभुक्तवानसीयुक्तः प्रत्याचष्टे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Purūravā**). When, becoming their companion, (Purūravā) the mortal associated with theseimmortal (nymphs) who had abandoned their bodies, they fled from me like a timid doe, like horses harnessed toa chariot.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Purūravas:] “When I, a human, drew near to those nonhuman women  when they were taking off their robes,  
 like a shy antelope they shied away from me, like horses that have  brushed against a chariot.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When I, a mortal, wooed to mine embraces these heavenly nymphs who laid aside their raiment,  
      Like a scared snake they fled from me in terror, like chariot horses when the car has touched them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ich Menschenskind mich bei diesen übermenschlichen Frauen anfreunden wollte, die ihr Gewand abgelegt haben, da scheuten sie vor mir wie eine brünstige Gazelle, wie Pferde, die an den Wagen stoßen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ich, der Mensch, jene übermenschlichen Weiber, die ihr Gewand fallen liessen, mit meinen Armen umschlang, da bebten sie vor mir zurück wie eine bebende Schlange, wie Rosse, die gegen den Wagen ausschlagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

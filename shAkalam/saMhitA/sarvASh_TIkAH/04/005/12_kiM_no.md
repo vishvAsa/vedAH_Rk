@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 किं꣡ नो अस्य꣡ द्र꣡विणं क꣡द् ध र꣡त्नं  
 वि꣡ नो वोचो जातवेदश् चिकित्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रे꣡कु पदं꣡ न꣡ निदाना꣡ अ꣡गन्म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 गुहा॑ । अध्व॑नः । प॒र॒मम् । यत् । नः॒ । अ॒स्य । रेकु॑ । प॒दम् । न । नि॒दा॒नाः । अग॑न्म ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
@@ -144,42 +144,42 @@ genre M
 पूर्वमन्त्रेण यस्य धनस्य अग्निस्वामित्वमुक्तम् **अस्य** धनस्य **किं** **द्रविणं** किं साधनभूतं **नः** अस्मभ्यं दातव्यं धनमस्ति । **कद्ध** **रत्नं** किं च रमणीयं हितकरं धनमस्ति । तद्धनं हे जातवेदः जातधनाग्ने **चिकित्वान्** चेतनावानभिज्ञस्त्वं **नः** अस्मभ्यं **वि** **वोचः** विब्रूहि । यद्वा । किं दातव्यं द्रविणमस्ति । अस्य द्रविणराशेः कद्ध रत्नमिति वा योज्यम् । **अस्य** **अध्वनः** धनप्राप्तिमार्गस्य **यत्** **गुहा** **गुहायां** निहितं गूढं **परमम्** उत्कृष्टं प्राप्तव्यमस्ति तदपि **नः** अस्मभ्यं विवोचः । वयं **रेकु** रिक्तं **पदं** गन्तव्यं स्थानं गृहादिकं **निदानाः** अन्यैर्निन्द्यमानाः॥ कर्मणि कर्तृप्रत्ययः॥ **न** **अगन्म** न प्राप्नुमः ॥  का मर्यादा वयुना कई वाममच्छा गमेम रघवो न वाजम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What is the value of this (wealth) to us? what is its advantage? inform us, **Jātavedas**, for you know; (tell us) what is the best (course) for us on this secret path, so that we may follow unreproached the direct road.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Is some of this wealth for us? What is the treasure? As the perceptive  one, Jātavedas, you have announced to us  
 in secret the highest (track/footstep) of this (ritual) road of ours, on  which we have gone, like the spurned going on an empty track.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What is our wealth therefrom, and what our treasure? Tell us O Jatavedas, for thou  
      knowest,  
      What is our best course in this secret passage: we, unreproached, have reached a t)lace far distant.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Which of this wealth is ours, what treasure? Mayst thou who knowest it declare to us (that treasure), O Gâtavedas! What is the highest (aim) of this our way, is hidden. We have not come scolding to an empty (?) 1 place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was wird uns von diesem Reichtum, was ist das Kleinod? Beantworte uns das, Jatavedas, als Wissender, da das ferne Ende dieses unseres Weges im Verborgenen ist, ob wir als die Getadelten gleichsam die falsche Fährte gegangen sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Gut davon und welch Geschenk uns sein soll, das künd' uns, der du's weisst, o Wesenkenner; zum letzten Ziel des Weges sind wir heimlich gekommen wie zu leerem Ort, verhöhnet (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что (будет) нам из его богатства? Какое сокровище?  
 Провозгласи нам (это), о Джатаведас, как знаток!  

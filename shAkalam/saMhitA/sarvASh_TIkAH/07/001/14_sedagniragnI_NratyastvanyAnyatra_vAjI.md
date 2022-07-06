@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 से꣡द् अग्नि꣡र् अग्नीँ꣡र् अ꣡ति अस्तु अन्या꣡न्  
 य꣡त्र वाजी꣡ त꣡नयो वीळु꣡पाणिः  
 सह꣡स्रपाथा अक्ष꣡रा समे꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 स॒हस्र॑ऽपाथाः । अ॒क्षरा॑ । स॒म्ऽएति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sed* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -111,36 +111,36 @@ genre M
 **स** **इत्** स एव **अग्निः** आहवनीयादिरस्मदीयः **अन्यान्** इतरान् अन्यदीयान् **अग्नीन्** **अत्यस्तु** अतिभवतु । **यत्र** यस्मिन्नग्नौ **वाजी** अशनवान् बलवान् वा **वीळुपाणिः** दृढहस्तः । ‘वीळु च्यौत्नम्' इति बलनामसु पाठात् । **सहस्रपाथाः** बह्वन्नो बहुस्थानो वा बहूदको वा **तनयः** अस्मत्पुत्रः **अक्षरा** अक्षरेण क्षयरहितेन स्तोत्रेण **समेति** सम्यक् परिचरन्नेति । समर्थपुत्रवत एवाग्निः अन्यदीयानग्नीनभिभवतीति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that fire (kindled by me) surpass all other fires, at which a vigorous son, firm-handed, possessing athousand means (of living), co-operates in imperishable (praise).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this very Agni be superior to other fires, here where there gather a  prizewinning horse, a strong-handed lineage,  
 and the syllable [/the inexhaustible cow] with a thousand cattle-shelters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this same fire of mine surpass all others, this fire where offspring, vigorous and firm-handed,  
      Wins, on a thousand paths, what ne'er shall perish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Agni soll die anderen Agni´s übertreffen, bei dem ein sieghafter leiblicher Sohn mit starker Hand und die tausendfache Nahrung bringende Rede sich vereinigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die andern Feuer übertreff das Feuer, wo gabenreich der Stamm mit starken Händen Auf tausend Pfaden ew'ges Gut erreichet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот Агни пусть превзойдет других Агни,  
 (Тот,) в котором сходятся победоносный продолжающий род (сын)  

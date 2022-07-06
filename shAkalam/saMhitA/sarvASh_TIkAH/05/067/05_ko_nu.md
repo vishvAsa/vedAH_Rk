@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ नु꣡ वाम् मित्र अ꣡स्तुतो  
 व꣡रुणो वा तनू꣡ना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡त्रिभ्य ए꣡षते मतिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तत् । सु । वा॒म् । आ । ई॒ष॒ते॒ । म॒तिः । अत्रि॑ऽभ्यः । आ । ई॒ष॒ते॒ । म॒तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -116,36 +116,36 @@ genre M
 हे **मित्र** **वां** युवयोर्मध्ये त्वं च **वरुणो** **वा** **को** नु **अस्तुतः** । सर्वेरस्तूयमानः कोऽस्ति । उभावपि स्तुत्यावित्यर्थः । **तनूनाम्** इति तृतीयार्थे षष्ठी । तनुभिः स्तुतिभिः अस्तुत इति संबन्धः ॥ अन्न मित्रशब्देन मित्रस्यैकस्यैव संबोधनं ‘वरुणेळास्वन्तः ' (  ऋ. सं. ५. ६२. ६ ) इत्यत्रेवात्र द्विवचनसूचकस्याकारस्य अनाम्नानात्। लोकेषु बहुषु संनिहितेषु एकमेव संबोध्य युवयोरिदं युष्माकमिदमिति प्रयुञ्जते ॥ **तत्** तस्मात् यस्मात्सर्वे स्तुवन्ति तस्मात् । तनूनामित्येतत् व्यवहितमप्युत्तरत्र वा योज्यम् । तनूनाम् अल्पमतीनामस्माकं **मतिः** स्तुतिः **वां** युवां सुष्ठु **एषते** अभिगच्छति । **अत्रिभ्यः** अत्रिगोत्रेभ्योऽस्मभ्यम् अस्मदीयमतिः **एषते** । आदरार्थं पुनर्वचनम् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Which of you, **Mitra** and **Varuṇa**, has not been celebrated in (our) praise, for therefore do our thoughts tend towards you; the thoughts of the lineage of **Atri** tend towards you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now which of you two, (which) of (all your) forms, o Mitra—or (is it)  Varuṇa?—is not praised?  
 Thus our thought hastens to you two; from the Atris a thought hastens.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Which of your persons, Varuna or Mitra, merits not our praise?  
      Therefore our thought is turned to you, the Atris' thought is turned to you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer von euch ist noch ungepriesen, o Mitra, oder ist es Varuna unter euren Personen? Darum wendet sich das Gedicht gerade an euch, wendet sich das Gedicht von Seiten der Atri´s an euch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer von euch, Mitra, Varuna, ist an sich selbst nicht lobenswerth? Drum dringet zu euch das Gebet, von Atrisöhnen das Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто же из вас двоих, о Митра,  
 Или (может быть это) Варуна, не был нами прославлен?  

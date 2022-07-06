@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ घा व꣡सुर् नि꣡ यमते  
 दानं꣡ वा꣡जस्य गो꣡मतः  
 य꣡त् सीम् उ꣡प श्र꣡वद् गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत् । सी॒म् । उप॑ । श्रव॑त् । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -91,19 +91,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वसुः** वासयिता स इन्द्रः **गोमतः** बहुभिर्गोभिर्युक्तस्य **वाजस्य** अन्नस्य बलस्य वा **दानं** प्रदानं **न** **घ** न खलु **नि** **यमते** नियच्छति उपरतं करोति । **यत्** यदि **सीम्** इमाः **गिरः** अस्मदीयाः स्तुतीः **उप** **श्रवत्** उपशृणुयात् । स्तोत्रश्रवणे सति सर्वदा ददातीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The giver of dwellings verily withholds not the gift of food conjoined with cattle, when he hears our praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The good one will not hold back his gift of a prize of cattle when he will hear these songs.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ This tṛca concerns itself with cows, picking up gómadbhir gopate from the end
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Excellent, withholdeth not his gift of power and wealth in kine,  
      When he hath listened to our songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der gütige wird fürwahr die Gabe des rinderreichen Lohnes nicht vorenthalten, wenn er auf die Lobreden hören wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht hält der herrliche zurück die Gabe rinderreichen Guts, Sobald er diese Lieder hört.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хороший не удержит, конечно,  
 Дара в виде награды из коров,  

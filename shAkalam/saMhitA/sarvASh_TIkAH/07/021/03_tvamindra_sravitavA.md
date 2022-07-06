@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् इन्द्र स्र꣡वितवा꣡ अप꣡स् कः  
 प꣡रिष्ठिता अ꣡हिना शूर पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रे꣡जन्ते वि꣡श्वा कृत्रि꣡माणि भीषा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वत् । वा॒व॒क्रे॒ । र॒थ्यः॑ । न । धेनाः॑ । रेज॑न्ते । विश्वा॑ । कृ॒त्रिमा॑णि । भी॒षा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -121,36 +121,36 @@ genre M
 हे **शूर** **इन्द्र** **त्वम्** **अहिना** वृत्रेण **परिष्ठिताः** आक्रान्ताः **पूर्वीः** बह्वीः **अपः** उदकानि **स्रवितवै** स्रवितुं **कः** अकार्षीः । **धेनाः** नद्यश्च **त्वत्** त्वत्तो हेतोः **रथ्यो** **न** रथिन इव **वावक्रे** निर्गच्छन्ति । ‘वकि कौटिल्ये' इति धातुः । **विश्वा** विश्वानि **कृत्रिमणि** भुवनानि च । **भीषा** त्वत्तो भीत्या **रेजन्ते** कम्पन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, hero, have enabled the many waters arrested by Ahi to flow; by you the rivers rushed forth likecharioteers; all created worlds trembled through fear of you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, have made the waters flow, the many waters hemmed around  by the serpent, o hero.  
 The nourishing streams have twisted away from you like charioteers  (maneuvering). All the finely made (fortifications) tremble with fear.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, thou settest free the many waters that were encompassed, Hero, by the Dragon.  
      Down rolled, as if on chariots borne, the rivers: through fear of thee all things created tremble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Indra ließest die Gewässer fließen, die vielen vom Drachen umlagerten, o Held. Vor dir wichen die Ströme aus wie Wagenlenker. Alle künstlichen Burgen bebten aus Furcht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du liessest, Indra, die Gewässer strömen, o Held, die vielen von der Schlang' umstellten; Sie sprangen vor dir her wie Wagenstuten, vor Schreck erzittert alles, was geschaffen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, Индра, сделал, чтобы текли воды,  
 Обильные, запруженные змеем, о герой.  

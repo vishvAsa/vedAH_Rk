@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा मही꣡ न आ꣡यसी  
 अ꣡नाधृष्टो नृ꣡पीतये  
 पू᳐꣡र् भवा शत꣡भुजिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पूः । भ॒व॒ । श॒तऽभु॑जिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -84,35 +84,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अध** अधुना हे अग्ने **अनाधृष्टः** अप्रतिधर्षणीयस्त्वं **नः** अस्माकं **नृपीतये** नृणां रक्षणार्थं **मही** महती **आयसी** अयसा निर्मिता **शतभुजिः** अत्यन्तं विस्तृता शतगुणा **पूः** पुरी । तद्रक्षासाधनभूतप्राकारादिर्वा पूरुच्यते। **भव** । यथायसा निर्मिता पुरी तद्रक्षासाधनभूतप्राकारादिर्वा शत्रुभ्यो भीतान् रक्षति तद्वद्राक्षसेभ्यो भीतानस्मान् पाहीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, who are irresistibel, be to us, for the protection of our posterity, like the vast spacious,metal-walled cities (of the **rākṣasas**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So then, o you who are unchallengeable, become for us a great metal fortress with a hundred coils to protect our men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And, irresistible, be thou a mighty iron fort to us,  
      With hundred walls for man's defence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und sei als der Unbezwingbare uns eine große eherne Burg mit hundert Ringen zum Männerschutze!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei jetzt uns eine eh'rne Burg, die gross sei, hundertfach umhegt, Unangreifbar, zum Männerschutz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И будь нам, о неукротимый,  
 Великой железной крепостью  

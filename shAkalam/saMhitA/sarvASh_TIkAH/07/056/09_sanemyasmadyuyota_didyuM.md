@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡नेमि अस्म꣡द् युयो꣡त दिद्यु꣡म्  
 मा꣡ वो दुर्मति꣡र् इह꣡ प्र꣡णङ् नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 सने॑मि । अ॒स्मत् । यु॒योत॑ । दि॒द्युम् । मा । वः॒ । दुः॒ऽम॒तिः । इ॒ह । प्रण॑क् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanemy* ← *sanemi*
 - \[adverb\]
@@ -74,35 +74,35 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 [हे मरुतः **सनेमि** पुराणं **दिद्युम्** आयुधम् **अस्मत्** अस्मत्तः **युयोत** पृथक्कुरुत । **वः** युष्मदीया **दुर्मतिः** क्रूरमतिः **इह** अस्मिन् कर्मणि **नः** अस्मान् **मा** **प्रणक्** मा व्याप्नोतु ॥]
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Withhold from us your ancient blazing (weapon) let not your displeasure light upon us at this sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Keep your missile away from us, with all its gear;  
 let your ill-will not reach us here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ever avert your blazing shaft from us, and let not your displeasure reach us here
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Haltet von uns vollständig das Geschoß fern; nicht soll uns euer Übelwollen hier treffen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von uns lasst fern sein – des Blitzes Schleuder – Nicht mag eur Zürnen – uns hier erreichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Полностью отведите от нас выстрел!  
 Да не настигнет нас здесь ваша злая воля!

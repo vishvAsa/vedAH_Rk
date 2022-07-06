@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरुं꣡ यज्ञा꣡य चक्रथुर् उलोकं꣡†  
 जन꣡यन्ता सू꣡र्यम् उषा꣡सम् अग्नि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जघ्न꣡थुर् नरा पृतना꣡जियेषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दास॑स्य । चि॒त् । वृ॒ष॒ऽशि॒प्रस्य॑ । मा॒याः । ज॒घ्नथुः॑ । न॒रा॒ । पृ॒त॒नाज्ये॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uruṃ* ← *urum* ← *uru*
 - \[noun\], accusative, singular, masculine
@@ -120,20 +120,20 @@ genre M
 हे इन्द्राविष्णू **यज्ञाय** यजमानाय **उरु** विस्तीर्णं **लोकं** स्वर्गाख्यं **चक्रथुरु** कृतवन्तौ खलु युवाम् । किं कुर्वन्तौ । सूर्यं सर्वस्य प्रेरकमादित्यम् **उषसं** तमोनिवारकमुषःकालम् अग्निं चासुरैरावृतं जनयन्तौ पुनः प्रादुर्भावयन्तौ। हे **नरा** नेताराविन्द्राविष्णू **वृषशिप्रस्य** एतत्संज्ञस्य **दासस्य** **चित्** उपक्षपयितुरसुरस्य **मायाः** **पृतनाज्येषु** संग्रामेषु **जघ्नथुः** जिहिंसथुः । युवां सूर्यादिकं जनयन्तावित्युच्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You two, **Indra** and **Viṣṇu**, have made the spacious world for the sake of sacrifice, genitive rating the sun,the dawn, **Agni**; you leaders (of rites) have baffled the devices of the slave Vṛsaśipra in the conflict of hosts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two made a wide place for the sacrifice, while you were generating  the sun, the dawn, the fire.  
 The magical wiles even of the Dāsa Vr̥ṣaśipra did you smite in the battle  drives, you two superior men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was just noted, the first pāda of this vs. is identical to I.93.6d, where Agni and Soma are the dual subjects. Indeed, the identity of the dual subjects in this vs. is left hanging throughout the vs., and the poet may have left a false trail: the last du. 2nd ps. referents were the two world halves (ródasī), addressed by Viṣṇu in 3ab.
 
@@ -148,23 +148,23 @@ introduction.), although Viṣṇu’s role in enlarging and defining cosmic spa
 As Oldenberg points out, the name of the Dāsa in c, Vṛṣaśipra, seems akin to Viśiśipra in V.45.6, whom Manu defeats (note that Manu figures in our vs. 3b) -- a connection not registered in Mayr.’s Personennamen. However, as noted in the comm. ad V.45.6, this gets us nowhere, since we know nothing further of either of these figures. More interesting is the potential relationship between these names and Śipiviṣṭa, the epithet of Viṣṇu found in the RV only in this hymn (vs. 7) and the next (VII.100.5, 6). The first member of this epithet, śipi-, looks like a Caland form of the 2nd member of the two names, śipra-, while the 2nd member, viṣṭá-, is esp. close to the 1st member of the name found in V.45.6, viśi-; vṛṣa- in our passage is a plausible reSansritization cum folk etymology of a possible MIA form *visi-, underlying viśi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye have made spacious room for sacrificing by generating Surya, Dawn, and Agni.  
      O Heroes, ye have conquered in your battles even the bull-jawed Dasa's wiles and magic.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für das Opfer habt ihr beide weiten Raum geschaffen, die ihr Sonne, Morgenrot und Agni erschufet. Ihr habt die Blendwerke, selbst des Dasa Bullengebiß, in den Kämpfen niedergeschlagen, ihr Herren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Opfer schufet weiten Raum ihr beide, die Sonne zeugend, Feuer, Morgenröthen; Ihr Männer schlugt in heissem Kampf die Listen des Dämons auch, der Lippen wie ein Stier hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы двое (, о Индра и Вишну,) создали широкий простор для жертвы,  
 Порождая солнце, утреннюю зарю (и) Агни.  

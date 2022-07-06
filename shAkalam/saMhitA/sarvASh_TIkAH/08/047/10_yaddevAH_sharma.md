@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् देवाः श꣡र्म शरणं꣡  
 य꣡द् भद्रं꣡ य꣡द् अनातुर꣡म्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M;; repeated line
 त्रि॒ऽधातु॑ । यत् । व॒रू॒थ्य॑म् । तत् । अ॒स्मासु॑ । वि । य॒न्त॒न॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -143,7 +143,7 @@ genre M;; repeated line
 हे **देवाः** आदित्याः **यत्** शर्म सुखं **शरणं** शरणीयम् । **यत्** **भद्रं** सर्वैर्भजनीयम् । **यत्** **अनातुरं** रोगरहितम् । यत् **त्रिधातु** त्रिगुणम् । **यद्वरूथ्यम्** । वरूथं गृहम् । तदर्हम् । **तत्** उक्तगुणकं शर्म **अस्मासु** **वि** **यन्तन** वियच्छत ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,35 +154,35 @@ genre M;; repeated line
 Threefold: tridhātu =protecing against cold, heat and wind or wet (RV 8.18.21, trivarūtha); or, simply three elements
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That sheltering shelter, o gods, beneficial and without damage,  
 providing threefold defense—spread that out over us.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have not rendered the four nominal yád clauses, the last three of which merely introduce further adjectival qualifiers of śárma. The configuration is perilously close to an izafe-type construction, though syntactially nominal clauses are perfectly workable.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The shelter, Gods, that is secure, auspicious, free from malady,  
      A sure protection, triply strong, even that do ye extend to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den schützenden Schirm, o Götter, den heilsamen, gesundmachenden, den dreifachen, behütenden, den spannet über uns aus! - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Schutz, o Götter, schirmend ist und heilbegabt und unversehrt, Der dreifach uns behüten kann, den reichet uns, den breitet aus; ganz unvergleichlich ist eur Schutz und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) защита, о боги, которая прибежище,  
 Которая благая, которая дает здоровье,  

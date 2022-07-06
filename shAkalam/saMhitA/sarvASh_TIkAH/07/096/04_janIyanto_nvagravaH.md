@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जनीय꣡न्तो नु꣡ अ꣡ग्रवः  
 पुत्रीय꣡न्तः सुदा꣡नवः  
 स꣡रस्वन्तं हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सर॑स्वन्तम् । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *janīyanto* ← *janīyantaḥ* ← *janīy*
 - \[verb noun\], nominative, plural
@@ -65,41 +65,41 @@ genre M
 **जनीयन्तः** । जायन्त आस्वपत्यानीति जनयो जायाः । ता इच्छन्तः **पुत्रीयन्तः** पुत्रान् कामयमानाः **सुदानवः** शोभनदानाः **अग्रवः** उपगन्तारो वयं **नु** अद्य **सरस्वन्तं** देवं **हवामहे** स्तुमहे आह्वयामहे वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desiring wives, desiring sons, liberal of donations, approaching him, now worship Sarasvat.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As bachelors in search of wives, in search of sons, possessing lovely  gifts,  
 we call upon Sarasvant.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Why Sarasvant should receive the pleas of bachelors seeking wives and sons is utterly unclear to me, and the standard tr./comm. don’t address this issue.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We call upon Sarasvan, as unmarried men who long for wives,  
      As liberal men who yearn for sons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Frauen wünschend rufen wir Ledige, Söhne wünschend, wir mit reichen Gaben den Sarasvat an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Jungfrau, die den Gatten sucht, der reiche, der sich Söhne wünscht, Sarasvat rufen alle wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стремясь получить жены, (мы,) холостые,  
 Стеремясь получить сына, (мы) с прекрасными дарами  

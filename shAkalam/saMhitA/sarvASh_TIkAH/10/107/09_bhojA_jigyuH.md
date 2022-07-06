@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भोजा꣡ जिग्युः सुरभिं꣡ यो꣡निम् अ꣡ग्रे  
 भोजा꣡ जिग्युर् वधु꣡वं या꣡ सुवा꣡साः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भोजा꣡ जिग्युर् ये꣡ अ꣡हूताः प्रय꣡न्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 भो॒जाः । जि॒ग्युः॒ । अ॒न्तः॒ऽपेय॑म् । सुरा॑याः । भो॒जाः । जि॒ग्युः॒ । ये । अहू॑ताः । प्र॒ऽयन्ति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhojā* ← *bhojāḥ* ← *bhoja*
 - \[noun\], nominative, plural, masculine
@@ -132,37 +132,37 @@ popular
 **भोजाः** दातारः **अग्रे** प्रथममेव **योनिं** क्षीरादेरुत्पत्तिस्थानं **सुरभिं** धेनुं **जिग्युः** । शत्रुभ्यो जितवन्तः ॥ ‘ जि जये। लिटि ‘ सन्लिटोर्जेः' इत्यभ्यासादुत्तरस्य कवर्गादेशः ॥ तथा **भोजाः** दातारः **वध्वं** वधूं नवोढां स्त्रीं **जिग्युः** । **या** स्त्रीः **सुवासाः** शोभनवासा अस्ति तां जिग्युः । किंच **भोजाः** शत्रूणां **सुरायाः** **अन्तःपेयम्** अन्तःपानं **जिग्युः** ॥ ‘ पा पाने'। भावे यत् । 'ईद्यति' इतीत्वम् । आर्धधातुकलक्षणो गुणः । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥ **ये** शत्रवः **अहूताः** बलाधिक्येनानाहूयमानाः **प्रयन्ति** प्रमुखमागच्छन्ति तान् **भोजाः** दक्षिणाया दातारो जनाः **जिग्युः** जयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The **Paṇis**). You have indeed come here, **Saramā**, constrained by divine power; we will make youour sister, do not return, we will share the cattle with you auspicious one.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The benefactors at first won the sweet-smelling womb; the benefactors  won a bride who is richly dressed.  
 The benefactors won the right to the inner drinking of liquor. The  
 benefactors won (against those) who come forward uninvited.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 First have the liberal gained a fragrant dwelling, and got themselves a bride in fair apparel.  
      The liberal have obtained their draught of liquor, and conquered those who, unprovoked, assailed them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gastfreien haben zuerst den duftigen Frauenschoß errungen, die Gastfreien haben die Braut errungen, die schöngekleidet ist. Die Gastfreien haben das Recht auf das Einschlürfen des Branntweins errungen; die Gastfreien tragen den Sieg davon über die, welche ungebeten erscheinen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Freigiebigen gewinnen zuerst den schönumfangenden Schoos [Wohnsitz], die Freigiebigen gewinnen die schöngekleidete Gattin, die Freigiebigen erlangen das Einschlürfen des Surā-trankes; die Freigiebigen überholen die, welche uneingeladen vor ihnen hergehen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Щедрые добыли первыми благоухающее лоно.  
 Щедрые добыли невесту, что в прекрасных одеждах.  

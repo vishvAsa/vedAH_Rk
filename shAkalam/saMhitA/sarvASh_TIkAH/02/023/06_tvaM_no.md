@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नो गोपाः꣡ पथिकृ꣡द् विचक्षण꣡स्  
 त꣡व व्रता꣡य मति꣡भिर् जरामहे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स्वा꣡ त꣡म् मर्मर्तु दुछु꣡ना ह꣡रस्वती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृह॑स्पते । यः । नः॒ । अ॒भि । ह्वरः॑ । द॒धे । स्वा । तम् । म॒र्म॒र्तु॒ । दु॒च्छुना॑ । हर॑स्वती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -124,36 +124,36 @@ genre M
 हेबृहस्पते त्वन्नोस्माकं गोपाः पालयिता पथिकृत्सन्मार्गकृच्चभवसि विचक्षणः विशेषेण द्रष्टासर्व ज्ञस्त्वं तवव्रतायत्वत्सम्बन्धिनेयज्ञाय मतिभिःस्तोत्रैःजरामहे स्तुमः जरतिःस्तुतिकर्मा यःपुमान्नोस्मा नभिअभिलक्ष्यह्वरः ह्वृकौटिल्येभावेअसुन् कौटिल्यन्दधेविदधाति तंस्वावीयादुच्छुनादुर्बुद्धिः हरस्व ती वेगवतीसती मर्मर्तु मारयतु मृङ्प्राणत्यागे अन्तर्भावितण्यर्थस्य यङ्लुकिलोटिरूपम् ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Bṛhaspati**, are our protector and the guide of (our) path; (you are) the discerner (of all things); we worship with praises for your adoration; may his own precipitate malice involve him (in destruction) who practises deceit against us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are our herdsman, creating paths and seeing afar. We are awake to  your command with our thoughts.  
 Br̥haspati, let grasping disaster, rightfully his, grind to pieces him who  sets a snare for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art our keeper, wise, preparer of our paths: we, for thy service, sing to thee with hymns of praise.  
      Brhaspati, whoever lays a snare for us, him may his evil fate, precipitate, destroy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist ein weitblickender Hirte und Wegebereiter. Zu deinem Dienste sind wir mit Liedern wach. Brihaspati, wer uns eine Falle stellt, den soll sein eigenes Unheil wutentbrannt zermalmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei du uns Hüter, Wege bahnend einsichtsvoll, wir nahen deinem Dienste mit Gebeten uns; Gebetes Herr, wer Tücke wider uns verübt, die eigne tück'sche Frevelthat zermalme den.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты наш пастух, пролагающий путь, далеко видящий.  
 Мы бодрствуем с (нашими) песнями, чтобы (следовать) твоему обету.  

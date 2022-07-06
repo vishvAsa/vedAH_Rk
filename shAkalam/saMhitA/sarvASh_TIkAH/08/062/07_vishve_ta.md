@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे त इन्द्र वीरि꣡यं  
 देवा꣡ अ꣡नु क्र꣡तुं ददुः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -33,7 +33,7 @@ genre M;; line affected by realignment;; repeated line
 भुवः॑ । विश्व॑स्य । गोऽप॑तिः । पु॒रु॒ऽस्तु॒त॒ । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -117,7 +117,7 @@ genre M;; line affected by realignment;; repeated line
 हे **इन्द्र** ते तव वीर्यं सामर्थ्यं **क्रतुं** प्रज्ञां च **अनु** अनुसृत्य **विश्वे** सर्वे देवाः **ददुः**। दधुः । धारयन्ति वीर्यं प्रज्ञा च । तव बलेन प्रज्ञया च तेऽपि बलिनः प्रज्ञावन्तश्च भवन्तीत्यर्थः । तादृशस्त्वं **गोपतिः** प्रसिद्धानां गवामुदकानां स्तुतिवचसो वा पतिः **भुवः** भवसि । विश्वस्य इत्येतत् पदान्तर्गतस्यापि गोशब्दस्य विशेषः । हे **पुरुष्टुत** बहुभिः स्तुतेन्द्र भवसीति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,35 +128,35 @@ genre M;; line affected by realignment;; repeated line
 Herdsman: **gopati** = lord of waters, lord ofhymns
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All the gods conceded heroism and resolve to you.  
 You became the herdsman of all, o you praised by many.  
 – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 úd yád … gṛhám índraś ca gánvahi “when we two, (I) and Indra , go up to his house….” (Of course all those examples involve 1st ps. exclusive, rather than inclusive as here.) The increasing emphasis in this hymn on partnership between god and human discussed in the published introduction. accounts for the explicit “both I and you” here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In strength and wisdom all the Gods, Indra, have yielded unto thee.  
      Be thou the Guard of all, O thou whom many praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Götter gestanden dir, Indra, die Heldenstärke, die Einsicht zu: Du wardst der Herr des Alls, du Vielgepriesener. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir stehen alle Götter nach an Weisheit, Indra, und an Kraft, Du bist des Alls Behüter, vielgepriesener; des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все боги уступили тебе,  
 О Индра, мужество, силу духа.  

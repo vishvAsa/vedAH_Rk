@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ न स्तुत꣡ उ꣡प वा꣡जेभिर् ऊती꣡  
 इ꣡न्द्र याहि꣡ ह꣡रिभिर् मन्दसानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आङ्गूषे꣡भिर् गृणानः꣡ सत्य꣡राधाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ति॒रः । चि॒त् । अ॒र्यः । सव॑ना । पु॒रूणि॑ । आ॒ङ्गू॒षेभिः॑ । गृ॒णा॒नः । स॒त्यऽरा॑धाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -119,43 +119,43 @@ genre M
 हे **इन्द्र** **स्तुतः** त्वं **वाजेभिः** वाजैरन्नैः सह **तिरश्चित्** प्राप्तानि । ' तिरः सत इति प्राप्तस्य' ( निरु. ३. २० ) इति यास्कः । **पुरूणि** पूर्णानि **सवना** सवनानि **नः** अस्मदीयान् यज्ञान **उप** प्रति **ऊती** ऊत्यै नोऽस्माकं रक्षणार्थं **हरिभिः** अश्वैः **आ** **याहि** आगच्छ । कीदृशः । **मन्दसानः** मोदमानः **अर्यः** स्वामी **आङ्गूषेभिः** स्तोत्रैः **गृणानः** स्तूयमानः **सत्यराधाः** सत्यधनः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Honoured with accepted (sacrificial) viands, come, **Indra**, exulting, with your steeds, to our many rites, for our protection; you who are the lord, glorified by hymns, whose wealth is truth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praised, o Indra, with your fallow bays drive here right up to us, with  prizes and with help, to find exhilaration for yourself;  
 (drive) even across the many pressings of the stranger, being hymned by  songs, as one whose benefit is real.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take mandasānáḥ in a prospective or purpose sense, like the caus.
 
 mandayádhyai in 3b, because Indra is surely not getting exhilarated while on his journey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME, lauded, unto us with powers and succours, O Indra, with thy Tawny Steeds; exulting,  
      Past even the foeman's manifold libations, glorified with our hymns, true Wealth-bestower.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gepriesen komm, Indra, mit deinen Siegesgewinnen und Gunsterweisungen zu uns her, mit den Falben, dich berauschend, an noch so vielen Trankopfern des Nebenbuhlers vorüber, in Lobgesängen gefeiert, mit echter Freigebigkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her zu uns, gepriesner, mit den schnellen zur Hülfe, Indra, lustig mit, den Füchsen, Auch durch des Feindes viele Opferspenden, durch Lobgesang erfreut, o gabenreicher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нам, восхваленный, со (своими) наградами (и) поддержками  
 Приезжай, о Индра, опьяненный (сомой), на буланых конях  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ति चिन् मन्यु꣡म् अध्रि꣡जस्  
 त्वा꣡दातम् आ꣡ पशुं꣡ ददे  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इषः꣡ सासहियान् नॄ꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 आत् । अ॒ग्ने॒ । अपृ॑णतः । अत्रिः॑ । स॒स॒ह्या॒त् । दस्यू॑न् । इ॒षः । स॒स॒ह्या॒त् । नॄन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iti*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 **इति** **चित्** इत्थं कृतप्रकारेण **मन्युं** मननसाधनं स्तोत्रम् **अध्रिजः** । अधृतम् अन्यैरग्निव्यतिरिक्तैः अधृष्यं वा जनयिता ऋषिः **त्वादातं** त्वया दातव्यं **पशुम्** **आ** **ददे** आदत्ते । आददीत वा । **आत्** अनन्तरमेव अग्नेः **अपृणतः** अददतः **दस्यून्** **अत्रिः** तद्गोत्रः **इषः** **सासह्यात्** भृशमभिभवेत् । इषः एष्टॄन् **नॄन्** विरोधिनः **सासह्यात्** । पुनरुक्तिरादरार्था ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,34 +126,34 @@ genre M
 May iṣa overcome hostile men: iṣaḥ sāsahyān nṛn: iṣaḥ = ṛṣi of the **sūkta**; or, derived from is. and being the accusative ative plural ral, may be an epithet of nṛn, encountering or opposing men
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With just these words, I take the battle-fury of Adhrij, the (sacrificial)  animal given by you.  
 Then, o Agni, Atri should overpower the Dasyus, who never give; Iṣa  should overpower men [=other sacrificers].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Such zeal hath he, resistless one: he gained the cattle given by thee.  
      Agni, may Atri overcome the Dasyus who bestow no gifts, subdue the men who give no food.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thus I have seized upon the spirit of Adhrig(?) as upon a head of cattle given by thee 1. May then Atri, O Agni, overcome the Dasyus who do not give (to the Brahmans); may Isha overcome the men (who do not give).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So habe ich die böse Absicht des Reichen vereitelt: Ich nehme das von dir geschenkte Tier in Besitz. Nun möge Atri die kargen Dasyu´s bezwingen, o Agni; möge Isa die kargen Herren bezwingen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf diese Art [oder durch dieses Lied] empfing der Unaufhaltsame Eifer und von dir geschenktes Gut; dann möge Atri, o Agni, die Geizigen bewältigen, Feinde, Güter (?) und Männer bewältigen (?)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так (развеял я) ярость богатого:  
 Я взял скот, данный тобою.  

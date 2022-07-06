@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ दर्शतश्री꣡र् अ꣡तिथिर् गृहे꣡-गृहे  
 व꣡ने-वने शिश्रिये तक्ववी꣡र् इव  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श आ꣡ क्षेति विशि꣡यो वि꣡शं-विशम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जन॑म्ऽजनम् । जन्यः॑ । न । अति॑ । म॒न्य॒ते॒ । विशः॑ । आ । क्षे॒ति॒ । वि॒श्यः॑ । विश॑म्ऽविशम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -139,36 +139,36 @@ genre M
 **दर्शतश्रीः** दर्शनीयविभूतिः **अतिथिः** अतिथिभूतः **सः** अग्निः **गृहेगृहे** यजमानानां गृहेषु **वनेवने** सर्वेषु वनेषु च शिश्रिये श्रयति । किंच **जन्यः** जनहितः सोऽग्निः **जनंजनं** सर्वं जनं **तक्वीरिव** गच्छन्निव **नाति** **मन्यते** न विसृज्य गच्छतीत्यर्थः । तदेव दर्शयति । **विश्यः** विड्भ्यो हितः सोऽग्निः **विशो** मनुष्यान् **आ** **क्षेति** अभिगच्छति । किंच **विशंविशं** सर्वा विशः प्रजा अधितिष्ठतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Of manifest glory, he resorts as a guest to every house (of his worshippers) to every forest; friendly toman, like one going to all men, he disregards them not; kind to all, he dwells among all men, (he presides ove4r”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, with beauty lovely to see, a guest in every house—in every (piece of)  wood he is set like (a bird) of swooping pursuit in the woods.  
 Belonging to the people, he does not overlook any people. Belonging to  the clan, he dwells among the clans—each and every clan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, excellent in glory, guest in every house, finds like a swift-winged bird a home in every tree.  
      Benevolent to men, he scorns no living man: Friend to the tribes of men he dwells with every tribe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von augenfälliger Schönheit, der Gast in jedem Hause, ist er in jedem Holze versteckt wie der Jäger im Walde. Jedweden Menschen verachtet der Menschenfreundliche nicht; er haust bei den Clanen, bei jedem Clane als der Clangenosse.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der wundervoll in jedem Haus als Gast erglänzt, auf jeden Baum sich wie ein schneller Vogel setzt, Der keinen Menschen je versäumt, den Menschen hold, den Häusern hold, die Häuser Haus für Haus bewohnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасный на вид, этот гость в каждом доме  
 Таится в каждом куске дерева, кА охотник (в лесу),  

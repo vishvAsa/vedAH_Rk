@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् ते पवि꣡त्रम् अर्चिव꣡द्  
 अ꣡ग्ने ते꣡न पुनीहि नः  
 ब्रह्मसवइः꣡ पुनीहि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ब्र॒ह्म॒ऽस॒वैः । पु॒नी॒हि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -97,20 +97,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **नो** ऽस्मान् **पुनीहि** ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purify us, **Agni**, with your purifying (light) which possesses the light; purify us with the effusion of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your filter of flames, Agni—with that purify us;  
 with the impulsions of sacred formulations purify us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has both physical and conceptual purifying instruments: the flame-sieve of 23 and the bráhman- also introduced in 23, which, in the cmpd brahma-savá-, also provides a transition to Savitar and his impulsions in vs. 25.
 
@@ -127,23 +127,23 @@ The pavítra is mentioned in vss. 22-25, with other, non-physical means of purif
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cleanse us with thine own cleansing power, O Agni, that is bright with flame,  
      And by libations poured to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was deine flammende Seihe ist, o Agni, mit der läutere uns, durch Eingebung feierlicher Worte läutere uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch lichtes Läutrungsnetz du hast, mit dem, o Agni, läutre uns, Mit Andachtsströmen läutre uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) пламенная цедилка, что есть у тебя,  
 О Агни, ею очисть нас!  

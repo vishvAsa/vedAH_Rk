@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ ते अस्य꣡ वृत्रहन्  
 व꣡सो व꣡स्वः पुरुस्पृ꣡हः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्या꣡म सुम्न꣡स्य अध्रिगो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 नि । नेदि॑ष्ठऽतमाः । इ॒षः । स्याम॑ । सु॒म्नस्य॑ । अ॒ध्रि॒गो॒ इत्य॑ध्रिऽगो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -97,20 +97,20 @@ genre M
 हे **वृत्रहन्** शत्रूणां हन्तः सोम **अस्य** एतादृशस्य **ते** तव स्वभूताः **वयं** स्मः । ततो हे **वसो** वासयित: **पुरुस्पृहः** बहुभिः स्पृहणीयस्य **वस्वः** वसुनः धनस्य त्वया दीयमानस्य वयं **नि** नितरां **नेदिष्ठतमाः** अत्यन्तमन्तिकतमाः स्याम । तथा **इषः** अन्नस्य किंच हे **अध्रिगो** अधृतगमन सोम सुम्नस्य सुखस्य वयमन्तिकतमाः **स्याम** भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slayer of enemies, may we by your (people); **Vasu**, (may we be) extremely near your much-coveted wealth; irresistible (**Soma**), may we be near happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we be (most nearest) to these goods of yours, coveted by many, o  good one, Vr̥tra-smasher,  
 most nearest to your refreshment and favor, o you who are not poor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On váso vásvaḥ and its relation to vs. 4, see comm. there.
 
@@ -119,23 +119,23 @@ This vs. is supposed to contain the lexeme ní √as (#ní …, syā́ma). Grass
 I suggest, quite tentatively, instead that it is a sort of pseudo-reduplication with the doubly marked splv. nédiṣṭhatama- ‘most nearest’, which it immediately precedes (#ní nédiṣṭhatamāḥ) or that it provides a further directional specification to that splv.: “down nearest.” I construe the various genitives with this splv. - though I recognize that this does not seem to be a standard usage. They are unlikely to go with syā́ma even in the absence of ní, because, as Renou points out in his n. (though he tr. flg. Grassmann and Geldner), √as + GEN generally means “être le lot de (qq’un),” which should produce “may we belong to your goods …” On adhrigo see comm. ad I.61.1, VIII.22.11.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Good Vrtra-slayer, may we be still nearest to this wealth of thine  
      Which many crave, nearest to food and happiness, Resistless One!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen an diesem deinem vielbegehrten Gute, du Guter, du Vritratöter, an dem Speisegenuß, an deiner Gunst als die Allernächsten teilhaben, du Reicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass, Guter, diesem deinem Gut, dem vielbegehrten Labetrunk, Uns deiner Huld die nächsten sein, o unhemmbarer Vritrafeind!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будем мы причастны, о убийца Вритры,  
 О благой, к твоему благу многожеланному,  

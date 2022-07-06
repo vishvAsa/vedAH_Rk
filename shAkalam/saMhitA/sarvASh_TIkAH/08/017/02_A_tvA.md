@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा ब्रह्मयु꣡जा ह꣡री  
 व꣡हताम् इन्द्र केशि꣡ना  
 उ꣡प ब्र꣡ह्माणि नः शृणु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उप॑ । ब्रह्मा॑णि । नः॒ । शृ॒णु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -92,36 +92,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **ब्रह्मयुजा** ब्रह्मणा मन्त्रेण युज्यमानौ **केशिना** केशिनौ केशवन्तौ **हरी** हरणशीलावश्वौ **त्वा** त्वाम् **आ** **वहताम्** अभिप्रापयताम् । त्वं चास्मद्यज्ञमुपेत्य **नः** अस्माकं **ब्रह्माणि** स्तोत्राणि **शृणु** स्तोत्राणि गृहाण । सम्यक् चित्ते धारय । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let your long-maned horses, **Indra**, that are yoked by prayers, bring you here, anddo you hear ourprayers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your hairy(-maned) fallow bays, yoked by sacred formulations,  convey you here, Indra.  
 Listen to our formulations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, let thy long-maned Bays, yoked by prayer, bring thee hitherward  
      Give car and listen to our prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich sollen die durch Segensworte geschirrten mähnigen Falben herfahren, o Indra; höre auf unsere Segensworte!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich fahre her das mähnige, gebetgeschirrte Füchsepaar, Hör, Indra, unsre Bitten an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть привезет тебя пара буланых коней, о Индра,  
 Запрягаемых священным словом, гривастых.  

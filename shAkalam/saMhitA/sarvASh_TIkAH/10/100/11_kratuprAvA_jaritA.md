@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्रतुप्रा꣡वा जरिता꣡ श꣡श्वताम् अ꣡व  
 इ꣡न्द्र इ꣡द् भद्रा꣡ प्र꣡मतिः सुता꣡वताम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 पू॒र्णम् । ऊधः॑ । दि॒व्यम् । यस्य॑ । सि॒क्तये॑ । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratuprāvā* ← *kratuprāvan*
 - \[noun\], nominative, singular, masculine
@@ -114,37 +114,37 @@ genre M;; repeated line
 **क्रतुप्रावा** कर्मणां पूरकः । ‘ प्रा पूरणे'। आतो मनिन्” इत्यादिना वनिप् । **जरिता** स्तोता। यजमानं साधु सोमः कृत इति स्तौति । यद्वा । **शश्वतां** सर्वेषां जरयिता **इन्द्र** **इत्** इन्द्र एव **सुतावतां** सोमवतां यजमानानाम् **अवः** रक्षकः **भद्रा** भद्रया स्तुत्या **प्रमतिः** । **यस्य** इन्द्रस्य **सिक्तये** सेकाय पानाय **ऊधः** उद्धततरं द्रोणकलशं **पूर्णं** सोमेन पूर्णं भवति स एवावः स एव प्रमतिरिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** is the fulfiller of pious acts, the glorifier of all, the guardian of the offerers of libations, theauspicious forethought, for his libation the divine pitcher is filled (with **Soma**). We long for the universal **Aditi**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The singer bringing to fulfillment his conception is a help for each and  every one; Indra himself is auspicious solicitude for those who have  
 pressed the soma,  
 whose heavenly udder is full for pouring. – We choose wholeness and  innocence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The singer fills the spirit: all mens, love hath he. Indra takes kindly care of those who pour the juice.  
      For his libation is the heavenly udder full. We ask for freedom and complete felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Sänger, der die Gedanken erfüllt, ist die Hilfe aller. Indra ist die gute Vorsehung derer, die Soma gepreßt haben, dem das himmlische Euter zum Ausgießen voll ist. - Wir erbitten Vollkommenheit von der Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Sänger, der den Geist erfüllt und allen hilft, ist Indra, und der gütig für den Opfrer sorgt, Sein Himmels-Euter ist zum Giessen angefüllt; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

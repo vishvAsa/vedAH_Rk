@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ ते दूरे꣡ परमा꣡ चिद् र꣡जांसि  
 आ꣡ तु꣡ प्र꣡ याहि हरिवो ह꣡रिभ्याम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युक्ता꣡ ग्रा꣡वाणः समिधाने꣡ अग्नउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्थि॒राय॑ । वृष्णे॑ । सव॑ना । कृ॒ता । इ॒मा । यु॒क्ताः । ग्रावा॑णः । स॒म्ऽइ॒धा॒ने । अ॒ग्नौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -143,20 +143,20 @@ genre M
 **हरिवः'** हरिद्वर्णौ अश्वौ यस्य सोऽयं हरिवानिन्द्रः । हे हरिवः **परमा** **चित्** परमाणि दूरे वर्तमानान्यपि 'रजांसि स्थानानि **ते** तव **दूरे** **न** भवन्ति । तस्मात् हरिभ्याम् उपेतस्त्वं **तु** क्षिप्रम् **आ** **प्र** **याहि** । अस्मदीयं यज्ञमभिलक्ष्यागच्छ । **स्थिराय** फलप्रदाने दृढचित्ताय अत एव 'वृष्णे कामानां वर्षित्रे तुभ्यम् **इमा** इमानि **सवना** सवनानि प्रातरादीनि **कृता** कृतानि । किंच । **अग्नौ** अहवनीये **समिधाने** आहुत्यधिकरणतया सम्यग्दीप्यमाने सति **ग्रावणः** उपलाः **युक्ताः** सोमाभिषवार्थमुद्युक्ताः । अतस्त्वं क्षिप्रमागच्छेति भावः ॥ याहि । ‘या प्रापणे इत्यस्य लोटि रूपम् । हरिवः । हरी अस्य स्त इति मतुप् । 'छन्दसीरः' इति तस्य वत्वम् । आमन्त्रितत्वान्निघातः । स्थिराय । ‘ष्ठा गतिनिवृत्तौ ' इत्यस्मात् ' अजिरशिशिर° ' इत्यादिना किरच्प्रत्ययान्तत्वेन निपातनादाकारलोपः । चित्स्वर: । सवना । ‘षुञ् अभिषवे' इत्यस्मात् अधिकरणे ‘ ल्युट् च ' इति ल्युट् । सूयते सोमो यत्रेति सवनानि प्रातरादीनि । लित्स्वरः । समिधाने । ञिइन्धी दीप्तौ ' इत्यस्य कानचि रूपम् । कित्त्वान्नकालोपः । चित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Master of tawny steeds, the remotest regions are not remote for you; then come quickly with your horses; to you the steady showerer (of benefits), these sacrifices are presented; the stones (for bruising the **Soma**) are ready, as the fire is being kindled.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even the farthest dusky realms are not at a distance for you. But drive  here with your two fallow bays, bay-horsed one.  
 It is for (you), the sturdy bull, that these pressings here were made and  the pressing stones yoked when the fire was being kindled.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/030/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -166,23 +166,23 @@ The next two vss. develop the theme sounded in pāda d of vs. 1.: Indra’s abse
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not far for thee are mid-air's loftiest regions: start hither, Lord of Bays, with thy Bay Horses.  
      Made for the Firm and Strong are these libations. The pressing-stones are set and fire is kindled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich sind selbst die entferntesten Räume nicht weit ab. Komm doch her mit den Falben, du Falbenlenker ! Für den starken Bullen sind diese Trankopfer bereitet. Die Preßsteine sind eingestellt bei entzündetem Feuer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht ferne sind dir auch die höchsten Räume, auf, Herr der Rosse, komm mit deinen Füchsen, Dem starken Stiere stehn bereit die Säfte, die Steine sind geschirrt, entzündet Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Недалеки для тебя даже отдаленные пространства:  
 Приезжай же, о обладатель буланых коней, на паре буланых коней!  

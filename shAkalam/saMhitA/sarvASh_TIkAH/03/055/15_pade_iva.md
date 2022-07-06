@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पदे꣡ इव नि꣡हिते दस्मे꣡ अन्त꣡स्  
 त꣡योर् अन्य꣡द् गुहियम् आवि꣡र् अन्य꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 स॒ध्री॒ची॒ना । प॒थ्या॑ । सा । विषू॑ची । म॒हत् । दे॒वाना॑म् । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pade* ← *pada*
 - \[noun\], nominative, dual, neuter
@@ -132,21 +132,21 @@ genre M;; repeated line
 **पदेइव** । पद्येते ज्ञायेते तत्तदसाधारणलिङ्गेनेति पदे । अहश्च रात्रिश्चेत्येते **दस्मे** सर्वैर्दर्शनीये ते  उभे **अन्तः** नभसि मध्ये **निहिते** स्थापिते इव वर्तेते । **तयोः** अहोरात्रयोः **अन्यत्** रात्रिलक्षणं **गुह्यम्** अप्रकाशमानतया गूढमिवास्ते । **अन्यत्** अहः **आविः** सूर्यप्रकाशेन प्रकटं भवति । **सधीचीना** अहोरात्रयोः परस्परमेलनरूपा **पथ्या** मार्गः । काल इत्यर्थः। **सा** **विषूची** । पुण्यकृतोऽपुण्यकृतश्च प्राप्नोतीति विषूची भवति । सर्वे जना अहोरात्रयोर्वर्तन्ते । यद्वा । पदेइव देवमनुष्यादीनां स्थानभूते द्यावापृथिव्यौ अन्तरन्तरिक्षे निहिते वर्तेते । तयोरन्यत् अन्या द्यौः गुह्यमस्माभिः अदृश्यमानतया गूढा वर्तते । अन्या पृथिवी आविः सर्वैः दृश्यमानत्वेन प्रकटा भवति। सध्रीचीनेति पूर्ववत् ॥ सध्रीचीना । सहपूर्वादञ्चतेः क्विन् । 'सहस्य सध्रिः' इति सध्र्यादेशः । ‘विभाषाञ्चेरदिक्स्त्रियाम्' इति स्वः(स्वरः) ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like two (distinguishing) impressions, they (day and night) are plural ced visible in the midst (between heaven and earth), one hidden, one manifest; the path (of both) is common, and that is universal (for good and evil) great and unequalled is the might of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like two footprints set down within the wondrous one [=Agni? ritual  ground?], the one of the two is hidden, the other visible [=Night  
 and Dawn].  
 Their pathway has a single goal, (but goes) separately. – Great is the  one and only lordship of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. seems to continue the theme of Night and Dawn. The anyád … anyád construction of pāda b echoes that in 11b, where Night and Dawn were first introduced, and in fact our pāda b, with one hidden and one visible, paraphrases 11b, with one shining and the other black, and forms a small ring.
 
@@ -167,23 +167,23 @@ The published translation is somewhat misleading, in that vápūṃṣi in 14a i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Within a wondrous place the Twain are treasured: the one is manifest, the other hidden.  
      One common pathway leads in two directions. Great is the Gods' supreme and sole dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwei Formen sind wie zwei Spuren dem Meister aufgeprägt: von diesen ist die eine verborgen, die andere offenbar. In gleicher Richtung geht ihr Weg und ist doch getrennt. -Groß ist die einzige Asuramacht der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie zwei Fusstapfen stehen dort die Schönen, verborgen eine, offenbar die andre; Der Pfad sich einend, hier und dort sich scheidend, gross ist allein der Götter Geistesfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ушас и Ночь-) словно два удивительных следа, оставленных внутри (вселенной).  
 Один из них сокрыт, другой явный.  

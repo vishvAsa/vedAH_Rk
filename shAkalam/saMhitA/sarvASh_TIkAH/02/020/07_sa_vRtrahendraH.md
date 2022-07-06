@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वृत्रहा꣡ इ꣡न्दरः+ कृष्ण꣡योनीः  
 पुरंदरो꣡ दा᳐꣡सीर् ऐरयद् वि꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सत्रा꣡ शं꣡सं य꣡जमानस्य तूतोत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अज॑नयत् । मन॑वे । क्षाम् । अ॒पः । च॒ । स॒त्रा । शंस॑म् । यज॑मानस्य । तू॒तो॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 वृत्रहावृत्रस्यहन्तापुरन्दरः शम्बरपुरान्दारयितासइन्द्रः कृष्णयोनीर्निक्रुष्टजातीःदासीरुपक्षपयित्री रासुरीःसेनाः व्यैरयत् व्यनुदत् किञ्च मनवेमनोरर्थङ्क्षाम्प्रुथिवीमपउदकानिचअजनयत् यजमानस्यस त्रामहान्तंशंसमभिलाषन्तूतोत् कामप्रदानेनपूरयतु तुव्रुद्धावितिसौत्रोधातुः शपःश्लुः तुजादित्वाद्दीर्घः यद्वा सत्रामहत् शंसंशंसनीयंशस्त्रङ्कामप्रदानेनवर्धयतु यद्वा कृष्णयोनीः कृष्णाख्येनासुरेणनिषिक्तरेत स्काः दासीर्भार्याव्यैरयत् व्यनुदत् तथामन्त्रः—यःकृष्णगर्भानिरहन्नृजिश्वनेति ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,29 +133,29 @@ Has scattered the black-sprung servile hosts: kṛṣnayonir dāsīr airyad vi, 
 **Dāsī** = upakṣapayitrī, **āsurī** **senā** (army}; another interpretation: pregnant wife of the asura named **kṛṣṇa** (yaḥ kṛṣṇāgarbhāḥ nirahanṛjiśvanā: RV 1.101.1)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Smasher of Vr̥tra, splitter of fortresses, Indra razed the Dāsa (fortresses)  with their dark wombs.  
 He gave birth to the earth and the waters for Manu. In every way he  makes the sacrificer’s laud powerful.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra theVrtra-slayer, Fort-destroyer, scattered the Dasa hosts who dwelt in darkness.  
      For men hath he created earth and waters, and ever helped the prayer of him who worships.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vritratöter Indra sprengte die dasischen Burgen, die die Schwarzen in ihrem Schoß bargen, der Burgenbrecher. Er schuf für Manu Land und Gewässer. Ganz und gar gab er der Rede des Opfernden Gewicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Vritratödter jagte weg die Hexen, der Burgzerstörer die mit schwarzem Schoosse; Dem Menschen gab er Wohnung und Gewässer, erfüllte ganz des Opferers Gebete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот Индра, убийца Вритры, взорвал (крепости)  
 Дасов, таящих в (своем) чреве черную (расу), он, проламыватель крепостей.  

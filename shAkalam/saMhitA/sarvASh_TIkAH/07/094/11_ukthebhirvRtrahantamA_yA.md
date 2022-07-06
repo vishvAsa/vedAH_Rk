@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उक्थे꣡भिर् वृत्रह꣡न्तमा  
 या꣡ मन्दाना꣡ चिद् आ꣡ गिरा꣡  
 आङ्गूषइ꣡र् आवि꣡वासतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒ङ्गू॒षैः । आ॒ऽविवा॑सतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ukthebhir* ← *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वृत्रहन्तमा** वृत्राणामावरकाणां हन्तृतमौ **मन्दाना** मोदमानौ **या** याविन्द्राग्नी **उक्थेभिः** शस्त्रैः **गिरा** **चित्** स्तुत्या च **आविवासतः** परिचर्येते । व्यत्ययेन कर्मणि कर्तृप्रत्ययः ॥ **आङ्गूषैः** आघोषैरन्यैश्च स्तोत्रैर्यावाविवासतः परिचर्येते तौ युवामागच्छतमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,36 +90,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Uttter destroyers of Vṛtra: vṛtra hantamā = āvarakāṇām hantṛtamau,pāpmānam; with prayers: aṅgūṣair = āghoṣair anyais stotraiḥ, with clamours, with other praises; or,laukikavākstomaiḥ, with praises in worldly or vernacular speech, not that of the **Veda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two best smiters of Vr̥tra who are just delighting in the solemn  speeches, in the hymn,  
 in the melodies of the one who seeks to win (them)—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is likewise a fragment, a nom. dual dvandva (vṛtrahántamā), which supports a rel. clause characterizing Indra and Agni, but no main clause. By my interpr. (and those of Geldner and Renou), this rel. cl. is nominal, with a predicated part.
 
 mandānā́. Oldenberg takes the ambig. āvívasataḥ as a dual finite verb (but cannily doesn’t tr.); this interpr. requires an anomalous meaning for the form, whereas the interpr. as a gen. sg. participle, shared by Geldner, Renou, and me, allows the form to have its usual sense (“seek to win [the gods]”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Call hither with the song and lauds those who best slay the foemen, those  
      Who take delight in hymns of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Erzfeindetöter, die sich gar sehr an den Preisliedern erfreuen, an der Lobrede, an den Gesängen des Einladenden,-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Sprüchen, die ihr Lieder liebt, die besten Feindetödter euch, Die des Gesanges ihr euch freut,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два лучших убийцы Вритры, которые  
 Очень наслаждаясь гимнами, хвалебной песнью,  

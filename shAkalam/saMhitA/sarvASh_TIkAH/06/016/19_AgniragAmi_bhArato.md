@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ग्नि꣡र् अगामि भा꣡रतो  
 वृत्रहा꣡ पुरुचे꣡तनः  
 दि꣡वोदासस्य स꣡त्पतिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दिवः॑ऽदासस्य । सत्ऽप॑तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āgnir* ← *ā*
 - \[adverb\]
@@ -89,42 +89,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयम् **अग्निः** **आ** **अगामि** । अस्माभिः स्तुतिभिरभ्यगम्यत । कीदृशः । **भारतः** हविषां भर्ता **दिवोदासस्य** एतत्संज्ञस्य राज्ञः **वृत्रहा** वृत्राणां शत्रूणां हन्ता **पुरुचेतनः** पुरूणां बहूनां चेतयिता ज्ञाता । सर्वज्ञ इत्यर्थः । **सत्पतिः** सतां यजमानानां पालयिता ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, the bearer, (of oblations), the destroyer of the enemies of Divopāsa, the cognizant of many, the protector of the good, has been brought hither (by our praises).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni has come here, the one belonging to the Bharatas,  
 obstacle-smasher, manifest to many,  
 lord of the settlements of Divodāsa.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “passive” aorist agāmi is a hapax and, in this context, a scrambling of adjacent ā́gní(r).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the Bharata, hath been sought, the Vrtra-slayer, marked of all,  
      Yea, Divodasa's Hero Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der Bharatide, ward jetzt angegangen, der vielbekannte Vritratöter, der wahre Gebieter des Divodasa.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verehrt ward Agni Bharata, der Feindetödter, viel gesehn, Des Divodasa tapfrer Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Агни, потомку Бхараты, приступили (жрецы),  
 К убийце врагов, очень приметному,  

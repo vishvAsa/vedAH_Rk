@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रे꣡द꣡म् ब्र꣡ह्म वृत्रतू꣡र्येषु आविथ  
 प्र꣡ सुन्वतः꣡ शचीपत  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 पि꣡बा सो꣡मस्य वज्रिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; line affected by realignment
 माध्य॑न्दिनस्य । सव॑नस्य । वृ॒त्र॒ऽह॒न् । अ॒ने॒द्य॒ । पिब॑ । सोम॑स्य । व॒ज्रि॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *predam* ← *pra*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M;; line affected by realignment
 हे शचीपते **इन्द्र** त्वं **वृत्रतूर्येषु** संग्रामेषु **इदं** **ब्रह्म** इमान् ब्राह्मणान् **विश्वाभिः** सर्वाभिः **ऊतिभिः** रक्षाभिः **प्र** **आविथ** प्ररक्ष । **सुन्वतः** सोमाभिषवं कुर्वतो यजमानांश्च **प्र** अविथ । अपि च हे **अनेद्य** अनिन्द्य **वज्रिवः** वज्रिन् **वृत्रहन्** **इन्द्र** **माध्यंदिनस्य** **सवनस्य** संबन्धिनं **सोमस्य** सोमं **पिब** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,14 +129,14 @@ genre M;; line affected by realignment
 Who offers you the libation: **brahma** = brāhmaṇan; O Indra, protect these **brāhmaṇas** withall your protections in combats with enemies, (protect) those who offer you the libation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You furthered this priestly formulation at the overcoming of obstacles,  furthered (the formulation) of the presser—  
 – you lord of power, Indra, with all help—at the Midday Pressing,  
 irreproachable Vr̥tra-smasher, drink of the soma, possessor of the mace.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although this hymn of the twinset of VIII.36-37 is the domain of the kṣatrā́ni ‘lordly powers’, it begins with the bráhman- that ended the last hymn and provided its key word, also echoing that verse in other ways (āvitha, sunvatáḥ).
 
@@ -147,23 +147,23 @@ There are some difficulties in distributing the words in the refrain pādas.
 Given its regular recurrence, sacīpate ‘o lord of power’ should be the first word of the refrain, but given its lack of accent it must be the last word of the non-refrain pādas. Nonetheless I have tr. it with the refrain. Also problematic is unaccented anedya, which comes at the end of a pāda already twelve syllables long and should therefore not belong to it. Oldenberg discusses but doesn’t really solve.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS prayer, and those who shed the juice, in wars with Vrtra thou holpest, Indra, Lord of Strength, with all thy succours.  
      O Vrtra-slayer, from libation poured at noon, drink of the Soma juice, thou blameless Thunderer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, du hast dieser Geistlichkeit geholfen in den Kämpfen, du den Pressenden, Indra, Herr der Kraft, mit allen Hilfen. Von dem mittäglichen Trankopfer trinke du untadeliger Vritratöter, vom Soma, du Keulenträger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Feindeskämpfen hast du dies Gebet erfüllt, o Herr der Kraft, mit allen Hülfen, Indra du; O Vritratödter von der Mittagsspende hier, vom Soma trinke, tadelloser Schleuderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты поддержал это священное слово в победоносных битвах с врагами,  
 (Ты) под(держал) выжимающего (сому), о повелитель силы,  

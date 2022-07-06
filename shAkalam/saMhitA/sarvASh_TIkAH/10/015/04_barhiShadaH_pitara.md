@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब꣡र्हिषदः पितर ऊती꣡ अर्वा꣡ग्  
 इमा꣡ वो हव्या꣡ चकृमा जुष꣡ध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था नः शं꣡ यो꣡र् अरपो꣡ दधात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ते । आ । ग॒त॒ । अव॑सा । शम्ऽत॑मेन । अथ॑ । नः॒ । शम् । योः । अ॒र॒पः । द॒धा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *barhiṣadaḥ* ← *barhiṣad*
 - \[noun\], vocative, plural, masculine
@@ -136,7 +136,7 @@ popular
 हे **बर्हिषदः** । यज्ञे सीदन्तीति बर्हिषदः । अत्रापि ‘ ये वै यज्वानस्ते पितरो बर्हिषदः' (तै.ब्रा.१.६.९) इत्यत्र श्रुतत्वाद्यागं कृत्वा प्रेत्य पितृलोकं प्राप्ता बर्हिषदः । तादृशा हे **पितरः** **अर्वाक्** अर्वाचीनानामस्माकम् **ऊती** रक्षा भवद्भिः कर्तव्येति शेषः । **वः** युष्मदर्थम् **इमा** **हव्या** एतानि हवींषि **चकृम** अतस्तानि **जुषध्वम्** । **ते** हविर्जुष्टवन्तो यूयं **शंतमेन** सुखतमेन **अवसा** रक्षणेन निमित्तभूतेन **आ** **गत** आभिमुख्येनास्मान् प्राप्नुत । **अथ** अनन्तरं **नः** अस्मभ्यं **शं** सुखं **योः** दुःखवियोगम् **अरपः** पापरहितं च **दधात** दत्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ popular
 With your most felicitous protection: **avasā** śantamena = satisfied by most excellent food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You forefathers who sit on the ritual grass inclined this way with your  aid, we have made these oblations for you. Enjoy!  
 Come here with your most luck-bringing help. Then provide for us luck  and lifetime without flaw.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fathers who sit on sacred grass, come, help us: these offerings have we made for you; accept them.  
      So come to us with most auspicious favour, and give us health and strength without a trouble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Väter, die ihr auf dem Barhis sitzet, kommt mit eurer Gunst näher! Diese Spenden haben wir für euch bereitet, genießet! Kommet her mit heilvoller Gnade und schaffet uns Heil und Wohlsein ohne Gebreste!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Väter, auf der Streu, mit Hülfe naht euch; hier haben wir euch Trank gebraut, geniesst ihn; Mit segensreichster Hülfe kommet her nun und schenkt uns Heil und unversehrten Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О отцы, сидящие на жертвенной соломе, с помощью (придите) к нам!  
 Эти жертвенные напитки приготовила для вас – наслаждайтесь!  

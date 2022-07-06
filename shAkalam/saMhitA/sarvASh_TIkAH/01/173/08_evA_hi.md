@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ हि꣡ ते शं꣡ स꣡वना समुद्र꣡  
 आ꣡पो य꣡त् त आसु꣡ म꣡दन्ति देवीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सूरीं꣡श् चिद् य꣡दि धिषा꣡ वे꣡षि ज꣡नान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑ । ते॒ । अनु॑ । जोष्या॑ । भू॒त् । गौः । सू॒रीन् । चि॒त् । यदि॑ । धि॒षा । वेषि॑ । जना॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -142,21 +142,21 @@ genre M
 हे इन्द्र **एवा** **हि** एवं हि सति **ते** तव संबन्धीनि सवनानि । सूयते सोमोऽत्रेति सवनानि सोमयागाः । ते **शं** सुखकरा भवन्ति । कथं सति । **यत्** यदि **देवीः** देव्यः द्योतमानाः **आपः** समुद्रे उदकसमुद्रवणापादानभूतेऽन्तरिक्षे **आसु** प्रजासु निमित्तभूतासु **ते** त्वां **मदन्ति** मादयन्ति ॥ अन्तर्भावितण्यर्थोऽयम् ॥ यदा प्राण्युपकारार्थं वर्षणाय त्वां प्रेरयन्ति वृष्ट्युदकानि तदा खलु तव सोमयागाः सुखकरा भवन्ति । यज्ञसाधनवृष्टिप्रदानेन यागान्निर्वर्तयेत्यर्थः । किंच हे इन्द्र **विश्वा** **गौः** सर्वापि स्तोत्रशस्त्ररूपा वाक् **ते** त्वाम् अनुक्रमेण जोष्या जोषणार्हा प्रीणयित्री **भूत्** भवति । कदा । **यदि** **सूरींश्चित्** स्तोत्रादिप्रेरयितॄन् स्तोतृजनानपि **धिषा** धिषणया प्रज्ञया वृष्टिप्रदानरूपेण कर्मणा वा **वेषि** कामयसे तदा सर्वापि स्तुतिस्त्वदर्था भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The libations (offered) to you are, verily, the cause of happiness, since the divine waters (effused) in the firmament for the benefit of mankind afford you satisfaction. All praise, **Indra**, is acceptable to you, and you reward with understanding those who praise you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus, because the soma-pressings in the sea [=mixing of soma with  water] are luck for you, when the waters, the goddesses, reach  
 exhilaration among these (cows) [=mixing with milk] for you,  
 every cow will yield to you to be enjoyed, if you pursue the people, also  the patrons, with holy fervor—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner’s assessment that the vs. refers to the mixing of soma with water (a) and milk (b) seems correct. As often in soma contexts, the rhetoric is high-flown and the real-world references indirect.
 
@@ -171,23 +171,23 @@ Note that the idiom ánu √mad ‘applaud’ found in anumádanti in 7d is brok
 My tr. of dhiṣā́follows that of Pinault given orally at the Vedic Workshop at Univ. Texas, 2007.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Libations in the sea to thee are pleasant, when thy divine Floods come to cheer these people.  
      To thee the Cow is sum of all things grateful when with the wish thou seekest men and princes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So seien dir denn die Somatränke in der Wasserflut recht, wenn deine göttlichen Gewässer unter diesen Milchkühen schwelgen. Jede zu befriedigende Kuh steht für dich bereit, wenn du die Menschen wie Sänger die freigebigen Herren mit deinem Tatendrang aufsuchst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn recht zum Heil sind dir im Meer die Tränke, wenn dir in ihnen Himmelswasser sprudeln, Ein jeder Milchtrank ist dir ja willkommen, wenn du mit Lust zu Männern kommst und Fürsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так (будут) же тебе на благо выжимания (сомы) в океане,  
 Когда божественные воды радуются среди этих (потоков молока)!  

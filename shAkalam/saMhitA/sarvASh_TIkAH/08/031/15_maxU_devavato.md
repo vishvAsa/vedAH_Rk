@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मक्षू꣡ देव꣡वतो र꣡थः  
 शू꣡रो वा पृत्सु꣡ का꣡सु चित्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अभी꣡द् अ꣡यज्वनो भुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 दे॒वाना॑म् । यः । इत् । मनः॑ । यज॑मानः । इय॑क्षति । अ॒भि । इत् । अय॑ज्वनः । भु॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *makṣū*
 - \[adverb\]
@@ -115,37 +115,37 @@ genre M
 **देववतः** । देवा यष्टव्यतया यस्य सन्ति स देववान् । तस्य **रथः** देवैर्दत्त: **मक्षु** शीघ्रं दुर्गमं मार्गमपि प्रविशति । सर्वत्राप्रतिहतगतिरित्यर्थः । तत्र दृष्टान्तः । **वा** इतिशब्दोऽत्र उपमानवाची । यथा **शूरः** योद्धा **कासु** **चित्** **पृत्सु** पृतनासु तद्वत् । **यः** **देवानाम्** । **इत्** अवधारणे । **मनः** एव **इयक्षति** स्तुतिभिः पूजयितुमिच्छति । यद्वा । देवानां मन इयक्षति हविर्भिर्यष्टुमिच्छति । सः **यजमानः** **अयज्वनः** यागमकुर्वतो जनान् **अभि** **भुवत्** स्वसामर्थ्येनाभिभवत्येव ॥ इयक्षति । ‘ यक्ष पूजायाम् '। यज देवपूजादिषु । उभयोरभ्यासस्य संप्रसारणं छान्दसम् । पूर्वस्य  ‘ स्कोः संयोगाद्योः ' इति ककारलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The chariot of the devout worshipper quickly (prevails), as the hero (prevails) in all combats whatever;the celebrator of the sacrifice, who desires to propitiate the mind of the gods, overcomes those who are nosacrificers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Quick is the chariot of the one with god on his side, or a champion in  battles of every sort.  
 – Just he who, as sacrificer, seeks to attain the mind of the gods will  
 surpass non-sacrificers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As in all frays the hero, so swift moves his car whom Gods attend.  
      The man who, sacrificing, strives to win the heart of Deities will conquer those who worship not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schnell ist der Wagen des Göttergünstlings oder der Held in jedweden Kämpfen. Wer opfernd das Herz der Götter gewinnen will, der wird über die Opferlosen obsiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Frommen Wagen wie ein Held eilt schnell voran in jedem Kampf; Wer recht der Götter Sinn verehrt, und Opfer darzubringen strebt, der wird der Opferlosen Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У любимца богов колесница быстрая,  
 Как герой в любых сражениях.  

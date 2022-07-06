@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रस्य हा꣡र्दि सोमधा꣡नम् आ꣡ विश  
 समुद्र꣡म् इव सि꣡न्धवः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 दिवो꣡ विष्टम्भ꣡ उत्तमः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 जुष्टः॑ । मि॒त्राय॑ । वरु॑णाय । वा॒यवे॑ । दि॒वः । वि॒ष्ट॒म्भः । उ॒त्ऽत॒मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
@@ -111,14 +111,14 @@ genre M
 हे सोम त्वम् **इन्द्रस्य** **हार्दि**, हृदयंगमं हृदयभूतं वा **सोमधानम्** । सोमो निधीयते अस्मिन्निति सोमधानः कलशः । तम् **आ** **विश** प्रविश । तत्र दृष्टान्तः । **समुद्रमिव** यथा समुद्रं **सिन्धवः** नद्यः प्रविशन्ति तद्वत्। कीदृशस्त्वम् । **मित्राय** वरुणाय **वायवे** एतेभ्यः **जुष्टः** पर्याप्तः **दिवः** द्युलोकस्य विष्टम्भः विष्टम्भयिता स्थापयिता **उत्तमः** सर्वेषामुत्कृष्टतमस्त्वं कलशमाविश ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, enter the Somadhāna, **Indra**'s heart, as the rivers (enter) the sea agreeable to **Mitra**, **Varuṇa** and **Vāyu**, the chief stay of heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enter into the heart of Indra, the repository of soma, like rivers into  the sea,  
 being pleasing to Mitra, to Varuṇa, to Vāyu, the highest prop of  
@@ -126,7 +126,7 @@ heaven.
 Hymns in Assorted Meters: 109–114
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -136,23 +136,23 @@ No particular signs of cohesion, but see the ring compositional elements connect
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Enter the Soma-holder, even Indra's heart, as rivers pass into the sea,  
      Acceptable to Mitra, Vayu, Varuna, the noblest Pillar of the heavens.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh ein in Indra´s somafassendes Herz wie die Ströme in das Meer, dem Mitra, Varuna, Vayu genehm, als höchste Stütze des Himmels!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Indra's Leib, der Soma aufnimmt, gehe ein, so wie die Ströme in das Meer, Erwünscht dem Vaju, Mitra und dem Varuna, des Himmels höchster Pfeiler du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Войди в сердце Индры – во вместилище сомы,  
 Как реки в океан,  

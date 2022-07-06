@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡नः स꣡म् अव्यद् वि꣡ततं व꣡यन्ती  
 मध्या꣡ क꣡र्तोर् नि꣡ अधाच् छ꣡क्म धी꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अर꣡मतिः सविता꣡ देव꣡ आ꣡गात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उत् । स॒म्ऽहाय॑ । अ॒स्था॒त् । वि । ऋ॒तून् । अ॒द॒र्धः॒ । अ॒रम॑तिः । स॒वि॒ता । दे॒वः । आ । अ॒गा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punaḥ* ← *punar*
 - \[adverb\]
@@ -125,14 +125,14 @@ genre M
 वयन्ती वस्त्रंवयन्तीनारीव रात्रिः विततमालोकं पुनःसमव्यत् संवेष्टयते पुनःशब्दः पूर्वेद्युर प्येवमकार्षीदितिद्योतयति धीरः प्राज्ञोपि सर्वोलोकः कर्तोः क्रियमाणङ्कर्म कर्तोः कर्तवाइति तन्नामसुपाठात् शक्म कर्तुंशक्यमपि मध्या मध्ये उपक्रान्तं कर्म अपरिसमाप्येत्यर्थः न्यधात् निहितवान् सवितर्युपरतइतिशेषः सर्वोलोकः संहायशय्यांविहायउदस्थात् अविशिष्टङ्कर्मकर्तुं पुन रुत्तिष्ठति सम्पूर्वोजहातिःशय्यापरित्यागेवर्तते तथाचश्रूयते—कलिः शयानोभवतिसञ्जिहानस्तुद्रापर इति । सवितासर्वस्यप्रसवितासूर्यः अरमतिः अनुपरतिःदेवः द्योतमानः आगात् आगच्छति उदे तीतियावत् ऋतून् कालविशेषांश्चव्यदर्दः विदारयति ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “She, (Night), enwraps the extended (world) like (a woman) weaving (a garment); the prudent man lays aside the work he is able (to execute) in the midst (of his labour); but all spring up (from repose) when the divine, unwearied Sun, who has divided the seasons, again appears.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Once again the weaver has wrapped up what was stretched out; in the  middle of his work the mindful (worker) has set down his craft.  
 Having pulled himself together, he [=Savitar] has stood up. He has  
@@ -140,7 +140,7 @@ always kept the seasons separate. As Proper Thinking, god Savitar
 has come.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though Sāyaṇa., Oldenberg, and Renou identify the weaver as Night, this seems unlikely, if the hymn really depicts the evening. More likely a real human weaver, finishing her daily work.
 
@@ -151,23 +151,23 @@ On the semantic and functional nuance of the intensive adardhar, see Schaeffer (
 Pāda-initial arámatiḥ ‘Proper Thinking’ echoes pāda-initial árīramat (3b) (see also ramate 2d), though they are of course etymologically unrelated. I now think a pun is meant here, with arámati- analyzed as a privative a-rámati- and I would emend the tr. to “As Proper Thinking (/unresting) …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What was spread out she weaves afresh, re-weaving: the skilful leaves his labour half-completed.  
      He hath arisen from rest, and parted seasons: Savitar hath approached, God, holy-minded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Webende hat das ausgebreitete Gewebe wieder zugedeckt; mitten in der Arbeit hat der Künstler sein Werk niedergelegt. Er rührt sich und hat sich erhoben; er hat die Zeiten geschieden. Rasch entschlossen ist Gott Savitri gekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zusammen rollt die Weberin den Aufzug, der Künstler bei der Arbeit gab sein Werk auf; Sich rüstend stand er auf und schied die Zeiten, Gott Savitar erschien der nimmer rastet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ткущая снова свернула натянутую (ткань).  
 Посреди работы сложил (свое) дело умелый.  

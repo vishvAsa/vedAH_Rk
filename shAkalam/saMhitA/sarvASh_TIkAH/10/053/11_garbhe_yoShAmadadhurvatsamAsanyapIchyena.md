@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग꣡र्भे यो꣡षाम् अ꣡दधुर् वत्स꣡म् आस꣡नि  
 अपीचि꣡येन म꣡नसोत꣡ जिह्व꣡या  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सिषास꣡निर् वनते कार꣡ इ꣡ज् जि꣡तिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । वि॒श्वाहा॑ । सु॒ऽमनाः॑ । यो॒ग्याः । अ॒भि । स॒सा॒सनिः॑ । व॒न॒ते॒ । का॒रः । इत् । जिति॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *garbhe* ← *garbha*
 - \[noun\], locative, singular, masculine
@@ -122,37 +122,37 @@ popular
 ते मरुतः **गर्भे** मृताया गोर्मध्ये ग्राहके चर्मणि मृताया गोः संबन्धिनि **योषां** कांचिद्गाम् **अदधुः** धारितवन्तः । निश्चर्मणो गामरिणीत धीतिभिः (ऋ. सं. १. १६१. ७ ) इत्युक्तम् । तथा **आसनि** मृताया आस्ये **वत्सम्** अदधुः । केन साधनेन **अपीच्येन** **मनसा** देवत्वमाकाङ्क्षता **उत** अपि च **जिह्वया** । सादृश्यप्रधानोऽयं निर्देशः । जिह्वावदायतया वाश्येत्यर्थः । यद्वा । जिह्वया युक्तां योषामिति संबन्धः । **सिषासनिः** संभजनशीलः **सः** ऋभुसंघः **विश्वाहा** सर्वेष्वहःसु सर्वदा **योग्याः** स्वोचिताः **सुमनाः** स्तुतीः **अभि** **वनते** । स च संघः **जितिं** शत्रुजयं कामं **कार** **इत्** कर्तैव शत्रुजयकर्तैव ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The **Maruts**) plural ced a feminine le in the enveloping hide (of a dead cow), and a calf in the mouth (of adead cow), with mind and tongue, aiming (at deification); daily the genitive rous (fraternity of the **Ṛbhus**) offerssuitable praises (to the gods), granting victory over our foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have placed the “maiden” in the embryo [=Agni?], have placed the  “calf” in his mouth, with cryptic mind and tongue.  
 He, always benevolent, eager to gain, with the yoking strings wins the  victory just at the decisive moment.  
 The next three hymns (54–56) are attributed to Br̥haduktha Vāmadevya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye with a secret tongue and dark intention laid the maiden deep within, the calf within the mouth.  
      They evermore are near us with their gracious help: successful is the song that strives for victory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie legten die Frau in den Mutterleib, das Kalb in das Maul mit geheimem Sinn und geheimer Zunge. Der nach Gewinn Strebende, der jederzeit guten Mutes zu seinen Aufgaben ist, pflegt im Kampfe den Sieg zu erringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr setztet das Mädchen in den Mutterleib (?), das Kalb in den Mund (?) mit verborgenem Geiste und mit der Zunge; dieser wohlgesinnte, zu erlangen begierige, empfängt alle Tage angemessene Gaben und sein Loblied empfängt den Preis (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они вложили в материнскую утробу женщину, теленка - в пасть,  
 С тайным смыслом и (тайным) языком.  

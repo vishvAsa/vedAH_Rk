@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡ने न꣡ वा यो꣡ नि꣡ अधायि चाक꣡ञ्  
 छु꣡चिर् वां स्तो꣡मो भुरणाव् अजीगः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नॄणां꣡+ न꣡रियो नृ꣡तमः क्षपा꣡वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । इत् । इन्द्रः॑ । पु॒रु॒ऽदिने॑षु । होता॑ । नृ॒णाम् । नर्यः॑ । नृऽत॑मः । क्ष॒पाऽवा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vane* ← *vana*
 - \[noun\], locative, singular, neuter
@@ -130,7 +130,7 @@ genre M
 वने न वा यो न्यधायीति । **वने** **न** वन इव वृक्ष इव शकुनिः स्वे नीड़े वायमात्मीयं पुत्रं **न्यधायि** निदधाति शिशुकमजातपक्षम्। स यथा तत्र निहितः **चाकन्** पश्यन् भयाद्दिशो निरीक्षमाण आसीत् । अथवा कामयमानस्तदुत्सुकमना आसीत् । एवमयमस्मासु वृक्षस्य नीडभूतेषु शकुनिपुत्रभूतः **शुचिः** व्यपगतसर्वदोषो युवयोः स्वभूतः **स्तोमः** हे **भुरणौ** भर्तारावश्विनौ शीघ्रौ वा। भुरण्युरिति क्षिप्रनामेति । किंच **यस्य** स्तोमस्य **पुरुदिनेषु** बहुष्वहःसु **इन्द्रः** **होता** इन्द्रोऽप्याह्वाता भवति ममायं स्तोमः स्यादिति । किंल्लक्षणः पुनरिन्द्र आह्वाता । यः **नृणां** मनुष्याणां **नृतमः** मनुष्याणामपि मनुष्यतमः । शूराणामपि मध्ये शूरतम इत्यर्थः । **नर्यः** च नृभ्यो हितो यः **क्षपावान्** च रात्रिपर्यायेषु सोमभागः । एवं गुणयुक्तेन यः स्तोम इन्द्रेणापि प्रार्थ्यतेऽस्मासु वर्तमानः स युवां प्रति **अजीगः** नित्यकालमेव गच्छतीत्यर्थः । एवं तावदेतामृचमाश्विनीमिति कृत्वा व्याचक्षते । तदसाधु । ऐन्द्रे हि सूक्ते प्रथमैवेयं भवति। तच्च पुनः पृष्ठ्यस्य षष्ठेऽहनि स्तोमे वर्धमाने माध्यंदिने सवने ब्राह्मणाच्छंसिनः शस्त्रे विनियुज्यते । हे भुरणौ भर्तारौ देवानां पती य एष स्तोमोऽस्मासु निहितः शुचिर्व्यपगतदोषः शकुनिपुत्र इव वने वनावयवे वृक्षे चाकन् पश्यन्निव कामयमान इव वेन्द्रमास्ते । यस्य स्तोमस्य किमिति । यस्येन्द्रः पुरुदिनेषु बहुष्वहःस्वाह्वाताभूत् अपि नाम मामनेन स्तोमेन स्तुयुरिति । किँल्लक्षणः पुनराह्वाता । यस्येदिन्द्र इति नृणां नृतमो नर्यश्च क्षपावांश्च समानमेतत्पूर्वेणार्थेन । यमेवमिन्द्रः प्रार्थयते स एष स्तोमस्तं प्रत्यजीगः गच्छतीत्यर्थः । अथवा स एष स्तोमोऽस्माभिरुदीर्यमाणस्तस्येन्द्रस्य गुणान्गृह्णातीति स्यात् । 'जिगर्तिर्गृह्णातिकर्मा’ (निरु.६.८) इति ह्युक्तम् । एवमत्र चाकन्नित्यस्य चायन्निति वा कामयमान इति वेत्येतौ विपरिणामावुपपद्यते शब्दसारूप्यादविरोधाच्च । एतस्मिन्निगमे पदविभागगतः कश्चिद्विचारोऽस्ति । तमाह भाष्यकारः-'वेति च य इति च चकार शाकल्यः' (निरु. ६. २८) इति । वेति य इति च पदे चकार शाकल्यः पदकारः । तदेतद्विचार्यमाणं न साधु भवति । किं कारणम्। 'उदात्तं त्वेवमाख्यातमभविष्यत् । एवमेतस्मिन् पदद्वये सति यदेतदाख्यातं न्यधायीति तदुदात्तमभविष्यत् । यद्वृत्तात्परस्थ नित्यमाख्यातस्य निघातो न भवतीति लक्षणविदो मन्यन्ते । न चेदमुदात्तम् । तस्माद्य इति नेदं यद्वृत्तं किं तर्हि वाय इत्येकमेव पदम्। किंच।’असुसमाप्तश्चार्थः'। अपुष्कलः । एवमेव तस्मिन्पदद्वये सति मन्त्रस्यार्थोsसुसमाप्तो भवति ॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,7 +141,7 @@ genre M
 **Sāyaṇa** adds:"Thus, he (?some older commentator) explains, treating this verse as one composed in praise of the Aśvins, thisis wrong, for the hymn being in praise of Indra, this first verse too is in praise of Indra." **Nirukta** 6.8:jigartigrāhvātikarmā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whether he takes pleasure in the wood or not, he [=Agni] has been  installed (as priest) [/been deposited (in the wood)]. The gleaming  
 praise has waked you two, o bustling ones [=Aśvins, or Agni and  
@@ -150,23 +150,23 @@ Indra]—
 earth-protector.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As sits the young bird on the tree rejoicing, ye, swift Pair, have been roused by clear laudation,  
      Whose Herald-Priest through many days is Indra, earth's Guardian, Friend of men, the best of Heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eingesetzt ist er, der am Holz oder nicht Wohlgefallen hat - das reine Loblied hat euch beide, ihr zwei Wanderer, geweckt, an dem Indra an den vielen Opfertagen Wohlgefallen hat, - der Hotri, der Männliche, Mannhafteste der Männer, der Beschützer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Vogel gleich, der fröhlich auf dem Baum sitzt, hat, muntre, euch erweckt das helle Loblied, Dess Herold Indra in der Tage Lauf ist, der Männer starker, männlichster Beschirmer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто радовался дереву или нет, был усажен как хотар -  
 Частая хвала пробудила вас, о двое подвижных –  

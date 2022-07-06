@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इ꣡द् वदन्ति अ꣡द्रयो विमो꣡चने  
 या꣡मन्न् अञ्जस्पा꣡ इव घे꣡द् उपब्दि꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पृञ्च꣡न्ति सो꣡मं न꣡ मिनन्ति ब꣡प्सतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वप॑न्तः । बीज॑म्ऽइव । धा॒न्य॒ऽकृतः॑ । पृ॒ञ्चन्ति॑ । सोम॑म् । न । मि॒न॒न्ति॒ । बप्स॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -122,14 +122,14 @@ popular
 "धान्याकृतः कृषीवला: **बीजमिव** यथा पृञ्चन्ति तद्वत् **सोमं** पृञ्चन्ति । संपर्चयन्तीत्यर्थः । न एनं **मिनन्ति** । न हिंसन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The stones proclaim it with their clamour at the issue of the **Soma**, like the quick-protecting (chariots)on the road; like cultivators sowing the seed, they, devouring the Soma, mix it, and do not hurt it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just so do the stones speak at their unhitching, *or on their course they  speak with their tramplings—the stones as they drink (the soma)  
 directly.  
@@ -138,23 +138,23 @@ their “seed” [=semen] they engorge the soma. They do not diminish
 him though they gnaw at him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This, this the Stones proclaim, what time they are disjoined, and when with ringing sounds they move and drink the balm.  
      Like tillers of the ground when they are sowing seed, they mix the Soma, nor, devouring, minish it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dasselbe sprechen die Steine bei der Ausspannung und auf der Fahrt mit ihrem Getrappel, dem Geklapper, die gleichsam unmittelbar trinken. Wie Kornbauende den Samen ausstreuend mehren sie den Soma, nicht mindern sie ihn schlürfend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So singen bei der Einkehr sie und auf der Fahrt, mit lautem Lärm die Steine Somatrinkern gleich, Und füllen gleich dem Landmann, der den Samen streut, den Soma ein, doch fressend mindern sie ihn nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

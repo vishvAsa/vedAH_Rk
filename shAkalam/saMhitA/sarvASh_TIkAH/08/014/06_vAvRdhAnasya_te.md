@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वावृधान꣡स्य ते वयं꣡  
 वि꣡श्वा ध꣡नानि जिग्यु꣡षः  
 ऊति꣡म् इन्द्रा꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ऊ॒तिम् । इ॒न्द्र॒ । आ । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāvṛdhānasya* ← *vṛdh*
 - \[verb noun\], genitive, singular
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **वावृधानस्य** वर्धमानस्य **विश्वा** विश्वानि सर्वाणि **धनानि** शत्रुसंबन्धीनि **जिग्युषः** जितवतः **ते** तव **ऊतिं** रक्षां **वयम्** **आ** **वृणीमहे** आभिमुख्येन संभजामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit, **Indra**, the protection of you, who are ever being magnified, the conqueror of all the riches (ofthe enemy).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who have grown strong and won all the stakes—  
 we choose your help, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine aid we claim, O Indra, thine who after thou hast waxen great  
      Hast won all treasures for thine own.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du groß geworden bist und alle Schätze erobert hast, deine Gunst erbitten wir, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wünschen, Indra, deine Huld, der gross und stark du bist, herbei, Der alle Beute du gewannst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У тебя, усилившегося,  
 Захватившего всю добычу,  

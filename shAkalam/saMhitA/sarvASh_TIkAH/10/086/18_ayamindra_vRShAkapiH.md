@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् इन्द्र वृषा꣡कपिः  
 प꣡रस्वन्तं हतं꣡ विदत्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 अ॒सिम् । सू॒नाम् । नव॑म् । च॒रुम् । आत् । एध॑स्य । अनः॑ । आऽचि॑तम् । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -115,7 +115,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे **इन्द्र** **अयं** **वृषाकपिः** **परस्वन्तं** परस्वमात्मनो विषयेऽवर्तमानं **हतं** हिंसितं **विदत्** विन्दतु । तथा हतस्य विशसनाय **असिं** शस्त्रं **सूनाम्** उद्धानं पाकार्थं **नवं** प्रत्यग्रं **चरुं** भाण्डम् **आत्** अनन्तरम् **एधस्य** काष्ठस्य **आचितं** पूर्णम् **अनः** शकटं च विन्दतु । मस पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,30 +126,30 @@ popular;; epic anuṣṭubh (525);; repeated line
 A dead wild ass:parasvantam = parasvam, i.e. one who is of his own nature, i.e. an ape, **kapi**; a fire plural ce: **sūnā**; cf. Manu3.68
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, this Vr̥ṣākapi found a slaughtered ass,  
 a knife, a basket, a new pot, and a wagon piled with firewood.  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra this Vrsakapi hath found a slain wild animal,  
      Dresser, and new-made pan, and knife, and wagon with a load of wood. Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine Schlachtschüssel, einen neuen Topf, und einen Karren mit Brennholz beladen." - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »O Indra, dieser Vrischākapi hat einen todten Esel gefunden, ein Messer, eine Schüssel und einen neuen Kessel, dann einen mit Brennholz beladenen Wagen.« Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

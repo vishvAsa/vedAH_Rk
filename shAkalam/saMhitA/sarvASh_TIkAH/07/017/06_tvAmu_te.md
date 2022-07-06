@@ -6,13 +6,13 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् उ ते꣡ दधिरे हव्यवा꣡हं  
 देवा꣡सो अग्न ऊर्ज꣡ आ꣡ न꣡पातम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M
 त्वाम् । ऊं॒ इति॑ । ते । द॒धि॒रे॒ । ह॒व्य॒ऽवाह॑म् । दे॒वासः॑ । अ॒ग्ने॒ । ऊ॒र्जः । आ । नपा॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -82,34 +82,34 @@ genre M
 हे **अग्ने** **ऊर्जः** बलस्य **नपातं** पुत्रम् । **सूनुर्नपात्'** इत्यपत्यनामसु पाठात् । **त्वामु** त्वामैव **ते** प्रसिद्धाः **देवासः** देवाः **हव्यवाहं** हविषो वोढारम् **आ** **दधिरे** । अकुर्वन्नित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods have made you, **Agni**, who are the son of strength, the bearer of the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And, o Agni, the gods have established you here as the conveyor of  oblations, as the child of nourishment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee, even thee, the Son of Strength, O Agni, those Gods have made the bearer of oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich haben die Götter zum Opferfahrer gemacht, o Agni, das Kind aus der Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich machten sie zu ihrem Opferfahrer, die Götter, Agni, und zum Sohn der Stärke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя они определили перевозчиком жертв,  
 Бпги. о Агни. отпрыска мощи.

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡स्तोष् पते शग्म꣡या संस꣡दा ते  
 सक्षीम꣡हि रण्व꣡या गातुम꣡त्या  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 पा॒हि । क्षेमे॑ । उ॒त । योगे॑ । वर॑म् । नः॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāstoṣpate* ← *vāstoṣpati*
 - \[noun\], vocative, singular, masculine
@@ -120,7 +120,7 @@ genre M;; repeated line
 हे **वास्तोष्पते** देव **शग्मया** सुखकर्या **रण्वया** रमणीयया **गातुमत्या** धनवत्या **ते** त्वया देयया **संसदा** स्थानेन **सक्षीमहि** वयं संगच्छेमहि । त्वमपि **क्षेमे** प्राप्तस्य रक्षणे **उत** अपि च **योगे** अप्राप्तस्य प्रापणे **वरं** वरणीयं **नः** अस्मदीयं धनं **पाहि** रक्ष । हे वास्तोष्पते **यूयं** त्वं **नः** अस्मान् सर्वदा कल्याणैः **पात** पाहि ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M;; repeated line
 Opulent: gatumatya = melodious; from ga, to sing; or, **dhanavatī**, having wealth; and do you god:yuyam = tvam, do you **Vāstoṣpati** etc.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Lord of the Dwelling Place, might we be accompanied by your capable  fellowship, joy-bringing, providing the way.  
 Protect us at will in peace and war. – Do you protect us always with your  blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through thy dear fellowship that bringeth welfare, may we be victors, Guardian of the Dwelling!  
      Protect our happiness in rest and labour. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Herr der Wohnstatt! Wir möchten deiner bewährten, erfreulichen, fördernden Gesellschaft teilhaft sein. Schütze uns im Frieden und auf der Kriegsfahrt aufs beste!-Behütet uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass Wohnungsherr uns deiner Huld Gemeinschaft, der starken, lieben, segnenden geniessen, Schütz unser Gut in Arbeit und in Ruhe, ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Вастошпати, пусть будем мы одарены твоим (все)могущим  
 Обществом, доставляющим наслаждение, открывающим (все) выходы!  

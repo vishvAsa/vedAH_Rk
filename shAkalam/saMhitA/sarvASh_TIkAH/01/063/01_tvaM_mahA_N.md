@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् महाँ꣡ इन्दर+ यो꣡ ह शु꣡ष्मैर्  
 द्या꣡वा जज्ञानः꣡ पृथिवी꣡ अ꣡मे धाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भिया꣡ दॄळ्हा꣡सः+ किर꣡णा न꣡ अइ꣡जन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । ह॒ । ते॒ । विश्वा॑ । गि॒रयः॑ । चि॒त् । अभ्वा॑ । भि॒या । दृ॒ळ्हासः॑ । कि॒रणाः॑ । न । ऐज॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -142,7 +142,7 @@ genre M
 हे **इन्द्र** **त्वं** **महान्** गुणैः सर्वाधिको भवसि । **यो** **ह** यः खलु त्वम् **अमे** असुरकृते भये सति **जज्ञानः** तदानीमेव प्रादुर्भूतः सन् **शुष्मैः** शत्रूणां शोषकैरात्मीयैर्बलैः **द्यावा** **पृथिवी** द्यावापृथिव्यौ **धाः** अधारयः । तादृशाद्भयात् अमूमुचः इत्यर्थः । किंच। **यद्ध** **ते** यस्य खलु तव संबन्धिन्या **भिया** भीत्या **विश्वा** विश्वानि व्याप्तानि यानि भूतजातानि **गिरयश्चित्** ये च शिलोच्चयाः । **अभ्वा** । महन्नामैतत् । अन्यान्यपि महान्ति यानि सन्ति । तेऽपि सर्वे **दृळ्हासः** दृढा अपि **ऐजन्** अकम्पिषत । तत्र दृष्टान्तः । **किरणा** **न** । यथा सूर्यरश्मय इतस्ततो नभसि कम्पन्ते तद्वत् ॥ जज्ञानः । **जनी** प्रादुर्भावे'। लिटः कानच् ।' गमहन° ' इत्यादिना उपधालोपः। स्थानिवद्भावात् द्विर्भावादि।  ‘ चितः' इत्यन्तोदात्तत्वम् । द्यावापृथिवी इत्यस्य समस्तपदस्य मध्ये जज्ञान इत्यस्य पाठश्छान्दसः । यत् ।' सुपां सुलुक्° ' इति षष्ठ्या लुक् । अभ्वा । आ समन्ताद्भ वन्ति सद्भावं प्राप्नुवन्तीति अभ्वा महान्तः । आङ्पूर्वात् भवतेः औणादिको ड्वन्प्रत्ययः । उपसर्गस्य ह्रस्वत्वं च । यद्वा । नञ्पूर्वात् भवतेः प्राप्त्यर्थात् ' नञि भुवो डित् ' इति क्वन्प्रत्ययः । महान्तो हि प्राप्तुं न शक्यन्ते । ‘शेश्छन्दसि बहुलम्' इति शेर्लोपः । किरणाः । कीर्यन्ते विक्षिप्यन्ते इति किरणाः ।  ‘ कॄ विक्षेपे ' । ‘कॄपॄवृजिमन्दिनिधाञ्भ्यः क्युः ' ( उ. सू. २. ८२ ) इति क्युप्रत्ययः । योरनादेशे प्रत्ययाद्युदात्तत्वम् । 'ऋत इद्धातोः' इति इत्वम् । ऐजन् । ‘एजृ कम्पने' । लङि आडागमः । स चोदात्तः । वृद्धिश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,13 +155,13 @@ By your energies: balaiḥ = by strength;
 Śuṣmaiḥ = the driers up (of enemies)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are great, Indra, you who, on just being born, with your tempests  put heaven and earth in (the path of your) onslaught,  
 so that all the vast masses, even the mountains, though firmly fixed,  stirred like dust-motes in fear of you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The very first hemistich of this hymn presents us with a syntactic problem: although the most natural way to read this is with a rel. clause beginning with yó ha and continuing through the second pāda, the verb there, dhāḥ, is unaccented. There are three possible ways to handle this. The first, the one I followed in the published translation, is to assume that dhāḥ got de-accented for some reason. Several possible reasons are available, though none of them strong: 1) it lost its accent redactionally from being matched to (properly) unaccented dhāt in 2b, also at the end of its hemistich; 2) the same idiom áme (…) dhāt is found in nearby I.67.3 (unfortunately by a different poet) and this caused the loss of accent redactionally; 3) because the 2nd hemistich of the verse in question is also a subordinate clause (beginning yád dha), the previous subordinate clause lost its verbal accent and became a kind of “honorary” main clause, because the action of cd is based on that of the relative clause that precedes it.
 
@@ -182,23 +182,23 @@ The subject NP(s) of cd are neatly interwoven: with víśvā … ábhvā (neut.)
 Hoffmann (p. 181) argues convincingly that naíjan should not be interpreted as ná aíjan with the Pp., but with the injunctive éjan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU art the Mighty One; when born, O Indra, with power thou terrifiedst earth and heaven;  
      When, in their fear of thee, all firm-set mountains and monstrous creatures shook like dust before thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, bist der Große, der du eben geboren durch deinen Ungestüm Himmel und Erde in Panik versetztest, als alle Ungeheuer, selbst die festen Berge, aus Furcht vor dir wie Stäubchen sich hin und herbewegten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross bist du, Indra, der du kaum geboren mit deinen Kräften Erd' und Himmel schrecktest, Da alles, selbst die mächt'gen, festen Berge aus Furcht vor dir wie Stäubchen sich bewegten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты велик, о Индра: ведь (ты – тот,) кто порывами неистовства,  
 (Едва) родившись, небо и землю поверг в ужас,  

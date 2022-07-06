@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनेहो꣡ न उरुव्रज  
 उ꣡रूचि वि꣡ प्र꣡सर्तवे  
 कृधि꣡ तोका꣡य जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 कृ॒धि । तो॒काय॑ । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aneho* ← *anehaḥ* ← *anehas*
 - \[noun\], accusative, singular, neuter
@@ -87,20 +87,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अनेहः** अपापान् **नः** अस्मान् हे **उरुव्रजे** विस्तीर्णगमने। दूरमियमदितिर्भूमिरूपा गता भवत्यतिविस्तृतत्वात् । अथवोरुगमने धीरे हे **उरूचि** उरुत्वं **वि** **प्रसर्तवे** अभिसरणाय **कृधि** कुरु । कस्मै । **तोकाय** पुत्राय मत्स्याय **जीवसे** तस्य जीवनाय । यथा जीवेम पुत्रान्रक्षितुं तथोरुत्वं कुर्विति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wide-traversing, far-reaching goddess, put forth your power to come to us, innocent ones, that ourchildren may live.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make faultless (shelter) for us, o widely spreading (goddess) possessing  a wide enclosure, (for us) to extend afar  
 and for our offspring to live.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since anehás- is an adjective, a noun needs to be supplied with it (contra Geldner, Renou). I supply ‘shelter’ on the basis of VIII.18.21 (also a hymn to the Ādityas) containing aneháḥ … trivárūtham … chardíḥ, with the várūtha- and chardís- found in our vss. 3b, 6b.
 
@@ -114,23 +114,23 @@ The correlative of yé in 13 is té in 14, but this unremarkable pairing actuall
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far-spread! wide-ruling! grant that we, unharmed by envy, may expand  
      Grant that our progeny may live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schaff uns Sündlosigkeit, du Weite, mit weitem Gehege, daß sich unser Geschlecht weit ausbreite, zum Leben für unsere Nachkommenschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weitschreitende, weitreichende, schaff unsern Kindern sichern Schutz, Dass lebend sie verbreiten sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Создай нам невиновность, о громадная (богиня)  
 С громадной оградой, чтобы (наш род) далеко распространился,  

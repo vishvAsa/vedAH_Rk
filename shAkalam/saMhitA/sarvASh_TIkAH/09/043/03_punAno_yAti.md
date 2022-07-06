@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनानो꣡ याति हर्यतः꣡  
 सो꣡मो गीर्भिः꣡ प꣡रिष्कृतः  
 वि꣡प्रस्य मे꣡धियातिथेः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विप्र॑स्य । मेध्य॑ऽअतिथेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -73,41 +73,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पुनानः** पूयमानः **हर्यतः** कमनीयः **सोमो** **गीर्भिः** **परिष्कृतः** स्तुतिभिरलंकृतः **याति** कलशं प्रति । किमर्थम् । **विप्रस्य** मेधाविनः **मेध्यातिथेः** मम यागार्थम् । यद्वा । मम गीर्भिरिति संबन्धः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pure flows the beloved **Soma**, beautified by the praises of the sage Medhyātithi.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While being purified, he makes his journey—the delightful Soma,  adorned with the hymns  
 of the inspired poet Medhyātithi.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Medhyātithi’s signature. Mention of the poet’s name is a relative rarity in the Gāyatrī hymns of IX, acdg. to Oberlies (Rel.RV I.549).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma flows on when purified, beloved and adorned with songs,  
      Songs of the sage Medhyatithi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd geht der begehrenswerte Soma, von den Lobreden des beredten Medhyatithi verherrlicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt geht der liebliche, mit Liedern Soma ausgeschmückt Des Sängers Medhiatithi.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

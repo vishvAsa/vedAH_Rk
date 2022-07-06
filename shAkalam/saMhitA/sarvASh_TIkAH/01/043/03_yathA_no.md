@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था नो मित्रो꣡ व꣡रुणो  
 य꣡था रुद्र꣡श् चि꣡केतति  
 य꣡था वि꣡श्वे सजो꣡षसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यथा॑ । विश्वे॑ । स॒ऽजोष॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -81,36 +81,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मित्रो** **वरुणः** च **नः** अस्मान् **यथा** येन प्रकारेण **चिकेतति** अनुग्राह्यत्वेन जानाति। **रुद्रः** अपि **यथा** चिकेतति । **सजोषसः** समानप्रीतयः **विश्वे** सर्वे देवाः **यथा** चिकेतन्ति तथा भवत्विति शेषः । यद्वा । यथाशब्दोपेतमन्त्रद्वयस्य तथा कदा वोचेमेति पूर्वत्रान्वयः ॥ चिकेतति । कित ज्ञाने'। लेटि अडागमः।  ‘ नाभ्यस्तस्य' (पा. सू. ७. ३.८७) इति गुणनिषेधो न भवति, ‘बहुलं छन्दसीति वक्तव्यम्' इति वचनात् । सार्वधातुकत्वाच्च  ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । सजोषसः ।  ‘ जुषी प्रीतिसेवनयोः'। समानं जुषन्तीति सजोषसः ।  ‘ समानस्य च्छन्दसि' इति सभावः । असुनो नित्त्वादुत्तरपदस्याद्युदात्तत्वम् । तदेव कृदुत्तरपदप्रकृतिस्वरत्वेन शिष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By which **Mitra** and **Varuṇa**, and **Rudra** and all the gods, being gratified, may show us (favour).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So that Mitra and Varuṇa will be attentive to us, likewise Rudra,  
 likewise all (the gods) in concert.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That Mitra and that Varuna, that Rudra may remember us,  
      Yea, all the Gods with one accord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf das Mitra und Varuna, auf das Rudra unser gedenke und alle Götter einmütig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dass Mitra und dass Varuna, dass Rudra auf uns habe Acht, Und alle Götter gleichgesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 ...Чтобы нас Митра (и) Варуна,  
 Чтобы Рудра (нас) заметил,  

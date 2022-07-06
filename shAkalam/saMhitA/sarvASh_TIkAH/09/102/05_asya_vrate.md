@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ व्रते꣡ सजो꣡षसो  
 वि꣡श्वे देवा꣡सो अद्रु꣡हः  
 स्पार्हा꣡ भवन्ति र꣡न्तयो जुष꣡न्त य꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 स्पा॒र्हाः । भ॒व॒न्ति॒ । रन्त॑यः । जु॒षन्त॑ । यत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -90,41 +90,41 @@ genre M;; line affected by realignment;; repeated line
 **अद्रुहः** द्रोहवर्जिताः **विश्वे** सर्वे **देवासः** देवाः **अस्य** सोमस्य **व्रते** कर्मणि **सजोषसः** संगताः सन्तः **स्पार्हाः** स्पृहणीयाः **भवन्ति** । **रन्तयः** रमणशीला देवाः सुतमेनं सोमं **यत्** यदि **जुषन्त** सेवन्ते तर्हि स्पृहणीया भवन्ति ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The universal gods, devoid of malice, assembled together at his rite, are to be envied if being delighted they take plural asure (in the **Soma**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Under his commandment are all the gods of one accord and without  deceit.  
 Eagerly sought are your joys, since they [=gods] take pleasure (in them).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My unsignalled addition, “your,” to the nominal cl. of c is unsupported and, I’m now sure, wrong. (It mindlessly follows Geldner) As noted ad vs. 3, Soma is always in the 3rd ps. in this hymn till the final vs. And the initial asyá of pāda a reinforces this. I would now change the tr. to “… are his joys.” As in the previous vs., the 4-syl. last pāda is a self-contained subord. cl., juṣánta yát, with víśve devā́ḥ of b as its subj. Note that juṣánta picks up sajóṣasaḥ in a, which modifies víśve devā́ḥ. The etymological responsion might have better conveyed by a more literal tr., such as ‘of joint pleasure, sharing pleasure’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Under his sway, of one accord, are all the guileless Deities:  
      Warriors to be envied, they, when they are pleased.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In seinem Dienste sind alle Götter einmütig, ohne Falsch. Köstlich sind deine Ergötzungen, wenn sie wohlgefallen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter alle im Verein, die treuen sind in seinem Dienst Erfreuer des Begehrens werth, – wenn froh sie sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В его завете обьединены  
 Все боги безобманные.  

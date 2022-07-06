@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्र꣡त्वा हि꣡ द्रो꣡णे अज्य꣡से  
 अ꣡ग्ने वाजी꣡ न꣡ कृ꣡त्वियः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡त्यो न꣡ ह्वारियः꣡ शि꣡शुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 परि॑ज्माऽइव । स्व॒धा । गयः॑ । अत्यः॑ । न । ह्वा॒र्यः । शिशुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
@@ -109,7 +109,7 @@ genre M
 हे **अग्ने** **क्रत्वा** कर्मणा मन्थनरूपेण **द्रोणे** द्रुमे काष्ठेऽरण्यां विद्यमानस्त्वम् **अज्यसे** **हि** व्यज्यसे खलु । तथा **वाजी** **न** वेजनवानश्व इव **कृत्व्यः** । कृत्वीति कर्मनाम । हविर्वहनादीनां कर्मणां कर्ता । स यथा पुरुषं वहति तद्वद्धविर्वहनमग्नेरश्वसादृश्यम् । तथा **परिज्मेव** परितः सर्वत्र गन्ता वायुरिव दावानलादिरूपेण सर्वत्र गन्ता त्वं **स्वधा** । अन्ननामैतत् । अन्नं **गयः** गृहं च भवसि । उभयोर्दातेत्यर्थः । अपि च **शिशुः** जातमात्रो बालोऽपि त्वम् **अत्यो** **न** सततगामी जात्यश्व इव **ह्वार्यः** कुटिलमितस्ततो गन्तासि । ‘ह्वृ कौटिल्ये' इत्यस्यैतद्रूपम् ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,14 +120,14 @@ genre M
 You are food and dwelling: **svadhā** **gayaḥ** = **annam** gṛham ca; bhavasi, you are is supplied
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For according to your purpose you are anointed in the wood(en cup)  (like soma) [/in your home =hearth] [/driven into the wood(en cup)]  like a prize-seeker who gets results.  
 (You are) encompassing like a household (that encompasses all its  
 members) through your independent power; (you are) made to go in  circles like a young steed (being trained).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The voc. ágne was omitted in the published translation I would insert “o Agni” after “purpose.” Note that the first hemistich begins with krátvā and ends with kṛ́tvi yaḥ.
 
@@ -142,23 +142,23 @@ The next issue is what is meant by a párijmā … gáyaḥ. Both Geldner and Re
 The second simile depends on the meaning of hvāryá-. This stem must belong to the root √hvṛ ‘go crookedly’. Geldner thinks it refers to a bird, which has little to recommend it since there’s already a horse in the passage; others (Renou, Thieme [KlSch 78]) to the meandering or zig-zag movement of the fire (e.g., Renou “(il va) zigzaguant …”). I prefer to take it as a gerundive (despite the accent, which is unusual for such a formation) and indeed one to an underlying causative. My further assumption is that the “young steed” of the simile is being trained, by being run in circles (around someone in the middle holding a rope attached to the horse -- a standard part of horse training today it seems from images and videos conjured up by Google -- and recall the Mitanni horse-training tablets with their numbers of ‘turns’ [vartana]). Although √hvṛ often refers to more random motion, it implicitly contrasts with motion in a straight line, which a circle is not. The advantages to this interpr. are 1) it would refer to something that the ritual fire actually does or is made to do: the Paryagnikaraṇa or the circling of the sacrificial animal (and associated paraphernalia) with a firebrand; 2) it would implicitly pick up párijmā from the beginning of the hemistich, with a more literal sense of ‘encircle, encompass’ than in pāda c. If this latter suggestion is correct, as in 7cd the first word of pāda c, párijmā, would be applicable to the similes in both c and d with slightly different senses, just like raṇváḥ in 7c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, like an able steed, art urged by wisdom in the wood.  
      Thou art like wind; food, home art thou, like a young horse that runs astray.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Umsicht wirst du ja im Holzgefäß gesalbt zum Laufe getrieben wie ein siegesgewisses Rennpferd, o Agni. Wie ein fahrender Hausstand ist sein Wesen, wie ein Rennpferd ist der junge Vogel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Holze lässt du treiben dich, o Agni, wie ein schnelles Ross, Wählst selbst dein Haus dem Winde gleich, dem Renner gleich, der Schlange Kind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя ведь с осмотрительностью мажут в деревянном (сосуде),  
 О Агни, как (поощряют) скакуна, способного добыть награду.  

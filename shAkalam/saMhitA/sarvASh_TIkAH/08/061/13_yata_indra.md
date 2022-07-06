@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त इन्द्र भ꣡यामहे  
 त꣡तो नो अ꣡भयं कृधि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वि꣡ द्वि꣡षो वि꣡ मृ꣡धो जहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मघ॑ऽवन् । श॒ग्धि । तव॑ । तम् । नः॒ । ऊ॒तिऽभिः॑ । वि । द्विषः॑ । वि । मृधः॑ । ज॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yata* ← *yatas*
 - \[adverb\]
@@ -127,43 +127,43 @@ genre M
 हे **इन्द्र** **यतः** हिंसकात् **भयामहे** वयं **ततः** **नः** अस्मभ्यम् **अभयं** **कृधि** कुरु । हे **मघवन्** **शग्धि** शक्तो भवसि **नः** अस्मभ्यमभयं कर्तुं **तव** **तत्** तैः **ऊतिभिः** रक्षणैः रक्षकैः पुरुषैः । किंच **वि** **जहि** **द्विषः** अस्मद्द्वेष्टॄन् । **वि** जहि **मृधः** अस्मद्धिंसकान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, give us security from him of whom we are afraid, **Maghavan**, be strong for us with yourprotections; destroy our enemies, destroy those who harm us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever we are afraid of, Indra, make us unafraid of that.  
 Bounteous one, exert your ability then through your help for us. Smash  away hatreds, away slights.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b would literally be “make lack of fear of that for us,” which is overly stilted.
 
 Pāda c reprises 5ab.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, give us security from that whereof we are afraid.  
      Help us, O Maghavan, let thy succour give us this: drive away foes and enemies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wovor wir uns fürchten, Indra, davor nimm uns die Furcht! Mache, du Gabenreicher, dies durch deine Hilfen für uns möglich; vertreibe die Feinde, die Verächter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was uns, o Indra, Furcht erregt, davor verschaff uns Sicherheit; Gewähr, o starker, uns durch deine Hülfen das, den Feind zerschmettre, der uns hasst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чего, о Индра, мы боимся,  
 Создай нам отсутствие этого страха!  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूषा꣡ वि꣡ष्णुर् ह꣡वनम् मे स꣡रस्वती  
 अ꣡वन्तु सप्त꣡ सि꣡न्धवः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 शृणो꣡तु पृथिवी꣡ ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 आपः॑ । वातः॑ । पर्व॑तासः । वन॒स्पतिः॑ । शृ॒णोतु॑ । पृ॒थि॒वी । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
@@ -104,35 +104,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Pūṣan**, **Viṣṇu**, Sarsvatī, and the seven rivers, favour my call; may the waters, the wind, themountains, the trees, the earth, hear my call.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Pūṣan, Viṣṇu, Sarasvatī aid my calling, let the Seven Streams.  
 Let the Waters, the Wind, the Mountains, the Lord of the Forest, let  Earth hear my call.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a it would also be possible to supply ‘hear’ from 3d (governing hávanam, as it did hávam in 3d), with ávantu the verb only of b.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pusan, Vishnu, Sarasvati, die sieben Ströme sollen meinen Ruf bevorzugen. Die Gewässer, der Wind, die Berge, der Baum, die Erde sollen den Ruf hören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es höre Puschan, Vischnu und Sarasvati, die sieben Ströme meinen Ruf; Die Wasser, Winde, Berge und der Waldesherr die Erde höre meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пушан, Вишну, Сарасвати, семь рек  
 Пусть поддержат мой призыв!  

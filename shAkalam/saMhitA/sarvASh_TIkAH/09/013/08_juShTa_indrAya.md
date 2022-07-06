@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जु꣡ष्ट इ꣡न्द्राय मत्सरः꣡  
 प꣡वमान क꣡निक्रदत्  
 वि꣡श्वा अ꣡प द्वि꣡षो जहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विश्वाः॑ । अप॑ । द्विषः॑ । ज॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣṭa* ← *juṣṭaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
@@ -80,19 +80,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इन्द्राय** **जुष्टः** प्रियः पर्याप्तः **मत्सरः** सोमो भवतीति शेषः। 'मत्सरः सोमो मन्दतेस्तृप्तिकर्मणः ' (निरु. २.५) इति निरुक्तम् । हे **पवमान** त्वं **कनिक्रदत्** शब्दयन् **विश्वाः** **द्विषः** सर्वानस्माकं द्वेष्टॄन् **अप** **जहि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Acceptable and giving delight to **Indra**, pure (**Soma**), do you, as you utter a sound, destroy all our enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pleasing to Indra, exhilarating, constantly roaring—o self-purifying one, strike away all hatreds.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/013/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -100,23 +100,23 @@ The impv. ápa … jahi of 8c is converted into the part. apaghnántaḥ in 9a. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Gladdener whom Indra loves, O Pavamana, with a roar  
      Drive all our enemies away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Indra willkommen, berauschend, o Pavamana, brüllend verjage alle Feinde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Berauschend und dem Indra lieb, laut wiehernd schlag', o rieselnder, Die Feinde alle weit hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Доставляющий наслаждение Индре, пьянящий,  
 О Павамана, громко ревущий,  

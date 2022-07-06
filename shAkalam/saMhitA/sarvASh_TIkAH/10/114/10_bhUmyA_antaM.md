@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡म्या अ꣡न्तम् प꣡रि ए꣡के चरन्ति  
 र꣡थस्य धूर्षु꣡ युक्ता꣡सो अस्थुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यदा꣡ यमो꣡ भ꣡वति हर्मिये꣡ हितः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 श्रम॑स्य । दा॒यम् । वि । भ॒ज॒न्ति॒ । ए॒भ्यः॒ । य॒दा । य॒मः । भव॑ति । ह॒र्म्ये । हि॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūmyā* ← *bhūmyāḥ* ← *bhūmi*
 - \[noun\], genitive, singular, feminine
@@ -137,7 +137,7 @@ popular
 **एके** केचन सप्ताश्वाः **भूम्याः** पृथिव्याः । अनेन द्युलोकोऽप्युपलक्ष्यते । द्यलोकस्य च **अन्तं** पर्यन्तं **परि** **चरन्ति** । तदानीं सर्वत आगच्छन्ति । तदा च तेऽश्वाः **रथस्य** **धूर्षु** युगादिभारेषु **युक्तासः** युक्ताः सन्तः **अस्थुः** तिष्ठन्ति । **एभ्यः** अश्वेभ्यः **श्रमस्य** **दायम्** ॥  ‘ दो अवखण्डने । घञ् ।' कर्षात्वतः०' इत्यन्तोदात्तत्वम् ॥ श्रमस्य नाशकं घासादिकं **वि** **भजन्ति** देवाः प्रयच्छन्ति । **यदा** यस्मिन् काले **यमः** नियन्ता सूर्यः '“हर्येति हर्य् स्थानीये रथे **हितः** निहितः भवति । तदैते भजन्तीत्यर्थः ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ popular
 Charioteer: **yama** = niyantā restrainer, i.e., **sūrya**, the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Such ones circle around the end of the earth, (while) they have stayed  yoked to the poles of the chariot.  
 They [=gods?] distribute the legacy of their labor to them, when Yama  becomes established in his secure habitation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yoked to his chariot-pole there stood the Coursers: they only travel round earth's farthest limits.  
      These, when their driver in his home is settled, receive the allotted meed of their exertion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die einen umfahren das Ende der Erde; sie haben angeschirrt in des Wagens Jochen gestanden. Sie teilen das Erbe der Mühe unter sie aus, wann Yama in seinem Hause freundlich gesinnt ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Erde Enden umwandern sie allein, an des Wagens Deichsel standen sie angeschirrt; der ermüdenden Anstrengung Antheil vertheilen sie unter ihnen, wenn der Wagenlenker auf dem Wagensitze [nach Sāy.] Platz genommen hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они одни движутся вокруг предела земли.  
 Они стояли, запряженные в дышла колесницы.  

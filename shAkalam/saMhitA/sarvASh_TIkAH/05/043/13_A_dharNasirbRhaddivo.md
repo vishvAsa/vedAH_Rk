@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ धर्णसि꣡र् बृह꣡द्दिवो र꣡राणो  
 वि꣡श्वेभिर् गन्तु ओ꣡मभिर् हुवानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्रिधा꣡तुशृङ्गो वृषभो꣡ वयोधाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ग्नाः । वसा॑नः । ओष॑धीः । अमृ॑ध्रः । त्रि॒धातु॑ऽशृङ्गः । वृ॒ष॒भः । व॒यः॒ऽधाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -119,7 +119,7 @@ genre M
 इदमाद्यृक्त्रयमाग्नेयम् । अग्निः **आ** **गन्तु** आगच्छत्वस्मयज्ञं **धर्णसिः** सर्वस्य धारकः **बृहद्दिवः** प्रभूतदीप्तिः **रराणः** रममाणः कामान् प्रयच्छन् वा **विश्वेभिः** सर्वैः **ओमभिः** रक्षणैः सह **हुवानः** आहूयमानः । **ग्नाः** गन्त्रीर्ज्वालाः **ओषधीः** च **वसानः** अमृधः अहिसितः **त्रिधातुशृङ्गः** त्रिप्रकारशृङ्गवदुन्नतलोहितशुक्लकृष्णवर्णज्वाल: **वृषभः** वर्षिता **वयोधाः** अन्नस्य दाता हविषो वा धारकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,35 +130,35 @@ genre M
 Horns of three colours: tridhātu **śṛṅgaḥ**, his flames of three colours, red, white and black (or smoke). Or, tridhātu may simply connote protrusions of three elemental ores
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The enduring one belonging to lofty heaven, the bestower—let him  come with all his succors when he is invoked—  
 clothing himself in his wives, the plants, not neglectful, a bull with  
 tripartite horn, conferring vigor [=Agni].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In d tridhā́tu-śṛṅga- ‘having tripartite horns’ may refer to the three hearths, though see the tripartite cows (tridhā́tavaḥ … gā́vaḥ), probably of Agni, in nearby V.47.4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the Sustainer, high in heaven, come hither, the Bounteous One, invoked, with all his favours,  
      Dweller with Dames divine, with plants, unwearied, the Steer with triple horn, the life-bestower.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Dauerhafte, der vom hohen Himmel abstammt, soll freigebig mit allen Schützern kommen, wenn er gerufen wird, der sich in seine Frauen, die Pflanzen einhüllt, der nicht zu verschmähende Bulle mit dreifachem Horn, der Kraftspender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der hochbetagte, starke Spender komme gerufen her mit sämmtlichen Genossen, Umschart von Weibern, von Gewächsen, rastlos, der kraftverleih'nde Stier mit dreien Hörnern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть (этот бог) – основа (жертвоприношения), (происходящий) с высокого неба, дарующий (блага),  
 Придет со всеми помощниками, когда его позовут,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुर꣡थाँ आतिथिग्वे꣡  
 सुअभीशूँ꣡र् आ᳐र्क्षे꣡  
 आश्वमेधे꣡ सुपे꣡शसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 आ॒श्व॒ऽमे॒धे । सु॒ऽपेश॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *surathāṃ* ← *su*
 - \[adverb\]
@@ -68,20 +68,20 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **आतिथिग्वे** इन्द्रोते **सुरथान्** शोभनरथोपेतानश्वानाददे । **आर्क्षे** ऋक्षपुत्रे **स्वभीशून्** अश्वानाददे । **आश्वमेधे** अश्वमेधपुत्रे 'सुपेशसः सुरूपानश्वान् शोभनालंकारानाददे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(I receive) two steeds with excellent chariots from the son of **Atithigva**, two with excellent reins from theson of **Ṛkṣa**, two with excellent ornaments from the son of **Aśvamedha**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Horses) having good chariots from the son of Atithigva, those having  good reins from the son of R̥kṣa,  
 and those having good ornaments from the son of Aśvamedha.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">
 <details open><summary><h2>15-17 ...{Loading}...</h2></summary>
 
@@ -95,23 +95,23 @@ I have made no effort to sort out the internal relationships among the patrons
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From Atithigva good car-steeds; from Arksa rein-obeying steeds,  
      From Asvamedha beauteous ones.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit schönem Wagen von Atithigva; mit schönen Zügeln vom Sohn des Riksa, mit schönen Zierraten vom Sohn des Asvamedha;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rosse, die mit schönem Wagen und Zügeln versehen sind, empfing ich vom Sohne des Rikscha, dem Nachkommen des Atithigva aus dem Geschlechte des Açvamedha.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

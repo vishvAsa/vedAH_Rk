@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते कारो शृणवामा व꣡चांसि  
 यया꣡थ दूरा꣡द् अ꣡नसा र꣡थेन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡र्यायेव कनि꣡या शश्वचइ꣡ ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नि । ते॒ । नं॒सै॒ । पी॒प्या॒नाऽइ॑व । योषा॑ । मर्या॑यऽइव । क॒न्या॑ । श॒श्व॒चै । त॒ इति॑ ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 नद्यः पूर्वं विश्वामित्रवाक्यं प्रत्याख्यायानयर्चा तस्य वाक्यमाशुश्रुवुः । कारो स्तोत्रं कुर्वाण हे विशावित्र ते तव वचांसीमानि वाक्यान्या शृणवाम । षृणुमः । तव समीहितं प्रयोजन कुर्म इत्यर्थः । अनसा शकटेन रथेन च सह ययाथ । यतो दूरादागतोऽसि । वयं च ते त्वदर्थं नि नंस्यै । नीचैर्नमाम । प्रत्येकविवक्षयात्रैकवचनम् । रथेन गन्तुं गाधोदका भवामेत्यर्थः । तत्र दृष्टान्तः । पीप्यानेव योषा । पीप्याना पुत्रं स्तनं पाययन्ती योशा माता यथा प्रह्वीभवति । दृष्टान्तान्तरम् । यथा कन्या युवतिर्मर्यायेव मनुश्याय पित्रे भ्रात्रे वा शश्वचै परिषजनाय नम्रा भवति तद्वत्ते त्वदर्थं प्रह्वीभवादुः । ते इति पुनरुक्तिरादरार्थम् । एतामृचं यास्क एवं व्याचष्टे । आशृणवाम ते कारो वचनानि याहि दूरादनसा च रथेन च निनमाम ते पाययामानेव योषा पुत्रं मर्यायेव कन्या परिष्वजनाय निनमा इति वा । नि. २-२७ ॥ इति । कारो । सम्बुद्धौ शाकल्यस्येतौ । पा. १-१-१६ । इति प्रगृह्यसञ्ज्ञा । शृणवाम । श्रु श्रवण इत्यस्य लोट्याडुत्तमस्य पिच्चेत्याडागमः । पित्त्वाद्गुनः । निघातः । ययाथ । या प्रापण इत्यस्य भुतमात्रे लिटि थल्येकाच उपदेशेऽनुदात्तादितीट् प्रतिषेधः । लित्स्वरः । अनसा । सहार्थे तृतीया । नंस्यै । णमु प्रह्वत्व इत्यस्य लेट्युत्तमे लेटि सिब्बहुलमिति सिप् । वैतोऽन्यत्रेत्यैकारादेशः । निघातः । पीप्यानेव । पीङ् पान इत्यस्यान्तर्भावितण्यर्थस्य लिटि कानचि रूपम् । चित्स्वरः । योषा । यु मिश्रणे । वृतॄवदिहनीत्यादिना । उ. ३-६२ । सप्रत्ययः । यौतीति योषा । वृषादित्वादाद्युदात्तः । शश्वचै । श्वन्ज परिष्वङ्ग इत्यस्मात्सम्पदादिलक्षणो भावे क्विप् । पृषोदरादित्वादिष्टरूपसिद्धिरन्तोदात्तश्च ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre M
 For you: te is repeated at the end of the line; it is repeated out of respect, te iti punaruktir ādarārtham
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Rivers:] We will listen to your words, bard. You have driven from afar  with wagon and chariot.  
 I [=one river] will bow down to you like a young woman swollen (with  milk, to her infant), (while) I [=other river] will bend to you like a  maiden to her cavalier.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the two rivers refer to themselves collectively in the 1st pl. in ab, the second hemistich consists of two contrasting statements in the 1st sg., each presumably made by one of the rivers. This balanced contrast accounts for the accent on the 2nd verb śaśvacaí.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, we will listen to thy words, O singer. With wain and car from far away thou comest.  
      Low, like a nursing mother, will I bend me, and yield me as a maiden to her lover.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen deinen Worten Gehör schenken, o Dichter. Du bist mit Wagentroß und Streitwagen aus der Ferne gekommen. Ich will mich dir neigen wie die milchgeschwellte Frau zu ihrem Kinde, während ich dir nachgeben will, wie das Mädchen ihrem Liebsten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Wir wollen achten deiner Wort', o Dichter, du kamst von ferne mit beladnem Wagen; Dir neig' ich mich wie eine üpp'ge Buhle, wie ihrem Mann die Braut ergeb' ich dir mich.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы послушаемся, о восхвалитель, твоих слов.  
 Ты приехал издалека с обозом (и) колесницей.  

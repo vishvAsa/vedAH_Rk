@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुआधि꣡यो वि꣡ दु꣡रो देवय꣡न्तो  
 अ꣡शिश्रयू रथयु꣡र् देव꣡ताता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡म् अग्रु꣡वो न꣡ स꣡मनेषु अञ्जन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पू॒र्वी इति॑ । शिशु॑म् । न । मा॒तरा॑ । रि॒हा॒णे इति॑ । सम् । अ॒ग्रुवः॑ । न । सम॑नेषु । अ॒ञ्ज॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svādhyo* ← *svādhyaḥ* ← *svādhī*
 - \[noun\], nominative, plural, masculine
@@ -109,7 +109,7 @@ genre M
 **स्वाध्यः** सुकर्माणः **देवयन्तः** देवकामा यजमानाः **रथयुः** रथकामाश्च ॥ जसि पूर्वसवर्णो ह्रस्वश्च ॥ **देवताता** देवतातौ यज्ञे **दुरः** यज्ञगृहद्वाराणि **वि** **अशिश्रयुः** आश्रितवन्तः । किंच **समनेषु** यज्ञेषु **पूर्वी** प्राचीने प्रागग्रे जुहूपभृतौ **शिशुं** **न** वत्समिव मातरौ गावौ **रिहाणे** अग्निं लिहाने **अग्रुवो** **न** यथा नद्यः क्षेत्राण्युदकेन तद्वत् **सम्** **अञ्जन्** अध्वर्यवः आज्येन समञ्जन्ति ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ genre M
 The doors: among the Āpris; pūrvī śiśum na mātararihāṇe samagruvo na samaneṣu añjan = the prio (or eastern) calf like two mothers licking rivers, like insacrifices tey anoint = pūrvī prāgagre juhūpabhṛtau, the two ladles -- the **juhu** and upabhṛt-- plural ced atsacrifices with their ends to the east
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Serving the gods, very attentive, they have laid the doors that seek the  (divine) chariot open to the gods’ realm.  
 They jointly anoint like unwed girls in (marriage) assemblies the many  double (doors) that lick (the chariot) like two mother cows a calf.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With holy thoughts the pious have thrown open Doors fain for chariots in the Gods' assembly.  
      Like two full mother cows who lick their youngling, like maidens for the gathering, they adorn them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gutes im Sinn führend haben die Gottverlangenden auf den Götterwagen wartend die Tore für die Götterschaft geöffnet. Die vielen Doppeltore, die sich lecken wie zwei Mutterkühe ein Kalb, salben sie wie die ledigen Mädchen für die Hochzeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim Gottesdienste öffneten die Thore dem Wagenzuge andachtsvoll die Frommen; Sie schmücken sie wie Bräute zu der Hochzeit, wie reiche Aeltern, die ihr Kindlein kosen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Доброжелательные, преданные богам они растворили  
 Врата  

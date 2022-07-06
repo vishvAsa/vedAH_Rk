@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ तिय꣡त् पणीनां᳐꣡ विदो व꣡सु  
 स꣡म् मातृ꣡भिर् मर्जयसि स्व꣡ आ꣡ द꣡म  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 रो꣡चमानो व꣡यो दधे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 त्रि॒धातु॑ऽभिः । अरु॑षीभिः । वयः॑ । द॒धे॒ । रोच॑मानः । वयः॑ । द॒धे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -173,7 +173,7 @@ genre M
 हे सोम **त्वं** **त्यत्** **पणीनां** **वसु** पणिभिरपहृतं गवात्मकं धनं **विदः** अलभथाः। **आ** अपि च **ऋतस्य** यज्ञस्य **धीतिभिः** धात्रीभिः **मातृभिः** वसतीवरीभिः **स्वे** आत्मीये **दमे** गृहभूते **दमे** यज्ञे **सं** **मर्जयसि** सम्यक् शुद्धो भवसि । **परावतो** **न** दूरस्थाद्देशाद्यथा **साम** सामध्वनिः श्रूयते तथा तव **तत्** सामध्वनिः सर्वैः श्रूयते । असौ सोमाभिषवाभिप्रायेणोक्तः । **यत्र** यस्मिन् शब्दे **धीतयः** कर्मणो धर्तारो यजमानाः **रणन्ति** रमन्ते । **रोचमानः** सोमः **त्रिधातुभिः** त्रयाणां लोकानां धारयित्रीभिर्मातृभिर्वसतीवरीभिः **अरुषीभिः** आरोचमानाभिर्दीप्तिभिः **वयः** अन्नं **दधे** स्तोतृभ्यः प्रयच्छति । पुनः **वयो** **दधे** इत्यादरार्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -184,13 +184,13 @@ genre M
 By the mothers: the vasatīvarī waters
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You found that good thing of the Paṇis [=herd of cows]. You groom (it),  along with your mothers, in your own house—in your house through  the insights of truth.  
 Like a melody (heard) from afar, this is where the insights find pleasure. He has acquired vitality through the tripartite ruddy (cows)—shining, he  has acquired vitality.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, at least the 1st part of this vs. touches on the Vala myth (as did 1g), but with some twists. In pāda a “that good thing of the Paṇis” (tyát paṇīnā́m … vásu) must be the herd of cows concealed in the Vala cave.
 
@@ -205,23 +205,23 @@ As for pāda d, both Geldner and Renou take sā́ma as part of the frame, not th
 I take yátra as standing for yásmin, as the loc. regularly found with √ran, so it need not refer to a place or time. Both for the loc. with √ran and for the sā́man- as locus of pleasure, cf. I.147.1 rtásya s ̥ ā́man raṇáyanta devā́ḥ “the gods delight in the melody of truth.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That treasure of the Panis thou discoveredst; thou with thy mothers deckest thee in thine abode, with songs of worship in thine home.  
      As 'twere from far, the hymn is heard, where holy songs resound in joy. He with the ruddy-hued, threefold hath won life-power, he, glittering, hath won life-power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du fandest jenen Schatz der Pani´s; mit den Müttern zusammen machst du im eigenen Hause sauber, mit dem Gedanken an das Gesetz in dem Hause. Wie aus der Ferne kommt dieser Gesang, woran sich die frommen Gedanken weiden. Durch die dreifachen rötlichen Kühe hat er Lebenskraft bekommen, erglänzend hat er Lebenskraft bekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du fandest jenen reichen Schatz der Diebe auf, verherrlichst mit den Müttern ihn im eignen Haus durch Opfers Andacht in dem Haus; Wie aus der Ferne tönt der Sang, an dem die Frommen sich erfreun, Durch dreigetheilte lichte Tränke nimmt er Kraft, der glänzende nimmt Kraft sich an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты нашел то самое добро Пани.  
 Благодаря (своим) матерям ты наводишь блеск в своем доме,  

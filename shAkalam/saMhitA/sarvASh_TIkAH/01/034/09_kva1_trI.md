@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡व त्री꣡ चक्रा꣡ त्रिवृ꣡तो र꣡थस्य  
 कु꣡व त्र꣡यो वन्धु꣡रो ये꣡ स꣡नीळाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡न यज्ञं꣡ नासतियोपयाथः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 क॒दा । योगः॑ । वा॒जिनः॑ । रास॑भस्य । येन॑ । य॒ज्ञम् । ना॒स॒त्या॒ । उ॒प॒ऽया॒थः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kva*
 - \[adverb\]
@@ -119,7 +119,7 @@ genre M
 हे नासत्यौ अश्विनौ **त्रिवृत्रः** त्रिसंख्याकैरश्रिभिरुपेतस्य भवदीयस्य **रथस्य** ईषाद्वयं पूर्वभागे संयुज्यते । सेयम् एका अश्रिः । पृष्ठभागे वियुज्यते। तत्र कोणद्वयं संपद्यते । ईदृशस्य रथस्य संबन्धीनि **त्री** **चक्रा** त्रीणि चक्राणि **क्व** । कुत्र स्थितानीत्यस्माभिर्न दृश्यते । **ये** काष्ठविशेषाः **सनीळाः** । नीळं गृहसदृशं रथस्योपरि उपवेशस्थानम् । तेन सह वर्तन्ते इति सनीळाः । ते काष्ठविशेषाः **वन्धुरः** नीडबन्धनाधारभूताः **त्रयः** अक्षेण सहिते द्वे ईषे इत्येवं त्रिसंख्याकाः **क्व** । कुत्र स्थिता इत्यस्माभिर्न ज्ञायते । **वाजिनः** बलवतः **रासभस्य** भवदीयाश्वस्थानीयस्य गर्दभस्य **योगः** रथे योजनं **कदा** । कस्मिन् काले निष्पन्नम् इत्यस्माभिर्न दृश्यते । **येन** चक्रत्रयनीडकाष्ठत्रयसभयोजनसहितेन रथेन **यज्ञम्** अस्मदीयं यागस्थानम् **उपयाथः** युवां प्राप्नुथः । तादृशस्य रथस्येति पूर्वत्रान्वयः ॥ त्री चक्रा । उभयत्रापि ‘शेश्छन्दसि बहुलम् ' इति शेर्लोपः । वन्धुरः । बन्धेः औणादिकः उरप्रत्ययः । वत्वं छान्दसम् । सनीळाः। 'वोपसर्जनस्य' इति सभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,36 +132,36 @@ Trivṛto rathasya = tribhiraśribhir-upetasya rathasya; the front of the car is
 **Rāsabha** = **gardabha**, ass; rāsabhāvaśvinoḥ, two asses are the steeds of **Aśvins**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where are the three wheels of your triply turning chariot, where the  three seats which are in the same nest [=chariot box]?  
 When is the yoking of the prizewinning donkey, with which, Nāsatyas,  you drive up to the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “three wheels” (trī́cakrā́) here are surely imposed by the insistent “three” theme of this hymn. Vedic chariots ordinarily had two wheels (see Sparreboom, Ved.
 
 Ch., 10-11), and how a third wheel would even be affixed isn’t clear to me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where are the three wheels of your triple chariot, where are the three seats thereto firmly fastened?  
      When will ye yoke the mighty ass that draws it, to bring you to our sacrifice. Nasatyas?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo sind die drei Räder eures dreiteiligen Wagens, wo die drei brüderlichen Sitze? Wann geschieht die Schirrung des siegreichen Esels, mit dem ihr Nasatyas zum Opfer fahret?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo sind die drei Räder des dreifach rollenden Wagens? wo die drei Wagensitze, die gleiche Stätte haben? Wann geschieht die Anschirrung des starken Eselhengstes, mit dem ihr, o Açvinen, zum Opfer fahrt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где три колеса трехчастной колесницы?  
 Где три сиденья, что сопряжены?  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡भ्यो माता꣡ म꣡धुमत् पि꣡न्वते प꣡यः  
 पीयू꣡षं द्यउ꣡र् अ꣡दितिर् अ꣡द्रिबर्हाः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ताँ꣡ आदित्याँ꣡ अ꣡नु मदा सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒क्थऽशु॑ष्मान् । वृ॒ष॒ऽभ॒रान् । स्वप्न॑सः । तान् । आ॒दि॒त्यान् । अनु॑ । म॒द॒ । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yebhyo* ← *yebhyaḥ* ← *yad*
 - \[noun\], dative, plural, masculine
@@ -113,7 +113,7 @@ genre M
 **माता** सर्वस्य निर्मात्री पृथिवी **येभ्यः** देवेभ्यो देवार्थं **मधुमत्** माधुर्योपेतं पयः सारभूतं. क्षीरं **पिन्वते** क्षरति । तथा **अदितिः** अदीना **अद्रिबर्हा:** मेघैः परिवृढा प्रवृद्धा परिवृद्धमेघा वा **द्यौः** च **पीयूषं** पिन्वते । द्यावापृथिव्यौ हविरुत्पादयत इत्यर्थः । ऋषिरात्मानं संबोध्याह । **उक्थशुष्मान्** स्तुतिबलान् **वृषभरान्** वृष्टेराहर्तॄन् । “ ह्रग्रहोर्भः' इति भः । **स्वप्नसः** सुकर्मणः **तानादित्यान्** अदितेः पुत्रान् देवान् **स्वस्तये** अविनाशाय **अनु** **मद** अनुस्तुहि । माद्यतेर्लोटि व्यत्ययेन शप् । मन्दतेर्वा स्तुत्यर्थस्य  अनित्यमागमशासनम् ' इति नुमभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,30 +124,30 @@ genre M
 Whose strength is praise:ukthabalān = very strong
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those for whom their mother swells the honeyed milk, (for whom) Aditi,  (like) unbounded heaven, massive as a stone, (swells) the beestings,  
 those whose gusts are hymns, bullishly bearing, rich in property—  
 applaud those Ādityas—for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I will rejoice in these Adityas for my weal, for whom the Mother pours forth water rich in balm,  
      And Dyaus the Infinite, firm as a rock, sweet milk,-Gods active, strong through lauds, whose might the Bull upholds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denen die Mutter süße Milch quillt, die felsenfeste Himmels-Aditi ihren Rahm, die von Lobliedern ermutigten, Stierlasten tragenden, gut lohnenden, diese Aditya´s begrüße freudig zum Heile!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, die die Mutter reichlich tränkt mit süssem Trank, mit Milch der Himmel, unbegrenzt und felsenfest, Die spruchumrauschten, reichen, Männer hegenden Aditja's will zum Heil begrüssen jubelnd ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

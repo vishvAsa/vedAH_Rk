@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जातो꣡ अग्नी꣡ रोचते चे꣡कितानो  
 वाजी꣡ वि꣡प्रः कविशस्तः꣡ सुदा꣡नुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हव्यवा꣡हम् अ꣡दधुर् अध्वरे꣡षु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 यम् । दे॒वासः॑ । ईड्य॑म् । वि॒श्व॒ऽविद॑म् । ह॒व्य॒ऽवाह॑म् । अद॑धुः । अ॒ध्व॒रेषु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
@@ -118,41 +118,41 @@ genre D
 **जातः** मन्थनानन्तरमुत्पन्नः स च **चेकितानः** सर्वं जानानः सन् **वाजी** सततगमनस्वभावः **विप्रः** कर्माभिज्ञः अत एव **कविशस्तः** कविभिर्मेधाविभिर्होतृभिः स्तुतः सुदानुः सुष्ठु कर्मफलस्य दाता एवंविधः **अग्निः** **रोचते** दीप्यते । **देवासः** देवाः इन्द्रादयः **ईड्यं** होत्रादिभिः स्तुत्यं **विश्वविदं** सर्वस्य जगतो वेदितारं **यम्** अग्निम् **अध्वरेषु** ज्योतिष्टोमादियज्ञेषु **हव्यवाहं** हव्यानां वोढारम् **अदधुः** व्यदधुः सोऽग्निर्दीप्यते इति पूर्वेणान्वयः ॥ चेकितानः ।  ‘ कित ज्ञाने' इत्यस्य यङ्लुकि ' गुणो यङ्लुकोः ' इति अभ्यासस्य गुणः ।  ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । कविशस्तः । थाथघञ्ताणःजबित्रकाणाम्' इत्यन्तोदात्तत्वम् । अदधुः । दधातेर्लङि झेः 'सिजभ्यस्तविदिभ्यश्च ' इति जुस् । यद्वृत्तयोगादनिघातः । अडागमस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As soon as born **Agni**, shines intelligent, swift-moving, skilled in rites, praised by the wise, and liberal in gifts; (and it is he) whom the gods have held as the bearer of oblations at sacrifices, adorable and all-knowing.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As soon as he is born, Agni shines, becoming ever more visible—he,  the prizewinning horse, the inspired one praised by poets, the one  bringing good gifts,  
 whom the gods have established at the rites—the one to be summoned,  knowing all things, conveying oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni shines forth when born, observant, mighty, the bountiful, the Singar praised by sages;  
      Whom, as adorable and knowing all things, Gods set at solemn rites as offeringbearer.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, when born, shines forth resplendent, the racer, the priest, praised by the sages, the giver of rain, whom the gods placed in the sacrifices, to be magnified, as the omniscient carrier of the sacrificial offerings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geboren erstrahlt Agni, die Augen auf sich ziehend, der siegreiche, redekundige, von den Sehern gepriesen, gabenschön, den die Götter als berufenen allwissenden Opferfahrer zu den Opfern bestellt haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren leuchtet Agni hell erstrahlend, der schnelle, rege, von den Sängern gepriesene, gabenreiche, der preisenswerthe, allwissende, den die Götter bei den Opferfesten als Ueberbringer der Opfertränke einsetzten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Едва) родившись, Агни сверкает, притягивая к себе взоры,  
 Завоевывающий награды, вдохновенный, прославленный поэтами, с прекрасными дарами,  

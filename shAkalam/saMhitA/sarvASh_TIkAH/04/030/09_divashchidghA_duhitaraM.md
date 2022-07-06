@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡श् चिद् घा दुहित꣡रम्  
 महा꣡न् महीय꣡माना᳐म्  
 उषा꣡सम् इन्द्र स꣡म् पिणक्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 उ॒षस॑म् । इ॒न्द्र॒ । सम् । पि॒ण॒क् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divaś* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -81,20 +81,20 @@ genre M
 हे **इन्द्र** **महान्** त्वं **दिवः** **दुहितरं** द्युलोकस्य पुत्रीं **महीयमानां** पूज्यमानाम् **उषसम्** उषोदेवीं **सं** **पिणक्** **चिद्ध** संपिष्टवानसि खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You **Indra**, who are mighty, have enriched glorious dawn, the daughter of heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The daughter of Heaven: though she was honored as great, you,  the great,  
 crushed Dawn completely.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The voc. indra was omitted in the published translation, so “o Indra” should be inserted at the end.
 
@@ -109,23 +109,23 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, Mighty One, didst crush Usas, though Daughter of the Sky.  
      When lifting up herself in pride.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Usas, die doch des Himmels Tochter, die sich groß tat, hast du, der Große, zerschlagen, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Tochter, Indra, hast du grosser, die sich gross erschien, Die Morgenröthe du zermalmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эту самую дочь неба,  
 Мнящую себя великой,  

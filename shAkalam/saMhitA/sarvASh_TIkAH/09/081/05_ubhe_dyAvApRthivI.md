@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभे꣡ द्या꣡वापृथिवी꣡ विश्वमिन्वे꣡  
 अर्यमा꣡ देवो꣡ अ꣡दितिर् विधाता꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे देवाः꣡ प꣡वमानं जुषन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 भगः॑ । नृऽशंसः॑ । उ॒रु । अ॒न्तरि॑क्षम् । विश्वे॑ । दे॒वाः । पव॑मानम् । जु॒ष॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
@@ -104,42 +104,42 @@ genre M
 **विश्वमिन्वे** । इन्वतिर्व्याप्तिकर्मा । सर्वव्यापिन्यौ **उभे** **द्यावापृथिवी** द्यावापृथिव्यौ अर्यमादयस्त्रयश्च भगश्च **नृशंसः** नृभिः शंसनीयः **उर्वन्तरिक्षं** च **विश्वे** **देवाः** च **पवमानं** पूयमानं सोमं **जुषन्त** सेवन्ते ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The all-pervading couple heaven and earth, the divine **Aryaman**, **Aditi**, **Vidhātā**, **Bhaga** deserving the praise of men, the spacious firmament, all the gods honour the purified (**Soma**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Both Heaven and Earth who set all in motion, god Aryaman, Aditi, the  Apportioner,  
 Bhaga, Praise of Men, broad Midspace—all the gods—enjoy the  
 self-purifying one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In b paryáyā(ḥ) is the augmented impf. to √yā; so correctly Grassmann, Geldner But Renou in a rare grammatical lapse seems in his n. to take it as a subjunctive (presumably to √i), but that form should be (and is) áyaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Both Heaven and Earth, the all-invigorating Pair, Vidhatar, Aditi, and Aryaman the God,  
      Bhaga who blesses men, the spacious Firmament,-let all the Gods in Pavamana take delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beide, Himmel und Erde, die alles zuwege Bringenden, Gott Aryaman, Aditi, Vidhatri, Bhaga, Nrisamsa, der weite Luftraum, alle Götter sollen sich am Pavamana erfreuen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es mögen Erd' und Himmel alldurchdringend, Gott Arjaman und Aditi, Vidhatar, Bhaga und Çansa und der weite Luftraum, die Götter alle den geklärten trinken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Оба: Небо и Земля, все приводящее в движение,  
 Арьяман-бог, Адити, Распределитель (благ),  

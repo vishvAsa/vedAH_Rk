@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् विविड्ढि य꣡त् त इ꣡न्द्रो जु꣡जोषत्  
 स्तुहि꣡ सुष्टुतिं꣡ न꣡मसा꣡ विवास  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्राव꣡या वा꣡चं कुवि꣡द् अङ्ग꣡ वे꣡दत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उप॑ । भू॒ष॒ । ज॒रि॒तः॒ । मा । रु॒व॒ण्यः॒ । श्र॒वय॑ । वाच॑म् । कु॒वित् । अ॒ङ्ग । वेद॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -127,20 +127,20 @@ genre M
 हे ऋत्विक् **तत्** सोमादिहविः स्तोत्रं वा **विविड्ढि** व्यापय । तानीन्द्रार्थं कुर्वित्यर्थः । **ते** तव स्वभूतं **यत्** हविः स्तोत्रं वा **इन्द्रः** **जुजोषत्** स्वीकुर्यात् तस्कुरु । ‘जुषी प्रीतिसेवनयोः । लेटि शपः श्लुः । अडागमः । छान्दसत्वात् ' नाभ्यस्तस्य' इति गुणप्रतिषेधाभावः । हे स्तोतः **सुष्टुतिं** सुस्तुतिम् । शोभना स्तुतिर्यस्य स तथोक्तः । तादृशमिन्द्रं **स्तुहि** । तथा **नमसा** स्तोत्रेण हविषा वा **आ** **विवास** इन्द्रमाभिमुख्येन परिचर । विवासतिः परिचरणकर्मा । लोटि रूपम् । हे **जरितः** स्तोतः **उप** **भूष**।‘भूष अलंकारे'। अलंकृतो भव। **मा** रुवण्यः धनाभावात् मा ध्वनयः । मा रोदीरित्यर्थः। धनागमने कारणमाह। हे स्तोतः **वाचं** स्तुतिमिन्द्रं **श्रावय** ज्ञापय । ततस्त्वया स्तुत इन्द्रस्तुभ्यं **कुवित्** बहु धनं क्षिप्रं प्रयच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Perform those rites of yours that **Indra** may accept them; praise him to whom praise belongs, worshiphim with your service; O priest, adorn thyself, grieve not (for poverty); let Indra hear your praise, may he speedilygive much wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Labor at what Indra will enjoy from you. Give as praise a good praise  hymn. Seek to entice him here with reverence.  
 Be attentive, singer. Don’t screech, but make your speech heard. Surely  he will take cognizance (of it)?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I use two different English tr. for namanti, ‘bend’ and ‘bow’, depending on the object; this is merely an English problem, as the passage adduced by Geldner shows: VII.23.20 ā́... índram ... name girā́, nemíṃ táṣṭeva.
 
@@ -149,23 +149,23 @@ In cd I supply ‘cry out’ (√svar) on the basis of 11a sám … asvaran (not
 Geldner takes tarasvínaḥ as nom. pl., which is grammatically possible, but I prefer Oldenberg’s gen. sg. (an alternative also for Grassmann), since the same adj. modifies Indra in 10d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Serve him with gifts of thine which Indra welcomes: praise with fair praise, invite him with thine homage.  
      Draw near, O singer, and refrain from outcry. Make thy voice heard, for will not he regard it?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring das fertig, woran dir Indra Gefallen finden wird, sing ein Loblied, bitte ihn unter Verbeugungen her! Mach deine Sache recht, o Sänger, gröle nicht, laß deine Rede hören! Gewiß wird er sie recht verstehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das bringe dar, was gern dir Indra annimmt, das Loblied singe, lock ihn her durch Andacht; Hab' Acht, o Sänger, nicht sei rauh die Stimme; das Lied lass hören, ob er wol drauf achtet?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

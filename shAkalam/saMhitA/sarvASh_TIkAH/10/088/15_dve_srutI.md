@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुवे꣡ स्रुती꣡ अशृणवम् पितॄणा꣡म्  
 अहं꣡ देवा꣡नाम् उत꣡ म꣡र्तियानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् अन्तरा꣡ पित꣡रम् मात꣡रं च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ताभ्या॑म् । इ॒दम् । विश्व॑म् । एज॑त् । सम् । ए॒ति॒ । यत् । अ॒न्त॒रा । पि॒तर॑म् । मा॒तर॑म् । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dve* ← *dvi*
 - \[noun\], accusative, dual, feminine
@@ -124,7 +124,7 @@ popular
 **पितॄणां** **देवानां** च **उत** अपि **मर्त्यानां** मनुष्याणां च **द्वे** **स्रुती** द्वौ मार्गौ देवयानपितृयाणाख्यौ **अहम्** **अशृणवम्** अश्रौषम् । **यत्** विश्वं **पितरं** पालकत्वेन पितृभूतां द्यां **मातरं** **च** धारकत्वेन मातृभूतां पृथिवीं च **अन्तरा** द्यावापृथिव्योर्मध्ये भवति तत् **इदं** **विश्वम्** अग्निना संस्कृतं सत् **एजत्** देवलोकं पितृलोकं च गच्छत् **ताभ्यां** देवयानपितृयाणाख्याभ्यां मार्गाभ्यां **समेति** गच्छति । तौ च मार्गौ भगवता दर्शितौ -- ’ अग्निर्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम् । तत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः ॥ धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम् । तत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते । शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते । एकया यात्यनावृत्तिमन्ययावर्तते पुनः ॥ नैते सृती पार्थ जानन्योगी मुह्यति कश्चन ' (भ.गी.८.२४-२७) इति॥१२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ popular
 **Yajus**. 19.27; the twopaths, the **pitṛyāna** and the **devayāna** are describedin **Bhagavadgītā** 7.24 o 26
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have heard from the forefathers that there are two routes, (that of) the  gods and (that of) mortals.  
 Along those two everything that moves goes together, whatever is  between the father [=Heaven] and the mother [=Earth].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I have heard mention of two several pathways, ways of the Fathers and of Gods and mortals.  
      On these two paths each moving creature travels, each thing between the Father and the Mother.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwei Wege, so hörte ich von den Vätern, gibt es für die Götter und die Sterblichen. Auf diesen beiden kommt all dies Lebendige zusammen, das zwischen dem Vater, dem Himmel, und der Mutter, der Erde, ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zwei Pfade gibt's, so sagten mir die Väter, den Göttern gangbar und den Menschenkindern, Auf ihnen wandelt alles, was sich reget, was zwischen Erd' und Himmel ist, den Aeltern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

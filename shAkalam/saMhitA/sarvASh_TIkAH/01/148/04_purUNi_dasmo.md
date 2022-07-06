@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरू꣡णि दस्मो꣡ नि꣡ रिणाति ज꣡म्भैर्  
 ã꣡द् रोचते व꣡न आ꣡ विभा꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡स्तुर् न꣡ श꣡र्याम् असना꣡म् अ꣡नु द्यू꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 आत् । अ॒स्य॒ । वातः॑ । अनु॑ । वा॒ति॒ । शो॒चिः । अस्तुः॑ । न । शर्या॑म् । अ॒स॒नाम् । अनु॑ । द्यून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
@@ -132,46 +132,46 @@ genre M
 अनुकूलं प्रेरयति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The destroyer, (**Agni**), consumes numerous (trees) by his flames, and shares with manifold radiance in the forest; the favouring wind blows (the flames) onwards day by day, like the swift arrows (**śaryā** iṣavaḥ śaramayyaḥ--**Nirukta** 5.4) of an archer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The wondrous one dissolves many things with his fangs. After that,  far-radiant, he shines in the wood;  
 after that the wind fans his flame, like an arrow, the shot of a shooter,  through the days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The expression in pāda a, “dissolve with his fangs,” sounds odd, but since Agni’s fangs are surely his flames, the image is less contorted than it first seems.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wondrous, full many a thing he chews and crunches: he shines amid the wood with spreading brightness.  
      Upon his glowing flames the wind blows daily, driving them like the keen shaft of an archer.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The marvellous one destroys many things with his jaws. Then 1 the resplendent one shines in the forest. Then the wind blows after his flame day by day as after the arrow of an archer, after a weapon that has been shot.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viele Hölzer macht der Geschickte mit den Zähnen klein. Dann leuchtet er erglänzend im Holze, dann weht der Wind hinter seiner Glut her wie hinter dem Pfeilgeschoß des Schützen, Tag für Tag;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gar viel zermalmt er leuchtend mit den Zähnen, und wunderbar erstrahlt er in dem Holze, Dann wehet seiner Flammenglut der Wind nach, wie dem geschossnen Pfeil des Schützen täglich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Много (чего) удивительный перемалывает (своими) зубами.  
 Вот он горит в лесу, сверкающий;  

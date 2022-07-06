@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡चिर् देवे꣡षु अ꣡र्पिता  
 हो꣡त्रा मरु꣡त्सु भा꣡रती  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 बर्हिः꣡ सीदन्तु यज्ञि꣡याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इळा॑ । सर॑स्वती । म॒ही । ब॒र्हिः । सी॒द॒न्तु॒ । य॒ज्ञियाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
@@ -94,7 +94,7 @@ genre M
 **शुचिः** शुद्धा **मरुत्सु** विरूद्धलक्षणया अमरणेषु **देवेषु** द्योतनशीलेषु स्तोतृषु मरुत्सु ऋत्विक्षु वा **अर्पिता** नियता **होत्रा** होमनिष्पादिका भारती भरतस्यादित्यस्य संबन्धिनी द्युस्थाना वाक् । तथा **इळा** पार्थिवी प्रैषादिरूपा **मही** महती **सरस्वती** । सर इत्युदकनाम । तद्वती स्तनितादिरूपा माध्यमिका च वाक् एतास्तिस्रः त्रिस्थानवागभिमानिदेवताः **यज्ञियाः** यज्ञार्हाः सत्यः **बर्हिः** स्तीर्णं **सीदन्तु** उपविशन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,33 +105,33 @@ genre M
 Hotā = **homa**-niṣpādikā, the presenter of the oblation; deveṣu arpitā = delivered amongst the gods, the praisers of priests (Marutsu); or, marutsu-bhāratī = vāc, situated in heaven, dyusthānā and connected with **bharata**, an **Āditya**, or name of the sun; iḷā, sarasvatī, mahī = sound (vāc); or the goddesses presiding over sound in the three regions, severally of earth, firmament, and heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let gleaming Hotrā Bhāratī [/the Oblation of the Bharatas], fitted in her  place among the gods, among the Maruts,  
 (also) Iḷā and great Sarasvatī, (all) worthy of the sacrifice, sit on the  ritual grass.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let Hotra pure, set among Gods, amid the Maruts Bharati, Ila, Sarasvati, Mahi, rest on the grass, adorable.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The brilliant (goddess) placed among the gods, among the Maruts 1, Hotrâ Bhâratî 2, Ilâ, Sarasvatî, and Mahî 3: may these worshipful (goddesses) sit down on the sacrificial grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die reine, unter die Götter, unter die Marut versetzte Hotra Bharati, Ila, die große Sarasvati, die opferwürdigen sollen sich auf das Barhis setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die reine Hotra, Bharati, den Göttern und den Maruts lieb, Ida, Sarasvati, Mahi, die heil'gen mögen sitzen hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чистая, помещенная среди богов  
 Хотра, среди Марутов – Бхарати,  

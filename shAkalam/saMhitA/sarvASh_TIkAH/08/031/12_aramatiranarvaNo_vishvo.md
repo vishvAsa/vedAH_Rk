@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर꣡मतिर् अनर्व꣡णो  
 वि꣡श्वो देव꣡स्य म꣡नसा  
 आदित्या꣡नाम् अनेह꣡ इ꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 आ॒दि॒त्याना॑म् । अ॒ने॒हः । इत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aramatir* ← *aramatiḥ* ← *aramati*
 - \[noun\], nominative, singular, feminine
@@ -72,7 +72,7 @@ genre M
 देवानां मध्ये पूषणमाह । **अनर्वणः** । अर्वा गन्तव्यः । शत्रुभिरगन्तव्यस्य अप्रत्यृतस्य **देवस्य** द्योतमानस्य पूष्णः **विश्वः** सर्वः स्तोतृजनः **मनसा** श्रद्धया भक्त्यैव **अरमतिः** अलंमतिः पर्याप्तस्तुतिर्भवति । तथा हि **आदित्यानाम्** अदितेः पुत्राणां देवानां दानम् **अनेह** **इत्** अपापमेव खलु । तस्मादन्नादिप्राप्तये स्तोतृजनः पूषणं स्तौतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -83,13 +83,13 @@ genre M
 Unwearied praisers: aramatiḥ = **alam** **matiḥ**, paryāpta **stutiḥ**; sinless of theĀdityas: verily (the gifts) of the Ādityas are void of evil, therefore we praise Pūṣan for the attainment offooḍ..
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Let) Aramati [/Devotion] (come), (let) every unassailing one with the  mind of a god,  
 the faultless (gift?) of the Ādityas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. consisting entirely of nominals is surprisingly hard to interpret, primarily because of the unclear grammatical identity of anarváṇaḥ and the lack of parallelism between the animates of ab and the neut. aneháḥ of c.
 
@@ -108,23 +108,23 @@ As for aneháḥ, Geldner and Renou supply ‘protection’ (Geldner “der unfe
 (construing ādityā́nām with víśvaḥ), though in his comm. on this passage he rescinds this in favor of its depending on aneháḥ (without tr.). On the basis of I.185.3 anehó dātrám áditer anarvám “the faultless gift of Aditi, which is unassailable” I tentatively supply ‘gift’ (note the presence also of another apparently variant stem, anarvá-; see comm. there). However, the Geldner/Renou solution is quite possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aramati, and, free from foes, Visva with spirit of a God,  
      And the Adityas' peerless might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aramati, die Unerreichbaren, ein jeder mit des Gottes Sinn, der unfehlbare Schirm der Aditya´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aramati, Anarvana und jeder unvergleichliche Aditja mit der Götter Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Арамати, (эти) неодолимые,  
 Каждый с божественным промыслом,  

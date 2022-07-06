@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡षो देवि अ꣡मर्तिया वि꣡ भाहि  
 चन्द्र꣡रथा सूनृ꣡ता ईर꣡यन्ती  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हि꣡रण्यवर्णाम् पृथुपा꣡जसो ये꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । त्वा॒ । व॒ह॒न्तु॒ । सु॒ऽयमा॑सः । अश्वाः॑ । हिर॑ण्यऽवर्णाम् । पृ॒थु॒ऽपाज॑सः । ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
@@ -124,7 +124,7 @@ genre M
 हे **उषो** देवि **अमर्त्या**  मरणधर्मरहिता **चन्द्ररथा** सुवर्णमयरथोपेता **सूनृताः** प्रियसत्यरूपा वाचः **ईरयन्ती** उच्चारयन्ती । तथा च मन्त्रवर्णः - सुम्नावरी सूनृता ईरयन्ती' (ऋ. सं. १. ११३. १२) इति । तादृशी त्वं **वि** **भाहि** सूर्यकिरणसंबन्धात् विशेषेण दीप्यस्व' । **पृथुपाजसः** प्रभूतबलयुक्ता अरुणवर्णाः **ये** **अश्वाः** विद्यन्ते **सुयमासः** सुष्ठु नियन्तुं शक्या रथे योजितास्तेऽश्वाः **हिरण्यवर्णा** **त्वा** त्वाम् **आ** **वहन्तु** ॥ सुयमासः । यमेरकृच्छ्रार्थे खल् । लित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 Causing up to be heard the sound of truth: sunṛta irayanti (also used in RV. 1.113.12: sunṛta irayanti rendered as awakener of plural asant voices, the dawn exciting or awakening the true or agreeable cries of beasta nd birds)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O goddess Dawn, as immortal one radiate widely, possessing a gleaming  chariot, arousing liberalities.  
 Let your horses, easy to control, convey you hither—you of golden color,  they who have broad flanks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Shine forth, O Morning, thou auspicious Goddess, on thy bright car awaking pleasant voices.  
      Let docile horses of far-reaching splendour convey thee hitherward, the goldencoloured.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Göttin Usas erstrahle du, Unsterbliche, auf schimmerndem Wagen, Schenkungen aufbringend. Die lenksamen Rosse von breiter Gestalt sollen dich, die Goldfarbige, herfahren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erstrahl', o Göttin, ew'ge Morgenröthe mit Strahlenwagen, Lobgesänge weckend, Dich mögen fahren schöngelenkte Rosse, die weithin schimmern, dich die goldgefärbte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О богиня Ушас, воссвети как бессмертная  
 На сверкающей колеснице, приводя в движение дары!  

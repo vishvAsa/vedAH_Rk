@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शृण्वे꣡ वृष्टे꣡र् इव स्वनः꣡  
 प꣡वमानस्य शुष्मि꣡णः  
 च꣡रन्ति विद्यु꣡तो दिवि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 चर॑न्ति । वि॒ऽद्युतः॑ । दि॒वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
@@ -77,37 +77,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **शृण्वे** श्रूयते । किम् । सोमस्वनः । किमिव । **वृष्टेः** वर्षणस्य **स्वनः** **इव** । तस्य यथा महान् स्वनः श्रूयते तद्वत् प्रभूतरसापातसमये श्रूयते । कस्य स्वन इति तत्राह । **पवमानस्य** पूयमानस्य **शुष्मिणः** बलवतः । तस्यैव **विद्युतः** दीप्तयः **दिवि** अन्तरिक्षे **चरन्ति** ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sound of the purified, powerful **Soma** is heard like that of rain; (his) lightning moves in the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A roar like that of rain is heard—the roar of the self-purifying  
 tempestuous one.  
 Lightning flashes roam in heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mighty Pavamana's roar is heard as 'twere the rush of rain  
      Lightnings are flashing to the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Rauschen des feurigen Pavamana hört sich an wie das des Regens. Es fahren seine Blitze am Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Regens Rauschen wird gehört der Schall des starken, rieselnden, Am Himmel streichen Blitze hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Слышен шум, как от дождя,  
 От яростного Паваманы.  

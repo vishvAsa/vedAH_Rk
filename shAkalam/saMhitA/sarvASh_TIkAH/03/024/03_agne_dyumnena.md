@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने द्युम्ने꣡न जागृवे  
 स꣡हसः सूनव् आहुत  
 ए꣡द꣡म् बर्हिः꣡ सदो म꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 आ । इ॒दम् । ब॒र्हिः । स॒दः॒ । मम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -90,7 +90,7 @@ genre M
 **द्युम्नेन** स्वतेजसा सह **जागृवे** । जागर्तीति जागृविः । तस्य संबुद्धिः । लोकरक्षार्थं स्वतेजसा सह सर्वदा जागरणोपेत **आहुत** देवताह्वानार्थम् अस्माभिः आहुत **सहसः** **सूनो** बलस्य पुत्र हे **अग्ने** **मम** मत्संबन्धिन्यस्मिन् यज्ञे यद्वेद्यामास्तीर्णम् **इदं** **बर्हिः** तत्र **आ** **सदः** आसीद ॥जागृवे।  ‘ जागृ निद्राक्षये '। जॄशॄस्तॄजागृभ्यः क्विन्' इति क्विन् । कित्त्वादगुणः । जागर्तीति जागृविः । 'जागृविर्जागरणात् ' ( निरु. ९. ८ ) इति यास्कः ।  ‘ संबुद्धौ च ' इति गुणः । एङ्ह्रस्वात्° । (पा. सू. ६. १. ६९ ) इति सोर्लोपः । निघातः । सहसः सूनो । सुप आमन्त्रिते पराङ्गवद्भावादनुदात्तत्वे पादादित्वादनिघातः । सदः । षद्लृ विशरणगत्यवसादनेषु ' इत्यस्य छान्दसे लुङि लृदित्त्वादङ् । निघातः । मम । अस्मच्छब्दस्य षष्ठ्येकवचने ममादेशः । युष्मदस्मदोर्ङसि' इत्याद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,34 +101,34 @@ genre M
 Vigilant: dyumnena jāgṛve = svatejasā **sarvadā** jāgaraṇopeta (jāgṛvir jāgaraṇāt: **Nirukta** 9.8), always endowed with his vigilance by own lustre or energy, **loka**-rakṣārtham, for the preservation of the world
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, who are awake with brilliance! O son of strength, to whom  offering is made!  
 Sit here on this ritual grass of mine!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With splendour, Agni, Son of Strength, thou who art worshipped, wakeful One.  
      Seat thee on this my sacred grass.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, wakeful one, son of strength, into whom offerings are poured, sit down with thy splendour on this sacrificial grass of mine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, du Sohn der Kraft, mit deinem Glanze wachsam, mit Schmalz begossen, setze dich nieder auf mein Barhis hier!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Glanz, o wacher Agni du, o Sohn der Kraft, beopferter, Setz' dich auf diese meine Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни бодрствующий со (своим) блеском,  
 О сын силы, политый (маслом),  

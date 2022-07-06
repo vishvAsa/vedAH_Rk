@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ रेवाँ꣡ इव विश्प꣡तिर्  
 दइ꣡व्यः केतुः꣡ शृणोतु नः  
 उक्थइ꣡र् अग्नि꣡र् बृह꣡द्भानुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 उ॒क्थैः । अ॒ग्निः । बृ॒हत्ऽभा॑नुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -88,7 +88,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **सः** **अग्निः** **उक्थैः** स्तोत्रैर्युक्तान् **नः** अस्मान् **शृणोतु** । तत्र दृष्टान्तः। **रेवानिव**। यथा लोके धनवान् राजा वन्दिनां स्तोत्रं शृणोति तद्वत् । कीदृशः । **विश्पतिः** प्रजापालकः **दैव्यः** देवानां संबन्धी । **अग्निर्वै** देवानां होता' (ऐ. ब्रा. ३. १४ ) इति श्रुत्यन्तरात् । **केतुः** दूतवत् ज्ञापकः । ‘अग्निर्वै देवानां दूत आसीत् ' (तै. सं. २. ५. ८. ५) इति श्रुतेः । **बृहद्भानुः** प्रौढरश्मिः ॥ स रेवान् । एतत्तदोः ' (पा. सू. ६. १. १३२ ) इति सोर्लोपः । ‘रयेर्मतौ बहुलम्' इति संप्रसारणम् । परपूर्वत्वम् ।' आद्गुणः । छन्दसीरः' इति मतुपो वत्वम् । आरेशब्दाच्च मतुप उदात्तत्वं वक्तव्यम्' ( पा. सू. ६. १. १७६. १) इति मतुप उदात्तत्वम् । विश्पतिः । ‘परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् । बृहद्भानुः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,34 +99,34 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 The text has revān iva = as a rich man
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a rich clanlord, let the divine beacon listen to us  
 along with our hymns—Agni of lofty radiance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like some rich Lord of men may he, Agni the banner of the Gods,  
      Refulgent, hear us through our lauds.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May he hear us, like the rich lord of a clan, the banner of the gods, on behalf of our hymns, Agni with bright light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er soll wie ein reicher Clanherr auf uns hören, das göttliche Banner, Agni, der bei unseren Lobliedern hell erglänzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als reicher Stammfürst höre er, der Götter hohes Banner, uns, Agni, der hell durch Spruch erglänzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он, как богатый глава рода,  
 Божественное знамя, пусть слушает нас  

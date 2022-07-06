@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तीर्ण꣡म् बर्हि꣡र् उ꣡प नो याहि वीत꣡ये  
 सह꣡स्रेण · नियु꣡ता नियुत्वते  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 म꣡दाय क्र꣡त्वे अस्थिरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 प्र । ते॒ । सु॒तासः॑ । मधु॑ऽमन्तः । अ॒स्थि॒र॒न् । मदा॑य । क्रत्वे॑ । अ॒स्थि॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stīrṇam* ← *stṛ*
 - \[verb noun\], nominative, singular
@@ -161,21 +161,21 @@ genre M
 हे वायो **नः** अस्मद्यज्ञार्थं **स्तीर्णम्** आस्तृतं **बर्हिः** अभिलक्ष्य **उप** **याहि** आगच्छ। किमर्थम्। **वीतये** हविषां भक्षणाय। केन साधनेनेति तदुच्यते। **सहस्रेण** सहस्रसंख्याकेन **नियुता**। जातावेकवचनम् ॥ नियुत इति वायोरश्वानां नामधेयं, ' नियुतो वायोः' (नि. १. १५. १०) इति निरुक्तत्वात् । तथा **शतिनीभिः** शतसंख्योपेताभिः नियुद्भिः आगच्छेति शेषः । यद्वा । सहस्रेण नियुता शतिनीभिश्च नियुद्भिः **नियुत्वते** तद्वते देवाय हविर्दीयते इति शेषः । यद्वा । तुभ्यमित्यनेन संबन्धः । उक्तसंख्याकाभिर्नियुद्भिः तद्वते **देवाय** द्योतमानाय **तुभ्यम्** ॥  ‘ ङयि च ' ( पा. सू. ६. १. २१२) इति आद्युदात्तत्वम् ॥ **पूर्वपीतये** इतरदेवेभ्यः पूर्वं पानाय **देवाः** **येमिरे** यमितवन्तः । यद्वा । स्तोतारः ऋत्विजो देवाय तुभ्यं येमिरे । आहवनीयं प्रति सोमं नियमितवन्तः । अग्रं पिबा मधूनां सुतं वायो' (  ऋ. सं. ४. ४६. १ ) इत्यादिमन्त्रान्तरप्रसिद्धिद्योतनार्थो हिशब्दः । किंच एते त्वदर्थं **सुतासः** अभिषुताः **मधुमन्तः** माधुर्योपेताः सोमाः **मदाय** तव मोदाय **अस्थिरन्** तिष्ठन्ति। किंच **क्रत्वे** कर्मणे तत्सिद्ध्यर्थम् **अस्थिरन्**। ऋत्विग्भिः धृताः तिष्ठन्ति । अतः त्वं पिबेति शेषः ॥ तिष्ठतेश्छान्दसे लुङि व्यत्ययेन झस्य रन् । 'स्थाध्वोरिञ्च' इति सिचः कित्त्वं धातोः इत्वं च । 'ह्रस्वादङ्गात् ' इति सिचोलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Approach our strewngrass, **Vāyu**, with (your) thousand steeds, to partake of the (offered) food, (prepared) for the lord of the steeds; (approach) with hundreds (to the sacrifice prepared) for thelord of the steeds; the gods holdback for you as the deity (entitled) first to drink (**Soma**); the sweet effused (Soma) are ready for your exhilaration; are redy for their function.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ritual grass is strewn. Drive up to us, to pursue it, with a thousandfold  team, o teamster—with hundredfold (teams), o teamster—  
 for the gods have conceded to you, the god, to drink first.  
 The pressed, honeyed (soma drinks) have been set forth for you—have  been set forth for your exhilaration and for your resolve.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unaccented niyutvate in bc appears to be a voc. to an otherwise unattested -istem niyutvati-, whose formation would be morphologically peculiar (a secondary -istem built to a -vant-stem?!). It must be a nonce manipulation of the standard -vantstem niyútvant-. As Renou points out, vocatives in -pate may have had some influence in producing this rhyme form. Since Vāyu is almost the only referent of niyútvant-, it is highly unlikely that the form represents a dative to the -vant-stem that lost its accent for some reason.
 
@@ -190,24 +190,24 @@ The fronted forms of tvám (etc.) found in I.134.4-6 continue here, though not a
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 STREWN is the sacred grass; come Vayu, to our feast, with team of thousands, come, Lord of the harnessed team, with hundreds, Lord of harnessed steeds!  
      The drops divine are lifted up for thee, the God, to drink them first.  
      The juices rich in sweets have raised them for thy joy, have raised themselves to give thee strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Barhis ist ausgelegt, komm zu uns zum Genuß mit dem Tausendgespann, du Niyut-Fahrer, mit den hundertfachen Gespannen, du Niyut-Fahrer, den die Götter haben dir, dem Gotte, das Recht auf den Ersttrunk zugestanden! Für dich sind die süßen Preßtränke aufgestellt, zum Rausche, nach deinen Sinnen aufgestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sitz ist fertig, komme her zu unserm Mahl mit tausendfachem Vielgespann, o Rosseherr, mit hundertfachem Vielgespann; Zum ersten Trunke sind gereicht die Göttertränke dir, dem Gott; Die süssen Säfte stehen dir zum Rausch bereit, sie stehn bereit zur Kräftigung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Расстелена жертвенная солома. Приезжай к нам, чтобы вкушать,  
 С тысячью упряжек, о повелитель упряжек,  

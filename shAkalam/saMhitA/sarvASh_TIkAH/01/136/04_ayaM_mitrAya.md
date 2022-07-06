@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् मित्रा꣡य व꣡रुणाय शं꣡तमः  
 सो꣡मो भूतु अवपा꣡नेषु आ꣡भगो  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 ऋ꣡तावाना य꣡द् ई꣡महे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 तथा॑ । रा॒जा॒ना॒ । क॒र॒थः॒ । यत् । ईम॑हे । ऋत॑ऽवाना । यत् । ईम॑हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -167,43 +167,43 @@ genre M
 **अयम्** अस्माभिर्हूयमानः **सोमः** **मित्राय** **वरुणाय** च **शंतमः** पीयमानः सन् सुखतमः **भूतु** भवतु ॥ छान्दसः शपो लुक् ।  ‘ भूसुवोस्तिङि' इति गुणाभावः ॥ **अवपानेषु** अवाङ्मुखचमसपानेषु विषयेषु **आ** सर्वतः **भगः** भजनीयः ताभ्याम् । किंच **देवः** दीप्यमानः **देवेषु** मित्रावरुणानुचरेषु इतरदेवेषु तैः **आभगः** आभजनीयः । यद्वा । देवेषु स्तोतृषु यजमानेषु मध्ये देवो दीप्यमानः । तथा आभगस्तैरेव आ सर्वतो भजनीयः । किंच **तं** सोमं **विश्वे** सर्वे **देवासः** देवाः **अद्य** अस्मिन्नहनि **जुषेरत** सेवन्ते ॥ छान्दसो झस्य रन्नादेशाभावः।  ‘ बहुलं छन्दसि ' इति रुडागमः ॥ कीदृशास्ते । **सजोषसः** समानप्रीतियुक्ताः । **तथा** **राजाना** राजमाना मित्रावरुणौ युवां **करथः** कुरुतं सेवेथे इत्यर्थः। व्यत्ययेन शप्॥ **यत्** यस्मात् कारणात् **यत्** **ईमहे** यत् प्राप्नुमः तत् देवान् याचामहे ॥  ‘ ईङ् गतौ'। दैवादिकः । छान्दसो विकरणस्य लुक् ॥ तस्मात् जुषेरत । तथा **ऋतावाना** ऋतवन्तौ सत्यवन्तौ यज्ञवन्तौ वा मित्रावरुणौ **ईमहे** अभिमतफलं तयोः पानं वा याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this **Soma** be gratifying to **Mitra** and **Varuṇa**, to be enjoyed by them as they drink of it inclining downwards; a divine (beverage), fit to be enjoyed by the gods; may all the gods, well plural ased, today accept it; therefore, royal (deities), do as we request; you, who are ever truthful, do as we request.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the one here, this soma, be most wealful for Mitra and Varuṇa, the  one who gives shares in the drinking places—the god who gives shares  to the gods.  
 Him should the gods enjoy, all of them today in joint enjoyment.  
 O kings, you shall do just as we beg—you truthful ones, as we beg.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The punctuation in the published translation may not make it sufficiently clear that it is Soma “who gives shares in the drinking places.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Soma be most sweet to Mitra, Varuna: he in the drinking-feasts, shall have a share thereof, sharing, a God, among the Gods.  
      May all the Gods of one accord accept it joyfully to-day.  
      Therefore do ye, O Kings, accomplish what we ask, ye Righteous Ones, whate'er we ask.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma soll Mitra und Varuna am meisten zusagen, der der Genosse bei den Gelagen, der Gott der Genosse der Götter ist. An ihm sollen sich alle Götter heute einträchtig erfreuen. Tut so, ihr beiden Könige, worum wir bitten, ihr Wahrhaftige, worum wir bitten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma hier, der heilsam ist dem Varuna, und Mitra nehme Theil an ihrem Trinkgelag, mit Göttern nehme Theil der Gott; Die Götter alle mögen sich vereint an diesem heut erfreun; So mögt ihr's thun, o Könige, wie wir's erflehn, o heilige, wie wir's erflehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет этот сома самым благодатным  
 Для Митры, для Варуны, (он,) участник попоек,  

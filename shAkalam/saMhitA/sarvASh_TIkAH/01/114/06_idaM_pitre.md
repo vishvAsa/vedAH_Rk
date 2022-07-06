@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इद꣡म् पित्रे꣡ मरु꣡ताम् उच्यते व꣡चः  
 स्वादोः꣡ स्वा꣡दीयो रुदरा꣡य+ व꣡र्धनम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्म꣡ने तोका꣡य त꣡नयाय मॄळ+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रास्व॑ । च॒ । नः॒ । अ॒मृ॒त॒ । म॒र्त॒ऽभोज॑नम् । त्मने॑ । तो॒काय॑ । तन॑याय । मृ॒ळ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idam*
 - \[noun\], nominative, singular, neuter
@@ -120,7 +120,7 @@ genre M
 **इदं** स्तुतिलक्षणं **वचः** **मरुताम्** एकोनपञ्चाशसंख्याकानां देवविशेषाणां **पित्रे** जनकाय **रुद्राय** ईश्वराय **उच्यते** उच्चार्यते । कीदृशम् । **स्वादोः** **स्वादीयः** रसवतो मधुघृतादेरपि स्वादुतरम् । अतिशयेन हर्षजनकमित्यर्थः । **वर्धनं** स्तुत्यस्य प्रवर्धकम् । स्तोत्रेण हि देवता हृष्टा सती प्रवर्धते । रुद्रस्य च मरुतां पितृत्वम् एवम् आख्यायते । पुरा कदाचिदिन्द्रः असुराञ्जिगाय । तदानीं दितिः असुरमाता इन्द्रहननसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्गर्भं लेभे । इमं वृत्तान्तमवगच्छन्निन्द्रो वज्रहस्तः सन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य तं गर्भं सप्तधा बिभेद । पुनरप्येकैकं सप्तखण्डमकरोत् । ते  सर्वे गर्भैकदेशा योनेर्निर्गत्य अरुदन् । एतस्मिन्नवसरे लीलार्थं गच्छन्तौ पार्वतीपरमेश्वरौ इमान् ददृशतुः । महेशं प्रति पार्वती एवमवोचत् । इमे मांसखण्डा यथा प्रत्येकं पुत्राः संपद्यन्तामेवं त्वया कार्यं मयि चेत्प्रीतिरस्तीति । स च महेश्वर: तान् समानरूपान् समानवयसः समानालंकारान् पुत्रान् कृत्वा गौर्यै प्रददौ तवेमे पुत्राः सन्तु इति । अतः सर्वेषु मारुतेषु सूक्तेषु मरुतो रुद्रपुत्रा इति स्तूयन्ते । रौद्रेषु च मरुतां पिता रुद्र इति । अपि च हे **अमृत** मरणरहित रुद्र **मर्तभोजनं** मर्तानां मनुष्याणां भोगपर्याप्तमन्नं  **नः** अस्मभ्यं **रास्व** प्रयच्छ। तथा **त्मने** आत्मने। द्वितीयार्थे चतुर्थी । मां **तोकाय** तोकं पुत्रं **तनयाय** तनयं तत्पुत्रं च **मृळ** सुखय ॥ पित्रे । उदात्तयणः' इति विभक्तेरुदात्तत्वम् । रास्व ।  ‘ रा दाने' । व्यत्ययेनात्मनेपदम् । त्मने । मन्त्रेष्वाड्यादेरात्मनः' इत्यत्र ‘आङोऽन्यत्रापि छन्दसि दृश्यते ' ( का. ६. ४. १४१. १ ) इति वचनादात्मनः आकारलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,34 +131,34 @@ genre M
 Rudra, the father of the Maruts: 'After their birth from **Diti**, under the circumstances told in the **Purāṇas** (**Viṣṇu Purāṇa**), they were behdl in deep affliction by **Śiva** and **Pārvati** as they were passing sportively along; the latter sid to the former, "If you love me, transform these lumps of flesh into boys". **Maheśa** accordingly made them boys of like form, like age, and similarly accoutered, and gave them to Pārvati, as her sons, whence they are called the sons of Rudra.' Hence, maruts are the sons of Rudra. Another legend: Pārvati, hearing the lamentations of Diti, entreated Śiva to give the shapeless births, forms, telling them not to weep (mā rodiḥ); another, that he actually begot them, in the form of a bull, on **Pṛthivī**, the earth, as a cow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This speech here is spoken to the father of the Maruts—speech sweeter  than sweet, strengthening to Rudra.  
 Both grant us, immortal one, what nourishes mortals, and be merciful  to our selves, to our progeny and posterity.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Klein (DGRV I.190) I take ca in c as conjoining the two impvs. in polarized position in the hemistich: #rā́sva ca … mṛḷa# in an X ca … Y construction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him the Maruts' Father is this hymn addressed, to strengthen Rudra's might, a song more sweet than sweet.  
      Grant us, Immortal One, the food which mortals eat: be gracious unto me, my seed, my progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Rede wird für den Vater der Marut gesprochen, die süßer als süß, eine Erbauung für Rudra ist. Und gönn uns, du Unsterblicher, die Menschenzehrung; hab mit uns selbst, mit dem leiblichen Samen Erbarmen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Marutvater wird gesungen dieses Lied, den Rudra labend, süsser noch als Honigseim; Unsterblicher, verleihe Menschennahrung uns; sei hold uns selbst, den Kindern und der Enkelschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта речь, что слаще сладкого,  
 Произносится для отца Марутов, для усиления Рудры,  

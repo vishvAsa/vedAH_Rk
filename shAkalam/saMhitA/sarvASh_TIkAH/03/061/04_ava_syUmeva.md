@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व स्यू꣡मेव चिन्वती꣡ मघो꣡नी  
 उषा꣡ याति · स्व꣡सरस्य प꣡त्नी  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡न्ताद् दिवः꣡ पप्रथ आ꣡ पृथिव्याः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्वः॑ । जन॑न्ती । सु॒ऽभगा॑ । सु॒ऽदंसाः॑ । आ । अन्ता॑त् । दि॒वः । प॒प्र॒थे॒ । आ । पृ॒थि॒व्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -126,20 +126,20 @@ genre M
 येयम् **उषाः** **स्यूमेव** वस्त्रमिव विस्तृतं तमः **अव** **चिन्वती** अवचयमपक्षयं प्रापयन्ती **मघोनी** धनवती **स्वसरस्य** । सुष्ठ्वस्यति क्षिपति तम इति स्वसरः सूर्यो वासरो वा । तस्य **पत्नी** सती **याति** गच्छति । स्वः स्वकीयं तेजः **जनन्ती** जनयन्ती **सुभगा** सुधना सौभाग्ययुक्ता वा **सुदंसाः** शोभनाग्निहोत्रकर्मा सेयमुषाः **दिवः** द्युलोकस्य **आ** **अन्तात्** **पृथिव्याः** च **आ** अन्तात् आवसानात् **पप्रथे** प्रथते प्रकाशते इत्यर्थः ॥ स्यूमेव ।  ‘ षिवु तन्तुसंताने ' । ' अविषिविशुषिभ्यः कित्' इति मन्प्रत्ययः । ‘छ्वोः शूडनुनासिके च' इति ऊठ् । यणादेशः ।  ‘ सुपां सुलुक्' इति  सोर्लुक् । नित्त्वादाद्युदात्तः । चिन्वती । ‘शतुरनुमः' इति ङीप उदात्तत्वम् । जनन्ती । **जन** जनने ' इत्यस्य ण्यन्तस्य शतरि रूपम् । 'छन्दस्युभयथा' इति शप आर्धधातुकत्वेन णिलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The opulent Uṣas, the bride of the far-darting (sun), throwing off (darkness) like a garment, proceeds; diffusing her own (lustre), auspicious, promoting sacred acts, she is renowned to the ends, she is renowned to the ends of the heaven and of the earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like one letting the reins go slack [?], bounteous Dawn drives, mistress of  good pasture.  
 Generating the sun, she of good portion and wondrous power stretches  all the way to the end of heaven and of earth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The puzzle in this vs. is the image in pāda a, áva syū́meva cinvatī́. Some factors that contribute to this puzzle: 1) áva √ci is not otherwise found in Vedic. (In epic/classical Skt. it means ‘gather’.) 2) áva need not be construed with cinvatī́, but could go with yā́ti, esp. since tmesis in participles is considerably rarer than in finite verbs. 3) There are several roots √ci. 4) The referent of syū́man- isn’t clear.
 
@@ -156,23 +156,23 @@ Arnold (Ved. Met., 300) suggests reading uṣā́ā́yāti for simple uṣā́y�
 should be emended to “drives here.” Pāda d is taken by Geldner and Renou (and me) as containing one of the relatively rare RVic occurrences of ā́+ following abl. in the meaning ‘all the way to’. The source of this counterintuitive use of the abl. can be seen in passages like this, where ‘all the way to’ and ‘all the way from’ are essentially identical in sense: the light of dawn stretches throughout the midspace, and the directionality (from/to heaven/earth) is irrelevant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Letting her reins drop downward, Morning cometh, the wealthy Dame, the Lady of the dwelling;  
      Bringing forth light, the Wonderful, the Blessed hath spread her from the bounds of earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie eine Frau, die die Naht auszieht, kommt die gabenreiche Usas, die Herrin des Frühtriebes. Die Sonne hervorbringend hat die Holde, Kunstreiche sich bis zur Grenze des Himmels und der Erde ausgebreitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auflösend gleichsam ihren Gurt erscheint sie, die prächt'ge Röthe, Herrin sie des Kuhstalls, Lichtschein erzeugend, wunderthätig, herrlich, erhob sie sich vom Erd- und Himmelsrande.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как (женщина,) распарывающая шов, щедрая  
 Ушас идет, госпожа пастбища.  

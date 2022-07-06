@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ व꣡सूनि धारय  
 सो꣡म दिव्या꣡नि पा꣡र्थिवा  
 इ꣡न्दो वि꣡श्वानि वा꣡रिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दो॒ इति॑ । विश्वा॑नि । वार्या॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], dative, plural
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** दीप्त **सोम** **दिव्यानि** दिवि भवानि **पार्थिवा** पार्थिवानि पृथिव्यां जातानि च **विश्वानि** सर्वाणि **वार्या** वार्याणि वरणीयानि **वसूनि** **अस्मे** अस्मासु **धारय** प्रक्षिप ॥ ॥३५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us, **Soma**, celestial and terrestrial treasures; (bestow), **Indu**, all desirable things.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In us, o Soma drop, secure goods—heavenly, earthly,  
 all that are choice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda of this, the final vs., echoes the last pāda of the first vs.: 1c asmé śrávāṃsi dhāraya, 30a asmé vásūni dhāraya. It is also worth noting that this 2nd sg. impv.
 
@@ -108,23 +108,23 @@ The páva- sequence found in the last two tṛcas is brought to an end with the 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, do thou secure for us the treasures of the earih and heaven,  
      Indu, all boons to be desired.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verleih uns Schätze, o Soma, himmlische, irdische, o Saft, alle wünschenswerten Dinge!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma, theil' die Güter uns des Himmels und der Erde zu, O Indu, alle Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

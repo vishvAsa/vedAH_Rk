@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्वं꣡ वि꣡प्राय दाशु꣡षे  
 रयिं꣡ देहि सहस्रि꣡णम्  
 अ꣡ग्ने वीर꣡वतीम् इ꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । वी॒रऽव॑तीम् । इष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **सः** प्रसिद्धः **त्वं** **विप्राय** मेधाविने **दाशुषे** हविषां प्रदात्रे यजमानाय **सहस्रिणं** सहस्रसंख्याकमपरिमितं **रयिं** धनं **वीरवतीं** पुत्रपौत्रादिसहितम् **इषम्** अन्नं च **देहि** ॥ ॥३१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Agni**, bestow upon the pious donor (of the oblation) infinite riches and food with **male** progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You—to the pious poet grant wealth in thousands,  
 o Agni, and refreshment abounding in heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So wealth in thousands, food with store of heroes give thou to the sage,  
      O Agni, to the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib du nun dem redekundigen Opfernden tausendfältigen Reichtum, Agni, das Labsal vieler Söhne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So gib dem frommen Sänger du, o Agni, tausendfaches Gut Und heldenreiche Labungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты вдохновенному почитателю  
 Дай тысячное богатство,  

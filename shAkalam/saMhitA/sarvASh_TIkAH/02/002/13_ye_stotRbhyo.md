@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ स्तोतृ꣡भ्यो गो꣡अग्राम् अ꣡श्वपेशसम्  
 अ꣡ग्ने राति꣡म् उपसृज꣡न्ति सूर꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बृह꣡द् वदेम विद꣡थे सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒स्मान् । च॒ । तान् । च॒ । प्र । हि । नेषि॑ । वस्यः॑ । आ । बृ॒हत् । व॒दे॒म॒ । वि॒दथे॑ । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -147,36 +147,36 @@ genre M;; repeated line
 येस्तोतृभ्यइतित्रयोदशीव्याख्याता ॥ १३ ॥समिद्धोअग्निरित्येकादशर्चन्तृतीयंसूक्तङ्गार्त्समदन्त्रैष्टुभं सप्तमीजगती समिद्धोग्निर्नराशंसः तनूनपा- दादयएकादशप्रयाजदेवताः समिद्धएकादशाप्रंसप्तमीजगतीत्यनुक्रमणिका पशौशुनकानामिदमाप्री- सूक्तं गृत्समदस्यापिशुनकत्वात् समिद्धोअग्निरितिशुनकानामितिहिसूत्रितम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pious are they who present, as a gift, to the reciters of your praises, an excellent cow and an elegant horse; do you, **Agni**, lead us and them to the best of abodes, (or heaven), that we and our worthy descendants may repeat the solemn prayer to you at the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The patrons—those who dispatch to the praisers a gift tipped with cows  and ornamented with horses, o Agni—  
 lead both us and them forth to a better state. – May we speak loftily at  the ritual distribution, in possession of good heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The princely worshippers who send to those who sing thy praise, O Agni, guerdon, graced with kine and steeds,-  
      Lead thou both these and us forward to higher bliss. With brave men in the assembly may we speak aloud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die reichen Gönner, die den Sängern eine Schenkung zutreiben mit Rindern an der Spitze und mit Rossen als Glanzpunkt, o Agni, diese und uns führe also zum Glück!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Edlen die Geschenk' an Ross und Rindern reich in Füll' ergiessen, Agni, uns, der Sängerschar, sie, so wie uns geleite hin zu schönerm Gut; lasst laut im Chore bei dem Fest uns singen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) покровители, которые щедро дают певцам,  
 О Агни, дар с коровами во главе, с конями как украшением, -  

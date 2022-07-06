@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ पूषन्न् आ꣡रया तुद  
 पणे꣡र् इछ हृदि꣡ प्रिय꣡म्  
 अ꣡थेम् अस्म꣡भ्य° रन्धय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अथ॑ । ई॒म् । अ॒स्मभ्य॑म् । र॒न्ध॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -88,20 +88,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **पूषन्** **आरया** प्रतोदेन **पणेः** वणिजः हृदयं **वि** **तुद** विविध्य । तस्य पणेः **हृदि** हृदये **प्रियम्** अस्मभ्यमनुकूलं धनम् **इच्छ** दातव्यमितीच्छां जनय । **अथ** अनन्तरम् **अस्मभ्यम्** **ईम्** एनान् **रन्धय** वशीकुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pierce with a goad, **Pūṣan**, the heart of the avaricious; genitive rate genitive rosity in his heart, and so render him complacent towards us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thrust through (them) with an awl, Pūṣan. Seek what is dear to the  heart of the niggard.  
 And make him subject to us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -112,23 +112,23 @@ On ā́rā- see EWA s.v. It is difficult to determine exactly what tool it was, 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thrust with thine awl, O Pusan: seek that which the niggard's heart holds dear,  
      And make him subject to our will.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pike mit dem Stichel, Pusan! Suche das, was dem Herzen des Knausers lieb ist, und mach uns gefügig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durchstich sie, Puschan, mit dem Spiess, nimm, was des Knausers Herz erfreut, Und gib es hin in unsre Hand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Проткни острием, о Пушан!  
 Ищи, что дорого, в сердце скупца,  

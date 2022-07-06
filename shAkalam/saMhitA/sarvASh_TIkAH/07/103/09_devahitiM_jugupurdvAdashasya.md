@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देव꣡हितिं जुगुपुर् द्वादश꣡स्य  
 ऋतुं꣡ न꣡रो न꣡ प्र꣡ मिनन्ति एते꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तप्ता꣡ घर्मा꣡ अश्नुवते विसर्ग꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सं॒व॒त्स॒रे । प्रा॒वृषि॑ । आऽग॑तायाम् । त॒प्ताः । घ॒र्माः । अ॒श्नु॒व॒ते॒ । वि॒ऽस॒र्गम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devahitiṃ* ← *deva*
 - \[noun\], masculine
@@ -111,20 +111,20 @@ popular
 नरोनेतारएते मण्डूकाः देवहितिं देवैः कृतं विधानं अस्यर्तोरयं धर्मइत्येवं रूपं जुगुपुर्गोपायन्ति काले काले रक्षन्ति अतएव द्वादशस्य द्वादशमासात्मकस्य संवत्सरस्य ऋतुं तं तं वसन्तादिकं नप्रमिनन्ति न हिंसन्ति पर्जन्यस्तुतेरनुमोदनेन तत्तत्काले वृष्टिहेतवोभवन्ती- त्यर्थः । संवत्सरे सम्पूर्णे प्रवृषि वर्षर्तौ आगतायामागते सति घर्माः पूर्वं घर्मकाले वर्तमानास्तप्ताः तापेन पीडिताः सम्प्रति विसर्गं विसर्जनं बिलान्मोचनं अश्नुवते प्राप्नुवन्ति ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These leaders of rites observe the instrumental tutes of the gods and disregard not the (appropriate) season ofthe twelve month; as the year revolves, and the rains return then, scorched and heated, they obtain freedom(from their hiding- plural ces).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They guarded the godly establishment of the twelve(-month); these men  do not confound the season.  
 In a year, when the rainy season has come, the heated ritual milk-drinks  obtain their own release.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The year-long preparation for the Pravargya rite is again emphasized here in the first three pādas.
 
@@ -143,28 +143,28 @@ With the behavioral model of the frogs established in the first 6 vss., the next
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They keep the twelve month's God-appointed order, and never do the men neglect the season.  
      Soon as the Rain-time in the year returneth, these who were heated kettles gain their freedom.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The twelve months' god-sent order they have guarded, And never do these men infringe the season. Whep in the year the rainy time commences, Those who were heated milk-pots gain deliverance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie wahrten die göttliche Bestimmung des zwölften Monats; diese Herren versäumen nicht die rechte Jahreszeit. Wenn nach Jahresfrist die Regenzeit gekommen ist, so finden die heißen Gluten ihr Ende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des zwölfgetheilten heil'ge Ordnung wahrend, versäumen nie die rechte Zeit die Männer, Sobald im Jahr die Regenzeit gekommen, die heisse Sommerglut ihr Ende findet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они сохранили божественное установление двенадцатого (месяца) –  
 Эти мужи не пропускают (своего) времени года.  

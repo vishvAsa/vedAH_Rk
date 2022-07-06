@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सम्रा꣡ळ् अन्यः꣡ स्वरा꣡ळ् अन्य꣡ उच्यते वाम्  
 महा꣡न्ताव् इ꣡न्द्राव꣡रुणा महा꣡वसू  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सं꣡ वाम् ओ꣡जो वृषणा स꣡म् ब꣡लं दधुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । दे॒वासः॑ । प॒र॒मे । विऽओ॑मनि । सम् । वा॒म् । ओजः॑ । वृ॒ष॒णा॒ । सम् । बल॑म् । द॒धुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samrāﾱ* ← *samrāj*
 - \[noun\], nominative, singular, masculine
@@ -140,7 +140,7 @@ genre M
 द्वितीयः पादः परोक्षकृतः शिष्टाः प्रत्यक्षकृताः । हे इन्द्रावरुणौ **वां** युवयोर्मध्ये **अन्यः** एको वरुणः **सम्राट्** सम्यग्राजमान इति **उच्यते** । ‘ता सम्राजा घृतासुती' (ऋ. सं. २, ४१. ६ ) इत्यादिषु कीर्त्यते । **अन्यः** इन्द्रः **स्वराट्** स्वयमेवान्यनिरपेक्षयैव राजमान इत्युच्यते । **स्वराळिन्द्रो** दमे ' (ऋ. सं. १. ६१. ९) इत्यादिषु कीर्त्यते । तथाविधौ **इन्द्रावरुणा** इन्द्रावरुणौ **महान्तौ** गुणैरधिकौ **महावसू** महाधनौ च भवतः । हे **वृषणा** कामानां वर्षिताराविन्द्रावरुणौ **वां** युवां **परमे** **व्योमनि** उत्कृष्टे आकाशे **विश्वे** **देवासः** सर्वे देवाः **ओजः** **सं** **दधुः** समयोजयन् शरीरदार्ढ्याय  । तद्धेतुभूतं तदोज इत्युच्यते । स्मर्यते च - ‘ओजो नामाष्टमी दशा ' इति । तथा **बलं** वृत्रवधादेः कार्यस्य हेतुभूतं सामर्थ्यं च युवाभ्यां **सं** दधुः समयोजयन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,30 +155,30 @@ Samjrāj = samyag rajamānaḥ, i.e. thoroughly splendent;
 Svarāj = sur_ryamevanyanirapekṣayaive rajamānaḥ i.e. self-splendent, or not dependent for his lustre on anyone else
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 One of you two is called a sovereign king [=Varuṇa]; the other an  independent king [=Indra]. Indra and Varuṇa are both great, both  
 bearers of great goods.  
 All the gods in the furthest heaven have united power and strength in  you two, o bulls.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra-Varuna, mighty and very rich One of you is called Monarch and One Autocrat.  
      All Gods in the most lofty region of the air have, O ye Steers, combined all power and might in you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Allherr wird der eine, Selbstherr der andere von euch beiden genannt. Groß und reichbegütert sind Indra und Varuna. Alle Götter im höchsten Himmel haben auf euch, ihr Bullen, Stärke und Kraft vereinigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Selbstherr heisst einer, und der andre Oberherr, und gross und reich ihr beide, Indra-Varuna; Die Götter alle in dem höchsten Himmelsraum verliehen euch, o Helden, Kraft und Allgewalt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вседержителем зовется один из вас, самодержцем - другой.  
 Велики Индра-Варуна – обладатели великих богатств.  

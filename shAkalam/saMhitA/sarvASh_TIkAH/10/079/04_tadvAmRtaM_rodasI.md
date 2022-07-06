@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् वाम् ऋतं꣡ रोदसी प्र꣡ ब्रवीमि  
 जा꣡यमानो मात꣡रा ग꣡र्भो अत्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्नि꣡र् अङ्ग꣡ वि꣡चेताः स꣡ प्र꣡चेताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । अ॒हम् । दे॒वस्य॑ । मर्त्यः॑ । चि॒के॒त॒ । अ॒ग्निः । अ॒ङ्ग । विऽचे॑ताः । सः । प्रऽचे॑ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -134,7 +134,7 @@ genre M
 हे **रोदसी** द्यावापृथिव्यौ **वां** युवां **तत्** **ऋतं** सत्यं **प्र** **ब्रवीमि** यदरणीभ्यां **जायमानः** उत्पन्नः **गर्भः** गर्भस्थानीयोऽग्निः **मातरा** अरणी **अत्ति** भक्षयति । **देवस्य** द्योतनादिगुणस्याग्नेः वर्तनं **मर्त्यः** मनुष्यः **अहं** **न** **चिकेत** न जानामि । हे **अङ्ग** वैश्वानर **अग्निः** अरणीभ्यामुत्पन्नः **विचेताः** विविधज्ञानवान् **स** **प्रचेताः** प्रकृष्टज्ञानः। अतो न जानामीत्यर्थः । अथवाङ्गेत्यात्मानमेव संबोध्य ब्रवीमि । अग्निरेव विचेताः बहुधा जानाति स प्रचेता: स एव जानाति । स्वमहिमानं नाहं स्तोतुं प्रभवामीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ genre M
 Embryo: i.e., fire as soon as lighted burns the two pieces of touchwood by which it wasgenerated
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I proclaim this truth to you, o you two World-Halves: while being born,  the embryo eats his two mothers [=kindling sticks].  
 As a mortal, I do not discern the god, but Agni certainly discerns afar  and discerns ahead.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This holy Law I tell you, Earth and Heaven: the Infant at his birth dovours his Parents.  
      No knowledge of the God have I, a mortal. Yea, Agni knoweth best, for he hath wisdom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das verkünde ich euch als Wahrheit, o Himmel und Erde: Das neugeborene Kind frißt seine beiden Eltern. Ich der Sterbliche begreife den Gott nicht; Agni allein ist weise, er ist´s, der es versteht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies eur Gesetz verkünd' ich, Erd' und Himmel: der Sohn verzehrt, geboren, seine Aeltern; Nicht hab' den Gott ich Sterblicher ergründet, Agni allein ist weise und verständig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это я провозглашаю вам как истину, о две половины вселенной:  
 Едва рождаясь, младенец поедает родителей,  

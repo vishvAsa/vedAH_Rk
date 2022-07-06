@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ दासे꣡ बल्बूथे꣡  
 वि꣡प्रस् त꣡रुक्ष आ꣡ ददे  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 म꣡दन्ति देव꣡गोपाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 ते । ते॒ । वा॒यो॒ इति॑ । इ॒मे । जनाः॑ । मद॑न्ति । इन्द्र॑ऽगोपाः । मद॑न्ति । दे॒वऽगो॑पाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
@@ -122,7 +122,7 @@ genre M
 अयं **विप्रः** मेधावी वशो जनोऽहं **बल्बूथे** एतन्नामके **दासे** **तरुक्षे** गवाश्वादीनां तारके गवाद्यधिकृते राज्ञास्माकं प्रदिष्टधनदातरि **आ** **ददे** । किं दानम् । गवाश्वादीनां **शतम्** । शतशब्दोऽपरिमितवचनः । हे **वायो** **ते** तव स्वभूताः **ते** स्तोतारः **इमे** **जनाः** । वयमित्यर्थः । आत्मन एव परोक्षत्वेन वादः । त्वयानुगृहीतत्वात् **इन्द्रगोपाः** । इन्द्रो गोपायिता येषां ते तथोक्ताः । इन्द्रेण रक्षिताः **मदन्ति** । तथा **देवगोपाः** **मदन्ति** । इन्द्रं देवांश्च राज्ञो लब्धेन धनेन यजन्तो मदन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,30 +133,30 @@ genre M
 Cowherd: tarukṣa =gavāśvādīnam **tārakaḥ**, but it is given as a proper name in the **guṇa** to Pān. 4.1.105; a hundred = anindefinite number
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I, the inspired poet, took a hundred from Balbūtha Tarukṣa the Dāsa. These are your peoples here, Vāyu. With Indra as protector they  
 become exhilarated; with the gods as protectors they become  
 exhilarated.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A hundred has the sage received, Dasa Balbutha's and Taruksa's gifts.  
      These are thy people, Vayu, who rejoice with Indra for their guard, rejoice with Gods for guards.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert bekam ich, der Redekundige, bei dem Dasa Balbutha Taruksa. Diese deine Leute schwelgen, o Vayu, von Indra beschirmt, schwelgen von den Göttern beschirmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hundert habe ich, der Dichter, von dem Ausländer Balbutha und dem Tarukscha empfangen; diese deine Anhänge, o Vaju, freuen sich von Indra beschützt, freuen sich von den Göttern beschützt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У дасы Балбутхи Тарукши  
 Я, вдохновенный, получил сотню.  

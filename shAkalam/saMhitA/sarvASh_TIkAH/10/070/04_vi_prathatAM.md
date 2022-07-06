@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ प्रथतां देव꣡जुष्टं तिरश्चा꣡  
 दीर्घं꣡ द्राघ्मा꣡ सुरभि꣡ भूतु अस्मे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रज्येष्ठाँ उशतो꣡ यक्षि देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अहे॑ळता । मन॑सा । दे॒व॒ । ब॒र्हिः॒ । इन्द्र॑ऽज्येष्ठान् । उ॒श॒तः । य॒क्षि॒ । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -129,36 +129,36 @@ genre M
 हे बर्हिर्नामकाग्ने **देवजुष्टं** देवैः सेवितं **तिरश्चा** तिरश्चीनं तिर्यगञ्चनमिदं बर्हिः **वि** **प्रथतां** विशेषेण विस्तृतं भवतु । तथा **दीर्घं** चेदं **द्राघ्मा** द्वाघिम्ना । दीर्घशब्दस्येमनिचि ‘प्रियस्थिर इत्यादिना द्राघिरादेशः । अकारस्येकारो वर्णव्यापत्त्या । पश्चादल्लोपः । द्राघिम्ना युक्तं भवतु । **अस्मे** अस्मदीयं बर्हिः **सुरभि** सोमादिहविर्निधानेन सुगन्धं **भूतु** भवतु । हे **देव** द्योतमान हे **बर्हिः** एतन्नामकाग्ने **अहेळता** । हेल इति क्रोधनाम । अक्रुध्यता **मनसा** **उशतः** हवींषि कामयमानान् **इन्द्रज्येष्ठान्** इन्द्रप्रधानान् **देवान्** **यक्षि** यज पूजय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May our (sacred grass) acceptable to the gods, twining crookedly be stretched out, may it be long,lengthy, and fragrant; with mind free from wrath, divine **Barhis**, offer worship to the gods desiring (the sacrifice),of whom **Indra** is the chief.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pleasing to the gods, let it be spread out crosswise; long in length let it  be sweet smelling for us.  
 O divine Ritual Grass, with a mind without anger sacrifice to the gods,  having Indra as their chief, who are eager for it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the delight of Gods spread out transversely: may it be with us long in length and fragrant.  
      O Holy Grass divine, with friendly spirit bring thou the willing Gods whose Chief is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das gottgefällige Barhis soll sich in die Quere ausbreiten, in die Länge langgestreckt soll es uns duftend sein. Nicht unwilligen Sinnes opfere du, göttliches Barhis, den verlangenden Göttern mit Indra als Oberstem!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es dehne breit die gottgeliebte Streu sich die langgestreckte sei uns lieblich duftend Mit holdem Sinn, o Göttin Streu, verehre die muntern Götter, welche Indra anführt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть распространится поперек радующая богов (жертвенная солома)!  
 Длинная в длину, пусть она будет благоухающей для нас!  

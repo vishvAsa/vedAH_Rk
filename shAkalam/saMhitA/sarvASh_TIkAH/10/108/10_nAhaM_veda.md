@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡हं꣡ वेद भ्रातृत्वं꣡ नो꣡ स्वसृत्व꣡म्  
 इ꣡न्द्रो विदुर् अ꣡ङ्गिरसश् च घोराः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पा꣡त इत पणयो व꣡रीयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 गोऽका॑माः । मे॒ । अ॒च्छ॒द॒य॒न् । यत् । आय॑म् । अप॑ । अतः॑ । इ॒त॒ । प॒ण॒यः॒ । वरी॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nāhaṃ* ← *na*
 - \[adverb\]
@@ -145,39 +145,39 @@ popular
 सा तान् प्रत्याचष्टे । हे पणयः **अहं** **भ्रातृत्वं** **न** **वेद** न जानामि । तथा **स्वसृत्वं** च **नो** वेद नैव जानामि । के जानन्ति तानाह। **इन्द्रः** **घोरः** शत्रूणां भयंकराः **अङ्गिरसश्च** **विदुः** जानन्ति । किंच अस्मात् स्थानादहं **यत्** यदा **आयम्** इन्द्रादीन् प्राप्नवम् ॥  ‘ अय पय गतौ । लङि रूपम् ॥ तदा **मे** मदीयाः **गोकामाः** युष्माभिरपहृता गाः कामयमाना इन्द्रादयः **अच्छदयन्** । युष्मदीयं स्थानमाच्छादयन्ति । ‘छद अपवारणे' । **अतः** कारणाद्धे **पणयः** **वरीयः** उरुतरं गवां वृन्दं परित्यज्य **अप** **इत** अन्यत्स्थानं प्रति गच्छत । यद्वा । वरीयः प्रभूतमतिदूरं देशं गच्छत ॥ इत । इण् गतौ '। लोटि रूपम् । वरीयः । उरुशब्दादीयसुनि ‘प्रियस्थिर इत्यादिना वरादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Saramā:] I know no brotherhood and no sisterhood. Indra and the  terrifying Aṅgirases, they know (these things).  
 They seemed to me desirous of cattle when I came. Go away from here,  Paṇis, a very long way!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brotherhood, sisterhood, I know not either: the dread Angirases and Indra know them.  
      They seemed to long for kine when I departed. Hence, into distance, be ye gone, O Panis.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 I know not what's a brother or a sister: The fierce Aṅgirases and Indra know it. They seemed to me, when I came here, right eager For kine: from hence go far away, ye Paṇis.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Bruder- und Schwesternschaft will ich nichts wissen; das wissen Indra und die furchtgebietenden Angiras´. Sie schienen mir voll verlangen nach Kühen, als ich ging. Hebt euch weit weg von dannen, ihr Pani´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Nicht Brüderschaft, nicht Schwesterschaft begehr' ich; die grausen Angira's und Indra wissen's, Sie schienen, da ich ging, nach Kühen lüstern, geht fort von hier, o Pani's, in die Ferne.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Знать не знаю ни братства, ни сестринства!  
 (О том) знают Индра и Ангирасы, внушающие ужас.  

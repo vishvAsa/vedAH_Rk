@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञ꣡स्य केतुः꣡ पवते सुअध्वरः꣡  
 सो꣡मो देवा꣡नाम् उ꣡प याति निष्कृत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वृ꣡षा पवि꣡त्रम् अ꣡ति एति रो꣡रुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒हस्र॑ऽधारः॑ । परि॑ । कोश॑म् । अ॒र्ष॒ति॒ । वृषा॑ । प॒वित्र॑म् । अति॑ । ए॒ति॒ । रोरु॑वत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
@@ -125,20 +125,20 @@ genre M
 **यज्ञस्य** **केतुः** प्रज्ञापकः **स्वध्वरः** शोभनयागः **सोमः** **पवते** पूयते अभिषूयते । तादृशः सोमः **देवानां** **निष्कृतं** संस्कृतं स्थानम् **उप** **याति** उपगच्छति । तदर्थं **सहस्रधारः** **कोशं** द्रोणकलशं **परि** **अर्षति** । ततस्तदर्थं **वृषा** सेक्तायं **रोरुवत्** शब्दयन् **पवित्रम्** अतिक्रम्य गच्छत्यधोदेशम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, the signal of sacrifice, the object of pious worship, flows filtered; it approaches the abode of the gods; the thousand-streamed rushes to the receptacle, the showerer passes roaring through the filter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Beacon of the sacrifice, lovely at the ceremony, he purifies himself.  Soma proceeds toward the rendezvous with the gods.  
 Having a thousand streams, he rushes around the cask. The bull keeps  bellowing as he goes across the filter.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -148,23 +148,23 @@ The beginning and end of this tṛca echo the preceding one: ketúḥ in 7a pick
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Served with fair rites he flows, ensign of sacrifice: Soma advances to the special place of Gods.  
      He speeds with thousand currents to the reservoir, and passes through the filter bellowing as a bull.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma, des Opfers Banner, läutert sich, den Gottesdienst verschönend; er geht zur Gesellschaft der Götter. In tausend Strömen umfließt er die Kufe, brüllend geht der Bulle über die Seihe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schön feiernd wallt des Opfers Fahne flammenreich, und Soma geht zum Ort, wo er die Götter trifft; In tausend Strömen rieselt um die Kufe er, laut brüllend eilet durch das Somasieb der Stier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

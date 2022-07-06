@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अपो꣡ य꣡दवे तुर्व꣡शाय  
 अ꣡रमयः सुदु꣡घाः पार꣡ इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ ह य꣡द् वाम् उश꣡ना꣡रन्त देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒ग्रम् । अ॒या॒त॒म् । अव॑हः । ह॒ । कुत्स॑म् । सम् । ह॒ । यत् । वा॒म् । उ॒शना॑ । अर॑न्त । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -128,21 +128,21 @@ genre M
 हे **इन्द्र** **त्वं** पारे नदीनां तीरे । प्रवृद्धाः। इति शेषः। 'सुदुघाः ओषधिवनस्पतीन् सुष्ठु दुहतीः **अपः** उदकानि **यदवे** यदुनामकाय राज्ञे **तुर्वशाय** एतन्नामकाय राज्ञे च **अरमयः** रमितवानसि । हे इन्द्र युवाम् । त्वं कुत्सश्चेति शेषः । **उग्रम्** उद्गूर्णं शुष्णम् **अयातम्** अगच्छतम् । तदनन्तरं त्वं शुष्णं हत्वा **कुत्सम्** **अवहो** **ह** स्वगृहं प्रापितवानसि खलु । **यत्** यदा **वां** युवामिन्द्राकुत्सौ **उशना** भार्गवः **देवाः** च **सम्** **अरन्त** **ह** संभेजिरे खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, (abiding on the further bank), have rendered the fertilizing waters agreeable to **Yadu** and Turvaśu; you two, (Indra and **Kutsa**), have assailed the fierce (**Śuṣṇa**), and (having slain him), you have conveyed Kutsa (to his dwelling), and **Uśanās** and the gods have therefore honoured you both.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You brought the waters, the good milkers, to rest for Yadu and Turvaśa,  (when you were their) transport, Indra.  
 You two drove to the strong one [=Uśanā]—that is, you conveyed  
 Kutsa—when the gods encountered you two along with Uśanā.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb ā́dat ‘took’ is superficially active, though the idiom ā́√dā ‘take’ is ordinarily middle. As was seen already by Wackernagel, the form must be a remarked form of the older 3rd sg. middle root aor. The underlying form would be *ā́da, which can represent either an old -t-less 3rd sg. mid. ending (as in impf. *áduha à áduha+t) or, more likely, the simplification by degemination of an old *ā́d+ta with an originally -t-full ending. Of course this preform should have yielded *ā́tta, but the fact that all other forms of the root aor. have a single d- (ádāt, etc.) could have induced the geminate to simplify (in this metrically non-diagnostic position after ā) and restore the d of the root. (Kümmel [Stativ 50-51] bases the -d-form on 3rd pl. ā́diran*.) In any case the t-less *ā́da would have been activized like the t-less middle imperfects of the áduhat type. The resulting “active” stem could spread elsewhere; cf. 1st pl. ā́dāma in nearby V.30.15. For disc. and previous lit. see Kümmel ref. above. The form is very differently explained by Oldenberg, who assigns it to ā √dṛ ‘tear out’ by way of the sandhi form *ā́daḥ (← 2nd/3rd sg. *ā́dar) and what seems to me a somewhat sketchy remarking with -t (as if 2nd sg. = *ā́das, so 3rd sg. should = *ā́dat?). The morphological machinery required seems too complex for its purpose, to avoid a slightly aberrant use of ā́√dā, and since ā́√dṛ doesn’t take personal objects (Oldenberg finds one late ex.), its usage here would be aberrant as well. Geldner assigns it to ā́√dā, as do Witzel Gotō (with ref. to Kümmel, Stativ).
 
@@ -172,23 +172,23 @@ The 2nd sg. ávaho ha kútsam “you (sg.) conveyed Kutsa,” following immediat
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, on the farther bank forYadu and Turvaga didst stay the gushing waters.  
      Ye both assailed the fierce: thou barest Kutsa: when Gods and Usana came to you together.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du stautest die angeschwollenen Gewässer für Yadu und Turvasa und warst ihr Hinübersetzer, Indra. Ihr beide ginget zu dem Gewaltigen. Du fuhrest den Kutsa, als euch beide die Götter mit Usanas zusammengebracht hatten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du liessest ruhn dem Turvaça und Jadu die Stromesflut, sie überführend, Indra; Den Unhold griffst du an mit Kutsa fahrend, als alle Götter heischend zu euch eilten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Яду (и) Турваши ты, перевозчик,  
 Остановил набухшие воды, о Индра.  

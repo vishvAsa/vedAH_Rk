@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् प꣡न्था अ꣡नुवित्तः पुराणो꣡  
 य꣡तो देवा꣡ उद꣡जायन्त वि꣡श्वे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ मात꣡रम् अमुया꣡ प꣡त्तवे कः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अतः॑ । चि॒त् । आ । ज॒नि॒षी॒ष्ट॒ । प्रऽवृ॑द्धः । मा । मा॒तर॑म् । अ॒मु॒या । पत्त॑वे । क॒रिति॑ कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -126,41 +126,41 @@ popular
 इन्द्रवाक्यम्। **पुराणः** अनादिः **अयं** प्रत्यक्षेणोपलभ्यमानः **पन्थाः** योनिनिर्गमनरूपो मार्गः **अनु** अनुपूर्व्येण **वित्तः** सर्वैर्जायमानैर्लब्धः । **यतः** यस्माद्योनिमार्गात् **विश्वे** सर्वे **देवाः** **उदजायन्त** उत्कर्षेणोत्पन्ना भवन्ति । तस्माद्योनिमार्गान्मनुष्या उत्पन्ना भवन्तीति किमु वक्तव्यम् । **अतश्चित्** अस्माद्योनिमार्गादेव **प्रवृद्धः** गर्भे प्रकर्षेण वृद्धिं गतो वामदेवः **आ** **जनिषीष्ट** अ समन्तात् जायताम् । **अमुया** अमूं **मातरं** **पत्तवे** पतनाय । मरणायेत्यर्थः। **मा** **कः** मा करोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** speaks: This is the old and recognized path by which all the gods are born; so, when full-grown, let him be born in the same manner; let him not cause the loss of this his mother.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra’s Mother:] Here is the ancient proven path from which all the gods  were born.  
 Just from it should he be born full-grown.—Do not cause your mother  to fall [=miscarry] in that way.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As far as I can tell, this is the only ex. of nír √vr̥in the RV. In conjunction with ékam it must mean something like ‘single out’, ‘pick out from a group’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS is the ancient and accepted pathway by which all Gods have come into existence.  
      Hereby could one be born though waxen mighty. Let him not, otherwise, destroy his Mother.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist der erprobte alte Weg, auf dem alle Götter geboren wurden. Auf diesem soll auch er ausgereift geboren werden. Nicht soll er seine Mutter derartig zugrunde gehen lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies ist der Weg, der aufgefundne, alte, auf dem die Götter alle sind geboren, Auf dem entspringe auch der ausgewachsne; nicht lass er so in Tod die Mutter sinken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это испытанный старый путь,  
 Через который родились все боги.  

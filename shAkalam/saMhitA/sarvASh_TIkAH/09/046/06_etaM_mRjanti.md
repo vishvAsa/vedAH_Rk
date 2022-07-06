@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡म् मृजन्ति म꣡र्जियम्  
 प꣡वमानं द꣡श क्षि꣡पः  
 इ꣡न्द्राय मत्सर꣡म् म꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रा॑य । म॒त्स॒रम् । मद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
@@ -78,35 +78,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मर्ज्यं** मर्जनीयं शोध्यं **पवमानं** क्षरन्तं **मत्सरं** मदकरम् **एतम्** इमं **मदं** सोमं दशसंख्याकाः **क्षिपः** अङ्गुलयः । ‘ व्रिशः क्षिपः' इत्यङ्गुलिनामसु पाठात् । इन्द्रार्थं **मृजन्ति** पवित्रे शोधयन्ति ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The ten fingers purify this purifiable pure-flowing exhilarating juice for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ten fingers groom this one worth grooming, the self-purifying exhilarating drink of exhilaration for Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Pavamana, meet to be adorned, the fingers ten adorn,  
      The draught that shall make Indra glad.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es putzen den Putzenswerten, sich Läuternden die zehn Finger, für Indra den berauschenden Rauschtrank.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den läutrungswerthen läutern nun zehn Finger, ihn den rieselnden, Den Trank, der Indra'n Rausch erregt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

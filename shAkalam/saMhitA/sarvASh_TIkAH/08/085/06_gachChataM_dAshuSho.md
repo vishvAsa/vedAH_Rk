@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग꣡छतं दाशु꣡षो गृह꣡म्  
 इत्था꣡ स्तुवतो꣡ अश्विना  
 म꣡ध्वः सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मध्वः॑ । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gacchataṃ* ← *gacchatam* ← *gam*
 - \[verb\], dual, Present imperative
@@ -78,36 +78,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **अश्विना** अश्विनौ **इत्था** इत्थमनेन प्रकारेण **स्तुवतः** युवयोः स्तोत्रं कुर्वतः **दाशुषः** हवींषि दत्तवतो यजमानस्य **गृहं** प्रति गच्छतं युवामागच्छतम् । किमर्थम् । **मध्वः** **सोमस्य** **पीतये** इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, come to the house of the offerer who thus praises you, that you may drink the exhilaratingSoma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Go to the house of the pious man who praises just so, o Aśvins,  
 to drink of the honeyed soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to the worshipper's abode, Asvins, who here is lauding you,  
      To drink the savoury Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet in des Opferspenders Haus, des also Lobsingenden, ihr Asvin, um vom süßen Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O kommt in des Verehrers Haus, der, Ritter, euch von Herzen preist, Zum Trunk des süssen Somasafts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Идите в дом почитателя,  
 В самом деле восхваляющего (вас),  

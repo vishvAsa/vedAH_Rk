@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ यं꣡ ज꣡रन्ति शर꣡दो न꣡ मा꣡सा  
 न꣡ द्या꣡व इ꣡न्द्रम् अवकर्श꣡यन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्तो꣡मेभिर् · उक्थइ꣡श् च शस्य꣡माना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वृ॒द्धस्य॑ । चि॒त् । व॒र्ध॒ता॒म् । अ॒स्य॒ । त॒नूः । स्तोमे॑भिः । उ॒क्थैः । च॒ । श॒स्यमा॑ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -121,20 +121,20 @@ genre M
 **शरदः** संवत्सराः **यम्** इन्द्रं **न** **जरन्ति** न जरयन्ति नापक्षीणयन्ति । तथा **मासाः** च नापक्षीणयन्ति । तथा **द्यावः** दिवसाश्च यम् **इन्द्रं** **न** **अवकर्शयन्ति** नाल्पीभावयन्ति **वृद्धस्य** **चित्** प्रवृद्धस्यापि **अस्य** इन्द्रस्य **तनूः** शरीरं **स्तोमेभिः** अस्मदीयैः स्तोत्रैः **उक्थैश्च** शस्त्रैश्च **शस्यमाना** स्तूयमाना सती **वर्धतां** प्रवृद्धा भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the person n of that vast **Indra**, celebrated by praises and prayers, ever increase; Indra, whom neither years nor months make old, nor days enfeeble.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, whom the autumns do not age, nor do the months, nor days  make lean—  
 may his body, even though he is fully grown, grow stronger while it is  being celebrated by praises and solemn words.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As usual, aryáḥ has a number of possible interpr. Geldner takes it as nom. pl.
 
@@ -155,23 +155,23 @@ Each of these vss. contains at least one derivative of nṛ́- ‘(superior) man
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That Indra whom nor months nor autumn seasons wither with age, nor fleeting days enfeeble,-  
      Still may his body Wax, e'en now so mighty, glorified by the lauds and hymns that praise him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Indra, den die Herbste nicht alt machen noch die Monate und Tage abmagern. Obwohl er schon ausgewachsen ist, soll sein Leib noch wachsen, wenn er mit Lobgesängen und Preisreden gefeiert wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Jahre nicht, noch Monde altern machen, den nicht der Lauf der Tage abzehrt, Indra, Auch dem erwachsnen wachse doch sein Leib noch, wenn er durch Spruch gepriesen wird und Lieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Индре, кого не старят ни осени, ни месяцы,  
 Ни дни (его) не истощают.  

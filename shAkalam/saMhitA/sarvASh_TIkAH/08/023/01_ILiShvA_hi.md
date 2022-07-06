@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ई꣡ळिष्वा हि꣡ प्रतीवि꣡यं  
 य꣡जस्व जात꣡वेदसम्  
 चरिष्णु꣡धूमम् अ꣡गृभीतशोचिषम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 च॒रि॒ष्णुऽधू॑मम् । अगृ॑भीतऽशोचिषम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īﾱiṣvā* ← *īḍiṣva* ← *īḍ*
 - \[verb\], singular, Present imperative
@@ -83,7 +83,7 @@ genre M
 **प्रतीव्यं** शत्रुषु प्रतिगमनशीलमग्निम् । हिरवधारणे । अग्निमेव **ईळिव** स्तुतिभिः स्तोत्रं कुरु ॥ किंच चरिष्णुधूमं सर्वतश्चरणशीलधूमजालम् **अगृभीतशोचिषं** रक्षोभिरगृह्यमाणदीप्ति जातवेदसं जातप्रज्ञम् । यद्वा । जातानि भूतानि वेत्तीति जातवेदाः । तमग्निं **यजस्व** हविर्भिः पूजय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,35 +94,35 @@ genre M
 Who resists: pratīvyam = śatruṣu pratigamana śīlam agnim: **Agni**, who has he property of going againstenemies
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Reverently invoke him to receive (our offerings); sacrifice to Jātavedas, possessing curling smoke and flames that cannot be grasped,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hymn begins with a hí clause. Flg. JPB, the hí signals that the action in this clause precedes and forms the basis of the action in b.
 
 On pratīvyàm see Scarlatta 500.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WORSHIP thou Jatavedas, pray to him who willingly accepts,  
      Whose smoke wanders at will, and none may grasp his flame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So berufe denn den Opferdarbringer, verehre den Jatavedas, des Rauch wallend und des Flamme unfaßbar ist,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, preise ihn, der gern empfängt, den Wesenkenner ehre recht, Dess Rauch aufwirbelt, dessen Licht unfassbar ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Призывай же принимающего (жертву бога),  
 Почитай Джатаведаса  

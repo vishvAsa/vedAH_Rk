@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अक्षइ꣡र् मा꣡ दीव्यः कृषि꣡म् इ꣡त् कृषस्व  
 वित्ते꣡ रमस्व बहु꣡ म꣡न्यमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡न् मे वि꣡ चष्टे सविता꣡य꣡म् अर्यः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तत्र॑ । गावः॑ । कि॒त॒व॒ । तत्र॑ । जा॒या । तत् । मे॒ । वि । च॒ष्टे॒ । स॒वि॒ता । अ॒यम् । अ॒र्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akṣair* ← *akṣaiḥ* ← *akṣa*
 - \[noun\], instrumental, plural, masculine
@@ -137,7 +137,7 @@ popular
 हे **कितव** **बहु** मन्यमानः मद्वचने विश्वासं कुर्वंस्त्वम् **अक्षैर्मा** **दीव्यः** द्यूतं मा कुरु । **कृषिमित्** कृषिमेव **कृषस्व** कुरु। **वित्ते** कृष्या संपादिते धने **रमस्व** रतिं कुरु । **तत्र** कृषौ **गावः** भवन्ति । **तत्र** **जाया** भवति । **तत्** एव धर्मरहस्यं श्रुतिस्मृतिकर्ता **सविता** सर्वस्य प्रेरकः **अयं** दृष्टिगोचरः **अर्थः** ईश्वरः **वि** **चष्टे** विविधमाख्यातवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,35 +148,35 @@ popular
 Their: there, i.e., in agriculture
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Savitar:] “Don’t keep playing with dice; just plow your own plowland.  Be content in your possessions, thinking them much.  
 There are your cows, o gambler, there your wife.” In this way does  
 Savitar here, protector of the stranger, watch out for me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 "Play not with dice, [but] cultivate your corn-land. Enjoy the gain, and deem that wealth sufficient.  
      There are your cattle, there your wife, O gambler": So this good Savitr himself has told me.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Play not with dice, but cultivate thy tillage, Enjoy thy riches, deeming them abundant. There are thy cows, there is thy wife, O Gambler: This counsel Savitar the noble gives me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Spiele nicht mehr mit den Würfeln, bestelle deinen Acker; begnüge dich mit deinem Besitz, ihn hoch haltend! Da sind deine Rinder, o Spieler, da dein Weib. Dies tut mir dieser Savit?, der Herr, kund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Gib auf das Spiel, und pflüge deinen Acker, geniesse, was du hast, und halt's in Ehren, Dann, Spieler, kommst zur Gattin du, zu Heerden«, So spricht zu mir Gott Savitar, der treue.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не играй с костями, (лучше) вспахивай пашню!  
 Наслаждайся имуществом, ценя (его) высоко!  

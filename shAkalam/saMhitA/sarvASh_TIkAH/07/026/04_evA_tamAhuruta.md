@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ त꣡म् आहुर् उत꣡ शृण्व इ꣡न्द्र  
 ए꣡को विभक्ता꣡ तर꣡णिर् मघा꣡नाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ भद्रा꣡णि सश्चत प्रिया꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मि॒थः॒ऽतुरः॑ । ऊ॒तयः॑ । यस्य॑ । पू॒र्वीः । अ॒स्मे इति॑ । भ॒द्राणि॑ । स॒श्च॒त॒ । प्रि॒याणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -122,20 +122,20 @@ genre M
 **यस्य** इन्द्रस्य **मिथः** परस्परं **तुरः** बाधमानाः संश्लिष्टा वा **पूर्वीः** पूर्व्यो बह्व्यः **ऊतयः** रक्षाः सन्ति **तम्** **एव** एवमुक्तगुणम् **आहुः** पूर्वे ऋषयः। **उत** अपि चाद्यापि सः **इन्द्रः** **मघानां** मंहनीयानां धनानां **विभक्ता** दाता इति **तरणिः** आपदस्तारयितेति **शृण्वे** श्रूयते । तस्य च प्रसादात् **अस्मे** अस्मान् **प्रियाणि** **भद्राणि** कल्याणानि **सश्चत** सेवन्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Such have they proclaimed him; **Indra** is still celebrated as the distributor of riches, the transporter(beyond calamity), of whom many and emulous are the protections; may acceptable benefits attend us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just in this way they speak of him. And Indra becomes famed as the  single, surpassing apportioner of bounties,  
 whose many forms of help compete for the lead. His dear auspicious  things will be companions to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The utá of pāda a is echoed by ūtáyo in c, which in turn is picked up by ūtáye in 5a.
 
@@ -148,23 +148,23 @@ Geldner does not, however, comment on the form. Grassmann identifies it as a 3rd
 A 3rd pl. mid. injunc. is certainly possible here, but if we wish to maintain the modal value (which, in fact, is not actually necessary), the injunctive is a small embarrassment, since modal value is fairly rare, and generally limited to particular forms like dhā́s for the injunctive. An alternative would be to take it as a 3rd singular  30 subjunctive, possibly built to the perfect stem. The neut. pl. bhadrā́ṇi … priyā́ṇi could serve as subject to the singular verb in the well-known inherited construction, though it is not overwhelmingly common in the RV. Of course, we would far prefer a primary -te ending for the middle subj., but I do not think secondary -ta is impossible. Alternatively, with an analysis as 3rd plural injunctive, the tr. could be changed to “… are companions to us.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even thus have they declared him. Famed is Indra as Conqueror, sole distributer of treasures;  
      Whose many succours come in close succession. May dear delightful benefits attend us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also nennen sie ihn, und Indra ist bekannt als der einzige pünktliche Verteiler der Schätze, der viele sich gegenseitig überbietende Gnaden hat. Uns sollen seine lieben Wohltaten zufallen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So nennt man ihn, so hört man auch von Indra »der einzige, der rasche Gutvertheiler«, Dess viele Hülfen, eine an der andern, und lieber Segen freundlich uns geleite.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так о нем говорят, и (так) известен Индра:  
 Как единственный рвущийся к цели наделитель дарами,  

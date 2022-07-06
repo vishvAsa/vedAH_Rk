@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ तू꣡ न इन्दो शत꣡दातु अ꣡श्वियं  
 सह꣡स्रदातु पशुम꣡द् धि꣡रण्यवत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡धि स्तोत्र꣡स्य पवमान नो गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उप॑ । मा॒स्व॒ । बृ॒ह॒तीः । रे॒वतीः॑ । इषः॑ । अधि॑ । स्तो॒त्रस्य॑ । प॒व॒मा॒न॒ । नः॒ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -128,37 +128,37 @@ genre M
 हे **इन्दो** पवमान **नः** अस्मभ्यं **तु** क्षिप्रं धनम् **आ** आयच्छ । कीदृशम् । **शतदातु** । दातु दानम् । बहुदानम् **अश्व्यम्** अश्वसहितं **सहस्रदातु** सहस्रदानोपेतं **पशुमत्** पश्वादियुक्तं **हिरण्यवत्** हिरण्ययुक्तं च धनं देहि । तथा हे सोम **बृहतीः** प्रभूतानि **रेवतीः** धनवन्ति । यद्वा पयसोदातारः पशवः। तद्वन्ति **इषः** अन्नानि चास्मभ्यम् **उप** मास्व उपनिर्मिमीष्व । कुर्विति यावत् । किंच हे पवमान **नः** अस्माकं स्वभूतस्य **स्तोत्रस्य** श्रवणाय **अधि** **गहि** आगच्छ। ‘ क्रियार्थोपपदस्य°' (पा. सू.२.३.१४ ) इति चतुर्थी । **चतुर्थ्यर्थे** बहुलं छन्दसि' इति षष्ठी ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “On **Indu**, bring us quickly (wealth) with a hundred gifts, with horses, with a thousand gifts, with cattle and with gold; measure unto us abundant riches and food; come, purified one, to (hear) our praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Bring) here for us, o drop, a hundred shares of horses, a thousand shares  of flocks and gold.  
 Measure out lofty, rich refreshments. Give study to our praise,  
 self-purifying one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, O Indu, unto us a hundred gifts of steeds, a thousand gifts of cattle and of gold,  
      Measure thou forth, yea, splendid ample strengthening food do thou, O Pavamana, heed this laud of ours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns doch, o Saft, nach Hunderten zählenden Besitz von Rossen, nach Tausenden zählenden Besitz von Vieh und Gold! Teile uns große, reiche Tafelfreuden zu! Gedenke unseres Preisliedes, o Pavamana!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indu, hundertfaches, tausendfaches Gut, das reich an Rossen, reich an Heerden sei und Gold Und grosse reiche Labetränke miss uns zu, o flammender, beachte unsern Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(неси) же нам, о капля, сотенное владение конями,  
 Тысячное владение скотом (и) золотом!  

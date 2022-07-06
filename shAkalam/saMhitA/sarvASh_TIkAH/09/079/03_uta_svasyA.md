@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्व꣡स्या अ꣡रातिया अरि꣡र् हि꣡ ष꣡  
 उता꣡न्य꣡स्या अ꣡रातिया वृ꣡को हि꣡ षः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सो꣡म जहि꣡ पवमान दुराधि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 धन्व॑न् । न । तृष्णा॑ । सम् । अ॒री॒त॒ । तान् । अ॒भि । सोम॑ । ज॒हि । प॒व॒मा॒न॒ । दुः॒ऽआ॒ध्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -144,37 +144,37 @@ genre M
 **उत** अपि च **सः** सोमः **स्वस्याः** **अरात्याः** स्वीयस्य शत्रोः **अरिः** अभिगन्ता हननाय । **उत** अपि च **सः** सोमः **अन्यस्याः** अस्मदीयायाः **अरात्याः** अस्मच्छत्रोः **वृको** **हि** हिंसकः खलु । अरातिशब्दः स्त्रीलिङ्गोऽप्यस्ति । अथ प्रत्यक्षकृतः । **धन्वन्न** **तृष्णा** । धन्व निरुदको देशः । तस्मिन् स्थितस्य तृष्णेव सा यथा तं **समरीत** प्राप्नोति तद्वत् **तान्** उभयविधान् शत्रून् **जहि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For the (**Soma**) verily is the foe of his own enemy and the destroyer of the enemy of another; as thirst overcomes one in a desert, so purified Soma, who are irresistible, slay (both) those (adversaries).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, in the case of the hostility of one of our own, (we proclaim:) “he,  indeed, is a stranger!” And, in the case of the hostility belonging to  
 the other (side), (we proclaim:) “he, indeed, is a wolf!”  
 As if in a desert, thirst should strike them. O self-purifying Soma, smite  those of evil intent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, yerily, foe of hate shown to himself is he, yea, verity, destroyer too of other hate.  
      As thirst subdueth in the desert, conquer thou, O Soma Pavarnana, men of evil thoughts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sowohl vor der eigenen Mißgunst bewahre uns - denn das ist der Nebenbuhler, als auch vor fremder Mißgunst, denn das ist der Wolf, der Räuber! Wie in der Wüste soll diese der Durst befallen. O Soma Pavamana, erschlage, die Böses im Schilde führen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn auch des eignen Leids Erreger ist der Feind, wie auch des fremden Leids der böse Wolf; Es treffe diese Durst wie in der Wüstenei, o Soma, tödte, flammender, der Bösen Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Защити нас) и от своей враждебности – ведь это соперник!  
 И от враждебности чужого – ведь это волк!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡न् वो महो꣡ मरु꣡त एवया꣡वनो  
 वि꣡ष्णोर् एष꣡स्य प्रभृथे꣡ हवामहे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ब्रह्मण्य꣡न्तः शं꣡सियं रा꣡ध ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 हिर॑ण्यऽवर्णान् । क॒कु॒हान् । य॒तऽस्रु॑चः । ब्र॒ह्म॒ण्यन्तः॑ । शंस्य॑म् । राधः॑ । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
@@ -119,7 +119,7 @@ genre M
 हेमरुतः एवयाव्नः एवङ्गन्तव्यं स्तोत्रंयज्ञंवागन्तॄन्महोमहोमहतोमहानुभावांस्तान् वोयुष्मान् वि- ष्णोर्व्यापकस्यग्रहचमसादिषुसर्वत्रव्याप्यवर्तमानस्यएषस्यएषणीयस्यप्रार्थनीयस्यसोमस्यप्रभृथेप्र- भरणे अभिषवादिभिः प्रकर्षेणसम्पादनेसति हवामहे आह्वयामहे आहूयच हिरण्यवर्णान् हितर- मणीयवर्णान्वाककुहान् श्रेष्ठान् स्तुत्यान्वा एवम्भूतांस्तान् यतस्रुचः यागायोद्यतस्नुचः ब्रह्मण्यन्तः ब्रह्मस्तोत्रं तदिच्छन्तोवयंशंस्यं प्रशंसनीयंराधोधनं ईमहेयाचामहे ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,14 +130,14 @@ genre M
 Who frequent such sacrifices: evayāvnaḥ = from eva, that which is to be gone to, gantavyam, i.e. worship, or a sacrifice, stotram, yajñam vā; yāvan, who goes to
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those great Maruts, travelling their ways, do we invoke for you at your  ritual offering for quick Viṣṇu.  
 With offering spoons extended, creating sacred formulations, we  
 implore the prominent ones of golden hue for generosity worthy to  be proclaimed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See disc. in the published introduction. on this as the climactic vs. of the hymn -- both introducing unambiguous fire references and identifying Apām Napāt as the secret name of Agni.
 
@@ -151,23 +151,23 @@ The ends of the d pādas in these vss. are very similar: 10d … ánnam asmai, 1
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We call youi such, great Maruts, following wonted ways, to the oblation paid to Visnu Speeder-on.  
      With ladles lifted up, with prayer, we seek of them preeminent, golden-hued, the wealth which all extol.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die großen, eilig gehenden Marut laden wir zu eurer Darbringung für den raschen Vishnu ein. Die goldfarbigen, überragenden bitten wir um ihre preisliche Gabe, unter Segensworten den Opferlöffel bereit haltend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So laden wir euch grosse, eilig gehende, euch Marut's ein zum Trunk des starken, wirkenden: Die goldgeschmückten, hocherhabnen bitten wir, die Opferschalen reichend, um gepries'nes Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этих великих Марутов, стремительно движущихся, мы призываем  
 На ваше приношение для быстрого Вишну.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ पूता꣡ विपश्चि꣡तः  
 सो꣡मासो द꣡धिआशिरः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 जिगत्न꣡वो ध्रुवा꣡ घृते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सूर्या॑सः । न । द॒र्श॒तासः॑ । जि॒ग॒त्नवः॑ । ध्रु॒वाः । घृ॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -91,19 +91,19 @@ genre M
 **पूताः** पवित्रेण परिपूताः **विपश्चितः** मेधाविनः **दध्याशिरः** दध्यामिश्रणाः **घृते** वसतीवर्याख्य उदके **जिगत्नवः** गमनशीलाः **ध्रुवाः** तत्र स्थैर्येण वर्तमानाः **एते** **सोमासः** सोमाः **सूर्यासो** **न** सूर्या इव **दर्शतासः** पात्रेषु सर्वैर्दर्शनीया भवन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These filtered **Soma** juices, intelligent, mixed with curds, swift-moving, firm in the water (are) brilliant as suns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These purified soma juices, attentive to poetic inspiration, mixed with curds, are worthy to be seen like suns, mobile yet fixed in the ghee.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -112,23 +112,23 @@ Again no particular signs of cohesion, save for the X-víd- ‘finding X’ cmpd
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tlese Soma juices, skilled in song, purified, blent with milk and curd,  
      When moving and when firmly laid in oil, resemble lovely Suns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese geläuterten redekundigen, mit saurer Milch gemischten Somasäfte sind sichtbar geworden wie die Sonnen, zum Schmalz gern kommend und dort bleibend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Somatränke, hell geklärt, mit Milch gemischt, begeistrungsvoll Wie helle Sonnen anzuschaun, vordringend fest mit Fett vereint.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти очищенные прозорливые  
 Соки сомы, смешанные с кислым молоком,  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वं꣡ नः पश्चा꣡द् अधरा꣡द् उत्तरा꣡त् पुर꣡  
 इ꣡न्द्र नि꣡ पाहि विश्व꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 आरे꣡ हेती꣡र् अ꣡देवीः᳐
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ॒रे । अ॒स्मत् । कृ॒णु॒हि॒ । दैव्य॑म् । भ॒यम् । आ॒रे । हे॒तीः । अदे॑वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -122,7 +122,7 @@ genre M
 हे **इन्द्र** **त्वं** **नः** अस्मान् **पश्चात्** पश्चाद्भागात् **पुरः** पूर्वभागात् **अधरात्** अधोभागात् । एतदुपरिभागस्योपलक्षणम् । **उत्तरात्** उत्तरभागात् । एतद्दक्षिणस्याप्युपलक्षणम् । किं बहुना **विश्वतः** सर्वस्मात् प्रदेशात् **नि** **पाहि** । हे इन्द्र **दैव्यं** **भयम्** **अस्मत्** अस्मत्तः **आरे** दूरे **कृणुहि** कुरु । तथा **अदेवीः** असुराणि **हेतीः** आयुधानि **आरे** कृणुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,29 +133,29 @@ genre M
 I.e. protect us from the west, fromthe east, from below, from the north
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Protect us from behind, from beneath, from above, from in front, from  everywhere, Indra.  
 Put far away from us fear of the gods, far away the ungodly missiles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Defend us from behind, below, above, in front, on all sides, Indra, shield us well.  
      Keep far away from us the terror sent from heaven: keep impious weapons far away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütze du uns hinten, unten, oben, vorn, auf allen Seiten, Indra! Halte fern von uns die göttliche Gefahr, fern die ungöttlichen Geschosse!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von hinten, unten, oben, vorne schütze du, von allen Seiten, Indra, uns; Der Götter Schrecken schaffe weit von uns hinweg, der Götterfeinde Lanzen auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Охраняй ты нас сзади, снизу, сверху, спереди,  
 О Индра, со всех сторон!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ त इन्द्र सो꣡मो  
 नि꣡पूतो अ꣡धि बर्हि꣡षि  
 ए꣡हीम् अस्य꣡ द्र꣡वा पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । इ॒हि॒ । ई॒म् । अ॒स्य । द्रव॑ । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **ते** तुभ्यं त्वदर्थम् **अयं** **सोमः** **बर्हिषि** **अधि** वेद्यामास्तीर्णे दर्भे **निपूतः** नितरां दशापवित्रेण शोधितः । अभिषवादिसंस्कारैः संस्कृत इत्यर्थः । **ईम्** इदानीम् **अस्य** इमं सोमं प्रति **एहि** आगच्छ । आगत्य यत्र रसात्मकः सोमो हूयते' तं देशं प्रति **द्रव** शीघ्रं गच्छ । तदनन्तरं तं सोमं **पिब** ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,29 +98,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Sacred grass: or, purified (by being) filtered through the cloth called **daśā** **pavitra** over the sacred grass(strewed on the **vedi**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is your soma, Indra, purified down onto the ritual grass.  
 Come here to it! Run, drink of it!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here, Indra, is thy Soma-draught, made pure upon the sacred grass:  
      Run hither, come and drink thereof.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich steht dieser abgeklärte Soma auf dem Barhis; komm her, beeile dich, trinke davon!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier steht der Soma auf der Streu, o Indra, der gereinigte, Komm eilend her und trink davon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот, Индра, сома, очищенный  
 Для тебя, (приготовлен) на жертвенной соломе.  

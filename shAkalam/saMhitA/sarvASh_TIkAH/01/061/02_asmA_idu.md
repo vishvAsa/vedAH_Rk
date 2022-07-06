@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡ इ꣡द् उ प्र꣡य इव प्र꣡ यंसि  
 भ꣡रामि आङ्गूष꣡म् बा꣡धे सुवृक्ति꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रत्ना꣡य प꣡त्ये धि꣡यो मर्जयन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 इन्द्रा॑य । हृ॒दा । मन॑सा । म॒नी॒षा । प्र॒त्नाय॑ । पत्ये॑ । धियः॑ । म॒र्ज॒य॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -122,21 +122,21 @@ genre M;; gautamī; see Arnold (1905) 240–1
 **अस्मा** **इदु** अस्मै एव इन्द्राय । प्रयः इति अन्ननाम । **प्रयइव** अन्नमिव **प्र** **यंसि** प्रयच्छामि। तदेव स्पष्टीक्रियते । **बाधे** शत्रूणां बाधनाय समर्थं **सुवृक्ति** सुष्ट्वा वर्जकम् **आङ्गूषं** स्तोत्ररूपमाघोषं **भरामि** संपादयामि । अन्येऽपि स्तोतारः **प्रत्नाय** पुराणाय **पत्ये** स्वामिने **इन्द्राय** **हृदा** हृदयेन **मनसा** तदन्तर्वर्तिनान्तःकरणेन **मनीषा** मनीषया तज्जन्येन ज्ञानेन च **धियः** स्तुतीः कर्माणि वा मर्जयन्त मार्जयन्ति संस्कुर्वन्ति ॥ प्र यंसि। ‘यम उपरमे' इत्यस्मात् लटि पुरुषव्यत्ययः । ‘बहुलं छन्दसि' इति शपो लुक् । आङ्गूषम् ।' आङ्गूषः स्तोम आघोषः' (निरु. ५. ११) इति यास्कः । आङ्पूर्वात् घुषेः घञि पृषोदरादित्वात् घो इत्यस्य गूआदेशः आङो ङकारस्य लोपाभावश्च । थाथादिना उत्तरपदान्तोदात्तत्वम् । बाधे। ‘बाधृ विलोडने' इत्यस्मात् ‘कृत्यार्थे तवैकेन्' इति भावे केन्प्रत्ययः । एजन्तत्वात् अव्ययत्वेन सुपो लुक् । मनीषा । ‘सुपां सुलुक् ' इति तृतीयाया डादेशः । पत्ये । ‘पतिः समास एव' (पा. सू. १. ४. ८) इति घिसंज्ञायाः समासविषयत्वात् ' घेर्ङिति ' इति गुणाभावे यणादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer (oblations, acceptable as) food (to the hungry), to that **Indra**; I raise (to him) exclamations that may be of efficacy in discomfiting (my foe); others (also) worship Indra, the ancient lord, in heart, in mind, and in understanding.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just to this one I have held it out like a pleasurable offering. I bring out a  song; I thrust it out with a good twist  
 to Indra, with heart, with mind, with inspired thought. For the  
 primordial lord the insights groom themselves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In addition to the inter-verse echoes just noted, alliteration in 2c mánasā manīṣā́and 2d pratnā́ya pátye. Jesse Lundquist adds 2a práya iva prá yaṃsi.
 
@@ -147,23 +147,23 @@ suvṛktí- is a bahuvrīhi specialized for praise hymns (and occasionally the g
 Most tr. take c with d, not ab. This is possible, but not necessary.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise, like oblation, I present, and utter aloud my song, my fair hymn to the Victor.  
      For Indra, who is Lord of old, the singers have decked their lauds with heart and mind and spirit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm Biete ich ein Loblied wie ein Labsal an und bringe es dar, um ihn mit Preis zu nötigen. Für Indra als Ihren alten Gemahl putzen sie die Gedicht mit Herz, Denken und Sinnen aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Labetrunk reich' ich ihm dar und bring' ihm den Lobgesang, mit Liedern ihn bestürmend; dem alten Herrscher Indra soll man schmücken mit Herz und Geist und weisem Sinn Gebete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это ему я вручаю как освежение,  
 Я приношу похвалу, чтобы обезоружить (его) удачными речами.  

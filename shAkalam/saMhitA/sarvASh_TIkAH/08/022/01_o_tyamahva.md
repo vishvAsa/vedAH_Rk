@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 õ꣡ त्य꣡म् अह्व आ꣡ र꣡थम्  
 अद्या꣡ दं꣡सिष्ठम् ऊत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ सूरिया꣡यै तस्थ꣡थुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यम् । अ॒श्वि॒ना॒ । सु॒ऽह॒वा॒ । रु॒द्र॒व॒र्त॒नी॒ इति॑ रुद्रऽवर्तनी । आ । सू॒र्यायै॑ । त॒स्थथुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *o* ← *ā*
 - \[adverb\]
@@ -110,7 +110,7 @@ genre M
 हे अश्विनौ **दंसिष्ठम्** अत्यन्तदर्शनीयं यद्वातिशयेन शत्रूणामुपक्षपयितारं **त्यं** तं युवयोः **रथम्** **ऊतये** रक्षणाय **अद्य** अस्मिन् यागदिने **अह्वे** सोभरिरहमाह्वयामि । **सुहवा** सुहवौ स्तोत्रशस्त्रादिभिः शोभनाह्वानौ **रुद्रवर्तनी** संग्रामे रोदनशीलमार्गौ यद्वा स्तूयमानमार्गौ हे अश्विनौ **सूर्यायै** सूर्यां स्वयंवरे वरयितुं **यं** रथं युवाम् **आ** **तस्थथुः** आश्रयथः तं रथमाह्वयामीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,14 +121,14 @@ genre M
 On the path to battle: rudravartani = having a pathwhich causes weeping in battle, of whose paths are praised
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have called here this most wondrous chariot for help today,  
 the one that you mounted for Sūryā, o Aśvins easy to call, you who  
 follow the course of the Rudras [=Maruts]—
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/022/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -138,23 +138,23 @@ This pragātha contains poetic self-address at a distance. Vs. 1 begins ā́ …
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HITHERWARD have I called to-day, for succour, that most wondrous car  
      Which ye ascended, Asvins, ye whose paths are red, swift to give Car, for Surya's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe heute jenen meisterhaften Wagen zum Beistand angerufen, den ihr Asvin, ihr gern Gerufenen, für Surya bestiegen habt, die ihr des Rudra Bahn wandelt;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Herbei ruf euren Wagen ich zur Hülfe heut, den kräftigsten, Den, Ritter, ihr gernhörend auf der lichten Bahn bestiegt zum Fest der Suria.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сегодня я призвал на помощь  
 Ту самую чудесную колесницу,  

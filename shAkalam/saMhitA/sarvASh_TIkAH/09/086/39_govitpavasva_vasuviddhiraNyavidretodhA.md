@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गोवि꣡त् पवस्व वसुवि꣡द् धिरण्यवि꣡द्  
 रेतोधा꣡ इन्दो भु꣡वनेषु अ꣡र्पितः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तं꣡ त्वा वि꣡प्रा उ꣡प गिरे꣡म꣡ आसते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । सु॒ऽवीरः॑ । अ॒सि॒ । सो॒म॒ । वि॒श्व॒ऽवित् । तम् । त्वा॒ । विप्राः॑ । उप॑ । गि॒रा । इ॒मे । आ॒स॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *govit* ← *go*
 - \[noun\], masculine
@@ -152,20 +152,20 @@ genre M
 हे सोम त्वं **पवस्व** क्षर। कीदृशः । **गोवित्** गवां लम्भकः **वसुवित्** धनस्य लम्भकः **हिरण्यवित्** हिरण्यस्य लम्भकः **रेतोधाः** । रेत उदकम् । तस्य धातौषधीनाम् । यद्वा । रेतः प्रजननसामर्थ्यम् । तस्य धारयिता। **भुवनेषु** उदकेषु **अर्पितः** । हे **इन्दो** **सोम** **त्वं** **सुवीरः** सुवीर्यः **असि** भवसि । **विश्ववित्** सर्वस्य वेत्ता। **तं** **त्वा** त्वाम् **इमे** **विप्राः** **गिरा** स्तुत्या **उप** **आसते** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow, **Indu**, who are the winner of cattle, wealth, and gold, the fructifier, plural ced upon the waters; you, **Soma**, are a hero, omniscient; you these sages approach with praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, as finder of cattle, of goods, of gold. Depositing seed, o  drop, you are fitted into the worlds.  
 You, Soma, are rich in good heroes, finder of all [/all-knowing]. These  inspired poets here reverently approach you with a hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On viśvavíd- see comm. ad vs. 29. Geldner takes it as ‘all-knowing’ here, but the other -víd- cmpds in the vs. favor ‘all-finding’. Renou, like me, ‘all-finding’ here, though ‘all-knowing’ in 29.
 
@@ -181,23 +181,23 @@ Note in 38 first the enclitic naḥ and then the 1st pl. opt. syāma. The poet b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Winner of gold and goods and cattle flow thou on, set as impregner, Indu, mid the worlds of life.  
      Rich in brave men art thou, Soma, who winnest all: these holy singers wait upon thee with the song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, Rinder, Gut, Gold ausfindig machend, Samen gebend, o Saft, über die Welten gesetzt! Du bist der allwissende Meister, Soma; dir warten diese Redekundigen mit Loblied auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle, Indu, spendend Rinder, Güter, Gold, und Samen schaffend, in die Wesen eingefügt; Du bist, o Soma, allbesitzend, heldenreich, drum ehren hier die Sänger dich mit Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इह꣡ ब्रवीतु य꣡ ईम् अङ्ग꣡ वे꣡द  
 अस्य꣡ वाम꣡स्य नि꣡हितम् पदं꣡ वेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वव्रिं꣡ व꣡साना उदक꣡म् पदा꣡पुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 शी॒र्ष्णः । क्षी॒रम् । दु॒ह्र॒ते॒ । गावः॑ । अ॒स्य॒ । व॒व्रिम् । वसा॑नाः । उ॒द॒कम् । प॒दा । अ॒पुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iha*
 - \[adverb\]
@@ -132,7 +132,7 @@ popular
 **इह** इदानीम् **ईम्** एतद्वक्ष्यमाणं तत्त्वम् **अङ्ग** क्षिप्रमविचारेण **ब्रवीतु** । कः। **यः** **वेद** सः। कीदृशं तत् । **अस्य** पुरतो दृश्यमानस्य **वामस्य** वननीयस्य **वेः** गन्तु: आदित्यस्य **पदं** सर्वैः गन्तव्यं स्वरूपं **निहितं** गूढं वर्तते । किंच अस्य आदित्यस्य **शीर्ष्णः** शिरोवदुन्नतस्य सर्वेषामुत्कृष्टस्य वा **गावः** केचन वर्षकालीनाः रश्मयः **क्षीरम्** उदकं **दुहते** क्षरन्ति । **वव्रिम्** । रूपनामैतत् । रूपं **वसानाः** आच्छादयन्तः अतिविस्तरेण तेजसा तपन्तः केचन **अस्य** गावो रश्मयः **उदकं** स्वसृष्टं **पदा** सृष्टेनैव मार्गेण **अपुः** पिबन्ति भूमिं निरुदकां कुर्वन्तीत्यर्थः । तस्य स्वरूपं ब्रवीतु इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ popular
 By the paths: the solar rays, which sedn down rain and also reabsorb water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him speak here, who knows the imprinted track of this treasured  bird [=the Sun].  
 The cows [=rain clouds] yield milk [=rain] from his head [=the Sun].  Clothing themselves in a cloak, they have drunk water with the foot  [=the Sun’s rays].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let him who knoweth presently declare it, this lovely Bird's securely founded station.  
      Forth from his head the Cows draw milk, and, wearing his vesture, with their foot have drunk the water.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hier soll sie sagen, wer sie gewiß kennt, die hinterlassene Spur dieses liebwerten Vogels. Aus seinem Haupte geben die Kühe Milch. Körperform annehmend haben sie das Wasser mit dem Fuß getrunken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier möge der, welcher es recht weiss, dieses schönen Vogels [der Sonne] niedergesetzten Fuss nennen; aus seinem Haupte melken sich Milch die Kühe [die Wolken], in ihr Gewand, das Wasser, gekleidet, erreichten (āpus, Padap. apus) sie seine Stätten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть скажет здесь (о нем) тот, кто его точно знает:  
 Об оставленном следе этой милой птицы.  

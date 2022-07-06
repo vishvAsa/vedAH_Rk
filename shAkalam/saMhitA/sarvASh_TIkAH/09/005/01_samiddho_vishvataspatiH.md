@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡मिद्धो विश्व꣡तस् प꣡तिः  
 प꣡वमानो वि꣡ राजति  
 प्रीण꣡न् वृ꣡षा क꣡निक्रदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 प्री॒णन् । वृषा॑ । कनि॑क्रदत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samiddho* ← *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -76,7 +76,7 @@ genre M
 आप्रीवत्सोमस्तुतिरत्र । **समिद्धः** सम्यग्दीप्तः **विश्वतस्पतिः** सर्वतः स्वामी **वृषा** कामानां वर्षिता **पवमानः** सोमः **कनिक्रदत्** अभिषूयमाणः शब्दं कुर्वन् **प्रीणन्** देवान् प्रीणयन् **वि** **राजति** यागेषु प्रकाशते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,34 +87,34 @@ genre M
 The deities, samidh and others are severally invoked in the successive verses. Soma is praised in the form of the Āpris, and samiddhaḥ is explained as samyagdīptaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enkindled, the self-purifying lord shines forth in every direction,  
 giving pleasure, the ever-roaring bull.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The part. prīṇán may signal the Āprī theme, as Oldenberg suggests.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ENKINDLED, Pavamana, Lord, sends forth his light on, every side  
      In friendly show, the bellowing Bull.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entflammt prangt nach allen Seiten, sich läuternd, der Herr, sich beliebt machend, der brüllende Stier.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der überall entflammte Herr, der rieselnde, erstrahlet weit, Der Hengst, der wiehernd uns erfreut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажженыи  
 , господин со всех сторон,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि णो हेती꣡ रुदर꣡स्य+ वृज्याः  
 प꣡रि त्वेष꣡स्य दुर्मति꣡र् मही꣡ गात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मी꣡ढ्वस् तोका꣡य त꣡नयाय मॄळ+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अव॑ । स्थि॒रा । म॒घव॑त्ऽभ्यः । त॒नु॒ष्व॒ । मीढ्वः॑ । तो॒काय॑ । तन॑याय । मृ॒ळ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 रुद्रस्यमहादेवस्यहेतिरायुधन्नोस्मान् परिवृज्याःपरिवर्जयतु तथात्वेष्स्यदीप्तस्यरुद्रस्यमहीमहती दुर्मतिः दुःखकारिणीबुद्धिश्चपरिगात् अस्मान् वर्जयित्वान्यत्रगच्छतु अपरीवर्जने हेमीढ्वः सेचनस- र्थरुद्र स्थिरास्थिराणि त्वदीयानिधानूंषिमघवद्भ्यः हविर्लक्षणधनयुक्तेभ्योयजमाने भ्यः अवतनुष्व अवततज्यानिकुरु तथातोकयास्मत्पुत्रायतनयायतत्पुत्राय चमृळद् सुखङ्कुरु ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,39 +126,39 @@ genre M
 **Yajus**. 16.50: the end of the first half of the hymn reads: durmatir-aghāyoḥ, the displeasure of the sinful or the malevolent; **durmati**-**mahī** gāt = may the great displeasure pass away
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might Rudra’s lance avoid us. The hostile thought of the turbulent one,  though great, shall go around us.  
 Slacken the taut (bows) for our bounteous (patrons). Be merciful to our  progeny and posterity, o munificent one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Ian Hollenbaugh pointed out to me, gāt in b should have a modal reading, either as an injunc. matching the precative value of the preceding verb vṛjyāḥ or expressing the imperatival value often found in root aor. injunctives; hence either “should go around us” or “let it go around us.” The mid. impv. (áva …) tanuṣva suggests that it is Rudra’s own bows that should be un-strung. Recall that he bore the bow in 10a (bibharṣi … dhánva).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Rudra's missile turn aside and spare us, the great wrath of the impetuous One avoid us.  
      Turn, Bounteous God, thy strong bow from our princes, and be thou gracious to our seed and offspring.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May Rudra's missile turn aside and pass us, May the fierce Rudra's great ill-will go by us. Relax thy rigid bow to save our patrons; Spare, O thou god of bounty, child and grandchild.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Geschoß des Rudra soll uns verschonen, die große Ungnade des Furchtgebietenden soll uns umgehen. Entspanne die straffen Bogen unsern Gönnern zuliebe; sei gegen unseren leiblichen Samen barmherzig, du Belohner!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Rudra Wurfspiess geh' an uns vorüber, vorüber auch des starken grosse Ungunst. O spanne deinen Bogen ab den Fürsten, o milder, sei den Kindern hold und Enkeln.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да минует нас выстрел Рудры!  
 Да обойдет нас великая немилость сильного!  

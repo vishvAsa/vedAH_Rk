@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ वि꣡श्वा विदु꣡षे तु꣡भ्यं वेधो  
 नीथा꣡नि अग्ने निणिया꣡ व꣡चांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡शंसिषम् मति꣡भिर् वि꣡प्र उक्थइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नि॒ऽवच॑ना । क॒वये॑ । काव्या॑नि । अशं॑सिषम् । म॒तिऽभिः॑ । विप्रः॑ । उ॒क्थैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
@@ -112,7 +112,7 @@ genre M
 **वेधः** विधातर्हे **अग्ने** **विदुषे** कर्मविषयज्ञानवते **कवये** क्रान्तदर्शिने **तुभ्यं** **नीथानि** फलप्रापकाणि: **निण्या** नेयार्थानि गूढानि **निवचना** नितरां वक्तव्यानि **काव्यानि** कविभिर्मेधाविभिः कृतानि **एता** **विश्वा** एतानि सर्वाणि **वचांसि** वाक्यानि **मतिभिः** मननीयैः स्तोत्रैः **उक्थैः** शस्त्रैश्च सहितः **विप्रः** प्राज्ञोऽहम् **अशंसिषम्** अवोचम् । तानि सेवस्वेत्यर्थः ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,40 +123,40 @@ genre M
 Ever to be recited poems: nivacanā(ni) kāvyāni: nitarām vaktavyāni kavibhiḥ kṛtāni, those which are made by poets ever to be recited
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All these devices, the secret words, are for you who know, o ritual  adept, Agni—  
 the enigmas, the poetic compositions are for you, the wise poet. I, the  inspired one, have pronounced them in composed thoughts and  
 solemn speeches.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On this vs., see published introduction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee who knowest, Agni, thou Disposer, all these wise secret speeches have I uttered,  
      Sung to thee, Sage, the charming words of wisdom, to thee, O Singer, with. my thoughts and Praises.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I, the priest, have rehearsed to thee the omniscient one, O Agni, worshipper (of the gods), all these songs, these inmost words, these recitations and words of wisdom, to thee the wise one, with prayers and hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle diese Weisungen, versteckten Reden habe ich dir, dem Kundigen, o Meister Agni, und die vertraulichen Worte, die Seherworte dir dem Seher in Gedichten und Lobliedern redekundig vorgetragen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gesungen hab' ich alle diese Lieder, o Ordner, Agni, und geheime Worte; dem weisen Seher weisheitsvolle Reden, o Priester, dir mit Sprüchen und Gebeten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для тебя, знатока, о устроитель (обряда), все эти  
 Способы вести (гимн), о Агни, тайные слова,  

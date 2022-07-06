@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो अग्ने अवी꣡रते प꣡रा दा  
 दुर्वा꣡ससे꣡ ऽमतये मा꣡ नो अस्यइ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ नो द꣡मे मा꣡ व꣡न आ꣡ जुहूर्थाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मा । नः॒ । क्षु॒धे । मा । र॒क्षसे॑ । ऋ॒त॒ऽवः॒ । मा । नः॒ । दमे॑ । मा । वने॑ । आ । जु॒हू॒र्थाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -148,36 +148,36 @@ genre M
 हे **अग्ने** **नः** अस्मान् **अवीरते** अपुत्रताय **मा** **परा** **दाः** मा देहि । **दुर्वाससे** दुष्टवस्त्राय च नो मा परा दाः । **अस्यै** **अमतये** अभिहान्यै **नः** अस्मान् **मा** परा दाः । **क्षुधे** अशनायायै **नः** अस्मान् **मा** च परा दाः । **रक्षसे** बलिने चास्मान् **मा** परा दाः । हे **ऋताव:** सत्यवन् अग्ने **नः** अस्मान् **दमे** गृहे **मा** जुहूर्थाः मा हिंसीः ॥ ‘हुर्च्छा कौटिल्ये' इति धातुः ॥ **वने** चास्मान् **मा** जुहूर्थाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Relinquish us not, **Agni**, to the want of **male** offspring; nor to deficient clothing; nor to such desruction;leave us not to hunger, not to the **rākṣasas**; expose us not, observer of truth, to evil, whether in the house or inthe forest.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, do not hand us over to a lack of men. To neglect with its shabby  dress—do not hand us over to this.  
 Do not (hand) us (over) to hunger nor to the demon, o you who possess  the truth. Do not be angry at us in our house or in the forest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us not up, Agni, to want of heroes, to wretched clothes, to need, to destitution.  
      Yield us not, Holy One, to fiend or hunger; injure us not at home or in the forest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns nicht dem Mangel an Söhnen preis, Agni, nicht dieser geistigen Armut, die in schlechten Kleidern geht, nicht uns dem Hunger noch dem bösen Geiste, du Wahrhafter! Nicht sollst du uns zu Hause und im Wald auf Abwege bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht gib uns, Agni, hin dem Kindermangel, nicht hin der Armuth, die in Lumpen wandelt, O reiner, nicht dem Hunger, nicht dem Nachtgeist; im Hause nicht, noch draussen, stoss uns Leid zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не выдай же, о Агни, бессыновности,  
 Ни этой бездумности, носящей дурные одежды,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कुवि꣡द् अङ्ग꣡ य꣡वमन्तो य꣡वं चिद्  
 य꣡था दा꣡न्ति अनुपूर्वं꣡ वियू꣡य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ बर्हि꣡षो न꣡मोवृक्तिं न꣡ जग्मुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒हऽइ॑ह । ए॒षा॒म् । कृ॒णु॒हि॒ । भोज॑नानि । ये । ब॒र्हिषः॑ । नमः॑ऽवृक्तिम् । न । ज॒ग्मुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kuvid*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M
 **अङ्ग** हे इन्द्र **यवमन्तः** यवादिधान्ययुक्ताः कर्षकाः **यवं** **चित्** । उपलक्षणमेतत् । यवगोधूमादीन् **अनुपूर्वं** यो यो धान्यविशेषः प्रथमं पच्यते तेनानुपूर्व्येण **वियूय** पृथक्कृत्य **यथा** **कुवित्** बहुलं **दान्ति** लुनन्ति । ‘दाप् लवने ' । आदादिकः । विपूर्वात् यौतेर्ल्यपि ‘युप्लुवोर्दीर्घश्छन्दसि ( पा. सू. ६.४.५८ ) इति दीर्घः । एवम् **इहेह** अस्मिन्नस्मिन् देशे सर्वस्मिन् **एषां** यजमानानां **भोजनानि** । धननामैतत् । भोगसाधनानि धनानि **कृणुहि** कुरु। यस्मिन् यस्मिन् देशे यद्धनमपेक्षितं तदनुगुणं प्रयच्छेत्यर्थः ॥ ‘उतश्च प्रत्ययाच्छन्दसि वावचनम् ' (पा. सू. ६.४. १०६.१) इति हेर्लुगभावः । एषामित्युक्तं के पुनरिमे इत्यत आह । **ये** यजमानाः **बर्हिषः** यज्ञस्य **नमोवृक्तिं** नमसो हविर्लक्षणस्यान्नस्य नमस्कारात्मकस्य स्तोत्रस्य वा वर्जनमकरणं **न** **जग्मुः** न प्राप्नुवन्ति किंतु सर्वदा हविर्भिर्यजन्ति स्तुतिभिः स्तुवन्ति च । एषां कृणुहीत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,30 +136,30 @@ genre M
 Barley: i.e.,grain; cf. **Yajus**. 10.32; anupūrvam viyūya: a metaphor that god should pick out his diligent worshippers oneafter the other, and bestow blessing on them in due order
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Surely it is like barley-growers and their barley—how they cut it,  
 threshing it according to the old ways—  
 (so), here, just here (with us [=grain]) put the goodies of those [=chaff]  who have not come for the reverent twisting of the sacred grass.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What then? As men whose fields are full of barley reap the ripe corn removing it in order,  
      So bring the food of those men, bring it hither, who went not to prepare the grass for worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sicher weißt du doch, wie die Getreidebauer das Getreide schneiden, indem sie es reihenweise weglegen. So bring hier- und dorthin deren Besitztümer, die nicht zur ehrfürchtigen Umlegung des Barhis gekommen sind!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fürwahr, so recht wie Schnitter das Getreide in Reihen mähen, miteinander wechselnd, So bringe her die Nahrungsmittel derer, die nicht gekommen, fromm die Streu zu weihen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Конечно же, (ты поступишь так,) как хозяева зерна  
 Жнут зерно, сортируя (его) по порядку.  

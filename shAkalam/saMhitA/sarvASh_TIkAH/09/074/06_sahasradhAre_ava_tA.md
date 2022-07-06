@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्रधारे अ꣡व ता꣡ असश्च꣡तस्  
 तृती꣡ये सन्तु र꣡जसि प्रजा꣡वतीः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 हवि꣡र् भरन्ति अमृ꣡तं घृतश्चु꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 चत॑स्रः । नाभः॑ । निऽहि॑ताः । अ॒वः । दि॒वः । ह॒विः । भ॒र॒न्ति॒ । अ॒मृत॑म् । घृ॒त॒ऽश्चुतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasradhāre* ← *sahasra*
 - \[noun\], neuter
@@ -119,7 +119,7 @@ genre M
 **सहस्रधारे** बहूदकधारे **तृतीये** **रजसि** लोके स्वर्गे वर्तमानाः **असश्चतः** परस्परमसक्ताः **प्रजावतीः** उत्पादितप्रजावत्यः सोमस्य स्वभूताः **ताः** **अव** **सन्तु** अवस्तात्पृथिव्यां पतन्तु । कास्ता इत्याह । **चतस्रो** **नाभः** तपसो बाधिकाः सोमस्य संबन्धिन्यश्चतस्रो दीप्तयः कला: **दिवः** द्युलोकात् **अवः** अवस्तात् **निहिताः** सोमेन स्थापिताः ताः **घृतश्चुतः** घृतस्योदकस्य च्यावयित्र्यः सत्यः **हविः** सोमादिलक्षणं **भरन्ति** देवानां प्रयच्छन्ति । तथा **अमृतं** गोष्वोषधीषु च पयोरूपं सुधारूपं च भरन्ति प्रक्षिपन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,13 +130,13 @@ genre M
 The four digits: **nābhaḥ** = rays, dīptayaḥ; or, digits (**kalaḥ**) of the Soma; derived from **nābhas**, heaven and the root naḥ, to bind (nābhaḥ = nabhaso bādhikaḥ, obstructing heaven)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let there be inexhaustible (streams) down in the (filter) of a thousand  streams, and in the third realm (streams) bringing offspring.  
 The four hidden (streams), bursting down from heaven, dripping with  ghee, carry the oblation, the immortal (drink).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda, sahásradhāré ‘va tā́ḥ asaścatáḥ is an abbreviated version of IX.73.4ab sahásradhāré ‘va té sám asvaran, … aśaścatáḥ. As in that vs. the earthly soma streams in the filter (a) are contrasted with (b) those in heaven (“the third realm” tṛtī́ye … rájasi, comparable to 73.4b divó nā́ke), though the latter are also probably rain.
 
@@ -149,23 +149,23 @@ Another similarity between this passage and IX.89.5 leads me to alter the publis
 “hidden.” But this ppl. is paralleled in IX.89.5 by the fuller phrase samāné antár dharúṇe níṣattāḥ “set down within the same support,” with an almost synonymous ppl. cmpd ní-ṣatta-: ní √sad), also characterizing the four. There I take níṣatta- in its literal sense and suggest that the “same support” might be the udder itself. I now wonder if níhitāḥ should also be taken literally here and mean “the four, deposited (in the udder), bursting …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the third region which distils a thousand streams, may the Exhaustless Ones descend with procreant power.  
      The kindred Four have been sent downward from the heavens: dropping with oil they bring Amrta and sacred gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf die Seihe mit tausend Abtraufen rinnen diese Ströme herab; im dritten Weltraum müssen sie Nachwuchs haben. Vier Zitzen sind unterhalb des Himmels angebracht. Die Schmalzträufenden tragen den Göttertrank als Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die reichen Brunnen in dem tausendströmigen, dem dritten Luftraum, mögen Kinderschar verleihn, Vier Quellen sind vom Himmel nieder eingesetzt, Sie bringen buttertriefend her den Göttertrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В (цедилку) с тысячей протоков с(текают) эти неиссякающие (струи сомы).  
 Да принесут они потомство в третьем пространстве!  

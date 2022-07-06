@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व वे꣡दिं हो꣡तराभिर् यजेत  
 रि꣡पः का꣡श् चिद् · वरुणध्रु꣡तः सः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुं꣡ सुदा꣡से वृषणा उलोक꣡म्†
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 परि॑ । द्वेषः॑ऽभिः । अ॒र्य॒मा । वृ॒ण॒क्तु॒ । उ॒रुम् । सु॒ऽदासे॑ । वृ॒ष॒णौ॒ । ऊं॒ इति॑ । लो॒कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -109,37 +109,37 @@ genre M
 हे मित्रादयः **सः** अस्मद्द्वेषी **वेदिं** यागसाधनं **होत्राभिः**। वाङ्नामैतत् । वाग्रूपाभिः स्तुतिभिः सार्धम् **अव** **यजेत** । वेद्यां कर्माणि कुर्वन् देवान्न स्तुयादित्यर्थः। अवपूर्वो यजतिस्त्यागार्थः । स किं प्राप्नुयादिति तत्राह। **वरुणध्रुतः** वरुणेन त्वया हिंसितः सः **काश्चित्** **रिपः** हिंसाः प्राप्नुयादिति शेषः । अस्मांस्तु **अर्यमा** देवः **द्वेषोभिः** द्वेष्टृभी रक्षःप्रभृतिभिः **परि** **वृणक्तु** वर्जयतु । **उरुं** विस्तीर्णं **लोकं** स्थानं **सुदासे** शोभनदानाय मह्यं प्रयच्छतं हे **वृषणा** वर्षकौ कामानां मित्रावरुणौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let my adversary desecrate the altar by (ill-expressed) praises; repelled by **Varuṇa**, may he (undergo)various sufferings; may **Aryaman** defend us from those who hate us; confer, showerers (of benefits), a vastregion upon the liberal donor (of oblations).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By his libations he should ritually cleanse the altar of any  
 double-dealing that deceives Varuṇa.  
 Let Aryaman with his hostilities avoid (him [=Sudās], creating) a wide  world for Sudās, o you two bulls.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he with ofierings purify the altar from any stains of Varuna's reviler.  
      Aryaman save us us all those who hate us: give room and freedom to Sudas, ye Mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Opfern soll der Priester den Altar entsühnen, er jegliche Betrügereien des Varunahintergehers sühnen. Aryaman soll ihn mit Feindschaft verschonen. Schaffet dem Sudas weiten Raum, Ihr Bullen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Altar treibe, Arjaman, durch Opfer die Feinde weg, die Varuna beleid'gen; Es säubre Arjaman ihn rings von Hassern, und Freiheit schafft dem Sudas, o ihr Stiere.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть принесением жертвенных возлияний (жрец) очистит алтарь,  
 Какие бы прегрешения (ни совершил) тот, (кто) обманывает Варуну!  

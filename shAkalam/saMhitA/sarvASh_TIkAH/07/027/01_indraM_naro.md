@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं न꣡रो नेम꣡धिता हवन्ते  
 य꣡त् पा꣡रिया युन꣡जते धि꣡यस् ताः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ गो꣡मति व्रजे꣡ भजा तुवं꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 शूरः॑ । नृऽसा॑ता । शव॑सः । च॒का॒नः । आ । गोऽम॑ति । व्र॒जे । भ॒ज॒ । त्वम् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -126,36 +126,36 @@ genre M
 **यत्** यदा **पार्याः** युद्धभरणनिमित्ताः **ताः** प्रसिद्धाः धियः कर्माणि युनजते प्रयुज्यन्ते तदा नरः नेतारः यम् इन्द्र नेमधितो नेमधितौ संग्रामे हवन्ते ह्वयन्ति सः त्वं **शूरः** **नृषाता** नृणां संभक्ता च **शवसः** बलस्य बलं चकानः कामयमानश्च सन् 'गोमति **व्रजे** गोठे गोसमूहे **नः** अस्मान् **आ** **भज** प्रापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Men invoke **Indra** in battle when those actions which lead to victory are performed; do you who arehero, the benefactor of man, the desirer of prowess, plural ce us in possession of pastures abounding with cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra do men call upon when facing the other side, so that he will hitch  up these insights (of theirs) (to be) decisive.  
 As champion at the winning of men, taking pleasure in your strength,  give us a share in the enclosure containing cattle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MEN call on Indra in the armed encounter that he may make the hymns they sing decisive.  
      Hero, rejoicing in thy might, in combat give us a portion of the stall of cattle,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Indra rufen die Männer im Wettstreit, daß er diese ausschlaggebenden Lieder an seinen Wagen spanne. Der du als Held im Männerkampf die Übermacht begehrst, gib du uns Anteil an der erbeuteten Rinderhürde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; Der Held im Kampf, der sich der Stärke freuet, beschenke uns mit rinderreichem Stalle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру мужи призывают в состязании,  
 Чтоб эти приносящие победу поэтические мысли он запряг (в свою колесницу).  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡मन्दान् स्तो꣡मान् प्र꣡ भरे मनीषा꣡  
 सि꣡न्धाव् अ꣡धि क्षियतो꣡ भाविय꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अतू꣡र्तो रा꣡जा श्र꣡व इछ꣡मानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । मे॒ । स॒हस्र॑म् । अमि॑मीत । स॒वान् । अ॒तूर्तः॑ । राजा॑ । श्रवः॑ । इ॒च्छमा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amandān* ← *amanda*
 - \[noun\], accusative, plural, masculine
@@ -113,7 +113,7 @@ genre M
 **सिन्धौ** सिन्धुदेशे यद्वा लक्षणया सिन्धुतीरे समुद्रतीरे **अधि** **क्षियतः** अधिनिवसतः **भाव्यस्य** भावयव्यस्य। तत्पुत्रस्य स्वनयस्येत्यर्थः । तस्य **अमन्दान्** अनल्पान् **स्तोमान्** स्तोत्राणि तन्निष्ठबहुविधदानादीनां कीर्तनानि **मनीषा** मनीषया प्रियातिशयबुद्ध्या **प्र** **भरे** प्रकर्षेण संपादयामि । कस्तस्य विशेष इति तत्राह । **अतूर्तः** केनाप्यहिंसितः **यः** **राजा** **मे** मदर्थं **सहस्रं** तत्संख्याकान् **सवान्** । सूयन्ते सोमाः एष्विति सवाः सोमयागाः । तान् **अमिमीत** संपूर्णधनप्रदानेन निर्मितवान् । किमिच्छन्। **श्रवः** सर्वैः श्रूयमाणां कीर्तिमात्मने **इच्छमानः** कामयमानः। यतोऽयमार्त्विज्याद्युपाधिना विना कीर्त्यर्थमेव बहुधनं प्रादात् अतस्तं स्तौमीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,34 +124,34 @@ genre M
 **Bhāvya** = **Svanaya**, his son; sindhu **adhi** = upon the Sindhu, either the river Sindhu or the sea-shore
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not feeble are the praises I present through my inspiration to Bhāvya  who lives on the Sindhu,  
 who meted out to me a thousand (soma-)pressings, the invincible king  seeking fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Negated ámanda- ‘not feeble’ contains the adj. manda- ‘stupid, lazy’, which is otherwise not attested until the Up. and epic. The audience’s first interpr. of ámandān would be as a form of √ma(n)d ‘exhilarate’, though obviously manda- ‘stupid’ must have existed in everyday speech to allow it to be used here. As with śóka- in the last verse of the preceding hymn (I.125.7), Kakṣīvant is availing himself of words/meanings belonging to a different register to spice up the discourse. The prominent placing of ámandān as the initial word of the hymn calls further attention to this stylistic departure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH wisdom I present these lively praises of Bhavya dweller on the bank of Sindhu;  
      For he, unconquered King, desiring glory, hath furnished me a thousand sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht zu schwache Loblieder trage ich mit Überlegung vor auf den an der Sindhu wohnenden Bhavya, der mir tausend Somaopfer zuwies, der unübertroffene König, der Ruhm begehrende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Muntere Lieder trage ich vor mit Weisheit auf dem Strome dessen, was bleibt und was werden soll; dem, welcher mir tausend Spenden zumass, ein unübertrefflicher König, der nach Ruhm trachtet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не слабые восхваления я благодарно приношу  
 (Царю) Бхавье, живущему на Синдху,  

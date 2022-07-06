@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कं सु꣡ र꣡थम् पुर꣡  
 इ꣡न्द्रः कृणोतु सात꣡ये  
 न꣡ यं꣡ धू꣡र्वन्ति धूर्त꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 न । यम् । धूर्व॑न्ति । धू॒र्तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -91,36 +91,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यम्** इन्द्रं **धूर्तयः** हिंसकाः **न** **धूर्वन्ति** न हिंसन्ति सः **इन्द्रः** **अस्माकं** **सातये** अभीष्टलाभाय **सु** **रथं** कल्याणं रथं **पुरः** **कृणोतु** पुरस्करोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, whom no foes can harm, send before us a beautiful chariot for the acquisition (of ourdesires).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra set our chariot in front to win,  
 he whom injuries do not injure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra set our car in front, in foremost Place to win the spoil,  
      He whom the wicked injure not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unseren Wagen soll Indra fein an die Spitze bringen zum Gewinnen, er, den die Fallstricke nicht zu Fall bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voran lass unsern Wagen schnell zur Preiserlangung, Indra, gehn, Den Böse nicht beschädigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нашу колесницу пусть Индра хорошенько  
 Продвинет вперед для захвата (награды),  

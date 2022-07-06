@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ वि꣡श्वे सजो꣡षसो  
 देवा꣡सो दूत꣡म् अक्रत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यज्ञे꣡षु देव꣡म् ईळते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 स॒प॒र्यन्तः॑ । त्वा॒ । क॒वे॒ । य॒ज्ञेषु॑ । दे॒वम् । ई॒ळ॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -100,41 +100,41 @@ genre M;; repeated line
 **सजोषसः** सह प्रीयमाणाः **विश्वे** सर्वे **देवासः** देवाः **त्वां** **दूतम्** **अक्रत** अकुर्वन् । अतः कारणात् हे **कवे** क्रान्तदर्शिन् **देवं** द्योतमानं **त्वा** त्वां **सपर्यन्तः** परिचरन्तो यजमाना: **यज्ञेषु** **ईळते** देवानाह्वातुं याचन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All the consentient divinities have made you their messenger; therefore the pious worship you who are divine, wise **Agni**, at sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is you whom all the gods, as one, have made their messenger.  
 Waiting upon you, o poet, they invoke you, a god, in the sacrifices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee have all Gods of one accord established as their messenger.  
      Serving at sacrifices men adore thee as a God, O Sage.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee all the gods unanimously have made their messenger. Serving thee, O sage, they magnify at the sacrifices (thee) the god.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich haben alle Götter einmütig zu ihrem Boten gemacht; dich in Ehren haltend, o Seher, berufen die Menschen dich, den Gott, bei ihren Opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich wählten alle Götter sich zu ihrem Boten im Verein; Dich rühmen bei den Opfern sie, o weiser, ehrend dich als Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя сделали себе вестником  
 Все боги, единые духом.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ वि꣡श्वे अमृत जा꣡यमानं  
 शि꣡शुं न꣡ देवा꣡ अभि꣡ सं꣡ नवन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वइ꣡श्वानर य꣡त् पितरो꣡र्+ अ꣡दीदेः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तव॑ । क्रतु॑ऽभिः । अ॒मृ॒त॒ऽत्वम् । आ॒य॒न् । वैश्वा॑नर । यत् । पि॒त्रोः । अदी॑देः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -123,20 +123,20 @@ genre M
 हे **अमृत** मरणधर्मरहिताग्ने **विश्वे** सर्वे **देवाः** स्तोतारः **जायमानम्** अरण्योः सकाशात् उत्पद्यमानं **त्वां** **शिशुं** न पुत्रमिव **अभि** **सं** **नवन्ते** अभिसंस्तुवन्ति । यद्वा । दीव्यन्तीति देवा रश्मयः । ते सर्वे जायमानं त्वामभि सं नवन्ते अभिसंगच्छन्ते यथा पितरः पुत्रमभिगच्छन्ति । अपि च हे **वैश्वानर** अग्ने **यत्** यदा **पित्रोः** पालयित्र्योर्द्यावापृथिव्योर्मध्ये **अदीदेः** दीप्यसे तदानीं **तव** त्वदीयैः क्रतुभिः कर्मभिर्ज्योतिष्टोमादिभिर्यागैः **अमृतत्वं** देवत्वम् **आयन्** यजमानाः प्राप्नुवन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All the worshippers together praise you, immortal, **Agni**, when born like an infant; when you shine **vaiśvānara**, between the parental (heaven and earth) they obtain immortality through your (sacred) rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward you, o immortal one, while you are being born, do all the gods  cry out together as if to their young.  
 According to your intentions they went to immortality, o Vaiśvānara,  when you came to light in your two parents [=kindling sticks].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 abhí sáṃ navante reprises abhí sáṃ navanta of 2b and perhaps confirms the preterital interpr. of that injunctive, since the verb in this vs. is marked as pres., though the gods are also subject here. However, how to interpret the tense values in the 2nd hemistich is unclear. Pāda c has an unambiguous impf. āyan, which, with its goal of immortality (amṛtatvám), would seem to refer to the remote mythological past (though see below). The verb is the last pāda, ádīdeḥ, can be either a plupf. (to the older stative pf. dīdā́ya) or an impf. to the new redupl. pres. remodeled from the pf. stem (Kümmel opts for the impf.; see 228). But whatever its morphological identity, it seems to refer to an event in the immediate past or the immediate neighborhood -- assuming that pitróḥ refers to the two kindling sticks -- namely, the regularly repeated kindling of the fire. This interpr. would be supported by 5c with pres. part.: jā́yamānaḥ pitrór upásthe “being born in the lap of your two parents.” In the published translation
 
@@ -157,23 +157,23 @@ The middle of the hymn is characterized by initial (or modified initial) forms o
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee, Immortal! when to life thou springest, all the Gods sing for joy as to their infant.  
      They by thy mental powers were made immortal, Vaisvanara, when thou shonest from thy Parents.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, dem Neugeborenen, brüllen alle Götter zu, du Unsterblicher, wie die Kühe ihrem Jungen. Nach deinem Ratschluß gingen sie zur Unsterblichkeit ein, o Vaisvanara, als du im Schoße der beiden Eltern aufleuchtetest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O dir, unsterblicher, dem neugebor'nen, wie ihrem Kinde jauchzen zu die Götter, Durch deine Kräfte wurden sie unsterblich, als bei den Göttern, Männerhort, du strahltest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о бессмертный, когда ты рождаешься, все Боги, ликуя, приветствуют, как (коровы -) теленка.  
 Благодаря твоим силам духа они пришли к бессмертию,  

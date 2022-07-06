@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि वा꣡जपतिः कवि꣡र्  
 अग्नि꣡र् हव्या꣡नि अक्रमीत्  
 द꣡धद् र꣡त्नानि दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 दध॑त् । रत्ना॑नि । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M
 **वाजपतिः** वाजानामन्नानां पतिः पालकः । ‘परि वाजपतिः कविरित्येष हि वाजानां पतिः (ऐ. ब्रा, २. ५) इति ब्राह्मणम् । **कविः** क्रान्तदर्शी मेधावी वा **दाशुषे** हविर्दत्तवते यजमानाय **रत्नानि** रमणीयानि धनानि **दधत्** प्रयच्छन् **अग्निः** **हव्यानि** हवींषि **परि** **अक्रमीत्** परितः क्रामति । व्याप्नोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,34 +98,34 @@ genre M
 Paryakramīt = taking the offerings for conveyance to the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the lord of the prize, the sage poet, has marched around the  oblations,  
 establishing treasures for the pious.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Round the oblations hath he paced, Agni the Wise, the Lord of Strength,  
      Giving the offerer precious boons.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, the lord of booty, the sage, has circumambulated the oblations, bestowing treasures on the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der Herr des Siegerpreises, der Seher, hat die Opfer umwandelt, dem Opferspender Schätze bringend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise Gutsherr Agni schritt rings um die Opfertränke her, Verleihend Schutz dem Huldiger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Повелитель наград, поэт,  
 Агни отправился вокруг жертвенных возлияний,  

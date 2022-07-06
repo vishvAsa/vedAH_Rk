@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दधिक्रां꣡ वः प्रथम꣡म् अश्वि꣡नोष꣡सम्  
 अग्निं꣡ स꣡मिद्धम् भ꣡गम् ऊत꣡ये हुवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आदित्या꣡न् द्या꣡वापृथिवी꣡ अपः꣡ सु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । विष्णु॑म् । पू॒षण॑म् । ब्रह्म॑णः । पति॑म् । आ॒दि॒त्यान् । द्यावा॑पृथि॒वी इति॑ । अ॒पः । स्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhikrāṃ* ← *dadhikrām* ← *dadhikrā*
 - \[noun\], accusative, singular, masculine
@@ -124,37 +124,37 @@ genre M
 हे स्तोतारः **वः** युष्माकम् **ऊतये** रक्षणाय **प्रथमं** **दधिक्राम्** अश्वाभिमानिनीं देवतां **हुवे** आह्वयामि । ततः **अश्विना** अश्विनौ देवौ **उषसम्** उषोदेवतां च **समिद्धं** सम्यग्दीप्तम् **अग्निं** च **भगम्** एतदाख्यं देवं च आह्वयामि । **इन्द्रं** **विष्णुं** **पूषणं** च **ब्रह्मणस्पतिमादित्यान्** **द्यावापृथिवी** **अपः** उदकदेवताः **स्वः** सूर्यमित्येतान् देवानाह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For your preservation, (worshippers), I invoke, first, Dadhikrā, then the **Aśvins**, the Dawn, the kindledAgni, **Bhaga**, **Indra**, **Viṣṇu**, **Pūṣan**, **Brahmaṇaspati**, the **Ādityas**, heaven and earth, the waters, the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Upon Dadhikrā as the first, upon the Aśvins and Dawn, upon the  kindled Agni and Bhaga, do I call for your sake for help,  
 upon Indra, Viṣṇu, Pūṣan, and Brahmaṇaspati, upon the Ādityas,  
 Heaven and Earth, the Waters, and the Sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I CALL on Dadhikras, the first, to give  you aid, the Asvins, Bhaga, Dawn, and Agni kindled well,  
      Indra, and Visnu, Pusan, Brahmanaspati, Adityas, Heaven and Earth, the Waters, and the Light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zuerst rufe ich zu eurem Beistand den Dadhikra an, die Asvin, die Usas, den entflammten Agni, Bhaga, Indra, Vishnu, Pusan, Brahmanaspati, die Aditya´s, Himmel und Erde, die Gewässer, die Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Dadhikra ruf ich zuerst zu Hülfe euch, die Ritter, Bhaga, Uschas und des Agni Glut, Und Indra, Vischnu, Puschan, den Gebetes Herrn, Aditja's, Himmel, Erde, Wasser, Himmelsglanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дадхикра для вас первым, Ашвинов, Ушас,  
 Агни зажженного, Бхагу я призываю на помощь,  

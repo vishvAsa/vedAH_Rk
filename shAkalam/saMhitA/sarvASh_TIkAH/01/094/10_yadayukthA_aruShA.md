@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अ꣡युक्था अरुषा꣡ रो꣡हिता र꣡थे  
 वा꣡तजूता वृषभ꣡स्येव ते र꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आत् । इ॒न्व॒सि॒ । व॒निनः॑ । धू॒मऽके॑तुना । अग्ने॑ । स॒ख्ये । मा । रि॒षा॒म॒ । व॒यम् । तव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -138,42 +138,42 @@ genre M;; repeated line
 हे **अग्ने** **अरुषा** आरोचमानौ **रोहिता** लोहितवर्णौ। रोहित इत्यग्नेरश्वस्याख्या ‘रोहितोऽग्नेः' (नि. १. १५.२ ) इति दर्शनात् । ‘रोहितेन त्वाग्निर्देवतां गमयतु' (तै. सं. १. ७. ४. ३) इति मन्त्रवर्णाच्च । ‘ एते वै देवाश्वाः' (तै. सं. १. ७. ४. ३ ) इति हि तत्र व्याख्यातम् । **वातजूता** । वातस्य वायोर्जूतं जवो वेग इव वेगो ययोस्तौ। ईदृशावश्वौ **रथे** **यत्** यदा **अयुक्थाः** अयोजयः तदानीं वनानि दहतः **ते** तव **रवः** शब्दः **वृषभस्येव** दृप्तस्य महोक्षस्य शब्द इव गम्भीरो भवति । **आत्** अनन्तरं **वनिनः** वनसंबद्धान वृक्षान् **धूमकेतुना** धूमः केतुः प्रज्ञापको यस्य तादृशेन रश्मिना **इन्वसि** व्याप्नोषि । अन्यत् पूर्ववत् ॥ अयुक्थाः । ‘ युजिर योगे' । लुङि ‘झलो झलि ' इति सकारलोपः । अरुषेत्यादिद्विवचनेषु ‘ सुपां सुलुक्° ' इति आकारः । रवः । ‘ रु शब्दे'।' ऋदोरप्' इति भावे अप । इन्वसि । इवि व्याप्तौ '। भौवादिकः । इदित्त्वात् नुम् ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When you have yoked the bright red horses (ete vai devāśvāḥ: **Taittirīya** **Saṃhitā** 1.7.4.3), swift as the wind, to your car, your roar is like that of a bull, and you enwrap the forest trees with a banner of smoke; let us not, **Agni**, suffer injury through your friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you have harnessed the pair of ruddy, wind-sped chestnuts to  your chariot and your bellowing is like that of a bull,  
 then you spur on the trees [/the winners] with (a flame) whose beacon  is smoke. – O Agni, while in company with you may we not come  
 to harm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When to thy chariot thou hadst yoked two red steeds and two ruddy steeds, wind-sped, thy roar was like a bull's.  
      Thou with smoke-bannered flame attackest forest trees. Let us not in thy friendship, Agni, suffer harm.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When thou hast yoked to thy chariot the two ruddy, red horses, whom the wind drives forward, and thy roaring is like that of a bull, then thou movest the trees with thy banner of smoke 1. Agni! May we suffer no harm in thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du die beiden roten, lohfarbenen, windschnellen Rosse an den Wagen geschirrt hast, so ist dein Gebrüll wie das des Bullen. Dann bewegest du die Bäume mit deinem rauchfahnigen Wagen. - O Agni, in deiner Freundschaft sollen wir nicht zu Schaden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn windbewegte rothe Flammenrosse du geschirrt an deinen Wagen, brüllst du wie ein Stier, Bezwingst des Waldes Bäume mit dem Rauchpanier; in deiner Freundschaft, Agni, treff' uns nimmer Leid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как только ты запряг в колесницу двоих алых, красных (коней),  
 Поторапливаемых ветром, рев твой (становится), как у быка.  

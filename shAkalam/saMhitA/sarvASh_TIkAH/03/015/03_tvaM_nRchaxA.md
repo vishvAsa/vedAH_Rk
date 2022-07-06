@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नृच꣡क्षा वृषभा꣡नु पूर्वीः꣡  
 कृष्णा꣡सु अग्ने अरुषो꣡ वि꣡ भाहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृधी꣡ नो राय꣡ उशि꣡जो यविष्ठ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वसो॒ इति॑ । नेषि॑ । च॒ । पर्षि॑ । च॒ । अति॑ । अंहः॑ । कृ॒धि । नः॒ । रा॒ये । उ॒शिजः॑ । य॒वि॒ष्ठ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -142,41 +142,41 @@ genre M
 **वृषभ** कामानां वर्षितर्हे **अग्ने** **नृचक्षाः** नृणां मनुष्याणां शुभाशुभकर्मणोर्द्रष्टा **कृष्णासु** रात्रिषु **अरुषः** अरोचमानः **त्वम्** **अनु** अनुक्रमेण **पूर्वीः** बह्वीर्ज्वालाः **वि** **भाहि** विशेषेण प्रकाशय। **वसो** सर्वस्य प्रकाशप्रदानेन स्वस्वस्थानेषु वासयितरग्ने त्वं न: अस्मान् **नेषि** कर्मानुरूपफलानि **च** प्रापय । **अंहः** अस्माकं दारिद्र्यलक्षणं पापम् **अति** **पर्षि** **च** अतिपारय । निवारय इति यावत् । किंच **यविष्ठ** युवतम हे अग्ने **नः** अस्मान् **राये** धनाय **उशिजः** कामयमानान् **कृधि** कुरु । अभिलषितफलप्रदानेन प्राप्तकामान्कुर्वित्यर्थः ॥ नृचक्षाः ।' चक्षिङ् व्यक्तायां वाचि'। अयमत्र दर्शने वर्तते । ‘ असुन्' इत्यनुवृत्तौ ' चक्षेर्बहुलं शिच्च ' इत्यसुन् । शिद्वद्भावात् ख्याञादेशाभावः । कृदुत्तरपदप्रकृतिस्वरः । वृषभ । **वृषु** सेचने '। ‘ अभच्' इत्यनुवृत्तौ ' ‘ ऋषिवृषिभ्यां कित्' इत्यभच् । कित्त्वाद्गुणाभावः । अपादादित्वान्निघातः । पूर्वीः । पुरुशब्दस्य ‘वोतो गुणवचनात् ' इति ङीप् । आद्यस्योकारस्य दीर्घश्छान्दसः । प्रत्ययस्वरेणान्तोदात्तः । भाहि । ‘ भा दीप्तौ ' । अन्तर्भावितण्यर्थः । लोटि रूपम् । वसौ । ‘वस निवासे '। 'उः' इत्यनुवृत्तौ ' शॄस्वृम्निहित्रप्यसिवसि ' इत्यादिना उप्रत्ययः । पादादित्वान्न निघातः । षाष्ठिकमाद्युदात्तत्वम् । नेषि । ‘ णीञ् प्रापणे ' । छन्दसि लोडर्थे लट् । ‘ बहुलं छन्दसि ' इति शपो लुक् । ‘आमन्त्रितं पूर्वमविद्यमानवत् ' इत्यामन्त्रितस्याविद्यमानवत्त्वेन पादादित्वान्न निघातः । पर्षि। ‘पॄ पालनपूरणयोः । ‘ चादिषु च ' इति न निघातः । कृधि । ' डुकृञ् करणे' इत्यस्य लोटि सेर्ह्यपिञ्च' इति हिरादेशः । तस्य • श्रुशृणुपॄकृवृभ्यश्छन्दसि ' इति धिरादेशः । ‘ बहुलं छन्दसि ' इति उप्रत्ययस्य लुक् । पादादित्वान्न निघातः। राये । **रा** दाने '। **रातेर्डेः'** इति डैप्रत्ययः । ‘ ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् । उशिजः । ‘ वश कान्तौ ।' वशेः किच्च' इतीजिप्रत्ययः । कित्त्वात्संप्रसारणम् । प्रत्ययस्वरः । यविष्ठ । युवशब्दादतिशायने इष्ठन्प्रत्ययः । ‘ स्थूलदूरयुव ' इत्यादिना यणादेः परस्य लोपः पूर्वस्य च गुणः । आमन्त्रितत्वान्निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Showerer (of benefits),beholder of men, radiant amid darkness, shine, **Agni**, with abundant (rays) in due order; granter of dwellings, conduct us (to good), keep off all ill, and youngest (of all the gods), gratify our desires for wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, drawing the gaze of men—(be radiant) through many (dawns), o  bull. Flame-red, o Agni—be radiant amid dark (nights).  
 O good (Agni), lead us and take us across narrow straits. Make us, your  fire-priests, to have wealth, youngest one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bull, who beholdest men, through many mornings, among the dark ones shine forth red, O Agni.  
      Lead us, good Lord, and bear us over trouble: Help us who long, Most Youthful God, to riches.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Beholding men, shine thou after many (dawns) 1, O bull, Agni, red in the dark (nights). O Vasu! Lead us and bring us across anguish. Help us, the Usigs 2, to wealth 3, thou youngest (of the gods)!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du mit dem Herrenauge, du Bulle, erstrahle viele Morgen lang in den dunklen Nächten hellrot, o Agni! Führ uns, du Guter, und bring uns über die Not hinweg; mach uns zu Usij, daß wir Reichtum gewinnen, o Jüngster!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erstrahl', o Stier, du männerschau'nder, rother in schwarzen Nächten wie in vielen frühern; O guter, leit und fahr uns über Drangsal, und lass, o jüngster, Güter uns erstreben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, смотрящий на мужей, о бык, многие (утренние зори)  
 Ярко свети алым светом, о Агни, в темных (ночах)!  

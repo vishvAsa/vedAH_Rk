@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धृषत꣡श् चिद् धृष꣡न् म꣡नः  
 कृणो꣡षि इन्द्र य꣡त् तुव꣡म्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; repeated line
 ती॒व्रैः । सोमैः॑ । स॒प॒र्य॒तः । नमः॑ऽभिः । प्र॒ति॒ऽभूष॑तः । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhṛṣataś* ← *dhṛṣataḥ* ← *dhṛṣ*
 - \[verb noun\], genitive, singular
@@ -117,21 +117,21 @@ genre M;; repeated line
 हे इन्द्र **धृषतश्चित्** धृष्टादपि **धृषत्** धृष्टं **मनः** **कृणोषि** । अत्यन्तं धृष्टं करोषि । **यत्** यस्मात् **त्वं** **तीव्रैः** मदजनकैः **सोमैः** **सपर्यतः** पूजयतः **नमोभिः** नमस्कारैश्च **प्रतिभूषतः** अलंकुर्वतो यजमानस्याभिमतं दित्ससीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have made your mind, **Indra**, more resolute than the resolute, since you (wish to give the desires)of him who worships you with the intoxicating **Soma** and adorns you with adorations; Indra's gifts are worthy ofpraise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bold also is the mind of (you,) the bold, o Indra, when you act  
 for the man who renders service with sharp soma drops, who attends  with homages.  
 – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The interpretation of this verse rests on whose mind (mánas-) is at issue.
 
@@ -140,23 +140,23 @@ Geldner considers it to belong to the mortal worshiper and makes it the object o
 As for the rest of the verse, I take the gen. participles saparyatáḥ (c) and pratibhū́ṣataḥ (d) as genitives of benefit. This has the slight disadvantage of positing different referents for these two participles and for dhṛṣatáḥ in a, but it would hardly be the first time that a RVic verse contained genitives referring to different entities, and there is considerable distance between dhṛṣatáḥ and the others.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou, O Indra, makest yet more bold the spirit of the bold  
      Who with strong Soma serveth thee, still ready with his reverent prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da du, Indra, selbst des Kühnen Sinn noch kühner machst, der mit scharfen Somasäften dir Ehre erweist und mit Verbeugungen dich erwartet. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Noch kühner wird des kühnen Muth, wenn du, o Indra, ihn erregst, Dem, der mit scharfem Trank dich ehrt und mit Gebeten dich erfreut, des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поскольку даже у отважного ты делаешь  
 Дух (еще более) отважным, о Индра,  

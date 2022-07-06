@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चाकॢप्रे꣡ ते꣡न ऋ꣡षयो मनुष्या᳡  
 यज्ञे꣡ जाते꣡ पित꣡रो नः पुराणे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡ इमं꣡ यज्ञ꣡म् अ꣡यजन्त पू꣡र्वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पश्य॑न् । म॒न्ये॒ । मन॑सा । चक्ष॑सा । तान् । ये । इ॒मम् । य॒ज्ञम् । अय॑जन्त । पूर्वे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cākﾱpre* ← *kﾱp*
 - \[verb\], plural, Perfect indicative
@@ -129,34 +129,34 @@ popular
 **पुराणे** चिरंतने अस्मिन् **यज्ञे** **जाते** विश्वसृड्भिर्देवैः सम्यगनुष्ठिते सति **तेन** यज्ञेन **ऋषयो** **मनुष्याः** **नः** अस्माकं **पितरः** पूर्वपुरुषाश्च **चाक्लृप्रे** अकल्प्यन्त । असृज्यन्त । **इमम्** ईदृशं **यज्ञं** **ये** **पूर्वे** साध्या देवाः प्रजापतेः प्राणभूताः **अयजन्त** अन्वतिष्ठन् **तान्** देवान् प्राणात्मना सर्वत्र वर्तमानान् **चक्षसा** दर्शनहेतुना **मनसा** **पश्यन्** जानन् **मन्ये** । तानेव विश्वस्रष्टॄन्  देवान् स्तौमि । मन्यतिरर्चतिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The seers, the sons of Manu, our fathers, arranged (the ritual) according  to this, when the sacrifice was born in ancient times.  
 Seeing with my mind as my eye, I think of the ancient ones who offered  this sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So by this knowledge men were raised to Rsis, when ancient sacrifice sprang up, our Fathers.  
      With the mind's eye I think that I behold them who first performed this sacrificial worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darnach haben sich die menschlichen Rishi´s gerichtet, unsere Väter, als das Opfer in der Vorzeit erschaffen war. Mit dem Geiste als Auge glaube ich die zu sehen, welche zuerst diesem Opfer opferten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Danach haben sich die menschlichen Dichter gerichtet, unsere Väter, als das uralte Opfer erzeugt war; schauend betrachte ich mit Geist und Auge die, welche zuerst dies Opfer dargebracht haben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сообразовывались с этим риши людские,  
 Отцы наши древние, когда родилась жертва.  

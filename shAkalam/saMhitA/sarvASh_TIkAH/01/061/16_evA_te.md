@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ ते हारियोजना सुवृक्ति꣡  
 इ꣡न्द्र ब्र꣡ह्माणि गो꣡तमासो अक्रन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; gautamī; see Arnold (1905) 240–1;; repeated line
 आ । ए॒षु॒ । वि॒श्वऽपे॑शसम् । धिय॑म् । धाः॒ । प्रा॒तः । म॒क्षु । धि॒याऽव॑सुः । ज॒ग॒म्या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -128,14 +128,14 @@ genre M;; gautamī; see Arnold (1905) 240–1;; repeated line
 हर्योरश्वयोर्योजनं यस्मिन् रथे स तथोक्तः । तस्य स्वामित्वेन संबन्धी हारियोजनः । हे **हारियोजन** **इन्द्र** **गोतमासः** गोतमगोत्रोत्पन्ना ऋषयः **सुवृक्ति** सुष्ठु आवर्जकान्यभिमुखीकरणकुशलानि **ब्रह्माणि** स्तुतिरूपाणि मन्त्रजातानि **ते** तव **एव** **अक्रन्** अकृषत। **एषु** स्तोतृषु **विश्वपेशसं** बहुविधरूपयुक्तं **धियं** **धाः** । धिया लभ्यत्वात् धीः धनमुच्यते । यद्वा । धीशब्दः कर्मवचनः । पश्वादिबहुविधरूपं धनम् अग्निष्टोमादिकं बहुविधरूपं कर्म वा **आ** धाः । धेहि स्थापय । **प्रातः** इदानीमिव परेद्युरपि प्रातःकाले **धियावसुः** बुद्ध्या कर्मणा वा प्राप्तधन इन्द्रः **मक्षु** शीघ्रं **जगम्यात्** अस्मद्रक्षणार्थमागच्छतु ॥ एव ।' निपातस्य च ' इति संहितायां दीर्घः । सुवृक्ति । ‘सुपां सुलुक् ' इति शसो लुक् । अक्रन् । करोतेर्लुङि ‘मन्त्रे घसह्वर' इत्यादिना च्लेर्लुक् । अन्तादेशः । तस्य ङित्त्वात् गुणाभावे यणादेशः । इतश्च ' इति इकारलोपे संयोगान्तलोपे च अडागमः । धाः । ‘छन्दसि लुङ्लङ्लिटः' इति लोडर्थे लुङि “ गातिस्था" ' इति सिचो लुक् । ‘बहुलं छन्दस्यमाङयोगेऽपि ' इति अडभावः॥ ॥२९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, harnesser of steeds, the descendants of **Gotama** have offered to you prayers of efficacy to secure your presence; bestow upon them every sort of affluence; may he who has acquired wealth by pious acts, come hither quickly in the morning.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus have the Gotamas made you sacred formulations for the  
 “Fallow-bay-yoking” (oblation), with a good twist, o Indra.  
@@ -143,30 +143,30 @@ Do you confer on them an insight with all its ornaments. – Early in  the morni
 insight.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 hāriyojanā is unaccented and therefore taken by most as a vocative addressed to Indra. I follow Oldenberg in emending to an accented form (hāriyojanā́), modifying bráhmāṇi. See in the next hymn bráhma hariyójanāya “formulation for the fallow-bay-yoking.” As Oldenberg points out, taking it as a vocative with Indra requires either shortening the last vowel or allowing a lengthened vocative ending (which is not usual), and possibly also shortening the first vowel.
 
 This verse is extra-hymnic in some ways: its opening breaks the pattern set in the previous 15 vss.; it makes a meta-announcement about the contents of the hymn just recited; and it ends with the Nodhas refrain. But it also forms a ring with the first verse, with the repetition of bráhmāṇi, and with the first part of the hymn concerning the presentation of praise-hymns, with the reappearance of suvṛktí, which was a signature word there (2b, 3d, 4c).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus to thee, Indra, yoker of Bay Coursers, the Gotamas have brought their prayers to please thee.  
      Bestow upon them thought, decked with all beauty. May he, enriched with prayer, come soon and early.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So haben dir, du Trinker des Falbenanschirrungsschoppens, mit schöner Lobrede die Gotamiden eine Erbauung bereitet, o Indra. Leg in sie die Dichtung mit allen Zierden! - Recht bald am Morgen soll sich der einstellen, der durch die Weisheit Schätze erwirbt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So haben preisend dir, der Füchse anschirrt, die Gotamer Gebet verrichtet, Indra, Lass reich mit Gut geschmückt sein ihre Andacht. Der huldvoll sorget, komme früh am Morgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так тебе, о Индра – обладатель колесницы с упряжкой буланых коней,  
 Люди из рода Готамы с помощью прекрасных речей создали молитвы.  

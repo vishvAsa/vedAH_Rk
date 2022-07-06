@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ कृता꣡नि ऋजीषि꣡णः  
 क꣡ण्वा इ꣡न्द्रस्य गा꣡थया  
 म꣡दे सो꣡मस्य वोचत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मदे॑ । सोम॑स्य । वो॒च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -87,36 +87,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **कण्वाः** **ऋजीषिणः** ऋजीषवतः **सोमस्य** **कृतानि** कर्माणि **इन्द्रस्य** **गाथया** इन्द्रस्य वाचा **मदे** अस्य मदे संजाते सति **प्र** **वोचत** प्रबूत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Celebrate with songs the great deeds of **Indra**, the drinker of the stale **Soma**, when in his exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Kaṇvas, with a song proclaim (the deeds) of Indra of the  silvery drink  
 done in the exhilaration of soma,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 KANVAS, tell forth with song the deeds of Indra, the Impetuous,  
      Wrought in the Soma's wild delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verkündet, o Kanva´s, des trestersafttrinkenden Indra Taten mit Gesangeslied in der Somabegeisterung,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, preist des vorwärts stürmenden des Indra Thaten mit Gesang, O Kanva's, bei des Soma Rausch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Провозгласите деяния Индры,  
 Пьющего сому из выжимок, о Канвы,  

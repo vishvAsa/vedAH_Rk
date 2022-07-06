@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान ऋतः꣡ कविः꣡  
 सो꣡मः पवि꣡त्रम् आ꣡सदत्  
 द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 दध॑त् । स्तो॒त्रे । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -83,20 +83,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **ऋतः** सत्यभूतः **कविः** क्रान्तकर्मा **पवमानः** **सोमः** अस्मदीये **स्तोत्रे** **सुवीर्यं** शोभनवीर्यं **दधत्** प्रयच्छन् **पवित्रमासदत्** आसीदति ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The truthful seer, Pavamaāna **Soma**, sits down upon the filter, giving great energy to the worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Self-purifying Soma, the entruthed poet, has sat in the filter,  
 establishing for the praiser an abundance of heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the masc. ṛtáḥ and the phrase ṛtáḥ kavíḥ see comm. ad VIII.60.5, which contains the same phrase, save for sandhi variation.
 
@@ -109,23 +109,23 @@ No overt signs of unity.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, true, Pavamana, Sage, is seated in the cleansing sieve,  
      Giving his praiser hero strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pavamana Soma, der wahrhafte Seher, hat sich auf die Seihe gesetzt, dem Sänger die Meisterschaft bringend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der heil'ge Seher, flammend hell, der Soma senkte sich ins Sieb, Dem Sänger schenk' er Heldenkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो वि꣡श्वा दिवो꣡ व꣡सु  
 उतो꣡ पृथिविया꣡ अ꣡धि  
 पुनान꣡ इन्दव् आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पु॒ना॒नः । इ॒न्दो॒ इति॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -88,37 +88,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्दो** सोम **सः** अभिषुतः **पुनानः** पबमानस्त्वं **दिवः** **अधि** दिवि स्थितानि **उतो** अपि च **पृथिव्या** अधि पृथिव्यां स्थितानि । अधीति सप्तम्यार्थानुवादः । **विश्वा** विश्वानि **वसु** वसूनि **नः** अस्मभ्यम् **आ** **भर** आहर ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, when you are purified, bring us all the treasures that are in heaven and upon earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All goods from heaven and from the earth  
 bring hither to us, while being purified, o drop.  
 1280 IX.58–59
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So bring thou hitherward to us, Indu, while thou art purified,  
      All treasures both of heaven and earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns, o Saft, wenn du dich läuterst, alle Schätze vom Himmel und von der Erde her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So bringe alle Güter uns vom Himmel und der Erde her, O Indu, hell erstrahlender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все блага с неба,  
 А также с земли  

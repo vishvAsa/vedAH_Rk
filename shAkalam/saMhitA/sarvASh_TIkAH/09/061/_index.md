@@ -8,7 +8,7 @@ title = "+061"
 तृतीयेऽनुवाके सप्त सूक्तानि । तत्र ‘अया वीती' इति त्रिंशदृचं प्रथमं सूक्तम् । अमहीयुर्नामाङ्गिरस ऋषिः । गायत्री छन्दः । पवमानः सोमो देवता । तथा चानुक्रान्तम्- अया वीती त्रिंशदमहीयुः' इति । उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 61 (773)  
 Soma Pavamāna  
@@ -21,7 +21,7 @@ are strung together in no apparent order. There is a discernible tendency, howev
 naming Indra, and the theme of Soma the smiter and aggressive warrior returns  toward the end of the hymn and dominates the last two tr̥cas (vss. 19–20, 22, 24–30).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061-067.md">
 <details open><summary><h2>61-67 ...{Loading}...</h2></summary>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ मूर्धा꣡नः क्षितीना᳐꣡म्  
 अ꣡दब्धासः स्व꣡यशसः  
 व्रता꣡ र꣡क्षन्ते अद्रु꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 व्र॒ता । रक्ष॑न्ते । अ॒द्रुहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -78,19 +78,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ये** **मूर्धानः** सर्वेषां मूर्धस्थानीया उच्छ्रिताः **क्षितीनां** मनुष्याणाम् **अदब्धासः** अहिंसकाः **स्वयशसः** स्वायत्तकीर्तयः **व्रता** व्रतान्यस्मदीयानि कर्माणि **रक्षन्ते** पालयन्ते **अद्रुहः** अद्रोग्धारः सन्तः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You who are the heads of men, unharming, and of self-sustained glory, who, benevolent ones, protectour rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They who, as heads of the settled peoples, untrickable, self-glorious, without deceit, guard their commandments—
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/067/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -100,23 +100,23 @@ The correlative of yé in 13 is té in 14, but this unremarkable pairing actuall
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those who, the Princes of the folk, in native glory, neer deceived,  
      Maintain their statutes, void of guilt-
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die als die Häupter der Menschenvölker, die unbetörten, selbstherrlichen über die Gebote wachen, die Sündlosen,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die aller Menschen Häupter sind, untrüglich, herrlich durch sich selbst Und treu bewachen das Gesetz,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что главы (людских) поселений, безобманные,  
 С собственным блеском,  

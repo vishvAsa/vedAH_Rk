@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्रव्या꣡दम् अग्नि꣡म् प्र꣡ हिणोमि दूरं꣡  
 यम꣡राज्ञो गछतु रिप्रवाहः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवे꣡भ्यो हव्यं꣡ वहतु प्रजान꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒ह । ए॒व । अ॒यम् । इत॑रः । जा॒तऽवे॑दाः । दे॒वेभ्यः॑ । ह॒व्यम् । व॒ह॒तु॒ । प्र॒ऽजा॒नन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kravyādam* ← *kravyād*
 - \[noun\], accusative, singular, masculine
@@ -125,7 +125,7 @@ popular
 आहिताग्निमरणेएतदादिद्वेऋचावौपासनोद्वासनेविनियुक्ते । तत्र प्रथमायाः पूर्वोर्धेन दक्षि- णस्यां दिशि चतुष्पस्द्थादावौपासनाग्निं निरस्यति उत्तरेण शान्तिकर्मार्थमादत्ते । क्रव्यादं क्रव्यमामिषं तस्यात्तारं तीव्रमग्निं दूरं विप्रकृष्टदेशे प्रहिणोमि प्रगमयामि । हि गतौ स्वा- दिः । रिप्रवाहः रिप्रं पापं तस्यवोढा सोग्निः यमराज्ञः यमोराजा येषां तान् यमराजकान् अन्यप्रदेशान् गच्छतु प्राप्नोतु । अथ शान्ति कर्मार्थमुपासनः इतरः क्रव्यादादन्योजातवेदाः जातानां वेदिता जातधनोवा प्रजानन् सर्वैर्विज्ञायमानोयमग्निः इहैव देशे देवेभ्योदेवार्थं हव्यं हवनयोग्यं हविः वहतु प्रापयतु ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ popular
 King **Yama**:yamarājyam; this ṛca closes the Pitṛmeda, or sacrifice to the **Pitṛs**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Flesh-eating Agni I send off in the distance. Carrying away defilements,  let him go to those who have Yama as king.  
 Here let only this one, the other Jātavedas, carry the oblations to the  gods, knowing what’s ahead.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1 send afar flesh eating Agni, bearing off stains may he depart to Yama's subjects.  
      But let this other Jatavedas carry oblation to the Gods, for he is skilful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den fleischfressenden Agni sende ich weit fort; er soll zu den Untertanen König Yama´s gehen, das Unreine fortführend. Hier soll dieser andere Jatavedas den Göttern das Opfer zuführen, des Weges kundig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni, der das Fleisch verzehrt, entfern' ich; er geh zum Reich des Jama, Flecken tilgend; Hier aber fahr der andre Wesenkenner den Göttern Opfer zu, die Wege kennend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пожирающего сырое мясо Агни я отсылаю далеко.  
 Пусть уйдет он, увозя нечистоты, к тем, кому Яма - царь!  

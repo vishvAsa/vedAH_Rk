@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नः प꣡प्रिः पारयाति  
 स्वस्ति꣡ नावा꣡ पुरुहूतः꣡  
 इ꣡न्द्रो वि꣡श्वा अ꣡ति द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 इन्द्रः॑ । विश्वा॑ । अति॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -87,7 +87,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **पप्रिः** प्राता पूरयिता **पुरुहूतः** बहुभिराहूतः **सः** **इन्द्रः** **विश्वाः** सर्वाः **द्विषः** द्वेष्ट्रीः प्रजाः **नः** अस्मान् **नावा** तरणसाधनेन **स्वस्ति** क्षेमेण **अति** **पारयाति** अतिपारयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,28 +98,28 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 To welfare: **svasti** = happy, kṣemeṇa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, our deliverer, much invoked, will deliver us to the far shore by boat, beyond all hatreds, with well-being: Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he, the saviour much-invoked, may Indra bear us in a ship  
      Safely beyond all enemies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Retter möge der vielberufene Indra uns glücklich zu Schiff über alle Anfeindungen hinüberretten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er als Fährmann fahr uns über, hochgelobt zum Glück auf Schiffen, Indra über alle Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот перевозчик пусть перевезет нас  
 Благополучно на ладье, Индра  

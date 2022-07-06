@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् भू꣡मिम् अददाम् आ꣡रियाय  
 अहं꣡ वृष्टिं꣡ दाशु꣡षे म꣡र्तियाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡म देवा꣡सो अ꣡नु के꣡तम् आयन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒हम् । अ॒पः । अ॒न॒य॒म् । वा॒व॒शा॒नाः । मम॑ । दे॒वासः॑ । अनु॑ । केत॑म् । आ॒य॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -116,7 +116,7 @@ genre M
 **अहं** वामदेव इन्द्रो वा आर्याय मनवे **भूमिं** पृथ्वीम् अददां दत्तवानस्मि । दाशुषे हविर्दत्तवते मर्त्याय मनुष्याय यजमानाय **वृष्टिं** सस्याद्यभिवृद्धयर्थं वृष्टिलक्षणमुदकम् अहम् एव अददाम् । किच **अहं** वावशानाः शब्दायमानाः **अपः** उदकानि **अनयं** सर्वमपि प्रदेशम् अगमयम् । देवासः वह्न्यादयो देवाः **मम** **केतं** मदीयं संकल्पम् अनु आयन् अनुयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ genre M
 To the venerable Manu: the text has only āryaya; Mānave is added
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I gave land to the Ārya; I (gave) rain to the pious mortal.  
 I led the bellowing waters. It is my will that the gods followed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I have bestowed the earth upon the Arya, and rain upon the man who brings oblation.  
      I guided forth the loudly-roaring waters, and the Gods moved according to my pleasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich gab das Land dem Arier, ich dem opfernden Sterblichen den Regen. Ich leitete die laut brüllenden Gewässer; auf meine Absicht gingen die Götter ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Arier verlieh ich einst die Erde und Regenguss dem sterblichen Verehrer; Ich führte her die rauschenden Gewässer, und meinem Willen folgten nach die Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я дал землю арье.  
 Я (дал) дождь поклоняющемуся (мне) смертному.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ ब्र꣡ह्म इन्दर+ तु꣡भ्य° शंसि  
 दा᳐꣡ नृ꣡भ्यो नॄणां᳐꣡+ शूर श꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उत꣡ त्रायस्व गृणत꣡ उत꣡ स्ती꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तेभिः॑ । भ॒व॒ । सऽक्र॑तुः । येषु॑ । चा॒कन् । उ॒त । त्रा॒य॒स्व॒ । गृ॒ण॒तः । उ॒त । स्तीन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
@@ -132,37 +132,37 @@ genre M
 हे **इन्द्र** त्वदर्थम् **इमा** इमानि पुरोवर्तीनि **ब्रह्म** ब्रह्माणि परिवृढानि स्तोत्राणि **शंसि** अशंसिषत । शस्यन्ते । शंसेश्छान्दसे कर्मणि लुङि व्यत्ययेनैकवचनम्। हे **शूर** शौर्यवन्निन्द्र त्वं **नृणां** मनुष्याणां मध्ये **नृभ्यः** स्तुत्यादेः नेतृभ्यः **शवः** बलं **दाः** देहि । अपि च **तेभिः** तैः **सक्रतुः** समानकर्मा समानप्रज्ञो वा **भव** **येषु** स्तोतृषु **चाकन्** हविरादि कामयसे ॥  ‘कन दीप्तिकान्तिगतिषु' । अस्माद्यङ्लुगन्ताच्छान्दसे लङि सिपि रूपमेतत् । कमेर्वा पूर्ववत् । सिपि ‘मो नो धातोः' इति नत्वम् ॥ **उत** अपि च **गृणतः** स्तोतॄन **त्रायस्व** पालय । **उत** अपि च **स्तीन्** । स्त्यायतेरेतद्रूपम् । संघीभूय स्थितान् यजमानानपि त्रायस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To you, **Indra**, have these prayers been addressed grant, O hero, strength to the leaders of men; be ofone mind with those in whom you delight, and protect those who praise you, and the worshippers who standround about.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These sacred formulations here have been recited to you, Indra. Give the  might of men to men, o champion.  
 Be of the same resolve with those in whom you take pleasure. And  
 protect the singers and their people.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These holy prayers, O Indra, have I sung thee: grant to the men the strength of men, thou Hero.  
      Be of one mind with those in whom thou joyest: keep thou the singers safe and their companions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese erbaulichen Reden sind für dich, Indra, gesprochen; gib den Männern der Männer Stärke, o Held! Sei mit denen eines Sinnes, an denen du Gefallen findest und beschirme die Sänger und ihre Angehörigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich habe diese Lieder dir gesungen, o gib, Held Indra, Männerkraft den Männern; Sei eines Sinns mit denen, die der lieb sind, und nimm in Schutz die Sänger und was ihr ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти священные слова, о Индра, произнесены для тебя.  
 Дай мужам силу мужей, о герой!  

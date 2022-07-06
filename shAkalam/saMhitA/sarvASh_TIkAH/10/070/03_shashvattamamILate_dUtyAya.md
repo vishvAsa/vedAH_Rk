@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शश्वत्तम꣡म् ईळते दूति꣡याय  
 हवि꣡ष्मन्तो मनुषि꣡यासो अग्नि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ देवा꣡न् वक्षि नि꣡ षदेह꣡ हो꣡ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वहि॑ष्ठैः । अश्वैः॑ । सु॒ऽवृता॑ । रथे॑न । आ । दे॒वान् । व॒क्षि॒ । नि । स॒द॒ । इ॒ह । होता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaśvattamam* ← *śaśvattama*
 - \[noun\], accusative, singular, neuter
@@ -107,36 +107,36 @@ genre M
 **शश्वत्तमम्** अत्यन्तं नित्यम् **अग्निं** **हविष्मन्तः** संभृतहविष्काः **मनुष्यासः** मनुष्याः यजमानाः **दूत्याय**। ‘दूतस्य भागकर्मणी ' इति यत्प्रत्ययः । दूतकर्मणे हविर्वहनलक्षणाय तन्निमित्तम् **ईळते** स्तुवन्ति । स त्वमेवं स्तुतः **वहिष्ठैः** वोढृतमैः **अश्वैः** **सुवृता** सुवर्तनेन **रथेन** च सह **देवान्** इन्द्रादीन **आ** **वक्षि** अस्मदीयं यज्ञं प्रत्यावह प्रापय । ततस्त्वं **होता** भवन् **इह** अस्मिन् यज्ञे **नि** **षद** निषीद ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Men offering oblations adore the eternal **Agni** to (induce him to perform) the duty of messenger (to thegods); do you with your stalwart draught horses and your well-turning chariots bear (our offering) to the gods,and sit down here as the ministrant priest.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sons of Manu, offering oblations, time and again solemnly invoke Agni to act as messenger:  
 “With the best-conveying horses and with a smoothly rolling chariot,  convey the gods here. Sit down here as our Hotar.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men with oblations laud most constant Agni, and pray him to perform an envoy's duty.  
      With lightly-rolling car and best draught-horses, bring the Gods hither and sit down as Hotar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So oft als möglich berufen die opfernden Menschen Agni zum Botenamt. Mit den besten Zugpferden fahr auf leichtem Wagen die Götter her; nimm hier als Hotri Platz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni flehn die Menschen an zur Botschaft, ihn stets aufs Neue Opfertränke bringend, Mit schnellsten Rossen und auf raschem Wagen fahr her die Götter, setz dich hier als Priester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Люди, имеющие жертву, постоянно  
 Призывают  

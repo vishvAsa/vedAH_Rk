@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गन्धर्व꣡ इत्था꣡ पद꣡म् अस्य रक्षति  
 पा꣡ति देवा꣡नां ज꣡निमानि अ꣡द्भुतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुकृ꣡त्तमा म꣡धुनो भक्ष꣡म् आशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 गृ॒भ्णाति॑ । रि॒पुम् । नि॒ऽधया॑ । नि॒धाऽप॑तिः । सु॒कृत्ऽत॑माः । मधु॑नः । भ॒क्षम् । आ॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gandharva* ← *gandharvaḥ* ← *gandharva*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ genre M
 **गन्धर्वः** उदकानां स्तुतीनां वा धारक आदित्यः **अस्य** सोमस्य **पदं** स्थानं द्युसंबन्धि **इत्था** सत्यं **रक्षति** । सोऽयं सोमः **देवानां** **जनिमानि** जन्मानि । देवानित्यर्थः । **पाति** रक्षति **अद्भुतः** महान् । किंचायं **रिपुम्** अस्मद्वैरिणं **निधया**। निधा पाश्या । पाशसमूहेन **गृभ्णाति** गृह्णाति । **निधापतिः** पाशसमूहस्वामी । तस्यास्य **मधुनः** मधुररसस्य **भक्षं** **सुकृत्तमाः** अतिशयेन सुकृतकर्तार एव **आशत** प्राप्नुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 The lord of cattle: nidhāpatiḥ (the lord of snares) = nidhipatiḥ (the lord of treasure)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Gandharva guards his track just so; the infallible one protects the  races of the gods.  
 The lord of snares [=filter] grasps the defiler with his snare. Those who  best perform (ritual) action have attained the draught of honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For my view of the Gandharva as another instantiation of soma/the sun see published introduction. This more or less agrees with Geldner (n. 4a: the sun, acdg. to Sāyaṇa.) and Renou (Soma-Gandharva). I do not see this vs. as referring to the Somaraub as Ober does (II.162).
 
@@ -151,23 +151,23 @@ As indicated in the published introduction, with the 2nd hemistich we return to 
 nidhā̇́- clearly means ‘snare’; see the other occurrence in X.73.11 nidháyeva baddhā́n “bound as if by a snare.” But the semantic dev. from the presumed source ní √dhā is not clear. That lexeme generally means ‘set down, deposit, keep safe/secure’. Perhaps ‘snare’ develops from this last meaning: a device used to secure an object. On this problem see detailed disc. by Scarlatta (255). It would be nice to connect it with ní √dā ‘bind’, but pesky phonology gets in the way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gandharva verily protects his dwellingplace; Wondrous, he guards the generations of the Gods.  
      Lord of the snare, he takes the foeman with the snare: those who are most devout have gained a share of meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gandharva bewacht dort seinen Platz, der Heimliche schützt der Götter Geschlechter. Er faßt den Schelm mit der Schlinge, der Schlingenmeister. Die größten Meister haben den Trunk des Soma erlangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gandharva ist es, der des Soma Ort bewacht, und unsichtbar der Götter Stämme hütend schützt, Der Herr des Netzes fängt mit seinem Netz den Feind; die frommsten sind zum Trunk des süssen Safts gelangt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Гандхарва защищает так его место.  
 Он хранит роды богов, (этот) удивительный.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्व꣡म् मघवञ् छृणु  
 य꣡स् ते व꣡ष्टि वव꣡क्षि त꣡त्  
 य꣡द् वीळ꣡यासि वीळु꣡ त꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत् । वी॒ळया॑सि । वी॒ळु । तत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -95,41 +95,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **मघवन्** **त्वं** **शृणु** अस्मदीयां स्तुतिम् । **ते** त्वत्तो यत् **वष्टि** कामयते स्तोता **तत्** **ववक्षि** तस्मै तत् वहसि । किंच त्वं **यत्** **वीळयासि** दृढीकरोषि तत् **वीळु** तत् दृढमेव सर्वत्र भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Maghavan**, do you hear (our praise); whosoever desires of you, you bear to him his request, whatyou fix is sure.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you, o bounteous one—listen: “Who wishes (something) of you,  for that you exert your will.  
 What you will make firm, that is firm.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rest of Indra’s mother’s advice (if she is the speaker) implicitly contrasts the person who approaches Indra with requests (and, presumably, homage) and whom Indra may decide to favor with the pugnacious wasp of the previous verse that only wants to fight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And hear, O Maghavan; to him who craves of thee thou grantest all  
      Whate'er thou makest firm is firm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und höre, du Gabenreicher: Wer von dir etwas will, so bestimmst du es. Was du festmachen willst, das ist fest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und hör, o mächtiger, auf den, der von dir wünscht, das wünsch auch du, Was du befestigst, das ist fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще ты послушай, о щедрый:  
 Кто от тебя хочет (чего-либо), этого хочешь ты.  

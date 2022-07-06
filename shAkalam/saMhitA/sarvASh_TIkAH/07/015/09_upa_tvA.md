@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प त्वा सात꣡ये न꣡रो  
 वि꣡प्रासो यन्ति धीति꣡भिः  
 उ꣡पा꣡क्षरा सहस्रि꣡णी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उप॑ । अक्ष॑रा । स॒ह॒स्रिणी॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **त्वा** त्वां **नरः** नेतारो यजमानाः **विप्रासः** विप्रा मेधाविनः **धीतिभिः** कर्मभिः **सातये** धनाय कामानां लाभाय वा **उप** **यन्ति** उपगच्छन्ति । **सहस्रिणी** सहस्रसंख्याका **अक्षरा** क्षयरहिता स्तुतिरूपा अस्मदीया वाक् त्वाम् **उप** याति च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,29 +90,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Praise is addressed: upākṣarā sahasriṇī = imperishable, thousand-fold, near; thesubstantive is: vāk, speech or praise; prefix upa = upayati, approaches
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our men, inspired poets, come to you with their visions in order to  win gain,  
 as does their syllable [/their inexhaustible cow] bringing thousands.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The men come near thee for their gain, the singers with their songs of praise:  
      Speech, thousandfold, comes near to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An dich wenden sich die beredten Männer mit ihren Dichtungen, um Lohn zu gewinnen, an dich die tausendbringende Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich gehen um Erlangung an, die weisen Männer mit Gebet, Die tausendfache Rede auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе приближаются вдохновенные  
 Мужи с произведениями, чтобы покорить (тебя),  

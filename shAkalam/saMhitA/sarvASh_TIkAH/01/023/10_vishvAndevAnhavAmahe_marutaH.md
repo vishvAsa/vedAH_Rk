@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वान् देवा꣡न् हवामहे  
 मरु꣡तः सो꣡मपीतये  
 उग्रा꣡ हि꣡ पृ꣡श्निमातरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒ग्राः । हि । पृश्नि॑ऽमातरः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मरुतः** मरुत्संज्ञकान् **विश्वान्** सर्वान् **देवान्** **सोमपीतये** **हवामहे** सोमपानार्थम् आह्वयामः । ते च मरुतः **उग्राः** शत्रुभिरसह्यबलाः **पृश्निमातरः** पृश्नेः नानावर्णयुक्ताया भूमेः पुत्राः । हिशब्दः प्रसिद्ध्यर्थः । सा च प्रसिद्धिः ‘ पृश्नेः पुत्राः ' ( ऋ. सं. ५. ५८. ५) इति मन्त्रान्तरादवगन्तव्या ॥ पृश्निमातरः। पृश्निः माता येषां ते। पृश्निशब्दः ‘घृणिपृश्नि' (उ. सू. ४. ४९२) इति उणादावाद्युदात्तो निपातितः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Pṛṣṇi** = sky, or heaven in genitive ral
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The All Gods we call, the Maruts, for soma-drinking,  
 for they are strong, with Pr̥śni as their mother.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We call the Universal Gods, and Maruts to the Soma draught,  
      For passing strong are Prsni's Sons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Allgötter rufen wir, die Marut zum Somatrunk, denn gewaltig sind die Söhne der Prisnimutter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Somatrunke laden wir der Maruts ganze Götterschar, Denn mächtig ist der Priçni Stamm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы зовем Всех-Богов –  
 Марутов на питье сомы.  

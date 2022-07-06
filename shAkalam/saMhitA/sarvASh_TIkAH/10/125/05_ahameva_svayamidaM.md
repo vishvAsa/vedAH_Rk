@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् एव꣡ स्वय꣡म् इदं꣡ वदामि  
 जु꣡ष्टं देवे꣡भिर् उत꣡ मा꣡नुषेभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡म् ब्रह्मा꣡णं त꣡म् ऋ꣡षिं तं꣡ सुमेधा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यम् । का॒मये॑ । तम्ऽत॑म् । उ॒ग्रम् । कृ॒णो॒मि॒ । तम् । ब्र॒ह्माण॑म् । तम् । ऋषि॑म् । तम् । सु॒ऽमे॒धाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -162,36 +162,36 @@ popular
 **तम्** एव **सुमेधां** शोभनप्रज्ञं च करोमि॥५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I verily of myself declare this which is approved of by both gods and men; whomsoever I will, I render”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just I myself say this, savored by gods and men:  
 “Whom I love, just him I make formidable, him a formulator, him a seer,  him of good wisdom.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I, verily, myself announce and utter the word that Gods and men alike shall welcome.  
      I make the man I love exceeding mighty, make him a sage, a Rsi, and a Brahman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich selbst verkünde dieses, was von Göttern und Menschen gut aufgenommen wird. Wen ich liebe, immer nur den mache ich zu einem Gewaltigen, ihn zu einem Hohenpriester, ihn zu einem Rishi, ihn zu einem Weisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich bin es, die ich selber das verkünde, was angenehm bei Göttern ist und Menschen; Wem hold ich bin, den mach' ich auch gewaltig, zum Priester ihn, zum Dichter und zum Weisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я ведь сама глаголю то,  
 (Что) радует богов и людей.  

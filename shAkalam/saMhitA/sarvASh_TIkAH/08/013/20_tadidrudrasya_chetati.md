@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इ꣡द् रुद्र꣡स्य चेतति  
 यह्व꣡म् प्रत्ने꣡षु धा꣡मसु  
 म꣡नो य꣡त्रा वि꣡ त꣡द् दधु꣡र् वि꣡चेतसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 मनः॑ । यत्र॑ । वि । तत् । द॒धुः । विऽचे॑तसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -99,20 +99,20 @@ genre M;; line affected by realignment
 तदित् तदेव **रुद्रस्य** । रुत् दुःखम् । तस्य द्रावयितुरीश्वरस्य **यह्वम्** अपत्यं मरुत्संघात्मकम् । यद्वा । रुद्रशब्देन लक्षणया मरुद्गण उच्यते । रुद्रस्य रुद्रपुत्रस्य मरुद्गणस्य यह्वम् । महन्नामैतत् । महत् तदेव बलं **प्रत्नेषु** चिरंतनेषु **धामसु** पृथिव्यादिस्थानेषु **चेतति** ज्ञायते वर्तते । **यत्र** यस्मिन् बलविषये **विचेतसः** विशिष्टज्ञानाः स्तोतारः **तत्** प्रसिद्धं **मनः** मननसाधनं स्तोत्रं **वि** **दधुः** कुर्वन्ति तदित्यन्वयः ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The progeny of **Rudra** (the **Maruts**) is known in ancient plural ces, and to them the intelligent worshippersoffer adoration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He perceives just that youthful (troop) of Rudra [=Maruts] in the  ancient domains,  
 where the discerning ones [=Maruts?] have distributed that thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is quite opaque and its grammar can be construed in a number of different ways, giving the lie to Geldner’s breezy “Die Konstruktion ist klar.” See Oldenberg’s rather more despairing assessment (“Es ergeben sich mannigfache Möglichkeiten, zwischen denen sichere Entscheidung ausgeschlossen…”).
 
@@ -127,23 +127,23 @@ Then what are the “ancient domains”? On the basis of IX.52.2 pratnébhir ád
 What the whole verse means and what function it fills in the hymn are not clear to me. If my interpretation of the various parts is correct (and I have no confidence that it is), the successful human praiser of vs. 19 perceives his divine model, the Maruts, whose praise inspired Indra in the Vṛtra battle, at his sacrifice, where they have placed the thought or mental power that he should himself follow.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That mind of Rudra, fresh and strong, moves conscious in the ancient ways,  
      With reference whereto the wise have ordered this.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese jüngste Schöpfung des Rudra zeichnet sich vor seinen früheren Schöpfungen aus, auf welche die Weitdenkenden dieses ihr Sinnen gerichtet haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies rasche Werk des prächtigen zeigt an den alten Stätten sich, Und darauf richten ihren Geist die Weisen hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это юное (создание) Рудры  
 Выделяется из (его) прежних созданий,  

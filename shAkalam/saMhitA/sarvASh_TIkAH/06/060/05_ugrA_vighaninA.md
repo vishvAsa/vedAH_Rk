@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उग्रा꣡ विघनि꣡ना मृ꣡ध  
 इन्द्रअग्नी꣡ हवामहे  
 ता꣡ नो मॄळात+ ईदृ꣡शे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; repeated line
 ता । नः॒ । मृ॒ळा॒तः॒ । ई॒दृशे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ugrā* ← *ugra*
 - \[noun\], accusative, dual, masculine
@@ -84,20 +84,20 @@ genre M;; repeated line
 **उग्रा** उग्रौ उद्गूर्णबलावत एव **मृधः** शत्रून् **विघनिना** विघनिनौ विशेषेण हतवन्तौ **इन्द्राग्नी** **हवामहे** आह्वयामहे । तौ चेन्द्राग्नी **ईदृशे** अस्मिन् संग्रामे **नः** अस्मान् **मृळातः** सुखयताम् । यद्वा । मृळतिरुपदयाकर्मा । नोऽस्माकं मृळातः उपदयां कुरुताम् ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke the fierce **Indra** and **Agni**, the slayers of enemies; may they give us success in similar warfare.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two strong ones who hew apart the negligent, Indra and Agni, do  we call upon.  
 They will be gracious to such as us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -107,23 +107,23 @@ Note the phonological (and partly etymological) figure mardh(ataḥ) (4c), mṛ�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Strong, the scatterers of the foe, Indra and Agni, we invoke;  
      May they be kind to one like me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni, die Gewaltigen, welche die Verächter zersprengen, rufen wir; die mögen unsereinem barmherzig sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die starken, Feind erschlagenden, Indra und Agni rufen wir, Hold sei'n sie solchem Mann wie wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Двоих грозных, рассеивающих врагов,  
 Индру-Агни мы призываем.  

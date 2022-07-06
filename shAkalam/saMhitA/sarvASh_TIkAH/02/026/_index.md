@@ -8,7 +8,7 @@ title = "+026"
 ' ऋजुः ' इति चतुर्ऋचं चतुर्थं सूक्तं गृत्समदस्यार्षं जागतं ब्राह्मणस्पत्यम् । तथा चानुक्रान्तम्- ' ऋजुश्चतुष्कम् ' इति । गतो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 26 (217)  
 Brahmaṇaspati  
@@ -18,7 +18,7 @@ The subject of this hymn is very similar to that of the preceding (II.25)—the 
 Unlike II.25, where the importance of ritual activity is established in the first  half-verse but not mentioned again, this hymn constantly emphasizes the power  that the performance of the sacrifice gives to the sacrificer, in contrast to the impi ous man, who is weaker by nature, even if he is a good warrior.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Brahmaṇaspati
 </details>

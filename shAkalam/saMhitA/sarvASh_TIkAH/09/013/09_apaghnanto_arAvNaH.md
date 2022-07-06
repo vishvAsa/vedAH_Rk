@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपघ्न꣡न्तो अ꣡रावणः  
 प꣡वमानाः सुवर्दृ꣡शः  
 यो꣡नाव् ऋत꣡स्य सीदत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 योनौ॑ । ऋ॒तस्य॑ । सी॒द॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apaghnanto* ← *apaghnantaḥ* ← *apahan* ← *√han*
 - \[verb noun\], nominative, plural
@@ -74,7 +74,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमानाः** **अराव्णः** अदानानयजमानान् **अपघ्न्तः** हिंसन्तः **स्वर्दृशः** सर्वत्र द्रष्टारश्च यूयम् **ऋतस्य** **योनौ** यज्ञस्य स्थाने **सीदत** । अथवा । सोमपानार्थमुक्तलक्षणा देवा ऋतस्य योनौ सीदतेति योज्यम् ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,12 +85,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Pure libations: or, this verse may be addressed to the gods who are invited to partake of the offering
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Striking away the non-givers, purifying yourselves, looking like the sun, sit on the womb of truth.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/013/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -98,23 +98,23 @@ The impv. ápa … jahi of 8c is converted into the part. apaghnántaḥ in 9a. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavamamas, driving off the godless, looking on the light,  
      Sit in the place of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Mißgünstigen verjagend setzet auch, ihr Pavamanas mit dem Sonnenauge, in die Wiege des rechten Brauches!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fortschlagend die, die gottlos sind, ihr sonnengleichen, rieselnden, Im Schooss des Rechtes setzet euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разбивая недображелателей,  
 О Павамана, видящие солнце,  

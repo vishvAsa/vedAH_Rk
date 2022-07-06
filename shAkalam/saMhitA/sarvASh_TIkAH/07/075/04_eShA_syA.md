@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एषा꣡ सिया꣡ · युजाना꣡ पराका꣡त्  
 प꣡ञ्च क्षितीः꣡ प꣡रि सद्यो꣡ जिगाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवो꣡ दुहिता꣡ भु꣡वनस्य प꣡त्नी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒भि॒ऽपश्य॑न्ती । व॒युना॑ । जना॑नाम् । दि॒वः । दु॒हि॒ता । भुव॑नस्य । पत्नी॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
@@ -110,20 +110,20 @@ genre M
 **एषा** **स्या** सोषाः **पराकात्** दूरदेशाद्दूरे स्थितापि **युजाना** उद्योगं कुर्वाणा प्रकाशाय **पञ्च** **क्षितीः** निषादपञ्चमाश्चत्वारो वर्णास्तान् **सद्यः** **परि** **जिगाति** परिगच्छति। किं कुर्वती। **जनानां** प्राणिनां **वयुना** प्रज्ञानानि **अभिपश्यन्ती** साक्षित्वेनावलोकयन्ती । कीदृशी सा। **दिवो** **दुहिता** दुहितृस्थानीया **भुवनस्य** भूतजातस्य **पत्नी** पालयित्री । परि जिगातीत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Exerting herself, she approaches rapidly from afar (to give light) to the five classes of men, witnessingthe thoughts of men, the daughter of heaven, the benefactress of living beings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is the very one who, hitching herself up out of the distance, circles  around the five settlements in a single day,  
 looking upon the patterns of the peoples—the Daughter of Heaven,  mistress of the world.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The initial eṣā́syā́“this very one” (fem.) matches eté tyé “these very ones” (masc.) opening the previous vs., referring to her beams.
 
@@ -132,23 +132,23 @@ As Oldenberg points out, pāda a lacks a syllable (even reading, as expected, s 
 The pāda-final pres. jigāti picks up the aor. forms to the same root, also pādafinal, ā́gāt (1b), ā́guḥ (3b), but it also plays against the likewise redupl. ajīgaḥ at the end of 1d, belonging to the separate root √gṛ ‘awaken’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She yokes her chariot far away, and swiftly visits the lands where the Five Tribes are settled,  
      Looking upon the works and ways of mortals, Daughter of Heaven, the world's Imperial Lady.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort hat sie zur Fahrt aus der Ferne angespannt; sie umkreist am gleichen Tage die fünf Länder, die Wege der Menschen beschauend, des Himmels Tochter, die Herrin der Welt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wagen schirrend fährt sie aus der Ferne in einem Tage durch die fünf Geschlechter; der Menschen Werke fort und fort beschauend, des Himmels Tochter und der Welt Gebietrin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Та, что запрягла (коней) вдалеке,  
 Обьезжает пять (людских) поселений за один день,  

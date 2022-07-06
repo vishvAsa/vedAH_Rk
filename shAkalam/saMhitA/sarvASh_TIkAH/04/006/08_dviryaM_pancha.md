@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्वि꣡र् य꣡म् प꣡ञ्च जी꣡जनन् संव꣡सानाः  
 स्व꣡सारो अग्नि꣡म् मा꣡नुषीषु विक्षु꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शुक्रं꣡ सुआ꣡सम् परशुं꣡ न꣡ तिग्म꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒षः॒ऽबुध॑म् । अ॒थ॒र्यः॑ । न । दन्त॑म् । शु॒क्रम् । सु॒ऽआस॑म् । प॒र॒शुम् । न । ति॒ग्मम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dvir* ← *dvis*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 **मानुषीषु** मनोः संबन्धिनीषु **विक्षु** प्रजासु **संवसानाः** संगच्छमानाः **द्विः** **पञ्च** दश **स्वसारः** अङ्गुलयः **यम्** **अग्निं** **जीजनन्** मथनेन उदपादयन् ॥  ‘ जनी प्रादुर्भावे'। लुङि छान्दसत्वादडभावः ॥ कीदृश्य अङ्गुलयः । **अथर्यो** **न** स्त्रिय इव । कीदृशमग्निम् । **उषर्बुधम्** उषसि बुध्यमानं **दन्तम्** अदन्तं हविषां भक्षकं **शुक्रं** रश्मिभिर्दीप्यमानं **स्वासं** शोभनास्यं **तिग्मं** तीक्ष्णं **परशुं** **न** परशुमिव रक्षसां हन्तारमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,34 +126,34 @@ genre M
 Twice five sisters: the fingers employed in producing fire by attrition
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, whom the twice five sisters dwelling together [/similarly clad]  [=fingers] have begotten among the clans stemming from Manu—  
 awakening at dawn, gleaming like the tooth of one enveloped in flame,  with a good mouth, sharp like an axe.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Agni, whom the twice-five sisters, dwelling together, in the homes of men engendered,  
      Bright like a spear's tooth, wakened in the morning, with powerful mouth and like an axe well-sharpened.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, whom the twice-five sisters 1, dwelling together, have engendered among the human tribes, who awakes at dawn, who is bright like an elephant's (?) 2 tooth, whose mouth is beautiful, who is sharp like an axe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den die zweimal fünf beisammen wohnenden Schwestern erzeugt haben unter den menschlichen Stämmen, den frühwachen Agni, gleich dem Zahn des Pfeils, hell, mit schönem Munde, scharf wie eine Axt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den zweimal fünf im Haus vereinte Schwestern erzeugten, Agni, in der Menschen Häusern, Den früh erwachten, hellen, schön von Antlitz, den Flammenzahn, der scharf ist, gleich dem Beile.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого породили дважды пять живущих вместе  
 Сестер, Агни, просыпающегося на заре  

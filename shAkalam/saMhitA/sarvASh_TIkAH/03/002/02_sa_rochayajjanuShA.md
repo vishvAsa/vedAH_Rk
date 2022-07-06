@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ रोचयज् जनु꣡षा रो꣡दसी उभे꣡  
 स꣡ मातरो꣡र् अभवत् पुत्र꣡ ई꣡डियः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दूळ꣡भो विशा꣡म् अ꣡तिथिर् विभा꣡वसुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ह॒व्य॒ऽवाट् । अ॒ग्निः । अ॒जरः॑ । चनः॑ऽहितः । दुः॒ऽदभः॑ । वि॒शाम् । अति॑थिः । वि॒भाऽव॑सुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -122,42 +122,42 @@ genre M
 सोग्निर्जनुषा जन्मनाउभेरोदसी द्यावापृथिव्यौ रोचयत् अरोचयत् प्रकाशयति समात्रोर्द्या वापृथिव्योः ईड्यः स्तुत्यः पुत्रोभवत् हव्यवाट् हव्यानां वोढा अग्निः अङ्गनादिगुणयुक्तः अजरः जरारहितः चनोहितः चनोन्नंहितंयजमानेनिहितंयेनासौचनोहितः दूळभः हिंसितुम शक्यः सोयंविभावसुः प्रभाधनः विशाम्मनुष्याणां अतिथिरिवपूज्योभवति ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By his birth he lighted up both heaven and earth; he was the praiseworthy son of his parents; the undecaying **Agni**, the bearer of oblations, the giver of food, the guest of men, the affluent in radiance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He made both world-halves shine through his birth. He became the son  to be invoked by his two parents [=Heaven and Earth?].  
 Agni is the conveyor of oblations, unaging and placed for delight,  
 difficult to deceive, the guest of the clans, rich in radiance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He made the heaven and earth resplendent by his birth: Child of two Mothers he was meet to be implored,  
      Agni, oblation-bearer, gracious, ever-young, infallible, rich in radiant light, the guest of men.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 By his birth he has given splendour to both worlds (Heaven and Earth). He became the praiseworthy son of his parents, Agni, the carrier of oblations, never ageing, with satisfied mind, undeceivable, the guest of men, rich in light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er erleuchtete gleich bei seiner Geburt beide Welten; der Sohn ward von beiden Müttern zu berufen. Agni ist der Opferfahrer, nicht alternd, beliebt, der schwer zu hintergehende Gast der Clane, der Glanzreiche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach seiner Art durchleuchtet beide Welten er, er war der beiden Aeltern preisenswerther Sohn, Der Opferfahrer, ewig jung und holdgestimmt, der Menschen Gast, untrüglich und an Strahlen reich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он осветил при рождении оба мира:  
 Этот сын был достойным призывов обоих родителей.  

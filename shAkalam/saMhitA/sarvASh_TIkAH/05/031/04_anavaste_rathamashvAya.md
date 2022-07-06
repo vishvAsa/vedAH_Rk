@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नवस् ते र꣡थम् अ꣡श्वाय तक्षन्  
 त्व꣡ष्टा व꣡ज्रम् पुरुहूत द्युम꣡न्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वर्धयन्न् अ꣡हये ह꣡न्तवा꣡ उ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ब्र॒ह्माणः॑ । इन्द्र॑म् । म॒हय॑न्तः । अ॒र्कैः । अव॑र्धयन् । अह॑ये । हन्त॒वै । ऊं॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anavas* ← *anavaḥ* ← *anu*
 - \[noun\], nominative, plural, masculine
@@ -115,7 +115,7 @@ genre M
 हे **पुरुहूत** बहुभिः आहूतेन्द्र **ते** त्वदीयं **रथम्** **अश्वाय** अश्वाभ्यां संयोगार्हम् **अनवः** । अनवो मनुष्याः । ऋभवः **तक्षन्** अतक्षन् अकुर्वन् । **त्वष्टा** च त्वदीयं **वज्रं** **द्युमन्तं** दीप्तिमन्तम् अकरोत् । **उ** अपि च **महयन्तः** **इन्द्रं** पूजयन्तः **ब्रह्माणः** अङ्गिरसः परिवृढा मरुतो वा **अहये** अहिं वृत्रं **हन्तवै** हन्तुम् **अर्कैः** स्तोत्रैः **अवर्धयन्** वर्धितवन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,13 +126,13 @@ genre M
 The Ṛbhus: **anavaḥ** is the text, explained **manuṣyaḥ** and applied to **ṛbhavaḥ**; the venerable aṅgirasas: brāhmaṇāḥ, **brāhmaṇas** is the text, explained as **aṅgirasaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Anu people fashioned a chariot for your horse; Tvaṣṭar (fashioned)  the brilliant mace, o much invoked one.  
 The formulators, magnifying Indra with their chants, strengthened him  to smash the serpent.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The major problem in this vs. is the identity and syntactic affiliation of the gen. pl. eṣām. The standard opinion, found in Geldner, Scarlatta (100), and Witzel Gotō, takes it as referring to the gods and construed with svadháyā. There are several arguments against this. First, the gods are never mentioned or even alluded to elsewhere in the hymn (though goddess(es) are found in 9c and 10a). Second, though svadháyā √mad is a remarkably common locution (I.64.4, 108.12, 154.4; III.4.7=7.8; VII.47.3; X.14.3, 7, 15.4, 124.8), svadháyā never has a dependent gen. in those passages. The standard opinion is also hard-pressed to make sense out of the phrase. Geldner takes svadhā́- here as ‘Lebenselement’ and further glosses this as water, but even if “reveling in the Lebenselement/water of the gods” were a possible tr. of this phrase, it is a notion that seems foreign to the Vṛtra myth. Scarlatta and Witzel Gotō have a more reasonable interpr. -- that Vṛtra is reveling in what actually belongs by nature to the gods, that is, as Witzel Gotō say in their n., “Der Dämon usurpiert die Natur der Götter.” But this still requires conjuring up the gods out of thin air and assuming that the audience could do so too, on the basis of an unemphatic, unaccented gen. pl. pronoun. And again the image produced is not a standard part of the Vṛtra myth.
 
@@ -145,23 +145,23 @@ With svadháyā freed from its supposed genitive dependent, the phrase svadháy�
 The last word of this vs. is śúṣṇam. Generally, of course, this is the name of a different opponent of Indra’s, and a number of tr. take it so here. But I think it has its etymological sense ‘snorter’ (√śvas ‘snort’; cf. EWA s.v.). Our poet is once again toying with us: withholding the real name of the opponent in this hymn, Vṛtra, he is falsely offering a different possibility here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Anus have wrought a chariot for thy Courser, and Tvastar, Much-invoked! thy bolt that glitters.  
      The Brahmans with their songs exalting Indra increased his strength that he might slaughter Ahi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Anu´s zimmerten dir für das Roß den Wagen; Tvastri die glänzende Keule, du Vielgerufener. Die erbaulich Redenden feierten Indra mit Lobgesängen; sie bestärkten ihn, den Drachen zu erlegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vielgerufner, Die Priester durch Gesänge ihn erfreuend verliehn ihm Kraft, die Schlange zu erschlagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ану смастерили тебе колесницу для коня,  
 Тваштар – сверкающую ваджру, о многопризываемый.  

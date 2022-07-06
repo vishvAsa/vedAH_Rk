@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गो꣡मद् अ꣡श्वावद् र꣡थवत् सुवी꣡रं  
 चन्द्र꣡वद् रा꣡धो मरुतो ददा नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भक्षीय꣡ वो अ꣡वसो दइ꣡वियस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्रऽश॑स्तिम् । नः॒ । कृ॒णु॒त॒ । रु॒द्रि॒या॒सः॒ । भ॒क्षी॒य । वः॒ । अव॑सः । दैव्य॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gomad* ← *gomat*
 - \[noun\], accusative, singular, neuter
@@ -123,43 +123,43 @@ genre M
 हे **मरुतः** **नः** अस्मभ्यं **गोमत्** बहुभिर्गोंभिरुपेतम् **अश्वावत्** बहुभिरश्वैरुपेतं **रथवत्** रथोपेतं **सुवीरं** सुष्ठु पुत्रोपेतं **चन्द्रवत्** हिरण्योपेतं **राधः** अन्नं **दद** ददत ॥ व्यत्ययेन एकवचनम् । अथवा लोडर्थस्य लिटो मध्यमबहुवचनम् ॥ हे **रुद्रियासः** रुद्रपुत्रा मरुतः **नः** अस्मदीयां **प्रशस्तिम्** । समृद्धिमित्यर्थः । तां **कृणुत** कुरुत । **वः** युष्माकं स्वभूतम् **अवसः** अवः रक्षणं **दैव्यस्य** दैव्यं देवार्हं **भक्षीय** भजेय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, bestow upon us affluence, comprehending cattle, horses, cars, treasure, and **male** descendants; sons of **Rudra**, grant us distinction; may I ever enjoy your divine protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rich in cows, in horses, in chariots, in good heroes, in gold—(such)  largesse you have given to us, Maruts.  
 Make good our eulogy, Rudras. Might I have a share in your divine help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sentiment in pāda c is somewhat puzzling, though the grammar is straightforward: práśastim naḥ kṛṇuta rudriyāsaḥ. This should mean “make a eulogy for us, o Rudras,” with the VP práśastim √kṛ. Though the three other occurrences of this VP, in I.113.19, 181.1, and II.41.16, do conform to expectations, taking it that way here would reverse the sacrificial bargain. As detailed in the first hemistich, the Maruts have given us bountiful riches of all sorts; in return we should be producing a práśasti- for them -- not they for us. In fact, of course, it is never the gods’ job to produce praise for humans. In order to make sense of the phrase, I have pushed the sense of √kṛ from ‘make’ to ‘make good’ -- that is, act such that the praise we are giving you is true. (You have given us many things; do it again.) Renou’s “faites nous (aujourd’hui une récompense digne du) panégyrique” is similar, despite the overstuffed parenthesis. There is another, less likely, alternative. As I have argued elsewhere (RV between Two Worlds, pp. 146-48), even in the RV the práśasti- was probably a genre of praise appropriate to kings and only secondarily applied to gods.
 
 It might be that the poet is asking the Maruts to render his patron and king deserving of his [=poet’s] práśasti-, either by redistributing the wealth that they showered on the king or by the king’s performing some worthy feat. But this seems overly complex and far less likely, and since práśasti-s in the RV are often directed at gods, it is unnecessary.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vouchsafe to us, O Maruts, splendid bounty in cattle and in steeds, in cars and heroes.  
      Children of Rudra, give us high distinction: may I enjoy your Godlike help and favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Marut habt uns die Belohnung von Rind, Roß, Wagen, guten Söhnen, Gold gegeben. Schaffet uns Anerkennung, ihr Rudrasöhne! Ich möchte eurer göttlichen Gnade teilhaft werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verleiht, o Maruts, glänzendes Geschenk uns an Rindern, Rossen, Wagen, tapfern Helden; O Rudrasöhne, schafft uns hohen Reichthum; ich mög' erlangen eure Götterhülfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Богатство из коней, из коров, из колесниц, из прекрасных героев,  
 Из золота, о Маруты, вы (нам) дали.  

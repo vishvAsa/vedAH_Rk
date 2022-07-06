@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जगृभ्मा꣡ ते द꣡क्षिणम् इन्द्र ह꣡स्तं  
 वसूय꣡वो वसुपते व꣡सूनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं चित्रं꣡ वृ꣡षणं रयिं꣡ दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि॒द्म । हि । त्वा॒ । गोऽप॑तिम् । शू॒र॒ । गोना॑म् । अ॒स्मभ्य॑म् । चि॒त्रम् । वृष॑णम् । र॒यिम् । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jagṛbhmā* ← *jagṛbhma* ← *grah*
 - \[verb\], plural, Perfect indicative
@@ -136,7 +136,7 @@ genre M
 **वसूनां** **वसुपते** बहूनां धनानां स्वामिन् हे **इन्द्र** **ते** तव **दक्षिणं** **हस्तं** **वसूयवः** वसुकामा वयं **जगृभ्म** गृह्णीमः । यथा बहुप्रदस्यार्थिनो मह्यमदत्त्वा न गन्तव्यमिति हस्तं गृह्णन्ति तद्वत् । हे **शूर** विक्रान्तेन्द्र **त्वा** त्वां **गोनां** **गोपतिम्** । अत्र वृत्त्यवृत्तिभ्यां स्वामित्वं बहुत्वं च प्रतिपाद्यते । बह्वीनां गवां गोपतिं **विद्म** जानीमः । अतः **अस्मभ्यं** **चित्रं** चायनीयं **वृषणं** वर्षकं **रयिं** धनं **दाः** देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ genre M
 **Vaikuṇṭha**: the legend: **Vikuṇṭha** was a feminine le **asura**,who, desiring to have a son like Indra, performed penance (the **kṛcchra** and cādrāyaṇa etc.) for the purpose.Indra, wishing that there should not be another like himself, took upon him the state of the embryo of Vikuṇṭha,and was born as her son; give uṣ..riches: this refrain occurs in each ṛca: citram is variously explained as :desirable, honourable; vṛṣaṇam as fertilizing or a son
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have grasped your right hand, Indra, seeking goods, you goods-lord  of goods,  
 for we know you as cow-lord of cows, o champion. – To us give bright,  bullish wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THY right hand have we grasped in ours, O Indra, longing for treasure, Treasure-Lord of treasures!  
      Because we know thee, Hero, Lord of cattle: vouchsafe us mighty and resplendent riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben deine rechte Hand erfaßt, Indra, nach Gut begehrend, du Herr der Güter, denn wir kennen dich als Herrn der Rinder, o Tapferer. - Gib uns den ansehnlichen bullenhaften Schatz;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir haben deine rechte Hand ergriffen, nach Schätzen lüstern, Indra, Herr der Schätze. Wir kennen dich, o Held, als Herrn der Heerden; drum gib uns Reichthum, mannichfachen, starken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы схватили твою правую руку, о Индра,  
 Стремясь к благам, о господин благ.  

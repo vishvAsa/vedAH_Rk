@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नः सत्य꣡स्य प꣡तयो भवन्तु  
 शं꣡ नो अ꣡र्वन्तः श꣡म् उ सन्तु गा꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नो भवन्तु पित꣡रो ह꣡वेषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 शम् । नः॒ । ऋ॒भवः॑ । सु॒ऽकृतः॑ । सु॒ऽहस्ताः॑ । शम् । नः॒ । भ॒व॒न्तु॒ । पि॒तरः॑ । हवे॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
@@ -148,36 +148,36 @@ genre D
 **सत्यस्य** **पतयः** पालकाः सत्यशीला देवाः **नः** अस्माकं **शं** शान्त्यै **भवन्तु**। **अर्वन्तः** अश्वाश्च **नः** अस्माकं **शं** शान्त्यै भवन्तु । **गावः** अपि नः **शं** शान्त्यै भवन्तु । **सुकृतः** सुकर्माणः **सुहस्ताः** शोभनहस्ताः **ऋभवः** अपि **नः** अस्माकं **शं** शान्त्यै सन्तु। **हवेषु** स्तोत्रेषु सत्सु **पितरः** अपि **नः** अस्माकं **शं** शान्त्यै **भवन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the lords of truth be (propitious to) our happiness; may horses, may cattle, (contribute to) ourhappiness; may the virtuous, the dexterous **Ṛbhus**, be to us (for) felicity; may the progenitors be (promoters of)our happiness at the seasons of worship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Luck for us be the masters of the real; luck for us the steeds, and luck  be the cows.  
 Luck for us the R̥bhus of good action and good hands; luck for us be  the Fathers at the invocations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the great Lords of Truth protect and aid us: blest to us be our horses and our cattle.  
      Kind be the pious skilful-handed Rbhus, kind be the Fathers at our invocations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück sollen uns die Herren der Wahrheit sein, zum Glück sollen uns die Rennpferde und zum Glück die Rinder sein; zum Glück die Ribhu´s, die gute Werke mit guter Hand verrichten, zum Glück sollen uns die Väter bei den Anrufungen sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heile seien uns die Herrn der Wahrheit, zum Heile uns die Rosse und die Rinder, Zum Heil die Ribhu's, die geschickten Künstler, zum Heil die Ahnen uns bei den Gebeten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье нам пусть будут Повелители истины!  
 На счастье нам скакуны, и на счастье пусть будут коровы!  

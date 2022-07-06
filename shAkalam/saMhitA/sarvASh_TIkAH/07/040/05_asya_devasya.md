@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ देव꣡स्य मीळ्हु꣡षो वया꣡  
 वि꣡ष्णोर् एष꣡स्य प्रभृथे꣡ हवि꣡र्भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यासिष्टं꣡ वर्ति꣡र् अश्विनाव् इ꣡रावत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि॒दे । हि । रु॒द्रः । रु॒द्रिय॑म् । म॒हि॒ऽत्वम् । या॒सि॒ष्टम् । व॒र्तिः । अ॒श्वि॒नौ॒ । इरा॑ऽवत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -109,7 +109,7 @@ genre M
 **प्रभृथे** **हविर्भिः** हवीरूपैरन्नैः **एषस्य** प्रापणीयस्य **मीळ्हुषः** कामानां सेक्तुः **विष्णोः** सर्वदेवात्मकस्य **अस्य** **देवस्य** । विष्णुः सर्वा देवताः' (ऐ. ब्रा. १. १) इति श्रुतेः । अन्ये देवाः **वयाः** शाखा इव भवन्ति । **रुद्रः** देवः **रुद्रियं** रुद्रसंबन्धि सुखं **महित्वं** महत्त्वं च **विदे** **हि** अस्मान् प्रापयति खलु । अपि च हे **अश्विनौ** देवौ युवाम् **इरावत्** हविर्लक्षणान्नयुक्तं **वर्तिः** अस्मदीयं गृहं **यासिष्टम्** अयासिष्टमागच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,34 +120,34 @@ genre M
 Ramifications: **vayāḥ**, branches; all other deities, as it were, branches of Viṣṇu: anye devāhśākhā iva **bhavanti**; citing a text: viṣṇu is all divinities, **viṣṇuḥ** **sarā** **devatā** iti śruteḥ: viṣnuḥ sarvādevatāḥ (**Aitareya** **Brāhmaṇa** 1.1)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There is propitiation for this god who grants rewards [=Rudra], at the  ritual offering to quick Viṣṇu, with oblations,  
 for Rudra knows his own Rudrian might. Aśvins, drive your circuit of  refreshment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Flg. Oldenberg, I emend vayā́to ‘vayā́(=avayā́) ‘propitiation’, which only requires the insertion of an avagraha but no emendation. Geldner and Renou also accept this suggestion. The word should have been marked with an asterisk in the published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With offerings I propitiate the branches of this swift-moving God, the bounteous Visnu.  
      Hence Rudra gained his Rudra-strength: O Asvins, ye sought the house that hath celestial viands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eine Abbitte für diesen Lohnherren, den Gott, geschieht mit Opferspenden bei der Darbringung für den raschen Vishnu, denn Rudra ist sich seiner rudrischen Größe bewußt. Fahret, ihr Asvin, eure erquickende Rundfahrt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dieses gnäd'gen Gottes Vischnu Speisung, des schnellen, kommen wir mit Opfergüssen; Es kennt ja Rudra seine Rudra-Grösse; mit Labung kommt, o Ritter, her zur Stätte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Искупительная жертва для этого щедрого бога, Вишну спешащего,  
 (Совершается) во время жертвоприношения с помощью возлияний.  

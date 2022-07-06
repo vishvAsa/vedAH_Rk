@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि त्रिधा꣡तुर् अध्वरं꣡  
 जूर्णि꣡र् एति न꣡वीयसी  
 म꣡ध्वा हो꣡तारो अञ्जते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मध्वा॑ । होता॑रः । अ॒ञ्ज॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयमग्निः **त्रिधातुः** लोहितशुक्लकृष्णभेदेन त्रिवर्णः **जूर्णिः** जवो वेगवान् **नवीयसी** नवीयस्या ज्वालया **अध्वरं** प्रवर्ग्यम् **एति** गच्छति । **होतारः** होमनिष्पादका अध्वर्य्वादयः **मध्वा** आज्यादिना **परि** **अञ्जते** । अथवाग्नेस्त्रिस्त्रिप्रकारा क्षिप्रा जवतरा ज्वाला पर्येति महावीरम् । तं मध्वाञ्जत इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,28 +91,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Three-hued: red, white and black; or, tridhātu = three elements
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A newer firebrand goes around the ceremonial course three times. With honey the Hotars perform the anointing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three times the newIy-kindled flame proceeds around the sacrifice:  
      The priests anoint it with the meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreimal umwandelt die neueste Glut das Opfer, die Opferpriester salben sie mit Süßigkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die dreigetheilte Glut umgibt, die Opferfeier neu entflammt; Die Priester salben sie mit Meth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды обходит вокруг жертвы  
 Самый новый жар (Агни).  

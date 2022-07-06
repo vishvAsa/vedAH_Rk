@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् भद्रं꣡ त꣡व दंस꣡ना  
 पा꣡काय चिच् छदयति  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 स꣡मिद्धम् अपिशर्वरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वाम् । यत् । अ॒ग्ने॒ । प॒शवः॑ । स॒म्ऽआस॑ते । सम्ऽइ॑द्धम् । अ॒पि॒ऽश॒र्व॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -102,7 +102,7 @@ genre M
 हे अग्ने तव सम्बन्धि तदिदं भद्रं शोभनं दंसनाग्निहोत्रादिकं कर्म पाकाय चित् । चिच्छब्दोऽप्यर्थे । पाकायेति कर्मणि चतुर्थी । पाकोऽर्भकः । तद्वदज्ञमपि यजमानं छदयति । स्वफलप्रदानेन पूजयति । पशुपुत्रादिभिः परिवृतं करोतीत्यर्थः । छदयतिशब्दोऽर्चतिकर्मा छन्दयति छदयतीति तन्नामसु पाठात् । यद्वा । पाकशब्दः प्रशस्यं वक्ति पाको वाम इति प्रशस्यनामसु पठितत्वात् । तद्भद्रं प्रशस्यं यजमानमभिमतफलप्रदादेन पूजयतीत्यर्थः । यद्यस्मात्कारणादपिशर्वरे शर्वरीमुखेऽग्निविहरणकाल एव समिद्धं दीप्यमानं त्वां पशवो द्विपदाश्चतुष्पदाश्चोभये पशवः समासते । सम्यगासते । पर्युपासत इत्यर्थः । तदिदं पश्चादिलक्षणं फलं यजमानाय प्रयच्छतीत्यर्थः । भद्रम् । भदि कल्याण कित्यस्माद्धातोरुपरि रक्प्रत्ययेन निपातनादन्तोदात्तत्वम् । पाकाय पा रक्षण इत्यस्मादिण्भीकापाशलीत्यादिना कन् । पायते रक्ष्यते राजादिनेति पाकः । नित्त्वादाद्युदात्तः । छदयति । छद आपवरणे । स्वार्थे णिच् । अदन्तत्वाद्वृद्ध्यभावः । निघातः । समासते । आस उपवेशने । अदादित्वाच्छपो लुक् । अनकारान्तत्वाङ् झुस्यादेशः । यद्योगादनिघातः । तिङ् चोदात्तवतीति गतेर्निघातः धातुस्वरः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,35 +113,35 @@ genre M
 Animals: paśavaḥ; bipeds as well as quadrupeds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is auspicious—your wondrous skill appears good even to a  
 simple man—  
 that the herd sits together around you, o Agni, when you are kindled at  night’s boundary.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Amid thy wonders this is good, yea, to the simple is it clear,  
      When gathered round about thee, Agni, lie the herds where thou art kindled in the morn.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 This is something glorious; herein thy wonderful power shows itself even to the simple, that the cattle lie down round about thee when thou hast been kindled, O Agni, at the approach of darkness 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Wohltat von dir, deine Meisterkraft leuchtet selbst dem Einfältigen ein, wenn sich um dich, Agni, die Tiere versammeln, sobald du zu Beginn der Nacht entzündet wirst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schön ist es, deine Wunderkraft, sie leuchtet selbst dem Thoren ein, Wenn sich um dich, o Agni, sammelt Mensch und Vieh, wenn morgens du entzündet bist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это благо, твоя чудесная сила,  
 Поражает даже простодушного:  

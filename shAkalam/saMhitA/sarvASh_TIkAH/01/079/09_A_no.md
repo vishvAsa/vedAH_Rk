@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो अग्ने सुचेतु꣡ना  
 रयिं꣡ विश्वा꣡युपोषसम्  
 मार्डीकं꣡ धेहि जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 मा॒र्डी॒कम् । धे॒हि॒ । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -83,46 +83,46 @@ genre M
 हे **अग्ने** **नः** अस्माकं **जीवसे** जीवनाय **सुचेतुना** शोभनेन ज्ञानेन युक्तं **रयिं** धनम् **आ** **धेहि** आस्थापय । कीदृशम् । **मार्डीकम्** । मृडीकं सुखम् । तद्धेतुभूतम् । **विश्वायुपोषसं** सर्वस्मिन्नायुषि देहादेः पोषकम् । यावज्जीवमस्मदुपभोगपर्याप्तमित्यर्थः ॥ सुचेतुना । ‘ चिती संज्ञाने'। औणादिकः । उप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् । विश्वायुपोषसम् । विश्वमायुर्यस्मिन् शरीरादौ तद्विश्वायु। ‘बहुव्रीहौ विश्वं संज्ञायाम्' इति पूर्वपदान्तोदात्तत्वम् । तत्पुष्णातीति विश्वायुपोषाः । ‘गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च ' इति असुन् पूर्वपदप्रकृतिस्वरत्वं च । सकारलोपश्छान्दसः ‘ दीर्घायुत्वाय वर्चसे ' इति यथा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant us, **Agni**, for our livelihood, wealth, with sound understanding, conferring happiness, and sustaining (us) through life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Bring) here to us wealth affording lifelong prosperity with your kind  attention, o Agni.  
 Confer grace, (for us) to live.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I supply bhara from 8a; giving the matching verse openings, ā́no, and the same object ráyim, this seems the correct choice (so also Geldner, Renou, Witzel Gotō). It would also be possible to make ráyim here the object of dhehi (so Oldenberg [SBE]). There are no consequences either way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us, O Agni, through thy grace wealth that supporteth all our life,  
      Thy favour so that we may live.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bestow on us, Agni, through thy kindness 1 wealth which may last all our life 2, and have mercy 3 on us that we may live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns, Agni, durch dein Wohlwollen Reichtum, der lebenslang nährt. Schenk uns Gnade, auf daß wir leben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach deiner Huld, o Agni, gib uns Gut, das alles Leben schafft, Und Gnade schenk zum Leben uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(неси) нам, Агни, (по) доброй воле  
 Богатство, дающее процветание весь век!  

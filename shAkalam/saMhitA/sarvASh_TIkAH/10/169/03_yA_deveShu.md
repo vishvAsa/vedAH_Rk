@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ देवे꣡षु तनु꣡वम् अइ꣡रयन्त  
 या꣡सां सो꣡मो वि꣡श्वा रूपा꣡णि वे꣡द  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रजा꣡वतीर् इन्द्र गोष्ठे꣡ रिरीहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ताः । अ॒स्मभ्य॑म् । पय॑सा । पिन्व॑मानाः । प्र॒जाऽव॑तीः । इ॒न्द्र॒ । गो॒ऽस्थे । रि॒री॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -119,36 +119,36 @@ popular
 **याः** गावः **देवेषु** यष्टव्येषु **तन्वम्** आत्मीयं शरीरम् **ऐरयन्त** हवीरूपेण प्रेरयन्ति **यासां** च गवां **विश्वा** सर्वाणि **रूपाणि** रूप्यमाणानि क्षीरादीनि श्रयणद्रव्याणि **सोमः** **वेद** जानाति **अस्मभ्यम्** अस्मदर्थं **पयसा** क्षीरेण **पिन्वमानाः** वर्धमाना अत एव **प्रजावतीः** प्रजाभिर्वत्सैरुपेताः **ताः** गाः हे **इन्द्र** **गोष्ठे** अस्मदीये **रिरीहि** गमय ॥ ' री गतिरेषणयोः ' । छान्दसो विकरणस्य श्लुः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring, **Indra**, to the cow-house (the cows) who offer their bodies to the gods, those of whom Somaknows all the properties, those that nourish us with their milk, and those that have calves.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who raised their own body up among the gods (as oblation), of whom  Soma knows all the colors,  
 swelling with milk, rich in offspring, grant them to us in our stable, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those who have offered to the Gods their bodies, whose varied forms are all well known to Soma,-  
      Those grant us in our cattle-pen, O Indra, with their full streams of milk and plenteous offspring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sich selbst den Göttern zum Opfer darbrachten, deren Farben alle Soma kennt, von Milch strotzend, fruchtbar schenke sie uns, Indra, in unseren Kuhstall!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ihre Leiber zu den Göttern brachten und deren Farben alle Soma kennet, Die uns von Milchtrank strotzen, reich an Kälbern, die schenk, o Indra, uns in unsern Kuhstall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто себя предоставляет богам,  
 Чьи цвета все знает сома,  

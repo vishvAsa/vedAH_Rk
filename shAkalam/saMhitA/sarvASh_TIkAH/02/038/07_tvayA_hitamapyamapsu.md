@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡या हित꣡म् अ꣡पियम् अप्सु꣡ भागं꣡  
 ध꣡न्वा꣡नु आ꣡ मृगय꣡सो वि꣡ तस्थुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व्रता꣡ देव꣡स्य सवितु꣡र् मिनन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वना॑नि । विऽभ्यः॑ । नकिः॑ । अ॒स्य॒ । तानि॑ । व्र॒ता । दे॒वस्य॑ । स॒वि॒तुः । मि॒न॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -129,19 +129,19 @@ genre M
 हेसवित्स्त्वया अप्सुअन्तरिक्षे आपः पृथिवीतिअन्तरिक्षनामसुपाठात् जलाधारेवाहितं निहि तं अप्यमपांसम्बन्धिनम्भागन्धन्वानुनिर्ज्लप्रदेशेषुअरण्येषुमृगयसोम्रुगयमाणाः मृगाः आसमन्तात् वि वितस्थुरधितिष्ठन्ति किञ्च वनानिवृक्षाः विभ्यः पक्षिभ्यः आवासादिरूपेणत्वयाभागोदत्तः अस्य देवस्यसवितुः तानितादृशानि व्रताव्रतानि कर्माणिनकिर्मिनन्ति केपिनहिंसन्ति ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The animals search in dry plural ces for the water element which has been collected in the firmament by you; the woods are assigned (by you) to the birds; no one obstructs these functions of the divine **Savitā**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The watery (race) has been placed by you among the waters; the wild  beasts have been dispersed throughout the wastelands, as their share; the forests are for birds. No one violates these commandments of god  Savitar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my view, this vs. divides the world into habitats for fish (etc.), wild beasts, and birds. Not surprisingly the watery creatures are placed in water (pāda a). As head noun with ápyam I supply jánma from the summary pāda of this two-vs. sequence, 8d.
 
@@ -162,23 +162,23 @@ introduction, the vss. enumerates the separate spheres assigned to the various c
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The wild beasts spread through desert places seeking their watery share which thou hast set in waters.  
      The woods are given to the birds. These statutes of the God Savitar none disobeyeth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihren von dir bestimmten, im Wasser liegenden Anteil suchen die Fischer im Wasser; die Wildjäger zerstreuten sich über das trockene Land. Die Bäume sind für die Vögel: Nicht verfehlen sie diese seine Gebote, des Gottes Savitri.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ins Wasser setztest du des Wassers Erbtheil, und auf dem Festland rings vertheilt das Wild sich; Den Vögeln gabst den Wald du, nie verletzen sie dieses Gottes Savitar Gebote.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Водной судьбе, установленной тобою, (следуют рыбы) в водах,  
 Дикие звери распространились по сухим землям,  

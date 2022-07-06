@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡षां श्रिया꣡धि रो꣡दसी  
 विभ्रा꣡जन्ते र꣡थेषु आ꣡  
 दिवि꣡ रुक्म꣡ इवोप꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दि॒वि । रु॒क्मःऽइ॑व । उ॒परि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yeṣāṃ* ← *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
@@ -84,19 +84,19 @@ genre M
 **येषां** मरुतां **श्रिया** कान्त्या **रोदसी** द्यावापृथिव्यौ **अधि** अधिष्ठिते भवत इति शेषः । यस्मादेते मरुतः **रथेषु** **विभ्राजन्ते** विशेषेण दीप्यन्ते । **आ** इति चार्थे । तत्र दृष्टान्तः । **उपरि** उपरिभूते **दिवि** द्युलोके **रुक्मः** रोचमानः आदित्यः **इव** । यद्वा । उपरि रथस्योपरीति वा योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They by whose glory heaven and earth are surpassed; who shine splendid in their chariots like the radiant (sun) in the heaven above.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With whose splendor they flash through the two world-halves on their  chariots, like the bright ornament in heaven above.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has produced more consternation than it deserves, because of the reluctance of many interpr. to allow yéṣām to be coreferential with the subj. of vibhrā́jante. In these interpr., if the subj. of that verb is the Maruts, then another referent for yéṣām must be found; if yéṣām refers to the Maruts, then another subj. of the verb must be found. See Oldenberg’s lengthy disc., which includes the differing suggestions of numerous scholars (incl. also interpr. yéṣām as *yé eṣām) but doesn’t reach firm conclusions. Of modern interpr., Renou takes yéṣām as the Maruts and makes ródasī the subj. of the verb: “les Deux Mondes brillent au loin”; in a fractured sense this goes back to Max Müller’s tr. in SBE 32, but Müller emended the verb to
 
@@ -106,23 +106,23 @@ seems to be taking ródasī as dual, which will certainly not work grammatically
 The “bright ornament” of c is the sun: rukmá- is so used elsewhere in clearer context (VI.51.1, VII.63.4).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They by whose splendour both the worlds are over-spread they shine on cars  
      As the gold gleams above in heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die durch ihre Schönheit auf ihren Wagen Himmel und Erde überstrahlen wie der Goldschmuck oben am Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf ihren Wagen schön geschmückt durchstrahlen beide Welten sie, wie Sonnenglanz am Himmel hoch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Своею красотой на колесницах  
 Они ярко сверкают над двумя мирами,  

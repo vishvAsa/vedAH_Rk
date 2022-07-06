@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् इन्द्राभिभू꣡र् असि  
 तुवं꣡ सू꣡र्यम् अरोचयः  
 विश्व꣡कर्मा विश्व꣡देवो महाँ꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वि॒श्वऽक॑र्मा । वि॒श्वऽदे॑वः । म॒हान् । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -94,20 +94,20 @@ genre M
 हे **इन्द्र** **त्वम्** **अभिभूः** शत्रूणामभिभविता **असि** भवसि । किंच **त्वं** **सूर्यम्** आदित्यम् **अरोचयः** तेजोभिरदीपयः । किंच **विश्वकर्मा** विश्वस्य कर्ता **असि** **विश्वदेवः** सर्वदेवश्चासि । तथा च यजुर्ब्राह्मणम्- अग्निं वा अन्वन्या देवता इन्द्रमन्वन्याः ' (तै. ब्रा. ३. ७. १. ८) इति । अतो **महान्** सर्वाधिकोऽसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are the conqueror, **Indra**; you have lighted in the sun; you are the maker of all, the lord of all thegods, the mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, are the dominator; you caused the sun to shine.  
 Accomplishing all deeds, controlling all the gods, you are great.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/098/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -125,23 +125,23 @@ The bahuvrīhi epithet of Indra viśvákarmā (2c) is of course a play on the di
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, art the Conqueror: thou gavest splendour to the Sun.  
      Maker of all things, thou art Mighty and All-God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, bist der Überlegene, du ließest die Sonne erstrahlen; du bist der Allschöpfer, der Visvakarman, der Allgott. Du bist groß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du Indra bist voll hoher Macht, der Sonne hast du Licht verliehn, Allwirkend du, allgöttlicher; denn gross bist du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, Индра, превосходишь (всех).  
 Ты зажег солнце.  

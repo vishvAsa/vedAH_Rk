@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जज्ञानो꣡ ह꣡रितो वृ꣡षा  
 वि꣡श्वम् आ꣡ भाति रोचन꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ व꣡ज्रम् बाहुवो꣡र् ह꣡रिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 हरि॑ऽअश्वः । हरि॑तम् । ध॒त्ते॒ । आयु॑धम् । आ । वज्र॑म् । बा॒ह्वोः । हरि॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jajñāno* ← *jajñānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
@@ -106,40 +106,40 @@ genre M
 **वृषा** कामानां वर्षकः **हरितः** हरिद्वर्णोपेतः **जज्ञानः** जात इन्द्रः **विश्वं** सर्वं **रोचनं** दीप्यमानं लोकम् **आ** **भाति** सर्वतः प्रकाशयति । तथा **हर्यश्वः** इन्द्रः **हरितं** हरिद्वर्णोपेतम् **आयुधं** **धत्ते** बाह्वोर्धत्ते । तथा **हरिं** शत्रूणां प्राणापहारकं **वज्रं** **बाह्वोः** **आ** धत्ते ॥ जज्ञानः । ‘ जनी प्रादुर्भावे' इत्यस्य लिटः कानच् । ' गमहन° ' इत्यादिना उपधालोपः । चित्त्वादन्तोदात्तः । भाति । ‘भा दीप्तौ ' इत्यस्य अन्तर्भावितण्यर्थस्य लटि रूपम् । रोचनम् । “ रुच दीप्तौ ' इत्यस्मात् ‘ अनुदात्तेतश्च हलादेः' इति युच् । चित्त्वादन्तोदात्तः । बाह्वोः । ‘ उदात्तयणो हल्पूर्वात्' इति विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The azure-coloured showerer (of benefits), illumes, as soon as born, the whole luminous region; the lord of the tawny steeds holds in his **hands** the yellow weapon, the destroying thunderbolt.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Once born, the golden bull radiates through the whole luminous realm. Having golden horses, he takes the golden weapon, the golden mace into  his two arms.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda-final rócanam (b) echoes pāda-final arocayaḥ (2b) symmetrically around the central vs., as well as rhyming with pāda-final bhójanam in 3c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When born to life the golden Bull illumines all the realm of light.  
      He takes his golden weapon, Lord of Tawny Steeds, the golden thunder in his arms.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sobald der goldige Bulle geboren ist, erleuchtet er den ganzen Lichtraum. Der Goldrossige nimmt die goldige Waffe in die Arme, die goldige Keule.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren strahlt der goldne Stier, den ganzen Weltraum Agni an; Die goldne Waffe nimmt, der goldne Rosse hat, den goldnen Blitz in seinen Arm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Родившись, золотистый бык  
 Освещает все сверкающее пространство.  

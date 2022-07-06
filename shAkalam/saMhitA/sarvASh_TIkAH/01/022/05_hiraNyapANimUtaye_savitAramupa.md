@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हि꣡रण्यपाणिम् ऊत꣡ये  
 सविता꣡रम् उ꣡प ह्वये  
 स꣡ चे꣡त्ता देव꣡ता पद꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सः । चेत्ता॑ । दे॒वता॑ । प॒दम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyapāṇim* ← *hiraṇya*
 - \[noun\], neuter
@@ -84,7 +84,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ऊतये** अस्मद्रक्षणार्थं **सवितारं** देवम् **उप** **हृये** आह्वयामि। **सः** च सविता देवः एतन्मन्त्रप्रतिपाद्यदेवता भूत्वा **पदं** यजमानेन प्राप्यं स्थानं **चेत्ता** ज्ञापयिता भवति । कीदृशं सवितारम् । **हिरण्यपाणिं** यजमानाय दातुं हस्ते सुवर्णधारिणम् । यद्वा । देवकर्तृके यागे सविता स्वयमृत्विग्भूत्वा ब्रह्मत्वेन अवस्थितः । तदानीं कस्यांचिदिष्टौ अध्वर्यवः तस्मै सवित्रे ब्रह्मणे प्राशित्रनामकं पुरोडाशभागं दत्तवन्तः । तच्च प्राशित्रं हस्ते सवित्रा गृहीतं सत् तदीयपाणिं चिच्छेद । ततः प्राशित्रस्य दातारोऽध्वर्यवः सुवर्णमयं पाणिं निर्माय प्रक्षिप्तवन्तः । सोऽयमर्थः कौषीतकिब्राह्मणे समाम्नातः- सवित्रे प्राशित्रं प्रतिजह्रुस्तत्तस्य पाणी प्रचिच्छेद तस्मै हिरण्मयौ प्रतिदधुस्तस्माद्धिरण्यपाणिरिति स्तुतः ' इति । हिरण्यशब्दं पाणिशब्दं च यास्क एवं निर्वक्ति - ’हिरण्यं कस्माद्ध्रियत आयम्यमानमिति वा ह्रियते जनाज्जनमिति वा हितरमणं भवतीति वा हृदयरमणं भवतीति वा हर्यतेर्वा स्थात्प्रेप्साकर्मणः' (निरु. २. १०) इति । तथा ' पाणिः पणायतेः पूजाकर्मणः ' ( नि. २. २६ ) इति ॥ हिरण्यशब्दो नञ्विषयत्वादाद्युदात्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । ऊतये । 'उदात्तः ' इत्यनुवृत्तौ उतियूतिजूतिसाति' इत्यादिना क्तिनन्तः अन्तोदात्तो निपातितः । सवितारम् । तृचश्चित्त्वादन्तोदात्तत्वम् । चेत्ता। ‘चिती संज्ञाने'। अस्मादन्तर्भावितण्यर्थात्ताच्छील्ये तृन् । ' अनित्यमागमशासनम् ' इति इडभावः । नित्त्वादाद्युदात्तः । देवता । देवात्तल्' (पा. सू. ५. ४.२७ ) इति स्वार्थे तल् । ‘लिति' इति प्रत्ययात्पूर्वमुदात्तत्वम् । पदशब्दः पचाद्यजन्तः । ‘चितः ' इत्यन्तोदात्तः ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,29 +95,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Suvarṇahasta = golden-handed, i.e. he who gives gold to the worshipper. Legend: At a sacrifice performed by the gods, **Sūrya** undertook the office of **ṛtvij**, but positioned himself in the station of **Brahmā**. The **Adhvaryu** priests saw him in that position and gave him the oblation termed prāśitra. As soon as this was received, Sūrya cut off the **hand** that had improperly accepted it. The priests who had given the oblation bestowed upon Sūrya a hand of gold
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call upon golden-palmed Savitar for help.  
 He, through his divinity, is attentive to the track.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For my protection I invoke the golden-handed Savitar.  
      He knoweth, as a God, the place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Savitri mit goldener Hand rufe ich zur Gnade her; er unter den Göttern kennt die Wegspur.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Savitar mit goldner Hand, ihn rufe ich zur Hülfe her; Er kennt als Gott den rechten Ort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Савитара, золоторукого,  
 Я призываю для поддержки.  

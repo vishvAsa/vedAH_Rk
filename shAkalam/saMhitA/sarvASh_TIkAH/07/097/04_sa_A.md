@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ आ꣡ नो यो꣡निं सदतु प्र꣡यिष्ठो+  
 बृ꣡हस्प꣡तिर् विश्व꣡वारो यो꣡ अ꣡स्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡र्षन् नो अ꣡ति सश्च꣡तो अ꣡रिष्टान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 कामः॑ । रा॒यः । सु॒ऽवीर्य॑स्य । तम् । दा॒त् । पर्ष॑त् । नः॒ । अति॑ । स॒श्चतः॑ । अरि॑ष्टान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -144,14 +144,14 @@ genre M
 **प्रेष्ठः** प्रियतमः **सः** **बृहस्पतिः** **नः** अस्माकं **योनिं** स्थानं वेदिलक्षणम् **आ** **सदतु** आसीदतु आगत्योपविशतु । **यः** बृहस्पतिः **विश्ववारः** विश्वैर्वरणीयः **अस्ति** भवति । अपि च **रायः** धनस्य **सुवीर्यस्य** शोभनवीर्यस्य च यः **कामः** अस्माकमभिलाषोऽस्ति **तं** काममस्मभ्यं **दात्** ददातु । काम्यमानं प्रयच्छत्वित्यर्थः । तथा **सश्चतः** उपद्रवैः संसक्तान् **नः** अस्मान् **अरिष्टान्** अहिंसितान् कृत्वा **अति** **पर्षत्** अतिपारयति शत्रून् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that best beloved **Bṛhaspati**, who is the desired of all sit down in our hall of sacrifice; may hegratify our desire of riches and of **male** posterity. Transporting us (at present) embarrassed uninjured beyond(the assaults of enemies).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him sit as the dearest in our womb here—Br̥haspati who is  
 all-desirable [/granting all wishes].  
@@ -159,7 +159,7 @@ Desire for wealth in good heroes—that will he give. He will carry us
 across the parched places unharmed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The second pāda contains an equational rel. cl. with expressed copula ásti; main cl. equational expressions almost always lack copula (when asti is found, it is generally existential), but overt copulas are not uncommon in dependent clauses. It is of course optional; see the nominal rel. cl. in the preceding vs., 3d, which lacks copula.
 
@@ -168,23 +168,23 @@ Pāda c contains a phrase in the nominative, kā́mo rāyáḥ suvī́ryasya “
 The fronted expression seems like a topicalized phrase, but in Vedic topics would not default to the nominative but remain in the appropriate case for the larger syntactic frame; see in the next vs. the acc. phrase that occupies the whole of pāda a, which is the obj. of the verb in b. Moreover, one doesn’t give wishes/desires but rather the contents of those desires, so that the referent of tám may be rayí-, not kā́ma-. Both concerns suggest that the relationship between the kā́ma- phrase and the abbreviated táṃ dāt clause is less close than it appears. Renou supplies some structure to the first phrase -- “(En nous est) le désir …” -- and something like that might produce the necessary distance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May that Brhaspati who brings all blessings, most dearly loved, be seated by our altar.  
      Heroes and wealth we crave; may he bestow them, and bear us safe beyond the men who vex us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati soll sich bei uns auf seinen Platz setzen, der Beliebteste, der der Allbegehrte ist. Der Wunsch nach einem Schatz guter Söhne, den soll er gewähren. Er soll uns ohne Schaden über die Entbehrungen hinweghelfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es setze sich in unsern Schooss der liebste Brihaspati, der aller Gaben Herr ist, Den Wunsch nach Gut und Kinderschar gewähr er und führ uns sicher über die Verfolger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть этот самый любимый усядется на нашем лоне (жертвоприношения),  
 (Тот,) кто есть Брихаспати, обладатель всего избранного!  

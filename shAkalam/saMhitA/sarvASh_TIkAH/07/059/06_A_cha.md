@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ च नो बर्हिः꣡ स꣡दताविता꣡ च न  
 स्पार्हा꣡णि दा꣡तवे व꣡सु  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 स्वा꣡हेह꣡ मादयाधुवै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अस्रे॑धन्तः । म॒रु॒तः॒ । सो॒म्ये । मधौ॑ । स्वाहा॑ । इ॒ह । मा॒द॒या॒ध्वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -115,19 +115,19 @@ genre M
 हे मरुतः यूयं **नः** अस्मदीये **बर्हिः** कुशमये बर्हिषि **आ** **सदत** **च** उपविशत । **स्पार्हाणि** स्पृहणीयानि **वसु** वसूनि धनानि **दातवे** अस्मभ्यं दातुं **नः** अस्मान् **अवित** **च** आगच्छत च । हे **मरुतः** **अस्रेधन्तः** अहिंसन्तो यूयम् **इह** अस्मिन् यज्ञे **मधौ** मदकरे **सोम्ये** सोमात्मके हविषि **स्वाहा** स्वाहाकारेण **मादयाध्वै** मादयध्वं माद्यत ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sit down on our sacred grass; come to bestow upon us desirable riches; doing no harm, **Maruts** delightin the sweet **Soma** libation presented at this season.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sit here on our ritual grass and undertake to give us coveted goods. O unfailing Maruts, you will exhilarate yourselves here on the somian  honey—Hail!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sequence sádatāvitā́is analyzed by the Pp. as sádata avitá, with the latter form generally taken as a 2nd pl. impv. to √av ‘help’. But this interpr. is problematic on grounds of both form and meaning. There is no stem avi- to √av; the best that can be done is to classify it with the -iṣ-aor. ávīt, etc., but, in addition to -irather than -iṣ-, the accent is wrong, since the -iṣ-aorist has root accent. Moreover, a form of ‘help’ fits badly in the passage, where the main verb should provide syntactic support for the infinitive phrase spārhā́ṇi dā́tave vásu “to give coveted goods.” These difficulties are treated in detail by Narten (Sig. aor. 87-88), who suggests an appealing and convincing solution, to read sádatā vitā́, with the latter the 2nd pl. impv.
 
@@ -142,23 +142,23 @@ The accent on the 2nd pl. impv. sádatā presumably results from its juxtapositi
 ásredhantaḥ at the beg. of c can be either a voc. or a nom. pl.; nothing hangs on the exact identification.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sit on our sacred grass, be graciously inclined to give the wealth for which we long,  
      To take delight, ye Maruts, Friends of all, with Svaha, in sweet Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Setzet euch auf unser Barhis und geruhet, uns begehrenswerte Güter zu schenken! Ohne Verzug möget ihr Marut euch bei dem somischen Süßtrank hier unter Svaharuf ergötzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und setzt euch hin auf unsre Streu und seid uns hold, zu schenken uns begehrtes Gut; Berauscht euch friedlich an dem süssen Somatrank, o Maruts hier, es sei euch Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И садитесь вы на нашу солому, и будьте милостивы к нам,  
 Давая желанные блага.  

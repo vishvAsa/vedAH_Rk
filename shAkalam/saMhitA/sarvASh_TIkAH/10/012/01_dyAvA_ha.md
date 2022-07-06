@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्या꣡वा ह क्षा꣡मा प्रथमे꣡ ऋते꣡न  
 अभिश्रावे꣡ भवतः सत्यवा꣡चा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सी꣡दद् धो꣡ता प्रतिअ꣡ङ् स्व꣡म् अ꣡सुं य꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 दे॒वः । यत् । मर्ता॑न् । य॒जथा॑य । कृ॒ण्वन् । सीद॑त् । होता॑ । प्र॒त्यङ् । स्वम् । असु॑म् । यन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyāvā* ← *div*
 - \[noun\], nominative, dual, feminine
@@ -137,7 +137,7 @@ genre M
 **सत्यवाचा** सत्यवाचौ सत्यवादिन्यौ **प्रथमे** प्रधानभूते **द्यावा** **क्षामा** द्युक्षामे द्यावापृथिव्यौ **ऋतेन** सत्यभूतेन देवयजनेन सह **अभिश्रावे**। आभिमुख्येन श्रूयत इत्यभिश्राव आह्वानम् । तस्मिन् अस्मद्यज्ञनिमित्तेऽग्नेः संबन्धिन्याह्वाने **भवतः** । लोडर्थे लट । भवताम् । यत् यदा **देवः** द्योतमानोऽग्निः **यजथाय** यज्ञाय **मर्तान्** मनुष्यान् कृण्वन् प्रेरयन् **प्रत्यङ्** आह्वानार्थं देवानां प्रत्यञ्चिता **स्वम्** **असुम्** आत्मीयं ज्वालालक्षणं प्राणं **यन्** प्राप्नुवन् **होता** देवानामाह्वाता **सीदत्** वेद्यां निषीदति । तदास्मद्यागकाले द्यावापृथिवी प्रमुखोऽग्निः आह्वयत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre M
 Associated with the rite: ṛtena prathame = first by right
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Heaven and Earth, who speak what is real, become the first to hear in  accordance with truth,  
 when the god, setting mortals to sacrifice, takes his seat as Hotar facing  (them), as he comes to his own life.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HEAVEN and Earth, first by everlasting Order, speakers of truth, are near enough to hear us,  
      When the God, urging men to worship. sitteth as Priest, assuming all his vital vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Himmel und Erde sollen als Erste nach der wahren Ordnung zuhören, sie die ihr Wort halten. Wenn der Gott, der den Sterblichen opfern hilft, als Hotri sich niedersetzt, wieder in sein Leben zurückkehrend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Erd', der Himmel, nach dem Recht die ersten, sind Wahrheit kündend in des Hörens Nähe, Wenn zur Verehrung Agni treibt die Menschen, als Priester sitzt und seiner Regung zustrebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Небо и Земля пусть первыми по закону  
 Услышат, (они.) чья речь истинна,  

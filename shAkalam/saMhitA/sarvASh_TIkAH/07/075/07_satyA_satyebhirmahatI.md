@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्या꣡ सत्ये꣡भिर् महती꣡ मह꣡द्भिर्  
 देवी꣡ देवे꣡भिर् यजता꣡ य꣡जत्रैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ति गा꣡व उष꣡सं वावशन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 रु॒जत् । दृ॒ळ्हानि॑ । दद॑त् । उ॒स्रिया॑णाम् । प्रति॑ । गावः॑ । उ॒षस॑म् । वा॒व॒श॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satyā* ← *satya*
 - \[noun\], nominative, singular, feminine
@@ -116,7 +116,7 @@ genre M
 **सत्या** अन्यैरबाध्या **महती** पूजनीया प्रवृद्धा वा गुणैः  **देवी** द्योतमाना **यजता** यजनीयोषाः **सत्येभिः** सत्यैः **महद्भिः** देवैः **यजत्रै.** उक्तलक्षणैः किरणैर्निपातभाग्भिरन्यैर्देवैर्वा सहिता सती **दृळहानि** अत्यन्तं स्थिराणि तमांसि **रुजत्** भिनत्ति । **उस्रियाणाम्** । गोनामैतत् । उत्स्राविण आसां भोगा इति तद्व्युत्पत्तिः । तासां संचाराय **ददत्** ददाति । सामर्थ्यात् प्रकाशमित्यर्थः । अथवोस्रिया गा ददत् ददाति स्तोतृभ्यः । किंच **गावः** । उपलक्षणमेतत् । सर्वेऽपि तमोऽवरुद्धाः प्राणिनः **उषसं** **वावशन्त** उशन्ति कामयन्ते । विशेषेण गवां प्रभाते संचारार्थमुषसोऽपेक्षितत्वात्तासां प्राधान्येनोक्तिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,36 +127,36 @@ genre M
 True with the truthful: **satya** satyebhir **mahatī** mahadbhir, **devī** devebhir yajatā yajatraiḥ: may apply tokiraṇaiḥ, rays-- rays of dawn-- or anyair devaiḥ, with other deities, associated with whom the Dawn is true,mighty and adorable
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 True along with the true ones, great with the great, goddess with the  gods, worshipful with the worshipful—  
 she broke the fastnesses, she will give of the dawn-red (cows): the cows  keep bellowing in response to Dawn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich consists of four consecutive etymological figures, all nom. sg. fem. + instr. pl. masc. — simple but effective.
 
 On cd see Hoffmann (Injunk. 134). 99
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 True with the True and Mighty with the Mighty, with Gods a Goddess, Holy with the Holy,  
      She brake strong fences down and gave the cattle: the kine were lowing as they greeted Morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Wahrhafte soll mit den Wahrhaften, die Große mit den Großen, die Göttin mit den Göttern, die Opferwürdige mit den Opferwürdigen die Verschlüsse erbrechen und Kühe verschenken. Die Rinder brüllen der Usas entgegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit guten gut, erhaben mit erhabnen mit Göttern Göttin, heilig mit den heil'gen, Zerbricht sie Festen, theilet aus die Kühe, der Morgenröthe jauchzten zu die Stiere.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Истинная с истинными, великая с великими,  
 Богиня с богами, достойная жертв с достойными жертв -  

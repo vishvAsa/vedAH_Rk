@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि णो देव꣡वीतये  
 वा꣡जाँ अर्षसि गो꣡मतः  
 पुनान꣡ इन्दव् इन्द्रयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒ना॒नः । इ॒न्दो॒ इति॑ । इ॒न्द्र॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -79,35 +79,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** सोम **इन्द्रयुः** इन्द्रकामः **पुनानः** पूयमानस्त्वं **नः** अस्माकं **देववीतये** यज्ञाय **गोमत:** गोयुक्तानि **वाजान्** अन्नानि **परि** **अर्षसि** परितः क्षरेत्यर्थः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified **Indu**, who are devoted to **Indra**, pour down for our sacrifice, food with milk and curds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To pursue the gods for us, you rush around the prizes consisting of cows, being purified, o drop, seeking Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indu, in thy brilliancy, pourest on us, as Indra's Friend,  
      Wealth from the kine to feast the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du umfließest zur Götterladung die in Kühen bestehenden Siegerpreise, wenn du dich läuterst, o Saft, nach Indra verlangend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du strömest rings zum Göttermahl uns rinderreiche Labung zu, Indu, entflammt, dem Indra hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вокруг нас для приглашения богов  
 Ты изливаешь награды, состоящие из коров,  

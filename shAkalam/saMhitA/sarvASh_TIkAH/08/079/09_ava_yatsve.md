@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व य꣡त् सुवे꣡ सध꣡स्थे  
 देवा꣡नां दुर्मती꣡र् ई꣡क्षे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मी꣡ढ्वो अ꣡प स्रि꣡धः सेध
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 राज॑न् । अप॑ । द्विषः॑ । से॒ध॒ । मीढ्वः॑ । अप॑ । स्रिधः॑ । से॒ध॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava* ← *av*
 - \[verb\], singular, Present imperative
@@ -103,7 +103,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **स्वे** **सधस्थे** स्वकीये सहस्थाने गृहे **देवानां** **दुर्मतीः** दुर्मतयो न प्रविशन्त्विति । **यत्** यदा **अव** ईक्षे अहं त्वं वेक्षसे तदा हे **राजन्** **द्विषः** अस्मद्वेप्ष्टॄन **अप** **सेध**। हे **मीड्वः** सोमरसस्य सेक्तः **स्रिधः** हिंसकान् **अप** **सेध** । हिन्धीत्यर्थः ॥ ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,35 +114,35 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Showerer of blessings: mīḍhvaḥ = effuserof the **Soma**, somarasya sektā; or, phalasya sektā; or, kāmānām sektā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When I behold malevolent thoughts of the gods in my own seat,  
 o king, ward off hateful things; you who give rewards, ward off failures.  
 The next group of hymns consists of 80–87, with three hymns to Indra (80–82),  one to the All Gods (83), one to Agni (84), and three to the Aśvins (85–87), all but  the last showing the appropriate descending number of verse. But 87 can in fact be  broken into two original hymns, to produce the proper sequence. The poets named  by the Anukramaṇī are various.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner’s tr. is very different: he takes áva not as a preverb in tmesis but as the 2nd sg. impv. to √av ‘help’ and ī́kṣe as the 2nd sg. med. pres. to √īś ‘be master of’ rather than the 1st sg. to √īkṣ ‘see’, hence “Hilf … wenn du … vermagst.” His n. 9ab allows for the possibility of the other tr., however -- the interpr. favored by Oldenberg and found in Renou and in the published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When in my dwelling-place I see the wicked enemies of Gods,  
      King, chase their hatred far away, thou Bounteous One, dispel our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hilf, wenn du im eigenen Hause die Ungunst der Götter zu bannen vermagst! Halte, o König, die feindlichen Anschläge fern, halte die Fehlschläge fern, du Belohnender!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn in meinem eignen Hause ich die Götterhasser sehe, König, so verjag die Feinde, gnädig jage fort die Bösen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если в своем собственном доме  
 Я разгляжу недоброжелательность богов,  

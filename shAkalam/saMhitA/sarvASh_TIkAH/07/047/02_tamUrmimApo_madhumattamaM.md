@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ऊर्मि꣡म् आपो म꣡धुमत्तमं वो  
 अपां꣡ न꣡पाद् अवतु आशुहे꣡मा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡म् अश्याम देवय꣡न्तो वो अद्य꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यस्मि॑न् । इन्द्रः॑ । वसु॑ऽभिः । मा॒दया॑ते । तम् । अ॒श्या॒म॒ । दे॒व॒ऽयन्तः॑ । वः॒ । अ॒द्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -122,37 +122,37 @@ genre M
 हे आपः एतत्संज्ञका देवाः वः युष्मदीयं **मधुमत्तमं** रसवत्तमं **तमूर्मिं** प्रसिद्धं सोमाख्यं रसम् **आशुहेमा** शीघ्रगतिः **अपां** **नपात्** एतदाख्यो देवः **अवतु** पालयतु । **इन्द्रः** **यस्मिन्**   ऊर्मौ **वसुभिः** वासकैर्देवैः सह **मादयाते** माद्येत् **अद्य** अस्मिन् दिने **देवयन्तः** देवकामा वयं **वः** युष्मदीयं **तम्** ऊर्मिम् **अश्याम** प्राप्नुयाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the swift-moving grandson of the Waters protect, Waters, your most sweet essence, wherewiḥ mayIndra and the **Vasus** be delighted; and may we, devoted to the gods, partake (of it).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That wave of yours, o Waters, most filled with honey—let the Child of  the Waters who impels swift (horses) help it.  
 That on which Indra, along with the Vasus, will bring himself to  
 exhilaration, that one of yours might we, seeking the gods, attain today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the Floods' Offspring, he whose course is rapid, protect that wave most rich in sweets, O Waters,  
      That shall make Indra and the Vasus joyful. This may we gain from you to-day, we pious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese eure süßeste Woge, ihr Gewässer, soll Apam Napat, der Rossetreiber betreuen, an der sich Indra mit den Vasu´s gütlich tun möge, diese möchten wir Gottergebenen heute von euch erlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Wasser, eure honigreichste Welle beschütz der Wasser Sohn, der Rossetreiber, An der mit Vasu's Indra sich berausche, die mögen wir, die frommen, heut erlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К этой волне, о воды, самой сладостной у вас,  
 Пусть благоволит Апам Напат, погонщик быстрых коней!  

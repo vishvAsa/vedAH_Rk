@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्म ते꣡ प꣡रुष्णियाम्  
 ऊ꣡र्णा वसत शुन्ध्य꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡द्रिम् भिन्दन्ति ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒त । प॒व्या । रथा॑नाम् । अद्रि॑म् । भि॒न्द॒न्ति॒ । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -97,7 +97,7 @@ genre M
 **उत** **स्म** अपि च **ते** मरुतः **परुष्ण्याम्** एतन्नामिकायां नद्यां वर्तन्ते । ये **ऊर्णाः** दीप्तीः **शुन्ध्यवः**  शोधिकाः **वसत** अच्छादयन्ति ते। **उत** अपि च **पथ्या** नेम्या **रथानां** स्वकीयानां रथचक्रेण **ओजसा** बलेन च **अद्रिं** **भिन्दन्ति** मेघं गिरिं वा विदारयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,13 +108,13 @@ genre M
 **Urṇā** vasata śundhyavaḥ = **diptiḥ** śodhikaḥ ācchādayanti = purifiers they put on light
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And they clothe themselves in wool [=foam] in the Paruṣṇī (River)—they  (like) preening water-birds—  
 and with the wheel-rim of their chariots they split the stone with force.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase páruṣṇyām ū́rṇā vasata is similar to IV.22.2 páruṣṇīm uṣámāṇa ū́rṇām, but while in the latter páruṣṇīm modifies ‘wool’, here it must be a loc. sg.
 
@@ -133,23 +133,23 @@ I don't understand the force of utá sma, which opens 8c and 9a, with utá openi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fair-gleaming, on Parusni they have clothed themselves in robes of wool,  
      And with their chariot tires they cleave the rock asunder in their might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und die Schmucken kleiden sich in der Parusni in Wolle und sie spalten mit der Radschiene der Wagen den Fels mit Gewalt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie zogen an ihr wollnes Kleid, die schmucken in dem Sturmgewölk, Und mit der Wagen Schienen nun zerspalten sie den Fels mit Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот эти блистательные  
 Рядятся в шерсть на (реке) Парушни,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ न स्तेने꣡भ्यो ये꣡ अभि꣡ द्रुह꣡स् पदे꣡  
 निरामि꣡णो रिप꣡वो꣡ ऽन्नेषु जागृधुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बृ꣡हस्पते न꣡ परः꣡ सा꣡मनो विदुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । दे॒वाना॑म् । ओह॑ते । वि । व्रयः॑ । हृ॒दि । बृह॑स्पते । न । प॒रः । साम्नः॑ । वि॒दुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -132,7 +132,7 @@ genre M
 हेबृह्स्प्ते नोस्मान् स्तेनेभ्यः स्त्यानमस्तियेषुइतिस्तेनाश्चौराः तेभ्योमादाः तान् दर्शयति येचौरा द्रुहः प्राणद्रोहस्यपदेस्थानेनिरामिणः नितरांरमणशीलाः रिपवः हिंसकाःसन्तः अन्नेषुपरकीयेषु अभि जागृधुः अभिकाङ्क्षन्ति गृधुअभिकाङ्क्षायां लिटिरूपं येचदेवानांविव्रयः विविशेषेणवर्जनं व्रीव्लीइति धातूवर्जनेवर्तेते यएवंविद्वान्दक्षिणाम्प्रतिगृह्णातिनैनन्दक्षिणाव्लीनातीतिएकस्यवर्जनार्थेदृष्टत्वादपर स्यापिवर्जनार्थत्वम् तत् हृदिस्वकीयेहृदयेआओहतेआवहन्ति देवानांयागान्स्तुतींश्चनकरवामेतिमन्य न्तइतियावत् तेभ्योस्मान्मादाइतिसमन्वयः येपुमांसः साम्नः साममयात्त्वत्तः परः परस्तादन्यदुत्कृष्टं सामयद्रक्षोघ्रं सामवैरक्षोहमितिश्रुतेः । नविदुर्नजानन्ति किन्तु सर्वसाधकंसामत्वामेवविदुषोस्मान् स्तेनेभ्योमादाः ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ genre M
 Who do not know the extenf of your power: na **paraḥ** sāmno viduḥ = ye pumāmsaḥ sāmnaḥ sāmayāt tvattaḥ paraḥ parastād anyadukṛṣṭam **sāma** yad rakṣoghnam na jānanti, those men who do not know anything greater than the faculty of destroying **rākṣasas**, derived from you made up of that faculty; sāma vai rakṣoha = sāma is the killer of rākṣasas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Give) us not to thieves, the cheats, lurking in the track of deceit, who  have become greedy for our supplies  
 and (who) declare the crushing power of the gods (but set it) aside  in their heart. Br̥haspati, they do not know (anything) beyond the  sāman-chant (itself).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us not up to those who, foes in ambuscade, are greedy for the wealth of him who sits at ease,  
      Who cherish in their heart abandonment of Gods. Brhaspati, no further rest shall they obtain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns nicht den Räubern preis, die, sich an die Spuren der Falschheit hängend, als Betrüger nach den Speisen gierig sind. Sie behaupten die Schwäche der Götter und leugnen die Schwäche in ihrem eigenen Herzen. O Brihaspati, sie wissen nichts weiter als ihren Saman.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht gib uns hin den Dieben, die im Hinterhalt heimtückisch lauernd nach der Nahrung lüstern sind; Sich nicht im Herzen kümmern um der Götter Zorn, Brihaspati, die achten auch der Lieder nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не (выдай) нас ворам, которые, покоясь в следе обмана,  
 Наглые, всегда были жадными до еды:  

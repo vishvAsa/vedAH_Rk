@@ -6,13 +6,13 @@ ChandaH = "द्विपदा जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो वा꣡जेषु अविता꣡ पुरूव꣡सुः  
 पुरस्थाता꣡ मघ꣡वा वृत्रहा꣡ भुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M
 सः । नः॒ । वाजे॑षु । अ॒वि॒ता । पु॒रु॒ऽवसुः॑ । पु॒रः॒ऽस्था॒ता । म॒घऽवा॑ । वृ॒त्र॒ऽहा । भु॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -80,34 +80,34 @@ genre M
 एषा द्विपदा जगती । **सः** **पुरूवसुः** बहुधनः **मघवा** धनवान् **वृत्रहा** शत्रूणां हन्तेन्द्रः **नः** अस्माकं **वाजेषु** संग्रामेषु **अविता** रक्षिता **पुरःस्थाता** तदर्थं पुरतो वर्तमानः भुवत् भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Maghavan**, the wealthy, the slayer of **Vṛtra**, stand before us as our defender in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He will become our helper in the prize-contests—he of many goods, the  one who stands in front, the bounteous Vr̥tra-smiter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be he our Champion and Protector in great deeds, rich in all wealth, the Vrtra-slayer, Maghavan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Schatzreiche soll in den Kämpfen unser Helfer und Anführer sein, der gabenreiche Vritratöter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er [Indra] sei uns in den Schlachten ein Helfer, der güterreiche, ein Führer sei uns der mächtige Vritratödter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть этот богатый добром станет нам помощником в состязании за награду,  
 Стоящим впереди, (этот) щедрый убийца Вритры.

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ ते शु꣡ष्मं ये꣡ त꣡विषीम् अ꣡वर्धन्न्  
 अ꣡र्चन्त इन्द्र मरु꣡तस् त ओ꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पि꣡बा रुद्रे꣡भिः स꣡गणः सुशिप्र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 माध्य॑न्दिने । सव॑ने । व॒ज्र॒ऽह॒स्त॒ । पिब॑ । रु॒द्रेभिः॑ । सऽग॑णः । सु॒ऽशि॒प्र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -125,36 +125,36 @@ genre M
 हे **इन्द्र** **ये** **मरुतः** **ते** तव **शुष्मं** शत्रूणां शोषकं तेजः **ये** च मरुतः **तविषीं** बलं च **अवर्धन्** युद्धसहकारितयावर्धयन् ते मरुतः **अर्चन्तः** त्वां स्तुवन्तः सन्तः **ते** तव **ओजः** युद्धसामर्थ्यम् अवर्धयन् । **वज्रहस्त** वज्रयुक्तः हस्तः यस्येति तादृश **सुशिप्र** शोभनहनो। शिप्रे हनू नासिके वा' इति यास्कः । हे इन्द्र **रुद्रेभिः** । रोदयन्ति शत्रूनिति रुद्राः मरुतः । तैः **सगणः** त्वं **माध्यंदिने** **सवने** सोमं **पिब** ॥ अवर्धन् । 'वृधु वर्धने' । अन्तर्भावितण्यर्थः । यद्वृत्तयोगादनिघातः । माध्यंदिने । उत्सादित्वादञ् । ञित्त्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These are the **Maruts**, **Indra**, who, worshipping your prowess, augment your withering force (by their aid); attended by the **Rudras**, drink, wielder of the thunder-bolt, and handsome-chinned, at the noon-day sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They who increased your tempestuousness, who increased your power,  the Maruts, hymning your strength, Indra—  
 at the Midday Pressing, you with mace in hand, drink in a flock with  the Rudras, you of good lips.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those who gave increase to thy strength and vigour; the Maruts singing forth thy might, O Indra.  
      Drink thou, O fair of cheek, whose hand wields thunder, with Rudras banded, at our noon libation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Marut, die deine Wut, deine Kraft erhöhten, indem sie deine Stärke besangen, o Indra, mit den Rudrasöhnen als Gefolge trink, du Schönlippiger, bei der mittäglichen Trankspende, du Keulenträger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die deinen Muth und deine Kraft erquickten die Maruts, Indra, deine Stärke preisend; Blitzhalter trinke bei der Mittagsspende, o Schlürfender, vereint mit Rudrascharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те, что увеличили твое неистовство, (твое) мужество, -  
 Маруты, воспевающие, о Индра, твою силу, –  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊ꣡र्जं गावो य꣡वसे पी꣡वो अत्तन  
 ऋत꣡स्य याः꣡ स꣡दने को꣡शे अङ्ग्धुवे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 त॒नूः । ए॒व । त॒न्वः॑ । अ॒स्तु॒ । भे॒ष॒जम् । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
@@ -122,7 +122,7 @@ genre M;; repeated line
 हे गावः आशिरार्थाः यूयं **यवसे** तृणवति देशे **पीवः** प्रवृद्धम् **ऊर्जं** रसम् **अत्तन** अत्त । **याः** **ऋतस्य** यज्ञस्य **सदने** गृहे **कोशे** गोष्ठे दोहनस्थाने **अङ्ध्वे** व्यञ्जयथ ता अत्तन । **तनूरेव** । जन्ये जनकशब्दः । तनूरेव क्षीरमेव **तन्वः** सोमरसस्य **भेषजम्** **अस्तु** । यद्वा । पृथगेव वाक्यम् । अस्माकं तन्वो भेषजमस्तु । किंच तनूरेव पशुशरीरमेव । पशुना :यागे सति स्वर्गस्य संपादयितुं शक्यत्वात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,29 +133,29 @@ genre M;; repeated line
 I.e., may the body of the cowoffered in sacrifice be the expiation for the body of the sacrificer, enabling him to attain **svarga**; or, may the milkbe the corrective of the **Soma**; or, may the body itself be the body's cure
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Cows, eat nourishment in the pasture, eat fat, you who are anointed  in the cup, at the seat of truth.  
 Let just this body be medicine for the body. – We choose wholeness and  innocence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eat strength and fatness in the pasture, kine, who are balmed at the reservoir and at the seat of Law.  
      So let your body be our body's medicine. We ask for freedom and complete felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Rinder, fresset euch auf der Weide Kraft und Fett an, die ihr am Sitz der Opferordnung in der Kufe mit Soma gesalbt werdet! Ein Leib sei des anderen Leibes Heilmittel! - Wir erbitten Vollkommenheit von der Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniesst, o Kühe, auf der Weide Fett und Kraft, die ihr euch schmückt im Eimer, in dem Sitz des Rechts, Eur Leib fürwahr sei unsres Leibes Arzenei; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

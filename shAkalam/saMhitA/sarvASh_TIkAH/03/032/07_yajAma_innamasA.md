@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡जाम इ꣡न् न꣡मसा वृद्ध꣡म् इ꣡न्द्रम्  
 बृह꣡न्तम् ऋष्व꣡म् अज꣡रं यु꣡वानम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ रो꣡दसी महिमा꣡नम् ममा꣡ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । प्रि॒ये इति॑ । म॒मतुः॑ । य॒ज्ञिय॑स्य । न । रोद॑सी॒ इति॑ । म॒हि॒मान॑म् । म॒माते॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajāma* ← *yaj*
 - \[verb\], plural, Present imperative
@@ -113,20 +113,20 @@ genre M
 **नमसा** हविर्लक्षणेनान्नेन **वृद्धं** प्रवृद्धम् अत एव **बृहन्तं** महान्तम् 'ऋष्वम् । ऋष्यते गम्यते स्तुतिलक्षणैर्मन्त्रैरिति ऋष्वं स्तोतव्यम् । **अजरं** जरारहितम् अत एव **युवानं** नित्यतरुणम् एवंविधम् **इन्द्रं** **यजाम** **इत्** । कुशिका वयं यज्ञसिद्ध्यर्थं स्तुतिवाक्यैः पूजयामः । **प्रिये** प्रियतमे अपरिमिते **रोदसी** द्यावापृथिव्यौ **यज्ञियस्य** यज्ञार्हस्य **यस्य** इन्द्रस्य तव **महिमानं** वैभवं **न** **ममतुः** न परिच्छेत्तुं शक्नुतः । न **ममाते** इति द्वितीयं क्रियापदमादरार्थम् ॥ यजामः । यजेर्लटि रूपम् । ऋष्वम् । ‘ ऋषी गतौ'। ‘ सर्व निघृष्वऋष्व' ' इत्यादिना वप्रत्ययान्तो निपातितः । प्रत्ययस्वरः । प्रिये । ‘ ईदूदेत्' इति प्रगृह्यसंज्ञा । ममतुः । ‘ मा माने ' इत्यस्य लिट्यतुसि रूपम् । यद्वृत्तयोगादनिघातः । प्रत्ययस्वरः । महिमानम् । महिशब्दात् तस्य भावः इत्यर्थे पृथ्वादित्दिवामनिच् । चित्स्वरः । ममाते । ‘माङ् माने शब्दे च ' इत्यस्य लिट्यातामि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Therefore we sacrifice with reverence to the vast and mighty **Indra**, who is adorable, undecaying, young; whose magnitude the unbounded heaven and earth have not measures, nor can measure.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let us sacrifice to Indra, increased through homage, lofty and towering,  unaging and youthful,  
 whose greatness the two dear world-halves measured, but did not  measure up to the greatness of him worthy of the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ma- phonetic figure that dominated 4d returns in this vs.: cd … mamátur …, … mahimā́nam mamā́te. This figure is reinforced by the first words of pāda a, yájāma ín námasā, and the uninterrupted sequence of -am acc. singulars in ab: … vṛddhám índram, bṛhántam ṛṣvám ajáram yúvānam. Although a side-effect of the grammar, it is my impression that a skilled RVic poet would break the monotony of such a string -- unless it served some other poetic purpose, here to provide the mirror-image -am to ma- and perhaps to evoke the Maruts.
 
@@ -137,23 +137,23 @@ mamátuḥ and med. mamā́te, share the same subj. and obj., with the 1st claus
 Grassmann, Geldner, and Oldenberg neatly convert the word play to “messen” (‘measure’) versus “ermessen” (‘gauge, grasp, realize’)(or so I understand them). My “measure” / “measure up to” is a similar attempt whose purport is close to Kümmel (378) and Witzel Gotō: “sich messen.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With reverence let us worship mighty Indra, great and sublime, eternal, everyouthful,  
      Whose greatness the dear world-halves have not measured, no, nor conceived the might of him the Holy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So verehren wir unter Verbeugung den erstarkten Indra, den hohen, reckenhaften, alterlosen, jugendlichen Indra, den opferwürdigen, dessen Größe beide lieben Welten gemessen, aber nicht ermessen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst dehmuthsvoll den Indra uns verehren, den hohen, grossen, hehren, ewig jungen, Dess Grösse beide liebe Welten massen, doch nicht ermassen, dess der hoch zu ehren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот мы и почитаем поклонением усилившегося Индру,  
 Высокого, выдающегося, нестареющего юношу, –  

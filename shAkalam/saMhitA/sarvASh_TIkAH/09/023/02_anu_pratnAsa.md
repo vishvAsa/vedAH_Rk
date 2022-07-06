@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु प्रत्ना꣡स आय꣡वः  
 पदं꣡ न꣡वीयो अक्रमुः  
 रुचे꣡ जनन्त सू꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 रु॒चे । ज॒न॒न्त॒ । सूर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **प्रत्नासः** पुराणाः केचित् **आयवः** शीघ्रगमना अश्वाः **नवीयः** नवतरं **पदम्** **अनु** **अक्रमुः** अनुक्रमन्ते । रूपकव्याहारेण सोमाः स्तूयन्ते । **रुचे** दीप्त्यै **सूर्यं** **जनन्त** कुर्वन्ति । दीप्तं कुर्वन्तीत्यर्थः । सोमप्यायनेन हि चन्द्रो रोचते ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,29 +91,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Pratnāsa āyavaḥ may also mean, the arranged plural ce of sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ancient Āyus have marched along a newer track.  
 They have begotten the sun, for it to shine.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither to newer. resting-place the ancient Living Ones are come.  
      They made the Sun that he might shine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Ayu´s haben nach alter Weise die neueste Spur verfolgt. Sie erzeugten die Sonne, auf daß sie leuchte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die alten muntern Wanderer der neusten Fussspur folgten sie, Die Sonne zeugten sie zum Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Древние Аю  
 Проследовали по новому пути:  

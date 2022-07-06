@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ व꣡र्मासि सप्र꣡थः  
 पुरोयोध꣡श् च वृत्रहन्  
 त्व꣡या प्र꣡ति ब्रुवे युजा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त्वया॑ । प्रति॑ । ब्रु॒वे॒ । यु॒जा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -90,19 +90,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वृत्रहन्** शत्रूणां हिंसकेन्द्र **त्वं** **वर्म** अस्माकं कवचम् **असि** । कवचवद्रक्षकोऽसीत्यर्थः । **सप्रथः** सर्वतः पृथुश्चासि । **पुरोयोधश्च** पुरो योद्धा चासि । **त्वया** **युजा** त्वया सहायेन **प्रति** **ब्रुवे** शत्रून् प्रतिब्रवीमि । प्रतिहन्मीत्यर्थः ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slayer of enemies, you, **Indra**, are our armour, vast and our preceder in battle; with you for my ally I defy(the foe).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are armor of broad extent and a fighter in the front, o Vr̥tra-smasher. With you as yokemate, I respond to (the challenger).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the basis of VIII.92.32 tváyéd indra yujā́vayám, práti bruvīmahi spṛ́dhaḥ “With you as yokemate, we would respond to the challengers,” I supply ‘challenger’ here.
 
@@ -115,23 +115,23 @@ Again there is responsion across the tṛca boundary: 7a mahām̐utā́si echoes
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art mine ample coat of mail, my Champion, Vrtra-Slayer, thou:  
      With thee for Friend I brave the foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist ein breiter Schirm und ein Vorkämpfer, du Vritratöter. Mit dir im Bunde verteidige ich mich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist ein weiter Panzer uns, und Führer, der du Feinde schlägst; Zu dir, dem Freund, gesell' ich mich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты – (наш) широкий щит  
 И передовой боец, о убийца Вритры.  

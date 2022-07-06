@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व शुक्रा꣡सो अर्च꣡यो  
 दिव꣡स् पृष्ठे꣡ वि꣡ तन्वते  
 पवि꣡त्रं सोम धा꣡मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प॒वित्र॑म् । सो॒म॒ । धाम॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **शुक्रासः** सर्वत्र ज्वलनशीलाः **धामभिः** तेजोभिः सहितस्य **तव** स्वभूताः **अर्चयः** अर्चनीया रश्मयः **दिवः** द्योतमानस्यादित्यस्य द्युलोकस्य वा **पृष्ठे** अधरभागे। पृथिव्यामित्यर्थः। **पवित्रं** पवनसाधनमुदकं **वि** **तन्वते** विशेषेण तन्वन्ति विस्तारयन्ति । सर्वत्र कुर्वन्तीत्यर्थः ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,12 +93,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Pṛṣṭha** = the lower part of heaven, i.e., the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yours are the gleaming rays that spread widely on the back of heaven across the filter, Soma, through your domains.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. seems to unite Soma’s two theatres of operation, as laid out in vss. 2-3, the cosmic and the ritual. His “gleaming rays” (reminiscent of the sun) spread both “on the back of heaven” (divás pṛṣṭhé) and across the ritual filter (pavítram); the instr. dhā́mabhiḥ “through your domains” can make reference both to this combining of cosmic and ritual and also, more specifically, to the limited ritual domains expressed by the pl. dhā́māni in vs. 3.
 
@@ -114,23 +114,23 @@ This tṛca does not show particular internal cohesion, but it has striking echo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Upon the lofty ridge of heaven thy bright rays with their essences,  
      Soma, spread purifying power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine klaren Strahlen breiten am Rücken des Himmels eine Seihe aus durch ihre Eigenschaften, o Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Am Himmelsrücken breiten sich rings deine hellen Strahlen aus Zur Seihe, Soma, nach dem Brauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

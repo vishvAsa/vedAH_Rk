@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरोळा꣡शं च नो घ꣡सो  
 जोष꣡यासे गि꣡रश् च नः  
 वधूयु꣡र् इव यो꣡षणाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; repeated line
 व॒धू॒युःऽइ॑व । योष॑णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puroﾱāśaṃ* ← *puroﾱāśam* ← *puroḍāś*
 - \[noun\], accusative, singular, masculine
@@ -82,42 +82,42 @@ genre M;; repeated line
 हे इन्द्र त्वं **नः** अस्मदीयं **पुरोळाशं** **च** पुरोडाशरूपमन्नं च **घसः** अद्धि । तथा **नः** अस्मदीयाः **गिरश्च** स्तुतिरूपा वाचश्च **जोषयासे** सेवस्व । तत्र दृष्टान्तः । **वधूयुरिव** । स्त्रीकामो यथा **योषणां** स्त्रीणां गिरः सेवते तद्वत् ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Eat (**Indra**) our cakes and butter; be plural ased by our praises as a libertine (by the caresses) of a woman.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our offering cake you shall eat, and you shall take pleasure in  
 our songs,  
 as a bride-seeking man does a maiden.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the accent of ghásaḥ see III.52.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eat of our sacrificial cake: rejoice thee in the songs we sing.  
      Even as a lover in his bride.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Iß unseren Reiskuchen und finde an unseren Lobesworten Gefallen wie der Weibersüchtige an einer jungen Frau.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und unsern Opferkuchen iss, an unserm Lied erquicke dich, Wie an der Braut der Bräutigam.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Съедай нашу лепешку  
 И наслаждайся нашими песнями  

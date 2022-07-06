@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो यातं दिव꣡स् प꣡रि  
 आ꣡न्त꣡रिक्षाद् अधप्रिया  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सुषा꣡व सोमिय꣡म् म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पु॒त्रः । कण्व॑स्य । वा॒म् । इ॒ह । सु॒साव॑ । सो॒म्यम् । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -107,7 +107,7 @@ genre M
 हे अश्विनौ **दिवस्परि** दिवोऽधि द्युलोकात् **नः** अस्मान् आ **यातम्** आगच्छतम् । ‘पञ्चम्याः परावध्यर्थे ' इति विसर्जनीयस्य सत्वम् । हे **अधप्रिया** अधोऽधस्तादस्मिँल्लोके विद्यमानेन सोमेन प्रीयमाणौ । यद्वा । कधप्रिया । छान्दसो वर्णलोपः । कथया स्तुत्या प्रीयमाणौ। हे ईदृशावश्विनौ **अन्तरिक्षात्** अप्यागच्छतम् । **इह** अस्मिन्यज्ञे **कण्वस्य** ऋषेः **पुत्रः** **सोम्यं** सोममयं **मधु** **वां** युवाभ्यां युवयोरर्थं **सुषाव** अभिषुणोति । अत आ यातमित्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,33 +118,33 @@ genre M
 World below: adhapriyā = plural ased by theSoma in the world below, or plural ase by praise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here to us from heaven, here from the midspace, o you (invoked  with) “then, friends.” The son of Kaṇva has pressed the somian honey for you here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax voc. adhapriyā is clearly based on the slightly better attested kadhapriya-/-prī- (on which see comm. ad I.30.20), a form of which is found in the immediately preceding hymn VIII.7.31. The latter is a dismissive and slighting form of address (“when-friends?” -- that is, fair-weather friends) whereas adhapriyaseems to be the opposite: “now/here-friends,” that is, reliable friends.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us hither from the heavens, come from mid-air, well-loved by us:  
      Here Kanva's son hath pressed for you the pleasant meath of Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet vom Himmel her zu uns, aus dem Luftreich, die ihr da Freunde habt! Des Kanva Sohn hat euch hier den somischen Met gepreßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel kommet her zu uns, und aus der Luft, bei uns beliebt, Der Sohn des Kanva hat euch hier den süssen Somatrank gebraut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нам приезжайте с неба  
 Из воздушного пространства, (те, что) там приятны!  

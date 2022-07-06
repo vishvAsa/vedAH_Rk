@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ श्लो꣡को दिवी꣡यते पृथिव्या꣡म्  
 अ꣡त्यो न꣡ यंसद् यक्षभृ꣡द् वि꣡चेताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हस्प꣡तेर् अ꣡हिमायाँ अभि꣡ द्यू꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 मृ॒गाणा॑म् । न । हे॒तयः॑ । यन्ति॑ । च॒ । इ॒माः । बृह॒स्पतेः॑ । अहि॑ऽमायान् । अ॒भि । द्यून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -130,7 +130,7 @@ genre M
 **अस्य** बृहस्पतेः **श्लोकः** स्तुत्यात्मिका कीर्तिः गर्जितवाक् वा **दिवि** द्योतमाने द्युलोके पृथिव्यां च **ईयते** गच्छति व्याप्नोति । यो बृहस्पतिः **अत्यो** **न** अतनशील आदित्य इव **यक्षभृत्** पूजितं हविरादिकं दधानः **विचेताः** विविधं चेतयिता प्राणिनां विशिष्टप्रज्ञायुक्तो वा **यंसत्** नियच्छति फलम् । किंच **मृगाणां** हन्तुमन्विष्यतां **हेतयः** न आयुधानीवास्य **बृहस्पतेः** **इमाः** हेतयो हिंस्राणि आयुधानि **यन्ति** गच्छन्ति **च** ॥ ‘चवायोगे प्रथमा ' इति न निघातः । **अहिमायान्** आगत्य हन्त्र्योऽन्तरिक्षचारिण्यो वा माया येषां वृत्रादीनां तानसुरान् **द्यून** दिवसान् ।' कालाध्वनोः०' (पा. सू. २. ३. ५) इति द्वितीया ॥ तान्यायुधानि **अभि** लक्षयन्ति च ॥ उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ genre M
 Like the weapons of the hunters: mṛgāṇām na hetayaḥ = hantum anviṣyatam āyudhanīva, like the weapons of those seeking to kill
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When his signal-call speeds in heaven and on earth like a steed, the  discriminating one [=Br̥haspati?], bringing wondrous apparitions, will  control it, *like a steed—  
 as also when these missiles [=words] of Br̥haspati, like the charges of  wild beasts, go to the heavens that possess serpentine wiles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are a number of syntactic questions and problems in this verse. To begin with, in pāda a the sequence divī́yate could be resolved as either diví īyate (so Grassmann, Pp.) or diví ī́yate. In the latter case, with accented verb, we could have a subordination without an overt subordinator. I have chosen to interpret it so, contra the standard tr. and interpr. (though with Scarlatta 371 n. 516), because the other likely connections between pādas a and b favor this closer nexus.
 
@@ -162,23 +162,23 @@ With Scarlatta I take the ca in c as coordinating cd with a.
 I do not understand exactly what yakṣa-bhṛ́t- in b refers to, nor do I understand why the heavens are áhimāya-. For the latter, one can recall that in V.40.6, 8 the māyā́ḥ of Svarbhānu hide the sun and that in my extensive treatment of the Svarbhānu myth (Ravenous Hyenas, 1991) I interpret those māyā́ḥ as the swirling clouds of smoke issuing from Agni. So here the “serpentine wiles” that the heavens possess might be the clouds of smoke from the ritual fire produced at the same time as Bṛhaspati’s ritual signal call (though áhimāya- when applied to the gods would have to have a different sense). This further suggests that the wondrous apparitions (yakṣá-) that Bṛhaspati brings are other marvelous sights associated with the sacrificial performance. But these are just guesses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His song of praise pervades the earth and heaven: let the wise worshipper draw it, like a courser.  
      These of Brhaspati, like hunters' arrows, go to the skies that change their hue like serpents.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sein Ruf dringt zum Himmel, zur Erde. Wie ein Rennpferd den Wagen anzieht, möge der Kluge, der das Geheimnis trägt, die Götter anziehen, wenn diese Geschosse des Brihaspati, wie die Geschosse für das Wild, zu den wie Schlangen wandelbaren Himmelsgöttern gehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Himmel dringt sein Preislied und zur Erde, gleich wie ein Jagdross dringe vor der weise, Und wie des Wildes Hufe gehn die Lieder Brihaspati's zu allgestalt'gen Himmeln.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 . Возглас его идет на небо, на землю.  
 Словно конь, (которым правят,) пусть правит он (речью), (он,) несущий чудесные силы, прозорливый,  

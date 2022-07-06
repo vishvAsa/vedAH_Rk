@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡ इ꣡द् उ · स्तो꣡मं सं꣡ हिनोमि  
 र꣡थं न꣡ · त꣡ष्टेव त꣡त्सिनाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्राय विश्वमिन्व꣡म् मे꣡धिराय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 गिरः॑ । च॒ । गिर्वा॑हसे । सु॒ऽवृ॒क्ति । इन्द्रा॑य । वि॒श्व॒म्ऽइ॒न्वम् । मेधि॑राय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -112,7 +112,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 अस्मै एव इन्द्राय **स्तोमं** शस्त्ररूपं स्तोत्रं **सं** **हिनोमि** प्रेरयामि । तत्र दृष्टान्तः । **तत्सिनाय** । सिनम् इति अन्ननाम । सिनमन्नं भवति सिनाति भूतानि ' ( निरु. ५. ५) इति यास्कः । तेन रथेन सिनमन्नं यस्य स तथोक्तः । तस्मै रथस्वामिने **तष्टेव** तष्टा तक्षको रथनिर्माता **रथं** **न** यथा रथं प्रेरयति तद्वत् । इव इत्येतत् पादपूरणम् । तथा **गिर्वाहसे** गीर्भिः स्तुतिभिरुह्यमानाय **इन्द्राय** **गिरश्च** शस्त्रसंबन्धिनीः केवला ऋचश्च **सुवृक्ति** शोभनमावर्जनं यथा भवति तथा प्रेरयामि । तथा **मेधिराय** मेधाविने इन्द्राय **विश्वमिन्वं** विश्वव्यापकं विश्वैर्व्याप्तं सर्वोत्कृष्टं हविश्व सं हिनोमीत्यनुषङ्गः ॥ हिनोमि । ‘हि गतौ वृद्धौ च' । स्वादित्वात् श्नुः । तष्टेव । ‘तक्षू त्वक्षू तनूकरणे'। ताच्छीलिकस्तृन् । ऊदित्त्वात् पक्षे इडभावः । ‘स्कोः संयोगाद्योरन्ते च ' इति ककारलोपः । नित्त्वादाद्युदात्तत्वम्। तत्सिनाय। सिनशब्दः ‘षिञ् बन्धने' इत्यस्मात् ' इण्षिञ्जिदीङुष्यविभ्यो नक्' ( उ. सू. ३. २८२ ) इति नक्प्रत्ययान्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । गिर्वाहसे। ' वहिहाधाञ्भ्यश्छन्दसि ' इति वहतेः केवलाद्विहितः असुन्प्रत्ययः ‘गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च ' इति वचनात् कारकपूर्वस्यापि भवति पूर्वपदप्रकृतिस्वरत्वं च। ‘णित् ' इत्यनुवृत्तेः उपधावृद्धिः । ‘हलि च ' इति दीर्घाभावश्छान्दसः । विश्वमिन्वम् । ‘इवि व्याप्तौ' । विश्वमिन्वति व्याप्नोतीति विश्वमिन्वम् । पचाद्यच् । लुगभावश्छान्दसः । यद्वा । खच्प्रत्ययो बहुलवचनादस्मादपि धातोर्द्रष्टव्यः । मेधिराय । मेधा अस्यास्तीति मेधिरः । ‘मेधारथाभ्यामिरन्निरचौ वक्तव्यौ ' ( पा. सू. ५. २. १०९. ३ ) इति मत्वर्थीय इरन् । नित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,34 +125,34 @@ Ratham na taṣṭeva tatsināya: sina = food;
 Tat = owner of the car, i.e. for his food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just for this one I put together praise—like a carpenter a chariot for the  one whose gear it is—  
 and hymns with a good twist for the one whose vehicle is hymns—for  wise Indra (praise) that sets everything in motion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner suggests (in n. 3 to his n. to 4ab), the apparent pleonastic+++(=redundant)+++ doubling of the simile particle (ráthaṃ ná tā́ṣṭā-iva) may instead signal that two images have been crossed here: one with a simplex hinomi (“I impel the praise like a chariot”) and the other with sáṃ hinomi and the addition of the carpenter as subject (“I, like a carpenter, put together praise, like a chariot”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even for him I frame a laud, as fashions the wright a chariot for the man who needs it,--  
      Praises to him who gladly hears our praises, a hymn well-formed, all-moving, to wise Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm füge ich den Preisgesang zusammen wie der Zimmermann den Wagen für ihn, der Lohn dafür bezahlt, ihn belohnt, und Lobreden für ihn, den die Lobreden anziehen, zum Preis für den verständnisvollen Indra den allbewegenden Preisgesang.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm rüst' ich zu mein Loblied wie den Wagen der Wagenbauer dem, der ihn begehret; Dem Liederfreunde Lieder, schön bereitend, dem weisen Indra Lob, das durch die Welt dringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это ему я слагаю хвалу,  
 Как плотник (делает) колесницу, тому, кто вознаграждает,  

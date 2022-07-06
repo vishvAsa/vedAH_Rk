@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्ने प्रदि꣡व आ꣡हुतं घृतइः꣡  
 सुम्नाय꣡वः सुषमि꣡धा स꣡म् ईधिरे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अभि꣡ ज्र꣡यांसि पा꣡र्थिवा वि꣡ तिष्ठसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । व॒वृ॒धा॒नः । ओष॑धीभिः । उ॒क्षि॒तः । अ॒भि । ज्रयां॑सि । पार्थि॑वा । वि । ति॒ष्ठ॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -124,7 +124,7 @@ genre M
 हे **अग्ने** **घृतैः** **आहुतं** **त्वां** **प्रदिवः** पुरातनाः **सुम्नायवः** सुखमिच्छन्तो यजमानाः **सुषमिधा** शोभनेन इध्मेन **समीधिरे** सम्यक् दीपितवन्तः । **सः** त्वं **वावृधानः** वर्धमानः **ओषधीभिः** **उक्षितः** सिक्तः **ज्रयांसि** अन्नानि **पार्थिवा** पार्थिवान् वृक्षान् । यद्वा । पार्थिवेति ज्रयोविशेषणम् । पार्थिवानि चरुपुरोडाशादिकानि **अभि** **वि** **तिष्ठसे** अभिव्यज्य वर्तसे ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,34 +137,34 @@ Abhi jayāṃsi **pārthiva** vi tiṣṭhase: jayāṃsi = annāni, food, eatbl
 Pārthiva = **vṛkṣaḥ**, trees, an epither of jayāṃsi, earthly eatbles, as the cakes and butter presented in sacrifices with fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, anointed with ghee from of old, have those seeking your  favor kindled with good kindling.  
 Having become fully grown and increased by the plants, you spread over  the earthly expanses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men seeking joy have lit thee worshipped from of old, O Agni, with good fuel and with sacred oil.  
      So thou, bedewed and waxing mighty by the plants, spreadest thyself abroad over the realms of earth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, on whom offerings of ghee are poured, (men) desirous of thy favour have kindled from of old with good fuel. Thus, grown strong, increased by the plants, thou spreadest thyself over the terrestrial spaces.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, den seit langem mit Schmalz Begossenen haben sie um Gunst bittend mit gutem Brennholz angezündet. Erstarkt, durch die Pflanzen groß geworden, verbreitest du dich über die irdischen Bahnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich Agni haben huldbegier'ge einst entflammt, mit schönem Brennholz und mit Butter dich getränkt; Wenn durch die Pflanzen du erwachsend aufwärts steigst, verbreitest du dich weithin durch der Erde Raum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, от века политого струями жира,  
 Они зажгли прекрасными дровами, прося о (твоей) милости.  

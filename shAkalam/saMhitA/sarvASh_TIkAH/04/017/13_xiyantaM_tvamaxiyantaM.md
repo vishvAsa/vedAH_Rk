@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्षिय꣡न्तं त्वम् अ꣡क्षियन्तं कृणोति  
 इ꣡यर्ति रेणु꣡म् मघ꣡वा समो꣡हम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उत꣡ स्तोता꣡रम् मघ꣡वा व꣡सौ धात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि॒ऽभ॒ञ्ज॒नुः । अ॒शनि॑मान्ऽइव । द्यौः । उ॒त । स्तो॒तार॑म् । म॒घऽवा॑ । वसौ॑ । धा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṣiyantaṃ* ← *kṣiyantam* ← *kṣi*
 - \[verb noun\], accusative, singular
@@ -127,41 +127,41 @@ genre M
 । पूर्वीः ।: ॥११॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are the **Maghavan** who makes one man destitute, another prosperous, who (scatters from his worshipper) the accusative ulated dust (of sin), the destroyer (of foes), like the heaven with the thunderbolt, Maghavan conducts his worshipper to wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He deprives the man dwelling peacefully of his peace. The bounteous  one raises the dust in confusion,  
 a shatterer like Heaven with its missiles. But the bounteous one places  his praiser in goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 samóham is derived by Grassmann (/MonWms) from sám √ūh ‘push together’. But √ūh does not have a full-grade oh in Vedic and is plausibly related to √vah (see EWA s.v., with lit.). Better to analyze as sa-móham and derive it from √muh ‘be confused’. The same analysis should probably be applied to the differently accented samohé in I.8.6.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Maghavan makes the settled man unsettled: he scatters dust that he hath swept together,  
      Breaking in pieces like Heaven armed with lightning: Maghavan shall enrich the man who lauds h;m.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er macht den Einen, der ruhig haust, zu einem Unbehausten. Der Freigebige treibt den Staub in dichten Haufen auf, zerschmetternd wie der Keile schleudernde Himmel, und der Freigebige bringt den Sänger zu Reichtum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den macht er wohnungslos, den macht er wohnend; der Mächt'ge regt zusammenwirbelnd Staub auf, Zerschmetternd, wie der Himmel mit dem Blitzstein, und schenket Gut dem Sänger, er, der reiche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Любого живущего в мире ты превращаешь в неживущего в мире.  
 Щедрый (бог) поднимает пыль клубами,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म्मिश्लो अरुषो꣡ भव  
 सूपस्था꣡भिर् न꣡ धेनु꣡भिः  
 सी꣡दञ् छ्येनो꣡ न꣡ यो꣡निम् आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सीद॑म् । श्ये॒नः । न । योनि॑म् । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sammiślo* ← *sammiślaḥ* ← *sammiśla*
 - \[noun\], nominative, singular, masculine
@@ -92,7 +92,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम त्वं **सूपस्थाभिः** शोभनोपस्थानाभिः **धेनुभिः** गोभिः । गोविकारैः पयोभिरित्यर्थः । **संमिश्लः** संमिश्रितः **श्येनो** **न** यथा श्येनः शीघ्रमागत्य स्थानमासीदति तद्वत् **योनिं** स्वकीयं स्थानम् **आ** **सीदन्** । **न** संप्रत्यर्थे । इदानीम् **अरुषः** आरोचमानः **भव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,13 +103,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Sūpasthābhiḥ = śobhanopasthābhiḥ, having a beautiful lap, i.e., affording a secure seat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become a ruddy (bull) mingling with milk-cows as if with (ladies) with  lovely laps,  
 sitting like a falcon on your womb.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in 16b, the simile in b seems to consist only of what precedes the ná, namely sūpasthā́bhiḥ, while dhenúbhiḥ constitutes the frame. So also Geldner, Renou
 
@@ -123,23 +123,23 @@ Little evidence of unity, though 19 and 20 share ‘smashing’ and 20 and 21 co
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Red-hued, be blended with the milk that seems to yield its lovely breast,  
      Falcon-like resting in thine home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Werde rötlich, wenn du dich mit den Milchkühen vermischst wie mit Frauen, die einen schönen Schoß haben! Setze dich auf deinen Platz wie ein Falke auf sein Nest!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Kühen misch, o rother, dich die gern dir öffnen ihren Schooss, Und setz' dich wie ein Aar ins Nest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Красноватый, смешивайся  
 С дойными коровами, словно с прекраснолонными (женами),  

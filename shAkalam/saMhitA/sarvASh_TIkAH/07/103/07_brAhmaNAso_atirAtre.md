@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्राह्मणा꣡सो अतिरात्रे꣡ न꣡ सो꣡मे  
 स꣡रो न꣡ पूर्ण꣡म् अभि꣡तो व꣡दन्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡न् मण्डूकाः प्रावृषी꣡णम् बभू꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सं॒व॒त्स॒रस्य॑ । तत् । अह॒रिति॑ । परि॑ । स्थ॒ । यत् । म॒ण्डू॒काः॒ । प्रा॒वृ॒षीण॑म् । ब॒भूव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brāhmaṇāso* ← *brāhmaṇāsaḥ* ← *brāhmaṇa*
 - \[noun\], nominative, plural, masculine
@@ -120,7 +120,7 @@ popular
 रात्रिमतीत्य वतन्ते इत्यतिरात्रः अतिरात्रे न सोमे । यथा अतिरात्राख्ये सोमयागे ब्राह्मणासो ब्राह्मणाः रात्रौ स्तुतशस्त्राणि पर्यायेण शंसन्ति हे मण्डूकाः द्वितीयोनशब्दः सम्प्रत्यर्थे न सम्प्रति पूर्णं सरः अभितः सर्वतः तथा वदन्तः रात्रौ शब्दं कुर्वाणायूयं तदहः तद्दिनं परिष्ठ परितः सर्वतोभवथ यदहः प्रावृषीणं प्रावृषेण्यं प्रावृषिभवं बभूव तस्मिन्नहनि सर्वतोवर्तमानाभवथेत्यर्थः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,14 +131,14 @@ popular
 Croaking: rātrau śabdam kurvāṇaḥ; the atirātra rite is a noctural ceremony,when the priests recite the hymns at night; rātrim atītya vartate ityatirātraḥ yathātirātrākhye somayāgebrāhmaṇā rātrau stutaśāstrāṇi paryāyeṇa śaṃsanti
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like brahmins at an “Overnight” soma ritual, speaking around (a soma  vessel) full like a pond,1014 VII.104  
 you cycle around to that day of the year, which, o frogs, is the one  
 marking the rainy season.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first ritual application is that of the Atirātra or “Overnight” soma ritual. Frogs are generally nocturnal; they are active during the day only if the weather is rainy or very humid. So, the first signal to humans of the frogs’ emergence from estivation would be the sound of the nocturnal frog chorus when the rain supplied them with the impetus to emerge. Hence they are compared to brahmins at an Overnight ritual speaking around a soma vessel configured as a pond.
 
@@ -155,28 +155,28 @@ With the behavioral model of the frogs established in the first 6 vss., the next
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Brahmans, sitting round the brimful vessel, talk at the Soma-rite of Atiratra,  
      So, Frogs, ye gather round the pool to honour this day of all the year, the first of Rain-time.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 As Brahmins at the mighty Soma offering Sit round the large and brimming vessel talking; So throng ye all around the pool to hallow This annual day that, frogs, begins the rain-time.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Brahmanen an der Atirata-Feier bei Soma rings um den vollen Teich wie um die volle Kufe sitzend und redend, so bringet ihr Frösche diesen Tag des Jahres zu, der die Regenzeit einleitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Priester bei dem übernächt'gen Soma rings um die volle Kufe lustig singen, So feiert ihr den Jahrestag, o Frösche, an dem die erste Regenzeit beginnet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подобно тому как брахманы на (празднике) атиратра возле сомы  
 Ведут речи вокруг полной (чаши), как вокруг пруда,  

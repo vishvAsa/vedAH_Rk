@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋष्व꣡स् तुव꣡म् इन्दर+ शूर जातो꣡  
 दा꣡सीर् वि꣡शः · सू꣡रियेण सह्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बिभृम꣡सि प्रस्र꣡वणे न꣡ सो꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 गुहा॑ । हि॒तम् । गुह्य॑म् । गू॒ळ्हम् । अ॒प्ऽसु । बि॒भृ॒मसि॑ । प्र॒ऽस्रव॑णे । न । सोम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛṣvas* ← *ṛṣvaḥ* ← *ṛṣva*
 - \[noun\], nominative, singular, masculine
@@ -120,37 +120,37 @@ genre M
 हे **शूर** शौर्यवान् **इन्द्र** **ऋष्वः** महान् दर्शनीयो वा **त्वं** **जातः** जातमात्र एव **दासीः** । उपक्षयकारिणो दासा असुराः । तत्संबन्धिनीः **विशः** प्रजाः **सूर्येण** सूर्यात्मना **सह्याः** अभ्यभवः । तथा **गुहा** गुहायां **हितं** निहितमत एव **गुह्यम्** अदृश्यं वलाख्यमसुरम् **अप्सु** उदकेषु **गूढं** निगूढं कुयवाख्यं च त्वमभिभूतवानसि । वयमपि **प्रस्रवणे** प्रवर्षणे सति । नः संप्रत्यर्थे । संप्रति **सोमं** बिभृमसि त्वदर्थं बिभृमः धारयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hero **Indra**, who are mighty, may you as soon as you are born overcome with **Sūrya** the races of theDāsas, and the fugitive (**Vala**) lurking in secrecy, hidden in the waters; we now present to you the **Soma** in acopious stream. your praisers; may we be of those who gratify (you) with Soma libations; to you, O car-borne indra, these(praises are offered) with sacrificial viands.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Lofty were you when you were just born, o champion Indra. Along with  the sun, you should overcome the Dāsa clans,  
 (as you did) the one placed in hiding, fit to be hidden, hidden in the  
 waters [=Vr̥tra]. We offer soma as if in a gushing (stream).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sublime from birth, mayst thou O Indra, Hero, with Surya overcome the Dasa races.  
      As by a fountain's side, we bring the Soma that lay concealed, close-hidden in the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Held Indra, als Recke geboren, mögest mit der Sonne die dasischen Stämme überwinden. Den im Versteck befindlichen, sich versteckenden, im Wasser versteckten Soma bringen wir dir, wie an der Quelle sitzend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhaben bist, Held Indra, du geboren, bezwing die Feindesstämme mit der Sonne, Wir bringen dir den Soma wie im Strome, ihn, der geheim versteckt lag in den Wassern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра-герой, родился выдающимся.  
 Пусть осилишь ты вместе с Сурьей дасовы племена!  

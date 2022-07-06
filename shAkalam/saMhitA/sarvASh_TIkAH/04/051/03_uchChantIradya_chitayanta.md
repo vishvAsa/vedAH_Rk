@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उछ꣡न्तीर् अद्य꣡ चितयन्त भोजा꣡न्  
 राधोदे꣡याय उष꣡सो मघो꣡नीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡बुध्यमानास् त꣡मसो वि꣡मध्ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒चि॒त्रे । अ॒न्तरिति॑ । प॒णयः॑ । स॒स॒न्तु॒ । अबु॑ध्यमानाः । तम॑सः । विऽम॑ध्ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ucchantīr* ← *ucchantīḥ* ← *vas*
 - \[verb noun\], nominative, plural
@@ -112,7 +112,7 @@ genre M
 **अद्य** अस्मिन् दिने **उच्छन्तीः** तमः विवासयन्त्यः **मघोनीः** धनवत्यः **उषसः** **भोजान्** भोजयितॄन् यजमानान् तेषां **राधोदेयाय** सोमादिधनदानाय **चितयन्त** प्रज्ञापयन्ति । **अचित्रे** अचायनीये **तमसो** **विमध्ये** । अत्यन्तगाढान्धकारे इत्यर्थः । तत्र **पणयः** वणिज इवादातारः **अयुध्यमानाः** **ससन्तु** स्वपन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,13 +123,13 @@ genre M
 The churlish traffickers: paṇaya = **vaṇijaḥ**, i.e., adātāraḥ, non-givers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dawning today, the bounteous Dawns brighten the benefactors for the  giving of largesse.  
 In (a place) without brightness let the niggards sleep, unawakening in  the middle of darkness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The multivalent stem citáya- is here used in transitive value (see my disc. in
 
@@ -137,23 +137,23 @@ The multivalent stem citáya- is here used in transitive value (see my disc. in
 active of the usual type (see my 1979 IIJ article).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dispelling gloom this day the wealthy Mornings urge liberal givers to present their treasures.  
      In the unlightened depth of darkness round them let niggard traffickers sleep unawakened.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei ihrem Hellwerden mögen die gabenreichen Usas´ heute die Freigebigen erleuchten, auf daß sie Belohnung gewähren. Im Unerhellten sollen die Knauser weiter schlafen, ohne zu erwachen, ganz im Finstern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie mögen willig heut die Spender reizen zum Schatzverleihn, die reichen Morgenröthen; Im finstern Raume lasst die Geiz'gen schlafen, sie nicht erwachen in des Dunkels Mitte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажигаясь сегодня, щедрые зори  
 Пусть заметят покровителей жертвы, чтоб даровать (им) милость.  

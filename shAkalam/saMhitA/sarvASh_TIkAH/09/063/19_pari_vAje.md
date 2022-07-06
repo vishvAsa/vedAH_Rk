@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि वा꣡जे न꣡ वाजयु꣡म्  
 अ꣡व्यो वा꣡रेषु सिञ्चत  
 इ꣡न्द्राय म꣡धुमत्तमम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रा॑य । मधु॑मत्ऽतमम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -75,20 +75,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वाजयुं** युद्धकामं **मधुमत्तमम्** अतिशयेन मधुमन्तं सोमम् **इन्द्राय** इन्द्रार्थं **अव्यः** अवेः **वारेषु** वालेषु दशापवित्रे **वाजे** **न** युद्ध इव हे ऋत्विजः **परि** **षिञ्चत** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sprinkle upon the woollen fleece for **Indra** the most sweet (**Soma**), desiring battle as if in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As if sprinkling a prize-seeking (horse) when the prize (is set), sprinkle  prize-seeking (soma) in circles onto the sheep’s fleece,  
 (the soma) most honeyed for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains a fairly clever double meaning: the verb pári √sic means ‘sprinkle around / in circles’. When soma is the object, as it generally is, it refers to the sprinkling of the drops of soma; in other words, the acc. expresses the material that is being sprinkled. But here in the simile vā́je ná vājayúm, the acc. vājayúm ‘prize-seeking’ refers to a horse in a race or contest, which would be the target or the goal of the sprinkling, with some type of liquid being sprinkled upon it. The word play is cleverer still, in that vājayúm should be read twice, both as referring to the horse in the simile and to soma, which is elsewhere modified by this word (e.g., IX.44.4 sá naḥ pavasva vājayúḥ), in the frame.
 
@@ -107,23 +107,23 @@ As for internal connections, see dhībhíḥ (20b, 21a), víprāḥ (20b, 21c), 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra pour ye on the fleece him very sweet to taste, who longs.  
      For battle as it were in war.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gießet ihn auf die Schafhaare, wie man den um den Siegerpreis wettlaufenden Renner begießt, den Süßesten für Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergiesset durch des Widders Haar dem Indra ihn, den süssesten, Der wie beim Wettlauf Preis erstrebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

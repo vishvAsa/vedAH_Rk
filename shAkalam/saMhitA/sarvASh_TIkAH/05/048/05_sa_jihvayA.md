@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ जिह्व꣡या च꣡तुरनीक ऋञ्जते  
 चा꣡रु व꣡सानो व꣡रुणो य꣡तन्न् अरि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡तो भ꣡गः सविता꣡ दा꣡ति वा꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । तस्य॑ । वि॒द्म॒ । पु॒रु॒ष॒त्वता॑ । व॒यम् । यतः॑ । भगः॑ । स॒वि॒ता । दाति॑ । वार्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -138,7 +138,7 @@ genre M
 **सः** अग्निः **चतुरनीकः** चतुर्दिक्षु प्रसृतज्वालः सन् **जिह्वया** **ऋञ्जते** गच्छति घृतादिकम् । यद्वा । जिह्वया चतुरनीकः सन् ऋञ्जते अलंकरोति स्वात्मानम् । किं कुर्वन् । **चारु** रमणीयं तेजः **वसानः** आच्छादयन् **वरुणः** तमोवारकः सन् **अरिम्** अमित्रं **यतन्** उद्धरन् । **तस्य** । तमित्यर्थः । तं **न** **विद्म** न जानीमः **वयं** **पुरुषत्वता** पुरुषत्वेन कामानां पूरकत्वेन वा युक्तम् ॥ अपरो भावप्रत्ययः पूरणः ॥ **यतः** अयं **भगः** महान् भजनीयः **सविता** प्रेरको देवः **दाति** यच्छति **वार्यं** वरणीयं धनम् ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,36 +149,36 @@ genre M
 We know him not as endowed: na tasya vidma puruṣatvata vayam: tasya = tam, we do not know him; joined with or possessed of yuktam, manliness, puruṣatvena, or the property of fulfilling desires, kāmānām pūrakatvena
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The four-faced one stretches with his tongue out straight, wearing  pleasing (garb), putting the stranger in place (as) Varuna (does).  
 We do not know, because of our human state, that (source?) from which  Bhaga and Savitar will give what is choice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner emends váruṇo to áruṇo ‘the reddish one’, but this seems completely unnecessary. Although putting people in their places (generally jána- √yat) is ordinarily Mitra’s duty not Varuṇa’s, these closely linked gods trade off qualities.
 
 That there is no simile marker is not surprising; gods are often equated directly with other gods when they perform the others’ functions. See, e.g., the series of identifications of Agni with other gods in II.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Four-faced and nobly clad, Varuna, urging on the pious to his task, stirs himself with the tongue.  
      Naught by our human nature do we know of him, him from whom Bhaga Savitar bestows the boon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vierseitige tut sich mit der Zunge hervor, sich schön kleidend, der Rötliche, es einem hohen Herren gleichtuend. So begreifen wir das nach Menschenart nicht, woher Bhaga, der Zuweiser, die wünschenswerte Gabe gibt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der vierantlitzig mit der Zunge vorwärts strebt, mit Gut verseh'n zum Treuen geht, ist Varuna, Nicht kennen wir nach Menschen Weise jenen Ort, von wo Erwünschtes Bhaga schenkt und Savitar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот четырехликий языком прорывается вперед,  
 Рядясь в милую (одежду), Варуна, приводящий в порядок врага.  

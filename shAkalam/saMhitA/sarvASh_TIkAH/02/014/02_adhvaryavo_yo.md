@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवो यो꣡ अपो꣡ वव्रिवां꣡सं  
 वृत्रं꣡ जघा꣡न अश꣡न्येव वृक्ष꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एष꣡ इ꣡न्द्रो अर्हति पीति꣡म् अस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्मै॑ । ए॒तम् । भ॒र॒त॒ । त॒त्ऽव॒शाय॑ । ए॒षः । इन्द्रः॑ । अ॒र्ह॒ति॒ । पी॒तिम् । अ॒स्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -120,36 +120,36 @@ genre M
 हेअध्वर्यवः यइन्द्रः अपउदकानिवव्रिवांसंआवृत्यस्थितंवृत्रं वृणोत्याकाशमितिवृत्रोमेघः तम्मेघं- वज्रेणजघानहतवान् अशन्येव यथाअशन्यावैद्युताग्निनावृक्षन्दहतितद्वत् तस्मैतद्वशायसोमकामाय- तस्माइन्द्रायएतंसोमम्भरत उत्तरवोदिम्प्रतिहरत एषइन्द्रः अस्यसोमस्यपीतिम्पानमर्हति ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Priests, offer the libation to him who slew the rain-arresting **Vṛtra**, as (he strikes down) a tree with (his) thunderbolt; to him who desires it; and **Indra** is worthy of (**Soma**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus! Who struck, like a tree with a spear, Vr̥tra, who had enclosed  the waters,  
 to him bring this (soma) since he desires it. This Indra deserves to drink it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye ministers, to him who with the lightning smote, like a tree, the rain-withholding Vrtra-  
      Bring it to him, him who is fain to taste it, a draught of this which Indra here deserveth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Der den Wasser sperrenden Vritra erschlagen hat wie einen Baum mit einem Blitze, dem traget diesen Soma auf, der darnach verlanget ! Dieser Indra hat das anrecht auf dessen Trunk.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Priester ihm, der schlug den Flut-verberger, den Vritra treffend, wie mit Blitz den Baumstamm, Bringt diesen Soma dem, der ihn begehret, Indra allein ist würdig, ihn zu trinken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью! Кто убил Вритру, сокрывшего  
 Воды, как дерево (раскалывает) молнией, –  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वो विं꣡ न꣡ द्रुष꣡दं देव꣡म् अ꣡न्धस  
 इ꣡न्दुम् प्रो꣡थन्तम् प्रव꣡पन्तम् अर्णव꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡हिव्रतं न꣡ सर꣡जन्तम् अ꣡ध्वनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ॒सा । वह्नि॑म् । न । शो॒चिषा॑ । वि॒ऽर॒प्शिन॑म् । महि॑ऽव्रतम् । न । स॒रज॑न्तम् । अध्व॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -129,36 +129,36 @@ genre M
 हे स्तोतारः **वः** यूयं **तम्** अप्तिमभिष्टुत । कीदृशम् । **विं** **न** पक्षिणमिव **द्रुषदम्** । दुर्वृक्षः । अरणिलक्षणे वृक्षे सीदन्तं **देवं** द्योतमानम् **अन्धसः** **इन्दुं** स्तोतॄणामन्नस्य क्लेदयितारं प्रापयितारम् ॥ ‘ उन्देरिच्चादिः' ( उ. सू. १. १३ ) इत्युप्रत्ययः । ‘ नित्' इत्यनुवृत्तेराद्युदात्तत्वम् ॥ **प्रोथन्तं** शब्दायमानं **प्रवपन्तम्** अत्यर्थं वनानां दाहकम् **अर्णवम्** ॥  अर्णसः सलोपश्च' इति मत्वर्थीयो वः ॥ ‘ अग्नौ प्रास्ताहुतिः' इत्यादिक्रमेण उदकवन्तम् **आसा** ॥ आस्यशब्दस्य 'पद्दन्  इत्यादिनासन्नादेशः । वर्णलोपश्छान्दसः ॥ आस्येन **वह्निं** हविषां वोढारम् । यद्वा । आसा । अन्तिकनामैतत् । देवानां समीपे हविषां प्रापकम् । वहने दृष्टान्तः । वह्निं न । ' वह्निर्वा अनड्वान् ' ( तै, ब्रा. १. ८. २. ५ ) इति श्रवणादनड्वाहमिव वहने समर्थं **शोचिषा** स्वदीप्त्या **विरप्शिनम्** । महन्नामैतत् । महान्तं **महिव्रतं** **न** महाकर्माणमादित्यमिव **अध्वनः** **सरजन्तम्** । मार्गान् सह युगपदेव' रञ्जयन्तम् । एवं गुणमग्निमभिष्टुत ॥ सरजन्तम् । ‘ रञ्ज रागे'। रञ्जेः शतरि ‘ रञ्जेश्च' ( पा. सू. ६. ४. २६ ) इति नलोपे सहस्य सभावे व कृते रूपम् । यद्वा । सरतीति सरः । सरस्योदकस्य जनयितारम् । जनेः तप्रत्यये कृते रूपमिति वा । व्युत्पत्त्यनवधारणादनवग्रहः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Glorify) him, (worshippers), the divine, like a bird seated upon a tree, demanding sacrificial food,clamorous, wood-consuming, water-shedding, like one bearing (the oblation) in his mouth, mighty with radiance,simultaneously illuminating the paths, like the great functionary (the sun).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him (I invoke) for you—the god sitting on the wood like a bird in a tree,  (like) the drop from the stalk in the wooden cup, snorting, shaving  (the ground), undulating,  
 the conveyor (of the oblations) with his mouth like a draft-horse,  abundant with flame, like someone with a great commandment racing  along the ways.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise him, yourGod who, bird-like, rests upon a tree, scattering drops of juice and pouring forth his flood,  
      Speaking aloud with flame as with his lips a priest, and broadening his paths like one of high command.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen euren Gott preise ich, der wie ein Vogel im Holze auf dem Baum sitzt, wie der Trank der Somapflanze, schnaubend, abscheerend, flutend, der wie ein Wortführer mit dem Munde das Opfer führt, überquellend von Glut, der seine Wege zurücklegt wie einer, der einen hohen Auftrag hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Preist euren Gott, der auf dem Holz als Vogel sitzt, des Krautes Tropfen sprüht und Feuerwogen streut, Gleich dem, der darbringt, schwellend mit der Flamme Glut, gleich mächt'gem Herrscher seine Wege weit verzweigt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Я восхваляю) этого вашего бога, сидящего в древесине, как птица (на дереве),  
 (Как) сок растения сомы (в деревянном сосуде), пыхтящего, бреющего, бурного,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मन्यु꣡र् इ꣡न्द्रो मन्यु꣡र् एवा꣡स देवो꣡  
 मन्यु꣡र् हो꣡ता व꣡रुणो जात꣡वेदाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पाहि꣡ नो मन्यो त꣡पसा सजो꣡षाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 म॒न्युम् । विशः॑ । ई॒ळ॒ते॒ । मानु॑षीः । याः । पा॒हि । नः॒ । म॒न्यो॒ इति॑ । तप॑सा । स॒ऽजोषाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *manyur* ← *manyuḥ* ← *manyu*
 - \[noun\], nominative, singular, masculine
@@ -127,36 +127,36 @@ popular
 अयं **मन्युरिन्द्रः** **मन्युरेव** **देवः** सर्वोऽपि मन्युरेव **आस** अभवत् । **मन्युः** एव **होता** होमनिष्पादकोऽग्निः । तथा मन्युः **वरुणः** अपि **जातवेदाः** जातप्रज्ञो वरुणश्च । सर्वेष्वपि तेजस्विषु । मन्युसद्भावात् । **याः** **मानुषीः** मनुषोऽपत्यभूताः **विशः** प्रजाः सन्ति ताः **मन्युं** एव देवम् **ईळते** स्तुवन्ति । हे **मन्यो** **तपसा** एतन्नामकेनास्मत्पित्रा **सजोषाः** समानप्रीतिस्त्वं **पाहि** रक्ष ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Manyu** is **Indra**; Manyu verily was a god; Manyu is the sacrificing priest (**Agni**), the omniscient **Varuṇa**;the people who are of human descent, praise Manyu; protect us, Manyu, well plural ased along with **Tapas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Battle Fury was Indra, just Battle Fury was (every?) god; Battle Fury was  the Hotar, Varuṇa, Jātavedas.  
 Battle Fury do the clans that stem from Manu reverently invoke. Protect  us, Battle Fury, in concert with Fervor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Manyu was Indra, yea, the God, was Manyu, Manyu was Hotar, Varuna, Jatavedas.  
      The tribes of human lineage worship Manyu. Accordant with thy fervour, Manyu, guard us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Manyu ward Indra, Manyu selbst ward jeder Gott, Manyu der Hotri, Varuna, Jatavedas. Den Manyu rufen die menschlichen Stämme an: Schütze uns, Manyu, im Verein mit Tapas!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von je ist Manju Indra, Manju Gott auch, er Varuna, er Priester, Wesenkenner; Den Manju preist die Schar der Menschenstämme mit Glut vereinigt schütze du uns, Manju.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

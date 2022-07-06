@@ -6,7 +6,7 @@ ChandaH = "पदपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एभि꣡र् नो अर्कइ꣡र्  
 भ꣡वा नो अर्वा꣡ङ्  
@@ -14,7 +14,7 @@ ChandaH = "पदपङ्क्तिः"
 अ꣡ग्ने वि꣡श्वेभिः सुम꣡ना अ꣡नीकैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अग्ने॑ । विश्वे॑भिः । सु॒ऽमनाः॑ । अनी॑कैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
@@ -101,48 +101,48 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **अग्ने** **ज्योतिः** ज्योतिष्मान् **स्वर्ण** सूर्य इव तथा **विश्वेभिः** विश्वैः समस्तैः **अनीकैः** तेजोभिः **सुमनाः** शोभनमनस्कस्त्वं **नः** अस्मदीयैः **एभिः** एतैः '“अर्कैः अर्चनीयैः स्तोत्रैः **नः** अस्माकम् **अर्वाङ्** अभिमुखः **भव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who like the sun are light, propitiated by these our hymns, come to our presence with all your hosts (of radiance).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By reason of these recitations of ours become inclined our way like  sunlight,  
 well disposed with all your faces, o Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because it begins the second 5-syllable pāda, bhávā is correctly accented.
 
 svàr ṇá jyótiḥ could be take as a quasi-compound in the Renou mode, or it is possible that svàr indirectly continues an old gen. sg. See comm. ad II.35.6. Or svàr and jyótiḥ can be taken not as a single expression but syntactically separate, as Oldenberg (SBE) and Witzel Gotō do in different ways. I weakly favor the gen. interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through these our praises come thou to meet us, bright as the sunlight,  
      O Agni, well disposed, with all thine aspects.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Through these our hymns direct thyself hither-wards to us like the sun with its light 1, O Agni, gracious with all thy faces.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Werde du durch diese Preislieder uns zugeneigt wie das Sonnenlicht und freundlich mit allen Gesichtern, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch diese Lieder – sei nah' uns immer, – wie Glanz des Himmels, Mit allen Flammen holdgesinnt uns immer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря этим нашим песням  
 Обратись в нашу сторону,  

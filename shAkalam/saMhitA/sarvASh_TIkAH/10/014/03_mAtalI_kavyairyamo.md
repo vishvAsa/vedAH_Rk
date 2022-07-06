@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡तली कव्यइ꣡र् यमो꣡ अ꣡ङ्गिरोभिर्  
 बृ꣡हस्प꣡तिर् ऋ꣡क्वभिर् वावृधानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वा꣡हा अन्ये꣡ स्वध꣡यान्ये꣡ मदन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यान् । च॒ । दे॒वाः । व॒वृ॒धुः । ये । च॒ । दे॒वान् । स्वाहा॑ । अ॒न्ये । स्व॒धया॑ । अ॒न्ये । म॒द॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mātalī* ← *mātali*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ popular
 **मातली** । मातलिरिन्द्रस्य सारथिः । तद्वानिन्द्रो मातली । स च **कव्यैः** कव्यभाग्भिः पितृभिः सह **ववृधानः** वर्धमानो भवति । **यमः** च **अङ्गिरोभिः** पितृविशेषैः सह वर्धमानो भवति । - - - । तत्र **देवाः** इन्द्रादयः **यांश्च** कव्यभागादीन् पितॄन् **ववृधुः** वर्धयन्ति **ये** **च** कव्यभागादयः पितरः **देवान्** इन्द्रादीन् वर्धयन्ति तेषां मध्ये **अन्ये** इन्द्रादयः **स्वाहा** **मदन्ति** स्वाहाकारेण हृष्यन्ति । **अन्ये** पितरः **स्वधया** स्वधाकारेण हृष्यन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ popular
 MātaliṅMātalī is the name of the charioteer of **Indra**; so Mātalin (having **Mātalī**) is a name of Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mātalī having been strengthened along with the poets, Yama with the  Aṅgirases, Br̥haspati with the versifiers,  
 both those whom the gods strengthen and who strengthen the gods— the ones [=gods] become exhilarated on (the cry) “svāhā,” the others  [=forefathers] on “svadhā.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mitali prospers there with Kavyas, Yama with Angiras' sons, Brhaspati with Rkvans:  
      Exalters of the Gods, by Gods exalted, some joy in praise and some in our oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Matali mit den Kavya´s, Yama mit den Angiras, Brihaspati von den Sängern erhöht, welchen die Götter zur Erhöhung verholfen haben und welche den Göttern: die einen ergötzen sich unter Svaharuf, die anderen an der Götterspeise.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dort freut sich Matali mit Kavja's, Jama mit Angiras, Brihaspati mit Rikvan's, Gelabt von Göttern sie, von diesen jene, durch Heilsruf jene, und durch Trank die andern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Матали с Кавьями, Яма с Ангирасами,  
 Брихаспати, возвеличенный песнопевцами,  

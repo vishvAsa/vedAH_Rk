@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡श् चिद् आ꣡ ते रुचयन्त रोका꣡  
 उषो꣡ विभाती꣡र् अ꣡नु भासि पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हो꣡तुर् मन्द्र꣡स्य पन꣡यन्त देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒पः । यत् । अ॒ग्ने॒ । उ॒शध॑क् । वने॑षु । होतुः॑ । म॒न्द्रस्य॑ । प॒नय॑न्त । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
@@ -120,41 +120,41 @@ genre M
 हेअग्ने यत् यदा वनेषुअरण्येषु अपःउशधक् कामयमानोदहंश्चवर्तसे तदातेरोकाः त्वदीया दीप्तयः दिवश्चित् सूर्यादपि आरुचयन्त आरोचन्ते विभातीः विशेषेणभातीः प्रकाशमानाः पूर्वीःपुराणीः उषःउषसः अनुभासि मन्द्रस्यस्तुत्यस्य होतुःतवरोकान् देवाःस्तोतारः पनयन्त स्तुवन्ति ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, **Agni**, you abide in the woods, consuming the waters at your plural asure, then your rays illuminate the heavens, and you shine like many former radiant dawns; the gods themselves commend (the brilliancy) of their praise-meriting invoker.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your shining rays shine here even to heaven; you become radiant along  with the many far-radiant dawns,  
 when, o Agni, the gods marvel at your busy burning at will among the  wood, (the burning) by the delightful Hotar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even from the sky thy brilliant lights shone hither: still hast thou beamed through many a radiant morning,  
      That the Gods praised their joyous Herald's labour eagerly burning, Agni, in the forests.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Even from heaven thy shining lights have shone; thy splendour follows many resplendent dawns, when the gods, O Agni, praised the cheerful Hotri's work 2 who eagerly burns in the forests 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bis zum Himmel leuchten deine Leuchten; den vielen erglänzenden Morgenröten glänzest du nach, während deiner gierig in den Hölzern brennenden Tätigkeit, des wohlredenden Hotri, die Götter Beifall spenden, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel her auch strahlen deine Lichter, du leuchtest nach den vielen lichten Morgen, Wenn du im Holz die Säfte gierig aufzehrst und Götter sich des lieben Priesters freuen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твои отблески светят до самого неба.  
 Ты сверкаешь вслед многочисленным ярко сверкающим зорям,  

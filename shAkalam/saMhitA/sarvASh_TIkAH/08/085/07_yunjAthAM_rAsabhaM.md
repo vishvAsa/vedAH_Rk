@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युञ्जा꣡थां रा꣡सभं र꣡थे  
 वीडु꣡अङ्गे वृषण्वसू  
 म꣡ध्वः सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मध्वः॑ । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuñjāthāṃ* ← *yuñjāthām* ← *yuj*
 - \[verb\], dual, Present imperative
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **वृषण्वसू** वर्षणशीलधनवन्तावश्विनौ युवां **वीड्वङ्गे**। वीळुर्दृढः । दृढाङ्गोपेते स्वरथे **रासभं** शब्दायमानमेतन्नामकमश्वं युञ्जाथां संयोजयतम् । किमर्थम् । **मध्वः** **सोमस्य** **पीतये** इति । रासभावश्विनोः' इति रासभावेवाश्विनो रथस्य वाहनौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,29 +92,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 The verse is addressed to the **Aśvins** or the **Adhvaryu** priest and the sacrificer; or to thesacrificer and his wife
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hitch the donkey to the chariot whose parts are solid, o you who bring  bullish goods,  
 to drink of the honeyed soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yoke to the firmly jointed car the ass which draws you, Lords of wealth.  
      To drink the savoury Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schirret den Esel an den Wagen, dessen Teile fest sind, ihr Schätzereiche, um vom süßen Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An euren festen Wagen schirrt den Esel, heldenstarke ihr, Zum Trunk des süssen Somasafts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запрягайте осла в колесницу  
 С прочными частями, о полные мужских сил,  

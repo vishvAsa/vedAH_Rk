@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुक्र꣡स्याद्य꣡ ग꣡वाशिर  
 इ꣡न्द्रवायू नियु꣡त्वतः  
 आ꣡ यातम् पि꣡बतं नरा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 आ । या॒त॒म् । पिब॑तम् । न॒रा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śukrasyādya* ← *śukrasya* ← *śukra*
 - \[noun\], genitive, singular, masculine
@@ -80,20 +80,20 @@ genre M
 हेनरानेतारौ हेइन्द्रवायू अद्यास्मिन्नहनिनियुत्वतः विभक्तिव्यत्ययः नियुत्वन्तौ युवां गवा शिरः गव्यम्पयः आशीराश्रयणसाधनंयस्य तस्यशुक्रस्यदीप्तस्य सोमस्य पानार्थं आयातं आगच्छ तं आगत्यसोमम्पिबतम् ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders (of rites), **Indra** and **Vāyu**, lords of the **Niyut** steeds, come and drink today the mixture of milk and of the pure **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of the clear (soma) today and of the one mixed with milk, with its  teams, o Indra and Vāyu—  
 drive here and drink it, men!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The stem niyútvant- (3b) is repeated from 1c and 2a, as noted above, but here as an apparent gen. sg. modifying the soma drink (or rather one of them), not a god or gods. Geldner (n. 3b) suggests that it is a metrically conditioned “hypallage” for dual niyútvantā, which would qualify Indra and Vāyu. This is a clever idea and would restore parallelism to the phraseology of the tṛca, though I’m not sure that’s necessary: Rigvedic poets enjoy tweaking parallelism in the syntactic equivalent of a slant rhyme. Oldenberg floats a truly oddball idea, unworthy of his usual acuity: that niyútvant- should modify an unexpressed ráthena but in the absence of a head noun in the proper case it gets sucked [not Oldenberg’s term] into the gen. by the “benachbarte” gen. Even if this were a reasonable explanation in principle -- that an untethered adj.
 
@@ -110,23 +110,23 @@ This tṛca is characterized by lexical chaining. The first pāda of vs. 2 repri
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Vayu, drawn by teams, ye Heroes, come today and drink.  
      Of the bright juice when blent with milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dem klaren, von dem mit Milch gemischten Soma, der mit dem Niyutgespann fährt, kommt heut und trinkt, ihr Herren Indra und Vayu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von diesem milchgemischten trinkt, dem reinen, vielbespannten heut, O Männer Indra, Vāju kommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Испейте сегодня прозрачного,  
 Смешанного с молоком (сомы), о Индра-Ваю,  

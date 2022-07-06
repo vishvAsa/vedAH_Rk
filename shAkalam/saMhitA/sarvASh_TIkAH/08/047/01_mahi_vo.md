@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡हि वो महता꣡म् अ꣡वो  
 व꣡रुण मि꣡त्र दाशु꣡षे  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M
 यम् । आ॒दि॒त्याः॒ । अ॒भि । द्रु॒हः । रक्ष॑थ । न । ई॒म् । अ॒घम् । न॒श॒त् । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahi*
 - \[noun\], nominative, singular, neuter
@@ -139,40 +139,40 @@ genre M
 हे **वरुण** हे **मित्र** । एतद्द्वयमर्यम्णोऽप्युपलक्षणम् । ६ वरुणादयः **महतां** वः युप्माकम् **अवः** रक्षणं **महि** महत् । कस्मै । **दाशुषे** हविर्दात्रे यजमानाय क्रियमाणम् । किंच हे आदित्याः **यं** यजमानं **द्रुहः** द्रोग्धुः सकाशात् **अभि** **रक्षथ** **ईम्** एनं यजमानम् **अव** **पापं** न **नशत्** न प्राप्नोति । कुत एवमिति तत्रोच्यते । **वः** युष्माकम् ऊतयः रक्षणानि **अनेहसः** अपापान्यनुपद्रवाणि च । **ऊतयः** युष्माकं रक्षणानि सुऊतयः शोभनरक्षणानि । पुनरुक्तिरादरार्था ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Mitra** and **Varuṇa**, you are great, and great is your protection to the offerer; no evil, **Ādityas**, harmshim whom you guard from the injurer; your aids are void of harm, your aids are true aids.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Great is the help, of (all of) you who are great, for the pious man, o  Varuṇa and Mitra.  
 Whomever you protect from deceit, o Ādityas, evil will not reach him. – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although only Mitra and Varuṇa are mentioned in the first hemistich, vo mahatā́m is gen. pl. and must refer to all the Ādityas, who are addressed in the next clause (pāda c).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GREAT help ye give the worshipper, Varuna, Mitra, Mighty Ones! No sorrow ever reaches him whom ye, Adityas, keep from harm. Yours are incomparable aids, and good the succour they afford.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Groß ist euer, der Großen, Schutz, o Varuna, Mitra, für den Opferspender. Wen ihr Aditya´s vor Arglist schützet, den trifft kein Übel. - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr grossen reichet grossen Schutz dem Frommen, Mitra-Varuna; Wen ihr Aditja's vor Gefahr beschützet, den erreicht kein Leid; ganz unvergleichlich ist eur Schutz, und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Велика помощь от вас великих  
 О Варуна, Митра, для почитающего (вас).  

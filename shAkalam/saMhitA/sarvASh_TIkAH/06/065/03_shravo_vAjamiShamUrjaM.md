@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्र꣡वो वा꣡जम् इ꣡षम् ऊ꣡र्जं व꣡हन्तीर्  
 नि꣡ दाशु꣡ष उषसो म꣡र्तियाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वो धात विधते꣡ र꣡त्नम् अद्य꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒घोनीः॑ । वी॒रऽव॑त् । पत्य॑मानाः । अवः॑ । धा॒त॒ । वि॒ध॒ते । रत्न॑म् । अ॒द्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
@@ -113,21 +113,21 @@ genre M
 हे **उषसः** **दाशुषे** हविषां दात्रे **मर्त्याय** **श्रवः** कीर्तिं **वाजं** बलम् **इषम्** अन्नम् **ऊर्जं** रसं च **वहन्तीः** वहन्त्यो यूयं **मघोनीः** धनवत्यः **पत्यमानाः** गच्छन्त्यः **अद्य** **विधते** परिचरते मह्यं **वीरवत्** पुत्रपौत्रादिसहितम् **अवः** अन्नम् । ‘ सिनम् अवः ' इत्यन्ननामसु पाठात् । **रत्नं** धनं च । श्वात्रं रत्नम् ' इति धननामसु पाठात् । **नि** **धात** नितरां धत्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Dawns, bringing fame, and food, sustenance, and strength to the mortal, the donor (of the oblation), abonding in wealth, and proceeding (through the sky), bestow upon the worshiper today food, with **male** descendants and riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bringing down to the pious mortal fame, reward, refreshment,  
 nourishment, o Dawns,864 VI.66  
 as bounteous masters of (wealth) in heroes, establish aid and a treasure  for the one who does honor today.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is much disagreement about this vs.; my interpr. is closest to Oldenberg In my opinion (and in Oldenberg’s too, though he doesn’t use the term ‘gender-bending’), this once again, as in vs. 1, refers to the gender-bending androgyny of Pṛśni who fulfills both maternal and paternal roles in the birth of the Maruts, though Rudra is identified as their father in pāda a.
 
@@ -157,23 +157,23 @@ There is lexical chaining between 3d and 4a with the identical phrase vidhaté r
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dawns, bringing hither, to the man who worships, glory and power and might and food and vigour,  
      Opulent, with imperial sway like heroes, favour your servant and this day enrich him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ruhm, Gewinn, Speisegenuß, Stärkung dem opferspendenden Sterblichen einbringend, gewähret heute dem Verehrer Gunst, Belohnung, da die Gabenreichen über den Besitz von Söhnen verfügen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Morgenröthen, Gut und Labung fahrend und Speis' und Trank dem sterblichen Verehrer; Die ihr gewaltig gleich wie Helden herrschet, gebt Huld und Reichthum heute eurem Diener.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Везя славу, награду, жертвенную усладу, питательную силу  
 Смертному, почитающему (вас), о утренние зори,  

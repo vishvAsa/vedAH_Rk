@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् सु꣡ नो वि꣡श्वे अर्य꣡ आ꣡  
 स꣡दा गृणन्ति कार꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सूरिं꣡ सहस्रसा꣡तमम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 बृ॒बुम् । स॒ह॒स्र॒ऽदात॑मम् । सू॒रिम् । स॒ह॒स्र॒ऽसात॑मम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -100,7 +100,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तत् तं **बृबुं** **नः** अस्मदीया: **विश्वे** सर्वे **अर्यः** स्तुतीनामीरयितारः **कारवः** स्तोतारः **सदा** **सु** सुष्ठु **आ** गृणन्ति अभिगृणन्ति अभिष्टुवन्ति । कीदृशम् । **सहस्रदातमम्** अतिशयेन सहस्रसंख्यस्य धनस्य दातारं **सूरिं** प्राज्ञं यद्वा प्रेरयितारं **सहस्रसातमम्** अतिशयेन सहस्रसंख्यस्य स्तोत्रस्य धनस्य वा संभक्तारम् ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,30 +111,30 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Bṛbu is called Takṣā the carpenter or artificer of the **Paṇis**; the legend is preserved by **Manu** (10.107) and **Nīti** **Mañjarī**: the illustrious **Bharadvāja**, with his son, distressed by hunger in a lonely forest, accepted many cows from the carpenter Bṛbu; the ṛca is attributed to **Sayu**, the son of Bharadvāja; jātito hino api dātṛtvāt **sarvatra** śreṣṭho **bhavati**, a person n inferior by caste becomes everywhere distinguished by genitive rosity
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So then do all our bards always hymn here, away from (the sacrifice) of  the stranger,  
 Br̥bu, the best giver of thousands, the patron, the best winner of  
 thousands.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So all our singers ever praise the pious Brbu's noble deed,  
      Chief, best to give his thousands, best to give a thousand liberal gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das sollen von uns fein alle, auch die hohen Herren wissen: Immerdar preisen die Dichter den Bribu, den größten Tausendschenker, den freigebigen Herren, den größten Tausendspender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Darum rühmen stets alle unsre treuen Sänger den Bribu, der am meisten schenkt, den Fürsten, der am meisten schenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это у нас хорошо (знают) все, (даже) у чужого (в доме):  
 Всегда певцы восхваляют  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ नो वाजा ऋभुक्षण  
 इ꣡न्द्र ना꣡सतिया रयि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पुरु꣡ शस्त मघ꣡त्तये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम् । अश्व॑म् । च॒र्ष॒णिऽभ्यः॑ । आ । पु॒रु । श॒स्त॒ । म॒घत्त॑ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -100,36 +100,36 @@ genre M
 अनया स्तुतिमुपसंहृत्य अभिमतमाशास्ते । हे **वाजाः** हे **ऋभुक्षणः** ऋभवो हे **इन्द्र** हे **नासत्या** अश्विनौ ते यूयं **नः** अस्मभ्यं **चर्षणिभ्यः** मनुष्येभ्यः स्तोतृभ्यः **तं** **पुरु** प्रभूतं **रयिं** धनम् **अश्वं** च पुरु प्रभूतं **मघत्तये** धनदानाय **सम्** **आ** **शस्त** सम्यगाशासनं कुरुत ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Vājas**, Ṛbhukṣaṇs, **Indra**, **Nāsatyas**, command that ample wealth with horses be sent to men for their enrichment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Cut up) that wealth for us, o Vājas, R̥bhukṣans, Indra, and Nāsatyas, (which is the sacrificial) horse from the border lands. Cut it up  
 abundantly to give (us) bounties.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Vajas and Rbhuksans, ye Nasatyas, Indra, bless this wealth,  
      And, before other men's, the steed, that ample riches may be won.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Schatz, ihr Vaja´s, Ribhuksan´s, Indra, Nasatya´s, nämlich das Roß bringet uns von allen Ländern zurück! Schlachtet es, zu reichlicher Beschenkung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Reichthum weist uns, Vadscha's, zu Ribhukschan's, Indra, Ritter ihr, Und Rosse gebt der Männerschar und viele Güter zum Geschenk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваджи, Рибхукшаны,  
 О Индра, о Насатьи, это богатство  

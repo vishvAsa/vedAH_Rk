@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्रानुकामं꣡ च꣡रणं  
 त्रिनाके꣡ त्रिदिवे꣡ दिवः꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 लो॒काः । यत्र॑ । ज्योति॑ष्मन्तः । तत्र॑ । माम् । अ॒मृत॑म् । कृ॒धि॒ । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatrānukāmaṃ* ← *yatra*
 - \[adverb\]
@@ -121,14 +121,14 @@ popular;; epic anuṣṭubh (525);; repeated line
 **यत्र** **त्रिदिवे** तृतीयस्थां दिवि द्युलोके **त्रिनाके** । तत्राधरमध्यमोत्तमभावेन त्रीणि स्थानानि सन्ति । तत्र तृतीये नाके उत्तमे स्थाने **दिवः** आदित्यस्य **अनुकामं** कामानुगुणं **चरणम्** अस्ति । किंच **यत्र** यस्मिँल्लोके **लोकाः** **ज्योतिष्मन्तः** ज्योतिर्युक्तास्तिष्ठन्ति । **तत्र** तादृशे लोके माममृतं **कृधि** । यथा ममोत्तमलोको भवति तथा त्वम् **इन्द्राय** **परि** **स्रव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where in the third heaven, in the third sphere, the sun wanders at will, where the regions are filled with light, there make me immortal; flow, **Indu**, for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where one can move following one’s desire in the three-vaulted,  
 three-heavened (place) of heaven,  
@@ -136,7 +136,7 @@ where there are worlds filled with light, there make me immortal.
 – O drop, flow around for Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
 <details open><summary><h2>08-11 ...{Loading}...</h2></summary>
 
@@ -145,23 +145,23 @@ In addition to the fifth pāda refrain found throughout the hymn (as well as IX.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make me immortal in that realm where they move even as they list,  
      In the third sphere of inmost heaven where lucid worlds are full of light. Flow, Indu, flow for Indra's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo man nach Lust wandeln darf im dreifachen Firmament, im dreifachen Raume des Himmels, wo die lichtvollen Welten sind, dort mache mich unsterblich! Fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo man durch Wunsches Kraft sich regt am dritten höchsten Himmelsdom, Wo glanzbegabt die Räume sind, da mache du unsterblich mich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

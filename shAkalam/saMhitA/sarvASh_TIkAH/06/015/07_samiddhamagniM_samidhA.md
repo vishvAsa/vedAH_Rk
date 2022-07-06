@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡मिद्धम् अग्निं꣡ समि꣡धा गिरा꣡ गृणे  
 शु꣡चिम् पवाक꣡म्+ पुरो꣡ अध्वरे꣡ ध्रुव꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 कविं꣡ सुम्नइ꣡र् ईमहे जात꣡वेदसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विप्र॑म् । होता॑रम् । पु॒रु॒ऽवार॑म् । अ॒द्रुह॑म् । क॒विम् । सु॒म्नैः । ई॒म॒हे॒ । जा॒तऽवे॑दसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samiddham* ← *samindh* ← *√indh*
 - \[verb noun\], accusative, singular
@@ -123,41 +123,41 @@ genre M
 **समिद्धं** सम्यग्दीप्तम् **अग्निं** **समिधा** ससिन्धनहेतुभूतया **गिरा** स्तुत्या **गृणे** स्तौमि । यद्वा । समिधा समिद्भिर्दारुभिः समिद्धं सम्यगिद्धम् । अपि च **शुचिं** स्वयं शुद्धं **पावकं** सर्वेषां शोधकं **ध्रुवं** निश्चलं तमग्निम् **अध्वरे** यज्ञे पुरस्करोमीति शेषः । तथा **विप्रं** मेधाविनं **होतारं** देवानामाह्वातारं **पुरुवारं** बहुभिर्वरणीयम् **अद्रुहम्** अद्रोग्धारं सर्वेषामनुकूलं **कविं** क्रान्तदर्शिनं **जातवेदसं** जातानां वेदितारमग्निं **सुम्नैः** सुखकरैः स्तोत्रैः **ईमहे** संभजामहे । यद्वा द्वितीयार्थे तृतीया । सुम्नानि धनानीमहे याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify with praise the kindled **Agni**, pure purifying, permanent, (plural ced) before (us) at the sacrifice; let us celebrate with plural asant (hymns) the wise Agni, the invoker of the gods, the adored of many, the benevolent, the far-seeing, him who knows all that exists.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni kindled with kindling wood do I hymn with a hymn—the blazing  pure one in front, steadfast at the ceremony,  
 inspired poet, Hotar of many favors, without deceit—the sage poet we  beseech with appeals for grace as Jātavedas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. begins a new tṛca, but seems like a mish-mash of the vss. that precede it. The 1st pāda, sámiddham agníṃ samídhā girā́gṛṇe, telescopes vs. 6: agním-agnim … samídhā (a), gṛṇīṣáṇi (b), gī́rbhiḥ (c). It also contains two etymological figures (sámiddham … samídhā and girā́gṛṇe). The next pāda, śúcim pāvakám puró adhvaré dhruvám, is more eclectic in its sources: śúciḥ (1c), pāvakáyā (5a), svadhvarám (4b); pāda-final dhruvám has no direct correspondent, but resonates with both dúvaḥ (pāda-final in 6e) and adrúham, which ends the next pāda (7c). The first two words of pāda c, vípraṃ hótāram have correspondents in 4c and b respectively. Only pāda d breaks significantly new ground.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni inflamed with fuel in my song I sing, pure, Cleanser, steadlast, set in tront at sacrifice.  
      Wise Jatavedas we implore with prayers for bliss the Priest, the holy Singer, bounteous, void of guile.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den mit Brennholz entflammten Agni lobe ich mit Lobrede, den reinen, lauteren mache ich dauernd zum Vorsitzer bei dem Opfer; den beredten Opferpriester, den vielbegehrten, untrüglichen Seher, den Jatavedas bitten wir mit freundlichen Worten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich preis' mit Lied den Agni, der durch Holz entflammt, hell vor dem Opfer aufgerichtet, brennend steht; Den schätzereichen, holden Sänger, Opferer und Wesenkenner flehn mit Lied, den weisen, wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Огонь, зажженный дровами, я воспеваю песней,  
 Сверкающий, очищающий, прочно (поставленный) впереди на обряде.  

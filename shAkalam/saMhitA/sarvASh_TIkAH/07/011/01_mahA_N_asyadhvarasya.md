@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महाँ꣡ असि अध्वर꣡स्य प्रकेतो꣡  
 न꣡ र्ते꣡ तुव꣡द् अमृ꣡ता मादयन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ अग्ने हो꣡ता प्रथमः꣡ सदेह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । विश्वे॑भिः । स॒रथ॑म् । या॒हि॒ । दे॒वैः । नि । अ॒ग्ने॒ । होता॑ । प्र॒थ॒मः । स॒द॒ । इ॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
@@ -135,36 +135,36 @@ genre M
 हे अग्ने त्वम् **अध्वरस्य** **प्रकेतः** प्रज्ञापनः सन् **महानसि** । **त्वत्** **ऋते** त्वया विना **अमृताः** देवाः **न** **मादयन्ते** न माद्यन्ति। **विश्वेभिः** विश्वैः **देवैः** **सरथं** यथा भवति **आ** **याहि** च । **इह** आस्तीर्णे बर्हिषि **प्रथमः** मुख्यः **होता** आह्वाता सन् **नि** **सद** निषीद च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Great are you, **Agni**, the manifester of the solemnity without you the immortals do not rejoice; come inthe same chariot with all the gods; sit down here the chief, the ministrant priest.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the great sign of the rite; without you the immortals find no  elation.  
 Travel hither in the same chariot with all the gods. Agni, take your seat  here as the first Hotar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GREAT art thou, Agni, sacrifice's Herald: not without thee are deathless Gods made joyful.  
      Come hither with all Deities about thee here take thy seat, the first, as Priest, O Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist die große Leuchte des Opfers; ohne dich ergötzen sich die Unsterblichen nicht. Komm mit allen Göttern auf einem Wagen; nimm, Agni, hier als der Hotri zuerst Platz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist des Festes herrlicher Erleuchter; niemals erfreun sich ohne dich die Götter; Mit allen Göttern komm auf gleichem Wagen und setz dich, Agni, her als erster Priester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты великий предвестник обряда.  
 Без тебя не опьяняются смертные.  

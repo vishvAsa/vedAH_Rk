@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् ईशे बृहतो꣡ अध्वर꣡स्य  
 अग्नि꣡र् वि꣡श्वस्य हवि꣡षः कृत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था देवा꣡ दधिरे हव्यवा꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 क्रतु॑म् । हि । अ॒स्य॒ । वस॑वः । जु॒षन्त॑ । अथ॑ । दे॒वाः । द॒धि॒रे॒ । ह॒व्य॒ऽवाह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -126,36 +126,36 @@ genre M
 **बृहतः** महतः **अध्वरस्य** कौटिल्यरहितस्य यज्ञस्य **अग्निः** **ईशे** ईष्टे । **विश्वस्य** सर्वस्य **कृतस्य** संस्कृतस्य **हविषः** च **अग्निः** एवेष्टे । **हि** यस्मात् **अस्य** अग्नेः **क्रतुं** कर्म **वसवः** देवाः **जुषन्त** सेवन्ते । **अथ** अपि च **देवाः** अग्निं **हव्यवाहं** हव्यानां वोढारं **दधिरे** चक्रिर इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** presides over the solemn rite, over every consecrated oblation; the **Vasus** approved of his acts;the gods have made him the bearer of the offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni is master of the rite reaching aloft; Agni, of every offering that  is made,  
 for the good (gods) rejoice in his intention, and so the gods established  him as the conveyor of oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the lofty sacrifice is Agni, Agni is Lord of every gift presented.  
      The Vasus were contented with his wisdom, so the Gods made him their oblationbearer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni ist Herr über das große Opfer, Agni über jede bereitete Opfergabe, denn die Vasu´s nehmen gern seinen Rat an, und die Götter haben ihn zu ihrem Opferfahrer gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni ist Herr des hohen Opferfestes, und Agni jedes dargereichten Trunkes; Weil seine Kunst den guten Göttern lieb war, so setzten sie ihn ein zum Opferfahrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни распоряжается высоким обрядом,  
 Агни (распоряжается) каждым совершенным возлиянием,  

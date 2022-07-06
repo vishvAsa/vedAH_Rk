@@ -8,7 +8,7 @@ title = "+022"
 “य एक इत्' इत्येकादशर्चं सप्तमं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैन्द्रम् । तथा चानुक्रान्तं-- ‘ य एक एकादश इति । आभिप्लविके प्रथमेऽहनि दशरात्रस्य प्रथमेऽहनि च माध्यंदिनसवने ब्राह्मणाच्छंसिशस्त्रेऽहीनसूक्तस्य स्थाने त्रीणि संपातसूक्तानि । तेष्विदं द्वितीयं सूक्तम् । सूत्रितं च-- य एक इद्यस्तिग्मशृङ्गः' (आश्व. श्रौ. ७. ५) इति । उपहव्यनाम्न्येकाहेऽपीदं निष्केवल्यनिविद्धानम् । सूत्रितं च-’ य एक इदिति मध्यंदिनः ' ( आश्व. श्रौ. ९. ७) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 22 (463)  
 Indra  
@@ -19,7 +19,7 @@ The similarities between VI.21 and 22 extend to their final verses. The exhor ta
 Otherwise, the hymn alternates verses praising Indra’s qualities and deeds in  list-like fashion (e.g., vss. 1cd, 2cd) and begging him for wealth and martial help  (e.g., vss. 3, 8, 10). Stylistically it is noteworthy that in much of the hymn, particu larly at the beginning, the initial word of every half-verse refers to Indra (1a, c; 2a,  c; 3a; 5a, c; 7a, c; 11a). In 3c, the first half-verse in the hymn not beginning with a  word referring to Indra, the poet tricks us by playing on our expectations: the yáḥ “who” could easily be Indra, as it was earlier (see 1a, c), but in fact has a different  referent. The most complex verse syntactically is verse 5, which is perhaps fitting, as  it describes the poet’s own song.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुश्रुवां꣡सा चिद् अश्विना पुरू꣡णि  
 अभि꣡ ब्र꣡ह्माणि चक्षाथे ऋ꣡षीणाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ वाम् अस्तु सुमति꣡श् च꣡निष्ठा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्रति॑ । प्र । या॒त॒म् । वर॑म् । आ । जना॑य । अ॒स्मे इति॑ । वा॒म् । अ॒स्तु॒ । सु॒ऽम॒तिः । चनि॑ष्ठा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śuśruvāṃsā* ← *śru*
 - \[verb noun\], nominative, dual
@@ -121,14 +121,14 @@ genre M
 हे **अश्विना** अश्विनौ । **चित्** इति पूरणः । युवां **शुश्रुवांसा** श्रुतवन्तौ सन्तौ **पुरूणि** बहूनि **ब्रह्माणि** परिवृढानि कर्माणि स्तुतिलक्षणानि **ऋषीणाम्** अस्माकं संबन्धीनि **अभि** **चक्षाथे** अभिपश्यथो युवाम् । अतः **जनाय** जनस्य यजमानस्य मम **वरं** यज्ञं **प्रति** **प्र** **यातम्** । **वां** युवयोः **चनिष्ठा** उक्तलक्षणा **सुमतिः** अनुग्रहमतिः **अस्मे** अस्मासु **अस्तु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, hearing the many prayers of the Ṛṣis, you look (favourably) upon (us); come to the sacrifice ofthis man, and may your desired favour be (shown) him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even though you have heard many, Aśvins, you look upon the  
 formulations of our seers.  
@@ -136,23 +136,23 @@ formulations of our seers.
 At your wish, journey forth according to our wish for the sake of our  people. Let your most delightful favor be for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Asvins, though ye have heard them oft aforetime, regard the many prayers which Rsis offer.  
      Come to the man even as his heart desireth: may we enjoy your most delightful favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Obwohl ihr Asvin schon viele erbauliche Worte gehört habt, so beachtet ihr doch die erbaulichen Worte unserer Rishi´s. Kommet nach Wunsch zu dem Volke; uns soll eure beste Huld gehören!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die viele Bitten, Ritter, ihr erhört habt, ihr blickt auch gnädig auf der Sänger Bitten; O schreitet vor zum Heile für die Menschen, bei uns sei euch das Loblied recht willkommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хоть и слышали вы, о Ашвины, много (молитв),  
 Заметьте священные слова (наших) риши!  

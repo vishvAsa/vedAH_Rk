@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ वेणू꣡ञ् छतं꣡ शु꣡नः  
 शतं꣡ च꣡र्माणि म्लाता꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡रुषीणां च꣡तुःशतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 श॒तम् । मे॒ । ब॒ल्ब॒ज॒ऽस्तु॒काः । अरु॑षीणाम् । चतुः॑ऽशतम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
@@ -96,29 +96,29 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “A hundred bamboos, a hundred dogs, a hundred dressed hides, a hundred bunches of **balbaja** grass,and four hundred red mares are mine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A hundred bamboo stalks, a hundred dogs, a hundred tanned hides, a hundred ewes with tufts like balbaja-grass, four hundred ruddy (cows)  (did you give me).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert Bambusstäbe, hundert Hunde, hundert gegerbte Felle, hundert Schafe mit Flocken wie Balbajagras, hundertvier rötliche Schafe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hundert Bambusstäbe, hundert Hunde, hundert gegerbte Felle, hundert Geflechte von Balbadscha-Gras, vierhundert rothe Stuten sind mein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сотню бамбуковых палок, сотню собак,  
 Сотню дубленых шкур,  

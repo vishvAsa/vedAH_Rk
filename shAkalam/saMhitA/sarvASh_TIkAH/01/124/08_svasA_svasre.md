@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्व꣡सा स्व꣡स्रे ज्या꣡यस्यै यो꣡निम् आरैग्  
 अ꣡पैति अस्याः प्रतिच꣡क्षियेव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अञ्जि꣡ अङ्क्ते समनगा꣡ इव व्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि॒ऽउ॒च्छन्ती॑ । र॒श्मिऽभिः॑ । सूर्य॑स्य । अ॒ञ्जि । अ॒ङ्क्ते॒ । स॒म॒न॒गाःऽइ॑व । व्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svasā* ← *svasṛ*
 - \[noun\], nominative, singular, feminine
@@ -113,20 +113,20 @@ genre M
 एकस्मादेवान्तरिक्षादुपन्नत्वात् परस्परं स्वसृभावः । तथाप्यह्नः प्राथम्यात् तेजस्वित्वाच्च ज्यायस्त्वम् । स्वयमेव सरतीति वा **स्वसी** । रात्रिः **स्वस्रे** **ज्यायस्यै** उक्तरीत्या ज्येष्ठायै **योनिम्** उत्पत्तिस्थानम् अपररात्ररूपम् **अरैक्** अरिचन् प्रादात् प्ररेचयतीत्यर्थः । तथा च पूर्वत्राम्नातं-‘रात्र्युषसे योनिमारैक्' (ऋ. सं. १. ११३. १ ) इति। दत्त्वा च **अस्याः** उत्पन्नाया उषसः प्रतिचक्ष्येव । ज्ञापयित्वेव स्वयमपसृत्यैव गच्छति । ज्यायस्यामागतायां तस्यै स्वस्थानं दत्त्वा स्वयं तत्संनिधौ स्थातुमनुचितमिति विज्ञायैवापगच्छतीति भावः । एवमुत्पन्ना एषा **सूर्यस्य** **रश्मिभिः** **व्युच्छन्ती** तमो विवासयन्ती **अञ्जि** व्यञ्जकं तेजः । यद्वा । अञ्जि व्यक्तं जगत् । **अङ्क्ते** अनक्ति प्रकाशयति । किमिव । **समनगाइव** । सम्यगननहेतव आपः समनाः । ता गच्छन्तीति समनगाः विद्युतः । **व्राः** व्राताः । विद्युसंघा इव । यद्वा। सम्यगननाय गच्छन्तीति समनगाः सूर्यरश्मयः । ते इव व्रा व्राताः संधीभूताः । ते यथाञ्जते जगत्प्रकाशयन्ति तथेत्यर्थः ॥ व्रात इत्यत्र तकारलोपश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sister (night) has prepared a birth-plural ce for her elder sister (day), and having amde it known to her, departs. Uṣā, dispersing the darkness with the rays of the sun, illumines the world, like congregated lightnings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The (one) sister has left the natal place to her older sister. She goes away  from her, like (a girl) to be gazed upon.  
 Dawning forth with the rays of the sun, she smears unguent on herself,  like (maidens) with a choice going to assemblies.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, I believe that this verse continues the series of female portraits, this time with two vignettes of the svayaṃvara (‘self-choice’) marriage.
 
@@ -145,23 +145,23 @@ suvā́śā(ḥ) in 7c is neatly echoed by svásā opening 8a.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Sister quitteth, for the elder Sister, her place, and having looked on her departeth.  
      She decks her beauty, shining forth with sunbeams, like women trooping to the festal meeting.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Schwester hat der älteren Schwester den Platz geräumt; sie geht von ihr wie eine, die man wiedersehen soll. Mit den Strahlen des Surya aufleuchtend legt sie sich Schminke auf wie Lockmädchen, die zum Feste gehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Schwester räumt der edleren den Sitz ein, und geht davon, sobald sie sie gewahr wird, Und Uschas, leuchtend mit der Sonne Strahlen, schmückt sich mit Schmuck, wie Scharen die zum Fest gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сестра уступила место старшей сестре.  
 Она уходит от нее, как та, с кем предстоит (еще) встретиться.  

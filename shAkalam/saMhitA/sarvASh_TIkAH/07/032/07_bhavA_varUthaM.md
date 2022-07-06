@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡वा व꣡रूथम् मघवन् मघो꣡नां᳐  
 य꣡त् सम꣡जासि श꣡र्धतः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ दूणा꣡शो भरा ग꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । त्वाऽह॑तस्य । वेद॑नम् । भ॒जे॒म॒हि॒ । आ । दुः॒ऽनशः॑ । भ॒र॒ । गय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhavā* ← *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
@@ -110,36 +110,36 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **मघोनां** हविष्मतां **वरूथम्** उपद्रवाणां वारकं वर्म **भव**। **यत्** यस्त्वं **शर्धतः** उत्सहमानान्छत्रून् **समजासि** संप्रेरयेः। अपि च **त्वाहतस्य** त्वया हतस्य शत्रोः **वेदनं** धनं **वि** **भजेमहि** विशेषेण लभेमहि । किंच **दुर्नशः** नाशयितुमशक्यस्त्वं **गयं** गृहं धनं वा **आ** **भर** अस्मभ्यमाहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be a defence, **Maghavan**, to the wealthy (offerers in oblations), for you are the discomfiter of (our)adversaries; may we divide the spoil of the enemy slain by you, who are indestructible, bring it to our dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be a defense for the bounteous (patrons), bounteous one, when you will  herd together those who vaunt themselves.  
 Might we have a share in the possessions of the one slain by you. Bring  here the patrimony of the one difficult to get at.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou dost drive the fighting men together be, thou Mighty One, the mighty's shield.  
      May we divide the wealth of him whom thou hast slain: bring us, Unreachable, his goods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei du der Hort unserer Gönner, du Gönner, wenn du die Überheblichen zu Paaren treiben wirst. Wir möchten das Besitztum des von dir Erschlagenen unter uns teilen. Bringet uns den Hausrat des Unnahbaren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei, mächt'ger, du ein starker Schirm der Mächtigen, dass du den Feind zu Paaren treibst Und des von dir erschlagnen Schatz uns zuertheilst; des Bösen Hausrath führ uns zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь щитом, о щедрый, (нашим) щедрым покровителям,  
 Когда ты обуздываешь дерзких врагов.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र सो꣡माः सुता꣡ इमे꣡  
 त꣡व प्र꣡ यन्ति सत्पते  
 क्ष꣡यं चन्द्रा꣡स इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 क्षय॑म् । च॒न्द्रासः॑ । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -85,7 +85,7 @@ genre M
 हे **सत्पते** **इन्द्र** **चन्द्रासः** आह्लादयितारः **इन्दवः** दीप्ताः **सुताः** अभिषुताः **इमे** अस्माभिर्दत्ताः **सोमाः** **तव** **क्षयम्** । क्षियन्ति निवसन्त्यन्नादीनि अत्रेति क्षयो जठरम्। **प्र** **यन्ति** प्रकर्षेण गच्छन्ति । तान् धारयेति भावः ॥ क्षयम् । ‘ क्षि निवासगत्योः' इत्यस्मादधिकरणे घप्रत्ययः । प्रत्ययस्वरेण अन्तोदात्तत्वे प्राप्ते ‘ क्षयो निवासे' इत्याद्युदात्तत्वम् । चन्द्रासः । ‘ चदि आह्लादने दीप्तौ च । अस्मात् ‘स्फायितञ्चि°' इत्यादिना रक्प्रत्ययः । ‘ आज्जसेरसक्' इत्यसुक् । प्रत्ययस्वरः । इन्दवः । ‘ उन्देरिच्चादेः' ( उ. सू. १. १२ ) इति उप्रत्ययः । ‘ नित्' इत्यनुवृत्तेराद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M
 Your abode: kṣayam tava: **kṣaya** = abode; here, it refers to Indra's belly, **jaṭhara**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra! These pressed soma drinks of yours go forth, o master of  settlements,  
 to your dwelling place—the glimmering drops.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the brave, to thee proceed these drops of Soma juice expressed,  
      The bright drops to thy dwelling-place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra! Diese ausgepreßten Somatränke begeben sich in deine Wohnung, die schimmernden Säfte, du rechtmäßiger Herr.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebraut sind diese Säfte dir, es schreiten, Indra, starker Herr, Die Tropfen hell zu deinem Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, эти выжатые соки сомы  
 Движутся вперед к твоему жилищу,  

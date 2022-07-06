@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो अस्मे꣡ सुम꣡ना अस्तु विश्व꣡हा  
 रा꣡जा सो꣡मः सुवित꣡स्या꣡धि एतु नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यथा॑ऽयथा । मि॒त्रऽधि॑तानि । स॒म्ऽद॒धुः । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -118,36 +118,36 @@ genre M;; repeated line
 **इन्द्रः** देवः **अस्मे** अस्माकं **सुमनाः** सुमनस्कः अनुग्रहचेताः **अस्तु** भवतु । **विश्वहा** सर्वेष्वप्यहःसु । **राजा** **सोमः** च **नः** अस्माकं **सुवितस्य** सुवितं स्तोत्रम् **अध्येतु** अधिगच्छतु । **यथायथा** येन येन प्रकारेण अस्माकं **मित्रधितानि** मित्रनिहितानि धनानि **संदधुः** तथाधिगच्छतु सोमः । तथेन्द्रोऽपि सुमना अस्त्विति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra** be favourably disposed towards us every day, may the royal **Soma** accept our praise, sothat they may bestow upon us friendly treasures; we long for the universal **Aditi**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra be benevolent toward us always; let King Soma stay mindful  of our welfare,  
 in the same way that (pacts) concluded by allies bind (them [=allies])  together. – We choose wholeness and innocence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra evermore be gracious unto us, and may King Soma meditate our happiness,  
      Even as men secure the comfort of a friend. We ask for freedom and complete felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra soll uns jederzeit wohlgesinnt sein, König Soma soll auf unser Wohlergehen bedacht sein, ganz so wie man Bündnisse schließt. - Wir erbitten Vollkommenheit von der Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns möge Indra holdgesinnt sein immerdar, und unsres Glückes nehm sich König Soma an; So recht wie man den Bund der engen Freundschaft schliesst; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

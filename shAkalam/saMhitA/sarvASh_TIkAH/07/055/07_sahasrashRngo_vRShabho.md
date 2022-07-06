@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्रशृङ्गो वृषभो꣡  
 यः꣡ समुद्रा꣡द् उदा꣡चरत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 नि꣡ ज꣡नान् स्वापयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 तेन॑ । स॒ह॒स्ये॑न । व॒यम् । नि । जना॑न् । स्वा॒प॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasraśṛṅgo* ← *sahasra*
 - \[noun\], neuter
@@ -92,7 +92,7 @@ popular;; epic anuṣṭubh (424)
 **सहस्रशृङ्गः** सहस्रकिरणः **वृषभः** कामानां वर्षिता **यः** सूर्यः **समुद्रात्** अम्बुधेः सकाशात् **उदाचरत्** उदागच्छति सहस्येन अभिभवित्रा **तेन** सूर्येण **वयं** स्तोतारः **जनान्** सर्वान् **नि** **ष्वापयामसि** नितरां स्वापयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,29 +103,29 @@ popular;; epic anuṣṭubh (424)
 The bull: saharaśṛṅgo vṛṣabho yaḥ samudrād udācarat, the sun with a thousand rays; through theworship of the sun, at a later date, **Kumāra** was the patron of house-breakers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The thousand-horned bull who rises up from the sea [=moon],  
 with this mighty one we make the folks sleep.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bull who hath a thousand horns, who rises up from out the sea,-  
      By him the Strong and Mighty One we lull and make the people sleep.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der tausendhörnige Stier, der aus dem Meere aufging, mit diesem Mächtigen schläfern wir die Leute ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Stier, der tausend Strahlen wirft, der aus dem Meere stieg empor, durch diesen allgewaltigen versenken wir das Volk in Schlaf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тысячерогий бык,  
 Который поднялся из моря, –  

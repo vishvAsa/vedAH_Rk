@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र शविष्ठ सत्पते  
 रयिं꣡ गृण꣡त्सु धारय  
 श्र꣡वः सूरि꣡भ्यो अमृ꣡तं वसुत्वन꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 श्रवः॑ । सू॒रिऽभ्यः॑ । अ॒मृत॑म् । व॒सु॒ऽत्व॒नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -82,36 +82,36 @@ genre M;; repeated line
 हे शविष्ठ बलवत्तम **सत्पते** सतां पालयितः **इन्द्र** **गृणत्सु** अस्मासु **रयिं** धनं **धारय** अवस्थापय । अपि च **सूरिभ्यः** स्तोतृभ्यः **अमृतम्** अनश्वरं **वसुत्वनं** व्याप्तिमत् **श्रवः** अन्नं  यशो वा देहीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Most powerful **Indra**, protector of the virtuous, secure us who praise you in the possession of riches,(grant) to the pious imperishable all-pervading sustenance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, most powerful lord of settlements, fix wealth fast in the  singers,  
 and immortal fame and goods for our patrons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Grant wealth to those who praise thee, Lord of Heroes, Mightiest Indra: give  
      Our princes everlasting fame and opulence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, Mächtigster, rechtmäßiger Gebieter, sichere den Sängern Reichtum, den Opferherren unsterblichen Ruhm und Wohlstand!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, kräftigster Regent, verleihe stets den Sängern Schutz, Den Opferherren ew'gen Ruhm und Gutbesitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, сильнейший истинный повелитель,  
 Обеспечь воспевателей богатством,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋते꣡न र्तं꣡ नि꣡यतम् ईळ आ꣡ गो꣡र्  
 आमा꣡ स꣡चा म꣡धुमत् पक्व꣡म् अग्ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जा꣡मर्येण · प꣡यसा पिपाय°
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 कृ॒ष्णा । स॒ती । रुश॑ता । धा॒सिना॑ । ए॒षा । जाम॑र्येण । पय॑सा । पी॒पा॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
@@ -121,20 +121,20 @@ genre M
 हे **अग्ने** **ऋतेन** सत्यभूतेन यज्ञेन **नियतम्** अनुस्यूतम् **ऋतम्** उदकं **गोः** धेनोः पयः **आ** **ईळे** आयाचे । सांनाय्यादिहविरर्थं गव्यं पयस्त्वां याचे इत्यभिप्रायः । **आमा** अपक्वा सा गौः **मधुमत्** माधुर्योपेतं **पक्वं** पयः **सचा** सह धारयति । **कृष्णा** कृष्णवर्णा **सती** **एषा** गौः **रुशता** श्वेतेन **धासिना** प्राणिनां धारकेण **जामर्येण** । जायन्त इति जाः प्रजाः । तासाम् अमर्येण अमरणनिमित्तेन तेन **पयसा** **पीपाय** प्रजाः प्याययति । तवैष महिमा यद्रसान् परिणामयन्नेवं करोषि । पीपाय । प्यायतेर्लिटि ' लिड्यङोश्च ' इति पीभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I solicit, **Agni**, the milk of the cow, essential for the sacrifice; yet immature, (she possesses) the sweet and ripe (fluid); black though she be, yet with her white nutritious milk she maintains mankind in existence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With truth I reverently invoke the (mystical) truth set down [=acquired]  from the cow: the raw one [=cow] and the cooked, honeyed (milk)  belong together, Agni.  
 Though she is black, she is swollen with the gleaming gush, with milk  for nourishing offspring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. expresses the beloved paradox about cows and milk, that the cow is “raw” but her milk “cooked” (that is, ready to consume), and further that a black cow can still give white milk. These paradoxes describe in the first instance the production of the ritual offering, the milk that will produce the ghee to be poured into the ritual fire. But it may also (esp. the 2nd hemistich) characterize the transition from the night (black cow) to dawn (the gleaming milk) at the dawn sacrifice; see Janert (Dhāsi, 29ff.).
 
@@ -161,28 +161,28 @@ Each of these vss. begins with the resonant and charged instr. ṛténa ‘by tr
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I crave the cow's true gift arranged by Order: though raw, she hath the sweet ripe juice, O Agni.  
      Though she is black of hue with milk she teemeth, nutritious, brightly shining, all-sustaining.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I magnify 1 the Rita of the cow 2 ruled by Rita and also by the raw one 3, the honey-sweet, ripe (milk), O Agni. Though being black this (cow) swells of bright drink, of … 4 milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bitte mir die von Rechts wegen bestimmte, gesetzmäßige Milch der Kuh aus. Zusammen gehören die rohe Kuh und die süße gekochte Milch, o Agni. Obwohl sie schwarz ist, strotzt sie von weißer Nahrung, von der irdischen Milch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Recht erstreb' ich rechte Gab' der Milchkuh, die rohe strebt nach garem süssen Safte; Die dunkle schwillt vom schimmernden Getränke, von nahrungsreicher (?) Milch, o Agni, strotzend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я прошу об установленном по закону законном (молоке) от коровы,  
 Вместе (связаны) сырая (корова и) сладкое вареное молоко о Агни.  

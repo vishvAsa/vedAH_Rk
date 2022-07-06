@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प त्वा जाम꣡यो गि꣡रो  
 दे꣡दिशतीर् हविष्कृ꣡तः  
 वायो꣡र् अ꣡नीके अस्थिरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वा॒योः । अनी॑के । अ॒स्थि॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **हविष्कृतः** यजमानार्थं **गिरः** स्तुतयः **जामयः** स्वसार इव **देदिशतीः** तव गुणान् दिशन्त्यः **त्वा** त्वामुपतिष्ठन्ते । **वायोरनीके** समीपे त्वां समेधयन्त्यः **अस्थिरन्** अतिष्ठंश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,36 +88,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Anīke = samīpe tvām samedhayantyas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those akin [=waters?], constantly directing to you the hymns of him  who prepares the oblation,  
 have approached you in front of Vāyu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard interpr. take jāmáyo gíraḥ as a nominative NP (Geldner “die verschwisterten Lobreden”), modified by the intens. part. dédiśatīḥ. Although I see the advantages of this, it leaves the participle with little to do (Geldner “die dich herausstreichen,” Renou “indiquant avec force (leur intention),” Scarlatta (82) “die immer wieder auf dich hinweisen”). I separate gíraḥ from jāmáyaḥ and take it as the acc. obj.
 
 of the intens. participle. The question then is the referent of jāmáyaḥ ‘kindred, siblings’. I tentatively suggest it is the waters, who appear in the next vs. as ritual actors. The waters are called jāmí- elsewhere (I.23.16). Because waters are always gurgling, they can be considered to be the deliverers of hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Still turning to their aim in thee, the oblation-bearer's sister hymns  
      Have come to thee before the wind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir sind die verschwisterten Lobreden des Opferbereiters genaht, die dich herausstreichen, beim Erscheinen des Vayu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verschwistert eilten zu dir hin die Lieder, die erhebenden, Des Opferers in Sturmes Drang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе приблизились родственные  
 Песни совершающего возлияние,  

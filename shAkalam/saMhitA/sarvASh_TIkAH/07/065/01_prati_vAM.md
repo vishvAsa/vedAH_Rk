@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति वां सू꣡र उ꣡दिते सुउक्तइ꣡र्  
 मित्रं꣡ हुवे व꣡रुणम् पूत꣡दक्षम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वस्य या꣡मन् आचि꣡ता जिगत्नु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ययोः॑ । अ॒सु॒र्य॑म् । अक्षि॑तम् । ज्येष्ठ॑म् । विश्व॑स्य । याम॑न् । आ॒ऽचिता॑ । जि॒ग॒त्नु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -114,37 +114,37 @@ genre M
 **सूरे** सूर्ये **उदिते** प्रातःसवने **मित्रं** **पूतदक्षं** शुद्धबलं **वरुणं** **वां** सूक्तैः **हुवे** आह्वये । **ययोः** मित्रावरुणयोः **अक्षितम्** अक्षीणमत एव **ज्येष्ठम्** **असुर्यं** बलम् **आचिता** आचित उपचिते शूरसंघैरुपेते **यामन्** यामनि संग्रामे **विश्वस्य** शत्रुसंघस्य **जिगत्नु** जेतृ भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the sun has risen, I invoke **Mitra** and you, **Varuṇa**, of pure vigour, whose imperishable andsuperior might is triumphant in the crowded conflict over all enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the sun has risen, I call upon you two with hymns, upon Mitra and  upon Varuṇa of purified skill,  
 you two, who possess imperishable and preeminent lordship, you two  moving upon the course of everyone, attentive to the entreaty of  
 everyone.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH hymns I call you, when the Sun hath risen, Mitra, and Varuna whose thoughts are holy,  
      Whose Power Divine, supreme and everlasting, comes with good heed at each man's supplication.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe bei Sonnenaufgang euch beide wieder mit Liedern, den Mitra und den Varuna von lauterem Wollen, denen unvergängliche höchste Asuramacht zu eigen ist, die auf jeden achtgeben, wenn sie auf der Fahrt dahineilen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch ruf' mit Liedern ich bei Sonnenaufgang, den reingesinnten Varuna und Mitra, Sie, deren Gottheit herrlich, unvergänglich, die allbeachtend wandern durch die Welten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас двоих я призываю гимнами на восходе солнца:  
 Митру и Варуну с чистой силой действия,  

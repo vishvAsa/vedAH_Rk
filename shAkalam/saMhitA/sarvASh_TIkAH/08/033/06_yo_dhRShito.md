@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ धृषितो꣡ यो꣡ अ꣡वृतो  
 यो꣡ अ꣡स्ति श्म꣡श्रुषु श्रितः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 क्र꣡त्वा गउ꣡र् इव शाकिनः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विभू॑तऽद्युम्नः । च्यव॑नः । पु॒रु॒ऽस्तु॒तः । क्रत्वा॑ । गौःऽइ॑व । शा॒कि॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -112,7 +112,7 @@ genre M
 **यो** **धृषितः** शत्रूणां धर्षयिता **यः** च **अवृतः** शत्रुभिरपरिवृतः **यः** चापि **श्मश्रुषु** युद्धेषु । श्रवः श्रयन्त्यस्मिन्निति व्युत्पत्तेः श्मश्रु युद्धमिति वृद्धा वदन्ति । **श्रितः** **अस्ति** भवति । यश्चापि **विभूतद्युम्नः** प्रभूतधनः । यश्च **च्यवनः** सोमानां च्यावयिता । यश्चापि **पुरुष्टुतः** बहुस्तुतः । स इन्द्रः **क्रत्वा** कर्मणा **शाकिनः** शक्तस्य यजमानस्य **गौरिव** यथा गौः पयसो दोग्ध्री तथा कामानां दोग्धा भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,35 +123,35 @@ genre M
 Practised in combats: śmaśruṣu **śritaḥ**: śmaśruṣu = **yuddha**; deamander of the libation: **cyavana**= he who causes to fall or flow, i.e. the **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is audacious, who is unobstructable, who is embedded within his  beard,  
 possessing extensive brilliance, rouser, much praised, in his resolve  
 strong like an ox.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The expression śmáśruṣu śritáḥ “embedded within his beard” is striking. It seems to be a slightly jocular expression, meaning perhaps that Indra has such a big bushy beard that it's as if he's been embedded into it -- one sees it before one sees him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The bold of heart whom none provokes, who stands in bearded confidence;  
      Much-lauded, very glorious, overthrowing foes, strong Helper, like a bull with might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der kühn, der unaufhaltsam ist, der in seinem Bart versteckt ist, der seine Herrlichkeiten entfaltet, der Aufrüttler, vielgepriesen, an Willen wie ein Rind stark.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der kühnen Muthes, ungehemmt zur Feindesschar gedrungen ist, Der vielgerühmte, allerschütternd, gross an Macht, an Kraft gewaltig wie ein Stier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто дерзок, кто неудержим,  
 Кто носит бороду с усами,  

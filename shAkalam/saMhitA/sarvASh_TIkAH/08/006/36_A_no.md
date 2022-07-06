@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो याहि पराव꣡तो  
 ह꣡रिभ्यां हर्यता꣡भियाम्  
 इम꣡म् इन्द्र सुत꣡म् पिब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इ॒मम् । इ॒न्द्र॒ । सु॒तम् । पि॒ब॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -82,40 +82,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्द्र** **परावतः** परागताद्दूरे वर्तमानात् द्युलोकात् **हर्यताभ्यां** कान्ताभ्यां **हरिभ्याम्** अश्वाभ्यां **नः** अस्मान् **आ** **याहि** आगच्छ । आगत्य च **इमम्** अस्मदीयं **सुतम्** अभिषुतं सोमं **पिब** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us from afar with your beloved horses; drink, **Indra**, this libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here to us from afar, with your two beloved fallow bays. Drink this pressed soma, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the phonetic figure háribhyāṃ haryatā́bhyām. See also VIII.12.25-28.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come with thy lovely Bay Steeds, come to us from regions far away  
      O Indra, drink this Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm zu uns aus der Ferne mit den beliebten Falben; trink, Indra, diesen Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu uns komm aus der Ferne her mit deinem lieben Füchsepaar, O Indra, trinke diesen Saft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай к нам издалека  
 На двух любимых буланых конях!  

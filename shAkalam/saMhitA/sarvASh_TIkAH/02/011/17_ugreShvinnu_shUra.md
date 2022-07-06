@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उग्रे꣡षु इ꣡न् नु꣡ शूर मन्दसान꣡स्  
 त्रि꣡कद्रुकेषु पाहि सो꣡मम् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 याहि꣡ ह꣡रिभ्यां सुत꣡स्य पीति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 प्र॒ऽदोधु॑वत् । श्मश्रु॑षु । प्री॒णा॒नः । या॒हि । हरि॑ऽभ्याम् । सु॒तस्य॑ । पी॒तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ugreṣv* ← *ugreṣu* ← *ugra*
 - \[noun\], locative, plural, masculine
@@ -109,7 +109,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 हेशूर बलवन्निन्द्र उग्रेषुउद्गूर्णेषुबहुस्तोत्रशस्त्रवत्सुत्रिकद्रुकेषुज्योतिर्गौरायुरित्येतन्नामकेषु आभिप्लविकेष्वहस्सुमन्दसानोहृष्यन् नुक्षिप्रंसोमम्पाहिपिब इदितिपूरणः ततः प्रीणानः सोमपाने- नप्रीतोभवन् श्मश्रुषुलिप्तंसोमम्प्रदोधुवत् धूञ्कम्पने यङ्लुगन्तस्यशतरिरूपम् पुनःपुनर्धुन्वन् सुतस्या- भिषुतस्यपीतिम्पानमुद्दिश्यहरिभ्यामश्वाभ्यांयुक्तः सन् याहिगच्छ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,7 +120,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 Trikadruka rites: these denote three days, or celebrations of the ceremonial, termed abhiplava; abhiplavikeṣu ahaḥ su: these are, **jyotiṣ**, gauḥ, **āyus**; the text designates them as ugreṣu, fierce, angry; but here, **ugra** = having many praises and prayers, **bahu** **stotra** śastravat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, finding exhilaration among just these powerful (soma drops),  o champion, drink the soma among the Trikadrukas [=the  
 Maruts?], Indra,  
@@ -128,23 +128,23 @@ again and again shaking out (the soma) in your beard, becoming
 pleased. Travel to the soma-drinking with your two fallow bays.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Upon the great Trikadruka days, Hero, rejoicing thee, O Indra, drink the Soma.  
      Come with Bay Steeds to drink of libation, shaking the drops from out thy beard, contented.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An den starken Somatränken dich berauschend trink, tapferer Indra, den Soma bei den Trikadruka´s , indem du befriedigt ihn im Bart abschüttelst. Komm mit beiden Falben zum Trunk des Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An starken Tränken, Indra, dich erfreuend, aus den drei Kufen trink, o Held, den Soma, Voll Trinkerlust, den Schnurrbart kräftig schüttelnd; komm mit den Füchsen her zum Trunk des Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьяняясь грозными (соками), о герой,  
 Пей сому, о Индра, на (праздниках) Трикадрука!  

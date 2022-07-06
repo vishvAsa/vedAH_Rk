@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनेहो꣡ दात्र꣡म् अ꣡दितेर् अनर्वं꣡  
 हुवे꣡ सु꣡वर्वद् अवधं꣡ न꣡मस्वत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्या꣡वा र꣡क्षतम् पृथिवी नो अ꣡भ्वात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 तत् । रो॒द॒सी॒ इति॑ । ज॒न॒य॒त॒म् । ज॒रि॒त्रे । द्यावा॑ । रक्ष॑तम् । पृ॒थि॒वी॒ इति॑ । नः॒ । अभ्वा॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aneho* ← *anehaḥ* ← *anehas*
 - \[noun\], accusative, singular, neuter
@@ -110,7 +110,7 @@ genre M;; repeated line
 **अदितेः** । एतदन्तरिक्षस्याप्युपलक्षणम् । अखण्डनीयायाः पृथिव्याः तादृशस्यान्तरिक्षस्य च संबन्धि दात्रं धनं **हुवे** आह्वयामि स्पृहयामीत्यर्थः । कीदृशं तद्धनम् । **अनेहः** अपापं दुःखरहितं सुखात्मकम् **अनर्वम्** अनरणम् अक्षीणमित्यर्थः । **स्वर्वत्** सर्वतः फलभूतेन स्वर्गेण तद्वत् **अवधम्** अहिंसितं **नमस्वत्** अन्नवत् । ईदृशं धनं हुवे । **तत्** अस्माभिः काङ्क्षितमुक्तलक्षणं धनं हे **रोदसी** द्यावापृथिव्यौ **जरित्रे** स्तोत्रे यजमानाय **जनयतम्** उत्पादयतम् । द्यावेत्यादि व्याख्यातम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,39 +121,39 @@ genre M;; repeated line
 Aditi = the firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I invoke the gift of Aditi, which is without fault, without aggression,  without weapon, and provided with sunlight and reverence.  
 O you two world-halves, beget it for the singer. – O Heaven and Earth,  protect us from the formless void.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The them. adj. anarvá- is clearly derived from the well-attested bahuvrīhi - n-stem anarván- (cf. also the thematized anarváṇa-). The neut. NA to the n-stem should be *anarvá, which is not found. In two instances in which it should modify a neut. acc. (I.37.1, VI.48.15) we find instead the masc. anarvā́ṇam, an adjustment probably meant to make the form more transparent (see comm. on those two passages). As for the supposed them. stem anarvá-, in two of the occurrences listed by Grassmann the referents are neut. (cakrám I.164.2, dātrám here). In both passages the neut. NA anarvám comes at the end of an odd pāda before an even pāda beginning with a consonant. I think it is at least arguable that the original reading in both cases was *anarvá, the expected neut. to the n-stem, which was redactionally altered to a thematic acc. The alternation has no metrical consequences. As for the other two forms that Grassmann lists to the them. stem, both (II.40.6, VII.40.4) qualify Aditi in the nom. sg. and have the form anarvā́. I suggest that both actually belong to the n-stem, whose nom. sg. has exactly that form, and that they are fem., but do not exhibit the fem. derivational suffix -ī (expect *anarváṇī-?).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call for Aditi's unrivalled bounty, perfect, celestial, deathless, meet for worship.  
      Produce this, ye Twain Worlds, for him who lauds you. Protect us, Heaven and Earth, from fearful danger.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 I crave of Aditi the gift, the matchless. Beneficent, illustrious, and honoured: O ye two worlds, procure that for the singer. O Heaven and Earth, from dreadful darkness save us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gabe der Aditi errufe ich, die fehlerlose, unbestrittene, sonnenhafte, vom Tode befreiende, ehrfurchtgebietende. Diese schaffet dem Sänger, ihr beide Rodasi. - Himmel und Erde, bewahret uns vor Übergewalt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Aditi erhabne sichre Gabe, die heilsam, glänzend, heilig ist erfleh' ich, Das schafft dem Sänger, o ihr Welten beide, beschirmt vor grauser Noth uns, Erd' und Himmel!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я призываю надежный дар Адити, нерушимый.  
 Солнечный, избавляющий от насильственной смерти, вызывающий почитание.  

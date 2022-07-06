@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था चिद् वृद्ध꣡म् अतस꣡म्  
 अ꣡ग्ने संजू꣡र्वसि क्ष꣡मि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 दुर्म꣡न्मा क꣡श् च वे꣡नति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ए॒व । द॒ह॒ । मि॒त्र॒ऽम॒हः॒ । यः । अ॒स्म॒ऽध्रुक् । दुः॒ऽमन्मा॑ । कः । च॒ । वेन॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -114,37 +114,37 @@ genre M
 हे **अग्ने** **क्षमि** क्षमायां वर्तमानं **वृद्धमतसं** शुष्कं काष्ठं **यथा** येन प्रकारेण **संजूर्वसि** । जुर्वतिर्हिंसाकर्मा । सम्यग्दहसीत्यर्थः । **एव** एवं **दह** हे **मित्रमहः** मित्राणामस्माकं पूजक तेजो वा । कम्। यः **अस्मध्रुक्** अस्माकं द्रोग्धा **कश्च** कश्चित् **दुर्मन्मा** दुर्मतिः **वेनति** कामयते अस्मान् द्रोग्धुं तं दहेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As, **Agni**, you consume old timber on the earth, so, cherisher of friends, do you burn our injurer,whosoever evil-minded wishes (our ill).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as you incinerate the brushwood grown thick on the ground,  o Agni,  
 in the same way burn whoever stalks (us), lying to us and  
 ill-intentioned, o you who deploy the might of alliance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, as thou burnest down to earth even high-grown underwood,  
      So, bright as Mitra is, burn him who injures us, him who plots ill against thy friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du, Agni, auch das großgewordene Gestrüpp auf dem Erdboden verbrennst, so versenge du, wie Mitra Geehrter, jeden, der uns Übel will, der in böser Absicht scheel sieht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie, Agni, du auch gross Gestrüpp verzehrest auf der Erde Grund, So brenn, o freundereicher, den, der uns verfolgt, der bösgesinnt uns schaden will.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как сжираешь ты кустарник,  
 Выросший на земле, о Агни,  

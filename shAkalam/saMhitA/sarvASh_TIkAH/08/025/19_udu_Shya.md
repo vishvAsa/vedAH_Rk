@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ ष्य꣡ शरणे꣡ दिवो꣡  
 ज्यो꣡तिर् अयंस्त सू꣡रियः  
 अग्नि꣡र् न꣡ शुक्रः꣡ समिधान꣡ आ꣡हुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अ॒ग्निः । न । शु॒क्रः । स॒म्ऽइ॒धा॒नः । आऽहु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -95,7 +95,7 @@ genre M
 **सूर्यः** सुवीर्यः सुष्ठु सर्वस्य प्रेरकः **स्यः** स मित्रो वरुणश्च **दिवः** द्योतमानस्यादित्यस्य **शरणे** स्थाने नभसि **ज्योतिः** आत्मीयं तेजः **उत्** **अयंस्त** उद्यच्छति । ऊर्ध्वं गमयति । सर्वत्र विस्तारयतीत्यर्थः । यमेर्लुङि रूपम् । ततः सः **अग्निर्न** **शुक्रः** अग्निरिव दीप्यमानः **समिधानः** हविर्भिः समिध्यमानः **आहुतः** सर्वैराहूतस्तिष्ठति । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,29 +106,29 @@ genre M
 Sūrya = **Mitra** and **Varuṇa**; cf. ṛca 21
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Sun held up his light under the shelter of heaven,  
 blazing like fire when it has been kindled and bepoured.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Surya hath spread his light aloft up to the region of the sky,  
      Like Agni all aflame when gifts are offered him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Surya hat im Schutze des Himmels sein Licht aufgerichtet, hell wie Agni, wenn er entzündet und mit Schmalz begossen wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon strahlte dieser Sonnengott sein Licht zum Himmels-Zelt empor, Wie Agni hell, wenn er entflammt den Trank empfängt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот самый Сурья направил  
 Ввысь (свой) свет под защитой неба,  

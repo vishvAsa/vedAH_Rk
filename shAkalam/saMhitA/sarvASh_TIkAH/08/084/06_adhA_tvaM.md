@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा तुवं꣡ हि꣡ नस् क꣡रो  
 वि꣡श्वा अस्म꣡भ्यं सुक्षितीः꣡  
 वा꣡जद्रविणसो गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वाज॑ऽद्रविणसः । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -97,36 +97,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **अध** अनन्तरं **त्वम्** । हिरवधारणे । त्वमेव **अस्मभ्यं** **करः** कुरु । देहीत्यर्थः । करोतेः । लेट्यडागमः । किमित्यपेक्षायामाह । **नः** अस्मदीयाः **गिरः** त्वद्विषयाः **विश्वाः** सर्वाः स्तुतीरेवं कुरु यथा सुक्षितीः । क्षियन्ति निवसन्त्यत्रेति क्षितयो गृहाः। शोभननिवासाः । यद्वा । क्षितयो मनुष्याः । कल्याणपुत्रपौत्रादियुक्ताः । तथा **वाजद्रविणसः** अन्नयुक्तधनवतीः । अथवा वाजो दीप्तिः। सर्वतो दीप्तधनाश्च कुरु । त्वमस्माभिः स्तुतः सन् गृहपुत्रान्नधनादीनि देहीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Cause all our praises to bring to us excellent dwellings and abundance of wealth in food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So that then you will make all dwellings lovely for us  
 and make our hymns have riches as their prize.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Our God, make all of us to dwell in happy habitations, and  
      Reward our songs with spoil and wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So mach uns denn lauter gute Wohnungen, mach unsere Lobreden durch Reichtümer belohnt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Darum so schaffe du denn auch uns sichern Wohnsitz überall, Und unsern Liedern reichen Lohn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так вот, пусть ты сделаешь  
 Все наши жилища счастливыми для нас,  

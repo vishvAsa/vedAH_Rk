@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दो य꣡था त꣡व स्त꣡वो  
 य꣡था ते जात꣡म् अ꣡न्धसः  
 नि꣡ बर्हि꣡षि प्रिये꣡ सदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नि । ब॒र्हिषि॑ । प्रि॒ये । स॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** सोम **अन्धसः** अन्नरूपस्य **तव** संबन्धी **स्तवः** स्तवनं स्तोत्रं तथा **ते** तव **जातं** जन्म **यथा** प्रादुर्भूतमस्ति तथा त्वं **प्रिये** प्रीणयितरि **बर्हिषि** अस्मद्यागे **नि** **षदः** निषण्णो भव॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, since the praise of you as food, since your birth (has appeared), sit down upon the grass that plural ases (you).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drop, just as there is praise of you (now), just as (the honey) has been  born from your stalk,  
 (so) sit down on the dear ritual grass.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 According to the opinio communis (Geldner, Renou, Lüders 204 [of IX.61.10], Klein DGRV I.402), jātám ándhasaḥ in pāda b (and the same expression in IX.61.10) contains a substantivized neut. ppl. jātám ‘birth’ with dep. gen. (e.g., Geldner “die Geburt deines Tranks”).
 
@@ -114,23 +114,23 @@ The function of the two yáthā clauses is not altogether clear. I assume that t
 On injunc. sadaḥ as a functional impv. see comm. ad IX.2.2 and Hoffmann (Injunk. 263).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As thine, O Indu, is the praise, and thine what springeth from the juice,  
      Seat thee on the dear sacred grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ja dir der Lobpreis gebührt, o Saft, da ja die Geburt deines Tranks geschehen ist, so laß dich auf dem lieben Barhis nieder!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da dein ist, Indu, alles Lob und dein was aus dem Kraut entquoll, So setz dich auf die liebe Streu,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

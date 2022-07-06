@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् ध त्य꣡न् मित्रावरुणाव् ऋता꣡द् अ꣡धि  
 आददा꣡थे अ꣡नृतं स्वे꣡न मन्यु꣡ना  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 सो꣡मस्य स्वे꣡भिर् अक्ष꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 धी॒भिः । च॒न । मन॑सा । स्वेभिः॑ । अ॒क्षऽभिः॑ । सोम॑स्य । स्वेभिः॑ । अ॒क्षऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaddha* ← *yat*
 - \[adverb\]
@@ -165,20 +165,20 @@ genre M
 हे **मित्रावरुणौ** **ऋतात्** आदित्यात् **त्यत्** तदुदकं **यत्** यस्मात् कारणात् **अधि** अधिकम् । **आददाथे** सर्वतो ददथः । कीदृशमुदकम् । **अनृतं** नश्वरं शोषणस्वभावम् । केन साधनेन । **स्वेन** **मन्युना** स्वकीयेन तेजसा । अहोरात्राभिमानिदेवौ मित्रावरुणौ खलु वृष्टिं मोचयतः । ‘ अहोरात्रे वा' इत्यादिश्रुतिः पूर्वमेवोदाहृता । मन्युर्विशेष्यते । **दक्षस्य** समर्थस्य **स्वेन** **मन्युना** आत्मभूतेन मननीयेन सामर्थ्येन। किंच हे मित्रावरुणौ **युवोः** ॥ अन्त्यलोपश्छान्दसः ॥ युवयोः संबन्धि **हिरण्ययं** हिरण्मयं रूपम् ॥ ‘ ऋत्व्यवास्त्व्यवास्त्व° ' ( पा. सू. ६. ४. १७५ ) इत्यादौ मयटो मशब्दलोपो निपात्यते ॥ **इत्था** इत्थं वक्ष्यमाणप्रकारेण **सद्मसु** यज्ञसदनेषु **अधि** **अपश्याम** पश्येम । केन साधनेनेति तदुच्यते । **धीभिः** त्वदुद्देश्यैः कर्मभिर्यज्ञादिरूपैः **मनसा** **चन** त्वदासक्तेन चेतसा च **स्वेभिरक्षभिः** आत्मीयैः अनन्यैश्चक्षुरादीन्द्रियैः। किंच **सोमस्य** सोम **स्वेभिरक्षभिः** अस्मदीयैरिन्द्रियैः ॥ नासाद्यपेक्षया बहुवचनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Mitra** and **Varuṇa**, bestow (upon us) abundantly that unenduring water which you obtain from the sun, through your own energy; through the inherent energy of the vigorous; may we thus behold your golden (forms) in our halls of sacrifice, (brought thither) by our sacred rites, and by our thoughts and senses (intent upon you); by our senses (intent upon offering) the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since, Mitra and Varuṇa, you took untruth away from truth by your own  fervor—by your own fervor of skill—  
 just in this way among the seats we saw the golden (throne) of you two, just with our insights and with our mind, with our own eyes—with our  own eyes of soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner (etc.) I supply ‘throne’ with hiraṇyáyam in e on the basis of V.62.8.
 
@@ -193,24 +193,24 @@ For the sense of these vss., see published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As there ye, Mitra, Varuna, above the true have taken to yourselves the untrue with your mind, with wisdom's mental energy,  
      So in the seats wherein ye dwell have we beheld the Golden One,  
      Not with our thoughts or spirit, but with these our eyes, yea, with the eyes that Soma gives.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr beide, Mitra und Varuna, da vom Rechten das Unrechte wegnahmet mit eurem Eifer, mit dem eurer Willenskraft eignen Eifer, da sahen wir dort an euren Sitzen, den goldenen Stuhl, wenn auch nur im Gedanken, im Geiste, mit eigenen Augen, durch die eigenen Augen des Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie ihr ja, Mitra, Varuna, zum Schutz des Rechts das Unrecht packt mit eures eignen Zornes Macht, mit eures Geistes innerm Zorn, So haben wir auf euerm Sitz fürwahr geschaut das goldne Recht, Mit Geist und Sinn, ja mit den eignen Augen auch, mit Soma's eignen Augen auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С тех самых пор, о Митра-Варуна, когда за пределы Закона  
 Вы поместили Беззаконие – своим рвением,  

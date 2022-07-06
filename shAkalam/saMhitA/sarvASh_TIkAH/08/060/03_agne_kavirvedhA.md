@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने कवि꣡र् वेधा꣡ असि  
 हो꣡ता पवाक+ य꣡क्षियः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वि꣡प्रेभिः शुक्र म꣡न्मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 म॒न्द्रः । यजि॑ष्ठः । अ॒ध्व॒रेषु॑ । ईड्यः॑ । विप्रे॑भिः । शु॒क्र॒ । मन्म॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -99,36 +99,36 @@ genre M;; repeated line
 हे **अग्ने** **कविः** मेधावी त्वं **वेधाः** विधाता **असि** फलानाम् । हे **पावक** **होता** देवानामाह्वाता होमनिष्पादको वा **यक्ष्यः** यष्टव्योऽसि । हे **शुक्र** दीप्त **मन्द्रः** मोदनीयः **यजिष्ठः** यष्टृतमस्त्वम् **अध्वरेषु** यज्ञेषु **विप्रेभिः** मेधाविभिर्ऋत्विग्भिः **मन्मभिः** मननीयैः स्तोत्रैः **ईड्यः** स्तुत्योऽसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, you, wise, are the creator (of consequences); O purifier, you are the involving priest, worthy ofworship; bright one, you are to be praised in our sacrifices by the priests with hymns, yourself the chief ministrantworthy to be rejoiced in.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, pure one, you are the sage poet and ritual expert, the Hotar who  receives (the command) “sacrifice!”—  
 delightful, the best sacrificer, to be invoked at the ceremonies by our  inspired poets with their thoughts, o blazing one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, thou art Disposer, Sage, Herald, bright God! and worshipful,  
      Best offercr, cheerful, to be praised in holy rites, pure Lord! by singers with their hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, du bist der Seher, der Meister, der wunderbare Hotri, du Lauterer, wohlredend, bestopfernd, im Gottesdienst von den Redekundigen mit Gebeten anzurufen, du Heller.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als weiser Ordner strahlest du, als rascher Priester, Flammender, Aufs beste opfernd, hold bei Festen, preisenswerth durch fromme Lieder, Agni du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, ты поэт, устроитель (обряда),  
 Хотар, о очищающий (бог), которого надо почитать,  

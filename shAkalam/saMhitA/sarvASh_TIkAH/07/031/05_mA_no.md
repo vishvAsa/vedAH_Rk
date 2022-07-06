@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो निदे꣡ च व꣡क्तवे  
 अर्यो꣡ रन्धीर् अ꣡रावणे  
 तुवे꣡ अ꣡पि क्र꣡तुर् म꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त्वे इति॑ । अपि॑ । क्रतुः॑ । मम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **अर्यः** स्वामी त्वं **वक्तवे** परुषवाक्यानां वक्त्रे **निदे** निन्दित्रे **अराव्णे** अदात्रे **नः** अस्मान् **मा** **रन्धीः** वशं मा कार्षीः। **अपि** अपि च **त्वे** त्वयि **मम** **क्रतुः** मदीयं स्तोत्रलक्षणं कर्म गच्छत्विति शेषः । अस्मदीयं स्तोत्रं भवच्चित्ते प्रविशत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,33 +102,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 May my worship verily find favour with you: tve api kratur mama, in you evermy act, means, says, **Sāyaṇa**, asmadīyam stotram bhavacchitte praviśatu, may my praise enter into yourheart
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do not make us subject to scorn to be spoken or to the hostility of the  stranger.  
 On you is my determination (fixed).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Contra Geldner (and Klein DGRV I.175), I take váktave with nidé, not with árāvṇe, which respects the pāda boundary and also conforms better to the semantic domain of the two nouns: níd- ‘scorn’ is verbal, whereas árāvan- is more general. In either interpretation the position of ca is a problem, since it appears with the first member of a conjoined NP, not the second. In my interpretation the configuration is X ca X' ... Y, in the Geldner/Klein interpretation X ca Y...Y'.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us not up to man's reproach, to foeman's hateful calumny: In thee alone is all my strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und überantworte uns nicht dem Tadel, dem mißgünstigen Gerede eines hohen Herrn! Nach dir steht mein Sinn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht gib uns treue hin dem Neid, dem Schmäher, noch dem Geizigen; In dir allein ruht meine Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И не отдай ты нас во власть хулы,  
 Недоброжелательной речи врага!  

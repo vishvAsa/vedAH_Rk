@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शूषे꣡भिर् वृधो꣡ जुषाणो꣡ अर्कइ꣡र्  
 देवाँ꣡ अ꣡छा रघुप꣡त्वा जिगाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡म्मिश्लो अग्नि꣡र् आ꣡ जिघर्ति देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒न्द्रः । होता॑ । सः । जु॒ह्वा॑ । यजि॑ष्ठः । सम्ऽमि॑श्लः । अ॒ग्निः । आ । जि॒घ॒र्ति॒ । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śūṣebhir* ← *śūṣebhiḥ* ← *śūṣa*
 - \[noun\], instrumental, plural, masculine
@@ -118,7 +118,7 @@ genre M
 **वृधः** वर्धितोऽग्निः **शूषेभिः** हविर्लक्षणैर्बलै:। बलनिमित्तैर्हविर्भिरित्यर्थः । अर्केः स्तोत्रैश्च **जुषाणः** सेव्यमानः सन् **देवान्** इन्द्रादीन् **अच्छ** आप्तुं **रघुपत्वा** लघुपतनः शीघ्रगामी **जिगाति** गच्छति। गत्वा च **मन्द्रः** स्तुत्यः **होता** देवानामाह्वाता होमनिष्पादको वा **यजिष्ठः** यष्टृतमः **संमिश्लः** स्वगुणैर्देवैर्वा संप्रयुक्तः **सः** **अग्निः** **देवान्** प्रति हविः **आ** **जिघर्ति** आहारयति । देवेभ्यो हविर्ददातीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre M
 Sacrificial ladle: sammiślaḥ = svaguṇair devair vāsamprayuktaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Grown strong with the fortifying (hymns) and being delighted by the  chants, with swift flight he goes to the gods.  
 As the gladdening, best-sacrificing Hotar, with his tongue Agni sprinkles  the gods, mingling together (with them).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Increasing by his strength. while lauds content him, with easy flight unto the Gods he travels.  
      Agni the cheerful Priest, best Sacrificer, balms with his tongue the Gods with whom he mingles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch Aufmunterungen gestärkt, über die Preislieder erfreut, geht er rasch fliegend zu den Göttern. Er ist der Wohlredende Hotri, der mit der Zunge am besten opfert; Agni holt die Götter herbei als ihr Geselle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreut durch Preislied, durch Gesang befriedigt, kommt zu den Göttern er in schnellem Fluge, Der holde, beste Opferer beträufelt, die Götter Agni mit dem Butterlöffel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Усиленный громкими песнями, радующийся гимнам,  
 Стремительно летя, движется он к богам.  

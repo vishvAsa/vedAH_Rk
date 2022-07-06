@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वेषं꣡ गणं꣡ तव꣡सं खा꣡दिहस्तं  
 धु꣡निव्रतम् मायि꣡नं दा꣡तिवारम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡न्दस्व विप्र तुविरा꣡धसो नॄ꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒यः॒ऽभुवः॑ । ये । अमि॑ताः । म॒हि॒ऽत्वा । वन्द॑स्व । वि॒प्र॒ । तु॒वि॒ऽराध॑सः । नॄन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
@@ -118,20 +118,20 @@ genre M
 त्वेषं दीप्तं **गणं** मारुतं **तवसं** बलवन्तं **खादिहस्तं** कटकहस्तं **धुनिव्रतं** कम्पयितृकर्माणं **मायिनं** प्रज्ञावन्तं **दातिवारं** दत्तधनं हे **विप्र** होतः **वन्दस्व** स्तुहीति संबन्धः । **ये** मरुतः **मयोभुवः** सुखस्य भावयितारः **महित्वा** महत्त्वेन **अमिताः** अपरिच्छिन्नाः ॥ तान् **तुविराधसः** प्रभूतधनान् **नॄन्** नेतॄन् वन्दस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adore, priest, the resplendent and powerful company, whose arms (are decorated) with bracelets, whose function is the agitation (of the trees), who are wise, and by whom wealth is conferred; they who are bestowers of felicity, whose greatness is unbounded; glorify the opulent leaders (of rites).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The turbulent, powerful flock with bangles on their hands, of boisterous  commandment, masters of artifice, granting wishes,  
 who are joy itself, immeasurable in their greatness. O poet, extol the  powerfully generous men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my opinion the same switch in number happens in this vs. as in the preceding one, exactly in the same way -- with yé in c picking up gaṇám in the first hemistich. The standard tr. take the rel. cl. of c with d: the pl. yé matches the number of its putative antecedent nṝ́n in d exactly. Although connecting with c thus appears to be the easier syntactic course, the exact parallelism between 1abc and 2abc makes that structure more appealing, and in addition the pāda-init. impv. vándasva in d seems to be marking a syntactic break.
 
@@ -146,23 +146,23 @@ The phrase mayo(-bhúvaḥ) … ámitāḥ appears to be an etymological play bu
 It’s worthy of note that the vs. contains 3 nominal forms with 1st member ending in -i, all with different explanations: dhúni-vrata- (a regular -i-stem; AiG II.2.296), the mysteriously formed (at least to me) dā́ti-vāra-, and tuvi-rā́dhas- (Caland compounding -i-). To which we might add mahitvā́and the immediately preceding ámitā(ḥ) with mirror-image phonology.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mighty glittering band, arm-bound with bracelets, givers of bliss, unmeasured in their greatness,  
      With magical powers, bountiful, ever-roaring,-these, liberal Heroes, venerate thou singer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die überraschende Schar, die kräftige, mit Spangen an den Händen, von lärmendem Treiben, die zauberkundige, Wünsche gewährende. Die vielschenkenden Herren, die erfreulichen, die an Größe unermeßlich sind, die lobe, du Redekundiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die wilde, starke Schar, die ringgeschmückte, die brausendgehnde, weise, gabenreiche, Die Männer rühm, o Sänger, die erfreuen, an Gaben reich, an Grösse unermessen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Неистовую толпу, могущественную, с кольцами на руках,  
 Буйного нрава, обладающую волшебной силой, исполняющую желания:  

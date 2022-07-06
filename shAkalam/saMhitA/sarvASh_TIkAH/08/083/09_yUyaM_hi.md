@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ हि꣡ ष्ठा꣡ सुदानव  
 इ꣡न्द्रज्येष्ठा अभि꣡द्यवः  
 अ꣡धा चिद् व उत꣡ ब्रुवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अध॑ । चि॒त् । वः॒ । उ॒त । ब्रु॒वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -90,40 +90,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पूर्वोऽर्धर्चः सिद्धः । हे **सुदानवः** शोभनदाना देवाः **इन्द्रज्येष्ठाः** । इन्द्रो ज्येष्ठो मुख्यो येषां ते तथोक्ताः । सर्वे देवा इन्द्रनेतृका इत्यर्थः । तादृशाः **अभिद्यवः** अभिगतदीप्तयः **यूयं** **हि** **स्थ** अस्मद्यज्ञे भवथ खलु । हि प्रसिद्धौ । **अध** **चित्** अथानन्तरमेव **वः** युष्मान् अहं **ब्रुवे** स्तौमि । **उत** अपि च पुनःपुनः स्तौमीत्यर्थः ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bounteous (deities) with **Indra** as your chief, be present here in your radiance; again and again I praiseyou.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you of good gifts, with Indra preeminent—you are heaven-sent. And so I call just upon you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not understand the position of utá here. Although Klein cites this passage several times, he doesn’t comment on the position of utá except implicitly, by pointing to its interaction with ádhā (DGRV II.97-98).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then come with Indra for your chief, as early day, ye Bounteous Gods  
      Yea, 1 address you now for this.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr seid ja die Gabenschönen mit Indra an der Spitze, die Himmlischen. Und gerade darum spreche ich euch an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, ihr von Indra angeführt bewohnt den Himmel gabenreich, darum auch rufe ich euch an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुहुराणा꣡ चिद् अश्विना  
 आ꣡ मन्येथां वृषण्वसू  
 युवं꣡ हि꣡ रुद्रा प꣡र्षथो अ꣡ति द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यु॒वम् । हि । रु॒द्रा॒ । पर्ष॑थः । अति॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juhurāṇā* ← *hvṛ*
 - \[verb noun\], nominative, dual
@@ -84,36 +84,36 @@ genre M
 हे वृषण्वसू वर्षणशीलधनवन्तौ **अश्विना** अश्विनौ **जुहुराणा** **चित्** । **हुर्छा** कौटिल्ये'। ‘हुर्छेः सनो लुक् छलोपश्च' (उ. सू. २. २४८) इत्यानच्प्रत्ययः । कुटिलान् कर्मविघ्कारिणो मायाविनोऽपि शत्रून् **आ** आभिमुख्येन **मन्येथां** जानीतम् । ततो हे **रुद्रा** संग्रामे रोदनशीलौ रुवन्तौ वा अश्विनौ **युवम्** । हिरवधारणे । युवामेव **द्विषः** द्वेषकारिणः तान् शत्रून् **अति** **पर्षथः** अतीत्य संक्लेशयतम् । हतमित्यर्थः । ‘पृषु हिंसासंक्लेशनयोः' इति भौवादिकः ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, affluent showerers (of benefits), detect the guileful, verily, **Rudras**, vex your adversaries.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even as you follow your meandering course, you should turn your mind  here, o Aśvins, who bring bullish goods,  
 for (then) you two, o Rudras, shall deliver (us) beyond hatreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Asvins, who send us precious gifts, even when offended, think of him:  
      For ye, O Rudras, lead us safe beyond our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch wenn ihr Asvin vom Weg abgekommen seid, so denket hierher, ihr Schätzereiche, denn ihr Rudra´s sollt über die Anfeindungen hinweghelfen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nehmt wahr auch, was beschädigt ist, o Ritter, heldenstarke ihr, Denn über Feinde führt ihr hin, o strahlende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже когда вы рассердились,  
 Подумайте (о нас), о обладатели мощного богатства:  

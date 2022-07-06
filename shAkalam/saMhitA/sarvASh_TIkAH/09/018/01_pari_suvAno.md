@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि स्वानो꣡° गिरिष्ठाः᳐꣡  
 पवि꣡त्रे सो꣡मो अक्षाः᳐  
 म꣡देषु सर्वधा꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मदे॑षु । स॒र्व॒ऽधाः । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -83,35 +83,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयं **सोमः** **पवित्रे** **परि** **अक्षाः** परिक्षरति । **सुवानः** सूयमानः **गिरिष्ठाः** गिरिस्थायी । ग्रावसु वर्तमान इत्यर्थः । स त्वं **मदेषु** मादकेषु सोतृषु **सर्वधा** **असि** सर्वस्य धाता दाता वा भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Effused while pressed between the stones, the **Soma** flows upon the straining cloth; you are the giver of all things to those who praise you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mountain-dwelling Soma, being pressed, has flowed around in the filter. – You are the one who confers wholeness in the raptures of exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU, Soma, dweller on the hills, effused, hast flowed into the sieve,:  
      All-bounteous art thou in carouse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der berggewachsene Soma kreiste ausgepreßt in der Seihe um. - Im Rausche bist du der Allgewährer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Berg – entstammte Soma rinnt gekeltert zu der Seihe hin; Bei den Gelagen schenkst du Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Живущий на горе сома,  
 Выжатый, потек кругами в цедилке.  

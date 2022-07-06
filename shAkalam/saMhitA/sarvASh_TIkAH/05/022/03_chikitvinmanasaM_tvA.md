@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चिकित्वि꣡न्मनसं तुवा  
 देव꣡म् म꣡र्तास ऊत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इयाना꣡सो अमन्महि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वरे॑ण्यस्य । ते॒ । अव॑सः । इ॒या॒नासः॑ । अ॒म॒न्म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cikitvinmanasaṃ* ← *cikitvinmanasam* ← *cikitvinmanas*
 - \[noun\], accusative, singular, masculine
@@ -83,40 +83,40 @@ genre M
 हे अग्ने **चिकित्विन्मनसम्** । चिकित्वित् जानत् मनो यस्यासौ चिकित्विन्मनाः । तं **देवं** **त्वा** त्वाम् **इयानासः** उपगच्छन्तः **मर्तासः** मनुष्या वयम् **ऊतये** रक्षणार्थं **वरेण्यस्य** संभजनीयस्य **ते** तव **अवसः** अवसे तर्पणाय **अमन्महि** स्तुमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Men have recourse to you, divine **Agni**, who are of intelligent mind, for security; we praise you who are most excellent, seeking your protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We mortals have brought to mind you of attentive mind, you a god, for help, begging for the help of you, the desirable one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All mortals come to thee for aid, the God of most observant mind.  
      Of thine excelling favour we bethink us as we long for it.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We, the mortals, approaching thee, the attentive-minded god, for thy help, have thought of thy desirable aid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem wir Sterbliche dich, den Gott mit achtsamem Sinne, um Gunst angehen, haben wir an deine vorzügliche Gnade gedacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dir dem sorgsam achtenden, dem Gotte flehn wir Sterblichen Um Huld zu dir dem herrlichen; um Hülfe gehen wir dich an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прося тебя, бога  
 С внимательной мыслью, о помощи,  

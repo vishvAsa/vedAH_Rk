@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महे꣡ नो अद्य꣡ बोधय  
 उ꣡षो राये꣡ दिवि꣡त्मती  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सु꣡जाते अ꣡श्वसूनृते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M
 यथा॑ । चि॒त् । नः॒ । अबो॑धयः । स॒त्यऽश्र॑वसि । वा॒य्ये । सुऽजा॑ते । अश्व॑ऽसूनृते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 **अद्य** अस्मिन् यागदिने हे **उषः** उषोदेवि **दिवित्मती** दीप्तिमती त्वं **नः** अस्मान् **महे** महते **राये** धनप्राप्तये **बोधय** प्रज्ञापय । प्रकाशयेत्यर्थः । सति प्रकाशे क्रतुद्वारा दृव्यस्योपार्जयितुं शक्यत्वात् । **यथा** **चित्** यथैव पूर्वं **नः** अस्मान् **अबोधयः** अतीतेषु दिवसेषु यथा बोधितवती तद्वदद्यापि इत्यर्थः । हे **सुजाते** शोभनप्रादुर्भूते **अश्वसूनृते** । अश्वार्था प्रियसस्यात्मिका स्तुतिवाक् यस्याः सा । हे तादृशि देवि **वाय्ये** वय्यपुत्रे **सत्यश्रवसि** मय्यनुगृहाणेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,14 +121,14 @@ genre M
 The concluding phrase is the refrain of the following verses: sujāte aśvasūnṛte: **sujātā**, well-born = śobhanaprādur **bhūta**, becoming manifest with splendour or light; aśvasunṛta, she whose praise for the sake of horses is affectionate and true, **svartha** priyasatyātmika stutivāk yasyāḥ sa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Awaken us today for great wealth, o Dawn, as heaven-bright one,  
 just as you also awakened us at Satyaśravas Vāyya’s  
 – o well-born lady, liberal with horses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase mahé … rāyé divítmatī is very reminiscent of IV.31.11 mahó rāyé divítmate, with an adverbial maháḥ but a dat. divítmate modifying rāyé. See comm. ad loc. It seems likely that our fem. divítmatī is a nonce adaptation to the fem.
 
@@ -146,23 +146,23 @@ attributes the hymn to Satyaśravas Ātreya, but as Geldner points out [n. 1d] h
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O HEAVENLY Dawn, awaken us to ample opulence to-day  
      Even as thou hast wakened us with Satyasravas, Vayya's son, high-born! delightful with thy steeds!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Weck uns heute, o Usas, zu großem Reichtum, du die Glanzreiche, wie du uns sonst bei Satyasravas Vayya geweckt hast, du Edelgeborene, Roßeschenkende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu grossem Reichthum weck uns heut, o Morgenroth, zu glänzendem; Wie du uns immer aufgeweckt, bei Vajja's Sohn, Satjaçravas, o edle, rossereiche du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разбуди нас сегодня для великого  
 Богатства, о Ушас, полная блеска,  

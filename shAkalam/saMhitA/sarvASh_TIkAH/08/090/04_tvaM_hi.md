@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ सत्यो꣡ मघवन्न् अ꣡नानतो  
 वृत्रा꣡ भू꣡रि निऋञ्ज꣡से  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अर्वा꣡ञ्चं रयि꣡म् आ꣡ कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । त्वम् । श॒वि॒ष्ठ॒ । व॒ज्र॒ऽह॒स्त॒ । दा॒शुषे॑ । अ॒र्वाञ्च॑म् । र॒यिम् । आ । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -121,36 +121,36 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **सत्यः** सत्यकर्मा **त्वम्** एव **अनानतः** केषामप्यप्रह्वः सन् **भूरि** भूरीणि वृत्राणि रक्षांसि **न्यृञ्जसे** तानि प्रह्वीभावयसि । न्यक्करोषीत्यर्थः । हिरवधारणे । हे **शविष्ठ** बलेन वृद्धतम हे **वज्रहस्त** । वज्रो हस्ते यस्य स तथोक्तः । हे इन्द्र **सः** तादृशः **त्वं** **दाशुषे** तुभ्यं हविर्दत्तवते यजमानाय **रयिं** धनादिकम् **अर्वाञ्चम्** अवाचीनमभिमुखं यथा गच्छति तथा तम् **आ** **कृधि** समन्तात्कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are truthful, **Maghavan**, unhumbled yourself, you humble many enemies; most mighty thunderer,cause wealth to meet your worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, bounteous one, the real thing who cannot be bowed, bear down  on many obstacles.  
 You, o strongest one with mace in hand—bring wealth nearby for the  pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou, O Maghavan, art truthful, ne'er subdued and bringest many a Vrtra low.  
      As such, O Mightiest Lord, Wielder of Thunder, send wealth hither to the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du, Gabenreicher, der Wahrhafte, Ungebeugte, zwingst viele Feinde. Bring, Mächtigster, mit der Keule in der Hand, dem Opferspender Reichtum ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du bist wahrhaft ungebeugt, o mächtiger, und viele Feinde streckst du hin; So bring', o stärkster, Gut dem Frommen nah herbei, der in der Hand den Blitz du trägst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

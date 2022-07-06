@@ -6,14 +6,14 @@ ChandaH = "पुरउष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था व꣡शन्ति देवा᳐꣡स् त꣡थे꣡द् असत्  
 त꣡द् एषां न꣡किर् आ꣡ मिनत्  
 अ꣡रावा चन꣡ म꣡र्तियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अरा॑वा । च॒न । मर्त्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -102,7 +102,7 @@ genre M
 तदेवाह एषां देवानां तत्कामनं **नकिर्** न कश्चिदपि **मिनत्** हिनस्ति - मीङ् हिंसायां लेटिरूपम् मीनातेर् निगम इति ह्रस्वत्वम् । कथं देवानाम् अभिलषितं तथाभवतीतिचेत् तदाह- **अरावा** - यदि देवाः कस्यचिद् अप्य् अदातारं मनुष्यं कामयेरन् तदा **अरावा** अदाता **चने**त्य् अप्य् अर्थे अदातापि **मर्त्यो** मनुष्यः उशड्यो देवेभ्यो हवींषि प्रयच्छति तस्मात् तेषां यत् कामनं तत् तथा भवत्येवेत्यर्थः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,29 +113,29 @@ genre M
 Or, even the non- offering mortal (must give offerings if they will it)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the gods desire, just so will it be. No one will confound this (desire) of  theirs,  
 not even a hostile mortal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as the Gods desire so verily shall it be. None minisheth this power of theirs,  
      No demon, and no mortal
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Götter es wollen, so soll es geschehen; das vereitelt ihnen keiner, auch nicht der mißgünstige Sterbliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie es der Götter Wille fügt, geschieht es, niemand hindert es, Auch nicht der böse Sterbliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как хотят боги, так и будет!  
 Никто этому у них не помешает,  

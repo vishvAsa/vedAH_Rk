@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सो꣡मो अ꣡ति धा꣡रया  
 प꣡वमानो असिष्यदत्  
 अभि꣡ द्रो꣡णानि आस꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒भि । द्रोणा॑नि । आ॒ऽसद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -74,35 +74,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अयं **पवमानः** **सोमः** **धारया** **अति** अतिक्रम्य देशापवित्रं **प्र** **असिष्यदत्** प्रस्यन्दते । किमर्थम् । **द्रोणानि** द्रोणकलशादीनि **आसदम्** आसादनाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This purified **Soma** flows out in a stream to take its plural ce in the pitchers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma, purifying himself in a stream, has flowed forth, beyond (the filter), to the wooden cups to take his seat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither hath Pavamana flowed, Soma flowed hither in a stream,  
      To settle in the vats of wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd ist der Soma im Strom über die Seihe geflossen, um sich in die Holzgefäße zu setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Strom ist Soma vorgeeilt, der durch die Seihe rieselnde, Zu setzen in die Kufen sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома-Павамана хлынул  
 Потоком вперед через (цедилку),  

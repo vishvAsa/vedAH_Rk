@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ त ऊति꣡र् अवमा꣡ या꣡ परमा꣡  
 या꣡ मध्यमा꣡ इन्दर+ शुष्मिन् अ꣡स्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एभि꣡श् च वा꣡जैर् महा꣡न् न उग्र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ताभिः॑ । ऊं॒ इति॑ । सु । वृ॒त्र॒ऽहत्ये॑ । अ॒वीः॒ । नः॒ । ए॒भिः । च॒ । वाजैः॑ । म॒हान् । नः॒ । उ॒ग्र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -146,36 +146,36 @@ genre M
 हे **शुष्मिन्** बलवन् **इन्द्र** **ते** त्वदीया **या** **ऊतिः** या रक्षा **अवमा** अधमा **अस्ति** । **या** **परमा** उत्कृष्टास्ति । **या** **मध्यमा** अस्ति । **ताभिः** ऊतिभिः **वृत्रहत्ये** युद्धे **नः** अस्मान् **सु** अत्यन्तम् **अवीः** पालय । किंच हे **उग्र** उद्गूर्णेन्द्र **महान्** त्वम् **एभिः** भोज्यसाधनैः **वाजैः** अन्नैः **च** **नः** अस्मान् संयोजयेति शेषः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Powerful **Indra**, with these (your protections), whether the protection be little, great or middlin, defend us for the destruction of our foes; supply us, fierce Indra, who are mighty, with those viands (that are needed).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What is your nearest help, what your farthest, and what your midmost,  tempestuous Indra,  
 with those (forms of help) help us well at the Vr̥tra-smashing and with  these prizes, as the great one among us, o mighty one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH thine assistance, O thou Mighty Indra, be it the least, the midmost, or the highest,-  
      Great with those aids and by these powers support us, Strong God! in battle that subdues our foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was deine nächste Hilfe, deine fernste, deine mittlere ist, du ungestümer Indra, mit denen steh uns doch ja in der Feindschlacht bei, und mit diesen Erfolgen groß steh uns bei, Gewaltiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, welches deine letzte Hülfe, die erste ist, die mittlere, o starker, Mit denen hilf uns schnell im Feindeskampfe, mit diesen Laben kräftig uns, o hehrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) поддержка твоя, которая ближняя, которая дальняя,  
 Которая средняя, существует, о Индра пламенный,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ युष्मे꣡ वाजबन्धवो  
 निनित्सु꣡श् चन꣡ म꣡र्तियः  
 अवद्य꣡म् अ꣡धि दीधरत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अ॒व॒द्यम् । अधि॑ । दी॒ध॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -79,36 +79,36 @@ genre M
 हे **वाजबन्धवः** अन्नबन्धवोऽन्नप्रदाः । एवं पुत्राणां पितृपुत्ररूपाणां षण्णां वा संबोधनम् । हे राजानः **युष्मे** युष्मासु **निनित्सुश्चन** निन्दकोऽपि **मर्त्यः** मनुष्यः **अवद्यं** निन्दा **न** **अधि** **दीधरत्** नान्वधारयत्। नारोपयति युष्मासु । अतोऽनिन्द्या यूयमिति दातॄणां स्तुतिः ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O princes, givers of food, even the lover of calumny has thrown no censure on you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never will a mortal seeking to scorn you [=patrons], o you who are kin  to prizes,  
 hold disrepute over you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O bound to me by deeds of might, not even the man who loves to blame.  
      Hath found a single fault in you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch ein tadelsüchtiger Mensch soll euch, ihr Beutegenossen, keinen Tadel anhängen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht kann auf euch, o Kampfgenossen, selbst ein tadelsüchtiger Sterblicher einen Vorwurf bringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

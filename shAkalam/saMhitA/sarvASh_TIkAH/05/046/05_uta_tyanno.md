@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्य꣡न् नो मा꣡रुतं श꣡र्ध आ꣡ गमद्  
 दिविक्षयं꣡ यजत꣡म् बर्हि꣡र् आस꣡दे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वरूथि꣡यं व꣡रुणो मित्रो꣡ अर्यमा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पतिः॑ । शर्म॑ । पू॒षा । उ॒त । नः॒ । य॒म॒त् । व॒रू॒थ्य॑म् । वरु॑णः । मि॒त्रः । अ॒र्य॒मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -128,41 +128,41 @@ genre M
 **उत** अपि च **त्यत्** तत् **मारुतं** **शर्धः** मरुतां बलं संघः **नः** अस्मान् **आ** **गमत्** आगच्छतु । कीदृशं तच्छर्धः । **दिविक्षयं** द्युलोके वर्तमानं **यजतं** पूज्यम् । किमर्थमागमनमिति तदुच्यते । **बर्हिः** बर्हिषि **आसदे** उपवेष्टुम् । उपविश्य हविःस्वीकारायेत्यर्थः । किंच **बृहस्पतिः** देवः **शर्म** सुखं **यमत्** यच्छतु । **उत** **नः** अस्मभ्यं **पूषा** अपि यमत् । कीदृशं शर्म। **वरूथ्यम्** । वारयति शीतवातादिकमिति वरूथं गृहम् । तदर्हं वरूथ्यम् । किंच वरुणादयस्त्रयोऽपि प्रत्येकं शर्म यच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Or may the adorable, heaven-abiding company of the **Maruts**, come to us to take their seats on the sacred grass; or may **Bṛhaspati**, **Pūṣaṇ**, **Varuṇa**, **Mitra**, **Aryaman**, bestow upon us domestic happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And may there come to us here this Marutian troop, dwelling in heaven,  worthy of the sacrifice, to sit on the ritual grass.  
 May Br̥haspati and Pūṣan provide to us shelter for defense, and Varuṇa,  Mitra, and Aryaman.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Maruts recur for the third time (the 2nd time in the corporate entity, the Marutian troop [mā́rutaṃ śárdhaḥ]), as does Pūṣan, with Bṛhaspati substituting for the Brahmaṇaspati in 3c. Varuṇa and Mitra also make their 3rd appearance, this time with their regular companion Aryaman, rather than the Aditi of 3a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may the band of Maruts dwelling in the sky, the holy, come to us to sit on sacred grass;  
      Brhaspati and Pusan grant us sure defence, Varuna, Mitra, Aryaman guard and shelter us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch jenes marutische Heer, das im Himmel wohnende, opferwürdige soll kommen, um sich auf dieses unser Barhis zu setzen. Brihaspati und Pusan sollen uns schützende Zuflucht gewähren und Varuna, Mitra Aryaman.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und zu uns komme diese hehre Marutschar, die thront im Himmel, sich zu setzen auf die Streu; Es reiche Schutz uns Puschan und Brihaspati, beschirmenden Varuna, Mitra, Arjaman.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также эта стая марутова пусть придет к нам,  
 (Она) живущая на небе, достойная жертв – чтобы сесть на жертвенную солому!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गा꣡म् अङ्गइ꣡ष꣡ आ꣡ ह्वयति  
 दा꣡र्व् अङ्गइ꣡षो꣡ अ꣡पावधीत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡क्रुक्षद् इ꣡ति मन्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 वस॑न् । अ॒र॒ण्या॒न्याम् । सा॒यम् । अक्रु॑क्षत् । इति॑ । म॒न्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gām* ← *go*
 - \[noun\], accusative, singular
@@ -103,14 +103,14 @@ popular;; epic anuṣṭubh (292)
 **अङ्ग** हे अरण्यानि **एषः** त्वदधिष्ठिते महारण्ये संप्रति वर्तमानः **गाम्** **आ** **ह्वयति** । **एषः** चान्यः ”दारु काष्ठम् ”अपावधीत् अपहन्ति । तथा **सायं** सायंकाले रात्रौ ”अरण्यान्यां महारण्ये निवसन मनुष्यो नानाविधं पक्षिमृगादिशब्दं शृण्वन् ”अक्रुक्षत् कश्चित्तस्करादिराक्रोशति ”इति भीतः सन् ”मन्यते बुध्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This man calls his cow, another cuts down the timber; tarrying in the forest eventide, one thinks thereis a cry.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Surely it’s someone calling his cow; surely another has been  
 splitting wood.  
@@ -118,28 +118,28 @@ But staying by the Lady of the Wilderness at evening, one imagines
 “(Something) has shrieked!”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here one is calling to his cow, another there hath felled a tree:  
      At eve the dweller in the wood fancies that somebody hath screamed.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Here some one calls his cow to him, Another there is felling wood: Who in the forest bides at eve Thinks to himself,"I heard a cry."
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ruft wahrhaftig einer seine Kuh, da hat wahrhaftig einer Holz gefällt. Wer des Abends im Walde weilt, meint, es habe einer um Hilfe geschrieen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dort ruft wol einer seine Kuh, dort hat wol einer Holz gefällt, Jetzt schrie es laut, so meint wol der, der Abends in der Wildniss weilt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот кто-то кличет корову,  
 Вот кто-то дров нарубил:  

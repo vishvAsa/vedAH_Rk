@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ अ꣡द्रयो द꣡शयन्त्रास आश꣡वस्  
 ते꣡षाम् आधा꣡नम् प꣡रि एति हर्यत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अंशोः꣡ पीयू꣡षम् प्रथम꣡स्य भेजिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ते । ऊं॒ इति॑ । सु॒तस्य॑ । सो॒म्यस्य॑ । अन्ध॑सः । अं॒शोः । पी॒यूष॑म् । प्र॒थ॒मस्य॑ । भे॒जि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -126,36 +126,36 @@ popular
 अद्रयः आदरणीयाः आशवः क्षिप्रकारिणः **ते** एते प्रकृता ग्रावाणः दशयन्त्रासः दशयन्त्राः । तेषाम् एषां ग्राव्णां संबन्धि यत् **आधानं** प्रक्षेपणमभिषवकर्म हर्यतं स्पृहणीयं **पर्येति** परितो गच्छति । ते एते ग्रावाण एव सुतस्य अभिषुतस्य सोम्यस्य सोमस्य संबन्धिनः अंशोः खण्डस्वरूपस्य **अन्धसः** अन्नस्य पीयूषम् अमृतं प्रथमं भेजिरे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These stones, having ten reins, swiftly moving, their delightful whirling goes round; they first tasted theambrosia of the fragment of food of the expressed **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These swift stones have ten fastening straps. Their delightful harness  encircles (them).  
 They have taken as their share the beestings of the pressed somian stalk  of the first plant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Stones with ten conductors, rapid in their course, with lovely revolution travel round and round.  
      They have been first to drink the flowing Soma juice, first to enjoy the milky fluid of the stalk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Steine sind Renner mit zehn Riemen, ihr Zaun legt sich angenehm herum. Sie haben vom ausgepreßten somischen Trank den Seim des ersten Stengels genossen
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zehnfach gezäumten Rossen sind die Steine gleich, und ihre Fahrt umläuft den lieben Somatrank; Des besten Stengels erste Milch genossen sie, des ausgepressten Somakrautes besten Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

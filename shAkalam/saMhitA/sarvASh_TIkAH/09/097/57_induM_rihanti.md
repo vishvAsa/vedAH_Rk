@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दुं रिहन्ति महिषा꣡ अ꣡दब्धाः  
 पदे꣡ रेभन्ति कव꣡यो न꣡ गृ꣡ध्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡म् अञ्जते रूप꣡म् अपां꣡ र꣡सेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 हि॒न्वन्ति॑ । धीराः॑ । द॒शऽभिः॑ । क्षिपा॑भिः । सम् । अ॒ञ्ज॒ते॒ । रू॒पम् । अ॒पाम् । रसे॑न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *induṃ* ← *indum* ← *indu*
 - \[noun\], accusative, singular, masculine
@@ -124,20 +124,20 @@ genre M
 महिषा महान्तः पूज्यावा अतएवादव्धाः कैश्चिदप्याहिंसिता देवा इन्दुं सोमं रिहन्ति लिहन्त्यास्वादयन्ति । किञ्च देवाः सोममुशन्तः सन्तः पदे तस्यास्य सोमस्य धारास्थाने रेभन्ति शब्दायन्ते । तत्र दृष्टान्तः—कवयोनगृध्राः धनमभिकाङ्क्षमाणाः कवयः स्तोतारो- यथा स्तुवन्तः शब्दायन्ते तद्वत् धीराः कर्मणिकुशला ऋत्विजः दशभिः एतत्सङ्ख्याकाभिः क्षिपाभिरङ्गुलीभिः तमिमंसोमं हिन्वन्ति अभिषवार्थं प्रेरयन्ति । अपिच रूपं अंशुं अपां वसतीवर्याख्यानां रसेन समञ्जते सम्यक् सेवयन्ति ॥ ५७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The adorable, unassailable (deities) sip the **Soma** juice, they hail it at its station like worshippers greedy (of wealth); the skilful priests send forth the Soma with their ten fingers, they anoint its body with the fluid of the waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The undeceivable buffaloes lick the drop. On his track the poets squawk  like birds of prey.  
 The insightful ones impel him with their ten fingers. They jointly anoint  his form with the sap of the waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile in b is one of the best pieces of evidence for my interpr. of √ribh as ‘squawk, creak,’ etc., rather than ‘sing’. The simile “like birds of prey” (ná gṛ́dhrāḥ) only makes sense if the verb that expresses the sounds of the voices of the poets (kaváyaḥ) is not a mellifluous one. Both Geldner and Renou struggle with this. Geldner reduces rebhanti to ‘become hearable/known’: “… werden die Seher lautbar wie die Geier” (not the first quality one things of for a Geier); Renou simply recasts the simile: “sur sa trace ils psalmodient, comme des poètes avides (de gain).”
 
@@ -155,23 +155,23 @@ Happily none of the vss. presents us with the desperate difficulties of the prec
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Great Inviolate are kissing Indu, and singing in his place like eager sages.  
      The wise men send him forth with ten swift fingers, and balm his form with essence of the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Saft lecken unbeirrt die Büffel; auf seinen Spuren werden die Seher lautbar wie die Geier. Ihn treiben die Kundigen mit zehn Fingern zur Eile; sie mischen seine Farbe mit des Wassers Safte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indu schlürfen unversehrte Büffel, und rauschen dort wie eifervolle Sänger; Es fördern durch zehn Finger ihn die Weisen und salben seinen Leib mit Wasserfluten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Буйволы безобманные лижут сок сомы,  
 В (его) следе они распевают, словно поэты, жадные (до награды).  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि धा꣡मानि या꣡नि ते  
 तुवं꣡ सोमासि विश्व꣡तः  
 प꣡वमान र्तु꣡भिः कवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑मान । ऋ॒तुऽभिः॑ । क॒वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** यस्मात् **ते** त्वदीयानि **धामानि** त्वदधीना अहोरात्ररूपाः कालविशेषाः **परि** भवन्ति सर्वत्र व्याप्तास्तिष्ठन्ति । यद्वा त्वदीयानि धामानि तेजांसि परि वर्तन्ते अत एव हे **पवमान** पूयमान हे **कवे** क्रान्तकर्मन हे सोम त्वम् **ऋतुभिः** वसन्तादिकालविशेषैः सह **विश्वतः** सर्वतः **असि** भवसि । अहोरात्रौ यत्र यत्र व्याप्तौ तत्र तत्र वसन्तादिकालोपाधिकः सोमस्तिष्ठति । तयोस्तधीनत्वादित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,13 +97,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 I.e. Soma whose attributes are the seasons such as spring, exists wherever day and night spread; because day and night are dependent on the Soma (i.e., the moon)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The domains that are yours, Soma, you surround entirely  
 according to the ritual sequences, o self-purifying poet.1294 IX.66
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. of the du. dhā́manī in 2 as the two cosmic domains allows the contrast between that form and the pl. dhā́māni to make sense. We have moved from the cosmic, to the ritual, in particular to the ritual ground - and here the pl. ‘domains’ are the ritual spaces that Soma traverses and encloses. This change of venue and focus is signalled esp. by ṛtúbhiḥ ‘according to the ritual sequences’. Thus the themes of space and the cosmic reach of Soma that I identified as characteristic of this hymn find economical expression in the transition from the cosmic Soma in vs. 2 to the ritual Soma of vs. 3.
 
@@ -121,23 +121,23 @@ contain a form of páva- (pávasva 1a, voc. pa/ávamāna 2b, 3c), but the stem v
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise Soma Pavamana, thou encompassest on every side  
      Thy stations as the seasons come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Formen, die dir eigen, die umschließest du vollständig zu den rechten Zeiten, o Pavamana, o Seher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Um alle Stätten, die du hast, o Soma, bist du überall, O Seher, hell zur Opferzeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सि꣡न्धोर् इव प्रवणे꣡ निम्न꣡ आश꣡वो  
 वृ꣡षच्युता म꣡दासो गातु꣡म् आशत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अस्मे꣡ वा꣡जाः सोम तिष्ठन्तु कृष्ट꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शम् । नः॒ । नि॒ऽवे॒शे । द्वि॒ऽपदे॑ । चतुः॑ऽपदे । अ॒स्मे इति॑ । वाजाः॑ । सो॒म॒ । ति॒ष्ठ॒न्तु॒ । कृ॒ष्टयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
@@ -126,7 +126,7 @@ genre M
 **वृषच्युताः** । वृष हिंसासंक्लेशनदानेष्वपि । वृषभिः सोमस्य दातृभिर्ऋत्विग्भिश्युनदताः परिस्रुताः **मदासः** मदकारिणः सोमाः स्तुतिभिः प्राप्तव्य इन्द्रे **गातुं** गमनम् **आशत** प्राप्नुवन्ति । तत्र दृष्टान्तः । **सिन्धोरिव** **प्रवणे** । प्रगच्छन्त्युदकानि यत्रेति तत्प्रवणम् । तस्मिन् **निम्ने** स्थले सिन्धोर्नद्याः **आशवः** व्याप्ता आपो यथा गच्छन्ति तद्वत् । अथ प्रत्यक्षः। हे **सोम** **नः** अस्माकं **निवेशे** स्वगृहं प्रति प्रवेशने निर्गमने वा **द्विपदे** पुत्रादिकाय **चतुष्पदे** गवादिकाय पशवे **शं** सुखं कुरु । किंच हे सोम **अस्मे** अस्मासु **वाजाः** अन्नानि **कृष्टयः** पुत्रादिकाः प्रजाश्च **तिष्ठन्तु** । अन्नादिकं देहीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,35 +137,35 @@ genre M
 By the sprinklers: Or, praised by the priests who give the Soma; On our return: niveśe = svagṛham **prati** praveśane nirgamane vā, on our entering our home or leavin git; dvipade, catuṣpade are datives from -pad
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As at the forward plunge of a river toward the deep, the swift  
 exhilarating drinks, roused by bulls, have achieved their course.  
 Weal (be) for our two-footed and our four-footed at their homecoming.  Let prizes and peoples stand by us, Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Once again the nirṇíj- (see above, ad vs. 1), here firmly anchored in the ritual here-and-now as the sheepskin filter. The bovine skin (gavyáyī tvák) either refers to the milk mixture or the cowhide on which the pressing apparatus is set up.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As down the steep slope of a river to the vale, drawn from the Steer the swift strong draughts have found a way.  
      Well be it with the men and cattle in our home. May powers, O Soma, may the people stay with us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie im Gefäll des Stromes die Gewässer abwärts, so haben die raschen Rauschtränke, von den Bullen geschüttelt, ihren Weg genommen. Heil sei unseren Zwei- und Vierfüßlern bei ihrer Heimkehr! Auf unserer Seite sollen die Siegerpreise, die Völker stehen, o Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schnellen Tränke haben wie in Stromes Sturz, die stiergepressten, ihren Lauf ins Thal vollbracht, Zum Heil den Menschen und dem Vieh in unserm Haus; lass Leut' und Nahrung, Soma, uns zu Diensten stehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно быстрые (воды) в отлогой низине реки,  
 Пьянящие соки, взбаламученные быками, нашли выход.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्री꣡णि त्रित꣡स्य धा꣡रया  
 पृष्ठे꣡षु ए꣡रया रयि꣡म्  
 मि꣡मीते अस्य यो꣡जना वि꣡ सुक्र꣡तुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 मिमी॑ते । अ॒स्य॒ । योज॑ना । वि । सु॒ऽक्रतुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
@@ -89,7 +89,7 @@ genre M;; line affected by realignment
 हे सोम **त्रितस्य** मम यज्ञस्य स्वभूतानि **त्रीणि** सवनानि **धारया** आत्मीयया विधारय । किंच **पृष्ठेषु** सामसु रयिं दातारमिन्द्रम् **आ** **ईरय** आगमय । **सुक्रतुः** सुप्रज्ञः स्तोता **अस्य** इन्द्रस्य **योजना** योजनानि योजनकारीणि स्तोत्राणि **वि** **मिमीते** करोति । यस्मादेवं तस्मादिन्द्रं सामसु प्रेरयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,13 +100,13 @@ genre M;; line affected by realignment
 I.e., yojanāni which may also mean, roads or stages; in RV.1.018.05, **yojanā** = a means for inducing the gods to yoke their horses, i.e., a hymn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Across) the three (filters), on the backs of Trita (“the third one”), in a  stream—rouse wealth!—  
 he measures out the stages of his journey—the very resolute one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs., too, gives the initial impression of a random series of elements strung together, which are difficult to construe with each other. Note, for ex., that ab contains five different nominal forms in four different cases, which cannot easily be connected. I take the vs. as a whole as a restatement of vs. 2, or an extension of it - describing the progress of Soma through his ritual preparation. The vs. is discussed at length by Oldenberg, in part responding to a treatment of it by Macdonell in JRAS 1893.
 
@@ -133,23 +133,23 @@ Trita figures in these two vss. Although the name Trita has several different re
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Urge to three courses, on the heights of Trita, riches in a stream.  
      He who is passing wise measures his courses out.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die drei Strecken des Trita durchmißt er mit seinem Strome - auf deinem Rücken bringe Reichtum her! - seine drei Wegstrecken, - der Einsichtsvolle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bring durch drei Stätten Trita's her im Strom auf deinen Rücken Schatz; Es misst des Trita Bahnen aus – der treffliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Очищаясь) потоком (через) три (цедилки) Триты,  
 Приведи в движение богатство на трех спинах!  

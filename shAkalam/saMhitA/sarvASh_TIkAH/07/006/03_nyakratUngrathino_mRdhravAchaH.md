@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ अक्रतू꣡न् ग्रथि꣡नो मृध्र꣡वाचः  
 पणीँ꣡र् अश्रद्धाँ꣡ अवृधाँ꣡ अयज्ञा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पू꣡र्वश् चकार अ꣡पराँ अ꣡यज्यून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्रऽप्र॑ । तान् । दस्यू॑न् । अ॒ग्निः । वि॒वा॒य॒ । पूर्वः॑ । च॒का॒र॒ । अप॑रान् । अय॑ज्यून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ny* ← *ni*
 - \[adverb\]
@@ -137,35 +137,35 @@ genre M
 **अक्रतून्** अयज्ञान् **ग्रथिनः** जल्पकान् **मृधवाचः** हिंसितवचस्कान् **पणीन्** पणिनामकान् वार्धुषिकान् **अश्रद्धान्** यज्ञादिषु श्रद्धारहितान् **अवृधान्** स्तुतिभिरग्निमवर्धयतः **अयज्ञान** यज्ञहीनान् **तान्** **दस्यून्** वृथा कालस्य नेतॄन् **अग्निः** **प्रप्र** अत्यन्तं **नि** **विवाय** नितरां गमयेत् । तदेवाह । अग्निः **पूर्वः** मुख्यः सन् **अयज्यून्** अयजमानान् **अपरान्** जघन्यान् **चकार** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Agni** utterly confound those **Dasyus** who perform no (sacred) rites, who are babblers defective inspeech, niggards, unbelievers; not honouring (Agni), offering no sacrifice; Agni preceding, has degrated thosewho instrumental tute no sacred ceremonies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Down with those of no intelligence, those tying in knots, those of  disdainful words: the Paṇis, not giving hospitality, not giving strength,  not giving sacrifices. Onward and onward Agni has pursued those Dasyus. The first has made  the last to be without sacrifices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The foolish, faithless, rudely-speaking niggards, without belief or sacrifice or worship,-  
      Far far sway hath Agni chased those Dasytis, and, in the cast, hath turned the godless westward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast die unverständigen, zugeknöpften, mißredenden Pani´s niedergeworfen, die ohne Glauben, ohne Segen, ohne Opfer waren. Immer weiter hat Agni diese Dasyu´s verdrängt; die Nichtopfernden hat er, der Erste, zu den Letzten gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die unverständ'gen, ränkevollen Schmäher, die geiz'gen ohne Glauben, Gab' und Opfer; Vor, vor drang Agni wider die Barbaren, die opferlosen stiess zurück der vordre.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Он поверг) ниц лишенных силы духа, плетущих (козни), враждебно говорящих  
 Пани, (что) без веры, без поддержки, без жертв.  

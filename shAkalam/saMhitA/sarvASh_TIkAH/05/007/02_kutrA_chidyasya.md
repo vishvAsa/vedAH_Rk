@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡त्रा चिद् य꣡स्य स꣡मृतौ  
 रण्वा꣡ न꣡रो नृष꣡दने  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 संजन꣡यन्ति जन्त꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अर्ह॑न्तः । चि॒त् । यम् । इ॒न्ध॒ते । स॒म्ऽज॒नय॑न्ति । ज॒न्तवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kutrā* ← *kutra*
 - \[adverb\]
@@ -91,41 +91,41 @@ genre M
 सोऽग्निः **कुत्र** **चित्** वर्तते इति शेषः । कुत्रास्ते । **यस्य** अग्नेः **समृतौ** संप्राप्तौ **रण्वाः** रममाणाः **नरः** नेतार ऋत्विजः । **नृषदने** यागगृहे **अर्हन्तश्चित्** । चिदिति पूजायाम् । अर्हन्तः पूज्याः पूजयन्तो वा सन्तः **यमिन्धते** दीपयन्ति । तदर्थं **संजनयन्ति** च अरण्यां **जन्तवः** प्राणिनः । स कुत्रेति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where is (the deity) upon whose presence the rejoicing conductors (of the ceremony) are offering homage in the hall of sacrifice, (he) whom they kindle, and living beings genitive rate.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the encounter together with whom, wherever it be, delighting men  [=priests] (unite) in the session of men [=the sacrifice]  
 and whom even the worthy (gods) kindle and our folk bring to birth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him in whose presence, when they meet in full assembly, men rejoice;  
      Even him whom worthy ones inflame, and living creatures bring to life.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 At whose onslaught 1, wherever it be, men rejoice in the seat of men, whom the worthy ones kindle, whom (human) creatures produce.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Über dessen Dabeisein die Männer überall froh sind in der Männersitzung, den selbst die Würdenträger anzünden, den alle Leute erzeugen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei dessen Einkehr sich erfreun die Männer stets im Männerrath, Ihm, den entzündet, wer's vermag, und den erzeugt der Männer Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При встрече с которым, где бы (она не была),  
 Мужы (бывают) радостными в собрании мужей,  

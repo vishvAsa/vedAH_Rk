@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने य꣡त् ते दिवि꣡ व꣡र्चः पृथिव्यां꣡  
 य꣡द् ओ꣡षधीषु अप्सु꣡ आ꣡ यजत्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्वेषः꣡ स꣡ भानु꣡र् अर्णवो꣡ नृच꣡क्षाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 येन॑ । अ॒न्तरि॑क्षम् । उ॒रु । आ॒ऽत॒तन्थ॑ । त्वे॒षः । सः । भा॒नुः । अ॒र्ण॒वः । नृ॒ऽचक्षाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -133,7 +133,7 @@ genre M
 ‘ अग्ने यत्ते दिवि वर्च इत्यादित्यो वा अस्य दिवि वर्चः पृथिव्यामित्ययमग्निः पृथिव्यां यदोषधीष्वप्स्वा यजत्रेति य एवौषधिषु चाप्सु चाग्निस्तमेतदाह येनान्तरिक्षमुर्वाततन्थेति वायुः स त्वेषः स भानुरर्णवो नृचक्षा इति महान्त्स भानुरर्णवो नृचक्षा इत्येतत् ' ( श. ब्रा. ७. १. २३) इति ॥ पृथिव्याम् ।' उदात्तयणो हल्पूर्वात् ' इति विभक्तेः उदात्तत्वम् । ओषधीषु ।' ओषधेश्च विभक्तावप्रथमायाम् ' इति दीर्घत्वम् । अप्सु । ' सावेकाचः' इति विभक्तेरुदात्तत्वम् । आततन्थ ।  ‘ तनु विस्तारे' इत्यस्य लिटि थलि • बभूथाततन्थ जगृभ्म ववर्थ ' इति निपातनात् इडेत्वाभ्यासलोपाः न भवन्ति ।  ‘ लिति ' इति प्रत्ययात्पूर्वस्योदात्तत्वम् । यद्वृत्तयोगादनिघातः । अर्णवः । अर्णांस्यस्मिन् सन्तीति मतुबर्थे  ‘ वप्रकरणे अन्येभ्योऽपि दृश्यते ' (का. ५. २. १०९. १ ) इति वप्रत्ययः । अर्णसः सलोपश्च' इति सलोपः । प्रत्ययस्वरः । नृचक्षाः ।' चक्षिङ् व्यक्तायां वाचि ' । अभिव्यक्तवाग्वाच्ययं धातुरत्र अभिव्यक्तिमात्रे वर्तते ।' चक्षेर्बहुलं शिच्च ' इत्यसुन् । कृदुत्तरपदप्रकृतिस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,34 +144,34 @@ genre M
 In the heaven: Agni, severally, as the sun, as sacrificial fire, as the fire that is illuminated by attrition from wood, as submarine fire and as wind; overlooking man (vast as) the ocean: tveṣa sa bhānur arṇavo **nṛcakṣaḥ** = **dīptimān** eva bhāsamano nṛṇām **draṣṭā** samudravan **mahān**, shining ocean (sa bhānurarṇavo nṛcakṣā iti mahāntsa (**Śatapatha Brāhmaṇa** 7.1.23); another explanation: **arṇavaḥ** = arṇānsi, udakāni **yatra** **santi**, the plural ce where the waters are: after this verse the priest adds, idṛśo yaste **bhānus**, tam eveṣṭakārūpam upadadhāmi, such being your lustre, I plural ce it in the form of the iṣṭkā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, worthy to receive the sacrifice, your luster, which is in heaven  and on earth, which is here among the plants and the waters,  
 and by which you have stretched throughout the wide midspace—that is  glittering, undulating radiance watching men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That light of thine in heaven and earth, O Agni, in plants, O Holy One, and in the waters,  
      Wherewith thou hast spread wide the air's mid-region-bright is that splendour, wavy, man-beholding.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Thy splendour, O Agni, which dwells in heaven and on earth, in the plants, O worshipful one, and in the waters, wherewith thou hast spread through the wide air—that light of thine is fierce, waving 2, man-beholding.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, deine Kraft im Himmel und auf Erden, in den Pflanzen und in den Gewässern, du Opferwürdiger, mit der du die weite Luft durchzogen hast, die ist der funkelnde, wogende Lichtglanz, der Herrscheraugen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Glanz, o Agni, auf der Erd', im Himmel, in Kräutern, Wassern, dir, o hehrer, einwohnt, Womit die weiten Lüfte du durchdrungen, der Glanz ist leuchtend, wallend, männerschauend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, твой блеск, что на небе, на земле,  
 Что в растениях, в водах, о достойный жертв,  

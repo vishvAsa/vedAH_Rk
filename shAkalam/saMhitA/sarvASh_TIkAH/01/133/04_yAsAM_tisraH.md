@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡सां तिस्रः꣡ पञ्चाश꣡तो  
 अभिव्लङ्गइ꣡र् अपा꣡वपः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तक꣡त् सु꣡ ते मनायति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 तत् । सु । ते॒ । म॒ना॒य॒ति॒ । त॒कत् । सु । ते॒ । म॒ना॒य॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāsāṃ* ← *yāsām* ← *yad*
 - \[noun\], genitive, plural, feminine
@@ -91,21 +91,21 @@ popular;; epic anuṣṭubh (424)
 हे इन्द्र **यासां** पूर्वमन्त्रोक्तलक्षणानां सेनानां **तिस्रः** **पञ्चाशतः** त्रिगुणितपञ्चाशत्संख्यां सार्धशतम् **अभिव्लङ्गैः** अभिगमनैः ॥ व्लङ्गतिर्गतिकर्मेत्युक्तम् । अभिगम्य **अपावपः** नाशितवानसि । हे इन्द्र **तत्** तादृशं सेनावधादिरूपं कर्म **सु"** **मनायति** सुष्ठु संभावयतीत्यर्थः। किंच हे इन्द्र **ते** तव अध्यर्धशतशत्रुसेनाजयरूपं महदपि **तकत्** इति **सु** मनायति अत्यल्पमिदमिति सुष्ठु मन्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That you have destroyed, by your assaults, thirce fifty of such (hosts), is a deed that well becomes you, although thought by you of little moment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you scattered afar thrice fifty of them with your attacks,  
 this (deed?) of yours displays your zeal—this little (deed?) of yours  
 displays your zeal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have tr. the fem. gen. pl. rel. yā́sām as ‘when’, to make the structure of subord. cl. (ab) - main cl. (cd) work better. However it is possible (and perhaps preferable) to take the yā́sām cl. as simply continuing vs. 3: “Smash down the troop of those witches … of which (witches) you scattered afar thrice fifty.” 4cd would then be an independent sentence.
 
@@ -114,23 +114,23 @@ Who the subject of cd is depends on what the verb manāyati means. Geldner takes
 Pronominal -ka-forms, like takát, are an extreme sign of colloquial register -- or rather of the poets overtly signalling their conscious deployment of this register.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of whom thou hast ere now destroyed thrice-fifty with thy fierce attacks.  
      That deed they count a glorious deed, though small to thee, a glorious deed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von denen du dreimal fünfzig mit Schlingen abfingst, das merkt er sich fein von dir, das Stückchen merkt er sich fein von dir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von denen du dreiundfunfzig durch Fortstossen hinwegrafftest; das dünkte dir gut, ja das dünkte dir gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та толпа,) из кого трижды пятьдесят  
 Ты уничтожил (своими) нападениями,  

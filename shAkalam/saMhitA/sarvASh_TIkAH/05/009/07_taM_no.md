@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ नो अग्ने अभी꣡ न꣡रो  
 रयिं꣡ सहस्व आ꣡ भर  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 उतइ꣡धि पृत्सु꣡ नो वृधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 सः । क्षे॒प॒य॒त् । सः । पो॒ष॒य॒त् । भुव॑त् । वाज॑स्य । सा॒तये॑ । उ॒त । ए॒धि॒ । पृ॒त्ऽसु । नः॒ । वृ॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -141,41 +141,41 @@ genre M
 हे **अग्ने** **सहस्वः** बलवन् **नरः** हविषां नेता त्वम् अस्माकं **तं** **रयिं** लोके प्रसिद्धं पश्वादिलक्षणं धनम् **अभि** **आ** **भर** आभिमुख्येनाहर । पूर्वोक्तः **सः** अग्निः **क्षेपयत्** । अस्मदीयान् शत्रून् क्षेपयतु । **सः** अग्निः **पोषयत्** अस्मान् पोषयतु । **वाजस्य** अन्नस्य **सातये** लाभाय **भुवत्** भवतु । **उत** अपि च हे अग्ने **पृत्सु** पृतनासु युद्धेषु **नः** अस्माकं **वृधे** समृद्धये **एधि** भव । संग्रामे शत्रुविजयार्थं स त्वं समृद्धिं कुर्वित्यर्थः ॥ सहस्वः । षह मर्षणे ' । असुन् । सहत्यनेन शत्रूनिति सहो बलम् । मतुप् ।  ‘ मादुपधायाः' इति वत्वम् । “ मतुवसो रुः संबुद्धौ छन्दसि ' इति रुत्वम् । आमन्त्रितस्य च ' इति निघातः । क्षेपयत् ।  ‘ क्षिप प्रेरणे'। णिजन्तात् लेट् । इतश्च लोपः । ‘लेटोऽडाटौ ' इयडागमः । शप् गुणायादेशौ पररूपत्वं च । पोषयत् ।' पुष पुष्टौ ' । भुवत् ।  ‘ भू सत्तायाम् ' । भूसुवोस्तिङि' इति गुणप्रतिषेधः । उवङ् । एधि । **अस** भुवि । ' ष्वसोरेद्धावभ्यासलोपश्च' इति एत्वम् । तस्यासिद्धत्वात् ‘हुझल्भ्यो हेर्धिः' इति धिरादेशः । निघातः । पृत्सु । ‘पदादिषु' इत्यादिना पृतनाशब्दस्य पृदादेशः । सावेकाच्त्वात् अन्तोदात्तत्वम् ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Powerful **Agni**, bestow upon us the instrumental tutors (of pious rites), that wealth (which we desire); may he discomfit (our foes); may he cherish us; may he ever ready to bestow upon us food; and do you, Agni, be present in battles for our succesṣ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let our men (be) dominant over wealth, o Agni. Bring that here, o  strong one!  
 He makes us dwell in peace; he makes us thrive; he comes in order (for  us) to gain the prize of victory. And let him be present to strengthen  us in battles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, to our heroes bring such riches, thou victorious God.  
      May he protect and nourish us, and help in aining strength: be thou near us in 6rht for our success.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bring this wealth to us, O powerful Agni, to (these our) men. May he 1 give us dwelling; may he 1 give us prosperity; may he 1 help us in winning booty. And help us to grow strong in fights!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Reichtum ...... bring uns, gewaltiger Agni! Er mache ruhiges Wohnen und Gedeihen. Er helfe zur Gewinnung von Lohn - und sei du uns zur Stärkung in den Kämpfen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni bring des Menschen Gut herbei uns, o gewaltiger, Es schütze uns, es nähre uns, gereich zur Machterlangung uns, (sei in den Schlachten uns zum Heil.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Привези нам это богатство, о Агни,  
 (Чтобы мы и) мужи за(хватили его), о могущественный!  

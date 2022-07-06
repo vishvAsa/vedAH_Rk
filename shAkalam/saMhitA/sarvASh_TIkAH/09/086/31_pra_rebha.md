@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ रेभ꣡ एति अ꣡ति वा꣡रम् अव्य꣡यं  
 वृ꣡षा व꣡नेषु अ꣡व चक्रदद् ध꣡रिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शि꣡शुं रिहन्ति मत꣡यः प꣡निप्नतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 सम् । धी॒तयः॑ । वा॒व॒शा॒नाः । अ॒नू॒ष॒त॒ । शिशु॑म् । रि॒ह॒न्ति॒ । म॒तयः॑ । पनि॑प्नतम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -117,20 +117,20 @@ genre M;; repeated line
 **रेभः** शब्दयिता । रेभृ शब्दे'। सोमः **वारमव्ययम्** अविमयं वालं **प्र** **अति** **ऐति'** प्रकर्षेणातिगच्छति । **वृषा** सेक्ता सोमः **वनेषु** उदकेषु **अव** **चक्रदत्** अवक्रन्दन् **हरिः** हरितवर्णः सोमः । **सम्** **अनूषत** संस्तुवन्ति । के। **धीतयः** ध्यातारः **वावशानाः** यार्ग सोमं वा कामयमानाः। **शिशुं** शिशुवत् संस्कर्तव्यं सोमं **मतयः** स्तुतयः **रिहन्ति** लिहन्ति स्पृशन्ति । स्वविषयीकुर्वन्तीत्यर्थः । कीदृशम् । **पनिप्नतं** शब्दयन्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sounding (**Soma**) passes through the woollen fleece; the green-tinted showerer cries in the waters; the worshippers desiring (the Soma) praise him together, the laudations soothe the infant as he cries.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The husky-voiced one goes forth across the sheep’s fleece; the tawny bull  has roared down into the woods [/wooden vessels].  
 The hymnic visions, bellowing [/in their longing], have roared together.  The thoughts lick the child who always excites wonder.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -144,23 +144,23 @@ As for external connections, GEN niṣkṛtám √yā in 32d is found also in 7b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Onward the Singer travels o'er the fleecy sieve. the Tawny Steer hath bellowed in the wooden vats.  
      Hymns have been sung aloud in resonant harmony, and holy songs kiss him, the Child who claims our praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Barde tritt auf und geht durch das Schafhaar, der Bulle brüllt herab auf das Holzgefäß, der Falbe. Die Gebete ertönen laut brüllend zusammen, die Lieder lecken das schreiende Junge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sänger schreitet durch die Widder wolle vor, und nach den Fluten wiehert laut der goldne Hengst; Gebete laut ertönend stimmen mit ihm ein, und Lieder küssen den bewundrungswerthen Spross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выступает вперед певец, пере(секая) сито из овечьей шерсти,  
 Золотой бык, ржущий, с(пускаясь) в деревянные сосуды.  

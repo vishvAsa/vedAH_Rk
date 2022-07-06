@@ -8,7 +8,7 @@ title = "+105"
 ‘ चन्द्रमाः' इति एकोनविंशत्यृचं द्वादशं सूक्तम् । अपां पुत्रस्य त्रितस्य कूपे पतितस्य कुत्सस्य वा आर्षम् । तथा चोभयोः कूपपातः आम्नायते--’ त्रितः कूपेऽवहितः ' (ऋ. सं. १. १०५. १७ ) ‘ काटे निबाळ्ह ऋषिरह्वदूतये (ऋ. सं. १. १०६. ६) इति च । त्रितस्य च अपां पुत्रत्वं तैत्तिरीयाः स्पष्टमामनन्ति- ' तत एकतोऽजायत स द्वितीयमभ्यपातयत् ततो द्वितोऽजायत स तृतीयमभ्यपातयत ततस्त्रितोऽजायत यददभ्योऽजायन्त तदाप्यानामाप्यत्वम् ' ( तै. ब्रा. ३. २. ८. १०-११ ) इति । तमेतमाप्यं • त्रितस्तद्वेदाप्त्यः ' ( ऋ. सं. १. १०५. ९) इति तकारोपजनेन वयमधीमही इति । अन्त्या त्रिष्टुप् । ' सं मा तपन्ति' इत्येषा यवमध्या महाबृहती । आद्यौ द्वावष्टाक्षरौ पादौ द्वादशाक्षरस्तृतीयस्ततो द्वावष्टाक्षरौ सा यवमध्या महाबृहती । चत्वारोऽष्टका जागतश्च महाबृहती ' (अनु. ९. ९) इत्युक्त्वा' ' मध्ये चेद्यवमध्या' (अनु. ९. १०) इत्युक्तलक्षणोपेतत्वात् । शिष्टाः पङ्क्तयः । विश्वे देवाः देवता । तथा चानुक्रान्तं- चन्द्रमा एकोनाप्त्यस्त्रितो वा वैश्वदेवं हि पाङ्क्तमन्त्या त्रिष्टुप् अष्टमी महाबृहती यवमध्या' इति । 'हि' इत्यभिधानादिदमादीनि त्रीणि सूक्तानि वैश्वदेवानि । विनियोगः । अत्र शाट्यायनिन इतिहासमाचक्षते-एकतो द्वितस्त्रित इति पुरा त्रय ऋषयो बभूवुः । ते कदाचिन्मरुभूमावरण्ये वर्तमानाः पिपासया संतप्तगात्राः सन्त एकं कूपमविन्दन् । तत्र त्रिताख्यः एको जलपानाय कूपं प्राविशत् । स्वयं पीत्वा इतरयोश्च कूपादुदकमुद्धत्य प्रादात् । तौ तदुदकं पीत्वा त्रितं कूपे पातयित्वा तदीयं धनं सर्वमपहृत्य कूपं च रथचक्रेण पिधाय प्रास्थिषाताम् । ततः कूपे पतितः स त्रितः कूपादुत्तरीतुमशक्नुवन् सर्वे देवा मामुद्धरन्त्विति मनसा सस्मार । ततस्तेषां स्तावकमिदं सूक्तं ददर्श । तत्र रात्रौ कूपस्यान्तश्चन्द्रमसो रश्मीन् पश्यन् परिदेवयते ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 105  
 All Gods  
@@ -41,7 +41,7 @@ Structure of I.105 (b): forward movement:
 The intricacy of the responsive patterns and the tension between the two struc tures compel our attention and provide us with aesthetic satisfaction, even though  we find ourselves puzzled by much of the actual content of the hymn. But there is  a final sly trick that complicates the hymn even more. In the last verse (before the  extra-hymnic one), the wolf returns—the wolf that tracked the poet in verse 7, but  whose threat was curbed by divine power in verse 11. But it seems that that check  was only temporary; the wolf comes back, enigmatically but with a lurking men ace, in verse 18. Have the poet’s fears been calmed after all? Has he really regained  his faith in the efficacy of his own poetry and of the sacrifice they serve? Or will  the wolf prey upon him again? The hymn leaves these questions open and in this  way subtly and uninsistently undermines the reassuring structure of the poem and  destabilizes its architecture. It is a masterful stroke.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods For the structure and meaning of the hymn as a whole see the published introduction. as well as Jamison 2007: 82-85. In what follows here I will comment only on the details of particular verses.
 </details>

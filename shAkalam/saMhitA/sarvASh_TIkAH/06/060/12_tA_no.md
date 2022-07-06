@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ नो वा꣡जवतीर् इ꣡ष  
 आशू꣡न् पिपृतम् अ꣡र्वतः  
 इ꣡न्द्रम् अग्निं꣡ च वो꣡ळ्हवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इन्द्र॑म् । अ॒ग्निम् । च॒ । वोळ्ह॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tāḥ* ← *tad*
 - \[noun\], accusative, plural, feminine
@@ -88,41 +88,41 @@ genre M
 हे इन्द्राग्नी **ता** तौ युवां **वाजवतीः** अन्नवतीः **इषः** इष्यमाणा वृष्टीः । यद्वा । वाजो बलम् । तद्वतीरिषोऽन्नानि **आशून्** शीघ्रगान् **अर्वतः** अश्वांश्च **नः** अस्मभ्यं **पिपृतं** पूरयतम् । प्रयच्छतम् । किमर्थम् । **इन्द्रमग्निं** **च** युवां **वोळ्हवे** वोढुं हविर्भिः प्रापयितुम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those two grant us strengthening food, and swift horses to convey (our offerings).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two, deliver to us refreshments accompanied by prizes, and deliver  (to safety) swift steeds  
 to convey Indra and Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the double sense of pipṛtam see Geldner and Renou
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us fleet coursers to convey Indra and Agni, and bestow  
      Abundant strengthening food on us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gebet uns in Fülle wertvolle Speisen, rasche Rosse, um Indra und Agni zu fahren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schenket labereichen Trunk, und schenket schnelle Rosse uns, Zu fahren, Indra-Agni, euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы двое даруете нам жертвенные услады,  
 Сопровождаемые наградами, быстрых скакунов,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ कुमार न꣡वं र꣡थम्  
 अचक्र꣡म् म꣡नसा꣡कृणोः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡पश्यन्न् अ꣡धि तिष्ठसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 एक॑ऽईषम् । वि॒श्वतः॑ । प्राञ्च॑म् । अप॑श्यन् । अधि॑ । ति॒ष्ठ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -104,7 +104,7 @@ popular;; epic anuṣṭubh (380)
 वसायात्मकमीदृशं यं रथमकरोः कृत्वा च **अपश्यन्** कर्तव्याकर्तव्यविभागमजानन् **अधि** **तिष्ठसि** रथमारोहसि । यद्वा । स्तोतारं कुमाराख्यमृषिमादित्यः प्रत्यक्षः सन् देहात्मनोर्विवेकं बोधयति । हे कुमार ऋषे चक्ररहितम् एकेषम् । एकः प्राण ईषास्थानीयो यस्य । ईदृशमभिनवं सर्वतो गच्छन्तं शरीरात्मकं यं रथं मनसान्तःकरणेन अकृणोः अकरोः । संकल्पात्मकेन मनसा हि कामो जायते । सत्यां हि कामनायां पुण्थपापात्मकं कर्म क्रियते । तेन च भोगप्रदानायेदं शरीरमारभ्यत इति परंपरया मनसः शरीरनिष्पादकत्वम् । तं शरीरात्मकं रथमपश्यन्नजानन् । ' लक्षणहेत्वोः ( पा. सू. ३.२.१२६) इति हेतौ शतृप्रत्ययः । मत्स्वरूपापरिज्ञानाद्धेतोरधितिष्ठसि । भोगायतनत्वेन स्वीकरोषि॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,29 +115,29 @@ popular;; epic anuṣṭubh (380)
 My child: or, **Kumāra**, a proper name
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Father?:] The new chariot without wheels that you made with your  mind, lad,  
 the one that has a single shaft but faces in all directions—without seeing  it, you mount it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou mountest, though thou dost not see, O Child, the new and wheel-less car  
      Which thou hast fashioned mentally, onepoled but turning every way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der neue Wagen ohne Räder, den du Knabe da im Geiste gemacht hast, der nur eine Deichsel hat und nach allen Richtungen weiter fährt, auf dem stehst du, ein Nichtsehender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den neuen Wagen, den du Kind im Geist gemacht, der räderlos Mit einer Deichsel ringshin führt, besteigst du, ohne ihn zu sehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О мальчик, новая колесница  
 Без колес, которую ты создал в воображении,  

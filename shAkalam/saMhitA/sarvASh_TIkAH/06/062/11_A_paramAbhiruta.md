@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ परमा꣡भिर् उत꣡ मध्यमा꣡भिर्  
 नियु꣡द्भिर् यातम् अवमा꣡भिर् अर्वा꣡क्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दु꣡रो वर्तं गृणते꣡ चित्रराती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 दृ॒ळ्हस्य॑ । चि॒त् । गोऽम॑तः । वि । व्र॒जस्य॑ । दुरः॑ । व॒र्त॒म् । गृ॒ण॒ते । चि॒त्र॒रा॒ती॒ इति॑ चित्रऽराती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -122,40 +122,40 @@ genre M
 हे अश्विनौ **परमाभिः** उत्कृष्टाभिः **उत** अपि च **मध्यमाभिः** अनुत्कृष्टाभिः **अवमाभिः** निकृष्टाभिश्च नियुद्भिः वाहैः **अर्वाक्** अस्मदभिमुखम् **आ** **यातम्** । **दृळ्हस्य** **चित्** दृढापिधानस्यापि **गोमतः** गोयुक्तस्य **व्रजस्य** गोष्ठस्य **दुरः** द्वाराणि **वि** **वर्तं** विवृणुतम् । किंच **गृणते** स्तुवते मह्यं **चित्रराती** विचित्रदानौ भवतम् ॥ ॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come down, whether with the most excellent, or middling, or inferior **Niyut** steeds; set upon the doors of the fast-**shut** stall of the cattle; eb bountiful to him who praises you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here with your highest and midmost teams, this way with your lowest. Open the doors of the cattle pen, even though they are shut fast, you  who provide bright gifts for the singer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the last phrase of the hymn, gṛṇaté citrarātī “you two providing bright gifts for the singer” exactly repeats the end of vs. 5, which marked a transition in the earlier part of the hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hitherward to us with teams of horses, the highest and the midmost and the lowest.  
      Bountiful Lords, throw open to the singer doors e'en of the firm-closed stall of cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet mit der höchsten Zahl, mit der mittleren, mit der niedrigsten Zahl von Gespannen näher! Öffnet die Tore auch der verschlossenen Kuhhürde für den Sänger, ihr Geber blinkender Gaben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt nah herbei mit euren Wagenzügen, den höchsten, mit den untersten und mittlern; Schliesst auf die Thüren auch des festen Stalles der Kühe, reich an Gaben für den Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На дальних и на средних  
 Упряжках и на ближних приезжайте в наши края!  

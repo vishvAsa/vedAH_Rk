@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वा शक्र पराव꣡ति  
 समुद्रे꣡ अ꣡धि म꣡न्दसे  
 अस्मा꣡कम् इ꣡त् सुते꣡ रणा स꣡म् इ꣡न्दुभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 अ॒स्माक॑म् । इत् । सु॒ते । र॒ण॒ । सम् । इन्दु॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -93,7 +93,7 @@ genre M;; line affected by realignment;; repeated line
 हे **शक्र** शक्तेन्द्र **परावति** परागते दूरदेशे **समुद्रे** समुन्दनशीले सोमे । **अधि** सप्तम्यर्थानुवादी । **यद्वा** यदि वा **मन्दसे** माद्यसि तथापि **अस्माकमित्** अस्माकमेव सोमे अभिषुते सति **इन्दुभिः** सोमरसैः **सं** **रण** सम्यग्रमस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,28 +104,28 @@ genre M;; line affected by realignment;; repeated line
 On the far-distant ocean: **samudra** = Soma, i.e., if you areexhilarated by some distant (offering of) Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or when, able one, you reach exhilaration at a distance, upon the sea, take pleasure just in our pressing with its drops—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Or, Sakra, if thou gladden thee afar or in the sea of air,  
      Rejoice thee in this juice of ours, in flowing drops.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder wenn du Mächtiger in der Ferne, im Meer dich ergötzest, so erfreue dich erst recht an unserem Soma, an den Somasäften;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ob du in weiter Ferne dich erfreust, o Held, am Somameer, Ergötz vor allen dich bei uns am Indusaft,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Или когда, о могучий, вдалеке  
 На море ты опьяняешься,  

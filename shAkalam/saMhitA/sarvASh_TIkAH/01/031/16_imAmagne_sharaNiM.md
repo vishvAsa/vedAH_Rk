@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡म् अग्ने शर꣡णिम् मीमृषो न  
 इम꣡म् अ꣡ध्वानं य꣡म् अ꣡गाम दूरा꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भृ꣡मिर् असि ऋषिकृ꣡न् म꣡र्तियानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒पिः । पि॒ता । प्रऽम॑तिः । सो॒म्याना॑म् । भृमिः॑ । अ॒सि॒ । ऋ॒षि॒ऽकृत् । मर्त्या॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -122,7 +122,7 @@ genre M
 हे **अग्ने** त्वं **नः** अस्मत्संबन्धिनीम् **इमाम्** इदानीम् संपादितां **शरणिं** हिंसां व्रतलोपरूपां **मीमृषः** क्षमस्व । तथा त्वदीयसेवाम् अग्निहोत्रादिरूपां परित्यज्य **दूरात्** दूरदेशं **यम्** **इममध्वानम्** **अगाम** वयं गतवन्तः तमपि क्षमस्वेति शेषः। **सोम्यानां** सोमार्हाणामनुष्ठातॄणां **मर्यानां** त्वम् आप्यादिगुणयुक्तः **असि** । **आपिः** प्रापणीयः **पिता** पालकः **प्रमतिः** प्रकृष्टमननयुक्तः **भृमिः** भ्रामकः कर्मनिर्वाहक इत्यर्थः । **ऋषिकृत्** दर्शनकारी । अनुजिघृक्षया प्रत्यक्षो भवसीत्यर्थः ॥ शरणिम् । ‘शॄ हिंसायाम्' इत्यस्मात् औणादिकः अनिप्रत्ययः । मीमृषः । “ मृष तितिक्षायाम् ' । अस्मात् णौ चङि गुणे प्राप्ते ‘ नित्यं छन्दसि' ( पा. सू. ७. ४. ८) इति उपधर्कारस्य ऋकारादेशः । णिलोपद्विर्भावहलादिशेषोरदत्वसन्वद्भावेत्वदीर्घत्वानि । तिङ्ङतिङः' इति निघातः। अगाम । इण् गतौ'। ‘इणो गा लुङि' ( पा. सू. २. ४. ४५) इति गादेशः । गातिस्था ' इति सिचो लुक् । अडागम उदात्तः । भृमिः । ‘भ्रम अनवस्थाने ' ।' भ्रमेः संप्रसारणं च ' (उ. सू. ४. ५६०) इति इन्प्रत्ययः । संप्रसारणे परपूर्वत्वम्। ' इगुपधात्कित्' इत्यनुवृत्तेः कित्वाद्गुणप्रतिषेधः । नित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 Rṣiskṛt, becoming present through desire for the offered oblation: hence, visible to
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This (ritual) breach of ours, Agni—make it forgotten; make us forget  this way which we have come on from afar.  
 You are friend, father, solicitude for those offering soma, a whirling  creator of seers for mortals.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I interpret mīmṛṣaḥ slightly differently with its two different objects, as “make X forgotten” and “make us forget X” respectively. The verb ‘forget’ is an I/T verb of perception (in the terms of my 1983 book), and its causative thus can take two different types of constructions.
 
@@ -166,28 +166,28 @@ One major stumbling block to accepting this scenario: the sandhi of *evá éka�
 The hiatus found in the transmitted text in the sequence devá ékaḥ is of course expected from underlying *devás ékaḥ (/*deváḥ/z), with loss of the final consonant of the nom. sg. and the resulting hiatus maintained. But we would ordinarily expect the final vowel of the particle evá to coalesce with the initial of ékaḥ to produce *evaíkaḥ (as in IV.54.5, X.44.7 evaívá, X.173.2 ihaívaídhi). However, the application of the sandhi rules governing the coalescence of final and initial vowels is by no means exceptionless. For further discussion, with reff., see my “Hidden in Plain Sight: Some Older Verb Endings in the Rig Veda” in a forthcoming festschrift.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pardon, we pray, this sin of ours, O Agni,--the path which we have trodden, widely straying,  
      Dear Friend and Father, caring for the pious, who speedest nigh and who inspirest mortals.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Forgive, O Agni, this our fault (?) 1, (look graciously at) this way which we have wandered from afar. Thou art the companion, the guardian, the father of those who offer Soma; thou art the quick one 2 who makes the mortals Rishis 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verzeih uns, Agni, diesen Ungehorsam, den Weg, den wir von Ferne gekommen sind! Du bist Freund, Vater, Vorsehung der Somapfleger, du bist der eifrige Rishimacher der Sterblichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verzeih, o Agni, diese unsre Sünde, den Weg, den wir entfernt von dir gegangen, Du bist der Frommen Vater, Freund, Versorger, bist eifriger Begeisterer der Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это, о Агни, прегрешение прости нам,  
 Это путь, которым мы пришли издалека.  

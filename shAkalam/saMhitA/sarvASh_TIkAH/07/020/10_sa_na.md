@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ न इन्द्र त्व꣡यताया इषे꣡ धास्  
 त्म꣡ना च ये꣡ मघ꣡वानो जुन꣡न्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वस्वी॑ । सु । ते॒ । ज॒रि॒त्रे । अ॒स्तु॒ । श॒क्तिः । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ genre M;; repeated line
 हे **इन्द्र** **सः** त्वं **त्वयताया** **इषे** त्वया दत्तमन्नं भोक्तुं **नः** अस्मान् **धाः** धारय । **ये** **च** **मघवानः** हविष्मन्तः **त्मना** स्वयमेव **जुनन्ति** हवींषि त्वां प्रति प्रेरयन्ति तानपि त्वयताया इषे धाः । अपि च वस्वीषु अत्यन्तं प्रशस्तासु स्तुतिषु **ते** तव **जरित्रे** स्तोत्रे मह्यं **शक्तिः** सामर्थ्यम् **अस्तु** । यद्वा । जरित्रे मह्यं ते तव वस्वी षु प्रशस्ता शक्तिर्दानमस्तु । स्पष्टमन्यत् ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ genre M;; repeated line
 May there be power: vasvi ṣu te jaritre **astu** **śaktiḥ** =atyanta praśastasu stutiṣu tava stotre samarthyam astu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So, Indra, position us for the refreshment offered by you—and also  position those bounteous ones who themselves incite (us).  
 Let there be goodly skill for your singer. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Place us by food which thou hast given, O Indra, us and the wealthy patrons who command us.  
      Let thy great power bring good to him who lauds thee. Ye Gods, preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, mögest uns zu dem von dir gewährten Speisegenuß verhelfen und den Lohnherren, die in eigner Person aneifern. Dein Wirken soll dem Sänger zugute kommen. - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schenk uns, Indra, selbstverlieh'ne Labung uns selber und den reichen Opferherren; Dem Sänger sei recht schön und reich die Gabe; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, приобщи нас к питательной силе, исходящей от тебя,  
 И (тех) щедрых покровителей, что сами побуждают (тебя)!  

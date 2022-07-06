@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवां꣡ गो꣡तमः पुरुमीळ्हो꣡ अ꣡त्रिर्  
 द꣡स्रा ह꣡वते अ꣡वसे हवि꣡ष्मान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ मे ह꣡वं नासतियो꣡प यातम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 दिश॑म् । न । दि॒ष्टाम् । ऋ॒जु॒याऽइ॑व । यन्ता॑ । आ । मे॒ । हव॑म् । ना॒स॒त्या॒ । उप॑ । या॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
@@ -118,7 +118,7 @@ genre M
 हे **दस्रा** दस्रावश्विनौ **युवां** **गोतमः** च **पुरुमीळ्हः** च **अत्रिः** च महर्षयश्च एतेषु एकैकः **हविमान्** सन् **अवसे** रक्षणाय युष्मत्तर्पणाय वा **हवते** आह्वयति । एवमहमप्याह्वयामि । फलसाधनाह्वाने दृष्टान्तः। **यन्ता** उपगन्ता उपगन्तुकामः **ऋजूयेव** ॥ द्वितीयाया अकारः ॥ ऋजुगामिनं मार्गज्ञं **दिष्टां** **दिशं** **न** गन्तव्यामभिमतां दिशं प्रति यथा तथा वामपि । यथा अध्वगामी स्वगन्तव्यस्य शीघ्रगमनाय मार्गज्ञमृजुगामिनमाह्वयति तद्वत् । यद्वा । ऋजूयेव । इवशब्द एवार्थे । गन्ता ऋजुनैव मार्गेण इष्टां दिशमिव तथा युष्मत्प्रीणनेन मार्गेण स्वाभिमतं फलं प्राप्नोति । हे नासत्यावश्विनौ **मे** मम **हवम्** आह्वानमालक्ष्य **उप** **यातम्** उपगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,37 +129,37 @@ genre M
 Like unto a wayfarer: the simile applies to the person n invoking **Aśvins**, as the direct path to the realization of his wishes
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Gotama, Purumīḍha, Atri—(each one), providing the oblations,  
 summons you two for help, o wondrous ones.  
 Like those going in a straight line to the directed direction, drive here to  my summons, o Nāsatyas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I agree with Geldner that ná and iva in 5c mark a single simile, not two as Witzel Gotō tr.
 
 it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gotama, Purumilha, Atri bringing oblations all invoke you for protection.  
      Like one who goes straight to the point directed, ye Nasatyas, to mine invocation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch rief Gotama, Purumilha, Atri, euch, ihr Meister, ruft der Opfernde zu Hilfe. Wie zwei, die die gewiesene Richtung, die den richtigen Weg gehen, so kommet auf meinen Ruf her, o Nasatya´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Gotama, wie Purumidha, Atri, ruft, mächt'ge, euch der Opferer zu Hülfe, Geht grade aus wie nach gezeigter Richtung, und kommt herbei auf meinen Ruf, o treue!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас (призывал) Готама, Пурумилха, Атри, –  
 О чудесные, вас зовет на помощь жертвователь.  

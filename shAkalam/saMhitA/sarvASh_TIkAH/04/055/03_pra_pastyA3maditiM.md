@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ पस्ति꣡याम् अ꣡दितिं सि꣡न्धुम् अर्कइः꣡  
 सुअस्ति꣡म् ईळे सखिया꣡य देवी꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उषा꣡सान꣡क्ता करताम् अ꣡दब्धे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒भे इति॑ । यथा॑ । नः॒ । अह॑नी॒ इति॑ । नि॒ऽपातः॑ । उ॒षसा॒नक्ता॑ । क॒र॒ता॒म् । अद॑ब्धे॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 **पस्त्यां** सर्वैर्गन्तव्याम् अदितिम् अदीनां देवमातरं तां **देवीं** **सिन्धुं** स्यन्दनशीलां नद्यभिमानिदेवीं **स्वस्तिं** सुखनिवासामेतन्नामिकां देवीं **सख्याय** अनुकूल्याय **अर्कैः** मन्त्रैः **ईळे** स्तौमि। **उभे** **अहनी** द्यावापृथिव्यौ **यथा** **नः** अस्मान् **निपातः** नितरां पातः तथा स्तौमि । **उषासानक्ता** अहोरात्राभिमानिदेवते **अदब्धे** अदम्भनीये **करतां** कुरुताम् । अभिमतमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,14 +129,14 @@ genre M
 Svastim: sukhanivāsam, etannāmikam devim, the abose of happiness; well-being, or a goddess so named
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I reverently invoke the Housegoddess, Aditi, the Sindhu with chants,  (invoke) divine Well-Being for comradeship.  
 Night and Dawn, the undeceivable, will arrange it so that both day  
 halves will keep guard over us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a #prá … arkaíḥ# echoes 2a #prá … árcān#.
 
@@ -145,23 +145,23 @@ The 2nd hemistich gives some support to my interpr. of vs. 2b, that the dawns ar
 As Witzel Gotō point out, all the divinities here are fem.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Housewife Goddess, Aditi, and Sindhu, the Goddess Svasti I implore for friendship:  
      And may the unobstructed Night and Morning both, day and night, provide for our protection.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Pastya, Aditi, die Sindhu rufe ich mit Preisliedern an, die Göttin Svasti zur Freundschaft. Nacht und Morgen, die Untrüglichen, sollen bewirken, daß beide Tageshälften uns in ihren Schutz nehmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Aditi, die Heimische, die Sindhu, die Segensgöttin ruf' ich an um Freundschaft; Die unverletzten Nacht und Morgen ruf' ich, dass beide uns bei Tag und Nacht behüten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я призываю песнями (богиню) Пастья, Адити, Синдху,  
 Богиню Свасти (я призываю) для дружбы.  

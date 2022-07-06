@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वर्तय दिवो꣡ अ꣡श्मानम् इन्द्र  
 सो꣡मशितम् मघवन् सं꣡ शिशाधि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ जहि रक्ष꣡सः प꣡र्वतेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्राक्ता॑त् । अपा॑क्तात् । अ॒ध॒रात् । उद॑क्तात् । अ॒भि । ज॒हि॒ । र॒क्षसः॑ । पर्व॑तेन ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -116,42 +116,42 @@ popular
 हे **इन्द्र** **दिवः** अन्तरिक्षात् **अश्मानम्** अशनिं **प्र** **वर्तय** प्रेरय राक्षसान् हन्तुम् । तथा **सोमशितं** सोमेन तीक्ष्णीभूतं यजमानं हे **मघवन्** धनवन्निन्द्र **सं** **शिशाधि** संस्कुरु । अपि च **प्राक्तात्** प्राच्याः **अपाक्तात्** प्रतीच्याः **अधरात्** अवाच्याः उदक्तात् उत्तरतः सर्वस्मादपि दिग्भागात् **रक्षसः** राक्षसान **पर्वतेन** पर्ववता वज्रेण **अभि** **जहि** मारय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hurl, **Indra**, your thunderbolt from heaven; sanctify, **Maghavan**, (the worshipper) sharpened by theSoma; slay with the thunderbolt the **rākṣasas**, on the eas, on the west, on the south, on the north.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Roll the stone forth from heaven, Indra; hone the soma-honed one  entirely, bounteous one.  
 From in front, from behind, from below, from above, strike at the  
 demons with the mountain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “mountain” with which Indra smites the demons must be Indra’s vájra- ‘mace’, identified with a mountain elsewhere, as Renou points out: in VII.22.6, as well as in the curious dvandva indrā-parvatā (3x, only in voc.: I.122.3, 132.6, III.53.1). See comm. ad locc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hurl down from heaven thy bolt of stone, O Indra: sharpen it, Maghavan, made keen by Soma.  
      Forward, behind, and from above and under, smite down the demons with thy rocky weapon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schleudere vom Himmel den Stein, o Indra; den somageschärften mach ganz scharf, du Gabenreicher! Von vorn, von hinten, von unten, von oben erschlage die Dunkelmänner mit dem Fels!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel schleudre deinen Pfeil, o Indra, den Soma schärfte, schärf ihn neu, o Mächt'ger, Von vorn, von hinten, oberwärts, von unten erschlag die bösen Geister mit dem Felsstück.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Швырни с неба камень, о Индра!  
 Заостренного Сомой сделай совсем острым, о щедрый!  

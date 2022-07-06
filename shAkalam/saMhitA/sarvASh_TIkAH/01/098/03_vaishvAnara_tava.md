@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वइ꣡श्वानर त꣡व त꣡त् सत्य꣡म् अस्तु  
 अस्मा꣡न् रा꣡यो मघ꣡वानः सचन्ताम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaiśvānara*
 - \[noun\], vocative, singular, masculine
@@ -123,7 +123,7 @@ genre M;; repeated line
 हे **वैश्वानर** **तव** **तत्** त्वदीयं तत् अस्माभिः क्रियमाणं कर्म **सत्यमस्तु** अवितथफल भवतु । ततः **अस्मान्** **मघवानः** मघवन्तः धनवन्तः **रायः** धनवदतिप्रियाः पुत्राः **सचन्तां** सेवन्ताम् । एवं यदस्माभिः प्रार्थितं **नः** अस्मदीयं **तत्** **मित्रः** अहरभिमानी देवः **वरुणः** रात्र्यभिमानी **अदितिः** अदीना देवमाता **सिन्धुः** स्यन्दनशीलोदकाभिमानी देवः । उतशब्दः समुच्चये । एते सर्वे मित्रादयः **ममहन्तां** पूजयन्ताम् पालयन्तामित्यर्थः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre M;; repeated line
 **Rāyaḥ**, riches; i.e. wealth in family
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vaiśvānara, let this come true of you: let riches and generous patrons  accompany us.  
 – This let Mitra and Varuṇa grant to us, and Aditi, River, and Earth and  Heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be this thy truth, Vaisvanara, to us-ward: let wealth in rich abundance gather round us.  
      This prayer of ours may Varuna grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Vaisvânara! May this be true of thee: may wealth and liberal givers attend us! May Mitra and Varuna grant us this, may Aditi, the Sindhu, the Earth, and the Sky!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vaisvanara!Das soll dir wahr werden: Uns sollen Reichtümer und freigebige Gönner zufallen. Das sollen uns Mitra, Varuna gewähren, Aditi, Sindhu, Erde und Himmel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Männerhort, das mache du zur Wahrheit: uns werde Gut zu Theil und reiche Geber. Das mög' uns Mitra, Varuna gewähren, und Aditi, das Meer, und Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Вайшванара, да будет это у тебя истинно:  
 Да последуют за нами богатства и щедрые покровители!  

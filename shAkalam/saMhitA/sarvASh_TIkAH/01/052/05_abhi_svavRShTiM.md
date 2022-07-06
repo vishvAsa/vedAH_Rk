@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ स्व꣡वृष्टिम् म꣡दे अस्य यु꣡ध्यतो  
 रघ्वी꣡र् इव प्रवणे꣡ सस्रुर् ऊत꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 भिन꣡द् वल꣡स्य परिधीँ꣡र् इव त्रितः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । यत् । व॒ज्री । धृ॒षमा॑णः । अन्ध॑सा । भि॒नत् । व॒लस्य॑ । प॒रि॒धीन्ऽइ॑व । त्रि॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -132,7 +132,7 @@ genre M
 **ऊतयः** मरुतः **मदे** सोमपानेन हर्षे सति **अस्य** इन्द्रस्य **युध्यतः** वृत्रेण सह युध्यमानस्य पुरतः **स्ववृष्टिं** स्वभूतवृष्टिमन्तं वृत्रम् **अभि** आभिमुख्येन 'सस्रुः जग्मुः । **रघ्वीरिव** **प्रवणे** । यथा गमनस्वभावा आप निम्नदेशे गच्छन्ति । **यत्** यदा **अन्धसा** सोमलक्षणेनान्नेन पीतेन **धृषमाणः** प्रगल्भः सन् **वज्री** वज्रवान् **इन्द्रः** **वलस्य** संवृण्वतः एतत्संज्ञकमसुरं **भिनत्** व्यदारयत् अवधीदित्यर्थः । तत्र दृष्टान्तः । **त्रितः** **परिधीनिव**। देवानां हविर्लेपनिघर्षणाय अग्नेः सकाशात् अप्सु एकतो द्वितस्त्रित इति त्रयः पुरुषा जज्ञिरे । तथा च तैत्तिरीयैः समाम्नातं- ‘ सोऽङ्गारेणापः । अभ्यपातयत् । तत एकतोऽजायत । स द्वितीयमभ्यपातयत् । ततो द्वितोऽजायत । स तृतीयमभ्यपातयत् । ततस्त्रितोऽजायत' (तै. ब्रा. ३. २. ८. १०-११) इति । तत्रोदकपानार्थं प्रवृत्तस्य कूपे पतितस्य प्रतिरोधाय असुरैः परिधयः परिधायकाः कूपस्याच्छादकाः स्थापिताः । तान्यथा स अभिनत् तद्वत् ॥ स्ववृष्टिम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । युध्यतः । ' युध संप्रहारे । दैवादिकः । व्यत्ययेन शतृ । अदुपदेशात् लसार्वधातुकानुदात्तत्वे श्यनो नित्त्वादाद्युदात्तत्वम् । रघ्वीः । रघि गत्यर्थः ।  ‘ रङ्घिबंह्योर्नलोपश्च' ( उ. सू. १. २९) इति उप्रत्ययः ।  ‘वोतो गुणवचनात्' इति ङीष् । जसि ‘वा छन्दसि ' इति पूर्वसवर्णदीर्घत्वम् । ङीष्स्वरः शिष्यते । धृषमाणः ।' ञिधृषा प्रागल्भ्ये ' । श्नुप्रत्यये प्राप्ते व्यत्ययेन शः आत्मनेपदं च । अदुपदेशात् लसार्वधातुकानुदात्तत्वे विकरणस्वरः शिष्यते । भिनत् । लङि  ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । विकरणस्वरः । यद्वृत्तयोगादनिघातः । वलस्य । वल संवरणे'। वलति संवृणोति सर्वमिति वलः । पचाद्यच् ।' क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वात् चतुर्थ्यर्थे षष्ठी । परिधीन् । परिधीयन्ते इति परिधयः ।' उपसर्गे घोः किः '(पा, सू. ३. ३.९२ ) इति दधातेः कर्मणि किप्रत्ययः ।  ‘ आतो लोप इटि च' इति आकारलोपः । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,13 +143,13 @@ genre M
 Paridhīr iva **tritaḥ**: tritaḥ, triple or threefold;hence, 'as through triple coverings or defences'. A legend is: **Ekata**, **Dvita** and Trita were three men produced in water by **Agni**, for the purpose of removing or rubbing off the relics of an oblation of clarified butter (like three blades of sacred grass used to rub off. Another legend: Agni threw the cinders of burnt-offerings into water, whence arose Ekata, Dvita and Trita (called Āptyas or sons of water). Trita went to draw water from a well and fell into it; **Asuras** heaped coverings over the mouth of the well to prevent his escape, but he broke through them. Indra's breaking through the defences of Vala, the **asura** is compared to this exploit of Trita
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In his exhilaration, while he was fighting, his forms of help rushed to  him, who has his own proper work, like rapids in a torrent,  
 when the mace-wielding Indra, emboldened by the soma stalk, split the  barricades of the Vala cave, as Trita had.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 svávṛṣṭi- is found only here (and 14c below, in the same phrase), and the etymological identity of vṛṣṭi- is not clear. Easiest (with Grassmann) would be to take the second member as vṛṣṭí- ‘rain’, but ‘having his own rain’ doesn’t make much sense.
 
@@ -160,23 +160,23 @@ So, evidently, Renou: “son action propre,” though Renou also takes it as a k
 Because of the formal parallels, I interpret it as a bahuvrīhi ‘having his own work’, even though this causes some problems: in this clause Indra must be referred to both in accusative, in this compound, and in the genitive, in the phrase asya yúdhyataḥ, which depends on máde. Nonetheless, as usual I don’t feel we can ignore grammar whenever it complicates interpretation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him, as in wild joy he fought with him who stayed the rain, his helpers sped like swift streams down a slope,  
      When Indra, thunder-armed, made bold by Soma draughts, as Trta cleaveth Vala's fences, cleft him through.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Während er im Rausche dieses Soma kämpfte, sprangen seiner Eigengröße die Hilfen bei so schnell wie die flinken Stuten bergab, als Indra, der Keulenträger, durch den Soma kühn geworden des Vala Schranken sprengte gleich Trita.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm, der im Rausche mit dem Regenhemmer rang, ihm flossen Hülfen wie vom Abhang Ströme zu, Als Indra blitzend, durch den Soma mutherfüllt des Vala Wehren gleich wie Trita spaltete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В то время как он сражался в опьянении этим (сомой), навстречу его внезапному действию  
 Помчались подкрепления, как быстрые (воды) – в низину,  

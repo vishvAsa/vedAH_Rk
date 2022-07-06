@@ -8,7 +8,7 @@ title = "+071"
 पञ्चमेऽनुवाके एकोनविंशतिसूक्तानि । तत्र ‘अप स्वसुः' इति षडृचं प्रथमं सूक्तं त्रैष्टुभमाश्विनम् । अनुक्रम्यते च -– अप स्वसुः षट्' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 71 (587)  
 Aśvins  

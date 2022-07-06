@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡श रा꣡जानः स꣡मिता अ꣡यज्यवः  
 सुदा꣡सम् इन्द्रावरुणा न꣡ युयुधुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देवा꣡ एषाम् अभवन् देव꣡हूतिषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒त्या । नृ॒णाम् । अ॒द्म॒ऽसदा॑म् । उप॑ऽस्तुतिः । दे॒वाः । ए॒षा॒म् । अ॒भ॒व॒न् । दे॒वऽहू॑तिषु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
@@ -113,41 +113,41 @@ genre M
 हे इन्द्रावरुणौ दशसंख्याकाः **राजानः** सुदासः शत्रवः **समिताः** संगताः परस्परं समवेताः **अयज्यवः** अयजमाना एवंभूतास्ते **सुदासम्** एतत्संज्ञमेकमपि राजानं **न** **युयुधुः** न संप्रजह्रुः । युवाभ्यामनुगृहीतं तं प्रहर्तुं न शेकुः । तदानीम् **अद्मसदाम्** । अद्मन्यन्ने हविषि सीदन्तीत्यद्मसद ऋत्विजः । हविर्भिर्युक्तानां **नृणां** यज्ञस्य नेतॄणामृत्विजाम् **उपस्तुतिः** स्तोत्रं **सत्या** सफलाभूत् । अपि च **एषां** **देवहूतिषु** । देवा हूयन्त एष्विति देवहूतयो यज्ञाः । तेषु सर्वे च **देवाः** **अभवन्** युष्मदनुग्रहात् प्रादुर्भवन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The ten confederated irreligious **rājās** did not prevail, **Indra** and **Varuṇa**, against **Sudāsa**; the praiseof the leaders (of rites), the offerers of sacrificial food, was fruitful; the gods were present at their sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Gathered together but without a zeal to sacrifice, the ten kings gave no  fight to Sudās, o Indra and Varuṇa.  
 The invitatory praise of the superior men [=priests] sitting down to the  [sacrificial] meal came true: at the call of these to the gods, the gods  became present.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ten Kings who worshipped not, O Indra-Varuna, confederate, in war prevailed not o'er Sudas.  
      True was the boast of heroes sitting at the feast: so at their invocations Gods were on their side.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Ten kings allied, who worshipped not, did not prevail Against Sudās in war, O Indra-Varuna; The lauds of heroes sitting at the feast came true: The gods were at their invocations on their side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zehn verbündete opferlose Könige konnten gegen Sudas nicht ankämpfen, Indra und Varuna. Es bewährte sich der Lobpreis der Herren, die bei dem Opfermahl saßen; die Götter erschienen auf ihre Götteranrufungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die zehn verschwornen, opferlosen Könige bezwangen nicht den Sudas, Indra-Varuna, Erfolgreich war der Tischgenossen Bitte da, die Götter wohnten ihren Gottesdiensten bei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Десять обьединившихся царей, не приносящих жертв,  
 Не побороли Судаса, о Индра-Варуна.  

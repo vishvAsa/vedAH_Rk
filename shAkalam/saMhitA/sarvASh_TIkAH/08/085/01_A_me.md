@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ मे ह꣡वं नासतिया  
 अ꣡श्विना ग꣡छतं युव꣡म्  
 म꣡ध्वः सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मध्वः॑ । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -82,36 +82,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **नासत्या** । असत्यमनयोर्नास्तीति नासत्यौ । तादृशौ हे **अश्विना** अश्विनौ **युवं** युवां **मे** मदीयं हवम् आह्वानं श्रुत्वा । यद्वा । हवम् । हूयतेऽत्रेति हवो यज्ञः । केवलस्याधिकरणेऽप् छान्दसः । मदीयं यज्ञं प्रति **मध्वः** मदकरस्य **सोमस्य** **पीतये** पानाय तदर्थम् **आ** **गच्छतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Nāsatyās**, **Aśvins**, come you to my invocation that you may drink the exhilarating **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come to my call, o Nāsatyas, o Aśvins,  
 to drink of the honeyed soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To this mine invocation, O ye Asvins, ye Nasatyas, come,  
      To drink the savoury Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet ihr beiden Nasatya´s Asvin auf meinen Ruf, um vom süßen Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu meinem Rufe kommet doch, ihr beiden treuen Ritter, her, Zum Trunk des süssen Somasafts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На мой зов, о Насатьи –  
 Ашвины, приезжайте вы,  

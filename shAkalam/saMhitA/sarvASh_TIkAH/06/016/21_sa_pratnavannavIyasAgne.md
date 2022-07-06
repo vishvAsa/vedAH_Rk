@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ प्रत्नव꣡न् न꣡वीयसा  
 अ꣡ग्ने द्युम्ने꣡न संय꣡ता  
 बृह꣡त् ततन्थ भानु꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 बृ॒हत् । त॒त॒न्थ॒ । भा॒नुना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** यः पूर्वोक्तगुणविशिष्टः **सः** तादृशस्त्वं **प्रत्नवत्** प्रत्नेन पुराणेन **नवीयसा** नवतरेण **द्युम्नेन** द्योतमानेन **संयता** संगच्छता सम्यग्व्याप्नुवता **भानुना** तेजसा **बृहत्** महदन्तरिक्षं **ततन्थ** विस्तारयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, have overspread, **Agni**, this vast (firmament) with radiant concentrated lustre, recent like that of old.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, as of old but anew, with lasting brilliance  
 you stretch aloft with your radiance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, as in days of old, with recent glory, gathered light,  
      Hast overspread the lofty heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, hast wie früher mit neuem, anhaltendem Glanz, mit deinem Lichte dich hoch hingezogen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach alter Art mit neuem Glanz in stetem Wachsthum dehnst du weit Dich, Agni, aus mit deinem Licht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, как некогда, о Агни, протянулся  
 (Со своим) новым длительным блеском,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्ने प्रथमं꣡ देवय꣡न्तो  
 देव꣡म् म꣡र्ता अमृत मन्द्र꣡जिह्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡मूनसं गृह꣡पतिम् अ꣡मूरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 द्वे॒षः॒ऽयुत॑म् । आ । वि॒वा॒स॒न्ति॒ । धी॒भिः । दमू॑नसम् । गृ॒हऽप॑तिम् । अमू॑रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -119,7 +119,7 @@ genre M
 हे **अमृत** अमरणशील **अग्ने** **देवयन्तः** देवानिच्छन्तः **मर्ताः** मर्त्याः मनुष्या यजमानाः **त्वां** **धीभिः** स्तुतिभिः कर्मभिर्वा **आ** **विवासन्ति** समन्तात् परिचरन्ति । कीदृशं त्वाम् । **प्रथम** देवानाम् आद्यं **देवं** द्योतमानं 'मन्द्रजिह्वम् । देवानां मादयित्री जिह्वा यस्य तम्। **द्वेषोयुतं** द्वेषसां पापानां पृथक्कर्तारं **दमूनसं** रक्षसां दमनकरेण मनसोपेतम् । दमूनःशब्दस्य कथमयमर्थं इति दमूना दममना वा दानमना वा दान्तमना वापि वा दम इति गृहनाम तन्मनाः स्यात् ' ( निरु. ४. ४ ) इति यास्केनोक्तत्वात् इति ॥  ‘ दमु उपशमे । दमेरूनसिः' इत्यौणादिक ऊनसिप्रत्ययः ॥ **गृहपतिं** गृहाणां पालयितारम् **अमूरम्** अमूढम् । प्रगल्भमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,42 +130,42 @@ genre M
 Whose tongues exhilarate them: by taking as their mouth the oblation; the humiliator of demons: damanūnasam = rākṣasam damanakareṇa mānasopetam, being intent on destroying the **rākṣasas**, having a mind for taming, or a tamed or humble mind, a liberal or a domestic mind
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, (are) the first god (whom) the god-seekers seek to attract here  with their hymnic visions—the mortals, o immortal, (seeking you)  
 whose tongue is gladdening,  
 who keep hatred away, domestic ally, household lord, no fool.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The juxtaposition of complementary opposites -- devayánto devám and mártā amṛta -- is deft though not particularly noteworthy.
 
 Likewise note the pair dámūnasaṃ gṛhápatim, both referring to Agni’s role in domestic arrangements, derivatives of the older and newer words for ‘house’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Immortal Agni, thee whose voice is pleasant, as first in rank, as God, religious mortals  
      Invite with hyrnns; thee who removest hatred, Friend of the Home, the household's Lord, unerring.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (Drive) far from us senselessness and anguish; (drive) far all ill-will from him whom thou attendest 1. Be gracious at evening, Agni, son of strength, to him whom thou, the god, attendest with welfare.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, mit der wohlredenden Zunge suchen als ersten Gott die gottergebenen Sterblichen, o Unsterblicher, durch Gebete zu gewinnen, der die Feindschaft abwehrt, den Gebieter, den besonnenen Hausherrn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich Agni ziehn, den Gott die gottergebnen, Unsterblichen die Sterblichen zuerst her, Dess Zung' erfreut, der Hass verscheucht, den Hausfreund, durch Lieder ihn, den weisen Hausgebieter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, бога, люди, любящие богов,  
 Смертные, о бессмертный, первым стараются привлечь,  

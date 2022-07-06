@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ तिग्म꣡म् अभि꣡ अंशुं꣡  
 सी꣡दद् धो꣡ता मना꣡व् अ꣡धि  
 जुषाणो꣡ अस्य सखिय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 जु॒षा॒णः । अ॒स्य॒ । स॒ख्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **होता** ऋत्विक् **तिग्मं** तीक्ष्णम् **अंशुं** तमग्निं **नि** **षीदत्** निषीदति । कीदृशो होता । **अस्य** अग्नेः **सख्यं** **मनावधि** यजमाने **जुषाणः** । अधीति सप्तम्यर्थानुवादी ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,33 +97,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Hot flame:**aṃśu** = Agni; or, the stalks of **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Hotar sits down beside the sharp soma-plant, in Manu’s presence, taking pleasure in its companionship.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 asya could also refer to Manu’s companionship and be tr. “in his companionship,” but in IX the companionship of soma is mentioned (IX.61.29=66.14, 107.19; cf. also I.91.14, IV.28.1).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rejoicing in his friendship, let the priest be seated over man,  
      Beside the shoot of active power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Hotri setzt sich nieder zu dem scharfen Somastengel, der schon unter Manu sich seiner Freundschaft erfreute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es setze zu dem scharfen Saft der Priester bei dem Menschen sich, Erwählend seine Brüderschaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хотар подсел к растению сома,  
 Резкому (на вкус), (еще) при Ману  

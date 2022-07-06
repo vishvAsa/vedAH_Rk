@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राग्नी शृणुतं꣡ ह꣡वं  
 य꣡जमानस्य सुन्वतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पि꣡बतं सोमिय꣡म् म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वी॒तम् । ह॒व्यानि॑ । आ । ग॒त॒म् । पिब॑तम् । सो॒म्यम् । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], vocative, singular, masculine
@@ -99,19 +99,19 @@ genre M
 हे **इन्द्राग्नी** **सुन्वतः** सोमाभिषवं कुर्वतः **यजमानस्य** **हवम्** आह्वानं स्तोत्रं **शृणुतम्** । श्रुत्वा च तदीयानि **हव्यानि** हवींषि **वीतं** कामयेथाम् । कामयित्वा च **आ** **गतम्** आगच्छतम् । आगत्य च **सोम्यं** सोमात्मकं **मधु** **पिबतम्** ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hear, **Indra** and **Agni**, the instrumental tutor of the rite as he offers the libation; partake of the offering; come, quaff the sweet **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Agni, hear the call of the sacrificer who presses (soma). Pursue his oblations: come here, drink the somian honey.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -121,23 +121,23 @@ On the connection of these vss. to the hymn, see published introduction. For the
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni, hear his call who worships. with libations poured.  
      Come and enjoy the offerings, drink the sweetly-flavoured Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni, höret den Ruf des Opfernden, der Soma auspreßt! Habt Appetit auf die Opfergaben, kommet her, trinket den somischen Met!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, Agni, hört den Ruf des Opferers, der Soma braut, und trinkt den süssen Somasaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, услышьте призыв  
 Жертвователя, выжимающего (сому)!  

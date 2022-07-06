@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 केतुं꣡ यज्ञा꣡नां विद꣡थस्य सा꣡धनं  
 वि꣡प्रासो अग्नि꣡म् महयन्त चि꣡त्तिभिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡स्मिन् सुम्ना꣡नि य꣡जमान आ꣡ चके
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अपां॑सि । यस्मि॑न् । अधि॑ । स॒म्ऽद॒धुः । गिरः॑ । तस्मि॑न् । सु॒म्नानि॑ । यज॑मानः । आ । च॒के॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 यज्ञानाङ्केतुम्प्रज्ञापकंविदथस्ययज्ञस्यगृहस्यवासाधनं प्राप्तिसाधनं असाधारणकारणं सन्तमग्निं विप्रासोविप्राः चित्तिभिः स्वकर्मभिः महयन्त पूजयन्ति किञ्च गिरः स्तोतारः यस्मिन्नग्नौअपां सिस्वानुष्ठेयानिकर्माणिअधिसन्दधुः सन्दधते यजमानः तस्मिन्नग्नौ सुम्नानिसुखानि प्राप्तुं आचके कामयते ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,35 +131,35 @@ genre M
 The sign of sacrifices: ketum yajñānām: **ketu** = a banner; it is often used in the **Veda** in the sense of prajñāpaka, a sign, a signal, that which makes any thing known
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Beacon of the sacrifices, bringer of success to the ritual distribution— Agni do the inspired poets exalt with their thoughts.  
 In whom they have gathered their tasks and their songs, in him the  
 sacrificer desires to find favors.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sages shall glorify Agni with earnest thoughts, ensign of sacrifice, who fills the synod full:  
      In whom the singers have stored up their holy acts to him the worshipper looks for joy and happiness.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The priests have exalted with their thoughts Agni, the banner of sacrifices, the achiever of sacrifice 1. From him in whom they have put together their (sacrificial) works and their prayers, the sacrificer desires blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Banner der Opfer, den Erwirker von Weisheit, den Agni verherrlichen die Redekundigen nach ihrer Einsicht, auf den sie ihre Werke, ihre Lobesworte vereinigt haben; von ihm bittet sich der Opfernde Gunstbeweise aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Opfer Fahne, ihn, des Fests Verherrlicher, den Agni ehrte andachtsvoll die Priesterschar; In den die Sänger niederlegten all ihr Thun, in ihm erhofft Befriedigung der Opfernde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Знамя жертв, (того,) кто приводит к цели жертвенные раздачи, –  
 Агни возвеличивают вдохновенные усилиями мысли.  

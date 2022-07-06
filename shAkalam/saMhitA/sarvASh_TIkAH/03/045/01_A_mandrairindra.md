@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ मन्द्रइ꣡र् इन्द्र ह꣡रिभिर्  
 याहि꣡ मयू꣡ररोमभिः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡ति ध꣡न्वेव ताँ꣡ इहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मा । त्वा॒ । के । चि॒त् । नि । य॒म॒न् । विम् । न । पा॒शिनः॑ । अति॑ । धन्व॑ऽइव । तान् । इ॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 हे **इन्द्र** **मन्द्रैः** मादयितृभिः **मयूररोमभिः** मयूररोमसदृशरोमयुक्तैः **हरिभिः** अश्वैरुपेतस्त्वम् **आ** **याहि** यज्ञं प्रत्यागच्छ । **के** **चित्** अपि जनाः **त्वा** त्वां **मा** **नि** **यमन्** मा नियच्छन्तु । गमनप्रतिबन्धं मा कुर्वन्तु इत्यभिप्रायः । प्रतिबन्धे दृष्टान्तः । **विं** **न** । यथा **पाशिनः** पाशहस्ता व्याधाः विं गच्छन्तं पक्षिणं नियच्छन्ति तद्वत् मा नियच्छन्तु । किंच **धन्वेव** । यथा पान्था धन्व मरुदेशं शीघ्रम् **अति** गच्छन्ति तद्वद्गमनप्रतिबन्धकानतीत्य शीघ्रम् **इहि** आगच्छ॥ मन्द्रैः । मदि स्तुत्यादिषु इत्यस्य ‘स्फायितञ्चि° ' इत्यादिना रक्प्रत्ययः । इदित्त्वान्नुम् । प्रत्ययस्वरः । मयूररोमभिः । मयूररोमवद्रोमाणि येषामिति ‘ सप्तम्युपमानपूर्वपदस्य बहुव्रीहिरुत्तरपदलोपश्च' (पा.सू. २. २. २४. १२) इति समासः उत्तरपदलोपश्च । मयूरशब्दः ‘मीनातेरूरन्' (उ. सू. १. ६७) इत्यूरन्प्रत्ययान्तः । मीनाति सर्पानिति मयूरो बर्ही । नित्त्वादाद्युदात्तत्वे प्राप्ते ‘ मादीनाम् । (फि. सू. ५३ ) इति सूत्रेण मध्योदात्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । यमन् । ‘यम उपरमे इत्यस्य लेट्यडागमे रूपम् । इहि । इण् गतौ ' इत्यस्य लोटि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,36 +137,36 @@ genre M
 **Yajus**. 20.53; peacock-haired: **mayūra** romabhiḥ, withhair like the feathers of the peacock
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here, Indra, with your gladdening fallow bays, whose hair is (like)  peacocks’.  
 Let no one hold you down, as men using snares do a bird. Go across  them, as if across wasteland.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although I use the Engl. word ‘gladdening’ here as in the last hymn, the repetition is misleading. The Skt. word here tr. is mandrá-, whereas in the last hymn it was haryatá-.
 
 The simile concerning the bird and the snare is reminiscent of the much more obscure image in I.125.2, in which an animal of some kind seems to be bound up and captured.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME hither, Indra, with Bay Steeds, joyous, with tails like peacocks' plumes.  
      Let no men cheek thy course as fowlers stay the bird: pass o'er them as o'er desert lands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, Indra, mit den erfreulichen Falben, den pfauenschweifhaarigen! Nicht sollen dich irgendwelche Leute festhalten wie die Schlingensteller den Vogel. Geh an ihnen vorbei wie an einem wüsten Land.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm Indra mit den Füchsen her, den muntern, mit dem Pfauenschweif; Nicht fang dich jemand wie den Vogel in dem Netz, geh wie durch flaches Land hindurch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай, о Индра, на резвых  
 Буланых конях, чей волос, как павлиний (хвост)!  

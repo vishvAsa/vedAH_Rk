@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ स꣡र्गेण श꣡वसा तक्तो꣡ अ꣡त्यैर्  
 अप꣡ इ꣡न्द्रो दक्षिणत꣡स् तुराषा꣡ट्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवे꣡-दिवे विविषुर् अप्रमृष्य꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इ॒त्था । सृ॒जा॒नाः । अन॑पऽवृत् । अर्थ॑म् । दि॒वेऽदि॑वे । वि॒वि॒षुः॒ । अ॒प्र॒ऽमृ॒ष्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -113,7 +113,7 @@ genre M
 **तुराषाट्** तुराणां हिंसकानां सोढाभिभविता **सः** **इन्द्रः** **सर्गेण** सर्वदोद्युक्तेन **शवसा** बलेन **अत्यैः** अश्वैः सततगामिभिस्तेजोभिर्वा **तक्तः** संगतः सन् **दक्षिणतः** दक्षिणायने **अपः** उदकानि विसृजतीति शेषः । **इत्था** इत्थमनेन प्रकारेण **सृजानाः** सृज्यमानास्ता आपः **अर्थं** गन्तव्यम् **अप्रमृष्यम्** अन्यैरक्षोभ्यं समुद्रं **दिवेदिवे** प्रतिदिनम् **अनपावृत्** अपावर्तनं पुनरागमनं यथा न भवति तथा **विविषुः** व्याप्नुवन्ति ॥ अर्तेस्थन्प्रत्ययान्तस्य रूपमर्थमिति ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 Southern declination: āpo dakṣiṇataḥ, the waters from or at the south; **dakṣiṇāyana** may be intended, the sun's course south from the northern limit of the tropics; this heralds the commencement of the rainy season
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, launched in a surge with power along with his coursers, Indra,  overcoming the precipitous, (sent) the waters (surging) to the right.  
 Sent surging in just that way, without turning aside, day after day (the  waters) have toiled at their purpose, not to be neglected.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 sárgeṇa … taktáḥ is a decomposed variant of sárga-takta- (III.33.4, 11)(or, vice versa, the cmpd is compounded from this phrase).
 
@@ -141,23 +141,23 @@ part. sṛjānā́ḥ in c, implicitly modifying the waters, the missing verb is
 The root-noun cmpd. turā-ṣā́ṭ picks up turā́ya in 1b in a nod towards ring composition. I tr. ‘overcoming the precipitous’ rather than my ‘overcoming the powerful’ in the other three passages (III.48.4, V.40.4, X.55.8) in order to capture this echo.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra with rush and might, sped by his Coursers, hath swiftly won the waters from the southward.  
      Thus set at liberty the rivers daily flow to their goal, incessant and exhaustless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im vollen Anlauf mit Macht mit seinen Rennern dahinschießend, hat Indra die Wasser zu ihrer Rechten geleitet, den Mächtigen bezwingend. So losgelassen haben sie, ohne sich zu verlaufen, Tag für Tag ihre nie versäumte Aufgabe erfüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Strom hinschiessend kräftig mit den Rossen, geht Indra siegend rechter Hand der Wasser; Sie unablässig strömend wahrlich führten die Arbeit täglich aus, die unversäumbar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кинувшись со скакунами в мощном порыве,  
 Индра, победитель могучего, (выпустил течь) воды справа (от себя).  

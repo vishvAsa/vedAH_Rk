@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूषण्व꣡ते मरु꣡त्वते  
 विश्व꣡देवाय वाय꣡वे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 हव्य꣡म् इ꣡न्द्राय कर्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स्वाहा॑ । गा॒य॒त्रऽवे॑पसे । ह॒व्यम् । इन्द्रा॑य । क॒र्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūṣaṇvate* ← *pūṣaṇvat*
 - \[noun\], dative, singular, masculine
@@ -95,7 +95,7 @@ genre M
 **पूषण्वते** पूष्णा तद्वते ॥ ‘ अनो नुट् ' इति नुट् । ‘ह्रस्वनुड्भ्यां मतुप्' इति मतुप उदात्तत्वम्॥ **मरुत्वते** मरुद्भिस्तद्वते **विश्वदेवाय** सर्वदेवसंघाय **वायवे** गमनशीलाय वायुदेवाय च तथा **गायत्रवेपसे** । वेप इति रूपनाम। गायत्रशब्दः इतरसामोपलक्षणः। गायत्रं वेपो रूपं यस्य तादृशाय **इन्द्राय** **हव्यं** हविः प्रदातुं **स्वाहा** **कर्तन** स्वाहाकारं कुरुत ऋत्विजः । करोतेर्लोटि' तप्तनप्तनथनाश्च ' इति तनबादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,33 +108,33 @@ In the form of Gāyatra: Gāyatra-vepase--gāyatra is substituted for itara-**s�
 Gāyatravepas = a name or form of Indra; along with Pūṣan and the Maruts: liṭ, having or possessed of Pūṣan or the Maruts: puṣanvate marutvate; viśvadevāya (singular) = **viśvadeva**- saṅghāya, the assemblage of all the gods; or, an epithet to identify Indra with all the deities; the person nification of **Agni** is svāhā, as one of the Āpris
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Vāyu, accompanied by Pūṣan and the Maruts, by all the gods, and to Indra, pulsing with excitement from the songs, make oblation  with the svāhā-cry.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Vayu joined with Pusan, with the Maruts, and the host of Gods,  
      To Indra who inspires the hymn cry Glory! and present the gift.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For Him who is accompanied by Pûshan and by the Maruts, by the Visve devâh, (by) Vâyu 1, who is moved by the Gâyatra song, for Indra pronounce the Svâhâ over the offering.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Beisein des Pusan, der Marut, aller Götter, segnet für Vayu, der einen Schwall von Sangesweisen hat, für Indra das Opfer mit Svaha!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Vāju, der mit Puschan kommt, mit Maruts und der Götterschar, Sei Heil dem, der Gesang erregt, dem Indra bringt den Opfertrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для сопровождаемого Пушаном, Марутами,  
 Всеми-Богами, Ваю,  

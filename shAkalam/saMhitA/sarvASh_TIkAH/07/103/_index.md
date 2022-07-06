@@ -8,7 +8,7 @@ title = "+103"
 ' संवत्सरम् ' इति दशर्चं चतुर्दशं सूक्त वसिष्ठस्यार्षं त्रैष्टुभम् । आद्या त्वनुष्टुप् । मण्डूका देवता । तथा चानुक्रान्तं- संवत्सरं दश पर्जन्यस्तुतिः संहृष्टान्मण्डूकांस्तुष्टावाद्यानुष्टुप् ' इति । वृष्टिकामेनैतत्सूक्तं जप्यम् ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 103 (619)  
 Frogs  
@@ -23,7 +23,7 @@ As for the ritual application, the Pravargya rite occurs after a year-long con s
 Oldenberg suggests that that this hymn was added at this point in the Maṇḍala,  just after the two Parjanya hymns (VII.101–2), because of the presence of Parjanya  in the first verse. It is certainly appropriate for the rainy season.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Frogs 134 My interpr. of this hymn relies on the treatment of it in my 1993 article “Natural History Notes on the Rigvedic 'Frog' Hymn,” Annals of the Bhandarkar Oriental Research Institute 72-73 (1991-92 [1993]) [=Amṛtamahotsava Volume, for 75th anniversary of the BORI], pp. 137-44. Since this article is not universally accessible, I will reproduce much of the commentary here (without particular ref. to pg. nos. or to the sec. lit. that is excerpted there). The hymn is one of the most popular in the RV and has been constantly tr. -- e.g., besides the usual, Macdonell (VRS and Hymns …), Renou (Hymnes spéculatifs), Thieme (Gedichte), Maurer, Doniger.
 </details>

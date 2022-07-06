@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृते꣡न द्या꣡वापृथिवी꣡ अभी꣡वृते  
 घृतश्रि꣡या घृतपृ꣡चा घृतावृ꣡धा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ते꣡ इ꣡द् वि꣡प्रा ईळते सुम्न꣡म् इष्ट꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒र्वी इति॑ । पृ॒थ्वी इति॑ । हो॒तृ॒ऽवूर्ये॑ । पु॒रोहि॑ते॒ इति॑ पु॒रःऽहि॑ते । ते इति॑ । इत् । विप्राः॑ । ई॒ळ॒ते॒ । सु॒म्नम् । इ॒ष्टये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
@@ -118,7 +118,7 @@ genre M
 **द्यावापृथिवी** द्यावापृथिव्यौ **घृतेन** उदकेन **अभिवृते** आवृते भवतः। **घृतश्रिया** उदकं श्रयन्त्यौ च **घृतपृचा** घृतसंपृक्ते च **घृतावृधा** घृतं वर्धयन्त्यौ  च **उर्वी** विस्तीर्णे **पृथ्वी** प्रथिते च भवतः । **होतृवूर्ये** यज्ञे **पुरोहिते** यजमानैः पुरस्कृते च भवतः । **विप्राः** प्राज्ञा: स्तोतारः **ते** **इत्** द्यावापृथिव्यावेव **इष्टये** यज्ञाय। ‘होत्रा इष्टिः' इति यज्ञनामसु पाठात् । **सुम्नं** सुखम् **ईळते** याचन्ते । सुखे सति हि यागाः प्रवर्तन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,36 +129,36 @@ genre M
 Pray to you: īḷate sumnam iṣṭaye, ask happiness for the sacrifice; for, where there is happiness, sacrifices proceed, sukhe **sati** **yāgaḥ** pravartante
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Heaven and Earth, covered over with ghee, glorious with ghee, mixing  with ghee, strong through ghee,  
 wide and broad, set in front at the choosing of the Hotar—just these two  do the inspired poets reverently invoke, to seek their favor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ghee vs., with four instances in the 1st hemistich, echoing in the first word of the hymn ghṛtávatī. There is also some recycling and remixing of vocab.: 1a abhiśríyā : 4ab abhī́-vṛte ghṛta-śríyā, as well as outright repetition: 1b / 4c urvī́ pṛthvī́.
 
 The third pāda contains a ritual pun, “set in front at the choosing of the Hotar priest” (hotṛvū́rye puróhite): purohité here modifies H+E, but ordinarily it is the Hotar priest himself who is “set in front.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Enclosed in fatness, Heaven and Earth are bright therewith: they mingle with the fatness which they still increase.  
      Wide, broad, set foremost at election of the priest, to them the singers pray for bliss to further them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In Schmalz gehüllt sind Himmel und Erde, schmalzverschönt, schmalzgetränkt, schmalzreich. Weit, breit haben sie bei der Hotriwahl den Vorrang. Sie rufen die Beter an, um ihre Gunst zu suchen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Himmel und die Erde, die mit Fett umhüllt, mit Fett durchtränkt, Fett schenken, und am Fett sich freun, Die weiten, breiten, besten bei der Priesterwahl, die flehn die Sänger recht um Hulderlangung an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жиром окутаны Небо-и-Земля,  
 Жиром украшены, жиром насыщены, жиром взращены.  

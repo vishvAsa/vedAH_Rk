@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ सीम् अ꣡नु प्रव꣡तेव द्र꣡वन्तं  
 वि꣡श्वः पूरु꣡र् म꣡दति ह꣡र्षमाणः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रथतु꣡रं वा꣡तम् इव ध्र꣡जन्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प॒ट्ऽभिः । गृध्य॑न्तम् । मे॒ध॒ऽयुम् । न । शूर॑म् । र॒थ॒ऽतुर॑म् । वात॑म्ऽइव । ध्रज॑न्तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -118,41 +118,41 @@ genre M
 **यं** दधिक्रां **विश्वः** **पूरुः** सर्वोऽपि मनुष्यः **हर्षमाणः** हृष्यन् हर्षयन् वा मदति स्तौति । ते देवं द्यावापृथिव्यौ ददथुरिति संबन्धः । स देवो विशेष्यते । **सीं** सर्वतः प्रवतेव प्रवणवता निम्नेन मार्गेणोदकमिवानुक्रमेण **द्रवन्तं** गच्छतं पड्भिः पादैः **गृध्यन्तम्** अभिकाङ्क्षन्तं दिशो लङ्घितुम् । तत्र दृष्टान्तः । **मेधयुं** **न** **शूरं** । संग्रामेच्छुं शूरमिव । यद्वा । यज्ञक्रमणेच्छुमध्वर्य्वादिकमिव । **रथतुरं** रथेन गच्छन्तं **वातमिव** **ध्रजन्तं** शीघ्रगं वायुमिव । उक्तविशेषविशिष्टान् उदकशूरवायून् यथा सर्वो जनः स्तौति तथा यं देवं स्तौति तं ददथुरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whom all men, rejoicing, praise, rushing everywhere, as if down a precipice, springing with his feet like a hero eager for war, drawing a car, and going as swift as the wind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one whom every Pūru applauds in excitement as he runs as if down  an easy slope—  
 greedy with his hooves like a champion seeking his meal, outstripping  chariots, swooping like the wind.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is sharp difference of opinion about the sense of medhayú-: is it built to medhā́- ‘wisdom’ or médha- ‘ritual offering, meal’? The former is the choice of Geldner, Renou, Mayr (tentatively, EWA, s.v. medhā́-), while Grassmann, Scarlatta (188), and I opt for ‘meal’. (Witzel Gotō’s rendering “wie ein Opfertier Verlangender” must also reflect this médha- stem.) The ‘meal’ interpr. fits well with gṛ́dhyantam ‘greedy’, and it also makes more sense to me that a horse would want something to eat rather than wisdom. Moreover, if Dadhikrā represents the sacrificial horse in the Aśvamedha, there is a (sinister) echo of the name of this sacrifice: the horse is unwittingly seeking his own sacrifice. It can, of course, also be a pun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whom, as 'twere down a precipice, swift rushing, each Puru praises and his heart rejoices,-  
      Springing forth like a hero fain for battle, whirling the car and flying like the tempest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem jeder Puru voll Freude nachjubelt, wenn er wie in vollem Laufe dahineilt, mit den Füßen kampfbegierig, der die Wagen überholt, wie der Sturmwind dahinsaust.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem, wenn er läuft gleichwie im jähen Sturze, ein jeder Mensch erfreut entgegen jubelt; Im Laufe strebt er, wie ein Held nach Beute, den Wagen fördernd, fliegend wie der Sturmwind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Коня,) которому исступленно радуется каждый (человек) пуру,  
 Когда тот бежит, словно по отлогому склону,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग्रा꣡व्णा तुन्नो꣡ अभि꣡ष्टुतः  
 पवि꣡त्रं सोम गछसि  
 द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 दध॑त् । स्तो॒त्रे । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *grāvṇā* ← *grāvan*
 - \[noun\], instrumental, singular, masculine
@@ -85,20 +85,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **सोम** **ग्राव्णा** **तुन्नः** अभिपीडितोऽभिषुतस्त्वं स्तोतृभिः **अभिष्टुतः** सन् **पवित्रं** **गच्छसि** प्राप्नोषि । किं कुर्वन् । **स्तोत्रे** स्तोत्रकारिणे जनाय **सुवीर्यं** शोभनवीर्योपेतं धनादिकं **दधत्** विदधत् प्रयच्छन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bruised with the stones and effused (by the worshippers), you, **Soma**; enter the filter, bestowing upon your praiser (wealth), accompanied with excellent **male** offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pounded by the stone, bepraised, you go to the filter, o Soma,  
 establishing for the praiser an abundance of heroes.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -107,23 +107,23 @@ This is the last tṛca of the hymn, attributed to Vasiṣṭha. The 1st two vss
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bruised by the press-stones and extolled, Soma, thou goest to the sieve,  
      Giving the worshipper hero strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem Preßstein zerstoßen gehst du, Soma, besungen in die Seihe, dem Sänger die Meisterschaft bringend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Stein gestossen, Soma, gehst besungen du zur Seihe hin, Dem Sänger schenkend Heldenkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Раздробленный давильным камнем, восхваленный,  
 Ты движешься, о сома, к цедилке,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡ह꣡ ह꣡री ब्रह्मयु꣡जा  
 शग्मा꣡ वक्षतः स꣡खायम्  
 गीर्भिः꣡ श्रुतं꣡ गि꣡र्वणसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 गीः॒ऽभिः । श्रु॒तम् । गिर्व॑णसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eha* ← *ā*
 - \[adverb\]
@@ -85,36 +85,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 (“ब्रह्मयुजा ब्रह्मणा मन्त्रेण स्तोत्रेण हविषा वा युज्यमानौ **शग्मा** शग्मौ सुखकरौ शक्तौ वा ईदृशौ **हरी** अश्वौ **इह** अस्मिन् यज्ञे **सखायं** समानख्यानं मित्रभूतमिन्द्रम् **आ** **वक्षतः** आवहताम् । कीदृशमिन्द्रम् । **गीर्भिः** स्तुतिभिः **श्रुतं** प्रख्यापितमाहात्म्यं **गिर्वणसं** गिरां संभक्तारं स्तुतिभिः संभजनीयं वा ॥ )
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the delightful steeds who are harnessed by prayer bring hither (our) friends (**Indra**), magnified bypraises, deserving of laudation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here, just here will his two capable fallow bays, yoked by the sacred  formulation, carry our comrade,  
 famed through songs, longing for songs.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the strong Bay Steeds, yoked by prayer, bring hither unto us our Friend,  
      Lover of Song, renowned by songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hierher sollen den Freund die durch Beschwörungswort geschirrten tüchtigen Falben fahren, den durch Lobreden Berühmten, Lobbegehrenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Starke, liedgeschirrte Rosse mögen bringen den Genossen, Den berühmten liederfreuten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сюда пусть привезут двое буланых коней,  
 Мощных, запрягаемых священным словом,  

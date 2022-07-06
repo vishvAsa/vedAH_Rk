@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गम्भीराँ꣡ उदधीँ꣡र् इव  
 क्र꣡तुम् पुष्यसि गा꣡ इव  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ह्रदं꣡ कुल्या꣡ इवाशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । सु॒ऽगो॒पाः । यव॑सम् । धे॒नवः॑ । य॒था॒ । ह्र॒दम् । कु॒ल्याःऽइ॑व । आ॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gambhīrāṃ* ← *gambhīra*
 - \[noun\], accusative, plural, masculine
@@ -112,20 +112,20 @@ genre M
 हे इन्द्र त्वं **गम्भीरान्** महावकाशान् **उदधीन्** समुद्रान्” उदकैर्यथा पोषयसि तद्वत् **क्रतुं** यज्ञस्य कर्तारमिमं यजमानमभिमतफलप्रदानेन **पुष्यसि** पोषयसि । अत्र दृष्टान्तः। यथा **सुगोपाः** समीचीनो गोपालः यवसेन **गाः** पोषयति तद्वत् । **यथा** **धेनवः** **यवसं** तृणादिकं प्राप्नुवन्ति तद्वत् त्वं सोमान् प्राप्नोषि । ते च सोमाः **कुल्याइव** कृत्रिमसरितः **ह्रदं** महाजलाशयं यथा प्राप्नुवन्ति तद्वत् त्वाम् **प्र** **आशत** व्याप्नुवन्ति ॥ गम्भीरान् । 'गाधृ प्रतिष्ठालिप्सयोर्ग्रन्थे च  इत्यस्मात् ' गभीरगम्भीरौ ' (उ. सू. ४. ४७५ ) इत्यनेन सूत्रेण इरच्प्रत्ययः । नुमागमोपधाह्रस्वभकाराः सर्वे निपात्यन्ते । चित्त्वादन्तोदात्तः । उदधीनिव। उदकशब्दे उपपदे दधातेरधिकरणेऽर्थे ‘ कर्मण्यधिकरणे च ' इति किप्रत्ययः । उदकशब्दस्य ‘ पेषंवासवाहनधिषु च ' (पा. सू. ६.३.५८) इत्युदभावः । कृत्स्वरः । इवेन विभक्त्यलोपः । पुष्यसि ।' पुष पुष्टी ' इत्यस्यान्तर्णीतण्यर्थस्य लटि रूपम् । निघातः । सुगोपाः । गोपायतेः क्विपि रूपम् । यथा । ‘ यथेति पादान्ते' (फि. सू. ८५ ) इति निघातः । आशत । अशू व्याप्तौ ' इत्यस्माल्लङि • बहुलं छन्दसि ' इति विकरणस्य लुक् । निघातः
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You cherish the celebrator of the pious rite as you fill the deep seas (with water); or as a careful herdsman (cherishes) the cows; (you imbibe the **Soma**) as cows (obtain) fodder, (and the Soma juices) flow into you as rivulets flow into a lake.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your resolve, deep like pools—you foster it, like cows.  
 As milk-cows with a good herdsman reach pasturage, as brooks reach a  lake, (so your resolves) have reached fulfillment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this is the middle vs. of the hymn, and it contains four similes, which are interlocked in interesting ways. In the first halfverse both similes target krátum ‘resolve, will’. In the first the term held in common (gambhirā́n ‘deep’) has been attracted in number to the upamāna (udadhī́n ‘pools’), though the position of the iva probably shows that ‘deep’ lies outside the simile proper (gambhirā́m̐udadhī́m̐iva, krátum …). This simile is not dependent on the verb, while the second one (krátum puṣyasi gā́iva “you foster it like cows”) requires the fosterage of the verb puṣyasi for the comparison to make sense. That is, Indra’s will is like cows only in that he cultivates it and helps it prosper, whereas it is “deep” regardless of any verb that might govern it.
 
@@ -138,23 +138,23 @@ The comparison is wide open. Sāyaṇa. suggests that soma drinks are the subj. 
 (‘resolves’ as in the published translation) or, as Geldner suggests in n. 3cd, as a sg., with the verb attracted to the number of the subjects of the two similes. And I take āśata in a different sense in the frame than in the similes -- without expressed goal as “reach fulfillment, achieved (their goal),” although I recognize that the overwhelming number of occurrences of this verb do have expressed goal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like pools of water deep and full, like kine thou cherishest thy might;  
      Like the milch-cows that go well-guarded to the mead, like water-brooks that reach the lake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hegest Weisheit, tief wie die Meere, viel wie die Kühe. Wie die Milchkühe, die einen guten Hirten haben, zur Weide, wie Kanäle in den See sind sie zu dir gekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie tiefe Seen nimmst du auf den Krafttrunk wie der Rinder Schar; Wie gutbewachte Kühe zu der Weide hin, wie Bäche eilen in den Teich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно глубокие колодцы,  
 Ты лелеешь силу духа, словно коров.  

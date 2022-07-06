@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ वाम् अ꣡द्रिभिः सुतः꣡  
 सो꣡मो नरा वृषण्वसू  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पि꣡बतं दाशु꣡षो गृहे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ । या॒त॒म् । सोम॑ऽपीतये । पिब॑तम् । दा॒शुषः॑ । गृ॒हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -98,36 +98,36 @@ genre M;; repeated line
 **नरा** सर्वस्य नेतारौ यद्वा स्तोतॄणां धनस्य नेतारौ **वृषण्वसू** वर्षणशीलधनवन्तौ हे अश्विनौ **वां** युष्मदर्थम् **अद्रिभिः** ग्रावभिः **अयं** **सोमः** **सुतः** अभिषुतः । तस्मात् **सोमपीतये** सोमपानार्थं युवाम् **आ** **यातम्** । आगत्य च **दाशुषः** हविर्दत्तवतो यजमानस्य **गृहे** यज्ञस्थाने सोमं युवां **पिबतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders (of rites), affluent in rain, this **Soma** has been expressed by the (grinding) stones for you; cometo drink the Soma, drink it in the dwelling of the donor.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the soma pressed for you with stones, o you men with  bullish goods.  
 Drive here to drink the soma; drink it in the house of the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Soma pressed with stones is yours, ye Heroes, Lords of plenteous wealth.  
      Approach to drink the Soma, come, drink in the worshipper's abode.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma ist für euch mit Steinen ausgepreßt, ihr schätzereichen Herren. Kommet her zum Somatrunk, trinkt im Hause des Spenders!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dieser Soma ist euch, o stierkräftige Männer von den Steinen gepresst; kommt her zum Somatrunke, trinkt in des Verehrers Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот сома выжат для вас камнями,  
 О два мужа, владеющих мощными благами.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ वत्स꣡ इव मातृ꣡भिर्  
 इ꣡न्दुर् हिन्वानो꣡ अज्यते  
 देवावी꣡र् म꣡दो मति꣡भिः प꣡रिष्कृतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दे॒व॒ऽअ॒वीः । मदः॑ । म॒तिऽभिः॑ । परि॑ऽकृतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -88,41 +88,41 @@ genre M
 **हिन्वानः** प्रेर्यमाणः **इन्दुः** सोमो वसतीवरीभिः **सम्** **अज्यते** । सम्यक् सिक्तो भवति । तत्र दृष्टान्तः । **वत्सइव** वत्सो यथा **मातृभिः** गोभिः समक्तो भवति तद्वत् । कीदृशः । **देवावीः** देवानां रक्षकः **मदः** मदकरः **मतिभिः** स्तुतिभिः **परिष्कृतः** अलंकृतः ॥ भूषणार्थे ' संपर्युपेभ्यः इति सुडागमः। ‘परिनिविभ्यः' (पा. सू. ८. ३. ७० ) इति सुटः षत्वम् ॥ अयं दक्षय साधनोऽयं शर्धय वीतये । अयं देवेभ्यो मधुमत्तमः सुतः ॥ ३ ॥ अयम् । दर्धाय । साधनः। अयम् । शर्धाय । वीतये । अयम् । देवेभ्यः। मधुमत्त मः। सुतः ॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu** being set forth is sprinkled (with the waters) as a calf (is nourished) by its mother-- the protector of the deities, the exhilarator, graced by praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a calf, being impelled to join with his mothers, he is driven [/anointed], pursuing the gods, the exhilarating drink adorned all around with  
 thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a in both hymns has both the calf (acc. in 104, nom. in 105) and its mothers (both instr.), as well as the init. preverb sám and a simile particle (ná in 104, iva in 105). The b pādas are quite different. The c pādas begin with the same two words, devāvī́- máda-, acc. in 104, nom. in 105. Again the rest of the c pāda diverges.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like as a calf with mother cows, so Indu is urged forth and sent,  
      Glorified by our hymns, the God-delighting juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Kalb wird der zur Eile getriebene Saft mit seinen Müttern vereinigt, der göttereinladende Rauschtrank, mit Gedichten herausgeputzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie mit der Mütterschar das Kalb wird Indu fortgeführt, entsandt; Der Rauschtrank mit Gebet geschmückt, der Götter labt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как теленок со(единяется) с матерями,  
 Поторапливаемый сок сомы умащатся (молоком),  

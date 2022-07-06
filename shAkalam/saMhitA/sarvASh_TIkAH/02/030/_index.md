@@ -8,7 +8,7 @@ title = "+030"
 ' ऋतं देवाय ' इत्येकादशर्चमष्टमं सूक्तं गार्त्समदम् । अन्त्या जगती शिष्टास्त्रिष्टुभः । ' प्र हि क्रतुम् ' इत्येषा इन्द्रासोमदेवताका । ' सरस्वति त्वमस्मान् ' इत्यर्धर्चः सारस्वतः । ' यो नः सनुत्यः ' इत्येषा बार्हस्पत्या । अन्त्या मारुती । शिष्टा ऐन्द्र्यः । तथा चानुक्रान्तम्-' ऋतमेकादश जगत्यन्तं षष्ठ्यैन्द्रासोमी सरस्वति त्वमिति सारस्वतोऽर्धर्चो यो नो बृहस्पतिस्तं वोऽन्त्या मारुती ' इति । गतो विनियोगः।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 30 (221)  
 Indra (1–5, 7, 8cd, 10), Indra and Soma (6), Sarasvatı̄ (8ab), Br̥haspati (9), Maruts (11) Gr̥tsamada  
@@ -19,7 +19,7 @@ The rest of the hymn begs the gods, particularly Indra but, as the hymn pro gres
 The hymn contains some striking expressions, for instance the “night” of the  waters in verse 1: the image evoked may be a naturalistic one, that waters in full  flow can appear dark, but with the identification waters = dawns the image can  also describe the progress from night/darkness to dawn. Note also that the phrase  “every day” defines the hymn as a ring composition, though it has different lexical realizations in verse 1 (áhar-ahar) and as the last word of the last verse 11  (divé-dive).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra and other divinities This hymn has at least three, possibly four modern ling. features: conditional (ábhariṣyat vs. 2), future impv (kṛṇutāt vs. 5 [though the fut. impv. appears to be inherited, it is fairly rare in the RV and generally seems to belong to a more colloquial speech level]), gerund (abhikhyā́ya, hatvī́vss. 9, 10), and mid. subj. in -ai (naśāmahai vs. 11).
 </details>

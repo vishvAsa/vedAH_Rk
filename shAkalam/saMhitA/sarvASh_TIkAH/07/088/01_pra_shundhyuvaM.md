@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ शुन्ध्यु꣡वं व꣡रुणाय प्र꣡यिष्ठाम्+  
 मतिं꣡ वसिष्ठ मीळ्हु꣡षे भरस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सह꣡स्रामघं वृ꣡षणम् बृह꣡न्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । ई॒म् । अ॒र्वाञ्च॑म् । कर॑ते । यज॑त्रम् । स॒हस्र॑ऽमघम् । वृष॑णम् । बृ॒हन्त॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -114,41 +114,41 @@ genre M
 ऋषिरात्मानमेव प्रत्यक्षीकृत्य स्तुतौ नियुङ्क्ते । हे **वसिष्ठ** त्वं **मीळ्हुषे** सेक्त्रे **वरुणाय** **शुन्ध्युवं** शोधयित्रीं यद्वा स्वत एव शुद्धां **प्रेष्ठां** प्रियतमां **मतिं** मननीयामीदृशीं स्तुतिं **प्र** **भरस्व** प्रहर प्रापय । **यः** वरुणः **ईम्** एनं सूर्यम् **अर्वाञ्चम्** अस्मदभिमुखं **करते** अन्तरिक्षे करोति तस्मै वरुणायेत्यन्वयः। कीदृशं सूर्यम् । **यजत्रं** यष्टव्यं सहस्रामघं बहुधनं **वृषणं** कामानां वर्षकं **बृहन्तं** महान्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer pure and acceptable praise, **Vasiṣṭha** to the showerer, **Varuṇa**, he who makes the adorable(sun), the donor of thousands, the showerer (of benefits), the vast, manifest before (us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Present to generous Varuṇa a carefully preened, much-loved thought, o  Vasiṣṭha,  
 to him, the lofty bull who brings a thousand rewards—(you, Vasiṣṭha,)  who will make near at hand the one worthy of the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PRESENT to Varuna thine hymn, Vasistha, bright, most delightful to the Bounteous Giver,  
      Who bringeth on to us the Bull, the lofty, the Holy, laden with a thousand treasures.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Present to Varuṇa the gracious giver A hymn, Vasiṣṭha, bright and very pleasant, That he may bring to us the lofty, holy And mighty steed that grants a thousand bounties.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vasistha! Bring ein sauberes, recht angenehmes Gedicht dem belohnenden Varuna dar, der den verehrungswürdigen, tausend Gaben bringenden großen Bullen herwärts lenken soll.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Trag vor, Vasischtha, Varuna, dem gnäd'gen, ein sehr erwünschtes schöngeschmücktes Sinnlied, Der her uns schafft das hohe, hehre Lichtross, das tausendfache, schöne Gaben spendet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чистую, самую приятную молитву  
 Принеси щедрому Варуне, о Васиштха,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व स्पृधि पित꣡रं यो꣡धि विद्वा꣡न्  
 पुत्रो꣡ य꣡स् ते सहसः सून ऊहे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने कदाँ꣡ ऋतचि꣡द् यातयासे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क॒दा । चि॒कि॒त्वः॒ । अ॒भि । च॒क्ष॒से॒ । नः॒ । अ॒ग्ने॒ । क॒दा । ऋ॒त॒ऽचित् । या॒त॒या॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 हे **सहसः** सूनो बलस्य पुत्राग्ने त्वम् **अव** **स्पृधि** पारय । **योधि** पृथक्कुरु पापात् । **यः** **पुत्रः** पुत्रस्थानीयः तव यो यजमानः **ते** त्वां **पितरं** पालकं पितृभूतं **विद्वान्** जानन **ऊहे** वहति  हविः । तमेवं कुरु इत्यृषिरात्मानं परोक्षेणाह । ‘ हव्यवाळग्निरजरः पिता नः' (ऋ. सं. ५. ४. २) इति हि वक्ष्यति । यद्वा । पितृपुत्रभावो व्यत्यस्तः । पितरं पितृवद्रक्षकं यजमानमव स्पृधि योधि च यस्त्वं पुत्रः पुत्रवत्सदा रक्षणीयः । त्वं पुत्रो भवसि यस्तेऽविधत् ' (ऋ. सं. २. १. ९) इति हि श्रुतिः । हे चिकित्वः चेतनावन् अग्ने **कदा** **नः** अस्मान् **अभि** **चक्षसे** अभिपश्यसि । **कदा** च **ऋतचित्** यज्ञस्योदकस्य वा चेतयिता **यातयासे** प्रेरयसि सन्मार्गेण
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ genre M
 As to a father: may the bearer of the oblation, the undecaying Agni, be a father to us; or, the relationship may be reversed; protect him, Agni, who, like a father, cherishes you as a son, Agni being genitive rated and maintained by the sacrificer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fight! since you know how. Rescue your father [=the priest], who  considers himself your son, o son of strength!  
 Watchful one, when will you look toward us? O Agni, when will you,  perceiving the truth, take your place?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Save, thou who knowest, draw thy father near thee, who counts as thine own son, O Child of Power.  
      O sapient Agni, when wilt thou regard us? When, skilled in holy Law, wilt thou direct us?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Protect the father—drive away (evil) as the knowing one—(the father) who is considered 1 as thy son, O son of strength 2. When, O sapient (Agni), wilt thou look upon us? When wilt thou, who knowest Rita, requite (human deeds)?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nimm den Vater in Schutz, wehre kundig die Feinde von ihm ab, der sich als deinen Sohn betrachtet, du Sohn der Kraft! Wann wirst du Achtsamer nach uns sehen, wann, o Agni, als Rechtskundiger Vergeltung üben?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Errett den Vater, kett an dich, erfahr'ner, ihn, der dir gilt als Sohn, o Spross der Stärke; Wann wirst du, weiser, gnädig auf uns blicken, und wann vergelten, Agni, du gerechter?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Защити отца! Как знаток отврати (зло)  
 (От того,) кто считается твоим сыном, о сын силы!  

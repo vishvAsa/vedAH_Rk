@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बा-पिबे꣡द् इन्द्र शूर सो꣡मम्  
 म꣡न्दन्तु त्वा मन्दि꣡नः सुता꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 इत्था꣡ सुतः꣡ पौर꣡ इ꣡न्द्रम् आव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 पृ॒णन्तः॑ । ते॒ । कु॒क्षी इति॑ । व॒र्ध॒य॒न्तु॒ । इ॒त्था । सु॒तः । पौ॒रः । इन्द्र॑म् । आ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibā* ← *pā*
 - \[verb\], singular, Present imperative
@@ -121,41 +121,41 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 शूर बलवन् हेइन्द्र पिबपिबेत् अभिषुतमिमंसोमम्पिबैव आदरार्थैषावीप्सा मन्दिनोमदकराः सुतासोभिषुताः सोमाः त्वामन्दतु त्वाम्मान्दयन्तु । मदिस्तुत्यादिषु व्यत्ययेनपरस्मैपदम् तेसो- मास्तेतवकुक्षीउदरस्योभौपार्श्वौप्रुणन्तः पूरयन्तः सन्तः त्वांवर्धयन्तु इत्थाअनेनप्रकारेण पौरः उदरपूरकः सुतोभिषुतः सोमः इन्द्रन्त्वामाव तर्पयतु अवतेस्तर्पणार्थस्यलिटिरूपम् ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink, hero, **Indra**, drink the **Soma**;may the exhilarating juices delight you; may they, distending your flanks, augment (your prowess), and in this manner may the replenishing effused libation satisfy Indra.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink and drink the soma, o Indra, our champion! Let the exhilarating  soma-pressings exhilarate you.  
 As they fill your cheeks, let them strengthen you. When properly  pressed among the Paura, (the soma) has helped Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In d JPB takes paurá as pauré out of sandhi, as a PN. In VIII.61.6 I take it as ‘multiplier’ (of Indra) in a pun with purukṛ́t-. In VIII.50.5 a clear loc. shows the sense that JPB wants. In V.74.4 there are three exx., one apparently a PN, the other also apparently a pun on puru- (JPB tr. ‘muchness’). I’d be inclined here to take it in non-PN name fashion, either as loc. “in its muchness” or modifying soma: “soma multiplied” (to puru) or perhaps more likely, given pṛṇántaḥ in c, ‘filling’ or ‘in its fullness’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink thou, O Hero Indra, drink the Soma; let the joy-giving juices make thee joyful.  
      They, filling both thy flanks, shall swell thy vigour. The juice that satisfies hath helped Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink, trink doch, tapferer Indra, den Soma ! Dich sollen die berauschenden Preßtränke berauschen. Deine Seiten füllend sollen sie dich stärken. Der also gepreßte Füller hat früher dem Indra geholfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O trinke, trinke, Indra, Held, den Soma, berauschen mögen dich des Rausches Tränke, Den Bauch dir füllend mögen sie dich stärken; der wohlgebraute Füller labte Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так пей же, пей сому, о Индра-герой!  
 Да опьянят тебя пьянящие (соки) выжатого (сомы)!  

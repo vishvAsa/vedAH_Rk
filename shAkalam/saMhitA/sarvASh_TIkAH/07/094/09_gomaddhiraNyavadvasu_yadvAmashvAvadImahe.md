@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गो꣡मद् धि꣡रण्यवद् व꣡सु  
 य꣡द् वाम् अ꣡श्वावद् ई꣡महे  
 इ꣡न्द्राग्नी त꣡द् वनेमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रा॑ग्नी॒ इति॑ । तत् । व॒ने॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gomaddhiraṇyavad* ← *gomat*
 - \[noun\], accusative, singular, neuter
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्राग्नी** **गोमत्** गोभिर्युक्तं **हिरण्यवत्** हिरण्यैः सुवर्णैर्युक्तम् **अश्वावत्** अश्वैश्चोपेतं  **यत्** **वसु** **वां** युवाम् **ईमहे** याचामहे **तत्** वसु युवयोः प्रसादाद्वयं **वनेमहि** संभजेमहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,28 +99,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Gold: hiraṇyavat = suvarṇair yuktam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The goods consisting of cows, of gold, of horses, which we beg you for, Indra and Agni, may we gain them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whatever wealth we crave of you, in gold, in cattle, or in steeds,  
      That, Indra-Agni, let us gain;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Schatz an Rindern, Gold und Rossen, um den wir euch bitten, den möchten wir gewinnen, Indra und Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Gut an Rossen, Rindern, Gold euch eigen ist, das wünschen wir, Das, Indra-Agni, werde uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 То богатство из коров, из золота,  
 Из коней, о котором мы вас просим,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡या वयं꣡ सधनि꣡यस् तुवो꣡तास्  
 त꣡व प्र꣡णीति अशियाम वा꣡जान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अनुष्ठुया꣡ कृणुहि अह्रयाण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒भा । शंसा॑ । सू॒द॒य॒ । स॒त्य॒ऽता॒ते॒ । अ॒नु॒ष्ठु॒या । कृ॒णु॒हि॒ । अ॒ह्र॒या॒ण॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -111,26 +111,26 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who are freed from shame, by you we are made opulent; by you we are protected; may we, through your guidance, attain abundant food; cherisher of truth, destroy both (sorts of calumniators), those who are nigh, those who are far off, and in due course fulfil (our desires).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through you may we—companions aided by you, in your guidance— attain prizes.  
 Sweeten both of the lauds [=for both the gods and the patrons], you  who are reality itself. Set them in order, you unabashed one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aided by thee with thee may we be wealthy, may we gain strength with thee to guide us onward.  
      Fulfil the words of both, O Ever Truthful: straightway do this, thou God whom power emboldens.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 In thy companionship we dwell, protected by thee. Under thy guidance let us acquire gain. Accomplish both praises 1, O (thou who art the) truth! Do so by thy present power, O fearless one!
 </details>
@@ -144,17 +144,17 @@ Fulfil both our desires, O truthful one;
 Perform it forthwith, O fearless one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dir in Gütergemeinschaft lebend, von dir unterstützt möchten wir unter deiner Führung die Siegerpreise erlangen. Bring doppeltes Lob fertig, du Wahrmacher, mach´s ordnungsgemäß, du Beherzter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dir geleitet mögen wir erlangen, von dir geschützt, durch deine Führung, Schätze; Erfülle beide Wünsche, o wahrhaft'ger, und thue das, o Kühner, stehnden Fusses.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведомые (все) вместе тобою, поддержанные тобою,  
 Под твоим водительством пусть достигнем мы наград!  

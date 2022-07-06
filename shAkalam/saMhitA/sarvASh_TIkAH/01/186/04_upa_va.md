@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प व एषे न꣡मसा जिगीषा꣡  
 उषा꣡सान꣡क्ता सुदु꣡घेव धेनुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡षुरूपे प꣡यसि स꣡स्मिन् ऊ꣡धन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒मा॒ने । अह॑न् । वि॒ऽमिमा॑नः । अ॒र्कम् । विषु॑ऽरूपे । पय॑सि । सस्मि॑न् । ऊध॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 हे देवाः **वः** युष्माकं **नमसा** हविषा नमस्कारेण वा **उप** उपेत्य **जिगीषा** पापानां जिगीषया **एषे** इच्छामि ॥ ‘इष गतौ ' इत्यस्य वा ईषतेर्वा गत्याद्यर्थस्य लिटि उत्तमैकवचने इदं रूपम् ॥ भजामि । कस्मिन् काले । **उषासानक्ता** अहनि रात्रौ च । यद्वा । अहोरात्रदेवते अपि अभिगच्छामि । गतौ दृष्टान्तः । **सुदुघा** **धेनुः** **इव** सुदोग्ध्री धेनुः यथा दोहाय दोग्धुः गृहमागच्छति तद्वत् । किं कुर्वन् । **सस्मिन्** समाने **ऊधन** ऊधस्युत्पन्ने **विषुरूपे** नानारूपे **पयसि** क्षीरघृतादिके **अर्कम्** अर्चनीयमन्नं चरुपुरोडाशादिकं **विमिमानः** विविधं मिमानः । कस्मिन् काले। **समाने** **अहन्** षष्ठेऽहनि । एकस्मिन्नेवाहनि सर्वदैव वा इत्यर्थः । एकस्मिन्नेवाहनि समाने ऊधस्युत्पन्ने नानारूपे पयसि त्वदर्थं हविर्मिमान उपगच्छामीत्यर्थः । यद्वा । सस्मिन् सर्वस्मिन्नूधसि फलाख्यक्षीरोत्पादके यज्ञे निमित्तभूते सति विषुरूपे पयसि नानारूपे सोमलक्षणोदके अर्कमन्नसाधनं स्तोत्रं विमिमानोऽहं युष्मानभिगच्छामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 Multiform preparations: viṣurūpe payasi sasminnūdhan = in multiform milk in a common udder; i.e. the manifold water or solution of the **Soma** prepared for the sacrifice; since it yields rewards, it is compared to an udder yielding milk whence butter, **ghee**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With a desire for gain I hasten for you with homage to Dawn and Night,  (who are) like a cow that is easily milked,  
 as in one and the same day I measure out my chant in milk of dissimilar  forms (though found) in the same udder.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. make rather heavy weather of pāda b, where the simile sudúgheva dhenúḥ is nominative, but uṣā́sānáktā, the most likely comparandum, makes most sense as the acc. goal of éṣe in pāda a. (Note in passing that Holland & van Nooten Rig Veda edition’s accentless eṣe is simply wrong.) The simile “like an easily milked cow” should not apply to the 1st ps. subj. of that verb. To deal with the apparent case mismatch (and to avoid the specious explanation “nominative for accusative in simile”), most interpr.
 
@@ -146,23 +146,23 @@ But this seems unnecessary: this is a repeated pāda, found also in VII.2.6, whe
 In cd note the chiastic pairs of sám … ví / ví … sá(m): samāné … vimímānaḥ …, víṣurūpe … sásmin …
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To you I seek with reverence, Night and Morning, like a cow good to milk, with hope to conquer,  
      Preparing on a common day the praise. song with milk of various hues within this udder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich trete für euch unter Verbeugung im Wunsch etwas zu gewinnen vor beide - Nacht und Morgen sind wie eine gutmelke Kuh -, indem ich am gleichen Tage das Preislied in das Versmaß bringe, bei ungleichfarbiger Milch am gleichen Euter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich lock' euch her durch Andacht, Nacht und Morgen! wie zwei milchreiche Kühe voll Verlangen, An gleichem Tag den Lobgesang bereitend, bei ungleichfarb'ger Milch an gleichem Euter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я приближаюсь к вам с поклоном в надежде победить -  
 Утренняя Заря и Ночь подобны хорошо доящейся молочной корове –  

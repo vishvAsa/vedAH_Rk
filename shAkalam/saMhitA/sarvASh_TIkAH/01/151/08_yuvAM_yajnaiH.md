@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवां꣡ यज्ञइः꣡ प्रथमा꣡ गो꣡भिर् अञ्जत  
 ऋ꣡तावाना म꣡नसो न꣡ प्र꣡युक्तिषु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡दृप्यता म꣡नसा रेव꣡द् आशथे°
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 भर॑न्ति । वा॒म् । मन्म॑ना । स॒म्ऽयता॑ । गिरः॑ । अदृ॑प्यता । मन॑सा । रे॒वत् । आ॒शा॒थे॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
@@ -121,21 +121,21 @@ genre M
 हे **ऋतावाना** यज्ञवन्तौ वृष्दट्युकवन्तौ वा मित्रावरुणौ **युवां** **प्रथमा** प्रथमौ **यज्ञैः** यजनसाधनैः **गोभिः** गोविकारैः पयआदिभिः **अञ्जते** व्यञ्जयन्ति यजमानाः । देवभागं यागेषु क्षीरादिभिः यजन्ते इत्यर्थः । यद्वा । गोभिः अञ्जते स्तुवन्ति तत्र दृष्टान्तः । **प्रयुक्तिषु** प्रयोगेषु **मनसो** **न** ॥ कर्मणि षष्ठी ॥ मन इव । तद्यथा प्रथमं व्यञ्जयन्ति मुख्यं कुर्वन्ति तत्पूर्वकत्वात् सर्वव्यवहारस्य । किंच **वां** युवां **मन्मना** मननवता **संयता** युवामेव सम्यग्गच्छता चित्तेन **गिरः** स्तुतीः **भरन्ति** संपादयन्ति । यस्मादेवं तस्मात् **अदृप्यता** अनभिभववता **मनसा** प्रकृष्टेन चेतसा युक्तौ सन्तौ **रेवत्** धनवत् कर्म अस्मदीयम् **आशाथे** अश्नुवाथे व्याप्नुथः ददाथे इत्यर्थः । अश्नोतेर्लिटि  ‘ अनित्यभागमशासनम्' इति वचनात् इडभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Accepter of sacrifices, you are the first whom (worshippers) propitiate with offerings, the produce of the cow; like (the application) of the mind (in the first instrumental nce) to the results (of the senses); hymns (prompted) by thoughts wholly intent upon you, celebrate (your praise); do you, with humble minds, bestow upon us wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They anoint you first with sacrifices and with cows. O truthful ones, as if  at the yoking of mind  
 they bring you songs along with uninterrupted thought. With  
 undistracted mind you have attained rich (vigor).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take b with c, rather than with a as do the standard tr., since “the yoking of mind,” whatever it may precisely mean, harmonizes better with the thought, songs, and mind of the rest of the verse than with the more physical manifestation of the sacrifice in pāda a. As for the meaning of the phrase, I assume that it is part of the larger conceptual complex likening the sacrifice and its various elements to a chariot and its associated elements. The yoking or harnessing of mind refers to embarking on concentrated and deliberate mental effort for the sake of the sacrifice. Cf. Mitra and Varuṇa’s yoking of their skill in 4cd.
 
@@ -144,23 +144,23 @@ I take b with c, rather than with a as do the standard tr., since “the yoking 
 One of these, … ná práyuktiḥ, is found two hymns after this one, in I.153.2, where I (so also Renou) take the phrase as abbreviated from *mánaso ná práyukti-, as here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With sacrifices and with milk they deck you first, ye Righteous Ones, as if through stirrings of the mind.  
      To you they bring their hymns with their collected thought, while ye with earnest soul come to us gloriously.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch salben sie zuerst mit Opfern, mit den Gaben der Kuh, ihr Gesetzestreuen, wie auf eigenen Antrieb des Herzens. Sie bringen euch Lieder dar gesammelten Geistes. Mit besonnenem Sinn habt ihr reiche Kraft erlangt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Opfer und durch Tränke schmücken euch zuerst die frommgesinnten, wie getrieben durch den Geist; Sie bringen euch mit stetem Sinnen Lieder dar, und reichlich kommt achtsamen Geistes ihr herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они натирают вас двоих первыми – жертвами, дарами от коровы,  
 (Вас,) владеющих законом, словно для приведения в действие молитвы.  

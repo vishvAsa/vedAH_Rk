@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡क्तुम् इव ति꣡तउना पुन꣡न्तो  
 य꣡त्र धी꣡रा म꣡नसा वा꣡चम् अ꣡क्रत  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भद्रइ꣡षां लक्ष्मी꣡र् नि꣡हिता꣡धि वाचि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अत्र॑ । सखा॑यः । स॒ख्यानि॑ । जा॒न॒ते॒ । भ॒द्रा । ए॒षा॒म् । ल॒क्ष्मीः । निऽहि॑ता । अधि॑ । वा॒चि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saktum* ← *saktu*
 - \[noun\], accusative, singular, masculine
@@ -135,7 +135,7 @@ popular
 **तितउना** । परिपूयतेऽनेनेति । यद्वा । तता विस्तृता भृष्टयवा अत्रेति तितउः।  ‘ तनोतेर्डउः  सन्वच्च ' (उ. सू. ५, २२ ) इति डउप्रत्ययः । सन्वद्भावादित्वम्। उक्त निर्वचनेन सूर्पेण **सक्तुमिव** यथा कश्चित्सक्तुं दुर्धावं पुनाति तद्वत् प्रकृतितः प्रत्ययतश्च शब्दानुत्पुनन्तः **धीराः** धीमन्तो विद्वांसः **यत्र** यस्मिन् काले विद्वत्संघे वा **मनसा** प्रज्ञायुक्तेन **वाचमक्रत** अकृषत कुर्वन्ति । करोतेर्लुङि रूपम् । **अत्र** तत्र काले **सखायः** समानख्यानाः शास्त्रादिविषयज्ञानास्ते **सख्यानि** तेषु भवानि ज्ञानानि **जानते** जानन्ति । यद्वा । सखायो वाचा बद्धसख्यास्ते तस्यास्तस्या वाचः सख्यानि जानन्ति । वाक्ययुक्तानभ्युदयाँल्लभन्त इत्यर्थः। तस्मात् **एषां** **वाचि** **भद्रा** कल्याणी **निहिता** **लक्ष्मीः** भवति । अधिः सप्तम्यर्थद्योतकः । अर्थज्ञानं वाचि पश्याम इत्यर्थः ।  ‘ तितउ परिपवनं भवति ततवद्वा तुन्नवद्वा तिलमात्रतुन्नमिति वा सक्तुमिव तितउना ' ( निरु. ४. १० ) इत्यादि निरुक्तमनुसंधेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,35 +148,35 @@ Friendship: sakhāyaḥ: sa, khya,samānakhyānā = stuṣe, who possess knowled
 Dispersed: the diiffusion of learning; those who have studied the **Veda** have taught it ot others
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the wise have created Speech by their thought, purifying her like  coarse grain by a sieve,  
 in this they recognize their companionship as companions. Their  
 auspicious mark has been set down upon Speech.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where, like men cleansing corn-flour in a cribble, the wise in spirit have created language,  
      Friends see and recognize the marks of friendship: their speech retains the blessed sign imprinted.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Where wise men fashion speech with understanding And sift it, as with sieves the corn is winnowed, There friends may learn to know each other's friendship: Upon their speech is set the stamp of beauty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo die Weisen mit Nachdenken die Rede gebildet haben, so wie Schrotmehl durch ein Sieb reinigend, da erkennen die Genossen ihre Genossenschaft. Deren gutes Zeichen ist ihrer Rede aufgeprägt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo weise Männer sinnvoll Worte tauschen, sie sichtend wie Getreide mit dem Siebe, Da erst erkennt der Freund des Freundes Liebe, des Lichtes Zeichen ruht auf ihrem Worte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда мудрые мыслью создали Речь,  
 Очищая (ее), как муку через сито,  

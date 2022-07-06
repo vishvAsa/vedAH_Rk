@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ अग्ने सुआहुत  
 प्रिया꣡सः सन्तु सूर꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ऊर्वा꣡न् द꣡यन्त गो꣡ना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 य॒न्तारः॑ । ये । म॒घऽवा॑नः । जना॑नाम् । ऊ॒र्वान् । दय॑न्त । गोना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -103,7 +103,7 @@ genre M
 हे **अग्ने** **स्वाहुत** यजमानैः सुष्ठु आहुत **त्वे** तव **सूरयः** प्रेरकाः स्तोतारो वा **प्रियासः** प्रियाः **सन्तु** भवन्तु । किंच **ये** **मघवानः** धनवन्तः **यन्तारः** प्रदातारः **जनानाम्** अस्मदीयानाम् **ऊर्वान्** समूहान् **गोनां** गवां चोर्वान् **दयन्त** प्रयच्छन्ति ते च तव प्रियासः सन्त्विति पूर्वेणान्वयः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,29 +116,29 @@ Who are liberal: yantāro ye maghavāno janānām ūrvān dayantagonām = may th
 Gonām = products of the cow; **Yajus**. 33.14
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, let our patrons be dear to you, who receive the well-poured  offering—  
 they, the generous guides of the peoples, who distribute pens of cattle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni who art worshipped well, dear let our princes he to thee,  
      Our wealthy patrons who are governors of men, who part, as gifts, their stalls of kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei dir, du wohlbegossener Agni, sollen die Lohnherren beliebt sein, die freigebigen Lenker der Völker, die Hürden von Kühen verteilen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Agni, schönbeopferter, sei recht beliebt der Edlen Schar, Die Opferherrn, die reich den Menschen Lohn verleihn, der Kühe Heerden theilen aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, прекрасно политый жиром, пусть будут  
 Милы тебе (наши) покровители:  

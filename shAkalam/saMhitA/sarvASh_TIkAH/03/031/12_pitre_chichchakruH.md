@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पित्रे꣡ चिच् चक्रुः स꣡दनं स꣡म् अस्मै  
 म꣡हि त्वि꣡षीमत् सुकृ꣡तो वि꣡ हि꣡ ख्य꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡सीना ऊर्ध्वं꣡ रभसं꣡ वि꣡ मिन्वन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒ऽस्क॒भ्नन्तः॑ । स्कम्भ॑नेन । जनि॑त्री॒ इति॑ । आसी॑नाः । ऊ॒र्ध्वम् । र॒भ॒सम् । वि । मि॒न्व॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pitre* ← *pitṛ*
 - \[noun\], dative, singular, masculine
@@ -139,20 +139,20 @@ genre M
 सत्रमनुतिष्ठन्तोऽङ्गिरसः **पित्रे** **चित्** पालकाय **अस्मै** इन्द्राय **महि** महत् **त्विषीमत्** दीप्तिमत् **सदनम्** उन्नतं स्थानं **सं** **चक्रुः** । कथमिति तदुच्यते । यतः **सुकृतः** समुपार्जितसुकृतकर्माणः तेऽङ्गिरसस्तादृशमिन्द्रस्य उचितं स्थानं **वि** **हि** **ख्यन्** विशेषेणादर्शयन् खलु । कुत इत्यत आह । **आसीनाः** सत्रम् उपतिष्ठन्तः तेऽङ्गिरसः **जनित्री** सर्वस्य जगतो जनयित्र्यौ द्यावापृथिव्यौ **स्कम्भनेन** स्तम्भनसाधनेन अन्तरिक्षेण 'विष्कभ्नन्तः यथा ते रोदस्यौ अधो न पततस्तथा विष्टब्धे कुर्वन्तः सन्तः **रभसं** वेगवन्तं तमिन्द्रम् **ऊर्ध्वं** द्युलोके **वि** **मिन्वन्** हविःस्वीकरणार्थं विशेषेणास्थापयन् ॥ चक्रुः । करोतेर्लिट्युसि रूपम् । निघातः । ख्यन् ।' ख्या प्रकथने ' । अस्य लुङि च्लेः । अस्यतिवक्तिख्यातिभ्योऽङ् ' इत्यादेशः । आतो लोप इटि ' इत्याकारलोपः। हियोगादनिघातः । विष्कभ्नन्तः । ‘स्कम्भु रोधने' । सौत्रो धातुः । तस्मात् शतरि रूपम् । वेः स्कभ्नातेर्नित्यम्' (पा. सू. ८. ३. ७७ ) इति षत्वम् । शतृप्रत्ययस्वरः । जनित्री। ऋन्नेभ्यो ङीप् ।' जनिता मन्त्रे ' इति निपातनात् णिलोपः । ‘वा छन्दसि ' इति सवर्णदीर्घः । असीनाः । ‘आस उपवेशने' इत्यस्मात् शानच् । 'ईदासः ' ( पा. सू. ७. २. ८३ ) इतीकारः । शानचो लसार्वधातुकस्वरे कृते धातुस्वरः । मिन्वन् । डुमिञ् प्रक्षेपणे ' इत्यस्य लङि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They (the **aṅgirasas**) performing pious acts made for their protector a spacious and splendid abode which they celebrated; seated (at the sacrifice) and supporting with the pillar (of the firmament) the parents (of all things heaven and earth), they established the rapid **Indra** on high (in heaven).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It was for the father that they performed a ritual Session, for him also  they prepared a seat, because the good workers surveyed the great,  turbulent (cowpen).  
 Propping apart with a prop the two begetters [=Heaven and Earth],  while sitting (the Session) they fixed upright the dazzling (seat).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda contains two datives, pitré and the prn. asmai. Because of its lack of accent, asmai cannot be a demonst. adj. with pitré. Geldner gets out of the difficulty by interpr. pitré as a simile, which allows asmai to be independently construed, but this depends on his frequent assumption that cid can be a simile marker, a role I do not think it can have. Instead I give the VP cakruḥ sádanam a double reading: acdg. to the first the Aṅgirases perform a Sattra for their father (see 9c), but in the 2nd they also prepare for him a literal seat. Because cakruḥ sádanam participates in two clauses, each can have an independent dative, though in my opinion the datives are coreferential.
 
@@ -165,23 +165,23 @@ In d most tr. take the sun as the referent of the object. I instead supply the s
 The root √mi often takes ‘seat’ as obj.: not our sádanam admittedly, but sádmanII.15.3 (with ví), X.20.5, I.173.3, IX.97.1, sā́dana- X.18.13. This is a fairly large percentage of the attested forms of the verb, and since ‘seat’ is already present in this vs., it is easily supplied here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They made a mansion for their Father, deftly provided him a great and glorious dwelling;  
      With firm support parted and stayed the Parents, and, sitting, fixed him there erected, mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Vater bereiteten sie ihm einen Sitz, denn die Guttäter hatten eine hohen, funkelnden Sitz ausersehen. Sie stützten die beiden Erzeugerinnen durch eine Stütze und während die die Opfersitzung hielten, richteten sie den blendenden empor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Vater [dem Angiras, der hier dem Himmel gleich- gesetzt seheint] bereiteten sie den Sitz; denn grossen glänzenden Sitz ersahn ihm die thätigen; das Aelternpaar [Himmel und Erde] mit fester Stütze stützend, errichteten sie sitzend den aufgerich- teten glänzenden [Sitz].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ему, отцу, они приготовили сидение:  
 Ведь они, благодетели, обнаружили великое блистающее (сидение).  

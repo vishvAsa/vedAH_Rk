@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् त ऊरू꣡ विह꣡रति  
 अन्तरा꣡ द꣡म्पती श꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡म् इतो꣡ नाशयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292);; repeated line
 योनि॑म् । यः । अ॒न्तः । आ॒ऽरेळ्हि॑ । तम् । इ॒तः । ना॒श॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -101,36 +101,36 @@ popular;; epic anuṣṭubh (292);; repeated line
 हे योषित् **ते** तव **ऊरू** पादमूलौ **यः** राक्षसादिः **विहरति** गर्भघाताय विश्लिष्टौ करोति **दंपती** **अन्तरा** जायापत्योर्मध्ये गर्भहननार्थं यश्च **शये** शेते **यः** च **योनिम्** **अन्तः** प्रविश्य **आरेळिह** निषिक्तं रेतो जिह्वया आस्वादयति ॥ भक्षयतीत्यर्थः । ' लिह आस्वादने ' । आदादिकः । कपिलकादित्वाल्लत्वविकल्पः । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we exterminate from hence (the evil spirit)l who separates your things, who lies betweenhusband and wife, who, entering your womb, devours (the seed).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who pries apart your thighs, lies between the married couple,  
 who licks within your womb, that one we banish from here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That which divides thy legs that it may lie between the married pair,  
      That penetrates and licks thy side,-even this will we exterminate.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der deine beiden Schenkel spreizt, zwischen den Ehegatten liegt, der den Schoß innen beleckt, den treiben wir von hinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der dir die Schenkel auseinander reisst, und sich zwischen beide Gatten legt, der deinen Schooss innen beleckt, den treiben wir fort von hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто разводит тебе бедра,  
 Лежит между супругами,  

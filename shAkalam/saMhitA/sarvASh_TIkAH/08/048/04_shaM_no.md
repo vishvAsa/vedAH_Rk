@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नो भव हृद꣡ आ꣡ पीत꣡ इन्दो  
 पिते꣡व सोम सून꣡वे सुशे꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ ण आ꣡युर् जीव꣡से सोम तारीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 सखा॑ऽइव । सख्ये॑ । उ॒रु॒ऽशं॒स॒ । धीरः॑ । प्र । नः॒ । आयुः॑ । जी॒वसे॑ । सो॒म॒ । ता॒रीः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
@@ -146,47 +146,47 @@ genre D
 हे **इन्दो** **सोम** अस्माभिः **पीतः** त्वं **नः** अस्माकं हृदे हृदयाय **शं** सुखम् **आ** **भव**। सुखभवने दृष्टान्तद्वयम् । **पिता** **सूनवे** स्वात्मजाय यथा सुखाय भवति यथा वा **सखा** अहितान्निवर्त्य हिते स्थापयिता सखा स स्वसख्ये यथा **सुशेवः** सुसुखो भवति । शेवमिति सुखनाम । तद्वत्वमपि भव । किंच हे उरुशंस बहुभिर्बहुधा वा शंसनीय बहुकीर्ते **सोम** **धीरः**। धीमांस्त्वं **नः** अस्माकं **जीवसे** जीवनाय **आयुः** आयुष्यं **प्र** **तारीः** प्रवर्धय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **soma**, drunk by us, be bliss to our hearts, as a father is indulgent to a son or a friend to a friend; OSoma, worthy of wide praise, do you, wise one, extend our years that we may live.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become weal for our heart when drunk, o drop, very kindly, like a  father to a son,  
 like a comrade to a comrade, you who are widely proclaimed as  
 insightful. Lengthen our lifetime, for us to live, Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the faint echo pītá … pité(va).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Absorbed into the heart, be sweet, O Indu, as a kind father to his son, O Soma,  
      As a wise Friend to friend: do thou, wide-ruler, O Soma, lengthen out our days for living.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Be cheering to our heart when drunk, O Indu, Kindly, like father to his son, O Soma. Like friend for friend, far-famed one, wisely Prolong our years that we may live, O Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bekomm unserem Herzen wohl, wenn du getrunken bist, o Somasaft, freundlich wie ein Vater zu seinem Sohn, wie ein Freund dem Freunde, du der Weise, dessen Wort weithin gilt. Verlängere unser Lebensalter zum Leben, Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei unserm Herzen hold, getrunkner Indu, uns liebreich Soma, wie dem Sohn der Vater, Wie Freund dem Freunde treu, der weit du herrschest, verlängre, Soma, unsres Lebens Dauer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь на благо нашему сердцу, когда ты выпит, о сок сомы,  
 Милостивый, о сома, как отец – к сыну,  

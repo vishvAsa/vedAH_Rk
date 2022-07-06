@@ -8,7 +8,7 @@ title = "+173"
 ‘गायत्साम' इति त्रयोदशर्चं नवमं सूक्तमागस्त्यं त्रैष्टुभमैन्द्रम् । ‘गायत्सप्तोना' इत्यनुक्रान्तम् । समूळ्हे दशरात्रे तृतीये छन्दोमे मरुत्वतीयशस्त्रे एतत्सूक्तम् । विश्वजितोऽग्निं नरः' इति खण्डे सूत्रितं ’तृतीयस्येन्द्रः स्वाहा गायत्साम' (आश्व. श्रौ. ८.७ ) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 173  
 Indra  
@@ -18,7 +18,7 @@ The opening of the hymn (vss. 1–4) depicts the beginning of a sacrifice, as th
 As a product of Agastya, this hymn poses many verbal puzzles and provides  many verbal rewards.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra The beginning of the hymn is characterized by pāda-initial injunctives in -at (1a gā́yat, 2a árcat, 3a nákṣat, 3b bhárat, 3c krándat; note also non-initial ruvád 3c and carat 3d). It is not surprising that this assemblage attracted the attention of Hoffmann, who tr. the first three vss. (Injunc., 143-44). The function of these forms is of course underdefined; I render them as simple general presents, more or less with Hoffmann (“die generalle Beschreibung eines Opfers”), sim. Geldner By contrast, Renou takes them all as modal (“qu’il chante …,” etc.).
 

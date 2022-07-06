@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गम्भीरे꣡ण न उरु꣡णा अमत्रिन्  
 प्र꣡ इ꣡षो꣡ यन्धि सुतपावन् वा꣡जान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अक्तो꣡र् वि꣡उष्टौ प꣡रितक्मियायाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्थाः । ऊं॒ इति॑ । सु । ऊ॒र्ध्वः । ऊ॒ती । अरि॑षण्यन् । अ॒क्तोः । विऽउ॑ष्टौ । परि॑ऽतक्म्यायाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gambhīreṇa* ← *gambhīra*
 - \[noun\], instrumental, singular, neuter
@@ -123,44 +123,44 @@ genre M
 हे **अमत्रिन्** । अमत्रं बलम् । तद्वन् हे **सुतपावन्** सुतस्य सोमस्य पातरिन्द्र **गम्भीरेण** केनापि दुरवगाहेन **उरुणा** विस्तीर्णेन मनसा **नः** अस्मभ्यम् **इषः** अन्नानि **वाजान्** बलानि च **प्र** **यन्धि** प्रयच्छ । किंच **अक्तोः** रात्रेः **व्युष्टौ** विवासे अह्नि **परितक्म्यायां** रात्रौ हे इन्द्र त्वम् **ऊती** अस्माकं रक्षायै हे इन्द्र **अरिषण्यन्** अहिंसंस्त्वम् **ऊर्ध्वः** उद्युक्तः **स्था** **ऊ** **षु** सुष्ठु तिष्ठैव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Powerful **Indra**, drinker of the **soma**, (actuated) by a profound and comprehensive (purpose), grant us food and strength; be ever diligent, benevolent Indra, for our protection by day and by night.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With a (vessel) that is deep and wide, o bearer of the vessel, hold forth  to us refreshments and prizes, you drinker of the pressings,  
 and stand erect with your help, allowing no harm, at the early  
 brightening of the night, at its final turn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c = I.177.5c and X.89.17c. Geldner (fld. by Klein, DGRV I.458) construes vástoḥ with vidyā́ma (“Möchten wir Sänger … den neuen Tag erleben”), but wellattested vástoḥ is otherwise a temporal expression ‘at dawn, in the morning’. In both the other passages, the pāda in question is adjoined by a pāda that likewise begins vidyā́ma (following in I.177.5, preceding in X.89.17), and the obj. of that vidyā́ma can be assumed with the one in the repeated pāda. The d pāda of X.89.17 is almost identical to d here, with the substitution of a different poetic family: viśvā́mitrāḥ for our bharádvājāḥ.
 
 The function and position of utá in d are unclear. The published translation implicitly assumes that it loosely connects the 2nd hemistich with the 1st (“And with your help …”), but locating this clausal conjunction in 2nd position of the 2nd pāda of what it’s conjoining would be an irrational poetic strategy. I now think it likely that it conjoins the temporal expressions vástoḥ and nūnám, and I would alter the tr. to “With your help … might we Bharadvājas know (this), as we sing at dawn and also now” (or “might we know (this) at dawn and also now, as we sing”). The curiosity then is the position of te, which can only belong to something in the preceding pāda: either “with your help” (as I take it in the published translation) or “as we sing to you.” I suppose that utá’s strong tendency to take 1st position makes it a natural host for enclitics even when it is not so located, but it really seems odd that it would sweep te up and away from the elements it should be limiting.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Impetuous Speeder through all depth and distance, give strengthening food, thou drinker of the juices.  
      Stand up erect to help us, unreluctant, what time the gloom of night brightens to morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In einem tiefen weiten Humpen, du Humpenhalter, reiche uns Speisegenüsse, Belohnungen, du Somatrinker. Steh fein aufrecht mit deiner Hilfe, vor Schaden bewahrend, im Hellwerden des Dunkels in der Entscheidungsstunde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In tiefem, weitem Krug, o krugbegabter, reich Tränk' und Speisen uns, o Somatrinker, Steh aufrecht bald, mit deiner Huld nicht säumend, wenn erstes Licht sich zeigt im Morgendunkel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Глубокой, широкой (чашей), о владелец чаши,  
 Зачерпни нам жертвенных услад (и) наград, о (бог,) пьющий сому!  

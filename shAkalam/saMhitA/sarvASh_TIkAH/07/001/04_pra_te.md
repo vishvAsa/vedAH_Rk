@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते꣡ अग्न꣡यो अग्नि꣡भ्यो व꣡रं निः꣡  
 सुवी꣡रासः शोशुचन्त द्युम꣡न्तः  
 य꣡त्रा न꣡रः समा꣡सते सुजाताः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 यत्र॑ । नरः॑ । स॒म्ऽआस॑ते । सु॒ऽजा॒ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -101,36 +101,36 @@ genre M
 **अग्निभ्यः** लौकिकेभ्योऽग्निभ्यः **वरम्** अत्यन्तं **द्युमन्तः** दीप्तिमन्तः **सुवीरासः** कल्याणपुत्रपौत्रप्रदाः **ते** **अग्नयः** **प्र** **निः** **शोशुचन्त** प्रकर्षेण नितरां दीप्यन्ते । **यत्र** येष्वग्निषु **सुजाताः** सुजन्मानः **नरः** कर्मणां नेतारो यजमाना ऋत्विजो वा **समासते** सहासते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those radiant fires, at which the well-bon sacrificers assemble, shine more brightly, and are morebountiful bestower of progeny (and other blessings), than the fires (of common life).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your brilliant fires blaze forth, abounding in good men, better than  (others’) fires,  
 here where our well-born men sit together.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Among all fires these fires have shone most brightly, splendid with light, begirt by noble heroes,  
      Where men of lofty birth sit down together.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Agni´s flammen schöner als die anderen Agni´s hervor als glanzvolle Meister, bei denen vornehme Herren beisammen sitzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erstrahlen mögen schöner deine Feuer als andre Feuer, heldenreich und glänzend, Da, wo die edlen Männer sind versammelt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти Агни ярко пылают лучше, чем (другие) Агни,  
 Принося мужественных героев, сверкая  

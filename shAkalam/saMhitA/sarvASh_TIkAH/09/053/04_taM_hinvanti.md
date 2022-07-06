@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ हिन्वन्ति मदच्यु꣡तं  
 ह꣡रिं नदी꣡षु वाजि꣡नम्  
 इ꣡न्दुम् इ꣡न्द्राय मत्सर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दु॑म् । इन्द्रा॑य । म॒त्स॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -79,41 +79,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मदच्युतं** मदस्य च्यावयितारं **हरिं** हरितवर्णं **वाजिनं** बलिनं **मत्सरं** मदकरं **तम्** **इन्दुं** सोमं **नदीषु** वसतीवरीषु **इन्द्राय** इन्द्रार्थं **हिन्वन्ति** ऋत्विजः प्रेरयन्ति ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The priests) plural nge **Indu**, honey-dropping, green-tinted, vigorous, exhilarating, into the waters for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Into the rivers they impel him who arouses exhilaration, the tawny one  who seeks the prize,  
 the drop exhilarating to Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, this final vs. is characterized by specifically somic vocabulary (madacyútam, índum, matsarám), in contrast to the more equivocal vss. that precede it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra to the streams they drive the tawny rapture-dropping Steed,  
      Indu the bringer of delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen rauscherregten falben Preisrenner treiben sie in die Flüsse, den berauschenden Saft für Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das goldne Ross, das Lust erregt, das spornen in den Strömen sie, Zum Rausch dem Indra, Indu ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

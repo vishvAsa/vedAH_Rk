@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रस् ते सोम सुत꣡स्य पेयाः  
 क्र꣡त्वे द꣡क्षाय वि꣡श्वे च देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 इन्द्रः॑ । ते॒ । सो॒म॒ । सु॒तस्य॑ । पे॒याः॒ । क्रत्वे॑ । दक्षा॑य । विश्वे॑ । च॒ । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indras* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -80,19 +80,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 हे **सोम** **सुतस्य** अभिषुतस्य **ते** तव स्वं भागम् **इन्द्रः** **पेयाः** पेयात् पिबतु ॥ पातेराशीर्लिंङि रूपम् । पुरुषव्यत्ययः ॥ किमर्थम् । **क्रत्वे** क्रतवे प्रज्ञानाय **दक्षाय** बलाय च । किंच अमी **विश्वे** सर्वे देवाः **च** त्वदीयमंशं पिबन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, let **Indra** and all the gods drink of you when effused for intelligence and strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra should drink of you, Soma, when you are pressed, for will and  skill—and (so should) all the gods.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -101,22 +101,22 @@ No particular signs of cohesion, beyond the mention of Soma’s divine recipient
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let Indra drink, O Soma, of thy juice for wisdom, and all Deities for strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra soll von dir, Soma, dem Ausgepreßten, trinken zu Rat und Tat, und alle Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von deinem Safte – mög' Indra trinken, zu Kraft und Stärke – und alle Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть захочет Индра, о сома, выпить  
 Твоего выжатого (сока) для силы духа, силы действия - и Все-Боги!

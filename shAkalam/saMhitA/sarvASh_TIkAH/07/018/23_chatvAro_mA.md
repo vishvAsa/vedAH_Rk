@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चत्वा꣡रो मा पैजवन꣡स्य दा꣡नाः  
 स्म꣡द्दिष्टयः कृशनि꣡नो निरेके꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तोकं꣡ तोका꣡य श्र꣡वसे वहन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऋ॒ज्रासः॑ । मा॒ । पृ॒थि॒वि॒ऽस्थाः । सु॒ऽदासः॑ । तो॒कम् । तो॒काय॑ । श्रव॑से । व॒ह॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *catvāro* ← *catvāraḥ* ← *catur*
 - \[noun\], nominative, plural, masculine
@@ -101,7 +101,7 @@ genre M
 **पैजवनस्य** पिजवनपुत्रस्य **सुदासः** राज्ञः **स्मद्दिष्टयः** प्रशस्तातिसर्जनाः श्रद्धादिदानाङ्गयुक्ताः **कृशनिनः** हिरण्यालंकारवन्तः **निरेके** दुर्गतौ सत्याम् **ऋज्रासः** ऋजुगामिनः पृथिविष्ठाः पृथिव्यां सुप्रतिष्ठिताः **दानाः** देयभूताः **चत्वारः** अश्वाः **तोकं** पुत्रवत्पालनीयं मां वसिष्ठं रथे स्थितं **तोकाय** तोकस्य पुत्रस्य । षष्ट्यर्थे चतुर्थी । **श्रवसे** अन्नाय यशसे वा **वहन्ति** । पुनः **मा** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,37 +112,37 @@ genre M
 The excellent: smaddiṣṭayaḥ, an epithet of **aśvaḥ**: **prasa**'stātisarjanāśraddhādidānāṅgayuktā, being or having part of a donation made in the belief of presenting what isexcellent
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The four gift(-horse)s of Paijavana, along with their allotted (gear),  covered with pearls, (convey) me exclusively.  
 The silvery ones of Sudās who tread the earth convey me and my  
 progeny, for my progeny to be famed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On smáddiṣṭi-, see comm. ad III.45.5.
 
 In ab I supply vahanti on the basis of d, with Geldner
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gift of Paijavana, four horses bear me in foremost place, trained steeds with pearl to deck them.  
      Sudas's brown steeds, firmly-stepping, carry me and my son for progeny and glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vier geschenkte Rosse des Paijavana, zusammen geschult, perlengeschmückt, im alleinigen Besitz, fahren mich. Die Schimmel des Sudas fahren mich, während er auf der Erde steht, und meinen Samen, zum Ruhme für meinen Samen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mich fahren vier von Sudas Paidschavana geschenkte leicht zu lenkende mit Perlen geschmückte, fest auf die Erde tretende braune Rosse herbei, und führen mich und meine Kinder zu Nachkommenschaft und Ruhm (?)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Меня – четыре дара Пайджаваны,  
 Объезженные вместе, украшенные жемчугом, в полной власти (моей),  

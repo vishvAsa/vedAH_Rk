@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नो भवन्तु वाजि꣡नो ह꣡वेषु  
 देव꣡ताता मित꣡द्रवः सुअर्काः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡नेमि अस्म꣡द् युयवन्न् अ꣡मीवाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ज॒म्भय॑न्तः । अहि॑म् । वृक॑म् । रक्षां॑सि । सने॑मि । अ॒स्मत् । यु॒य॒व॒न् । अमी॑वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 **देवताता** देवतातौ यज्ञे **हवेषु** अस्मदीयेषु स्तोत्रेषु **मितद्रवः** मितद्रवणा मितमार्गाः **स्वर्काः** शोभनान्नाः **वाजिनः** एतदभिधायका देवाः **नः** अस्माकं **शं** सुखाय **भवन्तु** । अपि च **अहिम्** आगत्य हन्तारं **वृकं** वसूनामादातारम् । चोरमिति शेषः । **रक्षांसि** च **जम्भयन्तः** हिंसन्तो वाजिनो देवाः **सनेमि**। पुराणनामैतत् । पुरातनाः **अमीवाः** रोगान् **अस्मत्** अस्मत्तः **युयवन्** पृथक्कुर्वन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,14 +124,14 @@ Vājins: etadabhidhāyakādevataḥ, divinities so denominated; or **aśvaḥ**,
 Themurderer: jambhayanto ahim vṛkam = destroying the snake, the wolf; or, hantāram coram; vāje vāje haveṣuyuddheṣu = sarvasmin anne upasthite, when all food is near
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let these prizewinners [=Maruts]—those of measured pace and lovely  chants—be luck for us at the invocations in the divine assembly.  
 Crushing the serpent, the wolf, the demonic powers, they will keep  
 afflictions away from us, bag and baggage.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The cmpd. sanemí- lit. means ‘along with its/the felly’ (see, e.g., AiG III.75, EWA s.v. némi-), but is a way to express ‘entirely’ (“felly and all”): “with all its gear,” “bag and baggage,” “lock, stock, and barrel” are idiomatic English equivalents.
 
@@ -148,23 +148,23 @@ And there are numerous phraseological parallels that support the identification.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bless us the Vajins when we call, while slowly they move, strong Singers, to the Gods' assembly.  
      Crushing the wolf, the serpent, and the demons, may they completely banish all affliction.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück sollen uns die Streitrosse mit festen Schritten sein, bei den Anrufungen im Gottesdienst schön gepriesen, die Schlange, den Wolf, die Unholde erwürgend sollen sie von ganz und gar die Krankheiten fern halten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heile seien uns die Rosse bei unsern Anrufungen, die schnell laufen und schön glänzen in der Schar der Götter; die Schlange, den Wolf und die Nachtgeister zermalmend, mögen sie alle Plagen ganz von uns fern halten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье нам пусть будут кони, приносящие награду под призывы  
 Во время службы богам, (кони) с размеренным бегом, прекраснозвучные!  

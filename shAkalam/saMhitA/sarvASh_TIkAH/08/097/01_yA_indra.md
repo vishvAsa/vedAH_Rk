@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ इन्द्र भु꣡ज आ꣡भरः  
 सु꣡वर्वाँ अ꣡सुरेभियः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ये꣡ च त्वे꣡ वृक्त꣡बर्हिषः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्तो॒तार॑म् । इत् । म॒घ॒ऽव॒न् । अ॒स्य॒ । व॒र्ध॒य॒ । ये । च॒ । त्वे इति॑ । वृ॒क्तऽब॑र्हिषः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yāḥ* ← *yad*
 - \[noun\], accusative, plural, feminine
@@ -105,36 +105,36 @@ genre M
 ऋषिरिन्द्रं प्रार्थयते हे इन्द्र स्वर्वान् सुखवान् स्वर्गवान्वा अथवा स्वसब्दः सर्वपर्यायः सर्वभूतजातमात्मनएवोत्पन्नत्वात् तद्वान् एवङ्गुणस्त्वं याः यानि भुजो भोक्तव्यानि धनानि असुरेभ्यो बलवड्भ्यो राक्षसेभ्यः आभरः आहरः तान् हत्वा आहृतवानसि । हृग्रहोरितिभकारादेशः । अतएव हे मघवन् धनवन्निन्द्र अस्य अन्वादेशे अशादेशः एतस्यास्य धनस्यदानेन स्तोतारमित् तवस्तोत्रकारिणमेव वर्धय वृद्धिमन्तङ्कुरु । येचान्ये यष्टारः त्वे त्वदर्थं वृक्तबर्हिषः स्तीर्णबर्हिषोभवन्ति अतस्तांश्च धनेन वर्धय ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, lord of heaven, with those good things which you have carried off from the **asuras** do youprosper, O **Maghavan**, your praiser and those who have spread for you the clipped grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The delights that you, the possessor of the sun, brought here from the  (other) lords, o Indra,  
 from that strengthen only your praiser, bounteous one, and those who  have twisted the ritual grass for you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O INDRA, Lord of Light, what joys thou broughtest from the Asuras,  
      Prosper therewith, O Maghavan, him who lauds that deed, and those whose grass is trimmed for thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Genüsse, die du, Indra, im Besitz der Sonne von den Asura´s holtest, mit denen bereichere den Lobsänger dieser Tat und die, welche für dich das Barhis herumgelegt haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Heil, o Indra, du erwarbst von den Asuren, glänzender, Mit dem erquicke, mächtiger, den Sänger du, und welche dir die Streu geschmückt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Блага, которые ты принес, о Индра,  
 от Асуров, обладая небом, –  

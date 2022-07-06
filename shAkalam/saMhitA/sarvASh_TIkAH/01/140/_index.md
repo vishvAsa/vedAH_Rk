@@ -8,7 +8,7 @@ title = "+140"
 एकविंशेऽनुवाके सप्तदश सूक्तानि । तत्र ‘वेदिषदे' इति प्रथमं सूक्तं त्रयोदशर्चम् । उचथ्यपुत्रस्य दीर्घतमस आर्षम् आग्नेयम् । अन्त्ये त्रिष्टुभौ । शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । दशमी त्रिष्टुब्जगती वा । अत्यष्टिपरिभाषा निवृत्ता । अत्रानुक्रमणिका-' वेदिषदे सप्तोना दीर्घतमा औचथ्य आग्नेयं तु द्वित्रिष्टुबन्तं तु त्रिष्टुब्दशमी वा ' इति । प्रातरनुवाकस्याग्नेये क्रतौ जागते छन्दसि इदमादीनि तृतीयवर्जितानि षट् सूक्तानि विनियुक्तानि । तथाश्विनशस्त्रे षण्णां तृतीयवर्जितानां सूक्तानां विनियोगः ॥ सूत्रितं च- वेदिषद इति षण्णां तृतीयमुद्धरेत् ' ( आश्व. श्रौ. ४. १३ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 140  
 Agni  
@@ -19,7 +19,7 @@ The chronological description of the kindling and growth of fire begins in verse
 sioned as a transformation into a better and more vigorous form (see esp. vss. 7cd–8). The prayers for aid and material goods begin in verse 10, on behalf not only  of a generic “us” but especially mentioning our patrons (vss. 10, 12) and others of  our circle (vs. 12). One striking request is for a metaphorical boat to deliver us to  the far shore of difficulty (vs. 12); the boat is described in some detail, including its  possession of a foot or feet. We wonder if this refers to some sort of primitive keel  or centerboard, which would probably be helpful to ensure that the boat make it  across the current of a swift-flowing river. Unfortunately our knowledge of ancient  Indian naval architecture is not sufficient to decide.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

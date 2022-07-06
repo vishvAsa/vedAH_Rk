@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने याहि꣡ सुशस्ति꣡भिर्  
 हव्या꣡ जु꣡ह्वान आनुष꣡क्  
 य꣡था दूतो꣡ बभू꣡थ हव्यवा꣡हनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यथा॑ । दू॒तः । ब॒भूथ॑ । ह॒व्य॒ऽवाह॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -89,43 +89,43 @@ genre M
 हे **अग्ने** **आनुषक्** अनुषक्तं यथा भवति तथा **हव्या** हव्यानि हवनयोग्यान्यन्नानि **जुह्वानः** जुह्वन् देवेभ्यः प्रयच्छंस्त्वं **सुशस्तिभिः** शोभनैः स्तोत्रैः सह **याहि** देवानां हविष्प्रदानार्थं गच्छ । अस्य हविष्प्रदातृत्वं कथमित्याशङ्क्याह । **यथा** त्वं **हव्यवाहनः** हविषां वोढा देवानां **दूतो** **बभूथ** भवसि तथा जुह्वान इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Proceed, **Agni**, with pious praises, offering in due order the oblations (to the gods), for you are theirmessenger, the bearer of oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, drive (to the gods) with our good lauds, pouring oblations in  yourself in the proper sequence,  
 as you have become our oblation-carrying messenger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Contra most interpr., I take Agni as driving to the gods to present them with our praises as well as our oblations, rather than coming here (e.g., Renou “arrive avec les belles louanges”).
 
 The impv. yāhí is accented because it follows an initial voc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Called straight to our oblations, come, O Agni, through our eulogies,  
      As thou hast been our envoy bearing up our gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, komm auf die schönen Preisworte und laß dir die Opfergaben nach Gebühr opfern, da du ja der opferüberbringende Bote geworden bist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, komm in Herrlichkeit, ergiessend Tränke fort und fort, Wie stets du warst der Bote, der die Opfer fährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, приходи на прекрасные слова,  
 Когда (в тебя) возливают жертвы по порядку,  

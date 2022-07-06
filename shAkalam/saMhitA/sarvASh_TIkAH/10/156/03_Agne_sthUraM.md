@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ग्ने स्थूरं꣡ रयि꣡म् भर  
 पृथुं꣡ गो꣡मन्तम् अश्वि꣡नम्  
 अङ्धि꣡ खं꣡ वर्त꣡या पणि꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 अ॒ङ्ग्धि । खम् । व॒र्तय॑ । प॒णिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āgne* ← *ā*
 - \[adverb\]
@@ -92,35 +92,35 @@ genre M
 हे **अग्ने** **स्थूरं** स्थूलं वृद्धं **पृथुं** विस्तीर्णं **गोमन्तं** गोभिर्युक्तम् **अश्विनम्** अश्वैश्चोपेतं **रयिं** धनम् **आ** **भर** अस्मभ्यमाहर । प्रयच्छ । **खम्** अन्तरिक्षम् **अङ्धि** वृष्ट्युदकैः सिञ्च । यद्वा । आत्मीयैस्तेजोभिर्व्यञ्जय प्रकाशय । **पणिं** वणिजमदातारमसुरं वा **वर्तय** इतो निर्गमय । यद्वा । दाने प्रवर्तय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring us, **Agni**, substantial and extensive wealth, consisting of cattle and horses, sprinkle the sky (withrain), expel **Paṇi**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, bring here brawny wealth, broad and rich in cows and horses. Lubricate the wheel-nave, make the niggard roll.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, bring us wealth secure, vast wealth in horses and in kine:  
      Oil thou the socket, turn the wheel.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, bring massigen breiten Reichtum an Vieh, an Rossen! Schmiere das Nabenloch, bekehre den Geizhals!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bring', Agni, starken Reichthum uns an Rindern, Rossen, reichlichen, Die Büchse schmier' und dreh das Rad.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, принеси мощное богатство,  
 Широкое, состоящее из коров, состоящее из коней!  

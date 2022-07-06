@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सोम प꣡वमानो  
 वि꣡श्वानि दुरिता꣡ तर  
 कविः꣡ सीद नि꣡ बर्हि꣡षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क॒विः । सी॒द॒ । नि । ब॒र्हिषि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -82,36 +82,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **पवमानः** पूयमानः **कविः** क्रान्तकर्मा **त्वं** **विश्वानि** सर्वाणि दुरितानि राक्षसैः कृतान्युपद्रवाणि **तर** निराकुरु । अस्मिन् **बर्हिषि** **नि** **षीद** च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, do you who are the purifier, the sage, overcome all hindrances; sit down on the sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purifying yourself, Soma, cross all difficult passages.  
 As poet sit down on the ritual grass.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, as Pavamana, pass over all trouble and distress:  
      Sit on the sacred grass, a Sage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entgeh, o Soma, wenn du dich läuterst, allen Fährlichkeiten! Du, der Weise, setze dich auf das Barhis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma, flammend rieselnder, dring siegreich hin durch alle Noth Und setz dich, weiser, auf die Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

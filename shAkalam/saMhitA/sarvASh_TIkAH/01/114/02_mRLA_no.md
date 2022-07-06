@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मॄळा꣡+ नो रुद्र उत꣡ नो म꣡यस् कृधि  
 क्षय꣡द्वीराय न꣡मसा विधेम ते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् अश्याम त꣡व रुद्र प्र꣡णीतिषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । शम् । च॒ । योः । च॒ । मनुः॑ । आ॒ऽये॒जे । पि॒ता । तत् । अ॒श्या॒म॒ । तव॑ । रु॒द्र॒ । प्रऽनी॑तिषु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mṛﾱā* ← *mṛḍ*
 - \[verb\], singular, Present imperative
@@ -147,20 +147,20 @@ genre M
 हे **रुद्र** **नः** अस्मभ्यमस्मदर्थं **मृळ** त्वं सुखयिता भव। **उत** अपि च तदनन्तरं **नः** अस्माकं **मयः** सुखं **कृधि** कुरु । वयं च **क्षयद्वीराय** क्षपितसर्ववीरं प्राप्तैश्वर्यैर्मरुद्भिर्युक्तं वा । **ते** त्वां **नमसा** हविर्लक्षणेनान्नेन नमस्कारेण वा **विधेम** परिचरेम । विधतिः परिचरणकर्मा । अपि च **पिता** उत्पादकः **मनुः** स्वकीयाभ्यः प्रजाभ्यः **शं** रोगाणां शमनं **योश्च** भयानां यावनं च **यत्** एतत् द्वयं **आयेजे** देवेभ्यः सकाशात् प्राप्य दत्तवान् हे **रुद्र** **तव** **प्रणीतिषु** प्रकृष्टनयनेषु सत्सु **तत्** वयम् **अश्याम** व्याप्नुयाम ॥ मृळ । मृड सुखने '। तौदादिकः । द्वयचोऽतस्तिङः' इति संहितायां दीर्घः । कृधि । करोतेर्लोटि  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ।  ‘ श्रुशृणुपॄकृवृभ्यछन्दसि ' इति हेर्धि । अतः कृकमि इति मयसो विसर्जनीयस्य सत्वम् । क्षयद्वीराय । ‘ क्रियाग्रहणं कर्तव्यम् ' इति कर्मणः संप्रदानत्वात् चतुर्थी। विधेम । 'विध विधाने '। तौदादिकः । आयेजे । 'यज देवपूजासंगतिकरणदानेषु'। लिटि संज्ञापूर्वकस्य विधेरनित्यत्वात् संप्रसारणाभावे एत्वाभ्यासलोपौ । अश्याम।  ‘ अशू व्याप्तौ'। व्यत्ययेन परस्मैपदम्।' बहुलं छन्दसि' इति विकरणस्य लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be gracious to us, **Rudra**; grant us happiness, for we worship the destroyer of heroes with oblations; and, by your directions, Rudra, may we obtain that freedom from disease and exemption from dangers which our progenitor, **Manu**, bestowed upon us, (having obtained them form the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be merciful to us, Rudra, and create joy for us. To you who rule over  heroes we would do honor with reverence.  
 Whatever luck and lifetime Father Manu won through sacrifice, that may  we attain under your guidance, Rudra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The weak pf. form (ā)yejé is anomalous in two regards: it does not agree with the standard weak pf. īj- and it produces a bad cadence here. The form is found twice elsewhere in the RV: āyejé in X.63.7 where Manu is also the subj. and the form is in the same (bad) metrical slot - the two passages seem to be connected - and VI.36.2 with the preverbs ánu prá and in an acceptable metrical slot. The weak pf.
 
@@ -176,23 +176,23 @@ As for the metrical problem, Ludwig and Arnold want to emend to *āyajé, of som
 syllable, which was then originally short: *āyijé. The drawback to this explanation (or one of them) is that there is no obvious source for the -ej that was substituted at some point in the redaction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be gracious unto us, O Rudra, bring us joy: thee, Lord of Heroes, thee with reverence will we serve.  
      Whatever health and strength our father Manu won by sacrifice may we, under thy guidance, gain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hab mit uns Erbarmen, Rudra, und mach uns Freude! Wir wollen dir, dem Männerbeherrscher, in Demut dienen. Welch Wohl und Heil Vater Manu durch Opfer erlangt hat, das möchten wir unter deiner Führung erreichen, Rudra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei hold, o Rudra, und verschaffe Freude uns, dir Männerherrscher dienen mit Verehrung wir; Welch Heil und Glück sich Vater Manus opfernd schuf, das lass erlangen, Rudra, uns durch deine Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Помилуй нас, о Рудра, и сотвори нам радость!  
 Поклонением хотим мы почтить тебя, властвующего над мужами.  

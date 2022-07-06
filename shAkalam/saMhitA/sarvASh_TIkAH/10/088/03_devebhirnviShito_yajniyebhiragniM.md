@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवे꣡भिर् नु꣡ इषितो꣡ यज्ञि꣡येभिर्  
 अग्निं꣡ स्तोषाणि अज꣡रम् बृह꣡न्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आतता꣡न रो꣡दसी अन्त꣡रिक्षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यः । भा॒नुना॑ । पृ॒थि॒वीम् । द्याम् । उ॒त । इ॒माम् । आ॒ऽत॒तान॑ । रोद॑सी॒ इति॑ । अ॒न्तरि॑क्षम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
@@ -114,36 +114,36 @@ popular
 **यज्ञियेभिः** यज्ञार्हैः **देवेभिः** देवैरिन्द्रादिभिः **नु** क्षिप्रम् **इषितः** अहम् **अजरं** जरारहितं **बृहन्तं** महान्तम् **अग्निं** तं वैश्वानराग्निं **स्तोषाणि** स्तोषामि । **यः** वैश्वानरराग्निः **भानुना** तेजसा **पृथिवीं** भूमिम् **उत** अपि च **इमां** **द्यां** दिवं च **आततान** आतनोति । तदेव दर्शयति । **रोदसी** द्यावापृथिव्यौ चाततान आतनोति । विस्तारयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sent by adorable gods I praise the undecaying and mighty **Agni**, who by his radiance has spread forththe earth and this heaven, the two worlds and the firmament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now urged on by the gods worthy of the sacrifice, I shall praise Agni,  unaging and lofty,  
 who with his radiance stretches through earth and this heaven, through  the two world-halves and the midspace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Inspired by Gods who claim our adoration, I now will laud Eternal Lofty Agni,  
      Him who hath spread abroad the earth with lustre, this heaven, and both the worlds, and air's mid-region.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von den opferwürdigen Göttern getrieben will ich jetzo den Agni preisen, den alterlosen, hohen, der mit seinem Lichte die Erde und diesen Himmel, die beiden Welthälften, das Luftreich durchzogen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erregt nun von den opferwerthen Göttern will ich den ew'gen, hohen Agni preisen, Der Erd' und Himmel hier mit Glanz durchstrahlt hat, die beiden Welten und die Luft dazwischen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Посланный сейчас богами, достойными жертвы,  
 Я хочу прославить Агни, нестареющего, высокого,  

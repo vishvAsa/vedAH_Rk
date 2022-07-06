@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् सा꣡नोः सा꣡नुम् आ꣡रुहद्  
 भू꣡रि अ꣡स्पष्ट क꣡र्तुवम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यूथे꣡न वृष्णि꣡र् एजति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तत् । इन्द्रः॑ । अर्थ॑म् । चे॒त॒ति॒ । यू॒थेन॑ । वृ॒ष्णिः । ए॒ज॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M
 पा. सू. ३. २. ७५ ) इति विच् । गुणो रपरत्वम् । विचः सर्वापहारी लोपः । करो भावः कर्त्वम् । अर्थम् । अर्तेः ‘उषिकुषिगार्तिभ्यस्थन् ' (उ. सू. २. १६१)। नित्त्वादाद्युदात्तः । यूथेन।' तिथपृष्ठगूथयूथप्रोथाः' ( उ. सू. २. १६९) इति थक्प्रत्ययान्तो निपातितः । वृष्णिः। ‘निः' इत्यनुवृत्तौ ‘सृवृषिभ्यां कित्' (उ. सू. ४. ४८९) इति निप्रत्ययान्तः । कित्वा. द्गुणाभावः। प्रत्ययस्वरेणान्तोदात्तः । एजति । ‘एजृ कम्पने'। ' तिङ्ङतिङः' इति निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,33 +123,33 @@ genre M
 Yat sānoḥ sānum āruhat, mounting from ridge to ridge: this is said of the **yajamāna**, who goes to the mountain to gather soma for bruising, or fuel for the fire, or other articles required for the ceremony
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When he has mounted from peak to peak and has seen much to be done, then Indra perceives his purpose, and the ram stirs with his flock.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most translators take the subject of ab to be the sacrificer, but Indra seems a more likely candidate, esp. since kártva- ‘to be done’ is regularly used of the prospective deeds of Indra (e.g., II.30.10, IV.18.2, VIII.63.6).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As up he clomb from ridge to ridge and looked upon the toilsome task,  
      Indra observes this wish of his, and the Rain hastens with his troop.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als er von Höhe zu Höhe gestiegen war und vieles, was noch zu tun, ersah, da merkt Indra die Absicht. Als der Leithammel setzt er sich mit der Herde in Bewegung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als er von Berg zu Berge stieg, hat viele Arbeit er geschaut, Und Indra nimmt des Werkes wahr, mit seiner Heerde eilt der Bock.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда он карабкался с вершины на вершину  
 (И) видел, как много надо сделать,  

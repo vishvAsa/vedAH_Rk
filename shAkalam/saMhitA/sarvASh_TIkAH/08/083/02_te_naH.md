@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नः सन्तु यु꣡जः स꣡दा  
 व꣡रुणो मित्रो꣡ अर्यमा꣡  
 वृधा꣡सश् च प्र꣡चेतसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृ॒धासः॑ । च॒ । प्रऽचे॑तसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -87,20 +87,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ते** देवाः **वरुणः** शत्रूणां निवारकः **मित्रः** सर्वेषां मित्रभूतः **अर्यमा[१]** सततं गच्छन् एतन्नामकास्ते त्रयो देवाः **सदा** सर्वदा सर्वेषु कालेषु **नः** अस्माकं **युजः** सहायाः **सन्तु** भवन्तु । अग्निहोत्रादिकर्मणि इन्द्रादिदेवाः सहागमनादियज्ञपरिसमापनान्तेषु साहाय्यं कुर्वन्त्वित्यर्थः । ततः **प्रचेतसः** प्रकृष्टज्ञानाः । यद्वा । चेतः स्तोत्रम् । शोभनस्तुतयः। ते देवाः **वृधासः** वर्धकाः **च** अस्माकं धनादिदानेन वर्धयितारश्च सन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those (deities) **Varuṇa**, **Mitra** and **Aryaman**, be ever our allies and supremeley wise helpers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let them be our yokemates always—Varuṇa, Mitra, Aryaman—  
 and forethoughtful strengtheners.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 viṣpitá- occurs only twice in Skt., here and in VII.60.7. In both occurrences it is the obj. of √pṛ ‘carry across, deliver’, and in both cases there is watery/nautical imagery. Its general value is clear -- a danger that is conceptually like a perilous water crossing -- but it has no good etymology. See EWA s.v. ### 05
 Pādas ab appear to be a single clause with the middle part. ī́śānāsaḥ predicated to function as main verb. [Note in passing that Aufr’s typo ī́śānāśo with palatal, pointed out by Oldenberg, has been taken over uncorrected into the Holland & van Nooten Rig Veda edition text.] My tr. of c roughly follows Geldner’s, though I have rendered īm (“it”). He supplies a form of √naś ‘reach’, on the basis of VIII.47.1 … ném aghám naśat “evil will not reach him.” I am hesitant about this interpr. because it requires supplying a main verb with no support in context, but I don’t see a viable alternative. Renou takes c as contrastive with ab, with aghásya parallel to vāmásya (“vous êtes...les régisseurs de la grace / non point ... ceux du maléfice”), but he doesn’t explain the syntax, esp.
@@ -108,23 +108,23 @@ Pādas ab appear to be a single clause with the middle part. ī́śānāsaḥ pr
 what he does with yát, which certainly shouldn’t represent his “ceux.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May they be ever our allies, Varuna, Mitra, Aryaman,  
      Far-seeing Gods who prosper us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sollen immerdar unsere Bundesgenossen sein, Varuna, Mitra, Aryaman und unsere vorsorgenden Förderer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie seien stets Genossen uns, Varuna, Mitra, Arjaman Und Förderer die weisen uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

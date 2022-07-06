@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ ते देव नयितर्+  
 ये꣡ च इमाँ꣡ अनुश꣡से  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡चेमहि सचथि꣡यैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ते । रा॒या । ते । हि । आ॒ऽपृचे॑ । सचे॑महि । स॒च॒थ्यैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -102,7 +102,7 @@ genre M
 हे **नेतः** **देव** **ते** तव स्वभूताः **ते** वयं यजमानाः **ये** **च** अन्ये **इमान्** । विभक्तिव्यत्ययः । इमे होत्रादयः **अनुशसे** शंसितुं प्रभवन्ति तेऽपि त्वदीयाः । यद्वा । इमान् अन्यान् इन्द्रादीन् अनुशसे क्रमेण शंसितुं प्रभवन्ति । “ एकैव वा महानात्मा देवता स सूर्यः स हि सर्वभूतात्मा' इत्युक्तत्वादितरासां देवतानां तदन्तर्भावादिति भावः। न केवलं त्वच्छंसका एवेत्यर्थः । **ते** उभये वयं **राया** धनेन सचेमहि इति संबन्धः । **ते** **हि** ते खलु **आपृचे** आपर्चनीयाः ॥ कृत्यार्थे केन्प्रत्ययः ।  ‘ कृन्मेजन्तः' इत्यव्ययत्वाद्विभक्तेरदर्शनम् ॥ **सचथ्यैः** सर्वैः कामैः **सचेमहि** संगच्छेमहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,12 +113,12 @@ genre M
 Te **rāyā** hi a pṛce sacemahi sacathyai = te ubhaye dhanena sacemahi te hi te aparcaniyaḥ sarvaiḥ kāmaiḥ saṅgacchemahi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They are yours, god Leader, as are the ones who (set out) to mimic them. As those—for they are to be infused (with good things)—may we be  accompanied by wealth, by (other) desirable accompaniments.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As discussed in the published introduction, this vs. effects a transition from the undefined 3rd ps. sg. “every mortal” (víśvaḥ … mártaḥ) of vs. 1 to a 1st ps. pl.
 
@@ -129,23 +129,23 @@ The syntax is further complicated by the parenthetical expression embedded in p�
 The thematic continuity with vs. 1, despite the fancy referential footwork, is emphasized by d sácemahi sacathyaìḥ, which echoes sakhyám in 1b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These, leading God, are thine, and these here ready to speak after us.  
      As such may we attain to wealth and wait with services on thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese sind dein, o göttlicher Führer, und die, welche diesen nachbeten sollen, wir hier möchten des Reichtums - den diese sind damit zu überhäufen - und deines Beistands teilhaftig werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir hier sind dein, Gott Najitar, und die mit uns sind gleichgesinnt; Die, die erfülle du mit Gut; es werde Beistand uns zu Theil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О божественный вождь, эти (люди) – твои,  
 И (те,) что вторят им, прославляя!  

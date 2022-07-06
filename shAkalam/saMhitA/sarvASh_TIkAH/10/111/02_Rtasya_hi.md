@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡स्य हि꣡ स꣡दसो धीति꣡र् अ꣡द्यौत्  
 सं꣡ गार्ष्टेयो꣡ वृषभो꣡ गो꣡भिर् आनट्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 महा꣡न्ति चित् सं꣡ विव्याचा र꣡जांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उत् । अ॒ति॒ष्ठ॒त् । त॒वि॒षेण॑ । रवे॑ण । म॒हान्ति॑ । चि॒त् । सम् । वि॒व्या॒च॒ । रजां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
@@ -121,35 +121,35 @@ genre M
 **ऋतस्य** उदकस्य **सदसः** स्थानस्यान्तरिक्षस्य **धीतिः** धारकः स इन्द्रः **अद्यौत्** द्योतते प्रकाशते । **हि** प्रसिद्धौ ॥  ‘ द्युत दीप्तौ । लुङि • द्युद्भ्यो लुङि' इति परस्मैपदम्। च्लेर्लुक् छान्दसः । हलन्तलक्षणा वृद्धिरपि ॥ यद्वा । अद्यौत् । तादृश इन्द्रो यज्ञमभिगच्छति ॥  ‘ द्यु अभिगमे । आदादिकः । लङ् ।  ‘ उतो वृद्धिर्लुकि हलि ' इति वृद्धिः ॥ **गार्ष्टेयः** । सकृत्प्रसूता धेनुर्गृष्टिः । तस्या अपत्यं **वृषभो** **गोभिः** **सम्** **आनट्** संव्याप्नोति । तथैषोऽपि सर्वं स्वमहिम्ना व्याप्नोति । तथा. **तविषेण** । महन्नामैतत् । महता **रवेण** शब्देन **उदतिष्ठत्** । उच्छ्रित उन्नतोऽभवत्। अत एव **महान्ति** **चित्** महान्त्यपि **रजांसि** उदकानि भुवनानि वा **सं** **विव्याच** संव्याप्नोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sustainer of the abode of the water, (the firmament), he shone brightly; the bull, the offspring of a cowwhich has only borne once, met the cows, with a loud roar he sprung up, he pervaded the vast worlds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because the hymnic vision flashed out from the seat of truth, the bull,  born from a heifer, came together with the cows [=Dawns/hymns]. He arose with a powerful roar. He entirely encompassed the dusky  realms, though they are great.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The hymn shone brightly from the seat of worship: to the kine came the Bull, the Heifer's Offipring  
      With mighty bellowing hath he arisen, and hath pervaded even the spacious regions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn vom Sitze der Wahrheit ist die Erkenntnis aufgeblitzt. Der Stier, der der jungen Kuh Sohn ist, hat sich mit den Kühen vereinigt. Mit kräftigem Brüllen hat er sich aufgerichtet; auch die großen Räume hat er ganz umspannt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Lied erstrahlte von dem Sitz des Opfers, zu Kühen drang der Stier, der Spross der Färse; Mit lautem Donner hat er sich erhoben, die weiten Räume auch umspannt sein Umfang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь с сиденья закона сверкнуло озарение.  
 Сын молодой коровы – бык, соединился с коровами.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्राणा꣡ शि꣡शुर् मही꣡नां᳐  
 हिन्व꣡न्न् ऋत꣡स्य दी꣡धितिम्  
 वि꣡श्वा प꣡रि प्रिया꣡ भुवद् अ꣡ध द्विता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 विश्वा॑ । परि॑ । प्रि॒या । भु॒व॒त् । अध॑ । द्वि॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *krāṇā*
 - \[adverb\]
@@ -92,20 +92,20 @@ genre M;; line affected by realignment;; repeated line
 **क्राणा**। करोतेः शानचि ‘बहुलं छन्दसि ' इति विकरणस्य लुक् । ‘सुपां सुलुक् इति सुप आकारादेशः । यज्ञं कुर्वाणः **महीनां** महतीनां मंहनीयानां वा अपां **शिशुः** पुत्रस्थानीयः सोमः **ऋतस्य** यज्ञस्य **दीधितिं** प्रकाशकं धारकं वा स्वीयं रसं **हिन्वन्** प्रेरयन् **विश्वा** सर्वाणि **प्रिया** प्रियाणि हवींषि **परि** **भुवत्** परिभवति व्याप्नोति । **अध** अपि च **द्विता** द्विधा भवति । दिवि च पृथिव्यां च वर्तत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Performing (sacred rites) the child of the great (waters) sending forth the lustre of the sacrifice (**Soma**) produces all acceptable (oblations) and (abides) in the two worlds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through his action the child of the great (rivers), spurring on the  visionary power of truth,  
 encompasses all dear things—now once again.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On krāṇā́as instr. see comm. ad IX.86.19. It is echoed by the instr. krátvā in the ring-compositional final vs., 8a. As noted ad IX.86.19, with Lüders and Renou (see also Tichy Kl.Sch 210) but contra Geldner, I construe mahī́nām with śíśuḥ here.
 
@@ -116,23 +116,23 @@ It is not entirely clear what “all the dear things” are that Soma encompasse
 The 4-syl. extension in this vs., ádha dvitā́, has the look of a new syntactic unit, since ádha is almost always pāda/clause initial, but it also has to be integrated into what precedes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE Child, when blended with the streams, speeding the plan of sacrifice,  
      Surpasses all things that are dear, yea, from of old.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter Mitwirkung der großen Ströme hat der Junge, die Erkenntnis des Gesetzes fördernd, alle lieben Formen umfaßt - nun abermals.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der grossen Fluten kräft'ger Spross, er, der des Opfers Andacht hegt, Umfange alles Liebe uns, – besonders jetzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Действуя (по своей природе), дитя великих (рек),  
 Возбуждая силу видения вселенского закона,  

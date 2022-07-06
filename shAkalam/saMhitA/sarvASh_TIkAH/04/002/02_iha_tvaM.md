@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इह꣡ त्वं꣡ सूनो सहसो नो अद्य꣡  
 जातो꣡ जाताँ꣡ उभ꣡याँ अन्त꣡र् अग्ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋजुमुष्का꣡न् वृ꣡षणः शुक्रां᳐꣡श् च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दू॒तः । ई॒य॒से॒ । यु॒यु॒जा॒नः । ऋ॒ष्व॒ । ऋ॒जु॒ऽमु॒ष्कान् । वृष॑णः । शु॒क्रान् । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iha*
 - \[adverb\]
@@ -131,41 +131,41 @@ genre M
 हे **सहसः** **सूनो** बलस्य पुत्र **अग्ने** **अद्य** अस्मिन् दिवसे **नः** अस्मदीये **इह** कर्मणि **जातः** आधानपवमानेष्टिभिः संस्कृतः **त्वं** **जातान्** उत्पन्नान् **उभयान्** देवमनुष्यान् **अन्तः** तेषामुभयेषां मध्ये **दूतः** हवींषि देवान् प्रापयितुम् **ईयसे** गच्छसि । किं कुर्वन् । हे **ऋष्व** दर्शनीयाग्ने **ऋजुमुष्कान्** । मुष्कशब्देन मांसलोऽभिधीयते । ऋजवः प्रसाधकाः । ऋजवश्च ते मुष्काश्च इति ऋजुमुष्काः। तान् **वृषणः** रेतःसेचनसमर्थान् **शुक्रान्** दीप्यमानानश्वान् **च** **युयुजानः** स्वरथे योजयन् ईयसे । यद्वा । ऋष्व महन्नग्ने युयुजानो हविर्वहने नियुज्यमानस्त्वं वृषणो हविःसेचनसमर्थान् यजमानान् शुक्रान् दीप्तान् देवांश्चेयसे ॥ सूनो सहसः । परमपि छन्दसि' इति सहसः पराङ्गवद्भावात् द्वयोः सर्वानुदात्तत्वम् । ईयसे ।  ‘ ईङ् गतौ ' । दिवादिः । निघातः । युयुजानः । युजेः वर्तमाने लिटि कानचि रूपम् । ऋष्व । संहितायाम्  ‘ ऋत्यकः' इति प्रकृतिभावः । ऋजुमुष्कान् । समासस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, son of strength, genitive rated today at this our rite, as intermediate between both (gods and men) you proceed, the invoker (of the gods), harnessing, graceful Agni, your robust, vigorous, and resplendent steeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O son of strength, o Agni, created here for us today, between both  created (peoples [=men and gods])  
 you shuttle as messenger, o high one, having yoked your (horses) with  their testicles stretched out (behind from speed), (the horses) bullish  and blazing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born for us here this day, O Son of Vigour, between both races of born beings, Agni,  
      Thou farest as an envoy, having harnessed, Sublime One! thy strong-muscled radiant stallions.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Here, O Agni, son of strength, thou goest for us to-day as a messenger, thou who art born, between the two races (of men and gods), having harnessed, O tall one, thy puissant, manly, brilliant (stallions) 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, du Sohn der Kraft, verkehrst heute hier geboren zwischen beiderlei Geborenen als unser Bote, nachdem du Recke die bullenartigen und hellfarbigen Hengste mit straffen Hoden angeschirrt hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Sohn der Kraft, uns heute hier geboren, o Agni, eilst du zwischen Gott und Menschen, als hehrer Bote, der du angeschirrt hast die lichten Stiere, deren Glieder straff sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты здесь, о сын силы, сегодня у нас  
 Рожденный, между обоими рожденными, о Агни,  

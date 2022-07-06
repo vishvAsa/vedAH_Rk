@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ देवो꣡ ददे बुध्नि꣡या व꣡सूनि  
 वैश्वानर꣡ उ꣡दिता सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ अग्नि꣡र् ददे दिव꣡ आ꣡ पृथिव्याः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । स॒मु॒द्रात् । अव॑रात् । आ । पर॑स्मात् । आ । अ॒ग्निः । द॒दे॒ । दि॒वः । आ । पृ॒थि॒व्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M
 **वैश्वानरः** विश्वनरहितोऽग्निः **देवः** द्योतमानः **बुध्न्या** बुध्न्यानि आन्तरिक्षाणि । बुध्नमन्तरिक्षम् । तथा च यास्कः-’ बुध्नमन्तरिक्षं बद्धा अस्मिन् धृता आप इति वा ' (निरु. १०. ४४ ) इति । **वसूनि** आच्छादकानि तमांसि ॥ ‘वस आच्छादने' इति धातुः ॥ **सूर्यस्य** **उदिता** उदितावुदये' सति **आ** **ददे**। **समुद्रात्** अन्तरिक्षात् । ‘सगरः समुद्रः' इत्यन्तरिक्षनामसु पाठात् । **अवरात्** पृथिव्याः तमांसि **आ** **ददे** । समुद्रात् **परस्मात्** दिवोऽपि तमांसि **आ** ददे। तदेव दर्शयति । **अग्निः** **दिवः** तमांसि **आ** **ददे** **पृथिव्याः** च तमांसि **आ** ददे ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre M
 From thefirmament: ā samudrād avarād, ā parasmād **diva** ā pṛthivyāḥ: or, it might be from the lower firmament,from the higher, from heaven, from earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The god Vaiśvānara has taken the goods on the land for his own at the  rising of the sun.  
 From the lower sea and from the higher one, from heaven and from  earth, Agni has taken them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vaisvanara the God, at the sun's setting, hath taken to himself deep-hidden treasures:  
      Agni hath taken them from earth and heaven, from the sea under and the sea above us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gott Vaisvanara hat bei Aufgang der Sonne die Schätze der Tiefe an sich genommen; von dem diesseitigen und dem jenseitigen Meere hat sie Agni an sich genommen, vom Himmel und von der Erde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Gott nahm auf die Schätze aus der Tiefe, der Hort der Männer bei der Sonne Aufgang, Aus tiefstem Meer und aus dem höchsten Luftraum, aus Himmel und aus Erde nahm sie Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бог взял себе глубинные блага,  
 Вайшванара на восходе солнца.  

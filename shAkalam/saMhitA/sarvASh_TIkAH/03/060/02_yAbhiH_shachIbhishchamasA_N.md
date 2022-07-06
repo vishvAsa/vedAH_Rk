@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः श꣡चीभिश् चमसाँ꣡ अ꣡पिंशत  
 य꣡या धिया꣡ गा꣡म् अ꣡रिणीत च꣡र्मणः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ते꣡न देवत्व꣡म् ऋभवः स꣡म् आनश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 येन॑ । हरी॒ इति॑ । मन॑सा । निः॒ऽअत॑क्षत । तेन॑ । दे॒व॒ऽत्वम् । ऋ॒भ॒वः॒ । सम् । आ॒न॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -124,36 +124,36 @@ genre M
 हे  **ऋभवः** **याभिः** **शचीभिः** **शक्तिभिः** **चमसान्** चतुरः **अपिंशत** विभक्तवन्तः स्थ। **यया** **धिया** प्रज्ञया **गां** मृताम् **अरिणीत** **चर्मणः** चर्मणा योजनात् प्रापितवन्तः स्थ । **येन** **मनसा** प्रज्ञानेन **हरी** एतन्नामकाविन्द्रस्याश्वौ **निरतक्षत** नितरामकुरुत । तथा च मन्त्रवर्णः- ‘ य इन्द्राय वचोयुजा ततक्षुर्मनसा हरी ' ( ऋ. सं. १.२०.२ ) इति । **तेन** सर्वेणानेन कर्मणा **देवत्वं** यज्ञभागार्हत्वलक्षणं देवभावं **समानश** सम्यक् प्राप्ताः स्थ ॥ अपिंशत ।' पिश अवयवे'। तुदादिः । तस्य लङि मध्यमे रूपम् । यद्वृत्तयोगादनिघातः । अरिणीत ।  ‘ री गतिरेषणयोः । क्र्यादिः । तस्य लङि रूपम् । अत्रापि पूर्ववदनिघातः । निरतक्षत ।  ‘ तक्षु त्वक्षू तनूकरणे ' । लङि रूपम् । पूर्ववत् अनिघाते ‘तिङि चोदात्तवति' इति गतेर्निघातः । अडुदात्तः । आनश । अश्नोतेर्लिटि रूपम् । निघातः।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With those faculties by which you have divided the ladles; with that intelligence wherewith you have covered the (dead) cow with skin; with that will by which you have fabricated the two horses (of **Indra**); with those (means), **ṛbhus**, you have attained divinity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ability by which you carved the cups; the insight by which you made  the cow to flow (milk) from the hide;  
 the thought by which you fashioned the two fallow bays—by (all) that, o  R̥bhus, you fully attained divinity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mighty powers wherewith. ye formed the chalices, the thought by which ye drew the cow from out the hide,  
      The intellect wherewith ye wrought the two Bay Steeds,-through these, O Rbhus, ye attained divinity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Künste, mit denen ihr die Becher formtet, durch den Erfindungsgeist, mit dem ihr aus dem Felle die Kuh heraustriebet, durch das Nachdenken, mit dem ihr die beiden Falben gebildet habt, durch all dies habt ihr Ribhu´s göttlichen Rang erlangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch welche Kräfte ihr die Becher habt geformt, durch welche List die Kuh von ihrem Fell getrennt, Durch welchen Geist ihr zimmertet das Füchsepaar, durch den ihr Ribhu's Götterwürde habt erlangt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) силы, которыми вы разукрасили чаши (для сомы),  
 (Та) поэтическая мысль, которой вы воссоздали корову из шкуры,  

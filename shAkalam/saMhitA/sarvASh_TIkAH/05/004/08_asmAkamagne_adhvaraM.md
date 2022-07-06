@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् अग्ने अध्वरं꣡ जुषस्व  
 स꣡हसः सूनो त्रिषधस्थ हव्य꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श꣡र्मणा नस् त्रिव꣡रूथेन पाहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 व॒यम् । दे॒वेषु॑ । सु॒ऽकृतः॑ । स्या॒म॒ । शर्म॑णा । नः॒ । त्रि॒ऽवरू॑थेन । पा॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -118,7 +118,7 @@ genre M
 हे **अग्ने** **अस्माकम्** **अध्वरं** **जुषस्व** सेवस्व । हे **सहसः** **सूनो** हे बलस्य पुत्र **त्रिषधस्थ** त्रिषु क्षित्यादिषु स्थानेषु स्थित **हव्यं** हविः जुषस्व । यद्वा । अध्वरं हविरिति योज्यम् । अहिंसितं हविरित्यर्थः। **वयं** यजमानाः **देवेषु** मध्ये **सुकृतः** शोभनापूर्वकर्तारः **स्याम** भवेम । **त्रिवरूथेन** वाचिकादिभेदेन त्रिधा वरणीयेन **शर्मणा** सुखेन त्रिच्छदिष्केण गृहेण वा **नः** **पाहि** रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,35 +129,35 @@ genre M
 Cherish us: tvi varūthena śarmaṇā, with three defended, i.e., preserved by act, thought and speech; or, rendering **śarman** as house, **gṛha**: protect us by or in a three-roofed or three-storied dwelling, i.e. tricchadiśkena gṛhena, i.e., a spacious mansion
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Take pleasure in our rite, o Agni, son of strength with three abodes, and  in our oblation.  
 May we be those acting rightly toward the gods. Protect us by your  
 shelter with its three defenses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Son of Strength, Agni, dweller in three regions, accept our sacrifice and our oblation.  
      Among the Gods may we be counted pious: protect us with a triply-guarding shelter.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Gâtavedas, as with a boat across a river. Agni, being praised with adoration as (thou hast been praised) by Atri, be a protector of our bodies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nimm, Agni, mit unserem Opfer fürlieb, Sohn der Kraft, mit unserer Spende, der du drei Stätten hast! Wir möchten vor den Göttern rechtschaffen sein. Schütz uns mit dreifach schirmendem Schutze!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniess, o Sohn der Stärke, unser Opfer, o Agni dreifach thronend, unsre Speise; Wir mögen fromm bei Göttern auch erscheinen; behüte uns mit Schutz, der dreifach schirmet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На нашем обряде наслаждайся, о Агни,  
 (Нашей) жертвой, о сын силы, имеющий три жилища!  

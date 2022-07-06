@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् अग्ने त꣡व त꣡द् घृता꣡द्  
 अर्ची꣡ रोचत आ꣡हुतम्  
 निं꣡सानं जुहु꣡वो मु꣡खे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 निंसा॑नम् । जु॒ह्वः॑ । मुखे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -90,40 +90,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **तव** **घृतात्** **आहुतं** **जुह्वः** होमसाधनभूतायाः स्रुचः **मुखे** **निंसानं** लिहानं **तत्** **अर्चिः** **उत्** **रोचते** प्रकाशते ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your lustre, **Agni**, lambent in the mouth of the ladle, shines when offered from (the oblation of) butter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This flame of yours, Agni, when bepoured, blazes up from the ghee, kissing the offering spoons on the mouth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I prefer to maintain the older gloss ‘kiss’ for niṃs rather than flg. Gotō (200-201; cf. EWA s.v., Lubotsky s.v. √nas) in the colorless substitution ‘approach’. Even if níṃsa- is in origin a redupl. pres. to √nas, passages like this, with múkhe ‘on the mouth’, support the richer semantics, which could have developed from an earlier ‘approach’, used metaphorically or euphemistically.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Worshipped with offerings shines thy flame, O Agni, from the sacred oil,  
      With kisses on the ladle's mouth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Flamme, Agni, leuchtet aus dem Schmalz auf, wenn sie begossen wird, die Opferlöffel auf den Mund küssend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Licht, o Agni, flammt empor, wenn es mit Schmalz beträufelt ist, Die Löffel küssend mit dem Mund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, это твое пламя  
 Сверкает ввысь из жира, политое (им),  

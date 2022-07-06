@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ ह कृशं꣡ युव꣡म् अश्विना शयुं꣡  
 युवं꣡ विध꣡न्तं विध꣡वाम् उरुष्यथः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡प व्रज꣡म् ऊर्णुथः सप्त꣡आसियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒वम् । स॒निऽभ्यः॑ । स्त॒नय॑न्तम् । अ॒श्वि॒ना॒ । अप॑ । व्र॒जम् । ऊ॒र्णु॒थः॒ । स॒प्तऽआ॑स्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
@@ -118,7 +118,7 @@ genre M
 हे **अश्विना** अश्विनौ **युवं** **ह** युवां खलु **कृशं** दुर्बलं कृशनामधेयं वा **उरुष्यथः** रक्षथः । किंच **युवं** युवां **शयुं** शयुनामानमृषिमुरुष्यथः। किंच **युवं** युवां **विधन्तं** परिचरन्तं मनुष्यं **विधवां** च अपतिकां वध्रिमतीं योद्ध्रीं स्त्रियं च उरुष्यथः । किंच हे **अश्विना** अश्विनौ **युवं** युवां **स्तनयन्तं** शब्दं कुर्वन्तं **सप्तास्यं** सर्पणशीलद्वारं व्रजं मेघम् । व्रजश्चरुः' इति मेघनामसु पाठात् । **सनिभ्यः** हविषां दातृभ्यः **अप** **ऊर्णुथः** विवृतद्वारं कृतवन्तौ स्थ इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre M
 The feeble man: or, **Kṛśa**, a proper name; seven-mouthed: saptāsyam = liṭ,seven-mouthed; i.e., having shifting doors or openings, sarpaṇaśīladvāram; **Ghoṣā**, having become eligibleas a wife, here expresses her desire for a husband
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “You two make wide space for Kr̥śa, you for Śayu, o Aśvins, you for the  worshiper and the widow.  
 You two open up the thundering enclosure with its seven mouths for  the sake of gain, o Aśvins.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Krsa and Sayu ye protect, ye Asvins Twain: ye Two assist the widow and the worshipper;  
      And ye throw open, Asvins, unto those who win the cattle-stall that thunders with its serenfold mouth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Asvin helfet ja dem Krisa, ihr dem Sayu, ihr dem euch Dienenden, ihr der Witwe aus der Not; ihr Asvin öffnet den donnernden Pferch mit sieben Ausgängen für die Belohnungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr schaffet Glück dem Kriça und dem Çaju ihr o Ritter, dem Verehrer, ihr der Witwe auch; Um Gaben zu verleihn, o Ritter, öffnet ihr den Stall, der sieben Thore hat, den donnernden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это вы – Кришу, вы, о Ашвины, Шаю,  
 Вы выручаете почитателя (и) вдову.  

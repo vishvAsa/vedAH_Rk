@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व्रता꣡ ते अग्ने महतो꣡ महा꣡नि  
 त꣡व क्र꣡त्वा रो꣡दसी आ꣡ ततन्थ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवं꣡ नेता꣡ वृषभ चर्षणीना꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । दू॒तः । अ॒भ॒वः॒ । जाय॑मानः । त्वम् । ने॒ता । वृ॒ष॒भ॒ । च॒र्ष॒णी॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vratā* ← *vrata*
 - \[noun\], nominative, plural, neuter
@@ -126,41 +126,41 @@ genre M
 हेअग्ने महतः सर्वोत्कृष्टस्यतेतव व्रताव्रतानि त्वत्सम्बन्धीनिकर्माणिमहानिमहान्तिभवन्ति तव क्रत्वाक्रतुनाप्रकाशेनरोदसी द्यावापृथिव्यौ आततन्थ विस्तृतवानसि त्वन्दूतोअभवःभव हे वृषभ वर्षणशील त्वञ्जायमानःसन् चर्षणीनांयजमानानां नेतासि फलप्रापकोसि ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Great, **Agni**, are the deeds of you the mighty one; you have spread abroad by your power the heaven and earth; you have been the messenger (of the gods); as soon as begotten you have become the leader of men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Great are the commandments of you who are great, o Agni. Through  your will you extend throughout the two world-halves.  
 You became the messenger as you were born. You are the leader of the  different peoples, o bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Great are the deeds of thee, the Great, O Agni: thou by thy power hast spread out earth and heaven.  
      As soon as thou wast born thou wast an envoy, thou, Mighty One, was Leader of the people.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thy, the great (god's) laws, O Agni, are great. Through the power of thy mind thou hast spread out the two worlds. Thou hast become a messenger at thy birth, thou, O bull, the leader of the tribes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Groß bist du und groß ist dein Walten, o Agni. Mit deiner Einsicht hast du beide Welten durchzogen. Eben geboren wardst du der Bote, du der Führer der Völker, o Bulle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross bist du Agni, gross sind deine Werke, mit deiner Kraft erfülltest du die Welten; Als du geboren, wurdest du der Bote und Führer du, o Stier, der Menschenstämme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Велики заветы, о Агни, у тебя, великого.  
 Благодаря твоей силе духа ты протянул оба мира.  

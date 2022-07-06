@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वाजी꣡ अक्षाः सह꣡स्ररेता  
 अद्भि꣡र् मृजानो꣡ गो꣡भिः श्रीणानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 सः । वा॒जी । अ॒क्षा॒रिति॑ । स॒हस्र॑ऽरेताः । अ॒त्ऽभिः । मृ॒जा॒नः । गोभिः॑ । श्री॒णा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -75,19 +75,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **वाजी** वेगवान् बलवान् वा **सः** सोमः **अक्षाः** क्षरति । कीदृशः । **सहस्ररेताः** बहुरेतस्को बहूदकः **अद्भिः** वसतीवरीभिः **मृजानः** मृज्यमानः **गोभिः** गोविकारैः क्षीरादिभिः **श्रीणानः** श्रीयमाणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The vigorous **Soma** flows in a thousand streams cleansed by the waters and mixing with the curds and milk.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The prizewinner has streamed in a thousand spurts, being groomed  with waters, being prepared with cows.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -97,22 +97,22 @@ Vss. 16 and 17 contain the sequence akṣāḥ sahásra(-dhāraḥ / -retaḥ) i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With endless genial flow the Strong hath run, purified by the waters, blent with milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Preisrenner ist geflossen, tausendsamig, mit Wasser sauber gemacht, mit Milch gemischt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und schnell nun rann er – mit tausend Samen, geklärt vom Wasser, – gemischt mit Milchtrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Потек этот захватчик награды с тысячным семенем,  
 Начищаемый водами, смешиваемый с молоком.

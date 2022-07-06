@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सना꣡द् अग्ने मृणसि यातुधा꣡नान्  
 न꣡ त्वा र꣡क्षांसि पृ꣡तनासु जिग्युः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ ते हेत्या꣡ मुक्षत दइ꣡वियायाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अनु॑ । द॒ह॒ । स॒हऽमू॑रान् । क्र॒व्य॒ऽअदः॑ । मा । ते॒ । हे॒त्याः । मु॒क्ष॒त॒ । दैव्या॑याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanād* ← *sanāt*
 - \[adverb\]
@@ -119,36 +119,36 @@ popular
 हे **अग्ने** त्वं **सनात्** चिरादेवारभ्य **यातुधानान्** राक्षसान् **मृणसि** बाधसे । तथापि **त्वा** त्वां **पृतनासु** संग्रामेषु **रक्षांसि** राक्षसाः **न** **जिग्युः** नाजयन् । किंच स त्वमधुना **अनु** अनुक्रमेण **सहमूरान्** मूलेन सहितान् मारकव्यापारेण युक्तान् **क्रव्यादः** मांसभक्षकान् राक्षसान् **दह** तेजसा भस्मीकुरु । किंच तव संबन्धिनः दैव्यायाः दैव्यात् **हेत्याः** आयुधात् **ते** यातुधानाः **मा** 'मुक्षत मुक्ता मा भूवन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, have from old time opposed the **Yātudhāna**; the **rākṣasas** have never overcome you inbattles; burn murderous flesh-eating (rākṣasas) one by one; let them not escape your divine weapon”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From of old, Agni, you crush the sorcerers; demonic powers have never  conquered you in battles.  
 Burn up the flesh-eaters together with their roots [/with their fools (for  gods)]. Let them not escape your divine lance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, from days of old thou slayest demons: never shall Raksasas in fight o'ercome thee.  
      Burn up the foolish ones, the flesh-devourers: let none of them escape thine heavenly arrow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von jeher zermalmst du, Agni, die Zauberer, nicht haben dich die Unholde im Kampf besiegt. Verbrenne die Fleischfresser samt der Wurzel; nicht sollen sie deinem göttlichen Geschoß entrinnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du tilgst von je die Zaubergeister Agni, und nie besiegen dich im Kampf Gespenster, Verbrenn die Thoren sammt den Fleischverschlingern, nicht schone ihrer deine Götterlanze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Издревле, о Агни, ты крушишь колдунов.  
 Ракшасы тебя не побеждали в сражениях.  

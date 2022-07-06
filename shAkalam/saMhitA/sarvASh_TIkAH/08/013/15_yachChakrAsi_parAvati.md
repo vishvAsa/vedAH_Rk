@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡च् छक्रा꣡सि पराव꣡ति  
 य꣡द् अर्वाव꣡ति वृत्रहन्  
 य꣡द् वा समुद्रे꣡ अ꣡न्धसो ऽविते꣡द् असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यत् । वा॒ । स॒मु॒द्रे । अन्ध॑सः । अ॒वि॒ता । इत् । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yacchakrāsi* ← *yat*
 - \[adverb\]
@@ -96,7 +96,7 @@ genre M
 हे **शक्र** शक्तेन्द्र **परावति** दूरदेशे **यत्** यदि **असि** भवसि । हे **वृत्रहन्** **यत्** यदि वा **अर्वावति** समीपे भवसि वर्तसे। **यद्वा** यदि वा **समुद्रे** जलधावन्तरिक्षे वा वर्तसे । तस्मात् सर्वस्मात् स्थानादागत्य **अन्धसः** अन्नस्य सोमलक्षणस्य पानेन **अवितेदसि** रक्षितैव भवसि ॥ ॥९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,35 +107,35 @@ genre M
 Guardian: or, you are the guardian (by drinking) of the **Soma**,annasya somalakṣanasya pānena **rakṣitā** bhavasi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whether, able one, you are in the far distance, whether nearby,  
 Vr̥tra-smiter,  
 or whether at the sea of the stalk, it is just you who are our helper.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The next section of the hymn is introduced by the end of this verse (a)vitéd asi “Just you are (our) helper,” a phrase repeated in 26a índra tvám avitéd asi, signalling the subsurface thematics of the apparently disordered midsection of this hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If, Sakra, Vrtra-slayer, thou be far away or near to us.  
      Or in the sea, thou art the guard of Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du Mächtiger in der Ferne bist, wenn in der Nähe, du Vritratöter, oder bei dem Meer von Somasaft, so bist du doch der Helfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn starker Vritratödter du in Nähe oder Ferne weilst, Ob auf dem Meer, geniesst du doch den Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о могучий, ты находишься вдалеке,  
 Когда вблизи, о убийца Вритры,  

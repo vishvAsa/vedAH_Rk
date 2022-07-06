@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभिभू꣡र् अह꣡म् आ꣡गमं  
 विश्व꣡कर्मेण धा꣡मना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आ꣡ वो ऽहं꣡ स꣡मितिं ददे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 आ । वः॒ । चि॒त्तम् । आ । वः॒ । व्र॒तम् । आ । वः॒ । अ॒हम् । सम्ऽइ॑तिम् । द॒दे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhibhūr* ← *abhibhūḥ* ← *abhibhū*
 - \[noun\], nominative, singular, masculine
@@ -109,37 +109,37 @@ popular;; epic anuṣṭubh (525)
 हे सपत्नाः **अभिभूः** अभिभविता **अहं** **विश्वकर्मेण** सर्वकर्मक्षमेण **धाम्ना** धारकेण तेजसा बलेन वा सार्धम् **आगमम्** आगतवानस्मि । अतः **वः** युष्माकं **चित्तं** मनः **आ** **ददे** गृह्णामि । मनोगतं धैर्यं हरामीत्यर्थः। **वः** युष्माकं **व्रतं** कर्म चाहम् **आ** ददे। **वः** युष्मदीयः यः समितिः संग्रामः तं च **अहम्** **आ** ददे अपहरामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I have come triumphant with power, equal to any exploit; I seize upon minds, your pious observances,your prowess in war.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have come here on top, with Viśvakarman as my foundation.  
 I take for myself your cognition, your commandment, and your  
 assembled company.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither I came as conqueror with mighty all-effecting power,  
      And I have mastered all your thought, your synod, and your holy work.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Überlegener bin ich hergekommen, mit der Erscheinung des Allschöpfers. Euer Denken, euren Dienst, eure Beratung nehme ich für mich in Anspruch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Ueberwinder kam ich her mit allbezwingender Gewalt; Ich nehm' eur Denken, euer Werk und euren Bund in meinen Dienst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я пришел как победитель  
 Со способностью все творить.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ हि꣡ ष्ठा꣡ सुदानवो  
 रु꣡द्रा ऋभुक्षणो द꣡मे  
 उत꣡ प्र꣡चेतसो म꣡दे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒त । प्रऽचे॑तसः । मदे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **सुदानवः** शोभनदाना हे **रुद्राः** रुद्रपुत्राः। पादादित्वादामन्त्रितनिघाताभावः । हे **ऋभुक्षणः** महान्तः उरुतेजस्का वा ईदृशा हे मरुतः **यूयं** **हि** खलु **दमे** यज्ञगृहे **मदे** मदकरे सोमे पीते सति **प्रचेतसः** **स्थ** प्रकृष्टज्ञाना भवथ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,41 +93,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Mighty Rudras: sons of **Rudra**, rudraputrāḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For—o Rudras, masters of the R̥bhus, possessing good drops—in  our house  
 and also in exhilaration you are provident.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou (see his comm.) take sudānavo, rúdrā ṛbhukṣaṇaḥ as predicative vocatives with the copula expression yūyáṃ hí ṣṭhā́“for you are …” This seems unnecessary, since there is a fine nominative plural, prácetasaḥ, which can serve as predicate. I take the utá to be connecting not the supposed predicative vocc.
 
 with prácetasaḥ, but the two locc. dáme and máde. The predicative vocative analysis is esp. unlikely because this is a repeated pāda (I.15.2, VI.51.15, VIII.83.9; there are also further exx. of yūyám hí ṣṭhā́… as a pāda-opening), and only in I.15.2 is a predicative voc. likely. (See Bloomfield, Rig-Veda Repetitions ad I.15.2; he considers it “plain mechanical borrowing” there.) The conjoined locc. “in our house and in exhilaration” may not seem to form a natural semantic class, but note that they are anagrams of each other: dáme / máde, and in a hymn so structured by phonetics, that would be enough.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Rudras and Rbhuksans, ye, Most Bountiful, are in the house,  
      Wise when the gladdening draught is drunk.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 For, Rudras and Ṛbhukṣans, ye, O bounteous ones, are in our house And wise when ye enjoy the draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr seid ja die Gabenschönen, ihr Rudra´s, die Gebieter im Hause und auch im Somarausche bei Verstand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ihr seid gabenreich im Haus, o Rudra's, Ribhuherrscher ihr, Und achtsam bei dem Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы же бываете с прекрасными дарами,  
 О Рудры, повелителями в доме  

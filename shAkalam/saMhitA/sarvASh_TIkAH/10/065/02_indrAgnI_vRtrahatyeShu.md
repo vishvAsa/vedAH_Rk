@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इन्द्रअग्नी꣡ वृत्रह꣡त्येषु स꣡त्पती  
 मिथो꣡ हिन्वाना꣡ तनु꣡वा स꣡मोकसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सो꣡मो घृतश्री꣡र् महिमा꣡नम् ईर꣡यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒न्तरि॑क्षम् । महि॑ । आ । प॒प्रुः॒ । ओज॑सा । सोमः॑ । घृ॒त॒ऽश्रीः । म॒हि॒मान॑म् । ई॒रय॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -120,7 +120,7 @@ genre M
 **वृत्रहत्येषु** वृत्रहननेषु युद्धेषु । यद्वा । कर्मणि छान्दसः क्यप् । वृत्राणि शत्रवो हन्यन्तेऽत्रेति वृत्रहत्या युद्धानि । तेषु **मिथः** परस्परं **तन्वा** शरीरेण तत्रस्थेन बलेन शत्रून् **हिन्वाना** प्रेरयन्तौ **सत्पती** सतां पती **समोकसा** समानस्थानौ **इन्द्राग्नी** **घृतश्रीः** उदकं वसतीवर्याख्यं श्रयमाणः **महिमानम्** आत्मीयम् **ईरयन** सर्वत्रोदीरयन्नुद्गमयन् **सोमः** च एते सर्वे च **महि** महत् **अन्तरिक्षम्** **ओजसा** स्वबलेन **आ** **पपुः** आपूरयन्ति । ‘प्रा पूरणे' ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,30 +131,30 @@ genre M
 Ghī-glorified: ghṛtaśrī = having recourse to the Vasatīvari water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Agni, the two lords of the settlement, spurring each other on  mutually in the smashing of obstacles, sharing the same home—  
 they (all) filled the great midspace with their might, as did Soma,  
 glorious with ghee, rousing their greatness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni, Hero-lords when Vrtra fell, dwelling together, speeding emulously on,  
      And Soma blent with oil, putting his greatness forth, have with their power filled full the mighty firmament.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni, die rechten Herren, die in den Vritrakämpfen sich gegenseitig selbst anspornen, die Hausgenossen, sie alle haben mit ihrer Kraft den großen Luftraum erfüllt, und Soma, der Schmalzgemischte, der ihre Macht hervorbringt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Helden Indra, Agni in der Vritraschlacht, einander fördernd, miteinander engvereint, Durchdrangen ganz die weite Luft mit ihrer Kraft; der fettgemischte Soma steigert ihre Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

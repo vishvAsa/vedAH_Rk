@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ देवि सरस्वति  
 अ꣡वा वा꣡जेषु वाजिनि  
 र꣡दा पूषे꣡व नः सनि꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 रद॑ । पू॒षाऽइ॑व । नः॒ । स॒निम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -84,19 +84,19 @@ genre M
 हे **देवि** दानादिगुणयुक्ते हे **वाजिनि** । वाजो बलमन्नं वा । तद्युक्ते हे **सरस्वति** **त्वं** **वाजेषु** संग्रामेषु **अव** अस्मान् रक्ष । अपि च **नः** अस्मभ्यं **पूषेव** पोषको देव इव **सनिं** संभजनीयं धनं **रद** विलिख । प्रयच्छेति यावत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Sarasvatī**, abounding in food, protect us in combat, and, like **Pūṣan**, give us gifts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aid (him), goddess Sarasvatī, at the prize (contests), you prizewinner. Channel gain to us, like Pūṣan.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -111,23 +111,23 @@ This, the middle vs. of the tṛca, consists only of a rel. cl., which I conside
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aid us, divine Sarasvad, thou who art strong in wealth and power  
      Like Pusan, give us opulence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann schenke du Göttin Sarasvati, du Siegerin in den Wettkämpfen, uns deine Gunst. Laß uns gleich Pusan Gewinn zukommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem hilf Göttin Sarasvati, in Kämpfen, starke Kämpferin; Wie Puschan theil uns Gaben zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о богиня Сарасвати,  
 Помоги с наградами, о богатая наградами!  

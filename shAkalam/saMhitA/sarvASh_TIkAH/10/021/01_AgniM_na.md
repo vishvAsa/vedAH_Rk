@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ अग्निं꣡ न꣡ स्व꣡वृक्तिभिर्  
 हो꣡तारं त्वा वृणीमहे  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M
 य॒ज्ञाय॑ । स्ती॒र्णऽब॑र्हिषे । वि । वः॒ । मदे॑ । शी॒रम् । पा॒व॒कऽशो॑चिषम् । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āgniṃ* ← *ā*
 - \[adverb\]
@@ -115,14 +115,14 @@ genre M
 हे अग्ने **वः** तव स्वभूते **विमदे** एतदाख्य ऋषौ मयीयं स्तुतिः प्रवृत्तास्ति । **न** इति संप्रत्यर्थे । अतो वयमिदानीं **स्ववृक्तिभिः** स्वयंकृताभिर्दोषवर्जिताभिः स्तुतिभिः **होतारं** देवानामाह्वातारं होमनिष्पादकं वा **अग्निं** **त्वा** त्वाम् **आ** **वृणीमहे** आभिमुख्येन संभजामहे । किमर्थम् । **स्तीर्णबर्हिषे** यज्ञाय। तादर्थ्ये चतुर्थी । यज्ञार्थम् । कीदृशम् । **शीरम्** ओषध्यादिषु सर्वत्रानुशायिनं **पावकशोचिषं** शोधकदीप्तिम् । **विवक्षसे** । महन्नामैतत् । हे अग्ने त्वमपि महान् भवसि । यद्वा । विमदे यज्ञस्य संबन्धिनः सोमस्य पानजन्यविविधमदार्थं त्वामावृणीमह इति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke you now, **Agni**, invoker (of the gods), with our voluntary (praises) for the sacrifice, at whichthe sacred grass is spread; you, who underlying (all things), who (diffuses) purifying radiance, (we invoke) foryour exhilaration; you are mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As if with (hymns) with their own twists, we choose you, Agni,  
 as Hotar  
@@ -130,23 +130,23 @@ for our sacrifice whose ritual grass has been strewn, (you,) sharp and  pure-fla
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH offerings of our own we choose thee, Agni, as Invoking Priest,  
      For sacrifice with trimmed grass,-at your glad carouse-piercing and brightly shining. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, erwählen wir gleichsam aus eigener Berechtigung zum Hotri für das Opfer, dessen Barhis hingebreitet ist, den scharf und hell Flammenden - in der Somabegeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch eigne Werke wählen wir dich Agni uns zum Priester nun Fürs Opfer mit gestreutem Gras, dich heissen, hellerstrahlenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы выбираем хотаром тебя,  
 Агни, словно по собственному почину,  

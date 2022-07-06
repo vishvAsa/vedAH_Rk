@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सना꣡द् दि꣡वम् प꣡रि भू꣡मा वि꣡रूपे  
 पुनर्भु꣡वा युवती꣡ स्वे꣡भिर् ए꣡वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡पुर्भिर् आ꣡ चरतो अन्या꣡अन्या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 कृ॒ष्णेभिः॑ । अ॒क्ता । उ॒षाः । रुश॑त्ऽभिः । वपुः॑ऽभिः । आ । च॒र॒तः॒ । अ॒न्याऽअ॑न्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanād* ← *sanāt*
 - \[adverb\]
@@ -118,20 +118,20 @@ genre M
 **विरूपे** शुक्लकृष्णतया विषमरूपे **पुनर्भुवा** पुनःपुनः प्रतिदिवसं जायमाने **युवती** तरुण्यौ रात्र्युषसोः सर्वदैकरूप्यात् । एवंभूते रात्र्युषसौ **दिवं** द्युलोकं **भूम** भूमिं च **सनात्** चिरकालादारभ्य **स्वेभिरेवैः** स्वकीयैर्गमनैः **परि** चरतः पर्यावर्तते । अयमेवार्थः स्पष्टीक्रियते । **अक्ता** रात्रिः **कृष्णेभिः** अन्धकाररूपैर्वर्णैरुपलक्षिता **उषाः** च **रुशद्भिः** दीप्यमानैः **वपुर्भिः** स्वशरीरभूतैस्तेजोभिरुपलक्षिता **अन्यान्या** परस्परव्यतिहारेण **आ** **चरतः** आवर्तते । हे इन्द्र एतत्सर्वं त्वयैव कार्यते त्वदधीनत्वात् सर्वासां देवतानामित्यर्थः ॥ भूम । ‘सुपां सुलुक्' इति द्वितीयाया डादेशः । छान्दसो ह्रस्वः । एवैः ।  ‘ इण् गतौ'।  ‘ इण्शीङ्भ्यां वन्' ( उ. सू. १. १५० ) इति भावे वन्प्रत्ययः । नित्त्वदाद्युदात्तत्वम् । अक्ता । नक्ता इति रात्रिनाम । नलोपश्छान्दसः । वपुर्भिः ।  ‘ अर्तिपॄवपि । (उ. सू. २. २७४ ) इत्यादिना उस् । नित्त्वादाद्युदात्तः । अन्यान्या । 'कर्मव्यतिहारे सर्वनाम्नो द्वे भवत इति वक्तव्यं समासवच्च बहुलम् ' (पा. म. ८. १. १२. ११) इति द्विर्भावे तस्य परमाम्रेडितम्' (पा. सू. ८. १. २ ) इति आम्रेड़ितसंज्ञायाम् ‘अनुदात्तं च' (पा. सू. . १. ३ ) इति आम्रेडितस्यानुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Night and dawn), of various complexion, repeatedly born, but ever youthful, have traversed in their revolutions alternately, from a remote period, earth and heaven; night with her dark, dawn with her luminous limbs.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From of old the two young girls of distinct forms, (ever) regenerating,  (go) around heaven and earth along their own courses—  
 Night with her black, Dawn with her gleaming white shapes progress one  after the other.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 From the spatial dual females of vs. 7 Nodhas now moves to the temporal: night and dawn, also dual females, whose activities have kept occurring “from of old” (sanā́t), linking them lexically to the two world-halves of 7a who were born of old (sanájā).
 
@@ -146,23 +146,23 @@ Jesse Lundquist notes the chiasmic kṛṣṇébhir aktā́-uṣā́rúśadbhi�
 Joshua T. Katz suggests that vápus- here and in other dawn/night passages refers to bridal clothing and suggests a tr. ‘finery’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Still born afresh, young Dames, each in her manner, unlike in hue, the Pair in alternation  
      Round heaven and earth from ancient time have travelled, Night with her dark limbs, Dawn with limbs of splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seit alters umwandeln die beiden ungleichen Jungfrauen aus eigenem Triebe Himmel und Erde, immer wiederkehrend: die Nacht mit dunklen Farben angetan, die Morgenröte mit hellen, kommen sie eine um die andere.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stets wandeln um den Himmel, um die Erde, an Farbe ungleich, neu sich stets verjüngend, Nach ihrer Art mit schwarzem, rothem Schmucke die Nacht und Morgenröthe nacheinander.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Издревле вокруг неба и земли (движутся) две несхожие  
 Юницы, возвращаясь снова (и снова) по своей привычке:  

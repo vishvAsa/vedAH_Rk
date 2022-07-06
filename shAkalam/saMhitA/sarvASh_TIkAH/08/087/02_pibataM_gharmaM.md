@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बतं घर्म꣡म् म꣡धुमन्तम् अश्विना  
 आ꣡ बर्हिः꣡ सीदतं नरा  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 नि꣡ पातं वे꣡दसा व꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ता । म॒न्द॒सा॒ना । मनु॑षः । दु॒रो॒णे । आ । नि । पा॒त॒म् । वेद॑सा । वयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibataṃ* ← *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
@@ -110,7 +110,7 @@ genre M
 हे अश्विना अश्विनौ **मधुमन्तं** मदवन्तम् । मदकारिणमित्यर्थः। तादृशं रसवन्तं वा **घर्मम्** । ‘घृ क्षरणदीप्त्योः ' । पात्रेषु क्षरन्तं सोमं **पिबतम्** । यद्वा । मधुमन्तम् । मधुर्मदकरः सोमः तद्वन्तं घर्मं महावीरपात्रगतं क्षीरं पिबतं सोमं चेति । न तु साहचर्येण तदसंभवात् । हे **नरा** नरौ नेतारौ सर्वस्य हे अश्विनौ **बर्हिः** बर्हिषि यज्ञे **आ** **सीदतम्** उपविशतम् । यद्वा । पूर्वं द्वितीयं पादं व्याख्याय प्रथमपादो व्याख्येयः । उपसदनानन्तरं सोमपानं युक्तमिति । किंच **मनुषः** मनुष्यस्य **दुरोणे** गृहभूतेऽस्मिन् देवयजने **मन्दसाना** सोमपानेन मोदमानौ **ता** तौ पूर्वोक्तलक्षणौ युवां **वेदसा** पुरोडाशादिलक्षणेन हविषा सह **वयः** सोमरूपमन्नम् **आ** आगत्य **नि** **पातं** निपिबतम् । यद्वा । वेदसा धनेन सह वयोऽस्माकमायुर्नि पातं नितरां रक्षतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,12 +121,12 @@ genre M
 As it drops:**gharma** = earthen pot called **mahāvīra**, also signifies the milk boiled in it: Drink, Aśvins, the exhilarating Somaand the milk; in the house of the worshipper: in the house of the man, manuṣo duroṇe, i.e. the sacrifice which isas a home to the deities; cf. RV 5.76.4; drink the sacred Soma: or, protect our lives together with our wealth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink the honeyed hot milk, o Aśvins; sit here on the ritual grass, o men. Reaching exhilaration here in the dwelling of Manu, protect our vital  energy along with our property.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/087/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -136,23 +136,23 @@ The d pādas of these two vss. apparently begin with the same verb: 1d pātám, 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink the libation rich in sweets, O Asvins Twain: sit. Heroes, on the sacred grass.  
      Do ye with joyful heart in the abode of man preserve his life by means of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trinket den süßen Heißtrank, ihr Asvin, setzet euch auf das Barhis, ihr Herren, ergötzet euch im Hause des Menschen, trinket mit Verständnis den Krafttrank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die honigsüsse Brühe trinkt, o Ritter, ihr, o Männer, setzt euch auf die Streu Vergnügten Sinnes ihr in dieses Mannes Haus, mit Weisheit schützet unser Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пейте сладкий горячий напиток, о Ашвины!  
 Садитесь на жертвенную солому, о два мужа!  

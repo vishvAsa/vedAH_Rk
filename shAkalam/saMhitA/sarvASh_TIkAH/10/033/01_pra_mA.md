@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ मा युयुज्रे प्रयु꣡जो ज꣡नानां  
 व꣡हामि स्म पूष꣡णम् अ꣡न्तरेण  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दुःशा꣡सुर् आ꣡गाद् इ꣡ति घो꣡ष आसीत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । दे॒वासः॑ । अध॑ । माम् । अ॒र॒क्ष॒न् । दुः॒ऽशासुः॑ । आ । अ॒गा॒त् । इति॑ । घोषः॑ । आ॒सी॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M
 **जनानां** यजमानानां **प्रयुजः** प्रयोक्तारो देवाः **मा** मां कवषमृषिं **प्र** **युयुज्रे** कुरुश्रवणं प्रति युक्तवन्तः । **अन्तरेण** मार्गे **पूषणं** देवम् अध्वनां पतिं सखायमहं **वहामि** **स्म** ऊढवानस्मि । तथा श्रूयते - ऐन्द्राग्नमेकादशकपालं निर्वपेज्जनतामेष्यन्' इत्युपक्रम्य ' पौष्णं चरुमनु निर्वपेत् ' (तै. सं. २.२.१,४) इति । **अध** अथ मार्गे **विश्वे** देवाः **मां** कवषम् **अरक्षन्** रक्षितवन्तः । **दुःशासुः** केनापि दुःशासनोऽयमृषिः **आगात्** आगच्छति **इति** **घोषः** शब्दश्च मार्गे **आसीत्** अभूत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,30 +136,30 @@ genre M
 Cf. **Taittirīya** **Saṃhitā** 2.2.1.4
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The advance teams of the peoples hitched me up in front. As always,  I carried Pūṣan within.  
 All the gods then guarded me. There was a shout, “The one of bad  
 command has come.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE urgings of the people have impelled me, and by,the nearest way I bring you Pusan.  
      The Universal Gods have brought me safely. The cry was heard, Behold, Dubsasu cometh!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vorschub der Menschen hat mich vorgespannt; ich fuhr unterwegs den Pusan auf dem Wagen. Damals schützten mich alle Götter. Da kam ein Geschrei: Ein übler Zuchtmeister ist gekommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Mich haben angeschirrt die, von welchen die Menschen angeschirrt werden, ich habe nun den Puschan auf nächstem Wege[470] hergefahren, und alle Götter haben mich beschützt, der böswillige war mir genaht«, so war das Gerede.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запрягли меня запрягания людей.  
 Возил я и Пушана попутно.  

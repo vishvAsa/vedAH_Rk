@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध प्रिय꣡म् इषिरा꣡य  
 षष्टिं꣡ सह꣡स्रासनम्  
 अ꣡श्वानाम् इ꣡न् न꣡ वृ꣡ष्णा᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अश्वा॑नाम् । इत् । न । वृष्णा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -81,43 +81,43 @@ genre M
 **अध** अधुना **इषिराय** धनादिप्रेरयित्रे राज्ञे **प्रियं** श्रद्धेयमश्वानामिव **वृष्णां** सेक्तॄणां गवां **सहस्रा** सहस्राणां **षष्टिं** षष्टिसहस्रसंख्याकं प्रियभूतम् **असनम्** अभजम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I have now received (a gift) dear to the beneficent king, sixty thousand bulls vigorous like horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now then, I have won something dear to the vigorous one, sixty  thousand  
 (geldings, which are) just like stallions.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 After the puzzling detour into Vāyu, this verse reunites us with the dānastuti of vss. 21-24 by means of asanam ‘I won’ in b, found also in 22a.
 
 “Gelding” is supplied on the basis of vs. 20.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, as a prize dear to the strong, the sixty thousand have I gained,  
      Bulls that resemble vigorous steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und ich empfing das, was dem Eifrigen lieb ist, sechzigtausend Wallache, als ob es Hengste wären.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann habe ich, was dem eifervollen lieb ist, sechzigtausend Stiere die [schnell] sind wie Rosse, empfangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Затем получил я (то, что) приятно для старательного:  
 Шестьдесят тысяч (меринов),  

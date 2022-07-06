@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ग्ने वह व꣡रुणम् इष्ट꣡ये न  
 इ꣡न्द्रं दिवो꣡ मरु꣡तो अन्त꣡रिक्षात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वा꣡हा देवा꣡ अमृ꣡ता मादयन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सीद॑न्तु । ब॒र्हिः । विश्वे॑ । आ । यज॑त्राः । स्वाहा॑ । दे॒वाः । अ॒मृताः॑ । मा॒द॒य॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āgne* ← *ā*
 - \[adverb\]
@@ -125,14 +125,14 @@ genre M;; repeated line
 हे **अग्ने** त्वं **नः** अस्माकम् **इष्टये** यागाय **इन्द्रं** **वरुणं** च **मरुतः** च **दिवः** द्युलोकात् **अन्तरिक्षात्** च अस्मदीयं यज्ञम् **आ** **वह** प्रापय । आगतास्ते **यजत्राः** यष्टव्याः **विश्वे** सर्वे **देवाः** **बर्हिः** **आ** **सीदन्तु** तत्रासन्ना भवन्तु । ततः **अमृताः** मरणधर्मरहिताः **देवाः** **स्वाहा** स्वाहाकारेण दत्तैर्हविर्भिः **मादयन्ताम्** आत्मानं मादयन्तु ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring, **Agni**, to our sacrifice **Varuṇa** and **Indra** from heaven, and the **Maruts** from the firmament, maythe adorable universal gods sit down on the sacred grass, and may the immortal deities rejoice in (the oblationpresented with) the **svāhā**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, convey Varuṇa here to our liking, also Indra from heaven and  the Maruts from the midspace.  
 Let them all, worthy of the sacrifice, sit on the ritual grass. Let the  
@@ -141,23 +141,23 @@ immortal gods bring themselves to exhilaration at the svāhā-call.
 The next two very well-known and often anthologized hymns are attributed to  the legendary Br̥haspati Āṅgirasa, with alternative, equally legendary, authorship  suggested for X.72. According to the Anukramaṇī, X.71 is dedicated to Jñāna  “Wisdom” or “Knowledge,” but it is knowledge in the form of sacred speech (Vāc).  (The word jñāna does not occur in the hymn, or indeed in the R̥gveda.) Hymn X.72,  dedicated simply to the gods (Devāḥ) according to the Anukramaṇī, is a cosmogony  focused on the origin of the divinities.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, bring hither Varuna to help us, Indra from heaven, from air's mid-realm the Maruts.  
      On sacred grass all Holy ones be seated and let the Immortal Gods rejoice in Svaha.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fahr, o Agni, den Varuna mach unserem Wunsche her, den Indra vom Himmel, die Marut aus der Luft! Alle Opfersamen sollen sich auf das Barhis setzen, unter Svaharuf sollen sich die unsterblichen Götter ergötzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fahr, Agni, her den Varuna zum Opfer vom Himmel Indra, aus der Luft die Maruts; Die Götter alle mögen hier sich setzen, mit Heilsruf sich die ewigen ergötzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, приведи Варуну для нашего усиления,  
 Индру с неба, Марутов из воздушного пространства!  

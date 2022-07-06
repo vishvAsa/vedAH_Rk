@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ई꣡ळे च त्वा य꣡जमानो हवि꣡र्भिर्  
 ई꣡ळे सखित्वं꣡ सुमतिं꣡ नि꣡कामः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 र꣡क्षा च नो द꣡मियेभिर् अ꣡नीकैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दे॒वैः । अवः॑ । मि॒मी॒हि॒ । सम् । ज॒रि॒त्रे । रक्ष॑ । च॒ । नः॒ । दम्ये॑भिः । अनी॑कैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īḍe* ← *īḍ*
 - \[verb\], singular, Present indikative
@@ -121,41 +121,41 @@ genre M
 यजमानोऽहं हविर्भिःसाधनैः त्वात्वां ईळे पूजयामि च पश्वादिलक्षणन्धनञ्चयाचे सुमतिंशोभ नाम्मतिं धर्मविषयाम्बुद्धिं निकामः नितराङ्कामयमानः त्वयासहसस्वित्वं ईळेयाचे त्वन्देवैःसहज रित्रेस्तोत्रेस्तोत्रङ्कुर्वते मह्यं अस्मदर्थं अवः पश्वादिविषयांरक्षांसम्मिमीहिकुरु दम्येभिर्दमनीयैर्नि यन्तव्यैः प्रयत्ननियन्तव्यतया उच्छृङ्खलतोक्ता अनीकिस्तेजोभिः नः अस्मान् रक्षच ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I, the instrumental tutor of the rite, worship you with oblations; desirous of your favour, I implore your friendship; grant, along with the gods, protection to him who praises you, preserve us with your well-regulated rays.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call upon you, sacrificing with my offerings, and I call upon your  companionship and your favor with desire.  
 With the gods, give help in full measure to the singer, and guard us with  your faces that belong to the house.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I sacrificing serve thee with oblations and crave with longing thy good-will and friendship.  
      Grant, with the Gods, thy grace to him who lauds thee, protect us with thy rays that guard the homestead.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I magnify thee, worshipping thee with offerings; I magnify (thee) desirous of thy friendship, of thy favour. Together with the gods give help to him who praises thee, and protect us with thy domestic faces.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und ich rufe dich als Opfernder mit Spenden an; ich rufe deine Freundschaft und Huld aus Zuneigung an. Mit den Göttern erweise dem Sänger Gnade und behüte uns mit deinen häuslichen Erscheinungsformen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch ich der Opfrer ehre dich mit Opfern, erfleh begierig deine Huld und Freundschaft; Miss zu dem Sänger Labung durch die Götter und schütze uns durch häusliches Erglänzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И я взываю к тебе жертвенными возлияниями, принося жертву.  
 Я взываю к дружбе, к благожелательности, алкая (их).  

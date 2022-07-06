@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नस् तोके꣡ त꣡नये मा꣡ न आयउ꣡  
 मा꣡ नो गो꣡षु मा꣡ नो अ꣡श्वेषु रीरिषः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 हवि꣡ष्मन्तः स꣡दम् इ꣡त् त्वा हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वी॒रान् । मा । नः॒ । रु॒द्र॒ । भा॒मि॒तः । व॒धीः॒ । ह॒विष्म॑न्तः । सद॑म् । इत् । त्वा॒ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -142,20 +142,20 @@ genre M
 हे **रुद्र** **नः** अस्माकं तोकादिविषये **मा** **रिरिषः** मा हिंसीः । तोकशब्दः पुत्रवाची । तनयस्तत्पुत्रः । आयुः इति अन्तोदात्त: मनुष्यनाम । पुत्रपौत्रव्यतिरिक्तो योऽस्मदीयः मनुष्यस्तस्मिन् **गोषु** पश्वादिषु **अश्वेषु** च मा रिरिषः हिंसां मा कृथाः। तथा हे रुद्र **वीरान्** विक्रान्तान् शौर्योपेतान् अस्मदीयान् **भामितः** क्रुद्धः सन् **मा** **वधीः** मा हिंसीः । वयं च **हविष्मन्तः** हविभिर्युक्ताः सन्तः **सदमित्** सर्वदैव **त्वां** **हवामहे** आह्वयामहे ॥ आयौ ।  ‘ इण् गतौ ।  ‘ छन्दसीणः' इति उण्प्रत्ययः । भामितः ।  ‘ भाम क्रोधे । **क्तोऽधिकरणे** च० " इति कर्तरि क्तः ।  हवामहे । ह्वेञो  लटि  ‘ बहुलं छन्दसि ' इति संप्रसारणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Harm us not, **Rudra**, in our sons or grandsons, or other **male** descendants, nor in our cattle, nor in our horses; inflamed with anger, kill not our valiant men, for we, presenting clarified butter perpetually invoke you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t do harm to our progeny and posterity nor to our (own) lifespan,  not to our cows nor to our horses.  
 Don’t smite our heroes, Rudra, when enraged. We, with our oblations,  will always invoke you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The bahuvrīhi áriṣta-vīra- ‘possessing heroes who cannot be harmed’ in 3d is echoed by vīrā́n mā … vadhīḥ “Don’t smite our heroes,” with the cmpd evoked by rīriṣaḥ ‘don’t harm’, which ends the preceding pāda. I suggest that the pattern of pāda-init. mā́found through all of vs. 7 and the 1st half of 8 is broken here so that rīriṣah / vīrā́n can be juxtaposed.
 
@@ -164,23 +164,23 @@ The final pāda of the vs. also recalls vs. 3, in a somewhat sly way: 3d ends ju
 The adv. sádam ‘always’ is almost always followed by íd, which seems to add no special nuance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Harm us not, Rudra, in our seed and progeny, harm us not in the living, nor in cows or steeds,  
      Slay not our heroes in the fury of thy wrath. Bringing oblations evermore we call to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht sollst du uns den leiblichen Samen, nicht an unserem eigenen Leben, nicht an unseren Kühen und Pferden schädigen. Nicht sollst du im Grimm unsere Mannen töten, o Rudra. Mit Opferspenden rufen wir dich immerdar an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht füge uns an Kind und Enkeln Schaden zu, an Leuten nicht, an Rindern nicht, an Rossen nicht; O Rudra, tödte unsre Helden nicht im Zorn, Dir Opfer bringend rufen immer wir dich an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни детям нашим (или) внукам, ни нашему сроку жизни,  
 Ни нашим коровам, ни коням не причини вреда!  

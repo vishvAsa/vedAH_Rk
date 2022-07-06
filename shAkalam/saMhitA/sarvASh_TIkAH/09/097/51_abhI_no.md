@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡ नो अर्ष दिविया꣡ व꣡सूनि  
 अभि꣡ वि꣡श्वा पा꣡र्थिवा पूय꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ आर्षेयं꣡ जमदग्निव꣡न् नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । येन॑ । द्रवि॑णम् । अ॒श्नवा॑म । अ॒भि । आ॒र्षे॒यम् । ज॒म॒द॒ग्नि॒ऽवत् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhī* ← *abhi*
 - \[adverb\]
@@ -114,20 +114,20 @@ genre M
 हे सोम पवित्रेण पूयमानस्त्वं दिव्या दिव्यानि दिविभवानि वसूनि धनानि नोस्माक मभ्यर्ष अभिगमय । तथा पार्थिवा पार्थिवानि पृथिव्याम्भवानि विश्वा सर्वाणि धनान्यभिगमय । तथा सेन त्वदीयेन सामर्थ्येन द्रविणं धनं वयमभ्यश्नवाम अभिव्याप्नुयाम तत्सा-मर्थ्यमभिगमय । किञ्च आर्षेयं आर्षाणामृषिपुत्राणां योग्यं धनं जमदग्निवत् जमदग्नेर्यथा त्वं- प्रापयः एवं नोस्माकमपि अभ्यर्ष । यद्वा आर्षेयं आर्षाणां योग्यं मन्त्रं जमदग्नेःस्वभूतम्मन्त्रं यथा स्वादुतममकार्षीः एवमस्माकं तादृशम्मन्त्रं स्वादुतमङ्कुर्विति कुत्सोनामऋषिःप्रार्थयते । ॥ ५१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring us celestial treasures, bring us all erthly (treasures) when you are purified; bring us (the ability) whereby we may acquire riches, make our sacred prayer (sweet) as **Jamadagni**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush toward heavenly goods for us, toward all earthly goods, while  being purified,  
 toward that by which we shall win property, (that is,) toward a seer’s  (portion) for us like that of Jamadagni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner again supplies “zu gewinnen” in both hemistichs. I once again see no reason to do so. He also takes the rel. cl. of c (yéna dráviṇam aśnávāma) as dependent on ā́rṣeyám: “um … uns den Namen eines R̥ṣi zu gewinnen, durch den wir zu Reichtum gelangen können.” This ignores the parallel abhí’s of cd and also assumes an embedded rel. cl. (though not all that embedded). Renou takes ārṣeyám as a 2nd obj. of aśnávāma: “afin que nous obtenions la richesse, afin l’état de Prophète …” This is somewhat less disruptive than Geldner’s, but assumes a purpose function for yéna that has no good precedent, as far as I know. My own interpr. - supplying a gapped acc. ‘that’ as antecedent for yéna -- seems minimally disruptive and assumes that the insistent structure with abhí arṣa ACC continues in this pāda. The same interpr. is found in Hettrich (Hypotaxe, 550-51): “(fliesse uns das) zu, wodurch wir Reichtum erlangen werden.” The interpr. of Geldner and Renou also minimize or ignore the only clever part of this tṛca, which provides a climax of sorts. With the pattern abhí (…) arṣa “rush towards …” inescapably established, the poet produces a phonological play on this phrase in the last pāda: abhy ārṣeyám, where the acc. goal, beginning ārṣ-, plays on the impv.
 
@@ -143,23 +143,23 @@ In contrast to the tṛcas with faint or no signs of cohesion, this one is over-
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send to us in a stream celestial riches, send us, when thou art cleansed, what earth containeth,  
      So that thereby we may acquire possessions and Rsihood in Jamadagni's manner.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe, um uns himmlische Güter, um alle irdischen Güter zu gewinnen, wann du geläutert wirst, um gleich Jamadagni uns den Namen eines Rishi zu gewinnen, durch den wir zu Reichtum gelangen können!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O ströme uns herbei des Himmels Güter und alle irdischen, o hellentflammter, Wie Dschamadagni ström' uns Sängergut her, durch das wir reichen Schatz erlangen mögen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Струи нам небесные блага,  
 Все (блага) земные, когда тебя очищают,  

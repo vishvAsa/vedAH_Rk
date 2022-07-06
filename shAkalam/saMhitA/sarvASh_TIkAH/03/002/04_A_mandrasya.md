@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ मन्द्र꣡स्य सनिष्य꣡न्तो व꣡रेणियं  
 वृणीम꣡हे अ꣡ह्रयं वा꣡जम् ऋग्मि꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्निं꣡ रा꣡जन्तं दिविये꣡न शोचि꣡षा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रा॒तिम् । भृगू॑णाम् । उ॒शिज॑म् । क॒विऽक्र॑तुम् । अ॒ग्निम् । राज॑न्तम् । दि॒व्येन॑ । शो॒चिषा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -112,42 +112,42 @@ genre M
 मन्द्रस्यस्तुत्यस्य वैश्वानरस्य सम्बन्धिनंवरेण्यंवरणीयं अह्रयंअलज्जावहं ऋग्मियम्प्रशस्यं वाज मन्नं सनिष्यन्तः लिप्समानावयं भृगूणांऋषीणां रातिं अभिलषितार्थप्रदातारं उशिजं आभिल ष्यं तं कविक्रतुङ्क्रान्तप्रज्ञं दिव्येनदिविभवेन शोचिषारोचिषा राजन्तम्भ्राजमानमग्निंआवृणीमहे सम्भजामहे ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desiring excellent food, inflicting no disgrace, we solicit the boon of the adorable (**Vaiśvānara**) from **Agni**, the benefactor of the **Bhṛgus**, the object of our desires, who is acquainted with past acts, and shines with celestial splendour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wanting to win it, we choose the desirable, audacious, verse-worthy prize  of the delighting (Agni),  
 the gift of the Bhr̥gus, the fire-priest with a poet’s resolve—Agni  
 (himself), who rules with his heavenly flame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eager to gain, we crave from him the friendly God strength confident, choiceworthy meet to be extolled:  
      The Bhrgus' bounty, willing, strong with sages' lore, even Agni shining forth with light that comes from heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Desirous of winning the choice, glorious, and praiseworthy prize (which is the gift) of the joy-giver, we choose the boon of the Bhrigus 1, the Usig 2, who has the mind of a sage, Agni, who reigns with his heavenly light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um ihn zu erringen suchen wir uns den ausgesuchten, nicht bescheidenen, preislichen Gewinn des wohlredenden Agni aus, die Gabe der Bhrigu´s, den Usij, der Sehergabe besitzt, den Agni, der mit himmlischer Glut der Opfer waltet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach Gut verlangend wünschen wir des freundlichen begehrungswerthen, reichen, preisenswerthen Schatz, Den holden Agni, den die Bhrigu's uns geschenkt, den einsichtsvollen, der mit Himmelsglanz erstrahlt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стремясь захватить (награду) веселого (бога),  
 Мы выбираем награду, достойную выбора, нескаредную, заслуживающую гимна.  

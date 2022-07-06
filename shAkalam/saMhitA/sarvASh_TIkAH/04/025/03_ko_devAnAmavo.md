@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ देवा꣡नाम् अ꣡वो अद्या꣡ वृणीते  
 क꣡ आदित्याँ꣡ अ꣡दितिं ज्यो꣡तिर् ईट्टे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अंशोः꣡ पिबन्ति म꣡नसा꣡विवेनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कस्य॑ । अ॒श्विनौ॑ । इन्द्रः॑ । अ॒ग्निः । सु॒तस्य॑ । अं॒शोः । पि॒ब॒न्ति॒ । मन॑सा । अवि॑ऽवेनम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **अद्य** अस्मिन् दिने **कः** यजमानः **देवानां** द्योतमानानामिन्द्रादीनाम् **अवः** रक्षणं **वृणीते** प्रार्थयते । **क** **आदित्यान्** देवान् **अदितिं** देवमातरं च **ज्योतिः** उदकं च **ईट्टे** याचते । **अश्विनौ** अश्विदेवौ **इन्द्रः** च **अग्निः** च **मनसा** स्तुत्या प्रीताः सन्तः **अविवेनम्** अविगतकामम् । यथाकाममित्यर्थः । **कस्य** यजमानस्य संबन्धिनं **सुतस्य** अभिषुतस्य **अंशोः** सोमस्य । सोममित्यर्थः । **पिबन्ति** पानं कुर्वन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,36 +133,36 @@ genre M
 Light: jyotir; this is explained as water, jyotir udakam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who chooses the help of the gods today? Who reverently invokes the  Ādityas and Aditi for light?  
 Of whose pressed soma-plant do the Aśvins, Indra, and Agni drink  without losing track in their mind?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ávivenam / ávivenan see comm. ad IV.24.6. Assuming the -am form is correct here, it would be an absolutive in -am. In IV.24.6 the same expression mánasā́vivenan/m qualified the mortal worshiper (acdg. to most -- see disc. there).
 
 Here it seems to qualify the gods. However, it is just possible that as an adverbial absolutive it could refer to the mortal worshiper, represented by kásya: “the pressed soma plant of which (mortal), never losing track in his mind, do …” The fact that until this sentence the mortal had appeared in the nom. káḥ could contribute to the somewhat mixed construction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who claims to-day the Deities' protection, asks Aditi for light, or the Adityas?  
      Of whose pressed stalk of Soma drink the Asvins, Indra, and Agni, well-inclined in spirit?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer bittet sich heute die Gunst der Götter aus, wer ruft die Aditya´s, die Aditi um ihr Licht an? Bei wem trinken von dem ausgepreßten Stengel die Asvin, Indra, Agni von Herzen, nicht unlustig?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer wünschet heute sich der Götter Hülfe? fleht Aditi um Licht und die Aditja's? Und wessen schön gebrauten Soma trinken die Ritter, Indra, Agni holden Geistes?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто сегодня выбирает помощь богов?  
 Кто просит Адитьев, Адити о свете?  

@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡जानाव् अ꣡नभिद्रुहा  
 ध्रुवे꣡ स꣡दसि उत्तमे꣡  
 सह꣡स्रस्थूण आसते°
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 स॒हस्र॑ऽस्थूणे । आ॒सा॒ते॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rājānāv* ← *rājānau* ← *rājan*
 - \[noun\], nominative, dual, masculine
@@ -78,41 +78,41 @@ genre M
 राजानौईश्वरौदीप्यमानौवा अनभिद्रुहा अनभिद्रोग्धारौयौ मित्रावरुणौध्रुवेस्थिरे उत्तमे उत्कृष्टे सहस्रस्थूणे बहुस्तम्भे सदसिस्थाने आसाते उपविशतः तावागच्छतमितिशेषः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sovereigns, exercising no oppression, sit down in this substantial and elegant hall, (built) with a thousand columns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two kings without deceit—in the highest, steadfast seat  
 with its thousand pillars they sit.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the phonological echo across the pāda boundary: … druhā, dhruvé …
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Both Kings who never injure aught seat them in their supremest home,  
      The thousand-pillared, firmly-based.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Könige, frei von Trug, sitzen am dauernden höchsten Sitz, der tausend Säulen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die beiden Herrscher, unverletzt, auf höchstem Sitze thronen sie, Auf festem tausendsäuligen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два царя, не терпящих обмана,  
 Восседают на прочном сидении,  

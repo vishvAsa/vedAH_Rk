@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने त्व꣡चं यातुधा꣡नस्य भिन्धि  
 हिंस्रा꣡श꣡निर् ह꣡रसा हन्तु एनम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्रव्या꣡त् क्रविष्णु꣡र् वि꣡ चिनोतु वृक्ण꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्र । पर्वा॑णि । जा॒त॒ऽवे॒दः॒ । शृ॒णी॒हि॒ । क्र॒व्य॒ऽअत् । क्र॒वि॒ष्णुः । वि । चि॒नो॒तु॒ । वृ॒क्णम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -118,36 +118,36 @@ popular
 हे **जातवेदः** जातधन जातप्रज्ञ वा **अग्ने** त्वं **यातुधानस्य** राक्षसस्य **त्वचं** **भिन्धि** दारय। **एनं** भिन्नत्वचं यातुधानं **हिंस्रा** हिंसनशीलं तव **अशनिः** वज्रं **हरसा** तापेन **हन्तु** हिनस्तु । हतस्य राक्षसस्य **पर्वाणि** शरीरपर्वाणि च **प्र** **शृणीहि** छिन्द्धीत्यर्थः। छिन्नेषु च शरीरसंधिषु सत्सु **वृक्णं** छिन्नसंधिमेनं यातुधानं **क्रविष्णुः** मांसमिच्छन्  **क्रव्यात्** मांसभक्षको वृकादिः **वि** **चिनोतु**  भक्षयत्वित्यर्थः ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** **Jātavedas**, cut through the skin of the **yātudhānas**, let your destructive thunderbolt destroyhim with its fire; sever his joints, may the flesh-desiring flesh-eater devour his mutilated body.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, split the skin of the sorcerer. Let the murderous (arrow-)point  smite him with its blaze.  
 Cleave his joints, Jātavedas. When he is hewn apart, let the flesh-eater,  craving his bloody flesh, open him up.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pierce through the Yatudhana's skin, O Agni; let the destroying dart with fire consume him.  
      Rend his joints, Jatavedas, let the cater of flesh, flesh-seeking, track his mangled body.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, spalte die Haut des Zauberers; der mörderische Blitzstein soll ihn mit seiner Glut erschlagen! Zerbrich, Jatavedas, seine Gelenke; den Zerstückten soll das fleischgierige Raubtier verstreuen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zerschlitz die Haut des Zauberers, o Agni, der Todespfeil durchbohr ihn mit der Flamme; Zerhau, o Wesenkenner, die Gelenke, und den zerstückten fress der Fleischverzehrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, разорви шкуру колдуна!  
 Пусть разящая громовая стрела убьет его жаром!  

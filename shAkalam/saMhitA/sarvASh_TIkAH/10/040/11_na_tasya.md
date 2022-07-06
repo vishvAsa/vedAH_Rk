@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त꣡स्य विद्म त꣡द् उ षु꣡ प्र꣡ वोचत  
 यु꣡वा ह य꣡द् युवत्याः꣡ क्षे꣡ति यो꣡निषु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 गृहं꣡ गमेम अश्विना त꣡द् उश्मसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्रि॒यऽउ॑स्रियस्य । वृ॒ष॒भस्य॑ । रे॒तिनः॑ । गृ॒हम् । ग॒मे॒म॒ । अ॒श्वि॒ना॒ । तत् । उ॒श्म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -149,36 +149,36 @@ genre M
 हे **अश्विना** अश्विनौ तस्य **तत्** सुखं वयं **न** **विद्म** न जानीमः। तत्सुखं यूयं **सु** सुष्ठु **प्र** **वोचत** । बहुवचनं पूजार्थम् । **युवा** **ह** तरुणः खलु मत्पतिः **युवत्याः** यौवनान्विताया मम **योनिषु** गृहेषु **यत्** **क्षेति** निवसतीति । किंच **प्रियोस्रियस्य** प्रिययुवतेः **वृषभस्य** सेक्तुः **रेतिनः** रेतस्विनो मत्पतेः **गृहं** **गमेम** गच्छेम । वयं **तत्** गृहम् **उश्मसि** कामयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We do not know this (happiness) of his; do you, (**Aśvins**), clearly explain how it is that the young(husband) dwells in the bride's house; let us, Aśvins, go the dwelling of (my) dear youthful, vigorous, and manlyhusband; this is our desire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We do not know this—proclaim it to us—how a young man dwells  peacefully in the womb of a young woman.  
 Might we go to the house of the seed-laden bull who has a ruddy cow  as his beloved, o Aśvins. We are eager for this.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of this we have no knowledge. Tall it forth to us, now the youth rests within the chambers of the bride.  
      Fain would we reach the dwelling of the vigorous Steer who loves the kine, O Asvins: this is our desire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir kennen das nicht, versprechet uns das fein, daß ein Jüngling im Schoße der Jungfrau ruhe! Wir möchten in das Haus eines besamenden Stieres gelangen, der die Kühe lieb hat, o Asvin. Dies wünschen wir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Davon wissen wir nicht, das verkündet uns schön, wie der Jüngling in der Jungfrau Lager ruht, wir möchten gelangen in des samenreichen Stieres Haus, der die Kühe liebt, o Açvinen, das wünschen wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы не знаем этого – расскажите же (нам) хорошенько, -  
 (Как это бывает), что юноша находится в лоне девицы.  

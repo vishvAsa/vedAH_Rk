@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुष्वाणा꣡सो वि꣡ अ꣡द्रिभिश्  
 चि꣡ताना गो꣡र् अ꣡धि त्वचि꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡म् अस्वरन् वसुवि꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इष॑म् । अ॒स्मभ्य॑म् । अ॒भितः॑ । सम् । अ॒स्व॒र॒न् । व॒सु॒ऽविदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suṣvāṇāso* ← *suṣvāṇāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
@@ -98,7 +98,7 @@ genre M
 **गोः** अनडुहः **अधि** **त्वचि** अधिषवणचर्मणि **चितानाः** ज्ञायमानाः **अद्रिभिः** ग्रावभिर्विविधं **सुष्वाणासः** सूयमानाः **वसुविदः** वसुनो लम्भका एते सोमाः **अस्मभ्यम्** **इषम्** अन्नम् **अभितः** **समस्वरन्** सम्यक् शब्दयन्ति । प्रयच्छन्तीति यावत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,12 +109,12 @@ genre M
 They bestow food upon us: samasvaran = liṭ, they sounded food for us
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having been pressed by the stones, conspicuous on the hide of the cow, the finders of goods have roared together from all around toward  refreshment for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. shows a few minor disturbances. To begin with, the employment of the preverb / particle ví is unclear. Grassmann takes it with the pf. part. suṣvānā́saḥ, which it immed. follows, but √su is not otherwise found with ví. Moreover, tmesis of preverbs with participles is fairly rare, though at least here the two forms are adjacent. Renou construes it with the aor. part. cítānāḥ in b; here the problem is opposite: ví √cit is indeed an idiom, but not only is tmesis in participles rare, but the position of ví, if it’s a preverb in tmesis, would be anomalous: mid-pāda and not only separated from its participle, but also intrusive in a consituent: suṣvānā́saḥ … ádribhiḥ “having been pressed by stones.” I don’t have a real solution, but I wonder if it’s meant to evoke the “through/across the sheep’s fleece” expression, found, e.g., in nearby IX.100.4 … vy àvyáyam (cf. also IX.13.6, 49.4, 61.17, 67.5, 85.5, 97.56, 109.16). It is also possible that ví .. cítānāḥ somehow anticipates vipaścítaḥ in the next vs. (12a), but this seems a long shot.
 
@@ -135,23 +135,23 @@ Again no particular signs of cohesion, save for the X-víd- ‘finding X’ cmpd
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effused by means of pressing-stones, upon the ox-hide visible,  
      They, treasure-finders, have announced food unto us from every side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den Steinen ausgepreßt machen sie sich auf der Kuhhaut bemerkbar; sie rauschten uns von überall her Labsal zusammen, Gutes findend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, von den Steinen ausgepresst, hellleuchtend auf der Rinderhaut, Sie rauschen jetzt uns Labetrunk herbei, die Schätze-spendenden,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатые давильными камнями,  
 Заметные на шкуре коровы,  

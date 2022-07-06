@@ -8,7 +8,7 @@ title = "+060"
 ‘प्र गायत्रेण' इति चतुर्ऋचं षट्त्रिंशं सूक्तं काश्यपस्यावत्सारस्यार्षम्। तृतीया पुरउष्णिगाद्यद्वादशका द्व्यष्टका । शिष्टा गायत्र्यः । पवमानः सोमो देवता । तथा चानुक्रान्तं- प्र गायत्रेणोपान्त्या पुरउष्णिक्' इति । उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 60 (772)  
 Soma Pavamāna  
@@ -18,7 +18,7 @@ A satisfyingly tight structure knits together this little hymn. The first and la
 The hymn also has extra-hymnic structural echoes: its final pāda is identical to  the final pāda of the first verse of the preceding hymn (IX.59.1), ascribed to the  same poet, save for “semen” in place of “treasure.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the structure of this hymn, see published introduction.
 

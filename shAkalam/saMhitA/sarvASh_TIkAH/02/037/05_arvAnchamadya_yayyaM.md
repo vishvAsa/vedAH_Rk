@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वा꣡ञ्चम् अद्य꣡ ययि꣡यं नृवा꣡हणं  
 र꣡थं युञ्जाथाम् इह꣡ वां विमो꣡चनम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡था सो꣡मम् पिबतं वाजिनीवसू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पृ॒ङ्क्तम् । ह॒वींषि । मधु॑ना । आ । हि । क॒म् । ग॒तम् । अथ॑ । सोम॑म् । पि॒ब॒त॒म् । वा॒जि॒नी॒व॒सू॒ इति॑ वाजिनीऽवसू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvāñcam* ← *arvāñc*
 - \[noun\], accusative, singular, masculine
@@ -120,41 +120,41 @@ genre M
 हेअश्विनौ अद्यास्मिन्नहनि यय्यंययिङ्गन्तारं नृवाहणं न्त्रोर्युवयोर्वोढारं इहयज्ञे वांयुवयोर्वि मोचनं विमोचयितारं रथंअर्वाञ्चं यथार्वाग्भवति तथा युञ्चाथां किञ्च मधुनास्वादुरसेन हवींषि पृङ्क्तं संयोजयतं अथच आगतं आगच्छतं हिकमितिपूरणे अथानन्तरं हेवाजिनीवसूवाजएववा जिनी अन्नेनवासयितारौ बलवर्धनौवा सोमम्पिबतम् ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Yoke today, **Aśvins**, your rolling car conveying (you), the leaders (of the rite); and setting yu down before us; mix the oblations with the sweet juice; come you are affluent with (abundant) food, and drink the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two, today yoke your coursing, man-conveying chariot in our  direction: here is your unhitching.  
 Mix the oblations with honey. Come hither! Then drink the soma, you  who possess prizewinning mares. [=Aśvins]
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another ex. of hí with the first of two imperatives, providing the grounds for the second action. See II.36.3. Note also that although hí is found deep in its pāda, it is actually in 2nd position, since a new clause begins with ā́. For the curious behavior of hí kam see comm. ad VI.51.14.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yoke, O ye Twain, to-day your hero-bearing car, swift-moving hitherward: your loosing-place is here.  
      Mix the oblations, then come hither with the meath, and drink the Soma, ye rich in abundant strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schirret beide heute den eilenden, männerführenden Wagen an, daß er die Richtung zu uns nehme! Hier ist euer Ausspann. Durchtränket die Opfergaben mit Süßigkeit, kommt darum her und trinket den Soma, ihr Gewinnreiche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, rüstet euch den Wagen, der euch Ritter fährt, der schnell sich nahet, hier ist eure Einkehr heut; Benetzt mit Meth die Speisen, denn ihr kommt herbei, und trinkt den Soma, die ihr reich an Gütern seid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запрягайте вы двое сегодня быструю колесницу, везущую мужей,  
 Чтоб она ехала к нам! Здесь вы (ее) распрягайте!  

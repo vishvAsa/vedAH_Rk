@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देव꣡स्य वयं꣡ सवितुः꣡ स꣡वीमनि  
 श्रे꣡ष्ठे सियाम व꣡सुनश् च दाव꣡ने  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 निवे꣡शने प्रसवे꣡ चा꣡सि भू꣡मनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । विश्व॑स्य । द्वि॒ऽपदः॑ । यः । चतुः॑ऽपदः । नि॒ऽवेश॑ने । प्र॒ऽस॒वे । च॒ । असि॑ । भूम॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
@@ -124,20 +124,20 @@ genre M
 तस्य **देवस्य** **सवितुः** प्रेरकस्य **सवीमनि** प्रसवेऽनुज्ञाने। तथा च यास्कः - सवीमनि प्रसवे ' ( निरु. ६ . ७ ) इति । **श्रेष्ठे** अतिशयेन प्रशस्ते **वसुनः** धनस्य **दावने** दाने **च** **स्याम** समर्था भूयास्म । **यः** त्वं **विश्वस्य** सर्वस्य **द्विपदः** **निवेशने** स्थितौ **प्रसवे** **च** स्वतन्त्रः **असि** । **यः** त्वं **भूमनः** भूरेः **चतुष्पदः** निवेशने प्रसवे च स्वतन्त्रोऽसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we be among the progeny of the divine **Savitā**, and (have power) to offer him most excellent donations; for you are he who (are absolute) in the procreation and perpetuation of many (living beings), bipeds and quadrupeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we be (there) at the best impulsion of the god Savitar and for his  giving of goods—  
 you [=Savitar] who are (busy) at bringing to rest and at impelling forth  the whole two-footed and four-footed creation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Here the verb in a, vāsáyathaḥ, is accented because it follows the extrasentential voc. índrāsomā and therefore effectively begins the vs. The first hemistich describes dawn and the sunrise in the pres. tense as repeated daily events. The 2nd hemistich by contrast recounts the original separation of Heaven and Earth. The 2nd verb in this hemistich, the augmented impf. áprathatam (d), clearly locates the action in the past. The previous verb, skambháthuḥ (c), is formally anomalous. It is generally identified as a non-reduplicated pf. (so explicitly Grassmann; listed with the pf. by Whitney [Roots], Macdonell [VGS]; by implication Renou) because of its clear 3rd du. pf. ending. But in addition to its lack of redupl., its full-gr. root syllable is unexpected. Kümmel treats the form in some detail (574), both functionally and formally. Since in the end he decides it is not built to the pf. stem, he begins by trying to deny that it has past value, despite the following augmented impf., suggesting rather that it can have “generell-zeitlos” sense. This (in his view) opens the door to taking it as an injunctive, probably to a root aorist. It then owes its pf.- type ending to analogic spread from the equally non-reduplicated 3rd pl. skambhur (X.65.4), whose ending could belong to the pf. or, possibly, to an aorist. Since the conceptual structure of the vs., with the actions of ab contrasting with those of cd, imposes (in my view) a preterital sense on skambháthuḥ, I am not persuaded by Kümmel’s general/timeless interpr. But, on the other hand, I don’t need to be: Kümmel is still under the sway of the Hoffmannian interpr. of the injunctive, but this straitjacket of a linguistically implausible verbal “category” should not limit our readings of this maximally unmarked form-type, and there is, in my view, abundant evidence for injunctives used as straight preterites. I am therefore willing to accept that skambháthuḥ (and skambhuḥ) somehow reflect an aorist, which the root otherwise lacks, and a root aorist might be expected beside the nasal pres. skabhnā́ti, as Kümmel points out. He provides what seems to me an overly complex analogic explanation for the full-grade root syllable, which can simply result from a formal match with the immediately following cognate instr. skámbhanena. (It might be noted that a putative
 
@@ -145,28 +145,28 @@ Here the verb in a, vāsáyathaḥ, is accented because it follows the extrasent
 is right in the middle of its clause, preceded by a tonic preverb and a tonic object, so the explanations for the accents of vividáthuḥ (1c) and vāsáyathaḥ (2a) are not applicable. Perhaps it acquired its accent redactionally because the reasons for the accents of those two verbs were no longer clear.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we enjoy the noblest vivifying force of Savitar the God, that he may give us wealth:  
      For thou art mighty to produce and lull to rest the world of life that moves on two feet and on four.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May we possess god Savitar's most excellent Impulsion, and enjoy his lavish gifts of wealth. Thou art the god who sends to rest and wakes in turn To life the whole two-footed and four-footed world.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen unter des Gottes Savitri bester Anweisung stehen und zum Schenken des Gutes ausersehen sein, der du die ganze Erde, Zweifüßler und Vierfüßler, zur Ruhe zu bringen und aufzutreiben da bist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns sei ein Antheil an des Gottes Savitar heilsamster Spende, dass wir reiches Gut empfahn; Der alles, was der Füsse zwei und viere hat, zur Ruh du bringst und wieder weckst die Lebenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будем мы (под властью) лучшего побуждения  
 Бога Савитара и (предназначены,) чтоб он нам дал богатство,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्तभ्नाद् द्या꣡म् अ꣡सुरो विश्व꣡वेदा  
 अ꣡मिमीत वरिमा꣡णम् पृथिव्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे꣡त् ता꣡नि व꣡रुणस्य व्रता꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । अ॒सी॒द॒त् । विश्वा॑ । भुव॑नानि । स॒म्ऽराट् । विश्वा॑ । इत् । तानि॑ । वरु॑णस्य । व्र॒तानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *astabhnād* ← *astabhnāt* ← *stambh*
 - \[verb\], singular, Imperfect
@@ -117,36 +117,36 @@ genre M
 **विश्ववेदाः** विश्वधनः **असुरः** बलवान् वरुणः **द्याम्** **अस्तभ्नात्** । तथा **पृथिव्याः** च **वरिमाणं** परिमाणम् **अमिमीत** चक्रे । एवं निर्मितानि **विश्वा** सर्वाणि **भुवनानि** **सम्राट्** भूत्वा **आसीदत्** च अध्यतिष्ठच्च । **वरुणस्य** **तानि** एतानि **व्रतानि** कर्माणि **विश्वेत्** विश्वान्येव । अतो वर्णयितुमशक्यानीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The possessor of all wealth, the powerful **Varuṇa**, has fixed the heaven; he has meted the measure ofthe earth; he presides as supreme monarch over all worlds; these all are the functions of Varuṇa”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He propped up heaven—the lord who possesses all possessions—he  measured out the expanse of the earth;  
 the sovereign king made all the living worlds his seat. All these are the  commandments of Varuṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LORD of all wealth, the Asura propped the heavens, and measured out the broad earth's wide expanses.  
      He, King supreme, approached all living creatures. All these are Varuna's holy operations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der allwissende Asura hat den Himmel gestützt und die Ausdehnung der Erde abgemessen. Alle Welten nahm der Oberkönig in Besitz. All dies sind Varuna´s Obliegenheiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise Gott befestigte den Himmel und mass rings aus der weiten Erde Umfang; In alle Wesen senkte sich der Allherr; das alles ist durch Varuna vollendet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он укрепил небо, (этот) всеведущий Асура,  
 Он измерил протяженность земли.  

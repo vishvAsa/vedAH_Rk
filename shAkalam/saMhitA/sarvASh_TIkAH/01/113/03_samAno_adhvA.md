@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समानो꣡ अ꣡ध्वा स्व꣡सरोर् अनन्त꣡स्  
 त꣡म् अन्या꣡न्या चरतो देव꣡शिष्टे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡क्तोषा꣡सा स꣡मनसा वि꣡रूपे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । मे॒थे॒ते॒ इति॑ । न । त॒स्थ॒तुः॒ । सु॒मेके॒ इति॑ सु॒ऽमेके॑ । नक्तो॒षसा॑ । सऽम॑नसा । विरू॑पे॒ इति॒ विऽरू॑पे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samāno* ← *samānaḥ* ← *samāna*
 - \[noun\], nominative, singular, masculine
@@ -123,41 +123,41 @@ genre M
 **स्वस्रोः** भगिन्योः रात्र्युषसोः **अध्वा** संचरणसाधनभूतो मार्गः **समानः** एक एव । येनैव आकाशमार्गेणोषा निर्गच्छति तेनैव रात्रिरपि । स च मार्गः **अनन्तः** अवसानरहितः । **तं** मार्गं **देवशिष्टे** देवेन द्योतमानेन सूर्येण अनुशिष्टे शिक्षिते सत्यौ **अन्यान्या** एकैका **चरतः** क्रमेण गच्छतः । अपि च **सुमेके** शोभनमेहने सर्वेषामुत्पादकत्वात् शोभनप्रजनने **नक्तोषासा** रात्रिरुषाश्च **विरूपे** तमःप्रकाशलक्षणाभ्यां विरुद्धरूपाभ्यां युक्ते अपि **समनसा** समानमनस्के ऐकमत्यं प्राप्ते सत्यौ **न** **मेथेते** परस्परं न हिंस्तः । तथा **न** **तस्थतुः** क्वचिदपि न तिष्ठतः । सर्वदा लोकानुग्रहार्थं गच्छतः इत्यर्थः ॥ अन्यान्या ।' कर्मव्यतिहारे सर्वनाम्नो द्वे भवत इति वक्तव्यं समासवच्च बहुलम् ' ( पा. म. ८. १. १२. ११ ) इति अन्यशब्दस्य द्विर्भावः । तस्य परमाम्रेडितम् ' इति आम्रेडितसंज्ञायाम् ‘अनुदात्तं च ' इति आम्रेडितानुदात्तत्वम् । देवशिष्टे । **शासु** अनुशिष्टौ' । अस्मात् कर्मणि निष्ठा ।' यस्य विभाषा ' इति इट्प्रतिषेधः ।  ‘ शास इदङ्हलोः ' (पा. सू. ६. ४. ३४) इति उपधाया इत्वम् । शासिवसिघसीनां च ' इति षत्वम् । तृतीया कर्मणि ' इति पूर्वपदप्रकृतिस्वरत्वम् । मेथेते । मिथृ मेथृ मेधाहिंसनयोः'। भौवादिकः । अनुदात्तेत् । सुमेके। ‘मिह सेचने'। भावे घञ् । शोभनो मेहो ययोस्ते । व्यत्ययेन ककारः। उत्तरपदस्य ञित्स्वरेणाद्युदात्तत्वम्। ' आद्युदात्तं द्व्यच्छन्दसि ' इत्युत्तरपदाद्युदात्तत्वम् । नक्तोषासा। ‘सुपां सुलक्' इति विभक्तेराकारः। अन्येषामपि दृश्यते' इति संहितायामुपधादीर्घः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The path of the sisters is unending; they travel it alternately, guided by the radiant (sun); combined in purpose, though of different forms, night and dawn, giving birth (to all things), obstruct not eachother, neither do they stand still.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The road is the same for the two sisters—unending. They proceed on it,  one after the other, commanded by the gods.  
 They do not oppose each other, nor do they stand still, though well  grounded—Night and Dawn, of like mind but different form.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Common, unending is the Sisters' pathway; taught by the Gods, alternately they travel.  
      Fair-formed, of different hues and yet one-minded, Night and Dawn clash not, neither do they travel.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The sisters' pathway is the same, unending: Taught by the gods alternately they tread it. Fair-shaped, of form diverse, yet single-minded, Morning and Night clash not, nor do they tarry.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beider Schwestern Weg ist der gleiche endlose; den wandeln sie eine um die andere von den Göttern gewiesen. Sie kommen nicht in Streit, sie bleiben nicht stehen, den richtigen Abstand einhaltend. Nacht und Morgen sind gleichen Sinnes und doch von ungleicher Farbe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Nacht, des Morgens Weg ist gleich und endlos, gelehrt von Göttern gehn sie nacheinander, Nicht stehn sie still, noch stossen sich die hehren, an Farbe ungleich, gleich an Sinn, die Schwestern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Общий путь у двух сестер, бесконечный.  
 По нему странствуют они одна за другой, наученные богом.  

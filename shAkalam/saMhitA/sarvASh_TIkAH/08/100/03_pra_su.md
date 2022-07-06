@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सु꣡ स्तो꣡मम् भरत वाजय꣡न्त  
 इ꣡न्द्राय सत्यं꣡ य꣡दि सत्य꣡म् अ꣡स्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡ ईं ददर्श क꣡म् अभि꣡ ष्टवाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 न । इन्द्रः॑ । अ॒स्ति॒ । इति॑ । नेमः॑ । ऊं॒ इति॑ । त्वः॒ । आ॒ह॒ । कः । ई॒म् । द॒द॒र्श॒ । कम् । अ॒भि । स्त॒वा॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -144,41 +144,41 @@ popular
 हे जनाः **वाजयन्तः** संग्राममिच्छन्तो यूयम् ।' पौंस्यै वाजे' इति संग्रामनामसु पाठात् । **इन्द्राय** **सत्यं** सत्यभूतं **स्तोमं** **सु** सुष्ठु **प्र** **भरत** । इन्द्रोऽस्तीत्येतत् **यदि** **सत्यमस्ति** भवति । इन्द्रास्तित्वे कः संदेहः । तत्राह। **नेम** **उ** भार्गवो नेम एव **इन्द्रः** नाम **त्वः** कश्चित् **न** **अस्ति** इति **आह** । तत्र कारणं दर्शयति । **क** **ईम्** एनमिन्द्रं **ददर्श** अद्राक्षीत्। न कोऽप्यपश्यत् । अतः **कं** वयम् **अभि** **ष्टवाम** अभिष्टुमः । तस्मादिन्द्रो नाम कश्चिद्विद्यत इति वादमात्रं न तु तत्सत्यमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer fervently, may war-loving companions, true praise to **Indra**, if he truly exists; **Nema** says, "verilythere is no Indra", who has ever seen him? Whom shall we praise?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Singer:] “Proffer praise as you all seek the prize—real praise to Indra,  if he is the real thing.  
 ‘Indra does not exist,’ so says many a one. ‘Who has seen him? Whom  shall we praise?’”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Despite the gender, I take the second satyám in pāda b as equated with Indra, contrary to Geldner, who interprets it implicitly as referring to the true praise (stómam … satyám) earlier in the hemistich or to truth in general: “… ein Loblied …, ein wahrhaftes, wenn es Wahrheit ist.” Lüders (Varuṇa, 639) argues convincingly that the second hemistich supports the reference of the conditional clause in b, yádi satyám ásti, to Indra and tr. “wenn er wirklich ist” (somewhat different tr. p. 566).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Striving for strength bring forth a laud to Indra, a truthful hymn if he in truth existeth.  
      One and another say, There is no Indra. Who hath beheld him? Whom then shall we honour?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet fein nach dem ersten Preise strebend dem Indra ein Loblied dar, ein wahrhaftes, wenn es Wahrheit ist! "Es gibt keinen Indra", so sagt manch einer. "Wer hat ihn gesehen, wen sollen wir also preisen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach Gut verlangend bringt nun euer Loblied dem Indra, wenn die Wahrheit anders wahr ist; »Es ist kein Indra«, also sagen manche, »wer sah ihn denn? was sollen wir ihn preisen?«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стремясь к награде, вознесите хорошенько хвалу  
 Для Индры, истинную, если истинная существует!  

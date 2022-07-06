@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡काचेतत् स꣡रस्वती नदी꣡नां  
 शु꣡चिर् यती꣡ गिरि꣡भ्य आ꣡ समुद्रा꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घृत꣡म् प꣡यो दुदुहे ना꣡हुषाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 रा॒यः । चेत॑न्ती । भुव॑नस्य । भूरेः॑ । घृ॒तम् । पयः॑ । दु॒दु॒हे॒ । नाहु॑षाय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekācetat* ← *ekā* ← *eka*
 - \[noun\], nominative, singular, feminine
@@ -113,7 +113,7 @@ genre M
 सहस्रवत्सरेण क्रतुना यक्ष्यमाणो नाहुषो नाम राजा सरस्वतीं नदीं प्रार्थयामास । सा च तस्मै सहस्रसंवत्सरपर्याप्तं पयो घृतं च प्रददौ । अथमर्थोऽत्र प्रतिपाद्यते । नदीनाम् अन्यासां मध्ये **शुचिः** शुद्धा **गिरिभ्यः** सकाशात् **आ** **समुद्रात्** समुद्रपर्यन्तं **यती** गच्छन्ती **एका** **सरस्वती** नदी **अचेतत्** । नाहुषस्य प्रार्थनामज्ञासीत् । तथा **भुवनस्य** भूतजातस्य **भूरेः** बहुलस्य **रायः** धनानि **चेतन्ती** प्रज्ञापयन्ती प्रयच्छन्ती **नाहुषाय** राज्ञे **घृतं** पयः च सहस्रसंवत्सरक्रतोः पर्याप्तं **दुदुहे** दुग्धवती दत्तवती ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 Milked for him:the legend is that king **Nahuṣa**, before performing a sacrifice for a thousand years, prayed to Sarasvatī, whogave him butter and water, or milk, sufficient for that period
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Alone of the rivers, Sarasvatī shows clear, as she goes gleaming from the  mountains all the way to the sea.  
 Taking note of the abundant wealth of the world, she has milked out  ghee and milk for the Nāhuṣa.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 By my interpr. (as well as the standard ones), this vs. contains two forms of the act. pres. stem céta-, 3rd sg. cetat (or acetat: see immed. below) in pāda a and part.
 
@@ -139,23 +139,23 @@ cétantī in c. The first is found in the sequence ékācetat, analyzed by the P
 138] also assigns different functions to the two forms.) The intrans. use of cetat is supported by cetati in the same usage in the next hymn (VII.96.3).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pure in her course from mountains to the ocean, alone of streams Sarasvati hath listened.  
      Thinking of wealth and the great world of creatures, she poured for Nahusa her milk and fatness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einzig unter den Strömen hat sich Sarasvati hervorgetan, von den Bergen zum Meer klar fließend, den Reichtum der vielgestaltigen Welt kennend, spendet sie Schmalz und Milch dem Nahusstamm.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sarasvati allein erschien als reinste der Fluten vom Gebirg' zum Meere strömend; Des Reichthums achtend und des weiten Weltalls, strömt Milch und Fett sie zu den Uferwohnern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одна среди рек выделилась Сарасвати,  
 Стекая с гор, чистая, к морю.  

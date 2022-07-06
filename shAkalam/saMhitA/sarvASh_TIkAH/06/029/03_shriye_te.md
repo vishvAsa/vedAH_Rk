@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रिये꣡ ते पा꣡दा दु꣡व आ꣡ मिमिक्षुर्  
 धृष्णु꣡र् वज्री꣡ श꣡वसा द꣡क्षिणावान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सु꣡वर् ण꣡ नृतव् इषिरो꣡ बभूथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वसा॑नः । अत्क॑म् । सु॒र॒भिम् । दृ॒शे । कम् । स्वः॑ । न । नृ॒तो॒ इति॑ । इ॒षि॒रः । ब॒भू॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
@@ -128,7 +128,7 @@ genre M
 हे इन्द्र **श्रिये** ऐश्वर्यार्थं **ते** त्वदीययोः **पादा** पादयोः **दुवः** परिचरणम् **आ** **मिमिक्षुः** आसिञ्चन्ति समर्पयन्ति । भरद्वाजः समर्पयति । व्यत्ययेन बहुवचनम् । यद्वा । ते तव पादौ श्रिये श्रयितुं सेवितुं दुवः परिचरणम् आ सिञ्चन्ति अनुतिष्ठन्ति । यस्त्वं **शवसा** बलेन **धृष्णुः** शत्रूणां धर्षकः **वज्री** वज्रवान् **दक्षिणावान्** । दक्षिणा स्तोतृभ्यो दातव्यं धनम् । तद्वान् हे **नृतो** नेतरिन्द्र स त्वं **सुरभिं** प्रशस्तम् **अत्कं** सततगमनशीलमात्मीयं रूपं **दृशे** सर्वेषां दर्शनार्थं **वसानः** आच्छादयन् **स्वर्ण** सूर्य इव **इषिरः** गन्तैषणीय वा **बभूथ** भवसि । कमिति पूरकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,7 +139,7 @@ genre M
 Vasāno atkam surabhim = satatagamanaśīlam praśastam rūpam sarveṣām darśanārtham ācchādayan, putting on, for the sake of the seeing of all, an excellent form endowed with perpetual movement
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For your glory do our friendly services firmly attach themselves to your  two feet [=do homage]. As the bold mace-bearer, (you) provide the  
 priestly gift;  
@@ -147,7 +147,7 @@ wearing a fragrant cloak, (lovely) to be seen like the sun, you have
 become vigorous, o dancer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The content of this vs. is somewhat illuminated by the similar account of the Śuṣṇa battle and the theft of the sun’s wheel in IV.16.9-14, esp. vs. 12, as Oldenberg and Geldner point out.
 
@@ -165,23 +165,23 @@ A new clause begins in the middle of pāda c, introduced by ádha and containing
 well-known sandhi rule. This interpr. is followed by Geldner and Klein; cf. Klein “Thou has set aright the damages.” But as in I.69.8 (q.v.) I follow Oldenberg (accepted also by Hoffmann) in reading áviver ápāṃsi, with ápas- ‘labor’. This does not require alteration of the Saṃh. text.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy devotees embrace thy feet for glory. Bold, thunder-armed, rich, through thy strength, in guerdon,  
      Robed in a garment fair as heaven to look on, thou hast displayed thee like an active dancer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir zu Ehren kommen die Huldigungen zu deinen Füßen. Der mutige Keulenträger ist durch seine Macht ein Lohnausteiler. In ein duftiges Gewand sich kleidend, wie die Sonne anzusehen, bist du eilig zum Tänzer geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu deinen Füssen schimmern lieblich Gaben, du kühner Blitzer, Kraft in deiner Rechten, Umhüllt vom Mantel, welcher schön zu schau'n ist, warst prächtig du, wie Himmelsglanz, o Tänzer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для блеска сосредоточено поклонение у ног твоих.  
 Отважный громовержец благодаря силе (своей) владеет наградой.  

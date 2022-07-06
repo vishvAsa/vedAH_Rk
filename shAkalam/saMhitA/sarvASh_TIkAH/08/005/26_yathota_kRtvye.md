@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡थोत꣡ कृ꣡त्विये ध꣡ने  
 अंशुं꣡ गो꣡षु अग꣡स्तियम्  
 य꣡था वा꣡जेषु सो꣡भरिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यथा॑ । वाजे॑षु । सोभ॑रिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathota* ← *yathā*
 - \[adverb\]
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च **यथा** येन प्रकारेण **धने** **कृत्व्ये** कर्तव्ये प्राप्तव्ये सति **अंशुम्** एतत्संज्ञं स्तोतारमावतमरक्षतम् । **गोषु** च लब्धव्यासु **यथा** **अगस्त्यम्** ऋषिमरक्षतम् । **वाजेषु** अन्नेषु लब्धव्येषु यथा येन प्रकारेण **सोभरिम्** एतत्संज्ञमृषिं चारक्षतम् । अत्रापि पूर्ववद्वाक्यशेष उत्तरयैकवाक्यता वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And in like manner as (you protected) Anshu when wealth was to be bestowed, and **Agastya** when hiscattle (were to be recovered), and Sobhari when food (was to be supplied to him).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And just as you (helped) Aṃśu when the stake was to be decided and  Agastya when (it was) cows,  
 and Sobhari when (it was) victory-prizes,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And Amsu in decisive fight, Agastya in the fray for kine.  
      And, in his battles, Sobhari.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und wie um den zu gewinnenden Kampfpreis dem Amsu, um die Kühe dem Agastya, wie ihr um die Siegesgewinne dem Sobhari,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Ançu im Entscheidungskampf, Agastja, der um Rinder focht, Und in den Schlachten Sobhari,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также Аншу с решающей ставкой,  
 Агастье с коровами,  

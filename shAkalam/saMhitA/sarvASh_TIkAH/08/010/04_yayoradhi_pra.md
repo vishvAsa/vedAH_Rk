@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡योर् अ꣡धि प्र꣡ यज्ञा꣡  
 असूरे꣡ स꣡न्ति सूर꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 स्वधा꣡भिर् या꣡ पि꣡बतः सोमिय꣡म् म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ता । य॒ज्ञस्य॑ । अ॒ध्व॒रस्य॑ । प्रऽचे॑तसा । स्व॒धाभिः॑ । या । पिब॑तः । सो॒म्यम् । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yayor* ← *yayoḥ* ← *yad*
 - \[noun\], genitive, dual, masculine
@@ -108,7 +108,7 @@ genre M
 **ययोः** अश्विनोः **अधि** उपरि **यज्ञाः** ज्योतिष्टोमादयः सर्वे यागाः **प्र** **सन्ति** प्रभवन्ति । छिन्नस्य यज्ञशिरसोऽश्विभ्यां संधानात् । तथा च यज्ञस्य शिरोऽच्छिद्यत' इत्युपक्रम्य तैत्तिरीयकं -- ’तावेतद्यज्ञशिरः प्रत्यधत्तां यदाश्विनो गृह्यते यज्ञस्य निष्कृत्यै ' ( तै. सं. ६. ४. ९. १ ) इति । **असूरे** स्तोतृरहितेऽपि देशे ययोश्च **सूरयः** स्तोतारः सन्ति तावश्विनौ **अध्वरस्य** हिंसाप्रत्यवायरहितस्य **यज्ञस्य** ज्योतिष्टोमादेः **प्रचेतसा** प्रकृष्टं ज्ञातारौ **स्वधाभिः** बलहेतुभिः स्तुतिभिराह्वयामीति शेषः । **या** यावश्विनौ **सोम्यं** सोममयं **मधु** मधुरं सोमरसं **पिबतः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,34 +121,34 @@ Upon whom: yayor **adhi** pra yajñāḥ aśvinor upari sarve yāgāḥ prabhava
 Worshippers: asūre santisūrayaḥ **stotr**. rahite deśe yayoḥ stotāraḥ **santi**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For whom (our) sacrifices and patrons are preeminent (even?) at the  sunless time.  
 They are attentive to our sacrifice and ceremony—those who drink the  somian honey after their wont.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again Geldner takes the presumed loc. asūré as a PN, explicitly rejecting Grassmann’s ‘sunless time’ in his n. 4b. But I do not see a good reason for this rejection, and given that the Aśvins are the “early-coming” gods and receive offerings before dawn, ‘sunless time’ makes sense ritually. As Oldenberg and Geldner both point out, asūré is involved in word play with sūráyaḥ, which of course may account for the appearance of this hapax here, as so often.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On whom the solemn rites depend, whose worshippers rise without the Sun:  
      These who foreknow the holy work of sacrifice, and by their Godhead drink the sweets of Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welchen die Opfer und die Opferherren in Asura vorgehen, sie sind Kenner des Opfers, der heiligen Handlung, die nach Belieben die somische Süßigkeit trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei denen unsere Opfer viel gelten, die herrlich glänzenden auch in dunkler Zeit, und die auf unsers Opfers Feier aufmerkend aus eigner Lust des Soma Süssigkeit geniessen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для кого много значат жертвы  
 (И их) покровители, (в мире) без солнца,  

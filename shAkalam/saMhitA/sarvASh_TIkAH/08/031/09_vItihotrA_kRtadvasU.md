@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वीति꣡होत्रा कृत꣡द्वसू  
 दशस्य꣡न्तामृ꣡ताय क꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवे꣡षु कृणुतो दु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सम् । ऊधः॑ । रो॒म॒शम् । ह॒तः॒ । दे॒वेषु॑ । कृ॒णु॒तः॒ । दुवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vītihotrā* ← *vīti*
 - \[noun\], feminine
@@ -101,7 +101,7 @@ genre M
 **वीतिहोत्रा** वीतिहोत्रौ । वीतिः प्रियकरो होत्रा यज्ञो ययोस्तौ । अनेन यज्ञेन तयोः सुखादिकं संभवति । तादृशौ । यद्वा । वीतिः कान्त्यर्थः । होत्रेति वाङ्नाम । अस्मद्विषयां स्तुतिं कुरुतमिति पृथक्पृथग्देवैः काम्यमानस्तुती । अत एव **कं** सुखप्रदं हवीरूपमन्नं **दशस्यन्ता** देवेभ्यः प्रयच्छन्तौ **कृतद्वसू** । तकारोपजनश्छान्दसः । याचमानकृतधनौ । पात्रेषूपयुक्तधनावित्यर्थः । एवंविधौ दंपती **अमृताय** अमरणाय संतानाभिवृद्धये **रोमशं** रोमवन्तं वृषणम् **ऊधः** योनिं च **सं** **हतः** संयोजयत इति मैथुनमनूद्यते । ततः सपुत्रादिकौ तौ **देवेषु** **दुवः** स्तुत्यन्नदानरूपां परिचर्यां **कृणुतः** कुरुतः । पञ्चभिर्दंपती अस्तूयेताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,35 +114,35 @@ Offeringacceptable sacrifices: vītihotrā = they whose sacrifices procure them 
 Kṛtadvasū =pātreṣūpayuktadhanau, bestowing your wealth on the suppliant; for the sake of immortality: amṛtāya = forthe increase of descendants, santānābhivṛddhaye
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two whose oblations are worth pursuing, divvying up goods, doing  honor, for the sake of immortality,  
 they slam together the hairy udder; they perform friendly service to  
 the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner and Renou, I take pāda c as referring to sex, though in a devotional context (Geldner: “Kinderzeugung als verdienstliches Werk”). The point of the Agastya and Lopāmudrā hymn I.179, already cited ad vs. 6, is of course that ascetic practice must yield to sex as a duty even for the very devout.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Serving the Immortal One with gifts of sacrificial meal and wealth,  
      They satisfy the claims of love and pay due honour to the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Opfereifrig, Schätze sammelnd, dem Unsterblichen willfahrend drücken sie das behaarte Euter fest zusammen. Sie tuen ihre Schuldigkeit gegen die Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Opfermahl mit reichem Gut verehrend die Unsterblichen, Verleihn den Göttern Gaben sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приглашающие (богов) на жертвы, создающие себе блага,  
 Почитающие (богов) для бессмертия,  

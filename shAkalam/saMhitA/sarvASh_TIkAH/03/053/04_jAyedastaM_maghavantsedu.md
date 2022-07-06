@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जाये꣡द् अ꣡स्तम् मघवन् से꣡द् उ यो꣡निस्  
 त꣡द् इ꣡त् त्वा युक्ता꣡ ह꣡रयो वहन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्नि꣡ष् ट्वा दूतो꣡ धनुवाति अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 य॒दा । क॒दा । च॒ । सु॒नवा॑म । सोम॑म् । अ॒ग्निः । त्वा॒ । दू॒तः । ध॒न्वा॒ति॒ । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jāyed* ← *jāyā*
 - \[noun\], nominative, singular, feminine
@@ -151,7 +151,7 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **अस्तम्** । अस्यन्ते क्षिप्यन्ते पदार्था अत्रेत्यस्तं गृहम् । **जायेत्** जायैव गृहं भवति । न गृहं गृहमित्याहुर्गृहिणी गृहमुच्यते' इति स्मृतेः । तथा **सेत्** सा जायैव **योनिः** पुरुषस्य मिश्रणस्थानम्। **उ** प्रसिद्ध्यर्थः। तस्मात् **तदित्** तत्र गृहे एव **युक्ताः** रथे योजिताः **हरयः** अश्वाः **त्वा** त्वां **वहन्तु** । वयं तु **यदा** **कदा** **च** त्वदर्थं **सोमं** **सुनवाम** अभिषुतं करवाम तदास्माभिः प्रहितः **दूतः** **अग्निः** **त्वा** त्वाम् **अच्छ** आभिमुख्येन **धन्वाति** गच्छेत् ॥ अस्तम् । असु क्षेपणे'।' असिहसिमृग्रिण्वामि°' इत्यादिना तन्प्रत्ययः । नित्वात् आद्युदात्तः । सुनवाम । षुञ् अभिषवे' इत्यस्य लोटि रूपम् । यद्वृत्तयोगादनिघातः । त्वा । ‘युष्मत्तत्ततक्षुष्वन्तःपादम्' इति संहितायां षत्वम् । धन्वाति । धवि गत्यर्थः । लेट्याडागमे रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -162,29 +162,29 @@ genre M
 His plural ce of birth: **jāyā** id astam sedu **yoniḥ**: astam = gṛham (gṛhiṇī gṛham ucyate iti smṛteḥ; na gṛham gṛhamisyāhurgṛhi.ṇo gṛhamucyate)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just the wife is the home; she is the womb. Let your yoked fallow bays  convey you to it.  
 Whenever we will press soma, Agni the messenger will run to you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A wife, O Maghavan is home and dwelling: so let thy Bay Steeds yoked convey thee hither.  
      Whenever we press out for thee the Soma, let Agni as our Herald speed to call thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Frau ist das Heim, o Gabenreicher, sie ist der Schoß; dahin sollen dich die angeschirrten Falben fahren. So oft wir Soma pressen werden, soll Agni als Bote zu dir eilen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Frau ist Heimat, sie der Schooss, o Indra; drum mögen dich geschirrt die Füchse fahren; Zu welcher Zeit wir beid' auch Soma pressen, so läuft als Bote immer zu dir Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь жена – это дом, о щедрый, и она лоно.  
 Туда пусть и привезут тебя запряженные буланые кони!  

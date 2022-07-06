@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमाना असृक्षत  
 पवि꣡त्रम् अ꣡ति धा꣡रया  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मेधा꣡म् अभि꣡ प्र꣡यांसि च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒रुत्व॑न्तः । म॒त्स॒राः । इ॒न्द्रि॒याः । हयाः॑ । मे॒धाम् । अ॒भि । प्रयां॑सि । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānā* ← *pavamānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
@@ -94,7 +94,7 @@ genre M
 **पवमानाः** पूयमानाः सोमाः **धारया** आत्मीयया **पवित्रम्** अतीत्य **असृक्षत** सृज्यन्ते । कीदृशाः । **मरुत्वन्तः** मरुद्भिर्युक्ताः **मत्सराः** मदकराः **इन्द्रियाः** इन्द्रजुष्टाः। **मेधां** स्तुतिं **प्रयांसि** अन्नानि **च** अभिलक्ष्य स्तोतृभ्यः उभयं कर्तुं वा **हयाः** गन्तार एते सृज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,13 +105,13 @@ genre M
 Swift-moving: **hayaḥ** = horses, gantāraḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purifying themselves, they have been set loose across the filter in  a steam—  
 the exhilarating coursers, fit for Indra along with the Maruts, toward  wisdom [/the ritual meal] and pleasing offerings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c is a clever twist on 17ab índrāya … marútvate sutáḥ “pressed for Indra and the Maruts.” In 17 the recipients of the soma are straightforwardly expressed, but in our vs. the expression is oblique. Indra is present not directly, but in the adj. indriyá- ‘Indriyan, suitable for/associated with Indra (and Indra’s powers)’, which modifies the soma drops identified as horses. The adj. marútvantaḥ also modifies these drops/horses. On the one hand, I think this is meant to associate the Maruts with Indra, as usual, and identify them as the prototypical recipients of soma; on the other hand, however, the drop-horses are metaphorically associated with the Maruts in full gallop on their regularly described journeys. The double sense would be better conveyed by a transl. “the exhilarating courses, accompanied by the Maruts, fit for Indra along with the Maruts …” The fem. stem medhā́- of course means ‘wisdom’ and is so interpr. here by everyone (incl. me). But its explicit coordination with práyāṃsi “pleasing offerings’ (medhā́m abhí práyāṃsi ca) invites, to my mind, a secondary reading associating it with médha- ‘ritual offering/meal’. For other possible conflations of medhā́- and médha- see EWA s.v. médha-.
 
@@ -126,23 +126,23 @@ No particular signs of cohesion.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Over the cleansing sieve have flowed the Pavamanas in a stream,  
      Girt by the Maruts, gladdening, Steeds with Indra's stiength, for wisdom and for dainty food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd sind sie im Strome durch die Seihe gesprengt, von den Marut begleitet, berauschend, die indrischen Rosse, um Erkenntnis und Erquickung zu bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen sind die flammenden im Strome durch das Somasieb, Die lust'gen Rosse Indra's und der Marutschar zum Opfer und zum Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разлились (соки-) Паваманы  
 Потоком через (цедилку),  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा गीर्भि꣡र् महा꣡म् उरुं꣡  
 हुवे꣡ गा꣡म् इव भो꣡जसे  
 इ꣡न्द्र सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑ । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -92,20 +92,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **त्वा** त्वां **गीर्भिः** स्तुतिभिः **हुवे** आह्वयामि । कीदृशं त्वाम् । **महां** महान्तम् **उरुं** प्रभूतम् । किमर्थम् । **सोमस्य** **पीतये** पानाय । ह्वाने दृष्टान्तः। **भोजसे** भोगाय **गामिव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, by my praises I invoke you, great and strong one, to drink the **Soma** as a bull to eat (his fodder).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call you here with songs, you great and broad, like a cow to give  sustenance,  
 and to drink of the soma, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains two hapaxes with which Indra is identified.
 
@@ -118,23 +118,23 @@ The second hapax, kī́ja-, is harder, because there is no apparent root etymolo
 Note also that, properly speaking, the velar should have yielded a palatal before ī, but there are enough secondary ki/ī forms to keep this from being a useful diagnostic. Geldner suggests, tentatively, “Sporn” (spur) (sim., and similarly tentative, EWA), but gives no support. I very hesitantly adduce the later (Ep+) kīcaka- ‘hollow bamboo’ and suggest that kī́ja might be a ‘stake’. Note the hiraṇyáyo vetasáḥ “golden reed” in IV.58.5. Being called a golden stake seems a bit better than being a horse’s curry comb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With songs I call thee, Great and Wide, even as a cow to profit us,  
      Indra, to drink the Soma-draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich rufe ich, den Großen, Breiten mit Lobesworten zum Trinken des Soma, Indra, wie die Kuh, daß sie Nahrung gebe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ruf' ich grossen, breiten, dich mit Liedern, wie die Kuh zum Frass, Zum Somatrunk, o Indra her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, великого, широкого, я зову  
 Песнями, как корову, чтоб она насытила,  

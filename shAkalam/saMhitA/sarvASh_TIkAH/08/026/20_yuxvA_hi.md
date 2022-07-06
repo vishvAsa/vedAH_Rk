@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युक्ष्वा꣡ हि꣡ त्वं꣡ रथास꣡हा  
 युव꣡स्व पो꣡षिया वसो  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अस्मा꣡कं स꣡वना꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आत् । नः॒ । वा॒यो॒ इति॑ । मधु॑ । पि॒ब॒ । अ॒स्माक॑म् । सव॑ना । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yukṣvā* ← *yuj*
 - \[verb\], singular, Aorist imperative
@@ -108,41 +108,41 @@ genre M
 एतदाद्या वायव्यः । हे वायो **रथसहा** रथसहौ रथवहनसमर्थावश्वौ । हिरवधारणे । **त्वम्** एव **युक्ष्व** संयोजय । हे **वसो** वासयितः शत्रूणां **पोष्या** पोष्यौ कण्ठेषु करतलास्फालनैराश्वास्य पोषणीयौ तावश्वौ **युवस्व** संग्रामेषु शत्रुवधार्थं मिश्रय । यद्वा । अस्मद्यज्ञेषु संमिश्रय । ताभ्यां युक्तः सन् यज्ञं प्रत्यागच्छेत्यर्थः । हे **वायो** **आत्** अनन्तरं **नः** अस्मदीयं **मधु** मदकरं सोमं त्वं पिब । अत एव **अस्माकं** यज्ञेषु **सवना** त्रिषु सवनेषु **आ** **गहि** सोमपानार्थमागच्छ ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Yoke your chariot-drawing horses, **Vāyu**; bring them, **Vasu**, encouraged (to the sacrifice); then drinkour **Soma**, come to our daily libations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yoke the two that power the chariot; team up the two flourishing  (horses), o good one.  
 After that, drink our honey, o Vāyu; come to our pressings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As often, hí + IMPV marks the action of the hí clause as the grounds for the subsequent clause (in this case c, as b is presumably parallel with a).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Harness the steeds who draw the car, O Vasu, bring the well-fed pair.  
      O Vayu, drink thou of our meath: come unto our drink-offerings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So schirre denn die beiden den Wagen bemeisternden Rosse an, spanne die beiden wohlgenährten an, du Guter, und trink dann unseren Süßtrank, o Vayu; komm zu unseren Trankopfern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, schirre dir die feisten an, o guter, die den Wagen ziehn, O Vaju, trinke unsern Meth und komm zu unsern Tränken her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так запрягай же ты обоих справляющихся с колесницей (коней),  
 Впрягай обоих откормленных, о Васу,  

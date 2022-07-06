@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡न तोका꣡य त꣡नयाय धानि꣡यम्  
 बी꣡जं व꣡हध्वे अ꣡क्षितम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 रा꣡धो विश्वा꣡यु सउ꣡भगम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मभ्य॑म् । तत् । ध॒त्त॒न॒ । यत् । वः॒ । ईम॑हे । राधः॑ । वि॒श्वऽआ॑यु । सौभ॑गम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
@@ -110,7 +110,7 @@ genre M
 हे मरुतः **येन** सदयेन मनसा **तोकाय** पुत्राय **तनयाय** तहपुत्राय धनाय वा **धान्यं** **बीजम्** **अक्षितम्** अक्षीणं **वहध्वे** धारयध्वे तेन चित्तेन **अस्मभ्यं** **तत्** धान्यं बीजं **धत्तन** । **यत्** च **वः** युष्मान् **ईमहे** याचामहे **राधः** धनं **विश्वायु** सर्वान्नोपेतं कृत्स्नायुष्योपेतं वा **सौभगं** सौभाग्यं च तद्धत्तनेति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,13 +121,13 @@ genre M
 Imperishable grain-seed: dhānyam bījam akṣitam: unperishing grain-seed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 —Along which (course) you convey the imperishable granular seed to  offspring and descendants.  
 Establish for us what we implore you for: generosity through our whole  lifetime and good fortune.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With the standard tr. I take yéna in pāda as referring to enā́yā́mena in the previous vs. (12c).
 
@@ -136,23 +136,23 @@ I tr. dhānyà- lit., ‘related to grain (dhānā́), as ‘granular’, becaus
 I.57.1 rā́dho víśvā́yu suggests that viśvā́yu belongs to what precedes, rather than to saúbhagam as Geldner and Renou take it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vouchsafe to us the bounty, that which we implore, through which, for child and progeny,  
      Ye give the seed of corn that wasteth not away, and bliss that reacheth to all life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit der ihr für leiblichen Nachwuchs das unversiegliche Saatkorn bringt? Gewähret uns die Gabe, um die wir euch bitten, um Glück für das ganze Leben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Schatz gewährt uns, den, um welchen wir euch flehn, durch den für Kind und Enkel ihr Getreidesamen bringet, unvergänglichen, das Glück, das alles Leben schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По которому для (наших) детей, (нашего) потомства  
 Вы привозите урожай – нерушимое зерно?  

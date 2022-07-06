@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ये꣡ वि꣡श्वा स्वपतिया꣡नि तस्थुः꣡  
 कृण्वाना꣡सो अमृतत्वा꣡य गातु꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 माता꣡ पुत्रइ꣡र् अ꣡दितिर् धा꣡यसे वेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 म॒ह्ना । म॒हत्ऽभिः॑ । पृ॒थि॒वी । वि । त॒स्थे॒ । मा॒ता । पु॒त्रैः । अदि॑तिः । धाय॑से । वेरिति॒ वेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -146,7 +146,7 @@ genre M
 **धायस** इत्यस्य वाक्यान्तर-गतत्वाद् अस्य निघाताभावः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -159,7 +159,7 @@ Ye **viśvā** svapatyāni = śobhanāni apatana-**hetu**-**bhūtāni**, those w
 Atasthuḥ = they made or instrumental tuted; atashuḥ svapatyāni = caturdaśa-rātra śattriṃsadrātradiyānam ayanadini karmāṇi kṛtavantaḥ, they made the rites or acts which were the **avanas** and others of the Ādityas, (and which were for) thirty-six or fourteen nights
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who mounted upon (those actions [=sacrifice]) that bring good  descendants, making themselves a way toward immortality,  
 by means of (those) sons, great in their greatness, the earth,  
@@ -167,7 +167,7 @@ their mother Aditi, spread out, in order to suckle the bird
 [=Agni? sun?].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is the most baffling in the hymn, both for its contents and for its connection to the rest of the hymn. Geldner has a very busy interpretation (followed by Witzel Gotō) that involves the Aṅgirases and the Ādityas separating themselves from the earth and contending to reach heaven. His interpr. rests on scraps of later mythology, and it is very difficult for me to see where he finds contending parties in the passage, much less the signs that would identify them as Aṅgirases and Ādityas. It also requires an unlikely reading of ví √sthā as ‘separate’, rather than the usual ‘spread out’ (as Renou points out). All in all, the interpretation requires a superstructure that the verse cannot support, and examining the passage without the presuppositions Geldner brings to it yields a very different picture. Unfortunately, however, the picture isn’t appreciably clearer.
 
@@ -182,28 +182,28 @@ These can be the offspring produced by the ritual in pāda a or, more likely in 
 Note that “to suckle the bird” (dhā́yase véḥ) is a paradox that would be recognized by any reasonably alert observer of nature (as the Vedic people certainly were), in that birds aren’t mammals and don’t suckle. The sense of dhā́yase can of course be bleached to something like Oldenberg’s (SBE) “for the refreshment of the bird,” but I prefer to think this paradox was meant to be savored, along with the paradox of the sons bringing about the action of their mother.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who approached all noble operations making a path that leads to life immortal,  
      To be the Bird's support, the spacious mother, Aditi, and her great Sons stood in power.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The Earth has spread herself far and wide with them who are great in their greatness, the mother Aditi, for the refreshment of the bird 1, with her sons who have assumed all powers of their own dominion 2, preparing (for themselves) the way to immortality.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Während sie lauter gute Nachkommenschaft erlangten und sich zur Unsterblichkeit den Weg bereiteten, hat sich die Erde von den an Macht Großen getrennt, die Mutter von ihren Söhnen, die Aditi um den Vogel zu nähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit denen, welche alles Schöne wirkten, den Weg sich zur Unsterblichkeit bereitend, Den grossen Söhnen dehnt sich weit der Himmel, die Mutter Aditi zum Trunk des Vogels.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы (те,) что совершили прекрасные дела,  
 Создавая себе путь к бессмертию, –  

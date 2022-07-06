@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ अर्ष विचक्षण  
 पवि꣡त्रं धा꣡रया सुतः꣡  
 अभि꣡ वा꣡जम् उत꣡ श्र꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒भि । वाज॑म् । उ॒त । श्रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhy* ← *abhi*
 - \[adverb\]
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **विचक्षण** सोम **सुतः** अभिषुतस्त्वं **पवित्रम्** **अभि** प्रति **धारया** **अर्ष** गच्छ। **उत** अपि चास्माकं **वाजम्** अन्नं **श्रव:** कीर्तिं च **अभि** क्षरेत्यर्थः॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hasten, sagacious (**Soma**), when you are effused, to the filter in a stream; bestow upon us food and fame.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O wide-gazing one, pressed in a stream, rush into the filter  
 to the prize of victory and to fame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow with thy stream, Far-sighted One, effused, into the cleansing sieve:  
      Flow on to give us strength and fame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe du Hellsehender ausgepreßt im Strome auf die Seihe, zu Gewinn und Ruhme!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Seihe rinne hin im Strom, gepresst, o weithinschauender, Zur Labung und zu hohem Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Струись, о далеко смотрящий,  
 В цедилку, выжатый потоком, –  

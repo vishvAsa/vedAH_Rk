@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ अद्य꣡ · न꣡रियो देव꣡काम  
 उश꣡न्न् इ꣡न्द्रस्य सखियं꣡ जुजोष  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡मिद्धे अग्नउ꣡ सुत꣡सोम ईट्टे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कः । वा॒ । म॒हे । अव॑से । पार्या॑य । सम्ऽइ॑द्धे । अ॒ग्नौ । सु॒तऽसो॑मः । ई॒ट्टे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -124,14 +124,14 @@ genre M
 **अद्य** अस्मिन् दिवसे **नर्यः** मनुष्यहितः **देवकामः** देवानिच्छन् **उशन्** कामयमानः **कः** यजमानः **इन्द्रस्य** **सख्यं** सखित्वं **जुजोष** सेवते । किंच **सुतसोमः** अभिषुतसोमः **को** **वा** यजमानः **अग्नौ** **समिद्धे** प्रज्वलिते सति **महे** महते प्रवृद्धाय **पार्याय** पारमर्हते **अवसे** तर्पणाय **ईट्टे** इन्द्रं स्तौति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What friend of man, or worshipper of the gods, deserving the friendship of **Indra**, has today enjoyed (it)? or what offerer of the libation on the kindled fire praises him (sufficiently) for his great and unbounded protection?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, a manly one with a desire for the god, eagerly enjoys the  
 comradeship of Indra today?  
@@ -139,30 +139,30 @@ Or who, having his soma pressed when his fire has been kindled,
 reverently invokes him for his great and decisive help?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the phraseology of c, see comm. ad IV.16.11. Though Geldner (/Witzel Gotō) supply ‘day’ with pā́ryāya there seems no reason not to take it with the two immediately preceding datives.
 
 Pāda d contains two functionally parallel expressions in two formally different guises: the loc. absol. sámiddhe agnaú “when his fire has been kindled” and the nom. bahuvrīhi sutásomaḥ “possessing pressed soma / he whose soma has been pressed.” A parallel bahuvrīhi to the first expression is also attested: iddhā́gni- (2x).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHAT friend of man, God-loving, hath delighted, yearning therefor, this day in Indra's friendship?  
      Who with enkindled flame and flowing Soma laudeth him for his great protecting favour?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Mannhafte, Götterliebende hat sich heute nach Wunsch der Freundschaft Indra´s zu erfreuen? Oder wer ruft ihn bei ausgepreßtem Soma und entflammtem Feuer zu großem Beistand für den entscheidenden Tag auf?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Sterblicher genoss, die Götter liebend, des Indra Freundschaft heute voll Verlangen? Wer fleht um grossen hülfereichen Beistand bei fert'gem Soma und entbranntem Feuer?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что за мужественный, любящий богов (человек), желающий  
 Дружбы Индры наслаждается (ею) сегодня?  

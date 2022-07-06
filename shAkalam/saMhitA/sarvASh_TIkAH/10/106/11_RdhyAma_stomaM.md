@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋध्या꣡म स्तो꣡मं सनुया꣡म वा꣡जम्  
 आ꣡ नो म꣡न्त्रं सर꣡थेहो꣡प यातम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ भूतां꣡शो अश्वि꣡नोः का꣡मम् अप्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यशः॑ । न । प॒क्वम् । मधु॑ । गोषु॑ । अ॒न्तः । आ । भू॒तऽअं॑शः । अ॒श्विनोः॑ । काम॑म् । अ॒प्राः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛdhyāma* ← *ṛdh*
 - \[verb\], plural, Present imperative
@@ -138,7 +138,7 @@ genre M
 हे अश्विनौ वयं **स्तोमं** त्रिवृत्पञ्चदशादिकम् **ऋध्याम** ऋध्यास्म वर्धयेम ॥ • ऋधु वृद्धौ'। अस्मादाशीर्लिङि • किदाशिषि' इति यासुटः कित्त्वम्॥ **वाजं** हविर्लक्षणमन्नं युवाभ्यां **सनुयाम** प्रयच्छेम ॥ ‘षणु दाने'। तानादिकः । विधिलिङ्ग । वाक्यभेदादनिघातः ॥ तस्माद्युवां **सरथा** सरथौ समानरथावेकमेव रथमारूढौ सन्तौ **इह** अस्मिन् कर्मणि **नः** अस्मदीयं **मन्त्रं** मननीयं स्तोत्रम् **उप** **यातम्** उपागच्छतम् । **गोष्वन्तः** । गोरूधस्यवस्थितं **पक्वं** परिणतम् अत एव **मधु** मधुरं **यशो** न । यश इत्यन्ननाम । नश्चार्थे । क्षीराज्यादिलक्षणं महावीरेऽवनीयमानमन्नं चापेक्ष्यागच्छतमिति संबन्धः । एवमुक्तप्रकारेण **भूतांशः** एतन्नामर्षिः **अश्विनोः** कामम् अभिलाषमात्मीयाभिः स्तुतिभिः **आ** **अप्राः** आपूरयत्। संपूर्णमकार्षीदित्यर्थः ॥ ‘प्रा पूरणे ) आदादिकः । व्यत्ययेन मध्यमः ॥ अत्राश्विने सूक्ते सर्वाण्यपि पदानि दुर्व्युत्पादान्यस्माभिर्दिङ्मात्रं प्रदर्शितानि । एवं निरुक्तव्याकरणादिभिरर्थविशेषे बुद्धिमद्भिरुन्नेयानि ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,30 +149,30 @@ genre M
 The **Aśvinī** **sūkta** has been translated, though tough to explain, within a short compass, diṅmātrampradarśitam and deduction is left to the learned to interpret based on etymology, grammar, etc.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we bring our praise song to fulfillment and might we win the  prize of victory. Sharing the same chariot, drive here—you two—  
 right up to our mantra  
 and to the cooked honey within the cows, as if to glory. Bhūtāṃśa has  fulfilled the desire of the Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we increase the laud and gain us vigour: come to our song, ye whom one chariot carries.  
      Filled be our kine with ripened meath like glory: Bhutamsa hath fulfilled the Asvins' longing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Möchten wir das Loblied richtig getroffen haben, möchten wir den Preis gewinnen. Kommet beide auf einem Wagen hierher zu dem Dichterwort, zu der gekochten Süßigkeit, die gleichsam die Zierde in den Kühen ist. Bhutamsa hat jetzt den Wunsch der Asvin erfüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mögen wir zu glücklichem Ziele den Lobgesang führen, mögen wir Labung erlangen; kommt her zu unserm Spruche beide auf einem Wagen; wie ein Schatz sei gare Süssigkeit in unsern Kühen; jetzt hat Bhūtānça das Verlangen der Açvinen [durch dies Lied] erfüllt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим иметь успех с восхвалением, хотим добыть награду!  
 Приезжайте сюда на одной колеснице к нашему произведению,  

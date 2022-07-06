@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ यन्ता꣡ वि꣡प्र एषां᳐  
 स꣡ यज्ञा꣡नाम् अ꣡था हि꣡ षः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दा꣡ता यो꣡ व꣡निता मघ꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । तम् । वः॒ । दु॒व॒स्य॒त॒ । दाता॑ । यः । वनि॑ता । म॒घम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **विप्रः** मेधावी कर्माभिज्ञः **सः** अग्निः **एषां** कालापराधेन हविर्निर्वापं कृतवतां यजमानानां यथोक्तकर्मप्रदर्शनेन तत्र प्रवर्तकः । **अथ** किंच **यज्ञानां** ज्योतिष्टोमादीनां **सः** अग्निः नियन्ता फलप्रदानेन नियामकः । **हि** प्रसिद्धौ । अत एव सर्वस्य नियन्ता खलु । किंच **सः** अग्निः **दाता** ज्योतिष्टोमादिकर्मफलदाता **मघं** मंहनीयं धनम् । ‘ मघं रेक्णः ' (नि. २. १०. १ ) इति तन्नामसु पाठात् । तद्धनं **वनिता** प्रयच्छंश्च भवति । **वः** युष्मत्संबन्धिनं तं तादृशम् **अग्निं** हे ऋत्विजः यूयं **दुवस्यत** आहुतिप्रदानेन परिचरत । दुवस्यतिः परिचरणकर्मा ‘नमस्यति दुवस्यति' (नि. ३. ५. ५) इति तन्नामसु पाठात् ॥ यन्ता । ‘यम उपरमे ' इत्यस्य तृचि रूपम् । ‘ ऋदुशनस्' इत्यादिना अनङादेशः । चित्स्वरः । अथा हि। • निपातस्य ' इति दीर्घः । दुवस्यत । दुवः परिचरणम् । तदिच्छन्तः । सुपः क्यच् । तदन्तस्य धातोर्लोटि रूपम् । दाता । ' डुदाञ् दाने' । ताच्छीलिकस्तृन् । नित्त्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ genre M
 Magham rekaṇaḥ (**Nirukta** 2.10.1) = mahanīyam dhanam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As inspired poet, he is the controller of these (bringing offerings); he is  (the controller) of sacrifices. Because he is so,  
 befriend for yourselves Agni, who gives and gains bounty.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He is the Sage who guides these men, Leader of sacred rites is he.  
      Him your own Agni, serve ye well, who winneth and bestoweth wealth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He, the priest, is the guide of these (men) 1, and he indeed (is the guide) of sacrifices. Praise ye this Agni who is the giver, the winner of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Beredte ist der Lenker dieser Beredten, denn er ist auch der Lenker der Opfer. Bevorzuget diesen euren Agni, der Gabe gibt und gewinnt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist ihr weiser Lenker ja, er ist's, der auch die Opfer lenkt; Ihn, euren Agni, ehret recht, der Schätze gibt und gern ertheilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот вдохновенный – правитель их.  
 Вот почему он и (правитель) жертв.  

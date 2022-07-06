@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एव꣡ अग्नि꣡र् म꣡र्तिऐः° सह꣡ सूरि꣡भिर्  
 व꣡सु ष्टवे स꣡हसः सून꣡रो नृ꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द्या꣡वो न꣡ द्युम्नइ꣡र् अभि꣡ स꣡न्ति मा꣡नुषान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मि॒त्रासः॑ । न । ये । सुऽधि॑ताः । ऋ॒त॒ऽयवः॑ । द्यावः॑ । न । द्यु॒म्नैः । अ॒भि । सन्ति॑ । मानु॑षान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evāgnir* ← *evā* ← *eva*
 - \[adverb\]
@@ -128,37 +128,37 @@ genre M
 **सहसः** बलस्य **सूनरः** सुष्ठु प्रेरकः । यद्वा । सूनुरित्यस्य वर्णव्यत्ययः । सूनरः सूनुः । बलेन मथ्यमानत्वात्तस्य पुत्रः । **अग्निः** **नृभिः** कर्मनेतृभिः **मर्तैः** मनुष्यैः **सह** **सूरिभिः** विद्वद्भिः अस्माभिः **वसु** धनमभिलक्ष्य **एव** एवं **स्तवे** स्तूयते । वसु ष्टवे इस्यत्र संहितायां ‘ पूर्वपदात् । इति षत्वम् ॥ **मित्रासो** **न** सुहृद इव **सुधिताः** सुहितास्तृप्ताः ॥ दधातेर्निष्ठायां सुधित वसुधित’ ' ( पा. सू. ७, ४, ४५ ) इति निपातितः । ‘ सुधितार्थास्तृप्त्यर्थाः ' इति काशिकायामुक्तम् ॥ **ऋतायवः** यज्ञं कामयमानाः । ‘ न च्छन्दस्यपुत्रस्य' इति दीर्घत्वयोः प्रतिषेधः ॥ ईदृशाः **ये** सूरयः **द्यावो** **न** द्योतमाना इव **द्युम्नैः** । द्युम्नं द्योततेर्यशो वान्नं बा' ( निरु. ५. ५ ) इति यास्कः । अग्निप्रदतैर्बलैरात्मीयैर्यशोभिर्वा **मानुषान्** शात्रवान् जनान् **अभि** **सन्ति** अभिभवन्ति ॥ यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In this manner, **Agni**, the son of strength, is glorified by (us his) worshippers, together with piousmortals, for the sake of wealth-- (his worshippers) who, like delighted friends, desiring the sacrifice, like shining(ones), overcome (hostile) men through his might.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus is Agni praised along with the mortal patrons as the good one, the  spirited (son) of strength by men—  
 (the patrons) who, well-installed like allies, truth-seeking, like the  heavens with their heavenly brilliance surmount the (other)  
 descendants of Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus noble Agni with princes and mortal men is lauded, excellent for conquering strength with chiefs,  
      Men who are well-disposed as friends and true to Law, even as the heavens in majesty surpass mankind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also wird Agni von den Sterblichen im Verein mit den Herren, die wie Freunde wohlaufgenommen, rechtschaffen, mit ihrem Glanze die anderen Menschen überragen wie die Himmel die Erde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wird der gute Agni von den Sterblichen, das Kind der Kraft gepriesen von den Fürsten auch, Die treu dem Recht wie wohlgesinnte Freunde sind, und alle überstrahlen wie des Himmels Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так восхваляется Агни вместе со смертными  
 Богатыми покровителями, добрый, благородный (сын) силы, вместе с мужами,  

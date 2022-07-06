@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ यं꣡ देवी꣡ अ꣡दितिर् गृणा꣡ति  
 सवं꣡ देव꣡स्य सवितु꣡र् जुषाणा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ मित्रा꣡सो अर्यमा꣡ सजो꣡षाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । स॒म्ऽराजः॑ । वरु॑णः । गृ॒ण॒न्ति॒ । अ॒भि । मि॒त्रासः॑ । अ॒र्य॒मा । स॒ऽजोषाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M
 **देवी** द्योतमाना **अदितिः** अदीना देवमाता **यं** सवितारम् **अभि** **गृणाति** अभिष्टौति । कीदृशी । **सवितुः** **देवस्य** एव **सवं** प्रसवमनुज्ञां **जुषाणा** सेवमाना। **सम्राजः** सम्यग्राजमानाः **वरुणः** । उपलक्षणमेतत् । वरुणादयो देवाः यं सवितारम् **अभि** **गृणन्ति** अभिष्टुवन्ति । **मित्रासः** मित्रादयश्च **सजोषाः** समानप्रीतिः **अर्यमा** एतत्संज्ञको देवश्च यम् **अभि** गृणन्ति । स नः स्तोमांश्चनो धादिति पूर्वयर्चा संबन्धः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,13 +123,13 @@ genre M
 Mitra and other gods: Mitra occurs in the plural ralmitrāsaḥ, i.e. Mitra and others
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom goddess Aditi greets, taking pleasure in the impulsion of god  Savitar,  
 (him) do the sovereign kings Varuṇa, Mitra, Aryaman and their allies  greet in concert—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the close parallel to our pāda a in the previous hymn, see comm. ad VII.37.7.
 
@@ -138,23 +138,23 @@ The sequence váruṇaḥ … mitrā́so aryamā́presents a twist on the usual 
 Obviously the god Mitra must also be referenced, with mitrā́saḥ found in Mitra’s usual place in the sequence of names.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even he whom Aditi the Goddess praises, rejoicing in God Savitar's incitement:  
      Even he who praise the high imperial Rulers, Varuna, Mitra, Aryaman, sing in concert.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den die Göttin Aditi belobt, da sie an Gott Savitri´s Anweisung Gefallen hat, ihn beloben einmütig die Großkönige Varuna, Mitra, Aryaman.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Savitar, des Gottes, Spende, welche die Göttin Aditi geniessend preiset, Die rühmen auch vereint die Allbeherrscher Varuna, Mitra, Arjaman im Bunde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого воспевает богиня Адити,  
 Радующаяся побуждению бога Савитара,  

@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो वा घे꣡द् इ꣡यन् मघं꣡  
 स꣡रस्वती वा सुभ꣡गा ददि꣡र् व꣡सु  
 तुवं꣡ वा चित्र दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 त्वम् । वा॒ । चि॒त्र॒ । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -103,41 +103,41 @@ genre M
 अत्र चित्रस्य दानं स्तौति । चित्रो नाम राजा सरस्वतीतीर इन्द्रार्थं यागमकृत । तत्र मन्त्रद्रष्टर्षिर्बहुधनलाभान्मह्यमेतावद्धनं को वा प्रयच्छदिति विकल्पयते। **दाशुषे** इन्द्राय हवींषि दत्तवते मह्यम् **इन्द्रो** **वा** **घेत्** इन्द्र एव किं खल्वेतावत् **मघं** मंहनीयं धनं **ददिः** प्रायच्छत् । यद्वा **सुभगा** शोभनधना **सरस्वती** नदी **वसु** धनं ददिः किं प्रायच्छत् । अथवा **चित्र** एतन्नामक हे राजन् **त्वं** **वा** एतावद्धनं मह्यं प्रादा इति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Is it **Indra** who has given to the donor (of the oblation) so much affluence? Is it the auspiciousSarasvatī (who has given) the treasure? Or, **Citra**, is it you?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Is it Indra (who gives) so great a bounty, or well-portioned Sarasvatī who gives the goods?  
 Or is it you, o Citra, (who give) to the pious man?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is no overt question marker, but the verse works better with vs. 18 as a series of deliberative questions, to be answered by the emphatic declaration of Citra’s preeminence in 18.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra or blest Sarasvati alone bestows such wealth, treasure so great, or thou,  
      O Citra, on the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur Indra schenkt so viel Gabe, oder die holde Sarasvati so viel Gut, oder du, Citra, dem Opfernden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nur Indra gibt so viel Geschenk oder die reiche Sarasvati so viel Gut, wie du, o Tschitra, dem Verehrer gibst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только Индра (дарит) такой щедрый дар,  
 Или Сарасвати, несущая счастье, дает благо,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ब्र꣡ह्म एतु स꣡दनाद् ऋत꣡स्य  
 वि꣡ रश्मि꣡भिः ससृजे सू꣡रियो गाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृथु꣡ प्र꣡तीकम् अ꣡धि ए꣡धे अग्निः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । सानु॑ना । पृ॒थि॒वी । स॒स्रे॒ । उ॒र्वी । पृ॒थु । प्रती॑कम् । अधि॑ । आ । ई॒धे॒ । अ॒ग्निः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 **ऋतस्य** यज्ञस्य **सदनात्** स्थानाद्देवयजनदेशात् **ब्रह्म** स्तोत्रं स्तुत्यान् सूर्यादीन् **प्र** **एतु** प्रकर्षेण गच्छतु । किं तद्ब्रह्मेति तदाह । **सूर्यः** सर्वस्य प्रेरकः शोभनवीर्यो वा देवः **रश्मिभिः** आत्मीयैः किरणैः **गाः** अपो वृष्ट्युदकानि **वि** **ससृजे** विसृजति विमुञ्चति । प्रवर्षति । श्रूयते हि - ‘ याभिरादित्यस्तपति रश्मिभिस्ताभिः पर्जन्यो वर्षति' (तै. आ. १०.६३) इति । स्मृतिश्च भवति – ‘आदित्याज्जायते वृष्टिर्वृष्टेरन्ननं ततः प्रजाः ' इति । अत ईदृशं माहात्म्यं सूर्यस्यैव विद्यते नान्यस्य कस्यचिदित्यनेन पादेन सूर्यः स्तूयते । अपि च **पृथिवी** प्रथिता भूमिः **सानुना** समुच्छ्रितेन पर्वतादिना **उर्वी** विस्तीर्णा सती **वि** **सस्रे** विसरति व्याप्नोति । तथा **अग्निः** **पृथु** विस्तीर्णं **प्रतीकं** पृथिव्या अवयवं देवयजनलक्षणं स्थानम् **अधि** । **अधिपरी** अनर्थकौ इत्यधेः कर्मप्रवचनीयसंज्ञायां कर्मप्रवचनीययुक्ते°। इति सप्तम्यर्थे द्वितीया । ईदृशे स्थाने **एधे** आदीप्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ genre M
 Yābhirādityastapati raśmibhistābhiḥ parjanyo varṣanyo varṣati: **Taittirīya** **Āraṇyaka** 10.63); Agni blazes:**pṛthā** pratīkam adhyedhe **agniḥ**: pratīkam = pṛthivyā avayavam, a portion or member of the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the sacred formulation go forth from the seat of truth. The Sun with  his rays has dispatched the cows outward.  
 The broad Earth has stretched out on her back. Agni has been kindled  on her wide face.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner (n. 1a) and Renou indicate, the opening of this hymn, with prá bráhmaitu (that is, bráhma etu), is very like the opening of nearby VII.34.1 prá śukraítu (=śukrā́etu) … manīṣā́, with both referring to the beginning of the ritual day with the dispatch of the poets’ verbal offering to the gods.
 
@@ -157,23 +157,23 @@ Narten (1969 “Ai. sṛ in synchronischer und diachronischer Sicht” = Kl. Sch
 Renou curiously takes pṛthú prátīkam as a “pre-compound” modifying Agni, but I follow Geldner in taking it as an acc. construed with ádhi, a reference to the part of the earth on which the ritual fire is kindled.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET the prayer issue from the seat of Order, for Surya with his beams hath loosed the cattle.  
      With lofty ridges earth is far extended, and Agni's flame hath lit the spacious surface.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die feierliche Rede soll vom Sitze der Wahrheit hinausgehen. Die Sonne hat mit ihren Strahlen die Rinder ausgetrieben. Die Erde hat sich mit dem Rücken weit ausgestreckt; das Feuer ist über ihre breite Oberfläche aufgeflammt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Sitz des Opfers dringe das Gebet vor, die Sonne trieb durch Strahlen ihre Heerde, Die weite Erde dehnte ihre Fläche, und Agni liess sein breites Antlitz strahlen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть движется вперед священное слово из сиденья закона!  
 Сурья лучами выпустил коров.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡र् उ स्व꣡सारम् अस्कृत  
 उष꣡सं देवी꣡ आयती꣡  
 अ꣡पे꣡द् उ हासते त꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 अप॑ । इत् । ऊं॒ इति॑ । हा॒स॒ते॒ । तमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nir* ← *niḥ*
 - \[adverb\]
@@ -98,40 +98,40 @@ genre M
 **आयती** आगच्छन्ती **देवी** देवनशीला रात्रिः **स्वसारं** भगिनीम् **उषसं** **निः** **अकृत** निष्करोति । प्रकाशेन संस्करोति । निवर्तयतीत्यर्थः । तस्यामुषसि जातायां नैशं **तमः** **अपेत्** **हासते** अपैव गच्छति ॥ ' ओहाङ् गतौ ' । लेट्यडागमः ।  ‘ सिब्बहुलम् ' इति सिप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The advancing goddess prepared (the way for) her sister Dawn, and then the darkness departs.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She has expelled her sister, Dawn—she, the goddess, while coming hither— and darkness will race away.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Goddess as she comes hath set the Dawn her Sister in her place:  
      And then the darkness vanishes.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The goddess now, as she comes on, Is turning out her sister, Dawn: Far off the darkness hastes away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Göttin nahte und hat die Schwester Usas abgelöst. Möge auch die Finsternis entweichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Göttin trieb die Schwester fort, das Abendroth bei ihrem Nahn, Nun weichet auch die Dämmerung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она выпроводила (свою) сестру  
 Ушас, (эта) приближающаяся богиня.  

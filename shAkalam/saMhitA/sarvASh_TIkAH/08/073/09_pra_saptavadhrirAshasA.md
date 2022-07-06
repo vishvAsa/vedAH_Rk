@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सप्त꣡वध्रिर् आश꣡सा  
 धा꣡राम् अग्ने꣡र् अशायत  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **सप्तवध्रिः** महर्षिर्हे अश्विनौ युवयोः **आशसा** आशंसनेन स्तुत्या मञ्जूषाया निर्गत्य **अग्नेः** **धारां** तस्यां मञ्जूषायां **प्र** **अशायत** आशाययत् । स्वनिरोधिकां तां दग्धवानित्यर्थः । सप्तवध्रेः पेटिकान्तःप्रवेशोऽश्विनोरनुग्रहान्निर्गमश्च ‘वि जिहीष्व वनस्पते' (ऋ. सं. ५. ७८.५) इत्यत्र स्पष्टमुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,34 +98,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Cf. RV 5.78.5
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Saptavadhri honed the blade of fire with hope.  
 – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The curious phrase “honed with hope” is probably motivated in part by the phonological similarity in the Skt. āśásā# … aśāyata#. With Renou (EVP XVI), I take aśāyata here to the root √śā ‘whet, sharpen’, not √(n)aś as with the other forms with the same apparent stem shape. See further ad VI.33.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Erst Saptavadbri by his prayer obtained the trenchant edge of fire:  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Saptavadhri brachte durch sein Vertrauen die Schärfe des Feuers zum Gefrieren. - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es machte Saptavadhri scharf des Agni Schneide durch Gebet; Es sei uns eure Hülfe nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сантавадхри (своим) доверием (к вам)  
 Заморозил лезвие огня.  

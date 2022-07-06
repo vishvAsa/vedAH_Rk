@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्या꣡वा नो अद्य꣡ पृथिवी꣡ अ꣡नागसो  
 मही꣡ त्रायेतां सुविता꣡य मात꣡रा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒षाः । उ॒च्छन्ती॑ । अप॑ । बा॒ध॒ता॒म् । अ॒घम् । स्व॒स्ति । अ॒ग्निम् । स॒म्ऽइ॒धा॒नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyāvā* ← *div*
 - \[noun\], nominative, dual, masculine
@@ -121,7 +121,7 @@ genre M
 **मही** महत्यौ **मातरा** मातरौ सर्वस्य मातृभूते **द्यावा** **पृथिवी** द्यावापृथिव्यौ **अद्य** अस्मिन्नहनि **अनागसः** अपराधरहितान् **नः** अस्मान् **सुविताय** सुखाय **त्रायेतां** रक्षेताम् । किंच **उच्छन्ती** तमांसि विवासयन्ती **उषाः** अस्माकम् **अघं** पापम् **अप** **बाधताम्** अपनयतु । अपि च **समिधानं** सम्यग्दीप्यमानं **अग्निं** **स्वस्ति** सर्वप्रकाराविनाशम् **ईमहे** वयं याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,28 +132,28 @@ genre M
 May the opening dawn drive awayour sin: ucchanti = driving away the darkness-- ucchantī tamāṃsi bivāsayantī
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Heaven and Earth—let the two great mothers protect us, who are  blameless, for our welfare. Let Dawn, dawning, thrust away evil. – We beseech Agni, when he is  kindled, for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the great Twain, the Mothers, Heaven and Earth, this day preserve us free from sin for peace and happiness.  
      May Morning sending forth her light drive sin afar. We pray to kindled Agni for felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Himmel und Erde, die großen Mütter, sollen uns heute als Schuldlose beschirmen zur Wohlfahrt. Die aufleuchtende Morgenröte soll das Übel vertreiben. - Um Heil bitten wir den entflammten Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als schuldlos mögen heute Erd' und Himmel uns, die reichen Mütter helfen uns zum Wohlergehn; Die Morgenröthe treibe leuchtend fort die Schuld, um Segen flehn wir den entflammten Agni an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Небо-и-Земля, две великие матери,  
 Охраняют сегодня нас, невиновных, для удачного путешествия!  

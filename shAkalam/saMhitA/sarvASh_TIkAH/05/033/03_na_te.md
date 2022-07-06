@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ ते꣡ त इन्द्र अभि꣡ अस्म꣡द् ऋष्व  
 अ꣡युक्तासो अब्रह्म꣡ता य꣡द् अ꣡सन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रश्मिं꣡ देव · यमसे सुअ꣡श्वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; line affected by realignment
 तिष्ठ॑ । रथ॑म् । अधि॑ । तम् । व॒ज्र॒ऽह॒स्त॒ । आ । र॒श्मिम् । दे॒व॒ । य॒म॒से॒ । सु॒ऽअश्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -160,44 +160,44 @@ genre M;; line affected by realignment
 हे **ऋष्व** महन् **इन्द्र** **यत्** ये **अस्मत्** अस्मत्तः त्वद्भक्तेभ्योऽन्ये 'अयुक्तासः त्वया असंयुक्ताः **असन्** आसन् अभवन् **अब्रह्मता** । ब्रह्म परिवृढं कर्म । तद्रहितत्वात् **ते** नराः **ते** त्वदीयाः **न** भवन्ति । अतः अस्मद्यज्ञम् **अभि** आगन्तुं **तं** प्रसिद्धं **रथमधि** **तिष्ठ** । हे **वज्रहस्त** इन्द्र **देव** **स्वश्वः** त्वं यं रथमारोढुं **रश्मिं** प्रग्रहम् **आ** **यमसे** नियमयसि तमधि तिष्ठ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since, mighty **Indra**, those who, differing from us, and not united with you through their lack of devotion, are not yours; therefore, divine holder of of the thunderbolt, who are possessed of excellent horses, ascend the car, whose reins you guide, (to come to our sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These (horses) of yours (will) not (remain) unyoked because of us [i.e.,  because of our failure], lofty Indra, if it’s for lack of a (yoking)  
 formulation.  
 Mount on the chariot with mace in hand. You with the good horses will  hold your own rein, o god.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sense of the first hemistich -- that by reciting the (yoking-)formulation we will do our part to ensure that your (Indra’s) horses will be yoked -- is fairly clear, but the syntax is messy. First, it’s couched as a triple negative construction: “it is not that X will not happen because of not-Y,” which already puts it on the edge of parsability. The parsing problem is slightly increased by the fact that the content of the negative “that” clause is expressed through a periphrasis involving a negated participle+copula (áyuktāsaḥ … ásan “will be/remain unyoked”). Then, the position of yád is utterly non-standard, being found deep in the clause, after several different constituents, right before the final word. I tried various ways to produce a conforming subordinate clause from the text, but failed. The published translation “if it's for lack of a (yoking) formulation” (as if abrahmátā yád were a separate embedded clausette) gives the appearance of (almost) succeeding, but it doesn’t accurately represent the text (though I still think it might represent the purport of this odd word order). A more accurate tr. would be “Since these horses …. because of a lack …,” as the dependent clause for the main clause in cd. I remain disturbed by the structure of this dep. cl. A separate problem is the abhí asmád in pāda a. The abhí is stranded in the middle of the pāda (though immed. after the caesura) and in any case has no verb from which it could have been separated in tmesis. In the absence of anything else to do with it, the default option seems to be to construe it with asmád, and this phrase has long (see Oldenberg’s reff.) been compared to I.139.8 asmád abhí, likewise in the middle of the pāda though in opposite order. The problem is that abhí as a preposition seems otherwise only to take the acc. Nonetheless, connecting the two seems the best bet, with a meaning such as “with regard to us” or, better reflecting the ablative, my “because of us.” So Oldenberg, Witzel Gotō. Cf. also Humbach et al. (Gāthās… and the Other Oldenberg Avestan Texts, II.118), ad Y 35.5 (Yasna Haptaŋhaiti) ahmaṭ hiiaṭ aibī, a phrase meaning (in his view) “which is with us,” with which he compares both our passage and I.139.8. However, Narten (YH, 271-72), fld. by Hinze (Zoroastrian Liturgy, 77-78), interprets this three-word phrase, occurring twice in the YH (Y 35.5, 40.1), as containing a postposition aibī governing the neut. acc. hiiaṭ not the abl.
 
 ahmaṭ, with the whole meaning “from us towards which,” thus “as far as we are concerned” (Hintze, 78).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They were not turned to us-wtrd, lofty Indra! while yet through lack of prayer they stood unharnessed.  
      Ascend this chariot, thou whose hand wields thunder, and draw the rein, O Lord of noble horses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da diese deine Falben von uns aus nicht ungeschirrt sein sollen aus Mangel an erbaulicher Rede, o reckenhafter Indra, so besteig diesen Wagen, mit der Keule in der Hand, zieh den Zügel an, o Gott, mit guten Rossen fahrend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, hoher Indra, diese opferlosen, die Andachtscheu'n, nicht mehr als wir dir gelten, So steig, den Blitz im Arme, auf den Wagen, und lenk den Zügel, Herr der schnellen Rosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так как при вы(езде) эти твои (кони), о выдающийся Индра,  
 Из-за нас, из-за отсутствия молитв не должны оставаться незапряженными,  

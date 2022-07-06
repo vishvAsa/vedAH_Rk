@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पूर्वियो꣡ वसुवि꣡ज् जा꣡यमानो  
 मृजानो꣡ अप्सु꣡ दुदुहानो꣡ अ꣡द्रौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद꣡द् गातु꣡म् ब्र꣡ह्मणे पूय꣡मानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒भि॒श॒स्ति॒ऽपाः । भुव॑नस्य । राजा॑ । वि॒दत् । गा॒तुम् । ब्रह्म॑णे । पू॒यमा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -114,36 +114,36 @@ genre M
 **पूर्व्यः** पुराणो यद्वा पूर्वैः कृतोऽभिषुतः **वसुवित्** धनानां लम्भकः **जायमानः** **अप्सु** वसतीवर्याख्येषुदकेषु **मृजानः** मृज्यमानः **अद्रौ** अभिषवग्रावणि **दुदुहानः** दुह्यमानः **अभिशस्तिपाः** । अभितः शस्तिर्हिंसा येषां तेऽभिशस्तयः शत्रवः । तेभ्यः परिरक्षकः **भुवनस्य** भूतजातस्य **राजा** स्वामी एवंविधः **सः** तादृशः सोमः **ब्रह्मणे** कर्मार्थं **पूयमानः** सन् **गातुं** मार्गं समीचीनं **विदत्** यजमानेभ्यः प्रयच्छति ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The ancient (**Soma**) the finder of treasure as soon as genitive rated, cleansed in the waters milked on the stone, the defender against enemies, the sovereign of the world, purified for the sacrifice, shows (the worshipper) the right way.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The primordial one, finding goods (even) while being born, being  groomed in the waters, being milked on the stone,  
 protecting from imprecations, the king of creation, he finds the way for  the sacred formulation as he is being purified.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born in old time as finder-out of treasures, drained with the stone, decking himself in waters,  
      Warding off curses, King of all existence, he shall find way for prayer the while they cleanse him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als allererster Schätzefinder geboren, im Wasser geputzt, auf dem Stein gemolken, vor übler Nachrede schützend, der König der Welt möge geläutert für das Segenswort den rechten Weg ausfindig machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren ist er als der erste Spender, vom Stein gepresst und in der Flut gereinigt, Der Fluchabwehrer und der Weltbeherrscher, verleihe strahlend dem Gebete Fortgang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот изначальный (сома), находящий блага, едва только родится,  
 Начищенный в водах, выжатый на камне,  

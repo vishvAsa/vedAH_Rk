@@ -8,7 +8,7 @@ title = "+135"
 ‘यस्मिन्' इति सप्तर्चं सप्तमं सूक्तं यमगोत्रस्य कुमारस्यार्षमानुष्टुभं यमदेवत्यम्। तथा चानुक्रान्तं- यस्मिन् कुमारो यामायनो याममानुष्टुभं तु ' इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 135 (961)  
 Yama  
@@ -27,7 +27,7 @@ The last verse announces the dead and now reborn man’s arrival at Yama’s  de
 For a detailed presentation of this interpretation of X.135, see Jamison  (forthcoming d).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sohn:
 </details>

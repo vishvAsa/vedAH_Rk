@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यायं꣡ सो꣡मः प꣡रिपूतो अ꣡द्रिभि  
 स्पार्हा꣡ व꣡सानः प꣡रि को꣡शम् अर्षति  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 जुषाणो꣡ याहि अस्मयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 वह॑ । वा॒यो॒ इति॑ । नि॒ऽयुतः॑ । या॒हि॒ । अ॒स्म॒ऽयुः । जु॒षा॒णः । या॒हि॒ । अ॒स्म॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyāyaṃ* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
@@ -165,7 +165,7 @@ genre M
 हे वायो **तुभ्यं** तुभ्यं त्वदर्थम् ॥  ‘ सुपां सुलुक्' इति चतुर्थ्या लुक् ॥ **अयं** **सोमः** हूयमानः **कोशं** कोशस्थानीयं ग्रहम् **अर्षति** गच्छति प्राप्नोति। कीदृशः सोमः । **अद्रिभिः** **परिपूतः** अभिषवसाधनैः अपगतर्जीषत्वेन शोधितः । यद्वा। अद्रिभिरभिषुतो शापवित्रशोधनेन ग्रहणेन वा शोधितः । तथा **स्पार्हा** स्पृहणीयानि तेजांसि **वसानः** पिधानः । किंच **शुक्रा** निर्मलानि दीप्तानि वा तेजांसि **वसानः** सोमः **अर्षति** त्वां प्राप्नोति ॥ ऋषी गतौ' । व्यत्ययेन शप् । हे वायो **आयुषु** मनुष्येषु यष्टव्यत्वेन स्थितः **भागः** भजनीयः **सोमः** **तव** त्वदर्थं **देवेषु** मध्ये **हूयते** । सत्स्वपि इतरेषु देवेषु यतः सोमस्तव भागः अतः प्रथमं तुभ्यं हूयते इत्यर्थः । किंच हे **वायो** एवं तं सोमम् **अस्मयुः** अस्माभिः तद्वान् ॥ मत्वर्थीयो युः ॥ त्वं **नियुतः** **वह** नियुत्संज्ञकानश्वान् वाहनाय प्रापय । ततः परं **याहि** दिवं प्रति गच्छ। तथा कुर्वन् **अस्मयुः** अस्माभिर्युक्तः सन् अस्माननुगृह्णन् अस्मान् कामयमानो वा ॥ क्यचि छान्दसेऽन्त्यलोपे ' क्याच्छन्दसि ' इति उः ॥ **जुषाणः** प्रीयमाणः **याहि** गच्छ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -178,7 +178,7 @@ Paripūto adribhiḥ = abhiṣavaśādhanair apagatarjīśodhitaḥ, purified by
 Ṛjiṣa = gatasaraḥ soma, i.e. soma that has lost its strength; daśāpavitraśodhanena grahaṇena vā śodhitaḥ = purified by straining through **kuśa** grass, or by taking hold of; spārhā **vasānaḥ** = sprhaṇīyāni tejāṃsi pidhānaḥ, putting on desirable or enviable splendours; **pari** kośam arṣati = **kośa**-sthānīyam grahamprāpnoti, it goes to the ladle, as it were, in plural ce of a receptacle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you has this soma been purified all around by the stones; clothing  himself in coveted (garments) he rushes around the cask—clothing  
 himself in gleaming (garments) he rushes.  
@@ -186,7 +186,7 @@ For you is this portion poured among the Āyus, is the soma poured  among the go
 Travel, Vāyu; drive to our teams [=poetic thoughts], seeking us—drive at  your pleasure, seeking us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On váha vāyo niyúto yāhy asmayúḥ see disc. ad VII.90.1.
 
@@ -201,24 +201,24 @@ The fronted forms of tvám (etc.) found in I.134.4-6 continue here, though not a
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Purified by the stones the Soma flows for thee, clothed with its lovely splendours, to the reservoir, flows clad in its refulgent light.  
      For thee the Soma is poured forth, thy portioned share mid Gods and men.  
      Drive thou thy horses, Vayu, come to us with love, come well-inclined and loving us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich ist dieser Soma mit seinen Steinen geläutert; in köstliche Farben sich kleidend umfließt er die Kufe, in helle Farben sich kleidend fließt er. Als dein Anteil wird dieser bei den Ayu´s, der Soma bei den Göttern geopfert. Fahr, o Vayu, die Niyut-Rosse, komm uns geneigt, komm gern, uns geneigt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geläutert von den Steinen strömt der Soma dir in schönes Gut sich kleidend rings zur Kufe hin, in Licht sich kleidend rieselt er; Bei Menschen und bei Göttern ist der Soma dein, ergiesst sich dir; Die Rosse lenke, Vaju, komm uns holdgesinnt, komm freundlich her, uns holdgesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для тебя этот сома очищен повсюду давильными камнями.  
 Рядясь в завидные (одежды), он течет кругом по чану,  

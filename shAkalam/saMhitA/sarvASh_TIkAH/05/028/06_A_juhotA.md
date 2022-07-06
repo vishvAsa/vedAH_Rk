@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ जुहोता दुवस्य꣡त  
 अग्नि꣡म् प्रयति꣡ अध्वरे꣡  
 वृणीध्वं꣡ हव्यवा꣡हनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 वृ॒णी॒ध्वम् । ह॒व्य॒ऽवाह॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M
 हे ऋत्विजो यूयम् **अध्वरे** अस्मदीययागे **प्रयति** प्रवृत्ते सति **हव्यवाहनं** हविषां वोढारम् एतन्नामकम् **अग्निम्** **आ** **जुहोत** आ समन्तात् जुहोत । तथा **दुवस्यत** परिचरत । **वृणीध्वस्** संभजध्वं च हव्यवाहनम् । हव्यवाहननामकस्यैवाग्नेर्देवतासंबन्धो यजमानैर्वरणीयत्वं च तैत्तिरीये स्पष्टमाम्नातं - ' त्रयो वा अग्नयो हव्यवाहनो देवानां कव्यवाहनः पितृणां सहरक्षा असुराणाम् । त एतर्ह्याशंसन्ते मां वरिष्यते मामिति वृणीध्वं हव्यवाहनमित्याह य एव देवानां तं वृणीते' (तै. सं. २. ५. ८. ६ ) इति ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,33 +88,33 @@ genre M
 Three kinds of sacrificial fires, according to the **Taittirīya** are: **havyavāhana**, which receives the oblation intended for the gods; the **kavyavāhana**, that intendended for the pitara; and the saharakṣas, that intended for the **asuras**; the worshipper is directed to select the first, on this occasion
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pour an offering to Agni and seek his friendship as the rite goes forth. Choose him as the conveyor of oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Invoke and worship Agni while the sacrificial rite proceeds:  
      For offering-bearer choose ye him.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Sacrifice into (Agni); exalt Agni, while the sacrifice is going on. Choose him for your carrier of oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Opfert ihm, ehret Agni, wenn das Opfer vor sich geht; erwählet ihn zum Opferfahrer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Begiesst den Agni und beschenkt bei vorgeschrittner Feier ihn, Zum Opferfahrer wählt ihn euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возливайте (жертвенное масло), почитайте  
 Агни, когда идет обряд!  

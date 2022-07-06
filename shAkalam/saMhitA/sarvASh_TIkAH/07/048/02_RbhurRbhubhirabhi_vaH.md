@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋभु꣡र् ऋभु꣡भिर् अभि꣡ वः सियाम  
 वि꣡भ्वो विभु꣡भिः श꣡वसा श꣡वांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रेण युजा꣡ तरुषेम वृत्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वाजः॑ । अ॒स्मान् । अ॒व॒तु॒ । वाज॑ऽसातौ । इन्द्रे॑ण । यु॒जा । त॒रु॒षे॒म॒ । वृ॒त्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 हे ऋभवः **ऋभुभिः** युष्माभिर्वयम् **ऋभुः** । उरु भवन्तीत्यृभवः । सन्तः **विभुभिः** युष्माभिः **विभ्वः** विभवश्च सन्तः **शवांसि** शत्रूणां बलानि **शवसा** युष्मदीयेन बलेन **अभि** **स्याम** अभिभवेम । तथा **वाजसातौ** संग्रामे **वाजः** एतत्संज्ञक ऋभुः **अस्मानवतु** पालयतु । अपि च **युजा** सहायभूतेन **इन्द्रेण** **वृत्रं** शत्रुं वयं **तरुषेम** हनाम । प्रायेणर्भवोऽपीन्द्रेण सह स्तूयन्त इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,30 +121,30 @@ genre M
 Ṛbhus: ṛbhur ṛbhubhihvibhvo vibhubhiḥ: **ṛbhu** and uru = great; **vibhu** **vibhvaḥ** = rich or powerful
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As R̥bhu with the R̥bhus, as Vibhvan with the Vibhus, we would  
 overcome vast powers by your vast powers.  
 Let Vāja help us in winning the prize (vā́ja). With Indra as our yokemate,  we would overcome our Vr̥tra [=obstacle].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we as Rbhu with your Rbhus conquer strength with our strength, as Vibhus with the Vibhus.  
      May Vaja aid us in the fight for booty, and helped by Indra may we quell the foeman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Ribhu mit den Ribhu´s, als Vibhu mit den Vibhu´s möchten wir durch eure Kraft den Kräften anderer überlegen sein. Vaja soll uns beistehen im Kampf um den Siegespreis. Mit Indra im Bunde wollen wir den Vritra, den Feind, überwinden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei Ribhu mit den Ribhu's, ihr die unsern, mit Vibhu's Vibhvan und mit Kraft die Kräfte; Es helf uns Vadscha bei dem Kampf um Beute, im Bund mit Indra lasst den Feind uns schlagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как Рибху вместе с (другими) Рибху, как Вибхва вместе с (другими) Вибху,  
 Мы хотим с помощью вашей силой превзойти силы (врагов)!  

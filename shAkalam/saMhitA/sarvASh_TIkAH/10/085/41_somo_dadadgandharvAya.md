@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मो ददद् गन्धर्वा꣡य  
 गन्धर्वो꣡ ददद् अग्न꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अग्नि꣡र् म꣡ह्यम् अ꣡थो इमा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 र॒यिम् । च॒ । पु॒त्रान् । च॒ । अ॒दा॒त् । अ॒ग्निः । मह्य॑म् । अथो॒ इति॑ । इ॒माम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -114,35 +114,35 @@ popular;; epic anuṣṭubh (380)
 **सोमः** **गन्धर्वाय** प्रथमं **ददत्** प्रादात् । **गन्धर्वः** **अग्नये** प्रादात् । **अथो** अपि च **अग्निः** **इमां** कन्यां **रयिं** धनं **पुत्रांश्च** **मह्यम्** अदात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma** gave her to the **Gandharva**; the Gandharva gave her to **Agni**; Agni has given her to me andwealth and sons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma gave (her) to the Gandharva; the Gandharva gave (her) to Agni. Agni has given both wealth and sons to me, and also this woman here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma to the Gandharva, and to Agni the Gandharva gave:  
      And Agni hath bestowed on me riches and sons and this my spouse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma gab sie dem Gandharva, Gandharva gab sie dem Agni. Agni hat jetzt Reichtum und Söhne und auch diese mir gegeben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Soma gab sie dem Gandharva, Gandharva gab sie dem Agni, und darauf hat mir Agni dies Weib gegeben, und mit ihr auch Reichthum und Söhne.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома отдал Ганхарве,  
 Ганхарва отдал Агни,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ योधिष्टम् अभि꣡ गा꣡ इन्द्र नून꣡म्  
 अपः꣡ सु꣡वर् उष꣡सो अग्न ऊळ्हाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपो꣡ गा꣡ अग्ने युवसे नियु꣡त्वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दिशः॑ । स्वः॑ । उ॒षसः॑ । इ॒न्द्र॒ । चि॒त्राः । अ॒पः । गाः । अ॒ग्ने॒ । यु॒व॒से॒ । नि॒युत्वा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -138,20 +138,20 @@ genre M
 हे **इन्द्र** हे **अग्ने** **ता** तो युवां **गाः** **अपः** उदकानि **स्वः** सूर्यम् **उषसः** उषःकालान् **ऊळ्हाः** पणिभिरपहृता एतान् गवादीनभिलक्ष्य **योधिष्टम्**। तैरसुरैर्युद्धं कृतवन्तौ । **नूनम्** इति पादपूरणार्थः । हे **इन्द्र** त्वं **दिशः** प्राच्याद्याः **स्वः** सूर्यम् **उषसः** च **चित्राः** चायनीयाः **अपः** उदकानि च **गाः** च पणिभिरपहृतानेतान् **युवसे** अनेन लोकेनायोजयः। यद्वा । असुरैरावृतान् दिगादीन् असुरवधेनावरणमपनीय पृथक्कृतवानसीत्यर्थः । हे **अग्ने** **नियुत्वान्** नियुद्भिरश्वैर्युक्तः सन् त्वमप्येवमकार्षीरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, verily you have combated for (the recovery of) the cows, the waters, the sun, the dawns that had been carried away (by the **asuras**); you reunite, Indra (with the world), the quarters of the horizon, the sun, the wonderful waters, the dawns, the cattle and so do you, Agni, who have the **Niyut** steeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two, do battle for cows now, o Indra, for the waters, the sun, and the  dawns who were carried (away), o Agni.  
 The quarters, the sun, the brilliant dawns, o Indra—the waters, the cows,  do you, o Agni, as teamster hitch up as your team.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Assuming that uṣásaḥ … ūḷhā́ḥ is a single NP, the question is what happened to the dawns. Geldner, fld. by Renou, thinks that the dawns were taken away, that is, abducted (entführten, enlevées). If, as Geldner suggests (n. 2), this concerns the Vala myth, the dawns qua cows can be conceptualized as taken / stolen by the Paṇis.
 
@@ -160,23 +160,23 @@ Assuming that uṣásaḥ … ūḷhā́ḥ is a single NP, the question is what
 In d Agni must be the immediate subj. of the clause, given the adjacency of the voc. and the 2nd sg. verb (agne yuvase) -- but, as Renou points out, niyútvān is more an epithet of Indra than of Agni -- and, as he doesn’t point out, even more an epithet of Vāyu in conjunction with Indra. I therefore wonder if this has not been adapted from an Indra-Vāyu context, with a different set of dual divinities. The d pāda is also very close to an Indra passage fairly nearby: VI.47.14 apó gā́vajrin yuvase sám índūn, with Indra as the subj. of yuvase: “You join together the waters, the cows, and the drops, you possessor of the mace.” The substitution of Agni and the attribution to him of Indra’s qualities and actions is in conformity with the tendency noted in the published introduction. of favoring the Indraic in this supposedly shared hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So battle now, O Indra and thou, Agni, for cows and waters, sunlight, stolen Mornings.  
      Team-borne, thou makest kine thine own, O Agni: thou, Indra, light, Dawns, regions, wondrous waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr beide, Indra, Agni, kämpfet auch jetzt für die Rinder, für die Gewässer, die Sonne, die entführten Usas´! Die Weltpole, die Sonne, die buntfarbigen Usas´, o Indra, die Gewässer, die Rinder hältst du fest, o Agni, der Lenker der Niyutgespanne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erkämpft euch, Indra-Agni, Kühe, Wasser, die Sonne, die entführten Morgenröthen; Ihr, Indra-Agni, schirrt euch an als Rosse die Räume, Wasser, Sonne, lichte Morgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы оба (и) сейчас боритесь за коров, о Индра,  
 За воды, солнце, за уведенные утренние зори, о Агни!  

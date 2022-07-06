@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ द्योतयद् अद्यु꣡तो वि꣡ अक्तू꣡न्  
 दोषा꣡ व꣡स्तोः शर꣡द इ꣡न्दुर् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शु꣡चिजन्मन उष꣡सश् चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इ॒मम् । के॒तुम् । अ॒द॒धुः॒ । नु । चि॒त् । अह्ना॑म् । शुचि॑ऽजन्मनः । उ॒षसः॑ । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -133,7 +133,7 @@ genre M
 हे **इन्द्र** त्वया नियम्यमानः पीयमानो वा अयम् **इन्दुः** सोमः **अद्युतः** अद्योतमानान् **अक्तून्** । अक्तुरिति रात्रिनाम । अत्र च तत्संबन्धात् पक्षमासादयो लक्ष्यन्ते । पक्षमासादीन् तथा **दोषा** रात्रिं **वस्तोः** दिवसं **शरदः** संवत्सरांश्च **वि** द्योतयत् व्यदीपयत्। कुत इत्यत आह । **नू** **चित्** पुरा देवाः **इमं** सोमं चन्द्रात्मना नभसि वर्तमानम् **अह्नां** दिवसानां **केतुं** प्रज्ञापकं यस्मात् **अदधुः** व्यदधुः अकुर्वन् तस्मादनेन पक्षमासादयः सर्वे प्रकाश्यन्ते । चन्द्रगत्यधीनत्वात्तिथिविभागानाम् । अपि चायं सोमः **उषसः** उषःकालान् **शुचिजन्मनः** आत्मीयेन तेजसा शुद्धोदयान् **चकार** करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,13 +144,13 @@ genre M
 This Soma: **ayam** **induḥ** = Soma, implying both the moon and the Soma product; Soma is here candrātmā nabhasi **vartamānaḥ**, the same as the moon present in the sky, and as: candragatyādhīnatvāt tithivibhāgaḥ, the division of lunar days are dependent upon the motions of the moon, it may be said to be cause of days, weeks, months and years, the first term: aktun = fortnights, months and years; or, the longest periods of time; implied terms: tvayā pīyamānaḥ, to be drunk by you (since this interpretation is justified by the pronoun ayam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This drop here lights up the unlit nights in the evening and at dawn  through the autumns, o Indra.  
 This one they established to be ever the beacon of the days: he has made  the dawns to have blazing birth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of ayám as soma is fixed by índuḥ ‘drop’ towards the end of b, but not until fairly late in this sequence. The play of índu- and índra- so prominent in Maṇḍala IX is found here in their adjacency at the end of the hemistich.
 
@@ -169,23 +169,23 @@ On vss. 3-4 see Hoffmann, Injunk. 142-43.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Indu lighted darksome nights, O Indra, throughout the years, at morning and at evening.  
      Him have they stablished as the days' bright ensign. He made the Mornings to be born in splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Saft hat die unerhellten Nächte erhellt, abends und morgens alle Herbste, o Indra. Diesen haben sie für immer zum Wahrzeichen der Tage gemacht; er schuf die reingeborenen Usas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die dunkeln Nächte machte dieser Indu, o Indra, hell, die Herbste, Abends, Morgens; Die Götter machten ihn zur Tagesfackel, und Indra schuf die lichten Morgenröthen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот сок освещал неосвещенные ночи,  
 Вечером и утром, (все) осени, о Индра.  

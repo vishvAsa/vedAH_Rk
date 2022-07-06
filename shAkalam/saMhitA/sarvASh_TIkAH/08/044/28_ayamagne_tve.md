@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् अग्ने तुवे꣡ अ꣡पि  
 जरिता꣡ भूतु सन्तिय  
 त꣡स्मै पवाक+ मॄळय+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 तस्मै॑ । पा॒व॒क॒ । मृ॒ळ॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **पावक** शोधक **सन्त्य** भजनीय **अग्ने** **त्वे** **अपि** त्वय्यपि **अयम्** अस्मदीयो जनः **जरिता** स्तोता **भूतु** भवतु । **तस्मै** जरित्रे **मृळय** सुखमुत्पादय । तं सुखय वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Adorable: santya = bhajanīya; or, phalaprada
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this singer here abide in you, comrade Agni.  
 To him be merciful, o pure one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And let this man, good Agni, be with thee the singer of thy praise:  
      Be gracious, Holy One, to him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Sänger soll bei dir Zuflucht finden, wahrhafter Agni. Ihm sei barmherzig, o Reiner!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit dir sei, Agni, fest vereint, o guter, dieser Sänger hier, Ihm sei du hold, o flammender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот певец, о Агни,  
 Да будет тебе близок, о истинный (бог)!  

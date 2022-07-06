@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ र꣡जांसि विममे꣡ पा꣡र्थिवानि  
 त्रि꣡श् चिद् वि꣡ष्णुर् म꣡नवे बाधिता꣡य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 राया꣡ मदेम तनु꣡वा त꣡ना च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । ते॒ । शर्म॑न् । उ॒प॒ऽद॒द्यमा॑ने । रा॒या । म॒दे॒म॒ । त॒न्वा॑ । तना॑ । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -116,41 +116,41 @@ genre M
 **यः** **विष्णुः** **बाधिताय** असुरैर्हिंसिताय **मनवे** प्रजापतये तदर्थं **पार्थिवानि** पृथिव्या संबद्धानि **रजांसि** लोकान् । त्रींल्लोकानिति यावत् । **त्रिः** **विममे**। **चित्** इत्यवधारणे । त्रिभिरेव विक्रमणैः परिमितवान् । हे विष्णो **तस्य** तादृशस्य **ते** तव । तृतीयार्थे षष्ठी । ईदृशेन त्वया **उपदद्यमाने** अस्मभ्यं दीयमाने **शर्मन्** शर्मणि गृहे सुखे वा वर्तमानाः सन्तो वयं **राया** धनेन **तन्वा** रोगादिरहितेन शरीरेण च **तना** तनयेन पुत्रेण **च** **मदेम** मोदेम । हृष्टा भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we be happy in a home, in riches, in person nn, in children, bestowd upon us by you, **Viṣṇu**, who with three (steps) made the terrestrial reions for **Manu** when harassed (by the **asuras**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who measured out the earthly realms three times exactly, for Manu,  who was hard-pressed—Viṣṇu—  
 in this shelter of yours (still) being offered might we rejoice with wealth,  with life and lineage.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another syntactic trick, though far less complex than in the last vs. The first half-vs., describing Viṣṇu’s cosmogonic deed, is couched in the 3rd ps., with the pf. vimamé ‘he measured out’, but in the 2nd half, expressing our present-day desire to live under Viṣṇu’s protection, the god is in the more intimate 2nd ps., in the phrase tásya te, lit. “of this you,” where tásya provides the syntactic pivot to 2nd sg. enclitic te. On such doublings see my “sa figé.” For “hard-pressed Manu” (mánave bādhitā́ya), see the same phrase in VII.91.1, where, as here, a god (or gods) perform(s) a cosmogonic deed that allows the sacrifice to be instituted.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who for man's behoof in his afiliction thrice measured out the earthly regions, Visnu-  
      When one so great as thou affordeth shelter, may we with wealth and with ourselves be happy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem Vishnu die irdischen Räume dreimal durchmessen hat für den bedrängten Mann, wollen wir in deiner dargebotenen Zuflucht am Reichtum uns ergötzen, wir selbst mit den Kindern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der dreimal auch der Erde Räume ausschritt zum Nutzen des bedrängten Menschen, Vischnu, In dessen Schutze mögen wir gedeihen, den du uns reichst, an Reichthum, Leib und Kindern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вишну, который измерил земные просторы  
 Целых три раза для угнетенного человека, –  

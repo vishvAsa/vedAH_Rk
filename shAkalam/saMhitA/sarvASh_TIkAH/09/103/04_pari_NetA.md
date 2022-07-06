@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि णेता꣡ मतीनां᳐꣡  
 विश्व꣡देवो अ꣡दाभियः  
 सो꣡मः पुनान꣡श् चमु꣡वोर् विशद् ध꣡रिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सोमः॑ । पु॒ना॒नः । च॒म्वोः॑ । वि॒श॒त् । हरिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pariṇetā* ← *pariṇī* ← *√nī*
 - \[verb\], singular, periphrast. future
@@ -83,7 +83,7 @@ genre M
 हरिः हरितवर्णः सः सोमः पुनानः पूयमानः सन् **चम्वोः** अधिषवणफलकयोः परि **विशत्** परिविशति । कीदृशः । **मतीनां** स्तुतीनां नेता यद्वा मतीनां स्तोतॄणां स्वकर्मण्युपनेता **विश्वदेवः** सर्वदेवः । सोमेऽभिषूयमाणे सतीन्द्रादयः सर्वे देवाः सोमं प्रत्यागच्छन्ति खलु । तस्मात् सर्वदेवोपेतः अत एव **अदाभ्यः** अहिंसितः कैश्चिदपि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,13 +94,13 @@ genre M
 I.e. camuṣu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Around (he rushes)—the leader of thoughts, belonging to all the gods,  undeceivable.  
 Soma the tawny, being purified, entered the two cups.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Starting with this vs., the pári has no organic connection to the rest of the vs. Here I supply arṣati on the basis of vss. 2-3. So also Renou, Hoffmann (133).
 
@@ -109,23 +109,23 @@ On viśvádevo ádābhyaḥ as a clever variant on IX.102.5 víśve devā́so á
 Geldner takes injunc. viśat as model (“… möge sich … niederlassen”), but with Renou and Hoffmann (133-34) I take it as a general present referring to Soma’s standard ritual action.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Shared by all Gods, Infallible, the Leader of our holy hymns,  
      Golden-hued Soma, being cleansed, hath reached the bowls.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Leiter der Gedanken, der allen Göttern gehörende kreist unbeirrt um. Der sich läuternde Soma, der Goldgelbe, möge sich in beiden Camugefäßen niederlassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Führer der Gebete er, der holde, allen Göttern lieb, Der goldne Soma geh zur Schale flammend durch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Он течет) кругами, вождь поэтических мыслей.  
 Принадлежащий всем богам, безобманный.  

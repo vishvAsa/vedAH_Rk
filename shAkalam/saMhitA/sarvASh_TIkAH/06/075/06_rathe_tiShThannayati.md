@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡थे ति꣡ष्ठन् नयति वाजि꣡नः पुरो꣡  
 य꣡त्र-यत्र काम꣡यते सुषारथिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡नः पश्चा꣡द् अ꣡नु यछन्ति रश्म꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒भीशू॑नाम् । म॒हि॒मान॑म् । प॒ना॒य॒त॒ । मनः॑ । प॒श्चात् । अनु॑ । य॒च्छ॒न्ति॒ । र॒श्मयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
@@ -111,42 +111,42 @@ popular
 अत्र पूर्वार्धे सारथिस्तुतिरुत्तरार्धेऽभीशूनां स्तुतिः । **सुषारथिः** शोभनसारथिः **रथे** **तिष्ठन्** **पुरः** पुरस्तात् वर्तमानान् **वाजिनः** अश्वान् **यत्रयत्र** नेतुं **कामयते** तत्र तत्र **नयति** । ये रथे **रश्मयः** अश्वग्रीवाभ्यां व्याप्य वर्तमानाः पाशाः **पश्चात्** रथस्य पृष्ठभागे विद्यमानाः अश्वान् **मनः** सारथेर्मनोऽनुकूलम् **अनु** **यच्छन्ति** नियच्छन्ति । तेषाम् अभीशूनां रश्मीनां **महिमानं** महत्त्वं **पनायत** हे जनाः स्तुत । तथा च यास्कः- ‘ रथे तिष्ठन्नयति वाजिनः पुरस्तात्सतो यत्र यत्र कामयते सुषारथिः कल्याणसारथिरभीशूनां महिमानं पूजयत मनः पश्चात्सन्तोऽनुयच्छन्ति रश्मयः ' ( निरु. ९.१६ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The skilful charioteer, standing in the car, derives his horses before him whatsoever he will; praise the efficacy of the reins, for the reins from the back (of the car compel the steeds) to follow the intention (of the driver).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Standing on the chariot, he leads the prizewinners [=horses] forward  wherever he desires: the good charioteer.  
 Admire the greatness of the reins. The cords guide, following the  
 (charioteer’s) mind (though it is) behind them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both hemistichs of this vs. express the same paradox, that an entity behind can lead something in front of it. In ab the good charioteer (suṣārathíḥ) “leads forward” (nayati … puráḥ) the horses that are physically in front of him; in cd the reins, which stretch in front of the charioteer from his hands, follow his mind, which is physically behind them (mánaḥ paścā́d ánu).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Upstanding in the Car the skilful Charioteer guides his strong Horses on whithersoe'er he will.  
      See and admire the strength of those controlling Reins which from behind declare the will of him who drives.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem Wagen stehend lenkt er der treffliche Wagenlenker die Streitrosse voran, wohin er immer will. Preiset die Macht der Zügel: die Leitseile richten sich nach dem Sinn des Wagenlenkers dahinter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der gute Lenker, welcher auf dem Wagen steht, wohin er wünschet, treibt er seine Rosse vor; die Grösse seiner Zügel lässt er prächtig schaun, nach seinem Willen lenken sie den Wagen ihm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стоя на колеснице, вперед направляет боевых коней  
 Умелый возница, куда только ни пожелает.  

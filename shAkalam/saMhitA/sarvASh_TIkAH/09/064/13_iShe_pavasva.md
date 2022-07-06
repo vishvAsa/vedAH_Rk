@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इषे꣡ पवस्व धा꣡रया  
 मृज्य꣡मानो मनीषि꣡भिः  
 इ꣡न्दो रुचा꣡भि꣡ गा꣡ इहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दो॒ इति॑ । रु॒चा । अ॒भि । गाः । इ॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** सोम **मनीषिभिः** ऋत्विग्भिः **मृज्यमानः** शोध्यमानस्त्वम् **इषे** अस्माकमन्नाय **धारया** **पवस्व** क्षर । **रुचा** रोचमानेनान्धसा **गाः** पशून् **अभि** **इहि** अभिगच्छ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,13 +93,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Ruc = food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For refreshment purify yourself in a stream, being groomed by the  inspired ones.  
 O drop, with your light come toward the cows.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ Again, each vs. has a form of √pū, for what that’s worth (pavasva 13a, pun�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward with a stream for food, made beautiful by sapient men:  
      Indu with sheen approach the milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich im Strome zum Genuß, von den Nachsinnenden geputzt; o Saft, geh mit deinem Glaste auf die Kühe los!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Labung riesle hell im Strom, gereinigt von den kundigen, Geh, Indu, glänzend zu der Milch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

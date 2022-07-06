@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हि꣡रण्यदन्तं शु꣡चिवर्णम् आरा꣡त्  
 क्षे꣡त्राद् अपश्यम् आ꣡युधा मि꣡मानम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कि꣡म् मा꣡म् अनिन्द्राः꣡ कृणवन्न् अनुक्थाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 द॒दा॒नः । अ॒स्मै॒ । अ॒मृत॑म् । वि॒पृक्व॑त् । किम् । माम् । अ॒नि॒न्द्राः । कृ॒ण॒व॒न् । अ॒नु॒क्थाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyadantaṃ* ← *hiraṇyadantam* ← *hiraṇyadat*
 - \[noun\], accusative, singular, masculine
@@ -120,41 +120,41 @@ genre M
 **हिरण्यदन्तं** हिरण्यसदृशदन्तस्थानीयज्वालोपेतं **शुचिवर्णं** प्रदीप्तवर्णम् **आयुधा** आयुधानि आयुधस्थानीयान् स्फुलिङ्गान् ज्वाला वा **मिमानं** निर्मिमाणमग्निम् **आरात्** समीपे **क्षेत्रात्** क्षेत्रे देशे **अपश्यं** पश्येयम् । एवं वृशः कामयते । अहम् **अस्मै** अग्नये **अमृतम्** अविनाश्यमृतत्वसाधनं वा **विपृक्वत्** सर्वतो व्याप्तं हविः स्तोत्रं वा ददानः दातास्मि । **माम्** **अनिन्द्राः** । इन्द्रः परमैश्वर्योऽग्निः । तद्रहिता अनिन्द्राः । इन्द्रमयजन्त इत्यर्थः । अनुक्थाः अस्तुतय इन्द्रमस्तुवन्तश्च **किं** **कृणवन्** किं कुर्युः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I have seen him from a near plural ce, golden-toothed, bright-coloured, wielding (flames like) weapons, (when) offering to him the ambrosial, all-diffusing (oblation); what can those who acknowledge not **Indra**, who repeat not his praise, do unto me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I saw him with golden teeth and flaming color far away from his  homeland, showing the measure of his weapons,  
 as I gave to him my immortal (soma) without impurity. What can those  without Indra, without recitations, do to me?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I saw him from afar gold-toothed, bright-coloured, hurling his weapons from his habitation,  
      What time I gave him Amrta free from mixture. How can the Indraless, the hymnless harm me?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I saw him the gold-toothed, brilliant-coloured preparing his weapons far from his dwelling-place 1. After I have offered to him the ambrosia cleared (from all impure mixture) 2—what may the Indra-less, the hymnless do to me?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich sah den Goldzahnigen von reinem Aussehen fern von seiner Flur, wie er die Waffen erprobte. Ich gebe ihm das befreiende Lebenselixier. Was können die mir anhaben, die keinen Indra, keine Lieder kennen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den goldgezahnten, lichtgefärbten sah ich aus ferner Gegend, seine Waffen rüstend, Nachdem ich lautern Göttertrank ihm reichte; was thun Ungläub'ge mir und Liederlose.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я видел златозубого, обладающего чистым цветом,  
 Далеко от (своего) поля примеряющего оружие,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवं꣡ वो अद्य꣡ सविता꣡रम् ए꣡षे  
 भ꣡गं च र꣡त्नं विभ꣡जन्तम् आयोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवे꣡-दिवे चिद् अश्विना सखीय꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । वा॒म् । न॒रा॒ । पु॒रु॒ऽभु॒जा॒ । व॒वृ॒त्या॒म् । दि॒वेऽदि॑वे । चि॒त् । अ॒श्वि॒ना॒ । स॒खि॒ऽयन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
@@ -131,7 +131,7 @@ genre M
 **देवं** द्योतमानं **सवितारं** सर्वस्याभ्यनुज्ञातारं **वः** । त्वामित्यर्थः । यद्वा होतुरिदं वाक्यम् । वः यजमानेभ्यो युष्मभ्यमर्थाय **अद्य** इदानीम् **एषे** उपगच्छामि । **भगं** **च** भजनीयं देवम् **आयोः** मनुष्यस्य यजमानस्य **रत्नं** रमणीयं हविः **विभजन्तम्** । ‘भगो वां विभजतु ' इति हि भगस्य विभजनं प्रसिद्धम् । ‘रायो विभक्ता संभरश्च वस्वः' ( ऋ. सं. ४. १७. ११ ),  ‘ भगो विभक्ता शवसा ' (ऋ. सं. ५. ४६. ६ ) इति च श्रुतिः । यद्वा । चतुर्थ्यर्थे षष्ठी । यजमानार्थं रत्नं रमणीयं धनं विभजन्तम् । हे **नरा** नेतारौ हे **पुरुभुजा** । पुरु भुञ्जाते इति पुरुभुजौ। हे **अश्विना** अश्विनौ **वां** युवां **दिवेदिवे** प्रतिदिनम् **आ** **ववृत्याम्** आवर्तयाम्यस्मदभिमुखम् । **सखीयन्** युवयोः सखित्वमिच्छन् । **चित्** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,7 +142,7 @@ genre M
 Distributors of precious wealth: the function was assigned to Bhaga (RV. 5.046.06), bhago **vibhakta**, dhanānām vibhāgakarttā; here he is called ratnam vibhajantam: ratnam is applied to **haviṣ**, the oblation; yajamānārtham dhanam vibhajantam; in RV. 4.017.11, he is called rayo vibhakta
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I hasten toward god Savitar for you today, and toward Bhaga who  apportions the treasure of Āyu.  
 I would also turn hither you two superior men, who bring many  
@@ -150,30 +150,30 @@ enjoyments—seeking companionship with you, o Aśvins, day
 after day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the first hemistich seems to pick up the last one of the previous hymn (48.5cd), where Bhaga and Savitar are identified as the givers of desirable things. Āyu is always a somewhat mysterious figure in the RV, and in this case it is difficult to tell whether the gen. āyóḥ dependent on rátnam (also in 2d) is in possessive or indirect object use -- that is, are the two gods distributing treasure to Āyu or Āyu’s treasure to others. Geldner seems to opt for the former, Renou and Witzel Gotō the latter. In this case, the end of the last hymn may be helpful: V.48.5cd ná tasya vidma … yáto bhágaḥ savitā́dā́ti vā́ryam “We do not know that from which Bhaga and Savitar will give what is choice.” The ablatival yátaḥ ‘from which’ indicates the source from which they will acquire what they then distribute. If 49.1 is in some way responsive to this, āyóḥ should likewise indicate the source not the recipient of the treasure.
 
 In the 2nd hemistich I tr. the vocc. narā purubhujā … aśvinā as if acc., to avoid extra fuss.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS day I bring God Savitar to meet you, and Bhaga who allots the wealth of mortals.  
      You, Asvins, Heroes rich in treasures, daily seeking your friendship fain would I turn hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich nahe mich heute für euch dem Gott Savitri und Bhaga, der dem Ayu die Belohnung austeilt. Euch beide, ihr vielnützenden Herren, möchte ich herlenken, um Tag für Tag euch Freundschaft zu halten, ihr Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich flehe an Gott Savitar auch heute und Bhaga, der dem Menschen Gut vertheilet; Euch möcht' ich herziehn, freudenreiche Männer, o Ritter, täglich eure Freundschaft suchend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К богу Савитару я обращаюсь для вас сегодня  
 И к Бхаге, распределяющему сокровище Аю.  

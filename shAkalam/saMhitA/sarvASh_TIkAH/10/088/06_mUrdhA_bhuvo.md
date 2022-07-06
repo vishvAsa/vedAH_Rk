@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मूर्धा꣡ भुवो꣡ भवति न꣡क्तम् अग्नि꣡स्  
 त꣡तः सू꣡र्यो जायते प्रात꣡र् उद्य꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पो य꣡त् तू꣡र्णिश् च꣡रति प्रजान꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मा॒याम् । ऊं॒ इति॑ । तु । य॒ज्ञिया॑नाम् । ए॒ताम् । अपः॑ । यत् । तूर्णिः॑ । चर॑ति । प्र॒ऽजा॒नन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mūrdhā* ← *mūrdhan*
 - \[noun\], nominative, singular, masculine
@@ -136,7 +136,7 @@ popular
 **अग्निः** वैश्वानरोऽग्निः **नक्तं** रात्रौ **भुवः** भूतजातस्य **मूर्धा** शिरोवत्प्रधानभूतः **भवति** । रात्रौ सर्वप्राणिनामालोकस्य तदधीनत्वात् । **ततः** रात्रेरनन्तरं **प्रातरुद्यन्** **सूर्यो** **जायते** । अहनि स एव वैश्वानरोऽग्निः सूर्यो भवतीत्यर्थः । किंच **यज्ञियानां** यज्ञसंपादिनां देवानां **मायामु** प्रज्ञामेव **एतां** मन्यन्ते कवय इति शेषः । **यत्** **प्रजानन्** प्रज्ञायमानः सूर्यः **तूर्णिः** त्वरमाणः सन् **अपः** अन्तरिक्षं कर्म वा **चरति** । तथा च यास्कः-’ मूर्धा मूर्तमस्मिन्धीयते मूर्धा यः सर्वेषां भूतानां भवति नक्तमग्निस्ततः सूय जायते प्रातरुद्यन्त्स एव । प्रज्ञां त्वेतां मन्यन्ते यज्ञियानां देवानां यज्ञसंपादिनामपो यत्कर्म चरति प्रजानन्त्सर्वाणि स्थानान्यनुसंचरति त्वरमाणः ' (निरु. ७. २७) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,29 +151,29 @@ Firmament: **Nirukta** 7.27;
 **Māyā**: illusion
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni becomes the head of the world by night; thence is the sun born,  rising early in the morning.  
 (Behold) this artful contrivance of those worthy of the sacrifice, that the  swift one pursues his work, knowing the way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Head of the world is Agni in the night-time; then, as the Sun, at morn springs up and rises.  
      Then to his task goes the prompt Priest foreknowing the wondrous power of Gods who must be honoured.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Nachts ist Agni das Haupt der Erde; aus ihm wird am Morgen der aufgehende Surya geboren. Seht doch dieses Kunststück der opferwürdigen Götter, daß er pünktlich an sein Werk geht, des Weges kundig;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Erde Haupt ist Agni in den Nächten, dann steigt er früh als Sonne auf am Morgen; Wenn eilend er ans Werk geht, wohl erkennend die Zaubermacht der altehrwürd'gen Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ночью Агни бывает главой земли,  
 Из него рано утром рождается восходящий Сурья.  

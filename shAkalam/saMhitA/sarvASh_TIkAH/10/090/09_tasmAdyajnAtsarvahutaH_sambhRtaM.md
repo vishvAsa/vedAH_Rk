@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्माद् यज्ञा꣡त् सर्वहु꣡तः  
 स꣡म्भृतम् पृषदाजिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आरण्या꣡न् ग्रामिया꣡श् च ये꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 प॒शून् । तान् । च॒क्रे॒ । वा॒य॒व्या॑न् । आ॒र॒ण्यान् । ग्रा॒म्याः । च॒ । ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
@@ -213,7 +213,7 @@ popular;; epic anuṣṭubh (380)
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 
 ### English translation:
@@ -225,29 +225,29 @@ popular;; epic anuṣṭubh (380)
 Vāyu: vāyuvyan: **Taittirīya** **Brāhmaṇa** 3.2.1.3; or, who are governed by instrumental nct
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From that sacrifice, when it was offered in full, the clotted-butter  mixture was collected.  
 It [=the sacrifice] was made into the animals: those of the air (and both) those that belong to the wilderness and those that belong to the village.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From that great general sacrifice the dripping fat was gathered up.  
      He formed the creatures of-the air, and animals both wild and tame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus diesem vollständig geopferten Opfer entstanden die Verse und Sangesweisen, aus ihm entstanden die Metren, aus ihm entstand der Opferspruch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda ŕcas], die Gesänge [des Sāma-Veda sâmāni], aus ihm entsprangen die Zauberlieder [chándānsi siehe oben], aus ihm die Opfersprüche [des Jadschur-Veda yájus].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из этой жертвы, полностью принесенной,  
 Гимны и напевы родились,  

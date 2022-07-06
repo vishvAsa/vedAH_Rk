@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्त꣡म्भीद् ध द्यां꣡ स꣡ धरु꣡णम् प्रुषायद्  
 ऋभु꣡र् वा꣡जाय द्र꣡विणं न꣡रो गोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मे꣡नाम् अ꣡श्वस्य प꣡रि मात꣡रं गोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अनु॑ । स्व॒ऽजाम् । म॒हि॒षः । च॒क्ष॒त॒ । व्राम् । मेना॑म् । अश्व॑स्य । परि॑ । मा॒तर॑म् । गोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stambhīddha* ← *stambhīt* ← *stambh*
 - \[verb\], singular, Athematic is aor. (Ind.)
@@ -136,7 +136,7 @@ genre M
 **सः** इन्द्रः **द्यां** द्युलोकं ःस्तम्भीद्ध स्तभ्नाति खलु । तथा **गोः** पणिभिरपहृतस्य गोसमूहस्य वज्रस्य उदकस्य किरणसमूहस्य वा ःनरः नेता स इन्द्रः **ऋभुः** सूर्यत्मना उरु विस्तीर्णं भासमानः सन् **द्रविणं** सर्वैः प्राणिभिरभिद्रवणीयं **धरुणम्** । उदकनामैतत् । सर्वस्य धारकं वृष्ट्युदकं **वाजाय** अन्नार्थं बलार्थं वा **प्रुषायत्** प्रुष्णाति सिञ्चति प्रवर्षतीत्यर्थः । अपि च **महिषः** । महन्नामैतत् । महान् सूर्यरूपी इन्द्रः **स्वजां** स्वसकाशादुत्पन्नां **व्राम्** । वृणोति तमसा सर्वमाच्छादयतीति व्रा रात्रिः । यद्वा । प्रकाशेन वृणोतीति वा उषाः । ताम् **अनु** **चक्षत** । चष्टिः पश्यतिकर्मा । अनु पश्चात्पश्यति प्रकाशते । स्वयं प्रौढप्रकाशोऽपि स्वगत्या निष्पादिताया रात्रेरुषसश्च पश्चादुदेति' इत्यर्थः । अपि च इदमपरमाश्चर्यं यदयम् **अश्वस्य** **मेनाम्** । स्त्रीनामैतत् । स्त्रियं वडवां **गोः** **मातरं** जननीम् ॥ परिर्वैपरीत्ये। विपरीतमकरोत् । कदाचिदिन्द्रो लीलया अश्वायां गामुत्पादयामास । तदत्र प्रतिपाद्यते मन्त्रान्तरे च इन्द्रवाक्यरूपे एतद्विस्पष्टमवगम्यते ॥ धरुणम् ।  ‘ धारेर्णिलुक्च इति उनप्रत्ययः । प्रुषायत् । प्रुष प्लुष स्नेहनसेचनपूरणेषु । क्रैयादिकः । लेटि अडागमः ।  ‘ छन्दसि शायजपि ' इति अहावपि श्नाप्रत्ययस्य शायजादेशः । नरः ।  ‘ नॄ नये । बहुलवचनात्  ‘ ऋदोरप्' इति कर्तरि अप् । चक्षत । ‘चक्षिङ् व्यक्तायां वाचि'। छान्दसो लङ् ।  ‘ बहुलं छन्दसि ' इति शपो लुगभावः ॥“सः इन्द्रः **द्यां** द्युलोकं ःस्तम्भीद्ध स्तभ्नाति खलु । तथा **गोः** पणिभिरपहृतस्य गोसमूहस्य वज्रस्य उदकस्य किरणसमूहस्य वा ःनरः नेता स इन्द्रः **ऋभुः** सूर्यत्मना उरु विस्तीर्णं भासमानः सन् **द्रविणं** सर्वैः प्राणिभिरभिद्रवणीयं **धरुणम्** । उदकनामैतत् । सर्वस्य धारकं वृष्ट्युदकं **वाजाय** अन्नार्थं बलार्थं वा **प्रुषायत्** प्रुष्णाति सिञ्चति प्रवर्षतीत्यर्थः । अपि च **महिषः** । महन्नामैतत् । महान् सूर्यरूपी इन्द्रः **स्वजां** स्वसकाशादुत्पन्नां **व्राम्** । वृणोति तमसा सर्वमाच्छादयतीति व्रा रात्रिः । यद्वा । प्रकाशेन वृणोतीति वा उषाः । ताम् **अनु** **चक्षत** । चष्टिः पश्यतिकर्मा । अनु पश्चात्पश्यति प्रकाशते । स्वयं प्रौढप्रकाशोऽपि स्वगत्या निष्पादिताया रात्रेरुषसश्च पश्चादुदेति' इत्यर्थः । अपि च इदमपरमाश्चर्यं यदयम् **अश्वस्य** **मेनाम्** । स्त्रीनामैतत् । स्त्रियं वडवां **गोः** **मातरं** जननीम् ॥ परिर्वैपरीत्ये। विपरीतमकरोत् । कदाचिदिन्द्रो लीलया अश्वायां गामुत्पादयामास । तदत्र प्रतिपाद्यते मन्त्रान्तरे च इन्द्रवाक्यरूपे एतद्विस्पष्टमवगम्यते ॥ धरुणम् ।  ‘ धारेर्णिलुक्च इति उनप्रत्ययः । प्रुषायत् । प्रुष प्लुष स्नेहनसेचनपूरणेषु । क्रैयादिकः । लेटि अडागमः ।  ‘ छन्दसि शायजपि ' इति अहावपि श्नाप्रत्ययस्य शायजादेशः । नरः ।  ‘ नॄ नये । बहुलवचनात्  ‘ ऋदोरप्' इति कर्तरि अप् । चक्षत । ‘चक्षिङ् व्यक्तायां वाचि'। छान्दसो लङ् ।  ‘ बहुलं छन्दसि ' इति शपो लुगभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,13 +147,13 @@ genre M
 Indra = the sun. In jest (?), Indra is said to have made a mare bring forth a calf
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He propped up heaven, and he sprinkled its foundation [=earth]. The  ingenious one (provided) movable wealth of man and cow for the prize. The buffalo gazed after (Dawn,) the self-created maiden making her  choice (of husband), (who turned into) the consort of the horse  
 [=Sun], (then into) the mother of the cow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take náro as the nom. sg. of a thematic form of the ‘man’ stem, a nom. sg. that is otherwise not found in the RV (save possibly in svàrṇara-) and only very sparingly in the rest of Vedic (see AiG III.212). I follow Grassmann, Oldenberg, and Witzel Gotō in taking it as a gen. sg. of the athematic ‘man’ stem, even though the other two occurrences registered by Grassmann are better taken as nom. pl. It replaces expected *nur (cf. Aves. nərəš). It is parallel here to góḥ, and this gen. expression characterizes the type of dráviṇa- that Indra is providing as a prize. Since dráviṇa- is a derivative of √dru ‘run’, it really is ‘moveable wealth’, and both cattle and men would qualify.
 
@@ -168,23 +168,23 @@ The term svajā́- ‘self-created’ has two applications in the passage. On th
 On the other hand, it can characterize all the role transformations she undergoes in cd, loosely “(re)creating herself as …” For further on vrā́- and this passage in general, see Jamison 2003 (Fs. H.-P. Schmidt) pp. 45-47, also X.111.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He stablished heaven; he poured forth, skilful worker, the wealth of kine, for strength, that nurtures heroes.  
      The Mighty One his self-born host regarded, the horse's mate, the mother of the heifer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er stützte den Himmel, er benetzte die Unterlage. Als Ribhu hat er, der Herr, den Besitz der Kuh zum Siegerpreis bestimmt. Der Büffel sah dem selbsterzeugten Lockweib nach. Er hatte das Weibchen des Pferdes in die Mutter der Kuh verwandelt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er befestigte den Himmel, benetzte den Erdboden, der kunstreiche, und alles Gut zur Labung des Menschen und des Viehes; es blickte der Büffel hin auf die ihm angehörige Schar, auf die Stute des Rosses und auf die Mutter des Rindes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он укрепил небо, он окропил основу (земли).  
 Искусный (муж), он назначил богатство в виде коровы как награду (людям).  

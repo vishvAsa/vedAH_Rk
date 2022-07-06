@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्म राशि꣡म् प꣡रि यासि गो꣡नाम्  
 इ꣡न्द्रेण सोम सर꣡थम् पुनानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शि꣡क्षा शचीवस् त꣡व ता꣡ उपष्टु꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पू॒र्वीः । इषः॑ । बृ॒ह॒तीः । जी॒र॒दा॒नो॒ इति॑ जीरऽदानो । शिक्ष॑ । श॒ची॒ऽवः॒ । तव॑ । ताः । उ॒प॒ऽस्तुत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -129,20 +129,20 @@ genre M
 **उत** **स्म** अपि च खलु हे **सोम** **पुनानः** पूयमानः **गोनां** गवां **राशिं** समूहं पणिभिरपहृतं **परि** **यासि** परिगच्छसि । कथंभूतः सन् उच्यते । **इन्द्रेण** सह **सरथम्** एकमेव रथमास्थाय । हे **जीरदानो** क्षिप्रदान सोम **उपस्तुत्** उपस्तूयमानस्त्वं **पूर्वीः** बह्वीः **बृहतीः** महतीः **इषः** उक्तलक्षणान्यन्नानि **शिक्ष** देहि । हे **शचीवः** अन्नवन् **ताः** इषः **तव** स्वभूता इति शेषः ॥ ॥२३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And being purified, **Soma**, you pursue the herd of (stolen) cattle in the same chariot with **Indra**; O you who give quickly, give (us) when invoked plural ntiful and abundant viands, for they are your (property) O you who abound in food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And now while being purified, Soma, you drive around a throng of cows  in the same chariot with Indra,  
 and around many lofty refreshments, you of lively drops. Do your best,  able one. These (refreshments? verses?) are your invitatory praise.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation takes pāda c as a second complement of pári yāsi in pāda a, parallel to rāśím … gónām. By contrast both Geldner and Renou take c as the obj. (or pseudoobj.) of śíkṣā in d: e.g., “Suche uns … viele grosse Labsale zu erwirken.” But the lexicalized desid. stem śíkṣa- does not take an obj., but only a dative of benefit (see comm. ad VI.31.4), and so that interpr. seems blocked to me. However, it may be an independent nominal clause: “many are (your) lofty refreshments,” the interpr. I would now favor. Scarlatta’s (636-37) interpr. is similar, though he then sneaks c in as an understood obj. of śíkṣā: “ Viel, gross sind die Labungen … verhilf [zu diesen]” or “… verhilf uns [dazu],” which seems unnec.
 
@@ -153,23 +153,23 @@ Geldner simply says (n. 9d) that upaṣṭút at the end of the hymn represents 
 Here I suggest that we are announcing our praise-song as Indra’s refreshments, the counterpart to the refreshments he offers us. The published translation does not convey this sense; it should be changed to “These (refreshments) are (our) praise for you.” The retroflexion in upaṣṭút- is extremely puzzling, esp. given the nonretroflexed úpastuta- (upastutá-), úpastuti-, upastútya-. AiG I.237 registers the form, but simply says that sometimes -ṣ- in cmpds spreads beyond its proper domain, which isn’t terribly helpful.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cleansing thyselr, and borne along with Indra, Soma, thou goest round the herd of cattle.  
      May thy praise help us, Mighty One, prompt Giver, to the full ample food which thou bestowest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und du holest die Menge der Kühe ein, mit Indra auf gleichem Wagen, o Soma, wann du dich läuterst. Suche uns, o du Raschgebender, Vermögender, viele große Labsale zu erwirken! Dein sind diese Lobpreisungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und, Soma, du durchfährst die Schar der Kühe mit Indra du auf gleichem Wagen, strahlend, O starker, spende viele grosse Schätze in reichem Strome, dir sind sie zur Hand ja.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также ты догоняешь массу коров,  
 О сома, с Индрой на одной колеснице, когда тебя очищают.  

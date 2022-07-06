@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ क्रोशना꣡सो वि꣡षुअञ्च आयन्  
 प꣡चाति ने꣡मो नहि꣡ प꣡क्षद् अर्धः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्रु꣡अन्न इ꣡द् वनवत् सर्पि꣡रन्नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒यम् । मे॒ । दे॒वः । स॒वि॒ता । तत् । आ॒ह॒ । द्रुऽअ॑न्नः । इत् । व॒न॒व॒त् । स॒र्पिःऽअ॑न्नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -134,7 +134,7 @@ popular
 **वि** **क्रोशनासः** विविधं प्रजापतिं पितरमाह्वयन्तः **विष्वञ्चः** नानागतयो नानापूजना वा सर्वेऽङ्गिरसः **आयन्** आगच्छन् । प्रजापतेः सकाशादुत्पन्ना इत्यर्थः । उत्पद्यमानः **नेमः** अर्धोऽङ्गिरसां मध्य एको भागः **पचाति** प्रजापत्यर्थं हवींषि पचति । **अर्धः** अपरो भागः **नहि** **पक्षत्** नहि पचति । एतत्सर्वं कथमज्ञायि उच्यते । **अयम्** ईदृशः **देवः** द्योतमानः **सविता** सर्वस्य प्रेरक आदित्यो वा प्रजापतिर्वा **मे** मह्यं **तत्** सर्वं यथोक्तम् **आह** । किंच **सर्पिरन्नः** घृतौदनः **द्रन्न** **इत्** दार्वोदनः अग्निरपि **वनवत्** हविर्द्वारेण प्रजापतिं वनति संभजते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ popular
 **Savitr**. = the stimulator of all, i.e., **Āditya** or Prajāpati
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Shrieking, they went apart in opposite directions: one half will cook,  for the other half does not cook.  
 This god Savitar here says this to me, “Only he whose food is wood,  whose food is melted butter will win.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Crying aloud they ran in all directions: One half of them will cook, and not the other.  
      To me hath Savitar, this God, declared it: He will perform, whose food is wood and butter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schreiend gingen sie nach zwei Seiten auseinander: der eine Teil soll braten, denn die andere Hälfte wird nicht braten. Das sagte mir dieser Gott Savitri: Nur der Holzfresser wird gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schreiend liefen sie alle nach verschiedenen Seiten auseinander »der eine Theil derselben soll kochen, der andere soll nicht kochen«. Dies sagte mir dieser Gott Savitar; der Holz verzehrende, Butter geniessende [Agni] möge hold sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

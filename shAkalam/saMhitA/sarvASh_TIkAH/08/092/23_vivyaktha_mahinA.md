@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विव्य꣡क्थ महिना꣡ वृषन्  
 भक्षं꣡ सो꣡मस्य जागृवे  
 य꣡ इन्द्र जठ꣡रेषु ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 यः । इ॒न्द्र॒ । ज॒ठरे॑षु । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vivyaktha* ← *vyac*
 - \[verb\], singular, Perfect indicative
@@ -79,40 +79,40 @@ genre M
 हे **वृषन्** कामानां वर्षितर्हे **जागृवे** जागरणशीलेन्द्र त्वं तस्य **सोमस्य** **भक्षं** पानं प्रति **महिना** स्वमहिम्ना **विव्यक्थ** सर्वतो व्याप्तवानसि । व्यचेर्लिटि थलि  ‘ °अभ्यासस्योभयेषाम् । (पा. सू. ६. १. १७) इति संप्रसारणम् । हे **इन्द्र** **यः** सोमः **ते** **जठरेषु** उदरेषु प्रविशति तस्य पानं व्याप्तवानसीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, showerer (of blessings), wakeful one, you have attained by your might the drinking of the Somawhich enters your belly.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O wakeful bull, with your greatness you encompass the portion of soma that is in your belly, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Following Kümmel (503), I take the act. pf. of √vyac as a presential stative.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, wakeful Hero, by thy might hast taken food of Soma juice,  
      Which, Indra, is within thee now.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Bulle fassest in deiner Größe den Trank des Soma, du Wachsamer, der in deinem Leib ist, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit deiner Gröss' umfängst, o Stier, den Trank des Soma's, munter, du, Der, Indra, drang in deinen Bauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

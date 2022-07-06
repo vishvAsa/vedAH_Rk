@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सवं꣡ सवितु꣡र् यथा  
 भ꣡गस्येव भुजिं꣡ हुवे  
 अग्निं꣡ समुद्र꣡वाससम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒ग्निम् । स॒मु॒द्रऽवा॑ससम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **सवितुः** प्रेरकस्य देवस्य **सवं** यथा प्रसवमिव **भगस्येव** **भुजिं** भगाख्यस्य देवस्य भोगमिव च **समुद्रवाससम्** **अग्निं** **हुवे** आह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Like the energy of Savitā: savam **savituḥ** = prerakasya **devasya** prasavam; cf. 8.100.12; like theenjoyments granted by **Bhaga**: bhagasyeva bhujim = bhagākhyasya devasya bhogam iva; or, bhuji =like thefavour of Bhaga
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As if upon the stimulus of Savitar, upon the benefit of Bhaga,  I call upon  
 Agni, whose garment is the sea.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Savitar's productive Power, as him who sends down bliss, I call  
      Agni who clothes him with the sea.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe ihn an wie die Anweisung des Savitri, wie des Bhaga Wohltat, den Agni, der sich in das Meer einhüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der dem Trieb des Savitar und dem Genuss des Bhaga gleicht Agni, den meerumkleideten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как (призывают) побуждение Савитара,  
 Как наслаждение Бхаги, я зову  

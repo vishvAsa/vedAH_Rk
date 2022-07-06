@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति त्वा शवसी꣡ वदद्  
 गिरा꣡व् अ꣡प्सो न꣡ योधिषत्  
 य꣡स् ते शत्रुत्व꣡म् आचके꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यः । ते॒ । श॒त्रु॒ऽत्वम् । आ॒ऽच॒के ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **त्वा** त्वां **शवसी** बलवती माता **प्रति** **वदत्** प्रत्यवोचत् । **यस्ते** **शत्रुत्वमाचके** कामयते सः **गिरौ** पर्वते **अप्सो** **न** दर्शनीयो गज इव **योधिषत्** योधयति ॥ ॥ ४२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,36 +100,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Elephant: apsaḥ = person nal charms, teeth (RV 1.124.7), beauty (RV 5.80.6; here, a beautiful elephant; or, is itthe cloud which covers the earth and the mountains (i.e. **vṛtra**)?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She, the strong one [/Śavasī], replied to you: “Like a wasp at a mountain  he will fight,  
 who desires rivalry with you.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Śavasī is taken by many as the name of Indra’s mother, but there is no particular reason not to take it in its lexical sense, referring to the same woman.
 
 The Pp. text divides the beginning of b into girā́v ápso, with the second word the s-stem ápsas- ‘breast’, a word otherwise used of Uṣas (I.124.7, V.80.6). But even in a proverbial expression such as this seems to be, where semantic latitude is to be expected, “like a/the breast/chest at a mountain” (or Geldner “Wie mit der Brust gegen den Berg ...,” taking ápsaḥ as a truncated instr. *ápsasā) doesn’t make any sense. Oldenberg suggests a different word division: girā́vápso, with the latter being the word for ‘wasp’ found elsewhere in Indo-European, though not directly in Indo-Aryan (except, quite possibly, in I.181.8); see EWA s.v. vápsas-. This does allow sense to be made of the expression: the extraordinary size difference between a wasp and a mountain dooms the wasp, but wasps are notoriously belligerent and therefore willing to take on any opponent, however unlikely they are to defeat it. In the same way, anyone who is foolhardy enough to take on Indra will ensure certain defeat for himself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Savasi answered, He who seeks thine enmity will battle like  
      A stately elephant on a hill.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir antwortet die Savasi: Wie mit der Brust gegen den Berg will kämpfen, der deine Gegnerschaft wünscht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da sprach zu dir die kräftige: Wie Nebel auf des Berges Höh' Wird kämpfen, der dir feind gesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сильная тебе отвечала:  
 (Это) все равно, что биться лбом о гору,  

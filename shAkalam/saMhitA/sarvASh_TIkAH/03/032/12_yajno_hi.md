@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञो꣡ हि꣡ त इन्दर+ व꣡र्धनो भू꣡द्  
 उत꣡ प्रियः꣡ सुत꣡सोमो मिये꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यज्ञ꣡स् ते व꣡ज्रम् अहिह꣡त्य आवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 य॒ज्ञेन॑ । य॒ज्ञम् । अ॒व॒ । य॒ज्ञियः॑ । सन् । य॒ज्ञः । ते॒ । वज्र॑म् । अ॒हि॒ऽहत्ये॑ । आ॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
@@ -135,19 +135,19 @@ genre M
 हे **इन्द्र** अस्मदीयोऽयं **यज्ञः** **ते** तव **वर्धनः** हविष्प्रदानेन वर्धयिता **भूत्** **हि** भवति खलु। **उत** अपि च **सुतसोमः** अभिषुतसोमवान् **मियेधः** सारभूतोऽयं यज्ञः तव **प्रियः** । स त्वं **यज्ञियः** यज्ञार्हः **सन्** 'यज्ञं यज्ञस्य कर्तारं यजमानं **यज्ञेन** अनुष्ठीयमानेनानेन **अव** फलप्रदानेन रक्ष। किंचायं **यज्ञः** **ते** तव **वज्रमहिहत्ये** वृत्रहनने कर्मणि **आवत्** रक्षतु ॥ वर्धनः । वृधु वर्धने ' इत्यस्य ण्यन्तस्य नन्द्यादित्वात् ल्युप्रत्ययः । लित्स्वरः । भूत् । हियोगादनिघातः । अव । अवतेर्लोटि रूपम् । निघातः । सन् । असेः शतरि रूपम् । प्रत्ययस्वरः । अहिहत्ये । **हन** हिंसागत्योः । इत्यस्य भावे ‘हनस्त च ' इति क्यप् तकारश्चान्तादेशः । कृदुत्तरपदस्वरः । आवत् । अवतेश्छान्दसे लहङि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This our sacrifice, **Indra**, is your augmentation, for the rite in which the **Soma** is effused is acceptable to you do you who is deserving of worship protect the worshipper by (the efficacy of) the worship, and may this sacrifice strengthen your thunderbolt for the slaying of Ahi.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since the sacrifice has become your strengthener, Indra, and the dear  ritual meal of pressed soma also, aid sacrifice upon sacrifice, being the one who deserves the sacrifice; the  sacrifice aided your mace in the serpent-smashing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 yajñá- is the focus of this vs., with 5 occurrences of it or a transparent deriv.
 
@@ -156,23 +156,23 @@ I take várdhanaḥ as the predicate of pāda b as well as pāda a (“the meal 
 The nom. sg. pres. part. sán ‘being’ is not used concessively (“although being …”) as it normally is. I think it may have the same force as it does in III.30.5, a “definitional” one: Indra is by definition the one deserving of / derivationally associated with the sacrifice, and therefore he is the one who should aid it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sacrifice, Indra, made thee wax so mighty, the dear oblation with the flowing Soma.  
      O Worshipful, with worship help our worship, for worship helped thy bolt when slaying Ahi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn das Opfer wurde für dich, o Indra, stärkend und lieb ist dir das Opfermahl, bei dem der Soma ausgepreßt wird. Begünstige Opfer um Opfer, der du opferwürdig bist! Das Opfer half deiner Keule im Drachenkampf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn dir, o Indra, war das Opfer Stärkung und die geliebte somareiche Speise; O opferwerther, Opfer nimm auf Opfer; das Opfer half dem Blitz beim Drachenkampfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь жертва была для тебя, о Индра, средством усиления,  
 И приятна тебе жертвенная пища из выжатого сомы.  

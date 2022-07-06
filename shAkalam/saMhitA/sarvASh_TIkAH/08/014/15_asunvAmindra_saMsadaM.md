@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 असुन्वा꣡म् इन्द्र संस꣡दं  
 वि꣡षूचीं वि꣡ अनाशयः  
 सोमपा꣡ उ꣡त्तरो भ꣡वन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सो॒म॒ऽपाः । उत्ऽत॑रः । भव॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asunvām* ← *asunva*
 - \[noun\], accusative, singular, feminine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** त्वं **सोमपाः** सोमस्य पाता भूत्वा **उत्तरः** उत्कृष्टतरः **भवन्** **असुन्वां** सोमाभिषवहीनां **संसदं** जनसंहतिं **विषूचीं** परस्परविरोधेन विषु नाना गन्त्रीं **व्यनाशयः** विशेषेण नाशयसि ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,29 +98,29 @@ Drinker of the Soma: or, you who on drinking the Soma become pre-eminent;
 Viṣūcim = discordant,parasparavirodhena **nānā** gantrīm
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, you made the community that performs no (soma-)pressing  vanish away in all directions—  
 you as the soma-drinker getting the upper hand.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Soma-drinker conquering all, thou scatteredst to every side  
      Their settlement who poured no gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gesellschaft, die keinen Soma preßt, jagtest du, Indra, auseinander; als Somatrinker hattest du die Oberhand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die somalose Rotte triebst du auseinander, Indra, rings, Und schlugst, o Somatrinker, sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Собрание, не выжимающее (сому),  
 Ты разогнал в разные стороны,  

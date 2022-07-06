@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अमृ꣡तं जात꣡वेदसं  
 तिर꣡स् त꣡मांसि दर्शत꣡म्  
 घृता꣡हवनम् ई꣡डियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 घृ॒तऽआ॑हवनम् । ईड्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, masculine
@@ -67,36 +67,36 @@ genre M
 स एवागत्य स्तौति । **अमृतम्** अमरणं **जातवेदसं** जाततेजआद्युपलक्षणधनं **तमांसि** **तिरः** **दर्शतं** नाशयन्तमित्यर्थः। **घृताहवनम्** । घृतमाहूयते यत्र तम् । **ईड्यं** स्तुत्यम्। ईदृशमागन्मेति संबन्धः ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(We have come) to the immortal **Jātavedas**, who shows light across the darkness, well worthy ofpraise, and receiving the offering of ghī.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To immortal Jātavedas, lovely to see across the dark shades,  
 receiving the ghee-oblation, worthy to be invoked;
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To deathless Jatavedas, meet for praise, adored, with sacred oil,  
      Visible through the gloom o:f night
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem unsterblichen Jatavedas, der durch das Dunkel sichtbar ist, dem mit Schmalz begossenen, anzurufenden;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem ew'gen Wesenkenner ihm, der durch das Dunkel sichtbar ist, Der preisenswerth die Opfer fährt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

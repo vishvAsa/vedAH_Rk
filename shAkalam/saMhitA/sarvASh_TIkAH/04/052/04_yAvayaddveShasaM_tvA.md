@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यावय꣡द्द्वेषसं तुवा  
 चिकित्वि꣡त् सूनृतावरि  
 प्र꣡ति स्तो꣡मैर् अभुत्स्महि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 प्रति॑ । स्तोमैः॑ । अ॒भु॒त्स्म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāvayaddveṣasaṃ* ← *yāvayat* ← *yāvay* ← *√yu*
 - \[verb noun\]
@@ -70,7 +70,7 @@ genre M
 **यावयद्द्वेषसम्** । यवयन्तो वियुज्यमाना द्वेषांसि द्वेष्टारो यस्यास्तादृशी । पृथक्क्रियन्ते द्वेषांस्यनयेति वा । रात्रौ हननायोद्युक्ता द्वेषिण उषःकाले हि पलायन्ते । तादृशीं **चिकित्वित्** ज्ञापयन्तीं **त्वा** त्वां **सूनृतावरि** । सूनृतेति वाङ्नाम । तद्वति देवि **स्तोमैः** स्तुतिभिः **प्रति** अभुत्स्महि प्रतिबोधयामः । स्तुम इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -81,29 +81,29 @@ genre M
 The baffler of animosities: yāvayad dveṣasam, the Dawn puts to flight those enemies who had been endeavouring to destroy their adversaries during the night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With awareness of you, in response to you, who keep away hatred,  o liberal-spirited one,  
 we have awakened with praises.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thinking of thee, O joyous One, as her who driveth hate away,  
      We woke to meet thee with our lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben dich, die du Anfeindungen abwehrst, aufmerksam mit Lobliedern heran-gewacht, du Großmütige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die du die Feindeschar verjagst, Dich weckten wir durch Lobgesang, O wonnereiche andachtsvoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Навстречу тебе, прогоняющей враждебность,  
 Мы чутко пробудились  

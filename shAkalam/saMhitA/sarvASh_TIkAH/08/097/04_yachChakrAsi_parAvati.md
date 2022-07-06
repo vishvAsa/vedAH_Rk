@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡च् छक्रा꣡सि पराव꣡ति  
 य꣡द् अर्वाव꣡ति वृत्रहन्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सुता꣡वाँ आ꣡ विवासति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अतः॑ । त्वा॒ । गीः॒ऽभिः । द्यु॒ऽगत् । इ॒न्द्र॒ । के॒शिऽभिः॑ । सु॒तऽवा॑न् । आ । वि॒वा॒स॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yacchakrāsi* ← *yat*
 - \[adverb\]
@@ -106,7 +106,7 @@ genre M
 हे शक्र शत्रुहननसमर्थेन्द्र यद्यदा परावति विप्रकृष्टेतिदूरे द्युलोके देशे असि विद्यसे हे वृत्रहन् वृत्रस्य हन्तरिन्द्र यद्यदि अर्वावति अर्वाचीने तस्मादधस्तात् स्थिते तदपेक्षया समीपेदेशेन्तरिक्षे भवसि । तस्मादपि अतोस्माद्भूलोकाद्वा द्युगत् गमॢगतौ क्विपि गमःक्वाविति अनुना- सिकलोपः तुक् सुपांसुलुगितिलुक् । द्युलोकम्प्रति गच्छद्भिः स्वभासा सर्वतोगच्छद्भिः केशिभिः केशवद्भिः हरिभिरिवस्थिताभिर्गीर्भिः स्तुतिभिः त्वा त्वां सुतवानभिषुतसोमवान्यजमान आविवासति आत्मीयं यज्ञं प्रत्यागमयति त्वामेतैः स्तोत्रैःपरिचरतीतिवा ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,28 +117,28 @@ genre M
 Whether you...lower:whether you are in the heaven or in the firmament; heaven-going: dyugat: an instrumental ument plural ral
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whether, able one, you are in the distance, whether nearby, Vr̥tra-smiter, from there he who has pressed soma seeks to attract you, Indra, with  hymns as hairy-maned (horses) on heaven’s way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whether, O Sakra, thou be far, or, Vrtra-slayer, near at hand,  
      Thence by heaven-reaching songs he who hath pressed the juice invites thee with thy long-maned Steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ob du, Mächtiger, in der Ferne, ob du in der Nähe bist, o Vritratöter, der Somapresser bittet dich von dort mit den himmelwärtsgehenden Lobesworten als den bemähnten Rossen her, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, starker Vritratödter, du entfernt, wenn in der Näh' du bist, Von dort her zieht mit Liedern wie mit Rossen dich, vom Himmel her, wer Soma braut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о могучий, ты находишься далеко,  
 Когда поблизости, о убийца Вритры,  

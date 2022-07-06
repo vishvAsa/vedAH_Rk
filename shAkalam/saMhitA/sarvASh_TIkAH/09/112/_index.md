@@ -8,7 +8,7 @@ title = "+112"
 ‘नानानम्' इति चतुर्ऋचं नवमं सूक्तमाङ्गिरसस्य शिशुनाम्न आर्षम् । पञ्चपदा पङ्क्तिश्छन्दः । पवमानः सोमो देवता । तथा चानुक्रान्तं -- नानानं चतुष्कं शिशुः पाङ्क्तं हि' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 112 (824)  
 Soma Pavamāna  
@@ -20,7 +20,7 @@ Casting about for a reason for the refrain and for the inclusion of this hymn in
 ful to abandon.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this hymn has no apparent connection with soma except for the refrain.
 </details>

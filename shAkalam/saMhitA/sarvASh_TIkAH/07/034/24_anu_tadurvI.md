@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु त꣡द् उर्वी꣡ रो꣡दसी जिहाताम्  
 अ꣡नु द्युक्षो꣡ व꣡रुण इ꣡न्द्रसखा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रायः꣡ सियाम धरु꣡णं धिय꣡ध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अनु॑ । विश्वे॑ । म॒रुतः॑ । ये । स॒हासः॑ । रा॒यः । स्या॒म॒ । ध॒रुण॑म् । धि॒यध्यै॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -124,20 +124,20 @@ genre M
 **तत्** वक्ष्यमाणम् **उर्वी** विस्तीर्णे **रोदसी** द्यावापृथिव्यौ **अनु** **जिहाताम्** अनुगच्छताम्। अनुमन्येतामित्यर्थः। **द्युक्षः** दीप्तेर्निवासभूतः **इन्द्रसखा** इन्द्रसखः । इन्द्रः सखा यस्येति बहुव्रीहिः। **वरुणः** च तत् **अनु** जिहीताम् । द्विवचनान्तस्यैकवचनान्ततया विपरिणामः । **ये** **सहासः** शत्रूणामभिभवितारः ते **मरुतः** अपि तत् **अनु** जिहताम् । अत्र बहुवचनान्ततया विपरिणामः । यदनुमन्तव्यं तदाह । **धियध्यै** भरणीयं धारयितुं **रायः** धनस्य **धरुणं** धाम स्थानं वयं **स्याम** भवेमेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let the vast heaven and earth consent, let the brilliant **Varuṇa**, of whom **Indra** is the friend consent; letall the victorious **Maruts** consent that we may be a recepacle for the retention of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then let the two broad world-halves follow suit, let heaven-ruling  Varuṇa, whose comrade is Indra, follow;  
 let all the Maruts, who are victorious, follow. Might we be (fit) to found  the buttress of wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the izafe-like yé sahā́saḥ nominal relative clause.
 
@@ -146,23 +146,23 @@ Correctly accented gen. sg. rāyáḥ appears here; see comm. on vss. 22-23.
 On the infinitive construction here, see Keydana, Infinitive im Ṛgveda, 70, 159.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To this may both the wide Worlds lend approval, and Varuna in heaven, whose Friend is Indra.  
      May all the Maruts give consent, the Victors, that we may hold great wealth in firm possession.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem sollen die weiten Rodasi stattgeben, dem der himmlische Varuna, der Indra zum Freunde hat, dem alle Marut, die gewaltigen. Wir möchten imstande sein, die Grundlage des Reichtums zu legen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das mögen beide Welten uns gewähren, das der himmlische Varuna, des Indra Genosse, das alle Maruts, die gewaltigen, dass festen Grund des Reichthums wir erlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это должны признать две широкие половины вселенной,  
 При(знать) живущий на небе Варуна с Индрой-товарищем,  

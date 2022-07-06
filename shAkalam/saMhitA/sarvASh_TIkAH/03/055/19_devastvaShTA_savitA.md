@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देव꣡स् त्व꣡ष्टा सविता꣡ विश्व꣡रूपः  
 पुपो꣡ष प्रजाः꣡ पुरुधा꣡ जजान  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 इ॒मा । च॒ । विश्वा॑ । भुव॑नानि । अ॒स्य॒ । म॒हत् । दे॒वाना॑म् । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devas* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
@@ -131,20 +131,20 @@ genre M;; repeated line
 **सविता** अन्तर्यामितया सर्वस्य प्रेरकः **विश्वरूपः** नानाविधरूपः **त्वष्टा** त्वष्टृनामकः **देवः** **प्रजाः** **पुरुधा** बहुधा **जजान** जनयति । ताश्च **पुपोष** पोषयति । **इमा** इमानि **विश्वा** विश्वानि सर्वाणि **भुवनानि** भूतजातानि **च** **अस्य** त्वष्टुः संबन्धीनि ॥ विश्वरूपः ।  ‘ बहुव्रीहौ विश्वं संज्ञायाम्' इति पूर्वपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine **Tvaṣṭā** the impeller (of all), the multiform, has begotten and nourished a numerous progeny, for all these worlds are of him; great and unequalled is the might of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 God Tvaṣṭar, the impeller providing all forms, flourishes; he has  begotten offspring in great quantity,  
 and all these creatures here are his. – Great is the one and only lordship  of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is striking that pāda a is reused in the famous Yama-Yamī dialogue hymn (X.10.5b), where Yamī claims that Tvaṣṭar made them a married couple in the womb. I do not think there is an echo of that story here; the point of intersection is simply the association of Tvaṣṭar with conception, pregnancy, and birth (cf., e.g., X.184).
 
@@ -163,23 +163,23 @@ I’m not sure why Tvaṣṭar appears here. The previous vs., with the arrival 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tvastar the God, the omniform. Creator, begets and feeds mankind in various manner.  
      His, verily, arc all these living creatures. Great is the Gods' supreme dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gott Tvastri, der Bestimmer, der alle Formen bildet, hat den Nachwuchs vermehrt und in großer Zahl erzeugt und alle diese sind seine Geschöpfe. -Groß ist die einzige Asuramacht der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Tvaschtar, der Gott, belebend, vielgestaltig, erzeugt' und nährte reichlich die Geschöpfe, Und diese Wesen alle sind sein eigen; gross ist allein der Götter Geistesfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бог Тваштар, Савитар обладающий всеми обличьями,  
 Дал процветание потомству, многократно породил (его),  

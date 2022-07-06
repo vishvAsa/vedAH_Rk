@@ -10,7 +10,7 @@ title = "+038"
 चातुर्विंशिकेऽहनि माध्यंदिने सवनेऽच्छावाकशस्त्रे अभि तष्टेव ' इत्यहरहःशस्यनामकं सूक्तम् । सूत्रितं च-' उदु ब्रह्माण्यभि तष्टेवेतीतरावहरहःशस्ये ' ( आश्व. श्रौ. ७. ४ ) इति । एवं सर्वत्राहर्गणेषु द्वितीयादिष्वहःसु माध्यंदिने सवनेऽच्छावाकशस्त्र एतत्सूक्तम् ।।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 38 (272)  
 Indra  
@@ -28,7 +28,7 @@ bers in verse 6ab.
 In verse 7a we return to the androgynous Ur-creator, now explicitly identified as  both bull and cow; the rest of the verse introduces the second creation characterized  by “names” and “form.” The creators here are “masters of artifice,” poets perhaps.  Verse 8 essentially repeats verse 7, as is signaled by the identical opening phrase, but  this time it is the current poet himself (who made a brief reappearance in vs. 6cd),  who by his praise hymn is responsible for movement in the world (i.e., the second  creation) contrasted to the static golden emblem (8b) arising from the first creation.  The poet thus implicitly identifies himself with the masters of artifice, the poets, in  verse 7. In the final verse (aside from the refrain) both the unnamed dual pairing,  quite possibly the two worlds, and the masters of artifice return to bear witness to  the creative actions of the poet himself, who through his powerful tongue seems to  control the individuated forms. We have thus returned to the issues raised in verse  1, but with the poet having successfully assumed his vocation and commanded the  respect of his predecessors in the creative act.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra In addition to the usual tr., it is worth consulting Renou’s alternative tr. in his Hymnes spéculatifs (29-31 + nn.), in addition to his later one in EVP XVII.
 

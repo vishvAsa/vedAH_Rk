@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रावरुणा य꣡द् इमा꣡नि चक्र꣡थुर्  
 वि꣡श्वा जाता꣡नि भु꣡वनस्य मज्म꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मरु꣡द्भिर् उग्रः꣡ शु꣡भम् अन्य꣡ ईयते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 क्षेमे॑ण । मि॒त्रः । वरु॑णम् । दु॒व॒स्यति॑ । म॒रुत्ऽभिः॑ । उ॒ग्रः । शुभ॑म् । अ॒न्यः । ई॒य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāvaruṇā* ← *indrāvaruṇāḥ* ← *indrāvaruṇa*
 - \[noun\], vocative, plural, masculine
@@ -121,7 +121,7 @@ genre M
 हे इन्द्रावरुणौ **यत्** यौ युवां **भुवनस्य** लोकस्य संबन्धीनि **इमानि** परिदृश्यमानानि **विश्वा** सर्वाणि **जातानि** जनिमन्ति भूतजातानि **मज्मना** आत्मीयेन बलेन **चक्रथुः** कृतवन्तौ तयोर्युवयोर्मध्य एकं **वरुणं** **क्षेमेण** रक्षणहेतुना **मित्रः** देवः **दुवस्यति** परिचरति । मित्रावरुणौ हि परस्परं प्राप्तसख्यौ । अत एव सहचरौ दृश्येते। **अन्यः** एक इन्द्रः **मरुद्भिः** मरुद्गणैः **उग्रः** उद्गूर्णबलः सन् **शुभं** शोभनमलंकारम् **ईयते** प्राप्नोति । यद्वा । मरुद्भिर्मध्यस्थानैर्देवगणैः सार्धमुग्र ओजस्वीन्द्रः शुभमुदकमीयते प्रेरयति ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M
 Therefore **Mitra** worships Varuṇa: kṣemeṇa mitro varuṇam duvasyati marudbhir **ugraḥ** śubham anyaīyate: the last clause: along with the Maruts the powerful Indra sends down rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Varuṇa, since you two created all these beings of the living  world by your greatness,  
 with peaceful settlement Mitra befriends Varuṇa; with the Maruts the  other, powerful one [=Indra] speeds toward beauty.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra-Varuna, as ye created all these creatures of the world by your surpassing might,  
      In peace and quiet Mitra waits on Varuna, the Other, awful, with the Maruis seeks renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Varuna! Als ihr all diese Geschöpfe der Welt in ganzem Umfang erschaffen hattet, erweist Mitra durch Frieden dem Varuna die schuldige Ehre; der andere fährt als Mächtiger mit den Marut im Prunkzug.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Seitdem ihr die Geschöpfe alle dieser Welt geschaffen habt mit Macht, o Indra-Varuna, Verehrt der Freund den Varuna in Friedenszeit, der andre zieht als Held mit Maruts aus zum Kampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Варуна, когда вы двое создали  
 Все эти существа вселенной во (всю) мощь,  

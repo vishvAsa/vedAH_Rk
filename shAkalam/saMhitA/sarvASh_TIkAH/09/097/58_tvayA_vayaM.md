@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡या वय꣡म् प꣡वमानेन सोम  
 भ꣡रे कृतं꣡ वि꣡ चिनुयाम श꣡श्वत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -121,14 +121,14 @@ genre M;; repeated line
 हेसोम पवमानेन पवित्रेण पूयमानेन त्वया सहायेन भरे सङ्ग्रामनाम सङ्ग्रामे शश्वद्बहु कृतं कर्तव्यं वयं विचिनुयाम विशॆषेणकुर्याम । यस्मात्तवसहायेन कर्माणिकुर्मः तत्तस्मात् नोस्मान् मित्रोवरुणः अदितिः एतन्नामका सिन्धुः एतदभिधानाच पृथिवी उतापिच द्यौः एतेमित्रादयोनोस्मान् मामहन्तां पूजयन्तु धनादिदानेन ॥ ५८ ॥अभिनइति द्वादशर्चं द्वितीयंसूक्तं वृषागिरोराज्ञःपुत्रअम्बरीषः भरद्वाजपुत्रऋजिश्वाच उभौसहितावस्यऋषी इदमुत्तराणिचत्रीण्यानुष्टुभानि अत्रत्वेकादशीबृहती पवमानःसोमो- देवता । तथाचानुक्रम्यते—अभीनोद्वादशाम्बरीषऋजिश्वाचानुष्टुभंह बृहद्त्युपान्त्येति । गतो- विनियोगः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we ever, **Soma**, with you who are purified, (as our ally) win much wealth in battle; so may **Mitra**, **Varuṇa**, **Aditi**, **Sindhu**, heaven and earth enrich us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With you who purify yourself, o Soma, we would pull out the perfect  (“hand” of dice) at the match, time after time.  
 – This let Mitra and Varuṇa grant this to us, and Aditi, River, and  
@@ -136,7 +136,7 @@ Earth and Heaven.1344 IX.98
 Anusṭubh Hymns: 98–101 ̣
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details open><summary><h2>55-58 ...{Loading}...</h2></summary>
 
@@ -150,23 +150,23 @@ Happily none of the vss. presents us with the desperate difficulties of the prec
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, may we, with thee as Pavamana, pile up together all our spoil in battle.  
      This boon vouchsafe us Varuna and Mitra, and Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dir, dem Pavamana, o Soma, wollen wir im Kampfspiel jedesmal den höchsten Wurf tun. Das sollen uns Mitra und Varuna gewähren, Aditi, die Sindhu, die Erde und der Himmel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch dich, den flammenden, mögen wir, o Soma, stets die in der Schlacht gemachte Beute vertheilen; das mög' uns Mitra Varuna gewähren, und Aditi, das Meer, und Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С тобою мы, о сома, с Паваманой  
 Хотим всегда различать счастливый бросок в состязании!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा यज्ञे꣡भिर् ईमहे  
 तं꣡ गीर्भि꣡र् गिर्वणस्तम  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वा꣡जेषु पुरुमा꣡यियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ । यथा॑ । चि॒त् । आवि॑थ । वाजे॑षु । पु॒रु॒ऽमाय्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -97,7 +97,7 @@ genre M
 **तं** स्तुत्यत्वेन प्रसिद्धं **त्वा** त्वां **यज्ञेभिः** यागसाधनैः सोमादिभिः **ईमहे** याचामहे । **तम्** एवेन्द्रं **गीर्भिः** स्तुतिभिरीमहे । हे **गिर्वणस्तम** गीर्भिः स्तुतिभिर्वननीयतम इन्द्र तं त्वामिति समन्वयः । हे **इन्द्र** त्वं **यथा** **चिदाविथ** येन प्रकारेण ररक्षिथ माम् । चिदिति पूरणः । कुत्रेति उच्यते । **वाजेषु** संग्रामेषु । कीदृशं माम् । पुरुमाय्यं बहुप्रज्ञम् । बहुस्तुतिमित्यर्थः ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,36 +108,36 @@ genre M
 Offerer of many praises: purumāyyam = possessingmuch wisdom; or, a proper name
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We implore you with our sacrifices, with our songs, o Indra most  longing for songs,  
 just as you helped Purumāyya in the prize-contests.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take īmahe to √yā ‘beseech’, not ‘drive’ (contra Geldner “… nahen wir…”).
 
 There is a missing middle term between ab and c, namely what we are imploring Indra for - presumaby the same help that he gave to Purumāyya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So seek we thee with sacrifice and songs, chief Lover of the Song,  
      As, in our battles Indra, thou to Purumayya gavest help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir nahen wir mit Opfern, dir mit Lobreden, du Lobbegehrendster, wie du schon dem Purumayya in den Kämpfen beigestanden hast, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum gehn wir dich mit Opfern an, mit Liedern, liederlustiger, Wie in den Schlachten, Indra, du dem Purumajja Hülfe gabst,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

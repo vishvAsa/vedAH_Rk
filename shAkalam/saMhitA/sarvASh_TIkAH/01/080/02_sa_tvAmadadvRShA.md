@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्वामदद् वृ꣡षा म꣡दः  
 सो꣡मः श्येना꣡भृतः सुतः꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 येन॑ । वृ॒त्रम् । निः । अ॒त्ऽभ्यः । ज॒घन्थ॑ । व॒ज्रि॒न् । ओज॑सा । अर्च॑न् । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -131,7 +131,7 @@ genre M;; repeated line
 हे इन्द्र **त्वा** त्वां **सः** **सोमः** **अमदत्** अमदयत् हर्षं प्रापयत्। कीदृशः सोमः । **वृषा** सेचनस्वभावः **मदः** मदकरो हर्षकारी **श्येनाभृतः** श्येनरूपमापन्नया पक्ष्याकारया गायत्र्या दिवः सकाशादाहृतः **सुतः** अभिषुतः । हे **वज्रिन्** वज्रवन्निन्द्र **येन** पीतेन सोमेन **ओजसा** बलकरेण **अद्भ्यः** अन्तरिक्षसकाशात् **वृत्रं** **निः** **जघन्थ** हतवानसि । अन्यत् पूर्ववत् ॥ अमदत्। मदी हर्षे'। अस्मात् णिचि • मदी हर्षग्लपनयोः' इति घटादिषु पाठात् मित्त्वे सति ‘मितां ह्रस्वः' इति ह्रस्वत्वम् । लङि  ‘ छन्दस्युभयथा ' इति शप आर्धधातुकत्वात् ' णेरनिटि ' इति णिलोपः। अद्भ्यः । आप इत्यन्तरिक्षनाम । अप भि ' ( पा. सू. ७. ४. ४८ ) इति पकारस्य तत्वम् । जघन्थ । क्रादिनियमप्राप्तस्य इटः  ‘ उपदेशेऽत्वतः' इति प्रतिषेधः ।  ‘ अभ्यासाच्च' इति हकारस्य घत्वम् ।  ‘ लिति' इति प्रत्ययात्पूर्वस्योदात्तत्वम् । यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -142,35 +142,35 @@ genre M;; repeated line
 Brought by the hawk: śyenabhṛta, brought from heaven by **gāyatrī**, having the wings of a hawk
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bullish exhilaration exhilarated you—the soma, brought here by a  falcon, then pressed,  
 with which you smashed Vr̥tra forth from the waters, o mace-bearer, with  your might.  
 – They cheer on your sovereign power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 see vs. 6 below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mighty flowing Soma-draught, brought by the Hawk, hath gladdened thee,  
      That in thy strength, O Thunderer, thou hast struck down Vrtra from the floods, lauding thine own imperial sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich berauschte der bullenstarke Rauschtrank, der gepreßte Soma, den der Adler gebracht hat, durch den du Keulenträger mit Kraft den Vritra von den Gewässern fortgetrieben hast. - Sie sollen in deine Selbstherrlichkeit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich hat berauscht der starke Trank, der Somasaft, vom Aar gebracht, Durch den du aus den Fluten triebst den Vritra, blitzender, mit Kraft, du strahlst in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он опьянил тебя, (этот) бык – пьянящий напиток,  
 Выжатый сома, принесенный орлом,  

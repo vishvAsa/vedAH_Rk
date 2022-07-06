@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् यूय꣡म् पृश्निमातरो  
 म꣡र्तिआसः° सिया꣡तन  
 स्तोता꣡ वो अमृ꣡तः सियात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्तो॒ता । वः॒ । अ॒मृतः॑ । स्यात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे पृश्निनामकधेनुपुत्राः मरुतः **यूयं** यद्यपि **मर्तासः** मनुष्याः **स्यातन** भवेत तथापि **धवः** युष्माकं **स्तोता** यजमानः **अमृतः** **स्यात्** देवो भवेत् ॥ पृश्निमातरः । पृश्निर्माता येषां ते । समासान्तविधेरनित्यत्वात् ‘नद्यृतश्च ' ( पा. सू. ५. ४. १५३ ) इति कबभावः । मर्तासः ।  ‘ असि हसि ' इत्यादिना म्रियतेः तन्प्रत्ययः । आजसेरसुक्'। स्यातन। अस्तेर्लिङि तस्य ‘तप्तनप्तनथनाश्च इति तनादेशः । यासुट उदात्तत्वम् । अमृतः ।  ‘ नञो जरमरमित्रमृताः' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,29 +93,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Pṛśni = **dhenu**, a cow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you whose mother is Pr̥śni, if you were mortals,  
 your praiser would be immortal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If, O ye Maruts, ye the Sons whom Prsni bore, were mortal, and  
      Immortal he who sings your praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr Söhne der Prisni die Sterblichen wäret, so würde euer Sänger unsterblich sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ihr nur wäret Sterbliche, o Priçnisöhne und es wär' Eur Sänger ein Unsterblicher, –
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если бы вы, о (те,) чья мать Пришни,  
 Были бы смертными,  

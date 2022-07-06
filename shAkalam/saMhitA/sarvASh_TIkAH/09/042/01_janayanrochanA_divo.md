@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जन꣡यन् रोचना꣡ दिवो꣡  
 जन꣡यन्न् अप्सु꣡ सू꣡रियम्  
 व꣡सानो गा꣡ अपो꣡ ह꣡रिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वसा॑नः । गाः । अ॒पः । हरिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयं **हरिः** सोमः **दिवः** द्युसंबन्धीनि **रोचना** रोचनानि नक्षत्रग्रहमण्डलानि **जनयन्** तथा **अप्सु** अन्तरिक्षे **सूर्यं** च **जनयन्** तथा **गाः** अधोगन्त्रीः **अपः** **वसानः** भूमिमात्मानं वाच्छादयन् पवत इत्युत्तरत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,33 +94,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Clothing himself: or, the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Begetting the luminous realms of heaven, begetting the sun in the waters, clothing himself in cows, in the waters—the tawny one—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Like the 1st vs. of the last hymn, also by Medhyātithi Kāṇva, this vs. is syntactically incomplete -- unless we want to take the pres. participles (janáyan a, b; vásānaḥ c) as predicated, which in this case I don’t. In this case, vs. 2 can easily pick up the participial vs. 1 and provide a predicate.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ENGENDERING the Sun in floods, engendering heaven's lights, green-hued,  
      Robed in the waters and the milk,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Lichter des Himmels hervorbringend, die Sonne im Wasser hervorbringend läutert sich der Falbe, sich in Milch, in Wasser kleidend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erzeugend Licht des Himmelsraums in Nebelflut der Sonne Glanz, Ein Ross in Milch und Flut gehüllt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

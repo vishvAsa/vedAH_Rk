@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ ते सोता꣡रो र꣡सम् म꣡दाय  
 पुन꣡न्ति सो꣡मम् महे꣡ द्युम्ना꣡य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 तम् । ते॒ । सो॒तारः॑ । रस॑म् । मदा॑य । पु॒नन्ति॑ । सोम॑म् । म॒हे । द्यु॒म्नाय॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -79,19 +79,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 सोतारः अभिषोतार ऋत्विजो हे सोम **ते** तव स्वभूतं **रसं** **मदाय** मदार्थं **पुनन्ति** । तदेवोच्यते । **महे** महते **द्युम्नाय** । **द्युम्नं** द्योततेर्यशो वान्नं वा । अन्नाय यशसे वा सोमं पुनन्ति शोधयन्ति । यद्वा । सोममभिषूयमाणं तं रसं पुनन्तीत्येकवाक्यतया योजनीयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The priests) who press you purify your juice for exhilaration; (they purify) the **Soma** for abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The pressers purify that sap of yours for exhilaration, the soma for  great heavenly brilliance.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -100,22 +100,22 @@ Once again, three different forms of the root √pū: 10 pávasva, 11 punánti, 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The pressers purify this juice of thine, the Soma, for delight, and lofty fame
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Saft von dir läutern die Pressenden zum Rausche, den Soma zu großem Glanze.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir klären Presser – den Saft zum Rausche, den hellen Soma – zu grossem Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот сок твой выжиматели очищают  
 Для опьянения, сому для великого блеска.

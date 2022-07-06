@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वन्ते वा꣡जसातये  
 सो꣡माः सह꣡स्रपाजसः  
 गृणाना꣡ देव꣡वीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गृ॒णा॒नाः । दे॒वऽवी॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavante* ← *pū*
 - \[verb\], plural, Present indikative
@@ -71,7 +71,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पवन्ते** क्षरन्ति **सोमाः** । किमर्थम् । **वाजसातये** अन्नस्य लाभाय । कीदृशाः । **सहस्रपाजसः** बहुबलाः । पातॄणां बलप्रदा इत्यर्थः । **गृणानाः** । कर्मणि कर्तृप्रत्ययः । स्तूयमानाः । पुनः किमर्थम् । **देववीतये** । देवानां वीतिर्गतिः प्राप्तिर्भक्षणं वा यस्मिन् स देववीतिर्यज्ञः । तदर्थम् । यज्ञसिद्धिः साक्षात् प्रयोजनं तद्द्वारा अन्नलाभ इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -82,33 +82,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 They become the beverage of the gods in the sacrifice, and by that means the sacrificer obtains food: vājasātaye annasya lābhāya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The thousand-faceted soma juices purify themselves to win the prize, being hymned to pursue the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c, with a medial part. characterizing the soma (gṛṇānā́ḥ), followed by the infinitival dat. devávītaye, matches 2c suṣvāṇáṃ devávītaye. The pattern is reinforced by the infinitival dat. vā́jasātaye ending pāda a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Soma-drops with thousand powers are purified for victory,  
      Hymned to become the feast of Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es läutern sich die Somasäfte, um den Siegerpreis zu gewinnen, in tausend Formen, zur Götterladung gepriesen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Soma's, tausendfach an Glanz, sie rieseln hin zum Opferwerk, Gepriesen zu dem Göttermahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаются для захвата добычи  
 Струи сомы с тысячей форм,  

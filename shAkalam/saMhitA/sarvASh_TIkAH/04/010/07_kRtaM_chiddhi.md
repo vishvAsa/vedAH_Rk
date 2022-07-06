@@ -6,7 +6,7 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृतं꣡ चिद् धि꣡ ष्मा  
 स꣡नेमि द्वे꣡षो  
@@ -14,7 +14,7 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 इत्था꣡ य꣡जमानाद् ऋतावः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 24
 इ॒त्था । यज॑मानात् । ऋ॒त॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], accusative, singular
@@ -96,46 +96,46 @@ genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 24
 हे **ऋतावः** सत्यवन् **अग्ने** **कृतं** **चित्** यजमानेन कृतमपि **सनेमि** चिरंतनम् । सनेमीति पुराणनाम ‘ सनेमि पूर्व्यम् ' (नि. ३. २७. ४ ) इति पुराणनामसु पाठात् । **द्वेषः** पापं **मर्तात्** मनुष्यात् यजमानात् **इत्था** सत्यम् । इत्थेति सत्यनामैतत् ' अद्धा इत्था ' ( नि. ३. १०. ५) इति तन्नामसु पाठात् । **इनोषि** **हि** **स्म** प्रेरयस्येव खलु । नाशयसीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Truthful, **Agni**, verily you remove from the mortal who instrumental tutes (your) worship, whatever sin has been committed (by him) of old.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because, o Agni, even a hateful act already committed you drive away,  bag and baggage,  
 from the mortal who sacrifices just so, o truthful one,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Contra Holland & van Nooten Rig Veda edition, mártāt should be read as the first word of pāda d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All hate and mischief, yea, if committed, Agni, thou turnest,  
      Holy One, from the man who rightly worships.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For even a malice which one has committed, thou verily drivest away entirely, O righteous Agni, from the sacrificing mortal 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch eine begangene Feindseligkeit nimmst du vollständig von dem Sterblichen weg, der also opfert, du rechttuender Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn alle Feindschaft, – die je erwiesen, – vertreibst du, Agni Vom Sterblichen, der recht, o reiner, opfert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже если уже совершен  
 Враждебный поступок, о Агни,  

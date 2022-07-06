@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ पृष्ठा꣡नि रो꣡दसोर्  
 विप्रय꣡न्तो वि꣡ आनशुः  
 उते꣡द꣡म् उत्तमं꣡ र꣡जः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒त । इ॒दम् । उ॒त्ऽत॒मम् । रजः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -82,21 +82,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एते** सोमाः **रोदसो:** द्यावापृथिव्योः **पृष्ठानि** **विप्रयन्तः** विविधं गच्छन्तः **व्यानशुः** व्याप्नुवन्ति । **उत** अपि च **इदमुत्तमं** **रजः** द्युलोकं व्यानशुः । आहुतिद्वारेणेति भावः । रोदसोरित्यत्रान्तरिक्षोऽभिप्रेतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Spreading in various directions, they pervade the surface of earth and sky, you and this highest heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These, going forth widely, have pervaded the backs of the two  
 world-halves,  
 and this highest airy space.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See remarks ad vs. 3.
 
@@ -115,23 +115,23 @@ My “that is to be higher still” is meant to capture the pseudo-gerundive for
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Advancing they have travelled o'er the ridges of the earth and heaven,  
      And this the highest realm of all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese haben, sich verlaufend, die Rücken der beiden Welten erfüllt und auch diesen obersten Raum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vorschreitend haben sie erreicht des Himmels und der Erde Höhn Und diesen höchsten Raum der Luft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти (соки сомы), разделяясь по мере продвижения вперед,  
 Достигли поверхности двух половин мироздания,  

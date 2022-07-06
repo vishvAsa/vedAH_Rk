@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नो रुद्रा꣡ चिन् मॄळताम्+ अश्वि꣡ना  
 वि꣡श्वे देवा꣡सो र꣡थस्प꣡तिर् भ꣡गः  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 प꣡रिज्मा विश्ववेदसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ऋ॒भुः । वाजः॑ । ऋ॒भु॒क्ष॒णः॒ । परि॑ऽज्मा । वि॒श्व॒ऽवे॒द॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -108,36 +108,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **उत** **चित्** अपि च **रुद्रा** रुद्रपुत्रौ **अश्विना** अश्विनौ **नः** अस्मान् **मृळतां** सुखयताम् । किंच **रथस्पतिः** रथस्य पतिः पूषा **ऋभुः** **वाजः** अन्नवान् **भगः** च **परिज्मा** परितो गन्ता वायुश्चेति **विश्वे** सर्वे **देवासः** देवाः सुखयन्तु । हे **विश्ववेदसः** विश्ववेदाः सर्वप्रज्ञाः सर्वधना वा हे **ऋभुक्षणः** महान्तो ब्रह्मादयो देवा यूयं सुखयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And may the **Rudras**, the **Aśvins**, make us happy, (may) the universal gods, the lord of chariots,**Bhaga**, **Ṛbhu**, **Vāja**, Ribhukṣaṇa, the circumambient (**Vāyu**) and the omniscient (deities make us happy).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And to us let the Aśvins, though Rudras, be merciful—and all the gods,  the Lord of the Chariot, Bhaga,  
 R̥bhu, Vāja, o Masters of the R̥bhus, the Earth-Encircler, o you who  afford all possessions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, let the Asvins Twain he gracious unto us, even Rudras, and all Gods, Bhaga, Rathaspati;  
      Parijman, Rbhu, Vaja, O Lords of all wealth Rbhuksanas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch die beiden Asvin, obwohl sie Rudra´s sind, sollen uns barmherzig sein, alle Götter, der Wagenherr, Bhaga, Ribhu, Vaja, ihr Ribhuksan´s, der Umfahrende, ihr Allwissenden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und auch die beiden glänzenden Açvinen mögen uns gnädig sein, alle Götter, Rathaspati [Beschützer des Streitwagens], Bhaga, Ribhu, Vādscha, o Ribhukschan's, der Umwandler, o allbesitzende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

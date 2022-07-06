@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡दी घृते꣡भिर् आ꣡हुतो  
 वा꣡शीम् अग्नि꣡र् भ꣡रत उ꣡च् च अ꣡व च  
 अ꣡सुर इव निर्णि꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 असु॑रःऽइव । निः॒ऽनिज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadī* ← *yadi*
 - \[adverb\]
@@ -94,20 +94,20 @@ genre M
 **घृतेभिः** घृतैः **आहुतः** अभिहुतोऽयम् **अग्निः** **यदि** यदा यस्मिन्काले **वाशीम्** । वाङ्नामैतत् । वाचं शब्दम् **उच्च** ऊर्ध्वं च **अव** **च** अवाक्च **भरते** संपादयति । यद्वा । वाशीं वाशनशीलां शब्दकारिणीं ज्वालामुद्भरते उद्धरति उद्गमयत्यूर्ध्वमुखम् अव च भरते अवाङ्मुखं च हरति उपसंहरति । **असुरइव** रश्मीनां क्षेप्ता सूर्यो यथा **निर्णिजम्** आत्मीयं रूपमुपरितनेषु लोकेषु प्रकाशतयोद्गमयति अधस्तनेषु चावाङ्मुखं गमयति तद्वदुच्चनीचभावनयाग्निस्तेज उद्गमयति । तं स्तुम इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When **Agni**, worshipped with oblations, sends his voice upwards and downwards, as the sun disperseshis rays, (we praise him).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, bepoured with ghee, Agni bears his axe up and down,  
 like a (rich) lord (he bears [=wears]) his cloak [=ghee].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes pāda a as the dependent clause and b as the main clause, but this causes a difficulty: why is bhárate accented? I follow Renou in taking ab as the dependent clause and c as the main clause. This accounts for the verbal accent. It also solves another problem: yádī is hard to render as ‘if’, but if analyzed as yád ī (for this phenomenon see Jamison 2002 [Fs. Cardona]), the ī can, as often, double the object, in this case vā́śīm. But if vā́śīm is not part of the dependent clause, ī has no obvious function.
 
@@ -118,23 +118,23 @@ Rather than trying to identify a particular divinity as the ásura- in this simi
 In the frame the nirṇíj- would be the ghee with which Agni is bepoured. Cf. V.62.4 ghrtásya nirn ̥ íg; sim. VII.64.1, IX.82.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 While, served with sacrificial oil, now upward and now downward Agni moves his sword,  
      As doth the Asura his robe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihm mit Schmalz geopfert wird, so bewegt Agni seine Axt auf und nieder; wie der Asura legst du dein Prachtgewand an;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn er mit Schmalz beträufelt ist, so hebet Agni auf sein Beil und senkt es dann Gleich wie die Sonne ihre Pracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если он полит потоками жира,  
 То Агни взмахивает топором и опускает (его).  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ नु꣡ या꣡द् अधीम꣡सि  
 इ꣡न्द्रं को꣡ वीरि꣡या परः꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 तस्मि॑न् । नृ॒म्णम् । उ॒त । क्रतु॑म् । दे॒वाः । ओजां॑सि । सम् । द॒धुः॒ । अर्च॑न् । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -133,7 +133,7 @@ genre M;; repeated line
 **यात्** यान्तं सर्वत्र व्याप्य वर्तमानमिन्द्रं **नहि** **नु** **अधीमसि** वयं न ह्यवगच्छामः। यतो वयमल्पाः । परः इत्येतत्सकारान्तमव्ययं वैदूर्यमाचष्टे । परो दिवा पर एना ' ( ऋ. सं. १०. ८२. ५ ) इति यथा । **परः** परस्तादतिदूरे मनुष्यैरनवगाह्ये स्थाने **वीर्या** वीर्येण सामर्थ्येन वर्तमानम् **इन्द्रं** **कः** मनुष्यो जानीयात् । न कोऽपीत्यर्थः । कस्मादिति चेत् अत्राह तस्मिन् इति । यस्मात् **तस्मिन्** इन्द्रे **देवाः** **नृम्णं** धनं **उत** अपि च **क्रतुं** वीर्यकर्म **ओजांसि** बलानि च **सं** **दधुः** स्थापयांचक्रुः तस्मादित्यर्थः॥ यात् । । ' या प्रापणे ' । अस्मात् लटः शतृ । ‘सुपां सुलुक् ' इति द्वितीयाया लुक् । अधीमसि । ‘इण् गतौ ' । इदन्तो मसिः । वीर्या । ‘सुपां सुलुक्' इति तृतीयाया आकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,35 +144,35 @@ genre M;; repeated line
 Ko-vīryāparaḥ, lit. who with vigour
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For, from what we can learn, no one is beyond Indra in virile power. In him have the gods assembled manliness and resolve and mighty  
 powers.  
 – They cheer on his sovereign power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ná … káḥ must be read as a negative indefinite (“no one”) despite the absence of an indefinitizing particle like cit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 There is not, in our knowledge, one who passeth Indra in his strength:  
      In him the Deities have stored manliness, insight, power and might, lauding his own imperial sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn niemals, soweit wir gedenken, war einer an Manneskraft dem Indra überlegen. In ihm haben die Götter Mannesmut und Einsicht und alle Kräfte vereinigt. - Sie sollen in deine Selbstherrlichkeit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn keiner kommt, so weit uns kund, dem Indra gleich an Heldenkraft. Die Götter legten Manneskraft und Stärk' und Macht in ihn hinein; er strahlt in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никогда, насколько мы помним,  
 Никто не превосходил Индру героической силой.  

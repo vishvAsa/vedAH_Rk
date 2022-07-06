@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वो वा꣡हिष्ठो वहतु स्तव꣡ध्यै  
 र꣡थो वाजा ऋभुक्षणो अ꣡मृक्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡दे सुशिप्रा मह꣡भिः पृणध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । त्रि॑ऽपृ॒ष्ठैः । सव॑नेषु । सोमैः॑ । मदे॑ । सु॒ऽशि॒प्राः॒ । म॒हऽभिः॑ । पृ॒ण॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 अनेन द्वृचेन ऋभवः स्तूयन्ते। **ऋभुक्षणः** विस्तीर्णस्य तेजसो निवासभूता हे **वाजाः** ऋभवः **वाहिष्ठः** वोढ़ृतमः **स्तवध्यै** स्तोतुमर्हः **अमृक्तः** केनाप्यहिंसितो युष्मदीयः **रथः** **वः** युष्मान् **आ** **वहतु** आ समन्तादस्मदीयं यज्ञं प्रापयतु । हे **सुशिप्राः** शोभनहनवः यूयं तेन रथेनागत्य **सवनेषु** अस्मदीययज्ञेषु **मदे** मदनिमित्ते **त्रिपृष्ठैः** क्षीरदधिसक्तुमिश्रैः **महभिः** महद्भिः **सोमैः** **अभि** **पृणध्वं** युष्मदीयं जठरमभिपूरयत । स रथो युष्मानावहत्विति पूर्वेणान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ genre M
 With the copious: tripṛṣṭhaiḥ somaiḥ, with **Soma** mixed with milk curds and meal
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the chariot, the best conveyor, convey you here to be praised, o Vājas,  R̥bhukṣans—(a chariot) indestructible.  
 Fill yourselves to exhilaration with great triple-backed soma drinks at  the pressings, you lovely-lipped ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The function of abhí, initial in c, is unclear; the verb of this hemistich, pṛṇadhvam, final in d, does not appear with abhí elsewhere.
 
@@ -153,23 +153,23 @@ The stationing of the adj. ámṛkta- ‘indestructible’ at the end of the b p
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET your best-bearing car that must be lauded, ne'er injured, bring you Vajas and Rbhuksans.  
      Fill you, fair-helmeted! with mighty Soma, thrice-mixed, at our libations to delight you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch soll der bestfahrende Wagen herfahren zum Preise, ihr Vaja´s, ihr Ribhuksan´s der unbeschädigte. Füllet euch bei den Trankopfern mit dem dreirückigen Soma bei dem Rauschgelage mächtig an, ihr Schönlippigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der bestens fährt, der unversehrte Wagen, fahr her zum Preis euch, Vadscha's und Ribhukschan's; Dreifach gemischte schöne Säfte trinket mit vollem Mund zum Rausch bei den Gelagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть привезет вас колесница, лучше всех везущая,  
 Невредимая, о Ваджи, о Рибхукшаны, для восхваления!  

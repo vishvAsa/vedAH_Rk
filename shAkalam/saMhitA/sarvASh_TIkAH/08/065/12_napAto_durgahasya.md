@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡पातो दुर्ग꣡हस्य मे  
 सह꣡स्रेण सुरा꣡धसः  
 श्र꣡वो देवे꣡षु अक्रत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 श्रवः॑ । दे॒वेषु॑ । अ॒क्र॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *napāto* ← *napātaḥ* ← *napāt*
 - \[noun\], nominative, plural, masculine
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **नपातः** अरक्षितस्य **दुर्गहस्य** दुःखं गाहमानस्य **मे** संबन्धिनो जनाः **सहस्रेण** अपरिमितेनेन्द्रदत्तेन गवादिधनेन **सुराधसः** सुधनाः सन्तः **देवेषु** प्रीतेषु । इन्द्रे प्रीत इत्यर्थः । **श्रवः** अन्नं यशो वा **अक्रत** । अलभन्तेत्यर्थः ॥ ॥ ४७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,33 +93,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Napātaḥ = arakṣitasya; destitute of a protector as I am and plural nged in sorrow,(my dependants) by the favour of the godṣ.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The descendants of Durgaha, very generous with a thousand for me, have made fame for themselves among the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Oldenberg make heavier weather of ab than seems necessary, motivated in part by tvé rather than tvā in a and the positioning of the verb in b rather than a, near to ūtáyaḥ. Geldner supplies a form of √dhā in a, “Zwar werden viele Hoffnungen auf dich (gesetzt),” and takes hávante as passive, “und werden deine Hilfen … angerufen.” But the stem háva- is overwhelmingly transitive. Oldenberg suggests taking ūtáyaḥ as accusative pl., which would do even more violence to the grammar. I take the subject of hávante to be āśásaḥ ‘hopes’. As for tvé: although √hū ordinarily takes the accusative, I can imagine a locatival tvé in a more distanced usage: they call towards you, but they do not actually succeed. (Alternatively the tvé could have been influenced by tvé in 13a, in the same metrical position, though metrically distracted.) I then take ūtáyaḥ as a separate existential clause.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Durgaha's grandsons, giving me a thousand kine, munificent,  
      Have won renown among the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Enkel des Durgaha, die mit Tausend freigebig gegen mich sind, haben sich bei den Göttern guten Ruf erworben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Enkel des Durgaha mich tausendfach herrlich beschenkend, haben sich Ruhm bei den Göttern verschafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Внуки Дургахи, очень щедрые  
 Ко мне благодаря (своей) тысяче,  

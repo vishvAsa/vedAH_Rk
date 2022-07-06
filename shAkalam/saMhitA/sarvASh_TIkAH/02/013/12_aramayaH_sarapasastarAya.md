@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रमयः स꣡रपसस् त꣡राय कं꣡  
 तुर्वी꣡तये च वयि꣡याय च स्रुति꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रा꣡न्धं꣡ श्रोणं꣡ श्रव꣡यन् सा꣡सि उक्थि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नी॒चा । सन्त॑म् । उत् । अ॒न॒यः॒ । प॒रा॒ऽवृज॑म् । प्र । अ॒न्धम् । श्रो॒णम् । श्र॒वय॑न् । सः । अ॒सि॒ । उ॒क्थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aramayaḥ* ← *ramay* ← *√ram*
 - \[verb\], singular, Imperfect
@@ -125,7 +125,7 @@ genre M
 हेइन्द्र सरपसः सरणमपःकर्मयासान्ताः सरपसः शकन्ध्वादित्वात्पररूपत्वम् ताअपः कंसुखेन तराय तरणायअरमयः अक्रीडयः किञ्च तुर्वीतयेतुर्वीतिर्नामकश्चिद्राजर्षिः तस्मैवय्यायच वय्यो- नामकश्चित् तस्मै ताभ्यांस्रुतिंसरणं प्रतिअरमयः तौहिजलपूर्णाम्महानदीन्दृष्ट्वातरायतरीतुमसम- र्थावास्तां तौचत्वयातारितौ परावृजं परितः पापानिवृणक्तिदहतीतिपरावृक् कश्चिदृषिः तमप्सु- निमग्नन्तथानीचानीचंसन्तंउदनयः आपद्भ्यःऊर्ध्वन्नीतवानसि किञ्च अन्धंसन्तं श्रोणम्पङ्गुंसन्तं चक्षु- र्दानादपङ्गुकरणाच्चउदनयः किङ्कुर्वन् प्रकर्षेणश्रवयन् आत्मानङ्कीर्तिमन्तं कुर्वन् उदनयइतिसमन्वयः सइत्यादिसिद्धम् ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ genre M
 You have provided a passage: aramaya sarapasastarāya srutim: **apas** = **karma**; saraṇam **apaḥ** karma **yāsaḥ**, they of whom the act is going or proceeding; the person ns named beheld a large river, which they were unable to cross, when the prayed to **Indra**, and were conveyed across by him; the blind and lame Parāvṛj: parāvṛjam prāndham śroṇam: added, cakṣase etave, to see and to walk; the name of **Ṛjraśva** is understood, as the individual who was made to see; Sroṇa was the name of him who was made to walk; prāndha (blind) and śrona (lame) were epithets of Parāvṛj
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You halted the course of the Sarapas (River) for Turvīti and Vayya  to cross.  
 You led him up who was sunk down and shunned, making famed the  blind one and the lame. You are worthy of hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The use of the secondarily shortened stem śraváya- here instead of inherited śrāváya- may have been favored by the similarly short-root-vowel áramayaḥ at the beginning of this vs. (which stem comes by its short root vowel honestly) and by the denom. śravasyá- in the next vs. More problematic is what prá … śraváyan is conveying here. One might think that what the blind and the lame want is not fame but healing. Some such consideration must have led Grassmann to assign this form (and prā́śrāvayam X.49.8) to a different root śru and a different idiom prá √śru ‘vorwärts bringen’. I see no justification for such a separation. It is possible that the causative here means (as it can elsewhere) ‘make hear/heed’ rather than ‘make heard/famed’, though this wouldn’t appreciably improve the situation of the blind and lame. Or that in the idiom prá √śru, the prá came to dominate, with a sense ‘further, favor (through fame)’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou for Turviti heldest still the flowing floods, the river-stream for Vayya easily to pass  
      Didst raise the outcast from the depths, and gavest fame unto the halt and blind. Worthy of lauds art thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hießest die zu fließen gewohnten Flüsse stillstehen zum Durchschreiten, für Turviti und Vayya machtest du einen Weg. Den Aussetzling, der in der Tiefe steckte, holtest du herauf, der du dem Blinden, dem Lahmen zu Ruf verhalfst - Der du dies zuerst gemacht hast, - darum bist du preisenswert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du sänftigest dem Vajia zum Uebergang des schnellen Wassers Strömung dem Turviti auch, Du halfst dem Krüppel, der tief unten lag, heraus den Blinden, Lahmen leitend, das auch ist dein Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты остановил текучие воды, чтобы (их можно было) пересечь,  
 Для Турвити и Вайи ты (создал) путь.  

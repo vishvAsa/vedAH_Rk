@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡स्मिन् पिश꣡ङ्गम् इन्दवो  
 द꣡धाता वेन꣡म् आदि꣡शे  
 यो꣡ अस्म꣡भ्यम् अ꣡रावा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यः । अ॒स्मभ्य॑म् । अरा॑वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āsmin* ← *ā*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे 'इन्दवः सोमाः **अस्मिन्** यजमाने **पिशङ्गं** बहुरूपं मणिमुक्ताहिरण्यादिभेदेन नानारूपं **वेनं** कामयन्तं बहुविधं कामम् **आदिशे** अस्मभ्यमादेशनाय **आ** **दधात** आयच्छतः । **यः** यजमानः **अस्मभ्यम्** **अरावा** ----- प्रयच्छति प्राप्तकाम एव खलु ऋत्विग्भ्यः प्रयच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,13 +93,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 At our indication: asmabhyam ādeśanāya = alternative meanign: with a view to us; the sacrificer only bestows gifts on his officiating priests when he has obtained his desire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drops, set the tawny tracker [=Soma himself] here in him [=Indra], to  instruct (the man)  
 who does not give to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On my interpr. of this vs., see published translation Both Geldner and Renou have quite different views.
 
@@ -112,23 +112,23 @@ The subj. of the infin. ādíśe is, in my view, the tawny tracker (i.e., Soma),
 Loc. asmin is unaccented and should therefore refer to something already present in the discourse, but that does not eliminate any of the just-given interpr.: Geldner’s sacrificer, in the person of the ‘presser’ (súṣvi-), is found in 2, my Indra in 1, and Renou’s soma is ubiquitous. In fact even without the mentions in vss. 1 and 2, the sacrificer and Indra are expected personnel on the scene in any Soma hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With view to us, O Soma-drops, bestow his manifold desire  
      On him who yet hath given us naught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Setzet, ihr Säfte, in ihn hinein den goldenen Seher, um ihn zu mahnen, der gegen uns karg ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem gebt, o Tropfen, goldnen Glanz, erfüllend seines Herzens Wunsch, Der unsre bösen Feinde tilgt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О капли, вложите в него  
 Золотистого наблюдателя, чтоб нацелиться (на того),  

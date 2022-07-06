@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भु꣡वो यज्ञ꣡स्य र꣡जसश् च नेता꣡  
 य꣡त्रा नियु꣡द्भिः स꣡चसे शिवा꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जिह्वा꣡म् अग्ने चकृषे हव्यवा꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दि॒वि । मू॒र्धान॑म् । द॒धि॒षे॒ । स्वः॒ऽसाम् । जि॒ह्वाम् । अ॒ग्ने॒ । च॒कृ॒षे॒ । ह॒व्य॒ऽवाह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhuvo* ← *bhuvaḥ* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -123,7 +123,7 @@ genre M
 हे अग्ने त्वं **यत्र** यस्मिन्नन्तरिक्षे **शिवाभिः** कल्याणीभिः **नियुद्भिः** नियुत्संज्ञकाभिरश्वजातिभिः संबद्धं वायुं **सचसे** संगच्छसे तस्मिन्नन्तरिक्षे **यज्ञस्य** **रजसश्च** उदकस्य च ”नेता प्रापयिता **भुवः** भवसि । ‘अग्निर्वा इतो वृष्टिं समीरयति' ( निरु. ७. २४ ) इति श्रुतेः । किंच **दिवि** द्युलोके **मूर्धानं** शिरोवत्प्रधानभूतं **स्वर्षां** सर्वस्य संभक्तारमादित्यं **दधिषे** हविर्वहनद्वारेण धारयसि । हे **अग्ने** त्वं **जिह्वां** ज्वालां **हव्यवाहं** हविषां वोढ्रीं **चकृषे** करोषि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,30 +134,30 @@ genre M
 The plural ce: i.e., the firmament; you sustain in heaven: you raise your glorioushead in heaven; you make...oblation: yadā; when, Agni, you have so done, you are the leadeṛ..; you are theleader of the sacrifice and of water (rain) in the firmament and in heaven (**Yajus**. 13.15)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You become the leader of the sacrifice and of airy space, where you are  accompanied your kindly teams of horses.  
 In heaven you have set your head, which wins the sun, and you have  
 made your tongue to be the conveyor of oblations, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art the Leader of the rite and region, to which with thine auspicious teams thou teadest,  
      Thy light-bestowing head to heaven thou liftest, making thy tongue the oblationbearer, Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du wardst der Führer des Opfers und durch das Dunkel, wo du mit deinen freundlichen Gespannen das Geleit gibst. An den Himmel hast du dein das Sonnenlicht gewinnendes Haupt gesetzt; deine Zunge, Agni, hast du zum Opferbeförderer gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist des Opfers und der Lüfte Lenker, wohin du eilst mit holden Rossescharen, Du hebst dein Haupt zum Himmel, Glanz erlangend, die Zunge machst du, Agni, Opfer führend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты был вождем жертвы и пространства,  
 Где ты сопровождаешься (своими) славными упряжками.  

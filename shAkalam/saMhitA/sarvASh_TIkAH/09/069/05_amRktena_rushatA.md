@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡मृक्तेन रु꣡शता वा꣡ससा ह꣡रिर्  
 अ꣡मर्तियो निर्णिजानः꣡ प꣡रि व्यत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उपस्त꣡रणं चमु꣡वोर् नभस्म꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दि॒वः । पृ॒ष्ठम् । ब॒र्हणा॑ । निः॒ऽनिजे॑ । कृ॒त॒ । उ॒प॒ऽस्तर॑णम् । च॒म्वोः॑ । न॒भ॒स्मय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amṛktena* ← *amṛkta*
 - \[noun\], instrumental, singular, neuter
@@ -112,7 +112,7 @@ genre M
 **अमर्त्यः** मनुष्यधर्मरहितः **हरिः** हरितवर्णः सोमः **निर्णिजानः** उदकेन शोध्यमानः सन् **अमृक्तेन** । ‘मृजी शौचालंकारयोः' । अनिर्णिक्तेनापि **रुशता** स्वतः शुक्लवर्णेन पयोरूपेण **वाससा** **परि** **व्यत** परित आच्छादयति । सोमे परिपूते गव्येन पयसा मिश्रीकुर्वन्ति खलु । तदुच्यते । ततः सोऽयं सोमः **दिवः** द्युलोकस्य **पृष्ठं** पृष्ठभागे तिष्ठन्तमादित्यं **बर्हणा** बर्हणाय पापानामुद्यमनकारिणे पापनाशिने **निर्निजे** निर्नेजनाय परिपवनाय **कृत** द्युलोकेऽकार्षीत् । स हि स्वदीप्त्या सर्वं निर्णेक्ति । कृत । कृणोतेर्लुङि ‘ह्रस्वात्' इति सिचो लोपः । तदेवाह । **चम्वोः** । द्यावापृथिवीनामैतत् । चमन्ति भक्षयन्त्यत्र देवा मनुष्या इति । तयोः **उपस्तरणम्** आच्छादनशीलं **नभस्मयम्** आदित्यमयमादित्यस्य स्वभूतं तेजश्च सर्वेषां निर्णेजनाय अकार्षीत् ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,13 +123,13 @@ genre M
 Shining vestment: i.e., the milk; Āditya's brilliance: nabhasmayam = ādityamayam ādityasya svabhūtam **tejas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being arrayed, the immortal tawny one has wrapped himself with an  unworn, gleaming garment.  
 With his might he has made the back of heaven for his raiment and an  underlayer made of cloud in the two cups.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The repetition of a passively used part. to √mṛj, intens. marmṛjāná-, matching mṛjyámāna- in the opening pāda of the previous vs. 4a, situates us in the same ritual context as that vs. Again Soma sets out on his journey beyond the filter, through the territory that here is configured as “between the two worlds” (ubhé antā́ ródasī).
 
@@ -148,23 +148,23 @@ There is considerable chaining between these two vss.: pári … avyata (4d), p�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The golden-hued, Immortal, newly bathed, puts on a brightly shining vesture that is never harmed.  
      He made the ridge of heaven to be his radiant robe, by sprinkling of the bowls from moisture of the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit neuem weißen Kleide hat sich der unsterbliche Falbe umhüllt, wenn er reingewaschen wird. Des Himmels Rücken macht er sich im Überschwang zum Festgewand, in den beiden Camu´s eine aus Wolken bestehende Unterlage.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit unversehrtem, glänzendem Gewand umhüllt sich schön geschmückt der goldene Unsterbliche; Macht prächtig sich des Himmels Höh zum Schmuckgewand, zur wasserreichen Decke in dem Schalenpaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В новую сверкающую одежду золотистый  
 Бессмертный облачается, когда его украшают.  

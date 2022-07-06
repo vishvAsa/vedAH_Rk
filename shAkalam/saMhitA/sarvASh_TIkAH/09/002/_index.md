@@ -8,7 +8,7 @@ title = "+002"
 ‘पवस्व ' इति दशर्चं द्वितीयं सूक्तं काण्वस्य मेधातिथेरार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रान्तं- पवस्व मेधातिथि:' इति । उक्तो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 2 (714)  
 Soma Pavamāna  
@@ -20,7 +20,7 @@ duced in verses 7–8. Verse 9 echoes the earlier part of the hymn, particularly
 There is nothing particularly noteworthy or out of the ordinary in this hymn,  which could be taken as a prototypical Soma hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the sequence of ideas and actions in this hymn, see published introduction.
 </details>

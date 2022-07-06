@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बा-पिबे꣡द् इन्दर+ शूर सो꣡मम्  
 मा꣡ रिषण्यो वसवान व꣡सुः स꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡श् च रायो꣡ रेव꣡तस् कृधी नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒त । त्रा॒य॒स्व॒ । गृ॒ण॒तः । म॒घोनः॑ । म॒हः । च॒ । रा॒यः । रे॒वतः॑ । कृ॒धि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibā* ← *piba* ← *pā*
 - \[verb\], singular, Present imperative
@@ -134,7 +134,7 @@ genre M
 **पिबपिब** इति वीप्सातित्वराप्रदर्शनार्थम् । हे **शूर** वीर **इन्द्र** त्वमभिषुतं **सोमं** शीघ्रं पिब । यागकालातिपातो यावन्न भवति तावच्छीघ्रं सोमं पिबेत्यर्थः। **इत्** इति पूरणः । हे **वसवान** वसूनां धनानामानेतः त्वं **वसुः** प्रशस्तः **सन्** **मा** **रिषण्यः** यागकालातिक्रमजातेन दोषेणास्मान्मा हिंसीः । प्रशस्तस्य तव कर्मवैगुण्यकरणेन हिंसितुमयुक्तमित्यर्थः । **उत** अपि च हे इन्द्र त्वं **गृणतः** त्वां स्तुवतः स्तोतॄन्  **मघोनः** हविर्लक्षणधनवतो यजमानांश्च **त्रायस्व** प्रमादजनितकर्मवैगुण्यदोषात् पालयस्व । किंच महश्च राय इत्युभयत्र तृतीयार्थे षष्ठी । **महः** महता **रायः** धनेन च’ **नः** अस्मान् **रेवतः** **कृधि** धनवतः कुरु ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ genre M
 Being excellent: i.e., itis not just that we should be punished for any defect in our worship of you who are excellent
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink, drink the soma, hero Indra! Don’t mean (us) harm, goods lord,  since you are good.  
 And protect the singers and the bounteous (patrons), and make us rich  from (your?) great wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink, drink the Soma, Hero Indra; be not withheld as thou art good, O Treasure-giver.  
      Preserve the singers and our liberal princes, and make us wealthy with abundant riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink, trink doch, tapferer Indra, den Soma; versieh dich nicht, du Begüterter, der du gütig bist! Schütze auch die Sänger und die freigebigen Gönner, und mach uns reich an großem Reichtum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O trinke, trinke, Indra, Held den Soma, o güterreicher, säume nicht, du guter; beschütze du die Sänger und die Fürsten; und mache du uns reich an grossem Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей же, пей, о Индра-герой, сому!  
 Не промахнись, о носитель добра, тот кто добр!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ य꣡द् व꣡रांसि प꣡र्वतस्य वृण्वे꣡  
 प꣡योभिर् जिन्वे꣡ अपां᳐꣡ ज꣡वांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡दी वा꣡जाय सुधि꣡यो व꣡हन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि॒दत् । गौ॒रस्य॑ । ग॒व॒यस्य॑ । गोहे॑ । यदि॑ । वाजा॑य । सु॒ऽध्यः॑ । वह॑न्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -110,7 +110,7 @@ genre M
 इन्द्रः **पर्वतस्य** मेघस्य **वरांसि** द्वाराणि **वि** **वृण्वे** विवृतानि कृतवानिति **यत्** । **अपाम्** उदकानां **जवांसि** वेगान् **पयोभिः** जलैः **जिन्वे** प्याययतीति यत् । **यदि** यदा **सुध्यः** शोभनकर्माणो यजमानाः **वाजाय** अन्नाय **वहन्ति** इन्द्रं प्राप्नुवन्ति तदा **गोहे** गृहे **गौरस्य** गौरमृगस्य **गवयस्य** गवयमृगस्य च **विदत्** तौ द्वौ पशू लभते इति यत् । तत्सर्वं सत्रा इति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,13 +123,13 @@ He finds it in the haunt of Gaura and Gavaya: vidat gaurasya gavayasya gohe: vid
 Goha = **gṛha**, a dwelling; Gaura and Gavaya are two species of **mṛga**, deer or any wild animal; they are perhaps bos gavaus or gavaus frontalis and bibos gaurus or bos cavifrons; the purport of the phrase is that Indra obtains those two animals tau dvau **paśu** labhate, either for himself as sacrificial flesh, or for his worshippers, some of whom, at least, even now, would not object to eat the flesh of the wild oxen
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When he opens out the mountain’s enclosures into wide spaces and  quickens the swift currents of the waters with gushes of milk,  
 he finds (the cows?) in the secret place of the buffalo, of the bull, when  those of good insight convey him for the prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the play in the pāda-initial sequences: ví yád (a), vidád (c), yádī v(…) (d).
 
@@ -156,23 +156,23 @@ The vss. form a unity based on their shared vocab. (e.g., góhe 6b, 7c, 8c; auś
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When he unbars the spaces of the mountains, and quickens with his floods the water-torrents,  
      He finds in lair the buffalo and wild-ox when the wise lead him on to vigorous exploit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn sich die Breiten des Berges auftun und die Fluten der Gewässer sich regen in ihrem Naß, dann findet er in dem Versteck des Gaurabüffels, des Gavayarindes, wenn die Frommgesinnten zu Gewinn ausfahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ich des Berges Weiten mir eröffne, der Wasser Eile durch die Milch beschleun'ge, So find' er im Versteck des brünst'gen Büffels, was ihm zur Labung zu die Frommen führen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда он раскрывает шири горы,  
 Он приводит в движение стремнины вод с их влагой.  

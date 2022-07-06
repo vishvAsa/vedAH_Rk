@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ मित्रा꣡य प्र꣡ अर्यम्णे꣡  
 सचथि꣡यम् ऋतावसो  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 स्तोत्रं꣡ रा꣡जसु गायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒रू॒थ्य॑म् । वरु॑णे । छन्द्य॑म् । वचः॑ । स्तो॒त्रम् । राज॑ऽसु । गा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -92,7 +92,7 @@ genre M
 हे **ऋतवसो** यज्ञधन **मित्राय** **सचथ्यं** सेवार्हं **वरूथ्यं** यज्ञगृहे भवं च स्तोत्रं **प्र** **गायत** प्रकर्षेण गायत। **अर्यम्णे** च **प्र** गायत। **वरुणे** **छन्द्यं** प्रीणनसाधनं चैतादृशं **वचः** प्र गायत । प्रगायतेति बहुवचनं पूजार्थम् । एतदेव दर्शयति । **राजसु** मित्रादिषु राजसु **स्तोत्रं** गायत पठत । मित्रादींस्त्रीन्राज्ञः स्तुतेति समुदायार्थः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,12 +103,12 @@ genre M
 Produced in the sacrificialchamber: varūthyam = yajñagṛhe bhavam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Sing) forth for Mitra, forth for Aryaman, o you rich in truth, a speech, a companionable, pleasurable, protective praise song—sing to  Varuṇa, to the kings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse contains two minor disharmonies: 1) the recipients of the praise song are in the dat. in pāda a (mitrā́ya … aryamṇé) but the loc. in cd (váruṇe … rā́jasu); 2) the verb is 2nd plural (prá … gāyata) but paired with a vocative in the singular, the hapax ṛtāvasaḥ. Geldner separates the vs. into abc and d, supplying a verb (“(trage) … vor”) with the former. This solves the number problem, by isolating the plural verb in a separate clause, but not the case problem. Moreover, since the hymn is composed in pragāthas, I would prefer to construe the doubled prá in a with the impv. gāyata in d, for a meta-pun on the name of the verse pairing. Chopping the verse into two clauses is not appealing, particularly since it only addresses one of the disharmonies, in my opinion the lesser one.
 
@@ -119,23 +119,23 @@ voc. vājinīvasū pāda-final in 8b. Geldner, by the way, tr. ṛtāvaso as a P
 I do not understand the change in case from dat. to loc. either. The verb √gā (+/- prá) elsewhere takes only dat., never loc., as far as I know. It might be possible to take the locatives as functionally different from the datives -- “chez or bei Varuṇa (and) the kings.” But since Mitra, Varuṇa, and Aryaman are an almost inseparable trio and Mitra and Aryaman are in the dative in pāda a, it is highly unlikely that Varuṇa would be functionally separate from them in this verse. And it is insulting to the grammatical knowledge of our poet even to suggest that váruṇe owes its ending to a superficial matching with aryamṇé two pādas before, particularly since rā́jasu with a non-rhyming loc. ending follows soon after. I think the poet changed cases just because he thought he could and craved a bit of novelty. For another tricky problem of case, see 8ab below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Aryaman and Mitra sing a reverent song, O pious one,  
      A pleasant hymn that shall protect to Varuna: sing forth a laud unto the Kings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf Mitra, auf Aryaman trage eine freundschaftliche, auf Varuna eine schützende, wohlgefällige Rede vor, o Ritavasu! Singet auf die Könige ein Preislied!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, sing dem Mitra, Arjaman ein freundlich Lied, andächtiger; Ein schirmendes, ein preisendes dem Varuna, auf, singet Lob den Königen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Про(изнеси) для Митры, для Арьямана  
 Подобающую (речь), о праведный,  

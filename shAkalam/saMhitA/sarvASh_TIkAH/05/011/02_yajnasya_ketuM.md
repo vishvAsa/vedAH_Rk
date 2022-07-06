@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञ꣡स्य केतु꣡म् प्रथम꣡म् पुरो꣡हितम्  
 अग्निं꣡ न꣡रस् त्रिषधस्थे꣡ स꣡म् ईधिरे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सी꣡दन् नि꣡ हो꣡ता यज꣡थाय सुक्र꣡तुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्रे॑ण । दे॒वैः । स॒रथ॑म् । सः । ब॒र्हिषि॑ । सीद॑त् । नि । होता॑ । य॒जथा॑य । सु॒ऽक्रतुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
@@ -127,7 +127,7 @@ genre M
 **नरः** ऋत्विजः **यज्ञस्य** यागस्य **केतुं** प्रज्ञापकं **पुरोहितं** यजमानैः पुरस्कृतम् **इन्द्रेण** **देवैः** च **सरथं** तेषां मान्यत्वात् समानरथम् **अग्निं** **त्रिषधस्थे** त्रिस्थाने विहारप्रदेशे **प्रथमं** **समीधिरे** समैन्धत । **सुक्रतुः** शोभनकर्मा **होता** देवानामाह्वाता **सः** अग्निः **बर्हिषि** बर्हिर्युक्ते तस्मिन् स्थाने **यजथाय** यज्ञाय **नि** **सीदत्** प्रतिष्ठितोऽभवदिति यावत् ॥ केतुम् ।  ‘ कित ज्ञाने ' । औणादिक उप्रत्ययः । अन्तोदात्तः । पुरोहितम् । **पुरोऽव्ययम्'** इति गतिसंज्ञायां  ‘ गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । त्रिषधस्थे । आहवनीयादिलक्षणेन त्रिप्रकारेणानेन सह तिष्ठतीति त्रिषधस्थः । कप्रत्ययः ।  ‘ सध मादस्थयोश्छन्दसि' इति सधादेशः । कृदुत्तरपदप्रकृतिस्वरत्वम् । सीदत् । सदेः पाघ्रादिना सीदादेशः ।  ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इत्यडभावः । पादादित्वान्निघाताभावः । यजथाय । यजेरौणादिकोऽथप्रत्ययः । प्रत्ययस्वरेण मध्योदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,33 +138,33 @@ genre M
 Have first kindled in three plural ces: triṣadhasthe samīdhire, i.e. as the three fires, the **gārhapatya**, **āhavanīya** and **dakṣiṇā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the beacon of their sacrifice, as the foremost one placed to the fore,  men have kindled Agni in his threefold abode. On the same chariot with Indra and the gods, he of strong resolve sits  down on the ritual grass as Hotar to perform the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ensign of sacrifice, the earliest Household-Priest, the. men have kindled Agni in his threefold seat,  
      With Indra and the Gods together on the grass let the wise Priest sit to complete the sacrifice.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, the beacon of sacrifice, the first Purohita 1 men have kindled in the threefold abode 2. (Driving) on the same chariot with Indra and with the gods, he, the highly wise Hotri, has sat down on the Barhis for sacrificing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Opfers Fahne und ersten Bevollmächtigten, den Agni haben die Männer entzündet an dreifachem Sitze. Auf gleichem Wagen mit Indra, mit den Göttern kommend setze er sich auf das Barhis zum Opfern nieder als der umsichtige Hotri.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den ersten Priester und des Opfers Fahne ihn, den Agni fachten Männer in drei Sitzen an; Der fährt mit Indra und den Göttern, setze sich zum Opfern hin, der tücht'ge Priester auf die Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Знамя жертвы первого пурохиты –  
 Агни мужи зажгли на тройном месте.  

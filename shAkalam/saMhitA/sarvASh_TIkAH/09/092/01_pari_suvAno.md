@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि स्वानो꣡° ह꣡रिर् अंशुः꣡ पवि꣡त्रे  
 र꣡थो न꣡ सर्जि सन꣡ये हियानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ति देवाँ꣡ अजुषत प्र꣡योभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आप॑त् । श्लोक॑म् । इ॒न्द्रि॒यम् । पू॒यमा॑नः । प्रति॑ । दे॒वान् । अ॒जु॒ष॒त॒ । प्रयः॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -116,21 +116,21 @@ genre M
 **सुवानः'** अभिषूयमाणः **हियानः** ऋत्विग्भिः प्रेर्यमाणः **हरिः** हरितवर्णः **अंशुः** सोमः **पवित्रे** अविवालेन कृते दशापवित्रे **परि** **सर्जि** परिसृज्यते । किमर्थम् । **सनये** धनलाभाय देवानां संभजनाय वा । तत्र दृष्टान्तः । **रथो** **न** । रथो यथा युद्धे शत्रुवधार्थं शत्रुधनहरणार्थं वा सृज्यते तद्वत् । किंच **पूयमानः** पवित्रेण सोऽयं सोमः **इन्द्रियम्** इन्द्रलिङ्गमिन्द्रस्य पर्याप्तं वा **श्लोकं** स्तोत्रम् **आपत्** आप्नोति । आप्लृ व्याप्तौ ' । लेट्यडागमः । तथा स सोमः **प्रयोभिः** प्रीणयितृभिः हवीरूपैरन्नैः **देवान्** **प्रति** **अजुषत** प्रतिसेवते । ‘जुषी प्रीतिसेवनयोः' ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The green-tinted **Soma** effused and sent forth (by the priests) is let loose, like a chariot upon the filter, for the acquisition (of riches); being filtered he acquires (**Indra**'s) praise, he gratifies the gods with conciliatory (oblations).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The tawny one, the plant, being pressed, is sent surging all around in the  filter, like a chariot being urged on to win.  
 He will achieve a signal-call meant for Indra as he is being purified.  He has returned the favor to the gods through his pleasurable  
 offerings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The injunc sarji would probably be better tr. “has been sent surging,” per Ian Hollenbaugh.
 
@@ -139,23 +139,23 @@ In c ā́pac chlókam indriyám seems illuminated by X.94.1 (one of the pressing
 The lexeme práti √juṣ sometimes seems to mean what the simplex does: ‘enjoy’ with an acc. of the substance enjoyed, as in I.101.10 uśán havyā́ni práti no juṣasva “(Indra,) being eager, take pleasure in our oblations” (cf. VII.34.21). But sometimes this idiom takes a personal object, with the subject giving enjoyment to the object - a reversal of the usual situation. See III.33.8, VII.54.1, 2. In the latter hymn, we find in vs. 1 the dyadic yát tvémahe práti tán no juṣasva “When we entreat you, favor us in return,” which suggests that práti √juṣ comes as a response to a request of some sort. In vs. 2 pitéva putrā́n práti no juṣasva “Like a father his sons, favor us in return,” the acc. putrā́n in the simile shows the case of the obj. of the verb, which the enclitic naḥ conceals. The personal acc. is also found in our passage: práti devā́m̐ajuṣata práyobhiḥ. As these tr. show, I have generally tr. this idiom ‘favor in return’, but ‘favor in response’ might be better. I confess, however, that neither ‘in return’ or ‘in response’ quite works in our passage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE gold-hued juice, poured out upon the filter, is started like a car sent forth to conquer.  
      He hath gained song and vigour while they cleansed him, and hath rejoiced the Gods with entertainments.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es kreist der falbe Stengel ausgepreßt in der Seihe um. Wie ein Wagen schoß er los zum Gewinn getrieben. Er hat den indrischen Ton erreicht, während er geläutert wird. Den Göttern ward er durch seine Labungen wohlgefällig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen ist der goldne Saft zur Seihe, gepresst, getrieben wie zum Preis der Wagen; Geklärt hat er des Indra Ton gefunden und hat erfreut die Götter durch Genüsse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый, буланый (конь) – стебель (сомы)  
 Понесся кругами по цедилке, словно колесница, посланная за добычей.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरूरु꣡णा चिद् धि꣡ अ꣡स्ति  
 अ꣡वो नूनं꣡ वां वरुण  
 मि꣡त्र वं꣡सि वां सुमति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 मित्र॑ । वंसि॑ । वा॒म् । सु॒ऽम॒तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purūruṇā*
 - \[adverb\]
@@ -88,35 +88,35 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे मित्रावरुणौ **वां** युवयोः **पुरूरुणा** **चित्** । अत्र सोः ‘सुपां सुलुक्' इत्याकारः ॥ पुरोरपि बहु उरु बहुतरम् । अथवा पुरु च तदुरु च पुरूरु। अत्यन्तमुरुतरमित्यर्थः । तादृक् **अवः** रक्षणं **नूनं** निश्चयेन **अस्ति** । **हि** प्रसिद्धौ । चिदिति पूरणः । हे **वरुण** हे **मित्र** **वां** युवयोः **सुमतिम्** अनुग्रहबुद्धिं **वंसि** संभजेय । यस्मादवोऽस्ति तस्माद्वंसीति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May I, **Mitra** and **Varuṇa**, enjoy your favour through which there is assuredly protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since now there is help from you two, even in (its full) quantity and breadth, I have won the favor of you two, o Varuṇa and Mitra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 EVEN far and wide, O Varuna and Mitra, doth your grace extend.  
      May I obtain your kind good-will.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ja eure Gnade gewiß mehr als ausgedehnt ist, o Varuna, so möchte ich eure Gunst gewinnen, o Mitra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da weit sich eure Huld erstreckt, so fleh' ich, Mitra, Varuna, Euch nun um eure Güte an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Раз, в самом деле, ваша помощь,  
 Распространилась теперь с большой широтой, о Варуна,  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ये꣡ ययु꣡र् अवृका꣡सो र꣡था इव  
 नृपाता꣡रो ज꣡नाना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 उत꣡ क्षियन्ति सुक्षिति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒त । स्वेन॑ । शव॑सा । शू॒शु॒वुः॒ । नरः॑ । उ॒त । क्षि॒य॒न्ति॒ । सु॒ऽक्षि॒तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 **ये** यजमानाः **अवृकासः** परकीयधनस्यानादातारः **जनानां** मनुष्याणां मध्ये **नृपातारः** ऋत्विग्रूपाणां नृणां रक्षितारः सन्तः **ययुः** युवां प्राप्नुवन्ति हविर्भः। प्राप्तौ दृष्टान्तः। **रथाइव** व्रीह्यादिपूर्णा रथा यथा प्राप्नुवन्ति स्वामिगृहम् । उतेत्ययमुत्तरवाक्यापेक्षः । अपि च ते **नरः** यजमानाः **स्वेन** **शवसा** स्वीयेन बलेन **शूशुवुः** वर्धन्ते । **उत** अपि च **सुक्षितिं** सुनिवासं **क्षियन्ति** गच्छन्ति प्राप्नुवन्ति ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,30 +127,30 @@ genre M
 Like chariots: **ratha** iva, like chariots:vṛhyādi **pūrṇa** yathā prāpnuvanti svāmigṛham, loaded with rice and the like, arrive at the house of theowner
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The man-protectors of the peoples, keeping the wolf away, who like  chariots have journeyed forth—  
 these men swell with their own swelling strength, and they dwell upon a  good dwelling.  
 This group of seven Dawn hymns, VII.75–81, is the largest such collection devoted  to this goddess in the R̥gveda, though none of the hymns is very long (ranging from  eight verses to three). The hymns share and recycle much of the same vocabulary and  phraseology, and there are striking phonologically driven lexical responsions across  hymns, which can unfortunately not be rendered in translation. What distinguishes  the hymns from each other is their structure, which can be quite tightly organized  and reinforced by verbal and grammatical markers. See, for example, VII.76.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those who have led the way, like cars, offending none, those who are guardians of the men-  
      Also through their own might the heroes have grown strong, and dwell in safe and happy homes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die vor Räubern sicheren Schirmherren der Völker, die sich auf die Fahrt machten wie Kriegswagen, die Herren sind aus eigener Kraft erstarkt und bewohnen einen schönen Wohnsitz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schirmenden Beherrscher des Volkes, welche vorwärts eilten wie Wagen, die Helden sind mächtig geworden durch eigene Kraft und bewohnen sichern. Wohnsitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Двинулись вперед, словно колесницы, (те,) кто надежные  
 Защитники народов.  

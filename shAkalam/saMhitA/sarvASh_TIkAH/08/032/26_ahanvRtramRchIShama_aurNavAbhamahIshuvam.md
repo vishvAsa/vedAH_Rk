@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡हन् वृत्र꣡म् ऋ꣡चीषम  
 और्णवाभ꣡म् अहीशु꣡वम्  
 हिमे꣡नाविध्यद् अ꣡र्बुदम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हि॒मेन॑ । अ॒वि॒ध्य॒त् । अर्बु॑दम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
@@ -73,7 +73,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ऋचीषमः** ऋचा दीप्त्या सम इन्द्रः **वृत्रं** वृत्रनामकं शत्रुम् **अहन्** जघान । तथा **और्णवाभम्** और्णवाभनामकम् **अहीशुवम्** अहीशुवनामकं च शत्रुमहन् । तथा **हिमेन** तुषारेणोदकेन वा **अर्बुदं** मेघम् **अविध्यत्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,14 +84,14 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Indra: ṛcīṣama =ṛcā dīptyā **sama** **indraḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who is equal to song smashed Vr̥tra, (smashed) the spider’s son  [/Aurṇavābha] and the one puffed up like a  
 snake [/Ahīśuva].  
 With snow [/an icicle?] he pierced Arbuda.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ṛ́cīṣama- see I.61.1.
 
@@ -102,23 +102,23 @@ Note again the non-Indo-Āryan phonology.
 The return of the theme of Indra’s smashing named enemies from vs. 2 suggests a ring, and the fact that the following verses (27-28) sketch a ring with vs. 1 strengthens this impression.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, meet for praise, slew Vrtra, slew Ahisuva, Urnavabha's son,  
      And pierced th:rough Arbuda with frost.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ........ erschlug den Vritra, den Aurnavabha, den Ahisu. Mit Schnee bewarf er den Arbuda.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er schlug den Vritra glanzdurchstrahlt, die Spinnenbrut Ahiçuva, Durch Frost vertilgt' er Arbuda.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Этот)...убил Вритру,  
 Аурнавабху, Ахишуву.  

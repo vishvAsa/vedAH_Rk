@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ त इन्द्र पूर्विया꣡णि प्र꣡ नूनं꣡  
 वीरि꣡या वोचम् प्रथमा꣡ कृता꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवेदना꣡म् अकृणोर् ब्र꣡ह्मणे गा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒ती॒नऽम॑न्युः । अ॒श्र॒थ॒यः॒ । अद्रि॑म् । सु॒ऽवे॒द॒नाम् । अ॒कृ॒णोः॒ । ब्रह्म॑णे । गाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -139,7 +139,7 @@ genre M
 हे **इन्द्र** **ते** त्वदीयानि **प्रथमा** आदितः **कृतानि** **पूर्व्याणि** पुरातनानि च **वीर्या** वीर्याणि **नूनम्** इदानीं **प्र** **वोचं** प्रकर्षेण वदामि। एकः प्रशब्दः पूरणः ॥ वोचम् । लुङि ब्रुवो वचिः । च्लेरङ् । कानि तानि । **सतीनमन्युः** । सतीनमित्युदकनाम । उदकाभिवर्षणबुद्धियुक्तस्त्वम् **अद्रिं** मेघम् **अश्रथयः** वज्रेणाहिँसीः । **ब्रह्मणे** बृहस्पतये **गां** पणिभिरपहृतां **सुवेदनां** सुष्ठु ज्ञापनीयाम् **अकृणोः** अकरोरित्यादीनि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,30 +150,30 @@ genre M
 I.e., for **Bṛhaspati**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I will proclaim your previous heroic deeds, proclaim now those first  performed.  
 
 You, of real battle fervor, made the stone give way; you made the cow  easy to find, for the sacred formulation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I will declare thy deeds of old, O Indra, the mighty acts which thou hast first accomplished.  
      In genuine wrath thou loosenedst the mountain so that the Brahman easily found the cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich will deine früheren, ich will jetzt deine erstgetanen Heldentaten verkünden, Indra. Du, dessen Eifer echt ist, machtest den Felsen mürb, du machtest für das zauberkräftige Wort die Kuh leicht zu bekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich rühme, Indra, deine frühern Thaten, ich rühme nun, die du zuerst vollbracht hast, Mit wahrem Eifer löstest du den Felsen und schafftest schönen Rindbesitz dem Frommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу провозгласить, о Индра, твои прежние  
 Героические деяния, про(возгласить) сейчас (твои) первые (деяния).  

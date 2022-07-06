@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वा रूपा꣡णि प्र꣡ति मुञ्चते कविः꣡  
 प्रा꣡सावीद् भद्रं꣡ द्विप꣡दे च꣡तुष्पदे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡नु प्रया꣡णम् उष꣡सो वि꣡ राजति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि । नाक॑म् । अ॒ख्य॒त् । स॒वि॒ता । वरे॑ण्यः । अनु॑ । प्र॒ऽयान॑म् । उ॒षसः॑ । वि । रा॒ज॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
@@ -127,7 +127,7 @@ genre M
 **कविः** मेधावी सविता **विश्वा** सर्वाणि **रूपाणि** आत्मनि **प्रति** **मुञ्चते** बध्नाति धारयति । किंच **भद्रं** कल्याणं गमनादिविषयं **प्रासावीत्** अनुजानाति । कस्मै । **द्विपदे** मनुष्याय **चतुष्पदे** गवाश्वादिकाय । किंच **सविता** सर्वस्य प्रेरको देवः **वरेण्यः** वरणीयः सन् **वि** **अख्यत्** ख्यापयति प्रकाशयति । किम् । **नाकम्** । नास्मिन्नकं दुःखमस्तीति नाकः स्वर्गः । यजमानार्थं स्वर्गं प्रकाशयतीत्यर्थः । स देवः **उषसः** **प्रयाणम्** उदयम् **अनु** **वि** **राजति** प्रकाशते । सवितुरुदयात् पूर्वं ह्युषा उदेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ genre M
 **Yajus**. 13.3; savitā comprehends all forms in himself: **viśva** rūpāṇi pratimuñcate, he liberates, severally, all forms = ātmani badhnāti or dhārayati he binds or holds in himself; or,he makes all forms manifest in their own substance, by removing darkness; has illumed the heaven: nākam vyākhyat = svargam prakāśayati, he makes manifest **svarga** as the reward of the **yajamāna**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sage poet fastens all forms upon himself. He has impelled benefit to  the two-footed and the four-footed.  
 He has looked out across the firmament—Savitar worthy to be chosen.  He rules following the lead of Dawn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Sapient One arrays himself in every form: for quadruped and biped he hath brought forth good.  
      Excellent Savitar hath looked on heaven's high vault, and shineth after the outgoing of the Dawn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Gestalten legt der Seher an. Zweifüßlern und Vierfüßlern hat er jetzt Gutes zugewiesen. Savitri, der Vorzügliche, hat jetzt nach dem Himmelsraum Ausblick gehalten; nach der Ausfahrt der Usas führt er das Regiment.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In alle Farben kleidet sich der weise Gott, er schaffet Segen für den Menschen und das Vieh; Den Himmel machte hell der schöne Savitar; der Morgenröthe folgt er nach auf ihrer Bahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэт облекается во все формы.  
 Он вызвал к жизни благо для двуногого и четвероногого.  

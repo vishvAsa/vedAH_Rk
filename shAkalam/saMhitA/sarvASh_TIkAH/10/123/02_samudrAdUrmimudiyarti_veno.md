@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समुद्रा꣡द् ऊर्मि꣡म् उ꣡द् इयर्ति वेनो꣡  
 नभोजाः꣡ पृष्ठं꣡ हर्यत꣡स्य दर्शि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 समानं꣡ यो꣡निम् अभ्य् अ᳡नूषत व्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तस्य॑ । सानौ॑ । अधि॑ । वि॒ष्टपि॑ । भ्राट् । स॒मा॒नम् । योनि॑म् । अ॒भि । अ॒नू॒ष॒त॒ । व्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samudrād* ← *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
@@ -126,37 +126,37 @@ genre M
 समुद्द्रवन्त्यस्मादाप इति समुद्रमन्तरिक्षम् । तस्मात् ऊर्मिं जलसमूहम् अयं **वेनः** **उदियर्ति** उद्गमयति । अधः पातयतीत्यर्थः। कीदृशः । **नभोजाः** । नभस्याकाशे ---। इमं वेनमभि शब्दायन्ते । नु स्तुतौ ' । कुटादिः । छान्दसो लुङ् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The cloud-born **Vena** send the water from the firmament; the back of the azure (sky) is beheld. Heshone on the summit of the water in heaven; the troops praised their common abode.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Seeker raises up a wave from the sea. The cloud-born one, the top of  the delightful one has been sighted,  
 as the glint on the back of truth, on its upper surface. (All) the  
 “brides-to-be” have roared toward the same womb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vena draws up his wave from out the ocean. mist-born, the fair one's back is made apparent,  
      Brightly he shone aloft on Order's summit: the hosts sang glory to their common birthplace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus dem Ozean treibt der Seher die Welle empor; der wolkengeborene Rücken des Lieben ist erschienen, auf dem Rücken im Scheitelpunkt der Opferordnung erglänzend. Die Lockweibchen haben nach dem gemeinsamen Lager geschrieen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der holde regt die Welle aus dem Meer auf, man sieht des schönen dunstentstiegnen Rücken, Der an des ew'gen hoher Wölbung strahlet, dem gleichen Schoosse jauchzen zu die Scharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вена гонит вверх волну из океана.  
 Показалась спина желанного – (это Вена,) рожденный в облаках, –  

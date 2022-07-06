@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पवस्व सहस्रि꣡णं  
 रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
 पुरुश्चन्द्र꣡म् पुरुस्पृ꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒रु॒ऽच॒न्द्रम् । पु॒रु॒ऽस्पृह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -75,19 +75,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम त्वं **सहस्रिणं** बहुसंख्याकं **गोमन्तं** गोभिरुपेतम् **अश्विनम्** अश्ववन्तं **पुरुश्चन्द्रं** बहूनां हर्षकं **पुरुस्पृहं** बहुस्पृहणीयं **रयिं** धनम् **आ** **पवस्व** परिक्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour forth thousand-fold wealth, together with cattle and horses, delighting many, desired by many.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In purifying yourself bring wealth in thousands of cows and of horses, much gleaming, much craved.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -97,23 +97,23 @@ In this tṛca all three vss. have a form of med. páva-: pávamānaḥ 10b, 11b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour thou upon us thousandfold possessions, both of kine and steeds,  
      Exceeding glorious, much-desired.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere tausendfachen Reichtum an Rindern und Rossen, vielschimmernden, vielbegehrten uns zu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle tausendfachen Schatz herbei, der reich an Rind und Ross, Sehr glänzend ist und vielbegehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

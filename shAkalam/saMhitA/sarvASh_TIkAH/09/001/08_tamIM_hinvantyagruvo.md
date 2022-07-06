@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ईं हिन्वन्ति अग्रु꣡वो  
 ध꣡मन्ति बाकुरं꣡ दृ꣡तिम्  
 त्रिधा꣡तु वारण꣡म् म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त्रि॒ऽधातु॑ । वा॒र॒णम् । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **तमीम्** एनं सोमम् **अग्रुवः** अङ्गुलयः **हिन्वन्ति** अभिषवदेशं प्रति प्रेरयन्ति । प्रेरयित्वा च **बाकुरं** भासमानं **दृतिं** दृतिसदृशांशुमेनं सोमं **धमन्ति** अभिषुण्वन्ति । यद्यपि धमतिरभिषवकर्मा न भवति तथाप्यौचित्यादत्राभिषवपरो भविष्यति । तदेतत् सोमात्मकं **मधु** वस्तु **त्रिधातु** त्रिस्थानम् । द्रोणकलश आधवनीयः पूतभृदिति त्रिधातवः । **वारणं** शत्रूणां वारकं च भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,13 +96,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Its juice becomes threefold = tridhātu = liṭ, in three plural ces; or, as filling the three vessels, the droṇakalaśa, the **āhavanīya** and the pūtabhṛt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him do the unwed girls impel, as they blow the skin bagpipe,  
 him, the threefold wild honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ‘unwed girls’ are also the fingers alluded to in the preceding vs.: the pl. agrúvaḥ is always so used.
 
@@ -111,23 +111,23 @@ In b they are clearly blowing into a musical instrument: bākurá- is a hapax, a
 The next question is what to do with the acc. phrase in c. I find it unlikely that the “wild honey” is in apposition to the bag-pipe of b, though Geldner seems to take it that way. Renou supplies another verb “(elles traient),” whereas I take it as a return to the object of hinvanti in pāda a, with b loosely parenthetical. It is “threefold” (tridhā́tu) perhaps in reference to the three soma pressings, or to some other ritual triplet (see Geldner’s suggestions n. 8c). For further discussion of tridhā́tu … mádhu see comm. ad IX.70.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The virgins send him forth: they blow the the skin musician-like and fuse  
      The triple foe-repelling meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn treiben die Unvermählten zur Eile; sie blasen den aus Bakura gemachten Schlauch auf, die dreifache wildwachsende Süßigkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die unvermählten senden ihn und sprühen auf den Lederschlauch Den starken dreigemischten Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его поторапливают незамужние девы.  
 Они надувают мехи бакуры,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡मा꣡ अग्मन् रेव꣡तीर् जीव꣡धन्या  
 अ꣡ध्वर्यवः साद꣡यता सखायः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपां꣡ न꣡प्त्रा संविदाना꣡स एनाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नि । ब॒र्हिषि॑ । ध॒त्त॒न॒ । सो॒म्या॒सः॒ । अ॒पाम् । नप्त्रा॑ । स॒म्ऽवि॒दा॒नासः॑ । ए॒नाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *emā* ← *ā*
 - \[adverb\]
@@ -112,36 +112,36 @@ genre M
 **रेवतीः** रेवत्यः धनवत्यः **जीवधन्याः** जीवानां पालयित्र्यः प्रीणयित्र्यो वा **इमाः** ईदृग्भूता आपः **आ** **अग्मन्** अस्मद्यज्ञं प्रत्यागच्छन् । एतज्ज्ञात्वा हे **सखायः** सखिभूता हे **अध्वर्यवः** यूयम् **अपां** **नप्त्रा** वृष्टिकर्मस्वधिकृतेन देवेन सह  **संविदानाः** संमन्त्रयमाणाः **एनाः** एता अपः। **सादयत** स्थापयत । कुत्र सादयाम इति उच्यते । **सोम्यासः** सोमसंपादिनोऽध्वर्यवः यूयं **बर्हिषि** वेद्यामास्तीर्णे कुशमये **नि** **धत्तन** नियमेन स्थापयत ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These opulent and life-sustaining (waters) have come (to my sacrifice); friendly priests, make them sitdown; plural ce them on the sacred grass, you offerers of the **Soma**, conversing with the grandson of the waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have now arrived here, rich and bringing spoils for the living. O  Adhvaryus, comrades, make them take their seats;  
 set these down on the ritual grass, you (comrades) in soma, these who  are allied with the Child of the Waters.1424 X.31
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rich, they are come with wealth for living beings, O friends, Adhvaryus, seat them in their places.  
      Seat them on holy grass, ye Soma-bringers in harmony with the Offspring of the Waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese reichen Wasser, die den Lebenden Glück bringen, sind jetzt angekommen. Setzet sie hin, Adhvaryu´s, ihr Genossen; stellet sie auf das Barhis, ihr Somawürdigen, im Einvernehmen mit Apam Napat!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie sind genaht, die reichen, lebenskräft'gen; Gehülfen, Freunde! lasst sie hier sich setzen; Ihr Somapriester, setzet auf die Streu sie, sie in Gemeinschaft mit dem Sohn der Wasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прибыли эти богатые (воды), дающие счастье живым.  
 О адхварью, усаживайте (их), друзья!  

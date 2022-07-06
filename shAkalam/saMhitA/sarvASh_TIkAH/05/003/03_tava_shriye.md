@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व श्रिये꣡ मरु꣡तो मर्जयन्त  
 रु꣡द्र य꣡त् ते ज꣡निम चा꣡रु चित्र꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡न पासि गु꣡हियं ना꣡म गो꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प॒दम् । यत् । विष्णोः॑ । उ॒प॒ऽमम् । नि॒ऽधायि॑ । तेन॑ । पा॒सि॒ । गुह्य॑म् । नाम॑ । गोना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -132,7 +132,7 @@ genre M
 अनयाग्नेर्माध्यमिकी मूर्तिरुच्यते । हे अग्ने तव **श्रिये** श्रयणाय **मरुतः** अपः अन्तरिक्ष्याः **मर्जयन्त** मार्जयन्ति । हे **रुद्र** वृष्ट्या रुद्रवद्वर्धितरग्ने **ते** तव **यत्** **जनिम** जन्म वैद्युतलक्षणं **चारु** चरणीयं **चित्रं** चायनीयं च । तत्कथमिति चेदुच्यते । विष्णोः व्यापनशीलस्य देवस्य **उपमं** **गुह्यम्** अगम्यं **यत्** **पदं** **निधायि** । अनेनान्तरिक्षमुक्तम् । उपमेयमिव विष्णोर्मध्यमं पदं तस्मानान्तरिक्षं पश्यन्ति' इति ब्राह्मणम् । **तेन** **गोनाम्** उदकानां **गुह्यं** **नाम** नामानि **पासि** रक्षसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,34 +143,34 @@ genre M
 Your birth is beautiful and wonderful: **Agni** as the lightning; cherish the mysterious name of the waters: **pāsi** guhyam **nāma** gonām = udakānām guhyam nāmāni **rākṣasi**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For your splendor the Maruts groomed themselves, o Rudra, when you  came to beloved, shimmering birth.  
 The track of Viṣṇu that was set down as the highest, by that you protect  the secret name of the cows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Maruts deck their beauty for thy glory, yea, Rudra! for thy birth fair, brightly-coloured.  
      That which was fixed as Visnu's loftiest station-therewith the secret of the Cows thou guardest.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For thy glory the Maruts have cleansed themselves 1, who are thy fair and brilliant offspring, O Rudra 2! The footprint of Vishnu which is put down in the highest place: therewith thou protectest the secret name of the cows.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu deiner Herrlichkeit putzen sich die Marut, wenn deine schöne, wunderbare Geburt stattfindet, o Rudra. Was die höchste Fußspur des Vishnu ist, die er hinterlassen hat, mit dieser wahrest du den geheimen Namen der Kühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu deinem Glänze, o Rudra, schmücken sich die Maruts, welche dein schönes, glänzendes Geschlecht sind; was als die höchste Fussspur des Vischnu gesetzt ist, mit dem beschützest du das verborgene Wesen der Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Маруты украшаются для твоего блеска,  
 О Рудра, когда (наступает) твое милое яркое рожденье.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ अग्ने प्रथमो꣡ मनो꣡त  
 अस्या꣡ धियो꣡ अ꣡भवो दस्म हो꣡ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡हो वि꣡श्वस्मै स꣡हसे स꣡हध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वम् । सी॒म् । वृ॒ष॒न् । अ॒कृ॒णोः॒ । दु॒स्तरी॑तु । सहः॑ । विश्व॑स्मै । सह॑से । सह॑ध्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -129,7 +129,7 @@ genre M
 हे **अग्ने** प्रथमः देवानां मध्ये प्रथमः प्रतमः प्रकृष्टतमः पूर्वभावी वा **त्वं** मनोता **हि** देवानां मनो यत्रोतं संबद्धं भवति तादृशो भवसि । हिशब्दः ‘अग्निः सर्वा मनोताग्नौ मनोताः संगच्छन्ते' (ऐ. ब्रा. २. १०) इत्यादिब्राह्मणप्रसिद्धिद्योतनार्थः । हे **दस्म** दर्शनीय अस्याः **धियः** अस्य कर्मणः होता देवानामाह्वाता **अभवः** भवसि । हे वृषन् कामानां वर्षितः **त्वं** **सीं** सर्वतः **दुष्टरीतु** दुर्हिंस्यमहिंस्यं **सहः** बलम् **अकृणोः** अकरोः । किमर्थम् । विश्वस्मै **सहसे** सर्वस्यापि बलवतः शत्रोः **सहध्यै** अभिभवनाय ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,14 +140,14 @@ genre M
 Tvam hi agne prathamo **manotā**: manotā is interpreted as devān ām mano yatrotam, sambaddham, where, on whom, the mind of the gods is attached; or, devānām manāṃsi etāni dṛḍhapraviṣṭāni yasyām devatāyām sa manotā, the divinity on whom the minds of the gods are fastened, that is, firmly concentrated, he is called manotā: **Agniḥ** **sarvā** manotāgnau **manotāḥ** saṃgacchante (**Aitareya** **Brāhmaṇa** 2.10)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, as first minder of this insightful thought here, became the  Hotar, o wondrous one.  
 You, o bull, made (the thought) into power difficult to surpass, to  
 overpower all (other) power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted ad loc., the first hymn of Maṇḍala IV begins identically (IV.1.1.a): tváṃ hí agne, with the same puzzling use of ordinarily causal hí in the first pāda of a hymn. It might be possible here to tr. the first hemistich as a causal clause subordinate to cd: “Because … you became the first minder of this insightful thought and the Hotar, you made …” On the stem manótar- see comm. ad II.9.4 and IV.1.16, 5.10. Note also that the Holland & van Nooten Rig Veda edition pausal resolution of the word as manóta is faulty; it should end in a long -ā.
 
@@ -156,23 +156,23 @@ Geldner construes the gen. asyā́dhiyáḥ with both manótā and hótā, but t
 The sīm in c presumably refers to the dhī́- of b. The published translation could be slightly altered to “made it into power …”; so Geldner “… machtest es zu … Macht.” On the infinitival construction in cd, see also Keydana (253). Note the attraction of the object of sáhadhyai into the dative case (víśvasmai sáhase). Pāda d is also noteworthy in having three forms of √sah, though two belong to the same s-stem.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU, first inventor of this prayer, O Agni, Worker of Marvels, hast become our Herald.  
      Thou, Bull, hast made us strength which none may conquer, strength that shall overcome all other prowess.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, warst ja der erste Ersinner und Opferpriester dieser Dichtung, du Meister. Du Bulle machtest es zu einer unüberwindlichen Macht, um jede Macht zu überwältigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, warst Erreger dieser Andacht, der erste Priester, o du wunderbarer; Du schufst, o Held, die Macht, die unbezwinglich, die Macht, um aller Macht sich zu bemächt'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это ты, о Агни, был первым  
 Вдохновителем этой молитвы (и) хотаром, о чудесный.  

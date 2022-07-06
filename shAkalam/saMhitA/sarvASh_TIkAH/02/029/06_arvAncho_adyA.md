@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वा꣡ञ्चो अद्या꣡ भवता यजत्रा  
 आ꣡ वो हा꣡र्दि भ꣡यमानो व्ययेयम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्रा꣡ध्वं कर्ता꣡द् अवप꣡दो यजत्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्राध्व॑म् । नः॒ । दे॒वाः॒ । नि॒ऽजुरः॑ । वृक॑स्य । त्राध्व॑म् । क॒र्तात् । अ॒व॒ऽपदः॑ । य॒ज॒त्राः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvāñco* ← *arvāñcaḥ* ← *arvāñc*
 - \[noun\], nominative, plural, masculine
@@ -116,7 +116,7 @@ genre M
 हेयजत्राः यष्टव्यादेवाः अद्येदानीमर्वाञ्चोस्मदभिमुखाभवत वोयुष्माकंहार्दिहृद्यवस्तितंरक्षणम्भ- यमानोबिभ्यदहंआव्ययेयं आभिमुख्येनप्राप्नुयाम् व्ययगतौ भौवादिकः हेदेवाः वृकस्यतस्करस्य आर- ण्यशुनोवा सम्बन्धिनः निजुरोनिहननात् जुरीहिंसार्थः अस्मात्सम्पदादिलक्ष्णोभावेक्विप् छान्द सोह्रस्वः नोस्मान् त्राध्वं त्रायध्वम् तथा हेयजत्राः अवपदःआपदः कर्तात् कर्तुः सकाशात् त्राध्वं त्रा- यध्वम् ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,34 +127,34 @@ genre M
 **Yajus**. 33.51; nijuro vṛkasya = protect us from the mischievous wolf; kartāt avapado = protect us from a well into which we might fall
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become inclined our way today, you who are worthy of the sacrifice.  Being fearful, I would fasten onto your heart.  
 Rescue us, gods, from the “rubbing out” of the wolf; rescue us from  falling into the pit, you who are worthy of the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Technically speaking, pāda d has two ablatives: “rescue us from falling, from the pit.” On the hapax nijúr- see Scarlatta (165).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Turn yourselves hitherward this day, ye Holy, that fearing in my heart I may approach you.  
      Protect us, God; let not the wolf destroy us. Save us, ye Holy, from the pit and falling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seid heute geneigt, ihr Verehrungswürdige! in euer Herz möchte ich mich einschleichen, da ich mich bange. Behütet uns, ihr Götter, vor dem Verschlingen des Wolfes, behütet uns vor dem Fall in die Grube, ihr Verehrungswürdige!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O seid uns heute nahe, hehre Götter, an euer Herz will fürchtend ich mich schmiegen; Errettet uns, dass nicht der Wolf uns fresse, dass, hehre, nicht wir in die Grube fallen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обратитесь сегодня в мою сторону, о достойные жертв!  
 Боясь, да спрячусь я в вашем сердце!  

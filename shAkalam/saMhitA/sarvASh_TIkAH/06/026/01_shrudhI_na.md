@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रुधी꣡ न इन्द्र ह्व꣡यामसि त्वा  
 महो꣡ वा꣡जस्य सातउ꣡ वावृषाणाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उग्रं꣡ नो अ꣡वः पा꣡रिये अ꣡हन् दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सम् । यत् । विशः॑ । अय॑न्त । शूर॑ऽसातौ । उ॒ग्रम् । नः॒ । अवः॑ । पार्ये॑ । अह॑न् । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrudhī* ← *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
@@ -131,21 +131,21 @@ genre M
 हे **इन्द्र** **ववृषाणाः** सोमैस्त्वां सिञ्चन्तो वयं स्तोतारः **महः** महतः **वाजस्य** अन्नस्य **सातौ** लाभार्थं **त्वा** त्वां **ह्वयामसि** आह्वयामः । हे इन्द्र त्वं **नः** अस्माकं तदाह्वानं **श्रुधि** शृणु । **यत्** यदा **विशः** जनाः **शूरसातौ** युद्धे **सम्** **अयन्त** संगच्छन्ते तदा **पार्ये** अन्तिमे **अहन्** अहनि दिवसे **नः** अस्मभ्यम् **उग्रम्** उद्गूर्णम् **अवः** रक्षणं **दाः** अदाः प्रयच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hear us, **Indra**, when, offering libations, we call upon you for obtaining abundant food; grant us decided protection when on a future day men are assembling for battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hear us, Indra. We are calling to you as we are “boiling over” at the  winning of the great prize.  
 When the clans clash together at the contest of champions, give us  
 mighty help on the decisive day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On vāvṛṣāṇā́ḥ, see comm. ad VIII.61.7 on úd vāvṛṣasva.
 
@@ -160,23 +160,23 @@ As noted in the published introduction, the 1st two vss. play on the word vā́j
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O INDRA, hear us. Raining down the Soma, we call on thee to win us mighty valour.  
      Give us strong succour on the day of trial, when the tribes gather on the field of battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erhöre uns, Indra, wir rufen dich inbrünstig um großer Beute Gewinn an. Wenn die Stämme in der Schlacht aneinander geraten, so gib uns an dem entscheidenden Tage deinen starken Schutz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hör Indra uns, wir rufen Opfer strömend, dich an, um grosse Beute zu erlangen; Wenn in der Schlacht die Völker sich begegnen, gib starke Hülf' uns am Entscheidungstage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Услышь нас, о Индра, мы призываем тебя  
 Возбужденно к захвату великой награды!  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मृजानो꣡ वा꣡रे प꣡वमानो अव्य꣡ये  
 वृ꣡षा꣡व चक्रदो व꣡ने  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 गो꣡भिर् अञ्जानो꣡ अर्षसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दे॒वाना॑म् । सो॒म॒ । प॒व॒मा॒न॒ । निः॒ऽकृ॒तम् । गोभिः॑ । अ॒ञ्जा॒नः । अ॒र्ष॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mṛjāno* ← *mṛjānaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
@@ -103,20 +103,20 @@ genre M
 हे **सोम** **वृषा** वर्षिता त्वं **मृजानः** वसतीवरीभिर्मृज्यमानोऽलंक्रियमाणः **अव्यये** अविमये **वारे** वाले पवित्रे **पवमानः** पूयमानः सन् **वने** वननीय उदके काष्ठे कलशे वा **अव** **चक्रदः** अवक्रन्दसि शब्दायसे । ततो हे **सोम** हे **पवमान** त्वं **गोभिः** गव्यैः क्षीरादिभिः **अञ्जानः** अज्यमानः सन् **निष्कृतं** संस्कृतं **देवानां** स्थानम् **अर्षसि** गच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The showerer of benefits, cleansed and filtered in the woollen fleece, you cried aloud in the water; **Soma** **Pavamāna**, mixed with the curds and milk, you go to the prepared (station) of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being groomed, purifying yourself on the sheep’s fleece, as bull you  have roared down into the wood(en cup).  
 O self-purifying Soma, you rush to the rendezvous with the gods, being  anointed with cows.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/21-22.md">
 <details open><summary><h2>21-22 ...{Loading}...</h2></summary>
 
@@ -126,23 +126,23 @@ Lexical cohesion: mṛjyámānaḥ opening 21a echoed by mṛjānáḥ opening 2
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Making thee pure and bright in the sheep's long wool, tbou hast bellowed, steerlike, in the wood.  
      Thou flowest, Soma Pavamana, balmed with milk unto the special place of Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sauber gemacht, im Schafhaar dich läuternd brülle, wie der Bulle, auf die Holzkufe hinab! Du rinnst, o Soma Pavamana, mit Kuhmilch gesalbt, zum Treffort der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt, flammend strömend durch des Widders Haar brüllt laut der Stier der Kufe zu, Du strömst, o Soma, flammender, mit Milch gesalbt zum Ort, wo du die Götter triffst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Начищенный в сите из овечьей шерсти Павамана,  
 (Этот) бык взревел в деревянном (сосуде).  

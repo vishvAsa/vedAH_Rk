@@ -6,7 +6,7 @@ ChandaH = "अष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ति वायो ससतो꣡ याहि श꣡श्वतो  
 य꣡त्र ग्रा꣡वा व꣡दति त꣡त्र गछतं  
@@ -16,7 +16,7 @@ ChandaH = "अष्टिः"
 इ꣡न्द्रश् च याथो अध्वर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M
 वि । सू॒नृता॑ । ददृ॑शे । रीय॑ते । घृ॒तम् । आ । पू॒र्णया॑ । नि॒ऽयुता॑ । या॒थः॒ । अ॒ध्व॒रम् । इन्द्रः॑ । च॒ । या॒थः॒ । अ॒ध्व॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ati*
 - \[adverb\]
@@ -174,20 +174,20 @@ genre M
 हे **वायो** त्वं **ससतः** आलस्यादिना निद्रां कुर्वतः **शश्वतः** बहून् यजमानान् । शश्वदि बहुनाम, ‘शश्वत् विश्वम्' (नि. ३. १. ५) इति तन्नामसु पाठात् । **अति** अतिक्रम्य उपेक्ष्य अस्मद्यज्ञं **याहि** गच्छ। **इन्द्रश्च** तथा करोतु । कं देशमिति तमाह। **यत्र** **ग्रावा** **वदति** यस्मिन्देशे अभिषवार्थः पाषाणध्वनिः श्रूयते **तत्र** **गच्छतं** तं देशं प्रति आगच्छतम् । **गृहं** यज्ञगृहं **गच्छतम्** । पुनः स्थानमेव विशेष्यते । **सूनृता** प्रियतथ्यात्मिका स्तुतिरूपा वाक् यत्र **वि** **ददृशे** विशेषेण दृश्यते श्रूयते इत्यर्थः। तत्र गच्छतम् । यत्र च **घृतम्** अत्यन्तदीप्तमाज्यं होमार्थं गृहीतं **रीयते** गच्छति आहवनीयं प्रति नीयते ॥  ‘ रीङ स्रवणे '। दिवादित्वात् श्यन् ॥ तत्र गच्छतम् । गमनप्रकारः एव विशेष्यते । **पूर्णया** संपूर्णया पुष्टाङ्गया **नियुता** ॥ जातावेकवचनम् ॥ नियुज्जात्या **अध्वरम्** अस्मदीयं यज्ञम् **आ** **याथः** अभिमुख्येन प्रयाथः। किंच हे वायो त्वम् **इन्द्रश्च** युवाम् **अध्वरम्** अस्मदीयं यागम् **आ** **याथः** सहैवागच्छतम् । तथा अस्माभिरपि सहैव गच्छतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pass, (**Vāyu**), by the many sleeping (worshippers) and go (with **Indra**) to the house where the stone resounds; Indra (and Vāyu), go to that dwelling; (go where) the (word of) truth is manifest; (go where) the butter flows; go both well-fed horses to the sacrifice; Indra (and Vāyu), repair to the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Vāyu, drive beyond sleeper after sleeper. Where the pressing stone  speaks, you two go there—(you) and Indra, go to that house.  
 Liberality has been sighted; the ghee is flowing. With a full team you two  drive to the ceremony—(you) and Indra drive to the ceremony.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Here the vā́yav índraś ca construction is stretched from a to c, and in f the sequence índraś ca yāthaḥ (lit. “and Indra, you two drive”) presupposes a 2nd ps. sg.
 
@@ -196,23 +196,23 @@ to produce the conjoined subject. This latter construction further attenuates th
 Note the little figure sasató … śáśvato.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Vayu, pass thou over all the slumberers, and where the press-stone rings enter ye both that house, yea, Indra, go ye both within.  
      The joyous Maiden is beheld, the butter flows. With richly laden team come to our solemn rite, yea, Indra, come ye to the rite.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An allen Schläfern geh vorüber, Vayu! Wo der Stein ertönt, dorthin kommt, du und Indra, kommt ins Haus! Die Großmut ließ sich sehen, das Schmalz fließt. Ihr fahret mit vollzähligem Gespann zum Opfer; du und Indra, ihr fahret zum Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Vaju schreite über alle Schlafenden, wo tönt der Pressstein, dahin kommet in das Haus, dahin, o Indra, Vaju, kommt; Wo lieblich scheint der Morgen und die Butter fliesst, zum Opfer kommt mit reichgefülltem Wagenzug, zum Opfer Indra, Vaju ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваю, несись надо всеми спящими!  
 Где говорит давильный камень, туда отправляйтесь,  

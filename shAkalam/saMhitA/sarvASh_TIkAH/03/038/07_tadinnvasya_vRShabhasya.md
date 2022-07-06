@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इ꣡न् नु꣡ अस्य वृषभ꣡स्य धेनो꣡र्  
 आ꣡ ना꣡मभिर् ममिरे स꣡क्मियं गोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ मायि꣡नो ममिरे रूप꣡म् अस्मिन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒न्यत्ऽअ॑न्यत् । अ॒सु॒र्य॑म् । वसा॑नाः । नि । मा॒यिनः॑ । म॒मि॒रे॒ । रू॒पम् । अ॒स्मि॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -129,14 +129,14 @@ genre M
 ये यजमानाः **वृषभस्य** अभिमतफलप्रदस्य **अस्य** इन्द्रस्यार्थं **धेनोः** **गोः** नामभिः विश्वायुर्विश्वव्यचा इत्यादिभिरुपलक्षितां गां **सक्म्यं** संभजनार्हं तत्क्षीरादिकं हविः **नु** क्षिप्रम् **आ** **ममिरे** आदुहन्ति । धातूनामनेकार्थत्वात् । तेन च हविषा यज्ञमनुष्ठाय देवभूयं प्राप्तास्ते कवयः **अन्यदन्यत्** नूतनम् **असुर्यम्** असुराणां बलं **वसानाः** आच्छादयन्तः अत एव **मायिनः** मायया स्वीकृतकामरूपाः । यद्वा मायिनः प्रज्ञावन्तः सन्तः **अस्मिन्** इन्द्रे **रूपं** स्वं स्वं रूपं **नि** **ममिरे** इयत्तया परिच्छिद्य निदधुः ॥ इत् पूरण:। ममिरे । माङ् माने ' । लिटि रूपम् । निघातः । सक्म्यम् । ‘ युजिरुचितिजां कुश्च ' ( उ. सू. १. १४३ ) इत्यत्र चकारस्यानुक्तसमुच्चयार्थत्वात् सचतेः मक्प्रत्ययः कुत्वं च । सचनं सक्मः । तत्र भवः इत्यर्थे ' भवे छन्दसि ' इति यत् ।' यतोऽनावः ' इत्याद्युदात्तः । गोः । एकादेशस्वरः । असुर्यम् । असुरस्य स्वमित्यर्थे ' असुरस्य स्वम् ' ( पा. सू.. ४. ४. १२३ ) इति यत् । तित्स्वरितः । रूपम् । ‘ रूप रूपक्रियायाम् । ण्यन्तः । खष्पशिल्पशष्पबाष्परूपपर्पतल्पाः ' ( उ. सू.३. ३०८ ) इति पप्रत्ययान्तत्वेन निपातनात् पकारलोपोऽगुणत्वं च। रूपयति रूप्यते वेति रूपम् । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those who, for (the sake of) the showerer (of benefits), milk the agreeable (produce) of the cow, (who is known) by (many) names, they invested with the diversified strength (of the **asuras**) and practising delusive art have deposited their own nature in him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This [=undifferentiated creation] was just his—(he who is both) bull  (and) milk-cow; (then) with (individual) names they meted out the  
 “fellowship of the cow” [=the joint creation of bull and milk-cow].  
@@ -144,7 +144,7 @@ Donning one lordly power after another, the masters of artifice
 parceled out (individual) form in it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. summarizes both creations. The first is dealt with glancingly in the first pāda. I take the neut. prn. tád ‘this’ as a reference to the not-yet-differentiated proto-creation, which belonged to and arose from the androgynous bovine of 5a, here explicitly identified first as masculine (asya: since this pronoun is unaccented, it does not modify what follows but functions as an autonomous pronoun), then as both bull (vṛṣabhásya, as in 5a) and milk-cow (dhenóḥ). This is the first appearance of any explicit feminine principle in this hymn.
 
@@ -155,23 +155,23 @@ Although by formation the hapax sákmya- appears to be a neut. abstract derived 
 Just as pāda b refers to the individual names, so does d refer to forms: the classical pairing of name-and-form (nāmarūpa) is thus distributed across the vs., as Geldner already pointed out (n. 7b). I take asmin here as referring to the creation (it), rather than to a putative ‘him’ (as most tr. do). In the course of their creative activity the poets assume various powers (pāda c) to enable their individualizing work.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That same companionship of her, the Milch-cow, here with the strong Bull's divers forms they stablished.  
      Enduing still some new celestial figure, the skilful workers shaped a form around him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist das Werk dessen, der Stier und Kuh ist. Sie haben den Gesellen der Kuh mit Namen ausgestattet. Indem sie immer andere asurische Gestalt anlegten, haben die Zauberkundigen ihre Gestalt ihm angepasst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie [die Aditja's] bildeten da nun dieses samenreichen Stieres [Agni] Eigenart durch die Wesenheiten des Rindes (?); in andre und andre Göttergestalt sich kleidend, legten die weisen [Aditja's] ihre Gestalt in ihn hinein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот оно (творение) этого быка (и) коровы (одновременно).  
 Именами они измерили особенность, присущую корове.  

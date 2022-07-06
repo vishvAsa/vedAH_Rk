@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षेव यूथा꣡ प꣡रि को꣡शम् अर्षसि  
 अपा꣡म् उप꣡स्थे वृषभः꣡ क꣡निक्रदत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡था जे꣡षाम समिथे꣡ तुवो꣡तयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । इन्द्रा॑य । प॒व॒से॒ । म॒त्स॒रिन्ऽत॑मः । यथा॑ । जेषा॑म । स॒म्ऽइ॒थे । त्वाऽऊ॑तयः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣeva* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -116,20 +116,20 @@ genre M
 हे सोम त्वं **वृषेव** **यूथा** यूथानि वृषभ इव स यथा तानि प्रविशति तद्वत् **कोशं** कोशवत् रसधारकं कलशं **परि** **अर्षसि** परिगच्छसि । कुत्रस्थः सन् । **अपामुपस्थे** अन्तरिक्षे । कीदृशः सन् । **वृषभः** वर्षिता **कनिक्रदत्** शब्दं कुर्वन् । **सः** त्वं हे सोम **इन्द्राय** इन्द्रार्थं **पवसे** पूयसे । **मत्सरिन्तमः** मादयितृतमस्त्वम् । **यथा** वयं **जेषाम** जयेम **समिथे** संग्रामे **त्वोतयः** त्वया रक्षिताः सन्तः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As a bull (entering) the herd you rush to the receptacle, on the top of the waters, showering (benefits) crying aloud; you flow for **Indra**, most exhilarating so that we may be victorious in battle protected by you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a bull around the herds, you charge around the cask, a bull roaring  again and again in the lap of the waters.  
 You purify yourself to be most invigorating for Indra, so that we who  have your help will conquer in the clash.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sá in c with 2nd ps. reference (sá … pavase) violates the rule that such reference is found only with imperatives. (See my “Vedic 'sá figé': An inherited sentence connective?,” Historische Sprachforschung 105 [1992] 213-39.) I think it likely that it has been modeled on the numerous sá (…) pavasva exx. in IX (15 by my count, e.g., nearby IX.72.8=107.24); an imperative would in fact work better with the yáthā purpose cl. in d. The indic. pavase may have been substituted because
 
@@ -142,23 +142,23 @@ stem *matsaratama-, this seems a plausible explan.
 
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like as a bull to herds, thou flowest to the pail, bellowing as a steer upon the water's lap.  
      So, best of Cheerers, thou for Indra flowest on that we, with thy protection, may o'ercome in fight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Bulle die Herde umkreisest du die Kufe im Schoße der Gewässer, ein brüllender Bulle. Du läuterst dich für Indra als berauschendster Trank, auf daß wir im Kampfe mit deiner Hilfe siegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du strömst ins Fass, wie auf die Heerde stürzt der Bull; im Schoosse der Gewässer brüllend als ein Stier; So riesle hell dem Indra als berauschendster, dass wir durch dich den Sieg gewinnen in der Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно бык – кругами по саду, мчишься ты кругами по чану,  
 Бык, громко ревущий в лоне вод.  

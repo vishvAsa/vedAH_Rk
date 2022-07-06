@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वा नु꣡ कं ज्या꣡यान् यज्ञ꣡वनसो  
 महीं꣡ त ओ꣡मात्रां कृष्ट꣡यो विदुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे꣡द् एता꣡ स꣡वना तूतुमा꣡ कृषे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 असः॑ । नु । क॒म् । अ॒जरः॑ । वर्धाः॑ । च॒ । विश्वा॑ । इत् । ए॒ता । सव॑ना । तू॒तु॒मा । कृ॒षे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avā* ← *av*
 - \[verb\], singular, Present imperative
@@ -138,34 +138,34 @@ genre M
 हे इन्द्र त्वं **ज्यायान्** प्रशस्यतरस्त्वं **यज्ञवनसः** संभक्तयज्ञान् स्तोतॄन् **नु** **कं** क्षिप्रम् **अव** रक्ष । अध्येतारो नु कमिति पदद्वयं कुर्वन्ति तथापि हिकं नुकमित्यादीनि नवोत्तराणि पदानीत्युक्तवान् यास्काचार्यः (नि. ३. १२ ) । अतः केवलानां हिकं नुकमित्येवमादीनां  यावानर्थः स एव विशिष्टानामपि । तैत्तिरीया ( तै. सं. १,२,१३.३ ) अप्येकमेव पदं कुर्वन्ति । अवेत्युक्तम् । इन्द्रस्यावनप्रसिद्धिं दर्शयति । हे इन्द्र **ते** तव **ओमात्रां** रक्षणं **महीं** महत् **विदुः** **कृष्टयः** मनुष्या ऋषयः । ओमात्राम् । अम गत्यादिषु । औणादिक आत्रन्प्रत्ययः । छान्दस उमादेशः । किंच त्वम् **अजर** जरारहितः **असः** भव । **नु** **कं** क्षिप्रं **वर्धाश्च** वर्धस्व च हविराज्यादिना । किंच **विश्वेत्** सवण्यपि **एता** एतानि **सवना** सवनानि **तूतुमा** तूर्णानि **कृषे** करोषि ॥ कृषे । छान्दसे लिटि  ‘ छन्दसि वा ' इति द्विर्वचनाभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Right now, as the superior one, help those eager for the sacrifice. The  peoples know your great succor and protection.  
 Right now, (so that) you will be unaging and you will make (us) strong,  we have made all these soma-pressings powerful, to draw (you) here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Help now, as Highest, those who toil at sacrifice: well do the people know thy great protecting might.  
      Thou shalt be Everlasing, Giver of success yea, on all these libations thou bestowest strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütze doch ja die Opfereifrigen als der Überlegene! Die Völker kennen deine große Hilfsbereitschaft. Du wirst ja alterlos bleiben und noch wachsen. Alle diese Somaopfer hast du wirkungsvoll gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei, herrlicher, du hold den Opferliebenden, es kennen alle Völker deine grosse Huld; Erweise dich als ewig junger, stärke uns und mache alle diese Spenden wirkungsreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Помоги же как старший тем, кто любит жертвоприношения!  
 Народы знают твое великое дружелюбие.  

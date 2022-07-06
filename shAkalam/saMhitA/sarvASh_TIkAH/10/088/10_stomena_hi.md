@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तो꣡मेन हि꣡ दिवि꣡ देवा꣡सो अग्नि꣡म्  
 अ꣡जीजनञ् छ꣡क्तिभी रोदसिप्रा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ ओ꣡षधीः पचति विश्व꣡रूपाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तम् । ऊं॒ इति॑ । अ॒कृ॒ण्व॒न् । त्रे॒धा । भु॒वे । कम् । सः । ओष॑धीः । प॒च॒ति॒ । वि॒श्वऽरू॑पाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stomena* ← *stoma*
 - \[noun\], instrumental, singular, masculine
@@ -140,7 +140,7 @@ popular
 **देवासः** देवाः **शक्तिभिः** कर्मभिः **रोदसिप्रा** द्यावापृथिव्योरापूरयितारम् **अग्निं** सूर्यात्मकं **दिवि** द्युलोके **स्तोमेन** **हि** स्तुत्या खलु **अजीजनन्** उत्पादितवन्तः । अपि च **तमु** तमेव **कं** सुखकरमग्निं यज्ञे **त्रेधा** **भुवे** त्रेधाभावाय **अकृण्वन्** कुर्वन्ति । **सः** पृथिव्यां वर्तमानः **विश्वरूपाः** सर्वरूपाः **ओषधीः** व्रीह्याद्यास्तेन तेनोपकारेण **पचति** । अत्र यास्कः-’ स्तोमेन यं हि दिवि देवा सोऽग्निमजनयन् शक्तिभिः कर्मभिर्द्यावापृथिव्योः पूरणं तमकुर्वंस्त्रेधाभावाय पृथिव्यामन्तरिक्षे दिवीति शाकपूणिः । यदस्य दिवि तृतीयं तदसावादित्य इति हि ब्राह्मणम्' ( निरु. ७.२८) इति ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,29 +151,29 @@ popular
 Three-foldcondition: i.e., either to his plural ce at the three daily sacrifices, or his position in heaven the firmament, and earth,as the sun, lightning, and fire. **Nirukta** 7.28 cites a **Brāhmaṇa**, that Agni, in his third capacity in heaven, is thesun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For with a praise song, with their powers the gods begot in heaven the  fire [/Agni] that fills the world-halves.  
 And, for the sake of the world, they made him threefold. He ripens the  plants of all forms.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then by the laud the Gods engendered Agni in heaven, who fills both worlds through strength and vigour.  
      They made him to appear in threefold essence: he ripens plants of every form and nature.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn unter Preislied hatten die Götter im Himmel den Agni erzeugt, der mit seinen Kräften die Welt erfüllt. Sie machten, daß er sich dreifach teilte. Er bringt die verschiedenartigen Pflanzen zur Reife.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Götter zeugten durch Gesang am Himmel den Agni, dass mit Kraft die Welt er füllte, Ihn schufen sie, dass dreifach er erscheine; die allgestalt'gen Pflanzen lässt er reifen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь под восхваление боги на небе породили  
 Агни, (своими) силами заполнившего мир.  

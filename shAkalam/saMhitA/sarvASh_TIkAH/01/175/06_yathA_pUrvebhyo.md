@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था पू꣡र्वेभ्यो जरितृ꣡भ्य इन्द्र  
 म꣡यो ऽवा꣡पो° न꣡ तृ꣡ष्यते बभू꣡थ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ताम् । अनु॑ । त्वा॒ । नि॒ऽविद॑म् । जो॒ह॒वी॒मि॒ । वि॒द्याम॑ । इ॒षम् । वृ॒जन॑म् । जी॒रऽदा॑नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -128,36 +128,36 @@ genre M;; repeated line
 हे इन्द्र **पूर्वेभ्यो** **जरितृभ्यः** पुरातनेभ्यो गरितृभ्यः स्तोतृभ्यः **मयइव** **बभूथ** । मयः सुखम् । सुखस्वरूपमिवाभवः । तद्वत् स्तोतृभ्योऽस्मभ्यं सुखो भव । तत्र दृष्टान्तः । **तृष्यते** **आपो** **न** तृषार्तस्योदकानि यथा सुखकराणीति तद्वत् । तस्मात् **तां** **निविदं** त्वत्प्रीतिकरीं प्रसिद्धां स्तुतिं **त्वा** तुभ्यम् **अनु** **जोहवीमि** पुनःपुनः करोमि । यद्वा । तां निविदमनु । ' तृतीयार्थे ' (पा. सू. १. ४. ८५) इत्यनोः कर्मप्रवचनीयत्वम् ॥ तया स्तुत्या त्वां जोहवीमि । पुनःपुनराह्वयामि । विद्याम इति व्याख्यातम् ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch **Indra**, as you have been the (giver of) happiness to your ancient encomiasts, like water to one who is thirsty, therefore I constantly repeat this your praise, that I may thence obtain food, strength and long life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as for the previous singers, Indra, you became like joy, like waters for  the thirsty,  
 (so) I keep invoking you according to the formal invocation [/nivid].  – May we know refreshment and a community having lively waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As thou, O Indra, to the ancient singers wast ever joy, as water to the thirsty,  
      So unto thee I sing this invocation. May we find strengthening food in full abundance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du, Indra, den früheren Sängern wie ein Labsal gewesen bist, wie Wasser für den Dürstenden, so rufe ich dich nach diesem Einladungsspruch. - Wir möchten einen gastfreien Opferbündler kennen lernen, der rasch schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie du ein Labsal warst den alten Sängern, wie Wassertrunk dem dürstenden, o Indra, Nach diesem Vorgang rufe ich auch jetzt dich. Gebt Labung uns und wasserreiche Fluren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так как для прежних певцов, о Индра,  
 Ты был словно утешение, словно вода для жаждущего,  

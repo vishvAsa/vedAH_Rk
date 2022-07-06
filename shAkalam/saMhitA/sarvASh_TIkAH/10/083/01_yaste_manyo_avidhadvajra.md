@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते मन्यो अ꣡विधद् वज्र सायक  
 स꣡ह ओ꣡जः पुष्यति वि꣡श्वम् आनुष꣡क्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡हस्कृतेन स꣡हसा स꣡हस्वता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सा॒ह्याम॑ । दास॑म् । आर्य॑म् । त्वया॑ । यु॒जा । सहः॑ऽकृतेन । सह॑सा । सह॑स्वता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -119,7 +119,7 @@ popular
 हे **मन्यो** क्रोधाभिमानिन् देव ।' मन्युर्मन्यतेर्दीप्तिकर्मणः क्रोधकर्मणो वधकर्मणो वा ' (निरु. १०. २९) इति निरुक्तम् । **यः** यजमानः **ते** तुभ्यम् **अविधत्** परिचरति हे **वज्र** वज्रवत्सारभूत **सायक** सायकवच्छत्रूणां हिंसक स मनुष्यः **सहः** बलं बाह्यम् **ओजः** शारीरं बलं च **आनुषक्** अनुषक्तं **पुष्यति** त्वदनुग्रहात्संग्रामे । यस्मादेवं तस्माद्वयं **दासम्** उपक्षयकर्तारम् **आर्यम्** अस्मत्तोऽधिकं चोभयविधं शत्रुं **साह्याम** अभिभवेम। केन साधनेनेति तदुच्यते । **त्वया** **युजा** त्वया सहायेन । सहायो विशेष्यते । **सहस्कृतेन** बलोत्पादितेन **सहसा** सहमानेन परान् **सहस्वता** बलवता । ईदृशेन त्वया सहायेनेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ popular
 Deity Manyu: Manyu is the person nification of, or the deity presiding over, anger; the **sūkta** is to berepeated at sacrifices for the destruction of enemies. Vigorous: **sahasā** = through your vigorous vigour
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who has done honor to you, o Battle Fury—you mace, you missile—he  prospers in due order in all victorious might and strength.  
 Might we be victorious over Dāsa and Ārya with you as yokemate, with  victorious might, created by might, possessing might.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HE who hath reverenced thee, Manyu, destructive bolt, breeds for himself forthwith all conquering energy.  
      Arya and Dasa will we conquer with thine aid, with thee the Conqueror, with conquest conquest-sped.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer es dir, Manyu, recht gemacht hat, du Indrakeule, du Geschoß, der entfaltet vollständig seine ganze Macht und Kraft. Wir wollen mit dir im Bunde den Dasa und den Arier bezwingen, mit der machtgeborenen, machtvollen Macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer dir, o Manju, huldigt, o entsandter, Blitz, in dem erblüht in steter Fülle Kraft und Sieg; Mit dir im Bund wird Sieg uns über Freund und Feind durch Sieg-geborne Sieg-begabte Siegerkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

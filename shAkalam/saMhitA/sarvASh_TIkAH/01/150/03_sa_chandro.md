@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ चन्द्रो꣡ विप्र म꣡र्तियो  
 महो꣡ व्रा꣡धन्तमो दिवि꣡  
 प्र꣡-प्रे꣡त् ते अग्ने वनु꣡षः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 प्रऽप्र॑ । इत् । ते॒ । अ॒ग्ने॒ । व॒नुषः॑ । स्याम ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa*
 - \[adverb\]
@@ -97,7 +97,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे अग्ने **विप्र** मेधाविन् यः **मर्त्यः** त्वां यजते **सः** मर्त्यो यजमानः **दिवि** द्युलोके **चन्द्रः** सर्वेषाम् आह्लादकश्चन्द्रसदृशो भवति । यद्वा । चन्द्र एव भवति । यजमानानां चन्द्रत्वप्राप्तिं छन्दोगा आमनन्ति- पितृलोकादाकाशमाकाशाच्चन्द्रमसमेष सोमो राजा' (छा. उ. ५. १०. ४) इति । ‘ सोमलोके विभूतिमनुभूय' (प्र. उ. ५.४) इति च । तथा मुण्डकेऽपि द्युलोकप्राप्तिराम्नायते–' एह्येहीति तमाहुतयः सुवर्चसः सूर्यस्य रश्मिभिर्यजमानं वहन्ति । तं नयन्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः' इति, “ एष वः पुण्यः सुकृतो ब्रह्मलोकः' (मु. उ. १. २. ५-६ ) इति च । पुनः स एव विशेष्यते। **महः** महतोऽपि **व्राधन्तमः** प्रवृद्धतमः । इतरदेवानामपि श्रेष्ठ इत्यर्थः। अतः **अग्ने'** **ते** तव **प्रप्रेत्** प्रकर्षेणैव **वनुषः** संभक्तारः **स्याम** । यद्वा । प्रीणयित्वा प्रप्रेत् स्याम । प्रकृष्टा एव भवेम ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,39 +108,39 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 A moon in heaveṅ so candro maryaḥ: he becomes like the moon the rejoicer of all, āhlādakaḥ sarveṣām; or, he even becomes the moon, **candra** eva **bhavati**; according to the Chandogās: candratvaprāptim chandogā āmananti, the Chandogās are authority for obtaining the condition of the moon; pitṛlokādākāśam ākāśāc-candramasam eṣa somo **rājā**, from the region of the **pitṛs** to the **ākāśa**; from ākāśa to the moon, this is **soma**, the king. **Muṇḍaka Upaniṣad** also refers to: dyulokaprāptiḥ, the attainement of heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O inspired one, (I) a mortal (call myself) the luminous one, great, the  proudest in heaven.  
 Zealous for you, o Agni, might we become more and more preeminent.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner (/Witzel Gotō) suggest, the exaggeratedly successful mortal in ab is probably meant to be the speaker himself. I have therefore supplied voce from 1a. The lack of a verb in our ab keeps the description from being typed as 3rd ps.; even the sá can have 1st ps. ref. (see Jamison “sa figé”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Splendid, O Singer, is that man, mightiest of the great in heaven.  
      Agni, may we be foremost, we thy worshippers.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The mortal (who worships thee?), O priest, is brilliant, great, most powerful in heaven. May we, O Agni, addicted to thee, be always foremost.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche ist glänzend, o Redegewaltiger, groß, der Höchste im Himmel. Wir möchten als deine eifrigen Verehrer allen voran sein, Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mensch, o weiser, ist voll Glanz, ist gross, im Himmel riesenstark, Der dich verehrt, wir wollen dir die treusten sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (А) этот смертный, о вдохновенный (Агни), блистателен,  
 Велик, могущественнее всех на небе.  

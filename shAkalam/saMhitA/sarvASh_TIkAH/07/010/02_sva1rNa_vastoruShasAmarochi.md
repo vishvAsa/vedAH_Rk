@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सु꣡वर् ण꣡ व꣡स्तोर् उष꣡साम् अरोचि  
 यज्ञं꣡ तन्वाना꣡ उशि꣡जो न꣡ म꣡न्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्रव꣡द् दूतो꣡ देवया꣡वा व꣡निष्ठः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । जन्मा॑नि । दे॒वः । आ । वि । वि॒द्वान् । द्र॒वत् । दू॒तः । दे॒व॒ऽयावा॑ । वनि॑ष्ठः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svar*
 - \[adverb\]
@@ -131,36 +131,36 @@ genre M
 अग्निः **वस्तोः** अहनि । **वस्तोः** द्युः' इत्यहर्नामसु पाठात् । **उषसाम्** अग्रे **स्वर्ण** आदित्य इव । तथा च यास्कः----‘स्वरादित्यो भवति सु अरणः सु ईरणः ' ( निरु. २:१४ ) इति । **अरोचि** दीप्यते । **उशिजो** **न** ऋत्विजश्च **यज्ञं** **तन्वानाः** विस्तारयन्तः **मन्म** मन्मानि मननीयानि स्तोत्राणि पठन्तीति शेषः । नेति संप्रत्यर्थे । अपि च **विद्वान्** जानन् **दूतः** देवानां **देवयावा** देवान् प्रति गच्छन् **वनिष्ठः** दातृतमः **अग्निः** वि **आ** **द्रवत्** विविधमाद्रवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, preceding the dawn, is radiant by day as the sun, and the priests celebrating the sacrifice repeathis praise; the divine, munificent Agni, the messenger (of the gods), cognizant of their birth, repairing to thedeities, hastens in various directions.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the sun, at the dawning of the Dawns he has shone, stretching forth  the sacrifice, like fire-priests their thought.  
 Distinguishing the kinds (of gods and mortals), the god Agni (comes)  here at a run as a messenger, seeking the gods and best bringing gain  (to mortals).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, like the Sun, hath shone while Morn is breaking, and priests who weave the sacrifice sing praises,  
      Agni, the God, who knows their generations and visits Gods, most bounteous, rapid envoy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Sonne ist er um das Hellwerden der Morgenröten erstrahlt, das Opfer aufspannend wie die Fürbitter ihre Gedanken. Gott Agni, der die Geschlechter unterscheidet, geht eilends als gottbesuchender Bote, der am meisten erwirkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er strahlt wie Licht beim Schein der Morgenröthen; Gebet und Opfer weben wir verlangend; Gott Agni, alle Wesen unterscheidend, als bester Bote eil' er zu den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно солнце засиял он от вспышки утренних зорь,  
 (Протягивая) жертву, словно Ушиджи, тянущие молитву.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हि꣡रण्यहस्तम् अश्विना र꣡राणा  
 पुत्रं꣡ नरा वध्रिमत्या꣡ अदत्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡ज् जीव꣡स ऐरयतं सुदानू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्रिधा॑ । ह॒ । श्याव॑म् । अ॒श्वि॒ना॒ । विऽक॑स्तम् । उत् । जी॒वसे॑ । ऐ॒र॒य॒त॒म् । सु॒दा॒नू॒ इति॑ सुऽदानू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyahastam* ← *hiraṇyahasta*
 - \[noun\], accusative, singular, masculine
@@ -107,7 +107,7 @@ genre M
 **रराणा** रममाणौ दातारौ वा **नरा** नेतारौ हे अश्विनौ **हिरण्यहस्तं** नाम **पुत्रं** **वध्रिमत्या:** एतत्संज्ञायै ब्रह्मवादिन्यै **अदत्तं** प्रायच्छतं **ह** । अपि च हे **सुदानू** शोभनदानौ अश्विनौ **त्रिधा** त्रेधा **विकस्तं** विच्छिन्नं श्यावाख्यमृषिं **जीवसे** जीवितुम् **उत्** **ऐरयतम्** असुरैः त्रेधा खण्डितं शरीरं पुनरेकीकृत्य उदगमयतमित्यर्थः ॥ रराणा । रमतेः शानचि ‘ बहुलं छन्दसि ' इति शपः श्लुः । व्यत्ययेन मकारस्य आत्वम् । रातेर्वा व्यत्ययेन शानच् । पूर्ववत् श्लुः । वध्रिमत्याः । चतुर्थ्यर्थे ' बहुलं छन्दसि ' इति षष्ठी । जीवसे । “ जीव प्राणधारणे'। तुमर्थे सेसेन्' इति असेप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,28 +118,28 @@ genre M
 Śyāva was cut into three pieces by the **asuras**; the pieces were reunited into one by the Aśvins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Giving Hiraṇyahasta [the Gold-Handed One], o Aśvins, you granted him  as a son to Vadhrimatī [She Who Has a Steer (for a Husband)], o men. Your raised up Śyāva [the Dark One], who had been split apart in three  places, so that he might live, o Aśvins, who bring good gifts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With liberal bounty to the weakling's consorts ye, Heroes, gave a son Hiranyahasta;  
      And Syava, cut into three several pieces, ye brought to life again, O bounteous Asvins.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Herren Asvin schenket bereitwillig der Vidhrimati einen Sohn, den Hiranyahasta. Den in drei Teile gespaltenen Syava habt ihr gabenschönen Asvin zum Leben erweckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hiranjahasta gabt der Vadhrimati als Sohn ihr, Ritter, Helden, Huld gewährend; Den Çjava auch, der dreifach war zerschnitten, habt segensreich ihr hergestellt zum Leben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Делая подарки, о Ашвины, вы дали  
 Вадхримати сына Хираньяхасту, о два мужа.  

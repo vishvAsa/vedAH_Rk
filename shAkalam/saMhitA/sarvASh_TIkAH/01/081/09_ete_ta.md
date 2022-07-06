@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ त इन्द्र जन्त꣡वो  
 वि꣡श्वम् पुष्यन्ति वा꣡रियम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 ते꣡षां नो वे꣡द आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M
 अ॒न्तः । हि । ख्यः । जना॑नाम् । अ॒र्यः । वेदः॑ । अदा॑शुषाम् । तेषा॑म् । नः॒ । वेदः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -128,37 +128,37 @@ genre M
 हे **इन्द्र** **ते** तव स्वभूताः **एते** **जन्तवः** यजमानलक्षणा जनाः **विश्वं** सर्वं **वार्यं** सर्वैः संभजनीयं हविः **पुष्यन्ति** वर्धयन्ति । **अदाशुषां** हविषामदातॄणां **जनानाम्** **अन्तः** मध्ये विद्यमानं **वेदः** धनम् **अर्यः** सर्वेषां स्वामी त्वं **ख्यः** **हि** पश्यसि हि जानासीत्यर्थः। **तेषाम्** अयजमानानां **वेदः** धनं **नः** अस्मभ्यम् **आ** **भर** आहर प्रयच्छेति यावत् । अयजमानेषु विद्यमानं धनं यागानुपयुक्तत्वात् व्यर्थमेव भवेत् । अतस्तस्य धनस्य सार्थकत्वाय तदीयं धनमपहृत्य यजमानेभ्यः प्रयच्छेति तात्पर्यार्थः ॥ ख्यः ।  ‘ख्या प्रकथने '। अयं दर्शनार्थोऽपि । वर्तमाने छान्दसो लुङ् । अस्यतिवक्ति ' इत्यादिना च्लेः अङादेशः ।  ‘ आतोलोप इटि च ' इति आकारलोपः ।  ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः ।  ‘ हि च ' इति निघातप्रतिषेधः ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “These, your creatures, **Indra**, cherish (the oblation) that may be partaken of by all; you, lord of all, know what are the riches of those men who make no offerings; bring their wealth to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These (people who are) kin to you [=us] foster everything of value. Because you detect the possessions of the stranger, of the impious  
 peoples,  
 bring their possessions here to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These people, Indra, keep for thee all that is worthy of thy choice.  
      Discover thou, as Lord, the wealth of men who offer up no gifts: bring thou to us this wealth of theirs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Leute hier bringen für dich, Indra, allen begehrenswerten Besitz zur Blüte. Du durchschaust ja die Habe der Kargen - hoch und niedrig. Deren Habe bring uns her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es ernten deine Diener hier, o Indra, alles schöne Gut. Entzieh du treuer denn den Schatz den Menschen, welche gottlos sind, und ihren Schatz bring uns herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти люди, о Индра, делают (так) для тебя,  
 Что расцветает все лучшее.  

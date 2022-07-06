@@ -8,7 +8,7 @@ title = "+065"
 “यदिन्द्र प्राक्' इति द्वादशर्चं षष्ठं सूक्तं प्रगाथस्यार्षं गायत्रमैन्द्रम् । “यदिन्द्र' इत्यनुक्रान्तम् । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 65 (674)  
 Indra  
@@ -21,7 +21,7 @@ The diction can be more resistant than that of VIII.64, as in verse 2 where the 
 Like VIII.64 this hymn consists of four tr̥cas. The last (vss. 10–12) is clearly  defined as a dānastuti. The other three are not thematically differentiated. They all  call on Indra to attend our sacrifice, and the major concern running throughout  is that rival sacrificers are competing with us for his presence (e.g., vss. 1, 2, 7, 9).  These first three tr̥cas, before the dānastuti, display ring composition: the command “drive here straightaway” (ā́ yāhi tū́yam) in 1c is echoed in 9b “come here straight away” (tū́yam ā́ gahi).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

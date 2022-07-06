@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡वं नु꣡ स्तो꣡मम् अग्न꣡ये  
 दिवः꣡ श्येना꣡य जीजनम्  
 व꣡स्वः कुवि꣡द् वना꣡ति नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वस्वः॑ । कु॒वित् । व॒नाति॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *navaṃ* ← *navam* ← *nava*
 - \[noun\], accusative, singular, masculine
@@ -88,35 +88,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **दिवः** द्युलोकस्य **श्येनाय** श्येनसदृशाय **नु** क्षिप्रं गन्त्रे **अग्नये** यस्मै **नवं** नूतनं **स्तोमं** **जीजनं** जनयामि सोऽग्निः **नः** अस्मभ्यं **कुवित्** बहु **वस्वः** वसु धनम् । कर्मणि षष्ठी । **वनाति** । ददात्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Agni**, to whom as to a (swift) hawk in heaven, I address this new hymn, bestow upon us amplewealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now I give birth to a new praise song for Agni, the falcon of heaven. Will he not win for us what is good?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I have begotten this new hymn for Agni, Falcon of the sky:  
      Will he not give us of his wealth?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein neues Lied will ich jetzt für Agni, den Falken des Himmels hervorbringen. Gewiß wird er uns Gut erwirken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies neue Lied hab' ich erzeugt dem Agni nun, dem Himmels-Aar, Ob er uns Güter schenken wird?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Новую хвалу для Агни я сейчас  
 Хочу сотворить, для сокола неба –  

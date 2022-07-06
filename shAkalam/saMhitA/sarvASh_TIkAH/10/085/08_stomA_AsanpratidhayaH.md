@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तो꣡मा आसन् प्रतिध꣡यः  
 कुरी꣡रं छ꣡न्द ओपशः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अग्नि꣡र् आसीत् पुरोगवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 सू॒र्यायाः॑ । अ॒श्विना॑ । व॒रा । अ॒ग्निः । आ॒सी॒त् । पु॒रः॒ऽग॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stomā* ← *stomāḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
@@ -89,7 +89,7 @@ popular;; epic anuṣṭubh (380)
 सूर्याया रथस्य **स्तोमाः** त्रिवृदादयः **प्रतिधयः** **आसन्** । प्रतिधीयन्त इति प्रतिधय ईषातिर्यगायतकाष्ठादयः । तथा **कुरीरं** **छन्दः** कुरीरनामकं छन्दोऽनसः **ओपशः** अभवत् । येनोपशेरते स ओपशः । तादृशायाः **सूर्यायाः** **अश्विना** अश्विनौ **वरा** वरावास्तामिति शेषः । तस्या विवाहे **पुरोगवः** पुरोगन्ता पुरतो गन्ता' यः पूर्वमेव प्रस्तावार्थं गच्छति तत्स्थानीयः **अग्निरासीत्** । ‘प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्यै सर्वे देवा वरा आगच्छन् ' (ऐ. ब्रा. ४.७) इत्यादि हि ब्राह्मणम् । अत्रायमभिप्रायः । प्रजापतिः सविता स्वदुहितरं सोमाय प्रायच्छत् । सोमाय दास्यामीति मनीषामकरोत् । तस्मिन् समये पुत्र्या उपचारार्थं प्रदानान्युक्तान्यभवन् । तथा च सत्यश्विनौ प्रबलौ सन्तावाजिं पुरतो गत्वा तामलभेतामिति । उत्तरत्रापि सोमो वधूयुरभवत् । इत्यादिनायमेवार्थः स्पष्टो भविष्यति । 'योषावृणीत जेन्या' (ऋ.सं.१.११९.५) इत्यादिकमुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,28 +100,28 @@ popular;; epic anuṣṭubh (380)
 Thong of the whip: or tuft of hair; cf. go opaśa: RV6.53.9; Aśvins were **Sūrya**'s groomsmen: **Prajāpati** **Savitā** had offered his daughter Sūrya to **Soma**: AitareyaBrāhmaṇa 4.7
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The praise songs were the crossbars, meter the veil and headdress. The Aśvins were the wooers of Sūryā and Agni was the leader.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hymns were the cross-bars of the pole, Kurira-metre decked the car:  
      The bridesmen were the Asvin Pair Agni was leader of the train.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Lobgesänge waren die Deichselstangen, das Metrum Haube und Kopfputz. Die Asvin waren die Werber der Surya, Agni war der Vorreiter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Loblieder waren die Wagenschwengel, das Zauberlied ihr Diadem und Lockenschmuck, der Suriā Brautwerber waren die beiden Açvinen, Agni war ihr Vorreiter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восхваленния были поперечинами на дышле,  
 Метрическая речь – украшением на голове (и) прической.  

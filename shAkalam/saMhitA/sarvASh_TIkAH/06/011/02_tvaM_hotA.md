@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हो꣡ता मन्द्र꣡तमो नो अध्रु꣡ग्  
 अन्त꣡र् देवो꣡ विद꣡था म꣡र्तियेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने य꣡जस्व तनु꣡वं त꣡व स्वा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पा॒व॒कया॑ । जु॒ह्वा॑ । वह्निः॑ । आ॒सा । अग्ने॑ । यज॑स्व । त॒न्व॑म् । तव॑ । स्वाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -118,20 +118,20 @@ genre M
 हे अग्ने **त्वं** **मर्त्येषु** मनुष्येषु **अन्तः** मध्ये वर्तमानः **विदथा** विदथे यज्ञे **होता** देवानामाह्वाता भवसि । कीदृशस्त्वम् । **मन्द्रतमः** स्तुत्यतमः **नः** अस्माकम् **अध्रुक्** अद्रोग्धास्मदर्थं द्रोहरहितो वा। सर्वदा मित्रभूत इत्यर्थः ।"देवः दानादिगुणयुक्तः । अपि च हे **अग्ने** **जुह्वा** । हूयन्तेऽस्यामाहुतय इति जुहूर्ज्वाला । तया **पावकया** शोधयित्र्या **आसा** आस्येन देवानामास्यभूतया **वह्निः** हविषां वोढा त्वं **तव** **स्वां** स्वभूतां स्विष्टकृदाख्यां **तन्वं** तनूं **यजस्व** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “{Text is missing}”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are our most gladdening Hotar, without deceit, god among men  through (all) the rites.  
 As the conveyor (of oblations) with your mouth, o Agni, with your pure  tongue perform sacrifice yourself to your own self.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ā́yásmin tvé … yákṣat. I would now alter the tr. here to “For even the wealthy Holy Place longs to sacrifice in you to the gods, to their races, for the singer”
 
@@ -146,23 +146,23 @@ As disc. ad VI.3.6, I interpr. rebhá- not as ‘singer’, but as ‘hoarse/hus
 In d chandáḥ is taken by Grassmann as the sole example of suffix-accented thematic chandá- (not only in the RV but, acdg. to Whit, Rts., anywhere), beside chánda-. Grassmann glosses our form ‘singend, preisend’ and chánda- as ‘glänzend, strahlend’; Geldner, by contrast, takes it as an s-stem and dismisses the accent: “chandáḥ doch wohl für chándaḥ.” Pointing to the suggestive juxtaposition mádhu chandáḥ here, a near exact match for the PN madhuchandaḥ, to whom the first ten hymns in the RV are ascribed (though the name doesn’t appear in the RV text), he tr. “seine süsse Weise.” Renou follows suit (“le doux chant”), with the somewhat cryptic note “chandáḥ «qui charme», comme chándaḥ.” (Curiously, Oldenberg doesn’t comment.) Although I would like to be able to follow their interpr., with chandáḥ an anomalously accented neut. sstem, rather than an -á-stem with Grassmann, I do not see any way to get the suffix accent redactionally or grammatically. My interpr. again introduces complications, but in this case I think they are necessary to avoid positing arbitrary accent shifts. I would suggest that the form is an s-stem, derivationally related to neut. chándas- ‘rhythm, meter,’ showing the usual rightward accent shift of adjectival possessive derivatives to neut. s-stems -- hence ‘having rhythm’. I wish that the form in the text were chandā́s (chandā́in sandhi), describing Agni the poet, but it is not. I therefore think it is either a neut. used adverbially (“rhythmically” as in the published translation) or that it qualifies mádhu “rhythmic honey,” of the song.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art our guileless, most delightful Herald, the God, among mankind, of holy synods.  
      A Priest with purifying tongue, O Agni, sacrifice with thy mouth to thine own body.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist unser wohlredendster, nie trügender Hotri, der Gott, der unter den Sterblichen die Opfer zustande bringt. Als der Wortführer mit lauterer Zunge opfere dir selbst, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist uns hold, der angenehmste Priester, ein Gott bei Menschen, zwischen beiden Scharen; Du bist's, der darbringt mit der Flammenzunge, o opfre, Agni, deinen eignen Körper.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты наш хотар, самый веселый, лишенный обмана,  
 (Пребывающий) среди жертвенных раздач, бог среди смертных.  

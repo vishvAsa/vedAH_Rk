@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो वधइ꣡र् वरुण ये꣡ त इष्टा꣡व्  
 ए꣡नः कृण्व꣡न्तम् असुर भ्रिण꣡न्ति°  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ षू꣡ मृ꣡धः शिश्रथो जीव꣡से नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मा । ज्योति॑षः । प्र॒ऽव॒स॒थानि॑ । ग॒न्म॒ । वि । सु । मृधः॑ । शि॒श्र॒थः॒ । जी॒वसे॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -135,36 +135,36 @@ genre M
 हेवरुण नोस्मान्वधैः हननसाधनैरायुधैर्माहिंसीरितिशेषः हेअसुर पापकृतान्निरसितः ते त्वदीये- इष्टौयज्ञेएनः विहिताननुष्ठानेनजनितम्पापङ्कृण्वन्तङ्कुर्वन्तम्पुरुषंयेवधाभ्रीणन्ति हिंसन्ति तैरितिपूर्वत्रसं- बन्धः भ्रीष् हिंसायां क्रैयादिकः अपिच ज्योतिषः गृहेवर्तमानादग्नेःसौरप्रकाशाद्वाप्रवसथानिप्रवासा- न्मागन्म मागच्छाम सर्वदागृहेवर्तमानः सूर्यम्पश्यंश्चिरकालञ्जीवेयमित्यर्थः गमेर्लुङिमन्त्रेघ्सेतिच्लेर्लुक् तथानोस्माकञ्जीवसेजीवनायमृधोहिंसकान् सुसुष्ठुविशिश्रथः विश्लेषय बाधस्वेत्यर्थः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Harm us not, **Varuṇa**, with those destructive (weapons), repeller (of foes), demolish him who does evil at your sacrifice; let us not depart (before our time) from the regions of light; scatter the malevolent, that we may live.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Strike) us not with your deadly weapons, o Varuṇa, which, in your  hunt (for him), injure the one who commits an offense, o lord!  
 Let us not go from light into foreign lands! Loosen our lapses for us  to live!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strike us not, Varuna, with those dread weapons which, Asura, at thy bidding wound the sinner.  
      Let us not pass away from light to exile. Scatter, that we may live, the men who hate us
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Triff uns nicht, o Varuna, mit deinen Waffen, die bei deiner Suche nach dem Sündigen, o Asura, diesen versehren. Nicht möchten wir vom Lichte Abschied nehmen. Erspare uns fein die Unbilden, auf daß wir leben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht strafe uns, Gott Varuna, mit Waffen, die auf dein Wort den Uebelthäter treffen; Nicht möchten wir des Tageslichts entbehren, vernichte drum die Feinde, dass wir leben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не (порази) нас твоим смертельным оружием, о Варуна,  
 Которое ранит, когда ты ищешь сотворившего грех, о Асура!  

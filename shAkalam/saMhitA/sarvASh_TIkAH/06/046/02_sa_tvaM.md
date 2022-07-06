@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्वं꣡ नश् चित्र वज्रहस्त धृष्णुया꣡  
 मह꣡ स्तवानो꣡ अद्रिवः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 सत्रा꣡ वा꣡जं न꣡ जिग्यु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 गाम् । अश्व॑म् । र॒थ्य॑म् । इ॒न्द्र॒ । सम् । कि॒र॒ । स॒त्रा । वाज॑म् । न । जि॒ग्युषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 हे **चित्र** चायनीय **वज्रहस्त** वज्रबाहो **अद्रिवः** वज्रवन् । यद्वा । अदृणात्यनेनेत्यद्रिरशनिः । तद्वन् । एवंभूत **इन्द्र** **धृष्णुया** धृष्णुः शत्रूणां धर्षयिता **महः** महान् **सः** तादृशः **त्वं** **स्तवानः** अस्माभिः स्तूयमानः सन् **गां** **रथ्यं** रथवाहनम् **अश्वं** च **सं** **किर** सम्यक् प्रयच्छ। **जिग्युषे** जितवते पुरुषाय भोगार्थं **सत्रा** महत् प्रभूतं **वाजं** **न** अन्नमिव । यथा शत्रून् जितवते भोगार्थं बह्वन्नं प्रयच्छसि तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ The lord of clouds: adrivas = wielder of the thunderbolt; abundant food to him w
 Jigyuṣe = valorous, not as applicable to a man, puruṣāya, but to a horse or elephant, aśvāya hastine vā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So you—o dazzling one with mace in hand, o possessor of the stone,  being praised as the great one—boldly  
 heap up for us cow, horse, and chariotry altogether like a prize for the  winner, o Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes rathyàm as an adj. modifying áśvam (Wagenross); Grassmann does as well, assigning the form to the vṛkī-inflected stem rathī́- (so also Lubotsky). Neither of these interpr. is impossible; however, I prefer to take rathyàm as belonging to the marginal them. stem rathyà- (beside better attested ráthya-) and also to take it as a third term in the gifts we want from Indra. There is nothing riding on the choice of interpr., however.
 
@@ -162,23 +162,23 @@ kira (see my 1992 “Vedic ‘sá figé’: An inherited sentence connective?”
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, O Wonderful, whose hand holds thunder, praised as mighty, Caster of the Stone!  
      Pour on us boldly, Indra, kine and chariotsteeds, ever to be the conqueror's strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du wunderbarer Keulenträger Indra, sollst als der Große besungen uns mutig Rind und Wagenroß zusammenbringen, wie die Beute insgesamt für den Sieger, du Herr des Preßsteins.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schütte du blitzhaltender, o glänzender, du hochgepriesner Schleuderer, Uns kühnlich zu, o Indra, Rind und Wagenpferd zusammt als Preis dem Siegenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, поразительный громовержец,  
 Прославленный как великий, о повелитель давильных камней,  

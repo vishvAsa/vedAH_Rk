@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ शक्रो꣡ मृक्षो꣡ अ꣡श्वियो  
 यो꣡ वा की꣡जो हिरण्य꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्रो ग꣡व्यस्य वृत्रहा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । ऊ॒र्वस्य॑ । रे॒ज॒य॒ति॒ । अप॑ऽवृतिम् । इन्द्रः॑ । गव्य॑स्य । वृ॒त्र॒ऽहा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -101,7 +101,7 @@ genre M
 यः शक्रइन्द्रः स्तोतॄणां मृक्षः शोधकः परिवरणीयोवा यश्च अश्व्यः अश्वकुशलः अश्व्यः । अथवाश्व्यइति स्वार्थिकोयत् मृक्षोश्वः प्रक्षालितोश्वइव वर्तते । योवा कीजः कीजइत्यद्भुतमाह किमस्य कथं जातं इतिच यश्च हिरण्ययः हिरण्मयशरीरः सएवमाश्चर्यभूतइन्द्रोवृत्रहा गब्यस्य गोसमुहस्य कीदृशस्य ऊर्वस्य बहुलस्य अपावृतिं अपवरणीयं रेजयति कम्पयतीत्यर्थः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ Mṛkṣa = currycomb or some such instrumental ument;
 Kīja = a similar instrumental ument; numerous herd of kine: apāvṛti = apavaraṇīyam, to be opened, referringapparently to the cave of the **paṇis** (RV. 1.6.5)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The able one, who is a horse’s curry comb [?] or who is a golden stake [?], he sets the opening of the cattle-pen to shaking—Indra the  
 Vr̥tra-smasher.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sakra, who like a curry-comb for horses or a golden goad,  
      Indra, the Vrtra-slayer, urges eagerly the opening of the stall of kine:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Mächtige, der ein Pferdestriegel oder ein goldener Sporn ist, der Vritratöter Indra rüttelt an der Öffnung des Rinderpferchs.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der einer Pferdestriegel gleicht, und goldnem Sporn, der kräftige, Der Vritratödter Indra, er erschüttert stark des rinderreichen Stalls Verschluss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот могучий, что (подобен) конской скребнице  
 Или же золотой шпоре (?),  

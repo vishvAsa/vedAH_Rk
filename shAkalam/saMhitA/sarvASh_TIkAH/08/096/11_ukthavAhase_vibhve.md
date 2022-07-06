@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उक्थ꣡वाहसे विभु꣡वे मनीषां꣡  
 द्रु꣡णा न꣡ पार꣡म् ईरया नदी꣡नाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जु꣡ष्टतरस्य कुवि꣡द् अङ्ग꣡ वे꣡दत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नि । स्पृ॒श॒ । धि॒या । त॒न्वि॑ । श्रु॒तस्य॑ । जुष्ट॑ऽतरस्य । कु॒वित् । अ॒ङ्ग । वेद॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ukthavāhase* ← *uktha*
 - \[noun\], neuter
@@ -115,7 +115,7 @@ genre M
 हे स्तोतः **उक्थवाहसे** उक्थैः स्तोत्रशस्त्रादिभिरुह्यमानाय अत एव **विभ्वे** महते यद्वा शत्रूणामभिभवित्र इन्द्रायेन्द्रार्थं **मनीषां** मनस ईषां स्तुतिम् **ईरय** प्रेरय । तत्र दृष्टान्तः । **द्रुणा** **न** यथा नाविकः **नदीनां** नदमानानां सरितां **पारं** तीरं प्रति पथिकं द्रुणा नावा प्रापयति तद्वदिन्द्रं प्रति स्तुतिं गमयेति । किंच **नि** **स्पृश** नितरां धनं स्पर्शय गमय **तन्वि** आत्मनि पुत्रे वा । कीदृशम् । **श्रुतस्य** सर्वत्र विश्रुतस्य प्रसिद्धस्य **जुष्टतरस्य** अत्यर्थं प्रीणयितुरिन्द्रस्य स्वभूतम् । धनं **धिया** त्वदीयया स्तुत्या कर्मणा वात्मानं गमय । ततस्त्वयाभिष्टुत इन्द्रः **कुवित्** बहु धनं क्षिप्रं **वेदत्** लम्भयतु ददातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,7 +128,7 @@ Legend: Indra, aided by **Bṛhaspati** and the **Maruts**, slew the **asura** *
 Aṃśumatī = sunlight
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To him whose vehicle is hymns, to the far-ranging one send an inspired  thought like (a boat) to the far shore of rivers with a wooden  
 (paddle).  
@@ -136,28 +136,28 @@ Stroke the body of the famous, very enjoyable one with a visionary
 thought. Surely he will take cognizance (of it)?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is phonetic play between asvaran (a; see also abhisvárā 1b) to √svar ‘sound’ and s u var(-pati)(c) containing the ‘sun’ word, although the latter of course has a distracted sv cluster.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him, the Mighty, who accepts laudation, send forth thy thought as by a boat o'er rivers,  
      Stir with thy hymn the body of the Famous and Dearest One, for will not he regard it?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den das Loblied anzieht, dem Gebieter treibe das Lied zu wie das Schiff mit dem Ruder ans andere Ufer der Flüsse! Dringe mit dem Gedicht zur Person des Berühmten, Beliebtesten! Gewiß wird er es recht verstehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beweg' das Lied dem starken Spruch-empfänger wie mit dem Ruder über Flut der Ströme; Berühr den Leib des hehren mit Gebeten, des sehr willkommnen, ob er wol drauf achtet?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

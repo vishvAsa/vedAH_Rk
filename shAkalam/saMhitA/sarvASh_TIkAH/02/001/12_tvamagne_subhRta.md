@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने सु꣡भृत उत्तमं꣡ व꣡यस्  
 त꣡व स्पार्हे꣡ व꣡र्ण आ꣡ संदृ꣡शि श्रि꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तुवं꣡ रयि꣡र् बहुलो꣡ विश्व꣡तस् पृथुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । वाजः॑ । प्र॒ऽतर॑णः । बृ॒हन् । अ॒सि॒ । त्वम् । र॒यिः । ब॒हु॒लः । वि॒श्वतः॑ । पृ॒थुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -141,41 +141,41 @@ genre M
 हेअग्ने त्वंसुभृतः सुष्ठुपोषितःसन् उत्तमन्निरतिशयंवयः अन्नमायुष्यंवात्वमसि तत्सम्पादकोसीत्यर्थः तथातवस्पार्हेस्पृहणीयेवर्णेलोहितशुक्लादिलक्षणेसन्दृशिसम्यग्दर्शनीयेश्रियः ऎश्वर्याणिकान्तयोवा- आश्रित्यवर्तन्ते उपसर्गश्रुतेर्योग्यक्रियाध्याहारः किञ्च त्वंवाजः अन्नन्तत्साधकत्वात्ताच्छब्द्यं अन्नसाध- कइत्यर्थः प्रतरणः प्रतारयितापापात् अतएवबृहन् महानसि तथात्वंरयिर्धनरूपोसि बहुलःसर्वविष- यबाहुल्योपेतः विश्वतः सर्वतः पृथुः विस्तीर्णः प्रख्यातइत्यर्थः ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, well-cherished **Agni**, you are (the giver of) excellent food; in your desirable and delightful hues, beauties (abound) you (are) food; (you are) the transporter (beyond sin); you are mighty; you are wealth; you are manifold, and everhwhere diffused.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, when well kept, are highest vigor. In your coveted color  there are beauties in sight.  
 You are the prize, furthering and lofty; you are wealth, ample, broad on  all sides.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, cherished well, art highest vital power; in thy delightful hue are glories visible.  
      Thou art the lofty might that furthers each design: thou art wealth manifold, diffused on every side.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, well kept, art the highest vital power. In thy lovely colour and in thy appearance (dwell all) beauties. Thou art great strength that carries us forward. Thou art abundant wealth, extending on all sides.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, bist wohlgepflegt die höchste Kraft; in deiner köstlichen Farbe ist alle Schönheit beisammen zu sehen. Du bist der förderliche große Gewinn, du bist reichlicher, allseitig ausgedehnter Besitz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, schön gepflegt, bist, Agni, höchste Lebenskraft, in deinem Scheine, deinem lieben Glanz ist Pracht; Du bist Erquickung kräft'ge und durchdringende, und grosser Schatz, der weithin über alles reicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, хорошо выпестован, (ты -) высшая сила.  
 В твоем желанном цвете, во всем облике (пребывают) красоты.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ष्णोर् नु꣡ कं वीरि꣡याणि प्र꣡ वोचं  
 यः꣡ पा꣡र्थिवानि विममे꣡ र꣡जांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विचक्रमाण꣡स् त्रे᳐धो꣡रुगायः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । अस्क॑भायत् । उत्ऽत॑रम् । स॒धऽस्थ॑म् । वि॒ऽच॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒ऽगा॒यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viṣṇor* ← *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], genitive, singular, masculine
@@ -130,7 +130,7 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,24 +145,24 @@ Pārthivāni vimame rajāṃsi = lit. he made the earthly regions;
 Askabhāyat = nirmitavān, created; thrice traversing: vicakramāṇas tredhā (idam viṣṇurvi cakrame: RV. 1.22.17); traversing in various ways in own created worlds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now shall I proclaim the heroic deeds of Viṣṇu, who measured out the  earthly realms,  
 who propped up the higher seat, having stridden out three times, the  wide-ranging one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hymn begins with an almost exact echo of the famous opening pāda of the Indra hymn I.32 índrasya nú vīryā̀ṇi prá vocam. In place of índrasya we have víṣṇoḥ and the missing syllable is made up by inserting the fairly functionless particle kam after nú.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I WILL declare the mighty deeds of Visnu, of him who measured out the earthly regions,  
      Who propped the highest place of congregation, thrice setting down his footstep, widely striding.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 I will proclaim the mighty deeds of Viṣṇu, Of him who measured out the earthly spaces; Who, firmly propping up the higher station, Strode out in triple regions, widely pacing.
 </details>
@@ -175,17 +175,17 @@ Who established the highest abode,
 Stepping thrice, the far-goer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Vishnu Heldentaten will ich nun verkünden, der die irdischen Räume durchmessen hat, der die obere Wohnstätte stützte, nachdem er dreimal ausgeschritten war, der Weitschreiter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde Räume, Befestigt hat den höchsten Sitz des Himmels, dreimal ausschreitend mit gewalt'gen Schritten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу сейчас провозгласить героические деяния Вишну  
 Который измерил земные пространства,  

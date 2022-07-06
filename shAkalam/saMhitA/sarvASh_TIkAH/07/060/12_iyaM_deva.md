@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयं꣡ देव पुरो꣡हितिर् युव꣡भ्यां  
 यज्ञे꣡षु मित्रावरुणाव् अकारि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 विश्वा॑नि । दुः॒ऽगा । पि॒पृ॒त॒म् । ति॒रः । नः॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -119,36 +119,36 @@ genre M;; repeated line
 अनया स्तुतिमुपसंहरति । हे **देवा** देवौ **मित्रावरुणौ** **युवभ्यां** युवाभ्यां **यज्ञेषु** **इयं** **पुरोहितिः** पुरस्क्रिया पूजा स्तुतिलक्षणा **अकारि** कृताभूत्। तां सेवित्वा **विश्वानि** सर्वाणि **दुर्गा** दुःखेन गन्तव्यान्यापदः **तिरः** तिरस्कुरुतम् । तथा कृत्वा **नः** अस्मान् **पिपृतं** पारयतम् । शिष्टो गतः ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Excellent **Mitra** and **Varuṇa**, to you this adoration at sacrifices is addressed; remove from us alldifficulties, and ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This installation of the god [=Agni] to the fore has been made for you  two, Mitra and Varuṇa.  
 Take us across all difficulties. – Do you protect us always with your  blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This priestly task, Gods! Varuna and Mitra! hath been performed for you at sacrifices.  
      Convey us safely over every peril. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für euch, Götter Mitra und Varuna, ward dieses Purohitaamt bei den Opfern ausgeübt. Helfet uns über alle Fährlichkeiten hinweg!-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Priesterwerk ist euch vollbracht, o Götter, bei diesen Opfern, Varuna und Mitra, Durch alle Drangsal führet uns hinüber; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для вас, о два бога Митра, Варуна,  
 Совершалась эта служба пурохиты на жертвоприношениях.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उर्वी꣡ स꣡द्मनी बृहती꣡ ऋते꣡न  
 हुवे꣡ देवा꣡नाम् अ꣡वसा ज꣡नित्री  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्या꣡वा र꣡क्षतम् पृथिवी नो अ꣡भ्वात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 द॒धाते॒ इति॑॑ । ये इति॑ । अ॒मृत॑म् । सु॒प्रती॑के॒ इति॑ सु॒ऽप्रती॑के । द्यावा॑ । रक्ष॑तम् । पृ॒थि॒वी॒ इति॑ । नः॒ । अभ्वा॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *urvī*
 - \[noun\], accusative, dual, feminine
@@ -117,41 +117,41 @@ genre M;; repeated line
 **उर्वी** विस्तीर्णे **सद्मनी** सदनाधारभूते **बृहती** महत्यौ महानुभावे **देवानाम्** । उपलक्षणमेतत् । देवमनुष्यादीनाम् **अवसा** प्रीत्या निमित्तेन **जनित्री** वृष्टिसस्ययोर्जनित्र्यौ । वृष्ट्यादेर्देवानामवसा तर्पणेन निमित्तेन **ऋतेन** यज्ञेन च निमित्तभूतेन 'हुवे आह्वयामि । देवानां हविरर्थम् अस्मद्यज्ञायेत्यर्थः । **ये** **सुप्रतीके** शोभनरूपे **अमृतम्** उदकं **दधाते** धारयतः ते युवामाह्वयामि । शिष्टं स्पष्टम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke to the sacrifice, for the preservation of gods (and men), the two vast, all-supporting, and mighty parents (of the rain and corn); who, beautiful in form, sustain ambrosial (showers); defend us, Heaven and Earth, from great danger.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two broad and lofty seats do I invoke with truth, the begetters of  the gods with their help,  
 they of lovely countenance who conceive the immortal one. – O Heaven  and Earth, protect us from the formless void.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Duly I call the two wide seats, the mighty, the general Parents, with the God's protection.  
      Who, beautiful to look on, make the nectar. Protect us, Heaven and Earth, from fearful danger.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Devoutly I the two seats wide and lofty, The parents of the gods, invoke with fervour, Who, fair of aspect, grant us life immortal. Heaven and Earth, from dreadful darkness save us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden breiten, hohen Wohnstätten rufe ich ordnungsgemäß, die Erzeugerinnen mit Vergunst der Götter, die beide Unsterblichkeit besitzen, schön von Erscheinung. - Himmel und Erde, bewahret uns vor Übergewalt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die weiten, hohen Sitze ruf' mit Lust ich, mit frommem Sinn die Aeltern aller Götter, Die schönen, die Unsterblichkeit verleihen, beschirmt vor grauser Noth uns, Erd' und Himmel!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два широких, высоких сидения именем закона  
 Я призываю двух прародительниц, с помощью богов,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सृक्षत प्र꣡ वाजि꣡नो  
 गव्या꣡ सो꣡मासो अश्वया꣡  
 शुक्रा꣡सो वीरया꣡श꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शु॒क्रासः॑ । वी॒र॒ऽया । आ॒शवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asṛkṣata* ← *sṛj*
 - \[verb\], plural, Athematic s aor. (Ind.)
@@ -74,20 +74,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वाजिनः** बलवन्तः **शुक्रासः** शुक्रा उज्ज्वला: **आशवः** वेगवन्तश्च **सोमासः** सोमाः **गव्या** गवेच्छया **अश्वया** अश्वेच्छया च **वीरया** पुत्रेच्छया च **प्र** **असृक्षत** ऋत्विग्भिः सृज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The powerful, brilliant, rapid **Soma**-juices are effused in the hope of obtaining cattle, horses, and **male** offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have surged forth—the prize-seeking soma juices—with a yen for  cows and for horses,  
 with a yen for heroes—the swift clear ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In addition to the link to vs. 3 just mentioned, pāda c contains a clever echo of 2a.
 
@@ -104,23 +104,23 @@ No strong signs of unity. Vs. 4 does link to vs. 3 in the preceding tṛca throu
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Out of desire of cows and steeds and horses. potent Soma-drops,  
      Brilliant and swift, have been effused.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die preisgewinnenden Renner wurden losgelassen, die Somasäfte, im Verlangen nach Rindern und Rossen, die klaren Renner in Erwartung des Helden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voll Gier nach Rind und Ross und Mann sind Somatränke ausgeströmt, Die raschen, starken, glänzenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अ꣡ब्रवम् प्रथमं꣡ वां वृणानो꣡  
 अयं꣡ सो꣡मो अ꣡सुरैर् नो विह꣡व्यः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था सो꣡मस्य पिबतं सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ताम् । स॒त्याम् । श्र॒द्धाम् । अ॒भि । आ । हि । या॒तम् । अथ॑ । सोम॑स्य । पि॒ब॒त॒म् । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -130,20 +130,20 @@ genre M;; repeated line
 हे इन्द्राग्नी **प्रथमं** कर्मोपक्रमे एव **वां** युवां **वृणानः** संभजमानः **यदब्रवं** सोमेन प्रीणयिष्यामीति यदवोचं **सत्यां** यथार्थां **तां** **श्रद्धां** श्रद्धयादरातिशयेन कृतामुक्तिम् **अभि** अभिलक्ष्य **आ** **हि** **यातम्** आगच्छतमेव नोदासाथाम् । **अथ** आगमनानन्तरमभिषुतं सोमं **पिबतम्** । तथा सति **असुरैः** हविषां प्रक्षेपकैर्ऋत्विग्भिः **अयं** **नः** अस्माकं सोमः **विहव्यः** विशेषेण होतव्यो भवति इतरथा व्यर्थः स्यात् । तस्मादिन्द्राग्नी आगच्छतमित्यर्थः ॥ वृणानः । वृङ् संभक्तौ'। लटः शानच् । ‘ श्नाभ्यस्तयोरातः' इति आकारलोपः । असुरैः । ‘असु क्षेपणे'। असेरुरन् ' ( उ. सू. १. ४२ ) इति उरन्प्रत्ययः । विहव्यः ।  ‘हु दानादनयोः । अचो यत् । गुणः ।  ‘ धातोस्तन्निमित्तस्यैव  इति अवादेशः ।  ‘ यतोऽनावः' इत्याद्युदात्तत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come and witness the sincere faith with which, selecting you two, I first promised (you the libation); drink of the effused libation, for the **Soma** is prepared by the priests.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since I said first on choosing you two: “This soma here is to be invoked  by us in competition with the (other human) lords,”  
 toward this confidence (of ours) (which has) come true—yes! drive here.  Then drink of the pressed soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See the published introduction. for the place of this vs. in the structure of the hymn.
 
@@ -158,23 +158,23 @@ approximate this interpr; Renou’s is closest to mine.
 The hí in the refrain fragment ā́hí yātám (through vs. 12) is difficult to account for under its usual functional headings. I have tentatively taken it as emphatic (a cop-out, I realize) and tr. it as “yes!” I am not convinced by Hettrich’s treatment (Hypotaxe 376, 379-80) ascribing its use to a conditional structure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As first I said when choosing you, in battle we must contend with Asuras for this Soma.  
      So came ye unto this my true conviction, and drank libations of the flowing Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ich zuerst euch erwählend sprach: "Diesen Soma wollen wir den Asura´s streitig machen", für dieses aufrichtige Vertrauen kommet doch ja her und trinket vom gepreßten Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie ich zuerst auch sagte, euch erwählend: »Für Götter ist der Soma zu ergiessen«, So kommt denn her, des wahren Glaubens achtend und trinket nun vom ausgepressten Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что я говорил, выбирая вас двоих впервые:  
 Этого сому нам придется призывать, состязаясь с Асурами, -  

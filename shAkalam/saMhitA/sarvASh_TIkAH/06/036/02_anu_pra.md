@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु प्र꣡ येजे ज꣡न ओ꣡जो अस्य  
 सत्रा꣡ दधिरे अ꣡नु वीरि꣡याय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्र꣡तुं वृञ्जन्ति अ꣡पि वृत्रह꣡त्ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्यू॒म॒ऽगृभे॑ । दुध॑ये । अर्व॑ते । च॒ । क्रतु॑म् । वृ॒ञ्ज॒न्ति॒ । अपि॑ । वृ॒त्र॒ऽहत्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -119,7 +119,7 @@ genre M
 **अस्य** इन्द्रस्य **ओजः** बलं **जनः** यजमानः **अनु** **प्र** **येजे** संततं प्रकर्षेण यजते पूजयति । अपि च तमिन्द्रं **वीर्याय** वीरकर्म कर्तुं **सत्रा** सत्यम् **अनु** **दधिरे** पुरो दधिरे यजमानाः । यद्वा । सत्रा महान्तमिन्द्रमिति योज्यम् । अपि च **स्यूमगृभे** स्यूम्नः स्यूतान् अविच्छेदेन वर्तमानान् शत्रून् गृह्णते **दुधये** । दुधिर्हिंसाकर्मा । तेषां हिंसकाय **अर्वते** शत्रूणामभिगन्त्रे **च** तस्मा इन्द्राय **क्रतुं** कर्म परिचरणात्मकं **वृञ्जन्ति** निष्पादयन्ति । किमर्थम् । **वृत्रहत्ये** वृत्रस्य वारकस्य शत्रोर्हनननिमित्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,14 +130,14 @@ genre M
 Seiser of an uninterrupted series of foes: syūmagṛbhe = syūtān avicchedena vartamānān śatrūn gṛhṇate, to him who seizes enemies being lines or threads without interruption
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The people have sacrificed fore and after offerings to his might.  
 Completely have they conceded to his heroic power  
 and to the headstrong charger pulling at the reins. They bend their will  (to him) at the smashing of Vr̥tra [/obstacles].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since verbal forms of √yaj are not otherwise found with ánu nor does the lexeme ánu-prá √yaj occur anywhere else, I take ánu prá yeje as a technical reference to the fore- and after-offerings (prayājá-, anuyājá-, already attested in late RV). The ánu may have been included because of the idiom ánu √dā ‘concede’ in the next pāda. On the weak pf. form yeje (versus īje) see comm. ad I.114.2 and Kümmel 391-92.
 
@@ -148,23 +148,23 @@ This interpr. also allows a better case frame in d: ápi √vṛj krátum + LOC 
 With Grassmann, Geldner, and Klein, I take the root noun cmpd. syūma-gṛ́bh- in c as having the transitive value “pulling at [/grabbing] the reins,” expressing the impatience of the “headstrong charger” that is Indra. Curiously, Scarlatta (115-16) gives it the passive sense “der … beim Zügel gepackt wird,” indicating that the same headstrong charger has to be reined in. Although this interpr. is in principle possible, in practice it seems unlikely that the poets would dare to consider (much less desire) curbing Indra’s impetuous rush.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men have obtained his strength by sacrificing, and ever urged him, on to hero valour.  
      For the rein-seizing, the impetuous Charger they furnished power even for Vrtra's slaughter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jedermann verehrt seine Stärke; ganz und gar haben sie sich seiner Heldenkraft gefügt. Wie nach einem störrischen Roß, das den Zaum festhält, richten sie nach ihm in der Vritraschlacht ihren Willen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für sich gewann der Mensch des Gottes Stärke, die Götter trieben ihn zu Heldenthaten, Dem Zügelfasser und dem wilden Rosse erregen Kraft sie in dem Vritrakampfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Почитанием завоевал народ себе его силу.  
 Всецело придерживались они его отваги.  

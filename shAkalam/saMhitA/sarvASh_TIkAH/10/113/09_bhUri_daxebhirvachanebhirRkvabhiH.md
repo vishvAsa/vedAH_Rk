@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡रि द꣡क्षेभिर् वचने꣡भिर् ऋ꣡क्वभिः  
 सखिये꣡भिः सखिया꣡नि प्र꣡ वोचत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 छ्रद्धामनस्या꣡ शृणुते दभी꣡तये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । धुनि॑म् । च॒ । चुमु॑रिम् । च॒ । द॒म्भय॑न् । श्र॒द्धा॒ऽम॒न॒स्या । शृ॒णु॒ते॒ । द॒भीत॑ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūri*
 - \[noun\], accusative, singular, neuter
@@ -112,35 +112,35 @@ genre M
 हे स्तोतारः **दक्षेभिः** वर्धनहेतुभिः **ऋक्वभिः** ॥  ‘ छन्दसीवनिपौ' इति वनिप्प्रत्ययः । अयस्मयादित्वेन भत्वाज्जश्त्वाभावः । पदत्वात् कुत्वम् (का. १. ४. २०) ॥ मन्त्रयुक्तैः **सख्येभिः** ॥ तदर्हतीत्यर्थे  ‘ छन्दसि च ' इति यत्प्रत्ययः ॥ सख्युरिन्द्रस्य योग्यैः **वचनेभिः** वचनैः स्तोत्रैः **सख्यानि** स्तुत्यस्तोतृलक्षणान्यभिलक्ष्य **भूरि** बहुवारम् इन्द्रं **प्र** **वोचत** प्रबूत अभिष्टुत । **इन्द्रः** तु **दभीतये** एतन्नामकाय राजर्षये **धुनिं** **च** **चुमुरिं** च एतन्नामकौ द्वावसुरौ **दम्भयन्** हिंसन् **श्रद्धामनस्या** । मनःशब्दात् क्यच् । श्रद्धायुक्तया मनस इच्छया **शृणुते** । युष्माभिः कृतानि स्तोत्राणि शृणोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Celebrate the numerous benevolent (acts of **Indra**) with clever affectionate praises, together with texts;for adoration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With skillful words accompanied by chants, by reason of your (acts of)  comradeship (for him), proclaim the many (acts of) comradeship (for us). Indra is famed as subjugating Dhuni and Cumuri for Dabhīti by reason  of his [=Dabhīti’s] mind of trust (in ritual hospitality).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Proclaim his many friendships, met with friendship, made with singers, with the skilful and the eloquent.  
      Indra, when he subdues Dhuni and Cumuri, lists to Dabhiti for his faithful spirit's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verkündet mit wirksamen preisenden Worten, mit Freundesdiensten seine vielen Freundesdienste! Berühmt ist Indra als der, welcher Dhuni und Cumuri für Dabhiti zum Lohn für seine gläubige Gesinnung überlistete.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, rühmt ihn hoch, der an die Freundschaft Freundschaft schloss mit der beredten Sängerschar, der kräftigen, Bewältigend den Dhuni und den Tschumuri hört Indra auf Dabhīti seines Glaubens halb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Провозгласите его многочисленные дружеские действия  
 Умелыми хвалебными словами (и) дружескими действиями!  

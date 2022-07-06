@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपघ्न꣡न् पवते मृ꣡धो  
 अ꣡प सो꣡मो अ꣡रावणः  
 ग꣡छन्न् इ꣡न्द्रस्य निष्कृत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 गच्छ॑न् । इन्द्र॑स्य । निः॒ऽकृ॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apaghnan* ← *apahan* ← *√han*
 - \[verb noun\], nominative, singular
@@ -79,19 +79,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **सोमः** **मृधः** हिंसकाञ्छत्रून् **अपघ्नन्** मारयन् **अराव्णः** शक्तौ सत्यां धनानामदातॄंश्च **अप** घ्नन् **इन्द्रस्य** **निष्कृतं** स्थानं **गच्छन्** प्राप्नुवन् **पवते** धारया क्षरति ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** flows, slaying the malignant, slaying the withholders (of wealth), proceeding to **Indra**'s consecrated (station).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Smashing away the scorners, away the ungenerous, Soma purifies himself, going to the rendezvous with Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -101,23 +101,23 @@ This tṛca focuses even more strongly on combat, with forms of √han in 25 and
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Chasing our foemen, driving off the godless, Soma flowcth on,  
      Going to Indra's special place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Verächter abwehrend und die Geizigen, läutert sich der Soma und geht zu Indra´s Treffort.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indem die bösen Feinde er verjaget, rieselt Soma hell, Hineilend, wo er Indra trifft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он очищается, отгоняя прочь презирающих (нас),  
 (Отгоняя) прочь, о сома, скупцов,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ रो꣡रुवद् अभि꣡ पू꣡र्वा अचिक्रदद्  
 उपारु꣡हः श्रथ꣡यन् स्वादते ह꣡रिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 नि꣡ श꣡र्याणि दधते देव꣡ आ꣡ व꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ति॒रः । प॒वित्र॑म् । प॒रि॒ऽयन् । उ॒रु । ज्रयः॑ । नि । शर्या॑णि । द॒ध॒ते॒ । दे॒वः । आ । वर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -124,42 +124,42 @@ genre M
 **रोरुवत्** कलशादिकं प्रति अत्यन्तं शब्दं कुर्वन् **सः** सोमः **पूर्वाः** मुख्याः स्तोतॄणां स्तुतीः **अभि** **अचिक्रदत्** अभिमुखमध्वनयत् । स्तुतयः साधीयस्य इति प्रतिध्वनिमङ्गीकारमकार्षीदित्यर्थः । किंच **हरिः** हरितवर्णः **उपारुहः** । रोहतेस्ताच्छीलिकः क्विप् । उपारोहणशीला ऊर्ध्वं प्रादुर्भवनशीला ओषधीः **श्रथयन्** अग्रे विश्लेषयन् **स्वादते** स्वादूकरोति । ताः फलिनीः कुर्वन स्वादुयुक्ता विदधातीत्यर्थः । तथा **पवित्रम्** अविवालात्मकं दशापवित्रं **तिरः** तिरस्कृत्य पात्राणि प्रत्यात्मनः क्षरणकाले पवित्रं व्यवधायकं कृत्वा **परियन्** परितो गच्छन् सोमः **उरु** महान्तं **ज्रयः** वेगं करोति । ततः **शर्याणि** । ' शृ हिंसायाम् ' । हिंसितव्यानि यद्वा शरेण हन्तव्यानि रक्षांसि **नि** **दधते** निक्षिपति न्यक्करोति । हिनस्तीति यावत् । पश्चात् **देवः** दीप्यमानः सोमः **वरं** वरणीयं धनं सोमदातृभ्यो यजमानेभ्यः **आ** दधते आधारयति । प्रयच्छतीत्यर्थः । दधातेः लेट्यडागमे ‘ घोर्लोपो लेटि वा ' इत्याकारलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He with a noise re-echoes the principal (praises), separating the growing herbs, the green-tinted (**Soma**) sweetens them; passing through the filter, (he exerts) great speed, he annihilates the **rākṣasas**, the shining (Soma) bestows wealth (upon the worshippers).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bellowing continually he has cried out to the (cows) in front; loosening  his shoots, the tawny one becomes sweet.  
 Across the filter, circling around the broad expanse, the god will lay  
 down his stems at will.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ā́váram “at will” may recall vā́ram (in the common Somian phrase ávyo vā́ram, etc. “sheep’s fleece”) referring to the filter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He bellows with a roar arourd the highest twigs: the Tawny One is sweetened as he breaks them up.  
      Then passing through the sieve into the ample room, the God throws off the dregs according to his wish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laut brüllte er auf die vorausgehenden Kühe los. Wenn er die Zweige auflöst, wird der Goldgelbe schmackhaft. Durch die Seihe in breitem Strome umlaufend legt der Gott seine Stacheln nach Wunsch ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die frühern Stuten brüllt der goldne wiehernd an, des Stengels Sprossen lösend freuet sich der Hengst; Hineilend durch die Seihe in den weiten Raum, schiesst nieder seine Pfeile, wie er will, der Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Громко ревя, он заржал идущим впереди (коровам).  
 Ослабляя побеги, золотистый становится вкусным.  

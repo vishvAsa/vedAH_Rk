@@ -8,7 +8,7 @@ title = "+073"
 ‘ रयिर्न' इति दशर्चं नवमं सूक्तं पराशरस्यार्षं त्रैष्टुभमाग्नेयम् । अनुक्रान्तं च-’ रयिर्न ' इति । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 73  
 Agni  
@@ -20,7 +20,7 @@ Although this hymn lacks overt reference to the motifs of the Vaiśvānara  fire
 ment of those motifs in earlier parts of the cycle. That both gods and men  and, among men, both poets and patrons serve the fire in similar ways and  seek similar rewards depicts these groups of beings as having a certain equality  before Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡त्यश् चाकन्यात् स्व꣡पतिर् द꣡मूना  
 य꣡स्मा उ देवः꣡ सविता꣡ जजा꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡ अस्मै चा꣡रुश् छदयद् उत꣡ स्यात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 भगः॑ । वा॒ । गोभिः॑ । अ॒र्य॒मा । ई॒म् । अ॒न॒ज्या॒त् । सः । अ॒स्मै॒ । चारुः॑ । छ॒द॒य॒त् । उ॒त । स्या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nityaś* ← *nityaḥ* ← *nitya*
 - \[noun\], nominative, singular, masculine
@@ -140,14 +140,14 @@ genre M
 नित्यः कल्पावस्थायी प्रजापतिः **चाकन्यात्** । तस्मै दृष्टादृष्टफलं दातुं कामयतां । कीदृशः। **स्वपतिः** स्वीयानां प्रजानां स्वामी धनपतिर्वा **दमूनाः** दानमनाः । कस्मै कामयतामिति उच्यते । **उ** उत अपि च **यस्मै** यजमानाय मह्यं **सविता** सर्वस्य प्रेरको **देव:** **जजान** जनितवान् । दृष्टादृष्टफलं दत्तवानित्यर्थः । वाशब्दः समुच्चये । तथा **भगः** देवश्च **गोभिः** अस्मदीयाभिः स्तुतिरूपाभिः वाग्भिः स्तुतः **अर्यमा** देवश्च **ईम्** ईदृग्भूतं दृष्टादृष्टफलम् **अनज्यात** व्यक्तीकुर्यात् । दद्यादित्यर्थः । **उत** अपि च **स्यात्** अन्योऽपि **यो** देवगणोऽस्ति **चारुः** रमणीयः **सः** अपि देवगणः **अस्मै** यजमानाय मह्यं **छदयत्** दृष्टादृष्टफलं दातुं कामयतामित्येतदाशास्महे ॥ , इयं सा भूया उषसामिव क्षा यद्धं क्षुमन्तुः शवसा समार्यन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the eternal (**Prajāpati**), the lord of wealth, of genitive rous mind, be willing to bestow (benefits onhim) to whom the divine **Savitā** has given birth; may **Bhaga** (induced) by (our) praises, and the divine Aryamanunfold (future rewards); or may some (other) gracious (divinity) be inclined to favour this (instrumental tutor of the rite).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our own constant lord and master of the house [=Agni?] should  
 find pleasure (in him [=sacrificer?]) for whom the god Savitar has  
@@ -155,23 +155,23 @@ given birth,
 or Bhaga and Aryaman should anoint him with cows. That one seems  beloved to him, and so he should be.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pleased be the Eternal Lord who loves the household with this man whom God Savitar created.  
      May Bhaga Aryaman grace him with cattle: may he appear to him, and be, delightful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ständige Eigentümer und Hausgebieter soll daran Gefallen haben, für den ihn Gott Savitri bestimmt hat. Oder Bhaga und Aryaman sollen ihn mit Kühen auszeichnen: er scheine ihm angenehm und sei es auch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der ew'ge Herrscher sei erfreut, der Hausfreund, und wem Genuss Gott Savitar erzeugt hat; Ihn schmücke Bhaga, Arjaman mit Kühen; er möge lieb ihm dünken, lieb ihm sein auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть порадуется свой собственный господин, домашний (бог, тому),  
 Для кого породил бог Савитар.  

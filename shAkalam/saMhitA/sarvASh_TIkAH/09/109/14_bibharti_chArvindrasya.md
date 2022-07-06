@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बि꣡भर्ति चा꣡रु इ꣡न्द्रस्य ना꣡म  
 ये꣡न वि꣡श्वानि वृत्रा꣡ जघा꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 बिभ॑र्ति । चारु॑ । इन्द्र॑स्य । नाम॑ । येन॑ । विश्वा॑नि । वृ॒त्रा । ज॒घान॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bibharti* ← *bhṛ*
 - \[verb\], singular, Present indikative
@@ -74,20 +74,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 स सोमः **चारु** कल्याणम् **इन्द्रस्य** **नाम** शरीरं **बिभर्ति** धारयति पोषयति । **येन** शरीरेणेन्द्रः **विश्वानि** सर्वाणि वृत्राणि पापरूपाणि रक्षांसि जघान हतवान् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The auspicious (**Soma**) sustains **Indra**'s body, by which he has slain all **rākṣasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He bears the name dear to Indra, with which he smashes all  
 obstacles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents a double ambiguity. On the one hand cā́ru índrasya nā́ma can mean either “the dear name of Indra” (as Geldner/Renou take it) or “the name dear to Indra”; the question is whether the name Soma bears is “Indra,” as the first alternative implies, or “Soma,” with the second. I prefer the second, since constructing a plausible reason why Soma would be called Indra is difficult: Geldner’s (n.
 
@@ -107,22 +107,22 @@ The adj. cā́ru- ‘dear’ occurs in 13 and 14. The gods as recipients of soma
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He bears the beauteous name of Indra, that wherewith he overcame all demon foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er führt den angenehmen Namen des Indra, mit dem er alle Feinde erschlagen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er trägt des Indra – geliebtes Wesen, durch das er alle – Verhassten todtschlug.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он носит милое имя Индры,  
 Благодаря которому он разбил все препятствия.

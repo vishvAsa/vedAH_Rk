@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡म् मन्ये पित꣡रम् अग्नि꣡म् आपि꣡म्  
 अग्नि꣡म् भ्रा꣡तरं स꣡दम् इ꣡त् स꣡खायम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवि꣡ शुक्रं꣡ यजतं꣡ सू꣡रियस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्नेः । अनी॑कम् । बृ॒ह॒तः । स॒प॒र्य॒म् । दि॒वि । शु॒क्रम् । य॒ज॒तम् । सूर्य॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 अहं स्तोता **पितरम्** **अग्निम्** एव **मन्ये** जाने । **आपिं** बन्धुम् **अग्निम्** एव मन्ये । **भ्रातरम्** **अग्निम्** एव मन्ये । **सदमित्** सदैवाविसंवादिनं **सखायम्** अग्निमेव जानामि । **बृहतः** महतः **अग्नेः** **अनीकम्** आहवनीयाख्यं मुखं **सपर्यं** परिचरामि  । तत्र लुप्तोपममेतत् । **दिवि** द्युलोके स्थितं **यजतं** यष्टव्यं पूजनीयं **सूर्यस्य** संबन्धि **शुक्रं** दीप्तिमत् मण्डलं यथा कश्चिदभिप्रेतार्थसिद्धये आराधयति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ genre M
 Mighty Agni: a reference to the **āhavanīya** fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I consider Agni our father, Agni our friend, Agni our brother and our  comrade forever.  
 I do honor to the face of lofty Agni, the worshipful luminous (face) of  the Sun in heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni I deem my Kinsman and my Father, count him my Brother and my Friend for ever.  
      I honour as the face of lofty Agni in heaven the bright and holy light of Surya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, achte ich für meinen Vater, Agni für einen Freund, Agni für einen Bruder, Agni für einen Genossen zu allen Zeiten. Agni´s, des Großen, Anblick halte ich in Ehren, den hellen verehrungswürdigen Anblick der Sonne am Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mir gilt als Vater Agni, als Verwandter, als Bruder Agni, stets mir als Genosse, Des grossen Agni Licht will ich verehren, das herrlich glänzt am Himmel gleich der Sonne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни я считаю отцом, Агни-товарищем,  
 Агни-братом и всегда уж другом.  

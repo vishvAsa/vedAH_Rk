@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अश्वि꣡ना यामहू꣡तमा  
 ने꣡दिष्ठं यामि आ꣡पियम्  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **यामहूतमा** अतिशयेन काले ह्वातव्यौ **अश्विना** अश्विनौ **यामि** । **नेदिष्ठम्** अन्तिकतमम् **आप्यं** बान्धवं च यामि तयोः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Aśvins** are earnestly to be invoked in emergency; I enter into close friendshipwith them; let yourprotection abide near me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Aśvins, most often summoned on their journey, do I beg for closest  friendship.  
 – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Asvins, fust to hear our prayer, for closest kinship I approach:  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An die Asvin, die auf ihrer Fahrt am meisten gerufen werden, wende ich mich als Freund an die nächste Freundschaft. - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Ritter, die beim Fest man ruft, geh' ich um engste Freundschaft an; Es sei uns eure Hülfe nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ашвины, лучше всех призываемые в пути,  
 Я молю о самой близкой дружбе.  

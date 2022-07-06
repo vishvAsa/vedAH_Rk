@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने मा꣡किष् टे देव꣡स्य  
 राति꣡म् अ꣡देवो युयोत  
 तुव꣡म् ईशिषे व꣡सूनाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 त्वम् । ई॒शि॒षे॒ । वसू॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -81,36 +81,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **अग्ने** **देवस्य** द्योतमानस्य **ते** तव **रातिं** दानं दत्तं धनं वा कश्चित् **अदेवः** मर्त्यादिः **माकिः** **युयोत** मैव पृथक्करोतु । **त्वम्** एव **ईशिषे** । कस्य । **वसूनां** धनानामीश्वरो भवसि दातुम् । अनेनामिश्रणीयाया रातेः सद्भाव उक्तो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, let not the godless take away the wealth which you, the divine, have given, for you are the lord oftreasures.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, let no non-god keep away the gift of you, a god.  
 You are the master of goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, let no godless man avert thy bounty as a God:  
      Over all treasures thou art Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, kein Gottloser soll uns um deine, des Gottes, Gunst bringen. Du gebeutst über die Schätze.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimmer hemme deine Gabe, Agni, Gott, ein Götterhasser; Du gebietest über Güter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

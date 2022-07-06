@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इमे꣡ द्या꣡वापृथिवी꣡ ज꣡नित्री  
 रूपइ꣡र् अ꣡पिंशद् भु꣡वनानि वि꣡श्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवं꣡ त्व꣡ष्टारम् इह꣡ यक्षि विद्वा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तम् । अ॒द्य । हो॒तः॒ । इ॒षि॒तः । यजी॑यान् । दे॒वम् । त्वष्टा॑रम् । इ॒ह । य॒क्षि॒ । वि॒द्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -119,37 +119,37 @@ genre M
 **यः** त्वष्टा देवः **जनित्री** विश्वस्य जनयित्र्यौ **इमे** **द्यावापृथिवी** ॥ द्वन्द्वे ‘दिवो द्यावा ' इति द्यावादेशः । आद्युदात्तः । पृथिवीशब्दो ङीषन्तत्वेनान्तोदात्त: । “ देवताद्वन्द्वे च ' इति पूर्वोतरपदयोः प्रकृतिस्वरत्वम् ॥ द्यावापृथिव्यौ **रूपैः** देवतिर्यङ्मनुष्याद्याकारैः **अपिंशत्** रूपवत्यावकरोत् ॥  ‘ पिश अवयवे' । तौदादिकः । ‘शे मुचादीनाम् ' इति नुमागमः ॥ तथा **विश्वा** सर्वाणि **भुवनानि** भूतजातानि रूपयुक्तान्यकरोत् । हे **होतः** **यजीयान्** यष्टृतमः **विद्वान्** सर्वं जानानः त्वम् **इषितः** अस्माभिरध्येषितः प्रार्थितः सन् **इह** अस्मिन् कर्मणि **अद्य** अस्मिन् दिने **तं** **त्वष्टारं** **देवं** **यक्षि** । स्तुतिभिर्हविर्भिर्वा यज पूजय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To the divine **Tvaṣṭā**, who decked the parental heaven and earth and all the worlds with livingforms, to him, O priest, who are venerable and wise, being solicited byu us, offer oblation here today.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who (adorned) Heaven and Earth, these two begetters, and who  adorned all the creatures with their forms,  
 to him today, to god Tvaṣṭar, o Hotar, superior sacrificer, perform  
 sacrifice here when prompted, as the knowing one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hotar more skilled in sacrifice, bring hither with speed to-day God Tvastar, thou who knowest.  
      Even him who formed these two, the Earth and Heaven the Parents, with their forms, and every creature.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der diese beiden Erzeugerinnen, Himmel und Erde, alle Wesen mit ihren Formen geziert hat, diesen Gott Tvastri verehre heute, o Hotri, als der besser Opfernde, kundig, dazu aufgefordert!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Erd' und Himmel, diese beiden Mütter und alle Wesen schön mit Farben schmückte, Dem opfre hier, o Priester, herrlich opfernd, dem Gotte Tvaschtar eilig, dessen kundig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто этих двоих родителей – Небо-и-Землю –  
 Украсил формами, (а также) все существа,  

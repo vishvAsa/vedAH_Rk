@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ आपि꣡र् नि꣡त्यो वरुण प्रियः꣡ स꣡न्  
 तुवा꣡म् आ꣡गांसि कृण꣡वत् स꣡खा ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यन्धि꣡ ष्मा वि꣡प्र स्तुवते꣡ व꣡रूथम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मा । ते॒ । एन॑स्वन्तः । य॒क्षि॒न् । भु॒जे॒म॒ । य॒न्धि । स्म॒ । विप्रः॑ । स्तु॒व॒ते । वरू॑थम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -134,7 +134,7 @@ genre M
 हे **वरुण** **यः** वसिष्ठः **नित्यः** धुवः **आपिः** बन्धुः। औरसः पुत्र इत्यर्थः । यः पूर्वं **प्रियः** **सन्** **त्वां** प्रति **आगांसि** अपराधान् **कृणवत्** अकरोत् स इदानीं **ते** तव **सखा** समानख्यानः प्रियोऽस्तु । हे **यक्षिन्** यजनीय वरुण **ते** तव स्वभूता वयम् **एनस्वन्तः** एनसा पापेन युक्ताः सन्तः **मा** **भुजेम** मा भुज्महि । त्वत्प्रसादात् पापरहिता एव सन्तो भोगान् भुनजामहै। **विप्रः** मेधावी त्वं च **स्तुवते** स्तोत्रं कुर्वते वसिष्ठाय **वरूथम्** अनिष्टनिवारकं वरणीयं वा गृहं **यन्धि** प्रयच्छ । **स्म** इति पूरकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,35 +145,35 @@ genre M
 The unvarying kin: **vasiṣṭha** is the son of Varuṇa; let us not enjoy happiness: **māta** enasvanto bhujema: let not us, offending you, enjoy; being freed from sin through your favour, let us enjoyenjoyments, tvatprasādāt pāparahitā eva santo bhogān bhuñjāmahai
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Varuṇa, though one be your very own dear friend and your companion,  if he will commit offenses against you,  
 may we, burdened with guilt, not pay for (the transgression) against you,  you uncanny one. As an inspired poet, ever offer protection to him  
 praising you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If he, thy true ally, hath sinned against thee, still, Varuna, he is the friend thou lovedst.  
      Let us not, Living One, as sinners I know thee: give shelter, as a Sage, to him who lauds thee.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Who is, O Varuṇa, thy constant kinsman. Once dear, though sinful now, he daims thy friendships. As guilty may we not, O wizard, suffer: Do thou, O sage, grant shelter to thy praiser.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn dein gewohnter Genosse, der dir lieb ist, Varuna, sich gegen dich versündigt hat, dein Freund, so möchten wir Sünder nicht die Sünde wider dich büßen, du Geheimnisvoller. Gewähre als Redekundiger dem Sänger deinen Schutz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Varuna, dein Freund, der dir doch lieb ist, und dein Genosse an dir Unrecht übte, So straf uns nicht nach unsrer Schuld, o Rächer, verleihe Schutz, o weiser, du dem Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда (твой) близкий приятель, о Варуна, (кто) дорог (тебе),  
 Твой друг совершит против тебя прегрешения,  

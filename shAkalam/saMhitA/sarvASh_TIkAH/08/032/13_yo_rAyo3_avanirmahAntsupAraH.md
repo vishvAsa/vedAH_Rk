@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ रायो꣡ अव꣡निर् महा꣡न्  
 सुपारः꣡ सुन्वतः꣡ स꣡खा  
 त꣡म् इ꣡न्द्रम् अभि꣡ गायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तम् । इन्द्र॑म् । अ॒भि । गा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -92,7 +92,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** इन्द्रः **रायः** धनस्य **अवनिः** पालकः **महान्** सर्वोत्तमः **सुपारः** शोभनपारणश्च भवति । यश्च **सुन्वतः** सोमाभिषवं कुर्वतो यजमानस्य **सखा** प्रियो भवति। **तमिन्द्रमभि** **गायत** अभिष्टुत ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,28 +103,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Conveyor: ready to be brought by praise\[.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who is the great streambed of wealth, easy to cross, the partner of  the presser—sing to that Indra,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him, the mighty stream of wealth, the Soma-presser's rescuing Friend,  
      To Indra sing your song of praise;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ein großer Strom des Reichtums ist, der leicht ans andere Ufer zu gutem Ende führende Freund der Somapresser, diesen Indra besinget!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra preist, den grossen Strom des Reichthums, den man leicht durchfährt, Ihn, der den Somapresser liebt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот,) кто великий поток богатства,  
 Друг, легко перевозящий выжимающего (сому) на другой берег, –  

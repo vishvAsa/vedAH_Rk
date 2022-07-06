@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् पूषा꣡ रयि꣡र् भ꣡गः  
 सो꣡मः पुनानो꣡ अर्षति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡ अख्यद् रो꣡दसी उभे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पतिः॑ । विश्व॑स्य । भूम॑नः । वि । अ॒ख्य॒त् । रोद॑सी॒ इति॑ । उ॒भे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -100,20 +100,20 @@ genre M
 **पूषा** पोषकः सर्वेषां **भगः** भजनीयः **रयिः** धनहेतुः **अयं** **सोमः** **पुनानः** पवित्रेण पूयमानः सन् **अर्षति** कलशमभिगच्छति । तथा **विश्वस्य** सर्वस्य **भूमनः** भूतजातस्य **पतिः** पालयिता सोमः **उभे** **रोदसी** द्यावापृथिव्यौ **व्यख्यत्** स्वतेजसा प्रकाशयति । अनेन लोकद्वयवर्तित्वं सूचितम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Soma** being purified hastens (to the pitcher) fostering, wealth-giving, to be enjoyed (by all); the lord of all beings, he has illuminated both heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here is Pūṣan, Wealth, Fortune; Soma rushes as he is being  purified.  
 As lord of all creation, he has surveyed both world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 bhū́man- generally means ‘earth’ (as opposed to heaven) or ‘world’. Here it seems a little outside its usual patch, as a metrical driven variant of the common phrase víśvasya bhúvanasya “of all creation”; see esp. IX.86.5 pátir víśvasya bhúvanasya rājasi matching our pátir víśvasya bhū́manaḥ, but also occurrences in I.164.21, II.27.4, 40.1, III.46.2, V.85.3, IX.86.28, 36, 97.56, X.45.6, 168.2, all but one straddling a late caesura, where the two light init. syllables of bhuvanasya fit well; bhúvanasya of course fits the cadence of no Vedic meter.
 
@@ -128,23 +128,23 @@ Again, quite straightforward and not particularly cohesive.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Pusan, Fortune, Bhaga, comes this Soma while they make him pure.  
      He, Lord of the multitude, hath looked upon the earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser fließt als Pusan, als Rayi, als Bhaga, als geläuterter Soma. Der Herr der ganzen Natur hat in beide Welten Ausblick gehalten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Nährer, Spender, reicher Schatz strömt Soma hell entflammt dahin, Als Herr der ganzen Welt beschaut den Himmel und die Erde er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот он течет: Пушан, Богатство,  
 Бхага, сома очищающийся  

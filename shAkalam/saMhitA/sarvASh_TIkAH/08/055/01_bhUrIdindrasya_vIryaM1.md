@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡री꣡द् इ꣡न्द्रस्य वीरि꣡यं  
 वि꣡ अ꣡ख्यम् अभि꣡ आ꣡यति  
 रा꣡धस् ते दस्यवे वृक
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Vālakhilya
 राधः॑ । ते॒ । द॒स्य॒वे॒ । वृ॒क॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūrīd* ← *bhūri*
 - \[noun\], accusative, singular, neuter
@@ -90,7 +90,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,24 +101,24 @@ Sayana bhashya empty
 O foe to theDasyu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since I have just abundantly surveyed the heroism of Indra, your  
 generosity  
 will now follow, Dasyave Vr̥ka.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die große Heldenkraft des Indra habe ich im Geiste erschaut. Möge jetzt deine Ehrengabe herankommen, o Dasyave Vrika.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Indra [des mit Indra vergleichbaren Fürsten] grosse Heldenkraft habe ich erschaut; es kommt heran deine Gabe, o Dasjavevrika.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Большое мужество Индры  
 Я узрел. Пусть придет  

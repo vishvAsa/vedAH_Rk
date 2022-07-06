@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यदा꣡ ते वि꣡ष्णुर् ओ꣡जसा  
 त्री꣡णि पदा꣡ विचक्रमे꣡  
 आ꣡द् इ꣡त् ते हर्यता꣡ ह꣡री ववक्षतुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 आत् । इत् । ते॒ । ह॒र्य॒ता । हरी॒ इति॑ । व॒व॒क्ष॒तुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadā*
 - \[adverb\]
@@ -95,7 +95,7 @@ genre M;; line affected by realignment;; repeated line
 हे इन्द्र **ते** तवानुजः **विष्णुः** व्यापनशीलो देवः **ओजसा** बलेन **यदा** यस्मिन् काले **त्रीणि** पदानि पदत्रयरूपेण त्रीँल्लोकान् **विचक्रमे** विक्रान्तवान् परिच्छिन्नवान् । गतमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,13 +106,13 @@ genre M;; line affected by realignment;; repeated line
 Viṣṇu: yadā te viṣṇur ojasā = when Viṣṇu by your strength; or, te tavānujaḥ; veily yourbeloved horses: ād it te haryatā (kāntau) **harī** vavakṣatuḥ, its having served as the burden of the ttwopreceding ṛcas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Viṣṇu strode his three steps by your might,  
 just after that your two beloved fallow bays waxed strong.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 That te in a is a dative of benefit, not a genitive with ójasā is shown by 52.3 yásmai víṣṇus trī́ṇi padā vicakramé.
 
@@ -126,23 +126,23 @@ The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Visnu, through thine energy, strode wide those three great steps of his,  
      Then thy two beautiful Bay Steeds carried thee on.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Vishnu für dich mit Kraft seine drei Schritte ausgeschritten hatte, da erst sind deine geliebten Falben groß geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Vischnu dann durch deine Kraft der Schritte drei vollendete, Da wuchs empor dein Füchsepaar, das herrliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда для тебя Вишну мощно  
 Прошагал три шага.  

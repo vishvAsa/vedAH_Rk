@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ वाम् मित्रावरुणा  
 सुतः꣡ सो꣡म ऋतावृधा  
 म꣡मे꣡द् इह꣡ श्रुतं ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 मम॑ । इत् । इ॒ह । श्रु॒त॒म् । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -90,20 +90,20 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This libation is offered to you, **Mitra** and **Varuṇa**, cherishers of truth; hear, verily, this my present invocatioṇ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the soma pressed for you, o Mitra and Varuṇa, who are strong  through truth.  
 Heed just my call here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Soma hath been shed for you, Lawstrengtheners, Mitra-Varuna!  
      Listen ye here to this my call.
@@ -117,17 +117,17 @@ Hearken ye now to my supplication.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma ist für euch, Mitra und Varuna, gepreßt, ihr Wahrheitsmehrer. Höret hier auf meinen Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O heil'ge Mitra-Varuna, gepresst ist dieser Soma euch; O höret recht auf meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот сома выжат для вас,  
 О Митра-Варуна, умножающие (вселенский) закон.  

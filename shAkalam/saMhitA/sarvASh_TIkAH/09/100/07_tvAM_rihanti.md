@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ रिहन्ति मात꣡रो  
 ह꣡रिम् पवि꣡त्रे अद्रु꣡हः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡वमान वि꣡धर्मणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 व॒त्सम् । जा॒तम् । न । धे॒नवः॑ । पव॑मान । विऽध॑र्मणि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -93,19 +93,19 @@ genre M;; repeated line
 हे **पवमान** सोम **विधर्मणि** विविधं हविषां धारके यज्ञे **अद्रुहः** द्रोहवर्जिताः **मातरः** मातृभूता वसतीवर्यः **हरिं** हरितवर्णं **त्वां** **पवित्रे** स्थितं **रिहन्ति** लिहन्ति आस्वादयन्ति । कथमिव । यथा **धेनवः** **जातं** **वत्सं** लिहन्ति तथा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The innocent maternal (waters) caress you, the green-tinted, upon the filter, O **Pavamāna**, at the sacrifice, as kine caress their new-born calf.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mothers, those without deceit, lick you, the tawny one, in the filter, as milk-cows do a new-born calf, o self-purifying one, at your expansion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. replicates most of vs. 1 in a different order. I will cite here only the repeated elements: 1 … adrúhaḥ … / vatsáṃ ná … jātáṃ rihanti mātáraḥ 7 … rihanti mātáraḥ … adrúhaḥ / vatsáṃ jātáṃ ná … On the repeated pāda (d) pávamāna vídharmaṇi see comm. ad IX.64.9 and also Ober II.152.
 
@@ -120,23 +120,23 @@ As noted in the published introduction, these vss., constituting a separate hymn
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mothers, void of guiles, caress thee Golden-coloured, in the sieve,  
      As cows, O Pavamana, lick the new-born calf, as Law commands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich lecken ohne Falsch die Mütter, den Falben in der Seihe, wie Milchkühe das neugeborene Kalb, o Pavamana, wenn du dich ausbreitest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die holden Mütter küssen dich, das goldne Ross, im Läutrungsnetz, Wie Kühe das geborne Kalb, o flammender, im Himmelsraum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя облизывают матери  
 В цедилке, буланого безобманные,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो बर्हिः꣡ सधमा꣡दे बृह꣡द् दिवि꣡  
 देवाँ꣡ ईळे साद꣡या सप्त꣡ हो꣡तॄन्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इन्द्र॑म् । मि॒त्रम् । वरु॑णम् । सा॒तये॑ । भग॑म् । स्व॒स्ति । अ॒ग्निम् । स॒म्ऽइ॒धा॒नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -132,7 +132,7 @@ genre M;; repeated line
 **नः** अस्माकं **बृहत्** बृहति महति **दिवि** दीप्ते **सधमादे** । सह माद्यन्ति देवा यत्र तस्मिन् । **बर्हिः** बहिषि यज्ञे **सप्त** सप्तसंख्याकान् **होतॄन्** वषट्कर्तॄन् **इन्द्रं** **मित्रं** च **वरुणं** च **भगं** च **देवान्** इतरानपि यष्टब्यान् देवान् हे अग्ने त्वम् **आ** **सादय** । अग्नेराभिमुख्यकरणम्  ' इहाद्य दैव्यं जनं बर्हिरा सादया वसो ' ( ऋ. सं. १, ४५, ९) इत्येवमादिमन्त्रैरवगम्यते । तत्र त्वया  आसादितांस्तानिन्द्रादीन् देवानहं **सातये** धनलाभाय **ईळे** स्तौमि । सिद्धमन्यत् ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,30 +143,30 @@ genre M;; repeated line
 I praise the gods for their bounty: devān īḷe, sātaye
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is our ritual grass for the joint revelry. I reverently invoke the gods  lofty in heaven. I will make the seven Hotars sit (on the ritual grass).  
 (We beseech) Indra, Mitra, Varuṇa, and Bhaga, for our gain. – We  
 beseech Agni, when he is kindled, for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To our great holy grass I bid the Gods at morn to banquet, and will seat them as the seven priests,-  
      Varuna, Indra, Mitra, Bhaga for our gain. We pray to kindled Agni for felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf unser hohes Barhis rufe ich zu gemeinsamem Gelage die Götter im Himmel her, heiße ich die sieben Hotri Platz nehmen. Den Indra, Mitra, Varuna, Bhaga, um das Glück zu gewinnen, - Um Heil bitten wir den entflammten Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sieben Priester setz' ich nun auf unsre Streu beim Mahl, und rühm' die Götter in dem Himmel laut, Den Indra, Bhaga, Mitra Varuna zum Heil; um Segen flehn wir den entflammten Agni an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я призываю богов на небе на нашу высокую жертвенную солому  
 Для совместного пиршества, я хочу усадить (их) как семерых хотаров:  

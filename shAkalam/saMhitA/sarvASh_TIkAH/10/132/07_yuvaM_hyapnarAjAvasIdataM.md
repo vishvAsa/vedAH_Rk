@@ -6,7 +6,7 @@ ChandaH = "महासतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ हि꣡ · अप्नरा꣡जाव् अ꣡सीदतं  
 ति꣡ष्ठद् र꣡थं न꣡ धूर्ष꣡दं वनर्ष꣡दम्  
@@ -15,7 +15,7 @@ ChandaH = "महासतो बृहती"
 सुमे꣡धस् तत्रे अं꣡हसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ताः । नः॒ । क॒णू॒क॒ऽयन्तीः॑ । नृ॒ऽमेधः॑ । त॒त्रे॒ । अंह॑सः । सु॒ऽमेधः॑ । त॒त्रे॒ । अंह॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -116,7 +116,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे मित्रावरुणौ **युवं** **हि** युवां खलु **अप्नराजौ** अप्नसा कर्मण प्रवर्षणप्रकाशनादिना राजमानौ दीप्यमानौ सन्तौ असीदतं स्वकीये स्थाने निषीदथः आसाथे ॥ अप्न इति कर्मनाम । ' आपः कर्माख्यायां ह्रस्वो नुट्च वा ' ( उ. सू. ४.२०७) इत्याप्नोतेः असुन् तस्य नुडागमो धातोर्ह्रस्वश्च । तस्मिन्नुपपदे राजतेः 'सत्सूद्विष इत्यादिना क्विप् । ' पीवोपवसनादीनां छन्दसि लोपो वक्तव्यः '( पा. म. ६. ३.१०९. ६) इत्यप्नसः सकारलोपः ॥ तौ मित्रावरुणौ **कणूकयन्तीः** । कणतिः शब्दार्थः । कणनमाक्रोशरूपं शब्दनमिच्छन्तीः **ताः** प्रसिद्धाः शात्रवीः प्रजा अभिभवितुम् । **न** संप्रत्यर्थे । संप्रति **रथं** **तिष्ठत्** अभितिष्ठताम् । तिष्ठतेर्लेट्यडागमः । ' इतश्च लोपः' इतीकारलोपः । प्रत्येकाभिप्रायेणैकवचनम् । कीदृशं रथम् । **धूर्षदं** धुर्यश्वयोर्वहनदेशे सीदन्तं **वनर्षदं**  वनेषूद्यानेषु क्रीडार्थं निषीदन्तम् । यद्वा । वनमित्युदकनाम । समुद्रमध्ये हि वरुणो निवसति । वने समुद्रोदके निषीदन्तम् । उभयत्रापि पूर्ववत् क्विप् । वनसदमित्यत्र छान्दसः सांहितिको रेफोपजनः । हे मित्रावरुणौ युवाभ्यां **नृमेधः.** मम पिता **अंहसः** पापात् **तत्रे** ररक्षे रक्षितो बभूव । ' त्रैङ् पालने ' इत्यस्मात् कर्मणि लिट् । यद्वा उपचाराज्जन्ये जनकशब्दः । नृमेधस्य पुत्रः शकपूतोऽहं पापात् युवाभ्यां तत्रे रक्षितोऽस्मि । **सुमेधः** अन्योऽपि सुयज्ञो यजमानः अंहसः पापात् **तत्रे** युवाभ्यामेवारक्ष्यत ।  भीत्रार्थानाम् ' ( पा. सू १ .४.२५) इत्यंहसोऽपादानसंज्ञा ॥ ॥२ ०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,30 +127,30 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Which abides in the forests: or,in the water; **Varuṇa** is said to reside in the ocean
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you two who rule over property have taken your seats, he [=the  priest?] has mounted, like a chariot, the one [=sacrificial fire] sitting at  the chariot-pole (of the sacrifice), sitting on the wood.  
 Those females of ours, seeking [/behaving like] kaṇūka [?], has Nr̥medha  rescued from narrow straits, has “very wise” Sumedha rescued from  
 narrow straits.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Twain have seated you as Lords of Wealth, as one who mounts a car to him who sits upon the pole, upon the wood.  
      These our disheartened tribes Nrmedhas saved from woe, Sumedhas saved from Woe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr saßet als die beiden verdienten Könige im Wagen; er bestieg den auf der Deichsel sitzenden, im Holze sitzenden wie einen Wagen. Diese unsere jammernden Untertanen hat Nrimedha aus Not gerettet, hat Sumedha aus Not gerettet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr beide ja habt euch niedergelassen als Herren des Reichthums, wie einer, der den Wagen besteigt, den mit Deichsel und Wagenkasten (?) versehenen; diese unsere Noth leidenden [Stämme] hat Nrimedha aus Bedrängniss gerettet, hat Sumedha aus Bedrängniss gerettet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы двое уселись как два заслуженных царя.  
 Он взошел, словно на колесницу, на сидящего у дышла, на сидящего в кузове.  

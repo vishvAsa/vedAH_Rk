@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो मह्ना꣡ महतो꣡ अर्णव꣡स्य  
 व्रता꣡मिनाद् अ꣡ङ्गिरोभिर् गृणानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दाधा꣡र यो꣡ धरु꣡णं सत्य꣡ताता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पु॒रूणि॑ । चि॒त् । नि । त॒ता॒न॒ । रजां॑सि । दा॒धार॑ । यः । ध॒रुण॑म् । स॒त्यऽता॑ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -116,36 +116,36 @@ genre M
 **इन्द्रः** **अङ्गिरोभिः** ऋषिभिः **गृणानः** स्तूयमानः सन् **महतो** **अर्णवस्य** ॥  ‘ अर्णसः सलोपश्च' (का. ५. २. १०९. ३) इति वप्रत्ययः ॥ उदकवतो मेघस्य **व्रता** व्रतानि कर्माणि **मह्ना** स्वमहिम्नैव **अमिनात्** अहिंसीत् ॥  ‘ मीङ् हिंसायाम्। लङि ' मीनातेर्निगमे ' इति ह्रस्वः ॥ ततः **पुरूणि** **चित्** बहून्येव **रजांसि** उदकानि **नि** **ततान** नीचीनान्यकरोत् । **यः** इन्द्रः **सत्यताता** सत्यैर्देवैस्तते । यद्वा । सत्यशब्दादपि स्वार्थिकस्तातिल् द्रष्टव्यः । सत्ये । द्युलोके **धरुणं** धारकं बलं **दाधार** अधारयत्॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praised by the **Aṅgirasas**, **Indra** has by his might injured the functions of the mighty cloud; he has sentdown abundant rains, he who (at other times) has supported the supporting (cloud) in heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra by his greatness confounded the commandments of the great  Flood [=Vala], while being hymned by the Aṅgirases.  
 He rooted the dusky realms, though they are many—he who buttressed  their buttress by means of (their [=Aṅgirases’] poetic?) realization.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praised by Angirases, Indra demolished with might the works of the great watery monster  
      Full many regions, too, hath he pervaded, and by his truth supported earth's foundation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra hat durch seine Macht des mächtigen Arnava Werke vereitelt, von den Angiras` gepriesen. Er hat die Räume, die doch so viele sind, befestigt, der ihre Grundlage auf die Wahrhaftigkeit gegründet hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des grossen Meergeists Werke störte Indra durch seine Macht, von Angira's besungen, Er drang hinein auch in die vielen Räume und hielt durch Wahrheit fest des Himmels Stütze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А Индра (своей) мощью помешал деяниям  
 Могучего Арнавы, воспеваемый Ангирасами.  

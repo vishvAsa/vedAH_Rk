@@ -8,7 +8,7 @@ title = "+002"
 ‘इदं वसो' इति द्विचत्वारिंशदृचं द्वितीयं सूक्तं काण्वस्य मेधातिथेराङ्गिरसस्य च प्रियमेधस्यार्षम् । शिक्षा विभिन्दो ' इत्यादिके द्वे मेधातिथेरेव । “स्वादवः सोमाः' इत्येषानुष्टुप् शिष्टा गायत्र्यः । इन्द्रो देवता । अन्त्ये द्वे ऋचौ विभिन्दोर्दानस्तुतित्वात्तद्देवताके । तथा चानुक्रान्तम् -- इदं वसो द्विचत्वारिंशन्मेधातिथिराङ्गिरसश्च प्रियमेधः स्वादवोऽनुष्टुबन्त्याभ्यां मेधातिथिर्विभिन्दोर्दानं तुष्टाव' इति । गतः सूक्तविनियोगः । ज्योतिष्टोमे मरुत्वतीय आद्यस्तृचोऽनुचरः। सूत्र्यते हि- इदं वसो सुतमन्ध इति मरुत्वतीयस्य प्रतिपदनुचरौ' (आश्व. श्रौ. ५. १४) इति । द्वितीये रात्रिपर्याये ब्रह्मशस्त्रेऽयमेव स्तोत्रियस्तृचः । सूत्रितं च- इदं वसो सुतमन्ध इन्द्रेहि मत्स्यन्धसः' (आश्व. श्रौ. ६. ४) इति । अयमेव चतुर्थेऽहन्यपि मरुत्वतीयस्यानुचरस्तृचः । सूत्रितं च -- तं त्वा यज्ञेभिरीमह इदं वसो सुतमन्ध इति मरुत्वतीयस्य प्रतिपदनुचरौ ' (आश्व. श्रौ. ७. ११) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 2 (622)  
 Indra (1–40), Vibhindu’s Dānastuti (41–42)  
@@ -23,7 +23,7 @@ appears to be Indra who is addressed in a subordinate clause in the 2nd person i
 cludes the hymn with a sexual innuendo: two “daughters of joy” (a phrase that goes  neatly into French as filles de joie “prostitutes”) have also been given to the poet.  These may indeed be two women, but since they are called “milk-strong,” it is quite  possible that the poet is referring to the two breasts of one woman. If so, this verse  responds directly to VIII.1.34, where the woman of the poet praises his member, and  recalls IV.32.22-24, with a likewise disguised reference to the breasts of a woman  given to the poet in payment for his verse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

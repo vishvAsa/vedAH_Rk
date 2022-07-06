@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ जा꣡यमानः परमे꣡ वि꣡ओमनि  
 व्रता꣡नि अग्नि꣡र् व्रतपा꣡ अरक्षत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वैश्वानरो꣡ महिना꣡ ना꣡कम् अस्पृशत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि । अ॒न्तरि॑क्षम् । अ॒मि॒मी॒त॒ । सु॒ऽक्रतुः॑ । वै॒श्वा॒न॒रः । म॒हि॒ना । नाक॑म् । अ॒स्पृ॒श॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -118,42 +118,42 @@ genre M
 **सः** वैश्वानरः **अग्निः** **व्रतपाः** व्रतस्य पालकः **परमे** उत्कृष्टे **व्योमनि** व्योम्न्याकाशे **जायमानः** सूर्यात्मना प्रादुर्भवन् **व्रतानि** कर्माणि लौकिकानि वैदिकानि च **अरक्षत** रक्षति । **अन्तरिक्षं** च **वि** **अमिमीत** । एतदुपलक्षितांस्त्रीन् लोकान्निर्मितवान् । तथा **सुक्रतुः** शोभनकर्मा **वैश्वानरः** अग्निः **महिना** स्वमहिम्ना तेजसा **नाकं** द्युलोकम् **अस्पृशत्** स्पृशति स्म ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That **Agni** who, as soon as born in the highest heaven, the protector of sacred rites, protects the pious acts (of men), he has made he manifold firmament; **vaiśvānara**, the performer of good deeds, has attained heaven by his greatness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Even?) while being born in the highest distant heaven, Agni, as protector  of commandments [=Varuṇa], guarded the commandments.  
 He, the very effective one, measured out the midspace; Vaiśvānara  
 touched the vault with his greatness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Here Agni Vaiśvānara is “being born in highest distant heaven” (jā́yamanaḥ paramé vyòmani), presumably in the form of the sun, in contrast to VI.7.5 with the same participle but a different location: jā́yamānaḥ pitrór upásthe “being born in the lap of your parents,” usually a kenning for the ritual kindling sticks, so that VI.7.5 refers to the kindling of the ritual fire. In that vs. Agni found the sun (“beacon of the days”), which was therefore distinct from him, and in the next vs. (VI.7.6) the backs of heaven were measured out by the sun as an organ -- the eye -- of Agni Vaiśvānara (vaiśvānarásya vímitāni cákṣasā, sā́nūni diváḥ). Only in the last vs. of that hymn, VI.7.7, did Agni Vaiśvānara himself measure out the cosmos and take on his usual solar aspect. The two pādas VI.7.7a (ví yó rájāṃsy ámimīta sukrátuḥ) and our VI.8.2c (vy àntarikṣam amimīta sukrátuḥ) are almost identical, but the former represents the resolution of the disjunction between Agni Vaiśvānara and the sun, while no such disjunction is found in our hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That Agni, when in loftiest heaven he sprang to life, Guardian of Holy Laws, kept and observed them well.  
      Exceeding wise, he measured out the firmament. Vaisvanara attained to heaven by mightiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im höchsten Himmel geboren wachte Agni über die Opferregeln als ihr Hüter. Der Klugsinnige maß den Luftraum aus, Vaisvanara reichte mit seiner Größe bis zum Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren, Agni, in dem höchsten Himmelsraum, Gesetzes Hüter schirmte die Gesetze er, Durchmass mit schöner Wirksamkeit den Raum der Luft; des Männerhortes Grösse stieg zum Himmel an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рождаясь на высшем небе, этот  
 Агни, хранитель заветов, защитил заветы.  

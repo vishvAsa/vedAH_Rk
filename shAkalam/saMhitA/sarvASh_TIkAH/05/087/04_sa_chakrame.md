@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ चक्रमे महतो꣡ नि꣡र् उरुक्रमः꣡  
 समान꣡स्मात् स꣡दस एवया꣡मरुत्  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 जि꣡गाति शे꣡वृधो नृ꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 य॒दा । अयु॑क्त । त्मना॑ । स्वात् । अधि॑ । स्नुऽभिः॑ । विऽस्प॑र्धसः । विऽम॑हसः । जिगा॑ति । शेऽवृ॑धः । नृऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -141,14 +141,14 @@ genre M
 **सः** मरुद्गणः **महतः** प्रवृद्धात् **समानस्मात्** सर्वेषां साधारणात् **सदसः** स्थानात् अन्तरिक्षात् 'उरुक्रमः विस्तीर्णक्रमणः सन् **निः** **चक्रमे** निरगच्छत् । **एवयामरुत्** ऋषिः **यदा** **स्वात्** स्वकीयस्थानात् । **अधि** इति पञ्चम्यर्थानुवादी । **त्मना** आत्मनैव **स्नुभिः** गन्तृभिः **नृभिः** स्वनेतृभिरश्वैः **अयुक्त** युक्तोऽभवत् आगमनप्रार्थनाय । अथ बहुवदुच्यते । तदानीं **विस्पर्धसः** विविधस्पर्धाः । अहं पुरतो गच्छाम्यहं पुरतो गच्छामीति तेषां स्पर्धा । अथवा विगतस्पर्धाः । न ह्येषां सार्धं स्पर्धकाः सन्ति । **विमहसः** विशिष्टबलाः **शेवृधः** शेवस्य सुखस्य वर्धयितारः **जिगाति** निर्गच्छन्ति । व्यत्ययेन एकवचनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That wide-spreading troop (of **Maruts**) has issued from a spacious common dwelling-plural ce, (where) evayāmarut (awaits them) when their car has been spontaneously harnessed with its rapid horses; and, emulous, vigorous, and conferring happiness, they sally forth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The wide-striding one [=Viṣṇu] has stridden forth from the great  
 common seat—Maruts on the march.  
@@ -156,7 +156,7 @@ When from his own (seat) upon the (mountains’) backs he has hitched  up by him
 kindness, with the superior men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “common seat” (samānásmāt sádasaḥ) is presumably one shared by Viṣṇu and the Maruts and is also presumably the same as the sadhástha- in the previous vs. (3c) -- perhaps the midspace? The standard interpr. (incl. mine) also assume the same seat (or a similar place) is the referent of svā́t ‘from his own’ in pāda c. For other exx. of the idiom √yuj + ABL. ‘yoke from’ with ‘seat’ in the abl., see Oldenberg
 
@@ -167,23 +167,23 @@ seems the best course.
 The published translation renders ádhi ṣṇúbhiḥ as “upon the (mountains’) backs,” but in accord with the standard sense of this phrase (e.g., V.60.7) and in harmony with the standard tr. I would now alter this to “along the (mountains’) backs.” This complicates the rendering of the rest of the clause, because there is no verb of motion, just ‘yoke’. Both Renou and Witzel Gotō supply an expression to provide this motion: Renou “(pour courir) à travers les hauteurs” and Witzel Gotō “(zur Ausfahrt) über die (Berg-)Rücken.” Reluctantly I would join them and supply something like “(to travel) along …” The standard explanation of śévṛdha- as a haplology of *śéva-vṛdha- (already Grassmann, endorsed by AiG I.279, tentatively also by EWA s.v. śéva-) seems correct, but this does not settle its sense. Cmpds in -vṛdha- have a range of senses, both transitive and intransitive, and of relationships to their 1st member, and none of the quite varied contexts in which śévṛdha- appears is sufficiently diagnostic. Several of them apply to Agni as the ritual fire just kindled (X.46.3, X.61.20 [the latter accented śevavṛdhá- ]); once (I.54.11) it is used of ‘brilliance’ (dyumná-) and once (III.16.2) of ‘riches’ (rā́yaḥ). The preponderance of the evidence, esp. the two “fire just born” passages, seems to point to an intransitive/passive reading of -vṛdha- and an instr. reading of śé(va)-, hence ‘growing strong through kindness/benevolence’. Although an intrans. reading of the published translation’s “strengthening with kindness’ is possible, this English expression is more likely to be read as transitive, and I would therefore alter the tr. to the clearer ‘growing strong …’ What this descriptor means in our passage is entirely unclear to me -- that the Maruts are treating Viṣṇu well and he thrives?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He of the Mighty Stride forth strode, Evayamarut, out of the spacious dwelling-place, their home in common.  
      When he, himself, hath yoked his emulous strong horses on heights, he cometh forth, joy-giving, with the Heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Weitschreitende ist von dem hohen gemeinsamen Sitz ausgeschritten, er, mit dem die Marut gern kommen. Wenn er in eigner Person von ihrem Stande weg angespannt hat und über die Höhen die wetteifernden ausgezeichneten Rosse lenkt, so kommt der Glückmehrende mit seinen Mannen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weithinschreitende [Vischnu] schritt hervor aus dem grossen gemeinsamen Sitze Evajämarut |, nachdem er aus eigner Macht mit sich verbunden hat auf den Berggipfeln die wetteifernden, glänzenden, kommt er segnend mit seinen Mannen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот широкошагающий шагнул из великого  
 Совместного седалища – (Вишну) вместе с быстродвижущимися Марутами.  

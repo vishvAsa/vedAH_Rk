@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्र ज्यो꣡तिर् अ꣡जस्रं  
 य꣡स्मिँ लोके꣡ सु꣡वर् हित꣡म्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 तस्मि॑न् । माम् । धे॒हि॒ । प॒व॒मा॒न॒ । अ॒मृते॑ । लो॒के । अक्षि॑ते । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatra*
 - \[adverb\]
@@ -125,14 +125,14 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे **पवमान** **यत्र** यस्मिँल्लोके **ज्योतिः** सर्वं तेजः **अजस्रं** सर्वदाविनश्वरं वर्तते । यस्मिन् च **लोके** **स्वः** आदित्याख्यं ज्योतिः **हितं** निहितमस्ति । **तस्मिन्** **अमृते** मरणधर्मरहिते अत एव **अक्षिते** अक्षीणे **लोके** मां सोमाभिषवं कुर्वन्तं **धेहि** निधेहि । तस्मात् मामुत्तमलोकं प्रापयितुं त्वम् इन्द्राय **पंरि** **स्रव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where light is perpetual, in the world in which the sun is plural ced, in that immortal imperishable world plural ce me, **Pavamāna**; flow, **Indu**, for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where the inexhaustible light is, in which world the sun is placed,  
 in that one place me, o self-purifying one, in the immortal,  
@@ -140,7 +140,7 @@ imperishable world.
 – O drop, flow around for Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -150,23 +150,23 @@ On the relationship between these vss. and their function in the hymn, see publi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavarnana, place me in that deathless, undecaying world  
      Wherein the light of heaven is set, and everlasting lustre shines. Flow, Indu, flow for Indra's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo das ewige Licht ist, in welche Welt die Sonne gesetzt ist, in diese versetze mich, o Pavamana, in die unsterbliche, unvergängliche Welt! Fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo unauslöschlich Licht erglänzt, wo Himmelsglanz entzündet ist, An den Ort bring mich, flammender, der ewig, unvergänglich ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где немеркнущий свет,  
 В (том) мире, где помещено солнце,  

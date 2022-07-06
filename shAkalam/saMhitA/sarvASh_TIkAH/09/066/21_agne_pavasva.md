@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने प꣡वस्व सुअ꣡पा  
 अस्मे꣡ व꣡र्चः सुवी꣡रियम्  
 द꣡धद् रयि꣡म् म꣡यि पो꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 दध॑त् । र॒यिम् । मयि॑ । पोष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -110,20 +110,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who are the doer of good, pour upon us brightness and fair-offspring; may he make me wealth and plural nty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, as a good worker, through your purification bring luster and an  abundance of heroes for us,  
 establishing in me wealth and thriving.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Here, despite the obj. phrase in b, pávasva lacks the expected ā́. It would technically be possible to take b with c: “establishing luster and an abundance of heroes for/in us, wealth and thriving in me,” which would leave pavasva intransitive. However, this seems artificial, and the existence of two 1st ps. pronouns in b and c, in different numbers, would be awkward. Moreover, 27c, with an independent dádhat clause, speaks in favor of separating b and c here.
 
@@ -141,7 +141,7 @@ The equation and poetic merging of these two ritual gods is found elsewhere, mos
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Skilled in thy task, O Agni, pour splendour with hero strength on us,  
      Granting me wealth that nourishes.
@@ -155,17 +155,17 @@ Giving increase and wealth to me.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Agni, du der Guteswirker, läutere uns Ansehen und die Meisterschaft herbei, mir Reichtum und Zuwachs bringend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut und Nahrung mir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

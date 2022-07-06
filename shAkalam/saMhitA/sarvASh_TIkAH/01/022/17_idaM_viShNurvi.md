@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ वि꣡ष्णुर् वि꣡ चक्रमे  
 त्रे᳐धा꣡ नि꣡ दधे पद꣡म्  
 स꣡मूळ्हम् अस्य पांसुरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सम्ऽऊ॑ळ्हम् । अ॒स्य॒ । पां॒सु॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
@@ -105,7 +105,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,13 +116,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Tredhā nidhadhe padam: the three paces of Viṣṇu imply the presence of Viṣṇu in the three regions of earth, air and heaven, in the forms of **Agni**, **Vāyu** and **Sūrya**, fire, wind and the sun. According to **Śākapūṇi**, the step was on earth, in the firmament, in heaven; according to Aurṇavābha on Samārohaṇa or the eastern mountain, on **Viṣṇupada** the meridian sky and **Gayaśiras** the western mountain, thus identifiying Viṣṇu with the Sun, and his three paces with the rise, culmination, and setting of that luminary
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Viṣṇu strode out this (world); three times he laid down a step:  
 (this world) is concentrated in his dusty (step).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through all this world strode Visnu; thrice his foot he planted, and the whole  
      Was gathered in his footstep's dust.
@@ -137,17 +137,17 @@ Thrice did he set down his foot;
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vishnu hat dieses All ausgeschritten, dreimal hat er seine Spur hinterlassen. In seiner staubigen Fußspur ist es zusammengehäuft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vischnu durchschritt die ganze Welt, trat dreimal nieder mit dem Fuss, An seinem Fussstaub ballt sie sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Через это шагнул Вишну.  
 Трижды запечатлел он (свой) след.  

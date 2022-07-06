@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ष्टये सदा꣡वृधं  
 सु꣡वर्मीळ्हेषु यं꣡ न꣡रः  
 ना꣡ना ह꣡वन्त ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 नाना॑ । हव॑न्ते । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
@@ -73,36 +73,36 @@ genre M;; repeated line
 हे यजमानाः युष्माकम् **अभिष्टये** साहाय्यार्थमभिगमनायाभिष्टये वा **सदावृधं** सर्वदा वर्धयन्तं सेवकान् स्वयं सर्वदा वर्धमानं वा हुव इति शेषः । **यं** **स्वर्मीळ्हेषु** संग्रामेषु **नरः** नेतारो मनुष्याः **नाना** बहुप्रकारं **हवन्ते** आह्वयन्ति **ऊतये** रक्षार्थं तं हुव इति शेषः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(I invoke him) to come to our help, whose might ever waxes more and more-- to whom men appeal foraid in various ways in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, ever-strengthening, whom men, every man for himself, call on in  (contests) whose prize is the sun,  
 for dominance and for help,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whom, ever furthering, in frays that win the light, in both the hosts  
      Men call to succour and to help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den stets Förderlichen, den die Menschen in den Kämpfen um die Sonne von verschiedenen Seiten um die Oberhand, um Beistand anrufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Hülfe den, der stets erquickt, den Männer in der Schlachten Drang, Um Beistand rufen hier und da,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

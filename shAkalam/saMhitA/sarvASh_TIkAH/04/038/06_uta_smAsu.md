@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्म आसु प्रथमः꣡ सरिष्य꣡न्  
 नि꣡ वेवेति श्र꣡यणिभी+ र꣡थानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रेणुं꣡ रे꣡रिहत् किर꣡णं ददश्वा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्रज॑म् । कृ॒ण्वा॒नः । जन्यः॑ । न । शुभ्वा॑ । रे॒णुम् । रेरि॑हत् । कि॒रण॑म् । द॒द॒श्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -117,20 +117,20 @@ genre M
 **उत** **स्म** अपि च खलु **आसु** असुरसेनासु **सरिष्यन्** सर्तुमिच्छन् **प्रथमः** प्रतमः उत्कृष्टतमो मुख्यः सन् **रथानां** **श्रेणिभिः** राजिभिर्युक्तः सन् **नि** **वेवेति** नितरां गच्छति । इतस्ततो धावति । क इवेति । उच्यते । **स्रजम्** । सृज्यते उत्पाद्यते रूपमनयेति स्रगलंकृतिः । तां **कृण्वानः** कुर्वाणः **जन्यो** **न** जनेभ्यो हितोऽश्व इव सुभ्वा । सुष्ठु भवतीति सुभ्वा शोभमानः ॥ **किरणम्** आस्यगतं खलीनं **ददश्वान्** दशन् **रेणुं** स्वपादघातजनितं **रेरिहत्** भृशं लेढि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And who, issuing forth the first in those encounters, rushes in various directions with rows of chariots; like an elegant (courser), friendly to man, decorated with a garland, raising the dust, and champing his bit.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And desiring to run first, he keeps bearing down upon them (fem.  [=mares?]), with the ranks of chariots,  
 garlanding himself like a resplendent groomsman, constantly licking  the dust, having bitten the grit.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referent and construction of āsu require discussion. Geldner (/Witzel Gotō) construe it with prathamáḥ (“first among these”) and supply “cows.” But this doesn’t make sense if the meaning is “desiring to run first among these,” because that conjures up a picture of the horse leading a stampede of cattle in a race -- surely not an ancient Indian sporting event or battle array! If the āsu is to be construed with the rest of its pāda, it should refer to the ranks of chariots in b (śréṇibhī ráthānām): śréṇi- is fem.
 
@@ -143,23 +143,23 @@ Geldner and Renou (EVP 15.163) render kiráṇam as ‘rein’ (Geldner Zügel, 
 Sāyaṇa. (āsyagataṃ khalīnam), though Renou appears to recant in his n. Neither etymology nor the other occurrences of the word (not so tr. by Geldner, e.g.) support this interpr., and context also favors a version of ‘dust’ (so Witzel Gotō ‘Stäubchen’). Note kirate reṇúm “scatters dust” in 7d, where the verb kirate echoes kiráṇa-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And, fain to come forth first amid these armies, this way and that with rows of cars he rushes,  
      Gay like a bridesman, making him a garland, tossing the dust, champing the rein that holds him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und um als erster unter ihnen zu laufen stürmt er mit den Wagenreihen auf die Kühe los. Er bekommt den Kranz wie der geputzte Brautwerber, Staub leckend, in den Zügel beißend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zuerst hinstrebend nun zu diesen Stämmen, kommt er herab in langen Wagenreihen, Gleichwie ein Freier, kranzgeschmückt und prächtig, Staubwolken leckend und das Stäubchen beissend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: стремясь бежать первым,  
 Он бросается (к коровам) вместе с рядами колесниц,  

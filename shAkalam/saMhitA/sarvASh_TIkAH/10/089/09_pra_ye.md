@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ये꣡ मित्र꣡म् प्रा꣡र्यम꣡णं दुरे꣡वाः  
 प्र꣡ संगि꣡रः प्र꣡ व꣡रुणम् मिन꣡न्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृ꣡षन् वृ꣡षाणम् अरुषं꣡ शिशीहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नि । अ॒मित्रे॑षु । व॒धम् । इ॒न्द्र॒ । तुम्र॑म् । वृष॑न् । वृषा॑णम् । अ॒रु॒षम् । शि॒शी॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -125,37 +125,37 @@ genre M
 **ये** **दुरेवाः** दुष्टगमना जनाः **मित्रं** देवं **प्र** **मिनन्ति** प्रहिंसन्ति **अर्यमणं** च देवं **प्र** मिनन्ति **संगिरः** समीचीनस्तुतिमतो मरुतश्च **प्र** मिनन्ति **वरुणं** च देवं **प्र** मिनन्ति तेषु **अमित्रेषु** शत्रुषु । तानुद्दिश्येत्यर्थः। हे **वृषन्** कामानां वर्षक **इन्द्र** त्वं **तुम्रं** गमनशीलं **वृषाणं** कामानां वर्षकम् **अरुषम्** आरोचमानं **वधं** वज्रम् ।  ‘ वधः वज्रः' इति वज्रमामसु पाठात् । **नि** **शिशीहि** तीक्ष्णीकुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Against those who sinfully offend against **Mitra**, **Aryaman**, your companons (the **Maruts**) and **Varuṇa**,against these your enemies sharpen, **Indra**, showerer (of benefits), your rapid showering radiant thunderbolt.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those of evil ways who transgress against Mitra [/an alliance] and  against Aryaman, against agreements and against Varuṇa—  
 grind your bulging bullish ruddy weapon of death down on those  
 without alliance (to us), o bullish Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men who lead evil lives, who break agreements, and injure Varuna, Aryaman and Mitra,-  
      Against these foes, O Mighty Indra, sharpen, as furious death, thy Bull of fiery colour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die in böser Absicht wider den Mitra, den Aryaman, gegen die Verträge, den Varuna fehlen, auf diese Unfreunde ziele deine starke Waffe, du Bulle Indra, die bullenhafte, feuerfarbige!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die bösgesinnt den Arjaman und Mitra und Varuna, die einigen, beleid'gen, Auf solche Feinde, starker Indra, schleudre die starke wucht'ge Flammenkeule nieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) злоумышленники, что предают Митру, Арьямана,  
 Пре(дают) обязательства, Варуну –  

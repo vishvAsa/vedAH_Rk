@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡स् ते अग्न इधते꣡ अ꣡नीकं  
 व꣡सिष्ठ शु꣡क्र दी꣡दिवः प꣡वाक  
 उतो꣡ न एभि꣡ स्तव꣡थैर् इह꣡ स्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 उ॒तो इति॑ । नः॒ । ए॒भिः । स्त॒वथैः॑ । इ॒ह । स्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -109,36 +109,36 @@ genre M
 **वसिष्ठ** श्रेष्ठ **शुक्र** शुभ्र **दीदिवः** दीप्त **पावक** शोधक हे **अग्ने** **ते** तव **अनीकं** तेजः **यः** **आ** **इधते** समेधयति तस्येव **नः** अस्माकम् **उतो** अपि च **एभिः** **स्तवथैः** स्तोत्रैः **इह** अस्मिन् यज्ञे **स्याः** भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Eminent, pure, radiating purifier, **Agni**, be present (at the sacrifice) of him who lights up your blaze, andat ours, (who address you) with these praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O best Agni—flaming, shining, pure—he who will kindle your face  here—  
 also because of these praise songs (of his) you should be here for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With him who lighteth up thy splendour, Agni, excellent, pure, refulgent, Purifier,  
      Be present, and with us through these our praises.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der dein Antlitz entflammt, o Agni, Bester, Heller, Leuchtender, Reiner, durch dessen Lobreden mögest du auch uns hier wohlgesinnt sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Männern, Agni, die dein Licht entzündet, o bester, heller, strahlender, entflammter, Und uns sei nahe hier durch diese Lieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто твой лик зажигает, о Агни,  
 О лучший, светлый, пламенный, чистый, –  

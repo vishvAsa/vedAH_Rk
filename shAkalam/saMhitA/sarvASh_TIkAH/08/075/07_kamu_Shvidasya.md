@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡म् उ ष्विद् अस्य से꣡नया  
 अग्ने꣡र् अ꣡पाकचक्षसः  
 पणिं꣡ गो꣡षु स्तरामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प॒णिम् । गोषु॑ । स्त॒रा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अस्य** **अग्नेः** **अपाकचक्षसः** अनल्पचक्षसोऽग्नेः **सेनया** ज्वालारूपया **गोषु** निमित्तेषु **कमु** **ष्वित्** कं खलु **पणिं** **स्तरामहे** । स्तरणं हिंसनम् । इदानीं बलिनमभिभवेमेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,34 +97,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The host = rays
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What Paṇi shall we lay low with his weapon, the weapon of Agni whose  eye is not fooled,  
 when cattle are at stake?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ápāka- see comm. ad I.110.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With missile of this Agni, his who looks afar, will we lay low  
      The thief in combat for the kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welchen Pani werden wir denn mit dem Flammenheere dieses Agni, der im Rücken Augen hat, zu Fall bringen im Kampf um die Kühe?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie? strecken wir durch das Geschoss des Agni hier, der fernhin strahlt, Den Dieb nicht bei den Kühen hin?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

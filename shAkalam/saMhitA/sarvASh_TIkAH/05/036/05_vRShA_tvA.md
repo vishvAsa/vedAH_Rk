@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा तुवा वृ꣡षणं वर्धतु द्यउ꣡र्  
 वृ꣡षा वृ꣡षभ्यां वहसे ह꣡रिभ्याम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृ꣡षक्रतो वृ꣡षा वज्रिन् भ꣡रे धाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । वृषा॑ । वृष॑ऽरथः । सु॒ऽशि॒प्र॒ । वृष॑क्रतो॒ इति॒ वृष॑ऽक्रतो । वृषा॑ । व॒ज्रि॒न् । भरे॑ । धाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -139,7 +139,7 @@ genre M
 हे इन्द्र **त्वा** त्वां **वृषा** वर्षित्री **द्यौः** द्योतयित्री स्तुतिः ( द्योततेर् दीव्यतेर् वा स्तुत्यर्थस्येदं रूपं), **वृषणं** कामानां वर्षकं त्वां **वर्धतु** वर्धयतु **वृषा** त्वं **वृषभ्यां** सेक्तृभ्यां **हरिभ्यां** वहसे यज्ञं प्रत्युह्यसे हे **सुशिप्र** शोभन-हनो **वृष-क्रतो** वर्षण-कर्मन् हे **वज्रिन्** वज्र-युक्तेन्द्र स त्वं वृषा **वृष-रथश्** च सन् **नो** ऽस्मान् **भरे** सङ्ग्रामे भरण-वति यज्ञे वा **धाः** धारय ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,36 +150,36 @@ genre M
 A plural y on the word, **vṛṣā**, to rain or shower
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let bullish heaven strengthen you, the bull; as bull you travel with your  two bullish fallow bays.  
 As bull with a bullish chariot, well-lipped one, as bull with bullish will,  you of the mace, set us up in loot.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take cd as a single clause (contra Geldner [/Witzel Gotō]), because the sá with 2nd ps. ref.
 
 that opens c is easily explained if it’s construed with the imperatival 2nd sg. injunctive dhāḥ at the end of d, but would otherwise be anomalous. See my “sa figé.” Strictly speaking, vṛ́ṣakrato is of course a voc. In the published translation I render it as nom., because of the parallelism vṛ́ṣā vṛ́ṣarathaḥ … vṛ́ṣakrato vṛ́ṣā, with 2 nom. vṛ́ṣā adjoining 2 bahuvrīhis with vṛ́ṣa- as 1st member.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the strong Heaven make thee the Strong wax stronger: Strong, thou art borne by thy two strong Bay Horses.  
      So, fair of cheek, with mighty chariot, mighty, uphold us, strong-willed, thunderarmed, in battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der bullenhafte Himmel soll dich, den Bullen, stärken. Als Bulle fährst du mit den bullengleichen Falben. Du bist unser Bulle mit dem Bullenwagen, du Schönlippiger. Du Bullenmutiger verhilf uns als Bulle zur Beute, O Keulenträger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir geb der Himmel Kraft, der Stier dem Stiere, du fährst, ein Stier, mit beiden rothen Stieren, Schönlipp'ger Stier, gib mit dem Stier, dem Wagen stierkräft'ger Blitzer, du, der Stier, uns Beute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык-небо да усилит тебя, быка!  
 Бык, ты ездишь на паре буланых быков.  

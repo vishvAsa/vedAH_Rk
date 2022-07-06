@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡म् एतं꣡ तुवं꣡ युवते कुमार꣡म्  
 पे꣡षी बिभर्षि म꣡हिषी जजान  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पश्यं जातं꣡ य꣡द् अ꣡सूत माता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पू॒र्वीः । हि । गर्भः॑ । श॒रदः॑ । व॒वर्ध॑ । अप॑श्यम् । जा॒तम् । यत् । असू॑त । मा॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
@@ -128,7 +128,7 @@ genre M
 अत्राग्नेरुत्पाद्यमानत्वात् कुमारशब्देन व्यवहारः । हे **युवते** **त्वं** **कमेतं** **कुमारं** **पेषी** हिंसिका पिशाचिका सती **बिभर्षि** । एवं वृशाख्यो महर्षिः कशिपुनाच्छन्नम् अग्नेर्हरो ब्रूते । त्वयानुत्पादितत्वात् धारणमनुचितमित्यर्थः। **महिषी** महती पूजनीयारणिः एनं **जजान** अजनयत् । तदेवाह। **गर्भः** शिशोर्ग्राहकोऽरण्याः संबन्धी गर्भः **हि** यस्मात् **पूर्वीः** **शरदः** गताननेकान् संवत्सरान् **ववर्ध** ववृधे । अहं च ततो **जातम्** **अपश्यम्** । **यत्** यस्मात् **माता** अरणिः **असूत** उदपादयत् । राजकुमारपक्षे हे युवते भूदेवि कमेतं कुमारं पेषी सती बिभर्षि । अवशिष्टं कुमारजननपरतया योज्यम् । एवमुत्तरत्रापि कुमाराग्निहरसोः परत्वेन यथोचितं व्याख्येयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,35 +139,35 @@ genre M
 The allusion to the product of fire by attrition is blended with reference to the circumstances narrated in the legend described in the notes of the previous verse
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Young woman, who is this child whom you carry as his wet nurse? The  chief wife has given birth to him,  
 for the embryo grew strong through many autumns, and I saw him  
 (newly) born, when his mother bore him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What child is this thou carriest as handmaid, O Youthful One? The Consort-Queen hath bome him.  
      The Babe unborn increased through many autumns. I saw him born what time his Mother bare him.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Who is that boy, O young woman, whom thou, the Peshî 1, carriest? It is the queen who has borne him. Through many autumns the fruit of the womb has increased. I saw him born when his mother gave birth to him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was für einen Knaben trägst du da, o Jugendliche, als Stiefmutter? Die Fürstgemahlin hat ihn erzeugt, denn viele Herbste ist die Leibesfrucht gewachsen. Ich sah den Neugeborenen, als die Mutter ihn zur Welt brachte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie trägst du junge bergend noch dies Knäblein als Pflegerin? die Büffelin gebar es; Denn viele Jahre wuchs die Frucht im Leibe, ich sah das Kind, als es gebar die Mutter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что это за мальчика ты несешь, молодка,  
 Как злоумышленница? Это главная жена (его) родила,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् अ꣡त्कं कव꣡ये शिश्नथं ह꣡थैर्  
 अहं꣡ कु꣡त्सम् · आवम् आभि꣡र् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 न꣡ यो꣡ रर꣡ आ꣡रियं ना꣡म द꣡स्यवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒हम् । शुष्ण॑स्य । श्नथि॑ता । वधः॑ । य॒म॒म् । न । यः । र॒रे । आर्य॑म् । नाम॑ । दस्य॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -126,36 +126,36 @@ genre M
 **अहम्** इन्द्रः **अत्कम्** आच्छादकं शत्रुपुत्रं **कवये** उशनस ऋषये तस्य सुखवासाय **हथैः** बहुप्रकारैः प्रहारैः तत्साधनैरायुधैर्वा **शिश्नथं** ताडितवानस्मि । श्नथतिर्वधकर्मा । किंच **अहं** **कुत्सम्** एतन्नामकमृषिम् **आभिरूतिभिः** वधादिरूपैः।  ‘ कुत्साय शुष्णमशुषं नि बर्हीः ' (ऋ. सं. ४, १६. १२) इत्यादि मन्त्रान्तरम् । रक्षणैः **आवम्** अरक्षम् । पूर्वमेव कृतान्यपि रक्षणानीदानीमिव कृतानीत्यनुवदति । कुत्सार्थं **शुष्णस्य** एतन्नामकस्यासुरस्य **श्नथिता** हिंसिता । तस्य हननायेत्यर्थः । **वधः** वज्रं **यमं** प्रहरणाय नियमितवानस्मि । अपि च **अहम्** **आर्यम्** आर्यसंबन्धि। आर्याणां देयमित्यर्थः । तादृशं **नाम** । उदकनामैतत् । नामकमुदकं **दस्यवे** शत्रवे उपक्षपयित्रे **न** **ररे** न दत्तवानस्मि । यद्वा । आर्यं पूज्यमित्यसाधारणं नाम दस्यवे न दत्तवानस्मि । अत्रेन्द्रस्यात्मस्तुतौ कुत्सरक्षणशुष्णवधादिकम् आवः कुत्समिन्द्र यस्मिञ्चाकन्' (ऋ. सं. १. ३३. १४)  ‘ शुष्णं पिप्रुं कुयवं वृत्रमिन्द्र ' ( ऋ. सं. १. १०३. ८) इत्यादिषु बहुधा प्रपञ्चितम् । अतोऽत्र ग्रन्थविस्तरभयान्न वक्ष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I smote Atka with many weapons for the defence of the sage; with those protections I preserved **Kutsa**;I am the slayer of **Śuṣṇa**; I grasped the thunderbolt I who have not given the water (**nāma**) of the **Āryas** to theDasyu.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I pierced the cloak for the poet with my thrusts; I helped Kutsa with  this help:  
 I, as the piercer of Śuṣṇa, held the deadly weapon—I, who did not give  the Ārya name to the Dasyu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With deadly blows I smote Atka for Kavi's sake; I guarded Kutsa well with these saving helps.  
      As Susna's slayer I brandished the dart of death: I gave not up the Aryan name to Dasyu foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich gab ihm mein Gewand, für den Kavi traf ich den Susna mit meinen Streichen; ich stand dem Kutsa mit diesen Hilfen bei. Ich, der Durchbohrer des Susna, hielt ihm die Waffe, der ich den arischen Namen dem Dasyu nicht preisgab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Hieben schlug den Atka für den Kavi ich, mit solchen Hülfen stand ich auch dem Kutsa bei; Çuschna zu tödten lenkte ich das Mordgeschoss, nicht übergab dem Feinde ich den Arier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я (дал ему свою) одежду, для Кави я пронзил (Шушну) ударами.  
 Я помог Кутсе этими поддержками.  

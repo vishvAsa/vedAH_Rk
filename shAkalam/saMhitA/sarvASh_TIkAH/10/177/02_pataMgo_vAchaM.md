@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पतंगो꣡ वा꣡चम् म꣡नसा बिभर्ति  
 तां꣡ गन्धर्वो꣡ अवदद् ग꣡र्भे अन्तः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋत꣡स्य पदे꣡ कव꣡यो नि꣡ पान्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ताम् । द्योत॑मानाम् । स्व॒र्य॑म् । म॒नी॒षाम् । ऋ॒तस्य॑ । प॒दे । क॒वयः॑ । नि । पा॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pataṅgo* ← *pataṅgaḥ* ← *pataṃga*
 - \[noun\], nominative, singular, masculine
@@ -129,7 +129,7 @@ popular
 **पतङ्गः** सूर्यः **वाचं** त्रयीरूपां **मनसा** प्रज्ञया **बिभर्ति** धारयति । श्रूयते हि--- ऋग्भिः पूर्वाह्णे दिवि देव ईयते यजुर्वेदे तिष्ठति मध्ये अह्नः सामवेदेनास्तमये महीयते वेदैरशून्यस्त्रिभिरेति सूर्यः' (तै. ब्रा.३.१२.९.१ ) इति । **ताम्** एव वाचं **गर्भे** शरीरस्य मध्ये वर्तमानः **गन्धर्वः** । गाः शब्दान् धारयतीति गन्धर्वः प्राणवायुः । **अन्तः** मध्ये **अवदत्** वदति प्रेरयति ।  ‘ मारुतस्तूरसि चरन्मन्द्रं जनयति स्वरम् ' ( पा. शि. ७) इति स्मरणात् । **द्योतमानां** स्वर्यं स्वर्गमयित्रीं स्वर्गाय हितां वा **मनीषां** मनस ईशित्रीं **तां** त्रयीरूपां वाचम् **ऋतस्य** यज्ञस्य सत्यभूतस्य सूर्यस्य वा **पदे** स्थाने **कवयः** मेधाविन ऋषयः **नि** **पान्ति** । अध्यापनेन नितरां रक्षन्ति । यद्वा । पतङ्गः सर्वोपाधिशून्यो व्याप्तः परमात्मा। स सृष्ट्यादौ वाचं मनसा बिभर्ति । कानि कानि स्रष्टव्यानीति पर्यालोचनेन मनसा सकलार्थप्रतिपादकं वेदं परामृष्टवानित्यर्थः । स्मर्यते हि -- वेदशब्देभ्य एवादौ निर्ममे स महेश्वरः' इति । गर्भे हिरण्मये ब्रह्माण्डेऽन्तर्वर्तमानो गन्धर्वो हिरण्यगर्भस्तां वाचमवदत् प्रथममुच्चारितवान् । द्योतमानत्वादिगुणविशिष्टां तां वाचं कवयः क्रान्तदर्शिनो देवा ऋतस्य सत्यस्य ब्रह्मणः पदे स्थाने नि पान्ति निभृतं रक्षन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,30 +142,30 @@ Sacred word: vāk: the three **Vedas**;**Taittirīya** **Brāhmaṇa** 3.12.9: i
 Gandharva: from gaḥ (voices), and dhr. (to hold) = the breath of life
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bird carries speech by mind. The Gandharva spoke it within  
 the womb.  
 The sage poets protect the flashing, reverberating inspired thought in the  footprint of truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The flying Bird bears Speech within his spirit: erst the Gandharva in the womb pronounced it:  
      And at the seat of sacrifice the sages cherish this radiant, heavenly-bright invention.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vogel trägt im Geiste die Rede, diese verkündete der Gandharva im Mutterleib. Diese aufblitzende, sonnenhafte Erkenntnis hüten die Seher an der Stätte der Wahrheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Vogel trägt das Lied in seinem Herzen, im Mutterleibe sang es der Gandharve Dies glänzende, dies himmlische Gebetlied bewahren Seher an der heil'gen Stätte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В мысли Патанга несет речь.  
 Ее провозгласил Гандхарва в утробе.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवां꣡ चिद् धि꣡ ष्मा अश्विनाव् अ꣡नु द्यू꣡न्  
 वि꣡रुद्रस्य प्रस्र꣡वणस्य सातउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 का꣡राधुनीव चितयत् सह꣡स्रैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒गस्त्यः॑ । न॒राम् । नृषु॑ । प्रऽश॑स्तः । कारा॑धुनीऽइव । चि॒त॒य॒त् । स॒हस्रैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
@@ -109,7 +109,7 @@ genre M
 हे **अश्विनौ** **युवां** । **चिद्धि** **ष्म** इति त्रयः पूरणाः । **अनु** **द्यून** प्रतिदिनं **विरुद्रस्य** विशिष्टोष्णरूपदुःखद्रावणस्य विविधरोरूयमाणद्रवणवतो वा **प्रस्रवणस्य** वृष्ट्युदकसंस्त्यायस्य **सातौ** लाभे निमित्तभूते सति **अगस्त्यः** एतन्नामा महर्षिः **नरां** नेतॄणां कर्मनिर्वाहकानां मनुष्याणां **नृषु** येषु तादृशाः मनुष्याः सन्ति तेषु **प्रशस्तः** प्रशस्यतरोऽयं **सहस्रैः** अपरिमितैः स्तोत्रैः **चितयत्** चेतयति स्तुत्या प्रबोधयति । तत्र दृष्टान्तः । **काराधुनीव** । कारा शब्दः । तस्य धूनयितोत्पादयिता शङ्खादिः स इव । यद्वा । एतदप्यगस्त्यविशेषणम् । कारः शब्दयिता होत्रादिः । तस्य धुनिः कम्पयिता प्रेरकः इव । इवेति संप्रत्यर्थे ।' अस्त्युपमार्थस्य संप्रत्यर्थे प्रयोगः ' ( निरु. ७. ३१ ) इति निरुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,14 +122,14 @@ Like an instrumental ument of sound: kāradhunīva = from **kārā**, sound, **�
 **Dhuni** = genitive rating, utpādayitā such as the conch-shell and the like, śaṅkhādi sa iva
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And since (Agastya summons) you, o Aśvins, through the days at the  winning of the first outpouring of (soma, offered) apart from the  
 Rudras [=Maruts],  
 Agastya, proclaimed of men among men as if with a tumult of praise  songs [?], is conspicuous by his thousands (of cows).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Based on my interpr. of the structure of vss. 7-8, I supply Agastya as the subject of 8ab, which not only lacks an overt subject but also an overt verb, for the reasons sketched above. Geldner supplies “(opferte er),” Witzel Gotō “(ruft man an)”; I favor something like the latter (my ‘summons’), on the somewhat fragile basis that yuvā́m is fairly frequently the obj. of √hū ‘call, summon’ (cf., e.g., I.47.4=VIII.5.17 yuvā́ṃ havante aśvinā).
 
@@ -160,23 +160,23 @@ With the standard tr. I take anindyā in 7c as a predicted voc., with c and d se
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 You of a truth day after day, O Asvins, that he might win the very plenteous torrent,  
      Agastya, famous among mortal heroes, roused with a thousand lauds like sounds of music.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn euch opferte er doch täglich, ihr Asvin, als er das Trankopfer ohne die Rudrasöhne gewann. Agastya, der unter den Männern der gepriesene der Männer ist, zeichnet sich wie ..... durch Tausende aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn euch hat täglich auch gerühmt, o Ritter, bei jeder Spende glanzbegabten Trankes Agastia, der Männer Ruhm bei Männern, mit tausend Liedern gleich der Kriegstrompete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь он, о Ашвины, (приносил) вам (жертвы) день за днем,  
 Когда добился выливающегося (из цедилки сомы) без Рудр.  

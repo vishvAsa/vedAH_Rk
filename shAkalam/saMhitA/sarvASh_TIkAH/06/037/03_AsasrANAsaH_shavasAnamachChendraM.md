@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आसस्राणा꣡सः शवसान꣡म् अ꣡छ  
 इ꣡न्द्रं सुचक्रे꣡ रथि꣡यासो अ꣡श्वाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नू꣡ चिन् नु꣡ वायो꣡र् अमृ꣡तं वि꣡ दस्येत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । श्रवः॑ । ऋज्य॑न्तः । व॒हे॒युः॒ । नु । चि॒त् । नु । वा॒योः । अ॒मृत॑म् । वि । द॒स्ये॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āsasrāṇāsaḥ* ← *āsṛ* ← *√sṛ*
 - \[verb noun\], nominative, plural
@@ -118,7 +118,7 @@ genre M
 **आसस्राणासः** परितो गच्छन्तः **रथ्यासः** रथे युक्ता: **अश्वाः** **ऋज्यन्तः** ऋजुगमनाः सन्तः **सुचक्रे** शोभनचक्रे रथेऽवस्थितं **शवसानं** बलमिवाचरन्तम् **इन्द्रं** **श्रवः** श्रवणीयमस्मदीयं हविः **अच्छ** आभिमुख्येन **अभि** **वहेयुः** अवहेयुः । नू चित् इति निपातो निषेधेऽत्र वर्तते । **अमृतम्** अमरणहेतुभूतं सोमलक्षणं हविः **वायोः** हेतोः **नु** इदानीं 'नू **चित्** नैव **वि** **दस्येत्** क्षयं न प्राप्नुयात् । पात्रे गृहीतः सोमो वायुना शुष्यति ततः पुरैव तत्पानार्थमश्वा इन्द्रमभिवहेयुरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,14 +129,14 @@ genre M
 Soma, it is said, if allowed to remain some time in the vessel containing it, may be dried up the air; Indra is therefore urged to drink it before it dries up
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Making their run here, the chariot-horses should convey powerful Indra  on (the chariot) with good wheels,  
 as they are charging straight on toward fame. Never should Vāyu’s  
 immortal (drink) give out.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is not possible to respect the hemistich boundary in tr. without awkwardness.
 
@@ -151,23 +151,23 @@ The implicit identification of Indra’s horses with the soma drops is reinforce
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bringing us hitherward all-potent Indra on well-wheeled chariot, may the Steeds who bear him  
      Convey him on the road direct to glory, and ne'er may Vayu's Amrta cease and fail him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hereilend sollen den gewaltigen Indra auf schönrädrigem Wagen die Wagenrosse gestreckten Laufes zum Ehrenpreis fahren. Niemals soll des Vayu Nektar ausgehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hereilend mögen den gewalt'gen Indra die Ross' am Wagen mit den schönen Rädern Im Lauf hinschiessend zu dem Kampfpreis fahren; nie mög' des Vaju Göttertrank uns ausgehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть колесничные кони, стремительные в беге,  
 На прекрасноколой (колеснице) могущественного Индру  

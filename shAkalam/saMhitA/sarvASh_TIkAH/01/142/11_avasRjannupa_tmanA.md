@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवसृज꣡न्न् उ꣡प त्म꣡ना  
 देवा꣡न् यक्षि वनस्पते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवो꣡ देवे꣡षु मे꣡धिरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒ग्निः । ह॒व्या । सु॒सू॒द॒ति॒ । दे॒वः । दे॒वेषु॑ । मेधि॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avasṛjann* ← *avasṛjan* ← *avasṛj* ← *√sṛj*
 - \[verb noun\], nominative, singular
@@ -94,7 +94,7 @@ genre M;; repeated line
 हे **वनस्पते** वनानां पालक यूपाभिमानिदेव अग्ने **अवसृजन्** स्वैरं वर्तयन् ऋत्विजः स्वस्वकर्मसु व्यापारयन् **त्मना** आत्मना **देवान्** हविर्भुजः **उप** **यक्षि** उपेत्य यज ॥ ‘ बहुलं छन्दसि' इति शपो लुक् ॥ **देवः** द्योतमानः **मेधिरः** मेधावान् **अग्निः** आहवनीयः **देवेषु** उभयेषां मध्ये **हव्या** हवींषि **सुसूदति** प्रेरयति, स्वीकरोति । 'षूद क्षरणे '। ‘ बहुलं छन्दसि ' इति शपः श्लुः । ‘ लेटोऽडाटौ ' इति अडागमः ॥ यद्वा । यूपाग्निरेव परोक्षेणोच्यते । सोऽग्निर्हवींषि सुष्ठु स्वीकरोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,34 +105,34 @@ genre M;; repeated line
 Vanaspati: the fire,or Agni of the sacrificial **post**, or **yupa**, from its being of timber
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Releasing (the sacrificial victim) to the gods, sacrifice to the gods by  yourself, o Lord of the Forest.  
 Agni sweetens the oblations, the wise god among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vanaspati, give forth, thyself, and call the Gods to sacrifice.  
      May Agni, God intelligent, speed our oblation to the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Letting go (the sacrificial food to the gods) sacrifice by thyself to the gods, O tree 1. May 2 Agni make the offerings ready 3, the god among the gods, the wise one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfertier für die Götter freigebend opfere den Göttern selbst, du Baum! Agni macht die Opferspenden schmackhaft, der weise Gott unter den Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Göttern opfre, Waldesherr, ergiessend recht den Opfertrank, Die Güsse machet Agni süss, der Gott den Göttern weisheitsvoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Само отпуская (жертвенное животное),  
 Почти богов, о  

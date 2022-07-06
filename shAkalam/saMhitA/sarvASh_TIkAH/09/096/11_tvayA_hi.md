@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡या हि꣡ नः पित꣡रः सोम पू꣡र्वे  
 क꣡र्माणि चक्रुः꣡ पवमान धी꣡राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वीरे꣡भिर् अ꣡श्वैर् मघ꣡वा भवा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 व॒न्वन् । अवा॑तः । प॒रि॒ऽधीन् । अप॑ । ऊ॒र्णु॒ । वी॒रेभिः॑ । अश्वैः॑ । म॒घऽवा॑ । भ॒व॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -133,7 +133,7 @@ genre M
 हे **पवमान** पूयमान **सोम** **धीराः** कर्मणि कुशलाः प्राज्ञाः **नः** अस्माकं **पितरः** **पूर्वे** पुरातना अङ्गिरसः **त्वया** । हिरवधारणे । त्वया सहायेनैव **कर्माणि** अग्निष्टोमादीनि **चक्रुः** कृतवन्तः । किंच **वन्वन्** स्तोतॄन संभजन् । यद्वा । वनतिर्हिंसार्थः। शत्रून् हिंसन’ । **अवातः** तैरभिगतस्त्वं **परिधीन्** । परिधीयत एभिः सर्वमिति परिधयो राक्षसाः। तान् **अपोर्णु** अपोर्णुहि अपच्छादय । जहीति यावत् । ऊर्णोतेर्लोटि छान्दसो हेर्लुक् । एतादृशस्त्वं **नः** अस्माकं पुत्रादियुक्तं धनं प्रयच्छेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,35 +144,35 @@ genre M
 Yourself unharmed: **avataḥ** = tair, i.e. śatrubhir abhigataḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because with you, self-purifying Soma, our insightful forefathers  performed their (ritual) acts,  
 open up the barriers, vanquishing but unvanquished; become a  
 benefactor to us with heroes and with horses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner (see n. 11c) and Ober (I.311 with n. 791) point out, the first hemistich depicts the Vala myth, with “forefathers” (pitáraḥ) a reference to the Aṅgirases - made clearer by a similar but more explicit passage in the next hymn, IX.97.39. This mythic episode - the forefathers opening the Vala cave with the help of soma - provides the model for the appeal in c, for Soma to open the paridhí- (paridhī́m̐r áporṇu): paridhí- is used explicitly of the barriers of the Vala cave in I.52.5. But as Geldner suggests (n. 11c), the poet here is calling on Soma to open up the livestock pens and provide us with the animals therein.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For our sage fathers, Soma Pavamana, of old performed, by thee, their sacred duties.  
      Fighting unvanquished, open the enclosures: enrich us with large gifts of steeds and heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn mit dir, o Soma, haben unsere weisen Väter vormals ihre Taten getan, o Pavamana. Ein unüberwundener Überwinder öffne du die Schranken; sei gegen uns freigebig mit Söhnen und Rossen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn unsre alten weisen Väter thaten durch dich, o heller Soma, ihre Werke, Die Wehren brich unangefochten, siegreich, sei mächtig uns durch Helden und durch Rosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это с тобой, о сома, наши древние отцы  
 Совершали обряды, о Павамана, (эти) мудрые.  

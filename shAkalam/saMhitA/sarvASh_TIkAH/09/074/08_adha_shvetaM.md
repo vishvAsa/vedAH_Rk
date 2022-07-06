@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध श्वेतं꣡ कल꣡शं गो꣡भिर् अक्तं꣡  
 का꣡र्ष्मन्न् आ꣡ वाजी꣡ अक्रमीत् ससवा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कक्षी꣡वते शत꣡हिमाय गो꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । हि॒न्वि॒रे॒ । मन॑सा । दे॒व॒ऽयन्तः॑ । क॒क्षीव॑ते । श॒तऽहि॑माय । गोना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 **अध** अथानन्तरं **श्वेतं** संप्रति सोमसंसर्गात् श्वेतवर्णं **गोभिः** उदकैः **अक्तं** संपृक्तं द्रोणकलशं **ससवान्** संभजन सोमः **आ** **अक्रमीत्** आक्रमते । **कार्ष्मन्**। कार्ष्मशब्दः काष्ठावचनः । आजिं धावन्तो योद्धारो यां गन्तुमिच्छन्ति तस्यां काष्ठायां **वाजी** कश्चिदश्वो युद्धं भजमान आक्रमीत् आक्रमते । सोमः काष्ठायां द्रोणकलशे पततीत्यर्थः । ततस्तस्मै सोमाय **देवयन्तः** देवानिच्छन्त ऋत्विजः **मनसा** **आ** **हिन्विरे** स्तुतीराभिमुख्येन प्रेरयन्ति । तत्र **शतहिमाय** बहुगमनाय **कक्षीवते** स्तोत्रकारिण एतन्नामकायर्षये सोमः **गोनां** गाः पशून् प्रेरयति । ' गोः पादान्ते ' (पा. . ७. १. ५७ ) इति नुडागमः । ‘ क्रियाग्रहणं कर्तव्यम्' इति संप्रदानसंज्ञा । चतुर्थ्यर्थे षष्ठी ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,14 +127,14 @@ genre M
 Successfully reaches: sasavān = saṃbhajan, enjoying, possessing; who has seen a hundred winters: śatahimāya = bahugamanāya, i.e. one who attains many things; elsewhere, śatahimāya = aparimita-**kālā**, lasting for an endless time
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And the racehorse, having won, has stridden to the gleaming white tub  anointed with cows, at the finish line.  
 Those serving the gods propel him with their mind. (Let there be a  
 hundred) cows for Kakṣīvant of a hundred winters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the triumphant realization of the quest set in motion in vs. 1. The race horse (vājī́) of 1b reappears here having won (sasavā́n) at the finish line (kā́rṣman) what it was seeking to win (síṣāsati) there - namely the milk, here given a very full expression: śvetáṃ [recurring from 7a] kaláśaṃ góbhir aktám “the gleaming white tub anointed with cows.” This first hemistich plus pāda c is the actual end of the hymn, and so this successful resolution of vs. 1 provides a thematic ring. Pāda c reintroduces the human ritual personnel, who propel Soma in his guise as racehorse—thus allowing the priest-poets to take some credit for the successful conclusion of the sacrifice, after having been shut out for most of the hymn. Pāda d is a snatch of a dānastuti, and vs. 9 seems an afterthought tacked onto the hymn. Or such is my analysis; most of the other tr. attempt to link the second hemistich with the first, syntactically and thematically. Most radically Geldner (fld. by Doniger), who makes d dependent on sasavā́n in b, with c a parenthetical intrusion. Maurer, by contrast, makes d the obj.
 
@@ -153,23 +153,23 @@ These two vss. seem to resolve the situation set up in vs. 1, esp. 1bc: the race
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, to the shining milk-anointed beaker, as to his goal, hath stepped the conquering Courser.  
      Pious-souled men have sent their giffi of cattle unto Kaksivan of the hundred winters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun ist er in die weiße, mit Milch gefärbte Kufe gegangen, der Preisrenner ist durchs Ziel gegangen, nachdem er für den hundertjährigen Kaksivat hundert Rinder gewonnen hat. - Im Herzen nach dem Gott verlangend sputen sie sich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt ist der Renner, nachdem er das gewünschte erlangt hat, zum Ziele der Rennbahn geschritten, in den mit Milch gesalbten weissen Krug; die frommen Männer haben gern dem hundertjährigen Kakschīvat Kühe zum Geschenk gesandt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот он (вошел) в белый, окрашенный коровьим (молоком) кувшин,  
 Скакун, выигравший (заезд), вступил на борозду.  

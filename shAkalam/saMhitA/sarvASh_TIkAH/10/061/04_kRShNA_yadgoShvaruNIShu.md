@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृष्णा꣡ य꣡द् गो꣡षु अरुणी꣡षु सी꣡दद्  
 दिवो꣡ न꣡पाता अश्विना हुवे वाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ववन्वां꣡सा न꣡ इ꣡षम् अ꣡स्मृतध्रू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वी॒तम् । मे॒ । य॒ज्ञम् । आ । ग॒त॒म् । मे॒ । अन्न॑म् । व॒व॒न्वांसा॑ । न । इष॑म् । अस्मृ॑तध्रू॒ इत्यस्मृ॑तऽध्रू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛṣṇā* ← *kṛṣṇa*
 - \[noun\], nominative, singular, feminine
@@ -129,7 +129,7 @@ genre M
 **कृष्णा** रात्रिः **यत्** यदा **अरुणीषु** अरुणवर्णासु **गोषु** **सीदत्** निवसति । उषा विभासनाय रथमधितिष्ठतीत्यर्थः । ‘ अरुण्यो गाव उषसाम् ' इति निरुक्तम् । उषःकाले हे **दिवो** **नपाता** दीप्यमानस्य स्वर्गस्य प्रकाशात्मकस्य यागस्य वा न पातयितारौ हे अश्विनौ **वां** **हुवे** आह्वये । **वीतं** कामयेथां **मे** **अन्नं** हविर्लक्षणम् । तदर्थं **मे** **यज्ञम्** **आ** **गतम्** आगच्छतम् । **इषम्** अन्नं **ववन्वांसा** **न** संभजमानावश्वाविव । तद्वदागतम् । कीदृशौ युवाम् । **अस्मृतध्रू** अस्मृतद्रोहौ मयि द्रोहमस्मरन्तौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ genre M
 Children of heaven: divo napāta = not making heaven to fall
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “When black (Night) is sitting among the ruddy cows (of Dawn), o  Aśvins, I call upon you two, the sons of heaven.  
 Pursue my sacrifice, come here to my food, like winners to refreshment,  as the two of whom no deception can be remembered.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call on you the Sons of Dyaus, the Asvins, that a dark cow to my red kine be added.  
      Enjoy my sacrifice, come to my viands contented, not deceiving expectation. '
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wann die Schwarze bei den roten Kühen sitzt, rufe ich euch, Asvin, Enkel des Himmels. Habet Lust zu meinem Opfer, kommet zu meiner Speise wie die Gewinner zum Mahle, bei denen man sich keines Trugs erinnern kann!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn die schwarze [Nacht] sich bei den rothen Kühen [den Strahlen der Morgenröthe] niederlässt, dann rufe ich euch beide, o Açvinen, die Söhne des Himmels; geniesst mein Opfer, kommt her zu meiner Speise, sie gern annehmend wie einen Labetrunk, die ihr das Verlangen nicht täuschet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

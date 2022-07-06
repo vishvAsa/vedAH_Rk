@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ ष्टुतः꣡ समि꣡धा यह्वो꣡ अद्यौद्  
 व꣡र्ष्मन् दिवो꣡ अ꣡धि ना꣡भा पृथिव्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ दूतो꣡ वक्षद् यज꣡थाय देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मि॒त्रः । अ॒ग्निः । ईड्यः॑ । मा॒त॒रिश्वा॑ । आ । दू॒तः । व॒क्ष॒त् । य॒जथा॑य । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -122,7 +122,7 @@ genre M
 उइतिपादपूरणः स्तुतः अस्माभिःस्तुतः समिधासमिन्धनेनयह्वोमहान् अग्निः प्रुथिव्याअधि उत्तरवेद्यां नाभानाभौमध्यप्रदेशे स्थितःसन् दिवःअन्तरिक्षस्य वर्ष्मन् वर्ष्मणिरूपे उदद्यौत् द्योतते मित्रः सर्वेषाम्मित्रभुतः ईड्यःस्तुत्यः मारिश्वा मातरिअन्तरिक्षे श्वसितिप्राणिति सूर्यरूपेण चेष्टते इतिमातरिश्वा अथवा मातरिअरण्यां श्वसितिनिवसतीतिमातरिश्वा यथाहयास्कः—मातर्य न्तरिक्षेश्वसितिमातर्याश्वनितीतिवा । दूतः देवानान्दूतःसन् यजथाय यज्ञायदेवानावक्षत् आवहतु ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ genre M
 Who respires in the mid-heaven: **mātariśvan**: mātari, antarikṣe; śvasiti, **sūrya** rūpeṇa ceṣṭate, who breathes in mid-heaven, or acts in the form of the sun; or, mātari may imply arṇye, in a forest, he who abides in the woods (**Nirukta** 7.26); also, mātariśvan = the wind, as in the next hymn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praised, the young one has flared up through his kindling, upon the  summit of heaven and the navel of earth.  
 To be invoked as Mitra and Mātariśvan, Agni as messenger will convey  the gods to the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Extolled, the Strong shone forth with kindled fuel to the earth's centre, to the height of heaven.  
      May Agni, Friend, adorable Matarisvan, as envoy bring the Gods unto our worship.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Receiving praise the vigorous one 1 has shone forth with his fuel, on heaven's summit, on the earth's navel. May Agni worthy of being magnified, (being) Mitra and Mâtarisvan, the messenger, carry hither the gods that they may receive our sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter Lobpreis ist der jüngste durch das Brennholz aufgeleuchtet zu des Himmels Höhe im Nabel der Erde. Als Mitra ist Agni anzubeten, der Matarisvan. Als Bote fahre er die Götter zur Verehrung her.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Flammen strahlte der gepries'ne, rasche zur Himmelshöhe auf der Erde Nabel, Agni, der Freund, der werthe Mutterschössling, als Bote fahr zum Opfer er die Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот прославленный, юный (Агни) вспыхнул благодаря дровам,  
 На вершине неба, на пупе земли.  

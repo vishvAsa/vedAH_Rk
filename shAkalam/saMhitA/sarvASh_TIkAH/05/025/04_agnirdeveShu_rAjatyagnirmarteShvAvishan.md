@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् देवे꣡षु राजति  
 अग्नि꣡र् म꣡र्तेषु आविश꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अग्निं꣡ धीभिः꣡ सपर्यत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । नः॒ । ह॒व्य॒ऽवाह॑नः॑ । अ॒ग्निम् । धी॒भिः । स॒प॒र्य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -104,41 +104,41 @@ genre M
 यः **अग्निः** **देवेषु** देवानां मध्ये **राजति** देवतारूपेण प्रकाशते । यः **अग्निः** **मर्तेषु** मनुष्येषु **आविशन्** आहवनीयादिरूपेण प्रविष्टो भवति । यः **अग्निः** **नः** अस्माकं **हव्यवाहनः** भवति अस्मदीयेषु यज्ञेषु देवतार्थं हव्यानां वोढा भवति । हे यजमानास्तम् **अग्निं** **धीभिः** स्तुतिभिः **सपर्यत** परिचरत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** shines among the gods; Agni is present among mortals; Agni is the bearer of our oblations glorify Agni with praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni is king among the gods and Agni among mortals when he enters  (among them).  
 Agni is the conveyor of oblations for us. Serve Agni with your insights.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni is King, for he extends to mortals and to Gods alike.  
      Agni is bearer of our gifts. Worship ye Agni with your thoughts.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni reigns among the gods, Agni among mortals, entering among them. Agni is the carrier of our offerings. Serve ye Agni with prayers!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni herrscht bei den Göttern, Agni bei den Sterblichen, zu ihnen einziehend. Agni ist unser Opferfahrer. Den Agni haltet mit frommen Gedanken in Ehren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni ist bei den Göttern Herr, Agni, der Sterbliche besucht, Agni, der unser Opfer fährt, den Agni ehret andachtsvoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни царит среди богов,  
 Агни среди смертных, проникнув (к ним).  

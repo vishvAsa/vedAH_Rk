@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ गा꣡वः सरमे या꣡ ऐ᳐꣡छः  
 प꣡रि दिवो꣡ ऽन्तान्° सुभगे प꣡तन्ती  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उता꣡स्मा꣡कम् आ꣡युधा सन्ति तिग्मा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 कः । ते॒ । ए॒नाः॒ । अव॑ । सृ॒जा॒त् । अयु॑ध्वी । उ॒त । अ॒स्माक॑म् । आयु॑धा । स॒न्ति॒ । ति॒ग्मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -138,39 +138,39 @@ popular
 क्रुद्धाः पणयः प्रत्यूचुः । हे **सुभगे** शोभनसौभाग्यवति हे **सरमे** **दिवः** द्युलोकस्य **अन्तान्** पर्यन्तान् **परि** **पतन्ती** कुत्र गावस्तिष्ठन्तीति परितो गच्छन्ती त्वम् **इमाः** परिदृश्यमानाः **याः** **गावः** । सुब्व्यत्ययः । गाः **ऐच्छः** कामयसे ता: **एनाः** गाः **ते** त्वदीयः **कः** **अयुध्वी** अयुद्ध्वा **अव** **सृजात्** । अस्मात् पर्वतादवसृजेत् । विनिर्गमयेत् । सृजेर्लेटि रूपम् । अयुध्वी । युधेः क्त्वाप्रत्यये स्नात्व्यादयश्च ' इति निपातितः । नञ्समासत्वाल्ल्यबादेशाभावः। नञः प्रकृतिस्वरत्वम् । **उत** अपि च **अस्माकं** **तिग्मा** तीक्ष्णानि **आयुधा**  आयुधानि **सन्ति** । तस्मादस्माभिर्युद्धमकृत्वा को वा गा आहरति ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Paṇi:] These cattle that you sought, Saramā, as you were flying around  the ends of heaven, fortunate one—  
 who will release them to you without a fight? And our battle weapons  are sharp!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These are the kine which, Sarama, thou seekest, flying, O Blest One, to the ends of heaven.  
      Who will loose these for thee without a battle? Yea, and sharp-pointed are our warlike weapons.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Those cows for which, O Saramā, thou soughtest, Around the ends of heaven flying, fair one: Who them to thee would leave without resistance? And sharp indeed our weapons are in conflict.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Kühe, die du suchtest, die Grenzen des Himmels überfliegend, o holde Sarama, wer möchte die ohne Kampf herausgeben? Und unser sind scharfe Waffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Die Kühe, die du, Saramā, begehrtest, o schöne, fliegend um des Himmels Enden, Wer wird dir diese ohne Kampf gewähren? und scharf sind doch die Waffen, die wir haben.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти коровы, о Сарама, которые ты искала,  
 Летая, о милая, вокруг пределов неба,  

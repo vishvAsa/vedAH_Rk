@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वः शंसामि अद्रुहः  
 संस्थ꣡ उ꣡पस्तुतीना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 यो꣡ वो धा꣡मभ्यो अ꣡विधत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न । तम् । धू॒र्तिः । व॒रु॒ण॒ । मि॒त्र॒ । मर्त्य॑म् । यः । वः॒ । धाम॑ऽभ्यः । अवि॑धत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -109,43 +109,43 @@ genre M
 हे **अद्रुहः** अद्रोग्धारोऽहिंस्या वा मरुदादयः **उपस्तुतीनाम्** उपस्तोत्राणां **संस्थे** तासां यज्ञे क्रियमाणत्वादस्मत्संस्थानभूतेऽस्मिन् यज्ञे **वः** युष्मान् **प्र** **शंसामि** प्रकर्षेण स्तौमि। हे **वरुण** **मित्र** मित्रावरुणौ **तं** **मर्त्यं** मनुष्यं **धूर्तिः** । धुर्वी हिंसार्थः। शत्रुभ्यो हिंसा तं **न** बाधते **यः** मनुष्यः **वः** युष्माकं **धामभ्यः** तेजोभ्यः । धीयतेऽस्मिन्निति धाम शरीरं वा । तेभ्यः **अविधत्** ॥ ‘विध विधाने'। हवींषि विदधाति प्रयच्छति । एतेन तेजसामपि हविर्भाक्त्वमस्तीति ज्ञायते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify you, inoxious deities, in the plural ce of praises; no harm befalls the man who, **Mitra** and **Varuṇa**,offers (oblations) to your glories.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I recite to you, o you without deceit, at the concourse of praise invocations. No injury (comes) to that mortal who has done honor to your  
 ordinances, o Varuṇa, Mitra, (and Aryaman).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I assume that Aryaman is tacitly included with Mitra and Varuṇa in c, given the vaḥ in d (and a). In the phrase varuṇa mitra márti yam, trisyllabic márti yam is a sort of scrambling of Aryaman.
 
 On the apparent bad cadence produced by ávidhat, see remarks ad II.1.7, where Arnold’s suggestion to read a long augment is adopted.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I laud you, O ye Guileless Gods, here where we meet to render praise.  
      None, Varuna and Mitra, harins the mortal, man who honours and obeys your laws.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich preise euch, ihr Truglosen, im Wettstreit der Loblieder. Nicht trifft den Sterblichen die Hinterlist, Mitra und Varuna, der euren Personen gehuldigt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch, holdgesinnte, preise ich in dieser Lieder Chorgesang; Nicht trifft, o Mitra-Varuna, Verletzung den, der euren Satzungen gehorcht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я прославляю вас, о лишенные обмана,  
 В состязании восхвалений.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वां नासतियाव् ऋ꣡षिर्  
 गीर्भि꣡र् वत्सो꣡ अ꣡वीवृधत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इ꣡षं धत्तं घृतश्चु꣡तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तस्मै॑ । स॒हस्र॑ऽनिर्निज॑म् । इष॑म् । ध॒त्त॒म् । घृ॒त॒ऽश्चुत॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -99,20 +99,20 @@ genre M
 हे **नासत्यौ** **यः** वत्साख्यः **ऋषिः** **वां** युवां **गीर्भिः** स्तुतिभिः **अवीवृधत्** अवर्धयत् **तस्मै** ऋषये **सहस्रनिर्णिजं** बहुविधरूपं **घृतश्रुतं** घृतं क्षरन्तीम् **इषम्** अन्नं **धत्तं** प्रयच्छतम् ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Give, **Nāsatyās**, food of many kinds dripping with butter to him, the ṛṣi **Vatsa**, who has magnifiedyou both with hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Nāsatyas, the seer Vatsa, who has strengthened you with his hymns, for him provide refreshment with thousandfold raiment, dripping  
 with ghee.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich reprises 8cd, but in this vs. the poet asks for something in response to his strengthening hymns.
 
@@ -126,23 +126,23 @@ Another example of chained vocabulary: ghṛtaścút- ‘dripping with ghee’, 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vatsa the Rsi with his songs, Nasatyas, hath exalted you:  
      Grant him rich food distilling oil, graced with a thousand ornaments.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da der Rishi Vatsa euch, Nasatya´s, mit Lobesworten erbaut hat, so bringet ihm tausendfarbigen, schmalztriefenden Speisesegen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Dichter Vatsa, treue ihr, der euch mit Liedern hat erfreut, Gebt tausendfach geschmückten Trunk der Labung, der von Butter trieft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) риши Ватса, о Насатьи,  
 Который усилил вас хвалебными песнями, –  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ यज्ञे꣡षु प्र꣡ शंसत  
 इन्द्राग्नी꣡ शुम्भता नरः  
 ता꣡ गायत्रे꣡षु गायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ता । गा॒य॒त्रेषु॑ । गा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -91,35 +91,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **नरः** मनुष्याः ऋत्विजः **ता** पूर्वोक्तौ तौ **इन्द्राग्नी** **यज्ञेषु** अनुष्ठीयमानकर्मसु **प्र** **शंसत** शस्त्रैः। तथा **शुम्भत** नानाविधैरलंकारैः शोभितौ कुरुत । तथा **ता** पूर्वोक्तौ ताविन्द्राग्नी **गायत्रेषु** गायत्रीच्छन्दस्केषु मन्त्रेषु सामरूपेण **गायत** ॥ ता ।  ‘ सुपां सुलुक्° ' इति आकारः । शुम्भत । अस्य संहितायाम्  अन्येषामपि दृश्यते ' ( पा. सू. ६. ३. १३७ ) इति दीर्घः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise, men, **Indra** and **Agni**, in sacrifices, decorate them (with ornaments) and hymn them with hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Proclaim them at the sacrifices; embellish Indra and Agni, o men. Sing to them in songs.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise ye, O men, and glorify Indra-Agni in the holy rites:  
      Sing praise to them in sacred songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese beiden preiset bei Opfern, verherrlichet Indra und Agni, ihr Männer; besinget sie in Sangesliedern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra und Agni preist beim Fest, o Männer und verherrlicht sie, Besingt mit Lobgesängen sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восславьте их обоих на жертвоприношениях!  
 Индру-Агни украсьте, о мужи!  

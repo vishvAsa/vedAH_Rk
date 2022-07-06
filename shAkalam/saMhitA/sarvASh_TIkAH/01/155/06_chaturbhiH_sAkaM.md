@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चतु꣡र्भिः साकं꣡ नवतिं꣡ च ना꣡मभिश्  
 चक्रं꣡ न꣡ वृत्तं꣡ विअ꣡तीँर् अवीविपत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यु꣡वा꣡कुमारः प्र꣡ति एति आहव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 बृ॒हत्ऽश॑रीरः । वि॒ऽमिमा॑नः । ऋक्व॑ऽभिः । युवा॑ । अकु॑मारः । प्रति॑ । ए॒ति॒ । आ॒ऽह॒वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *caturbhiḥ* ← *catur*
 - \[noun\], instrumental, plural, neuter
@@ -127,7 +127,7 @@ genre M
 अयमादित्यात्मा विष्णुः **चतुर्भिः** **साकं** सहितां **नवतिं** **च** । चतुर्नवतिमित्यर्थः । एतत्संख्याकान् कालावयवान् **नामभिः** स्वकीयनमनप्रकारैः प्रेरणविशेषैः **वृत्तं** यथा भवति तथा **व्यतीन्** विविधातनस्वभावान् वृत्तं **चक्रं** **न** बह्वरोपेतं चक्रमिव तं यथा शत्रोरुपरि प्रक्षेपेण भ्रमयति तद्वदुक्तसंख्याकान् कालावयवान् **अवीविपत्** कम्पयति भ्रमयति॥  ‘ टुवेपृ कम्पने '। ण्यन्तात् लुङि चङि रूपम् ॥ के पुनस्ते उच्यते । संवत्सर एकः । अयने द्वे। पञ्चर्तवः । द्वादश मासाः । चतुर्विंशत्यर्धमासाः । त्रिंशदहोरात्राः । अष्टौ यामाः । एकस्मिन् दिने पर्यावर्तमानानि मेषादीनि द्वादश लग्नानीति मिलित्वा चतुरधिकनवतिसंख्याकानवीविपत्। नन्वादित्यः स्वयमपि इतरवत्परिभ्रमति कथं भ्रमयति इत्युच्यते । नैष दोषः । एतेषां भ्रामकस्य धुवस्य विष्णोः मूर्त्यंन्तरत्वात्। अथवा स्वभ्रमणाधीनत्वादितरेषां परिभ्रमणस्य अतः स्वयं भ्रमयति इत्युच्यते । एवं कलात्मकः विष्णुः **बृहच्छरीरः** विराडात्मना सर्वदेवमनुष्यादिशरीराणां स्वशरीरत्वात् । बृहच्छरीरत्वमेवोपपादयति । **विमिमानः** विविधमात्मानं मिमानो देवतिर्यगात्मना विभज्य स्थापयन् । यद्वा । **ऋक्वभिः** स्तुतिमद्भिः मन्त्रवद्भिः वा विमिमानः । यद्यपि विभुस्तथापि भक्त्याधीनत्वात् स्तुत्या मीयते । **युवा** सर्वत्र मिश्रणशीलो नित्यतरुणो वा अत एव **अकुमारः** अनल्पः एवंभूतो महाविष्णुः **आहवम्** आह्वानं **प्रत्येति** गच्छति यज्ञदेशम् ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,36 +140,36 @@ Ninety and four periodical revolutions: **viṣṇu** = time, comprising ninet-f
 Akumāraḥ = **analpaḥ**, not little
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the four times ninety names [=days], he has caused the paired  (horses) [=days and nights] to quiver like a wheel set rolling.  
 Having a lofty body, measuring out (the realms?) with verses, the youth  who is no boy returns to the challenge.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vyáti- from *vi-yati- (√yam), flg. Renou
 
 Renou takes vimímānaḥ in d as reflexive ‘se mesurant’, and Geldner’s ‘sich richtend’ is close. Since med. forms of (ví) √mā are regularly transitive (cf. vimamé rájāṃsi in the previous hymn, I.154.1b, sim. I.154.3cd), I would supply an object here. In the published translation I tentatively suggest “the realms,” as in 154.1, but given the contents of this verse I would now supply “the year.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, like a rounded wheel, hath in swift motion set his ninety racing steeds together with the four.  
      Developed, vast in form, with those who sing forth praise, a youth, no more a child, he cometh to our call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit viermal neunzig Namen hat er die Paare in Schwung gebracht wie ein sich drehendes Rad. Von hohem Körper, nach dem Takt der Sänger sich richtend, geht der Jugendliche, der kein Knabe ist, dem Kampf entgegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch vier der Zeiten hat je neunzig Renner er gleich rundem Rad zugleich in schnellem Lauf gesetzt Nicht mehr ein Kind, ein Jüngling geht er hoch an Leib mit Jubelscharen weithinschreitend in den Kampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Четырежды девяносто именами  
 Он привел в трепет конные пары, как вертящееся колесо.  

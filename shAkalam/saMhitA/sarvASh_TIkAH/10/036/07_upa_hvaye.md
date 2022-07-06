@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प ह्वये सुह꣡वम् मा꣡रुतं गण꣡म्  
 पवाक꣡म्+ ऋष्वं꣡ सखिया꣡य शम्भु꣡वम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 रा॒यः । पोष॑म् । सौ॒श्र॒व॒साय॑ । धी॒म॒हि॒ । तत् । दे॒वाना॑म् । अवः॑ । अ॒द्य । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -122,37 +122,37 @@ genre M;; repeated line
 **सुहवं** स्वाह्वानं **पावकं** शोधकम् **ऋष्वं** दर्शनीयं **शंभुवं** सुखस्य भावयितारं **रायः** धनस्य **पोषं** पोषकं **मारुतं** मरुतां संबन्धिनं **गणं** संघं **सख्याय** सखिभावाय **उप** ह्वये उपगम्य हृयामि । आगतं गणं **सौश्रवसाय** शोभनान्नवत्त्वाय सुयशस्त्वाय वा वयं **धीमहि** बुद्धौ निदधीमहि । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke for their friendship, the deservedly invoked, purifying, beautiful troops of the **Maruts**, the giversof felicity, the dispensers of riches; we meditate upon them for the attainemtn of abundant food; we solicit todaythis protection of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I invoke the Marutian flock, (which is) good to invoke, (which is) pure,  high, luck itself—for comradeship.  
 Might we acquire the thriving of wealth in order to receive good  
 fame. – This help of the gods we choose today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither I call the band of Maruts, swift to hear, great, purifying, bringing bliss, to he our Friends.  
      May we increase our wealth to glorify our name. We crave this graciousfavour of the Gods to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe die gerngerufene marutische Heerschar her, die lauter, reckenhaft, zur Freundschaft gewogen ist. Wir möchten Zunahme des Reichtums erfahren zu hohem Ruhme. - Diese Gunst der Götter erbitten wir heute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Marutschar, die schnell, erhöret, ruf' ich an, die glänzende, erhabne, heilvoll uns zum Bund, Des Reichthums Mehrung, werde uns zu hohem Glück, die Gunst der Götter wünschen heute wir herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я зову легко призываемую стаю Марутову,  
 Чистую, устремленную ввысь, приносящую счастье в дружбе.  

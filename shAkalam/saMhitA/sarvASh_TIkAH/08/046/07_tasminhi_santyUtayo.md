@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्मिन् हि꣡ स꣡न्ति ऊत꣡यो  
 वि꣡श्वा अ꣡भीरवः स꣡चा  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 म꣡दाय ह꣡रयः सुत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तम् । आ । व॒ह॒न्तु॒ । सप्त॑यः । पु॒रु॒ऽवसु॑म् । मदा॑य । हर॑यः । सु॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmin* ← *tad*
 - \[noun\], locative, singular, masculine
@@ -111,7 +111,7 @@ genre M
 **तस्मिन्** इन्द्रे **ऊतयः** गन्त्र्यः **विश्वाः** सर्वाः **अभीरवः** अकातराः **सचा** सहायभूता मरुद्रूपाः सेनाः **सन्ति** भवन्ति । अथवा तस्मिन् सर्वा रक्षणाः सह संभवन्ति। **तम्** इन्द्रं **सप्तयः** सर्पणशीलाः **हरयः** अश्वाः पुरूवसुं बहुधनम् । बहुधनप्रदमित्यर्थः। तं **मदाय** **सुतम्** अभिषुतं सोमं प्रति **आ** **वहन्तु** आगमयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ genre M
 All secure protections: a reference to the troops of the **Maruts** whoaccompany **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For in him exist all fearless forms of help altogether.  
 Let the spans convey him hither, who has many goods; let the fallow  bays convey him to the pressed (soma) for exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For verily combined in him are all the fearless powers of aid.  
      Him, rich in wealth, let swift Steeds bring to us, his Bays, to Soma juice for his carouse:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn bei ihm sind alle Hilfen furchtlos vereint. Ihn sollen die falben Gespanne zum Soma fahren, daß er sich berausche, den Schätzreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn in ihm sind vereiniget die sichern Hülfen allesammt; Ihn fahre her der Rosse Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь с ним связаны  
 Все бесстрашные поддержки.  

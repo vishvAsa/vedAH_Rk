@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नो अग्ने अङ्गिरः  
 स्तुत꣡ स्त꣡वान आ꣡ भर  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 उतइ꣡धि पृत्सु꣡ नो वृधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 होतः॑ । वि॒भ्व॒ऽसह॑म् । र॒यिम् । स्तो॒तृऽभ्यः॑ । स्तव॑से । च॒ । नः॒ । उ॒त । ए॒धि॒ । पृ॒त्ऽसु । नः॒ । वृ॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -128,41 +128,41 @@ genre M;; repeated line
 हे **अग्ने** **अङ्गिरः** । कार्यकारणयोरभेदोपचारादङ्गिरसां प्रकृतिभूतोऽप्यग्निरङ्गिरा इत्युच्यते । हे अङ्गिरः पूर्वैः महर्षिभिः **स्तुतः** **स्तवानः** इदानींतनैश्च स्तूयमानस्त्वं **विभ्वासहं** महतामप्यभिभवितारम् । अभिभवहेतुत्वादभिभवितृ धनमुच्यते । **रयिं** धनं **नः** अस्माकम् **आ** **भर** आहर । हे **होतः** देवानामाह्वातः **स्तोतृभ्यः** **नः** अस्मभ्यं **स्तवसे** स्तोतुं सामर्थ्यं च प्रयच्छ । **उत** अपि च **पृत्सु** युद्धेषु **नः** अस्माकं **वृधे** समृद्धये **एधि** भव ॥ स्तवानः ।  ‘ ष्टुञ् स्तुतौ '। शानचि कर्मणि व्यत्ययेन शप्प्रत्यय आद्युदात्तश्च । विभ्वासहम् । संहितायां विभूनामिति षष्ठीबहुवचनस्य ‘सुपाम्' इत्यादिना आकारादेशः । **तत्पुरुषे** कृति बहुलम् इति षष्ठ्या अलुक् । पदकारास्तु विपूर्वाद्भवतेः अगागमम् ‘अन्येषामपि दृश्यते' इति दीर्घत्वं च मत्वावग्रहं कुर्वन्ति । कृदुत्तरपदप्रकृतिस्वरत्वम् । स्तवसे ।' ष्टुञ् स्तुतौ '। तुमर्थेऽसेन्प्रत्ययः । नित्त्वादाद्युदात्तः ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who are **Aṅgiras**, glorified in the past, glorified (at present), invoker (of the gods), bring unto us riches (enabling us) to overcome the mighty; give to your praisers (ability) to praise you, and be (at **hand**) for our success in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, o Aṅgiras, having been praised and being praised, bring us wealth that overwhelms the wide-reaching one, for your praisers and for  us to praise (you), o Hotar. And be present for us to grow strong in  
 battles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring to us, Agni, Angiras, lauded of old and lauded now,  
      Invoker! wealth to quell the strong, that singers may extol thee. Be near us in fight for our success.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, Aṅgiras, who hast been praised and who art being praised, bring us, O Hotri, wealth which overpowers (even) skilful men, to thy praisers, and thou shalt be praised by us. And help us to grow strong in fights 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring du, o Angirase Agni, sonst und jetzt gepriesen, Reichtum, der den des Vibhvan noch übertrifft, o Hotri uns Lobsängern, wenn du von uns besungen wirst, und sei uns zur Stärkung in den Kämpfen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun bring, o Agni Angiras, zuvor gepriesen und auch jetzt, O Priester, Gut, das Sieg gewinnt, den Sängern und zum Preise uns, (und sei in Schlachten uns zum Heil.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни-Ангирас,  
 Восхваленный (и) восхваляемый, принеси,  

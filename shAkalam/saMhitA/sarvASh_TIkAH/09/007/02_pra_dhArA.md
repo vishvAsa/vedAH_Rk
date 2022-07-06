@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ धा꣡रा म꣡ध्वो अग्रियो꣡  
 मही꣡र् अपो꣡ वि꣡ गाहते  
 हवि꣡र् हवि꣡ष्षु व꣡न्दियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ह॒विः । ह॒विष्षु॑ । वन्द्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **हविष्षु** हविषां मध्ये **वन्द्यः** स्तुत्यः **हविः** हविरात्मको यः सोमः **महीः** महतीः **अपः** वसतीवरीः **वि** **गाहते** तस्य **मध्वः** सोमस्य **अग्रियः** मुख्याः **धाराः** **प्र** पतन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Immersed in the great holy waters: i.e. vasatīvari waters; the pre-eminent: pra **dhārā** agriyaḥ = dhārā **mukhyaḥ** prapatanti, the pre-eminent streams fall down
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth (goes) the stream, the forefront of the honey; it plunges through  the great waters,  
 to be extolled as the oblation among oblations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In keeping with his interpr. of vs. 1, Lüders (238) sees the “great waters” (mahī́r apáḥ) here as the celestial waters -- again not necessary, since the ritual soma is mixed with water after it traverses the filter.
 
@@ -114,23 +114,23 @@ A verb of motion needs to be supplied with prá in the initial pādas of both vs
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Down in the mighty waters sinks the stream of meath, most excellent,  
      Oblation best of all in worth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem Strome der Süßigkeit geht er voran, er taucht in den großen Gewässern unter, das Opfer unter den Opfern, der Löbliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Methes Strom, der beste Trank, er taucht sich in die grosse Flut, Der Guss, der Güsse rühmlichster.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Потоком сладости (он) про(двигается) вперед;  
 Он ныряет в великие воды,  

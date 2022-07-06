@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दितिर् द्या꣡वापृथिवी꣡ ऋत꣡म् मह꣡द्  
 इ꣡न्द्रावि꣡ष्णू · मरु꣡तः सु꣡वर् बृह꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 व꣡सून् रुद्रा꣡न् सविता꣡रं सुदं꣡ससम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दे॒वान् । आ॒दि॒त्यान् । अव॑से । ह॒वा॒म॒हे॒ । वसू॑न् । रु॒द्रान् । स॒वि॒तार॑म् । सु॒ऽदंस॑सम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
@@ -117,37 +117,37 @@ genre M
 **अदितिर्द्यावापृथिवी** द्यावापृथिव्यौ **महत्** महान् **ऋतं** सत्यभूतोऽग्निः **इन्द्राविष्णू** **मरुतः** च **बृहत्** परिवृढः **स्वः** आदित्यः एते देवाः सर्वत्र स्वमहिम्ना वर्तन्ते । एतान् **देवान्** आदित्यादीन् **सुदंससं** सुकर्माणं **सवितारम्** एतन्नामानं च **अवसे** रक्षणाय **हवामहे** वयमाह्वयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aditi**, heaven and earth, the mighty Truth (**Agni**), **Indra**, **Viṣṇu**, the **Maruts**, the great sun-- (these) weinvoke for our protection, as well as the divine **Ādityas**, the **Vasus**, the **Rudras**, and **Savitā**, the accomplisher ofgood works.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aditi, Heaven and Earth, great truth, Indra and Viṣṇu, the Maruts, and  the lofty Sun—  
 we call upon the gods for help—the Ādityas, Vasus, Rudras, and  
 well-skilled Savitar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aditi, Heaven and Earth, the great eternal Law, Indra, Visnu, the Maruts, and the lofty Sky.  
      We call upon Adityas, on the Gods, for help, on Vasus, Rudras, Savitar of wondrous deeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aditi, Himmel und Erde, das große Gesetz, Indra und Vishnu, die Marut, die hohe Sonne - die Götter Aditya´s rufen wir zum Beistand, die Vasu´s, Rudra´s und Savitri, den Werktüchtigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Erd', den Himmel, Aditi, das grosse Recht, die Maruts, Indra, Vischnu und das hohe Licht, Die Götter, die Aditja's rufen wir zur Hülfe uns, die Vasu's, Rudra's und den thät'gen Savitar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

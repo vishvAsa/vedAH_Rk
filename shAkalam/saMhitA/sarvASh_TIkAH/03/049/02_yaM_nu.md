@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ नु꣡ न꣡किः पृ꣡तनासु स्वरा꣡जं  
 द्विता꣡ त꣡रति नृ꣡तमं हरिष्ठा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृथुज्र꣡या अमिनाद् आ꣡यु° द꣡स्योः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒नऽत॑मः । सत्व॑ऽभिः । यः । ह॒ । शू॒षैः । पृ॒थु॒ऽज्रयाः॑ । अ॒मि॒ना॒त् । आयुः॑ । दस्योः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -114,20 +114,20 @@ genre M
 **पृतनासु** । व्याप्रियन्तेऽत्र योद्धार इति पृतनाः संग्रामाः । तेषु **स्वराजं** **हरिष्ठां** हरिस्थां हरियुक्ते रथे वर्तमानं **नृतमं** बलस्य युद्धे नेतृतमं **द्विता** युद्धमासाद्य सेनां द्विधा कृत्वा वर्तमानं **यम्** इन्द्रं **नकिः** न कश्चिदपि **तरति** उत्तीर्य गच्छति। न कोऽप्यभ्यस्ति इत्यर्थः । **नु** प्रसिद्धौ । स इन्द्रः **इनतमः** अतिशयेन सेनास्वामी **सत्वभिः** परितः सीदद्भिर्मरुद्भिः सह **यः** यान् गच्छन् शूषैः । शोषयन्ति परबलानीति शूषाणि बलानि । तैः **पृथुज्रयाः** युद्धं प्रति तीव्रवेगः सन् **दस्योः** शत्रोः **आयुः** अन्नं प्राणं वा **अमिनात्** संग्रामेषु मिनाति हिनस्ति । **ह** प्रसिद्धौ । अत्र निरुक्तं-- ‘ पृथुज्रयाः पृथुजवः । पृथुज्रया अमिनादायुर्दस्योः । प्रामापयदायुर्दस्योः' (निरु. ५. ९ ) इति ॥ तरति । ‘ तॄ प्लवनतरणयोः' इत्यस्य लटि रूपम् । यद्वृत्तयोगादनिघातः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः । यः । ‘ या प्रापणे'। औणादिकः कप्रत्ययः । आतो लोपः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whom, when borne by his steeds, foremost and eminent in battles, breaking in two the (hostile host), no one ever surpasses; supreme in a way, attended by his faithful **Maruts**, and hastening to combat, he has destroyed with foe-withering (energies) the existence of the **Dasyu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The most manly sovereign king, mounted on fallow bays, whom now as  before no one overcomes in battles,  
 who along with his warriors is strongest through our fortifying (hymns).  He in his broad expansion curtailed the lifetime of the Dasyu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2nd hemistich is universally tr. (save for Scarlatta, 656) as a single rel. clause, but amināt is unaccented and so d must be a separate clause.
 
@@ -136,23 +136,23 @@ In c the standard tr. (incl. also Scarlatta) construe the instr. pl. śūṣaí�
 sátvabhiḥ (e.g., Geldner “mit seinen mutigen Streitern”). This of course would be the default assumption. However, in almost every occurrence of the stem śūṣá-, including all the other examples of the instr. pl., it refers to hymns or praises, whether with a limiting noun or not. I therefore separate it from the other instr. in the pāda and take it as having its usual referent. The poet claims that Indra’s strength is at least partially dependent on our strengthening praises.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whom, most heroic, borne by Tawny Coursers, verily none subdueth in the battle;  
      Who, reaching far, most vigorous, hath shortened the Dasyu's life with Warriors bold of spirit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Selbstherrn und mannhaften Falbenlenker, den keiner jemals in den Kämpfen überwindet; der der höchste Gebieter ist, der mit seinen mutigen Streitern in breitem Ansturm das Leben des Dasyu verkürzte;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Selbstgebieter, den in Schlachten niemand fürwahr besiegt, den stärksten Rosselenker, Den kräftigsten, der mit den kühnen Streitern auf weiter Flur des Dämons Alter kürzte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самодержец, которого никто никогда не покоряет  
 В боях, самый мужественный, правящий булаными конями,  

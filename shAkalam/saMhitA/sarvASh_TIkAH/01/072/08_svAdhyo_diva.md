@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुआधि꣡यो दिव꣡ आ꣡ सप्त꣡ यह्वी꣡  
 रायो꣡ दु꣡रो वि꣡ ऋतज्ञा꣡ अजानन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ना नु꣡ कम् मा꣡नुषी भो꣡जते वि꣡ट्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒दत् । गव्य॑म् । स॒रमा॑ । दृ॒ळ्हम् । ऊ॒र्वम् । येन॑ । नु । क॒म् । मानु॑षी । भोज॑ते । विट् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svādhyo* ← *su*
 - \[adverb\]
@@ -160,7 +160,7 @@ genre M
 **भोजते** । भुज पालनाभ्यवहारयोः । श्नमि प्राप्ते व्यत्ययेन शप् ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -171,13 +171,13 @@ genre M
 Agni is added as the instrumental ument or agent. The sun, nourished by burnt-offerings, is enabled to send down the rain which supplies the rivers. **Aṅgirasas** recovered their cattle when carried off by **Vala** through the knowledge obtained by holy sacrifices. **Indra** sent Saramā on the search mission, when propitiated by oblations with fire. In all these incidents, Agni was the prime mover
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Very attentive, (they discerned) the seven young maidens of  heaven [=rivers]; knowing the truth, they discerned the doors of  wealth.  
 Saramā found the firmly fixed cattle-pen, by which, even now, the clan  stemming from Manu benefits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda lacks an overt verb, but it is easy to read ví … ajānan from b (with most tr.), rather than supplying an entirely different verb as Geldner does (“brachten”). The identity of the subject is likewise not given, but, with Geldner, it is quite likely the Aṅgirases. The qualifier svādhī́- ‘very attentive’ is a signature word of Parāśara’s (I.67.2, 70.4, 71.8); the occurrence in 71.8 is applied to the troop, presumably the Aṅgirases, that Agni begets in punishing Heaven’s incest.
 
@@ -188,28 +188,28 @@ The position of ā́between diváḥ and saptá yahvī́ḥ does give one pause,
 The VP “discerned the doors of wealth” (rāyó dúro ví … ajānan) is a variant of “opened the doors (of wealth)” found twice earlier in the Parāśara collection:
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Knowing the Law, the seven strong floods from heaven, full of good thought, discerned the doors of riches.  
      Sarama found the cattle's firm-built prison whereby the race of man is still supported.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They who knew the right way and were filled with good intentions, beheld from heaven the seven young 1 (rivers) and the doors of riches. Saramâ found the strong stable of the cows from which human clans receive their nourishment 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In guter Absicht brachten sie die sieben jüngsten Ströme des Himmels; sie machten die Tore des Reichtums ausfindig, des rechten Weges kundig. Sarama fand die eingeschlossene Kuhherde, von der noch jetzt der menschliche Stamm zehrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel her ersahn die heil'gen kundig die sieben Ströme und des Reichthums Thore; Und Sarama fand auf den festen Kuhstall, von dem zumeist sich nährt der Stamm der Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С добрыми намерениями они (спустили) с неба семь юных (рек).  
 Знатоки закона, они познали врата богатства.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रः सुते꣡षु सो꣡मेषु  
 क्र꣡तुम् पुनीत उक्थि꣡यम्  
 विदे꣡ वृध꣡स्य द꣡क्षसो महा꣡न् हि꣡ षः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 वि॒दे । वृ॒धस्य॑ । दक्ष॑सः । म॒हान् । हि । सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -95,7 +95,7 @@ genre M;; line affected by realignment
 **सोमेषु** **सुतेषु** अभिषुतेषु सत्सु **इन्द्रः** तान् पीत्वा **क्रतुं** कर्मणां कर्तारम् **उक्थ्यं** स्तोतारं च **पुनीते** शोधयति । यद्वा । सोमेष्वभिषुतेषूक्थ्याख्यं क्रतुं यागं तैः सोमैः पुनीते यजमानैः पूतं कारयति । किमर्थम् । **वृधस्य** वर्धकस्य **दक्षसः** बलस्य **विदे** लाभाय । **सः** तादृश इन्द्रः **महान्** **हि** महान् खलु । अत एवं कर्तुं शक्नोतीति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,29 +108,29 @@ Sanctifies: kratum punīta ukthyam = karmaṇām kartāramsto_tāram ca;
 **Ukthya** = name of a sacrifice, ukthyākhyam yāgam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the soma juices have been pressed, Indra purifies his resolve,  which is worthy of hymns.  
 He knows his own strengthening skill, for he is great.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For b see VIII.12.11.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INDRA, when Soma juices flow, makes his mind pure and meet for lauds.  
      He gains the power that brings success, for great is he.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei ausgepreßten Somasäften klärt Indra seinen preisenswerten Geist. Er wird sich seiner gedeihlichen Tüchtigkeit bewußt, denn er ist der Große.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда выжаты соки сомы, Индра  
 Очищает (свою) достойную восхвалений силу духа.  

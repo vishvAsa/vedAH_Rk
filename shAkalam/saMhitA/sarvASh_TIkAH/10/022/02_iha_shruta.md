@@ -6,7 +6,7 @@ ChandaH = "पुरस्ताद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इह꣡ श्रुत꣡ इ꣡न्दरो+ अस्मे꣡ अद्य꣡  
 स्त꣡वे वज्री꣡ ऋ꣡चीषमः  
@@ -14,7 +14,7 @@ ChandaH = "पुरस्ताद्बृहती"
 य꣡शश् चक्रे꣡ अ꣡सामि आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 मि॒त्रः । न । यः । जने॑षु । आ । यशः॑ । च॒क्रे । असा॑मि । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iha*
 - \[adverb\]
@@ -118,37 +118,37 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 **इह** अस्मिन् यज्ञे **इन्द्रः** श्रुतः प्रख्यातः। अद्य अस्मिन्दिवसे **अस्मे** अस्माभिः स्तवे स्तूयते । कीदृशः । वज्री वज्रवान् ऋचीषमः । यद्याव इन्द्र ते शतं शतं भूमीरुत स्युः न त्वा वज्रिन्' ( ऋ. सं. ८. ७०. ५) इत्यादिकया स्तुत्या समानगुण इत्यर्थः । यः इन्द्रः **मित्रो** **न** सूर्य इव स्निग्ध इव वा **जनेषु** स्तोतृजनेषु **यशः** अन्नं कीर्तिं वा **चक्रे** करोति । कीदृशम् । **असामि** असाधारणम् । स इन्द्रोऽस्माभिः स्तूयत इति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Here is **Indra** renowned; today he is praised by us, the wielder of the thunderbolt, the deserving ofpraise; he who, like **Mitra**, bestows upon men unequalled abundance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is Indra famed. Among us today he is praised as the wielder of the  mace, equal to song—  
 he who like an ally among the peoples has made glory for himself  
 among the peoples, not by halves;
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even here is Indra famed, and among us this day the glorious Thunderer is praised,  
      He who like Mitra mid the folk hath won complete and full renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hier hat man von Indra gehört, bei uns wird er heute gepriesen, der Keulenträger, der .........., der wie ein Freund bei den Leuten ungeteiltes Ansehen gewonnen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist der hehre Indra, und bei uns wird heut gerühmt der Blitzer hell an Glanz, Der zu den Männern wie ein Freund herbeischafft volle Herrlichkeit,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Здесь слышно об Индре. У нас сегодня  
 Восхваляется громовержец..,  

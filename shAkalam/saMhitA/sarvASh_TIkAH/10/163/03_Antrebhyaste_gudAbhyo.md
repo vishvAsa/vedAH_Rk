@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आन्त्रे꣡भ्यस् ते गु꣡दाभियो  
 वनिष्ठो꣡र् हृ꣡दयाद् अ꣡धि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्लाशि꣡भ्यो वि꣡ वृहामि ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 यक्ष्म॑म् । मत॑स्नाभ्याम् । य॒क्नः । प्ला॒शिऽभ्यः॑ । वि । वृ॒हा॒मि॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āntrebhyas* ← *āntrebhyaḥ* ← *āntra*
 - \[noun\], ablative, plural, neuter
@@ -92,7 +92,7 @@ popular;; epic anuṣṭubh (292)
 हे यक्ष्माभिभूत **ते** तव **आन्त्रेभ्यः** । आन्त्रं पुरीतदन्नपानयोराधानभूतम् । तत्संबन्धिभ्यः स्नायुभ्यः **गुदाभ्यः** याभिर्नाडीभिरन्नरसः समानवायुना धातुषु नीयते ताभ्यो नाडीभ्यश्च सकाशात् यक्ष्मं वि वृहामि । तथा **वनिष्ठोः** स्थविरान्त्रात् **हृदयादधि** हृदयपुण्डरीकाच्च यक्ष्मं वि वृहामि । अपि च **ते** तव **मतस्नाभ्याम्** । मतस्नौ पार्श्वयोर्वर्तमानावाम्रफलाकृती वृक्कौ । ताभ्यां **यक्नः**।   हृदयसमीपे वर्तमानः कालमांसविशेषो यकृत् । तस्माच्च । ' पद्दन् ' इत्यादिना यकृच्छब्दस्य यकन्नादेशः । **प्लाशिभ्यः** अन्येभ्योऽपि क्लोमप्लीहादिसंज्ञेभ्यश्च मांसेभ्यश्च **यक्ष्मं** रोगं **वि** **वृहामि** उत्क्षिपामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,29 +103,29 @@ popular;; epic anuṣṭubh (292)
 Kidneys: bones near the heart; or, kidneys, made likethe fruit of the mango tree, being in both sides of the body
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From your entrails, your guts, your rectum, your heart,  
 I tear out the disease—from your kidneys, your liver, your intestines.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From viscera and all within, forth from the rectum, from the heart,  
      From kidneys, liver, and from spleen, I drive thy malady away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus deinen Eingeweiden, den Därmen, dem Mastdarm, aus dem Herzen, aus den Nieren, aus der Leber, aus dem Gekröse zieh ich dir die Auszehrung ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus deinen Eingeweiden, den Gedärmen, dem Mastdarm, dem Herzen, aus den Lungen, aus der Leber, aus der Milz treibe ich dir die Krankheit fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из внутренностей, из твоих кишок,  
 Из прямой кишки, из сердца,  

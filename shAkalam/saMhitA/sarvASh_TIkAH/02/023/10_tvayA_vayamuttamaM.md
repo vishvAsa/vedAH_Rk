@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡या वय꣡म् उत्तमं꣡ धीमहे व꣡यो  
 बृ꣡हस्पते प꣡प्रिणा स꣡स्निना युजा꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ सुशं꣡सा मति꣡भिस् तारिषीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मा । नः॒ । दुः॒ऽशंसः॑ । अ॒भि॒ऽदि॒प्सुः । ई॒श॒त॒ । प्र । सु॒ऽशंसाः॑ । म॒तिऽभिः॑ । ता॒रि॒षी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -119,36 +119,36 @@ genre M
 हेबृहस्पते पप्रिणा पॄपालनपूरणयोः आदृगमहनेतिकिन्प्रत्ययः छान्दसोयणादेशः कामानाम्पूरके ण सस्निनाशुद्धेनयुजासहायेनत्वयाहेतुनाउत्तमंवयोहविर्लक्षणमन्नंवयन्धीमहे धारयामः धीधारणे दैवा दिकः दुःशंसःदुःशंसनीयः अभिदिप्सुः अभिदम्भितुंअभिभवितुमिच्छुः पुरुषः नोस्माकम्माईशत मा ई- शिष्ट ईश्वरोमाभवतु ईशऎशर्येलेट्यडागमः वयम्मतिभिः स्तोत्रैः सुशंसाः शोभनशंसनोपेताः सन्तः प्रातरिषीमहि प्रकर्षेणवर्धेमहि ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Through you, **Bṛhaspati**, (who are) the fulfiller of our desires; pure, and associated (with us), we possess excellent food; let not the wicked man who wishes to deceive us be our master; but let us, excelling in (pious) praises, attain (prosperity).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through you, o Br̥haspati, we would receive the utmost vigor—you, our  providing, winning yokemate.  
 Let not the speaker of ill, trying to deceive, be master of us. As  speakers of good, we would advance through our thoughts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With thee as our own rich and liberal ally may we, Brhaspati, gain highest power of life.  
      Let not the guileful wicked man be lord of us:-still may we prosper, singing goodly hymns of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch dich den reichlich spendenden und lohnenden Verbündeten möchten wir höchste Lebenskraft erlangen, o Brihaspati. Nicht soll der Übelredende, Schadensüchtige über uns Macht haben. Wir möchten als Belobte durch unsere Gedichte vorwärtskommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch dich erlangen wir die höchste Lebenskraft; Brihaspati, durch dich, der viel gewinnt und schenkt; Nicht herrsch ein böser, hinterlistger über uns; wir gutgesinnten seien siegreich durch Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С тобою да приобретем мы высшую силу,  
 О Брихаспати, (с тобою,) наполняющим, награждающим союзником!  

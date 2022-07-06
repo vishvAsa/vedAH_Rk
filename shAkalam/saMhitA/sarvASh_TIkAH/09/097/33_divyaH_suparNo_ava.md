@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव्यः꣡ सुपर्णो꣡ अ꣡व चक्षि सोम  
 पि꣡न्वन् धा꣡राः क꣡र्मणा देव꣡वीतौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्र꣡न्दन्न् इहि सू꣡रियस्यो꣡प रश्मि꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । इ॒न्दो॒ इति॑ । वि॒श॒ । क॒लश॑म् । सो॒म॒ऽधान॑म् । क्रन्द॑न् । इ॒हि॒ । सूर्य॑स्य । उप॑ । र॒श्मिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divyaḥ* ← *divya*
 - \[noun\], nominative, singular, masculine
@@ -132,7 +132,7 @@ genre M
 हे सोम दिव्योदिविभवः सुपर्णः सुपतनस्त्वं अवचक्षि अवस्तात् पश्य च । चष्टेर्लटि- सिपिव्यत्ययेनपरस्मैपदम् । किङ्कुर्वन् देववीतौ देवानां हविर्भक्षणस्थानेयज्ञे कर्मणा धाराः पिन्वन् क्षरन् । किञ्च हे इन्दो सोमधानं कलशं आविश क्रन्दन् शब्दायमानस्त्वं सूर्यस्य प्रेरकस्यादित्यस्य रश्मिङ्कान्तिमुपोहि उपगच्छ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,13 +143,13 @@ genre M
 Look down from heaven: avacakṣi, an imperative
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As heavenly eagle, o Soma, gaze down, swelling the streams with (ritual)  action in the pursuit of the gods.  
 O drop, enter the tub for holding the soma. Roaring, come right up to  the ray of the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The form cakṣi (also VII.3.6) is in both of its occurrences pretty clearly an impv., but its formation is something of a puzzle. It appears to be a -si impv. (so Baum, Imperative, 46, 107, with no disc.), but it has none of the standard supports for such a form. Not only does it not have an s-aor. subjunctive, but it has no aorist forms at all, and almost all the occurrences of its well-attested root pres. are medial.
 
@@ -165,23 +165,23 @@ The first vs. of the tṛca contains a form of √sṛj, thus concatenating with
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pouring out streams at the Gods' feast with service, thou, Soma, lookest down, a heavenly Eagle.  
      Enter the Soma-holding beaker, Indu, and with a roar approach the ray of Sarya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als himmlischer Adler blicke herab, o Soma, deine Ströme mit dem Opferwerk befruchtend bei der Götterladung! Geh, o Saft, in den somafassenden Krug ein, geh brüllend bis zum Strahl der Sonne!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Adler wird erblickt, o Soma, die Ströme schwellend durch sein Werk beim Festmahl, Geh ein, o Indu, in die Somakufe und eile wiehernd zu dem Strahl der Sonne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Небесный орел, взгляни вниз, о сома,  
 Делая набухшими (свои) потоки с помощью обряда при приглашении богов!  

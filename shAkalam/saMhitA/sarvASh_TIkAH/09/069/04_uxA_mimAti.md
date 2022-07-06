@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उक्षा꣡ मिमाति प्र꣡ति यन्ति धेन꣡वो  
 देव꣡स्य देवी꣡र् उ꣡प यन्ति निष्कृत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡त्कं न꣡ निक्त꣡म् प꣡रि सो꣡मो अव्यत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अति॑ । अ॒क्र॒मी॒त् । अर्जु॑नम् । वार॑म् । अ॒व्यय॑म् । अत्क॑म् । न । नि॒क्तम् । परि॑ । सोमः॑ । अ॒व्य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ genre M
 **उक्षा** रेतसः सेक्ता वृषभः पुरतः **मिमाति** शब्दायते । 'माङ् माने शब्दे च ' । तं वृषभं **धेनवः** गावः **प्रति** **यन्ति** अनुगच्छन्ति । तथा **देवस्य** द्योतमानस्य **निष्कृतं** संस्कृतं स्थानं **देवीः** देव्यः **उप** **यन्ति** उपगच्छन्ति । अनेनार्धेन सोमस्तुतिश्चाभिधीयते । सोमः सन् द्रोणकलशाभिगमनकाले शब्दं करोति। तमनु धेनवः प्रीणयित्र्यः स्तुतयः पारियन्ति देवस्य स्थानं स्तुतयोऽभिगच्छन्ति । तथा सोऽयं सोमः **अर्जुनं** श्वेतवर्णम् **अव्ययम्** अविमयमविस्वभूतं **वारं** वालं पवित्रम् **अत्यक्रमीत्** अतिक्रामति । अतिक्रम्य पात्राणि गच्छतीत्यर्थः । किंच **सोमः** **अत्कं** **न** आत्मीयं कवचमिव **निक्तम्** उज्ज्वलं श्रयणद्रव्यं **परि** **अव्यत** परितः संवृणोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 The first part of the verse praises Soma; Soma at the time of entering the wooden vessels makes a noise; the cows, the propitiating hymns of praise, gather round him; the hymns of praise approach the god's station.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull bellows, and the milk-cows go in response. The goddesses go  to their rendezvous with the god.  
 He has stridden beyond the silvery sheep’s fleece. Soma has wrapped  himself in (milk) as if in a freshly washed cloak.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the first pāda we are firmly in the realm of earthly ritual soma: the grooming by ten is a clear reference (clear to those familiar with soma rhetoric) to the fingers of the presser at their task.
 
@@ -165,23 +165,23 @@ There is considerable chaining between these two vss.: pári … avyata (4d), p�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bull is bellowing; the Cows are coming nigh: the Goddesses approach the God's own resting-place.  
      Onward hath Soma passed through the sheep's fair bright fleece, and hath, as 'twere, endued a garment newly washed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es brüllt der Stier, die Kühe kommen entgegen; die Göttlichen kommen zum Treffort des Gottes. Er hat das weißfarbige Schafhaar überschritten. Soma hat sich wie ein frischgewaschenes Gewand in die Milch gehüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es brüllt der Stier, die Kühe gehn entgegen ihm, zum Stelldichein des Gottes gehn die Göttinnen; Er schreitet durch des Widders weisse Wolle hin, wie mit gewaschnem Kleide hüllt sich Soma ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык ревет; дойные коровы идут навстречу;  
 Богини направляются на свидание с богом.  

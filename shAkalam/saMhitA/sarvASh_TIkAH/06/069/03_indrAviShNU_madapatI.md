@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राविष्णू मदपती मदानाम्  
 आ꣡ सो꣡मं यातं द्र꣡विणो द꣡धाना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ स्तो꣡मासः शस्य꣡मानास उक्थइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सम् । वा॒म् । अ॒ञ्ज॒न्तु॒ । अ॒क्तुऽभिः॑ । म॒ती॒नाम् । सम् । स्तोमा॑सः । श॒स्यमा॑नासः । उ॒क्थैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
@@ -121,37 +121,37 @@ genre M
 हे **इन्द्राविष्णू** **मदानां** सोमानां **मदपती** स्वामिनौ । मदपती इत्यत्र मदशब्दः  अनुवादः । **द्रविणो** द्रविणानि धनान्यपि ॥ द्रविणा उ इति पदद्वयमेकीभूय द्रविणो इति निष्पन्नं पदम् ॥ **दधाना** ददानौ युवां **सोमम्** अभि **आ** **यातम्** । मतीनां स्तोतॄणां **स्तोमासः** स्तोत्राणि **उक्थैः** शस्त्रैः सार्धं **शस्यमानासः** उच्चार्यमाणाः **वां** युवाम् **अक्तुभिः** तेजोभिः **सम्** **अञ्जन्तु** समर्धयन्तु । सं समिति द्विरुक्तिरादार्था ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Viṣṇu**, lords of the exhilaration, of the exhilarating **Soma**, come to (drink) the Soma, bringing (with you) wealth; may the encomiums of the praises repeated along with the prayers anoint you completely with radiance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Viṣṇu, exhilaration-lords of the exhilarating drinks, drive  here to the soma, while conferring wealth.  
 Let the praises as they are being recited in solemn words anoint both  of you together with the ointments of thoughts [/through the  
 nights].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lords of joy-giving draughts, Indra and Visnu, come, giving gifts of treasure, to the Soma.  
      With brilliant rays of hymns let chanted praises, repeated with the lauds, adorn and deck you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Vishnu, ihr Herren der Rauschtränke, kommet zum Soma, Reichtum bringend! Sie sollen euch einsalben mit der Salbung der frommen Gedanken, die Lobesworte, die in Preisliedern vorgetragen werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra-Vischnu, ihr der Tränke Trankherrn, kommt her zum Soma, Schätze uns verleihend; Es salben euch mit Salben der Gebete die hergesagten Sprüche nebst den Liedern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Вишну, два повелителя опьянения из опьянений,  
 Приходите на сому, наделяя (нас) имуществом!  

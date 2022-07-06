@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ पुनानो꣡ म꣡धुमाँ ऋता꣡वा  
 इ꣡न्द्राये꣡न्दुः पवते स्वादु꣡र् ऊर्मिः꣡  
 वाजस꣡निर् वरिवोवि꣡द् वयोधाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 वा॒ज॒ऽसनिः॑ । व॒रि॒वः॒ऽवित् । व॒यः॒ऽधाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -101,7 +101,7 @@ genre M
 **पुनानः** पूयमानः **मधुमान्** माधुर्योपेतः **ऋतवा** ऋतवान् यज्ञवान् **इन्दुः** क्षरणशीलः **स्वादुः** स्वादुकरः **ऊर्मिः** **एषः** रसधारासंघः **इन्द्राय** इन्द्रार्थं **पवते** क्षरति । कीदृशः । **वाजसनिः** अन्नस्य दाता **वरिवोवित्** धनस्य लम्भकः **वयोधाः** आयुषो दाता ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,13 +112,13 @@ genre M
 Holy: ṛtavā = yajñavān, having a sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one being purified, the honeyed and truth-possessing drop, the  sweet wave, purifies himself for Indra—  
 the one who gains the prize, finds wide space, and confers vitality.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the alliteration in c: vājasánir varivovíd vayodhā́ḥ. The first word vājasániḥ forms a ring with vā́jasā́taye in vs. 1a.
 
@@ -133,23 +133,23 @@ This very straightforward final tṛca concerning the ritual preparation of soma
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Holy and sweet, while purified, this Indu flows on, a wave of pleasant taste, to Indra,-  
      Strength-winner, Treasure-finder, Life. bestower.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Saft, der sich versüßt ordnungsgemäß läutert, er läutert sich für Indra, die süße Woge, den Siegespreis gewinnend, einen Ausweg findend, Lebenskraft verleihend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sich klärend rieselt hell der honigreiche dem Indra zu die süsse heil'ge Welle, Verleihend Labung, Jugendkraft und Freiheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот очищающийся, полный меда, соответствующий закону,  
 Сок сомы очищается для Индры, сладкая волна,  

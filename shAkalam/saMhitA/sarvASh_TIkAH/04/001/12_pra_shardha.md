@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ श꣡र्ध आर्त प्रथमं꣡ विपन्याँ꣡  
 ऋत꣡स्य यो꣡ना वृषभ꣡स्य नीळे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सप्त꣡ प्रिया꣡सो ऽजनयन्त वृ꣡ष्णे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्पा॒र्हः । युवा॑ । व॒पु॒ष्यः॑ । वि॒भाऽवा॑ । स॒प्त । प्रि॒यासः॑ । अ॒ज॒न॒य॒न्त॒ । वृष्णे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -113,20 +113,20 @@ genre M
 हे अग्ने **विपन्या** स्तुत्या युक्तम् **ऋतस्य** उदकस्य **योना** योनौ स्थाने **वृषभस्य** वर्षणसमर्थस्य मेघस्य **नीळे** कुलायभूतेऽन्तरिक्षे वैद्युताग्निरूपेण वर्तमानं त्वां **शर्धः** तेजः **प्रथमं** **प्र** **आर्त** प्रकर्षेण गच्छति । यश्चाग्निः **स्पार्हः** सर्वैः स्पृहणीयः **युवा** नित्यतरुणः **वपुष्यः** कमनीयः **विभावा** दीप्तिमान् तस्मै **वृष्णे** अभिमतफलवर्षकाय अग्नये **प्रियासः** प्रियाः **सप्त** होत्रकाः **अजनयन्त** स्तोत्रम् अकुर्वन् ॥ आर्त ।  ‘ऋ  गतौ'। लङि व्यत्ययेनात्मनेपदम् । निघातः । विपन्या ।  ‘ एन च ' इत्यस्य इन्प्रत्ययः ।  ‘ कृदिकारादक्तिनः' इति ङीष् । प्रत्ययस्वरेणान्तोदात्तः ।  ‘ उदात्तयणो हल्पूर्वात् ' इति विभक्तेरुदात्तत्वम् । विपन्यँ  ऋतस्य इत्यत्र संहितायाम् “ इकोऽसवर्णे शाकल्यस्य ह्रस्वश्च ' ( पा. सू. ६.१.१२७ ) इत्यनिकोऽपि ह्रस्वोऽनुनासिकश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Radiance has first proceeded to you, (**Agni**), who are glorified by praise, in the womb of the water, in the nest of the rain-cloud; the seven attached (priests) have engendered (praise) to the showerer (of benefits), who desirable, ever young, embodied, and resplendent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The troop [=Aṅgirases] set forth first amid admiration to the womb of  truth, to the nest of the bull—  
 The eagerly sought youth, wondrous, far-radiant [=Agni]—the seven  dear ones [=Aṅgirases or their music] begat (him) for the bull.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am in agreement with most of the standard interpr. that the referent of the subj. of ab is the troop of Aṅgirases, expressed by the neut. s-stem śárdhaḥ (pace Grassmann, who takes it as a thematic masc. nom. sg., referring to Agni, sim. Schmidt [Bṛhaspati und Indra, 43 n.
 
@@ -160,28 +160,28 @@ The repeated phrase “in the nest of the bull” (vṛṣabhásya nīḷé, 11d
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wondrously first he rose aloft, defiant, in the Bull's lair, the homeof holy Order,  
      Longed-for, young, beautiful, and far-resplendent: and sevendear frieuds sprang up unto the Mighty.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The host 1 came forth wonderfully at first, in the womb of Rita, in the nest of the bull 2, lovely and young, of marvellous appearance, and brilliant 3. Seven friends 4 were born for the bull.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zuerst kam unter lautem Beifall die Schar hervor im Schoße des Gesetzes, im Neste des Stiers, die ersehnte, jugendliche, stattliche, erstrahlende. Dem Bullen wurden die sieben Freunde geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zuerst erhob sich wunderbar der starke im heil'gen Schoosse in des Stieres Lager, Der Jüngling lieblich, wunderschön und strahlend, und sieben Freunde wurden da dem Stiere.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сперва возникла под ликование толпа  
 В лоне закона, в гнезде быка,  

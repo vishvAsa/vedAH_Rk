@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्नीषोमाव् इमं꣡ सु꣡ मे  
 शृणुतं꣡ वृषणा ह꣡वम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 भ꣡वतं दाशु꣡षे म꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (424)
 प्रति॑ । सु॒ऽउ॒क्तानि॑ । ह॒र्य॒त॒म् । भव॑तम् । दा॒शुषे॑ । मयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnīṣomāv* ← *agnīṣomau* ← *agnīṣoma*
 - \[noun\], vocative, dual, masculine
@@ -96,42 +96,42 @@ genre D;; epic anuṣṭubh (424)
 **वृषणा** वृषणौ कामानां वर्षितारौ हे **अग्नीषोमौ** **इमम्** इदानीं प्रयुज्यमानं **मे** मदीयं **हवम्** आह्वानं **सु** **शृणुतं** सम्यगवगच्छतम् । **सूक्तानि** शोभनानि स्तुतिलक्षणान्यस्माभिः कृतानि वचांसि **प्रति** **हर्यतं** प्रत्येकं कामयेथाम् । तदनन्तरं **दाशुषे** चरुपुरोडाशादीनि दत्तवते यजमानाय **मयः** मयसः सुखस्य दातारौ **भवतम्** ॥ अग्नीषोमौ । अग्निश्च सोमश्च । द्वन्द्वे  ‘ ईदग्नेः सोमवरुणयोः ' ( पा. सू. ६. ३. २७) इति ईत्वम् ।' अग्नेः स्तुत्स्तोमसोमाः ' ( पा. सू. ८. ३. ८२ ) इति षत्वम् । देवताद्वन्द्वे च ' इत्युभयपदप्रकृतिस्वरे प्राप्ते ‘आमन्त्रितस्य च ' इत्याद्युदात्तत्वम् । वृषणा ।  ‘ सुपां सुलुक्' ' इति आकारः । वा षपूर्वस्य ' इति विकल्पनादुपधाया दीर्घाभावः। हवम् । ‘भावेऽनुपसर्गस्य' इति ह्वयतेः अप् संप्रसारणं च। सूक्तानि । सुपूर्वात् वक्तेः कर्मणि निष्ठा।  ‘ सूपमानात् क्तः' इत्युत्तरपदान्तोदात्तत्वम् । हर्यतम् । हर्य गतिकान्त्योः '। भौवादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “**Agni** and **Soma**, showerers (of desires), favourably hear this my invocation, graciously accept my hymns, and bestow felicity on the donor (of the oblation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni and Soma, hear this call of mine, you bulls.  
 Delight in the well-spoken hymns. Become refreshment for the  
 pious man.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 BR corrected sám mahema to sám ahema ‘we would bind together’ to √nah, an emendation accepted by Grassmann, Geldner, Oldenberg (tentatively), KEWA I.153. Although I also accepted it in Jamison 1983: 87, I now follow Gotō (1987: 243; accepted in EWA s.v.) in seeing it as a form of √mah ‘bring about’, etymologically separate from √mah ‘magnify’. Although I do not like multiplying entities, Gotō’s etymological connections look reasonable; an interpretation with ‘make great’ is difficult; and a thematic pres. or aor. stem aha- to √nah does not exist and the zero-grade (←*nh̥ ) that would have to underlie it is not otherwise found to √nah.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI and Soma, mighty Pair, graciously hearken to my call,  
      Accept in friendly wise my hymn, and prosper him who offers gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni und Soma, ihr Bullen, höret fein auf diesen Ruf von mir, nehmet die schönen Worte gut auf, seid dem Opferspender eine Freude!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni-Soma, höret recht, ihr Stiere, diesen meinen Ruf; Die schönen Sprüche nehmet an, und seid zur Lust dem Opferer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни и Сома, два быка, услышьте  
 Как следует этот мой зов!  

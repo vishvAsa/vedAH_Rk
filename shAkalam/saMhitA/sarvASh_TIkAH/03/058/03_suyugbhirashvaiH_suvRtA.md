@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुयु꣡ग्भिर् अ꣡श्वैः सुवृ꣡ता र꣡थेन  
 द꣡स्राव् इमं꣡ शृणुतं श्लो꣡कम् अ꣡द्रेः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आहु꣡र् वि꣡प्रासो अश्विना पुराजाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 किम् । अ॒ङ्ग । वा॒म् । प्रति॑ । अव॑र्तिम् । गमि॑ष्ठा । आ॒हुः । विप्रा॑सः । अ॒श्वि॒ना॒ । पु॒रा॒ऽजाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suyugbhir* ← *su*
 - \[adverb\]
@@ -118,36 +118,36 @@ genre M;; repeated line
 हे अश्विनौ **सुयुग्भिः** सुष्ठु योजितैः **अश्वैः** **सुवृता** । पुनःपुनरावर्तते इति वृच्चक्रम् । शोभनचक्रोपेतेन **रथेन** आगत्य **दस्रौ** शत्रूणामुपक्षपयितारौ युवाम् **अद्रेः** । अद्रियते सर्वैरित्यद्रिः स्तोता । तस्य **इमं** **श्लोकं** स्तोत्रं **शृणुतम्** । **अङ्ग** हे अश्विनौ **विप्रासः** मेधाविनः **पुराजाः** पुरातना ऋषयः **वां** युवाम् **अवर्तिम्** अस्माकं वृत्तिहानिं **प्रति** **गमिष्ठा** अतिशयेन गन्ताराविति **किम्** **आहुः** किं कथयन्ति। न कथयन्तीत्यर्थः । प्रथमाष्टकेऽष्टमेऽध्याये  ‘ सुवृता रथेन' (ऋ. सं. १. ११८.३) इत्यादि गतम् ॥ गमिष्ठा । गन्तृशब्दादिष्ठनि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Dasras**, with well-yoked horses and well-constructed car, hear this praise of the worshipper, for have not the ancient sages declared you, **Aśvins**, to be most ready to come to the aid of the destitute?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your well-harnessed horses and smooth-rolling chariot, wondrous  ones, hear this signal call of the pressing stone.  
 Is it not true that the inspired poets born long ago have said that you are  the first to respond to trouble, Aśvins?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With lightly-rolling car and well-yoked horses hear this, the press-stone's song, ye Wonder-Workers.  
      Have not the sages of old time, ye Asvins, called you most prompt to come and stay misfortune?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den gutgeschirrten Rossen auf leichtrollendem Wagen fahrend höret auf dieses Geklapper des Preßsteines, ihr Meister! Warum haben gerade euch, Asvin, die frühgeborenen Redner als die genannt, die am besten dem Mangel begegnen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit gutgeschirrten Rossen, schnellem Wagen, o Wunderbare, hört den Schall des Presssteins, Warum doch nennen euch die alten Sänger die schnellsten Helfer in der Noth, o Ritter?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Отправившись) на легкозапрягаемых конях, на легкоходной колеснице,  
 Услышьте, о удивительные, этот стук давильного камня!  

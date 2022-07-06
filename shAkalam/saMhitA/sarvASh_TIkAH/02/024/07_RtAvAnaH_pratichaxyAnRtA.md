@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋता꣡वानः प्रतिच꣡क्ष्या꣡नृता पु꣡नर्  
 आ꣡त आ꣡ तस्थुः कव꣡यो मह꣡स् पथः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 न꣡किः षो꣡ अस्ति अ꣡रणो जहु꣡र् हि꣡ त꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ते । बा॒हुऽभ्या॑म् । ध॒मि॒तम् । अ॒ग्निम् । अश्म॑नि । नकिः॑ । सः । अ॒स्ति॒ । अर॑णः । ज॒हुः । हि । तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtāvānaḥ* ← *ṛtāvan*
 - \[noun\], nominative, plural, masculine
@@ -150,7 +150,7 @@ genre M
 ऋतावानः ऋतमितिसत्यनामधेयं तद्वन्तः कवयः क्रान्तदर्शिनः सर्वज्ञाअङ्गिरसः अनृताअनृता- निप्रतिचक्ष्यपूर्वोक्तप्रकारेणदृष्ट्वाअतः अस्मात् स्थानात् पुनराजिगमिषवः महस्पथोमहतोमार्गान् प्रतिआतस्थुः अवतस्थिरे अवतिष्ठमानाश्चते बाहुभ्यांहस्ताभ्यान्धमितम्मन्थनेनोत्पादितं प्रज्वालितं तमग्निंअश्मनिपणीनान्निवासभूतेशिलोच्च्येजहुर्हि दग्धुन्त्यक्तवन्तः खलु अरणः अरमयितादाहेनदुःख- कारीसोग्निः पूर्वन्तत्रनकिरस्तिनविद्यते अविद्यमानमग्निंस्वसामर्थ्यादुत्पाद्यतत्रप्रचिक्षिपुरित्यर्थः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -161,29 +161,29 @@ genre M
 Nakh ṣo **asti** = that is not; i.e. so **agniḥ** pūrvam tatra nakir asti, na vidyate, that fire formerly is not there, is not known; but they, of their own power, having produced the fire that was not known, or was not extant, threw it there: avidyamānam agnim svasāmarthyād utpādya tatra pracikṣipuḥ; this is an allusion to the dissemination of fire-worship by the **aṅgirasas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The truth-possessing poets, after observing the (Paṇis’) untruths again,  from there mounted the great paths.  
 They (mounted) the fire, fanned by arms, within the stone. It [=the fire]  is not one foreign (to them), for they left it behind.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The pious ones when they had seen the falsehoods turned them back, the sages stood again upon the lofty ways.  
      Cast down with both their arms upon the rock they left the kindled fire, and said, No enemy is he.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die wahrhaften Seher, die die Täuschungen entdeckt hatten, machten sich wieder von da auf die großen Wege. Sie fanden das mit den Armen angefachte Feuer im Fels: "Es ist ja kein fremdes", denn sie hatten es zurückgelassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Täuschung merkend schritten wieder vor von dort die frommen Weisen zu den grossen Pfaden hin, Das Feuer von zwei Armen im Gestein entflammt, das liessen sie zurück »kein fremdes ist es ja«.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соблюдая (вселенский) закон поэты, разглядев обманы,  
 Снова (уйдя) оттуда, вступили на великие пути.  

@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सस्था꣡वाना यवयसि त्व꣡म् ए꣡क इ꣡च् छचीपत  
 इ꣡न्द्र वि꣡श्वाभिर् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "महापङ्क्तिः"
 पि꣡बा सो꣡मस्य वज्रिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; line affected by realignment;; repeated line
 माध्य॑न्दिनस्य । सव॑नस्य । वृ॒त्र॒ऽह॒न् । अ॒ने॒द्य॒ । पिब॑ । सोम॑स्य । व॒ज्रि॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sasthāvānā* ← *sasthāvan*
 - \[noun\], accusative, dual, masculine
@@ -108,14 +108,14 @@ genre M;; line affected by realignment;; repeated line
 हे **शचीपते** **इन्द्र** **त्वमेकः** एव **सस्थावाना** समानं तिष्ठन्ताविमौ लोकौ **यवयसि** पृथक्करोषि । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You alone, **Indra**, lord of rites, separate the combined worlds (heaven and earth) with all yourprotections; slayer of **Vṛtra**, irreproachable wielder of the thunderbolt, drink of the **Soma** at the mid-daysolemnity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, just alone, keep apart the two (hosts) in confrontation—  
 – you lord of power, Indra, with all help—at the Midday Pressing,  
@@ -123,22 +123,22 @@ irreproachable Vr̥tra-smasher, drink of the soma, possessor of
 the mace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou only sunderest these two consistent worlds, O Indra, Lord of Strength, with all thy saving help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du allein bringst die aneinandergeratenen Heere auseinander, Herr der Kraft, mit allen Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die kampfverflochtnen Scharen trennest du allein, o Herr der Kraft, mit allen Hülfen, Indra du; O Vritratödter von der Mittagsspende hier, vom Soma trinke, tadelloser Schleuderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты один разъединяешь две слившихся ("половины вселенной),  
 О повелитель силы,  

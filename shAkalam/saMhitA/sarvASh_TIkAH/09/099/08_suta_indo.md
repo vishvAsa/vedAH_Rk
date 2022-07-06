@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुत꣡ इन्दो पवि꣡त्र आ꣡  
 नृ꣡भिर् यतो꣡ वि꣡ नीयसे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 चमू꣡षु आ꣡ नि꣡ षीदसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इन्द्रा॑य । म॒त्स॒रिन्ऽत॑मः । च॒मूषु॑ । आ । नि । सी॒द॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suta* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
@@ -100,35 +100,35 @@ genre M;; repeated line
 हे **इन्दो** **सुतः** अभिषुतः **यतः** आयतः सर्वतो विस्तृतस्त्वं **नृभिः** कर्मनेतृभिर्ऋत्विग्भिः **पवित्रे** **वि** **नीयसे** विशेषेण नीयमानो भवसि । ततः **मत्सरिन्तमः** अतिशयेन मादयिता त्वम् **इन्द्राय** इन्द्रार्थं **चमूषु** चमसेषु **आ** **नि** **षीदसि** ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When effused, **Indu**, and collected by the priests, you are guided to the filter; you alight on the cups for **Indra**, exciting exceeding exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drop, pressed and held by men, you are led through into the filter. As the one most exhilarating for Indra, you sit down here in the cups.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pressed, Indu, guided by the men, thou art led to the cleaning sieve.  
      Thou, yielding Indra highest joy, takest thy seat within the bowls.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgepreßt und von den Männern gezügelt, wirst du, Saft, auf die Seihe abgeleitet. Für Indra setzest du dich als der Berauschendste in den Camugefäßen nieder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst, gelenkt von Männern wirst du Indu in das Sieb geführt; Dem Indra als berauschendster, nimmst du in den Gefässen Platz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый, о сок сомы, направляемый мужами,  
 Ты отводишься в цедилку.  

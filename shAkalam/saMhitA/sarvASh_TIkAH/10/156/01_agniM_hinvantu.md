@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ हिन्वन्तु नो धि꣡यः  
 स꣡प्तिम् आशु꣡म् इवाजि꣡षु  
 ते꣡न जेष्म ध꣡नं-धनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 तेन॑ । जे॒ष्म॒ । धन॑म्ऽधनम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -95,36 +95,36 @@ genre M
 **नः** अस्माकं **धियः** कर्माणि स्तुतयो' वा **अग्निं** **हिन्वन्तु** प्रेरयन्तु । योगार्थमुद्योजयन्तु वर्धयन्तु वा । ‘ हि गतौ वृद्धौ च । तत्र दृष्टान्तः । आजिषु संग्रामेषु **आशुमिव** यथा आशुं शीघ्रगामिनं **सप्तिं** सर्पणशीलमश्वं योद्धारः प्रेरयन्ति तद्वत् । **तेन** अग्निना **धनंधनं** सर्वं धनं **जेष्म** वयं जयेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May our rites bring **Agni** here like a swift charger in battle, may we through him acquire all wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let our thoughts spur Agni on, like a swift span in the contests;  
 with him might we win prize after prize.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET songs of ours speed Agni forth like a fleet courser in the race,  
      And we will win each prize through him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni sollen unsere Dichtungen anspornen wie ein rasches Gespann im Wettrennen. Durch ihn möchten wir Preis auf Preis gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni sporne unser Lied, wie schnellen Renner auf der Bahn, Durch ihn sei Preis auf Preis ersiegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни пусть поторапливает наши молитвы,  
 Как быструю упряжку на состязаниях!  

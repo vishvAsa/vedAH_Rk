@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कविः꣡ कवित्वा꣡ दिवि꣡ रूप꣡म् आ꣡सजद्  
 अ꣡प्रभूती व꣡रुणो नि꣡र् अपः꣡ सृजत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡ अस्य व꣡र्णं शु꣡चयो भरिभ्रति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्षेम॑म् । कृ॒ण्वा॒नाः । जन॑यः । न । सिन्ध॑वः । ताः । अ॒स्य॒ । वर्ण॑म् । शुच॑यः । भ॒रि॒भ्र॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
@@ -146,36 +146,36 @@ genre M
 **कविः** क्रान्तदर्शी मित्रः **कवित्वा** कवित्वेन ॥ ‘सुपां सुलुक्” इति तृतीयाया आकारः ॥ क्रान्तदर्शनेन **दिवि** द्युलोके **रूपम्** आत्मीयं तेजः **आसजत्** आसक्तं करोति ॥ ‘ षन्ज संगे । अस्माल्लङि शपि दंशसञ्जष्वञ्जां शपि' (पा. सू. ६. ४. २५) इति नलोपः ॥ **अप्रभूती** अप्रभूत्या ॥ सुपां सुलुक्' इति तृतीयायाः पूर्वसवर्णदीर्घः ॥ अप्रभूष्णुना अल्पेनैव यत्नेन **वरुणः** मेघात् **अपः** **निः** **सृजत्** निरगमयत् । वरुणेन विसृष्टास्ता आपः **सिन्धवः** स्यन्दनशीला नद्यो भूत्वा **जनयो** **न** जाया इव यथा जायाः पत्युः क्षेमकारिण्यो भवन्ति तथा **क्षेमं** कुर्वाणा जगतो रक्षणं कुर्वाणाः **शुचयः** शुद्धा दीप्यमाना वा **अस्य** वरुणस्य **वर्णं** शुक्लं भास्वररूपं **भरिभ्रति** ॥ भृशं बिभ्रति धारयन्ति ॥ दाधर्त्यादिसूत्रे (पा. सू. ७. ४. ६५ ) ‘ भरिभ्रत्' इति निपातनाद्बिभर्तेः यङ्लुक्यभ्यासस्य जश्त्वाभावः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sage (**Mitra**) by his wisdom fixed his body in the sky; **Varuṇa** with but a wslight effort let loose thewaters, conferring happiness, like wives, the pure rivers assume his (white) tint.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The poet with his poetic craft has fastened the form (of the sun?) in  heaven. Without excess of power Varuṇa released the waters.  
 Making peace with each other like (co)wives, the rivers, (though) clear,  each variously bear his color.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Sage hath fixed his form by wisdom in the heavens: Varuna with no violence let the waters flow.  
      Like women-folk, the floods that bring prosperity have eau lit his hue and colour as they gleamed and shone.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Seher heftete mit Sehergabe die Farbe an den Himmel. Varuna ließ die Gewässer frei, da er keine Macht mehr besaß. Wie seine Frauen machen sich's die Flüsse behaglich; die Reinen wogen seine Farbe hin und her.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Klug schloss der Kluge Lichtglanz an den Himmel an und Varuna liess frei die Ströme ohne Macht, Und Frieden machend tragen diese Ströme nun des Indra Farbe, Frauen gleich, die glänzenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэт поэтическим вдохновением к нему цвет прикрепил.  
 Варуна от бессилия выпустил течь воды.  

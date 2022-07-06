@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् उ त्वा धीभि꣡र् अस्वरन्  
 हिन्वतीः꣡ सप्त꣡ जाम꣡यः  
 वि꣡प्रम् आजा꣡ विव꣡स्वतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विप्र॑म् । आ॒जा । वि॒वस्व॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -84,7 +84,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **हिन्वतीः** । लिङ्गव्यत्ययः । हिन्वन्तः स्तुतीः प्रेरयन्तः **सप्त** सप्तसंख्याकाः **जामयः** एकस्मिन् यज्ञे कर्मकरणेन परस्परं बन्धुभूता होतृप्रभृतयः सप्त होत्रकाः **विवस्वतः** देवानां हविष्प्रदानेन परिचरणवतो यजमानस्य **आजा** आजौ । अजन्ति गच्छन्ति ऋत्विजोऽत्रेत्याजिर्यज्ञः । तस्मिन् **विप्रं** मेधाविनं पवमानं **त्वा** त्वामेव **धीभिः** धीतिभिः स्तुतिभिः **सम्** **अस्वरन्** अशब्दयन् अस्तुवन् । यद्वा । हिन्वतीर्गच्छन्त्यः सप्त जामयो गङ्गाद्याः सप्त नद्यो धीभिः । वर्णलोपश्छान्दसः । धीतिभिः अङ्गुलीभिर्विप्रं त्वां समस्वरन् प्रेरयन्ति । वसतीवरीभिरेकधनाभिश्च परिशोधनार्थं प्रेरयन्तीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,13 +95,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Seven kindred priests: Or, the seven kindred rivers urge you with thei rfingers, i.e., send you forth to be cleansed by the vasatīvarī and **ekadhanā** waters
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Together the seven siblings cried out to you, inciting with insightful  thoughts  
 the inspired poet at the contest of Vivasvant.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It may not be clear in the published translation that “you” and “the inspired poet” are identical.
 
@@ -122,23 +122,23 @@ No particular sign of cohesion either internal or external.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Driving thee in Vivasvan's course, the Seven Sisters with their hymns  
      Made melody round thee the Sage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es haben die sieben Schwestern dich mit Kunst anspornend im Chore besungen, dich, den Beredten, im Wettkampf des Vivasvat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sieben Schwestern rauschten dir entsandt mit den Gebeten zu, Dir Weisem auf Vivasvats Bahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

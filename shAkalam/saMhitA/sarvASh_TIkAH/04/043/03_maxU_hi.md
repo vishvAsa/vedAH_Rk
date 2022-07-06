@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मक्षू꣡ हि꣡ ष्मा ग꣡छथ ई꣡वतो द्यू꣡न्  
 इ꣡न्द्रो न꣡ शक्ति꣡म् प꣡रितक्मियायाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡या श꣡चीनाम् भवथः श꣡चिष्ठा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दि॒वः । आऽजा॑ता । दि॒व्या । सु॒ऽप॒र्णा । कया॑ । शची॑नाम् । भ॒व॒थः॒ । शचि॑ष्ठा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *makṣū*
 - \[adverb\]
@@ -119,7 +119,7 @@ genre M
 **मक्षु** शीघ्रम् । **हि** **स्म** इति पूरणौ । **ईवतः** गमनवत आगामिनः **द्यून्** दिवसान् सुत्यासंबन्धिनः प्रति **गच्छथः**। **इन्द्रः** **शक्तिं** **न** स्वकीयां शक्तिं यथा **परितक्म्यायां** रात्रावतीतायाम् । प्रदर्शयतीति शेषः । सुत्याहन्युषःकाले इन्द्रो यथा गच्छति तद्वत् युवामपि गच्छतमित्यर्थः । दिवः द्युलोकात् **आजाता** आगतौ **दिव्या** दिवि भवौ **सुपर्णा** शोभनगमनौ युवां **शचीनां** युष्मदसंबन्धिनां कर्मणां शक्तीनां वा मध्ये **कया** शच्या **शचिष्ठा**  शक्तिमत्तरौ शोभनकर्मवन्तौ वा **भवथः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,13 +130,13 @@ genre M
 **Kayā** śacinām bhavathaḥ śaciṣṭhā = śacīnām yuṣmat saṃbandhinām karmaṇām śaktinām vā, acts or energies connected with you
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For during days such as these you two come right away, like Indra to his  ability at the decisive turn.  
 You two, born from heaven as fine-feathered heavenly birds—by which  one of your abilities do you become the most able?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. gives the answer to the questions in 1-2: the Aśvins. As was just indicated, this answer was adumbrated by 2cd, but indirectly, via a mention of a chariot that could only belong to the Aśvins. Now we finally have a verse couched in the dual, but note that the name Aśvin (or Nāsatya) is not found; the dual is enough.
 
@@ -147,23 +147,23 @@ In b śaktím is a slightly odd goal. Geldner takes it as an infinitive, a use o
 Pāda d, with the two forms of √śac (śácīnām … śáciṣṭhā) echoing śaktím in b, seems to allow the possibility that the Aśvins have comparable, but different, abilities from Indra’s.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So many days do ye come swiftly hither, as Indra to give help in stress of battle.  
      Descended from the sky, divine, strong-pinioned, by which of all your powers are ye most mighty?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr kommt an Tagen wie diesem rasch wie Indra zur Hilfeleistung in der entscheidenden Stunde, vom Himmel geboren, als himmlische Vögel. Durch welche der Kräfte seid ihr die Kräftigsten?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr seid's, denn beide kommt zu solchen Festen ihr rasch, wie Indra, morgens früh zum Opfer; Ihr Himmelssöhne, ihr des Himmels Adler, durch welche Stärke seid ihr doch die stärksten?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы мгновенно приезжаете в такие дни, как эти,  
 Подобно Индре, на помощь в решающую минуту,  

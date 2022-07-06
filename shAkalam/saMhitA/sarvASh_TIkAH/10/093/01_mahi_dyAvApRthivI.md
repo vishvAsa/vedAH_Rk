@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡हि द्यावापृथिवी भूतम् उर्वी꣡  
 ना꣡री यह्वी꣡ न꣡ रो꣡दसी स꣡दं नः  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 एभि꣡र् नः पातं शूष꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 तेभिः॑ । नः॒ । पा॒त॒म् । सह्य॑सः । ए॒भिः । नः॒ । पा॒त॒म् । शू॒षणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahi*
 - \[noun\], nominative, singular, neuter
@@ -116,36 +116,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **द्यावापृथिवी** द्यावापृथिव्यौ युवा **महि** अत्यन्तं यथा भवति तथा **उर्वी** विस्तीर्णे **भूतं** भवतम् । किंच **यह्वी** महत्यौ **रोदसी** द्यावापृथिव्यौ **नारी** **न** स्त्रियाविव **नः** अस्माकं **सदं** सदा भवतम् । किंच युवां **शूषणि** **नः** अस्माकं शत्रुबले युष्मदीयैः **एभिः** पालनैः **पातं** रक्षतम् । किंच युष्मदीयैः **तेभिः** तैः पालनैः **नः** अस्माकं **सह्यसः** अतिशयेनास्मानभिभवितुः शत्रोरपि **पातं** रक्षतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Heaven and earth, be great and spacious; mighty **Rodasī**, be ever with us like wives; with these (yourprotections), protect us from (the foe who is) stronger (than we), with these protect us in the might (of ourenemies).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become greatly wide, o Heaven and Earth; the two world-halves are  always like exuberant young women for us.  
 With these (gods?) protect us from one more powerful; with them protect  us when (he is) swollen with strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MIGHTY are ye, and far-extended, Heaven and Earth: both Worlds are evermore to us like two young Dames.  
      Guard us thereby from stronger foe; guard us hereby to give us strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seid recht weit, Himmel und Erde! Immer erscheinen uns die beiden Rodasi wie zwei jüngste Frauen. Mit diesen schützet uns vor einem Gewaltigeren, mit ihnen schützet uns, um überlegen zu sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Himmel und Erde, seid uns weit ausgedehnt, o ihr Welten beide, stets wie zwei rastlose Weiber; mit diesen [Helfern] schützt uns vor dem stärkeren, mit diesen schützt uns in unserm Machtbesitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

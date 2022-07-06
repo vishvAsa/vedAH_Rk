@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ उ स्य꣡ पुरुव्रतो꣡  
 जज्ञानो꣡ जन꣡यन्न् इ꣡षः  
 धा꣡रया पवते सुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धार॑या । प॒व॒ते॒ । सु॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -87,41 +87,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **स्यः** **एष** **उ** सोम एव **पुरुव्रतः** बहुकर्मा **जज्ञानः** जायमान एव **इषः** अन्नानि **जनयन्** उत्पादयन् **सुतः** अभिषुतः सन् **धारया** **पवते** क्षरति ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Produced at our rite and producing abundant food the **Soma**, efficacious in sacrifices, flows effused in a stream.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this one here, he of much authority, giving birth to refreshing  drinks while he is being born,  
 purifies himself in a stream when he is pressed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 An elementary passive / active figure: jajñānó janáyan “giving birth while he is being born,” somewhat reminiscent of the reciprocal figure in IX.2.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Lord of many Holy Laws, even at his birth engendering strength,  
      Effused, flows onward in a stream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser unter vielen frommen Bräuchen erzeugt, Labsale erzeugend, läutert sich ausgepreßt in Strömen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dieser wirkungsreiche Gott, der kaum gezeugt, Erquickung zeugt, Im Strome rieselt er gepresst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот самый, обильный обетами,  
 Едва родившись, порождая услады,  

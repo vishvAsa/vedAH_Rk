@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡शीम् ए꣡को बिभर्ति ह꣡स्त आयसी꣡म्  
 अन्त꣡र् देवे꣡षु नि꣡ध्रुविः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M
 वाशी॑म् । एकः॑ । बि॒भ॒र्ति॒ । हस्ते॑ । आ॒य॒सीम् । अ॒न्तः । दे॒वेषु॑ । निऽध्रु॑विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāśīm* ← *vāśī*
 - \[noun\], accusative, singular, feminine
@@ -72,39 +72,39 @@ genre M
 **देवेषु** **अन्तः** देवानां मध्ये द्योतमानः **निध्रुविः** निश्चले स्थाने वर्तमानः । यद्वा । नितरां गमनमस्यास्तीति निध्रुविः सर्वदा गच्छन् । अथवा संग्रामेषु शत्रूणां पुरतोऽतिशयेन स्थैर्यवान् । एतादृशः **एकः** त्वष्टृनामको देवः **आयसीम्** अयोमयधारां **वाशीम्** । ‘ वाशृ शब्दे '। शब्दयत्याक्रन्दयति शत्रूननयेति वाशी तक्षणसाधनं कुठारः । तं स्वकीये **हस्ते** बिभर्ति धारयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “One (**Tvaṣṭā**) immoveably stationed among the gods, holds his metal axe in his **hand**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 An axe this one bears in his hand—a metal one—he firmly founded  among the gods. [=Tvaṣṭar]
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Tvaṣṭar as referent of this verse is not so clear as some of the others, but in his capacity as “shaper” and with his secondary association with the root √takṣ ‘hew, carve, build’, it makes sense for him to have the axe as his emblem. The pairing with the next verse, clearly of Indra, may also make sense, since by many accounts Tvaṣṭar is Indra’s father. Oberlies (Relig. I.336) claims that this vs. has to do with battles over settling places, which must first be made habitable by felling and burning trees, but I think this reads too much into the passage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One brandishes in his hand an iron knife, firm, in his seat amid the Deities.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine trägt das eherne Messer in der Hand, der unter den Göttern der Seßhafte ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der eine trägt ein ehern Beil in seiner Hand, der Stand hält in der Götter Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Один несет в руке топор  
 Железный. Среди богов он постоянен.

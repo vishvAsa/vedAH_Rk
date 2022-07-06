@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡दो दुवा꣡ चक्रते° उपमा꣡ दिवि꣡  
 सम्रा꣡जा सर्पि꣡रासुती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M
 सदः॑ । द्वा । च॒क्रा॒ते॒ इति॑ । उ॒प॒ऽमा । दि॒वि । स॒म्ऽराजा॑ । स॒र्पिर्ऽआ॑सुती॒ इति॑ स॒र्पिःऽआ॑सुती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sado* ← *sadaḥ* ← *sadas*
 - \[noun\], accusative, singular, neuter
@@ -75,34 +75,34 @@ genre M
 सम्राजाविति लिङ्गेन मित्रावरुणावभिधीयेते । **उपमा** उपमौ परस्परं स्वकान्त्योपमानभूतौ । यद्वा । उपमीयत आभ्यां सर्वमित्युपमौ सर्वस्य । एतावेव **सम्राजा** सम्राजौ सम्यग्दीप्यमानौ **सर्पिरासुती** । सर्पिर्घृतमाभ्यामासूयत  इति सर्पिरासुती । घृतहविष्कौ **द्वा** द्वौ मित्रावरुणौ **दिवि** द्युलोके **सदः** । सीदन्त्यत्रेति सदः स्थानम् । तत् **चक्राते** अकार्ष्टाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Two of like beauty and of royal rank (**Mitra** and **Varuṇa**), worshipped with oblations of clarified butter,have taken their seat in heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A seat these two made for themselves, the two highest in heaven,  sovereign kings, whose potion is melted butter. [=Mitra and Varuṇa]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Two, highest, in the heavens have set their seat, worshipped with holy oil, imperial Kings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwei haben als Allherrscher zu oberst im Himmel sich den Sitz bereitet; sie bekommen flüssiges Schmalz als Tränklein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zwei nahmen als die höchsten in dem Himmel Platz, Weltherrscher, Trinker heissen Tranks.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сиденье двое приготовили себе высшее  
 На небе как два вседержителя, (те,) чье питье – расплавленный жир.

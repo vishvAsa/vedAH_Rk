@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡स् त्री꣡णि त्रिधा꣡तूनि  
 आ꣡ क्षेति विद꣡था कविः꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 सः । त्रीन् । ए॒का॒द॒शान् । इ॒ह । यक्ष॑त् । च॒ । पि॒प्रय॑त् । च॒ । नः॒ । विप्रः॑ । दू॒तः । परि॑ऽकृतः । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnis* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -147,7 +147,7 @@ genre M;; repeated line
 **कविः** क्रान्तदर्शी **अग्निः** **त्रीणि** **त्रिधातूनि** त्रिबन्धनादीनि पृथिव्यादीनि **विदथा** वेदनीयानि स्थानानि **आ** **क्षेति** आवसति । अपि च **सः** अग्निः **दूतः** देवानां **विप्रः** प्राज्ञः **परिष्कृतः** अलंकृतश्च सन् **इह** यज्ञे **त्रीनेकादशान** त्रयस्त्रिंशद्देवान् **यक्षत्** यजतु । **नः** अस्मान् पिप्रयच्च कामैः पूरयतु च । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -158,34 +158,34 @@ genre M;; repeated line
 The three elemetary regions: tridhātūni = threefold; or, three elements
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni inhabits the three (cosmic) divisions with their three parts, as sage poet. He will sacrifice to the thrice eleven (gods) here and please them for us,  as inspired poet and messenger, when he has been prepared.  
 –Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On vidátha- as ‘cosmic division’ see comm. ad vs. 1 above.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni the Wise inhabiteth three gathering-places, triply formed.  
      Decked as our envoy let the Sage bring hither and conciliate the Thrice Eleven Deities. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni besitzt die dreifachen Erkenntnisse, der Seher. Er soll hier den dreimal Elfen opfern und sie für uns zufrieden stellen, als beredter Bote ausgerüstet. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei dreigetheilten Scharen wohnt der einsichtsvolle Agni bei; Er ehre und erfreue hier die dreiunddreissig Götter uns der weise Bote rings geschmückt. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни принадлежит трем трехчастным  
 Местам жертвенных раздач, (этот) прозорливец.  

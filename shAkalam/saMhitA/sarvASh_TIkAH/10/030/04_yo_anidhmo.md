@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अनिध्मो꣡ दी꣡दयद् अप्सु꣡ अन्त꣡र्  
 यं꣡ वि꣡प्रास ई꣡ळते अध्वरे꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 या꣡भिर् इ꣡न्द्रो वावृधे꣡ वीरि꣡याय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अपा॑म् । न॒पा॒त् । मधु॑ऽमतीः । अ॒पः । दाः॒ । याभिः॑ । इन्द्रः॑ । व॒वृ॒धे । वी॒र्या॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 उत्तरार्धस्य प्रत्यक्षकृतत्वादेकवाक्यतायै युष्मच्छब्देन समानार्थो भवच्छब्दः प्रथमार्धेऽध्याहार्यः। **यः** भवान् अपां नपात् **अप्स्वन्तः** अपां मध्ये मेघस्थाने **अनिध्मः** काष्ठवर्जितः सन् **दीदयत** दीप्यते । **विप्रासः** मेधाविन ऋत्विग्यजमानाः **अध्वरेषु** यागेषु **यं** भवन्तम् **ईळते** स्तुवन्ति हे **अपां** **नपात्** स त्वं **मधुमतीः** मधुररसयुक्ताः **अपः** वृष्टिलक्षणाः **दाः** अस्मभ्यं देहि। **याभिः** वसतीवर्येकधनारूपाभिः सोमेन मिश्रिताभिरद्भिः **इन्द्रः** **वीर्याय** वृत्रवधादिशूरकर्मणे **ववृधे** वर्धते ता अपो देहीति संबन्धः ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ genre M
 Soma person nified, as the grandson of the waters is related to Soma which is to be mixed with the waterof the Vasatīvarī
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (For him) who shines without kindling wood within the waters, whom  the inspired poets call upon at the ceremonies.  
 O Child of the Waters, give the honeyed waters by which Indra grows  strong for his heroic deed,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who shines bright in floods, unfed with fuel, whom sages worship at their sacrifices:  
      Give waters rich in sweets, Child of the Waters, even those which gave heroic might to Indra:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ohne Brennholz im Wasser leuchtet, den die Beredsamen bei dem Opfer anrufen, Apam Napat, du mögest das süße Wasser geben, durch das Indra zur Heldenkraft erstarkt ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der ohne Brennholz strahlt in Wolkenwassern, und den die Sänger preisen bei den Festen, O Sohn der Wasser, gib uns süsse Wasser, durch welche Indra wächst zur Heldenstärke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, незажженный, сверкает из глубины вод,  
 Кого вдохновенные призывают на обрядах,  

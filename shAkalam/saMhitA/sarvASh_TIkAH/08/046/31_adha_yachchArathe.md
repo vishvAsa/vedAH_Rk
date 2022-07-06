@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध य꣡च् चा꣡रथे गणे꣡  
 शत꣡म् उ꣡ष्ट्राँ अ꣡चिक्रदत्  
 अ꣡ध श्वि꣡त्नेषु विंशतिं꣡ शता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अध॑ । श्वित्ने॑षु । विं॒श॒तिम् । श॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -83,40 +83,40 @@ genre M
 **अध** अथ **यत्** यदा **चारथे**। चरथं चरणं गमनम्। तत्संबन्धिनि चार्यमाणे । वनाय प्रेर्यमाण इत्यर्थः। तादृशे **गणे** उष्ट्रसंघे **उष्ट्रान्** शतम् उष्ट्राणां शतम् **अचिक्रदत्** अस्मभ्यं प्रदानायाजुहाव । **अध** अपि चास्मदर्थमेव **श्वित्नेषु** श्वेतवर्णेषु गोयूथेषु **विंशतिं** च **शता** शतानि च अथवा शतानां विंशतिमचिक्रदत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since, when the herd were wandering (to the wood), he called a hundred camels (to give them to me),and two thousand from among the white herds (of cows).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then when in a roving band [=caravan] a hundred camels roared, then (I took) twenty hundreds from the Śvitnas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I supply ā́dade from 32b, though asanam from 29a would also be possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And in the grazing herd he made a hundred camels bleat for me,  
      And twenty hundred mid the white.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und als in der Karawane hundert Kamele brüllten, da empfing ich bei den Svitna´s zwanzig Hunderte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da er jetzt sowol bei der wandernden Heerde hundert Büffel brüllen liess, wie auch bei den hellgefärbten (?) zwanzigmal hundert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И когда в караване  
 Подняла крик сотня верблюдов,  

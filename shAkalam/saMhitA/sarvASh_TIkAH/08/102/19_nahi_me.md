@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ मे अ꣡स्ति अ꣡घ्निया  
 न꣡ स्व꣡धितिर् व꣡नन्वति  
 अ꣡थैतादृ꣡ग् भरामि ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अथ॑ । ए॒ता॒दृक् । भ॒रा॒मि॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -83,20 +83,20 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **मे** मम भार्गवस्य प्रयोगस्यर्षेः **अघ्न्या** गौः । ‘अघ्न्या उस्रा' इति गोनामसु पाठात् । **नहि** **अस्ति** न विद्यते यस्याः पयसा आज्येन च त्वां यजेय। किंच **स्वधितिः** नहि **वनन्वति** काष्ठानि हन्ति यैः काष्ठैस्त्वां समिन्धीय' । **अथैतादृक्** अग्निहोत्रार्थं पयसो दोग्ध्रीं गाम् इन्धनसाधनानि काष्ठानि चैतत्सर्वं **ते** तुभ्यमहं **भरामि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “No cow is mine, and no axe is at **hand** to cleave wood, but yet I bring both these to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because I have no cow, nor an axe in a wooden (tree),  
 I therefore bring just a thing like this to you.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
 <details open><summary><h2>19-22 ...{Loading}...</h2></summary>
 
@@ -104,23 +104,23 @@ See published introduction. for my general interpr. of these verses.</details>
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No cow have I to call mine own, no axe at hand wherewith to work,  
      Yet what is here I bring to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe nämlich keine Kuh, die Axt ist nicht bei einem Holzbesitzer; also bringe ich dir nur dieses.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zwar ward mir keine Kuh zu Theil, noch eine Axt dem heischenden, Doch was ich habe, bring' ich dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У меня нет ни коровы,  
 Ни топора в лесу,  

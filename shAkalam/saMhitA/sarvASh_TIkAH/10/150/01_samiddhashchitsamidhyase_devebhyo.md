@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡मिद्धश् चित् स꣡म् इध्यसे  
 देवे꣡भ्यो हव्यवाहन  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मॄळीका꣡य+ न आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ॒दि॒त्यैः । रु॒द्रैः । वसु॑ऽभिः । नः॒ । आ । ग॒हि॒ । मृ॒ळी॒काय॑ । नः॒ । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samiddhaś* ← *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -116,14 +116,14 @@ genre M
 हे हव्यवाहन हव्यानां हविषां वोढरग्ने **समिद्धश्चित्** संदीप्तोऽपि **देवेभ्यः** यागार्थं **समिध्यसे** । पुनरप्यृत्विग्भिः समिद्भिः संदीप्यसे । स त्वम् **आदित्यैः** आदित्यादिभिस्त्रिभिर्गणैः सार्धं **नः** अस्मान् **आ** **गहि** आगच्छ । तथा **नः** अस्माकं **मृळीकाय** सुखाय तदर्थमपि **आ** **गहि** । यद्वा । मृळीकायैतत्संज्ञाय नो मह्यमृषये श्रेयांसि कर्तुमागच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bearer of oblations, being kindled you burn for the gods; come to us with the **Ādityas**, the **Rudras**, the”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even when you have been kindled, you are kindled (again), o  
 oblation-bearer for the gods.  
@@ -131,23 +131,23 @@ With the Ādityas, the Rudras, the Vasus, come to us here. For grace
 come to us here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU, bearer of oblations, though kindled, art kindled for the Gods.  
      With the Adityas, Rudras, Vasus, come to us: to show us favour come to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Obwohl schon entflammt wirst du nochmals entflammt, der du den Göttern die Opfer zuführest. Komme mit den Aditya´s, Rudra´s, Vasu´s zu uns, zur Gnade komme zu uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entflammt auch wirst du angefacht, der du den Göttern Opfer führst, Mit den Aditja's, Rudra's, Vasu's komm zu uns, uns hold zu sein, komm her zu uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хоть уже и ранее зажженный, ты зажигаешься (снова),  
 О везущий жертвы для богов!  

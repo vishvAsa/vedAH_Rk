@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृतं꣡ न꣡ श्वघ्नी꣡ वि꣡ चिनोति दे꣡वने  
 संव꣡र्गं य꣡न् मघ꣡वा सू꣡रियं ज꣡यत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 न꣡ पुराणो꣡ मघवन् नो꣡त꣡ नू꣡तनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । तत् । ते॒ । अ॒न्यः । अनु॑ । वी॒र्य॑म् । श॒क॒त् । न । पु॒रा॒णः । म॒घ॒ऽव॒न् । न । उ॒त । नूत॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛtaṃ* ← *kṛtam* ← *kṛta*
 - \[noun\], accusative, singular, neuter
@@ -144,7 +144,7 @@ genre M
 **श्वघ्नी** परस्वानां हन्ता कितवः **देवने** द्यूते **कृतं** **न** यथा कृतं **वि** **चिनोति** तद्वदिन्द्रः सूर्यं मृगयते । कदेत्यत आह । **यत्** यदा **मघवा** धनवानिन्द्रः **संवर्गं** सम्यग्वृष्टेर्वर्जयितारं **सूर्यम्** आदित्यं **जयत्** तदीयरसापहरणद्वारेण जथति । अथ प्रत्यक्षस्तुतिः । हे **मघवन्** धनवन्निन्द्र **ते** तव **तत्** सूर्यजयलक्षणं **वीर्यं** वीरत्वम् **अन्यः** त्वत्तोऽन्यो भविष्यत्कालीनः पुमान् **अनु** अनुकर्तुं **न** **शकत्** न शक्नोति । **पुराणः** पूर्वोऽपि त्वद्वीर्यमनुकर्तुं **न** शकत् न शक्नोति । **उत** अपि च **नूतनः** वर्तमानकालीनोऽपि त्वदीयं वीर्यमनुकर्तुं न शक्नोति ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,28 +155,28 @@ genre M
 When he overcomeṣ..the suṅIndra's victory over the sun is said to be his taking away the moisture or rain from the latter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a (gambler) with the best throw he pulls out the perfect (“hand” of  dice) in the game, when the bounteous one wins the sun as his takings. No other will be able to match this heroic deed of yours, neither one of  the past, o bounteous one, nor of the present.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As in the game a gambler piles his winnings, so Maghavan, sweeping all together, gained the Sun  
      This mighty deed of thine none other could achieve, none, Maghavan, before thee, none in recent time.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie der Spieler im Spiele sucht er den höchsten Wurf aus, wenn der Gabenreiche alle Gewinne einstreichend die Sonne erobert. Kein anderer kann dir diese Heldentat nachmachen, weder ein Früherer noch ein Jetztlebender, o Gabenreicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Spieler streicht er den Gewinnst beim Spiele ein, wenn er, der Held, als Beute sich die Sonne nimmt, Es kommt kein andrer dieser deiner Stärke gleich, kein früherer, o starker, noch ein jetziger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как удачливый игрок, он раскладывает счастливый бросок при игре (в кости),  
 Когда щедрый завоевывает притягивающее все солнце.  

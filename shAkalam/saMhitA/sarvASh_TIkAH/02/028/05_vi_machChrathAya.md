@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ म꣡च् छ्रथाय रशना꣡म् इवा꣡ग  
 ऋध्या꣡म ते वरुण खा꣡म् ऋत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ मा꣡त्रा शारि अप꣡सः पुर꣡ र्तोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मा । तन्तुः॑ । छे॒दि॒ । वय॑तः । धिय॑म् । मे॒ । मा । मात्रा॑ । शा॒रि॒ । अ॒पसः॑ । पु॒रा । ऋ॒तोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -136,36 +136,36 @@ genre M
 हेवरुण मत् मत्सकाशात् रशनामिवरज्जुमिवआगः विहिताननुष्ठानजनितं पापं विश्रथय शिथि- लीकुरु विमोचयोत्यर्थः तेत्वत्सम्बन्धिनऋतस्योदकस्यपूर्णाङ्खान्नदीं खाइतिनदीनाम तां ऋध्याम लभेमहि अपिच धियङ्कर्म वयतः सन्तन्वतोमेममतन्तुःकर्मसन्ततिः माछेदि छिन्नोमाभूत् नैरन्तर्येणा- स्त्वित्यर्थः तथाऋतोः समाप्तिकालात् पुरापूर्वंअपसः कर्मणः मात्राशरीरं प्राच्योदीच्याङ्गलक्षणं मा- शारि शीर्णंविकलम्माभूत् शॄहिंसायां कर्मणिलुङ् पुरऋतोरित्यत्रऋत्यकइतिप्रकृतिभावः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Cast off from me sin, **Varuṇa**, as if it were a rope; may we obtain from you a channel (filled) with water; cut not the thread of me (engaged in) weaving pious works; blight not the elements of holy rites before the season (of their maturity).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Loosen my offense from me like a halter. We would succeed in reaching  the wellspring of your truth, Varuṇa.  
 Let my thread not be cut as I weave my insight. Let not the full measure  of my work be broken before its season.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loose me from sin as from a bond that binds me: may we swell, Varuna, thy spring of Order.  
      Let not my thread, while I weave song, be severed, nor my work's sum, before the time, be shattered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Löse die Sünde von mir wie einen Gurt ! Wir möchten dir den Born der Wahrheit recht machen. Der Faden soll nicht reißen, während ich meine Dichtung webe, noch soll der Maßstab des Werkmeisters vor der Zeit brechen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lös' ab von mir wie einen Strick die Sünde, wir wollen dir der Andacht Quell ergiessern Nicht reiss' der Faden, wenn Gebet ich webe, nicht vor der Zeit brech' ab das Mass des Wirkens.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ослабь грех на мне, словно пояс!  
 Пусть будет нам удача (в том, чтобы достигнуть) источника твоего закона, о Варуна!  

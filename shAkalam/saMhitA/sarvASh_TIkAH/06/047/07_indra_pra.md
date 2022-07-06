@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र प्र꣡ णः पुरएते꣡व पश्य  
 प्र꣡ नो नय प्रतरं꣡ व꣡स्यो अ꣡छ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡वा सु꣡नीतिर् उत꣡ वाम꣡नीतिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 भव॑ । सु॒ऽपा॒रः । अ॒ति॒ऽपा॒र॒यः । नः॒ । भव॑ । सुऽनी॑तिः । उ॒त । वा॒मऽनी॑तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -141,7 +141,7 @@ genre M
 हे **इन्द्र** त्वं **पुरएतेव** पुरतो गन्तेव **नः** अस्मान् **प्र** **पश्य** प्रकर्षेणेक्षस्व । यथा मार्गरक्षकः स्वयं पुरतो गच्छन्ननुगच्छतो रक्षणीयान् पथिकान् पश्यति तथा पश्येत्यर्थः । तथा **वस्यः** वसीयः श्रेष्ठं धनम् **अच्छ** आभिमुख्येन **प्रतरं** प्रकृष्टतरमतिशयेन **प्र** **णय** अस्मान् प्रापय । तथा **सुपारः** सुष्ठु पारयिता दुःखेभ्यस्तारयिता **भव** । तथा **नः** अस्मान् स्तोतॄन् **अतिपारयः** शत्रूनतिक्रामय । **सुनीतिः** शोभननयनश्चास्माकं **भव**। **उत** अपि च **वामनीतिः** वामानां वननीयानां धनानां नेता भव । यद्वा । अस्मदर्थं श्रेष्ठप्रापणो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,13 +152,13 @@ genre M
 Look out: pra ṇaḥ **pura** eteva **paśya**, like one who is preceding us, look; look after the travellers under the charge of the mārgarakṣaka, the protector of the road, an escort, or perhaps, the leader of a kāfilā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, look forward for us, like the man who goes ahead; lead us further  forward, toward a better state.  
 Become one of good passage, who gives us passage beyond; become  one of good guidance and valued guidance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. is built on variant repetition: ab prá ṇah …, prá naḥ … prataram / c su-pāró ati-pārayó / d sú-nītiḥ … vāmá-nītiḥ.
 
@@ -169,23 +169,23 @@ impvs. (paśya and naya). The only differences are 1) the first prá sequence is
 immediately follows naḥ, while in the first some verbal material intervenes, and 3) in the first naḥ functions as a dat. but in the second as an acc. None of these differences should (as far as I can see) trigger different sandhi effects.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Look out for us, O Indra, as our Leader, and guide us on to gain yet goodlier treasure.  
      Excellent Guardian, bear us well through peril, and lead us on to wealth with careful guidance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra! Schau für uns aus wie ein Wegführer, geleite uns weiter zum Glück, sei ein guter Retter, der uns hinausführt; sei ein guter Führer und ein trefflicher Führer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Blick vor uns her, o Indra, wie ein Führer, und leite weiter uns zu reicherm Gute; Du setz uns über, schön hinüberfahrend, sei sichrer Leiter, der uns herrlich leite.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, смотри для нас вперед как проводник!  
 Вези нас дальше вперед к счастью!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्र꣡स् त꣡न् नो व꣡रुणो मामहन्त  
 श꣡र्म तोका꣡य त꣡नयाय गोपाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ त꣡त् कर्म वसवो य꣡च् च꣡यध्वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 मा । वः॒ । भु॒जे॒म॒ । अ॒न्यऽजा॑तम् । एनः॑ । मा । तत् । क॒र्म॒ । व॒स॒वः॒ । यत् । चय॑ध्वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitras* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
@@ -140,14 +140,14 @@ genre M;; repeated line
 **मित्रः** **वरुणः** अहर्निशाभिमानिनौ देवावेतदाद्याः सर्व आदित्याः **नः** अस्मभ्यं **तत्** प्रसिद्धं **शर्म** सुखं **ममहन्त** । मंहतिर्दानकर्मा । ददतु । **गोपाः** विश्वस्य रक्षकास्ते देवाः **तोकाय** अस्मदीयाय पुत्राय **तनयाय** तत्पुत्राय च शर्म प्रयच्छन्तु । अथ प्रत्यक्षस्तुतिः । हे देवाः **वः** युष्मदीया वयम् **अन्यजातम्** अन्येनोत्पादितम् **एनः** पापं **मा** **भुजेम** मा भुक्तवन्तः स्याम । हे **वसवः** वासका देवाः **यत्** येन युष्मदप्रियेण कर्मणा **चयध्वे** यूयमस्मान्नाशयत **तत्** तादृशं कर्म वयं **मा** **कर्म** मा कार्ष्म ॥ लुङि करोतेरुत्तमस्य बहुवचनम् । मन्त्रे घसह्वर ' इत्यादिना च्लेर्लोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Mitra** and **Varuṇa** bestow upon us felicity; (may they), the guardians (of all men, bestow felicity)upon our sons and grandsons; let us not suffer (gods), for offences committed by another; let us not, **Vasus**, doany act by which you may be offended.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mitra, Varuṇa, (and the other Vasus) will be ready to give us  
 this: protection as our herdsmen for our kith and kin.  
@@ -155,23 +155,23 @@ this: protection as our herdsmen for our kith and kin.
 Let us not suffer the guilt toward you that is born from another. Let us  not do that which you avenge, o Vasus.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Varuna and Mitra grant this blessing, our Guardians, shelter to our seed and offspring.  
      Let us not suffer for another's trespass. nor do the thing that ye, O Vasus, punish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitra und Varuna, die Hüter, sollen unserem leiblichen Samen diesen Schutz gewähren. Nicht wollen wir anderer Sünde wider euch büßen, noch wollen wir das tun, was ihr Guten bestraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns mögen Mitra-Varuna gewähren, die Hüter, Schutz für Kinder und für Enkel; Nicht lasst uns büssen eines andern Fehltritt; nicht wollen thun wir, was ihr guten strafet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Митра, Варуна (и другие) обязательно даруют нам эту  
 Защиту для продолжения рода, (они,) хранители!  

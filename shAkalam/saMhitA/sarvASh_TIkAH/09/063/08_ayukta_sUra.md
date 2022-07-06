@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡युक्त सू꣡र ए꣡तशम्  
 प꣡वमानो मना꣡व् अ꣡धि  
 अन्त꣡रिक्षेण या꣡तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒न्तरि॑क्षेण । यात॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayukta* ← *yuj*
 - \[verb\], singular, Root aorist (Ind.)
@@ -77,20 +77,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पवमानः** पूयमानः सोमः **मनावधि**। मनुर्मनुष्यः । तस्मिन् मनुष्य इत्यर्थः । **अन्तरिक्षेण** **यातवे** गन्तुं **सूरः** सूर्यस्य **एतशम्** अश्वम् । ‘एतग्वः एतशः' इत्यश्वनामसु पाठात् । **अयुक्त** युङ्क्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purified (**Soma**) harnesses the horse of the sun to travel through the firmament to man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has yoked Etaśa, (the steed) of the Sun, purifying himself in Manu’s  presence,  
 to drive through the midspace.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Soma goes from affecting the sun in vs. 7 to identity with the sun in this vs, since he yokes Etaśa, the sun’s horse, and travels through the midspace as if on the sun’s daily journey - at least in my interpr. and that of Geldner But the vs. can be interpr. in a number of diff. ways, in part because the sū́ra of the Saṃhitā text is multiply ambiguous. If its underlying form is sū́raḥ, per the Pp., it can be either gen./abl. to svàr- (so Sāyaṇa., as well as Geldner and the published translation) or nom. sg. to sū́ra-; however, it could also be underlying sū́re and a loc. to sū́ra-. (Renou also allows the dat., presumably to svàr-, but the only clear dat. to this stem is accented sūré [IV.3.8]; sū́re duhitā́[I.34.5] is actually an old gen. with close sandhi effect before dental, likewise in IX.97.38; see my Fs. Melchert article, “Sū́re Duhitár's Brother, the ‘Placer of the Sun’: Another Example of -e ←*-as in Rigvedic Phrasal Sandhi,” 2010.). In any case, an underlying sū́raḥ is more likely than sū́re because of the sū́ro in the next vs. (9b), which repeats much of the verbal material in this one.
 
@@ -107,23 +107,23 @@ On this tṛca see published introduction. In these vss. Soma is compared to the
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Pavamana, high o'er man yoked the Sun's courser Etasa  
      To travel through the realm of air.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Pavamana hat unter Manu den Etasa der Sonne geschirrt, um durch die Luft zu fahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sonne hat ihr Ross geschirrt hellflammend in des Menschen Sitz, Zu fahren durch den Raum der Luft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

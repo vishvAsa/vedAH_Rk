@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्मा कृणोति व꣡रुणो  
 गातुवि꣡दं त꣡म् ईमहे  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वित्त꣡म् मे अस्य꣡ रोदसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 वि । ऊ॒र्णो॒ति॒ । हृ॒दा । म॒तिम् । नव्यः॑ । जा॒य॒ता॒म् । ऋ॒तम् । वि॒त्तम् । मे॒ । अ॒स्य । रो॒द॒सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmā* ← *brahman*
 - \[noun\], accusative, plural, neuter
@@ -131,7 +131,7 @@ genre M;; repeated line
 यः **वरुणः** अनिष्टस्य निवारयिता देवः **ब्रह्म** परिवृढं तद्रक्षणरूपं कर्म **कृणोति** करोति **तं** तादृशं **गातुविदं** गातोर्मार्गस्य दुःखनिवारकस्य लम्भयितारं वरुणम् **ईमहे** अभिमतफलं याचामहे । ईमहे इति याञ्चाकर्मा। तस्मै वरुणाय अयमस्मदीयः स्तोता हृदा हृदयेन **मतिं** मननीयां स्तुतिं व्यूर्णोति विवृणोति प्रकाशयति उच्चारयतीत्यर्थः। सोऽयं **नव्यः** स्तुत्यो वरुणोऽस्माकम् **ऋतं** **जायतां** सत्यभूतोऽस्तु ॥ ब्रह्म। ‘ अन्येषामपि दृश्यते ' इति सांहितिको दीर्घः । गातुविदम् ।' विद्लृ लाभे'। अन्तर्भावितण्यर्थात् क्विप् । ईमहे ।' ईङ् गतौ '।' बहुलं छन्दसि ' इति विकरणस्य लुक् । हृदा । ‘पदन्' इत्यादिना हृदयशब्दस्य हृदादेशः ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,14 +142,14 @@ genre M;; repeated line
 **Brahmā** kṛṇoto **varuṇaḥ** = **rakṣa**.narūpakarma, the act which is of the nature of preserving
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Varuṇa creates sacred formulations; we implore him as the finder of  the way.  
 He opens up the thought in our heart. Let a newer truth be born.  
 – Take heed of this (speech) of mine, you two world-halves.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">
 <details open><summary><h2>12-15 ...{Loading}...</h2></summary>
 
@@ -159,23 +159,23 @@ This set of verses forms a small internal ring: 12 and 15 contain ṛtám and n�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Varuna makes the holy prayer. To him who finds the path we pray.  
      He in the heart reveals his thought. Let sacred worship rise anew. Mark this my woe, ye Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Varuna wirkt das Segenswort; an ihn als den Pfadfinder wenden wir uns. Er erschließt im Herzen den Gedanken; ein neues rechtes Lied soll entstehen. - Seid in solcher Lage, meiner Eingedenk, Himmel und Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebete wirket Varuna, ihn bitten wir, dass Bahn er macht, Er schliesst das Lied im Herzen auf, das heil'ge Werk erstehe neu. Bezeugt mir, Erd' und Himmel, das.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Варуна создает молитву.  
 К нему, ведающему путь, мы обращаемся.  

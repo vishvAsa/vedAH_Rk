@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡तुरिर् वीरो꣡ न꣡रियो वि꣡चेताः  
 श्रो꣡ता ह꣡वं गृणत꣡ उर्वि꣡ऊतिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वाजी꣡ स्तुतो꣡ विद꣡थे दाति वा꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वसुः॑ । शंसः॑ । न॒राम् । का॒रुऽधा॑याः । वा॒जी । स्तु॒तः । वि॒दथे॑ । दा॒ति॒ । वाज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taturir* ← *taturiḥ* ← *taturi*
 - \[noun\], nominative, singular, masculine
@@ -114,20 +114,20 @@ genre M
 **वाजी** अन्नवान् इन्द्रः **विदथे** यज्ञेऽस्माभिः **स्तुतः** **सन्** **वाजम्** अन्नं **दाति** अस्मभ्यं ददाति । कीदृश इन्द्रः । **ततुरिः** शत्रूणां हिंसकः **वीरः** विक्रान्तः **नर्यः** नरहितः **विचेताः** विविक्तज्ञान: **हवम्** अस्मदीयं स्तोत्रं **श्रोता** **गृणतः** स्तुवतः स्तोतृजनस्य **उर्व्यूतिः** विस्तृतरक्षः **वसुः** वासयिता **नरां** नृणां स्तोतृजनानां **शंसः** शंसनीयः **कारुधायाः** कारूणां स्तोतॄणां धारयिता। एवंभूत इन्द्रो वाजं ददातीति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The surpasser (of foes), a hero, the friend of man, the discriminator, the hearer of the invocation, the great protector of his adorers, the giver of dwelings, the ruler of men, the cherisher of his worshippers, the bestower of food, grants us, when glorified at the sacrifice, (abundant) sustenance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The surpassing hero, favorable to men, discriminating, the hearer of the  singer’s call, whose help is wide-ranging,  
 the good one, the Laud of Men, who gives succor to bards, praised as  the prizewinner, he gives the prize at the rite of distribution.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner supplies the verb ‘drive’ in c (“Mit diesen (treib) alle Angriffe auseinander”), but I see no reason why it can’t be in the orbit of d. In vs. 1 the two pādas cd share a single verb (avīḥ c), as do the first two pādas of this vs. (vyathayā).
 
@@ -144,23 +144,23 @@ On avīḥ (1c) and áva tārīḥ (2d) as “hortativ,” see Hoffmann Injunk. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Friend of man, most wise, victorious Hero, hears, with far-reaching aid, the singer call him.  
      Excellent, Praise of Men, the bard's Supporter, Strong, he gives strength, extolled in holy synod.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Überwinder, Held, mannhaft, klug, Erhörer des Rufes des Sängers, weiten Schutz gewährend, gut, der Preis der Männer, den Dichter ernährend, als Sieger in der Opferrede gepriesen verleiht er den Siegerpreis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Siegesheld, der tapfre und der weise, vernimmt den Ruf des Sängers weitbeschirmend, Der Männer Lob, der gute, Dichter pflegend; gelobt beim Opfer gibt der reiche Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Победитель, герой, мужественный, прозорливый,  
 Тот, кто слышит зов воспевателя, далеко простирая поддержку,  

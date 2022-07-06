@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मृज꣡न्ति त्वा द꣡श क्षि꣡पो  
 हिन्व꣡न्ति सप्त꣡ धीत꣡यः  
 अ꣡नु वि꣡प्रा अमादिषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अनु॑ । विप्राः॑ । अ॒मा॒दि॒षुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **त्वा** त्वां **दश** दशसंख्याकाः **क्षिपः** अङ्गुलयः । ‘ व्रिशः क्षिपः' इत्यङ्गुलिनामसु पाठात्। **मृजन्ति** परिचरन्ति । **सप्त** सप्तसंख्याकाः **धीतयः** होत्रकाश्च त्वा त्वां हिन्वन्ति स्वस्वव्यापारैः प्रीणयन्ति । **विप्राः** मेधाविनश्च त्वाम् **अनु** **अमादिषुः** अनुमादयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,36 +90,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The seven priests caress you: sapta dhītayaḥ; but, in RV 9.062.17, this is explained as 'seven metres
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ten fingers groom you; seven insightful thoughts propel you.  
 Inspired poets have cheered you on.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Why do the thoughts number seven (saptá dhītáyaḥ)? Geldner (n. 4ab) links them with the seven dhā́tars in nearby IX.10.3, while Renou adds the seven dhā́man of IX.102.2. These suggestions are reasonably plausible, though they simply displace the numerical problem.
 
 We should also note that the seven thoughts recur in the next hymn (IX.9.4), and another, unidentified, group of seven entities is found two vss. later (IX.9.6). IX.8-10 are attributed to the same poet, Asita Kāśyapa or Devala Kāśyapa (responsible indeed for IX.5-24), and he may simply have a penchant for the number seven; in our passage it would be a complement to the ten fingers (a number that of course makes sense). For saptá dhītáyaḥ and ten fingers in a hemistich almost identical to this one, see IX.15.8; for further occurrences of “seven inspired thoughts” see IX.62.17 and possibly IX.66.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The ten swift fingers deck thee forth, seven ministers impel thee on:  
      The sages have rejoiced in thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es putzen dich die zehn Finger, sieben fromme Gedanken treiben dich zur Eile; die Redekundigen haben dir zugejubelt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es striegeln die zehn Finger dich, und sieb'n Gebete spornen dich, Es jauchzten dir die Sänger zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Начищают тебя десять пальцев,  
 Поторапливают семь молитв.  

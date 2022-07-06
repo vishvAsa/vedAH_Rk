@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानो अभि꣡ स्पृ꣡धो  
 वि꣡शो रा꣡जेव सीदति  
 य꣡द् ईम् ऋण्व꣡न्ति वेध꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत् । ई॒म् । ऋ॒ण्वन्ति॑ । वे॒धसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -83,35 +83,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यत** यदा **ईम्** एनं सोमं **वेधसः** कर्मणां कर्तारः **ऋण्वन्ति** प्रेरयन्ति तदा **पवमानः** क्षरन्नेष सोमः **स्पृधः** स्पर्धमानान् यागविघ्नकारिणो राक्षसान् **विशः** स्पर्धमानान् मनुष्यान् **राजेव** यथा राजा तद्वत् **अभि** **षीदति** नाशयितुमभिगच्छति ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the priests excite it, the flowing **Soma** like a king destroys opposing (demons and) men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The self-purifying one sits over his opponents, like a king over the clans, when the ritual adepts set him in motion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When purified, he sits as King above the hosts, among his folk,  
      What time the sages bring him nigh.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd schüchtert er die Gegner ein wie ein König seine Untertanen, wenn ihn die Meister in Gang bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der rieselnde, er hält im Zaum die Feinde, wie sein Volk der Fürst, Wenn ihn die Priesterschar erregt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Павамана держит в узде противников,  
 Как царь – племена,  

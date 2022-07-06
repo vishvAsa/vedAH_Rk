@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तूतुजानो꣡ महेमते  
 अ꣡श्वेभिः प्रुषित꣡प्सुभिः  
 आ꣡ याहि यज्ञ꣡म् आशु꣡भिः श꣡म् इ꣡द् धि꣡ ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 आ । या॒हि॒ । य॒ज्ञम् । आ॒शुऽभिः॑ । शम् । इत् । हि । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tūtujāno* ← *tūtujānaḥ* ← *tuj*
 - \[verb noun\], nominative, singular
@@ -88,36 +88,36 @@ genre M;; line affected by realignment
 हे **महेमते** । महते फलाय मतिर्बुद्धिर्यस्यासौ महेमतिः । अलुक् छान्दसः । स तादृश हे इन्द्र **तूतुजानः** त्वरमाणः सन् **प्रुषितप्सुभिः** स्निग्धरूपैः **आशुभिः** शीघ्रगामिभिः **अश्वेभिः** अश्वैः **यज्ञम्** अस्मदीयम् **आ** **याहि** आगच्छ। **हि** यस्मात् **ते** तव तस्मिन् यज्ञे **शमित्** सुखं विद्यत एव । अत आगच्छेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Munificently minded, do you, who are quick of movement, come with shining and swift steeds to thesacrifice, for verily there is gratification to you thereby.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You of great thought, ramming through with your horses frothing at  the mouth,  
 with the swift ones, drive here to the sacrifice—for it is surely weal  for you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Put forth thy strength: with dappled Steeds come, thou of mighty intellect,  
      With swift Steeds to the sacrifice, for 'tis thy joy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, du Hochherziger, dich mit den fleckfarbenen Rossen sputend, mit den schnellen zum Opfer, denn er sagt dir zu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O hochgesinnter, eilend komm zum Opfer mit den Rossen her, Den raschen, buntgesprenkelten; denn Heil ist dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О великий духом, спеша  
 На конях в яблоках,  

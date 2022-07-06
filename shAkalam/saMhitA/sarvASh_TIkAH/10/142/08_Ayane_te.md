@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡यने ते परा꣡यणे  
 दू꣡र्वा रोहन्तु पुष्पि꣡णीः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 समुद्र꣡स्य गृहा꣡ इमे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 ह्र॒दाः । च॒ । पु॒ण्डरी॑काणि । स॒मु॒द्रस्य॑ । गृ॒हाः । इ॒मे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āyane* ← *āyana*
 - \[noun\], locative, singular, neuter
@@ -90,37 +90,37 @@ popular;; epic anuṣṭubh (424)
 अनयापि स्वनिवासस्य दाहानर्हता प्रतिपाद्यते । हे अग्ने **ते** तव **आयने** आगमने **परायणे** परागमने वा सति अस्यां निवासभूमौ **पुष्पिणीः** पुष्पवत्यो **दूर्वाः** **रोहन्तु** प्ररोहन्तु । तथा **ह्रदाः** अशोष्योदका जलाशयाः **च** भवन्तु **पुण्डरीकाणि** पद्मानि च तेषु ह्रदेषु जायन्ताम् । किं बहुना । **समुद्रस्य** जलधेः **इमे** अस्मिन्निवासप्रदेशे **गृहाः** आश्रयभूता भवन्तु । यथा समुद्रावासभूमिः कदाचिदपि न दह्यते एवं कदाचिदप्यस्मत्स्थानं न दह्यतामित्यर्थः । एतदुक्तं भवति । दूर्वाकाण्डप्ररोहणप्रार्थनेन स्वाश्रयस्य शीतलत्वं ह्रदप्रार्थनेन तृष्णोपशमनकारणस्य जलस्य सत्त्वं पुण्डरीकसद्भावप्रार्थनेनोपभोग्यस्य फलादेः सत्ता समुद्रगृहत्वप्रार्थनेन दाहानर्हता चेत्येतत्सर्वं प्रतिपाद्यत इति ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Both at your arrival, **Agni**, and at your departure, may the flowering **dūrva** grasses spring up; maylakes (be formed) and lotuses (therein); may these be the dwellings of the ocean.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On your course hither and your course away let flowering dūrvā  
 grass grow,  
 and ponds and lotus blossoms. Here is the house of the sea.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On thy way hitherward and hence let flowery Durva grass spring up  
      Let there be lakes with lotus blooms. These are the mansions of the flood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf deinem Her- und Hinweg sollen blühende Durvagräser sprießen, Teiche und Lotusblumen entstehen! Dies ist das Haus des Meeres!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei deinem Ankommen und Weggehen mögen blütenreiche Hirsengräser emporsteigen und Seen und Lotusteiche und diese Wohnstätten des Meeres.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В (том) месте, куда ты придешь (и откуда) уйдешь,  
 Пусть вырастут дурвы цветущие,  

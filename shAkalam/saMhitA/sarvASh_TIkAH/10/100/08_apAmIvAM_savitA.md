@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पा꣡मीवां सविता꣡ साविषन् नि꣡अग्  
 व꣡रीय इ꣡द् अ꣡प सेधन्तु अ꣡द्रयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ग्रावा॑ । यत्र॑ । म॒धु॒ऽसुत् । उ॒च्यते॑ । बृ॒हत् । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apāmīvāṃ* ← *apa*
 - \[adverb\]
@@ -120,37 +120,37 @@ genre M;; repeated line
 **सविता** सर्वस्य प्रेरकः सवितृदेवोऽस्माकं संबन्धिनम् **अमीवां** रोगम् **अप** **साविषत्** अपप्रेरयतु । अपगमयत्वित्यर्थः । तथा **वरीय** **इत्** उरुतरमपि पापं **न्यक्** नीचीनम् **अप** **सेधन्त्वद्रयः** पर्वताभिमानिनो देवा अभिषवाश्मानो वा । एतत्सर्वं कुत्र भवत्विति चेत् उच्यते । यत्र यस्मिन् प्रदेशे यस्मिन् यागे वा मधुरस्य सोमस्य सोता **ग्रावा** **बृहत्** प्रवृद्धम् **उच्यते** स्तूयते तत्र ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Savitā** drive away (our) disease, may the mountains keep off our most heinous (sin), where thestone( the effuser) of the sweet **Soma** is abundantly praised. We long for the universal **Aditi**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Away and downward may Savitar impel affliction; even more widely let  the stones drive it away,  
 when the honey-pressing pressing-stone is given lofty voice. – We  
 choose wholeness and innocence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Savitar remove from us our malady, and may the Mountains keep it far away from where  
      The press-stone as it sheds the meath rings loudly forth. We ask for freedom and complete felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Savitri soll die Krankheit in den Boden verbannen, die Berge sollen sie so weit wie möglich fernhalten, wo der Süßes pressende Stein laut ertönt. - Wir erbitten Vollkommenheit von der Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hinweg zu Boden werf die Krankheit Savitar, die Felsen mögen weit hinweg verscheuchen sie Von hier, wo Soma pressend laut der Stein ertönt; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

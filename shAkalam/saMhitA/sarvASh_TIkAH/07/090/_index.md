@@ -10,7 +10,7 @@ title = "+090"
 तृतीये छन्दोमे प्रउगशस्त्रे ‘प्र वीरया' इति वायव्यस्तृचः । सूत्रितं च - प्र वीरया शुचयो दद्रिरे वां ते सत्येन मनसा दीध्यानाः' (आश्व. श्रौ. ८. ११) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 90 (606)  
 Vāyu (1–4), Indra and Vāyu (5–7)  
@@ -21,7 +21,7 @@ ally become the horses that pull the chariot of the two gods.
 As befits the early morning setting of the ritual, Dawn is prominent in the hymn  (vss. 3–4), with the latter verse alluding obliquely to the Vala myth associated with  the primal dawn. The distribution of gifts and goods appropriate to the early morn ing ritual is also prominent. In the early verses 2 and 3 there is promise of benefits  for the sacrificer from the gods, a promise that in the last two verses (6–7) is actually  fulfilled by the gifts made by the human patrons of the sacrifice. Indeed the patrons  seem to be partly assimilated to the gods: they have the power to confer not only  goods but sunlight itself (see vs. 6), and they share with the gods the repeated par ticiple īśāná “having dominion over,” said of Vāyu in verse 2, of Indra and Vāyu in  verse 5, and of the patrons in verse 6.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Vāyu / Indra and Vāyu
 </details>

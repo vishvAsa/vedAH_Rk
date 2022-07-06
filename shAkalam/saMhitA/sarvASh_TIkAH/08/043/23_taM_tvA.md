@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा वयं꣡ हवामहे  
 शृण्व꣡न्तं जात꣡वेदसम्  
 अ꣡ग्ने घ्न꣡न्तम् अ꣡प द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । घ्नन्त॑म् । अप॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -85,36 +85,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **जातवेदसं** जातधनं जातप्रज्ञं वा **द्विषः** शत्रून् **अप** **घ्न्तं** हिंसन्तं **शृण्वन्तम्** अस्मदीयमाह्वानं शृण्वन्तं च त्वां **वयम्** आङ्गिरसाः **हवामहे** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke you, **Agni**, who are **Jātavedas**, listening (to our praises), exterminating our foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is you we call upon, the listening Jātavedas,  
 who smash away hatreds, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We call on thee as such, as one who hears, as Jatavedas, one,  
      Agni! who beats away our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als solchen rufen wir dich an, den erhörenden Jatavedas, der die Feinde vertreibt, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So rufen wir dich hörenden, den Wesenkenner, Agni, dich, Der du die Hasser von uns treibst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы зовем тебя такого:  
 Прислушивающегося Джатаведаса,  

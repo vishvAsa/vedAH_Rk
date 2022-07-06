@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वि꣡श्वाभि꣡ विप꣡श्यति  
 भु꣡वना सं꣡ च प꣡श्यति  
 स꣡ नः पूषा꣡विता꣡ भुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 सः । नः॒ । पू॒षा । अ॒वि॒ता । भु॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -98,40 +98,40 @@ genre M
 **यः** पूषा **विश्वा** **भुवना** सर्वान् लोकान् **अभि** आभिमुख्येन **विपश्यति** विशेषेण पश्यति । किंच तानि **सं** **पश्यति** तत्तद्वस्तुयाथात्म्यं सम्यक् जानाति । **सः** तादृशः **पूषा** देवः **नः** अस्माकम् **अविता** रक्षकः **भुवत्** भवतु ॥ विपश्यति । यद्वृत्तयोगदनिघातः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः ।  ‘ तिङि चोदात्तवति ' इति गतेर्निघातः । पश्यति । अत्र सकर्मकत्वात् परस्मैपदम् । पूर्ववदनिघातः । भुवत् । भवतेर्लेटि अडागमः ।  ‘ भूसुवोस्तिङि ' इति गुणप्रतिषेधे उबङादेशः । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that **Pūṣan**, who looks upon all the worlds, who thoroughly contemplates them, be our protector.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who looks at all creatures separately and sees them whole, that one, Pūṣan will become our helper.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The usual sharp polarity between the preverbs ví and sám is emphasized by keeping the verb constant (páśyati) and explicitly conjoining the two verb complexes with ca. My “looks at all creatures separately and sees them whole” is meant to capture the contrast of the two preverbs in idiomatic Engl.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he who sees all living things, see, them together at a glancc,-  
      May lie, may Pusan be our help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pusan, der nach allen Wesen asschaut und sie überschaut, er sei unser Gönner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der alle Wesen rings beschaut und all' in eins zusammenschaut, Der Puschan mög' uns Helfer sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто взирает на все  
 Существа и озирает их,  

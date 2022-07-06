@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ उ वाम् भृम꣡यो म꣡न्यमाना  
 युवा꣡वते न꣡ तु꣡जिया अभूवन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡न स्मा सि꣡नम् भ꣡रथः स꣡खिभ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्व॑ । त्यत् । इ॒न्द्रा॒व॒रु॒णा॒ । यशः॑ । वा॒म् । येन॑ । स्म॒ । सिन॑म् । भर॑थः । सखि॑ऽभ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -118,14 +118,14 @@ genre M
 हे **इन्द्रावरुणा** इन्द्रावरुणौ **वां** युवयोः संबन्धिन्यः **मन्यमानाः** बलिभिः शत्रुभिः अभिमन्यमानाः । अत एव **भृमयः** भ्रमणशीलाः **इमाः** प्रजाः । **उ** पूरण:। **युवावते** । तृतीयार्थे चतुर्थी । यौवनवता बलिना शत्रुणा **तुज्याः** हिंस्याः **न** **अभूवन्** न भवन्तु । अपि च **वां** युवयोः **त्यत्** तादृशं **यशः** **क्व** कुत्रास्ते । **येन** यशसा **सखिभ्यः** अस्मभ्यं **सिनम्** अन्नं **भरथः** **स्म** प्रदातुं संपादयथः । तत् क्वास्ति इत्यन्वयः। यद्वा । हे इन्द्रावरुणौ वां युवयोः संबन्धिन्य इमा अस्माभिः क्रियमाणा भृमयो युवां प्राप्तुं भ्रमणशीलाः मन्यमानाः । मन्यतिरर्चतिकर्मा । युवाम् अर्चन्त्यस्ता: स्तुतयो युवावते युवाभ्यां सदृशायान्यस्मै देवाय न तुज्याः । तुजतिर्दानकर्मार्थः । प्रदेया मा भूवन् । शिष्टं समानम् ॥ भृमयः ।  ‘ भ्रमु अनवस्थाने '। भ्रमेः ‘संप्रसारणं च ' इति इन्प्रत्ययः संप्रसारणं च । व्यत्ययेनान्तोदात्तत्वम् । युवावते । युष्मदस्मद्यांवन छन्दसि सादृश्य उपसंख्यानम् ' इति वतुप् । अविभक्तावपि युवादेशश्छान्दसः । तुज्याः । तुज हिंसादाननिकेतनेषु ।' अघ्न्यादयश्च ' इति यत् ।' यतोऽनावः' इत्याद्युदात्तत्वम् । सिनम् । ‘षिञ् बन्धने '। ‘इण्षिञ्दीङुष्यविभ्यो नक्' इति नक् । व्यत्ययेनाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Varuṇa**, may these people who are relying upon you, and wandering about (in alarm), sustain no injury from a youthful (adversary); for where is that reputation (you enjoy) on account that you bestow sustenance on your friends.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These (hymns) here for you two, (though) they are considered  
 whirlwinds, have become ones that cannot be (successfully)  
@@ -133,7 +133,7 @@ brandished (even?) by one devoted to you two.
 Where is this glory of yours, Indra and Varuṇa, with which you are wont  to carry the gear for your comrades?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the sense of this complex vs. and its relation to the rest of the hymn, see published introduction. The point of the verse appears be that our hymns, however frenetic (a), are no longer effective (b), and therefore the activity of Indra and Varuṇa on behalf of their partners [=us] is in abeyance (cd).
 
@@ -146,23 +146,23 @@ On sína- see comm. ad II.30.2.
 I take sma as indicating habitual action.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YOUR well-known prompt activities aforetime needed no impulse from your faithful servant.  
      Where, Indra-Varuna, is now that glory wherewith ye brought support to those who loved you?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Lieder an euch, die uns als Übereifer vorkommen, sind für euresgleichen nicht dringlich gewesen. Wo bleibt dieser euer Ruhm, Indra und Varuna, daß ihr euren Freunden Lohn einbringt?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies euer Eilen, das sich kräftig zeiget, hat der euch liebt, nicht erst zur That zu treiben; Wo Varuna und Indra ist das Gut euch, aus dem ihr Vorrath bringet den Genossen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти слывущие стремительными (гимны), (посвященные) вам двоим,  
 Для таких, как вы, оказались недостаточно действенными.  

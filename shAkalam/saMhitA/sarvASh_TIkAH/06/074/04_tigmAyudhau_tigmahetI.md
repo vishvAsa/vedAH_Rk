@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिग्मा꣡युधौ तिग्म꣡हेती सुशे꣡वौ  
 सो꣡मारुद्राव् इह꣡ सु꣡ मॄळतं+ नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गोपाय꣡तं नः सुमनस्य꣡माना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्र । नः॒ । मु॒ञ्च॒त॒म् । वरु॑णस्य । पाशा॑त् । गो॒पा॒यत॑म् । नः॒ । सु॒ऽम॒न॒स्यमा॑ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tigmāyudhau* ← *tigma*
 - \[noun\]
@@ -120,21 +120,21 @@ popular
 हे सोमारुद्रौ **तिग्मायुधौ** दीप्तधनुष्को **तिग्महेती** तीक्ष्णशरौ **सुशेवौ** शोभनसुखप्रदौ **सुमनस्यमाना** शोभनं मनः स्तोत्रमिच्छन्तौ सुमनस्यमानौ स्तूयमानौ सुमनसो वा सन्तौ युवाम् **इह** लोके **नः** अस्मान् **सु** अत्यन्तं **मृळतं** सुखयतम् । **नः** अस्मान् **वरुणस्य** **पाशात्** **प्र** **मुञ्चतम्** । **नः** अस्मान् **गोपायतम्** आपद्भ्यो रक्षतं च ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sharp-weaponed, sharp-arrowed, profoundly-honoured **Soma** and **Rudra**, grant us happiness in this world; propitiated by our praise, preserve us; liberate us from the bonds of **Varuṇa**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two with sharp weapons, with sharp missiles, very kindly—o Soma  and Rudra, be merciful to us here.  
 Release us from the noose of Varuṇa; protect us, showing your  
 benevolence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As often, a pattern imposed earlier in the hymn is partly altered at the end.
 
@@ -145,23 +145,23 @@ The simplicity and banality of this hymn (and perhaps an eye to the finish line)
 mṛḷatam; Renou twists (at considerable verbal expense and with a characteristic parenthesis) the du. sumanasyámānā ending the vs. as an acc. pl. modifying naḥ: “protégez nous (en sorte que nous ayons) l’esprit bien disposé.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Armed with keen shafts and weapons, kind and loving, be gracious unto us, Soma and Rudra.  
      Release us from the noose of Varuna; keep us from sorrow, in your tender loving-kindness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Scharfe Waffen, scharfe Geschosse führend mögen Soma und Rudra, die freundlichen, uns hier fein gnädig sein. Machet uns los von der Fessel des Varuna, behütet uns wohlgesinnt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die scharfen Spiess ihr tragt und scharfe Lanze, seid gnädig uns, ihr holden, Soma-Rudra, Und von dem Stricke Varuna's befreit uns; seid uns Behüter, eure Huld erweisend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы двое с острым оружием, с острым дротиком, очень милые,  
 О Сома-Рудра, очень нас пожалейте здесь!  

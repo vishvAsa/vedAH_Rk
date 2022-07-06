@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिपञ्चाशः꣡ क्रीळति व्रा꣡त एषां  
 देव꣡ इव सविता꣡ सत्य꣡धर्मा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रा꣡जा चिद् एभ्यो न꣡म इ꣡त् कृणोति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒ग्रस्य॑ । चि॒त् । म॒न्यवे॑ । न । न॒म॒न्ते॒ । राजा॑ । चि॒त् । ए॒भ्यः॒ । नमः॑ । इत् । कृ॒णो॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tripañcāśaḥ* ← *tripañcāśa*
 - \[noun\], nominative, singular, masculine
@@ -129,7 +129,7 @@ popular
 **एषाम्** अक्षाणां **त्रिपञ्चाशः** त्र्यधिकपञ्चाशत्संख्याकः **व्रातः** संघः **क्रीळति** आस्फारे विहरति । अक्षिकाः प्रायेण तावद्भिरक्षैर्दीव्यन्ति हि । तत्र दृष्टान्तः । **सत्यधर्मा** **सविता** सर्वस्य जगतः प्रेरकः सूर्यो **देवइव** । यथा सविता देवो जगति विहरति तद्वदक्षाणां संघ आस्फारे विहरतीत्यर्थः । किंच **उग्रस्य** **चित्** क्रूरस्यापि **मन्यवे** क्रोधाय एते अक्षाः **न** **नमन्ते** न प्रह्वीभवन्ति । न वशे वर्तन्ते । तं नमयन्तीत्यर्थः । **राजा** **चित्** जगत ईश्वरोऽपि **एभ्यः** **नम** **इत्** नमस्कारमेव देवनवेलायां **कृणोति** । नावज्ञां करोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,34 +140,34 @@ popular
 The aggregate...travels: asthe sun roams (viharati) in the world, so the heap of dice moves or plural ys on the dice table (āsphāre). Maybe,fifty-three dice were used, akṣikāḥ prāyeṇa tāvadbhir akṣair dīvyati, gamblers usually plural y with so manydice; maybe, the dice were thrown from east to west to render the comparison with the sun meaningful
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The troop of them plays, three times fifty strong. Like god Savitar’s,  their ordinances hold true.  
 Even to the battle fury of the mighty they do not bow; even the king  makes his bow to them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Their troop of three-times-fifty plays [as undefeatably] as Savitr the god whose ways are faithful.  
      They bend not even to the anger of the mighty: the King himself pays homage and reveres them.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Their throng in triple fifties plays untrammelled, Like Savitar the god whose laws are constant. They yield not to the wrath of even the mighty: A king himself on them bestows obeisance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihre Schar tummelt sich dreimal fünfzig zählend, ihre Regeln sind gültig wie die des Gottes Savit?. Sie beugen sich nicht vor dem Zorn auch der Gewaltigen; auch der König macht ihnen eine Verbeugung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es tummelt sich die Schar der dreiundfunfzig, wie Savitar, der Gott, die Ordnung wahrend, Sie weichen nicht dem Zorn, auch des gewalt'gen, ein König selbst muss sich vor ihnen beugen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Резвится их стая числом трижды пятьдесят –  
 (Она) как бог Савитар, чей закон – истина.  

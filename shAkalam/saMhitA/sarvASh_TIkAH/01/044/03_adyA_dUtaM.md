@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अद्या꣡ दूतं꣡ वृणीमहे  
 व꣡सुम् अग्नि꣡म् पुरुप्रिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 यज्ञा꣡नाम् अध्वरश्रि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 धू॒मऽके॑तुम् । भाःऽऋ॑जीकम् । विऽउ॑ष्टिषु । य॒ज्ञाना॑म् । अ॒ध्व॒र॒ऽश्रिय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adyā* ← *adya*
 - \[adverb\]
@@ -104,47 +104,47 @@ genre M
 **अद्य** अस्मिन् दिने **अग्निं** **वृणीमहे** प्रार्थयामहे । कीदृशम् । **दूतं** वार्ताहारं **वसुं** निवासहेतुं **पुरुप्रियं** बहूनां प्रियं **धूमकेतुं** धूमरूपध्वजयुक्तं **भाऋजीकं** प्रसिद्धभासालंकृतम् । ‘ भाऋजीकः प्रसिद्धभाः ' (निरु. ६.४) इति यास्कवचनम् । व्युष्टिषु उषःकालेषु **यज्ञानां** यजमानानाम् **अध्वरश्रियं** यागसेविनम् ॥ अद्य ।' निपातस्य च ' इति दीर्घत्वम् । पुरूणां प्रियः पुरुप्रियः । ‘ समासस्य  इत्यन्तोदात्तत्वम्। धूमकेतुम् । इषियुधीन्धि°' (उ. सू. १. १४२) इत्यादिना धूमशब्दो मक्प्रत्ययान्तः अन्तोदात्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । भाऋजीकम् । ‘ऋज गतिस्थानार्जनोपार्जनेषु' । ‘ ऋजेश्च ' ( उ. सू. ४. ४६२ ) इति ईकन्प्रत्ययः । कित्त्वस्यानुवर्तनात् गुणाभावः । भासः । प्रकाशस्य ऋजीकः प्रार्जयिता । ‘ आद्युदात्तंप्रकरणे दिवोदासादीनां छन्दस्युपसंख्यानम्' इति पूर्वपदाद्युदात्तत्वम् । यद्वा । भासोऽर्जनं यस्मिन् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । व्युष्टिषु । ‘उछी विवासे । विवासो वर्जनम् । विशेषेणोच्छ्यन्ते तमसा वर्ज्यन्ते इति व्युष्टयः उषःकालाः। कर्मणि क्तिन् । ‘ तितुत्र' ' इत्यादिना इट्प्रतिषेधः । व्रश्चादिना षत्वे ष्टुत्वम् । ‘ तादौ च°' इति पूर्वपदप्रकृतिस्वरत्वम् । यणादेशे ‘ उदात्तस्वरितयोर्यणः° ' इति परस्यानुदात्तस्य स्वरितत्वम् । अध्वरश्रियम् । अध्वरं श्रयते इत्यध्वरश्रीः । क्विब्वचि° ' ( उ. सू. २. २१५) इत्यादिना क्विप्प्रत्ययः; तत्संनियोगेन संप्रसारणाभावो दीर्घश्च। द्वितीयैकवचने ‘ अचि श्नुधातु ' इत्यादिना इयङादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We select today **Agni**, the messenger, the giver of dwellings, the beloved of many, the smoke-bannered, the light-shedding, the protector of the worship of the worshipper at the break of day.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Today we choose as messenger Agni the good one, dear to many, whose beacon is smoke, but who is foamy with radiance when the  dawns break, the glory of the ceremonies, of the sacrifices.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpretation of bhā́ṛjīka- I owe to Thieme (Unters. 40 n. 2; see EWA s.v. ṛjīka-).
 
 adhvaraśrī́-. Pace Grassmann, Oldenberg (SBE) Geldner (/Witzel Gotō), I very much doubt that -śrī́- in this compound (or others) has transitive value: ‘das Opferfest verschönend’. For extensive disc. see Scarlatta (545-46), who lays out a number of interpretive possibilities but seems to lean towards the one I also favor. (So also Renou) Related to the analysis of this compound is the interpretation of yajñā́nām adhvara-. Geldner (Witzel Gotō) take the former as dependent on the latter (clearest in Witzel Gotō “der die Opferhandlungen der Opfer verschönt”), but I think it more likely that the two nouns are parallel and depend on -śrī́-, one as an independent gen., one as 1st compound member. So Renou; Scarlatta adduces VIII.44.7 adhvarā́ṇām abhiśríyam, with an independent gen. of adhvará-, which supports this analysis.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As messenger we choose to-day Agni the good whom many love,  
      Smoke-bannered spreader of the light, at break of day glory of sacrificial rites.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We choose to-day as our messenger Agni, the Vasu, the beloved of many, whose banner is smoke, whose … 1 is light, at the dawning of the day, the beautifier of sacrifices 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heute erwählen wir zum Boten den guten, viellieben Agni, den rauchfahnigen, glanzerhöhten, im Frühlicht, der den Dienst der Opfer verschönt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Boten wählen heute wir den guten liebsten Agni uns; Der früh den Rauch als Fahne schwingt, von Licht erstrahlt, der alle Opfer festlich schmückt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сегодня мы выбираем вестником  
 Доброго Агни многолюбимого,  

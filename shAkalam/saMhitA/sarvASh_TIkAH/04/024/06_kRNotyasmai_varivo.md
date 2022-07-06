@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृणो꣡ति अस्मै व꣡रिवो य꣡ इत्था꣡  
 इ꣡न्द्राय सो꣡मम् उशते꣡ सुनो꣡ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡म् इ꣡त् स꣡खायं कृणुते सम꣡त्सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒ध्री॒चीने॑न । मन॑सा । अवि॑ऽवेनन् । तम् । इत् । सखा॑यम् । कृ॒णु॒ते॒ । स॒मत्ऽसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛṇoty* ← *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
@@ -130,20 +130,20 @@ genre M
 **यः** यजमानः **सोमम्** **उशते** कामयमानाय **इत्था** अमुत्र स्वर्गलोके स्थिताय **इन्द्राय** सुनोति अभिषवं करोति इन्द्रोऽपि **अस्मै** यजमानाय **वरिवः** धनं **कृणोति** करोति । **सध्रीचीनेन** संगतेन **मनसा** प्रवणेन चित्तेन **अविवेनम्** । वेनतिः कान्तिकर्मा । विवेनो विगतेच्छः । तदन्योऽविवेनः । आत्मानं कामयमानं **तमित्** तमेव सुन्वन्तं यजमानं **सखायं** मित्रं **समत्सु** संग्रामेष्विन्द्रः **कृणुते** करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** bestows wealth upon him who offers a libation to him, desiring it, though in another sphere; and, with a humble mind, makes him who is devoted to him his friend in combats.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He [=Indra] makes wide space for the one who presses soma in just this  way for Indra who is eager for it.  
 The man with fully focused mind who never loses the track—just him  does he [=Indra] make his comrade in battles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “wide space” theme returns from 2d. The laconic expression of the recipient of wide space in 2d (the dat. súṣvaye ‘for the presser’) is expanded into a dat. pronoun with rel. clause attached: asmai … yá itthéndrāya sómam uśaté sunóti.
 
@@ -165,23 +165,23 @@ The battle/sacrifice trajectory of vss. 4-5 is wrapped up in vss. 6-7, where it 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra gives comfort to the man who truly presses, for him who longs fot it, the Soma,  
      Not disaffected, with devoted spirit this man he takes to be his friend in battles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem schafft er einen Ausweg, der dem darnach verlangenden Indra den Soma preßt ungeteilten Herzens, nicht unlustig, nur den macht er in den Kämpfen zu seinem Freund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nur dem verschaffet Indra rechten Fortgang, der Soma ihm, dem heischenden bereitet, Mit aufmerksamem Geiste unablässig, den macht er zum Genossen sich in Schlachten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

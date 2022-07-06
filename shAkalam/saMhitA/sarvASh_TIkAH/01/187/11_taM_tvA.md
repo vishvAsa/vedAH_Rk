@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा वय꣡म् पितो  
 व꣡चोभिर् गा꣡वो न꣡ हव्या꣡ सुषूदिम  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अस्म꣡भ्यं त्वा सधमा꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 दे॒वेभ्यः॑ । त्वा॒ । स॒ध॒ऽमाद॑म् । अ॒स्मभ्य॑म् । त्वा॒ । स्ध॒ऽमाद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -105,7 +105,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **पितो** अन्न सोमरूप **तं** तादृशं स्तुतं **त्वा** त्वां महानुभावं **वचोभिः** स्तुतिवाग्भिः **वयं** **सुषूदिम** क्षारयामो रसान् । तत्र दृष्टान्तः । **गावो** **न** **हव्या** गाव इव हवींष्युत्पादयन्ति तथा त्वत्सकाशात् सोमं सुषूदिम । किमर्थं कीदृशं च इति चेत् उच्यते । **देवेभ्यः** इन्द्रादिभ्यः तदर्थं **सधमादं** तेषां सह मादयितारम् । न केवलं देवेभ्य एव किंतु **सधमादम्** अस्माभिः सह मादयितारं हुतशेषरूपं **त्वा** त्वाम् **अस्मभ्यम्** अस्मदर्थमपि ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,30 +116,30 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Pitā = **Soma**;?pun on **pīta**, yellow, golden
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have sweetened you with words, o food, as cows [=milk] (do) the  oblations—  
 you as feasting companion for the gods, you as feasting companion  
 for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Food, from thee as such have we drawn forth with lauds, like cows, our sacrificial gifts,  
      From thee who banquetest with Gods, from thee who banquetest with us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben dich, o Speise, mit Reden schmackhaft gemacht wie Kühe die Opferspenden, dich den Göttern zum gemeinsamen Mahle, dich für uns zum gemeinsamen Mahle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So haben wir dich, o Trank, durch Lieder verschönt, wie Milch den Opferguss versüsst, dich, den Festgenossen der Götter, dich, unsern Festgenossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о пища, с помощью речей  
 Мы сделали вкусной, как коровы – жертвенные возлияния,  

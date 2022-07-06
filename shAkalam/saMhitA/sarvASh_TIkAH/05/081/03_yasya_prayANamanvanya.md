@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य प्रया꣡णम् अ꣡नु अन्य꣡ इ꣡द् ययु꣡र्  
 देवा꣡ देव꣡स्य महिमा꣡नम् ओ꣡जसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 र꣡जांसि देवः꣡ सविता꣡ महित्वना꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । पार्थि॑वानि । वि॒ऽम॒मे । सः । एत॑शः । रजां॑सि । दे॒वः । स॒वि॒ता । म॒हि॒ऽत्व॒ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -125,7 +125,7 @@ genre M
 **अन्य** **इत्** **देवाः** अन्येऽप्यग्न्यादयः **यस्य** **देवस्य** द्योतमानस्य सवितुः **प्रयाणमनु** **ययुः** गच्छन्ति प्राप्नुवन्ति । किम् । **महिमानं** महत्त्वम् । सवितुरुदयाभाचे अग्निहोत्राद्यनिष्पत्तेस्तेषां हविःस्तुत्याद्यभावात् । **ओजसा** बलेन च युक्ता भवन्ति । **यः** **सविता** **पार्थिवानि** **रजासि** पृथिव्यादिलोकान् **महित्वना** स्वमहत्त्वेन **विममे** परिच्छिनत्ति **सः** **देवः** **एतशः** एतवर्णः शुभ्रः शोभमानः सन् । राजते इति शेषः ।  ‘ युवशा ताकृणोतन' (  ऋ. सं. १. १६१. ७ ) इत्यादिवत् एतश इत्यादिशकारोपजनश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre M
 **Yajus**. 11.6; sa **etaśaḥ** savitā: etaśaḥ = etavarṇaḥ **śubhraḥ**, śobhamāna, white-coloured, bright, shining; or, etad, this world, and śete, who reposes in, who pervades; or, **etaśa** = a horse, hence, designating the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose lead the others have followed: the gods (following) the might of  the god with their power;  
 who measured out the earthly (spaces)—he, the steed [/Etaśa], (also)  measured out the (heavenly) spaces with his greatness: god Savitar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even he, the God whose going-forth and majesty the other Deities have followed with their might,  
      He who hath measured the terrestrial regions out by his great power, he is the Courser Savitar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Ausfahrt die anderen Götter folgten, der Hoheit des Gottes durch seine Kraft, der die irdischen Räume durchmessen hat mit seiner Größe, dieser Gott Savitri, der Etasa.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und seinem Vorgang folgen wieder andre nach, des Gotts die Götter, kräftig seiner Majestät; Der Erde Luftraum hat durchmessen Savitar, der Gott als schnelles Sonnenross in Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вслед за кем всегда выезжали и другие  
 Боги, (преклоняясь перед) величием бога, (вызванным его) силой,  

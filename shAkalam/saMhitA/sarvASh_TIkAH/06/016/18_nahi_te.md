@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ ते पूर्त꣡म् अक्षिप꣡द्  
 भु꣡वन् नेमानां᳐ वसो  
 अ꣡था दु꣡वो वनवसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अथ॑ । दुवः॑ । व॒न॒व॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **ते** त्वदीयं **पूर्तं** पूरकं तेजः **अक्षिपत्** अक्ष्णोः पातकं विनाशकं **नहि** भुवत् न भवतु । सर्वदास्माकं दर्शनसामर्थ्यं करोतु । हे **नेमानां** **वसो** । नेमशब्दोऽल्पवाची । मनुष्याणां मध्ये कतिपयानां यजमानानां वासक । **अथ** अतः कारणात् **दुवः** अस्माभिर्यजमानैः कृतं परिचरणं **वनवसे** संभजस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,13 +91,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Distressing to the eye: **nahi** pūrtam akṣipadbhuvat = akṣipat akṣṇo patākam vināśakam, the offender or destroyer of the eye
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since what is granted to you will not be (just) a speck, you good one,  who are on (our) side,  
 therefore you will win (us) friendship.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is not clear whether te pūrtám refers to a gift given to Agni or by him.
 
@@ -112,23 +112,23 @@ The stem néma-, cognate to Aves. naēma- ‘half’, is implicitly oppositional
 “du Gott der einen Partei” with “Der Fromme oder Arier.” Other renderings are so awkward as to be almost unintelligible: Renou “o Vasu, (dieu) de quelques-uns,” Klein (DGRV II.71) “o Vasu of some (races).” And Scarlatta (293) takes it as referring to the opposition (“o du Vasu der andere”), which then requires Agni to do some amends- making in pāda c. I consider it extremely unlikely that the poet would address Agni, the focus of his praise, as a god of just some people, diluting his power and denying his omnipresence -- much less as a god of others. I might, however, slightly modify the published translation from “on (our) side” to “of (our) side.” At first glance pāda c, átho dúvo vanavase, with its middle voice seems to involve Agni’s winning dúvas- for himself. This would be compatible with the Geldner/Renou interpr. of pāda a: if Agni gives us a not insignificant gift in pāda a, he has a good chance of winning our dúvas- in c. However, the almost identical expression in the immediately preceding hymn, VI.15.6d devó devéṣu vánate hí no dúvaḥ “for the god will win friendship for us among the gods,” with the crucial loc. devéṣu and dat. of benefit naḥ, suggests that Agni is winning something on our behalf. Cf. also, in this hymn, VI.16.28 agnír no vanate rayím “Agni will win us wealth.” The root √van ‘win’ is strongly represented in this hymn, esp. in the middle section. Here we have vanavase; elsewhere vanvánn ávātaḥ 20, vanván 26, vanvántaḥ 27, vanate 28, as well as vivāsasi 12. This repetition cuts across tṛca boundaries.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not for a moment only lasts thy bounty, good to many a one!  
      Our service therefore shalt thou gain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn deine Schenkung ist nicht nur ein Augenstäubchen, du Gott der einen Partei. Dann wirst du dir Achtung gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von deiner Fülle falle auch nicht das geringste andern zu, O Guter, spende Gaben nun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь твой подарок не должен быть  
 (Пылинкой,) попавшей в глаз, о Васу, (бог) некоторых.  

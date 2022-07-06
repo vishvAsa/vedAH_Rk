@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिया꣡न् नु꣡ क्षत्रि꣡याँ अ꣡व  
 आदित्या꣡न् याचिषामहे  
 सुमॄळीकाँ꣡+ अभि꣡ष्टये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒ऽमृ॒ळी॒कान् । अ॒भिष्ट॑ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyān* ← *tya*
 - \[noun\], accusative, plural, masculine
@@ -75,36 +75,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **त्यान्** तान् **आदित्यान्** **क्षत्रियान्** जात्या क्षत्रियान् **अवः** **रक्षणं** **याचिषामहे** याचामहे । कीदृशान् । **सुमृळीकान्** सुष्ठु सुखयितॄन् । किमर्थम् । अभिष्टये अभिगमनायाभिमताय वा। मत्स्यपक्षे जालनिर्गमनं प्रार्थितमितरपक्षेऽभिमतमिति विवेकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit for protection those **kṣatriyas**, the **Ādityas** who bless (their votaries) abundantly to theattainment of their desires.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now we shall beg these rulers, the Ādityas, for help—  
 the very merciful ones, (for us) to prevail.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now pray we to these Ksatriyas, to the Adityas for their aid,  
      These who are gracious to assist.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jene Herrscher Aditya´s wollen wir jetzt um Schutz anflehen, die gar barmherzigen, auf daß wir die Oberhand behalten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir flehen jene Herrscher nun um Hülfe, die Aditja's, an, Sie, die zum Beistand gnädig sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим сейчас молить о помощи  
 Тех владык Адитьев,  

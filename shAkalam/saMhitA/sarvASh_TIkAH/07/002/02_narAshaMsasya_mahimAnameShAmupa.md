@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡राशं꣡सस्य महिमा꣡नम् एषाम्  
 उ꣡प स्तोषाम यजत꣡स्य यज्ञइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्व꣡दन्ति देवा꣡ उभ꣡यानि हव्या꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ये । सु॒ऽक्रत॑वः । शुच॑यः । धि॒य॒म्ऽधाः । स्वद॑न्ति । दे॒वाः । उ॒भया॑नि । ह॒व्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *narāśaṃsasya* ← *narāśaṃsa*
 - \[noun\], genitive, singular, masculine
@@ -102,7 +102,7 @@ genre M
 **ये** **देवाः** **सुक्रतवः** सुप्रज्ञाः सुकर्माणो वा **शुचयः** दीप्तिमन्तः **धियंधाः** कर्मणां धारयितारः **उभयानि** सौमिकानि च हविःसंस्थादीनि च **हव्या** हव्यानि **स्वदन्ति** स्वदयन्ति भक्षयन्ति तेषाम् **एषां** मध्ये यज्ञैः हविर्भिः स्तोत्रैर्वा **यजतस्य** यजनीयस्य **नराशंसस्य** नरैः प्रशंसनीयस्य अग्निविशेषस्य **महिमानं** महत्त्वम् **उप** **स्तोषाम** वयमुपस्तुमः । तथा च यास्कः - ‘ नरा अस्मिन्नासीनाः शंसन्ति । अग्निरिति शाकपूणिर्नरैः प्रशस्यो भवति । तस्यैषा भवति । नराशंसस्य महिमानमेषामुप स्तोषाम यजतस्य यज्ञैर्ये सुकर्माणः शुचयो धियं धारयितारः स्वदयन्तु देवा उभयानि हवींषि सोमं चेतराणि च ' (निरु. ८. ६) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,29 +113,29 @@ genre M
 Oblations of ghī and libations of **Soma**, or other offerings: **Nirukta** viii.6
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With our sacrifices we will praise the greatness of Narāśaṃsa, worthy of  the sacrifice, among these,  
 the bright gods of strong resolve, the ones granting insight, who sweeten  both offerings [=oblations and words].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With sacrifice to these we men will honour the majesty of holy Narasamsa-  
      To these the pure, most wise, the thought. inspirers, Gods who enjoy both sorts of our oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen unter diesen Göttern die Größe des opferwürdigen Narasamsa mit Opfern feiern, welche Götter ratreich, lauter, frommen Gedanken eingebend beiderlei Opfer schmackhaft machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Naraçansa's, des erhabnen, Opfer lasst preisen uns die Grösse aller Götter, Die wohlgesinnt, der Andacht lauschend, heilig, die beiderseit'gen Opfergüsse kosten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Величие среди этих (богов)  
 Нарашансы,  

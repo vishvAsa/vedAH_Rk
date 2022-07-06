@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रासोमा वर्त꣡यतं दिवो꣡ वधं꣡  
 स꣡म् पृथिव्या꣡ अघ꣡शंसाय त꣡र्हणम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ये꣡न र꣡क्षो वावृधानं꣡ निजू꣡र्वथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उत् । त॒क्ष॒त॒म् । स्व॒र्य॑म् । पर्व॑तेभ्यः । येन॑ । रक्षः॑ । व॒वृ॒धा॒नम् । नि॒ऽजूर्व॑थः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
@@ -112,41 +112,41 @@ popular
 हे इन्द्रासोमौ **दिवः** अन्तरिक्षात् द्युलोकाद्वा **वधं** हननसाधनमायुधं **सं** **वर्तयतम्** उत्पादयतम् । **पृथिव्याः** अस्मादपि लोकात् **तर्हणं** हिंसकमायुधम् **अघशंसाय** अघशंसमनर्थस्याशंसकं राक्षसं हन्तुमुत्पादयतम् । तथा **पर्वतेभ्यः** पर्ववद्भ्यो मेघेभ्यः सकाशात् स्वर्यम्। ‘स्वृ शब्दोपतापयोः'। उपतापकमशनिम् **उत्तक्षतम्** उद्धृतं कुरुतम् । **येन** अशनिना **वावृधानं** वर्धमानं प्रवृद्धं वा **रक्षः** राक्षसं निजूर्वथः निहथः। ‘जुर्वी हिंसायाम् । तमशनिमुत्तक्षतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Soma**, disperse from heaven your fatal (weapon), the extirpator from earth of the malignant(**rākṣasas**) put forth from the clouds the consuming, (thunderbolt), wherewith you slay the increasing rākṣasarace.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Soma, make the crushing weapon of death roll from heaven  and from earth toward the one who speaks evil.  
 Fashion a reverberating (weapon) up out of the mountains, with which  you grind down the demonic force that has been growing strong.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The lexeme úd √takṣ (lit. ‘fashion up’) that opens the 2nd hemistich occurs only here in the RV, and at least acdg. to Monier Wms nowhere else in Skt.; it was clearly artificially generated to contrast with the verb nijū́rvathaḥ (‘grind down’) at the end of the hemistich, to highlight the úd ‘up’ / ní ‘down’ contrast.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Soma, hurl your deadly crushing bolt down on the wicked fiend from heaven and from the earth.  
      Yea, forge out of the mountains your celestial dart wherewith ye burn to death the waxing demon race.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Soma! Schleudert gemeinsam die zermalmende Waffe vom Himmel, von der Erde auf den Bösredenden. Meißelt aus den Bergen den sausenden Schleuderstein heraus, mit dem ihr den erstarkten bösen Geist vertilget!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel schleudert, Indra-Soma, eur Geschoss, das von der Erde tilge den, der Böses sinnt; Aus den Geklüften bildet euren Himmelsblitz, mit dem ihr trefft das hocbgewachsne Nachtgespenst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Сома, швырните с неба (и) с земли,  
 Смертельное оружие, расплющивающее говорящего злое!  

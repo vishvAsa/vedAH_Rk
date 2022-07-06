@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ओ꣡हते रक्ष꣡सो देव꣡वीताव्  
 अचक्रे꣡भिस् त꣡म् मरुतो नि꣡ यात  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुछ्या꣡न् का꣡मान् करते सिष्विदानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । वः॒ । समी॑म् । श॒श॒मा॒नस्य॑ । निन्दा॑त् । तु॒च्छ्यान् । कामा॑न् । क॒र॒ते॒ । सि॒स्वि॒दा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -128,43 +128,43 @@ genre M
 **यः** यजमानः **रक्षसः** बलिनो राक्षसान् **ओहते** प्रापयति **देववीतौ** । देवानां वीतिः प्राप्तिर्भक्षणं वा यत्र स तथोक्तः । तस्मिन् यज्ञे । अन्यथानुष्ठानादिना आसुरं करोतीत्यर्थः । **तं** यजमानम् **अचक्रेभिः** अचक्रै रथैर्हे **मरुतो** **नि** **यात** नितरां प्रापयतान्धकारम् । यद्वा । अचक्रेभिरिति पूर्वत्रान्वयः । चक्रशब्देनाङ्गान्युच्यन्ते । पुनः पुनरङ्गरहितैः केवलैरेव प्रधानैरोहते प्रापयति । साङ्गं हि कर्म देवानभ्येति । **यः** च **वः** युष्माकं **शमीं** कर्म स्तुतिलक्षणं **शशमानस्य** शंसमानस्य मम संबन्धि **निन्दात्** निन्देत् वैदिकं ज्योतिष्टोमादिरूपं कर्म निन्दति स्वयं च **तुच्छ्यान्** नश्वरान् **कामान्** कृष्यादिजनितभोगान् **करते** कुरुते **सिष्विदानः** स्विद्यन्नात्मानं क्लेशयन् । अथवा युष्मासु कमनीयान् भोगान् तुच्छयान् करोति ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Send, **Maruts**, into darkness with (cars) devoid of wheels, the man who invites the **rākṣasas** to the food of the gods; (him also) who reviles me when offering praise to you; while sweating, he toils (to realize) vain desires.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever lauds the demons at the invitation to the gods, run him over,  Maruts, with your wheel-less (chariots).  
 Whoever will scorn the labor of the one who labors for you, he will  render his own desires empty when he sweats (at ritual labor).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. continues the theme of the impious foe, though the divine ally the poet calls on to destroy the foe has changed from Bṛhaspati to the Maruts. Here (pāda a) the enemy chooses to praise demons (rakṣásaḥ) when gods (deva-) are being invited to the ritual and (c) mocks the ritual labor of the devotee. Because of the strong association of sweat with ritual labor in the RV (see my “Avestan xšuuīd: A Relic of Indo-Iranian Ritual Vocabulary,” Bulletin of the Asia Institute 25 [2011 (2015),] and for √śam ‘labor’ with √svid ‘sweat’ I.86.8), I assume that the enemy himself is engaging in (what we hope will be fruitless) ritual in pāda d, perhaps in service of the demons, not the gods (cf. pāda a). In post-RVic texts the Asuras would probably serve as the polar opposition to the gods, not the Rakṣasas, an indirect piece of evidence for the well-known fact that the Asura-Deva opposition almost entirely postdates the RV.
 
 In the published translation óhate in pāda a is tr. as an indicative (‘whoever lauds’), but it should really be a subjunctive (“whoever will laud”), both on the basis of the morphology (it belongs to a root pres., whose 3rd plural is also óhate) and of the parallel subjunctives in the passage, cd yáḥ … nindāt, … karate.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With wheelless chariots drive down him, O Maruts, who at the feasts of Gods regards the demons.  
      May he, though bathed in sweat, form empty wishes, who blames his sacred rite who toils to serve you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer bei der Götterladung die Unholde lobt, auf den fahret nieder, o Marut, mit euren räderlosen Wagen! Wer den Opferdienst eures Dienstfertigen herabsetzt, der soll, wenn er auch sich's heiß werden läßt, eitle Wünsche hegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer bei dem Festmahl auf Unholde Acht gibt, den fahrt, o Maruts, nieder ohne Räder; Wer schmäht die Dienste dessen, der euch dienet, dess Streben sei umsonst, wie er auch schwitze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто при приглашении богов подразумевает ракшасов -  
 Переедьте его, о Маруты, на (ваших колесницах) без колес!  

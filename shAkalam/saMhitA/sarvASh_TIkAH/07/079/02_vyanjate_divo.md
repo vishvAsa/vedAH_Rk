@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ अञ्जते दिवो꣡ अ꣡न्तेषु अक्तू꣡न्  
 वि꣡शो न꣡ युक्ता꣡ उष꣡सो यतन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज्यो꣡तिर् यछन्ति सविते꣡व बाहू꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सम् । ते॒ । गावः॑ । तमः॑ । आ । व॒र्त॒य॒न्ति॒ । ज्योतिः॑ । य॒च्छ॒न्ति॒ । स॒वि॒ताऽइ॑व । बा॒हू इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vy* ← *vi*
 - \[adverb\]
@@ -136,20 +136,20 @@ genre M
 सुतेजोभिः **उक्षभिः** गोभिः **भानुमश्रेत्** । ‘अरुणैरुषा आजिमधावत् ' ( ऐ. ब्रा. ४. ९) इति हि श्रुतिः। 'अरुण्यो गाव उषसाम्' (नि. १. १५, ७) इति निरुक्तम् । **सूर्यः** च **रोदसी** द्यावापृथिव्यौ तमोयुक्ते **चक्षसा** प्रकाशकेन तेजसा **वि** **आवः** विवृणोति ॥  **उषसः** **अक्तून्** तेजांसि **दिवः** अन्तरिक्षस्य **अन्तेषु** पर्यन्तप्रदेशेषु **व्यञ्जते** व्यक्तीकुर्वन्तीत्यर्थः। **युक्ताः** परस्परं संयुक्ताः **विशो** **न** प्रजा इव सेना इव **यतन्ते** प्रयतन्ते तमोनाशनाय अत्र गमनाय वा । अथ प्रत्यक्षवादः । हे उषः **ते** तव **गावः** रश्मयः **तमः** अन्धकारं **सम्** **आ** **वर्तयन्ति** नाशयन्ति **ज्योतिः** तेजो **यच्छन्ति** प्रयच्छन्ति । **सविता** सूर्यः **बाहू** **इव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The dawns send their rays to the ends of the sky. They advance like people arrayed like people (inmartial order); your rays, Uṣas, annihilate the darkness; they diffuse light as **Savitā** (spreads out) his arms.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They anoint the glossy nights at the ends of heaven; like clans in (battle-) harness the dawns are marshaled.  
 Your cows roll the darkness up altogether; they extend the light, like  Savitar his arms.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Whatever the etymology of aktú- ‘night’ -- I favor the connection with PIE
 
@@ -159,23 +159,23 @@ t- ‘night’, pace EWA s.v.; see most recently LIN 505 and n. 20 -- it is here
 As in the previous hymn (VII.78), Dawn is sg. in this hymn, except in one vs., in this case this one; in VII.78, vs. 3. 106
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They paint their bright rays on the sky's far limits. the Dawns come on like tribes arrayed for battle.  
      Thy cattle, closely shutting up the darkness, as Savitar spreads his arms, give forth their lustre.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie färben das Dunkel an des Himmels Saum; wie kampfgerüstete Stämme wetteifern die Usas´ miteinander. Deine Rinder rollen die Finsternis zusammen; sie halten das Licht hoch wie Savitri seine Arme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Am Himmelsrande kleiden sie in Glanz sich, die Morgenröthen nahn wie Bundesheere, Das Dunkel wenden deine hellen Rinder, erheben Licht, wie Savitar die Arme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На границах неба утренние зори окрашивают ночи.  
 Они выстраиваются, как племена, вооруженные (для битвы).  

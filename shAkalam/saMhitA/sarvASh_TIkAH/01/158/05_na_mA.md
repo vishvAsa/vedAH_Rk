@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ मा गरन् नदि꣡यो मातृ꣡तमा  
 दासा꣡ य꣡द् ईं सु꣡समुब्धम् अवा꣡धुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वयं꣡ दास꣡ उ꣡रो अं꣡साव् अ꣡पि ग्ध
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 शिरः॑ । यत् । अ॒स्य॒ । त्रै॒त॒नः । वि॒ऽतक्ष॑त् । स्व॒यम् । दा॒सः । उरः॑ । अंसौ॑ । अपि॑ । ग्धेति॑ग्ध ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 **नद्यः** नदनशीला: **मातृतमाः** मातृवज्जगतां हितकारिण्य आपः **मा** मां दीर्घतमसं **गरन्** न गिरेयुः निमग्नं मा कुर्युः ॥  ‘ गॄ निगरणे '। लेटि व्यत्ययेन शप् ॥ गिरणप्राप्तिं दर्शयति । **यत्** यस्मात् **दासाः** अस्मदुपक्षपयितारो मदीयगर्भदासाः **ईम्** एनं दीर्घतमसं मां **सुसमुब्धं** सुष्ठु संकुचितसर्वाङ्गम् ॥  ‘स्वती पूजायाम्' (पा. म. २. २. १८. ४) इति प्रादिसमासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥ **अवाधुः** अवाङ्मुखमपातयन् । किंच **अस्य** मम **शिरः** सः **त्रैतनः** एतन्नामकः **दासः** अत्यन्तनिर्घृणः सन् **यत्** यस्मात् **वितक्षत्** विविधं तष्टवान् तस्मात् स दासः **स्वयं** स्वकीयमेव शिरस्तक्षतु । न केवलं शिर एव अपि तु मदीयम् **उरः** वक्षःस्थलम्' **अंसौ** च **ग्ध** हतवान् विदारितवानित्यर्थः ॥ हन्तेर्लुङि छान्दसमेतद्रूपम् ॥ ततः स्वकीयमुरः अंसावपि स्वशस्त्रेणैव तथा कृतवान् । तद्युवयोर्माहात्म्यमिति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ genre M
 Vitakṣat = imperative, takṣatu: tasmāt sa **dāsaḥ** svayam svakīyam eva **śiras** takṣatu, therefore may that slave of his own accord wound his own head. The silent repetition of the hymn is said to be a sure protection against a murderer, a wolf, or a tiger; particularly, a traveller is asked to repeat it for three times, until sunrise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “The rivers, best of mothers, will not swallow me!” (he cried,) when the  Dāsas sank him, tightly bound.  
 When Traitana hewed away the head, the Dāsa himself ate his own chest  and shoulders.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The most maternal streams, wherein the Dasas cast me securely bound, have not devoured me.  
      When Traitana would cleave my head asunder, the Dasa wounded his own breast and shoulders.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht sollen mich die mütterlichsten Ströme verschlingen, da die Diener den festverpackten untergetaucht haben. Wenn Traitana sein Haupt spaltete, soll sich der Diener selbst die Brust und Schultern zerfleischen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht frassen mich die mütterlichsten Ströme, als mich Dämonen in die Fluten tauchten; Als Traitana den Kopf mir spalten wollte, traf selbst der Dämon seine Brust und Schultern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не поглотят меня самые материнские реки,  
 Оттого что дасы потопили крепко закованного!  

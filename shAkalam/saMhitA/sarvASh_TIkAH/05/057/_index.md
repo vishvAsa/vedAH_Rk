@@ -8,7 +8,7 @@ title = "+057"
 पञ्चमेऽनुवाके षोडश सूक्तानि । तत्र  ‘ आ रुद्रासः' इत्यष्टर्चं प्रथमं सूक्तं श्यावाश्वस्यार्षं मारुतम् । सप्तम्यष्टम्यौ त्रिष्टुभौ शिष्टाः षट् जगत्यः ।  ‘ आरुद्रासोऽष्टौ द्वित्रिष्टुबन्तम् ' इत्यनुक्रमणिका । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 57 (411)  
 Maruts  
@@ -22,7 +22,7 @@ In this hymn, then, the Maruts are defined first by their parentage and their  c
 The vivid description characteristic of Marut hymns is not absent here. See espe cially verses 2–3, with the Maruts as the storm.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts
 

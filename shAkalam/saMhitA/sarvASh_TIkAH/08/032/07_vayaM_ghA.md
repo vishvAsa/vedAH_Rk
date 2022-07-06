@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ घा ते अ꣡पि ष्मसि  
 स्तोता꣡र इन्द्र गिर्वणः  
 तुवं꣡ नो जिन्व सोमपाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त्वम् । नः॒ । जि॒न्व॒ । सो॒म॒ऽपाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -92,35 +92,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **गिर्वणः** गीर्भिर्वननीय **इन्द्र** **ते** तव **अपि** **वयं** **घ** वयं खलु **स्तोतारः** **स्मसि** भवामः । हे **सोमपाः** सोमस्य पातरिन्द्र **त्वं** **नः** अस्मान् **जिन्व** प्रीणयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, who are plural ased by praise, we are your adorers; do you, therefore, who are the drinker of theSoma, be genitive rous unto us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We praisers abide in you, o Indra with your longing for hymns. You drinker of the soma—quicken us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, Lover of the Song, the singers of thy praise are we:  
      O Soma-drinker, quicken us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir Sänger finden bei dir Zuflucht, du lobbegehrender Indra. Ermutige du uns, o Somatrinker!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, liederfreuter Indra, sind wir Sänger wahrlich eng vereint, Erquick, o Somatrinker, uns,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы же (очень) близки тебе,  
 Восхвалители, о Индра, жаждущий песен!  

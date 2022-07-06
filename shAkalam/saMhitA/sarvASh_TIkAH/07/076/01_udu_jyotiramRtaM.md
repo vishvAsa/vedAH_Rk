@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ ज्यो꣡तिर् अमृ꣡तं विश्व꣡जन्यं  
 विश्वा꣡नरः सविता꣡ देवो꣡ अश्रेत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आवि꣡र् अकर् भु꣡वनं वि꣡श्वम् उषाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 क्रत्वा॑ । दे॒वाना॑म् । अ॒ज॒नि॒ष्ट॒ । चक्षुः॑ । आ॒विः । अ॒कः॒ । भुव॑नम् । विश्व॑म् । उ॒षाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -127,20 +127,20 @@ genre M
 “विश्वानरः सर्वेषां नेता **सविता** **देवः** **उत्** अश्रेत् ऊर्ध्वं श्रयति । **देवानां** व्यवहर्तॄणां स्तोतॄणां वा यजमानानां **क्रत्वा** कर्मणा निमित्तेन । यागानुष्ठानार्थमित्यर्थः । तदर्थं यद्वा देवानां **चक्षुः** चक्षुःस्थानीयमौषसं तेजः क्रत्वा कर्मणा निमित्तेन **अजनिष्ट** प्रादुरभूत् । उत्पन्ना च **उषाः** **विश्वं** सर्वं **भुवनं** भूतजातम् **आविरकः** प्रादुरकः अकरोत् । समस्तं जगदाविष्कृतवती। ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine **Savitā**, the leader of all, sends upwards the immortal, all- benefiting light; the eye of thegods has been manifested for (the celebration of) religious rites; the Dawn has made all creatures visible.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The immortal light belonging to all people—he who belongs to all men,  god Savitar, has propped that up.  
 In accordance with his will, the eye of the gods has been born. Dawn has  revealed the whole world.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unlike the previous hymn, which contains no other divinities, this vs. introduces two (though one without name) before mentioning Uṣas, who enters only as the very last word of the vs. The two other gods are Savitar (b) and Sūrya in his role as “eye of the gods” (devā́nām … cákṣuḥ, c).
 
@@ -149,23 +149,23 @@ The two virtually synonymous adj. viśvájanya- ‘belonging to all people’ an
 In c it is not possible to determine whose krátu- is being referred to. Geldner takes it as the gods’, and certainly the adjacency of the two words (krátvā devā́nām) is suggestive. Renou seems to favor Uṣas. However, given that it is Savitar’s action in ab that raised the light, I think it likely that the krátu- is his.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SAVITAR God of all men hath sent upward his light, designed for all mankind, immortal.  
      Through the Gods' power that Eye was first created. Dawn hath made all the universe apparent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Savitri, der Allermanns-Gott hat das für alle Völker bestimmte unsterbliche Licht aufgesteckt. Das Auge der Götter ist nach deren Ratschluß erstanden; Usas hat die ganze Welt enthüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon liess das ew'ge Licht für alle Menschen Gott Savitar, der allen hold ist, steigen; Durch Kraft der Götter ist erzeugt das Auge, das alle Welt erhellt, die Morgenröthe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ввысь направил бессмертный свет, существующий для всех,  
 Бог Савитар, принадлежащий всем мужам.  

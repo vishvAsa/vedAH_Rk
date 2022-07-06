@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग꣡न्ता नो यज्ञं꣡ यज्ञियाः सुश꣡मि  
 श्रो꣡ता ह꣡वम् अरक्ष꣡ एवया꣡मरुत्  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 स्या꣡त दुर्ध꣡र्तवो निदः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 ज्येष्ठा॑सः । न । पर्व॑तासः । विऽओ॑मनि । यू॒यम् । तस्य॑ । प्र॒ऽचे॒त॒सः॒ । स्यात॑ । दुः॒ऽधर्त॑वः । नि॒दः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gantā* ← *ganta* ← *gam*
 - \[verb\], plural, Aorist imperative
@@ -133,21 +133,21 @@ genre M
 हे **यज्ञियाः** मरुतः यूयं **नः** अस्माकं **यज्ञं** **गन्त** आगच्छत । **सुशमि** शोभनकर्म यथा भवति तथा । सुकर्मत्वायेत्यर्थः । तदर्थं नः **हवम्** अस्मदीयमाह्वानं **श्रोत** शृणुत । **अरक्षः** रक्षोवर्जिता यूयम् । लिङ्गवचनयोर्व्यत्ययः ॥ **ज्येष्ठासो** **न** ज्येष्ठा इव **पर्वतासः** विन्ध्यादय इवातिप्रवृद्धाः **व्योमनि** अन्तरिक्षे वर्तमानाः **प्रचेतसः** **यूयं** **तस्य** निदः निन्दकस्य **दुर्धर्तवः** दुर्धराः **स्यात** भवत ॥ ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adorable **Maruts** come to our sacrifice, so that it may be prosperous; hear, undeterred by **rākṣasas**, the invocation of Evayāmarut; abiding like lofty mountains in mid-heaven, do you, who are profoundly wise, be ever intolerant of the reviler.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come to our sacrifice, you worthy of the sacrifice, with its good labor.  Hear the call in undemonic (spirit)—Maruts on the march.  
 Like the most ancient mountains in distant heaven,  
 you, o discerning ones, should be difficult to restrain at an insult to this  one [=singer].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas of this vs. are essentially variants on the first two pādas of the previous vs., with 8a gātum étana corresponding to 9a gántā and śrótā hávam identically opening both b pādas. The adverbial adveṣáḥ ‘without hatred’ in 8a is matched by arakṣáḥ ‘undemonically’ in 9b, though the adv. has been moved to the second cl. (With Renou I take it as an adv.; Grassmann takes it as an adj. with hávam, which requires him to identify only this occurrences of háva- as a neut.; Witzel Gotō see it as a nominative in a stand-alone nominal sentence. The patterning of vss. 8-9 just laid out makes the adverbial interpr. the strongest one.) The final word of pāda, suśámi, makes both metrical and morphological trouble. The pāda is short a syllable (11, not 12) and the cadence is bad even for a Triṣṭubh, with a light penultimate syllable. Grassmann proposes to fix the first of these problems by reading suśámiyā, but though this gets us 12 syllables, it makes the cadence worse -- not to mention that there’s no reason why the textual change would have occurred. Oldenberg proposes to read suśámī, matching the other two instr.
 
@@ -160,22 +160,22 @@ The question is -- why are they like ancient mountains (jyéṣṭhāso ná pár
 There are of course no mountains in heaven, at least in the usual Vedic cosmological picture -- but there used to be: the winged mountains that flew around until Indra clipped their wings. The splv. jyéṣṭhāsaḥ ‘most ancient’ may refer to this primal, unclipped state. Although this interpr. may seem farfetched, I think it best accounts for the odd expression -- and this may be Renou’s view too, based on his tr. “comme de très puissantes montagnes (qui circuleraient) dans l'espace” (he has no disc.). Note in any case that the mountains here recall the mountain(s) in vs. 1 (girijā́-) and possibly vs. 3; the agreement in sense with vs. 1 provides another example of non-lexical ring composition.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to our sacrifice, ye Hnly Ones, to bless it, and, free from demons, hear our call, Evayamarut.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet zu unserem Opfer nebst gutem Werkdienst, ihr Opferwürdige, höret auf den Ruf ohne Arg - Vishnu ist der, mit dem die Marut gern kommen -. Wie die höchsten Berge in den Luftraum ragend, solltet ihr Klugen für den Tadler dieses Sängers unerträglich sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt zu unserm Opfer, o opfemswerthe, mit sorgsamem Eifer, hört unser treues Rufen Evajämarut ; \ ihr wie die höchsten Berge im Himmelsraum, o weise, mögt unüberwindlich dem Feinde sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Придите на наше жертвоприношение, о достойные жертвы, для прекрасного обряда!  
 Услышьте зов невраждебные – (и Вишну) вместе с быстродвижущимися Марутами!  

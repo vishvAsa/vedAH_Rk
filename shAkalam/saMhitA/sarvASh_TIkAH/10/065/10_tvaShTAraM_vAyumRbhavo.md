@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡ष्टारं वायु꣡म् ऋभवो य꣡ ओ꣡हते  
 दइ꣡व्या हो꣡तारा उष꣡सं सुअस्त꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इन्द्रियं꣡ सो꣡मं धनसा꣡ उ ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पति॑म् । वृ॒त्र॒ऽखा॒दम् । सु॒ऽमे॒धस॑म् । इ॒न्द्रि॒यम् । सोम॑म् । ध॒न॒ऽसाः । ऊं॒ इति॑ । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṣṭāraṃ* ← *tvaṣṭāram* ← *tvaṣṭṛ*
 - \[noun\], accusative, singular, masculine
@@ -120,36 +120,36 @@ genre M
 हे **ऋभवः**  । ऋतेन सत्येन भान्तीत्यृभवः । उरु प्रभूतं स्वतेजसा भान्तीति वा । हे मेधाविनः **यः** सोमः **स्वस्तये** कल्याणाय युष्माकं मदाय त्वष्टृप्रभृतीन् **ओहते** । ओहिर्गत्यर्थः । भौवादिकः । आवहति प्राप्नोति । तथा **बृहस्पतिं** **सुमेधसं** सुप्रज्ञं **वृत्रखादं** वृत्रस्यासुरस्य खादितारमिन्द्रं च प्राप्नोति **धनसाः** धनं संभजमाना वयम् **इन्द्रियम्** इन्द्रजुष्टं तं **सोमम्** **ईमहे** धनं याचामहे । ईमह इति याच्ञाकर्मा।  ‘ ईङ् गतौ । दैवादिकः ।  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक्॥१०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desirous of wealth, we solicit that **Soma**, the fried of **Indra**, who for your welfare, **Ṛbhus**, brings(hither) **Tvaṣṭā**,**Vāyu**, the two divine sacrificers (the **Aśvins**), Dawn, **Bṛhaspati**, and the wise slayer of **Vṛtra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O R̥bhus, (we beseech) Tvaṣṭar and Vāyu, who vaunts himself, the two  divine Hotars, and Dawn, for well-being;  
 we beseech Br̥haspati of good wisdom, the gnawer of Vr̥tra, and Soma,  destined for Indra—we who win the stakes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tvastar and Vayu, those who count as Rbhus, both celestial Hotar-priests, and Dawn for happiness,  
      Winners of wealth, we call, and wise Brhaspati, destroyer of our foes, and Soma Indra's Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Tvastri, Vayu, wer sich als Ribhu rühmen darf, ihr Ribhu´s, die beiden göttlichen Hotri, die Usas bitten wir um Glück, Brihaspati, den Vritravertilger, den Weisen, den indrischen Soma, die wir den Preis verdienen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Tvaschtar, Vaju, und die man für Ribhu's hält, die Götterpriester flehn wir an, das Morgenroth, Brihaspati, den weisen, der den Vritra tilgt, des Indra Soma, Schatz gewinnend uns zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

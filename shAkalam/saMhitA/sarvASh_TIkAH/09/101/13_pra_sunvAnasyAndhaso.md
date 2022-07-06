@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सुन्वान꣡स्य अ꣡न्धसो  
 म꣡र्तो न꣡ वृत त꣡द् व꣡चः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 हता꣡ मखं꣡ न꣡ भृ꣡गवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अप॑ । श्वान॑म् । अ॒रा॒धस॑म् । ह॒त । म॒खम् । न । भृग॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -105,7 +105,7 @@ genre M
 **सुन्वानस्य** अभिषूयमाणस्य **अन्धसः** अदनीयस्य सोमस्य **तत्** प्रसिद्धं **वचः** वचनं घोषं **मर्तः** मारकः कर्मविघ्नकारी श्वा **न** **प्र** **वृत** न भजताम् । न शृणोत्विति यावत् । तथा हे स्तोतारः **अराधसं** संसाधककर्मरहितं तं **श्वानम्** **अप** **हत** । तत्र दृष्टान्तः । **मखं** **न** । यथा पुरापराद्धं मखमेतन्नामानं **भृगवः** अपहतवन्तः तथापहतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,13 +118,13 @@ Let no mortal: 'No death-giving, i.e., rite-obstructing dog';
 Arādhasam = stingy, rādhakakarmarahitam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a mortal he [=the dog] has shown preference for the speech of the  stalk being pressed.  
 Smite away the dog, the ungenerous one, as the Bhr̥gus (did) the Battler.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes ná in b as the neg. (flg. Sāyaṇa.) and asserts (n. 13), contra Oldenberg, that the presence of the mortal and the dog in this vs. (and the VS vs. Oldenberg cites) is an accident. But the position of ná in the pāda is that of the simile particle (though at least it would immed. precede the verb), and the wealth of similes in this tṛca supports a simile reading here as well. The point of the hemistich is that, like the human, the dog is attracted to the sound of the soma ritual, particularly the sound of the soma pressing, and invades it.
 
@@ -141,23 +141,23 @@ The dog returns from the first tṛca in the first vs. of this one. The tṛca i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the power of men restrain the voice of the outpouring juice:  
      As Bhrgu's sons chased Makha, so drive ye the greedy hound away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Rede des ausgepreßten Safts hat der Sterbliche nicht den Vorzug gegeben. Schlaget den knickerigen Hund fort wie die Bhrigu´s den Makha!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Gott erwähl' sich wie ein Mensch dies Lied des ausgepressten Tranks; Den gabenlosen Hund verjagt, gleichwie der Bhrigustamm den Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно смертный, он выбрал себе ту речь  
 Выжимаемого стебля (сомы).  

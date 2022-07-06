@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 के꣡ ष्ठा नरः श्रे꣡ष्ठतमा  
 य꣡ ए꣡क-एक आयय꣡  
 परम꣡स्याः पराव꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 प॒र॒मस्याः॑ । प॒रा॒ऽवतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
@@ -85,7 +85,7 @@ genre M
 हे **नरः** नेतारो मरुतः **श्रेष्ठतमाः** अत्यन्तं श्रेष्ठा यूयं **के** **ष्ठ** के स्थ के भवथ । एवं स्वरूपानिश्चयात् संदिह्य ब्रवीति । **ये** यूयम् **एकएकः** प्रत्येकम् **आयय** आगच्छथ । कस्मादित्युच्यते । **परमस्याः** **परावतः** अत्यन्तदूरदेशात् । अन्तरिक्षादित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,12 +96,12 @@ genre M
 A wonderful old story: āścaryam purāvṛttam āhurāgamapāragaḥ, those who have gone through the **āgamas** have related a wonderful occurrence
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who are you, men, the fairest ones, who one by one have driven here from the farthest distance?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the doubly marked superlative śréṣṭhatama- (also I.113.12), which therefore ought to be rendered as “the most fairest.” It must be nom., not voc., because of its accent, since in a standard voc. phrase it would be unaccented flg.
 
@@ -110,23 +110,23 @@ unaccented naraḥ.
 It is somewhat notable that the Maruts are referred to éka-ekaḥ “one by one,” since they are usually not differentiated at all. ### 01-02 These two vss. contain a fairly high percentage of the total number of RVic 2nd pl. active pfs., with the poorly characterized ending -a on the weak stem: āyayá (1b), śeka, yaya (2b). Macdonell (VG p. 358) lists only twelve forms in all of Vedic (some of which have more than one token) of the 2nd pl. act. pf., and one of these (anāha) is better interpr. otherwise (see comm. ad VIII.48.5).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O HEROES lordliest of all, who are ye that have singly come  
      Forth from a region most remote?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer seid ihr Herren, die ihr als Allerschönste einer nach dem anderen aus fernster Ferne gekommen seid?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer seid ihr, Männer, trefflichste, die Mann für Mann ihr zu uns kamt, aus allerf ernster Ferne her?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто вы будете, о прекраснейшие мужи,  
 Которые явились один за другим  

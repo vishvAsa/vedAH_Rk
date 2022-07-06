@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पोषा꣡ अ꣡नसः सरत्  
 स꣡म्पिष्टाद् अ꣡ह बिभ्यु꣡षी  
 नि꣡ य꣡त् सीं शिश्न꣡थद् वृ꣡षा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 नि । यत् । सी॒म् । शि॒श्नथ॑त् । वृषा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apoṣā* ← *apa*
 - \[adverb\]
@@ -86,19 +86,19 @@ genre M
 **वृषा** कामानां वर्षिता इन्द्रः **यत्** यदा **सीम्** एतत् उषसः संबन्धि शकटं **नि** **शिश्नथत्** न्यवधीत् तदा **उषाः** उषोदेवता **बिभ्युषी** इन्द्रसकाशात् भीता सती **संपिष्टात्** इन्द्रेण संचूर्णितात् **अनसः** शकटात् **अप** **सरत्** अपासरत् अपजगाम । **अह** इति पूरणः ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The terrified Uṣas descended from the broken wagon when the (showerer of benefits) had smashed it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dawn ran away in fear from her cart, which was completely crushed, when the bull jabbed it down.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “hundred forms of help” found at the end of the first tṛca (3c) recurs here at the beginning of this tṛca, following the two more challenging tṛcas in between.
 
@@ -113,23 +113,23 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then from her chariot Usas fled, affrighted, from her ruined car.  
      When the strong God had shattered it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Usas lief von dem zerschlagenen Karren aus Furcht weg, da ihn der Bulle niedergestoßen hatte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von ihrem Wagen stürzte sie voll Angst, von dem zerbrochenen, Als ihn der Held zu Boden stiess.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прочь от разбитой повозки  
 Убежала Ушас, страшась,  

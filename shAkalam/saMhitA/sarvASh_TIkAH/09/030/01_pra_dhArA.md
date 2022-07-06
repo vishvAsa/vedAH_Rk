@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ धा꣡रा अस्य शुष्मि꣡णो  
 वृ꣡था पवि꣡त्रे अक्षरन्  
 पुनानो꣡ वा꣡चम् इष्यति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒ना॒नः । वाच॑म् । इ॒ष्य॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **शुष्मिणः** बलवतः **अस्य** सोमस्य **धाराः** **पवित्रे** दशापवित्रे **वृथा** अप्रयत्नेन **अक्षरन्** स्रवन्ति । तदानीं **पुनानः** पूयमानः सोमः **वाचं** स्तुतिं स्वीयं ध्वनिं वा **इष्यति** प्रेरयति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,34 +93,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Or, he utters a sound
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His streams have flowed forth, those of the tempestuous one, into the  filter at will.  
 While becoming purified, he sends out his speech.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unaccented asya in the first pāda of the hymn is exactly like that in IX.29.1a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 STREAMS of this Potent One have flowed easily to the straining-cloth:  
      While he is cleansed he lifts his voice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses Ungestümen Strahlen haben sich ausgelassen auf die Seihe ergossen. Während er sich läutert, entsendet er seine Stimme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rinnen seine Ströme hin die starken lustig in das Sieb, Sich läuternd stimmt Gesang er an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Потоки этого неистового  
 Легко полились вперед в цедилку.  

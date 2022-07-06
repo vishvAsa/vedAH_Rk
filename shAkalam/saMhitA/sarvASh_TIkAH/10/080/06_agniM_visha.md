@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ वि꣡श ईळते मा꣡नुषीर् या꣡  
 अग्नि꣡म् म꣡नुषो न꣡हुषो वि꣡ जाताः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्ने꣡र् ग꣡व्यूतिर् घृत꣡ आ꣡ नि꣡षत्ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । गान्ध॑र्वीम् । प॒थ्या॑म् । ऋ॒तस्य॑ । अ॒ग्नेः । गव्यू॑तिः । घृ॒ते । आ । निऽस॑त्ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -126,36 +126,36 @@ genre M
 **अग्निं** **विशः** प्रजा ऋत्विग्यजमानलक्षणाः **ईळते** स्तुवन्ति । **याः** **मानुषीः** मानुष्यो मनुष्याज्जाताः ता ईळते । तथा **अग्निं** **मनुषः** मनुष्याः **नहुषः** राज्ञः सकाशात् **जाताः** प्रजा विविधं स्तुवन्तीति । **अग्निर्गान्धर्वीम्** । वाङ्नामैतत् । वाचं शृणोति । कीदृशीं गान्धर्वीम् । **ऋतस्य** यज्ञस्य **पथ्यां** पथि हिताम् । **अग्नेः** महात्मनः **गव्यूतिः** मार्गः **घृते** आज्ये **आ** **निषत्ता** सर्वतो निषण्णो भवति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The races who are of human birth praise (**Agni**, so do the men descended from king **Nahuṣa**; Agni,(hears) the voice which is fit for the path of sacrifice; Agni's path lies everywhere in ghī.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It’s Agni whom the clans stemming from Manu invoke; Agni (do) those  born variously from Manu and from Nahus.  
 Agni (has found) the Gandharvan path of truth; Agni’s pasture-land is  set down in ghee.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Races of human birth pay Agni worship, men who have sprung from Nahus' line adore him.  
      Stablished in holy oil is Agni's pasture, on the Gandharva path of Law and Order.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni berufen die menschlichen Stämme, Agni die verschiedenen Abkommen des Manu, des Nahus. Agni kennt den gandharvischen Weg der Wahrheit; Agni´s Weidegang ist in Schmalz gebettet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni preisen seines Volkes Stämme, den Agni auch, die von den Nachbarn stammen; Den rechten Weg beschirmt er des Gandharven, die Butter ist der Weideplatz des Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Агни взывают племена – (те,) что людские,  
 К Агни – (те,) кто произошел от Мануса (и) от Нахуса.  

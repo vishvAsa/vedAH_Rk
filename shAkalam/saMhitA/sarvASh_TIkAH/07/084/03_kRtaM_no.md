@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृतं꣡ नो यज्ञं꣡ विद꣡थेषु चा꣡रुं  
 कृत꣡म् ब्र꣡ह्माणि सूरि꣡षु प्रशस्ता꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ ण स्पार्हा꣡भिर् ऊति꣡भिस् तिरेतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उपो॒ इति॑ । र॒यिः । दे॒वऽजू॑तः । नः॒ । ए॒तु॒ । प्र । नः॒ । स्पा॒र्हाभिः॑ । ऊ॒तिऽभिः॑ । ति॒रे॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb\], dual, Aorist imperative
@@ -141,41 +141,41 @@ genre M
 हे इन्द्रावरुणौ **नः** अस्माकं **विदथेषु** गृहेषु क्रियमाणं **यज्ञं** **चारु** शोभनं फलसहितं **कृतं** कुरुतम् । तथा **सूरिषु** स्तोतृष्वस्मासु विद्यमानानि **ब्रह्माणि** परिवृढानि स्तोत्राणि **प्रशस्ता** प्रशस्तान्युत्कृष्टानि फलभाञ्जि **कृतं** कुरुतम् । अपि च **देवजूतः** देवाभ्यां युवाभ्यां प्रेरितः **रयिः** धनं **नः** अस्मान् **उपैतु** प्राप्नोतु । तथा **स्पार्हाभिः** स्पृहणीयाभिः **ऊतिभिः** रक्षाभिः **नः** अस्मान् **प्र** **तिरेतं** युवां वर्धयेथाम् । प्रपूर्वस्तिरतिर्वर्धनार्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Render the sacrifices offered inour dwelling fruitful, the prayers uttered by the worshippers successful;may riches come to us sent by the gods; do you two give us increase by you desirable protections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make our sacrifice cherished at the ritual distributions; make our sacred  formulations acclaimed among patrons.  
 Let wealth, hastened by the gods, come to us. Further us with the help  we crave.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that JPB tr. tiretam, an opt., as an impv.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make ye our sacrifice fair amid the assemblies: make ye our prayers approved among our princes.  
      May God-sent riches come for our possession: further ye us with your delightful succours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Machet unser Opfergebet der Kennerschaft genehm, machet unsere feierlichen Reden bei den Lohnherren gutgeheißen! Uns soll gottgeschickter Reichtum zufallen; bringet uns vorwärts durch eure begehrenswerten Gnaden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst unser Opfer lieb euch sein bei Festen und die Gebete preisenswerth den Fürsten; Uns eile zu der gottgesandte Reichthum; o fördert uns durch vielbegehrte Hülfen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделайте нашу жертву приятной на жертвенных раздачах!  
 Сделайте священные слова оцененными покровителями!  

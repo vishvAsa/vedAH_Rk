@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ यु꣡ध्यन्ते प्रध꣡नेषु  
 शू꣡रासो ये꣡ तनूत्य꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तां꣡श् चिद् एवा꣡पि गछतात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292);; repeated line
 ये । वा॒ । स॒हस्र॑ऽदक्षिणाः । तान् । चि॒त् । ए॒व । अपि॑ । ग॒च्छ॒ता॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -108,36 +108,36 @@ popular;; epic anuṣṭubh (292);; repeated line
 लोकेषु ते निवसन्ति तं लोकं प्राप्नुहीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To those who engage in battles, heroes who have given up their lives, or who have presentedthousands of offerings, to them (O dead one) go.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who fight in prize-contests, who as champions abandon their  bodies,  
 or who confer a thousand priestly gifts—right to them let him go now.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The heroes who contend in war and boldly cast their lives away,  
      Or who give guerdon thousandfold, -even to those let him depart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die in den Kämpfen als Helden streiten, die ihr Leben opfern, oder die Tausend als Daksina schenken, auch zu diesem soll er gelangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die kämpfen in so mancher Schlacht, ihr Leben lassen, Helden kühn, Die Opfer lohnen tausendfach, zu denen allen gehe hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто сражается в битвах,  
 Как герои, кто жертвует собой,  

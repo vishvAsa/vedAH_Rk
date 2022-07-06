@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सुन्वन्तं समं जहि  
 दूणा꣡शं यो꣡ न꣡ ते म꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दद्धि꣡ सूरि꣡श् चिद् ओहते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मभ्य॑म् । अ॒स्य॒ । वेद॑नम् । द॒द्धि । सू॒रिः । चि॒त् । ओ॒ह॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asunvantaṃ* ← *a*
 - \[adverb\]
@@ -114,41 +114,41 @@ genre M
 हे इन्द्र **असुन्वन्तं** सोमाभिषवमकुर्वाणम् । त्वामयजन्तमित्यर्थः । **दूणाश** दुःखेन नाशनीयं **समम्** । अयं सर्वानुदात्त: सर्वशब्दपर्यायः । अयष्टॄन् सर्वान् । यद्वा । सममेकोद्योगेनाविशेषण वा **जहि** । तेन किमपराद्धमिति अत आह । **यः** **ते** तव **मयः** । मय इति सुखनाम। तव सुखहेतुः **न** भवति । यो होमेन स्तुत्या वा न प्रीणाति तं जहि। किंच **अस्य** वेदनं धनम् **अस्मभ्यं** **दद्धि** देहि ॥ ‘दद दाने ' इत्यस्मात् व्यत्ययेन परस्मैपदम् । छान्दसः शपो लुक् ॥ **सूरिश्चिदोहते** । चित् एवार्थे । सूरिस्तव स्तोता एव ओहते । वहति प्राप्नोति धनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slay every one who offers not libations, however difficult to be destroyed; slay every one who is no delight to you; bestow upon us his wealth, for the pious (worshipper) deserves it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Smash anyone who doesn’t press soma, anyone difficult to get at who is  no joy to you.  
 Give his possessions to us, even though he will laud himself as a patron.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take sūríś cid ohate as logically concessive, with this value signaled by cid, although I would prefer an accented verb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Slay everyone who pours no gift, who, hard to reach, delights thee not.  
      Bestow on us what wealth he hath: this even the worshipper awaits.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jeden, der nicht Soma auspreßt, erschlage, den unzugänglichen, der nicht deine Freude ist! Gib uns sein Besitztum! Er rühmt sich sogar ein nobler Herr zu sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und jeden somalosen triff, den bösen, der dir nicht gefällt, Uns theile seine Güter zu, und auch der Fürst ist dessen werth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Убей каждого не выжимающего (сому),  
 Неприступного, кто для тебя не утешение!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईयु꣡र् अ꣡र्थं न꣡ निअर्थ꣡म् प꣡रुष्णीम्  
 आशु꣡श् चने꣡द् अभिपित्वं꣡ जगाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रन्धयन् मा꣡नुषे व꣡ध्रिवाचः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽदासे॑ । इन्द्रः॑ । सु॒ऽतुका॑न् । अ॒मित्रा॑न् । अर॑न्धयत् । मानु॑षे । वध्रि॑ऽवाचः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īyur* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
@@ -120,7 +120,7 @@ genre M
 अथेन्द्रः परुष्ण्या विच्छिन्नानि पर्वाणि संदधे । ततः परुष्ण्या आपः यथापूर्वम् **अर्थं** गन्तव्यमेव प्रवणदेशं प्रति **परुष्णीम्** **ईयुः** आययां चक्रुः ॥ ‘इण् गतौ ' इति धातोरन्तर्भावितण्यर्थात् लिटि ईयुः इति । अतो द्विकर्मकमाख्यातम् ॥ **न्यर्थम्** अगन्तव्यं परुष्ण्याः पार्श्वयोः स्थितं निम्नं देशं प्रति परुष्णीं **न** ईयुः । **आशुश्चन** राज्ञः सुदासोऽश्वोऽपि **अभिपित्वम्** अभिप्राप्तव्यमेव **जगाम** । **इन्द्रः** च **सुदासे** राज्ञे **मानुषे** लोके **वध्रिवाचः** जल्पकान् **अमित्रान्** शत्रून् **सुतुकान्** सुतोकान् । ‘तुक् तोकम्' इत्यपत्यनामसु पाठात् । **अरन्धयत्** वशमानयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ genre M
 Indra is said to have repaired the banks of the river so that thewaters -- iyur **artham** na nyartham-- went to their object, that is, their former bed, not below or beyond it; theenemies Amitrān are called vadhrivācaḥ or jalpakān
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They came to the Paruṣṇī, to a failed end as if to their (real) goal. Not  even the swift one made it home for supper.  
 Indra made those without alliance (to us) subject to Sudās, those,  easy to thrust away, who, (though) in Manu’s (race), were of gelded  speech.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner (etc.), I take ná in pāda a as a simile marker, not a negative; the simile and frame participate in a pun on (-)ártha-. What they reached was a ni-àrtha- ‘failed goal’ (see, e.g., VI.27.6, X.107.8), which is like but tragically not their real goal. 6 In b note āśúś (canéd), which echoes paśúṣ (kavíḥ) in the previous vs. (8d) also pāda-initial. Here the sandhi is of course standard.
 
@@ -154,23 +154,23 @@ Oldenberg suggests (not very enthusiastically) that it refers to (all) the enemi
 The cmpd. vádhri-vāc- ‘possessing gelded/castrated speech’ provides another parallel to the famous Indra-Vṛtra hymn I.32, whose vs. 7 likens Vṛtra to a vádhriwishing to become a bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As to their goal they sped to their destruetion: they sought Parusni; e'en the swift returned not.  
      Indra abandoned, to Sudas the manly, the swiftly flying foes, unmanly babblers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie kamen ans falsche Ziel als wäre es ihr richtiges Ziel: in die Parusni. Auch der Flinke kam nicht zur Heimkehr. Indra gab die spornstreichs fliehenden Feinde in Manusa dem Sudas in die Hand, die wie Kastraten reden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Ziel, der Strom, ward ihnen zum Verderben; der schnellste selbst fand dort die Ruhestätte; Die flücht'gen Feinde gab dem Sudas Indra als Beute hin, dem Mann die Weiberzüng'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они пришли как к цели к ложной цели – Парушни.  
 Даже прыткий не вернулся домой.  

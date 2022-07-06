@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मम꣡त्तु त्वा दिवियः꣡ सो꣡म इन्द्र  
 मम꣡त्तु यः꣡ सूय꣡ते पा꣡र्थिवेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मम꣡त्तु ये꣡न निरिणा꣡सि श꣡त्रून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒मत्तु॑ । येन॑ । वरि॑वः । च॒कर्थ॑ । म॒मत्तु॑ । येन॑ । नि॒ऽरि॒णासि॑ । शत्रू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mamattu* ← *mad*
 - \[verb\], singular, Perfect imperative
@@ -118,36 +118,36 @@ genre M
 हे **इन्द्र** **त्वा** त्वां **दिव्यः** दिवि भवः **सोमः** **ममत्तु** । आत्मीयकलाप्रदानेन मादयतु । देवा ह्यपरपक्षे सोमस्य कलां पिबन्ति ॥ मदेर्लोटि व्यत्ययेन श्लुः ।  ‘ भीह्री ' ( पा. सू. ६. १. १९२ ) इत्यादिना पितः पूर्वस्योदात्तत्वम् । तथा **पार्थिवेषु** पृथिव्यां भवेषु देवयजनेषु **यः** सोमोऽस्माभिः **सूयते** अभिषूयते सोऽप्यस्माभिर्दत्तः **ममत्तु** त्वां हर्षयतु । **येन** सोमेन **वरिवः** वरणीयं धनं **चकर्थ** कृतवानसि स च **ममत्तु** ॥ करीतेर्लिट् । यद्योगादनिघाते लित्व्चरः ॥ किंच **येन** **शत्रून्** **निरिणासि** निर्गमयसि सोऽपि **ममत्तु** त्वां मादयतु । रिणासि।  ‘ री गतिरेषणयोः' । क्र्यादिः । प्वादीनां ह्रस्वत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the celestial **Soma** exhilarate you, **Indra**; may that which is effused at terrestrial rites exhilarateyou; may that exhilarate you through the influence of which you have bestowed wealth; may that exhilarate youwhereby you scatter foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the heavenly soma exhilarate you, Indra; let what is pressed among  earth-dwellers exhilarate you.  
 Let that exhilarate you by which you made wide space; let that exhilarate  you by which you melt down your rivals.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let heavenly Soma gladden thee, O Indra, let that effused among mankind delight thee.  
      Rejoice in that whereby thou gavest freedom, and that whereby thou conquerest thy foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich soll der himmlische Soma berauschen, Indra, der bei den Irdischen ausgepreßt wird. Berauschen soll er, durch den du einen Ausweg aus Not geschaffen hast; berauschen soll er, durch welchen du die Feinde zu Boden reißest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich mög' erfreun des Himmels Soma, Indra! erfreuen der gepresst wird bei den Menschen, Erfreuen der, durch den du Raum geschafft hast, erfreuen der, durch den du tilgst die Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть опьянит тебя небесный сома, о Индра,  
 Пусть опьянит (тот,) который выжимается у жителей земли!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡थिष्ट या꣡मन् पृथिवी꣡ चिद् एषाम्  
 भ꣡र्तेव ग꣡र्भं सुव꣡म् इ꣡च् छ꣡वो धुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वर्षं꣡ स्वे꣡दं चक्रिरे रुद्रि꣡यासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वाता॑न् । हि । अश्वा॑न् । धु॒रि । आ॒ऽयु॒यु॒ज्रे । व॒र्षम् । स्वेद॑म् । च॒क्रि॒रे॒ । रु॒द्रिया॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prathiṣṭa* ← *prath*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -134,7 +134,7 @@ genre M
 **एषां** मरुतां **यामन्** यामनि गमने **पृथिवी** **चित्** भूमिः । चिदिति पूरणः । **प्रथिष्ट** प्रख्याताभवत् । गर्भयोग्याभवदित्यर्थः । ते च मरुतः **भर्ता** लौकिकः पतिः **गर्भम्** **इव** भार्यायाः तथा भूम्याः **स्वमित्** स्वभूतं गर्भं गर्भस्थानीयं **शवः** उदकं **धुः** स्थापितवन्तः । **हि** यस्मात् **वातान्** गन्तॄन् **अश्वान्** **धुरि** रथसंबन्धिन्याम् **आयुयुज्रे** आयोजितवन्तः तस्मात् **वर्षं** **स्वेदं** स्वेदस्थानीयं वृष्टिसंस्त्यायं **चक्रिरे** कुर्वन्ति **रुद्रियासः** रुद्रपुत्राः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,13 +145,13 @@ genre M
 Person iration: svedam svedasthānīyam varṣam, rain in plural ce of person iration
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even the Earth has spread herself at their journey. Like a husband an  embryo, they have implanted their own strength (in the earth).  
 Certainly they have yoked the winds as horses to their yoke-pole; they  have made their own sweat into rain—the Rudras.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich has distinct sexual overtones, with the Earth spreading herself to receive the Maruts’ “embryo” -- though it is more decorously phrased than V.56.3.
 
@@ -175,23 +175,23 @@ The final word of vs. 6 is dyaúḥ, while pṛthivī́appears in the 1st pāda 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even Earth hath spread herself wide at their coming, and they as husbands have with power impregned her.  
      They to the pole have yoked the winds for coursers: their sweat have they made rain, these Sons of Rudra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei ihrer Fahrt dehnt sich selbst die Erde; sie legen ihre Kraft in sie wie der Gatte den Keim in die Frau. Sie haben die Winde als Rosse an die Stange gespannt, die Rudrasöhne haben ihren Schweiß zum Regen gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei ihrem Gange streckte sich die Erde, sie legten Kraft hinein, wie Frucht der Gatte; Denn Winde schirrten sie an ihre Deichsel, zu Regen ward der Schweiss der Rudrasöhne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сама земля расширилась во время их похода.  
 Словно муж (в жену) – зародыша, вложили они собственную силу (в нее).  

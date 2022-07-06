@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡हेळता म꣡नसा श्रुष्टि꣡म् आ꣡ वह  
 दु꣡हानां धेनु꣡म् पिप्यु꣡षीम् असश्च꣡तम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तुवां꣡ हिनोमि पुरुहूत विश्व꣡हा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पद्या॑भिः । आ॒शुम् । वच॑सा । च॒ । वा॒जिन॑म् । त्वाम् । हि॒नो॒मि॒ । पु॒रु॒ऽहू॒त॒ । वि॒श्वहा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aheḍatā* ← *a*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 हेइन्द्रत्वष्टर्वा अहेळताअक्रुध्यतामनसाश्रुष्टिंसुखकरीन्दुहानान्दोग्ध्रीम्पिप्युषीम्प्रवृद्धाम्पीनां प्यायी- वृद्धौ लिटःक्वसुः लिड्यङोश्चेतिपीभावः उगितश्चेतिङीप् सम्प्रसारणमितिसम्प्रसारणम् शासिव- सिघसीनाञ्चेतिषत्वम् असश्चतं असक्तावयवांएवम्भूतान्धेनुङ्गांआवहआभिमुख्येनप्रापय अपिचहेपु- रुहूत बहुभिराहूतेन्द्रत्वष्टर्वा पद्याभिः पादगतिभिः आशुंव्यापनशीलं वचसावाचाच वाजिनं- वेगवन्तन्त्वांविश्वहासर्वेष्वहस्सुहिनोमिस्तुतिभिः प्रेरयामि हिगतौवृद्धौच ॥ ३ ॥ पत्नीसंयाजेषुगृहपतेः प्राक् राकासिनीवाल्यौयष्टव्ये तत्रराकायागस्यराकामहमित्यादिकेया- ज्यानुवाक्ये सूत्रितञ्च—राकामहंसिनीवालिकुहूमहमितिद्वेद्वेयाज्यानुवाक्येइति तथाआग्निमारुते- प्येतेधाय्ये सूत्रितञ्च—राकामहमितिद्वेइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,34 +127,34 @@ genre M
 Quick in your steps: padyābhir āśum vacasā ca vājinam: this and the preceding hymn may apply to **Indra** or **Tvaṣṭā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With a mind without anger bring here your attentive hearing, a swelling  cow who gives milk, inexhaustible.  
 With steps [/(verses measured) in feet] and with speech I impel you, the  swift prize-winner, through all the days, o much invoked one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The priests’ sumnāyatā́mánasā “with a mind seeking favor” is, hopefully, matched by the god’s áheḷatā mánasā “with a mind without anger.” As in the previous hymn, II.31.2, pádyābhiḥ is directly adjacent to a form of āsú- ‘swift’. Geldner (/Witzel Gotō) take pádyā- as ‘heels’: “(Wie) en siegesstarkes Rennpferd mit den Fersen.” The image assumed must be from horseback riding, with the rider spurring the horse on by putting pressure on the horse’s flank with his heels. But the evidence for horseback riding in the RV is scant, and, as I understand it, the racing that is done involves chariots. (On the other hand, there may be mention of “a hero on horseback” [vīró árvati] in the next hymn, II.33.1, though it probably refers to Rudra.) Not only does this heel-spurring not fit the realia, as far as we know it, but it makes trouble for the verbal structure, because “with the heels” would at best only be appropriate to the simile (“(like) a swift prize-winner”) not the frame (“you”: we are hardly likely to be poking the god in the side with our heels). And finally, although the heel is of course a part of the foot and so pádya-/pádyā- could in theory refer to it, no other occurrences of either of these stems seems so specialized, and we do have a perfectly good inherited word for ‘heel’, pā́rṣṇi-. I therefore think pádyā- means ‘pace, footstep’. In the simile, “with paces” would refer either to the training the horse is put through or to the pace of another horse running in front or at its side meant to keep the vājín- up to speed. Its use in the frame is more complex. On the one hand, the steps can refer to the movements of the Adhvaryu around the ritual ground; his physical activity is implicitly contrasted with the verbal activity (vácasā) of the Hotar (and Udgātar). I also think that pádyā- can refer to verses measured in feet, metrical measures. Although Renou thinks this unlikely (“tentant, mais trop hardi”), I see nothing against it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring hither with benignant mind the willing Cow teeming with plenteous milk, full, inexhaustible.  
      O thou invoked by many, day by day I urge thee with my word, a charger rapid in his tread.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns gnädigen Sinnes Erhörung, die milchgebende, strotzende, unversiegliche Kuh ! Wie ein siegesstarkes Rennpferd mit den Fersen und mit Worten sporne ich dich an, du allezeit Vielgerufener.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit gnäd'gem Sinne fahre willig her die Kuh, die strotzt von Saft, die reichlich strömend Milch ergiesst; Dich treib' ich wie ein Ross, das schnell die Hufe schwingt, mit Worten an, o vielgerufner, immerdar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С умиротворенной мыслью привези (нам) уступчивость -  
 (Эту) дойную, набухшую (от молока), безотказную корову!  

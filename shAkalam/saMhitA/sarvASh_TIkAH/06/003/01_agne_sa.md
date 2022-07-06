@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने स꣡ क्षेषद् ऋतपा꣡ ऋतेजा꣡  
 उरु꣡ ज्यो꣡तिर् नशते देवयु꣡ष् टे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दे꣡व पा꣡सि त्य꣡जसा म꣡र्तम् अं꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यम् । त्वम् । मि॒त्रेण॑ । वरु॑णः । स॒ऽजोषाः॑ । देव॑ । पासि॑ । त्यज॑सा । मर्त॑म् । अंहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -130,7 +130,7 @@ genre M
 हे अग्ने **सः** यजमानः **क्षेषत्** क्षियति निवसति । चिरकालं जीवेदित्यर्थः । कीदृशो यजमानः । **ऋतपाः** ऋतस्य यज्ञस्य पालकः **ऋतेजाः** यज्ञनिमित्तं जातः । उषित्वा च **ते** त्वदीयं **देवयुः** देवानात्मन इच्छन् स यजमानः **उरु** विस्तीर्णं **ज्योतिः** सूर्याख्यं **नशते** प्राप्नोति । हे **देव** द्योतमानाग्ने **यं** **मर्तं** मनुष्यं यजमानं **मित्रेण** **वरुणः** । तृतीयार्थे प्रथमा । वरुणेन च **सजोषाः** सह प्रीयमाणः **त्वं** **त्यजसा** त्याजनसाधनेनायुधेन **अंहः** अंहसः पापात् **पासि** रक्षसि स यजमानः इति पूर्वत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ genre M
 By your shield, tvajasā: tvāJanasādhanena āyudhena, by a weapon which is the instrumental ument of causing abandonment or escape
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, he who protects the truth and is born in truth will dwell in  peace; he who seeks you as god will reach broad light,  
 that mortal whom you, o god, as Varuṇa in concert with Mitra, protect  from narrow straits along with abandonment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. take ṭe with jyótiḥ, i.e., “your light.” Because of its somewhat unusual pāda-final position, however, I construe it rather with immediately preceding devayúṣ “seeking you as god.” The retroflexion in devayúṣ ṭe might have been interpr.
 
@@ -174,23 +174,23 @@ So if the poet can find a syntactically principled way to use acc. áṃhaḥ he
 A less pressing problem is how to construe the instr. tyájasā. In the Hoffmann/Schindler interpr., it is simply construed with the invented participle: “wenn er durch Verlassenheit in Bedrängnis (gerät).” Both Geldner and Renou take it as the cause leading to áṃhaḥ, e.g., Geldner “… vor Not infolge einer Unterlassungssünde,” but Geldner suggests in a n. (1) that it could be an instr. of accompaniment with áṃhaḥ (“vor Not und Sünde”). That is the tack I adopt here, but I consider tyájas- as something that might befall the hapless mortal rather than something he might commit (like Sünde) and bring about his bad fortune. On the semantics of tyájas- here and elsewhere in the RV, see Oldenberg, ZDMG 55.280-82.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 TRUE, guardian of the Law, thy faithful servant wins ample light and dwells in peace, O Agni,  
      Whom thou, as Varuna in accord with Mitra, guardest, O God, by banishing his trouble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Friedlich wird er wohnen, die Wahrheit hütend, in der Wahrheit geboren, dein weites Licht wird der gottergebene Sterbliche erlangen, den du, ein Varuna vereint mit Mitra, vor Not infolge einer Unterlassungssünde schützest, o Gott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der wohnt in Frieden, Agni, dir ergeben, der glänzet weit, wer fromm ist, fromm verbleibet, Wen du, o Gott, und Varuna mit Mitra vereint beschirmst durch kräft'ge That vor Unglück.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни,, будет жить в мире, храня закон, рожденный в законе,  
 (И) достигнет твоего широкого света, преданный богам,  

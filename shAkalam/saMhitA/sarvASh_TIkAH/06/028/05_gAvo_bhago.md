@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गा꣡वो भ꣡गो गा꣡व इ꣡न्द्रो मे अछान्  
 गा꣡वः सो꣡मस्य प्रथम꣡स्य भक्षः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इछा꣡मी꣡द् धृदा꣡ म꣡नसा चिद् इ꣡न्द्रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒माः । याः । गावः॑ । सः । ज॒ना॒सः॒ । इन्द्रः॑ । इ॒च्छामि॑ । इत् । हृ॒दा । मन॑सा । चि॒त् । इन्द्र॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
@@ -142,7 +142,7 @@ popular
 **गावः** एव मह्यं **भगः** धनं भवन्तु । **इन्द्रः** च **मे** मह्यं **गावः** गाः **अच्छान्** यच्छतु । **गावः** **प्रथमस्य** हविषां श्रेष्ठस्य **सोमस्य** **भक्षः** भक्षणं भवन्तु । अभिषुतस्य हि सोमस्य गब्येनाज्यादिना संस्क्रियमाणत्वात् । हे **जनासः** जनाः **इमाः** एवंभूताः **या** **गावः** सन्ति **सः** । ता इत्यर्थः । ता एव गावः **इन्द्रः** भवन्ति । दधिघृतादिरूपेण इन्द्रस्याप्यायनत्वात् । एवंभूतम् **इन्द्रं** **हृदा** श्रद्धायुक्तेन **मनसा** **चित्** । चिदित्यप्यर्थे । **इच्छामीत्** कामय एव । साधनभूताभिर्गोभिः एवंभूतमिन्द्रं यष्टुमिच्छामीत्यर्थः ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,36 +153,36 @@ popular
 These cows are the Indra: a remarkable person nation; the cows may be considered as Indra, as they nourish him by their milk and butter presented in sacrifices; **gāva** **bhayaḥ** = mahyam dhanam bhavantu, may they be to me affluence; the cows are perhaps **bhaga**, the deity of good fortune and riches
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fortune has appeared to me as cows; Indra as cows. The draught of the  first soma is cows.  
 These cows here—they, o peoples, are Indra. I am just searching, with  my heart and mind, for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation follows the usual configuration of equational nominal sentences, with the subject in 2nd position, the predicate nominal 1st . This interpr. is supported by the fact that the verb achān is singular, agreeing with bhágaḥ and índraḥ, not with pl. gā́vaḥ ‘cows’. However, the standard tr. (Geldner, Wh) follow the opposite order, e.g., Geldner “Diese Kühe sind mir wie Bhaga …” In which case, we would have to assume that achān simply agrees with the nearer referent, even though it is the predicate.
 
 In c the phrase sá janāsa índraḥ must be a deliberate echo of the famous refrain of II.12. It also demonstrates the standard Vedic prose syntactic rule that in an expression of the type “what is X, that is Y,” the demonstrative in the 2nd cl. will agree with Y, not X, in number and gender, even though its real referent is X, or in this case cows. For further disc. see Brereton’s “Tat tvam asi in Context.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first-poured Soma.  
      These present Cows, they, O ye Indra. I long for Indra with my heart and spirit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Kühe sind mir wie Bhaga, die Kühe wie Indra erschienen, die Kühe wie ein Trunk frischen Soma´s. Diese Kühe, die sind Indra, ihr Leute. Mit Herzen und Gedanken habe ich nach Indra Verlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kühe dünken Bhaga mir und Indra, die Kühe sind des besten Soma Antheil; Was Kühe sind, das ist, o Menschen, Indra, und diesen Indra wünsch' ich mir von Herzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Коровы – Бхага, коровами мне показался Индра,  
 Коровы – глоток первого сомы.  

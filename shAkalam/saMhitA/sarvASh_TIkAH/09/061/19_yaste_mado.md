@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते म꣡दो व꣡रेणियस्  
 ते꣡ना पवस्व अ꣡न्धसा  
 देवावी꣡र् अघशंसहा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 दे॒व॒ऽअ॒वीः । अ॒घ॒शं॒स॒ऽहा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -86,20 +86,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे सोम **ते** तव **देवावीः** देवकामः **अघशंसहा** राक्षसानां हन्ता **वरेण्यः** सर्वैर्वरणीयः **मदः** मदकरः **यः** रसो विद्यते **तेन** रसेन **अन्धसा** अदनीयेन **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow forth with that juice of yours which is exhilarating, the best gratifying the gods, the slayer of **rākṣasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your exhilarating drink that is worthy to be chosen, with that stalk  purify yourself,  
 pursuing the gods, smashing those who utter evil.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -109,23 +109,23 @@ Little evidence of unity, though 19 and 20 share ‘smashing’ and 20 and 21 co
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward with that juice of thine most excellent, that brings delight,  
      Slaying the wicked, dear to Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was dein vorzüglicher Rauschtrank ist, mit solchem Tranke läutere dich, göttereinladend, die Übelredner erschlagend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Rauschtrank dir der schönste ist, mit solchem Safte riesle hell, Die Bösen schlagend, Göttern lieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Желанный пьянящий напиток, который (есть) у тебя, -  
 Очищайся с этим (твоим) соком,  

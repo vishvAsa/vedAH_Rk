@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ रयि꣡म् आ꣡ सुचेतु꣡नम्  
 आ꣡ सुक्रतो तनू꣡षु आ꣡  
 पा᳐꣡न्तम् आ꣡ पुरुस्पृ꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पान्त॑म् । आ । पु॒रु॒ऽस्पृह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -87,20 +87,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **सुक्रतो** शोभनप्रज्ञ सोम त्वदीयं **रयिं** धनं वयम् **आ** वृणीमहे । किंच **सुचेतुनम्** । ‘ चिती संज्ञाने'। भाव औणादिक उनन्प्रत्ययः । सुज्ञानं च। **तनूषु** अस्मत्पुत्रेषु च धनं सुज्ञानं च त्वम् **आ** विधेहि । यद्वा पुत्रार्थं वयमावृणीमहे । तथा **पान्तं** सर्वस्य रक्षकं **पुरुस्पृहं** बहुभिर्यष्टृभिः काम्यमानं त्वां संभजामहे ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(We have recourse) to your wealth and intelligence for our posterity, O you to whom fair sacrifices are offered, and to you the defender (of all), the desired of many.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here wealth, here kind attention, here, o strong-willed one, right here  on our bodies,  
 here the much coveted drink.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ As if to make up for scanting tṛca cohesion earlier in the hymn, this tṛca i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who for ourselves, O thou Most Wise, is wealth and fair intelligence,  
      The Guardian, the desire of all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Reichtum, dessen Wohlbemerkbarkeit an unseren Leibern, du Einsichtsvoller, und den vielbegehrten Trank.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Reichthum bringt nach deiner Gunst, schönwirkender, auch für uns selbst den vielbegehrten, schützenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

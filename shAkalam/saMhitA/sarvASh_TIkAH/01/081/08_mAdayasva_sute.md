@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 माद꣡यस्व सुते꣡ स꣡चा  
 श꣡वसे शूर रा꣡धसे  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡था नो अविता꣡ भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M
 वि॒द्म । हि । त्वा॒ । पु॒रु॒ऽवसु॑म् । उप॑ । कामा॑न् । स॒सृ॒ज्महे॑ । अथ॑ । नः॒ । अ॒वि॒ता । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
@@ -119,37 +119,37 @@ genre M
 हे **शूर** शौर्यवन्निन्द्र **सुते** सोमेऽभिषुते सति आगत्य **सचा** अस्माकं सखा सन् **मादयस्व** तेन सोमेन तृप्तो भव । किमर्थम् । **शवसे** बलार्थं **राधसे** अस्माकं धनार्थं च । **त्वा** त्वां **पुरूवसुं** बहुधनं **विद्म** **हि** वयं जानीमः खलु । अतः अस्मदीयान् **कामान्** मात्रा गवा वत्सानिव त्वया **उप** **ससृज्महे** हि त्वया खल्वेकीकुर्मः। **अथ** अनन्तरं **नः** अस्माकम् **अविता** अभिलषितफलप्रदानेन रक्षिता **भव** ॥ मादयस्त्र ।  ‘ मद तृप्तियोगे'। चुरादिरात्मनेपदी । अदुपदेशात् लसार्वधातुकानुदात्तत्वे णिच एव स्वरः शिष्यते । ससृज्महे ।' सृज विसर्गे'।' बहुलं छन्दसि ' इति विकरणस्य श्लुः । प्रत्ययाद्युदात्तत्वम् । अत्रापि हिशब्दानुषङ्गात् “ छन्दस्यनेकमपि साकाङ्क्षम् ' ( पा. सू. ८. १. ३५) इति निघातप्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Enjoy along with us, O hero, the suffused libation for (the increase of our) strength and wealth; we know you (to be) the possessor of vast riches, and address to our desires; be, therefore, our protector.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become exhilarated on the pressed soma, for strength, o champion, for  generosity.  
 Because we know you as possessing many goods, we have dispatched our  desires to you—  
 so become our helper.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Refresh thee, Hero, with the juice outpoured for bounty and for strength.  
      We know thee Lord of ample store, to thee have sent our hearts' desires: be therefore our Protector thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Berausche dich bei dem ausgepreßten Soma, o Held, zur Kraft, zur Freigebigkeit, denn wir kennen dich als den Güterreichen! Wir haben dir unsere Wünsche ausgeschüttet; nun sei unser Helfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Berausche dich am Somasaft, o Held, zur Kraft und zum Geschenk; Wir wissen ja, dass reich du bist, und senden unsre Wünsche dir; so sei denn unser Förderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьяняйся у выжатого (сомы)  
 Для мощи, о герой, для дарения!  

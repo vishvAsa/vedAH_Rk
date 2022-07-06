@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ हि꣡ त्वा ब꣡न्धुमन्तम् अबन्ध꣡वो  
 वि꣡प्रास इन्द्र येमिम꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वि꣡श्वेभिः सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 या । ते॒ । धामा॑नि । वृ॒ष॒भ॒ । तेभिः॑ । आ । ग॒हि॒ । विश्वे॑भिः । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -119,7 +119,7 @@ genre M;; repeated line
 हे **इन्द्र** **अबन्धवः** बन्धुरहिताः **विप्रासः** मेधाविनः **वयं** बन्धुमन्तं बन्धुभिर्देवैरङ्गिरोभिर्वा तद्वन्तं **त्वा** त्वाम् । हिरवधारणे । त्वामेव **येमिम** बन्धुत्वेन नियच्छाम। यच्छतेर्लिटि रूपम् । तथा सति हे **वृषभ** कामानां वर्षितरिन्द्र **ते** तव **या** यानि **धामानि** शरीराणि तेजांसि वा विद्यन्ते **तेभिः** तैः **विश्वेभिः** सर्वैर्धामभिः सह **सोमपीतये** सोमपानार्थम् **आ** **गहि** आगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,36 +130,36 @@ genre M;; repeated line
 Intelligent: or, we your worshippers(viprāsaḥ), destitute of kin
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because we inspired poets without (such) kin hold fast to you who have  (those [=horses, etc.] as kin, o Indra,  
 come here with all of them, which are your deposits, to drink the soma,  o bull.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation should have a close parens after “[horses, etc.].” I interpret this verse in the context of its pragātha. The question is who are the kin that Indra has and we do not. I suggest that Indra’s “kin” are the horses, cows, and so forth named in vs. 3. In VIII.68.19 the patrons are called vā́ja-bandhu- ‘having prizes as kin’, as a hint that they should give them to us. I think the same image is at work here: we lack kin, and you have these desirable kin (horses, etc.) that could become akin to us too.
 
 In the second hemistich these kin become dhā́māni. The stem dhā́man- is of course a highly charged and multivalent word, but in this case I think it comes close to its literal sense: ‘deposits’, that is, things put or set down (√dhā), which Indra is to bring to deposit on the ritual ground.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For we the kinless singers have drawn hither thee, O Indra, who hast numerous kin.  
      With all the forms thou hast, comic thou of bull-like strength, come near to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wir Redekundigen haben ohne Anhang dich, Indra, mit dem großen Anhang festgehalten. Mit all deinen Erscheinungsformen, mit denen komm, o Bulle, zum Somatrunk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wir verwaiste Priester ziehen, Indra, dich, dess Sippe gross ist, fest an uns; Mit allen deinen Scharen, die du hast, o Stier, erscheine hier zum Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь мы, лишенные сторонников, тебя, богатого сторонниками,  
 Подчинили себе, мудрые, о Индра.  

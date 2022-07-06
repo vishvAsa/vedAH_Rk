@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मस्य मा तव꣡सं व꣡क्षि अग्ने  
 व꣡ह्निं चकर्थ विद꣡थे य꣡जध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शमाये꣡ अग्ने तनु꣡वं जुषस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दे॒वान् । अच्छ॑ । दीद्य॑त् । यु॒ञ्जे । अद्रि॑म् । श॒म्ऽआ॒ये । अ॒ग्ने॒ । त॒न्व॑म् । जु॒ष॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
@@ -131,7 +131,7 @@ genre M
 हेअग्ने त्वंविदथे यज्ञे यजध्यै यष्टुं सोमस्यवह्निंवोढारं यं मा मां चकर्थकृतवानसि तं मा तवसन्तपस्विनं बलिनं वक्षि कामयस्व किञ्च हेअग्ने देवानच्छअभिलक्ष्यदीद्यत् दीप्यमानोहं अद्रिं ग्रावाणं युञ्चे अभिषवणाययुनज्मिशमाये शाम्यामिच तथामन्त्रान्तरं—ऋतेनदेवःसविताशमायते ति । यद्वा शमायेस्तौमि शशमानः रञ्चयतीति स्तुतिकर्मसुपाठात् तथाचमन्त्रान्तरं—सोअग्नईजे शशमेचमर्तइति । किञ्च हेअग्ने तन्वंशरीरं जुषस्वरक्षायैसेवस्व यद्वा कर्माणितन्वन्तं मां सेवस्वे त्यर्थः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,35 +142,35 @@ genre M
 **Viśvāmitra** was a **kṣatriya**, of royal or military profession, and was also a monarch for some time; he descended from **Kuśa** or the lunar lineage and was the ancestor of many royal and saintly person ns, who, like himself, were called after their common ancestor, **Kuśikas**, or **Kauśikas**. By the force of his austerities, he compelled **Brahmā** to admit into the **Brāhmaṇa** order. He sought this position to be equated with **Vasiṣṭha**, which whom he had disputed earlier. The circumstances of his dispute with Vasiṣṭha are detailed in the **Rāmāyaṇa**; the legend is also told in the **Mahābhārata**, **Vāyu**, **Viṣṇu** and **Bhāgavata Purāṇas**. Viśvāmitra and Vasiṣṭha had the patronage of hostile princes; but both had friendly relations with the royal family of **Ayodhyā**, or King **Daśaratha** and his son, **Rāma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] “You have made me your draft-horse, who am mighty from  soma—(saying,) ‘Convey (the oblations), o Agni’—in order (for me)  to offer the sacrifice at the ritual distribution.”  
 [The poet:] “As you shine toward the gods—I harness the stone and  
 I labor, o Agni—take delight in your own body.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU, Agni, who wilt have the strong, hast made me the Soma's priest, to worship in assembly.  
      Thou shinest to the Gods, I set the pressstones. I toil; be joyful in thyself, O Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou wilt have me, O Agni, as a strong (master) of Soma 1: therefore thou hast made me the carrier (of the gods?) to perform worship at the sacrifice 2. Sending my thoughts to the gods 3 I make the (press-) stone ready 4; I toil, O Agni: find thou pleasure in thy own body 5.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da du wünschest, daß ich den starken Trank des Soma opfere, o Agni, so hast du mich zum Leiter bei dem Opfer gemacht, um den Weihspruch zu sprechen. Bis zu den Göttern leuchtend - während ich den Preßstein in Gebrauch nehme und den Dienst versehe, o Agni, - finde du an dir selbst Wohlgefallen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verhilf mir Agni zu der Kraft des Soma, zum Priester mach' mich, bei dem Fest zu opfern; Der Götter achtend schirr' ich an den Pressstein; ich wirke emsig, Agni, du erfreu' dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Говоря так:) Вези меня, сильного от сомы!, о Агни,  
 Ты сделал меня возницей, чтобы я жертвовал на месте жертвенных раздач.  

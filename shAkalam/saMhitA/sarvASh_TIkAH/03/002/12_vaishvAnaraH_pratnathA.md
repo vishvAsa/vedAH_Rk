@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वैश्वानरः꣡ प्रत्न꣡था ना꣡कम् आ꣡रुहद्  
 दिव꣡स् पृष्ठ꣡म् भ꣡न्दमानः सुम꣡न्मभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 समान꣡म् अ꣡ज्मम् प꣡रि एति जा꣡गृविः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । पू॒र्व॒ऽवत् । ज॒नय॑न् । ज॒न्तवे॑ । धन॑म् । स॒मा॒नम् । अज्म॑म् । परि॑ । ए॒ति॒ । जागृ॑विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaiśvānaraḥ* ← *vaiśvānara*
 - \[noun\], nominative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 सुमन्मभिः स्तोतृभिः भन्दमानः स्तूयमानः वैश्वानरः जातमावएवप्रत्नथा प्रत्नइव चिरन्तन इव नाकं कंसुखं अकन्दुःखं नविद्यतेअकंयस्मिन् तत् नाकं दिवः अन्तरिक्षस्यपृष्ठं उपरितनप्रदेशं स्वशोचिभिः आरुहत् आरोहति सवैश्वानरः पूर्ववत् पूर्वेभ्यऋषिभ्यइव जन्तवे स्तोत्रेयजमानाय धनम्पश्वादिलक्षणं जनयन् स्म्पादयन् जागृविःसदाप्रबुद्धः समानं सर्वेषां देवाणंसाधारणं अज्मं आकाशमार्गं पर्येति सूर्यरूपेणगच्छति ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,34 +130,34 @@ genre M
 The common path: thatis, as the sun's path
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As of old, Vaiśvānara mounted the vault of the sky, the back of heaven,  becoming joyful through our good thoughts.  
 As before, producing the winnings for the (human) race, being awake,  he goes around the same course.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vaisvanara, as of old, mounted the cope of heaven, heaven's ridge, well greeted, by those skilled in noble songs.  
      He, as of old, producing riches for the folk, still watchful, traversesthe common way again.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Vaisvânara has mounted the firmament, the back of heaven, as of old, glorified by those who are rich in good thoughts. He, creating wealth for the creatures as of old, goes watchful round the common course.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vaisvanara hat in alter Weise das Firmament erstiegen, zum Rücken des Himmels, von den Sinnreichen beneidet. Wie früher dem Menschen Reichtum schaffend zieht er wachsam im Kreise die gleiche Bahn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Männerhort bestieg den Gipfel wie auch sonst, des Himmels Rücken, strahlend mit der weisen Schar, Nach alter Art erzeugend den Geschöpfen Gut durchwandert wachsam er die altgewohnte Bahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вайшванара, как некогда, поднял небосвод,  
 Спину неба, приветствуемый доброжелателями.  

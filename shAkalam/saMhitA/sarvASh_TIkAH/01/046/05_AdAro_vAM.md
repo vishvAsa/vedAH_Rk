@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आदारो꣡ वाम् मतीनां᳐꣡  
 ना꣡सत्या मतवचसा  
 पातं꣡ सो꣡मस्य धृष्णुया꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 पा॒तम् । सोम॑स्य । धृ॒ष्णु॒ऽया ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ādāro* ← *ādāraḥ* ← *ādāra*
 - \[noun\], nominative, singular, masculine
@@ -77,36 +77,36 @@ genre M
 हे **मतवचसा** अभिमतस्तोत्रौ **नासत्या** अश्विनौ **वां** युवयोः **मतीनां** बुद्धीनाम् **आदारः** प्रेरको यः सोमोऽस्ति **सोमस्य** तं सोमं **पातं** युवां पिबतम् । कीदृशं सोमम् । **धृष्णुया** धर्षणशीलम् । मदकरत्वेन तीव्रमित्यर्थः ॥ आदारः। ‘दृङ् आदरे । आदारयतीति आदारः।' दारजारौ कर्तरि णिलुक्च' इति घञ्प्रत्ययः । थाथादिना उत्तरपदान्तोदात्तत्वम् । मतीनाम् । 'नामन्यतरस्याम् इति नाम उदात्तत्वम् । मतवचसा । मतमभिमतं स्तोत्ररूपं वचो ययोस्तौ । ‘सुपां सुलुक्' इति विभक्तेः आकारः । पातम् । ‘पा पाने '।' बहुलं छन्दसि' इति शपो लुकि सति ‘पाघ्रा ' इत्या दिना पिबादेशो न भवति । सोमस्य । क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वात् चतुर्थ्यर्थे षष्ठी। धृष्णुया। ‘सुपां सुलुक्' इति विभक्तेः याजादेशः ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Nāsatyas**, accepting our praises, partake of the exhilarating **Soma**, the animator of your minds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one paying heed [?] to (our) conceptions for the sake of you two, o  Nāsatyas, you for whom (these) words are conceived:  
 “Drink boldly of the soma.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye have regard unto our hymns, Nasatyas, thinking of our words:  
      Drink boldly of the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der für euch das Tor der Gedanken aufsprengt, ihr Nasatya´s, die ihr der Worte gedenkt: Trinkt tapfer vom Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist, der euren Sinn erschliesst, die, treue, ihr Gebet vernehmt, Vom Soma trinkt mit kühnem Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Он-)проламыватель (врат) мыслей для вас,  
 О Насатьи, о вы, помышляющие о словах (молитвы).  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ म इमं꣡ चिद् उ त्म꣡ना  
 अ꣡मन्दच् चित्रं꣡ दाव꣡ने  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सुकृ꣡त्तराय सुक्र꣡तुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒र॒ट्वे । अक्षे॑ । नहु॑षे । सु॒ऽकृत्व॑नि । सु॒कृत्ऽत॑राय । सु॒ऽक्रतुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -113,7 +113,7 @@ genre M
 **यः** पृथुश्रवाः **मे** मह्यम् **इमं** पुरतो वर्तमानं **चित्रं** चायनीयं गवाश्वादिकं **दावने** दानाय **त्मना** आत्मना स्वबुद्ध्यैव **अमन्दत्** अमन्दत अमाद्यत । स च **सुक्रतुः** शोभनकर्मा राजा **सुकृत्तराय** सुकृतकर्तृत्वाय **अरट्वे** **अक्षे** **नहुषे** सुकृत्वनि च । एते तस्य राज्ञोऽध्यक्षाः । तेष्वन्वशात् अस्मै गवादिकान् संयोजयतेति । यद्वा । अरट्वादयोऽन्ये राजानः । तेषु मध्ये सुकृत्तरायामन्ददिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 Maybe, names of kingsor officers of **Pṛthuśravas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one of good resolve who by his breath invigorated just this man  here, to give something brilliant to me  
 in the axle made of araṭu wood, in the presence of Nahuṣa, who is a  good performer (of rituals) for (a god) who performs even better,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another verse with unclear referents and no main clause. I take the subject to be the god Vāyu, who has inspired the human patron (imám in a) to give the poet a splendid dakṣiṇā. If Vāyu (deified wind) is the subject, tmánā lit. ‘by his breath’ is a nice touch.
 
@@ -139,23 +139,23 @@ In c Geldner takes araṭvé ákṣe as a PN, and it is certainly tempting. But,
 There is no way to be certain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who hath inclined this glorious one, buunteous himself, to give me gifts.  
      Borne on firm chariot with the prosperous Nahup, wise, to a man yet more devout.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der sogar diesen in eigener Person begeisterte, mir Wunderbares zu schenken, bei Aratva Aksa, dem frommen Nahusa, der Weise dem am besten Opfernden;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der diesen Herrn begeisterte, um Herrliches zu schenken mir, Auf festem Wagen bei dem treuen Nahuscha, treu wirkend für den treueren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто для меня даже этого сам  
 Вдохновил, чтобы тот подарил удивительное,  

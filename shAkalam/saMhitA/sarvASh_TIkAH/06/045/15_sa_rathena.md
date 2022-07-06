@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ र꣡थेन रथी꣡तमो  
 अस्मा꣡केनाभियु꣡ग्वना  
 जे꣡षि जिष्णो हितं꣡ ध꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 जेषि॑ । जि॒ष्णो॒ इति॑ । हि॒तम् । धन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -78,41 +78,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **जिष्णो** जयशीलेन्द्र **रथीतमः** अतिशयेन रथी महारथः **सः** त्वम् **अस्माकेन** अस्मदीयेन **अभियुग्वना** अभियोक्त्रा शत्रूणामभिभवित्रा **रथेन** **हितं** शत्रुषु निहितं **धनं** **जेषि** अस्मदर्थं जय ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Victorious **Indra**, who are the chief off charioteers, conquer the wealth that is held (by the enemy) with our assailing car.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the best charioteer, with our chariot on the attack,  
 win, o winner, the stake that is set.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The VP √ji hitáṃ dhánam returns from 2c and 12c, with two instances of √ji: jéṣi jiṣṇo hitáṃ dhánam. Here the subject is Indra as in 2c, not ‘we’ (12c), but he is making use of our (asmā́kena) chariot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As skilfullest of those who drive the chariot, with our art and aim,  
      O Conqueror, win the proffered prize.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als bester Wagenlenker sollst du mit unserem angreifenden Wagen den ausgesetzten Kampfpreis ersiegen, du Siegreicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erringe denn des Kampfes Preis siegreicher, bester Lenker du, Durch unsern Wagen zum Gewinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как лучший колесничий  
 На нашей нападающей колеснице  

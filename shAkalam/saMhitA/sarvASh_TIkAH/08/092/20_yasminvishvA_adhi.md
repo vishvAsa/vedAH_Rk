@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मिन् वि꣡श्वा अ꣡धि श्रि꣡यो  
 र꣡णन्ति सप्त꣡ संस꣡दः  
 इ꣡न्द्रं सुते꣡ हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 इन्द्र॑म् । सु॒ते । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
@@ -83,41 +83,41 @@ genre M
 **यस्मिन्** इन्द्रे **विश्वाः** सर्वाः **श्रियः** कान्तयः **अधि** अधिकं भवन्ति । अतिशयेन तेजस्वीत्यर्थः । किंच **सप्त** सप्तसंख्याकाः **संसदः** । सम्यक् यज्ञेषु कर्मकरणार्थं सीदन्तीति संसदः होत्रकाः । यस्मिन् **रणन्ति** सोमप्रदानार्थं रमन्ते । यद्वा । यं शब्दयन्ति स्तुवन्ति । तं पूर्वोक्तलक्षणम् **इन्द्रं** **सुते** सोमेऽभिषुते सति **हवामहे** वयं सोमपानायाह्वयामः ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke, now that the **Soma** is effused, that **Indra** in whom all graces are at their height, and in whomthe seven associated priests rejoice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He in whom are all splendors, in whom the seven who sit together  [=priests] take pleasure,  
 Indra do we invoke when the soma is pressed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I follow Scarlatta (574-75) in taking saṃsád- here as an agent noun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We summon Indra to the draught, irl whom all glories rest, in whom  
      The seven communities rejoice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei dem alle Herrlichkeiten sind, über den die sieben Opferversammlungen sich freuen, den Indra laden wir zum Soma ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In welchem alle Wonne ruht, die sieb'n Gemeinden sich erfreun, Den Indra rufen wir beim Saft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

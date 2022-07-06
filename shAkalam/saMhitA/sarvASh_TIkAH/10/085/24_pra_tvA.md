@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ त्वा मुञ्चामि व꣡रुणस्य पा꣡शाद्  
 ये꣡न त्वा꣡बध्नात् सविता꣡ सुशे꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रिष्टां त्वा सह꣡ प꣡त्या दधामि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ऋ॒तस्य॑ । योनौ॑ । सु॒ऽकृ॒तस्य॑ । लो॒के । अरि॑ष्टाम् । त्वा॒ । स॒ह । पत्या॑ । द॒धा॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -135,7 +135,7 @@ popular
 जातं प्राणिनं सवित्रा प्रेरितो वरुण आत्मपाशैर्बध्नाति । तस्मात् **वरुणस्य** **पाशात्** हे वधु **त्वा** त्वां **प्र** **मुञ्चामि** **येन** पाशेन **त्वा** त्वां **सविता** वरुणस्य प्रेरकः **सुशेवः** सुसुखः **अबध्नात्** बन्धनं कृतवान् । यज्ञविनियोगपक्षे पत्नीं योक्त्रेण बध्नाति । बन्धनस्य वरुणोऽभिमानी। अतो वरुणपाशयोक्त्रात्प्र मुञ्चामि येन योक्त्रेण सविता कर्मणामनुज्ञाता देव ऋत्विक्पाशेनाबध्नात् । तं मोचयित्वा च **ऋतस्य** यज्ञस्य **योनौ** स्थाने यागभूमौ **सुकृतस्य** **लोके** कर्मक्षेत्रे भूलोके च **अरिष्टाम्** अहिंसितां त्वां पुत्राद्यर्थं **पत्या** **सह** **दधामि** स्थापयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ popular
 Savitā employs Varuṇa tomake bonds. The ṛca is recited when the bridegroom undoes the bride's girdle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I release you from the fetter of Varuṇa, with which well-disposed  Savitar bound you.  
 In the womb of truth, in the world of the well-performed (sacrifice?)  I place you unharmed along with your husband.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now from the noose of Varuna I free thee, wherewith Most Blessed Savitar hath bound thee.  
      In Law's seat, to the world of virtuous action, I give thee up uninjured with thy consort.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich löse dich von des Varuna Fessel, mit der dich der freundliche Savitri gebunden hat. In die Wiege des Gesetzes, in die Welt der Guttat versetze ich dich unverletzt mit deinem Gatten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich löse dich [o Braut] von dem Stricke des Varuna, mit dem dich der sehr theure Savitar gebunden hat, in den Schooss des Heiligthums an den Ort des schön vollbrachten Werkes übergebe ich dich als unversehrte deinem Gatten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я освобождаю тебя от пут Варуны,  
 Которыми связал тебя Савитар благосклонный  

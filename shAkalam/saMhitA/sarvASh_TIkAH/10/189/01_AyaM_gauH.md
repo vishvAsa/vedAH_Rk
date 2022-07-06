@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡यं꣡ गउः꣡ पृ꣡श्निर् अक्रमीद्  
 अ꣡सदन् मात꣡रम् पुरः꣡  
 पित꣡रं च प्रय꣡न् सु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 पि॒तर॑म् । च॒ । प्र॒ऽयन् । स्व१॒॑रिति॑ स्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āyaṃ* ← *ā*
 - \[adverb\]
@@ -91,7 +91,7 @@ popular
 **गौः** गमनशीलः **पृश्निः** प्राष्टवर्णः प्राप्ततेजाः **अयं** सूर्यः **आ** **अक्रमीत्** आक्रान्तवान् । उदयाचलं प्राप्तवानित्यर्थः । आक्रम्य च **पुरः** पुरस्तात् पूर्वस्यां दिशि **मातरं** सर्वस्य भूतजातस्य निर्मात्रीं पृथिवीम् **असदत्** आसीदति प्राप्नोति । सदेश्छन्दसो लुङ्। लुदित्त्वाच्च्रलेरङादेशः । ततः **पितरं** पालकं द्युलोकं चशब्दादन्तरिक्षं च प्रयन् प्रकर्षेण शीघ्रं गच्छन् **स्वः** स्वरणः शोभनगमनो भवति । यद्वा । पितरं स्वर्गलोकं प्रयन् वर्तते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,29 +104,29 @@ Deity Sārparājñī: i.e., **Kadru**, the mother of the serpent race; Yajuṣ3.
 Gau = gamanaśīla, moving; the deity: first line, **Agni**; second line, **Sūrya** or Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This dappled cow has stridden here and sat in front of its mother  
 and its father, as it goes forth toward the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS spotted Bull hath come, and sat before the Mother in the east,  
      Advancing to his Father heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser bunte Stier ist hergeschritten und hat sich vor Mutter Erde und Vater Himmel gesetzt auf seinem Wege zur Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wesenkenner spornet nun gleich einem schnellen Rosse an, Zu setzen sich auf unsre Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выступил этот пестрый бык,  
 Он уселся перед матерью  

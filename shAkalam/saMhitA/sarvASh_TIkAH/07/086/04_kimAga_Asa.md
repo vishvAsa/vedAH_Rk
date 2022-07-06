@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् आ꣡ग आस वरुण ज्य꣡यिष्ठं+  
 य꣡त् स्तोता꣡रं जि꣡घांससि स꣡खायम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡व त्वानेना꣡ न꣡मसा तुर꣡ इयाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । तत् । मे॒ । वो॒चः॒ । दुः॒ऽद॒भ॒ । स्व॒धा॒ऽवः॒ । अव॑ । त्वा॒ । अ॒ने॒नाः । नम॑सा । तु॒रः । इ॒या॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
@@ -131,36 +131,36 @@ genre M
 हे वरुण ज्येष्टमधिकं किं आगः आस कोपराधोमयाकृतोबभूव् यत् येन आगसा सखायं मित्रभूतं सन्तं स्तोतारं जिघांससि हन्तुमिच्छसि । हे दूळभ दुर्दभ अन्यैर्बाधितुमशक्य स्वधावस्तेजस्विन् हे वरुण तदागः मे मह्यं प्रवोचः प्रब्रूहि एवं सति तस्यप्रायश्चित्तं कृत्वा अनेनाः अपापः सन्नहन्तुरस्त्वरमाणः शीघ्रः नमसा नमस्कारेण हविषा वा त्वा त्वां अवेयां अवगच्छेयम् ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What has that great wickedness been, **Varuṇa**, that you should seek to destroy the worshiper, yourfriend? Insuperable, resplendent Varuṇa, declare it to me, so that, freed from sin, I may quick approach you withveneration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Was the offense so very great, Varuṇa, that you wish to smash a praise  singer and companion?  
 You will declare this to me, o you hard to deceive, o you of independent  will! With reverence I would swiftly *make recompense to you (to be)  freed of guilt.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What, Varuna, hath been my chief transgression, that thou wouldst slay the friend who sings thy praises?  
      Tell me, Unconquerable Lord, and quickly sinless will I approach thee with mine homage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was war das größte Vergehen, Varuna, daß du deinen Freund, den Sänger töten willst? Sage mir das an, du Untrüglicher, Eigenmächtiger! Ich möchte dem zuvorkommend von Sünde befreit unter Verbeugung dir Abbitte tun.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was, Varuna, war meine schwerste Sünde, dass du den Sänger, der dich liebt, willst schlagen? Das künde mir, untrüglicher Beherrscher; durch diese Andacht möcht' ich dich besänft'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что же за величайший грех был (это), о Варуна,  
 Что ты хочешь убить восхвалителя, друга?  

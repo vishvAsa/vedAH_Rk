@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ यासि सवितस् त्री꣡णि रोचना꣡  
 उत꣡ सू꣡र्यस्य रश्मि꣡भिः स꣡म् उच्यसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उत꣡ मित्रो꣡ भवसि देव ध꣡र्मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒त । रात्री॑म् । उ॒भ॒यतः॑ । परि॑ । ई॒य॒से॒ । उ॒त । मि॒त्रः । भ॒व॒सि॒ । दे॒व॒ । धर्म॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -121,7 +121,7 @@ genre M
 हे **सवितः** देव **उत** अपि च **त्रीणि** **रोचना** रोचमानान् द्युलोकान् **यासि** गच्छसि ।  ‘ तिस्रो दिवः पृथिवीः ' (ऋ. सं. ४, ५३. ५) इत्युक्तम् । **उत** अपि च **सूर्यस्य** **रश्मिभिः** **समुच्यसि** संगच्छसि ॥ ‘उच समवाये' इत्यस्येदं रूपम् ॥ उदयात् पूर्वभावी सविता उदयास्तमयवर्ती सूर्य इति । **उत** अपि च **रात्रीमुभयतः** उभयपार्श्वे **परीयसे** परिगच्छसि । **उत** अपि च हे **देव** सवितस्त्वं **धर्मभिः** जगद्धारकैः कर्मभिः **मित्रो** **भवसि** मित्राख्यो देवो भवसि । अथवा प्रकाशादिप्रदानेन सखा भवसि सर्वजगताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M
 Sūrya: Savitā is the sun before rising; Sūrya is the sun in genitive ral
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you travel, Savitar, through the three luminous realms, and you are  at home with the rays of the sun.  
 And you encircle the night on both sides, and you become Mitra [/an  ally], o god, through your supports.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To the three spheres of light thou goest, Savitar, and with the rays of Sidrya thou combinest thee.  
      Around, on both sides thou encompassest the night: yea, thou, O God, art Mitra through thy righteous laws.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und du kommst zu den drei Lichtreichen, o Savitri, und wohnst mit den Strahlen der Sonne zusammen, und du umkreisest auf beiden Seiten die Nacht, und du bist nach deinen Eigenschaften der Mitra, o Gott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch in die drei Lichträume gehst du, Savitar, hinein und labest an der Sonne Strahlen dich; Und auch die Nacht durchwanderst du von West und Ost und bist durch feste Ordnungen dem Mitra gleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И ты движешься, о Савитар, по трем светлым пространствам,  
 И ты живешь вместе с лучами солнца,  

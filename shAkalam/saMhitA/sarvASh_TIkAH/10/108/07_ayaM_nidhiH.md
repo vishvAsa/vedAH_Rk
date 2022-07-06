@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ निधिः꣡ सरमे अ꣡द्रिबुध्नो  
 गो꣡भिर् अ꣡श्वेभिर् व꣡सुभिर् नि꣡ऋष्टः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रे꣡कु पद꣡म् अ꣡लकम् आ꣡ जगन्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 रक्ष॑न्ति । तम् । प॒णयः॑ । ये । सु॒ऽगो॒पाः । रेकु॑ । प॒दम् । अल॑कम् । आ । ज॒ग॒न्थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -133,39 +133,39 @@ popular
 ते पुनराहुः । हे **सरमे** **अयं** **निधिः** अस्मदीयः कोशः अद्रिबुध्नः ।  ‘बन्ध बन्धने ।  ‘ बन्धेर्ब्रधिबुधी च' ( उ. सू. ३. ५ ) इति नप्रत्ययो बुध इत्यादेशः । अद्रिर्बन्धको यस्य तादृशः । तथा आहृतैः गोभिरश्वेभिः अश्वैश्च **वसुभिः** आत्मीयैर्धनैश्च न्यृष्टः नितरां प्राप्तो भवति ॥ ऋषी गतौ । क्तप्रत्यये  ‘ श्वीदितो निष्टायाम्' इतीट्प्रतिषेधः ।  ‘ गतिरनन्तरः' इति गतेः प्रकृति स्वरत्वम् ॥ **सुगोपाः** ।  ‘ गुप रक्षणे ' । आयप्रत्ययान्तात् क्विपि अतोलोपयलोपौ । सुष्ठु गोपयितारः **ये** **पणयः** तेऽसुराः **तं** निधिं **रक्षन्ति** पालयन्ति । **रेकु** । ‘रेकृ शङ्कायाम् । औणादिक उप्रत्ययः । शङ्कितं गोभिः शब्दायमानं **पदम्** अस्माभिः पालितं स्थानम् **अलकं** व्यर्थमेव **आ** **जगन्थ** आगतवत्यसि ॥ गमेर्लिटि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Paṇi:] This treasury with its foundation of rock is overflowing with cows,  horses, and goods, Saramā.  
 The Paṇis, who are good herdsmen, guard it. In vain have you come on  an empty track.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Paved with the rock is this our treasure-chamber; filled full of precious things, of kine, and horses.  
      These Panis who are watchful keepers guard it. In vain hast thou approached this lonely station.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 This treasure, Saramā, on rock is founded. Replete with goods, and cows, and horses. The Paṇis here, its stout protectors, guard it: In vain thou comest to a fort unyielding.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Schatzkammer auf felsigem Grund ist voll von Rindern, Rossen, Schätzen, o Sarama. Die Pani´s, die gute Wächter sind, behüten die. Du bist vergebens die falsche Fährte gegangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Auf Felsgrund ruht, o Saramā, der Schatz hier; gefüllt mit Rindern, Rossen und mit Gütern, Als gute Wächter schützen ihn die Pani's, leer ist der Ort, umsonst bist du gekommen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта сокровищница, о Сарама, на дне скалы  
 Переполнена быками, конями, благами.  

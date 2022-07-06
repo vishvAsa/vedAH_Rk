@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां सुम्नइः꣡ शंयू꣡ इव  
 मं꣡हिष्ठा वि꣡श्ववेदसा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 उ꣡त्सं न꣡ पिप्यु꣡षीर् इ꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सम् । अ॒स्मे इति॑ । भू॒ष॒त॒म् । न॒रा॒ । उत्स॑म् । न । पि॒प्युषीः॑ । इषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -107,36 +107,36 @@ genre M
 हे **विश्ववेदसा** सर्वज्ञौ सर्वधनौ वा हे **नरा** नेतारौ **वां** युवां **शंयूइव** सुखयुक्तौ राजानाविव **मंहिष्ठा** दातृतमावतिशयेन पूज्यौ वा सन्तौ सुम्नैः अस्मभ्यं दातव्यैः सुखैः सार्धम् **आ** । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । आगच्छतम् । यद्वा । उपसर्गस्य भूषतमित्यनेन संबन्धः । मंहिष्ठेत्यपि संबोधनम् । हे मंहिष्ठा दातृतमौ उक्तगुणावश्विनौ वां युवां सुम्नैः सार्धं शंयूइव **अस्मे** अस्मान् सम्यक् आ **भूषतम्** अभिप्राप्नुतम् ॥' भू प्राप्तौ । अस्माल्लोटि व्यत्ययेन सिप्शपौ । यद्वा । ‘भूष अलंकारे' ॥ आ समन्तात् सम्यक् भूषतम् अलंकुरुतम् । **पिप्युषीः** प्रवृद्धानि **इषः** इष्यमाणानि पयांसि **उत्सं** न गोरूध इव । यथा बहुभिः पयोभिः ऊधः अलंकृतं सत् दृश्यते अस्मानप्येवं बहुभिर्धनैरलंकुरुतमित्यर्थः ॥ पिप्युषीरिति प्यायतेर्लिटः क्वसुः । ‘लिड्यड्योश्च' इति पीभावः । जसि ‘वा छन्दसि' इति पूर्वसवर्णदीर्घः । यद्वा । उत्सः प्रवाहो यथा पिप्युषीः वृद्धानीषोऽन्नान्यलंकरोति' तद्वत् ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Prosperous,, most adorable, all-knowing, come to us and decorate us with blessings, as a (cow's)udder is adorned with abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O most munificent ones possessing all property, (attend upon us) with  your favors, like (parents) wishing (our) welfare;  
 attend to refreshments for us that swell like a spring, o men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come with your joys, most liberal Gods, Lords of all treasures, bringing weal.  
      Like fresh full waters to a well, so, Heroes come and be with us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seid mit euren Gnaden bereit wie zwei wohlwollende Könige, ihr Freigebigsten, Allwissenden! Bereitet uns, o Männer, Labsale, die wie ein Brunnen quillen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit euren Freuden, Männer, kommt heilbringend, allbesitzende, Freigiebigste, zu uns herbei, wie reiche Tränke zu dem Born.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(ходите) с вашими милостями как двое приносящих счастье,  
 Самые щедрые, всеведущие!  

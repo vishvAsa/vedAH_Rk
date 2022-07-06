@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवश् चकृवां꣡सो म꣡धूनि  
 प्र꣡ वाय꣡वे भरत चा꣡रु शुक्र꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दे꣡व म꣡ध्वो ररिमा꣡ ते म꣡दाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 होता॑ऽइव । नः॒ । प्र॒थ॒मः । पा॒हि॒ । अ॒स्य । देव॑ । मध्वः॑ । र॒रि॒म । ते॒ । मदा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavaś* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -130,7 +130,7 @@ genre M
 हे **अध्वर्यवः** अध्वरं युञ्जानाः **मधूनि** मधुररसानि सोमाज्यादीनि **चकृवांसः** कुर्वाणा यूयं **वायवे** प्रथमं **प्र** **भरत** प्रकर्षेण संपादयत **चारु** चरणीयं **शुक्रं** दीप्तं सोमम् । हे वायो त्वं च **होतेव** होता यथा प्रथमं पिबति तद्वत् **नः** अस्मदर्थम् **अस्य** अमुं सोमं **प्रथमः** इतरदेवेभ्यः पूर्वं **पाहि** पिब । हे **देव** वायो **मध्वः** मधुरं सोमरसं ते **मदाय** **ररिम** ददाम । वायोः पूर्वपानमसकृत्प्रपञ्चितम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,34 +141,34 @@ genre M
 First drink of this sweet juice: vāyu's first drinking of the Soma is repeatedly enjoined, **asakṛt** prapañcitam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus—having made the honeyed (drinks), present the pure dear  (soma) to Vāyu.  
 Like the Hotar, drink first of this honey of ours, god; we have given it  to you for your exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The subject of the impv. in c must also be Vāyu, because he regularly receives the first drink of soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Adhvaryus, make the sweet libations ready, and bring the beautiful bright juice to Vayu.  
      God, as our Priest, be thou the first to drink it: we give thee of the mead to make thee joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Ihr habt die Süßtränke bereitet, setzet dem Vayu den angenehmen klaren Saft vor! Trink zuerst wie der Hotri von diesem Süßtrank, o Gott! Wir haben ihn dir zum Rausche gespendet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Diener, die die Tränke ihr bereitet, den lieben, hellen bringet dar dem Vaju; Dem Priester gleich trink du zuerst vom Safte; den süssen schenkten wir, o Gott, zur Lust dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О адхварью, приготовив сладкие напитки,  
 Предложите Ваю приятный прозрачный (сок)!  

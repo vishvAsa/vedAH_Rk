@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुत्रि꣡णा ता꣡ कुमारि꣡णा  
 वि꣡श्वम् आ꣡युर् वि꣡ अश्नुतः  
 उभा꣡ हि꣡रण्यपेशसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 उ॒भा । हिर॑ण्यऽपेशसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *putriṇā* ← *putrin*
 - \[noun\], nominative, dual, masculine
@@ -80,40 +80,40 @@ genre M
 **पुत्रिणा** पुत्रवन्तौ तत्रापि **कुमारिणा** षोडशवर्षदेशीयपुत्रवन्तौ **हिरण्यपेशसा** हिरण्मयैराभरणैरलंकृतरूपौ **उभा** उभौ **ता** तौ दंपती **विश्वं** सर्वम् **आयुः** आयुष्यं **व्यश्नुतः** व्याप्नुतः । यज्ञेन तयोः पुत्रादिकं धनमायुश्च संभवतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Blessed with youthful and adolescent offsprin, and both having their person ns richly ornamented, theypass (happily) their whole life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Possessing sons, possessing children they attain a complete lifespan, both decorated with gold.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 putríṇā … kumāríṇā “possessing sons, possessing children” expands on prajā́vatī ‘possessing offspring’ in the parallel, 4a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With sons and daughters by their side they reach their full extent of life,  
      Both decked with ornaments of gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Besitz von Söhnen und Kindern erreichen sie das volle Lebensalter, alle beide goldgeschmückt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An Söhnen und an Töchtern reich erreichen sie des Lebens Ziel, Sie beide reich mit Gold geschmückt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С сыновьями и детьми  
 Они достигают полного срока жизни,  

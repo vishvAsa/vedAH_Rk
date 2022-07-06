@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रअग्नी युवं꣡ सु꣡ नः  
 स꣡हन्ता दा꣡सथो रयि꣡म्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 येन॑ । दृ॒ळ्हा । स॒मत्ऽसु॑ । आ । वी॒ळु । चि॒त् । स॒हि॒षी॒महि॑ । अ॒ग्निः । वना॑ऽइव । वाते॑ । इत् । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -151,14 +151,14 @@ genre M;; repeated line
 हे **इन्द्राग्नी** **सहन्ता** शत्रूनभिभवन्तौ **युवं** युवां **नः** अस्मभ्यं **रयिं** धनं सुष्ठु **दासथः** दत्तम् । तं रयिं विशिनष्टि। **येन** रयिणा **समत्सु** **चित्** संग्रामे **दृढा** **चित्** दृढानि स्थिराण्यपि **वीळु** शत्रुबलानि **अग्निर्वनेव** यथाग्निर्वनानि **वात** **इत्** वातेनैवाभिभवति तथा **सहिषीमहि** अभिभवाम । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Victorious **Indra** and **Agni**, bestow upon us riches whereby we may destroy our powerful enemies incombats as fire fanned by the wind consumes the forests; may all our adversaries perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Agni, victorious ones—you two will give us wealth,  
 by which we might become victorious over the strongholds, even the firm  ones, in the combats,  
@@ -166,23 +166,23 @@ as Agni (is victorious) over the woods especially when there is wind.
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INDRA and Agni, surely ye as Conquerors will give us wealth,  
      Whereby in fight we may o'ercome that which is strong and firmly fixed, as Agni burns the woods with wind. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni, ihr Bezwinger möget uns fein einen Schatz schenken, durch den wir in den Kämpfen das Wohlverschlossene, auch das Feste bezwingen können wie das Feuer im Sturmwind die Wälder. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra-Agni gebet uns, ihr starken Sieger, Schätze bald, Durch die im Kampf bezwingen wir, was fest und unbeweglich ist, wie Holz das Feuer windbewegt. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, вы хотите нам прекрасно  
 Дать, о победоносные, богатство,  

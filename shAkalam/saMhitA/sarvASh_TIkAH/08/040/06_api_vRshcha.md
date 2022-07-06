@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पि वृश्च पुराणव꣡द्  
 व्रत꣡तेर् इव गुष्पित꣡म्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 व॒यम् । तत् । अ॒स्य॒ । सम्ऽभृ॑तम् । वसु॑ । इन्द्रे॑ण । वि । भ॒जे॒म॒हि॒ । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *api*
 - \[adverb\]
@@ -135,43 +135,43 @@ genre M;; repeated line
 अपि च हे इन्द्र **पुराणवत्** प्रत्नो यथा **व्रततेरिव** यथा वह्याः **गुष्पितं** निर्गतां शाखां वृश्चति तथा शत्रूणां **वृश्च** छेदय । तदेवाह । **दासस्य** दासनामकस्य शत्रोः **ओजः** बलं **दम्भय** नाशय । अथ परोक्षस्तुतिः । **वयं** नाभाकाः **अस्य** दासस्य **संभृतं** **वसु** **इन्द्रेण** हेतुना **वि** **भजेमहि** । सिद्धमन्यत् ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Cut off (the foe), **Indra**, as and old (pruner) the protruding (branch) of a creeper, humble the strength ofthe **Dāsa**; may we divide his accusative ulated treasure (despoiled) by Indra; may all our adversaries perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hew (him) apart in the age-old way, like the tangle of a vine; weaken  the strength of the Dāsa.  
 Might we then take a share in his goods, brought together by Indra. – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both vratáti- and guṣpitá- are found in the RV only here, but are attested later -- the latter already AV.
 
 The meter of de is faulty, with two extra syllables. Which pāda is hypermetric depends on which one vásu is assigned to: Oldenberg (Prol.) and Lubotsky put it final in d, Holland & van Nooten Rig Veda edition initial in e. In favor of the former is vásu’s general preference for pāda-final position and, in particular, the final of 4e, with a form of √bhṛ + vásu (bibhṛtó vásu). Oldenberg (Noten) explicitly counsels against omitting it as others have suggested. It would be possible to eliminate another disyllable, e.g., pleonastic+++(=redundant)+++ vayám, but there is no strong reason to.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tear thou asunder, as of old, like tangles of a creeping plant,  
      Demolish thou the Dasa's might. May we with Indra's help divide the treasure he hath gathered up.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zerhaue wie vor Zeiten gleich dem Gewirr einer Schlingpflanze, überliste die Stärke des Dasa! Wir wollen dessen angehäuftes Gut mit Indra teilen. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zerspalte wie in alter Zeit, gleich wie des Dickichts Astgeflecht, Des Dämons Kraft, vernichte sie; wir mögen sein gehäuftes Gut als Theil durch Indra's Gunst empfahn. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обруби, как прежде,  
 Словно сплетение лианы,  

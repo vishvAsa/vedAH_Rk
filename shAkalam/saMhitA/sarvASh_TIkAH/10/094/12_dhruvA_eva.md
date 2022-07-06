@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध्रुवा꣡ एव꣡ वः पित꣡रो युगे꣡-युगे  
 क्षे꣡मकामासः स꣡दसो न꣡ युञ्जते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ द्यां꣡ र꣡वेण पृथिवी꣡म् अशुश्रवुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒जु॒र्यासः॑ । ह॒रि॒ऽसाचः॑ । ह॒रिद्र॑वः । आ । द्याम् । रवे॑ण । पृ॒थि॒वीम् । अ॒शु॒श्र॒वुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhruvā* ← *dhruvāḥ* ← *dhruva*
 - \[noun\], nominative, plural, masculine
@@ -128,36 +128,36 @@ popular
 हे ग्रावाणः **युगेयुगे** सर्वेषु युगेषु **धुवा** **एव** निश्चला एव **वः** युष्माकं पितरः पितृभूताः पर्वताः **क्षेमकामासः** क्षेमकामाः सदसः सदांसि आत्मना न **युञ्जते** न संयोजयन्ति। **अजुर्यासः** जरारहिताः हरिषाचः सोमस्य संभक्तारः **हरिद्रवः** सोमसंसर्गाद्धरितवर्णाः द्यां दिवं पृथिवीं च रवेण अभिषवशब्देन **अशुश्रवुः** श्रावयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your progenitors (the mountains), stable from age to age, desirous of repose, seek not to mix with(religious) assemblies; exempt from decay, enjoying the **Soma**, flowing green (with Soma), they made heavenand earth resound with their clamour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Firmly fixed are your fathers [=mountains] in every age. Desirous of  repose, they do not hitch themselves up from their seat.  
 Undecaying, companions of the golden (soma), (like) golden trees, they  have made Heaven and Earth listen by their bellowing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your fathers, verily, stand firm from age to age: they, loving rest, are not dissevered from their seat.  
      Untouched by time, ne'er lacking green plants and green trees, they with their voice have caused the heavens and earth to hear.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ganz unbeweglich sind eure Väter zu aller Zeit, Ruhe liebend fahren sie nicht von ihrem Platz weg. Nicht alternd, die Gefährten des gelben Soma, Gelbholz, machten sie durch ihr Getöse Himmel und Erde aufhorchen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fest stehn die Berge, eure Väter, immerdar, die Ruhe liebend gehn sie nicht von ihrem Platz; Ihr, ewig jung, zum goldnen eilend liebevoll habt Erd und Himmel nun erfüllt mit eurem Schall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

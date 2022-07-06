@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ गो꣡मता नासतिया र꣡थेन  
 अ꣡श्वावता पुरुश्चन्द्रे꣡ण यातम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्पार्ह꣡या श्रिया꣡ तनु꣡वा शुभाना꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । वा॒म् । विश्वाः॑ । नि॒ऽयुतः॑ । स॒च॒न्ते॒ । स्पा॒र्हया॑ । श्रि॒या । त॒न्वा॑ । शु॒भा॒ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 हे **नासत्या** अश्विनौ **गोमता** गोयुक्तेन **अश्वावता** अश्वयुक्तेन । अश्वैर्वृषभैश्चोढेनेत्यर्थः । यद्वा। गोमता गोप्रदेन । **पुरुश्चन्द्रेण** बहुधनेन । धनप्रदेनेत्यर्थः । तादृशेन **रथेन** **आ** **यातम्** आगच्छतम् । **वां** **विश्वाः** बह्यःेत **नियुतः** स्तुतयः **सचन्ते** सेवन्तेऽस्मत्प्रेरिताः । हे **स्पार्हया** स्पृहणीयया **श्रिया** शोभया **तन्वा** शरीरेण च **शुभाना** दीप्यमानौ युवाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,29 +124,29 @@ genre M
 All praises: **viśva** **niyutaḥ**: niyutaḥ = **stuti**,praise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey here, Nāsatyas, by your much gleaming chariot filled with cattle,  filled with horses.  
 All your teams accompany you, having beautified your bodies with your  eagerly sought glory.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME, O Nasatyas, on your car resplendent, rich in abundant wealth of kine and horses.  
      As harnessed steeds, all our laudations follow you whose forms shine with most delightful beauty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet, Nasatya´s, auf rinder- und rossebegleitetem, goldreichem Wagen! Euch begleiten alle Gaben, die ihr am Leibe in beneidenswerter Schönheit pranget.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her, ihr treuen, auf dem rinderreichen, dem rossereichen, glanzbegabten Wagen; Euch streben zu der Lieder Vielgespanne, die ihr mit holder Pracht euch schmückt die Leiber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте, о Насатьи, на колеснице, сопровождаемой коровами,  
 Сопровождаемой конями, распространяющей много блеска!  

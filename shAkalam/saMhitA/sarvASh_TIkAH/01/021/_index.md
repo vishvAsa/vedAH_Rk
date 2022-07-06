@@ -8,7 +8,7 @@ title = "+021"
 ‘इहेन्द्राग्नी' इत्यादिकं षडृचं चतुर्थं सूक्तम्। तस्य ऋषिच्छन्दसी पूर्ववत् । देवता त्वनुक्रम्यते - इह षळैन्द्राग्नम् ' इति । विनियोगस्तु - अग्निष्टोने अच्छावाकशस्त्रे  ‘ इहेन्द्राग्नी उप ह्वये ' इति सूक्तम् ।  ‘ स्तोत्रमग्रे शस्त्रात्' इति खण्डे ' इहेन्द्राग्नी उपेयं वामस्य मन्मन इति नव' ( आश्व. श्रौ. ५. १०) इति सूत्रितत्वात् । तथा अभिप्लवषडहे प्रातःसवने अच्छावाकशस्त्रे स्तोमातिशंसनार्थमेतदेव सूक्तम् । तथा च सूत्रितम्  ‘अभिप्लवपृष्ठ्याहानि ' इत्युपक्रम्य- इहेन्द्राग्नी इन्द्राग्नी आ गतम् ' ( आश्व. श्रौ. ७. ५) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 21  
 Indra and Agni  
@@ -19,7 +19,7 @@ The first four verses are invocation, calling the two gods to the sacrifice and 
 Verses 5–6 then suggest what these allies can do for us; the final verse is intro duced by the pregnant phrase “by this truth,” characteristic of the later satya-kriyā or “truth-formulation.” Here it presumably refers to the whole preceding hymn as  an expression of truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra and Agni The verbal “hero” of this hymn is the nom.-acc. du. pronoun tā́‘these two’, which represents the pairing of the otherwise very different gods Indra and Agni.
 

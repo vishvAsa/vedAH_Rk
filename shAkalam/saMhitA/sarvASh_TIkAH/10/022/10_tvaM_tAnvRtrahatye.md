@@ -6,7 +6,7 @@ ChandaH = "पुरस्ताद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ता꣡न् वृत्रह꣡त्ये चोदयो नॄ꣡न्  
 कार्पाणे꣡ शूर वज्रिवः  
@@ -14,7 +14,7 @@ ChandaH = "पुरस्ताद्बृहती"
 विशां꣡ न꣡क्षत्रशवसाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 गुहा॑ । यदि॑ । क॒वी॒नाम् । वि॒शाम् । नक्ष॑त्रऽशवसाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -107,7 +107,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **वज्रिवः** वज्रधर **शूर** इन्द्र **त्वं** कार्पाणे । असिः कृपाणः । तेन साध्यं युद्धं कार्पाणम् । तस्मिन् **वृत्रहत्ये** शत्रुहननार्थं **नॄन्** नरान् **तान्** प्रसिद्धान् मरुद्गणान् **चोदयः** चोदयसि प्रेरयसि । **यदि** यदा त्वं **कवीनां** मेधाविनां **नक्षत्रशवसां** देवान् प्रतिगच्छत्स्तोतृबलानां **विशां** स्तोतृजनानां संबन्धीनि **गुहा** गूढानि गुणैः संवृतानि स्तोत्राणि शृणोषीति शेषः । तदा प्रेरयसीति पूर्वेणान्वयः॥ ॥७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,7 +118,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Nakṣatraśavasām = armies of raisers approaching the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You incited these excellent men at the obstacle-smiting for the  
 Karpan [?], you mace-wielding champion,  
@@ -127,23 +127,23 @@ there), (profiting from) *the strength of your lordly power, *like
 the clans.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Urge thou these heroes on to slay the enemy, brave Thunderer! in the fight with swords.  
      Even when hid among the tribes of Sages numerous as stars.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du sollst diese Männer in dem Vritrakampf anfeuern, im Schwertkampf, o tapferer Keulenträger, wenn du vor den Sehern verborgen bleibst wie der Clanherr vor den Clanleuten, auf denen die Macht der Herrschaft beruht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O feure, blitzbewehrter Held, die Männer an in Feindesschlacht, im Schwerterkampf, Da du der Sänger Hüter bist, der Menschen, Sternen gleich an Zahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты этих мужей возбуди для убийства врагов,  
 Для сражения мечами, о герой, наделенный дубиной грома,  

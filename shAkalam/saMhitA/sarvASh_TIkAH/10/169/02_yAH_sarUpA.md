@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 याः꣡ स꣡रूपा वि꣡रूपा ए꣡करूपा  
 या꣡साम् अग्नि꣡र् इ꣡ष्ट्या ना꣡मानि वे꣡द  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡भ्यः पर्जन्य म꣡हि श꣡र्म यछ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 याः । अङ्गि॑रसः । तप॑सा । इ॒ह । च॒क्रुः । ताभ्यः॑ । प॒र्ज॒न्य॒ । महि॑ । शर्म॑ । य॒च्छ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -141,37 +141,37 @@ popular
 **याः** गावः **सरूपाः** समानरूपा याश्च **विरूपाः** विभिन्नरूपा याश्च **एकरूपाः** एकेनैव वर्णेनोपेताः **यासां** च गवां **नामानि** ईडे रन्तेऽदित इत्यादीनि **इष्ट्या** यागेन हेतुना **अग्निः** वेद जानाति **याः** च गाः **अङ्गिरसः** ऋषयः **तपसा** पशुप्राप्तिसाधनेन चित्रायागादिलक्षणेन **इह** अस्मिँल्लोके **चक्रुः** कृतवन्तः **ताभ्यः** सर्वाभ्यो गोभ्यो हे **पर्जन्य** **महि** महत् **शर्म** सुखं **यच्छ** प्रदेहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant great felicity, **Parjanya**, to those cows who are of similar forms, of different forms, or of singleforms, whose names **Agni** knows through the sacrifice, or those whom the **Aṅgirasas** created in this world bypenance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who are of the same color, of different colors, of one color, whose  names Agni knows because of the sacrifice,  
 whom the Aṅgirases brought here by their fervent heat—to those, o  
 Parjanya, extend great shelter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like-coloured, various-hued, or single-coloured, whose names through sacrifice are known to Agni,  
      Whom the Angirases produced by Fervour,vouchsafe to these, Parjanya, great protection.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die gleichfarbigen, verschiedenfarbigen, einfarbigen, deren Namen Agni durch das Opfer kennt, die die Angiras´ mit heißem Bemühen hierher gebracht haben, denen gewähre, Parjanya, deinen großen Schutz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ähnlich, gleich, verschieden sind an Farbe, und deren Namen Agni kennt durchs Opfer, Die her die Angira's durch Tugend brachten, Pardschanja! denen reiche grossen Schutz du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто сходного цвета, разного цвета, одного цвета,  
 Чьи имена знает Агни благодаря жертве,  

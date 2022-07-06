@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुन꣡न्तु मां꣡ देवजनाः꣡  
 पुन꣡न्तु व꣡सवो धिया꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 जा꣡तवेदः पुनीहि꣡ मा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विश्वे॑ । दे॒वाः॒ । पु॒नी॒त । मा॒ । जात॑ऽवेदः । पु॒नी॒हि । मा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punantu* ← *pū*
 - \[verb\], plural, Present imperative
@@ -102,7 +102,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **देवजनाः** । देवानां जनः प्रादुर्भावो येषां यज्ञेष्विति देवजना यजमानाः । यद्वा इन्द्रादिदेवगणाः । **मां** **पुनन्तु** परिपूतं कुर्वन्तु । तथा **वसवः** वासका देवा: **धिया** आत्मीयेन कर्मणा माँ **पुनन्तु** । अथ प्रत्यक्षः । हे **विश्वे** **देवाः** सर्वे देवाः **मा** मां **पुनीत** पूतं कुरुत । हे **जातवेदः** जातानि भूतजातानि वेत्तीति यद्वा जातप्रज्ञ हे अग्ने **मा** मां **पुनीहि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,12 +113,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Worshippers: Or, the troop of gods, **Indra** and others
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the godly folk purify me; let the Vasus purify me with insight. O All Gods, purify me; o Jātavedas, purify me.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This last vs. of the purificatory spell is in a different meter (Anuṣṭubh) and makes reference to a larger variety of personnel - both often signs of finality.
 
@@ -134,23 +134,23 @@ The pavítra is mentioned in vss. 22-25, with other, non-physical means of purif
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the Gods' company make me clean, and Vasus make rue pure by song.  
      Purify me, ye General Gods; O Jatavedas, make me pure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen mich die Götterscharen läutern, es sollen die Vasu´s mit Verständnis läutern! Ihr Götter alle, läutert mich; o Jatavedas, läutere mich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mich läutere der Götter Schar, die Vasu's mich durch frommen Sinn; Ihr Götter alle läutert mich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть очистят меня сонмы богов!  
 Пусть очистят Васу благодаря (нашей) молитве!  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वासो ये꣡ वाम् उ꣡प दाशु꣡षो गृहं꣡  
 युवां꣡ दी꣡यन्ति बि꣡भ्रतः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 आ꣡ देवा यातम् अस्मयू꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒क्षु॒युऽभिः॑ । न॒रा॒ । हये॑भिः । अ॒श्वि॒ना॒ । आ । दे॒वा॒ । या॒त॒म् । अ॒स्म॒यू इत्य॑स्म॒ऽयू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvāso* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
@@ -106,35 +106,35 @@ genre M
 **ये** अश्वासः अश्वाः **वां** युवयोः स्वभूताः **दाशुषः** हविर्दातुः **गृहं** **युवां** **बिभ्रतः** धारयन्तः **दीयन्ति** । गमयन्तीत्यर्थः। **मक्षूयुभिः** शीघ्रगन्तृभिः **हयेभिः** हथैः अश्वैर्हे **नरा** नेतारौ **अश्विना** अश्विनौ **देवा** देवौ **अस्मयू** अस्मान् कामयमानौ **आ** **यातम्** अस्मद्यज्ञमागच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Yours are the horses that, conveying you, bring you to the dwelling to the donor (of the oblation); divineleader (of rites), favourable inclined towards us, come with your rapid steed”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your horses that fly to the home of the pious one, bringing you two— by these swift steeds journey here, o men, Aśvins, seeking us, o gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The horses that convey you in their rapid flight down to the worshipper's abode,  
      With these your speedy coursers, Heroes, Asvins, come, ye Gods, come well-inclined to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Rosse, die fliegen, euch zu des Opfernden Haus tragend, mit diesen sich beeilenden Rennern kommet her uns zuliebe, ihr Herren, ihr Götter Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Rossen, welche zu des Frommen Hause nun euch fahren her in schnellem Flug, Mit raschen Rossen, Männer, Ritter, fahret her, o Götter, kommt uns wohlgesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кони, которые до(ставляют) вас к дому почитателя,  
 Летя, неся вас.  

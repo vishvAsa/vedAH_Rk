@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वावशान꣡ इह꣡ पाहि सो꣡मम्  
 मरु꣡द्भिर् इन्द्र स꣡खिभिः सुतं꣡ नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 महे꣡ भ꣡राय पुरुहूत वि꣡श्वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जा॒तम् । यत् । त्वा॒ । परि॑ । दे॒वाः । अभू॑षन् । म॒हे । भरा॑य । पु॒रु॒ऽहू॒त॒ । विश्वे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -128,43 +128,43 @@ genre M
 हे **इन्द्र** **वावशानः** सोमं कामयमानः **सः** तादृशस्त्वं **सखिभिः** समानख्यानैः **मरुद्भिः** सह **नः** अस्मत्संबन्धिनि **इह** अस्मिन् यज्ञे **सुतम्** अभिषुतं **सोमं** पाहि पिब । हे **पुरुहूत** पुरूभिः बहुभिः आहूतेन्द्र **जातं** सोमपानेन प्रबलं संपन्नं **यत्** यं त्वां **विश्वे** सर्वे **देवाः** **महे** महते **भराय** । ह्रियन्ते योधानामायूंष्यत्रेति भरः संग्रामः । तस्मै संग्रामाय **परि** **अभूषन्** सर्वतोऽलमकुर्वन्॥ वावशानः । वशेर्यङ्लुकि चानशि रूपम् । चित्त्वादन्तोदात्तः । अभूषन् ।' भूष अलंकारे । भूवादिः । लङि रूपम् । यद्योगादनिघातः । भराय । “ हृञ् हरणे' । अधिकरणे घः । ‘ हृग्रहोर्भश्छन्दसि' इति हकारस्थ भकारः । वृषादित्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Indra**, who is gratified by the **Soma**, drink the Soma that has been effused by us, together with your friends, the **Maruts**, at this ceremony; you who is invoked of many, and whom all the gods equipped as soon as born for the great battle (with the **asuras**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Eagerly desirous, here drink the soma pressed by us, o Indra, with the  Maruts as your comrades—  
 as when all the gods busied themselves around you, just born, for great  plunder, o much-invoked one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The connection between the two hemistichs in this vs. is not clear. The first unambiguously presents the here-and-now of the sacrifice, with an impv. and the adv.
 
 ihá ‘here’, while the second harks back to Indra’s primordial birth and the gods’ attendance on it, expressed by an augmented imperf. (ábhūṣan). There is no way to reconcile the temporal disjunction directly, so I have adopted Geldner’s makeshift: supplying “(wie damals),” though there is no overt representation of my “as” (or his “wie damals”). There does not seem to be much semantic connection between the two halves either, unless we, the pressers and offerers, are being identified with the gods who served Indra at his birth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So eagerly desirous drink the Soma, our juice, O Indra, with thy friends the Maruts,  
      Since at thy birth all Deities adorned thee for the great fight, O thou invoked of many.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink hier voll Verlangen den Soma, den von uns ausgepreßten mit den Marut, deinen Freunden, o Indra, wie damals als dich, den eben geborenen, alle Götter zum großen Kampfe umringten, du Vielgerufener.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So trink, o Indra, lustig hier den Soma, hier unsern Trank vereinigt mit den Maruts; Als du geboren, schmückten alle Götter zum grossen Kampf dich aus, o vielgerufner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Полный желания, пей здесь сому,  
 Выжатого нами, о Индра, вместе с друзьями Марутами,  

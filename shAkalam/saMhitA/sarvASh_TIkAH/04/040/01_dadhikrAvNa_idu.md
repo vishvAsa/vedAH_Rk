@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दधिक्रा꣡व्ण इ꣡द् उ नु꣡ चर्किराम  
 वि꣡श्वा इ꣡न् मा꣡म् उष꣡सः सूदयन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हस्प꣡तेर् आङ्गिरस꣡स्य जिष्णोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒पाम् । अ॒ग्नेः । उ॒षसः॑ । सूर्य॑स्य । बृह॒स्पतेः॑ । आ॒ङ्गि॒र॒सस्य॑ । जि॒ष्णोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhikrāvṇa* ← *dadhikrāvṇaḥ* ← *dadhikrāvan*
 - \[noun\], genitive, singular, masculine
@@ -113,42 +113,42 @@ genre M
 **दधिक्राव्ण** **इदु** एतन्नामकस्य देवस्यैव स्तुतिं **नु** क्षिप्रं **चर्किराम** भृशं करवाम । **मां** **विश्वा** **इत्** **उषसः** सर्वा अपि ताः **सूदयन्तु** कर्मसु प्रेरयन्तु । **अपाम्** **अग्नेः** **उषसः** **सूर्यस्य** **बृहस्पतेः** **आङ्गिरसस्य** **जिष्णोः** एतेषां देवतानामहं स्तुतिं करवाणीति शेषः । तासामपि निपातभाक्त्वात् स्तुतिरविरुद्धा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we repeatedly recite (the praise) of Dadhikrāvaṇ; may all rising dawns excite me (to the adoration) of the waters, of **Agni**, of Uṣas, of **Sūrya**, of **Bṛhaspati**, and of **Jiṣṇu**, the son of **Aṅgiras**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just to Dadhikrāvan will we now pay tribute—let all the Dawns  
 sweeten me—  
 and to the Waters, Agni, Dawn, and the Sun, also to Br̥haspati Āṅgirasa,  the victorious.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, vs. 1 stands apart from the rest of this hymn and is a simple variant on 39.1: our pāda a telescopes 39.1ab; our b corresponds to 39.1c; and cd are an afterthought list in the genitive, attached loosely to the first pāda.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET us recite the praise of Dadhikravan: may all the Mornings move me to exertion;  
      Praise of the Lord of Waters, Dawn, and Agni, Brhaspati Son of Angiras, and Surya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An den Dadhikravan wollen wir jetzt gedenken - alle Usa´s sollen mich zum Meister machen - an die Gewässer, an Agni, Usas, Surya, an Brihaspati, den siegesgewohnten Angirasen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Dadhikravan wollen wir nun preisen, mir mögen helfen alle Morgenröthen, der Agni, Wasser, Sonne, Morgenröthe, Brihaspati, Angirasa besiegt hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дадхикравана мы будем восхвалять сейчас –  
 Пусть подготовят меня (к этому) все утренние зори -  

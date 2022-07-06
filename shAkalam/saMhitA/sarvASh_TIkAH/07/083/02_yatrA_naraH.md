@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्रा न꣡रः सम꣡यन्ते कृत꣡ध्वजो  
 य꣡स्मिन्न् आजा꣡ भ꣡वति किं꣡ चन꣡ प्रिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡त्रा न इन्द्रावरुणा꣡धि वोचतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत्र॑ । भय॑न्ते । भुव॑ना । स्वः॒ऽदृशः॑ । तत्र॑ । नः॒ । इ॒न्द्रा॒व॒रु॒णा॒ । अधि॑ । वो॒च॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatrā* ← *yatra*
 - \[adverb\]
@@ -140,7 +140,7 @@ genre M
 **यत्र** यस्मिन् संग्रामे **नरः** मनुष्याः **कृतध्वजः** उच्रिमेतध्वजाः **समयन्ते** युद्धार्थं संगच्छन्ते । **यस्मिन्** च **आजा** आजौ युद्धे । **चन** इति निपातद्वयसमुदायो विभज्य योजनीयः । किंच किमपि **प्रियम्** अनुकूलं न **भवति** अपि तु सर्वं दुष्करं भवति । **यत्र** च युद्धे **भुवना** भुवनानि भूतजातानि **स्वर्दृशः** शरीरपातादूर्ध्वं स्वर्गस्य द्रष्टारो वीराश्च **भयन्ते** बिभ्यति **तत्र** तादृशे संग्रामे हे इन्द्रावरुणौ **नः** अस्मान् **अधि** **वोचतम्** । अस्मत्पक्षपातवचनौ भवतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,34 +151,34 @@ genre M
 There is something unfavourable: 'everything is evil'; **yatra** ca yuddhe **bhuvanā**, bhuvanāni, bhūtajātānisvardṛśaḥ, śarīrapatad ūrdhvam svargasya draṣṭāro **vitas**' ca bhayante, bibhyati, tatra, tadriśe saṅgrāmehe indrāvaruṇau no'sman adhivocatam, asmatpakṣapātavacanau bhavatām = in whatever (battle) livingbeings and those seeing heaven (i.e. gone to heaven, departed) are in fear, there, Indra and Varuṇa, plural ad ourcause
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where superior men gather together with their banners set, in a contest  where there is nothing at all to love,  
 where living beings, seeing the sun, become afraid, there speak for us,  Indra and Varuṇa!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where heroes come together with their banners raised, in the encounter where is naught for us to love,  
      Where all things that behold the light are terrified, there did ye comfort us, O Indra-Varuna.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Where men with banners raised in fight together rush, In battle conflict where there is no pleasant thing, Where creatures fear the god who sees the heavenly light, O Indra-Varuṇa, be there our advocates.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo die Männer mit aufgesteckten Bannern aneinander geraten, in der Schlacht, wo nichts Liebes geschieht, wo alle Geschöpfe, die das Sonnenlicht schauen, Furcht bekommen, in dieser seid unsere Verteidiger, Indra und Varuna!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo Banner tragend Männer sich entgegengehn im Kampf, wo alles liebe auf dem Spiele steht, Wo alles bebt vor dem, der sonnengleich erscheint, da sprechet Muth uns zu, o Indra-Varuna.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где сходятся мужи с развернутыми знаменами,  
 В состязании, в котором не случается ничего приятного,  

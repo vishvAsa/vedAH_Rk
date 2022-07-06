@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा꣡म् अ꣡ज्मेषु वाजि꣡नं  
 तन्वाना꣡ अग्ने अध्वर꣡म्  
 व꣡ह्निं हो꣡तारम् ईळते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वह्नि॑म् । होता॑रम् । ई॒ळ॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **वाजिनं** बलिनं **वह्निं** हविषां वोढारं **होतारं** देवानामाह्वातारं **तं** प्रसिद्धं **त्वाम्** । **अज्मेषु** गृहेषु **अध्वरं** यज्ञं **तन्वानाः** विस्तारयन्तो यजमानाः **ईळते** स्तुवन्ति ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Preparing the sacrifice in their mansions, (the worshippers) adore you, **Agni**, the powerful, the bearer(of the oblation), the invoker of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, prizewinner on the drives, do those who stretch out their  ceremony  
 reverently invoke as draft-horse (of the sacrifice), as Hotar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, Agni, unto thee the Priest, Invoker, strong in forays, pray  
      'nose who spin out the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich den in Wettläufen Siegreichen berufen sie, wenn sie das Opfer ausführen, zum Fahrer und Opferpriester, Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Priester, Agni, preisen dich, der schnell du auf den Bahnen fährst, Die, welche kunstvoll Opfer weihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, такого победоносного в состязаниях,  
 Принося жертву, о Агни,  

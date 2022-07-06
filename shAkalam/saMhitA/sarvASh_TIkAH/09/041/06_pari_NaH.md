@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि णः शर्मय꣡न्तिया  
 धा꣡रया सोम विश्व꣡तः  
 स꣡रा रसे꣡व विष्ट꣡पम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सर॑ । र॒साऽइ॑व । वि॒ष्टप॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **नः** अस्मभ्यं **शर्मयन्त्या** सुखयन्त्या **धारया** **विश्वतः** सर्वतः **परि** **सर** परिचर । **रसेव** रसेनेव **विष्टपं** भूलोकम् । यद्वा । रसा नदी स्थानं सा प्रवणरूपमिव ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,34 +88,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Or, as the earth (is surrounded) with water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, flow for us in a protecting stream all around on all sides, like (the heavenly river) Rasā, along the upper surface (of the filter).  
 1270 IX. 42–43
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The last pāda begins with a mirror-image figure: sárā rasā́, though the last vowel is obscured in sandhi: raséva.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On every side, O Soma, flow round us with thy protecting stream,  
      As Rasa flows around the world.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe für uns in schützendem Strome, o Soma, ringsum wie die Rasa um die Erderhöhung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von allen Seiten flamm' um uns im Strom, o Soma, der uns schützt, Und ström, wie Flut die Erd' umspült.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Теки кругом со всех сторон  
 Со своим защищающим нас потоком,  

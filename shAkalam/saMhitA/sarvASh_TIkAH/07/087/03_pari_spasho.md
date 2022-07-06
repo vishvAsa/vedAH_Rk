@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि स्प꣡शो व꣡रुणस्य स्म꣡दिष्टा  
 उभे꣡ पश्यन्ति रो꣡दसी सुमे꣡के  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡चेतसो य꣡ इष꣡यन्त म꣡न्म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तऽवा॑नः । क॒वयः॑ । य॒ज्ञऽधी॑राः । प्रऽचे॑तसः । ये । इ॒षय॑न्त । मन्म॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -106,7 +106,7 @@ genre M
 स्पशन्ति स्पृशन्तीति स्पशश्चराः । **वरुणस्य** देवस्य **स्पशः** चराः **स्मदिष्टाः** । स्मदित्येतत् प्रशस्थार्थे सहार्थे च वर्तते । प्रशस्तगतयः । यद्वा । सह प्रेषिताः सन्तः । **सुमेके** शोभनमेहने सुरूपे वा **उभे** **रोदसी** द्यावापृथिव्यौ **परि** **पश्यन्ति** परित ईक्षन्ते । उभयोर्लोकयोर्वर्तमानान् पुण्यापुण्यकारिणो जनान् पश्यन्तीत्यर्थः । यस्मादेवं तस्मात् तद्भीत्या **ऋतावानः** कर्मवन्तः **यज्ञधीराः** यज्ञेषु कृतबुद्धयः **प्रचेतसः** प्राज्ञाः **कवयः** क्रान्तदर्शिनः **ये** जनाः **मन्म** मन्मानि स्तोत्राणि **इषयन्त** गमयन्ति वरुणं प्रापयन्ति । तानपि परिपश्यन्तीत्यर्थः । अतोऽस्मानपि स्तोतॄन् ज्ञात्वा पापात् मुञ्चन्त्वित्यृषिराशास्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,30 +119,30 @@ The excellent spies:spaśaḥ smadiṣṭāḥ: **cārāḥ**, spies; praśastag
 Spaśaḥ = raśmayaḥ, rays, or reins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With united desire the spies of Varuṇa survey both well-supported  world-halves,  
 (as do) the sage poets, possessing the truth and insightful in the  
 sacrifices, the discerning ones who send their thought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Varuna's spies, sent forth upon their errand, survey the two world-halves well formed and fashioned.  
      Wise are they, holy, skilled in sacrifices, the furtherers of the praise-songs of the prudent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Späher des Varuna, vom gleichen Wunsch beseelt, beobachten die beiden festbegründeten Welten, und sie beachten, welche wahrhaftigen, opferkundigen, vorausdenkenden Weisen den Genuß von ihrer Dichtung haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Varuna wohl aufgestellte Späher beschauen beide segensreichen Welten; Die heil'gen Seher, der Verehrung kundig, die das Gebet des einsichtsvollen fördern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наблюдатели Варуны, воодушевленные одинаковым желанием,  
 Озирают эти два прочно укрепленных мира.  

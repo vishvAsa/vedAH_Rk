@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यं सुता꣡स् तु꣡भ्यम् उ सो꣡तुवासस्  
 तुवां꣡ गि꣡रः श्वा꣡त्रिया आ꣡ ह्वयन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वस्य विद्वाँ꣡ इह꣡ पाहि सो꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ । इ॒दम् । अ॒द्य । सव॑नम् । जु॒षा॒णः । विश्व॑स्य । वि॒द्वान् । इ॒ह । पा॒हि॒ । सोम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -125,36 +125,36 @@ genre M
 हे इन्द्र **तुभ्यं** त्वदर्थमेव **सुताः** अभिषुताः सर्वे सोमाः **सोत्वासः** इतःपरमभिषोतव्याश्च **तुभ्यमु** त्वदर्थमेव । सुनोतेः ‘कृत्यार्थे तवैकेन्' इति त्वन्प्रत्ययः । **श्वात्र्याः** शु आशु शीघ्रमतन्त्यः प्रवर्तमानाः **गिरः** स्तुतिरूपा वाचश्च **त्वाम्** एव **आ** **ह्वयन्ति** आक्रोशयन्ति । हे **इन्द्र** **अद्य** अस्मिन् काले **इदं** **सवनं** प्रातःसवनादिकं **जुषाणः** सेवमानः **विश्वस्य** सर्वस्य **विद्वान्** ज्ञाता त्वम् **इह** अस्मिन् यज्ञे **सोमं** **पाहि** पिब ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For you are the libations that have been poured out, for you are those which are to be poured out; youdo our quickly uttered praises invoke; **Indra**, who are cognizant of all things, taking plural asure in this presentsacrifice, drink the **Soma** here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yours are those (already) pressed and yours are those to be pressed. You  do the swelling hymns call hither.  
 O Indra, enjoying this pressing today, knowing everything, drink the  soma here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine is the juice effused, thine are the juices yet to be pressed: our resonant songs invite thee.  
      O Indra, pleased to-day with this libation, come, thou who knowest all and drink the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich sind die Ausgepreßten, für dich die Künftigen. Dich rufen die stärkenden Lobreden herbei. Indra, erfreu dich heute dieser Trankspende, trink hier den Soma, der du jeden kennst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir sind gebraut und werden noch gebraut sie, dich rufen her die Lieder, die dich stärken, An diesem Saft dich, Indra, heut erlabend, trink hier den Soma, du, dem alles kund ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для тебя выжаты, для тебя и будут выжиматься.  
 Тебя призывают усиливающие хвалебные песни.  

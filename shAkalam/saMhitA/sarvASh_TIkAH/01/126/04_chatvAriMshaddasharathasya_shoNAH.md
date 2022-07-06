@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चत्वारिंश꣡द् द꣡शरथस्य शो꣡णाः  
 सह꣡स्रस्या꣡ग्रे श्र꣡यणिं+ नयन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कक्षी꣡वन्त उ꣡द् अमृक्षन्त पज्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒द॒ऽच्युतः॑ । कृ॒श॒नऽव॑तः । अत्या॑न् । क॒क्षीव॑न्तः । उत् । अ॒मृ॒क्ष॒न्त॒ । प॒ज्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *catvāriṃśad* ← *catvāriṃśat*
 - \[noun\], nominative, singular, feminine
@@ -102,36 +102,36 @@ genre M
 **दशरथस्य** दशसंख्याकरथवतः **सहस्रस्य** सहस्रसंख्याकानुचरोपेतस्य कक्षीवतो गोयूथसहस्रस्य वा **अग्रे** पुरस्तात् **शोणाः** शोणवर्णोपेता: अश्वाः **चत्वारिंशत्** एकैकस्य रथस्य चतुष्टये सति दशरथानां मिलित्वा चत्वारिंशदश्वा भवन्ति । तेऽपि **श्रेणिं** पङ्क्तिमाश्रित्य **नयन्ति** रथान् अभिमतदेशं प्रापयन्ति । यद्वा । अश्वनियुक्तान् रथान् श्रेणिं श्रेणीभावं नयन्ति प्रापयन्ति । एकैकं रथं चत्वारश्चत्वारः पङ्क्त्याकारेण वहन्तीत्यर्थः । अथ तान् **कक्षीवन्तः** । कक्ष्या अश्वसंबन्धिनी रज्जुः ।  कक्ष्या रज्जुरश्वस्य ' ( निरु. २. २ ) इति यास्केनोक्तत्वात् । ताभिस्तद्वन्तः । यद्वा । अङ्गिरसः पुत्राः सर्वेऽपि कक्षीवन्तः । अथवा कक्षीवदनुचराः सर्वेऽपि छत्रिन्यायेन कक्षीवन्तः । **पज्राः** घासाद्यन्नवन्तः सन्तः **मदच्युतः** मदस्राविण: उद्वृत्तान् शत्रूणां मदस्य च्यावयितॄन् वा **कृशनावतः** सुवर्णमयनानाभरणयुक्तान् । कृशनमिति हिरण्यनाम ‘कृशनं लोहम् (नि. १. २. ७ ) इति तन्नामसु पाठात् । सुवर्णाभरणोपेतान् **अत्यान्** सततगमनशीलानश्वान् **उदमृक्षन्त** अध्वश्रमजनितस्वेदापनयनाय उत्कृष्टं मार्जयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Forty bay horses, (harnessed) to the chariots, lead the procession in front of a thousand (followers). The Pajras, the kinsmen of **Kakṣīvat**, rub down the high-spirited steeds, decorated with golden trappings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forty sorrel (horses) of the ten-wagon train lead at the front a rank of a  thousand (cows).  
 Steeds arousing delight, covered with pearls, have the Kakṣīvants, the  Pajras swept up.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forty bay horses of the ten cars' master before a thousand lead the long procession.  
      Reeling in joy Kaksivan's sons and Pajra's have grounded the coursers decked with pearly trappings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vierzig Rotfüchse, des Zehnwagenzuges führen an der Spitze die Reihe der tausend Kühe. Die Kaksivat´s, die Pajara´s haben die stolzierenden, mit Perlen behängten Rosse für sich als Ehrenteil bekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vierzig braune Rosse des Daçaratha eröffnen die Reihe von tausend Rossen; muntere, perlengeschmückte Renner trugen die Kakschīvat's und Padschra's davon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сорок рыжих коней, (запряженных) в десять колесниц,  
 Индра впереди, ведя строй в тысячу коров.  

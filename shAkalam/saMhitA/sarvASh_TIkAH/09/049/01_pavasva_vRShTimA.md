@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व वृष्टि꣡म् आ꣡ सु꣡ नो  
 अपा꣡म् ऊर्मिं꣡ दिव꣡स् प꣡रि  
 अयक्ष्मा꣡ बृहती꣡र् इ꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒य॒क्ष्माः । बृ॒ह॒तीः । इषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -88,41 +88,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम त्वं **दिवः** द्युलोकात् **वृष्टिं** **नः** अस्माकम् **आ** **पवस्व** समन्तात् क्षर । एतदेव दर्शयति । **अपाम्** उदकानाम् **ऊर्मिं** तरङ्गं दिवः **परि** आ पवस्व । अपि च **अयक्ष्माः** यक्ष्मरहितानि अनामयानि **बृहतीः** महान्ति **इषः** अन्नानि आ पवस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour down upon us a shower from heaven, a stream of waters, wholesome and abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, bringing rain to us, a wave of waters from heaven,  
 lofty refreshments free from disease.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda of this vs. (pávasva vṛṣṭím ā́sú naḥ) seems syntactically backward, in that we might expect ā́sú naḥ to open the clause. A cursory glance through the sú passages in Lubotsky does not turn up a similarly egregious deviation from left periphery behavior. The solution arises from reading the expression in light of 3c, asmábhyaṃ vṛṣṭím ā́ pava, which is an exact paraphrase with flipped word order. The full dative pronoun asmábhyam takes initial position there, while its enclitic equivalent naḥ is final in our pāda; the verbs occupy the opposite positions: initial in 1a, final in 3c. The obj. vṛṣṭím is identically positioned in the center of the two verses. In 3c the preverb ā̇́is more normally positioned than here, right before the verb (… ā́pava), but, on the other hand, the verb there is morphologically quite anomalous. Thus both pādas have something wrong with them, but their aberrancies can be understood with reference to each other.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Poust down the rain upon us, pour a wave of waters from the sky,  
      And plenteous store of wholesome fbod.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere uns fein Regen her, der Gewässer Welle vom Himmel, gesunde, große Speisegenüsse!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle Regen schnell herbei, vom Himmel uns des Wassers Flut, Heilsamen, reichen Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

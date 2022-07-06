@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साध्वी꣡म् अकर् देव꣡वीतिं नो अद्य꣡  
 यज्ञ꣡स्य जिह्वा꣡म् अविदाम गु꣡ह्याम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भद्रा꣡म् अकर् देव꣡हूतिं नो अद्य꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । आयुः॑ । आ । अ॒गा॒त् । सु॒र॒भिः । वसा॑नः । भ॒द्राम् । अ॒कः॒ । दे॒वऽहू॑तिम् । नः॒ । अ॒द्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sādhvīm* ← *sādhu*
 - \[noun\], accusative, singular, feminine
@@ -152,7 +152,7 @@ popular
 किञ्च - स एवाग्निः आयुः वसानः आच्छादयन् आयुषा परिवीयमाणः अस्मान्वा आयुषा परिवारयन् आयुष्मतोस्मान्कुर्वन्, सुरभिस्सुगन्धिः चरुपुरोडाशादिगन्धयुक्तः अस्मानागादागच्छतु । पूर्ववल्लुङ्, 'गातिस्था' इत्यादिना सिचो लुक् । आगत्य चास्माकमायुरर्थे, अद्यास्मिन्नहनि नः अस्माकं देवहूतिं देवा हूयन्ते अस्यामिति देवहूतिरिष्टिः तां भद्रां शोभनां यथोक्तमनुतिष्ठतां अकः करोतु इति । स एव लुङ् । देववीतिदेवहूतिशब्दयोः दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -163,13 +163,13 @@ popular
 Themysterious tongue: **Agni** is the tongue of the gods, by means of him they drink the oblations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has made our pursuit of the gods successful today. We found the  tongue of the sacrifice in hiding.  
 He has come here, sweet smelling, clothing himself in life. He has made  our invocation of the gods fortunate today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now hath he made the feast of Gods effective: now have we found the secret tongue of worship.  
 Now hath he come, sweet, robed in vital vigour, and made our calling on the Gods effective.
@@ -184,17 +184,17 @@ He hath made our sacrifice this day to prosper.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er hat unsere Götterladung heute erfolgreich gemacht; wir haben des Opfers geheime Zunge gefunden. Duftend ist er gekommen, sich in Lebenskraft kleidend; er hat heute unsere Götteranrufung gesegnet gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein heilsam Göttermahl vollbracht er heut uns, wir fanden nun des Opfers Wunder-Zunge, Er nahte duftig, sich in Jugend kleidend, hat heut gesegnet unsern Götteranruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он сделал удачным для нас приглашение богов сегодня.  
 Мы нашли тайный язык жертвы.  

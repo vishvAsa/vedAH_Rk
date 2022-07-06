@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां र꣡थो अव꣡निर् न꣡ प्रव꣡त्वान्  
 सृप्र꣡वन्धुरः सुविता꣡य गम्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अहम्पूर्वो꣡ यजतो꣡ धिष्णिया यः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वृष्णः॑ । स्था॒ता॒रा॒ । मन॑सः । जवी॑यान् । अ॒ह॒म्ऽपू॒र्वः । य॒ज॒तः । धि॒ष्ण्या॒ । यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 पूर्वमन्त्रेऽश्वव्याजेन अश्विनोरागमनमुक्तम् । अनेन रथव्याजेनोच्यते । हे **धिष्ण्या** उन्नतस्थानार्हौ **स्थातारा** स्वरथाधिष्ठानौ **वां** युवयोः **यः** **रथः** अस्ति सः **सुविताय** शोभनफलाय **आ** **गम्याः** अस्मद्यज्ञमागच्छतु ॥ पुरुषव्यत्ययः ॥ कीदृशो रथ इति स विशेष्यते । **अवनिर्न** **प्रवत्वान्** भूमिरिवात्यन्तविस्तारवान् **सृप्रवन्धुरः** विस्तीर्णपुरोभागः **वृष्णः** वर्षकस्याश्वस्य **मनसः** अपि **जवीयान्** मनोवेगवानित्यर्थः । **अहंपूर्वः** अहंकारपूर्वो मनस्वी वा अत्युदारः **यजतः** यष्टव्यः । ईदृशो रथ आगच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,7 +127,7 @@ genre M
 Emulative: ahampūrvaḥ, I first, is normally related to a warrior, one who would be first in battle; here, it is explained as intelligent, manasvin; or very genitive rous atyudāraḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your chariot with its glossy chariot-box should come here like a  
 forward-coursing stream, for good faring—  
@@ -136,7 +136,7 @@ forward-coursing stream, for good faring—
 holy ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adjectival descriptor of the chariot ahampūrváḥ is transparently derived from a nominal clause “I am in front / I’m ahead,” however unlikely this may be as the utterance of a chariot.
 
@@ -149,23 +149,23 @@ pronoun, and since this supposed rel. cl. consists of nominative qualifiers of t
 The phrase mánaso jávīyān is an analytic version of manojū́- in 2c, there applied to the horses, not the chariot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your car is like a torrent rushing downward: may it come nigh, broad-seated, for our welfare,--  
      Car holy, strong, that ever would be foremost, thought-swift, which ye, for whom we long, have mounted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euer Wagen, der wie ein Strom vorwärts eilt, der breitsitzige soll zu guter Fahrt kommen, der, schneller als der Gedanke, der erste sein will, der verehrungswürdige, ihr Lenker des bullenhaften Wagens, ihr .....
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit breitem Sitze komme euer Wagen zum Glück uns her gleichwie ein Strom am Abhang, Der stark sich vordrängt, schneller als Gedanken, den ihr besteigt, den heiligen, o Spender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваша колесница, мчащаяся вперед, словно поток,  
 С широким сиденьем, пусть приедет для (нашего) успеха!  

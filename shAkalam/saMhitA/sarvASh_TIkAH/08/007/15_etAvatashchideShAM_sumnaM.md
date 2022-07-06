@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡वतश् चिद् एषां᳐  
 सुम्न꣡म् भिक्षेत म꣡र्तियः  
 अ꣡दाभियस्य म꣡न्मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अदा॑भ्यस्य । मन्म॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāvataś* ← *etāvataḥ* ← *etāvat*
 - \[noun\], genitive, singular, masculine
@@ -71,7 +71,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मर्त्यः** मनुष्यः स्तोता **मन्मभिः** स्तोत्रैः **सुम्नं** सुखं धनं वा **एषां** मरुतां स्वभूतं **भिक्षेत** याचेत । इदानीं गणाभिप्रायेणैकवदाह। **एतावतश्चित्** यत्परिमाणस्य च **अदाभ्यस्य** केनापि हिंसितुमशक्यस्य मरुद्गणस्य सुम्नं भिक्षेत ॥ एतच्छब्दात् यत्तदेतेभ्यः' इति परिमाणेऽर्थे वतुप् ।  ‘ आ  सर्वनाम्नः' इत्यात्वम् ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -82,13 +82,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 A manshould: or, a man should solicit by his praises the happiness which belongs to them, to such an unconquerable(company)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A mortal might beg benevolence of them,  
 even of such an undeceivable (flock), with his prayers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The problem in this verse is the referent and syntactic construction of gen. sg. etā́vataḥ … ádābhyasya (assuming that the two are to be construed together).
 
@@ -97,28 +97,28 @@ Most take the phrase as obj., one way or another, of bhikṣeta. Geldner takes i
 The published translation reflects that analysis, but I am not entirely certain it is right. If I were to follow some version of the other view, I would render bhikṣeta in two different ways depending on the case of its complement: “might beg their benevolence, might seek a share of such undeceivable ...”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Man should solicit with his lauds happiness which belongs to them,  
      So great a band invincible.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The mortal with his prayers should ask The favour and goodwill of that Great host of theirs invincible.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um solche unfehlbare Gabe, um ihre Gunst soll der Sterbliche mit Liedern bitten;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von ihrer so gewalt'gen Schar erflehe Huld der Sterbliche, Erbittend die Untrüglichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Такого вот безобманного (дара),  
 Милость пусть испрашивет у них  

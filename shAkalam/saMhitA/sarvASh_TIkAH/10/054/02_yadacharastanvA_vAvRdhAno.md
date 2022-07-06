@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अ꣡चरस् तनु꣡वा वावृधानो꣡  
 ब꣡लानीन्द्र प्रब्रुवाणो꣡ ज꣡नेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ना꣡द्य꣡ श꣡त्रुं ननु꣡ पुरा꣡ विवित्से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 मा॒या । इत् । सा । ते॒ । यानि॑ । यु॒द्धानि॑ । आ॒हुः । न । अ॒द्य । शत्रु॑म् । न॒नु । पु॒रा । वि॒वि॒त्से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -136,36 +136,36 @@ genre D
 हे **इन्द्र** **तन्वा** शरीरेण स्तोत्रेण वा **वावृधानः** वर्धमानः **जनेषु** प्राणिषु **बलानि** **प्रब्रुवाणः** वृत्रवधादिरूपाणि सामर्थ्यानि प्रकर्षेण कथयन् **अचरः** इति **यत्** संचारं कृतवानिति यदस्ति **ते** तव **सा** गतिः **मायेत्** मायैव । मृषेत्यर्थः। किंच **यानि** **युद्धानि** शत्रुविषयाणि **आहुः** ब्रुवते पुराविद ऋषयः तान्यपि मायैव । कुत इति आह । **अद्य** इदानीं **शत्रुं** हन्तव्यं **न** **विवित्से** न लभसे। अद्य मा भूत् पूर्वं हतवानस्मीति यत् ब्रूषे तदपि नेत्याह । **ननु** इति प्रश्ने। किं **पुरा** शत्रुमलभथाः । तदपि नेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When you proceed, **Indra**, increasing in form, and proclaiming your prowess among mankind, false isthat your (wandering), false the combats which you have narrated; you (find) now no enemy (to attack), did youformerly find one? person n you have genitive rated at once both mother and father (or earth and heaven)?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you roamed, having grown strong in body, proclaiming your own  powers among the peoples, o Indra,  
 that was just your magic trick, which they call battles: neither today nor  before have you discovered a rival.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou wast roaming, waxen strong in body, telling thy might, Indra, among the people,  
      All that men called thy battles was illusion: no foe hast thou to-day, nor erst hast found one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du wandertest, am Leibe wachsend, deine Kräfte unter den Völkern kund tuend, Indra, - da war nur Blendwerk, was sie von deinen Kämpfen sagen. Nicht heute, noch ehedem hast du einen ebenbürtigen Gegner gefunden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als du dahingingst, wachsend an dem Leibe, den Menschen zeigend, Indra, deine Kräfte, Da war's dein Zauber, was man Kämpfe nannte, nicht jetzt, noch je ist dir ein Feind gewachsen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ты странствовал, возрастая телом,  
 Провозглашая (свои) силы, о Индра, среди народов, -  

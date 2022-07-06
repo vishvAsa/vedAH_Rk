@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ वां विक्षु꣡ म꣡दियासु अ꣡न्धो  
 गा꣡व आ꣡पश् च पीपयन्त देवीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वीत꣡म् पात꣡म् प꣡यस उस्रि꣡यायाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒तो इति॑ । नः॒ । अ॒स्य । पू॒र्व्यः । पतिः॑ । दन् । वी॒तम् । पा॒तम् । पय॑सः । उ॒स्रिया॑याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 **उत** अपि च हे मित्रावरुणौ **वां** युवाम् **अन्धः** अदनीयमन्नं पयोरूपं पुरीडाशादिरूपं वा **देवीः** द्योतनशीलाः **गावः** **आपश्च** व्रीह्यादिप्रवर्धकान्युदकानि च **मद्यासु** युष्माभिर्मदनीयासु **विक्षु** प्रजासु यजमानलक्षणासु तासामभिवृद्ध्यर्थं **पीपयन्त** आप्याययन्तु।    **उतो** अपि च **नः** अस्मत्संबन्धिनः **अस्य** यज्ञस्य **पूर्व्यः** पूर्वकालीनः **पतिः** पालकोऽग्निः **दन्** दाता भवत्विति शेषः । अग्नौ हूयमानत्वात् सर्वेषामपि हविषाम् । यस्मादेवं तस्मात् हे मित्रावरुणौ **वीतं** भक्षयतं पुरोडाशादिकम् । **उस्रियायाः** क्षीराद्युत्स्राविण्या गोः **पयसः** पयः **पातम्** । यद्वा । घनीभूतं पयस्याया वीतं स्रवद्रूपं पातम् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,36 +138,36 @@ genre M
 Milk of the kine: vītam pātam **payasa** usriyāyāḥ, eat, drink, of the milk of the cow; 'eating' may refer to the coagulation of the milk, or curds, butter, or the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the clans are to be exhilarated, the cows and the goddess Waters  swell the (soma) stalk for you,  
 and the lord of this house of ours is foremost. Pursue (the rite); drink of  the milk of the ruddy cow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The med. 3rd pl. pīpayanta here echoes act. 3rd pl. pīpayan in I.152.6b and both are transitive: the form in our vs. is simply an -anta replacement/variant of the usual type. Both have cows as (partial) subjects (dhenávaḥ and gā́vaḥ respectively), but in I.152.6 the cows are, in my view, the streams of ghee swelling the fire, while here the cows and waters are the usual additions to the soma drink. Agni is not absent, however, at least in my view: the lord of the house in c is probably Agni, and his position as ‘foremost’ (pūrvyáḥ) refers to his placement to the east as the Āhavanīya fire.
 
 In d the naked vītám can be fleshed out by comparison with I.151.3 vītho adhvarám, despite Geldner’s “Bekommet Lust” and Renou’s “Goûtez”; Witzel Gotō’s “Verfolgt!” at least reproduces the same verb they use for vīthaḥ in I.151.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may the kine and heavenly Waters pour you sweet drink in families that make you joyful.  
      Of this may he, the ancient House-Lord, give us. Enjoy, drink of the milk the cow provideth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mögen immerhin bei den rauschtrankliebenden Clanen Kühe und die göttlichen Wasser den Somatrank schwellen, so soll doch unser Herr dieses Hauses den Vorrang haben. Bekommet Lust, trinket beide von der Milch der Kuh!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch mögen Trank bei somareichen Stämmen die Küh ergiessen und die hehren Wasser, Auch uns gewähr's der alte Herr des Hauses; geniesst und trinkt von diesem Saft der Milchkuh.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть в (других) ваших племенах, опьяняющихся (сомой)  
 Коровы и небесные воды делают сому набухшим, –  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समुद्रि꣡या अप्सर꣡सो मनीषि꣡णम्  
 आ꣡सीना अन्त꣡र् अभि꣡ सो꣡मम् अक्षरन्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 या꣡चन्ते सुम्न꣡म् प꣡वमानम् अ꣡क्षितम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ताः । ई॒म् । हि॒न्व॒न्ति॒ । ह॒र्म्यस्य॑ । स॒क्षणि॑म् । याच॑न्ते । सु॒म्नम् । पव॑मानम् । अक्षि॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samudriyā* ← *samudriyāḥ* ← *samudriya*
 - \[noun\], nominative, plural, feminine
@@ -109,7 +109,7 @@ genre M
 **समुद्रियाः** । समुद्रसाधनत्वात् समुद्रमन्तरिक्षम् । तत्संबन्धिन्यः **अप्सरसः** काश्चन **अन्तः** यज्ञमध्ये **आसीनाः** पात्रेषु वर्तमाना वसतीवर्यः **मनीषिणं** मेधाविनं **सोमम्** **अभि** **अक्षरन्** अभिषूयमाणं सोममभिक्षरन्ति । **ताः** एता आपः **ईम्** एनं **हर्म्यस्य** हर्म्यवत्सुखकरस्य यागगृहस्य **सक्षणिं** सेचनशीलं **हिन्वन्ति** वर्धयन्ति पोषयन्ति । ता एव स्तोतारो वा **पवमानं** सोमम् **अक्षितम्** अक्षीणं **सुम्नं** सुखं **याचन्ते** प्रार्थयन्ते । तत्रायं भावः । काश्चनाप्सरसः सोमं राजानं मनीषिणं कामयमाना देवानपि परित्यज्य स्वर्गादागत्य राज्ञः समीपे स्थित्वा तस्य रसानाददते । स्वरसेन वर्धयन्ति तं सुखं च याचन्त इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,14 +120,14 @@ genre M
 In the midst: in the middle of the sacrifice, i.e., in the cups
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Apsarases belonging to the sea, sitting within, have streamed toward  Soma of inspired thought.  
 They spur him on, the conqueror of the secure house; they beg the  
 imperishable self-purifying one for his grace.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both árāti- and arí- return from 1cd, but given the uncertainties in that passage, the return is not terrible useful.
 
@@ -148,23 +148,23 @@ One further syntactic issue: what is the gen.-abl. in svásyā árātyā(h) … 
 However, because of the starkness of the expression, which underlines the contrasts between each matching element, I am reluctant to introduce any extraneous words and take the two phrases as independent gen.-abl. in loosely causal/circumstantial usage. Not very satisfactory, I admit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Apsarases who dwell in waters of the sea, sitting within, have flowed to Soma wise of heart.  
      They urge the Master of the house upon his way, and to the Eternal Pavamana pray for bliss.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Meerfrauen Apsaras´, die darin sitzen, sind zu dem sinnreichen Soma geflossen. Sie treiben ihn an, den Bezwinger des festen Hauses; sie bitten den Pavamana um unverminderte Gunst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Meeres holde Nixen strömten zu ihm hin, zum weisen Soma, setzend sich in seinen Schooss; Sie schmeicheln hold als ihrem Hausgenossen ihm, und flehn um Gunst den rieselnden, der nie versiegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Морские Апсарас, сидящие внутри,  
 Поплыли к соме, хранителю мудрости.  

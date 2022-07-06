@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ ना꣡म प्र꣡ ब्रवामा घृत꣡स्य  
 अस्मि꣡न् यज्ञे꣡ धारयामा न꣡मोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 च꣡तुःशृङ्गो अवमीद् गौर꣡ एत꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 उप॑ । ब्र॒ह्मा । शृ॒ण॒व॒त् । श॒स्यमा॑नम् । चतुः॑ऽशृङ्गः । अ॒व॒मी॒त् । गौ॒रः । ए॒तत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -119,7 +119,7 @@ genre D
 **वयं** यजमानाः **घृतस्य** **नाम** **प्र** **ब्रवाम** स्तुमः । अस्मिन्यज्ञे **नमोभिः** नमस्कारैः हविर्भिर्वा **धारयाम** च । **ब्रह्मा** परिवृढो देवः **शस्यमानं** स्तूयमानमिदम् **उप** **शृणवत्** शृणुयात् । **चतुःशृङ्गः** । चत्वारि शृङ्गाणि वेदचतुष्टयरूपाणि यस्य सः । आदित्याग्निपक्षे एवम् । इतरेष्वपि यास्कोक्तव्युत्पत्त्या शृङ्गशब्दो व्याख्येयः । **गौरः** अरुणवर्णः तादृशो देवः **एतत्** कर्म जगद्वा **अवमीत्** उद्गिरति निर्वहतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,36 +130,36 @@ genre D
 The four-horned brahmā: brahmā **catuḥ** **śṛṅgaḥ**: brahmā, the **mantra**; parivṛḍho **devaḥ**, the augmented, developed, or great deity; his four horns are the four **vedas**; Brahmā is also explained as Ṛtij, priest; the fair-complexioned deity perfects this rite: avamid-**gaura** etat: gaura = **yajña**, with epithets catuḥ **śṛṅga**, the sacrifice with four priests, obtains the object for which it is solemnized; the verse is said to apply to **Agni** as the sun; but it is applied to ghī. Since ghī is the secret name for **Soma**, the object for which it is solemnized is Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We will proclaim the name of Ghee; at this sacrifice here we will uphold  it with reverences.  
 The formulator will hear it as it is being announced. The four-horned  buffalo [=soma] has vomited it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The final pāda, with Soma (as a buffalo) vomiting (avamīt) ghee, takes one aback, esp. after the high-style extolling that has preceded it. Geldner’s explanation, that “ghee” is a secret sacred word (“ein sakrales Geheimwort”) and Soma reveals it, may be correct. But the bluntness of the verb still surprises, and I am inclined to think something further is going on. There are only two verb forms to √vam in the RV, and the other one (váman X.108.8) also has speech as its object, but the evil Paṇis as subj.
 
 Note that the Paṇis are found in vs. 4, as hiders of the ghee. Does our passage express some sort of rivalry between the two ritual substances? Or does it have to do with the Sautrāmaṇi ritual, meant to cure Indra after vomiting?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let us declare aloud the name of Ghrta, and at this sacrifice hold it up with homage.  
      So let the Brahman hear the praise we utter. This hath the four-horned Buffalo emitted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen den Namen des Ghrita verkünden; bei diesem Opfer wollen wir ihn mit Ehrerbietung festhalten. Wenn er ausgesprochen wird, soll der Brahmanpriester darauf hören. Der vierhörnige Gaurabüffel hat ihn sich entschlüpfen lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wollen nun der Butter Wesen preisen, bei diesem Opfer demuthsvoU es hegen; Der Priester höre das von uns gepries'ne; der Büffel mit vier Hörnern spie hervor es.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим провозгласить имя жира.  
 На этом жертвоприношении мы хотим удержать (его) поклонениями.  

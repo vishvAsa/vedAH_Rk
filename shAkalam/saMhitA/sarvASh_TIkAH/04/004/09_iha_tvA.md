@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इह꣡ त्वा भू꣡रि आ꣡ चरेद् उ꣡प त्म꣡न्  
 दो꣡षावस्तर् दीदिवां꣡सम् अ꣡नु द्यू꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ द्युम्ना꣡ तस्थिवां꣡सो ज꣡नानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 क्रीळ॑न्तः । त्वा॒ । सु॒ऽमन॑सः । स॒पे॒म॒ । अ॒भि । द्यु॒म्ना । त॒स्थि॒ऽवांसः॑ । जना॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iha*
 - \[adverb\]
@@ -130,21 +130,21 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May every one of his own accord diligently worship you, shining in the (hall) morning and evening, every day; thus, sporting in our dwellings, (enjoying) the wealth (of hostile) man, may we with happy hearts worship you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here should (a man) attend on you much in person—you illuminator of  the evening, shining through the days.  
 Playful and well disposed, we would serve you, we who have  
 surmounted the brilliant things of (other) men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 sumánas- here recalls the two occurrences of sumatí- in 6a and 8a (see disc.
 
@@ -153,13 +153,13 @@ there); this word two may have dual value: both ‘benevolent, well-disposed’ 
 The dyumnā́ni of the arí- “the brilliant things of the stranger” that Agni opened up for us in 6d we seem to have thoroughly taken possession of here. The gen. jánānām here corresponds to aryáḥ in 6d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here of free choice let each one serve thee richly, resplendent day by day at eve and morning.  
      So may we honour thee, content and joyous, passing beyond the glories of the people.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May (the worshipper) here frequently of his own accord approach thee, O (god) who shinest in darkness 1, resplendent day by day. Let us worship thee sporting and joyous, surpassing the splendour of (other) people.
 ꣡</details>
@@ -173,17 +173,17 @@ That dost surpass the glories of men.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hier soll er selbst dir fleißig aufwarten, alle Tage, wenn du Dunkelerheller erstrahlst. Unter Spielen und Frohsinn wollen wir dich pflegen, indem wir die Herrlichkeiten anderer Leute übertreffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es soll dir vieles hier zum Dienst bereit stehn, der du erglänzest täglich morgens, abends; Wir wollen froh und wohlgesinnt dich ehren, nachdem der Menschen Güter wir errungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть он сам за тобою здесь много ухаживает,  
 Когда ты горишь все дни, о осветитель ночей!  

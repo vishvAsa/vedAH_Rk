@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ इ꣡न्द्रं व꣡रुणम् मे मनीषा꣡  
 अ꣡ग्मन्न् उ꣡प द्र꣡विणम् इछ꣡मानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रघ्वी꣡र् इव श्र꣡वसो भि꣡क्षमाणाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उप॑ । ई॒म् । अ॒स्थुः॒ । जो॒ष्टारः॑ऽइव । वस्वः॑ । र॒घ्वीःऽइ॑व । श्रव॑सः । भिक्ष॑माणाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -124,7 +124,7 @@ genre M
 **इन्द्रं** **वरुणं** च **मे** मम **मनीषाः** स्तुतयः" **द्रविणमिच्छमानाः** सत्यः **उप** **अग्मन्** उपगच्छन्ति । **जोष्टारः** सेवकाः **वस्वः** धनस्य लाभाय धनिकं स्वामिनम् ”इव। **रघ्वीरिव** लघ्व्य इव शीघ्रगामिन्य इव **श्रवसः** अन्नस्य अन्नं **भिक्षमाणाः** एनमिन्द्रं वरुणं च **उप** **अस्थुः** उपतिष्ठन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,35 +135,35 @@ genre M
 As dependants attend upon an opulent man: joṣṭāra iva vasvo = sevakā dhanikam svāminam, as servants upon a rich master, or as derived from juṣ, to plural ase, joṣṭāraḥ = flatterers, parasites; like humble feminine les: raghvīr iva śravaso bhikṣāmāṇāḥ: raghvīr iva = laghvya iva, like light or trivial
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These inspired thoughts of mine have come up to Indra and Varuṇa,  seeking material goods.  
 Like those who enjoy a good thing, they have approached them,  
 seeking a share of goods as fleet mares (seek a share) of fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I read vásvaḥ twice, once as the complement of joṣṭā́raḥ in the simile (“those who enjoy a good thing”) and once in the frame with bhíkṣamāṇāḥ (“seeking a share of the goods”). Contra Witzel Gotō, I take śrávasaḥ only in the simile, since this part of the hymn seems all about our acquiring possessions, not fame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra and to Varuna, desirous of gaining wealth have these my thoughts proceeded.  
      They have come nigh to you as treasurelovers, like mares, fleet-footed, eager for the glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese meine Dichtungen sind zu Indra und Varuna, Reichtum begehrend, gekommen. Sie sind ihnen wie Freunde genaht, um Gut bittend wie die Rennstuten um Ruhm.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Varuna und Indra gingen meine Gebete hier, nach reichem Schatz verlangend, Sie kamen zu euch, wie um Gut die Bettler, wie schnelle Stuten, schöne Nahrung heischend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти мои поэтические порывы достигли  
 Индры и Варуны, (они) желающие богатства.  

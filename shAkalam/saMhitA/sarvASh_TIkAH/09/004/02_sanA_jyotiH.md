@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ना ज्यो꣡तिः स꣡ना सु꣡वर्  
 वि꣡श्वा च सोम सउ꣡भगा  
 अ꣡था नो व꣡स्यसस् कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अथ॑ । नः॒ । वस्य॑सः । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanā* ← *sana* ← *san*
 - \[verb\], singular, Aorist imperative
@@ -96,36 +96,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **सोम** त्वं **ज्योतिः** तेजः **सन** अस्मभ्यं प्रयच्छ । अपि च **स्वः** स्वर्गं **सन** अस्मभ्यं देहि । **विश्वा** विश्वानि **सौभगा** सौभाग्यानि **च** सन । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, give us brightness, give us heaven, give us all good things; and make us happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Win light, win the sun, and all the gifts of good fortune, Soma.  
 – Then make us better off.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Win thou the light, win heavenly light, and, Soma, all felicities;  
      And make us better than we are.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewinne das Licht, gewinne die Sonne und alle Glücksgüter, o Soma, und mach uns besser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gewinne Glanz, gewinne Licht, o Soma, alles hohe Glück Und mach' uns reicher nun an Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Захвати свет, захвати солнце  
 И все, что приносит счастье, о сома.  

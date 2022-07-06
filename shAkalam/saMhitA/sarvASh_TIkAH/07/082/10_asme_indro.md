@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ इ꣡न्द्रो व꣡रुणो मित्रो꣡ अर्यमा꣡  
 द्युम्नं꣡ यछन्तु म꣡हि श꣡र्म सप्र꣡थः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देव꣡स्य श्लो꣡कं सवितु꣡र् मनामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒व॒ध्रम् । ज्योतिः॑ । अदि॑तेः । ऋ॒त॒ऽवृधः॑ । दे॒वस्य॑ । श्लोक॑म् । स॒वि॒तुः । म॒ना॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], dative, plural
@@ -119,36 +119,36 @@ genre M
 **अस्मे** अस्मभ्यमिन्द्रादयः **द्युम्नं** द्योतमानं धनं **यच्छन्तु** प्रयच्छन्तु । तथा **महि** महत् **सप्रथः** सर्वतः पृथु विस्तीर्णं **शर्म** गृहं च प्रयच्छन्तु । अपि च **ऋतावृधः** ऋतस्य यज्ञस्य वर्धयित्र्याः **अदितेः** अदीनाया देवमातुः **ज्योतिः** तेजश्च नोऽस्माकम् **अवध्रम्** अहिंसकमस्तु । वयं च **देवस्य** दानादिगुणयुक्तस्य **सवितुः** सर्वस्य प्रेरकस्य **श्लोकं** स्तोत्रं **मनामहे** जानीमः । कुर्म इत्यर्थः। यद्वा । देवेन सवित्रास्मभ्यं देयं श्लोकं यशो मनामहे याचामहे ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, **Varuṇa**, **Mitra** and **Aryaman** grant us wealth and a large and spacious habitation; may thelustre of **Aditi**, the augmentress of sacrifice, be innoxious to us; we recite the praise of the divine **Savitā**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra, Varuṇa, Mitra, and Aryaman extend to us their brilliance,  their great, widespread protection,  
 and the unassailable light of Aditi—they who grow strong through the  truth. We will keep in mind the signal call of the god Savitar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra, Varuna, Mitra, and Aryaman vouchsafe us glory and great shelter spreading far.  
      We think of the beneficent light of Aditi, and Savitar's song of praise, the God who strengthens Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Uns sollen Indra, Varuna, Mitra, Aryaman Glanz und ihren großen Schirm in ganzer Breite gewähren, die Wahrheitsmehrer der Aditi unzerstörbares Licht! Wir gedenken des Mahnrufs des Gottes Savitri.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns mögen Mitra, Varuna und Arjaman, uns Indra Glanz verleihn und grossen weiten Schutz; Wohlthät'ges Licht der Aditi, der heiligen, und Savitar's des Gottes Zuruf wünschen wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нам пусть Индра, Варуна, Митра, Арьман  
 Даруют блеск, великую защиту во всю ширь,  

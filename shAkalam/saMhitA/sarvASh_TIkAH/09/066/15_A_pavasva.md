@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पवस्व ग꣡विष्टये  
 महे꣡ सोम नृच꣡क्षसे  
 ए꣡न्द्रस्य जठ꣡रे विश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । इन्द्र॑स्य । ज॒ठरे॑ । वि॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -84,20 +84,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** पवमान **गविष्टये** अङ्गिरसां गवामन्वेष्ट्रे **महे** महते **नृचक्षसे** नॄणां मनुष्याणां द्रष्रेमा कर्मनेतॄणां फलं पश्यते वा इन्द्राय **आ** **पवस्व** पात्रेषु दशापवित्रेण पूतो भव । ततः **इन्द्रस्य** **जठरे** उदर उदरभूते द्रोणकलशे वा **आ** **विश** प्रविश ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow, **Soma**, for the mighty cattle-seeker, the beholder of men, enter **Indra**'s belly.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself for the quest for cattle, for the great one of manly eye,  o Soma.  
 Enter here into the belly of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The usually idiomatic ā́pavasva lacks the usual acc. object (“bring [X] by purifying yourself”). Perhaps the ā́anticipates the ā́in c, in the idiom ā́… viśa ‘enter’.
 
@@ -113,23 +113,23 @@ No signs of cohesion.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow on, O Soma, for the great Viewer of men, for gain of Idne  
      Enter thou into Indra's throat.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich zur Rindererbeutung für den Großen mit dem Herrscherauge, o Soma! Geh ein in Indra´s Bauch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ström', Soma, dem begierigen, dem grossen, Männer schauenden, Und dringe ein in Indra's Bauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

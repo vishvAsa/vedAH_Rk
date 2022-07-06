@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्तोमाः सह꣡छन्दस आवृ꣡तः  
 सह꣡प्रमा ऋ꣡षयः सप्त꣡ दइ꣡वियाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्वा꣡लेभिरे रथि꣡यो न꣡ रश्मी꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पूर्वे॑षाम् । पन्था॑म् । अ॒नु॒ऽदृश्य॑ । धीराः॑ । अ॒नु॒ऽआले॑भिरे । र॒थ्यः॑ । न । र॒श्मीन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahastomāḥ* ← *saha*
 - \[adverb\]
@@ -113,34 +113,34 @@ popular
 स्तोमैः त्रिवृत्पञ्चदशादिभिः सह वर्तमानाः **सहस्तोमाः** **सहछन्दसः** गायत्र्यादिभिः छन्दोभिः सह वर्तमानाः **आवृतः** आवर्तमानाः **सहप्रमाः** । प्रमितिः प्रमा यज्ञस्येद्यत्तापरिज्ञानम् । तेन सह वर्तमानाः **दैब्याः** देवस्य प्रजापतेः संबन्धिनः यद्वा देवानां यष्टव्यानां संबन्धिनः **ऋषयः** द्रष्टारः सप्तसंख्याकाः शीर्षण्याः । यद्वा । मरीचिप्रमुखाः सप्तर्षयो होत्रादयः सप्त वषट्कर्तारो वा । एवंविधा एते **पूर्वेषां** पूर्वपुरुषाणामङ्गिरःप्रभृतीनां विश्वसृजां देवानां वा **पन्थां** पन्थानमनुष्ठानमार्गम् **अनुदृश्य** क्रमेण ज्ञात्वा **धीराः** धीमन्तः सन्तः **अन्वालेभिरे** अनुक्रमेण आरब्धवन्तः । यागानुष्ठाने प्रवृत्ता इत्यर्थः । **रथ्यो** **न** यथा रथिनो रथेन युक्ता रथस्य नेतारः सूताः **रश्मीन्** अश्वनियोजनार्थान् प्रग्रहान् सम्यग्रथस्य नयनाय हस्तेनान्वारभन्ते । अन्वारभ्य च सम्यक् तं रथं प्रवर्तयन्ति एवमेतेऽप्यनुष्ठानमार्गं श्रुतितोऽवगम्य सम्यगन्वतिष्ठन्नित्यर्थः ॥ ॥३ ८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The courses (of the ritual were) joined with the praise songs, joined with  the meters. The heavenly Seven Seers were joined with the model (of  the rite).  
 Looking along the path of the ancients, the insightful ones [=the present  priests] have taken hold of the reins (of the sacrifice) like charioteers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who were versed in ritual and metre, in hymns and rules, were the Seven Godlike Rsis.  
      Viewing the path of those of old, the sages have taken up the reins like chariot-drivers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die wiederkehrenden Handlungen waren mit den Gesängen, mit den Metren im Einklang, die sieben göttlichen Rishi´s mit der Richtschnur. Indem die Sachverständigen auf den Weg der Vorfahren zurückblickten, haben sie wie Wagenlenker die Zügel des Opfers ergriffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sieben göttlichen Dichter mit ihren Lobliedern, ihren Versen, ihren Maassen sich herwendend, nach dem Pfade der früheren blickend, die weisen, ergriffen die Zügel wie Wagenlenker.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Повторяющиеся действия (обрядов) соответствуют восхвалениям, соответствуют размерам.  
 Семеро божественных риши соответствуют (древнему) образцу.  

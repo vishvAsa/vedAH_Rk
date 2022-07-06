@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 राया꣡ हिरण्यया꣡ मति꣡र्  
 इय꣡म् अवृका꣡य श꣡वसे  
 इयं꣡ वि꣡प्रा मेध꣡सातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इ॒यम् । विप्रा॑ । मे॒धऽसा॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **हिरण्यया** हितरमणीयेन **राया** धनेन सहिताय **अवृकाय** अहिंस्याय **शवसे** अस्माकं बलाय **इयम्** इदानीं क्रियमाणा **मतिः** स्तुतिर्भवत्विति शेषः ॥ हिरण्ययेत्यत्र ‘सुपां सुलुक् । इति तृतीयैकवचनस्य याजादेशः ॥ किंच हे **विप्राः** प्राज्ञाः **इयम्** एव स्तुतिः **मेधसातये** यज्ञलाभाय च भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this praise (be effective) for unimpeached strength, alone with golden treasure; may it (beeffective), sages, for the fulfilment of (the objects of) the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With longing for wealth and gold, this thought is for power that knows  no wolf;  
 this inspired (thought) is for winning wisdom.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With wealth of gold may this my song bring unmolested power and might,  
      And, Brahmans, gain the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus Verlangen nach Reichtum, nach Gold gedichtet, soll dies Lied zur Stärke, die vor Räubern sichert, dies beredte Lied zum Gewinn des Opfers verhelfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch goldnen Reichthum sei dies Lied ein Quell der unversehrten Kraft Und, weise ihr, der Geistesmacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Эта) молитва (создана) из желания богатство, золота,  
 Она – для силы, защищающей от волка,  

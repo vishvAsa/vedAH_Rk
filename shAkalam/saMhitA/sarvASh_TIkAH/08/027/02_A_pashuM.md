@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पशुं꣡ गासि पृथिवीं꣡ व꣡नस्प꣡तीन्  
 उषा꣡सा न꣡क्तम् ओ꣡षधीः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 धीना꣡म् भूत प्राविता꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । च॒ । नः॒ । व॒स॒वः॒ । वि॒श्व॒ऽवे॒द॒सः॒ । धी॒नाम् । भू॒त॒ । प्र॒ऽअ॒वि॒तारः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 आ गासि समन्तात् स्तुहि । ‘कै गै शब्दे' इति धातुः । ततो हे **वसवः** वासयितारः **विश्ववेदसः** सर्वधनाः सर्वज्ञाना वा हे **विश्वे** सर्वेऽपि देवाः **नः** अस्मदीयानां कर्मणां **प्रावितारः** **भूत** । अनेनाग्निना सह यूयं प्रकर्षेण रक्षका भवत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ Dwelling of the worshipper: pṛthivīm = idam devasadanam, this chamber of the 
 **Vasavaḥ** = vāsayitāraḥ, causers of habitations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here I have sung the (sacrificial) animal, the earth, the trees, Dawn and  Night, the plants.  
 And do you all, good ones affording all possessions, become furtherers  of our poetic insights.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 uṣā́sā náktam is a curious variant of the dual dvandva uṣā́sā-náktā, occurring only here. Oldenberg suggests that it is an ex. of a singular 2nd member following a dual in the 1st (cf. AiG II.1.154), which seems a description not an explanation. I think two factors entered into its creation: on the one hand, all forms of uṣā́sā-náktā precede a consonant; here that form would be in hiatus with vowel-initial óṣadhīḥ.
 
@@ -146,23 +146,23 @@ uṣā́sā náktam is a curious variant of the dual dvandva uṣā́sā-náktā
 Here and elsewhere through the hymn I render viśvávedas- as ‘affording all possessions’, not ‘possessing all knowledge’, because it is usually found in the context of the gods’ generosity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I sing to cattle and to Earth, to trees, to Dawns, to Night, to plants.  
      O all ye Vasus, ye possessors of all wealth, be ye the furtherers of our thoughts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich mache durch Gesang geneigt das Tier, die Erde, die Bäume, Morgen und Nacht, die Pflanzen. Und ihr allwissenden Götter seid alle Förderer unserer frommen Gedanken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besingen will ich Erde, Bäume und das Vieh, die Kräuter, Nacht und Morgenroth; Und all ihr guten Götter, ihr allwissenden, seid unsrer Andacht Förderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу воспеть скот, землю, лесные деревья,  
 Утро и Ночь, (целебные) растения.  

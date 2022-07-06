@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वाँ अर्यो꣡ विपश्चि꣡तो  
 अ꣡ति ख्यस् तू꣡यम् आ꣡ गहि  
 अस्मे꣡ धेहि श्र꣡वो बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒स्मे इति॑ । धे॒हि॒ । श्रवः॑ । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāṃ* ← *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
@@ -92,7 +92,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे इन्द्र **अर्यः** स्वामी त्वं **विश्वान्** **विपश्चितः** स्तोतॄन् **अति** **ख्यः** अतिक्रम्य पश्य । तदर्थं **तूयं** क्षिप्रम् **आ** **गहि** । आगत्य च **अस्मे** अस्मासु **बृहत्** **श्रवः** अन्नं यशो वा **धेहि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,35 +103,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Food: **śravas**, may also mean glory
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Look beyond all the strangers who are also attentive to poetic  
 inspiration. Come here straightaway.  
 Place lofty fame in us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because asya is unaccented, it needs to be construed separately from índrasya. So also Geldner
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Neglect all pious men with skill in sacred song: come hitherward,  
      With speed, and give us high renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Redekundigen, auch die hohen Herrn, sollst du unbeachtet lassen. Komm eilends her; uns bring hohen Ruhm!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O übergeh die Sänger all, die feindlich sind und komme schnell, Verleihe du uns hohen Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не обращай внимание на всех  
 Чужих прозорливцев! Быстро приходи!  

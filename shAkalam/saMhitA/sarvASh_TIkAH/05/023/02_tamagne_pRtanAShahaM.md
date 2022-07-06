@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अग्ने पृतनाष꣡हं  
 रयिं꣡ सहस्व आ꣡ भर  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दाता꣡ वा꣡जस्य गो꣡मतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । हि । स॒त्यः । अद्भु॑तः । दा॒ता । वाज॑स्य । गोऽम॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -107,26 +107,26 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mighty **Agni**, grant us a son able to encounter hosts; for you are true and wonderful, and the giver of food with cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O powerful Agni, bring here that wealth overpowering in battles,  
 for you are the real and infallible giver of the prize that brings cattle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Victorious Agni, bring to us the wealth that vanquisheth in war;  
      For thou art wonderful and true, giver of strength in herds of kine.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O powerful Agni! Bring hither that wealth powerful in battles. For thou art the true, wonderful giver of booty rich in cows.
 </details>
@@ -141,17 +141,17 @@ The giver of booty of kine.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen in den Kämpfen übermächtigen Reichtum bring ein, du übermächtiger Agni, denn du bist der wahre wunderbare Geber von Gewinn an Rindern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Reichthum, welcher Heere schlägt, siegreicher Agni, bringe her; Denn Geber rinderreichen Guts bist wahrer, wunderbarer, du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это богатство, о Агни,  
 Властвующее в боях, принеси, о властелин!  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमां꣡ त इन्द्र सुष्टुतिं꣡  
 वि꣡प्र इयर्ति धीति꣡भिः  
 जामि꣡म् पदे꣡व पि꣡प्रतीम् प्र꣡ अध्वरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 जा॒मिम् । प॒दाऽइ॑व । पिप्र॑तीम् । प्र । अ॒ध्व॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -97,19 +97,19 @@ genre M;; line affected by realignment
 हे **इन्द्र** **विप्रः** मेधावी स्तोता **अध्वरे** यज्ञे **इमां** पुरोवर्तिनीं **पिप्रतीं** पूजयन्तीं प्रीणयन्ती वा सुष्टुतिं शोभनां स्तुतिं **धीतिभिः** कर्मभिः परिचरणैः सार्धं **ते** त्वां **प्र** **इयर्ति** प्रेरयति प्रगमयति । **जामिं** **पदेव** यथा बन्धुभूतं पुरुषमुत्कृष्टानि पदानि स्थानानि प्रापयति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wise (worshipper), **Indra**, offers you this gratifying sincere praise along with pious rites at thesacrifice, as (a man plural ces) a kinsman in (a prominent) position.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The inspired poet, through his insights, raises this good praise to you, Indra, which guides its kin safely across, like footsteps, while the ceremony is  pro(ceeding).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c presents some difficulties of interpretation, in particular how to distribute the three accusatives jāmím, padā́, and pípratīm. The last, a participle, takes padám as object in IX.10.7 (adduced by both Oldenberg and Geldner): padám ékasya píprataḥ “guiding the track of the lone one safely across.” But it also takes personal objects, as in nearby VIII.6.2 prajā́m rtásya p ̥ íprataḥ “guiding the child of truth [=poem] safely across.” I therefore take it as a semantically mixed construction, with jāmím ‘kin’ (which in this case, as in VIII.6.2, would be a poem or hymn) in the frame and ‘footsteps’ in the simile. By contrast, Geldner takes jāmím as the subject of the simile, parallel to suṣṭutím: “die wie eine Schwester deine Schritte geleitet.” His interpretation reads better, but ignores the position of iva and also the contrasting constructions of the participle píprat- elsewhere. By my interpretation the point is that the suṣṭutí- produced in ab takes the rest of the verbal portion of the sacrifice along with it to the god.
 
@@ -126,23 +126,23 @@ This tṛca is unified by the 4-syllable pāda prā́dhvaré. This pāda appears
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee, O Indra, with this thought the sage lifts up this eulogy,  
      Akin and leading as on foot to sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Lobrede hebt der Redekundige für dich, Indra, gedankenvoll an, die wie eine Schwester deine Schritte geleitet, vorwärts zum Opfer;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Preislied bringt, o Indra, dir der Sänger dar mit frommem Sinn, Das schwesterlich den Schritten folgt beim Opferfest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эту прекрасную хвалу тебе, о Индра,  
 Вдохновенный (певец) воссылает с молитвами,  

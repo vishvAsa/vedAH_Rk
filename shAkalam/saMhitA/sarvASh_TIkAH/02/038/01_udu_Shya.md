@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ ष्य꣡ देवः꣡ सविता꣡ सवा꣡य  
 शश्वत्तमं꣡ त꣡दपा व꣡ह्निर् अस्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था꣡भजद् वीति꣡होत्रं सुअस्तउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नू॒नम् । दे॒वेभ्यः॑ । वि । हि । धाति॑ । रत्न॑म् । अथ॑ । आ । अ॒भ॒ज॒त् । वी॒तिऽहो॑त्रम् । स्व॒स्तौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -140,7 +140,7 @@ genre M
 स्यः सदेवोद्योतमानः सवितासवायलोकानाम्प्रसवाय अनुज्ञायैशश्वत्तमम्प्रतिदिनंउदस्थात् उत्ति ष्ठति उइतिपूरणः कीदृशःसवितातदपाः तत्प्रसवकर्मा अपः अप्नइतिकर्मनामसुपाठात् वह्निर्वो ढाजगतां किञ्च नूनंसम्प्रतिदेवेभ्यः स्तोतृभ्योरत्नन्धनंविहिधातिप्रयच्छति हीतिपूरणे अथच अपिच वीतिहोत्रङ्कान्तयज्ञंयजमानंस्वस्तौअविनाशेक्षेमेआअभजद्भागिनङ्करोतु यद्यपि स्वस्तिशब्दोविभ- क्त्यन्तनिर्दिष्टशब्दपरस्तथाप्यपर्यवसानादर्थपरोभवति ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,36 +151,36 @@ genre M
 For such is his office: savitā = from root su, to bring forth, prasavāya lokānām; for such is his work--- tadapā, tat **prasava** karmā; to the pious worshippers: devebhyaḥ, to the gods; here interpreted as, stotrbhyaḥ, to the praisers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 God Savitar has stood up to impel again as always—the draft-horse  whose work this is— for now he distributes treasure to the gods, and he has also given a  
 share in well-being to him whose oblations are worth pursuing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb of c, dhā́ti with primary ending, can only be a root aorist subjunctive like the other two such forms, though neither Geldner nor Renou so tr. it -- nor do I. However, Witzel Gotō’s “… soll er … verteilen” does represent the mood (so also Hettrich, Hyp. 177). I would emend the published translation to “will distribute …” Unfortunately it does not require trisyllabic scansion, which would have supported the subj. interpr.
 
 The question then arises how to analyze ā́bhajat in d. The Pp. takes it as ā́ abhajat, with unaccented augment. Under this analysis the verb would not be in the domain of the hí in c; otherwise the augment should be accented and the preverb unaccented and univerbated. The Witzel Gotō tr. reflects the Pp. by separating the clauses, but Geldner, Renou, and I (implicitly also Klein DGRV II.74) tr. cd as if they contain conjoined parallel clauses. It would also be possible to analyze ā́bhajat as ā́bhajat, that is, without augment. An injunctive might fit the syntactic context better, in that it could just continue the modal reading of dhā́ti (“will distribute … and [will] give a share …”), but paradoxically this would require the two clauses to be more independent because the verb would be unaccented and therefore could not be conjoined to c with accent-inducing hí. In larger interpretational terms the differences among the several possibilities just outlined are fairly minor -- having just given or being about to give actually turn out to be almost identical acts in Rigvedic ritual depiction -- but it is worth noting the multiple ambiguities inherent in an innocent looking form. For two parallel clauses containing first a subjunctive and then an augmented indicative, see 3ab below (mucāti … árīramat).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 UPRISEN is Savitar, this God, to quicken, Priest who neglects not this most constant duty.  
      To the Gods, verily, he gives rich treasure, and blesses him who calls them to the banquet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Gott Savitri hat sich zum vielten Male aufgemacht, um die Weisung zu geben, der Wagenfahrer, dessen Werk dies ist, denn jetzt verteilt er den Göttern sein Kleinod, und dem Opfereifrigen gewährte er Anteil am Glück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gott Savitar erhob zu schneller That sich im Flug, aufs neue nun sein Werk zu treiben; Denn jetzt auch theilt den Göttern er die Schätze und schenket Wohlsein dem, der ihn zum Mahl lud.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот он поднялся, этот бог Савитар, чтобы еще раз  
 Привести (все) в движение, он, занятый такой работой, возница (солнца) –  

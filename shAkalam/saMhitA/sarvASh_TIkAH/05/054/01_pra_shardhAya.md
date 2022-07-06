@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ श꣡र्धाय मा꣡रुताय स्व꣡भानव  
 इमां꣡ वा꣡चम् अनजा पर्वतच्यु꣡ते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द्युम्न꣡श्रवसे म꣡हि नृम्ण꣡म् अर्चत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 घ॒र्म॒ऽस्तुभे॑ । दि॒वः । आ । पृ॒ष्ठ॒ऽयज्व॑ने । द्यु॒म्नऽश्र॑वसे । महि॑ । नृ॒म्णम् । अ॒र्च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre M
 प्र अनजेति संबन्धः । **मारुताय** मरुत्संबन्धिने **शर्धाय** बलाय **इमां** क्रियमाणां **वाचं** स्तुतिं **प्र** **अनज** प्रापय । **स्वभानवे** स्वायत्ततेजसे **पर्वतच्युते** पर्वतस्य च्यावयित्रे **घर्मस्तुभे** घर्मस्य स्तोभयित्रे दिव **आ** द्युलोकादागच्छते **पृष्ठयज्वने** षट् पृष्ठैः रथन्तरबृहदादिभिरीजानाय **द्युम्नश्रवसे** द्योतमानान्नाय **महि** महत् प्रभूतं **नृम्णं** धनं हविर्लक्षणम् **अर्चत** ददतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,14 +142,14 @@ genre M
 To whom solemn rites are familiar: pṛṣṭhayajvane: by whom the sacrifices called **pṛṣṭha** are made, these are said to be six, of which two are specified: **rathantara** and **bṛhat**, śatpṛṣṭhaiḥ rathantara bṛhadādibhir ijānāya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth—for the Marut troop with its own radiance I will anoint this  speech, for (the troop) shaking the mountains,  
 for (the troop) with the rhythm of the gharma pot, sacrificing on the  back of heaven, of heaven-bright fame—sing (forth) their great  
 manliness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first word of the hymn is prá, as it was in V.52, the first of Śyāvāśva’s Marut hymns. It would at first appear to be in tmesis with anajā in b (so Grassmann and see Renou’s bizarre tr. “je veux lancer-avec-onction”), but √añj does not otherwise appear with prá. I think it rather belongs with the last word of the vs., arcata. The syntagm prá √arc is quite common and, more to the point, began the first hymn in this cycle: V.52.1ab prá …, árcā. The rest of our vs., from śárdhāya to dyumnáśravase, is set into this celebratory frame.
 
@@ -160,23 +160,23 @@ My tr. of gharmastúbh- ‘with the rhythm of the gharma-pot’ sounds like a ba
 My “sacrificing on the back of heaven” agrees with Geldner and Renou in taking diváḥ as limiting the first member of pṛṣṭhayájvane. Oldenberg allows both this and a syntagm divá ā́“from heaven,” while Witzel Gotō follow Oldenberg’s 2nd alternative and suggest that the Maruts are sacrificing on the back of the earth (to be supplied). It is difficult to make a judgment here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS hymn will I make for the Marut host who bright in native splendour cast the mountains down.  
      Sing the great strength of those illustrious in renown, who stay the heat, who sacrifice on heights of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der marutischen Heerschar, der selbstglänzenden, Berge erschütternden, will ich diese Rede als Schmuck anlegen; die wie der heiße Milchtrank singt, die auf des Himmels Rücken opfert, der glanzberühmten preiset ihren hohen Mannesmut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Marutschar habt kunstvoll ihr dies Lied erdacht, die glänzend strahlt und die die Berge beben macht; Der kraftberühmten singt ein grosses Heldenlied, die blitzend rauscht und herströmt von des Himmels Höh.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Толпу марутову, обладающую собственным блеском,  
 Сотрясающую горы, я украшаю этой речью;  

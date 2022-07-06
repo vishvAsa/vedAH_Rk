@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा न꣡ क्रुद्धः꣡ पतयद् र꣡जस्सु आ꣡  
 यो꣡ अर्य꣡पत्नीर् अ꣡कृणोद् इमा꣡ अपः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡विन्दज् ज्यो꣡तिर् म꣡नवे हवि꣡ष्मते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । सु॒न्व॒ते । म॒घऽवा॑ । जी॒रऽदा॑नवे । अवि॑न्दत् । ज्योतिः॑ । मन॑वे । ह॒विष्म॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -136,37 +136,37 @@ genre M
 **रजःसु** लोकेषु **वृषा** **न** यथा वृषभः **क्रुद्धः** सन् प्रतिवृषभवधाय **पतयत्** गच्छति तद्वत् **यः** इन्द्रः क्रुद्धः सन् मेघवधाय पतयति हत्वा च मेघम् अर्यपत्नीः सर्वस्य जगतः स्वामिन इन्द्रस्य पालयितव्याः **इमाः** प्रसिद्धाः **अपः** वृष्ट्युदकानि **आ** **अकृणोत्** आकृणोति अस्मदभिमुखं करोति **सः** **मघवा** धनवानिन्द्रः **सुन्वते** सोमाभिषवं कुर्वते **जीरदानवे** क्षिप्रदानाय **हविष्मते** **मनवे** मनुष्याय । यजमानायेत्यर्थः । **ज्योतिः** तेजः **अविन्दत्** प्रायच्छत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As in the world an angry bull rushes (upon another), so does **Indra**, who directs (towards us) thewaters, the brides of the lord (of earth); when (the **Soma**) is effused, Maghavat bestows light upon the man, whogives promptly, who offers oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like an angry bull he flies among the airy realms—he who made these  waters here to have an Ārya as their husband.  
 The bounteous one found light for the presser possessing lively gifts  
 [/drops], for Manu who offered oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He rushes through the region like a furious Bull, he who hath made these floods the dames of worthy lords.  
      This Maghavan hath found light for the man who brings oblation, sheds the juice, and promptly pours his gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein zorniger Bulle stürmt er unter Staubwolken dahin, der diese Gewässer zu Gattinnen eines edlen Herrn machte. Der Gabenreiche fand für den somapressenden, raschgebenden opfernden Manu, den Mensch, das Licht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Luft durchflog er wie ein wuthentbrannter Stier, und machte diese Wasser sich zu Ehefraun; Dem Manne, der ihm Soma presst an Strömen reich und Opfer bringt, dem schenkt der starke Glückes Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как разьяренный бык, мечется по воздушным просторам (тот,)  
 Кто эти воды сделал женами ария.  

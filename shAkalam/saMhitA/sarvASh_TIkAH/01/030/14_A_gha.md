@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ घ त्वा꣡वान् त्म꣡ना आप्त꣡  
 स्तोतृ꣡भ्यो धृष्णव् इयानः꣡  
 ऋणो꣡र् अ꣡क्षं न꣡ चक्रि꣡योः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 ऋ॒णोः । अक्ष॑म् । न । च॒क्र्योः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -86,7 +86,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **धृष्णो** धार्ष्ट्ययुक्त इन्द्र **त्वावान्** त्वत्सदृशो देवताविशेषः **त्मनाप्तः** त्वदनुग्रहवशात् स्वयमेव आप्तः सन् **इयानः** अस्माभिर्याच्यमानः **स्तोतृभ्यः** स्तोतॄणामनुग्रहाय तदभीष्टमर्थं **घ** अवश्यम् **आ** **ऋणोः** आनीय प्रक्षिपतु । तत्र दृष्टान्तः । **चक्र्योः** रथस्य चक्रयोः **अक्षं** **न** । यथा अक्षं प्रक्षिपन्ति तद्वत् ॥ त्वावान् ।' वतुप्प्रकरणे युष्मदस्मद्यांनः छन्दसि सादृश्य उपसंख्यानम् ' ( पा. सू. ५. २. ३९. १ ) इति वतुप् ।' प्रत्ययोत्तरपदयोश्च ' इति मपर्यन्तस्य त्वादेशः । ‘आ सर्वनाम्नः ' ( पा. सू. ६. ३. ९१ ) इति दकारस्य आत्वम् । वतुपः पित्त्वादनुदात्तत्वे प्रातिपदिकस्वरः शिष्यते । त्मना । ‘मन्त्रेष्वाङ्यादेरात्मनः' (पा. सू. ६. ४. १४१) इति आकारलोपः । धृष्णो ।' ञिधृषा प्रागल्भ्ये'।' त्रसिगृधिधृषिक्षिपेः क्नुः ' (पा. सू. ३. २. १४०)। आमन्त्रितानुदात्तत्वम् । इयानः । 'ईङ् गतौ'। 'छन्दसि लिट्' (पा. सू, ३. २. १०५ )। तस्य ‘लिटः कानज्वा' ( पा. सू. ३. २. १०६ ) इति कानजादेशः ।“ अचि श्नुधातु ' ( पा. सू. ६. ४. ७७) इत्यादिना इयङादेशः । ‘द्विर्वचनप्रकरणे छन्दसि वेति वक्तव्यम्' इति वचनात् अभ्यासो न क्रियते । ‘चितः' इत्यन्तोदात्तत्वम् । ऋणोः । ‘ऋण गतौ । लङि व्यत्ययेन तिपः सिपि ' इतश्च ' ( पा. सू. ३. ४. १००) इति इकारलोपः । ‘तनादिकृञ्भ्य उः ' ( पा. सू. ३. १. ७९ )। सार्वधातुकगुणः । ‘बहुलं छन्दस्यमाङयोगेऽपि ' इति अडागमाभावः। विकरणस्वरेणान्तोदात्तत्वम् । अक्षम्। ‘अक्षस्यादेवनस्य' (फि. सू. ३५) इत्याद्युदात्तत्वम् । चक्र्योः । अकारस्य इकारश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,34 +97,34 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **Dhṛṣṇu** = resolute, firm, high-spirited (**Indra**); akṣam na cakrayoḥ = of the two wheels of a car; prakṣipanti (= turn over) is assumed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As one like you, o bold one, obtained in person for the praisers, being  implored (by them),  
 you fit out (the refreshments) (as you) fit an axle between two wheels,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Vss. 14-15 are parallel in structure and phraseology, but this does not help as much as we might like. To begin at the beginning, it seems odd to refer to Indra as “one like you” (tvā́vān), and grammatically it is also problematic, because tvā́vant- ordinarily takes a 3rd ps. verb, not 2nd ps. as here. It is tempting to follow Geldner’s path and make ab into a subordinate clause (“Wenn einer wie du…”), but this doesn’t work because the initial ā́of pāda a must be construed with the ṛṇóḥ of c. The rest of the first hemistich, two participial phrases, is somewhat awkwardly phrased (at least in translation) but comprehensible: the praisers obtain Indra (or his like) in his own person and implore him for aid, which he provides in c. That pāda uses an idiomatic expression for fitting an axle between two wheels. As the presence of ná in 14c and the structure of vs. 15 show, this expression is a simile, to which some other action of Indra is being compared, even though in 14 there is no obvious frame. The meaning of ā́ṛṇóḥ in the frame is somewhat different from the idiomatic usage, but not, to my mind, the “untranslatable wordplay” that Geldner sees. I take it mean ‘fit out’, namely ‘provide’. In 14c I supply ‘refreshments’ from the preceding vs. (13), the first vs. of the tṛca. Nonetheless, this translation of the tṛca, esp. 14-15, strikes me as less than satisfactory.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like thee, thyself, the singers' Friend, thou movest, as it were, besought,  
      Bold One, the axle of the car.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn einer wie du, Mutiger, der den Sängern persönlich bekannt ist, darum gebeten wird, solltest du gleichsam die Achse in die Räder einfügen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du ja selbst ein Freund der Sänger, kühner, fügst wie in die Räder Ein die Achse, angeflehter,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Конечно, такой, как ты, о доступный сам по себе  
 Певцам, когда тебя просят, о храбрый,  

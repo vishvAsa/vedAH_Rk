@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ नः पू꣡र्वे पित꣡रो न꣡वग्वाः  
 सप्त꣡ वि꣡प्रासो अभि꣡ वाज꣡यन्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡द्रोघवाचम् मति꣡भिः श꣡विष्ठम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न॒क्ष॒त्ऽदा॒भम् । ततु॑रिम् । प॒र्व॒ते॒ऽस्थाम् । अद्रो॑घऽवाचम् । म॒तिऽभिः॑ । शवि॑ष्ठम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -118,20 +118,20 @@ genre M
 **पूर्वे** प्रत्नाः **नवग्वाः** नवभिर्मासैः सत्रमनुष्ठितवन्तः **सप्त** सप्तसंख्याकाः **विप्रासः** विप्रा मेधाविनः **वाजयन्तः** वाजमन्नं हविर्लक्षणमिन्द्रस्य कुर्वन्तः । इन्द्रं वा वाजिनं बलिनं कुर्वन्तः । तत्करोतीति णिच् । एवंभूताः **नः** अस्माकं **पितरः** अङ्गिरसः **तमु** तमेवेन्द्रं **मतिभिः** स्तुतिभिः **अभि**। तुष्टुवुरिति शेषः । कीदृशम् । **नक्षद्दाभम्** । नक्षतिर्गतिकर्मा । अभिगच्छतां शत्रूणां दम्भितारं हिंसितारं **ततुरिं** तरितारं **पर्वतेष्ठां** पर्वतेष्ववस्थितम् अद्रोघवाचम् । अद्रोग्धव्या अनतिक्रमणीया वागाज्ञारूपा यस्य तम् । **शविष्ठं** बलवत्तमम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To him the seven sages, our ancient progenitors, performing the nine days' rite, were offerers of (sacrificial) food, celebrating with hymns the very strong (**Indra**), the humiliator of foes, the traverser of the heavens, he dweller in the clouds, whose commands are not to be disobeyed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To him (chanted) our earlier ancestors, the Navagvas, the seven inspired  poets, inciting (him),804 VI.22  
 to him who catches up to the cheat, the surpassing one who stays on the  mountains, whose speech is without deception, to the strongest one,  with their thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. lacks an overt finite verb. With Geldner I supply a form of √arc, picking up the main clause verb of vs. 1, abhy àrca of 1b. The instr. matíbhiḥ in our d is parallel to gīrbhíḥ … ā́bhíḥ of 1b.
 
@@ -144,23 +144,23 @@ nákṣanti in this same Indra cycle, VI.34.3, where thoughts and voices approac
 Note the presence of both √dabh ‘trick, cheat’and √druh ‘deceive, lie’, with Indra depicted as engaging in the former activity, but possessing speech that is ádrogha- ‘undeceptive’. In 8a he attacks the “deceitful people” (jána- drúhvan-).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Our sires of old,. Navagvas, sages seven, while urging him to show his might, extolled him,  
      Dwelling on heights, swift, smiting down opponents, guileless in word, and in his thoughts most mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denselben besangen unsere Vorväter, die Navagva´s, die sieben Dichter, ihn aneifernd, ihn, der den Einholenden täuscht, den Überwinder, der auf dem Berge haust, dessen Worte nicht trügen, den Gewaltigsten mit ihren Gebeten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn priesen einst die Neuner, unsre Väter, die sieben Sänger, stärkend ihn zu Thaten, Der Feinde tilgt, auf Bergen thronet siegreich, der Wahrheit spricht, den stärksten ihn, mit Liedern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его (воспевали) наши древние отцы – Навагва,  
 Семеро вдохновенных, подгоняя (его),  

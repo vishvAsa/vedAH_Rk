@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हवि꣡र् हविष्मो म꣡हि स꣡द्म दइ꣡वियं  
 न꣡भो व꣡सानः प꣡रि यासि अध्वर꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सह꣡स्रभृष्टिर् जयसि श्र꣡वो बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 राजा॑ । प॒वित्र॑ऽरथः । वाज॑म् । आ । अ॒रु॒हः॒ । स॒हस्र॑ऽभृष्टिः । ज॒य॒सि॒ । श्रवः॑ । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *havir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
@@ -124,7 +124,7 @@ genre M
 हे **हविष्मः** । हविरित्युदकनाम । उदकवन् सोम हविभूतं **नभः** । उदकनामैतत् । उदकरसमित्यर्थः। **वसानः** आच्छादयन् **महि** महत् **दैव्यं** **सद्म** यागगृहं **परि** **यासि** परिगच्छसि **अध्वरं** निर्वोढुम् । किंच हे सोम **राजा** **पवित्ररथः** च **वाजं** संग्रामम् **आरुहः** आरोहसि । यद्वा । तत्र तत्र संग्रामवाचकेन शब्देन यज्ञव्यवहारदर्शनादत्र वाजो यज्ञाख्यसंग्रामः । तमारुहः । यथा कश्चिद्राजा रथमारुह्य स्वस्थानं प्रविशति तद्वदिति भावः । किंच सहस्रभृष्टिः बहुभ्रंशः । अपरिमितगमन इत्यर्थः । अथवा भृष्टिरायुधम् । असंख्यातायुधः सन् । **बृहत्** **श्रवः** महदन्नं **जयसि** अस्माकम् ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,7 +135,7 @@ genre M
 In the liquid water: **haviḥ** in contrast to **nabhaḥ**; to the battle: i.e., the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You possessor of the oblation, as an oblation yourself you drive around  the great heavenly seat, around the ceremonial course, clothing  
 yourself in cloud.  
@@ -143,28 +143,28 @@ As king, having the filter as your chariot, you have mounted the prize.  Having 
 1318 IX.84–85
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The garment of cloud in b is presumably the milk in ritual terms, a real cloud for the sun identified with soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rich in oblations! robed in cloud, thou corapassest oblation, sacrifice, the mighty seat of Gods.  
      King, on thy chariot-sieve thou goest up to war, and with a thousand weapons winnest lofty fame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Opfer umwandelst, du von Opfergaben Begleiteter, den großen göttlichen Sitz, die heilige Handlung, in eine Wolke dich hüllend. Als ein König, dessen Wagen die Seihe ist, hast du den Siegerpreis erklommen, als Tausendzackiger gewinnst du hohen Ruhm.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, reich an Tränken, gehst in Flut gekleidet rings zum grossen Sitz der Götter um das Opfer her, Als Fürst erlangst du Beute, fahrend auf dem Sieb, gewinnst bewehrt mit tausend Dolchen grossen Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертвенное возлияние, о ты, сопровождаемый возлияниями, ты обходишь кругом,  
 Великое сиденье богов, рядясь в облако, (обходишь) обряд.  

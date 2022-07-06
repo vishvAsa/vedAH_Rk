@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् ते प꣡र्वतान् बृहतो꣡  
 म꣡नो जगा꣡म दूरक꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इह꣡ क्ष꣡याय जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 तत् । ते॒ । आ । व॒र्त॒या॒म॒सि॒ । इ॒ह । क्षया॑य । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -105,34 +105,34 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे सुबन्धो यत्ते मनो बृहतः पर्वतान् तदिति गतम्॥९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If your mind has gone to the lofty mountains far away,  
 we will make it turn hither to you, here to live and dwell.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy spirit, that went far away, away to lofty mountain heights,  
      We cause to come to thee again that thou mayst live and sojourn here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn dein Geist in die hohen Berge weit weg gegangen ist, so holen wir ihn dir her, daß er hier wohne und lebe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Geist, der zu den Bergeshöhn, den grossen in die Ferne ging, Der werde von uns hergelockt zum Leben und zu sicherm Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда твой дух ушел далеко  
 В высокие горы,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ अ꣡र्बुदस्य विष्ट꣡पं  
 वर्ष्मा꣡णम् बृहत꣡स् तिर  
 कृषे꣡ त꣡द् इन्द्र पउं꣡सियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 कृ॒षे । तत् । इ॒न्द्र॒ । पौंस्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ny* ← *ni*
 - \[adverb\]
@@ -88,40 +88,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्द्र** **बृहतः** महतः **अर्बुदस्य** मेघस्य **वर्ष्माणम्** उदकस्य वारकं **विष्टपं** स्थानं **नि** **तिर** विध्य । **तत्** प्रसिद्ध **पौंस्यं** व्रतं च **कृषे** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pierce the rain-holding domain of the vast **Arbuda**; achieve, **Indra**, this manly exploit.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Undermine the topside of Arbuda, the height of the lofty one. You have done this manly deed, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have nothing useful to say about the morphology of kṛṣé.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou broughtest down the dwelling-place, the height of lofty Arbuda.  
      That exploit, Indra, must be famed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Demütige die Höhe, die Größe des hohen Arbuda!" Diese Mannestat hast du gut getan, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stürz hin die Stätte Arbuda's, den höchsten Sitz des mächtigen, Vollbringe diese Heldenthat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Унизь высоту (и) огромность  
 Мощного Арбуды –  

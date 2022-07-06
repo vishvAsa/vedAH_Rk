@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡रावतीर् वरुण धेन꣡वो वाम्  
 म꣡धुमद् वां सि꣡न्धवो मित्र दुह्रे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धिष꣡णानां रेतोधा꣡ वि꣡ द्युम꣡न्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्रयः॑ । त॒स्थुः॒ । वृ॒ष॒भासः॑ । ति॒सॄ॒णाम् । धि॒षणा॑नाम् । रे॒तः॒ऽधाः । वि । द्यु॒ऽमन्तः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *irāvatīr* ← *irāvatīḥ* ← *irāvat*
 - \[noun\], nominative, plural, feminine
@@ -111,7 +111,7 @@ genre M
 हे **वरुण** हे **मित्र** **वां** युवयोराज्ञया **धेनवः** गावः **इरावतीः** । इरा क्षीरलक्षणा। तद्वत्यो भवन्ति । तथा **सिन्धवः** स्यन्दनशीला मेघा नद्यो वा **मधुमत्** मधुररसमुदकं **दुहे** दुहन्ति । तथा **त्रयः** त्रिसंख्याकाः **वृषभासः** वर्षितारः **रेतोधाः** उदकस्य धारकाः **द्युमन्तः** दीप्तिमन्तोऽग्निवाय्वादित्याः **तिसॄणां** त्रिसंख्याकानां **धिषणानां** स्थानानां पृथिव्यन्तरिक्षद्युलोकानां स्वामिनः सन्तः **वि** विविधं प्रत्येकं **तस्थुः** तिष्ठन्ति । युवयोरनुग्रहात् त्रयोऽपि देवास्त्रिषु स्थानेषु वर्तन्ते इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ genre M
 **Agni**, **Vāyu** and **Āditya**, present, severally, upon the earth, in the mid-air, and in heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Varuṇa and Mitra, your milk-cows are filled with refreshments. Your  rivers give honey-rich milk.  
 Three brilliant bulls [=fires?] stand far and wide, the semen-givers of the  three holy places.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, Varuna, have kine who yield refreshment; Mitra, your floods pour water full of sweetness.  
      There stand the Three Steers, splendid in their brightness, who fill the three world-bowls with genial moisture.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Milchkühe sind labungsreich, o Varuna, eure Ströme geben süße Milch, o Mitra. Drei herrliche Stiere stehen als die Besamer der drei Dhisana´s verteilt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voll Labung sind, Varuna, eure Kühe, und Süsses milchen, Mitra, eure Ströme; Drei Stiere stehen der drei Weltenschalen vertheilt, voll Glanz, die ihren Samen lassen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваши дойные коровы, о Варуна, богаты жертвенными возлияниями;  
 Ваши реки, о Митра, доятся медом.  

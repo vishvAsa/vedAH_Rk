@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्य꣡म् इ꣡त् त्वा महेनदि  
 प꣡रुष्णि अ꣡व देदिशम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 श꣡विष्ठाद् अस्ति म꣡र्तियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न । ई॒म् । आ॒पः॒ । अ॒श्व॒ऽदात॑रः । शवि॑ष्ठात् । अ॒स्ति॒ । मर्त्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
@@ -99,42 +99,42 @@ genre M
 हे **महेनदि** **परुष्णि** एतन्नामिके **त्वा** त्वां **सत्यमित्** सत्यमेव **अव** **देदिशम्** आदिशामि वदामि । नद्याकारेण संबोध्यापः संबोधयति । हे **आपः** **ईम्** अस्मात् **शविष्ठात्** बलवत्तमाच्छ्रुतर्वणोऽधिकः कश्चित् **अश्वदातरः** अश्वानां दातृतमः **मर्त्यः** **न** **अस्ति** । परुष्ण्यास्तीरे राज्ञोऽश्वमेधप्रतिग्रहात्तां संबोध्य ब्रूते ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily I address you, O great river Paruṣṇi, O waters, there is no mortal who gives horses moreliberally than this most mighty (monarch).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is really true—what I forcefully point out to you, o great river  Paruṣṇi:  
 o waters, there exists no mortal who is a greater giver of horses than  most powerful (Śrutarvan).  
 The next group of hymns, VIII.75–79, consists of one hymn to Agni (75), three to  Indra (76–78), and one to Soma (79), in appropriately descending number of verses.  The Indra hymns are all assigned to the same Kāṇva poet by the Anukramaṇī, but  the other two hymns have different authors, 75 an Āṅgirasa, 79 a Bhārgava.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The intensive áva dediśam here seems to have real “intensive” force; a frequentative reading seems excluded or at least forced, as if the poet were constantly scolding the River (“I keep pointing out to you …”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The very truth do I declare to thee, Parusni, mighty flood.  
      Waters! no man is there who gives more horses than Savistha gives.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Wahrheit versichere ich dir, du großer Strom Parusni: nicht gibt es einen Sterblichen, der mehr Rosse schenkt als der Mächtigste, ihr Gewässer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wahrheit will ich dir verkünden, o grosser Strom Paruschni. Es gibt, o ihr Wasser, keinen Sterblichen, der mehr Rosse schenkt als Çavischtha.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

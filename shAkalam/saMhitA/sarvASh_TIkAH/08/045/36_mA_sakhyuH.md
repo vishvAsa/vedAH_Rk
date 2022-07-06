@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ स꣡ख्युः शू꣡नम् आ꣡ विदे  
 मा꣡ पुत्र꣡स्य प्रभूवसो  
 आवृ꣡त्वद् भूतु ते म꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒ऽवृत्व॑त् । भू॒तु॒ । ते॒ । मनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **प्रभूवसो** प्रभूतधनेन्द्र **ते** तव **सख्युः** **शूनं** वृद्धं **मा** **आ** **विदे** मावेदयामि । **पुत्रस्य** अपि शूनं **मा** विदे। तव **मनः** अस्मासु **आवृत्वत्** आवर्तनवत् **भूतु** भवतु । पुनःपुनः सुखं करोत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,30 +100,30 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Śūnam = vṛddham; cf. RV 2.27.17: śūnam - śūnyam, dāridryam; may I neverhave to tell a kinsman's destitution to an opulent, kind, and munificen patron
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let me not find the lack of a comrade, nor of a son, o you of  
 outstanding goods.  
 Let your mind be turned here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O wealthy God, ne'er may I live to see my friend or son in need*:  
      Hitherward let thy heart be turned.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht möchte ich eines Freundes entbehren, nicht eines Sohnes, o Schatzreicher. Dein Sinn soll wieder einlenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass nicht den Freund verlieren mich, noch einen Sohn, o mächtiger; Es neige hold sich her dein Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не познаю я отсутствия друга  
 Или сына, о повелитель выдающихся благ!  

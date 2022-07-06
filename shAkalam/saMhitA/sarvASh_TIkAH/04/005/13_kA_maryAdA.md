@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 का꣡ मर्या꣡दा वयु꣡ना क꣡द् ध वाम꣡म्  
 अ꣡छा गमेम रघ꣡वो न꣡ वा꣡जम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सू꣡रो व꣡र्णेन ततनन्न् उषा꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 क॒दा । नः॒ । दे॒वीः । अ॒मृत॑स्य । पत्नीः॑ । सूरः॑ । वर्णे॑न । त॒त॒न॒न् । उ॒षसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
@@ -126,46 +126,46 @@ genre M
 **का** **मर्यादा** का प्रीत्यादिव्यवस्था का च **वयुना** प्रज्ञानं पदार्थविषयं **कद्ध** किं च **वामं** वननीयं पदार्थजातम् । एतत्सर्वम् **अच्छ** **गमेम** अभिगच्छेम । तत्र दृष्टान्तः । **रघवो** **न** **वाजम्** । शीघ्रगामिनोऽश्वादयः संग्राममिव । तद्वत्। **कदा** कस्मिन् काले **नः** अस्माकं व्यवहाराय **देवीः** देव्यो द्योतमानाः **अमृतस्य** अमरणधर्मस्यादित्यस्य **पत्नीः** पत्न्यः पालयित्र्यः **सूरः** प्रसवित्र्यः **उषासः** उषसः **वर्णेन** प्रकाशेन **ततनन्** विस्तारयेयुः । एवं सूर्यसंबन्धिन उषसः स्तुत्या सर्वात्मनो वैश्वानरस्य स्तुतिरवगन्तव्या ॥ ततनन् । तनोतेर्लेटि ‘ बहुलं छन्दसि ' इति विकरणस्य श्लुः । द्विर्भावहलादिशेषौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wha tis the limit, what are the objects, which is the desirable (end) to which we rush like swift (chargers) to the battle? when for us will the divine dawns, the brides of the immortal (sun), overspread (the world) with light.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What is the (finish) line, (what) the trajectories, what the desired  (wealth)? Might we go to it, like quick (horses) to a prize.  
 When will the goddesses, the wives of the immortal one, the Dawns  stretch toward us with the color of the sun?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The theme of the journey in vs. 12 morphs slightly into the image of a race or similar contest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What is the limit, what the rules, the guerdon? Like fleet-foot coursers speed we to the contest.  
      When will the Goddesses, the Immortal's Spouses, the Dawns, spread over us the Sun-God's splendour?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 What is the limit, what the objects? What pleasant (wealth) may we obtain as swift (horses gain) the prize? When will the Dawns, the divine consorts of the immortal, expand over us with the sun's splendour?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welches ist das Ziel, welches die Richtungen, was der Gewinn? Wir wollen ihn erreichen wie die Rennpferde den Siegespreis. Wann werden sich uns die Morgenröten, die göttlichen Herrinnen der Unsterblichkeit, mit der Farbe der Sonne ihr Licht für uns ausbreiten?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was ist das Merkmal, Zeichen, was der Kampfpreis? lasst hin uns gehn wie Renner nach dem Preise ; wann werden uns die Göttinnen bestrahlen mit Sonnenglauz die Gott-vermähl- ten Morgen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Каков предел? Каковы вехи? Каково (это) желанное?  
 Да устремимся мы (к нему), словно быстрые (кони) - к награде!  

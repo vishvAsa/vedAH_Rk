@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सिषास꣡तू रयीणां᳐꣡  
 वा꣡जेषु अ꣡र्वताम् इव  
 भ꣡रेषु जिग्यु꣡षाम् असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 भरे॑षु । जि॒ग्युषा॑म् । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *siṣāsatū* ← *siṣāsatu*
 - \[noun\], nominative, dual, masculine
@@ -73,7 +73,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम त्वं **भरेषु** संग्रामेषु **जिग्युषां** शत्रून् जयतां **रयीणां** धनानां **सिषासतुः** संभक्तुमिच्छुः **असि** भवसि । शत्रून् जयद्योत् धनानि प्रयच्छसीत्यर्थः । तत्र दृष्टान्तः। **वाजेषु** संग्रामेषु **अर्वतामिव** अश्वानामिव । यथा संग्रामं प्रविशद्भ्योऽश्वेभ्यो घासं प्रयच्छन्ति तद्वदित्यर्थः॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,12 +84,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 You desire to give wealth: siṣāsatuḥ; another interpretation treats this term as 3rd dual, 'they two desire wealth'; bhareṣu jigyuṣāmasi = you are on the side of the successful in battle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Desirous of winning riches, as of winning chargers at prize-contests, you are among those who are victorious in the raids.1274 IX. 48–49
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has a number of difficulties, both morphologically and syntactically. The most immediate is the first word siṣāsátū (Pp. rightly siṣāsátuḥ). Grassmann takes it as a nom. sg. m.
 
@@ -106,23 +106,23 @@ In any case, the vs. is problematic on several counts and I doubt that any of th
 .
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fain would they both win riches as in races of the steeds. In war  
      Thou art upon the conquerors' side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beide haben Reichtümer zu gewinnen gesucht: Du bist auf Seiten derer, die in den Beutezügen Sieger sind, wie auf Seiten der Rennpferde in den Preiskämpfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Preisverleiher bist du ja, wie für die Renner auf der Bahn, So für die Sieger in der Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

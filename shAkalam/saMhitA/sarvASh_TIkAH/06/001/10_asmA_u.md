@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡ उ ते म꣡हि महे꣡ विधेम  
 न꣡मोभिर् अग्ने समि꣡धोत꣡ हव्यइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ ते भद्रा꣡यां सुमतउ꣡ यतेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वेदी॑ । सू॒नो॒ इति॑ । स॒ह॒सः॒ । गीः॒ऽभिः । उ॒क्थैः । आ । ते॒ । भ॒द्राया॑म् । सु॒ऽम॒तौ । य॒ते॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -129,20 +129,20 @@ genre M
 हे अग्ने महे महते **अस्मै** **ते** तुभ्यं **महि** महत् अत्यधिकं **विधेम** परिचरेम। कैरित्युच्यते । **नमोभिः** नमस्कारैः **समिधा** वा **उत** अपि च **हव्यैः** हविर्भिः । हे **सहसः** **सूनो** **वेदी** वेद्यां **गीर्भिः** स्तोत्रैः **उक्थैः** शस्त्रैश्च विधेमेति संबन्धः । किंच **ते** तव **भद्रायां** स्तुत्यायां **सुमतौ** शोभनानुग्रहबुद्धौ आ **यतेम** आगच्छेम । भवमेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To you, mighty **Agni**, we offer exceeding adoration with prostrations, with fuel, with oblations; (we glorify you) on the altar, son of strength, with hymns and with prayers; may we be successful in our efforts (to gain) you auspicious favour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To you right here, the great one, great honor would we do, with acts of  homage, o Agni, with kindling wood, and with oblations,  
 with the altar, o son of strength, with hymns, with solemn words. May  we take our place in your auspicious benevolence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The doubling of the 2nd sg. enclitic te by init. asmaí, the here-and-now demonstrative, is somewhat unusual, though in the same general vein as táṃ tvā (2c, 6c, 7a).
 
@@ -151,23 +151,23 @@ Geldner and Renou (see also Klein I.329, Oberlies II.133) take védī as a loc.,
 Renou (see also Klein I.52, 71) take bhāsā́, śrávobhiś ca as a conjoined NP, with Renou putting immediately following śravasyàḥ into a separate syntagm (Klein doesn’t treat anything but the two nouns). Although ca does generally conjoin nominals, both the pāda break between the instrumentals and the etymological figure śrávobhiḥ … śravasyàḥ suggest that the two instr. belong with different parts of the clause.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mightily let us worship thee the Mighty, with reverence, Agni! fuel and oblations,  
      With songs, O Son of Strength, with hymns, with altar: so may we strive for thine auspicious favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, dem Großen, wollen wir darum eine große Huldigung bringen unter Verbeugung, o Agni, mit Brennholz und mit Opferspenden auf dem Altar, o Sohn der Kraft, mit Lobreden und Lobgedichten. Wir möchten in deiner glückbringenden Gunst eine Zuflucht finden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum wollen wir den hohen hoch dich ehren mit Brennholz, Agni, mit Gebet und Opfer; Mit Liedern, Sprüchen, Sohn der Kraft, am Altar lass fest in deiner lieben Huld uns wurzeln.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И тебя, такого великого, мы хотим величественно почитать  
 Поклонениями, о Агни, дровами (для костра), а также жертвами  

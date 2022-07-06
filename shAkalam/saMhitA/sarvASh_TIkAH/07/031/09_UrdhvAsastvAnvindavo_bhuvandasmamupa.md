@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्वा꣡सस् त्वा꣡नु इ꣡न्दवो  
 भु꣡वन् दस्म꣡म् उ꣡प द्य꣡वि  
 सं꣡ ते नमन्त कृष्ट꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सम् । ते॒ । न॒म॒न्त॒ । कृ॒ष्टयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvāsas* ← *ūrdhvāsaḥ* ← *ūrdhva*
 - \[noun\], nominative, plural, masculine
@@ -92,35 +92,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **उप** **द्यवि** द्युलोकसमीपे स्थितं **दस्मं** दर्शनीयं **त्वा** त्वाम् **अनु** उद्दिश्य **ऊर्ध्वासः** ऊर्ध्वाः **इन्दवः** अस्मदीयाः सोमाः **भुवन्** भवन्ति। **कृष्टयः** प्रजाश्च **ते** तुभ्यं **सं** **नमन्त** । भुवि सोमास्त्वदर्थमेव जायन्ते प्रजाश्च त्वामेव प्रणमन्तीतीन्द्रस्तुतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The ascending libations proceed, **Indra**, to you, abiding in heaven, of goodly aspect; men bow inreverence before you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The (soma) drops aloft in heaven come close to you, the wondrous one; the communities jointly bow to you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let the ascending drops attain to thee, the Wondrous God, in heaven:  
      Let all the folk bow down to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, dem Meister, sollen die zum Himmel aufsteigenden Somasäfte genügen. Die Völker sollen sich vor dir neigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es eilen dir die Indu's nach, am Himmel hoch dem kräftigen; Dich beten alle Stämme an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вздымающиеся вверх, к небу, соки сомы  
 Тебе, чудесному, идут на пользу.  

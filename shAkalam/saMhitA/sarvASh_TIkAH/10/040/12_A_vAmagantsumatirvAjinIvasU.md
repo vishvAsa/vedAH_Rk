@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वाम् अगन् सुमति꣡र् वाजिनीवसू  
 नि꣡ अश्विना हृत्सु꣡ का꣡मा अयंसत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रिया꣡ अर्यम्णो꣡ दु꣡रियाँ अशीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अभू॑तम् । गो॒पा । मि॒थु॒ना । शु॒भः॒ । प॒ती॒ इति॑ । प्रि॒याः । अ॒र्य॒म्णः । दुर्या॑न् । अ॒शी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -125,36 +125,36 @@ genre M
 हे वाजिनीवसू अन्नधनौ **शुभस्पती** उदकस्य स्वामिनौ हे **अश्विना** अश्विनौ **मिथुना** मिथुनौ परस्परं सहितौ **वां** युवां **सुमतिः** **आ** **अगन्** आगच्छतु । **हृत्सु** अस्मदीयेषु हृदयेषु **कामाः** अभिलाषा: **नि** अयंसत नियम्यन्ताम् । किंच युवां **गोपा** मम गोपयितारौ **अभूतं** भवतम् । अपि च **प्रियाः** सत्यो वयम् **अर्यम्णः** पत्युः **दुर्यान** गृहान् **अशीमहि** प्राप्नुयाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, rich in food, lords of water, twin (associates), may your good will devolve (upon us), may thedesires (of our hearts) be attained; you have been my protectors; may we, (being) beloved, attain the habitationof a husband.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your benevolence has come here, you Aśvins whose goods are prize  mares. Our desires have held themselves down firmly in our hearts,  Aśvins.  
 You have become the paired herdsmen, the two lords of beauty. Dear to  Aryaman, might we reach his porticos.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your favouring grace hath come, ye Lords of ample wealth: Asvins, our longings are stored up within your hearts.  
      Ye, Lords of splendour, have become our twofold guard: may we as welcome friends reach Aryaman's abode.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Gunst ist eingetroffen, ihr Reichbelohnende; die Wünsche sind euch ans Herz gelegt worden. Ihr wurdet ein Schützerpaar, ihr Gatten der Schönheit. Wir möchten als Geliebte in das Haus eines reichen Freiers gelangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu uns ist, o Gabenreiche, euer Wohlwollen gekommen; in euren Herzen, o Açvinen, wurzeln unsre Wünsche; ihr seid verzwillingte Hüter, o Herrn des Glanzes; als willkommene möchten wir zu Arjamans Wohnung gelangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пришла ваша милость, о богатые наградами,  
 Желания укоренились в сердцах, о Ашвины.  

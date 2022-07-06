@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ ते सु꣡ष्टुता ह꣡री  
 वृ꣡षणा वहतो र꣡थम्  
 अजुर्य꣡स्य मदि꣡न्तमं य꣡म् ई꣡महे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 अ॒जु॒र्यस्य॑ । म॒दिन्ऽत॑मम् । यम् । ईम॑हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -86,7 +86,7 @@ genre M;; line affected by realignment
 **उत** अपि च हे इन्द्र **सुष्टुता** शोभनं स्तुतौ वृषणौ कामानां वर्षितारौ **हरी** अश्वौ **अजुर्यस्य** जरारहितस्य **ते** तव **रथम्** इदानीं **वहतः** अस्मन्निकटं प्रापयतः । **मदिन्तमम्** अतिशयेन मदवन्तं **यं** त्वां धनम् **ईमहे** याचामहे तस्य त इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,29 +97,29 @@ genre M;; line affected by realignment
 Madintamam yam īmahe: madasvantam tvām dhanam, youexhilarated, wealth; wealth was it that was solicited; moreover your renowned and vigorous (or desire- showering)horses bring the chariot of you who are exempt from decay, you, the greatly exhilarated, whom we ask (forwealth), atiśayena madavantam yam tvām dhanam yācāmahe tasya ta ityanvayaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And your two well-praised bullish fallow bays pull your chariot  
 to (the soma) most exhilarating to (you) who do not age—for whom  we beg.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And thy two highIy-lauded Bays, strong stallions, draw thy car who art  
      Untouched by age, most gladdening car for which we pray.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und deine schöngepriesenen Falben, die bullenhaften, ziehen zum berauschendsten Soma deinen, des Alterlosen, Wagen, den wir herbitten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wann fährt der rothen Hengste Paar der preislichen, den Wagen dir, Dem ew'gen, den erfreuendsten? den wünschen wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А пара твоих прекрасно прославленных  
 Мощных буланых коней везет колесницу,  

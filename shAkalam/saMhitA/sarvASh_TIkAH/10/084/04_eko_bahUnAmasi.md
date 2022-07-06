@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡को बहूना꣡म् असि मन्यव् ईळितो꣡  
 वि꣡शं-विशं युध꣡ये सं꣡ शिशाधि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द्युम꣡न्तं घो꣡षं विजया꣡य कृण्महे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अकृ॑त्तऽरुक् । त्वया॑ । यु॒जा । व॒यम् । द्यु॒ऽमन्त॑म् । घोष॑म् । वि॒ऽज॒याय॑ । कृ॒ण्म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
@@ -128,37 +128,37 @@ popular
 हे **मन्यो** **ईळितः** स्तुतस्त्वम् **एकः** एव असहाय एव **बहूनां** शत्रूणाम् **असि** भवसि पर्याप्तो  हन्तुम् । अतः **विशंविशं** तां तामस्मद्विरोधिनीं प्रजां **युधये** युद्धाय **सं** **शिशाधि** सम्यक् । तीक्ष्णीकुरु । किंच हे **अकृत्तरुक्** अच्छिन्नदीप्ते **त्वया** **युजा** सहायेन **वयं** **द्युमन्तं** दीप्तिमन्तं **घोषं** सिंहनादवन्तं **विजयाय** विशिष्टजयार्थं **कृण्महे** कुर्मः ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are praised, **Manyu**, as (the conqueror) alone of many; animate us to contend with all men; withyyou, O you of unshorn radiance, for our ally, we raise aloud shout for victory.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You alone are reverently invoked by many, Battle Fury. Hone every clan  for battle.  
 O one of unbroken brilliance, with you as yokemate we raise our  
 heavenly cry for victory.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Alone or many thou art worshipped, Manyu: sharpen the spirit of each clan for battle.  
      With thee to aid, O thou of perfect splendour, we will uplift the glorious shout for conquest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einzig du bist von vielen angerufen, Manyu; mache jeden Clan zum Kampfe scharf! Von ungeteiltem Glanze du, mit dir im Bunde wollen wir hellen Schlachtruf erheben zum Siege.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du wirst, als einz'ger unter vielen, angefleht; begeistre du zum Kampf, o Manju, Stamm für Stamm; Mit dir vereinigt, dessen Glanz untilgbar ist, erheben wir zum Siege lauten Jubelsang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

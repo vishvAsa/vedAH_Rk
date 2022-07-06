@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रात꣡र् देवी꣡म् अ꣡दितिं जोहवीमि  
 मध्यं꣡दिन उ꣡दिता सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ई꣡ळे तोका꣡य त꣡नयाय शं꣡ योः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रा॒ये । मि॒त्रा॒व॒रु॒णा॒ । स॒र्वऽता॑ता । ईळे॑ । तो॒काय॑ । तन॑याय । शम् । योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prātar*
 - \[adverb\]
@@ -102,7 +102,7 @@ genre M
 अहमृषिः **प्रातः** प्रातःकाले **अदितिम्** अखण्डनीयां देवानां जननीं **देवीं** द्योतमानां **जोहवीमि** आह्वयामि । तथा **मध्यंदिने** **सूर्यस्य** **उदिता** उदितौ तत्समृद्धिकाले माध्यंदिने सवने जोहवीमि । हे **मित्रावरुणा** युवां **राये** धनप्राप्तये सर्वतातौ यज्ञे **ईळे** स्तौमि । पुनः किमर्थम् । **तोकाय** पुत्राय **तनयाय** तत्पुत्राय च **शम्** अरिष्टशमनाय **योः** सुखस्य मिश्रणाय चेळे इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,30 +113,30 @@ genre M
 The text is śaṃyoḥ = aṛṣṭaśamanāya sukhasya miśraṇāya ca, for the alleviation or prevention of calamity, and for the mixture or association of happiness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the early morning, at midday, and at the rising of the sun, again and  again I call upon the goddess Aditi  
 for wealth in its entirety, o Mitra and Varuṇa. I invoke (her) for kith and  kin, for luck and life.  
 752 V.70–71
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call at dawn on Aditi the Goddess, I call at noon and when the Sun is setting.  
      I pray, O Mitra-Varuna, for safety, for wealth and progeny, in rest and trouble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Am Morgen rufe ich die Göttin Aditi, am Mittag, bei Sonnenaufgang, um Reichtum euch vollzählig, Mitra und Varuna; ich flehe um Glück und Segen für den leiblichen Samen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich ruf' die Göttin Aditi am Morgen, zur Mittagszeit und bei der Sonne Weggang, Um Gut und Wohlfahrt, Varuna und Mitra; um Kind und Enkel, Heil und Segen fleh ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Утром громко зову я богиню Адити,  
 В полдень (и) на восходе солнца.  

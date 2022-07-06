@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ सो꣡मास आश꣡वो  
 र꣡था इव प्र꣡ वाजि꣡नः  
 स꣡र्गाः सृष्टा꣡ अहेषत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सर्गाः॑ । सृ॒ष्टाः । अ॒हे॒ष॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -80,41 +80,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एते** पूयमानाः **सोमासः** सोमाः **सृष्टाः** अध्वर्युणा आशवः दशापवित्रादधोगमने शीघ्राः **प्र** **अहेषत** प्रहेषन्ते । शीघ्रगमने दृष्टान्तद्वयम् । आजौ सृष्टाः शीघ्राः **रथाइव** तथोक्तलक्षणाः **वाजिनः** इव वेजनवन्तोऽश्वा इव॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These **Soma**-jices, when let out, neigh as they leap swiftly forth like chariots or rapid steeds let loose.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These swift soma juices have been propelled forward like prizewinning  chariots,  
 surges (of them) sent surging—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The preverb prá, which must be in tmesis from the verb aheṣata that ends the vs., is very oddly positioned -- in the middle of a pāda (one that doesn’t even contain the verb), not adjoining a metrical boundary. I have no explanation, though it may be based on a pāda like IX.64.4 ásṛkṣata prá vājínaḥ, also ending prá vājínaḥ, where the preverb immediately follows its verb, a permitted position.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THESE rapid Soma-streams have stirred themselves to motion like strong steeds,  
      Like cars, like armies hurried forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese schnellen Somasäfte sind wie die siegesgewohnten Wagen als abgelassene Renner vorwärts getrieben worden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon eilten diese Soma's hin, die schnellen, raschen Wagen gleich, Wie losgelassne Rennerschar,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти быстрые соки сомы,  
 Словно колесницы, приносящие награду,  

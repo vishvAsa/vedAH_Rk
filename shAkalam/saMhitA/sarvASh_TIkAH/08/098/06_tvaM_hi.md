@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ श꣡श्वतीना᳐म्  
 इ꣡न्द्र दर्ता꣡ पुरा꣡म् अ꣡सि  
 हन्ता꣡ द꣡स्योर् म꣡नोर् वृधः꣡ प꣡तिर् दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; 12 = 8+4
 ह॒न्ता । दस्योः॑ । मनोः॑ । वृ॒धः । पतिः॑ । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -97,7 +97,7 @@ genre M;; 12 = 8+4
 हे **इन्द्र** **त्वं** **शश्वतीनां** बह्वीनां **पुरां** शत्रुनगरीणां **दर्ता** **असि** दारयिता भवसि । किंच **दस्योः** उपक्षपयितुरसुरस्य **हन्ता** असि घातको भवसि । **मनोः** मनुष्यस्य यागादिकं कुर्वतः **वृधः** वर्धकश्चासि । **दिवः** स्वर्गस्यापि **पतिः** ईश्वरोऽसि ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,29 +108,29 @@ genre M;; 12 = 8+4
 Fosterer of man: manoḥ = the man who offers sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, Indra, are the splitter of each and every stronghold,  
 the smiter of the Dasyu, the strengthener of Manu—as lord of heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou art he, O Indra, wiio stormeth all castles of the foe,  
      Slayer of Dasyus, man's Supporter, Lord of Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, bist ja der Zerstörer all der vielen Burgen, der Erleger des Dasyu, der Förderer des Manu, des Himmels Herr.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du, o Indra, bist es, der die Burgen allesammt zerbricht, Des Bösen Feind, des Menschen Hort, des Himmels Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты ведь, о Индра  
 Проломитель всех крепостей.  

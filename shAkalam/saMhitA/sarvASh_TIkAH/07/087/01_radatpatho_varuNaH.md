@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡दत् पथो꣡ व꣡रुणः सू꣡रियाय  
 प्र꣡ अ꣡र्णांसि समुद्रि꣡या नदी꣡नाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 चका꣡र मही꣡र् अव꣡नीर् अ꣡हभ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सर्गः॑ । न । सृ॒ष्टः । अर्व॑तीः । ऋ॒त॒ऽयन् । च॒कार॑ । म॒हीः । अ॒वनीः॑ । अह॑ऽभ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *radat* ← *rad*
 - \[verb\], singular, Present injunctive
@@ -118,7 +118,7 @@ genre M
 अयं **वरुणः** देवः **सूर्याय** सर्वस्य प्रेरकायादित्याय **पथः** मार्गानन्तरिक्षप्रदेशान् **प्र** **रदत्** प्रायच्छत् । **समुद्रिया** समुद्र उदधौ भवानि । यद्वा। समुद्भवन्त्यस्मादाप इति समुद्रमन्तरिक्षम् । तत्र भवानि । **अर्णांसि** उदकानि **नदीनां** प्रासृजत् । **सर्गो** **न** । सृज्यते युद्धभूमौ सादिना प्रेर्यत इति सर्गोऽश्वः । स यथा **अर्वतीः** वडवाः प्रति शीघ्रं गच्छति तद्वत् **ऋतायन्** ऋतं शीघ्रं गमनमात्मन इच्छन् **महीः** महतीः **अवनीः** रात्रीः **अहभ्यः** अहोभ्यः सकाशात् **चकार** भेदेन कृतवान् । अस्तं गच्छन् सूर्य एव वरुण इत्युच्यते । स हि स्वगमनेन रात्रीर्जनयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre M
 He divided: varuṇa = the setting sun, by whose departure day ends and night begins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Varuṇa dug the paths for the sun. Forward (went) the floods of rivers to  the sea,  
 (those) mares, like a surge sent surging, following the truth. He made  great streambeds for the days.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 VARUNA cut a pathway out for Surya, and led the watery floods of rivers onward.  
      The Mares, as in a race, speed on in order. He made great channels for the days to follow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Varuna zeichnet der Sonne die Wege vor, er ließ die zum Meer gehenden Fluten der Ströme laufen wie ein abgelassenes Rennen die Rennstuten, den rechten Weg einhaltend. Er hat den Tagen die großen Bahnen gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sonne bahnte Varuna die Pfade und liess zum Meer die Stromesfluten rinnen; Wie Reis'ge eilend ihre Stuten lenken, so schuf den Tagen er die grossen Bahnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Варуна проложил пути солнцу.  
 Он вы(пустил) потоки рек, впадающих в море,  

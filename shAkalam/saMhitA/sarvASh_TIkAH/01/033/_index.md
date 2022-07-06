@@ -14,7 +14,7 @@ title = "+033"
 अथ तृतीयाध्याय आरभ्यते । ‘त्वमग्ने प्रथमः' इति सप्तमानुवाके पञ्च सूक्तानि । तत्र ‘एतायाम इति तृतीयं सूक्तं पञ्चदशर्चम् । ऋषिश्चान्यस्मात् ' इति परिभाषया आङ्गिरसो हिरण्यस्तूप ऋषिः । अनुक्तत्वात् इन्द्रो देवता । त्रिष्टुप् छन्दः । एत । इत्यनुक्रमणिका । गोसववीवधयोर्निष्केवल्ये  ‘ एतायाम' इति सूक्तं विनियुक्तम् । तथा च सूत्रितम् ‘अतिमूर्तिना यक्ष्यमाणः' इति खण्डे --- ‘ गोसववीवधौ पशुकाम इन्द्र सोममेतायामेति मध्यंदिनः ' ( आश्व. श्रौ. ९. ८) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 33  
 Indra  
@@ -28,7 +28,7 @@ After this substantial and sustained treatment of this dramatic human conflict a
 ing Vr̥tra, in verse 11, and by name in verse 13. Other enemies are defeated in verse 12,  including one, with the curious name Ilībiśa, known only from here, and other clients  are aided in verses 14–15. The final half-verse of 15 may return to the massed enemies  of the central part of the hymn, though that view cannot be strongly supported.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

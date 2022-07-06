@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरुत्रा꣡ हि꣡ सदृ꣡ङ्ङ् अ꣡सि  
 वि꣡शो वि꣡श्वा अ꣡नु प्रभुः꣡  
 सम꣡त्सु त्वा हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 स॒मत्ऽसु॑ । त्वा॒ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purutrā*
 - \[adverb\]
@@ -85,37 +85,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे अग्ने त्वं **हि** यतः **प्रभु** प्रभुः । सुलोपश्छान्दसः । **पुरुत्रा** बहुषु प्रदेशेषु **विश्वाः** सर्वाः **विशः** प्रजाः **अनु** **सदृङ्** समानदर्शी **असि** अतः **त्वा** त्वां **समत्सु** संग्रामेषु **हवामहे** ह्वयामः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are the lord, you behold all people alike in many plural ces; we therefore invoke you in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you are of the same aspect in many places, preeminent  
 throughout all the clans,  
 in combats we call upon you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In many a place, the same in look art thou, a Prince o'er all the tribes  
      In battles we invoke thine aid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn vielerorts bist du der Gleiche, unter allen Stämmen der Herr. In den Kämpfen rufen wir dich an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist der gleiche hier und dort bei allen Menschen, mächtiger; In Schlachten rufen wir dich an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хоть (ты) во многих местах, (но везде) одинаков,  
 Повелевая всеми племенами.  

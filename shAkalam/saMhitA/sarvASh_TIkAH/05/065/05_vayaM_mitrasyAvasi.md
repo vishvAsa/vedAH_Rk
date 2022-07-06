@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वय꣡म् मित्र꣡स्य अ꣡वसि  
 सिया꣡म सप्र꣡थस्तमे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सत्रा꣡ व꣡रुणशेषसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒ने॒हसः॑ । त्वाऽऊ॑तयः । स॒त्रा । वरु॑णऽशेषसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -80,7 +80,7 @@ genre M
 **वयं** यजमानाः **मित्रस्य** दुःखनिवारकस्य देवस्य **सप्रथस्तमे** सर्वतः पृथुतमे **अवसि** रक्षणे वयं **स्याम** भवेम । किंच **अनेहसः** अपापाः **त्वोतयः** त्वया रक्षिताः **वरुणशेषसः**। शेष इत्यपत्यनाम । वारकाः पुत्रा येषां ते । तादृशाः **सत्रा** वयं सर्वे सहैव भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,29 +91,29 @@ genre M
 Varuṇaśeṣaḥ: **śeṣa** = **apatya**, offspring
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Blameless, helped by you, we would be completely within the most  extensive help  
 of Mitra, whose complement is Varuṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In Mitra's shelter that extends to utmost distance may we dwell,  
 Unmenaced, guarded by the care, ever as sons of Varuṇa.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen in dem weitreichendsten Schutze des Mitra sein, ohne Fehl, von dir beschützt, allesamt im Schutze der Mutter des Varuna.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir mögen unter Mitra's Schutz, dem ausgedehntesten, bestehn, Von dir behütet sündenlos, Varuna's Kinder allesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будем мы у Митры  
 В величайшей милости,  

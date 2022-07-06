@@ -6,14 +6,14 @@ ChandaH = "पुरउष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भर꣡द्वाजाय अ꣡व धुक्षत द्विता꣡  
 धेनुं꣡ च विश्व꣡दोहसम्  
 इ꣡षं च विश्व꣡भोजसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 धे॒नुम् । च॒ । वि॒श्वऽदो॑हसम् । इष॑म् । च॒ । वि॒श्वऽभो॑जसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bharadvājāyāva* ← *bharadvājāya* ← *bharadvāja*
 - \[noun\], dative, singular, masculine
@@ -88,19 +88,19 @@ genre M
 हे मरुतः **भरद्वाजाय** अस्मद्भ्रात्रे **द्विता** द्वितयम् अव **धुक्षत** । किं तत् द्वितयम् । **धेनुं** **च** गां च **इषं** **च** अन्नं च । कीदृशीं धेनुम् । **विश्वदोहसं** विश्वस्य व्याप्तस्य बहुलस्य दोग्ध्रीम् । कीदृशमन्नम् । **विश्वभोजसं** सर्वेषां भोगपर्याप्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Milk for **Bharadvāja** the twofold (blessing), the cow that gives milk to the universe, food that is sufficient for all.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Bharadvāja, once again, milk both a milk-cow yielding all milk and refreshment yielding all nourishment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner I take dhukṣata, identical save for the accent to dhúkṣata in 12b, as a 2nd pl. act. impv., not a 3rd sg. mid. injunc. In a n. (13a) Geldner allows the possibility of the latter analysis, which would produce the paradox that a cow is milking a cow.
 
@@ -118,23 +118,23 @@ On these three vss., see published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Bharadvaja she poured down in days of old  
      The milch-cow yielding milk for all, and food that gives all nourishment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Bharadvaja melket abermals die allen Milch gebende Kuh und allspeisende Nahrung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Bharadvadscha ströme sie zwiefach zu: die Kuh, die alles Gute strömen lässt, und den Labetrunk, der alle nährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Бхарадваджи она всегда дает подоить  
 И дойную корову, исполняющую все (желания),  

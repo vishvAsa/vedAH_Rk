@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जान꣡न्तो रूप꣡म् अकृपन्त वि꣡प्रा  
 मृग꣡स्य घो꣡षम् महिष꣡स्य हि꣡ ग्म꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद꣡द् गन्धर्वो꣡ अमृ꣡तानि ना꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तेन॑ । यन्तः॑ । अधि॑ । सिन्धु॑म् । अ॒स्थुः॒ । वि॒दत् । ग॒न्ध॒र्वः । अ॒मृता॑नि । नाम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jānanto* ← *jānantaḥ* ← *jñā*
 - \[verb noun\], nominative, plural
@@ -124,7 +124,7 @@ genre M
 **विप्राः** मेधाविनः स्तोतारोऽस्य वेनस्य **रूपं** **जानन्तः** **अकृपन्त** स्तुवन्ति । कृपतिः स्तुतिकर्मा । कथमस्य रूपं जानन्तीत्यत आह । **मृगस्य** अन्वेषणीयस्य **महिषस्य** । महन्नामैतत् । महतो वेनस्य **घोषं** गर्जितलक्षणं मेघस्थं शब्दं **हि** यस्मात् **ग्मन्** अभिगच्छन्ति अतस्तदीयं रूपं जानन्तीत्यर्थः ॥ गमेश्छान्दसे लङि • बहुलं छन्दसि ' इति शपो लुक् । 'गमहन' इत्युपधालोपः।  ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' ( पा. सू. ६. ४. ७५) इत्यडभावः । अपि च **ऋतेन** सत्यभूतेन स्तोत्रेण यज्ञेन वा **यन्तः** तं वेनं गच्छन्तः प्राप्नुवन्तो जनाः **सिन्धुं** स्यन्दनशीलं जलसमूहम् **अधि** **अस्थुः** अधितिष्ठन्ति । तेषां स वेनो वृष्टिं करोतीत्यर्थः । तत्र किं कारणमिति चेत् यतोऽयं **गन्धर्वः** गवामुदकानां धर्ता वेनः **अमृतानि** अमरणहेतुभूतानि **नाम**। उदकनामैतत् । नमनशीलानि उदकानि **विदत्** वेद जानाति । तस्य वशे वर्तन्त इत्यर्थः । अतस्तद्भक्तानां वृष्टिः सुलभा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 Great deer: i.e., **Vena**, whose cry is the thunder; sustainer of the waters: **gandharva**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Recognizing his form, the inspired poets longed (for him). Because they  came toward the cry of the wild buffalo,  
 approaching with truth they mounted onto the stream. The Gandharva  found the immortal names.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Knowing his form, the sages yearned to meet him: they have come nigh to hear the wild Bull's bellow.  
      Performing sacrifice they reached the river: for the Gandharva found the immortal waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine Gestalt erkennend verlangten die Redekundigen nach ihr, denn sie stimmten ein in das Gebrüll des Büffeltieres. Auf rechtem Wege gehend haben sie den Sindhu bestiegen. Der Gandharva fand die unsterblichen Namen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sänger flehten, die Gestalt erkennend, hineilend zu des wilden Büffels Donnern, Mit Opfer kommend traten zu dem Strom sie; denn der Gandharve fand die Himmelswasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зная (его) облик, вдохновенные страстно стремились (к нему):  
 Ведь они шли на рев дикого буйвола.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ श्रयन्ताम् ऋतावृ꣡धः  
 प्रयइ꣡ देवे꣡भियो महीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 द्वा꣡रो देवी꣡र् असश्च꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 पा॒व॒कासः॑ । पु॒रु॒ऽस्पृहः॑ । द्वारः॑ । दे॒वीः । अ॒स॒श्चतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -87,7 +87,7 @@ genre M;; repeated line
 **द्वारो** **देवीः** यज्ञस्य द्वाराभिमानिन्यो देवताः **वि** **श्रयन्तां** विविधं श्रयन्तु विवृता भवन्तु । किमर्थम् । **देवेभ्यः** **प्रयै** प्रयातुं देवानां प्रापणाय ॥ ' प्रयै रोहिष्यै अव्यथिष्यै '(पा. सू. ३. ४. १०) इति निपातितः ॥ कीदृश्यस्ताः । **ऋतवृधः** यज्ञस्य वर्धयित्र्यः पूज्याः **महीः** महत्यः **पावकासः** शोधयित्र्यः **पुरुस्पृहः** बहुस्पृहणीयाः **असश्चतः** असज्यमानाः । परस्परविप्रकृष्टा इत्यर्थः ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,34 +100,34 @@ The hymn is addressed to the divinities presiding over th e doors of the chamber
 Asaścata = not adhering together, mutually separable; asajyamāna-**paraspara** **viprakṛṣṭa**, perhaps folding-doors of wide or open doors
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let them gape open—the great ones who increase through truth—for the  gods to come forth:  
 the purifying, much-desired, inexhaustible Divine Doors.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thrown open be the Doors Divine, unfailing, that assist the rite,  
      High, purifying, much-desired, so that the Gods may enter in.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 May the divine doors open themselves, the increasers of Rita, the never sticking, large ones, the purifying, much-desired (doors), that the gods may come forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die göttlichen Tore sollen sich zum Eintritt für die Götter auftun, die Stärker des Gesetzes, die großen, lauteren, vielbegehrten, unerschöpflichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götterthore mögen sich weit öffnen für den Götterzug, Die heiligen, die flammenden, die vielbegehrten, herrlichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть раскроются умножающие (вселенский) закон, -  
 Чтобы боги могли пройти – великие  

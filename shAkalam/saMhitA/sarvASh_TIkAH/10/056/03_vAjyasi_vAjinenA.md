@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वाजी꣡ असि वा꣡जिनेना सुवेनीः꣡  
 सुवित꣡ स्तो꣡मं सुवितो꣡ दि꣡वं गाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवितो꣡ देवा꣡न् सुवितो꣡ ऽनु प꣡त्म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 सु॒वि॒तः । धर्म॑ । प्र॒थ॒मा । अनु॑ । स॒त्या । सु॒वि॒तः । दे॒वान् । सु॒वि॒तः । अनु॑ । पत्म॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
@@ -114,36 +114,36 @@ genre D
 हे पुत्र त्वं **वाजिनेन** अन्नरसेन बलेन वा **वाज्यसि** तद्वान् भवसि । कीदृशस्त्वम् । **सुवेनीः** सुष्ठु कान्तः । वी गत्यादिषु । तादृशस्त्वं **सुवितः** सुष्ठु प्रेरितस्त्वं **स्तोमं** पूर्वं त्वया कृतं स्तोत्रं तदभिमानिदेवम् **अनु** **गाः** अन्वगा: अनुगच्छ । तथा **सुवितो** **दिवं** गाः । तथा **सुवितो** **धर्मं** त्वया संपादितानि धर्माण्यनुगच्छ । कीदृशानि । **प्रथमा** मुख्यानि **सत्या** सत्यफलानि । तथा **सुवितो** **देवान्** इन्द्रादीन् । तथा **सुवितः** **पत्म** पतज्ज्योतिरादित्याख्यम् **अनु** गाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are, **Vājin**, (strong) through food; you (are) well-beloved; urged thereto follow (the object of your)praise; urged thereto proceed to heaven; urged thereto pursue the duties that are the most important and sure ofreward; urged thereto follow the gods; urged thereto follow (the light), descending (from heaven).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the prizewinner with a winning spirit. You are well gone to  the (dawns?), the good trackers, well gone to the praise, well gone to  heaven,  
 well gone according to the foremost foundations that hold true, well  gone to the gods, well gone along your flight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong Steed art thou: go to the yearning Maidens with vigour, happily go to heaven and praises:  
      Fly happily to the Gods with easy passage, according to the first and faithful statutes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist ein sieghafter Renner an Siegeskraft; gelange zu den schönen Geliebten, in glücklicher Fahrt den ersten gültigen Bestimmungen gemäß, in glücklicher Fahrt zu den Göttern, in glücklicher Fahrt auf deinem Fluge!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Held bist du an Heldenkraft, nun schreite zu holden Fraun, zum Loblied, zu dem Himmel, Schön schreitend nach den ersten wahren Rechten zu Göttern schön, dem Flug des Windes folgend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты скакун по силе побеждать, с прекрасно заплетенным хвостом (?),  
 Мчись успешно к хвале, успешно к небу,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो ग꣡व्यानि अ꣡श्विया  
 सह꣡स्रा शूर दर्दृहि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं यय꣡ दिवावसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दि॒वः । अ॒मुष्य॑ । शास॑तः । दिव॑म् । य॒य । दि॒वा॒व॒सो॒ इति॑ दिवाऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -95,36 +95,36 @@ genre M;; repeated line
 हे **शूर** इन्द्र त्वं **नः** अस्मभ्यं **सहस्रा** सहस्राणि सहस्रसंख्यानि **गव्यानि** गोहितानि गोरूपाणि वा अश्व्यानि अश्वहितान्यश्वात्मकानि वा **आ** **ददृहि** आविवृणु । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us, hero, thousands of herds of cattle and horses; do you, ruling yonder heaven, Oradiant with oblations, return here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here—keep breaking out for us bovine and equine (wealth) in  
 thousands, o champion,  
 o you who bring goods by day—(though) you (other gods), who impose  order over yonder heaven, have driven off to heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Disclose to us O Hero, wealth in thousands both of kine and steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schlag uns, o Held, Tausende von Rindern und Rossen heraus! - Über jenen Himmel herrschend seid ihr ja in den Himmel gegangen, o Divavasu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erschliess, o Held, uns den Besitz von Tausenden an Ross und Rind; Von jenes Herrschers Himmel kamt ihr zu dem Feste tageshell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выбей для нас, о герой,  
 Обладание тысячами коров и коней!  

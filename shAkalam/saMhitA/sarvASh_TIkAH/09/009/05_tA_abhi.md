@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ अभि꣡ स꣡न्तम् अ꣡स्तृतम्  
 महे꣡ यु꣡वानम् आ꣡ दधुः  
 इ꣡न्दुम् इन्द्र त꣡व व्रते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दु॑म् । इ॒न्द्र॒ । तव॑ । व्र॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
@@ -95,19 +95,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **तव** त्वदीये **व्रते** कर्मणि **ताः** अङ्गुल्यः । पूर्वत्र धीतिभिः इत्यङ्गुलीनामुपात्तत्वात् तच्छब्देन परामर्शः । **सन्तं** विद्यमानम् **अस्तृतम्** अहिसितं **युवानं** नित्यतरुणम् **इन्दुं** सोमं **महे** महतेऽभिषवादिलक्षणाय कर्मणे **अभि** **आ** **दधुः** ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, at your worship, they (the fingers) have provided the present, indestructible, and ever-youthful **Indu**, for your solemn service.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They installed the youth as dominating and indestructible for the great; they installed the drop, Indra, under your commandment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents the same problem as 4c: because of init. tā́ḥ, nom. pl. fem., the subject of ā́dadhuḥ has to be feminine, and there are several pl. feminines in play: the “insightful thoughts” (dhītí-) of 4a and the rivers (nadī́-) of 4b. But which one (or both)? In any case, presumably the subjects of 4c and 5 are the same -- though Sāyaṇa opts for “fingers” in this vs. but “rivers” in 4c.
 
@@ -124,23 +124,23 @@ As noted in the published introduction, I consider this an omphalos hymn, with v
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These helped to might theYouthful One, high over all, invincible,  
      Even Indu, Indra! in thy law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese haben den überlegenen, nie zu Fall gebrachten Jüngling zu großer Kraft gebracht, den Saft in deinem Dienste Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indu strömten, Indra, sie, den siegenden zu deinem Dienst Den jungen dir dem alten zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Превосходящего (всех), необоримого юношу  
 Они привели к великому (состоянию):  

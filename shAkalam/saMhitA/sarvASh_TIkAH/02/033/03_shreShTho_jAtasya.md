@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रे꣡ष्ठो जात꣡स्य रुदर+ श्रिया꣡सि  
 तव꣡स्तमस् तव꣡सां वज्रबाहो  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वा अभी꣡ती र꣡पसो युयोधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पर्षि॑ । नः॒ । पा॒रम् । अंह॑सः । स्व॒स्ति । विश्वाः॑ । अ॒भिऽइ॑तीः । रप॑सः । यु॒यो॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śreṣṭho* ← *śreṣṭhaḥ* ← *śreṣṭha*
 - \[noun\], nominative, singular, masculine
@@ -121,48 +121,48 @@ genre M
 हेरुद्र जातस्योत्पन्नस्यसर्वस्यजगतोमध्ये श्रियाऎश्वर्येणश्रेष्ठः प्रशस्यतमोसि भवसि तथा हेवज्र- बाहो आयुधहस्तरुद्र तवसां प्रव्रुद्धानाम्मध्येतवस्तमः अतिशयेनप्रवृद्धोसि सत्वं नोस्मान् अंहसः पापस्य पारन्तीरं स्वस्तिक्षेमेणपर्षिपारय तथा रपसः पापस्य विश्वाः सर्वाः अभीतीरभिगमनानि- युयोधिपृथक्कुरु यौतेश्छान्दसःशपःश्लुः वाछन्दसीत्यपित्त्वस्यविकल्पनात् ङित्त्वाभावे अङितश्चे- तिहेर्धिः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Rudra**, are the chief of beings in glory; you, wielder of the thunderbolt, are the might of themighty; do you waft us in safety over (the ocean) of sin; repel all the assaults of iniquity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In glory you are the most glorious of anyone born, Rudra, the most  powerful of the powerful, o you with the mace in your arms.  
 Take us across to the far shore of distress, to well-being. Keep away all  assaults of malady.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the only occurrence of sg. vájra-bāhu- that doesn’t qualify Indra.
 
 (The only non-sg. form is dual vajra-bāhū addressed to Indra and Agni in I.109.7.) I do not know why Rudra is thus identified here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Chief of all born art thou in glory, Rudra, armed with the thunder, mightiest of the mighty.  
      Transport us over trouble to well-being repel thou from us all assaults of mis. chief.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Of what is born thou art the chief in glory, Armed with the thunder, mightiest of the mighty. Transport us to the farther shore of trouble In safety; frustrate all attacks of mischief.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist an Herrlichkeit der Herrlichste alles Geborenen, der Stärkste der Starken, du Keulenträger Rudra. Führ uns Heil an das Ende der Not, wehre alle Anfälle von Gebreste ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist an Schönheit schönster der gebornen, den Blitz im Arm, der starken stärkster, Rudra; Zum Heile führ' uns über die Gefahren und halte fern den Anlauf jeder Krankheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из (всего), что рождено, о Рудра, ты самый блистательный (своим) блеском,  
 Самый сильный из сильных, о ты, с ваджрой в руке.  

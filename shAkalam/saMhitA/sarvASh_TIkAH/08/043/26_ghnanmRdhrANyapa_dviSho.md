@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घ्न꣡न् मृध्रा꣡णि अ꣡प द्वि꣡षो  
 द꣡हन् र꣡क्षांसि विश्व꣡हा  
 अ꣡ग्ने तिग्मे꣡न दीदिहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । ति॒ग्मेन॑ । दी॒दि॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghnan* ← *han*
 - \[verb noun\], nominative, singular
@@ -82,37 +82,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** त्वं **मृध्राणि** हिंसकान् **द्विषः** द्वेष्टॄन् **अप** **घ्नन्** हिंसन् **विश्वहा** सर्वदा **रक्षांसि** च **दहन्** **तिग्मेन** तीक्ष्णेन तेजसा **दीदिहि** दीप्यस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slaying the malignant (driving away) our enemies everywhere consuming the **rākṣasas**, do you, Agniblaze forth with bright (radiance).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Smashing away insults and hatreds, burning demonic forces  
 everywhere,  
 Agni, shine with your sharp (flame).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Slaying things deadly, burning up foes, Riksasas, on every side,  
      Shine, Agni, with thy sharpened flame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Zurücksetzungen, die Anfeindungen abwehrend, die Unholde allezeit verbrennend, leuchte, Agni, mit scharfer Flamme!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fortschlagend Schmäher, fort den Feind, Gespenster brennend überall, O Agni, strahl mit heller Glut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Уничтожая враждебные силы, проявления ненависти,  
 Сжигая ракшасов каждый день,  

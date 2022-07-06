@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युधे꣡न्द्रो मह्ना꣡ व꣡रिवश् चकार  
 देवे꣡भियः स꣡त्पतिश् चर्षणिप्राः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡प्रा उक्थे꣡भिः कव꣡यो गृणन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 वि॒वस्व॑तः । सद॑ने । अ॒स्य॒ । तानि॑ । विप्राः॑ । उ॒क्थेभिः॑ । क॒वयः॑ । गृ॒ण॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yudhendro* ← *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
@@ -122,7 +122,7 @@ genre M
 सत्पतिः सतां देवानां पतिश्चर्षणिप्राश्चर्षणीनां मनुष्याणामपेक्षितफलप्रदानेन कामपुरकः स इन्द्रो मह्ना महता युधा युद्धेन वरिवः । भृशं व्रियतेऽर्थिभिरिति वरिवो धनम् । तादृशं धनं युद्धेन लब्ध्वा देवेभ्यो देवनशीलेभ्यः स्तोतृभ्यश्चकार । दत्तवान् । विप्रा मेधाविनः कवयः स्तोतारो विवस्वतो विशेषेणाग्निहोत्रादिकर्मार्थे वसतो यजमानस्य सदने गृहेऽस्येन्दस्य तानि व्रुत्रहननबहुप्रदानानि कर्माण्य्क्थेभिः स्तोत्रैर्गृणन्ति । स्तुवन्ति ॥ युधा । युध सम्प्रहारे । भावे सम्पदादिलक्षणः क्विप् । सावेकाच इति विभक्तेरुदात्तता । वरिवः । वृञ् वरण इत्यस्य यङ् लुकि ऋतश्चेत्यभ्यासस्य रिगागमः । तदन्तादसुन् । बाहुलकाट्टिलोपः । नित्स्वरः । चकार । करोतेर्लिटि रूपम् । निघातः । सत्पतिः । अस्तेः शरति रूपं सदिति । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरत्वम् । चर्षणिप्राः । प्रा पुरणे । विच् । विवस्वतः । विपूर्वाद्वस निवास इत्यस्मात्सम्पदादिलक्षणणो भावे क्विप् । तदस्यास्त्यस्मिन्निति मतुप् । मादुपधाया इति तस्य वत्वम् । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः । गृणन्ति । गृ शब्द इत्यस्य लिटि रूपम् । निघातः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,28 +133,28 @@ genre M
 To the gods: devebhyaḥ = stotrebhyaḥ, to the praisers or worshippers; in the dwelling of the worshipper: **vivasvataḥ** sadane: vivasvataḥ = of whom dwelling vasataḥ, where various (vi) religious rites are performed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through combat Indra with his greatness created a wide realm for the  gods, he the master of settlements, filling the bordered domains. At the seat of Vivasvant [=ritual ground] these (deeds) of his do the  inspired poets, the sage poets sing with their hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the brave, Indra who rules the people gave freedom to the Gods by might and battle.  
      Wise singers glorify with chanted praises these his achievements in Vivasvan's dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch Kampf hat Indra mit Macht den Göttern Freiheit verschafft, der wahre Gebieter, der die Länder erfüllt. Am Sitze des Opferers preisen beredte Seher das alles von ihm mit Lobliedern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Kampf schuf Indra freie Bahn gewaltig den Göttern er, der Held, der Völkersegner; Im Sitz des Morgenfeuers preisen Dichter mit Liedern weise diese seine Thaten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Борьбою, мощью создал Индра широкий простор  
 Богам, (он,) истинный господин, насыщающий народы.  

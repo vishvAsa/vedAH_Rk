@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ गीर्भि꣡र् वाचमीङ्खय꣡म्  
 पुनानं꣡ वासयामसि  
 सो꣡मं ज꣡नस्य गो꣡पतिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोम॑म् । जन॑स्य । गोऽप॑तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -74,7 +74,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **तं** सोमं **गीर्भिः** स्तुतिवाग्भिः स्तौमीति शेषः । किंच **वाचमीङ्खयं** वाचः प्रेरयितारं **पुनानं** पूयमानं तं **सोमं** **वासयामसि** वासयामः श्रयणद्रव्यैः । कीदृशं सोमम् । **जनस्य** **गोपतिं** गवां पालकम् । यद्वा । एकमेव वाक्यम् । उक्तविशेषणविशिष्टं सोमं स्तुतिभिर्वासयाम इति । माधवस्तु वाचमिति पृथक्पदं तिङन्तं कृत्वा वाक्यद्वयं चकार ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,34 +85,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 '**Mādhava**, however, takes vācam as a separate word and as a verb, and divides the line into two sentences'. He would explain it, 'I address him with praises; we cover (with milk, etc.) Soma who is the purified inspirer, the cow-keeper of men'. The shepherd of men: liṭ, the herdsman of men, janasya gopatim
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him who sets speech to swaying do we clothe with songs as he is being  purified—  
 Soma, the herdsmaster of the people.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Reprise of the -īṅkhayá- cmpd from 2a. vācam-īṅkhayá- occurs once elsewhere, in IX.101.6, where it modifies samudráḥ, which is the first member of the cmpd in our vs. 2, a small web of formulaic associations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mover of speech, we robe him with our songs as he is purified  
      Soma, the Guardian of the folk;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, der die Rede hin und her bewegt, decken wir mit Lobesworten zu, während er sich läutert, den Soma, den Herrn des Volks.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Liedern schmücken wir ihn aus, der Sang erregt, den Flammenden, den Soma, ihn des Volkes Herrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिरण्यगर्भः꣡ स꣡म् अवर्तता꣡ग्रे  
 भूत꣡स्य जातः꣡ प꣡तिर् ए꣡क आसीत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡स्मै देवा꣡य हवि꣡षा विधेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । दा॒धा॒र॒ । पृ॒थि॒वीम् । द्याम् । उ॒त । इ॒माम् । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyagarbhaḥ* ← *hiraṇya*
 - \[noun\], neuter
@@ -138,7 +138,7 @@ popular
 **हिरण्यगर्भः** हिरण्मयस्याण्डस्य गर्भभूतः प्रजापतिर्हिरण्यगर्भः। तथा च तैत्तिरीयकं -- ‘ प्रजापतिर्वै हिरण्यगर्भः प्रजापतेरनुरूपत्वाय ' ( तै. सं. ५, ५. १. २) इति । यद्वा हिरण्मयोऽण्डो गर्भवद्यस्योदरे वर्तते सोऽसौ सूत्रात्मा हिरण्यगर्भ इत्युच्यते । **अग्रे** प्रपञ्चोत्पत्तेः प्राक् **समवर्तत** । मायाध्यक्षात सिसृक्षोः परमात्मनः समजायत । यद्यपि परमात्मैव हिरण्यगर्भः तथापि तदुपाधिभूतानां वियदादीनां ब्रह्मण उत्पत्तेस्तदुपहितोऽप्युत्पन्न इत्युच्यते । स च **जातः** जातमात्र एव **एकः** अद्वितीयः सन् **भूतस्य** विकारजातस्य ब्रह्माण्डादेः सर्वस्य जगतः **पतिः** ईश्वरः आसीत् । न केवलं पतिरासीदेव अपि तर्हि **सः** हिरण्यगर्भः **पृथिवीं** विस्तीर्णां **द्यां** दिवम् **उत** अपि च **इमाम्** अस्माभिर्दृश्यमानां पुरोवर्तिनीमिमां भूमिम् । यद्वा पृथिवीत्यन्तरिक्षनाम। अन्तरिक्षं दिवं भूमिं च **दाधार** धारयति ॥  ‘ छन्दसि लुङ्लङ्लिटः' इति सार्वकालिको लिट् । तुजादित्वादभ्यासदीर्घः ॥ **कस्मै** । अत्र किंशब्दोऽनिर्ज्ञातस्वरूपत्वात् प्रजापतौ वर्तते । यद्वा । सृष्ट्यर्थं कामयत इति कः । कमेर्डप्रत्ययः । यद्वा । कं सुखम् । तद्रूपत्वात् क इत्युच्यते । अथवा इन्द्रेण पृष्टः प्रजापतिर्मदीयं महत्त्वं तुभ्यं प्रदायाहं कः कीदृशः स्यामित्युक्तवान् । स इन्द्रः प्रत्यूचे यदीदं ब्रवीष्यहं कः स्यामिति तदेव त्वं भवेति । अतः कारणात् क इति प्रजापतिराख्यायते । ‘इन्द्रो वै वृत्रं हत्वा सर्वां विजितीर्विजित्याब्रवीत् ' ( ऐ. ब्रा. ३.२१ ) इत्यादिकं ब्राह्मणमत्रानुसंधेयम् ॥ यदासौ किंशब्दस्तदा सर्वनामत्वात् स्मैभावः सिद्धः । यदा तु यौगिकस्तदा व्यत्ययेनेति द्रष्टव्यम्। 'सावेकाचः' इति प्राप्तस्य  ‘ न गोश्वन्साववर्ण ' इति प्रतिषेधः ।  ‘ क्रियाग्रहणं कर्तव्यम् ' इति कर्मणः संप्रदानत्वाच्चतुर्थी । कं प्रजापतिं **देवाय** देवं दानादिगुणयुक्तं **हविषा** प्राजापत्यस्य पशोर्वपारूपेणैककपालात्मकेन पुरोडाशेन  वा **विधेम** वयमृत्विजः परिचरेम । विधतिः परिचरणकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,29 +149,29 @@ popular
 Hiraṇyagarbha: cf.**Taittirīya** **Saṃhitā** 5.5.1.2; the golden embryo, or he who had the golden germ, i.e., he who was in the goldenmundane egg as an embryo, Brahmā\_, the creator; cf. **Nirukta** 10.23; **Yajus**. 13.4; Let us offer worship...Ka:This is the refrain of every ṛca except the last. Kasmai: the dative of the interrogative pronoun, "To what deitymay we sacrifice?" May be, it is a proper name. The name originated in a dialogue between **Indra** and **Prajāpati**.The latter asked the former, ":Having given you my might, then whom am I?" Indra replid, "If you ask 'who (ka) amI?' that be you (i.e., be you ka)." The oblation to be offered is the marrow of the victim dedicated to Prajāpati, orit may the ordinary oblation of cake and ghī, the **Puroḍāśa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The golden embryo evolved in the beginning. Born the lord of what came  to be, he alone existed.  
 He supports the earth and the heaven here— – Who is the god to whom  we should do homage with our oblation?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 IN the beginning rose Hiranyagarbha, born Only Lord of all created beings.  
      He fixed and holdeth up this earth and heaven. What God shall we adore with our oblation?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Anfang wurde er zum goldnen Keim. Geboren ward er der alleinige Herr der Schöpfung. Er festigte die Erde und diesen Himmel. - Wer ist der Gott, dem wir mit Opfer dienen sollen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Gold-entsprossne kam zuerst ins Dasein, geboren als der einz'ge Herr des Weltalls, Er machte fest die Erd' und diesen Himmel, wem sollen wir als Gott mit Opfer dienen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вначале он возник как золотой зародыш.  
 Родившись, он стал единственным господином творения.  

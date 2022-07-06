@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् न इ꣡न्द्रो व꣡रुणो मित्रो꣡ अग्नि꣡र्  
 आ꣡प ओ꣡षधीर् वनि꣡नो जुषन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 शर्म॑न् । स्या॒म॒ । म॒रुता॑म् । उ॒पऽस्थे॑ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -126,36 +126,36 @@ genre M;; repeated line
 पूर्वं व्याख्यातेयं अक्षरार्थस्तु इन्द्रादयोदेवाः अस्मदीयं स्तोत्रं सेवन्तां मरुतामुपस्थाने वर्तमाना वयं सुखे स्याम हे मरुतोयूयं सर्वदास्मन् अविनाशैः पालयत ॥ २५ ॥मध्वोवइति सप्तर्चं द्वितीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं मरुद्देवताकं मध्वःसप्तेत्यनुक्रान्तम् । दशरात्रे षष्ठेहनि आग्निमारुतेइदं मारुत- निविद्धानं सूत्रितञ्च-मध्वोवोनाम सप्रत्नथेत्याग्निमारुतमिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, **Varuṇa**, **Mitra**, **Agni**, the waters, the plural nts, the trees, be plural ased with us; may we recline inhappiness upon the lap of the **Maruts**; and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, Varuṇa, Mitra, Agni, the waters, the plants, the trees shall enjoy  this of ours.  
 May we be in the shelter, in the lap of the Maruts. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra, Mitra, Varuna and Agni, Waters, and Plants, and Trees accept our praises.  
      May we find shelter in the Marut's bosom. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das sollen uns Indra, Varuna, Mitra, Agni, die Gewässer, die Pflanzen, die Bäume zubilligen. Wir möchten im Schutze, im Schoße der Marut sein.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das mögen uns Indra, Varuna, Mitra, Agni, die Wasser, die Kräuter, die Bäume geben; wir mögen im Schutz und Schosse der Maruts sein; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть одобрят это Индра, Варуна, Митра, Агни,  
 Воды, растения, деревья!  

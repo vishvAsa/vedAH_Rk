@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡तिथिम् मा꣡नुषाणां᳐  
 सूनुं꣡ व꣡नस्प꣡तीना᳐म्  
 वि꣡प्रा अग्नि꣡म् अ꣡वसे प्रत्न꣡म् ईळते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 विप्राः॑ । अ॒ग्निम् । अव॑से । प्र॒त्नम् । ई॒ळ॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
@@ -77,36 +77,36 @@ genre M
 **विप्राः** मेधाविनो यजमानाः **मानुषाणां** मनुष्याणाम् **अतिथिम्** अतिथिवत्पूज्यं **वनस्पतीनां** **सूनुं** वनस्पतिरूपाभिररणीभिर्जायमानत्वेन तेषां सूनुं **प्रत्नं** पुरातनमेवंविधम् **अग्निमवसे** कर्मरक्षणाय **ईळते** स्तुतिभिः स्तुवन्ति ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pious men glorify the ancient **Agni**, the guest of men, the son of the trees, for protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, the guest of the descendants of Manu, the son of the forest-lords  [=trees],  
 ancient Agni do the inspired priests reverently invoke for help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As welcome guest of human kind, as offspring of the forest kings,  
      The sages worship ancient Agni for his aid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Menschen Gast, den Sohn der Bäume, den vormaligen Agni rufen die Redekundigen zur Gnade an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni, ihn der Menschen Gast, und ihn der Waldesbäume Sohn, Den alten fleht der Sänger Schar um Hülfe an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Гостя людей,  
 Сына деревьев,  

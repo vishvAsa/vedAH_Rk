@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नः पवाक+ दीदिवो  
 अ꣡ग्ने देवाँ꣡ इहा꣡ वह  
 उ꣡प यज्ञं꣡ हवि꣡श् च नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उप॑ । य॒ज्ञम् । ह॒विः । च॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -102,41 +102,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **दीदिवः** दीप्यमान **पावक** शोधक **अग्ने** **सः** त्वं **नः** अस्मदर्थम् **इह** देवयजनदेशे **देवान्** **आ** **वह** । ततः **नः** अस्मदीयं यज्ञं तत्रत्यं **हविश्च** **उप** देवसमीपे प्रापयेति शेषः ॥ दीदिवः । ‘ दिवु क्रीडादौ । छन्दसि लुङ्लङ्लिटः ' ( पा. सू. ३. ४. ६ ) इति वर्तमाने लिट् । क्वसुः ॥ द्विर्भावो हलादिशेषः । ‘ तुजादीनां दीर्घोऽभ्यासस्य ' (पा. सू. ६. १. ७) इत्यभ्यासस्य दीर्घत्वम्। ‘वस्वेकाजाद्धसाम् ' ( पा. सू. ७. २. ६७ ) इति नियमात वसोः इट्प्रतिषेधः । लोपो व्योर्वलि ' ( पा. सू. ६. १. ६६ ) इति वकारलोपः । संबुद्धौ । उगिदचां° ' ( पा. सू. ७. १. ७० ) इत्यादिना नुम् । हल्या सदिलोपः संयोगान्तलोपः । ‘ मतुवसोः' इति रुत्वम् । विसर्गः । अग्ने । पादादित्वात् न निघातः । देवाँ इहेत्यत्र ‘ दीर्घादटि समानपादे ' ( पा. सू. ८. ३. ९ ) इति रुत्वम् । अतोऽटि नित्यम्' इति आकारस्यानुनासिकः । ‘ भोभगोअघोअपूर्वस्य योऽशि ( पा. सू. ८. ३. १७ ) इति रोर्यकारः। ‘ लोपः शाकल्यस्य ' (पा. सू. ८. ३. १९ ) इति यकारलोपः । तस्यासिद्धत्वात् आद्गुणो न भवति । इह । इदमो हः' (पा. सू. ५. ३. ११ ) इति सप्तम्यन्तात् हप्रत्ययः । इदम इश्' (पा. सू. ५. ३. ३)। तद्धितान्तत्वात् प्रातिपदिकत्वे ‘सुपो धातुप्रातिपदिकयोः ' ( पा. सू. २. ४. ७१ ) इति सप्तम्या लुक् । तद्धितश्चासर्वविभक्तिः ' ( पा. सू. १. १. ३८) इत्यव्ययसंज्ञायाम् अव्ययादाप्सुपः ' ( पा. सू. २. ४. ८२ ) इत्युत्तरस्याः सप्तम्या लुक् । अकारः प्रत्ययस्वरेणोदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, the bright, the purifier, bring hither the gods to our sacrifice, to our oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O pure, shining Agni, convey the gods here to us,  
 right up to our sacrifice and oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Such, Agni, Purifier, bright, bring hither to our sacrifice,  
      To our oblation bring the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thus, O Agni, resplendent purifier, conduct the gods hither to us, to our sacrifice and to our food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fahre du lauterer, leuchtender Agni, uns die Götter her zu Opfer und Spende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O flammender, o leuchtender, die Götter fahr uns, Agni, her; Zum Opfer und zu unserm Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нам, о чистый, светящийся  
 Агни, сюда привези богов  

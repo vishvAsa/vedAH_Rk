@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग꣡वाम् इव श्रिय꣡से शृ꣡ङ्गम् उत्तमं꣡  
 सू꣡र्यो न꣡ च꣡क्षू र꣡जसो विस꣡र्जने  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡र्या इव श्रिय꣡से चेतथा नरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अत्याः॑ऽइव । सु॒ऽभ्वः॑ । चार॑वः । स्थ॒न॒ । मर्याः॑ऽइव । श्रि॒यसे॑ । चे॒त॒थ॒ । न॒रः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
@@ -133,20 +133,20 @@ genre M
 हे मरुतो यूयं **गवां** **शृङ्गम्** **इव** **उत्तमम्** उत्कृष्टमुष्णीषपट्टादिकं **श्रियसे** श्रिये धारयथेति शेषः । **सूर्यो** **न** सूर्य इव । स यथा **रजसः** तेजसः **विसर्जने** **चक्षुः** दर्शनसाधनं मण्डलं धत्ते तद्वद्रजसो वृष्टेर्विसर्जने विसर्जनाय चक्षुः सर्वस्य प्रकाशकं तेजो धारयथ । **अत्याइव** अश्वाइव **सुभ्वः** सुष्ठु सर्वत्र भवन्तो वेगवन्तः **चारवः** दर्शनीयाः **स्थन** भवथ। **मर्याः** मर्त्याः यजमानाः **इव** । ते यथा **श्रियसे** जानन्ति यज्ञादिकं तद्वच्छ्रिये **चेतथ** हे **नरः** नेतारो मरुतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You bear, for your decoration, an excellent (diadem) like the horn of cattle; as the sun, the eye (of day, dispenses light), so (are you diligent) in the distribution of the rains; graceful are you, and rapid as horses, and like (pious) mortals, you, leaders (of rites), consider (holy ceremonies) for their glory.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Your) horn, like (those) of cows, stands tallest for splendor; (your) eye is  like the sun in his surging through the dusky realm.  
 Like steeds of good quality, you are pleasing. Like young bloods, you are  conspicuous for splendor, o men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The various tr. configure these four similes somewhat differently; I won’t comment in detail on these versions. The most puzzling one is the first, in great part because it is not clear what the Maruts’ horn would be -- perhaps the superstructure of their helmets? or their lightning bolts? (Sāyaṇa. takes it as their turban.) Geldner suggests that it has a double meaning, horn and Selbstgefühl, but we still need some physical aspect of the Maruts that could be compared to cowhorns, so the second abstract sense doesn’t help much.
 
@@ -157,23 +157,23 @@ Geldner gives it a later sense not otherwise found in the RV (Aufhören ‘stopp
 Witzel Gotō Schwinden); Renou takes it as ‘expansion’. I see it as a variant of ví √sṛ ‘stream/run/spread through’. Cf. rájaso visāré I.79.1, used of Agni compared to the sun. In fact, we might consider the two phrases to be variants of each other; both are pāda final, with I.79.1 in a dimeter (hence iambic) cadence, while ours provides a Jagatī cadence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As the exalted horn of bulls for splendid might, as the Sun's eye set in the firmament's expanse,  
      Like vigorous horses ye are beauteous to behold, and for your glory show like bridegrooms, O ye Men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie der Rinder Horn ist euer höchstes Horn prächtig zu schauen, wie das Auge der Sonne bei Aufhören des Dunkels. Wie stattliche Rennpferde seid ihr schön, prächtig zu schauen wie junge Männer zieht ihr Herren die Augen auf euch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu schönem Anblick, wie der Stiere höchtes Horn, wie Aug' der Sonne, wenn das Dunkel vor ihr weicht, Wie prächt'ge Rosse seid ihr lieblich anzuschau'n; wie Freier zeigt ihr Männer euch zu schöner Pracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваш превосходный рог (создан) для красоты, как у быков.  
 (Вы) словно глаз (богов) – солнце при рассеивании мрака.  

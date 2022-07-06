@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्य व्रता꣡नि ना꣡धृ꣡षे  
 प꣡वमानस्य दूढि꣡या  
 रुज꣡ य꣡स् त्वा पृतन्य꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 रु॒ज । यः । त्वा॒ । पृ॒त॒न्यति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -79,43 +79,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **पवमानस्य** क्षरतो यस्य **अस्य** तव **व्रतानि** कर्माणि **दूढ्या** दुर्बुद्धिना राक्षसेन **नाधृषे** आधर्षयितुमशक्यानि स त्वं त्वां **यः** दुर्बुद्धिः शत्रुः **पृतन्यति** योद्भुमिच्छति तं **रुज** बाधस्व॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The prowess of you (**Soma**) as you are poured forth is irresistible against the malignant (**rākṣasas**); destroy him who defies you to battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The commandments of this self-purifying one cannot be ventured  against by one of bad insight.  
 Break the one who battles you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because ‘commandments’ (vratá-) are especially associated with Varuṇa and Mitra, the beginning of this vs. might also direct the audience to the wrong referent for initial ásya. However, commandments are the property of a number of gods, and nothing else about the phraseology strongly suggests a referent other than Soma. In any case any doubt about the referent is settled by the beginning of b, pávamānasya.
 
 Pāda c is constructed almost exactly like 1c, with a rel. clause serving as obj. of the main clause imperative, here rujá, without expressed antecedent in the main cl. In this case, however, the rel. clause is not nominal but has a full SOV structure: yás tvā pṛtanyáti.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No one with evil thought assails this Pavamana's holy laws:  
      Crush him who fain would fight with thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses Pavamana´s Vorschriften sind von keinem Übelgesinnten anzutasten. Zerschmettere den, der dich bekämpft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kein Bösewicht kann widerstehn den Werken dieses flammenden; Wer dich befeindet, den zerbrich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

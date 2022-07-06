@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रश् च सो꣡मम् पिबतम् बृहस्पते  
 अस्मि꣡न् यज्ञे꣡ मन्दसाना꣡ वृषण्वसू  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अस्मे꣡ रयिं꣡ स꣡र्ववीरं नि꣡ यछतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । वा॒म् । वि॒श॒न्तु॒ । इन्द॑वः । सु॒ऽआ॒भुवः॑ । अ॒स्मे इति॑ । र॒यिम् । सर्व॑ऽवीरम् । नि । य॒च्छ॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -129,21 +129,21 @@ genre M
 हे **बृहस्पते** त्वं **इन्द्रश्च** **सोमं** **पिबतम्** । कीदृशौ युवाम् । **अस्मिन्यज्ञे** **मन्दसाना** हृष्यन्तौ **वृषण्वसू** वर्षितृधनौ यजमानेभ्यो दीयमानधनावित्यर्थः । **वां** युवां **स्वाभुवः** सुष्ठु सर्वतो भवन्तः । कृत्स्नशरीरव्यापनसमर्था इत्यर्थः । तादृशाः **इन्दवः** सोमाः **विशन्तु** युवयोः शरीरं प्रविशन्तु । **अस्मे** अस्मभ्यं **रयिं** धनं **सर्ववीरं** सर्वपुत्राद्युपेतं **नि** **यच्छतं** दत्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Bṛhaspati**, do you and **Indra**, both exulting and showering riches, drink the **Soma** at this sacrifice; may the all-pervading drops enter you; bestow upon us riches, comprising all **male** descendants.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Br̥haspati and Indra, drink the soma, becoming exhilarated at this  sacrifice here, you who have bullish goods.  
 Let the drops that stand by you enter you. In us deposit wealth  
 consisting of hale heroes.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -153,28 +153,28 @@ This last section consisting of two vss. introduces Indra by name for the first 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, Brhaspati, rainers of treasure, rejoicing at this sacrifice drink the Soma.  
      Let the abundant drops sink deep within you: vouchsafe us riches with full store of heroes.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Bṛhaspati and Indra, ye of mighty wealth, Drink Soma here, rejoicing at this sacrifice. May these invigorating drops now enter you: Bestow on us great wealth and sons exclusively.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Brihaspati! Trinket den Soma, berauscht euch bei diesem Opfer, ihr ... In euch sollen die wirksamen Säfte eingehen. Uns bestimmet einen Schatz von vollständiger Söhnezahl!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma trinkt, o Indra und Brihaspati, bei diesem Opfer hocherfreut, ihr heldenstarken; in euch mögen die schönbereiteten Indu-tränke eingehen; uns schenket Reichthum für alle Männer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 0 Индра и Брихаспати, пейте сому,  
 Опьяняясь этой жертвой, о быки!  

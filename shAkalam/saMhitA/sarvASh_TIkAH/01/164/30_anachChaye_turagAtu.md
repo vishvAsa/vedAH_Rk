@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन꣡च् छये · तुर꣡गातु जीव꣡म्  
 ए꣡जद् ध्रुव꣡म् म꣡ध्य आ꣡ पस्ति꣡यानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡मर्तियो म꣡र्तियेना स꣡योनिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 जी॒वः । मृ॒तस्य॑ । च॒र॒ति॒ । स्व॒धाभिः॑ । अम॑र्त्यः । मर्त्ये॑न । सऽयो॑निः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anacchaye* ← *anat* ← *an*
 - \[verb noun\], nominative, singular
@@ -115,7 +115,7 @@ popular
 **अनत्** प्राणनं कुर्वत् **जीवं** जीवनवत् **तुरगातु** स्वव्यापाराय तूर्णगमनं सत् **एजत्** तत् **शये** शेते वर्तते । पश्चात प्राणापगमनानन्तरम् उक्तविलक्षणं सत् **ध्रुवम्** अविचलितं सत् **पस्त्यानां** गृहाणां **मध्ये** **आ** शेते च स्थाणुवत्तिष्ठति । आकारः पूरणो वा । अथ जीवस्य वैलक्षण्यमाह। **मृतस्य** शरीरस्य संबन्धी **जीवः** **मर्त्येन** मरणधर्मकेण शरीरेण **सयोनिः** पूर्वं समानोत्पत्तिस्थानः । यद्यपि जीवस्य न जन्मास्ति तथापि वपुषस्तत्सद्भावात् तत्संबन्धेनोपचर्यते । तदेवाह । **अमर्त्यः** अमरणस्वभावः । जीवापेतं वाव किलेदं म्रियते न जीवो म्रियते' (छा. उ. ६. ११.३) इति श्रुतेः । उक्तस्वभावो जीवः **स्वधाभिः** **चरति** पुत्रकृतैः स्वधाकारपूर्वकदत्तैः अन्नैश्चरति वर्तते इत्यर्थः॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,29 +126,29 @@ popular
 By obsequial offerings: svadhābhiḥ **putra** kṛtaiḥ, by offerings made by the sons
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Breathing, life rests (though remaining) on its headlong course, stirring  (though) steadfast in the midst of the dwelling places.  
 The living one keeps moving by the will of the dead one; the immortal  one shares the same womb with the mortal one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That which hath breath and speed and life and motion lies firmly stablished in the midst of houses.  
      Living, by offerings to the Dead he moveth Immortal One, the brother of the mortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Atmend ruht das Leben und ist doch schnellen Ganges, sich regend und doch fest inmitten der Flüsse. Die Seele des Toten wandert nach eigenem Ermessen. Die unsterbliche Seele ist gleichen Ursprungs mit dem Sterblichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das athmende, das rasch gehende, das lebendige, das sich regende, das feste liegt in der Mitte der Wohnsitze; der Lebendige wandert mit der Kraft des Verstorbenen (?); der Unsterbliche ist gleichen Schoosses mit dem Sterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дыша покоится жизнь, (хоть она и) быстротечна,  
 Шевелясь, (но оставаясь) твердой среди рек.  

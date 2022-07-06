@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वाची꣡नं सु꣡ ते म꣡न  
 उत꣡ च꣡क्षुः शतक्रतो  
 इ꣡न्द्र कृण्व꣡न्तु वाघ꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इन्द्र॑ । कृ॒ण्वन्तु॑ । वा॒घतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvācīnaṃ* ← *arvācīnam* ← *arvācīna*
 - \[noun\], accusative, singular, neuter
@@ -87,7 +87,7 @@ genre M
 हे **शतक्रतो** । शतं क्रतवो यस्यासौ शतक्रतुः । हे **इन्द्र** **वाघतः** । वहन्ति यज्ञियां धुरमिति वाघतः स्तोतारः । **ते** तव **सु** अस्मदभिमतफलसंपादनेन शोभनं **मनः** **अर्वाचीनम्** अस्मदभिमुखं **कृण्वन्तु** कुर्वन्तु । **उत** अपि च **चक्षुः** त्वदीयं दर्शनम् अस्मास्वनुग्रहदृष्टिं कुर्वन्तु ॥ अर्वाचीनम् । ‘विभाषाञ्चेरदिक्स्त्रियाम्' इति खप्रत्ययः । खस्येनादेशः । चक्षुः । चक्षेः शिच्च ' इत्युसिप्रत्ययः । शिद्वद्भावात् ख्याञादेशाभावः । नित्' इत्यनुवृत्तेः आद्युदात्तश्च । कृण्वन्तु ।' कृवि हिंसाकरणयोः' इत्यस्य लोटि रूपम् । आमन्त्रितस्य अविद्यमानवत्वेन पादादित्वादनिघातः। प्रत्ययस्वरः । वाघतः । ‘वह प्रापणे । ‘संश्चद्वेहत्' इत्यादिना अतिप्रत्ययान्तत्वेन निपातनादुपधावृद्धिः । हकारस्य घत्वम् । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,29 +98,29 @@ genre M
 Worshipped in a hundred rites: **śatakratu** = Indra; or, an epithet, he to whom a hundred (i.e. many) sacrifices are offered, or by whom many great acts are performed.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the cantors make your mind inclined our way—  
 Indra of a hundred resolves—and your eye as well.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, Lord of Hundred Powers, may those who praise thee hitherward.  
      Direct thy spirit and thine eye.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sinn und Auge von dir sollen die Priester fein herwärts richten, du ratreicher Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Beter mögen deinen Sinn, dein Auge schaffen nah herbei, O Indra, hundertwirkender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, пусть жрецы сделают  
 Обращенными только сюда мысль твою,  

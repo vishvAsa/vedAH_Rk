@@ -8,7 +8,7 @@ title = "+029"
 ‘बभ्रुरेकः' इति दशर्चं नवमं सूक्तम् । मरीचिपुत्रः कश्यपो वैवस्वतो मनुर्वा ऋषिः । तथा चानुक्रम्यते--- बभ्रुर्दश कश्यपो वा मारीचो द्वैपदम् ' इति । दशापि द्विपदा विंशत्यक्षरा विराजः । पूर्ववद्विश्वे देवा देवता । तृतीये छन्दोमे वैश्वदेवशस्त्रे वैश्वदेवसूक्तात् पूर्वमेव द्वैपदं सूक्तं शंसनीयम्। सूत्र्यते हि -- बभ्रुरेक इति द्विपदासूक्तानि पुरस्ताद्वैश्वदेवसूक्तानाम् ' (आश्व. श्रौ. ८. ७) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 29 (649)  
 All Gods  
@@ -35,7 +35,7 @@ Thus the poem skillfully combines and balances architectonic structures with  fo
 Yet, despite all this clever machinery,  the hymn wears its structure lightly, and the mechanisms that provide so much pleasure are essentially invisible to the audience.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods On the intricate structure of this hymn see published introduction. and my Rigveda between Two Worlds (75-77).
 </details>

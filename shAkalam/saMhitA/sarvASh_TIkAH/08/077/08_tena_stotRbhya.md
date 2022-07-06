@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡न स्तोतृ꣡भ्य आ꣡ भर  
 नृ꣡भ्यो ना꣡रिभ्यो अ꣡त्तवे  
 सद्यो꣡ जात꣡ ऋभुष्ठिर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 स॒द्यः । जा॒तः । ऋ॒भु॒ऽस्थि॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
@@ -83,20 +83,20 @@ genre M
 **तेन** इषुणा **स्तोतृभ्यः** अस्मभ्यं **नृभ्यः** मनुष्येभ्यः । पुत्रेभ्य इत्यर्थः। तथा **नारिभ्यः** स्त्रीभ्यश्च **अत्तवे** अदनाय पर्याप्तं धनम् **आ** **भर** आहर। **सद्यः** तदानीमेव **जातः** अस्माभिर्दत्तेन सोमेन प्रवृद्धः सन् हे **ऋभुष्ठिर** । उरुः प्रभूतः स्थिरश्च संग्रामे स तथोक्तः । हे तादृशेन्द्र त्वमा भरेति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Forthwith increased (by our offerings), do you, mighty and firm, by that (weapon) brin (wealth) forsustenance to us your praisers, our children, and our wives.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra’s mother:] “With it [=Bunda-bow] bring to the praisers, to the  superior men and to their ladies, (the rice porridge?) to eat,  
 though you were just born right now, o steadfast one of the R̥bhus.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, I take this verse as the speech of Indra’s mother, picking up from the dialogue in vss. 1-2 that began (1a) jajñānó nú “just born,” which is echoed here by sadyó jātáḥ (“just born right now”). In VIII.45.4 Indra took the Bunda bow just before his dialogue with his mother, and in VIII.69.14-15 he's a tiny child when he gets the porridge and cooks the buffalo for his mother and father.
 
@@ -109,23 +109,23 @@ Here it seems to have a more restricted sense and could actually refer to the go
 The voc. ṛbhuṣṭhira is a little surprising. Both Grassmann and Geldner take it as implicitly comparative: Grassmann ‘stark, tüchtig wie Ṛbhu’, Geldner ‘… stark wie die Ṛbhu’s’. I take it rather as parallel to ṛbhukṣán- ‘master of the Ṛbhus’, which is regularly an epithet of Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong as the gbhus at thy birth, therewith to those who praise thee, men,  
      And women, bring thou food to eat.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit ihm bringe den Sängern - Männern und Weibern - zu essen her, eben geboren stark wie die Ribhu´s, du!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesem bring den Sängern du den Männern Speise und den Fraun, Wenn Ribhustarker du erstehst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С ее помощью принеси восхвалителям:  
 Мужчинам (и) женщинам, поесть,  

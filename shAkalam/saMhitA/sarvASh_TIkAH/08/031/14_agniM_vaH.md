@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ वः पूर्वियं꣡ गिरा꣡  
 देव꣡म् ईळे व꣡सूना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मित्रं꣡ न꣡ क्षेत्रसा꣡धसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒प॒र्यन्तः॑ । पु॒रु॒ऽप्रि॒यम् । मि॒त्रम् । न । क्षे॒त्र॒ऽसाध॑सम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -97,42 +97,42 @@ genre M
 हे देवाः **वः** युष्माकं **पूर्व्यं** मुख्यं पुरतो गन्तारं वा **देवं** स्वभासा दीप्यमानम् **अग्निं** **वसूनां** प्राप्तये **गिरा** स्तुतिलक्षणया वाचा **ईळे** अहं स्तौमि । किंच **सपर्यन्तः** युष्मान् परिचरन्तो मनुष्याः **पुरुप्रियं** बहविधप्रियं बहूनामभिमतदानेन प्रीणयितारं वा क्षेत्रसाधसम् । क्षियन्ति निवसन्ति कर्मकरणार्थमत्रेति क्षेत्रो यज्ञः । तस्य साधकम् । साधने दृष्टान्तः । **मित्रं** **न** । यथा मित्रं सुहृदन्यस्य क्षेत्रं केदारादिकं साधयति तद्वद्यज्ञसाधकमग्निं वसुप्राप्तये स्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I worship the divine **Agni**, the preceder of you, (gods), with praise, (for the sake) of riches; theworshippers (cherish him), the bountiful perfector of the sacrifice, like a friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the foremost god of the good ones do I invoke for you all with  a hymn—  
 (I and you all) serving him, dear to many, like an ally who brings  
 success to the cultivated lands.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 1st sg. īḷe in b does not match the nom. pl. part. saparyántaḥ in c. I take the pl. as including the vaḥ, the fellow ritualists for whom the poet invoked the god. As Geldner points out, V.21.3 has saparyántaḥ ... īḷate, with number congruence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I glorify with song, for wealth, Agni the God, the first of you.  
      We honour as a well-loved Friend the God who prospereth our fields.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni berufe ich euch, den Gott als Ersten der Vasu´s mit meiner Lobrede, den Viellieben in Ehren haltend wie einen Freund und Mittler, der den Streit um die Felder schlichtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni preise ich zuerst mit Lied, den Gott der Schätze gibt, den Hort des Feldes ehren wir, wie einen vielgeliebten Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни для вас я первым призываю  
 Как бога богатств (своей) хвалебной песнью,  

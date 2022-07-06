@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शृण्व꣡न्तु स्तो꣡मम् मरु꣡तः सुदा꣡नवो  
 अग्निजिह्वा꣡ ऋतावृ꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अश्वि꣡भ्याम् उष꣡सा सजूः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पिब॑तु । सोम॑म् । वरु॑णः । धृ॒तऽव्र॑तः । अ॒श्विऽभ्या॑म् । उ॒षसा॑ । स॒ऽजूः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śṛṇvantu* ← *śru*
 - \[verb\], plural, Present imperative
@@ -105,46 +105,46 @@ genre M
 **मरुतः** देवाः **स्तोमम्** अस्मदीयं स्तोत्रं **शृण्वन्तु** । कीदृशाः । **सुदानवः** सुष्ठु फलस्य दातारः **अग्निजिह्वाः** अग्निर्जिह्वास्थानीयो मुख्यो येषु मरुत्सु तादृशाः **ऋतावृधः** सत्यस्य यज्ञस्य वा वर्धकाः । तथा **धृतव्रतः** गृहीतकर्मा **वरुणः** देवः **अश्विभ्यां** देवाभ्याम् **उषसा** देवतया **सजूः** सह **सोमं** **पिबतु** ॥ सुदानवः । डुदाञ् दाने'। दाभाभ्यां नुः ' ( उ. सू. ३. ३१२) इति भावे नुप्रत्ययः। दानुशब्द आद्युदात्तः । शोभनं दानु येषाम् ।' आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । अग्निजिह्वाः । अग्नेर्जिह्वायामवस्थिताः हविर्भाज इत्यर्थः । तात्स्थ्यात् ताच्छब्द्यम् । अग्निर्जिह्वास्थानीयो येषां ते । छान्दसमन्तोदात्तत्वम् । ऋतावृधः । ऋतस्य सत्यस्य यज्ञस्य वा वर्धयितारः । वृधेः अन्तर्भावितण्यर्थात् ' क्विप् च ' इति क्विप् । अन्येषामपि दृश्यते ' इति पूर्वपदस्य दीर्घत्वम् ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let the munificent **Maruts**, who have tongues of fire, and are encouragers of sacrifice, hear our praise; let the rite-fulfilling **Varuṇa**, with the **Aśvins**, and with Uṣas, drink the **Soma** juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let them listen to the praise—the Maruts of good drops, whose tongue  is Agni, strong through truth.  
 Let him drink the soma—Varuṇa of steadfast commandment, jointly  with the Aśvins and with Dawn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The final pāda makes a little ring with 2c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let those who strengthen Law, who bountifully give, the life-tongued Maruts, hear our praise.  
      May Law-supporting Varuna with the Asvins twain and Usas, drink the Soma juice.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the Maruts, they who give rain, the fire-tongued increasers of Rita, hear my praise. May Varuna, whose laws are firm, drink the Soma, united with the two Asvins and with the Dawn!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Lobgesang sollen die Gabenschönen Marut hören, deren Zunge Agni ist, die Mehrer der Wahrheit. Varuna, der die Gebote aufrecht hält, soll den Soma trinken im Verein mit den Asvin, mit Usas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es hör das Lob die reiche heil'ge Marutschar, die mit des Agni Zunge trinkt, Den Soma trinke Varuna, des Rechtes Hort, mit Uschas und dem Ritterpaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть услышат хвалу Маруты, щедро дающие,  
 Чей язык – Агни, умножающие закон!  

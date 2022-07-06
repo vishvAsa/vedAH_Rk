@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् धविष्य᳡म् ऋतुशो꣡ देवया꣡नं  
 त्रि꣡र् मा꣡नुषाः प꣡रि अ꣡श्वं न꣡यन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यज्ञं꣡ देवे꣡भ्यः प्रतिवेद꣡यन्न् अजः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अत्र॑ । पू॒ष्णः । प्र॒थ॒मः । भा॒गः । ए॒ति॒ । य॒ज्ञम् । दे॒वेभ्यः॑ । प्र॒ति॒ऽवे॒दय॑न् । अ॒जः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaddhaviṣyam* ← *yat*
 - \[adverb\]
@@ -123,7 +123,7 @@ popular
 **हविष्यं** हविर्योग्यं **देवयानं** देवानां प्रापणीयम् **अश्वं** **यत्** यदा **मानुषाः** ऋत्विजः **ऋतुशः** ऋतौ ऋतौ काले काले **त्रिः** **परि** **नयन्ति** पर्यग्निकुर्वन्तीत्यर्थः । **अत्र** अस्मिन् समये ॥ ‘ऋचि तुनुघ' इति दीर्घः ॥ **पूष्णः** पोषकस्याग्नेः **भागः** **अजः** **प्रथमः** **एति** पुरोगामी सन् गच्छति । किं कुर्वन् । **यज्ञं** **देवेभ्यः** **प्रतिवेदयन्** प्रख्यापयन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ popular
 The goat is to be first immolated
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the sons of Manu lead around the horse to be offered three times  along (the path) that goes to the gods in proper order,  
 then the goat, Pūṣan’s portion, goes first, announcing the sacrifice to  the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thrice the men lead round the Steed, in order, who goeth to the Gods as meet oblation,  
      The goat precedeth him, the share of Pusan, and to the Gods the sacrifice announceth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Menschen das zum Opfer bestimmte Roß dreimal der Reihe nach den Götterweg herumführen, so geht dabei der Opferanteil des Pusan voran, der Bock, der den Göttern das Opfer meldet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn die Menschen das mit Opfertrank versehene zu den Göttern gehende Ross nach dem Brauche dreimal herumführen, so geht der Ziegenbock als erster Antheil des Puschan, den Göttern das Opfer ankündigend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда предназначенного для жертвы коня люди  
 По правилу трижды обводят кругом по пути богов,  

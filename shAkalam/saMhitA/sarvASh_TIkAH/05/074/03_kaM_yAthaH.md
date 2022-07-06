@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कं꣡ याथः कं꣡ ह गछथः  
 क꣡म् अ꣡छा युञ्जथे° र꣡थम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वयं꣡ वाम् उश्मसीष्ट꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 कस्य॑ । ब्रह्मा॑णि । र॒ण्य॒थः॒ । व॒यम् । वा॒म् । उ॒श्म॒सि॒ । इ॒ष्टये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
@@ -114,36 +114,36 @@ genre M
 हे अश्विनौ युवां **कं** यजमानं यज्ञं वा प्रति **याथः** । अध्वानमुल्लङ्घ्य' याथः । **कं** **ह** कं च प्रति **गच्छथः** । गत्वा च केन सह संगतौ भवथः । **कं** च **अच्छ** अभिप्राप्तुं **युञ्जाथे** योजयथः **रथम्** अश्वैः । **कस्य** **ब्रह्माणि** परिवृढानि स्तोत्राणि **रण्यथः** रमेथे। **वयं** च **वां** युवाम् **इष्टये** गमनायैषणाय वा **उश्मसि** कामयामहे तस्मात् कस्य चन यागं प्रति न गन्तव्यमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To whom do you proceed? to whom do you repair? to (go to) whose presence do you harness your car? by whose prayers are you gratified? We are anxious for your arrival.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To whom do you journey? To whom do you come? Toward whom do you  harness your chariot?  
 In whose formulations do you delight? We wish you to seek (ours).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whom do ye visit, whom approach? to whom direct your harnessed car?  
      With whose devotions are ye pleased? We long for you to further us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu wem fahret ihr, zu wem geht ihr? Zu wem schirret ihr den Wagen? An wessen erbaulichen Reden erfreuet ihr euch? Wir wünschen, daß ihr gern kommet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wem fahrt ihr zu? wem eilt ihr nach? zu wem schirrt euren Wagen ihr? An wessen Bitten freut ihr euch? wir wünschen her euch zum Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К кому едете? К кому же отправляетесь?  
 К кому запрягаете колесницу?  

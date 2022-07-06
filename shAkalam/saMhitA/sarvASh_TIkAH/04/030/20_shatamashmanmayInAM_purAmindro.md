@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शत꣡म् अश्मन्म꣡यीना᳐म्  
 पुरा꣡म् इ꣡न्द्रो वि꣡ आसियत्  
 दि꣡वोदासाय दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 दिवः॑ऽदासाय । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
@@ -72,7 +72,7 @@ genre M
 **इन्द्रः** **अश्मन्मयीनां** पाषाणैर्निर्मितानां **पुरां** शम्बरस्य संबन्धिनां नगराणां **शतं** शतसंख्याकं **दिवोदासाय** एतन्नामकाय **दाशुषे** हविर्दत्तवते यजमानाय **व्यास्यत्** व्यक्षिपत् ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -83,13 +83,13 @@ genre M
 Stone-build cities: aśmanmayīnām purām, an apparent reference to the use of masonry for walls and dwellings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra threw open the hundred fortresses made of stone  
 for the pious Divodāsa.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
@@ -99,23 +99,23 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Divodasa, him who brought oblationt, 1ndra overthrew  
      A hundred fortresses of stone.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra zerstörte hundert der steinernen Burgen für den opfernden Divodasa.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für Divodasa, der ihm dient', zerbrach der Burgen hundert er, Indra, die felsgemauerten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сотню каменных  
 Крепостей Индра разнес на куски  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ दॄळ्हा꣡नि+ चिद् अद्रिवो  
 ज꣡नानां᳐ शचीपते  
 वृह꣡ माया꣡ अनानत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृ॒ह । मा॒याः । अ॒ना॒न॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -83,41 +83,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अद्रिवः** । आदृणात्यनेनेत्यद्रिर्वज्रः । तद्वन् **शचीपते** इन्द्र **जनानां** शत्रूणां **दृळ्हानि** **चित्** दृढानि स्थिराण्यपि पुराणि बलानि वा **वि** **वृह** विभिन्धि । विविधमुन्मूलयेत्यर्थः । हे **अनानत** अप्रह्वीभूत सर्वोच्छ्रितेन्द्र **मायाः** च शत्रुभिर्निर्मिता वि वृह विनाशय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wielder of the thunderbolt, lord of **Śaci**, demolish the strong (cities) of men; (battle), unbending (**Indra**) their devices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Tear) apart even the strongholds of the peoples, o possessor of the  stone and lord of power;  
 tear (apart) their tricks, you who can’t be bowed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains two parallel direct objects (“strongholds” and “tricks”) in two parallel clauses, which presuppose the same verb. The preverb (ví) is given at the beginning of pāda a, the verb (vṛhá) itself at the beginning of the 2nd hemistich; they must be assembled to produce the full lexeme.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of Strength, Caster of the Stone, destroy the firm forts built by men,  
      And foil their arts, unbending God!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Spreng, o Herr des Preßsteins, selbst die festen Behälter der fremden Leute, du Kräftemeister, zersprenge ihre Blendwerke, Ungebeugter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zertrümmre du, o Schleuderer, der Menschen Festen, Herr der Kraft, Und ihre Listen, starker Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В(зорви) даже твердые (крепости), о повелитель давильных камней,  
 (Чужих) людей, о господин силы!  

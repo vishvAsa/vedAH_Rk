@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गिरा꣡ य꣡दी स꣡बन्धवः  
 प꣡ञ्च व्रा꣡ता अपस्य꣡वः  
 परिष्कृण्व꣡न्ति धर्णसि꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प॒रि॒ऽकृ॒ण्वन्ति॑ । ध॒र्ण॒सिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
@@ -72,7 +72,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सबन्धवः** समानबन्धनाः **पञ्च** **व्राताः** पञ्च जना मनुष्या यजमानाः **अपस्यवः** कर्मेच्छवः यद्यदा ईमेनं **धर्णसिं** धारकं सोमं **गिरा** स्तुत्या **परिष्कृण्वन्ति** अलंकुर्वन्ति । अस्योत्तरत्रान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,36 +85,36 @@ The five kindred sacrificing races: **pañca** vrātāḥ = pañca **janā** **m
 Sabandhavaḥ = **samāna** bandhanāḥ;or, samāna **bandhukaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the troops of five kinsmen [=hands], eager to work,  
 prepare the steadfast one with a hymn—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the subjects here are the fingers, troops of five (on each hand).
 
 The subord. yádī is best taken as an example of my yád ī -- hence “when him/it …,” not “if.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the Five kindred Companies, active in duty, with the song  
      Establish him, the Powerful,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die versippten fleißigen fünf Verbände den Standfesten unter Loblied zurechtmachen,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn die verwandten thätigen fünf Stämme mit dem Lobgesang Ausschmücken den gewaltigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда пять родственных  
 Деятельных отрядов с песней  

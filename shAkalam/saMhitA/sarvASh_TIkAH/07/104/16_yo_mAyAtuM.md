@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ मा꣡यातुं या꣡तुधाने꣡ति आ꣡ह  
 यो꣡ वा रक्षाः꣡ शु꣡चिर् अस्मी꣡ति आ꣡ह  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वस्य जन्तो꣡र् अधम꣡स् पदीष्ट
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इन्द्रः॑ । तम् । ह॒न्तु॒ । म॒ह॒ता । व॒धेन॑ । विश्व॑स्य । ज॒न्तोः । अ॒ध॒मः । प॒दी॒ष्ट॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -147,37 +147,37 @@ popular
 **यः** राक्षसो माम् **अयातुम्** अराक्षसं सन्तं हे **यातुधान** हे राक्षस **इति** संबोध्य **आह** ब्रूते **यो** **वा** यश्च **रक्षाः** राक्षसः **शुचिरस्मि** शुद्धो भवामि न राक्षसोऽस्मि **इत्याह** ब्रूते **तम्** उभयविधं राक्षसम् **इन्द्रः** **महता** प्रौढेन **वधेन** आयुधेन वज्रेण **हन्तु** हिनस्तु । स च **विश्वस्य** सर्वस्य **जन्तोः** जनस्य **अधमः** निकृष्टः सन् **पदीष्ट** पततु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra** slay with his mighty weapon him who calls me the **Yātudhāna**, which I am not, therākṣasa, who says (of himself), I am pure; may he, the vilest of all beings, perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who says to me, who am without sorcery, “you sorcerer,” or who,  (though) a demon, says “I am pure,”  
 let Indra smite him with a great weapon of death. Let him fall lowest of  all creation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra slay him with a mi weapon, and let the vilest ofghty  
      all creatures perish,  
      The fiend who says that he is pure, who calls me a demon though devoid of demon nature.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer zu mir, der ich kein Zauberer bin, sagt, du Zauberer, oder welcher Dunkelmann sagt: ich bin unschuldig, den soll Indra mit mächtiger Waffe erschlagen. Tief unter alle Kreatur soll er sinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der mir dem reinen »Zaubrer bist du« sagte, der selbst ein Unhold »heilig bin ich« prahlte, Den tödte Indra mit der grossen Waffe, tief unter alle Wesen sink er nieder
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто мне, не-колдуну, говорит: Эй, колдун!  
 Или который ракшас говорит: Я чист!  

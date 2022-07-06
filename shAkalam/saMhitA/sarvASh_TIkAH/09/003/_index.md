@@ -8,7 +8,7 @@ title = "+003"
 ‘एष देवः' इति दशर्चं तृतीयं सूक्तमाजीगर्तेः शुनःशेपस्यार्षं गायत्रं पवमानसोमदेवताकम् । अनुक्रान्तं च - एषः शुनःशेपः' इति । उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 3 (715)  
 Soma Pavamāna  
@@ -18,7 +18,7 @@ Following the pattern set by IX.1–2, the Anukramaṇī gives as the poet of  t
 The hymn is verbally unified by the “this (one)” (eṣá), which begins every verse.  It is thematically unified by its focus on only one step of the preparation, the filter ing through sheep’s wool that is the self-purification proper. A form of the verb  “purify oneself” appears in seven of the ten verses (and “filter” derived from the  same root in an eighth; only vss. 1 and 6 lack such a form). The poet provides vari ety with a range of images, from the bird of verse 1 to the chariot rider in verse 5,  and as is common he conflates, and equates, the ritual and cosmic spheres. So, for  example, the filter across which the soma moves is both a tangle of wool (vs. 2) and  the vast spaces of heaven and the atmosphere (vs. 7).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As discussed in the published introduction, this hymn is unified by a simple device, the nom. sg.
 

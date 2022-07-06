@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ यं꣡ देवी꣡ नि꣡रृतिश् चिद् ई꣡शे  
 न꣡क्षन्त इ꣡न्द्रं शर꣡दः सुपृ꣡क्षः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡स्ववेशं यं꣡ कृण꣡वन्त म꣡र्ताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उप॑ । त्रि॒ऽब॒न्धुः । ज॒रत्ऽअ॑ष्टिम् । ए॒ति॒ । अस्व॑वेशम् । यम् । कृ॒णव॑न्त । मर्ताः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -133,7 +133,7 @@ genre M
 **देवी** द्योतमाना **निर्ऋतिश्चित्** भूमिरपि **ईशे** ॥ कृत्यार्थे केन्प्रत्ययः ॥ ईशितव्या स्वभूता सती **यम्** **इन्द्रम्** **अभि** नक्षते व्याप्नोति । **सुपृक्षः** शोभनान्नैरुपेताः **शरदः** संवत्सराश्च यमिन्द्रं **नक्षन्ते** व्याप्नुवन्ति । **मर्ताः** मरणधर्माणः स्तोतारो वयं **यम्** इन्द्रम् **अस्ववेशं** स्वकीये स्थानेऽनुपविशन्तं **कृणवन्त** कुर्वन्ति । त्रिबन्धुः त्रयाणां लोकानां बन्धको विधारकः स इन्द्रः **जरदष्टिं** जरज्जीर्णमष्टिरशनं यस्य बलस्य हेतुभूतं तद्बलम् **उप** **एति** उपगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,7 +148,7 @@ Jaradaṣṭim = jīrṇam raśanamyasya balasya hetubhūtam tad balam upagaccha
 Nirṛti = the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even (a man) toward whom the goddess Disorder extends her  
 dominion—(because) the autumns rich in fortifying nourishment  
@@ -157,7 +157,7 @@ that man of triple kin-bonds draws near to him [=Indra, who is] one who  reaches
 bereft of his own clansmen.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sense and syntax of this vs. are extremely challenging. My interpr.
 
@@ -174,23 +174,23 @@ As already noted, I do not follow the almost universal interpr. of the hapax tri
 In d we return to the afflictions visited on our unhappy man -- this time by (other) mortals. Thus a and d show him as the target of a divinity (the devī́Nirṛti, a) and men (mártāḥ, d), with Indra as the literal intercessor. Both Geldner and Renou tr. the clear subjunctive kṛṇávanta in d as a preterite (“beraubt haben,” “ont rendu”), but there is no justification for this and neither provides one. Exactly what the other 59 mortals will or would do isn’t entirely clear to me, and it depends in great part on how we interpret -veśa- in the compd ásvaveśa-. In V.85.7, containing an array of apparently non-kin relationships, JPB tr. ‘neighbor’; in IV.3.13, again in a set of calibrated relationships, I do so as well, though in X.49.5 I render it as ‘vassal’. Here, if I am correct about the sense of tribandhú-, -veśa- should refer to a relationship outside the close family line. The sense would be: when mortals deprive him of his non-blood (or less closely related) associates (pāda d), he still has his tight paternal lineage (tribandhú- pāda c). My ‘clansmen’ could be correct (based on the usual sense of víś-), but ‘neighbor’ or even ‘vassal’ (or Renou’s ‘clientèle’) could, too. I do not think Geldner’s Anhang fits, however.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Though Nirrti the Goddess reigneth round him, Autumns with food in plenty come to Indra.  
      With three close Friends to length of days he cometh, he whom men let not rest at home in quiet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Obwohl die Göttin Nirriti rings um ihn Macht hat, so kommen zu Indra die Herbste mit ihren guten Lebenskräften. An den langlebigen Indra wendet sich Tribandhu, den die Sterblichen des eigenen Anhangs beraubt haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch wen die Göttin Nirriti beherrscht schon, erreicht, dreifach verwandt, o Indra, dennoch Willkommne Herbste und ein hohes Alter, wenn auch die Menschen heimatlos ihn machten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Над кем имеет власть сама богиня Гибель,  
 К (этому) Индре (тем не менее) приближаются осени, полные питательной силы.  

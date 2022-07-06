@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ शा꣡सुर् उभ꣡यासः सचन्ते  
 हवि꣡ष्मन्त उशि꣡जो ये꣡ च म꣡र्ताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आपृ꣡छियो विश्प꣡तिर् विक्षु꣡ वेधाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दि॒वः । चि॒त् । पूर्वः॑ । नि । अ॒सा॒दि॒ । होता॑ । आ॒ऽपृच्छ्यः॑ । वि॒श्पतिः॑ । वि॒क्षु । वे॒धाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -118,7 +118,7 @@ genre M
 **शासुः** शासितुः **अस्य** अग्नेः **उभयासः** उभयेऽपि देवा मनुष्याश्च । यद्वा । स्तुतिभिः स्तोतारो यज्ञैर्यजमानाश्च इममग्निं शासितारं **सचन्ते** सेवन्ते। **उशिजः** कामयमाना देवाः **हविष्मन्तः** हविषा युक्ताः **ये** **च** **मर्ताः** मरणधर्माणो यजमानाः । यद्वा । उशिजः इति मेधाविनाम । उशिजः मेधाविनः स्तोतारो हविष्मन्तः हविर्युक्ताः मर्ताः यजमानाः । किंच अयं **होता** होमनिष्पादकोऽग्निः **दिवश्चित्** आदित्यादपि **पूर्वः** उषःसु वर्तमानो भूत्वा अग्निहोत्रहोमार्थं **विक्षु** यजमानेषु **न्यसादि** अध्वर्युणा अग्न्यायतने न्यधायि स्थाप्यते । कीदृशो होता । **आपृच्छ्यः** आप्रष्टव्यः पूज्य इत्यर्थः। **विश्पतिः** विशां प्रजानां पालयिता **वेधाः** विधाताभिमतफलस्य कर्ता ॥ शासुः। शासु अनुशिष्टौ'। तृन्तृचौ शंसिशसिशासिक्षदादिभ्यः संज्ञायां चानिटौ ' (उ. सू. २. २५०) इति तृन् इडागमाभावश्च । षष्ठ्येकवचने तकारलोपश्छान्दसः । नित्त्वादाद्युदात्तत्वम्। उशिजः। **वशः** कित्' ( उ. सू. २. २२९) इति वष्टेः इजिप्रत्ययः । ग्रहिज्यादिना संप्रसारणम् । मर्ताः । ‘ मृङ् प्राणत्यागे'।' असिहसिमृग्रिण्वामि। इत्यादिना तन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् । अपृच्छ्यः । ‘प्रच्छ ज्ञीप्सायाम् । आङ्पूर्वात् अस्मात् ‘ छन्दसि निष्टर्क्य° ' ( पा. सू. ३. १. १२३ ) इत्यादौ क्यप्प्रत्ययो निपातितः । ग्रहिज्यादिना संप्रसारणम् । क्यपः पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । विश्पतिः । पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वे प्राप्ते • परादिश्छन्दसि बहुलम् ' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,39 +131,39 @@ The priests conduct the **yajamāna** to the plural ce where the fire has been p
 **Uṣijaḥ** = medhāvinaḥ, wise or the priests
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His command do both sides follow in presenting their oblations: his  (ancient) fire-priests and mortals (now).  
 He has been set down as Hotar even in front of heaven, as clan-lord  worthy of the asking, the ritual adept among the clans.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 diváś cit pū́rvaḥ is standardly taken as temporal “before day(break),” but this case form of div/dyu is more often spatial than temporal (note diváś cid … bṛhatáḥ in the immediately preceding hymn, 59.5), and pū́rva- + ABL. has a spatial sense elsewhere in just this ritual context: e.g., X.53.1 ní hí ṣátsad ántaraḥ pū́rvo asmát “for he [=Agni] will sit down (as Hotar) close by, in front of us.” Cf. also II.3.3 mā́nuṣāt pūrvaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Both Gods and men obey this Ruler's order, Gods who are worshipped, men who yearn and worship.  
      As Priest he takes his seat ere break of morning, House-Lord, adorable with men, Ordainer.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Both follow his command, the Usigs 1 offering sacrificial food, and the mortals. The Hotri (Agni) has sat down before daybreak among the clans, the lord of the clans, whose leave should be asked, the performer of worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine Weisung befolgen beide Teile opferbringend, die Usij und die Sterblichen. Noch vor Tag wurde der Hotri eingesetzt, der ratbefragte Clanherr unter den Clangenossen der Meister.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es folgen seinem Willen beide Theile, die Opferherren und die thät'gen Männer, Vor Tage noch liess nieder sich der Priester, der liebe Hausherr, waltend in den Häusern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его приказу следуют оба (рода)  
 Совершающие жертвенные возлияния Ушиджи (и те,) которые смертные.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्तीद꣡म् अधिम꣡न्थनम्  
 अ꣡स्ति प्रज꣡ननं कृत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अग्नि꣡म् मन्थाम पूर्व꣡था
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (424)
 ए॒ताम् । वि॒श्पत्नी॑म् । आ । भ॒र॒ । अ॒ग्निम् । म॒न्था॒म॒ । पू॒र्वऽथा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *astīdam* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
@@ -102,7 +102,7 @@ genre D;; epic anuṣṭubh (424)
 यजमानोऽध्वर्य्वादीन्प्रति बूते । **इदम्** अग्न्यर्थं यूपशकलम् **अस्ति** । **अधिमन्थनम्** । अरण्याः उपरि निधेयं मन्थनसाधनभूतं दण्डरज्वादिकम् **अस्ति** । **प्रजननम्** अग्निजननसाधनभूतं दर्भपिञ्जूलं **कृतं** संपादितमस्ति । यद्वा प्रजननं मन्थनदण्डस्य विन्यासविशेषः । यस्मादेतानि यूपशकलादीन्यग्निमन्थनसाधनान्याहृतानि सन्ति तस्मात् **विश्पत्नीं** विशां प्रजानामग्निसाध्याग्निहोत्रद्वारा स्वर्गादिफलसंपादनेन पालयित्रीम् **एताम्** अरणीम् **आ** **भर** हे अध्वर्यो आहर । तस्यामाहृतायां **पूर्वथा** यथा वयमाधानकालेऽग्निममथ्नीम यथा वा पूर्वे महर्षयोऽग्निममन्थिषुः तद्वद्वयमेनम् **अग्निम्** अस्मिन्कर्मणि **मन्थाम**। मन्थनेन निष्पन्नं करवाम ॥ अस्तीति पदद्वयस्य पादादित्वादनिघातः । विश्पत्नीम् । पतिशब्दस्य ‘ विभाषा सपूर्वस्य ' इति ङीप् नकारश्चान्तादेशः।  ‘ परादिश्छन्दसि बहुलम् ' इत्युत्तरपदाद्युदात्तत्वम् । भर ।  ‘ हृञ् हरणे ' इत्यस्य लोटि ‘ हृग्रहोर्भश्छन्दसि ' इति भकारः । मन्थाम।  ‘ मन्थ विलोडने '। लोटि रूपम् । निघातः । पूर्वथा । पूर्वशब्दात् इवार्थे ' प्रत्नपूर्वविश्वेमात्थाल् छन्दसि ' इति थाल्प्रत्ययः । ‘लिति' इति प्रत्ययात्पूर्वस्योदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,34 +115,34 @@ The apparatus of attrition is ready: astīdam adhimanthanam = **asti** prajanana
 Prajananam = begetting; may also connote a tuft of dry grass used to catch and carry the flame
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the base for fire-churning; here is the readied begetting tool  [=upper fire-churning stick].  
 Bring here the clanlord’s lady [=lower fire-churning stick]. Let us churn  Agni in the ancient way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HERE is the gear for friction, here tinder made ready for the spark.  
      Bring thou the Matron: we will rub Agni in ancient fashion forth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 This is the support on which the rubbing (for producing the fire) is performed 2; the creative organ 3 has been prepared. Bring hither the house-wife 4; let us produce Agni by rubbing in the old way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist das Reibegestell, das Zeugungsglied ist fertig. Bring die Stammesfürsten herbei, wir wollen wie vordem das Feuer ausreiben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist das männliche Reibholz, es ist zum Zeugen bereit gemacht, bringe diese Hausfrau [das weibliche Reibholz] her- bei, wir wollen den Agni durch Reiben hervorbringen wie in früherer Zeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Есть эта основа для трения,  
 Есть уд, готовый к зачатию.  

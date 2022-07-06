@@ -8,7 +8,7 @@ title = "+029"
 ‘प्रास्य' इति षडृचं पञ्चमं सूक्तं नृमेधस्याङ्गिरसस्यार्षं गायत्रं पवमानसोमदेवताकम् । अनुक्रम्यते च -- प्रास्य नृमेधः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 29 (741)  
 Soma Pavamāna  

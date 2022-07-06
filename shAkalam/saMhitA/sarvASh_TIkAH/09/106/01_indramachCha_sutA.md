@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रम् अ꣡छ सुता꣡ इमे꣡  
 वृ꣡षणं यन्तु ह꣡रयः  
 श्रुष्टी꣡ जाता꣡स इ꣡न्दवः सुवर्वि꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 श्रु॒ष्टी । जा॒तासः॑ । इन्द॑वः । स्वः॒ऽविदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -91,19 +91,19 @@ genre M;; line affected by realignment
 **श्रुष्टी** । श्रुष्टीति क्षिप्रनाम । क्षिप्रं **जातासः** जाताः **इन्दवः** पात्रेषु क्षरन्तः **स्वर्विदः**। सर्वज्ञाः **हरयः** हरितवर्णाः **सुताः** अभिषुताः **इमे** सोमाः **वृषणं** कामानां सेक्तारम् **इन्द्रमच्छ** **यन्तु** अभिगच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May these effused green-tinted **Soma** juices quickly genitive rated, all-knowing, proceed to **Indra** the showerer (of benefits).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let these pressed (soma drinks) go to Indra, the tawny ones to the bull, the drops born because of (Indra’s?) attentive hearing, finding the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Renou points out, the exact nuance of śruṣṭī́is hard to pinpoint, but Geldner’s recessive adverb “willig” does not seem sufficient. Renou also adduces II.3.9 śruṣṭī́… jāyate, similar to our śruṣṭī́jātā́saḥ. I interpr. both passages to mean that the right ritual birth happens because of a/the god’s attention to the process (Tvaṣṭar in II.3.9, Indra here).
 
@@ -120,23 +120,23 @@ Vss. 2 and 3 are also lexically linked: sānasí- (2a, 3b), jaítrasya (2c) / -j
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra, to the Mighty Steer, may these gold-coloured juices go,  
      Drops rapidly produced, that find the light of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Indra, dem Bullen, sollen diese ausgepreßten Falben gehen, die Säfte, willig geboren, das Himmelslicht findend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Stiere Indra mögen hier die goldigen, gepressten gehn, Die Indutränke, Glanz gewinnend, rasch erzeugt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Индре пусть пойдут эти выжатые  
 Соки сомы, к быку – буланые,  

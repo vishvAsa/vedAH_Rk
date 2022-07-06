@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवे꣡द् इ꣡न्द्रः सुह꣡व ऋष्वो꣡ अस्तु  
 ऊती꣡ अ꣡नूती हिरिशिप्रः꣡ स꣡त्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरू꣡ च वृत्रा꣡ हनति नि꣡ द꣡स्यून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ए॒व । हि । जा॒तः । अस॑मातिऽओजाः । पु॒रु । च॒ । वृ॒त्रा । ह॒न॒ति॒ । नि । दस्यू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eved* ← *eva*
 - \[adverb\]
@@ -140,7 +140,7 @@ genre M
 **एव** एवमुक्तेन प्रकारेण **ऋष्वः** महान् **इन्द्रः** **सुहवः** **अस्तु** सुखेनाह्वातव्यो' भवतु । **इत** इति पूरणः । **हिरिशिप्रः** । शिप्रे हनू नासिके वा । हरितवर्णे शिप्रे यस्य तादृशः इन्द्रः **ऊती** ऊत्यागमनेन **अनूती** अनूत्यानागमनेन वा **सत्वा** गमयिता भवति धनानाम् । स्वयमागतोऽनागतोऽपि स्तोतृभ्यो धनं प्रयच्छतीत्यर्थः। **एवा** **हि** एवं हि **जातः** प्रादुर्भूतोऽयमिन्द्रः **असमात्योजाः** असमाति असमानम् अनुपमम् उत्कृष्टतरमोजो बलं यस्य तादृशः सन् **पुरु** पुरूणि बहूनि **च** **वृत्रा** वृत्राण्यावरकाणि रक्षःप्रभृतीनि **हनति** हिनस्तु । तथा **दस्यून्** उपक्षपयितॄन् शत्रूंश्च **नि** हन्तु ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,35 +151,35 @@ genre M
 The azure-chinned: hiriśipra = **haritavarṇaḥ** śipro yasya, he whose chin or nose is of a green colour, an allusion perhaps to the sky, considered as a feature of Indra; whether by coming or not coming: ūti anūti = āgamanena anāgamanena, by coming or not coming; svayam āgato anāgato api stotṛbhyo dhanam prayacchati, whether he may have come himself or not, he gives wealth to the praisers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just in this way let lofty Indra be easily called—the warrior with golden  lips, with his help that needs no help,  
 for in this way was he born with unequalled, surpassing might. He will  strike down many obstacles [/Vr̥tras] and Dasyus.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The double evā́(a, c) strongly marks this as an extra-hymnic summary vs. ## 030
 Indra
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So be the lofty Indra prompt to listen, Helper unaided, golden-visored Hero.  
      Yea, so may he, shown forth in might unequalled, smite down the many Vrtras and the Dasyus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also soll der hohe Indra sich gern rufen lassen zur Hilfe und Nichthilfe, der Krieger mit goldenem Gebiß, denn also ist er geboren mit Stärke ohne Gleichen. Und er möge viele Feinde, die Dasyu´s niederschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So höre unsern Ruf der hohe Indra, mit goldnem Helm er, stark in Gunst und Ungunst; Denn von Geburt ein unvergleichlich starker, erschlägt er auch viel Feinde und Dämonen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так вот, пусть будет легкопризываемым высокий Индра  
 С поддержкой, когда нет поддержки, воин с золотыми челюстями.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवो꣡ देवा꣡य धा꣡रया  
 इ꣡न्द्राय पवते सुतः꣡  
 प꣡यो य꣡द् अस्य पीप꣡यत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पयः॑ । यत् । अ॒स्य॒ । पी॒पय॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **देवाय** द्योतमानाय **इन्द्राय** **सुतः** अभिषुतः **देवः** द्योतमानः सोमः **धारया** **पवते** क्षरति । **यत्** यस्मात् **अस्य** सोमस्य **पयः** **पीपयत्** इन्द्रमाप्यायितवत् । तस्माद्धारया पवत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,37 +93,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Flattens: pīpayat = from pyai (reduplicated form); or, pi = its milk swells
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The god for the god—pressed, he purifies himself in a stream  
 for Indra,  
 when he [=Indra] swells his milk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. reestablishes the line of demarcation between Soma and Indra that was blurred in vs. 2, by means of the reciprocal figure devó devā́ya “the god for the god,” with the dat. further specified as índrāya.
 
 The stem pīpáya- is ambiguous; it can be both intrans. and trans. (and at least once mixed: I.63.8; see comm. ad loc.). In this passage Geldner takes it as intrans. (“wann seine Milch quillt”). The ambiguity is in part the result of the partial coincidence of the pf. subjunctive and the redupl. aor. injunctive (or subj.) (see Kümmel 301-3), and in this passage we appear to have the trans. redupl. aor. (Kümmel 302). Partly on the basis of VIII.1.19, Oldenberg takes Indra as the subj. of trans. pīpáyat. Renou also considers the form “probably” transitive, though he does not specify the subject.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effused, the God flows onward with his stream to Indra, to the God,  
      So that his milk may strengthen him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gott läutert sich mit seinem Strome für Gott Indra ausgepreßt, wann seine Milch quillt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Gotte Indra rieselt zu im Strom der Gott, der Somasaft, Damit er nähre seine Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бог, для бога Индры  
 Выжатый, очищается потоком,  

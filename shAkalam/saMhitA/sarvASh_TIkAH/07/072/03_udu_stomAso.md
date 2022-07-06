@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ स्तो꣡मासो अश्वि꣡नोर् अबुध्रञ्  
 जामि꣡ ब्र꣡ह्माणि उष꣡सश् च देवीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡छा वि꣡प्रो ना꣡सतिया विवक्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ॒ऽविवा॑सन् । रोद॑सी॒ इति॑ । धिष्ण्ये॒ इति॑ । इ॒मे इति॑ । अच्छ॑ । विप्रः॑ । नास॑त्या । वि॒व॒क्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -117,37 +117,37 @@ genre M
 **स्तोमासः** स्तोमाः स्तवाः अश्विनाश्विनौ **उदु** **अबुध्रन्** उत्कृष्टं बोधयन्ति । उ इति पूरणः । **जामि** । बन्धुनामैतत् । बन्धुस्थानीयानि **ब्रह्माणि** परिवृढानि कर्माणि **देवीः** द्योतमानाः **उषसः** । चकारादश्विनौ च । अबुध्रन्। **विप्रः** मेधावी वसिष्ठः **इमे** रोदसी द्यावापृथिव्यौ **धिष्ण्ये** धिषणार्हे स्तुत्ये **आविवासन** परिचरन् **नासत्या** अश्विनौ **अच्छ** अभिमुखं **विवक्ति** स्तौति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praises wakn up the **Aśvins**, kindred adorations (arouse them) and the celestial dawns; the sage,addressing these laudations to the adorable heaven and earth glorifies the **Nāsatyās** in their presence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The praise songs of the Aśvins have awakened, also our family  
 formulations and the Dawns, the goddesses.  
 Seeking to gain these two world-halves, the inspired poet summons here  the two holy Nāsatyas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Awakened are the songs that praise the Asvins, the kindred prayers and the Celestial Mornings.  
      Inviting those we long for, Earth and Heaven, the singer calleth these Nasatyas hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Loblieder auf die Asvin sind erwacht, die in der Familie erblichen Kraftreden und die Göttinnen Usas`. Indem ihr diese beiden Rodasi, die ...... herbittet, lädt der Beredte die Nasatya´s ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon wurden wach der Ritter Lobgesänge, zugleich Gebete mit den Morgenröthen; Der Sänger ruft herbei die treuen Ritter, geneigt sich machend beide reichen Welten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пробудились восхваления Ашвинов –  
 Священные слова, хранимые в семье, и божественные утренние зори.  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो अद्य꣡ स꣡मनसो  
 ग꣡न्ता वि꣡श्वे सजो꣡षसः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 स꣡दने प꣡स्तिये महि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ऋ॒चा । गि॒रा । मरु॑तः । देवि॑ । अदि॑ते । सद॑ने । पस्त्ये॑ । म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -108,36 +108,36 @@ genre M
 **समनसः** सर्वेषु स्तोतृषु समानमनस्काः **विश्वे** सर्वे देवा यूयं सजोषसः परस्परं संगताः सन्तः **गिरा**। शुश्रूषुतया प्राप्तव्ययेत्यर्थः । तया **ऋचा** सह **अद्य** अस्मिन् यागदिने **नः** यष्टॄन् अस्मान् **आ** **गन्त** आगच्छत । अनन्तरं हे **मरुतः** **देवि** द्योतमाने **महि** महति देवानां मातृत्वान्महत्वयुक्ते हे **अदिते** अदीने एतन्नामिके देवि **सदने** स्थाने **पस्त्ये** अम्मदीये गृहे स्तोतव्यतयोपविशत ॥ मरुत इत्यादेर्वाक्यभेदादनिघातः । उत्तरत्र पूर्वस्यामन्त्रितस्याविद्यमानवत्त्वेन वाक्यादित्वादनिघातः ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Universal deities, united together and of one mind, come this day to us, (attracted) by the sacred praiseaddressed to you; and do you, **Maruts**, and the mighty goddess **Aditi**, (come) to the dwelling, (our) abode.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come to us here today, all of like mind and like delight—  
 o Maruts, goddess Aditi, great House-Goddess—at our verse and our  song to our seat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us with one mind to-day, come to us all with one accord,  
      Maruts with holy song, and, Goddess Aditi, Mighty One, to our house and home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet heute alle einmütig, vereint zu uns mit der gebundenen Rede, mit dem Loblied, ihr Marut, Göttin Aditi, in unser Haus, große Pastya;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O kommet heute gleichgesinnt, vereinigt alle her zu uns, Durch Lied und Preis, o Maruts, Göttin Aditi, zum Sitz, o grosse, heimische.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нам сегодня единодушные  
 Приходите все в согласии  

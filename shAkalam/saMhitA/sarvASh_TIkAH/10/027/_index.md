@@ -3,7 +3,7 @@ title = "+027"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 27 (853)  
 Indra  

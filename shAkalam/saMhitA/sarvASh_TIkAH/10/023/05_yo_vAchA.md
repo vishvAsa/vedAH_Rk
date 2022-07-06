@@ -6,7 +6,7 @@ ChandaH = "अभिसारिणी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वाचा꣡ वि꣡वाचो मृध्र꣡वाचः  
 पुरू꣡ सह꣡स्रा꣡शिवा जघा꣡न  
@@ -14,7 +14,7 @@ ChandaH = "अभिसारिणी"
 पिते꣡व य꣡स् त꣡विषीं वावृधे꣡ श꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तत्ऽत॑त् । इत् । अ॒स्य॒ । पौंस्य॑म् । गृ॒णी॒म॒सि॒ । पि॒ताऽइ॑व । यः । तवि॑षीम् । व॒वृ॒धे । शवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -132,36 +132,36 @@ genre M
 बलमन्नप्रदानैः वर्धयति तथा वृष्टिद्वारेण सर्वस्य जगतः **शवः** बलं **ववृधे** वर्धयति **अस्य** इन्द्रस्य **तत्तदित्** तत्तदेव **पौंस्यं** बलं **गृणीमसि** वयं स्तुमः । इन्द्रो येन येन बलेन शत्रून् हन्ति तस्य तत्तद्बलं वयं स्तुम इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We praise his manhood, who, having by his voice alone made the many- tongued speechless has slainmany thousand enemies, who supports the strength (of the world) as a father the strength (of his son).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who smote with his speech those of disputatious speech, those of  insulting speech, and many thousands of the hostile,  
 this and every (other) masculine deed of his do we sing—he who, like a  father (his son), has strengthened his own force and strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We laud and praise his several deeds of valour who, fatherlike, with power hath made us stronger;  
      Who with his voice slew many thousand wicked ones who spake in varied manners with contemptuous cries.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der mit dem bloßen Wort die Widerredenden, die Mißredenden, die vielen tausend Feinde erschlug. Diese und jene Mannestat von ihm besingen wir, der seine Stärke, seine Macht wie der Vater den Sohn großgezogen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der viele tausend unheilvolle Schmäher und Streiter schlug allein durch seine Stimme, Wir preisen diese seine kühne Mannesthat, der wie ein Vater stärket seine Kraft und Macht
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто (одной только) речью противоречащих, злоречивых,  
 Много тысяч недругов убил:  

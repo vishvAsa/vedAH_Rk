@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡द꣡म् मरु꣡तो अश्वि꣡ना  
 मित्रः꣡ सीदन्तु व꣡रुणः  
 देवा꣡सः स꣡र्वया विशा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 दे॒वासः॑ । सर्व॑या । वि॒शा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *edam* ← *ā*
 - \[adverb\]
@@ -84,40 +84,40 @@ genre M
 **मरुतः** मरुद्गणाः **अश्विना** अश्विनौ देवानां भिषजौ **मित्रः** सूर्यः **वरुणः** च **देवासः** एते सर्वे देवाः **सर्वया** **विशा** समस्तेन स्वीयेन परिजनेन सार्धम् **इदं** बर्हिः **आ** **सीदन्तु** ॥॥२०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the **Maruts**, the **Aśvins**, **Mitra**, **Varuṇa**, the gods, with all their attendants, sit down upon this grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the Maruts, the Aśvins, and Mitra and Varuṇa sit here upon this, let the gods with their whole clan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may the Maruts sit thereon, the Asvins, Mitra, Varuna:  
      The Gods with all their company.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the Maruts, the Asvins, Mitra and Varuna sit down on this (sacrificial grass). the gods with all their folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dieses sollen sich die Marut, die Asvin, Mitra, Varuna setzen, die Götter mit vollzähliger Gemeinde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dort setze sich die Marutschar, die Ritter, Mitra, Varuna, Der ganze Stamm der Götter hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да усядутся здесь Маруты,  
 Ашвины, Митра, Варуна –  

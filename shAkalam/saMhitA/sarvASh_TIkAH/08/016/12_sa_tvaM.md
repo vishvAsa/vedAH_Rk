@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्वं꣡ न इन्द्र वा꣡जेभिर्  
 दशस्या꣡ च गातुया꣡ च  
 अ꣡छा च नः सुम्नं꣡ नेषि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अच्छ॑ । च॒ । नः॒ । सु॒म्नम् । ने॒षि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -97,36 +97,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **इन्द्र** **सः** तादृशः **त्वम्** **नः** अस्मभ्यं **वाजेभिः** बलैः **दशस्य** **च** धनं प्रयच्छ च । दशस्यतिर्दानकर्मा । **गातुय** **च** मार्गमस्मभ्यमिच्छ च । गातुशब्दात् छन्दसि परेच्छायाम्। इति क्यच् । न च्छन्दस्यपुत्रस्य ' इति दीर्घनिषेधः । तथा **नः** अस्मान् **सुम्नं** सुखं च **अच्छ** **नेषि** अभिप्रापय ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Indra**, (endow) us with vigour, bestow upon us (wealth, enable us) to go (by the right way), leadus to felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Indra—with prizes of victory do honor to us, and provide  us a way,  
 and lead us to your favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, O Indra, honour us with gifts of booty, further us,  
      And lead us to felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch Belohnungen zeige dich, Indra, uns gewogen, und weise uns den Weg und führe uns zum Glück!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hilf, o Indra, uns durch Labung, schaff uns Bahn durch deine Güte Und geleite uns zum Wohlsein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, Индра, будь к нам милостив  
 С наградами и создай свободный путь,  

@@ -3,7 +3,7 @@ title = "+08"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 ### Sages and structure  
 Maṇḍala VIII is organized into small groups of hymns attributed to a single poet  or a set of closely related poets. Within each group, the hymns are organized by  divinity and meter and length of hymn. 

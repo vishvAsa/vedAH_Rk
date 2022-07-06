@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्त꣡र् दूतो꣡ रो꣡दसी दस्म꣡ ईयते  
 हो꣡ता नि꣡षत्तो म꣡नुषः पुरो꣡हितः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देवे꣡भिर् अग्नि꣡र् इषितो꣡ धिया꣡वसुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्षय॑म् । बृ॒हन्त॑म् । परि॑ । भू॒ष॒ति॒ । द्युऽभिः॑ । दे॒वेभिः॑ । अ॒ग्निः । इ॒षि॒तः । धि॒याऽव॑सुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *antar*
 - \[adverb\]
@@ -116,41 +116,41 @@ genre M
 दस्मोदर्शनीयोहोताग्निः दूतः देवानान्दूतःसन् रोदसीरोदस्योर्द्यावापृथिव्योः अन्तर्मध्ये ईयते गच्छति मनुषः मनोर्जातस्य मनुष्यस्यपुरोहितः आहवनीयादिरूप्;एणपुरतःस्थापितः निषत्तो निषण्णःसन् अग्निर्द्युभिःदीप्तिभिः बृहःतं महान्तं क्षयं यज्ञगृहं परिभूषति अलङ्कुरुते देवेभिः देवैः इषितः प्रेषितोधियावसुः प्रज्ञयाव्याप्तः एतेद्वे अग्निविशेषणे ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The graceful messenger (of the gods) goes between heaven and earth; sitting (on the altar), and plural ced before men, he ornaments, the spacious chambers (of sacrifice) with his rays, animated by the gods, and affluent in wisdom.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The wondrous messenger journeys between the two world-halves. The  Hotar of Manu has taken his seat, placed to the fore.  
 He attends upon his lofty dwelling place throughout the days. Bringing  goods through his insight, Agni is urged on by the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, wondrous envoy, goes between the earth and heaven, firm seated as the Herald, great High Priest of men.  
      He compassethwith rays the lofty dwelling-place, Agni, sent forward by the Gods, enriched with piayer.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The wonderful messenger goes between the two worlds (heaven and earth), the Hotri who has sat down, the Purohita of Manus. He takes care of his wide dwelling day by day, Agni who, incited by the gods, gives wealth for our prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Bote verkehrt der Meister zwischen beiden Welten, zum Hotri eingesetzt, als Bevollmächtigter des Menschen. Mit jedem neuen Tag nimmt Agni seinen hohen Wohnsitz ein, von den Göttern geheißen, der Gedankenreiche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Bote eilt von Welt zu Welt er wunderbar, als Opferpriester für den Menschen eingesetzt, Mit Strahlen schmückt er rings den hocherhabnen Sitz gesandt von Göttern Agni reich an Achtsamkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Удивительный движется как вестник между двух миров,  
 Посаженный как хотар, установленный впереди человека.  

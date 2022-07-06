@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् इ꣡न्द्रेणोत꣡ वायु꣡ना  
 सुत꣡ एति पवि꣡त्र आ꣡  
 सं꣡ सू꣡रियस्य रश्मि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सम् । सूर्य॑स्य । र॒श्मिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -86,20 +86,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सुतः** अभिषुतः सोमः **पवित्रे** **इन्द्रेण** **सम्** **एति** संगच्छते । **उत** अपि च **वायुना** समेति । **सूर्यस्य** **रश्मिभिः** मयूखैरपि **सम्** एति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When effused he proceeds to the filter, with **Indra** and **Vāyu**, and with the sun's rays.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pressed, he goes into the filter, uniting with Indra and Vāyu,  
 uniting with the rays of the sun.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ The tṛca is characterized by the mention of gods in all three vss. The Āditya
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With Indra and with Vayu he, effused, flows onward with,the beams  
      Of Surya to the cleansing sieve.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In die Seihe ausgepreßt vereinigt er sich mit Indra und Vayu und mit den Strahlen der Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Indra und mit Vaju geht zur Seihe der gepresste hin Und mit der Sonne Strahlen er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он соединяется с Индрой и Ваю,  
 Выжатый (сок, который находится) в цедилке,  

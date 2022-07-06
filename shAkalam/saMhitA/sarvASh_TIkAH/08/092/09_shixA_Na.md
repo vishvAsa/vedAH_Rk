@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शि꣡क्षा ण इन्द्र राय꣡ आ꣡  
 पुरु꣡ विद्वाँ꣡ ऋचीषम  
 अ꣡वा नः पा꣡रिये ध꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अव॑ । नः॒ । पार्ये॑ । धने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śikṣā* ← *śikṣa* ← *śikṣ*
 - \[verb\], singular, Present imperative
@@ -90,36 +90,36 @@ genre M
 हे **ऋचीषम** स्तुत्या सम । यद्वा । 'ईष गतिहिंसादर्शनेषु' । अस्मादमप्रत्ययः । सर्वैर्गन्तव्य दर्शनीय वा । उक्तगुणोपेत हे **इन्द्र** **विद्वान्** सर्वविषयज्ञानवांस्त्वं शत्रुभ्य आहृत्य **रायः** धनानि **नः** अस्मभ्यं **पुरु** बहुवारं **शिक्ष** प्रयच्छ । यद्वा । पुर्विति रायो विशेषणम् । बहूनि धनानि प्रयच्छ । किंच **पार्ये** । पाराः शत्रवः । तत्र भवे **धने** आजिहीर्षिते शत्रुधने **नः** अस्मान् **अव** रक्ष । शत्रून् हत्वा तद्धनेनास्मान् पालयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O you worthy of our praise, you who know all things, repeatedly give us riches, protect us by the wealthour enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do your best for wealth for us, as one knowing many things, o Indra,  you who are equal to song.  
 Help us in the decisive (contest for) spoils.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, send us riches, thou Omniscient, worthy of our praise:  
      Help us in the decisive fray.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Suche uns Reichtum zu verschaffen als der Vielkundige, o Indra, steh uns bei, wenn der Gewinn zur Entscheidung steht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, schenke Güter uns, du kennst ja viele, glänzender, Und hilf uns im Entscheidungskampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

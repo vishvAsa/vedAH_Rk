@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ईम् महीं꣡ धु꣡निम् ए꣡तोर् अरम्णात्  
 सो꣡ अस्नातॄ꣡न् अपारयत् सुअस्ति꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 ते । उ॒त्ऽस्नाय॑ । र॒यिम् । अ॒भि । प्र । त॒स्थुः॒ । सोम॑स्य । ता । मदे॑ । इन्द्रः॑ । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -143,7 +143,7 @@ genre M;; repeated line
 सइन्द्रः ईमेनाम्महीम्महतीं धुनिं धुनोतिस्तोतॄणाम्पापानीतिधुनिः परुष्णीनदी तां एतोः ईश्वर- पदासन्निधानेपि तोसुन्प्रत्ययः ऋषीणाङ्गमनार्थंअरम्णात् उपाशमयत् महाजलान्नदींअल्पोदकाम- करोदित्यर्थः सइन्द्रः अस्नातॄन् स्नातुमशक्तान् तरणासमर्थानृषीन् स्वस्तिक्षेमेणअपरयत् तेमहर्षयः उत्स्नायतान्नदीमुत्तीर्ययंरयिमपेक्ष्यगच्छन्ति तंरयिंअभिलक्ष्यप्रतस्थुः प्रतस्थिरे शिष्टंसिद्धम् ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,29 +154,29 @@ genre M;; repeated line
 Sa īm mahīm dhunim eto aramṇāt: **dhuni** = paruṣṇi or **irāvatī** river, because of its shaking or dissipating the sins of the worshippers: stotrṇn.ām pāpāni dhunoti paruṣṇi **nadī**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He stopped the great, tumultuous (river) from going. He made the  non-bathers cross over safely.  
 Having risen from this bath, they set out toward wealth. – In soma’s  exhilaration Indra did these things.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mighty roaring flood he stayed from flowing, and carried those who swam not safely over.  
      They having crossed the stream attained to riches. These things did Indra in the Soma's rapture.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er brachte den großen Strom in seinem Laufe zum Stillstand, er brachte die Nichtschwimmer heil hinüber. Dem Wasser entstiegen zogen diese auf Reichtum aus. - Im Rausche des Soma hat das Indra getan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er bracht' zur Ruh den Strom, der reissend hinschoss, und setzte glücklich unbenetzt sie über; Heraus dann tauchend kamen sie zu Reichthum; im Rausch des Soma hat vollbracht dies Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он остановил в движении эту великую бурлящую (реку).  
 Неплавающих он благополучно переправил.  

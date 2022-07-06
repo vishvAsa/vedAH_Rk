@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वम्री꣡भिः पुत्र꣡म् अग्रु꣡वो अदानं꣡  
 निवे꣡शनाद् धरिव आ꣡ जभर्थ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡र् भूद् उखछि꣡त् स꣡म् अरन्त प꣡र्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । अ॒न्धः । अ॒ख्य॒त् । अहि॑म् । आ॒ऽद॒दा॒नः । निः । भू॒त् । उ॒ख॒ऽछित् । सम् । अ॒र॒न्त॒ । पर्व॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vamrībhiḥ* ← *vamra*
 - \[noun\], instrumental, plural, feminine
@@ -127,7 +127,7 @@ genre M
 हे **हरिवः** हरिसंज्ञकाश्वोपेतेन्द्र त्वं **वम्रीभिः** उपजिह्विकाभिः **अदानम्** अद्यमानम् **अग्रुवः** । अग्रू नाम काचित् । तस्याः **पुत्रं** **निवेशनात्** वल्मीकाख्यात् स्थानात् **आ** **जभर्थ** आहृतवानसि ॥ **आददानः** इन्द्रेणाह्रियमाणोऽग्रुवः पुत्रः **अन्धः** पूर्वमन्धः सन् **अहिं** सर्पं **वि** **अख्यत्** विशेषेण अपश्यत् । ततः निर्भूत् वल्मीकान्निर्गतः अभूत्। 'उखच्छित् वल्मीकाख्याया उखायाश्छेदकानि **पर्व** पर्वाणि अस्य सर्वाण्यङ्गानां शिथिलानि पर्वाणि **समरन्त** समगच्छन्त । उपजिह्विकाभिः शिथिलीकृतानि अग्रुवः पुत्रस्य पर्वाणीन्द्रेण समधीयन्तेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,30 +138,30 @@ genre M
 Agru: agrū **nāma** kācit, a certain feminine le; where he was being devoured by the ants: vamribhir adanam upajihvikābhir adyamānam: **upajihvikā**, the white ant: niveśanāt vālmīkakhyāt sthānāt: **valmīka** is a hillock thrown up by the insect; the serpent: ahim = sarpam (an allusion to the popular belief of the presence of a snake in an ant-hill); the joints were restrung: ukhacchit samaranta **parva**: vālmīkākhyā ukhāyās chedakāni parvāṇi samagacchanta, the joints which had been relaxed or corroded by the insects of the **ukhā**, or ant-hill were reunited by **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You brought the son of the unwed girl, as he was being eaten by female  ants, out from their lair, o master of the fallow bays.  
 The blind man saw after taking the serpent. The man broken in the  
 “pot” [=hip?] set out; his joints fit together.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of Bay Steeds, thou broughtest from the ant-hill the unwedded damsel's son whom ants were eating.  
      The blind saw clearly, as he grasped the serpent, rose, brake the jar: hisjoints again united.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den von Ameisen benagten Jungfernsohn hast du Falbenlenker aus seinem Unterschlupf geholt. Der Blinde wurde sehend, als er die Schlange anfaßte. Der Pfannenbrecher kam davon, es heilten seine Gelenke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du zogst der Jungfrau Sohn, o Füchselenker, aus dem Verstecke, den vom Wurm benagten, Der Blinde sah, als er die Schlang' ergriffen, der morsche ging geheilt an den Gelenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сына девицы, обглоданного муравьями,  
 Ты доставил, о хозяин буланых коней, из (его) обиталища.  

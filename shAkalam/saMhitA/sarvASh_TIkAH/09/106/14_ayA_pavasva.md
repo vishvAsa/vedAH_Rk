@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ पवस्व देवयु꣡र्  
 म꣡धोर् धा꣡रा असृक्षत  
 रे꣡भन् पवि꣡त्रम् प꣡रि एषि विश्व꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 रेभ॑न् । प॒वित्र॑म् । परि॑ । ए॒षि॒ । वि॒श्वतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -84,21 +84,21 @@ genre M
 हे सोम **देवयुः** देवान् कामयमानस्त्वम् **अया** अनया धारया **पवस्व** क्षर । ततः **मधोः** मदकरस्य तव **धाराः** आत्मीयाः **असृक्षत** सृज्यन्ते । अनन्तरं **रेभन्** शब्दायमानः **पवित्रं** **विश्वतः** **पर्येषि** सर्वतः परिगच्छसि ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Devoted to the gods flow with that (stream); (your) streams of exhilarating beverage are let loose; with a roar you pass through the filter in all directions.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In this way purify yourself, seeking the gods. The streams of honey have  been sent surging.  
 Rasping, circle around the filter on all sides.  
 Hymns Arranged in Pragāthas: 107–108
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The fem. instr. ayā́opening this final vs. seems to fulfill the same role as evā́in other hymn-summary vss. Both Geldner and Renou supply a noun with it (Laüterung / clarification), but though the use of the fem. seems to invite something more than a semi-adverbial ‘in this way’, the model of hymn-summary vss. seems to me to outweigh that consideration.
 
@@ -113,23 +113,23 @@ The last two extra vss. do not allow a detached 4-syllable unit, because the wor
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow thus, a faithful votary: the streams of meath have been effused.  
      Thou comest to the filter, singing, from each side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich mit dieser Läuterung, nach den Göttern verlangend. Die Ströme der Süßigkeit haben sich ergossen; laut redend umkreisest du allenthalben die Seihe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So riesle denn den Göttern zu, ergossen ist des Methes Strom, Von allen Seiten gehst du singend durch das Somasieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся таким образом, стремясь к богам!  
 Выпущены потоки меда.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वो रा꣡जानम् अध्वर꣡स्य रुद्रं꣡  
 हो꣡तारं सत्यय꣡जं रो꣡दसीयोः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धि꣡रण्यरूपम् अ꣡वसे कृणुध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । पु॒रा । त॒न॒यि॒त्नोः । अ॒चित्ता॑त् । हिर॑ण्यऽरूपम् । अव॑से । कृ॒णु॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 हे ऋत्विग्यजमानाः **अध्वरस्य** यज्ञस्य **राजानम्** अधिपतिं **होतारं** देवानामाह्वातारं **रुद्रं** रोरूयमाणं द्रवन्तं शत्रून् रोदयन्तं वा । यद्वा । एषा वा अग्नेस्तनूर्यद्रुद्रः' इति रुद्रात्मकं **रोदस्योः** द्यावापृथिव्योः **सत्ययजं** सत्यस्यान्नस्य दातारम् । यद्वा । सत्ययजं सत्येन हविषा देवान् यजन्तम् । यद्वा । रोदस्योर्व्याप्य वर्तमानम् 'हिरण्यरूपं सुवर्णप्रभम् एवंविधम् **अग्निं** **वः** युष्माकम् **अवसे** रक्षणाय **तनयित्नोः** । तनयित्नुरशनिः स ह्याकस्मिकः । तत्सदृशात् **अचित्तात्** । न विद्यते चित्तं यस्मिन् तदचित्तम् । चित्तोपलक्षितसवेंन्द्रियोपसंहारो मरणमिति यावत् । तस्मान्मरणात् **पुरा** प्रागेव **आ** **कृणुध्वम्** । यूयं समन्ताद्धविर्भिरग्निं भजध्वम् ॥ रुद्रम् । रोदयतेः ‘रोदेर्णिलुक्च' ( उ. सू. २. १७९ ) इति रक्प्रत्ययः । तनयित्नोः । तनिः शब्दार्थः । चुरादिरदन्तः । ‘स्तनिशुधिपुषिगमिमनिभ्यो मेरित्नुच् ' ( उ. सू.३. ३०९ ) इति इत्नुच्प्रत्ययः । चित्स्वरेणान्तोदात्तः । सुपा सहैकादेशे एकादेशस्वरः । कृणुध्वम् । **कृवि** हिंसाकरणयोः '। लोटि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,14 +131,14 @@ genre M
 **Purā** tanayitnor acittāt = liṭ, before the unconsciousness of the thunderbolt; this implies a state of unconsciousness, or death as sudden as if the work of the thunderbolt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make [=ignite] him here, the king, the Rudra of your ceremony, the  Hotar whose sacrifice comes true in the two world-halves,  
 Agni of golden form—(make him) for help for you in the face of  
 unexpected thundering.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I render vs.-final kṛṇudhvam twice -- once with vs.-initial ā́in the meaning ‘make = kindle’, rather than with most tr. ‘bring here’, and once with the quasiinfinitival dat. ávase.
 
@@ -149,29 +149,29 @@ ródasyoḥ can be either gen. (with most tr.) or loc. (so published translation
 As most interpr. take it, “unexpected thundering” is probably a reference to all sorts of unforeseen dangers, rather than specifically of a sudden storm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WIN, to assist you, Rudra, Lord of worship, Priest of both worlds, effectual  
      Sacrificer,  
      Agni, invested with his golden colours, before the thunder strike and lay you senseless.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Draw Rudra hither for your protection 1, the king of sacrifice, the truly sacrificing Hotri of the two worlds 2, the golden-coloured Agni, before the unseen thunderbolt (strikes you).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den König eures Opfers, den Rudra, den wahrhaft opfernden Hotri beider Welten, den goldfarbigen Agni gewinnet zur Gunst, noch rechtzeitg vor dem unerwarteten Donnerschlag.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider Welten, Eh' noch der laute Donnerer gewahrt wird, schafft euch zur Hülfe her, den goldgefärbten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Царя обряда, Рудру,  
 Хотара обоих миров, истинно жертвующего, –  

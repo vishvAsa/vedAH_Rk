@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्री꣡णि पदा꣡नि अश्वि꣡नोर्  
 आविः꣡ सा꣡न्ति गु꣡हा परः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अर्वा꣡ग् जीवे꣡भियस् प꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 क॒वी इति॑ । ऋ॒तस्य॑ । पत्म॑ऽभिः । अ॒र्वाक् । जी॒वेभ्यः॑ । परि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trīṇi* ← *tri*
 - \[noun\], nominative, plural, neuter
@@ -97,7 +97,7 @@ genre M
 **त्रीणि** त्रिसंख्याकानि अनयोः **अश्विनोः** देवयो रथस्य संबन्धीनि **पदानि** चक्राणि **गुहा** गुहायां वर्तमानान्येतावन्तं कालमदृश्यमानानि **परः** गुहायाः परस्ताद्दृष्टिगोचरे देशे **आविः** **सन्ति** आविर्भवन्ति ॥ सांहितिकश्छन्दसो दीर्घः। व्यत्ययेन निघाताभावः । यद्वा । सन्तीत्येतत् अस्तेः शतरि जसि रूपम् ॥ आविर्भूतानि दृश्यन्ते । आश्विनस्य रथस्य चक्रत्रयोपेतत्वं च रथस्त्रिचक्रः परि वर्तते ' (ऋ. सं. ४. ३६. १ ) इत्यादिनिगमान्तरे प्रसिद्धम् । **कवी** क्रान्तदर्शिनावश्विनौ **ऋतस्य** सत्यस्योदकस्य यज्ञस्य वा हेतुभूतैः **पत्मभिः** यैः पदैः **जीवेभ्यस्परि**। परिरुपर्यर्थः । ‘पञ्चम्याः परावध्यर्थे ' इति सत्वम् । जीवानामुपरि जीवेष्वस्मासु **अर्वाक्** अभिमुखम् । आगच्छतमिति शेषः । तानि पदानीदानीमुपलभ्यन्त इत्यन्वयः ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,13 +110,13 @@ Paths of truth:patmabhir = padair, wheels;
 Ṛtasya = truth, water, or the sacrifice, which the paths or wheels are said to cause,satyasya udakasya yajñasya vā hetubhūtaiḥ padaiḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There are three footsteps of the Aśvins—though being visible they are  hidden far away.  
 (Let) the two poets (drive) nearby along the flights of truth, away from  (other) living beings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the three footsteps (trī́ṇi padā́ni) attributed to the Aśvins must be meant to evoke the three celebrated padā́ni of Viṣṇu (cf. I.154.4).
 
@@ -127,23 +127,23 @@ The purport of the paradoxical pāda b is also not clear; see speculations by Ol
 The final pāda reflects our also stated desire that the Aśvins forsake other sacrificers to come to us (see esp. vs. 8).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three places of the Asvins, erst concealed, are made apparent now.  
      Both Sages, with the flight of Law come hither unto those who live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Asvin haben drei Spuren, die bald sichtbar, bald in der Ferne verborgen sind. Auf den Flügeln des rechten Brauches sollen die beiden Seher von dem Lebenden weg her zu uns kommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei Stätten [sind es] der Ritter, die jetzt offenbar sind, und früher verborgen waren, die Beschauer des heiligen Werkes [kommen] im Fluge nahe herbei, um der Lebenden willen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Три следа у Ашвинов,  
 (То,) оказывающиеся явными, то скрытые вдали.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युष्मो꣡तो वि꣡प्रो मरुतः शतस्वी꣡  
 युष्मो꣡तो अ꣡र्वा स꣡हुरिः सहस्री꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ त꣡द् वो अस्तु धूतयो दयिष्ण꣡म्+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यु॒ष्माऽऊ॑तः । स॒म्ऽराट् । उ॒त । ह॒न्ति॒ । वृ॒त्रम् । प्र । तत् । वः॒ । अ॒स्तु॒ । धू॒त॒यः॒ । दे॒ष्णम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuṣmoto* ← *yuṣmotaḥ* ← *yuṣmota*
 - \[noun\], nominative, singular, masculine
@@ -118,20 +118,20 @@ genre M
 हे **मरुतः** **युष्मोतः** युष्माभी रक्षितः **विप्रः** स्तोता **शतस्वी** शतसंख्योपेतधनवान् भवति । **युष्मोतः** युष्माभी रक्षितः **अर्वा** अभिगन्ता **सहुरिः** शत्रूणामभिभविता स्तोता **सहस्री** सहस्रधनवान् भवति । **युष्मोतः** युष्माभी रक्षितः **सम्राट्** साम्राज्ययुक्तो भवति । **उत** अपि च **वृत्रं** शत्रुं **हन्ति** । युष्मद्रक्षको हिनस्ति । हे **धूतयः** कम्पयितारो मरुतः **वः** युष्माभिर्दत्तं तत् प्रसिद्धं **देष्णं** धनं **प्र** **अस्तु** प्रभूतं भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pious man protected, **Maruts**, by you, is the possessor of hundreds; the assailant, overcomer (ofhis foes), protected by you, is the possessor of thousands; protected by you, the emperor slays his enemy; maythe wealth that is given, agitators, by you ever be abundant.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aided by you, Maruts, the inspired poet gets hundreds; aided by you, the  charger is victorious, bringing thousands;  
 aided by you, (Indra) is sovereign king and smites Vr̥tra. Let this giving  of yours stand out, you shakers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted just above, this vs. is structured by three (abc) pāda-init. yuṣṃótaḥ ‘aided by you’. The three separate clauses containing this opening build on each other in an interesting way, and the first two are also linked by a morphophonological relationship.
 
@@ -150,23 +150,23 @@ Although Indra’s name is not mentioned, hanti vṛtrám is of course a definit
 Renou takes abc as expressing the three functions, which I find hard to see. Does he assume pāda b is the third function and c the second? Surely he doesn't see the smashing of Vṛtra in c as third function!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your favoured singer counts his wealth by hundreds: the strong steed whom ye favour wins a thousand.  
      The Sovran whom ye aid destroys the foeman. May this your gift, ye Shakers, be distinguished.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von euch begünstigt, ihr Marut, gewinnt der Redekundige Hundert, von euch begünstigt gewinnt das Rennpferd Tausend. Und von euch begünstigt schlägt der Oberkönig den Feind. Dieses Geschenk von euch soll allen vorgehen, ihr Schüttler.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch euch empfängt der Sänger hundert Güter, durch euch das Ross im Wettlauf tausend Preise, Durch euch besiegt der Herrscher auch die Feinde, das sei, Erschüttrer, eure beste Gabe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поддержанный вами вдохновенный (поэт), о Маруты, владеет сотней;  
 Поддержанный вами скакун победоносный владеет тысячей;  

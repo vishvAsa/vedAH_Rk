@@ -8,7 +8,7 @@ title = "+018"
 ' प्राता रथः' इति नवर्चं सप्तमं सूक्तं गार्त्समदं त्रैष्टुभमैन्द्रम् । ' प्रातः ' इत्यनुक्रान्तम् । लैङ्गिको विनियोगः।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 18 (209)  
 Indra  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इमे꣡ रो꣡दसी मही꣡  
 स꣡म् मात꣡रेव दो꣡हते  
 म꣡देषु सर्वधा꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मदे॑षु । स॒र्व॒ऽधाः । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -93,20 +93,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **यः** सोमः **इमे** **मही** महत्यौ **रोदसी** द्यावापृथिव्यौ **सं** **दोहते**। उभयोः सारं परिगृह्णातीत्यर्थः । **मातरेव** यथा द्वे मातरावेको वत्सो दोहते तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(You are he) who milks this great heaven and earth like two mothers; you are the giver of all things to those who praise you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who will yield milk like these two great world-halves, the two mothers  together—  
 – You are the one who confers wholeness in the raptures of exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take ródasī mahī́as acc. obj. of the frame, with mātárā as subj.
 
@@ -125,23 +125,23 @@ Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yá�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who milketh out this mighty Pair, the Earth and Heaven, like mother kine  
      All-bounteous art thou in carouse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der diese beiden großen Welten wie zwei Mutterkühe melkt. - Im Rausche bist du der Allgewährer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der dieses grosse Weltenpaar aussauget wie der Mutter Brust; Bei den Gelagen schenkst du Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто эти две великие половины вселенной  
 Выдаивает вместе, словно двух матерей, –  

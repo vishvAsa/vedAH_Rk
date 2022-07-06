@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ त्वा श्येन꣡ उ꣡द् वधीन् मा꣡ सुपर्णो꣡  
 मा꣡ त्वा विदद् इ꣡षुमान् वीरो꣡ अ꣡स्ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुमङ्ग꣡लो भद्रवादी꣡ वदेह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पित्र्या॑म् । अनु॑ । प्र॒ऽदिश॑म् । कनि॑क्रदत् । सु॒ऽम॒ङ्गलः॑ । भ॒द्र॒ऽवा॒दी । व॒द॒ । इ॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -135,7 +135,7 @@ popular
 हेशकुने त्वात्वां श्येनः प्रबलः पक्षिविशेषो मावधीत् माहिंसीत् उतापिच सुपर्णः गरुडः पक्षिविशेषोमावधीत् माहिंसीत् तथाइषुमान् बाणवान् वीरः अस्ता शराणाङ्क्षेप्ता धन्वीत्वा त्वां माविदत् माप्रापत् किञ्च पित्र्याम्प्रदिशन्दक्षिणान्दिशमनुदक्षिणस्यान्दिशीत्यर्थः कनिक्रदत् पुनःपुनः शब्दङ्कुर्वन् सुमङ्गलः कल्यणमङ्गलः भद्रवादीशोभनवादीसन् इहास्मद्विषये वद मङ्गलंसूचय ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,35 +146,35 @@ popular
 In the region of the pitā: the south; the cry of the birds on the south is a good omen, cf. next hymn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let not the falcon tear you up, nor the eagle. Let not a hero with arrows,  an archer find you.  
 Ever screeching in the direction of the fathers, you of good omen,  
 speaking auspiciously, speak here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Similarly, pāda c should also be read as a Jagatī, with trisyllabic pítri ya-, as always in the RV
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the falcon kill thee, nor the eagle let not the arrow-bearing archer reach thee.  
      Still crying in the region of the Fathers, speak here auspicious, bearing joyful tidings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll dich der Adler, nicht der Greif aufspießen, nicht soll dich der Schütze, der pfeilbewehrte Mann treffen. In der Richtung der Väter schreiend rede hier, von guter Vorbedeutung, Glück verheißend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht stoss auf dich der Adler, nicht der Geier, nicht treffe dich ein pfeilbegabter Schütze, Nach väterlichem Vorbild sollst du kreischen, heilvoll und Glück verkündend lass dich hören,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не растерзает тебя ни орел, ни гриф!  
 Да не настигнет тебя муж со стрелами – стрелок!  

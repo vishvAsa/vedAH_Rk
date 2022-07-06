@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ कृत्नु꣡र् अ꣡गृभीतो  
 विश्वजि꣡द् उद्भि꣡द् इ꣡त् सो꣡मः  
 ऋ꣡षिर् वि꣡प्रः का꣡वियेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 ऋषिः॑ । विप्रः॑ । काव्ये॑न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -91,7 +91,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **अयं** **सोमः** **कृत्नुः** कर्ता सर्वस्य **अगृभीतः** अन्यैरगृहीतः **विश्वजित्** सर्वस्य जेता **उद्भित्** फलस्योद्भेदकः । अथवा विश्वजिदुद्भिदौ सोमयागौ। तयोर्निष्पादकत्वात्तद्रूपः । **ऋषिः** ज्ञानवान् **विप्रः** मेधावी विप्रवत् पूज्यो विशेषेण पूरको वा । एवंमहानुभावः सोमः **काव्येन** स्तोत्रेण स्तुत्यो भवतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,36 +102,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Conqueror of all: **viśvajit** and **udbhid** are names of two special Somaceremonies, and the Soma may be addressed under these names as the principal means of theiraccomplishment
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the effective gambler, ungraspable, all-conquering Soma, who got  the lucky break—  
 a seer, an inspired poet with poetic skill.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both kṛtnú- and udbhíd- appear to be gambling terms here. For kṛtnú- in a gambling context see I.92.10, for udbhíd- X.116.9. udbhíd- means literally ‘bursting/breaking out [/up]’. The semantic development may be something like “break out of the pack / burst to the finish.” viśvajít- ‘all-conquering’ can also fit the gambling scenario, as, arguably, can ágṛbhīta- ‘ungraspable’ -- that is, who is too far ahead to be caught or caught up to. The hymn is ascribed to Kṛtnu Bhārgava; Bhārgava is of course a fairly common patronymic, but Kṛtnu appears only here, clearly lifted from the hymn’s first pāda.
 
 The final pāda consists entirely of the three most resonant words for poet/poetic activity: ṛ́ṣi- ‘seer’, vípra- ‘inspired poet’, kā́vya- (standing for kaví- ‘sage poet’). The juxtaposition of the gambling focus of the first two pādas with the poetic lexicon of the last is striking, but sets the tone for the rest of the hymn, which catalogues the variety of Soma’s skills.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS here is Soma, ne'er restrained, active, all-conquering bursting forth,  
      Rsi and Sage by sapience,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma ist der Spielgewinner, nicht zu fassen, allbesiegend, durchschlagend, ein durch Sehergabe beredter Rishi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dieser thät'ge, unerfasste Soma, quellend, allbesiegend; Dichter, Priester voll Begeist'rung,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот Сома – удачливый игрок,  
 Которого не схватить, всепобеждающий, разбивающий,  

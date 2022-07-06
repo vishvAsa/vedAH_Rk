@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा हर्य꣡न्तम् प्रयु꣡जो ज꣡नानां  
 र꣡थे वहन्तु ह꣡रिशिप्रम् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ह꣡र्यन् यज्ञं꣡ सधमा꣡दे द꣡शोणिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पिब॑ । यथा॑ । प्रति॑ऽभृतस्य । मध्वः॑ । हर्य॑न् । य॒ज्ञम् । स॒ध॒ऽमादे॑ । दश॑ऽओणिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -119,36 +119,36 @@ genre M
 हे इन्द्र हरिशिप्रं हरितवर्णशिप्रं त्वा त्वां हर्यन्तं यज्ञं कामयमानं प्रयुजो रथे प्र्युक्ता अश्वा रथे स्थापयित्वा जनानामृत्विग्यजमानानामन्तिकं वहन्तु। प्रापयन्तु। प्रवहन्ति। यथा येन प्राकारेन प्रतिभृतस्य ग्रहादिषु सम्भृतं मध्वो मधु सोमरसं यज्ञं यागसाधनं दशोणिम् । ओणयोऽङुलयः। दशभिरङ्गुलिभिः सम्पादितं सोमं हर्यन् कामयमानः सन् पिब पिबसि सधमादे सङ्ग्रामे जयर्थं तथवहन्त्वित्यर्थः॥१२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let your horses yoked to the chariot bring you, **Indra**, the yellow- jawed, desiring (the sacrifice), to (thevicinity) of the worshippers; when you, desiring the sacrifice, prepared by the ten fingers, drink of the collectedsweet-flavoured **Soma**, (let them bring you) to the battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the advance teams of the peoples convey you here in your chariot— you, the golden-lipped, in your gladness, o Indra,  
 so that you will drink of the honey that is offered, finding gladness in  the ten-armed sacrifice at the joint revelry.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, let the eager wishes of the folk bring thee, delightful, golden-visored, on thy car,  
      That, pleased with sacrifice wherein ten fingers toil, thou mayest, at the feast, drink of our offered meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Begehrenden, soll der Vorspann, die Veranstaltungen der Menschen, zu Wagen herfahren, dich Indra mit den goldenen Zähnen, auf daß du von dem angebotenen Süßtrank trinkest, das Opfer, das bei dem gemeinsamen Gelage von zehn Armen besorgt wird, begehrend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich goldbehelmten, holden Indra möge im Wagen fahren das Gespann der Menschen; Damit du trinkst den dargereichten Soma, dem Opfer hold, das zehnfach labt beim Mahle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя желанного, златогубого, о Индра,  
 Пусть привезут на колеснице упряжки людей,  

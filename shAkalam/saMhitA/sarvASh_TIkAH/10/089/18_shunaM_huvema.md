@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुनं꣡ हुवेम मघ꣡वानम् इ꣡न्द्रम्  
 अस्मि꣡न् भ꣡रे नृ꣡तमं वा꣡जसातौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घ्न꣡न्तं वृत्रा꣡णि संजि꣡तं ध꣡नानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 शृ॒ण्वन्त॑म् । उ॒ग्रम् । ऊ॒तये॑ । स॒मत्ऽसु॑ । घ्नन्त॑म् । वृ॒त्राणि॑ । स॒म्ऽजित॑म् । धना॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śunaṃ* ← *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
@@ -108,36 +108,36 @@ genre M;; repeated line
 **अस्मिन्भरे** संग्रामे **शुनं** वृद्धं **मघवानं** धनवन्तं **शृण्वन्तम्** अस्मदीयस्याह्वानस्य श्रोतारम् **उग्रम्** उद्गूर्णं **समत्सु** संग्रामेषु **वृत्राणि** शत्रून् **घ्नन्तं** मारयन्तं **धनानां** शत्रुधनानां **संजितं** सम्यगेव जेतारम् **इन्द्रं** **वाजसातौ** अन्नस्य लाभाय **ऊतये** रक्षणाय च **हुवेम** आह्वयेम ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke in this conflict for our protection the pure, the opulent **Indra**, the most heroic in the fight,”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 – For blessing we would invoke bounteous Indra, most manly, at this  raid, at the winning of the prize of victory,  
 the strong one who listens, (we would invoke) for help in battles, him  who smashes obstacles, the winner of prizes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Call we on Maghavan, auspicious Indra, best hero in the fight where spoil is gathered,  
      The Strong who listens, who gives aid in battles, who slays the Vrtras, wins and gathers riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um Glück möchten wir den gabenreichen Indra anrufen in diesem Kampf, den männlichsten zum Beutegewinn, den erhörenden, gewaltigen zum Beistand in den Fehden, der die Feinde erschlägt, der Schätze erobert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den mächt'gen Indra rufen wir zum Heil uns, den männlichsten in diesem Kampf um Beute; Den starken, der erhört zur Hülf' in Schlachten, die Feinde tödtet und ihr Gut erbeutet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим призывать на счастье щедрого Индру,  
 Самого мужественного, для захвата добычи в этой битве,  

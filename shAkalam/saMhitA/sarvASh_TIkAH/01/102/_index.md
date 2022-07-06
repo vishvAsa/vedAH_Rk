@@ -8,7 +8,7 @@ title = "+102"
 ' इमां ते' इति एकादशर्चं नवमं सूक्तं कुत्सस्यार्षमैन्द्रम् । अन्त्यां त्रिष्टुप् शिष्टा दश जगत्यः । तथा चानुक्रान्तम्-' इमां तेऽन्त्या त्रिष्टुप्' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 102  
 Indra  
@@ -22,7 +22,7 @@ After naming the cosmic forces whose activities provide support to Indra (vs.  2
 tion between the jagatī and triṣṭubh sections is especially nicely handled: having  claimed in verses 6–7 that Indra has no match in strength, verse 8 takes up the  exact phrase from verse 6, but asserts that indeed there does exist such a match— but it consists of the whole cosmos in all its divisions. The next verse (9) of the  triṣṭubh section densely repeats and rings changes on the lexicon and thematics  from the early parts of the hymn and thus signals a kind of ring composition.  Verse 10 seems to announce the success of our petitions, though in a different  lexicon. The final verse (11) is a refrain verse, repeated from I.100.19, the last half  of which is the general Kutsa refrain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

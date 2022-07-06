@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्म प्रजा꣡वद् आ꣡ भर  
 जा꣡तवेदो वि꣡चर्षणे  
 अ꣡ग्ने य꣡द् दीद꣡यद् दिवि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । यत् । दी॒दय॑त् । दि॒वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
@@ -83,35 +83,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **जातवेदः** जातानां वेदितः **विचर्षणे** विशेषेण द्रष्टः **अग्ने** **प्रजावत्** पुत्रपौत्रसहितं **ब्रह्म** अन्नम् **आ** **भर** आहर। **यत्** ब्रह्म **दिवि** द्युलोके **दीदयत्** दीप्यते देवेषु मध्ये यत्प्रशस्तमन्नं राजते तदाहरेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring to us, **Jātavedas**, all-beholder, food with progeny; such (food) as is brilliant in heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring here a sacred formulation bestowing offspring, o unbounded  Jātavedas,  
 o Agni, (a formulation) that will shine in heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O active Jatavedas, bring devotion that wins progeny, Agni, that it may shine to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns das kinderreiche Segenswort, das im Himmel leuchtet, du ausgezeichneter Jatavedas Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O bring Gebet, das Kinder schafft, o Wesenkenner, thätiger, O Agni, das im Himmel glänzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси нам молитву, дающую потомство,  
 О Джатаведас, владеющий народами,  

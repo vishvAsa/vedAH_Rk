@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ हि꣡ सत्या꣡ ऋतस्पृ꣡श  
 ऋता꣡वानो ज꣡ने-जने  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अंहो꣡श् चिद् उरुच꣡क्रयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽनी॒थासः॑ । सु॒ऽदान॑वः । अं॒होः । चि॒त् । उ॒रु॒ऽचक्र॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -103,7 +103,7 @@ genre M
 **ते** **हि** खलु **सत्याः** सत्यभूताः सत्यफला वा **ऋतस्पृशः** उदकस्पर्शस्य कर्तारः **ऋतावानः** यज्ञवन्तः **जनेजने** सर्वेषु यजमानेषु **सुनीथासः** सुनयनाः **सुदानवः** सुदानाः । हीति प्रसिद्धवाची सर्वत्र संबन्धनीयः । एवं महानुभावा वरुणादयः **अंहोश्चित्** । चिदप्यर्थे । पापिनोऽपि स्वस्तोतुः **उरुचक्रयः** प्रभूतधनादिकर्तारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,29 +116,29 @@ Even of the sinner: aṃhościt pāpino api, even of the sinner;
 Added: svastotuḥ, of your own praiser
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For they are real, touching the truth and truth-possessing among every  people;  
 they are those leading well, giving good drops [/gifts], and making a wide  space even from narrow straits.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For they are true, they cleave to Law, held holy among every race,  
      Good leaders, bounteous in their gifts, deliverers even from distress.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn sie sind die Wahrhaften, die sich an das Rechte halten, rechthandelnd gegen jedermann, gute Führer, gabenschön, auch aus Bedrängnis einen Ausweg schaffend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wahre Pfleger heil'gen Rechts, sind heilig sie bei jedem Mann; Sie leiten schön, sie träufeln schön, aus Drangsal schaffend weiten Raum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь они истинные, соприкасающиеся с законом,  
 Творящие закон в отношении каждого человека,  

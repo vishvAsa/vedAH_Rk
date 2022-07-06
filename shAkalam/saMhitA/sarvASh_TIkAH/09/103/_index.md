@@ -8,7 +8,7 @@ title = "+103"
 ‘प्र पुनानाय' इति षडृचं सप्तमं सूक्तमाप्त्यस्य द्वितस्यार्षम्। पूर्ववच्छन्दोदेवते । तथा चानुक्रम्यते-‘प्र पुनानाय षड् द्वित आप्त्यः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 103 (815)  
 Soma Pavamāna  
@@ -20,7 +20,7 @@ The hymn shares some lexical and thematic material with the immediately pre cedi
 ological perspective, since he is a commonly mentioned figure and has an Avestan  correspondent, whereas Dvita Āptya is essentially found only here).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the structure of this hymn and its relationship to the previous hymn IX.102, see published introduction. Unlike IX.102, the variant of Uṣṇih employed here seems to be 8 8 / 12: in two of the six vss. the configuration of words makes a separable 4- syllable final pāda impossible (2c: … kṛṇute háriḥ#; 3c … saptá nūṣata#), and though the other four vss. end with a 4-syllable word, only in vs. 1 does this show the syntactic distancing found throughout IX.102.
 

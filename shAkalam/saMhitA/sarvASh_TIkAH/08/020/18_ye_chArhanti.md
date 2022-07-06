@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ च अ꣡र्हन्ति मरु꣡तः सुदा꣡नवः  
 स्म꣡न् मीळ्हु꣡षश् च꣡रन्ति ये꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 यु꣡वान आ꣡ ववृधुवम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अतः॑ । चि॒त् । आ । नः॒ । उप॑ । वस्य॑सा । हृ॒दा । युवा॑नः । आ । व॒वृ॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -121,20 +121,20 @@ genre M
 **सुदानवः** शोभनदानाः **ये** **च** यजमानाः **मरुतः** देवान् **अर्हन्ति** पूजयन्ति । **ये** च **मीळ्हुषः** सेक्तॄन् मरुतः **स्मत्** प्रशस्तं **चरन्ति** हविर्भिः प्रचरन्ति यजन्ति । यत एवम् **अतः** अपि कारणात् तानुभयविधान् **नः** अस्मान् **आ** अभिलक्ष्य **वस्यसा** वसीयसा वसुमत्तमेन **हृदा** हृदयेन हे **युवानः** मरुतः **उप** **आ** **ववृध्वम्** उपेत्याभिसंभजत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Youthful (**Maruts**), approaching us with benevolent hearts, grant prosperity to those liberal men whoworship you, who zealously propitiate you, the showerers of rain, with oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts of good drops who deserve (the soma-drink) and who go  about practicing generosity all together.  
 With a better heart even than this [=usual generosity], o youths, turn  yourselves hither toward us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Syntactic problems continue in this verse. Contra most interpr., I take ab as a continuation of vs. 17, still couched in the 3rd ps., and cd as a new clause directly addressing the Maruts in the 2nd ps. The first hemistich consists of two parallel relative clauses, with the two forms of yé positioned at the extreme ends, opening and closing the half-verse. The clauses are connected by an inverse ca: #yé ca … yé#.
 
@@ -155,23 +155,23 @@ The acc. to the same stem, yū́naḥ, opens the next vs. (19a).
 In d the Saṃhitā vavṛdhvam must be read *vavṛd-dhu vam with both distraction and a heavy root syllable (√vṛt ‘turn’). For a similar situation, see ácidhvam in VIII.7.2, which must be read *ácid-dhu vam (√cit).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And these the bounteous, worthy of the Maruts who move onward pouring down the rain-  
      Even for their sake, O Youthful Ones, with kindest heart take us to you to be your own.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und welche die gabenschönen Marut zu heißen verdienen und die zu den Lohnherren insgesamt kommen, mit noch besserem Herzen als diese, wendet euch, ihr Jünglinge, uns zu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die reich an Gaben selbst den Maruts kommen gleich, und zu den gnäd'gen gehn im Chor, Von denen auch, o jugendliche, wendet euch mit holdem Herzen zu uns her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И (те) Маруты, которые достойны (почитания), с прекрасными дарами,  
 Которые вместе отправляются к щедрым покровителям, -  

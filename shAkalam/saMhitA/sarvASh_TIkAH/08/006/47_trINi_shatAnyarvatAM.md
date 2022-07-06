@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्री꣡णि शता꣡नि अ꣡र्वतां  
 सह꣡स्रा द꣡श गो꣡ना᳐म्  
 ददु꣡ष् पज्रा꣡य सा꣡मने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 द॒दुः । प॒ज्राय॑ । साम्ने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
@@ -78,7 +78,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पूर्वस्यामृचि स्वसंप्रदानकं दानमुक्तम् । अधुनान्येभ्योऽप्यृषिभ्यस्तिरिन्दिरो बहु धनं दत्तवानित्याह । **अर्वतां** गन्तॄणामश्वानां **त्रीणि** **शतानि** **गोनां** गवां **दश** दशगुणितानि **सहस्रा** सहस्राणि च **पज्राय** स्तुतीनां प्रार्जकाय **साम्ने** एतत्संज्ञायर्षये । यद्वा । साम्ने । साम स्तोत्रम् । तद्वते पज्राय पज्रकुलजाताय कक्षीवते । **ददुः** तिरिन्दिराख्या राजानो दत्तवन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,29 +89,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ChanterPajra: pajrāya sāmne: to **sāman**, the reciter of praises; or to one of the race of Pajra, as the ṛṣi **Kakṣīvat**,the repeater hymns
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three hundred chargers, ten thousand cows  
 did they give to Pajra Sāman.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ten thousand head of kine, and steeds three times a hundred they bestowed  
      On Pajra for the Sama-song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreihundert Rennpferde, zehntausend Kühe schenkten sie dem Saman.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dreihundert Rosse, zehntausend Kühe haben sie zum reichen Besitze gegeben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Триста скаковых коней,  
 Десять тысяч коров  

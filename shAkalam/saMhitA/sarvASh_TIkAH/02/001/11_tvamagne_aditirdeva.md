@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने अ꣡दितिर् देव दाशु꣡षे  
 तुवं꣡ हो꣡त्रा भा꣡रती वर्धसे गिरा꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्वं꣡ वृत्रहा꣡ वसुपते स꣡रस्वती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । इळा॑ । श॒तऽहि॑मा । अ॒सि॒ । दक्ष॑से । त्वम् । वृ॒त्र॒ऽहा । व॒सु॒ऽप॒ते॒ । सर॑स्वती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -138,7 +138,7 @@ genre M
 हेअग्ने देव त्वन्दाशुषेहविर्दत्तवतेजमानायादितिरखण्डयिता परिपालयितासि यद्वा अदीनाभूमि- रसि किञ्च त्वंहोत्राहोमनिष्पादिकाभारतीभरतस्यादित्यस्यसम्बन्धिनीरश्मिरूपासतीगिरास्तुत्याव- र्धसेप्रवृद्धोभवसि किञ्च त्वंशतहिमा हिमशब्दःकालोपलक्षकः अपरिमितकाला नित्या इळा भूमिर- सि तादृशीसतीदक्षसेदानायसमर्थाभवसि तिङउत्तरत्वादनिघातः तथाहेवसुपतेधनपालक वृत्रहापा- पादेर्हन्तात्वंसरस्वती सरणवान्वायः तत्सम्बन्धिनीएतन्नियामकामाध्यमिकावागसि आदित्याग्निवा- यूनांसम्बन्धिन्योभारतीळासरस्वत्याख्यायास्तिस्रोदेव्यःसन्ति ताअपित्वमेवेत्यर्थः ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,34 +151,34 @@ Iḷā of a hundred winters: tvam iḷā;
 Śatahimāsi = the earth of unlimited duration, aparimitakāla **bhūmiḥ**; destroyer of Vṛtra: **vṛtrahā** = destroyer of sin
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, god Agni, are Aditi for the pious; you, as Hotrā Bhāratī, are  strengthened by song.  
 You are Iḍā, bestowing a hundred winters in return for skill; you, o lord  of goods, as obstacle-smasher, are Sarasvatī.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, God, art Aditi to him who offers gifts: thou, Hotri, Bharati, art strengthened by the song.  
      Thou art the hundred-wintered Ila to give strength, Lord of Wealth! Vrtra-slayer and Sarasvati.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, Agni, O god, art Aditi to the worshipper. Thou, being Hotrâ Bhâratî 1, growest strong by prayer. Thou art Idâ, living a hundred winters, for (the increase of) ability. Thou, the killer of Vritra, O Lord of wealth, art Sarasvatî 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Gott Agni, bist Aditi für den Spender; als Hotra, Bharati, erbauest du dich an der Lobrede. Du dienst als die langlebige Ida zum Gelingen, du Schätzeherr bist die Feindetöterin Sarasvati.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist, Gott Agni, dem Verehrer Aditi, bist Bharati, bist Hotra, freust am Liede dich, Die hundertjährige Ida du zur Kräftigung; du schlägst den Feind, o Reicher, bist Sarasvati.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о бог Агни, – Адити для поклоняющегося (тебе).  
 Ты (как) Хотра, Бхарати усиливаешься от хвалебной песни.  

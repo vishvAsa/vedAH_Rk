@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡थानां᳐ न꣡ ये᳡ ऽराः꣡ स꣡नाभयो  
 जिगीवां꣡सो न꣡ शू꣡रा अभि꣡द्यवः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभिस्वर्ता꣡रो अर्कं꣡ न꣡ सुष्टु꣡भः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; bhārgavī; see Arnold (1905) 240–1.
 व॒रे॒ऽयवः॑ । न । मर्याः॑ । घृ॒त॒ऽप्रुषः॑ । अ॒भि॒ऽस्व॒र्तारः॑ । अ॒र्कम् । न । सु॒ऽस्तुभः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathānāṃ* ← *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
@@ -107,36 +107,36 @@ genre M;; bhārgavī; see Arnold (1905) 240–1.
 **रथानां** **न** रथचक्राणामिव **अराः** ते यथा बहवोऽपि **सनाभयः** समाननाभयो भवन्ति तद्वत् **ये** परस्परं सनाभयः समानबन्धना एकस्मिन्नेवान्तरिक्षे वर्तमानाः । परस्परं बन्धुभूता इत्यर्थः । **जिगीवांसो** **न** **शूराः** जयशीलाः शूरा इव **अभिद्यवः** अभिगतदीप्तयः किंच **वरेयवो** **न** **मर्याः** वृतं वरं परस्मै प्रदातुमिच्छन्तो मनुष्या इव **घृतप्रुषः** उदकसेक्तारः । उदकपूर्वं हि वराणि वसूनि दीयन्ते नियमेन । वृष्ट्युदकप्रदा इत्यर्थः । किंच अभिस्वर्तारः **अर्कं** **न** अर्कमर्चनीयं स्तोत्रमभिस्वर्तारोऽभितः शब्दयितारो बन्दिन इव **सुष्टुभः** सुशब्दाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who (are) united to a common centre like the spokes (of the wheels) of chariots, brilliant like victoriousheroes, sprinkling water like benevolent men, sweet-voiced like men who recite praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, like the spokes of chariots, have the same nave(l), heaven bound  like victorious champions,  
 showering ghee [=rain] as young bloods gone awooing shower (goods),  of good rhythm like those who sound a chant—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like spokes of car-wheels in one nave united, ever victorious like heavenly Heroes,  
      Shedding their precious balm like youthful suitors, they raise their voice and chant their psalm as singers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die wie die Speichen der Wagen gleiche Nabe, gleichen Ursprung haben, wie siegreiche Helden, die Himmlischen, schmalzspritzend, verschwenderisch wie werbende Jünglinge, wie gute Sänger ihre Lieder ertönen lassend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die wie die Speichen der Wagen von je einer Nabe ausgehen, himmelerstrebend wie siegreiche Helden, Fett sprühend [d.h. Gut austheilend] wie jugendliche Freier, schön brausend wie Sänger, die das Preislied anstimmen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У кого (общее происхождение), как у спиц колесницы общая втулка;  
 Кто устремлен к небу как герои-победители;  

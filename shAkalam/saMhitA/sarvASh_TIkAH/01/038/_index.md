@@ -8,7 +8,7 @@ title = "+038"
 ‘कद्ध नूनम् ' इति पञ्चदशर्चं तृतीयं सूक्तम् । घोरपुत्रः कण्व ऋषिः,  ‘ ऋषिश्चान्यस्मात् ' इति परिभाषितत्वात् । पूर्वसूक्ते मारुतं हि ' इत्युक्तत्वादिदमपि मरुद्देवताकम् । ‘गायत्रं तु ' इत्युक्तत्वात् गायत्रीच्छन्दस्कम् । कद्ध' इत्यनुक्रमणिका । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 38  
 Maruts  
@@ -18,7 +18,7 @@ The conversational tone that was occasionally discernible in the previous hymn  
 The next six verses (7–12) present a more conventional description of the Maruts  as the thunderstorm, with familiar images. In the last three verses (13–15), the poet  exhorts himself to sing not only to the Maruts but like the Maruts, especially in  verse 14. The first verse of this tr̥ca (13) introduces two other divinities, the Lord  of the Sacred Formulation (to whom the same poet will dedicate nearby I.40) and  Agni; it is not clear why they share this last tr̥ca with the Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts
 </details>

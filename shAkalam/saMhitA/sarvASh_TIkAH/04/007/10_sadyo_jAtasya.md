@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सद्यो꣡ जात꣡स्य द꣡दृशानम् ओ꣡जो  
 य꣡द् अस्य वा꣡तो अनुवा꣡ति शोचिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्थिरा꣡ चिद् अ꣡न्ना दयते वि꣡ ज꣡म्भैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वृ॒णक्ति॑ । ति॒ग्माम् । अ॒त॒सेषु॑ । जि॒ह्वाम् । स्थि॒रा । चि॒त् । अन्ना॑ । द॒य॒ते॒ । वि । जम्भैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sadyo* ← *sadyas*
 - \[adverb\]
@@ -122,48 +122,48 @@ genre M
 **सद्यो** **जातस्य** अरणिनिर्मथनादनन्तरमेवोत्पन्नस्याग्नेः **ओजः** तेजः **ददृशानम्** । ऋत्विगादिभिर्दृश्यमानं भवतीति शेषः । **वातः** वायुः **यत्** यदा **अस्य** अग्नेः **शोचिः** दीप्तिम् **अनु** लक्षीकृत्य **वाति** गच्छति तदा सोऽयमग्निः **अतसेषु** वृक्षसंघेषु **तिग्मां** तीक्ष्णां **जिह्वां** ज्वालां **वृणक्ति** संयोजयति । **स्थिरा** **चित्** स्थिराण्यपि **अन्ना** अन्नरूपाणि काष्ठादीनि **जम्भैः** तेजोभिः **वि** **दयते** विखण्डयति। भक्षयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The light of the speedily-genitive rated is visible, and when the win fans the flame, he (**Agni**) spreads his blazing tongue among the trees, and with his (glowing) teeth consumes the standing (fuel, his) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Immediately at birth, his strength comes to light, when the wind fans  his flame.  
 He twists his sharp tongue into the thickets. Even hard foods he  fragments with his jaws.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 An undeniable ex. of a predicated perfect part., dádṛśānam.
 
 On the supposed separate root √di ‘destroy’, see comm. ad III.34.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yet newly born, his vigour is apparent when the wind blows upon his fiery splendour,  
      His sharpened tongue he layeth on the brushwood, and with his teeth e'en solid food consumeth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As soon as he is born, his strength shows itself, when the wind blows upon his flame. He turns his sharp tongue among the dry brushwood. Even solid food he tears to pieces with his teeth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sogleich, wenn er geboren ist, zeigt sich seine Kraft, wenn der Wind hinter seiner Flamme dreinbläst. Er ringelt seine spitze Zunge im dürren Holze; auch die festen Speisen zerteilt er mit den Zähnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im kaum gebornen zeiget sich die Kraft schon, wenn seinem Licht der Windhauch blasend nachweht; Er streckt die spitze Zunge in das Buschwerk, zermalmt mit Zähnen auch die harten Speisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Едва он родился, видна его сила,  
 Когда ветер раздувает вслед за ним его пламя,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवो अरुणं꣡ दुग्ध꣡म् अंशुं꣡  
 जुहो꣡तन वृषभा꣡य क्षितीना꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विश्वा꣡हे꣡द् याति सुत꣡सोमम् इछ꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 गौ॒रात् । वेदी॑यान् । अ॒व॒ऽपान॑म् । इन्द्रः॑ । वि॒श्वाहा॑ । इत् । या॒ति॒ । सु॒तऽसो॑मम् । इ॒च्छन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -112,7 +112,7 @@ genre M
 हे **अध्वर्यवः** अध्वरस्य नेतार ऋत्विजः **क्षितीनां** जनानां मध्ये **वृषभाय** श्रेष्ठायेन्द्राय **अरुणम्** आरोचमानं **दुग्धम्** अभिषुतम् **अंशुं** सोमं **जुहोतन** जुहुत । **अवपानम्** अवक्रम्य स्थितं दूरस्थं पातव्यं सोमं **गौरात्** गौरमृगादपि **वेदीयान्** अतिशयेन विद्वान् **इन्द्रः** **सुतसोमम्** अभिषुतसोमं यजमानम् **इच्छन्** अन्विच्छन् **विश्वाहा** विश्वान्यहानि **इत्** एव सर्वदैव **याति** गच्छति । अतस्तस्मा इन्द्राय सोमं जुहुतेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,34 +123,34 @@ genre M
 Knowing better: gaurād vedīyān avapānam = avakramya sthitam dūrastham pātavyam somamgauramṛgād api atiśayena = knowing the Soma that is to be drunk, though plural ced afar off, better than an ox ora deer knows the drinking plural ce of pond
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus, offer the ruddy, milked plant to the bull of the settled  domains.  
 Better at finding a drinking hole than a buffalo, Indra travels everywhere,  seeking a man who has pressed the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Verbal forms of the root √pā ‘drink’ do not appear with the preverb áva in the RV or, indeed, elsewhere in Skt. But this noun stem avapā́na- is found 5x in the RV (I.136.4, VII.98.1, VIII.4.10, X.43.2, 106.2); in 3 of these passages (all but I.136.4, X.43.2) it is used of a wild beast come to drink; cf. (besides our passage) VIII.4.10 ṛ́ṣyo ná tṛ́ṣyann avapā́nam ā́gahi “like a thirsting antelope, come to the drinking (hole).” These specialized contexts suggest that rather than meaning simply “das Trinken, der Trunk” (Grassmann), the stem refers to a drinking hole frequented by wild animals (so already MonWms). The preverb áva ‘down’ would refer to the physical stance of animals lowering their heads to drink. The image of Indra beating buffalos to a watering hole is rather charming.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PRIESTS, offer to the Lord of all the people the milked-out stalk of Soma, radiant-coloured.  
      No wild-bull knows his drinking-place like Indra who ever seeks him who hath pressed the Soma,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Opfert den ausgemolkenen rötlichen Stengel dem Bullen der Völker! Besser als ein Büffel findet Indra die Tränke. Allezeit zieht er aus, einen Somaopferer zu suchen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Priester, dem Gebieter aller Menschen giesst goldnen Soma zu, den frisch gemolknen; Zur Tränke eilt mehr trinkend als ein Büffel, den Somapresser wünschend, Indra täglich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью, принесите в жертву красноватый выжатый  
 Сок сомы для быка людских поселений!  

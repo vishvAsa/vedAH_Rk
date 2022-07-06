@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ पूष꣡णं वृणीमहे  
 यु꣡जियाय पुरूव꣡सुम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 तु꣡जे राये꣡ विमोचन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । श॒क्र॒ । शि॒क्ष॒ । पु॒रु॒ऽहू॒त॒ । नः॒ । धि॒या । तुजे॑ । रा॒ये । वि॒ऽमो॒च॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -102,7 +102,7 @@ genre M
 इदमाद्यासु चतसृषु पूष्ण इन्द्रस्य च लिङ्गसद्भावादेता उभयथा व्याख्यायन्ते । **पुरूवसुं** बहुधर्न **पूषणं** पोषकमिन्द्रं यद्वैतत्संज्ञं देवं **प्र** **वृणीमहे** प्रकर्षेण संभजामहे । किमर्थम् । **युज्याय** । युङ्क्त इति युङ् सखा । तस्य भावाय । सखित्वायेत्यर्थः । हे **शक्र** शक्त **पुरुहूत** बहुभिराहूत हे **विमोचन** पापाद्विमोचयितरिन्द्र पूषन् वा **सः** त्वं **नः** अस्मान् **धिया** आत्मीयया बुद्ध्या **शिक्ष** शक्तान् कर्तुमिच्छ । किमर्थम् । **राये** धनाय धनप्राप्त्यर्थं **तुजे** शत्रूंस्तोजयितुं हिंसितुम् । तुज हिंसायाम् । अस्मात् कृत्यार्थे केन्प्रत्ययः । यद्वा । राये इति ‘क्रियाग्रहणं कर्तव्यम् ' इति कर्मणः संप्रदानत्वाच्चतुर्थी । जातीवेकवचनम् । रायो धनानि धिया स्तुत्या प्रीतः सन्नोऽस्मभ्यं शिक्ष देहि। शिक्षतिर्दानकर्मा।' ऊडिदम्' इति रायो विभक्तिरुदात्ता ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,29 +113,29 @@ genre M
 Pūṣan = a name of **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We choose Pūṣan of many goods for yoking.  
 You able one, invoked by many, you releaser—do your best because of  our insight to thrust out wealth for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pusan, the Lord of ample wealth, for firm alliance we elect.  
      May he with wisdom, Sakra! Looser! Much-invoked! aid us to riches and to seed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir erküren den schatzreichen Pusan zum Freundschaftsbunde. Du Vielvermögender, Vielgerufener, ermögliche es uns, durch die Dichtung Reichtum herauszuschlagen, du Ausspanner!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den reichen Puschan wählen wir zuerst uns zum Genossen aus; Sei hold, o starker, vielgerufner, unserm Flehn, um Kind und Gut, Erretter du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы выбираем себе Пушана,  
 Владеющего многим добром, для союза.  

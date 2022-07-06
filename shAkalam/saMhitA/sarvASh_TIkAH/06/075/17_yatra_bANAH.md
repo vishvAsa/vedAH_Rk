@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्र बाणाः꣡ सम्प꣡तन्ति  
 कुमारा꣡ विशिखा꣡ इव  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 विश्वा꣡हा श꣡र्म यछतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525)
 तत्र॑ । नः॒ । ब्रह्म॑णः । पतिः॑ । अदि॑तिः । शर्म॑ । य॒च्छ॒तु॒ । वि॒श्वाहा॑ । शर्म॑ । य॒च्छ॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatra*
 - \[adverb\]
@@ -110,7 +110,7 @@ popular;; epic anuṣṭubh (525)
 **यत्र** युद्धे **कुमारा** **विशिखाइव** मुण्डिता इव **बाणाः** **संपतन्ति** **तत्र** **नः** अस्मभ्यं **ब्रह्मणस्पतिः** **शर्म** सुखं **विश्वाहा** सर्वदा **यच्छतु** । **अदितिः** च **शर्म** **यच्छतु** । द्विरुक्तिरादरार्था ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,13 +121,13 @@ popular;; epic anuṣṭubh (525)
 Like shaven-headed boys: **kumārā** **viśikhā** iva, like boys without the lock of hair left at shaving; muṇḍitā **muṇḍaḥ**, shorn-headed; the arrows fall where they like, as boys before they are left with the lock of hair, before the religious tonsure, plural y about where they like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where the darts fly together, like lads with unruly hair,  
 there let Brahmaṇaspati, let Aditi provide us shelter—always provide  shelter.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The beloved RVic contrast of sám and ví is on display here with saṃpátanti (a) and viśikhā́ḥ (b).
 
@@ -136,23 +136,23 @@ Strictly speaking, iva comes too late in the simile kumārā́viśikhā́iva, si
 The predicate śárma √yam returns from vss. 11-12, and 17d is identical to 12d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 There where the flights of Arrows fall like boys whose locks are yet unshorn.  
      Even there may Brahmanaspati, and Aditi protect us well, protect us well through all our days.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo die Pfeile miteinander fliegen wie Knaben mit aufgelöstem Haarbusch, da soll uns Brahmanaspati, Aditi Schutz gewähren, allezeit Schutz gewähren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo Bolzen fliegen dichtgedrängt, den Knaben gleichend ohne Bart, da möge der Gebetes Herr und Aditi uns Schutz verleihn [uns alle Tage Schutz verleihn].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где летают вместе стрелы,  
 Как мальчишки с распущенными волосами,  

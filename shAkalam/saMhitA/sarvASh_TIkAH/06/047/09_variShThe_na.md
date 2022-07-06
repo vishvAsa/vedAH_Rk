@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡रिष्ठे न इन्दर+ वन्धु꣡रे धा  
 व꣡हिष्ठयोः शतावन् अ꣡श्वयोर् आ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ नस् तारीन् मघवन् रा꣡यो अर्यः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इष॑म् । आ । व॒क्षि॒ । इ॒षाम् । वर्षि॑ष्ठाम् । मा । नः॒ । ता॒री॒त् । म॒घ॒ऽव॒न् । रायः॑ । अ॒र्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *variṣṭhe* ← *variṣṭha*
 - \[noun\], locative, singular, neuter
@@ -121,21 +121,21 @@ genre M
 हे **इन्द्र** **वरिष्ठे** उरुतमे विस्तीर्णतमे **वन्धुरे** आत्मीये रथे **नः** अस्मान् **धाः** धेहि । धारय । अपि च हे **शतावन्** शतसंख्यधनेन्द्र **वहिष्ठयोः** वोढ़ृतमयोः । आकारः समुच्चये । **अश्वयोरा** त्वदीययोरश्वयोश्चास्मान् धारय । तथा **इषाम्** अन्नानां मध्ये **वर्षिष्ठां** वृद्धतमाम् **इषम्** अन्नम् **आ** **वक्षि** अस्मदर्थमावह । आनय । हे **मघवन्** धनवन्निन्द्र **अर्यः** धनस्य स्वामी अन्यः कश्चित् **नः** अस्माकं **रायः** धनानि **मा** **तारीत्** मा हिंसीत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “plural ce us, possessor of riches, in your ample chariot, (behind) your powerful horses; bring to us from among all viands the most excellent food; let not, **Maghavan**, any opulent man surpass us in wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Place us in the widest chariot box, Indra, on the two best-pulling  horses, you possessor of hundreds.  
 Convey hither the highest refreshment of refreshments. Let our  (refreshment) not cross over to the “riches of the stranger,”  
 bounteous one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. contains three phonologically similar splvs., stationed at pāda edge: \#váriṣṭhe ... #váhiṣṭhayoḥ ... / ... várṣiṣṭhām#. This is somewhat reminiscent of the phonological/morphological figure in 4ab varimā́ṇam … varṣmā́ṇam, esp. since váriṣṭhe and várṣiṣṭhām belong to the same roots as the two forms in 4.
 
@@ -153,23 +153,23 @@ makes appropriately short work of both of these proposals, but I find his own so
 The point is that the refreshment we’ve begged Indra for should not fall into enemy hands. As discussed esp. ad IV.48.1 and VI.14.3, 20.1, I take the phrase rā́yo aryáḥ “riches of the stranger” as referring to manpower.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Set us on widest chariot-seat, O Indra, with two steeds best to draw, O Lord of Hundreds!  
      Bring us the best among all sorts of viands: let not the foe's wealth, Maghavan, subdue us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Setz uns, Indra, auf den breitesten Deichselsitz, auf die bestfahrenden Rosse, du Hundertbesitzer. Bring uns Speisegenuß, den höchsten der Genüsse! Nicht sollen die Reichtümer eines hohen Herren die unseren überbieten, o Freigebiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns setz auf weiten Wagensitz, o Indra, auf schnellstes Rossepaar, o hülfereicher; Fahr Trank herbei, der Tränke allerbesten, nicht raub' ein Feind, o Indra, unsre Habe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Посади нас, о Индра, на широчайшее сиденье колесницы,  
 На пару коней, лучше всех возящих, о обладатель сотен!  

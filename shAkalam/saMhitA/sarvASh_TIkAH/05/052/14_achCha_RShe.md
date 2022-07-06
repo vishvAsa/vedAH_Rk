@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छ र्षे मा꣡रुतं गणं꣡  
 दाना꣡ मित्रं꣡ न꣡ योष꣡णा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्तुता꣡ धीभि꣡र् इषण्यत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दि॒वः । वा॒ । धृ॒ष्ण॒वः॒ । ओज॑सा । स्तु॒ताः । धी॒भिः । इ॒ष॒ण्य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *accha* ← *acchā*
 - \[adverb\]
@@ -104,7 +104,7 @@ genre M
 हे **ऋषे** **मारुतं** **गणं** मरुत्संघं **मित्रं** **न** आदित्यमिव **दाना** हविर्दानेन **योषणा** । यौतेरिदं रूपम् । यौतीति योषा स्तुतिः । तया च **अच्छ** अभिगच्छेति शेषः । ऋषेरुत्तरार्धः प्रत्यक्षवादः । **ओजसा** बलेन हे **धृष्णवः** धर्षका मरुतः **दिवो** **वा** द्युलोकाद्वा । वाशब्दश्रुतेः इतरलोकद्वयाद्वा । **धीभिः** अस्मदीयाभिः स्तुतिभिः **स्तुताः** **इषण्यत** गच्छत यज्ञम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,13 +115,13 @@ genre M
 Like a friend: mitram na may also be rendered ādityam iva, like the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the Marut flock, o seer, (approach) with a gift, as a maiden being  given (in marriage) (approaches) her ally [=spouse?].  
 Or from heaven do you, bold ones, praised with poetic thoughts, speed  with strength.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The self-address of 13c seems important enough to repeat here in pāda with minimal variation, though the syntactic function of the acc. mā́rutam gaṇám is different and the rest of the vs. much less clear.
 
@@ -138,23 +138,23 @@ See below comm. ad 15b for a possible explanation. The second hemistich seems to
 The voc. dhṛṣṇavaḥ addressed to the Maruts again reminds us of the beginning of the hymn, with dhṛṣṇuyā́(1a, 2b, 4b) and dhṛṣadvínaḥ (2c).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rsi, invite the Marut band with offerings, as a maid her friend.  
      From heaven, too, Bold Ones, in your might haste hither glorified with songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lade, o Rishi, die marutische Schar mit Gabe ein wie die junge Frau einen Freund. Oder eilet mit Macht vom Himmel her, ihr Mutigen, mit Gedichten gepriesen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, Sänger, hin zur Marutschar mit Gaben wie zum Freund die Braut; Ihr kühnen eilt vom Himmel her, gepries'ne kräftig, eifervoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(гласи), о риши, толпу марутому  
 С помощью  

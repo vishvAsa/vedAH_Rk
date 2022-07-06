@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ जा꣡गृविर् वि꣡प्र ऋता꣡ मतीनां꣡  
 सो꣡मः पुनानो꣡ असदच् चमू꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अध्वर्य꣡वो रथिरा꣡सः सुह꣡स्ताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सप॑न्ति । यम् । मि॒थु॒नासः॑ । निऽका॑माः । अ॒ध्व॒र्यवः॑ । र॒थि॒रासः॑ । सु॒ऽहस्ताः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -108,7 +108,7 @@ genre M
 जागृविर्जागरणशीलः ऋता सुपांसुलुगितिषष्ठ्याआकारः । ऋतानां सत्यानां मतीनां स्तुतीनां विप्रोज्ञाता ससोमः पुनानः पूयमानःसन् चमूषु चमसेष्वासदत् आसीदति । मिथुनासः परस्परंसङ्गताः निकामाः नितराङ्कामयमानाः रथिरासः यज्ञस्यनेतारः सुहस्ताः कल्याणपाणयः अध्वर्यवः पवित्रे यं सोमंसपन्ति स्पृशन्ति । षपसमवाये । सपतिःस्पृश- तिकर्मेतिनैरुक्ताः ॥ ३७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ genre M
 Touch: sapati spṛśatikarmā (**Nirukta** 5.16)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In accordance with truth, the wakeful inspired poet of the thoughts,  Soma, being purified, has sat down in the cups,  
 he whom they serve, eager in rivalry—the Adhvaryus of good hands,  the charioteers (of the sacrifice).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a vípraḥ … matīnā́m reprises víprā matíbhiḥ of 35b in concatenary fashion. For further on this phrase see below.
 
@@ -152,23 +152,23 @@ I do not see any signs of unity in this tṛca. All three vss. contain a partici
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Singer of true songs, ever-watchful, Soma hath settled in the ladles when they cleanse him.  
      Him the Adhvaryus, paired and eager, follow, leaders of sacrifice and skilful-handed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Wachsame, Beredsame hat die rechten Wege der Gedanken beschritten, sich läuternd hat sich Soma in den Camugefäßen gesetzt, den die ergebenen Paare pflegen, die Adhvaryu´s, die handfertigen Wagenfahrer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der muntre Sänger Soma liess sich nieder zur Zeit des Betens flammend in die Schüsseln; Er, den zu Paaren die begier'gen Priester, mit festen Händen Wagen lenkend, ehren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бодрствующий, вдохновенный, (он следует) по правильным путям поэтических мыслей.  
 Очищаемый, сома уселся в чанах.  

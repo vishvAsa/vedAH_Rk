@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡र्चन्त ए꣡के म꣡हि सा꣡म मन्वत  
 ते꣡न सू꣡र्यम् अरोचयन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M
 अर्च॑न्तः । एके॑ । महि॑ । साम॑ । म॒न्व॒त॒ । तेन॑ । सूर्य॑म् । अ॒रो॒च॒य॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arcanta* ← *arcantaḥ* ← *arc*
 - \[verb noun\], nominative, plural
@@ -75,7 +75,7 @@ genre M
 **एके** अत्रयः **महि** महत् **साम** त्रिवृत्पञ्चदशादि **मन्वत** अमन्वत । तदेव **अर्चन्तः** पूजयन्त एतादृशा अत्रयः **तेन** उक्तेन साम्ना **सूर्यमरोचयन्** अदीपयन् । त एवात्र देवता ॥ ॥३६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -86,12 +86,12 @@ genre M
 Sāman = **trivṛt**, **pañcadaśa** etc.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chanting, these ones thought up a great melody. With it they caused the  sun to shine. [=human poets]
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On my solution to the identity of the éke ‘some’, that is, the human ritualists, see the published introduction.
 
@@ -100,22 +100,22 @@ The pattern set in the rest of the hymn is also broken by placing a trisyllabic 
 Note the phonological play between the opening verb árcanti and the final verb arocayan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Some, singing lauds, conceived the Sama-hymn, great hymn whereby they caused the Sun to shine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die einen haben singend das große Saman erdacht; damit ließen sie die Sonne erstrahlen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein hohes Lied ersann dir eine Sängerschar, die Sonn' erhellten sie dadurch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Несколько, распевая, придумали великую  
 Мелодию. Ею они сделали солнце сверкающим.

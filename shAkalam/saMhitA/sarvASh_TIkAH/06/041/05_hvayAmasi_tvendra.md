@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह्व꣡यामसि त्वा इ꣡न्द्र याहि अर्वा꣡ङ्  
 अ꣡रं ते सो꣡मस् तनु꣡वे भवाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रा꣡स्माँ꣡ अव पृ꣡तनासु प्र꣡ विक्षु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 शत॑क्रतो॒ इति॒ शत॑ऽक्रतो । मा॒दय॑स्व । सु॒तेषु॑ । प्र । अ॒स्मान् । अ॒व॒ । पृत॑नासु । प्र । वि॒क्षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hvayāmasi* ← *hvā*
 - \[verb\], plural, Present indikative
@@ -121,7 +121,7 @@ genre M
 हे **इन्द्र** **त्वा** त्वां **ह्वयामसि** आह्वयामः । अतः कारणात् त्वम् **अर्वाङ्** अस्मदभिमुखः सन् **आ** **याहि** आगच्छ । अस्मदीयः **सोमः** च **ते** **तन्वे** तव शरीराय **अरं** पर्याप्तं भवाति भवतु । त्वदीयं शरीरं यथाभिलाषं, तर्पयत्वित्यर्थः । हे **शतक्रतो** बहुविधकर्मन्निन्द्र त्वं च **सुतेषु** अभिषुतेषु अस्मदीयेषु सोमेषु **मादयस्व** तृप्यस्व । ‘मद तृप्तियोगे'। तदनन्तरं **पृतनासु** संग्रामेषु **अस्मान्** **प्र** **अव** प्रकर्षेण रक्ष । न केवलं पृतनासु किंतु **विक्षु** सर्वासु प्रजास्वस्मान् **प्र** अव प्ररक्ष ॥ ॥१३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,7 +132,7 @@ genre M
 Pra asmān avapṛtanāsu pra vikṣu: pra = prasakṣ, especially protect us; na kevalam saṅgrāmeṣu kintu sarvāsu prajāsu, not only in wars, but in or against all people
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We are calling you, Indra: drive nearby. The soma will be fit for  
 your body.  
@@ -140,23 +140,23 @@ O you of a hundred resolves, bring yourself to exhilaration on the
 pressed (drinks). Further us in battles and among the clans.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We call on thee, O Indra: come thou hither: sufficient be the Soma for thy body.  
      Rejoice thee, Satakratu! in the juices guard us in wars, guard us among our people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir rufen dich, komm herbei, o Indra! Der Soma möge deinem Leib wohl bekommen. Du Ratreicher berausche dich an den Säften, hilf uns in den Kämpfen und zu Hause weiter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rufen dich, o Indra, komm herbei nun; willkommen sei der Soma deinem Leibe, O hundertkräft'ger, an dem Saft berausch dich, in Schlachten hilf uns, hilf uns in den Häusern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы зовем тебя, о Индра, приходи сюда!  
 Пусть хватит сомы для твоего тела!  

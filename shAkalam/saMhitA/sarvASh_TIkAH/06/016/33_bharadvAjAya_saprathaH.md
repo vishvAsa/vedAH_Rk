@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भर꣡द्वाजाय सप्र꣡थः  
 श꣡र्म यछ सहन्तिय  
 अ꣡ग्ने व꣡रेणियं व꣡सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । वरे॑ण्यम् । वसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bharadvājāya* ← *bharadvāja*
 - \[noun\], dative, singular, masculine
@@ -72,36 +72,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सहन्त्य शत्रूणामभिभवितः **अग्ने** **भरद्वाजाय** मह्यमृषये **सप्रथः** सर्वतः पृथु विस्तीर्णं **शर्म** सुखं गृहं वा **यच्छ** देहि । तथा **वरेण्यं** वरणीयं **वसु** धनं च देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Subduer of foes, grant to **Bharadvāja** infinite happiness and desirable wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Bharadvāja hold out shelter of great extent,  
 o overpowering Agni, and goods worthy to be chosen.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give shelter reaching far and wide to Bharadvaja, conquering Lord!  
      Agni, send wealth most excellent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Bharadvaja gewähre deinen Schirm bei ganzer Ausdehnung, du Sieghafter, und vorzügliches Gut, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Bharadvadscha schenke du, gewalt'ger, ausgedehnten Schutz, O Agni, wünschenswerthes Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бхарадвадже даруй  
 Обширную защиту, о сильный,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रम् प्रत्ने꣡न म꣡न्मना  
 मरु꣡त्वन्तं हवामहे  
 अस्य꣡ सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒स्य । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -72,37 +72,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **मरुत्वन्तम्** **इन्द्रं** **प्रत्नेन** पुराणेन **मन्मना** मननीयेन स्तोत्रेण **हवामहे** **अस्य** **सोमस्य** **पीतये** पानाय ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With an ancient hymn we invoke **Indra** with the **Maruts**, to drink tis **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, accompanied by the Maruts, we invoke with our age-old  
 thought,  
 to drink of this soma here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra begirt by Maruts we invoke after the ancient plan,  
      That he may drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den marutbegleiteten Indra rufen wir mit einem alten Gedicht zum Trunk dieses Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra mit der Marutschar, ihn laden wir nach alter Art Zum Trunke dieses Soma's ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -9,7 +9,7 @@ title = "+001"
 शतर्चिनां प्रथमं मंडलं व्याख्यातं । अथ गार्त्समदं द्वितीयं मंडलं व्याख्यायते । त्वमग्ने द्युभिरित्यादिकं द्वितीयं मंडलं । चत्वारोऽनुवाकाः । तेषु प्रथमेऽनुवाक एकादश सूक्तानि । तत्र त्वमग्ने द्युभिरिति षोडशर्चं प्रथमं सूक्तं । मंडलद्रष्टा गृत्समद ऋषिः । स च पूर्वमांगिरसकुले शुनहोत्रस्य पुत्रः सन् यज्ञकालेऽसुरैर्गृहीत इंद्रेण मोचितः। पश्चात्तद्वचनेनैव भृगुकुले शुनकपुत्रो गृत्समदनामाभूत्। तथा चानुक्रमणिका । य आंगिरस: शौनहोत्रो भूत्वा भार्गव: शौनकोऽभवत्स गृत्समदो द्वितीयं मंडलमपश्यदिति। तथा तस्यैव शौनकस्य वचनमृष्यनुक्रमणे। त्वमग्न इति गृत्समदः शौनको भृगुतां गतः । शौनहोत्र: प्रकृत्या तु य आंगिरस उच्यत इति। तस्मान्मंडलद्रष्टा शौनको गृत्समद ऋषिः। जगती छंदः। मंडलादिपरिभाषयाग्नेयं । अत्रानुक्रमणिका। त्वमग्ने जागतं त्विति ॥ प्रातरनुवाकाश्विन शस्त्रयोर्जागते छंदसीदमादिसूक्तद्वयस्य विनियोगः । त्वमग्ने द्युभिरिति सूक्ते । आ०४, १३.। इति सूत्रितत्वात ॥ उपाकरणोत्सर्जनयोरप्याद्या विनियुक्ता ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 1 (192)  
 Agni  
@@ -22,7 +22,7 @@ This rhetorical pattern is especially striking because so many of the pronominal
 discussion see Jamison (2007: 59–60). Poetics, not grammar, is the driving factor. The effect of this incantatory repetition of “you, Agni,” taking place in front  of the sacrificial fire on the ritual ground, combined with the sweep of equations  identifying Agni with what comes to seem like everything on earth and in heaven,  is to concentrate all of the cosmos into this small space, the sacrifical ground, and  this single entity, the sacrificial fire—indeed making the sacrificial microcosm  the equivalent of the macrocosm. The ordering of the identifications—starting  and ending at the sacrifice, but in between ranging through both the divine and  human realms—models the centrality of the sacrifice and of its focus, the sacred  fire. It is a powerful beginning to the maṇḍala and to the Family Books in general.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni For the rhetorical structure of the hymn, see the published introduction.
 </details>

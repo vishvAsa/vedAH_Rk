@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡श् छ꣡न्दसां यो꣡गम् आ꣡ वेद धी꣡रः  
 को꣡ धि꣡ष्णियाम् प्र꣡ति वा꣡चम् पपाद  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ह꣡री इ꣡न्द्रस्य नि꣡ चिकाय कः꣡ स्वित्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 कम् । ऋ॒त्विजा॑म् । अ॒ष्ट॒मम् । शूर॑म् । आ॒हुः॒ । हरी॒ इति॑ । इन्द्र॑स्य । नि । चि॒का॒य॒ । कः । स्वि॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaś* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -141,7 +141,7 @@ popular
 **धीरः** धीमान् **कः** मानुषः **छन्दसां** गायत्र्यादीनां **योगं** स्तुतशस्त्रात्मना नियोगम् **आ** **वेद** आजानाति । **कः** वा **धिष्ण्यम्** । धिष्ण्यानि होत्रादीनां सप्त स्थानानि । तदर्हां **वाचं** **प्रति** **पपाद** प्रतिपादयति । करोति । किंच **ऋत्विजां** होत्रादीनां सप्तानाम् **अष्टमम्** अष्टसंख्यापूरकं **शूरं** स्वतन्त्रं **कम्** **आहुः** वदन्ति । **कः** **स्वित्** कः खलु **इन्द्रस्य** **हरी** ऋक्सामरूपौ द्वावश्वौ ।  ‘ ऋक्सामे व इन्द्रस्य हरी' (तै. सं. ६,७,९.२ ) इत्याम्नायते । तादृशौ हरी **नि** **चिकाय** नितरां पूजयति । जानाति । वेदिता प्रतिपादयिताष्टसंख्यापूरकस्य देवस्य ज्ञाता वा परमात्मनोऽन्यो नास्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,29 +152,29 @@ popular
 Two bay horses: The Ṛk and the **Sāman** are intended
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is the wise one who knows the yoking of the meters? Who has  undertaken the holy speech?  
 What champion do they call the eighth of the priests? Who indeed has  discerned the two fallow bays of Indra?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What sage hath learned the metres' application? Who hath gained Vak, the spirit's aim and object?  
      Which ministering priest is called eighth Hero? Who then hath tracked the two Bay Steeds of Indra?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Kenner weiß die Anschirrung der Metren, wer hat die gottesdienstliche Rede erkannt? Welchen Helden nennen sie den Achten der Opferpriester, wer hat denn des Indra Falben wahrgenommen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welcher Weise kennt der Zaubersprüche Anwendung? wer hat daran angeknüpft das einschmeichelnde Lied? welchen von den Opferern [ṙtvíj] nennen sie den achten Helden? und wer hat die beiden goldgelben Rosse Indra's wahrgenommen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой мудрый умеет запрячь стихотворные размеры?  
 Кто смог добиться речи, предназначенной для почитания?  

@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नः सोम सुक्र꣡तुर्  
 वयोधे꣡याय जागृहि  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 क्षे॒त्र॒वित्ऽत॑रः । मनु॑षः । वि । वः॒ । मदे॑ । द्रु॒हः । नः॒ । पा॒हि॒ । अंह॑सः । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -124,36 +124,36 @@ genre M;; repeated line
 हे **सोम** **सुक्रतुः** शोभनप्रज्ञः **क्षेत्रवित्तरः** क्षेत्रस्यातिशयेन लम्भकः **त्वं** **नः** अस्माकं **वयोधेयाय** अन्नदानाय **जागृहि** । किंच **द्रुहः** द्रोग्धुः **मनुषः** मनुष्याच्छत्रोः सकाशात् **नः** अस्मान् **पाहि** रक्ष । **अंहसः** पापाच्च नोऽस्मान् पाहि । किमर्थम् । **वि** **वो** **मदे**। तव सोमादिहविर्जन्यतृप्त्यर्थमित्यर्थः । **विवक्षसे** त्वं महान्भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, author of good works, liberal granter of fields, be vigilant in supplying us with food; and in your”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma, stay watchful as one of good resolve, to confer vital energy on us. As one who knows the territory better than man, protect us from deceit  and from difficult straits.  
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be watchful, Soma, passing wise, to give us store of vital strength.  
      More skilled than man to guide us,-at your glad carouse-save us from harm and sorrow. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Soma, wache über uns als der Einsichtsvolle, um uns Kraft zu verleihen. Ortskundiger als der Mensch schütz uns vor Bosheit, vor Not - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma wache wohlgesinnt du über uns zur Kräftigung; Ortskund'ger bist du als ein Mensch; vor Angst und Noth beschirme uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наделенный прекрасной силой духа, о сома,  
 Следи, чтобы нам была дана жизненная сила!  

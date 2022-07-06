@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ त्वा मूरा꣡ अविष्य꣡वो  
 मो꣡पह꣡स्वान आ꣡ दभन्  
 मा꣡कीम् ब्रह्मद्वि꣡षो वनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 माकी॑म् । ब्र॒ह्म॒ऽद्विषः॑ । व॒नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **त्वा** त्वां **मूराः** मूरका मूढा मनुष्याः **अविष्यवः** पालनकामाः **मा** **आ** **दभन्’** मा हिंसन्तु। **उपहस्वानः** उपहसनपराश्च **मा** भवन्तु । **ब्रह्मद्विषः** ब्राह्मणानां द्वेष्टॄन् **माकीं** **वनः** मा भजेथाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Enemies of the **brāhmaṇas**: brahmadviṣaḥ = brāhmaṇānām dveṣṭṛn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let not the greedy dolts, let not the deriders deceive you.  
 Do not cherish those who hate the sacred formulation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the fools, or those who mock beguile thee when they seek thine aid  
      Love not the enemies of prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht sollen dich die speisegierigen Toren, noch die Spötter betören; nicht mögest du die Gebetsfeinde vorziehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht mögen gier'ge Thoren dich, nicht Spötter dich beschädigen, Nicht sei den Andachthassern hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не обманут тебя  
 Ни жадные глупцы, ни насмешники!  

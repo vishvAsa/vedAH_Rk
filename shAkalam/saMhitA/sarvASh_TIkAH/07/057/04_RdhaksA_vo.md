@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡धक् सा꣡ वो मरुतो दिद्यु꣡द् अस्तु  
 य꣡द् व आ꣡गः पुरुष꣡ता क꣡राम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ वो अस्तु सुमति꣡श् च꣡निष्ठा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मा । वः॒ । तस्या॑म् । अपि॑ । भू॒म॒ । य॒ज॒त्राः॒ । अ॒स्मे इति॑ । वः॒ । अ॒स्तु॒ । सु॒ऽम॒तिः । चनि॑ष्ठा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛdhak*
 - \[adverb\]
@@ -151,43 +151,43 @@ genre M
 हे **मरुतः** **वः** युष्मदीया **सा** प्रसिद्धा **दिद्युत्** हेतिः **ऋधक्** **अस्तु** अस्मत्तः पृथग्भवतु । **यत्** यद्यपि वयं **वः** युष्माकम् **आगः** अपराधं **पुरुषता** पुरुषतया मनुष्यत्वेन **कराम** करवाम। मनुष्याणां हि प्रमादः सुलभ इत्यर्थः । हे **यजत्राः** यजनीया मरुतः **वः** युष्मदीयायां **तस्यां** दिद्युति **अपि** ईषदपि **मा** **भूम** । **चनिष्ठा** अन्नवत्तमा । अतिशयेनान्नप्रदेत्यर्थः। **वः** युष्मदीया **सुमतिः** अनुग्रहबुद्धिः **अस्मे** अस्मासु **अस्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that blazing (weapon) of your, **Maruts**, be far from us, although, through human infirmities, we offeryou offence; let us not, adorable Maruts, be exposed to your (shaft); may your favour the source of abundance,ever be shown to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your missile stay aside, Maruts. When we will do offense to you in  our human fashion,  
 let us not come into its way [=missile], o you who deserve the sacrifice.  Let your most delightful favor rest in us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unlike Geldner/Renou I attach b to c, not to a. Nothing rests on this, but the cause and the (hoped-for non-)effect are more closely allied that way.
 
 I did not tr. vaḥ in c, which would have necessitated the awk. rendering “… into the way of it of yours.” This vs. is over-supplied with vaḥ-s, with one in each pāda.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far from us be your blazing dart, O Maruts, when we, through human frailty, sin against you.  
      Let us not he exposed to that, ye Holy! May your most loving favour still attend us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Abseits möge euer Geschoß bleiben, ihr Marut, wenn wir nach Menschenweise eine Sünde wider euch begehen sollten. Nicht möchten wir ihm verfallen, o Opferwürdige, uns soll euer erfreulichstes Wohlwollen gehören!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eur Racheblitz sei fern von uns, o Maruts, wenn wir an euch gefehlt nach Menschenweise; Nicht lasst uns dem erliegen, o ihr heil'gen, es bleibe bei uns eure beste Güte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть останется в стороне этот выстрел ваш, о Маруты,  
 Если мы совершим грех против вас по природе человеческой!  

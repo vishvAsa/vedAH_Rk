@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ द्यां꣡ च महिव्रत  
 पृथिवीं꣡ चा꣡ति जभ्रिषे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡वमान महित्वना꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्रति॑ । द्रा॒पिम् । अ॒मु॒ञ्च॒थाः॒ । पव॑मान । म॒हि॒ऽत्व॒ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -103,20 +103,20 @@ genre M
 हे **महिव्रत** महाकर्मन् बहुविधकर्मन् सोम **त्वं** **द्यां** द्युलोकं च पृथिवीं **च** **अति** **जभ्रिष** अत्यन्तं बिभर्षि ।' डुभृञ् धारणपोषणयोः । तस्य छान्दसे लिटि सर्वविधीनां छन्दसि विकल्पितत्वादत्रेडागमः । अन्तरिक्षे सोमात्मनेति पृथिव्यां लतारूपेणेत्येवं लोकद्वयवर्तित्वम्। हे **पवमान** क्षरन् सोम त्वं **महित्वना** महत्त्वेन युक्तः सन् **द्रापिं** कवचं **प्रति** **अमुञ्चथाः** प्रतिमुञ्चसि संवृणोषि ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Observer of manifold rites, you support both heaven and earth; O **Pavamāna**, (who are endowed) with greatness, you put on your coat of mail.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you of great commandment, you have carried yourself beyond heaven  and earth.  
 You have fastened on your mantle in your greatness, self-purifying one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The contents and phraseology of this vs. are furthest from its match, vs. 3, but as noted in the published translation, dyā́ṃ ca … pṛthivī́ṃ ca in 9ab recalls 3cd (vásūni) pā́rthivā divyā́ca “heavenly and earthly goods.”
 
@@ -130,23 +130,23 @@ As noted in the published introduction, these vss., constituting a separate hymn
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of great sway, thou liftest thee above the heavens, above the earth.  
      Thou, Pavamana hast assumed thy coat of mail in majesty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Hochgebietender bist über Himmel und Erde erhaben. Du hast dein Gewand angelegt, o Pavamana, nach deiner Herrlichkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du hast dich, o weitherrschender, durch Erd' und Himmel ausgedehnt, Du zogst dir deinen Mantel an, o flammender, voll Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О ты, чей завет велик,  
 Ты распространяешься за пределы неба и земли,  

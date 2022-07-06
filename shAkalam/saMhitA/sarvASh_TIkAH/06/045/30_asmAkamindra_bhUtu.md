@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् इन्द्र भूतु ते  
 स्तो꣡मो वा꣡हिष्ठो अ꣡न्तमः  
 अस्मा꣡न् राये꣡ महे꣡ हिनु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒स्मान् । रा॒ये । म॒हे । हि॒नु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **वाहिष्ठः** वोढ़ृतमः **अस्माकं** **स्तोमः** स्तोत्रं **ते** तव **अन्तमः** अन्तिकतमः **भूतु** भवतु । त्वं च **अस्मान्** **महे** महते **राये** धनाय **हिनु** प्रेरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,12 +97,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Most elevating praise: stomo vāhiṣṭhaḥ = voḍhṛtama, most bearing, uplifting, elevating
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let ours be the praise song that best conveys you nearest, Indra. Impel us toward great wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Notice the very un-Ārya phonology of the name of the patron, Bṛbu with two plain b’s. (On Bṛbu as patron see Kuiper, Aryans, p. 6.) It is probably not an accident that this vs. contains only one of two reff. to the Gaṅgā in the RV (the other a voc. gaṅge in X.75.5), since the Gaṅgā is at the limits of the RVic geographical horizon.
 
@@ -119,23 +119,23 @@ Again no unity in the tṛca.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nearest and most attractive may our laud, O Indra come to thee.  
      Urge thou us on to ample wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unser Loblied soll dir das anziehendste sein, am meisten nahe gehen, Indra! Sporn uns zu großem Reichtum an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir sei, o Indra, unser Lob das liebste und willkommenste, Zu grossem Reichthum fördre uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нашим пусть будет, о Индра, (то) восхваление  
 Тебя, которое лучше всех привлекает, самое близкое!  

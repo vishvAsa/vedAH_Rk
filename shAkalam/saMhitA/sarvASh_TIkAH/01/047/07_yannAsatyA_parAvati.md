@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡न् नासत्या पराव꣡ति  
 य꣡द् वा स्थो꣡ अ꣡धि तुर्व꣡शे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 साकं꣡ सू꣡र्यस्य रश्मि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अतः॑ । रथे॑न । सु॒ऽवृता॑ । नः॒ । आ । ग॒त॒म् । सा॒कम् । सूर्य॑स्य । र॒श्मिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yan* ← *yat*
 - \[adverb\]
@@ -113,35 +113,35 @@ genre M
 हे **नासत्या** असत्यरहितावश्विनौ **यत्** यदि युवां **परावति** दूरदेशे **स्थः** वर्तेथे । **यद्वा** अथवा **अधि** **तुर्वशे** अधिके समीपे स्थः । **अतः** अस्माद्दूरात्समीपाद्वा **सूर्यस्य** **रश्मिभिः** **साकं** सूर्योदयकाले **सुवृता** शोभनवर्तनयुक्तेन **रथेन** **नः** अस्मान् प्रति **आ** **गतं** आगच्छतम् ॥ नासत्या। सत्सु भवौ सत्यौ । न सत्यौ असत्यौ । न असत्यौ नासत्यौ । “ नभ्राण्नपात्' इत्यादिना नञः प्रकृतिभावः । स्थः । ‘अस भुवि । ‘असोरल्लोपः' इति अकारलोपः । यद्वृत्तयोगादनिघातः । गतम् । गमेर्लोटि 'बहुलं छन्दसि' इति शपो लुक् । ‘अनुदात्तोपदेश' इत्यादिना अनुनासिकलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Nāsatyas**, whether you abide far off or close at **hand**, come to us in your well-constructed car, with the rays of the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Nāsatyas, if you are in the far distance, or if you are with the Turvaśa, from there come to us by your smoothly rolling chariot, together with  the rays of the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nasatyas, whether ye be far away or close to Turvasa,  
      Borne on your lightly-rolling chariot come to us, together with the sunbeams come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr Nasatya´s in der Ferne oder wenn ihr bei Turvasa seid, so kommet von dort von da auf leichtem Wagen zu uns her, zugleich mit den ersten Strahlen der Sonne!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ob ferne ihr, o treue, seid, ob ihr bei Turvaça verweilt, So kommt von dort auf schnellem Wagen her zu uns, zusammen mit der Sonne Strahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Насатьи, (вы) вдалеке,  
 Или когда вы находитесь у Турваши,  

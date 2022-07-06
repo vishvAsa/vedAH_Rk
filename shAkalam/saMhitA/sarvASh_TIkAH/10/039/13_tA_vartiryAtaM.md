@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ वर्ति꣡र् यातं जयु꣡षा वि꣡ प꣡र्वतम्  
 अ꣡पिन्वतं शय꣡वे धेनु꣡म् अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 युवं꣡ श꣡चीभिर् ग्रसिता꣡म् अमुञ्चतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वृक॑स्य । चि॒त् । वर्ति॑काम् । अ॒न्तः । आ॒स्या॑त् । यु॒वम् । शची॑भिः । ग्र॒सि॒ताम् । अ॒मु॒ञ्च॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -125,7 +125,7 @@ genre M
 हे **अश्विना** अश्विनौ **ता** तौ युवां **जयुषा** जयशीलेन रथेन **पर्वतम्** अद्रिं प्रति **वर्तिः** मार्गं **वि** **यातं** विविधं गच्छथः। तथा च निगमान्तरं -- वि जयुषा रथ्या यातमद्रिं श्रुतं हवं वृषणा वध्रिमत्याः' (ऋ. सं. ६. ६२. ७) इति । किंच युवां **शयवे** शयोरर्थाय **धेनुम्** अपिन्वतम् । निवृत्तप्रसवां वृद्धां गां प्रभूतस्य पयसो दोग्ध्रीं कृतवन्तौ स्थ इत्यर्थः। तथा च निगमान्तरं -- ’युवं धेनुं शयवे नाधितायापिन्वतमश्विना पूर्व्याय ' (ऋ. सं. १. ११८. ४) इति । किंच **युवं** युवां **वृकस्य** **अन्तः** अनुप्रविष्टां **ग्रसितां** वृकेण ग्रस्तां **वर्तिकाम्** । वर्तिका नाम चटका। ताम् **आस्यात्** वृकस्य मुखात् **शचीभिः** प्रज्ञाभिः कर्मभिर्वा **अमुञ्चतम्** अमोचयतम् । तथा च निगमान्तरम् - ‘अजोहवीदश्विना वर्तिका वामास्नो यत्सीममुञ्चतं वृकस्य ' (ऋ. सं. १.११७.१६ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ Jayuṣā: cf. RV. 6.62.7;
 Śayu: cf. RV 1.118.8; you liberateḍ..wolf: cf. RV 1.116.17\]. this praise like a son, the eternal performer of rites, we have decked (with ornaments, your laudation) amongmen, as if had been a wife.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You drove your course with your victorious (chariot) through the  mountain. You made the milk-cow swell for Śayu, o Aśvins.  
 With your powers you two freed the quail, which had been swallowed,  even from within the mouth of the wolf.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Conquerors of the sundered mountain, to our home, Asvins who made the cow stream milk for Sayu's sake,  
      Ye who delivered even from the wolf's deep throat and set again at liberty the swallowed quail.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Machet eure Umfahrt mit dem siegreichen Wagen durch den Berg! Ihr Asvin ließet dem Sayu die Milchkuh strotzen. Die schon verschlungene Wachtel befreitet ihr durch eure Künste mitten aus des Wolfes Rachen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Stätte drangt ihr siegreich durch das Felsgeklüft, dem Çaju fülltet, Ritter, ihr mit Milch die Kuh; Die Wachtel habt ihr aus des Wolfes Rachen einst durch eure Kraft errettet, die verschlungene.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Совершите обьезд на победоносной (колеснице) через гору!  
 Вы сделали для Шаю корову набухшей (молоком).  

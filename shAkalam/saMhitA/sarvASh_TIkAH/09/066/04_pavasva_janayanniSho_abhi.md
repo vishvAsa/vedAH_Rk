@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व जन꣡यन्न् इ꣡षो  
 अभि꣡ वि꣡श्वानि वा꣡रिया  
 स꣡खा स꣡खिभ्य ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सखा॑ । सखि॑ऽभ्यः । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -77,19 +77,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **सखा** सखिभूतस्त्वं **विश्वानि** सर्वाणि **वार्या** वरणीयान्यस्मत्कृतानि स्तोत्राणि **अभि** लक्षीकृत्य **सखिभ्यः** अस्मभ्यम् **ऊतये** रक्षणाय जीवनाय **इषः** अन्नानि **जनयन्** प्रयच्छन् **पवस्व** आगच्छ । पवतिर्गतिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, who are a friend, do you for the sake of all our desirable (praises) approach genitive rating food for (us your) friends for our support.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, begetting refreshments, (surging) toward all valuables, as a comrade to aid your comrades.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in 1b, I supply ‘surging’ with 4b, on the basis of their identical construction.
 
@@ -104,23 +104,23 @@ This tṛca does not show particular internal cohesion, but it has striking echo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward, generating food, for precious boons of every kind,  
      A Friend for friends, to be our help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, indem du Labsale schaffst, um alle begehrenswerten Dinge zu gewinnen, als Freund den Freunden zur Hilfe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle, zeugend Labetrunk, uns alle Herrlichkeiten her, Ein Freund den Freunden, zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

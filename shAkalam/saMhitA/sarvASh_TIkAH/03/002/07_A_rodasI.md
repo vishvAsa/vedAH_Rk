@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ रो꣡दसी अपृणद् आ꣡ सु꣡वर् मह꣡ज्  
 जातं꣡ य꣡द् एनम् अप꣡सो अ꣡धारयन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡त्यो न꣡ वा꣡जसातये च꣡नोहितः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । अ॒ध्व॒राय॑ । परि॑ । नी॒य॒ते॒ । क॒विः । अत्यः॑ । न । वाज॑ऽसातये । चनः॑ऽहितः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 रोदसी द्यावापृथिव्यौ आपृणात् आपूरयत् तथामहत्प्रभूतंस्वः अन्तरिक्षं आपृणच्च अपसः कर्मवन्तोयजमानाः जातंयत् यंएनमग्निं अधारयन् अत्योन अश्वइव कविःक्रान्तः सर्वत्रव्याप्तः चनोहितः निहितान्नः सोयमग्निः वाजसातये वाजस्य अन्नस्यकीर्तेर्वासातये लाभाय अध्वराय परिणीयते यज्ञार्थन्नीयते ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,34 +145,34 @@ genre M
 **Yajurveda**, 33.75
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The great sun filled both world-halves, when the (ritual) workers  supported him when he was just born.  
 And he, the sage poet, is led around for the rite, like a steed, for the  winning of the prize, being placed for delight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He hath filled heaven and earth and the great realm of light, when at his birth the skilful held him in their hold.  
      He like a horse is led forth to the sacrifice Sage, graciously inclined, that he may win us strength.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He has filled the two worlds (Heaven and Earth) and the great Sun, when the active ones (i. e. the priests) held him fast who had been born. He the sage is led round for the performance of worship, like a racer for the winning of the prize 1, with satisfied mind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er füllte beide Welten an, er die große Sonne, als die Werktätigen den Neugeborenen festhielten. Der Weise wird für den Gottesdienst herumgeführt wie ein Renner zur Preisgewinnung, der Beliebte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Welten und den hohen Lichtraum füllte er, als den gebornen pflegten die geschäftigen; zur Opferfeier wird der weise hergeführt, gleichwie ein Ross zum Preisgewinn geneigt gemacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он заполнил оба мира, за(полнил) великое солнце,  
 Когда его, (только) родившегося, деятельные (жрецы) держали (в руках).  

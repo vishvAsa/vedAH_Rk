@@ -6,14 +6,14 @@ ChandaH = "निचृत्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जघ꣡ने चो꣡द एषां᳐  
 वि꣡ सक्था꣡नि न꣡रो यमुः  
 पुत्रकृथे꣡ न꣡ ज꣡नयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 पु॒त्र॒ऽकृ॒थे । न । जन॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jaghane* ← *jaghana*
 - \[noun\], locative, singular, neuter
@@ -78,20 +78,20 @@ genre M
 **एषाम्** अश्वानां **जघने** हन्तव्यप्रदेशे **चोदः** प्रेरिका कशा अराग्रकाष्ठविशेषो वा वर्तते ॥ शीघ्रगमनाय ताडयन् वर्तत इत्यर्थः । **सक्थानि** ऊरुप्रदेशान् **नरः** नेतारो मरुतः **वि** विविच्य **यमुः** नियच्छन्ति । आशुधावनेन विवृता भवन्तीत्यर्थः । विवृतौ दृष्टान्तः । **पुत्रकृथे** पुत्रकरणे उत्पादने **जनयः** **न** अपत्योत्पादयित्र्यो योषित इव । ता यथा पुत्रोत्पादनकामाः संगमसमये ऊरू विवृतौ कुर्वन्ति तद्वदित्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The goad is (applied) to their flanks; the drivers force them to spread their thighs apart, like women in bringing forth children.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Where) the whip on their haunch? The men have spread apart their  thighs (on horseback),  
 like wives at the making of sons.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For this vs. see published introduction.; as pointed out there, the simile in c can either refer to sex or to childbirth.
 
@@ -110,23 +110,23 @@ simplex, we should presumably resist the temptation to emend.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The whip is laid upon the flank. The heroes stretch their thighs apart,  
      Like women when the babe is born.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo die Gerte auf deren Hinterbacke? Die Herren haben die Schenkel gespreizt wie die Frauen bei der Kindererzeugung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im After ist ihr Treibestock, die Männer spreizen ihre Bein' wie Weiber bei der Niederkunft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Где) хлыст на их крупе?  
 Вы расставили ноги,  

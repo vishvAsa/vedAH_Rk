@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुत꣡ इ꣡न्द्राय वि꣡ष्णवे  
 सो꣡मः कल꣡शे अक्षरत्  
 म꣡धुमाँ अस्तु वाय꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मधु॑ऽमान् । अ॒स्तु॒ । वा॒यवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suta* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इन्द्राय** इन्द्रार्थं **विष्णवे** विष्ण्वर्थं च **वायवे** वाय्वर्थं च **सुतः** अभिषुतः यः **सोमः** **कलशे** द्रोणकलशे **अक्षरत्** क्षरति सोऽयं सोमः **मधुमान्** मधुररसवान् **अस्तु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma** effused for **Indra** and **Viṣṇu** and **Vāyu** drops into the pitcher; may he be sweet-flavoured.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pressed for Indra, for Viṣṇu, soma has streamed into the tub.  
 Let it be honeyed for Vāyu.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -100,23 +100,23 @@ No particular signs of unity, though the dat. índrāya in 2b anticipates the th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra and for Visnu poured, Soma hath flowed into the jar:  
      May Vayu find it rich in sweets.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Indra, Vishnu ausgepreßt ist der Soma in den Krug geflossen; süß soll er für Vayu sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst für Indra, Vischnu fliesst der Soma nieder in den Krug, Er möge süss dem Vaju sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

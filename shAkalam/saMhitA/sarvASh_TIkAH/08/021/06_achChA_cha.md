@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा च त्वैना꣡ न꣡मसा व꣡दामसि  
 कि꣡म् मु꣡हुश् चिद् वि꣡ दीधयः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 स्मो꣡ वयं꣡ स꣡न्ति नो धि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सन्ति॑ । कामा॑सः । ह॒रि॒ऽवः॒ । द॒दिः । त्वम् । स्मः । व॒यम् । सन्ति॑ । नः॒ । धियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -131,41 +131,41 @@ genre M
 हे इन्द्र **अच्छ** ”च अपि च आभिमुख्येन वा **एना** एनेन **नमसा** स्तोत्रेण हविर्लक्षणेनान्नेन वा सह **त्वा** त्वां **वदामसि** अभिवदामः । ‘ चवायोगे प्रथमा ' इति न निघातः । त्वं तु **मुहुश्चित्** मुहुर्मुहुः **किं** कस्माद्धेतोः **वि** **दीधयः** । विपूर्वो दीधितिश्चिन्तने । विचिन्तयसि । **दीधीङ्** दीप्तिदेवनयोः' । व्यत्ययेन परस्मैपदं लुगभावश्च । किमर्थं यूयं वदथेति चेत् । **हरिवः** हरिताश्ववन् हे इन्द्र अस्माकं **कामासः** पुत्रपश्वादिविषयाः कामाः **सन्ति** कामाः सन्तु । अहं न प्रयच्छामीति चेत् । **त्वं** तु **ददिः** धनादिदाता खलु । तस्मात् **वयं** त्वत्संनिधौ **स्मः** भवामः । किंच **नः** अस्माकं **धियः** कर्माणि च तव समीपे **सन्ति** तिष्ठन्ति । ततो धनादिलाभार्थं त्वां वदाम इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We salute you with this adoration; why do you so often mediate (upon our requests)? Master of baysteeds, let our desires be granted. You are their bestower, we are your (suppliants) and our sacred rites are(addressed to you).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When we address you with this homage, will you hesitate even for a  moment?  
 Here are desires, and you are the giver, o possessor of the fallow bays.  Here are we; here are our visions.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a ca must have subordinating value because of the accent on vádāmasi. So also Klein (I.245), though he considers the ca originally to have signalled interstanzaic conjunction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We speak to thee with this our reverential prayer. Why art thou pondering yet awhile?  
      Here are our wishes; thou art liberal, Lord of Bays: we and our hymns are present here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir dich mit dieser Verbeugung einladen, was wirst du dich auch nur einen Augenblick besinnen? Es sind Wünsche vorhanden, o Falbenherr, du bist der Geber; wir sind da, wir machen uns Gedanken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und rufen dich mit diesem Andachtslied herbei, was säumst du einen Augenblick? Hier Wünsche, dort Gewährer du, o Rosseherr, hier sind wir, unsre Bitten hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И когда мы тебя пригласим этим поклонением,  
 О чем ты задумаешься хотя на мгновение?  

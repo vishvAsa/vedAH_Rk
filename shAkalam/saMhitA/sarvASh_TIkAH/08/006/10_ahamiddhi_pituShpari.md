@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् इ꣡द् धि꣡ पितु꣡ष् प꣡रि  
 मेधा꣡म् ऋत꣡स्य जग्र꣡भ  
 अहं꣡ सू꣡र्य इवाजनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒हम् । सूर्यः॑ऽइव । अ॒ज॒नि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -95,20 +95,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पितुः** पालकस्य **ऋतस्य** सत्यस्य अवितथस्येन्द्रस्य **मेधाम्** अनुग्रहात्मिकां बुद्धिम् **अहमित्** अहमेव **परि** **जग्रभ** परिगृहीतवानस्मि नान्ये । **हि** यस्मादेवं तस्मात् **अहं** सूर्यइवाजनि सूर्यो यथा प्रकाशमानः सन् प्रादुर्भवति तथाजनिषं प्रादुरभूवम् ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I have verily acquired the favour of the true protector (**Indra**); I have become (bright) as the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because it is just I who have acquired the wisdom of truth from my  father,  
 I have been (re)born like the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner explains the form of ajani as “attraction to the simile” (that is, 3rd ps.
 
@@ -125,23 +125,23 @@ This tṛca is characterized by emphatic pronominals: initial ahám 10a, 10c, 11
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I from my Father have received deep knowledge of the Holy Law  
      I was born like unto the Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ich habe vom Vater die Sehergabe der Wahrheit geerbt, ich wurde wie die Sonne neu geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ich empfing vom Vater her des heil'gen Brauches Wissenschaft, Der Sonne gleich bin ich gezeugt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь я от отца получил  
 Дар прозрения истины.  

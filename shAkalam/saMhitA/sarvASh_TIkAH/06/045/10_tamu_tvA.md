@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ त्वा सत्य सोमपा  
 इ꣡न्द्र वाजाना᳐꣡म् पते  
 अ꣡हूमहि श्रवस्य꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अहू॑महि । श्र॒व॒स्यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सत्य** अवितथस्वभाव **सोमपाः** सोमस्य पातर्हे **वाजानां** **पते** अन्नानां पालयितरेवंभूत हे **इन्द्र** **श्रवस्यवः** श्रवोऽन्नमात्मन इच्छन्तो वयं **तमु** **त्वा** तादृशं त्वामेव अहूमहि आह्वयामः स्तुम इत्यर्थः ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,13 +98,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Such as you are: tam tvā ahūmahi, we invoke you (who are) that, or such as has been described in the preceding verses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is just you, o Indra, you real one, you drinker of soma and lord of  prizes,  
 that we have called upon, seeking fame—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 After the opening tám u tvā, the rest of the hemistich consists only of vocc.
 
@@ -123,23 +123,23 @@ Both vss. begin tám u tvā, with the iteration of this phrase in 11a still part
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee, thee as such, O Lord of Power, O Indra, Soma-drinker, true,  
      We, fain for glory, have invoked.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, du echter Somatrinker, Indra, Herr der Siegergewinne, haben wir ruhmbegierig gerufen,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, Somatrinker, dich, wahrhafter Herr der Labungen, Dich rufen wir voll Preisbegier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя, такого, о пьющий сому по-настоящему,  
 О Индра, повелитель наград,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईळे꣡नियः प꣡वमानो  
 रयि꣡र् वि꣡ राजति द्युमा꣡न्  
 म꣡धोर् धा꣡राभिर् ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 मधोः॑ । धारा॑भिः । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īﾱenyaḥ* ← *īḍenyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
@@ -75,36 +75,36 @@ genre M
 **ईळेन्यः** स्तुत्यः **पवमानः** सोमः **रयिः** अभीष्टस्य दाता **द्युमान्** दीप्तिमांश्च सन् **मधोः** उदकस्य **धाराभिः** सह क्षरन् **ओजसा** बलेन **वि** **राजति** प्रकाशते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pure-flowing bright (**Soma**), the bounteous giver, worthy of all praise, shines forth in its might with the streams of water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Worthy to be invoked, the self-purifying one, heaven-bright wealth,  shines forth  
 with his streams of honey, with his strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brilliant like wealth, adorable, with splendour Pavamana shines,  
      Mightily with the streams of meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Anzurufen sich läuternd prangt er wie glänzender Reichtum nach Kräften mit den Strömen der Süßigkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der preisenswerthe, rieselnde, erstrahlet als ein heller Schatz Im Strom des süssen Tranks mit Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Достойный призывов  
 Павамана,  

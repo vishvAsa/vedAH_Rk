@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ जामि꣡र् अ꣡त्के अव्यत  
 भुजे꣡ न꣡ पुत्र꣡ ओणि꣡योः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वरो꣡ न꣡ यो꣡निम् आस꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सर॑त् । जा॒रः । न । योष॑णाम् । व॒रः । न । योनि॑म् । आ॒ऽसद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -107,20 +107,20 @@ genre M
 **जामिः** बन्धुभूतो देवानां सोमः **अत्के** आच्छादके पवित्रे **आ** **अव्यत** आवृणोति । संबद्धो भवति । तत्र दृष्टान्तः । **भुजे** **न** यथा **ओण्योः** रक्षकयोर्मात्रापित्रोः भुजे **पुत्रः** आवृणोति तद्वत् । ततः सोऽयं सोमः **योनिं** स्वस्थानभूतं कलशम् **आसदम्** आसत्तुं **सरत्** सरति । तत्र दृष्टान्तद्वयम् । **जारो** **न** यथा जारः **योषणाम्** असतीं स्त्रियं प्राप्तुं सरति । यथा वा **वरः** कन्यां प्राप्तुं गच्छति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Soma**) the kinsman (of the gods) is enveloped in the investing filter like a child in the arms of its protecting parents; he hastens like a gallant to a mistress, like a bridegroom (to the bride) to sit upon his station (the pitcher).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Their kinsman has wrapped himself in a cloak (of milk) to enjoy it, like  a son in the two arms (of his mother).  
 He runs like a swain to a maiden, like a wooer, to sit in the womb.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The d pāda (varó) ná yónim āsádam is almost identical to 15d (vedhā́) ná yónim āsádam, both expressing the endpoint of Soma’s ritual journey.
 
@@ -135,23 +135,23 @@ The dog returns from the first tṛca in the first vs. of this one. The tṛca i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Friend hath wrapped him in his robe, as in his parents arms, a son.  
      He went, as lover to a dame, to take his station suitor-like.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Verwandte hat sich in sein Gewand gehüllt, wie der Sohn in die Arme der Mutter, um die Milch zu genießen. Er eilt wie der Buhle zur Frau, wie der Liebhaber, um sich auf seinen Platz, den Schoß, zu setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Freund hat sich ins Kleid gehüllt, wie an die Mutterbrust das Kind; Er eilt wie zu der Braut der Mann, zu sitzen in der Liebsten, Schooss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кровный брат завернулся в покров,  
 Словно сын в руках (у матери), чтобы насладиться.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ज् जा꣡यथा अपूर्विय  
 म꣡घवन् वृत्रह꣡त्याय  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡द् अस्तभ्ना उत꣡ द्या᳐꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तत् । पृ॒थि॒वीम् । अ॒प्र॒थ॒यः॒ । तत् । अ॒स्त॒भ्नाः॒ । उ॒त । द्याम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaj* ← *yat*
 - \[adverb\]
@@ -100,36 +100,36 @@ genre M
 हे **अपूर्व्य** त्वत्तो व्यतिरिक्तेन पूर्व्येण वर्जित हे **मघवन्** मंहनीयधनवन्निन्द्र **वृत्रहत्याय** वृत्रासुरहननाय **यत्** यदा त्वं **जायथाः** उत्पन्नः प्रादुर्भूतोऽसि **तत्** तदानीमेव **पृथिवीं** प्रथमानाम् **अप्रथयः** प्रसिद्धां दृढामकरोः । **उत** अपि च **तत्** तदानीमेव **द्यां** द्युलोकमन्तरिक्षेण **अस्तभ्नाः** निरुद्धामकार्षीः । एतादृशं वीर्यं त्वदन्यस्य न संभवतीत्यर्थं द्योतयितुमपूर्व्येति पदम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maghavan**, who had none before you, when you were born for the slaying of **Vṛtra**, then you did spreadabroad the earth, then you did prop up the heavens.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you were born for the smiting of Vr̥tra, you bounteous one  without predecessor,  
 then you spread out the earth, and then you propped up heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou, unequalled Maghavan, wast born to smite the Vrtras dead,  
      Thou spreadest out the spacious earth and didst support and prop the heavens.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du allererster Gabenreicher zur Vritratötung geboren wardst, da hast du die Erde ausgebreitet und den Himmel gestützt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als, unerreichter, du entsprangst, o mächtiger, zum Vritrakampf, Da dehntest du die Erde aus, da setztest du den Himmel fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда родился ты для убийства Вритры,  
 О небывалый, щедрый,  

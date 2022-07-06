@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वेषा꣡सो अग्ने꣡र् अ꣡मवन्तो अर्च꣡यो  
 भीमा꣡सो न꣡ प्र꣡तीतये  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वि꣡श्वं स꣡म् अत्रि꣡णं दह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 र॒क्ष॒स्विनः॑ । सद॑म् । इत् । या॒तु॒ऽमाव॑तः । विश्व॑म् । सम् । अ॒त्रिण॑म् । द॒ह॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tveṣāso* ← *tveṣāsaḥ* ← *tveṣa*
 - \[noun\], nominative, plural, masculine
@@ -104,47 +104,47 @@ genre M;; repeated line
 **अग्नेः** **अर्चयः** ज्वालाः **त्वेषासः** दीप्ताः **अमवन्तः** बलवन्तः **भीमासः** भयंकराः । अतः **प्रतीतये** अस्माभिः प्रत्येतुं **न** शक्या इति शेषः । हे अग्ने **रक्षस्विनः** बलवतः **यातुमावतः** यातुधानानसुरान् **सदमित्** सर्वदैव **सं** **दह** सम्यग्भस्मीकुरु । तथा **विश्वं** सर्वं **अत्रिणं** भक्षकं अस्मद्बाधकं शत्रुं सं दह ॥ त्वेषासः । ‘ त्विष दीप्तौ । पचाद्यच् । चितः । इत्यन्तोदात्तत्वम् । अमवन्तः । ‘ अम रोगे' । अमति शत्रून् रुजतीति अमो बलम् । पचाद्यच् । वृषादित्वादाद्युदात्तत्वम् । तदेषामस्तीत्यमवन्तः । प्रतीतये । ‘ तादौ च निति° ' इति गतेः प्रकृतिस्वरत्वम् । रक्षस्विनः । रक्षन्त्यनेनेति रक्षो बलम् । करणेऽसुन् । ‘ अस्मायामेधा ' इति मत्वर्थीयो विनिः । यातुमावतः । यातवो यातनाः । तान् मिमते निर्मिमते इति राक्षसव्यापारा यातुमाः । आतोऽनुपसर्गे कः' इति कः । तदेषामस्तीति मतुप् । 'मतौ बह्वचोऽनजिरादीनाम् ' (पा. सु. ६. ३. ११९ ) इति दीर्घत्वम् ।' संज्ञायाम् ' ( पा. सू. ८. २. ११) इति वत्वम् । मतुपः पित्त्वादनुदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् । अत्रिणम् । अदेस्त्रिनि च ' इति कर्तरि त्रिनिप्रत्ययः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The flames of **Agni** are luminous, powerful, fearful, and not to be trusted. Ever assuredly and entirely consume the mighty spirits of evil and all our other adversarieṣ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The dazzling, hard-charging flames of Agni, terrifying like (wild  beasts), are not to be confronted.  
 (Burn) the demonic forces, the sorcerers forever—burn up every  
 devourer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I read ná twice in b, both as the neg. with the dat. infinitive prátītaye and as a simile marker, evoking the common phrase mṛgó ná bhīmáḥ (I.154.2, etc.) and its variants.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The flames of Agni full of splendour and of might are fearful, not to be approached.  
      Consume for ever all demons and sorcerers, consume thou each devouring fiend.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni's flames are impetuous and violent; they are terrible and not to be withstood. Always burn down the sorcerers, and the allies of the Yatus, every ghoul 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zornfunkelnd, überwältigend sind die Flammen des Agni, furchtbar; nicht ist dagegen anzukommen. Verbrenn jederzeit die Unholde, die zauberischen, jeden Atrin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Agni lichte ungestüme Flammenschar, ist furchtbar und unnahbar stets, Die bösen Geister und die Zaubrer allesammt, verbrenn' und jeden Dämon du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Искрометные, яростные языки пламени Агни,  
 Страшные – не подступиться!  

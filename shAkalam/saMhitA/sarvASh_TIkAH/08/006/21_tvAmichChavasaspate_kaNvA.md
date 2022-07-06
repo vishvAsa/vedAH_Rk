@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् इ꣡च् छवसस् पते  
 क꣡ण्वा उक्थे꣡न वावृधुः  
 तुवां꣡ सुता꣡स इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त्वाम् । सु॒तासः॑ । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -82,36 +82,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **शवसस्पते** बलस्य स्वामिन्निन्द्र **त्वाम्** एव **कण्वाः** स्तोतारः कण्वगोत्रा वा ऋषयः **उक्थेन** शस्त्रेण **ववृधुः** वर्धयन्ति । **सुतासः** अध्वर्युभिरभिषुताः **इन्दवः** सोमाश्च **त्वाम्** एव वर्धयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of strength, the **Kaṇvas** verily invigorate you by praise; the effused **Soma** (invigorates) you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is just you, lord of power, that the Kaṇvas have strengthened with  their recitation,  
 you that the pressed drops (have strengthened).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Lord of Might, with hymns of praise the Kanvas have increased thy power,  
      The drops poured forth have strengthened thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, o Herr der Kraft, haben die Kanva´s durch das Lied erbaut, dich die ausgepreßten Säfte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kanva's haben dich erquickt, o Herr der Kraft, mit ihrem Spruch, Dich die gebrauten Indu's auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя, о повелитель силы,  
 Канвы возрастили гимном,  

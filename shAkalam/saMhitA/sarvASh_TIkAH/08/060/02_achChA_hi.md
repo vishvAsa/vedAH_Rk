@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा हि꣡ त्वा सहसः सूनो अङ्गिरः  
 स्रु꣡चश् च꣡रन्ति अध्वरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अग्निं꣡ यज्ञे꣡षु पूर्विय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ऊ॒र्जः । नपा॑तम् । घृ॒तऽके॑शम् । ई॒म॒हे॒ । अ॒ग्निम् । य॒ज्ञेषु॑ । पू॒र्व्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -114,7 +114,7 @@ genre M;; repeated line
 हे **सहसः** **सूनो** बलस्य पुत्र । बलेन मथ्यमानत्वात् । हे **अङ्गिरः** अङ्गिरसां मध्ये एक । अथवाङ्गतिर्गतिकर्मा । सर्वत्र संगत । **त्वा** त्वाम् **अध्वरे** यागे **अच्छ** अभिप्राप्तुं **स्रुचः** **चरन्ति** गच्छन्ति । अतः **ऊर्जः** अन्नस्य **नपातं** न पातयितारं रक्षकं बलस्य नप्तारं वा **घृतकेशं** प्रदीप्तकेशस्थानीयज्वालं **पूर्व्यं** पुरातनं पूरकं वा **अग्निं** **यज्ञेषु** अस्मदीयेषु **ईमहे** स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ genre M;; repeated line
 Butter-haired: Agni is called ghṛtapṛṣṭhā, 'butter-backed' (RV.5.4.3); pradīpta **kalaśa** **sthānīya** **jvālāḥ**; pradīpta kalaśa = pradīpta **keśa**; cf. RV 5.37.1
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the ladles are moving toward you at the ceremony, o son of strength,  o Aṅgiras.  
 We supplicate the child of nourishment, ghee-haired Agni, foremost at  the sacrifices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For unto thee, O Angiras, O Son of Strength, move ladles in the sacrifice.  
      To Agni, Child of Force, whose locks drop oil, we seek, foremost in sacrificial rites.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn dir, du Sohn der Kraft, Angiras, nahen die Löffel während des Gottesdienstes. An das Kind der Kraft mit Schmalz im Haare wenden wir uns, an Agni als den ersten bei den Opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn zu dir gehn, o Sohn der Stärke, Angiras, die Löffel bei dem Opfer hin; Den Spross der Kraft, den Agni mit dem Fett im Haar, ihn flehn zuerst bei Opfern wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь к тебе, о сын силы, о Ангирас,  
 Движутся жертвенные ложки на обряде.  

@@ -9,7 +9,7 @@ title = "+086"
 इति । ऐन्द्रामारुत्यां प्रधानस्य हविषो ‘ मरुतो यस्य' इत्येषा अनुवाक्या । सूत्रितं च - ‘ ऐन्द्रामारुतीं भेदकामा मरुतो यस्य हि क्षये ' ( आश्व. श्रौ. २. ११ ) इति । एवैव वरुणप्रघासेषु मारुत्याः आमिक्षाया अनुवाक्या । सूत्रितं च - ‘ मरुतो यस्य हि क्षयेऽरा इवेदचरमा अहेव ' ( आश्व. श्रौ..२. १७ ) इति । तथा प्रातःसवने पोतुरेषा प्रस्थितयाज्या । सूत्रितं च - मरुतो यस्य हि क्षयेऽग्ने पत्नीरिहा वह ' ( आश्व. श्रौ. ५. ५) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 86  
 Maruts  
@@ -22,7 +22,7 @@ Verse 6 abruptly switches to the 1st plural from the 3rd singular: it’s we who
 Gotama’s penchant for elaborate and varied syntactic patterning has been noted  previously in the introductions to several of his hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts On the structure of this hymn and its syntactic patterns, see published introduction.
 </details>

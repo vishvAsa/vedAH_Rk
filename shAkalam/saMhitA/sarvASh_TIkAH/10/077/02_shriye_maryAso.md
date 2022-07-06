@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रिये꣡ म꣡र्यासो अञ्जीँ꣡र् अकृण्वत  
 सुमा꣡रुतं न꣡ पूर्वी꣡र् अ꣡ति क्ष꣡पः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आदित्या꣡सस् ते꣡ अक्रा꣡ न꣡ वावृधुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
 दि॒वः । पु॒त्रासः॑ । एताः॑ । न । ये॒ति॒रे॒ । आ॒दि॒त्यासः॑ । ते । अ॒क्राः । न । व॒वृ॒धुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
@@ -135,7 +135,7 @@ genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
 **श्रिये** शोभार्थं  **मर्यासः** मारका मनुष्यरूपा वा मरुतः । पूर्वं मनुष्याः सन्तः पश्चात्सुकृतविशेषेण ह्यमरा आसन् । ते **अञ्जीन्** अञ्जकान्याभरणानि **अकृण्वत** कुर्वन्ति । किमर्थम् । **श्रिये** स्वशरीरशोभनार्थम् । **सुमारुतं** शोभनानां मरुतां गणं **पूर्वी:** बह्व्यः **क्षपः** क्षपयित्र्यः सेनाः **न** **अति** न पराभावयन्तीति शेषः । किंच **दिवः** द्युदेवतायाः **पुत्रासः** पुत्राः **एताः** गन्तारः **न** **येतिरे** निर्गच्छन्ति । **ते** **आदित्यासः** अदितेः पुत्राः **अक्राः** आक्रमणशीला मरुतः **न** **वावृधुः** न वर्धन्ते । यतोऽस्माभिर्न स्तुता अत इति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,30 +146,30 @@ genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
 Destructive: or, human; the Maruts were at first men, but through their good works obtained immortality;do not increase in glory: because, they are not praised by us
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For their splendor the young bloods have provided themselves with  ornaments across the many nights, just as they have made (the  
 Formulator) well provided with Maruts.  
 The sons of heaven have taken their places like antelopes; (as) Ādityas  they have grown strong like foals [?].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The youths have wrought their ornaments for glory through many nights,-this noble band of Maruts.  
      Like stags the Sons of Dyatis have striven onward, the Sons of Aditi grown strong like pillars.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zur Schönheit legten die Jünglinge ihre Zierrate an, wie ihr schönes Marutwetter über viele Nächte. Des Himmels Söhne haben sich wie Antilopen zusammengeschlossen; die Söhne der Aditi sind wie Elefanten groß geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Schmucke haben die jugendlichen Männer sich ihr Geschmeide angelegt als schönes Marutvolk viele Nächte hindurch; die Söhne des Himmels gingen wie Hirsche gereiht, sie, die Aditja's, wuchsen wie Heeresbanner empor.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для красоты надели (свои) украшения юные мужи  
 Как прекрасное содружество Марутов, (сверкая) сквозь многие ночи.  

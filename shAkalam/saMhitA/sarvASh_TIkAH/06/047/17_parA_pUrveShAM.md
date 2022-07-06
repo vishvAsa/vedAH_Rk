@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रा पू꣡र्वेषां सखिया꣡ वृणक्ति  
 वित꣡र्तुराणो अ꣡परेभिर् एति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पूर्वी꣡र् इ꣡न्द्रः शर꣡दस् तर्तरीति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 अन॑नुऽभूतीः । अ॒व॒ऽधू॒न्वा॒नः । पू॒र्वीः । इन्द्रः॑ । श॒रदः॑ । त॒र्त॒री॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parā*
 - \[adverb\]
@@ -92,21 +92,21 @@ genre D
 अयमिन्द्रः **पूर्वेषां** पूर्वभाविनां प्रशस्तानां कर्मणां कुर्वतां पुरुषाणां **सख्या** सखित्वानि **परा** **वृणक्ति** वर्जयति । अपि च **वितर्तुराणः** तान् हिंसन् 'अपरेभिः अपरैः अमुख्यैरप्रशस्तैरपि कर्मानुष्ठातृभिः **एति** सख्यं प्राप्नोति । तथा **अनानुभूतीः** अपरिचरणाः प्रजाः **अवधून्वानः** परित्यजन् **पूर्वीः** बह्वीः **शरदः** संवत्सरान् अयम् **इन्द्रः** **तर्तरीति** भृशमतिक्रामति । स्तोतृभिः सह सख्यं कुर्वन् चिरकालं वसतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** rejects the friendship of those who are formost (in pious acts), and, depositing them, associates with (their) inferiors; or (again) shaking off those who neglect his worship, Indra abides many years with those who serve him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He twists away from his partnerships with those in front; continually  double-crossing them, he goes with those behind.  
 Indra keeps enduring through the many autumns, shaking them  
 [=autumns] off so they don’t close in.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pū́rva-/ápara- binary returns from 15, but here I think it not only refers to those ahead and behind positionally (as there), but also has a temporal sense (not represented in the published translation): his previous allies in pāda a he dumps in favor of newer ones in b.
 
@@ -125,23 +125,23 @@ As noted in the published introduction, this section, which concerns Indra’s f
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He loves no more the men he loved aforetime: he turns and moves away allied with others.  
      Rejecting those who disregard his worship, Indra victorious lives through many autumns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er gibt die Freundschaft der Früheren auf, abwechselnd geht er mit anderen. Indra überdauert viele Herbste, sie abschüttelnd, daß sie an ihm nicht wahrgenommen werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er löset auf Genossenschaft der frühern, abwechselnd geht im Bund er mit den spätern; Abschüttelnd die, die nicht ihm sind ergeben, durchdringet siegreich Indra viele Herbste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он отвергает дружбу прежних,  
 Попеременно ходит он с другими.  

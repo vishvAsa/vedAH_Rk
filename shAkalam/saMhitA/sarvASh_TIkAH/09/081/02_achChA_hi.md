@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा हि꣡ सो꣡मः कल꣡शाँ अ꣡सिष्यदद्  
 अ꣡त्यो न꣡ वो꣡ळ्हा रघु꣡वर्तनिर् वृ꣡षा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 विद्वाँ꣡ अश्नोति अमु꣡त इत꣡श् च य꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अथ॑ । दे॒वाना॑म् । उ॒भय॑स्य । जन्म॑नः । वि॒द्वान् । अ॒श्नो॒ति॒ । अ॒मुतः॑ । इ॒तः । च॒ । यत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 असौ **सोमः** **कलशान्** **अच्छ** अभिमुखम् **असिष्यदत्** स्यन्दते । क इव । **अत्यो** **न** **वोळ्हा** रथस्य वाहकोऽश्व इव । स यथा स्वगन्तव्यमभिगच्छति तद्वत् । यद्वा । अयमुत्तरत्र दृष्टान्तः । **वोळ्हा** अश्व इव **रघुवर्तनिः** लघुगमनः **वृषा** वर्षकश्च । **अथ** अपि च **देवानां** सोमसजुषाम् **उभयस्य** उभयविधं **जन्मनः** जातं **विद्वान्** जानन् असिष्यदत् कलशान् । किं तदुभयं जन्मेति उच्यते । यद्देवजातम् **अमुतः** द्युलोकात् **इतश्च** अस्माद्भूलोकाच्च **अश्नोति** व्याप्नोति यज्ञम् । तस्योभयस्य जातं विद्वानिति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 Aśnoti is a predicate of yat; **somaḥ** as the subject of aśnoti: 'he acquires what is in the world above and what is in this world; 'he acquires from the next world what is there and from this world what is here'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For soma has flowed to the tubs. Like a steed that pulls (the chariot), the  bull has a rapid course,  
 and knowing of the double birth of gods (and men), he attains to what is  from yonder and what from here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Oldenberg I see “of gods” (devā́nām) in the phrase “the double birth of gods” as pregnant for “of gods (and men),” very much as a pregnant dual like dyā́vā “two heavens” or pitárā “two fathers” implies its opposite number. As Oldenberg points out, the locational adverbs in the next pāda amúta itáś ca “from yonder and from here” strongly suggest heaven and earth as their spheres. Geldner considers “gods and men to be the sense, but, in order not to supply a 2nd gen. pl., he achieves this by way of the unlikely “(heavenly and earthly) gods,” that is, gods and men. Ober (I.391) thinks that the double birth is of Devas and Asuras, but this is anachronistic.
 
@@ -160,23 +160,23 @@ As Geldner points out (nn. 1d, 2d), ghee (ghṛtá-) in these two vss. stands fo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither hath Soma flowed unto the beakers, like a chariot-horse, a stallion swift upon his way.  
      Thus, knowing both the generations, he obtains the rights and dues of Gods from yonder and from hence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn der Soma ist auf die Krüge zugeeilt wie ein starkes schnellfahrendes Zugroß. Mit dem zweifachen Geschlecht der Götter bekannt, erlangt er dann, was von dort und von hier zu erlangen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn zu den Kufen ist der Soma hingeeilt, gleich wie ein starkes Wagenross mit schnellem Lauf, Und kennend dann der Götter beiderlei Geschlecht, erreicht er das, was hier und was dort oben ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь сома устремился к кувшинам,  
 Как скакун, везущий (колесницу), быстро мчащийся (и) мужественный.  

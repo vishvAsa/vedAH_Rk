@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धी꣡रा तु꣡ अस्य महिना꣡ जनूं꣡षि  
 वि꣡ य꣡स् तस्त꣡म्भ रो꣡दसी चिद् उर्वी꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्विता꣡ न꣡क्षत्रम् पप्र꣡थच् च भू꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । नाक॑म् । ऋ॒ष्वम् । नु॒नु॒दे॒ । बृ॒हन्त॑म् । द्वि॒ता । नक्ष॑त्रम् । प॒प्रथ॑त् । च॒ । भूम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhīrā* ← *dhīra*
 - \[noun\], nominative, plural, neuter
@@ -127,7 +127,7 @@ genre M
 **अस्य** वरुणस्य **जनूंषि** जन्मानि **महिना** महिम्ना **तु** क्षिप्रं **धीरा** धीराणि धैर्यवन्ति भवन्ति । **यः** वरुणः **उर्वी** विस्तीर्णे **रोदसी** **चित्** द्यावापृथिव्यावपि **वि** **तस्तम्भ** विविधं स्तब्धे स्वकीये स्थाने स्थिते अकरोत् । यश्च **बृहन्तं** महान्तं **नाकम्** **आदित्यं** नक्षत्रं च **ऋष्वं** दर्शनीयं **द्विता** द्वैधं **प्र** **नुनुदे** प्रेरयति स्म । अहनि सूर्यं दर्शनीयं प्रेरयति रात्रौ नक्षत्रं तथेति द्विप्रकारः । **भूम** भूमिं **च** यः **पप्रथत्** अप्रथयत् विस्तारितवान् । तस्यास्य वरुणस्येत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ genre M
 Theirtwo-fold task: **dvitā**: of giving light by day and by night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Insightful are the races (of gods and mortals) through the greatness of  him who propped apart the two wide world-halves.  
 He pushed forth the vault of heaven to be high and lofty, (also) the star  [=the sun] once again, and he spread out the earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WISE, verily, are creatures through his greatness who stayed ever, spacious heaven and earth asunder;  
      Who urged the high and mighty sky to motion, the Star of old, and spread the earth before him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erst durch seine Größe sind die Geschöpfe weise geworden, der die beiden Welten, obwohl sie so weit sind, auseinander gestemmt hat. Er hat hoch nach dem Himmel gestoßen, doppelt dem Himmelsgestirn einen Anstoß gegeben, und er hat die Erde ausgebreitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voll Macht und Weisheit ist doch dessen Wesen, der Erd' und Himmel festigte, die weiten, Die hehre Himmelswölbung hoch emportrieb, das Sternenheer, der Erde Fluren aufthat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только могуществом того мудры поколения,  
 Кто укрепил отдельно два мира, как ни велики (они).  

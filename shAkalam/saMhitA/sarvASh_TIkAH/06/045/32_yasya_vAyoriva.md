@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य वायो꣡र् इव द्रव꣡द्  
 भद्रा꣡ रातिः꣡ सहस्रि꣡णी  
 सद्यो꣡ दाना꣡य मं꣡हते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒द्यः । दा॒नाय॑ । मंह॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -83,35 +83,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वायोरिव** **द्रवत्** क्षिप्रगामिनः **यस्य** बृबोः **भद्रा** कल्याणी **सहस्रिणी** सहस्रसंख्यायुक्ता **रातिः** दानं **सद्यः** स्तुतिसमय एव **दानाय** दानकामाय याचमानाय मह्यं **मंहते** अपेक्षितं धनं ददाति तं बृबुमित्युत्तरस्यामृचि संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Of whom, prompt as the wind, the liberal donation of thousands (of cattle) has been quickly given to (me) soliciting a gift.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (He) whose propitious gift in the thousands, at a speed like the wind’s, is ready for giving all at once.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He whose good bounty, thousandfold, swift as the rushing of the wind,  
      Suddenly offers as a gift.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Freigebigkeit, rasch wie die des Vayu glückbringend, tausendbringend, sogleich zu schenken bereitwillig ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, dessen tausendfache Gabe wie im Fluge des Windes sogleich zum Lohne geschenkt wird.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот,) у кого стремительно, словно у Ваю,  
 Благожелательность, приносящая счастье, приносящая тысячи,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अक्षा꣡स इ꣡द् अङ्कुशि꣡नो नितोदि꣡नो  
 निकृ꣡त्वानस् त꣡पनास् तापयिष्ण꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡ध्वा स꣡म्पृक्ताः कितव꣡स्य बर्ह꣡णा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 कु॒मा॒रऽदे॑ष्णाः । जय॑तः । पु॒नः॒ऽहनः॑ । मध्वा॑ । सम्ऽपृ॑क्ताः । कि॒त॒वस्य॑ । ब॒र्हणा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akṣāsa* ← *akṣāsaḥ* ← *akṣa*
 - \[noun\], nominative, plural, masculine
@@ -98,7 +98,7 @@ popular
 **अक्षास** **इत्** अक्षा एव **अङ्कुशिनः** अङ्कुशवन्तः **नितोदिनः** नितोदितवन्तश्च **निकृत्वानः** पराजये निकर्तनशीलाश्छेत्तारो वा **तपनाः** पराजये कितवस्य संतापकाः **तापयिष्णवः** सर्वस्वहारकत्वेन कुटुम्बस्य संतापनशीलाश्च भवन्ति । किंच **जयतः** **कितवस्य** **कुमारदेष्णाः** धनदानेन धान्यतां लम्भयन्तः कुमाराणां दातारो भवन्ति । अपि च **मध्वा** मधुना **संपृक्ताः** प्रतिकितवेन **बर्हणा** परिवृद्धेन सर्वस्वहरणेन कितवस्य **पुनर्हणः** पुनर्हन्तारो भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,35 +109,35 @@ popular
 They are the givers of sons: by acquiring wealth through their means a family may be reared; bytaking the gambler's all: barhaṇa = parivṛddheṇa sarvasvaharaṇena
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They are just “dice”—but hooking, goading, debasing, scorching,  seeking to scorch,  
 giving (temporarily) like a child, then in turn slapping down the victor,  infused with honey, with power over the gambler.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dice, verily, are armed with goads and driving-hooks, deceiving and tormenting, causing grievous woe.  
      They give gifts like boys [do], and then snatch them back from the winner,  
          [they are] sweetened [as] with honey with magic power over the gambler.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The dice attract the gambler, but deceive and wound, Both paining men at play and causing them to pain. Like boys they offer first and then take back their gifts: With honey sweet to gamblers by their magic charm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Würfel haben Widerhaken, Stacheln; sie sind Vereitler, Quäler, Quälgeister. Ihre Geschenke sind wie die der Kinder; sie schlagen den Sieger wieder. Durch des Spielers Übereifer sind sie mit Honig durchtränkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Würfel sind anhakend und sich einbohrend, knechtend, brennend, marternd, nur kurzes Glück gewährend, den Sieger dann wieder schlagend; und doch mit Süssigkeit vermischt durch Bezauberung des Spielers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь игральные кости – цепляющие крючьями, колющие,  
 Порабощающие, мучающие, испепеляющие,  

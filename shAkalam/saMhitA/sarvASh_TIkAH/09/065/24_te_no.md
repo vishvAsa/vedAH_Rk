@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नो वृष्टिं꣡ दिव꣡स् प꣡रि  
 प꣡वन्ताम् आ꣡ सुवी꣡रियम्  
 स्वाना꣡° देवा꣡स इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सु॒वा॒नाः । दे॒वासः॑ । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -92,20 +92,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **सुवानाः** तत्र चात्र चाभिषूयमाणा देवा दीपनशीलाः स्तुत्या वा **इन्दवः** ग्रहेषु चमसेषु च क्षरन्तः **ते** सोमाः **नः** अस्माकं **दिवस्परि**। परिशब्दः पञ्चमीद्योतकः। अन्तरिक्षादादित्याद्वा **वृष्टिम्** । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिः' इति वृष्टिकारणत्वात् । किंच **सुवीर्यं** शोभनवीर्योपेतं पुत्रं च धनादिकं वा **आ** **पवन्तां** प्रापयन्तु । यजमानः सोमेन अभिमतफलानि प्राप्नोति खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those brilliant **Soma**-juices when expressed pour down upon us from heaven rain with **male** progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By purifying themselves, let them bring here to us rain from heaven and  an abundance of heroes—  
 the gods, the drops, being pressed.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -115,23 +115,23 @@ As noted in the published introduction, this tṛca is thematically unified by a
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May these celestial drops, expressed, pour forth upon us, as they flow,  
      Rain from the heavens apd hero strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sollen uns Regen vom Himmel her und die Meisterschaft zuläutern, die ausgepreßten göttlichen Säfte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die mögen Regen strömen uns vom Himmel hell und Heldenkraft, Die Götter Indu's, ausgepresst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

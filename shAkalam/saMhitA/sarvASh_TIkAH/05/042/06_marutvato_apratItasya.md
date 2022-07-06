@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मरु꣡त्वतो अ꣡प्रतीतस्य जिष्णो꣡र्  
 अ꣡जूर्यतः प्र꣡ ब्रवामा कृता꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ वीरि꣡यं नू꣡तनः क꣡श् चना꣡प
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । ते॒ । पूर्वे॑ । म॒घ॒ऽव॒न् । न । अप॑रासः । न । वी॒र्य॑म् । नूत॑नः । कः । च॒न । आ॒प॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *marutvato* ← *marutvataḥ* ← *marutvat*
 - \[noun\], genitive, singular, masculine
@@ -128,36 +128,36 @@ genre M
 वयं यजमानाः **मरुत्वतः** मरुद्भिस्तद्वत इन्द्रस्य **कृतानि** कर्माणि **प्र** **ब्रवाम** प्रख्यापयाम । कीदृशस्य तस्य । **अप्रतीतस्य** अप्रतिगतस्य युद्धेऽपलायमानस्य । न केवलं तावन्मात्रम् । **जिष्णोः** जयनशीलस्य **अजूर्यतः** अजीर्यमाणस्य । सर्वदा यून इत्यर्थः । अथ प्रत्यक्षेणोच्यते । हे मघवन् इन्द्र **ते** तव वीर्यं पराक्रमं **पूर्वे** पुरातनाः पुरुषाः **न** आपुः । **नापरासः** अपरेऽपि नापुः । किं बहुना । **नूतनः** **कश्चन** आश्चर्यभूतः यः कोऽपि **वीर्यं** न **आप** न प्राप्नोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We celebrate the exploits of Marutvat, the unrecoiling, the victorious, the undecaying; neither the ancients, **Maghavan**, nor their successors, have attained your prowess, nor has any one recent attained it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We will proclaim the deeds of the one accompanied by the Maruts  [=Indra], unopposable, victorious, unaging.  
 None previous to you, bounteous one, nor later, nor anyone at all right  now has achieved your manly power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let us declare his deeds, the undecaying unrivalled Victor whom the Maruts follow.  
      None of old times, O Maghavan, nor later, none of these days hath reached thy hero prowess.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen die Taten des Marutführers verkünden, des unwiderstehlichen, siegreichen, alterlosen. Weder Frühere, o Gabenreicher, noch Spätere, noch irgend ein Heutiger hat deine Heldenkraft erreicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst preisen uns des unbesiegten Siegers, des Marutherrschers Thaten, der nie alt wird; Nicht jetzige, nicht frühere, noch spätre erreichten jemals deine Kraft, o mächt'ger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим провозгласить деяния (бога,) сопровождаемого Марутами,  
 Не имеющего равных, нестареющего победителя.  

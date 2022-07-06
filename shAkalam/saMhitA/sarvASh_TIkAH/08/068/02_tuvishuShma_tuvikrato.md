@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡विशुष्म तु꣡विक्रतो  
 श꣡चीवो वि꣡श्वया मते  
 आ꣡ पप्राथ महित्वना꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 आ । प॒प्रा॒थ॒ । म॒हि॒ऽत्व॒ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tuviśuṣma* ← *tuvi*
 - \[noun\]
@@ -82,7 +82,7 @@ genre M
 हे **तुविशुष्म** प्रभूतबल हे **तुविक्रतो** बहुकर्मन् । अथवा बहुप्रज्ञ कर्मणः पृथगभिधानात् । हे **शचीवः** बहुकर्मोपेत **मते** पूजनीयेन्द्र **विश्वया** विश्वव्याप्तेन **महित्वना** महत्त्वेन **आ** **पप्राथ** आपूरितवानसि । अविशेषाद्विश्वमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,34 +95,34 @@ Adorable: mate = pūjanīya, adorable, stotavya (V 8.18.7);
 Viśvayamati = an epithet of **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you of powerful outbursts, of powerful will, you able one whose  thought is everywhere,  
 you have filled (everywhere) with your greatness,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Oldenberg (and implicitly Geldner), read as a compound víśvayāmate; this requires no emendation to the Saṃhitā text, only the erasure of the word boundary in the Pp.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Great in tby power and wisdom, Strong, with thought that comprehendeth all  
      Thou hast filled full with majesty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Groß an Mut und Einsicht, kraftvoll, du an alles Denkender, hast mit deiner Größe die Welt erfüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sehr mächtiger, vielwirkender, o starker, allbeachtender, Erfüllt hast alles Grosse du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

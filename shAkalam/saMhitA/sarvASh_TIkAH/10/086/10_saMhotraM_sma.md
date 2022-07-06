@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 संहोत्रं꣡ स्म पुरा꣡ ना꣡री  
 स꣡मनं वा꣡व गछति  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 वे॒धाः । ऋ॒तस्य॑ । वी॒रिणी॑ । इन्द्र॑ऽपत्नी । म॒ही॒य॒ते॒ । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃhotraṃ* ← *saṃhotram* ← *saṃhotra*
 - \[noun\], accusative, singular, neuter
@@ -113,37 +113,37 @@ popular;; epic anuṣṭubh (525);; repeated line
 **नारी** स्त्री **ऋतस्य** सत्यस्य **वेधाः** विधात्री **वीरिणी** पुत्रवती **इन्द्रपत्नी** इन्द्रस्य भार्येन्द्राणी **संहोत्रं** स्म समीचीनं यज्ञं खलु **समनं** संग्रामं **वा**। समितिः समनम्' इति संग्रामनामसु पाठात् । **अव** प्रति **पुरा** **गच्छति** । **महीयते** स्तोतृभिः स्तूयते च । तस्या मम पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mother who is the instrumental tutress of the ceremony, the mother of **male** offspring, the wife of **Indra**,goes first to the united sacrifice to battle, (and) is honoured (by the praisers); Indra is above all (the world).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up till now the woman has (just) been accustomed to come down to the  joint offering or to the festive gathering.  
 Now she is magnified as the Adept of Truth, as one having a hero, with  Indra as husband.  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From olden time the matron goes to feast and general sacrifice.  
      Mother of Heroes, Indra's Queen, the rite's ordainer is extolled. Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Früher zog die Herrin zu gemeinsamem Opfer oder zum Kampf aus. Da ward sie als die Meisterin des rechten Wandels, als Heldenweib und Indra´s Gattin gefeiert." - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen; eine Ordnerin des heiligen Werkes ist die dem Helden vermählte; des Indra Gattin erweist sich mächtig.« Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुविवृ꣡तं सुनिर꣡जम्  
 इ꣡न्द्र त्वा꣡दातम् इ꣡द् य꣡शः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 कृणुष्व꣡ रा꣡धो अद्रिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 गवा॑म् । अप॑ । व्र॒जम् । वृ॒धि॒ । कृ॒णु॒ष्व । राधः॑ । अ॒द्रि॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suvivṛtaṃ* ← *suvivṛtam* ← *suvivṛt*
 - \[noun\], accusative, singular, masculine
@@ -102,7 +102,7 @@ genre M
 राधः । असुनन्तो नित्त्वादाद्युदात्तः । अद्रिवः । अद्रिर्वज्रम् । तदस्यास्तीति मतुप् । ‘छन्दसीरः' (पा. सू. ८. २. १५) इति वत्वम्। संबुद्धौ ‘ उगिदचां° ' ( पा. सू. ७. १. ७०) इति नुम् । हल्ङयादिसंयोगान्तलोपौ (पा. सू. ६. १.६८; ८. २. २३)। ‘मतुवसो रु संबुद्धौ छन्दसि' ( पा. सू. ८. ३. १ ) इति रुत्वम् । विसर्जनीयः। आमन्त्रितस्य च निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,7 +113,7 @@ genre M
 Lit. Indra, as the sender of rain, should fertilize the fields, and by providing abundant pasturage, enable the cattle to yield store of milk
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Easily opening (the pen), easily driving out (the cows)—(that) glory is  acquired [/given] only by you, Indra.  
 
@@ -121,7 +121,7 @@ Open the pen of the cows; show your generosity, o possessor of
 the stone.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two compounds in pāda a, suvivṛ́taṃ sunirájam, do not occur elsewhere and are grammatically and interpretively ambiguous. The semantic reference of the two words is clear — the easy opening (ví √vṛ) of the Vala cave and the easy driving out (nir √aj) of the cows, using the standard lexemes for those actions — but 1) what are their stems? and 2) assuming they are adjectival, what do they modify? Grassmann/Lubotsky analyse them as -a-stems -- also AiG II.1, though AiG II.2 takes sunirájam as belonging to an a-stem (p. 86) but suvivṛ́tam to a root noun (p. 43) [and Hauschild’s Index to AiG lists them both as root nouns, somewhat emphatically] -- while, e.g., Oldenberg and Scarlatta take both as root nouns. There is another formal anomaly: the pāda they form, suvivṛ́taṃ sunirájam, has only one internal heavy syllable, the final syllable of the first word, where the initial consonant of the second makes position. A very unusual metrical line. Arnold (VM 125-26, 290) suggests the possibility of reading suvīvṛ́tam on the basis of the lengthening of the final vowels of the preverbs ápi, abhí, pári, etc., before forms of √vṛ. Thanks to Elizabeth Tucker for pointing this out.
 
@@ -130,23 +130,23 @@ As to their reference, the general approach has been to take them as modifying a
 On the possible double sense of tvā́dātam in b, see published introduction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Easy to turn and drive away, Indra, is spoil bestowed by thee.  
      Unclose the stable of the kine, and give us wealth O Thunder-armed
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, der den Pferch gern aufschließt, die Rinder gern herauslässt. Von dir, Indra, wird die Auszeichnung verliehen. Schließe den Pferch der Kühe auf, übe Freigebigkeit, Herr des Preßsteins!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Leicht zu eröffnen, zu empfahn ist Schatz, den, Indra, du verleihst, So öffne uns der Rinder Stall und schenk uns Gut, o Schleuderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Загон с коровами,) легко открываемый, легко опустошаемый, -  
 О Индра, (это) отличие, даваемое только тобой!  

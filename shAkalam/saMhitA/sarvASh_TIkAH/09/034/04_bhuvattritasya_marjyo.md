@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भु꣡वत् त्रित꣡स्य म꣡र्जियो  
 भु꣡वद् इ꣡न्द्राय मत्सरः꣡  
 सं꣡ रूपइ꣡र् अज्यते ह꣡रिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सम् । रू॒पैः । अ॒ज्य॒ते॒ । हरिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **त्रितस्य** अपां पुत्रस्य सूक्तद्रष्टुर्ऋषेः सोऽयं मत्सरः मदकरः सोमः **मर्ज्यो** **भुवत्** शुद्धो भवति । तस्य यागार्थं शेषपानार्थं च । तथा **इन्द्राय** इन्द्रपानाय मर्ज्यः भुवत् । **रूपैः** रूपकैश्च क्षीरादिभिः **हरिः** हरितवर्णः सोमः **सम्** **अज्यते** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,14 +100,14 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 I.e., mixed with curds and milk
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It becomes the one for Trita to groom; it becomes the drink of  
 exhilaration for Indra.  
 The tawny one is anointed with the forms (of milk).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On Trita, see comm. ad IX.37.4.
 
@@ -127,23 +127,23 @@ The final words of these two vss. are the phonologically similar háriḥ and ha
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 'Tis he whom Trita must refine, 'tis he who shall make Indra glad:  
      The Tawny One is decked with tints.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er war für Trita zu putzen, er war für Indra berauschend; der Falbe wird mit seinen Farben gesalbt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Trita sei zu läutern er, dem Indra sei berauschend er, Mit Schönheit wird das Ross geschmückt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет (он) достоин того, чтобы его начищал Трита!  
 Да будет он пьянящим для Индры!  

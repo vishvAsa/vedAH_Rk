@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रुष्टी꣡ अग्ने न꣡वस्य मे  
 स्तो꣡मस्य वीर विश्पते  
 नि꣡ मायि꣡नस् त꣡पुषा रक्ष꣡सो दह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 नि । मा॒यिनः॑ । तपु॑षा । र॒क्षसः॑ । द॒ह॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śruṣṭy* ← *śruṣṭī* ← *śruṣṭi*
 - \[noun\], instrumental, singular, feminine
@@ -90,35 +90,35 @@ genre M
 **वीर** शत्रूणां विनाशयितर्वीर्यवन् **विश्पते** विशां पालयितर्हे **अग्ने** **नवस्य** इदानीं क्रियमाणत्वान्नूतनं **मे** मदीयं **स्तोमस्य** स्तोत्रशस्त्रादिकं **श्रुष्टी** श्रुत्वा **मायिनः** मायाविनः **रक्षसः** कर्मविघ्नकारिणो राक्षसान् **तपुषा** तापकेन तेजसा **नि** **दह** नितरां भस्मीकुरु ॥ श्रुष्टी । स्नात्व्यादयश्च ' इति निपातितः । वकारलोपश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hero, **Agni**, lord of men, hearing this my present praise, consume the guileful **rākṣasas** by yourflames.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, in harkening to my new praise song, you clanlord and hero, with your searing heat burn down the wily demons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Hero Agni, Lord of men, on hearing this new laud of mine,  
      Burn down the Raksasas, enchanters, with thy flame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter Erhörung meines neuen Lobliedes brenne, du Held, du Clanherr Agni, mit deiner Glut die zauberischen Dunkelmänner nieder!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O höre, Agni, Hausherr du, auf dies mein neues Lied, o Held; Die Zaubergeister brenne nieder du mit Glut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прислушиваясь, о Агни, к моему новому  
 Восхвалению, о муж, о господин племен,  

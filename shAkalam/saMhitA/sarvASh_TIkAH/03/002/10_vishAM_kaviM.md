@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विशां꣡ कविं꣡ विश्प꣡तिम् मा꣡नुषीर् इ꣡षः  
 सं꣡ सीम् अकृण्वन् स्व꣡धितिं न꣡ ते꣡जसे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ ग꣡र्भम् एषु꣡ भु꣡वनेषु दीधरत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । उ॒त्ऽवतः॑ । नि॒ऽवतः॑ । या॒ति॒ । वेवि॑षत् । सः । गर्भ॑म् । ए॒षु । भुव॑नेषु । दी॒ध॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
@@ -138,7 +138,7 @@ genre M
 इषः पश्वादिलक्षणन्धनमिच्छन्त्यः मानुषीः मनुष्यप्रजाः विशाम्प्रजानां विश्पतिम्प्रभुङ्कविम्मेधा विनं सर्वितंयमग्निं स्वधितिन असिमिव तेजसे तैक्ष्ण्यार्थं समकृण्वन् समस्कुर्वन् सोग्निः उद्वतः उच्छ्रायवतः निवतोनीचैर्भाववतश्चप्रदेशान् वेविषत् व्याप्नुवन् यातिगच्छति सएषुभुवनेषु गर्भङ्गर्भत्वेनात्मानन्दीधरत् अधारयत् ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,34 +149,34 @@ genre M
 In these regions: the two pieces of wood, the attrition of which produces flame
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The refreshments of the sons of Manu [=the oblations of ghee] have  perfected him, the poet of the clans, the clanlord, to be sharp like  an axe.  
 He journeys to the heights and the depths, being ever active. He  supports his embryo among these living beings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Man's sacrificial food hath sharpened like an axe, for brightness, him the Sage of men, the people's Lord,  
      Busied with sacred rites he mounts and he descends. He hath laid down his vital germ within these worlds.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The food offered by men has sharpened him, the sage of the tribes, the lord of the tribes, as an axe. Busily he goes to the heights and to the depths. He has held fast the germ in these worlds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den weisen Herrn der Clane haben die menschlichen Labsale scharf zu machen vermocht wie eine Axt. Er geht arbeitend auf und abwärts. In diese Wesen legt er seinen Keim.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den weisen Herrn der Häuser machten wie ein Beil der Menschen Opfertränke zum Zerschneiden scharf; Mit Eifer wirkend geht er auf- und niederwärts; in diese Wesen legte er die Leibesfrucht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мудрого господина племен жертвенные подкрепления, исходящие от людей,  
 Сделали острым, как топор.  

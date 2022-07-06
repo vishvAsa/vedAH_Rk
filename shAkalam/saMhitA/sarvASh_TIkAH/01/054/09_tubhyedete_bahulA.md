@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्ये꣡द् एते꣡ बहुला꣡ अ꣡द्रिदुग्धाश्  
 चमूष꣡दश् चमसा꣡ इन्द्रपा꣡नाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था म꣡नो वसुदे꣡याय कृष्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि । अ॒श्नु॒हि॒ । त॒र्पय॑ । काम॑म् । ए॒षा॒म् । अथ॑ । मनः॑ । व॒सु॒ऽदेया॑य । कृ॒ष्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyed* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
@@ -133,36 +133,36 @@ genre M
 हे इन्द्र तुभ्येत् तुभ्यमेव **चमसाः** । चम्यन्ते भक्ष्यन्ते इति चमसाः सोमः। **एते** सोमाः त्वदर्थं संपादिताः । कीदृशा इत्याह । **बहुलाः** प्रभूताः **अद्रिदुग्धाः** अद्रिभिर्ग्रावभिरभिषुताः **चमूषदः** चमूषु चमसेष्ववस्थिताः **इन्द्रपानाः** इन्द्रस्य पानेन सुखकराः । अतस्वं तान् **व्यश्नुहि** व्याप्नुहि । व्याप्य च **एषां** त्वदीयानामिन्द्रियाणां **कामम्** अभिलाषं तैः **तर्पय** पूरयेति यावत् । **अथ** अनन्तरं **वसुदेयाय** अस्मभ्यमभिमतधनप्रदानाय त्वदीयं **मनः** **कृष्व** कुरुष्व ॥ तुभ्य । छान्दसो मलोपः । अद्रिदुग्धाः । दुहेः कर्मणि निष्ठा ।  ‘ तृतीया कर्मणि ' इति पूर्वपदप्रकृतिस्वरत्वम्। चमूषदः ।  ‘ चमु अदने ' । चमन्त्यनेनेति चमूः ।  ‘ कृषिचमितनि° ( उ. सू. १. ८१ ) इत्यादिना औणादिकः उप्रत्ययः । चमूषु सीदन्तीति चमूषदः । सत्सूद्विष° ' इत्यादिना क्विप् । पूर्वपदात्' (पा. सू. ८. ३. १०६ ) इति षत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । इन्द्रपानाः ।  ‘ कर्मणि च येन संस्पर्शात् । ( पा. सू. ३. ३. ११६ ) इति पिबतेः कर्मणि ल्युट् । अश्नुहि । व्यत्ययेन परस्मैपदम्। वसुदेयाय ।  ‘ डुदाञ् दाने'। अस्मात् ' अचो यत्' इति भावे यत् ।' ईद्यति' ( पा. सू. ६. ४. ६५ ) इति ईकारादेशः । गुणः । यतोऽनावः' इत्याद्युदात्तत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । कृष्व । डुकृञ करणे'।  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These copious **Soma** juices, expressed with stones and contained in ladles, are prepared for you; they are the beverage of **Indra**; quaff them; satiate your appetite with them; and then fix your mind on the wealth that is to be given (to us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you alone are these ample beakers, milked by stones and resting in  cups—the draughts of Indra.  
 Attain (them), satisfy your desire for them, and then put your mind to  giving goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Therefore for thee are these abundant beakers Indra's drink, stone-pressed juices held in ladles.  
      Quaff them and satisfy therewith thy longing; then fix thy mind upon bestowing treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur für dich sind diese reichlichen, mit Steinen ausgedrückten, in der Kufe sitzenden Somatränke, die vollen Becher, die Indra trinkt. Erfülle, befriedige dein Verlangen nach ihnen und richte deinen Sinn aufs Schenken von Gut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für dich sind diese vielen steingemelkten, in Schalen ruhnden, dir zum Trunk die Becher; Nun lange zu, befried'ge ihr Verlangen und wende deinen Sinn zur Güterspende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь только для тебя эти обильные выдоенные камнями (соки сомы),  
 Сидящие в чане, чаши, выпиваемые Индрой.  

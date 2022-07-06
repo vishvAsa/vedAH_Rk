@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ वा सा꣡नु स्पृश꣡ता व꣡रीयः  
 पृथिव्या꣡ वा मा꣡त्रया वि꣡ श्रयध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवं꣡ र꣡थं रथयु꣡र् धारयध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒श॒तीः । द्वा॒रः॒ । म॒हि॒ना । म॒हत्ऽभिः॑ । दे॒वम् । रथ॑म् । र॒थ॒ऽयुः । धा॒र॒य॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -118,36 +118,36 @@ genre M
 हे **द्वारः** एतन्नामधेया देव्यः यूयं **दिवो** **वा** । वाशब्दश्चार्थे । दिवश्च **सानु** समुच्छ्रितं **वरीयः** उरुतरं स्थानं **स्पृशत** उन्नता भवतेत्यर्थः ।  ‘ चवायोगे प्रथमा ' इति न निघातः । **पृथिव्याः** च यावती मात्रास्ति तावत्या **मात्रया** **वि** **श्रयध्वं** विस्तृता भवत । **उशतीः** देवान् कामयमाना यूयं **रथयुः** । ‘सुपां सुलुक्° ' इति जसः सुः । रथकामाः सत्यः **महिना** महिम्ना महद्भिः देवैरधिष्ठितम् अत एव **देवं** द्योतमानं **रथं** रमणसाधनं **धारयध्वं** धारयत ॥ ॥२१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be in contact, doors, with the lofty height of heaven, or expand according to the measure of the earth;desiring the gods, desiring a chariot, sustain without might the shining chariot (that is mounted) by the mightygods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Touch the wider back of heaven, or gape open along the measure of  the earth.  
 Eagerly, seeking the chariot, o Doors, with your greatness and with the  great (gods) hold fast the divine chariot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Touch ye the far-extending height of heaven or spring apart to suit the wide earth's measure.  
      Yearning, ye Doors, with those sublime in greatness, seize eagerly the heavenly Car that cometh.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rühret an des Himmels Rücken und noch weiter, oder tut euch auf, so weit die Erde sich erstreckt! Ihr Tore, haltet verlangend den göttlichen Wagen mit den Großen fest durch eure Größe, den Wagen erwartend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Berühret weit des Himmels Gipfel oder eröffnet weit euch nach dem Maass der Erde, O Thore, willig, gross ihr für die grossen, den Götterwagen fasset, Wagen liebend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Коснись поверхности неба (и) еще дальше,  
 Или же раскройтесь, насколько простирается земля!  

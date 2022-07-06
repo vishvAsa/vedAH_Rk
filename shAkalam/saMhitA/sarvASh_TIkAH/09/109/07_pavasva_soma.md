@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व सोम द्युम्नी꣡ सुधारो꣡  
 महा꣡म् अ꣡वीनाम् अ꣡नु पूर्वियः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 पव॑स्व । सो॒म॒ । द्यु॒म्नी । सु॒ऽधा॒रः । म॒हाम् । अवी॑नाम् । अनु॑ । पू॒र्व्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -72,19 +72,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 हे सोम **द्युम्नी** । 'द्युम्नं द्योततेर्यशो वान्नं वा ' इति यास्कः । अन्नवान् यशस्वी वा **सुधारः** शोभनधारायुक्तः पूर्व्यः पुरातनस्त्वं **महां** महताम् **अवीनां** रोम्णां रोमभ्यः सकाशादनुक्रमेण **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Soma**, who are possessed of food, who have a copious stream, flow through the great sheep's hairs in due succession.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, o Soma, possessing heavenly brilliance and good  streams, along the (fleece) of the sheep as the great ancient one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The morphological identity of mahā́m is uncertain: it could be acc. sg. (m.) (see AiG III.251, etc.) or gen. pl. to máh- (so Grassmann) - or, in my opinion, nom. sg. masc.
 
@@ -103,22 +103,22 @@ Unlike the previous tṛca with repeated pavasva, each vs. of this tṛca has a 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, flow splendid with thy copious stream through the great fleece as in the olden time.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, Soma, glänzend, schön abtraufend, den großen Rücken der Schafe entlang als Erster!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma riesle – an Glanz und Flut reich, ans grosse Wollnetz – im Lauf dich schmiegend,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся, о сома сверкающий, с прекрасным потоком,  
 Вдоль огромного (сита) из овечьей шерсти, древний (бог)!

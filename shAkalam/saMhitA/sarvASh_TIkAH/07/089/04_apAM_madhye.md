@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपा꣡म् म꣡ध्ये तस्थिवां꣡सं  
 तृ꣡ष्णाविदज् जरिता꣡रम्  
 मॄळा꣡+ सुक्षत्र मॄळ꣡य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 मृ॒ळ । सु॒ऽक्ष॒त्र॒ । मृ॒ळय॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 **अपां** समुद्राणामुदकानां **मध्ये** **तस्थिवांसं** स्थितवन्तमपि **जरितारं** तव स्तोतारं मां **तृष्णा** पिपासा **अविदत्** आप्तवती । लवणोत्कटस्य सामुद्रजलस्य पानानर्हत्वात्। अतस्तादृशं मां **मृळ** सुखय । अन्यद्गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,28 +94,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 Thirst: an allusion to **Vasiṣṭha**'s sea voyage; he is thirsty amid the waters becausethe water of the ocean is saline and unfit for drinking: lavaṇotkaṭasya samudrajalasya pānānhatvāt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Though he is standing in the midst of waters, thirst has found the singer. – Be merciful, o you whose dominion is great. Have mercy!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thirst found thy worshipper though he stood in the midst of water-fijods:  
      Have mercy, spare me, Mighty Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitten im Wasser stehend hat den Sänger Durst befallen.-Verzeih, guter Herrscher, gib Verzeihung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ob stehend in des Wassers Flut, ergriff den Sänger dennoch Durst, Sei gnädig, Herrscher, und vergib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жажда настигла певца,  
 Стоящего посреди вод.  

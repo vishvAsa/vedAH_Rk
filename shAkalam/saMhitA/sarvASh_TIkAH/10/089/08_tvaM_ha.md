@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ह त्य꣡द् ऋणया꣡ इन्द्र धी꣡रो  
 असि꣡र् न꣡ प꣡र्व वृजिना꣡ शृणासि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यु꣡जं न꣡ ज꣡ना मिन꣡न्ति मित्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । ये । मि॒त्रस्य॑ । वरु॑णस्य । धाम॑ । युज॑म् । न । जनाः॑ । मि॒नन्ति॑ । मि॒त्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -128,36 +128,36 @@ genre M
 **इन्द्र** **धीरः** प्राज्ञः **त्वं** **ह** त्वं खलु **त्यत्** तत् **ऋणयाः** स्तोतृविषयाणामृणानां प्रापयितासि । किंच त्वम् **असिर्न** शस्त्रमिव **पर्व** पशूनां पर्वाणि **वृजिना** वृजिनानि स्तोतॄणामुपद्रवाणि **शृणासि** हंसि। किंच **मित्रस्य** **वरुणस्य** मित्रावरुणयोः **धाम** धारकं कर्म **युजं** **न** युक्तमिव **मित्रं** **ये** अज्ञा नृशंसाः **जनाः** **प्र** **मिनन्ति** प्रकर्षेण हिंसन्ति तानपि शृणासीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, who are wise, punish the guilt (of worshippers); you cut off their sins as a sword (cuts off)the limbs (of victims); (you cut off) the people who (ignorantly) injure the supporting (function) of **Mitra**, andVaruṇa, (which is) as it were their close friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It’s just you, Indra, who are the insightful requiter of debts. As a knife  does joints, you cleave the crooked (ways of those)  
 who violate the ordinances of Mitra and Varuṇa, as people violate a  bound alliance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise art thou, Punisher of guilt, O Indra. The sword lops limbs, thou smitest down the sinner,  
      The men who injure, as it were a comrade, the lofty Law of Varuna and Mitra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Indra, warst da ein kluger Vergelter. Wie das Schlachtbeil die Gelenke, so zerhaust du die Falschheiten derer, die wider des Mitra und Varuna Gesetze fehlen wie Leute gegen einen verbündeten Freund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, als der weise Schuld-Verfolger, zerhaust das Unrecht, wie das Schwert die Glieder, Der Menschen, die des Varuna und Mitra Gesetz verletzen, wie den Freund die Bösen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А ты, Индра, был умным мстителем.  
 Как нож – суставы, ты сокрушаешь обманы (тех),  

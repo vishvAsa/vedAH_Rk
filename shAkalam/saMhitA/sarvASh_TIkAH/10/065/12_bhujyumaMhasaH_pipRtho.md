@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भुज्यु꣡म् अं꣡हसः पिपृथो नि꣡र् अश्विना  
 श्या꣡वम् पुत्रं꣡ वध्रिमत्या꣡ अजिन्वतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 विष्णापु꣡वं वि꣡श्वकाया꣡व सृजथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 क॒म॒ऽद्युव॑म् । वि॒ऽम॒दाय॑ । ऊ॒ह॒थुः॒ । यु॒वम् । वि॒ष्णा॒प्व॑म् । विश्व॑काय । अव॑ । सृ॒ज॒थः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 हे **अश्विना** अश्ववन्तौ सर्वं व्याप्नुवन्तौ वैतन्नामकौ हे देवौ **अंहसः** उपद्रवकारिणः समुद्रात् **भुज्युं** तुग्रपुत्रमेतन्नामानं **निः** **पिपृथः** निष्पारयथः नितरां रक्षथः । पॄ पालनपूरणयोः । जौहोत्यादिकः। ‘निष्टौग्र्यं पारयथः समुद्रात् ' ( ऋ. सं. १ ०. ११८. ६) इति निगमः । तथा **श्यावं** हिरण्यहस्तनामानं **पुत्रं** **वध्रिमत्याः** एतन्नामिकायाः **अजिन्वतम्** अप्रीणयतम् अदत्तम् ।  ‘ हिरण्यहस्तमश्विना रराणा ' ( ऋ. सं. १. १ १७, ३४ ) इत्यादिनिगमः । तथा **कमद्युवं** कामस्य दीपनीं वेनपुत्रीं जायां **विमदाय** ऋषये **युवम्** ऊहथुः प्रापयथः । 'युवं रथेन विमदाय ' (  ऋ. सं. १०.३९, ७ ) इति निगमः । तथा **विष्णाप्वम्** एतन्नामानं विनष्टं पुत्रं **विश्वकाय** ऋषये आनीय **अव** **सृजथः** अदत्तम् । पशुं न नष्टमिव दर्शनाय' ( ऋ. सं. १, ११६, २३ ) इति निगमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ Kamadhyu = light of love, kāmasya **dīpti**;
 Viṣṇāpu: cf. RV 1.116.23; viṣṇvāpya?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You rescue Bhujyu from difficult straits, o Aśvins. You gave life to  Śyāva, the son of Vadhrimatī.  
 You carried Kamadyū to Vimada. You let loose Viṣṇāpū for Viśvaka.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, ye delivered Bhujyu from distress, ye animated Syava, Vadhrmati's son.  
      To Vimada ye brought his consort Kamadyu, and gave his lost Visnapu back to Visvaka.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Asvin helfet dem Bhujyu aus Not. Den Syava, der Vadhrimati Sohn, belebtet ihr. Dem Vimada führtet ihr die Kamadyu zu; ihr gebet dem Visvaka den Visnapu frei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Ritter halft dem Bhudschju aus der Fluten Drang, belebtet Çjāva, ihn, der Vadhrimati Sohn, Die Kamadju vermähltet ihr dem Vimada, und den Vischnapu gabt ihr los dem Viçvaka.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

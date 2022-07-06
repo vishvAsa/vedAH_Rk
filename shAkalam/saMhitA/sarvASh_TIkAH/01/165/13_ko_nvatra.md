@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ नु꣡ अ꣡त्र मरुतो मामहे वः  
 प्र꣡ यातन स꣡खीँर् अ꣡छा सखायः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एषा꣡म् भूत न꣡वेदा म ऋता꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 मन्मा॑नि । चि॒त्राः॒ । अ॒पि॒ऽवा॒तय॑न्तः । ए॒षाम् । भू॒त॒ । नवे॑दाः । मे॒ । ऋ॒ताना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -129,7 +129,7 @@ genre M
 हे मरुतः युष्मान् अत्र लोके **को** **नु** खलु मर्त्यः **ममहे** पूजयति । हे **सखायः** सर्वस्य सखिवत्प्रियकारिणः सन्तः **सखीन्** हविष्प्रदानेन सखिभूतान् यजमानान् **अच्छ** आभिमुख्येन प्राप्तुं **प्र** **यातन** गच्छत । हे **चित्राः** चायनीयाः यूयं **मन्मानि** मननीयानि धनानि **अपिवातयन्तः** संपूर्णं प्रापयन्तः **भूत** भवत । किंच **मे** मदीयानाम् **एषाम्** **ऋतानाम्** अवितथानां **नवेदाः** भूत ज्ञातारो भवत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,13 +140,13 @@ genre M
 Be not uncognizant: eṣām **bhūta** navedā me ṛtānām = be cognizant of these my truths, madīyānām avitathānām jñātāro bhavata
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Narrator:] Now who has given liberally to you here, Maruts? Journey  forth to your companions here, o companions!  
 Knowing our thoughts intimately, o you shimmering ones, be aware of  these, my truths.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The reciprocal lexical harmony of sákhīn … sakhāyaḥ recalls that found in 11d sákhye sákhāyaḥ, but there is a small mystery: the voc. pl. sakhāyaḥ surely refers to the Maruts, but who are the plural expressed by sákhīn? We would expect a singular referring to Indra. It seems unlikely to be the priests plus/minus Indra because the speaker is a singular (note me in d, the sg. inter. prn. káḥ in the rhetorical question in pāda a, and the sg. poet in vs. 14). I take that speaker to be Agastya (contra the published translation, which identifies him as the narrator). Perhaps a pl. maiestatis for Indra? If návedā(ḥ) belongs to the s-stem návedas-, it should be nom. m. singular here, in disagreement with the plural subj. of bhūta. Grassmann’s solution is to set up a them.
 
@@ -155,23 +155,23 @@ stem náveda- for just this passage, which would allow a plural interpr. To avoi
 referring collectively to the Marut troop. Cf. also the parallel passage IV.23.4 devó bhuvan návedā ma ṛtā́nām, with a legitimate singular; the post-caesura portions of the pādas are identical. On the origin of návedas- from a false segmentation of -tana védas- see Schindler, Fs. Knobloch, 1985.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who here hath magnified you, O ye Maruts? speed forward, O ye lovers, to your lovers.  
      Ye Radiant Ones, assisting their devotions, of these my holy rites he ye regardful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer feiert euch wohl hier, o Marut? Fahret zu den Freunden, ihr Freunde! Wecket die Gedanken, ihr Prächtigen: Nehmet diese meine rechten Worte wahr!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer ist's, der euch, o Maruts, jetzt verherrlicht? o kommt doch her, ihr Freunde, zu den Freunden, O glänzende, belebend unsre Andacht und werdet Zeugen meiner frommen Werke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто же вас возвеличил здесь, о Маруты?  
 Отправляйтесь к друзьям, о друзья!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पदं꣡ देव꣡स्य मीळ्हु꣡षो  
 अ꣡नाधृष्टाभिर् ऊति꣡भिः  
 भद्रा꣡ सू꣡र्य इवोपदृ꣡क्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 भ॒द्रा । सूर्यः॑ऽइव । उ॒प॒ऽदृक् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *padaṃ* ← *padam* ← *pada*
 - \[noun\], nominative, singular, neuter
@@ -79,35 +79,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मीळ्हुषः** कामानां सेक्तुः **देवस्य** द्योतमानस्याग्नेः **पदं** स्थानम् **अनाधृष्टाभिः** शत्रुभिः अनाधृष्टाभिः **ऊतिभिः** रक्षाभिर्भजनीयं भवतीत्यर्थः । तथैवास्य **उपदृक्** उपद्दष्टिरपि **सूर्यइव** यथा सूर्यस्तद्वत् 'भद्रा मनुष्यैर्भजनीया भवति ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Auspicious is the plural ce of the god who pours forth all desires with his inviolable protections; auspiciousis his appearance like the Sun's.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The footprint of the generous god, with his unassailable forms of help, is an auspicious sight, like the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The station of the Bounteous God hath, through his aid which none impair,  
      A pleasant aspect like the Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Spur des belohnenden Gottes mit seinen unantastbaren Hilfen ist ein erfreulicher Anblick wie die Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des gnadenreichen Gottes Platz an unbezwungnen Hülfen reich, Ein schöner Anblick, sonnengleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 След щедрого бога  
 С (его) неприкосновенными поддержками  

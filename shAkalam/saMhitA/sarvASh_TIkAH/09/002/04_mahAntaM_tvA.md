@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महा꣡न्तं त्वा मही꣡र् अ꣡नु  
 आ꣡पो अर्षन्ति सि꣡न्धवः  
 य꣡द् गो꣡भिर् वासयिष्य꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत् । गोभिः॑ । वा॒स॒यि॒ष्यसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahāntaṃ* ← *mahāntam* ← *mahat*
 - \[noun\], accusative, singular, masculine
@@ -82,20 +82,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम त्वं **यत्** यदा यज्ञे **गोभिः** गोविकारैः पयोभिः **वासयिष्यसे** आच्छादयिष्यते तदा **महान्तं** त्वाम् **अनु** प्रति **सिन्धवः** स्यन्दमानाः **महीः** महत्यः **आपः** **अर्षन्ति** गच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Som), when you will veil yourself in the milk, the mighty streaming waters flow to you, the mighty one.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The great waters, the rivers, rush after you, the great one,  
 when you will clothe yourself with the cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 What I don’t quite understand is why we have the rather exotic form, a causative future reflexive middle in 4c, vāsayiṣyáse (lit. ‘you will cause yourself to be clothed’), in contrast to the straightforward -iṣ-aor. middle vasiṣṭa (‘he has clothed himself’) that corresponds to it in 3c. The need or desire to use the future must have triggered the creation of this baroque form. In this connection it is worth noting that √vas ‘clothe’ lacks a standard future in Vedic and, acdg. to Wh Roots, has only one occurrence in ClSk. of a future vatsyati -- so perhaps the causative allowed a transparent future to be built more easily. This form (repeated in the identical pāda in IX.66.13) is also the only medial form of the caus. to √vas ‘clothe’ in the RV. The question then arises - why is the future so desirable in this context that such morphological shenanigans had to be performed? The clue to the usage may lie in part in the sequencing of the verbs: both b and c are repeated in IX.66.13 (likewise as bc), and so the two clauses form a larger unit and must be evaluated together.
 
@@ -114,23 +114,23 @@ These two vss. introduce the trope of “clothing,” a metaphor for mixing the 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mighty waters, yea, the floods accompany thee Mighty One,  
      When thou wilt clothe thee with the milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, dem Großen, fließen die großen Wasserströme zu, wenn du dich in die Milch hüllen willst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es strömen Wasserfluten dir, dem grossen grosse Ströme nach, Wenn du in Milch dich kleiden willst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Текут вслед за тобой, великим,  
 Великие воды, реки,  

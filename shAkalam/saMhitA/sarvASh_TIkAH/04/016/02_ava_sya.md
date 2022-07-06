@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व स्य शूर अ꣡ध्वनो न꣡ अ꣡न्ते  
 अस्मि꣡न् नो अद्य꣡ स꣡वने मन्द꣡ध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 चिकितु꣡षे असुरि꣡याय म꣡न्म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 शंसा॑ति । उ॒क्थम् । उ॒शना॑ऽइव । वे॒धाः । चि॒कि॒तुषे॑ । अ॒सु॒र्या॑य । मन्म॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -123,21 +123,21 @@ genre M
 हे **शूर** शत्रूणाम् अभिभवसमर्थेन्द्र **अद्य** इदानीम् **अस्मिन्** **सवने** माध्यंदिनाख्ये **मन्दध्यै** त्वां मादयितुं **नः** अस्मान् **अव** **स्य** विमुञ्च । तत्र दृष्टान्तः । **अध्वनः** गन्तव्यस्य मार्गस्य **अन्ते** समीपे **न** अश्वान्मनुष्या यथा मुञ्चन्ति तद्वत् । **उशनेव** काव्य इव **वेधाः** शंसिता यजमानो हे इन्द्र **चिकितुषे** सर्वं जानते **असुर्याय** असुराणां हिंसकाय तुभ्यं **मन्म** मननीयम् **उक्थं** शस्त्ररूपं स्तोत्रं **शंसाति** शंसनं करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hero, **Indra**, set us free today to give you exhilaration at this sacrifice, as (they let loose a horse) at the end of the road; may the worshipper, like **Uśanās**, repeat an acceptable prayer to you, the knower (of all things), the destroyer of the **asuras**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Unhitch as if at the end of your road, o champion, in order to find  exhilaration in this soma-pressing of ours today.  
 
 Like Uśanā, the ritual adept [=Agni] will recite his solemn speech, his  thought, for the lordly one who attends to it—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Rather than interpr. vedhā́ḥ as part of the simile (e.g., Witzel Gotō “wie die mündige Uśanā”), I take it as referring to Agni, the officiating Hotar-priest, as often. See further support for this identification in the next vs. ### 03
 I take the first hemistich as a continuation of 2cd. Phraseology suggests this connection: the simile uśáneva in 2c is matched by the simile beginning 3a kavír ná; together they add up to the full name of the mythic figure Uśanā Kāvya. (kaví- stands in for his patronymic elsewhere: cf. nearby IV.26.1 aháṃ kavír uśánā.) The participial phrase vidáthāni sā́dhan “bringing the rites to realization” has Agni as its subj. elsewhere (e.g., III.1.18 and the other passages adduced by Geldner n. 3a). Agni is also often called a kaví-, and I take this word here as referring both to Uśanā Kāvya to whom Agni is compared and to Agni himself.
@@ -153,23 +153,23 @@ Note the responsion of verse-final act. transitive gṛṇántaḥ to vs.-final 
 passive gṛṇāṇáḥ in 1d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unyoke, as at thy journey's end, O Hero, to gladden thee today at this libation.  
      Like Usana, the priest a laud shall utter, a hymn to thee, the Lord Divine, who markest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Spann aus, o Held, wie am Ende des Weges, um dich heute bei diesem Somaopfer von uns zu ergötzen. Der Hotri soll ein Preislied vortragen, ein Meister wie Usanas, ein Gedicht für dich, den Kenner, den Asurischen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ruh aus, o Held, wie an des Weges Ende, dich zu berauschen heut an unserm Tranke, Wie Uçana, so sprach den Spruch der Ordner, das Andachtslied dem himmlischen Beachter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Распрягай, о герой, коней, как в конце пути,  
 Чтобы сегодня опьяняться у нас на этом выжимании!  

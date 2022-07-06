@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र पि꣡ब वृ꣡षधूतस्य वृ꣡ष्ण  
 आ꣡ यं꣡ ते श्येन꣡ उशते꣡ जभा꣡र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡स्य म꣡दे अ꣡प गोत्रा꣡ वव꣡र्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । मदे॑ । च्य॒वय॑सि । प्र । कृ॒ष्टीः । यस्य॑ । मदे॑ । अप॑ । गो॒त्रा । व॒वर्थ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -133,7 +133,7 @@ genre M
 हे **इन्द्र** **वृषधूतस्य** ग्रावभिरभिषुतं **वृष्णः** अभिमतफलसेचकं सोमं **पिब** । **श्येनः** शंसनीयगतिः छन्दरूपः सुपर्णः **उशते** सोमं कामयमानाय **ते** तुभ्यं **यं** सोमम् **आ** **जभार** आजहार । **यस्य** सोमस्य **मदे** हर्षे संजाते सति **कृष्टीः** । आकर्षन्ति वशीकुर्वन्ति कर्मणा सर्वान् इति कृष्टयो मनुष्याः । तान् सपत्नभूतान मनुष्यान् **प्र** **च्यावयसि** प्रकर्षेण पातयसि । **यस्य** सोमस्य **मदे** संजाते सति **गोत्रा** । गामुदकं रश्मिभिरावृतं वर्षावृतुषु त्रायन्ते पालयन्तीति गोत्रा मेघाः । तान् **अप** **ववर्थ** अपावृणोषि ॥ वृषधूतस्य । ‘ धूञ् कम्पने ' इत्यस्य निष्ठायां ' यस्य विभाषा 'इतीट्प्रतिषेधः । ‘ तृतीया कर्मणि' इति पूर्वपदस्वरः । श्येनः । ‘ श्यैङ् गतौ ।' शास्त्याहृञविभ्य इनच् ' ( उ. सू. २. २०४ ) इतीनच्प्रत्ययः । श्यायते इति श्येनः । चित्त्वादन्तोदात्तः । जभार । हरतेर्लिटि णलि रूपम् । “ हृग्रहोर्भश्छन्दसि ' इति भकारः । यद्वृत्तयोगादनिघातः । लित्व््रः । मदे। 'मदी हर्षे '। ‘ मदोऽनुपसर्गे 'इत्यप्प्रत्ययः । तस्य पित्त्वादनुदात्तत्वे धातुस्वरः । गोत्रा । ‘ त्रैङ् पालने ' इत्यस्य ‘ आतोऽनुपसर्गे कः' इति कः । सुपो डादेशः । एकादेशस्वरः । ववर्थ । ‘ वृञ् वरणे ' इत्यस्य” लिटि थलि • ऋतो भारद्वाजस्य ' इतीट्प्रतिषेधः । गुणः । लित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ genre M
 That which the falcon: A legend in **Aitareya** **Brāhmaṇa**, **Pañcikā** III, **Adhyāya** 13: **Soma** grew formerly only in heaven, the ṛsis and the gods considered how it might be brought down to earth, and desired the **Chāndasas**, the metres of the **Vedas**, to bring it; changing themselves to birds (**suparṇas**), they undertook the office; the only one who succeeded, however, was the **gāyatrī**, in the shape of a hawk (**śyenī**), and she was wounded by an arrow shot by one of the **somapālas**, or **gandharvas**, the guardians of the Soma, thence termed somabhrājās, which cut off anail of her left foot; the ichor (blood-tinged discharge) from the wound became the **vasā** of the burnt offering
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, drink of the bullish (soma), rinsed by the bulls [=priests], which  the falcon brought here to you, who wanted it,  
 in whose exhilaration you rouse the communities, in whose exhilaration  you opened up the cowpens.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink of the strong pressed out by strong ones, Indra, that which the Falcon brought thee when thou longedst;  
      In whose wild joy thou stirrest up the people, in whose wild joy thou didst unbar the cow-stalls.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra! Trink von dem Bullen Soma, der von Bullenstarken im Wasser geschwenkt ist, den dir, dem verlangenden, der Adler gebracht hat, in dessen Rausch du die Völker in Bewegung bringst, in dessen Rausch du die Kuhherden aufgedeckt hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom starken trink, den, Indra, starke brauten, den dir der Adler brachte, dem begier'gen, In dessen Rausch die Völker du erschütterst, in dessen Rausch die Ställe du erschlossest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, пей быка (-сому), выполосканного быками,  
 Которого орел принес тебе, жаждущему,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समानं꣡ वां सजाति꣡यं  
 समानो꣡ ब꣡न्धुर् अश्विना  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samānaṃ* ← *samānam* ← *samāna*
 - \[noun\], nominative, singular, neuter
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **अश्विना** अश्विनौ **वां** युवयोः परस्परं **सजात्यं** समानजातित्वं **समानम्** एकमेव । उभयोरप्यश्व1रूपायाः सूर्यपत्न्या उत्पत्तेः सजात्यम् । तथा युवयोः **बन्धुः** बन्धकः स्रुवः **समानः** एक एव । अथवर्षिरहं समान एक एव बन्धुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Two Aśvins were both born from the wife of the sun (Vicasvat), who had assumed the form of a mare (cf. RV7.72.2 and the passage from Bṛhaddevatā cited); common kinsman = sacrificial ladle or the ṛṣi himself; cf. RV8.27.10
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You have a common kinship, a common connection (with us),  o Aśvins.  
 – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One common brotherhood is yours, Asvins your kindred is the same:  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr habt die gleiche Landsmannschaft, die gleiche Sippe, ihr Asvin. - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gemeinsam ist die Herkunft euch, gemeinsam die Verwandtschaft auch; Es sei uns eure Hülfe nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У вас общее происхождение,  
 Общее родство, о Ашвины.  

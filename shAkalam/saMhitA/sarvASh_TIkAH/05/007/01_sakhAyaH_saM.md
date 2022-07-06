@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡खायः सं꣡ वः सम्य꣡ञ्चम्  
 इ꣡षं स्तो꣡मं च अग्न꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ऊर्जो꣡ न꣡प्त्रे स꣡हस्वते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वर्षि॑ष्ठाय । क्षि॒ती॒नाम् । ऊ॒र्जः । नप्त्रे॑ । सह॑स्वते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
@@ -96,7 +96,7 @@ genre M
 हे **सखायः** सखिभूता ऋत्विजः **वः** यूयं **सं** संस्कुरुत । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । किंच **सम्यञ्चम्** **इषम्** अन्नं **स्तोमं** स्तोत्रं **चाग्नये** वर्षिष्ठाय अतिशयेन प्रवृद्धाय **क्षितीनां** यजमानानामर्थाय वर्षिष्ठाय प्रवृद्धतमाय **ऊर्जो** **नप्त्रे** बलस्य न पातयित्रे तत्पुत्राय वा **सहस्वते** बलवते संस्कुरुतेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,34 +107,34 @@ genre M
 Upo naptre = balasya putrāya; or, urj = water; the grandson of water = the timber and hence, fire the offspring of fuel
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O companions, (unite) together your united refreshment and praise  to Agni,  
 to the highest (dweller) of the dwellings, to the child of nourishment  endowed with strength,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 OFFER to Agni, O my friends, your seemly food, your seemly praise;  
      To him supremest o'er the folk, the Son of Strength, the mighty Lord:
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O friends, (bring) together your united food and praise to Agni, the strongest (god) of (human) dwellings, the offspring of Vigour, the mighty one—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Freunde, bringet euer Labsal und Loblied vereint dem Agni, dem Obersten der Völker, dem gewaltigen Kind der Kraft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Freunde bringet insgesammt dem Agni Lob und Labung dar, Dem herrlichsten der ganzen Welt, dem sieggewohnten Sohn der Kraft,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О друзья, (принесите) вы вместе  
 Жертвенную усладу и хвалу Агни,  

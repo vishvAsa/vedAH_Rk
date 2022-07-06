@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हतं꣡ च श꣡त्रून् य꣡ततं च मित्रि꣡णः  
 प्रजां꣡ च धत्तं꣡ द्र꣡विणं च धत्तम्  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 ऊ꣡र्जं नो धत्तम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । ऊर्ज॑म् । नः॒ । ध॒त्त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hataṃ* ← *hatam* ← *han*
 - \[verb\], dual, Present imperative
@@ -128,20 +128,20 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे अश्विनौ युवां **शत्रून्** **च** **हतम्** । उतापि च **यततं** **मित्रिणः** मैत्रीयुक्तान् **च** गच्छतम् । सिद्धमन्यत् ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Destroy your foes, repair to your friends, grant progeny, give wealth, and, united with the dawn and withSūrya, give us, **Aśvins**, strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Smite rivals and arrange allies in their place. – Provide progeny and  provide property.  
 In concert with Dawn and the Sun, provide nourishment for us, o  Aśvins.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -151,23 +151,23 @@ The first hemistichs of the three verses in this tṛca are excessively provided
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Slay enemies, animate men whom ye befriend; bestow upon us progeny and aff luence.  
      Accordant, of one mind with Surya and with Dawn, O Asvins, grant us vigorous strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und schlaget die Feinde und einet die Verbündeten und bringet Kinder und bringet Reichtum, einträchtig mit Usas und Surya, bringet uns Kraft, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erschlagt die Feinde, einigt die Verbündeten, und schenket Kinder, schenket reiche Schätze uns, Vereinigt mit der Sonne und dem Morgenroth, o Ritter, gebet Speise uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Убивайте вы двое врагов и подбирайте себе союзников,  
 И дайте потомство, и дайте богатство!  

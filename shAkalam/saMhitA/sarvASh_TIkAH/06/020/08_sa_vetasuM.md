@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वेतसुं꣡ द꣡शमायं द꣡शोणिं  
 तू꣡तुजिम् इ꣡न्द्रः सुअभिष्टि꣡सुम्नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मातु꣡र् न꣡ सीम् उ꣡प सृजा इय꣡ध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । तुग्र॑म् । शश्व॑त् । इभ॑म् । द्योत॑नाय । मा॒तुः । न । सी॒म् । उप॑ । सृ॒ज॒ । इ॒यध्यै॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -122,20 +122,20 @@ genre M
 **स्वभिष्टिसुम्नः** सुष्ठु अभ्येषणीयान्यभिगम्यानि सुम्नानि सुखानि येन देयानि **सः** **इन्द्रः** **दशमायं** बहुवञ्चनं **वेतसुं** वेतसुनामानमसुरं **दशोणिम्** एतन्नामकं च **तूतुजिं** तूतुजिनामकं च **आ** अपि च **तुग्रं** तुग्रनामकमसुरं तथा **इभम्** एतन्नामकमसुरं च **इयध्यै** एतुं **द्योतनाय** एतत्संज्ञाय राज्ञे **शश्वत्** **उप** **सृज** उपासृजत् । वशीचकार । तत्र दृष्टान्तः । **मातुर्न** मातुर्जनन्या इव पुत्रम् । यथा मात्रे पुत्रो वशीभवति तद्वत् वशं चकारेत्यर्थः । **सीम्** इति पादपूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, the granter of wished-for felicity, compelled the many-fraudulent **Etaśa** and Dasoṇi, Tūtuji, **Tugra** and **Ibha**, always to come submissively to (the **rājā**) **Dyotana**, as a son (comes before a mother).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra showed the favor of his dominance to Vetasu of the ten tricks  and ten arms and to the thrusting (Tuji), (saying,)  
 “Tugra as perpetual vassal for brilliant (Vetasu) shall I dispatch, like  (calves) to their mother, to go (to him).”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is made difficult both by our very sketchy knowledge of the personnel and the myth and by the syntax. Both Oldenberg (ZDMG 55.328-29) and Geldner (n.
 
@@ -160,23 +160,23 @@ I take the inf. iyádhyai to √i ‘go’, or more particularly to the stem ī�
 After all this, the alterations of the published translation would be minimal: “Indra showed the favor of his dominance to Vetasu [=Kutsa?] of the ten tricks and ten arms and to the thrusting (Tuji), (saying) ‘Tugra as perpetual vassal for brilliant (Vetasu=Kutsa?) shall I dispatch, like (calves) to their mother, to speed (to him).’”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The crafty Vetasu, the swift Dasni, and Tugra speedily with all his servants,  
      Hath Indra, gladdening with strong assistance, forced near as 'twere to glorify the Mother.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Vetasu mit zehn Listen, mit zehn Armen, dem Angreifer sprach Indra, dessen Gunst Überlegenheit gibt: "Den Tugra, den Ibha will ich dem Dyotana zutreiben, daß er immer wieder zu ihm komme wie das Kalb zum Euter der Mutter".
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den sehr gewandten Vetasu, den schnellen Daçoni und mit allen Dienern Tugra, Dem Djotana entsandt' sie Indra hülfreich, wie aus der Mutter Schooss zu ihm zu kommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Ветасу с десятью колдовскими силами, десятирукому  
 Захватчику (обратился) Индра, чья милость дает превосходство:  

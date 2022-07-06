@@ -8,7 +8,7 @@ title = "+029"
 त्र्यर्यमा इति पञ्चदशर्चं पञ्चदशं सूक्तम् । अत्रानुक्रमणिका- त्र्यर्यमा पञ्चोना गौरिवीतिः शाक्त्य ऐन्द्रमुशना यदौशनसो वा पादः इति । शक्तिगोत्रोत्पन्नो गौरिवीतिर्नाम ऋषिः । अनुक्तत्वात् त्रिष्टुप् । इन्द्रो देवता मण्डलादिपरिभाषया निवृत्तत्वात् । ' उशना यत्सहस्यैः ' इति पादः औशनस ऐन्द्रो वा । आभिप्लविके तृतीयेऽहनि मरुत्वतीये एतन्निविद्धानम् । सूत्रितं च-' तृतीयस्य त्र्यर्यमा यो जात एवेति मध्यंदिनः ' ( आश्व. श्रौ. ७.७) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 29 (383)  
 Indra  
@@ -20,7 +20,7 @@ The hymn is also structured by recurrent soma-drinking phrases, each slightly  d
 It ends with three verses (13–15) in which the poet refers globally to the amaz ing range of Indra’s deeds past and future, and in the final verse offers him his own  well-crafted poems. Only one word in this verse, vasūyúḥ “seeking goods,” out of  the whole hymn, hints that the poet would like something in return.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra As noted in the published introduction, the hymn is punctuated by expressions of somadrinking, each slightly different and generally found in the 2nd half of an even pāda: 2b ... papivā́ṃsaṃ sutásya 3b ... sómasya súṣutasya peyāḥ 3d ... papivā́m índro asya [rhyming with 2b] 5b ... somapéyam [cf. 3b] [7d sutám pibat ... sómam] 8b ... somyā́pā́ḥ 11d ... ápibaḥ sómam asya
 </details>

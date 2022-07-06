@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्य꣡द् अद्य꣡ क꣡र्वरम् अन्य꣡द् उ श्वो꣡  
 अ꣡सच् च स꣡न् मु꣡हुर् आचक्रि꣡र् इ꣡न्द्रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अर्यो꣡ व꣡शस्य परिएता꣡ अस्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मि॒त्रः । नः॒ । अत्र॑ । वरु॑णः । च॒ । पू॒षा । अ॒र्यः । वश॑स्य । प॒रि॒ऽए॒ता । अ॒स्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anyad* ← *anyat* ← *anya*
 - \[noun\], accusative, singular, neuter
@@ -135,41 +135,41 @@ genre M
 अयमिन्द्रः **अद्य** अस्मिन् दिवसे **अन्यत्** **कर्वरम्** । कर्मनामैतत् । कर्म करोति । **अन्यदु** अन्यदेव उक्तविलक्षणमेव कर्म **श्वः** परस्मिन् दिने करोति । एतदेव विव्रियते । **असच्च** अशुभम् अशनिपातनादिकं **सत्** वर्षणादिकं शोभनं कर्म च । यद्वा । त्रिशिरसो विश्वरूपस्य वधादिकम् असत्कर्म लोकोपद्रवकारिणो वृत्रादेरसुरस्य वधादिरूपं सत्कर्म च **मुहुः** पुनःपुनरसौ **इन्द्रः** **आचक्रिः** कर्ता भवति । एवं परस्परविलक्षणं कर्म स्वमहिम्ना पुनःपुनरावर्तयन् प्रतिदिवसमन्यदेव परेषामसाधारणं कर्म करोतीत्यर्थः । एवंविध इन्द्रः **अत्र** अस्मिन् यज्ञे **नः** अस्माकं **वशस्य** कामयितव्यस्य फलस्य स्वर्गादेः **पर्येतास्ति** परिगमयिता भवतु । अस्तेर्लेटि रूपम् । **मित्रः** अहरभिमानी देवः **वरुणः** रात्र्यभिमानी **पूषा** पोषको देवः **अर्यः** प्रेरकः सविता एते **च** इन्द्रेण नियम्यमाना अस्मदीयस्य कामस्य परिगमयितारः सन्तु । यद्वा । मित्रादयोऽप्यत्र स्वप्राधान्येन अभिधीयन्ते । मित्रादय इन्द्रः प्रत्येकमस्मदीयस्य कामस्य पर्येतास्तु । तथा च बृहद्देवतायामुक्तं---‘प्रोतयेऽन्यदिति त्वेते वैश्वदेव्यावृचौ स्मृते' इति ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** achieves one act today, another tomorrow, evil and good repeatedly; may he, and **Mitra**, **Varuṇa**, **Pūṣan**, **Arya**, be on this occasion promoters of the desired result.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 One deed today and another tomorrow, one which is not and another  which is—Indra makes (them) happen in an instant.  
 Mitra and Varuṇa, also Pūṣan, are there for us, but it is he [=Indra] who  keeps the will of the stranger contained.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation of this vs. differs in a number of respects from the standard interpr. In particular, in the first hemistich, flg. an interpr. of JPB’s, the two pairs anyád adyá kárvaraṃ anyád u sváḥ “one deed today and another tomorrow” and ásac ca sát “non-existent and existent” are taken as a chiastic square, with anyád adyá matching sát and anyád u sváḥ matching ásat. In other words the deed Indra does today is existent, while the one he will do tomorrow is (as yet) non-existent. The standard interpr. takes ásat ca sát as an expression of process: Indra makes each deed (the one today, the one tomorrow) that was as yet non-existent into an existent one (so Geldner “... macht Indra das Unwirkliche alsbald wirklich”). This does seem a possible interpr., and I would suggest an alternative tr. “One deed today and another tomorrow -- Indra makes the not (yet) existent (deed) existent.” Klein (DGRV I.170, II.24) takes ásac ca sát as “the bad and the good,” which deviates from the usual sense esp. of the former and breaks the thematic connection with the first pāda: “(Performing) one deed today and another tomorrow, Indra turns hither immediately the bad and the good.” In the 2nd hemistich the standard interpr. takes Mitra, Varuṇa, and Pūṣan as the individualized seriatim singular subjects of paryetā́sti (=paryetā́asti), as in Geldner’s “Mitra und Varuṇa und Pūṣan kommen uns dabei dem Wunsche des Nebenbuhlers zuvor.” (Tichy [-tar-stems, 188] follows Geldner’s syntactic template, but with an aberrant interpr. of pári √i.) As Geldner’s blithe disregard of the sg. verb shows, the triple subject is somewhat awkward given sg. asti (though singular verbs with a series of singular subjects are indeed found). But there are several other problematic aspects to this strain of interpr. On the syntactic level, it is surprising to find asti in a main clause if its function is simply copular (“M, V, and P is/are parietā́”); asti in main clauses is almost always existential. On the thematic level, these other gods are intrusive in the hymn -- the focus so far has been entirely on Indra -- and it seems odd suddenly to credit these gods with the power to effect a desirable thing for us, when Indra has been performing the heavy lifting all along. I therefore think that Thieme (Fremdling, 53) is correct in taking Indra as the unexpressed subject of parietā́asti, though he doesn’t discuss the passage or, rather disingenuously, even quote the preceding pāda with the other possible subjects. Given these factors, I think that asti is implicitly contrastive and emphatic: the other gods are there for us in some sense, but it’s Indra who … As for the sense of paryetā́and pári √i in general, the literal meaning is ‘go around’, hence ‘encompass’ and hence to contain and control, a sense that works very well here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One act to-day, another act tomorrow oft Indra makes what is not yet existent.  
      Here have we Mitra, Varuna, and Pusan to overcome the foeman's domination.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heute ein anderes Werk und morgen ein anderes, macht Indra das Unwirkliche alsbald wirklich. Mitra und Varuna und Pusan kommen uns dabei dem Wunsche des Nebenbuhlers zuvor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein andres wirkt er heute, andres morgen, was nicht ist, bringt zum Dasein plötzlich Indra, Wie Mitra hier, wie Varuna und Puschan ist er es, der des Feindes Macht bewältigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сегодня одно деяние, завтра уже другое.  
 Невозможное в один миг Индра превращает в возможное.  

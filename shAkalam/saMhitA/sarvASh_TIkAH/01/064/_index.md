@@ -8,7 +8,7 @@ title = "+064"
 ‘वृष्ण शर्धाय' इति पञ्चदशर्चं सप्तमं सूक्तम् । नोधस आर्षं मारुतम् । अन्त्या त्रिष्टुप् । शिष्टाश्चतुर्दश जगत्यः । तथा चानुक्रान्तं - वृष्णे पञ्चोना मारुतं त्रिष्टुबन्तम्' इति । चातुर्विंशिकेऽहनि आग्निमारुते इदं मारुतं निविद्धानीयम् । सूत्रितं च - ‘ पृक्षस्य वृष्णो वृष्णे शर्धाय यज्ञेन वर्धतेत्याग्निमारुतम्' ( आश्व. श्रौ. ७. ४) इति । आभिप्लविके पञ्चमेऽहन्यपि एतत् आग्निमारुते मारुतनिविद्धानम् । सूत्रितं च - पृक्षस्य वृष्णो वृष्णे शर्धाय नू चित्सहोजा इत्याग्निमारुतम्' (आश्व. श्रौ. ७. ७) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 64  
 Maruts  
@@ -18,7 +18,7 @@ Exuberant in language and crammed with vivid description, this hymn treats the  
 In verse 12 the poet returns to the beginning, by referring to the hymn “we” are  offering to the Maruts. Reestablishing the relationship between the mortal worship ers and the Maruts allows him to make the transition to the boons we ask of them.  After providing a model of the fortunate man who receives the Maruts’ aid in verse  13, the poet calls on the gods to grant good things to the patrons and the worshipers  in general (vss. 14–15).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts
 </details>

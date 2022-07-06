@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ नो देवासो अद्रुहो  
 अ꣡छिद्रं श꣡र्म यछत  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 व꣡रूथम् आदध꣡र्षति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न । यत् । दू॒रात् । व॒स॒वः॒ । नु । चि॒त् । अन्ति॑तः । वरू॑थम् । आ॒ऽद॒धर्ष॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -106,37 +106,37 @@ genre M
 हे अद्रुहः स्तोतॄणामद्रोग्धारः । यद्वा । द्रुहेरौणादिकः कर्मणि क्विप् । शत्रुभिरहिंस्याः । हे **देवासः** मरुदादयो देवाः **अच्छिद्रं** बाधकरहितं साधीयो वा **शर्म** । शृणाति दुःखादिकमिति शर्म गृहम् । तत् **नः** अस्मभ्यं **वि** **यच्छत** । हे **वसवः** शत्रूणां वासयितारो मरुदादयः **दूरात्** दूरदेशात् **अन्तितः** अन्तिकदेशाद्वा कश्चिदागत्य **नू** **चित्** कदाचिदपि **वरूथं** वरणीयं संभजनीयं **यत्** गृहं **न** **आदधर्षति** आधर्षणं  हिंसनं न करोति तद्गृहं प्रयच्छतेति समन्वयः। 'धृष प्रसहने' इत्यस्य विभाषितणिच्त्वात् यदा णिच् नास्ति तदा रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Unoppressive deities, bestow upon us a mansion without defect, so that, subduers (of foes), no onemay injure our defences, whether from afar or near.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O gods without deceit, hold out to us unbroken shelter,  
 a defense that neither from afar, nor even from nearby will (anyone)  
 venture against, o good ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Guileless Gods, bestow on us a refuge strong on every side,  
      A sure protection, Vasus, unassailable from near at hand or from afar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr truglosen Götter, breitet über uns euren lückenlosen Schirm aus, die Schutzwehr, die keiner aus der Ferne noch aus der Nähe anzutasten wagt, ihr Guten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O reichet, holde Götter, uns die Schutzwehr, welche nimmer bricht, Den Schirm, o gute, welchem keiner keck sich naht, nicht aus der Nähe, noch von fern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О боги, безобманные, распространите  
 Над нами непрерывный щит,  

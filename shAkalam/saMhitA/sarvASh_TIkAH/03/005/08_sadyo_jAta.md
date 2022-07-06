@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सद्यो꣡ जात꣡ ओ꣡षधीभिर् ववक्षे  
 य꣡दी व꣡र्धन्ति प्रसु꣡वो घृते꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुष्य꣡द् अग्निः꣡ पितरो꣡र्+ उप꣡स्थे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आपः॑ऽइव । प्र॒ऽवता॑ । शुम्भ॑मानाः । उ॒रु॒ष्यत् । अ॒ग्निः । पि॒त्रोः । उ॒पऽस्थे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sadyo* ← *sadyas*
 - \[adverb\]
@@ -111,42 +111,42 @@ genre M
 सद्योजातोग्निः यदियदाओषधीभिः ववक्षेउह्यते तदाप्रवताप्रवणेनमार्गेणगच्छन्त्यः आपइवशुं भमानाः शोभमानास्ताओषध्यः प्रस्वः फलानिप्रसुवानाः घृतेनोदकेनवर्धन्तिवर्धयन्ति आत्मस्थ मग्निम् पित्रोर्द्यावापृथिव्योरुपस्थेमध्यप्रदेशेवर्धमानोग्निः उरुष्यत् आस्मान् रक्षतु ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As soon as genitive rated he is borne aloft by the plural nts, which grow flourishing by moisture, as the beautifying waters descend; may he, in the bosom of his parents, protect us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As soon as he is born, he grows strong through the plants, when the  fruitful (plants) make him strong with ghee.  
 Like the waters appearing in beauty on their downward course, Agni  makes a wide path [?] in the lap of his parents [=the fire-churning  
 sticks].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born suddenly, by plants he grew to greatness, when tender shoots with holy oil increased him,  
      Like waters lovely when they hasten downward may Agni in his Parents' lap protect us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As soon as born he has grown by the grass 1, when the sprouting (grass-)blades strengthen him with ghee. Like waters beautiful on their precipitous path, Agni, being in the lap of his parents, has escaped into wide space.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eben geboren ist er durch die Pflanzen groß geworden, wenn ihn die sprossenden mit ihrem Schmalz stärken. Wie die gleißenden Gewässer stromabwärts sucht Agni im Schoße seiner Eltern das Weite.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren wuchs er schnell durch die Gewächse, wenn ihn die Mütter mit dem Fette nähren; Wie Wasser, die im Niedersturze schimmern schuf Raum sich Agni in dem Schooss der Aeltern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Едва родившись, он увеличивается благодаря растениям,  
 Когда (они,) дающие побеги, укрепляют (его своим) жиром.  

@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ङ्गिरस्वन्ता उत꣡ वि꣡ष्णुवन्ता  
 मरु꣡त्वन्ता जरितु꣡र् गछथो ह꣡वम्  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 आदित्यइ꣡र् यातम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । आ॒दि॒त्यैः । या॒त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aṅgirasvantā* ← *aṅgirasvantau* ← *aṅgirasvat*
 - \[noun\], nominative, dual, masculine
@@ -100,36 +100,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 **उत** अपि च हे अश्विनौ युवाम् **अङ्गिरस्वन्तौ** अङ्गिरोभिर्युक्तौ **विष्णुवन्ता** विष्णुना च सहितौ मरुद्भिश्च सहितौ स्तोतुराह्वानं गच्छतम् । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Associated with the **Aṅgirasas**, with **Viṣṇu**, with the **Maruts**, repair to the invocation of the adorer;repair (to him), **Aśvins**, united with the dawn, with **Sūrya**, and with the **Ādityas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Accompanied by the Aṅgirases and accompanied by Viṣṇu,  accompanied by the Maruts you go to the singer’s call.  
 – In concert with Dawn and the Sun, drive with the Ādityas, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With Visnu and the Angirases attending you, and with the Maruts come unto your praiser's call.  
      Accordant, of one mind with Surya and with Dawn, and with the Adityas, Asvins! come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von den Angira´s und Vishnu und von den Marut begleitet kommet auf des Sängers Ruf, einträchtig mit Usas und Surya, mit den Aditya´s kommet, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereinigt mit dem Vischnu und den Angiras, und mit den Maruts kommt ihr zu des Sängers Ruf, Vereinigt mit der Sonne und dem Morgenroth und den Aditja's, Ritter, kommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сопровождаемые Ангирасами, а также сопровождаемые Вишну,  
 Сопровождаемые Марутами отправляйтесь на зов певца!  

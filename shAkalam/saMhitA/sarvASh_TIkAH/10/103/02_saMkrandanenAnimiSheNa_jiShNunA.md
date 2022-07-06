@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 संक्र꣡न्दनेनानिमिषे꣡ण जिष्णु꣡ना  
 युत्कारे꣡ण दुश्च्यवने꣡न धृष्णु꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यु꣡धो नर इ꣡षुहस्तेन वृ꣡ष्णा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तत् । इन्द्रे॑ण । ज॒य॒त॒ । तत् । स॒ह॒ध्व॒म् । युधः॑ । न॒रः॒ । इषु॑ऽहस्तेन । वृष्णा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃkrandanenānimiṣeṇa* ← *saṃkrandanena* ← *saṃkrandana*
 - \[noun\], instrumental, singular, masculine
@@ -109,36 +109,36 @@ popular
 अस्तु नामेन्द्र उक्तविधः तथाप्यस्माकं किमिति चेत् तत्राह । **संक्रन्दनेनानिमिषेण** चोक्तलक्षणेन **जिष्णुना** जयशीलेन **युत्कारेण** । योधनं युत् । युद्धकारिणा। कर्मण्यण् । **दुश्च्यवनेन** अन्यैरविचाल्येन । ' च्युङ् प्रुङ् गतौ । छन्दसि गत्यर्थेभ्यः' (पा. सू. ३. ३. १२९ ) इति युच् । **धृष्णुना** धर्षकेण ईदृशेन **इन्द्रेण** **तत्** युद्धं **जयत** । **तत्** शत्रुबलं **सहध्वम्** अभिभवत । हे **युधः** योद्धारो हे **नरः** नेतारः । ‘ विभाषितं विशेषवचने बहुवचनम् ' (पा. सू. ८. १. ७४ ) इति पूर्वस्याविद्यमानवत्त्वनिषेधादुत्तरं निहन्यते । पुनः कीदृशेनेन्द्रेणेति । **इषुहस्तेन** **वृष्णा** वर्षित्रा च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With **Indra** the loud-shouting, the vigilant, the vigtorious, the warlike, the unconquerable, the daring,the hurler of arrows, the showerer, (as your ally) conquer you warriors, you leaders, that (hostile host) andovercome it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With him, who makes (them) cry out together, who is unwinking,  conquering, combat-creating, difficult to shake, bold—  
 with Indra now conquer, now overwhelm the combatants, o men—with  the bull with arrows in his hand.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With him loud-roaring, ever watchful, Victor, bold, hard to overthrow, Rouser of battle,  
      Indra. the Strong, whose hand bears arrows, conquer, ye warriors, now, now vanquish in the combat.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zusammen mit dem Heerrufer, der die Augen offen haltend, dem siegreichen, streitbaren, unentwegten, kühnen, mit Indra gewinnet jetzt, bestehet jetzt die Kämpfe, ihr Männer, mit dem Bullen, der den Pfeil in der Hand hat!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt voll Kühnheit, unerschütterlich, Mit Indra siegt nun, und gewinnt ihr Männer des Kampfes, mit dem Pfeil- bewehrten Helden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

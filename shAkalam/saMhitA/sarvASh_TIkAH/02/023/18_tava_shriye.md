@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व श्रिये꣡ वि꣡ अजिहीत प꣡र्वतो  
 ग꣡वां गोत्र꣡म् उद꣡सृजो य꣡द् अङ्गिरः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बृ꣡हस्पते नि꣡र् अपा꣡म् औब्जो अर्णव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्रे॑ण । यु॒जा । तम॑सा । परि॑ऽवृतम् । बृह॑स्पते । निः । अ॒पाम् । औ॒ब्जः॒ । अ॒र्ण॒वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -126,36 +126,36 @@ genre M
 अङ्गिरः आङ्गिरसहेबृहस्पते गवामावारकोबलेनाधिष्ठितः पर्वतः तवश्रियेआश्रयणार्थं व्यजि- हीत विवृतद्वारतामगच्छत् ततस्त्वंयद्यदागोत्रं इनित्रकट्यचश्छेतिस मूहार्थेत्रप्रत्ययः गवां समूहमु दस्रुजोनिरगमयः तदाइन्द्रेणयुजासहायेनयुक्तस्त्वन्तमसावृत्रासुरेणपरीवृतम्परितआक्रान्तंअपामर्णवं स्थानभूतं मेघन्निरौच्चः नितरामधोमुखमकार्षीः ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When **Bṛhaspati**, descendant of **Aṅgiras**, for your glory, **Parvata** had concealed the herd o fkine, you did set them free, and with thine associate, **Indra**, did send down the ocean of water which had been enveloped by darkness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mountain gaped open for (their) glory to be yours when, Aṅgiras,  you set loose the cowpen of cows.  
 With Indra as your yokemate, Br̥haspati, you forced out the flood of  waters, enclosed by darkness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mountain, for thy glory, cleft itself apart when, Angiras! thou openedst the stall of kine.  
      Thoul O Brhaspati, with Indra for ally didst hurl down water-floods which gloom had compa-sed round.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir zu Ehren tat sich der Berg auf, als du Angirase die Rinderherde herausließest. Mit Indra im Bunde hast du die vom Dunkel umschlossene Flut der Gewässer frei gemacht, o Brihaspati.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Liebe dir that auseinander sich der Berg, als, Angiras, der Kühe Stall du öffnetest; Im Bund mit Indra liessest du, Brihaspati, die Wasserflut, die Finsterniss-umhüllte frei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для славы твоей гора разверзлась,  
 Когда, о Ангирас, ты выпустил стадо коров.  

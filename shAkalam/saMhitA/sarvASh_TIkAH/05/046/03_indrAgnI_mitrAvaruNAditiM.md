@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इन्द्राग्नी꣡ मित्रा꣡व꣡रुणा꣡दितिं सु꣡वः  
 पृथिवीं꣡ द्या꣡म् मरु꣡तः प꣡र्वताँ अपः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 भ꣡गं नु꣡ शं꣡सं सविता꣡रम् ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 हु॒वे । विष्णु॑म् । पू॒षण॑म् । ब्रह्म॑णः । पति॑म् । भग॑म् । नु । शंस॑म् । स॒वि॒तार॑म् । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -122,7 +122,7 @@ genre M
 इन्द्रादिसवित्रन्तान् चतुर्दश देवान् **ऊतये** अस्मद्रक्षणाय **हुवे** आह्वयामि स्तौमि वा ॥ स्वरित्यादित्य उच्यते स्वरणात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,36 +135,36 @@ genre M
 Svar = a name of **Āditya**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Agni, Mitra and Varuṇa, Aditi, the Sun, Earth, Heaven, the  Maruts, the Mountains, the Waters—  
 I call on (and on) Viṣṇu, Pūṣan, Brahmaṇaspati, also on Fortune, Laud,  Savitar, for help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The previous vs. consisted of vocatives in ab and nominatives in cd. Here we find accusatives, with the governing verb huvé postponed until the beginning of the 2nd hemistich. The first four divinities in vss. 2 and 3 are the same, but the four individual vocc. ágna índra váruṇa mítra of 2a are arranged in 3a in two dual dvandvas indrāgnī́and mitrā́váruṇā, in opposite order. The Maruts, Viṣṇu, Pūṣan, and Bhaga (bhága-) are also repeated from vs. 2. Otherwise the emphasis is on divinized natural elements. As for female divinities, we find Aditi immediately after her offspring Mitra and Varuṇa, as well as the waters (apáḥ).
 
 Unfortunately the repetition of bhága- is obscured in the published translation by its rendering as “Fortune” in 3d, though both 2d and 6c call him Bhaga. “Fortune” in 3 should therefore be changed to “Bhaga.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni, Mitra, Varuna, Aditi, the Waters, Mountains, Maruts, Sky, and Earth and Heaven,  
      Visnu I call, Pusan, and Brahmanaspati, and Bhaga, Samsa, Savitar that they may help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni, Mitra und Varuna, die Aditi, die Sonne, Erde, Himmel, die Marut, die Berge, die Gewässer rufe ich jetzt an, den Vishnu, Pusan, Brahmanaspati, Bhaga, Samsa, Savitri zur Gnade.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indragni, Mitra, Varuna und Aditi, Sonn', Erde, Himmel, Berge, Wasser, Marutschar, Puschan und Vischnu, den Gebets-Herrn ruf' ich an, zur Hülfe Bhaga, Çansa nun und Savitar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру-Агни, Митру-Варуну, Адити, Солнце,  
 Землю, Небо, Марутов, горы, вoды  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुनं꣡ वाहाः꣡ शुनं꣡ न꣡रः  
 शुनं꣡ कृषतु ला꣡ङ्गलम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 शुन꣡म् अ꣡ष्ट्राम् उ꣡द् इङ्गय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 शु॒नम् । व॒र॒त्राः । ब॒ध्य॒न्ता॒म् । शु॒नम् । अष्ट्रा॑म् । उत् । इ॒ङ्ग॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śunaṃ* ← *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
@@ -100,7 +100,7 @@ popular;; epic anuṣṭubh (424)
 **वाहाः** बलीवर्दाः **शुनम्** । सुखनामैतत् । सुखं यथा भवति तथा वहन्त्विति शेषः । तथा **नरः** नेतारो मनुष्याः कर्षकाः **शुनं** कुर्वन्तु । तथा **लाङ्गलम्** अपि **शुनं** **कृषतु** । **वरत्राः** वरणेन त्रायमाणाः प्रग्रहाः **शुनं** **बध्यन्ताम्** । **अष्ट्रां** प्रतोदं **शुनम्** **उदिङ्गय** प्रेरय । शुनाख्यो वाय्विन्द्रयोरन्यतमः सुखकृद्देवः । तदनुग्रहादेतत्सर्वं भवत्विति तस्य श्रुतिसामान्येन स्तुतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,29 +111,29 @@ popular;; epic anuṣṭubh (424)
 Happily: śunam **vāhāḥ** śunam **naraḥ**: śunam = sukham, sukham yathā **bhavati** tathā, so that plural asure is or may be; as a person nification it is the divinity through whose favour the work goes well, sukhakṛd **devaḥ**, who may be either **vāyu** or **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Prosperity (be) the draft-animals, prosperity the superior men; for  prosperity let the plow till.  
 For prosperity let the straps be bound; for prosperity brandish the goad.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Happily work our steers and men, may the plough furrow happily.  
      Happily be the traces bound; happily may he ply the goad.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück seien die Zugtiere, zum Glück die Männer. Zum Glück soll der Pflug die Furche ziehen. Zum Glück sollen die Riemen befestigt werden. Zum Glück schwinge die Gerte!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Gedeihn seien die Zugstiere, zum Gedcihn die Männer, zum Gedeihen pflüge der Pflug; zum Gedeihn seien die Sielen geschirrt, zum Gedeihen zücke den Ochsenstachel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье (пусть будут) тягловые животные, на счастье - мужи!  
 На счастье пусть пашет плуг!  

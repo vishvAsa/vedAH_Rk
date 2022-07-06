@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡ आ꣡ वह या꣡ उक्ष꣡भिर् अ꣡वाता  
 उ꣡षो व꣡रं व꣡हसि जो꣡षम् अ꣡नु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पूर्व꣡हूतौ मंह꣡ना दर्शता꣡ भूः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । दि॒वः॒ । दु॒हि॒तः॒ । या । ह॒ । दे॒वी । पू॒र्वऽहू॑तौ । मं॒हना॑ । द॒र्श॒ता । भूः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
@@ -131,20 +131,20 @@ genre M
 हे उषः **सा** त्वं **वरं** धनं मह्यम् **आ** **वह** । **या** त्वम् **अवाता** अप्रतिगता **जोषं** प्रीतिम् **अनु** **उक्षभिः** अनडुद्भिरश्वैर्वा स्तोतृभ्यो वरं **वहसि** । किंच हे **दिवो** **दुहितः** अन्तरिक्षसुते **या** **त्वं** **देवी** द्योतमाना **पूर्वहूतौ** प्रथमाह्वाने प्रातरनुवाके **मंहना** पूजनीया भवसि सा त्वं **दर्शता** दर्शनीया **भूः** इति योजना । या दर्शता भूरित्यन्वये यद्वृत्तेन सामानाधिकरण्यात् भूरित्यस्य निघातो न स्यात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you Uṣas bring me opulence, for unoposed you bear with your oxen (wealth to your worshippers), according to your satisfaction; daughter of heaven, you who are divine, who are lovely, are to be worshipped at the first (daily) rite.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Convey (it)—you who as the unsurpassable one with your oxen convey  the boon at your pleasure, Dawn,  
 you who are a goddess, o Daughter of Heaven. Become worthy to be  seen with your munificence at the early invocation!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The beginning of the first pāda, sā́ā́[so Pp., Saṃhitā sā́] vaha yā́, replicates almost exactly the beginning of 4c, sā́na ā́vaha. The close similarity of the two openings supports the disjoining of sā́in 5a into sā́ā́, which is also required by the meter.
 
@@ -155,23 +155,23 @@ Both Geldner and Renou take cd as a unified rel. cl. (e.g., “die du als Götti
 erschienen bist”), but this is impossible, because bhūḥ is unaccented. I instead attach c to ab, and take d as an independent imperatival clause. I now see that it would be possible to take cd together, with the nominal rel. cl. yā́ha devī́acting as an izafe; as noted elsewhere (passim) such izafe-like rel. phrases can be embedded. This would produce a tr. “You, who are a goddess, o daughter of heaven, become worthy to be seen …,” with no appreciable difference in meaning. It might then be better to stick with the arrangement of the published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dawn, bring me wealth: untroubled, with thine oxen thou bearest riches at thy will and pleasure;  
      Thou who, a Goddess, Child of Heaven, hast shown thee lovely through bounty when we called thee early.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring du ihn mit, Usas, die du mit Stieren unüberboten nach Belieben die erwünschte Gabe herfährst, du Himmelstochter, die du als Göttin bei der Frühanrufung bereitwillig erschienen bist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die, Uschas, du mit Stieren sicher fährest, fahr Reichthum uns herbei nach unserm Wunsche; O Himmelstochter, du erschienst beim Frühruf als eine Göttin uns mit reicher Gabe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Привези (его), о Ушас, (ты,) непревзойденная,  
 Что возишь на быках для своего удовольствия желанный дар!  

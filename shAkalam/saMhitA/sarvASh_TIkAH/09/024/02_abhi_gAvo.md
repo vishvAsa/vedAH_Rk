@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ गा꣡वो अधन्विषुर्  
 आ꣡पो न꣡ प्रव꣡ता यतीः꣡  
 पुनाना꣡ इ꣡न्द्रम् आशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पु॒ना॒नाः । इन्द्र॑म् । आ॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -81,20 +81,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **गावः** गमनशीला इन्दवः **अभि** **अधन्विषुः** अभिगच्छन्ति दशापवित्रम् । किमिव । **प्रवता** प्रवणवता देशेन **यतीः** गच्छन्त्यः **आपो** **न** आप इव । पश्चात् **पुनानाः** **इन्द्रं** प्रीणयितुम् **आशत** व्याप्नुवन् । आहुतिप्रणाड्येन्द्रमेव वा व्याप्नुवन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The flowing juices rush (to the filter), like waters flowing down a declivity; purified they gratify **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The cows have run toward them, like waters going along a slope.  
 Becoming purified, they have reached Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg discusses this vs. at some length and disputes the cows as subject. The problems he sees are that 1) it makes more sense for the soma drops to run than the cows (though he admits that there are some undoubted passages with the latter); 2) the shared verb would more naturally have the same subject than diff. subjects (this is not a stylistic given in soma hymns, where substances swap identities all the time); 3) the part. punānā́ḥ ‘being purified’ is better applied to soma drops than cows (though again he recognizes at least one passage in which the part. is so used). On the basis of these arguments he suggests that gā́vaḥ here should be interpr. as accusative rather than as the nominative it overwhelming is, with abhí gā́vaḥ substituted for abhí gā́ḥ on metrical grounds and the soma drops again the subj. This seems both uncharacteristic and unworthy of Oldenberg.
 
@@ -111,23 +111,23 @@ The first 3 vss. are united by the use of the (secondary) root √dhanv ‘run�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The milk hath run to meet them like floods rushing down a precipice:  
      They come to Indra, being cleansed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Milchkühe sind herzugelaufen wie die stromwärts gehenden Gewässer. Sich läuternd sind sie zu Indra gelangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Milchtränke sind herangeströmt, wie Wasser auf geneigter Bahn, Geläutert zu dem Indra hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они побежали к коровам,  
 Словно воды, движущиеся по склону.  

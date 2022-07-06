@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा᳐꣡र् ण꣡ त्वा यविया꣡भिर्  
 व꣡र्धन्ति शूर ब्र꣡ह्माणि  
 वावृध्वां꣡सं चिद् अद्रिवो दिवे꣡-दिवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 व॒वृ॒ध्वांस॑म् । चि॒त् । अ॒द्रि॒ऽवः॒ । दि॒वेऽदि॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vār*
 - \[noun\], accusative, singular, neuter
@@ -90,7 +90,7 @@ genre M
 हे **अद्रिवः** वज्रिन् **शूर** इन्द्र **वार्ण** यथोदकमुदकस्थानं **यव्याभिः** नदीभिः ।  ‘ अवनयो यव्याः' इति नदीनामसु पाठात् । **वर्धन्ति** वर्धयन्ति तथा **ब्रह्माणि** स्तोत्रैः **ववृध्वाँसं** **चित्** यथा निरुदकं देशं नदीभिस्तथा न किंतु प्रवृद्धमेव त्वां **दिवेदिवे** अन्वहं वर्धन्ति । स्तोतारो वर्धयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,34 +101,34 @@ genre M
 Grow more and more: **brahmāṇi** vavṛdhvāṃsam = swelling with our praiseseven more than the lake
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like water with its floods, our sacred formulations are strengthening  you, o champion,  
 even though you have already grown strong day by day, o possessor of  the stone.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile vā́r ná … yavyā́bhiḥ is syntactically ambiguous, in that vā́r can be the comparandum of either subject or object, though it probably makes better sense as an object, as Geldner takes it: (a body of) water growing with floods of (tributary?) water. However, a nominative interpretation is by no means excluded, as waters not infrequently swell things and make them grow; cf., e.g., I.65.4 várdhantīm ā́paḥ … súśiśvim “The waters strengthen the lovely child.” For an overelaborate interpretation see Oberlies (Relig. I.521).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As rivers swell the ocean, so, Hero, our prayers increase thy might,  
      Though of thyself, O Thunderer, waxing day by day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, o Held, machen die feierlichen Reden noch größer wie ein Gewässer durch Bäche, obwohl du Tag für Tag größer geworden bist, du Herr des Preßsteins.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Wasser, das in Strömen geht, erlaben, Held, Gebete dich, Der du erwächst, o Schleuderer, von Tag zu Tag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как пруд – ручьями, тебя  
 Усиливают священные слова, о герой,  

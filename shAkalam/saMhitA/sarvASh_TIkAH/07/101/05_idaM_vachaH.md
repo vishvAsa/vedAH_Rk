@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ व꣡चः पर्ज꣡न्याय स्वरा꣡जे  
 हृदो꣡ अस्तु अ꣡न्तरं त꣡ज् जुजोषत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुपिप्पला꣡ ओ꣡षधीर् देव꣡गोपाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 म॒यः॒ऽभुवः॑ । वृ॒ष्टयः॑ । स॒न्तु॒ । अ॒स्मे इति॑ । सु॒ऽपि॒प्प॒लाः । ओष॑धीः । दे॒वऽगो॑पाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -124,41 +124,41 @@ genre D
 **इदं** **वचः** वचनं स्तोत्रं **स्वराजे** स्वायत्तदीप्तये **पर्जन्याय** क्रियते । एतच्च **हृदः** तदीयस्य हृदयस्य **अन्तरम्** अन्तर्गतम् **अस्तु**।  स च तत् स्तोत्रं **जुजोषत्** सेवताम् ।‘जुषी प्रीतिसेवनयोः'। लेट्यडागमश्छान्दसः । शपः श्लुः । **मयोभुवः** सुखस्य भावयित्र्यः **वृष्टयः** **अस्मे** अस्माकं तत्प्रसादात् **सन्तु** भवन्तु । तथा **देवगोपाः** देवः पर्जन्यो गोपायिता रक्षिता यासां तथाविधाः **ओषधीः** ओषधयश्च **सुपिप्पलाः** सुफला अस्माकं भवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This praise is addressed to the self-irradiating **Parjanya**; may it be plural ced in his heart; may he begratified by it; may the joy-diffusing rains be ours; may the plural nts cherished by the deiy be fruitful.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is a speech for Parjanya the self-ruling: let it be the intimate of his  heart. He will enjoy it.  
 Let there be joy-bringing rain for us; let the plants whose protectors are  the gods be well-berried.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The subjunctive jujoṣat in b would fit the context better with a modal reading (“let him enjoy it / may he enjoy it”), surrounded as it is by impvs. (astu b, santu c) -- though the standard rendering of the subjunctive, as given in the published translation, is certainly not excluded.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this my song to Sovran Lord Parjanya come near unto his heart and give him pleasure.  
      May we obtain the showers that bring enjoyment, and God-protected plants with goodly fruitage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Rede für den Selbstherrscher Parjanya soll seinem Herzen recht nahe gehen; er möge sich daran erfreuen. Erquickende Regen sollen uns werden; die gottbehüteten Pflanzen sollen gute Beeren tragen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Spruchlied sei dem herrschenden Pardschanja im Herzen lieb, er mög sich dran erfreuen; Lustreiche Regen seien unser Antheil und fruchtbeladne Kräuter, gottbeschirmet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта речь для Парджаньи-самодержца  
 Пусть станет близкой (его) сердцу, пусть он насладиться (ею)!  

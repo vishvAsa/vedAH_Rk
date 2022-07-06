@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्ये꣡द् इन्द्र मरु꣡त्वते  
 सुताः꣡ सो꣡मासो अद्रिवः  
 हृदा꣡ हूयन्त उक्थि꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हृ॒दा । हू॒य॒न्ते॒ । उ॒क्थिनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyed* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अद्रिवः** वज्रवन् **इन्द्र** **मरुत्वते** **तुभ्येत्** तुभ्यमेव **सोमासः** **सुताः** अभिषुताः । ते च **उक्थिनः** शस्त्रवन्तः **हृदा** मनसा भक्त्या **हूयन्ते** त्वदर्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,29 +91,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 In faith: **manasā** = bhaktyā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just for you, o Indra, accompanied by the Maruts, possessor of the  stone, are the pressed soma-drinks,  
 provided with hymns, poured out with our whole heart.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee, O Indra, Marut-girt, these Soma juices, Thunderer!  
      Are offered from the heart with lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, Indra, dem Marutbegleiteten, werden die ausgepreßten Somatränke, o Herr des Preßsteins, nebst einem Loblied von Herzen geopfert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Indra, mit der Marutschar sind Somasäft', o Schleuderer, Mit Lust ergossen liederreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

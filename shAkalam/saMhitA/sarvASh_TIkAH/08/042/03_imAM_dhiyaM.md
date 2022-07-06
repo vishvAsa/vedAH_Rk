@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमां꣡ धि꣡यं शि꣡क्षमाणस्य देव  
 क्र꣡तुं द꣡क्षं वरुण सं꣡ शिशाधि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुत꣡र्माणम् अ꣡धि ना꣡वं रुहेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यया॑ । अति॑ । विश्वा॑ । दुः॒ऽइ॒ता । तरे॑म । सु॒ऽतर्मा॑णम् । अधि॑ । नाव॑म् । रु॒हे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -122,7 +122,7 @@ genre M
 हे **देव** द्योतमान **वरुण** **इमां** **धियम्** इदं कर्म **शिक्षमाणस्य** अनुतिष्ठतो मम **क्रतुं** प्रज्ञानं **दक्षं** बलं च **सं** **शिशाधि** तीक्ष्णीकुरु । **यया** नावा यज्ञरूपया **विश्वा** सर्वाणि **दुरिता** दुरितानि **अति** **तरेम** तां **सुतर्माणं** सुष्ठु तारयित्रीं यज्ञरूपां **नावम्** **अधि** **रुहेम** वयमारुहेम । दुःखसागरतरणे हेतुत्वाद्यज्ञो नौरित्यत्र व्यपदिश्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,30 +133,30 @@ genre M
 Animate the sacred acts: kratum dakṣam = sharpenthe knowledge and power
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sharpen the will and skill of the man who puts his best into this  
 insightful thought, o god Varuṇa.  
 Might we board a boat that provides a good crossing, by which we might  cross beyond all difficulties.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sharpen this song of him who strives his utmost, sharpen, God Varuna, his strength and insight;  
      May we ascend the ship that bears us safely, whereby we may pass over all misfortune.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schärfe, Gott Varuna, Überlegung und Willenskraft, wenn ich es mit dieser Dichtung versuche. Wir möchten das rettende Schiff besteigen, mit dem wir über alle Fährlichkeiten hinwegkommen können.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Gott, verschärfe dies Gebet des Frommen und seine Kraft, o Varuna, und Einsicht, Durch das wir alles Ungemach durchschiffen, das Schiff besteigend, das uns sicher durchfährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (У меня,) старающегося создать это произведение,  
 Силу духа (и) силу действия заостри, о Варуна!  

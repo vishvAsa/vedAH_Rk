@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡या पवस्व धा꣡रया  
 य꣡या पीतो꣡ विच꣡क्षसे  
 इ꣡न्दो स्तोत्रे꣡ सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दो॒ इति॑ । स्तो॒त्रे । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tayā* ← *tad*
 - \[noun\], instrumental, singular, feminine
@@ -83,40 +83,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** त्वं **यया** **धारया** **पीतः** सन् **विचक्षसे** विचक्षणाय **स्तोत्रे** स्तोत्राणां कर्त्रे पुरुषाय **सुवीर्यं** शोभनवीर्यं प्रयच्छसीति शेषः। **तया** धारया **पवस्व** क्षर ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow **Indu**, with that stream wherewith when drunk you bestow much vigour on your discerning worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself in that stream in which, once drunk, you will gaze out upon an abundance of heroes for your praiser, o drop.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take vicákṣase as transitive ‘reveal’, but as Renou notes, ví √cakṣ is ordinarily intransitive, and I see no reason to willfully ignore this usage. As noted in the published introduction, the verb forms a ring with nṛcákṣāḥ in 1b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow, Indu, with that stream wherein steeped thou announcest to the man  
      Who worships thee heroic strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit solchem Strome läutere dich, mit dem du, o Saft, getrunken dem Sänger die Meisterschaft offenbaren wirst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit solchem Strome riesle du, durch den, getrunken, Indu du Dem Sänger Heldenkraft ersiehst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

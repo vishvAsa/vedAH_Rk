@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सतो꣡ नूनं꣡ कवयः सं꣡ शिशीत  
 वा꣡शीभिर् या꣡भिर् अमृ꣡ताय त꣡क्षथ  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ये꣡न देवा꣡सो अमृतत्व꣡म् आनशुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वि॒द्वांसः॑ । प॒दा । गुह्या॑नि । क॒र्त॒न॒ । येन॑ । दे॒वासः॑ । अ॒मृ॒त॒ऽत्वम् । आ॒न॒शुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sato* ← *sataḥ* ← *as*
 - \[verb noun\], accusative, plural
@@ -128,37 +128,37 @@ popular
 हे **कवयः** मेधाविनस्त्वष्टुर्मम शिष्या ऋभवः **सतः** । सन्त इत्यर्थः । प्रशस्ता यूयं **नूनम्** इदानीं सं **शिशीत** अत्यर्थं तीक्ष्णीकुरुत वाशीः। **याभिः** **वाशीभिः** पात्राणि **अमृताय** सोमाय । तत्पानायेत्यर्थः । यद्वा युष्माकममृतत्वाय । तदर्थं **तक्षथ** संपादयथ । हे कवयः **विद्वांसः** यूयं **गुह्यानि** गोपनीयानि **पदा** पदानि निवासस्थानानि **कर्तन** कुरुत । **येन** स्थानकरणेन **देवासः** देवा यूयम् **अमृतत्वमानशुः** प्राप्ता यूयम् । एवं स्वशिष्यानाह॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily being sages, (**Ṛbhus**) sharpen the instrumental uments with which you fabricate the cups for the nectaṛDo you, who are wise, prepare the mysterious paths whereby tte gods have attained to immortality.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, poets, sharpen up (the hatchets) that are (here), the axes with  which you carve for the immortal.  
 As knowing ones, create hidden tracks, (like the track) by which the  
 gods achieved immortality.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, O ye Sapient Ones, make ye the axes sharp wherewith ye fashion bowls to hold the Amrta.  
      Knowing the secret places make ye ready that whereby the Gods have gotten immortality.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun schärfet gleichmäßig die Beile, ihr Seher, womit ihr für den Unsterblichen zimmert! Als Kundige gebraucht die geheimsinnigen Worte, wodurch die Götter die Unsterblichkeit erlangt haben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des tücht'gen Beile machet scharf, ihr weisen, nun durch die ihr zimmernd wirkt für die Unsterblichkeit; und kennend die geheimen Spuren führt das aus, wodurch die Götter kamen zur Unsterblichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О поэты, точите же сейчас все вместе топоры,  
 Которыми вы вытесываете для бессмертия!  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡ताति कुण्डृणा꣡चिया  
 दूरं꣡ वा꣡तो व꣡नाद् अ꣡धि  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सह꣡स्रेषु तुवीमघ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 आ । तु । नः॒ । इ॒न्द्र॒ । शं॒स॒य॒ । गोषु॑ । अश्वे॑षु । शु॒भ्रिषु॑ । स॒हस्रे॑षु । तु॒वि॒ऽम॒घ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *patāti* ← *pat*
 - \[verb\], singular, Present conjunctive (subjunctive)
@@ -108,37 +108,37 @@ genre M;; repeated line
 **वातः** अस्मत्प्रतिकूलो वायुः **कुण्डृणाच्या** कुटिलगत्या स त्वस्मान्परित्यज्य **वनादधि** अरण्यादप्यधिकं **दूरं** देशं **पताति** पततु । अन्यत् पूर्ववत् ॥ पतति । लेटि आडागमः। कुण्डृणाच्या । 'कुडि दाहे ' । अस्मात् ल्युडन्ते कुण्डनशब्दे डकारात् परस्य अकारस्य ऋकारश्छान्दसः । ‘ऋवर्णाच्चेति वक्तव्यम् ' इति णत्वम् । तत् अञ्चतीति कुण्डृणाची ।' ऋत्विक् ' इत्यादिना क्विन् । **अनिदिताम्** । इति नलोपे ' अञ्चतेश्चेति वक्तव्यम् ' ( पा. सू. ४. १. ६. २) इति ङीप् । ' अचः ' ( पा. सू. ६. ४. १३८ ) इति अकारलोपः । **चौ** ' ( पा. सू. ६. ३. १३८ ) इति पूर्वपदस्य दीर्घत्वम् । ‘चौ ' ( पा. सू. ६. १. २२२ ) इति आकारस्योदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us (adverse) breeze, with crooked course, alight afar off on the forest; **Indra**, of boundless wealth, enrich us with thousands of excellent cows and horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along with the female kuṇḍr̥ṇācī [=bird of ill-omen?] the wind will fly far  away from the woods.  
 – Give us hope for resplendent cows and horses in the thousands, o  powerfully generous Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far distant on the forest fall the tempest in a circling course!  
      Do thou, O Indra, give us hope of beauteous horses and of kine,  
      In thousands, O most wealthy One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit der Kundrinaci fliege der Wind weit weg vom Baum. Mach uns doch Hoffnung auf tausend schmucke Kühe und Rosse, o freigebiger Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weit treibe über Wälder weg der Wind den Aar, der uns umkreist, Du, Indra, mach uns herrlich doch an Rindern, Rossen, glänzenden, an tausenden, sehr reicher du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть улетит со зловещей птицей  
 Далеко от дерева ветер!  

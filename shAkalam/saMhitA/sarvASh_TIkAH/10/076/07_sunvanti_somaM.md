@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुन्व꣡न्ति सो꣡मं रथिरा꣡सो अ꣡द्रयो  
 नि꣡र् अस्य र꣡सं गवि꣡षो दुहन्ति ते꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 न꣡रो हव्या꣡ न꣡ मर्जयन्त आस꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 दु॒हन्ति॑ । ऊधः॑ । उ॒प॒ऽसेच॑नाय । कम् । नरः॑ । ह॒व्या । न । म॒र्ज॒य॒न्ते॒ । आ॒सऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sunvanti* ← *su*
 - \[verb\], plural, Present indikative
@@ -119,7 +119,7 @@ genre M
 **रथिरासः** रथवन्तो रंहणवन्तः **अद्रयः** ग्रावाणः **सोमं** **सुन्वन्ति** । ग्रावाणः **अस्य** सोमस्य **रसं** **निः** **दुहन्ति** निःशेषेण दुहन्ति । **गविषः** स्तुतिवाचमिच्छन्तः सन्तः । दुहन्ति **ऊधः** रसं सोमसंबन्धिनम् । किमर्थम् । **उपसेचनाय** अग्नेः । **कम्** इति पादपूरणः । **नरः** नेतारोऽभिषवकर्तार ऋत्विजः **हव्या** **न** हवींषि चाग्न्युपसेचनानन्तरम् **आसभिः** स्वास्यैः **मर्जयन्ते** शोधयन्ति । शेषभक्षणेन शुद्धीकुर्वन्ति । यद्वा । अग्नौ होतुर्दशापवित्रात्पुरासभिरास्योपलक्षितैः स्तोत्रैर्मर्जयन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ genre M
 With their mouths: bydevouring the refuse; or, metaphorically, by the praise of their mouths
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The stones, the charioteers, press the soma. They milk out the juice of  him who seeks the cows.  
 They milk the udder, to pour it out. As superior men they groom (the  soma), like oblations, with their mouths.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Stones press out the Soma, swift as car-borne men, and, eager for the spoil, drain forth the sap thereof  
      To fill the beaker, they exhaust the udder's store, as the men purify oblations with their lips.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Wagen fahrend pressen die Steine den Soma aus; sie melken das Euter, um die Milch des Soma aufzugießen. Wie die Herren machen sie das Opfer mit ihren Mäulern sauber.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Steine pressen Soma Wagenlenkern gleich und melken beutelustig seinen Saft heraus; Zum Trunk der Götter melken sie das Euter aus; wie Männer Speisen, kau'n mit Zähnen sie das Kraut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выезжая на колесницах, камни выжимают сому.  
 Они выдаивают сок этого ищущего коров.  

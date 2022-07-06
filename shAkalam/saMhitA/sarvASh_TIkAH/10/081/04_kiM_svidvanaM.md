@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 किं꣡ स्विद् व꣡नं क꣡ उ स꣡ वृक्ष꣡ आस  
 य꣡तो द्या꣡वापृथिवी꣡ निष्टतक्षुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् अध्य꣡तिष्ठद् भु꣡वनानि धार꣡यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मनी॑षिणः । मन॑सा । पृ॒च्छत॑ । इत् । ऊं॒ इति॑ । तत् । यत् । अ॒धि॒ऽअति॑ष्ठत् । भुव॑नानि । धा॒रय॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
@@ -133,7 +133,7 @@ popular
 पूर्वस्यामृच्युक्तं ब्रह्मैव भूम्यादिकारणमिति । तदेवानया प्रश्नकथनव्याजेनोच्यते । लोके हि प्रौढं प्रासादं निर्मिमाणः कस्मिंश्चित्प्रौढे वने कंचित् महान्तं वृक्षं छित्त्वा तक्षणादिना स्तम्भादिकं संपादयति । इह तु परमेश्वरप्रेरिता जगत्स्रष्टारः **यतः** यस्माद्विनाद्यं वृक्षमादाय **द्यावापृथिवी** **निष्टतक्षुः** तक्षणेन द्यावापृथिव्यौ निष्पादितवन्तः तत् **वनं** **किं** **स्वित्** किं नाम स्यात् । तथा **क** **उ** **स** **वृक्ष** आस कस्तादृशो महान् वृक्षोऽभूत् । हे **मनीषिणः** मनस ईश्वराः तदुभयं **मनसा** जिज्ञासायुक्तेन **पृच्छतेदु** पृच्छतैव। किंच ईश्वरः **भुवनानि** **धारयन्** **यत्** स्थानम् **अध्यतिष्ठत्** **तत्** अपि पृच्छत । एतस्य सर्वस्याप्युत्तरं  ‘ ब्रह्म स वृक्ष आसीत् ' इत्यादिकमुत्तरम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ popular
 They: i.e., the makers of the world,directed by **Parameśvara**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What was the wood? What was the tree?—out of which they fashioned  heaven and earth.  
 O you of inspired thought [=priests], in your thinking ask about that  upon which he rested, giving support to living beings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What was the tree, what wood in sooth produced it, from which they fashioned out the earth and heaven?  
      Ye thoughtful men inquire within your spirit whereon he stood when he established all things.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welches war denn das Holz, welches der Baum, aus dem sie Himmel und Erde zimmerten? Ihr Nachdenkende, forschet in eurem Geiste darnach, worauf er stand, als er die Welten befestigte?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schön gezimmert? Mit eurem Geiste forscht danach, ihr weisen, worauf er stand, als er die Welten stützte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что это была за древесина и что за дерево,  
 Из чего вытесали небо и землю?  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हो꣡तारं चित्र꣡रथम् अध्वर꣡स्य  
 यज्ञ꣡स्य-यज्ञस्य केतुं꣡ रु꣡शन्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्रिया꣡ तु꣡ अग्नि꣡म् अ꣡तिथिं ज꣡नानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्रति॑ऽअर्धिम् । दे॒वस्य॑ऽदेवस्य । म॒ह्ना । श्रि॒या । त्वम् । अ॒ग्निम् । अति॑थिम् । जना॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
@@ -119,36 +119,36 @@ genre M
 **अध्वरस्य** यज्ञस्य **होतारम्** एतन्नामानमृत्विजं यद्वा होतारं देवानामाह्वातारं **चित्ररथं** नानारूपरथमध्वरस्य रक्षोभिरहिंसितस्य **यज्ञस्य** सर्वस्य यज्ञस्य **केतुं** प्रज्ञापकं पताकास्थानीयं वा **रुशन्तं** श्वेतवर्णं **मह्ना** स्वमहत्त्वेन **देवस्यदेवस्य** सर्वेषां देवानाम् **अर्धिम्** इन्द्रं **प्रति** भवन्तम् । **यत्सर्वेषामधिमिन्द्रं** प्रति' इति ब्राह्मणम् । तादृशं जनानां यजमानानाम् **अतिथिम्** अतिथिवत् पूज्यम् अग्निं तु क्षिप्रं श्रिया श्रियोऽर्थं वयं स्तुमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(We worship) **Agni** for prosperity, you, who are the invoker of the gods, the many-colouredconveyance of the saacrifice, the brilliant banner of every offering, the surpasser of every other deity in might, theguest of men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (They chant) to the Hotar of the rite, possessing a brilliant chariot, the  luminous beacon of every sacrifice,  
 to Agni, who is the half-sharer with every god in his greatness, but in his  beauty the guest of the peoples.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Priest of the holy rite, with car that glitters, refulgent Banner of each act of worship,  
      Sharinging every God through might and glory, even Agni Guest of men I summon hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Hotri des Gottesdienstes mit dem wunderbaren Wagen, das hellfarbige Banner jeglichen Opfers, den Agni, der durch seine Größe jeglichem Gotte gleichberechtigt ist, vermöge seines Vorrangs aber der Gast der Menschen ist-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Priester ihn des Fests mit lichtem Wagen, der hell erstrahlt als Fahne jedes Opfers, Der gleich an Macht ist mit den Göttern allen, der Menschen Gast, den Agni, schmückt mit Glanz aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хотара на обряде, обладающего яркой колесницей,  
 Светлое знамя каждой жертвы,  

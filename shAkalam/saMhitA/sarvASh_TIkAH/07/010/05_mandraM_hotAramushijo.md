@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मन्द्रं꣡ हो꣡तारम् उशि꣡जो य꣡विष्ठम्  
 अग्निं꣡ वि꣡श ईळते अध्वरे꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡तन्द्रो दूतो꣡ यज꣡थाय देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । हि । क्षपा॑ऽवान् । अभ॑वत् । र॒यी॒णाम् । अत॑न्द्रः । दू॒तः । य॒जथा॑य । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mandraṃ* ← *mandram* ← *mandra*
 - \[noun\], accusative, singular, masculine
@@ -116,36 +116,36 @@ genre M
 **उशिजः** कामयमानाः **विशः** मनुष्याः **मन्द्रं** स्तुत्यं **होतारम्** आह्वातारं **यविष्ठं** युवतमम् **अग्निम्** **अध्वरेषु** यागेषु **ईळते** स्तुवन्ति । **हि** यस्मात् कारणात् **सः** अग्निः **क्षपावान्** रात्रिमान् । रात्रौ खल्वग्नयेऽग्निहोत्रं हूयते । **रयीणां** रयिमतां हविष्मतां यजमानानां **देवान्** **यजथाय** यष्टुम् **अतन्द्रः** तन्द्रारहितः **दूतः** **अभवत्** । तथा च श्रूयते – यस्माद्दूतोऽभवत्तस्माद्विशस्तमध्वर ईळते' इति ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Men desiring him celebrate at sacrifices the youthful **Agni**, the giver of delight, the invoker of the gods;he, the ruler of the night, has been the diligent envoy of the opulent (instrumental tutors of sacrifices) for the worship ofthe gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fire-priests invoke him, the delighting Hotar, the youngest one; the  clans invoke Agni at the rites,  
 for he has become the protector of riches on earth and the unwearying  messenger to bring sacrifice to the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men eagerly implore at sacrifices Agni, Most Youthful God, the joyous Herald.  
      For he is Lord and Ruler over riches, and for Gods' worship an unwearied envoy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den wohlredenden Hotri rufen die Fürbitter an, den jüngsten Agni die Clane bei den Opfern, denn er ward der Schirmherr der Schätze, der unermüdliche Bote, um den Göttern zu opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den holden Priester preisen alle Stämme, den jüngsten Agni eifrig bei den Opfern; Denn er war stets Beschützer aller Schätze, der muntre Bote für den Dienst der Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Радостного хотара призывают Ушиджи,  
 Самого юного Агаи (призывают) племена во время обрядов:  

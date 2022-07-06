@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ भुज्युं꣡ वि꣡भिर् अद्भियः꣡ समुद्रा꣡त्  
 तु꣡ग्रस्य सूनु꣡म् ऊहथू र꣡जोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पतत्रि꣡भिर् अ꣡र्णसो नि꣡र् उप꣡स्थात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒रे॒णुऽभिः॑ । योज॑नेभिः । भु॒जन्ता॑ । प॒त॒त्रिऽभिः॑ । अर्ण॑सः । निः । उ॒पऽस्था॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -109,7 +109,7 @@ genre M
 ”ता तावश्विनौ युवां **तुग्रस्य** **सूनुं** **भुज्युं** भुज्युनामकं समुद्रमध्ये भग्ननावं **भुजन्ता** रक्षन्तौ **अरेणुभिः** रेणुरहितैः आन्तरिक्षैः **रजोभिः** मार्गैः **योजनेभिः** रथयुक्तैः **पतत्रिभिः** पतनवद्भिः **विभिः** अश्वैः **अर्णसः** जलस्य **उपस्थात्** योनेः  समुद्रात् **अद्भ्यः** **नि:** **ऊहथुः** निरगमयतम् । समुद्रादद्भ्य इति प्रयोगो मातुर्ग्रहाद्गच्छतीतिवत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,13 +120,13 @@ genre M
 Arṇaso nirupasthāt, from the womb of the water, jalasya yoneḥ samudrād abhyo nir agamayatam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two with your birds conveyed Bhujyu, the son of Tugra, from the  waters, from the sea, through the airy realms,  
 through dustless treks, bending (him) away from the lap of the flood  with your winged ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted ad vs. 3, I would prefer not to have the 3rd ps. prn. tā́serving as a subject of an indicative 2nd ps. verb (pf. ūhathuḥ), but the repetitive tā́pattern may have imposed it here.
 
@@ -135,23 +135,23 @@ The adj. areṇú- ‘dustless’ (8x) twice qualifies ‘paths’ (I.35.11, 163
 Geldner takes bhujántā to √bhuj ‘benefit, enjoy à utilize’ (benutzen), but better, with Grassmann, Renou, Lubotsky, to √bhuj ‘bend’. In any case this participle is clearly meant to echo the name Bhujyu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So ye, with birds, out of the sea and waters bore Bhujyu, son of Tugra, through the regions.  
      Speeding with winged steeds through dustless spaces, out of the bosom of the flood they bore him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr fuhret des Tugra Sohn, den Bhujyu, mit euren Vogelrossen aus dem Wasser, dem Meere durch die Lüfte, die staublosen Wegestrecken benutzend, mit den geflügelten aus dem Schoße der Flut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr fuhrt den Budschju aus des Meeres Fluten, des Tugra Sohn mit Vögeln durch die Lüfte, Die unbestäubten, mit den Flügelrossen, heraus ihm helfend aus dem Schooss der Meerflut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы оба Бхуджью, сына Тугры, вывезли  
 На птицах из вод, из океана, по воздушным просторам,  

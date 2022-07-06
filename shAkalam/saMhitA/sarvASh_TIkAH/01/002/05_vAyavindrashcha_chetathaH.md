@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡यव् इ꣡न्द्रश् च चेतथः  
 सुता꣡नां वाजिनीवसू  
 ता꣡व् आ꣡ यातम् उ꣡प द्रव꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तौ । आ । या॒त॒म् । उप॑ । द्र॒वत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāyav* ← *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
@@ -93,36 +93,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अत्र चकारेणान्यः समुच्चीयते । संनिहितत्वाद्वायुरेव। हे **वायो** त्वम् इन्द्रश्च युवामुभौ **सुतानाम्** अभिषुतान् सोमान् **चेतथः** जानीथः । यद्वा। अभिषुतानां सोमानां विशेषमित्यध्याहारः। कीदृशौ युवाम्। **वाजिनीवसू** । वाजिनीशब्दो यद्यप्युषोनामसु पठितस्तथाप्यत्रासंभवान्न गृह्यते । वाजोऽन्नम् । तद्यस्यां हविः संततावस्ति सा वाजिनी । तस्यां वसत इति तौ वाजिनीवसू । आमन्त्रितत्वादनुदात्तः। **तौ** तथाविधौ युवां **द्रवत्** क्षिप्रम् **उप** समीपे **आ** **यातम्** आगच्छतम् । षड्विंशतिसंख्याकेषु क्षिप्रनामसु ‘नु क्षिप्रं मधु द्रवत्' (नि. २. १५. ३ ) इति पठितम् । तत्र फिट्स्वरः ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Vāyu**, abiding in the sacrificial rite, you are aware of these libations; come both (then) quickly hither.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Vāyu and Indra, you take note of the pressings, you two rich in  prizewinning mares.  
 Drive right here at speed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well do ye mark libations, ye Vayu and Indra, rich in spoil  
      So come ye swiftly hitherward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vayu und Indra! Ihr versteht euch auf die ausgepreßten Tränke, ihr Gewinnreichen. Kommet also eilig heran!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Vaju, Indra, nehmet wahr der Tränke, labungsreiche ihr, So kommet eilig denn herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваю и Индра, вы разбираетесь  
 В выжатых (соках сомы), о богатые наградой.  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मो꣡ ते꣡ रिषन् ये꣡ अ꣡छउक्तिभिर् वसो  
 अ꣡ग्ने के꣡भिश् चिद् ए꣡वैः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 रात꣡हव्यः सुअध्वरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 की॒रिः । चि॒त् । हि । त्वाम् । ईट्टे॑ । दू॒त्या॑य । रा॒तऽह॑व्यः । सु॒ऽअ॒ध्व॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mo* ← *mā*
 - \[adverb\]
@@ -123,20 +123,20 @@ genre M
 हे वसो वासक **अग्ने** त्वां ये मनुष्याः”अच्छोक्तिभिः अभिष्टुतिभिः **केभिः** कैः सुखकरैः **एवैः** **चित्** अभिगमनैरपि ते स्तोतारः **मो** **रिषन्** मैव हिंसन्ताम् । रातहव्यः दत्तहविष्कः **कीरिश्चित्** स्तोतापि **दूत्याय** हविर्वहनादिलक्षणीय दूतकर्मणे **त्वामी** **हि** स्तौति खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, giver of dwellings, let not those come to harm, who approach you in whatever manner with hymnsof praise; the worshipper who offers his libation and duly performs the rite praises you that you may be thebearer of the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And let those not suffer harm who (approach you) with invitations here  in sundry ways, o good Agni.  
 For even a weakling reverently invokes you for a mission if he is a man  of good ceremony who has bestowed the oblation.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -146,23 +146,23 @@ Both vss. end identically with svadhvaráḥ, but in 12c it refers to Agni, in 1
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Vasu, Agni, let not them be harmed who come in any way with lauds to thee.  
      Even the lowly, skilled in rites, with offered gifts, seeketh thee for the envoy's task.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht sollen die zu Schaden kommen, die mit ihren Einladungen, mit irgend welchen Absichten kommen, o guter Agni! Dich beruft ja auch der Mittellose zum Botenamt, Opfergaben spendend und guten Gottesdienst bereitend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O guter Agni, nimmer lass beschädigt sein, die dir mit Anrufungen nahn; Denn jeder Sänger flehet dich um Botschaft an, der Opfer bringt und schön verehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не потерпят вреда те, кто (приходит к тебе), о Васу, с приглашениями,  
 С какими-нибудь обычаями, о Агни!  

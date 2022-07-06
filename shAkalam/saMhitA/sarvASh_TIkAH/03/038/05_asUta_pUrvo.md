@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सूत पू꣡र्वो वृषभो꣡ जिया꣡यान्  
 इमा꣡ अस्य शुरु꣡धः सन्ति पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्षत्रं꣡ राजाना प्रदि꣡वो दधाथे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दिवः॑ । न॒पा॒ता॒ । वि॒दथ॑स्य । धी॒भिः । क्ष॒त्रम् । रा॒जा॒ना॒ । प्र॒ऽदिवः॑ । द॒धा॒थे॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asūta* ← *sū*
 - \[verb\], singular, Imperfect
@@ -113,20 +113,20 @@ genre M
 **वृषभः** कामानां वर्षकः **पूर्वः** चिरन्तनोऽत एव **ज्यायान्** इन्द्रः **असूत** । अपः ससर्ज । **पूर्वीः** बह्व्यः **इमाः** अनेन सृष्टा आपः **अस्य** **शुरुधः** । शुचः पिपासाया रोधयित्र्यः **सन्ति** भवन्ति । **दिवो** **नपाता** दिवो न पातयितारौ हे राजानौ इन्द्रावरुणौ **प्रदिवः** प्रकर्षेण द्योतमानस्य **विदथस्य** यज्ञकारिणः स्तोतुः **धीभिः** स्तुतिभिः **क्षत्रं** धनं **दधाथे** अस्मभ्यं दातुं धारयेथे ॥ असूत । पूङ् प्राणिगर्भविमोचने ' इत्यस्य लङि रूपम् । अडागमस्वरः । ज्यायान् । प्रशस्यशब्दात् ईयसुनि ‘ज्य च ' ( पा. सू. ५. ३. ६१ ) इति ज्यादेशः । ‘ ज्यादादीयसः' ( पा. सू. ६. ४. १६० ) इति ईयसः आदेः ईकारस्य' आकारादेशः । नित्त्वादाद्युदात्तः । शुरुधः । पृषोदरादिः । नपाता । ‘ नभ्राण्नपात्' इति निपातनात् नञः प्रकृतिभावः । आमन्त्रितत्वात निघातः । धीभिः । ‘ सावेकाचः° ' इति विभक्तेरुदात्तत्वम् । राजाना । आमन्त्रितत्वात निघातः । दधाथे । दधातेर्लटि रूपम् । निघातः ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The showerer (of benefits), the preceder and elder (of the gods), genitive rated (the waters); they are the abundant allayers of his thirst; sovereign **Indra** and **Varuṇa**, grandsons of heaven, you possess the wealth (that is to be acquired) by the rites of the splendid sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The earlier older bull gave birth. Here are his many proliferating riches. You two sons of heaven, with your insights you established your  
 dominion over the (cosmic) division, you kings, from olden days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The unidentified creature in vs. 4, finally identified as a bull or as bullish (vṛ́ṣan- 4c), returns in this vs., with a slightly different ‘bull’ designation (vṛṣabhá-).
 
@@ -141,23 +141,23 @@ I interpr. and construe vidáthasya in c differently from most, who take it with
 As noted in the published introduction, a number of referents have been suggested for the two sons of heaven, and as I also said there, I think this is missing the point. We remain in the realm of the 1st creation where entities may begin to proliferate but they are still not named. I suggested there that the two may be the two world halves (note that kṣatrá- was associated with them in vs. 3b and see 8c below), but it is also quite possible that the focus should be on the “two,” not on who exactly the two are: the first splitting of the primal unity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 First the more ancient Bull engendered offspring; these are his many draughts that lent him vigour.  
      From days of old ye Kings, two Sons of Heaven, by hymns of sacrifice have won dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ältere Bulle gebar als erster; diese seine Erfolge sind zahlreich. Ihr beiden Enkel des Himmels, ihr Könige, übet im Geiste der Weisheit von jeher die Herrschaft aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren ward der erste Held, der ältere [Varuna]; hier sind seine vielen Stärkungen [kräftige Gaben], des Himmels beide Söhne [Mitra -Varuna] nahmen nach den Absichten der Götter- gemeinde als Könige von Alters her die Herrschaft ein."
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он первым стал рожать, (этот) бык, (что) старше (других).  
 Много есть этих его богатств.  

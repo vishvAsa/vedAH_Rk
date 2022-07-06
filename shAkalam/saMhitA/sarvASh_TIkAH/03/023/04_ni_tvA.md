@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ त्वा दधे · व꣡र आ꣡ पृथिव्या꣡  
 इ꣡ळायास् पदे꣡ सुदिनत्वे꣡ अ꣡ह्नाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡रस्वत्यां रेव꣡द् अग्ने दिदीहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दृ॒षत्ऽव॑त्याम् । मानु॑षे । आ॒प॒याया॑म् । सर॑स्वत्याम् । रे॒वत् । अ॒ग्ने॒ । दि॒दी॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 हे **अग्ने** **इळायाः** गोरूपधारिण्याः **पृथिव्याः** भूमेः **वरे** वरिष्ठे **पदे** उत्तरवेद्याम् **अह्नां** **सुदिनत्वे** यजनीयदिवसानां शोभनदिनत्वार्थम् । येषु दिनेषु इन्द्रादयो वरीयांसो देवा इज्यन्ते तानि सुदिनानि । तदर्थं **त्वा** त्वाम् **आ** **नि** **दधे** आ समन्तान्निदधामि । उत्तमानि स्थानानि दर्शयति । **दृषद्वत्याम्** । दृपद्धती नाम काचिन्नदी तस्याम् । **मानुषे** मनुष्यसंचरणविषये तीरे । **आपयायाम्** । आपया नाम काचिन्नदी तस्याम् । **सरस्वत्यां** नद्याम् । एतेषु उत्तमेषु स्थानेषु त्वं **रेवत्** धनयुक्तं यथा भवति तथा **दिदीहि** दीप्यस्व । महर्षयः सरस्वतीतीरे खलु यज्ञादिकर्माण्यकार्षुः । तथा च ब्राह्मणम् - ‘ ऋषयो वै सरस्वत्यां सत्रमासत ' (ऐ. ब्रा, २. १९) इति ॥ दधे । दधातेः लिट्युत्तमैकवचने रूपम् । वरे। ' वृञ् वरणे । ग्रहवृदृनिश्चिगमश्च' इत्यप्। पित्त्वादनुदात्तत्वे धातुस्वरः । दृषद्वत्याम् । ‘दृ विदारणे'। 'दृणातेः पुग्घ्रस्वश्च ' ( उ. सू.१.१२८) इत्यादिना षुगागमो धातोर्ह्रस्वश्च । दृषदः उपलाः यस्यां सन्तीति मतुप् । ‘झयः' इति तस्य वत्वम् ।' स्वरविधौ व्यञ्जनमविद्यमानवत् ' इत्यस्याः परिभाषाया अत्राश्रयणाभावात् मतुप उदात्तताभावः । अदिप्रत्ययस्वरः । सरस्वत्याम् । सरःशब्दोऽसुनन्तत्वादाद्युदात्तः । तदस्यास्तीति मतुप् । अदुपधत्वान्मस्य वत्वम् । उगित्त्वात् ङीप् । दिदीहि । दिवु क्रीडादौ इत्यस्य यङ्लुकि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre M
 In an excellent spot of earth: pṛthivyā iḷāyaspade, in the footmark of the earth in the form of a cow; i.e. on the northern altar; frequented banks: mānuṣe, relating to man or to **Manu**; implies, manuṣyasaṃcaraṇaviṣaye tīre, on a bank, a plural ce frequented by men; the **Dṛṣadvatī** and Sarasvatī rivers are well known (ṛṣayo vai sarasvatyām satramāsata : **Aitareya** **Brāhmaṇa** 2.19)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has installed you, Agni, here on earth’s most desirable place, in the  track of the milk-libation, on the brightest day of days.  
 As (the Agni) of Manu, shine richly upon the Dr̥ṣadvatī, on the Āpayā,  and on the Sarasvatī.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He set thee in the earth's most lovely station, in Ila's place, in days of fair bright weather.  
      On man, on Apaya, Agni! on the rivers Drsadvati, Sarasvati, shine richly.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I have laid 1 thee 2 down in the best (place) of the earth 3, in the place of Ilâ 3, in the auspiciousness of days. O Agni, as the god who has belonged to Manus 4, shine with wealth on the Drishadvatî, on the Âpayâ, on the Sarasvatî.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich setze dich ein an den besten Platz der Erde, in die Stätte der Ila an dem Glückstag der Tage. An der Drisadvati, an der Apaya unter dem Menschengeschlecht, an der Sarasvati leuchte prangend, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich setzte ein der Mensch im Kreis der Erde, im Sitz der Andacht, in der Tage Glückszeit; Erstrahle schön, o Agni, an den Flüssen: Drischadvati, Sarasvati, Apaja.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я устроил тебя в средоточии земли,  
 На месте Иды, в счастливейший из дней.  

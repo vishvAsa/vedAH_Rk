@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ ते ह꣡री वृ꣡षणा वीत꣡पृष्ठा  
 नि꣡ रीरमन् य꣡जमानासो अन्ये꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रं सुते꣡भिः कृणवाम सो꣡मैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒ति॒ऽआया॑हि । शश्व॑तः । व॒यम् । ते॒ । अर॑म् । सु॒तेभिः॑ । कृ॒ण॒वा॒म॒ । सोमैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -125,35 +125,35 @@ genre M
 हे इन्द्र वृषणा कामानां सेचकौ वीतपृष्ठा कमनीयपृष्ठभागौ ते तव हरी अन्ये अस्मदन्ये यजमानासो यजमाना मा नि रीरमन् । मा हर्षयन् । वयं तु सुतेभिरभिषुतैः सोमैस्ते तवारं पर्याप्तं कृणवाम । यथा तव तृप्तिर्भवति तथा कुर्म इत्यर्थः । त्वं तु अत्यायाहि शश्वतः । बहूनन्यानतिक्रम्य सोमपानार्थं शीघर्मागच्छ । वितपृष्ठा । वी कान्त्यादिषु । अस्मात्त्कप्रत्ययः । बहुव्रीहौ पूर्वपद प्रकृतिस्वरः । रीरमन् । रमु क्रीडायामित्यस्य ण्यन्तस्य लुङि चङि रूपम् । न माङ्योग इत्यडभावः । निघातः । अत्यायाहि । यातेर्लोटि रूपम् । गतिर्गताविति पूर्वस्य निघातः । कृणवाम । कृणोतेर्लोटि रूपम् । निघातः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not other sacrifices attract your vigorous and smooth-backed steeds; disregarding others, come perpetually hither, that we may propitiate you sufficiently with effused **Soma** libations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let other sacrificers not stop your bullish, straight-backed fallow bays. Drive beyond them, each and every one. We will prepare properly for  you with pressed soma drinks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No other worshippers must stay beside them thy Bays, thy vigorous and smooth-backed Coursers.  
      Pass by them all and hasten onward hither: with Soma pressed we will prepare to feast thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht sollen andere Opferer deine falben Hengste, die geradrückigen, anhalten. Fahr an allen vorüber, wir wollen es dir mit dem ausgepreßten Soma recht machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht mögen andre Opfrer deine Hengste die höckerlosen, goldigen ergötzen; An allen geh vorüber, komm zu uns her, wir stehn bereit dir mit gepresstem Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не остановят другие жертвователи  
 Пару твоих буланых жеребцов с прямыми спинами!  

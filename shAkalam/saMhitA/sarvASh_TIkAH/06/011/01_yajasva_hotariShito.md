@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡जस्व होतर् इषितो꣡ य꣡जीयान्  
 अ꣡ग्ने बा꣡धो मरु꣡तां न꣡ प्र꣡युक्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्या꣡वा होत्रा꣡य पृथिवी꣡ ववृत्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । नः॒ । मि॒त्रावरु॑णा । नास॑त्या । द्यावा॑ । हो॒त्राय॑ । पृ॒थि॒वी इति॑ । व॒वृ॒त्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
@@ -109,20 +109,20 @@ genre M
 हे **होतः** देवानामाह्वातः **अग्ने** **यजीयान्** यष्टृतमस्त्वम् **इषितः** प्रेषितोऽस्माभिः प्रार्थितः सन् । ”न इति संप्रत्यर्थे । संप्रति **प्रयुक्ति** प्रयुक्तौ प्रयुज्यमाने यज्ञे **मरुतां** देवानां **बाधः** शत्रूणां बाधकं गणं **यजस्व** । यद्वैतद्वाक्यद्वयम् । हे होतरग्ने यजस्व देवानित्येकं वाक्यम् । प्रयुज्यत इति प्रयुक्ति बलम् । मरुतां न प्रयुक्ति मरुतां बलमिवास्मच्छत्रून् बाधः बाधस्वेति द्वितीयं वाक्यम् । अपि च **मित्रावरुणा** । अहरभिमानी देवो मित्रो वरुणो रात्र्यभिमानी । तौ च **नासत्या** सत्यस्य नेतारौ सत्यस्वभावावेव वा नासिकाप्रभवौ वाश्विनौ **द्यावापृथिवी** दिवं च पृथिवीं च एतांश्च देवान् **होत्राय** अस्मद्यज्ञाय तदर्थम् **आ** **ववृत्याः** आवर्तय आवहेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “{Text is missing}”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Perform sacrifice yourself as superior sacrificer, o Hotar Agni, when  prompted, pressingly as if at the hitching up of the Maruts.  
 Here to us you should turn Mitra and Varuṇa, the Nāsatyas, Heaven and  Earth to the Hotar-work.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the vs. seems superficially straightforward, it presents a number of small difficulties. We might start with the meter of pāda c: in order to reach 11 syllables, something has to be distracted. Holland & van Nooten Rig Veda edition suggest nā́satiyā, but this produces a bad cadence: - ⏑ ⏑ ×. Oldenberg (ZDMG 55.300 and Noten) instead suggests distracting the initial preverb ā́, which produces an even worse cadence (-ṇā nā́satyā
 
@@ -138,23 +138,23 @@ of a root noun could be adapted to the adverbial interpr. with one further step 
 The next question is the application of the simile marútāṃ ná práyukti and the morphological identity of the last word. To start with the latter, with most interpr. I take it as an instr. *-tī shortened in pause (or, with a more modern descrip., with loss of its final laryngeal in pause [and here before a vowel beginning the next hemistich]). But what does the hitching up of the Maruts have to do with Agni’s sacrificial performance? My assumption is that the simile is limited to qualifying the adverbial bā́dhaḥ ‘pressingly, urgently’. Since everything the Maruts do is precipitous, no doubt the yoking up of their horses is performed with the same urgency, to get on the road as soon as possible. Both Geldner and Renou push prá √yuj further than I think it should go -- to ‘impulsion, instigation’ (“wie auf Betreiben der Marut” and “à l’instigation des Marut” respectively), a sense that seems distant from the ‘yoke, hitch up’ sense of √yuj. I also don’t see that the Maruts would be the ones to set Agni’s sacrificing in motion; they are not even associated with the dawn sacrifice and don’t have much to do with Agni. My “at the hitching up” reads as if it were a locative. Though that tr. was made for English parsing reasons, I might slightly alter it to “with the hitching up.” In pāda d both Geldner and Renou (flg. Grassmann’s interpr.) take hotrā́ya as simply referring to the sacrifice (e.g., “zu unserem Opfer”), but hotrá- is elsewhere not the sacrifice, but the office of Hotar or the performance of the Hotar’s duties. My tr. (“turn [various gods] to the Hotar-work”) makes it seem that those gods will perform that office, but, since Agni is the Hotar par excellence (see, e.g., pāda a, also 2a, 6a), it must rather be that Agni is urged to cause the gods to turn towards his own performance of his duties. It might be clearer if the tr. read “toward my Hotar-work.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 EAGERLY Sacrifice thou, most skilful, Agni! Priest, pressing on as if the Maruts sent thee.  
      To our oblation bring the two Nasatyas, Mitra and Varuna and Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Opfere, o Hotri, da du aufgefordert bist, als der besser Opfernde dringlich wie auf Betreiben der Marut, o Agni! Du sollst Mitra und Varuna, die Nasatya´s, Himmel und Erde, zu unserem Opfer herbringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aufs beste opfre, Priester, du den Helden, erregt wie durch der Maruts Antrieb, Agni; Zu unserm Opfer wende her die Ritter, den Varuna und Mitra, Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертвуй, о хотар, приглашенный (нами) как жертвующий лучше (всякого другого),  
 О Агни, упорно, словно по настоянию Марутов!  

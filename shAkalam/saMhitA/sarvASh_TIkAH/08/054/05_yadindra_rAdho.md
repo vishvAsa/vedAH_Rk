@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्र रा꣡धो अ꣡स्ति ते  
 मा꣡घोनम् मघवत्तम  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 भ꣡गो दाना꣡य वृत्रहन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 तेन॑ । नः॒ । बो॒धि॒ । स॒ध॒ऽमाद्यः॑ । वृ॒धे । भगः॑ । दा॒नाय॑ । वृ॒त्र॒ऽह॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -108,35 +108,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With yours own special gift, O **Indra**, best of **Maghavans**, be you our boon-companion for good, ourliberal benefactor, O slayer of **Vṛtra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What bounteous generosity is yours, most bounteous Indra,  
 with that become a feasting companion for our strengthening, become  Bhaga for giving, o Vr̥tra-smasher.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes sāptá- as “der treuen Freundschaft,” presumably as a derivative of sápti- ‘team’ (see his sim. derivation in VIII.41.4 and my comm. thereon). But it does not make sense to deny a numerical value for sāptá- here, since it is found in clearly numerical sense in nearby VIII.59.5 (Vālakh.) tríbhiḥ sāptébhiḥ.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, deine Gabe und Freigebigkeit, o Freigebigster, mit der sei unser Zechgenosse, uns zum Gedeihen: sei ein Bhaga zum Schenken, o Vritratöter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit deiner reichen Gabe, die dein eigen, reichster Indra, ist, Mit der sei unser Festgenosse uns zum Heil, ertheil uns Gut, o Vritrafeind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, (тот) дар, что есть у тебя,  
 Свойственный щедрому, о самый щедрый, -  

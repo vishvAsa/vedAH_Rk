@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡त् स्म वा꣡तो वहति वा꣡सो अस्या  
 अ꣡धिरथं य꣡द् अ꣡जयत् सह꣡स्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡रे कृतं꣡ वि꣡ अचेद् इन्द्रसेना꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 र॒थीः । अ॒भू॒त् । मु॒द्ग॒लानी॑ । गोऽइ॑ष्टौ । भरे॑ । कृ॒तम् । वि । अ॒चे॒त् । इ॒न्द्र॒ऽसे॒ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ut* ← *ud*
 - \[adverb\]
@@ -119,37 +119,37 @@ popular
 **अस्याः** ‘ रथीरभून्मुद्गलानी ' इति वक्ष्यमाणत्वादस्य मुद्गलस्य पत्न्याः सारथिभूतायाः **वासः** अंशुकं **वातः** वायुः **उत्** **वहति** ऊर्ध्वं प्रापयति । श्रमजनितस्वेदापनयाय । अथवा शीघ्ररथधावनजनितो वायुरंशुकं चालयतीत्यर्थः । कदेति उच्यते । **यत्** यदा **अधिरथम्** अधिकं रथमारुह्य **सहस्रं** सहस्रसंख्याकं गोसंघम् **अजयत्** तदा । यद्या गोसहस्रमजयदस्या इति वा योज्यम् । यद्योगाज्जयतेर्न निघातः । **गविष्टौ** गवामपहृतानामेषणे **मुद्गलानी** मुद्गलस्य स्त्री **रथीरभूत्** सारथिरभवत् । छान्दस आनुक् । **इन्द्रसेना** स्तुत्या परितुष्टस्येन्द्रस्य सेना । यद्वा । इन्द्रस्य शत्रूणां दारयितुर्मुद्गलस्य सेनानीरूपा मुद्गलानी । **भरे** संग्रामे **कृतं** संपादितं गोसंघं **व्यचेत्** व्यचिनोत् । शत्रुभ्यः पृथक्कृतवती । चयतेर्लङि • बहुलं छन्दसि' इति विकरणस्य लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wind raised her vesture when she won a thousand cart-loads. Mudgalānī was the charioteer inthe quest of the cattle, the army of **Indra** recovered (the spoil) taken in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The wind kept lifting up her garment when she won a thousand (cattle)  and a chariot in addition.  
 Mudgalānī was the charioteer in the quest for cattle; as “weapon of  
 Indra,” she pulled out the perfect (“hand” of dice) at the match.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loose in the wind the woman's robe was streaming what time she won a car-load worth a thousand.  
      The charioteer in fight was Mudgalani: she Indra's dart, heaped up the prize of battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Wind hob ihr Kleid empor, als sie die Tausende und einen Wagen dazu gewann. Frau Mudgala war die Wagenlenkerin in dem Bewerb um die Kühe. Indrasena hat den besten Wurf in dem Gewinnspiel getan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Wind liess ihr Gewand im Kampfe flattern, als sie davontrug tausend Wagenlasten; Des Wagens Lenkerin war Mugdalānī, die Beute theilt nun aus des Indra Freundin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

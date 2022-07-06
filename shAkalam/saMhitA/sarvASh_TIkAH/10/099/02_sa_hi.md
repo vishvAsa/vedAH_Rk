@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ द्युता꣡ विद्यु꣡ता वे꣡ति सा꣡म  
 पृथुं꣡ यो꣡निम् असुरत्वा꣡ ससाद  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ्रा꣡तुर् न꣡ ऋते꣡ सप्त꣡थस्य मायाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । सऽनी॑ळेभिः । प्र॒ऽस॒हा॒नः । अ॒स्य॒ । भ्रातुः॑ । न । ऋ॒ते । स॒प्तथ॑स्य । मा॒याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -129,7 +129,7 @@ genre M
 **स** **हिः** स खल्विन्द्रः **द्युता** द्योतमानेन विद्युता एतन्नामकेनायुधेन युक्तः सन् **साम** स्तोत्रात्मकं यज्ञसंबन्धि **वेति** गच्छति । तथा **असुरत्वा** असुरत्वेन बलेन युक्तः सन् **पृथुं** विस्तीर्णं **योनिं** फलस्योत्पादकं यज्ञं **ससाद** संगतो भवति । **सः** इन्द्रः सनीळेभिः । नीडं विमानम्। सविमानैर्मरुद्भिर्युक्तः सन् **प्रसहानः** अभिभवन् भवति । तस्य **सप्तथस्य** आदित्यानां धात्रादीनां मध्ये सप्तमस्येन्द्रस्य **भ्रातुः** भागैर्भक्तव्यस्य **माया** आसुरी **ऋते** यज्ञे **न** संभवतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ His seventh brother: bhrātuḥ = one who has to share in distribution;
 Seventh: the seventh of the **Ādityas**, **Dhātā** etc.; perhaps the rākṣasā **heti** is meant
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For he pursues the melody with his flashing, with his lightning. He has  taken his seat upon the broad womb through his lordliness.  
 Together with the nest-mates and not without his brother, he is the one  who prevails over the magic tricks of the seventh.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He goes to end his work with lightning flashes: wide is the seat his Asura glory gives him.  
      With his Companions, not without his Brother, he quells Saptatha's magic devices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er begehrt mit Leuchten, mit Blitzen den Gesang; er hat sich auf den breiten Platz gesetzt in seiner Asurawürde; er der mit den Nestbrüdern nicht ohne den Bruder die Blendwerke dieses Siebenten bewältigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit hellem Blitze geht er an sein Werk ja, mit Göttermacht nimmt Platz im weiten Sitz er, mit seiner Schar des Feindes List besiegend, wie nach dem Brauch des siebenten der Brüder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь с помощью сверкания молнии достигает он исполнения.  
 Благодаря (своей) природе асуры он сел на широкое лоно.  

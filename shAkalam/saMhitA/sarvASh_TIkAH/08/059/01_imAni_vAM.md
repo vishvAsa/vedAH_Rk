@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡नि वाम् भागधे꣡यानि सिस्रत  
 इ꣡न्द्रावरुणा प्र꣡ महे꣡ सुते꣡षु वाम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡त् सुन्वते꣡ य꣡जमानाय शि꣡क्षथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; Vālakhilya
 य॒ज्ञेऽय॑ज्ञे । ह॒ । सव॑ना । भु॒र॒ण्यथः॑ । यत् । सु॒न्व॒ते । यज॑मानाय । शिक्ष॑थः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imāni* ← *idam*
 - \[noun\], nominative, plural, neuter
@@ -113,37 +113,37 @@ genre D;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These your offered portions stream forth, O **Indra** and **Varuṇa**, to your honour in the oblations; at everysacrifice you hasten to the oblations, when you help the offerer who presses out the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These portions here run to you two, Indra and Varuṇa; run forth to you  when the (soma-drinks) are pressed, for your great (generosity?).  
 At every sacrifice you bustle toward the pressings, when you do your best  for the sacrificer who presses (soma).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not think it nec., with Geldner, to supply a new verb with prá in b, since √sṛ regularly appears with prá.
 
 I supply rā́dhase with mahé. This phrase is frequent, esp. in VIII (I.139.6, III.41.6, VIII.2.29, 24.10, 45.24, etc.), and rā́dhas- is a favorite word in the Vāl.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für euch beide fließen diese Anteile; euch, Indra und Varuna, besinge ich bei Soma zu hohem Gewinn. Ihr habt es ja bei jedem Opfer eilig zu den Somaspenden, wenn ihr dem somapressenden Opferer nützlich sein wollt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es strömen diese eure Opfertheile vor, beim Somamahl zur Lust euch, Indra-Varuna! Bei jedem Opfer eilt ihr zu den Tränken ja, wenn Huld ihr schenkt dem Opfrer, welcher Soma braut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Текут эти положенные вам доли.  
 О Индра-Варуна, а (хочу) вос(петь) вас у выжатых (соков) для великого (почитания).  

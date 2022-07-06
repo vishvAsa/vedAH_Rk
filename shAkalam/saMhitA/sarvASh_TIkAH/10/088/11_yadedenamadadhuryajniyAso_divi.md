@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यदे꣡द् एनम् अ꣡दधुर् यज्ञि꣡यासो  
 दिवि꣡ देवाः꣡ सू꣡रियम् आदितेय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् इ꣡त् प्रा꣡पश्यन् भु꣡वनानि वि꣡श्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒दा । च॒रि॒ष्णू इति॑ । मि॒थु॒नौ । अभू॑ताम् । आत् । इत् । प्र । अ॒प॒श्य॒न् । भुव॑नानि । विश्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaded* ← *yadā*
 - \[adverb\]
@@ -120,7 +120,7 @@ popular
 **यदेत्** यदैव प्रातः **आदितेयम्** अदितेः पुत्रं **सूर्यम्** **एनम्** अग्निं च **यज्ञियासः** यज्ञार्हाः **देवाः** **दिवि** द्युलोके **अदधुः** धृतवन्तः । **यदा** चेमौ **चरिष्णू** चरणशीलौ सूर्यवैश्वानरौ **मिथुनावभूतां** प्रादुरभूताम् । **आदित्** अनन्तरमेव **विश्वा** विश्वानि **भुवनानि** भूतजातानि **प्रापश्यन्** तौ पश्यन्ति । अत्र यास्कः-’ यदैनमधुर्यज्ञियाः सर्वे दिवि देवाः सूर्यमदितेः पुत्रं यदा चरिष्णू मिथुनौ प्रादुरभूतां सर्वदा सहचारिणावुषाश्चादित्यश्च । मिथुनौ कस्मान्मिनोतिः श्रयतिकर्मा थु इति नामकरणस्थकारो वा नयतिः परो वनिर्वा समाश्रितावन्योन्यं नयतो वनुतो वा । मनुष्यमिथुनावप्येतस्मादेव मेथन्तावन्योन्यं वनुत इति वा ' ( निरु. ७. २९) इति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ popular
 Swift-moving pair: the dawn and the suṅNirukta 7.29
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the gods worthy of the sacrifice set him in heaven as the Sun, the  son of Aditi,  
 when the wandering pair [=Sun and Moon?] came into existence, only  after that did all living beings see in front of (them).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the Gods, whose due is worship, set him as Surya, Son of Aditi, in heaven,  
      When the Pair, ever wandering, sprang to being, all creatures that existed looked upon them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die opferwürdigen Götter ihn an den Himmel setzten, den Surya, der Aditi Sohn, als das wandelnde Paar erschien, da erst sahen alle Welten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als an den Himmel ihn die heil'gen setzten, als Sonnengott die Götter den Aditja, Als beide Zwillingswanderer erstanden, da konnten vor sich schauen alle Wesen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же достойные жертв боги поместили  
 Его на небо, Сурью, сына Адити,  

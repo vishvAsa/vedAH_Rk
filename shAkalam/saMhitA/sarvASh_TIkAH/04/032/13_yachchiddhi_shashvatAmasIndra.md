@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡च् चिद् धि꣡ श꣡श्वताम् अ꣡सि  
 इ꣡न्द्र सा꣡धारणस् तुव꣡म्  
 तं꣡ त्वा वयं꣡ हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 तम् । त्वा॒ । व॒यम् । हा॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yac* ← *yat*
 - \[adverb\]
@@ -91,40 +91,40 @@ genre M
 हे **इन्द्र** **त्वं** **यच्चिद्धि** यद्यपि खलु **शश्वतां** बहूनां सर्वेषां यजमानानां **साधारणः** **असि** सामान्यो भवसि । तथापि **तम्** एव **त्वा** त्वां **वयं** स्तोतारः **हवामहे** आह्वयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Although, **Indra**, you are the common property of (all) worshippers, we invoke you (such) as your are (for ourselves).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even though you are the support common to each and every one, Indra, we summon you to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The use of śáśvant- here seems unconnected to the comparative śáśīyaṃsin 3a. Since vs. 13 is found also in VIII.65.7, it may simply have been imported from elsewhere; the structure of this hymn is very loose and seems to have been cobbled together from standard tropes and formulae.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Indra, verily thou art the general treasure even of all .  
      Thee, therefore, do we invocate.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ob du zwar all den Vielen gemeinsam bist, Indra, so rufen wir dich doch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weil du Gemeingut aller bist, sie alle stützend immerdar, So rufen wir, o Indra, dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И хотя ты бываешь  
 Общим для всех, о Индра,  

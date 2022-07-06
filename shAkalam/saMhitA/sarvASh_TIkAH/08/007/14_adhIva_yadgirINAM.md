@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धीव य꣡द् गिरीणां᳐꣡  
 या꣡मं शुभ्रा अ꣡चिधुवम्  
 स्वानइ꣡र्° मन्दध्व इ꣡न्दुभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒वा॒नैः । म॒न्द॒ध्वे॒ । इन्दु॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhīva* ← *adhi*
 - \[adverb\]
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे शुभ्राः शोभमाना मरुतः **गिरीणां** पर्वतानाम् **अधीव** उपरीव **यत्** यदा **यामं** युष्मदीयं रथम् **अचिध्वं** गमनसाधनैरश्वादिभिः उपचितं कुरुथ तदानीं **सुवानैः** अभिषूयमाणैः **इन्दुभिः** सोमैः **मन्दध्वे** मादयध्वे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, bright (**Maruts**), you harness your car over the mountains, then you exhilarate (yourselves) withthe effusing **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, as if on (the byways) of the peaks, you have set your attention  on your course, resplendent ones,  
 you become exhilarated with the drops being pressed [/sounding].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I supply loc. upahvaré(ṣu) in a because ádhi doesn’t take the genitive (so can’t be directly construed with girīṇā́m as Geldner does), on the basis of the immediately preceding hymn VIII.6.28 upahvaré girīṇā́m and the Marut hymn I.87.2 upahvaréṣu yád ácidhvaṃ yayím, whose phraseology is very close to this.
 
@@ -104,28 +104,28 @@ As in VIII.6.38 (q.v) I take svāná- as a pun, both a passively used root aor.
 mediopassive participle to √su ‘press’ (‘being pressed’), which is eminently appropriate for drops, and a thematic adj. to √svan ‘sound’. Although the latter may seem less characteristic of drops, see 16a drapsā́iva … dhámanti “like droplets they blow their blast,” as well as 17a, where svāná- seems to encapsulate the same pun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Bright Ones, hither from the hills ye have resolved to take your way,  
      Ye revel in the drops effused.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 When you, as if from mountain tops, Have, bright ones, willed to take your way, You in the drops distilled rejoice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr Schmucke gleichsam über die Berge die Fahrt beschlossen habt, dann berauschet ihr euch an den gepreßten Säften.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da glänzend wie von Bergeshöhn ihr eure Fahrt begonnen habt, So lasst durch Tränke euch erfreun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда вы, о прекрасные, задумали  
 Поход словно через горы,  

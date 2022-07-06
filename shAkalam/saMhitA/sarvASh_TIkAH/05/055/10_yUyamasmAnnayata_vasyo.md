@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूय꣡म् अस्मा꣡न् नयत व꣡स्यो अ꣡छा  
 नि꣡र् अंहति꣡भ्यो मरुतो गृणानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वयं꣡ सियाम प꣡तयो रयीणा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 जु॒षध्व॑म् । नः॒ । ह॒व्यऽदा॑तिम् । य॒ज॒त्राः॒ । व॒यम् । स्या॒म॒ । पत॑यः । र॒यी॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -115,31 +115,31 @@ genre M;; repeated line
 हे **मरुतः** **यूयमस्मान्** **वस्यः** वसीयो धनं स्वर्गादिलक्षणं स्थानं वा **अच्छ** अभिलक्ष्य **नयत** प्रापयत । किंच **अंहतिभ्यः** पापेभ्यः **निः** नयत निर्गमयत **गृणानाः** स्तूयमानाः ॥ कर्मणि कर्तृप्रत्ययः ॥ **जुषध्वं** सेवध्वं **नः** अस्माकं **हव्यदातिं** हविर्दानवन्तं यज्ञं हे **यजत्राः** यष्टव्या यूयम् ।  **वयं** च **रयीणां** बहुविधानां धनानां **पतयः** **स्याम** भवेम ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Maruts**, conduct us to opulence; propitiated by our praises, extricate us from sin; accept, adorable (Maruts), our offered oblation, and may we be the possessors of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do you lead us to a better (state), away from dire straits, Maruts, when  you are being hymned.  
 Enjoy our oblation-giving, you who deserve the sacrifice. May we be  lords of riches.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Maruts, lead us on to higher fortune deliver us, when lauded, from afflictions.  
      Accept, ye Holy Ones, the gifts we bring you. May we be masters of abundant riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Führet ihr uns zum Besseren aus allen Nöten, ihr Marut, die ihr gepriesen seid! Lasset euch unsere Opfergabe gefallen, ihr Opferwürdige! Wir möchten Besitzer von Reichtümern sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспетые, о Маруты, ведите вы нас  
 К лучшему, от невзгод (подальше)!  

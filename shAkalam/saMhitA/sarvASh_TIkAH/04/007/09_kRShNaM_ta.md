@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृष्णं꣡ त ए꣡म रु꣡शतः पुरो꣡ भा꣡श्  
 चरिष्णु꣡ अर्चि꣡र् व꣡पुषाम् इ꣡द् ए꣡कम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सद्य꣡श् चिज् जातो꣡ भ꣡वसी꣡द् उ दूतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । अप्र॑ऽवीता । दध॑ते । ह॒ । गर्भ॑म् । स॒द्यः । चि॒त् । जा॒तः । भव॑सि । इत् । ऊं॒ इति॑ । दू॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛṣṇaṃ* ← *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], nominative, singular, neuter
@@ -147,20 +147,20 @@ genre M
 हे अग्ने **रुशतः** रोचमानस्य **ते** तव संबन्धि । अत्र एमञ्शब्देन गमनमार्ग उच्यते । **एम** वर्त्म **कृष्णं** कृष्णवर्णं भवति । **भाः** तव संबन्धिनी दीप्तिः **पुरः** पुरस्ताद्भवति । **चरिष्णु** संचरणशीलम् **अर्चिः** त्वदीयं तेजः **वपुषां** वपुष्मतां रूपवताम् । तेजस्विनामित्यर्थः । **एकम्** **इत्** मुख्यमेव भवति । **यत्** यं त्वाम् **अप्रवीता** अनुपगता यजमानाः **गर्भं** त्वज्जननहेतुमरणिं **दधते** **ह** धारयन्ति खलु । स त्वं **सद्यश्चित्** सद्य एव **जातः** उत्पन्नः सन् **दूतः** **भवसीदु** यजमानस्य दूतो भवस्येव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Dark is the path of you wo are bright; the light is before you; your moving radiance is the chief of (all luminous) bodies; when the present (worshippers) take up the germ (in the sticks of attrition) you are speedily genitive rated, and become indeed the messenger (of the sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Black is your course, (though) you are gleaming; your light is in front.  The flickering beam of your (various) wondrous forms is single  
 when (your mothers, though) not impregnated, conceive an embryo,  and you, even immediately at birth, become a messenger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. of this vs. differs from the standard ones in several ways. First, in b most tr. take vápuṣām íd ékam as a nominal sentence: “(this is) one of the wonders.” In contrast, I take b as describing the moment of the birth of the ritual fire: a single physical flame rising from the wood, though it is well known that Agni has many forms (vápūṃṣi e.g., III.1.8, 18.5, 55.9). Thus, ékam modifies arcíḥ, and the pāda is a single clause.
 
@@ -169,28 +169,28 @@ Pādas bc then sketch a double paradox: the beam of the just-born Agni is single
 The published translation takes pāda d as a subordinate clause, still under the control of yád beginning pāda c, primarily because of the accent on bhávasi. However, it is quite possible that d is a separate main clause (“immediately at birth, you become a messenger”) with the verbal accent owing to the immediately following íd. Many of the exx. given by Grassmann (no. 5, s.v. íd) of accented verbs followed by íd are pāda-initial and therefore non-probative (since they would be accented anyway), but there is a sturdy residue of non-initial apparent main clause verbs with accent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright God, thy path is black: light is before thee: thy moving splendour is the chief of wonders.  
      When she, yet unimpregnate, hath conceived thee, even when newly born thou art an envoy.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thy path is black. Light is before thee, the red one. Thy flame is speedy. This is one of the wonders: when the virgin conceives (thee as her) child 1, thou becomest a messenger, as soon as thou art born.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schwarz ist dein Weg, während du hell bist; vor dir ist heller Schein, wandelnd deine Flamme - eines der Wunder! Das andere ist, daß die Mutter unbelegt die Leibesfrucht empfängt und du geboren sofort Bote wirst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Weg ist hell, voran geht Glanz dem Hellen, und flatternd Licht ist der Gestalten eine; Kaum hat die Jungfrau ihren Sohn geboren, so bist du gleich nach der Geburt schon Bote.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Черен путь у тебя, светлого. Впереди сияние –  
 Подвижное пламя – вот одно из чудес.  

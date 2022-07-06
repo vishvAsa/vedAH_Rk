@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ यज्ञ꣡म् बर्हि꣡षि प्रउ꣡क्षन्  
 पु꣡रुषं जात꣡म् अग्रतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 साधिया꣡ ऋ꣡षयश् च ये꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 तेन॑ । दे॒वाः । अ॒य॒ज॒न्त॒ । सा॒ध्याः । ऋष॑यः । च॒ । ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
@@ -110,7 +110,7 @@ popular;; epic anuṣṭubh (380)
 यज्ञं यज्ञसाधनभूतं **तं** पुरुषं पशुत्वभावनया यूपे बद्धं **बर्हिषि** मानसे यज्ञे **प्रौक्षन्** प्रोक्षितवन्तः । कीदृशमित्यत्राह। **अग्रतः** सर्वसृष्टेः पूर्वं **पुरुषं** **जातं** पुरुषत्वेनोत्पन्नम् । एतच्च प्रागेवोक्तं तस्माद्विराळजायत विराजो अधि पूरुषः' इति । तेन पुरुषरूपेण पशुना **देवा** **अयजन्त** । मानसयागं निष्पादितवन्त इत्यर्थः । के ते देवा इत्यत्राह। **साध्याः** सृष्टिसाधनयोग्याः प्रजापतिप्रभृतयः तदनुकूलाः **ऋषयः** मन्त्रद्रष्टारः **च** **ये** सन्ति । ते सर्वेऽप्ययजन्तेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,30 +121,30 @@ popular;; epic anuṣṭubh (380)
 **Sādhya** = competent to create, i.e.,**Prajāpati** and the rest
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On the ritual grass they consecrated that sacrifice, the Man, born at the  beginning.  
 With him the gods sacrificed, (also) the Sādhyas and those who  
 were seers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They balmed as victim on the grass Purusa born in earliest time.  
      With him the Deities and all Sadhyas and Rsis sacrificed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus diesem vollständig geopferten Opfer wurde das Opferschmalz gewonnen. Das machte er zu den in der Luft, im Wald und im Dorfe lebenden Tieren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opferschmalz; er schuf die Thiere der Luft, der Wälder und der Dörfer [die Hausthiere].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из этой жертвы, полностью принесенной  
 Было собрано крапчатое жертвенное масло.  

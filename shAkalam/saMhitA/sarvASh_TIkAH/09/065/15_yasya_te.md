@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य ते म꣡दियं र꣡सं  
 तीव्रं꣡ दुह꣡न्ति अ꣡द्रिभिः  
 स꣡ पवस्वाभिमातिहा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सः । प॒व॒स्व॒ । अ॒भि॒मा॒ति॒ऽहा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -89,19 +89,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **यस्य** **ते** तव **मद्यं** मदकरं **तीव्रं** क्षिप्रं मदकारिणं **रसम्** **अद्रिभिः** ग्रावभिरध्वर्वातेदयः **दुहन्ति** अभिषुण्वन्ति **सः** तादृशस्त्वं **अभिमातिहा** । अभितो मातिरभिमानं येषां ते शत्रवः । पापरूपाणां शत्रूणां हन्ता सन् **पवस्व** सर्वतो गच्छ। येऽभिषुण्वन्ति ते पापरहिताः सुकृतिनो भवन्तीत्यर्थः ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you whose, sharp exhilarating juice the priests express with the stones, flow the destroyer of the evil-minded.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, whose exhilarating, sharp sap they milk out with stones— purify yourself as smasher of hostility.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A rare sign of hostility (abhimāti-hán- ‘smasher of hostility’) in these anodyne Gāyatrī assemblages.
 
@@ -115,23 +115,23 @@ Again, no signs of unity.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O thou whose potent gladdening juice they milk out with the stones, flow on,  
      Destroyer of our enemies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere du dich als Feindevernichter, dessen berauschenden scharfen Saft sie mit den Steinen ausmelken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, dessen starkes Rauschgebräu sie mit den Steinen melken aus, Die Feinde schlagend flammenhell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

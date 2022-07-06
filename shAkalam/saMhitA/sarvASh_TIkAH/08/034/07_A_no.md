@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो याहि महेमते  
 स꣡हस्रोते श꣡तामघ  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं यय꣡ दिवावसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दि॒वः । अ॒मुष्य॑ । शास॑तः । दिव॑म् । य॒य । दि॒वा॒व॒सो॒ इति॑ दिवाऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -93,35 +93,35 @@ genre M;; repeated line
 हे **महेमते** महाबुद्धे **सहस्रोते** सहस्ररक्षण **शतामघ** बहुधनेन्द्र त्वं **नः** अस्मान् **आ** **याहि** आगच्छ । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sagacious (**Indra**) bestower of numerous protections, granter of infinite wealth, come uno us; do you,ruling yonder heaven, O radiant with oblations, return here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here—drive here to us, you of great thought, of a thousand forms of  help, a hundred bounties,  
 o you who bring goods by day—(though) you (other gods), who impose  order over yonder heaven, have driven off to heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Lord of lofty thought, who hast infinite wealth and countless aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm zu uns, Hochgesinnter, tausend Hilfen, hundert Gaben Bringender! - Über jenen Himmel herrschend seid ihr ja in den Himmel gegangen, o Divavasu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm hochgesinnter zu uns her mit tausend Hülfen, hundertreich; Von jenes Herrschers Himmel kamt ihr zu dem Feste tageshell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходи к нам, о великий мыслью,  
 О ты с тысячей поддержек, с сотней даров!  

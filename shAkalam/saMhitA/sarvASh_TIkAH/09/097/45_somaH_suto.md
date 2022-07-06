@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मः सुतो꣡ धा꣡रया꣡त्यो न꣡ हि꣡त्वा  
 सि꣡न्धुर् न꣡ निम्न꣡म् अभि꣡ वाजी꣡ अक्षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡म् इ꣡न्दुर् गो꣡भिर् असरत् स꣡म् अद्भिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । योनि॑म् । वन्य॑म् । अ॒स॒द॒त् । पु॒ना॒नः । सम् । इन्दुः॑ । गोभिः॑ । अ॒स॒र॒त् । सम् । अ॒त्ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -141,20 +141,20 @@ genre M
 सुतोभिषुतः सोमोधारयास्वीयया अत्योनअतनशीलोश्वइव हित्वागत्वा हिनोतेः क्वनि- पिरूपम् । किञ्च वाजी बलवान् सोमः सिन्धुर्न यथासिन्धुः स्यन्दमाना नदी निम्नं प्रदेश- मभिगच्छति तद्वत् निम्नमधरभाविनं कलशमभ्यक्षाः अभिक्षरति । ततः पुनानः पूयमानः सोमः वन्यं वृक्षभवं योनिं योनिस्थानं कलशं आसदत् आसीदति । सोयमिन्दुः सोमः गीर्भिर्गोविकारैः क्षीरादिभिः श्रयणैः सं असरत् संसरति तथा अद्भिर्वसतीवरोभिश्च सङ्ग- च्छते ॥ ४५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** effused in a stream, going like a horse flows powerful like a river down a descent; purified he alights on the wooden abode; **Indu** mixes with the milk and curds, (mixes) with the water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma, pressed in a stream, driving like a steed, has streamed like a river  to the deep, as prizewinner.  
 He has sat in the wooden womb while being purified. The drop has  flowed together with the cows, with the waters.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
 <details open><summary><h2>43-45 ...{Loading}...</h2></summary>
 
@@ -164,23 +164,23 @@ The tṛca has a superficial unity from the (over-)abundance of forms of √pū,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong Soma, pressed, like an impetuous courser, hath flowed in stream as a flood speeding downward.  
      Cleansed, he hath settled in his wooden dwelling: Indu hath flowed with milk and with the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der in Strömen ausgepreßte Soma ist wie ein angesporntes Rennpferd, wie ein Strom abwärts geflossen, den Preis gewinnend. Er hat sich in den hölzernen Schoß gesetzt, sich läuternd. Der Saft ist mit den Kühen, mit dem Wasser zusammengeflossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst hat Soma sich im Strom ergossen gleich schnellem Renner, wie ins Thal der Fluss rinnt, Gereinigt setzt er in den Sitz von Holz sich, mit Milch und Wasser hat geströmt der Indu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома, выжатый, потек потоком, бросившись,  
 Как скакун, как река в низину, (этот) конь-победитель.  

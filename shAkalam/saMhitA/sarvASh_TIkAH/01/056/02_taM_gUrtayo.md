@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ गूर्त꣡यो नेमन्नि꣡षः प꣡रीणसः  
 समुद्रं꣡ न꣡ संच꣡रणे सनिष्य꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 गिरिं꣡ न꣡ वेना꣡ अ꣡धि रोह ते꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पति॑म् । दक्ष॑स्य । वि॒दथ॑स्य । नु । सहाः । गि॒रिम् । न । वे॒नाः । अधि॑ । रो॒ह॒ । तेज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -121,7 +121,7 @@ genre M
 क्विप् च ' इति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । यद्वा ।' णीञ् प्रापणे ' इत्यस्मात् ' अर्तिस्तुसु° ' इत्यादिना मन्प्रत्ययः । बहुलवचनात् नकारस्य इत्संज्ञाभावः। नीताः प्रत्ता इषो येषाम् । “ परादिश्छन्दसि बहुलम् ' इत्युत्तरपदाद्युदात्तत्वम् । परीणसः। ‘णस कौटिल्ये' इत्ययं धातुर्गत्यर्थो धातूनामनेकार्थत्वात् । परितो नसन्ति गच्छन्तीति परीणसः । **क्विप्** च ' इति क्विप् ।' निपातस्य च' इति पूर्वपदस्य दीर्घत्वम् ।' उपसर्गादसमासेऽपि ' इति णत्वम् । व्यत्ययेनाद्युदात्तत्वम् । यद्वा । नशतिर्गतिकर्मा । अस्मात् पूर्ववत् क्विपि शकारस्य सकारः। सनिष्यवः। ‘षणु दाने' इत्यस्मात् ‘इन्सर्वधातुभ्यः' इति कर्मणि इन्प्रत्ययः । सनिमात्मन इच्छन्तीति क्यचि ‘सर्वप्रातिपदिकेभ्यो लालसायामसुग्वक्तव्यः सुगागमोऽपि वक्तव्यः' (का. ७. १. ५१. ३) इति सुक्।  ‘ क्याच्छन्दसि' इति उप्रत्ययः । नु । ऋचि तुनुघ' इति सांहितिको दीर्घः । सहः । अस्मादुत्तरस्य मतुपः छान्दसो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,7 +132,7 @@ genre M
 Women climb a hill to gather flowers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our greetings in profusion, seeking his leadership, (go) seeking to win  him, like (rivers) in their converging on the sea.  
 With your sharpness, (o Soma,) ascend to the lord of skill,  
@@ -140,30 +140,30 @@ With your sharpness, (o Soma,) ascend to the lord of skill,
 a mountain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On nemanníśaḥ see the lengthy treatment by Scarlatta (55-56). I take párīṇasaḥ somewhat loosely, following Grassmann, as an adverbial ablative.
 
 In c Geldner takes sáhaḥ as a pāda-final truncation of instr. sáhasā as sometimes elsewhere, but this seems unnecessary. In the final verse of the preceding hymn (55.8) Indra took sáhas- into his body. It does not seem odd that he would here be identified as sáhas- itself. The odd placement of nū́may support this analysis: the NP vidáthasya … sáhaḥ may be structurally parallel to pátiṃ dákṣasya, and the 2ndposition nū́could mark the second NP as a new syntactic unit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him the guidance-following songs of praise flow full, as those who seek gain go in company to the flood.  
      To him the Lord of power, the holy synod's might, as to a hill, with speed, ascend the loving ones.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm sollen die Lobesworte, die vollzähligen Labungen sich zuwenden wie die Gewinnsuchenden auf ihrer Fahrt dem Meere. Zum Herrn der Kraft steig mit der Weisheit Macht, mit Schneid empor wie Späher auf einen Berg!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Loblieder der Leitung folgend kommen zu ihm zusammen [sám caranti aus samcáraṇe zu ergänzen], wie Gewinnsüchtige zum Meere, wenn sie zusammenfahren, zum Herrn der Kraft nun der Opferversammlung Drang (?), besteige sie [die Lieder] in Eile, wie die sehnsüchtig erwartenden einen Berg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нему спешат хвалы, поклоняясь, принося полноту богатства,  
 Вожделея добычи, как (реки) – в совместном течении к океану.  

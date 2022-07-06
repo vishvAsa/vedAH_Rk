@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमउ꣡ देवउ꣡ जा꣡यमानौ जुषन्त  
 इमउ꣡ त꣡मांसि गूहताम् अ꣡जुष्टा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सोमापूष꣡भ्यां जनद् उस्रि꣡यासु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 आ॒भ्याम् । इन्द्रः॑ । प॒क्वम् । आ॒मासु॑ । अ॒न्तरिति॑ । सो॒मापू॒षऽभ्या॑म् । ज॒न॒त् । उ॒स्रिया॑सु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imau* ← *idam*
 - \[noun\], accusative, dual, masculine
@@ -113,7 +113,7 @@ genre D
 इमौ सोमापूषणौ देवौ द्योतमानौ जायमानौ उत्पन्नमात्रावेव जुषन्त सर्वेदेवाः अजुषन्त सेवितवन्तइतियावत् किञ्च इमौ सोमापूषणौ अजुष्टा आसेव्यानितमांसि गूहतान्नाशयतः किञ्च आभ्यामेताभ्यां सोमापूषभ्यांसहइन्द्रः आमासुतरुणीषुउस्रियासुगोष्वन्तर्मध्येऊधःप्रदेशेपक्वं परि क्वम्पयोजनत् जनयति ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre D
 The mature milk: i.e. the rain inthe clouds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These two gods here, as they were being born, did (the gods) enjoy. These  two hid the unenjoyable shades of darkness.  
 For these two, for Soma and Pūṣan, Indra begot the cooked [=milk]  within the raw, within the ruddy ones [=cows].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The etym. figure involving √jan noted ad vs. 1 continues here with intrans.- pass. jā́yamānau (a) and transitive janat (d). Another figure involves √juṣ ‘enjoy’, likewise with trans. vs. pass. manifestations: juṣanta (a), ájuṣtā (b), both pāda-final.
 
@@ -139,23 +139,23 @@ This vs. contains three injunctives: juṣanta (a), gūhatām (b), janat (d), th
 Another ambiguity is posed by ābhyā́m … somāpūṣ́abhyām in cd, which can be instr., dat., or abl. dual. Geldner takes it as instr.: Indra performed this feat along with the two gods; Renou and Witzel Gotō (see also Hoffmann, Injunk. 124, 193-94) as a dat.: Indra did it for them. I also interpr. the phrase as a dat. -- though not with any strong conviction. On the one hand this deed (putting “raw” milk into “cooked” cows) is almost always attributed to Indra alone, so having Soma and Pūṣan as his accomplices seems somewhat unlikely. But on one occasion (VI.72.4) it's attributed to Indra and Soma in a dual dvandva índrāsomā. However, that hymn basically lays out Indra's great deeds and attributes them to Indra and Soma jointly, so there's no independent evidence of Soma's involvement in this action. As for how they could benefit from the exploit and thus be in the dative -- Soma would benefit from the creation of milk because he (or the ritual substance bearing his name) is mixed with milk in the Soma Sacrifice (a point also made by Witzel Gotō). But what Pūṣan would gain from it isn’t clear -- unless he likes milk with his habitual food, porridge (karambhá- ). (We should probably be wary of reading Anglo-American breakfast habits back into Vedic India.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At birth of these two Gods all Gods are joyful: they have caused darkness, which we hate, to vanish.  
      With these, with Soma and with Pusan, India generates ripe warm milk in the raw milch-cows.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Über die Geburt dieser beiden Götter freuten sich alle Götter; sie beseitigten die unerfreuliche Finsternis. Mit beiden, mit Soma und Pusan erzeugte Indra die gekochte Milch in den rohen Kühen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie seien hold uns, die gebornen Götter, sie mögen bergen das verhasste Dunkel; Für diese beiden: Soma, Puschan, zeuge die gare Milch in rohen Kühen Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они радовались, когда эти два бога рождались:  
 "Пусть эти двое скроют безрадостный мрак!"  

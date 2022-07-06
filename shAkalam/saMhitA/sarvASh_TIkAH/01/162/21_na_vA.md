@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ वा꣡ उ एत꣡न् म्रियसे न꣡ रिष्यसि  
 देवाँ꣡ इ꣡द् एषि पथि꣡भिः सुगे꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡पास्थाद् वाजी꣡ धुरि꣡ रा꣡सभस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 हरी॒ इति॑ । ते॒ । युञ्जा॑ । पृष॑ती॒ इति॑ । अ॒भू॒ता॒म् । उप॑ । अ॒स्था॒त् । वा॒जी । धु॒रि । रास॑भस्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -134,37 +134,37 @@ popular
 **न** **वा** **उ** नैव खलु **एतन्म्रियसे** । वैशब्दः एवकारार्थः । उ इत्यवधारणे । नैव इदानीम् इतराश्ववत् मृतो भवसि देवत्वप्राप्तेर्वक्ष्यमाणत्वात्। अत एव **न** **रिष्यसि** न हिंस्यसे । व्यर्थहिंसायाः अभावात् । ननु प्रत्यक्ष्यतो मृतिः अवयवनाशश्च दृश्यते कथमेवमुच्यते इति । उच्यते। **सुगेभिः** **पथिभिः** शोभनगमनसाधनैर्मार्गैः देवयानलक्षणैः **देवान** **इत्** **एषि** देवानेव प्राप्नोषि। अतो युक्तैषोक्तिः। कैः साधनैरिति तत्राह। **ते** त्वां वोढुं **हरी** एतन्नामानौ इन्द्रस्याश्वौ ते तव **युञ्जा** रथे युक्तौ **अभूतां** भविष्यतः । आशंसारूपत्वात् भूतार्थनिर्देशः । ‘हरी इन्द्रस्य' (नि. १. १५. १) इति निरुक्तम् । तथा **पृषती** पृषत्यौ मरुतां वाहनभूतौ युञ्जा' अभूतां युक्तौ भविष्यतः । ‘पृषत्यो मरुताम् ' (नि. १. १५. ६) इति च निरुक्तम् ॥ युजेः ‘ऋत्विक् ' इत्यादिना क्विन् । 'युजेरसमासे' (पा. सू. ७. १. ७१ ) इति नुम् । ‘सुपां सुलुक्' इति आकारः॥ तथा **रासभस्य** अश्विवाहनस्य एतन्नामकस्याश्वस्य **धुरि** स्थाने वर्तमानः कश्चित् **वाजी** **उपास्थात्** उपस्थास्यति वहतीत्यर्थः। यद्वा । रासभस्य भानोः धुरि वर्त्मनि युक्तो वाजी अश्वः उपस्थास्यति देवस्वं गच्छतस्तव गमनाय इन्द्रादयः स्वस्ववाहनानि प्रेषयन्तीत्यर्थः । यद्वा । तत्तद्देवभावमापन्नं त्वां तानि तानि वाहनानि वहन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily at this moment you do not die; nor are you harmed; for you go by auspicious paths to the gods. The horses of **Indra**, the steeds of the **Maruts** shall be yoked (to their ears), and a courser shall be plural ced in the shaft of the ass of the **Aśvins** (to bear you to heaven).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Truly in this way you do not die nor are you harmed: you go to the gods  by paths easy to travel.  
 The two fallow bays (of Indra) and the two dappled mares (of the  
 Maruts) have become your yokemates. The prizewinning (horse) has  taken his place at the chariot-pole of the (Aśvins’) donkey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No, here thou diest not, thou art not injured: by easy paths unto the Gods thou goest.  
      Both Bays, both spotted mares are now thy fellows, and to the ass's pole is yoked the Charger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrlich, nicht stirbst du dabei, nicht nimmst du Schaden. Zu den Göttern gehst du auf gangbaren Wegen. Die beiden Falben, die beiden Schecken sind deine Jochgenossen geworden; das Streitroß ward an die Deichsel des Esels eingestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fürwahr nicht stirbst du hier, nicht leidest du Schaden; nein, zu den Göttern gehst du auf schöngebahnten Pfaden; die beiden goldfarbnen Rosse [des Indra], die weissgefleckten Gazellen [der Maruts] sind deine Genossen geworden; an des Eselhengstes Deichsel hat sich das schnelle Ross gestellt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты же тут не умираешь, не терпишь ущерба.  
 К богам ты идешь легкими путями.  

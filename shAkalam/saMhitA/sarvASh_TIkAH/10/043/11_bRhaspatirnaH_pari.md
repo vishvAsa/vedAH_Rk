@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृ꣡हस्प꣡तिर् नः प꣡रि पातु पश्चा꣡द्  
 उतो꣡त्तरस्माद् अ꣡धराद् अघायोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡खा स꣡खिभ्यो व꣡रिवः कृणोतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इन्द्रः॑ । पु॒रस्ता॑त् । उ॒त । म॒ध्य॒तः । नः॒ । सखा॑ । सखि॑ऽभ्यः । वरि॑वः । कृ॒णो॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,30 +135,30 @@ Sayana bhashya empty
 Theṛcas 10 and 11 are repetitions of ṛcas 10 and 11 of the previous **sūkta**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra, lord of the formulation, protect us all around, from behind  and from above and from below, from him who wishes ill—  
 from in front and from the middle. Let him, as partner, create wide  
 space for his partners.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brhaspati protect us from the rearward, and from above, and from below, from sinners.  
      May Indra from the front, and from the centre, as Friend to friends, vouchsafe us room and freedom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati soll uns von hinten und von oben, von unten vor dem Übelwollenden schützen, Indra soll uns von vorn und in der Mitte als Freund den Freunden einen Ausweg schaffen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, Von Osten Indra und aus unsrer Mitte; der Freund verschaffe weiten Raum uns Freunden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Брихаспати пусть защитит нас сзади,  
 А также сверху и снизу от злоумышленника,  

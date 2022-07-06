@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मां᳐꣡ देवा꣡ दधिरे हव्यवा꣡हम्  
 अ꣡पम्लुक्तम् बहु꣡ कृछ्रा꣡ च꣡रन्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡ञ्चयामं त्रिवृ꣡तं सप्त꣡तन्तुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒ग्निः । वि॒द्वान् । य॒ज्ञम् । नः॒ । क॒ल्प॒या॒ति॒ । पञ्च॑ऽयामम् । त्रि॒ऽवृत॑म् । स॒प्तऽत॑न्तुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *māṃ* ← *mām* ← *mad*
 - \[noun\], accusative, singular
@@ -125,7 +125,7 @@ popular
 **माम्** अग्निं **देवाः** **हव्यवाहं** हविर्वोढारं **दधिरे** कृतवन्तः । कीदृशं माम्। **अपम्लुक्तम्** अपक्रम्यागतं **बहु** **कृच्छ्रा**। बहूनि कृच्छाणि स्थानानि **चरन्तं** गच्छन्तम् । कया मनीषया दधिर इत्युच्यते । अयम् **अग्निर्विद्वान्** सर्वं जानन् **नः** अस्माकं **यज्ञं** **कल्पयाति** कल्पयति । कीदृशं यज्ञम् । **पञ्चयामं** पञ्चविधगमनम् । पाङ्क्तो हि यज्ञः। **त्रिवृतं** सवनत्रयभेदेन त्रिप्रकारं सप्ततन्तुं सप्तभिश्छन्दोमयैः स्तुतिभिर्विस्तृतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,30 +136,30 @@ popular
 Five ways: a reference to the pāṅkta **yajña**; of three kinds: the three dailySoma libations; seven threads: seven metres of the **mantras**; or, having seven performers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] The gods have installed me as conveyor of the oblation—I who  had slipped away, undergoing many troubles:  
 “Agni, the knowing one, will arrange the sacrifice for us, with its five  
 courses, three turns, seven threads.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Gods have made me bearer of oblations, who slipped away and passed through many troubles.  
      Wise Agni shall ordain for us the worship, whether five-wayed, threefold, or seven-threaded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mich haben die Götter zu ihrem Opferführer bestellt, den Verschwundenen, der viele Mühsale durchmachte: Agni, der Kundige, soll unser Opfer regeln, das fünf Gänge, drei Schichten, sieben Fäden hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Die Götter machten mich zum Opferfahrer, der ich versteckt in viele Noth verstrickt war«; »Agni versteht's, er rüste uns das Opfer mit sieben Fäden, dreifach, mit fünf Gängen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Меня боги определили перевозчиком жертв,  
 Исчезнувшего, встречающегося со многими трудностями.  

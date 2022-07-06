@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पृष्टो꣡ दिवि꣡ धा꣡यि अग्निः꣡ पृथिव्यां꣡  
 नेता꣡ सि꣡न्धूनां वृषभ꣡ स्ति꣡यानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वैश्वानरो꣡ वावृधानो꣡ व꣡रेण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । मानु॑षीः । अ॒भि । विशः॑ । वि । भा॒ति॒ । वै॒श्वा॒न॒रः । व॒वृ॒धा॒नः । वरे॑ण ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pṛṣṭo* ← *pṛṣṭaḥ* ← *pracch*
 - \[verb noun\], nominative, singular
@@ -118,36 +118,36 @@ genre M
 **सिन्धूनां** नदीनां **नेता** **स्तियानाम्** अपाम् । ‘स्तिया आपो भवन्ति स्यायनात् ' (निरु. ६. १७) इति यास्कवचनात् । **वृषभः** वर्षिता **पृष्टः** अर्चितः तेजसा संपृक्तो वा यः **अग्निः** **दिवि** अन्तरिक्षे **पृथिव्यां** च **धायि** न्यधायि **सः** **वैश्वानरः** विश्वनरहितोऽग्निः **वरेण** श्रेष्ठेन हविषा तेजसा वा **वावृधानः** वर्धमानः सन् **मानुषीः** **विशः** **अभि** मानुषीः प्रजा: प्रति **वि** **भाति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, the leader of the rivers, the showerer of the waters, the radiant, has been stationed in thefirmament and upon earth; **Viśvānara** augmenting with the most excellent (oblation) shines upon human beings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sought after in heaven, Agni has been placed on earth as the leader of  the rivers and the bull of standing waters.  
 He radiates outward toward the clans descended from Manu: Vaiśvānara  having grown strong according to his wish.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sought in the heavens, on earth is Agni stablished, leader of rivers, Bull of standing waters.  
      Vaisvanara when he hath grown in glory, shines on the tribes of men with light and treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Himmel erstarkt ward Agni auf Erden eingesetzt, der Lenker der Flüsse, der Bulle der stehenden Gewässer. Er überstrahlt die menschlichen Stämme, nach Wunsch großgeworden, der Vaisvanara.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Begehrt nahm Agni Platz in Erd' und Himmel, der Ströme Führer und der Herr der Gletscher; Den Menschenstämmen strahlet er entgegen, der Hort der Männer, wachsend durch die Gabe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Испрошенный у неба, Агни был помещен на земле  
 Как вождь рек, бык стоячих вод.  

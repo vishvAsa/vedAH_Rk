@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरा꣡ सम्बाधा꣡द् अभि꣡ आ꣡ ववृत्स्व नो  
 धेनु꣡र् न꣡ वत्सं꣡ य꣡वसस्य पिप्यु꣡षी  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡म् प꣡त्नीभिर् न꣡ वृ꣡षणो नसीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒कृत् । सु । ते॒ । सु॒म॒तिऽभिः॑ । श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो । सम् । पत्नी॑भिः । न । वृष॑णः । न॒सी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purā*
 - \[adverb\]
@@ -127,36 +127,36 @@ genre M
 हेइन्द्र सम्बाधात् शत्रुजन्यात्स्वम्बाधात्पुरानोस्मान् अभ्याववृत्स्व आवर्तय यथासम्बाधोस्मान् नस्पृशति तथाकुर्वित्यर्थः तत्रदृष्टान्तः—धेनुर्नवत्सं यथायवसस्यघासेनपिप्युषी आप्यायिता धेनुर्वत्सं क्षुद्बाधात्परावर्तयति तद्वत् हेशतक्रतो वयंसुमतिभिः त्वद्विषयैःशोभनैःस्तोत्रैः सकृत् सकृदपिसुनसी- महि सुष्थुव्याप्येमहि तत्रदृष्टान्तः—वृषणोन सेक्तारोयुवानःयथापत्नीभिर्व्याप्यन्तेतद्वत् ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Conduct us beforehand away from evil, as a cow grazing in a meadow leads her calf (out of peril); may we, **Śatakratu**, envelop you, if but once, with acceptable praises, as youthful husbands (are embraced) by their wives.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Before distress (strikes), turn here toward us, like a cow, milk-swollen  from the pasture, toward her calf.  
 At once we would happily unite with your favors, o you of a hundred  resolves, like bulls with their wives.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Turn thee unto us ere calamity come nigh, as a cow full of pasture turns her to her calf.  
      Lord of a Hundred Powers, may we once firmly cling to thy fair favours even as husbands to their wives.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bevor wir in die Enge getrieben werden, wende dich uns zu wie zu dem Kalbe die Kuh, die von der Weide voll Milch ist. Noch einmal wollen wir fein mit deinen Gnaden uns vereinen wie die Stiere mit den Weibchen, du Ratreicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her zu uns eh' uns Bedrängniss noch erreicht, wie zu dem Kalb die Kuh von Gras gesättigt eilt; Lass einmal doch mit deiner Huld, o kräftiger, vereint uns sein, wie Männer mit vermählten Frau'n.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Повернись к нам, чтобы (мы) не (попали) в беду,  
 Как дойная корова – к теленку, налившись молоком от зерна.  

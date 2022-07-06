@@ -8,7 +8,7 @@ title = "+037"
 ‘वार्त्रहत्याय' इत्येकादशर्चमष्टमं सूक्तम् । एकादश्यनुष्टुप् शिष्टा गायत्र्यः । तथा चानुक्रान्तं-- ’वार्त्रहत्याय गायत्रमन्त्यानुष्टुप् ' इति । अतिरात्रे प्रथमे पर्याये ब्राह्मणाच्छंसिशस्त्रे ' वार्त्रहत्याय' इति उत्तमावर्जं सूक्तं शंसनीयम् । तथा च सूत्रितं - ’वार्र्वहत्यायेत्युत्तमामुद्धरेत्' (आश्व.श्रौ. ६.४) इति । महाव्रते गायत्रीतृचाशीतावुत्तमावर्जमिदं सूक्तम् । पञ्चमारण्यके सूत्रितं-- वार्त्रहत्याय शवस इत्युत्तमामुद्धरति ' (ऐ. आ. ५. २. ५) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 37 (271)  
 Indra  
@@ -19,7 +19,7 @@ any of the god, which has been desired throughout the hymn; the name of the god 
 vides a fitting end to the rest. The name indra ́ opens the final pāda (11d). The “content” of the hymn is relatively conventional and clearly subordinate to  the rhetorical structure, but the light texture and balance of the phrases surround ing the all-important repeated name are quite pleasing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra I have endeavored to preserve in tr. the consistent position of índra- in each vs., for which see the published introduction. Other elements have had to be juggled; as is often the case, it is harder to honor the half-verse division in Gāyatrī than in trimeter.
 </details>

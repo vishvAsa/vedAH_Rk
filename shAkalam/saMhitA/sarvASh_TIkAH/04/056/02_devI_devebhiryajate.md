@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवी꣡ देवे꣡भिर् यजते꣡ य꣡जत्रैर्  
 अ꣡मिनती तस्थतुर् उक्ष꣡माणे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यज्ञ꣡स्य नेत्री꣡ शुच꣡यद्भिर् अर्कइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ऋ॒तव॑री॒ इत्यृ॒तऽव॑री । अ॒द्रुहा॑ । दे॒वपु॑त्रे॒ इति॑ दे॒वऽपु॑त्रे । य॒ज्ञस्य॑ । ने॒त्री इति॑ । शु॒चय॑त्ऽभिः । अ॒र्कैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devī*
 - \[noun\], nominative, dual, feminine
@@ -110,7 +110,7 @@ genre M
 **देवी** देव्यौ **यजते** यष्टव्ये **अमिनती** प्रजा अहिंसत्यौ **उक्षमाणे** सिञ्चत्यौ **ऋतावरी** ऋतवत्यौ **अद्रुहा** अद्रोग्ध्र्यौ द्रोहमकुर्वत्यौ **देवपुत्रे** देवोत्पादिक्यौ **यज्ञस्य** **नेत्री** निर्वाहयित्र्यौ द्यावापृथिव्यौ **देवेभिः** देवैः **यजत्रैः** यष्टव्यैः सहिते **शुचयद्भिः** शोचयद्भिः **अर्कैः** मन्त्रैः हविर्भिर्वा युक्ते **तस्थतुः** तिष्ठतः स्यातामित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,7 +121,7 @@ genre M
 Divine, adorable: the epithets are: **devī** yajate aminati ukṣamane, ṛtāvarī adruhā **deva** putre yajñasya netrī = lit. the shining, or, divine, objects of worship, unharming, sprinkling (rain, and therefore fertilizing), possessing truth, or water, or sacrifice, not oppressing or violent, having gods for sons, leaders of invesigators, or subjects of sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two goddesses deserving the sacrifice, along with the gods  
 deserving the sacrifice—they stay, not confounding (the heavenly  
@@ -132,30 +132,30 @@ two leaders of the sacrifice with its gleaming chants [/with their
 gleaming rays].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains several puns, including a repetition of śucáyadbhir árkaiḥ from 1d. The final word of the 1st hemistich ukṣámāṇe can belong either to √ukṣ ‘sprinkle’ or to √vakṣ ‘grow’, and both are appropriate. And the preceding negated participle áminatī can take different objects and utilize different senses of the root √mī. On the one hand, as Renou (and others) point out, the other occurrence of áminatī (I.92.12=124.2) takes daívyāni vratā́ni “heavenly commandments” as object.
 
 However, cf. nearby ámīta-varṇa- ‘of immutable color’ (IV.51.9), which supports Geldner’s “ohne (ihr Aussehen) zu verändern.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Goddesses with Gods, holy with holy, the Two stand pouring out their rain, exhaustless:  
      Faithful and guileless, having Gods for children, leaders of sacrifice with shining splendours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden opferwürdigen Göttinnen mit den opferwürdigen Göttern stehen ohne ihr Aussehen zu verändern da, Schmalz träufend, die gesetzestreuen, truglosen Göttereltern, die das Opfer mit den flammenden Preisliedern leiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die beiden heil'gen mit den heil'gen Göttern, die Welten standen unversehrt, erhaben, Wahrhaftig ohne Falsch, die Götterältern, das Opfer leitend mit den hellen Strahlen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Две богини, достойные жертв, вместе с богами, достойными жертв,  
 Не нарушая (вселенского закона), стоят, истекая (жиром),  

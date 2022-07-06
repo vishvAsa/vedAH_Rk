@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो अ꣡छा रिरिचे देवयु꣡ष् पद꣡म्  
 ए꣡को रुद्रे꣡भिर् याति तुर्व꣡णिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प꣡रि व ऊ꣡मेभियः सिञ्चता म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ज॒रा । वा॒ । येषु॑ । अ॒मृते॑षु । दा॒वने॑ । परि॑ । वः॒ । ऊमे॑भ्यः । सि॒ञ्च॒त॒ । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -131,36 +131,36 @@ genre M
 हे यजमानाः **देवयुः** देवान् कामयमानो होता **वः** युष्माकं **पदम्** **अच्छ** स्थानं प्रति **प्र** **रिरिचे** प्ररिक्तोऽभूत् । अथ होतृभ्यः सकाशात् **एकः** मुख्य इन्द्रः **रुद्रेभिः** रुद्रपुत्रैः मरुद्भिः सह **तुर्वणिः** क्षिप्रगामी सन् **याति** गच्छति युष्मदीयं यज्ञम् । **जरा** **वा**। वाशब्दोऽप्यर्थे । स्तुतिरपि **येष्वमृतेषु** मरणधर्मरहितेषु देवेषु **दावने** धनप्रदानाय समर्था भवति । तस्मात् **वः** यूयम्। छान्दसो वसादेशः । **ऊमेभ्यः** रक्षितृभ्यो देवेभ्यः **मधु** मदकरं सोममद्भिः **परि** **षिञ्चत** ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The devout (priest) excels (going) towards your plural ce of worship; the quick-moving (**Indra**), the chief(of the priests), proceeds with the **Rudras**, (the **Maruts**); sprinkle the exhilarating (**Soma** with water) for theprotecting (deities), the immortals among whom praise is (able) to procure wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seeking the gods (he [=Soma?]) has left a track on his way toward you.  The one who alone surpasses [=Indra] drives with the Rudras,  
 or among the immortals among whom old age is for giving. Pour honey  all around for your helpers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Pious One hath reached your place before the rest: One only moves victorious with the Rudras' band.  
      To these your helpers pour our meath, Immortal Gods, with whom your song of praise hath power to win their gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gottverlangende reicht weiter bis zu eurer Stätte: Er, Indra, kommt allen voraus allein mit den Rudrasöhnen oder mit den Unsterblichen, in deren Hand das Greisenalter zum Verschenken ist. Den Helfern gießet euren Süßtrank ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu eurer Stätte ragt der fromme Mann empor; siegreich allein geht Indra mit den Rudra's hin; Bei welchen Göttern euer Lied zur Spende tönt, für sie, die Freunde, giesset euren Soma aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Преданный богам воспарил к вашему месту:  
 (Там) движется один, прорываясь вперед вместе с Рудрами  

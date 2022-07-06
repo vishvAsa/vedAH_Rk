@@ -6,7 +6,7 @@ ChandaH = "पुरस्ताद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ ता꣡ त इन्दर+ सन्तु सत्या꣡  
 अ꣡हिंसन्तीर् उपस्पृ꣡शः  
@@ -14,7 +14,7 @@ ChandaH = "पुरस्ताद्बृहती"
 धेनूनां᳐꣡ न꣡ वज्रिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 वि॒द्याम॑ । यासा॑म् । भुजः॑ । धे॒नू॒नाम् । न । व॒ज्रि॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], locative, plural
@@ -104,36 +104,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **इन्द्र** **अस्मे** अस्माकं स्वभूताः । ता सत्या इत्युभयत्र प्रथमाबहुवचनस्य छान्दस आकारः सन्त्विति निर्देशविशेषणत्वात् । **ता** तास्तादृश्यः **उपस्पृशः**। त्वामुपगम्य स्पृशन्तीत्युपस्पृशः स्तुतयः। **ते** तव प्रसादात् **सत्या** सत्याः सन्तु यथार्था भवन्तु । तव सद्गुणग्राहिण्य इत्यर्थः। अपि च **अहिंसन्तीः** त्वामहिंसत्यश्च भवन्तु । सत्स्तुतित्वादनुद्वेजयन्त्यश्च भवन्त्वित्यर्थः। हे **वज्रिवः** इन्द्र **यासां** स्तुतीनां संबन्धिनः भुजः दृष्टादृष्टान् भोगान् **विद्याम** वयं लभेमहि । तत्र दृष्टान्तः । **धेनूनां** **न** । गवां क्षीरादिभोगान् यथा गोस्वामी लभते तद्वत् । ताः सत्या भवन्त्विति पूर्वेणान्वयः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May these our (praises) reaching you, **Indra**, be successful, doing no detriment (to you), so that,thunderer, we may obtain the benefits derivable from them, as (a cowherd enjoys those) from the kine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For us let these (gifts?) of yours (become) real. They bring no injury— your caresses,  
 whose benefits, like those of milk-cows, we would know, mace-wielder.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May those soft impulses of thine, O Indra, be fruitful and innocent to us.  
      May we know these whose treasures are like those of milch-kine, Thunderer!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An uns soll sich das von dir, Indra, bewahrheiten: nicht schädigend sind deine Handreichungen, deren Nutznießung wir kennen lernen möchten wie die der Milchkühe, o Keulenträger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass, Indra, diese Hülfen bei uns wirksam sein; uns heilsam, nicht verletzend uns; Uns werde ihr Genuss zu Theil wie Milch der Kühe, Blitzender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У нас пусть сбудутся эти твои истины, о Индра:  
 Соприкосновение (с тобой) не приносят вреда,  

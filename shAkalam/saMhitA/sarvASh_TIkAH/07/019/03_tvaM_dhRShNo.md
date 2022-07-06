@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ धृष्णो धृषता꣡ वीत꣡हव्यम्  
 प्रा꣡वो वि꣡श्वाभिर् ऊति꣡भिः सुदा꣡सम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्षे꣡त्रसाता वृत्रह꣡त्येषु पूरु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । पौरु॑ऽकुत्सिम् । त्र॒सद॑स्युम् । आ॒वः॒ । क्षेत्र॑ऽसाता । वृ॒त्र॒ऽहत्ये॑षु । पू॒रुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -114,41 +114,41 @@ genre M
 हे **धृष्णो** शत्रूणां धर्षकेन्द्र **धृषता** धर्षकेण वज्रेण बलेन वा **वीतहव्यं** दत्तहविष्कं प्रजनितहविष्कं वा **सुदासं** राजानं **विश्वाभिः** सर्वाभिः **ऊतिभिः** रक्षाभिः **प्रावः** प्रकर्षेणारक्षः । किंच **वृत्रहत्येषु** युद्धेषु **क्षेत्रसाता** क्षेत्रसातौ क्षेत्रस्य भूमेर्भजने निमित्ते पौरुकुत्सिं पुरुकुत्सस्यापत्यं **त्रसदस्युं** **पूरुं** च **प्र** **आवः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Undaunted (**Indra**), you had protected with all your protections **Sudāsa**, the offerer of oblations; youhave protected in battles with enemies for the possession of the earth **Trasadasyu**, the son of **Purukutsa**, andPuru.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o bold one, boldly helped on Sudās, whose oblation is worth  pursuing, with all forms of help;  
 you helped on Trasadasyu, son of Purukutsa, and Pūru in the winning  of land, in the smashing of obstacles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Trasadasyu and the Pūrus also appear in IV.38 (vss. 1, 3), which contains the pāda in common with our 2b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Bold One, thou with all thine aids hast boldly holpen Sudas whose offerings were accepted,  
      Puru in winning land and slaying foemen, and Trasadasyu son of Purukutsa.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Mutiger halfst mutig mit allen Hilfen dem Sudas, dessen Opfer begehrt waren, weiter. Du halfst dem Trasadasyu, des Purukutsa Sohne, weiter, dem Puru bei dem Landerwerb in der Feindeschlacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Kühnheit, kühner, halfest du dem Sudas, mit aller Hülfe dem beliebten Opfrer, Dem Sohn des Purukutsi, Trasadasju, dem Puru auch zum Landerwerb in Schlachten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, смелый, смело помог Судасу,  
 Чьи жертвы приятны (богам), всеми (своими) поддержками.  

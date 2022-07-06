@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ सो꣡मः कपर्दि꣡ने  
 घृतं꣡ न꣡ पवते म꣡धु  
 आ꣡ भक्षत् कनि꣡यासु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 आ । भ॒क्ष॒त् । क॒न्या॑सु । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -84,7 +84,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **कपर्दिने** कल्याणमुकुटवते सोमाय पूष्णे वा तदर्थम् **अयं** मादयिताभिषुतोऽस्मदीयः **सोमः** **पवते** च गच्छति । तं प्राप्नोति । तत्र दृष्टान्तः। **घृतं** **न** **मधु** मादकं हवीरूपं घृतं यथा सोमं पूषणं वा गच्छति तद्वत् । ततः सः **कन्यासु** अस्मानागमयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,13 +95,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Who wears a beautiful tiara: kapardine = **kalyāṇa** mukuṭavate; this also means, having hair braided like a cowrie shell (**kaparda**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Soma here purifies himself, honeyed like ghee, for the one with  braided hair [=Pūṣan].  
 – He will give us a share in maidens.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 kapardín- is used of Pūṣan in VI.55.2, though it is also applied to a few other gods in the RV, notably Rudra (I.114.1, 5).
 
@@ -120,23 +120,23 @@ Ober refines this somewhat by identifying the maidens as brides (e.g., I.320), b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Soma flows like gladdening oil for him who wears the braided locks:  
      He shall give us our share of maids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma wird für den Haarschneckenträger süß wie Schmalz geläutert. Er verhelfe uns zu Jungfrauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem haargeflochtnen rieselt hier der Soma süsse Butter zu; Er schenke holde Bräute uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот сома очищается  
 Для (бога) с косой, как сладкое топленое масло.  

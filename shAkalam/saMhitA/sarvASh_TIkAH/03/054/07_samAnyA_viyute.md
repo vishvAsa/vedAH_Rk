@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समानिया꣡ वि꣡युते दूरे꣡अन्ते  
 ध्रुवे꣡ पदे꣡ तस्थतुर् जागरू꣡के  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् उ ब्रुवाते मिथुना꣡नि ना꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒त । स्वसा॑रा । यु॒व॒ती इति॑ । भव॑न्ती॒ इति॑ । आत् । ऊं॒ इति॑ । ब्रु॒वा॒ते॒ इति॑ । मि॒थु॒नानि॑ । नाम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samānyā*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 **समान्या** समाने परस्परप्रीणनाख्येन कर्मणा ऐकमत्यं गते **वियुते** वियुज्य वर्तमाने **दूरेअन्ते** । दूरेऽन्तोऽवसानं ययोस्ते दूरेअन्ते अविनाशिन्यौ ते द्यावापृथिव्यौ **जागरूके** जागरणशीले सत्यौ **ध्रुवे** अविनाशिनि **पदे** अन्तरिक्षे **तस्थतुः** तिष्ठतः। **उत** अपि च **युवती** नित्यतरुणे **स्वसारा** भगिन्यौ एकस्मादात्मनो जाते इति **भवन्ती** भवन्त्यौ तस्थतुरित्यन्वयः । **आदु** अनन्तरं **मिथुनानि** द्वन्द्वानि **नाम** उर्वी, पृथ्वी, बहुले, दूरेअन्ते, रोदसी, पुरोहिते इत्यादीनि नामानि **ब्रुवाते** ते परस्परं ब्रूतः । उर्व्यादिभिर्द्वन्द्वनामभिर्द्यावापृथिव्यावुच्येते इत्यर्थः ॥ समान्या । ‘सुपां सुलुक्' इति विभक्तेर्डादेशः । दूरेअन्ते ।  ‘ इण् गतौ । दुरीणो लोपश्च' ( उ. सू. २. १७७ ) इति रक्प्रत्ययो धातोर्लोपश्च ।  ‘ रो रि' (पा. सू. ८. ३.१४ ) इति रेफलोपः ।  ‘ ढ्रलोपे' इति दीर्घः । अन्तशब्दः अमेः ‘असिहसिं° ' इत्यादिना तन्प्रत्ययान्तः ।  ‘ सप्तम्युपमान ' इति बहुव्रीहिः ।  ‘ हलदन्तात् ' इति सप्तम्या अलुक् । पूर्वपदस्वरः । जागरूके। ‘जागृ निद्राक्षये' इत्यस्मात् ताच्छील्यार्थे ‘जागुरूकः' ( पा. सू. ३.२.१६५ ) इत्यूकप्रत्ययः । प्रत्ययस्वरः । स्वसारा । न षट्स्वस्रादिभ्यः' इति डीपः प्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,14 +120,14 @@ genre M
 Heaven and earth are the person nifications here alluded to; address each other by twin appellations: ādu bruvāte mithunāni **nāma**; heaven and earth are designated together by **urvi** and other duplicate terms: urvyādibhir **dvandva** nāmābhir dyāvāpṛthivyavucyate
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Jointly but kept apart, with their ends at a distance, they have taken their  stand in a fixed place, wakeful.  
 And (though) they are sisters and young women, they are called  
 opposing names.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The -ū́ka-stem jāgarū́ka- in b is found only here in Vedic. I wonder if it owes its -ka-suffix to the femininized context of c, where H+E are identified as “sisters and young women” (svásārā yuvatī́) despite their oppositely gendered names.
 
@@ -146,23 +146,23 @@ and pṛthivī́fem. But they are also paired sisters, with the fem. du. designa
 This seems correct, and the published translation should probably have reflected this sense of mithuná- better. I am somewhat puzzled by why the names are in the plural, however.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Partners though parted, with far-distant limits, on one firm place both stand for ever watchful,  
      And, being young for evermore, as sisters, speak to each other names that are united.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In gleicher Weise und doch getrennt stehen die beiden fern endenden auf fester Grundlage immer wachsam. Zwar sind die Jugendlichen Schwestern, doch führen sie paarweise männlichen und weiblichen Namen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gemeinsam und getrennt doch, unermesslich, an festem Orte standen beide wachsam; Und als zwei Schwestern immer jung verbleibend, verkünden nun sie ihre Zwillingsnamen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отделенные друг от друга равным расстоянием, кончающиеся далеко,  
 (Эта) двое покоятся на твердой основе, бодрствуя.  

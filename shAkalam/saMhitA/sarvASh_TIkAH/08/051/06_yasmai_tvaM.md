@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मै तुवं꣡ वसो दाना꣡य शि꣡क्षसि  
 स꣡ राय꣡स् पो꣡षम् अश्नुते  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 सुता꣡वन्तो हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya;; repeated line
 तम् । त्वा॒ । व॒यम् । म॒घ॒ऽव॒न् । इ॒न्द्र॒ । गि॒र्व॒णः॒ । सु॒तऽव॑न्तः । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
@@ -113,35 +113,35 @@ genre M;; Vālakhilya;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He whom you help, O gracious one, to give, obtains abundance of wealth; bringing the **Soma** we invokeyou, **Indra**, **Maghavan**, you that love hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He to whom you exert yourself to give, o good one, that one achieves  the thriving of wealth.  
 We, who have pressed (the soma), invoke you, o bounteous Indra who  longs for songs.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 After the three verses whose yá- … sá/tám constructions refer to Indra, the same construction now identifies Indra’s client.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wem du, Guter, willens bist zu schenken, der erlangt Zunahme des Reichtums. Darum rufen wir dich, freigebiger, lobbegehrender Indra bei ausgepreßtem Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wem du, o guter, zu Gaben verhilfst, der erlangt Mehrung des Reichthums; darum rufen wir dich, o mächtiger Indra, o Liederfreund, mit Somatrank versehen an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого ты, о благой, хочешь одарить,  
 Тот достигает процветания богатства,  

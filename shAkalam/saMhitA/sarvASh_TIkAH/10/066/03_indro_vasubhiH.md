@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो व꣡सुभिः प꣡रि पातु नो ग꣡यम्  
 आदित्यइ꣡र् नो अ꣡दितिः श꣡र्म यछतु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्व꣡ष्टा नो ग्ना꣡भिः सुविता꣡य जिन्वतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रु॒द्रः । रु॒द्रेभिः॑ । दे॒वः । मृ॒ळ॒या॒ति॒ । नः॒ । त्वष्टा॑ । नः॒ । ग्नाभिः॑ । सु॒वि॒ताय॑ । जि॒न्व॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -127,36 +127,36 @@ genre M
 **वसुभिः** एतन्नामकैरष्टभिर्देवैः सहितः **इन्द्रः** **नः** अस्मदीयं **गयम्**। गृहनामैतत् । प्राप्तव्यं गायते शब्द्यतेऽत्रेति वा गयं गृहम् । **परि** **पातु** परिरक्षतु । तथा **अदितिः** देवमाता **आदित्यैः** देवैः सह **नः** अस्मभ्यं **शर्म** सुखं प्रयच्छतु । किंवा **देवः** दीप्यमानः **रुद्रो** **रुद्रेभिः** स्वपुत्रैः मरुद्भिः सह **नः** अस्मान् **मृळयति** सुखयतु । मृड सुखने ' । लेट्याडागमः । अपि वा **त्वष्टा** प्रजापतिः **ग्नाभिः** देवपत्नीभिश्छन्दोभिः **सुविताय** सुष्ठु प्राप्तव्यायाभ्युदयाय **नः** अस्मान् **जिन्वतु** प्रीणयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra** with the **Vasus** guard our dwelling; may **Aditi** with the **Ādityas** grant us felicity; may thedivine **Rudra** with the **Rudras** make us happy;may **Tvaṣṭā** with the wives of the gods be favourable to us forour prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra with the Vasus protect our livelihood on every side. Let Aditi  with the Ādityas extend shelter to us.  
 The god Rudra with the Rudras shall be merciful to us. Let Tvaṣṭar with  the Wives (of the Gods) enliven us for good faring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra with the Vasus keep our dwelling safe, and Aditi with Adityas lend us sure defence.  
      May the God Rudra with the Rudras favour us, and Tvastar with the Dames further us to success.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra mit den Vasu´s soll unser Haus ringsum schützen, Aditi mit den Aditya´s soll uns Zuflucht gewähren. Gott Rudra soll sich mit den Rudra´s unser erbarmen, Tvastri mit den Götterfrauen soll uns zu guter Fahrt stärken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schütze Indra mit den Vasu's unser Haus, mit den Aditja's reiche Aditi uns Schutz, Gott Rudra mit den Rudra's mög' uns gnädig sein, und mit den Weibern fördre Tvaschtar uns zum Glück.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

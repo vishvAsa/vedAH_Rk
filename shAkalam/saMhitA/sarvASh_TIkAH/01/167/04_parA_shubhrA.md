@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रा शुभ्रा꣡ अया᳐꣡सो यवीया꣡  
 साधारण्ये꣡व मरु꣡तो मिमिक्षुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जुष꣡न्त वृ꣡धं सखिया꣡य देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न । रो॒द॒सी इति॑ । अप॑ । नु॒द॒न्त॒ । घो॒राः । जु॒षन्त॑ । वृध॑म् । स॒ख्याय॑ । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parā*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M
 सर्वत्राद्युदात्तः । अत्र तु व्यत्ययेनान्तोदात्तत्वमिति द्रष्टव्यम् । यद्वा । रोदसा शब्देन रोदनस्वभावो रुद्रः । तस्य स्त्री रोदसीति केचिदाहुः । अपरे तु मरुतां स्त्रियो रोदसीति नामधेयमित्याहुः । अयमेव पक्षो युक्त उत्तरत्रैवं व्यवहारात् । तत्पक्षे रोदसी रोदस्याम् ॥ ङीषन्तात् सप्तम्या ईंकारो लुक् वा । ‘ईदूतौ च सप्तम्यर्थे ' इति प्रगृह्यसंज्ञा । तस्यां प्रियं धनं मुञ्चन्ति। किंतु **देवाः** मोदयितारो मादयितारो बा मरुतः **सख्याय** **वृधं** वृद्धिं **जुषन्त** सेवन्ते । द्यावापृथिवीपक्षे सख्याय जगतां सखिभावाय तयोर्वृद्धिं कुर्वन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,14 +123,14 @@ genre M
 With a common woman: sādhāraṇyeva = a public, or common woman
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Away (went) the resplendent, irrepressible Maruts in their flood; they  joined (with her) in common, as if with a common (whore).  
 The fearsome ones did not push Rodasī away as they did push the two  world-halves apart. The gods took pleasure in strengthening (her/  
 them), for companionship.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The polarized positive/negative treatment of Rodasī continues in the first half of this vs., in my interpr. With Hoffmann (/Witzel Gotō) I take pāda a as separate from b and supply a verb of motion with párā ‘away’. In b, in my interpr. only, the fem.
 
@@ -149,23 +149,23 @@ Hoffmann (Injunk., 194-97) translates and comments on these verses.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far off the brilliant, never-weary Maruts cling to the young Maid as a joint possession.  
      The fierce Gods drave not Rodasi before them, but wished for her to grow their friend and fellow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die schmucken, unverzagten Marut zogen mit der Unparteilichen wie mit einer gemeinsamen Frau davon. Die Grausigen stießen die Rodasi nicht ab, die Götter ließen sich die Starke zur Gesellschaft gerne gefallen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das fernste auch besprengten sie, die lichten behenden Maruts wie mit gleichem Strome; Gemeinsam mögen sie den Krafttrunk nehmen, die Schreckensgötter nicht die Braut verscheuchen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Блистательные неутомимые Маруты (уйдя прочь) вместе с юной (Родаси),  
 Соединялись (с ней) как с общей (женой).  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भी रेभं꣡ नि꣡वृतं सित꣡म् अद्भिय꣡  
 उ꣡द् व꣡न्दनम् अइ꣡रयतं सु꣡वर् दृशे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । कण्व॑म् । प्र । सिसा॑सन्तम् । आव॑तम् । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhī* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -132,7 +132,7 @@ genre M;; repeated line
 हे अश्विनौ **याभिः** **ऊतिभिः** **रेभम्** एतत्संज्ञम् ऋषिं **निवृतम्** असुरैः कूपे अप्सु निवारितं **सितं** तदीयैः पाशैर्बद्धमेवंभूतमृषिम् **अद्भ्यः** सकाशात् **उत्** **ऐरयतम्** उदगमयतम् । तथा **वन्दनम्** एतत्संज्ञमृषिं च तथाभूतमुदैरयतम् । किमर्थम् । **स्वः** आदित्यं **दृशे** द्रष्टुम् । अपि च **कण्वम्** असुरैः अन्धकारे प्रक्षिप्तं **सिषासन्तम्** आलोकं संभक्तुमिच्छन्तं **याभिः** ऊतिभिः **प्र** **आवतं** प्रकर्षेण अरक्षतम् । ताभिरित्यादि समानम् ॥ रेभम् । ‘रेभृ शब्दे'। रेभते स्तौतीति रेभः । पचाद्यच् । निवृतम् । वृञ् वरणे'। अस्मात् अन्तर्भावितण्यर्थात् कर्मणि निष्ठा । ' गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । सितम् । ‘षिञ् बन्धने '। अद्भ्यः । ‘ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् । वन्दनम् ।' वदि अभिवादनस्तुत्योः'। वन्दते स्तौतीति वन्दनः । नन्द्यादिलक्षणो ल्युः । लित्स्वरेण प्रत्ययात्पूर्वस्योदात्तत्वम् । स्वरित्येतद्दिवश्चादित्यस्य च साधारणनामधेयम् । तदुक्तं यास्केन -- ’स्वरादित्यो भवति सु अरणः सु ईरणः' (निरु. २. १४) इति । स्वरादिनिपातम् ' ( पा. सू. १. १. ३७ ) इति अव्ययत्वात् सुपो लुक् । दृशे । 'दृशे विख्ये च' इति दृशेः तुमर्थे केप्रत्ययान्तो निपात्यते । सिषासन्तम् । ‘वन षण संभक्तौ ' । सनि सनीवन्तर्ध' इत्यादिना विकल्पनात् इडभावः । ‘जनसनखनां सञ्झलोः' इति आत्वम् । द्विर्भावे अभ्यासस्य ह्रस्वत्वम् ।' सन्यतः । इति इत्वम् ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,34 +143,34 @@ genre M;; repeated line
 Legends: Rebha and Vandana are ṛṣis who were cast into wells by the **asuras**. Kaṇva threw them into darkness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which from the waters you raised up rasping Rebha, who was  confined and bound, and raised up Vandana to see the sun,  
 with which you helped Kaṇva desiring gain—with those forms of help  come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In “rasping Rebha” (rebhá-) I have incorporated the gloss into the name. The word occurs in the next hymn (I.113.17) in its lexical meaning.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith ye raised from waters, prisoned and fast bound, Rebha, and Vandana to look upon the light;  
      Wherewith ye succoured Kanva as he strove to win,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen ihr den gefangnen, gefesselten Rebha aus dem Wasser den Vandana herausholtet, um die Sonne wiederzusehen, mit denen ihr dem auf Verdienst ausgehenden Kanva weiterhalft - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die ihr Rebha, der gebunden und verhüllt, aus Fluten zogt, und Vandana, das Licht zu schaun, Durch die ihr Kanva halfet, dem verlangenden, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами) Ребху, скрытого (и) связанного из вод  
 Вы извлекли (и) Вандану, чтоб они видели солнце,  

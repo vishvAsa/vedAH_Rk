@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्यउ꣡र् वः पिता꣡ पृथिवी꣡ माता꣡  
 सो꣡मो भ्रा꣡ता꣡दितिः स्व꣡सा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ति꣡ष्ठतेल꣡यता सु꣡ कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 अदृ॑ष्टाः । विश्व॑ऽदृष्टाः । तिष्ठ॑त । इ॒ळय॑त । सु । क॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
@@ -111,7 +111,7 @@ popular;; epic anuṣṭubh (525)
 अतःपरं विषविचिकित्सा । तत्र तावत् हे सर्पाः **वः** युष्माकं **द्यौः** **पिता**। **पृथिवी** **माता** । **सोमो** **भ्राता** । **अदितिः** देवमाता **स्वसा**। एवंमहानुभावा महोरगाः **अदृष्टाः** अन्यैरदृश्यमानरूपाः स्वयं तु **विश्वदृष्टाः** सर्वस्य द्रष्टारो यूयं **तिष्ठत** स्वस्वस्थाने। मां प्रति मा गच्छत । **सु** सुतरां **कं** सुखं यथा तथा **इलयत** ईरयत गच्छत । सोमशब्देन सोमाधारो द्युलोक उच्यते । पृथिव्यन्तरिक्षद्युस्थानस्थाः सर्पाः स्वस्वस्थानं प्राप्नुत अस्मद्बाधं मा कुरुतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,34 +122,34 @@ popular;; epic anuṣṭubh (525)
 Soma is here the moon; heaven is the residence of Soma: somadharo dyulokaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your father is Heaven, and your mother the Earth. Your brother is  Soma, and your sister Aditi.  
 You no-see-ums seen by all, stand still! come to rest!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is unclear to me why the bugs are being credited with such a grand pedigree. Perhaps to indicate that they are ubiquitous in the space between earth and heaven? Sāyaṇa. suggests this vs. and the next are addressed to snakes, but there seems no reason why adṛ́ṣta- would change its referent. As I noted in the published introduction, the impulse to demand that a troublesome unswattable bug settle down long enough to be squashed is likely to be universal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Heaven is your Sire, your Mother Earth, Soma your Brother, Aditi  
      Your Sister: seeing all, unseen, keep still and dwell ye happily.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Himmel ist euer Vater, die Erde eure Mutter, Soma der Bruder, Aditi die Schwester. Ihr Unsichtbaren, von allen gesehen, stehet still, haltet fein Ruhe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Himmel ist euer Vater, die Erde eure Mutter, der Soma euer Bruder, Aditi eure Schwester; ihr unbemerkten Gewürme, von allen bemerkt, steht still und kommt zur Ruhe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Небо – ваш отец, земля – мать,  
 Сома – брат, Адити – сестра.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡न्य इ꣡द् उ꣡प गायत  
 प꣡न्य उक्था꣡नि शंसत  
 ब्र꣡ह्मा कृणोत प꣡न्य इ꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ब्रह्म॑ । कृ॒णो॒त॒ । पन्ये॑ । इत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *panya* ← *panye* ← *panya*
 - \[noun\], locative, singular, masculine
@@ -89,42 +89,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे उपगातारः **पन्य** **इत्** स्तुत्य एवेन्द्रे **उप** **गायत** उपगानं कुरुत । किंच **पन्ये** एवेन्द्रे **उक्थानि** स्तोत्राणि **शंसत** । हे स्तोतार इति शेषः । **पन्ये** **इत्** स्तुत्य एवेन्द्रे ब्रह्माण्यन्यानि स्तोत्राणि **कृणोत** कुरुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing praises to the adorable (**Indra**), repeat prayers to the adorable (Indra), address hymns to theadorable (Indra).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing just to the admirable one, to the admirable one recite  
 solemn words;  
 perform sacred formulations just for the admirable one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The loc. pánye as beneficiary/target of the verbs √gā ‘sing’ and √śaṃs ‘recite’ is peculiar: these verbs generally take the dative or, esp. with certain preverbs, the accusative. But loc. pánya in sandhi matches the nominative pánya in sandhi (that is, underlying pányaḥ) that begins the next verse (18a), and this match accounts for the unusual case usage. A small, but telling, example of how rhetorical motivations can override strictly grammatical issues.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sing ye to him who must be praised, say lauds to him who must be praised,  
      Bring prayer to him who must be praised.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Singet auf den Lobenswerten, traget Lobgedichte auf den Lobenswerten vor, bereitet eine Erbauung dem Lobenswerten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den wahrhaft herrlichen besingt und sagt ihm eure Sprüche auf, Gebete bringt dem herrlichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Удивительного воспевайте,  
 Удивительному произносите гимны,  

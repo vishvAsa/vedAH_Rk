@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो अग्ने रयि꣡म् भर  
 सत्रासा꣡हं व꣡रेणियम्  
 वि꣡श्वासु पृत्सु꣡ दुष्ट꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 विश्वा॑सु । पृ॒त्ऽसु । दु॒स्तर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -82,41 +82,41 @@ genre M
 हे **अग्ने** **रयिं** धनं **नः** अस्मभ्यम् **आ** **भर** प्रयच्छ। कीदृशम् । **सत्रासाहं** सत्रा सह युगपदेव दारिद्र्यस्य नाशकं **वरेण्यं** सर्वैर्वरणीयं **विश्वासु** **पृत्सु** सर्वेषु संग्रामेषु **दुष्टरं** शत्रुभिस्तरीतुमशक्यम् ॥ सत्रासाहम् । छन्दसि सहः' इति ण्विः । वरेण्यम् । वृञ एण्यः' । पृत्सु । ' पदादिषु मांस्पृत्स्नूनामुपसंख्यानम् ' इति पृतनाशब्दस्य पृद्भावः । ‘सावेकाचः' इति विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant us, **Agni**, riches that dispel poverty that are desirable (to all), and cannot be taken (from us) in all encounters (with our foes).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring here to us wealth, o Agni, which is victorious in every way,  worthy to be chosen,  
 and difficult to surpass in all battles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring to us ever-conquering wealth, wealth, Agni, worthy of our choice,  
      In all our frays invincible.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bring us wealth, O Agni, which may be always conquering, excellent and invincible 1 in all battles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns, Agni, Reichtum mit, allesamt besiegenden, begehrenswerten, in allen Kämpfen unüberwindbaren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni bring uns Reichthum her, der köstlich, allbesiegend ist, Und unbesiegt in jedem Kampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси нам, о Агни, богатство,  
 Целиком побеждающее, избранное,  

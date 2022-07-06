@@ -8,7 +8,7 @@ title = "+035"
 ‘आ नः' इति षडृचमेकादशं सूक्तमाङ्गिरसस्य प्रभूवसोरार्षं गायत्रं पवमानसोमदेवताकम् । अनुक्रान्तं च-’ आ नः पवस्व प्रभूवसुः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 35 (747)  
 Soma Pavamāna  

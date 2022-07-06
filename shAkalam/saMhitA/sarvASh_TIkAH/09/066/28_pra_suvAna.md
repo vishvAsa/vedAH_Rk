@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सुवान꣡ इ꣡न्दुर् अक्षाः  
 पवि꣡त्रम् अ꣡ति अव्य꣡यम्  
 पुनान꣡ इ꣡न्दुर् इ꣡न्द्रम् आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पु॒ना॒नः । इन्दुः॑ । इन्द्र॑म् । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -86,20 +86,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **सुवानः** अभिषूयमाणः **इन्दुः** सोमः **अव्ययम्** अविमयमूर्णास्तुकेन निर्मितं दशापवित्रमतीत्य **प्र** **अक्षाः** कलशं प्रति प्रकर्षेण क्षरति । क्षरतेर्लुङि तिपि सिचि छान्दस इडागमाभावः । ‘ अतो र्लान्तस्य' (पा. सू. ७. २. २) इति वृद्धिः। रात्सस्य' इति सिचो लोपः। रेफान्तं स्पष्टयितुमितिकारः । ‘ बहुलं छन्दसि' (पा. सू. ७.३.९७ ) इति ईडभावः । हल्ङ्यादिना तिलोपः । ततः **पुनानः** पवित्रेण शुद्धः **इन्दुः** सोमः **इन्द्रमा** विशति । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu** when effused drops through the fleecy filter (into the vessel); being filtered Indu (enters) into **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being pressed, the drop has flowed forth across the fleecy filter;  
 being purified, the drop (has flowed) to Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has two passively used participles, suvānáḥ ‘being pressed’ and punānáḥ ‘being purified’, which contrast with the agency implicitly accorded to Soma Pavamāna, “self-purifying” Soma. This more agentive participle returns in the final vs. (30b), just before we ask Soma for his favor.
 
@@ -114,23 +114,23 @@ No particular evidence of unity, except for an emphasis in the 1st two vss. on t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Over the fleecy sieve hath flowed the drop effused: to Indra comes  
      Indu while he is purified
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgepreßt ist der Saft hervorgeflossen über die Seihe aus Schafwolle; sich läuternd gelangt der Saft zu Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst ist Indu vorgeströmt hin durch das wollne Läutrungsnetz, Geklärt zu Indra Indu hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -8,7 +8,7 @@ title = "+108"
 ‘ य इन्द्राग्नी ' इति त्रयोदशर्चं तृतीयं सूक्तं कुत्सस्यार्षं त्रैष्टुभमैन्द्राग्नम् । तथा चानुक्रान्तं -- ‘य इन्द्राग्नी सप्तोनैन्द्राग्नं तु ' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 108  
 Indra and Agni  
@@ -18,7 +18,7 @@ For the ritual pairing of Indra and Agni, see the introduction to I.21. This hym
 The contents of the first six verses are more various. The united front and the  joint activities of Indra and Agni are emphasized, though some verses have a dis tinctly Indraic character (esp. vs. 3, where both gods are called “Vṛtra-smashers”)  and some are more in Agni’s camp (esp. vs. 4). The middle verse (6) is, as noted  above, the only verse without an address to the gods (or any mention of them  by name), and it also contains 1st-person direct speech. In it the speaker recalls  his words when he “chose” the gods, presumably as his priests, and these words  announce the necessity for competing with others (in this case the other human  “lords” [not, in our opinion, the nonhuman Asuras, the later Vedic opponents of  the gods]) for the gods’ visitation, the theme that will dominate the rest of the hymn.  Though we hesitate to call verse 6 an omphalos, it does serve as pivot point for the hymn, and its deliberately different structure from both what precedes and what  follows marks it and its position as exceptional.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra and Agni
 </details>

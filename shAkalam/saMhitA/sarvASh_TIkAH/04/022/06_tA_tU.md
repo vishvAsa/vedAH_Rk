@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ तू꣡ ते सत्या꣡ तुविनृम्ण वि꣡श्वा  
 प्र꣡ धेन꣡वः सिस्रते वृ꣡ष्ण ऊ꣡ध्नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ सि꣡न्धवो ज꣡वसा चक्रमन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अध॑ । ह॒ । त्वत् । वृ॒ष॒ऽम॒नः॒ । भि॒या॒नाः । प्र । सिन्ध॑वः । जव॑सा । च॒क्र॒म॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
@@ -127,20 +127,20 @@ genre M
 हे **तुविनृम्ण** अधिकबल इन्द्र **ते** त्वदीयानि **विश्वा** विश्वानि **ता** तानि कर्माणि **तु** क्षिप्रं **सत्या** सत्यानि भवन्ति । हे इन्द्र **वृष्णः** कामानां वर्षितुस्त्वत्तो भयात् **धेनवः** गावः **ऊध्नः** स्वकीयादापीनात् **प्र** **सिस्रते** प्रकर्षेण क्षीरं क्षरन्ति । **अध** अपि च हे वृषमनः कामानां वर्षणपरमनस्केन्द्र **सिन्धवः** नद्यः **त्वत्** त्वत्तः **भियानाः** बिभ्यत्यः सत्यः **जवसा** वेगेन **प्र** **चक्रमन्त** **ह** प्रकर्षेण गच्छन्ति खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Most powerful **Indra**, all these, your exploits, are verily true: (through fear of you), the showerer (of benefits), the cows shed (milk) from their udders; then, benevolent-minded (Indra), the rivers, fearing you, flow with rapidity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These (deeds) of yours all come true, o powerfully manly one: the cows  stream forth from the udder of a bull;  
 then, being afraid of you, o you of bullish mind, the rivers charge forth  at speed.594 IV.23
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The b pāda contains one of the RV’s beloved gender-bending paradoxes, with the cows coming out “from the udder of a bull” (vṛ́ṣṇa ū́dhnaḥ). Geldner (/Witzel Gotō) interprets this as rainwater coming from the sky (Parjanya or Heaven). I think it more likely that it concerns the Vala myth. Indra’s other signature deed, the slaying of Vṛtra, was treated in the immediately preceding, paired verse (5d), and so we might expect mention of his other most prominent feat. In that case the “bull” would be the Vala cave. On the other hand, this might continue the treatment of the Vṛtra myth in 5d (as Geldner also suggests, n. 6b), in which case the “bull” would be Vṛtra himself or the mountain in which the waters were confined. The more thorough treatment of the waters in the Vṛtra myth in the following vs. 7 might support this latter view.
 
@@ -161,23 +161,23 @@ Another responsion: 6c ádhā ha / 7a átrā́ha. Later in the pāda 7a tā́u r
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 True are all these thy deeds, O Most Heroic. The Milch-kine issued from the streaming udder.  
      In fear of thee, O thou of manly spirit, the rivers swiftly set themselves in motion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies aber sind alles wahre Taten von dir, du Mannhaftester: Die Milchkühe laufen aus dem Euter des Bullen hervor. Aus Furcht vor dir liefen die Ströme rasch davon, du Bullenmutiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies sind, sehr starker, alles deine Thaten, Milchtränke rannen aus des Stieres Euter; Vor dir sich fürchtend, der du Stieres Muth hast, bewegten da die Ströme sich in Eile.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот эти все (подвиги) твои истинны, о (бог) мощного мужества:  
 Дойные коровы выбегают из вымени быка.  

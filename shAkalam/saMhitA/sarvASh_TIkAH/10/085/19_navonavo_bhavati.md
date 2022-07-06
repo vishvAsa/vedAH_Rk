@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡वो-नवो भवति जा꣡यमानो  
 अ꣡ह्नां केतु꣡र् उष꣡साम् एति अ꣡ग्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ चन्द्र꣡मास् तिरते दीर्घ꣡म् आ꣡युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 भा॒गम् । दे॒वेभ्यः॑ । वि । द॒धा॒ति॒ । आ॒ऽयन् । प्र । च॒न्द्रमाः॑ । ति॒र॒ते॒ । दी॒र्घम् । आयुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *navo* ← *navaḥ* ← *nava*
 - \[noun\], nominative, singular, masculine
@@ -131,7 +131,7 @@ popular
 अयं चन्द्रमाः **जायमानः** प्रतिदिनं जायमान एकैककलाधिक्येनोत्पद्यमानः सन् **नवोनवो** **भवति** प्रतिदिनं नूतन एव भवति । एतत्पूर्वपक्षाद्यभिप्रायम् । तथा **अह्नां** दिवसानां **केतुः** प्रज्ञापकः प्रतिपदादीनां तिथीनां चन्द्रकलाहासवृद्ध्यधीनत्वात् । तादृशश्चन्द्रमाः **उषसां** प्रभातीनाम् **अग्रम्** **एति**। एतत्कृष्णपक्षान्ताभिप्रायम् । केचनैतं पादमादित्यदैवत्यमाहुः । तस्मिन् पक्षेऽह्नां केतुत्वमुषसामग्रगतिश्च प्रसिद्धे । **देवेभ्यः** **भागं** हविर्भागं **वि** **दधाति** करोति उभयपक्षान्ते । किं कुर्वन् । **आयन** प्रतिदिनं हासवृद्ध्या पक्षान्तमभिगच्छन्। एतदर्धमासाभिप्रायम्। **चन्द्रमाः** उक्तलक्षणो देवः **दीर्घमायुः** **तिरते** वर्धयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,34 +142,34 @@ popular
 The first half othe verse isaddressed to the sun; but, the moon is the manifester of days in regulating the time of **tithis** (lunar days)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He becomes ever new as he is born; as beacon of the days he goes at the  forefront of the dawns.  
 He portions out their share to the gods as he comes here. The Moon  extends his lifetime long.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, born afresh, is new and new for ever ensign of days he goes before the Mornings  
      Coming, he orders f6r the Gods their portion. The Moon prolongs the days of our existence.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Ever anew, being born again, he rises; He goes before the dawns as daylight's token. He, coming, to the gods their share apportions: The moon draws out the span of man's existence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Immer wieder wird er neu geboren, als das Wahrzeichen der Tage geht er der Usas voran. Durch sein Kommen bestimmt er den Göttern ihren Anteil: der Mond zieht sein Leben in die Länge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen voran; indem er ankommt vertheilt er den Göttern ihren Antheil; lange lässt der Mond das Leben fortdauern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рождаясь, он возникает каждый раз новым,  
 Как символ дней он идет впереди утренних зорь.  

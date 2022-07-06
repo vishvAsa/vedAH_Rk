@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ व꣡र्धन ओ꣡षधीनां यो꣡ अपां꣡  
 यो꣡ वि꣡श्वस्य ज꣡गतो देव꣡ ई꣡शे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्रिव꣡र्तु ज्यो꣡तिः सुअभिष्टि꣡ अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 सः । त्रि॒ऽधातु॑ । श॒र॒णम् । शर्म॑ । यं॒स॒त् । त्रि॒ऽवर्तु॑ । ज्योतिः॑ । सु॒ऽअ॒भि॒ष्टि । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -132,7 +132,7 @@ genre D
 **यः** पर्जन्यः **ओषधीनां** **वर्धनः** वर्धयिता । **यः** च **अपाम्** उदकानां वर्धकः । **यः** च **देवः** द्योतमानः पर्जन्यः **विश्वस्य** सर्वस्य **जगतः** **ईशे** ईष्टे। ‘लोपस्त आत्मनेपदेषु ' इति तलोपः । **अधीगर्थ** ' (पा. सू. २. ३. ५२ ) इति कर्मणि शेषत्वेन विवक्षिते षष्ठी। अनुदात्तेत्त्वात् लसार्वधातुकानुदात्तत्वे धातुस्वरः। 'यद्वृत्तान्नित्यम्' इति निघातप्रतिषेधः। **सः** पर्जन्यः **त्रिधातु** त्रिभूमिकं **शरणं** गृहं **शर्म** सुखं च **यंसत्** यच्छतु । अस्मभ्यं ददात्वित्यर्थः ॥ यमेर्लेट्यडाग़मः । सिब्बहुलम्' इति सिप्। ' इतश्च लोपः' इतीकारलोपः। तथा **त्रिवर्तु** त्रिषु ऋतुषु अतिशयेन वर्तमानम् । श्रूयते हि - ‘ त्रीणि वा आदित्यस्य तेजांसि वसन्ता प्रातर्ग्रीष्मे मध्यंदिने शरद्यपराह्णे ' (तै. सं. २. १. २. ५) इति । एवंविधं **स्वभिष्टि** स्वभ्येषणं **ज्योतिः** तेजश्च **अस्मे** अस्मभ्यं प्रयच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,36 +143,36 @@ genre D
 Three-storied dwelling: tridhātu śaraṇam = tribhūmikam gṛham, a house with threeearths, either chambers or floors; trīṇi vā ādityasya tejāṃsi prātagrīṣme madhyandineśaradyaparāhne: **Taittirīya** **Saṃhitā** 2.1.2.5; the desired light: the rays of the sun are said to be mostpowerful at dawn in the spring, at noon in the hot season, and in the afternoon in autumn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who is the increaser of plants, who of the waters, who, as god,  holds sway over the whole moving world,  
 he will extend triply layered sheltering shelter, triply turned very superior  light to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Multiple candidates have been suggested for the three lights of d, but it should be pointed out that there is actually only one light (jyótiḥ), which has three vartu-s (trivártu). Unfortunately this adj. is a hapax, but it is most likely related to the better attested trivṛ́t-. For the relationship between these two and the uncertainty of the root affiliation (√vṛt [which I favor] or √vṛ), see Scarlatta (511). If the form does belong with √vṛt we should properly expect *trivarttu, but of course rTT and rT clusters can generally only be distinguished on etymological grounds (see AiG I.112-14). As for our form, AiG II.2.663 (with lit.) suggests that trivár(t)u in this passage is a nonce creation modeled on well-attested tridhā́tu found in the preceding pāda (c).
 
 In any case the triply layered shelter and triply turned light conform to the triadic focus of this hymn; I’m not sure they need to be more specifically identified. 133
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Giver of growth to plants, the God who ruleth over the waters and all moving creatures,  
      Vouchsafe us triple shelter for our refuge, and threefold light to succour and befriend us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Mehrer der Pflanzen und der Wasser, der Gott, der über die ganze Welt gebeut, er möge den dreifach schützenden Schutz, das dreifältige, überlegene Licht uns gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mehrer der Gewächse und der Wasser, der Gott, der über alle Welt gebietet, Er reiche Schutz und Schirm der dreifach schirmet, dreifältig Licht, das Zuflucht uns gewähret.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бог, который укрепляет растения, который – воды,  
 Который властвует надо всем живым миром,  

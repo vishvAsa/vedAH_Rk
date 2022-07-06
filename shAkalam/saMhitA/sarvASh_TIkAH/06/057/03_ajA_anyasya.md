@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अजा꣡ अन्य꣡स्य व꣡ह्नयो  
 ह꣡री अन्य꣡स्य स꣡म्भृता  
 ता꣡भ्यां वृत्रा꣡णि जिघ्नते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ताभ्या॑म् । वृ॒त्राणि॑ । जि॒घ्न॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ajā* ← *ajāḥ* ← *aja*
 - \[noun\], nominative, plural, masculine
@@ -84,41 +84,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अनयोरिन्द्रापूष्णोः **अन्यस्य** एकस्य पूष्णः **अजाः** छागाः **वह्नयः** वाहका अश्वाः । **अन्यस्य** अपरस्येन्द्रस्य **संभृता** संभृतौ सम्यक् पुष्टौ **हरी** एतत्संज्ञावश्वौ वाहकौ । स चेन्द्रः **ताभ्यां** **वृत्राणि** शत्रून् **जिघ्नते** हन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Goats are the bearers of the one, two well-fed horses of the other, and with them he destroys his foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Goats are the draft-animals for the one; two fallow bay horses, fully  equipped, are for the other;  
 along with those two (horses) he keeps smashing obstacles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See VI.56.2 above.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Goats are the team that draws the one: the other hath Bay Steeds at hand;  
      With both of these he slays the fiends.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Böcke sind des einen Zugtiere, das Falbenpaar in voller Ausrüstung die des anderen; mit dem schlägt er die Feinde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den einen fährt der Ziegen Schar, den andern seiner Rosse Paar, Mit diesen schlägt die Feinde er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Козлы – животные, возящие одного,  
 Пара буланых коней, снаряженных (как надо) – другого.  

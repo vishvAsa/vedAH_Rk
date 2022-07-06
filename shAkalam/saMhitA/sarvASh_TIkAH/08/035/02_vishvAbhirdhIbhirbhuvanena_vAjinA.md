@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वाभिर् धीभि꣡र् भु꣡वनेन वाजिना  
 दिवा꣡ पृथिव्या꣡ अ꣡द्रिभिः सचाभु꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 सो꣡मम् पिबतम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । सोम॑म् । पि॒ब॒त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvābhir* ← *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
@@ -104,36 +104,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे **वाजिना** बलिनावश्विनौ **विश्वाभिः** सर्वाभिः **धीभिः** प्रज्ञाभिः **भुवनेन** अखिलेन भूतजातेन च **दिवा** द्युलोकेन च **पृथिव्या** स **अद्रिभिः** च **सचाभुवा** सहभूतौ **उषसा** सूर्येण **च** संगतौ युवां **सोमं** **पिबतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Powerful (**Aśvins**), associated with all intelligences, with all beings, with heaven, with earth, with themountains, united with the dawn and with the **Sūrya**, drink, Aśvins, the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With all insights and (all) creation, o prizewinners, in comradeship with  Heaven and Earth and the stones,  
 in concert with Dawn and the Sun, drink the soma, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With all the Holy Thoughts, all being Mighty Ones! in close alliance wil the Mountains, Heaven, and Earth;  
      Accordant. of one mind with Surya and with Dawn, O Asvins, drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit allen Gedanken, mit der ganzen Welt, ihr Gewinnreiche, mit Himmel und Erde, mit den Bergen vereint, einträchtig mit Usas und Surya trinket beide den Soma, Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit allen Geistern, mit der Welt, o reiche ihr, mit Erd' und Himmel, mit den Felsen im Verein, Mit Morgenroth und Sonne in Gemeinschaft trinkt, o Ritter, ihr, den Somatrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Со всеми способностями видения, со (всем) мирозданием, о победоносные,  
 С небом, землей, горами объединенные,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नो देवः꣡ सविता꣡ त्रा꣡यमाणः  
 शं꣡ नो भवन्तु उष꣡सो विभातीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नः क्षे꣡त्रस्य प꣡तिर् अस्तु शम्भुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 शम् । नः॒ । प॒र्जन्यः॑ । भ॒व॒तु॒ । प्र॒ऽजाभ्यः॑ । शम् । नः॒ । क्षेत्र॑स्य । पतिः॑ । अ॒स्तु॒ । श॒म्ऽभुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
@@ -136,7 +136,7 @@ genre D
 **देवः** क्रीडनादिगुणयुक्तः **सविता** **त्रायमाणः** रक्षन् **नः** अस्माकं **शं** शान्त्यै भवतु । **विभातीः** व्युच्छन्त्यः **उषसः** अपि **नः** अस्माकं **शं** शान्त्यै **भवन्तु**। **नः** अस्माकं **प्रजाभ्यः** **पर्जन्यः** अपि **शं** **भवतु** । **शंभुः** सुखस्य भावयिता **क्षेत्रस्य** **पतिः** **नः** अस्माकं **शं** शान्त्यै **अस्तु** ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ genre D
 Śambhu = sukhasya bhāvayitā, the cause of the condition ofpleasure; ordinarily, it is a name of **Śiva**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Luck for us god Savitar who gives protection; luck for us be the widely  radiant Dawns.  
 Luck be Parjanya for us and for our offspring; luck for us be the Lord  of the Dwelling Place, who is Luck itself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Prosper us Savitar, the God who rescues, and let the radiant Mornings be propitious.  
      Auspicious to all creatures be Parjanya, auspicious be the field's benign Protector.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück soll uns der schirmende Gott Savitri sein, zum Glück sollen uns die erstrahlenden Morgenröten sein. Zum Glück soll Parjanya unseren lebenden Wesen sein, zum Glück soll uns der heilsame Herr der Flur sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heil sei uns Gott Savitar, der Schützer, zum Heile uns die hellen Morgenröthen; Zum Heile sei Pardschanja unsern Kindern, zum Heile uns der Feldbeschirmer heilvoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье нам бог Савитар охраняющий,  
 На счастье нам пусть будут Утренние зори сверкающие!  

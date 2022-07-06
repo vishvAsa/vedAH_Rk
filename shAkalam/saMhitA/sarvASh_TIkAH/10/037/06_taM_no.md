@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ नो द्या꣡वापृथिवी꣡ त꣡न् न आ꣡प  
 इ꣡न्द्रः शृण्वन्तु मरु꣡तो ह꣡वं व꣡चः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 भद्रं꣡ जी꣡वन्तो जरणा꣡म् अशीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 मा । शूने॑ । भू॒म॒ । सूर्य॑स्य । स॒म्ऽदृशि॑ । भ॒द्रम् । जीव॑न्तः । ज॒र॒णाम् । अ॒शी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -131,36 +131,36 @@ genre M
 **द्यावापृथिवी** द्यावापृथिव्यौ **आपः** च **इन्द्रः** च मरुतः च **नः** अस्माकं **तं** **हवम्** आह्वानं **नः** अस्माकं **तत** **वचः** स्तुतिरूपं वाक्यं च । न इति द्विरुक्तिरादरार्था। **शृण्वन्तु** । किंच वयं **सूर्यस्य** **संदृशि** संदर्शने **शूने** प्रवृद्धाय दुःखाय **मा** **भूम** मैव भवेम । किंतु **जीवन्तः** चिरं प्राणान् धारयन्तो वयं **भद्रं** कल्याणं **जरणां** वृद्धत्वममरत्वं च **अशीमहि** प्राप्नुयाम ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May heaven and earth, may the waters, may **Indra**, and the **Maruts**, hear this our invocation and thisour praise; may we not be in sorrow at the sight of the Sun; diving long, may we attain a prosperous old age.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This call of ours let Heaven and Earth, this speech of ours let the waters,  Indra, and the Maruts hear.  
 Let us not be in want of the sight of the Sun. Living happily may we  attain old age.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This invocation, these our words may Heaven and Earth, and Indra and the Waters and the Maruts hear.  
      Ne'er may we suffer want in presence of the Sun, and, living happy lives, may we attain old age.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Ruf von uns mögen Himmel und Erde, dieses Wort von uns die Wasser, Indra, die Marut hören! Nicht möchten wir den Anblick der Sonne entbehren; glücklich lebend möchten wir das Greisenalter erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es höre Erd' und Himmel diesen unsern Ruf, die Wasser, Indra und die Maruts dieses Wort, Nicht treffe Mangel bei der Sonne Anblick uns, und glücklich lebend mögen wir ins Alter gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот наш зов, это наше слово,  
 Пусть Небо-и-Земля услышат его, пусть воды, Индра, Маруты!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ त꣡त् ते अद्य꣡ शिपिविष्ट ना꣡म  
 अर्यः꣡ शंसामि वयु꣡नानि विद्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्ष꣡यन्तम् अस्य꣡ र꣡जसः पराके꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तम् । त्वा॒ । गृ॒णा॒मि॒ । त॒वस॑म् । अत॑व्यान् । क्षय॑न्तम् । अ॒स्य । रज॑सः । प॒रा॒के ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 हे **शिपिविष्ट** रश्मिभिराविष्ट विष्णो **ते** तव **तत्** प्रसिद्धं विष्णुरिति प्रख्यातं **नाम** **अर्यः** स्वामी स्तुतीनां हविषां वा तथा **वयुनानि** ज्ञातव्यान्यर्थजातानि **विद्वान्** जानन्नहम् **अद्य** इदानीं **प्र** **शंसामि** प्रकर्षेण स्तौमि । **तवसं** प्रवृद्धं **तं** **त्वा** त्वां विष्णुम् **अतव्यान्** अतवीयानवृद्धतरोऽहं **गृणामि** स्तौमि । कीदृशम् । **अस्य** **रजसः** लोकस्य **पराके** दूरदेशे **क्षयन्तं** निवसन्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ Nāmāryaḥ śaṃsāmi = I the lord, praise your name; **Sāmaveda** has a dif
 **Sūrya** = **svāmī** stutinām haviṣām vā,you master of the praises or of the oblation which may mean Viṣṇu or perhaps, the **yajamāna**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This name of yours, o Śipiviṣṭa, of you the stranger do I proclaim today,  I who know the (hidden) patterns.  
 I hymn you, the strong—I, less strong—you who rule over this dusky  realm in the distance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the name Śipiviṣṭa, see comm. ad VII.99.4. Note that Viṣṇu’s name was already celebrated in 3d, though the actual name is not mentioned there.
 
@@ -154,23 +154,23 @@ The syntactic affiliation of aryáḥ is disputed: the question is whether it de
 In d the pres. part. kṣáyantam is rendered by both Renou and Thieme (Fremdl.) as if it belongs to √kṣi ‘dwell’ (“qui résides” and “… [dich,] der da wohnt”), but the part. to the root pres. of that root is kṣiyánt-; the part. here must belong to √kṣā ‘rule over’ (them. pres. kṣáyati). Geldner may be trying to have it both ways with his “der … thront,” if my German dictionaries are correct in glossing thronen as “sit enthroned.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To-day I laud this name, O gipivista, I, skilled in rules, the name of thee the Noble.  
      Yea, I the poor and weak praise thee the Mighty who dwellest in the realm beyond this region.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich verkünde heute, o Sipivista, diesen Namen von dir, dem hohen Herrn, der ich Bescheid weiß. Ich, der Schwache, preise dich, den Starken, der jenseits dieser Welt thront.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich preise deinen Namen, Çipivischta, ergeben heute, heil'ger Werke kundig. Dich den gewalt'gen rühme ich der schwache, dich, der du weithin herrschest in dem Weltraum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сегодня, я прославляю это имя твое,  
 О Шипивишта, (имя) благородного господина – я, понимающий (тайные) знаки.  

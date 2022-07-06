@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ नो अग्ने अमृ꣡तेषु पूर्विय  
 धी꣡ष् पीपाय बृह꣡द्दिवेषु मा꣡नुषा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्म꣡ना शति꣡नम् पुरुरू꣡पम् इष꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दुहा॑ना । धे॒नुः । वृ॒जने॑षु । का॒रवे॑ । त्मना॑ । श॒तिन॑म् । पु॒रु॒ऽरूप॑म् । इ॒षणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -124,20 +124,20 @@ genre M
 **बृहद्दिवेषु** प्रभूतद्युतिषु **अमृतेषु** देवेषु मध्ये हे **पूर्व्य** पूर्वभाविन् **अग्ने** त्वां **मानुषा** मनुष्याणां मध्ये **नः** अस्मदीया **धीः** बुद्धिः स्तुतिः कर्म वा **एव** एवं **पीपाय** प्याययति । यद्वा मानुषा। मनुष्यान धीस्त्वदीया बुद्धिः कर्म वा प्याययतु । तथा त्वदीया धीः **वृजनेषु** यज्ञेषु **कारवे** स्तोत्रे **दुहाना** **धेनुः** । दोग्ध्री धेनुरिव । लुप्तोपममेतत् । **त्मना** आत्मनैव **इषणि** एषणायां सत्यां **शतिनम्** अपरिमितसंख्याकं **पुरुरूपं** गवाश्वादिरूपेण नानारूपं धनसमूहं दुहाना भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Among men our praise, **Agni**, celebrate syou, who are first among the greatly-splendid immortals; (may it be to us) as a cow spontaneously yielding at sacrifices to the worshipper, infinite and multiform (blessings according to his) desire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In this way, o foremost Agni, (hymnic) vision swells for us among the  immortals dwelling in lofty heaven through the human (lifespans)— (a vision like) a cow giving milk to the bard in the (ritual) enclosures,  (bringing) by herself multiform (prizes) in hundreds at her  
 impulsion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Oldenberg and Geldner point out, mā́nuṣā should not be a fem. nom. sg. with dhī́ḥ, since the fem. stem is well-attested mā́nuṣī. Nonetheless, the standard tr., including Geldner though excluding Renou, interpret it with dhī́ḥ -- Geldner by taking it as shortened from mā́nuṣāṇām at pāda end (some shortening!) and tr. “die menschliche Dichtung” as if it were a simple modifying adjective. I instead take it as neut. pl. and supply ‘lifespans’ (yugā́(ni)), which is commonly found with this adj., including in our 2c.
 
@@ -146,28 +146,28 @@ By my interpr. it expresses extent of time, indicating that poetic inspiration i
 the disc. by Oldenberg, Noten), I take it as a simple locative, construing the accusatives in d as Inhaltsakk. with dúhānā in c. In any case it produces a bad cadence (4 light syllables); I do not see an easy repair strategy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Song chanted by us men, O Agni, Ancient One, has swelled unto the deathless Gods in lofty heaven-  
      A milch-cow yielding to the singer in the rites wealth manifold, in hundreds, even as he wills.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thus, O Agni, ancient one, our human prayer has prospered among the immortals who dwell in the great heaven. May the cow 1 when milked, yield 2 freely to the singer in our settlements hundredfold (wealth) of all kinds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So ist die menschliche Dichtung bei den unsterblichen Bewohnern des hohen Himmels für uns milchstrotzend geworden, du allerbester Agni, eine melkende Kuh für den Dichter in den Opferverbänden, indem sie selbst hundertwertigen, mannigfachen Lohn heischt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So fand Erhörung unser menschliches Gebet, uralter Agni, bei den ew'gen Himmlischen, Dem Sänger, eine Milchkuh in dem Heiligthum, ausströmend hundertfaches, vielgestalt'ges Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так, о Агни изначальный, людская поэтическая речь  
 Набухла для нас (молоком) среди бессмертных обитателей высокого неба,  

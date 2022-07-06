@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयं꣡ या꣡ नी꣡ची अर्कि꣡णी  
 रूपा꣡ रो꣡हिणिया कृता꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अन्त꣡र् दश꣡सु बाहु꣡षु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 चि॒त्राऽइ॑व । प्रति॑ । अ॒द॒र्शि॒ । आ॒ऽय॒ती । अ॒न्तः । द॒शऽसु॑ । बा॒हुषु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -113,7 +113,7 @@ genre M
 अस्यामृचि उषसः स्तुतिः सूर्यप्रभाया वा । **या** **इयं** **नीची** अवाङ्मुखी **अर्किणी** स्तुतिमती **रूपा** रूपवती **रोहिण्या** प्रकाशयुक्ता **कृता** उषाः सूर्यप्रभा वोत्पादिता सा **अन्तः** ब्रह्माण्डस्य मध्ये **बाहुषु** बाहुस्थानीयासु **दशसु** दशसंख्याकासु दिक्षु **आयती** आगच्छन्ती **चित्रेव** चित्रा गौरिव **प्रत्यदर्शि** सर्वैरदृश्यत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 She: uṣas, the dawn,or the light of the Sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the one [=butter offering] who is heading downward,  accompanied by chants, her form created by a ruddy (cow).  
 Like brilliant (Dawn) she has appeared opposite, coming hither within  the ten arms.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referent of the fem. sgs. in this vs. is not entirely clear. Geldner interprets it as the offering spoon or the butter offering, Oldenberg as the cow. I think Geldner’s 2nd alternative is correct, with ā́huti- or a similar fem. noun as the word underlying.
 
@@ -139,23 +139,23 @@ Pāda b, “her form is created by a/the ruddy (cow),” because butter is a mil
 (Geldner supplies ‘flame’ rather than ‘cow’ with róhiṇyā, but róhiṇī- elsewhere refers to cows [see nearby VIII.93.13].) Pāda c is more or less VII.81.1a práty u adarśy āyatī́, and since the referent there is Dawn, the simile citréva (i.e., citrā́iva) must be comparing the bright butter offering (bright because it is whitish yellow or because it makes the fire brighter) to Dawn. As for the ten arms, Oldenberg and Geldner both suggest that these are the arms of the five Adhvaryus. However, it seems possible to me that we’re dealing with body-part inflation, and the ten “arms” are the ten fingers (of a single priest) regularly referred to in ritual contexts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She yonder, bending lowly down, clothed in red hues and rich in rays,  
      Is seen, advancing as it were with various tints, amid the ten surrounding arms.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese niedergehende, von Lobsang begleitete - von der rötlichen Flamme werden ihre Farben verwandelt - hat in den zehn Armen einen Anblick wie die ankommende buntfarbige Usas geboten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diese [Morgenröthe], welche sich niederneigt, strahlend, schöne Farben sind durch die rothe hervorgerufen wie ein geschmücktes Weib erschien sie als sie herkam zwischen den zehn Armen [Weltgegenden Sāy.].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта направленная вниз, сопровождаемая песнями,  
 Принявшая (свой) облик благодаря рыжей (корове),  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्ये꣡ नः प꣡र्वतासः सुशस्त꣡यः  
 सुदीत꣡यो नदि꣡यस् त्रा꣡मणे भुवन्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उरुव्य꣡चा अ꣡दितिः श्रोतु मे ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 भगः॑ । वि॒ऽभ॒क्ता । शव॑सा । अव॑सा । आ । ग॒म॒त् । उ॒रु॒ऽव्यचाः॑ । अदि॑तिः । श्रो॒तु॒ । मे॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -137,41 +137,41 @@ genre M
 **उत** अपि च **त्ये** ते **पर्वतासः** पर्ववन्तः अद्रयः **सुशस्तयः** शोभनस्तुतयः किंच **सुदीतयः** सुदानाः **नद्यः** च **त्रामणे** पालने **नः** अस्माकं **भुवन्** भवन्तु । **भगः** देवः **विभक्ता** धनानां विभागकर्ता दाता सन् **शवसा** अन्नेन **अवसा** रक्षणेन च सह **आ** **गमत्** आगच्छतु । **उरुव्यचाः** प्रभूतव्याप्तिः **अदितिः** अदीना देवमाता **मे** **हवं** स्तुतिमाह्वानं वा **श्रोतु** शृणोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Or may the glorious mountains, the beneficient rivers, be to us for our preservation; may **Bhaga**, the apportioner of wealth, come with abundance and protection; may this wide-pervading **Aditi** hear my invocation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And may these mountains, receiving good praises, and the very bright  rivers be (there) for our protection.  
 May Bhaga, the apportioner, come here with capacity (and) help. Let  Aditi of broad extent hear my call.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The mountains of 3b reappear here; the waters, their companions in 3b, are replaced by the rivers (nadyàḥ), also feminine of course. Bhaga also recurs from 2d and 3d. It seems significant that Aditi is the last divinity named before the “wives” vss.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And may the Mountains famed in noble eulogies, and the fair-gleaming Rivers keep us safe from harm.  
      May Bhaga the Dispenser come with power and grace, and far-pervading Aditi listen to my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch jene gelobten Berge und die glänzenden Flüsse mögen uns zum Schutze sein. Bhaga, der Austeiler, komme mit Macht und Gnade; die geräumige Aditi soll meinen Ruf erhören!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und jene hochgepriesnen Bergeshöhen auch, die glanzerfüllten Ströme seien uns zum Schutz; Mit Kraft und Huld komm Bhaga, der Vertheiler her, die weitgedehnte Aditi hör meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также те прославленные горы,  
 Сверкающие реки да будут нам во спасение!  

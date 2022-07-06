@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ अग्न आशुषाणा꣡स इष्टी꣡र्  
 युवोः꣡ स꣡चा अभि꣡ अश्याम वा꣡जान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 मा । इन्द्रः॑ । नः॒ । विष्णुः॑ । म॒रुतः॑ । परि॑ । ख्य॒न् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etāḥ* ← *etad*
 - \[noun\], accusative, plural, feminine
@@ -128,36 +128,36 @@ genre M;; repeated line
 हे **अग्ने** । उपलक्षणमेतत् । हे इन्द्राग्नी **एताः** **इष्टीः** इमान् यज्ञान् **आशुषाणासः** आशु शीघ्रं संभजमाना वयं **युवोः** युवयोः स्वभूतान् **वाजानं** अन्नानि **सचा** सह युगपदेव **अभ्यश्याम** अभिप्राप्नुयाम । अपि च **इन्द्रः** **विष्णुः** **मरुतः** च **नः** अस्मान् **मा** **परि** **ख्यन्** अस्मान् परित्यज्यान्यान् मा द्राक्षुः । सर्वदास्मानेव पश्यन्तु । अन्यद्गतम् ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Diligently celebrating these rites, may we, **Agni**, (and **Indra**), at once arrive at your food; let not Indra,Viṣ.u, the **Maruts**, abandon us; and do you (gods) ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aspiring to these desires, Agni, might we attain prizes in company with  you two.  
 Let Indra, Viṣṇu, and the Maruts not overlook us. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 While we accelerate these our sacrifices, may we win strength from both of you, O Agni:  
      Ne'er may the Maruts, Indra, Visnu slight us. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Diese Wünsche euch einschärfend, möchten wir von euch gemeinsam die Belohnung erlangen. Nicht mögen uns Indra, Vishnu und die Marut übersehen.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Anfachend, Agni, diese Opfer mögen durch eure Hülfe Schätze wir erlangen, uns seien hold die Maruts, Indra, Vischnu; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Внушая эти (наши) желания. О Агни,  
 Мы хотим от вас двоих вместе добиться наград,  

@@ -8,7 +8,7 @@ title = "+041"
 ‘को नु वाम् ' इति विंशत्यृचं नवमं सूक्तं भौमस्यात्रेरार्षम् । षोडशीसप्तदश्यावतिजगत्यौ विंश्यैकपदा विराट् शिष्टाः सप्तदश त्रिष्टुभः । विश्वे देवा देवता । तथा चानुक्रान्तं-’को नु विंशतिर्वैश्वदेवं वै तत् षोळश्याद्यतिजगत्यावन्त्यैकपदा' इति । विनियोगो लैङ्गिकः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 41 (395)  
 All Gods  
@@ -21,7 +21,7 @@ use of the simple conjunction “or” (vā) as the verbal “hero” of the beg
 Unfortunately other pieces of verbal play are essentially untranslatable, like  the unusual sequence of two monosyllables at the end of the first half-verse of  verse 1:... vā dé (“or...to be given”), which, scrambled, produces the target of the  hymn: devā(ḥ) “gods.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods As noted in the published introduction, the hymn consists of verses dedicated to a sequence of gods, both major and minor, seemingly unordered. The full list consists of 1 Mitra and Varuṇa / 2 Mitra, Varuṇa, Āyu, Indra, Maruts, Rudra / 3 Aśvins, Rudra / 4 Trita, Wind, Agni, Pūṣan, Bhaga / 5 Maruts / 6 Vāyu / 7 Night and Dawn / 8 Men (Maruts?), Lord of the Dwelling Place, Tvaṣṭar, trees, plants, Holy Place / 9 Mountains, Āptya / 10 Trita, Apām Napāt, Agni / 11 Maruts, Bhaga, waters, plants, woods, mountains / 12 Agni, Waters / 13 Maruts / 14 Indra (maybe) / 15 Shielding Goddess, Rasā / 16 Maruts, Ahi Budhnya / 17 gods / 18 gods, goddess / 19-20 Iḍā, Urvaśī. The Maruts regularly recur in this sequence, and though, as noted in the published
 

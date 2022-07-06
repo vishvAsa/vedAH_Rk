@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्ने मनीषि꣡णस्  
 तुवां꣡ हिन्वन्ति चि꣡त्तिभिः  
 तुवां꣡ वर्धन्तु नो गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 त्वाम् । व॒र्ध॒न्तु॒ । नः॒ । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -83,36 +83,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **अग्ने** **त्वां** **मनीषिणः** मनस ईश्वराः स्तोतारः स्तुतिभिः स्तुवन्तीति शेषः । किंच **त्वाम्** एव **चित्तिभिः** कर्मभिः **हिन्वन्ति** प्रणयन्ति । **नः** अस्माकं **गिरः** स्तुतयः **त्वाम्** एव **वर्धन्तु** वर्धयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, the wise (praise), you they rejoice with (pious) rites; may our praises invigorate you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, do those of inspired thought, you do they spur on with their  insights.  
 Let our hymns strengthen you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, they who understand stir thee to action with their thoughts:  
      So let our songs enhance thy might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, treiben die Nachsinnenden an, dich mit ihren Gedanken; dich sollen unsere Lobreden groß machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich regen die Verständigen, o Agni, mit Gebeten an; Lass unsre Lieder stärken dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, вдумчивые (провидцы),  
 Тебя поторапливают они (своими) мыслями.  

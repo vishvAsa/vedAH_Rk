@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡व स्विद् आसां कतमा꣡ पुराणी꣡  
 य꣡या विधा꣡ना विदधु꣡र् ऋभूणा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ वि꣡ ज्ञायन्ते सदृ꣡शीर् अजुर्याः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शुभ॑म् । यत् । शु॒भ्राः । उ॒षसः॑ । चर॑न्ति । न । वि । ज्ञा॒य॒न्ते॒ । स॒ऽदृशीः॑ । अ॒जु॒र्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kva*
 - \[adverb\]
@@ -128,14 +128,14 @@ genre M
 **आसाम्** उषसां मध्ये **क्व** **स्वित्** अभूदद्य **कतमा** **पुराणी** पुरातनी । **यया** **ऋभूणां** संबन्धीनि **विधाना** चमसादिनिर्माणानि **विदधुः** अकुर्वन् ऋभवः। **यत्** याश्च **उषसः** **शुभ्राः** दीप्ताः **शुभं** **चरन्ति** शोभां दीप्तिं कुर्वन्ति । ताः **अजुर्याः** अशीर्णा नित्यनूतनाः ”न **वि** **ज्ञायन्ते** । यतः **सदृशीः** सदृश्यः सर्वेष्वपि दिवसेष्वेकरूपा अतोऽद्यतन्य एता एताः पुराण्य इति न ज्ञायन्ते । उषासादृश्यं  सदृशीरद्य सदृशीरिदु श्वः' (ऋ. सं. १. १२३. ८) इत्यत्र प्रतिपादितम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where is that ancient one of those (Dawns), through whom the works of the **Ṛbhus** were accomplished? For as the bright Dawns happily proceed, they are not distinguished, being alike and undecaying.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where is she, which one of them is she, the age-old one along  with whom they distributed the distributions of the  
 R̥bhus?  
@@ -143,7 +143,7 @@ R̥bhus?
 appearance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 katamā́‘which one?’ echoes purutámam ‘the latest of many’ in 1a. Note that again when a singular dawn is referred to, the word uṣás- is not used.
 
@@ -157,23 +157,23 @@ The cmpd. ṛtájātasatya- is unusual not only in having 3 members (quite rare 
 (“véritablement nées de l’Ordre”). I think the cmpd requires a more literal and weighty rendering -- “whose reality was born from truth” (which I would substitute for what is found in the published translation) -- meaning that the dawns we see and who come daily to our world and our sacrifice, who are really here, arose from the true cosmic patterns that govern the universe of time and space.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Which among these is eldest, and where is she through whom they fixed the Rbhus' regulations?  
      What time the splendid Dawns go forth for splendour, they are not known aparto alike, unwasting.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo und die wievielte unter ihnen ist wohl jene vergangene, unter der sie die Aufträge für die Ribhu´s bestimmten? Wenn die prangenden Usas´ prunkend ausfahren, so sind sie nicht zu unterscheiden, die gleichaussehenden, alterlosen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo, die wievielste ihrer ist die alte, durch die die Schar der Ribhu's sie vertheilten? Wenn schön zum Schmucke gehn die Morgenröthen, erscheinen gleich dem Blick die ewig jungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где (и) которая из них (та) древняя,  
 Благодаря кому они установили установления для Рибху?  

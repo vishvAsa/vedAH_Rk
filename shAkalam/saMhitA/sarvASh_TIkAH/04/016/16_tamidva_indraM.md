@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡द् व इ꣡न्द्रं सुह꣡वं हुवेम  
 य꣡स् ता꣡ चका꣡र न꣡रिया पुरू꣡णि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मक्षू꣡ वा꣡जम् भ꣡रति स्पार्ह꣡राधाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । माऽव॑ते । ज॒रि॒त्रे । गध्य॑म् । चि॒त् । म॒क्षु । वाज॑म् । भर॑ति । स्पा॒र्हऽरा॑धाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -140,43 +140,43 @@ genre M
 **यः** इन्द्रः **नर्या** नर्याणि मनुष्यहितानि **पुरूणि** बहूनि **ता** तानि प्रसिद्धानि कर्माणि **चकार** अकरोत् । किंच **स्पार्हराधाः** स्पृहणीयधनः **यः** इन्द्रः **मावते** मत्सदृशाय **जरित्रे** स्तोत्रे **गध्यं** चित् ग्राह्यं संयोजनीयमपि **वाजम्** अन्नं **मक्षु** शीघ्रं **भरति** आहरति । वयं स्तोतारो हे यजमानाः **वः** युष्मभ्यं **तमित्** तमेव **इन्द्रं** **सुहवं** शोभनमाह्वानं यथा भवति तथा **हुवेम** आह्वयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us invoke that gracious **Indra** who has made so many things good for man; who, bestowing enviable opulence, quickly brings acceptable food to a worshipper like me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just him, Indra easy to call, would we call upon for you—him who  performed the many manly (labors),  
 who quickly brings a prize worth securing even to a singer like me, him  whose largesse is eagerly sought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take cid with the dat. mā́vate jaritré since I do not see how to construe it sensibly with gádhyam. I cannot explain its displacement to pāda end, however.
 
 On the gádhyaṃ vā́jam see 11c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Call we for you that Indra, prompt to listen, him who hath done so much for men's advantage;  
      Who, Lord of envied bounty, to a singer like me brings quickly booty worth the capture.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Indra, der sich gern rufen läßt, wollen wir für euch rufen, der diese vielen Mannestaten getan hat, der einem Sänger gleich mir alsbald sogar deckenhohen Gewinn einbringt, der beneidenswerte Belohnungen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst Indra rufen uns, der gern erhöret, der diese vielen Heldenthaten wirkte, Erwünschtes Gut besitzend, solchem Sänger, wie ich bin, eilend reiche Beute zuführt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим призвать для вас этого самого легкопризываемого Индру,  
 Кто совершил эти многочисленные мужественные деяния,  

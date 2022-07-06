@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् आनट् ककुहो꣡ दि꣡वम्  
 उ꣡ष्ट्राञ् चतुर्यु꣡जो द꣡दत्  
 श्र꣡वसा या꣡दुवं ज꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 श्रव॑सा । याद्व॑म् । जन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयं राजा **ककुहः** उच्छ्रितः सन् **श्रवसा** कीर्त्या **दिवं** स्वर्गम् **उदानट्** उत्कृष्टतरं व्याप्नोत् । किं कुर्वन् । **चतुर्युजः** चतुर्भिः स्वर्णभारैर्युक्तान् **उष्ट्रान्** **ददत्** प्रयच्छन् । तथा **याद्वं** **जनं** च द्रासत्वेन प्रयच्छन् ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The exalted (prince) has been raised by fame to heaven, for he has given camels laden with four (loadsof gold), and Yādva people (as slaves).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The prominent one has reached up to heaven, giving camels yoked  in fours,  
 and by his fame (has reached) the Yāduva people.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Kakuha hath reached up to heaven, bestowing buffaloes yoked in fours,  
      And matched in fame the Yadavas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Erhabene reicht bis zum Himmel empor, der Kamele zu je vieren gespannt schenkte, mit seinem Ruhme den yaduischen Stamm erfüllend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der grosse reicht zum Himmel empor, der mir vierjochige Büffel geschenkt hat, mit preisenswerther That das Volk [janam scheint fehlerhaft, vielleicht paçum zu lesen] der Jaduer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) выдающийся достиг неба,  
 Кто дал мне (горбатых) буйволов, запрягаемых четверкой,  

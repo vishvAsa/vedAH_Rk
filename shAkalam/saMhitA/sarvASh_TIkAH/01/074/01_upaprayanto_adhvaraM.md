@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उपप्रय꣡न्तो अध्वर꣡म्  
 म꣡न्त्रं वोचेम अग्न꣡ये  
 आरे꣡ अस्मे꣡ च शृण्वते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 आ॒रे । अ॒स्मे इति॑ । च॒ । शृ॒ण्व॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upaprayanto* ← *upaprayantaḥ* ← *upapre* ← *√i*
 - \[verb noun\], nominative, plural
@@ -80,41 +80,41 @@ genre M
 **अध्वरं** हिंसाप्रत्यवायरहितमग्निष्टोमादियज्ञम् **उपप्रयन्तः** उपेत्य प्रकर्षेण यन्तो गच्छन्तः प्राप्त्यविच्छेदेन सम्यगनुतिष्ठन्तः इत्यर्थः । तादृशा वयम् **अग्नये** अङ्गनादिगुणयुक्ताय देवाय **मन्त्रं** मननसाधनमेतत्सूक्तरूपं स्तोत्रं **वोचेम** । वक्तारो भूयास्मेत्याशास्यते । कीदृशायाग्नये । **आरे** **अस्मे** **च** **शृण्वते** । चशब्दः अप्यर्थे आरेशब्दात्परो द्रष्टव्यः । आरे च दूरेऽपि स्थित्वास्माकं स्तुतीः शृण्वते । अस्मासु प्रीत्यतिशयेन सर्वत्र प्रवर्तमानोऽग्निरस्मदीयमेव स्तोत्रं शृणोतीति भावः ॥ वोचेम । ‘ ब्रुवो वचिः । ‘ लिङयाशिष्यङ्'। ‘वच उम्' इति उमागमः । शृण्वते । ‘शतुरनुमः' इति । विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hastening to the sacrifice, let us repeat a prayer to **Agni**, who fears us from afar.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Reverently approaching the ceremony, might we speak a solemn formula  to Agni,  
 to him who listens, (when he is) in the distance and with us (here),
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As forth to sacrifice we go, a hymn to a hymn let us say,  
      Who hears us even when afar;
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Going forward to the sacrifice let us repeat a prayer to Agni who hears us, may he be afar or with us—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Opferdienst antretend wollen wir dem Agni ein Dichterwort aufsagen, der auch in der Ferne auf uns hört;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Opfer schreitend wollen wir dem Agni sprechen ein Gebet, Der uns auch aus der Ferne hört,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приступая к обряду,  
 Мы хотим произнести молитву Агни –  

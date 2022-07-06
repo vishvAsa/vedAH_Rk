@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्रित꣡स्या꣡धि सा꣡नवि  
 प꣡वमानो अरोचयत्  
 जामि꣡भिः सू꣡रियं सह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 जा॒मिऽभिः॑ । सूर्य॑म् । स॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -78,21 +78,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सः** सोमः **त्रितस्य** महर्षेः **अधि** **सानवि** समुच्छ्रिते यज्ञे । अधीति सप्तम्यर्थानुवादी। **पवमानः** पूयमानः **जामिभिः** प्रवृद्धैर्बन्धुभूतैर्वा स्वतेजोभिः **सह** सहितः सन् 'सूर्यम् **अरोचयत्** प्रकाशितवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pure **Soma** upon the high plural ce (of the sacrifice) of **Trita**, attended by its kindred rays, has lighted up the Sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, purifying himself on the back of Trita along with Trita’s kin  
 [=fingers],  
 has made the sun shine.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the sense of this vs., see published introduction. As indicated there, there is much disagreement about the referents. To my disc. there I will only add a few comments.
 
@@ -101,23 +101,23 @@ Relevant for the whole vs. is IX.26.5 tám sā́nāv ádhi jāmáyo, hárim hinv
 (in pāda a) is identical to the one in IX.26.5 just quoted with jāmáyaḥ as subj. (in pāda a) imposes the chain of identifications “Trita’s maidens’ = “siblings” = “fingers.” Therefore, though it may be Trita's back in some sense [he owns and deploys the filter] it's surely also his fingers, here called jāmí-, not Soma's or anyone else's (as has been suggested by others), and though they may stand for various things (Dawns, heavenly rivers, whatever -- again based on various scholars’ suggestions), they start out as fingers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Payamana up above Trita's high ridge hath made the Sun,  
      Together with the Sisters, shine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem erhöhten Platze des Trita ließ Pavamana die Sonne leuchten im Verein mit den Geschwistern des Trita.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hoch auf des Trita Bergeshöh entzündete der flammende Die Sonne sammt der Schwesterschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभा꣡भ्यां देव सवितः  
 पवि꣡त्रेण सवे꣡न च  
 मा᳐꣡म् पुनीहि विश्व꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 माम् । पु॒नी॒हि॒ । वि॒श्वतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhābhyāṃ* ← *ubhābhyām* ← *ubh*
 - \[noun\], instrumental, dual, neuter
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सवितः** सर्वस्य प्रेरक हे **देव** द्योतमान सोम त्वं **पवित्रेण** पापशोधकेन त्वदीयेन तेजसा **सवेन** सोसाभिषवेण **च** एताभ्याम् **उभाभ्यां** **विश्वतः** सर्वतः **मां** **पुनीहि** पूतं कुरु ॥ ॥१७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,13 +87,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Yajus**. 19.43; your three...forms: i.e., fire, wind and sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With both, god Savitar, with the filter and with your impulsion  
 purify me all about.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In addition to the introduction of Savitar, we also get a slight rearrangement in word order. The conjoined phrase pavítreṇa savéna ca would not fit in the slot right before the impv. in c, a position it occupies in 23c, 24b, 24c, 26c, so the final enclitic naḥ is converted to a full prn. mā́m and placed in initial position. This prn. also has to be read as distracted máām to achieve 8 syllables. I wonder why the poet didn’t just use asmā́n, which would fit the meter and better match naḥ. One of the only instances in which I think I could compose the vs. better than the poet - though “me” (both tonic mā́m and enclitic mā) serves as insistent obj. in vs. 27.
 
@@ -110,23 +110,23 @@ The pavítra is mentioned in vss. 22-25, with other, non-physical means of purif
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Savitar, God, by both of these, libation, purifying power,  
      Purify me on every side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit beiden, o Gott Savitri, mit der Seihe und der Eingebung läutere mich ganz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch beides, o Gott Savitar, durch Antrieb und durch Läuterung Durchläutere mich überall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обоими (средствами), о бог Савитар,  
 Цедилкой и побуждением,  

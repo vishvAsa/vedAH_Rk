@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समिधानः꣡ सहस्रजिद्  
 अ꣡ग्ने ध꣡र्माणि पुष्यसि  
 देवा꣡नां दूत꣡ उक्थि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 दे॒वाना॑म् । दू॒तः । उ॒क्थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samidhānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -79,41 +79,41 @@ genre M
 हे **सहस्रजित्** सहस्रस्य जेतः **अग्ने** **समिधानः** हविर्भिः समिध्यमानः **उक्थ्यः** प्रशस्यस्त्वं **देवानां** **दूतः** सन् **धर्माणि** नः कर्माणि यज्ञादिक्रियाः **पुष्यसि** पोषयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Victor over thousands, you favour, when kindled our holy rites, the honoured messenger of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being kindled, o thousand-conquering Agni, you prosper the (ritual)  foundations  
 as the praiseworthy messenger of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Victor of thousands, Agni, thou, enkindled, cherishest the laws,  
      Laud-worthy, envoy of the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Being kindled, Agni, conqueror of thousandfold (wealth), thou makest the ordinances (of the world) thrive, the praiseworthy messenger of the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du Tausendgewinner Agni entzündet wirst, so förderst du die heiligen Bräuche als preiswürdiger Bote der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entflammt, o vielerbeutender, verschönst die Bräuche, Agni, du, Der Götter Bote, preisenswerth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажженный, добывающий тысячи,  
 О Агни, ты приносишь процветание (божественным) установлениям  

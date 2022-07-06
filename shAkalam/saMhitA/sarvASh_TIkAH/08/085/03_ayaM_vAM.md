@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ वां कृ꣡ष्णो अश्विना  
 ह꣡वते वाजिनीवसू  
 म꣡ध्वः सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मध्वः॑ । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -75,20 +75,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **वाजिनीवसू** अन्नयुक्तधनौ । अत्रेनिरनुवादार्थः । यद्वा । वाजो वजनं क्रिया। तद्वती वाजिनी । तद्युक्तधनवन्तौ हे **अश्विना** अश्विनौ **अयं** **कृष्णः** नाम मन्त्रद्रष्टा ऋषिः **वां** युवां **हवते** स्तुतिभिराह्वयति । किमर्थम् । **मध्वः** **सोमस्य** **पीतये** इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Kṛṣṇa** invokes you, **Aśvins** rich in sacrifices, that you may drink the exhilarating **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Kr̥ṣṇa is calling you, o Aśvins whose goods are prizewinning  mares,  
 to drink of the honeyed soma.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/085/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -98,23 +98,23 @@ The Anukramaṇī identifies the poet as Kṛṣṇa Āṅgirasa.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here Krsna is invoking you, O Asvins, Lords of ample wealth.  
      To drink the savoury Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Krishna ruft euch, ihr schätzereichen Asvin, um vom süßen Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rufet dieser Krischna hier, o Ritter, gabenreiche euch, Zum Trunk des süssen Somasafts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот Кришна, о Ашвины,  
 Зовет вас двоих, о богатые наградой,  

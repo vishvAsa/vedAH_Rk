@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नो देवा꣡ विश्व꣡देवा भवन्तु  
 शं꣡ स꣡रस्वती सह꣡ धीभि꣡र् अस्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नो दिव्याः꣡ पा꣡र्थिवाः शं꣡ नो अ꣡प्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 शम् । अ॒भि॒ऽसाचः॑ । शम् । ऊं॒ इति॑ । रा॒ति॒ऽसाचः॑ । शम् । नः॒ । दि॒व्याः । पार्थि॑वाः । शम् । नः॒ । अप्याः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
@@ -141,36 +141,36 @@ genre D
 **विश्वदेवाः** बहुस्तोत्रकाः **देवाः** **नः** अस्माकं **शं** शान्त्यै **भवन्तु** । **सरस्वती** च **धीभिः** स्तुतिभिः कर्मभिर्वा **सह** नोऽस्माकं **शं** शान्त्यै **अस्तु** । **अभिषाचः** यज्ञमभितः सेवमानाश्च नः **शं** शान्त्यै भवन्तु । **रातिषाचः** दानं सेवमाना अपि **शमु** शान्त्या एव भवन्तु । **दिव्याः** दिवि भवाश्च **नः** अस्माकं **शं** शान्त्यै भवन्तु । **पार्थिवाः** पृथिव्यां संभूताश्च नः शं भवन्तु । **अप्याः** अप्स्वन्तरिक्षे भवाश्च । आकाशमापः' इत्यन्तरिक्षनामसु पाठात् । **नः** अस्माकं **शं** शान्त्यै भवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the divine universal gods be (favourable) to our felicity; may **Sarasvatī**, with holy rites, behappiness; may those who assist at sacrifices, those who are liberal of gifts. Be (conducive to) our happiness;may celestial, terrestrial and aquatic things be (subservient to) our happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Luck for us be the Gods, the All Gods; luck be Sarasvatī along with her  insights.  
 Luck the Escorts and luck the Gift-Escorts; luck for us the Heavenly  ones, the Earthly ones, luck for us the Watery ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May all the fellowship of Gods befriend us, Sarasvati, with Holy Thoughts, be gracious.  
      Friendly be they, the Liberal Ones who seek us, yea, those who dwell in heaven, on earth, in waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück sollen uns die Götter, die Allgötter sein, zum Glück Sarasvati mit den frommen Gedanken; zum Glück die Begleiterinnen und die mit Gaben Kommenden, zum Glück uns die im Wasser wohnenden Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns sein zum Heil der Götterallheit Götter, Sarasvati mit Göttinnen der Andacht, Zum Heil die Spender und die Spenderinnen im Himmel und auf Erden und in Wassern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье нам пусть будут боги, Все-Боги!  
 На счастье пусть будет Сарасвати с молитвами!  

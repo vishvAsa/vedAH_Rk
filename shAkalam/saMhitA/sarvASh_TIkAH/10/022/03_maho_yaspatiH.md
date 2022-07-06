@@ -6,7 +6,7 @@ ChandaH = "पुरस्ताद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महो꣡ य꣡स् प꣡तिः श꣡वसो अ꣡साम्य् आ꣡  
 महो꣡ नृम्ण꣡स्य तूतुजिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "पुरस्ताद्बृहती"
 पिता꣡ पुत्र꣡म् इव प्रिय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 भ॒र्ता । वज्र॑स्य । धृ॒ष्णोः । पि॒ता । पु॒त्रम्ऽइ॑व । प्रि॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
@@ -110,37 +110,37 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **यः** इन्द्रः **महः** महतः **शवसः** बलस्य **पतिः** ईश्वरः **असाम्या** । आङ् मर्यादायाम् । आ समाप्तेः । अनन्तगुण इत्यर्थः। **महः** महतः **नृम्णस्य** धनस्य च **तूतजिः** स्तोतृभ्यः प्रेरकः । किंच **धृष्णोः** शत्रूणां धर्षकस्य **वज्रस्य** स्वकीयस्यायुधस्य **भर्ता** य इन्द्रो धारयिता । स इन्द्रोऽस्मान् पात्विति शेषः। तत्र दृष्टान्तः । **पिता** **पुत्रमिव** **प्रियम्** । यथा पितेप्सितं सुतं पाति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(May **Indra** protect us) who is the lord of great strenght, of unequalled (power), the distributor of greatwealth, the cherisher of the dreadful thunderbolt as a father (cherishes) a dear son.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who is the lord of great strength, not by halves, and of great  
 manliness, the thruster,  
 the bearer of the bold mace, like a father (of) his dear son.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who is Sovran Lord of great and perfect strength, exerter of heroic might,  
      Who bears the fearless thunder as a father bears his darling son.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der der Herr großer Kraft ist, ganz ungeteilt, der der Erreger großen Mannesmuts ist, der die kühne Keule trägt wie der Vater seinen lieben Sohn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der ein Herr ist grosser Macht in vollem Glanz, Erreger grosser Manneskraft, Der Träger kühnen Donnerkeils, der wie ein Vater liebt den Sohn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто безраздельный повелитель великой силы,  
 Возбудитель великого мужества,  

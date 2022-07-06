@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व त्ये꣡ सोम पवमान निण्ये꣡  
 वि꣡श्वे देवा꣡स् त्र꣡य एकादशा꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मृज꣡न्ति त्वा नदि꣡यः सप्त꣡ यह्वीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दश॑ । स्व॒धाभिः॑ । अधि॑ । सानौ॑ । अव्ये॑ । मृ॒जन्ति॑ । त्वा॒ । न॒द्यः॑ । स॒प्त । य॒ह्वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -119,41 +119,41 @@ genre M
 हे **पवमान** पूयमान हे **सोम** **तव** स्वभूताः **त्ये** ते प्रसिद्धाः **त्रय** **एकादशासः** । पूरणार्थे डट् प्रत्ययः । त्रयस्त्रिंशत्संख्याकाः **विश्वे** सर्वे **देवाः** **निण्ये** । अन्तर्हितनामैतत् । अन्तर्हिते स्थाने द्युलोके वर्तन्ते । तादृशं त्वां दशसंख्याका अङ्गुलयः **अधि** **सानौ** अधिकं समुच्छ्रिते **अव्ये** अविमये पवित्रे **स्वधाभिः** उदकैः **मृजन्ति** शोधयन्ति । किंच **यह्वीः** ।' वा छन्दसि । इति पूर्वसवर्णदीर्घः । यह्वयो महत्यः **सप्त** सप्तसंख्याका गङ्गाद्याः **नद्यः** **त्वा** त्वां **मृजन्ति** । वसतीवर्यात्मकैरेकधनात्मकैश्च स्वीयैरुदकैस्त्वां मार्जयन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Soma** **Pavamāna**, you are the thrice eleven universal gods abiding in the secret (heaven); the ten (fingers) cleanse you with the waters upon the elevated fleece, the seven great rivers (cleanse you).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O self-purifying Soma, it is in your secret that all these gods are, the three  times eleven.  
 The ten (fingers) with their autonomous powers, the seven exuberant  streams groom you upon the sheep’s back.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was suggested in the published introduction, this vs. may constitute a weak omphalos. In particular, the purport of the first hemistich is not clear to me: what does it mean to say “the gods are in your secret”? Renou supplies ‘domain’ with niṇyé, but doesn’t elucidate. Geldner floats two possibilities in his n. 4a. The first, which he says is illuminated by IX.95.2, is that the gods are Soma’s secret, which only he can reveal. This is not quite what IX.95.2 says; there Soma reveals the hidden names (gúhyāni nāma) of the gods, with an acc. pl. not a loc. sg. I am more convinced by his 2nd proposal, that we supply loc. nā́mani with niṇyé, and interpr. it to mean that Soma’s “secret name” is amṛ́ta- ‘immortal’ (‘ambrosia’), a word indeed regularly used for soma. Since this word is also, of course, a standard descriptor for the gods, they are/exist, in the verbal sense, “in your secret (name).” Although the loc. nā́man(i) is not found in the RV, this seems an accidental gap. The multistep mystery—1) figure out what, if anything, to supply with niṇyá-: nā́mani; 2) solve for what the “secret (name)” is: amṛ́ta; 3) then apply the resultant name to the gods—is worthy of an omphalos. To make the tr. clearer I would substitute “it is in your secret (name [=(drink of) immortality]) that all these gods [=the immortals] are …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In thy mysterious place, O Pavamana Soma, are all the Gods, the Thrice-Eleven.  
      Ten on the fleecy height, themselves, self-prompted, and seven fresh rivers, brighten and adorn thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In deinem Geheimnis sind, o Soma Pavamana, all diese dreimal elf Götter. Zehn Finger putzen dich aus eigenem Antrieb über dem Schafrücken; es putzen dich die sieben jüngsten Ströme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An deinem heil'gen Ort, o lichter Soma, sind alle diese dreiunddreissig Götter; Zehn Finger klären dich auf wollnem Gipfel aus eigner Lust und sieben schnelle Ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В твоем тайном (месте), о Сома-Павамана,  
 (Находятся) все эти боги, (числом) трижды одиннадцать.  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो अ꣡ज्ञाता वृज꣡ना दुराधि꣡यो  
 मा꣡शिवासो अ꣡व क्रमुः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡ति शूर तरामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वया॑ । व॒यम् । प्र॒ऽवतः॑ । शश्व॑तीः । अ॒पः । अति॑ । शू॒र॒ । त॒रा॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -110,37 +110,37 @@ genre M
 हे इन्द्र **अज्ञाताः** अज्ञातगमनाः **वृजनाः** हिंसकाः **दुराध्यः** **नः** अस्मान् **मा** **अव** **क्रमुः** मावचक्रमुः। हे **शूर** **त्वया** **वयं** वसिष्ठाः **प्रवतः** प्रवणकाः सन्तः **शश्वतीः** बह्वीः **अपः** **अति** **तरामसि** अतितराम ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let no unknown, wicked, malevolent, malignant (enemies) overpower us; may we, protected by you,cross over many waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let not communities unknown—ill-intentioned and unkindly  
 disposed—trample us down.  
 With you, o champion, let us cross over the (river-)courses one after  another, cross over the waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Grant that no mighty foes, unknown, malevolent, unhallowed, tread us to the ground.  
      With thine assistance, Hero, may we ass through all the waters that are rul`ng down.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht sollen uns unbekannte Bündner, die Böses im Schilde führen, nicht Feinde uns unter die Füße treten. Mit dir setzen wir über alle Flußläufe, über die Gewässer hinüber, du Held.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht mögen heimlich bösgesinnte Scharen uns beschleichen, noch verderbliche; Mit dir, o Held, durchschreiten wir den Wasserschwall, der von dem Abhang niederstürzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть неизвестные злоумышляющие общины,  
 Пусть недружелюбные (люди) не затопчут (нас)!  

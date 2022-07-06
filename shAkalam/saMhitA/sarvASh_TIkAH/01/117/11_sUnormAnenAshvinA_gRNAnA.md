@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सूनो꣡र् मा꣡नेन अश्विना गृणाना꣡  
 वा꣡जं वि꣡प्राय भुरणा र꣡दन्ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ विश्प꣡लां नासतियारिणीतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒गस्त्ये॑ । ब्रह्म॑णा । व॒वृ॒धा॒ना । सम् । वि॒श्पला॑म् । ना॒स॒त्या॒ । अ॒रि॒णी॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūnor* ← *sūnoḥ* ← *sūnu*
 - \[noun\], genitive, singular, masculine
@@ -101,7 +101,7 @@ genre M
 **भुरणा** भर्तारौ पोषकौ **नासत्या** सत्यस्वभावौ हे अश्विनौ **सूनोः** कुम्भात् प्रसूतस्य अगस्त्यस्य खेलपुरोहितस्य संबन्धिना **मानेन** स्तुत्यस्य परिच्छेदकेन स्तोत्रेण **गृणाना** स्तूयमानौ **विप्राय** मेधावने भरद्वाजाय ऋषये **वाजम्** अन्नं **रदन्ता** विलिखन्तौ निष्पादयन्तौ युवां **विश्पलां** संग्रामे छिन्नजङ्घां खेलस्य संबन्धिनीं स्त्रियं **सम्** **अरिणीतं** पुनः आयस्या जङ्या समयोजयतम् । तृतीयेन पादेन प्रथमपादोक्तोऽर्थो विव्रियते । **अगस्त्ये** ऋषौ **ब्रह्मणा** मन्त्ररूपेण स्तोत्रेण **ववृधाना** प्रवर्धितौ इति ॥ गृणाना । गॄ शब्दे'। व्यत्ययेन कर्मणि कर्तृप्रत्ययः । प्वादीनां ह्रस्वः । भुरणा । ‘भुरण धारणपोषणयोः '। कण्ड्वादिः । पचाद्यच् । अतोलोपयलोपौ । ‘सुपां सुलुक्' इति विभक्तेराकारः। आमन्त्रितनिघातः । विप्राय' इत्यस्य भुरणेत्यनेन असामर्थ्यात् न पराङ्गवत्वम् । ववृधाना । वृधेर्लिटः कानच् । संहितायां छान्दसमभ्यासस्य दीर्घत्वम् । तुजादित्वे हि तूतुजान इतिवत् पदकालेऽपि स्यात् । अरिणीतम् । “ री गतिरेषणयोः'। क्रैयादिकः । प्वादीनां ह्रस्वः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,29 +114,29 @@ The son of the jar: **sunu** = son; kubhāt **prasuta**, i.e. Agastya;
 Viprāya = Bharadvājāya ṛṣaye
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being sung by Sūnor Māna [=Agastya], o energetic Aśvins, digging out  victory’s prize for the inspired poet,  
 and growing strong alongside Agastya through his poetic formulation,  you draw Viśpalā back together, Nāsatyas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hymned with the reverence of a son, O Asvins ye Swift Ones giving booty to the singer,  
      Glorified by Agastya with devotion, established Vispala again, Nasatyas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Sunor Mana gepriesen, brachtet ihr Asvin dem Redegewaltigen den Siegerpreis, ihr Eilige; bei Agastya durch feierliche Rede erbaut, machtet ihr Nasatya´s die Vispali heil.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepriesen bei des Mana Sohn Agastja, o schnelle Ritter, Gut dem Sänger spendend, Verherrlichet durch seine Andachtslieder habt Viçpalā ihr hergestellt, o Treue.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспетые, о Ашвины, Сунор Маной,  
 Вырывающие награду для вдохновенного, о подвижные,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡री नु꣡ कं र꣡थ इ꣡न्द्रस्य योजम्  
 आयइ꣡ सूक्ते꣡न व꣡चसा न꣡वेन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ रीरमन् य꣡जमानासो अन्ये꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मो इति॑ । सु । त्वाम् । अत्र॑ । ब॒हवः॑ । हि । विप्राः॑ । नि । री॒र॒म॒न् । यज॑मानासः । अ॒न्ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
@@ -146,37 +146,37 @@ genre M
 इन्द्रस्यसम्बन्धिनिरथे हरीएतन्नामकावश्वौनुक्षिप्रङ्कंसुखेनआयैगमनायनवेनान्यैरकृत पूर्वेणवचसा- वेदात्मकेनसूक्तेनसाधनेनयोजंयुनज्मि युजिर् योगे लुङि इरितोवेतिच्लेरङादेशः अत्रास्मिन्यज्ञेबह- वोविप्रामेधाविनः स्तोतारोभवन्तिहि तथापिअन्येमद्भ्यतिरिक्तायजमानासोयजमानाः त्वां सु सुष्ठु मोनिरीमन् नितराम्मारमयन्तु अतोस्मदीयंयज्ञमागत्यसोमम्पिबेतिभावः रीरमन् रमतेर्ण्यन्तस्यलुङि- चङिसन्वद्भावादभ्यासस्येत्वदीर्घौ वाक्यभेदादत्र हियोगाभावेननिघातः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I harness quickly and easily the horses to the car of **Indra** for its journey, by new and well-recited prayer; many wise (worshippers) are present here; let not other instrumental tutors of sacred rites tempt you (away).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now I shall yoke the two fallow bays to Indra’s chariot by a new,  well-spoken speech in order that he come.  
 Let other sacrificers—for inspired poets are many—not stop you  
 in this.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra's car the Bay Steeds have I harnessed, that new well-spoken words may bring him hither.  
      Here let not other worshippers detain thee, for among us are many holy singers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Falben will ich nun mit neuer, wohlgesetzter Rede an Indra´s Wagen schirren, daß er komme. Nicht sollen dich dabei - denn es gibt viele Redekundige - die anderen Opfernden aufhalten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Füchse will ich schirr'n an Indra's Wagen, durch Spruch und neues Lied ihn herzuziehen; Nicht mögen dich – denn viele gibt's der Sänger – jetzt andre Priester dort zur Einkehr lenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот запрягу я пару буланых коней в колесницу Индры,  
 Чтобы он приехал, с помощью новой прекрасно произнесенной речи.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान म꣡हि श्र꣡वश्  
 चित्रे꣡भिर् यासि रश्मि꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡श्वानि दाशु꣡षो गृहे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 शर्ध॑न् । तमां॑सि । जि॒घ्न॒से॒ । विश्वा॑नि । दा॒शुषः॑ । गृ॒हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
@@ -95,7 +95,7 @@ genre M;; repeated line
 हे **पवमान** **महि** महत् **श्रवः** श्रवणीयमन्तरिक्षं **चित्रेभिः** चित्रैर्नानाविधैश्चायनीयैर्वा **रश्मिभिः** परि **यासि** परिगच्छसि । तथा **शर्धन्** वेगं कुर्वंस्त्वं **दाशुषः** हविर्दत्तवतो यजमानस्य **गृहे** स्थित्वा **विश्वानि** सर्वाणि **तमांसि** तमोरूपाणि रक्षांसि **जिघ्नसे** हंसि । एवं द्यावापृथिव्योः वर्तस इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,12 +106,12 @@ genre M;; repeated line
 The vast firmament: **śravaḥ** = śravanīyam, i.e. antarikṣam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O self-purifying one, you drive to great fame with your brilliant rays. Vaunting yourself, you keep smashing away all the dark shades in the  house of the pious man.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has nothing in common with its match, vs. 2, until the end, where the two d pādas are identical: víśvāni dāśúṣo gṛhé “all (things) in the house of the pious man.” The two pādas are adapted to two very different themes: in 2 ‘all’ modifies vásūni ‘goods’ (c), which Soma will make flourish in the house of the pious, whereas in 7 the context is darker: ‘all’ modifies támāṃsi ‘dark shades’, which Soma smashes away in the same location.
 
@@ -126,23 +126,23 @@ As noted in the published introduction, these vss., constituting a separate hymn
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Pavamana, movest on with wondrous rays to great renown.  
      Striving within the votary's house thou drivest all the glooms away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Pavamana, nach großem Ruhme ziehst du aus mit deinen wunderbaren Strahlen. Kraftbewußt zerstörst du alle Finsternis im Hause des Opferwilligen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O flammender, du gehst zu hohem Ruhm mit glänzenden Strahlen; kühn vertilgst du alles Dunkel in dem Hause des Verehrers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Павамана, к великой славе  
 Идешь ты со (своими) яркими лучами.  

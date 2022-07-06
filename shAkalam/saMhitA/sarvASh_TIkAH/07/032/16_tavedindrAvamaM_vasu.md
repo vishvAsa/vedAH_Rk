@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वे꣡द् इन्द्रावमं꣡ व꣡सु  
 तुव꣡म् पुष्यसि मध्यम꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 न꣡किष् ट्वा गो꣡षु वृण्वते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒त्रा । विश्व॑स्य । प॒र॒मस्य॑ । रा॒ज॒सि॒ । नकिः॑ । त्वा॒ । गोषु॑ । वृ॒ण्व॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taved* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -110,7 +110,7 @@ genre M
 हे **इन्द्र** **अवमम्** अधमं त्रपुसीसादिकं **वसु** धनम् । यद्वा भौमं वस्ववमम्। **तवेत्** तवैव । **त्वं** त्वमेव **मध्यमं** वसु रजतहिरण्यादिकमान्तरिक्षं वा **पुष्यसि** । **विश्वस्य** सर्वस्य **परमस्य** उत्तमस्यापि रत्नादेर्दिव्यस्य वा वसुनः **राजसि** ईशिषे। **सत्रा** सत्यमेव । अपि च **त्वा** त्वां **गोषु** निमित्तेषु **नकिः** **वृण्वते** केऽपि न वारयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ genre M
 Na kis' tva **goṣu** vriṇvate = goṣu nimitteṣuke api tvām na vārayanti, none resist or oppose you on account of the cows
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yours alone is the lowest good thing, Indra; you prosper the  middling one.  
 You rule over each highest one entirely. No one obstructs you when  cattle (are at stake).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine, Indra, is the lowest wealth, thou cherishest the mid-most wealth,  
      Thou ever rulest all the highest: in the fray for cattle none resisteth thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein, Indra, ist das unterste Gut, du mehrest das mittlere, du gebietest über alles höchste insgesamt. Nicht wehren sie dir im Kampf um die Rinder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das untre Gut ist, Indra, dein; das mittlere entfaltest du; Und über alles obere gebietest du; dich hemmt man nicht, wenn's Heerden gilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь твое, о Индра, нижнее добро.  
 Ты приводишь к процветанию среднее,  

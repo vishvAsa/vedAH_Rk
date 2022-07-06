@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡न् समर्ये꣡ पवमान चोदय  
 द꣡क्षो देवा꣡नाम् अ꣡सि हि꣡ प्रियो꣡ म꣡दः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पि꣡बेन्द्र सो꣡मम् अ꣡व नो मृ꣡धो जहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ज॒हि । शत्रू॑न् । अ॒भि । आ । भ॒न्द॒ना॒ऽय॒तः । पिब॑ । इ॒न्द्र॒ । सोम॑म् । अव॑ । नः॒ । मृधः॑ । ज॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmān* ← *mad*
 - \[noun\], accusative, plural
@@ -137,43 +137,43 @@ genre M
 हे **पवमान** सोम **अस्मान्** समर्ये संग्रामे **चोदय** प्रेरय। **दक्षः** **हि** **असि** समर्थः खलु भवसि **देवानां** मध्ये । यद्वा । देवानां प्रीणनाय दक्षोऽसि । यद्वा । दक्षस्त्वं देवानां **प्रियः** प्रियकरो **मदः** मादयितासि हि । **जहि** च **शत्रून्** अस्माकम् । **अभ्या** गच्छ चास्मान् प्रति **भन्दनायतः** । भन्दनाः स्तुतयः । भन्दतेः स्तुतिकर्मणः । ता इच्छतः । **पिब** च **इन्द्र** **सोमम्** **अव** **जहि** च **नः** अस्माकं **मृधः** संग्रामात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified (**Soma**), animate us in battle; for you are powerful, dear to the gods, the exhilarator. Slay our foes, approach (us) who desire (to propitiate you by) praises; **Indra**, drink the Soma, destroy our adversaries.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Spur us on in the clash, self-purifying one, for you are the skill of the  gods, their dear exhilarating drink.  
 Smash the rivals; (come) here to those seeking blessings. Drink the soma,  Indra; smash down the scorners for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda c the preverbs abhy ā́are oddly positioned, after the caesura, and, more important, the two apparent acc. objects śátrūn ‘rivals’ and bhandanāyátaḥ ‘those seeking blessings’ are antithetical, with only the first an appropriate obj. to jahí. The problems disappear if, with Geldner, we supply a second verb to go with the preverbs and to govern the 2nd acc. A verb of motion fits well, and √i, √gam, and √yā all appear with this combination of preverbs, whereas √han does not. Geldner goes for slightly richer semantics: “(komm) … zu (Hilfe)” - without specifying what verb he supplies, but note that √av does not appear with those preverbs.
 
 The identities of Soma and Indra appear to bleed into each other in the course of the vs. In ab the 2nd ps. subject is clearly Soma, on the basis of voc. pavamāna (a) and priyó mádaḥ (b). The assumption then is that the impv. jahí in c is also addressed to Soma. But in d we get direct address of Indra and at the end of the pāda he is the subj. of a second jahi. Therefore pāda c, which contains no lexical clue to the addressee, could be addressed either to Soma or to Indra (or both).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavamana, urge us forward in the fight thou art the vigour of the Gods, the well-loved drink.  
      Smite thou our enemies who raise the shout of joy: Indra, drink Soma juice, and drive away our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach uns im Wettkampf scharf, o Pavamana, denn du bist die Kraft der Götter, ihr lieber Rauschtrank! Erschlage die Feinde, komm denen zu Hilfe, die löbliches erstreben! Trink, Indra, den Soma, drisch auf unsere Verächter los!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib Muth und Kraft uns in der Schlacht, o flammender; denn du bist Kraft der Götter, du ihr Heber Trank; Die Feinde tödte, die nach Gut begierig sind, Trink Soma, Indra, jage unsre Hasser fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вдохнови нас в битве, о Павамана –  
 Ведь ты сила действия богов, приятное опьянение!  

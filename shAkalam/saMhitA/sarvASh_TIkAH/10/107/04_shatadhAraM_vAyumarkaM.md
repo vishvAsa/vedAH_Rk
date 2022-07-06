@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शत꣡धारं वायु꣡म् अर्कं꣡ सुवर्वि꣡दं  
 नृच꣡क्षसस् ते꣡ अभि꣡ चक्षते हविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ते꣡ द꣡क्षिणां दुहते सप्त꣡मातरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ये । पृ॒णन्ति॑ । प्र । च॒ । यच्छ॑न्ति । स॒म्ऽग॒मे । ते । दक्षि॑णाम् । दु॒ह॒ते॒ । स॒प्तऽमा॑तरम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatadhāraṃ* ← *śata*
 - \[noun\], neuter
@@ -138,36 +138,36 @@ popular
 ऋत्विजोऽत्र संगच्छन्त इति संगमः ॥ ‘ ग्रहवृदृनिश्चिगमश्च' इत्यधिकरणेऽप् । थाथादिस्वरः ॥ तस्मिन् यज्ञे **ये** यष्टारः **पृणन्ति** स्तुतिभिः प्रीणयन्ति । ये **च** तेभ्यो देवेभ्यो हवींषि **प्र** **यच्छन्ति** । उभयत्र यद्योगादनिघातः । **ते** **सप्तमातरम्**। सप्तसंख्याका मातृभूता अग्निष्टोमादिसंस्था यस्यां भवन्ति सा । यद्वा। सप्तसंख्याका मातरः कर्मणां निर्मातारः कर्तारो होत्रादयः सन्ति । तादृशीं **दक्षिणां** **दुहते** ऋत्विभ्यो दुहन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Saramā**). I do not believe that he can be subdued; he as whose messenger I have come to thisplace from afar subdues (his enemies). The deep rivers do not conceal him; you, **Paṇis**, slain by **Indra**, will sleep(in death).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with manly sight see (it as) the wind with its hundred streams (of  rain), (as) the chant that finds the sun; they see (it as) the oblation.  
 Those who bestow and present at the (sacrificial) assembly, they milk the  priestly gift with its seven mothers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These who observe mankind regard oblation as streamy Vayu and light-finding Arka.  
      They satisfy and give their gifts in synod, and pour in streams the seven-mothered Guerdon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie sehen darin den Wind, der hundert Regengüsse bringt, den Lobgesang, der die Sonne auffindet; mit Kenneraugen sehen diese ein Opfer darin. Die welche in der Opferversammlung schenken und spenden, die melken die Daksina, die sieben Mütter hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den hundertströmigen Vāju, die Licht bringende Sonne und des Männerbeschauers [Agni] Opfertrank haben diejenigen im Auge, welche reichlich schenken und Gaben darreichen bei der Opferversammlung, sie melken aus die Opferkuh mit sieben Kälbern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Они видят в ней) ветер, (вызывающий дождь) в сто потоков, солнце, создающее свет;  
 Эти взирающие на мужей видят (в ней) жертвенное возлияние.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्या꣡वा य꣡म् अग्नि꣡म् पृथिवी꣡ ज꣡निष्टाम्  
 आ꣡पस् त्व꣡ष्टा भृ꣡गवो यं꣡ स꣡होभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡स् ततक्षुर् म꣡नवे य꣡जत्रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ई॒ळेन्य॑म् । प्र॒थ॒मम् । मा॒त॒रिश्वा॑ । दे॒वाः । त॒त॒क्षुः॒ । मन॑वे । यज॑त्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyāvā* ← *div*
 - \[noun\], nominative, dual, masculine
@@ -119,36 +119,36 @@ genre M
 **यमग्निं** **द्यावापृथिवी** द्यावापृथिव्यौ **जनिष्टाम्** अजनिषाताम् । जनेर्लुङि व्यत्ययेन परस्मैपदम् । **आपः** च **यम्** उदपादयन् वैद्युतरूपेण **त्वष्टा** च यमजनयत् **भृगवः** च यं **सहोभिः** बलैः स्तोत्रादिसाधनैर्लब्धवन्तः । ‘ भुगवोऽविन्दन्' (ऋ. सं. १०. ४६. २ ) इति ह्युक्तम्। किंच **ईळेन्यं** स्तुत्यं यं **प्रथमं** **मातरिश्वा** वायुरुदपादयत् अन्ये **देवाः** च **मनवे** राज्ञे मनोरर्थाय **यजत्रं** यष्टव्यं यमग्निं **ततक्षुः** निष्पादितवन्तः ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, whom heaven and earth engendered, (whom) the waters and **Tvaṣṭā**, and the Bṛghus by theirpowers (begot),; the adorable one, whom **Mātariśvan** first, and the gods fabricated as the object of worship ofManu.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, whom Heaven and Earth begat, whom the Waters, Tvaṣṭar, and  the Bhr̥gus begat with their powers,  
 the one first to be reverently invoked—Mātariśvan and the gods  fashioned him as the means of sacrifice for Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That Agni, him whom Heaven and Earth engendered, the Waters. Tvastar, and with might, the Bhrgus,  
      Him Matarisvan and the Gods have fashioned holy for man and first to be entreated.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Himmel und Erde erzeugten, den die Gewässer, Tvastri, die Bhrigu´s mit Kraft erzeugten, der du als Erster anzurufen bist, den Agni, haben Matarisvan und die Götter für Manu als den Anbetungswürdigen geformt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni, welchen Erd' und Himmel zeugten, die Wasser, Tvaschtar und mit Macht die Bhrigu's, Ihn machten Matariçvan und die Götter zum ersten Preis und Opferherrn dem Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого породили Небо и Земля,  
 Кого (породили своими) силами воды, Тваштар, Бхригу  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चकृवां꣡स ऋभवस् त꣡द् अपृछत  
 कुवे꣡द् अभूद् यः꣡ स्य꣡ दूतो꣡ न आ꣡जगन्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡द् इ꣡त् त्व꣡ष्टा ग्ना꣡सु अन्त꣡र् नि꣡ आनजे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒दा । अ॒व॒ऽअख्य॑त् । च॒म॒सान् । च॒तुरः॑ । कृ॒तान् । आत् । इत् । त्वष्टा॑ । ग्नासु॑ । अ॒न्तः । नि । आ॒न॒जे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cakṛvāṃsa* ← *cakṛvāṃsaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
@@ -156,7 +156,7 @@ popular
 हे **ऋभवः** **तत्** कार्यं यथा 'चकृवांसः कृतवन्तो यूयम् **अपृच्छत** प्रश्नं कुरुत ॥ करोतेर्लिटः क्वसुः । अत्र यद्यपि ऋभुरिति त्रयाणां मध्ये एकस्य नाम तथापि तस्य प्राथम्यात् ‘छत्रिणो गच्छन्ति ' इतिवत् सर्वेऽपि ऋभवः' उच्यन्ते । किमिति । **स्यः** सः **दूतः** क्वेदभूत् कुत्र गतः । स इत्युक्तं क इत्याह । **यः** यो दूतः **नः** अस्मान् **आजगन्** आगमत् प्राप्तः । एवंभूते सति **यदा** अयं त्वष्टा **चतुरः** **कृतान्** **चमसान्** **अवाख्यत्** अभिपश्यति ॥ ख्यातेर्लुङि • अस्यतिवक्तिख्याति°  इति च्लेः अङादेशः ॥ **आदित्** अनन्तरमेव **त्वष्टा** तस्य चमसस्योत्पादकः एतन्नामको देवः **ग्नासु** स्त्रीषु । मेना ग्ना इति स्त्रीणाम्' ( निरु. ३. २१) इति निरुक्तम् । **अन्तः** मध्ये **न्यानजे** न्यक्तोऽभूत् । स्त्रियम् आत्मानम् अमन्यत इत्यर्थः ॥ अञ्जेर्लिटि तस्मान्नुड्द्विहलः' इति नुट् । छान्दसोऽनुनासिकलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -167,29 +167,29 @@ popular
 Gnāsu antarnyānaje; the verb is explained: nyakto abhūt; the combination of ni and anj is perhaps the converse of vyañj, to be manifest, i.e. to be concealed, indistinct, or invisible. gnā = **strī** (**mena** gnā iti strīṇām--**Nirukta** 3.21); stṛyam ātmānam amanyata = he, Tvaṣṭā, fancied himself; woman, that is, he felt humbled, as feeble as a feminine le
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having done these things, R̥bhus, you asked this: “Just where has he  gone who came here to us as a messenger?”  
 When he caught sight of the four cups that were made, just then  Tvaṣṭar was anointed among the Wives (of the Gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thus, O Rbhus, ye had done ye questioned thus, Whither went he who came to us a messenger?  
      Then Tvastar, when he viewed the four wrought chalices, concealed himself among the Consorts of the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr Ribhu´s das gemacht hattet, fragtet ihr: "Wo ist der hin, der zu uns als Bote gekommen war?" - Als Tvastri die vier farbigen Becher erblickt hatte, da versteckte er sich unter die Götterfrauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als das, o Ribhu's, ihr vollbracht, so fragtet ihr: »Wo ging der hin, der uns die Botschaft hat gebracht?« Doch Tvaschtar, als vier Becher er gefertigt sah, versteckte sich hinschlüpfend zu der Weiber Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделав (это,) вы Рибху, спросили (вот) что:  
 Куда же девался тот, кто приходил к нам вестником?  

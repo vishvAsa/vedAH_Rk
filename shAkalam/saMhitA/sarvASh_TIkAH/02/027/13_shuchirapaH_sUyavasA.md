@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡चिर् अपः꣡ सूय꣡वसा अ꣡दब्ध  
 उ꣡प क्षेति वृद्ध꣡वयाः सुवी꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡ आदित्या꣡नाम् भ꣡वति प्र꣡णीतौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नकिः॑ । तम् । घ्न॒न्ति॒ । अन्ति॑तः । न । दू॒रात् । यः । आ॒दि॒त्याना॑म् । भव॑ति । प्रऽनी॑तौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ genre M
 सयजमानः शुचिर्दीप्यमानः शुद्धोवाअदब्धः सपत्नैरबाधितः वृद्धवयाः प्रभूतान्नः सुवीरः शोभ- नपुत्रश्चसन् सूयवसाः शोभनसस्यान्यपः वृष्टिलक्षणान्युदकानिउपक्षेति उपनिवसति सर्वदासुसस्या नामपाञ्चसमीपेनिवसतीत्यर्थः तथानकिर्नचतङ्घ्नन्तिहिंसन्ति अन्तितोनअन्तिकात्समीपदेशाच्चदूराद्वि- प्रकृष्टाच्चदेशादागताबाधकाः अन्तिकस्यतसिलादिलोपइतिलोपः योयजमानः आदित्यानांअदितेः पुत्राणां मित्रादीनां प्रणीतौ प्रकृष्टेनयनेप्रापणे भवति वर्ततेसइतिपूर्वत्रसम्बन्धः ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,33 +146,33 @@ genre M
 He dwells amidst fertilizing waters: **apaḥ** sūryavasā upakṣeti, he dwells near to waters that are productive of corn; i.e., he obtains rain when needed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Gleaming and undeceivable, he dwells near waters that provide good  pasturage, with his own vigor strengthened and with his good heroes. Neither from near nor from afar do any strike down the man who  comes to be under the leadership of the Ādityas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pure, faithful, very strong, with heroes round him, he dwells beside the waters rich with pasture.  
      None slays, from near at hand or from a distance, him who is under the Adityas' guidance.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 He pure, unhurt by guile, with many heroes, Robust, abides by waters rich in pasture. Either from near or from afar none slay him Who lives beneath the Ādityas' direction.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Reine wohnt unbeirrt an weidereichen Gewässern, er erreicht ein hohes Alter, hat treffliche Söhne. Nicht töten sie ihn aus der Nähe oder Ferne, wer unter Führung der Aditya´s steht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der wohnt im Glanz an wiesenreichen Strömen, an Söhnen reich, gewaltig, ungefährdet, Nicht nah noch fern verletzen Feinde diesen, der in der Obhut der Aditja's weilet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Светлый, не поддающийся обману, он живет  
 У вод с хорошими пастбищами, достигнув старости, имея прекрасных сыновей.  

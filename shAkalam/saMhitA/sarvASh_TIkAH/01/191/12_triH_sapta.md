@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिः꣡ सप्त꣡ विष्पुलिङ्गका꣡  
 विष꣡स्य पु꣡षियम् अक्षन्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 म꣡धु त्वा मधुला꣡ चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -37,7 +37,7 @@ popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
 ताः । चि॒त् । नु । न । म॒र॒न्ति॒ । नो इति॑ । व॒यम् । म॒रा॒म॒ । आ॒रे । अ॒स्य॒ । योज॑नम् । ह॒रि॒ऽस्थाः । मधु॑ । त्वा॒ । म॒धु॒ला । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *triḥ* ← *tris*
 - \[adverb\]
@@ -145,7 +145,7 @@ popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
 **त्रिः** **सप्त** त्रिगुणिताः सप्तसंख्याकाः विष्पुलिङ्गकाः विविधाः विष्पुलिङ्गकाः । सप्तसु जिह्वासु लोहितशुक्लकृष्णभेदेन एकविंशतिर्यासां ताः। यद्वा । त्रिः सप्त एकविंशतिभेदा विष्पुलिङ्गकाः सूक्ष्मचटकिका विषप्रतिपक्षभूताः । **विषस्य** अस्मदावरकस्य पुष्यं पोषम् **अक्षन्** अदन्तु नाशयन्तु । **ताः** च **न** **मरन्ति** न **वयम्** अपि । शिष्टमविशिष्टम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,37 +156,37 @@ popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
 The thice seven sparks: the seven tongues, or flames of fire, may be multiplied as red, white and black; or viśpuliṅgakā = catikā, a feminine le sparrow of which there are 21 varieties, eaters of poison with impunity
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three times seven, the little sparks [=small birds?] have swallowed the  bloom of poison.  
 Even now they will not die, and we will not die.  
 The mounter of the fallow bays [=Indra] has (made) its [=poison’s] trek  far in the distance; the honeyed (plant) has made you honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Sāyaṇa. suggests that the “little sparks” (viṣpuliṅgaká-) are little sparrows.
 
 This makes sense not only because of the birds in vss. 11 and 14, but because of the visual effect of flocks of small birds feeding: esp. when they are in bushes or underbrush they can burst up, out, and around at random almost like sparks. The viṣor course also recalls viṣá- ‘poison’. I do not understand why there are 21 of them, save for the fact that thrice seven is a satisfying number. Similar numbers are found in the next two vss.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The three-times-seven bright sparks of fire have swallowed up the poison's strength.  
      They will not die, nor shall we die: his path is far: he whom Bay Horses bear hath turned thee to sweet meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die dreimal sieben Fünkchen haben die Blume des Giftes gefressen. Die sterben gewiß nicht daran, noch werden wir sterben. Der Falbenlenker hat seine Verwendung beseitigt. Die süße Pflanze hat dich zu Honig gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die dreimal sieben Funkensprühenden (?) haben die Essenz des Giftes verschlungen und werden doch daran nicht sterben, auch wir werden nicht sterben u.s.w. (wie Vers 10.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды семь воробышков (?)  
 Склевали цветок яда.  

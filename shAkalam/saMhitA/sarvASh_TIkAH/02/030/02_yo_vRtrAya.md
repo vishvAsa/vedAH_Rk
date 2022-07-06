@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वृत्रा꣡य सि꣡नम् अ꣡त्रा꣡भरिष्यत्  
 प्र꣡ तं꣡ ज꣡नित्री विदु꣡ष उवाच  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवे꣡-दिवे धु꣡नयो यन्ति अ꣡र्थम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प॒थः । रद॑न्तीः । अनु॑ । जोष॑म् । अ॒स्मै॒ । दि॒वेऽदि॑वे । धुन॑यः । य॒न्ति॒ । अर्थ॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -129,21 +129,21 @@ genre M
 **यः** पुरुषो **वृत्राय** असुराय **सिनम्** अन्नं **अत्र** पाक-स्थाने आहर्तुम् **अभरिष्यत्** सम्पादितवान् **तं** पुरुषं **जनित्री** जनयित्री इन्द्रस्य माता अदितिः **विदुषे** आ अभिज्ञायेन्द्राय **प्रोवाच** प्रोक्तवती प्रवचनस्य हननार्थत्वात् तं वृत्रं हतवान् इति शेषः अपि **चास्मै** अस्येन्द्रस्य **अनुजोषम्** अनुकामं इच्छाम् अनुसृत्य **पथो** मार्गान् **रदन्तीर्** लिखन्त्यो **धुनयो** नद्यः **दिवे-दिवे** प्रतिदिवसं **अर्थं** र्तव्यङ् गन्तव्यं समुद्रं प्रति **यन्ति** गच्छन्ति ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “His mother, (**Aditi**), declared to him the man who had offered (sacrificial) food to **Vṛtra**;obedient to his plural asure, the rivers, tracing out their paths, flow day by day to their object, (the ocean).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one [=Sūrya?] who was going to carry the gear here for Vr̥tra—the  mother [Earth? Indra’s mother?] announced him to the knowing one  [=Indra?].  
 Excavating the paths for him [=Indra/Sūrya] at their pleasure, the  
 boisterous ones [=dawns as waters] go every day to their goal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich of this vs. is desperately obscure. It is unclear what is being done to or for Vṛtra in pāda a, much less who is doing it, and the identity of the feminine subject in b is likewise left open. The function of ábhariṣyat, the only conditional in the RV, is uncertain, and also, though this is the least of our problems, whether the verb is ā + ábhariṣyat or is simply an augmented form without preverb (latter Pp.). The unclear meaning of the rare word sína- simply adds to the difficulties.
 
@@ -160,23 +160,23 @@ As just noted, I think Sūrya may be the referent of asmai in pāda c -- or rath
 The potential drawback to this interpr. is that we know that Indra did get the mace and smash Vṛtra, so the hypothetical value of the conditional isn’t accommodated. But since we don’t actually know what the value of the conditional was in the RV, this should not deter us. Alternatively there may have been a previous episode in the myth in which Indra’s first attempt was thwarted when Vṛtra was tipped off. A revised tr. of the hemistich acdg. to this scenario would be “The one [=Tvaṣṭar? / UK?] who was going to carry the gear here for [=against] Vr̥tra -- the mother [Vṛtra’s mother] announced him to the knowing one [=Vṛtra?].” On divé-dive see comm. ad 11 below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His Mother-for she knew-spake and proclaimed him who was about to cast his bolt at Vrtra.  
      Cutting their paths according to his pleasure day after day flow to their goal the rivers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer dem Vritra dafür heimzahlen werde, den sagte seine Mutter dem Kundigen voraus. Ihre Bahnen ihm zu Gefallen furchend gehen die Rauschenden Tag für Tag nach ihrem Ziele.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer dort das Gut dem Vritra rauben würde, den kündete die Mutter an dem weisen; Sich Bahnen brechend, wie es ihm beliebte, gehn Tag für Tag sie brausend ihrem Ziel zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто тогда Вритре собирался принести подкрепления,  
 Того родительница выдала знатоку.  

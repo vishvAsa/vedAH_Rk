@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुइध्मा꣡ य꣡द् वन꣡धितिर् अपस्या꣡त्  
 सू꣡रो अध्वरे꣡ प꣡रि रो꣡धना गोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नर्विशे पशुइ꣡षे तुरा꣡य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । ह॒ । प्र॒ऽभासि॑ । कृत्व्या॑न् । अनु॑ । द्यून् । अन॑र्विशे । प॒शु॒ऽइषे॑ । तु॒राय॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svidhmā* ← *su*
 - \[adverb\]
@@ -114,7 +114,7 @@ genre M
 यदि **स्विध्मा** सुदीप्तास्या **वनधितिः** वने छेत्तव्ये वृक्षसमूहे निधातव्या शस्त्री **अपस्यात्** अपः विशसनात्मकं स्वकीयं कर्म कर्तुमिच्छेत् तदानीं **सूरः** प्रेरकः अध्वर्युः **अध्वरे** यज्ञे **गोः** पशोः **रोधना** रोधनाय यूपे नियोजनाय **परि** भवति समर्थो भवति । यद्वा । स्विध्मा सूर्यकिरणैः सुदीप्ता वनधितिः । वनमुदकमस्यां धीयते इति वनधितिर्मेघमाला । सा यत् यदा अपस्यात् अपः प्रवर्षणलक्षणं कर्म करोति तदानीं सूरः प्रेरकः इन्द्रः अध्वरे यज्ञस्य निमित्तभूते अध्वर्तव्ये अहिंसितव्ये अन्तरिक्षे वर्तमानः सन् गोः वृष्ट्युदकस्य रोधना रोधनानि आवरणानि परि परितो निवारयतीति शेषः । उत्तरार्धः प्रत्यक्षकृतः । हे इन्द्र सूर्यात्मना वर्तमानस्त्वं कृत्व्यान् । कृत्वीति कर्मनाम । कर्मसु साधून् **द्यून्** दिवसाननुलक्ष्य **यद्ध** यदा खलु **प्रभासि** प्रकर्षेण दीप्यसे तदानीम् **अनर्विशे** अनसा शकटेन इन्धनाद्याहरणाय अरण्यं प्रविशते । यद्वा । गन्तव्यं स्थलं प्रति गन्तुमशक्ताय पुरुषाय **पश्विषे** पशून् प्रेरयते **तुराय** त्वरमाणाय गोपालाय च सिध्येत् अभिमतमिति वाक्यशेषः ॥ स्विध्मा । शोभनमिध्मं दीप्तमास्यं दीप्तिर्वा यस्याः सा तथोक्ता।  ‘ नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । अपस्यात् । अपःशब्दात् ‘सुप आत्मनः क्यच्'। लेटि अडागमः। रोधना। रुधिर् आवरणे । ल्युट् च ' इति भावे ल्युट् । 'शेश्छन्दसि बहुलम् ' इति शेर्लोपः । अनर्विशे । अनसा विशति प्राप्नोतीति अनर्विट्। विशतेः क्विप् । अहरादीनां पत्यादिषूपसंख्यानम् ' ( पा. म. ८. २. ७०. १ ) इति सकारस्य रेफादेशः । यद्वा । अर्तेः कर्मणि विच् । अरं गन्तव्यं प्रति विशति प्राप्नोतीति अर्विट् । न अर्विट् अनर्विट् । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । अत एव व्युत्पत्त्यनवधारणादनवग्रहः । पश्विषे । “ इष गतौ । अस्मादन्तर्भावितण्यर्थात् ‘ क्विप् च ' इति क्विप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,14 +135,14 @@ Turāya = active or quick;
 **Gopāla** = shepherd
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Even) when a woodpile provided with good kindling should be far away,  the sun (still goes) around the cowpens at the ceremony,  
 when you [=Indra] shine forth, through the days that bring results, for  the surpassing one [=Kakṣīvant?] whose clan is on the (wedding?)  
 carts, seeking livestock.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another very obscure verse with multiple competing interpretations. I will only discuss my own. As indicated in the published introduction. I think the larger point of the verse is that Indra’s presence alone is sufficient for an effective sacrifice, even if the standard ritual trappings (like the wood for the fire) are absent. This rests in part on very different interpr. of the individual lexical items, esp. in pāda a.
 
@@ -157,23 +157,23 @@ But the mediating image for pāda b is the radiant Indra of pāda c. When Indra 
 My identification of Indra as the subj. of c makes him unavailable to be the referent of the datives in d, as Geldner, Renou take them. In my view, the poet Kakṣīvant is a better candidate (see Witzel Gotō, who suggest “Sippenführer,” so at least not a god). For one thing, if the curious hapax cmpd ánarviś- contains the (pseudo-)loc. ánar- to ánas- ‘cart’, it seems unlikely that this would qualify anyone directly associated with Indra -- the cart is not a warrior’s vehicle -- while on the other hand the Pajras, Kakṣīvant’s clan (cf., e.g., I.116.7, 117.6), are ánasvant- ‘possessing carts / wagons’ (or, more accurately, compared to people who are ánasvant-) in I.126.5. Although turá- was used of Indra in 3b and would here be applied to Kakṣīvant, this poet would surely not mind getting a little reflected divine glory. Note, in passing, the phonetic echo in ánarviśe paś u viṣe.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the wood-pile, made of good logs, is ready, at the Sun's worship to bind fast the Bullock,  
      Then when thou shinest forth through days of action for the Car-borne, the Swift, the Cattle-seeker.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Holzmacherin, die gutes Brennholz hat, tätig sein wird, so soll während des Opfers die Sonne das Gefängnis der Kuh überwinden, wenn du hervorleuchtest während der entscheidenden Tage für den Gebieter, der mit seinem auf Karren fahrenden Clan die Herde sucht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn der mit gutem Brennholz versehene Holzstoss in Wirksamkeit tritt, als Sonne beim Opfer strahlend um den Verschluss des Rindes (?), und wenn du [Agni?] dann leuchtest in den festlichen (?) Tagen dem im Wagen fahrenden, Vieh [Milch] begehrenden, starken [Indra?].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда пойдет полным ходом складывание дров – хорошего топлива,  
 То солнце во время обряда (должно) о(кружить) темницы коровы,  

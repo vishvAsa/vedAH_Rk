@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रा युवं꣡ वरुणा भूत꣡म् अस्या꣡  
 धियः꣡ प्रेता꣡रा वृषभे꣡व धेनोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सह꣡स्रधारा प꣡यसा मही꣡ गउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सा । नः॒ । दु॒ही॒य॒त् । यव॑साऽइव । ग॒त्वी । स॒हस्र॑ऽधारा । पय॑सा । म॒ही । गौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrā* ← *indra*
 - \[noun\], vocative, dual, masculine
@@ -137,42 +137,42 @@ genre M
 हे **इन्द्रा** **वरुणा** इन्द्रावरुणौ **युवं** युवाम् **अस्या** **धियः** स्तुत्याः **प्रेतारा** प्रीणयितारौ **भूतं** भवतम् । **वृषभा** सेक्तारौ वृषभौ **धेनोः** **इव** । **सा** स्तुतिरूपा धेनुः **नः** अस्माकं **दुहीयत्** दुह्येत्। कामान् पूरयेत् । **यवसा** तृणादिघासेन' निमित्तेन ”गत्वी गत्वा **पयसा** **सहस्रधारा** **मही** महती **गौः** **इव** ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Varuṇa**, be the exciters of this our praise, as the bull is of the cows; may that cow (of praise) yield us (reward), like a large cow that has gone forth to pasture, whose thousand channels (are filled) with milk.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Varuṇa—become the lovers of this insight, like bulls of a  milk-cow.  
 She should yield her milk to us like a great cow with her milk in a  
 thousand streams who has gone to the pastures.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the middle opt. duhīya+t remarked as act., like the impf. áduha+t.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra-Varuna, be ye the lovers of this my song, as steers who love the milch-Cow.  
      Milk may it yield us as, gone forth to pasture, the great Cow pouring out her thousand rivers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Varuna! Seid die Liebhaber dieser Dichtung wie die Stiere von der Kuh. Sie soll uns Milch geben, als wäre sie auf die Weide gegangen, die große Kuh, die mit ihrer Milch tausend Strahlen gibt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach dieser Andacht, Varuna und Indra, seid voller Brunst, wie nach der Kuh die Stiere; Sie ströme Milch uns diese tausendström'ge, erhabne Kuh, als käm' sie von der Weide.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра и Варуна, станьте вы любовниками  
 Этой молитвы, словно два быка – у коровы!  

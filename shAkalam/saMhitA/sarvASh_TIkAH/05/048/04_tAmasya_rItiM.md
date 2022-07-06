@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡म् अस्य रीति꣡म् परशो꣡र् इव प्र꣡ति  
 अ꣡नीकम् अख्यम् भुजे꣡ अस्य व꣡र्पसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 र꣡त्नं द꣡धाति भ꣡रहूतये विशे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सचा॑ । यदि॑ । पि॒तु॒मन्त॑म्ऽइव । क्षय॑म् । रत्न॑म् । दधा॑ति । भर॑ऽहूतये । वि॒शे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
@@ -125,7 +125,7 @@ genre M
 इदमाग्नेयी । **तां** प्रसिद्धाम् **अस्य** अग्नेः **रीतिं** स्वभावं गतिं वा **परशोरिव** **प्रति** परशोः प्रतिनिधिमिव पश्यामि । परशुर्यथा स्वस्वामिनोऽभिमतं साधयति तद्वदित्यर्थः । **अस्य** **वर्पसः** रूपवतोऽस्यादित्यस्य **अनीकं** रश्मिसमूहं **भुजे** भोगाय **अख्यं** कथयाम्यहम् । **यदि** यस्मात् स च देवः **सचा** अस्मत्सहायः सन् **पितुमन्तम्** अन्नवन्तं **क्षयम्** **इव** निवासमिव **भरहूतये** संग्रामे यज्ञे वा आह्वानयुक्ताय **विशे** यजमानाय **रत्नं** रमणीयं धनं **दधाति** धारयति । उभयमपि ददातीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,14 +138,14 @@ As of a depty: tām **asya** rītim paraśor iva: the verb is supplied, paśyām
 **Paraśu** = **pratinidhi**, a deputy, a substitute; just a depyt fulfils the will of his master, so the functions of Agni make him the deputy or representative of the **yajamāna**; or paraśu may imply an axe, which accomplishes the object of the wood-cutter, as Agni does that of the sacrificer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have looked upon this stream(ing) of his [=Agni], like (the swing) of an  axe; I have looked upon his face, for the enjoyment of his form,  
 when concurrently he establishes a treasure like a dwelling place  
 abounding in food for the clan whose cry is “carry (the day).”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is characterized by words regularly (though not exclusively) associated with Agni: ánīka- ‘face’, várpas- ‘form’, rátnam √dhā ‘establish a treasure’. This vocabulary gives support to my suggestion that Agni is also the subject of vs. 3, esp. since the asya in pāda a (and b) should refer to something already present in the discourse.
 
@@ -156,23 +156,23 @@ But the arc of sparks that sprinkle the mace in 3b (by my interpr.) would look l
 Geldner, flg. Grassmann, reverses 4cd and 5ab. I do not see the necessity for this. It puts the two forms of (-)ánīka- in the same vs. and continues the description of Agni begun in 4ab, but leaving the hemistichs in their transmitted order certainly causes less thematic disruption than most changes of topic in the RV.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I, to enjoy the beauty of his form, behold that rapid rush of his as 'twere an axe's edge,  
      What time he gives the man who calls on him in fight wealth like a dwelling-house filled full with store of food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen seinen Andrang gleich dem einer Axt, dein Angesicht habe ich erwartet, um seine Erscheinung zu genießen. Wenn er dabei wie einen nahrungsreichen Wohnsitz das Kleinod bringt zum Triumphruf für den Stamm,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sein Schwingen wie das eines Beiles nahm ich wahr, mich zu erfreu'n am Anblick seiner Glanzgestalt. Wenn er zugleich wie einen speisereichen Sitz, dem Manne, der ihn anruft, Schatz verleiht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я воспринял его напор, словно у топора,  
 (Его) лик, чтобы насладиться его грозным видом,  

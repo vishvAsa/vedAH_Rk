@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ ते शर्यणा꣡वति  
 सुषो꣡मायाम् अ꣡धि प्रियः꣡  
 आर्जीकी꣡ये मदि꣡न्तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒र्जी॒कीये॑ । म॒दिन्ऽत॑मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -70,7 +70,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अयम्** अस्माभिरभिषुतः सोमः **ते** त्वां **मदिन्तमः** मादयितृतमः । अयम् **अधि** श्रितः आश्रितः । कुत्रेति तदुच्यते । **शर्यणावति** कुरुक्षेत्रस्य जघनार्धभवे शरतृणोपेते सरसि । तत्सरः कुत्र वर्तत इति उच्यते । **सुषोमायाम्** एतन्नामिकायां नद्याम् । सा च कुत्र वर्तत इति तदुच्यते । आर्जीकीये एतन्नामके देशे। एवमुक्तप्रकारेणात्यन्तदूरदेशे वर्तते यः सोमः स एवायमभिषुतः । तं पिबेत्युत्तरत्रान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -83,29 +83,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Ārjikīya = name of theVipāśa (**Yāska**, **Nirukta** 9.26)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is your dear (soma) in the reed-filled (pond?), here in the Suṣomā (River?)  
 the most invigorating in the foamy (lake?).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This, growing by Soma and by Saryanavan, dear to thee,  
      In Arjikiya, cheers thee best.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma in Saryanavat, an der Susoma ist dir lieb, der in Arjikiya der berauschendste.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist im Rohrgefässe dir, im Somabecher dir beliebt, Berauschend dich im Läutrungskrug.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот (сома) в Шарьянавате,  
 На Сушоме приятен тебе,  

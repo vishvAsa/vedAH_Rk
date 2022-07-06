@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ इ꣡द् दाना꣡य द꣡भियाय वन्व꣡ञ्  
 च्य꣡वानः सू꣡दैर् अमिमीत वे꣡दिम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्षो꣡दो न꣡ रे꣡त इत꣡ऊति सिञ्चत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तूर्व॑याणः । गू॒र्तव॑चःऽतमः । क्षोदः॑ । न । रेतः॑ । इ॒तःऽऊ॑ति । सि॒ञ्च॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -106,7 +106,7 @@ genre M
 **स** **इत्** स कृष्णशवासी पुरुषो रुद्राख्यः **दानाय** स्तोतॄणां धनप्रदानाय **दभ्याय** शत्रूणां वधाय च **वन्वन्** स्तोतॄन् संभजन् **सूदैः** सूदकैर्हिंसकैः शस्त्रैः **च्यवानः** रक्षांसि च्यावयन् **वेदिम्** **अमिमीत** परिमितवान् । यज्ञवास्त्वधिष्ठितवानित्यर्थः । ‘तं कृष्णशवास्युत्तरत' उपोत्थायाब्रवीन्मम' वा इदं मम वै वास्तुहमिति' ( ऐ. ब्रा. ५. १४ ) इति ब्राह्मणम् । तदेवाह । **तूर्वयाणः** तूर्णगमनः **गूर्तवचस्तमः** अत्यन्तमुद्यतवचा रुद्रः **क्षोदो** **न** उदकमिव । उदकं यथा घनः सिञ्चति तद्वत् **रेतः** स्वसामर्थ्यम् **इतऊति** इतोगमनवद्यथा भवति तथा **सिञ्चत्** प्रेरितवानित्यर्थः । यद्वा । अनेनोत्तरार्धेनोत्तराभ्यां च प्रासङ्गिक्यश्विनोः स्तुतिः क्रियते । तूर्वयाणस्तूर्णगमनोऽतिशयेनोद्यतवचनो रुद्रः क्षोदो न उदकमिव रेत उत्पादनसामर्थ्योपेतं रेत इतऊति सिञ्चत् जनयामासाश्विनौ । अन्यत्रेतऊतीत्यश्विनोरभिधानादन्यत्र तयो रुद्रपुत्रत्वसिद्धेश्चायमर्थो लभ्यते ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,29 +117,29 @@ genre M
 Rapid in movement: itaūti = itogamanavat, going fromhere; a name of the **Aśvins**, he begat the Aśvins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just he, as the winner (at the contest), (stands ready) for the man who  can be outwitted to give: Cyavāna measured out his altar with “sweet”  (dregs),  
 but Tūrvayāṇa, whose speech is the most welcome, poured enduring  semen like a gush—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cyavana, purposing deceptive presents, with all ingredients, made the altar ready.  
      Most sweet-voiced Turvayana poured oblations like floods of widely fertilizing water.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Cyavana baute den Feueraltar aus Überesten, indem er sich um eine unsichere Gabe bemühte. Turvayana, dessen Worte am meisten Beifall finden, ergoß den dauernden Samen wie einen Strom;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dieser Tschjavāna, dem leicht zu täuschenden (?), zu Gaben verhelfend, versah den Altar mit süssen Tränken; siegreich vordringend ergoss der sehr lieblich redende wie eine Flut den das Jetzt überdauernden Samen (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

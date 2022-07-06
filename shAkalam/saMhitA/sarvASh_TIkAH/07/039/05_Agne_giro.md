@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ अग्ने गि꣡रो दिव꣡ आ꣡ पृथिव्या꣡  
 मित्रं꣡ वह व꣡रुणम् इ꣡न्द्रम् अग्नि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡रस्वती मरु꣡तो मादयन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । अ॒र्य॒मण॑म् । अदि॑तिम् । विष्णु॑म् । ए॒षा॒म् । सर॑स्वती । म॒रुतः॑ । मा॒द॒य॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āgne* ← *ā*
 - \[adverb\]
@@ -126,20 +126,20 @@ genre M
 हे **अग्ने** त्वं **दिवः** द्युलोकात् सकाशात् **गिरः** गरणीयान् स्तुत्यान् देवानस्मदीयं यज्ञं प्रति **आ** **वह** आह्वानं कुरु । **पृथिव्याः** अन्तरिक्षाच्च **आ** वह । कान् देवानिति तदुच्यते । **मित्रम्** एतत्संज्ञकं **वरुणं** च **इन्द्रं** च देवेषु देवतास्वरूपेणावस्थितं च **अग्निम्** **अर्यमणम्** एतत्संज्ञकम् **अदितिम्** अदीनां पृथिवीं च विष्णुं च । एवंभूतान् देवान् **एषाम्** अस्माकं यजमानानामर्थाय **आ** वह । **सरस्वती** वाग्देवता च **मरुतः** च **मादयन्ताम्** । अस्मदीयैः स्तोत्रैर्हविर्भिश्च माद्यन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring **Agni**, whether from heaven or earth, the adorable deities **Mitra**, **Varuṇa**, **Indra** and Agni,**Āryaman**, **Aditi** and **Viṣṇu** (for the good) of these (worshippers); and may **Sarasvatī** and the **Maruts** bedelighted (by our offerings).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, bring Mitra, Varuṇa, and Indra here from heaven and from  earth to the hymns and to the fire—  
 also Aryaman, Aditi, Viṣṇu the quick. Let Sarasvatī and the Maruts  make themselves exhilarated.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the first hemistich Agni appears to be playing on both sides, as it were: he is commanded (voc. agne) to bring (ā́… vaha) a series of gods here, including 64 Agni (acc. agním) at the end of pāda b. This seems conceptually odd: Agni the god does not need to be brought to the sacrifice -- he’s already there -- and it is also hard to see how he would bring himself. Geldner’s (n. 5b) explanation that including Agni in the list serves for “Vervollständigung der Götterversammlung” seems weak. In that case we might expect Agni to come at the end of the list, and in any case too many gods are missing fom the list to consider it a complete collection. It might be possible to consider the Agni to be brought as the celestial Agni, i.e., the sun. But I think it more likely that agním is parallel to gíraḥ in pāda a, and both are acc. of goal, expressing the ritual elements the gods will encounter at the ritual: hymns and the ritual fire. The standard tr. take gíraḥ in this way, and I see no reason why agním can’t have the same function.
 
@@ -150,23 +150,23 @@ In c eṣām is hard to construe. I follow Oldenberg in accepting the BR emendat
 As Oldenberg points out, the corruption can have arisen on the basis of likewise pāda-final eṣām in 2a. There are of course no metrical consequences. The emendation was not explicitly signaled in the published translation, which should read “… Viṣṇu, *the quick.” Neither Geldner nor Renou accepts (or even takes note of) this emendation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, to these men's hymns, from earth, from heaven, bring Mitra, Varuna, Indra, and Agni,  
      And Aryaman, and Aditi, and Visnu. Sarasvati be joyful, and the Maruts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu ihren Lobreden fahre, Agni, von Himmel und Erde her den Mitra, Varuna, Indra, Agni, den Aryaman, die Aditi, den Vishnu! Sarasvati, die Marut sollen sich ergötzen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni fahr, Varuna, Mitra, Indra zu Liedern her vom Himmel, von der Erde, Arjaman, Aditi den schnellen Vischnu, lass freuen sich Sarasyati, die Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, привези на хвалебные песни с неба (и) с земли  
 Митру, Варуну, Индру, Агни,  

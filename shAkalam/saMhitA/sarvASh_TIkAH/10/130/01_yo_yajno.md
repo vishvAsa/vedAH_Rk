@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ यज्ञो꣡ · विश्व꣡तस् त꣡न्तुभिस् तत꣡  
 ए꣡कशतं देवकर्मे꣡भिर् आ꣡यतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ वया꣡प वये꣡ति आसते तते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒मे । व॒य॒न्ति॒ । पि॒तरः॑ । ये । आ॒ऽय॒युः । प्र । व॒य॒ । अप॑ । व॒य॒ । इति॑ । आ॒स॒ते॒ । त॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -132,7 +132,7 @@ popular
 एवं विरुतस्य यज्ञस्य प्रजापतेः सकाशादुत्पत्तिरुत्तरया प्रतिपाद्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ Weaving forwards:by combining the superior and inferior weaving, i.e., the intel
 Pitaraḥ = theprotectors, i.e., the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sacrifice, which is extended in every direction by its warp threads and  stretched out by a hundred and one acts of the gods—  
 these fathers who have traveled here weave that. They sit at the warp,  saying, “Weave forth, weave back.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE sacrifice drawn out with threads on every side, stretched by a hundred sacred ministers and one,-  
      This do these Fathers weave who hitherward are come: they sit beside the warp and cry, Weave forth, weave back.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfer, das nach allen Seiten mit seinen Fäden aufgespannt ist, das mit hundert und einem gottesdienstlichen Werken aufgezogen ist, das weben diese Väter, die herbeigekommen sind. Sie sitzen bei dem Aufgespannten und sprechen: Webe hin, webe her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Opfer, das nach allen Seiten durch seine Fäden ausgespannt, und durch hundertundeins Verrichter heiliger Werke aufgezogen war, das weben diese Väter, welche hergekommen sind; »Hebe an zu weben, webe fertig«, so sprechend sassen sie bei des Gewebes Aufzug.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертва, которая во все стороны протянута (своими) нитями,  
 Распространена сто одним действием, (служащим) богам, -  

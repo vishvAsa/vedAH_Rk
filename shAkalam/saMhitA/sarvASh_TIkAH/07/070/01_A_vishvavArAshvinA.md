@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ विश्ववारा अश्विना गतं नः  
 प्र꣡ त꣡त् स्था꣡नम् अवाचि वाम् पृथिव्या꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ य꣡त् सेद꣡थुर् ध्रुव꣡से न꣡ यो꣡निम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अश्वः॑ । न । वा॒जी । शु॒नऽपृ॑ष्ठः । अ॒स्था॒त् । आ । यत् । से॒दथुः॑ । ध्रु॒वसे॑ । न । योनि॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -155,7 +155,7 @@ genre M
 हे **विश्ववारा** सर्वैर्वरणीयौ **अश्विना** अश्विनौ **नः** अस्माकं यत् यं यागम् **आ** **गतम्** आगच्छतं **वां** युवथोः तत्स्थानं **पृथिव्यां** वेद्यां **प्र** **अवाचि** प्रोच्यते । तदर्थं **शुनपृष्ठः** सुखकरपृष्ठभागः । अत्यन्तविपुलत्वात् आरूढानां सुखकरपृष्ठभाग इत्यर्थः। **वाजी** वेगवान् **अश्वः** **अस्थात्** तिष्ठतु युवयोः समीपे । **यत्** । यमित्यर्थः । यमश्वम् **आ** **सेदथुः** आसीदथः सोऽश्वः । यद्वा । यत्स्थानमासीदथः तत्स्थानमश्व आश्रयत्वितो गमनाय । स्थितौ दृष्टान्तः । **ध्रुवसे** धुवाय निवासाय **योनिं** **न** योनिं स्थानमिव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -166,29 +166,29 @@ genre M
 Likea... broad- backed horse: **śuna**-**pṛṣṭhaḥ** = sukhakara, plural asant, delightful, vipulatvāt, from its breadth; as firmlyas in a dwelling: a yat sadhatur dhruvase na yonik: dhruvāya nivāsāya sthānam iva, like a plural ce for adurable soil
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come to us, Aśvins, who grant all desires: this has been proclaimed as  your place on earth.  
 Having prosperity on its back like a prizewinning horse, it [=the fire?]  stood up when you two sat down here as if (sitting) upon your womb  to remain steadfast.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 RICH in all blessings, Asvins come ye hither: this place on earth is called your own possession,  
      Like a strong horse with a fair back it standeth, whereon, as in a lap, ye seat you firmly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr allbegehrten Asvin kommet zu uns! Dieser Platz auf Erden ward euch angeboten. Er steht da wie ein sieggekröntes Roß, daß das Glück auf dem Rücken trägt, wenn ihr euch darauf gesetzt habt wie auf einen Schoß zum Bleiben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her zu uns, o gabenreiche Ritter, gepriesen ist euch dieser Ort auf Erden; Es steht euch wie ein Ross, das reich beladen, der Schooss bereit, auf dem ihr sitzt und bleibet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте к нам, о Ашвины, дающие все желанное!  
 Названо вам это место на земле.  

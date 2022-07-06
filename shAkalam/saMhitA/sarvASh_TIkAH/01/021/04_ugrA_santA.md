@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उग्रा꣡ स꣡न्ता हवामह  
 उ꣡पेदं꣡ स꣡वनं सुत꣡म्  
 इन्द्राग्नी꣡ ए꣡ह꣡ गछताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इ॒न्द्रा॒ग्नी इति॑ । आ । इ॒ह । ग॒च्छ॒ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ugrā* ← *ugra*
 - \[noun\], accusative, dual, masculine
@@ -95,37 +95,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सुतम्** अभिषवोपेतम् **इदम्** अनुष्ठीयमानं **सवनं** प्रातःसवनादिरूपं कर्म **उप** सामीप्येन प्राप्तुम् **उग्रा** **सन्ता** वैरिवधादिषु क्रूरौ सन्तौ देवौ **हवामहे** आह्वयामः । **इन्द्राग्नी** देवौ **इह** कर्मणि **आ** **गच्छताम्** ॥ सन्ता। अस्तेः शतरि ‘ श्नसोरल्लोपः '। सवनं सुतम् इति द्वयं • सेमं नः स्तोममा गहि ' (ऋ. सं. १. १६, ५) इत्यत्रोक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke the two who are fierce (to their foes) to attend the rite, where the libation is prepared; **Indra** and **Agni**, come hither.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those two, though formidable, we will call near to this pressing  
 pressed here.  
 Let Indra and Agni come right here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong Gods, we bid them come to this libation that stands ready here:  
      Indra and Agni, come to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gewaltigen rufen wir her zu dieser ausgepreßten Trankspende: Indra und Agni sollen hierher kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rufen sie, die mächtigen, zu diesem ausgepressten Saft, O Indra, Agni kommt herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы призываем (их двоих,) бывающих грозными,  
 Сюда, к выжатому соме.  

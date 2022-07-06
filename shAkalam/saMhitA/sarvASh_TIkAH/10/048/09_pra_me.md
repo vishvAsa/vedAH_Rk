@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ मे न꣡मी साप्य꣡ इषे꣡ भुजे꣡ भू᳐द्  
 ग꣡वाम् ए꣡षे सखिया꣡ कृणुत द्विता꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡द् इ꣡द् एनं शं꣡सियम् उक्थि꣡यं करम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दि॒द्युम् । यत् । अ॒स्य॒ । स॒म्ऽइ॒थेषु॑ । मं॒हय॑म् । आत् । इत् । ए॒न॒म् । शंस्य॑म् । उ॒क्थ्य॑म् । क॒र॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -152,7 +152,7 @@ genre M
 **मे** मम मत्संबन्धी **नमी** । नामकत्वान्नमः स्तोत्रम् । तदस्यास्तीति नमी स्तोता **साप्यः** । सर्वैराश्रयणीयः सन् **इषे** अन्नाय **भुजे** भोगाय **प्र** **भूत** प्रभवति । तं मत्स्तोतारं मनुष्याः **गवामेषे** अन्वेषणाय **सख्या** सख्याय च **द्विता** द्विविधं द्विप्रकाराय ”कृणुत कृण्वन्ति । गवां दातारं सखायं च कुर्वन्तीत्यर्थः । यद्वा। गवामेष एषणे द्विता द्वैधाय सख्याय शारीराय सैनिकाय च सख्यायं कृण्वन्ति । कदेति उच्यते । **यत्** यदा **अस्य** मत्संबन्धिनः स्तोतुर्जयार्थं **समिथेषु** संग्रामेषु **दिद्युम्** आयुधं **मंहयं** स्वीकुर्यामित्यर्थः । **आदित्** अनन्तरमेव **एनं** स्तोतारं **शंस्यं** स्तुत्यम् **उक्थ्यम्** उक्थार्हं **करम्** अकरं करोमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -163,30 +163,30 @@ genre M
 When I bestow: when I appropriate
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Namī Sāpya came to the fore for me in order to enjoy restorative  refreshment, and in the quest for cows he made partnerships (with  
 me?) once again.  
 When I readied the arrow for him in the clashes, just then did I make  him one to be praised and hymned.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With food for mine enjoyment Sapya Nami came: he joined me as a friend of old in search of kine.  
      As I bestowed on him an arrow for the fight I made him worthy of the song apd hymn of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nami Sapya ging mir vor, daß er in den Genuß guter Speise kam. Auf der Suche nach Rindern schloß er abermals Freundschaft mit mir. Als ich ihm in den Schlachten seinen Pfeil lieh, da erst machte ich ihn zu einem rühmlichen, preislichen Helden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mir reichte Namī Sāpja Speis' und Tränke dar, und war Genosse beim Erwerb der Kühe mir; Als ich ihm schenkte in den Kämpfen das Geschoss, da machte ich ihn preisenswerth und hochberühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Первым стал у меня Нами Сапья для вкушения подкрепляющей пищи.  
 В поисках коров он снова заключил (со мной) дружбу.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो म꣡र्ता अभि꣡ द्रुहन्  
 तनू꣡नाम् इन्द्र गिर्वणः  
 ई꣡शानो यवया वध꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ईशा॑नः । य॒व॒य॒ । व॒धम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -84,41 +84,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **गिर्वणः** **इन्द्र** **मर्ताः** विरोधिनो मनुष्याः **नः** अस्मदीयानां **तनूनां** शरीराणां **मा** **अभि** **द्रुहन्** अभितो द्रोहं मा कुर्युः । **ईशानः** समर्थस्त्वं **वधं** वैरिभिः संपाद्यमानं **यवय** अस्मत्तः पृथक्कुरु । ‘ मनुष्याः' इत्यादिषु पञ्चविंशतिसंख्याकेषु मनुष्यनामसु मर्ताः व्राताः' (नि. २. ३. १३ ) इति पठितम् ॥ मर्ताः । ‘ असिहसिमृग्रिण्वामिदमिलूपूधूर्विभ्यस्तन् ' ( उ. सू. ३. ३६६ ) इति तन् । नित्त्वादाद्युदात्तः । अभि ।' एवमादीनामन्तः ' ( फि. सू. ८२ )। द्रुहन् । ‘ द्रुह जिघांसायाम् । ‘ लिङर्थे लेट् ' ( पा. सू. ३. ४. ७ ) इति प्रार्थनायां लेट् । तस्य झि । ‘ झोऽन्तः ' ( पा. सू. ७. १. ३ )। ‘ इतश्च लोपः परस्मैपदेषु ' (पा. सू. ३. ४. ९७ ) इति इकारलोपः । शपो लुक् । **सार्वधातुकमपित्** ' ( पा. सू. १. २. ४ ) इति तिङो ङित्त्वाल्लघूपधगुणाभावः ( पा. सू. १. १. ५)। तनूनाम् । असामर्थ्यान्न पराङ्गवद्भावः । इन्द्र गिर्वणः । गतम् । ईशानः । धातोरनुदात्तेत्त्वात् शपो लुकि लसार्वधातुकानुदात्तत्वे धातुस्वर एव शिष्यते । यवय । यौतेर्णिचि ‘संज्ञापूर्वको विधिरनित्यः' (परिभा. ९३. १) इति वृद्धिर्न क्रियते । अथवा यौतीति यवः । पचाद्यच् ( पा. सू. ३. १. १३४ )। यवं करोतीत्यर्थे ' तत्करोति तदाचष्टे ' ( पा. सू. ३. १. २६. ५-६ ) इति णिच् । इष्टवद्भावात् टिलोपः (पा. सू. ६. ४. १५५. १ ) । तस्य स्थानिवद्भावात् (पा. सू. १. १. ५६ ) वृद्ध्यभावः । वधम् । **हनश्च** वधः ' (पा. सू. ३. ३. ७६ ) इति भावे अप् । तत्संनियोगशिष्टः स्थानिवद्भावेनान्तोदात्तो वधादेशः । उदात्तनिवृत्तिस्वरेण अपः उदात्तत्वम् ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, who are the object of praises, let no men do injury to our person ns; you are mighty, keep off violence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let mortals not plot deception against our bodies, o Indra, who long  for song.  
 Having control of it, keep away the deadly weapon.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A whiff of ring composition - 10c ī́śānaḥ ‘having control over’ echoes 2b ī́śānam, both modifying Indra. In 2b the god controls something undeniably positive, “choice things,” which he will presumably distribute to this favorites. In 10a he controls “the deadly weapon” that other mortals might wield against us. The identity of expression ties together the very different sentiments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 मा नो॒ मर्ता॑ अ॒भि द्रु॑हन्त॒नूना॑मिन्द्र गिर्वणः ।  
 ईशा॑नो यवया व॒धम् ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mögen Menschen unseren Leibern nichts böses antun, lobbegehrender Indra. Wehre die Todeswaffe ab, der du die Macht dazu hast!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kein Mensch verletz', o Indra, uns, Herr unsrer Leiber, Liederfreund! Die Todeswaffe halte fern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не причинят вреда смертные  
 Нашим телам, о Индра, воспевания жаждущий!  

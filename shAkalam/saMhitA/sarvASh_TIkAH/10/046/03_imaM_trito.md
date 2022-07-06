@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ त्रितो꣡ भू꣡रि अविन्दद् इछ꣡न्  
 वैभूवसो꣡ मूर्ध꣡नि अ꣡घ्नियायाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ना꣡भिर् यु꣡वा भवति रोचन꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । शेऽवृ॑धः । जा॒तः । आ । ह॒र्म्येषु॑ । नाभिः॑ । युवा॑ । भ॒व॒ति॒ । रो॒च॒नस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -118,36 +118,36 @@ genre M
 **इमं** **भूरि** महान्तमग्निं **वैभूवसः** विभूवसः पुत्रः **त्रितः** ऋषिः **इच्छन्** लब्धुमिच्छन् **अघ्न्यायाः** । अघ्न्या भूमिः । तस्या भूम्याः **मूर्धनि** । भूम्यामित्यर्थः। तत्र **अविन्दत्** लब्धवान्। **सः** अग्निः **शेवृधः** सुखस्य वर्धयिता सन् **हर्म्येषु** यजमानगृहेषु **आ** सर्वतः **जातः** प्रादुर्भूतः सन् **रोचनस्य** रोचमानस्य स्वर्गाख्यस्य फलस्योक्तलक्षणस्य यज्ञस्य आदित्यस्य वा **नाभिः** बन्धकः **भवति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Trita**, the son of Vibhuvas, searching (for him), found mighty **Agni** on the head of the cow; he theaugmenter of happiness manifested in the dwellings (of the pious), the youthful (connecting) bond of theresplendent (Sun).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here—Trita Vaibhūvasa, much seeking, found him on the head  of an inviolable cow.  
 Growing strong with kindness when just born here in the habitations,  the youth becomes the navel of the luminous realm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On the Cow's forehead, with laborious searching, Trita, the offspring of Vibhiavas, found him.  
      Born in our houses, Youthful, joy-bestower, he now becomes the central point of brightness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn fand Trita viel suchend, der Sohn des Vibhuvas, auf dem Haupte der Kuh. Als Liebling in den Herrscherhäusern geboren, wird der Jugendliche der Mittelpunkt des Lichts.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch Trita fand ihn, eifrig nach ihm suchend, der Sohn Vibhuvasu's am Kopf der Milchkuh; Geboren als der holde in den Häusern, wird nun des Lichtes Mittelpunkt der Jüngling.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Долго ища, нашел его Трита,  
 Сын Вибхувасу, на голове коровы.  

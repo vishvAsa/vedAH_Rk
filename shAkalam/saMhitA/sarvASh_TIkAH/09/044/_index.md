@@ -12,7 +12,7 @@ title = "+044"
 अथ सप्तमाष्टकस्य प्रथमाध्याय आरभ्यते । ‘प्र णः' इति षडृचं विंशं सूक्तमाङ्गिरसस्यायास्यस्यार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रान्तं- प्र णोऽयास्यः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 44 (756)  
 Soma Pavamāna  

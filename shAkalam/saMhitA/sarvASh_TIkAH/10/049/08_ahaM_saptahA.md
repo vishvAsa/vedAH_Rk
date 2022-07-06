@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ सप्तहा꣡ न꣡हुषो न꣡हुष्टरः  
 प्रा꣡श्रावयं श꣡वसा तुर्व꣡शं य꣡दुम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 न꣡व व्रा꣡धतो नवतिं꣡ च वक्षयम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒हम् । नि । अ॒न्यम् । सह॑सा । सहः॑ । क॒र॒म् । नव॑ । व्राध॑तः । न॒व॒तिम् । च॒ । व॒क्ष॒य॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -124,7 +124,7 @@ genre M
 **अहं** **सप्तहा** सप्तसंख्याकानां शत्रुपुरां हन्ता। ‘सप्त यत्पुरः शर्म शारदीः ' (ऋ. सं. १. १७४.२ ) इत्युक्तम् । यद्वा । सप्त नमुच्यादीन् हतवान् । किंच **नहुषः** बन्धकस्यापि **नहुष्टरः** बन्धकतरोऽहं **शवसा** बलेन **तुर्वशं** **यदुं** च **प्राश्रावयं** शत्रुसंबन्धिगवादिप्रदानेन श्रावितवानस्मि । तौ यथा लोके श्रुतौ भवतः तथाकार्षमित्यर्थः । किंच **अहम्** **अन्यं** चास्मत्स्तोतारं **सहसा** बलेन **सहः** बलिनं **करम्** **अकार्षम्** । करोतेर्लुङि ‘कृमृदृरुहि°' इति च्लेरङ्। अडभावः । किंच **नव** नवसंख्याकाः **नवतिं** **च** नवतिसंख्याकाश्च । नवोत्तरनवतिमित्यर्थः । कथंभूताः । **व्राधतः** वर्धमानाः **वक्षयम्** अवहम् । व्यनाशयमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 I am the slayer of seven asuras: aham saptahā, I am the slayer of seven asuras, asNamuci and others, or the destroyer of seven cities: RV. 1.174.2: sapta yatpuraḥ **śarma** **śāradīḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I am the smasher of the seven, a greater Nahus than Nahus. I made  Turvaśa and Yadu to be famed through my power.  
 I put down the one, his might with my might; I strengthened the nine  and ninety (others) (to become) proud.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Stronger am I than Nabus, I who slew the seven: I glorified with might Yadu and Turvaga.  
      I brought another low, with strength I bent his strength: I let the mighty nine-and-ninety wax in power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bin der Siebentöter, ein größerer Nahus als Nahus selbst. Ich machte durch meine Überlegenheit den Turvasa und Yadu berühmt. Ich brachte durch meine Macht den einen um seine Macht und neunundneunzig andere hob ich zu Großen empor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich bin's, der, näher als der Nachbar, sieben fäll't, ich brachte kräftig vorwärts Turvaça, Jadu, Den andern brachte ich durch Macht in meine Macht, den neunundneunzig starken gab ich grössre, Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я убийца семерых, Нахуш лучше самого Нахуша.  
 (Своим) могуществом я прославил Турвашу (и) Яду.  

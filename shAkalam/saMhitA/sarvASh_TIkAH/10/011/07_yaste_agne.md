@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते अग्ने सुमति꣡म् म꣡र्तो अ꣡क्षत्  
 स꣡हसः सूनो अ꣡ति स꣡ प्र꣡ शृण्वे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ स꣡ द्युमाँ꣡ अ꣡मवान् भूषति द्यू꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 इष॑म् । दधा॑नः । वह॑मानः । अश्वैः॑ । आ । सः । द्यु॒ऽमान् । अम॑ऽवान् । भू॒ष॒ति॒ । द्यून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -137,7 +137,7 @@ genre D
 हे सहसः सूनो बलस्य पुत्र **अग्ने** ते त्वदीयां **सुमतिं** शोभनामनुग्रहिकां बुद्धिं **यः** **मर्तः** मनुष्यो यजमानः **अक्षत्** अश्नुते । अनुग्रहशीलं त्वां स्तुतिभिर्हविर्भिश्च परिचरतीत्यर्थः । **सः** यजमानः **अति** **प्र** **शृण्वे** सर्वाँल्लोकानतीत्य प्रकर्षेण श्रूयते । प्रख्यातो भवतीत्यर्थः । कीदृशः । **इषम्** अन्नं **दधानः** अर्थिभ्यः प्रयच्छन् **अश्वैः** **वहमानः** । किंच **सः** एव **द्युमान्** दीप्तिमान् शरीरपतनानन्तरं द्युस्थानवान् वा **अमवान्** बलवान् **आ** **द्यून्** । द्युरित्यहर्नाम। ‘कालाध्वनोरत्यन्तसंयोगे' इत्येषा द्वितीया । आदित्यकर्तृकाण्यहानि । आचन्द्रार्कमित्यर्थः। **भूषति** भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,30 +148,30 @@ genre D
 Bhūṣati =**bhavati**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever mortal will attain your favor, o Agni, son of strength, he is  famed beyond (all).  
 Acquiring refreshment for himself, being conveyed by his horses,  
 brilliant and formidable, he attends upon (you) through the days.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far-famed is he, the mortal man, O Agni, thou Son of Strength, who hath obtained thy favour.  
      He, gathering power, borne onward by his horses, makes his days lovely in his might and splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche, der deine Gunst erlangen wird, Agni, Sohn der Kraft, der wird über die Maßen bekannt. Er bekommt gute Speise, fährt mit Rossen; glanzvoll, mächtig sieht er den kommenden Tagen entgegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mensch, der, Agni, deine Huld erlangt hat, der wird sehr weit berühmt, o Sohn der Stärke; Viel Gut empfangend und mit Rossen fahrend schmückt glänzend er und kräftig seine Tage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой смертный, о Агни, достиг твоего расположения,  
 О сын силы, тот прославится сверх меры.  

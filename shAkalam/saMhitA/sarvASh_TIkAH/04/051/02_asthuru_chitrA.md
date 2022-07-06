@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्थुर् उ चित्रा꣡ उष꣡सः पुर꣡स्तान्  
 मिता꣡ इव स्व꣡रवो अध्वरे꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उछ꣡न्तीर् अव्रञ् छु꣡चयः पवाकाः꣡+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि । ऊं॒ इति॑ । व्र॒जस्य॑ । तम॑सः । द्वारा॑ । उ॒च्छन्तीः॑ । अ॒व्र॒न् । शुच॑यः । पा॒व॒काः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asthur* ← *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
@@ -122,44 +122,44 @@ genre M
 **चित्राः** चायनीयाः **उषसः** **पुरस्तात्** पूर्वस्यां दिशि **अस्थुः** तिष्ठन्ति । व्याप्ता इत्यर्थः । तत्र दृष्टान्तः । **अध्वरेषु** **मिताः** खाताः **स्वरवः** यूपाः **इव** । ते यथा वेद्याः पुरतो भासन्ते तद्वत् । यद्यपि स्वरुशब्दो यूपच्छेदपतितप्रथमशकलवाची ' यः प्रथमः शकलः परापतेत्स स्वरुः कार्यः' इत्युक्तत्वात् तथाप्यत्र मितशब्दश्रवणात् 'चषालवन्तः स्वरवः' ( ऋ. सं. ३. ८. १० ) इत्यादौ तथा दर्शनाच्चात्र यूपवचनः । ताः **व्रजस्य** वारकस्य **तमसो** **द्वारा** द्वाराणि **वि** **उच्छन्तीः** **शुचयः** दीप्ताः पावकाः शोधिकाः **अव्रन्** व्यावृण्वन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The many-limbed Dawns rise up in the east, like the pillars plural nted at sacrifices (round the altar); radiant and purifying, they are manifested, opening the gates of the obstructing gloom.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have stood up—the bright Dawns—in the east, like the sacrificial  posts fixed at ceremonies.  
 
 They have unclosed the doors of the enclosure of darkness as they  dawn, blazing and pure.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note absolute initial root aor. ásthuḥ contrasting with absolute final asthāt in 1b.
 
 I have taken gen. támasaḥ as dep. on gen. vrajásya (“of the enclosure of darkness”) with Geldner, but támasaḥ could be dep. instead on dvā́rā, parallel to vrajásya (so Renou, Witzel Gotō).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The richly-coloured Dawns have mounted eastward, like pillars planted at our sacrifices,  
      And, flushing far, splendid and purifying, unbarred the portals of the fold of darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Usas stehen buntfarbig vorne im Osten da wie die aufgerichteten Pfosten bei den Opfern. Sie haben aufleuchtend die Tore des Pferchs der Finsternis aufgeschlossen, die Reinen, Hellen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Ost erstanden lichte Morgenröthen, wie Säulen, die beim Opfer aufgerichtet; Sie schlossen auf des dunkeln Stalles Thüren aus eigner Lust, die flammenden, die hellen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стоят на востоке яркие зори,  
 Словно столбы, воздвигнутые на жертвоприношениях.  

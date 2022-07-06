@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡तिक्ति यो꣡ वारण꣡म् अ꣡न्नम् अ꣡त्ति  
 वायु꣡र् न꣡ रा꣡ष्ट्री अ꣡ति एति अक्तू꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡त्यो न꣡ ह्रु꣡तः प꣡ततः परिह्रु꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तु॒र्याम॑ । यः । ते॒ । आ॒ऽदिशा॑म् । अरा॑तीः । अत्यः॑ । न । ह्रुतः॑ । पत॑तः । प॒रि॒ऽह्रुत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nitikti*
 - \[adverb\]
@@ -122,20 +122,20 @@ genre M
 **यः** अग्निः **वारणं** तमसां निवारकं स्वकीयं तेजः **नितिक्ति** निश्यति तीक्ष्णीकरोति । ‘ तिज निशाने' इति धातुः । यश्च **अन्नं** यष्टृभिर्दीयमानं हविर्लक्षणम् **अत्ति** भक्षयति । तथा च श्रूयते -- अन्नादो वा एषोऽन्नपतिर्यदग्निः' (ऐ. ब्रा. १. ८) इति। सोऽग्निः **वायुर्न** वायुरिव **राष्ट्री** । ईश्वरनामैतत् । राष्ट्रं राज्यम् । तद्वान् । वायुर्यथा स्वमाहात्म्येन सर्वमीष्टे तद्वत् । सर्वस्येश्वर इत्यर्थः । तादृशः सन् **अक्तून्** रात्रीः **अत्येति** अतिक्रामति । तद्गतमन्धकारं तिरस्करोतीत्यर्थः । वयं च त्वत्प्रसादात् **तुर्याम** तं हिंस्याम **यः** जनः **ते** तुभ्यम् **आदिशाम्** आदिश्यमानानां दीयमानानां हविषाम् **अरातीः** अरातिरदाता । छान्दसो दीर्घः । यद्वा । अरातीर्धनस्य अदातॄन् ते त्वां प्रत्यादिशामादेष्टॄणामाचक्षाणानामस्माकं यो जनो विरोधी तं हिंस्याम । त्वं च **अत्यो** **न** शीघ्रगामी जात्यश्व इव **ह्रुतः** हिंसकान् **पततः** आभिमुख्येन गच्छतः शत्रून् **परिह्रुत्** परिगत्य हन्ता भव ॥ ह्वरतेर्हिंसार्थस्यैतद्रूपम् ॥ ॥५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who whets his (gloom) dispersing (radiance), who eats the (offered) oblation, a soverign like **vāyu**, overcomes the nights; may we prevail (over him) who is not a donor of the oblations that are due; (**Agni**), to you, and do you, (swift) as a horse be the destroyer of the foes assailing (us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who eats the wild food sharply, like the wind he goes as ruler across  the nights.  
 May we, who (serve) you, outstrip the hostilities of (ill-)intentions, as a  steed does the (other) “flying” (steeds), as he curves around the curves  (of a racecourse).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first half of this vs. is fairly straightforward; the second bristles with nearly insoluble difficulties.
 
@@ -163,23 +163,23 @@ pronoun or of gen. ādíśām), highly unusual case usage, or supplying signific
 We come finally to the simile of pāda d, which again has inspired numerous interpr., which again I will leave undiscussed. The particular issues are 1) the precise sense and reference of (pari)hrút-, 2) the grammatical identity of hrútaḥ and pátataḥ, which could both be either gen.-abl. sg. or acc. pl., 3) whether those last two should be construed separately or together, 4) whether √pat can mean ‘fall’ at this period. I answer 4) with a negative, though Geldner’s and Scarlatta’s interpr. depend on that sense. I also follow Hoffmann in seeing the simile as depicting a race and racecourse, though I think -hrút- refers to the curves of the racetrack and the curving course of the racehorse. I take both hrútaḥ and pátataḥ as acc. pl., but in separate syntagms: pátataḥ is the obj. of tūryā́ma in the simile and refers to the competing horses “flying” around the course -- thus corresponding to árātīḥ in the frame -- while hrútaḥ is construed with parihrút as an etymological figure and has no direct correspondent in the frame. For the other occurrence of the root noun hrút-, where it likewise refers to real life curves, see comm. ad IX.61.27.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even he who cats his firm hard food with swiftness,and overtakes the nights as Vayu kingdoms.  
      May we o'ercome those who resist thine orders, like a steed casting down the flying foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der gierig die gemiedene Speise frißt, er überdauert wie der herrschende Wind die Nächte. Wir möchten der Mißgunst dessen, der deinen Mahnungen trozt, entgehen wie ein Rennpferd, das die in die Hindernisse fallenden Rennpferde überholt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der in Hast die starke Speise aufzehrt, durchdringt als Fürst dem Winde gleich die Nächte; Lass schlagen uns, die deinen Plänen feind sind, dem Renner gleich die fliehnden Feinde stürzend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, заостряя (свое пламя), сжирает дикую пищу,  
 Словно ветер, проходит он властелином сквозь ночи.  

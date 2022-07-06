@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पवस्व धनंजय  
 प्रयन्ता꣡ रा꣡धसो महः꣡  
 अस्म꣡भ्यं सोम गातुवि꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒स्मभ्य॑म् । सो॒म॒ । गा॒तु॒ऽवित् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -79,35 +79,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **धनंजय** शत्रुसंबन्धिनां जनानां जेतः **सोम** **गातुवित्** अभीष्टमार्गस्य लम्भकः **अस्मभ्यं** **महः** महतः **राधसः** धनस्य **प्रयन्ता** प्रदाता च यः **सः** त्वं **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, conqueror of wealth, who know the way (to fulfil my desires), flow forth the bestower of vast wealth upon us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, you winner of stakes, as provider of great bounty and as pathfinder for us, o Soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus, Soma, Conqueror of wealth! flow, finding furtherance for us,  
      Giver oF ample opulence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, du Schätzegewinner, als Spender großer Ehrengabe, als Pfadfinder für uns, o Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle hell, erbeutender, Darreicher grosser Gaben du, Und schaff uns, Soma, freie Bahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

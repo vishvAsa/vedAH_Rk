@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्र꣡त्वा द꣡क्षस्य त꣡रुषो वि꣡धर्मणि  
 देवा꣡सो अग्निं꣡ जनयन्त चि꣡त्तिभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡त्यं न꣡ वा꣡जं सनिष्य꣡न्न् उ꣡प ब्रुवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रु॒रु॒चा॒नम् । भा॒नुना॑ । ज्योति॑षा । म॒हाम् । अत्य॑म् । न । वाज॑म् । स॒नि॒ष्यन् । उप॑ । ब्रु॒वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
@@ -120,40 +120,40 @@ genre M
 चित्तिभिर्ज्ञानैः उपलक्षितादेवासः देवाः तरुषः व्यसनेभ्यस्तारकस्यदक्षस्यबलस्य क्रत्वाकर्म णा विधर्मणि विधारकेयज्ञे अग्निञ्जनयन्त अजनयन् भानुनाभासमानेन ज्योतिषारुरुचानं रोच मानं महां महान्तं अग्निंअत्यन्न भारसहमश्वमिव वाजमन्नं सनिष्यन् लिप्समानोहं उपब्रुवे स्तौमि ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods (endowed) with intelligence, gave birth to **Agni** in the multiform rite by the exertion of preserving strength; desirous of food, I eulogise the great Agni, bright with solar effulgence, and (vigorous) as a horse.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In accordance with their will and upon the broad foundation of their skill  and power to surpass, the gods gave birth to Agni through their insights. I speak to the great one, shining with his radiance and his light, as one  who wants to win the prize (speaks) to his steed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Within the range of their surpassinq power, by might, the Gods created Agni with inventive thought.  
      I, eager to win strength, address him, like a steed, resplendent with his brilliance, with his ample light.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Through the power of their mind, within the sphere of their superior strength the gods have procreated Agni by their thoughts. Desirous of winning the prize 1 I address Him who shines with his splendour, who is great in his light, as (one who desires to win the prize addresses his) race-horse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit der Klugheit des Verstandes, um ihre Macht auszubreiten, mit Überlegung erzeugten die Götter den Agni. Dem im Glanze, im Lichte erstrahlenden Großen rede ich zu wie dem Rennpferd der, der den Siegerpreis gewinnen will.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter zeugten durch des Geistes Siegsgewalt im Himmelsraum den Agni durch der Weisheit Kraft; Der hell erstrahlt und gross sich zeigt an Licht und Glanz, ihn wie ein Rennpferd ruf ich Gut begehrend an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Распространяя (свое) превосходство, силой разума  
 Боги породили Агни мысленными усилиями.  

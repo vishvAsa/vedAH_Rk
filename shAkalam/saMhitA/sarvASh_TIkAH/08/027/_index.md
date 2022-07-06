@@ -8,7 +8,7 @@ title = "+027"
 'अग्निरुक्थे ' इति द्वाविंशत्यृचं सप्तमं सूक्तम् । अत्रानुक्रमणिका– अग्निरुक्थे द्व्यधिका मनुर्वैवस्वतो वैश्वदेवं ह प्रागाथम्' इति । विवस्वतः पुत्रो मनुर्ऋषिः। प्रथमातृतीयाद्ययुजो बृहत्यो द्वितीयाचतुर्थादियुजः सतोबृहत्यः । इदमादीनां चतुर्णां सूक्तानां विश्वे देवा देवता । सूक्तविनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 27 (647)  
 All Gods  
@@ -21,7 +21,7 @@ On the basis of verse 12 and the sketch of Savitar’s functions there, Geldner 
 The language of the hymn is fairly simple and straightforward, and the lexicon  often repetitive. But the effect is pleasing, and the poem hardly deserves Renou’s  judgment (EVP IV: 106) that it is “banal” and “facile.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शृणुतं꣡ जरितु꣡र् ह꣡वम्  
 इ꣡न्द्राग्नी व꣡नतं गि꣡रः  
 ईशाना꣡ पिप्यतं धि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 ई॒शा॒ना । पि॒प्य॒त॒म् । धियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śṛṇutaṃ* ← *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
@@ -84,41 +84,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्द्राग्नी** **जरितुः** स्तोतुः **हवम्** आह्वानं युवां **शृणुतम्** । श्रुत्वा च **गिरः** तदीयाः स्तुतीः **वनतं** संभजतम् । तथा **ईशाना** ईश्वरौ युवां **धियः** अनुष्ठितानि कर्माणि **पिप्यतं** तत्स्थैः फलैः पूरयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hear, **Indra** and **Agni**, the invocation of the worshipper; accept his adoration. Recompense, lords, hispious acts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hear the call of the singer; Indra and Agni, crave his hymns.  
 Showing your mastery, swell his insights.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. traces the genesis of the praise hymn further back: the poet’s insight (dhī́-) / conception (mánman-) that produces is the hymn is itself the product of the gods’ stimulation, here expressed by pipyataṃ dhíyaḥ “swell his insights.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do ye, O Indra-Agni, hear the singer's call: accept his songs.  
      Ye Rulers, grant his heart's desire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erhöret des Sängers Ruf, Indra und Agni! Nehmet die Lobesworte gut auf; befruchtet unsere Gedanken, die ihr das vermöget!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra-Agni, hört den Ruf des Sängers, seid den Liedern hold, O Herrscher, schafft der Andacht Frucht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Услышьте призыв певца!  
 О Индра-Агни, пожелайте хвалебных песен!  

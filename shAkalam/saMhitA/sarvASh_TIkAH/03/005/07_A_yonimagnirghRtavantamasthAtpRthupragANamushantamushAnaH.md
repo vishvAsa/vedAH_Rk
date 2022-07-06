@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यो꣡निम् अग्नि꣡र् घृत꣡वन्तम् अस्थात्  
 पृथु꣡प्रगाणम् उश꣡न्तम् उशानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡नः-पुनर् मात꣡रा न꣡व्यसी कः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दीद्या॑नः । शुचिः॑ । ऋ॒ष्वः । पा॒व॒कः । पुनः॑ऽपुनः । मा॒तरा॑ । नव्य॑सी॒ इति॑ । क॒रिति॑ कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,42 +129,42 @@ genre M
 उशानः कामयमानोग्निः घृतवन्तं दीप्तिमन्तम्पृथुप्रगाणम्पृथुगीतिं उशन्तङ्कामयमानंयोनिंस्थान मायतनं आअस्थात् आतिष्ठति दीद्यानोद्योतमानः शुचिर्दर्शनीयः शुद्धोवा ऋष्वोमहान् पावकः अन्येषांशोधयिताग्निः मातरामातरौद्यावापृथिव्यौपुनःपुनःनव्य सीनवतरे कः करोति ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** has taken his station in an asylum, brilliant, much-lauded, and as desirous (of receiving him) as he is (torepair to it); radiant, pure, vast and purifying, he repeatedly renovates his parents, (Heaven and Earth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being eager, Agni has mounted the eager womb covered in ghee and  providing wide entry.  
 Shining, blazing, towering, pure—again and again he has made his  
 mother and father new.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni hath entered longingly the longing shrine rich with fatness, giving easy access.  
      Resplendent, pure, sublime and purifying, again, again he renovates his Mothers.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni has approached the place 1 rich in ghee (the altar), with broad passages, (the place) longing (for him), longing (himself). He the resplendent, bright, tall purifier has made his two parents 2 new again and again.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni hat den schmalzigen Schoß mit breitem Zugang bestiegen, verlangend den verlangenden. Leuchtend, rein, aufrecht, klar, macht er immer wieder seine beiden Eltern neu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum butterreichen Schooss mit weitem Zugang, dem willigen, begab sich Agni willig; Der hell erstrahlt, der flammende erhabne, macht wieder neu sich stets die beiden Aeltern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни взошел на лоно, полное жира,  
 С широким доступом, жаждущее (этого), (он,) жаждущий,  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि कृण꣡वाम त  
 इ꣡न्द्र ब्र꣡ह्माणि व꣡र्धना  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; repeated line
 येभिः॑ । श॒वि॒ष्ठ॒ । चा॒कनः॑ । भ॒द्रम् । इ॒ह । श्र॒व॒स्य॒ते । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -119,14 +119,14 @@ genre M;; repeated line
 हे **इन्द्र** **आ** **याहि** आगच्छ । **ते** **कृणवाम** । किम् । ब्रह्माणि परिवृढानि स्तुतिलक्षणानि कर्माणि । कीदृशानि । **वर्धना** उत्साहवर्धकानि । **येभिः** यैः कर्मभिः हे शविष्ठ अतिशयेन बलवन्निन्द्र **चाकनः** कामयसे । किम् । **भद्रं** कर्तुम् । कस्मै । **श्रवस्यते** अन्नमिच्छते स्तोत्रे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, come here; let us perform for you our sacred rites augmenting your vigour; by which (rites), mostmightyone, you desire to bless him who wishes for food; Indra's gifts are worthy of praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here! We shall make strengthening sacred formulations for  
 you, Indra,  
@@ -135,23 +135,23 @@ auspicious here for one who seeks fame.
 – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us.hither: let us pay devotions that enhance thy might,  
      For which, Most Potent! thou wouldst fain bless the man here who strives for fame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, wir wollen dir, Indra, erbauliche Worte zur Stärkung machen, an denen du Gewaltigster Gefallen haben sollst. Glück werde dem Ruhmsuchenden hier. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm, Indra, her, wir wollen dir Gebete bringen, stärkende, Die du, o stärkster, gerne hast; hier blüht dem schatzbegier'gen Glück; des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай, мы хотим создать тебе,  
 О Индра, подкрепляющие священные слова,  

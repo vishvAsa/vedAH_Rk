@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋज्र꣡म् उक्षणिया꣡यने  
 रजतं꣡ ह꣡रयाणे  
 र꣡थं युक्त꣡म् असनाम सुषा꣡मणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 रथ॑म् । यु॒क्तम् । अ॒स॒ना॒म॒ । सु॒ऽसाम॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛjram* ← *ṛjra*
 - \[noun\], accusative, singular, masculine
@@ -72,35 +72,35 @@ genre M
 सुषाम्णः पुत्रो वरुर्नाम राजा । स यद्दानं प्रादात् विश्वमनसे तदसौ विश्वमना ऋषिरनया आचष्टे । **उक्षण्यायने** । उक्षनामा कश्चिद्वरोः पूर्वजः। तस्य गोत्रापत्य उक्षण्शब्दाण्ण्यः । तदन्तात् फक्प्रत्ययः । एतौ छान्दसौ। वृद्धिभावोऽपि संज्ञापूर्वको विधिरनित्यः' इति न भवति । तस्य गोत्रापत्ये **हरयाणे** शत्रुजीवितैश्वर्यादिहरणशीलयाने एतादृशे **सुषामणि** । बहुवत्पितृशब्देन पुत्रोऽभिधीयते । सुषाम्णः पुत्रे वरौ राजनि ददति सति किमभूत्। **ऋज्रम्** ऋजुगामिनं **रजतं** रजतमयं रजतसदृशं वा **युक्तम्** अश्वाभ्यां युक्तं **रथम्** **असनाम्** । एतेषां मित्रादीनां प्रसादात् वयं संभक्तवन्तो लब्धवन्तोऽभूम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We have received from the son of **Suṣāman**, the descendant of **Ukṣan**, the overcomer (of foes), awell-going chariot of silver, yoked (with a pair of horses).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A silvery (horse) at Ukṣaṇyāyana’s (sacrifice), a silver one at Harayāṇa’s, and a yoked chariot at Suṣāman’s—these have we gained.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From Uksanyayana a bay, from Harayana a white steed,  
      And from Susaman we obtained a hamessed car.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einen Schimmel haben wir bei Uksanyayana, einen Silberschimmel bei Harayana, einen bespannten Wagen bei Susaman als Lohn empfangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein rothbraunes und ein silberfarbenes Ross erhielten wir von dem Nachkommen des Ukschanja, dem Harajāna, einen geschirrten Wagen vom Suschāma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Светло-рыжего (коня) у Укшаньяяны,  
 Серебристого у Хараяны,  

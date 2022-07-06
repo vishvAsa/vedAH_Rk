@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र पि꣡ब तु꣡भ्य° सुतो꣡ म꣡दाय  
 अ꣡व स्य ह꣡री वि꣡ मुचा स꣡खाया  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था यज्ञा꣡य गृणते꣡ व꣡यो धाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒त । प्र । गा॒य॒ । ग॒णे । आ । नि॒ऽसद्य॑ । अथ॑ । य॒ज्ञाय॑ । गृ॒ण॒ते । वयः॑ । धाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -141,7 +141,7 @@ genre M
 हे **इन्द्र** तं सोमं **पिब** यः सोमः **तुभ्यं** **मदाय** मदार्थं **सुतः** अभिषुतः । यतस्त्वया सोमः पातव्योऽतः कारणात् **सखाया** समानख्यानौ मित्रभूतौ वा **हरी** अश्वौ **अव** **स्य** अवस्थापय । तदनन्तरं वि **मुच** रथाद्विमुञ्च । **उत** अपि च **गणे** अस्मत्स्तोतृसंघे **आ** आभिमुख्येन **निषद्य** उपविश्य **प्र** **गाय** अस्माभिः कृतं स्तोत्रमुपश्लोकय । **अथ** अनन्तरं **यज्ञाय** यजमानाय **गृणते** स्तुवते **वयः** अन्नं **धाः** देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,35 +152,35 @@ genre M
 Sitting in our society: uta pra **gāya** gaṇe ā niṣadya: pragāya = asmābhiḥ kṛtam stotram upaślokaya, return verses to the praise made by us
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, drink! It is pressed for you for your exhilaration. Unhitch your  two fallow bays; let loose your two partners.824 VI.41  
 And sing forth here having sat down amid your troop. Then create  
 vitality for the singer for sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take gaṇé as referring to the troop of Maruts, as often, not an unidentified set of mortals making up a “(Sänger)schar,” as Geldner seems to take it. Assuming that it refers to the Maruts, this provides conceptual ring composition with the final word of the hymn, marúdbhiḥ, as noted in the published introduction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 DRINK, Indra; juice is shed to make thee joyful: loose thy Bay Steeds and give thy friends their freedom.  
      Begin the song, seated in our assembly. Give strength for sacrifice to him who singeth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, trinke! Für dich ist er zum Rausch ausgepreßt. Halte die Falben an, spanne die beiden Kameraden aus und stimme den Gesang an, in der Sängerschar Platz nehmend und gib so dem Sänger Kraft zum Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Trink, Indra, dir ist Saft gepresst zum Rausche, spann ab die Füchse, löse die Gefährten, Heb' an zu singen, zu der Schar dich setzend, dass Kraft du gebst dem Sänger zur Verehrung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, пей! (Он) выжат тебе для опьянения.  
 Придержи пару (своих) коней, распряги двоих товарищей  

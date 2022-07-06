@@ -8,7 +8,7 @@ title = "+010"
 ‘ प्र स्वानासः' इति नवर्चं दशमं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र स्वानासः' इत्यनुक्रान्तम् । उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 10 (722)  
 Soma Pavamāna  
@@ -18,7 +18,7 @@ This hymn, which shares a number of themes with IX.9, begins with three verses  
 Other metaphors involve the poets and sacrificers: the doors of poetry (vs. 6), the  seven siblings of the priests (vs. 7), who are no doubt the seven inspired thoughts of  previous hymns (IX.9.4, 6; IX.8.4). This latter metaphor of kinship then provides  our own kinship relationship to Soma himself (vs. 8). One image remains somewhat  obscure: in verse 9 the “track of heaven” is said to have been placed in hiding by the  Adhvaryus. This must be a specific ritual reference, with the track of heaven being  likened to Soma’s own tracks—perhaps when Soma disappears into the fleece when  the Adhvaryu priests are first pressing him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the poetic structure of the hymn, see published introduction.
 </details>

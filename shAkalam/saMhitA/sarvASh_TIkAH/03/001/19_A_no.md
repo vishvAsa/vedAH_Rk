@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो गहि सखिये꣡भिः शिवे꣡भिर्  
 महा꣡न् मही꣡भिर् ऊति꣡भिः सरण्य꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवा꣡चम् भागं꣡ यश꣡सं कृधी नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒स्मे इति॑ । र॒यिम् । ब॒हु॒लम् । सम्ऽत॑रुत्रम् । सु॒ऽवाच॑म् । भा॒गम् । य॒शस॑म् । कृ॒धि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -133,41 +133,41 @@ genre M
 सरण्यन् सर्वत्रसरणङ्गमनमिच्छन् महांस्त्वं शिवेभिः शिवङ्करैः सख्येभिः सख्यैः सखिकर्म भिः महीभिः महतीभिरूतिभीरक्षाभिश्चनोस्मान् प्रतिआगहि आगच्छ अस्मे अस्मभ्यं बहुलं विस्तीर्णं सन्तरुत्रं सर्वेषामुपद्रवाणां सन्तारकं सुवाचं शोभनवाचं भागंसर्वैर्भजनीयंयशसं यश साकीर्त्यासंयुक्तंरयिन्धनं नोस्मभ्यं कृधिदेहि अस्मभ्यमितिपुनर्वचनमादरातिशयार्थम् ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us with friendly, auspicious, and mighty aids, you who are great and all-pervading; besto wupon us ample riches, safe from injury, well-spoken of, desirable, and renowned.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come to us together with your kind companionship, hastening as the  great one together with your great help.  
 Make for us abundant wealth that brings us safely across, and a share  for us that brings beautiful speech and glory.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come unto us with thine auspicious friendship, come speeding, Mighty, with thy mighty succours.  
      Grant us abundant wealth that saves from danger, that brings a good repute, a glorious portion.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Come to us with thy gracious friendship, speeding, great, with thy great blessings. Bestow on us plentiful victorious wealth; make our share glorious and adorned with fine speech.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm zu uns mit deinen gütigen Freundschaftsdiensten, du der Große mit deinen großen Hilfen, dich beeilend! Schaff uns reichlichen, über die Not helfenden Besitz und einen ehrenvollen Anteil, von dem man gut spricht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her zu uns mit segensreicher Freundschaft, mit grossen Hülfen eilend du, der grosse; Verschaff uns reiches Gut, das Sieg verleihet, und schönes Glück, das hohen Preises werth ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди к нам с добрыми дружескими услугами,  
 Великий, с великими поддержками спешащий.  

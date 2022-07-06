@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ईङ्ख꣡यन्ति प꣡र्वतान्  
 तिरः꣡ समुद्र꣡म् अर्णव꣡म्  
 मरु꣡द्भिर् अग्न आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 म॒रुत्ऽभिः॑ । अ॒ग्ने॒ । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -84,19 +84,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **ये** मरुतः **पर्वतान्** मेघान् **ईङ्खयन्ति** चालयन्ति तथा **अर्णवं** उदकयुक्तं **समुद्रं** **तिरः** कुर्वन्तीति शेषः । निश्चलस्य जलस्य तरङ्गाद्युत्पत्तये चालनं तिरस्कारः । तैः मरुद्भिः इत्यन्वयः ॥ ईङ्खयन्ति ।' उख उखि ' इत्यादौ ईखिर्गत्यर्थः ।  ‘ हेतुमति च ' ( पा. सू. ३. १. २६ ) इति णिच् । 'इदितो नुम् धातोः' इति नुम् । णिजन्तधातोः  ‘ चितः' इत्यन्तोदात्तत्वम् । शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । पर्वतान् । पूर्व पर्व मर्व पूरणे ' । औणादिकोऽतन् । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who scatter the clouds, and agitate the sea (with waves): come, **Agni** with the **Maruts**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who make the mountains swing, across the undulating sea— with the Maruts, o Agni, come hither.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/019/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -104,23 +104,23 @@ Geldner (sim. Renou) supplies a verb (“kommen”) with 7b. I am, as usual, rel
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who scatter clouds about the sky, away over the billowy sea:  
      O Agni, with those Maruts come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die die Berge schaukeln, über das flutende Meer kommen, mit den Marut komm, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die durch des Meeres Wogenflut, die Wellenberge schaukelnd wehn, Mit diesen Maruts, Agni, komm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что сотрясают горы,  
 Через бурное море (приходят к нам) –  

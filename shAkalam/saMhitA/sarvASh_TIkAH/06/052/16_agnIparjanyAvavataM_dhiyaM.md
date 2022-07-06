@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्नीपर्जन्याव् अ꣡वतं धि꣡यम् मे  
 अस्मि꣡न् ह꣡वे सुहवा सुष्टुतिं꣡ नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रजा꣡वतीर् इ꣡ष आ꣡ धत्तम् अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इळा॑म् । अ॒न्यः । ज॒नय॑त् । गर्भ॑म् । अ॒न्यः । प्र॒जाऽव॑तीः । इषः॑ । आ । ध॒त्त॒म् । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnīparjanyāv* ← *agnīparjanyau* ← *agnīparjanya*
 - \[noun\], vocative, dual, masculine
@@ -127,7 +127,7 @@ genre M
 हे **अग्नीपर्जन्यौ** **मे** मदीयं **धियं** कर्म यज्ञलक्षणम् **अवतं** गच्छतं रक्षतं वा । हे ”सुहवा सुखेन ह्वातुं शक्यौ **अस्मिन्** **हवे** यज्ञे **नः** अस्मदीयां **सुष्टुतिं** शोभनां स्तुतिं च रक्षतम् । यद्वा । अनुवृत्तोऽवतिः श्रवणार्थः। अवतं शृणुतम् । युवयोर्मध्ये **अन्यः** पर्जन्यः **इळाम्** अन्नं **जनयत्** जनयति । वृष्ट्या हि ओषधिवनस्पतयो जायन्ते तेभ्यश्चान्नं जायते । **अन्यः** अग्निः **गर्भं** जनयति । पुरुषेण भुक्तमन्नं जाठरेणाग्निना पक्वं सत् रेतरूपेण परिणमते तदेव योषित्सु गर्भो भवति । अतो युवां **प्रजावतीः** प्रजाभिर्युक्ताः **इषः** अन्नानि **अस्मे** अस्मासु **आ** **धत्तम्** अवस्थापयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,14 +138,14 @@ genre M
 One of you genitive rates: iḷām anyo janayat garbham **anyaḥ**: Parjanya, by sending rain, causes the growth of corn, and Agni, as the main agent in digestion, produces the vigour necessary for procreation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni and Parjanya, help my insightful thought, our lovely praise at  this call here, you who are easy to call.  
 The one begets the refreshing drink, the other the embryo. Confer  
 refreshments accompanied by offspring on us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni and Parjanya seem an odd couple, and this dual dvandva is found only here. But recall that the two appear together earlier in the hymn, in vs. 6 (with Indra and Sarasvatī), and in fact Parjanya is oddly well represented in this set of All God hymns; cf. the dual dvandva parjányā-vā́tā in VI.49.6, 50.12. In our vs. the two are given a division of labor, conveyed by the “the one … the other” construction of c (íḷām anyó janáyad gárbham anyáḥ), but curiously which god is responsible for which begetting is unclear enough to have produced entirely opposite interpretations.
 
@@ -154,23 +154,23 @@ In his n. 16c Geldner, who does not commit himself in his tr., cites Sāyaṇa. 
 As Geldner points out, the two products are reconciled in the last pāda, where both gods are urged jointly to give us “refreshments accompanied by offspring” (prajā́vatīr íṣaḥ), with prajā- standing in for gárbha- and íṣ- for íḷā- from pāda c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At this my call, O Agni and Parjanya, help, swift to hear, my thought and our laudation.  
      One generates holy food, the other offspring, so grant us food enough with store of children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni und Parjanya begünstigt mein Gedicht, unser Loblied bei dieser Anrufung, ihr leicht zu Errufende! Der eine erzeuget den Speisesegen, der andere den Keim. Gewähret uns Speisegenüsse, die Kinder im Gefolge haben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni, Pardschanja, mein Gebet begünstigt, bei diesem Anruf unser Lied erhörend, Den Regen schuf der eine, Frucht der andre, ihr beide schenkt uns kinderreiche Labung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни-Парджанья, помогите моей молитве  
 При этом призыве, о многопризываемые, нашей прекрасной хвале!  

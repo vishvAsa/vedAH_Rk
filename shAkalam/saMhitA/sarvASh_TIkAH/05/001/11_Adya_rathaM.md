@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द्य꣡ र꣡थम् भानुमो भानुम꣡न्तम्  
 अ꣡ग्ने ति꣡ष्ठ यजते꣡भिः स꣡मन्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡ह꣡ देवा꣡न् हविर꣡द्याय वक्षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒द्वान् । प॒थी॒नाम् । उ॒रु । अ॒न्तरि॑क्षम् । आ । इ॒ह । दे॒वान् । ह॒विः॒ऽअद्या॑य । व॒क्षि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ādya* ← *ā*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 हे **भानुमः** दीप्तिमन् **अग्ने** **अद्य** अस्मिन् यागदिने **भानुमन्तं** दीप्तिमन्तं **समन्तं** समीचीनप्रान्तोपेतं **रथं** **यजतेभिः** यष्टव्यैर्देवैः सह **आ** **तिष्ठ** आरोह। **विद्वान्** यष्टव्यदेवपरिज्ञानवांस्त्वं **पथीनां** देवयजनमार्गान् प्रति ॥ द्वितीयार्थे षष्ठी ॥ **उर्वन्तरिक्षं** प्रभूतेऽन्तरिक्षे **देवान्** यष्टव्यान् **हविरद्याय** हविर्भक्षणाय **इह** अस्मिन् यज्ञे **आ** **वक्षि** आवहसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ Cognizant of the ways of worship: **vidvān** pathīnām: vidvān = yaṣṭavya
 Pathīnām = with regard to the ways of worshipping them, devayajñamārgān **prati**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Today mount your radiant chariot, o radiant Agni, that is shared with  the (gods), fit recipients of sacrifice.  
 Knowing the paths, convey the gods here across the wide midspace for  them to consume the offerings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ascend to-day thy splendid car, O Agni, in splendour, with the Holy Ones around it.  
      Knowing the paths by mid-air's spacious region bring hither Gods to feast on our oblation.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Mount to-day, O shining Agni, the shining car, in the neighbourhood of the worshipful (gods). Knowing the paths, the wide air 1, bring hither the gods that they may eat the oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Besteige heute, du glanzvoller Agni, deinen glanzvollen Wagen im Verein mit den verehrungswürdigen Göttern. Der Wege kundig fahre durch den weiten Luftraum die Götter hierher zum Opferschmaus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besteige heut den strahlenreichen Wagen, o strahlenreicher Agni, mit den hehren; Der Wege kundig fahre her die Götter zum Opfermahle durch den weiten Luftraum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Взойди сегодня, о сверкающий Агни, на сверкающую  
 Колесницу вместе с достойными жертвы (богами)!  

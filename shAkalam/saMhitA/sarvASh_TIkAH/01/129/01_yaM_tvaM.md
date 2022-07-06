@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ त्वं꣡ र꣡थम् इन्दर+ मेध꣡सातये  
 अपाका꣡ स꣡न्तम् इषिर प्रण꣡यसि  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 इमां꣡ वा꣡चं न꣡ वेध꣡साम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 सः । अ॒स्माक॑म् । अ॒न॒व॒द्य॒ । तू॒तु॒जा॒न॒ । वे॒धसा॑म् । इ॒माम् । वाच॑म् । न । वे॒धसा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -183,14 +183,14 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **इन्द्र** **इषिर** यज्ञगमनशील **त्वं** **मेधसातये** यज्ञस्य दानाय लाभाय वा **यं** यजमानं प्रति रथं **प्रणयसि** प्रापयसि ॥ द्विकर्मकोऽयम् ॥ कीदृशं यजमानम् । **अपाका** अपाकम् अनल्पप्रज्ञयाधिकारवन्तम्। 'पाकः पक्तव्यो भवति' (निरु. ३. १२) इति यास्कः । अत एव **सन्तं** पण्डितं सन्तम् । किंच हे **अनवद्य** अनिन्दित यं यजमानं धनविद्यादिना **प्र** **नयसि** प्रकृष्टं नयसि । **तं** यजमानं सद्यश्चित् तदानीमेव तदनुग्रहकाले एव **अभिष्टये** आभिमुख्येन यागाय अभिमतप्राप्तये वा ॥ अभिपूर्वात् इषेः क्तिन् । शकन्ध्वादित्वात् पररूपत्वम् । गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥ **करः** समर्थं करोषि ॥ लेटि व्यत्ययेन शप् ॥ एवं कृत्वा च **वाजिनं** हविर्लक्षणमन्नं तद्वन्तं वा **वशः** कामयसे **च** ॥ वष्टेर्लेटि अडागमः । तिङः परत्वादनिघातः ॥ यजमानेनाहूतः सन् शीघ्रमेवागत्य हविः स्वीकृत्य यागं साधु निर्वर्त्य  तं चाभिमतफलेन संयोज्य पुनर्हविः स्वीकरोषीत्यर्थः । हे इन्द्र **अनवद्य** अनिन्दित सर्वैः स्तूयमान **तूतुजान** अस्माननुग्रहीतुं त्वरमाण ॥ तुजेः प्रेरणार्थात् लिटः कानच् । ' तुजादीनां दीर्घोऽभ्यासस्य ' इत्यभ्यासस्य दीर्घत्वम् । **सः** त्वम् ॥ ' सोऽचि लोपे चेत् ' इति संहितायां सोर्लोपः ॥ **वेधसां** विविधफलकर्तॄणां मध्ये श्रेष्टतया **वेधसां** मेधाविनाम् **अस्माकं** संबन्धि हविः स्वीकुर्वित्यर्थः । तत्र दृष्टान्तः । **इमां** **वाचं** **न** अस्मदीयां स्तुतिरूपां वाचमिव । स्तुतिं यथा स्वीकरोषि तथा हविरपीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, frequenter of sacrifices, quickly enable him to attain his desires, to whom you repair in your car to receive the oblation; and for whom, as he is mature (in understanding) and devout, you who are without fault, entertain regard. Accept his offering, for you who are without fault, are prompt to favour us (among) the pious (offerrs of oblations) as (you accept) this our praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The chariot which you, o vigorous Indra, lead forward to gain  
 wisdom, though it [=chariot] is far away—(which) you lead forward,  faultless one—  
@@ -198,7 +198,7 @@ just in a single day you will make it to prevail as a prizewinner if you so  des
 (Thrust forward) (this chariot) for us, the ritual adepts, you faultless  thruster—like this speech for (us,) the ritual adepts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pādas de show two different constructions with √kṛ ‘make’. On the one hand, abhíṣṭaye káraḥ is a periphrastic caus. “make to prevail,” with abhíṣṭaye parallel to the infinitival medhásātaye ‘to gain wisdom’ in 1a; on the other hand, káraḥ … vājínam is a predicate adj. construction “make (it=chariot) a prize-winner.” Separating the two constructions is the embedded tag váśaś ca “if you wish,” with subordinating ca (see Klein DGRV I.250). Though subordinate clauses are almost never embedded, this functions as a parenthetical like later manye ‘methinks’ and it also intervenes between two clauses.
 
@@ -209,24 +209,24 @@ Note also that in 5b of this hymn the ná follows a clear two-word simile (witho
 reflects a separation analysis, but with imā́m also representing vā́cam: “… dieses (Wort) wie das Wort der Vertrauenswürdigen.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE car which Indra, thou, for service of the Gods though it be far away, O swift One, bringest near, which, Blameless One, thou bringest near,  
      Place swiftly nigh us for our help: be it thy will that it be strong.  
      Blameless and active, hear this speech of orderers, this speech of us like orderers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du den Wagen, der im Hintertreffen ist, o raschhandelnder Indra, vorauslenkst, um den Preis zu gewinnen, du Tadelloser vorauslenkst, so wirst du ihn sofort zur Überlegenheit bringen, zum Sieger machen, wenn du willst - das sei unser, der Meister, Wagen. Du Draufgänger ohne Tadel - so wie diese Rede der Meister.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wagen, den, o Indra, du zum Opferfest, da fern er war, o munterer, nun zu uns führst, o makelloser, zu uns führst, Den schaff uns schnell zur Hülfe her, und nimm den Spender willig an; Und auch, o makelloser, eilender, den Spruch, auch diesen Spruch der Opferer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Та колесница, о Индра, находящаяся позади, которую  
 Ты продвигаешь вперед, о стремительный, для завоевания награды,  

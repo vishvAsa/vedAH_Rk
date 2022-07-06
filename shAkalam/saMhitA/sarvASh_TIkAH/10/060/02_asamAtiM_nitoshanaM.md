@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡समातिं नितो꣡शनं  
 त्वेषं꣡ निययि꣡नं र꣡थम्  
 भजे꣡रथस्य स꣡त्पतिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -30,7 +30,7 @@ genre D
 भ॒जेऽर॑थस्य । सत्ऽप॑तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asamātiṃ* ← *asamātim* ← *asamāti*
 - \[noun\], accusative, singular, masculine
@@ -70,7 +70,7 @@ genre D
 **असमातिं** राजानं **नितीशनं** शत्रूणां हन्तारम् । नितोशतिर्वधकर्मा। **त्वेषं** दीप्तम् । **निययिनं** **रथम्** इत्युपमाप्रधानो निर्देशः । रथवत् सर्वाभिमतप्राप्तिसाधनं **भजेरथस्य** एतन्नामकस्य राज्ञो वंशे जातम् । यद्वा । एतन्नामा कश्चिदस्य शत्रुः । तस्य निययिनम् । ‘हलदन्तात्' (पा. सू. ६. ३. ९) इति सप्तम्या अलुक् । **सत्पतिं** सतां पालकम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -81,29 +81,29 @@ genre D
 Descendant of Bhajeratha: vaṃśe jātam = born inthe race; or, name of a hostile prince, niyayinam, conqueror of
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Asamāti [/the incomparable], the lavishly overflowing, glittering,  downward coursing chariot,  
 master of settlements of Bhajeratha,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Asamati, spring of gifts, lord of the brave, a radiant car,  
      The conqueror of Bhajeratha
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dem verschwenderischen furchtgebietenden Asamati, dem einstürmenden Wagenhelden, dem rechtmäßigen Herrn von Bhajeratha;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Wagen auch, der eilend kommt, dem unvergleichlich spendenden, Um zu gewinnen seinen Herrn,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Асамати, щедро жертвующему,  
 Имеющему сверкающую колесницу, переезжающую (врагов),  

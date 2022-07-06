@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मृगो꣡ न꣡ भीमः꣡ कुचरो꣡ गिरिष्ठाः꣡  
 पराव꣡त आ꣡ जगन्था प꣡रस्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ श꣡त्रून् ताळ्हि वि꣡ मृ꣡धो नुदस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सृ॒कम् । स॒म्ऽशाय॑ । प॒विम् । इ॒न्द्र॒ । ति॒ग्मम् । वि । शत्रू॑न् । ता॒ळ्हि॒ । वि । मृधः॑ । नु॒द॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ popular
 **कुचरः** कुत्सितचरणः **गिरिष्ठाः** पर्वतनिवासी **मृगो** **न** सिंह इव हे इन्द्र त्वं **भीमः** भयंकरोsसि । स त्वं **परस्याः** **परावतः** अतिशयेन दूरात् द्युलोकात **आ** **जगन्थ** आगच्छ । गमेश्छान्दसे लिट कादिनियमप्राप्तस्येटः  ‘ उपदेशेऽत्वत: ' ( पा. सू. ७.२.६२ ) इति प्रतिषेधः ॥ आगत्य  च **सृकं** सरणशीलं **तिग्मं** तीक्ष्णं **पविं** वज्रं **संशाय** सम्यक् तीक्ष्णीकृत्य **शत्रून्** अस्मदीयान् वैरिणो हे **इन्द्र** तेन वज्रेण **वि** **ताळिह** विशेषेण ताडय । विनाशयेत्यर्थः ॥  ‘ तड आघाते' । अस्माल्लोटि ण्यन्ताद्रूपमेतत् ॥ तथा **मृधः** संग्रामोद्युक्तान् युयुत्सूनन्यानपि **वि** **नुदस्व** विशेषेण तिरस्कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,30 +135,30 @@ popular
 **Nirukta** 1.20:**kucaraḥ** = having a bad gait; cf. about **Viṣṇu** RV 1.154.2
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a fearsome wild beast, living in the mountains and roaming  
 wherever it wants, you have come here from the farther distance.  
 Having honed sharp your fang and your wheel-rim, Indra, carve apart  your rivals. Shove aside the scornful.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a dread wild beast roaming on the mountain thou hast approached us from the farthest distance.  
      Whetting thy bold and thy sharp blade, O Indra, crush thou the foe and scatter those who hate us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Gebirge hausend wie das furchtbare umherschweifende wilde Tier, bist du aus fernster Ferne gekommen. Deinen Spieß schärfend, deine spitze Klinge, o Indra, enthaupte die Feinde, treibe die Verächter auseinander!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist aus weiter Ferne hergekommen, ein grimmer Leu, der durch die Berge hinstürmt, Den Blitzstrahl wetze, deine scharfe Klinge, zerschlag die Feinde, Indra, und zerstreu sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Страшный, как зверь, бродящий (неизвестно) где, живущий в горах,  
 Ты пришел из самой дальней дали.  

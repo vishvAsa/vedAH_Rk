@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयं꣡ त इन्द्र गिर्वणो  
 रातिः꣡ क्षरति सुन्वतः꣡  
 मन्दानो꣡ अस्य꣡ बर्हि꣡षो वि꣡ राजसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 म॒न्दा॒नः । अ॒स्य । ब॒र्हिषः॑ । वि । रा॒ज॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -88,7 +88,7 @@ genre M;; line affected by realignment
 हे **गिर्वणः** गीर्भिः स्तुतिभिर्वननीय संभजनीय **इन्द्र** **ते** तुभ्यं त्वदर्थम् **इयं** पुरोवर्तिनी **सुन्वतः** सोमाभिषवं कुर्वतो यजमानस्य संबन्धिनी **रातिः** ऋत्विग्भिर्दीयमाना सोमाहुतिः **क्षरति** आहवनीयं प्रति गच्छति । त्वं च तया **मन्दानः** मन्दमानो मोदमानस्तृप्यन् **अस्य** **बर्हिषः** यज्ञस्य **वि** **राजसि** विशेषेणेशिषे । राजतिरैश्वर्यकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,24 +99,24 @@ genre M;; line affected by realignment
 Over the sacrifice: **barhiṣaḥ** = over the sacred grass; i.e. the rite at which it isstrewn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This gift here, o Indra who yearns for songs, streams for you from the  one who presses.  
 Becoming exhilarated, you rule over this ritual grass.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, Song -lover, here for thee the worshipper's libation flows.  
      Rejoicing in this sacred grass thou shinest forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Gabe des Pressenden rinnt für dich, du lobbegehrender Indra; der du dich berauschest, bist Herr über das Barhis.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот, о Индра, любящий хвалебные песни,  
 Течет для тебя дар у выжимающего (сому).  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विश्वदा꣡नीं सुम꣡नसः सियाम  
 प꣡श्येम नु꣡ सू꣡रियम् उच्च꣡रन्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवाँ꣡ ओ꣡हानो अ꣡वसा꣡गमिष्ठः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तथा॑ । क॒र॒त् । वसु॑ऽपतिः । वसू॑नाम् । दे॒वान् । ओहा॑नः । अव॑सा । आऽग॑मिष्ठः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvadānīṃ* ← *viśvadānīm*
 - \[adverb\]
@@ -123,20 +123,20 @@ genre M
 हे देवाः **विश्वदानीं** सर्वदा वयं **सुमनसः** **स्याम** शोभनमनस्का भवेम । नुशब्दः समुच्चये । **उञ्चरन्तम्** उद्यन्तं **सूर्यं** सर्वदा **पश्येम** च। **वसूनां** **वसुपतिः** उत्कृष्टधनाधिपतिरग्निः **देवान्** **अवसा** अस्मदीयेन हविषा **ओहानः** वहन् प्रापयन् **आगमिष्टः** आगन्तृतम एवंगुणविशिष्टः सन् **तथा** **करत्** । अस्मान् तथाविधानुक्तप्रकारान् करोतु ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we at all seasons be possessed of sound minds; may we ever behold the rising sun; such may the affluent lord of riches, (**Agni**), render us, ever most ready to come (at our invocation), charged with our oblation to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we always be of good mind; might we look now upon the sun as  it rises:  
 so shall he arrange it—he who is lauded over the gods as goods-lord of  goods, as the most welcome arrival because of his help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another pres. part. uccárantam ‘rising’.
 
@@ -147,23 +147,23 @@ Oldenberg seems to take this interpr. as tantamount to a moral lapse (“… sch
 Although this is syntactically possible, it is semantically unlikely: Indra, who by the evidence of the repeated and expanded phrase in 6a is clearly the subject, is most welcome to come to us; I doubt if we care whether the gods hope for his arrival or not. My own solution is somewhat dodgy: I take óhānaḥ as a pass. part. ‘being lauded as’ with the venerable formulaic phrase vásupatir vásūnām “goods-lord of goods” as the title given by the laud (so far so good), with devā́n a loosely relational acc., almost an acc. of extent: “(lauded) over/across the (other) gods.” (Geldner’s and Renou’s interpr. of vásupatir vásūnām and óhānaḥ vary, and I will not detail them here.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through all our days may we be healthy. minded, and look upon the Sun when he arises.  
      Grant this the Treasure-Lord of treasures, coming, observant, oftenest of Gods, with succour!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Immerdar wollen wir guten Mutes sein, wir möchten noch weiter die Sonne aufgehen sehen. Der Herr der Schätze möge es so fügen, der unter den Göttern sich rühmen darf, der am ehesten mit Hilfe Kommende zu sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir seien wohlgemuth zu allen Zeiten, wir mögen sehn die Sonne, wenn sie aufgeht; Das wirke uns der Schätzeherr der Schätze, die Götter fahrend, schnell mit Hülfe kommend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будем мы всегда хорошо настроены!  
 Да увидим мы еще восходящее солнце!  

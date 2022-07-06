@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वाम꣡स्य हि꣡ प्रचेतस  
 ई꣡शानाशो रिशादसः  
 ने꣡म् आदित्या अघ꣡स्य य꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 न । ई॒म् । आ॒दि॒त्याः॒ । अ॒घस्य॑ । यत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāmasya* ← *vāma*
 - \[noun\], genitive, singular, neuter
@@ -78,7 +78,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **प्रचेतसः** प्रकृष्टज्ञानाः शोभनस्तुतयो वा हे **रिशादसः** रिशतां हिंसतां शत्रूणामसितारः क्षेप्तारो देवा यूयं **वामस्य** वननीयस्य धनस्य **ईशानासः** ईशानाः। हिरवधारणे । ईशाना एव स्वामिन एव भवथ । तस्माद्युष्मान् याचामह इत्यर्थः । ईशानाः । ईश ऐश्वर्यं । अनुदात्तेत् ।  ‘ तास्यनुदात्तेत् ' इति स्वरेणाद्युदात्तता भवति । न संबुद्धिः । ततो हे **आदित्याः** अदितेः पुत्रा देवाः **ईम्** एनं याचमानं मां तद्धनं **न** प्राप्नोतु **यत्** धनम् **अघस्य** पापस्य संबन्धि विद्यते ॥ ॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,29 +89,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Be not mine: na prāpnotu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you forethoughtful ones, who care for the stranger, are holding sway  over a treasure.  
 What belongs to evil (shall) not (reach) it, o Ādityas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Sovrans of dear wealth are ye, Adityas, not of sinner's wealth,  
      Ye sapient Gods who slay the foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr Vorsorgende, Herrenstolze verfüget über das Glück. Nicht soll uns das treffen, was dem Bösen gebührt, o Aditya´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn über Schatz gebietet ihr, o weise, Feindverzehrer ihr, Aditja's, den der Feind nicht raubt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

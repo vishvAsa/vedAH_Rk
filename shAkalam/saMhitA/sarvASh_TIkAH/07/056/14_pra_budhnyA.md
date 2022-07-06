@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ बुध्नि꣡या व ईरते म꣡हांसि  
 प्र꣡ ना꣡मानि प्रयज्यवस् तिरध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गृहमेधी꣡यम् मरुतो जुषध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒ह॒स्रिय॑म् । दम्य॑म् । भा॒गम् । ए॒तम् । गृ॒ह॒ऽमे॒धीय॑म् । म॒रु॒तः॒ । जु॒ष॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -106,7 +106,7 @@ genre M
 हे मरुतः **वः** युष्मदीयानि **बुध्न्या** बुध्न्यान्यन्तरिक्षे भवानि **महांसि** तेजांसि **प्र** **ईरते** प्रकर्षेण गच्छन्ति। किंच हे **प्रयज्यवः** प्रकर्षेण यष्टव्या मरुतः यूयं **नामानि**। पांसून्  नमयन्तीति नामान्युदकानि । **प्र** **तिरध्वं** वर्धयत । हे **मरुतः** यूयं सहस्रियं सहस्रसंख्याकं **दम्यं** दमे गृहे भवं **गृहमेधीयं** गृहमेधिगुणेभ्यो युष्मभ्यं देयम् **एतम्** एतादृशं **भागं** **जुषध्वं** सेवध्वम्। एकं भागं सहस्रियमिति कथमाह । तथा च श्रूयते – ' यावदेका देवता कामयते यावदेका तावदाहुतिः प्रथते न हि तदस्ति यत्तावदेव स्याद्यावज्जुहोति ' (तै. ब्रा. ३. २. ६. ४) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,13 +117,13 @@ genre M
 Waters that beat down the dust: nāmāni tiradhvam pāṃsūn namayanti nāmāni udakāni:nāmāni = waters, for they bend down the dust; multipled a thousand- fold: How can one portion become athousand? The quantity of an offering is computed, not by its actual number, but by that assigned to it by thedivinity to whom it is offered, yāvad ekā **devatā** kāmayate yāvadeka tāvad **āhutiḥ** prathate
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your deep-grounded great powers rise forth. Set forth your names, you  who are worshiped at the forefront of the sacrifice.  
 Enjoy this thousandfold domestic portion of the House-offering, o  Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner suggests (n. 14a) that the budhnyā̀… máhāṃsi “deep-grounded powers” are the “verborgenen Herrlichkeiten” (niṇyā́) concealed in Pṛśni’s udder in vs. 4. Even leaving aside the fact that, as was discussed above, ū́dhaḥ in vs. 4 should not be a loc., this interpr. seems both unnec. and too specific, esp. since 10 vss.
 
@@ -132,23 +132,23 @@ intervene. budhnyà- here may refer to the powers that the Maruts, gods associat
 The preverb prá is showcased in the first hemistich: prá … īrate …, prá … prayajyavas tiradhvam. I am not certain what prá √tṝ nā́māni in b is meant to convey, but I interpr. it in the context of the importance of the Maruts’ individual identities (vss. 1-4) and of calling their names (10a) earlier in the hymn. Perhaps the Maruts need to “put their names forward” and make themselves individually known before they can enjoy the Gṛhamedha offering. 84 As noted in the published introduction, the ritual references in pādas b-d are quite specific, alluding to the Maruts’ role in the Sākamedha, the last of the Cāturmāsyāni (“Four-monthly”) rituals. See the published introduction. for further details.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wide in the depth of air spread forth your glories, far, most adorable, ye bear your titles.  
      Maruts, accept this thousandfold allotment of household sacrifice and household treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure in der Tiefe verborgenen Standeszeichen kommen zum Vorschein; ihr Opfersamen, erweitert eure Namen! Lasset euch diesen tausendfältigen häuslichen Anteil an dem Hausopfer gefallen, ihr Marut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor dringet aus der Tiefe euer Glänzen, macht herrlich eur Erscheinen, o ihr Stürmer; Geniesset diese tausendfache Gabe, die, Maruts, euch des Hauses Opfer darbot.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Проявляются ваши глубинные мощности.  
 Простирайте ваши имена, о почитаемые в начале (обряда)!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ रयिं꣡ न꣡ सुअ꣡र्थं द꣡मूनसम्  
 भ꣡गं द꣡क्षं न꣡ पपृचासि धर्णसि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देवा꣡नां शं꣡सम् ऋत꣡ आ꣡ च सुक्र꣡तुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 र॒श्मीन्ऽइ॑व । यः । यम॑ति । जन्म॑नी॒ इति॑ । उ॒भे इति॑ । दे॒वाना॑म् । शंस॑म् । ऋ॒ते । आ । च॒ । सु॒ऽक्रतुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], dative, plural
@@ -144,7 +144,7 @@ genre M
 हे अग्ने त्वम् **अस्मे** अस्मासु **स्वर्थं** सुष्ठु अरणीयं **दमूनसं** दमनीयम् उपार्ज्यम् ॥ दमेरूनसिः' (उ. सू. ४. २३५ ) इति ऊनसिप्रत्ययः ॥ **रयिं** **न** **पपृचासि** धनं यथा संपृणक्षि । तथा **भगं** सर्वैर्भजनीयं **दक्षं** **न** उत्साहवन्तं प्रबुद्धं वा **धर्णसिं** विद्यादिधारणकुशलं पुत्रं यथा पप्रचासि संपृणक्षि उभयमपि ददासीत्यर्थः । **पृची** संपर्के'। लेटि आडागमः। ‘बहुलं छन्दसि ' इति विकरणस्य श्लुः ॥ इदानीं परोक्षेणाह । **यः** अग्निः **रश्मीँरिव** स्वकीयान् रश्मीन् यथा **यमति** नियमयति विस्तारयति तद्वत् सः **उभे** **जन्मनी** जननाधारभूतौ उभौ लोकौ इहलोकपरलोकौ यमति नियच्छति । तथा **सुक्रतुः** शोभनकर्मा अयम् **ऋते** अस्मदीययज्ञे **देवानां** देवसंबन्धिनं **शंसं** स्तवं **च** **आ** यमति आयच्छति सर्वदा ददाति । यद्वा । पूर्वार्धे पपृचासीत्यपि परोक्षत्वाय प्रथमपुरुषतया योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -159,35 +159,35 @@ Riches: rayim na svartham bhagam dakṣam na dharnasim: putram, a son is added; 
 Dharṇasim = vidyāder **dharaṇa** kuśalam, skilful in containing knowledge
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For us you will engorge good fortune [/Bhaga] like household wealth  meant for a good purpose, like enduring skill,  
 ([good fortune/] Bhaga) who will hold fast both races [=gods and men],  like reins, (and also) the laud of gods, and (who himself), of good  
 resolve, (is held fast) in truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vouchsafe us riches turned to worthy ends, good luck abiding in the house, and strong capacity,  
      Wealth that directs both worlds as they were guiding-reins, and, very Wise, the Gods' assent in sacrifice.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Make good fortune 1 swell for us like well-employed wealth belonging to the house, and like firm ability 2—(fortune) which can hold both races 3 like reins: and being full-of good-will in (the sphere of) Rita, (fill our) praise of the gods (with rich reward).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Uns gib einen Hausgebieter, der Nutzen stiftet wie Reichtum! Mach Bhaga unser Glück voll, daß es dauerhaft sei wie Daksa, die Tatkraft - einen Hausgebieter, der die beiden Geschlechter wie die Zügel lenken soll, der das Lob der Götter lenkt und im rechten Werke wohlberaten ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns schenke Schatz des Hauses, der uns Nutzen bringt, und schenk uns Glück und Tüchtigkeit, die dauernd bleibt, Der Götter du und Menschen wie zwei Zügel lenkst, und wohlgesinnt der Götter Preis beim heil'gen Werk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да захочешь ты щедро одарить нас как богатством,  
 Прочным домашним счастьем, ведущим к благой цели, как силой действия,  

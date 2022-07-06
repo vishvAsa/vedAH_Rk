@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब꣡ळ् इत्था꣡ प꣡र्वतानां᳐  
 खिद्र꣡म् बिभर्षि पृथिवि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मह्ना꣡ जिनो꣡षि महिनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । या । भूमि॑म् । प्र॒व॒त्व॒ति॒ । म॒ह्ना । जि॒नोषि॑ । म॒हि॒नि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *baﾱ* ← *baṭ*
 - \[adverb\]
@@ -95,7 +95,7 @@ genre M
 द्विरूपा पृथिवी चैषा प्रत्यक्षा देवतापि च । मध्यस्थाना देवतोक्ता सात्र संबोध्य वर्ण्यते ॥ हे **पृथिवि** प्रथनवति मध्यस्थानदेवते । त्वम् **इत्था** इत्थम् अमुत्र अन्तरिक्षे वा **बट्** सत्यं **पर्वतानां** मेघानां वा **खिद्रं** खेदनं भेदनं **बिभर्षि** धारयसि । हे **महिनि** महति हे **प्रवत्वति** प्रकर्षवति प्रवणोदकवति वा **या** त्वं **भूमिं** प्रत्यक्षां पृथिवीं **मह्ना** महत्त्वेन महतोदकेन वा **प्र** **जिनोषि** प्रकर्षेण प्रीणयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,13 +106,13 @@ genre M
 Pṛthivi: antarikṣam or firmament; parvatānām khidram bibharṣi = you sustain the fracture, or opening of the clouds; mahnā jinoṣi bhūmim = you delight the earth with great or abundant rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yes indeed! (It is) just so: you bear the pressure of the mountains,  o Earth,  
 as you bring the ground to life with your greatness, o gently sloping  great one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The exclamation with which the hymn opens, báḍ, has a very un-Indo-Aryan shape, with a plain b and an unmotivated retroflex ḍ. This ḍ becomes ḷ before words beginning with a vowel, showing the standard Ṛgvedic intervocalic change -- which, interestingly, operates across word boundary here and in the 7 other passages in which báḍ is followed by a vowel; in VIII.101.11 it becomes ṇ before a nasal, in VIII.101.12 a ṭ before s. In 4 of its occurrences, incl. this one, it is immediately followed by itthā́; the combined sense of the two particles escapes me. The nonSanskritic phonology of báḍ suggests that there is a colloquial flavor to the word, but it is hard to capture exactly what that is -- esp. as the rest of the vs. doesn’t show markedly low register features.
 
@@ -121,28 +121,28 @@ Note the phonetic figures párvatānām# … pṛthivi# (ab), #prá … pravatva
 This first verse presents an unsurprising picture of the earth, weighed down by mountains whose slopes define her and providing support for the life that flourishes upon her. This vs. serves as scene-setter and contrast to vs. 2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU, of a truth,O Prthivi, bearest the tool that rends the hills:  
      Thou rich in torrents, who with might quickenest earth, O Mighty One.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Thou bearest truly, Pṛthivī, The burden of the mountains' weight; With might, O thou of many streams, Thou quickenest, potent one, the soil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrlich, so ist´s: Du trägst den Druck der Berge, o Erde, die du den Boden erquickest, du Flußreiche, durch deine Macht, du Mächtige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja du, o Erde, trägst fürwahr der hohen Berge schwere Wucht; Die holde du, an Höhen reich, das Land erquickst mit deiner Huld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В самом деле так: ты несешь  
 Тяжесть гор, о Земля,  

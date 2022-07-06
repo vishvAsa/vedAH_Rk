@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग꣡मद् वा꣡जं वाज꣡यन्न् इन्द्र म꣡र्तियो  
 य꣡स्य त्व꣡म् अविता꣡ भु꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अस्मा꣡कं शूर नॄणा᳐꣡म्+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्माक॑म् । बो॒धि॒ । अ॒वि॒ता । रथा॑नाम् । अ॒स्माक॑म् । शू॒र॒ । नृ॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gamad* ← *gamat* ← *gam*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -116,7 +116,7 @@ genre M
 हे **इन्द्र** **त्वं** **यस्य** मर्त्यस्य **अविता** रक्षिता **भुवः** भवेः सः **मर्त्यः** **वाजयन्** स्तोत्रेण त्वां बलिनं कुर्वन् **वाजम्** अन्नं **गमत्** गच्छेत् । अपि च हे **शूर** **अस्माकं** वासिष्ठानां **रथानाम्** । **अविता** रक्षिता **बोधि** भव ॥ भवतेर्लोटि रूपम् । भकारस्य बकारश्छान्दसः ॥ **अस्माकं** **नृणां** पुत्रादीनां चाविता भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,34 +127,34 @@ genre M
 Be the preserver: **bodhi** avitā: bodhi,second person n singular imperative of bu (for **bhava**), b being substituted for bh
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He will come to the prize when he strives for the prize—the mortal  whose helper you will be, Indra.  
 Become a helper to our chariots, o champion, to our men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although ‘seeking the prize’ is ordinarily accented as a denominative (vājayánt-), as opposed to ‘incite’ (vājáya-) with causative accent, in this context, the denominative sense seems clear. See comm. on 14d below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, that man when fighting shall obtain the spoil, whose strong defender thou wilt be.  
      Be thou the gracious helper, Hero I of our cars, be thou the helper of our men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Siegergewinn gelangt der danach strebende Sterbliche, o Indra, dessen Helfer du wirst. Sei der Helfer unserer Wagen, unserer Mannen, du Held!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Labung kommt der Mann, der dich, o Indra, labt, und dessen Förderer du bist; Sei du, o Held, ein Fördrer unsrer Wagenschar und unsrer Männer Förderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Идет к награде (тот) борющийся за награду смертный, о Индра,  
 Кому ты будешь помощником.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ रन्धयत् सदि꣡वः सा꣡रथये  
 शु꣡ष्णम् अशु꣡षं कु꣡यवं कु꣡त्साय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रः पु꣡रो वि꣡ ऐरच् छ꣡म्बरस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दिवः॑ऽदासाय । न॒व॒तिम् । च॒ । नव॑ । इन्द्रः॑ । पुरः॑ । वि । ऐ॒र॒त् । शम्ब॑रस्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 सदिवः दीप्तियुक्तः सइन्द्रः सारथये आत्मनःसारथ्यङ्कुर्वतेकुत्सायराजर्षयेशुष्णंशोषयतिसर्वमिति शुष्णः कश्चिदसुरः तमशुषन्नकेनापिशोषणीयङ्कुयवंएतन्नामानमसुरंरन्धयत् रध्यतिर्वशगमने वशमन यत् यद्वा रधहिंसासंराध्योरित्यस्यण्यन्तस्यरधिजभोरचीतिनुम् अवधीत् किञ्च सइन्द्रः दिवोदासाय एतन्नामकायराज्ञेशम्बरस्यासुरस्यनवनवतिम्पुरः व्यैरत् विदारितवान् ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ genre M
 Aśuṣa, he who is not to be dried up; perhaps, an epithet of Śuṣṇa, an **asura**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In a single day, he subdued the voracious, barley-destroying Śuṣṇa for the  charioteer Kutsa,  
 and Indra razed the ninety and nine fortifications of Śambara for Divodāsa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Once to the driver of his chariot, Kutsa, he gave up greedy Surya, plague of harvest;  
      And Indra, for the sake of Divodasa demolished Sambara's nine-and-ninety castles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er gab noch am gleichen Tage seinem Wagenlenker Kutsa den gefräßigen Susna, den Welscher, in die Hand. Für Divodasa zerstörte Indra die neunundneunzig Burgen des Sambara.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er übergab dem Wagenlenker Kutsa an einem Tage den gefräss'gen Çuschna, den Erntefeind, nahm neunundneunzig Burgen des Çambara für Divodasa, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В тот же день он отдал во власть (своему) колесничему  
 Кутсе прожорливого Шушну, несущего неурожай.  

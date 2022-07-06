@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मन्द्र꣡स्य कवे꣡र् दिविय꣡स्य व꣡ह्नेर्  
 वि꣡प्रमन्मनो वचन꣡स्य म꣡ध्वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡षो युवस्व गृणते꣡ गो꣡अग्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अपाः॑ । नः॒ । तस्य॑ । स॒च॒नस्य॑ । दे॒व॒ । इषः॑ । यु॒व॒स्व॒ । गृ॒ण॒ते । गोऽअ॑ग्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mandrasya* ← *mandra*
 - \[noun\], genitive, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **मन्द्रस्य** मोदनस्य मदकरस्य वा **कवेः** विक्रान्तस्य **दिव्यस्य** दिवि भवस्य **वह्नेः** वोढुः **विप्रमन्मनः** । विप्रा मेधाविनो मन्मानः स्तोतारो यस्य स तथोक्तः । तस्य **वचनस्य** वचनीयस्य स्तुत्यस्य **तस्य** सर्वत्र प्रसिद्धस्थ **सचनस्य** सेव्यस्य एवंभूतस्य मध्वः मधुनः सोमस्य ॥ ‘क्रियाग्रहण कर्तव्यम्' इति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी ॥ एवंभूतं **नः** अस्मदीयं सोमं हे इन्द्र त्वम् **अपाः** पिब । अपि च हे **देव** द्योतमानेन्द्र **गृणते** स्तुवते । तृतीयार्थे चतुर्थी । स्तुवता मया **गोअग्राः** । गावोऽग्रे प्रमुखे यासां तादृशाः **इषः** अन्नानि **युवस्व** संयोजय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,33 +135,33 @@ Sweet, exhilarating...: Several epithets are unusual and do not seem to be appli
 **Vahni** = **voḍhā**, bearing fruit; vipramanman, of which the sages are the praisers, stotāraḥ; **vacana**, laudable, stutya; sacana, to be served or honoured, **sevya**; the chiefest of which is cattle: iṣo yuvasva gṛṇate go **agrāḥ** = **annam** sanyojaya, combine or supply food to the praiser; yāsām iṣam gāvo agre, of which viands, cows are in the firs plural ce; metonymically, cows are intended to denote their produce, milk and butter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of the gladdening poet, of the heavenly draft-horse, of the one of  inspired thought, of the speaking honey, of this companion of ours have you drunk, o god. Bind refreshments  tipped with cows to the singer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the NP in the gen. that occupies the first hemistich (and part of pāda c) remains unresolved until the governing verb, ápāḥ ‘you have drunk’, which opens the second hemistich. The referent of this phrase -- namely soma -- also remains unresolved until the very end of pāda b, with the tip-off mádhvaḥ ‘of the honey’. (Though initial mandrásya ‘gladdening’ might appear to point to soma, in fact it’s far more often used of Agni.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 OF this our charming, our celestial Soma, eloquent, wise, Priest, with inspired devotion,  
      Of this thy close attendant, hast thou drunken. God, send the singer food with milk to grace it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dem ergötzenden Soma, dem himmlischen Seher und Wortführer, der die Gebete beredt macht, von dem redseligen süßen, von diesem treuen Gefährten hast du Gott bei uns getrunken. Gib dem Sänger Speisegenüsse mit Rindern an der Spitze zu eigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von diesem muntern, weisen Himmelspriester, dem Methtrank, der gebetbegeistert rauschet, Der hold dir folgt, hast du, o Gott, getrunken; dem Sänger schenke Milch und andre Tränke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Веселящего (сока), провидца, небесного возницы,  
 Делающего молитвы красноречивыми, сладости речи –  

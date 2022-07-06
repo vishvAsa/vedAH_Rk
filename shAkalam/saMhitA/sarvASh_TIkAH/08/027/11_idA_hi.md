@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदा꣡ हि꣡ व उ꣡पस्तुतिम्  
 इदा꣡ वाम꣡स्य भक्त꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡सृक्षि अ꣡नियाम् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उप॑ । वः॒ । वि॒श्व॒ऽवे॒द॒सः॒ । न॒म॒स्युः । आ । असृ॑क्षि । अन्या॑म्ऽइव ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idā*
 - \[adverb\]
@@ -107,41 +107,41 @@ genre M
 हिरवधारणे । इदानीमेव उप **आ** असृक्षि उपासृजामि करोमीत्यर्थः । किमर्थम् । **वः** युष्मत्संबन्धिनः **वामस्य** वननीयस्य **इदा** इदानीमेव **भक्तये** संभजनाय । लाभायेत्यर्थः । असृक्षीति सृजेर्लुङि रूपम् । पादादित्वादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Deities, possessed of all wealth, I, desirous of offering worship, address to you verily unprecedentedpraise, for the sake of obtaining desired affluence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because just now (I have dispatched) a praise invocation to you, just  now for the distribution of desirable goods—  
 to you who afford all possessions have I, doing homage, dispatched (it)  like a lead(-cow).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On áni yām see comm. ad VIII.1.10.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For now have I sent forth to you, that I may win a fair reward,  
      Lords of all wealth, with homage, this my song of praise. like a milch-cow that faileth not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn jetzt habe ich an euch ein Preislied, jetzt um Anteil an dem Gut zu erlangen, ehrerbietig losgelassen, ihr Allwissende, wie eine zweite Kuh zum Kalb.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn hier hab' ich ergossen euch das Lob, um Schönes zu empfahn, Vor euch mich beugend, o die ihr allwissend seid, wie einen Strom, der nie versiegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

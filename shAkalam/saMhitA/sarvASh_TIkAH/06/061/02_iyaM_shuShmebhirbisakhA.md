@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयं꣡ शु꣡ष्मेभिर् बिसखा꣡ इवारुजत्  
 सा꣡नु गिरीणां꣡ तविषे꣡भिर् ऊर्मि꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡रस्वतीम् आ꣡ विवासेम धीति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पा॒रा॒व॒त॒ऽघ्नीम् । अव॑से । सु॒वृ॒क्तिऽभिः॑ । सर॑स्वतीम् । आ । वि॒वा॒से॒म॒ । धी॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -108,7 +108,7 @@ genre M
 सरस्वती देवतारूपेण नदीरूपेण च वर्तते । देवतारूपा स्तुता । अधुनानया नदीरूपां सरस्वतीं स्तौति । **इयं** नदीरूपा सरस्वती शुष्मैः शोषकैरात्मीयैर्बलैः **तविषेभिः** महद्भिः **ऊर्मिभिः** तरङ्गैः।  **गिरीणां** पर्वतानां तीरसंबद्धानां **सानु** सानूनि **अरुजत्** भनक्ति । **बिसखाइव** । बिसं खनतीति बिसखाः । स यथा बिसार्थं पङ्कं रुजति तद्वत् । तां **सरस्वतीं** पारावतघ्नीं परावति दूरदेशे विद्यमानस्यापि वृक्षादेर्हन्त्रीं **सुवृक्तिभिः** स्तुतिभिः **धीतिभिः** कर्मभिश्च **अवसे** रक्षणार्थम् **आ** **विवासेम** परिचरेम । यद्वा । पारावतघ्नीं पारावारे परार्वाची तीरे । तयोर्घातिनीम् । उक्तं च--- ‘पारावतघ्नीं पारावारघातिनीम् ' ( निरु. २. २४) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ genre M
 With impetuous and mighty waters: the firs ṛca addresses Sarasvatī as a goddess; in this ṛca, she is praised as a river; in this entire **sūkta**, this alternative attribution is apparent; like a digger for the lotus-fibres: **bisa**-khā iva bisam khanati, who digs the bisa, the long fibres of the stem of the lotus, in delving for which he breaks down the banks of the pond
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She, like a root-grubbing (boar) with her snortings, broke the back of  the mountains with her powerful waves.  
 Sarasvatī, who smashes the foreigners, we would entice here for help  with well-plaited (hymns), with visionary thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Once again, the attributes and actions ascribed to Sarasvatī are decidedly unfeminine, starting with the almost comically off-kilter comparison of her to a rootgrubbing boar. The identification of the bisakhā́- as a boar is owing to Hoffmann (MSS 8: 5 = Aufs. 387). The point of comparison between the river and the boar must be their noise: śúṣmebhiḥ ‘with her snortings’, though the root-grubbing is presumably part of it, as the river in spate noisily pulls off pieces of the banks.
 
@@ -142,23 +142,23 @@ The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She with her might, like one who digs for lotus-stems, hath burst with her strong waves the ridges of the hills.  
      Let us invite with songs and holy hymns for help Sarasvati who slayeth the Paravatas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie brach mit Ungestüm gleich einem Wurzelgräber den Rücken der Berge mit den gewaltigen Wogen auf. Sarasvati, die die Fremden abwehrt, möchten wir mit Lobliedern, mit Gebeten zur Gnade erbitten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit ihrer Kraft zerbrach der Berge Gipfel sie dem Wurzelgräber gleich mit ihrer Wellen Macht; Sarasvati gewinnen durch Gesänge wir zur Huld durch Lieder, sie, die ferne Feinde trifft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она, словно кабан (своими) яростными атаками, проломила  
 Спину гор мощными волнами.  

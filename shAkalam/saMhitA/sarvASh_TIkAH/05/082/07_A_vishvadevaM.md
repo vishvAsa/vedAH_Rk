@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ विश्व꣡देवं स꣡त्पतिं  
 सूक्तइ꣡र् अद्या꣡ वृणीमहे  
 सत्य꣡सवं सविता꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 स॒त्यऽस॑वम् । स॒वि॒तार॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -86,7 +86,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **विश्वदेवम्** । विश्वे देवा यस्य वशे भवन्ति तं तादृशम् । स हि सर्वात्मा, इन्द्रं मित्रं वरुणमग्निमाहुः' (ऋ. सं. १. १६४. ४६ ) इत्यादिश्रुतेः इतरेषां तद्विभूतित्वात् । **सत्पतिं** सतामनुष्ठातॄणां पालकं **सत्यसवं** सत्यानुज्ञं **सवितारं** देवम् **अद्य** अस्मिन् यागदिने **सूक्तैः** **आ** **वृणीमहे** संभजामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,29 +97,29 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 All the gods: viśvadevam; tam hi sarvāmatvad indram, mitram, varuṇam, agnim āhuḥ, they have verily calle dhim **Indra**..., from his identity with all.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With our hymns we choose today the one with all the gods in his charge,  the lord of settlements,  
 whose impulsion comes true: Savitar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We with our hymns this day elect the general God, Lord of the good,  
      Savitar whose decrees are true.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den wahren Herrn über alle Götter erwählen wir heute mit wohlgesetzten Worten, den Savitri, dessen Bestimmungen in Erfüllung gehen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir locken den allgöttlichen Gebieter heut durch Lieder her, Den Savitar, der Gutes schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принадлежащего всем богам истинного господина  
 Сегодня мы хотим избрать для себя с помощью гимнов -  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्न इ꣡न्द्र व꣡रुण मि꣡त्र दे꣡वाः  
 श꣡र्धः प्र꣡ यन्त मा꣡रुतोत꣡ विष्णो  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पूषा꣡ भ꣡गः स꣡रस्वती जुषन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒भा । नास॑त्या । रु॒द्रः । अध॑ । ग्नाः । पू॒षा । भगः॑ । सर॑स्वती । जु॒ष॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -129,20 +129,20 @@ genre M
 हे **अग्ने** **इन्द्र** **वरुण** **मित्र** हे **देवाः** यूयं **शर्धः** बलमस्माकं **प्र** **यन्तं** प्रापयत ॥ अत्र सर्वत्र पूर्वस्याविद्यमानत्वेनोत्तरस्योत्तरस्य पादादित्वादनिघातः । प्रथमस्य तु स्वत एव पादादित्वम् ॥ **उत** अपि च हे **मारुत** मारुतानि मरुतां बलानि हे **विष्णो** यूयं शर्धः प्र यन्त । विष्णो इत्यस्य उत् इत्यनेन व्यवधानान्निघातः ॥ किंच **उभा** उभौ **नासत्या** सत्यभूतौ **रुद्रः** **अध** अथ **ग्नाः** एतेषां देवानां स्त्रियश्च **पूषा** **भगः** **सरस्वती** च **जुषन्त** सेवन्तामस्मदीयं यज्ञं स्तुतिं वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, **Indra**, **Varuṇa**, **Mitra**, gods, confer (upon us) strength; or, company of the **Maruts**, or **Viṣṇu**, (bestow it); and may both the **Nāsatyas**, **Rudra**, the wives of the gods, **Pūṣan**, **Bhaga**, **Sarasvatī**, be plural ased (by our adoration).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, Indra, Varuṇa, Mitra, (All?) Gods, o Marutian troop and  Viṣṇu—provide!  
 Both of the Aśvins, Rudra, and the Wives (of the Gods), Pūṣan, Bhaga,  Sarasvatī shall enjoy themselves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Among this group of mainly male divinities we find the Wives (gnā́ḥ, a word only used for the Wives of the Gods in the RV) and Sarasvatī in the 2nd hemistich.
 
@@ -151,23 +151,23 @@ The first pāda consists only of vocatives, each accented since there is no inhe
 Notice the coincidence of verbal endings for two different person / number / voice combinations: yanta 2nd pl. act. impv. √yam; juṣanta 3rd pl. med. injunc. √juṣ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, Indra, Varuna, and Mitra, give, O ye Gods, and Marut host, and Visnu.  
      May both Nasatyas, Rudra, heavenly Matrons, Pusan, Sarasvati, Bhaga, accept us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, Indra, Varuna, Mitra, ihr Götter, du marutisches Heer und Vishnu, gewähret uns Zuflucht! Beide Nasatya´s, Rudra und die Götterfrauen, Pusan, Bhaga, Sarasvat? sollen Wohlgefallen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni, Indra, Varuna, Mitra, Götter, o Marutschar und Vischnu, schenket Gut uns; die treuen Ritter, Rudra und die Frauen, Puschan, Bhaga, Sarasvati sein hold uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, Индра, Варуна, Митра, о боги,  
 Толпа Марутов, а также Вишну, даруйте (нам защиту)!  

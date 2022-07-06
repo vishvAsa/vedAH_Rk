@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कनि꣡येव तनु꣡वा शा꣡शदानाँ  
 ए꣡षि देवि देव꣡म् इ꣡यक्षमाणम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आवि꣡र् व꣡क्षांसि कृणुषे विभाती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒म्ऽस्मय॑माना । यु॒व॒तिः । पु॒रस्ता॑त् । आ॒विः । वक्षां॑सि । कृ॒णु॒षे॒ । वि॒ऽभा॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kanyeva* ← *kanyā*
 - \[noun\], nominative, singular, feminine
@@ -112,37 +112,37 @@ genre M
 **तन्वा** शरीरेण **शाशदाना** शाशाद्यमाना स्पष्टतां प्राप्नुवती । ‘ शाशदानः शाशाद्यमानः ' (निरु. ६. १६ ) इति यास्कः । **कन्येव** कमनीया कन्यकेव। ' कन्या कमनीया भवति क्वेयं नेतव्येति वा ' ( निरु. ४, १५) इति यास्कः । सा यथा जनान्तिके विवसना संचरति तथा हे उषस्त्वं कन्या कमनीया अप्रगल्भा सती तन्वा शरीरेण शाशदाना स्पष्टतां गच्छन्ती दृश्यसे । पश्चात् प्रगल्भा सती हे **देवि** देवनशीले **इयक्षमाणं** यष्टुमिच्छन्तम् अभिमतं दातुमिच्छन्तं वा **देवं** द्योतनस्वभावं सूर्यरूपं प्रियम् **एषि** गच्छसि । ततः पश्चात् **युवतिः** यौवनोपेता सती पुरस्तात् पत्युः सूर्यस्य पुरतः **संस्मयमाना** सम् ईषत् हसन्ती हास्यं कुर्वती विभाती अत्यन्तं भासमाना **वक्षांसि** वक्षसोपलक्षितानवयवान् **आविः** **कृणुषे** प्रकटीकरोषि । यद्वा । युवतिरिति लुप्तोपमा । यथा लोके प्रगल्भा योषित् पुरस्तात् प्रियतमस्य पुरतः संस्मयमाना दन्तप्रदर्शनाय ईषद्धसनं कुर्वती वक्षांसि वक्षसोपलक्षितानि गोप्यानि बाहुमूलस्तनादीनि आविष्करोति तथा त्वमपीत्यर्थः । यद्वा । पुरस्तात् पूर्वस्यां दिशि संस्मयमाना स्मितोपमप्रकाशं कुर्वती युवतिः सर्वेषु भावेषु मिश्रणशीला वक्षांसि । वक्ष इति रूपनाम । दन्तस्थानीयानि नीलपीतादीनि रूपाण्याविष्करोषि ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Goddess, manifest in person n like a maiden, you go to the resplendent and munificent (sun), and, like a youthful bride (beforeher husband), you uncover, smiling, yor bosom in his presence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a girl exulting in her body, you go, o goddess, to the god who seeks  to attain you [=Sun].  
 Youthful, full of smiles, radiant, you reveal your breast in the east  
 [/before (him)].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In pride of beauty like a maid thou goest, O Goddess, to the God who longs to win thee,  
      And smiling youthful, as thou shinest brightly, before him thou discoverest thy bosom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie eine Maid, die Stolz auf ihren Körper, gehst du, Göttin, zu dem dich begehrenden Gott. Lächelnd enthüllst du, die junge Frau, vor ihm die Brüste, wenn du im Osten erstrahlst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie eine Braut am Leibe prangend gehst du zum Gott, o Göttin, der nach dir sich sehnet, Vor ihm enthüllst du lächelnd deine Brüste, die du erstrahlst in frischer Jugendfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты идешь, словно девица, красуясь (своим) телом,  
 О богиня, к богу, жаждущему (тебя).  

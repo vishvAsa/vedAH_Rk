@@ -8,7 +8,7 @@ title = "+100"
 ' स यो वृषा ' इति एकोनविंशत्यृचं सप्तमं सूक्तम् । अत्रानुक्रम्यते-' स यो वृषैकोना वार्षागिरा ऋज्राश्वाम्बरीषसहदेवभयमानसुराधसः ' इति । वृषागिरो महाराजस्य पुत्रभूताः ऋज्राश्वादयः पञ्च राजर्षयः सह इदं सूक्तं ददृशुः । अतस्तेऽस्य सूक्तस्य ऋषयः । उक्तं ह्यार्षानुक्रमण्याम्- सूक्तं स यो वृषेत्येतत् पञ्च वार्षागिरा विदुः । नियुक्ता  नामधेयैः स्वैरपि चैतत्त्यदित्यृचि ' इति । अनादेशपरिभाषया त्रिष्टुप् । इन्द्रो देवता । दशरात्रस्य षष्ठेऽहनि मरुत्वतीये इदं सूक्तम् । तथा च सूत्रितं-' यं त्वं रथमिन्द स यो वृषेन्द्र मरुत्व इति तिस्र इति मरुत्वतीयम् ' ( आश्व. श्रौ. ८. १) हृति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 100  
 Indra  
@@ -19,7 +19,7 @@ The dānastuti finale begins (vs. 16) with the praise of the gift, a fine mare, 
 Verbally the hymn is structured by the frequent hemistich-initial occurrences  of the pronoun sá “he,” reinforced by plays on this syllable: for instance, verse 1c  satīnásatvā, 18cd sánat. There are also a number of hapaxes, whose translations are  provisional (see vss. 8, 12, 16).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

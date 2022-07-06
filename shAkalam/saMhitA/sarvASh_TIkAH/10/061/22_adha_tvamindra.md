@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध तुव꣡म् इन्दर+ विद्धि꣡ अस्मा꣡न्  
 महो꣡ राये꣡ नृपते व꣡ज्रबाहुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अनेह꣡सस् ते हरिवो अभि꣡ष्टौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 रक्ष॑ । च॒ । नः॒ । म॒घोनः॑ । पा॒हि । सू॒रीन् । अ॒ने॒हसः॑ । ते॒ । ह॒रि॒ऽवः॒ । अ॒भिष्टौ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -123,36 +123,36 @@ genre M
 हे **इन्द्र** **अध** अधुना **वज्रबाहुः** त्वम् **अस्मान्** **महः** महते **राये** धनाय **विद्धि** जानीहि । हे इन्द्र **मघोनः** हविष्मतः **सूरीन** स्तुतिप्रेरकान् **नः** अस्मान् **रक्ष** **च** । हे **हरिवः** हरिभ्यां तद्वन्निन्द्र **ते** तव **अभिष्टौ** अभिगमने **अनेहसः** अपापाः स्यामेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Indra**, king of men, who are the bearer of the thunderbolt, regard us now to (give us) greatriches, and protect us who are affluent in (oblations), who utter (your) praise; may we, lord of bay steeds, (be)free from blame on your approach.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And now you, Indra—know us for the sake of great wealth, o lord of  men with the mace in your arms,  
 and guard those generous to us and protect our blameless patrons in  your charge, o possessor of fallow bays.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And take thou notice of us also, Indra, for ample riches, King whose arm wields thunder!  
      Protect our wealthy nobles, guard our princes unmenaced near thee, Lord of Tawny Coursers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun komm du, Indra, gedenke unser zu großem Reichtum, du Männerherr mit der Keule im Arme! Behüte unsere Gönner und schütze die Opferherren schadlos in deiner Obhut, o Falbenfahrer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und du, o Indra, verhilf uns zum Besitze grossen Gutes, o Männerherr, der du den Blitz im Arme trägst, und beschirme unsre reichen, behüte die Fürsten, die unvergleichlichen, o Lenker goldner Rosse, in deinem Schutze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

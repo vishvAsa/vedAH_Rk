@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व देवमा꣡दनो वि꣡चर्षणिर्  
 अप्सा꣡ इ꣡न्द्राय व꣡रुणाय वाय꣡वे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उरुक्षितउ꣡ गृणीहि दइ꣡वियं ज꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कृ॒धि । नः॒ । अ॒द्य । वरि॑वः । स्व॒स्ति॒ऽमत् । उ॒रु॒ऽक्षि॒तौ । गृ॒णी॒हि॒ । दैव्य॑म् । जन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -130,7 +130,7 @@ genre M
 हे सोम **देवमादनः** देवानां मादयिता **विचर्षणिः** विद्रष्टा **अप्साः** अपां दाता त्वं **पवस्व** क्षर । कस्मै । **इन्द्राय** **वरुणाय** **वायवे** च । **नः** अस्माकं **वरिवः** धनं **स्वस्तिमत्** । स्वस्तीत्यविनाशनाम । तद्वद्धनं **कृधि** कुरु । **उरुक्षितौ** विस्तीर्णायां भूमौ यज्ञसंबन्धियां **दैव्यं** **जनं** देवसंबन्धिनं संघम् । जनशब्दः संघवाची । तं **गृणीहि** । गृणातिः शब्दकर्मा । शब्दय । यथा त्वदीयाभिषवशब्दं श्रुत्वा देवा आगच्छन्ति तथा गृणीहीत्यर्थः । अथवा दैव्यं जनमित्यृषिः स्वात्मानमाह । देवसंबन्धिनं जनं मां गृणीहि साधुसंभक्ता इति शब्दय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,34 +141,34 @@ genre M
 Call: when the gods hear the **Soma** flow, they come to the sacrifice; call the celestial people: or, speak to the godly folk, i.e. me, the ṛṣi, saying: **sādhu** saṃbhakta
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself—exhilarating the gods, unbounded, winning the waters— for Indra, for Varuṇa, for Vāyu.  
 Make for us today wide space accompanied by well-being. Sing to the  heavenly people in the wide dwelling place.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Acdg. to Ober (I.526), this vs. is concerned with the “landerobernde Funktion (König) Somas,” which makes sense. Pāda c directly asks Soma to provide us with wide space, and his epithets vícarṣaṇi- ‘unbound(ari)ed’ and apsā́- ‘waterwinning’ in ab belong to this conceptual realm. In d urukṣitaú ‘in the wide dwelling place’ may as well, if it refers to our (newly acquired) dwelling, per Ober. Renou takes it rather as the dwelling place of the divine folk, but given the context Ober’s view is more persuasive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FLOW, cheering Gods, most active, winner of the flood, for Indra, and for Vayu, and for Varuna.  
      Bestow on us to-day wide room with happiness, and in tbine ample dwelling laud the Host of Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, götterberauschend, ausgezeichnet, Wasser gewinnend, für Indra, Varuna, Vayu! Schaff uns heute heilvollen Ausweg, preise in weitem Wohnsitz das göttliche Volk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geschäftig riesle, der die Götter du berauschst, und Trunk gewährst dem Indra, Vaju, Varuna, Verschaff uns heute segensreiches Wohlergehn, erfreu im weiten, sichern Sitz der Götter Stamm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся (как) опьяняющий богов, очень подвижный,  
 Покоряющий воды – для Индры, для Варуны, для Ваю!  

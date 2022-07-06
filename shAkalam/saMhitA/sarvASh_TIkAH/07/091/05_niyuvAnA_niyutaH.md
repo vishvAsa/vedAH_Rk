@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नियुवाना꣡ नियु꣡त स्पार्ह꣡वीरा  
 इ꣡न्द्रवायू सर꣡थं यातम् अर्वा꣡क्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ध प्रिणाना꣡+ वि꣡ मुमुक्तम् अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इ॒दम् । हि । वा॒म् । प्रऽभृ॑तम् । मध्वः॑ । अग्र॑म् । अध॑ । प्री॒णा॒ना । वि । मु॒मु॒क्त॒म् । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *niyuvānā* ← *niyu* ← *√yu*
 - \[verb noun\], nominative, dual
@@ -133,7 +133,7 @@ genre M
 हे **इन्द्रवायू** **स्पार्हवीराः** स्पृहणीयस्तोतृकान् **नियुतः** आत्मीयानश्वान् **सरथम्** उभयोः समानमेकं रथं **नियुवाना** निमिश्रयन्तौ युवाम् **अर्वाक्** अस्मदभिमुखं **यातं** गच्छतम् । **इदं** **हि** इदं खलु **मध्वः** मधुरस्य सोमस्य **अग्रं** ग्रहेष्वाद्यमैन्द्रवायवाख्यं ग्रहं **वां** युवयोरर्थं **प्रभृतं** प्रकर्षेण हृतं होमार्थमुत्तरवेदिं प्रति नीतम् । **अध** अथ तादृशस्य सोमस्य पानानन्तरं **प्रीणाना** प्रीयमाणौ युवाम् **अस्मे** अस्मान् **वि** **मुमुक्तं** पापाद्विमोचयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ genre M
 Whom the devout worshipers desire: or, whose worshippers are objects of desire,spṛhaṇīyastotṛkān
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having hitched up the teams bringing coveted heroes, o Indra and Vāyu,  drive nearby on the same chariot,  
 for here is the foremost of the honey, presented to you two. Now, being  pleased, unharness (your teams) among us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Driving down teams that bear the lovely Heroes, hitherward, Indra-Vayu, come together.  
      To you this prime of savoury juice is offered: here loose your horses and be friendly-minded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Niyut-Gespanne anspannend, die die begehrten Helden bringen, kommet, Indra und Vayu, auf gleichem Wagen heran, denn diese Blume des Süßtranks ist euch vorgesetzt, darum spannet befriedigt bei uns aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der lieben Männer Vielgespanne lenkend kommt, Indra-Vaju, her auf gleichem Wagen; Denn dargebracht ist euch der schönste Soma, drum löset huldreich nun bei uns die Rosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запрягая упряжки(-дары), приносящие желанных героев,  
 О Индра-Ваю, на одной колеснице приезжайте в наши края!  

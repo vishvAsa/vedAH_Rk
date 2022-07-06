@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नो र꣡सं दि꣡प्सति पित्वो꣡ अग्ने  
 यो꣡ अ꣡श्वानां यो꣡ ग꣡वां य꣡स् तनू꣡नाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ ष꣡ हीयतां तनु꣡वा त꣡ना च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 रि॒पुः । स्ते॒नः । स्ते॒य॒ऽकृत् । द॒भ्रम् । ए॒तु॒ । नि । सः । ही॒य॒ता॒म् । त॒न्वा॑ । तना॑ । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -149,40 +149,40 @@ popular
 हे **अग्ने** **यः** राक्षसः **नः** अस्माकं **पित्वः** अन्नस्य **रसं** सारं **दिप्सति** जिघांसति । **यः** च **अश्वानाम्** अस्मदीयानां रसं दिसति । **यः** च **गवां** रसं दिप्सति। **यः** च **तनूनाम्** अस्मदीयानां शरीराणां रसं दिप्सति । **रिपुः** बाधकः **स्तेनः** चौरः **स्तेयकृत्** धनस्यापहर्ता सः सर्वो जनः **दभ्रं** हिंसाम् **एतु** प्राप्नोतु । अपि च **सः** बाधकः **तन्वा** स्वकीयेन शरीरेण **तना** **च** तनयेन च **नि** **हीयतां** निहीनो भवतु ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May he, **Agni**, who strives to destroy the essence of our food, of our horse, of our cattle, of our bodies--the adversary, the thief, the robber-- go to destruction, and be deprived both of person n and of progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever wishes to cheat us of the essence of food, o Agni, or of our  horses, of our cows, of our bodies, let the swindling thief who does the theft go to insignificance. Let him  be bent double, along with his life and lineage.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take ní … hīyatām as belonging to √hā ‘change position’; in most passages ní √hā means ‘bend down’ (e.g., VIII.27.2), but here and in VI.52.1, also a curse, I take the passive as ‘be bent double’. Most tr. are unsatisfyingly generic (‘perish’ and the like). 142
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The fiend, O Agni, who designs to injure the essence of our food, kine, steeds, or bodies,  
      May he, the adversary, thief, and robber, sink to destruction, both himself and offspring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer uns den Saft der Speise verderben will, den unserer Rosse, Kühe oder unserer Leiber, o Agni, der Schelm, der Dieb, der Diebstahl begeht, soll dahin schwinden, er soll mit Leib und Kindern eingehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer uns die Kraft des Trunks verdirbt, o Agni, der Ross und Rinder und der eignen Leiber, Der fall in Noth, der Feind, der Dieb, der Räuber, der mög' verkümmern an sich selbst, an Kindern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто хочет повредить соку нашего питания, о Агни,  
 Кто (-соку) коней, кто (-соку) коров, кто (-соку наших) тел,  

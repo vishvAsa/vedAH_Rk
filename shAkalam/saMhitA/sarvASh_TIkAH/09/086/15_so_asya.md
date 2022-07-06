@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ अस्य विशे꣡ म꣡हि श꣡र्म यछति  
 यो꣡ अस्य धा꣡म प्रथमं꣡ विआनशे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡तो वि꣡श्वा अभि꣡ सं꣡ याति संय꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प॒दम् । यत् । अ॒स्य॒ । प॒र॒मे । विऽओ॑मनि । अतः॑ । विश्वाः॑ । अ॒भि । सम् । या॒ति॒ । स॒म्ऽयतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -139,7 +139,7 @@ genre M
 **सः** सोमः **अस्य** इन्द्रस्य **विशे** प्रवेशनाय **महि** महत् **शर्म** सुखं **यच्छति** । **यः** सोमः **अस्य** इन्द्रस्य **धाम** तेजोयुक्तं शरीरं **प्रथमम्** इतरदेवप्राप्तेः पूर्वं **व्यानशे** प्राप्तवान् । **यत्** यस्य **अस्य** सोमस्य **परमे** उत्कृष्टे **व्योमन्** विशेषेण रक्षके द्युलोके वेद्यां वा **पदं** भवति । **यतः** यस्मात् सोमात् तृप्त इन्द्रः सोमः स्वयं वा **विश्वाः** **संयतः** सर्वान् संग्रामान **अभि** **याति'** सम्यगभिगच्छति । स सोमो महि शर्म यच्छतीति संबन्धः ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,13 +150,13 @@ genre M
 Through whom: ataḥ = yasmāt somāt (**tṛpta** **indraḥ**); 'since his (Soma's) station is in the highest heaven, therefore he (Soma) triumphs'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He extends his great shelter to the clan, when he has reached through  his first domain.  
 What is his footprint in the highest distant heaven—from that he  proceeds toward all the (streams) in uninterrupted array.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The gen. asya of pāda a could depend instead on viśé - or indeed on both viśé and śárma. Since I don’t know what ‘clan’ is in question, it is hard to determine if it belongs to Soma.
 
@@ -176,23 +176,23 @@ This tṛca is characterized by increasingly larger claims for Soma’s cosmic r
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who was first of all to penetrate his form bestowed upon his race wide shelter and defence.  
      From that high station which he hath in loftiest heaven he comes victorious to all encounters here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Clane verleiht er großen Schirm, der seine erste Form erreicht hat. Was sein Standort im höchsten Himmel ist, von da aus gelangt er zu allen Stufenfolgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Stamme dessen reichet grossen Schatz er dar, der hin zu seiner ersten Opferstätte drang; Von seinem Ort, der in dem höchsten Himmel ist, geht er zu allen Stätten der Versammlung ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

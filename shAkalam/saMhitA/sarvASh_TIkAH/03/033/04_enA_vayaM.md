@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एना꣡ वय꣡म् प꣡यसा पि꣡न्वमाना  
 अ꣡नु यो꣡निं देव꣡कृतं च꣡रन्तीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 किंयु꣡र् वि꣡प्रो नदि꣡यो जोहवीति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 न । वर्त॑वे । प्र॒ऽस॒वः । सर्ग॑ऽतक्तः । कि॒म्ऽयुः । विप्रः॑ । न॒द्यः॑ । जो॒ह॒वी॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *enā*
 - \[adverb\]
@@ -124,41 +124,41 @@ genre M
 एवं स्तुते नदौ विश्वामित्रं प्रत्यूचतुः एनैनेन पयसा पिन्वमानाः सन्तर्पयन्त्यो देवकृतं देवेनेन्द्रेण कृतं सन्दिष्टं योनिं स्थानं समुद्रमनु लक्षीकृत्य चरन्तीर्गच्छन्त्यो वयमास्मदे द्वयोर्बहुवचनं पूजार्थं तासामस्माकं स्वर्गतक्तः सर्गे गमने प्रवृत्तः प्रसव उद्योगो न वर्त्तवे । निवर्तनाय न भवति । किंयुः किमिच्छन्नसौ विप्र् ब्राह्मणो नद्यो नदीरस्मान् जोडवीति । भृशमाह्वयति ॥ एना । इदंशब्दस्य तृतीयाया एनादेशः । सुपां सुलुगिति तृतीयाया आजादेशः । ऊडिदमिति विभक्तेरुदात्तत्वम् । पिन्वमानाः । पिवि सेचने । देवकृतम् । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरः । वर्त्तवे । वृतु वर्तने । तुमर्थे तवेन्प्रत्ययः । नित्स्वरः । सर्गतक्तः । क्ते चेति पुर्वपदप्रकृतिस्वरः । किंयुः । किमिच्छन् । क्यचि मान्ताव्ययप्रतिषेधः । पा. ३-१-८-१ । इति छान्दसत्वादत्र प्रतिषेधो न भवतीति क्यच् । क्याच्छन्दसीत्युप्रत्ययः । प्रत्ययस्वरः । नद्यः । छान्दसो यणादेशः । जोहवीति । ह्वयो यङ् लुक्यभ्यस्तस्य चेति सम्प्रसारणे कृते गुणो यङ् लुकोरित्यभ्यासस्य गुणः । यङो वेतीडागमः । गुणः । निघातः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The rivers speak: Fertilizing (the land) with this (our) current, we are flowing to the receptacle which has been appointed by the deity (**Indra**); the course appointed for our going (permits) not of delay; of what is the sage desirious, that he addresses the rivers?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Rivers:] So we are—swelling with milk, proceeding along our  god-made womb.  
 Our forward thrust, launched in a surge, is not to be obstructed.  Seeking what does the poet keep calling upon the rivers?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The reference of the rivers switches from dual to plural here and remains so (save for two singulars in 10cd). There is no obvious reason for this change, though it may reflect the fact that when the two rivers merge into each other they form a third.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We two who rise and swell with billowy waters move forward to the home which Gods have made us.  
      Our flood may not be stayed when urged to motion. What would the singer, calling to the Rivers?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So sind wir von der Milchflut anschwellend, im gottgeschaffenen Bette weiterlaufend - nicht ist unser pfeilschneller Galopp aufzuhalten. Was begehrt der Redekundige, daß er die Flüsse ruft?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Die wir von diesen süssen Fluten schwellen, zum Gott-geschaffnen Schoosse vorwärts wandernd, Nicht ist zu hemmen unsre schnelle Strömung was wünschend ruft der Sänger uns, die Flüsse?«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так мы (выглядим), набухши от воды,  
 Двигаясь по руслу, созданному богами.  

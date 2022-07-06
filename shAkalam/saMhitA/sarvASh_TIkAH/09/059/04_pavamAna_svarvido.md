@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान सु꣡वर् विदो  
 जा꣡यमानो ऽभवो महा꣡न्  
 इ꣡न्दो वि꣡श्वाँ अभी꣡द् असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दो॒ इति॑ । विश्वा॑न् । अ॒भि । इत् । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
@@ -93,19 +93,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** सोम त्वं **स्वः** सर्वं **विदः** यजमानाय प्रयच्छ । अपि च **जायमानः** प्रादुर्भवन्नेव **महान्** पूजनीयः **अभवः** असि । किंच हे **इन्दो** सोम त्वं **विश्वानित्** सर्वानेव शत्रून् **अभि** **असि** तेजसाभिभवसि ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O purifying **Soma**, grant all boons; as soon as you are born you are great; **Indu**, you overcome all (foes).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Self-purifying one, you find the sun; on just being born, you became great. Drop, you dominate all.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The injunc. vidaḥ in pāda a is interpr. by both Geldner and Renou as imperatival, while in the published translation it’s taken as a general statement in the present. I am now somewhat inclined to follow the imperatival interpr. of Geldner/Renou (“find the sun”). On vidaḥ in impv. use, see comm. ad IX.20.3, I.42.7-9. What may indirectly support my original interpr., however, is a potential ring-compositional relationship with vs. 1. As noted above, vs. 1 contains a remarkably pile-up of root noun cmpds in -jít- ‘X-winning’. There exists a very wellattested root noun cmpd svar-víd- ‘sun-finding’, which is semantically very close to the Xwinning cmpds (and cf. also svar-jít- 4x, incl. 2x of Soma in IX). Indeed, svar-víd- is commonly used of Soma (13x in IX) and in a number of passages occupies this same metrical slot, the last four syllables of a dimeter pāda (in the acc. sg. svar-vídam, nom/acc. pl. svar-vídaḥ; e.g., IX.8.9), as our finite VP svàr vidaḥ. This slot is, of course, not available for the nom. sg. svar-víd, but the 2nd sg. VP here svàr vidaḥ is a reasonable simulacrum, with vidaḥ incorporating the nominative subject. Now in vs. 1 the cmpds in -jít- are descriptors of Soma, without modal value. If svàr vidaḥ here is meant as a ringcompositional variant, evoking the cmpd svar-víd- and reprising the X-jít- cmpds of vs. 1, the general meaning I assigned it in the published translation may correctly capture this structural feature.
 
@@ -114,23 +114,23 @@ The finite verb in b presents its own problems. The Pp. reads abhavaḥ, though 
 abhavaḥ, but an injunc. bhavaḥ, which was then wrongly analyzed by the Pp. In that case bhavaḥ could express the same general sense as I just suggested vidaḥ might: “being born, you become great.” However, as both Oldenberg (Noten ad loc.) and Hoffmann (Inj. 150) point out, the injunctives bhavaḥ and bhavat are not otherwise found in the RV, and therefore both scholars assume that the augmented abhavaḥ is the underlying form here - ‘you became great’, as rendered in the published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Pavamana, foundest light; thou at thy birth becamest great:  
      O Indu, thou art over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pavamana, finde das Sonnenlicht! Bei deiner Geburt wardst du der Große. Du Saft übertriffst alle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verleibe Glanz, o flammender, kaum erst geboren warst du gross, Ja, alle überragest du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

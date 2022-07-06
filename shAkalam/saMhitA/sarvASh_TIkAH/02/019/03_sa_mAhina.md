@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मा꣡हिन इ꣡न्दरो+ अ꣡र्णो अपा꣡म्  
 प्र꣡ ऐरयद् अहिहा꣡छा समुद्र꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अक्तु꣡ना अ꣡ह्नां वयु꣡नानि साधत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अज॑नयत् । सूर्य॑म् । वि॒दत् । गाः । अ॒क्तुना॑ । अह्ना॑म् । व॒युना॑नि । सा॒ध॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 माहिनोमहनीयः पूजनीयः यद्वा महिमोपेतः अहिहाअहिम्मेघंहतवानिन्द्रःब्रह्मश्रूणवृत्रेषुक्विप् बहु- लञ्छन्दसीतिभूतकालेक्विप् सइन्द्रःअपामर्णःऋगतौ स्रोतोलक्षणम्प्रवाहंसमुद्रमच्छाभिलक्ष्यप्रैरयत् किञ्च सइन्द्रः अङ्गिरसाम्बिलान्तर्वर्तिनीनामावृतानाङ्गवांलाभायसूर्यमजनयत् ततःगाः पणिभिरप- हृतागाः विददलभत विदिर् लाभे लुङिइरितोवेतिच्लेरङादेशः वाक्यभदादनिघातः तथाक्तुनाते- जसाअह्नान्दिवसानांवयुनानिप्रज्ञानानिप्रकाशान् साधत् असाधयत् ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ genre M
 Aktunā ahnām vayunāni sādhat = tejasā prakāśān divasānām asādhayat, effected hte manifestation of the days by light
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That great Indra, smasher of the serpent, roused the flood of waters  forth toward the sea.  
 He gave birth to the sun and found the cattle. He perfected the patterns  of the days through the night.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, this Mighty One, the Dragon's slayer, sent forth the flood of waters to the ocean.  
      He gave the Sun his life, he found the cattle, and with the night the works of days completed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der mächtige Indra, der Drachentöter, trieb die Flut der Gewässer hin zum Meere. Er erzeugte die Sonne, fand die Kühe; er regelte die Reihenfolge der Tage durch die Nacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Flut der Wasser liess der mächt'ge Indra, der Schlangentödter zu dem Meere rinnen; Er zeugte Sonnenglanz und fand die Kühe und wirkte Helle durch der Tage Leuchten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот могучий Индра, убийца змея,  
 Токи вод погнал к морю.  

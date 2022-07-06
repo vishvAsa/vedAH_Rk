@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व वायव् ऋतस्पते  
 त्व꣡ष्टुर् जामातर् अद्भुत  
 अ꣡वांसि आ꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अवां॑सि । आ । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -75,7 +75,7 @@ genre M
 हे **ऋतस्पते** ऋतपते यज्ञानां पते । “ सर्वप्रातिपदिकेभ्यो लालसायां सुक्' (का. ७.१.५१.४ ) इति सुगागमः। **त्वष्टुर्जामातः** ब्रह्मणो जामातः । एषा कथेतिहासादिभिरवगन्तव्या । तादृश **अद्भुत** महन् विचित्रकर्मन् हे **वायो** **तव** त्वदीयानि **अवांसि** पालनानि **आ** **वृणीमहे** वयमस्मिन् पशुयागे संभजामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -86,33 +86,33 @@ genre M
 Tvaṣṭā: i.e.**Brahmā**; or, Vāyu, the wind, having taken water from **Āditya**, fertilizes it, as rain, and is, therefore, as it were,his son-in-law, identifying Tvaṣṭā with Āditya (**Yajus**. 27.34)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Vāyu, unerring lord of truth, son-in-law of Tvaṣṭar—yours are the forms of help we choose.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The voc. ṛtaspate, belonging to a hapax cmpd., has an unusual 1st member for a thematic stem. We should expect *ṛtapate. But to construct that form is to confront its problem, a sequence of light syllables (4 in stem form). Rather than seeing anything archaic in the form we have, I think it likely that the cmpd was shaped in analogy to the numerous gen. -as-páti- with athem. gen., esp. bṛ́has-pátiwith similar phonological shape. See also ráthas-páti-, which shows the same anomaly as ṛtaspate: comm. ad V.50.5. Unlike ráthas-páti-, the form here makes no metrical problems.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wonderful Vayu, Lord of Right, thou who art Tvastar's son-in-law,  
      Thy saving succour we elect.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Gnaden erbitten wir uns, Vayu, Herr der Wahrheit, Tvastri´s Tochtermann, Wunderbarer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wünschen deine Hülfen uns, o Tvaschtar's Eidam, herrlicher, O Vaju, du des Opfers Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваю, господин (вселенского) закона,  
 У тебя, зятя Тваштара, о удивительный,  

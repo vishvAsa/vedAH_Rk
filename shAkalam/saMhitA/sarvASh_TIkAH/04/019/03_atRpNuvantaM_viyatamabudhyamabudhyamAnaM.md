@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡तृप्णुवन्तं वि꣡यतम् अबुध्य꣡म्  
 अ꣡बुध्यमानं सुषुपाण꣡म् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡हिं व꣡ज्रेण वि꣡ रिणा अपर्व꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒प्त । प्रति॑ । प्र॒ऽवतः॑ । आ॒ऽशया॑नम् । अहि॑म् । वज्रे॑ण । वि । रि॒णाः॒ । अ॒प॒र्वन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atṛpṇuvantaṃ* ← *a*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 हे **इन्द्र** त्वम् **अतृप्णुवन्तं** भोगेषु अतृप्यन्तं **वियतं** शिथिलाङ्गम् **अबुध्यं** दुर्विज्ञानम् **अबुध्यमानं** किमप्यजानन्तं **सुषुपाणं** सुप्तं **सप्त** सर्पणस्वभावाः **प्रवतः** अपः **प्रति** **आशयानम्** आवृत्य तिष्ठन्तम् **अहिं** वृत्रम् **अपर्वन्** अपर्वणि पौर्णमास्यां **वज्रेण** **वि** **रिणाः** व्यरिणाः । विशेषेण हतवानसि । पौर्णमास्यां वृत्रवधः ‘ त्वष्टा हतपुत्रः' इत्यनुवाके ' घ्नन्ति वा एनं पौर्णमास अमावास्यायां प्याययन्ति ' ( तै. सं. २. ५. २. ५ ) इति तैत्तिरीयेऽपि उक्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M
 On the day of the full moon: aparvan = paurṇamāsyām (ghnanti vā enam **paurṇamāsa** : **Taittirīya** **Saṃhitā** 2.5.2.5)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The insatiable serpent, stretched out, lying against the seven slopes, did you dismember with your mace in his jointless part, o Indra—  
 (making him) not to be awakened, unawakening, gone to sleep.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The insatiate one, extended, hard to waken, who slumbered in perpetual sleep, O Indra,-  
      The Dragon stretched against the seven prone rivers, where no joint was, thou rentest with thy thunder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den nimmersatten, ausgespreizten Drachen, den man nicht wecken soll, der ungeweckt schlief, der die sieben Ströme belagerte, hast du, Indra, mit der Keule an einer gelenklosen Stelle zertrennt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, trafst den nimmersatten Drachen, der ausgestreckt nicht wachend, nicht erweckbar, Entschlafen da lag auf den sieben Bergen, mit deinem Blitz durchbohrend ihm die Weichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ненасытного раскинувшегося змея,  
 Которого нельзя будить, беспробудно спавшего, о Индра,  

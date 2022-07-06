@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ देवासो व꣡रिवः कर्तना नो  
 भूत꣡ नो वि꣡श्वे अ꣡वसे सजो꣡षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सम् । अ॒स्मे इति॑ । इष॑म् । वस॑वः । द॒दी॒र॒न् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -137,7 +137,7 @@ genre M;; repeated line
 हे **देवासः** देवाः द्योतमाना ऋभवः यूयं **नु** अद्य **नः** अस्मभ्यं **वरिवः** धनं **कर्तन** कुरुत प्रयच्छत । तथा **विश्वे** सर्वे ऋभवो यूयं **सजोषाः** सह प्रीयमाणाः सन्तः **नः** अस्माकम् **अवसे** रक्षणाय **भूत** भवत । अपि च **वसवः** प्रशस्या ऋभवः **इषम्** अन्नम् **अस्मे** अस्मभ्यं **सं** **ददीरन्** संप्रयच्छेयुः । हे ऋभवः यूयम् अस्मान् सर्वदा कल्याणैः रक्षत ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,28 +148,28 @@ genre M;; repeated line
 Ṛbhus: **vasavaḥ** = **Vasus**; praśasyaḥ, an epithet of **Ṛbhavaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O gods, now make for us wide space. Be of one accord to help us. The good (gods) should give refreshment to us. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, Deities, give us ample room and freedom: be all of you, one-minded, our protection.  
      So let the Vasus grant us strength and vigour. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun schaffet uns freie Bahn, ihr Götter; seid uns alle einmütig zum Beistand! Die Vasu´s mögen uns Speisegenuß geben.-Behütet uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O schaffet uns, o Götter, weiten Raum nun, seid alle ihr zur Hülfe uns vereinigt; Es mögen uns die guten Labung schenken; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так создайте же нам широкий простор, о боги!  
 Будьте все единодушны, чтобы нам помочь!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अञ्ज꣡न्ति य꣡म् प्रथ꣡यन्तो न꣡ वि꣡प्रा  
 वपा꣡वन्तं न꣡ अग्नि꣡ना त꣡पन्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ घर्मो꣡ अग्नि꣡म् ऋत꣡यन्न् असादि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पि॒तुः । न । पु॒त्रः । उ॒पसि॑ । प्रेष्ठः॑ । आ । घ॒र्मः । अ॒ग्निम् । ऋ॒तय॑न् । अ॒सा॒दि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *añjanti* ← *añj*
 - \[verb\], plural, Present indikative
@@ -122,7 +122,7 @@ genre M
 **यं** घर्मं महावीरं **प्रथयन्तो** **न** । नेति संप्रत्यर्थीयः । अस्त्युपमार्थस्य संप्रत्यर्थे प्रयोगः । इदानीं प्रथयन्तः **विप्राः** मेधाविन ऋत्विजोऽध्वर्य्वादयः **वपावन्तं** **न** । वपावन्तं प्रवृद्धं पशुं यथाग्नौ तपन्ति तद्वत् **अग्निना** **तपन्तः** **अञ्जन्ति** । **पितुर्न** **पुत्र** **उपसि** **प्रेष्ठः** पितुरुपस्थे प्रियतमः पुत्र इव **घर्मः** महावीरः । यद्घ्राम् इत्यपतत्तद्धर्मस्य घर्मत्वम् ' ( तै. आ. ५. १. ५) इति हि श्रुतिः । सः **ऋतयन्** यज्ञमिच्छन् अग्निम् अग्नौ **आ** **असादि** आसादितः । अत्र पितृपुत्रदृष्टान्तः स्फोटादिराहित्येन सुखवासप्रख्यापनार्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,14 +133,14 @@ genre M
 The vessel: **gharma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one which the inspired poets anoint, like (the ritual grass) as they  spread it, heating it with fire like (the offering of the sacrificial  
 animal) with its omentum:  
 the truth-(sing)ing gharma (drink/pot) has been set here on the fire like  the dearest son on the lap of his father.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the position of this vs. in the hymn and its significance, see published introduction. If the vs. is an omphalos, it may focus attention on the mysteries of the Pravargya ritual.
 
@@ -157,23 +157,23 @@ The next simile, in b, targets a different ritual substance to compare with the 
 The third simile, in pāda c, is the only one with all its parts, and is also the only one without a ritual reference. It is a version of a standard trope.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As on his father's lap the son, the darling, so on the fire is set the sacred caldron,  
      Which holy singers deck, as if extending and heating that which holds the fatty membrane.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gharmakessel, den die Redekundigen salben - wie das Barhis, wenn sie es ausbreiten, wie das mit der Netzhaut versehene Opferstück, wenn sie es am Feuer kochen ist regelrecht ans Feuer gesetzt wie der liebste Sohn auf den Schoß des Vaters.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den sie beträufeln, wie am Feu'r die Priester den fettverseh'nen breiten und erhitzen, Der heil'ge Kessel ward gesetzt ans Feuer, wie in des Vaters Schooss der Sohn, der liebste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Котелок с молоком, который освящают помазанием вдохновенные,  
 Словно раскладывая (жертвенную солому), словно варя на огне (мясо) с пленкой,  

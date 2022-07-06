@@ -8,7 +8,7 @@ title = "+149"
 ‘ सविता यन्त्रैः ' इति पञ्चर्चमेकविंशं सूक्तं हिरण्यस्तूपपुत्रस्यार्चत आर्षं त्रैष्टुभं सवितृदेवत्यम्। अनुक्रान्तं च -- ‘सवितार्चन हैरण्यस्तूपः सावित्रम् ' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 149 (975)  
 Savitar  

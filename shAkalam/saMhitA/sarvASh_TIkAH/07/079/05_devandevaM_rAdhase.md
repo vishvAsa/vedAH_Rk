@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवं꣡-देवं रा꣡धसे चोद꣡यन्ति  
 अस्मद्रि꣡अक् सूनृ꣡ता ईर꣡यन्ती  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वि॒ऽउ॒च्छन्ती॑ । नः॒ । स॒नये॑ । धियः॑ । धाः॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
@@ -114,7 +114,7 @@ genre M;; repeated line
 **देवदेवं** सर्वमपि स्तोतारं **राधसे** धनाय **चोदयन्ती** प्रेरयन्ती **अस्मद्र्यक्** अस्मदभिमुखं **सूनृताः** वचांसि **ईरयन्ती** प्रेरयन्ती **व्युच्छन्ती** व्युच्छनं कुर्वती **नः** अस्माकं **सनये** दानाय धनलाभाय **धियः** बुद्धीः **धाः** धेहि । शिष्टं स्पष्टम् ॥ ॥२६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,33 +129,33 @@ Sunṛtā = vacāmsi;
 Īrayantī = prerayantī, i.e. urging speech (i.e. praises)towards us, i.e. awakening our praises
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Impelling every god to largesse, rousing liberalities in our direction, dawning widely, impart insights to us for our gain. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the introduction. above, vyuchántī, which opens the last pāda of the hymn (save for the clan refrain), forms a ring with the opening phrase (1a) vy ùṣā́ āvaḥ. This reinforces the affiliaion of āvaḥ in 1a with √vas, not √vṛ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Impelling every God to grant his bounty sending to us the charm of pleasant voices,  
      Vouchsafe us thoughts, for profit, as thou breakest. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jeden Gott zur Freigebigkeit anspornend, für uns Schenkungen aufbringend, mögest du aufleuchtend unseren Dichtungen zum Gewinn verhelfen.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Gott für Gott zum Schenken du erregest und reiche Gaben zu uns her beförderst, Aufleuchtend schaff Gewährung unsern Bitten. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поощряя в дарении каждого бога,  
 Продвигая к нам щедроты,  

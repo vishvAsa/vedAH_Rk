@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति वो वृषदञ्जयो  
 वृ꣡ष्णे श꣡र्धाय मा꣡रुताय भरध्वम्  
 हव्या꣡ वृ꣡षप्रयावणे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ह॒व्या । वृष॑ऽप्रयाव्ने ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -85,20 +85,20 @@ genre M
 हे वृषदञ्जयः वृषता वर्षकेण सोमेनाञ्जन्तः सिञ्चन्तोऽध्वर्यवः **वः** यूयं **वृष्णे** वर्षित्रे **मारुताय** मरुत्संघरूपाय **शर्धाय** बलाय हव्यानि हवींषि **प्रति** **भरध्वम्** । आहवनीयं प्रति हरत । शर्धं विशेष्यते । **वृषप्रयाव्णे** । वृषाणः सेक्तारः प्रयावानः प्रकृष्टं गन्तारो मरुतो यस्मिन् तत्तथोक्तम् । तस्मै ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sprinklers of the libation, present the offerings to the rain-bestowing swift-passing company of theMaruts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you who rain unguents, present oblations to your own bullish  Marutian troop  
 whose leader is a bull [=Indra].
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ The ‘bull’ stem (vṛ́ṣa(n)-) is dominant in these verses (9b, 9c, 10a [t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring, ye who sprinkle balmy drops. oblations to your vigorous Marut company,  
      To those whose leader is the Bull.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet, ihr Salbetriefende, eure Opfergaben der bullenhaften marutischen Heerschar dar, deren Anführer der Bulle Indra ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf bringt, o Salben-regnende, nun eurer starken Marutschar die Opfer dar, ihr, der mit Stieren fahrenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О вы. украшенные каплями дождя!  
 Принесите бычьей стае марутовой  

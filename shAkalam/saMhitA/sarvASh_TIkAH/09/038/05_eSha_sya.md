@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्य꣡ म꣡दियो र꣡सो  
 अ꣡व चष्टे दिवः꣡ शि꣡शुः  
 य꣡ इ꣡न्दुर् वा꣡रम् आ꣡विशत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यः । इन्दुः॑ । वार॑म् । आ । अवि॑शत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -93,40 +93,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **स्यः** सः **एषः** **मद्यः** मदनिमित्तः **रसः** **अव** **चष्टे** सर्वमवपश्यति। **दिवः** **शिशुः** । द्युपुत्रः । तत्रोत्पत्तेः पुत्रत्वमस्य । **य** **इन्दुः** दीप्तः सोमः **वारं** दशापवित्रम् **आविशत्** आविशति स एष इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That exhilarating juice beholds all, **Indu**, the child of heaven, that percolates through the fleece.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This very one, the exhilarating juice, looks down, the child of heaven, the drop who entered the fleece.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is tempting to read diváḥ as abl. with áva caṣṭe: “looks down from heaven”; however, diváḥ śíśuḥ “child of heaven” is found elsewhere (IV.15.6, VI.49.2). It is certainly possible, however, to read diváḥ with both: “the child of heaven looks down from heaven.” The word is well positioned to look both left and right.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This young exhilarating juice looks downward from its place in heaven,  
      This Soma-drop that pierced the sieve.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Derselbige berauschende Seim schaut herab, des Himmels Kind, der Saft, der in die Haarseihe ging.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja er, der Saft, der Rausch erregt, der Spross des Himmels blickt herab, Wenn Indu durch die Wolle drang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

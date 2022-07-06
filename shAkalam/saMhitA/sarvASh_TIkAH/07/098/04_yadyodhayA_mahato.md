@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् योध꣡या महतो꣡ म꣡न्यमानान्  
 सा꣡क्षाम ता꣡न् बाहु꣡भिः शा꣡शदानान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तं꣡ त्व꣡याजिं꣡ सौश्रवसं꣡ जयेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । वा॒ । नृऽभिः॑ । वृतः॑ । इ॒न्द्र॒ । अ॒भि॒ऽयुध्याः॑ । तम् । त्वया॑ । आ॒जिम् । सौ॒श्र॒व॒सम् । ज॒ये॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -127,43 +127,43 @@ genre M
 हे इन्द्र **महतः** प्रभूतान् **मन्यमानान्** शत्रून् **यत्** यदा योधयाः अस्माभिर्योधयेः । तैः सह योद्धं बलं प्रयच्छेरित्यर्थः । तदानीं **शाशदानान्** हिंसतः **तान्** शत्रून् **बाहुभिः** आयुधनिरपेक्षैर्हस्तैरेव त्वत्प्रसादात् **साक्षाम** सहेम अभिभवेम। **यद्वा** यदि वा हे **इन्द्र** **नृभिः** नेतृभिर्मरुद्भिः **वृतः** परिवृतस्त्वमेव **अभियुध्याः** अस्मदीयाञ्छत्रूनभियुध्येश्च **सौश्रवसम्** । श्रवोऽन्नं यशो वा । शोभनस्य श्रवसो हेतुं **तम्** **आजिं** संग्रामं **त्वया** सहायेन वयं **जयेम** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When you enable us to encounter mighty and arrogant (enemies), we are competent to overcome themalignant by our (unarmed) **hands** alone; and when you, **Indra**, surrounded by your attendants (**Maruts**), fightagainst them, we shall triumph, aided by you (in) that glorious war.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you will set to fighting those who think themselves great, we shall  overcome them, though they are exulting in their arms.  
 Or when, Indra, with your superior men you will attack the defensive  forces, with you may we win the contest that brings good fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the s-aor. of √sah see Narten (Sig.Aor. 264-67) and on the lengthened grade of some forms of this aor., as well as elsewhere in the root, see Narten (op. cit.) Gotō (1st Kl. 325-26), EWA s.v. SAH.
 
 On the root noun vṛ́t-, see Schindler (Rt.Nouns s.v.); it belongs with √vṛ ‘obstruct’ (etc.), not, with Grassmann, √vṛt ‘turn’. In this passage a derivation from ‘obstruct’ makes sense for the defensive forces that provide an obstacle to the attacking army.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou hast urged the arrocrant to combat, proud in their strength of arm, we will subdue them.  
      Or, Indra, when thou fightest girt by heroes, we in the glorious fray with thee will conquer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wen du zum Kampfe stellen wirst, die sich als Große dünken, so wollen wir die bezwingen, die auf ihre Arme pochen. Oder wenn du, Indra, mit deinen Mannen die Heerhaufen bekämpfen willst, so möchten wir mit dir die Schlacht ruhmreich gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie du die gross sich dünkenden bekämpftest, so lass die Stolzen mit dem Arm uns zwingen, Wie mit den Männern Heere du bekämpftest, so lass den Kampfpreis uns und Glück gewinnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ты собираешься вызвать на бой тех, кто мнит себя великими,  
 Мы хотим одолеть этих кичащихся (своими) руками.  

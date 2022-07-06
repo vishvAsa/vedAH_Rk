@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दृशे꣡नियो यो꣡ महिना꣡ स꣡मिद्धो  
 अ꣡रोचत दिवि꣡योनिर् विभा꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हवि꣡र् वि꣡श्व आ꣡जुहवुस् तनूपाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्मि॑न् । अ॒ग्नौ । सू॒क्त॒ऽवा॒केन॑ । दे॒वाः । ह॒विः । विश्वे॑ । आ । अ॒जु॒ह॒वुः॒ । त॒नू॒ऽपाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dṛśenyo* ← *dṛśenyaḥ* ← *dṛśenya*
 - \[noun\], nominative, singular, masculine
@@ -120,37 +120,37 @@ popular
 **यः** वैश्वानरोऽग्निः **महिना** महत्त्वेन **दृशेन्यः** सर्वदर्शनीयः **समिद्धः** सम्यग्दीप्तः **दिवियोनिः** द्युस्थानः **विभावा** दीप्तिमांश्च सन् **अरोचत** दीप्यते **तस्मिन्** वैश्वानरे **अग्नौ** **तनूपाः** शरीराणां रक्षकाः **विश्वे** सर्वे **देवाः** **सूक्तवाकेन** ‘इदं द्यावापृथिवी' इत्यादिवाक्येन स्तोत्राणां वचनेन वा **हविः** **आजुहवुः** आभिमुख्येन जुहुवुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who shines visible to all through his greatness radiant, having his station in the sky, resplendentinhim, **Agni**, the unversal gods, the guardians of men's bodies, have presented an oblation with the voice of”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who shone brightly, beautiful to see in his greatness when fully  kindled, the radiant one whose womb is in heaven—  
 in him, in Agni did all the gods, the protectors of bodies, pour the  
 oblation with well-spoken speech.1534 X.88
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lovely is he who, kindled in his greatness, hath shone forth, seated in the heavens, refulgent.  
      With resonant hymns all Gods who guard our bodies have offered up oblation in this Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ansehnlich durch seine Größe, wann entflammt, strahlend erglänzte, der Himmelentsprossene, in diesem Agni opferten alle Götter unter Liedvortrag die Spende, die sie selbst schützt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der angezündet sehenswerth an Grösse am Schooss des Himmels leuchtend hell erglänzte, In diesen Agni goss mit schönem Sange die Götterschar den Guss, den Leib beschützend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто приковывает взоры благодаря (своему) величию, когда его зажгут,  
 Засверкал, возникший на небе, лучистый.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् किं꣡ चेदं꣡ वरुण दइ꣡विये ज꣡ने  
 अभिद्रोह꣡म् मनुषि꣡याश् च꣡रामसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ नस् त꣡स्माद् ए꣡नसो देव रीरिषः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अचि॑त्ती । यत् । तव॑ । धर्म॑ । यु॒यो॒पि॒म । मा । नः॒ । तस्मा॑त् । एन॑सः । दे॒व॒ । रि॒रि॒षः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -131,37 +131,37 @@ genre M
 हे **वरुण** **दैव्ये** देवसमूहरूपे **जने** **यत्** **इदं** किंचन **अभिद्रोहम** अपकारजातं **मनुष्याः** वयं **चरामसि** चरामः निर्वर्तयामः । तथा **अचित्ती** अचित्त्याज्ञानेन **तव** त्वदीयं **यत्** **धर्म** धारकं कर्म **युयोपिम** वयं विमोहितवन्तः । हे **देव** **तस्मादेनसः** पापात् **नः** अस्मान **मा** **रीरिषः** मा हिंसीः ॥ ॥ ११ ॥ ॥५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever the offence which we men commit **Varuṇa** against divine beings, whatever law of yours wemay through ignorance violate, do not you, divine Varuṇa, punish us on account of that iniquity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever this deceit that we humans practice against the divine race, o  Varuṇa,  
 if by inattention we have erased your ordinances, do not harm us  
 because of that guilt, o god.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Varuna, whatever the offence may be which we as men commit against the heavenly host,  
      When through our want of thought we violate thy laws, punish us not, O God, for that iniquity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was wir Menschen auch als Frevel am göttlichen Volke hier begehen, o Varuna, wenn wir unwissentlich deine Gesetze gestört haben, so sollst du um dieser Sünde willen uns nicht zu Schaden bringen, o Gott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht der Himmlischen, wenn wir verletzten dein Gesetz aus Unverstand, so strafe nicht um diese Sünde uns, o Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если против божественного рода, о Варуна, какой-нибудь  
 Проступок мы, люди, здесь совершаем,  

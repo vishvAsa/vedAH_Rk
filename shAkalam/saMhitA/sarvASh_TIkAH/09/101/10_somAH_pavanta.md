@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡माः पवन्त इ꣡न्दवो  
 अस्म꣡भ्यं गातुवि꣡त्तमाः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सुआधि꣡यः सुवर्वि꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मि॒त्राः । सु॒वा॒नाः । अ॒रे॒पसः॑ । सु॒ऽआ॒ध्यः॑ । स्वः॒ऽविदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
@@ -90,19 +90,19 @@ genre M
 **गातुवित्तमाः** अतिशयेन मार्गस्य लम्भकाः **इन्दवः** दीप्ताः **सोमाः** **पवन्ते** **अस्मभ्यम्** अस्मदर्थं क्षरन्त्यागच्छन्ति वा । कीदृशाः । **मित्राः** देवानां सखिभूताः **सुवानाः** अभिषूयमाणाः **अरेपसः** पापरहिताः अत एव **स्वाध्यः** शोभनध्यानाः **स्वर्विदः** सर्वज्ञाः स्वर्गप्रापका वा ॥ ॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The brilliant **Soma** juices flow for us knowing the right path, friendly (to the gods), effused sinless, contemplative, all-knowing.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma drops purify themselves, as best pathfinders for us, allies, unblemished, rich in purpose, finding the sun, when they are  being pressed.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -111,23 +111,23 @@ Again no particular signs of cohesion, save for the X-víd- ‘finding X’ cmpd
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For us the Soma juices flow, the drops best furtherers of our weal,  
      Effused as friends without a spot, benevolent, finders of the light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es läutern sich die Somasäfte, für uns die besten Pfadfinder, die ausgepreßten, die makellosen Freunde, wohlgesinnt, Sonnenlicht findend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Somatropfen rieseln hell, die uns das höchste Glück ersehn, Erzeugt als Freunde, fleckenlos, und Glanz verschaffend, andachtreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаются соки сомы, капли,  
 Лучше всех находящие выход для нас,  

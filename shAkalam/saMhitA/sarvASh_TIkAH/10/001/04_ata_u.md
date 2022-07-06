@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त उ त्वा पितुभृ꣡तो ज꣡नित्रीर्  
 अन्नावृ꣡धम् प्र꣡ति चरन्ति अ꣡न्नैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡सि त्वं꣡ विक्षु꣡ मा꣡नुषीषु हो꣡ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ताः । ई॒म् । प्रति॑ । ए॒षि॒ । पुनः॑ । अ॒न्यऽरू॑पाः । असि॑ । त्वम् । वि॒क्षु । मानु॑षीषु । होता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ata* ← *atas*
 - \[adverb\]
@@ -133,7 +133,7 @@ genre M
 हे अग्ने **अतः** । उ इत्यवधारणे । अस्मादेव कारणात् **पितुभृतः** पितुनान्नेन सर्वस्य जगतो धारयित्र्यः पोषयित्र्यो वा जनित्रीः जनयित्र्य ओषधयः अन्नावृधम् अन्नस्य वर्धकं **त्वा** त्वाम् **अन्नैः** हेतुभिः प्रति **चरन्ति** परिचरन्ति अभिगच्छन्ति । ततस्त्वम् ईम् एना: **ताः** ओषधीः **प्रत्येषि** प्रतिगच्छसि । पुनरपि **अन्यरूपाः** जीर्णा ओषधीर्दावभूतस्त्वं गच्छसि । किंच **मानुषीषु** मनुष्यजातिषु **विक्षु** प्रजासु । यद्वा। विश्वग्निहोत्रादिक्रियास्वभिनिविशन्तीषु मानुषीषु मनुष्यजातिषु । **होता** देवानामाह्वाता होमनिष्पादको वा **असि** भवसि । मनुष्येषु स्थित इत्यर्थे ब्राह्मणं-- देवो ह्येष मर्त्येषु' (तै. सं. ६. १. ४. ६-७ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ genre M
 Assumed other forms: as the4 fire which consumes the drytimber
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And then your birth-givers [=kindling wood], bringing nurture, proceed  toward you, who are strengthened by food, with food;  
 you go toward them in turn as they (acquire) other forms [=burn]. You  are the Hotar among the clans of Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thence bearing food the Mothers come to meet thee, with food for thee who givest food its increase.  
      These in their altered form again thou meetest. Thou art Invoking Priest in homes of mortals.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann kommen dir, dem durch Speise Wachsenden, die Nahrung bringenden Erzeugerinnen mit Speisen entgegen. Zu ihnen kehrst du wieder zurück, wenn die andere Gestalt angenommen haben. Du bist der Opferpriester unter den menschlichen Stämmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum kommen auch die Mütter, die dich nähren, mit Speisen her zu dir, der Speisen gern hat, Und wieder nahest du den neu geschmückten, du bist der Priester in der Menschen Häusern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэтому-то несущие питание родительницы к тебе,  
 Растущему от еды, и приближаются с едой.  

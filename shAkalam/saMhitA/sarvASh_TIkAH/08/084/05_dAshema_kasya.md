@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दा꣡शेम क꣡स्य म꣡नसा  
 यज्ञ꣡स्य सहसो यहो  
 क꣡द् उ वोच इदं꣡ न꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 कत् । ऊं॒ इति॑ । वो॒चे॒ । इ॒दम् । नमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dāśema* ← *dāś*
 - \[verb\], plural, Present optative
@@ -87,36 +87,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ऋषिरग्निं प्रति ब्रूते । हे सहसो **यहो** । यहुरित्यपत्यनाम । बलेन निष्पाद्यमानत्वाद्बलस्य पुत्र हे अग्ने **कस्य** कीदृशस्य **यज्ञस्य** यज्ञवतो यजनीयदेववतो यजमानस्य **मनसा** युक्ताः सन्तो हवींषि तुभ्यं वयं **दाशेम** प्रयच्छेम । पूजायां बहुवचनम् । किंच तुभ्यम् **इदं** **नमः** हविर्नमस्कारं वा **कत्** कदा **वोचे** अहं वदामि । **उ** इति प्रश्ने । ऋषिः कदा यक्ष्यामि कदा स्तोष्यामीत्यग्निं पृच्छति । वोचे । वच्यादेशस्य लुङ्यात्मनेपद उत्तमैकवचने रूपम् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Son of strength, what worshipper's (offerings) shall we present to you with devoted mind, and whenshall I utter to you this praise?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With our mind on what sacrifice might we do pious service, o youthful  (son) of strength?  
 And what shall I speak as homage here?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May serve thee, O thou Child of Power, and with what sacrifice's plan?  
      What prayer shall I now speak to thee?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit welchem Gedanken an das Opfer sollen wir dir aufwarten, jüngster Sohn der Kraft? Was soll ich jetzt als Anbetung sprechen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit welchem frommen Geiste dir, o Sohn der Stärke, huldigen? Wie soll ich sprechen dies Gebet?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С мыслью о какой жертве  
 Мы хотим почтить (тебя), о юный сын силы?  

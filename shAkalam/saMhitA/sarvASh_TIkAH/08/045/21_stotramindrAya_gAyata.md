@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तोत्र꣡म् इ꣡न्द्राय गायत  
 पुरुनृम्णा꣡य स꣡त्वने  
 न꣡किर् यं꣡ वृण्वते꣡ युधि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नकिः॑ । यम् । वृ॒ण्व॒ते । यु॒धि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stotram* ← *stotra*
 - \[noun\], accusative, singular, neuter
@@ -81,36 +81,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यम्** इन्द्रं **युधि** युद्धे **नकिः** **वृण्वते** केऽपि न वारयन्ति तस्मै **सत्वने** दानशीलाय **पुरुनृम्णाय** बहुधनाय **इन्द्राय** **स्तोत्रं** **गायत** पठत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing the praise to **Indra**, who is rich in wealth and bountiful, whom none can slay in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing a praise song to Indra, the warrior of much manliness,  
 whom none obstruct in battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra sing a song of praise, Hero of mighty valour, him  
      Whom no one challenges to war.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Singet auf Indra ein Preislied, auf den Krieger von vielem Mut, den sie im Kampf nicht aufhalten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra singet Lobgesang, dem mannesstarken, tapferen, Dem niemand widersteht im Kampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пойте хвалу Индре,  
 Воину большого мужества,  

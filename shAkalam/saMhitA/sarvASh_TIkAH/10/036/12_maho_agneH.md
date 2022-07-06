@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महो꣡ अग्नेः꣡ समिधान꣡स्य श꣡र्मणि  
 अ꣡नागा मित्रे꣡ व꣡रुणे सुअस्त꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 श्रेष्ठे॑ । स्या॒म॒ । स॒वि॒तुः । सवी॑मनि । तत् । दे॒वाना॑म् । अवः॑ । अ॒द्य । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
@@ -121,36 +121,36 @@ genre M;; repeated line
 **समिधानस्य** समिध्यमानस्य **महः** महतः **अग्नेः** **शर्मणि** सुखे वयं **स्याम** भवेम । किंच वयम् **अनागाः** अनागसः । वचनव्यत्ययः । स्याम । अपि च **मित्रे** **वरुणे** मित्रावरुणयोः । षष्ठ्यर्थे सप्तमी । **सवितुः** च **सवीमनि** प्रसवे **स्वस्तये** सर्वप्रकाराविनाशाय स्याम । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we free from sin be in the (enjoyment of the) happiness of the mighty kindled **Agni**; and in (thekeeping of) **Mitra** and **Varuṇa** for our welfare; may we be among the excellent progeny of **Savitā**; we solicittoday this protection of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the shelter of great Agni while he is being kindled (may we be)  blameless to Mitra and Varuṇa for our well-being;  
 may we be under the best impulsion of Savitar. – This help of the gods  we choose today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In great enkindled Agni's keeping, and, for bliss, free from all sin before Mitra and Varuna.  
      May we share Savitar's best animating help. We crave this gracious favour of the Gods to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter dem Schutze des großen entflammten Agni, schuldlos vor Mitra und Varuna zu unserem Heile möchten wir unter der besten Anweisung des Savitri stehen. - Diese Gunst der Götter erbitten wir heute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst in des grossen Agni, des entflammten, Schutz uns schuldlos sein vor Mitra, Varuna zum Heil, Und in der schönsten Gnadenwirkung Savitars, die Gunst der Götter wünschen heute wir herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Под защитой великого зажженного Агни,  
 Невиновные перед Митрой, Варуной для благополучия,  

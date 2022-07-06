@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धेनु꣡ष् ट इन्द्र सूनृ꣡ता  
 य꣡जमानाय सुन्वते꣡  
 गा꣡म् अ꣡श्वम् पिप्यु꣡षी दुहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गाम् । अश्व॑म् । पि॒प्युषी॑ । दु॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhenuṣ* ← *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
@@ -81,35 +81,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** ते तव **सूनृता** स्तुतिरूपा वाक् **धेनुः** दोग्ध्री गौर्भूत्वा **सुन्वते** सोमाभिषवं कुर्वते **यजमानाय** **गामश्वं** च । उपलक्षणमेतत् । गवाश्वादिकं सर्वमभिलषितं **दुहे** दुग्धे । किं कुवती । **पिप्युषी** तमेव प्रवर्धयित्री ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your praise, **Indra**, is a cow to the worshipper offering the libations, it milks him in abundance cattle andhorses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your liberal spirit is a milk-cow for the sacrificer, for the presser: swelling, she gives the cow and horse as her milk.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To worshippers who press the juice thy goodness, Indra, is a cow  
      Yielding in plenty kine and steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Großmut ist für den Opfernden, Somapressenden eine Milchkuh, Indra. Überschwenglich läßt sie Rind und Roß aus sich melken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du lohnst mit einer Wunderkuh dem Opferer, der Soma braut; Sie strömet strotzend Rind und Ross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Милость твоя, о Индра, – дойная корова  
 Для жертвователя, выжимающего (сому).  

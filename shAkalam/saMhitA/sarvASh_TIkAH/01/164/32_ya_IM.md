@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ईं चका꣡र न꣡ सो꣡ अस्य꣡ वेद  
 य꣡ ईं दद꣡र्श हि꣡रुग् इ꣡न् नु꣡ त꣡स्मात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बहुप्रजा꣡ नि꣡रृतिम् आ꣡ विवेश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । मा॒तुः । योना॑ । परि॑ऽवीतः । अ॒न्तः । ब॒हु॒ऽप्र॒जाः । निःऽऋ॑तिम् । आ । वि॒वे॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -149,7 +149,7 @@ popular
 अत्र गर्भवासक्लेशपूर्वकजननप्रतिपादनेन तत्परिहाराय आत्मा ज्ञातव्यः इत्यर्थात् प्रतिपाद्यते। **यः** पुमान् पुत्रार्थी **ईम्** एनं गर्भं **चकार** करोति विक्षिपति वा तत्कारणभूतस्य विक्षेपद्वारेण **न** **सः** पुमान् **अस्य** तत्त्वं **वेद** ॥ कर्मणि षष्ठी वा ॥ एनं गर्भं न जानाति । कथंभूतः कथं वा केन प्रयोजनेनेति सर्वात्मना न जानातीत्यर्थः । **यः** च मातुरुदरस्थं **ददर्श** उदरवृद्ध्यन्यथानुत्पत्त्या अनुमानेन वा दर्शयति **तस्मात्** द्रष्टुः सकाशात् सः **हिरुगिन्नु** । हिरुगित्यन्तर्हितनाम । इच्छब्दः एवकारार्थः । नु निश्चये । अत्यन्तमन्तर्हित एव खलु । यद्वा । यः संसारावस्थायाम् ईम् एनं कृषिवाणिज्यवेदाध्ययनादिकं चकार सोऽस्य एतन्न वेद लोकान्तरे जन्मान्तरे वा । तथा यः ईमेनं ददर्श गिरिनदीसमुद्रबन्ध्वादिकं ददर्श जीवनसमये तस्मात् दृष्टात् हिरुगिन्नु पृथगेव । अत्रानुभूतं सर्वं न जन्मान्तरे लोकान्तरे वा अनुभवतीत्यर्थः। **सः** तादृशः **मातुः** जनन्याः **योना** योनौ **अन्तः** **परिवीतः** उल्बजरायुभ्यां परितो वेष्टितः सन् **बहुप्रजाः** बहुजन्मभाक्। अथवा । उत्पन्नः सन् स्वयमपि अपत्योत्पादनेन बहुप्रजाः । एवं गर्भदुःखमनुभवन् निर्ऋत्याभिधानं प्रदुःखमनुभवति यावत् स्वरूपभूतात्मज्ञानम् । अतस्तपरिहाराय आत्मा ज्ञातव्यः इत्युक्तं भवति । एवमात्मविदामभिप्रेतोऽर्थः। नैरुक्तानां तु मते य ईं चकार मध्यस्थानो वायुर्मेघो वा एतद्वृष्ट्युदकं करोति सोऽस्य । तत्वमिति शेषः । अथवा एतत्कर्म न जानाति । तयोरचेतनत्वादिति भावः । यस्तु ईम् एतद्ददर्श पश्यति तस्मादपि हिरुक् अन्तर्हितः। प्राणिकर्मवशेन काले वर्षिता परमेश्वरः आदित्यात्मनि गूढः इत्यर्थः । य ईं हिरुगन्तर्हितम् ईम् एतद्ददर्श पश्यति स वृष्टिलक्षणः पुत्रो मातुर्निर्मातुरन्तरिक्षस्य योनौ योनिवदुत्पत्त्याधारभूतेऽन्तरिक्षे । उभयोरप्यन्तरिक्षनामत्वात् सामान्यविशेषभावो द्रष्टव्यः । अन्तरिक्षैकदेशे योन्यामन्तर्मध्ये बहुप्रजाः बहुप्रजातान्नो बहुप्राण्युपकारी । अथवा । जनिः अत्र अन्तर्भावितण्यर्थः । बहूनां धाराणां सस्यनिष्पादनद्वारेण प्राणिनां वा प्रजनयिता सन् । **निर्ऋतिं** निरमणसाधनां भूमिम् **आ** **विवेश** प्रविशति प्राप्नोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -160,30 +160,30 @@ popular
 He who has: Man; **Nirukta**, considers wind as the cause of rain and alludes to it allegorically
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who created him does not know him. He is far away from him who  has seen him.  
 He is surrounded within the womb of his mother. Having many  
 offspring, he has entered into destruction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath made him cloth not comprehend him: from him who saw him surely is he hidden.  
      He, yet enveloped in his Mother's bosom, source of much life, hath sunk into destruction.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer ihn hervorgebracht hat, der kennt ihn nicht; wer ihn gesehen hat, dem entschwindet er. In den Schoß der Mutter eingehüllt ist er der Vernichtung verfallen, während er viele Nachkommen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der ihn geschaffen hat, der kennt ihn nicht; der ihn gesehen hat, vor dem ist er verborgen; wenn er noch vom Mutterschose umhüllt ist, ist er, der kinderreiche [die Regengüsse als Kinder des Blitzes gedacht], schon dem Untergang verfallen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто его создал, тот его не ведает.  
 Кто его видел, от того он тут же прочь.  

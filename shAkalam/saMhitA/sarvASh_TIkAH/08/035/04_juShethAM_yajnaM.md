@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुषे꣡थां यज्ञ꣡म् बो꣡धतं ह꣡वस्य मे  
 वि꣡श्वेह꣡ देवौ स꣡वना꣡व गछतम्  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 इ꣡षं नो वोळ्हम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 24
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । आ । इष॑म् । नः॒ । वो॒ळ्ह॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣethāṃ* ← *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
@@ -126,36 +126,36 @@ genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 24
 हे अश्विनौ **यज्ञं** **जुषेथां** सेवेथाम् । **मे** मम **हवस्य** हवं **बोधतं** जानीतम् । **इह** यज्ञे **विश्वा** **सवना** सर्वाणि सवनानि **अव** **गच्छतं** प्राप्नुतम् । **इषम्** अन्नं **नः** **आ** **वोळ्हं** प्रापयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be gratified by the sacrifice; hear my invocation; recognize, deities, all the offerings in this ceremony;united with the dawn and with **Sūrya**, bring us **Aśvins**, food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enjoy the sacrifice; take heed of my call. – Come down here to all our  pressings, o gods.  
 In concert with Dawn and the Sun, convey refreshment to us, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Accept the sacrifice, attend to this my call: come nigh, O ye Twain Gods, to all libations here.  
      Accordant, of one mind with Surya and with Dawn, O Asvins, bring us strengthening food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Habt Wohlgefallen am Opfer, achtet auf meinen Ruf, findet euch, beide Götter, bei allen Trinkopfern hier ein, einträchtig mit Usas und Surya bringt uns Labsal, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniesst das Opfer, achtet recht auf meinen Ruf; zu allen Spenden kommt, o Götter hier herab, Und mit der Sonn' und Morgenröthe im Verein, o Ritter, fahrt uns Labung zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайтесь жертвой, внимайте зову моему!  
 Спускайтесь сюда, о два бога, на все выжимания (сомы)!  

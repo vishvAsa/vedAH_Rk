@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ वन्दस्व व꣡रुणम् बृह꣡न्तं  
 नमस्या꣡ धी꣡रम् अमृ꣡तस्य गोपा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पातं꣡ नो द्यावापृथिवी उप꣡स्थे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । शर्म॑ । त्रि॒ऽवरू॑थम् । वि । यं॒स॒त् । पा॒तम् । नः॒ । द्या॒वा॒पृ॒थि॒वी॒ इति॑ । उ॒पऽस्थे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 हे स्तोतः **बृहन्तं** महान्तं **वरुणम्** **एव** एवं **वन्दस्व** स्तुहि । **अमृतस्य** **गोपां** गोपायितारं **धीरं** प्राज्ञं वरुणं **नमस्य** नमस्कुरु च । **सः** वरुणः **नः** अस्मभ्यं त्रिवरूथं त्रिस्थानं **शर्म** गृहं **वि** **यंसत्** प्रयच्छतु । **उपस्थे** उपस्थाने वर्तमानान् **नः** अस्मान् **द्यावापृथिवी** द्यावापृथिव्यौ **पातं** रक्षतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 Thrice-shelteringhabitation: trivarūtha (RV. 6.46.9) = sheltering from cold, heat and rain; here, tristhānam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Extol lofty Varuṇa thus: offer reverence to the insightful herdsman of the  immortal.  
 He will extend to us shelter providing threefold defense. Protect us in  your lap, o Heaven and Earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So humbly worship Varuna the Mighty revere the wise Guard of World Immortal.  
      May he vouchsafe us triply-barred protection. O Earth and Heaven, within your lap preserve us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So lobpreiset denn den hohen Varuna, mache dem weisen Hüter der Unsterblichkeit eine Verbeugung! Er breite über uns seinen dreifach schützenden Schirm aus. Behütet uns, Himmel und Erde, in eurem Schoße!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So preise hoch nun Varuna, den grossen, bet' an den weisen Hort des Götterreiches, Er reiche Schutz, der dreifach uns beschirmet; o Erd' und Himmel hegt in eurem Schooss uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прославляй так Варуну могучего,  
 Поклоняйся мудрому пастырю бессмертия!  

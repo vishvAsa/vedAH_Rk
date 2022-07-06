@@ -8,7 +8,7 @@ title = "+008"
 ‘आ नो विश्वाभिः' इति त्रयोविंशत्यृचं तृतीयं सूक्तं सध्वंसाख्यस्य काण्वस्यार्षमानुष्टुभम्। एतदादीनि त्रीणि सूक्तान्यश्विदेवत्यानि । तथा चानुक्रान्तम्-’आ नस्त्र्यधिका सध्वंस आश्विनं ह्यानुष्टुभं तु ' इति । प्रातरनुवाक आश्विने क्रतावानुष्टुभे छन्दस्याश्विनशस्त्रे चैतत्सूक्तम् । सूत्र्यते हि- आ नो विश्वाभिस्त्यं चिदत्रिमित्यानुष्टुभम्' (आश्व. श्रौ. ४. १५) इति । अप्तोर्यामे प्रशास्तुरतिरिक्तोक्थेऽप्येतत् । सूत्रितं च-’आ नो विश्वाभिः प्रातर्यावाणा' (आश्व. श्रौ. ९. ११) इति । चतुर्थेऽहनि प्रउगशस्त्रे ‘आ नो विश्वाभिः' इत्याश्विनस्तृचः । सूत्रितं च-’आ नो विश्वाभिरूतिभिस्त्यमु वो अप्रहणम्' (आश्व. श्रौ. ७. ११) इति ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 8 (628)  
 Aśvins  
@@ -18,7 +18,7 @@ Despite the Anukramaṇī ascription, the poet of this hymn repeatedly identifie
 of Viṣṇu’s three strides is probably deliberate, but the reasons for it unclear. There is little other content in the hymn beyond the urged journey, the offered  sacrifice, and the expressed hopes for bounties in exchange. Verse 10 briefly and  obliquely alludes to the maiden Sūryā’s mounting of the Aśvins’ chariot, from the  well-known myth about Sūryā’s marriage, and the names of some successful clients  of the Aśvins are listed in verses 20–21.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
 </details>

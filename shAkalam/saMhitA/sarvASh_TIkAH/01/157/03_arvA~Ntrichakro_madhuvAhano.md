@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वा꣡ङ् त्रिचक्रो꣡ मधुवा꣡हनो र꣡थो  
 जीरा꣡शुवो अश्वि꣡नोर् यातु सु꣡ष्टुतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शं꣡ न आ꣡ वक्षद् द्विप꣡दे च꣡तुष्पदे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्रि॒ऽव॒न्धु॒रः । म॒घऽवा॑ । वि॒श्वऽसौ॑भगः । शम् । नः॒ । आ । व॒क्ष॒त् । द्वि॒ऽपदे॑ । चतुः॑ऽपदे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
@@ -132,7 +132,7 @@ genre M
 **अश्विनोः** **रथः** **अर्वाङ्** अस्मदभिमुखः **यातु** गच्छतु । कीदृशः । **त्रिचक्रः** चक्रत्रययुक्तः **मधुवाहनः** मधुवोढा **जीराश्वः** शीघ्रगाम्यश्वोपेतः **सुष्टुतः** अत एवास्माभिः स्तूयमानः **त्रिवन्धुरः** निम्नोन्नतकाष्ठत्रयोपेतः । सारथ्याश्रयस्थानं वन्धुरम् । **मघवा** धनवान् अत एव **विश्वसौभगः** सर्वसौभाग्योपेतः । ईदृशोऽश्विनोः रथः **नः** अस्माकं **द्विपदे** पुत्रादिप्रजायै **चतुष्पदे** पशवे च **शं** सुखम् **आ** **वक्षत्** आवहतु ॥ वहेर्लेटि अडागमः । सिप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,30 +143,30 @@ genre M
 Our people and our cattle: dvipade-catuṣpade = liṭ, to our bipeds and quadrupeds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the three-wheeled, honey-bearing chariot of the Aśvins with its swift  horses, which is well-praised, journey near.  
 With its three chariot boxes, the generous (chariot), bringing all good  shares, will carry good fortune here to both the two-footed and  
 four-footed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nigh to us come the Asvins' lauded three-wheeled car, the car laden with meath and drawn by fleet-foot steeds,  
      Three-seated, opulent, bestowing all delight. may it bring weal to us, to cattle and to men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Näher soll der dreirädrige Wagen der Asvin, der Honig führt, mit den raschen Rossen, schönbesungen kommen. Der dreisitzige, gabenreiche, der alle Glücksgüter hat, bringe unseren Zweifüßlern und Vierfüßlern Heil.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit raschen Rossen komm der Ritter Wagen her, der auf drei Rädern, hochgepriesen, Süsses bringt, Und in drei Sitzen reichlich allen Segen birgt, er fahre Glück dem Menschen und dem Vieh herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть приедет сюда прекрасно восхваленная трехколесная  
 Везущая мед быстроконная колесница Ашвинов!  

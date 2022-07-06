@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ श꣡र्धाय मा꣡रुताय स्व꣡भानवे  
 श्र꣡वो अ꣡मृत्यु धु꣡क्षत  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 या꣡ सुम्नइ꣡र् एवया꣡वरी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 या । मृ॒ळी॒के । म॒रुता॑म् । तु॒राणा॑म् । या । सु॒म्नैः । ए॒व॒ऽयाव॑री ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -102,7 +102,7 @@ genre M
 **या** धेनुः **अमृत्यु** अमरणहेतु **श्रवः** अन्नं पयोलक्षणं **मारुताय** मरुत्संघाय **धुक्षत** अधुक्षत् । कीदृशाय । **शर्धाय** प्रसहनशीलाय **स्वभानवे** स्वायत्तदीप्तये । **या** च **तुराणां** क्षिप्रकारिणां  **मरुतां** **मृळीके** सुखे तत्परा वर्तते । **या** च **सुम्नैः** सुखैर्हेतुभूतैः **एवयावरी** एवैर्गन्तृभिरश्वैर्मध्यमस्थानैरुदकैर्वा सह यान्ती अन्येषामपि सुखार्थं वृष्टिजलैः सहागच्छन्ती तां धेनुमुपाजध्वमिति पूर्वत्रान्वयः । अत्रापि पूर्ववत् मरुत्स्तुतिरधिगन्तव्या ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,12 +115,12 @@ Sumnair evayāvarī: means of happiness, sukhahetubhūtaiḥ;
 Evayāvari = from eva, who or what goes, as a horse, or the water of mid-air, the rain, and yāvarī, she who gies with, **saha** **yāti** ya, that is, who proceeds with rains, giving plural asure to others, anyeṣām sukhārtam vṛṣṭijālaiḥ saha gacchanti
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who will milk out undying fame for the self-radiant troop of Maruts, who is in the grace of the precipitous Maruts, who goes her own way  with benevolent thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation renders dhúkṣata as if it were a subjunctive (“will milk out”; sim. Geldner) to an s-aor., but the form must be an injunctive to a sa-aor., given the augmented forms ádhukṣata, etc., and the sec. ending -ta. Of course, the injunc.
 
@@ -137,23 +137,23 @@ On these three vss., see published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who, for the host of Maruts bright with native sheen, hath shed immortal fame like milk;  
      Whom the impetuous Maruts look upon with love, who moves in splendour on their ways.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die der selbstglänzenden marutischen Heerschar unsterblichen Ruhm spenden wird, die in der Gnade der überlegenen Marut steht, die mit ihren Gunsterweisungen willfährig ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die strömen soll der lichtbegabten Marutschar ruhmvolles, unvergängliches, Die in der Huld der sieggewohnten Maruts steht, und mit Genüssen eilend kommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (К той,) что для толпы марутовой с собственным блеском  
 Дает надоить бессмертную славу,  

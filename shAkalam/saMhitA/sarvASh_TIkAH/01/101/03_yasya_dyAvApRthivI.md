@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य द्या꣡वापृथिवी꣡ पउं꣡सियम् मह꣡द्  
 य꣡स्य व्रते꣡ व꣡रुणो य꣡स्य सू꣡रियः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मरु꣡त्वन्तं सखिया꣡य हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यस्य॑ । इन्द्र॑स्य । सिन्ध॑वः । सश्च॑ति । व्र॒तम् । म॒रुत्व॑न्तम् । स॒ख्याय॑ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -116,41 +116,41 @@ genre M;; repeated line
 **यस्य** इन्द्रस्य **महत्** विपुलं **पौंस्यं** बलं **द्यावापृथिवी** द्यावापृथिव्यावनुवर्तेते । **यस्य** चेन्द्रस्य **व्रते** नियमरूपे कर्मणि **वरुणः** वर्तते । वरुणोऽपीन्द्रस्य नियमनं नातिक्रामतीत्यर्थः । अपि च **सूर्यः** अपि **यस्य** इन्द्रस्य व्रते वर्तते । तथा **यस्य** **इन्द्रस्य** **व्रतं** कर्म **सिन्धवः** नद्यः **सश्चति** । वचनव्यत्ययः । गच्छन्ति । सश्चतिर्गतिकर्मा । इन्द्रेणानुशिष्टाः प्रवहन्तीत्यर्थः । तं **मरुत्वन्तम्** इन्द्रं **सख्याय** आह्वयामहे ॥ द्यावापृथिवी । द्यौश्च पृथिवी च द्यावापृथिव्यौ । ‘ दिवो द्यावा ' इति द्यावादेशः । स चाद्युदात्तो निपातितः । पृथिवीशब्दो ङीष्प्रत्ययान्तः अन्तोदात्तः । ‘ देवताद्वन्द्वे च' इत्युभयपदप्रकृतिस्वरत्वम् । “ वा छन्दसि ' इति पूर्वसवर्णदीर्घः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “We invoke to become our friend, **Indra**, who is attended by the **Maruts**; whose great power (pervades) heaven and earth, in whose service **Varuṇa** and **Sūrya** are steadfast, and whose commadn the rivers obey.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose great masculine nature Heaven and Earth (strengthen); in whose  commandment is Varuṇa, in whose is Sūrya,  
 Indra, whose commandment the rivers follow—the one accompanied by  the Maruts do we call upon for partnership.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a lacks a verb. Tr. supply variously: Geldner “sich fügen,” Renou “ont assigné,” Witzel Gotō “folgen.” I supply a form of √vṛdh ‘strengthen, increase’ on the basis of formulaically similar VIII.15.8 táva dyaúr indra paúṃsyam, prthiv ̥ ī́vardhati śrávaḥ, and other passages where paúṃsyam is obj. of √vrdh ̥ (I.155.3, VIII.6.31).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He whose great work of manly might is heaven and earth, and Varuna and Surya keep his holy law;  
      Indra, whose law the rivers follow as they flow,--him girt by Maruts we invoke to be our Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des großer Manneskraft Himmel und Erde sich fügen, in des Gebot Varuna, in des Gebot die Sonne stehen, Indra, des Gebot die Ströme folgen, - den Marutbegleiteten rufen wir zur Freundschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des grosser Stärke Erd' und Himmel folgsam sind, in dessen Macht Varuna steht und Suria, Den Indra, dessen Macht der Ströme Flut gehorcht, ihn und die Maruts rufen wir zum Bündniss her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От чьей великой мужской силы (зависят) небо и земля,  
 В чьем обете – Варуна, в чьем – Сурья,  

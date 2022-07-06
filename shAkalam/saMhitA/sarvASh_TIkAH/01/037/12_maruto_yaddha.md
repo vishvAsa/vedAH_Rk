@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡रुतो य꣡द् ध वो ब꣡लं  
 ज꣡नाँ अचुच्यवीतन  
 गिरीँ꣡र् अचुच्यवीतन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गि॒रीन् । अ॒चु॒च्य॒वी॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
@@ -80,35 +80,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **मरुतः** **यद्ध** यस्मादेव कारणात् **वः** युष्माकं **बलम्** अस्ति अस्मादेव कारणात् **जनान्** प्राणिनः **अचुच्यवीतन** स्वस्वव्यापारेषु प्रेरयत । तथा **गिरीन्** मेघान् **अचुच्यवीतन** प्रेरयत ॥ मरुतः । आमन्त्रिताद्युदात्तत्वम् । अचुच्यवीतन । च्यवतेर्लङि व्यत्ययेन परस्मैपदम् । ‘तप्तनप्तनथनाश्च इति तस्य तनबादेशः।  ‘ बहुलं छन्दसि ' इति शपः श्लुः। ‘बहुलं छन्दसि' (पा. सू. ७. ३.९७) इति ईडागमः । गुणावादेशौ । तिङ्ङतिङः' इति निघातः । गिरीन् । दीर्घादटि समानपादे' इति संहितायां नकारस्य रुत्वम् । अत्रानुनासिकः' इति ईकारस्यानुनासिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, as you have vigour, invogorate mankind; give animation to the clouds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Maruts, since you have the strength, you have stirred up the peoples and stirred up the mountain-peaks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Maruts, as your strength is great, so have ye cast men down on earth,  
      So have ye made the mountains fall.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Marut, mit eurer Kraft habt ihr die Menschen erschüttet, habt ihr die Berge erschüttert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach eurer Kraft, o Maruts, habt der Menschen Volk ihr aufgeregt, Habt ihr die Berge aufgeregt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Маруты, (та) сила, что у вас, –  
 (Ею) вы поколебали людей,  

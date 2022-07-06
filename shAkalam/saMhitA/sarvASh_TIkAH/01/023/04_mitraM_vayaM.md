@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्रं꣡ वयं꣡ हवामहे  
 व꣡रुणं सो꣡मपीतये  
 जज्ञाना꣡ पूत꣡दक्षसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ज॒ज्ञा॒ना । पू॒तऽद॑क्षसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
@@ -78,36 +78,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वयम्** अनुष्ठातारः **सोमपीतये** सोमपानार्थं **मित्रं** **वरुणं** च उभौ आह्वयामः । कीदृशावुभौ । **जज्ञाना** कर्मप्रदेशे प्रादुर्भवन्तौ **पूतदक्षसा** शुद्धबलौ ॥ वरुणम् । ‘वृञ् वरणे'। ‘कृवृतॄदारिभ्य उनन्' ( उ. सू. ३. ३३३)। नित्त्वादाद्युदात्तः । सोमपीतये। दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् । जज्ञाना ।  ‘ जनी प्रादुर्भावे'। 'छन्दसि लिट् ' (पा. सू. ३. २. १०५ )। तस्य ‘लिटः कानज्वा' (पा. सू. ३. २. १०६ ) इति कानजादेशः । गमहन' इत्यादिना उपधालोपः । तस्य ' अचः परस्मिन् ' इति स्थानिवद्भावात् जनशब्दस्य द्विर्वचनम् । “ स्तोः श्चुना श्चुः' ( पा. सू. ८. ४.४०) इति नकारस्य अकारः ।  ‘ चितः' इत्यन्तोदात्तत्वम् । पूर्ववत् आकारः । पूतदक्षसा । पूञ् पवने'।' निष्ठा' इति क्तः । श्र्युकः किति ' (पा. सू. ७. २. ११) इति इट्प्रतिषेधः । पूतं दक्षो ययोस्तौ ।' बहुव्रीहौ प्रकृत्या ' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke **Mitra** and **Varuṇa**, becoming present at the sacrifice, and of pure strength, to drink the **Soma** juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mitra do we call and Varuṇa, for soma-drinking—  
 the two born with refined skill.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mitra and Varuna, renowned as Gods of consecrated might,  
      We call to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitra rufen wir, und Varuna, zum Somatrunk, die mit lauterer Wirkenskraft geboren sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Somatrunke laden wir den Mitra und den Varuna, Die reingesinnten von Geburt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Митру мы зовем,  
 Варуну для питья сомы,  

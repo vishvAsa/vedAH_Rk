@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गणा꣡नां त्वा गण꣡पतिं हवामहे  
 कविं꣡ कवीना꣡म् उपम꣡श्रवस्तमम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ नः शृण्व꣡न्न् ऊति꣡भिः सीद सा꣡दनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ज्ये॒ष्ठ॒ऽराज॑म् । ब्रह्म॑णाम् । ब्र॒ह्म॒णः॒ । प॒ते॒ । आ । नः॒ । शृ॒ण्वन् । ऊ॒तिऽभिः॑ । सी॒द॒ । साद॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gaṇānāṃ* ← *gaṇānām* ← *gaṇa*
 - \[noun\], genitive, plural, masculine
@@ -121,7 +121,7 @@ genre M
 ज्येष्ठ-राजं ज्येष्ठाःप्रशस्यतमाः तेषाम्मध्येराजन्तं ब्रह्मणाम्मन्त्रणां स्वामिनन्त्वात्वांहवामहे अस्मिन्कर्मण्याह्वयामः किञ्च नोस्माकं स्तुतीः आशृण्वन् त्वंऊतिभिः पाल नैर्हेतुभूतैः सादनंसीदन्त्यस्मिन्नितिसदनंयज्ञगृहमासीदोपविश ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ genre M
 Brahmaṇaspati = brahmaṇo annasya parivṛḍhasya karmaṇo vā pālayitā, the protector or cherisher of food,or of any great or solemn acts of devotion; he has other attributes in the text, as, gaṇānām **gaṇapatiḥ**, chief of the **gaṇas** (inferior deities); jyeṣṭharājam brahmaṇām, the best lord of **mantras**, or prayers: praśasyam svāminam mantrāṇām
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We call upon you, the troop-lord of troops, the most famous poet  of poets,  
 the preeminent king of sacred formulations, o lord of the sacred  
 formulation. Hearing us, sit down upon your seat together with your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WE call thee, Lord and Leader of the heavenly hosts, the wise among the wise, the famousest of all,  
      The King supreme of prayers, O Brahmanaspati: hear us with help; sit down in place of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir rufen dich, den Herrn der Sängerscharen an, den hochberühmtesten Weisen der Weisen, den Oberherrn der Segensworte, o Brahmanaspati. Höre uns an und setz dich mit deinen Hilfen auf den Sitz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rufen dich den Scharenherrn der Scharen an, den Weisen dich, der Weisen hochberühmtesten, Als der Gebete Fürsten dich, Gebetes Herr, mit Huld uns hörend setze dich auf deinen Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы призываем тебя, повелителя толпы,  
 Поэта из поэтов, обладающего высшей славой,  

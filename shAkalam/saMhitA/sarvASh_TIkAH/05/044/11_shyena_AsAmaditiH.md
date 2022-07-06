@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्येन꣡ आसाम् अ꣡दितिः कक्षि꣡यो म꣡दो  
 विश्व꣡वारस्य यजत꣡स्य मायि꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 विदु꣡र् विषा꣡णम् परिपा꣡नम् अ꣡न्ति ते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सम् । अ॒न्यम्ऽअ॑न्यम् । अ॒र्थ॒य॒न्ति॒ । एत॑वे । वि॒दुः । वि॒ऽसान॑म् । प॒रि॒ऽपान॑म् । अन्ति॑ । ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śyena* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 मददेवत्येयम् । विश्ववारादीनां त्रयाणामृषीणां स्वभूतः **आसाम्** अपां सोमरसलक्षणानां **मदः** **श्येनः** शंसनीयगमनः शीघ्रं पातृसकाशं गन्ता **अदितिः** अदीनोऽतिसमृद्धः **कक्ष्यः** कक्ष्यपूरकश्च भवतीति शेषः । ते विश्ववारादयः सत्रे प्रवृत्ताः **एतवे** सोमं प्राप्तुं तत्पानाय **अन्यमन्यं** परस्परं **सम्** **अर्थयन्ति** याचन्तेऽनुज्ञाम् । **ते** **विषाणं** विशेषेण मदस्य दातारं **परिपानम्** **अन्ति** अन्तिके **विदुः** जानन्ति लभन्ते वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,14 +135,14 @@ Swift iṣ..inebriation: **śyena** āsām **aditiḥ** kakṣyo **madaḥ**: ś
 **Mada** = intoxication, is the **devatā** of the verse
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (While still) a falcon, (soma) is unboundedness for these (females  [=poems/waters/cows]); (when it becomes) the exhilarating drink, it  is their girding—for the one deserving the sacrifice, provided with all  desirable things, master of artifice.  
 They [=priests] make (the females) set their goal to go to one after the  other (of Soma and Agni) in turn. They know (that) unharnessing  
 and drinking in rounds (are) at hand.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 If it is possible for this hymn to get more obscure, it does so in this vs. (Note that Oldenberg simply gives up in vss. 11-13.) Nonetheless, I think a consistent interpr. can be constructed and one that fits well with the increasing pace of the depiction of the ritual in the last few vss. The theme that unifies the vs. is that of ritual binding and unbinding -- conveyed by the words áditi-, which I take as the abstract ‘unboundedness’ not the name of the goddess, kakṣyà- ‘girding’, and viṣā́na- ‘unharnessing’.
 
@@ -155,23 +155,23 @@ While Soma is still a falcon, swooping about in freedom before the sacrifice beg
 They are now directing the ritual proceedings. The first object of arthayanti is unexpressed, in my view: it is the female ritual elements, waters, milk, hymns. The priests send them to their ritual tasks, the waters and the cows’ milk to soma, the hymns to Soma and Agni. The two gods are here represented by the āmreḍita anyám- anyam ‘the one, the other; one after the other’. So far in the hymn the two gods have been fused into one, verbally speaking; here the āmreḍita is an intermediate step towards separating them, a step that allows for the introduction of a third god, Indra, in the next vs. In pāda d the priests realize that with the mobilization of all the elements of the ritual performance -- the soma, the ritual fire, the waters, milk, and hymns -- the climax of the sacrifice has been reached. The unharnessing of these elements can take place because all that remains is for the prepared soma to be drunk. This sets the stage for the premier soma-drinker, Indra, to appear on the scene, which he does in the next vs. The parallel forms viṣā́ṇam paripā́nam are both best taken as -ana-nouns to -ā́-roots, although Grassmann identifies the first as a root participle. Cf. AiG II.2.193.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The sacred hymns love him who wakes and watches: to him who watches come the Sama verses.  
      This Soma saith unto the man who watches, I rest and have my dwelling in thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Falke ist deren Aditi, der Rauschtrank des Visvarara, des Yajata, des Mayin füllt den Leibgurt. Sie beschließen zu einem um den anderen zu kommen; die wissen, daß Abzäumen und Umtrunk ihrer wartet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr [der Milchströme Vers 9] Adler [der sie ergreift] ist der unerschöpfliche, zugerüstete Rauschtrank des mit allem Gut versehenen, ehrwürdigen, weisen [Opferlierrn] ; einen andern und immer andern [Rauschtrank] rüsten sie zum Gange aus; sie verstehen sich auf den Trunk, der in ihrer Nähe gewährt ist.*)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сокол – Адити этих (песен). Пьянящий напиток  
 Вишвавары, Яджаты, Майина – ремень.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धर्ता꣡ दिवः꣡ पवते कृ꣡त्वियो र꣡सो  
 द꣡क्षो देवा꣡नाम् अनुमा꣡दियो नृ꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वृ꣡था पा꣡जांसि कृणुते नदी꣡षु आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 हरिः॑ । सृ॒जा॒नः । अत्यः॑ । न । सत्व॑ऽभिः । वृथा॑ । पाजां॑सि । कृ॒णु॒ते॒ । न॒दीषु॑ । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhartā* ← *dhartṛ*
 - \[noun\], nominative, singular, masculine
@@ -129,41 +129,41 @@ genre M
 **धर्ता** सर्वस्य धारकः सोमः **दिवः** अन्तरिक्षात् अन्तरिक्षस्थिताद्दशापवित्रात् **पवते** पूयते । कीदृशः सोमः । **कृत्व्यः** कर्तव्यः । शोध्य इत्यर्थः । **रसः** रसात्मको **देवानां** **दक्षः** बलप्रदः । यद्वा । दक्षः प्रवर्धनीयो देवानामर्थाय । तथा **नृभिः** नेतृभिर्ऋत्विग्भिः **अनुमाद्यः** अनुमदनीयः स्तुत्यो वा **हरिः** हरितवर्णः **सत्वभिः** प्राणिभिः सादिभिः **सृजानः** सृज्यमानः **अत्यो** **न** अश्व इव स यथा शिक्षितो **वृथा** अनायासेन गच्छति तद्वत् वृथा अप्रयत्नेन **पाजांसि** बलानि स्वीयान् वेगान् कृणुते कुरुते । **नदीषु** वस्तीवरीषु । ताभिरित्यर्थः । **आ** सिक्त इति शेषः । अयम् अभिषवसमयाभिप्रायः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Soma**) the sustainer (of all) flows from the firmament, the purifiable juice, the invigorator of the gods, worthy tobe praised by the priests; green-tinted like a horse let loose by the charioteers he easily restores his vigour in the waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The supporter of heaven purifies himself, the sap that gets results, the  skill of the gods to be celebrated by men.  
 The tawny one sent surging, like a charger by warriors, deploys his full  dimensions in the rivers at will.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On pā́jas- see comm. ad I.58.3. For a god making or assuming his pā́jas-, see, with medial forms of √kṛ, IV.4.1 kṛṇuṣvá pā́jaḥ (of Agni) as well as IX.88.5 vṛ́thā pā́jāṃsi kṛṇute nadī́ṣu, identical to our passage except with a Triṣṭubh cadence, and, with ā́√dā, IX.68.3 pā́ja ā́dade. Presumably in our passage and 88.5 it depicts the swelling of the soma stalks in the waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ON flows the potent juice, sustainer of the heavens, the strength of Gods, whom men must hail with shouts of joy.  
      The Gold-hued, started like a courser by brave men, impetuously winneth splendour in the streams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Träger des Himmels läutert sich, der den Sieg entscheidende Saft, die Kraft der Götter, von den Männern zu begrüßen. Der goldgelbe Falbe, der losgelassen wird wie ein Rennpferd von den Tapferen, nimmt in den Strömen nach Belieben seine Formen an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Träger rieselt, der gewalt'ge Saft, der Götter Krafttrunk, von den Männern gern begrüsst, Gleich wie ein Ross gespornt von Streitern, zeigt mit Lust der goldne Renner in den Strömen seinen Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поддерживатель неба очищается, действенный сок,  
 Сила действия богов, тот, кого должны приветствовать мужи.  

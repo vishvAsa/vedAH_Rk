@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ अस्मे꣡ अ꣡धि श꣡र्म त꣡त्  
 पक्षा꣡ व꣡यो न꣡ यन्तन  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M;; repeated line
 विश्वा॑नि । वि॒श्व॒ऽवे॒द॒सः॒ । व॒रू॒थ्या॑ । म॒ना॒म॒हे॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vy* ← *vi*
 - \[adverb\]
@@ -137,14 +137,14 @@ genre M;; repeated line
 हे आदित्याः यूयम् **अस्मे** **अधि** अस्मासु **तत्** । युष्मास्वेवासाधारणं यत् **शर्म** अस्ति तदित्यर्थः । तत् **वि** **यन्तन** विशेषेण प्रापयत । हे **विश्ववेदसः** सर्वधनाः युष्मान् **विश्वानि** सर्वाणि **वरूथ्या** । वरूथं गृहम् । तदुचितानि धनानि **मनामहे** याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant us that happiness of yours, as birds (spread) their wings; O you possessed of all wealth, wesolicit all riches suitable for our dwelling; your aids are void of harm, your aids are true aids.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Spread that shelter out over us, like birds their wings.  
 We revere all things providing defense, o you who possess all  
@@ -152,23 +152,23 @@ possessions.
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As the birds spread their sheltering wings let your protection cover us.  
      We mean all shelter and defence, ye who have all things for your own.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Spannet über uns diesen Schirm aus, wie Vögel die Flügel! Alle Schutzmittel haben wir im Sinne, ihr Allwissende. - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Schutz verbreitet über uns, wie Vögel ihrer Flügel Paar; Ja, alles, was uns schirmen kann, allwissende erflehen wir; ganz unvergleichlich ist eur Schutz und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы над нами защиту эту  
 Распространите, как птицы – крылья  

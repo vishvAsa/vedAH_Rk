@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ वा य꣡स्य वाजि꣡नो  
 अ꣡नु वि꣡प्रम् अ꣡तक्षत  
 स꣡ ग꣡न्ता गो꣡मति व्रजे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 सः । गन्ता॑ । गोऽम॑ति । व्र॒जे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -89,7 +89,7 @@ genre M
 **उत** **वा** अपि च **यस्य** यजमानस्य **वाजिनः** हविर्लक्षणान्नोपेता ऋत्विजः **विप्रं** मेधाविनं मरुद्गणम् **अनु** **अतक्षत** हविष्प्रदानादिना तीक्ष्णीकुर्वन्ति **सः** यजमानः **गोमति** बहुभिर्गोंभिर्युक्ते **व्रजे** गोष्ठे **गन्ता** गमनशीलो भवति । अतक्षत।  ‘ तक्षु त्वक्षू तनूकरणे'। छान्दसो लङ् । व्यत्ययेन मध्यमः । गन्ता । गमेस्ताच्छीलिकः तृन् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -100,12 +100,12 @@ genre M
 Atakṣata = have sharpened, i.e. have animated by their offerings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or for which prize-seeker you fashioned an inspired poet to follow, he will go to a pen full of cattle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, I take the vājín- here to be the patron, for whom the Maruts create a worthy poet.
 
@@ -121,23 +121,23 @@ As discussed in the published introduction, the syntax of these two verses is to
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, the strong man to whom ye have vouchsafed to give a sage, shall move  
      Into a stable rich in kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder welchem Preiskämpfer ihr einen Redekundigen zur Seite gabt, der gelangt zu rinderreicher Herde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und welches reichen Opferherrn Lobsänger ihr erkoren habt, Der kommt zu rinderreichem Stall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Или же, какому (жертвователю-) завоевателю наград  
 Вы создали на помощь вдохновенного,  

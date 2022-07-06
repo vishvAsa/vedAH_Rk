@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्जा꣡ देवाँ꣡ अ꣡वसि ओ꣡जसा तुवा꣡म्  
 पि꣡बा सो꣡मम् म꣡दाय कं꣡ शतक्रतो  
@@ -16,7 +16,7 @@ ChandaH = "शक्वरी"
 मरु꣡त्वाँ इन्द्र सत्पते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -37,7 +37,7 @@ genre M;; line affected by realignment;; repeated line
 यम् । ते॒ । भा॒गम् । अधा॑रयन् । विश्वाः॑ । से॒हा॒नः । पृत॑नाः । उ॒रु । ज्रयः॑ । सम् । अ॒प्सु॒ऽजित् । म॒रुत्वा॑न् । इ॒न्द्र॒ । स॒त्ऽप॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrjā* ← *ūrj*
 - \[noun\], instrumental, singular, feminine
@@ -150,21 +150,21 @@ genre M;; line affected by realignment;; repeated line
 हे इन्द्र त्वं **देवान्** **ऊर्जा** अन्नेन हविषा **अवसि** रक्षसि । **त्वाम्** अपि **ओजसा** बलेन अवसि । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Maghavan**, protect the gods with (sacrificial) food, and yourself by your might; drink joyfully,**Śatakratu**, the **Soma** for your exhilaration-- that portion which (the gods) assigned you, **Indra**, lord of the virtuous,who are the victor over all (hostile) hosts, the conqueror of many, the subduer of the waters, the leader of theMaruts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With nourishment you help the gods, with strength you help yourself. – O you of a hundred resolves, for exhilaration drink the soma that they  fixed as your portion—  
 you winning all battles, (winning) the broad expanse, entirely victorious  amid the waters, accompanied by the Maruts, o Indra, master of  
 settlements.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/036/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -174,23 +174,23 @@ Somewhat unusual 2nd ps. reflexive using the standard 2nd ps. pronoun: 2a áva t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou aidest Gods with food, and that with might aidg thee,  
      O Satakratu, drink Soma to make thee glad.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Kraft hilfst du den Göttern, mit Stärke dir selbst. Trink den Soma zum Rausche, Ratreicher, den sie dir als Anteil bestimmten - der du alle feindlichen Heere siegreich bestanden hast, den weiten Wettlauf, der du die Gewässer insgesamt ersiegst, im Verein mit den Marut, Indra, rechtmäßiger Herr!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Stärkung labst die Götter du, mit Kraft dich selbst, den Soma trink zum Rausch, o vielfach wirkender, Der durch das dir gereichte Theil du alle Schlachten und das weite Feld gewinnst, die Flut erbeutend mit den Maruts, Indra, Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Питательной силой ты помогаешь богам, мощью – самому себе.  
 Для опьянения пей сому, о стоумный,  

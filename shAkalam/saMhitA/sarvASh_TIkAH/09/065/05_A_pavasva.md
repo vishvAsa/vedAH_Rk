@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पवस्व सुवी꣡रियम्  
 म꣡न्दमानः सुआयुध  
 इहो꣡ षु꣡ इन्दव् आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इ॒हो इति॑ । सु । इ॒न्दो॒ इति॑ । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -97,7 +97,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **स्वायुध** । यज्ञे स्फ्यकपालादीनि दशायुधानीत्यभिधीयन्ते । शोभनानि तानि यस्य स तथोक्तः। यद्वा । धनुरादीन्यायुधानि यस्य सः । तादृश हे सोम त्वं **मन्दमानः** मोदमानः सन् । यद्वा। अन्तर्णीतण्यर्थः । देवान् स्वयं मादयन् । **सुवीर्यं** शोभनवीर्योपेतं पुत्रादिकमस्माकम् **आ** **पवस्व** । पवतिर्गत्यर्थः । आप्रापय । किंच हे **इन्दो** ग्रहेषु चमसेषु च क्षरणशील सोम **इहो** । इह उ पदद्वयम् । उ इत्यवधारणे । इहैवास्मदीये यज्ञ एव सुष्ठु **आ** **गहि** आगच्छ ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,13 +108,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Well-armed: or, having fine sacrificial implements, such as sphya, **kapāla**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By purifying yourself bring here an abundance of heroes, you yourself  becoming exhilarated, o you of good weapons.  
 Come just here, o drop.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -124,23 +124,23 @@ No obvious signs of unity
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou, rejoicing, nobly-armed! pour upon us heroic strength:  
      O Indu, come thou bitherward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere uns die Meisterschaft zu, dich berauschend, du Wohlbewaffneter! Komme doch fein, o Saft, hier her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle Heldenkraft herbei, erfreut, o schön bewaffneter, O Indu, komme schnell hieher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

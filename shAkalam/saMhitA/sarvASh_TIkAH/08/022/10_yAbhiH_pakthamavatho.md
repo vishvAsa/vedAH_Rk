@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः पक्थ꣡म् अ꣡वथो या꣡भिर् अ꣡ध्रिगुं  
 या꣡भिर् बभ्रुं꣡ वि꣡जोषसम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 भिषज्य꣡तं य꣡द् आ꣡तुरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ताभिः॑ । नः॒ । म॒क्षु । तूय॑म् । अ॒श्वि॒ना॒ । आ । ग॒त॒म् । भि॒ष॒ज्यत॑म् । यत् । आतु॑रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -112,36 +112,36 @@ genre M
 हे अश्विनौ **याभिः** ऊतिभिः **पक्थम्** एतन्नामकं राजानम् **अवथः** रक्षथः । **याभिः** ऊतिभिश्च **अध्रिगुम्** अधृतगमनं राजानमवथः । **याभिः** ऊतिभिश्च **बभ्रुं** राजानं च **विजोषसं** विशेषेण सोमैः प्रीणयन्तम् । एतान् सर्वान् यैः पालनैरवथः **ताभिः** तै रक्षणैः **मक्षु** क्षिप्रं **तूयं** तूर्णं **न** अस्मान् **आ** **गतं** रक्षणार्थमागच्छतम् । किंच **यत्** **आतुरं** रोगादिसहितमस्माकं पुत्रादिकं प्रति **भिषज्यतं** भैषज्यं कुरुतम् । भिषक्कण्ड्वादिः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With those protections with which you have defended **Paktha**, **Adhrigu**, and **Babhru**, when propitiatingyou, come to us, **Aśvins**, quickly; administer **medicine** to the sick.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With those (forms of help) with which you help Paktha, with which  Adhrigu, with which Babhru deprived of pleasure,  
 with these come to us right away and swiftly, o Aśvins. Heal what is ailing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The aids wherewith ye helped Paktha and Adhrigt;, and Babhru severed from his friends,-  
      With those, O Asvins, come hither with speed and soon, and heal whatever is diseased.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Womit ihr dem Paktha beisteht, womit ihr dem Adhrigu, womit dem Babhru, dem Mißvergnügten, mit diesen Hilfen kommet alsbald in Eile zu uns, Asvin! Heilet, was krank ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit welchen ihr dem Pakthi halft und Adhrigu, und dem verlassnen Babhru halft, Mit solchen Hülfen kommt, o Ritter, schnell zu uns, und heilet das, was schadhaft ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (поддержками) вы помогаете Пактхе, какими Адхригу,  
 Какими Бабхру огорченному,  

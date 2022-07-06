@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡प्रस्य वा स्तुवतः꣡ सहसो यहो  
 मक्षू꣡तमस्य राति꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 व꣡सो विविदु꣡षो व꣡चः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒वःऽदे॑वम् । उ॒परि॑ऽमर्त्यम् । कृ॒धि॒ । वसो॒ इति॑ । वि॒वि॒दुषः॑ । वचः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
@@ -98,7 +98,7 @@ genre M
 हे **सहसो** **यहो** बलस्य पुत्राग्ने **विप्रस्य** मेधाविनः **स्तुवतः** स्तोतुः **वा** **रातिषु** हविर्दानेषु **मक्षुतमस्य** शीघ्रतमस्य यष्टुर्वा **विविदुषः** ज्ञातवतोऽभिज्ञस्य **वचः** वचनं हे **वसो** वासकाग्ने **अवोदेवं** देवानामवस्तात् **उपरिमर्त्यं** मर्त्यानामुपरिष्टाच्च **कृधि** कुरु । सर्वं नभःप्रदेशं व्यापयेति यावत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,13 +109,13 @@ genre M
 Above mortals: spread it throughout the sky; avodevanupari martyam = sarvam **nabhaḥ** pradeśam vyāpaya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or in the gifts of the inspired praiser who is quickest, o youthful (son)  of strength.  
 make his speech, when he has found it, one that brings the gods below  and is above (that of) mortals, o good one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take the hapax avódevam, modifying vácaḥ, as meaning ‘below / inferior to (that of) the gods’. This makes a nice contrast to upárimartyam ‘above (that of) mortals’. However, it otherwise seems an odd sentiment: it is surely a given that anything we mortals produce will be inferior to whatever comes from the gods, but this is a given that we don’t necessarily want to emphasize. In this ritual context the point of our speech is that it should be good enough (better than that of other mortals) to bring the gods to us. Hence something like Grassmann’s “die Götter herunterholend, sie herablockend” seems preferable (see also Kümmel 492). The compound itself is a version of, or manipulation of, the reasonably common expression avó divā́/ diváḥ (I.163.6, V.40.6, VIII.40.8, IX.74.6).
 
@@ -132,23 +132,23 @@ Note the alliterative v’s of 11c havyā́vā véviṣad víṣah (immediately 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His, or the lauding sage's word, his, Son of Strength! who Is most prompt with sacred gifts,  
      Set thou beneath the Gods, Vasu, above mankind, the speech of the intelligent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder an den Gaben des beredten pünktlichsten Sängers, du jüngster Sohn der Kraft. Mache, du Guter, das Wort dessen, der es erfunden hat, den Göttern untertan, doch über den Sterblichen stehend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Priesters oder Sängers Wort, o Sohn der Kraft, der eifervoll mit Spenden ist, Des weisen hebe über Menschen du empor, bring', guter, es den Göttern nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Или дарам самого стремительного  
 Восхваляющего (тебя) вдохновенного (певца), о юный (сын) силы.  

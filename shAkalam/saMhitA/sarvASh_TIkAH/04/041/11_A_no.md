@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो बृहन्ता बृहती꣡भिर् ऊती꣡  
 इ꣡न्द्र यातं꣡ वरुण वा꣡जसातौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡स्य वां स्याम सनिता꣡र आजेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । दि॒द्यवः॑ । पृत॑नासु । प्र॒ऽक्रीळा॑न् । तस्य॑ । वा॒म् । स्या॒म॒ । स॒नि॒तारः॑ । आ॒जेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,36 +120,36 @@ genre M
 हे **बृहन्ता** महान्तौ हे **इन्द्र** हे **वरुण** **बृहतीभिः** महतीभिः **ऊती** ऊतिभिः रक्षाभिः सह **आ** **यातम्** आगच्छतम् । **वाजसातौ** संग्रामेऽन्नलाभनिमित्तभूते वा **यत्** यस्मिन्नाजौ संग्रामे **पृतनासु** सेनासु **दिद्यवः** । आयुधनामैतत् । आयुधानि शत्रुसंबन्धीनि **प्रक्रीळान्** प्रक्रीडन्ते । **तस्य** तादृशस्य **आजेः** युद्धस्य **सनितारः** संभक्तारः **स्याम** भवेम । **वां** युवयोरनुग्रहात् ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mighty **Indra** and **Varuṇa**, come to us in battle with (your) powerful protections, and where the bright (weapons) plural y amidst the (hostile) hosts, may we triumph in that conflict (through) your (favour).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O lofty Indra and Varuṇa, with your lofty forms of help drive here to us  at the winning of prizes.  
 When the missiles will play in the battles, (thanks to) you might we be  the winners of this contest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come with your mighty succours, O ye Mighty; come, Indra-Varuna, to us in battle.  
      What time the flashing arrows play in combat, may we through you be winners in the contest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet, ihr Hohen mit hohen Hilfen, Indra und Varuna, zu uns, auf daß wir den Siegespreis gewinnen! Wenn die Geschosse in den Kämpfen ihr Spiel beginnen, wollen wir durch eure Gunst die Gewinner dieses Kampfes sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O grosse, kommt zu uns mit grossen Hülfen, o Varuna und Indra, in dem Kampfe, Wo die Geschosse in den Schlachten fliegen, da lasst erlangen uns den grossen Kampfpreis.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нам приходите, о высокие, с высокими поддержками,  
 О Индра и Варуна, для захвата награды!  

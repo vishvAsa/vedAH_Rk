@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ नो अग्ने अध्वरं꣡ जुषस्व  
 मरु꣡त्सु इ꣡न्द्रे यश꣡सं कृधी नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उश꣡न्ता मित्रा꣡व꣡रुणा यजेह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । नक्ता॑ । ब॒र्हिः । स॒द॒ता॒म् । उ॒षसा॑ । उ॒शन्ता॑ । मि॒त्रावरु॑णा । य॒ज॒ । इ॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -129,20 +129,20 @@ genre M
 हे **अग्ने** त्वं **नः** अस्मदीयम् **इमम्** **अध्वरं** यज्ञं **जुषस्व** सेवस्व। किंच **मरुत्सु** इन्द्रस्य सखिभूतेषु देवेषु **इन्द्रे** च **यशसं** यशोयुक्तं हविर्लक्षणान्नवन्तं **नः** अस्मदीयं यज्ञं हे अग्ने त्वं **कृधि** कुरु। स्थापयेत्यर्थः। तथा **नक्ता** रात्रिश्च **उषसा** दिवसश्च । अहर्निशे इत्यर्थः। **बर्हिः** बर्हिषि कुशमये **आ** **सदताम्** उपविशताम् । अपि च हे अग्ने **उशन्ता** उशन्तौ यज्ञमिच्छन्तौ **मित्रावरुणा** मित्रावरुणौ देवौ **इह** अस्मिन् यज्ञे **यज** पूजय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be gratified, **Agni**, by this our sacrifice; render our (worship) renowned among **Indra** and the **Maruts**; letthe days and nights sit down on the sacred grass; worship (Agni), at this rite, **Mitra** and **Varuṇa**, desiring (theoblation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enjoy this ceremony of ours, o Agni. Make it glorious for us among the  Maruts and Indra.  
 Then sit here on the ritual grass night and dawn. Sacrifice here to Mitra  and Varuṇa, who desire it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adhvarám of pāda a echoes adhvarásya in 1d and provides a faint ring, since the last vs. (6) is extra-hymnic.
 
@@ -151,23 +151,23 @@ In the published translation in c the verb sadatām is taken as a sg. impv. with
 For the “repair” of this image in the next hymn, see comm. ad VII.43.3. The ultimate reference is probably to the daily offering to Agni at the two twilights (later called the Agnihotra).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Accept this sacrifice of ours, O Agni; glorify it with Indra and the Maruts.  
      Here on our grass let Night and Dawn be seated: bring longing Varuna and Mitra hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erfreue dich, Agni, an diesem Opfer von uns, bring es uns bei den Marut, bei Indra zu Ehren! Nacht und Morgen sollen sich auf das Barhis setzen. Verehre hier Mitra und Varuna, die darnach verlangen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies unser Opfer, Agni, lass dir schmecken, und mach es lieb dem Indra und den Maruts; Lass Nacht und Morgen auf die Streu sich setzen, lock' Mitra her und Varuna durch Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайся, о Агни, этим нашим обрядом!  
 Сделай (его) (ради нас) славным для Марутов (и) Индры!  

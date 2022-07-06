@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ श्रे꣡ष्ठेभिर् भानु꣡भिर् वि꣡ भाहि  
 उ꣡षो देवि प्रतिर꣡न्ती न आ꣡युः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गो꣡मद् अ꣡श्वावद् र꣡थवच् च रा꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इष॑म् । च॒ । नः॒ । दध॑ती । वि॒श्व॒ऽवा॒रे॒ । गोऽम॑त् । अश्व॑ऽवत् । रथ॑ऽवत् । च॒ । राधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], dative, plural
@@ -128,14 +128,14 @@ genre M
 हे **उषो** **देवि** **अस्मे** अस्मभ्यं **श्रेष्ठेभिः** प्रशस्यैः **भानुभिः** रश्मिभिः प्रकाशैः **वि** **भाहि** प्रकाशय । किं कुर्वती । **नः** अस्माकम् **आयुः** आयुष्यं **प्रतिरन्ती** वर्धयन्ती। हे **विश्ववारे** विश्वैः संभजनीये देवि **नः** अस्मभ्यम् **इषम्** अन्नं **च** **गोमत्** गोभिर्बहुभिरुपेतम् **अश्वावत्** अश्वैश्चोपेतं **रथवत्** रथैरुपेतं **राधः** धनं **च** **दधती** वि भाहीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine Uṣas, illumine us with your brightest rays, prolonging our existence, bestowing upon us food,(and granting us), you who are adored by all, affluence, comprising cattle, horses, and chariots.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Radiate widely to us with your fairest radiances, goddess Dawn,  
 lengthening our lifetime,  
@@ -143,30 +143,30 @@ imparting to us both refreshment and largesse in cattle, horses, and
 chariots, you who bring all valuables.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the two ca’s in cd as marking a “both … and” construction: íṣaṃ ca … gómad áśvāvad ráthavac ca rā́dhaḥ “both refreshment and largesse in cattle, horses, (and) chariots.” Though ordinarily we might expect the 2nd ca to be placed after the first term in the second constituent (hence* gómac ca …), I explain its late position as resulting from treating the three parallel -vat adjectives as a unitary qualifier; it also allows the complementary placements of ca in cd: #X ca ..., ... ca Y#.
 
 Klein interprets the passage very differently, taking the two ca’s as independent: the first as conjoining the two participial clauses in bc (… pratirántī … / … ca …  104 dádhatī …)(DGRV I.104-5) and the second as an XYZ ca construction, conjoining the -vat adjectives (86 and passim).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send thy most excellent beams to shine and light us, giving us lengthened days, O Dawn, O Goddess,  
      Granting us food, thou who hast all things precious, and bounty rich in chariots, kine, and horses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erstrahle uns mit den schönsten Strahlen, Göttin Usas, unser Leben verlängernd. Bring uns Speisegenuß, du Allbegehrte, und Ehrengabe von Rindern, Rossen, Wagen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erstrahle uns mit deinen besten Strahlen, o Göttin Uschas, schenk uns langes Leben, Uns Nahrung gebend, die du alles Gut hast, und Fülle uns an Rindern, Rossen, Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ярко воссияй нам лучшими лучами,  
 О богиня Ушас, продлевая срок нашей жизни  

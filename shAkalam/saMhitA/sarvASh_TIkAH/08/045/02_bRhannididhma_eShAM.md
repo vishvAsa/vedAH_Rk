@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡न्न् इ꣡द् इध्म꣡ एषा᳐म्  
 भू꣡रि शस्त꣡म् पृथुः꣡ स्व꣡रुः  
 ये꣡षाम् इ꣡न्द्रो यु꣡वा स꣡खा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 येषा॑म् । इन्द्रः॑ । युवा॑ । सखा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhann* ← *bṛhan* ← *bṛhat*
 - \[noun\], nominative, singular, masculine
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **एषाम्** ऋषीणाम् **इध्मः** **बृहन्नित्** महान् खलु **भूरि** बहु च **शस्तं** स्तोत्रं **स्वरुः** च **पृथुः** महान् । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,29 +101,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Sacred shaving: svaru = first shaving or splinter from the sacrificial **post**; cf. its use in the sacrifice: Kāty.6.4.12; 6.9.12
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Lofty is their kindling wood, abundant their recitation, broad their  sacrificial post,  
 of whom Indra is the youthful comrade.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 High is their fuel, great their laud, wide is their splinter from the stake,  
      Whose Friend is Indra ever young.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deren Holzstoß ist hoch, viel ihr Gepreise, breit der Opferpfosten, deren jugendlicher Freund Indra ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hoch ist ihr Brennholz, reich ihr Lob und ihre Opfersäule breit, Die lieb dem Jüngling Indra sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Высок у них костер,  
 Обильна хвала, широк жертвенный столб,  

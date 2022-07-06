@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे देवा꣡ म꣡म शृण्वन्तु यज्ञि꣡या  
 उभे꣡ रो꣡दसी अपां꣡ न꣡पाच् च म꣡न्म  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुम्ने꣡षु इ꣡द् वो अ꣡न्तमा मदेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मा । वः॒ । वचां॑सि । प॒रि॒ऽचक्ष्या॑णि । वो॒च॒म् । सु॒म्नेषु॑ । इत् । वः॒ । अन्त॑माः । म॒दे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -130,20 +130,20 @@ genre M
 **यज्ञियाः** यज्ञार्हाः **विश्वे** **देवाः** **मम** मदीयं **मन्म** मननीयं स्तोत्रं **शृण्वन्तु** । चित्तेऽवधारयन्तु । तथा **उभे** **रोदसी** द्यावापृथिव्यौ **अपां** **नपात्** मध्यमस्थानोऽग्निः **च** अस्मदीयं स्तोत्रं शृण्वन्तु । अथ प्रत्यक्षकृतः । हे देवाः **वः** युष्मभ्यं **परिचक्ष्याणि** वर्जनीयानि **वचांसि** स्तोत्राणि **मा** **वोचं** मा ब्रवीमि । अपि तु समीचीनानि । अतः **वः** युष्माकम् **अन्तमाः** अन्तिकतमाः सन्तो वयं **सुम्नेष्वित्** युष्माभिर्दत्तेषु सुखेष्वेव वर्तमानाः **मदेम** मोदेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the adorable, universal deities, and both heaven and earth, and the grandson, of the waters, hear my praise; let me not utter words to be disregarded, but let us, (brought) most nigh unto you, rejoice in the happiness (you bestow).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let all the gods deserving the sacrifice hear me; let both world-halves  and the Child of the Waters hear my thought.  
 Let me not speak speeches to you that can be disregarded. Might we, in  nearest contact with you, reach exhilaration just on your favors.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is metrically problematic. The Anukr. (also Holland & van Nooten Rig Veda edition) identifies it as a Jagatī, but the vs. instead seems mostly to be aiming to be a Triṣṭubh, like the surrounding (and thematically related) vss. 13 and 15. To begin at the end, d is simply a standard Triṣṭubh pāda (though with uncommon break): 11 syllables with a fine cadence. The intermediate pādas b and c have 12 syllables (possibly 13 in c), but a Triṣṭubh cadence, which seems more diagnostic than the syllable count. Oldenberg (ad loc. and ad I.53.10) favors an “überzählig” interpr. for both, in other words as Triṣṭubhs with an extra syl.; see his disc. in Prol. 67. Only pāda a is an unproblematic Jagatī, and even here, as Oldenberg points out (though he does not favor this analysis), it might be possible to read the final word yajñíyāḥ as a disyllable, which would again produce a perfect Triṣṭubh.
 
@@ -156,23 +156,23 @@ I consider these three vss. as a tṛca. They are thematically unified, by their
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the All-Gods who claim our worship hear my thought; may the two World-halves hear it, and the Waters' Child.  
      Let me not utter words that ye may disregard. Closely allied with you may we rejoice in bliss.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle opferwürdigen Götter, beide Welten und Apam Napat sollen mein Gebet erhören. Die Worte, die ich zu euch sage, sollen nicht unbeachtet bleiben. In eurer Gunst möchten wir als die Nächststehenden frohlocken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mein Flehen sollen alle Götter hören, die Welten beide und der Sohn der Wasser, Nicht mögt ihr unsre Worte übersehen; mit euch vereint lasst uns im Glücke froh sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все-Боги, достойные жертв, пусть услышат мою  
 Молитву, обе половины вселенной и Апам Напат!  

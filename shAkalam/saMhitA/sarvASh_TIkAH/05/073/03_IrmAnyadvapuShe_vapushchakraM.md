@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईर्मा꣡न्य꣡द् व꣡पुषे व꣡पुश्  
 चक्रं꣡ र꣡थस्य येमथुः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मह्ना꣡ र꣡जांसि दीयथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 परि॑ । अ॒न्या । नाहु॑षा । यु॒गा । म॒ह्ना । रजां॑सि । दी॒य॒थः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īrmānyad* ← *īrmā*
 - \[noun\], instrumental, singular, feminine
@@ -102,7 +102,7 @@ genre M
 हे अश्विनौ युवां **रथस्य** युष्मदीयस्य **अन्यत्** **चक्रम्** **ईर्मा** ॥ अर्तेः ईर्मा इति रूपम् । गन्तर्यादित्ये **वपुषे** तस्य शोभायै **वपुः** वपुष्मत् तेजोवत् चक्रं **येमथुः** नियमितवन्तौ स्थः । **अन्या** अन्येन चक्रेण **मह्ना** महत्त्वेन स्वसामर्थ्येन **नाहुषा** **युगा** । नहुषा मनुष्याः । तेषां युगा युगोपलक्षितान् कालान् प्रातरादिसवनान् अहोरात्रादिकालान् वा **रजांसि** लोकांश्च **परि** **दीयथः** परिगच्छथः । ‘न्य१घ्न्यस्य मूर्धनि चक्रं रथस्य येमथुः ' ( ऋ. सं १. ३०. १९ ) इत्युक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,29 +119,29 @@ Vapuṣe = ādityasya śobhāyai, for the beauty or lustre of the sun;
 **Yuga** = yugāni, metonymy for the divisions of time in genitive ral, as morning, noon, night, or the sacrifices offered at stated periods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You maintain at rest your chariot’s one wheel [=the sacrificial fire], the  marvel to be marveled at.  
 With the other (wheel) [=the sun?] you fly around the generations of  the descendants of Nahuṣa and the airy regions by your greatness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Another beauteous wheel have ye fixed there to decorate your car.  
      With others through the realms ye roam in might unto the neighbouring tribes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das eine Rad des Wagens - zum Staunen erstaunlich - habt ihr zurückgehalten; mit dem anderen flieget ihr über die nahusischen Geschlechter, mit Macht über die Räume hinweg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr habt des Wagens eines Rad zur Pracht das prächt'ge hergelenkt; Um andre Nachbarstämme fliegt ihr durch die Luft mit Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одно колесо колесницы – диво на удивление –  
 Вы удержали в стороне.  

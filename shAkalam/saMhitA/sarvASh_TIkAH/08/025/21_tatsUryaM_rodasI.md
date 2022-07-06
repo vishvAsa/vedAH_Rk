@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् सू꣡र्यं रो꣡दसी उभे꣡  
 दोषा꣡ व꣡स्तोर् उ꣡प ब्रुवे  
 भोजे꣡षु अस्माँ꣡ अभि꣡ उ꣡च् चरा स꣡दा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 भो॒जेषु॑ । अ॒स्मान् । अ॒भि । उत् । च॒र॒ । सदा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -101,7 +101,7 @@ genre M
 **सूर्यं** सुवीर्यं **तत्** वारुणं मैत्रं च तेजः **उभे** **रोदसी** उभे द्यावापृथिव्यौ च **दोषा** । ‘सुपां सुलुक्' इति द्वितीयाया लुक् । 'कालाध्वनोः' इति द्वितीथा। रात्रौ **वस्तोः** अहनि चाहम् **उप** **ब्रुवे** उपस्तौमि । त्वं स्तूयमानो वरुणः **भोजेषु** दातृषु **अस्मान्** सदा **अभ्युच्चर** सर्वदाभिमुखं प्रेरय । दातृष्वेतेषां दानेष्वस्मान् पुरोभाविनः कुर्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,34 +112,34 @@ genre M
 That sun, Mitra and Varuṇa: tat sūryam = the brightness of Mitraand Varuṇa; sūryam suvīryam tat varuṇam maitram ca **tejas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I speak this to the Sun and to both world-halves, at evening and  at dawn:  
 “Always rise up to us among our benefactors.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is presumably the speech referred to in vs. 20 that controls good things.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So unto Surya, Heaven, and Earth at morning and at eve I speak.  
      Bringing enjoyments ever rise thou up for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darum bitte ich den Surya und die beiden Welten abends und morgens: Geh stets bei Gastfreien über uns auf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sonne und das Weltenpaar sprech' Abends ich und Morgens an; O gehe stets bei reicher Geber Schar uns auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За этим я обращаюсь к Сурье  
 (И) к обеим половинам вселенной вечером и утром:  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ळाम् अग्ने पुरुदं꣡सं सनिं꣡ गोः꣡  
 शश्वत्तमं꣡ ह꣡वमानाय साध  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने सा꣡ ते सुमति꣡र् भूतु अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 स्यात् । नः॒ । सू॒नुः । तन॑यः । वि॒जाऽवा॑ । अ॒ग्ने॒ । सा । ते॒ । सु॒ऽम॒तिः । भू॒तु॒ । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iḍām* ← *iḍā*
 - \[noun\], accusative, singular, feminine
@@ -127,7 +127,7 @@ genre M;; repeated line
 हे अग्ने पुरुदंसम् । आपोऽप्नो वेष इति कर्मनाममसु पठितत्वाद्दंसः शब्दः कर्मवाची । पुरूणि बहूनि दंसांसि कर्माणि यस्याः सा । तां बहुकर्माणं गोः सनिं गवादिपशून्सम्पादयित्रीमिळामेतन्नामिकां गोरूपां देवतां शश्वत्तमन्निरन्तरं हवमानाय यजमानाय मह्यं साधः साधय । किञ्चनोस्ऽमाकं सूनुः पुत्रस्तनयः पौत्रः स्याद्भवत्विति ते तव या सुमतिः शोधना बुद्धिः सा विजावाबन्ध्या सत्यस्मे अस्माकं भूतु भवतु ॥ शश्वत्तमम् । उच्छादिषु पाठादन्तोदात्तत्वम् । साध । राध साध संसिद्धौ । अन्तर्भावितण्यर्थोऽयम् । लोटव्यत्ययेन शप् । सेर्ह्यपिच्चेति हिरादेशः । तस्यातो हेरिति लुक् । निघातः । विजावा । जनी प्रादुर्भावे । अस्मादन्येभ्योऽपि दृश्यन्त इति वनिप् । विड्वनोरनुनासिकस्यादित्यात्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । लिङ्गव्यत्ययः । भूतम् । भू सत्तायाम् । बहुलं छन्दसीति शपो लुक् । भूसुवोस्तीङीति गुणप्रतिषेधः ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ genre M;; repeated line
 This hymn is the refrain of several **sūktas** in the preceding **aṣṭaka**. In one instrumental nce iḷā is translated as **bhūmi**, earth; here, she is called a feminine le divinity in the form of a cow: gorūpām devatām; vijāvā is connected with **sumati**, good-will; which is explained: avandhyā, may it be not barren, productive
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 – Make the milk-libation, the very wondrous winning of the cow,  succeed, o Agni, for him who invokes you most constantly.  
 There should be for us a son and a lineage that proliferates. Agni, let  this your favor be for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As holy food, Agni, to thine invoker, give wealth in cattle, lasting, rich in marvels.  
      To us be born a son, and spreading offspring Agni, be this thy gracious will to usward.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 11 = III, 1, 23.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erziel, o Agni, Segen, den vielwirkenden Lohn einer Kuh für den am häufigsten rufenden Sänger! Ein leiblicher Sohn, der das Geschlecht fortpflanzt, soll uns werden. Agni, diese Gnade von dir soll uns zuteil werden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 = 235, 23
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приведи прямо к цели, о Агни, жертвенный напиток (и) многообещающую награду  
 В виде коровы для того, кто постоянно призывает (богов)!  

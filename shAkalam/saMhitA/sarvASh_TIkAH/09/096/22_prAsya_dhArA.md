@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ अस्य धा꣡रा बृहती꣡र् असृग्रन्न्  
 अक्तो꣡ गो꣡भिः कल꣡शाँ आ꣡ विवेश  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्र꣡न्दन्न् एति अभि꣡ स꣡ख्युर् न꣡ जामि꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 साम॑ । कृ॒ण्वन् । सा॒म॒न्यः॑ । वि॒पः॒ऽचित् । क्रन्द॑न् । ए॒ति॒ । अ॒भि । सख्युः॑ । न । जा॒मिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prāsya* ← *prās* ← *√as*
 - \[verb noun\]
@@ -126,43 +126,43 @@ genre M
 **अस्य** सोमस्य **बृहतीः** बृहत्यो महत्यः **धाराः** **प्र** **असृग्रन्** प्रसृज्यन्ते । सृजेः कर्मार्थे लङि व्यत्ययेन झेरनादेशः । ‘ बहुलं छन्दसि' इति रुडागमः । ततः सोऽयं सोमः **गोभिः** गोविकारैः क्षीरादिभिः **अक्तः** सन् **कलशान्** द्रोणाभिधानान् **आ** **विवेश** आविशति । **साम** सामानि **कृण्वन्** कुर्वन् **सामन्यः** सामगानकुशलः । सुष्ठु शब्दायमान इत्यर्थः । **विपश्चित्** सर्वं जानानः सोमः **क्रन्दन** देवानाह्वयन **अभि** **एति** । ग्रहादीनि त्वरयाभिगच्छति । तत्र दृष्टान्तः । **सख्युर्न** सख्युः **जामिं** जायां यथेतरो लम्पटो वेगेनाभिगच्छति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “His copious streams flow forth; blended with the milk and curds he enters the pitchers; uttering chants the skilful chanter (**Soma**) hasten invoking (the gods) towards (the cups) like (a libertine) to the wife of a friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His lofty streams have been sent surging forth. Anointed with cows he  has entered the tubs. Making a melody [/performing the sāman], devoted to a melody  
 [/the sāman], attentive to poetic inspiration, roaring he goes as if to a  comrade’s sister.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Given the play on names of meters in 18d, it’s quite possible that sā́man- is a technical term here.
 
 Although eti has a goal in its pāda (at least in the simile) and should therefore be read as a lexical verb of motion, it may also be functioning as an auxiliary in a periphrasis krándann eti “keeps roaring,” which would be an analytic expression functionally equivalent to the “intensive” (that is, iterative-repetitive) kánikradat in 20d, 21b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His streams have been effused in all their fulness, and he hath entered, balmed with milk, the goblets.  
      Singing his psalm, well-skilled in song, a Chanter, be comes as 'twere to his friend's sister roaring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine großen Ströme haben sich ergossen; mit Kuhmilch gesalbt ist er in die Krüge eingezogen. Die Melodie dazu machend geht der Melodische, Redekundige brüllend hin wie zu des Freundes Schwester.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon sind ergossen seine grossen Ströme, gesalbt mit Milchtrank drang er in die Kufen, Begeistert Sang vollführend geht der Sänger laut rauschend hin wie zu des Freundes Schwester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его могучие потоки потекли вперед.  
 Умащенный (струями) молоко, он вошел в кувшины,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡द्रिभिः सुतः꣡ पवते ग꣡भस्तियोर्  
 वृषाय꣡ते न꣡भसा वे꣡पते मती꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 नेनिक्ते꣡ अप्सु꣡ य꣡जते प꣡रीमणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । मो॒द॒ते॒ । नस॑ते । साध॑ते । गि॒रा । ने॒नि॒क्ते । अ॒प्ऽसु । यज॑ते । परी॑मणि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
@@ -109,7 +109,7 @@ genre M
 **अद्रिभिः** ग्रावभिः **गभस्त्योः** बाह्वोः बाहुभ्यां च **सुतः** अभिषुतः स सोमः **पवते** पात्राणि प्रति गच्छति । यः सोमः **वृषायते** वृषवदाचरति । किंच यः **मती** स्तुत्याभिष्टुतः सन् **नभसा** अन्तरिक्षेण **वेपते** सर्वत्र गच्छति **सः** सोमः **मोदते** हृष्टो भवति । तथा **नसते** ग्रहादिषु संश्लिष्टो भवति । किंच **गिरा** स्तुत्या स्तुतः सन् **साधते** स्तोतॄणां धनान्नादिकं साधयति । अपि च **अप्सु** वसतीवर्याख्यासु **नेनिक्ते** शुद्धो भवति । तथा **परीमणि** देवै रक्ष्यमाणे यज्ञे देवानां हविष्प्रदानेन पोषके वा यज्ञे **यजते** पूजितो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,14 +120,14 @@ genre M
 Or, at the sacrifice which nourishes the gods by bestowing oblations on them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pressed by the stones, he purifies himself between the two hands. With  his cloud he acts the bull [/rains]; he trembles (in poetic inspiration)  
 with his thought.  
 He rejoices in, unites with, achieves success through the song. He washes  himself in the waters. He sacrifices for himself in his fullness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is characterized by an accumulation of finite verbs, esp. in the 2nd hemistich, which contains five: … modate násate sā́dhate … nenikté … yájate.
 
@@ -146,23 +146,23 @@ The verb nenikté ‘washes’ is of course etym. related to nirṇíj-, the wor
 párīman- is a hapax, but, as is generally agreed (see EWA s.v., Renou’s n.), it most likely belongs to √pṝ̥‘fill’. It may have been formed on the model of better attested várīman- ‘broadness’, which ends the next vs. and occupies the same metrical slot. Both these words function in much the same way as tánā ‘in its full measure/extent’, which ends vs. 2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Onward he flows, from both the hands, pressed out with stones: excited by the prayer, the water makes him wild.  
      He frolics and draws near, completes his work with song, and bathes in streams to satisfy the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er läutert sich, zwischen den Händen mit Steinen ausgepreßt, durch die Regenwolke wird er wie ein Bulle, durch die Dichtung wird er beredt. Er frohlockt über die Lobrede, stimmt in sie ein, gerät gut durch sie; er wird im Wasser rein gewaschen, voll verehrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst von Steinen rieselt aus den Armen er, mit Regen strömt er, ist begeistert durch Gebet, Er freut sich, eilt und kommt zum Ziele durch das Lied, er wäscht sich rein im Wasser, opfert gabenreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый камнями, он очищается между двух рук (жреца).  
 Он становится быком благодаря облаку, трепещет благодаря молитве.  

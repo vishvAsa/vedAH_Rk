@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ वि꣡श्वानि वा꣡रिया  
 अभि꣡ देवाँ꣡ ऋतावृ꣡धः  
 सो꣡मः पुनानो꣡ अर्षति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सोमः॑ । पु॒ना॒नः । अ॒र्ष॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -77,40 +77,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अयं **सोमः** **पुनान:** पूयमानः **विश्वानि** **वार्या** वरणीयानि धनानि **अभि** **अर्षति** । तथा **ऋतावृधः** यज्ञवर्धकान् **देवान्** **अभि** अर्षति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, being purified hastens towards all desirable (wealth), towards the gods who favour the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward all desirable things, toward the gods who become strong through truth. Soma rushes while he is being purified.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Somewhat less insistent v-alliteration: víśvāni vā́ryā … devā́m̐ṛtāvṛ́dhaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, while purifying, sends hither all things to be desired,  
      He sends the Gods who strengthen Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd rinnt der Soma um alle begehrenswerten Dinge zu gewinnen, für die Gesetzesförderer, die Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und alle Güter strömt er zu den Göttern, die des Rechts sich freun, Der Soma, der gereinigte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

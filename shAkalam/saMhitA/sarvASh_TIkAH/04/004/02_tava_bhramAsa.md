@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व भ्रमा꣡स आशुया꣡ पतन्ति  
 अ꣡नु स्पृश धृषता꣡ शो꣡शुचानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡संदितो वि꣡ सृज वि꣡ष्वग् उल्काः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तपूं॑षि । अ॒ग्ने॒ । जु॒ह्वा॑ । प॒त॒ङ्गान् । अस॑म्ऽदितः । वि । सृ॒ज॒ । विष्व॑क् । उ॒ल्काः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -126,20 +126,20 @@ genre M
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your swift and errant flames descend (on everyside); fierce-shining with vigour consume (the foe); scatter, **Agni**, with the ladle (of oblation), scorching flames and sparks, and brands.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your swirling (flames) fly swiftly; touch down boldly following (them  [/your onslaught]) as you keep blazing.  
 Unfettered, o Agni, with your tongue hurl out bursts of heat, flying  (embers), firebrands in all directions.564 IV.4
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since √spṛś does not otherwise occur with ánu in the RV or, per MonierWilliams, in all of Skt., I supply an object with this preposition -- either the flames of pāda a or, perhaps preferably, the prásitim construed with ánu in 1c.
 
@@ -155,13 +155,13 @@ Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forth go in rapid flight thy whirling weapons: follow them closely, glowing in thy fury.  
      Spread with thy tongue the winged flames, O Agni; unfettered, cast thy firebrands all around thee.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thy whirls fly quickly. Fiercely flaming touch (them). O Agni, (send forth) with the ladle 1 thy heat, thy winged (flames); send forth unfettered thy firebrands all around.
 </details>
@@ -174,17 +174,17 @@ Thy heat, O Agni, thy winged (flames) with thy tongue,
 Unfettered, on all sides spread thy firebrands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Lohen fliegen schnell, greif mutig zu, hell flammend. Schieß mit der Zunge deine Gluten hinaus gleich Vögeln, o Agni, ungezügelt nach allen Seiten deine Feuerbrände!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es fliegen eilend deine Wirbelflammen, folg auf dem Fuss mit kühnem Muthe strahlend; Entfesselt giess beschwingte Flammen rings aus, mit deiner Zunge, Agni, Feuersgluten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твои огненные вихри быстро летают:  
 Смело хватай ими, мощно пылая!  

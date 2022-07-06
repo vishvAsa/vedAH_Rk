@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡निष् ट इन्द्र निष꣡दे अकारि  
 त꣡म् आ꣡ नि꣡ षीद स्वानो꣡ न꣡ अ꣡र्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दोषा꣡ व꣡स्तोर् व꣡हीयसः प्रपित्वे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि॒ऽमुच्य॑ । वयः॑ । अ॒व॒ऽसाय॑ । अश्वा॑न् । दो॒षा । वस्तोः॑ । वही॑यसः । प्र॒ऽपि॒त्वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yoniṣ* ← *yoniḥ* ← *yoni*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ genre M
 हे **इन्द्र** **योनिः** वेद्याख्य स्थानं ते तव **निषदे** निषदनाय उपवेशनाय **अकारि** कृतमस्माभिः प्रकल्पितमभूत् । **तं** योनिम् **आ** **नि** **षीद** शीघ्रमागत्य तत्रोपविश । शीघ्रागमने दृष्टान्तः । **स्वानो** **नार्वा** । अर्वा इति अश्वनाम । यथाश्वः स्वानो हेषाशब्दं कुर्वन् स्वकीयं स्थानं शीघ्रमागच्छति तद्वत् । किं कृत्वा । **वयः** अश्वबन्धनार्थान् रश्मीन् **विमुच्य** रथाद्विश्लिष्य तथा **अश्वान्** रथे योजितांश्च तुरगान् **अवसाय** विमुच्य । अत्र निरुक्तम्-' अवसायाश्वानिति स्यतिरुपसृष्टो विमोचने ' (निरु. १. १७ ) इति । कीदृशानश्वान् । **प्रपित्वे** यागकाले प्राप्ते । ‘ प्रपित्वे प्राप्तेऽभीकेऽभ्यक्ते' ( निरु. ३. २० ) इति यास्कः । **दोषा** रात्रौ **वस्तोः** अहनि च **वहीयसः** आदरातिशयेन वोढॄन् । निषदे । सदेः संपदादिलक्षणो भावे क्विप्। स्वानः । ‘स्यमु स्वन ध्वन शब्दे' । बहुलवचनात् कर्तरि घरञ् । 'कर्षात्वतः° ' इत्यन्तोदात्तत्वम् । वयः । वियन्ति रथेन सह संगच्छन्ते इति विशब्देन रश्मयः उच्यन्ते । वी गत्यादिषु । औणादिकः इप्रत्ययः टिलोपश्च । द्वितीयार्थे प्रथमा । अवसाय ।' षो अन्तकमर्णि '।आदेचः° ' इति आत्वम् ।' समासेऽनञ्पूर्वे॰ ' इति क्त्वो ल्यबादेशः । वहीयसः । ‘ वह प्रापणे ' । तृजन्तात् वोढृशब्दात् ‘तुश्छन्दसि ' इति ईयसुन् । ' तुरिष्ठेमेयःसु ' इति तृलोपे कर्तव्ये ढत्वधत्वष्टुत्वढलोपानामसिद्धत्वात् तदाश्रितस्य ओत्वस्याप्यभावे तृलोप एव क्रियते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -148,13 +148,13 @@ Added: yāgakāle prāpte = the time of sacrifice having arrived; the text has o
 Prapitve = prāpte = lit. arrived, or adversb signifying proximity: near, nigh, at **hand** (**Nirukta** 3.20)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A womb has been prepared for you to sit down in, Indra. Sit down in it  here, like a steed sounding off,  
 once you have released your vitality [/the birds] and unhitched the horses,  who convey you so well to the mealtime, evening and morning.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, s u vānó nā́rvā in b contains a triple pun, since the participle s u vānáḥ can be read in three different ways: 1) as nom. sg. to the adj.
 
@@ -165,23 +165,23 @@ Pāda b contains the word váyaḥ, which raises the same question as in 103.7: 
 In d váhīyasaḥ is of course a comparative, but, again, so rendering it would be awkward.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE altar hath been made for thee to rest on: come like a panting courser and be seated.  
      Loosen thy flying Steeds, set free thy Horses who bear thee swiftly nigh at eve and morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Schoß ist für dich, Indra, zum Niedersitzen bereitet. Auf ihn setz dich nieder, zum Laufe getrieben wie ein Rennpferd, die Kraft ausspannend, die Rosse anhaltend, die vor Essenszeit bei Dunkelwerden und morgens am besten ziehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist der Schooss zum Sitzen dir bereitet, zur Einkehr löse deine Flügelrosse, Die trefflich fahren früh, am Tag, am Abend, und setz dich, Indra, wie ein Renner schnaufend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Лоно приготовлено для тебя, о Индра, чтобы опуститься.  
 Опустись на него, как ржущий жеребец,  

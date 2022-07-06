@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भिन꣡त् पु꣡रो नवति꣡म् इन्द्र पूर꣡वे  
 दि꣡वोदासाय म꣡हि दाशु꣡षे नृतो  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 वि꣡श्वा ध꣡नानि ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 म॒हः । धना॑नि । दय॑मानः । ओज॑सा । विश्वा॑ । धना॑नि । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhinat* ← *bhid*
 - \[verb\], singular, Present injunctive
@@ -151,7 +151,7 @@ genre M
 हे **इन्द्र** **नृतो** रणे नर्तनशील त्वं **दाशुषे** हविर्दत्तवते **पूरवे** अभिमतपूरकाय" । मनुष्यनामैतत् । **महि** महते **दिवोदासाय** एतन्नामकाय राज्ञे ॥ ‘ दिवो दासे षष्ठ्या अलुक्' ( का. ६. ३. २१.५ ) इति अलुक् ।' दिवोदासादीनां छन्दसि ' इति पूर्वपदाद्युदात्तत्वम् ॥ **नवतिम्** एतत्संख्याकानि **पुरः** शत्रूणां पुराणि **भिनत्** भिन्नवानसि । तथा हे **नृतो** गात्रविक्षेपणकुशल हस्तपादादिप्रक्षेपेण शत्रूणां हिंसक **वज्रेण** क्षेपणसमर्थेनायुधेन **दाशुषे** हविर्दत्तवते दिवोदासाय अन्यस्मै वा भिनत् । तमपि शत्रुं भिन्नवानसि । इदानीं परोक्षेणाह। **अतिथिग्वाय** पूजार्थमतिथिं गच्छते दिवोदासाय तदर्थम् ॥ गमेरौणादिको ड्वप्रत्ययः ॥ **उग्रः** उद्गूर्णबलः इन्द्रः पूर्वं पुरभेदनसमये विद्धमपि अम्रियमाणं गिरिमारूढं **शम्बरम्** एतन्नामानमसुरं **गिरेः** दुर्गमात् पर्वतादेः सकाशात् **ओजसा** स्वकीयेन बलेन **अवाभरत्** अवाङ्मुखमवकृष्य प्राणं हृतवान्। किं कुर्वन् । **महः** महान्ति **धनानि** तदीयगवाश्वादीनि **दयमानः** दिवोदासाय राज्ञे साधयन् ॥ ‘ दय दानगतिहिंसादानेषु'। शपः पित्त्वादनुदात्तत्वे शानचो लसार्वधातुकस्वरेण धातुस्वरः ॥ न केवलमल्पं धनं किंतु **विश्वा** **धनानि** सर्वाण्यपि तेषां मणिमुक्तादीनि **ओजसा** स्वकीयेन बलेन दयमानः साधयन् अवाभरत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -162,35 +162,35 @@ genre M
 Nṛto = voc.of nṛtu, a dancer; raṇe nartanaśīla, dancing in war; Śambara is an **asura** who was engaged in hostilities with **Kṛṣṇa**, and finally destroyed, together with his six hundred sons, by **Pradyumna**, the grandson of Kṛṣṇa (cf. **Harivamśa**, Langlois, vol. iii, p. 169). Mah_bhārata represents Śambara as an adversary of Indra, in **Droṇa**-**vijaya**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, split the ninety strongholds for Pūru, for Divodāsa the  greatly pious, you prancer—with your mace (you split them) for the  pious, you prancer.  
 The strong one brought down Śambara from the mountain for Atithigva, the great one distributing riches with his strength—all riches with his  strength.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note in pāda a … púro … pūráve# and see I.131.4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Puru thou hast shattered, Indra ninety forts, for Divodasa thy boon servant with thy bolt, O Dancer, for thy worshipper.  
      For Atithigva he, the Strong, brought Sambara. from the mountain down,  
      Distributing the mighty treasures with his strength, parting all treasures with his strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du brachst für Puru Divodasa die neunzig Burgen, für den reichlich spendenden, du Tänzer; mit der Keule für den Spendenden, du Tänzer. Für Atithigva stieß der Gewaltige den Sambara vom Berge, die großen Schätze mit Kraft verteilend, alle Schätze mit Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Puru brachest, Indra, neunzig Burgen du, dem Divodasa, der dir eifrig huldigte, mit Blitz, o Held, dem Huldiger; Für Atithigva stürzte er mit Kraft vom Berg den Çambara; Mit Macht vertheilend allen Schatz des Ungethüms, mit Macht vertheilend seinen Schatz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты разбил девяносто крепостей, о Индра, для Пуру  
 Диводасы, щедрого почитателя, о танцор,  

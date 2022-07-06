@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ द꣡क्षाय सा꣡धनो  
 अयं꣡ श꣡र्धाय वीत꣡ये  
 अयं꣡ देवे꣡भ्यो म꣡धुमत्तमः सुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अ॒यम् । दे॒वेभ्यः॑ । मधु॑मत्ऽतमः । सु॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -80,42 +80,42 @@ genre M
 **अयं** सोमः **दक्षाय** बलाय वर्धनाय वा **साधनः** साधयिता भवति । तथा **अयं** सोमः **शर्धाय** वेगार्थं **वीतये** देवानां भक्षणार्थं च भवति । **सुतः** अभिषुतः **अयं** सोमः **देवेभ्यः** इन्दादिभ्यः **मधुमत्तमः** अतिशयेन माधुर्ययुक्तो भवति । अत्यन्तं मदकरो भवतीति वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (**Soma**) is an instrumental ument for invigoration; he (is useful) for speed (and) for the banquet of your gods; he is effused most sweet-flavoured for the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the one bringing success to skill; here is the one to pursue  
 the troop.  
 Here is the pressed drink, most honeyed for the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The a pāda in 105 decompounds dakṣa-sā́dhana- in 104 to dákṣāya sā́dhanaḥ. The two yáthā’s beginning 104.3b and c are replaced by ayám’s (also in a). The rest of b consists of the same datival purpose expression as in 104.3b. A superlative plus dative of benefit is found in both c pādas: 104.3c mitrā́ya váruṇāya śáṃtamaḥ, 105.3c devébhyo mádhumattamaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effectual means of power is he, he is a banquet for the Troop,  
      He who hath been effused, most rich in meath, for Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist der Wirkenskraft förderlich, er soll dem Marutheer einladend sein; dieser Süßeste ist für die Götter ausgepreßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er der zur Kraft Gedeihen gibt, er ist der Marutschar zum Mahl, Und er den Göttern als der süsseste gepresst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он (бог,) вызывающий силу действия,  
 Он (служит) для приглашения толпы (Марутов),  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 का꣡ वा᳐म् भूद् उ꣡पमातिः क꣡या न  
 आ꣡ अ꣡श्विना गमथो हूय꣡माना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुष्य꣡तम् माध्वी दस्रा न ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कः । वा॒म् । म॒हः । चि॒त् । त्यज॑सः । अ॒भीके॑ । उ॒रु॒ष्यत॑म् । मा॒ध्वी॒ इति॑ । द॒स्रा॒ । नः॒ । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
@@ -125,43 +125,43 @@ genre M
 **वां** युवयोः **का** **उपमातिः** । उप समीपे मातिर्मानं गुणानां परिच्छित्तिर्यस्यां सा स्तुतिः का **भूत्** भवेत् । **कया** स्तुत्या **हूयमाना** आहूयमानौ सन्तौ **नः** अस्मान् **आ** **गमथः** आगच्छथः । **वां** युवयोः **अभीके** आसन्नप्रदेशे **महश्चित्** महत: **त्यजसः** । त्यज्यते परित्यज्यते सर्वैरिति त्यजः क्रोधः । तस्य सोढा **कः** भवेत् । हे **माध्वी** मधुररसस्योदकस्य स्रष्टारौ हे **दस्रा** शत्रूणामुपक्षपयितारौ अश्विनौ **नः** अस्मान् **ऊती** ऊत्या रक्षया **उरुष्यतम्** । रक्षाकर्मैतत् । रक्षतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What may be the fit measure (of your merits)? invoked by what praises do you come to us? who (can exist as) the object of your great wrath? **Dasras**, dispensers of sweet (water), defend us with your protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What is your distribution (of goods) and with what (distribution) do you  come here to us when called upon?  
 Who is yours? Make wide space for us in close quarters, even out of  great neglect, with your help, o honeyed, wondrous pair.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On úpamāti- as belonging to √mā not √man, see comm. ad VIII.40.9. Note that Witzel Gotō (‘Zumessung’) must also derive it from √mā. The Aśvins’ úpamāti- might be an answer to the question in 3d: which one is their best ability? This stem is also the obvious one to supply with the instr. fem. káyā, which immediately follows.
 
 I construe cd very differently from the standard tr., which take c and d as separate clauses (though Geldner and Renou both supply a form of the verb of d, uruṣyá-, in c). I take kó vām as an independent nominal cl., with the next cl. beginning with maháḥ and running to the end (cf. the structure of ab, which also has a clause break in the middle of pāda a, with the 2nd cl. continuing to the end of b). The reason for this choice is that it is difficult to render c as a unity if abhī́ke is taken in its usual sense (hence the attenutations in the other tr.). Moreover, abhī́ke regularly appears with uruṣyá- and similar ‘make wide space’ expressions: VII.85.1 tā́no yā́mann uruṣyatām abhī́ke “Let those two give us wide space in close quarters on our journey,” X.38.4 yó abhī́ke varivovít “who finds wide space in close quarters…,” X.133.1 abhī́ke cid ulokakṛ̥t “a maker of wide space even in close quarters.” Earlier in IV an ablative phrase like our maháś cit tyájasaḥ is found adjacent to abhī́ke: IV.12.5 maháś cid agna énaso abhī́ke “(Release us) from even a great offense in close quarters, o Agni.” All of these parallels lead to the conclusion that everything starting with maháḥ should be read with uruṣyátam in the next pāda, since abhī́ke patterns with uruṣyá- and the abl. phrase is connected with abhī́ke. However, I realize that the phrase in the published translation “even out of great neglect” seems unconnected to the rest and makes little sense. I now feel that we need to interpr. uruṣyátam in two different senses. With abhī́ke it has its physical literal meaning ‘make wide space’, but with the abl. maháś cit tyájasaḥ it has the extended sense ‘release, free (from)’. I would therefore emend the tr. to “Make wide space for us in close quarters, free us even from great neglect/abandonment.” Witzel Gotō take tyájas- as ‘Lebensopfer’, but this must rest on the later notion of sacrifice as tyāga-. This concept is not really a part of the RVic ritual universe -- though see the single occurrence of tyāgá- in the RV in IV.24.3, where it refers to the abandonment of one’s body in battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What is the prayer that we should bring you, Asvins, whereby ye come to us when invocated?  
      Whether of you confronts e'en great betrayal? Lovers of sweetness, Dasras, help and save us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welches wird eure Zuwendung sein? Mit welcher werdet ihr Asvin zu uns kommen, wenn gerufen? Wer schützt euch unmittelbar auch vor großer Feindschaft? Schützet uns davor durch eure Hilfe, ihr Süßliebende, ihr Meister!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Zuruf mag auch sein, durch den gerufen ihr Ritter beide euch zu uns begebet? Wer mag bestehn vor eurem grossen Angriff? schafft Hülfe uns, o wunderthät'ge, holde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какое будет у вас настроение? В каком (настроении)  
 О Ашвины, вы приедете к нам, призываемые?  

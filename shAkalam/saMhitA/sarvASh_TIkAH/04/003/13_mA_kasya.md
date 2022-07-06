@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ क꣡स्य यक्षं꣡ स꣡दम् इ꣡द् धुरो꣡ गा  
 मा꣡ वेश꣡स्य प्रमिनतो꣡ मा꣡ आपेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ स꣡ख्युर् द꣡क्षं रिपो꣡र् भुजेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मा । भ्रातुः॑ । अ॒ग्ने॒ । अनृ॑जोः । ऋ॒णम् । वेः॒ । मा । सख्युः॑ । दक्ष॑म् । रि॒पोः । भु॒जे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -134,19 +134,19 @@ genre M
 हे **अग्ने** **हुरः** अस्माकं हिंसकस्य **कस्य** कस्यचिदपि जन्तोः **यक्षं** यज्ञं **सदमित्** सदैव **मा** **गाः** कदाचिदपि मा गच्छ। **प्रमिनतः** हिंसकस्य **वेशस्य** प्रातिवेश्यस्य यज्ञं मा गाः । तथा **आपेः** मद्व्यतिरिक्तस्य बन्धोर्यज्ञं **मा** गच्छ। तथा **अनृजोः** कुटिलचित्तस्य **भ्रातुः** **ऋणम्** ऋणवद्देयं हविः **मा** **वेः** मा कामयेथाः । तथा वयमपि **सख्युः** मित्रस्य **रिपोः** शत्रोः **दक्षं** भोगसमर्थं धनं **मा** **भुजेम** मा भुञ्जीमहि । किंतु त्वया दत्तं धनं भुञ्जीमहि ॥ हुरः। 'हृ प्रसह्यकरणे'। क्विप् ।  ‘ बहुलं छन्दसि' इति उत्वम्। 'सावेकाचः ' इति विभक्तेरुदात्तत्वम् । भुजेम । ‘भुज पालनाभ्यवहारयोः ' । आशीर्लिङि व्यत्ययेन परस्मैपदम् । लिङ्याशिष्यङ्' इति अङ्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Go not ever, **Agni**, to the sacrifice of any one who injures us; nor to that of a malevolent neighbour, nor to that of an (unnatural) relation; accept not the due (oblation) from an insincere brother; let us not derive enjoyment from the enemy of a friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t ever chase after (us, as) the specter of a nobody, a crooked man— neither of a tricky neighbor, nor of a friend. Do not pursue the debt of a dishonest brother (against us), Agni. May  we not pay for the “skill” of a cheating partner.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is very difficult. As I see it, the point of the vs. is to demand that Agni not track down and punish the speaker for the transgressions of others, esp.
 
@@ -161,28 +161,28 @@ The form huráḥ has been variously analyzed. Oldenberg (etc) takes it as an ad
 On mā́with the apparent opt. bhujema, see Hoffmann (Injunk., 95-97), who explains this grammatical anomaly (found several times) as a misinterpr. of expressions with the dat. inf. bhujé.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Go never to the feast of one who harms us, the treacherous neighbour or. unworthy kinsman.  
      Punish us not for a false brother's trespass. Let us riot feel the might of friend or foeman.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Go never on thy crooked way to the spirit (which avenges the guilt) of anybody 1, of a vassal who has trespassed, or of a friend. Require not (of us),a sinful brother's debt 2. May we not have to suffer under the spirit which avenges a friend's or a (hostile) deceiver's guilt 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh nicht zu der Heimlichkeit irgend eines Unehrlichen, eines täuschenden Insassen oder Freundes! Suche nicht die Schuld eines unredlichen Bruders an uns heim, o Agni! Wir möchten nicht den Anschlag eines schelmischen Freundes auskosten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verfolg als Rächer nicht des Menschen Unrecht nicht falscher Freunde oder Hausgenossen, Nicht, Agni, räch die Schuld des sünd'gen Bruders, nicht komm uns Noth von feindlichen Genossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не преследуй (нас) никогда за чье-(нибудь) колдовство, обманы,  
 Ни члена племени, нарушающего (закон), ни товарища!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ अग्निं꣡ जात꣡वेदसं  
 होत्रवा꣡हं य꣡विष्ठियम्  
 द꣡धाता देव꣡म् ऋत्वि꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; repeated line
 दधा॑त । दे॒वम् । ऋ॒त्विज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ny* ← *ni*
 - \[adverb\]
@@ -79,40 +79,40 @@ genre M;; repeated line
 हे यजमानाः **जातवेदसम्** । जातानि भूतानि वेत्तीति जातवेदाः । तं **होत्रवाहं** होत्रस्य यज्ञस्य वोढारं **यविष्ठ्यं** युवतमं **देवं** द्योतमानम् **ऋत्विजम्** ऋतौ यष्टारम् **अग्निं** **नि** **धात** निधत्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Reverence **Agni**, by whom all that is, is known, the bearer of oblations, the young of the gods, the divine, the ministrant priest.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Install Agni Jātavedas, who conveys the oblations, the youngest (Agni), as god and priest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Set Agni Jatavedas down, the bearer of our sacred gifts,  
      MostYouthful, God and Minister.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Lay down Agni Gâtavedas, the carrier of offerings, the youngest, the god, the priest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Setzet den Agni Jatavedas ein, den Opferfahrer, den Jüngsten, den göttlichen Opferpriester!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wesenkenner Agni setzt, den jüngsten Opferfahrer hin, Den Gott, der richtig Opfer bringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Устройте Агни-Джатаведаса,  
 Увозящего жертвы, самого юного,  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पाधमद् अभि꣡शस्तीर् अशस्तिहा꣡  
 अ꣡थे꣡न्द्रो द्युम्नी꣡ आ꣡भवत्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 बृ꣡हद्भानो म꣡रुद्गण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दे॒वाः । ते॒ । इ॒न्द्र॒ । स॒ख्याय॑ । ये॒मि॒रे॒ । बृह॑द्भानो॒ इति॒ बृह॑त्ऽभानो । मरु॑त्ऽगण ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apādhamad* ← *apādhamat* ← *apadham* ← *√dham*
 - \[verb\], singular, Imperfect
@@ -115,7 +115,7 @@ genre M
 **अशस्तिहा** स्तोत्रशंसनरहितानां शत्रूणां हन्ता इन्द्रः **अभिशस्तीः** । ‘शसु हिंसायाम् । अभितो हिंसा येषां ते । तादृशान् । यद्वा । अभिशस्तीः शत्रुकृता हिंसाः । **अपाधमत्** अपागमयत् । **अथ** शत्रुहननानन्तरम् **इन्द्रः** **द्युम्नी** सर्वत्र द्योतमानयशोयुक्तः । यद्वा । तेषां धनापहरणेन धनादिमान् । **आभवत्** सर्वतः प्रसिद्धोऽभवत् । अथोत्तरार्धः प्रत्यक्षकृतः । हे **बृहद्भानो** बृंहणशीलतेजस्क महादीप्ते वा **मरुद्गण** । मरुतां सप्त गणा यस्य सन्ति स तथोक्तः । तादृश हे **इन्द्र** **देवाः** द्योतमानाः सर्वे देवाः **सख्याय** आत्मनः सखिभावाय **ते** त्वां **येमिरे** नियच्छन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,29 +126,29 @@ genre M
 Malevolent: abhiśastīḥ = injuries, enemies; calumnies, abhiśāpan; gods press you: yemire = tvāmniyacchanti; or, the gods anxiously devote themselves to win your friendship. cf. RV 8.98.3
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The smiter of malediction blew away the interdictions. Then brilliant  Indra was at hand.  
 The gods yielded themselves to partnership with you, Indra—you of  lofty radiance, with the Maruts as your flock.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra who quells the curse blew curses far away, and then in splendour came to us.  
      Indra, refulgent with thy Marut host! the Gods strove eagerly to win thy love.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er blies die Verleumdungen hinweg, die Hohnreden niederschlagend, und Indra blieb der Glanzreiche. Die Götter sind deiner Freundschaft ergeben, hochglänzender Indra, vom Gefolge der Marut Begleiteter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Fluchvertilger blies hinweg der Flucher Schar, da zeigte er sich kraftbegabt; Die Götter strebten, Indra, deiner Freundschaft zu, marutumscharter, glänzender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он сдул проклятия, (этот) убийца проклинающих,  
 И Индра стал сверкающим.  

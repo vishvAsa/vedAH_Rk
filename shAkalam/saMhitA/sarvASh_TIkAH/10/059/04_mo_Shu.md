@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मो꣡ षु꣡ णः सोम मृत्य꣡वे प꣡रा दाः  
 प꣡श्येम नु꣡ सू꣡रियम् उच्च꣡रन्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 परातरं꣡ सु꣡ नि꣡रृतिर् जिहीताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 द्युऽभिः॑ । हि॒तः । ज॒रि॒मा । सु । नः॒ । अ॒स्तु॒ । प॒रा॒ऽत॒रम् । सु । निःऽऋ॑तिः । जि॒ही॒ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mo* ← *mā*
 - \[adverb\]
@@ -136,37 +136,37 @@ popular;; repeated line
 हे **सोम** **नः** अस्मान् **सु** सुष्ठु **मृत्यवे** **मो** **परा** **दाः** मैव परादानं कुरु । मृत्य्वधीनान् मा कार्षीः । किंतु **नु** इदानीम् **उच्चरन्तम्** ऊर्ध्वं गच्छन्तमुदयन्तं **सूर्यं** **पश्येम** । चिरकालं जीवेमेत्यर्थः । जीवाभावे सूर्यदर्शनासंभवादित्यभिप्रायः। किंच **द्युभिः**। अहर्नामैतत् । अहोभिः दिवसैः **हितः** प्रेरितः **जरिमा** जराभावः **नः** अस्माकं **सु** सुखकरः **अस्तु** । शिष्टमुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Give us not up, **Soma**, to death; may we (long) behold the rising sun; may our old age brought on by(passing) days be happy; may **Nirṛti** depart far off.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do not hand us over to death, Soma. May we now look upon the sun as  it rises.  
 Throughout the days let our old age be secured for us. – Let  
 Dissolution move herself farther away.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us not up as prey to death, O Sorna still let us look upon the Sun arising.  
      Let our old age with passing days be kindly. Let Nirrti depart to distant places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns ja nicht dem Tode preis, o Soma; wir möchten noch die Sonne aufgehen sehen! Das von den Himmlischen bestimmte Alter soll uns fein zuteil werden. - Die Nirriti soll sich recht weit weg heben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht gib, o Soma, uns dem Tod zur Beute, noch möchten sehn wir, wie die Sonne aufgeht, Viel Tage möge unser Alter dauern, die Todesgöttin möge fernhin weichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть не выдашь ты нас смерти никогда, о сома!  
 Пусть увидим мы еще, как восходит солнце!  

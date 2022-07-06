@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡थो न꣡ यातः꣡ शि꣡क्वभिः कृतो꣡  
 दिया꣡म् अ꣡ङ्गेभिर् अरुषे꣡भिर् ईयते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शू꣡रस्येव त्वेष꣡थाद् ईषते व꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आत् । अ॒स्य॒ । ते । कृ॒ष्णासः॑ । ध॒क्षि॒ । सू॒रयः॑ । शूर॑स्यऽइव । त्वे॒षथा॑त् । ई॒ष॒ते॒ । वयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
@@ -133,7 +133,7 @@ genre M
 अयमग्निः **शिक्वभिः** रज्जुभिः **कृतः** बद्धः **रथो** **न** रथ इव । स यथा स्वीयैश्चक्रादिभिः अङगैः **ईयते** तद्वत् **यातः** स्थापितः सन् **अरुषेभिः** गमनशीलैः **अङ्गेभिः** ज्वालादिरूपैः अवयवैः **द्याम्** अन्तरिक्षम् आज्येन हृष्टः सन् **ईयते** गच्छति ॥ ‘ईङ् गतौ ॥ **आत्** प्रवृद्ध्यनन्तरम् **अस्य** अग्नेः **ते** **सूरयः** सरणयो मार्गाः **कृष्णासः** कृष्णवर्णा भवन्ति । यत एवं भवन्ति तदर्थं **दक्षि** दहति काष्ठान् ॥ पुरुषव्यत्ययः । छान्दसः शपो लुक् ॥ किंच ज्वलितस्याग्नेः **त्वेषथात्** दीप्तात् तेजसः सकाशात् **वयः** गमनवन्तः पक्षिमृगादयः **ईषते** गच्छन्ति ॥ ईष गत्यादौ । ‘ बहुलं छन्दसि ' इति शपो लुक्॥ पलायन्ते । तत्र दृष्टान्तः । शूरस्य त्वेषथात् वय इव । कस्यचित् विक्रान्तस्य दीप्तात्तेजसः सकाशात् भीत्या पलायमाना इव । एवमन्तरिक्षं स्पृशन् सर्वतो दहतीति सर्वदा दावाग्निरूपेण स्तूयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,13 +144,13 @@ genre M
 Flames: angebhir aruṣebhiḥ gamanaśīlair avayavair jvālābhiḥ, by limbs, i.e., flames, having motion; beasts and birds: **vayaḥ** gamanavantaḥ pakṣimṛgādayaḥ, creatures having motion--birds, beasts and the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a driving-chariot made by dexterous (men), he speeds toward  heaven with ruddy limbs.  
 After that these black (plumes) of his, the patrons of the burning one,  retreat from his turbulent flaring, as (from that) of a champion, like  birds (from that) *of the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 What quality of a chariot is expressed by the ppl. yātá- to √yā ‘drive’ is unclear. Because of the phrase “made by dexterous (men),” which seems to refer to the chariot as object rather than to its current situation, I suggest that it’s a particular type of chariot, perhaps one made for long journeys. But it is also possible that it refers to the current situation, in which case it could mean “like a driven chariot” (i.e., one that is speeding).
 
@@ -180,28 +180,28 @@ subj. kṛṣṇā́saḥ … sūráyaḥ also clashes in number with the verb �
 The published translation reflects a double reading of initial śū́rasya ‘of a champion’ with partial emendation to *sū́ryasya / sū́raḥ ‘of the sun’ in its 2nd reading. In my view, the juxtaposition across pāda boundary of sūráyaḥ and śū́rasya was designed to bring to mind a third term, the sun, sharing its initial with sūráyah, its gen. case with śū́rasya, and its -ūr- with both. Though the patrons might shrink from the attack of a champion, birds are more likely to shrink from the flaring of the sun, either retreating from its heat or avoiding flying too high and therefore too near it. This double reading helps unify the two-part NP of c, the black (plumes) = patrons, and takes us back to the flight of the bird Agni in 7cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a swift chariot made by men who know their art, he with his red limbs lifts himself aloft to heaven.  
      Thy worshippers become by burning black of hue: their strength flies as before a hero's violence.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Like a chariot that goes forward, he goes to Heaven with his ruddy limbs, adorned with his locks of flames 1. Then his black (clouds of smoke), O burning one (?), the liberal ones (?) (appear) 2. The birds flee as before the fierceness of a hero 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da eilt er wie der fahrende Wagen, der von Gelernten gemacht ist, mit den rötlichen Gliedern gen Himmel. Dann fliehen diese schwarzen ......., vor seiner furchtbaren Erscheinung flieht das Geflügel wie vor der eines tapferen Mannes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich schnellem Wagen, den kunstfertige gebaut, steigt er mit Flammengliedern zu dem Himmel auf; Dann zeigen schwarz sich deine Bahnen, Flammender; die Vögel fliehen vor des Helden Ungestüm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно двинувшаяся колесница, созданная умелыми мастерами,  
 Движется он к небу со своими красными членами.  

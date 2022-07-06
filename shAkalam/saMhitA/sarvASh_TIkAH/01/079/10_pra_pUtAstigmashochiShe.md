@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ पूता꣡स् तिग्म꣡शोचिषे  
 वा꣡चो गोतमि अग्न꣡ये  
 भ꣡रस्व सुम्नयु꣡र् गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 भर॑स्व । सु॒म्न॒ऽयुः । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -84,45 +84,45 @@ genre M
 हे **गोतम** सूक्तद्रष्टः **सुम्नयुः** सुम्नं धनमात्मन इच्छस्त्वं **तिग्मशोचिषे** तीक्ष्णज्वालाय **अग्नये** **पूताः** शुद्धाः **वाचः** अग्नेर्गुणान् सम्यगभिदधतीः **गिरः** स्तुतीः **प्र** **भरस्व** प्रकर्षेण संपादय ॥ तिग्मशोचिषे । तिज निशाने '। ‘युजिरुचितिजां कुत्वं च ' ( उ. सू. १. १४३ ) इति मक् । तिग्मानि शोचींषि यस्य । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । सुम्नयुः । सुम्नशब्दात् क्यचि न च्छन्दस्यपुत्रस्य ' इति ईत्वदीर्घयोः प्रतिषेधः । ‘क्याच्छन्दसि' इति उप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Gotama**, desirous of wealth, offers to the sharp-flaming **Agni** pure prayers and praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Present your own purified speeches to sharp-flamed Agni, o Gotama; present your own hymns, as you seek his favor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The middle voice of the impv. bhárasva is correlated with the self-addressed of the poet. See Jamison 2007: 104; 2009 [Skjaervo Fs.], esp. p. 70, and VII.88.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Gotama, desiring bliss present thy songs composed with care  
      To Agni of the pointed flames.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O Gotama 1, bring forward purified words, bring songs to the sharp-flaming Agni, desirous of his favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Abgeklärte Reden trag, o Gotama, dem scharfflammigen Agni vor, Lobesworte, um Wohlwollen bittend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, bringe schöne Sprüche nun und Lieder dem hellglänzenden, Dem Agni dar, o Gotama.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вознеси, о Готама, для Агни  
 С острым пламенем чистые слова,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् आविथ न꣡रियं तुर्व꣡शं य꣡दुं  
 तुवं꣡ तुर्वी꣡तिं वयि꣡यं शतक्रतो  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुव꣡म् पु꣡रो नवतिं꣡ दम्भयो न꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वम् । रथ॑म् । एत॑शम् । कृत्व्ये॑ । धने॑ । त्वम् । पुरः॑ । न॒व॒तिम् । द॒म्भ॒यः॒ । नव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -116,7 +116,7 @@ genre M
 हे इन्द्र **त्वं** नर्यादीन् त्रीन् राज्ञः **आविथ** ररक्षिथ । तथा हे **शतक्रतो** बहुविधकर्मन् बहुविधप्रज्ञ वा **त्वं** **वय्यं** वय्यकुलजं तुर्वीतिनामानं राजानम् आविथ इत्येव । अपि च **त्वं** **रथं** रंहणस्वभावम् एतत्संज्ञमृषिम् **एतशम्** एतत्संज्ञकं **धने** धननिमित्ते संग्रामे **कृत्व्ये** कर्तव्ये सति आविथेति शेषः । यद्वा पूर्वोक्तानां राज्ञां रथम् । एतशः इति अश्वनाम । एतशम् अश्वं च ररक्षिथेति योज्यम् । तथा **त्वं** शम्बरस्य **नवतिं** **नव** नवोत्तरनवतिसंख्याकाः **पुरः** पुराणि **दम्भयः** व्यनीनशः ॥ एतशम् । एति गच्छतीति एतशः । इण् गतौ '। इणस्तशन्तशसुनौ ' (उ. सू. ३. ४२९) इति तशन्प्रत्ययः । गुणः । कृत्व्ये । कर्तव्ये इत्यस्य शब्दस्य वर्णविकारः पृषोदरादित्वात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,34 +129,34 @@ Turvaśa may be **Turvasu**, son of **Yayāti**, since another son of Yayāti, Y
 Etasam = **aśva**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You helped the manly Turvaśa and Yadu; you (helped) Turvīti and  Vayya, o you of a hundred resolves;  
 you (helped) Etaśa and his chariot when the stake was to be decided,  and you subjugated the ninety-nine fortifications.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Support for supplying ‘help’ in pāda c (from āvitha in a) comes from VIII.50.9 yáthā prā́va étaśam kṛ́tvye dháne, with the same root √av ‘help’ and the same situation depicted.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou helpest Narya, Turvasa, and Yadu, and Vayya's son Turviti, Satakratu!  
      Thou helpest horse and car in final battle thou breakest down the nine-and-ninety castles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast den mannhaften Turvasa und Yafu beigestanden, du dem Turviti und Varya, o Ratreicher, du dem Wagenkämpfer Etasa im Kampf um den Siegerpreis. Du überrumpelst die neun und neunzig Burgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du halfst dem Narja, halfst dem Turvaça, Jadu, dem Vajia, Turviti, hundertkräftiger, Dem schnellen Ross und Wagen im Entscheidungskampf, vernichtet hast die neunundneunzig Burgen du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты помог мужественному Турваше (и) Яду,  
 Ты – Турвити (и) Вайе, о стоумный,  

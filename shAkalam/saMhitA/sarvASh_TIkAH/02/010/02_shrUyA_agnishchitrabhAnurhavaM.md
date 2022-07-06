@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रूया꣡ अग्नि꣡श् चित्र꣡भानुर् ह꣡वम् मे  
 वि꣡श्वाभिर् गीर्भि꣡र् अमृ꣡तो वि꣡चेताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उता꣡रुषा꣡ अ꣡ह चक्रे वि꣡भृत्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 श्या॒वा । रथ॑म् । व॒ह॒तः॒ । रोहि॑ता । वा॒ । उ॒त । अ॒रु॒षा । अह॑ । च॒क्रे॒ । विऽभृ॑त्रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrūyā* ← *śrūyāḥ* ← *śru*
 - \[verb\], singular, Present optative
@@ -116,47 +116,47 @@ genre M
 अमृतोमरणधर्मरहितोविचेताविशिष्टप्रज्ञः चित्रभानुः विचित्रदीप्तिः चायनीयदीप्तिर्वा सोग्निः विश्वाभिर्गीर्भिः स्तुतिसाधनभूतैः सर्वैर्वाक्यैः क्रियमाणं मे मम हवं स्तोत्रंश्रूयाः श्रृणोतु तस्याग्नेरथं श्यावाश्याववर्णौ अश्वौवहतः वाअपिवा रोहितारोहिद्वर्णौ उतापिच अरुषाआरोचमानावश्वौरथं वहतः रोहिद्वर्णयोरश्वयोःश्यावादिवर्णपरिग्रहः स्वेच्छयाभवति विभृत्रः नानास्थानेषु विहृतः चक्रे- अहऋत्विग्भिरकारिखलु करोतेःकर्मणिलिट् ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Agni**, who is immortal, of manifold wisdom, and wonderful splendour, hear my invocation, (preferred) with all laudations; tawny, or red, or purple horses draw his car; he has been borne in various directions.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May he please hear my call—Agni of bright radiance—along with all my  songs—he immortal and discriminating.  
 Two dark brown horses convey his chariot, or two red ones. And two  ruddy ones certainly he has made his (team), he who is dispersed in  
 many places.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The urgency of the poet’s desire is conveyed by the isolated precative śrūyā́(ḥ), the only precative to this root, hence my “may he please hear.” It also provides a phonological template for śyāvā opening the next hemistich (2c) and, more distantly, uttānā́yām and śiriṇāyām opening 3a and c respectively.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Agni the resplendent hear my calling through all my songs, Immortal, keen of insight.  
      Dark steeds or ruddy draw his car, or carried in sundry ways he makes them red of colour.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni with bright splendour, mayest thou hear my call with all my prayers, thou a wise immortal. The two tawny (horses) draw thy chariot or the two red (horses), or He the wide-ranging one has made the two ruddy (horses draw his chariot) 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der prächtig strahlende Agni möge meinen Ruf mit allen Lobesworten erhören, der verständige Unsterbliche. Zwei Braune oder zwei Rotfüchse fahren seinen Wagen; auch hat er sich zwei rötliche als Gespann genommen, der auf die Feuerstätte zu verteilende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der hellentflammte Agni hör mein Rufen bei allen Liedern, er, der ew'ge, weise; Den Wagen fahren schwarz und braune Rosse, und weit sich breitend macht er feuerroth sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Агни с ярким лучом услышит мой зов  
 Вместе со всеми хвалебными песнями, (он,) бессмертный, прозорливый.  

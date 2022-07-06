@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवे꣡द् इ꣡न्द्रं वृ꣡षणं व꣡ज्रबाहुं  
 व꣡सिष्ठासो अभि꣡ अर्चन्ति अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सः । नः॒ । स्तु॒तः । वी॒रऽव॑त् । पा॒तु॒ [धा॒तु॒] । गोऽम॑त् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eved* ← *eva*
 - \[adverb\]
@@ -133,7 +133,7 @@ genre M;; repeated line
 **वसिष्ठासः** वसिष्ठाः **वज्रबाहुं** वज्रकल्पबाहुं **वृषणं** कामानां वर्षितारम् **इन्द्रम्** **एवेत्** उक्तेन प्रकारेणैव **अर्कैः** अर्चनीयैः स्तोत्रैः **अभ्यर्चन्ति** अभिपूजयन्ति । **स्तुतः** **सः** इन्द्रः **नः** अस्मभ्यं **वीरवत्** पुत्रादियुक्तं **गोमत्** गोयुक्तं च धनं **धातु** ददातु । स्पष्टमन्यत् ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ genre M;; repeated line
 **Pāta** svastibhiḥ **sadā** naḥ: addressed to the priests, yuyam ritvijaḥ: **Yajus**. 20.54
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In this way, just to Indra the bull with the mace in his arm do the  Vasiṣṭhas chant with chants.  
 Let him, praised, establish (wealth) consisting of men and of cows for  us. – Do you protect us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus the Vasisthas glorify with praises Indra, the Powerful whose arm wields thunder.  
      Praised, may he guard our wealth in kine and heroes. Ye Gods, preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also besingen die Vasistha´s mit Lobgesängen den Bullen Indra, der die Keule im Arm hat. Gepriesen soll er uns Besitz von Söhnen und Rindern bringen! - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ja besingen Indra die Vasischtha's den Stier mit Liedern, der im Arm den Blitz hält; Er schütze Mann und Rind uns, hochgepriesen; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот так Индру, быка, громовержца,  
 Воспевают в песнях Васиштхи.  

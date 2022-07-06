@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रः सी꣡तां नि꣡ गृह्णातु  
 ता꣡म् पूषा꣡ अ꣡नु यछतु  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 उ꣡त्तराम्-उत्तरां स꣡माम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 सा । नः॒ । पय॑स्वती । दु॒हा॒म् । उत्त॑राम्ऽउत्तराम् । समा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -116,36 +116,36 @@ popular;; epic anuṣṭubh (424)
 **इन्द्रः** देवः **सीतां** सीताधारकाष्ठं **नि** **गृह्णातु** । **तां** सीतां **पूषा** देवः **अनु** यच्छतु नियमयतु । **सा** द्यौः **पयस्वती** उदकवती" **दुहां** दुह्यात् । कदेति तदुच्यते। **उत्तरामुत्तरां** **समाम्** उत्तरमुत्तरं संवत्सरम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra** take hold of **Sītā**; may **Pūṣan** guide her; may she, well stored with water, yield it as milk, year after year.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra lay down the Furrow; let Pūṣan extend her straight.  
 Let her, full of milk, yield milk to us, summer after summer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra press the furrow down, may Pusan guide its course aright.  
      May she, as rich in milk, be drained for us through each succeeding year.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra soll die Ackerfurche festlegen, Pusan soll sie einhalten. Sie soll uns milchreich auch jedes weitere Jahr Milch geben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es möge Indra in die Furche hineingreifen, die Richtung gebe ihr Puschan; sie möge uns nahrungsreich strömen in jedem Jahr, das folgen mag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра пусть вдавит борозду!  
 Пушан пусть направит ее!  

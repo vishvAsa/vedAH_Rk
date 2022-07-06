@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मां᳐꣡ न꣡रः सुअ꣡श्वा वाज꣡यन्तो  
 मां᳐꣡ वृताः꣡ सम꣡रणे हवन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡यर्मि रेणु꣡म् अभि꣡भूतिओजाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कृ॒णोमि॑ । आ॒जिम् । म॒घऽवा॑ । अ॒हम् । इन्द्रः॑ । इय॑र्मि । रे॒णुम् । अ॒भिभू॑तिऽओजाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *māṃ* ← *mām* ← *mad*
 - \[noun\], accusative, singular
@@ -123,37 +123,37 @@ genre M
 **मां** मामेव **स्वश्वाः** शोभनाश्वाः **वाजयन्तः** संग्राममिच्छन्तः **नरः** नेतारो भटाः । अनुगच्छन्ति इति शेषः । **माम्** एव **वृताः** सन्तः **समरणे** संग्रामे **हवन्ते** आह्वयन्ति युद्धार्थम् । **मघवा** धनवान् **अहमिन्द्रः** सन् **आजिं** रणं **कृणोमि** करोमि । **अभिभूत्योजाः** परेषाम् अभिभाविबलोऽहं **रेणुम्** **इयर्मि** प्रेरयामि ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Warriors well mounted, ardent for contest invoke me; selected (combatants invoke) me in battle; I, the affluent **Indra**, instrumental gate the conflict, and, endowed with victorious prowess, I raise up the dust (in the battle).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [As Indra:] Men call upon me as they race to victory with their good  horses; surrounded in battle they call upon me.  
 
 I make the contest—I who am generous Indra. Of overwhelming power,  I raise the dust.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Heroes with noble horses, fain for battle, selected warriors, call on me in combat.  
      I Indra Maghavan, excite the conflict; I stir the dust, Lord of surpassing vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mich rufen die Männer, die gut zu Roß wettfahren, an, mich, wenn sie in der Schlacht umringt sind. Ich errege den Streit, ich der freigebige Indra; ich wirble Staub auf, bin von überwältigender Stärke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Mich rufen an die rossbegabten Männer, im Kampfe mich die eilenden erles'nen; Ich mächtiger errege Schlacht, ich Indra, reg' auf den Staub, von übermächt'ger Kraft ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Меня призывают мужи с прекрасными конями, жаждущие награды,  
 Меня – когда они окружены в сражении.  

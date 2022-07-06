@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वृत्रहा꣡ इ꣡न्दर+ ऋभुक्षाः꣡  
 सद्यो꣡ जज्ञानो꣡ ह꣡वियो बभूव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मो न꣡ पीतो꣡ ह꣡वियः स꣡खिभ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 कृ॒ण्वन् । अपां॑सि । नर्या॑ । पु॒रूणि॑ । सोमः॑ । न । पी॒तः । हव्यः॑ । सखि॑ऽभ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -124,44 +124,44 @@ genre M
 **ऋभुक्षाः** महान् । यद्वा । ऋभुशब्देनर्भ्वादयस्त्रयो गृह्यन्ते । ऋभुभिः सह क्षियति निवसतीति तादृशः। **वृत्रहा** **सः** **इन्द्रः** **सद्यः** तदानीमेव **जज्ञानः** प्रादुर्भवन् **हव्यः** सर्वैः स्तोतृभिः यष्टॄभिराह्वातव्यो **बभूव** । किंच **नर्या** नर्याणि । नरा मनुष्याः कर्मनेतारः । तेभ्यो हितानि **पुरूणि** बहूनि **अपांसि** कर्माणि **कृण्वन्** कुर्वन् **सखिभ्यः** हविष्प्रदानेनोपकारकत्वान्मित्रेभ्य ऋत्विग्भ्यः **हव्यः** आह्वातव्यो हवनयोग्यो वाभूत् । तत्र दृष्टान्तः। **सोमो** **न** यथा **पीतः** सोमो यष्टृभ्यः स्वर्गादिफलानि कुर्वन् देवैराह्वातव्यो भवति तद्वत् ॥ ॥ ३५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As soon as he was born, he, **Indra**, the slayer of **Vṛtra**, the chief of the **Ṛbhus**, was worthy to beinvoked; he, performing many sacred acts for men, is worthy to be invoked for his friends like the quaffed **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That’s the Vr̥tra-smiter—Indra, the master of the R̥bhus. As soon as he  was born, he became one to be invoked.  
 Performing many manly labors, like soma when drunk he is to be  
 invoked by his comrades.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the full syntagm ápāṃsi náryā responding to the náryápāṃsi in 19c.
 
 Gerundives occasionally take dative agents, like sákhibhyaḥ here. Cf., e.g., I.33.2 stotṛ́bhyo hávyaḥ. ## 097 Indra VIII.97.1-3, 4-6: All three verses of the first tṛca begin with a form of rel. yáfollowed by voc. indra. Pāda 2c mimics this opening with yá(jamāne). The first two verses of the following tṛca (4-6) continue this pattern, if somewhat raggedly: 4a yác cakra, 5a yád, 5c yát.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Indra, Vrtra-slayer, this Rbhuksan, even at his birth, was meet for invocation.  
      Doer of many deeds for man's advantage, like Soma quaffed, for friends we must invoke him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Indra ist der Vritratöter, der Altmeister. Eben geboren ward er sogleich anzurufen, viele mannhafte Taten vollführend, wie der getrunkene Soma für die Freunde anzurufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Vritrafeind und Ribhuherrscher, Indra, geboren kaum war schon er anzurufen, Vollbringend viele männlich kühne Werke, den Freunden preislich wie getrunkner Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

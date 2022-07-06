@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पू꣡र्वाम् अ꣡नु प्रदि꣡शं याति चे꣡कितत्  
 सं꣡ रश्मि꣡भिर् यतते दर्शतो꣡ र꣡थो  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 सम꣡त्सु अ꣡नपच्युता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 वज्रः॑ । च॒ । यत् । भव॑थः । अन॑पऽच्युता । स॒मत्ऽसु॑ । अन॑पऽच्युता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūrvām* ← *pūrva*
 - \[noun\], accusative, singular, feminine
@@ -171,7 +171,7 @@ genre M
 **चेकितत्** जानानः सोमः **पूर्वां** प्राचीं **प्रदिशं** प्रकृष्टां दिशम् **अनु** **याति** अनुगच्छति । किंच **दर्शतः** सर्वैर्दर्शनीयः **दैव्यः** देवेषु भवस्तव **रथः** सूर्यरश्मिभिः **सं** **यतते** संगच्छते । पुनः **दर्शतो** **रथः** इत्यादरार्थम् । ततः **पौंस्या** पुंस्त्वावगमानि **उक्थानि** स्तोत्राणि **अग्मन्** इन्द्रं गच्छन्ति । तथा **जैत्राय** जयार्थं तानि स्तोत्राणि **इन्द्रं** **हर्षयन्** हर्षयन्ति । तथा तस्य **वज्रश्च** तमिन्द्रं गच्छति । **यत्** यदा **समत्सु** संग्रामेषु **अनपच्युता** अनपच्युतौ शत्रुभिरपराजितौ सोम त्वं चेन्द्रश्च युवां सह **भवथः** तदा स्तोत्रागमनादीनि भवन्ति । पुनः **अनपच्युता** इत्यादरार्थम् ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -182,7 +182,7 @@ genre M
 You are invincible: you two, i.e., Soma and Indra; or, better, so that you two, you and **Vajra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Following his earlier [/eastern] direction he drives, ever observant. He  aligns himself with the reins [/(sun’s) rays] as a chariot lovely to  
 see—a heavenly chariot lovely to see.  
@@ -190,30 +190,30 @@ The hymns, the manly powers, have come: they excite Indra to victory, when you [
 The last three hymns in the IXth Maṇḍala share a refrain, are all in paṅkti meter,  and can be safely considered supplements to the original book on the grounds of  language and subject matter (see Oldenberg 1888: 202).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There appears to be a pun on raśmíbhiḥ in b; the word means both ‘reins’ and (metaphorically) ‘rays’, and in fact the extended meaning is more common in the RV than the original literal one. Here both Geldner and Renou render only the sun’s rays sense (e.g., “avec les rayons (solaires)”), and this sense is certainly there, prompted by Soma’s eastern journey in pāda a, as well as the comparison to the sun in 1c. Cf., with the same verb, V.37.1 sáṃ bhānúnā yatate sū́ryasya “He aligns himself with the radiance of the sun.” But the repeated phrase darśató ráthaḥ (b, c) “chariot lovely to see” suggests that the ‘rein’ sense is also here. But the distinction is somewhat muddled in practice, since the “heavenly chariot” of c is most likely the sun, with which Soma is being identified.
 
 Pāda f contains a non-overt Vāyav Indraś ca construction: vájraś ca yád bhávathaḥ “when (you) and the mace become …” The 2nd du. verb bhávathaḥ presupposes a 2nd ps. Soma (expect voc. soma), conjoined with the nom. vájraḥ by ca.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He moves intelligent, directed to the East. The very beauteous car rivals the beams of light, the beautiful celestial car.  
      Hymns, lauding manly valour, came, inciting Indra to success, that ye may be unconquered, both thy bolt and thou, both be unconquered in the war.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In der früheren Richtung fährt er, die Blicke auf sich ziehend; er wetteifert mit der Sonne Strahlen, ein ansehnlicher Wagen, der göttliche ansehnliche Wagen. Es sind die Preislieder gekommen, die Kräfte: sie sollen dem Indra zum Siege Lust machen, daß du und die Keule, ihr beide, nie wankend seid, in den Schlachten nie wankend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach alter Weisung fährt er hellerglänzend jetzt, mit lichten Strahlen eint der schöne Wagen sich, der schöne Götterwagen sich; Genaht sind Sprüche voller Kraft, zum Sieg begeistern Indra sie; Denn unbesiegt seid beide ihr, du und dein Blitz, in Schlachten seid ihr unbesiegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он движется по восточной стороне, наблюдая;  
 Он подстраивается к лучам (солнца), прекрасная на вид колесница,  

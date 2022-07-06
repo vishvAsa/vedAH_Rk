@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् इ꣡त् त꣡म् अघ꣡म् अश्नवद्  
 दुःशं꣡सम् म꣡र्तियं रिपु꣡म्  
 यो꣡ अस्मत्रा꣡ दुर्ह꣡णावाँ उ꣡प द्वयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यः । अ॒स्म॒ऽत्रा । दुः॒ऽहना॑वान् । उप॑ । द्व॒युः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M
 **दुःशंसं** दुष्कीर्तिं **रिपुं** शत्रुं **तं** **मर्त्यम्** **इत्** मनुष्यमेव **अघं** पापं **सम्** **अश्नवत्** सम्यग्व्याप्नोतु । **यः** मर्त्यः **अस्मत्रा** अस्मासु अस्मद्विषये **दुर्हणावान्** दुष्टहननवान् उपजायते **द्वयुः** द्वाभ्यां प्रकाराभ्यां युक्तश्च भवति । अयमर्थः । प्रत्यक्षकृतो हितं वदति परोक्षकृतस्त्वहितम् । तादृशः कपटो द्वयुरित्युच्यते । यश्चास्मद्विषये कपटो भवति तमपि पापं व्याप्नोत्विति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,29 +101,29 @@ genre M
 Treacherous: dvayu, double-- he who professes kindness to our face and maligns us behind ourback, prayakṣakṛto hitam vadati parokṣakṛtas tu ahitam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Evil will get the defaming, cheating mortal  
 who, full of evil rage, is double-dealing right here in our midst.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May sin o'ertake our human foe, the man who speaketh evil thing,  
      Him who would cause our misery, whose heart is false.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den tückischen Sterblichen, der Übles redet, soll Unheil treffen, der uns mißgünstig ist und dazu doppelzüngig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, den erreiche Misgeschick, den bösen, hinterlist'gen Mann, Der wider uns auf Unheil sinnt, der falsche Mann.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть настигнет несчастье того  
 Злоречивого обманчивого смертного,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡व स्य꣡ वृषभो꣡ यु꣡वा  
 तुविग्री꣡वो अ꣡नानतः  
 ब्रह्मा꣡ क꣡स् तं꣡ सपर्यति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ब्र॒ह्मा । कः । तम् । स॒प॒र्य॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kva*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **स्यः** सः **वृषभः** वर्षिता **युवा** नित्यतरुणः **तुविग्रीवः** विस्तीर्णकन्धरः **अनानतः** कदाचिदप्यनवनत इन्द्रः **क्व** कुत्र वर्तत इति को जानातीत्यर्थः। **कः** **ब्रह्मा** स्तोता त्वा त्वां **सपर्यति** पूजयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,29 +101,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Showerer: **vṛṣabha** = a bull
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where is this young, strong-necked bull who cannot be bowed?  
 Who is the formulator who serves him?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where is that ever-youthful Steer, strong. necked and never yet bent down?  
      What Brahman ministers to him?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo ist jener Bulle, der junge, starknackige, unbeugsame? Welcher Hohepriester ehrt ihn?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo ist der jugendliche Stier von starkem Nacken ungebeugt? Wer ist der Beter, der ihn ehrt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где тот юный бык  
 С мощной выей, несгибаемый?  

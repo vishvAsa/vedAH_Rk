@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिस्रो꣡ वा꣡च ईरयति प्र꣡ व꣡ह्निर्  
 ऋत꣡स्य धीति꣡म् ब्र꣡ह्मणो मनीषा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मं यन्ति मत꣡यो वावशानाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 गावः॑ । य॒न्ति॒ । गोऽप॑तिम् । पृ॒च्छमा॑नाः । सोम॑म् । य॒न्ति॒ । म॒तयः॑ । वा॒व॒शा॒नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
@@ -118,7 +118,7 @@ genre M
 वह्निर्वोढा यजमानः तिस्रोवाचः ऋग्यजुःसामात्मिकाः स्तुतीः प्रेरयति । तथा ऋत- स्य यज्ञस्यधीतिं धारयित्रीं ब्रह्मणःपरिवृढस्य सोमस्य मनीषां मनसईशित्रीं कल्याणीं वाचं च प्रेरयति । किञ्च गोपतिं वृषभंयथा गावोभिगच्छन्ति तद्वत् । गवांस्वामिनं सोमं गावः पृच्छमानाः पृच्छन्त्यः सत्योयन्ति स्वपयसामिश्रयितुमभिगच्छन्ति । तथा वावशानाः कामयमानाः मतयः स्तोतारः सोमं यन्ति स्तोतुमभिगच्छन्ति ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ The bearer of the oblation: i.e., the worshipper; the three texts are: ṛk, **y
 **Brahmaṇaḥ** = the spureme, parivṛḍhasya Soma; the kine come to Soma to mix their milk with him
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The draft-horse rouses forth the three voices, the hymnic vision of  truth, the inspired thought of the sacred formulation.  
 The cows go asking for a cowherd; the thoughts go bellowing eagerly  to Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the “three voices” (tisró vā́caḥ) see comm. ad IX.33.4, 50.2.
 
@@ -156,23 +156,23 @@ All three vss. concentrate on ritual speech and on the noisy approach of both co
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three are the voices that the Courser utters: he speaks the thought of prayer, the law of Order.  
      To the Cow's Master come the Cows inquiring: the hymns with eager longing come to Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Drei Stimmen setzt der Wagenlenker in Bewegung, die Erkenntnis des Gesetzes, den Gedanken der heiligen Rede. Die Kühe kommen, sich nach dem Kuhherrn zu erkundigen, zu Soma kommen verlangend die Dichtungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei Stimmen sind es, die der Fahrer anregt, als Brauch des Opfers, als Gebetes Andacht; Die Kühe gehn zum Herrn der Kühe flehend, zum Soma gehen rauschend die Gebete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возница приводит в движение три речи,  
 Восприятие вселенского закона, мудрость священного слова.  

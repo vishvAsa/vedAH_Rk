@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ दश꣡भिर् विव꣡स्वत  
 इ꣡न्द्रः को꣡शम् अचुच्यवीत्  
 खे꣡दया त्रिवृ꣡ता दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 खेद॑या । त्रि॒ऽवृता॑ । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विवस्वतः** परिचरतो यजमानस्य **दशभिः** अङ्गुलीभिर्याचितः सन् **इन्द्रः** **कोशम्** । मेघनामैतत् । उदकसेचकं मेघं **दिवः** अन्तरिक्षसंबन्धिनं तत्सकाशाद्वा **आ** **अचुच्यवीत्** । व्यदारयदित्यर्थः। केन साधनेनेति तदुच्यते । **त्रिवृता** त्रिप्रकारवर्तनवता **खेदया** रश्मिना । यद्वा । अत्रेन्द्रशब्देनाग्निरादित्यो वा गृह्यते । खेदया त्रिवृतेति लिङ्गात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,29 +92,29 @@ Indra = **Agni** or **Āditya**; three-foldray: khedayā **trivṛtā**: kheday�
 Trivṛtā = tri prakāravartanavatā, revolving in three ways;khedayā (RV 8.77.3) = rajjvā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the ten (fingers) of Vivasvant, Indra has agitated the cask  
 of heaven with his triple hammer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Entreated by Vivasvan's ten, Indra cast down the water-jar  
      With threefold hammer from the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den zehn Fingern des Vivasvat hat Indra den Eimer des Himmels aufgezogen mit dreifachem Druck.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit zehn Vivasvatsöhnen goss den Wassereimer Indra aus, Mit dreigetheiltem Himmelskeil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Десятью (пальцами) Вивасвата  
 Индра подтянул бадью неба  

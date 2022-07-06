@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वं न꣡ गीर्भी꣡ रथि꣡यं सुदा꣡नवो  
 मर्मृज्य꣡न्ते देवय꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 प꣡र्षि रा꣡धो मघो꣡ना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒भे इति॑ । तो॒के इति॑ । तन॑ये । द॒स्म॒ । वि॒श्प॒ते॒ । पर्षि॑ । राधः॑ । म॒घोना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
@@ -101,7 +101,7 @@ genre M
 हे **दस्म** दर्शनीय विश्पते विशां पतेऽग्ने यं त्वां **सुदानवः** शोभनदानाः **देवयवः** देवानात्मन इच्छन्तो यजमानाः **रथ्यं** रथस्य वोढारम् **अश्वं** **न** अश्वमिव **गीर्भिः** स्तुतिभिः **मर्मृज्यन्ते** परिचरन्ति स त्वमस्माकं यजमानानां **तोके** पुत्रे **तनये** पौत्रे च **उभे** उभयस्मिन् **मघोनां** धनवतां **रायः** धनं **पर्षि** प्रयच्छ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,13 +112,13 @@ genre M
 With their hymns honour you: chariots of the gods areyoked by the praises of their worshippers; riich in children: ubhe and toke are treated as dual
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those of good gifts, seeking the gods, groom (you), the charioteer (of  the ceremonies), like a horse, with hymns.  
 Deliver both our progeny and our posterity (to safety), o wondrous  clanlord; deliver (to us) the generosity of the bounteous ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner/Renou take rathyàm as an adjective with áśvam in the simile (e.g., Geldner “Wie ein Wagenross …”). This is possible, if it is derived from the thematic stem rathyà-, rather than rathī́-, where Grassmann classifies it. However, the interposition of gīrbhíḥ distances it from the simile, and I prefer to take it as the acc. of rathī́- ‘charioteer’. Agni is often called the charioteer of the sacrifice (etc.), e.g., I.44.2 ágne rathī́r adhvarā́ṇām, and his description as “controller of chariots” (ráthānāṃ yámam) a few vss. later (10c) seems like a paraphrase of such a formula. In that case the poetic figures are more complex than the standard interpr.: there is a metaphor (Agni as charioteer), and this metaphorical identification is then compared explicitly in a simile to a horse, which is closely connected conceptually with the charioteer -- a kind of figurative chaining.
 
@@ -127,23 +127,23 @@ The words toká- and tánaya- regularly appear together; cf., with the same verb
 Taking párṣi as the verb governing both ubhé toké tánaye (as VI.48.10 strongly encourages us to do) and rā́dhaḥ in d requires slightly different interpretations of the verb. Renou, almost predictably, calls it a zeugma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Votaries, richly-gifted, deck him with their songs, even as the steed who draws the car.  
      On both, Strong Lord of men! on child and grandson pour the bounties which our nobles give.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Wagenroß putzen ihn mit Lobesworten die gottverlangenden Freigebigen heraus. Erhalte beiderlei Samen in der Nachkommenschaft, du Meister, du Clanfürst; erhalte die Freigebigkeit der Lohnherren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Liedern schmücken gleich wie eines Wagens Ross, die frommen, gabenreichen ihn; Beschütze beide: Kind und Enkel, herrlicher Gebieter, und der Reichen Schatz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как коня при колеснице, (люди) с прекрасными дарами,  
 Преданные богам, начищают (Агни) хвалебными песнями.  

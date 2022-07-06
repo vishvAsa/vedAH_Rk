@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡व्यं त꣡द् उक्थि꣡यं हितं꣡  
 दे꣡वासः सुप्रवाचन꣡म्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वित्त꣡म् मे अस्य꣡ रोदसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 ऋ॒तम् । अ॒र्ष॒न्ति॒ । सिन्ध॑वः । स॒त्यम् । त॒ता॒न॒ । सूर्यः॑ । वि॒त्तम् । मे॒ । अ॒स्य । रो॒द॒सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], nominative, singular, neuter
@@ -119,7 +119,7 @@ genre M;; repeated line
 अग्ने तव त्यदुक्थ्य देवेष्वस्त्याप्यम् । स नः सुत्तो मनुष्वदा देवान्यक्षि विदुष्टरो वित्तं मै अस्य रोदसी ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,14 +130,14 @@ genre M;; repeated line
 Commended vigour: **bala** = strength, which is ukthyam (praiseworthy)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Anew has this (speech) been established worthy to be spoken, good to  proclaim, o gods.  
 The rivers stream truth; the sun stretches through the real.  
 – Take heed of this (speech) of mine, you two world-halves.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">
 <details open><summary><h2>12-15 ...{Loading}...</h2></summary>
 
@@ -147,23 +147,23 @@ This set of verses forms a small internal ring: 12 and 15 contain ṛtám and n�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Firm is this new-wrought hymn of praise, and meet to be told forth, O Gods.  
      The flowing of the floods is Law, Truth is the Sun's extended light. Mark this my woe, ye Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aufs neue ist das preisliche, gelobte Werk gefestigt, Ihr Götter: Die Flüsse strömen regelmäßig, die Sonne hat sich wahrhaft ausgebreitet. - Seid in solcher Lage, meiner Eingedenk, Himmel und Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Preiswürdig ist dies neue Werk, o Götter, und des Rühmens werth, Die Flüsse strömen aus das Recht, und Wahrheit strahlt die Sonne aus. Bezeugt mir, Erd' und Himmel, das.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Снова укреплено это достойное воспевания,  
 Заслуживающее лучшего восхваления (светило), о боги.  

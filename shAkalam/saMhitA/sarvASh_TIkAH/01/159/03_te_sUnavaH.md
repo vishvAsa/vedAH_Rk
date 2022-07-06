@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ सून꣡वः सुअ꣡पसः सुदं꣡ससो  
 मही꣡ जज्ञुर् मात꣡रा पूर्व꣡चित्तये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुत्र꣡स्य पाथः पद꣡म् अ꣡द्वयाविनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स्था॒तुः । च॒ । स॒त्यम् । जग॑तः । च॒ । धर्म॑णि । पु॒त्रस्य॑ । पा॒थः॒ । प॒दम् । अद्व॑याविनः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -131,7 +131,7 @@ genre M
 **ते** प्रसिद्धाः **सूनवः** युवाभ्यामुत्पन्नाः पुत्रस्थानीयाः प्रजाः **स्वपसः** शोभनकर्माणः **सुदंससः** शोभनदर्शनाः युवां 'मही महत्यौ **माता** मातृवद्धितकारिण्यौ **जज्ञुः** जानन्ति महानुभावतामवगच्छन्ति । किमर्थम् । **पूर्वचित्तये** प्रथमबुद्धये अनुग्रहरूपायै। किंच ते द्यावापृथिव्यौ **स्थातुः** स्थावरस्य **जगतः** जङ्गमस्य **पुत्रस्य** पुत्रस्थानीयस्य उभयविधस्य जगतः **अद्वयाविनः** न विद्यते द्वयं यस्य तादृशस्य । स्वजीवनाय युष्मद्व्यतिरिक्तमजानतः इत्यर्थः । ईदृशस्य **धर्मणि** धारणे रक्षणे निमित्तभूते सति **पदं** स्थानं **सत्यम्** अबाध्यं **पाथः** रक्षथः दत्थ इत्यर्थः । यद्वा। ते प्रसिद्धाः सूनवः उत्पाद्यमानाः स्वपसः शोभनप्रकाशादिकर्माणः सुदंससः शोभनदर्शनाः सुष्ठु उपक्षयन्तः वा आत्मानं स्वव्यापाराय ईदृशा रश्मयो मही महत्यौ द्यावापृथिव्यौ पूर्वचित्तये प्राणिनां पूर्वज्ञानाय जज्ञुः जातवन्तः द्यावापृथिव्योरन्तराले व्याप्ता इत्यर्थः। किंच स्थातुर्जगतश्च धर्मणि धारणे तदर्थम् अद्वयाविनो मार्गद्वयरहितस्य ॥ ‘बहुलं छन्दसि ' इति द्वयशब्दात् मत्वर्थीयो विनिः ।  ‘ अन्येषामपि दृश्यते' इति दीर्घः ॥ पुत्रस्य युष्मत्पुत्रस्थानीयस्यादित्यस्य पदं मार्गं सत्यं पाथः अवश्यं रक्षथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,13 +142,13 @@ genre M
 On none other than you: advayāvinaḥ = having no second parent or protector, no other to depend upon for subsistence
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These their sons, good artisans with wondrous powers, begot the two  great ones, two mothers, to be first in their thought.  
 You two protect what is real in upholding the standing and the moving;  you protect the footprint of your son who is unduplicitous [=Agni?].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of these sons as the gods is clear from deváputre in 1c: ‘the two [=Heaven and Earth] having the gods as sons’.
 
@@ -157,23 +157,23 @@ The referent of the son in d is disputed. Sāyaṇa (followed by Witzel Gotō) t
 It's also the case that Agni is frequently associated with padá-. The hemistich may convey that Heaven and Earth protect the general world of reality (c) and the specific world of the ritual (d). I think it esp. unlikely that it is the Sun here, because of the complementary relationship between I.159 and I.160, with the latter being the realm of the Sun. See published introduction. to I.160.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Sons of yours well skilled in work, of wondrous power, brought forth to life the two great Mothers first of all.  
      To keep the truth of all that stands and all that moves, ye guard the station of your Son who knows no guile.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese kunstfertigen, guteswirkenden Söhne erzeugten die großen Eltern, daß man ihrer zuerst gedenken soll. Ihr beiden schützet die Wahrheit, um alles was steht und geht, zu erhalten und ihr schützet den Schritt eines aufrichtigen Sohns.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diese Söhne, reich an Kunst und Wunderkraft, gestalteten sogleich das grosse Aelternpaar; Im Umfang dessen, was da geht und steht, beschützt den festen Ort des Sohnes ihr, der nimmer täuscht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти сыновья, прекрасно действующие, совершающие чудеса,  
 Породили пару великих родителей, чтобы (о них) думали в первую очередь.  

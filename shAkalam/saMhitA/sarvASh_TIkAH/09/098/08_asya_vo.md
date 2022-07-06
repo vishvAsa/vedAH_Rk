@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ वो हि꣡ अ꣡वसा  
 पा᳐꣡न्तो दक्षसा꣡धनम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दधे꣡ सु꣡वर् ण꣡ हर्यतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । सू॒रिषु॑ । श्रवः॑ । बृ॒हत् । द॒धे । स्वः॑ । न । ह॒र्य॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -104,20 +104,20 @@ genre M
 **वः** । छान्दसो वसादेशः । हिरवधारणे । वो यूयम् **अस्य** सोमस्य **अवसा** रक्षणेन **दक्षसाधनं** बलस्य साधनं रसं **पान्तः** पिबन्तो भवथ । **स्वर्ण** आदित्य इव **हर्यतः** सर्वैः काम्यमानः **यः** अयं सोमः **सूरिषु** स्तोत्राणि प्रेरयत्सु स्तोतृषु **बृहत्** महत् प्रभूतं **श्रवः** अन्नं **दधे** विदधे । स्थापयतीति यावत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For you by his protection have drunk the strengthening (juice of that **Soma**) who, beloved (by all) like the sun, has bestowed abundant food upon his worshippers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For with his help (the gods) are drinking (the exhilarating drink) that  brings skill to realization, the delightful one who has placed lofty fame among your [=poets’]  
 patrons, like the sun (in heaven).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents a number of small interrelated difficulties. We can start with pā́ntaḥ. As was discussed ad I.122.1 (q.v.), forms of the shape pā́nt(a)- belong to two different stems; the better attested is the them. noun pā́nta- ‘drink’, but there are two exx. of the act. root aor. part. to √pā ‘drink’, at I.122.4 and in our passage here. Both stems often show distraction of the root syll., and that scansion is required here. The participle is pl.; the question then is what case it’s in. Geldner takes it as a voc., coreferential with vaḥ in pāda a, with dakṣasā́dhanam the subj. of both the main cl. in ab and the rel. cl. in cd, or so I read his tr.: “Denn durch seine Gunst wird euch, ihr Trinkenden, ein kraftwirkendes Mittel, der den freigebigen Herren hohen Ruhm verschafft.” However, this is syntactically impossible: if dakṣasā́dhanam is the subj.
 
@@ -136,23 +136,23 @@ See comm. there and my 2010 Fs. Melchert article (this passage and the formula d
 Note that since svàr may invoke sū́rya-, there may be indirect phonetic play between sūríṣu ‘in the patrons’ and the ‘sun’ word.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through longing for this sap of yours ye drink what brings ability,  
      Even him who, dear as heaven's own light, gives to our princes high renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn durch seine Gunst wird euch, ihr Trinkenden, ein kraftwirkendes Mittel, der den freigebigen Herren hohen Ruhm verschafft, wie die Sonne begehrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn aus Verlangen nur nach ihm trinkt ihr den Kraft vollendenden, Der grossen Ruhm den Fürsten schenkt, begehrenswerth wie Himmelsglanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это благодаря его помощи вам,  
 (Боги,) пьющие (сому), (того,) проявляющего силу действия,  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सद् अ꣡त्र सुवी꣡रियम्  
 उत꣡ त्य꣡द् आशुअ꣡श्वियम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अभी꣡द् अ꣡यज्वनो भुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 दे॒वाना॑म् । यः । इत् । मनः॑ । यज॑मानः । इय॑क्षति । अ॒भि । इत् । अय॑ज्वनः । भु॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asad* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
@@ -122,14 +122,14 @@ genre M;; repeated line
 **यः** यजमानः **देवानां** **मनः** यष्टुमिच्छति **अत्र** अस्मिन् यजमाने **सुवीर्यं** शोभनवीर्योपेतं पुत्रादिकम् **असत्** भवत्येव । **उत** अपि च **आश्वश्व्यम्** आशुगमनाश्वसंघयुक्तं **त्यत्** तद्धनादिकं तस्मिन् यजमाने भवति । देवानां मनो यो जनो हविर्भिर्यष्टुमिच्छति यद्वा पूजयितुमिच्छति स जनः **अयज्वनः** सर्वानभिभवत्येव ॥ ॥ ४० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To him in this life is a valiant progeny, to him are swift herds of horses; the celebrator of the sacrifice,who desires to propitiate the mind of the gods, overcomes those who are no sacrificers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There will be (a mass) of good heroes here and also (a mass) of swift  horses.  
 – Just he who, as sacrificer, seeks to attain the mind of the gods will  
@@ -137,28 +137,28 @@ surpass non-sacrificers.
 Hymns 32–34 form a small collection, with all three hymns devoted to Indra, and  frequently mentioning the Kaṇvas internally (and attributed by the Anukramaṇī to  three different Kāṇva poets). See Oldenberg (1888: 215).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A nice etymological pun in āśv-áśvya-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Such strength of heroes shall be his, such mastery of fleet-foot steeds.  
      The man who, sacrificing, strives to win the heart of Deities will conquer those who worship not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei ihm wird Besitz von guten Söhnen und der Besitz schneller Rosse sein, wer opfernd das Herz der Götter gewinnen will, der wird über die Opferlosen obsiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei ihm muss Heldenfülle sein und schneller Rosse Vollbesitz; Wer recht der Götter Sinn verehrt, und Opfer darzubringen strebt, der wird der Opferlosen Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У него будет владение прекрасными мужами,  
 А также владение быстрыми конями.  

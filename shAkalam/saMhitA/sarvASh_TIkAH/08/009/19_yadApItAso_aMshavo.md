@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् आ꣡पीतासो अंश꣡वो  
 गा꣡वो न꣡ दुह्र꣡ ऊ꣡धभिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्र꣡ देवय꣡न्तो अश्वि꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । वा॒ । वाणीः॑ । अनू॑षत । प्र । दे॒व॒ऽयन्तः॑ । अ॒श्विना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -98,42 +98,42 @@ genre M
 **यत्** यदा **आपीतासः** आ समन्तात् पीतवर्णाः **अंशवः** सोमलताः **ऊधभिः** **गावो** **न** गाव इव **दुहे** रसं दुहते । ‘लोपस्त आत्मनेपदेषु' इति तलोपः । ‘बहुलं छन्दसि' इति रुडागमः । **यद्वा** यदा च **देवयन्तः** देवान् कामयमाना ऋत्विजः **वाणीः** वाचः स्तुतीः **अनूषत** अस्तुवन् । अकुर्वन्नित्यर्थः । तदाश्विनौ देवौ प्रावतं प्ररक्षतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the yellow **Soma** stalks milk forth as cows from their udders, when the devout (priests) repeat thewords of praise, then, O **Aśvins**, preserve us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the swollen shoots, like cows, yield their milk with their udders, or when their voices have bellowed, those seeking the gods (wake) up  the Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ā́pīta- is better derived from √pī ‘swell’ (so Geldner, EWA s.v. PAYI ) than to √pā ‘drink’ (Lubotsky, Renou [though Renou allows a double sense]).
 
 Pāda d requires a verb to be supplied with prá. I follow Renou in supplying ‘wake’, on the basis of vs. 17. Geldner kṛnvata (on the basis of I.186.10), thus “… (lassen) … den Vorrang.” His model seems awfully distant, given that prá bodhaya appeared two vss. previously.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When yellow stalks give forth the juice, as cows from udders pour their milk,  
      And voices sound the song of praise, the Asvins' worshippers show first.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die aufgequollenen Stengel wie die Kühe mit vollen Eutern gemolken werden, oder wenn die Sangesstimmen erschallten, dann lassen die Gottergebenen den Asvin zum Vorrang,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn das durchtränkte Somakraut aus Eutern man wie Kühe melkt, Wenn Chorgesang erklungen ist, dann thun die Frommen sich hervor,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда набухшие стебли сомы  
 Доятся, как коровы (с полным) выменем,  

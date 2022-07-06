@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ त आ꣡श्विनीः पवमान धीजु꣡वो  
 दिव्या꣡ असृग्रन् प꣡यसा ध꣡रीमणि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ये꣡ त्वा मृज꣡न्ति ऋषिषाण वेध꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । अ॒न्तः । ऋष॑यः । स्थावि॑रीः । अ॒सृ॒क्ष॒त॒ । ये । त्वा॒ । मृ॒जन्ति॑ । ऋ॒षि॒ऽसा॒ण॒ । वे॒धसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -121,21 +121,21 @@ genre M
 हे **पवमान** सोम **ते** तव **आश्विनीः** व्याप्ताः ॥ ‘ अशू व्याप्तौ ' इत्यस्मादौणादिको विनिः । ततोऽण् । व्यत्ययेनाद्युदात्तः ॥ **धीजुवः** मनोवेगाः **दिव्याः** दिवि भवा दिवः पतन्त्यो धाराः **पयसा** युक्ताः **धरीमणि** धारके द्रोणकलशे **प्र** **असृग्रन्** गच्छन्ति । **ये** **वेधसः** विधातारः **ऋषयः** हे सोम **ऋषिषाण** ऋषिभिः संभक्त **त्वा** त्वां **मृजन्ति** अभिषुण्वन्ति ते ऋषयः **स्थाविरीः** स्थविरा धाराः **अन्तः** मध्ये पात्रस्यान्तः **प्र** **असृक्षत** प्रसृजन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified (**Soma**), your celestial steed-like (streams) as quick as thought are poured along with the milk into the receptacle; the ṛṣis, the ordainers (of sacrifice), who cleanse you, O ṛṣi-enjoyed (Soma), pour your continuous (streams) into the midst (of the vessel).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth have your heavenly (hymns), sped by insight, destined for the  Aśvins, surged with their milk into the support, o self-purifying one.  
 Forth within (the support) have the seers sent their substantial (hymns)  surging—those ritual experts who groom you, o you who win  
 seers [?].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just noted, this vs. seems to distill the first tṛca and is esp. similar to vs. 1. Like both 1 and 2 it opens prá te, and the 2nd hemistich also begins with prá, with prā́ntár echoing prá ta). Even more strikingly the first pāda matches 1a almost exactly: 1a prá ta āśávaḥ pavamāna dhījávaḥ 4a prá ta ā́śvinīḥ pavamāna dhījávaḥ The only difference is the third word, and the two are phonological multiforms of each other - or rather, ā́śvinīḥ must have been formed as a variant of āśávaḥ, since the vṛddhi deriv. ā́śvina-, -ī is found only here in the RV (though it occurs elsewhere in Vedic), while āśú- is quite common. In addition, asṛgran (4b) and asṛkṣata (4c) reprise ásṛkṣata of 2b, and páyasā (4b) recurs from 2c.
 
@@ -161,23 +161,23 @@ The next two vss. end their first hemistichs identically: 5b, 6b GEN satáḥ p�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fleet as swift steeds, thy drops, divine, thought-swift, have been, O Pavamana, poured with milk into the vat.  
      The Rsis have poured in continuous Soma drops, ordainers who adorn thee, Friend whom Rsis love.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine von den Asvin stammenden, Gedanken weckenden himmlischen Ströme, o Pavamana, haben sich mit ihrem Milchsaft in den Behälter ergossen. Die Rishi´s haben ihre von den Alten stammenden Lieder hinein ergossen. Die Meister, die dich, du Rishigewinner, sauber machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen sind mit Milch wie Rosse geistesschnell nach deiner Art die himmlischen, o Flammender; Dazwischen haben Seher fette Milch gemischt, die Priester, die, o Seherfreund, dich reinigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

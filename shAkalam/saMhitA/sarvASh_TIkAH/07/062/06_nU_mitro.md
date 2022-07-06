@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू᳐꣡ मित्रो꣡ व꣡रुणो अर्यमा꣡ नस्  
 त्म꣡ने तोका꣡य व꣡रिवो दधन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सु॒ऽगा । नः॒ । विश्वा॑ । सु॒ऽपथा॑नि । स॒न्तु॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -127,36 +127,36 @@ genre M;; repeated line
 **मित्रः** **वरुणः** **अर्यमा** चैते त्रयो देवाः **नु** अद्य **नः** अस्माकं **त्मने** आत्मने आत्महिताय **तोकाय** पुत्राय च **वरिवः** धनं **दधन्तु** प्रयच्छन्तु । **नः** अस्माकं **विश्वा** सर्वाणि गन्तव्यानि **सुगा** सुगमनानि **सुपथानि** च **सन्तु** भवन्तु । शिष्टं गतम् ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Mitra**, **Varuṇa**, **Aryaman** grant affluence to us and to our posterity; may all paths be easy of accessunto us; and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now let Mitra, Varuṇa, and Aryaman provide wide space for ourselves  and for our offspring.  
 Let all our paths be easy to travel. – Do you protect us always with your  blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now Mitra, Varuna, Aryaman vouchsafe us freedom and room, for us and for our children.  
      May we find paths all fair and good to travel. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun sollen Mitra, Varuna, Aryaman uns selbst und unserem Samen freie Bahn schaffen. Uns sollen alle Pfade, alle Wege, gut sein!-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun mögen Arjaman, Varuna, Mitra viel Glück verleihen uns und unsern Kindern; Schön gangbar seien alle unsre Wege; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так пусть же Митра, Варуна, Арьяман для нас  
 Самих (и) для потомства установит широкое пространство!  

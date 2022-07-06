@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इद꣡म् अग्ने सु꣡धितं दु꣡र्धिताद् अ꣡धि  
 प्रिया꣡द् उ चिन् म꣡न्मनः प्रे꣡यो अस्तु ते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ते꣡नास्म꣡भ्यं वनसे र꣡त्नम् आ꣡ तुव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । ते॒ । शु॒क्रम् । त॒न्वः॑ । रोच॑ते । शुचि॑ । तेन॑ । अ॒स्मभ्य॑म् । व॒न॒से॒ । रत्न॑म् । आ । त्वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idam*
 - \[noun\], nominative, singular, neuter
@@ -144,45 +144,45 @@ genre M
 हे **अग्ने** **इदम्** अस्मदीयं सोमादिरूपं हविः । कीदृशं तत् । **दुर्धितात्** दुष्टं स्थापितात् कठिनात् काष्ठादेः **अधि** उपरि **सुधितं** सुहितं सुष्ठु दत्तम् । **मन्मनः** मननीयात् **प्रियादु** चित् तव हृद्यादपि । उशब्दोऽवधारणे । चिच्छब्दोऽपिशब्दार्थः । **ते** तव **प्रेयः** अतिप्रियतमम् अस्तु । तत्किमित्याह । हे अग्ने **ते** तव **तन्वः** शरीरस्य घृतेनोज्ज्वलिताया ज्वालायाः **शुचि** निर्मलं **शुक्रं** दीप्तं **यत्** तेजः **रोचते** **तेन** सह **रत्नं** रमणीयं मणिमुक्तादिकं वितरन् **अस्मभ्यं** **वनसे** अस्मान् संभजस्व ॥ वनतेर्व्यत्ययेनात्मनेपदम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this oblation, **Agni**, carefully plural ced upon the rugged but agreeable (pile of fuel), be most acceptable to you, so that the pure radiance of your person n may shine brightly, and you may grant us wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this well-formed (thought) be dearer to you than one poorly  formed, o Agni, and dearer to you even than your own dear thought. With what of your body shines blazing bright you will win treasure  for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most take the expression in b to mean “let it be dearer to you than a dear thought”; this seems to me nonsensical or at least rhetorically weak. I suggest that there is a pun on priyá-, which can mean both ‘dear’ and ‘own’. Here the poet suggests that his composed thought will be dearer to Agni than anything the god himself might produce.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this our perfect prayer be dearer unto thee than an imperfect prayer although it please thee well.  
      With the pure brilliancy that radiates from thy form, mayest thou grant to us abundant store of wealth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May this well-composed (prayer), O Agni, be more welcome to thee than a badly-composed one—more welcome than even a welcome prayer. With the bright light of thy body win thou treasures for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses wohlgeratene Gedicht soll dir mehr als ein schlechtgeratenes, lieber noch selbst als ein liebes Gedicht sein, o Agni. Was Helles, Reines an deinem Körper glänzt, damit gewinnst du für uns das Kleinod.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies schön beschaffne sei, o Agni, lieber dir als schlechtes Opfer, ja auch als ein liebes Lied; Was leuchtend dir von deinem Leibe hell erstrahlt, mit dem gewähre du uns reiche Kostbarkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта хорошо сложенная (песнь) да будет тебе приятнее,  
 Чем плохо сложенная, (приятнее) даже, чем та, которая приятна!  

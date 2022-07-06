@@ -8,7 +8,7 @@ title = "+052"
 ‘न तद्दिवा' इति सप्तदशर्चं तृतीयं सूक्तम् ऋजिश्वन आर्षं वैश्वदेवम् । आदितः षट् त्रिष्टुभः सप्तम्याद्याः षट् गायत्र्यस्त्रयोदशी त्रिष्टुप् चतुर्दशी जगती शिष्टास्तिस्रस्त्रिष्टुभः । तथा चानुकान्तं -- ‘न तत्त्र्यूना सप्तम्याद्याः षड्गायत्र्यश्चतुर्दशी जगती ' इति । गतो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 52 (493)  
 All Gods  
@@ -19,7 +19,7 @@ This final, seventeen-verse hymn of the short All God cycle of Maṇḍala VI is
 is instead an effort to include all the gods, whatever their current or original loca tion (see esp. vss. 13, 15). After the first two tr̥cas, the language is for the most part  easy and without much character.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods For the structure of the hymn, see published introduction.
 </details>

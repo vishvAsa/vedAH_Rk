@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नः सोम प꣡वमानः किरा व꣡सु  
 इ꣡न्दो भ꣡व मघ꣡वा रा꣡धसो महः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ नो ग꣡यम् आरे꣡ अस्म꣡त् प꣡रा सिचः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शिक्ष॑ । व॒यः॒ऽधः॒ । वस॑वे । सु । चे॒तुना॑ । मा । नः॒ । गय॑म् । आ॒रे । अ॒स्मत् । परा॑ । सि॒चः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -140,7 +140,7 @@ genre M
 **आ** **किर** सर्वतो **विक्षिप** **नः** अस्मभ्यं हे **सोम** **पवमानः** पूयमानस्त्वम् । किम् । **वसु** वासकं धनं गवादिरूपम् । किंच **इन्दो** दीप्त हे सोम **मघवा** धनवांस्त्वं **महः** महतः **राधसः** धनस्य **भव** दातेति शेषः । तथा हे **वयोधः** अन्नस्य धातः सोम **वसवे** वासकाय परिचरते मह्यं **चेतुना** प्रकृष्टेन प्रज्ञानेन **सु** सुखं कल्याणं **शिक्ष** देहि । **नः** अस्मभ्यं प्रदेयं **गयं** धनम् **अस्मत्** **आरे** अस्मत्तो दूरं **मा** **परा** **सिचः** मा प्रेरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,14 +151,14 @@ genre M
 Our riches: no gayam, i.e., asmabhyām pradeyam dhanam, the wealth to be bestowed on us
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, purifying yourself, scatter goods for us; o drop, become a  bounteous (giver) of great largesse.  
 Conferrer of vigor, do your best for the good one [/Vasu] with your  kind attention. Do not pour away your property at a distance  
 from us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this vs. marks a departure from the first two conventional vss., with richer imagery, esp. in the first pāda. The first hemistich must refer to the soma plant, growing in the mountains. The god of the thunder(storm), Parjanya is his father because rain produces plants. The qualifier parṇín- means, in the first instance, ‘feathered’ (e.g., VIII.5.33 váyaḥ … parṇínaḥ “feathered birds”), but of course parṇá- ‘feather’ has already undergone widening in the RV to mean ‘leaf’ as well, and so it must be interpr. here.
 
@@ -173,23 +173,23 @@ Perhaps contributing to its unusual position is the parallelism of abhí gā́ut
 In d “unite with the stones” may be a little strong: better “come together with.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 While thou art cleansed, O Soma, scatter wealth on us; Indu, bestow great bounty as a liberal Prince.  
      Giver of life, with wisdom help to opulence; strew not our home possessions far away from us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütte uns, Soma, wenn du dich läuterst, Gut zu! Sei, o Saft, reichlicher Geber großen Lohnes! Streng dich wohlwollend für den Guten an, du Kraftspender! Vergeude nicht deine Habe fern von uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O streue, Soma, rieselnder, uns Schätze zu, sei, Indu, uns ein reicher Geber grossen Guts; Dem Guten spende, o Erquicker, holdgesinnt, und unsern Hausrath giesse nicht von uns hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Осыпь нас добром, о Сома-Павамана!  
 О сок, стань щедрым дарителем великой милости!  

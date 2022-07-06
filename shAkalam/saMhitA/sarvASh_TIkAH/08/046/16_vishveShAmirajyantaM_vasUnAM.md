@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वेषा᳐म् इरज्य꣡न्तं व꣡सूनां  
 सासह्वां꣡सं चिद् अस्य꣡ व꣡र्पसः  
 कृपयतो꣡ नून꣡म् अ꣡ति अ꣡थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 कृ॒प॒ऽय॒तः । नू॒नम् । अति॑ । अथ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, neuter
@@ -84,7 +84,7 @@ genre M
 हे इन्द्र त्वां **विश्वेषां** सर्वेषां **वसूनां** धनानाम् **इरज्यन्तम्** ईशानम् **अस्य** **वर्पसः** वारकस्य **कृपयतः** युद्धं कल्पयतः शत्रोः सासह्वांसम् अभिभवितारं स्तुवत इति शेषः । स त्वं **नूनं** क्षिप्रमद्यापीदानीमपि धनं प्रयच्छेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,13 +95,13 @@ genre M
 Abundant: atyatha = adyāpi, apyādya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Sing to him) who has control of all goods, who also, when he is  victorious, has control of this form (of his?),  
 (and has control) over those who yearn (for him). Now then!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Following Oldenberg, I supply the verb “sing to” (abhí … gāya) from 14 to govern the accusatives here.
 
@@ -116,23 +116,23 @@ I am now not so certain: I think kṛpayatáḥ may in fact be a gen. as Geldner
 What “this form” refers to is not clear to me. I assume that it is Indra’s form, quite possibly one of the multiforms that he takes on at will Since nūnám … átha reprises 15c, I find the interpolation of the áti puzzling, especially if it governs a previous nominal form. However, the poet (who seems to have little conscience about syntax) may have inserted áti here because áti[y]átha would echo the yáthā that ends vs. 14.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, Sovran Ruler of all precious things, who even hath power o'er this fair form of his,  
      As now it taketh shape, and afterward,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der über alle Schätze verfügt und auch wenn er Sieger ist, über diese Gestalt des Erbarmenden verfügt, jetzt und auch ferner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der über alle Güter verfügt, der Gewalt hat auch über jene Truggestalt, die sich jetzt über die Gebühr breit macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Воспой) распоряжающегося всеми благами  
 (Бога,) даже способного справиться с этим лживым обликом  

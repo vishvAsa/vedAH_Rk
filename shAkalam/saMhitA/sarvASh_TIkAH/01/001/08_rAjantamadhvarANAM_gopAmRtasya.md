@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡जन्तम् अध्वरा꣡णां᳐  
 गोपा꣡म् ऋत꣡स्य दी꣡दिविम्  
 व꣡र्धमानं सुवे꣡ द꣡मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वर्ध॑मानम् । स्वे । दमे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rājantam* ← *rāj*
 - \[verb noun\], accusative, singular
@@ -72,46 +72,46 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पूर्वमन्त्रे त्वामुपैम इत्यग्निमुद्दिश्योक्तम् । कीदृशं त्वाम् । राजन्तं दीप्यमानम् **अध्वराणां** राक्षसकृतहिंसारहितानां यज्ञानां **गोपां** रक्षकम् **ऋतस्य** सत्यस्यावश्यंभाविनः कर्मफलस्य **दीदिविं** पौनःपुन्येन भृशं वा द्योतकम् । आहुत्याधारमग्निं दृष्ट्वा शास्त्रप्रसिद्धं कर्मफलं स्मर्यते । **स्वे** **दमे** स्वकीयगृहे यज्ञशालायां हविर्भिः **वर्धमानम्** ॥ राजन्तं वर्धमानमित्यत्रोभयत्र पूर्ववत् धातुस्वरः शिष्यते। दीदिविशब्दस्य ‘अभ्यस्तानामादिः' (पा. सू. ६. १. १८९) इत्याद्युदात्तत्वम् । दमशब्दो वृषादित्वात् ( पा. सू. ६. १. २०३ ) आद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, the radiant, the protector of sacrifice, the constant illuminator of truth, increasing in your own dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You), ruling over the rites, the shining herdsman of the truth,  
 growing strong in your own home.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ruler of sacrifices, guard of Law eternal, radiant One,  
    Increasing in thine own abode.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Who art the king of all worship, the guardian of Rita, the shining one, increasing in thy own house.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 To thee the lord of sacrifice, The radiant guardian of the Law, That growest in thine own abode.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Walter der Opferhandlungen, dem Hüter des rechten Brauches, dem leuchtenden, der im eigenen Haus heranwächst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, der die Opfer du beherrschst, der glänzend du das Werk beschirmst, Und in dem eignen Haus gedeihst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К царящему при обрядах,  
 К пастырю закона, сверкающему,  

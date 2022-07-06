@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत्ति꣡ष्ठन्न् ओ꣡जसा सह꣡  
 पीत्वी꣡ शि꣡प्रे अवेपयः  
 सो꣡मम् इन्द्र चमू꣡ सुत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोम॑म् । इ॒न्द्र॒ । च॒मू इति॑ । सु॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uttiṣṭhann* ← *uttiṣṭhan* ← *utthā* ← *√sthā*
 - \[verb noun\], nominative, singular
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** त्वं **पीत्वी** पीत्वा **ओजसा** बलेन **सह** **उत्तिष्ठन्** **शिप्रे** हनू **अवेपयः** अकम्पयः । मदावेशादिति भावः । किं पीत्वा । **चमू** चम्वोरधिषवणफलकयोः **सुतं** सोमम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rising up in your strength, **Indra**, you did shake your jaws, when you had quaffed the **Soma** pressedbetween the two boards.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Standing up with your might, you made your two lips shake after you  had drunk  
 the pressed soma in the cup, Indra.1174 VIII.77
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Arising in thy might, thy jaws thou shookest, Indra, having quaffed  
      The Soma which the mortar pressed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit deiner Kraft aufstehend hast du, Indra, die Lippen geschüttelt, nachdem du den in dem Camugefäß ausgequetschten Soma getrunken hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schütteltest die Lippen dir, erhebend Indra dich mit Kraft, Nach des gepressten Soma Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

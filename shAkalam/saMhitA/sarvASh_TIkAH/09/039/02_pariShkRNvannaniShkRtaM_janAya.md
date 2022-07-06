@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परिष्कृण्व꣡न्न् अ꣡निष्कृतं  
 ज꣡नाय यात꣡यन्न् इ꣡षः  
 वृष्टिं꣡ दिवः꣡ प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 वृ॒ष्टिम् । दि॒वः । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pariṣkṛṇvann* ← *pariṣkṛṇvan* ← *pariṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **अनिष्कृतम्** असंस्कृतं यजमानं स्थानं वा **परिष्कृण्वन्** संस्कुर्वन् **जनाय** यागकर्त्रे **इषः** अन्नानि **यातयन्** निर्गमयन् **दिवः** अन्तरिक्षात् **वृष्टिं** **परि** **स्रव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,36 +92,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 (Worshipper): or,( plural ce)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Preparing what was not fully prepared, arranging the refreshments for  the people,  
 stream the rain from heaven all about.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase pariṣkṛṇvánn ániṣkṛtam is not as much of an etymological figure as it first appears: in the 1st word, the preverb pari is cmpded with the s-mobile form of √kṛ, while the 2nd is the negated form of the somewhat enigmatic lexeme íṣ + √kṛ (the latter without s-mobile), on which see comm. ad VII.76.2. As disc. there, the pseudo-preverb íṣ may derive from the root noun íṣ- ‘refreshment’, and our passage here contains that noun.
 
 The phrase yātáyann íṣaḥ “arranging refreshments” in b functions almost like a paraphrase, or repair, of the putative phrase íṣ- √kṛ “prepare refreshment” à “put in order, set to rights.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Preparing what is unprepared, and bringing store of food to man,  
      Make thou the rain descend from heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das unfertige vollkommen machend, dem Manne mit Labsalen vergeltend, laß des Himmels Regen strömen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ungeschmückte schmückend schön, dem Menschen reichend Labetrunk, Ergiess des Himmels Regen uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

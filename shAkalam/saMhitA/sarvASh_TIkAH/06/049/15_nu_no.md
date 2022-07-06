@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नु꣡ नो रयिं꣡ रथि꣡यं चर्षणिप्रा꣡म्  
 पुरुवी꣡रम् मह꣡ ऋत꣡स्य गोपा꣡म्  
@@ -15,7 +15,7 @@ ChandaH = "शक्वरी"
 वि꣡श आ꣡देवीर् अभि꣡ अश्न꣡वाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 क्षय॑म् । दा॒त॒ । अ॒जर॑म् । येन॑ । जना॑न् । स्पृधः॑ । अदे॑वीः । अ॒भि । च॒ । क्रमा॑म । विशः॑ । आऽदे॑वीः । अ॒भि । अ॒श्नवा॑म ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nu*
 - \[adverb\]
@@ -144,21 +144,21 @@ genre M
 हे सर्वे देवाः **नः** अस्मभ्यं **रयिं** धनं **क्षयं** गृहं च **दात** प्रयच्छत। कीदृशं रयिम् । **रथ्यं** रथसंबन्धिनम् । रथयुक्तमित्यर्थः । **चर्षणिप्राम्**। चर्षणयो मनुष्याः। तेषां पूरयितारं **पुरुवीरम्** । वीर्याज्जायन्त इति वीराः पुत्रादयः । बहुभिर्वीरैरुपेतम् । **महः** महतः **ऋतस्य** यज्ञस्य **गोपां** रक्षकम् । दक्षिणारूपेण धनेन हि यज्ञो रक्ष्यते । ‘मृतो यज्ञस्त्वदक्षिणः' इति वचनात् । कीदृशं क्षयम् । **अजरं** जरारहितम् । **येन** रयिणा क्षयेण च **जनान्** शत्रून् **स्पृधः** स्पर्धमानाः **अदेवीः** अदेवसंबन्धिनीः आसुरीः सेनाः **च** **अभि** **क्रमाम** अभिभवेम । तथा **आदेवीः** । आगता देवा यासु हविः स्वीकारार्थं ता आदेव्यः । तादृशीश्च **विशः** प्रजा यज्ञानुष्ठायिनीर्येन धनेन गृहेण च **अभ्यश्नवाम** अभिप्राप्नवाम तादृशं धनं गृहं च दातेत्यन्वयः ॥ ॥ ७ ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant us, (universal gods), riches, comprehending chariots, numerous dependants, many **male** offspring, (wealth) the giver of efficiency to the solemn rite, and a dwelling free from decay, wherewith we may overcome malevolent men and unrighteous (spirits), and afford support to those people who are devoted to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now to us give wealth in chariots, filling the settled domains, consisting  of many heroes, the herdsmen of great truth;  
 give ageless peaceful dwelling (and that) with which we will trample  upon the (other) peoples, the godless contenders,  
 with which we will take on the godless clans.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation should read “the herdsman of great truth,” since gopā́m modifies rayím.
 
@@ -167,23 +167,23 @@ With Oldenberg I read cakrámāma, a pf. subj., not ca krámāma, pace Klein (DG
 I take kṣáyam … yéna … abhí cakrámāma as an explicit “X and (which) Y” construction on grounds of content: I do not think our “peaceful dwelling” (kṣáyam) is the means by which we will trample and destroy our enemies. Instead I think we have the usual RVic implicit contrast between war and peace (yoga-kṣemá- in one rendition), with ‘peace’ expressed by a noun and war by an elaborate rel. cl.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give riches borne on cars, with many heroes, contenting men, the guard of mighty Order.  
      Give us a lasting home that we may battle with godless bands of men who fight against us, and meet with tribes to whom the Gods are gracious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun gebet uns Reichtum, der zu Wagen fährt, die Völker erfüllt, in vielen Söhnen besteht, einen Schützer des hohen Gesetzes und immerblühenden Wohnsitzes, womit wir die anderen Leute, die gottlosen Nebenbuhlerschaften überbieten, es mit den gottlosen Stämmen aufnehmen können!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebt Reichthum, Wagen voll, der Menschen sättigt, der heldenstark das grosse Recht beschirmet, Stets frische Macht, durch die wir überwinden das Menschenvolk, die gottvergessnen Feinde, (die gottvergessnen Stämme überwinden.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даруйте же нам сейчас богатство, едущее на колесницах, наполняющее народы,  
 Состоящее из многих мужей, хранителя великого закона,  

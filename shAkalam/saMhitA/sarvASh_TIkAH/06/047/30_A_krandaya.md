@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ क्रन्दय ब꣡लम् ओ꣡जो न आ꣡ धा  
 नि꣡ ष्टनिहि दुरिता꣡ बा꣡धमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रस्य मुष्टि꣡र् असि वीळ꣡यस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अप॑ । प्रो॒थ॒ । दु॒न्दु॒भे॒ । दु॒च्छुनाः॑ । इ॒तः । इन्द्र॑स्य । मु॒ष्टिः । अ॒सि॒ । वी॒ळय॑स्व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -124,21 +124,21 @@ popular
 हे दुन्दुभे **आ** **क्रन्दय** अस्मच्छत्रून् रोदय । **बलं** सेनारूपम् **ओजः** शरीरबलं च **नः** अस्मभ्यम् **आ** **धाः** आधेहि । प्रयच्छ । तथा **दुरिता** दुरितानि दुर्गमनानि **बाधमानः** हिंसंस्त्वं **निः** **स्तनिहि** नितरां शब्दं कुरु ।' स्तन शब्दे' इति धातुः । हे **दुन्दुभे** **दुच्छुनाः** अस्मद्दुःखहेतुभूतं शुनं सुखं यासां तादृशीः शत्रुसेनाः **इतः** अस्मत्स्थानात **अप** **प्रोथ** बाधस्व । त्वं च **इन्द्रस्य** **मुष्टिरसि** । मुष्टिरिव शत्रूणां हन्ता भवसि । अतोऽस्मान् वीळयस्व दृढीकुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sound loud against the (hostile) host; animate our prowess; thunder aloud, terrifying the evil-minded; rapid, drum, those whose delight is to harm us; you are the fist of **Indra**; inspire us with fierceness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Roar out your power. Set strength in us. Thunder down, thrusting away  difficulties.  
 Blast away misfortunes from here, o Drum. You are the fist of  
 Indra: be firm!
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details open><summary><h2>26-31 ...{Loading}...</h2></summary>
 
@@ -148,23 +148,23 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thunder out strength and fill us full of vigour: yea, thunder forth and drive away all dangers.  
      Drive hence, O War-drum, drive away misfortune: thou art the Fist of Indra: show thy firmness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brülle uns Stärke zu, verleih uns Kraft, donnere los, die Gefahren bannend! Schnaube die bösen Absichten von hier weg, o Pauke! Du bist des Indra Faust, bleibe fest!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O dröhne Kraft uns zu, verleihe Stärke, Gefahren donnre fort, zurück sie stossend, hinweg, o Pauke, schnaube die Dämonen, du bist des Indra Faust, erweise stark dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прореви (нам) силу, надели нас могуществом,  
 Загреми, прогоняя опасности!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ अन्य꣡म् बळा꣡करम्  
 मर्डिता꣡रं शतक्रतो  
 तुवं꣡ न इन्द्र मॄळय+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 त्वम् । नः॒ । इ॒न्द्र॒ । मृ॒ळ॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahy* ← *nahi*
 - \[adverb\]
@@ -86,43 +86,43 @@ genre M
 हे शतक्रतो त्वत्तः **अन्यं** **मर्ङितारं** सुखयितारं **बळा** बट् सत्यं **न** **अकरं** न करोमि । तस्माद्धे **इन्द्र** **त्वं** **नः** अस्मान् **मृळय** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Other than you, **Śatakratu**, I know no bestower of happiness; **Indra**, do you make us happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because I have not made anyone else my for-certain dispenser of mercy,  o you of a hundred resolves,  
 be merciful to us, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The particle báḍ seems to mean ‘in truth, for certain, yes indeed’ and, despite appearances, may have Avestan cognates. baḷā́here is clearly based on it.
 
 Hoffmann (Aufs. II.355) takes the expression here as a kind of internal quotation: “nicht habe ich ja zu einem anderen gesagt: báḍ, du bist ein Erbarmer,” though the direct speech is only represented by the particle and then only indirectly. My tr. is an attempt to capture Hoffmann’s sense while sticking closer to the grammar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Sarakratu! truely I have made none else my Comforter.  
      Indra; be gracious unto us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrlich, keinen anderen möchte ich zum Erbarmer gewinnen, du Ratreicher. Sei du uns barmherzig, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich wählte, keinen andern je, o starker, zum Erfreuer mir, Du, Indra, sei uns holdgesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

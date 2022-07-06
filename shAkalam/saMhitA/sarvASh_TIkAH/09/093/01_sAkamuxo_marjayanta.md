@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साकमु꣡क्षो मर्जयन्त स्व꣡सारो  
 द꣡श धी꣡रस्य धीत꣡यो ध꣡नुत्रीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्रो꣡णं ननक्षे अ꣡तियो न꣡ वाजी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 हरिः॑ । परि॑ । अ॒द्र॒व॒त् । जाः । सूर्य॑स्य । द्रोण॑म् । न॒न॒क्षे॒ । अत्यः॑ । न । वा॒जी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sākamukṣo* ← *sākamukṣaḥ* ← *sākamukṣ*
 - \[noun\], nominative, plural, feminine
@@ -108,7 +108,7 @@ genre M
 **साकमुक्षः** सह युगपत् सिञ्चन्त्यः । उक्ष सेचने'। क्विपि रूपम् । तादृश्यः **स्वसारः** कर्मकरणार्थमितस्ततः सुष्ठु गच्छन्त्योऽङ्गुल्यः **मर्जयन्त** सोमं शोधयन्ति। ‘ मृजू शौचालंकारयोः' । तथा **दश** दशसंख्याकाः **धीतयः** । अङ्गुलिनामैतत् । अङ्गुलयः **धीरस्य** समर्थस्य प्राज्ञस्य वा देवैर्ध्यातव्यस्य काम्यमानस्य वा सोमस्य **धनुत्रीः** प्रेरयित्र्यो भवन्ति । ततः **हरिः** हरितवर्णः सोमः **सूर्यस्य** **जाः** प्रादुर्भूता जाया दिशस्ताः **पर्यद्रवत्** परितो गच्छति । सूर्यतेजसा ह्याविर्भवतीति दिशां तस्य जात्वम् । **अत्यः** अतनशीलः **वाजी** **न** अश्व इव स्थितः सोमः **द्रोणं** कलशं **ननक्षे** व्याप्नोति । नक्षतिर्व्याप्तिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ genre M
 The wives of the sun: jaḥ = **jayaḥ**; the quarters of the horizon are called the sun's wives because they are made manifest by the light of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ten sisters, grown strong all together, the insightful thoughts of the  insightful one, the runners, groomed (him).  
 The tawny offspring of the sun dashed around (the filter). He reached  the wooden cup like a prizewinning steed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Notice the alliteration in b: dáśa dhī́rasya dhītáyo dhánutrīḥ.
 
@@ -142,23 +142,23 @@ Contra Oldenberg, Geldner, Renou, and Schindler (Rt. Nouns), I analyze jā́ḥ 
 (with Grassmann), not an acc. pl. (Geldner allows for the nom. sg. alternative in n. 1c). In their interpretations, “the children of the sun” refers to the insightful thoughts of b. But this is a distinctly odd way to refer to thoughts, and no convincing parallels are given. Geldner’s interpr. of the phrase “daughter of the sun” as a reference to hymns I have discussed (and dismissed) ad IX.1.6 and esp. IX.72.3. Moreover, pāda c describes Soma as dashing around these children, but in IX pári + VERB OF MOTION normally, perhaps exclusively, refers to Soma’s journey around the filter. I do not know what it would mean for him to “dash around” thoughts, much less “children of the sun.” As a nom. sg., jā́ḥ in the phrase “offspring of the sun” makes perfect sense as a description of Soma; Soma’s similarity to and often identification with the sun is well attested, and the use of kinship terms to model such similiarity/identification is also well known. If, nonetheless, we want to interpr. jā́ḥ as an acc. pl., I would take it as a reference to the milk; cf. comm. ad IX.72.3, where I explain “daughter of the sun” there as referring to the milk because of their shared gleaming color.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 TEN sisters, pouring out the rain together, swift-moving thinkers of the sage, adorn him.  
      Hither hath run the gold-hued Child of Surya and reached the vat like a fleet vigorous courser.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die zusammen aufgewachsenen Schwestern putzen ihn, die zehn Gebete, die den Weisen ablaufen lassen. Der Falbe überholte der Sonne Kinder; er ist in die Kufe gelangt wie ein siegreicher Renner ans Ziel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn streicheln zehn zugleich erwachsne Schwestern und auch des Sehers strömende Gesänge, Das Goldross lief hindurch, das Kind der Sonne, und drang zur Kufe wie ein schneller Renner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Десять выросших вместе сестер начищают (сому),  
 (А также) молитвы, помогающие мудрому стекать.  

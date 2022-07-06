@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ ह ये꣡न वा꣡ इदं꣡  
 सु꣡वर् मरु꣡त्वता जित꣡म्  
 इ꣡न्द्रेण सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रे॑ण । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अयं** **ह'** खल्विन्द्रः **येन** **वै** येन खलु **मरुत्वता** मरुद्भिर्युक्तेन **इन्द्रेण** **इदं** **स्वः** स्वर्गाख्यं स्थानमिदं स्वः सर्वं कर्म वा यद्वेदं सर्वं जगत् **जितम्** । किमर्थम् । **सोमपीतये** सोमपानाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Yonder heaven: svaḥ: all (sacrificial) actions; sarvam **karma** yadvedam sarvam **jagat**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here he is—the one by whom in truth this sun was won,  
 by Indra, accompanied by the Maruts—to drink the soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is that Indra who, begirt by Maruts, won the light of heaven  
      That he might drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Indra, der Marutbegleitete, der ja diese Sonne erobert hat, komme zum Somatrinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, Indra mit der Marutschar, er ist's, durch den dies Himmelslicht Errungen ward zum Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

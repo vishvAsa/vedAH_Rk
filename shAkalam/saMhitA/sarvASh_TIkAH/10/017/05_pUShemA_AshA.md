@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूषे꣡मा꣡ आ꣡शा अ꣡नु वेद स꣡र्वाः  
 सो꣡ अस्माँ꣡ अ꣡भयतमेन नेषत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡प्रयुछन् पुर꣡ एतु प्रजान꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स्व॒स्ति॒ऽदाः । आघृ॑णिः । सर्व॑ऽवीरः । अप्र॑ऽयुच्छन् । पु॒रः । ए॒तु॒ । प्र॒ऽजा॒नन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūṣemā* ← *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
@@ -125,37 +125,37 @@ popular
 **पूषा** देवः **इमाः** **सर्वाः** **आशाः** प्राच्याद्या दिशः **अनु** **वेद** आनुपूर्व्येण जानाति । इमाः सुखेन गन्तव्या असुखेनेति वैवमनुक्रमेण जानातीत्यर्थः । एवं सति अस्मान् प्रमिते यजमानो ब्रवीति पुत्रमुखेन याजकमुखेन वा। **अस्मान्न** **अभयतमेन** अत्यन्तं भयरहितेन मार्गेण **नेषत्** नयतु । कथम् । स्वस्तिदाः कल्याणस्य दाता **अघृणिः** आगतदीप्तियुक्तः **सर्ववीरः** सर्वैर्वीरैः कर्मणि समर्थैर्ऋत्विग्भिरुपेतः **अप्रयुच्छन्** अप्रमाद्यन् **प्रजानन्** अस्माकं फलाफले विजानानः सन् **पुरः** **एतु** अस्माकं पुरस्ताद्गच्छतु । यथास्माकं भयं न भवति तथा गच्छत्वित्यर्थः ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Pūṣan** knows all these regions severally; met him conduct us by (the path) that is most free fromperil; let him precede us, who is the giver of prosperity, endowed with radiance, accompanied by all pious men,ever vigilant, and knowing our (deserts).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pūṣan knows all these regions through and through: he will lead us along  the least perilous (way).  
 Granting well-being, the glowing one, possessing hale heroes—not  
 keeping distant, let him go in front, foreknowing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pusan knows all these realms: may he conduct us by ways that are most free from fear and danger.  
      Giver of blessings, glowing, all-heroic, may he, thewise and watchful, go before us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pusan kennt diese Gegenden alle genau; er möge uns auf gefahrlosestem Wege führen, der Glückverleihende, ........, dessen Mannen vollzählig sind, soll aufmerksam vorausgehen, des Weges kundig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es kennet Puschan alle diese Orte, er führe uns mit sicherstem Geleite Mit ganzer Schar, erstrahlend, Segen spendend, er geh voran mit Achtsamkeit, der kund'ge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пушан знает все эти стороны света.  
 Пусть поведет он нас самым безопасным (путем)!  

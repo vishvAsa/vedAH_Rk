@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मो वधूयु꣡र् अभवद्  
 अश्वि꣡नास्ताम् उभा꣡ वरा꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 म꣡नसा सविता꣡ददात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 सू॒र्याम् । यत् । पत्ये॑ । शंस॑न्तीम् । मन॑सा । स॒वि॒ता । अद॑दात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -106,36 +106,36 @@ popular;; epic anuṣṭubh (380)
 **सोमो** **वधूयुः** वधूकामो वरः **अभवत्** । तस्मिन् समये **अश्विना** अश्विनौ **उभा** उभौ **वरा** वरौ **आस्ताम्** अभूताम् । **यत्** यदा **सूर्याँ** **पत्ये** **शंसन्तीं** पतिं कामयमानाम् । पर्याप्तयौवनामित्यर्थः। सूर्यां **मनसा** सहिताय' सोमाय वराय **सविता** तत्पिता अददात् प्रादात् दित्सां चकार ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma** was desirous of a bride; the two **Aśvins** were the two groomsmen when **Savitā** gave **Sūrya**,who was ripe for a husband, (to Soma endowed) with intelligence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma was the bridegroom; the Aśvins were both wooers,  
 when Savitar gave Sūryā to her husband, as she pronounced (her vow)  with her (whole) mind.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma was he who wooed the maid: the groomsmen were both Asvins, when  
      The Sun-God Savitar bestowed his willing Surya on her Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma war der Liebhaber, beide Asvin waren die Werber, damals als Savitri die Surya dem Gatten überließ, die von Herzen ihr Jawort gab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Soma war der Bräutigam, die Açvinen waren die beiden Brautwerber, als Savitar dem Gatten die von Herzen zustimmende Suriā gab.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома был женихом,  
 Оба Ашвина были сватами,  

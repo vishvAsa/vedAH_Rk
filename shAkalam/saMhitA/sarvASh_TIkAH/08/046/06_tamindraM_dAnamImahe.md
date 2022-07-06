@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡न्द्रं दा꣡नम् ईमहे  
 शवसान꣡म् अ꣡भीरुवम्  
 ई꣡शानं राय꣡ ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 ईशा॑नम् । रा॒यः । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -79,42 +79,42 @@ genre M;; repeated line
 **तं** प्रसिद्धम् **इन्द्रं** **दानं** देयं **रायः** धनम् **ईमहे** याचामहे । कीदृशमिन्द्रम् । **शवसानं** बलमाचरन्तम् **अभीर्वम्** अभीरुम् **ईशानं** सर्वस्य स्वामिनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit a gift from this **Indra**, the displayer of might, the fearless; we solicit wealth from the lord.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We beseech this Indra for a gift, him swelling with strength, fearless— we beseech the lord of wealth for wealth.1124 VIII.46
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in VI.54.8, 55.2 I take rāyáḥ as a morphological pun - both genitive sg.
 
 depending on ī́śānaḥ and accusative pl. as object of īmahe.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We pray to Indra for his gift, to him the Fearless and the Strong,  
      We pray to him the Lord of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Indra bitten wir um eine Gabe, den Gewaltigen, Furchtlosen, den Mächtigen bitten wir um Reichtümer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als solchen flehn wir Indra an, den starken, kühnen um Geschenk, Ihn, welcher über Schatz verfügt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого Индру просим мы о даре,  
 (Его,) сильного, бесстрашного,  

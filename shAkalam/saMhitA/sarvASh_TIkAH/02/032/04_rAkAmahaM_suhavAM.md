@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 राका꣡म् अहं꣡ सुह꣡वां सुष्टुती꣡ हुवे  
 शृणो꣡तु नः सुभ꣡गा बो꣡धतु त्म꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द꣡दातु वीरं꣡ शत꣡दायम् उक्थि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 सीव्य॑तु । अपः॑ । सू॒च्या । अच्छि॑द्यमानया । ददा॑तु । वी॒रम् । श॒तऽदा॑यम् । उ॒क्थ्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rākām* ← *rākā*
 - \[noun\], accusative, singular, feminine
@@ -130,7 +130,7 @@ genre D
 सम्पूर्णचन्द्रापौर्णमासीराका तान्देवींसुहवां स्वाह्वानां आह्वानप्रयोजनकारिणींसुष्टुतीशोभन- यास्तुत्याअहंहुवेआह्वयामि सुष्टुतिशब्दात्तृतीयैकवचनस्यसुपांसुलुगितिपूर्वसवर्णईकारः साच सुबगाशोभनधनानोस्माकमाह्वनंशृणोतु श्रुत्वाचत्मनाआत्मनास्वयमेवबोधतु अस्मदभिप्रायं बुध्यतां बुध्वाच अपः कर्म पुत्रोत्पादनलक्षणंसूच्यासूचीस्थानीययाअच्छिद्यमानयाअवच्छिन्न- यानुग्रहबुद्ध्यासीव्यतु सन्तनोतु यथावस्त्रादिकंसूच्यास्यूतञ्चिरन्तिष्ठति एवमिदङ्करोतु कृत्वाच वीरंविक्रान्तं शतदायं बहुधनम्बहुप्रदंवाउक्थ्यम्प्रशस्यम्पुत्रन्ददातु ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,34 +141,34 @@ genre D
 May she sew her work: sīvyatu **apaḥ** sūcyācchidyamānayā = may she sew the work with a needle that is not capable of being cut or broken; with one, of which the stitches will endure, in like manner as clothes and th elike wrought with a needle last a long time
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rākā who is good to invoke I invoke with good praise. Let her of good  portion hear us; let her attend (to us) in person.  
 Let her stitch her work with a needle that cannot be broken. Let her give  a hero with a hundred shares who is worthy of hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adj. śatádāya- has a more precise meaning than the standard tr. (e.g., Geldner “vollwertigen”) and one different from that in the published translation (“having a hundred shares,” flg. Grassmann). It was long ago established by Roth (ZDMG 41: 672-76) that this has to do with Wergeld or the worth of a man as measured in cows, hence here ‘(for whom) a hundred (cows) are to be given’; cf. Geldner’s n. 4d, Macdonell-Keith Vedic Index s.v. vaira, and V.61.8 with comm. ad loc. I would therefore emend the tr. to “a hero worth a hundred (cows) …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With eulogy I call on Raka swift to hear may she, auspicious, hear us, and herself observe.  
      With never-breaking needle may she sew her work, and give a hero son most wealthy, meet for praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe die leicht zu rufende Raka mit schönem Loblied; die Holde soll uns erhören, soll es von selbst merken. Sie soll ihr Werk mit unzerbrechlicher Nadel nähen; sie soll einen vollwertigen, lobeswürdigen Sohn schenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und beacht' uns recht; Sie näh' ihr Werk und nie zerbrech' die Nadel ihr, sie schenk' den Mann, der viel besitzt und Lob verdient.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Раку, легко призываемую, я зову прекрасным восхвалением.  
 Пусть услышит нас любимая! Пусть сама заметит!  

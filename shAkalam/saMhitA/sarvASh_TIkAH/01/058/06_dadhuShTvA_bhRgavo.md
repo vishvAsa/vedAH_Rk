@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दधु꣡ष् टुवा भृ꣡गवो मा꣡नुषेष्व् आ꣡  
 रयिं꣡ न꣡ चा꣡रुं सुह꣡वं ज꣡नेभ्यः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मित्रं꣡ न꣡ शे꣡वं दिविया꣡य ज꣡न्मने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 होता॑रम् । अ॒ग्ने॒ । अति॑थिम् । वरे॑ण्यम् । मि॒त्रम् । न । शेव॑म् । दि॒व्याय॑ । जन्म॑ने ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhuṣ* ← *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
@@ -127,7 +127,7 @@ genre M
 हे **अग्ने** **त्वा** त्वां **मानुषेषु** मनुष्येषु मध्ये **भृगवः** एतत्संज्ञा महर्षयः **दिव्याय** **जन्मने** देवत्वप्राप्तये **चारुं** **रयिं** **न** शोभनं धनमिव **आ** **दधुः** आधानसंभारेषु मन्त्रैः स्थापनेन समस्कुर्वन् । कीदृशं त्वाम् । **जनेभ्यः** **सुहवं** यजमानार्थमाह्वातुं सुशकं **होतारं** देवानामाह्वातारं **अतिथिम्** अतिथिवत्पूज्यम् । यद्वा । देवयजनदेशेषु सततं गन्तारम् । **वरेण्यं** वरणीयं **मित्रं** **न** **शेवम्** । यथा सखा सुखकरो भवति तद्वत् सुखकरमित्यर्थः ॥ दधुः । लिटि उसि ‘ आतो लोप इटि च' इति आकारलोपः । ‘युष्मत्तत्ततक्षुःष्वन्तःपादम् ' इति विसर्जनीयस्य षत्वम् । सुहवम् । ह्वयतेः 'ईषद्दुसुषु ' इति खल् । “ बहुलं छन्दसि ' इति संप्रसारणम् । परपूर्वत्वम् । गुणावादेशौ । ‘लिति' इति प्रत्ययात् पूर्वस्योदात्तत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,39 +138,39 @@ genre M
 Divyāya janmane = for the sake of being born as gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Bhr̥gus installed you among the sons of Manu, dear like wealth, easy  to invoke for the peoples,  
 as Hotar, o Agni, a guest worthy to be chosen, favorable like an ally to  the divine race.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The last halves of the two hemistichs are parallel and complementary, referring to humans and gods respectively: b: … jánebhyaḥ# / d: … divyā́ya jánmane# In c mitrám is of course ambiguous: it can refer simply to the god of that name (so Renou), but more likely is at least a pun on the meaning of the common noun ‘ally’. Agni is often so called because he serves as go-between between gods and men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bhrgus established thee among mankind for men, like as a treasure, beauteous, easy to invoke;  
      Thee, Agni, as a herald and choice-worthy guest, as an auspicious Friend to the Celestial Race.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The Bhrigus have placed thee among men, who art beautiful like a treasure, who art easy to invoke for people; thee the Hotri, O Agni, the excellent guest, a delightful friend like Mitra to the divine race!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich brachten die Bhrigu´s zu den Menschen, der teuer wie ein Schatz, für die Völker leicht zu errufen ist, als Hotri, o Agni, als auserwählten Gast, wie ein Freund dem himmlischen Geschlecht lieb.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Bhrigu's haben zu den Menschen dich gebracht, wie schönes Gut, leicht anzurufen jedem Mann, Als Priester, Agni, und als wünschenswerthen Gast, als holden Freund dich für das himmlische Geschlecht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поместили тебя Бхригу среди людей,  
 Драгоценного, как богатство, легко призываемого для людей,  

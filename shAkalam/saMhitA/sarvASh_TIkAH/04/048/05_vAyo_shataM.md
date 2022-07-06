@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡यो शतं꣡ ह꣡रीणां  
 युव꣡स्व पो꣡षियाणाम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 र꣡थ आ꣡ यातु पा꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒त । वा॒ । ते॒ । स॒ह॒स्रिणः॑ । रथः॑ । आ । या॒तु॒ । पाज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
@@ -96,36 +96,36 @@ genre M
 हे **वायो** त्वं **पोष्याणां** पोषणीयानां **हरीणां** **शतं** **युवस्व** योजय रथे। **उत** **वा** अपि च **ते** **सहस्रिणः** सहस्रसंख्यापूरका अश्वाः । तैर्युक्तः **रथः** **पाजसा** बलेन **आ** **यातु** आगच्छतु ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Harness, **Vāyu**, a hundred plural mp steeds, or even a thousand, and let your chariot come with rapidity (hither).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Vāyu, hitch up a hundred flourishing fallow bays,  
 or, since you have thousands, let your chariot drive here with its (full)  dimension.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Harness, O Vayu, to thy car a hundred well-fed tawny steeds,  
      Yea, or a thousand steeds, and let thy chariot come to us with might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vayu! Spann hundert wohlgenährte Falben an, oder, da du tausend Falben hast, soll der Wagen in voller Gestalt kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vaju, schirre dir hundert wohlgenährte goldgelbe Rosse au, oder auch mit tausenden bespannt komme dein Wagen her mit Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваю, запрягай сто  
 Буланых цветущих коней!  

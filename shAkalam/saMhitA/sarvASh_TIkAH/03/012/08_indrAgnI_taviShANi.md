@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राग्नी तविषा꣡णि वां  
 सध꣡स्थानि प्र꣡यांसि च  
 युवो꣡र् अप्तू꣡रियं हित꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 यु॒वोः । अ॒प्ऽतूर्य॑म् । हि॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -81,40 +81,40 @@ genre M
 हे **इन्द्राग्नी** **वां** युवयोः **तविषाणि** बलानि **प्रयांसि** अन्नानि **च** **सधस्थानि** परस्परमवियुज्य वर्तन्ते । तथा **अप्तूर्यं** वृष्टिद्वारा प्रेरकत्वं **युवोः** युवयोरेव **हितं** निहितं वर्तते । तस्मात्सोमपानप्रभृतिषु सर्वकर्मसु इन्द्राग्न्योः सहैव वर्तमानत्वमिति भावः ॥ वाम् । षष्ठीद्विवचने वामित्यादेशः । सधस्थानि । ष्ठा गतिनिवृत्तौ । आतोऽनुपसर्गे कः ।  ‘ सध मादस्थयोश्छन्दसि ' इति सहस्य सधादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, in you, vigour and food are abiding together, and therefore in you is deposited the dispensing of water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Agni! Mighty are your abodes and your pleasing offerings. The crossing of the waters has been ordained for you two.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra-Agni, powers are yours, and dwellings and delightful food  
      Good is your readiness to act.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Indra and Agni, yours are powerful abodes and delights. You cross the waters: this is the deed which belongs to you 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni! Euch sind die Kräfte und das Beisammensein und die Genüsse, euch beiden das Vordringen über die Gewässer bestimmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indrāgni, ihr besitzet Kraft, ihr feste Sitze, Freuden ihr, In euch ist rasches Werk gelegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, могучи ваши  
 Обители и жертвенные услады.  

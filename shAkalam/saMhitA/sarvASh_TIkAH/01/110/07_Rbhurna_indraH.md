@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋभु꣡र् न इ꣡न्द्रः श꣡वसा न꣡वीयान्  
 ऋभु꣡र् वा꣡जेभिर् व꣡सुभिर् व꣡सुर् ददिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अभि꣡ तिष्ठेम पृत्सुती꣡र् अ꣡सुन्वताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒ष्माक॑म् । दे॒वाः॒ । अव॑सा । अह॑नि । प्रि॒ये । अ॒भि । ति॒ष्ठे॒म॒ । पृ॒त्सु॒तीः । असु॑न्वताम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
@@ -126,20 +126,20 @@ genre M
 ऋभुर्विभ्वा वाज इति त्रयः सुधन्वनः पुत्राः । तत्र **शवसा** बलेन **नवीयान्** नवतरः प्रशस्ततरः **ऋभुः** ”नः अस्माकम् **इन्द्रः** परमेश्वरः । अस्माकं रक्षक इत्यर्थः । यद्वा । इन्द्र एव प्रसंगात् उरुभातीति नैरुक्तव्युत्पत्या्र ऋभुरिति स्तूयते । अपि च **वाजेभिः** वाजैरस्मभ्यं दातव्यैरन्नैः **वसुभिः** निवासहेतुभिर्धनैश्च **ऋभुः** **वसुः** अस्माकं निवासयिता अत एव **ददिः** तेषामन्नानां धनानां च दाता भवतु । परोऽर्धर्चः प्रत्यक्षकृतः । हे **देवाः** दानादिगुणयुक्ता ऋभुप्रभृतयः **युष्माकं** संबन्धिना **अवसा** रक्षणेन युक्ते **प्रिये** अस्माकमनुकूले **अहनि** दिवसे वर्तमाना वयम् **असुन्वतां** सुन्वद्यजमानविरोधिनां शत्रूणां **पृत्सुतीः** सेना **अभि** **तिष्ठेम** ‘ ॥ नवीयान् । नवशब्दात् आतिशायनिक ईयसुन्। वाजेभिः ।  ‘ बहुलं छन्दसि' इति भिस ऐसभावः । वसुः । ‘वस निवासे' । अस्मात् अन्तर्भावितण्यर्थात्  ‘ शॄस्वृस्निहि°' इत्यादिना उप्रत्ययः । नित्' इत्यनुवृत्तेरादेयुदात्तत्वम् । ददिः । डुदाञ् दाने ' ।  ‘ आगमहन' इति किप्रत्ययः । लिङ्वद्भावात् द्विर्भावादि । ‘आतो लोप इटि च' इति आकारलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The most excellent **Ṛbhu** is in strength our defender; Ṛbhu, through gifts of food and of wealth, is our asylum; may he bestow them upon us, Gods, through your protection; may we, upon a favourable occasion, overcome the hosts of those who offer no libations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (One) R̥bhu is for us a newer Indra by his power; (another) R̥bhu is a  good one by his goods, a giver by his prizes.  
 With the help of you, o gods, on a favorable day may we stand up to the  battle thrusts of those who don’t press soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my interpr. the individuation of the Ṛbhus continues in ab, though not with their usual names.
 
@@ -156,23 +156,23 @@ However, it seems entirely possible to me that we are dealing with a haplology o
 *pṛtsu-sutí- (or -sūtí-), and my tr. reflects this analysis.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rbhu to us is Indra freshest in his might, Rbhu with powers and wealth is giver of rich gifts.  
      Gods, through your favour may we on the happy day quell the attacks of those who pour no offerings forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ribhu ist uns an Kraft ein neuer Indra, Ribhu mit den Vaja´s und Vasu´s ein gütiger Geber. Mit eurer Hilfe, ihr Götter, wollen wir an dem günstigen Tage die Anfeindungen derer, die keinen Soma pressen, bestehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Kraft ist Ribhu uns ein neuer Indra nun, durch gute Macht ein guter Geber Ribhu uns, Durch eure Gunst, o Götter, lasst bezwingen uns an günst'gem Tag der Somalosen Ungestüm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рибху для нас по (своей) силе – как более новый Индра,  
 Рибху вместе с Ваджами и Васу – сам Васу, щедро дающий.  

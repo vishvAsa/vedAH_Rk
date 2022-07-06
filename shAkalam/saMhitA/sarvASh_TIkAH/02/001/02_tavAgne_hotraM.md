@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वाग्ने होत्रं꣡ त꣡व पोत्र꣡म् ऋत्वि꣡यं  
 त꣡व नेष्ट्रं꣡ तुव꣡म् अग्नि꣡द् ऋतायतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ब्रह्मा꣡ चा꣡सि गृह꣡पतिश् च नो द꣡मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तव॑ । प्र॒ऽशा॒स्त्रम् । त्वम् । अ॒ध्व॒रि॒ऽय॒सि॒ । ब्र॒ह्मा । च॒ । असि॑ । गृ॒हऽप॑तिः । च॒ । नः॒ । दमे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tavāgne* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -129,7 +129,7 @@ genre M
 हेअग्ने होत्रं होतुःकर्मशस्त्रयाज्यादिलक्षणंयदस्तितदपितवैव त्वदर्थमित्यर्थः तथापोत्रं पोतुः कर्म- यदस्ति तद्पितवैव तथाऋत्वियम्प्राप्तकालमार्त्विज्यन्तवैवनेष्ट्रं नेष्टुःकर्मप्रस्थितयाज्यादिरूपं तव हेअग्ने त्वमग्नित् आग्नीध्रश्चत्वमेवासि तथाऋतायतोयज्ञमिच्छतस्तवैवप्रशास्त्रं यत्प्रशास्तुर्मैत्रावरुणस्यकर्म- तत् हेअग्ने त्वमध्वरीयसि अध्वरंयज्ञङ्कामयसेअध्वर्युर्भवसीत्यर्थः तथाध्वर्युशब्दव्युत्पत्तेः अध्वर्युरध्व- रयुरध्वरङ्कामयतइतिवेतिहिनिरुक्तम् । तथाब्रह्माचब्राह्मणाच्छंस्यप्यसि तथानोदमेस्मद्यज्ञगृहेगृह- पतिश्चासीति ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,42 +140,42 @@ genre M
 Hotā etc.: these are the eight of the sixteen priests employed at very solemn ceremonies; the duty of the Praśāstā is ascribed to the **Maitrāvaruṇa**, and Brahmā is identified with the Brāhmaṇāccahṃsi; Kulluka Bhaṭt.a, in his commentary on **Manu** viii.210 enumerates sixteen priests, in the order and proportion in which they are entitled to share in a **dakṣiṇā** of a hundred cows, being arranged in four classes, of which the first four are severally the heads, and others subordinate to them, in the same course of succession: 1. Hotā, Adhvaryu, **Udgatā** and Brahmā, are to have twelve each, or forty-eight in all; 2. Maitrāvaruṇa, Pratistotā, Brāhmaṇāccaṃsi and **Prastotā**, six each, or twenty-four; 3. Accavāka, Neṣṭā, **Āgnīdhra** and **Pratihartā** four each, or sixteen; and 4. Grāvadut, **Netā**, Potā and **Subrahmaṇya**, three each, or twelve in all; making up the total of one hundred. Thus, the percentages for the four groups are: 48, 24, 16, 12 respectively. **Rāmanātha**, in his commentary on the **Amarakośa**, viii.17 gives the names of 16 priests, but with a few variations: **Grāvastut** replaces Grāvadut; Prastotā, Netā and Potā are replaced with Prasthātā, Praśāstā and Balaccadaka. In the **Aitareya** **Brāhmaṇa** vii.1, the sixteen priests are enumerated with some variations: Pratistotā, Grāvadut, Netā and Subrahmaṇya are replaced with Pratiprasthatā, Upagātā, **Ātreya** and **Sadasya**. Other priests included in this list are: Grāvastut, **Unnetā**, Subrahmaṇya and the **Śamitā** (immolator), when a Brāhmaṇa. **Mādhava**'s commentary on the **Nyāya**-**māla**-**Vistāra** of **Jaimini**, the list of 16 priests, following **Kumārila** Bhaṭt.a includes: 1. Adhvaryu, **Prati**-prasthātā, Neṣṭā, Unnetā (ceremonial of the **Yajurveda**); 2. Brahmā, Brāhmaṇāccaṃsi, Āgnīdh, Potā (superintend the whole according to the ritual of the three **vedas**); 3. **Udgātā**, Prastotā, Pratihartā, Subrahmaṇya (chant the hymns, especially, **Sāmaveda**); 4. Hotā, Maitrāvaruṇa, Acchavāka, Grāvastut (repeat the hymns of the Ṛcā); the head of each class receives the entire dakṣiṇā,or gratuity; the second, one-half; the third, one-third; and the fourth, a quarter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yours, Agni, is the office of Hotar; yours that of Potar in its turn; yours  that of Neṣṭar; you are the Agnidh [=Fire-Kindler] of the one who  
 follows truth.  
 Yours is the office of Praśāstar; you act as Adhvaryu; you are both the  Brahman-priest and the houselord in our home.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The accent on ási in d presumably results from its contrastive function in the ca … ca construction. Curiously Oldenberg does not comment.
 
 Note the two different words for house in gṛhápatiḥ … dáme, with the former replacing old dáṃpati-. On these various terms for house-lord, see my forthcoming articles “The Term gṛhastha and the (Pre)history of the Householder” (to appear in The Householder in Ancient India: A History of the Gṛhastha, ed. Patrick Olivelle) and “The Double Life of gahapati” (to appear in a forthcoming Fs.).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine is the Herald's task and Cleanser's duly timed; Leader art thou, and Kindler for the pious man.  
      Thou art Director, thou the ministering Priest: thou art the Brahman, Lord and Master in our home.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 To thee, O Agni, belongs the Hotri's and the Potri's office exercised at the appointed season; to thee belongs the office of the Neshtri; thou art the Agnîdh 2 for the righteous. To thee belongs the office of the Prasâstri; thou actest as an Adhvaryu, and thou art the Brahman and the master of the house in our house 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, Agni, kommt das Amt des Hotri zu, dir das Amt des Potri zu seiner Zeit, dir das Amt des Nestri; du bist der Agnidh des Gesetzestreuen. Dir kommt das Amt des Prasastri zu, du wirkst als Adhvaryu. Du bist sowohl der Brahman als auch der Hausherr in unserem Hause.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein ist des Priesters, Agni, dein des Läuterers rechtmässig Amt, des Führers, dein des Ordnenden; Du bist des Frommen Glutentzünder, opferst gern, und Beter bist du, Hausherr du in unserm Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У тебя, о Агни, – служба хотара, у тебя – в урочное время служба потара,  
 У тебя – служба нештара, ты агнидх благочестивого,  

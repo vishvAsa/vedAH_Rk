@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा गि꣡रो रथी꣡र् इव  
 अ꣡स्थुः सुते꣡षु गिर्वणः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इ꣡न्द्र वत्सं꣡ न꣡ मात꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒भि । त्वा॒ । सम् । अ॒नू॒ष॒त॒ । इन्द्र॑ । व॒त्सम् । न । मा॒तरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -109,43 +109,43 @@ genre M;; repeated line
 हे **गिर्वणः** गीर्भिर्वननीयेन्द्र **सुतेषु** सोमेष्वभिषुतेषु सत्सु **गिरः** अस्माकं स्तुतिलक्षणा वाचः **त्वा** त्वाम् **आ** **अस्थुः** आभिमुख्येन शीघ्रं तिष्ठन्ति । तत्र दृष्टान्तः । **रथीरिव** । यथा रथवान् रथेन गच्छन् वीरः प्राप्यं देशं क्षिप्रं गच्छति तद्वदस्माभिरभिगन्तव्यं त्वां स्तुतयोऽभिगच्छन्ति । किंच हे **इन्द्र** अस्मदीया गिरः **त्वा** त्वामभिलक्ष्य **समनूषत** सम्यक् शब्दायन्ते । स्तुवन्तीत्यर्थः । ‘नू स्तवने' । कुटादिः । तस्य लुङि रूपम् । तत्र दृष्टान्तः । **वत्सं** **न** **मातरः** । यथा मातरो गावो वत्समभिलक्ष्य हम्भारवादिशब्दं कुर्वन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Indra**, worthy of praise when the **Soma** is effused our songs hasten to you as charioteer, they lowtowards you as cows towards their calves.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a charioteer (his chariot), the songs have mounted you at the  pressings, o you who long for songs.  
 In unison they have bellowed to you, Indra, like mothers to their calf.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though Grassmann identifies rathī́ḥ here as a nom. plural, thus a devī-type form beside the correct vṛkī-type rathi yàḥ found elsewhere, there is no reason not to take it as the nom. singular it appears to be, since number agreement in similes is not so strictly carried through in RV as in Classical poetics. So also AiG III.179 (though taking it as nom. sg. used as nom. pl.).
 
 The image itself is somewhat striking: the songs mounting Indra as their chariot. Indra is usually the active charioteer figure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SONG-LOVER! like a charioteer come songs to thee when Soma flows.  
      O Indra, they have called to thee as mother-kine unto their calves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dir sind die Lobreden aufgestiegen wie der Wagenlenker auf den Wagen, bei ausgepreßtem Soma, du Lobbegehrender; sie haben dir zugeschrieen, Indra, wie die Mutter ihrem Kalbe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Wagenrosse eilten dir, beim Trunk, o Liedfreund, Lieder zu; Dir Indra jubelten sie zu, wie Mütter nach dem Kalbe schrein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе, как колесничий (на колесницу)  
 Поднялись хвалебные песни при выжатых соках (сомы), о любящий песни.  

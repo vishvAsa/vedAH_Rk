@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मरु꣡त्सु वो दधीमहि  
 स्तो꣡मं यज्ञं꣡ च धृष्णुया꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पा᳐꣡न्ति म꣡र्तियं रिषः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 विश्वे॑ । ये । मानु॑षा । यु॒गा । पान्ति॑ । मर्त्य॑म् । रि॒षः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *marutsu* ← *marut*
 - \[noun\], locative, plural, masculine
@@ -100,37 +100,37 @@ genre M;; repeated line
 हे अध्वर्युहोत्रादयः **वः** यूयं **मरुत्सु** **धृष्णुया** धर्षकेषु **दधीमहि** ॥ व्यत्ययेनोत्तमः ॥ धत्त । किम् । **स्तोमं** स्तोत्रं **यज्ञं** **च** । इज्यतेऽनेनेति यज्ञं हविः । तदुभयं किमर्थं दीयत इति । **ये** मरुतः **विश्वे** सर्वेऽपि **मानुषा** मानुषाणि **युगा** युगानि । सर्वेषु कालेष्वित्यर्थः। **मर्त्यं** मरणधर्माणं यजमानं **रिषः** हिंसकात् सकाशात् **पान्ति** रक्षन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We enjoin you, (priests), to offer earnestly praise and sacrifice to the **Maruts**, who through all human ages, protect the mortal worshipper from harm.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Among the Maruts we would establish your praise and  
 sacrifice—boldly—  
 who all, through human (life)spans, protect the mortal from harm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With boldness to your Maruts let us offer laud and sacrifice:  
      Who all, through ages of mankind, guard mortal man from injury.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Marut wollen wir für euch mit Zuversicht Loblied und Opfer weihen, welche alle durch Menschenalter hindurch den Sterblichen vor Schaden bewahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir bringen euren Maruts dar Gesang und Opfer kühnen Sinns, Die vor dem Feind den Sterblichen behüten alle fort und fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Марутам мы хотим посвятить  
 Отважно вашу хвалу и жертву,  

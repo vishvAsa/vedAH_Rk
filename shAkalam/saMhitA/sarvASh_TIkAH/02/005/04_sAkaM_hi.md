@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साकं꣡ हि꣡ शु꣡चिना शु꣡चिः  
 प्रशास्ता꣡ क्र꣡तुना꣡जनि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वया꣡ इवा꣡नु रोहते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒द्वान् । अ॒स्य॒ । व्र॒ता । ध्रु॒वा । व॒याःऽइ॑व । अनु॑ । रो॒ह॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sākaṃ* ← *sākam*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 शुचिःस्वयंशोधकः प्रशास्तादेवानां एतन्नामकऋत्विक्प्रशासितावायज्ञविघ्नानां शुचिना क्रतुना- शोधकेनाग्निहोत्रादिकर्मणा साकंहिसहैवाजनिउत्पन्नः जातमात्रएवशुद्धः सर्वस्यप्रशास्ता चसन्नग्नि- होत्रादिनिर्वोढाभवदित्यर्थः अस्याग्नेर्ध्रुवा ध्रुवाणि फलपर्यवसायीनि व्रताव्रतानि कर्माणि विद्वान् जानन् यजमानोवयाइवविस्तृताः शाखाइवानुरोहते क्रमेणानुतिष्ठति ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,13 +120,13 @@ genre M
 The regulator of the sacrifice: **Praśastā** whose duty it is, by apporpriate acts to obviate allobstructions to a sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because simultaneously with his flame the flaming one has been born as  Praśāstar by virtue of his will,  
 the knowing one [=Agni] grows like (tree) branches, following his own  firm commandments.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. construe śúcinā with krátunā (e.g., Geldner “mit lauterem Sinne”).
 
@@ -135,28 +135,28 @@ This is certainly possible -- though śúci- krátu- is not a standard collocati
 The standard tr. also assume a change of subject in cd from Agni (ab) to a priest “who knows Agni’s vratas” (vidvā́m̐asya vratā́dhruvā́). I find this unlikely; vidvā́n modifies Agni in vs. 8 (in my view), as well as twice in the next, closely related, hymn (II.6.7, 8). Moreover, vidvā́n is regularly used absolutely, taking an object much less often. I construe vratā́dhruvā́instead with ánu: “according to his vratás.” The collocation ánu vratá- is quite common; here the vratá- would be the rules that govern the natural world (plants and fires).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Together with pure mental power, pure, as Director, was he born.  
      Skilled in his own unchanging laws he waxes like the growing boughs.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For He has been born as the bright Prasâstri, with bright power of mind. (A man) who knows his firm laws, mounts up on them as on the branches (of a tree) 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit lauterem Sinne ward ja der Lautere als Prasastri geboren. Wer seine feststehenden Regeln kennt, wächst wie die Zweige nach.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim Reinen weilt der Reine ja, durch Kraft gezeugt als Ordnender; Vertraut mit seiner Werke Brauch, schiesst er wie Zweige hoch empor.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь (этот) чистый (бог) со (своей) чистой силой духа  
 Сразу же родился как прашастар.  

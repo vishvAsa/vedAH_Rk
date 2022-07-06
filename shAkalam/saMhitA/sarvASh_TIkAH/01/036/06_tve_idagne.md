@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ इ꣡द् अग्ने सुभ꣡गे यविष्ठिय  
 वि꣡श्वम् आ꣡ हूयते हविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 य꣡क्षि देवा꣡न् सुवी꣡रिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सः । त्वम् । नः॒ । अ॒द्य । सु॒ऽमनाः॑ । उ॒त । अ॒प॒रम् । यक्षि॑ । दे॒वान् । सु॒ऽवीर्या॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -131,42 +131,42 @@ genre M
 हे **यविष्ठ्य** युवतम **अग्ने** **सुभगे** सौभाग्ययुक्ते **त्वे** **इत्** त्वय्येव **विश्वं** सर्वं **हविः** **आ** **हूयते** सर्वतः प्रक्षिप्यते । **स** **त्वं** **नः** अस्मान्प्रति **सुमनाः** शोभनमनस्को भूत्वा **अद्य** अस्मिन् दिने **उत** अपि च **अपरं** श्वः परश्व इत्यादिकमुत्तरं कालं सर्वस्मिन्नपि काले नैरन्तर्येण **सुवीर्या** शोभनवीर्योपेतान् **देवान्** **यक्षि** यज ॥ सुभगे । शोभनो भगो यस्येति बहुव्रीहौ आद्युदात्तत्वम् । ‘ द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । यविष्य्ी । युवशब्दात् इष्ठन् । स्थूलदूर ' इत्यादिना यणादेः परस्य लोपः पूर्वस्य च गुणः । छान्दसो यकारोपजनः । यक्षि। ‘ बहुलं छन्दसि' इति शपो लुक् । सुवीर्या । शोभनं वीर्यं येषाम् । वीरवीर्यौ च ' इत्युत्तरपदाद्युदात्तत्वम् । ‘सुपां सुलुक्' इति विभक्तेः आकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Youthful and auspicious **Agni**, whatever oblation may be presented to you, do you, well disposed towards us; either now or at any other time, convey it to the powerful gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just in you who bring good fortune is every oblation poured, o  
 youngest Agni.  
 Benevolent toward us today and in the future, sacrifice to the gods for  masses of good heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In thee, the auspicious One, O Agni, youthfullest, each sacred gift is offered up:  
      This day, and after, gracious, worship thou our Gods, that we may have heroic sons.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 In thee, the blessed one, O Agni, youngest god, all sacrificial food is offered. Sacrifice then thou who art gracious to us to-day and afterwards 1 to the gods that we may be rich in valiant men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur in dir, dem Glückbringer, o jüngster Agni, wird jegliche Spende geopfert. Sei du uns heute und künftig wohlgesinnt. Bitte die Götter um Meisterschaft für uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dich, o Agni, giesst man jeden Opfertrank, in dich, den reichen, jüngster du! So sei uns heute wohlgesinnt und künftighin; die Götter ehr', die Heldenschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только в тебя, о Агни благодатный, о самый юный,  
 Изливается любая жертва.  

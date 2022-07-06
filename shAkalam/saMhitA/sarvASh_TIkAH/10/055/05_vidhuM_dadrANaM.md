@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विधुं꣡ दद्राणं꣡ स꣡मने बहूनां꣡  
 यु꣡वानं स꣡न्तम् पलितो꣡ जगार  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अद्या꣡ ममा꣡र स꣡ हियः꣡ स꣡म् आन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 दे॒वस्य॑ । प॒श्य॒ । काव्य॑म् । म॒हि॒ऽत्वा । अ॒द्य । म॒मार॑ । सः । ह्यः । सम् । आ॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidhuṃ* ← *vidhum* ← *vidhu*
 - \[noun\], accusative, singular, masculine
@@ -120,7 +120,7 @@ genre D
 अनया कालात्मक इन्द्रः स्तूयते । **विधुं** विधातारं सर्वस्य युद्धादेः कर्तारम् । विपूर्वो दधातिः करोत्यर्थे । तथा **समने** । अननमनः प्राणनम् । सम्यगननोपेते संग्रामे **बहूनां** शत्रूणां **दद्राणं** द्रावकं ईदृक्सामर्थ्योपेतं **युवानं** **सन्तं** पुरुषं **पलितः** जरा **जगार** निगिरतीन्द्राज्ञया । एवमुक्तलक्षणं वक्ष्यमाणलक्षणं च **देवस्य** कलात्मकस्येन्द्रस्य **महित्वा** महत्त्वेनोपेतं **काव्यं** सामर्थ्यं **पश्य** पश्यत हे जनाः । तथा जरसा प्राप्तः **अद्य** **ममार** म्रियते । **स** **ह्यः** परेद्युः **समान** सम्यक् चेष्टते । पुनर्जन्मान्तरे प्रादुर्भवतीत्यर्थः । तदेवं चत्वारि नामानि शरीराण्युक्तानि ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre D
 **Indra** is here identifiedwith Time, his fourth form
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The solitary (moon?) running in the crowd of many (stars?)—though he  was young, the gray one swallowed him—  
 behold the poetic skill of the god in his greatness. (In simple language:)  today he died; yesterday he was (still) utterly breathing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The old hath waked the young Moon from his slumber who runs his circling course with many round him.  
      Behold the Gods' high wisdom in its greatness: he who died yesterday to-day is living.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Mond, der in Gesellschaft Vieler läuft, verschlang der Altersgraue, da er noch jung war. Sieh des Gottes Weisheit in ganzer Größe: Heute ist er gestorben, gestern hat er noch vollständig geatmet!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der einsam läuft, obwol umschart von vielen, und Jüngling war, ihn hat der Greis verschlungen; Beschau des Gottes Geisteskraft mit Andacht; der heute starb, der athmete noch gestern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одинокого, бегающего в обществе многих,  
 Проглотил седой (старик), когда тот (еще) был молод.  

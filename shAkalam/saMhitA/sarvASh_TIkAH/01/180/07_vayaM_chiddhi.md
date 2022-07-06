@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ चिद् धि꣡ वां जरिता꣡रः सत्या꣡  
 विपन्या꣡महे वि꣡ पणि꣡र् हिता꣡वान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पाथो꣡ हि꣡ ष्मा वृषणाव् अ꣡न्तिदेवम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । चि॒त् । हि । स्म॒ । अ॒श्वि॒नौ॒ । अ॒नि॒न्द्या॒ । पा॒थः । हि । स्म॒ । वृ॒ष॒णौ॒ । अन्ति॑ऽदेवम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -119,7 +119,7 @@ genre M
 **वयं** **चिद्धि** वयमपि **जरितारः** तव स्तोतारः **सत्याः** सत्यफलाः सन्तः **विपन्यामहे** विविधं स्तुमः । **पणिः** पणाधारो द्रोणकलशः **वि** **हितवान्** स्थापितरसवानासीत् । यद्वा । पणिर्वणिग्लुब्धकोऽयष्टा हितवान्नियतधनो धनाढ्योऽप्ययष्टा वि वियुज्यताम् ॥ उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ **अध** अपि च **चिद्धि** **ष्म** । एते त्रयः पूरणाः । हे **अश्विनौ** **अनिन्द्या** । प्रशस्यनामैतत् । हे प्रशस्यौ **वृषणौ** हे कामानां वर्षितारौ युवाम् **अन्तिदेवं** देवानामन्तिके **पाथः** सोमं पिबथः । यद्वा । अन्तिके वर्तमानं देवान् प्राप्नुवानं सोममिति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ Hitāvān = being plural ced or opulent;
 Vi = viyujyatām, let him be separated; the imlication is: let the niggardly rich man who does not offer worship be cast off; another reading is: āhaviḥ paṇi = a niggard, offering no oblation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since we, your trusty singers, are expressing our admiration for you, the  niggard with his hoard is far away.  
 And since, o Aśvins, (you are) irreproachable, because you protect (the  man) who has the gods nearby, o bulls,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The nonce verbal form vipanyā́mahe has attracted a remarkable amount of discussion; for a detailed and clear summary see Kulikov (-ya-presents, 143-46), though his passive/reciprocal interpr. I cannot follow. Insofar as there has been a standard analysis of it, it has been as a passive to √pan ‘admire’ (Wh Rts, reflected in Geldner’s tr.), but other root associations and morphological analyses abound, which I will not discuss further. It belongs with a group of other, better-attested formations: fem. noun vipanyā́- and adj. vipanyú-, which I take as ‘admiration’ and ‘seeking/expressing admiration’ respectively. (This point was made forcefully by Thieme in Fs. Risch [1986: 165-66], though I do not follow his ultimately etymology.) (For a similar system, cf. vasūyá-(ti), vasūyā́-, vasūyú-.) I take vipanyā́mahe as a denominative -yá-verb associated with these nominal forms, derived from the root √pan (in my view); it is transitive in value and takes vām as object. With Thieme (an analysis fld. by subsequent interpr. Kulikov Witzel Gotō), I take the last part of pāda b, ví paṇír hitā́vān, as a separate nominal clause, but unlike these interpr. I take it as the main clause attached to the causal clause beginning in pāda a.
 
@@ -160,23 +160,23 @@ With the standard tr. I take anindyā in 7c as a predicted voc., with c and d se
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For verily we truthful singers praise you the niggard trafficker is here excluded.  
      Now, even now do ye O blameless Asvins, ye Mighty, guard the man whose God is near him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wir werden doch als eure wahren Lobsänger anerkannt. Der Geizhals und einer, der gute Freunde hat, sind zweierlei. Denn gerade darum seid ihr Asvin untadelig, denn ihr Bullen schützet den, dem die Götter nahe stehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rühmen uns als eure treuen Sänger, der Karge rühmt sich als des Schatzes Hüter; Drum schützt ihr nun, o Ritter ohne Tadel, ihr Helden den, der sich den Göttern nahet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это только мы славимся как ваши подлинные певцы -  
 Скупец, приготовивший (угощение для вас, остается) в стороне!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानस्य ज꣡ङ्घ्नतो  
 ह꣡रेश् चन्द्रा꣡ असृक्षत  
 जीरा꣡ अजिर꣡शोचिषः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 जी॒राः । अ॒जि॒रऽशो॑चिषः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
@@ -72,20 +72,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **जङ्घ्नतः** पुनःपुनस्तमांसि विनाशयतः **हरेः** हरितवर्णस्य **अजिरशोचिषः** सर्वत्र गमनशीलतेजसः **पवमानस्य** सोमस्य **चन्द्राः** । ‘चदि आह्लादने । देवानामाह्लादयित्र्यः **जीराः** क्षिप्रंक्षरणशीला धाराः **असृक्षत** सृजन्ति । पवित्रान्निर्गच्छन्तीत्यर्थः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gladsome swift-moving streams of the purified, green-tinted, unfadingly radiant (**Soma**), the destroyer (of darkness), have been let forth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of the self-purifying one, continually smashing (back the darkness), of  the tawny one, the glittering (drops) have surged,  
 lively ones with flickering radiance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner and Renou, I supply ‘darkness(es)’ (támāṃsi) as obj. of jáṅghnataḥ on the basis of 24c.
 
@@ -108,23 +108,23 @@ jáṅghnataḥ in 25a, which picks up the same stem (in the nom. jáṅghanat) 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From tawny Pavamana, the Destroyer, radiant streams have sprung,  
      Quick streams from him whose gleams are swift.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Pavamana, des die Finsternis vertreibenden goldgelben Falben, des Flammen-schießenden schimmernde, rasche Güsse sind losgelassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen sind des flammenden, des goldnen Kämpfers Ströme schon, Die lichten Flammenfunkelnden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

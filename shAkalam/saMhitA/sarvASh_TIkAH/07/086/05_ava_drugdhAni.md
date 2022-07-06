@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व द्रुग्धा꣡नि पि꣡त्रिया सृजा नो  
 अ꣡व या꣡ वयं꣡ चकृमा꣡ तनू꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सृजा꣡ वत्सं꣡ न꣡ दा꣡मनो व꣡सिष्ठम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अव॑ । रा॒ज॒न् । प॒शु॒ऽतृप॑म् । न । ता॒युम् । सृ॒ज । व॒त्सम् । न । दाम्नः॑ । वसि॑ष्ठम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 हे वरुण पित्र्या पितृतः प्राप्तानि नोस्मदीयानि दुग्धानि द्रोहान् बन्धनहेतुभूतान् अवसृज विमुञ्च अस्मत्तोविश्लेषय वयञ्च या यानि द्रोह- जातानि तनुभिः शरीरैः चकृम कृतवन्तः स्म तानिच अवसृज । हे राजन् राजमान वरुण पशुतृपं न तायुं स्तैन्यप्रयश्चित्तं कृत्वा अव- साने घासादिभिः पशूनां तर्पयितारं स्तेनमिव दाम्नोरज्जोर्वत्सं न वत्समिव च वसिष्ठं मां बन्धकात्पापातवसृज विमुञ्च ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 Like a calf: there are two comparisons: liberate Vasiṣṭha (i.e., me) like asa thief (is liberated), who (having performed his penance for the theft he has committed, at its termination) feedsthe animals (with food), and (i.e., or) like a calf from its tether: paśutṛpam na tāyum stainyaprāyaścittamkṛtvāvasāne ghāsādibhiḥ paśūnām tarpayitāram **stena** iva damno rajjoḥ vatsam na vatsam iva cavasiṣṭham mām bandhakāt pāpāt avasṛja vimuñca
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Release from us ancestral deceits and those that we ourselves have  committed.  
 O king, release Vasiṣṭha from his bond like a cattle-stealing thief, like  a calf.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Free us from sins committed by our fathers, from those wherein we have ourselves offended.  
      O King, loose, like a thief who feeds the cattle, as from the cord a calf, set free Vasistha.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erlaß uns die väterlichen Sünden, erlaß uns, was wir selbst getan. Laß, o König, den Vasistha los, der gebunden ist wie ein Dieb der Vieh stiehlt, laß ihn los wie das Kalb vom Stricke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lös' ab von uns das väterliche Unrecht, Nimm weg das Unrecht, das wir selbst verübten, Wie Dieb', o König, die nach Heerden trachten; lös' wie ein Kalb vom Bande den Vasischtha.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отпусти нам прегрешения предков!  
 Отпусти те, что мы сами сотворили!  

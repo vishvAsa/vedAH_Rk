@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान ऋत꣡म् बृह꣡च्  
 छुक्रं꣡ ज्यो꣡तिर् अजीजनत्  
 कृष्णा꣡ त꣡मांसि ज꣡ङ्घनत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 कृ॒ष्णा । तमां॑सि । जङ्घ॑नत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -80,21 +80,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पवमानः** **ऋतं** सत्यं यथार्थभूतं **बृहत्** प्रभूतं सर्वदेशेषु व्यापकं **शुक्रं** दीप्यमानं श्वेतवर्णं **ज्योतिः** तेजः **अजीजनत्** द्युलोक उदपादयत् । किं कुर्वन् । **कृष्णा** कृष्णवर्णानि **तमांसि** **जङ्घनत्** भृशं विनाशयन् । हन्तेर्यङ्लुकि शतरि रूपम् । ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purified (**Soma**) genitive rated the veracious all-pervading bright-shining light, destroying the black darkness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The self-purifying one, as the lofty truth, has begotten the  
 gleaming light,  
 continually smashing (back) the black shades of darkness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Lüders (266), I take ṛtáṃ bṛhát as a nom. in apposition to Soma, rather than another acc. obj. to ajījanat as Geldner/Renou do. Either of course is possible; there are several passages in which an identification of Soma with ṛtá seems likely. See comm. ad IX.56.1.
 
@@ -114,23 +114,23 @@ The light imagery in this tṛca may pick up on the identification with Agni in 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Pavamana, hath produced the lofty Law, the brilliant light,  
      Destroying darkness black of hue.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pavamana hat das hohe Gesetz, das helle Licht erschaffen, die schwarze Finsternis vertreibend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhabnes Werk hat er erzeugt und helles Licht der flammende, Verjagend schwarze Finsterniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

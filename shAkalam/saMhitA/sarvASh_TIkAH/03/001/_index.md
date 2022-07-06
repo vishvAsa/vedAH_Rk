@@ -9,7 +9,7 @@ title = "+001"
 त्रीणि ' ( आश्व. श्रौ. ४. १३) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 1 (235)  
 Agni  

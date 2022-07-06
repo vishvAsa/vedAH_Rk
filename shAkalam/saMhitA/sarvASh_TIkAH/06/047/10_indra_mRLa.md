@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र मॄळ꣡+ म꣡ह्य° जीवा꣡तुम् इछ  
 चोद꣡य धि꣡यम् अ꣡यसो न꣡ धा꣡राम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡ज् जुषस्व कृधि꣡ मा देव꣡वन्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यत् । किम् । च॒ । अ॒हम् । त्वा॒ऽयुः । इ॒दम् । वदा॑मि । तत् । जु॒ष॒स्व॒ । कृ॒धि । मा॒ । दे॒वऽव॑न्तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -142,41 +142,41 @@ genre M
 हे **इन्द्र** **मृळ** मृळय । अस्मान् सुखय । **जीवातुं** जीवनौषधं च **मह्यं** दातुम् **इच्छ** । तथा **धियं** बुद्धिं **चोदय** । स्तुतिविषयां कर्मविषयां वा प्रेरय । तीक्ष्णीकुरु । **अयसो** **न** **धाराम्** अयोमयस्य खड्गादेर्धारामिव । सा यथा सूक्ष्मा तद्वत् सूक्ष्मविषयां धियं चोदयेत्यर्थः ॥ किंच **त्वायुः** त्वामात्मन इच्छन् **इदम्** इदानीं यत्किंचन **अहं** **वदामि** समीचीनमसमीचीनं वा **तज्जुषस्व** सेवस्व । **मा** मां च **देववन्तं** रक्षकैर्देवैरुपेतं **कृधि** कुरु ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Make me happy, **Indra**; be plural ased to prolong my life; shapen my intellect like the edge of a metal sword; whatsoever, desirous (of propitiating) you, I may utter, be plural ased by it; render me the object of divine protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, be gracious. Seek a means of life for me. Spur on my poetic  vision like a blade of copper.  
 Whatever I say here in devotion to you, just this enjoy. Make me  accompanied by the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the simile in b, see VI.3.5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be gracious, Indra, let my days be lengthened: sharpen my thought as 'twere a blade of iron  
      Approve whatever words I speak, dependent on thee, and grant me thy divine protection.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, sei barmherzig, wünsche mir das Leben, mach das Gedicht schneidig wie die Klinge von Eisen! Alles, was ich da nach dir verlangend sage, daran habe deine Freude, mach mich zum Göttergünstling!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei hold, o Indra, wahre mir das Leben, die Andacht schärfe, wie des Schwertes Schneide; Was irgend hier ich spreche, dir ergeben, das nimm du an und mache gottbeschützt mich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, помилуй, пожелай мне жизни!  
 Отточи молитву, словно лезвие из металла!  

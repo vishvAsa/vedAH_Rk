@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धिषा꣡ य꣡दि धिषण्य꣡न्तः सरण्या꣡न्  
 स꣡दन्तो अ꣡द्रिम् औशिज꣡स्य गो꣡हे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ नो महा꣡न् संव꣡रणेषु व꣡ह्निः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । दु॒रोषाः॑ । पा॒स्त्यस्य॑ । होता॑ । यः । नः॒ । म॒हान् । स॒म्ऽवर॑णेषु । वह्निः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhiṣā*
 - \[noun\], instrumental, singular, feminine
@@ -109,7 +109,7 @@ genre M
 **धिषण्यन्तः** धिषणामिन्द्रविषयां स्तुतिमिच्छन्तः **औशिजस्य** । उशिजः कामयमाना ऋत्विजः। तेषां संबन्ध्यौशिजो यजमानः । तस्य **गोहे** गृहे **सदन्तः** निषीदन्तो जनाः **अद्रिम्** । आदृणाति शत्रून् इत्यद्रिरिन्द्रः । तमिन्द्रं **धिषा** स्तुत्या **यदि** यदा **सरण्यान्** उपागच्छेयुः तदा स इन्द्रः **आ** यातु । **नः** अस्माकं संवरणेषु शत्रुसंबन्धिषु निरोधेषु **वह्निः** वोढा पास्त्यस्य पस्त्ये गृहे वसता यजमानेन **होता** आह्वाता **दुरोषाः** दुस्तरक्रोधः **यः** इन्द्रः **महान्** प्रभूतो भवति । स आयात्विति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ Of the worshipper: auśijasya, from uśij, a priest, one who employs priests;
 Indra: **adri** is the name in the text, a name, it is said, of Indra, from dri to divide, to tear, as foes
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When they [=the gods/Aṅgirases?], seeking a holy place, will hasten to  the rock with holy fervor, taking their seats at the secret place of (the  company of) the fire-priests [=ritual ground/Vala cave?],  
 the Hotar [=Agni] of (the company) belonging to the household,  (though) he is hard to kindle, (comes into being) here—he who is the  great draft-horse for us in the (ritual) enclosures.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the introduction, I think vs. 6 simultaneously depicts the gods’ approach to the ritual ground and the Aṅgirases’ journey to the Vala cave. The rock (ádri-) to which they hasten is the pressing stone in the case of the gods and the Vala cave in the case of the Aṅgirases.
 
@@ -157,23 +157,23 @@ The vss. form a unity based on their shared vocab. (e.g., góhe 6b, 7c, 8c; auś
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When sitting pondering in deep devotion in Ausija's abode they ply the press-stone,  
      May he whose wrath is fierce, the mighty bearer, come as the house-lord's priest within our chambers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn sie tatenlustig aus Tatendrang zum Fels eilen werden, die im Versteck des Ausija sitzen, dann komme herbei der säumige Hotri des Pastya, der unser großer Wagenführer des Opfers in den Gehegen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn andachtsvoll die Andachtreichen eilen, den Stein umlagernd im Versteck des Eifrers, Der als des Hauses Priester unvertilgbar, der grosse, hinfährt durch die Opferstätten;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если сидящие в укрытии потомка Ушиджа  
 Из жажды действия поспешили к скале, жаждая действия,  

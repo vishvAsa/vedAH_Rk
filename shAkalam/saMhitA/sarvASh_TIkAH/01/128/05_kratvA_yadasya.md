@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्र꣡त्वा य꣡द् अस्य त꣡विषीषु पृञ्च꣡ते  
 अग्ने꣡र् अ꣡वेण मरु꣡तां न꣡ भोजि꣡ये  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 शं꣡साद् अघा꣡द् अभिह्रु꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 सः । नः॒ । त्रा॒स॒ते॒ । दुः॒ऽइ॒तात् । अ॒भि॒ऽह्रुतः॑ । शंसा॑त् । अ॒घात् । अ॒भि॒ऽह्रुतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
@@ -169,20 +169,20 @@ genre M
 **यत्** यस्मात् कारणात् सर्वे यजमानाः **क्रत्वा** प्रकृष्टेन कर्मणा हविष्प्रदानादिरूपेण **अस्य** **अग्नेः** **तविषीषु** प्रबलासु ज्वालासु **अवेन** तृप्तिनिमित्तेन भोज्या भक्ष्याणि पुरोडाशादीनि **पृञ्चते** मिश्रयन्ति । तविषीति बलनाम तविषी शुष्मम् ' ( नि. २. ९. १० ) इति तन्नामसु पाठात् । तत्र दृष्टान्तः । **मरुतां** **न** **भोज्या** वायूनां संबन्धीनि व्रीह्याद्यन्नानीव । वायुषु मेघं निर्भिद्य वृष्टिं जनयत्सु सत्सु सस्यादिद्वारा व्रीह्यादिभोज्यानि यथा पृञ्चते तथेत्यर्थः । दाने दृष्टान्तः । **इषिराय** **न** 'भोज्या । एषणयुक्ताय याचमानायार्थिने भोज्या भोग्यानि भक्ष्यादीनि यथा दीयन्ते तद्वत् । इषिरशब्दो यास्केनैवं निरुक्तः-’ ईषणेन वैषणेन वा ' ( निरु. ४. ७) इति । अतः कारणात् **सः** खलु यजमानः **दानम्** **इन्वति** हविष्प्रदानं तस्मै व्याप्नोति । यद्वा । स्वयमभिमतं दानमिन्वति । इन्वतिर्व्याप्तिकर्मा • इन्वति ननक्ष' ( नि. २. १८. १ ) इति तत्कर्मसु पाठात् । केन सामर्थ्येनेति । **वसूनां** **च** **मज्मना** निवासयोग्यानां धनानाम् अग्निना लब्धानां बलेनैव । यद्वा । सोऽग्निर्वसूनां हविर्निवासयोग्यानां ज्वालारूपाणां धनानां मज्मना बलेन दानमिन्वतीति शेषः । किंच **सः** अग्निः **अभिह्रुतः** आभिमुख्येन पापैः ह्रियमाणान् **नः** अस्मान् **दुरितात्** पापात् **त्रासते** त्रायते । तथा **शंसात्** अतिप्रभूतत्वेन शंसनीयात् यद्वा हिंसकात् **अभिह्रुतः** अभितो ह्रियमाणात् **अघात्** दुःखात् तत्कारणात् पापाद्वा त्रासते त्रायते ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch as (all men) offer in holy rite (food) for his satisfaction in the blazing (flames) of **Agni**, like (the grains that) are to be enjoyed by the winds, and like the viands that are to be given to him who solicits them; therefore the worshipper presents gifts to him, according to the extent of his opulence; and he preserves us, when oppressed (by sin), from wickedness; from overpowering malevolence and sin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When through his resolve and along with the roaring of fire, which is like  the roaring of the Maruts [=thunder], the (offering-)foods are infused  into his forces [=flames]—like foods for the vigorous one [=Indra?]—  
 because then he stimulates the giving (of good) and of goods by his might, he will rescue us from going astray, from the crooked way—from evil  utterance, from the crooked way.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A complex vs., esp. in its earlier parts, with a variety of tr. I will treat only my own. But first a few textual adjustments. In b I read (with most interpr., going back to Ludwig; see Oldenberg and Geldner’s n. 5b) agné ráveṇa rather than Pp. agnér áveṇa.
 
@@ -207,29 +207,29 @@ Forms of vásu- regularly occur with forms of √dā ‘give’, however, and so
 The phrase śáṃsād aghā́t corresponds to the well-attested bahuvrīhi agháśaṃsa- ‘possessing evil speech’, found in the next hymn (I.129.6).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When through his power and in his strong prevailing flames the Maruts' gladdening boons mingle with Agni's roar, boons gladdening for the active One,  
      Then he accelerates the gift, and by the greatness of his wealth,  
      Shall rescue us from overwhelming misery, from curse and overwhelming woe.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When through his (Agni's) power the bounties grow in strength, with the roar of Agni 1 as with that of the Maruts 2—like bounties offered to a vigorous man: then he by his greatness stirs up the gift of goods. May he protect us from misfortune and injury, from evil spell and injury.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn sie mit Umsicht unter seine Kräfte die Opfergenüsse mischen bei Agni´s Gebrüll, wie die Genüsse der Marut, wie die Genüsse für den Eifrigen - Er fördert ja die Schenkung und beschenkt mit einer Fülle von Gütern. Er möge uns vor Mißerfolg, vor Ränken, vor dem bösen Gerede des Ränkesüchtigen bewahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Agni's Kraft und Lust bei seinem Ungestüm vermischen sich Genüsse wie der Marutschar, Genüsse für den munteren; Denn er beschleunigt das Geschenk der Güter auch nach seiner Macht, Er mög' uns retten vor Gefahr und Unglücksfall, vor bösem Fluch und Unglücksfall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда (люди) переполняются силами благодаря его силе духа,  
 Благодаря помощи Агни, (появляются) услады, как у Марутов,  

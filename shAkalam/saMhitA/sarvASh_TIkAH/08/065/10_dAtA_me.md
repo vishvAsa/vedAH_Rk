@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दाता꣡ मे पृ꣡षतीनां᳐  
 रा꣡जा हिरण्यवी꣡ना᳐म्  
 मा꣡ देवा मघ꣡वा रिषत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मा । दे॒वाः॒ । म॒घऽवा॑ । रि॒ष॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dātā* ← *dā*
 - \[verb\], singular, periphrast. future
@@ -77,19 +77,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **हिरण्यवीनां** हिरण्यवीतानां **पृषतीनां** **राजा** इन्द्रः **मे** **दाता** भवतु । हे **देवाः** **मघवा** इन्द्रः **मा** **रिषत्** रिष्टो मा भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May (**Indra**) the king give me cows adorned with gold; O gods, let not **Maghavan** be harmed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The king is a giver to me—of dappled cows (with horns) wrapped in gold. Let the bounteous patron not suffer harm, o gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpretation of pāda a is quite different from Geldner’s and starts from the rhetorical structure of the four questions in vss. 9-10. Three of these (9ab, 9cd, 10b) are negative questions, in which the negative is part of the predicate: 9a ákr̥tam, 9c ná śuśruve, 10b ástrtam̥ . 10a also contains a negation, ádhṛṣtāḥ, but in Geldner’s tr. it is not predicated: “Was sind seine grossen, unangreifbaren Kräfte?” Furthermore his tr.
 
@@ -99,23 +99,23 @@ For disc. see KEWA and EWA s.v. ### 11
 ápūrvyā [sic, not, as in Aufrecht and Holland & van Nooten Rig Veda edition, ápūrvya] and purūtámāsaḥ play off each other. We may be the latest of many, but our formulations have no predecessors - a variation on the usual theme of the “newest hymn.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gods, may the mighty rest unharmed, the King who gives me spotted kine,  
      Kine decked with golden ornaments.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der König gab mir scheckige, mit Gold umwundene Kühe. Nicht soll, ihr Götter, der Freigebige zu Schaden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der reiche König, ein Geber mir von buntgefleckten, Goldschmuck tragenden Stuten, möge nicht Schaden leiden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Царь, подаривший мне  
 Пятнистых покрытым Золотов (коров),  

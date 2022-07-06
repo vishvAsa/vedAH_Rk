@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिमे꣡नाग्निं꣡ घ्रंस꣡म् अवारयेथाम्  
 पितुम꣡तीम् ऊ꣡र्जम् अस्मा अधत्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡न् निन्यथुः स꣡र्वगणं सुअस्ति꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ऋ॒बीसे॑ । अत्रि॑म् । अ॒श्वि॒ना॒ । अव॑ऽनीतम् । उत् । नि॒न्य॒थुः॒ । सर्व॑ऽगणम् । स्व॒स्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *himenāgniṃ* ← *himena* ← *hima*
 - \[noun\], instrumental, singular, neuter
@@ -138,37 +138,37 @@ genre M
 अत्रिम् । अद भक्षणे । अदेस्त्रिनि चेति चशब्दात्त्रिः । अवनीतम् । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । स्वस्ति । अस भुवि । भावे क्तिन् । छन्दस्युभयथेति सार्वधातु कत्वादस्तेर्भूभावाभावः ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You quenched with cold (water) the blazing flames (that encompassed **Atri**), and supplied him with food-supported strength; you extricated him, **Aśvins**, from the dark (cavern) into which he had been thrown headlong and restored him to every kind of welfare.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With snow you two kept away fire and scorching heat.  
 You placed the  nourishment of solid food for him.  
 You brought Atri up to well-being, who had been brought down into the  earth cleft together with his whole band.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye warded off with cold the fire's fierce burning; food very rich in nourishment ye furnished.  
      Atri, cast downward in the cavern, Asvins ye brought, with all his people, forth to comfort.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch Schnee wehrtet ihr der Feuersglut; ihr brachtet ihm nahrhafte Stärkung. Den in einen Glutofen gesteckten Atri holtet ihr mit ganzem Gefolge heil heraus, ihr Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Feuerglut habt ihr gewehrt durch Kühlung und habt dem Atri Speis' und Trank gegeben, Ihr Ritter habt den in die Kluft gestossnen herausgeführt mit ganzer Schar zum Heile.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Снегом вы задержали пылающий огонь,  
 (А) ему дали подкрепляющую пищу.  

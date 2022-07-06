@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा वद तव꣡सं गीर्भि꣡र् आभिः꣡  
 स्तुहि꣡ पर्ज꣡न्यं न꣡मसा꣡ विवास  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रे꣡तो दधाति ओ꣡षधीषु ग꣡र्भम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 कनि॑क्रदत् । वृ॒ष॒भः । जी॒रऽदा॑नुः । रेतः॑ । द॒धा॒ति॒ । ओष॑धीषु । गर्भ॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -118,7 +118,7 @@ popular
 हे स्तोतः **तवसं** बलवन्तं **पर्जन्यम्** **अच्छ** अभिप्राप्य **वद** प्रार्थय । पर्जन्यशब्दो यास्केन बहुधा निरुक्तः -- पर्जन्यस्तृपेराद्यन्तविपरीतस्य तर्पयिता जन्यः परो जेता वा जनयिता वा प्रार्जयिता वा रसानाम् ' ( निरु. १०. १० ) इति । **आभिः** **गीर्भिः** स्तुतिवाग्भिः **स्तुहि** । **नमसा** अन्नेन हविर्लक्षणेन **आ** **विवास** सर्वतः परिचर । यः पर्जन्यः **वृषभः** अपां वर्षिता **जीरदानुः** क्षिप्रदानः **कनिक्रदत्** गर्जनशब्दं कुर्वन् **ओषधीषु** **गर्भं** गर्भस्थानीयं **रेतः** उदकं **दधाति** स्थापयति तं स्तुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,39 +129,39 @@ popular
 Parjanya: is **Indra**, as the sender of rain; **Nirukta** 10.10 provides a number of etymologies: par, derived from tṛp, to satisfy (with a reversal of the final consonant), **janya** = a victor, **jetā** or genitive rator janayith, or impelleer prajayitā, of fluids, rasānām; unādi derivation refers it to vṛṣ, to rain (p substituted for v; r. becoming the **guṇa**, ar; and s' being changed to j; **anya** is the affix)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Address the powerful one with these hymns. Praise Parjanya. With  reverence seek to entice him here.  
 The constantly roaring bull of lively drops deposits his semen as embryo  in the plants.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb dadhāti can be read with both rétaḥ and gárbham, the latter in the idiom gárbham √dhā ‘impregnate’, found again in 7a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING with these songs thy welcome to the Mighty, with adoration praise and call Parjanya.  
      The Bull, loud roaring, swift to send his bounty, lays in the plants the seed. for germination.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Invoke the mighty god with songs of welcome; Parjanya praise: with homage seek to win him. He, roaring like a bull, with streams that quicken, A seed to germinate in plants deposits.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rufe mit diesen Lobesworten den Starken an, preise Parjanya, bitte ihn unter Verbeugung her! Brüllend legt der rasch gewährende Bulle seinen Samen als Keim in die Pflanzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesen Liedern rede an den starken, Pardschanja preise, lock ihn her in Ehrfurcht; Es brüllet laut der Stier, der tropfenreiche, der Samen giesst als Keim in die Gewächse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Призывай сильного (бога) этими хвалебными словами!  
 Славь Парджанью! Старайся расположить (его) поклонением!  

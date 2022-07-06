@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्म꣡त्पुरंधिर् न आ꣡ गहि  
 विश्व꣡तोधीर् न ऊत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं यय꣡ दिवावसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दि॒वः । अ॒मुष्य॑ । शास॑तः । दिव॑म् । य॒य । दि॒वा॒व॒सो॒ इति॑ दिवाऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *smatpurandhir* ← *smat*
 - \[adverb\]
@@ -106,7 +106,7 @@ genre M;; repeated line
 हे इन्द्र **स्मत्पुरंधिः** स्वर्गकुटुम्बी **नः** अस्मान् **आ** **गहि** । तथा **विश्वतोधीः** सर्वजगतो धारकस्त्वं **नः** अस्माकम् **ऊतये** रक्षणाय आ गहि आगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,28 +117,28 @@ genre M;; repeated line
 Master of the family of heaven: smatpurandhi = svargakuṭumbin
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along with Plenitude come here to us, as one whose vision is everywhere,  for our help,  
 o you who bring goods by day—(though) you (other gods), who impose  order over yonder heaven, have driven off to heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come with abundant blessings, come with perfect care to succour us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zusammen mit Purandhi komm zu uns, nach allen Seiten hin bedenkend, uns zum Beistand. - Über jenen Himmel herrschend seid ihr ja in den Himmel gegangen, o Divavasu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Segensfülle komm zu uns auf alles achtend, uns zum Schutz; Von jenes Herrschers Himmel kamt ihr zu dem Feste tageshell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходи к нам вместе с Пурамдхи,  
 Повсюду (всё) замечая, нам на помощь!  

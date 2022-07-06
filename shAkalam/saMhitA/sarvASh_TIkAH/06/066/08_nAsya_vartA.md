@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡स्य वर्ता꣡ न꣡ तरुता꣡ नु꣡ अस्ति  
 म꣡रुतो य꣡म् अ꣡वथ वा꣡जसातौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ व्रजं꣡ द꣡र्ता पा꣡रिये अ꣡ध द्योः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तो॒के । वा॒ । गोषु॑ । तन॑ये । यम् । अ॒प्ऽसु । सः । व्र॒जम् । दर्ता॑ । पार्ये॑ । अध॑ । द्योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nāsya* ← *na*
 - \[adverb\]
@@ -136,7 +136,7 @@ genre M
 हे **मरुतः** **वाजसातौ** संग्रामे **यम्** **अवथ** रक्षथ **अस्य** जनस्य **वर्ता** प्रेरकः **न** **अस्ति** । अस्य **तरुता** **नु** हिंसिता च **न** अस्ति । **अध** अपि च **तोके** पुत्रे **तनये** पौत्रे धने वा **गोषु** **वा** **अप्सु** वा निमित्तभूतेषु 'यम् अवथ **सः** **पार्ये** संग्रामे **द्योः** दीप्तस्यापि विजिगीषोर्वा शत्रोः **व्रजं** गवां संघं **दर्ता** दारयिता भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,13 +149,13 @@ Despoiler of the herds: sa vrajam dartā pārye adha dyoḥ = sa gavām saṅgha
 Dyoḥ = vijigiṣor vā śatroḥ, of one desirous to overcome, or an enemy
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There exists now no one to obstruct, no one to overcome him whom  you aid in the winning of prizes, o Maruts,  
 whom (you aid in the winning) of progeny, of cows, of descendants, of  waters. He is the splitter of the (cow)pen just then at the decisive end  of the day.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c, on the basis of VI.31.1 I would adjust the tr. to reflect the formulaic pair toká- tánaya- to “progeny and posterity, the waters, and the sun”; see also VI.25.4.
 
@@ -164,23 +164,23 @@ Flg. Geldner, Renou, and Klein (DGRV II.123, 194), the published translation tak
 On the tendency of ádha to occur adjacent to locatives, see Klein DGRV II.95.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 None may obstruct, none overtake, O Maruts, him whom ye succour in the strife of battle  
      For sons and progeny, for kine and waters: he bursts the cow-stall on the day of trial.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht gibt es einen Wehrer noch Überwinder dessen, dem ihr Marut im Kampf um den Siegerpreis beisteht, oder wenn es sich um den Samen, um Kühe, um leibliche Nachkommenschaft, um Wasser handelt. Er sprengt die Kuhhürde noch in der letzten Stunde des Tages auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kein Gegner ist für den und kein Besieger, wen ihr, o Maruts, schützt im Kampf um Beute, Um Kinder, Enkel, Kühe, um Gewässer; den Stall erbricht er am Entscheidungstage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никто не воспрепятствует тому, не овладеет (тем),  
 О Маруты, кому вы поможете в завоевании наград,  

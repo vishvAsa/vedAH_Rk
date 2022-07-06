@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्ये꣡द् उ त्वेष꣡सा रन्त सि꣡न्धवः  
 प꣡रि य꣡द् · व꣡ज्रेण सीम् अ꣡यछत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुर्वी꣡तये · गाधं꣡ तुर्व꣡णिः कः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 ई॒शा॒न॒ऽकृत् । दा॒शुषे॑ । द॒श॒स्यन् । तु॒र्वीत॑ये । गा॒धम् । तु॒र्वणिः॑ । क॒रिति॑ कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -123,7 +123,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 अस्यैवेन्द्रस्य **त्वेषसा** दीप्तेन बलेन **सिन्धवः** समुद्राः। यद्वा । गङ्गाद्याः सप्त नद्यः **रन्त** स्वे स्वे स्थाने रमन्ते । **यत्** यस्मात् अयमिन्द्रः **वज्रेण** **सीम्** एनान् सिन्धून् वज्रेण **परि** **अयच्छत्** परितो नियमितवान् । अपि च **ईशानकृत्** वृत्रादिशत्रुवधेनात्मानमैश्वर्यवन्तं कुर्वन् इन्द्रः **दाशुषे** हविर्दत्तवते यजमानाय फलं **दशस्यन्** प्रयच्छन् **तुर्वणिः** तूर्णसंभजनः । ‘तुर्वणिस्तूर्णवनिः ' (निरु. ६. १४) इति यास्कः । यद्वा । तुर्विता शत्रूणां हिंसिता । एवंभूत इन्द्रः **तुर्वीतये** एतत्संज्ञाय उदके निमग्नाय ऋषये **गाधम्** अवस्थानयोग्यं धिष्ण्यप्रदेश **कः** अकार्षीत् ॥ रन्त । ‘रमु क्रीडायाम् । छान्दसे लङि बहुवचने ' बहुलं छन्दसि' इति शपो लुक् । धातोरन्त्यलोपश्छान्दसः । अयच्छत्। 'यम उपरमे'। इषुगमियमां छः' इति छत्वम् । कः । करोतेर्लुङि ‘ मन्त्रे घसह्वरणश° ' ( पा. सू. २. ४. ८० ) इत्यादिना च्लेर्लुक् । गुणः । हल्ङ्यादिना तलोपः। ‘बहुलं छन्दस्यमाङयोगेऽपि ' इति अडभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M;; gautamī; see Arnold (1905) 240–1
 Tūrvīti is a ṛṣi who had been immersed in water; **Indra** brought him to dry land
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just this one—the rivers with their glittering came to rest when he held  them encircled with his mace.  
 Performing the master’s part, showing favor to the pious man, the  victorious one made a ford for Turvīti.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse nicely juxtaposes a well-known deed of Indra’s, when he stops the waters to make a ford for his client(s), with the even better known deed of releasing the stopped waters in the Vṛtra myth, treated in the preceding vs. (10). On the playful transition between these two myths here, see Jamison 2007: 113-14 n. 20. The stopping of the waters causes mild surprise immediately after a verse concerning their release.
 
@@ -159,23 +159,23 @@ also Geldner, Renou, Witzel Gotō) - or in a sort of appositive subject relation
 More phonological play: c dāśúṣe daśasyan; d turvī́taye … turváṇiḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The rivers played, through his impetuous splendour, since with his bolt he compassed them on all sides.  
      Using his might and favouring him who worshipped, he made a ford, victorious, for Turviti.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch seinen Feuereifer standen die Ströme still, als er sie mit der Keule zurückhielt. Reich machend, dem Opferwilligen gefällig, bereite der Erretter dem Turviti eine Furt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf seinen Antrieb rannen hin die Ströme, als er auf Vritra mit dem Blitz gezielet, Der Herrscher, Gunst dem Huldiger erweisend, macht' freie Bahn als Sieger dem Turviti.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это из-за его пыла остановились реки,  
 Когда ваджрой он их задержал.  

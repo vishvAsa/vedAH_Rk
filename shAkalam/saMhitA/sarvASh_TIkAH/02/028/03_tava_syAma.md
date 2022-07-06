@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व स्याम पुरुवी꣡रस्य श꣡र्मन्न्  
 उरुशं꣡सस्य वरुण प्रणेतः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ क्षमध्वं यु꣡जियाय देवाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यू॒यम् । नः॒ । पु॒त्राः॒ । अ॒दि॒तेः॒ । अ॒द॒ब्धाः॒ । अ॒भि । क्ष॒म॒ध्व॒म् । युज्या॑य । दे॒वाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -115,36 +115,36 @@ genre M
 हेप्रणेतः सर्वस्यजगतः प्रकर्षेणनेतः वरुण पुरुवीरस्यपुरुभिर्बहुभिःवीरैरुपेतस्य यद्वा पुरूणाम्बहूनां शत्रूणांविशेषेणप्रेरकस्य उरुशंसस्यउरुभिर्बहुभिः स्तूयमानस्यतवशर्मन् शर्मणिसुखेगृहेवा स्याम अ- दितेः पुत्राः मित्रादयः परमपिच्छन्दसीतिपरस्यषष्ठ्यन्तस्यपूर्वामन्त्रिताङ्गवद्भावेनानुप्रवेशात् पदद्वयसमुदायस्याष्टमिकंसर्वानुदात्तत्वम् अदब्धाशत्रुभिरहिंसिताः एवम्भूताहेदेवाः यूयन्नोस्मान् कृता पराधान् युज्यायसख्यायअभिक्षमध्वं अस्माभिःकृतमपराधंसहध्वम् ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Varuṇa**, chief guide (of men), may we abide in the felicity of you, who are endowed with great powers, and are glorified by many; divine sons of **Aditi**, unharmed (by foes), have compassion upon us through your benevolence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we be under the protection of you, who bring many heroes, who  receive wide praise, o Varuṇa, our leader.  
 O undeceivable sons of Aditi, indulge us to be yoked (with you), o gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we be in thy keeping, O thou Leader wide-ruling Varuna, Lord of many heroes.  
      O sons of Aditi, for ever faithful, pardon us, Gods, admit us to your friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen unter deinem Schutze, des Heldenreichen, stehen, dessen Worte weithin reichen, du Führer Varuna. Ihr unbetörten Söhne der Aditi, ihr Götter, lasst euch zu einem Freundesbunde herbei!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir sein in deinem Schutz, der reich an Helden weithin du waltest, Varuna, o Führer; O Söhne ihr der Aditi seid günstig, untrügliche, o Götter, unserm Bündniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будем мы под защитой у тебя, обладающего многими героями,  
 (У бога,) чья хвала далеко раздается, о Варуна-вождь!  

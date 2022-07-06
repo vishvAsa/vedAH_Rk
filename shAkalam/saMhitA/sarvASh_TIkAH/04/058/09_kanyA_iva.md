@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कन्या᳡ इव वहतु꣡म् ए꣡तवा꣡ उ  
 अञ्जि꣡ अञ्जाना꣡ अभि꣡ चाकशीमि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घृत꣡स्य धा꣡रा अभि꣡ त꣡त् पवन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 यत्र॑ । सोमः॑ । सू॒यते॑ । यत्र॑ । य॒ज्ञः । घृ॒तस्य॑ । धाराः॑ । अ॒भि । तत् । प॒व॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kanyā* ← *kanyāḥ* ← *kanyā*
 - \[noun\], accusative, plural, feminine
@@ -119,20 +119,20 @@ genre D
 **कन्याइव** अनूढा बालिका इव । ता यथा **वहतुम्** उद्वाहं प्राप्तुम् **एतवा** **उ** एतुं पतिं गन्तुम् **अञ्जि** अञ्जकमाभरणं तेजो वा **अञ्जानाः** व्यञ्जयन्त्यः । एवं कुर्वत्यः कन्याइव स्वभर्तृभूतमाध्वरं वैद्यतं वाग्निमादित्यं वा वहतुम् एतुम् अञ्जि व्यञ्जकं तदीयं रूपमञ्जाना व्यञ्जयन्तीः **घृतस्य** **धाराः** **अभि** **चाकशीमि** अभिपश्यामि । घृतेनोदकेन च भौमस्य वैद्युतस्य चाग्नेः प्रज्वलनं प्रसिद्धम् । किंच ता धाराः **सोमः** **सूयते** **यत्र** **यत्र** चेतर: **यज्ञः** तायते **तत्** तं यज्ञमभिलक्ष्य **पवन्ते** गच्छन्ति खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I contemplate these streams of Ghī as they flow from where the **Soma** is effused, where the sacrifice (is solemnized), as maidens decorating themselves with unguents to go to the bridegroom.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I keep gazing upon them, who are like maidens smearing on unguent to  go to their wedding.  
 Where the soma is pressed, where the sacrifice (is performed), toward  that do the streams of ghee go purifying themselves.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details open><summary><h2>05-10 ...{Loading}...</h2></summary>
 
@@ -142,23 +142,23 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As maidens dock themselves with gay adornment to join the bridal feast, I now behold them.  
      Where Soma flows and sacrifice is ready, thither the streams of holy oil are running.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich sehe sie wie Mädchen, die Salbe auflegen, um auf die Hochzeit zu gehen. Wo Soma gepreßt wird, wo das Opfer stattfindet, werden dazu die Ströme des Ghrita geläutert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich sehe sie wie Mädchen, die mit Salben sich schminken, um zur Hochzeit hinzugehen; Wo Soraa, wo das Opfer wird bereitet, da rieseln hin der Butter helle Tropfen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я рассматриваю их, как девиц,  
 Умастившихся умащением, чтобы идти на свадьбу.  

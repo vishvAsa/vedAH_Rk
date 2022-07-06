@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्यम꣡णं व꣡रुणम् मित्र꣡म् एषाम्  
 इ꣡न्द्रावि꣡ष्णू मरु꣡तो अश्वि꣡नोत꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡द् उ वह सुहवि꣡षे ज꣡नाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽअश्वः॑ । अ॒ग्ने॒ । सु॒ऽरथः॑ । सु॒ऽराधाः॑ । आ । इत् । ऊं॒ इति॑ । व॒ह॒ । सु॒ऽह॒विषे॑ । जना॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aryamaṇaṃ* ← *aryamaṇam* ← *aryaman*
 - \[noun\], accusative, singular, masculine
@@ -133,46 +133,46 @@ genre M
 हे **अग्ने** **स्वश्वः** शोभनाश्वोपेतः **सुरथः** शोभनरथः **सुराधाः** शोभनधनोपेतः त्वम् **एषां** मर्त्यानां मध्ये **सुहविषे** शोभनहविष्काय **जनाय** यजमानाय **अर्यमणं** **वरुणं** **मित्रं** **इन्द्राविष्णू** **मरुतः** **अश्विना** अश्विनौ च यष्टव्यान् देवान् **आ** **वह** **इदु** आह्वयैव । उः पूरणः ॥ इन्द्राविष्णू ।  ‘ ऋज्रेन्द्र ' इत्यादिना निपातनादिन्द्रशब्द आद्युदात्तः । देवताद्वन्द्वे च ' इत्युभयपदप्रकृतिस्वरत्वम् । सुहविषे ।' नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Possessed, **Agni**, of good steeds, an excellent car, and abundant wealth, do you amidst these (worshippers) bring to the man who offers worthy oblations, **Aryaman**, **Varuṇa**, **Mitra**, **Viṣṇu**, the **Maruts**, or the **Aśvins**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Among those (gods), convey Aryaman, Varuṇa, Mitra, Indra and Viṣṇu,  the Maruts, and the Aśvins  
 just here, to the person providing good oblations, o Agni—you who have  good horses, good chariot, good rewards.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unaccented gen. pl. eṣām must refer back to yuṣmā́n … devā́n “you gods” in 3d; evidently the poet only wants a selection of them to be brought to the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aryaman, Mitra, Varuna, and Indra with Visnu, of the Gods, Maruts and Asvins-  
      These, Agni, with good car and steeds, bring hither, most bountiful, to folk with fair oblations.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O Agni, with thy good horses, and thy good chariot, rich in bounties, bring hither from among them (the gods) 1 Aryaman, Varuna, and Mitra, Indra and Vishnu, the Maruts and the Asvins, to him who offers good oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fahr von ihnen den Aryaman, Varuna, Mitra, Indra und Vishnu, die Marut und die Asvin her mit schönem Wagen, mit schönen Gaben zu dem Mann, der schöne Opfer bringt, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Arjaman, den Varuna und Mitra, den Indra, Vischnu, Murut's und die Ritter, Die fahre her zum opferreichen Manne mit guten Rossen, Wagen, Schätzen, Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Арьямана, Варуну, Митру из них,  
 Индру-Вишну, Марутов, а также Ашвинов –  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अह्यन् भुरि꣡जोर् धिया꣡  
 संव꣡सानं विव꣡स्वतः  
 प꣡तिं वाचो꣡ अ꣡दाभियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पति॑म् । वा॒चः । अदा॑भ्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **तं** सोमं **विवस्वतः** परिचरत ऋत्विजः **भुरिजोः** बाह्वोः **धिया** अङ्गुल्या **अह्यन्** प्राहिण्वन् । कीदृशं तम् । **संवसानं** वसन्तं पात्रे **वाचः** स्तुतेः **पतिं** स्वामिनम् **अदाभ्यम्** अदम्भनीयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The worshippers have elevated by the fingers of their arms that unconquerable lord of praise abiding (in the vessels).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him have they impelled between the two arms with the insight of  Vivasvant, him who is also clad in it,  
 the undeceivable lord of speech.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On this vs., and esp. pāda b, see Oldenberg’s detailed and sensible disc.
 
@@ -104,23 +104,23 @@ There is some difference of opinion on how to construe vivásvataḥ. Renou supp
 Though Grassmann classifies saṃvásāna- (2x) with √vas ‘dwell’, the later consensus (in addition to the usual, see Gotō, 1st Kl., 295 n. 698), patently correct in my view, is that it belongs with √vas ‘wear’, which has a well-attested med. root pres., whose med. participle is esp. common. On ‘hymns’ etc. as garments, see the passages cited by Oldenberg
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, dweller with Vivasvan, they with use of both arms have sent forth,  
      The Lord of Speech infallible.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn haben sie zwischen den Armen durch ihre Kunst zur Eile getrieben, der sich in die Dichtung des Vivasvat kleidet, den unbetörbaren Herrn des Wortes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In ihren Armen trieben sie Vivasvats Hausgenossen an, Durch Lied den treuen Liedesherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его, (текущего) между рук, поторопили с помощью молитвы,  
 (Сок,) рядящийся (в молоко) у Вивасвата,  

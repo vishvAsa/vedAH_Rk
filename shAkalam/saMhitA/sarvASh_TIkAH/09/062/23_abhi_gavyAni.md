@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ ग꣡व्यानि वीत꣡ये  
 नृम्णा꣡ पुनानो꣡ अर्षसि  
 सन꣡द्वाजः प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒नत्ऽवा॑जः । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **पुनानः** पूयमानो यस्त्वं **वीतये** भक्षणाय **गव्यानि** गोसंबन्धीनि **नृम्णा** नृम्णानि धनानि क्षीरादीनि **अभि** **अर्षसि** अभिगच्छसि स त्वं **सनद्वाजः** दीयमानान्नः सन् **परि** **स्रव** परिक्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Being purified you have the treasures of the kine to enjoy (them); flow forth you who grants food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You rush to pursue bovine (goods) and manly powers, while being  purified.  
 Winning the prizes, flow around.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -102,23 +102,23 @@ gṛṇāná- is found in the first and last vs. (22b, 24c); vss. 23 and 24 cont
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou flowest to enjoy the milk, and bringest valour, being cleansed:  
      Winning the spoil flow hitherward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um die Kuhgewinne, um Manneskräfte zu erjagen rinnst du dich läuternd. Laufe ab, indem du den Siegespreis erringst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du strömest flammend Rinderschar und Manneskraft zum Mahl herbei, Uns Kraft verleihend fliesse rings.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

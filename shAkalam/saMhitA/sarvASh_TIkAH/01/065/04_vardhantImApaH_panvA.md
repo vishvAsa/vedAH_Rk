@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡र्धन्तीम् आ꣡पः पन्वा꣡ सु꣡शिश्विम्  
 ऋत꣡स्य यो꣡ना ग꣡र्भे सु꣡जातम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 वर्ध॑न्ति । ई॒म् । आपः॑ । प॒न्वा । सुऽशि॑श्विम् । ऋ॒तस्य॑ । योना॑ । गर्भे॑ । सुऽजा॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vardhantīm* ← *vardhanti* ← *vṛdh*
 - \[verb\], plural, Present indikative
@@ -80,18 +80,18 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 ‘उक्त एवार्थः स्पष्टीक्रियते । **देवाः** **ऋतस्य** गतस्य पलायितस्याग्नेः **व्रता** व्रतानि कर्माणि गमनावस्थानशयनादिरूपाणि **अनु** **गुः** अन्वेष्टुमगमन् । तदनन्तरं **परिष्टिः** परितः सर्वतोऽन्वेषणं **भुवत्** अभवत् । **भूम** भूमिरप्यग्नेरन्वेष्टृभिर्देवैः **द्यौर्न** स्वर्ग इवाभूत् । इन्द्रादयः सर्वे देवा अग्नेर्गवेषणाय भूलोकं प्राप्ताः' इत्यर्थः । **आपः** अब्देवताः **ईम्** एनमुदके प्रविष्टमग्निं **वर्धन्ति** प्रवर्धयन्ति । यथा देवा न पश्यन्ति तथारक्षन्नित्यर्थः । कीदृशम् । **पन्वा** स्तोत्रेण सुशिश्विं सुष्ठु प्रवर्धितम् । **ऋतस्य** **योना** । योनिरित्युदकनाम । ऋतस्य यज्ञस्यान्नस्य वा कारणभूते जले **गर्भे** गर्भस्थाने मध्ये **सुजातं** सुष्ठु प्रादुर्भूतम् । एवमप्सु वर्तमानमग्निं देवेभ्यो मत्स्यः प्रावोचत् । तदनन्तरं देवास्तमज्ञासिषुरिति भावः । तथा च तैत्तिरीयकं -–‘स निलायत सोऽपः प्राविशत्तं देवताः प्रैषमैच्छन् तं मत्स्यः प्राब्रवीत् ' (तै. सं. २. ६. ६. १ ) इति ॥ व्रता। ‘शेश्छन्दसि बहुलम्' इति शेर्लोपः । गुः । ‘ इण् गतौ । इणो गा लुङि' इति गादेशः । गातिस्था' इति सिचो लुक् । आतः' इति झेर्जुस् । ‘ उस्यपदान्तात् ' इति पररूपत्वम् । परिष्टिः । ‘ इषु इच्छायाम्' । क्तिनि “ तितुत्र ' इति इट्प्रतिषेधः । शकन्ध्वादित्वात्पररूपत्वम् (पा. सू. ६. १. ९४. ४) । ‘तादौ च निति' इति गतेः प्रकृतिस्वरत्वम् । भूम । सुपां सुलुक्' इति सोः डादेशः । ह्रस्वश्छान्दसः । वर्धन्ति । छन्दस्युभयथा' इति शप आर्धधातुकत्वात् ‘णेरनिटि' इति णिलोपः। शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकस्वरेण धातुस्वरः शिष्यते । पन्वा । ‘पन स्तुतौ ' । औणादिको भावे उप्रत्ययः । सुशिश्विम् । ‘ टुओश्वि गतिवृद्ध्योः । ‘ आदृगमहनजनः० ' इत्यत्र ' उत्सर्गश्छन्दसि ' (पा. सू. ३. २. १७१. २) इति वचनात् किप्रत्ययः । वचिस्वपि ' इत्यादिना संप्रसारणम् । लिङ्वद्भावात् द्विर्भावे ‘बहुलं छन्दसि ' इति उकारस्य इत्वम् । छान्दसो यणादेशः । ‘ सुः पूजायाम् ' ( पा. सू. १. ४. ९४ ) इति सोः कर्मप्रवचनीयत्वम् । ‘स्वती पूजायाम् ' ( पा. म. २. २. १८. ४ ) इति प्रादिसमासः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With wonder the waters strengthen the lovely child,  
 well-begotten in the lap of truth, in its womb.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The initial sequence in this vs. várdhantīm can, uncontroversially, consist of the 3rd pl. act. pres. várdhanti and the enclitic pronoun īm, as the Pp. and all subsequent analyses take it. I wonder, however, if it should not be analyzed like nearby I.67.4 vidántīm (q.v.; also a Parāśara hymn), where I segment the sequence as vidánt īm, with the old secondary ending *-ant preserved because it was misanalyzed as -ánti + īm. In I.67.4 there is stronger motivation to accept my reanalysis because vidá- is otherwise only an aorist stem and should not have indicative forms with primary endings. Here, of course, várdha- is a present stem and várdhanti would be perfectly at home. Nonetheless, the first four vss. of this hymn treat the disappearance of Agni and his concealment in the waters and are couched in the past
 
@@ -103,28 +103,28 @@ It is unclear with what part of the sentence the instr. panvā́ should be const
 The matter is made more difficult by the fact that súśiśvi- is also a hapax. It is generally taken as an adj. “schön wachsend” (ultimately to √śū ‘swell’), and this is certainly possible. But because of śíśvā, instr. of śíśu- ‘child’, in 10c, I follow Oldenberg (SBE, “the fine child”) and Renou (“le beau Nouveau-né”) in taking it as a noun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Kin as a brother to his sister floods, he eats the woods as a King eats the rich.  
      When through the forest, urged by wind, he spreads, verily Agni shears the hair of earth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 In the lap, in the womb of Rita, the waters nourish the fine child with praise, him who is well born.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 ihn ziehen die Wasser groß, der unter Beifall sich schön entwickelt, aus dem Schoße, dem Mutterleib der Zeit schön geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter folgten – des Opfers Werken, umgeben rings es – wie Erd' der Himmel; Die Wasser nähren – mit Lob das Kindlein, das schöngeborne – im Schooss des Opfers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मान् न꣡ र्ते꣡ विज꣡यन्ते ज꣡नासो  
 यं꣡ यु꣡ध्यमाना अ꣡वसे ह꣡वन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ अच्युतच्यु꣡त् स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । विश्व॑स्य । प्र॒ति॒ऽमान॑म् । ब॒भूव॑ । यः । अ॒च्यु॒त॒ऽच्युत् । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmān* ← *yasmāt* ← *yad*
 - \[noun\], ablative, singular, masculine
@@ -126,21 +126,21 @@ genre M
 यस्मादृते जनासोजनाः नविजयन्ते विजयन्नप्राप्नुवन्ति अतः युध्यमानायुद्धङ्कुर्वाणाजनाअवसे- स्वरक्षणायंइन्द्रं हवन्तेआह्वयन्ति यश्चविश्वस्यसर्वस्यजगतः प्रतिमानम्प्रतिनिधिर्बभुव यश्चाच्युत- च्युत् अच्युतानाङ्क्षयरहितानाम्पर्वतादीनाञ्च्यावयितासइन्द्रइत्यादिप्रसिद्धम् ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Without whom men do not conquer; whom, when engaged in conflict, they invoke for succour; he, who is the prototype of the universe and the caster down of the unyielding; he, men, is **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Without whom peoples do not win, whom they call upon for help as  they fight,  
 who has become a match for everyone, who is the mover of the  
 immovable – he, o peoples, is Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
@@ -150,28 +150,28 @@ Note the phonological sequence, with several different interlocking repetitions:
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Without whose help our people never conquer; whom, battling, they invoke to give them succour;  
      He of whom all this world is but the copy, who shakes things moveless, He, O men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Without whose aid men conquer not in battle, Whom fighting ever they invoke for succour, Who shows himself a match for every foeman, Who moves what is unmoved: he, men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne den die Völker nicht siegen, den die Kämpfenden um Beistand rufen, der sich jedem gewachsen zeigt, der das Unbewegte bewegt - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ohn' dessen Beistand Männer nimmer siegen, den alle Kämpfer sich zu Hülfe rufen, Der auch das Feste wanken macht, an Stärke jedwedem gleich, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Без кого народы не побеждают,  
 Кого сражающиеся зовут на помощь,  

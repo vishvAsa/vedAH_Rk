@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ आ꣡ वक्षि म꣡हि न आ꣡ च सत्सि  
 दिव꣡स्पृथिव्यो꣡र् अरति꣡र् युवत्योः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 र꣡भस्वद्भी र꣡भस्वाँ ए꣡ह꣡ गम्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । सु॒ऽतुकः॑ । सु॒त्ऽउके॑भिः । अश्वैः॑ । रभ॑स्वत्ऽभिः । रभ॑स्वान् । आ । इ॒ह । ग॒म्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 हे अग्ने सः तादृशस्त्वं **नः** अस्मदीये यज्ञे **महि** महान् देवान् **आ** **वक्षि** आवह प्रापय । किंच **युवत्योः** परस्परं मिश्रितयोः तरुण्योर्वा **दिवस्पृथिव्योः** द्यावापृथिव्योर्मध्ये **अरतिः** अग्निः सूर्यात्मना गन्ता त्वम् **आ** **सत्सि** अस्माकं यज्ञमासीद । तथा **सुतुकः** । तुकिर्गत्यर्थः । सुगमः स्तोतृभिः यष्टृभिश्च सुखेन प्राप्तव्यः **रभस्वान्** वेगवान् **अग्निः** अङ्गनादिगुणयुक्तस्त्वं **सुतुकेभिः** सुगमैः **रभस्वद्भिः** वेगवद्भिः अश्वैः रोहिदाख्यैः सह **इह** अस्मदीये यज्ञे **आ** **गम्याः** आगच्छ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ genre M
 The young heaven and earth: ā ca satsi divaspṛthivyoḥ aratir yuvatyoḥ:yuvatyoḥ = mutually mixed, parasparam miśritayoḥ, or young feminine les, taruṇyoḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Convey here something great for us and take your seat here as the spoked  wheel of Heaven and Earth, the two youthful ones.  
 May Agni, powerfully thrusting, with his powerfully thrusting horses,  the tempestuous one with his tempestuous ones, come here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So bring us ample wealth: seat thee as envoy of the two youthful Matrons, Earth and Heaven.  
      Let Agni rapid with his rapid, horses, impetuous with impetuous Steeds, come hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als solcher bring uns Großes her und setze dich als Lenker der jugendlichen Erde und Himmel hin! Agni möge spornstreichs mit den gutgespornten Rossen, der Ungestüme mit den Ungestümen hierher kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fahr herrliches uns her und lass dich nieder, als Diener du des Weltenpaars, der Jungfraun; Der schnelle Agni mit den schnellen Rossen, der muntre mit den muntern komme zu uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Привези нам великое (богатство) и усаживайся  
 Как посланник юных Неба-и-Земли!  

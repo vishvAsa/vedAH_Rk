@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दृशानो꣡ रुक्म꣡ उर्विया꣡ वि꣡ अद्यौद्  
 दुर्म꣡र्षम् आ꣡युः श्रिये꣡ रुचानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् एनं दियउ꣡र् जन꣡यत् सुरे꣡ताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । अ॒मृतः॑ । अ॒भ॒व॒त् । वयः॑ऽभिः । यत् । ए॒न॒म् । द्यौः । ज॒नय॑त् । सु॒ऽरेताः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dṛśāno* ← *dṛśānaḥ* ← *dṛś*
 - \[verb noun\], nominative, singular
@@ -141,7 +141,7 @@ genre M
 अत्रैव हेतुमाह - अमृतः खल्वयं वयोभिरभवदिति । तदपि कुत इत्याह – यदेनं द्यौरेवंविधमजनयदिति । तस्मादयमस्मद्दत्तान्यात्मीयानि हवींषि गृहीत्वा यजमाने रुचं दधात्विति शेषः ॥
 ꣡</details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,13 +152,13 @@ genre M
 Glorious: dṛśāno **rukmaḥ** = **rocamānaḥ**, an epithet of Agni; or **devatā**, a gold ornament ofthe neck, which at a particular time the **yajamāna** is to take off with this **mantra**; moving everywhere: āyuḥ =going everywhere; or, life: desiring an irreproachable life to give perpetually to people
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seen as a bright ornament, he has flashed forth widely, alight for beauty  through a lifetime hard to forget.  
 Agni became immortal through his vital powers, when Heaven of good  seed begat him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like gold to look on, far he shone refulgent, beaming imperishable life for glory,  
      Agni by vital powers became immortal when his prolific Father Dyaus begat him.
@@ -173,17 +173,17 @@ What time prolific Dyaus begat him.
 
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Goldschmuck aussehend ist er weithin erglänzt; in unvergeßlicher Lebenskraft zur Pracht erglänzend, ward Agni unsterblich an Kräften, als ihn der Himmel aus gutem Samen erzeugte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Gold zu schauen glänzt er in die Weite, zum Heile unvergänglich Leben strahlend, Durch Jugendkräfte ward unsterblich Agni, als ihn der samenreiche Himmel zeugte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выглядя как золотое украшение, он далеко засверкал,  
 Незабываемым образом даруя светом срок жизни для блеска.  

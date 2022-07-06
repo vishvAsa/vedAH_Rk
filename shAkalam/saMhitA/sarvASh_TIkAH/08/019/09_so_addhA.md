@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ अद्धा꣡ दाशु꣡अध्वरो  
 अ꣡ग्ने म꣡र्तः सुभग स꣡ प्रशं꣡सियः  
 स꣡ धीभि꣡र् अस्तु स꣡निता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 सः । धी॒भिः । अ॒स्तु॒ । सनि॑ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -101,7 +101,7 @@ genre M;; repeated line
 हे **अग्ने** यः **मर्तः** मनुष्यः **दाश्वध्वरः** दत्तयज्ञो भवति **सः** **अद्धा** । सत्यनामैतत् । सत्यफलो भवतु । हे **सुभग** शोभनधन अग्ने **सः** एव **प्रशंस्यः** प्रशंसनीयः श्लाघनीयश्च भवतु । तथा **सः** **धीभिः** कर्मभिः स्तोत्रैर्वा **सनिता** **अस्तु** संभजनशीलो भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,34 +112,34 @@ genre M;; repeated line
 May...reward: so **addhā** satyaphalaḥ sabhavatu: may he indeed be worthy of praise; giver of wealth: sanitā = effecter of his purposes
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who conducts pious ceremonies in the stipulated way, he is to  be lauded, o Agni, you who provide good fortune.  
 Let him be a winner with his insights—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Assuming (see EWA s.v.) that addhā́is cognate with Oldenberg Aves. / OP azdā, as ppl. to PIIr √*adh, Skt. √ah ‘speak’, I take this adv. to mean originally ‘in the announced / stipulated / well-known way’, which can then be bleached to ‘truly’ vel sim. But this passage allows the more literal meaning.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That man, moreover, merits praise who brings, auspicious Agni, sacrificial gifts  
      May he win riches by his thoughts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche ist in Wahrheit ein Opferspender, o holder Agni, der ist zu preisen, der soll mit seinen Dichtungen gewinnen,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mensch fürwahr, ist preisenswerth, o hochbeglückter Agni, welcher Opfer bringt, Der muss erlangen, was er wünscht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В самом деле, смертный, о Агни,  
 Почитает богов обрядом, о несущий счастье; он заслуживает хвалы.  

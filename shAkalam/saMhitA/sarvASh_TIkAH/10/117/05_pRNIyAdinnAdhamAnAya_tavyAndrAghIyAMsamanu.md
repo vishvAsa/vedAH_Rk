@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पृणीया꣡द् इ꣡न् ना꣡धमानाय त꣡व्यान्  
 द्रा꣡घीयांसम् अ꣡नु पश्येत प꣡न्थाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्य꣡म्-अन्यम् उ꣡प तिष्ठन्त रा꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ओ इति॑ । हि । वर्त॑न्ते । रथ्या॑ऽइव । च॒क्रा । अ॒न्यम्ऽअ॑न्यम् । उप॑ । ति॒ष्ठ॒न्त॒ । रायः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pṛṇīyād* ← *pṛṇīyāt* ← *pṛ*
 - \[verb\], singular, Present optative
@@ -129,7 +129,7 @@ popular
 धनवन्तं पुरुषं दाने प्रेरयति । **तव्यान्** तवीयान् धनैरतिशयेन प्रवृद्धः पुरुषः **नाधमानाय** याचमानायातिथये **पृणीयादित्** धनानि दद्यादेव ॥  ‘ पॄ पालनपूरणयोः ' । क्र्यादिः । प्वादीनां ह्रस्वः ॥ यदि दद्यात् **द्राघीयांसम्** । दीर्घशब्दादीयसुनि ' प्रियस्थिर ' इत्यादिना द्राघीत्यादेशः॥ दीर्घतमं **पन्थां** पन्थानं सुकृतमार्गम् **अनु** **पश्येत** अनुपश्येत् । व्यत्ययेनात्मनेपदम्। तत्र कारणमाह। **रायः** धनानि **ओ** **हि**। आ उ। आ **वर्तन्ते** एव खलु। एकत्र न तिष्ठन्तीत्यर्थः । तत्र दृष्टान्तः । **रथ्येव** यथा रथ्यानि ॥  ‘ रथाद्यत् ' ( पा. सू. ४. ३. १२१ ) इति तस्येदम्' इत्यर्थे यत् ॥ रथसंबन्धीनि **चक्रा** चक्राण्युपर्यधोभावेनावर्तन्ते तद्वदावृत्तिमेव दर्शयति । **अन्यमन्यं** पुरुषं धनानि **उप** **तिष्ठन्त** उपतिष्ठन्ते । समवेतानि भवन्ति । उपाद्देवपूजासंगतिकरण ' (का. १. ३. २५. १) इत्यात्मनेपदम् ॥ तस्माद्धनानि देयानीति भावः ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,35 +140,35 @@ popular
 A more protracted route: i.e., the road ofvirtue; let him look further along the path of life, and he will see riches deserting the rich and going to otherṣFortune is fickle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The stronger man should give to one in need. He should look along the  longer path,  
 for riches turn like chariot-wheels: they come up to one man after  
 another.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let the rich satisfy the poor implorer, and bend his eye upon a longer pathway.  
      Riches come now to one, now to another, and like the wheels of cars are ever rolling.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The wealthier man should give unto the needy, Considering the course of life hereafter; For riches are like chariot wheels revolving: Now to one man they come, now to another.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vermögendere soll dem Notleidenden schenken; er bedenke den gar langen Weg des Lebens, denn die Reichtümer rollen wie Wagenräder: sie kommen zu einem nach dem anderen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mittheilen soll der Reichere dem flehnden; er schaue hin auf seinen weitern Wandel; Denn Güter drehn sich wie des Wagens Räder, und fallen zu dem einen um den andern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть более сильный дарит нуждающемуся,  
 Пусть следит он (взором) за все удаляющимся путем (жизни).  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ ते भीमा꣡नि आ꣡युधा  
 तिग्मा꣡नि स꣡न्ति धू꣡र्वणे  
 र꣡क्षा समस्य नो निदः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 रक्ष॑ । स॒म॒स्य॒ । नः॒ । नि॒दः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
@@ -86,20 +86,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **ते** तव **या** यानि **भीमानि** शत्रूणां भयंकराणि **तिग्मानि** तीक्ष्णानि **आयुधा** आयुधानि **धूर्वणे** शत्रुवधार्थं **सन्ति** तैरायुधैः **समस्य** सर्वस्य शत्रोः **निदः** निन्दायाः **नः** अस्मान् **रक्ष** पालय ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With your weapons which are formidable and sharp for slaying (the foe), defend us from the scorn (of our enemies).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your fearful sharp weapons, which exist to injure,  
 (with them) guard us from the insult of anyone at all.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The nominal rel. cl. in ab has no resumptive prn. in the main cl. of c, though “with these/them” is clearly the intent.
 
@@ -116,23 +116,23 @@ The last tṛca continues the concentration on combat and victory.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those awful weapons that thou hast, sharpened at point to strike men down-  
      Guard us therewith from every foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die furchtbaren, scharfen Waffen, die du hast, um zu Fall zu bringen, mit denen schütze uns vor dem Tadel eines jeden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit deinen Waffen, welche scharf und furchtbar zum Verwunden sind, Beschütze uns vor jedem Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Страшное оружие, острое,  
 Которое есть у тебя, чтобы сражать,  

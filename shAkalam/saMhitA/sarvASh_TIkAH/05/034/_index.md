@@ -8,7 +8,7 @@ title = "+034"
 ‘ अजातशत्रुम्' इति नवर्चं द्वितीयं सूक्तं प्राजापत्यस्य संवरणस्यार्षमैन्द्रम् । नवमी त्रिष्टुप् शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । ‘ अजातशत्रु नव त्रिष्टुबन्तम्' इत्यनुक्रमणिका । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 34 (388)  
 Indra  
@@ -21,7 +21,7 @@ But the most curious feature of the hymn is verse 4, where Indra, depicted as  t
 The hymn ends with what appears to be a truncated dānastuti (vs. 9): the poet  praises his apparent patron Āgniveśi Śatri, but no gifts are mentioned.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 

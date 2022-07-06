@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनर्वा꣡णं वृषभ꣡म् मन्द्र꣡जिह्वम्  
 बृ꣡हस्प꣡तिं वर्धया न꣡व्यम् अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आशृण्व꣡न्ति न꣡वमानस्य म꣡र्ताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 गा॒था॒न्यः॑ । सु॒ऽरुचः॑ । यस्य॑ । दे॒वाः । आ॒ऽशृ॒ण्वन्ति॑ । नव॑मानस्य । मर्ताः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anarvāṇaṃ* ← *anarvāṇam* ← *anarvan*
 - \[noun\], accusative, singular, masculine
@@ -106,7 +106,7 @@ genre M
 हे होतः **नव्यं** नवतरं स्तुत्यं वा तम् **अनर्वाणम्** अगन्तारम् । स्तोतुरधीनमित्यर्थः । **वृषभम्** अपां  फलानां वर्षितारं **मन्द्रजिह्वं** मादकवाचं **बृहस्पतिं** मन्त्रस्य पालयितारमेतन्नामकं देवम् **अर्कैः** अर्चनसाधनैर्मन्त्रैः **वर्धय** प्रवृद्धं कुरु । **सुरुचः** शोभनदीप्तेः **नवमानस्य** स्तूयमानस्य ॥ कर्मणि कर्तृप्रत्ययः ॥ **यस्य** बृहस्पतेः ॥ कर्मणि षष्ठ्यः ॥ रोचमानं स्तूयमानं **गाथान्यः** । गाथेति वाङ्नाम । स्तुतिवचसो नेतारः **देवाः** व्यवहर्तारः **मर्ताः** मनुष्याः होत्रादयः । यद्वा । नवमानस्य स्तुवानस्य यजमानस्य संबन्धिनस्ते । **आशृण्वन्ति** आश्रावयन्ति पुरा तं बृहस्पतिं वर्धय । अत्र ‘अनर्वाणमप्रत्यृतमन्यस्मिन् ' (निरु. ६. २३ ) इत्यादि निरुक्तं द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,34 +117,34 @@ genre M
 Bṛhaspati is here defined as mantrasya pālayitāram, the protector of cherisher of the prayer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With chants I will strengthen anew the unassailable bull of gladdening  tongue, Br̥haspati,  
 the brightly shining leader of song to whom the gods and the mortals  harken as he bellows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The main cl. verb vardhayā is entirely ambiguous between 2nd sg. imperative and 1st sg. subjunctive. With Renou and Schmidt (Bṛhaspati und Indra) I opt for the 1st sg. subj., while Grassmann, Geldner, and Witzel Gotō take it as 2nd sg. impv. There are no implications either way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GLORIFY thou Brhaspati, the scatheless, who must be praised with hymns, sweet-tongued and mighty,  
      To whom as leader of the song, resplendent, worthy of lauds, both Gods and mortals listen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den unerreichbaren Bullen mit der wohllautenden Zunge, den Brihaspati erbaue aufs neue mit Preisliedern, den glänzenden Gesangesleiter, auf den Götter und Sterbliche hinhören, wenn er seine Stimme erhebt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den unnahbaren Mann, der lieblich redet, Brihaspati erhebe neu mit Liedern, Den leuchtenden, dem, wenn Gesang er leitet und singt, die Götter und die Menschen lauschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Неодолимого быка, сладкозвучного  
 Брихаспати я хочу снова подкрепить гимнами,  

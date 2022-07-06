@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा मन्ये बृह꣡द् असुर्य᳡म् अस्य  
 या꣡नि दाधा꣡र न꣡किर् आ꣡ मिनाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ स꣡द्मानि उर्विया꣡ सुक्र꣡तुर् धात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 दि॒वेऽदि॑वे । सूर्यः॑ । द॒र्श॒तः । भू॒त् । वि । सद्मा॑नि । उ॒र्वि॒या । सु॒ऽक्रतुः॑ । धा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 **अध** अधुना **अस्य** इन्द्रस्य **बृहत्** महत् **असुर्यम्** असुरहननकुशलं बलं **मन्ये** स्तौमि। मन्यतिः स्तुतिकर्मा । स चेन्द्रः **यानि** कर्माणि **दाधार** धारयति तानि **नकिः** **आ** **मिनाति** न कश्चिदपि हिनस्ति । कानि पुनस्तानि । उच्यते । **दिवेदिवे** प्रतिदिनं वृत्रेणावृतः **सूर्यो** **दर्शतः** दर्शनीयः **भूत्** भवति । आवरकस्यासुरस्य वधेन सूर्यं प्रकाशितवानित्येकं कर्म । **सुक्रतुः** शोभनकर्मा स इन्द्रः 'सद्मानि भुवनानि **उर्विया** उरूणि विस्तीर्णानि **वि** **धात्** व्यधात् अकार्षीत् । इदमपरं कर्म। एतदादीनि बहूनि कर्माणि कृतवानित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 The sun was made visible: an allusion to **Indra** breaking asunder the clouds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Therefore I think his lordly power to be lofty. Those things that he  upholds, no one alters.  
 Day after day the sun becomes visible. The strong-willed one distributed  the seats widely.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, mighty I esteem his Godlike nature: none hindereth what he hath once determined.  
      Near and afar he spread and set the regions, and every day the Sun became apparent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darum meine ich: Seine Asuramacht ist groß. Was er bestimmt hat, das vereitelt keiner. Tag für Tag wird die Sonne sichtbar. Der Wohlverständige hat die Wohnsitze weit hin verteilt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum halte ich für gross sein göttlich Wesen, was er gegründet, niemand kann's verderben; An jedem Tage ward die Sonne sichtbar; schön wirkend theilte weit er aus die Sitze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэтому я считаю: велика его асурская сила,  
 Что он определил, никто не помешает этому.  

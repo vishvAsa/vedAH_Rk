@@ -6,7 +6,7 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आभि꣡ष् टे अद्य꣡  
 गीर्भि꣡र् गृण꣡न्तो  
@@ -14,7 +14,7 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 प्र꣡ ते दिवो꣡ न꣡ स्तनयन्ति शु꣡ष्माः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 प्र । ते॒ । दि॒वः । न । स्त॒न॒य॒न्ति॒ । शुष्माः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ābhiṣ* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
@@ -96,41 +96,41 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **अद्य** अस्मिन् दिवसे हे **अग्ने** **आभिः** गीर्भिः स्तुतिरूपाभिर्वाग्भिः **गृणन्तः** त्वां स्तुवन्तो वयमृत्विगादयः **ते** तुभ्यं **दाशेम** हवींषि दद्याम'। **दिवो** **न** सूर्यस्य रश्मय इव **ते** त्वदीयाः **शुष्माः** शोधका ज्वालाः **प्र** **स्तनयन्ति** प्रकर्षेण शब्दायन्ते । यद्वा । दिवो न मेघा इव त्वदीया ज्वालाः शब्दायन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorifying you, **Agni**, today, with these our praises, may we offer you (oblations); your (flames), bright as those of the sun, roar aloud.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Singing with these songs, we would do pious service for you today,  o Agni.  
 Your gusts thunder forth like (those) of heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now may we serve thee singing these lauds this day to thee, Agni.  
      Loud as the voice of Heaven thy blasts are roaring.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May we to-day worship thee, O Agni, praising thee with these songs. Thy roarings thunder like (the thunder) of Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit diesen Lobesworten preisend wollen wir dich heute beschenken, o Agni. Deine Wutausbrüche donnern wie die des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesen Liedern – dir singend heute – sind wir zu Dienst dir; Dein Rauschen tönt wie Himmelsdonner, Agni
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этими хвалебными песнями  
 Воспевая тебя сегодня,  

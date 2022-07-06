@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञा꣡-यज्ञा वो अग्न꣡ये  
 गिरा꣡-गिरा च द꣡क्षसे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 प्रिय꣡म् मित्रं꣡ न꣡ शंसिषम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्रऽप्र॑ । व॒यम् । अ॒मृत॑म् । जा॒तऽवे॑दसम् । प्रि॒यम् । मि॒त्रम् । न । शं॒सि॒ष॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñā* ← *yajña*
 - \[noun\], instrumental, singular, masculine
@@ -115,19 +115,19 @@ genre M
 हे स्तोतार: **वः** यूयं **यज्ञायज्ञा** यज्ञेयज्ञे सर्वेषु यागेषु **दक्षसे** प्रवृद्धाय **अग्नये** **गिरागिरा** स्तुतिरूपया वाचावाचा स्तोत्रं कुरुतेति शेषः । चशब्दो भिन्नक्रमो व इत्यस्मात् परो द्रष्टव्यः । यूयं च स्तोत्रं कुरुत । **वयम्** अपि तमग्निं **प्र** **शंसिषम्** ॥ ‘ प्रसमुपोद: पादपूरणे' इति प्रशब्दस्य द्विरुक्तिः पादपूरणार्था । व्यत्ययेनैकवचनम् । छान्दसो लुङ् ॥ प्रशंसाम । कीदृशम् । **अमृतं** मरणरहितं **जातवेदसं** जातानां वेदितारं जातप्रज्ञं जातधनं वा **मित्रं** **न** सखिभूतमिव **प्रियम्** अनुकूलम् ॥ यद्वा । व्यत्ययेन त्वमित्यस्य वसादेशः । अग्नये इति च कर्मणि चतुर्थी । क्रियाग्रहणमपि कर्तव्यमिति कर्मणः संप्रदानत्वात् । चशब्दः ‘चण्' इति निपातश्चेदर्थे वर्तते । दक्षसे इति च दक्षेर्वृद्धिकर्मणोऽन्तर्भावितण्यर्थात् लटि रूपम् । चणा योगात् ' निपातैर्यद्यदिहन्त' इति निघातप्रतिषेधः ॥ तत्रायमर्थः । हे स्तोतस्त्वं यज्ञेयज्ञे इममग्निं गिरागिरा स्तुत्या दक्षसे च वर्धयसि चेत् वयमपि अमृतत्वादिगुणकं तं प्रशंसाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “At every sacrifice (honour) the mighty **Agni** with your reiterated praise, while we glorify him, the immortal, who knows all things, our dear friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your every sacrifice to Agni, and with your every hymn to his skill, we—that is, I—have proclaimed time after time the immortal Jātavedas,  dear like an ally.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the two pādas of the first hemistich as entirely parallel, with an instr.
 
@@ -136,23 +136,23 @@ I take the two pādas of the first hemistich as entirely parallel, with an instr
 The 2nd hemistich has disharmony of number between the expressed subject, pl. vayám, and the 1st sg. verb śaṃsiṣam, a rare but not unheard-of phenomenon. Here we can link it to the āmreḍitas that dominate the vs., esp. the doubled preverb prápra, in tmesis from the finite śaṃsiṣaṃ. Perhaps this serves as a sort of individuating feature: “I after I …,” that is, “we.” This cannot be conveyed in Engl., though I admit that the published translation “we — that is, I —” is itself barely English.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING to your Agni with each song, at every sacrifice, for strength.  
      Come, let us praise the Wise and Everlasting God, even as a well-beloved Friend,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit jedem Opfer von euch und mit jedem Loblied wollen wir es dem Agni zu Dank machen. Wir wollen den unsterblichen Jatavedas, der lieb wie ein Freund, preisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit jedem Opfer, jedem Lied will eurem Agni dienen ich; Auf, lasst den ew'gen Wesenkenner preisen uns, als lieben Freund besing' ich ihn,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Каждой жертвой и каждой песней  
 (Мы хотим) угодить для вас (богу) Агни.  

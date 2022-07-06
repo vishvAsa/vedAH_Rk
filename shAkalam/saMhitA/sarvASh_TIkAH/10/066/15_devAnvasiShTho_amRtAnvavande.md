@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡न् व꣡सिष्ठो अमृ꣡तान् ववन्दे  
 ये꣡ वि꣡श्वा भु꣡वना अभि꣡ प्रतस्थुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ते । नः॒ । रा॒स॒न्ता॒म् । उ॒रु॒ऽगा॒यम् । अ॒द्य । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
@@ -121,14 +121,14 @@ genre M;; repeated line
 वसिष्ठो वसिष्ठकुलजोऽयमृषिरमृतन्मरणरहितान्देवान्ववन्दे। एवमस्तावीत्। ये देवा विश्वा विश्वानि भुवनानि लोकानभि प्रतस्थुः स्वतेजसाभिभवन्ति। अभितः प्रतिष्ठन्तीति वा। प्रपूर्वात्तिष्ठतेर्लिटि रूपम्। समासस्वरः। ते देवा अद्यास्मिन्दिने नोऽस्मभ्यमुरुगायं प्रभूतयशस्कमन्नं रासन्ताम् । प्रयच्छन्तु। हे देवाः यूयम् स्वस्तिभि कल्याणीभिरूतिभिर्नोऽस्मान्सदा सर्वदा पात। रक्षत॥१५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Descendant of) **Vasiṣṭha**, I have glorified the immortal gods who preside over all the worlds; maythey this day bestow upon us widely-famed food; do you always cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vasiṣṭha has extolled the immortal gods, who stand out over all living  beings.  
 Let them grant us wide-ranging space today. – Do you protect us  
@@ -136,23 +136,23 @@ always with your blessings.
 The two hymns of Ayāsya Āṅgirasa (67–68) are particularly noteworthy treatments  of Br̥haspati and the Vala myth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Immortal Gods have I, Vasistha, lauded, Gods set on high above all other beings.  
      May they this day grant us wide space and freedom: ye Gods, preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die unsterblichen Götter hat Vasistha gelobt, die sich über alle Welten erhoben haben. Die sollen uns heute weite Bahn gewähren! - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ew'gen Götter hat gerühmt Vasischtha, die alle Wesen weithin überragen, Sie mögen heut uns freie Bahn gewähren. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

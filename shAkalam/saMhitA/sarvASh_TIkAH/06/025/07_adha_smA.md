@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध स्मा ते चर्षण꣡यो य꣡द् ए꣡जान्  
 इ꣡न्द्र त्राता꣡ उत꣡ भवा वरूता꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र सूर꣡यो दधिरे꣡ पुरो꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒स्माका॑सः । ये । नृऽत॑मासः । अ॒र्यः । इन्द्र॑ । सू॒रयः॑ । द॒धि॒रे । पु॒रः । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -124,36 +124,36 @@ genre M
 **अध** **स्म** अपि च हे **इन्द्र** **ते** त्वदीयाः **चर्षणयः** पुरुषाः **यत्** यदा **एजान्** एजेयुः भीत्या कम्पेयुः त्वं तेषां **त्राता** पालकः **भव**। **उत** अपि च **वरूता** संभक्ता भव । **अस्माकासः** अस्मदीयाः **नृतमासः** नेतृतमाः **ये** मनुष्या हे इन्द्र त्वाम् **अर्यः** अरयः । प्रापयितार इत्यर्थः । तेषां त्राता भव । हे **इन्द्र** **सूरयः** ये स्तोतारः **नः** अस्मान् **पुरः** **दधिरे** पुरश्चक्रिरे । तेषां च त्राता भवेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Therefore, **Indra**, when your people tremble (with fear), protect them; be to them a defender; may those who are our chief leaders be enjoyers (of your favour), as well as those (your) worshippers who have plural ced us foremost (to perform the sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So then, when your separate peoples will stir, Indra, become the rescuer  and defender (of those,)  
 our most manly patrons, who have set us ahead of the stranger, o Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And when the people stir themselves for battle, be thou their saviour, Indra, and protector,  
      And theirs, thy manliest of our friends, the pious, the chiefs who have installed us priests, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann, wenn sich deine Völker in Bewegung setzen werden, o Indra, sei Schützer und Schirmer unserer mannhaftesten hohen Herren, die als Patrone uns an die Spitze gestellt haben, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn nun sich deine Menschenstämme regen, so sei, o Indra, Helfer und Beschirmer Für unsre treuen Fürsten, die sehr starken, die uns, o Indra, an die Spitze stellten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И тогда, когда твои народы придут в движение,  
 О Индра, будь спасителем и защитником  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् व꣡न्दनम् ऐरतं दंस꣡नाभिर्  
 उ꣡द् रेभं꣡ दस्रा वृषणा श꣡चीभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡नश् च्य꣡वानं चक्रथुर् यु꣡वानम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 निः । तौ॒ग्र्यम् । पा॒र॒य॒थः॒ । स॒मु॒द्रात् । पुन॒रिति॑ । च्यवा॑नम् । च॒क्र॒थुः॒ । युवा॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -117,36 +117,36 @@ genre M
 हे अश्विनौ **वन्दनम्** एतत्संज्ञमृर्षि **दंसनाभिः** आत्मीयैः कर्मभिः कूपात् **उत्** **ऐरतम्** उदैरयतम् उदगमयतम् । हे **दस्रा** दर्शनीयौ **वृषणा** कामानां वर्षितारावश्विनौ **शचीभिः** कर्मभिः रेभम् एतत्संज्ञम् ऋषिं दश रात्रीः नवाहानि च कूपे निवसन्तं तस्मात् उदैरयतम् उदतारयतम् । तथा **तौग्र्यं**  तुग्रस्य पुत्रं भुज्युं समुद्रे निमग्नम् आत्मीयाभिः नौभिः अश्वैश्च **समुद्रात्** **निः** **पारयथः** तीरदेशं प्रापितवन्तौ । तथा **च्यवानं** च्यवनमृषिं जीर्णं **पुनः** **युवानं** यौवनोपेतं **चक्रथुः** कृतवन्तौ ॥ ऐरतम् । ‘ईर गतौ कम्पने च । ण्यन्तात् लङि ‘छन्दस्युभयथा ' इति शप आर्धधातुकत्वात् ‘णेरनिटि ' इति णिलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By your deeds, **Dasras**, you raised up **Vandanā**, and, showerers (of benefits), Rebha; you bore the son of **Tugra** over the sea, and made **Cyavana** young.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You raised up Vandana through your wondrous powers; o wondrous  bulls, (you raised) up Rebha by your powers.  
 You rescue the son of Tugra from the ocean, and you made Cyavāna  youthful again.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye raised up Vandana, strong Wonder-Workers! with great might, and with power ye rescued Rebha.  
      From out the sea ye saved the son of Tugra, and gave his youth again unto Cyavana.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Vandana holtet ihr mit Meisterkunst, den Rebha mit Geschick heraus, ihr Meister, ihr Bullen. Den Tugrasohn errettet ihr aus dem Meer, den Cyavana habt ihr wieder jung gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr hobt heraus den Vandana durch Wunder, mit Kraft den Rebha, wunderbare Helden! Den Sohn des Tugra fuhrt ihr aus dem Meere und gabt die Jugend dem Tschjavana wieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы выручили Вандану (своими) чудесными силами,  
 Вы(ручили) Ребху, о два удивительных быка, проявлениями могущества.  

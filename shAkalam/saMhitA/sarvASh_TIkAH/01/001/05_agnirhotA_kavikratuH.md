@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् हो꣡ता कवि꣡क्रतुः  
 सत्य꣡श् चित्र꣡श्रवस्तमः  
 देवो꣡ देवे꣡भिर् आ꣡ गमत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दे॒वः । दे॒वेभिः॑ । आ । ग॒म॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 लोडन्तस्य गच्छतु इति शब्दस्य छत्वाभावः। उकारलोपश्छान्दसः। ततो रूपं गमत् इति भवति । स्पष्टमन्यत् ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,39 +99,39 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Kavi**-**kratu**: one by whom either knowledge or religious acts (kratu) are acquired or performed (**krānta**); a synonym of Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the Hotar with a poet’s purpose, the real one possessing the  brightest fame,  
 will come as a god with the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Agni, sapient-minded Priest, truthful, most gloriously great,  
    The God, come hither with the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May Agni the thoughtful Hotri, he who is true and most splendidly renowned, may the god come hither with the gods.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May Agni, the invoker, wise And true, of most resplendent fame, The god, come hither with the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der wahre Hotri mit Sehersinn und am meisten ruhmglänzend, der Gott soll mit den Göttern herkommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise, weitberühmteste, wahrhafte Priester Agni komm, Der Gott nun mit den Göttern her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни-хотар с прозорливостью поэта,  
 Истинный, с ярчайшей славой, –  

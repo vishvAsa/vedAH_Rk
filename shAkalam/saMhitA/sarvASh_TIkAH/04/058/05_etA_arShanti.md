@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ अर्षन्ति हृ꣡दियात् समुद्रा꣡च्  
 छत꣡व्रजा रिपु꣡णा ना꣡वच꣡क्षे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हिरण्य꣡यो वेतसो꣡ म꣡ध्य आसाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 घृ॒तस्य॑ । धाराः॑ । अ॒भि । चा॒क॒शी॒मि॒ । हि॒र॒ण्ययः॑ । वे॒त॒सः । मध्ये॑ । आ॒सा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etāḥ* ← *etad*
 - \[noun\], nominative, plural, feminine
@@ -111,7 +111,7 @@ genre D
 **एताः** आपो घृतधारा वा **अर्षन्ति** अधः पतन्ति। **शतव्रजाः** अपरिमितगतयः सत्यः **हृद्यात्** हृदयङ्गमात् **समुद्रात्** अन्तरिक्षात् रिपुणा जलमोकप्रतिबन्धकारिणा शत्रुणा वृत्रेण **नावचक्षे** न अवदर्शनाय यथादृष्टं भवति तथा अर्षन्ति । ताः **घृतस्य** **धारा** **अभि** **चाकशीमि** अभिपश्यामि । कुत्रेति तदुच्यते **हिरण्ययः** हिरण्मयः **वेतसः** अप्संभवोऽग्निर्वैद्युतः **आसाम्** अपां **मध्ये** वर्तत इति शेषः । अत्र घृतस्य धारा अभि चाकशीमीत्यनेन चरमपादेन होमाधारोऽग्निर्वैद्युतोऽग्निरादित्यो वोक्तः ॥ ॥१०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre D
 Vetasa = **Agni**, either as lightning or the sun; or the fire of sacrifice; another interpretation: etā arṣanti, **vācā** udgacchanti, these words originate from the ocean of the water of faith, purified by the metres and other supplementary portions of the **Vedas**, amidst which words the ṛṣis see the golden form of Agni, for Agni is the deity presiding over speech, or holy texts, agnir hi vacām **adhiṣṭhātri** **devatā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These (streams) rush from the sea found in the heart. Having a hundred  barriers, they are not to be spotted by the cheat,  
 but I keep gazing upon the streams of ghee. A golden reed is in  their midst.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “My” ability to see the ghee streams indirectly attests to my good character, since the cheat cannot see them.
 
@@ -145,23 +145,23 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From inmost reservoir in countless channels flow down these rivers which the foe beholds not.  
      I look upon the streams of oil descending, and lo! the Golden Reed is there among them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Ströme des Ghrita fließen aus dem Meer im Herzen, durch hundert Gehege geschützt, vom Schelm nicht zu erblicken. Ich sehe die Ströme des Ghrita. Das goldene Rohr, die Rute, ist in ihrer Mitte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es triefen diese aus dem lieben Luftmeer in hundert Scharen, nicht dem Feinde sichtbar, Der Butter Ströme blick' ich an mit Staunen; in ihrer Mitte steht der goldne Rohrstab.*)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти (потоки жира) текут из сердца-океана,  
 Окруженные сотней оград. Они не для того, чтобы их разглядел обманщик.  

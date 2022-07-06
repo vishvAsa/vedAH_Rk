@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवो꣡र् इत्था꣡ वां छर्दि꣡षो अभि꣡ष्टौ  
 युवो꣡र् मित्रावरुणाव् अ꣡स्कृधोयु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धृष्णुं꣡ य꣡द् र꣡णे वृ꣡षणं युन꣡जन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अनु॑ । यत् । गावः॑ । स्फु॒रान् । ऋ॒जि॒प्यम् । धृ॒ष्णुम् । यत् । रणे॑ । वृष॑णम् । यु॒नज॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avor* ← *\_* ← *√\_*
 - \[?\]
@@ -117,7 +117,7 @@ genre M
 हे  **मित्रावरुणौ** **अवोः** अवतोः **वां** युवयोः **अभिष्टौ** अभिगमने **छर्दिषः** गृहाय सुखाथ वा । चतुर्थ्यर्थे षष्ठी । युवामभिगतेषु स्तोतृषु **युवोः** युवयोः संबन्धि युवाभ्यां देयं तद्गृहादिकम् **अस्कृधोयु** अविच्छिन्नं भवति । तथा च यास्कः- ‘ अस्कृधोयुरकृध्वायुः । कृध्विति ह्रस्वनाम निकृत्तं भवति ' (निरु. ६. ३ ) इति । **इत्था** सत्यमेव । कदा मित्रावरुणयोरभिगमनमित्यत आह । **यत्** यदा **गावः** स्तुतयः **अनु** **स्फुरान्** अनुस्फुरेयुः। यदा च **ऋजिप्यम्** ऋजुगामिनं **धृष्णुं** शत्रूणां धर्षकं **वृषणं** कामानां वर्षितारं सोमं **रणे** रमणे यज्ञे **युनजन्** यजमाना युञ्ज्युः ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,13 +130,13 @@ Your bounty: yuvor askṛdhoyu: yuvābhyām deyam gṛhādikam avicchinnam **bha
 Askṛdhoyu = long-lived, akṛdhvāyuḥ kṛdhu meaning short, or nikṛttam, cut off; there is also association with **ajara** as in: yo askṛdhoyur **ajaraḥ** svarvān, who is long-lived, free from decay, an occupant of heaven (askṛdhoyurakṛdhvāyuḥ kṛdhviti hasvanāma nikṛttam bhavati: **Nirukta** 6.3)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way, in the charge of you two and of your shelter, (we seek)  of you, Mitra and Varuṇa, (giving) that is not stunted,  
 when the cows [=milk mixture] will bound after the straight-flying one  [=soma], when they will yoke the bold bull [=soma] in battle-lust.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich lacks a verb, but something like ‘we seek’ is a reasonable bet, to govern áskṛdhoyu ‘not stunted’, which elsewhere modifies ‘wealth’ (VI.22.3) and ‘treasure-conferral’ (VII.53.3), hence my ‘giving’.
 
@@ -151,23 +151,23 @@ As noted in the published introduction, these vss. seem to concern themselves wi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Mitra-Varuna, may your large bounty come to us hither, near to this our dwelling,  
      When the kine haste to us, and when they harness the fleet-foot mettled stallion for the battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter der Obhut des Schirmes von euch beiden gnädigen Herren wollen wir euren ungeschmälerten Lohn erhalten, Mitra und Varuna, wenn die Rindersehnen den schnellfliegenden Pfeil schnellen, wenn sie im Kampfe den mutigen Bullen anschirren werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fürwahr bei euch in eures Schutzes Obhut ist reiches Gut, o Varuna und Mitra, Wenn Tränke noch den eilenden beschleun'gen, den kühnen Helden zu dem Kampf erregen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В самом деле, под покровом вашей защиты,  
 (Исходящей) от вас двоих, о Митра-Варуна, (мы хотим получить) нескупой (дар),  

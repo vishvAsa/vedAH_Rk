@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मनुष्व꣡द् अग्ने अङ्गिरस्व꣡द् अङ्गिरो  
 ययातिव꣡त् स꣡दने पूर्वव꣡च् छुचे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ सादय बर्हि꣡षि य꣡क्षि च प्रिय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अच्छ॑ । या॒हि॒ । आ । व॒ह॒ । दैव्य॑म् । जन॑म् । आ । सा॒द॒य॒ । ब॒र्हिषि॑ । यक्षि॑ । च॒ । प्रि॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *manuṣvad* ← *manuṣvat*
 - \[adverb\]
@@ -131,41 +131,41 @@ genre M
 हे **शुचे** शुद्धियुक्त **अङ्गिरः** अङ्गनशील हविरादानाय तत्र तत्र गमनशील **अग्ने** **अच्छ** आभिमुख्येन **सदने** देवयजनदेशे **याहि** गच्छ । तत्र चत्वारो दृष्टान्ताः । **मनुष्वत्** यथा मनुः अनुष्ठानदेशे गच्छति, **अङ्गिरस्वत्** यथा च अङ्गिराः गच्छति, **ययातिवत्** यथा ययातिर्नाम राजा गच्छति, **पूर्ववत्** अन्ये च पूर्वपुरुषाः यथा गच्छन्ति । यथा मन्वादयो यज्ञे गच्छन्ति तद्वत् । अथवा मन्वादीनां यज्ञे यथा त्वं गच्छसि तद्वत् । गत्वा च **दैव्यं** देवतासमूहरूपं **जनम्** **आ** **वह** अस्मिन् कर्मणि आनय । आनीय च **बर्हिषि** आस्तीर्णे दर्भे **आ** **सादय** तान् देवान् उपवेशय । उपवेश्य च **प्रियम्** अभीष्टं हविः **यक्षि** च देहि ॥ मनुष्वत् । तेन तुल्यम्° ' इति प्रथमार्थे वा ‘तत्र तस्येव ' इति षष्ठ्यर्थे वा वतिः ( पा. सू. ५. १. ११५-११६ ) । अयस्मयादित्वेन भत्वात् रुत्वाद्यभावः । प्रत्ययस्वरः । एवम् अङ्गिरस्वत् इत्यादिषु । वह । ‘द्व्यचोऽतस्तिङः' इति संहितायां दीर्घः । यक्षि । लोटि • बहुलं छन्दसि ' इति शपो लुक् । सेर्ह्यपिच्च ' इति हेः अभावश्छान्दसः । षत्वकत्वे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pure **Agni**, who goes about (to receive oblations), go in your presence to the halll of sacrifice, as did **Manu**, and **Aṅgiras**, and **Yayāti**, and others of old; bring hither the divine person **nages**, seat them on the sacred grass, and offer them grateful (sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As (you did) for Manu, o Agni, as for Aṅgiras, o Aṅgiras, as for Yayāti,  as (you did) earlier, o flame,  
 drive here to your seat; convey hither the heavenly folk; make them sit  on the ritual grass and, you, perform sacrifice to the beloved.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As erst to Manus, to Yayati, Angiras, so Angiras! pure Agni! come thou to our hall  
      Bring hither the celestial host and seat them here upon the sacred grass, and offer what they love.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As thou didst for Manus, O Agni, for Angiras, O Angiras, for Yayâti on thy (priestly) seat, as for the ancients, O brilliant one, come hither, conduct hither the host of the gods, seat them on the sacrificial grass, and sacrifice to the beloved (host).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie bei Manu, o Agni, wie bei Angiras, du Angiras, wie bei Yayati, wie früher an deinem Sitze, du Reiner- komm herbei, fahre das göttliche Volk her, laß es sich auf das Barhis setzen und opfere dem lieben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie früher einst bei Manus, wie bei Angiras, Jajati, nah dich, Agni, Bote, unserm Sitz, O reiner, fahre her das göttliche Geschlecht, setz auf die Streu das liebe und verehre es.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как у Ману, о Агни, как у Ангираса, о Ангирас,  
 Как у Яяти, как прежде, на свое место, о чистый, –  

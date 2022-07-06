@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ यज्ञ꣡म् आ꣡ शु꣡चिभिश् चक्रमाणा꣡  
 र꣡थस्य भानुं꣡ रुरुचू र꣡जोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपो꣡ ध꣡न्वानि अ꣡ति याथो अ꣡ज्रान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पु॒रु । वरां॑सि । अमि॑ता । मिमा॑ना । अ॒पः । धन्वा॑नि । अति॑ । या॒थः॒ । अज्रा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -118,20 +118,20 @@ genre M
 किंच **ता** तौ प्रसिद्धावश्विनौ **यज्ञम्** अस्मदीयं यागम् **आ** **चक्रमाणा** अभिचक्रमाणौ **शुचिभिः** निर्मलैः **रजोभिः** स्वीयैस्तेजोभिः। ‘रजो रजतेर्ज्योती रज उच्यते' (निरु. ४. १९) इति यास्केनोक्तत्वात् । **रथस्य** स्वकीयस्य रथस्य **भानुं** दीप्तिं **रुरुचुः** रोचयेते । अपि च **पुरु** बहूनि **वरांसि** तमोनिवारकाणि तेजांसि **अमिता** अपरिमितानि **मिमाना** निर्मिमाणौ **अपः** उद्दिश्य **धन्वानि** मरुप्रदेशान् **अज्रान्** स्वकीयानश्वान् **अति** **याथः** अतिक्रामयथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Coming to the sacrifice with their bright splendours, they light up the lustre of (their) car; emitting vast and infinite radiance; they drive their horses over deserts (refreshing them) with water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While striding to the sacrifice with their gleaming (horses). (The horses)  have shone the radiant beam of their chariot through the dusky  spaces.  
 Measuring the many immeasurable expanses, you two drive over the  waters, wastelands, and fields,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents both number and person disagreement, the first more acute than the second. As noted above, the vs. begins with the dual NA prn. tā́, surely referring to the Aśvins, and this 1st pāda ends with an apparent dual part. cakramāṇā́ presumably modifying the prn. But the next pāda contains a plural verb rurucuḥ (rurucū in sandhi), which cannot take the dual as subject -- nor as object. (Because of its sandhi position cakramāṇā́could instead reflect underlying pl. -ā́ḥ, but the initial tā́seems almost designed to anchor the participle as dual as well.) Curiously both Geldner and Kümmel (431) tr. the dual NP as subj. of the pl. verb without comment -- either because of a rare grammatical lapse on their parts or because they view it (without comment) as an example of improper agreement. (It is certainly true that a dual
 
@@ -145,23 +145,23 @@ The ps. disagreement is, by contrast, very mild and standard RVic practice: the 
 Note c purū́várāṃsi, a rhyme form to urū́várāṃsi ending 1d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Moving to sacrifice through realms of lustre they light the radiance of the car that bears them.  
      Traversing many wide unmeasured spaces, over the wastes ye pass, and fields, and waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Opfer kommend durch die reinen Lüfte ließen sie den Glanz ihres Wagens leuchten. Viele unermeßliche Räume durchmessend fahret ihr über Gewässer, Wüsten, Ebenen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Opfer eilend mit den lichten Rossen durchdrangen mit des Wagens Glanz die Luft sie; Viel unermessne weite Räum' ermessend geht ihr durch Wasser, trockne Lande, Triften.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приближаясь к жертвоприношению на сверкающих (конях),  
 Они обычно зажигают блеск (своей) колесницы, (проезжая) через (воздушные) пространства,  

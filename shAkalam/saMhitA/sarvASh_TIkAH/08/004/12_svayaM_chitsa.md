@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वयं꣡ चित् स꣡ मन्यते दा꣡शुरिर् ज꣡नो  
 य꣡त्रा सो꣡मस्य तृम्प꣡सि  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 त꣡स्ये꣡हि प्र꣡ द्रवा पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इ॒दम् । ते॒ । अन्न॑म् । युज्य॑म् । सम्ऽउ॑क्षितम् । तस्य॑ । आ । इ॒हि॒ । प्र । द्र॒व॒ । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svayaṃ* ← *svayam*
 - \[adverb\]
@@ -123,42 +123,42 @@ genre M
 **दाशुरिः** दाश्वान् । दाशतेरौणादिक उरिन् । हविषां दाता **सः** यजमानलक्षणो **जनः** स्वयं **चित्** स्वयमेव आत्मनैव **मन्यते** सर्वं जानाति । परायत्तप्रज्ञो न भवतीत्यर्थः । **अत्र** यस्मिन् जने **सोमस्य** पानेन हे इन्द्र त्वं **तृम्पसि** तृप्यसि । तृप तृम्प तृप्तौ । तौदादिकः । ‘ शे तृम्पादीनाम् ' (पा. सू. ७. १. ५९.१ ) इति नुम् । **ते** त्वदीयं **युज्यं** योग्यम् **इदम्** अस्मदीयं सोमलक्षणम् **अन्नं** **समुक्षितं** सम्यक् पात्रेष्वासिक्तम् । उक्ष सेचने '। कर्मणि निष्ठा। ‘ गतिरनन्तरः ' इति गर्तेः प्रकृतिस्वरत्वम् । अतस्तं तादृशं सोमम् **एहि** अभिगच्छ । **प्र** **द्रव** शीघ्रं प्राप्नुहि । तदनन्तरं **पिब** पानं कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The man who is the donor (of the oblation), he with (the gift of whose) libation you are satisfied,possesses of himself understanding; this your appropriate food is ready; come, hasten, drink of it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even he himself considers himself a pious man at whose place you  become sated on soma.  
 Here is your food, ready for yoking, fully sprinkled: of it—come!  
 run!—drink.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The last pāda echoes 8d, with the same three abrupt imperatives in the same order: éhi (prá) dravā píba, but in 12d the initial tásya needs to be construed with the final imperative píba. On this as a quasi-serial-verb construction, see Yates 2014 [UCLA conf. vol.]. On the sandhi of tásya + éhi as tásyéhi (not *tásyaíhi), see Oldenberg ad loc. and ad I.9.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The man with whom thou fillcst thee with Soma deems himself a pious worshipper.  
      This thine appropriate food is here poured out for thee: come, hasten forward. drink of it,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch selbst hält sich der Mann für einen Spendierer, bei dem du dich am Soma labest. Dies ist die dir zukommende Speise, die mit Wasser begossene: von dieser trink, komm her, beeile dich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mann erscheint sich selber auch als frommgesinnt, bei dem, am Soma, du dich labst; Hier ist die Speise, die du liebst, ergossen dir, o komme, laufe, trink davon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И сам тот человек считает себя почитателем,  
 У которого ты насыщаешься сомой.  

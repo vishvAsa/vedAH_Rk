@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्र या꣡वतस् तुव꣡म्  
 एता꣡वद् अह꣡म् ई꣡शीय  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 न꣡ पापत्वा꣡य रासीय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्तो॒तार॑म् । इत् । दि॒धि॒षे॒य॒ । र॒द॒व॒सो॒ इति॑ रदऽवसो । न । पा॒प॒ऽत्वाय॑ । रा॒सी॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -96,41 +96,41 @@ genre M
 हे **इन्द्र** **यत्** यतः **यावतः** धनस्य **त्वम्** ईशिषे **एतावत्** । षष्ठ्या लुक् । एतावतो धनस्य **अहमीशीय** ईश्वरो भवेयं हे **रदवसो** । रदति ददाति वसूनीति रदवसुः । ततोऽहमस्मदीयं **स्तोतारमित्** **दिधिषेय** धनप्रदानेन धारयेयमेव । **पापत्वाय** **न** **रासीय** न दद्याम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “If I were lord of as much (affluence) as you are, **Indra**, then might I support (your) worshippers,dispenser of wealth, and not squander it upon wickedness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If I were lord of as much as you are, Indra,  
 I would seek to make just my praiser (well) set up, you excavator of  goods; I would not give him over to ill-estate.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The root √īś overwhelmingly takes the gen.; the construction here is identified by Grassmann (s.v. īś, col. 236: #8 mit dem Acc.) as mixed: the gen. yā́vataḥ is construed with the implied 2nd ps. “as much as you are lord over” (yā́vatas tvám [ī́śiṣe]) in pāda a, which is picked up by the acc. etā́vad in the contrary-to-fact “if I were lord over so much” (yád … etā́vad ahám ī́śiya). I think it more likely that etā́vad here is a quasi-adverbial summing up of the dependent clause; a more literal tr. would be “if I were lord to such an extent as” or the like. The other passages assembled under Grassmann’s #8 can be variously explained and do not provide strong evidence for an alternative case frame with √īś. In III.18.3 yā́vad is again adverbial; see the published translation “inasmuch as I am master …” In VIII.68.7 ī́śe is properly construed with a gen. (kṛṣṭīnā́m) in its own pāda; the acc. cited by Grassmann, pūrvyā́m ánuṣṭutim in the previous pāda, is probably an acc. of respect (see comm. ad loc.) For nearby VII.37.7 as well as III.51.4, the latter cited only as a possibility by Grassmann, see comm. ad locc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If I, O Indra, were the Lord of riches ample as thine own,  
      I should support the singer, God. who givest wealth! and not abandon him to woe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ich, Indra, so viel zu eigen hätte wie du, so würde ich den Sänger mir zu gewinnen suchen, du Schatzspender; nicht würde ich ihn dem Elend preisgeben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra, ich so viel des Guts besässe, wie dir eigen ist, Dem Sänger theilt ich reichlich zu, o Güterquell, nicht gäb' ich ihn dem Elend hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если бы, о Индра, скольким ты (владеешь),  
 Так же владел бы и я,  

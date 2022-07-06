@@ -8,7 +8,7 @@ title = "+037"
 ' अर्वाग्रथम्' इति पञ्चर्चं चतुर्दशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैन्द्रम् । ‘अर्वाग्रथम्' इत्यनुक्रान्तम् । महाव्रते निप्केवल्ये उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 37 (478)  
 Indra  
@@ -18,7 +18,7 @@ The first three verses follow the model of a “journey” hymn, but with a twis
 The remaining two verses of the hymn (4–5) do not continue the journey theme.  Instead Indra is configured as a (divine) patron (vs. 5), who gives the priestly gift to  the (human) patrons (vs. 4). See VI.29 for a similar identification of Indra with the  sacrificial patron.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

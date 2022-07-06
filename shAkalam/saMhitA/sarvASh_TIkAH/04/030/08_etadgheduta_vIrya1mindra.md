@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡द् घे꣡द् उत꣡ वीरि꣡यम्  
 इ꣡न्द्र चक꣡र्थ पउं꣡सियम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 व꣡धीर् दुहित꣡रं दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्त्रिय॑म् । यत् । दुः॒ऽह॒ना॒युव॑म् । वधीः॑ । दु॒हि॒तर॑म् । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etad* ← *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
@@ -106,7 +106,7 @@ genre M
 हे **इन्द्र** **उत** अपि च **यत्** यस्त्वम् **एतत्** उपलक्षितं **पौंस्यं** बलं **वीर्यं** सामर्थ्योपेतं **चकर्थ** कृतवानसि । **घ** **इत्** इति पूरणौ। किंच **दुर्हणायुवं** दुष्टं हननम् इच्छन्तीं **दिवः** **दुहितरं** द्युलोकसकाशादुत्पन्नां **स्त्रियम्** उषसं **वधीः** अवधीः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,13 +117,13 @@ genre M
 The daughter of the sky: the dawn, extinguished by the ascendancy of Indra throughout the day
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you performed this manly and masculine deed, Indra:  
 that you smote a woman, the evilly angry daughter of Heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The juxtaposition of vīryám … paúṃsyam “manly and masculine” with stríyam “woman” brings the gender polarization into sharp relief. There is certainly no sense that it’s unseemly or unsporting to hit a girl!
 
@@ -149,23 +149,23 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And this heroic deed of might thou, Indra, also hast achieved,  
      That thou didst smite to death the Dame, Heaven's Daughter, meditating ill.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch diese Heldentat und Mannestat hast du, Indra, fürwahr getan, daß du das missgünstige Weib, die Tochter des Himmels, schlugst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch dieses grosse Heldenwerk, die Mannesthat vollführtest du, dass du das Weib, das Unheil sann, des Himmels Tochter niederschlugst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще это героическое деяние,  
 Подвиг мужества ты совершил, о Индра,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡थीद् य꣡द् ईं वि꣡भृतो मातरि꣡श्वा  
 गृहे꣡-गृहे · श्येतो꣡ जे꣡नियो भू꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ दूति꣡यम् भृ꣡गवाणो विवाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आत् । ई॒म् । राज्ञे॑ । न । सही॑यसे । सचा॑ । सन् । आ । दू॒त्य॑म् । भृग॑वाणः । वि॒वा॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mathīd* ← *mathīt* ← *math*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -124,7 +124,7 @@ genre M
 **मातरिश्वा** व्यानवृत्तिरूपेणावस्थितो मुख्यप्राणः **ईम्** एनमग्निं **यत्** यदा **मथीत्** अमथ्नात् । अग्नेर्मन्थनस्य व्यानवायुसाध्यत्वम् ‘अथ यः प्राणापानयोः संधिः स व्यानः' इत्युपक्रम्य छन्दोगैराम्नातम्’ -- अतो यान्यन्यानि वीर्यवन्ति कर्माणि यथाग्नेर्मन्थनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्ननपानंस्तानि करोति' (छा.उ.१.३.३; ५) इति। मन्त्रान्तरं च भवति- आन्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः' (ऋ. सं. १. ९३. ६) इति । कीदृशो मातरिश्वा । **विभृतः** प्राणिषु प्राणापानादिपञ्चवृत्तिरूपेण विहृतो विभज्य स्थितः । तदपि प्राणसंवादे तैरेवाम्नातं-’ तान्वरिष्ठः प्राण उवाच । मा मोहमापद्यथाहमेवैतत् पञ्चधात्मानं प्रविभज्यैतत्प्राणमवष्टभ्य विधारयामीति' (प्र.उ. २. ३)। मन्थनेनोत्पन्नोऽयमग्निः **श्येतः** शुभ्रवर्णो भूत्वा **गृहेगृहे** सर्वस्मिन् यज्ञगृहे यदा **जेन्यः** प्रादुर्भूतः **भूत्** । यद्वा । रक्षसां जेन्यो जेताभिभविता भूत् । तथा च तैत्तिरीयकं -- देवासुराः संयत्ता आसन् ते देवा बिभ्यतोऽग्निं प्राविशन् तस्मादाहुरग्निः सर्वा देवता इति तेऽग्निमेव वरूथं कृत्वासुरानभ्यभवन्' (तै. सं. ६. २. २.६-७) इति । ऐतरेयिणोऽप्यामनन्ति- ते देवाः प्रतिबुध्याग्निं पुरस्तात्प्रातःसवने पर्यौहंस्तेऽग्निनैव पुरस्तात्प्रातःसवनेऽसुरक्षांस्यपाघ्नत' ( ऐ. ब्रा. ६. ४) इति । **आत्** यज्ञगृहे प्रादुर्भावानन्तरम् **ईम्** एनमग्निं **भृगवाणः** । भृगुर्ऋषिः । स इवाचरन् यजमानः **दूत्यं** दूतस्य कर्म **आ** **विवाय** शास्त्रमर्यादया प्रापयामास । तत्र दृष्टान्तः । **सचा** **सन्** । सखा भवन्नन्यो राजा **सहीयसे** अभिभवित्रे प्रबलाय **राज्ञे** **न** । यथा राज्ञे स्वपुरुषं दूतकर्म प्रापयति तद्वत् ॥ मथीत् । ‘मथे विलोडने'। लुङि 'ह्वयन्तक्षण' इति वृद्धिप्रतिषेधः । जेन्यः । ‘ जनी प्रादुर्भावे ' । अस्मादौणादिक एन्यप्रत्ययः टिलोपश्च इति भट्टभास्करमिश्रः। यद्वा। जि जये' इत्यस्मात् कृत्यल्युटो बहुलम्' इति बहुलवचनात् कर्तरि ‘अचो यत्' इति यत्, तस्य नुडागमश्च । ‘ यतोऽनावः' इत्याद्युदात्तत्वम् । दूत्यम् । दूतस्य कर्म  दूत्यम् । **दूतस्य** भागकर्मणी' इति यत् । तित्स्वरितम्' इति स्वरितत्वम् । यतोऽनावः । इत्याद्युदात्तत्वं तु अनित्यमिति ‘ वीरवीर्यौ च' इत्यत्र ज्ञापितम् । भृगवाणः भृगुरिवाचरन् । ‘ सर्वप्रातिपदिकेभ्यः क्विब्वक्तव्यः' (पा. म. ३. १. ११. ३) इति वचनात् क्विप् । तदन्तात् लठो व्यत्ययेन शानच् । अदुपदेशात् लसार्वधातुकानुदात्तत्वे प्रत्ययान्तधातोरन्तोदात्तत्वे प्राप्ते वृषादेराकृतिगणवादाद्युदात्तत्वम् । विवाय । वी गत्यादिषु' । अस्मात् अन्तर्भावितण्यर्थात लिट् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,12 +139,12 @@ Jenya = from **jana**, to be born; or, from ji, to conquer;
 Legend: 'the gods and **asuras** were once engaged in combat; the former, being alarmed, entered into fire, therefore they call agni all the gods, who having made him their shield, overcame the asuras' (**Taittirīya** Samhitā 6.2.2.6-7); 'the gods having awoke agni and plural ced him before them at the morning sacrifice, repulsed, with him in their van, the asuras and **rākṣasas** at the morning rite' (**Aitareya** **Brāhmaṇa** 6.4)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Mātariśvan, borne away, stole him, and he of worthy birth came to  be gleaming in every house, after that (the fire) of the Bhr̥gus undertook the role of messenger, as if  for a more powerful king, being associated with him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another difficult verse, though it is clear that it alludes to the theft of fire by Mātariśvan in the first hemistich. This theft is expressed through word play: the verse begins máthīt, which can mean either ‘churn, rub’ (to produce fire) or ‘steal’.
 
@@ -159,28 +159,28 @@ On the second half of the verse see Proferes 2007: 30-31. Agni’s role as messe
 bestowed the stolen fire on Bhṛgu (see nearby I.60.1), and so the epithet bhṛ́gavāna-, whatever its morphology, is apposite. What is unfamiliar is the simile, in which Agni serves as messenger as if for a more powerful king. According to Proferes, Agni is here “depicted … as the symbol of the presence of a leader’s authority within each household.” I’m not sure, because Agni’s dūtá role involves traveling, not staying put. I am inclined to think the simile was generated simply from dūtyàm and is not meant to apply directly to Agni and his relationship to royal power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Since Matarisvan, far-diffused, hath stirred him, and he in every house grown bright and noble,  
      He, Bhrgu-like I hath gone as his companion, as on commission to a greater Sovran.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When Mâtarisvan had produced him by attrition, he, the reddish, the noble one, who was brought to many places 1, has come to every house. Then the Bhrigu-like 2 has undertaken the messengership 3 (for the mortal) as for a mightier king, being attached to him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihn verteilt der Matarisvan aus dem Holze rieb und der Rötlichschimmernde in jedem Hause heimisch wurde, da besorgte der Bhrigavana das Botenamt wie der Begleiter für einen mächtigeren König.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ihn im Flug hervorrieb Matariçvan und herrlich er in jedem Hause glänzte, Da führte funkelnd er mit ihm im Bunde die Botschaft aus wie zu gewalt'germ König.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Матаришван, носясь в разные стороны, похитил его,  
 Светлый стал родным в каждом доме.  

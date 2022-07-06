@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सजो꣡षा इन्द्र स꣡गणो मरु꣡द्भिः  
 सो꣡मम् पिब वृत्रहा꣡ शूर विद्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था꣡भयं कृणुहि विश्व꣡तो नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ज॒हि । शत्रू॑न् । अप॑ । मृधः॑ । नु॒द॒स्व॒ । अथ॑ । अभ॑यम् । कृ॒णु॒हि॒ । वि॒श्वतः॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ genre M
 हे **शूर** बलवन् हे **इन्द्र** **सजोषाः** संगतो देवैः **मरुद्भिः** **सगणः** मरुद्भिरेव **वृत्रहा** वृत्रस्य हन्ता **विद्वान्** कर्मविषयाभिज्ञस्त्वं **सोमं** **पिब** । ततो नः **शत्रून्** **जहि** । **मृधः** हिंसकान् शत्रून् **अप** **नुदस्व** । यद्वा मृधः । हिंस्यन्तेऽत्र प्राणिन इति मृधः संग्रामाः । तत्र वर्तमानान् शत्रूनपनुदस्व । **अथ** अनन्तरं **नः** अस्माकं **विश्वतः** सर्वतः **अभयं** कृणुहि कुरु । सर्वतो भयरहितानस्मान् कुर्वित्यर्थः ॥ वृत्रहा । हन्तेः ' ब्रह्मभ्रूणवृत्रेषु क्विप् '। अभयम् ।' ञिभी भये ' इत्यस्मात् एर्च् । नञा समासे तस्य स्वरः । विश्वतः । पञ्चम्यास्तसिल् । लित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre M
 Mṛdh = war, battle, **saṅgrāma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In joint enjoyment, Indra, in joint throng with the Maruts, drink the  soma, o champion, as Vr̥tra-smasher and knowing one.  
 Smash the rivals, push away the despisers. Then make fearlessness for us  on all sides.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, accordant, with the banded Maruts, drink Soma, Hero, as wise Vrtra-slayer.  
      Slay thou our foemen, drive away assailants and make us safe on every side from danger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einträchtig mit den Marut als Gefolge trink, Indra, als Kenner den Soma, du der Vritratöter, o Held! Erschlage die Feinde, treib die Verächter fort und schaff uns allenthalben Sicherheit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereint, o Indra, mit den Marutscharen trink Soma, Held, du kund'ger Vritratödter, Die Feinde schlage, stosse fort die Schmäher, und schaffe du ringsum uns sichre Stätte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В согласии с Марутами, о Индра, окруженный (их) толпой,  
 Пей сому как убийца Вритры, о герой, как знаток!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ते जानाति सुमतिं꣡ यविष्ठ  
 य꣡ ई꣡वते ब्र꣡ह्मणे गातु꣡म् अइ꣡रत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्युम्ना꣡नि अर्यो꣡ वि꣡ दु꣡रो अभि꣡ द्यौत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑नि । अ॒स्मै॒ । सु॒ऽदिना॑नि । रा॒यः । द्यु॒म्नानि॑ । अ॒र्यः । वि । दुरः॑ । अ॒भि । द्यौ॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -140,7 +140,7 @@ genre M
 अपरा योजना - विश्वानि द्युम्नानि दीप्तिमन्ति सुदिनानि शोभनदिनानि । अत्यन्तसंयोगे द्वितीया । यथा शोभनानि विश्वानि दिनानि भवन्ति, तथा तेषु विद्योतस्व । 'परादिश्छन्दसि बहुळम्' इत्युत्तरपदाद्युदात्तत्वम् । दुरोभि गृहानभिलक्षीकृत्य विश्वानि दिनानि द्योतस्व । रायो धनस्य स्वामी त्वम् । अन्ये तु वाक्यभेदेन व्याचक्षते - विश्वान्यपि सुदिनान्यस्मै भवन्ति । द्युम्नानि यशांसि च भवन्ति । रायो धनस्य स्वामी भवति । गृहानभि विद्योतते, गृहस्थश्च भवतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,13 +151,13 @@ genre M
 A brahman coming quickly: ivate brahmaṇe, i.e., parivṛdhāya, to the greatly augmented; shine upon his dwelling: aryo vi duro abhidyaut, he the worshipper especially shines over his house, aryo yajamāno gṛhān abhi viśeṣeṇa dyotate
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That one knows your good will, o youngest one, who has set the course  for a sacred formulation like this.  
 For him you have flashed open the doors to all the day-bright (days), to  the riches, to the brilliant things of the stranger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2nd hemistich has been variously interpr. Most recently Witzel Gotō take the neut.
 
@@ -170,13 +170,13 @@ I supply ‘days’ with sudínāni on the basis of passages like VII.11.2 áhā
 rāyáḥ can be either acc. pl. (so Oldenberg, Geldner, Renou) or gen. sg. dependent on víśvāni … sudínāni (so Thieme [Fremdl. 61] “All die Sonnentage des Reichtums,” Witzel Gotō). In the published translation I took it as acc. pl. but, to my mind, nothing rides on it either way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most Youthful God, he knoweth well thy favour who gave an impulse to this high devotion.  
      All fair days and magnificence of riches hast thou beamed forth upon the good man's portals.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He knows thy favour, O youngest one, who makes a way for a sacred speech like this. Mayst thou beam forth to his doors all auspicious days and the wealth and the splendour of the niggard.
 </details>
@@ -189,17 +189,17 @@ All happy days for him, glory, and wealth
 --Opening the doors of the miser--he hath revealed.'
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der erfährt deine Gunst, o Jüngster, der ein erbauliches Wort wie dieses Zuwege bringt. Ihm sollst du lauter schöne Tage, Reichtümer, die Herrlichkeiten des hohen Herrn durch die Tür scheinen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der spüret recht, o jüngster, deine Güte, wer einer solchen Andacht Fortgang schaffet; Dem strahlst du alle Herrlichkeit des Reichthums vom Feind hinweg, ins Haus hinein ihm Schätze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот познает твою милость, о самый юный,  
 Кто исполняет молитву, подобную (этой).  

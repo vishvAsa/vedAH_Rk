@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञ꣡स्य केतु꣡म् प्रथम꣡म् पुरो꣡हितं  
 हवि꣡ष्मन्त ईळते सप्त꣡ वाजि꣡नम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पृण꣡न्तं देव꣡म् पृणते꣡ सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 शृ॒ण्वन्त॑म् । अ॒ग्निम् । घृ॒तऽपृ॑ष्ठम् । उ॒क्षण॑म् । पृ॒णन्त॑म् । दे॒वम् । पृ॒ण॒ते । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
@@ -122,36 +122,36 @@ genre M
 **यज्ञस्य** यागस्य **केतुं** प्रज्ञापकं **प्रथमं** सर्वेषु देवेषु मुख्यं प्रथमस्थानं वा **पुरोहितं** पुरतो हितकारिणम् । यद्वा । पुरस्तात् पूर्वस्यां दिश्याहवनीयरूपेण निहितम् ॥ ‘ पूर्वाधरा' (पा. सू. ५. ३. ३९ ) इत्यादिना पूर्वशब्दादसिःप्रत्ययः । तत्संनियोगेन प्रकृतेः पुरादेशश्च । ' तद्धितश्चासर्वविभक्तिः ' ( पा. सू. १. १. ३८) इत्यव्ययसंज्ञायां ‘ पुरोऽव्ययम् ' ( पा. सू. १, ४. ६७ ) इति गतिसंज्ञा । धाञः कर्मणि निष्ठा । दधातेर्हिः । ततः समासे ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥ **वाजिनं** बलवन्तमन्नवन्तं वा **शृण्वन्तम्** अस्मत्स्तुतीः श्रोत्रेण जानन्तं **घृतपृष्ठं** दीप्तपृष्ठं दीप्ताङ्गम् **उक्षणं** यागद्वारेण वृष्टेः संभक्तारं यद्वा सेचनसमर्थं युवानं **पृणते** हविर्भिः प्रीणयित्रे यजमानाय ॥ ‘ पृण प्रीणने ' । तौदादिकः । ‘ शतुरनुमः' इति विभक्तेरुदात्तत्वम् । ‘ क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वाच्चतुर्थी ॥ हविर्भिः प्रीणयन्तं यजमानं **पृणन्तं** धनैः प्रीणयन्तम् । यद्वा । पृणतिर्दानकर्मा । हवींषि ददते यजमानाय पृणन्तं धनानि प्रयच्छन्तम् । **सुवीर्यं** शोभनवीर्योपेतं **देवं** द्योतमानं दानादिगुणयुक्तं वा एवंगुणविशिष्टम् **अग्निं** **हविष्मन्तः** हविर्भिर्युक्ताः **सप्त** होतृप्रमुखा वषट्कर्तारः **ईळते** स्तुवन्ति ॥ ‘ ईड स्तुतौ' । आदादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The seven (priests) bearing oblations worship **Agni**, the emblem of sacrifice, the first of the gods, thefamily priest, the possessor of food, the hearer (of our prayers), the anointed with butter, the shedder of moisture,propitiating the worshipper who propitiates him, divine, endowed with excellent might.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The beacon of the sacrifice, the foremost one set in front do the seven  (priests) offering oblations reverently invoke as prizewinner—  
 Agni who hears them, the bull with ghee on his back, the god who gives  to the giver an abundance of heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The seven who bring oblations worship thee, the Strong, the first, the Great Chief Priest, Ensign of sacrifice,  
      The oil-anointed Bull, Agni who hears, who sends as God full hero strength to him who freely gives.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Opfers Fahne und ersten Bevollmächtigten, den Lohnbringer rufen die sieben Priester Opfergaben bringend an, den erhörenden Agni, den Stier mit Schmalz auf dem Rücken, den Gott, der dem Spender die Meisterschaft spendet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den ersten Priester, der des Opfers Fahne ist, den starken Agni flehn die sieben Opfrer an, Ihn, der erhört den Stier, dess Rücken Butter trägt, der Heldenkräfte schenkt als Gott dem schenkenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Знамя жертвы, первого пурохиту  
 Призывают с жертвенными возлияниями семеро (жрецов), приносящего награду,  

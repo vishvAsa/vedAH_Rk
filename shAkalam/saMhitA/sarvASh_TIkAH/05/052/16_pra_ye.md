@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ये꣡ मे बन्धुएषे꣡  
 गां᳐꣡ वो꣡चन्त सूर꣡यः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 रुद्रं꣡ वोचन्त शि꣡क्वसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 अध॑ । पि॒तर॑म् । इ॒ष्मिण॑म् । रु॒द्रम् । वो॒च॒न्त॒ । शिक्व॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -121,7 +121,7 @@ genre M
 **ये** मरुतः **मे** मह्यं **बन्ध्वेषे** स्वेषां बन्धूनामन्वेषणे सति **सूरयः** प्रेरकाः **गां** माध्यमिकां वाचं गोदेवतां वा **प्र** **वोचन्त** प्रावोचन् । अविशिष्टमृषेर्वाक्यम् । ऋषिः मरुद्वाक्यमनुवदति । तस्मादुत्तरयोः आख्यातयोः यच्छब्दानन्वयान्निघातः ॥ ते **पृश्निं** द्युदेवतां पृश्निवर्णां गां वा **मातरं** **वोचन्त** अब्रुवन् ।' पृश्नियै वै पयसो मरुतो जाताः' (तै. सं. २. २. ११.४) इति श्रुतेः । **अध** अथ **पितरं** स्वकीयम् **इष्मिणं** गमनवन्तमन्नवन्तं वा **रुद्रं** **वोचन्त** **शिक्वसः** शक्तास्ते । मरुतां रुद्रेण पुत्रत्वपरिग्रहो बहुकृत्व उपपादितः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,35 +132,35 @@ genre M
 Seven times seven: there are seven toops of Maruts, each consisting of seven, making up the number of forty-nine
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who proclaimed the cow to me on my seeking (their) lineage, the  patrons called Pr̥śni their mother,  
 then they called their father arrow-possessing Rudra—(they) the  
 skillful ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This Paṅkti vs. is the last real vs. of the hymn, since 17 (also Paṅkti) is a dānastuti. It begins with prá, just as vs. 1 did, and continues with the insistent repetion of the verb of speech vocanta (pādas b, c, e). The vs. is also reminiscent of repeated ohate ‘vaunt themselves’ in 10-11; as there, the recipient of the Maruts’ speech here is “me.” The structure of the vs. would be clearer if the tr. read “Those who proclaimed … they proclaimed P. their mother, then they proclaimed their father …” On iṣmín- see comm. ad I.87.6.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Princes, who, when I asked their kin, named Prsni as their Mother-cow,  
      And the impetuous Rudra they, the Mighty Ones, declared their Sire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Herren, die mir bei der Nachforschung nach ihrer Sippe die Kuh nannten, die Prisni als ihre Mutter nannten, die nannten dann als ihren Vater den pfeilführenden Rudra, sie die Kundigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die, als ich nach der Sippschaft frug, als Mutter nannten Priçni mir, als Vater, glanzvoll, kräftig sie, den schnellen Stürmer Rudra mir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Покровители, которые при выяснении родства  
 Провозгласили мне корову,  

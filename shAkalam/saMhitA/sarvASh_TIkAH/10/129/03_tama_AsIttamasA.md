@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म आसीत् त꣡मसा गूळ्ह꣡म् अ꣡ग्रे  
 अप्रकेतं꣡ सलिलं꣡ स꣡र्वम् आ इद꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡पसस् त꣡न् महिना꣡जायतइ꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तु॒च्छ्येन॑ । आ॒भु । अपि॑ऽहितम् । यत् । आसी॑त् । तप॑सः । तत् । म॒हि॒ना । अ॒जा॒य॒त॒ । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tama* ← *tamaḥ* ← *tamas*
 - \[noun\], nominative, singular, neuter
@@ -144,7 +144,7 @@ popular
 स्रष्टव्यपर्यालोचनरूपत्वं चान्यत्राम्नायते-' यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः ' ( मु. उ. १.१.९) इति॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,34 +155,34 @@ popular
 Austerity: **tapas** = not penance, but the contemplation of things which were to be created: yahsarvajñaḥ sarvavit yasya jñānamayam **tapaḥ**: **Muṇḍa**.ka **Upaniṣad** 1.1.9
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Darkness existed, hidden by darkness, in the beginning. All this was a  signless ocean.  
 What existed as a thing coming into being, concealed by emptiness—that  One was born by the power of heat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Darkness there was: at first concealed in darkness this All was indiscriminate chaos.  
      All that existed then was void and formless: by the great power of Warmth was born that Unit.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Darkness there was at first by darkness hidden; Without distinctive marks, this all was water. That which, becoming, by the void was covered. That One by force of heat came into being.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Anfang war Finsternis in Finsternis versteckt; all dieses war unkenntliche Flut. Das Lebenskräftige, das von der Leere eingeschlossen war, das Eine wurde durch die Macht seines heißen Dranges geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles; Vom leeren Raum war zugedeckt die Oede, das Eine ward durch Macht der Glut geboren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мрак был сокрыт мраком в начале.  
 Неразличимая пучина – все это.  

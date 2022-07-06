@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡षस् त꣡म् अश्यां यश꣡सं सुवी꣡रं  
 दास꣡प्रवर्गं रयि꣡म् अ꣡श्वबुध्यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वा꣡जप्रसूता सुभगे बृह꣡न्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सु॒ऽदंस॑सा । श्रव॑सा । या । वि॒ऽभासि॑ । वाज॑ऽप्रसूता । सु॒ऽभ॒गे॒ । बृ॒हन्त॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣas* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
@@ -122,21 +122,21 @@ genre M
 हे **उषः** उषोदेवते **तं** **रयिं** धनम् **अश्यां** प्राप्नुयाम् । कीदृशम् । **यशसं** यशसा कीर्त्या युक्तम् । सर्वैः प्रशस्यमित्यर्थः । **सुवीरं** शोभनैर्वीरैः पुत्रादिभिर्युक्तं **दासप्रवर्गम्** । प्रकृष्टो वर्गः संघः प्रवर्गः । दासानां कर्मकराणां प्रवर्गों यस्मिन् तम् । अनेकैर्भृत्यैरुपेतमित्यर्थः । अश्वबुध्यम् । अश्वा बुध्या बोद्धव्या येन धनेन तादृशम् । हे **सुभगे** शोभनधने उषः **सुदंससा** शोभनेन कर्मणा युक्तेन **श्रवसा** श्रवणीयेन स्तोत्रेण प्रीता त्वं **वाजप्रसूता** अस्मभ्यं दत्तान्ना सती **बृहन्तं** प्रौढं **या** यं रयिं **विभासि** विशेषेण प्रकाशयसि तमश्यामिति पूर्वेण संबन्धः ॥ अश्याम् । **अशू** व्याप्तौ' । व्यत्यनेन परस्मैपदम् । बहुलं छन्दसि' इति विकरणस्य लुक् । यशसम् । अर्शआदित्वात् मत्वर्थीयोऽच् । व्यत्ययेन प्रत्ययात् पूर्वस्योदात्तत्वम् । दासप्रवर्गम् । दासयत्युपक्षपयति शत्रूनिति दासो भृत्यः  । दसु उपक्षये । अस्मात् ण्यन्तात् पचाद्यच् । चित्त्वादन्तोदात्तत्वम् । तदेव बहुव्रीहिस्वरेण शिष्यते । सुदंससा ।  ‘ सोर्मनसी अलोमोषसी ' इति बहुव्रीहावुत्तरपदाद्युदात्तत्वम् । या ।  ‘ सुपां सुलुक् ' इति अमः डादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “May I obtain, Uṣas, that ample wealth with confers fame, posterity, troops of slaves, and is characterized by horses; which you, who abount in riches and are the giver of food, display, (when gratified) by hymns and holy sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Dawn, might I attain this glorious wealth, rich in good heroes,  founded on horses, with alien-slaves as its forelock—  
 o you of good portion, who with fame of wondrous power radiate  
 forth, motivated by (desire for) the prize, to lofty (wealth).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ‘Forelock’ for pravarga- may seem slightly flippant, but I wanted to capture the ‘twist’ sense of prá √vṛj, in contrast to the anodyne ‘having slaves at the front’ found in the other tr.
 
@@ -159,28 +159,28 @@ vibhā́si (8c) and ví bhāti (9b) should have been rendered with the same Engl
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O thou who shinest forth in wondrous glory, urged onward by thy strength, auspicious Lady,  
      Dawn, may I gain that wealth, renowned and ample, in brave sons, troops of slaves, far-famed for horses.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May I attain that wealth renowned and ample, With many heroes, troops of friends, and horses, O Dawn, that shinest forth with wondrous glory. Urged on by mighty strength, auspicious lady.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Usas! Solch großen, zu Ansehen bringenden Reichtum an tüchtigen Söhnen möchte ich erlangen, bei dem Sklaven den Anfang und Rosse den Schluß bilden, die du Lohn anweisend in tatenschönem Ruhme erstrahlst, o Holde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass, Morgenröthe, mich das Gut erlangen, das reich erglänzt an Helden, Rossen, Knechten, Die du durch Ruhm und Heldenthat erstrahlest, zu grosser Gabe angeregt, o sel'ge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ушас, пусть достигну я богатства, приносящего славу,  
 Прекрасных мужей, с дасами в начале, с конями в конце,  

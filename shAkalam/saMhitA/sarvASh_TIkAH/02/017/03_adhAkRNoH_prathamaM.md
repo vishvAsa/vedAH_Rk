@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धाकृणोः प्रथमं꣡ वीरि꣡यम् मह꣡द्  
 य꣡द् अस्या꣡ग्रे ब्र꣡ह्मणा शु꣡ष्मम् अइ꣡रयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ जीर꣡यः सिस्रते सध्रि꣡अक् पृ꣡थक्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 र॒थे॒ऽस्थेन॑ । हरि॑ऽअश्वेन । विऽच्यु॑ताः । प्र । जी॒रयः॑ । सि॒स्र॒ते॒ । स॒ध्र्य॑क् । पृथ॑क् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhākṛṇoḥ* ← *adha*
 - \[adverb\]
@@ -137,37 +137,37 @@ genre M
 अधापिच हेइन्द्र त्वम्प्रथमम्मुख्यंहद्वीर्यंसामर्थ्यमकृणोरकरोः किन्तत् ब्रह्मणास्तोत्रेणस्तुतिसाधन- भूतेनवेदवाक्येनास्यवीर्यम्यस्तोतुर्जनस्याग्रेपुरतः यत् शुष्मंशत्रूणांशोषकम्बलमैरयः उदगमयः जीर- योजरयितारोबधकाअसुराः रथेष्ठेनरथस्थितेनहर्यश्वेनत्वयाविच्युताः स्वस्थानात् च्याविताःसन्तः सध्र्यक् सध्रीचीनाः परस्परंसङ्गताः पृथक् भीत्यावियुक्ताःसन्तः प्रसिस्रते प्रकर्षेणधावन्ति स्रुगतौ जु- होत्यादिः बहुलञ्छन्दसीत्यभ्यासस्येत्वं सध्र्यगितिसहस्यसध्रिरितिसध्र्यादेशः अद्रिसध्र्योरन्तोदात्तत्वे- ननिपातनादुदात्तस्वरितयोरितियणःस्वरितत्वम् ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, **Indra**, you have displayed your first great prowess, when, (propitiated) by the prayer (of the worshipper), you have put forth your withering (vigour) in his presence; and when the congregated enemies (of the gods), hurled down by you in youur chariot, drawn by your horses, fled, scattered.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then you did the first, great heroic deed, when, at its beginning, you  roused your explosive power through the poetic formulation.  
 Spurred by the chariot-rider with his fallow bay horses, the lively  
 (waters) flow forth separately toward the same goal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou didst perform thy first great deed of hero might what time thou showedst power, through prayer, before this folk.  
      Hurled down by thee the car-borne Lord of Tawny Steeds, the congregated swift ones fled in sundry ways.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da vollbrachtest du deine erste große Heldentat, als du zuerst durch dieses Sängers Kraftwort deinen Mut einsetztest. Durch den Wagenkämpfer mit den falben Rossen befreit laufen die Ströme getrennt nach dem gemeinsamen Ziel weiter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da thatest du die erste grosse Heldenthat, als im Beginn begeistert du den Muth erhobst; Da strömten vor die Fluten alle hier und dort, durch ihn bewegt, der wagenstehend Rosse lenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Затем ты совершил первый великий подвиг:  
 (Тот,) что в начале с помощью его молитвы ты возбудил (свое) неистовство.  

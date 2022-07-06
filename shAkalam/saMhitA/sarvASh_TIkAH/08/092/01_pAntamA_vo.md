@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पा᳐꣡न्तम् आ꣡ वो अ꣡न्धस  
 इ꣡न्द्रम् अभि꣡ प्र꣡ गायत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मं꣡हिष्ठं चर्षणीना᳐꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि॒श्व॒ऽसह॑म् । श॒तऽक्र॑तुम् । मंहि॑ष्ठम् । च॒र्ष॒णी॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pāntam* ← *pānta*
 - \[noun\], accusative, singular, masculine
@@ -89,7 +89,7 @@ genre M
 हे ऋत्विजः **वः** युष्मदीयम् **अन्धसः** सोमलक्षणमन्नम् **आ** **पान्तम्** आभिमुख्येन पिबन्तम्। **पा** पाने '। छान्दसः शपो लुक् । 'सर्वे विधयश्छन्दसि विकल्पन्ते । इति न लोकाव्यय ' इति षष्ठीप्रतिषेधाभावः । ततोऽन्धसः इत्यस्य कर्तृकर्मणोः' इति षष्ठी'। सोममाभिमुख्येन पिबन्तमेतादृशम् **इन्द्रं** **प्र** **गायत** प्रकर्षेणाभिष्टुत । कीदृशम् । **विश्वसहं** सर्वेषां शत्रूणामभिभवितारं सर्वेषां भूतजातानां वा अत एव **शतक्रतुं** बहुविधप्रज्ञानं बहुविधकर्माणं वा **चर्षणीनां** मनुष्याणां **मंहिष्ठं** धनस्य दातृतमम् । यद्वा । यजमानानां यष्टव्यत्वेन पूजनीयमिन्द्रं गायतेति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,12 +100,12 @@ genre M
 Or, to be most honoured of men, maṃhiṣṭha carṣaṇīnām
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing (him) here to the drinking of your stalk; sing forth to Indra, the all-conquering one, of a hundred resolves, most liberal to the settled  domains,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I separate the predicates of pādas a and b because √gā ‘sing’ seems to be used in two different senses, with two different sets of preverbs: ā́in a, abhí prá in b
 
@@ -113,23 +113,23 @@ I separate the predicates of pādas a and b because √gā ‘sing’ seems to b
 pā́ntam here belongs to the nominal stem pā́nta- ‘drink’, not the pres. part., but the coincidence of form may have led to some ambiguity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INVITE ye Indra with a song to drink your draught of Soma juice,  
      All-conquering Satakratu, most munificent of all who live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu eurem Tranke des Soma ladet den Indra mit Gesang ein, den Allüberwinder, den Ratreichen, der den Völkern am meisten schenkt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, singt dem Indra Lobgesang, ihm, der von eurem Soma trinkt, Der thatenreich dass All bezwingt, der aller Geber bester ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

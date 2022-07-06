@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शत꣡ब्रध्न इ꣡षुस् त꣡व  
 सह꣡स्रपर्ण ए꣡क इ꣡त्  
 य꣡म् इन्द्र चकृषे꣡ यु꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 यम् । इ॒न्द्र॒ । च॒कृ॒षे । युज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatabradhna* ← *śata*
 - \[noun\], neuter
@@ -97,41 +97,41 @@ genre M
 हे **इन्द्र** **तव** **इषुः** शतब्रध्नः शताग्रः **सहस्रपर्णः** सहस्रसंख्याकैः पत्रैः संवृतः शीघ्रगमनाय । अपरिमितगमनो वा । स च **एक** **इत्** एक एव । **यं** च इषुं **युजं** सहायं **चकृषे** करोषि युद्धाय ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That single shaft of yours, **Indra**, which you make your ally, is hundred-pointed, thousand-feathered.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your arrow with a hundred ruddy glints and a thousand feathers was  the single one  
 that you made into your yokemate, o Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 bradhná- is otherwise a color term (‘coppery, ruddy’) or a substance characterized by that color (soma, in nearby VIII.69.7), but in this hapax bahuvrīhi, śatá-bradhna- it must refer to something capable of being counted, hence my ‘ruddy glints’. Grassmann’s ‘hundert Metallspitzen habend’, Geldner’s ‘mit hundert Spitzen’ seem to stray too far from the color term. The appearance of this word here may be owing to its phonological similarity to bundá-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One only is that shaft of thine, with thousand feathers, hundred barbs,  
      Which, Indra, thou hast made thy friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Pfeil mit hundert Spitzen, mit tausend Federn war der Einzige, den du, Indra, zu deinem Verbündeten gemacht hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An hundert Spitzen hat dein Pfeil, und tausend Federn er allein, Den Indra du dir zugesellt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твоя стрела с сотней наконечников,  
 С тысячей перьев (была) единственной,  

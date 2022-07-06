@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभय꣡तः प꣡वमानस्य रश्म꣡यो  
 ध्रुव꣡स्य सतः꣡ प꣡रि यन्ति केत꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡त्ता नि꣡ यो꣡ना कल꣡शेषु सीदति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यदि॑ । प॒वित्रे॑ । अधि॑ । मृ॒ज्यते॑ । हरिः॑ । सत्ता॑ । नि । योना॑ । क॒लशे॑षु । सी॒द॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhayataḥ* ← *ubhayatas*
 - \[adverb\]
@@ -117,20 +117,20 @@ genre M
 **पवमानस्य** पूयमानस्य **ध्रुवस्य** स्वयमविचलितस्य **सतः** विद्यमानस्य सोमस्य **केतवः** प्रज्ञापकाः **रश्मयः** **उभयतः** इतश्चामुतश्च **परि** **यन्ति** परिगच्छन्ति । अभिषवसमय एवं भवति । **यदि** यदा **पवित्रे** देशापवित्रे **हरिः** हरितवर्णोऽयम् **अधि** **मृज्यते** तदानीं **सत्ता** सदनशीलोऽयं योनौ स्वीये स्थाने **कलशेषु** द्रोणकलशादिषु **नि** **षीदति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The rays, the tokens of the extant, steady, purified **Soma**, circulate from both worlds; when the green-tinted juice is cleansed upon the filter, reposing it alights upon its station, the pitchers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The rays, the beacons of the self-purifying one circle around on both  sides, though he stays fixed.  
 When the fallow bay is groomed in the filter, seated in his womb, he sits  down in the tubs.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referent changes from 2nd ps. (vs. 5) to 3rd (vs. 6), although this is not clear until the 3rd sg. verbs in the 2nd hemistich.
 
@@ -157,23 +157,23 @@ As noted above, these two vss. have parallel structures in the crucial 2nd pāda
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The beams of Pavamana, sent from earth and heaven, his ensigns who is ever steadfast, travel round.  
      When on the sieve the Golden-hued is cleansed, he rests within the vats as one who seats him in his place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Pavamana Strahlen, seine Banner wandeln auf beiden Seiten um, während er fest bleibt. Wenn der Falbe in der Seihe sauber gemacht wird, setzt sich der gern Sitzende an seinen Platz, in die Krüge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach beiden Seiten dringen seine Strahlen durch, der flammend rieselt, fest und treu in seinem Sinn, Wenn in dem Sieb das goldne Ross gestriegelt wird, so setzt es in die Kufen sich auf seinen Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡स्पृथिव्यो꣡र् अ꣡व आ꣡ वृणीमहे  
 मातॄ꣡न् सि꣡न्धून् प꣡र्वताञ् छर्यणा꣡वतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 भद्रं꣡ सो꣡मः स्वानो꣡° अद्या꣡ कृणोतु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ना॒गाः॒ऽत्वम् । सूर्य॑म् । उ॒षस॑म् । ई॒म॒हे॒ । भ॒द्रम् । सोमः॑ । सु॒वा॒नः । अ॒द्य । कृ॒णो॒तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divaspṛthivyor* ← *divaspṛthivyoḥ* ← *divaspṛthivī*
 - \[noun\], genitive, dual, feminine
@@ -123,7 +123,7 @@ genre M
 **दिवःपृथिव्योः** द्यावापृथिव्योः कार्यत्वेन संबन्धि **अवः** रक्षणं वयम् **आ** वृणीमहे । किंच **मातॄन्** लोकस्य निर्मातॄन् **सिन्धून्** **शर्यणावतः** सरसः संबन्धिनः **पर्वतान्** शिलोच्चयांश्च तथा **सूर्यमुषसं** च **अनागास्त्वं** कर्मवैगुण्यजनितपापराहित्यम् **ईमहे** वयं याचामहे । किंच **अद्य** अस्मिन्नहनि **नः** अस्माकं **सुवानः** अभिषूयमाणः **सोमः** **भद्रं** कल्याणं **कृणोतु** करोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,30 +134,30 @@ genre M
 The mountains with their lakes = liṭ, the mountains of (the lake) Śaryaṇāvat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We choose the help of Heaven and Earth. The Mother Rivers, the  Mountains filled with (soma-)reeds,  
 the Sun, the Dawn we beseech for blamelessness. Let Soma, being  
 pressed, make good for us today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, for ourselves we claim the grace of Heaven and Earth, of Saryanavan, of the Hills and Mother Streams.  
      For innocence we pray to Surya and to Dawn. So may the flowing Soma bring us bliss to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir erbitten uns die Gunst von Himmel und Erde. Die mütterlichen Flüsse, die Berge von Saryanavat bitten wir um ihre Gunst. Surya, die Usas ersuchen wir um Schuldlosigkeit. Der ausgepreßte Soma soll uns heute Glück schaffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels und der Erde Hülfe flehn wir an, die Mutterströme und die somareichen Höhn, Um Unschuld flehn die Sonn' und Morgenröthe wir; es schaff' uns Heil der ausgepresste Soma heut,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О милости Неба-и-Земли мы просим,  
 Матерей-рек, горы из Шарьянавата (мы просим).  

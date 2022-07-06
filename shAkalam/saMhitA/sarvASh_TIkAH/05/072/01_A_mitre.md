@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ मित्रे꣡ व꣡रुणे वयं꣡  
 गीर्भि꣡र् जुहुमो अत्रिव꣡त्  
 नि꣡ बर्हि꣡षि सदतं सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 नि । ब॒र्हिषि॑ । स॒द॒त॒म् । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -94,34 +94,34 @@ genre M
 **वयम्** आत्रेयाः **मित्रे** **वरुणे** मित्रावरुणयोः अर्थाय **गीर्भिः** मन्त्रैः **आ** **जुहुमः** **अत्रिवत्** अस्मद्गोत्रप्रवर्तकोऽत्रिरिव । तस्मात् हे मित्रावरुणौ सोमपीतये **बर्हिषि** **नि** **सदतं** निषीदतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke **Mitra** and **Varuṇa** with hymns, like (our progenitor) **Atri**; do you sit down upon the sacred grass to drink the **Soma** libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like Atri, we pour an offering to Mitra and Varuṇa with our songs. – Sit down upon the ritual grass to drink the soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Varuna and Mitra we offerwith songs, as Atri did. Sit on the sacred grass to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir opfern wie Atri dem Mitra und Varuna mit Lobreden. Setzet euch beide auf das Barhis zum Somatrank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach Atri's Weise rufen wir mit Lied zu Mitra, Varuna; Setzt nieder euch zum Somatrunke auf die Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Митре (и) Варуне мы  
 Приносим жертву с песнями, подобно Атри.  

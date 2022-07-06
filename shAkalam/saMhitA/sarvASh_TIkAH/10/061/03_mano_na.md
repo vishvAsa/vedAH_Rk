@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡नो न꣡ ये꣡षु ह꣡वनेषु तिग्मं꣡  
 वि꣡पः श꣡चिया वनुथो꣡ द्र꣡वन्ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡श्रीणीत · आदि꣡शं ग꣡भस्तौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । यः । शर्या॑भिः । तु॒वि॒ऽनृ॒म्णः । अ॒स्य॒ । अश्री॑णीत । आ॒ऽदिश॑म् । गभ॑स्तौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mano* ← *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
@@ -113,7 +113,7 @@ genre M
 हे अश्विनौ युवां **मनो** **न** मन इव यथा मनः **तिग्मं** तीक्ष्णमाशु धावति आगच्छति एवं **येषु** 'हवनेषु आह्वानेषु **विपः** स्तोतुः **शच्या** प्रज्ञानेन गन्तव्यमिति बुद्ध्या **द्रवन्ता** द्रवन्तौ गच्छन्तौ **वनुथः** संभजथ:। **यः** अध्वर्युः **आ** आभिमुख्येन **तुविनृम्णः** प्रभूतहविर्लक्षणधनः सन् **अस्य** कर्मणि प्रवृत्तस्य मम संबन्धी **शर्याभिः** अङ्गुलीभिः **अश्रीणीत** श्रीणाति । किं कृत्वा । **गभस्तौ** हस्ते धृत्वा **आदिशम्** आदिश्य । इदमश्विभ्यामिति निर्दिश्येत्यर्थः । तादृशं मदीयमध्वर्युं येषु हवनेषु **वनुथः** संभजथः तौ युवां हुव इत्युत्तरत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,29 +124,29 @@ genre M
 **Yajus**. 7.170: the verse is said tobe addressed to the two priests, the **adhvaryu** and pratiprasthātā, engaged in mixing curds with ground barleyin the Manthigraha
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Tūrvayāṇa)—to whose invocations you two [=Aśvins] run and win  inspired words, (produced) by his skill, that are like sharp thinking,  
 he who, powerfully manly, with arrows in his hand, brought his aim to  fulfillment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To his oblations, swift as thought, ye hurried, and welcomed eagerly the prayers he offered.  
      With arrows in his hand the Very Mighty forced from him all obedience of a servant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei dessen Anrufungen ihr beide scharf wie der Gedanke mit aller Kraft herbeieilend die Reden gut aufnehmet, der mit den Pfeilen in seiner Hand das Ziel traf, der Mannhafte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei welchen Opferspenden ihr beiden kräftig laufenden [Açvinen] dem gleichsam geschärften Geist des Sängers hold seid, welcher sehr mannhaft mit den Fingern am Arme dessen [etwa des Agni?] Absicht erfüllte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

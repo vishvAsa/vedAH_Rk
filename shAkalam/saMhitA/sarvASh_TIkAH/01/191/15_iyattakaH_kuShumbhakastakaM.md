@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयत्तकः꣡ कुषुम्भक꣡स्  
 तक꣡म् भिनद्मि अ꣡श्मना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡राचीर् अ꣡नु संव꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 ततः॑ । वि॒षम् । प्र । व॒वृ॒ते॒ । परा॑चीः । अनु॑ । स॒म्ऽवतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyattakaḥ* ← *iyattaka*
 - \[noun\], nominative, singular, masculine
@@ -97,7 +97,7 @@ popular;; epic anuṣṭubh (525)
 **इयत्तकः** कुत्सितेयत्तः अल्पप्रमाण इत्यर्थः । **कुषुम्भकः** कुं पृथ्वीं सुम्भति विलिखतीति सर्पाणां कुत्सितं सुम्भयिता निग्रहीता' कुषुम्भको नकुलः । स ते विषं हरत्विति शेषः । यदि न तथा स करोति **तकं** कुत्सितं तं नकुलम् **अश्मना** **भिनद्मि** विदारयामि । विषनिर्हरणप्रयोगे यावद्विषापगमं तं पाषाणानुघातमनुतिष्ठन्ति तद्विदः । तदिदमत्रोक्तम् । **ततः** एवं प्रयोगे सति **विषं** **प्र** **वावृते** विषावृताद्देहात् विषं प्रवर्तते निर्गच्छतु । काः प्रति । उच्यते । **पराचीः** परागञ्चनवतीः अतिदूरगाः **संवतः** संविभागवतो दिशः **अनु** लक्षीकृत्य दिगन्तं प्रति गच्छतु न मां प्रति गच्छत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,13 +108,13 @@ popular;; epic anuṣṭubh (525)
 The mongoose: kuṣumbako **nakulaḥ**, the mongoose, whose hostility to the snake is proverbial
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Such a little teeny kuṣumbha-bug—I split that itty-bitty thing with a  rock.  
 Thence has the poison rolled forth, following channels facing away  (from us).
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -126,23 +126,23 @@ The word for ‘scorpion’, vṛ́ścika- only appears in that form, but appear
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The poison-insect is so small; I crush the creature with a stone.  
      I turn the poison hence away, departed unto distant lands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gar winzig ist der Kusumbhaka; den kleinen zerschlage ich mit dem Steine. Daraus ist das Gift fortgegangen in den von uns abgewandten Richtungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So winzig das Giftinsekt ist, so klein es ist, ich zerschlage es mit dem Steine, davon ist das Gift weggewandt in ferne Gegenden hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Такусенький кушумбхака –  
 Вот такого малюсенького я разбиваю камнем.  

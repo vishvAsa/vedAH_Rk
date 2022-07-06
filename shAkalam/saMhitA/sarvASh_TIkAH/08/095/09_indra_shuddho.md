@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र शुद्धो꣡ हि꣡ नो रयिं꣡  
 शुद्धो꣡ र꣡त्नानि दाशु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 शुद्धो꣡ वा꣡जं सिषाससि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 शु॒द्धः । वृ॒त्राणि॑ । जि॒घ्न॒से॒ । शु॒द्धः । वाज॑म् । सि॒सा॒स॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -101,21 +101,21 @@ genre M
 हे **इन्द्र** **शुद्धः** । हिरवधारणे । शुद्ध एव त्वं **रयिं** धनं **नः** अस्मभ्यं प्रयच्छ । तथा **शुद्धः** त्वं **दाशुषे** हविर्दत्तवते यजमानाय **रत्नानि** रमणीयानि धनादीनि च देहि । ततः **शुद्धः** पापरहितस्त्वं **वृत्राणि** अपामावरकान् कर्मविघ्कारिणः शत्रून् पापानि वा **जिघ्नसे** हंसि । ततः **शुद्धः** शत्रुहननदोषपरिहारायास्मदीयैः सामभिः शस्त्रैः परिशुद्धस्त्वं **वाजम्** अन्नमस्मभ्यं **सिषाससि** प्रदातुमिच्छसि । यदा यदा शत्रूनहं हन्यां तदा तदा शुद्ध्युत्पादकैः सामभिः शस्त्रैश्च यूयं मां परिशुद्धं कुरुतेत्यस्मभ्यमन्नं दातुमिच्छसीत्यर्थः ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified, **Indra**, give us wealth; purified give to your worshipper precious things; purified you smite yourenemies; purified you desire to give us food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For, o Indra, cleansed, (you lay down) wealth for us, cleansed, (you lay  down) treasures for the pious man.  
 Cleansed, you keep smashing obstacles, cleansed, you seek to gain  
 the prize.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -125,23 +125,23 @@ See the introduction. for the curious density in this tṛca of the ppl. śuddh�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, pure, vouchsafe us wealth, and, pure, enrich the worshipper.  
      Pure, thou dost strike the Vrtras dead, and strivest, pure, to win the spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn rein gibst du, Indra, uns Reichtum, rein dem Opferspender Kleinode. Rein erschlägst du die Feinde, rein suchst du den Siegerpreis zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Reichthum schenkst du, reiner, uns dem Frommen Schätze, reiner du, Die Feinde tödtest, reiner du du reiner, schenkest Beute gern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь чистым, о Индра, (ты даешь) нам богатство,  
 Чистым – сокровища почитателю (своему).  

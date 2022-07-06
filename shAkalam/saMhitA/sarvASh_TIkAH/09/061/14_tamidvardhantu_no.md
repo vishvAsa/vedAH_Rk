@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡द् वर्धन्तु नो गि꣡रो  
 वत्सं꣡ संशि꣡श्वरीर् इव  
 य꣡ इ꣡न्द्रस्य हृदंस꣡निः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यः । इन्द्र॑स्य । हृ॒द॒म्ऽसनिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -87,19 +87,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** सोमः **इन्द्रस्य** **हृदंसनिः** हृदयस्य संभक्ता भवति **तमित्** तमेव सोमं **नः** अस्माकं **गिरः** स्तुतिरूपा वाचः **सं** **वर्धन्तु** सम्यग्वर्धयन्तु । तत्र दृष्टान्तः । **वत्सं** बालं **शिश्वरीरिव** । यथा शिश्वर्यो बद्धपयस्का मातरो वत्सं वर्धयन्ति तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May our praises foster him who wins the heart of **Indra**, as cows who have young ones (foster) their calf.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Only him let our hymns strengthen, as (cows) who share their young do a calf— him who gains the heart of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax tatpuruṣa hṛdaṃsáni- ‘gaining the heart’ is curious, in having an apparent acc. in -am to the neut. root noun hṛ́d-, as if to a masc. or fem. stem or to a thematic *hṛda- (see, e.g., AiG II.1.208).
 
@@ -113,23 +113,23 @@ Again no signs of tṛca unity, unless the presence of cows in all three verses 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as mother cows their calf, so let our praise-songs strengthen him,  
      Yea, him who winneth Indra's heart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn sollen unsere Reden großziehen wie die Kühe, die zusammen ein Junges haben, ihr Kalb, der des Indra Herzgewinner ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm bringe Stärkung unser Lied, wie Mutterkühe ihrem Kalb, Ihm, der des Indra Herz gewinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его пусть усилят наши песни,  
 Словно (коровы,) имеющие общего малыша-теленка,  

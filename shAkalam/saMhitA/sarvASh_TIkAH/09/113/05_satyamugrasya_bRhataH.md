@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्य꣡मुग्रस्य बृहतः꣡  
 सं꣡ स्रवन्ति संस्रवाः꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 सम् । य॒न्ति॒ । र॒सिनः॑ । रसाः॑ । पु॒ना॒नः । ब्रह्म॑णा । ह॒रे॒ । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satyamugrasya* ← *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
@@ -121,20 +121,20 @@ popular;; epic anuṣṭubh (525);; repeated line
 **सत्यमुग्रस्य** संग्रामे सत्येन शत्रूणामुद्गारयितुः । यद्वा उद्गूर्णसत्यस्य । यद्वा । यथार्थभूतमुद्गूर्णं बलं यस्य तस्य । पृषोदरादित्वाद्रूपसिद्धिः। **बृहतः** महतः सोमस्य तव **संस्रवाः** सम्यक्स्रवणशीला' धाराः **सं** **स्रवन्ति** सम्यक् गच्छन्ति । किंच **रसिनः** रसवतस्तव स्वभूताः **रसाः** **सं** **यन्ति** संगच्छन्ते । तस्माद्धे **हरे** हरितवर्ण सोम **ब्रह्मणा** ब्राह्मणेन मन्त्रेण वा **पुनानः** पूयमानः स त्वमिन्द्रार्थं **परि** **स्रव** ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The united streams of you who are vast and truly formidable flow united; the juices of you the juicy one meet together; green-tinted (**Soma**), purified by holy prayer, **Indu**, flow for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of (you) who are lofty and really strong the joint streams stream jointly. The juices of (you) who are rich in juice join together as (you) are being  purified by the sacred formulation, tawny one.  
 – O drop, flow around for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. strikes me as very nearly doggerel. Although RVic poets enjoy indulging in etymological figures - and are skilled at deploying them - those in pādas b and c seem to display neither imagination nor skill: b sáṃ sravanti saṃsravā́ḥ (the pāda missing a syllable, to make it worse), c … rasíno rásāḥ.
 
@@ -145,23 +145,23 @@ punānáḥ in d modifying the plural subjects of bc, even though pl. punānā́
 In c rasínaḥ could be either gen. sg. or nom. pl., and either would fit. Grassmann and the standard tr. (including mine) take it as gen. sg., presumably because the other two occurrences of rasínaḥ (VIII.1.26, 3.1) are. A gen. also makes the phrase less pleonastic+++(=redundant)+++: “the juices of the juicy one” is marginally better than “the juicy juices.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Together flow the meeting streams of him the Great and truly Strong.  
      The juices of the juicy meet. Made pure by prayer, O Golden-hued, flow, Indu, flow for Indra's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es laufen zusammen die Reste des wahrhaft Gewaltigen, Hohen; es kommen die Säfte des Saftigen zusammen. Unter feierlicher Rede geläutert, o Falber, fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zusammen strömt der Ströme Flut des hohen, wahrhaft kräftigen, Des saft'gen Säfte dringen ein, du goldner, durch Gebet geklärt; dem Indra ström', o Indu, zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стекаются стечения  
 Поистине грозного, мощного.  

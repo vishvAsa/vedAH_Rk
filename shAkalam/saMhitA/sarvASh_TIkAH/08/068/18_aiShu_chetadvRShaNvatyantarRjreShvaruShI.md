@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अइ꣡षु चेतद् वृ꣡षण्वती  
 अन्त꣡र् ऋज्रे꣡षु अ꣡रुषी  
 सुअभीशुः꣡ क꣡शावती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सु॒ऽअ॒भी॒शुः । कशा॑ऽवती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aiṣu* ← *ā*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M
 **एषु** **ऋज्रेषु** ऋजुगामिष्वश्वेषु **अन्तः** मध्ये **आ** **चेतत्** आज्ञायते । का। **वृषण्वती** वर्षकैः पुमश्वैस्तद्वती **अरुषी** आरोचमाना **स्वभीशुः** शोभनप्रग्रहा **कशावती** दृप्ता वडवा ज्ञायते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,34 +88,34 @@ genre M
 Reinsand whip: kaśāvatī = **dṛptā**, proud, spirited
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the midst of these silvery ones there appeared a ruddy female  [=Dawn?] along with a bull,  
 having good reins and a whip.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the ruddy female (áruṣī) as a reference to Dawn, with the bull accompanying her as the sun. This makes sense in a dakṣinā context, since the priestly gifts are distributed at the dawn sacrifice. Geldner rather as a mare.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Marked above all, amid the brown, is the red mare Vrsanvati,  
      Obedient to the rein and whip.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter diesen Schimmeln fällt die von Hengsten umgebene rötliche Stute mit schönem Zügel und einer Peitsche ins Auge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Unter ihnen zeichnet sich aus eine mit Hengstfüllen versehene Stute und unter den braunen eine lichtrothe Stute, die mit schönem Zügel und schöner Peitsche versehen ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

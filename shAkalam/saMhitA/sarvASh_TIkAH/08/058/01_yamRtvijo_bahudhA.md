@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् ऋत्वि꣡जो बहुधा꣡ कल्प꣡यन्तः  
 स꣡चेतसो यज्ञ꣡म् इमं꣡ व꣡हन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 का꣡ स्वित् त꣡त्र य꣡जमानस्य संवि꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; Vālakhilya
 यः । अ॒नू॒चा॒नः । ब्रा॒ह्म॒णः । यु॒क्तः । आ॒सी॒त् । का । स्वि॒त् । तत्र॑ । यज॑मानस्य । स॒म्ऽवित् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -120,21 +120,21 @@ popular;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He whom the wise priests bring, when they arrange the offering in many ways, who was employed as alearned **brāhmaṇa**, what is the offerer's knowledge regarding him?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This sacrifice here, which the priests, configuring it in many ways, carry  out with one mind,  
 and the Brahman who was yoked as reciter—what is the Sacrificer’s  
 compact there [=with them]?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, this verse probably treats the Tānūnaptra.
 
@@ -143,17 +143,17 @@ Although Geldner suggests that the yám and yáḥ simply show the free use of t
 As Oldenberg points out, āsīt should no doubt be read as accented ā́sīt; the sketchy transmission of the hymn no doubt accounts for these errors.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Priester dieses Opfer einträchtig leiten, es vielfach modelnd, wenn der gelehrte Brahmane eingespannt ward, welches ist denn dabei die Mitwissenschaft des Opferveranstalters?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wen, dieses Opfer mannichfach gestaltend, die einsichtsvollen Opferpriester fahren, Wer als spruchkundiger Brahmane wirkte, was hat davon der Opferer für Kunde?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда жрецы, придавая жертве разные формы,  
 Руководят ею, единодушные,  

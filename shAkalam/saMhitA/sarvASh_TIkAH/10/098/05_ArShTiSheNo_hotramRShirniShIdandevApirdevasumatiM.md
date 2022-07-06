@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आर्ष्टिषेणो꣡ होत्र꣡म् ऋ꣡षिर् निषी꣡दन्  
 देवा꣡पिर् देवसुमतिं꣡ चिकित्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपो꣡ दिव्या꣡ असृजद् वर्षि꣡या अभि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । उत्ऽत॑रस्मात् । अध॑रम् । स॒मु॒द्रम् । अ॒पः । दि॒व्याः । अ॒सृ॒ज॒त् । व॒र्ष्याः॑ । अ॒भि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ārṣṭiṣeṇo* ← *ārṣṭiṣeṇaḥ* ← *ārṣṭiṣeṇa*
 - \[noun\], nominative, singular, masculine
@@ -117,35 +117,35 @@ popular
 **आर्ष्टिषेणः** ऋष्टिषेणस्य पुत्रः **देवापिः** **ऋषिः** **देवसुमतिं** देवानां कल्याणीं मतिं स्तुतिं **चिकित्वान्** जानन् **होत्रं** होतृकर्म कर्तुं निषीदन् निषण्णो भवति । **स** **उत्तरस्मात्** उपरि वर्तमानादन्तरिक्षाख्यात् समुद्रात् **अधरम्** अधो वर्तमानं पार्थिव **समुद्रम्** **अभि** **दिव्याः** दिवि भवाः **वर्ष्याः** वर्षभवाः **अपः** **असृजत्** सृजतु । अत्र ' आर्ष्टिषेण ऋष्टिषेणस्य पुत्रः' (निरु. २. ११) इत्यादि निरुक्तं द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The seer Devāpi, the son of R̥ṣṭisena, sitting down to the office of  Hotar, cognizant of the favor of the gods —  
 he sent the heavenly rainwaters gushing from the higher to the  
 lower sea.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Knowing the God's good-will, Devapi, Rsi, the son of Rstisena, sate as Hotar.  
      He hath brought down from heaven's most lofty summit the ocean of the rain, celestial waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Rishi Devapi, des Risitisena Sohn, trat das Hotri-Amt an, der sich auf der Götter Gunst versteht, und er ließ aus dem oberen Meere die himmlischen Regenwasser nach dem unteren Meere laufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Devapi, Rischtischena's Sohn, der Dichter, sass nieder und erfuhr die Gunst der Götter; Des Regens Wasser von dem höchsten Himmel, das Meer ergoss er nieder auf die Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сын Риштишены, риши Девапи, усаживающийся  
 Для службы хотара, сведущий в милости богов,  

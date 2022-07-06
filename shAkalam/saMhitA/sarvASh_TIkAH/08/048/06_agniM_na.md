@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ न꣡ मा मथितं꣡ सं꣡ दिदीपः  
 प्र꣡ चक्षय कृणुहि꣡ व꣡स्यसो नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रेवाँ꣡ इव प्र꣡ चरा पुष्टि꣡म् अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 अथ॑ । हि । ते॒ । मदे॑ । आ । सो॒म॒ । मन्ये॑ । रे॒वान्ऽइ॑व । प्र । च॒र॒ । पु॒ष्टिम् । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -152,20 +152,20 @@ genre D
 हे सोम पीतस्त्वं **मा** मां **मथितम्** **अग्निं** **न** अग्निमिव **सं** **दिदीपः** संदीपय । **प्र** **चक्षय** च चक्षुषः संधुक्षणेन । **नः** अस्मान् **वस्यसः** अतिशयेन वसुमतः **कृणुहि** कुरु । **अथ** अधुना **हि** खलु **ते** त्वां हे **सोम** **मदे** मदाय **मन्ये** स्तौमि । तथा सति **रेवानिव** धनवानिह । इवेति संप्रत्यर्थे। **पुष्टिम्** अस्मत्पोषम् **अच्छ** **प्र** **चर** अभिगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, kindle me like the fire ignited by attrition, brighten (our eyes) and make us rich; I praise you nowfor exhilaration; come now, full of wealth, to nourish us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You have enflamed me like a churned fire. Make us conspicuous; make  us better off,  
 for now in the exhilaration of you, Soma, I think of myself as a rich  man. I shall advance to prosperity.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 didīpaḥ must be a redupl. aor. corresponding to trans.-caus. dīpáyati, despite the light redupl. We expect *dīdīpaḥ or even *dīdipaḥ (which is found in B.E.
 
@@ -176,28 +176,28 @@ Pāda-final naḥ serves as object to both verbs in b.
 All standard treatments take prá carā as 2nd sg. impv., but I think it works better as 1st sg. subjunctive. See also IX.82.4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make me shine bright like fire produced by friction: give us a clearer sight and make us better.  
      For in carouse I think of thee, O Soma, Shall I, as a rich man, attain to comfort?
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Like fire produced by friction, make me brilliant; Do thou illumine us and make us richer; For then I seem in thy carouse, O Soma, Enriched. Now enter us for real welfare.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie das ausgeriebene Feuer sollst du mich entflammen. Erleuchte, mach uns besser! Denn nun in deinem Rausche, o Soma, komme ich mir wie ein Reicher vor. Schreite vorwärts zum Gedeihen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O mache hell mich wie entflammtes Feuer, erleuchte uns und mach an Gut uns reicher; In deinem Rausch, o Soma, sprech' zu mir ich: »Ein reicher Mann gelang' ich jetzt zur Wohlfahrt.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как огонь, добытый трением, зажги меня!  
 Дай (нам) озарение! Сделай нас лучше!  

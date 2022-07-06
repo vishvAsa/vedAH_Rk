@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡श् चिद् अक्तोः꣡ प्र꣡ चिकितुर् व꣡सूनि  
 तुवे꣡ अन्त꣡र् दाशु꣡षे म꣡र्तियाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡वा नो दूतो꣡ अभिशस्तिपा꣡वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒नु॒ष्वत् । अ॒ग्ने॒ । इ॒ह । य॒क्षि॒ । दे॒वान् । भव॑ । नः॒ । दू॒तः । अ॒भि॒श॒स्ति॒ऽपावा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *triś* ← *tris*
 - \[adverb\]
@@ -126,36 +126,36 @@ genre M
 हे **अग्ने** **त्वे** त्वयि **अन्तः** मध्ये **अक्तोः** अह्नः। यद्यप्यक्तुरिति रात्रेर्नाम तथाप्यत्राज्यन्ते व्यज्यन्ते रूपादीन्यस्मिन्नित्यह्नो नाम । **त्रिः** त्रिवारं त्रिषु सवनेषु **वसूनि** हवींषि **दाशुषे** हविषां प्रदात्रे मर्त्याय मनुष्याय । तदर्थमित्यर्थः। **प्र** **चिकितुः** प्रवेदयन्त्यृत्विजः । यद्वा । अक्तोरह्नि त्रिस्त्रीन् अग्निमश्वमजं च त्वय्यन्तर्निहितानि प्र चिकितुः । अविदन्नित्यर्थः । अपि च **मनुष्वत्** मनोरिव **इह** ममास्मिन् यज्ञे **दूतः** त्वं **देवान्** **यक्षि** यज । **नः** अस्माकम् **अभिशस्तिपावा** अभिशस्तेः अभिशंसकात् शात्रवात् पावा रक्षिता **भव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In you, **Agni**, thrice in the day, (the priests) make manifest the treasures (of the oblation) for (the benefitof the) mortal donor; worship the gods on this occasion, Agni, as (you did) for **Manu**; be our messenger, ourprotector against malignity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three times at night, good things become visible within you for the pious  mortal.  
 As you did for Manu, o Agni, sacrifice here to the gods. Become our  messenger, protecting us from curses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three times a day in thee are shown the treasures sent for the mortal who presents oblation.  
      Bring the Gods hither like a man, O Agni: be thou our envoy, guarding us from curses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreimal des Nachts werden in dir die Schätze für den opfernden Menschen offenbar. Wie für Manu opfere hier den Göttern, Agni; sei unser Bote, der vor Verdächtigungen schützt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dreimal, sogar des Nachts, erscheinen Güter, die in dir ruhn für sterbliche Verehrer; Nach Menschen Weise opfre hier den Göttern, sei Bote uns, o Agni, Fluch abwehrend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды за ночь возникают в тебе  
 Блага для почтившего (тебя) смертного.  

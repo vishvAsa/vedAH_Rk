@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त꣡म् अं꣡हो न꣡ दुरिता꣡नि म꣡र्तियम्  
 इ꣡न्द्रावरुणा न꣡ त꣡पः कु꣡तश् चन꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 न꣡ त꣡म् म꣡र्तस्य नशते प꣡रिह्वृतिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । दे॒वा॒ । गच्छ॑थः । वी॒थः । अ॒ध्व॒रम् । न । तम् । मर्त॑स्य । न॒श॒ते॒ । परि॑ऽह्वृतिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -133,7 +133,7 @@ genre M
 हे **इन्द्रावरुणा** इन्द्रावरुणौ **तं** **मर्त्यं** मनुष्यम् **अंहः** पापं **न** **नशते** न व्याप्नोति । **न** च **दुरितानि** दुर्गमनानि पापफलानि च प्राप्नुवन्ति । **कुतश्चन** कस्मादपि निमित्तात् **तपः** संतापश्च तं **न** प्राप्नोति । हे देवा देवौ दानादिगुणयुक्ताविन्द्रावरुणौ **यस्य** **मर्त्यस्य** मनुष्यस्य **अध्वरं** यज्ञं **गच्छथः** प्राप्नुथो युवां **वीथः** कामयेथे च यस्य हवींषि **तं** मनुष्यं **परिह्वृतिः** परिबाधा **न** नशते उक्तप्रकारेण न व्याप्नोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ genre M
 Contaminates: naśate = vyāpnoti, encompasses, takes hold of
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Narrow straits do not (come) upon the mortal, nor do difficulties, nor  does burning heat from anywhere, o Indra and Varuṇa,  
 to whose rite you two come, o gods, (whose rite) you two pursue, nor  does a mortal’s crookedness reach him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No trouble, no misfortune, Indra-Varuna, no woe from any side assails the mortal man  
      Whose sacrifice, O Gods, ye visit and enjoy: ne'er doth the crafty guile of mortal injure him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht kommen den Sterblichen Not noch Gefahren an, noch Pein von irgend einem, o Indra und Varuna, des Opfer ihr beiden Götter besuchet und begehret, noch kommt ihm der Fallstrick eines Sterblichen bei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht Unglück, nicht Bedrängniss trifft den Sterblichen, noch naht ihm Leid von ferne, Indra-Varuna, Zu dessen Fest ihr Götter kommt und Opfer speist; des Feindes böse Hinterlist erreicht ihn nicht
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни нужда, ни опасности, ни мучение из-за чего-нибудь  
 (Не приходят) к смертному, о Индра-Варуна,  

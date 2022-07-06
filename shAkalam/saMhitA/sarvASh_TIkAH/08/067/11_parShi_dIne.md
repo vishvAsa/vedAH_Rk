@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡र्षि दीने꣡ गभीर꣡ आँ꣡  
 उ꣡ग्रपुत्रे जि꣡घांसतः  
 मा꣡किस् तोक꣡स्य नो रिषत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 माकिः॑ । तो॒कस्य॑ । नः॒ । रि॒ष॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parṣi* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अदिते **आ** **पर्षि** सर्वतः पालयसि । **दीने** क्षीणे **गभीरे** उदके। उदकनामैतत् ' गभीरं गहनम् ' इति तन्नामसु पाठात् । **उग्रपुत्रे**। उद्गूर्णाः पुत्रा यस्मिन् तत् । तस्मिन्नुदके **जिघांसतः** हिंसतो जालं **तोकस्य** अस्माकं तनयस्य तनयं **माकिः** **रिषत्** मैव हिंसां करोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,29 +94,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Ugraputre, with **Aditi**: O mother of mighty children
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Deliver us, whether we’re in the shallows or the deep, from someone  who wishes to smite us, o you who have powerful sons.  
 Let none of our offspring be injured.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Save us in depth and shallow from the foe, thbu Mother of Strong Sons  
      Let no one of our seed be harmed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rette uns im seichten, im tiefen Wasser vor dem Mordlustigen, du Mutter gewaltiger Söhne! Keiner von unserer Nachkommenschaft soll zu Schaden kommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo's flach, wo's tief ist, rette uns, o Göttermutter, von dem Feind, Vor Leid bewahr die Kinder uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Спаси (нас) в мелкой (и) в глубокой (воде),  
 О мать грозных сыновей, от желающего (нас) убить!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इद꣡म् उ त्य꣡न् म꣡हि महा꣡म् अ꣡नीकं  
 य꣡द् उस्रि꣡या स꣡चत पूर्वियं꣡ गउः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गु꣡हा रघुष्य꣡द् रघुय꣡द् विवेद
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तस्य॑ । प॒दे । अधि॑ । दीद्या॑नम् । गुहा॑ । र॒घु॒ऽस्यत् । र॒घु॒ऽयत् । वि॒वे॒द॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idam*
 - \[noun\], nominative, singular, neuter
@@ -124,7 +124,7 @@ genre M
 **इदमु** इदमेव **श्यत्** प्रसिद्धं **महि** महत् पूज्यं **महां** महतां देवानाम् **अनीकं** समूहरूपं सूर्यमण्डलं वैश्वानर एवेति शेषः । **पूर्व्यं** पूर्वकालीनं पूरकं वा **यत्** मण्डलम् **उस्रिया** क्षीराद्युत्स्राविणी **गौः** अग्निहोत्राद्यर्थं **सचत** सेवते । **ऋतस्य** उदकस्य **पदे** स्थानेऽन्तरिक्षे **अधि** अधिकम् । यद्वा अधीति सप्तम्यर्थानुवादः । **दीद्यानं** द्योतमानं **गुहा** गुहायां रघुष्यत् शीघ्रं स्यन्दमानं **रघुयत्** शीघ्रं गच्छत् सूर्यमण्डलं **विवेद** वैश्वानरमेवेति ज्ञातवानस्मि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,40 +135,40 @@ genre M
 Assemblage of the great (deities): mahāmanīkam, the solar orb identified with **Vaiśvānara**, sūryamaṇḍalam vaiśvānara
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is this great face of the great ones [=Sun], which the ruddy cow  [=Dawn] followed (as it went) in front.  
 She [?] found it shining hidden in the track of truth, going quickly,  
 quick-streaming.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 These variously colored horses of Agni’s are, of course, his flames. The verb in d, ah(u)vanta ‘called’, can refer to the crackling of the flames: actual horses don’t ordinarily ‘call’ anyone. However, I think we’re also dealing with a pun, with ā́…  ah(u)vanta a phonological scrambling of *ā́… avahanta ‘conveyed’. Cf. III.19.4 sá ā́ vaha devátātim …, VII.1.18 .... vakṣi devátātim ácha, with the same obj.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is the Great Ones' mighty apparition which from of old the radiant Cow hath followed.  
      This, shining brightly in the place of Order, swift, hasting on in secret, she discovered.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He has found in secret that great face of the great ones which the bright cow accompanied 1, the ancient (face) shining in the abode of Rita, the quickly running, quickly moving.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist jenes große Antlitz der großen Götter, welchem vorangehenden die morgendliche Kuh nachfolgt. Ich fand das an der Stätte der Wahrheit erstrahlende Antlitz im Verborgenen, das eilig gehende, eilige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diesen grossen Lichtschein der grossen [Flammen], den uralten, welchem die rothe Kuh [die Morgenröthe] nachging, der an des heiligen Werkes Stätte leuchtet, den fand sie auf im Verborgenen den schnellströmenden, eilenden (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот могучий лик могучих (богов),  
 Которого прежде всего сопровождает утренняя корова.  

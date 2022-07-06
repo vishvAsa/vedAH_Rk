@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शत꣡म् मे गर्दभा꣡नां᳐  
 शत꣡म् ऊ꣡र्णावतीना᳐म्  
 शतं꣡ दासाँ꣡ अ꣡ति स्र꣡जः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Vālakhilya
 श॒तम् । दा॒सान् । अति॑ । स्रजः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
@@ -74,31 +74,31 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “A hundred asses a hundred woolly sheep, a hundred slaves, beside garlands.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A hundred donkeys for me, a hundred wooly ewes,  
 a hundred slaves, and garlands beyond that.  
 1140 VIII.57–58
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert Esel, hundert Wollschafe, hundert Sklaven, dazu Kränze.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hundert Esel, hundert wollenreiche Schafe, hundert Sklaven, dazu Blumenkränze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сотню ослов (он) мне (подарил),  
 Сотню шерстистых (овец),  

@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिर्जगती �
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् देवो꣡ देवा꣡नाम् अभवत् पुरो꣡हितो  
 अग्नि꣡म् मनुष्या᳡ ऋ꣡षयः स꣡म् ईधिरे  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिर्जगती �
 मॄळीकं꣡+ ध꣡नसातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । म॒हः । धन॑ऽसातौ । अ॒हम् । हु॒वे॒ । मृ॒ळी॒कम् । धन॑ऽसातये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -130,34 +130,34 @@ genre M
 **देवः** दानादिगुणयुक्तः **अग्निः** **देवानाम्** अन्येषां **पुरोहितः** पुरस्ताद्धृतः **अभवत्** । यद्वा पुरोहितवद्धितकार्यभवत् । यत एवमतः कारणात् तमेव **अग्निम्** **ऋषयः** अतीन्द्रियार्थदर्शिनो **मनुष्याः** मानवा यजमानाः **समीधिरे** संदीपयन्ति । अपि च तम् **अग्निं** **महः** महतः **धनसातौ** धनस्य संभजने निमित्त भूते **अहं** **हुवे** आह्वये । विशेषणसापेक्षस्यापि धनशब्दस्य छान्दसः समासः । यद्वा । महतो यागस्य कर्तारमग्निमित्यर्थः । **धनसातये** धनलाभार्थं **मृळीकं** सुखमेतत्संज्ञं वा मां सोऽग्निः करोत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the god, became the one set in front [/Purohita] of the gods; Agni  have the human seers kindled.  
 Agni do I invoke greatly at the winning of the stakes; (I invoke) his grace  for the winning of the stakes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni the God was made the great High-Priest of Gods, Rsis have kindled Agni, men of mortal mould.  
      Agni I invocate for winning ample wealth. kindly disposed for winning wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der Gott, ward der Bevollmächtigte der Götter; Agni zündeten die menschlichen Rishi´s an. Agni rufe ich bei dem Gewinnen des großen Siegespreises, seine Gnade, um den Siegespreis zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Götterpriester ist Gott Agni angestellt, der Menschen Dichter haben Agni angefacht; Den Agni ruf' ich zur Erlangung grossen Guts zur Gutserlangung uns zur Huld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни-бог был поставлен впереди богов.  
 Агни (всегда) зажигают риши людские.  

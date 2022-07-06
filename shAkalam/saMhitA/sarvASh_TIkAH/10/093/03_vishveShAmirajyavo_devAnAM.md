@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वेषाम् इरज्यवो  
 देवा꣡नां वा꣡र् महः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡श्वे यज्ञे꣡षु यज्ञि꣡याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 विश्वे॑ । हि । वि॒श्वऽम॑हसः । विश्वे॑ । य॒ज्ञेषु॑ । य॒ज्ञियाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, masculine
@@ -92,36 +92,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **विश्वेषामिरज्यवः** भुवनानामीश्वराः **देवानां** द्योतनादिगुणयुक्तानां भवतां **महः** महत् **वाः** वरणीयं धनं विद्यत इति शेषः । तदस्मभ्यं दत्तेति भावः । किंच **विश्वे** सर्वे यूयं **विश्वमहसः** व्याप्ततेजस्काः । किंच **विश्वे** यूयं **यज्ञेषु** **यज्ञियाः** यष्टव्याः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lords of all worlds, (give us) the abundant wealth of the gods; for (you) all are endowed with greatglory (you) all are to be worshipped at the sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you who have control over them all, the shield of the gods is mighty, for they all possess all might; all are worthy of the sacrifice at the  
 sacrifices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye who are Rulers over all, great is your sovran power as Gods.  
      Ye all possess all majesty: all must be served in sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aller Götter Schutz ist großartig, ihr Gebieter, denn alle sind allherrlich, alle sind bei den Opfern opferwürdig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aller Götter Schutz, o Opferbereiter, ist gross; denn sie alle sind allgewaltig, alle bei den Opfern opferwerth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

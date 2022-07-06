@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡या नश् चित्र꣡ आ꣡ भुवद्  
 ऊती꣡ सदा꣡वृधः स꣡खा  
 क꣡या श꣡चिष्ठया वृता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 कया॑ । शचि॑ष्ठया । वृ॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
@@ -85,36 +85,36 @@ genre M
 **सदावृधः** सदा वर्धमानः **चित्रः** चायनीयः पूजनीयः **सखा** मित्रभूत इन्द्रः **कया** **उती** ऊत्या तर्पणेन **नः** अस्मान् **आ** **भुवत्** आभिमुख्येन भवेत् । **शचिष्ठया** प्रज्ञावत्तमया प्रज्ञासहितमनुष्ठीयमानेन **कया** **वृता** केन वर्तनेन कर्मणा चाभिमुखो भवेत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “By what means may he who is ever augmenting, who is wonderful, who is our friend, be present with us, by what most effective rite?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With what help will our brilliant, ever-strengthening comrade be there  for us—  
 with what most powerful troop?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH what help will he come to us, wonderful, ever-waxing Friend;  
      With what most mighty company?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit welcher Hilfe wird uns der wunderbare, immer fördernde Freund beistehen, mit welchem mächtigsten Gefolge?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welcher stärksten Heeresschar?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С какой поддержкой появится  
 Наш яркий, всегда помогающий друг?  

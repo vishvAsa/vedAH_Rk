@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इह꣡ प्रिय꣡म् प्रज꣡या ते स꣡म् ऋध्यताम्  
 अस्मि꣡न् गृहे꣡ गा꣡र्हपत्याय जागृहि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡धा जि꣡व्री विद꣡थम् आ꣡ वदाथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ए॒ना । पत्या॑ । त॒न्व॑म् । सम् । सृ॒ज॒स्व॒ । अध॑ । जिव्री॒ इति॑ । वि॒दथ॑म् । आ । व॒दा॒थः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iha*
 - \[adverb\]
@@ -125,41 +125,41 @@ popular
 हे वधु **ते** तव **इह** अस्मिन् पतिकुले **प्रियं** **प्रजया** सह **समृध्यताम्** । **अस्मिन्गृहे** **गार्हपत्याय** गृहपतित्वाय **जागृहि** बुध्यस्व। **एना** अनेन **पत्या** सह **तन्वं** स्वीयं शरीरं **सं** **सृजस्व** । संसृष्टा भव । **अध** अथ **जिव्री** जीर्णौ जायापती युवां **विदथं** गृहम् आ **वदाथः** आभिमुख्येन वदतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In this your (husband's family) may affection increase with offspring, be watchful over the domestic firein this house; unite your person n with this your husband; and both growing old together govern your household.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here let your heart’s desire be realized through children; here in this  house be vigilant for the ruling of your household.  
 With this husband merge your body. Then (even) as an elderly couple  you two will announce the ceremonial distribution.1524 X.85
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Happy be thou and prosper witlh thy children here: be vigilant to rule thy household in this home.  
      Closely unite thy body with this; man, thy lord. So shall ye, full of years, address your company.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May fortune here with offspring be thy portion, In this abode be of thine household watchful. And with thine husband here be thou united; And till old age do ye address the synod.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hier soll dir Liebes durch Kinder zuteil werden; über diesem Haus wache für das Hausregiment! Mit diesem Gatten vereine deinen Leib und noch im Greisenalter sollt ihr beide weise Rede führen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier möge dir liebes zu Theil werden durch Kinderschar; sei in diesem Hause für den Hausstand wachsam; mit diesem Gatten vermische deinen Leib, und noch als Greise mögt ihr eurer Hausgemeinde gebieten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да выпадет тебе здесь на долю радость через потомство!  
 Да позаботишься ты в этом доме о домашнем хозяйстве!  

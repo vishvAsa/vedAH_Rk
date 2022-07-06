@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह्व꣡यामि देवाँ꣡ अ꣡यातुर् अग्ने  
 सा꣡धन्न् ऋते꣡न धि꣡यं दधामि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 ह्वया॑मि । दे॒वान् । अया॑तुः । अ॒ग्ने॒ । साध॑न् । ऋ॒तेन॑ । धिय॑म् । द॒धा॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hvayāmi* ← *hvā*
 - \[verb\], singular, Present indikative
@@ -78,7 +78,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 अस्मिंस्तृचे देवाः स्तूयन्ते । हे **अग्ने** **अयातुः** अहिंसादिनियमयुक्तेन **ऋतेन** यज्ञेन **साधन्** कामान् साधयन् **देवान्** ह्वयामि । अपि च **धियं** देवानां परिचरणात्मकं कर्म **दधामि** । करोमीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,13 +89,13 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Inoffensive rite:ayātuḥ sādhanṛtena: ayātuḥ = ayātuna, an epithet of ṛtena, ahiṃsakena, yajñena, intending perhaps onewithout animal victims
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I invoke the gods without sorcery, o Agni.  
 Assuring its success through truth, I produce my insight.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg asserts that áyātu- is a determin. cmpd., not a bahuvrīhi, thus ‘nonsorcerer’ rather than ‘not having sorcery/sorcerer’. The published translation reflects -- and indeed reflects somewhat loosely -- a bahuvrīhi interpr., though I think the difference is minor. Renou also takes it as a b.v.: “sans (user de) sorcellerie” (tr. EVP V), “sans user de procédés magiques” (comm., EVP IV); see also Wh n. ad AV tr. VIII.4.16.
 
@@ -104,22 +104,22 @@ Nonetheless, a determin. interpr. is a reasonable alternative: “I -- no sorcer
 Presumably the implied opposition in this vs. is between sorcery in the 1st half-vs. and truth (ṛtá-) of the 2nd half. So also Renou (comm.).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, no demon I invoke the Gods: by law completing it, I form a hymn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe die Götter, der ich kein Zauberer bin, o Agni. Ich mache ein Gedicht, es mit der Wahrheit vollendend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich ruf' die Götter – in Einfalt, Agni, im Rechte wandernd – vollend' ich Andacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зову я без колдовства богов, о Агни,  
 Сочиняю произведение, добиваюсь успеха с помощью закона.

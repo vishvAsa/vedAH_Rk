@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वा꣡चम् इ꣡न्दुर् इष्यति  
 समुद्र꣡स्या꣡धि विष्ट꣡पि  
 जि꣡न्वन् को꣡शम् मधुश्चु꣡तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 जिन्व॑न् । कोश॑म् । म॒धु॒ऽश्चुत॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इन्दुः** सोमः **मधुश्चुतं** मधुनश्च्यावकं **कोशं** मेघम् । असुरः कोशः' इति मेघनामसु पाठात् । **जिन्वन्** प्रीणयन् **समुद्रस्य** अन्तरिक्षस्य **अधि** **विष्टपि** विष्टब्धे स्थाने **वाचं** **प्र** **इष्यति** प्रेरयति । पवित्रे पूयमानः शब्दं करोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,36 +93,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Samudra** and **kośa** = the water into which the **Soma** drops and the droṇakalaśa vessel
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The drop sends forth his speech upon the surface of the sea,  
 quickening the cask dripping with honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The índu- here “sends forth his speech” (prá vā́cam … iṣyati), which supports an animate reading of índu- in the previous vs. Needless to say, Lüders has a heavenly interpr.: índu is the heavenly soma, the sea is the heavenly sea, and the kóśa- is the “Urquell im Himmel.” In the published introduction. I interpr. the sea as the soma in the vessel or the mixing water.
 
 And the speech is presumably the speech of the ritual participants, prompted by the action of pressing the soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu sends forth a voice on high to regions of the sea of air,  
      Shaking the vase that drops with meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Saft entsendet seine Stimme auf der Höhe des Meeres, indem er die von Süßem überfließende Kufe belebt;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und auf des Meeres Fläche hin, lässt Indu schallen seinen Sang, Erregt den methgefüllten Trog.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сок (сомы) подает голос,  
 (Достигающий) поверхности океана,  

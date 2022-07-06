@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व सोम म꣡धुमाँ ऋता꣡वा  
 अपो꣡ व꣡सानो अ꣡धि सा꣡नो अ꣡व्ये  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मदि꣡न्तमो मत्सर꣡ इन्द्रपा꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अव॑ । द्रोणा॑नि । घृ॒तऽव॑न्ति । सी॒द॒ । म॒दिन्ऽत॑मः । म॒त्स॒रः । इ॒न्द्र॒ऽपानः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -110,20 +110,20 @@ genre M
 हे सोम **मधुमान्** मदकररसोपेतः **ऋतावा** यज्ञवान् । 'छन्दसीवनिपौ' इति वनिब्मत्वर्थीयः । तादृशस्त्वम् **अपः** वसतीवरीरेकधनाश्च **वसानः** आच्छादयन् **अधि** अधिकं **सानौ** समुच्छ्रिते अव्ये अविभवे पवित्रे **पवस्व** क्षर । ततः **मदिन्तमः** अतिशयेन मदकरः **इन्द्रपानः** इन्द्रेण पातव्यः **मत्सरः** मादयिता सोमः **घृतवन्ति** उदकवतः **द्रोणानि** द्रोणकलशान् **अव** **सीद** अवतिष्ठस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma** who have exhilarating juice, who are connected with the sacrifice, clothed with water flow upon the elevated fleece; alight upon the water-holding pitchers, you who are most exhilarating, intoxicating, the especial beverage of **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, Soma, rich in honey, following the truth, clothing  yourself in waters, on the sheep’s back.  
 Sit down in the cups full of ghee as the most elating, exhilarating drink  for Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -133,23 +133,23 @@ The first vs. of the new hymn (13a) begins pávasva (see also pavasva in 14a), j
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward, Soma, rich in sweets and holy,. enrobed in waters on the fleecy summit.  
      Settle in vessels that are full of fatness, as cheering and most gladdening drink for Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, o Soma, versüßt, ordnungsgemäß, in Wasser dich kleidend, auf dem Schafrücken! Setz dich in die schmalzigen Kufen, berauschendst, ergötzend als Indra´s Getränk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle, Soma, süss nach heil'ger Ordnung in Flut gekleidet auf der Wolle Gipfel; Setz nieder dich auf butterreiche Kufen, berauschendster, geschlürft von Indra, lust'ger!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся, о сома, медовый, преданный закону,  
 Рядясь в воды, на спине (цедилки) из овечьей шерсти!  

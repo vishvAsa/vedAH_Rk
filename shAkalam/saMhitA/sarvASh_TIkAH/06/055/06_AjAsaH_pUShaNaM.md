@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡जा꣡सः पूष꣡णं र꣡थे  
 निशृम्भा꣡स् ते꣡ जनश्रि꣡यम्  
 देवं꣡ वहन्तु बि꣡भ्रतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दे॒वम् । व॒ह॒न्तु॒ । बिभ्र॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ājāsaḥ* ← *ā*
 - \[adverb\]
@@ -91,20 +91,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अजासः** अजाश्छागाः **निशृम्भाः** निश्रथ्य संबध्य हर्तारः **ते** पूष्णो वाहनतया प्रसिद्धाश्छागाः **जनश्रियम्** । जनं स्तोतृसंघं श्रयति गच्छतीति जनश्रीः । तं **पूषणं** **देवं** **रथे** **बिभ्रतः** धारयन्तः **आ** **वहन्तु** आनयन्तु ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the harnessed goats, drawing the deity in his car, bring hither **Pūṣan**, the benefactor of man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the trusty [?] goats draw Pūṣan on his chariot, him who brings (all) to  readiness *with his sharp (goad),  
 they bearing the god.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents several problems, both located in pāda b: the hapax niśṛmbhā́ḥ and the highly unusual position of the accented 3rd ps. pl. prn. té.
 
@@ -120,23 +120,23 @@ prefer a different value for -śrī́- ‘splendid with his sharp (goad)’ vel 
 On the multiple semantic possibilities of -śrī́- cmpds see Scarlatta (544-54); on this cmpd in particular, Scarlatta (551): my interpr. is basically his choice B (though of course with jana- rather than tejana- as 1st member).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the sure-footed goats come nigh, conveying Pusan on his car,  
      The God who visiteth mankind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die stolzierenden Böcke sollen herfahren, zu Wagen den Gott Pusan bringend, durch welchen die Leute zu Ehren kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Puschan fahr im Wagen her, den Menschenhort der Ziegen Schar, Festtretend, ziehend ihn den Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть козлы, (запряженные) в колесницу,  
 Эти уверенно ступающие (?), повезут (к нам) Пушана,  

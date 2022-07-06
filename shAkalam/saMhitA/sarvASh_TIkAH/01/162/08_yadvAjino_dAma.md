@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वाजि꣡नो दा꣡म संदा꣡नम् अ꣡र्वतो  
 या꣡ शीर्षण्या᳡ रशना꣡ र꣡ज्जुर् अस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡र्वा ता꣡ ते अ꣡पि देवे꣡षु अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यत् । वा॒ । घ॒ । अ॒स्य॒ । प्रऽभृ॑तम् । आ॒स्ये॑ । तृण॑म् । सर्वा॑ । ता । ते॒ । अपि॑ । दे॒वेषु॑ । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -137,7 +137,7 @@ popular
 **वाजिनः** गमनवतोऽश्वस्य **यत्** **दाम** ग्रीवाबद्धा रज्जुः । यच्च **संदानं** सम्यगवच्छेदकं बन्धकं पादबन्धनं दाम अस्ति । **या** च **अस्य** **शीर्षण्या** शिरसि बद्धा खलीनरज्जुः अस्ति ॥ शिरःशब्दात् ‘भवे छन्दसि' इति यत् । “ ये च तद्धिते' (पा. सू. ६. १. ६१ ) इति शीर्षन्भावः। तित्स्वरितः ॥ **यद्वा** **घ** **अस्य** अश्वस्य **आस्ये** मुखे **प्रभृतं** प्रहृतं प्रक्षिप्तं **तृणम्** अस्ति । घशब्दो हार्थे स च प्रसिद्ध्यर्थः । **सर्वा** सर्वाणि **ता** तानि सर्वाणि **अपि** हे अश्व **ते** तव संबन्धीनि **देवेष्वस्तु** सन्तु देवेषु मध्ये भवन्तु । देवत्वं प्राप्नुवन्तु वा ॥ वचनव्यत्ययः । अत्रोपयुक्तानां सर्वेषां देवत्वं किल अश्वस्य तत्प्राप्तिः न आशासनीया ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,36 +152,36 @@ Sandāna = one that fastens his feet; any other part of the harness: śiṣaṇy
 Rajjuḥ = rope
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The lead-rope of the prizewinner, the harness of the steed, the halter on  his head and his bridle,  
 and the grass brought up into his mouth—let all this of yours be also  among the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The exact referents of these pieces of horse tackle are not clear.
 
 Pāda d contains a nice ex. of a neut. pl. subj. with sg. verb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the fleet Courser's halter and his heel-ropes, the head-stall and the girths and cords about him.  
      And the grass put within his mouth to bait him,--among the Gods, too, let all these be with thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Halfter und Fessel des siegesgewohnten Rennpferdes, der Zaum am Kopf, sein Seil, oder das Gras, das in sein Maul gesteckt ward, all das von dir soll bei den Göttern sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was des schnellen Rosses Band und Halfter, was seines Kopfes Zügel und Zaum, oder was das Gras ist, was man seinem Maule zugeführt hat, alles das sei dein eigen bei den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот недоуздок скакового коня, приносящего награды, и узда,  
 Тот ремень на голове, его веревка,  

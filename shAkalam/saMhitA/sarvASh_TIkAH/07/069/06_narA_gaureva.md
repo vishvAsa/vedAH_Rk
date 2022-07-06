@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡रा गौरे꣡व विद्यु꣡तं तृषाणा꣡  
 अस्मा꣡कम् अद्य꣡ स꣡वनो꣡प यातम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ वाम् अन्ये꣡ नि꣡ यमन् देवय꣡न्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 पु॒रु॒ऽत्रा । हि । वा॒म् । म॒तिऽभिः॑ । हव॑न्ते । मा । वा॒म् । अ॒न्ये । नि । य॒म॒न् । दे॒व॒ऽयन्तः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
@@ -128,36 +128,36 @@ genre M;; repeated line
 हे **नरा** नेतारावश्विनौ **गौरिव** गौरा मृगीव **विद्युतं** विशेषेण दीप्यमानं सोमं प्रति **तृषाणा** तृष्णायुक्तौ **अद्य** अस्माकं **सवना** सवनानि **उप** **यातम्** उपागच्छतम् । **पुरुत्रा** बहुषु यज्ञेषु **वां** युवां यजमानाः **मतिभिः** स्तुतिभिः **हवन्ते** **हि** स्तुवन्ति । अतः **वां** युवाम् **अन्ये** यष्टारः **देवयन्तः** देवौ कामयमाना वां युवां **मा** **नि** **यमन्** मा नियच्छन्तु ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders of rites, like (thirsty) cattle, thirsting for the radiant (**Soma**), hasten today to our sacrifice; inmany ceremonies do the pious propitiate you with praises; let not other devout worshippers detain you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you two fine men, like two thirsting buffaloes toward lightning,  journey today toward our pressings,  
 for in many places (people) call upon you two with their thoughts. Let  not the others seeking the gods [=rival sacrificers] hold you down.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like the wild cattle thirsty for the lightning, Heroes, come nigh this day to our libations.  
      Men call on you with hymns in many places, but let not other worshippers detain you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Herren, kommet heute zu unseren Somaspenden wie durstige Büffel nach dem Blitz laufen. Denn vielerorts rufen sie euch mit Gebeten. Nicht sollen euch andere Gottergebene anhalten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Büffel lechzend nach dem Wasserspiegel, o Männer kommt zu unsern Tränken heute; Wol rufen viele flehend überall euch, doch lasst euch nicht von andern frommen halten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О два мужа, как буйволы, мучимые жаждой, (мчатся) вслед за молнией,  
 (Так) сегодня приезжайте на наше выжимание (сомы)!  

@@ -8,7 +8,7 @@ title = "+186"
 ‘आ न इळाभिः' इति सप्तमं सूक्तमेकादशर्चमागस्त्यं त्रैष्टुभं वैश्वदेवम् ।  आ नो वैश्वदेवम् इत्यनुक्रान्तम् । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 186  
 All Gods  
@@ -18,7 +18,7 @@ Although this hymn provides numerous small difficulties and twists of phrase cha
 The beginnings of the verses and half-verses display an intricate pattern of rep etition that cannot be rendered in translation: with matching preverbs in verses 1–2  and 9–10 (the latter showing an especially complex phonological pattern), and the  verses of the middle section (5–8) all opening with utá “and” (as well as additional  matching material). The “and” especially contributes to our sense of the additive  quality of the invitations to the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods As noted in the published introduction, the hymn is knit together by a shifting pattern of repeated initial preverbs and particles: 1a / 2a ā́(with ápi 1c), úpa 4a, which morphs into utá 5a, 6a, 7a, 8a -- the last 3 with utá na īm -- followed by prá 9a, 9b, 10a, 10b (which was anticipated by pṛ́... 8c. For the prá-s note 9a prá nú, 9b prá yu(...), 10 prá ū, 10b pra pū(...). Vs. 11 falls outside the picture. The repeated utá-s of vss. 5-8 reinforce the frequent additive quality of Viśve Devāḥ hymns.
 </details>

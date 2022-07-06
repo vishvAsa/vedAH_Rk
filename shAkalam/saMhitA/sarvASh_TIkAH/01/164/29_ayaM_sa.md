@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ स꣡ शिङ्क्ते ये꣡न गउ꣡र् अभी꣡वृता  
 मि꣡माति मायुं꣡ ध्वस꣡नाव् अ꣡धि श्रिता꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 विद्यु꣡द् भ꣡वन्ती प्र꣡ति वव्रि꣡म् औहत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सा । चि॒त्तिऽभिः॑ । नि । हि । च॒कार॑ । मर्त्य॑म् । वि॒ऽद्युत् । भव॑न्ती । प्रति॑ । व॒व्रिम् । औ॒ह॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -141,7 +141,7 @@ popular
 ध्वंसने मेघेऽधिश्रिता । सा ईदृशी चित्तिभिः। कर्मनामैतत् । स्वकर्मभिः वृष्टिरूपैर्मर्त्यं मरणधर्मार्णं स्थावरजङ्गमरूपं कृत्स्नं जगत् नि हि चकार नीचैः करोति। मनुष्यान् प्रणतान् करोति । ओषध्यादिकं फलेनावनतं करोति । अथवा चित्तिभिः द्योतनलक्षणैः कर्मभिः । विद्युति विद्योतमापद्यमाना  प्रति वव्रिमौहत । वविरिति रूपनाम । ऊहतिरत्र सामर्थ्यात् उपसंहारवाची । प्रत्युपसंहरति । उदकलक्षणं रूपं पुनरादत्ते । रश्मिद्वारा वृष्टमुदकं पुनर्घर्मकाले आदत्ते । एकस्यैव ज्योतिषः त्रेधाकरणाद्विद्युतः सूर्यरश्मिभावः उपपद्यते तमू अकृण्वन्त्रेधा भुवे कम्' (ऋ. सं. १०, ८८, १०) इति वक्ष्यमाणत्वात् । स्तनितस्य विद्युद्भावो मेघविद्युत्स्तनितानामभेदाभिप्रायेण ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,29 +152,29 @@ popular
 Life reposes: anat śaye jīvam ejat, life-breathing comes to repose, reposes or abides
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This hums—that by which the cow is enclosed. She bellows her bellow,  resting upon the smoky (fire).  
 Because she has put down (what is) mortal with the sound “chit-chit,”  becoming lightning, she pushed away her covering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He also snorts, by whom encompassed round the Cow laws as she clings unto the shedder of the rain.  
      She with her shrilling cries hath humbled mortal man, and, turned to lightning, hath stripped off her covering robe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er summt, von dem die Kuhmilch umschlossen wird; sie blökt ihr Blöken, an das sprühende Feuer gesetzt. Durch ihr Geknatter macht sie ja, daß der Sterbliche sich duckt. In den Blitz sich verwandelnd streifte sie ihre Hülle zurück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schnaubt der Stier [wohl Pardschanja] von dem die Kuh [die Wolke] belegt ist, sie brüllt ihr Gebrüll an den spritzenden angeschmiegt; durch ihr Zischen hat sie den Sterblichen erschreckt, denn zum Blitze werdend hat sie ihre Hülle abgestreift.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он гудит – тот, в кого заключена корова.  
 Она мычит мычанье, поставленная на мечущий искры (огонь),  

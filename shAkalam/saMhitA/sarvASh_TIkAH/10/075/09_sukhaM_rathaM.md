@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुखं꣡ र꣡थं युयुजे सि꣡न्धुर् अश्वि꣡नं  
 ते꣡न वा꣡जं सनिषद् अस्मि꣡न् आजउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡दब्धस्य स्व꣡यशसो विरप्शि꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 म॒हान् । हि । अ॒स्य॒ । म॒हि॒मा । प॒न॒स्यते॑ । अद॑ब्धस्य । स्वऽय॑शसः । वि॒ऽर॒प्शिनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sukhaṃ* ← *sukham* ← *sukha*
 - \[noun\], accusative, singular, masculine
@@ -126,37 +126,37 @@ genre M
 **सिन्धुः** देवता **सुखं** सुखकरं शोभनद्वारं वा **अश्विनम्** अश्ववन्तं **रथं** **युयुजे** युनक्ति । **तेन** रथेन **वाजम्** अन्नं **सनिषत्** प्रयच्छतु। **अस्मिन्नाजौ** संग्रामे यज्ञे वा **अस्य** सिन्धुरथस्य **महिमा** **महान्** **हि** **पनस्यते** स्तूयते । कीदृशस्यास्य । **अदब्धस्य** अन्यैरहिंस्यस्य **स्वयशसः** स्वायत्तकीर्तेः **विरप्शिनः** । महन्नामैतत् । महतः ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Sindhu** has harnessed his easy-going, well-horsed, chariot, with it may he bring (us) food; the might ofthis inviolable, great, renowned (chariot) at this sacrifice is praised as mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sindhu has yoked her own well-naved, horsed chariot; with it she will  gain the prize in this contest here,  
 for the great greatness of it invites admiration—it undeceivable,  
 self-glorious, conferring abundance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sindhu hath yoked her car, light-rolling, drawn by steeds, and with that car shall she win booty in this fight.  
      So have I praised its power, mighty and unrestrained, of independent glory, roaring as it runs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihren leichten, mit Rossen bespannten Wagen hat die Sindhu geschirrt, mit dem wird sie den Preis in diesem Rennen gewinnen. Denn dessen hehre Größe wird hochgepriesen, des unbeirrten, selbstherrlichen, überreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den raschen Wagen schirrt mit Rossen Sindhu sich, auf dem gewinne in dem Weltlauf sie den Preis; Denn hoch wird ihre hehre Herrlichkeit gerühmt, der ungehemmten, leuchtenden, gewaltigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приготовила Синдху (свою) легкую колесницу с запряженными конями –  
 Пусть она добудет на ней награду на этих скачках!  

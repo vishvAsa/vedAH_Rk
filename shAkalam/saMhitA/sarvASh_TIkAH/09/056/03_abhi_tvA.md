@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ त्वा यो꣡षणो द꣡श  
 जारं꣡ न꣡ कन्या᳡नूषत  
 मृज्य꣡से सोम सात꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मृ॒ज्यसे॑ । सो॒म॒ । सा॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -83,40 +83,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **त्वा** त्वां याः **दश** दशसंख्याकाः **योषणः** अङ्गुलयः **कन्या** पितृमती कन्यका **जारं** **न** यथा प्रियमभिशब्दायते तद्वत् **अभि** **अनूषत** अभिशब्दायन्ते ताभिः **सातये** अस्माकं धनस्य लाभाय **मृज्यसे** इन्द्रार्थं शोध्यसे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The ten fingers commend you, **Soma**, as a maiden her lover, you are cleansed in order to bestow (wealth on us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ten young women have cried out to you, like a maiden to her lover. You are groomed, o Soma, for winning.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that yóṣan- and kanyā̀- appear together in the same vs. and in fact the latter is explicitly compared to the former. It is not clear to me whether they are meant here to refer to different types or lifestages of a young girl / maiden.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ten Dames have sung to welcome thee, even as a maiden greets her love:  
      O Soma, thou art decked to win.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir riefen die zehn Frauen zu wie ein Mädchen ihrem Buhlen. Du wirst geputzt, o Soma, zum Siegesgewinn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zehn Jungfraun jauchzten jetzt dir zu, gleichwie dem Bräutigam die Braut, Sie läutern, Soma, dich um Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

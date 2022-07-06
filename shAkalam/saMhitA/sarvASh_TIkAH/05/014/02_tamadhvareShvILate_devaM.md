@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अध्वरे꣡षु ईळते  
 देव꣡म् म꣡र्ता अ꣡मर्तियम्  
 य꣡जिष्ठम् मा꣡नुषे ज꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 यजि॑ष्ठम् । मानु॑षे । जने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -78,41 +78,41 @@ genre M
 **मर्ताः** मनुष्याः **देवं** द्योतमानम् **अमर्त्यम्** अमरणधर्माणं **मानुषे** मनुष्याणां संबन्धिनि **जने** लोके **यजिष्ठं** यष्टृतमं **तम्** अग्निम् **अध्वरेषु** सप्ततन्तुषु **ईळते** स्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mortals worship him, an immortal divinity, at their sacrifices, most adorable among the human race.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him they invoke in the rites—mortals (invoke) the immortal one,  the god—  
 to be the best sacrificer among the people of Manu,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At high solemnities mortal men glorify him the Immortal, best  
      At sacrifice among mankind.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Him, the immortal god, the mortals magnify at their sacrifices, the best sacrificer among the tribe of men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn berufen zum Gottesdienst die Sterblichen den unsterblichen Gott, der unter dem Menschenvolk am besten opfert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn preisen bei den Festen sie, den ew'gen Gott, die Sterblichen, Der Menschheit besten Opferer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его призывают во время обрядов,  
 Бога бессмертного, смертные,  

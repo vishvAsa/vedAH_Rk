@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्यु꣡न्महसो न꣡रो अ꣡श्मदिद्यवो  
 वा꣡तत्विषो मरु꣡तः पर्वतच्यु꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स्तन꣡यदमा रभसा꣡ उ꣡दोजसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ब्द॒ऽया । चि॒त् । मुहुः॑ । आ । ह्रा॒दु॒नि॒ऽवृतः॑ । स्त॒नय॑त्ऽअमाः । र॒भ॒साः । उत्ऽओ॑जसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidyunmahaso* ← *vidyut*
 - \[noun\], feminine
@@ -124,40 +124,40 @@ genre M
 **विद्युन्महसः** विद्योतमानतेजसः **नरः** वृष्ट्यादेर्नेतारः **अश्मदिद्यवः** व्याप्तायुधा अश्मसारमयायुधा वा **वातत्विषः** प्राप्तदीप्तयः **पर्वतच्युतः** पर्वतानां मेघानां वा च्यावयितारः **अब्दया** **मुहुः** उदकानां दातारः ॥ जसः याजादेशः । चिदिति पूरणः ॥ **ह्रादुनीवृतः** ह्रादुन्याः अशनेः प्रवर्तकाः **स्तनयदमाः** । अमाशब्दः साहित्यवाची । शब्दोपेतगणा इत्यर्थः । **रभसाः** वृष्ट्यर्थमुद्युञ्जानाः **उदोजसः** उद्धतबला: **मरुतः** वृष्ट्यर्थं प्रादुर्भवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Maruts** (appear) radiant with lightning, leaders (of the rain), armed with weapons of adamant, blazing with the wind, the precipitators of mountains, the repeated distributors of water, wielders of the thunderbolt, roaring in concert, combining (to send rain), and of exceeding strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With lightning as their might and stones as their missiles, the superior  men, the Maruts, turbulent as the wind, shaking the mountains, (though) just with a desire to give water, roll hailstones in an instant— (they) with thundering onslaught, violent, overpowering.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda-final parvatacyút- returns here (from 1b) but in a different form: nom. pl. -aḥ rather than dat. sg. -e.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They gleam with lightning, Heroes, Casters of the Stone, wind-rapid Maruts, overthrowers of the bills,  
      Oft through desire to rain coming with storm of hail, roaring in onset, violent and exceeding strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die blitzstrahlenden Männer mit den Steingeschossen, heftig wie der Wind, Berge erschütternd, die Marut, die, obwohl sie Wasser geben wollen, im nu Hagel herbeirollen, von donnernder Wucht, wild, kraftgehoben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Blitzglänzend sind die Männer, Felsen schleudern sie, windschnell die Maruts, sie, die Bergerschütterer; Zu regnen, rollen rasch sie Hagelwetter her, mit Donner stürmend, ungestüm und überstark.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мужи, могучие молнией, мечущие камни,  
 Сильные ветром, Маруты, сотрясающие горы,  

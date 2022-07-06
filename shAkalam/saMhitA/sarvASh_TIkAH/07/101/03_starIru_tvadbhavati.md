@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तरी꣡र् उ त्वद् भ꣡वति सू꣡त उ त्वद्  
 यथावशं꣡ तनु꣡वं चक्र एषः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡न पिता꣡ वर्धते ते꣡न पुत्रः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 पि॒तुः । पयः॑ । प्रति॑ । गृ॒भ्णा॒ति॒ । मा॒ता । तेन॑ । पि॒ता । व॒र्ध॒ते॒ । तेन॑ । पु॒त्रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *starīr* ← *starīḥ* ← *starī*
 - \[noun\], nominative, singular, feminine
@@ -146,7 +146,7 @@ genre D
 त्वदिति तकारान्तोऽन्यशब्दपर्यायोऽनुदात्तः सर्वनामसु पठितः। अस्य पर्जन्यस्य **त्वत्** अन्यद्रूपं **स्तरीः** निवृत्तप्रसवा गौः सा यथा न दोग्ध्री तद्वद्वर्षुकं न **भवति** । **उ** इति पूरकः । द्वितीय उशब्दश्चार्थे । **त्वत्** अन्यच्च रूपं **सूते** धेनुवत्प्रसूते। उदकानि प्रवर्षति । **एषः** पर्जन्यः **तन्वं** स्वकीयं शरीरं **यथावशं** यथाकामं स्तरीत्वेन धेनुत्वेन च **चक्रे** करोति । अपि च **पितुः** दिवः सकाशात् **पयः** वृष्ट्युदकं **माता** पृथिवी **प्रति** **गृभ्णाति** प्रतिगृह्णाति । हृग्रहोर्भः । इति भत्वम् । प्रतिगृहीतेन **तेन** हविरात्मना परिणतेन **पिता** द्युलोकः **वर्धते** । **तेन** एवोदकेन **पुत्रः** पृथिव्यां भवः प्राणिसंघोऽपि वर्धते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -157,14 +157,14 @@ genre D
 He takeswhichever form he plural ases: the firmament withholds or sends down rain at will; the mother receives the milk: thefather is the sky, earth the mother, who receives the rain from the former, which, producing the means of offeringlibations and oblations, returns again to the parent heaven, as well as suppports his offspring-- all livingcreatures
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sometimes he becomes a barren cow, sometimes he gives birth; he has  fashioned his own body as he wished.  
 The mother accepts the milk of the father. With it the father grows  
 strong, with it the son.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As disc. in the published introduction, this vs. is full of gender ambiguity and gender switching, in service of the Vedic love of paradox. Although the subject of the first hemistich is surely Parjanya, he is not identified by name, and a masc. gender pronoun only appears as the very last word of the half-vs. (… eṣáḥ) -- while the state and activity ascribed to the subject of pāda a are quintessentially female.
 
@@ -175,23 +175,23 @@ But the action, at least in pāda c, is paradoxical, since it is the “milk” 
 Assuming that the father is Heaven, this is probably an early ref. to the water cycle: rain produces plants, which ultimately produce the offerings sent to heaven via the smoke of sacrifice, swelling the clouds that then again produce rain. By most accounts the “son” who is also strengthened in d refers to mankind, the offspring of the earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now he is sterile, now begetteth offspring, even as he willeth doth he change his figure.  
      The Father's genial flow bedews the Mother; therewith the Sire, therewith the son is nourished.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bald wird er eine unfruchtbare Kuh, bald gebiert er; nach Belieben wandelt er seinen Leib. Die Mutter empfängt die Milch des Vaters. Dadurch gedeiht der Vater, dadurch der Sohn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bald ist sie ohne Frucht und bald gebiert sie, und wie er will, gestaltet er den Leib ihr; Des Vaters Samen nun empfängt die Mutter, durch ihn erstarkt der Sohn und auch der Vater.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 То он становится яловой коровой, то рожает;  
 По своей воле он создает себе тело.  

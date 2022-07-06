@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्रानन्दा꣡श् च मो꣡दाश् च  
 मु꣡दः प्रमु꣡द आ꣡सते  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 काम॑स्य । यत्र॑ । आ॒प्ताः । कामाः॑ । तत्र॑ । माम् । अ॒मृत॑म् । कृ॒धि॒ । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatrānandāś* ← *yatra*
 - \[adverb\]
@@ -137,7 +137,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 यत्र यस्मिँल्लोके आनन्दादयः **आसते** । तेषामल्पो भेदो द्रष्टव्यः । **यत्र** च लोके **कामस्य** काम्यमानस्य देवस्य सर्वे **कामाः**। **आप्ताः** प्राप्त भवन्ति **तत्र** **माममृतं** **कृधि** । एतत्तु त्वया विना न घटत इति हे सोम एवं **परि** **स्रव** ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,14 +148,14 @@ popular;; epic anuṣṭubh (525);; repeated line
 The wishes of the wisher: the desired god
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where joys and delights, elations and exaltations dwell,  
 where the desires of desire are obtained, there make me immortal.  
 – O drop, flow around for Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
 <details open><summary><h2>08-11 ...{Loading}...</h2></summary>
 
@@ -164,23 +164,23 @@ In addition to the fifth pāda refrain found throughout the hymn (as well as IX.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make me immortal in that realm where happiness and transports, where  
      Joys and felicities combine, and longing wishes are fulfilled. Flow, Indu, flow for Indra's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo Wonnen, Freuden, Lüste und Belustigungen wohnen, wo die Wünsche des Wunsches erlangt werden, dort mache mich unsterblich! Fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo Freude, Lust und Wonne thront, wo Fröhlichkeit und Seligkeit, Wo sich der Lust Verlangen stillt, da mache du unsterblich mich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

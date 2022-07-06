@@ -8,7 +8,7 @@ title = "+009"
 ‘अहश्च' इति सप्तर्चं नवमं सूक्तं भरद्वाजस्यार्षं वैश्वानराग्निदेवताकम् । अनुक्रान्तं च- ‘अहश्च' इति । व्यूळहे दशरात्रे षष्ठेऽहन्याग्निमारुतशस्त्रे वैश्वानरनिविद्धानमिदम् । सूत्र्यते हि- अहश्च कृष्णं मध्वो वो नाम ' ( आश्व. श्रौ. ८. ८) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 9 (450)  
 Agni Vaiśvānara  
@@ -22,7 +22,7 @@ In verse 6 the 1st-person poet returns, and with clear excitement testifies to t
 The hymn has a neatly structured omphalos shape. Verses 1 and 7 are the ritual  frame; verses 2 and 6 contain the contrasting 1st-person self-descriptions of the  poet; verses 3 and 5 provide the inner frame, identifying Agni as the object of per ception of both gods and men; while verse 4 is the omphalos, with its insistent,  deictic revelation of Agni immediately before the poet’s (and our) eyes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni Vaiśvānara On the structure of this complex hymn and for a verse-by-verse synopsis, see published introduction. It has been much translated and discussed -- in addition to the usual treatments, see, e.g., Thieme, Gedichte; Renou, Hymnes spéculatifs; Wendy Doniger, Rig Veda. Oldenberg (ZDMG 55.296-97) gives a detailed (for him) account of the contents and pronounces it an ākhyāna, an opinion repeated in the Noten, though he doesn’t spell out who the speakers might be verse by verse. Gonda (Vedic Literature, 99) calls it “a profound glorification of Agni as the great immortal conceived as the inner light and placed among the mortals to guide them in the mysteries and intricacies of the ritual.” As discussed in the published introduction, the hymn concerns the development of the poet’s craft and resembles IV.5, in which the poet also receives his poetic inspiration from Agni Vaiśvānara. I do not see the poetic contest (brahmodya) that others (starting with Geldner [Ved. Stud. II.181-82], fld by Renou, Doniger, George Thompson [“Brahmodya”]) take as the mise en scène of the hymn.
 

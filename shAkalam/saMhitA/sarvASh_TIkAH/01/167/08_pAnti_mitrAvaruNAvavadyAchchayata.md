@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पा᳐꣡न्ति मित्रा꣡व꣡रुणाव् अवद्या꣡च्  
 च꣡यत ईम् अर्यमो꣡ अ꣡प्रशस्तान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वावृध꣡ ईम् मरुतो दा꣡तिवारः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒त । च्य॒व॒न्ते॒ । अच्यु॑ता । ध्रु॒वाणि॑ । व॒वृ॒धे । ई॒म् । म॒रु॒तः॒ । दाति॑ऽवारः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pānti* ← *pā*
 - \[verb\], plural, Present indikative
@@ -109,7 +109,7 @@ genre M
 हे मरुतः युष्मत्संबन्धिनो देवाः **मित्रावरुणौ** अहोरात्र्यभिमानिदेवौ **अर्यमो** । अर्यमा उ इति निपातसमुदायात्मकम् एकं पदम्। उ शब्दोऽपिशब्दार्थे । अर्यमापि । एते त्रयोऽपि **ईम्** अमुं लोकं यज्ञं वा **अवद्यात्** गर्ह्यात् अयथानुष्ठानात् जगत्पक्षे व्यवहारप्रतिबन्धरूपात् **पान्ति** रक्षन्ति । तथा एतेषाम् **अप्रशस्तान्** क्षीणानपि पदार्थान् **चयते** चातयन्ति नाशयन्ति । **उत** अपि च एतैः प्रेरितानि **अच्युता** अच्युतान्यस्रावीणि अत एव **ध्रुवाणि** अविचलानि मेघस्थोदकानि **च्यवन्ते** च्यावयन्ति वा एते । **अहोरात्रे** वै मित्रावरुणावहोरात्राभ्यां खलु वै पर्जन्यो वर्षति ' इति श्रुतेः । यद्वा । अच्युतानि ध्रुवाणि धनानि च्यवन्ते । कदेति उच्यते । हे मरुतः युष्मदीयः **ईम्** अयं कालः **दातिवारः** प्रदेयजलः खण्डितमेघो वा यदा **ववृधे** वर्धते । तदा मित्रादयो देवा युष्मदनुकूलव्यापारेण जगत् रक्षन्तीत्यर्थः । यद्वा । दातिवारो दत्तवरणीयहविर्लक्षणधनो यजमानः हे मरुतः ईम् एनान्युष्मान्ववृधे वर्धयति यदा तदेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,13 +120,13 @@ genre M
 When the water-yielding season: vāvṛdha im maruto dātivāraḥ: the last term may refer to the **yajamāna**; i.e. when, Maruts, the worshipper, or he by whom the offering is presented, promotes this your increase
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mitra and Varuṇa (and Aryaman) protect from the unspeakable (fault);  Aryaman makes the unlaudable (men) atone.  
 And the unstirrable fixed things stir, (when) your wish-granting (flock)  has grown strong, o Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because the verb in pāda a, pā́nti, is plural, not dual, at least one additional subject is needed in addition to du. mitrā́váruṇā. The obvious one to supply is their partner Aryaman, who appears in the next pāda.
 
@@ -135,22 +135,22 @@ In d Oldenberg, Geldner, Renou, and Witzel Gotō identify dā́tivāraḥ ‘wis
 of vāvṛdhé also fits nicely with 9, which treats the “swelling strength” (śávas-) of the Maruts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mitra and Varuna they guard from censure: Aryaman too, discovers worthless sinners Firm things are overthrown that ne'er were shaken: he prospers, Maruts, who gives choice oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es schützen Mitra und Varuna vor Makel, während Aryaman die Unlöblichen büßen läßt. Mag auch das Unerschütterliche, das Feste wanken, der Wunschgewährer gedieh doch, ihr Marut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor Sünde schützen Varuna und Mitra, und Arjaman bestraft die tadelnswerthen; Es wankt das feste auch, das unbewegte; gestärkt ist der, der gerne gibt, o Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Митра, Варуна (и Арьяман) защищают (добродетельных) от порицания,  
 Арьяман же наказует недостойных.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् जुषत नो गि꣡रो  
 हो꣡ता यो꣡ मा꣡नुषेषु आ꣡  
 स꣡ यक्षद् दइ꣡वियं ज꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 सः । य॒क्ष॒त् । दैव्य॑म् । जन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -94,41 +94,41 @@ genre M
 **होता** देवानामाह्वाता **यः** **अग्निः** **मानुषेष्वा** वसति **सः** अग्निः **नः** अस्माकं **गिरः** स्तुतीः **जुषत** सेवताम् । सोऽग्निः **दैव्यं** **जनं** देवसंबन्धिनं जनं **यक्षत्** यजतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Agni**, who among men is the invoker of the gods, accept our praises; may he offer sacrifice to the divine beings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni is pleased at our songs—he the Hotar, who is here among the sons  of Manu.  
 He will perform sacrifice to the divine race.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Agni, Priest among mankind, take pleasure in our songs of praise,  
      And worship the Celestial Folk.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May Agni take pleasure in our prayers, he who is the Hotri among men. May he sacrifice 1 to the divine host.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni möge an unserer Lobrede Gefallen finden, der der Opferpriester unter den Menschen ist. Er verehre das göttliche Volk.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Lieder nehme Agni an, der bei den Menschen Priester ist; Der Götter Volk verehre er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Агни наслаждается нашей песней,  
 (Тот,) кто хотар среди людей.  

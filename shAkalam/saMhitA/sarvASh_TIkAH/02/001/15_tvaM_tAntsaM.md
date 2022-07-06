@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ता꣡न् सं꣡ च प्र꣡ति चासि मज्म꣡ना  
 अ꣡ग्ने सुजात प्र꣡ च देव रिच्यसे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡नु द्या꣡वापृथिवी꣡ रो꣡दसी उभे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पृ॒क्षः । यत् । अत्र॑ । म॒हि॒ना । वि । ते॒ । भुव॑त् । अनु॑ । द्यावा॑पृथि॒वी इति॑ । रोद॑सी॒ इति॑ । उ॒भे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -157,48 +157,48 @@ genre M
 हेअग्ने त्वम्मज्मनाबलेनतान् प्रसिद्धान्देवान् सञ्चासि सङ्गच्छसि तैःसहितोपिभवसि तथा साम- र्थ्येन प्रतिचासि प्रत्येकन्तैर्विभिन्नःप्रतिनिधिर्वाभवसि प्रतिस्वीकारसमयेतैः सहितोभवसि वियुक्तश्च- भवसीत्यर्थः हेसुजात शोभनजनन मन्त्रसहितमथनेनोत्पन्नत्वादग्नेःसुजन्मत्वं तादृशाग्ने हेदेव प्ररि- च्यसेच तैर्बलेनचाधिकोभवसि आधिक्येकारणमाह यत् यस्मात्—अत्रास्मिन्यज्ञेपृक्षः सर्वमप्यन्नं व्यत्ययेनबहुवचनं तेतवैवविभुवत् समर्थम्भवति महिनामाहात्म्येन यतोमहत्त्वमस्ति अतइत्यर्थः कुत्रेतितदुच्यते रोदसी सर्वनिरोदनस्वभावे उभेद्यावापृथिवीद्यावापृथिव्यावनुतेप्रतितयोर्मध्येव्याप्त- इत्यर्थः त्वयिहुतमन्नेत्वन्महत्त्वेनलोकत्रयेव्याप्तमित्यर्थः ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are associated, **Agni**, by your vigour, with those (gods); divine, well-born Agni, you exceed (them in strength); for the (sacrificial) food that is here prepared is, by your power, subsequently diffused through both regions, heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are both equal and a counter(part) to these by your might, and, o  Agni, well-born god, you surpass them,  
 since your strengthening nourishment here extends in its greatness  through heaven and earth, through both world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On práti … asi, see comm. ad 8d. As far as I can determine, this is the only occurrence of sám √as in the RV and, rather than meaning something like ‘be together’, it seems to have an idiomatic meaning like prati + ACC, ‘be equal to’ (as if to samá- vel sim.).
 
 On the word order in pāda c, see comm. ad VI.15.14.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With these thou art united, Agni; yea thou, God of noble birth, surpassest them in majesty,  
      Which, through the power of good, here spreads abroad from thee, diffused through both the worlds, throughout the earth and heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Thou art united with them and equal to them in strength, O well-born Agni, nay, thou surpassest them, O god, when thy power 2 has expanded here in its greatness over Heaven and Earth, over both worlds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist diese alle zusammen und wiegst sie an Größe auf und überragst sie noch, du edelgeborener Gott Agni, wenn sich deine Kraft hier in voller Größe entfaltet, über Himmel und Erde, über beide Rodasi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich bist du diesen, ebenbürtig auch an Macht, ja, übertriffst sie, Agni, schöngeborner Gott; Als hier das Lastross herrlich dir gerüstet war, erfülltest Erd' und Himmel du, das Weltenpaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты и похож (на них) и равен им величием,  
 О Агни прекраснорожденный, и превосходишь (их), о бог,  

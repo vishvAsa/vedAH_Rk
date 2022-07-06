@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् उ꣡लूको व꣡दति मोघ꣡म् एत꣡द्  
 य꣡त् कपो꣡तः पद꣡म् अग्नउ꣡ कृणो꣡ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡स्मै यमा꣡य न꣡मो अस्तु मृत्य꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यस्य॑ । दू॒तः । प्रऽहि॑तः । ए॒षः । ए॒तत् । तस्मै॑ । य॒माय॑ । नमः॑ । अ॒स्तु॒ । मृ॒त्यवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -137,36 +137,36 @@ popular
 **उलूकः** घूकसंज्ञः पक्षी **यत्** अशोभनं **वदति** ब्रवीति आत्मीयेन शब्देन सूचयति **एतत्** **मोघं** निष्फलमस्तु । **कपोतः** च **अग्नौ** अग्निमति गृहमध्ये **यत्** **पदं** **कृणोति** करोति एतदपि मोघं निर्वीर्यमस्तु । **प्रहितः** प्रेषितः **एषः** कपोतः **यस्य** स्वामिनः **दूतः** अनुचरो भवति **तस्मै** नाम **मृत्यवै** मारयित्रे **यमाय** **एतत्** **नमः** प्रणामः **अस्तु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that which the owl shrieks be in vain, (and may it be in vain) that the pigeon takes his plural ce uponthe fire; may this reverence be paid to **Yama**, (the god of) Death, as whose messenger he is sent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the owl screeches, that comes to nothing; likewise when the dove  set its footprint in the fire.  
 The one for whom it was sent forth as messenger—to that one let there  be reverence: to Yama, (who is) Death.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The screeching of the owl is ineffective and when beside the fire the Dove hath settled,  
      To him who sent it hithcr as an envoy, to him be reverence paid, to Death, to Yama.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was die Eule schreit, da soll eitel sein, und wenn die Taube ihren Fuß an das Feuer setzt. Als dessen Botin sie hierher geschickt ist, diesem Yama, dem Tode, sei eine Verbeugung gemacht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn wir, o Indra, Brahmanaspati, Unrecht begehen, so möge uns der weise Herr der Angiras [Brahmanaspati] vor der Bedrängniss der Hasser beschützen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что сова вещает – пустое это,  
 И что голубь забрался к огню.  

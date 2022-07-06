@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ त्वा ज꣡नास ई꣡ळते  
 सबा꣡धो वा꣡जसातये  
 स꣡ बोधि वृत्रतू꣡रिये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सः । बो॒धि॒ । वृ॒त्र॒ऽतूर्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -79,7 +79,7 @@ genre M
 हे अग्ने **यं** **त्वा** त्वां **जनासः** जनाः स्तोतारो वा **वाजसातये** अन्नस्य लाभाय **सबाधः** निर्बन्धरूपबाधोपेताः सन्तः **ईळते** स्तुवन्ति **सः** त्वं **वृत्रतूर्ये** वैरिनाशनाय पापक्षयाय वा **बोधि** बुध्यस्व । अथवा वृत्रतूर्ये संग्रामे बोधि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,29 +90,29 @@ genre M
 Or, vṛtraturye, in battle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You whom the peoples urgently invoke to win the prize,  
 be attentive when it’s the time for overcoming obstacles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou whom the priestly folk implore to aid the gathering of the spoil,  
      Such be thou in the fight with foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, den die Leute eindringlich anrufen, um den Siegerpreis zu gewinnen, hab du im Feindeskampf dessen acht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie dich die Menschen eifervoll verehren, Beute zu empfahn, So zeige dich im Feindeskampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

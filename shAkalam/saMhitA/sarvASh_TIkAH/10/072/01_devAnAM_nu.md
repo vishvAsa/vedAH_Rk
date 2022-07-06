@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡नां नु꣡ वयं꣡ जा꣡ना  
 प्र꣡ वोचाम विपन्य꣡या  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यः꣡ प꣡श्याद् उ꣡त्तरे युगे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 उ॒क्थेषु॑ । श॒स्यमा॑नेषु । यः । पश्या॑त् । उत्ऽत॑रे । यु॒गे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
@@ -102,36 +102,36 @@ popular;; epic anuṣṭubh (380)
 अदितिर्दाक्षायण्यनेन सूक्तेन स्वयं यथादित्यानजनयत्तद्ब्रवीति । बृहस्पत्यृषिपक्षे स ऋषिरदितेः सकाशादादित्योत्पत्तिप्रकारमाह । **वयं** **देवानाम्** आदित्यानां **जाना** जन्मानि **प्र** **वोचाम** प्रकथयाम । **विपन्यया** विस्पष्टया वाचा । वयमिति वोचामेति चोभयत्र पूजार्थं बहुवचनम् । अथैकवदाह । **यः** देवानां गणः पूर्वे युग उत्पन्नोऽपि **उक्थेषु** **शस्यमानेषु** यागे शस्त्रेष्वनुष्ठीयमानेषु **उत्तरे** **युगे** वर्तमानं स्तुवन्तं स्तोतारं **पश्यात्** पश्यति । अनेकेष्वपि युगेषु गतेषु कर्मसु स्तूयमानो वर्तत इत्यर्थः ॥ .
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us proclaim with a clear voice the genitive rations of the gods (the divine company), who, when theirpraises are recited, look (favourably on the worshipper) in this latter age.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now amid acclaim we will proclaim the births of the gods,  
 so that one in a later generation will see (them) as the hymns are recited.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET US with tuneful skill proclaim these generations of the Gods,  
      That one may see them when these hymns are chanted in a future age.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun wollen wir auf Beifall hoffend die Geburten der Götter in vorgetragenen Liedern verkünden, wenn die einer in dem späteren Zeitalter noch zu erschauen vermag.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Götter Ursprung wollen wir verkünden mit Bewunderung In Sprüchen nun, gesagt für den, der sie erschau in spätrer Zeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сейчас мы хотим провозгласить  
 С воодушевлением рождения богов  

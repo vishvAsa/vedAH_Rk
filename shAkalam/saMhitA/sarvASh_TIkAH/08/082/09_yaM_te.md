@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ ते श्येनः꣡ पदा꣡भरत्  
 तिरो꣡ र꣡जांसि अ꣡स्पृतम्  
 पि꣡बे꣡द् अस्य त्व꣡म् ईशिषे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पिब॑ । इत् । अ॒स्य॒ । त्वम् । ई॒शि॒षे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -96,7 +96,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे इन्द्र **श्येनः** शंसनीयः पक्षी । पक्षिरूपधारिणी गायत्रीत्यर्थः । स पक्षी **रजांसि** अन्तरिक्षादिलोकस्थितान् सोमपालान् गन्धर्वान् **तिरः** तिरः कुर्वन् **अस्पृतं** शत्रुभिरस्पृष्टं सन्तं **यं** सोमं **ते** त्वदर्थं **पदा** पद्भ्याम् **आभरत्** । पदेति सवनद्वयाभिप्रायम् । सवनद्वय आहृतं सोमं त्वं पिब । गायत्री पक्षिरूपं धारयित्वा पद्यां   सोममाहरदित्यत्रार्थे यजुर्ब्राह्मणं--' पद्यां अ द्वे सवने समगृह्णान्मुखेनैकं तस्माद्द्वे सवने शुक्रवती प्रातःसवनं च माध्यंदिनं च ' (तै. सं. ६. १. ६. ४ ) इति । तं पिबैव । त्वमेव तस्येश्वरो भवसि ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,34 +107,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Whatever the hawk bore: legend in **Taittirīya** Saṃhitā6.1; **Aitareya** **Brāhmaṇa** 3.25-27: **gāyatri** as a hawk brought the Soma from heaven. The portions which sheseized with her feet became the morning and the midday libation, that which she seized with her bill became theevening libation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That which the falcon brought to you with his foot across the airy  realms—the one that could not be recaptured—  
 drink of it. You are master of it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On áspṛta- and the stealing of Soma, see comm. ad IX.3.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That which the Hawk brought in his claw, inviolate, through the air to thee,  
      Drink thou, for thou art Lord thereof.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den dir der Falke mit dem Fuße gebracht hat durch die Lüfte, ohne ihn loszulassen, von dem trinke doch, Indra; du hast das Anrecht darauf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den unbestrittnen, den der Aar dir trug am Fusse durch die Luft, Den trinke, dir gehört er an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

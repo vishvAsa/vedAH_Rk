@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ पूर्वजे꣡ पित꣡रा न꣡व्यसीभिर्  
 गीर्भिः꣡ कृणुध्वं स꣡दने ऋत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡नेन यातम् म꣡हि वां व꣡रूथम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । नः॒ । द्या॒वा॒पृ॒थि॒वी॒ इति॑ । दैव्ये॑न । जने॑न । या॒त॒म् । महि॑ । वा॒म् । वरू॑थम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -128,44 +128,44 @@ genre M
 हे अस्मदीयाः स्तोतारो यूयं **नव्यसीभिः** नवतराभिः **गीर्भिः** स्तुतिरूपाभिर्वाग्भिः **ऋतस्य** यज्ञस्य **सदने** स्थानभूते **पूर्वजे** पूर्वं प्रजाते **पितरा** पितरौ विश्वस्य मातापितृभूते द्यावापृथिव्यौ **प्र** **कृणुध्वं** पुरस्कुरुत । अथ प्रत्यक्षस्तुतिः । हे **द्यावापृथिवी** द्यावापृथिव्यौ युवां **दैव्येन** देवसंबन्धिना **जनेन** सह **नः** अस्मानभि **आ** **यातम्** आगच्छतम् । किमर्थम् आयातमित्युच्यते । **वां** युवयोः **वरूथम्** अस्माभिर्वरणीयं **महि** महत्। यद्धनमस्तीति शेषः। तद्धनमस्मभ्यं दीयतामित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “plural ce before (us) in the hall of sacrifice, with new songs, the ancient parents (of all beings); come to us,Heaven and Earth, with the celestial people, for vast is your protecting (wealth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With newer hymns bring forward into the seat of truth the two  
 ancient-born parents.  
 O Heaven and Earth, journey here to us with the divine folk. Great is  your protection.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unusually, this vs. requests and depicts physical movement of Heaven and Earth, which is conceptually awkward, given that Heaven at least has a fixed position at a great distance from our ritual ground. I have argued elsewhere (“The Divine Revolution of Ṛgveda X.124: A New Interpretation. Beyond Asuras and Devas,” Staal Ged., 2016) that one of the likely reasons for the eclipse of the inherited divinity and original head of the pantheon Dyauṣ Pitar “Father Heaven” is his inability to move about the cosmos and esp., in conformity with the newer ritual model, to come to our sacrifice rather than having the oblations of that sacrifice filter up to heaven. This is one of the few passages in the RV where his presence at the sacrifice is urged, and only a little thought is required to reveal it as odd.
 
 Geldner takes sádane as du (“den beiden Sitzen der Wahrheit”), and in favor of this interpr. is the fact that its final vowel is pragṛhya in the Saṃhitā text (sádane ṛtásya, not *sádana ṛtásya, as in IV.42.4), as Oldenberg points out. However, I take it, with Renou and Lüders (607-8)(and Grassmann implicitly) as a loc. sg. in the usual phrase. As Lüders points out (608), gods are never themselves “seats of truth” but are located in such seats.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With newest hymns set in the seat of Order, those the Two Parents, born before all others,  
      Come, Heaven and Earth, with the Celestial People, hither to us, for strong is your protection.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lasset den beiden Erstgeborenen, den Eltern, den beiden Sitzen der Wahrheit mit euren neuesten Lobreden den Vortritt! Kommet zu uns, Himmel und Erde, mit dem göttlichen Volke! Groß ist euer beider Schutz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Macht, Sänger, euch geneigt durch neue Lieder, im heil'gen Sitz die urgebornen Aeltern, O Erd' und Himmel mit dem Stamm der Götter kommt her zu uns; denn gross ist eure Schutzwehr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Создайте преимущество двоим перворожденным, родителям,  
 Новыми хвалебными песнями в сиденье закона!  

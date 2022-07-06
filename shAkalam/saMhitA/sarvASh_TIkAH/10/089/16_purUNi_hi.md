@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरू꣡णि हि꣡ त्वा स꣡वना ज꣡नानाम्  
 ब्र꣡ह्माणि म꣡न्दन् गृणता꣡म् ऋ꣡षीणाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तिरो꣡ वि꣡श्वाँ अ꣡र्चतो याहि अर्वा꣡ङ्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒माम् । आ॒ऽघोष॑न् । अव॑सा । सऽहू॑तिम् । ति॒रः । विश्वा॑न् । अर्च॑तः । या॒हि॒ । अ॒र्वाङ् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purūṇi* ← *puru*
 - \[noun\], nominative, plural, neuter
@@ -115,35 +115,35 @@ genre M
 हे इन्द्र **त्वा** त्वां **जनानां** संबन्धीनि **पुरूणि** बहूनि **सवना** सवनानि **ब्रह्माणि** स्तोत्राणि च **मन्दन्** स्तुवन्ति मोदयन्ति वा । **गृणतां** स्तुवताम् **ऋषीणाम्** **इमां** **सहूतिं** स्तुतिं त्वम् **आघोषन्** महती शोभना चेयं स्तुतिरिति वदन् **अर्चतः** स्तुवतोऽन्यान् **विश्वान्** सर्वानपि **तिरः** तिरस्कृत्य **अवसा** रक्षणेन सह **अर्वाङ्** अस्मदभिमुखं **याहि** गच्छ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because the many soma-pressings of the peoples and the sacred  formulations of the singing seers exhilarate you,  
 heeding this common call, with your help drive nearby, across all  
 (others) as they chant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May plentiful libations of the people, and singing Rsis' holy prayers rejoice thee.  
      Hearing with love this common invocation, come unto us, pass by all those who praise thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Allerdings ergötzen dich viele Somaspenden der Leute, die feierlichen Reden der lobpreisenden Rishi´s. Erhöre gnädig diese gemeinsame Anrufung und fahre herwärts, an allen anderen Lobsängern vorbei!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn dich auch vieler Menschen Tränke locken; Gebete auch der Sänger, die dich preisen, So komme her durch alle, die dir singen, mit Huld zu uns, die Festgebete hörend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь тебя радуют многие выжимания (сомы) у людей,  
 Священные слова воспевающих риши.  

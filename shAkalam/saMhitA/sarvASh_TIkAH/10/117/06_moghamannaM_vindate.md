@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मो꣡घम् अ꣡न्नं विन्दते अ꣡प्रचेताः  
 सत्य꣡म् ब्रवीमि वध꣡ इ꣡त् स꣡ त꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 के꣡वलाघो भवति केवलादी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 न । अ॒र्य॒मण॑म् । पुष्य॑ति । नो इति॑ । सखा॑यम् । केव॑लऽअघः । भ॒व॒ति॒ । के॒व॒ल॒ऽआ॒दी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mogham* ← *mogha*
 - \[noun\], accusative, singular, neuter
@@ -132,41 +132,41 @@ popular
 अदातारं दूषयति । **अप्रचेताः** अप्रकृष्टज्ञानः दाने चेतो मनो यस्य न भवति **सः** **मोघं** व्यर्थमेव **अन्नं** **विन्दते** लभते ॥  ‘ विद्लृ लाभे' । तौदादिकः । ‘शे मुचादीनाम्' इति नुमागमः ॥ इदं **सत्यं** यथार्थमेवेति **ब्रवीमि** । ऋषिरहं वदामि । न केवलं व्यर्थं किंतु **तस्य** पुरुषस्य **सः** **वध** **इत्** वध एवान्नं परामृशतः ॥ तच्छब्दस्य वधसामानाधिकरण्यात् पुँल्लिङ्गता । यथा “ णेरणौ° ( पा. सू. १. ३. ६७ ) इत्यत्र यत् कर्म स एव कर्तेति ॥ अथवा स निरर्थको वध एव यः पुरुषः **अर्यमणम्** । उपलक्षणमिदम् । सर्वान् देवानर्यमादीन् **न** **पुष्यति** हविष्प्रदानेन न पोषयति **नो** नापि **सखायं** समानख्यानमभ्यागतमतिथिं मित्रवर्गं च न पोषयति ॥  ‘ पुष पुष्टौ ' । दैवादिकः । यच्छब्दाध्याहारादनिघातः ॥ अत एव **केवलादी** ॥ अदेः सुप्यजातौ' (पा. सू. ३. २. ७८) इति णिनिः । अत उपधालक्षणा वृद्धिः ॥ केवलमसाक्षिकमन्नं भुञ्जानः सः **केवलाघो** **भवति** । केवलपापवान् भवति । अघमेव केवलं तस्य शिष्यते । नैहिकं नामुष्मिकमिति । तस्माद्यथाकथंचिद्दातव्यमित्यभिप्रायः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The inhospitable man acquires food in vain. I speak the truth-- it verily is his death. He cherishes notAryaman nor a friend; he who eats alone is nothing but a sinner.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The undiscerning man finds food in vain. I speak the truth: it is just a  deadly weapon for him.  
 He does not prosper in compatriot, nor in companion. Who eats alone  has only evil.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The foolish man wins food with fruitless labour: that food -I speak the truth- shall be his ruin.  
      He feeds no trusty friend, no man to love him. All guilt is he who eats with no partaker.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The foolish man from food has no advantage; In truth I say: it is but his undoing; No friend he ever fosters, no companion: He eats alone, and he alone is guilty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nutzlos bekommt der Tor die Speise. Ich sage die Wahrheit: sie wird sein Tod sein. Nicht zieht er sich einen Gönner, noch einen Freund heran. Wer allein ißt, hat auch den Schaden allein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vergeblich nur erwirbt der Thor sich Speise, ich spreche Wahrheit, sie wird nur sein Tod sein, Kein Freund wird ihm zu Theil und kein Genosse; allein trifft Noth den, der allein geniesset.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Понапрасну получает еду неразумный –  
 Истину глаголю я: это же смерть его!  

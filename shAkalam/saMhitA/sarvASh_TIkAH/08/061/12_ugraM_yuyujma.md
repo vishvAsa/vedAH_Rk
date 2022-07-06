@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उग्रं꣡ युयुज्म पृ꣡तनासु सासहि꣡म्  
 ऋण꣡कातिम् अ꣡दाभियम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वाजि꣡नं य꣡म् इ꣡द् ऊ न꣡शत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वेद॑ । भृ॒मम् । चि॒त् । सनि॑ता । र॒थिऽत॑मः । वा॒जिन॑म् । यम् । इत् । ऊं॒ इति॑ । नश॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
@@ -108,20 +108,20 @@ genre M
 **उग्रम्** उद्गूर्णबलमिन्द्रं **युयुज्म** योजयामः । कीदृशमिन्द्रम् । **पृतनासु** संग्रामेषु **सासहिं** शत्रूणामभिभवितारम् **ऋणकातिम्** ऋणभूतस्तुतिम् । यस्मै स्तुतिर्ऋणवदवश्यं क्रियते तं तादृशम् । अथवा ऋणवदवश्यफलप्रदस्तुतिकम् । **अदाभ्यं** केनाप्यहिंस्यम् । य इन्द्रः **भ्रमं** **चित्** बहुष्वश्वेषु भ्रमणशीलमेव **वाजिनं** बलवन्तमश्वं **रथीतमः** रथस्वामी **वेद** वेत्ति गृह्णाति तद्वत् **सनिता** इन्द्रो वाजिनं हविष्मन्तं **यमित्** यमेव जनं बहूनां यजमानानां मध्ये **नशत्** व्याप्नोति तमिन्द्रमिति । ते वयमिति वा योज्यम् । वयं युयुज्मेति पक्षे व्यत्ययेन बहुवचनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We join (to our rite) the mighty **Indra**, the subduer of enemies in battles, the inviolate, him to whompraise is due as a debt; he, the best of charioteers, knows (among steeds) the strong racer, and (among men)he, the bounteous (knows) the offerer whom he is to reach.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have yoked the strong one, victorious in battles, the undeceivable  one who wants what he’s owed.  
 The winner, the best charioteer recognizes a prizewinning (racehorse),  even when it’s a blur—which is just the one he will attain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The second member of the hapax compound ṛṇá-kāti- belongs with kā́makāti- ‘desiring desires’, and I therefore produce a more volition tr. than the usual ‘Schuld fordernd’.
 
@@ -130,23 +130,23 @@ The interpretation of the second hemistich depends on the interpretation of bh�
 Geldner’s interpretation is very different: “Der Gewinner … versteht die Ungeduld, die den Sieggewohnten erfasst.” He takes bhṛmám as a noun, the object of védā, and the referent of the relative pronoun in d. Since he considers that rel. pronoun the subject of náśat, he must account for acc. yám by assuming attraction to vājínam from expected nom. *yáḥ. My interpretation avoids this unappealing change and also accounts better for the position of the particles íd ū, since vājínam belongs to the main clause not the relative clause, by my reading. Moreover, náśat should be a subjunctive, but his tr. fails to register that.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him have we yoked in fight, the powerful Conqueror, debt-claimer, not to be deceived.  
      Best charioteer, the Victor marks each fault, he knows the strong to whom he will come near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben den Gewaltigen, in den Kämpfen Siegreichen, in Anspruch genommen, den unbetörbaren Schuldeinforderer. Der Gewinner und beste Wagenlenker versteht auch die Ungeduld, die den Sieggewohnten erfaßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Sieger in den Schlachten spornten wir zur That, der Frevel rächt, den niemand täuscht; Er merkt Versehn auch, nimmt als bester Wagenheld den Streiter fest, den er ereilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы привели в действие грозного, победителя в боях,  
 Мстителя за вину, безобманного.  

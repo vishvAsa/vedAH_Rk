@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवोः꣡ श्रि꣡यम् प꣡रि यो꣡षावृणीत  
 सू꣡रो दुहिता꣡ प꣡रितक्मियायाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि घ्रंस꣡म् ओम꣡ना वां व꣡यो गात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । दे॒व॒ऽयन्त॑म् । अव॑थः । शची॑भिः । परि॑ । घ्रं॒सम् । ओ॒मना॑ । वा॒म् । वयः॑ । गा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
@@ -114,36 +114,36 @@ genre M
 **युवोः** युवयोः **श्रियम्** । श्रयत इति श्री रथः । तं सेवामेव वा **योषा** सर्वदा मिश्रयन्ती योषित् **सूरः** सूर्यस्य **दुहिता** **परि** **अवृणीत** । कदा। परितक्म्यायां रात्रौ परितस्तकनवति संग्रामे यज्ञे वा गन्तव्ये । किंच **यत्** यदा **देवयन्तं** देवकामं यजमानं यज्ञं वा **शचीभिः** युवयोर्गमनादिलक्षणैः कर्मभिः **अवथः** रक्षथः तदानीं **घ्रंसं** दीप्तं **वयः** अन्नं सोमादिलक्षणम् **ओमना** अवनेन रक्षणेन निमित्तेन **वां** **परि** **गात्** पर्यगात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The daughter of **Sūrya** made choice of your chariot at the approach of night; you defend the devoutworshipper by your deeds, when the resplendent (sacrificial) food proceeds to you to secure your protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The young woman—the daughter of the Sun—chose your glory at the  decisive turn.  
 When by your abilities you help him [=Atri], serving the gods, his vital  force evades the heat by your relief.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When night was turning to the grey of morning the Maiden, Surya's Daughter, chose your splendour.  
      When with your power and might ye aid the pious he comes through heat to life by your assistance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Schönheit erkürte die Maid, die Tochter des Surya, in der Entscheidungsstunde. Wenn ihr dem Gottergebenen mit euren Künsten helft, so entgeht durch eure Schutzmittel seine Lebenskraft der Glut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die junge Maid erwählte eure Schönheit, der Sonne Tochter, in des Morgens Dunkel; Wenn ihr dem Frommen helft mit Wunderkräften, entgeht der Glut er, kommt durch euch zur Labung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вашу красоту выбрала себе женщина,  
 Дочь Солнца, в решающую минуту.  

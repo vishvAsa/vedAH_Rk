@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हि꣡रण्यस्तूपः सवितर् य꣡था त्वा  
 आङ्गिरसो꣡ जुहुवे꣡ वा꣡जे अस्मि꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मस्येवांशु꣡म् प्र꣡ति जागराह꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ए॒व । त्वा॒ । अर्च॑न् । अव॑से । वन्द॑मानः । सोम॑स्यऽइव । अं॒शुम् । प्रति॑ । जा॒ग॒र॒ । अ॒हम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyastūpaḥ* ← *hiraṇyastūpa*
 - \[noun\], nominative, singular, masculine
@@ -118,7 +118,7 @@ popular
 हे **सवितः** प्रेरक **त्वा** त्वाम् **आङ्गिरसः** अङ्गिरसः पुत्रः **हिरण्यस्तूपः** मम पिता **अस्मिन्** **वाजे** अन्ने निमित्तभूते सति **यथा** **जुह्वे** आहूतवान् **एव** एवम् **अर्चन्** एतत्संज्ञोऽहं **त्वा** त्वाम् **अवसे** अवनाय रक्षणार्थं **वन्दमानः** स्तुवन् आह्वयामीति शेषः । आहूय च **सोमस्येवांशुं** यथा सोमलतां प्रति यजमाना जाग्रति यागपर्यन्तं तद्रक्षणे प्रबुद्धा वर्तन्ते तथा **अहं** त्वत्परिचर्यां **प्रति** **जागर** जागर्मि । जागर्तेर्णल्युत्तमैकवचने रूपम् । अत्र निरुक्तं - ' हिरण्यस्तूपो हिरण्मयस्तूपो हिरण्यमयः स्तूपोऽस्येति वा । स्तूपः स्त्यायतेः संघातः । सवितर्यथा त्वाङ्गिरसो जुह्वे वाजेऽन्नैऽस्मिन्नेवं  त्वार्चन्नवनाय वन्दमानः सोमस्येवांशुं प्रतिजागर्म्यहम् ' ( निरु. १०. ३३) इति॥७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ popular
 **Nirukta** 10.33: hiraṇyastūpohiraṇyamayaḥ stūposyeti vā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as Hiraṇyastūpa Āṅgirasa called on you, Savitar, when this prize  (was in question),  
 even so, chanting to you for help, extolling you, I stay wakeful facing  toward you, as if toward the plant of soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like the Angirasa Hiranvastupa, I call thee, Savitar, to this achievement:  
      So worshipping and lauding thee for favour I watch for thee as for the stalk of Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Hiranyastupa, der Angirase, dich, Savitri, um diesen Siegerpreis angerufen hat, also habe ich Arcan um deine Gnade preisend und lobend dich herangewacht wie den Stengel des Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie dich der Angiras, Hiranjastupa, o Savitar, bei diesem Opfer anrief, So bin ich wachsam bei dem Saft des Soma mit Lobgesang dich preisend mir zum Heile.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как (некогда) Хираньяступа из Ангирасов, о Савитар,  
 Позвал тебя в этом (состязании) за награду,  

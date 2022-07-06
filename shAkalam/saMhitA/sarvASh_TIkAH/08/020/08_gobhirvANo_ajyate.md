@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गो꣡भिर् वाणो꣡ अज्यते सो꣡भरीणां᳐  
 र꣡थे को꣡शे हिरण्य꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 महा꣡न्तो न स्प꣡रसे नु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 गोऽब॑न्धवः । सु॒ऽजा॒तासः॑ । इ॒षे । भु॒जे । म॒हान्तः॑ । नः॒ । स्पर॑से । नु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
@@ -108,7 +108,7 @@ genre M
 **सोभरीणाम्** ऋषीणां **गोभिः** शब्दैः स्तुतिलक्षणैः **वाणः** मरुद्वीणा **अज्यते** व्यज्यते प्रकटीक्रियते। कुत्र। **हिरण्यये** **रथे** **कोशे** कोशवद्वेष्टिते मध्यदेशे। यद्वा । गोभिर्गन्तृभिर्गोमातृकैर्वा मरुद्भिर्वाणोऽज्यते व्यज्यते । सोभरीणां ज्ञानायेदृशे रथे वाद्यत इत्यर्थः । अपि च **गोबन्धवः** गोमातृकाः **सुजातासः** शोभनजन्मानः **महान्तः** महानुभावास्ते मरुतः **नः** अस्माकम् **इषे** अन्नाय **भुजे** भोगाय **स्परसे** प्रीत्यै च बलनाय वा **नु** क्षिप्रं भवन्विति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,14 +119,14 @@ genre M
 The voice: **vāṇa** = the lute, **vīṇā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The music of the Sobharis is anointed with cows. Onto the chariot, into  the golden (chariot) cask  
 (come) those well-born (Maruts), akin to a cow [=Pr̥śni], (for us) to  
 enjoy nourishment; the great ones (come here) now for us to gain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Against most tr., I take pāda a as an independent nominal clause and construe b with c. The locc. in b refer to the chariot and its box, onto which the Maruts are mounting. The same phrase two hymns later, VIII.22.9 ā́hí ruhátam …, ráthe kóśe hiraṇyáye, with a verb of mounting, seems to clinch this interpr., though Geldner (n. 8b) explicitly claims that the two nearby phrases, in hymns by the same poet, are used differently.
 
@@ -137,23 +137,23 @@ I do not see any way around supplying a verb of motion or mounting in bcd: the M
 The root noun íṣ- is tr. two different ways in 2c (‘refreshment’) and 8c (‘nourishment’). These should have been harmonized.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The pivot of the Sobharis' chariot within the golden box is balmed with milk.  
      May they the Well-born, Mighty, kindred of the Cow, aid us to food and to delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Kuhmilch wird die Stimme der Sobhari´s gesalbt in der goldenen Kufe auf dem Wagen. Die mit der Kuh, der Prisni, verwandten, edlen Marut, die großen, mögen uns Speisesegen genießen und davontragen lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Milchtrank wird der Sobhari's Musik belohnt, den ihr im goldnen Wagen führt, Ihr schöngebornen, kuhentstammten, mächtigen, verhelft zu Trunk uns und Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Музыка (людей) из рода Собхари смазывается коровьим (молоком)  
 На колеснице в золотом ковше.  

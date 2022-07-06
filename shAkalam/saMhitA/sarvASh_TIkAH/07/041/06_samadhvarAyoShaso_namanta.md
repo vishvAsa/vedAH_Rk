@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् अध्वरा꣡य उष꣡सो नमन्त  
 दधिक्रा꣡वेव शु꣡चये पदा꣡य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 र꣡थम् ऽवा꣡श्वा° वाजि꣡न आ꣡ वहन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒र्वा॒ची॒नम् । व॒सु॒ऽविद॑म् । भग॑म् । नः॒ । रथ॑म्ऽइव । अश्वाः॑ । वा॒जिनः॑ । आ । व॒ह॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 **शुचये** शुद्धाय गमनयोग्याय **पदाय** स्थानाय **दधिक्रावेव** अश्वो यथा तथा **उषसः** उषोदेवताः **अध्वराय** अस्मदीयाय यागाय **सं** **नमन्त** संगच्छन्तु । **वाजिनः** वेगवन्तः **अश्वाः** **रथमिव** रथं यथा तथोषसः **अर्वाचीनम्** अस्मदभिमुखं **वसुविदं** धनस्य प्रापकं **भगं** देवं **नः** अस्मान् प्रति **आ** **वहन्तु** आनयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,14 +136,14 @@ Station: śucaye padāya =gamanayogyāya sthānāya; or, agnyādhanārtham śuca
 Dadhikra = aśve, the horse intended for sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Dawns (will) jointly bow in reverence to the ceremony, like  
 Dadhikrāvan to the gleaming footprint [=sacrificial ground].  
 Like prizewinning horses a chariot let them convey the goods-finding  Bhaga here in our direction.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs., bringing the Dawns into the picture, forms the transition to the extra-hymnic vs. 7 (see published introduction.). Note that we have the newer nom. pl. form uṣásaḥ in 6, whereas 7, a repeated vs. (=VII.80.3), has the inherited uṣā́saḥ.
 
@@ -152,23 +152,23 @@ The racehorse Dadhikrā(van) seems intrusive in this vs., but he is the subject 
 As suggested in the published introduction. to that hymn, the association may be with the dakṣiṇā, which is distributed at the morning pressing and which often consists at least partly of horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To this our worship may all Dawns incline them, and come to the pure place like Dadhikravan.  
      As strong steeds draw a chariot may they bring us hitherward Bhaga who discovers treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Opfer sollen die Morgenröten geneigt sein, wie Dadhikravan der reinen Opferstätte. Sie sollen den Schätzefinder Bhaga zu uns her fahren wie die siegreichen Rosse den Wagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Sie mögen nah herbei den reichen Bhaga uns ziehn, wie schnelle Rosse ziehn den Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть утренние зори склонятся вместе перед обрядом,  
 Словно Дадхикраван, перед чистой обителью!  

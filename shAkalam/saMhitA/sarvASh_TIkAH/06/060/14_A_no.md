@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो ग꣡व्येभिर् अ꣡श्वियैर्  
 वसव्यइ᳡र् उ꣡प गछतम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इन्द्राग्नी꣡ ता꣡ हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सखा॑यौ । दे॒वौ । स॒ख्याय॑ । श॒म्ऽभुवा॑ । इ॒न्द्रा॒ग्नी इति॑ । ता । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -110,20 +110,20 @@ genre M;; repeated line
 हे इन्द्राग्नी **गव्येभिः** गोसमूहै: **अश्व्यैः** अश्वसमूहै: **वसव्यैः** वसुसमूहैश्च सार्धं **नः** अस्मानाभिमुख्येन **उप** **आ** **गच्छतम्** । शेषः परोक्षकृतः । **सखायौ** समानख्यानौ **देवौ** दानादिगुणयुक्तौ **शंभुवा** शंभुवौ सुखस्य भावयितारौ **ता** तादृशौ **इन्द्राग्नी** **सख्याय** सखित्वार्थं वयं **हवामहे** आह्वयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us with herds of cattle, with troops of horses, with ample treasures, divine friends, **Indra** and **Agni**; givers of happiness, we invoke you as such for your friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here close to us with bovine and equine goods.  
 The two partners, the two gods who are luck itself, Indra and Agni, do  we call on for partnership.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -133,23 +133,23 @@ On the connection of these vss. to the hymn, see published introduction. For the
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come unto us with riches, come with wealth in horses and in kine.  
      Indra and Agni, we invoke you both, the Gods, as Friends for friendship, bringing bliss.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet zu uns mit Rinder- und Rosseherden, mit Schätzen! Die beiden Freunde, die Götter Indra und Agni, rufen wir zur Freundschaft, die Wohlwollenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her zu uns mit reichen Schätzen an Rindern und an Rossen, die Götter, die Genossen, heilvoll zur Genossenschaft, Indra und Agni rufen wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходите к нам со стадами коров,  
 С табунами коней, с богатствами!  

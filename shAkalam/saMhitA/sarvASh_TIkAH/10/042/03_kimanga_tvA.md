@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् अङ्ग꣡ त्वा मघवन् भोज꣡म् आहुः  
 शिशीहि꣡ मा शिशयं꣡ त्वा शृणोमि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वसुवि꣡दम् भ꣡गम् इन्द्रा꣡ भरा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अप्न॑स्वती । मम॑ । धीः । अ॒स्तु॒ । श॒क्र॒ । व॒सु॒ऽविद॑म् । भग॑म् । इ॒न्द्र॒ । आ । भ॒र॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim*
 - \[adverb\]
@@ -138,36 +138,36 @@ genre M
 अङ्गेति सामान्याह्वानम् । **अङ्ग** हे **मघवन्** धनवन् **शक्र** इन्द्र **त्वा** त्वां **किं** किमर्थं **भोजं** स्तोतॄणां भोजकमभीष्टम् **आहुः** सर्वे विद्वांसः । यदि न ददासीत्यध्याहारः । तस्माद्ददास्येव स्तोतृभ्यो धनानीत्यर्थः । तथा सति **मा** स्तोतारं **शिशीहि** धनदानेन तीक्ष्णीकुरु । **त्वा** त्वां **शिशयं** स्तोतॄणां संस्कर्तारं **शृणोमि** । किंच **मम** **धीः** बुद्धिः अप्नस्वती कर्मवती **अस्तु** भवतु । किंच **नः** अस्माकं वसुविदं धनस्य लम्भकं **भगं** भाग्यम् **आ** **भर** आहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Why, Maghavat, do (the wise) call you the nourisher (of worshippers)? Quicken me, (**Indra**), withwealth, (for) I hear that you are the quickener (of the worshipper); may my understanding, **Śakra**, be productiveof works; grant us, Indra, a **destiny** that brings wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do they not call you the benefactor, bounteous one? Sharpen me: I hear  that you are the sharpening.  
 Let my insight be profitable, able one. Bring Bhaga, the goods-finder,  here to us, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Why, Maghavan, do they call thee Bounteous; Giver? Quicken me: thou, I hear, art he who quickens.  
      Sakra, let my intelligence be active, and bring us luck that finds great wealth, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Warum nennen sie gerade dich den Gastfreien, du Gabenreicher? Sporne mich an; ich höre, daß du ausgiebig bist! Mein Gedicht soll Lohn einbringen, o Mächtiger! Bring uns den Schätze verschaffenden Bhaga her, o Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Warum sonst nennt man, reicher, dich den Spender? so gib mir Gut, ein Geber bist du, hör' ich, Mit Schatz gesegnet sei mein Lied, o starker; den Reichen bring', der Güter schenkt, o Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разве не тебя, о щедрый, называют доставляющим наслаждение?  
 Вдохнови меня – я слышу, что ты задариватель!  

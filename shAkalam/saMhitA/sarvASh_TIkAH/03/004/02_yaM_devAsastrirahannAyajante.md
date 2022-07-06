@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ देवा꣡सस् त्रि꣡र् अ꣡हन्न् आय꣡जन्ते  
 दिवे꣡-दिवे व꣡रुणो मित्रो꣡ अग्निः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡नूनपाद् घृत꣡योनिं विध꣡न्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । इ॒मम् । य॒ज्ञम् । मधु॑ऽमन्तम् । कृ॒धि॒ । नः॒ । तनू॑ऽनपात् । घृ॒तऽयो॑निम् । वि॒धन्त॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -135,41 +135,41 @@ genre M
 वरुणःमित्रःअग्निः एतेत्रयोदेवासोदेवाः यमग्निन्दिवेदिवेप्रतिदिवसं अहन् अहनित्रिः प्रातर्मध्या ह्नसायन्तनेषुसवनेषु त्रिवारं आयजन्ते हेतनूनपात् तनूनांशरीराणां नपातयितः सत्वं घृतयोनिं घृस्योदकस्यकारणं विधन्तंविधीयमानङ्क्रियमाणं नोस्मदीयमिमंयज्ञं मधुमन्तं मध्वित्युदकनाम वृष्ट्यादिफलयुक्तङ्क्रुधिकुरु ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Tanūnapāt**, whom the deities, **Mitra**, **Varuṇa** and **Agni**, worship daily thrice a day, render this our sacred rain-engendering sacrifice productive of water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You to whom the gods—Varuṇa, Mitra, and Agni—offer sacrifice three  times in a day, day after day,  
 make this sacrifice to be honey-filled for us, o Tanūnapāt, and, with its  womb of ghee, to give honor (to the gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni whom daily Varuna and Mitra the Gods bring thrice a day to this our worship,  
      Tanunapat, enrich with meath our service that dwells with holy oil, that offers honour.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou whom the gods, Varuna, Mitra, Agni, thrice every day bring hither by sacrifice day by day, Tanûnapât, make this our sacrifice honey-sweet, having its abode in ghee 1, (this sacrifice) which worships (the gods).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den die Götter, Varuna, Mitra, Agni, dreimal am Tag alltäglich erbitten, mache du dieses Opfer von uns süß, o Tanunapat, mach, daß der Verehrer auf Schmalz gebettet ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den dreimal dich des Tags die Götter ehren, und Tag für Tag Varuna, Mitra, Agni; Dies unser Opfer mache süss und lieblich, das Schmalz im Schooss hat, aus dir selbst erzeugter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты,) кого боги трижды в день используют, жертвуя  
 День за днем, – Варуна, Митра, Агни –  

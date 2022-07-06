@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡व त्या꣡नि नौ सखिया꣡ बभूवुः  
 स꣡चावहे य꣡द् अवृक꣡म् पुरा꣡ चित्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सह꣡स्रद्वारं जगमा गृहं꣡ ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 बृ॒हन्त॑म् । मान॑म् । व॒रु॒ण॒ । स्व॒धा॒ऽवः॒ । स॒हस्र॑ऽद्वारम् । ज॒ग॒म॒ । गृ॒हम् । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kva*
 - \[adverb\]
@@ -126,42 +126,42 @@ genre M
 हे वरुण **त्यानि** तानि पुरातनानि **नौ** आवयोः **सख्या** सख्यानि सखित्वानि **क्व** कुत्र **बभूवुः** । **पुरा** पूर्वस्मिन् काले **अवृकम्** अहिंस्यात्यन्तिकं **यत्** सख्यमस्ति तत् **सचावहे** आवां सेवावहे। **चित्** इति पूरकः । अपि च हे **स्वधावः** अन्नवन् **वरुण** **ते** त्वदीयं **गृहं** **जगम** गच्छानि । लोडर्थे लिट्। कीदृशं गृहम् । **बृहन्तं** महान्तं **मानम्**। मान्त्यस्मिन् सर्वाणि भूतानीति मानम् । सर्वस्य भूतजातस्य परिच्छेदकमित्यर्थः । सहस्रद्वारं बहुद्वारम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What has become of those our ancient friendships? Let us preserve them unimpaired as of old;food-bestowing **Varuṇa**, may I go to your vast comprehensive thousand-doored dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where have these companionships of ours come to be, when  
 previously we would have accompanied one another without wolfish  hostility?  
 O Varuṇa of independent will, I went into your lofty mansion, your  house with its thousand doors.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What hath become of those our ancient friendships, when without enmity we walked together?  
      I, Varuna, thou glorious Lord, have entered thy lofty home, thine house with thousand portals.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 What has become of those our former friendships, When we two held erstwhile unbroken converse? O sovereign Varuṇa, thy lofty mansion, Thy home, I entered, with its thousand portals.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohin ist diese Freundschaft zwischen uns gekommen, da wir früher ohne Feindschaft verkehrten? Ich ging zum hohen Bau, in dein tausendtoriges Haus, du eigenmächtiger Varuna.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Wohin ist unsre Freundschaft nun gerathen, da wir doch sonst so liebevoll verkehrten? Zur grossen Wohnung, Varuna du Herrscher, zu deinem tausendthor'gen Hause kam ich.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Куда минули те дружеские чувства между нами,  
 Что прежде мы могли общаться без вражды?  

@@ -8,7 +8,7 @@ title = "+040"
 ‘दधिक्राव्ण इत्' इति पञ्चर्चमष्टमं सूक्तं वामदेवस्यार्षं दाधिक्रम् । आद्या त्रिष्टुप् शिष्टा जगत्यः ।  ‘ हंसः शुचिषत् ' इत्येषा सूर्यदेवताका । तथा चानुक्रमणिका - दधिक्राव्णः पञ्च चतस्रोऽन्त्या जगत्योऽन्त्या सौरी ' इति । सूक्तविनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 40 (336)  
 Dadhikrā (1–4), Sūrya (5)  
@@ -20,7 +20,7 @@ as he races around the track, as they compare him to a bird swooping in full fli
 The final verse (5) is an explosion of morphological figures: eight compounds  ending in -sád- “sitting” (pādas abc), growing closer and closer together, followed  by four ending in -jā́- “born” crammed into the final pāda—which culminates in the  last word r̥tám “truth.” The referent of all these compounds is no longer the horse  Dadhikrā, at least not directly. Rather, as with the last verse of IV.38, the horse is  now identified with cosmic forces—the sun, but probably also the ritual fire—and  these in turn identified with the king. (See Proferes 2007:  127–28.) This verse is  much repeated and employed in later Vedic texts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Dadhikrā See the published introduction. for a disc. of the style. The poet likes repetitive figures: 2a bhariṣó gaviṣó (b iṣá[ḥ]); 2ab duvanyasác, (chravasyā́d) … turaṇyasát (3a turaṇyatáḥ … 4a turaṇyati); 2c dravó dravaráḥ (3a drávatas … 3c dhrájato); 5 śuciṣád … antarikṣasád … vediṣád … duroṇasát / nṛṣád varasád ṛtasád vyomasád; 5d abjā́gojā́ṛtajā́adrijā́; see others noted below. The means he uses to produce these patterns are not always strictly grammatical and there are a number of hapaxes.
 

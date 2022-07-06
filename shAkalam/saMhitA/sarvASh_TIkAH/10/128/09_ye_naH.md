@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ नः सप꣡त्ना अ꣡प ते꣡ भवन्तु  
 इन्द्राग्नि꣡भ्याम् अ꣡व बाधामहे ता꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उग्रं꣡ चे꣡त्तारम् अधिराज꣡म् अक्रन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वस॑वः । रु॒द्राः । आ॒दि॒त्याः । उ॒प॒रि॒ऽस्पृश॑म् । मा॒ । उ॒ग्रम् । चेत्ता॑रम् । अ॒धि॒ऽरा॒जम् । अ॒क्र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -136,36 +136,36 @@ popular
 **नः** अस्माकं **ये** **सपत्नाः** शत्रवः **ते** **अप** **भवन्तु** अपगता भवन्तु । स्वस्थानादपगताः प्रच्युता भवन्तु । **तान्** सपत्नान् **इन्द्राग्निभ्यां** हविर्भिः स्तुत्या च प्रसन्नाभ्यामनुगृहीता वयम् **अव** **बाधामहे** निकृष्टतरं विनाशयामः । अपि च **वसवो** **रुद्रा** **आदित्याः** च **मा** माम् उपरिस्पृशम् उन्नतपदस्य संस्प्रष्टारं सर्वेभ्यः श्रेष्ठम् **अक्रन्**  कुर्वन्तु । तथा **उग्रम्** उद्गूर्णबलं **चेत्तारं** चेतितारम् ॥ छान्दस इडभावः ॥ सर्वस्य ज्ञातारम् **अधिराजं** सर्वेषामधीश्वरं च मां कुर्वन्तु ॥ करोतेश्छान्दसे लुङि  ‘ मन्त्रे घस इत्यादिना च्लेर्लुक् ॥ । १६ ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those who are our foes be driven off; may we through **Indra** and **Agni** destroy them; may theVasus, the **Rudras**, and the **Ādityas** make me the high- reaching, fierce, intelligent, supreme ruler.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever are our rivals, let them keep away: with Indra and Agni we will  thrust them down.  
 The Vasus, Rudras, and Ādityas have made me one who touches on high,  a formidable observer, an over-king.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let those who are our foemen stay. afar from us: with Indra and with Agni we will drive them off.  
      Vasus, Adityas, Rudras have exalted me, made me far-reaching, inighty, thinker, sovran lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unsere Nebenbuhler sollen sich wegheben, mit Indra und Agni unterdrücken wir sie. Die Vasu´s, Rudra´s, Aditya´s haben mich zum überragenden, zum gewaltigen Meister und Oberherrn gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück sie; Die Vasu's, Rudra's, die Aditja's haben, zum hohen, grossen Hort und Herrn gemacht mich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что наши соперники, пусть они уберутся!  
 С Индрой и Агни мы оттесняем их прочь.  

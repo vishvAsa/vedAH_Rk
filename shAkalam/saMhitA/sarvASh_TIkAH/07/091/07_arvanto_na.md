@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡र्वन्तो न꣡ श्र꣡वसो भि꣡क्षमाणा  
 इन्द्रवायू꣡ सुष्टुति꣡भिर् व꣡सिष्ठाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 वा॒ज॒ऽयन्तः॑ । सु । अव॑से । हु॒वे॒म॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvanto* ← *arvantaḥ* ← *arvant*
 - \[noun\], nominative, plural, masculine
@@ -112,37 +112,37 @@ genre M;; repeated line
 व्याख्यातेयं अक्षरार्थस्तु अश्वाइव हविषां वोढारः अन्नं याचमानाः बलं कामयमानाः वसिष्ठाः वयं शोभनरक्षणाय शोभनैः स्तोत्रैः इन्द्रवायू आह्वयेमहीति ॥ ७ ॥आवायोइति पञ्चर्चं तृतीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वायव्यम् अनुक्रान्तञ्च-आवायोपञ्चेति । शुनासीरीये पर्वणि वायोर्नियुत्वतो यागस्य आवायो इत्यनुवाक्या सूत्रितञ्च-आवायोभूषशुचिपाउपनः प्रयाभिर्यासिदाश्वांसमच्छेति । नियुत्वद्वायुदेवताके पशावेषैव वपाया अनुवाक्या प्रथमे छन्दोमे प्रउगशस्त्रे वायव्यतृचस्यैषैवाद्या सूत्रितञ्च-समुद्रादूर्मिरित्याज्यमावायोभूषशुचिपाइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We, **Vasiṣṭhas** (bearing oblations) like horses (bearing burdens), soliciting food, desiring strength,invoke with praises **Indra** and **Vāyu** for our sure defence; do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like steeds seeking their share of fame, we Vasiṣṭhas with our lovely  praise hymns,  
 seeking prizes, would call upon Indra and Vāyu for help. – Do you  
 protect us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like coursers seeking fame will we Vasisthas, O Indra-Vayu, with our fair laudations,  
      Exerting all our powe-,, call you to aid us. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Rennpferde Ruhm heischend wollen wir Vasistha´s mit Preisliedern Indra und Vayu fein um Beistand anrufen, nach dem Siegerpreis strebend.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Renner, die des Sieges Preis erstreben, so gehn zu Indra-Vaju wir Vasischtha's; Euch rufen wir zu Hülfe, Opfer bringend. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стремясь к славе, как скаковые кони,  
 Мы, Васиштхи, жаждя награды, прекрасными восхвалениями  

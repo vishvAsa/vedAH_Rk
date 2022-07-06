@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो वृषन् स꣡निष्ठया  
 सं꣡ घोर꣡या द्रवित्नुवा꣡  
 धिया꣡विड्ढि पु꣡रंधिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 धि॒या । अ॒वि॒ड्ढि॒ । पुर॑म्ऽध्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -81,7 +81,7 @@ genre M
 हे वृषन् कामानां वर्षितरिन्द्र **सः** पूर्वोक्तलक्षणस्त्वं **सनिष्ठया**। ‘षणु दाने'। धनादेर्दातृतमया **घोरया** सपत्नानां भयकारिण्या अत एव **द्रवित्न्वा** द्रावयित्र्या शत्रूणां पलायित्र्या। द्रवतेरित्नुच्प्रत्ययः । **पुरंध्या** बहूनां धारयित्र्या पोषयित्र्या **धिया** तादृशेन कर्मणा **नः** अस्मान् **सम्** **अविड्ढि** समन्तात्पालय। अवतेर्लोटि ‘बहुलं छन्दसि' इति शपो लुक् । बहुलवचनात्सिप इडागमः । अस्मान् धनदानादिना रक्षेत्यर्थः ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,29 +92,29 @@ genre M
 Purandhyā = bahūnām dhārayitryā; (RV 5.35.8): no ratham ava purandhyā =śobhanabudhyā; Showerer, protect us by your care, by your good **providence**, which is bounteous and yetawful and foe-terrifying
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O bull, give aid to us with the awesome, dashing  
 visionary thought that gains the most, and with plenitude.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, Hero, guard us with thy care, with thy most liberal providence,  
      Speedy, and terrible to foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Steh uns bei, du Bulle, im Verein mit der gewinnbringendsten, furchtgebietenden, schnellen Dhi, mit der Purandhi, der Wunscherfüllung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum hilf mit reichlichst spendender, mit herrlicher, mit eilender Beachtung und Versorgung uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

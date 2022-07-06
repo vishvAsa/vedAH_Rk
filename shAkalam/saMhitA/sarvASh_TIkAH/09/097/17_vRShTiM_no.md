@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृष्टिं꣡ नो अर्ष दिवियां꣡ जिगत्नु꣡म्  
 इ꣡ळावतीं शंग꣡यीं जीर꣡दानुम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब꣡न्धूँर् इमाँ꣡ अ꣡वराँ इन्दो वायू꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्तुका॑ऽइव । वी॒ता । ध॒न्व॒ । वि॒ऽचि॒न्वन् । बन्धू॑न् । इ॒मान् । अव॑रान् । इ॒न्दो॒ इति॑ । वा॒यून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣṭiṃ* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
@@ -118,7 +118,7 @@ genre M
 हे सोम नोस्माकं वृष्टिं अर्ष गमय । कीदृशीं दिव्यां दिविभवां जिगत्नुं गमनशीलं इरावतीं अन्नवतीं शङ्गयीं सूखस्यनिवासभूतां जीरदानुं क्षिप्रदानोपेताम् । किञ्च हे इन्दो त्वं स्तुकेववीता कान्तानि स्तुकशब्दोपत्यवचनः अपत्यानि यथाविचिनोषि तद्वत् बन्धून् स्तुत्यस्तोतृत्वेन बन्धुभूतान् अवरान् अवरदेशेस्थितान् पर्थिवान् वायून् त्वां अभिगच्छ्त इमानस्मान् विचिन्वन् धनादिप्रदानार्थं गवेषमाणःसन् धन्व गच्छ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,14 +129,14 @@ genre M
 Giving health to our home: śaṃgayīm = sakhasya nivāsabhūtam, inhabiting happiness; the kinsmen: because **Indra** and the winds are in the relation of praised and praiser; **imān** vāyūn = us approaching you, asmān tvām abhigacchataḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stream rain to us—heavenly, hurrying, bringing refreshment, luck for  the livestock, of lively drops.  
 Run, pulling apart [=discriminating] these bonds here below, these  
 webs, like straightened curls, o drop.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Renou hints, śaṃgáyī- is a species of univerbation of the common expression śám + DAT “weal, luck for X.” The 2nd hemistich of this vs. is very difficult. Decoding it is made somewhat easier by recognizing the governing image: the progress of the Soma in and around the tufts of wool on the sheepskin filter. The Soma is urged to ‘pull apart’ ví √ci the bándhūn ‘bonds’; bándhu- is multivalent here. It refers on the one hand to the physical bonds that exist between the wool tufts, blocking Soma’s progress. It is notable that in VS 23.36 ví cinvantu has lóma ‘hair’ as object, and refers to the separation of the hair of the sacrificial horse to mark the lines along which the flaying knives are to follow. But bándhu- can also refer to bonds of kinship and therefore to kin-groups. Here the 2nd sense of ví √ci, ‘discriminate’, is probably in play, as Soma as representative of Ārya progress makes strategic alliances among these groups.
 
@@ -161,23 +161,23 @@ The Anukramaṇī names Vyāghrapād (‘Tigerfoot(ed)’) Vāsiṣṭha as the 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour on us rain celestial, quickly streaming, refreshing, fraught with health and ready bounty.  
      Flow, Indu, send these Winds thy lower kinsmen, setting them free like locks of hair unbraided.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ströme uns den himmlischen Regen her, den eiligen, labenden, dem Hausstand zuträglichen, dessen Gabe rasch ist! Rinne, indem du wie die schlichten Wollzotten diese nächsten Freunde, die Ayu´s, aussuchst, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O ström' uns her des Himmels schnellen Regen, der reich an Trunk und Thau dem Hause Heil bringt, Gleich grader Rinne ströme und verjage, die Winde, Indu, diese schlechten Freunde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Струи нам небесный дождь, стремительный,  
 Подкрепляющий, благоприятный для хозяйства, быстро дарящий!  

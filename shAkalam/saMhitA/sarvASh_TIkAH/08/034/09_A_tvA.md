@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा मदच्यु꣡ता ह꣡री  
 श्येन꣡म् पक्षे꣡व वक्षतः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं यय꣡ दिवावसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दि॒वः । अ॒मुष्य॑ । शास॑तः । दिव॑म् । य॒य । दि॒वा॒व॒सो॒ इति॑ दिवाऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -108,35 +108,35 @@ genre M;; repeated line
 हे इन्द्र **त्वा** त्वां **मदच्युता** मदच्युतौ शत्रूणां मदस्य च्यावयितारौ **हरी** अश्वौ **श्येनं** श्येनाख्यं पक्षिणं **पक्षेव** आत्मीयपक्षाविव **आ** **वक्षतः** आवहताम् । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let your two steeds, humiliators of the pride (of foes), bring you as (his) two wings (bear along) thefalcon; do you, ruling yonder heaven, O radiant with oblations, return here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here will the pair of fallow bays, aroused to exuberance, convey you, as  its two wings convey a falcon,  
 o you who bring goods by day—(though) you (other gods), who impose  order over yonder heaven, have driven off to heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As wings the falcon, so thy Bays rushing in joy shall carry thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich sollen die beiden hochtrabenden Falben wie den Falken die Schwingen hertragen. - Über jenen Himmel herrschend seid ihr ja in den Himmel gegangen, o Divavasu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich trag das muntre Füchsepaar gleichwie den Aar die Flügel her; Von jenes Herrschers Himmel kamt ihr zu dem Feste tageshell. 10. Komm von dem Feinde her zu uns, Heil sei dir! zu des Soma Trunk; Von jenes Herrschers Himmel kamt ihr zu dem Feste tageshell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть пара буланых коней, опьяненных сомой,  
 Как крылья – сокола, примчат тебя!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ङ्गाद्-अङ्गाल् लो꣡म्नो-लोम्नो  
 जात꣡म् प꣡र्वणि-पर्वणि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡म् इदं꣡ वि꣡ वृहामि ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292);; repeated line
 यक्ष्म॑म् । सर्व॑स्मात् । आ॒त्मनः॑ । तम् । इ॒दम् । वि । वृ॒हा॒मि॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aṅgād* ← *aṅgāt* ← *aṅga*
 - \[noun\], ablative, singular, neuter
@@ -112,36 +112,36 @@ popular;; epic anuṣṭubh (292);; repeated line
 **अङ्गादङ्गात्** सर्वेभ्योऽङ्गेभ्यः **लोम्नोलोम्नः** सर्वेभ्यो लोमभ्यश्च **पर्वणिपर्वणि** अवयवानां संधौ  **जातम्** उत्पन्नं **यक्ष्मं** **वि** **वृहामि** । अन्यद्गतम् ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I banish disease from each limb, from each hair, from each joint where it is genitive rated, from your wholeperson.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From every limb, from every hair, what is born in every joint,  
 I tear this disease here out—from your whole body.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From every member, every hair, disease that comes in every joint,  
      From all thyself, from top to toe, I drive thy malady away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von jedem Gliede, von jedem Haare, die in jedem Gelenke entstandene Auszehrung, vom ganzen Körper zieh ich dir jetzt ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus jedem Glied, aus jedem Haar, aus jedem Gelenke treibe ich die darin erzeugte Krankheit fort; aus deinem ganzen Leibe treibe ich sie dir jetzt fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из каждого члена, из каждого волоска,  
 Возникшую в каждом суставе  

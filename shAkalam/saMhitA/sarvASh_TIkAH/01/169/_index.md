@@ -8,7 +8,7 @@ title = "+169"
 ' महश्चित्वम् ' इत्यष्टर्चं पञ्चमं सूक्तमैन्द्रमागस्त्यं त्रैष्टुभम् । द्वितीया चतुष्पदा विराट्  'अथ चतुष्पदा', 'विराड्दशकैः' इत्युक्तत्वात् , ‘विराजो दिशः' (पि. सू. ३.५) इति पिङ्गलनागेन सूत्रितत्वाच्च । महोऽष्टौ द्वितीया विराट्' इत्यनुक्रमणिका । समूळ्हे दशरात्रे द्वितीये छन्दोमे मरुत्वतीये इदं 'विश्वजितोऽग्निं नरः' इति खण्डे सूत्रितं-- द्वितीयस्य शंसा महां महश्चित्वमिन्द्र ' ( आश्व. श्रौ. ८. ७) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 169  
 Indra  
@@ -19,7 +19,7 @@ The poet begins by flattering Indra and suggesting that he is superior to the  M
 Not surprisingly, since Agastya is the poet, the hymn is full of intriguing difficul ties and studied similes, such as the superficially puzzling maxim in the second half  of verse 3, which turns on the paradox of waters producing dry land (by silting up  the channel?).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

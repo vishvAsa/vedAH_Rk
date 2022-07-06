@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते र꣡थो · म꣡नसो ज꣡वीयान्  
 ए꣡न्द्र ते꣡न सोमपे꣡याय याहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡भिर् या꣡सि वृ꣡षभिर् म꣡न्दमानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तूय॑म् । आ । ते॒ । हर॑यः । प्र । द्र॒व॒न्तु॒ । येभिः॑ । यासि॑ । वृष॑ऽभिः । मन्द॑मानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -133,36 +133,36 @@ genre M
 हे **इन्द्र** **मनसः** अपि **जवीयान्** अतिशयेन गन्ता **ते** त्वदीयः **यः** **रथः** अस्ति **तेन** रथेन **सोमपेयाय** अस्मदीयं सोमं पातुम् **आ** **याहि** आगच्छ ॥ ‘पा पाने'। भावेऽचो यत् ।  ‘ ईंद्यति' इतीत्वम् । आर्धधातुकलक्षणो गुणः । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥ तथा **ते** त्वदीयाः **हरयः** रथे संयुक्ता अश्वाः **तूयं** क्षिप्रम् **आ** आभिमुख्येन **प्र** **द्रवन्तु** प्रगच्छन्तु । **वृषभिः** सेक्तृभिः **येभिः** यैरश्वैः **मन्दमानः** मोदमानः सन् **यासि** गच्छसि।  ‘ हरी इन्द्रस्य ' (नि. १. १५. १) इति वचनादिन्द्रस्य द्वावेवाश्वाविति न चोदनीयम् ' आ त्वा सहस्रमा शतम्' ( ऋ. सं. ८. १. २४ ) इत्यादिनिगमान्तरे दर्शनात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Indra**, to the **Soma**-drinking with your chariot, which is swifter than thought; let your bays, thevigorous steeds with which you go along rejoicing quickly, hasten hither.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your chariot that is swifter than thought, Indra, with it drive here for  soma-drinking.  
 Straightaway let your fallow bays run forth here, with which bullish ones  you drive while in exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou hast a car more swift than thought, O Indra; thercon come hither, come to drink the Soma.  
      Let thy Bay Steeds, thy Stallions, hasten hither, with whom thou cornest nigh and art delighted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Wagen, schneller als der Gedanke, auf dem komm, Indra, zum Somatrunk! Deine Falben sollen rasch herlaufen, die Hengste, mit denen du berauscht fährst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Somatrunke komm mit deinem Wagen, der rascher ist, o Indra, als Gedanken, Schnell mögen deine goldnen Hengste laufen, mit denen du voll Lust zu uns herbeikommst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твоя колесница. Что быстрее мысли,  
 Приезжай на ней для питья сомы!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ देवा꣡सो मा꣡नुषीषु विक्षु꣡  
 प्रियं꣡ धुः · क्षेषिय꣡न्तो न꣡ मित्र꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दक्षा꣡यियो यो꣡ दा꣡स्वते द꣡म आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । दी॒द॒य॒त् । उ॒श॒तीः । ऊर्म्याः॑ । आ । द॒क्षाय्यः॑ । यः । दास्व॑ते । दमे॑ । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 देवासोदेवाः क्षेष्यन्तः स्वर्गम्प्रतिगच्छन्तःसन्तः पूर्वम्मानुषीषुमनुष्यसम्बन्धिनीषुविक्षुप्रजासु प्रियन्देवानाम्प्रीणयितारमग्निं धुः अधुः स्थपितवन्तः तत्रदृष्टान्तः—क्षेष्यन्तोमित्रन्न रायम्प्रतिगच्छ- न्तोनरामित्रम्प्रियंसखायंस्वगृहरक्षार्थंस्थापयन्ति तद्वत् एवन्देवैःस्थापितोयोग्निर्दास्वतेहविर्दत्तवते- यजमानायतदर्थन्दमतदीयेयागगृहेआआहितः स्थापितः दक्षाय्यः समर्धयितादातावा सोग्निः उशतीः कामयमानाः ऊर्म्याः रात्रीः सर्वासुरात्रिषुआदीदयत् दीप्यतेसर्वतः सर्वरात्रीरादीपयतिवा ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ genre M
 Shines on the nights: dīdayad uśatīrūrmya: uśatīḥ = kāmayamānāḥ, to be desired; ūrmyā **rātriḥ** = nights, all nights or the whole night: sarvāsu rātriṣu dīpyate; or, **sarva** rātrir ādīpayati, he shines on all nights, or he lights up all nights
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni have the gods installed among the clans stemming from Manu,  their own dear one, as those desiring to dwell peacefully (install)  
 an envoy.  
 He will shine toward the nights desirous (of him), he whose skill is to be  besought for the one rich in gifts in (his own) house.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I tr. dīdayat … ū́rmyā ā́“shine towards the nights,” rather than “illuminate the nights” with the standard tr., because I could not otherwise account for the ā́. Narten’s tr. (KlSch 370 n. 5) is similarly intransitive though with a temporal, rather than goal, acc.: “Er soll die Nächte hindurch leuchten.” Note mitrám √dhā in b reprising the same lexeme in 1c.
 
@@ -162,28 +162,28 @@ Holland &amp; van Nooten Rig Veda edition suggest a rest in 4th position. It wou
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Among the tribes of men the Gods placed Agni as a dear Friend when they would dwell among them.  
      Against the longing nights may he shine brightly, and show the offerer in the house his vigour.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The gods have established beloved Agni among the human clans as (people) going to settle (establish) Mitra 1. May he illuminate the nights that are longing (for him), he who should be treated kindly by the liberal (worshipper) in his house.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni setzten die Götter unter die menschlichen Clane ein als lieben Freund wie die, die in Frieden wohnen wollen, einen Mittler. Er erhellt die Nächte, die nach ihm verlangen, der dem freigebigen Opferer in seinem Hause zur Gunst geneigt ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni setzten in der Menschen Häuser als lieben Freund die Götter, zur Erquickung; Er strahlte durch die holdgesinnten Nächte; ihm muss im Haus der Gabenreiche dienen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Среди людских племен поместили боги  
 Агни любимого, подобно тому как (люди), желающие жить в мире, (заключают) договор о дружбе.  

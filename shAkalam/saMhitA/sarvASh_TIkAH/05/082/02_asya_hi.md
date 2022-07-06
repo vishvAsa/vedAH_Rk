@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्य हि꣡ स्व꣡यशस्तरं  
 सवितुः꣡ क꣡च् चन꣡ प्रिय꣡म्  
 न꣡ मिन꣡न्ति स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 न । मि॒नन्ति॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -89,35 +89,35 @@ genre M
 **अस्य** **सवितुः** **स्वयशस्तरं** स्वयमसाधारणं यशो यस्यातिशयेन भवति तत्तादृशं **प्रियं** सर्वेषां प्रियभूतं **स्वराज्यं** स्वयमेव राजमानत्वमैश्वर्यं **कच्चन** केचिदप्यसुरादयः **न** **मिनन्ति** न हिंसन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Nothing impairs the sovereignty of this **Savitā**, which is most especially renowned and beloved.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For of this Savitar here—his own very self-glorious self-sovereignty they do not confound in any way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Savitar's own supremacy, most glorious and beloved of all,  
      No one diminisheth in aught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn dieses Savitri gar selbstherrliches beliebtes Selbstregiment schmälern sie nicht im geringsten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn alles Gut des Savitar ist herrlich durch sich selbst und lieb; Nicht hemmt man seine Herrschermacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь собственному царству этого Савитара,  
 Обладающему независимым блеском, приятному,  

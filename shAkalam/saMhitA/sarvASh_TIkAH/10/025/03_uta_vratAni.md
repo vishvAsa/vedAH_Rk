@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ व्रता꣡नि सोम ते  
 प्रा꣡ह꣡म् मिनामि पाकि꣡या  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 अध॑ । पि॒ताऽइ॑व । सू॒नवे॑ । वि । वः॒ । मदे॑ । मृ॒ळ । नः॒ । अ॒भि । चि॒त् । व॒धात् । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -133,37 +133,37 @@ genre M;; repeated line
 **उत** अपि च हे **सोम** **अहं** ते तुभ्यं **व्रतानि** यागादिकर्माणि **पाक्या** परिपक्वया सर्वार्थदर्शिन्या प्रज्ञया । यद्वा । पाक्येति व्रतविशेषणमेतत् । पाक्यानि परिपक्वानि परिनिष्ठितानीत्यर्थः **प्र** **मिनामि** प्रहिनस्मि । प्रकर्षेण करोमीत्यर्थः । **अध** अथ यागानन्तरं **वि** **वो** **मदे** तव विविधे मदे सति **नः** अस्मान् **मृळ** सुखय । **अभि** **चिद्वधात्** अभिमुख्येन स्थित्वा शत्र्वादिवधाच्चास्मान् पालयेति शेषः । तत्र दृष्टान्तः । **पितेव** **सूनवे** । यथा पिता पुत्रार्थं सुखयति सर्वस्मात्पुत्रमेव पालयति तद्वत् । यस्मात् सुख्यमानः पाल्यमानश्चाहं युष्मदर्थं पुनःपुनः सोमयागं करोमि तस्मान्मां सुखय पालय चेत्यर्थः । कस्मादेवमुच्यसे । यस्मात्त्वं **विवक्षसे** महान् भवसि । महान्तश्च भक्तान सुखयन्ति पालयन्ति चेति यावत् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, **Soma**, I practise all your observances with fullness; and as a father to his son, so do you inyour exhilaration make us happy; protect us from being killed (by our enemies); for you are mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And I transgress your commandments, Soma, through naïveté.  
 So then, like a father to his son offer mercy to us; (guard us) against the  fatal weapon.  
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even if, O Soma, I neglect thy laws through my simplicity,  
      Be gracious-at your glad carouse-as sire to son. Preserve us even from slaughter. T'hou. art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwar breche ich dir die Gelübde, o Soma, aus Einfalt; doch verzeih uns wie ein Vater seinem Sohne auch ohne Strafe - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verletz' ich auch aus Unverstand, o Soma, je dein heilig Recht, So schenk die Strafe gnädig mir, so wie der Vater seinem Sohn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И если, о сома, твои заветы  
 Я нарушаю по простоте (душевной),  

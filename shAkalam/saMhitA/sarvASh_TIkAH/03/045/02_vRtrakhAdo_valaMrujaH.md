@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृत्रखादो꣡ वलंरुजः꣡  
 पुरां꣡ दर्मो꣡ अपा꣡म् अजः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्रो दॄळ्हा꣡+ चिद् आरुजः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्थाता॑ । रथ॑स्य । हर्योः॑ । अ॒भि॒ऽस्व॒रे । इन्द्रः॑ । दृ॒ळ्हा । चि॒त् । आ॒ऽरु॒जः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛtrakhādo* ← *vṛtra*
 - \[noun\], masculine
@@ -111,41 +111,41 @@ genre M
 **आरुजः** । रुजो भङ्ग इत्यास्मादिगुणफदलक्षण कः । समासे थाथादिस्वरः ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The evourer of **Vṛtra**, the fracturer of the cloud, the sender of the waters, the demolisher of cities, **Indra**, the destroyer of powerful enemies, has mounted his chariot to urge his horses to our presence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Gnawer of Vr̥tra, breaker of Vala, splitter of strongholds, driver of  waters,  
 mounter of the chariot, caller of the two fallow bays—Indra is the one  who breaks apart even the fastnesses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the string of agentive phrases that entirely make up this vs. the poet manages a certain variety of syntactic patterns: standard tatpuruṣa with 1st member obj. (vṛtrakhā́dá-), tatpuruṣa with accusative 1st member (valaṃrujá- [note that without the acc. marker it would be a metrically unfavorable four light syllables]), agent noun with genitive (pāda bc, 4x with 3 separate agent noun types: purā́ṃ darmá-, apā́m ajá-, sthā́tar- ráthasya, háryor abhisvará-), agent noun with acc. (dṛḷhā́… ārujá-). The relentless repetition of nom. sg. agent phrases makes it quite certain that the Pp. loc. sg. reading abhisvaré should instead be taken as nom. sg. -aḥ, with Oldenberg All standard tr. agree. The only argument against this that I can see is that háryor abhisvaráḥ would be the second GEN + simple -á-stem agent phrase (after apā́m ajáḥ in b), and if the poet was serious about producing the phraseological variety I have just catalogued he might have avoided a repetition by couching this phrase in the loc. (“at the calling of the two fallow bays”). The only other occurrence of abhisvará- is in the loc. (-e in sandhi, also pāda-final) and means ‘call’, not ‘caller’ (X.117.8). Still, I do not think this arg. is strong enough to counter-balance the pressure of the nom. sg. sequence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who slew Vrtra, burst the cloud, brake the strongholds and drave the floods,  
      Indra who mounts his chariot at his Bay Steeds' cry, shatters e'en things that stand most firm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra ist der Vritrafresser, der Valabrecher, Burgenzerstörer, Treiber der Gewässer, Lenker des Wagens, Zurufer der Falben, der Erbrecher auch der Festen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Vritra schlägt, den Vala tilgt, der Burgen bricht, die Wasser treibt, Den Wagen lenkt dicht hinter seinem Füchsepaar zerbrechend Indra, was da fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пожиратель Вритры, проламыватель Валы,  
 Взрыватель крепостей, побудитель вод,  

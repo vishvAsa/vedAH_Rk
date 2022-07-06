@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡मूरो हो꣡ता नि꣡ असादि विक्षु꣡  
 अग्नि꣡र् मन्द्रो꣡ विद꣡थेषु प्र꣡चेताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मे꣡तेव धूमं꣡ स्तभायद् उ꣡प द्या꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऊ॒र्ध्वम् । भा॒नुम् । स॒वि॒ताऽइ॑व । अ॒श्रे॒त् । मेता॑ऽइव । धू॒मम् । स्त॒भा॒य॒त् । उप॑ । द्याम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amūro* ← *amūraḥ* ← *amūra*
 - \[noun\], nominative, singular, masculine
@@ -125,41 +125,41 @@ genre M
 **अमूरः** अमूढः । प्रगल्भ इत्यर्थः । **होता** होमनिष्पादकः **मन्द्रः** मदनीयः मादयिता वा **प्रचेताः** प्रकृष्टज्ञानः **अग्निः** देवः **विक्षु** ऋत्विग्रूपासु प्रजासु मध्ये **विदथेषु** यागेषु निमित्तभूतेषु **न्यसादि** नितरां स्थापितः । अथ तथाभूतोऽग्निः **भानुं** दीप्तिं **सवितेव** उदितः सूर्य इव **ऊर्ध्वम्** **अश्रेत्** ऊर्ध्वमुखमाश्रयति । किंच **मेतेव** स्थूणेव । सा यथा स्वाधिष्ठितं वंशादिकं स्तभ्नाति तद्वदयमग्निः **धूमं** स्वोत्थितं **द्याम्** **उप** द्युलोकस्योपरि **स्तभायत्** स्तभ्नाति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The unperplexed, the sagacious, exhilarating **Agni**, the ministrant priest, has been plural ced among men for (the celebration of) sacrifices; like the sun, he spreads light above, and props the smoke above the sky like a pillar.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As ungullible Hotar he has been set among the clans, Agni, gladdening,  forethoughtful at the rites of distribution.  
 Like Savitar he has braced his radiant beam upright; like a builder he  propped his smoke up to heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He was set down mid men as Priest unerring, Agni, wise, welcome in our holy synods.  
      Like Savitar he hath lifted up his splendour, and like a builder raised his smoke to heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The unerring Hotri has sat down among the people, joy-giving Agni, the wise one at the sacrifices 1. Like Savitri he has sent his light upward. Like a builder he has reared his smoke up to the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als der unbeirrte Opferpriester ward er bei den Stämmen eingesetzt, Agni der beliebte, in Weisheit erfahrene. Wie Savitri hat er sein Licht aufgesteckt, wie der Erbauer die Säule, so stemmt er den Rauch gegen den Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Häuser ward gesetzt der treue Priester, der muntre, weise Agni bei den Festen; Wie Savitar liess er den Lichtglanz steigen; er stützt mit Rauch den Himmel wie ein Zimm'rer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Безошибочный хотар уселся среди племен,  
 Агни веселый, провидец, на местах жертвенных раздач.  

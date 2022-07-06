@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रः स्वा꣡हा पिबतु य꣡स्य सो꣡म  
 आग꣡त्या तु꣡म्रो वृषभो꣡ मरु꣡त्वान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡स्य हवि꣡स् तनु꣡वः का꣡मम् ऋध्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । उ॒रु॒ऽव्यचाः॑ । पृ॒ण॒ता॒म् । ए॒भिः । अन्नैः॑ । आ । अ॒स्य॒ । ह॒विः । त॒न्वः॑ । काम॑म् । ऋ॒ध्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -131,36 +131,36 @@ genre M
 लक्षणविषयमभिलाषं **हविः** अस्माभिर्दत्तम् **आ** **ऋध्याः** सर्वतः पूरयतु ॥ तुम्रः । तुमिराहननार्थः । उरुव्यचाः । व्यचेरसुन् । ‘ व्यचेः कुटादित्वमनसीति वक्तव्यम्' इत्यत्र ‘ अनसि' इति पर्युदासात् ङित्त्वाभावः । कृदुत्तरस्वरः । ऋध्याः । ऋध्नोतेः आशीर्लिंङि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra** drink the libation; he of whom is the **Soma**, having come to the sacrifice; he who is the repeller (of adversaries), the showerer (of benefits), the lord of the **Maruts**; may he, the wide-pervading, be plural ased with these (sacrificial) viands; may the oblation be adequate to the wants of his body.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At “Svāhā!” let Indra drink, to whom the soma belongs. On coming here,  bulging, bullish, accompanied by the Maruts,  
 let him, though (already) of broad extent, become filled with these foods.  Might the oblation bring to fulfillment the desire of his body.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET Indra drink, All-hail! for his is Soma,-the mighty Bull come, girt by Maruts, hither.  
      Far-reaching, let him fill him with these viands, and let our offering sate his body's longing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter Svaharuf soll Indra trinken, dem der Soma gehört, wenn der starke Bulle von den Marut begleitet gekommen ist. Da er reichlich Raum hat, soll er sich mit diesen Speisen füllen. Die Opferspende möge dem Verlangen seines Leibes genügen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es trinke Indra, Herr des Soma's, Heil ihm! der feiste Stier, der herkam mit den Maruts; Der umfangreiche fülle sich mit Speisen; giess ein den Trank und still die Lust des Leibes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть пьет Индра: Свага!, тот, кому принадлежит сома,  
 Придя с Марутами, (он,) мощный бык!  

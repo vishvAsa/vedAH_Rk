@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡ ऊ षु꣡ प्र꣡भूतये  
 व꣡रुणाय मरु꣡द्भियो  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 यः । धी॒ता । मानु॑षाणाम् । प॒श्वः । गाःऽइ॑व । रक्ष॑ति । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -121,7 +121,7 @@ genre M;; repeated line
 हे स्तोतः **सु** **प्रभूतये** प्रकृष्टधनाय **अस्मै** **वरुणाय** **विदुष्टरेभ्यः** विद्वत्तरेभ्यः **मरुद्भ्यः** च **अर्च** स्तुहि । **यः** वरुणः **धीता** कर्मणा **मानुषाणां** मनुष्याणां **पश्वः** पशून् **गाइव** **रक्षति** । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,31 +132,31 @@ genre M;; repeated line
 By his acts: **karmaṇā** = karmaṇi,who protects men's religious acts
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chant to this one for him to prevail—to Varuṇa, and to the Maruts, the  very wise ones—  
 (Varuṇa,) who guards the insights of the sons of Manu like the cows of  a herd.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To make this Varuna come forth sing thou a song unto the band of Maruts wiser than thyself,-  
      This Varuna who guardeth well the thoughts of men like herds of kine.  
      Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Singe fein, das es ihm genüge, auf Varuna und auf die sehr kundigen Marut, der die Gedanken der Menschen bewacht wie der Hirt die Herdentiere. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich singe diesem Varuna, dem mächt'gen und der Marutschar, den weisheitsreichen, nun ein Lied; Ihm, der der Menschen Regungen wie Rinderheerden wohl bewacht. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этому могущественному  
 Варуне с Марутами,  

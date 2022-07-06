@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आशु꣡र् अर्ष बृहन्मते  
 प꣡रि प्रिये꣡ण धा꣡मना  
 य꣡त्र देवा꣡ इ꣡ति ब्र꣡वन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत्र॑ । दे॒वाः । इति॑ । ब्रव॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āśur* ← *āśuḥ* ← *āśu*
 - \[noun\], nominative, singular, masculine
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **बृहन्मते** महामते सोम **प्रियेण** देवानां प्रियतमेन **धाम्ना** शरीरेण धारया **आशुः** शीघ्रः सन् **परि** **अर्ष** परिगच्छ । **यत्र** **देवाः** इन्द्रादयो वर्तन्ते **इति** **ब्रवन** ब्रुवन् उच्चारयन् । तां दिशं गच्छामीति ब्रुवन्नित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,12 +100,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Sāmaveda** has bruvan for bravan
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You of lofty thought, swiftly rush around through your dear domain, to where they will say “(here are) the gods.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hymn opens with a mirror-image phonetic figure: āśúr arṣa.
 
@@ -114,23 +114,23 @@ The voc. bṛhanmate ‘having lofty thought’ puns on the name of the poet giv
 On the direct speech in pāda c of this vs., see published introduction. The speech itself consists only of the word devā́ḥ. The place identified by this speech is soma’s goal, where the gods will partake of it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FLOW On, O thou of lofty thought, flow swift in thy beloved form,  
      Saying, I go where dwell the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe schnell ab, du Hochgesinnter, in deiner angenehmen Form, dorthin, wo man sagt, daß die Götter sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O hochgesinnter, ströme schnell durch den geliebten Ort dahin, »Wo Götter sind«, das ist dein Wort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

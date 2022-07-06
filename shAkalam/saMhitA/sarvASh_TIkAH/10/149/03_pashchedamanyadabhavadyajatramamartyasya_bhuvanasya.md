@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पश्चे꣡द꣡म् अन्य꣡द् अभवद् य꣡जत्रम्  
 अ꣡मर्तियस्य भु꣡वनस्य भूना꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पू꣡र्वो जातः꣡ स꣡ उ अस्या꣡नु ध꣡र्म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सु॒ऽप॒र्णः । अ॒ङ्ग । स॒वि॒तुः । ग॒रुत्मा॑न् । पूर्वः॑ । जा॒तः । सः । ऊं॒ इति॑ । अ॒स्य॒ । अनु॑ । धर्म॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *paścedam* ← *paścā*
 - \[adverb\]
@@ -127,7 +127,7 @@ popular
 **अन्यत्** सवितृव्यतिरिक्तम् ”इदं देवतान्तरं ”पश्चा पश्चात् । ' पश्च पश्चा च च्छन्दसि । ( पा. सू. ५. ३. ३३ ) इति निपात्यते । सवितृप्रेरणानन्तरमेव **यजत्रं** यष्टव्यम् ”अभवत् । केन साधनेन । ”अमर्त्यस्य मरणरहितस्य ”भुवनस्य लोकस्य स्वर्गाख्यस्य संबन्धिना **भूना** भूतेन । स्वर्गं उत्पन्नेन सोमेनेत्यर्थः । यद्वा । अमर्त्यस्य भुवनस्य संबन्धीदं देवतान्तरं भूना भूम्ना बहुत्वेन युक्तं यष्टव्यमभवत् । कुत इत्यत आह । हे ”अङ्ग स्तोतः ”सुपर्णः शोभनपतनः ”गरुत्मान् सोमस्यापहर्ता तार्क्ष्यः ”सवितुः प्रेरकादस्माद्देवात् ”पूर्वः प्रथमभावी सन् **जातः** । अतो हेतोः सुपर्णो गरुत्मान् ”अस्य सवितुः **धर्म** धारणमनुसृत्य वर्तते । सवितृप्रेरणाधीनत्वात्सर्वंगतीनां सोमाहरणमपि तदधीनमिति सवितृप्रेरणानन्तरमेव सर्वे सोमयागाः प्रवर्तन्त इत्यर्थः । **उ** इति पूरकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,30 +138,30 @@ popular
 Garutmat: An allusion to **Garuḍa**'s having broughtthe **Soma** from the moon at Savitā's command
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 After this (world) here there came into being the other one [=heaven],  deserving the sacrifice, with its fill of immortal creation.  
 Certainly the fine-feathered Garutmant(-bird) of Savitar [=sun] was  
 born earlier, and it (was born) in accordance with his support.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then, with a full crowd of Immortal Beings, this other realm came later, high and holy.  
      First, verily, Savitar's strong-pinioned Eagle was born: and he obeys his law for ever.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hinterher entstand das andere Heilige mit der Vielheit der unsterblichen Welt. Garutmat, des Savitri Vogel, ward sicherlich zuerst geboren und auch er nach seiner Anordnung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Darauf entstand dies andre, hocherhabne, durch reiche Fülle dessen, was unsterblich; Der Vogel Savitar's, am Himmel schwebend, entstand zuerst da nach des Gottes Willen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Позади возникло это другое достойное поклонения (пространство),  
 С многообразием бессмертного мира.  

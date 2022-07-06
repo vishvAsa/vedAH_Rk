@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ देवो꣡ यातु सविता꣡ सुर꣡त्नो  
 अन्तरिक्षप्रा꣡ व꣡हमानो अ꣡श्वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 निवेश꣡यञ् च प्रसुव꣡ञ् च भू꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 हस्ते॑ । दधा॑नः । नर्या॑ । पु॒रूणि॑ । नि॒ऽवे॒शय॑न् । च॒ । प्र॒ऽसु॒वन् । च॒ । भूम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 **सुरत्नः** शोभनरत्नोपेतः **अन्तरिक्षप्राः** स्वकीयेन तेजसान्तरिक्षस्य पूरयिता **अश्वैः** स्वकीयैर्वाहैः  **वहमानः** उह्यमानः **सविता** सर्वस्य प्रेरकः **देवः** **आ** **यातु** आगच्छतु । कीदृशः। **नर्या** नर्याणि मनुष्यहितानि **पुरूणि** बहूनि धनानि **हस्ते** पाणौ **दधानः** दातुं धारयन् **भूम** भूतानि **निवेशयंश्च**   रात्रिषु स्वे स्थाने स्थापयंश्च **प्रसुवंश्च** अहःसु प्रेरयंश्च । एवंभूतः सविता देव आ यातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ genre M
 Niveśayan ca prasuvan ca **bhūma** = **bhūtāni** rātriṣu sve sthāpayanscaahahsu prerayansca, plural cing beings at night in their own stations, and urging them on by day
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let god Savitar drive here, possessed of good treasure, filling the  
 midspace, journeying with his horses,  
 holding many things meant for men in his hand, bringing the world to  rest and impelling it forth.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -151,23 +151,23 @@ Although Savitar’s role as god of evening, causing the world and its activitie
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY the God Savitar, rich in goodly treasures, filling the region, borne by steeds, come hither,  
      In his hand holding much that makes men happy, lulling to slumber and arousing creatures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gott Savitri soll kommen mit schönem Kleinod, den Luftraum erfüllend, mit Rossen fahrend, in der Hand die vielen für die Männer bestimmten Gaben haltend, die Welt zur Ruhe bringend und erweckend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fahrend, Viel Männerthaten in die Hände nehmend, die Wesen weckend und zur Ruhe legend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть приедет бог Савитар с прекрасным сокровищем,  
 Заполняющий воздушное пространство, ездящий на конях,  

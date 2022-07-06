@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ य꣡ज् ज꣡नान् क्र꣡तुभिः शू꣡र ईक्ष꣡यद्  
 ध꣡ने हिते꣡ तरुषन्त श्रवस्य꣡वः  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 देवाँ꣡ अ꣡छा न꣡ धीत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 इन्द्र॑ । ओ॒क्य॑म् । दि॒धि॒ष॒न्त॒ । धी॒तयः॑ । दे॒वान् । अच्छ॑ । न । धी॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -165,7 +165,7 @@ genre M
 **यत्** यः इन्द्रः **शूरः** विक्रान्तः सन् **जनान्** सर्वान् प्राणिनः **क्रतुभिः** प्रज्ञाभिः **सम्** **ईक्षयत्** सम्यगीक्षयति तत्तद्विषयान् । अन्तर्यामिरूपेण सर्वेषां बुद्धिषु स्थित्वा तैर्विषयानुल्लेखयतीत्यर्थः । यद्वा । क्रतुभिः कर्मभिः सुकृतदुष्कृतरूपैर्निमित्तभूतैस्तत्तत्फलैर्योजयति । एवं प्रेरयति सति **श्रवस्यवः** अन्नमिच्छन्तो यजमानाः **धने** गवादिरूपे **हिते** अभिमते सति । यद्वा । हिते धने अभिप्रेते सति । **तरुषन्त** हिंसन्ति शत्रून् ॥ तरुष्यतिर्वधकर्मा। छान्दसे लुङि व्यत्ययेन च्लेः अङ् । तरतेर्वा लङि उकारसिप्शपः त्रयो विकरणाः ॥ तरन्तीत्यर्थः । अतः कारणात् **श्रवस्यवः** अन्नं हविर्लक्षणम् इन्द्राय आरमने वा इच्छन्तः सन्तः **प्र** **यक्षन्त** प्रकर्षेण यजन्ते ॥ छान्दसे लुङि व्यत्ययेन क्सः ॥ किंच **तस्मै** **इत्** तस्मै प्रसिद्धायेन्द्रायैव **आयुः** हविर्लक्षणमन्नं **प्रजावत्** पुत्रादिसहितं भवति । तैः सहितैर्दीयते इत्यर्थः । किंच यजमानाः **ओजसा** स्वकीयेन बलेन युक्ताः **बाधे** शत्रूणां बाधने निमितभूते सति बाधितुं वा ॥ ‘कृत्यार्थे तवैकेन्केन्यत्वनः' इति केन्प्रत्ययः ॥ **अर्चन्ति'** पूजयन्ति । यद्वा । तस्मै इत् यजमानायैव बाधे बले निमित्तभूते सति। बाध इति बलनाम, ‘बाधः तविषी' (नि. २. ९. ८) इति तन्नामसु पाठात् । प्रजावत् पुत्राद्युपेतम् आयुः अन्नं लब्धुम् ओजसा बलेन युक्ताः अर्चन्ति इन्द्रं पूजयन्ति ऋत्विजः इति शेषः । किंच **धीतयः** कर्मवन्तो यजमानाः **इन्द्रे** इन्द्रसमीपे । 'गङ्गायां घोषः' इतिवत् तत्सामीप्यं लक्ष्यते । इन्द्रलोके इत्यर्थः । तत्र **ओक्यम्** ओको निवासस्थानम् ॥ स्वार्थे यत् ॥ **दिधिषन्त** धारयन्ति ॥ ‘धिष शब्दे' । अत्र धारणार्थः। जौहोत्यादिकः । व्यत्ययेन अन्तादेशः ॥ ते एव पुनर्विशेष्यन्ते । **धीतयः** स्वर्गसाधनकर्मवन्तः सन्तः **देवाँ** **अच्छा** **न** देवान् आभिमुख्येन प्राप्तुमिव ओक्यं दिधिषन्तेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -176,7 +176,7 @@ genre M
 Śravasyavaḥ, plural of śravasyu = from vb. śravasya; **śravas**, food or fame, a wish or desire for food or fame; first occurrence: 'they, desirous of food'; second occurrence: 'desirous of offering food' oblations to Indra. In the heaven of Indra: the text has only indre, in Indra; i.e. in the abode or vicinity of Indra; an example of metonymy: gaṅgāyām **ghoṣaḥ**, a village in or on the **Ganga**, i.e. on the banks of the Ganga
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the champion makes the peoples see in accord with his  
 conceptions, seeking fame they will surpass when the prize is set—  
@@ -185,31 +185,31 @@ To him they chant, for him to thrust (to them) with his strength a (full)  lifet
 In Indra do our thoughts desire to establish their home—our thoughts  (going) as if to the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For īkṣáyat see Jamison 1983: 123. It has the same double I/T value I also ascribe to citáyanta(ḥ) in I.131.2f.
 
 In de I take bā́dhe as an infinitive with tásmai [=Indra] as subj. and ā́yuḥ prajā́vat as obj. This requires √bādh to have a positive value (‘thrust [s.th. good] towards [s.o.]’), rather than the usual negative ‘thrust away, repel’, but see I.61.2 for a similar positive sense.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When with wise plan the Hero leads the people forth, they conquer in the ordered battle, seeking fame, press, eager, onward seeking fame.  
      To him in time of need they sing for life with offspring and with strength.  
      Their hymns with Indra find a welcome place of rest: the hymns go forward to the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn der Held die Augen aller Leute nebst ihren Gedanken auf sich zieht, dann suchen sich bei ausgesetztem Kampfpreis die Ehrgeizigen zu überbieten, zeichnen sich die Ehrgeizigen aus. Ihm preisen sie nach Kräften ein langes kinderreiches Leben an, um ihn zu bestürmen. Die frommen Gedanken möchten sich bei Indra eine Heimstätte bereiten; wie sich´s zu den Göttern ziemt, gehen die frommen Gedanken zu ihm.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn der Held durch seine Geisteskräfte die Menschen erleuchtet, dann kämpfen bei ausgesetztem Preise siegreich die schatzbegierigen, dann dringen vor die schatzbegierigen; ihm singen sie mit Kraft, um kinderreiches Alter stürmend zu erlangen; in ihm suchen die Gebete ihre Heimatsstätte, wie zu den Göttern hin die Gebete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда герой (своими) силами духа притягивает к себе взоры людей.  
 Они пытаются привлечь (его), когда установлена ставка, стремясь к славе,  

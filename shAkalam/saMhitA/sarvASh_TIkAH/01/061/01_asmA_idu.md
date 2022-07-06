@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡ इ꣡द् उ प्र꣡ तव꣡से तुरा꣡य  
 प्र꣡यो न꣡ हर्मि स्तो꣡मम् मा꣡हिनाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्राय · ब्र꣡ह्माणि रात꣡तमा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 ऋची॑षमाय । अध्रि॑ऽगवे । ओह॑म् । इन्द्रा॑य । ब्रह्मा॑णि । रा॒तऽत॑मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -111,20 +111,20 @@ genre M;; gautamī; see Arnold (1905) 240–1
 **इत्** **उ** इति निपातद्वयं पादपूरणे। 'अथापि पादपूरणाः कमीमिद्विति' इति यास्कः। यद्वा अवधारणार्थम् । **तवसे** प्रवृद्धाय **तुराय** त्वरमाणाय। यद्वा । तुर्वित्रे शत्रूणां हिंसित्रे । **माहिनाय** गुणैर्महते **ऋचीषमाय** ऋचा समाय । यादृशी स्तुतिः क्रियते तत्समायेत्यर्थः। **अध्रिगवे** अधृतगमनाय। अप्रतिहतगमनायेत्यर्थः । तथा च यास्कः-’अधृतगमनकर्मवन्निन्द्रोऽप्यध्रिगुरुच्यते ' ( निरु. ५. ११ ) इति । एवंभूताय **अस्मै** **इन्द्राय** **स्तोमं** स्तोत्रं **प्र** **हर्मि** प्रहरामि करोमीत्यर्थः । तत्र दृष्टान्तः । **प्रयो** **न** । प्रयः इति अन्ननाम। यथा बुभुक्षिताय पुरुषाय कश्चिदन्नं प्रहरति । कीदृशं स्तोमम् । **ओहं** वहनीयं प्रापणीयं वा । अत्यन्तोत्कृष्टमित्यर्थः । न केवलं स्तोमं किं तर्हि **ब्रह्माणि** हविर्लक्षणान्यन्नानि । कीदृशानि । **राततमा** पूर्वैर्यजमानैरतिशयेन दत्तानि । इन्द्र स्तुत्या हविषा च परिचरेमेति भावः ॥ तुराय । ‘तुर त्वरणे ' । इगुपधलक्षणः कः। यद्वा । तुर्वी हिंसार्थः । तुर्वतीति तुरः। पचाद्यचि छान्दसो वलोपः । हर्मि। ‘हृञ् हरणे '। ‘बहुलं छन्दसि' इति शपो लुक् । माहिनाय । **मह** पूजायाम्' इत्यस्मात् “ महेरिनण् च ' ( उ. सू. २. २१४ ) इति इनण्प्रत्ययः उपधावृद्धिश्च । ऋचीषमाय।' ऋचीषम ऋचा समः ' ( निरु. ६. २३ ) इति यास्कः । तृतीया तत्कृत! ( पा. सू. २. १. ३०) इति समासः । तृतीयापूर्वपदप्रकृतिस्वरत्वम् । पृषोदरादित्वात् ईकारोपजनः । सुषामादित्वात् षत्वम् । केचिदाहुः । ‘ऋच स्तुतौ ' इत्यस्मात् “ इगुपधात्कित्' इति इप्रत्ययः । ‘कृदिकारादक्तिनः ' इति ङीष् । ऋची स्तुतिः । तया समः । पूर्ववत् षत्वम् । अस्मिन् पक्षे तृतीयापूर्वपदप्रकृतिस्वरत्वे सति ङीष उदात्तत्वेन भवितव्यम्। तथा च न दृश्यते। तस्मात् स्वरश्चिन्तनीयः । यद्वा । दिवोदासादिर्द्रष्टव्यः । अध्रिगवे । अधृतोऽन्येन अनिवारितो गौर्गमनं यस्य स तथोक्तः । ‘गोस्त्रियोरुपसर्जनस्य ' (पा.सू.१.२.४८ ) इति ह्रस्वत्वम् । पृषोदरादित्वात् अधृतशब्दस्य अध्रिभावः । ओहम् । वहतेः कर्मणि घञि छान्दसं संप्रसारणम् । यद्वा । तुहिर् दुहिर् उहिर् अर्दने' इत्यस्मात् ओहतेः पूर्ववत् घञ् । राततमा । ‘रा दाने' इत्यस्मात् निष्ठान्तादातिशायनिकस्तमप्। ' शेश्छन्दसि ' इति शेर्लोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer adoration to that powerful, rapid, mighty, praise-meriting, and unobstructed **Indra**; adoration that is acceptable, and oblations that are grateful, as food (to a hungry man).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just for this one, powerful, precipitous, mighty, do I bring forward praise  like a pleasurable offering—  
 for the one equal to song, not poor, (do I bring) a laud—for Indra (I  bring) sacred formulations best bestowed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ṛ́cīṣama-, an epithet of Indra, is an impossible word; Geldner wisely refuses to tr. it.
 
@@ -132,23 +132,23 @@ However, it is difficult not to see in it a combination of ṛ́c- ‘chant, son
 Here and throughout the hymn, there is a certain amount of phonological and lexical chaining (in addition to the repeated fronted demonstratives). Here 2b bhárāmi picks up both 1c harmi and 1d bráhmāṇi, and 2a asmā́íd u práyaḥ … prá yaṃsi playfully echoes 1a asmā́íd u prá…, with práyaḥ of 1b substituted for the bare preverb prá.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 EVEN to him, swift, strong and high. exalted, I bring my song of praise as dainty viands,  
      My thought to him resistless, praise-deserving, prayers offered most especially to Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm, dem Starken, Überlegenen, bringe ich das Loblied wie Labsal dar, dem Mächtigen, dem ........, nicht Kargen ein Lobeswort, dem Indra erbauliche Reden als bestes Geschenk.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm bring' ich nun dem mächtigen, dem schnellen, wie Labetrunk das Loblied dar, dem grossen, Dem lichten Indra, der unhemmbar schreitet, geweihteste Gebete ihm als Gabe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это ему, сильному, стремительному,  
 Великому, я приношу хвалу как освежение,  

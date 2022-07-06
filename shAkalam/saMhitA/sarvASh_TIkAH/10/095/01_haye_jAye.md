@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हये꣡ जा꣡ये म꣡नसा ति꣡ष्ठ घोरे  
 व꣡चांसि मिश्रा꣡ कृणवावहै नु꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡यस् करन् प꣡रतरे चना꣡हन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 न । नौ॒ । मन्त्राः॑ । अनु॑दितासः । ए॒ते । मयः॑ । क॒र॒न् । पर॑ऽतरे । च॒न । अह॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *haye*
 - \[adverb\]
@@ -137,7 +137,7 @@ genre D
 पुरूरवसो वाक्यम् । जायां पश्यन् वदति । **हये** हे **घोरे**। अस्माकं दुःखजनकत्वात् । घोरकारिणि **जाये** **मनसा** अस्मदुपर्यनुरागवता मनसा युक्ता सती **तिष्ठ** क्षणमात्रं संनिधावेव निवस । हये इत्यस्य निघाताभावश्छान्दसः । किमर्थं संस्थानमिति तत्राह। **वचांसि** वाक्यानि मिश्राणि उक्तिप्रत्युक्तिरूपाणि **नु** अद्य क्षिप्रं वा **कृणवावहै** करवावहै।' कृवि हिंसाकरणयोः'। धिन्विकृण्व्योरञ्च' इत्युप्रत्ययः । किमर्थं वचसः करणमिति चेदुच्यते । **नौ** आवयोः **मन्त्राः** रहस्यार्थाः **एते** विवक्षिताः **अनुदितासः** अव्याह्रियमाणाः परस्परमसंभाष्यमाणा गुम्फिताः सन्तः **परतरे** **चनाहन्** । चनेति निपातसमुदायश्चार्थे । अनेकेषु दिवसेषु चरमेऽप्यहनि **मयः** । सुखनामैतत् । सुखं **न** **करन्** कुर्वन्ति। अतः कृणवावहा इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre D
 Alegend: **mitra** and **Varuṇa**, excited by the charms of **Ūrvaśī**, gave birth to **Agastya**, pronouncing at the sametime an imprecation upon the nymph and condemning her to descend to earth and cohabit with a mortal. Iḷā, aking, had gone out hunting with the sons of **Manu**. He reached a mountain where Umā, the daughter of themountain, with her attendant nymphs, was worshipping **Śiva**. In punishment for his intrusion, he was changedinto a woman. He prayed to Śiva and was restored to manhood; he was referred to **Devī** who allowed him to bealternately **male** and feminine le, six months at a time. in the latter condition **Budha**, the son of **Soma**, becameenamoured of her, and had a son by her, who was called Purūravā who became the king of **Pratiṣṭhāna**.Purūravā became enamoured of Ūrvaśī, who became his mistress on condition that if he should be everaked in her sight, except in bed, she should return to heaven; he was also to take charge of two pet ramsbelonging to her. They lived together four years, when one night, hearing the bleating of the rams as they werebeing carried off by the gods, Purūravā sprang from the bed in pursuit, when a flash of lightning exhibited himto **Ūrvaśi** naked. She consequently left him and returned to heaven. Purūravā went in quest of her, andwandered aqbout like one distracted, until he finally discovered her sporting with fellow-nymphs. He implored herto return, but she refused, calling him by various opporbrious names, as horse, brute, and the like (**vajra**). Thisoccasions the dialogue of the **sūkta**, which contains an allusion to the past cohabitation of the king and thenymph and the unwillingness of the king to let his mistress depart. The legend is also related in the **drama**, theVikramorvas'I and in the **Ādi parva** of the **Mahābhārata**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Purūravas:] “Woe, wife! Thoughtfully—stand still, fearsome woman!— let us two now exchange words.  
 These thoughts, if unuttered, will not bring us joy even on a distant day.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ho there, my consort! Stay, thou fierce-souled lady, and let us reason for a while together.  
      Such thoughts as these of ours, while yet unspoken in days gone by have never brought us comfort.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Holla, Weib, verständig - bleib stehen, du Böse! Laß uns doch Worte wechseln! Nicht werden uns solche Gedanken, wenn sie unausgesprochen bleiben, auch nicht an einem ferneren Tage Freude machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wohlan, o Weib, halte inne mit deinem Vorhaben [mich zu verlassen], o Ehrfurchterweckende, wir wollen jetzt Worte miteinander wechseln; wenn diese unsre Reden ungesprochen bleiben, so werden sie uns in späterer Zeit keine Lust bereiten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

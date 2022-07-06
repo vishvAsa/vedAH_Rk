@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ व स्तो꣡मो मरुत इयं꣡ गी꣡र्  
 मान्दारिय꣡स्य मानिय꣡स्य कारोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 आ । इ॒षा । या॒सी॒ष्ट॒ । त॒न्वे॑ । व॒याम् । वि॒द्याम॑ । इ॒षम् । वृ॒जन॑म् । जी॒रऽदा॑नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 हे **मरुतः** **एषः** **स्तोमः** इदानींक्रियमाणप्रकारं स्तोत्रं वः युष्मदर्थं युष्मत्प्रीणनाय भवत्वित्यर्थः । तथा **इयं** **गीः** स्तुतिरूपा वागपि वो युष्मदर्थाय । यस्मात् एवं तस्मात् **मान्दार्यस्य** स्तुतिविशेषैर्मन्दयितुः स्तुतिभिर्मदस्य प्रेरयितुर्वा **मान्यस्य** वरप्रदानादिना माननीयस्य **कारोः** स्तोतुः **इषा** इच्छया **आ** **यासीष्ट** आगच्छत । किमर्थम् । **तन्वे** शरीराय तत्पोषायेत्यर्थः। **वयां** वयमपि **इषम्** अन्नं **वृजनं** बलं **जीरदानुं** जयशीलदानम् एतत्सर्वं विद्याम । युष्मास्वागतेषु यज्ञसंपूर्त्येष्ट्यादिद्वारा लभेमहि ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,34 +127,34 @@ genre M
 Capable of conferring: māndāyasya kāroḥ: the epithet is stutiviśeṣair mandayituḥ; or, stutibhir madasya prerayituḥ, causer of plural asure by praises; food, strength and long life: iṣam vṛjanam jīradānum: jīradānum = jayaśīlam **dānam**, donation connected with victory; the hymn is repeated at the end of the next **sūkta**; where it is explained as: cirakāla jīvanam, long life
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Narrator:] This is your praise song, Maruts—this song of the praise  poet Māndārya, son of Māna.  
 With his refreshing offering he would beg *reconciliation (with you) for  himself. – May we know refreshment and a community having lively  waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the tr. assumes underlying avayā́m (‘vayā́m in sandhi) ‘propitiation’. This does not require emendation to the Saṃhitā text, since the word appears after vowel-final tanvé.]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this your praise, may this your song, O Maruts, sung by the poet, Mana's son, Mandarya,  
      Bring offspring for ourselves with food to feed us. May we find strengthening food in full abundance!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Preislied, diese Lobrede des Dichters Mandarya, des Maniden, ist für euch, Marut. Er möchte durch Nahrungsfülle für seine Person zu Nachwuchs gelangen. - Wir möchten einen gastfreien Opferbündler kennen lernen, der rasch schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch, Maruts, gilt dies Lied des Manasohnes, das Lob des Dichters von dem Stamm Mandāra's, Mit Labung kommt herbei zu eigner Stärkung gebt Labung uns und wasserreiche Fluren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот восхваление для вас, о Маруты, вот песня  
 Певца Мандарьи Маньи.  

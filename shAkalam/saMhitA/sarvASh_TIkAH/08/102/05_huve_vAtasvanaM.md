@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हुवे꣡ वा꣡तस्वनं कवि꣡म्  
 पर्ज꣡न्यक्रन्दियं स꣡हः  
 अग्निं꣡ समुद्र꣡वाससम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒ग्निम् । स॒मु॒द्रऽवा॑ससम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *huve* ← *hvā*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -83,36 +83,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **वातस्वनं** वातसदृशध्वनिं **कविं** क्रान्तकर्माणं **पर्जन्यक्रन्द्यं** पर्जन्यसदृशक्रन्दनं **सहः** सहस्विनं वाडवम् **अग्निं** **हुवे** ह्वयामि । अन्यद्गतम् ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke **Agni**, dwelling in the midst of the sea, the wise one, roaring like the wind, might, with a voicelike **Parjanya**'s.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call upon the sage poet, whose rush is the wind’s, upon his might,  whose roar is thunder’s,  
 upon Agni, whose garment is the sea.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1 call the Sage who sounds like wind, the Might that like Parjanya roars,  
      Agni who clothes him with the sea.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe den wie der Wind brausende Seher, die wie Parjanya brüllende Macht an, den Agni, der sich in das Meer einhüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den weisen, der wie Wind erbraust, den starken, der wie Donner brüllt, Agni, den meerumkleideten,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я зову поэта, шумящего, как ветер,  
 Силу, ревущую, как Парджанья,  

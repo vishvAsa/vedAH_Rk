@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वो वृता꣡भ्यो अ꣡कृणोद् उलोकं꣡†  
 यो꣡ वो मह्या꣡ अभि꣡शस्तेर् अ꣡मुञ्चत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवमा꣡दनम् प्र꣡ हिणोतनापः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्मै॑ । इन्द्रा॑य । मधु॑ऽमन्तम् । ऊ॒र्मिम् । दे॒व॒ऽमाद॑नम् । प्र । हि॒णो॒त॒न॒ । आ॒पः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -138,36 +138,36 @@ genre M
 **यः** इन्द्रः **वृताभ्यः** मेघेरावृताभ्यः परिवेष्टिताभ्यः **वः** युष्मभ्यमद्यः म **लोकं** मेघोदरान्निर्गमनमार्गम् **अकृणोत्** अकरोत् । **उ** इति पूरणः । किंच **यो** **वः** युष्मानपः **मह्याः** महत्याः **अभिशस्तेः** मेघपरिवेष्टनाभिहिंसनात् **अमुञ्चत्** मोचितवान् । हे **आपः** यूयं **तस्मै** तादृशाय **इन्द्राय** **मधुमन्तं** मधुरस्वादुयुक्तं **देवमादनम्** इन्द्रादिदेवानां सोमेन सह मिश्रीभूय तर्पयितारम् **ऊर्मिम्** अप्संघातं **प्र** **हिणोतन** अस्मद्यज्ञं प्रति गमयत । सोमाभिषवकर्माङ्गभावाय प्रस्थापयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Present, waters, the sweet-flavoured god-exhilarating mixture to that **Indra** who has made an issue foryou when enveloped (by the clouds); who has liberated you from a great calamity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who made wide space for you who were blocked, he who freed you  from the great curse,  
 to him, to Indra, propel your honeyed wave that exhilarates the gods,  o waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who made room for you when fast imprisoned, who freed you from the mighty imprecation,-  
      Even to that Indra send the meath-rich current, the wave that gratifies the Gods, O Waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem, der euch Eingeschlossenen Freiheit schuf, der euch von großer Schande erlöste, für diesen Indra sendet eure süße, götterberauschende Welle, ihr Gewässer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der euren Werken weiten Raum verschafft hat, und euch erlöst hat aus dem grossen Banne, O Wasser, dem ergiesst die süsse Welle, dem Indra sie, die alle Götter labet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто для вас, замкнутых, создал простор,  
 Кто избавил вас от великого бесчестья,  

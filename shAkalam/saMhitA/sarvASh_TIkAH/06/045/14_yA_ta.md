@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ त ऊति꣡र् अमित्रहन्  
 मक्षू꣡जवस्तमा꣡सति  
 त꣡या नो हिनुही र꣡थम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तया॑ । नः॒ । हि॒नु॒हि॒ । रथ॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -85,41 +85,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अमित्रहन्** अमित्राणां शत्रूणां हन्तरिन्द्र **ते** त्वदीया **मक्षुजवस्तमा** अतिशयेन शीघ्रजवा या **ऊतिः** गतिः **असति** अस्ति **तया** गत्या **नः** अस्माकं रथं **हिनुहि** प्रेरय शत्रुजयार्थं शीघ्रं गमय ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Destroyer of enemies with that your velocity, which is of exceeding swiftness, impel our chariots (against the foe).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your help that has the quickest speed, o smasher of foes—  
 with that impel our chariot.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The subjunctive ásati was omitted in tr.: the first line should read “Your help that will have …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Slayer of foes, whatever aid of thine imparts the swiftest course,  
      With that impel our car to speed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was deine schleunigste Hilfe sein mag, du Feindetöter, mit der beschleunige unseren Wagen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Feindtödter, welche Förderung du hast, die schnell beeilendste, Mit der treib unsern Wagen vor.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) твоя поддержка, о убийца недругов,  
 Что бывает самой стремительной,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धीभि꣡र् हिन्वन्ति वाजि꣡नं  
 व꣡ने क्री꣡ळन्तम् अ꣡त्यविम्  
 अभि꣡ त्रिपृष्ठ꣡म् मत꣡यः स꣡म् अस्वरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अ॒भि । त्रि॒ऽपृ॒ष्ठम् । म॒तयः॑ । सम् । अ॒स्व॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
@@ -89,7 +89,7 @@ genre M
 **वाजिनं** बलवन्तं **वने** वननीये वसतीवर्याख्य उदके **क्रीळन्तं** संक्रीडमानम् **अत्यविम्** । अविशब्देन तद्रोमकृतं पवित्रमभिधीयते । अतिक्रान्तपवित्रं सोममृत्विजः **धीभिः** स्तुतिभिः **हिन्वन्ति** वर्धयन्ति । यद्वा । धीभिः । वर्णलोपश्छान्दसः। धीतिभिरङ्गुलीभिर्हिन्वन्ति प्रेरयन्ति । ‘ हि गतौ वृद्धौ च ' स्वादिः। किंच **त्रिपृष्ठम्** । त्रीणि पवित्राणि द्रोणकलशाधवनीय पूतभृदाख्यानि पात्राणि स्पृशतीति त्रीणि सवनानि वा स्पृशतीति स तथोक्तः । तं सोमं **मतयः** स्तुतयः **अभि** **समस्वरन्** अभितः संस्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,13 +100,13 @@ genre M
 With their fingers: dhībhiḥ = dhītibiḥ; or, by their praises
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With insights they impel the prizewinner, playing in the wood, across  the sheep [=fleece].  
 The thoughts sound together toward the three-backed one.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -115,23 +115,23 @@ In all cases it’s possible to detach the last four syllables, but Oldenberg co
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With songs they send the Mighty forth, sporting in wood, above the fleece:  
      Our psalms have glorified him of the triple height.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Gebeten treiben sie den Preisrenner an, der im Holze sich tummelt, durch die Schafwolle geht. Dem Dreirückigen schallten die Lieder im Chor entgegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Andacht spornen sie das Ross, das durch das Sieb zur Kufe springt; Der dreifach trägt, ihm rauschten jetzt Gebete zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Молитвами они поторапливают захватчика награды,  
 Резвящегося в деревянном (сосуде), (спешащего) через овечью шерсть.  

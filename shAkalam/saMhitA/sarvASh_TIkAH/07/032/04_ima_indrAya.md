@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡ इ꣡न्द्राय सुन्विरे  
 सो꣡मासो द꣡धिआशिरः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 ह꣡रिभ्यां याहि ओ꣡क आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तान् । आ । मदा॑य । व॒ज्र॒ऽह॒स्त॒ । पी॒तये॑ । हरि॑ऽभ्याम् । या॒हि॒ । ओकः॑ । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ima* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -108,35 +108,35 @@ genre M
 हे **वज्रहस्त** **दध्याशिरः** दधिमिश्रणाः **इमे** सोमासः सोमाः **इन्द्राय** तुभ्यं **सुन्विरे** सुता बभूवुः । **तान्** सोमान् **मदाय** मदार्थं **पीतये** पानाय **ओकः** यज्ञसदनम् **आ** अभि **हरिभ्याम्** अश्वाभ्याम् **आ** **याहि** आगच्छ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These **Soma**, mixed with curds, are poured out to **Indra**; come, wielder of the thunderbolt, with yourhorses of our dwelling, to drink there for (your) exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These soma drinks here, mixed with curds, have been pressed for Indra. Drive to them with your pair of fallow bays, o you with mace in hand— for exhilaration, for drinking—(as if) to your home.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Soma juices, mixed with curd, have been expressed for Indra here.  
      Come with thy Bay Steeds, Thunder-wielder, to our home, to drink them till they make thee glad.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese mit saurer Milch gemischten Somatränke sind für Indra gepreßt. Zu diesen komm, du Keulenträger, um dich zu berauschen, um zu trinken, mit den Falben zu deinem Lieblingsort!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma hier mit Milch gemischt, dem Indra ist er ausgepresst; Um ihn zu trinken dir zum Rausch, komm blitzbewehrt her mit den Füchsen in das Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Индры выжимаются эти  
 Соки сомы, смешанные с кислым молоком.  

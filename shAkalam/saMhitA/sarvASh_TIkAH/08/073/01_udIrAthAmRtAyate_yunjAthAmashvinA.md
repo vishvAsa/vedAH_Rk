@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् ईराथाम् ऋतायते꣡  
 युञ्जा꣡थाम् अश्विना र꣡थम्  
 अ꣡न्ति ष꣡द् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -89,36 +89,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अश्विना** अश्विनौ **ऋतायते** यज्ञमिच्छते मह्यं मदर्थम् **उदीराथाम्** उद्गच्छतम् । तदर्थं हवमाह्वानं यज्ञं ता प्राप्तुं **युञ्जाथां** योजयतमश्वैः **रथम्** । **वां** युवयोः **अवः** रक्षणम् **अन्ति** अस्मदन्तिके **सत्** वर्तमानं **भूतु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rise, **Aśvins**, on my behalf, as I prepare to sacrifice; yoke your ear; let your protection abide near me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rise up for the man who acts according to truth; hitch up your chariot, o  Aśvins.  
 – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ROUSE ye for him who keeps the Law, yoke your steeds, Aiyins, to your car  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brechet auf zu dem im Gesetz Wandelnden, schirret euren Wagen an, Asvin! - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, eilet zu dem Frommen hin, den Wagen schirrt, o Ritter an, Es sei uns eure Hülfe nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отправляйтесь к благочестивому!  
 Запрягайте, о Ашвины, колесницу!  

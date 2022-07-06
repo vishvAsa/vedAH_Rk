@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पी꣡वोअन्नाँ रयिवृ꣡धः सुमेधाः꣡  
 श्वेतः꣡ सिषक्ति नियु꣡ताम् अभिश्रीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे꣡न् न꣡रः सुअपत्या꣡नि चक्रुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ते । वा॒यवे॑ । सऽम॑नसः । वि । त॒स्थुः॒ । विश्वा॑ । इत् । नरः॑ । सु॒ऽअ॒प॒त्यानि॑ । च॒क्रुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pīvoannāṃ* ← *pīvoanna*
 - \[noun\], accusative, plural, masculine
@@ -123,7 +123,7 @@ genre M
 **पीवोअन्नान्** पीवांसि स्थूलानि प्रभूतान्यन्नानि येषां तान् **रयिवृधः** रय्या धनेन वृद्धानेवंभूतानाढ्यजनान् **सुमेधाः** शोभनप्रज्ञः **नियुतां** वडवानां स्ववाहानाम् **अभिश्रीः** अभिश्रयणीयः **श्वेतः** श्वेतवर्णो वायुः **सिषक्ति** सेवते । **ते** च जनाः **समनसः** समानमनस्काः सन्तः **वायवे** वायुमुद्दिश्य यष्टुं **वि** **तस्थुः** विविधमवतिष्ठन्ते । स्थित्वा च ते **नरः** कर्मणां नेतारो जनाः **विश्वेत्** विश्वानि सर्वाण्येव **स्वपत्यानि** शोभनापत्यहेतूनि यद्वा सुष्ठ्वपतनकारणानि वायुदेवत्यानि कर्माणि **चक्रुः** कुर्वन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M
 Glorious with the Niyut steeds:niyutam abhiśriḥ is the resort or lord of the Niyuyt steeds, niyhutam abhiśrayaṇīyāḥ; those men who arewell-fed: the epithets are alternatively applied to the **Niyuts** or to adhyajanān, wealthy men
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The very wise one [=Soma], gleaming white, the full glory of the teams,  accompanies those whose food is fat [=cows], who are strong through  wealth.  
 The like-minded (drops) have extended themselves for Vāyu. The men  have done all (ritual actions) bringing good descendants.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As discussed in the published introduction, I differ from the standard tr. (which consider Vāyu the subject of ab and the referent of the acc. pl. in pāda a to be the sacrificers) in considering this first hemistich a disguised reference to the soma offered to Vāyu. Although the Vāyu identification might seem the default -- and it indeed may be correct -- both the vocabulary and the ritual situation seem to point in another direction. The descriptor sumedhás- is never otherwise used of Vāyu, but it is applied 3x to Soma or his drop (IX.92.3, 93.3, 97.23); the only figure who receives this epithet more often is Agni. Similarly śvetá- is not used of Vāyu (for the supposed application in the immed. preceding hymn, VII.90.3, where I think it refers to Dawn, see comm. ad loc.), but does apply to a drop (drapsá-) in nearby VII.87.6, while Soma makes himself a śvetá- rūpá- in IX.74.7. The adj. is also used of horses (VII.77.3), and perhaps, in conjunction with niyútām abhiśrī́ḥ “the full glory of the teams,” Soma is configured here as the lead horse of the “teams” of offerings we will make to Vāyu. The beings (acc.) that the subject accompanies (siṣakti) are called pī́voanna- ‘whose food is fat’, a hapax. It seems an unlikely epithet of human sacrificers, as the standard interpr. requires. It might describe the ritual fires, but it is most clearly reminiscent of X.100.10 ū́rjam gāvo yávase pī́vo attana, ṛtásya yā́ḥ sádane kóśe aṅgdhvé “O cows, eat nourishment in the pasture, eat fat, you who are anointed in the cup, at the seat of truth,” addressed to the milk to be ritually mixed into the soma. The masc. gender of pī́vo-annān is something of a stumbling block to this interpr., but it might result from the variable gender of the underlying referent gó- ‘cow’ or reference a masc. term for milk or liquid in general. The other acc. pl.
 
@@ -153,23 +153,23 @@ To sum up, though I don’t reject the Vāyu / human ritualist interpr. of the n
 My interpr. of c follows from that of ab. I take the pl. subj. to be the drops of soma, extending themselves as offering to Vāyu -- not the priestly sacrificers. Only in d do these sacrificers make their appearance (náraḥ).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise, bright, arranger of his teams, he. seeketh men with rich food whose treasures are abundant.  
      They have arranged them of one mind with Vayu: the men have wrought all noble operations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der einsichtsvolle, weise Oberherr der Niyutgespanne sucht diejenigen auf, die fette Speisen haben, und ihre Reichtümer mehren. Diese stehen einmütig dem Vayu zu Diensten. Die Herren haben alles getan, was gute Nachkommenschaft bringt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Vielgespanne lichter, weiser Lenker liebt die, die fette Speis' und Gaben bringen; Zum Vaju eilten gleichgesinnt die Männer, vollbrachten alle segensreichen Werke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За теми, у кого жирная пища (и) растущие богатства,  
 Следует очень мудрый светлый повелитель упряжек(-даров).  

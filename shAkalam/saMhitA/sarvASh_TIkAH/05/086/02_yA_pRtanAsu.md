@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ पृ꣡तनासु दुष्ट꣡रा  
 या꣡ वा꣡जेषु श्रवा꣡यिया  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इन्द्राग्नी꣡ ता꣡ हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 या । पञ्च॑ । च॒र्ष॒णीः । अ॒भि । इ॒न्द्रा॒ग्नी इति॑ । ता । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
@@ -102,7 +102,7 @@ genre M;; repeated line
 **या** यौ **इन्द्राग्नी** पृतनासु **दुष्टरा** दुष्टरौ अनभिभाव्यौ । **या** यौ च **वाजेषु** संग्रामेषु अन्नेषु वा **श्रवाय्या** श्रवाय्यौ स्तुत्यौ । **या** यौ **पञ्च** **चर्षणीः** । चर्षणयो मनुष्याः । तान् **अभि** । रक्षतः इति शेषः । **ता** तौ महानुभावौ **हवामहे** स्तुमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,36 +113,36 @@ genre M;; repeated line
 **Pañca** carṣanīḥ, a temr which preclues all allusion to mythological beings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two who are difficult to surpass in battles, who are worthy of fame  at the prize-contests,  
 who sur(mount) the five domains—these two, Indra and Agni, we  
 invoke.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation starts the vs. in the 2nd ps. (“you two who”) and ends in the 3rd ps. (“these two”). This does not represent the text entirely fairly, because the grammatical person is entirely unclear until the last pāda, which contains an acc. dual dvandva and a 3rd ps. dual acc. prn. (tā́) and a 1st ps. pl. verb. Until pāda d Indra and Agni are represented only by the insistent rel. du. yā́(a, b, c). The vs. could therefore be couched entirely in the 3rd ps. (“the two who …”), as the standard tr. do. I stand by my modulatory tr. because, based on vs. 1 with its voc. dual dvandva and 2nd du. verb ávathaḥ, we start vs. 2 assuming the 2nd ps. context carries over, and nothing disturbs that assumption until the very end of the vs. ### 02-04
 Vs. 3 is the middle vs. of the hymn, since vs. 6 is in a different meter and is an extra-hymnic summary vs. It has the marks of an omphalos, esp. semantic and syntactic obscurity. The real difficulties lie in the central 3cd along with 4a, which is verbally related to 3cd by the problematic eṣ-forms (see below). The omphalos is framed, in classic omphalos fashion, by indrāgnī́(tā́) havāmahe in 2d and 4b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Twain invincible in war, worthy to be renowned in frays,  
      Lords of the Fivefold. People, these, Indra and Agni, we invoke.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beide in den Schlachten kaum überwindbar, die in den Kämpfen ruhmwürdig, welche die fünf Völker überragen, Indra und Agni rufen wir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die unbesieglich in der Schlacht in Kämpfen anzurufen sind, Der fünf Geschlechter Könige, die, Indra, Agni, rufen wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Их двоих,) кого не превзойти в сражениях,  
 Кто достоин славы в делах, связанных с наградами,  

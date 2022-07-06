@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वृषस्व महामह  
 महे꣡ नृतम रा꣡धसे  
 दॄळ्ह꣡श्+ चिद् दृह्य मघवन् मघ꣡त्तये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दृ॒ळ्हः । चि॒त् । दृ॒ह्य॒ । म॒घ॒ऽव॒न् । म॒घत्त॑ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -89,42 +89,42 @@ genre M
 हे **महामह** अतिशयेन सर्वैः पूजनीय **नृतम** नेतृतमेन्द्र **महे** महते **राधसे** शत्रुधनानां संसाधकाय बलाय बलार्थम् **आ** **वृषस्व** स्वोदरमासिञ्च। सोमं पिबेत्यर्थः । हे **मघवन्** धनवन्निन्द्र सोमपानेन मत्तः सन् **दृळ्हश्चित्** दृढानि परैरबाधितान्यपि शत्रुपुराणि **मघत्तये** मघानां धनानां लाभाय **दृह्य** जिघांस । विदारयेत्यर्थः ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Most adorable, chief leader (of men), invigorate (yourself with the **Soma**) for (the conquest of) greatwealth; consume, **Maghavan**, the strong (cities of the **asuras**) for the rich spoil.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rain yourself down, o you who are greater than great, o best of men,  for great generosity.  
 Being yourself steadfast, stand fast, bounteous one, for bounteous  
 giving.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A verse full of figures: mahāmaha, mahé (ab), dṛḷháś cid dṛhya (c), maghavan magháttaye. There is also an inter-tṛca echo between voc. nṛto (9b) and voc. nṛtama (10b), with nṛto returning in 12a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most Mighty, most heroic One, for mighty bounty fill thee full.  
      Though strong, strengthen thyself to win wealth, Maghavan!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ermanne dich zu großer Freigebigkeit, Großmächtiger, Männlichster! Wenn du schon fest entschlossen bist, bleibe auch fest Gaben zu schenken, du Freigebiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu grosser Spende schlürfe nun, grossmächtigster, gewaltigster, Sei stark, o starker, reich, um Reichthum zu verleihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Заливай себя (сомой), о величественный,  
 Для великого дарения, о лучший из танцоров!  

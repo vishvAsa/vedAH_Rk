@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बभ्र꣡वे नु꣡ स्व꣡तवसे  
 अरुणा꣡य दिविस्पृ꣡शे  
 सो꣡माय गाथ꣡म् अर्चत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमा॑य । गा॒थम् । अ॒र्च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *babhrave* ← *babhru*
 - \[noun\], dative, singular, masculine
@@ -72,43 +72,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे स्तोतारः **बभ्रवे** बभ्रुवर्णाय **स्वतवसे** स्वबलाय **अरुणाय** कदाचिदरुणवर्णाय **दिविस्पृशे** दिवं स्पृशते **सोमाय** **नु** क्षिप्रं **गाथं** स्तुतिरूपां वाचम् **अर्चत** । उच्चारयतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Recite praises to the brown-coloured self-vigorous (at times) red heaven-touching **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, to the self-powerful brown one, to the ruddy one who touches  heaven,  
 to Soma, chant a song.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 DAT gāthám arcata can be seen as a paraphrase of úpa DAT gāyatā in 1a, with etymological matching.
 
 The epithet divispṛ́ś- ‘touching heaven’ is almost the only departure in this hymn from the tight, earthbound focus on the ritual.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sing a praise-song to Soma brown of hue, of independent might.  
      The Red, who reaches up to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem braunen, selbststarken, rötlichen zum Himmel bewegten Steine ausgepreßt haben; rühret Süßigkeit in die Süßigkeit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem flammenden, selbstkräftigen, dem rothen, der zum Himmel reicht, Dem Soma singet Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Исполните же песню для сомы,  
 Бурого, обладающего собственной силой,  

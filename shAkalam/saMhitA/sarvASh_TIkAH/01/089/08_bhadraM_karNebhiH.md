@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्रं꣡ क꣡र्णेभिः शृणुयाम देवा  
 भद्र꣡म् पश्येम अक्ष꣡भिर् यजत्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ अशेम देव꣡हितं य꣡द् आ꣡युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 स्थि॒रैः । अङ्गैः॑ । तु॒स्तु॒ऽवांसः॑ । त॒नूभिः॑ । वि । अ॒शे॒म॒ । दे॒वऽहि॑तम् । यत् । आयुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
@@ -123,7 +123,7 @@ genre M
 हे **देवाः** दानादिगुणयुक्ताः सर्वे देवाः **कर्णेभिः** अस्मदीयैः श्रोत्रैः **भद्रं** भजनीयं कल्याणं वचनं **शृणुयाम** युष्मत्प्रसादाच्छ्रोतुं समर्थाः स्याम । अस्माकं बाधिर्यं कदाचिदपि मा भूत् । हे **यजत्राः** योगेषु चरुपुरोडाशादिभिर्यष्टव्या देवाः **अक्षभिः** अक्षिभिरात्मीयैश्चक्षुर्भिः भद्रं शोभनं **पश्येम** द्रष्टुं समर्थाः स्याम । अस्माकं दृष्टिप्रतिघातोऽपि मा भूत् ( ' इत्यस्यानन्तरं ‘ श्रोत्रचक्षुषोः भद्राभद्रविषयश्रवणदर्शने प्रतिनियते । अतो नित्यं भद्रविषयश्रवणदर्शने स्यातामिति प्रार्थ्यते   ' इत्यधिकम् )। **स्थिरैः** दृढैः **अङ्गैः** हस्तपादादिभिरवयवैः **तनूभिः** शरीरैश्च युक्ता वयं **तुष्टुवांसः** युष्मान् स्तुवन्तः **यत्** **आयुः** षोडशाधिकशतप्रमाणं विंशत्यधिकशतप्रमाणं वा **देवहितं** देवेन प्रजापतिना स्थापितं तत् **व्यशेम** प्राप्नुयाम ॥ कर्णेभिः ‘ बहुलं छन्दसि ' इति भिसः ऐसभावः । अक्षभिः । छन्दस्यपि दृश्यते ' इति अनङ् स च उदात्तः । यजत्राः । ‘ अमिनक्षि° ' इत्यादिना यजे: अत्रन्प्रत्ययः । तुष्टुवांसः । ‘ ष्टुञ् स्तुतौ । लिटः क्वसुः । ‘ शर्पूर्वाः खयः' इति तकारः शिष्यते । अशेम । **अशू** व्याप्तौ ' । लिङ्याशिष्यङ्'। यदि तु तत्र परिगणनमन्यव्यावृत्त्यर्थं तदानीं लिङि व्यत्ययेन शप् । देवहितम् ।' तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -134,29 +134,29 @@ genre M
 Devahitam = (singular) **Prajāpati**, a patriarch or **Brahmā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we hear (only what is) auspicious with our ears, o gods; might we  see (only what is) auspicious with our eyes, o you who are worthy of  the sacrifice.  
 Having praised (you?), with sturdy limbs and bodies might we traverse  the lifetime that has been established by the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gods, may we with our ears listen to what is good, and with our eyes see what is good, ye Holy Ones.  
      With limbs and bodies firm may we extolling you attain the term of life appointed by the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gutes wollen wir mit Ohren hören, ihr Götter, Gutes mit Augen sehen, ihr Opferwürdige. Mit festen Gliedern und Leibern wollen wir, die wir lobgesungen haben, das gottgesetzte Alter erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre Götter, Mit festen Gliedern stehend, festen Leibern, das gottgesetzte Lebensziel erreichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасное да услышим мы ушами, о боги!  
 Прекрасное да увидим мы глазами, о достойные жертв!  

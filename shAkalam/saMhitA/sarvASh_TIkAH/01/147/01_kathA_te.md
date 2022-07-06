@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ ते अग्ने शुच꣡यन्त आयो꣡र्  
 ददाशु꣡र् · वा꣡जेभिर् आशुषाणाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋत꣡स्य सा꣡मन् रण꣡यन्त देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 उ॒भे इति॑ । यत् । तो॒के इति॑ । तन॑ये । दधा॑नाः । ऋ॒तस्य॑ । साम॑न् । र॒णय॑न्त । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -111,46 +111,46 @@ genre M
 हे **अग्ने** **ते** तव संबन्धिनो रश्मयः **शुचयन्तः** दीप्तिं सर्वत्र चक्षाणाः प्रकटयन्तः **आशुषाणाः** आशु शीघ्रं संभक्तारः आशून संभक्तारो वा । वाय्वादेरपि शीघ्रं संभक्तार इत्यर्थः । यद्वा । समन्तात् शोषयितारः । यद्वा । सर्वं व्याप्नुवन्तः । अश्नोतेर्लिटः कानच् । व्यत्ययेन उप्रत्ययः सिच् च इति द्विविकरणता । आङ्पूर्वात् अन्तर्भावितण्यर्थात् शुषेः शानचि छान्दसः शपो लुक् । आशुशब्दोपपदात् सनतेः कर्मणि अण् ॥ ईदृशा रश्मयः **वाजेभिः** अन्नैः सहितम् **आयोः** आयुरायुष्यम् ॥ कर्मणि षष्ठी ॥ **कथा** केनोपायेन **ददाशुः** ददति ॥ ‘दा दाने'। छान्दसो लिट् । तमुपायमनुगृहाणेत्यर्थः । रश्मीनां वरप्रदानं कुत्र दृष्टमिति चेत् उच्यते । **यत्** यस्मात् **उभे** उक्ते अन्नायुषी **तोके** पुत्रे **तनये** अनवच्छेदेन' कुटुम्बस्य विस्तारके। यद्वा। तोके पुत्रे तनये तत्पुत्रादौ च। **दधानाः** धारयन्तः **देवाः** व्यवहर्तारो यजमानाः **ऋतस्य** यज्ञस्य संबन्धिनि **सामन्** साम्नि रथन्तरादौ **रणयन्त** रमन्ते रमयन्ति शब्दयन्त्येव वा । यस्मात् अन्नायुष्पुत्रादिसहिताः सोमेनेष्वात  साम्नि रमन्ते तस्मात् रश्मयो ददतीत्यवगम्यते इत्यर्थः । तादृशांस्त्वदीयान् रश्मीन् मामपि अनुगृहाणेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “How have your shining and evaporating (rays), **Agni**, supported life (and supplied) food; so that, enjoying both, the devout (worshippers), possessing sons and grandsons, may repeat the hymns of the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How do the blazing (flames?) of you, of Āyu, panting hard, perform  ritual service with prizes of victory, o Agni,  
 when, establishing both progeny and posterity, the gods delight in the  melody of truth?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All other tr. take dadāsúḥ as preterital (e.g., Geldner “... haben … aufgewartet”), but Kümmel (243) interprets this pf. stem as having presential meaning with an implication of past action (“präsentische Bedeutung mit Implikation einer vergangen Handlung”), and I take both this verb and injunc. raṇáyanta in d as presential, establishing the ritual situation as so often in Dīrghatamas’s hymns. The present moment continues in vs. 2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How, Agni, have the radiant ones, aspiring, endued thee with the vigour of the living,  
      So that on both sides fostering seed and offspring, the Gods may joy in Holy Law's fulfilment?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 How, O Agni, have the resplendent ones worshipped thee, aspiring through the powers of the Âyu 1, when 2 the gods, obtaining kith and kin of both races 3 (human and divine?), rejoiced in the song of Rita (or Right) 4?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie haben dir, Agni, die Söhne des Ayu inbrünstig sich beeifernd mit Ehrengaben aufgewartet, so daß die Götter sich an der rechten Sangesweise erfreuten, indem sie beiderlei Samen in die Nachkommenschaft legten?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie dienten dir die leuchtenden, o Agni, durch des Lebend'gen Labung dich entflammend, Als sich die Götter, Kind und Enkel schenkend, ergötzten am Gesang des Gottesdienstes?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как, о Агни, пылкие (потомки) Аю  
 Почитали тебя, возбужденные наградами,  

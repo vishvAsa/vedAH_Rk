@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्रीणां स्तो꣡मम् अद्रिवो मह꣡स् कृधि  
 पि꣡बा सो꣡मम् म꣡दाय कं꣡ शतक्रतो  
@@ -16,7 +16,7 @@ ChandaH = "शक्वरी"
 मरु꣡त्वाँ इन्द्र सत्पते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -37,7 +37,7 @@ genre M;; line affected by realignment;; repeated line
 यम् । ते॒ । भा॒गम् । अधा॑रयन् । विश्वाः॑ । से॒हा॒नः । पृत॑नाः । उ॒रु । ज्रयः॑ । सम् । अ॒प्सु॒ऽजित् । म॒रुत्वा॑न् । इ॒न्द्र॒ । स॒त्ऽप॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atrīṇāṃ* ← *atrīṇām* ← *atri*
 - \[noun\], genitive, plural, masculine
@@ -155,14 +155,14 @@ genre M;; line affected by realignment;; repeated line
 हे **अद्रिवः** अद्रिमन् **अत्रीणां** **स्तोमं** **महस्कृधि** पूजितं कुरु । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wielder of the thunderbolt, reverence the praise of the **Atris**; drink joyfully, **Śatakratu**, the **Soma** for yourexhilaration-- that portion which (the gods) assigned you, **Indra**, lord of the virtuous, who are the victor over all(hostile) hosts, the conqueror of many, the subduer of the waters, the leader of the **Maruts**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make the praise of the Atris great, o you of the (pressing) stone.  
 – O you of a hundred resolves, for exhilaration drink the soma that they  fixed as your portion—  
@@ -170,27 +170,27 @@ you winning all battles, (winning) the broad expanse, entirely victorious  amid 
 settlements.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note átrī… adri…
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Stone-hurler, glorify the Atris' hymn of praise. O Satakratu, drink Soma to make thee glad.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Halte das Loblied der Atri´s hoch, Herr des Preßsteins! Trink den Soma zum Rausche, Ratreicher, den sie dir als Anteil bestimmten - der du alle feindlichen Heere siegreich bestanden hast, den weiten Wettlauf, der du die Gewässer insgesamt ersiegst, im Verein mit den Marut, Indra, rechtmäßiger Herr!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Atri's Loblied schätze hoch, o Schleuderer, den Soma trink zum Rausch, o vielfach wirkender, Der durch das dir gereichte Theil du alle Schlachten und das weite Feld gewinnst, die Flut erbeutend mit den Maruts, Indra, Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделай мощной хвалу людей Атри, о хозяин давильных камней!  
 Для опьянения пей сому, о стоумный,  

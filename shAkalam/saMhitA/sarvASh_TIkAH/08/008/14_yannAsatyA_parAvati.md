@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡न् नासत्या पराव꣡ति  
 य꣡द् वा स्थो꣡ अ꣡धि अ꣡म्बरे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 र꣡थेना꣡ यातम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अतः॑ । स॒हस्र॑ऽनिर्निजा । रथे॑न । आ । या॒त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yan* ← *yat*
 - \[adverb\]
@@ -100,37 +100,37 @@ genre M;; repeated line
 हे **नासत्या** सत्यस्वभावौ सत्यस्य नेतारौ नासिकाप्रभवौ वाश्विनौ **यत्** यदि **परावति** दूरदेशे **स्थः** । **यद्वा** यदि च **अम्बरे**। अन्तिनामैतत् । समीपे स्थः भवथः । अधिः सप्तम्यर्थानुवादी । **अतः** अस्मात्सर्वस्मात् स्थानात् **सहस्रनिर्णिजा** बहुविधरूपेण **रथेन** हे अश्विनौ आगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whether, **Nāsatyās**, you be far off, or whether you be near, come from there wiḥ your thousandolddiversified chariot.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, Nāsatyas, you are in the far distance or when upon the  
 circumference [?],  
 from there drive here with your chariot with its thousandfold raiment,  o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whether, Nasatyas, ye be nigh, or whether ye be far away,  
      Come thence, O Asvins, on your car that hath a thousand ornaments.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr Nasatya´s in der Ferne, oder wenn ihr am Himmelszelt seid, so kommt von da auf dem tausendfarbigen Wagen, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn in der Ferne ihr verweilt, wenn in der Nähe, treue ihr, Von da, o Ritter, kommt herbei mit reichgeschmücktem Wagen nun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда вы, о Насатьи, вдалеке,  
 Или когда вы находитесь о округе,  

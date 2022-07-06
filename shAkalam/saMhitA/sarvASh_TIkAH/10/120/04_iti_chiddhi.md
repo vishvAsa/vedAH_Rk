@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ति चिद् धि꣡ त्वा ध꣡ना ज꣡यन्तम्  
 म꣡दे-मदे अनुम꣡दन्ति वि꣡प्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ त्वा दभन् यातुधा꣡ना दुरे꣡वाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ओजी॑यः । धृ॒ष्णो॒ इति॑ । स्थि॒रम् । आ । त॒नु॒ष्व॒ । मा । त्वा॒ । द॒भ॒न् । या॒तु॒ऽधानाः॑ । दुः॒ऽएवाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iti*
 - \[adverb\]
@@ -129,36 +129,36 @@ popular
 **इति** **चिद्धि** एवमेव खलु हे इन्द्र **मदेमदे** सोमपानजन्ये हर्षे सति **धना** शत्रुधनानि **जयन्तं** जयेन प्राप्नुवन्तं त्वाम् **अनु** पश्चात् । लक्षणेऽनोः कर्मप्रवचनीयत्वम् । **विप्राः** मेधाविनः स्तोतारः **मदन्ति** हृष्यन्ति । यद्वा त्वामनुमदन्ति अनुक्रमेण स्तुवन्ति । मदतिः स्तुतिकर्मा। हि च' इति निघातप्रतिषेधः । हे **धृष्णो** शत्रूणां धर्षयितरिन्द्र ।  ‘ त्रसिगृधिधृषिक्षिपेः क्नुः । **ओजीयः**। ओजस्विशब्दादीयसुनि • विन्मतोर्लुक्' इति विनो लुक् । ‘टेः' इति टिलोपः । बलवत्तरम् अत एव **स्थिरं** दृढं धनम् **आ** **तनुष्व** अभितोऽस्मदर्थं विस्तारय । **त्वा** त्वां च **मा** **दभन्** मा हिंसन्तु **दुरेवाः** दुर्गतयः **यातुधानाः** राक्षसाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily the pious praise you, (**Indra**), the giver of wealth in your repeated exhilaration; spread out for usresolute Indra, great and durable (affluence); may the malignant **yātudhānas** never harm you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For it is even in those words that at every revel the inspired poets cheer  you on as you win the stakes.  
 Stretch your mightier (bow) taut, bold one. Let the sorcerers of evil ways  not deceive you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Therefore in thee too, thou who winnest riches, at every banquet are the sages joyful.  
      With mightier power, Bold God, extend thy firmness: let not malignant Yatudhanas harm thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ebenso jubeln ja dir, dem Schätzeerbeuter, in jedem Rausche die Redekundigen zu. Noch stärker, du Mutiger, spanne den straffen Bogen an! Nicht sollen die Zauberer, die schlimme Absichten haben, dich überlisten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn so auch, wenn du Schatz erbeutest, jauchzen die Sänger dir bei jedem Mahl entgegen; O kühner, spanne straffer an die Sehne, nicht sollen dir die bösen Zaubrer schaden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так вот ликуют вдохновенные (поэты)  
 Вслед тебе, завоевывающему богатства.  

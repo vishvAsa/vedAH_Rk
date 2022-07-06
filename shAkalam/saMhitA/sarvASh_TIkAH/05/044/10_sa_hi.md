@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ क्षत्र꣡स्य मनस꣡स्य चि꣡त्तिभिर्  
 एवावद꣡स्य यजत꣡स्य स꣡ध्रेः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 श꣡विष्ठं वा꣡जं विदु꣡षा चिद् अ꣡र्धियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒व॒ऽत्सा॒रस्य॑ । स्पृ॒ण॒वा॒म॒ । रण्व॑ऽभिः । शवि॑ष्ठम् । वाज॑म् । वि॒दुषा॑ । चि॒त् । अर्ध्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -103,7 +103,7 @@ genre M
 इयमपि सौरी। **स** **हि** स खलु सविता देवः सर्वैः स्तुत्यः। सर्वकामपूरक इत्यर्थः । हिशब्दो लोकवेदयोः प्रसिद्धिद्योतकः । तस्मात् सकाशात् । अत्र 'अन्ये च ऋषयोऽत्र दृष्टलिङ्गाः' इत्युक्तत्वात् क्षत्रादय ऋषयः। **क्षत्रस्य** **मनसस्य** **एवावदस्य** **यजतस्य** **सध्रेः** **अवत्सारस्य** चैषामृषीणामस्माकं **रण्वभिः** रमणीयाभिः **चित्तिभिः** स्पृणवाम पूरयाम । किम् । **शविष्ठं** **वाजम्** अतिशयेन बलवदन्नम् । 'अन्नं वै वाजः' (तै. ब्रा १. ३. ६. ६) इति श्रुतेः । **विदुषा** **चित्** विपश्चिता **अर्घ्यं** समर्धनीयं स्पृणवाम । क्षत्रादयो वयमिति संबन्धः ॥२४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,14 +114,14 @@ genre M
 Kṣatra, manasa...: these are the names of the ṛṣis
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For he (has a bond) with the insights of the mental lordship of the  one deserving the sacrifice, who speaks just so and aims toward the  
 same goal.  
 With the delightful (poems) [/lusty (warriors)] of the stealthy one we  shall win the most expansive prize, to be brought to success only by  the wise.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou deal with the difficulties of this vs. by taking all (or almost all) the genitives as PN, a solution going back to Sāyaṇa.: (Geldner) Kṣatra, Manasa, Yajata, Sadhri, and Avatsāra, to which Renou adds Evāvada. (Note that the Anukr. ascribes this hymn to one Avatsāra Kāśyapa, but this is, in my opinion, based on a later misunderstanding of this vs.) Since all of these forms, on the one hand, either are, or bear a strong resemblance to, real words in the language and, on the other, are not used as names elsewhere, the Geldner/Renou PN strategy seems like an evasion of responsibility. It is to the credit of Witzel Gotō that this makeshift is not resorted to; all these forms are given full lexical weight. And the Witzel Gotō interpr. of ab is not too distant from mine, in that they take the subject to be a/the poet, who has some connection to the cítti- of the figures mentioned in the gen. (Witzel Gotō: “Denn er is es [ein Ṛṣi?] durch die Einsichten dessen …”), though our treatments of the genitives differ.
 
@@ -140,23 +140,23 @@ As warriors fighting alongside us they allow us to win the prize (spṛṇavāma
 It remains to identify “the stealthy one” (avatsārá-), assuming as I do that it is not a PN. As I just noted, not only do Geldner and Renou (but not Witzel Gotō) take it as a PN, but the Anukramaṇī ascribes this hymn to Avatsāra Kāśyapa, who is also purported to be the Soma hymns IX.53-60, a group of short Gāyatrī hymns with no obvious connection to V.44. It seems obvious to connect the word with the lexeme áva √tsar and the root √tsar ‘creep’ more generally. The root is poorly attested, and áva √tsar only occurs once (I.71.5 in the notorious heavenly incest story). Agni is once the subject of √tsar (I.145.4), and the occurrence of áva √tsar is found in an Agni hymn (though not with Agni as subject). Soma is never subject of this verb, but its rarity makes this unsurprising. Both Agni and Soma can be conceived of as creeping or stealthy because of their slow and gradual movements -- Agni as the fire slowly catches in the kindling, Soma as the juice spreads across the filter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For it is he: with though to of Ksatra, Manasa, of Yajata, and Sadhri, and Evavada,  
      With Avatsara's sweet songs will we strive to win the mightiest strength which even he who knows should gain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er ist nach den Absichten des Ksatra Manasa, des wahrredenden Yajata, des Sadhri. Mit des Avatsara ........ wollen wir den stärksten Lohn davontragen, der überhaupt von einem Wissenden zu gewinnen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mögen wir doch [statt des sinnlosen sä lese ich säm] durch die Pläne des weisen Heerfürsten des recbtgebietenden, "ehrwürdigen, achtsamen, mit den Kriegern des Avatsara vereint, stärkste Beute eri'ingen, die von jedem, der sie kennt, gerne erlangt wird.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь он (действует) по замыслам Кшатры Манасы,  
 Эвавады, Яджаты, Садхри.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रात꣡र् यजध्वम् अश्वि꣡ना हिनोत  
 न꣡ साय꣡म् अस्ति देवया꣡ अ꣡जुष्टम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पू꣡र्वः-पूर्वो य꣡जमानो व꣡नीयान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒त । अ॒न्यः । अ॒स्मत् । य॒ज॒ते॒ । वि । च॒ । आवः॑ । पूर्वः॑ऽपूर्वः । यज॑मानः । वनी॑यान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prātar*
 - \[adverb\]
@@ -136,7 +136,7 @@ genre M
 हे मदीयाः पुरुषाः **अश्विना** अश्विनौ **प्रातः** प्रातरेव **यजध्वं** पूजयध्वं स्तुध्वम् । **हिनोत** प्रहिणुत हवींषि । **सायं** सायंकाले हविः **देवयाः** देवगामि **न** **अस्ति** न विद्यते । देवा न स्वीकुर्वन्तीत्यर्थः । **अजुष्टम्** असेव्यं तद्भवति । पूर्वाह्णो वै देवानाम् ' इति हि श्रुतिः । **उत** **अस्मत्** अस्मत्तः **अन्यः** कोऽपि **यजते** यजेत सोमेन **वि** **चावः** वितर्पयेच्च हविषा । अतोऽस्मास्वन्येषु च मध्ये **पूर्वः** पूर्वो **यजमानः** यः पूर्वः पूर्वो यष्टा भवति सः **वनीयान्** देवानां संभजनीयः संभाव्यो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,28 +147,28 @@ genre M
 The evening is not for the gods: Purvāhṇo vai devānām, the forenoon verily is for the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sacrifice to them in the early morning, urge on the Aśvins: there is no  (sacrifice) in the evening, (when it is) displeasing for it to travel to the gods. And it is the other one, not us, who sacrifices when dawn has (already)  come: the earlier the sacrificer, the greater his gain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Worship at dawn and instigate the Asvins:nor is the worshipper at eve rejected.  
      Besides ourselves another craves and worships: each first in worship is most highly favoured.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Opfert am Morgen, treibt die Asvin zur Eile - zur Abendzeit gelangt das Opfer nicht zu den Göttern, weil es da unwillkommen ist. Auch opfert ein anderer außer uns, wenn es Morgen geworden ist. Je früher der Opfernde daran ist, desto mehr gewinnt er.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verehret früh, verherrlicht früh die Ritter; nicht opfert Abends man, das ist beliebt nicht; Auch ausser uns verehrt und spendet mancher; der früher opfert, der ist stets der lieb're.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рано утром приносите жертву, торопите Ашвинов –  
 Вечером она не идет к богам, неприятна (им).  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ त꣡म् इन्द्र म꣡र्तियम्  
 अमित्रय꣡न्तम् अद्रिवः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 नि꣡ याहि शवसस् पते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒र्व॒ऽर॒था । श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो । नि । या॒हि॒ । श॒व॒सः॒ । प॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -92,43 +92,43 @@ genre M
 हे **इन्द्र** **त्वं** **तम्** **अमित्रयन्तं** शत्रुत्वमाचरन्तं शत्रुं वेच्छन्तं **मर्त्यं** हे **अद्रिवः** वज्रवन्निन्द्र **सर्वरथा** सर्वत्र व्याप्तेन रथेन ॥ ‘सुपां सुलुक् ' इत्याकारः ॥ हे **शतक्रतो** हे **शवसस्पते** बलस्य पालक **नि** **याहि** नितरां गच्छाभिभवितुम् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, wielder of the thunderbolt, rider in all-pervading car, object of many rites, and lord of strength, proceed against the mortal who entertains hostility towards you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, possessor of the stone—run down the mortal who acts  the foe,  
 chariot and all, you lord of power who possess a hundred resolves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes adrivaḥ as ‘du Herr des Presssteins’, but in context a stone as weapon seems more likely (so Witzel Gotō ‘du mit den Schleudersteinen’, flg. Grassmann).
 
 I interpr. sarvarathā́as an adverbial accompaniment to the victim whom Indra runs over: “(him), chariot and all.” It is not clear from Geldner’s “mit ganz Wagenzug” whose chariot he thinks it is, but Witzel Gotō take it to be Indra’s chariot, interpr. sarva- in its stronger lexical sense ‘hale, healthy’: “… so, dass dein Wagen heil bleibt.” This purpose-clause reading attributes more, and more unambiguous, structure to this single word than I think it can properly bear, and I also don’t understand the intended sense: should Indra endeavor to keep the victim’s blood from splashing his wheels or his body from making dents?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Satakratu, Lord of Strength, O Indra, Caster of the Stone.  
      With all thy chariot's force assail the man who shows himself thy foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, du Herr des Preßsteins, überfahre den feindseligen Sterblichen mit ganzem Wagenzug, du ratreicher Herr der Stärke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, greife diesen Mann, der feind ist, an, o Schleuderer, Mit deinem ganzen Wagentross, vielwirkender, o Herr der Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, того смертного  
 Недружелюбного, о повелитель давильных камней,  

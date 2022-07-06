@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अग्ने का꣡नि का꣡नि चिद्  
 आ꣡ ते दा꣡रूणि दध्म꣡सि  
 ता꣡ जुषस्व यविष्ठिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ता । जु॒ष॒स्व॒ । य॒वि॒ष्ठ्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -93,7 +93,7 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पूर्वस्यामृच्युक्तस्यैवार्थस्य विवरणमत्र । हे **यविष्ठ्य** युवतम **अग्ने** तुभ्यं **यत्** यदा **कानि** **कानि** **चित** यानि कान्यपि **दारूणि** काष्ठानि **आ** **दध्मसि** आधारयामि तदा **ता** तानि अपरशुवृक्णान्यपि **जुषस्व** सेवस्व । तथा च यजुर्ब्राह्मणं- न ह स्म वै पुराग्निरपरशुवृक्णं दहति तदस्मै प्रयोग एवर्षिरस्वदयद्यदग्ने यानि कानि चेति समिधमा दधात्यपरशुवृक्णमेवास्मै स्वदयति सर्वमस्मै स्वदते' (तै. सं. ५. १. १०. १) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,13 +104,13 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Any kinds oftimber: **Taittirīya** **Saṃhitā** 5.1.10: in ancient times they only offered to Agni wood cut with the axe, until the ṛṣiPrayoga by this verse caused him to accept wood blown down by the wind or by other accidents
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, Agni, we set any pieces of wood whatsoever in you,  
 enjoy them, youngest one.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
 <details open><summary><h2>19-22 ...{Loading}...</h2></summary>
 
@@ -118,23 +118,23 @@ See published introduction. for my general interpr. of these verses.</details>
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, whatsoever be the fuel that we lay for thee,  
      Be pleased therewith, Most Youthful God
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir dir irgend welche Hölzer zulegen, Agni, so laß dir diese schmecken, du Jüngster!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Agni, manche Hölzer wir und neue noch dir legen an, So nimm, o jüngster, hold sie an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Агни, мы подкладываем тебе  
 Какие никакие дрова,  

@@ -8,7 +8,7 @@ title = "+002"
 ' यज्ञेन वर्धत ' इति त्रयोदशर्चं द्वितीयं सूक्तं मण्डलद्रष्टुर्गृत्समदस्यार्षम् । ' मण्डलादिष्वाग्नेयम् ' इति परिभाषयाग्नेयम् । तुशब्दानुकर्षादिदमपि जागतम् । ' यज्ञेन सप्तोना ' इत्यनुक्रान्तम् । प्रातरनुवाकाश्विनशस्त्रयोर्जागते छन्दसि अस्य विनियोगः । सूत्रं तु पूर्वसूक्ते एवोक्तम् । तथा चातुर्विंशिके तृतीयसवने जातवेदस्य निविद्धानीयम् इदम् । ' यज्ञेन वर्धतेत्याग्निमारुतम् ' ( आश्व. श्रौ. ७. ४) इति सूत्रितत्वात् । पृष्ठ्याभिप्लवषडहयोर्द्वितीयेऽह्न्यपि जातवेदस्यनिविद्धानम् इदम् । चातुर्विंशिकं तृतीयसवनम् इति  चतुर्विंशादतिदिष्टत्वात् ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 2 (193)  
 Agni  
@@ -21,7 +21,7 @@ There is also an emphasis on Agni perceiving and being perceived, enhanced  by a
 Stylistically the hymn seems designed deliberately to contrast with the preceding  one (II.1). In that hymn Agni is identified with various beings and elements, whereas  in this one, especially in the first half, Agni is compared to such third parties: the  simile is the dominant figure. It is striking that II.1, by contrast, contains not a  single simile.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni One curious feature of this hymn is that it is the home to the densest cluster of uṣás- occurrences in II (vss. 2, 7, 8); the word is otherwise pretty rare in this maṇḍala, and there are no Dawn hymns in it. The focus on Agni’s likeness to the sun probably accounts for this. This likeness is hinted at first in the adj. svàrṇara- ‘possessing solar glory’ in 1c. This adj. is echoed by three occurrences of the simile svàr ṇá “like the sun” (7d, 8b, 10d), where the simile particle ṇá (with close sandhi retroflexion as always after svàr), though having nothing to do with the -ṇa- in the adjective, reproduces it phonologically.
 

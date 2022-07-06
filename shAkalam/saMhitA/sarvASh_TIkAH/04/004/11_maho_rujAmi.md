@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महो꣡ रुजामि बन्धु꣡ता व꣡चोभिस्  
 त꣡न् मा पितु꣡र् गो꣡तमाद् अ꣡न्व् इयाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हो꣡तर् यविष्ठ सुक्रतो द꣡मूनाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । नः॒ । अ॒स्य । वच॑सः । चि॒कि॒द्धि॒ । होतः॑ । य॒वि॒ष्ठ॒ । सु॒क्र॒तो॒ इति॑ सुऽक्रतो । दमू॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
@@ -137,20 +137,20 @@ genre M
 कस्तव विशेष इत्याह – हे होतः देवानामाह्वातः यविष्ठ युवतम सुक्रतो शोभनप्रज्ञ । 'नामन्त्रिते समानाधिकरणे' इति प्रथमस्याविद्यमानत्वनिषेधात्परमामन्त्रितद्वयं निहन्यते । दमूनाः दान्तमना दानमना वा । पृषोदरादिः । इर्दृशस्त्वमेवैतच्चिकिद्धि किमन्येनाज्ञानिना इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invoker (of the gods), young (of the deities) possessed of excellent wisdom, through the alliance (with you produced) by holy texts, which came to me from my father **Gotama**, I demolish the powerful (demons); do you who are the humbler (of foes), be cognizant of our praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thanks to my lineage, I powerfully break (it [=the rock full of  treasures]) with my speeches. This [=speech/poetic gift?] has come  down to me from my father Gotama.  
 Take note of this speech of ours here, o Hotar, youngest one, very  effective, as friend of the house.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. concerning the poet’s poetic gifts and his lineage, spoken in the 1st ps. sg., seems out of place in this hymn and anticipates the enigmatic hymn IV.5 that follows immediately, which focuses on the mysterious sources of poetic power. Of course, given the mechanical arrangement of the RVic hymn collections, we cannot assume that the hymns had anything to do with each other originally.
 
@@ -167,13 +167,13 @@ we break the rock.”
 On grounds of sense I don’t think maháḥ is gen. with vácobhiḥ because I think the poet is asserting the power of his own poetic gift: he acquired this gift from his father (pāda b), but he is not using his father’s words but his own -- or so I take his proud boast. By casting himself as the subject of the Vala-breaking verb, he is also implicitly asserting his identification with the Aṅgirases, who broke into Vala with their words. Like the speaker(s) of IV.2.15 he seems to be saying “might I become an Aṅgiras.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through words and kinship I destroy the miglity: this power I have from Gotama my father.  
      Mark thou this speech of ours, O thou Most Youthful, Friend of the House, exceeding wise, Invoker.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Through my kinship (with thee) I break down the great (foes) by my words 1. That (kinship) has come down to me from my father Gotama. Be thou attentive to this our word, O youngest, highly wise Hotri, as the friend of our house.
 </details>
@@ -186,17 +186,17 @@ Pay heed to this song of ours,
 O Hotr, most youthful, skilful, friend of the house.
 ꣡</details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vermöge meiner Abstammung zerschmettere ich mit den Worten des großen Vaters. Das ist mir vom Vater Gotama überkommen. Achte du auf dieses Wort von uns, jüngster, wohlverständiger Hotri, als der Hausgebieter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch meiner Sippe Lieder schlag' ich Helden; das kam auf mich von Gotama, dem Vater; O merke du auf diese unsre Rede, o jüngster, weiser Priester, du der Hausfreund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря (своему) родству я умею мощно разить словами,  
 Это мне перешло от отца Готамы.  

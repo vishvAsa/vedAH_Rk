@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उदा꣡नड् विअ꣡यनं  
 य꣡ उदा꣡नट् परा꣡यणम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡पि गोपा꣡ नि꣡ वर्तताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 आ॒ऽवर्त॑नम् । नि॒ऽवर्त॑नम् । अपि॑ । गो॒पाः । नि । व॒र्त॒ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -92,33 +92,33 @@ popular;; epic anuṣṭubh (424)
 **यः** **गोपाः** गोपालः **व्ययनं** नष्टानां गवामन्वेषणार्थं विविधं गमनम् **उदानट्** व्याप्नोति अनुभवति । **यः** परायणं परागमनम् **उदानट्** व्याप्नोति । वनं प्रति गवां चरणाय गमनमित्यर्थः। यश्च **आवर्तनं** वनचारिणीभिर्गोभिः सह प्रवर्तनमनुभवति । यः **अपि** गोपाः **निवर्तनं** गोभिः सह वनाद्गृहं प्रति निर्गमनमनुभवति । सोऽपि गोपालः **नि** **वर्ततां** गोभिः सह वनाद्गृहं प्रति क्षेमेणागच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who has managed the dispersal, who has managed the going away, the turning here, and the turning back—let the cowherd also turn back.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, let the herdsman, too, return, who marketh well their driving-forth;  
      Marketh their wandering away, their turning back and coming home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der das Verlaufen, das Fortlaufen, die Herkehr, die Heimkehr in seiner Hand hat, auch der Hirt soll heimkehren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der ihr Entfernen wohl bewacht, der ihren Fortgang wohl bewacht, Ihr Heimgehn und zur Ruhe gehn, der Hüter komme zu uns her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто овладел разбреданием,  
 Кто овладел уходом,  

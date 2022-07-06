@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ने꣡मस्मिन् ददृशे सो꣡मो अन्त꣡र्  
 गोपा꣡ ने꣡मम् आवि꣡र् अस्था꣡ कृणोति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्रुह꣡स् तस्थौ बहुले꣡ बद्धो꣡ अन्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । ति॒ग्मऽशृ॑ङ्गम् । वृ॒ष॒भम् । युयु॑त्सन् । द्रु॒हः । त॒स्थौ॒ । ब॒हु॒ले । ब॒द्धः । अ॒न्तरिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -138,7 +138,7 @@ genre M
 **नेमस्मिन्** । नेमशब्दोऽर्धपर्यायः । यष्टा अयष्टा च द्वौ पुरुषौ युध्यन्तौ। तयोरेकस्मिन् यष्टरीत्यर्थः । तस्मिन् **अन्तः** **सोमः** **ददृशे** दृश्यते । तं **नेमम्** अर्धमेकं **गोपाः** गोपायितेन्द्रः **अस्था** क्षेपणसाधनेन वज्रेण **आविः** **कृणोति** प्रकटयति । शत्रुभिरनभिभूतं करोतीत्यर्थः । **सः** यत्र सोमो न दृश्यते सः **तिग्मशृङ्गं** तीक्ष्णायुधं **वृषभं** बाणान् वर्षयन्तमिन्द्रेणानुगृहीतं प्रति **युयुत्सन्** योद्भुमिच्छन् **द्रुहः** द्रोग्ध्रा **बद्धः** सन् **बहुले** अन्धकारे **अन्तः** तस्य मध्ये **तस्थौ** तिष्ठति । यद्वा एवं व्याख्येयम् । नेमस्मिन्निन्द्रभक्तेऽन्तः सोमो ददृशे । नेममन्यं गोपाः स्वभक्तरक्षक इन्द्रोऽस्था अस्थ्ना वज्रेणाविष्कृणोति । आविष्करोति । वज्रेण पीडयतीत्यर्थः । स नेमो द्रुहस्तिग्मशृङ्गं वृषभमिन्द्रं युयुत्सन् । शिष्टं समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,29 +149,29 @@ genre M
 **Nema** = part, half; or, one of two (combatants); the combatants are the yaṣṭā who offers libations and theyaṣṭā, one who does not; the latter assails the bull, Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma is visible in the one, (even) when it is within (him); the herdsman  exposes the other by its absence.  
 Whoever tries to fight the sharp-horned bull remains bound within the  thick (fetter) of deception.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One of the two hath Soma, seen within it; the Herdsman with the bone shows forth the other.  
      He, fain to fight the Bull whose horns were sharpened, stood fettered in the demon's ample region.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei dem Einen ward der Soma im Inneren geschaut; den anderen tut der Wächter durch den Knochen kund. Als dieser gegen den spitzhornigen Bullen kämpfen wollte, da blieb er in der dichten Schlinge des Trugs gefangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei dem einen zeigt sich der Soma im Innern [des Hauses?]; einen andern macht sogleich der Hüter offenbar; dieser, welcher den scharfgehörnten Stier bekämpfen wollte, stand gebunden in dem weiten Bereiche der Unholdin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Внутри кого-то был заметен сома.  
 Кого-то пастух распознает по отсутствующему (соме).  

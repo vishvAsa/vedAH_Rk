@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् अस्तम्भीत् समि꣡धा ना꣡कम् ऋष्वो꣡  
 अग्नि꣡र् भ꣡वन्न् उत्तमो꣡ रोचना꣡नाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गु꣡हा स꣡न्तं हव्यवा꣡हं समीधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यदि॑ । भृगु॑ऽभ्यः । परि॑ । मा॒त॒रिश्वा॑ । गुहा॑ । सन्त॑म् । ह॒व्य॒ऽवाह॑म् । स॒म्ऽई॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 ऋष्वोमहानग्निः समिधातेजसानाकंस्वर्गं उदस्तम्भीत् उदस्तभ्रात् रोचनानांशोभनानान्तेजसां मध्ये उत्तमोभवन् उत्कृष्टतमोभवन् मातरिश्वावायुः भृगुभ्यः आदित्यस्यरश्मिभ्यः परिपरितः गुहागुहायांसन्तं हव्यवाहं हव्यानांवोढारमग्निं यदियदासमीधेसमैधत तदानाकंअस्तभ्नादिति सम्बन्धः ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,34 +129,34 @@ genre M
 Concealed from the Bhṛgus: yadi bhṛgubhyaḥ **guhā** santam: bhṛgubhyaḥ = ādityasya raśmibhyaḥ, from the rays of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Towering, Agni has propped up the vault of the sky through his  kindling, becoming the highest of the lights,  
 when Mātariśvan kindled him hiding from the Bhr̥gus, conveying the  oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Best of all luminaries lofty Agni supported with his flame the height of heaven,  
      When, far from Bhrgus, Matarisvan kindled the oblation-bearer where he lay in secret.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The tall one has, by (receiving) fuel, upheld the firmament, Agni, becoming the highest of lights, when Mâtarisvan for the sake of the Bhrigus 1 kindled the carrier of oblations, (Agni) who dwelt in secret.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch das Brennholz sich aufrichtend hat Agni das Firmament emporgerichtet, indem er das höchste aller Lichter wird, wenn Matarisvan ihn, der sich vor den Bhrigu´s verborgen hielt, als den Opferfahrer entzündet hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Flammen stützte er die Himmelswölbung, der hohe Agni, er der Lichter schönstes, Als von den Bhrigu's her ihn Mātariçvan, da er versteckt, entflammt' zum Opferfahrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря дровам, он укрепил небосвод, (он,) вздымающийся.  
 (Этот) Агни, становящийся высшим из источников света,  

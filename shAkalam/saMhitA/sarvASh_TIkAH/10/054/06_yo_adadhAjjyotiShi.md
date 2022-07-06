@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अ꣡दधाज् ज्यो꣡तिषि ज्यो꣡तिर् अन्त꣡र्  
 यो꣡ अ꣡सृजन् म꣡धुना स꣡म् म꣡धूनि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब्रह्मकृ꣡तो बृह꣡दुक्थाद् अवाचि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 अध॑ । प्रि॒यम् । शू॒षम् । इन्द्रा॑य । मन्म॑ । ब्र॒ह्म॒ऽकृतः॑ । बृ॒हत्ऽउ॑क्थात् । अ॒वा॒चि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -128,36 +128,36 @@ genre D
 **यः** इन्द्रः **ज्योतिषि** द्योतमाने आदित्यादिके तेजसि **अन्तः** **ज्योतिः** तेजः **अदधात्** धारितवान्। यदादित्याग्न्यादिषु तेजोऽस्ति तदिन्द्रकृतमित्यर्थः । **यः** च **मधुना** मधुरेण रसेन **मधूनि** सोमादिमधुरद्रव्याणि **सम्** **असृजत्** समयोजयत्। यद्वा । मधुना । अत्र मधुशब्देन सर्वैः सेव्यमान आदित्य उच्यते । तेन सह मधूनि उदकानि समसृजत् । **अध** संप्रति तस्मै **इन्द्राय** **प्रियं** प्रीतिजनकं **शूषं** बलं शत्रूणां शोषकत्वाद्बलकरं **मन्म** मननीयं स्तोत्रं **ब्रह्मकृतः** मन्त्रकृतः **बृहदुक्थात्** प्रभूतशस्त्रयुक्तादेतन्नामकादृषेर्मत्तः **अवाचि** उक्तमभूत् ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To that **Indra**, who has deposited the light in luminous bodies, who has flavoured sweet things withsweetness, this acceptable invigorating praise has been recited by **Bṛhaduktha**, the author of the prayer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who placed light within the light, who joined the honeys with the honey. So, a dear fortifying thought has been spoken to Indra from  
 Br̥haduktha, the crafter of sacred formulations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him who set the light in things of splendour, and with all sweetness blent essential sweetness,  
      To Indra hath this welcome hymn that strengthens been uttered by the votary Brhaduktha.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der das Licht in das Licht legte, der das Süße mit der Süße verband - Darum ward dem Indra ein gerngehörtes Gedicht als Aufmunterung von dem erbauenden Brihaduktha aufgesagt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der du ins Licht des Lichtes Glanz gesetzt hast, und Süssigkeit mit Süssigkeit besprengt hast, Dir, Indra, ist dies liebe Kraftgebet jetzt gesagt vom frommen Dichter Brihaduktha.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто вложил свет в свет,  
 Кто снабдил сладость сладостью:  

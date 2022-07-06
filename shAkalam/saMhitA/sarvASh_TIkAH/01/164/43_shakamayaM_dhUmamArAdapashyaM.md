@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शकम꣡यं धूम꣡म् आरा꣡द् अपश्यं  
 विषूव꣡ता पर꣡ एना꣡वरेण  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡नि ध꣡र्माणि प्रथमा꣡नि आसन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒क्षाण॑म् । पृश्नि॑म् । अ॒प॒च॒न्त॒ । वी॒राः । तानि॑ । धर्मा॑णि । प्र॒थ॒मानि॑ । आ॒स॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śakamayaṃ* ← *śaka*
 - \[noun\], masculine
@@ -117,7 +117,7 @@ popular
 तत्साधनानि **धर्माणि** अनुष्ठानानि **प्रथमानि** प्रतमानि प्रकृष्टानि फलपर्यवसायीनि **आसन्** संपादितान्यभवन् । यद्वा । सोम उक्षाभवत् पूर्वं तं देवाः शकृतापचन् । यज्ञार्थे तद्भवो धूमो मेघं आसीत् तदुच्यते । तत्परत्वेन वा मन्त्रो व्याख्येयो विचक्षणैः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,28 +130,28 @@ The Soma ox: ukṣāṇam pṛśnim apacanta: **pṛśni** = Soma;
 Ukṣāṇam = the shedder or bestower of the reward of the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the midpoint, beyond this nearer (fire), I saw dung-smoke from afar. Heroes cooked the dappled bullock. These were the first foundations  (of the rite).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I saw from far away the smoke of fuel with spires that rose on high o'er that beneath it.  
      The Mighty Men have dressed the spotted bullock. These were the customs in the days aforetime,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich sah von ferne den Düngerrausch in der Mitte jenseits dieses unteren Raumes. Die Männer brieten sich den bunten Stier. Dies waren die ersten Bräuche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich sah von ferne den aus dem Miste [des gebratenen Stieres??] aufsteigenden Rauch, hoch über diesem unteren in der Mitte befindlichen [Feuer], die Männer brieten einen bunten Stier; das waren die ersten Bräuche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Издали я увидел дым от (горящего) навоза  
 Посредине, над этим нижним (пространством).  

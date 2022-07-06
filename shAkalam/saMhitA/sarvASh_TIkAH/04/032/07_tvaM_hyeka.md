@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ ए꣡क ई꣡शिष  
 इ꣡न्द्र वा꣡जस्य गो꣡मतः  
 स꣡ नो यन्धि मही꣡म् इ꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सः । नः॒ । य॒न्धि॒ । म॒हीम् । इष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -92,35 +92,35 @@ genre M
 हे **इन्द्र** **हि** यस्मात् कारणात् **त्वम्** **एकः** एव **गोमतः** गोभिर्युक्तस्य **वाजस्य** अन्नस्य **ईशिषे** प्रभवसि । अतः कारणात् **सः** त्वं **नः** अस्मभ्यं **महीं** महतीम् **इषम्** अन्नं **यन्धि** प्रयच्छ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For you alone, **Indra**, are lord over food combined with cattle; therefore do you grant us ample food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since you alone, Indra, are master of the prize possessed of cows, offer us great refreshment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou, O Indra, art alone the Lord of strength that comes from kine  
      So grant thou us abundant food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du allein gebeutst über den Gewinn von Rindern, o Indra. Gib du uns großen Speisegenuß!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du allein, o Indra, bist des rinderreichen Gutes Herr, So schenke grosse Labung uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты владеешь один,  
 О Индра, наградой, состоящей из коров.  

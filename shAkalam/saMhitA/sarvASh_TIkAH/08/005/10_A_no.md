@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो गो꣡मन्तम् अश्विना  
 सुवी꣡रं सुर꣡थं रयि꣡म्  
 वोळ्ह꣡म् अ꣡श्वावतीर् इ꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वो॒ळ्हम् । अश्व॑ऽवतीः । इषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -88,36 +88,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अश्विना** अश्विनौ **नः** अस्मभ्यं **रयिं** धनम् **आ** **वोळ्हम्** आवहतम् आहरतम् । वहेर्लोटि छान्दसः शपो लुक् । ढत्वधत्वष्टुत्वढलोपेषु कृतेषु • सहिवहोरोदवर्णस्य' इत्योत्वम् । कीदृशं रयिम् । **गोमन्तं** बह्वीभिर्गोभिर्युक्तं **सुवीरम्** । वीर्याज्जायन्त इति वीराः पुत्राः । शोभनैस्तैरुपेतम् । विविधमीरयन्ति शत्रूनिति वा वीराः शूराः। तैरुपेतम् । **सुरथं** शोभनरथेन युक्तम् । अपि च **अश्वावतीः** अश्वयुक्ताः । मन्त्रे सोमाश्व ' इति मतौ दीर्घः। **इषः** इष्यमाणान्यन्नानि चास्मभ्यमावहतम् ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring to us, **Aśvins**, riches comprising cattle, **male** offspring, chariots, horses, food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Convey here to us, o Aśvins, wealth in cattle, in good heroes and good  chariots,  
 and refreshments along with horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, bring us wealth in kine, in noble heroes, and in cars:  
      Bring us the strength that horses give.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet uns, Asvin, Besitz von Rindern, guten Mannen, guten Wagen, guten Speisen nebst Rossen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Ritter, fahrt uns Reichthum her an Rindern, Männern, Wagen auch Und rossereiche Labungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Привезите нам, о Ашвины, богатство  
 Из коров, из прекрасных мужей,  

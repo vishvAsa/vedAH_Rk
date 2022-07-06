@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡न्मञ्-जन्मन् नि꣡हितो जात꣡वेदा  
 विश्वा꣡मित्रेभिर् इध्यते अ꣡जस्रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पि भद्रे꣡ सौमनसे꣡ सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । व॒यम् । सु॒ऽम॒तौ । य॒ज्ञिय॑स्य । अपि॑ । भ॒द्रे । सौ॒म॒न॒से । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *janmañjanman* ← *janman*
 - \[noun\], locative, singular, neuter
@@ -109,42 +109,42 @@ genre M
 जन्मन् जन्मन् सर्वेषुमनुष्येषुनिहितोजातवेदाः विश्वामित्रेभिः विश्वामित्रैः पूजायाम्बहुवचनं महर्षिणा विश्वामित्रेण योजातवेदाः अजस्रः अजस्रं अनवरतं इध्यते दीप्यते सुमतौ कल्याण्यां मतौ वर्तमानावयं तस्ययज्ञियस्ययज्ञार्हस्याग्नेर्भद्रे भजनीये सौमनसे सुमनोभावे अनुग्रहबुद्धौ अपिस्याम अपिभवेम प्रार्थनायांलिङ् ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The undecaying **Jātavedas**, who in every birth is established (among men), is kindled by the **Viśvāmitras**; may we, (enjoying) his favour, ever be (held) in the auspicious good-will of that adorable (deity).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having been installed in one birth after another, Jātavedas, the  
 inexhaustible, is kindled by the Viśvāmitras.  
 We would be within the good will of him who is worthy of the sacrifice,  even within his favorable benevolence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Stablished in every birth is Jatavedas, kindled perpetual by the Visvamitras.  
      May we rest ever in the loving-kindness, in the auspicious grace of him the Holy.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Gâtavedas, placed (on the altar) generation after generation, is kindled by the Visvâmitras, the indefatigable (or everlasting). May we dwell in the grace of him the worshipful, yea, in his blissful kindness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Geschlecht zu Geschlecht eingesetzt wird der nie ermattende Jatavedas von den Visvamitra´s entflammt. An dieses Opferwürdigen Gunst, an seinem glückbringenden Wohlwollen möchten wir teilhaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In jedem Haus ist Gast der Wesenkenner, ohn' End' entflammt vom Stamm des Viçvamitra; In seiner Gunst, des hehren, seien stets wir theilhaftig hohen, segensreichen Glückes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из поколения в поколение Джатаведас, заложенный (как жрец среди людей),  
 Зажигается потомками Вишвамитры, (он,) нестареющий.  

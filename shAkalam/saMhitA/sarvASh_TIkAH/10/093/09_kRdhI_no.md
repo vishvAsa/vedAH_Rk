@@ -6,7 +6,7 @@ ChandaH = "अक्षरैः पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृधी꣡ नो · अ꣡ह्रयो देव सवितः  
 स꣡ च स्तुषे मघो꣡ना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "अक्षरैः पङ्क्तिः"
 चर्षणीनां꣡ चक्रं꣡ रश्मिं꣡ न꣡ योयुवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 स॒हः । नः॒ । इन्द्रः॑ । वह्नि॑ऽभिः । नि । ए॒षा॒म् । च॒र्ष॒णी॒नाम् । च॒क्रम् । र॒श्मिम् । न । यो॒यु॒वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛdhī* ← *kṛ*
 - \[verb\], singular, Aorist imperative
@@ -138,7 +138,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **सवितः** प्रेरक **नः** अस्मान् **अह्रयः** अनवनतवदनानलज्जितान् **कृधि** कुरु। किंच **सः** त्वं **मघोनां** धनवतां यजमानानां संबन्धिभिर्ऋत्विग्भिः **स्तुषे** स्तूयसे । **इन्द्रः** **वह्निभिः** वोढृभिः मरुद्भिः सह **सहः** बलं **चर्षणीनां** मनुष्याणां **नः** अस्माकं **नि** **योयुवे** भृशं निमिश्रयतु । तत्र दृष्टान्तः । **चक्रं** रथस्य चक्रं **रश्मिं** **न** । यथा रश्मिं चक्रादिकं तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,29 +149,29 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Bearers of water: the **Maruts**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make for us immoderation (of wealth), god Savitar. I will praise (you?)  in company with our patrons.  
 Along with his draft-horses, Indra keeps hitching up (wealth) for these  (patrons) of ours and keeps hold of “the wheel of the domains” like  a rein.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O God Savitar, harmed by none, lauded, give us a place among wealthy princes.  
      With his Car-steeds at once 'hath our Indra guided the reins and the car of these men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mache, daß wir uns nicht zu schämen brauchen, Gott Savitri, und der unter den Lohnherren soll gepriesen werden. Mit unseren Wortführern zusammen meistert Indra das Rad der Herrschaft dieser über die Völker wie einen Zügel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wirke kühn für uns, o Gott [savitar ist Glosse, wie das Versmass zeigt], als solcher wirst du gepriesen unter den Mächtigen; zugleich mit den fahrenden [Maruts?] hat unser Indra dieser Männer Rad und Zügel kräftig hergelenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

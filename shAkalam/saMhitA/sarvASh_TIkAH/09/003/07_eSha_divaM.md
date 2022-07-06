@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ दि꣡वं वि꣡ धावति  
 तिरो꣡ र꣡जांसि धा꣡रया  
 प꣡वमानः क꣡निक्रदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑मानः । कनि॑क्रदत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -76,19 +76,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **धारया** **पवमानः** क्षरन् **एषः** सोमः **कनिक्रदत्** अभिषूयमाणः शब्दं कुर्वन् **रजांसि** लोकान् **तिरः** तिरस्कुर्वन् यागात् **दिवं** स्वर्गं **वि** **धावति** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Making a sound as it drops in a continued stream it rushes across the worlds into heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one streaks through heaven, across the airy spaces in his stream, whinnying again and again as he purifies himself.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/003/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -102,23 +102,23 @@ Thus, although the nearly identical vss. 7 and 8 might seem evidence that the po
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Away he rushes with his stream, across the regions, into heaven,  
      And roars as he is flowing on.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser durcheilt den Himmel, durch die Lüfte mit seinem Strome sich läuternd, wiehernd.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist's, der durch den Himmel rinnt, im Strome durch die Lüfte dringt, Es wiehert laut der rieselnde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот (бог) мчится на небо  
 Сквозь пространства со (своим) потоком,  

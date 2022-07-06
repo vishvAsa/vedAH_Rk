@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईळितो꣡ अग्न आ꣡ वह  
 इ꣡न्द्रं चित्र꣡म् इह꣡ प्रिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡छा सुजिह्व वच्य꣡ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इ॒यम् । हि । त्वा॒ । म॒तिः । मम॑ । अच्छ॑ । सु॒ऽजि॒ह्व॒ । व॒च्यते॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īﾱito* ← *īḍitaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
@@ -116,47 +116,47 @@ genre M
 हे **अग्ने** **ईळितः** सर्वैः स्तुत्यः इण्नामकस्त्वम् **इह** अस्मिन् यज्ञे **चित्रं** चायनीयं प्रियं प्रीणयितारम् अस्मान् हविःस्वीकर्तुं वा प्रीतियुक्तम् **इन्द्रम्** **आ** **वह** आह्वय । हे **सुजिह्व** घृतपानेन शोभनज्वाल **इयं** **मम** **मतिः** मननसाधना स्तुतिरूपा वाक् **त्वा** त्वाम् **अच्छ** आभिमुख्येन प्राप्तुं **वच्यते** मतिरेवास्मदीयोच्यते ॥ हिः पूरणार्थः । वचेर्यकि ‘ संप्रसारणाच्च' इति पूर्वरूपस्य ‘ वा छन्दसि' इति विकल्पितत्वात् अभावे यण् ॥ अत्र पुरोडाशादीडभिमानियज्ञपरतया वा व्याख्येयम् । एवमुत्तरत्र यज्ञाङ्गैर्यज्ञसंबन्धिदेवताभिश्च यज्ञः एवोच्यते इति तत्परत्वेन व्याख्येयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who are Iḷita, bring hither **Indra**, the wonderful, the beloved; this my praise is recited, bright-tongued, before you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When solemnly invoked, o Agni, convey Indra here, brilliant and dear, for this thought of mine is twisting its way toward you, o you who have  good tongues.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 mátiḥ … vacyáte “the thought is twisting its way” gives potential support to the interpretation of úpa hvarate in the previous hymn I.141.1 as having matíḥ as its subj. (contrary to my view), but the other considerations raised ad loc. weigh more strongly for me. As for vacyáte, the “passive” accentuation of this apparently intrans.
 
 verb of motion is treated at length by Kulikov (-ya-presents, pp. 218-23), who acknowledges the standard functional interpr. of this pres. but attempts (rather too ingeniously in my view) to take it as originally passive (“is being directed towards you” in his tr.). Since √vañc seems to me to express precisely non-direct(ed) action, this interpr. does not capture the sense. I do not have a good explanation of the suffix accent, beyond noting that there are other non-passive medial -yá- formations, most notably mriyáte ‘dies’, that have failed to retract the accent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, besought, bring hitherward Indra the Friend, the Wonderful,  
      For this my hymn of praise, O sweet of tongue, is chanted forth to thee.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, magnified 1 by us, bring hither the bright, beloved Indra. For this my prayer is addressed 2 to thee whose tongue is good.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Berufen fahr, o Agni, den prächtigen, lieben Indra hierher, denn dieses mein Dichten schwingt sich zu dir auf, o Schönzungiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfleht, o Agni, fahre hier den lichten, lieben Indra her; Denn dieses mein Gebet wird dir gesprochen, o schönzungiger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Призванный  
 , о Агни, привези  

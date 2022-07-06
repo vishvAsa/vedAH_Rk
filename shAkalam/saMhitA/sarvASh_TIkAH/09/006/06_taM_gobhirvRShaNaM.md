@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ गो꣡भिर् वृ꣡षणं र꣡सम्  
 म꣡दाय देव꣡वीतये  
 सुत꣡म् भ꣡राय सं꣡ सृज
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒तम् । भरा॑य । सम् । सृ॒ज॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -93,36 +93,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वृषणं** कामानां वर्षितारं **देववीतये** देवानां पानाय **मदाय** **सुतम्** अभिषुतं **तं** **रसं** **भराय** संग्रामाय **गोभिः** पयोभिः **सं** **सृज** संयोजय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That desire-showring liquor, effused for the drink of the gods and for our exhilaration, mix with milk for prowess in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That bullish sap—merge it with the cows, for exhilaration, for the gods’  pursuit—  
 the pressed soma for the taking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The steer-strong juice with milk pour forth, for feast and service of the Gods,  
      To him who bears away the draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lasset den Bullen mit den Kühen zusammen, den Saft, der zum Rausche ausgepreßt ist, zur Götterladung, zur Darbringung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den milchgemischten Trank ergiess, der wie ein Stier mit Kühen eilt, Den Göttern bring' er Rausch beim Mahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого быка соедини с коровами,  
 Сок, выжатый для опьянения,  

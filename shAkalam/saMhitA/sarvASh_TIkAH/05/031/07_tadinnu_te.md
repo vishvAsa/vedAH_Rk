@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इ꣡न् नु꣡ ते क꣡रणं दस्म विप्र  
 अ꣡हिं य꣡द् घ्न꣡न्न् ओ꣡जो अ꣡त्रा꣡मिमीथाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रपित्वं꣡ य꣡न्न् अ꣡प द꣡स्यूँर् असेधः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शुष्ण॑स्य । चि॒त् । परि॑ । मा॒याः । अ॒गृ॒भ्णाः॒ । प्र॒ऽपि॒त्वम् । यन् । अप॑ । दस्यू॑न् । अ॒से॒धः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -146,7 +146,7 @@ genre M
 हे **दस्म** दर्शनीय **विप्र** मेधाविन्निन्द्र त्वम् **अत्र** अस्मिँल्लोके **अहिं** वृत्रमसुरं **घ्नन्** हिंसन् **यत्** **ओजः** यद्बलम् **अमिमीथाः** प्रकाशितवानसि **तदिन्नु** तत्खलु **ते** त्वदीयं **करणं** कर्म विद्यते । अपि च **शुष्णस्य** **चित्** एतन्नामकस्याप्यसुरस्य संबन्धिनीः **मायाः** प्रज्ञाः **परि** **अगृभ्णाः** परिगृहीतवानसि । हे इन्द्र त्वं **प्रपित्वं** संग्रामं समीपं वा **यन्** प्राप्नुवन् **दस्यून्** असुरान् **अप** **असेधः** अपाबाधथाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -157,13 +157,13 @@ genre M
 Have arrested the devices of Śuṣṇa: śuṣṇasya cit **pari** **māyā** agṛbhṇāḥ: **mayaḥ** = yuvatiḥ, young damsels, you have seized upon, or carried off, the young women of Śuṣṇa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just this now is your deed, wondrous poet: that smashing the serpent,  you measured out your strength there.  
 Even Śuṣṇa’s magic arts you enveloped; on your way to the ritual meal  you repelled the Dasyus.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vádhar appears here in the same metrical position as in 3b. There the weapon was Vṛtra’s (which Indra struck away), while here it is Indra’s. Another example of vocab. first used of Vṛtra reassigned to Indra -- like ékaḥ … apratíḥ in 3a and the similar expression in 9a. Indeed, ápratītam appears here in b, characterizing Indra’s weapon, which is ‘might’ itself (sáhaḥ). The use of sáhaḥ as an appositive here supports my view of the same usage of this word in V.31.3 (contra Geldner [/Witzel Gotō]). There it characterizes Indra himself. It is even possible that sáho ápratītam here is nominative and an appositive to índraḥ, rather than an acc. and appositive to vádhar, though the juxtaposition of the two terms in b makes that unlikely. In any case note the similarity in phrasing: 31.3a # úd yát sáhaḥ ... 32.7ab # úd yád ... sáhaḥ; the verbs in these clauses are also rhyming: 31.3 ájaniṣṭa, 32.7 yámiṣṭa.
 
@@ -185,23 +185,23 @@ The 2nd sg. ávaho ha kútsam “you (sg.) conveyed Kutsa,” following immediat
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is thy deed, e'en this, Wonderful! Singer! that, slaying Ahi, here thy strength thou showedst,  
      Didst check and stay e'en gusna's wiles and magic, and, drawing nigh, didst chase away the Dasytis.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das war fürwahr dein Werk, du redekundiger Meister, daß du den Drachen erlegend an ihm deine Stärke gemessen hast. Selbst des Susna Zaubereien hast du erfaßt; den Vorsprung gewinnend hast du die Dasyu´s abgewehrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diese That auch, wunderbarer, weiser, dass dort die Schlange tödtend Kraft du zeigtest; Des Çuschna Listen auch hast du bemeistert, und vorwärtsdringend triebst du weg die Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот это еще твое деяние, о чудесный поэт:  
 Что, убивая змея, ты измерил тут (свою) силу.  

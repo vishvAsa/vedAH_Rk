@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने ज꣡रस्व सुअपत्य꣡ आ꣡युनि  
 ऊर्जा꣡ पिन्वस्व स꣡म् इ꣡षो दिदीहि नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उशि꣡ग् देवा꣡नाम् अ꣡सि सुक्र꣡तुर् विपा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वयां॑सि । जि॒न्व॒ । बृ॒ह॒तः । च॒ । जा॒गृ॒वे॒ । उ॒शिक् । दे॒वाना॑म् । असि॑ । सु॒ऽक्रतुः॑ । वि॒पाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -134,7 +134,7 @@ genre M
 हेअग्ने स्वपत्येसुपुत्रे आयुनि आयुषि निमित्तसप्तम्येषा आयुषिनिमित्ते जरस्व देवान् स्तुहि होतारमधिष्ठाय ऊर्जा रसेनअन्नेनवा पिन्वस्वदेवान् प्रीणय नोस्माकं इषः सस्यार्थं वृष्टीः सन्दि दीहि सन्दीपय वयांसिअन्नानिच वयः क्षद्मेत्यन्ननामसुपाठात् जिन्वदेहि हेजागृवेसर्वदाजागरणशी- ल बृहतःमहतोयजमानस्य जिन्वेतिसम्बन्धः सुक्रतुःशोभनकर्माशोभनयज्ञोवात्वं विपाम्मेधाविनां देवानां उशिक् कान्तोसि ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,35 +145,35 @@ genre M
 Grant food: vay_msi annāni; **vayaḥ** kṣadma (**Nirukta** 2.7.7)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, be awake to a lifetime rich with descendants (for us). Swell with  nourishment, and shine refreshments on us.  
 Quicken our vital powers and the (gods) on high, o you who are awake,  as the fire-priest of the gods. You are the one of strong resolve for  
 inspired words.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sing, Agni, for long life to us and noble sons: teem thou with plenty, shine upon us store of food.  
      Increase the great man's strength, thou ever-vigilant: thou, longing for the Gods, knowest their hymns full well.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, be wakeful 1 in our life which may be blessed with offspring; swell with sap; shine upon us (plenty of) food. Stir up vigour and the great ones, O watchful (god). Thou art the Usig (or willing one) of the gods, the good-minded (lord) of prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Wache während eines kindergesegneten Lebens, schwill von Kraft, bring uns Labsal mit deinem Lichte! Errege die Kräfte und zwar große, du Wachsamer! Du bist der Fürbitter bei den Göttern, der gute Berater der Reden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni rausche uns zu kinderreicher Kraft, an Nahrung strotze, Tränke strahle uns herbei; Vermehr die Kraft des Starken auch, o emsiger, die Götter liebst du, und den Sängern thust du wohl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, пробудись, чтобы (дать) срок жизни, благословенный потомством!  
 Налейся силой! Воссвети нам жертвенные услады!  

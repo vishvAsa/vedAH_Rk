@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सुष्टुति꣡ स्तन꣡यन्तं रुव꣡न्तम्  
 इळ꣡स् प꣡तिं जरितर् नून꣡म् अश्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ विद्यु꣡ता रो꣡दसी उक्ष꣡माणः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । अ॒ब्दि॒ऽमान् । उ॒द॒नि॒ऽमान् । इय॑र्ति । प्र । वि॒ऽद्युता॑ । रोद॑सी॒ इति॑ । उ॒क्षमा॑णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -109,21 +109,21 @@ genre M
 अत्र पर्जन्यः स्तूयते । **सुष्टुतिः** शोभना स्तुतिः **स्तनयन्तं** गर्जन्तं **रुवन्तं** वर्षणजनितं शब्दं कुर्वाणम् **इळः** अन्नस्योदकस्य वा **पतिं** स्वामिनं हे **जरितः** स्तोतस्त्वदीया स्तुतिः **नूनं** **प्र** **अश्याः** प्रकर्षेण व्याप्नोतु । **यः** च पर्जन्यः **अब्दिमान्** । अब्दिः अपां दानवान् मेघः । तद्वान् । **उदनिमान्** उदकवान् **विद्युता** तडिता **रोदसी** द्यावापृथिव्यौ **उक्षमाणः** सिञ्चन् **प्र** **इयर्ति** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your pious praise, oḥ worshipper, assuredly reach the thundering, roaring lord of Iḷā, who, impelling the clouds and distributing the rain, proceeds, illuminating the heaven and earth with lightning.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May our lovely praise now reach to the thundering, bellowing lord of  refreshment [=Parjanya], o singer—  
 to him who, rich in clouds, rich in water, sets in motion the two  
 world-halves with his lightning, as he sprinkles them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Despite the position of prá, opening a pāda that ends with the part.
 
@@ -138,23 +138,23 @@ This trio of vss. echoes vs. 1 and ring-compositionally seems to bring the hymn 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, even now, may thy fair praise, O Singer, attain Idaspati who roars and thunders,  
      Who, rich in clouds and waters with his lightning speeds forth bedewing both the earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Lobpreis soll jetzt, o Sänger, zu dem donnernden, brüllenden Herrn des Segens dringen, der mit Wolken, mit Wasser heraufzieht, unter Blitzen die beiden Welten benetzend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Labungsherrn erreiche nun dein Loblied, den donnernden, den tosenden, o Sänger, Der wolkenreich und wogenreich die Welten mit seinem Blitz erreget, sie beträufelnd.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть достигнет сейчас прекрасное восхваление, о певец,  
 Гремящего, ревущего господина жертвенного напитка,  

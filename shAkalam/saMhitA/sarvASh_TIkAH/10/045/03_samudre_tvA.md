@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समुद्रे꣡ त्वा नृम꣡णा अप्सु꣡ अन्त꣡र्  
 नृच꣡क्षा ईधे दिवो꣡ अग्न ऊ꣡धन्  
@@ -19,7 +19,7 @@ ChandaH = "त्रिष्टुप्"
 समुद्रे त्वेति ॥ हे अग्ने । समुद्रे अप्स्वन्तः बडवात्मना स्थितं त्वा त्वां नृमणा नृषु अनुग्राहकत्वेन आसक्तमनाः वरुणः ईधे दीपयति । तथा दिवः द्युलोकस्य ऊधन् ऊधस्थानीये मेधे आदित्यमण्डले वा नृचक्षाः नृणां द्रष्टा कृताकृतप्रत्यवेक्षणेन । कः पुनरसौ? सूर्यः स हि कर्मसाक्षी, स च त्वामीधे । तथा तृतीये रजसि लोके कीदृशे? ऋतस्य उदकस्य सत्यस्य वा योनौ उत्पत्तिस्थाने अन्तरिक्षे वैद्युतात्मना तस्थिवांसं त्वां महिषाः महान्तः अहिन्वत् । हि गतौ, गत्यर्थाः बुद्ध्यर्थाः बुध्यन्ते । वर्तमाने लङ् ॥
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -37,7 +37,7 @@ genre M
 तृ॒तीये॑ । त्वा॒ । रज॑सि । त॒स्थि॒ऽवांस॑म् । अ॒पाम् । उ॒पऽस्थे॑ । म॒हि॒षाः । अ॒व॒र्ध॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
@@ -127,7 +127,7 @@ genre M
 हे **अग्ने** **समुद्रे** महोदधौ जायमानम् **अप्स्वन्तः** अपां मध्ये वडवात्मना स्थितं **त्वा** त्वां **नृमणाः** नृषु मनुष्येष्वनुग्राहकतयासक्तचित्तो वरुणः **ईधे** संदीपितवान् । किंच **नृचक्षाः** नृणां प्रत्यक्षेण द्रष्टादित्यः **दिवः** द्युलोकस्य संबन्धिनि **ऊधन्** ऊधसि ऊधःस्थानीय आदित्यमण्डले यज्ञे वा **ईधे** संदीपितवान् । किंच **तृतीये** त्रयाणां पूरके **अपां** वृष्ट्युदकानाम् **उपस्थे** स्थाने **रजसि** अन्तरिक्षलोके **तस्थिवांसं** विद्युद्रूपेणावस्थितं **त्वा** त्वां **महिषाः** महान्तो माध्यमिका देवगणा मरुदादयः स्तोतारः अवर्धन् स्तुतिभिरवर्धयन् । यद्वा । वाजसनेयकोक्तप्रकारेणार्थो द्रष्टव्यः । तद्यथा-’ समुद्रे त्वा नृमणा अप्स्वन्तरिति । प्रजापतिर्वै नृमणा अप्सु त्वा प्रजापतिरित्येतन्नृचक्षा ईधे दिवो अग्र ऊधन्निति प्रजापतिर्वे नृचक्षा आपो दिव ऊधस्तृतीये त्वा रजसि तस्थिवांसमिति द्यौर्वे तृतीयं रजोऽपामुपस्थे महिषा अवर्धन्निति प्राणा वै महिषा दिवि त्वा प्राणा अवर्धन्नित्येतत् ' (श. ब्रा. ६. ७. ४. ५) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ Nṛmaṇaḥ = **Prajāpati**; or, **Varuṇa**;
 **Mahiṣaḥ** = vital airs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the sea, in the waters has the one with a manly mind (kindled) you; the  one with manly eye kindled (you) in the udder of heaven, o Agni.  
 The buffaloes strengthened you, who were standing in the third realm, in  the lap of the waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Manly-souled lit thee in sea and waters, man's Viewer lit thee in the breast of heaven,  
      There as thou stoodest in the third high region the Steers increased thee in the water's bosom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den im Meere, im Wasser Weilenden hat der wie ein Herrscher Denkende, den im Euter des Himmels Weilenden, der wie ein Herrscher Blickende entzündet, o Agni. Dich, den im dritten Dunkelraum Weilenden, im Schoße des Wassers, zogen die Büffel groß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Meer der Luft entflammte dich der Mannheld, im Himmels-Euter dich der Männer schaunde; Als du im dritten Raume standest, Agni, da stärkten dich im Wasserschooss die Büffel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя в океане, в водах, в вымени неба  
 Зажег, о Агни, тот, чья мысль мужественна, чей взор мужествен.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ वरो सुषा꣡मणे  
 अ꣡ग्ने ज꣡नाय चोदय  
 स꣡दा वसो रातिं꣡ यविष्ठ श꣡श्वते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सदा॑ । व॒सो॒ इति॑ । रा॒तिम् । य॒वि॒ष्ठ॒ । शश्व॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -85,7 +85,7 @@ genre M
 **वरो** सर्वैर्वरणीय **वसो** शत्रूणां वासयितः **यविष्ठ** पुनःपुनर्जायमानत्वेन युवतम हे **अग्ने** **त्वं** **सुषाम्णे** सुसाम्ने। सुषामादित्वात् षत्वम् । त्वत्प्रसादाच्छोभनसामवते **शश्वते** बहवे **जनाय** प्रादुर्भूताय स्तोतॄणां **सदा** सर्वदा **रातिं** धनादिकं **चोदय** प्रेरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,29 +98,29 @@ Tranquil and constant: suṣāmne = śāśvate janāya śobhanasāmavatebahave p
 Suṣāmṇa = śobhanam **sāma** priyavacanam yasya (cf. Pāṇini8.3.98); in the next ṛca **susāman** is the name of a king
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, give the impetus to generosity to Varo Suṣāman and to his  people,  
 each and every one, always—o youngest good one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, Most Youthful of the Gods, send evermore the gift of wealth  
      Unto Varosusaman and to all his folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schärfe du, Agni, dem Varo Susaman und jedem Manne ein, immer zu schenken, du Guter, du Jüngster!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, treibe dem Varosuschāman und seinen ganzen Volke reichen Schatz zu, o guter, jüngster.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты для Варо Сушамана,  
 О Агни, (и) для любого человека  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡मिद्धो अग्नि꣡र् नि꣡हितः पृथिव्या꣡म्  
 प्रत्य꣡ङ् वि꣡श्वानि भु꣡वनानि अस्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवो꣡ देवा꣡न् यजतु अग्नि꣡र् अ꣡र्हन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 होता॑ । पा॒व॒कः । प्र॒ऽदिवः॑ । सु॒ऽमे॒धाः । दे॒वः । दे॒वान् । य॒ज॒तु॒ । अ॒ग्निः । अर्ह॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samiddho* ← *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -124,7 +124,7 @@ genre M
 पृथिव्यांवेदिलक्षणायांसमिद्धः सम्यक् दीप्तः एतन्नामकोग्निः निहितः स्थापितः सन् विश्वानिस- र्वाणि भुवनानिभूतजातानिप्रत्यङ् अभिमुखःसन् अस्थात् तिष्ठति यथासर्वेजनाः पश्यन्ति तथा प्रवृ- द्धोभव्दित्यर्थः किञ्च सोग्निर्होताहोमनिष्पादकोदेवानामाह्वातावापावकः शोधकः प्रदिवः पुराणः सुमेधाः शोभनप्रज्ञोदेवोद्योतमानः एवम्महानुभावोग्निः अर्हन् यागयोग्यः सन् देवान् यजतु अत्रय- ष्टव्यानिन्द्रादीन्पूजयतु ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,33 +135,33 @@ genre M
 Āpris: cf. 1.142; 1.188
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, kindled, deposited on the earth, has stood up facing all beings. The pure, very wise Hotar from olden days—let Agni the god sacrifice to  the gods, (himself) deserving (it).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI is set upon the earth well kindled; he standeth in the presence of all beings.  
      Wise, ancient, God, the Priest and Purifier, let Agni serve the Gods for he is worthy.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni being kindled, set down on the earth, has stood up with his face towards all worlds. May the Hotri, the purifier, the ancient, wise one, may god Agni sacrifice to the gods, he who is worthy (of being the sacrificer).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entflammt, auf die Erde niedergesetzt steht Agni da allen Wesen zugewandt. Seit alter Zeit der lautere, hochweise Hotri soll Agni, der Gott, die Götter als Würdige verehren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzündet Agni, eingesetzt auf Erden, zu allen Wesen hingewandt, erhob sich, Der weise Priester flammend wie vor Alters; es ehre Agni, er der Gott, die Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажженный  
 , помещенный на землю, Агни  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्रधारे वि꣡तते पवि꣡त्र आ꣡  
 वा꣡चम् पुनन्ति कव꣡यो मनीषि꣡णः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स्प꣡शः सुअ꣡ञ्चः सुदृ꣡शो नृच꣡क्षसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रु॒द्रासः॑ । ए॒षा॒म् । इ॒षि॒रासः॑ । अ॒द्रुहः॑ । स्पशः॑ । सु॒ऽअञ्चः॑ । सु॒ऽदृशः॑ । नृ॒ऽचक्ष॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasradhāre* ← *sahasra*
 - \[noun\], neuter
@@ -115,7 +115,7 @@ genre M
 कवयः क्रान्तकर्माणः अत एव **मनीषिणः** प्राज्ञा ऋत्विजः **सहस्रधारे** अनेकधारोपेते **वितते** कर्मणि विस्तृते **पवित्रे** शुद्ध्युत्पादके सोमे वर्तमानां **वाचं** माध्यमिकाम् । सोमः खलु विश्वावसुप्रभृतिगन्धर्वेष्वन्तरिक्षेऽवतिष्ठते ' सोमो वै राजा गन्धर्वेष्वासीत् ' ( ऐ. ब्रा.१.२७ ) इति श्रवणात् । तत्र वर्तमानं सोमं देवा गोरूपया वाचा क्रीतवन्तः । तदा सोमे वाक्तिष्ठतीति शक्यते वक्तुम् । तस्मात्सोमे स्थितां माध्यमिकां वाचम् **आ** **पुनन्ति** संस्कुर्वन्ति । स्तुवन्तीति यावत् । य उक्तगुणा मरुतां मातरं माध्यमिकां वाचं स्तुवन्ति तेषां **रुद्रासः** रुद्रपुत्रा मरुतः **स्पशः** मध्यमया वाचा वशिनो भवन्ति । कीदृशाः । **इषिराः** गमनशीलाः **अद्रुहः** स्तोतॄणामद्रोग्धारः । यद्वा । द्रुहेः कर्मणि क्विबौणादिकः । परैरहिंस्याः । **स्वञ्चः** शोभनाञ्चनाः अत एव **सुदृशः** सुदर्शनाः **नृचक्षसः** नृणां कर्मनेतॄणां द्रष्टारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,13 +126,13 @@ genre M
 Their servants: spaśaḥ = **vācā** vaśinaḥ (obedient voices)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here in the wide-stretched filter of a thousand streams the poets of  inspired thought purify their speech.  
 The lively Rudras [=Maruts] without deceit are their spies, well directed,  lovely to see, with their eyes on men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich now begins to solve the riddle of the double reference, by situating the poets in (or at) the filter, purifying their speech like the soma streams that cross the filter.
 
@@ -141,23 +141,23 @@ I do not know why the Maruts appear here, esp. as spies - quite distinct from Va
 I would change the tr. of svàñcaḥ in d to “of lovely outlook” (from “well directed”). See comm. ad VI.15.10.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the filter with a thousand streams is stretched, the thoughtful sages purify their song therein.  
      Bright-coloured are their spies, vigorous, void of guile, excellent, fair to see, beholders of mankind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In der ausgespannten Seihe mit tausend Abtraufen läutern nachsinnend die Seher ihre Rede. Die Rudrasöhne sind ihre eifrigen Aufpasser, ohne Falsch, gewandt, schön von Aussehen und mit dem Herrenauge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im tausendström'gen, ausgespannten Somanetz durchläutern sie, die weisen Seher, ihren Sang, Mit Glanz begabt sind ihre Späher, ohne Falsch gewandt und munter, männerschauend hellen Blicks.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В протянутой цедилке с тысячей протоков  
 Поэты, хранители мудрости, очищают речь.  

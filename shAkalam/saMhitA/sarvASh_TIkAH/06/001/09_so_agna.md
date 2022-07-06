@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ अग्न ईजे शशमे꣡ च म꣡र्तो  
 य꣡स् त आ꣡नट् समि꣡धा हव्य꣡दातिम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे꣡त् स꣡ वामा꣡ दधते तुवो꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । आऽहु॑तिम् । परि॑ । वे॒द॒ । नमः॑ऽभिः । विश्वा॑ । इत् । सः । वा॒मा । द॒ध॒ते॒ । त्वाऽऊ॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -140,20 +140,20 @@ genre M
 हे अग्ने त्वां **सः** **मर्तः** स यजमानः **ईजे** यजते । **शशमे** च स्तौति । ' शशमानः ' (नि. ३. १४. २२ ) इति स्तुतिकर्मसु पाठादिदमपि स्तुतिकर्म । **यः** यजमानः **ते** तव **समिधा** सह **हव्यदातिं** हविषां दानम् **आनट्** करोति । किंच **यः** यजमानः **नमोभिः** स्तुतिभिः **आहुतिम्** आज्यादिलक्षणां **परि** **वेद** परितो वेत्ति । ददातीत्यर्थः । सः यजमानः **त्वोतः** त्वया रक्षितः सन् **विश्वेत्** सर्वाणि **वामा** वननीयानि धनानि **दधते** धारयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The man, **Agni**, who worships you, who praises you, who offers oblations to you with kindled fuel, who presents burnt-offerings to you with prostrations, he verily, protected by you, obtains all desired wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, that mortal has sacrificed and ritually labored who after  kindling you has achieved your oblation-giving,  
 who knows his way around the offering with its acts of homage. Just he  will acquire all things of value, when aided by you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are a few small questions in this vs. In b both Geldner and Renou take instr.
 
@@ -164,23 +164,23 @@ In c my “knows his way around” is a literal calque of pári védā into an E
 Geldner and Renou take c with d rather than ab; this is certainly possible and there are no implications either way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the mortal who hath toiled and worshipped, brought thee oblations with his kindled fuel,  
      And well knows sacrifice with adoration, gains every joy with thee to guard and help him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche, o Agni, hat geopfert und den Dienst versehen, der mit Brennholz deinen Opferanteil ausgerichtet hat. Wer die Opferung unter Verbeugungen gründlich versteht, der empfängt mit deiner Hilfe alles Gute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mensch, o Agni, hat gewirkt, geopfert, der dir mit Brennholz Opfergabe weihte; Wer recht versteht den Opferguss in Ehrfurcht, empfängt durch dich die schönsten Güter alle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот смертный, о Агни, принес жертву (и) потрудился (на обряде),  
 Кто преуспел в устройстве твоего жертвенного дара с помощью дров (для костра).  

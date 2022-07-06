@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ अ꣡ग्रे अ꣡ह्नां ह꣡रिर् हर्यतो꣡ म꣡दः  
 प्र꣡ चे꣡तसा चेतयते अ꣡नु द्यु꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 न꣡रा च शं꣡सं दइ꣡वियं च धर्त꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 द्वा । जना॑ । या॒तय॑न् । अ॒न्तः । ई॒य॒ते॒ । नरा॒शंस॑म् । च॒ । दैव्य॑म् । च॒ । ध॒र्तरि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -136,7 +136,7 @@ genre M
 **सः** सोमः **अग्रे** सर्वेषां संमुखं **चेतसा** प्राणिनां चेतनेन सह **अह्रां** **द्युभिः** दीप्तिभिः **अनु** **प्र** **चेतयते** अनुप्रज्ञायते । यद्वा । अह्नामग्रे अग्रभागे। प्रातरित्यर्थः । स्तोतॄणां चेतसा प्रज्ञानेन द्युभिर्दीप्ताभिः स्तुतिभिश्चानु प्र चेतयते । कीदृशः सः । **हरिः** हरितवर्णः **हर्यतः** कान्तः **मदः** मदकरः। किंच **द्वा** **जना** द्वौ जनौ स्तोतारं यष्टारं च **यातयन्** प्रापयन् स्वविहितेन कर्मणा । लौकिकवैदिकौ द्वौ जनौ द्रष्टव्यौ । एवं कुर्वन् **अन्तः** द्यावापृथिव्योर्मध्ये **ईयते** गच्छति । ‘ ईङ् गतौ ' । किं कुर्वन् । **नराशंसं** नरैः शंसनीयम् । मानुषमित्यर्थः । **दैव्यं** **च** दिवि भवम् उभयविधं धनं **धर्तरि** धारके यजमाने प्रेरयन्निति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,12 +147,12 @@ genre M
 The two men: i.e., the praiser and the worshipper; or, secular and sacred people (laukikavaidikau)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the vanguard of the days [=dawn] the tawny, delightful, exhilarating  drink makes himself conspicuous with his appearance through the days. Setting in place the two peoples [=gods and men], he speeds between  them in upholding the “praise of men” and the heavenly (praise).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs., too, contains the two ‘day’ words, gen. pl. áhnām, dependent on ágre, and the adverbial instr. expression ánu dyúbhiḥ. See comm. ad vss. 19, 41.
 
@@ -170,23 +170,23 @@ The focus on our welfare found in the last tṛca is found here in vs. 41 but is
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When days begin, the strong juice, lovely, golden-hued, is recognized by wisdom more and more each day,  
      He, stirring both the Races, goes between the two, the bearer of the word of men and word of Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Anbruch der Tage tut sich der goldige, begehrenswerte Rauschtrank tagtäglich durch seinen Geist kund. Die beiden Völker einend geht er zwischen Himmel und Erde, er der Träger der Männerrede und der göttlichen Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er zeigt bei Tages Anbruch sich in schönem Glanz der goldne Trank, der holde sich in hellem Licht; Die beiden einend geht er zwischen beiden hin, dem Preis der Menschen, und der Götter ew'gem Halt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अग्निः꣡ क्रव्या꣡त् प्रविवे꣡श वो गृह꣡म्  
 इम꣡म् प꣡श्यन्न् इ꣡तरं जात꣡वेदसम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ घर्म꣡म् इन्वात् परमे꣡ सध꣡स्थे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तम् । ह॒रा॒मि॒ । पि॒तृ॒ऽय॒ज्ञाय॑ । दे॒वम् । सः । घ॒र्मम् । इ॒न्वा॒त् । प॒र॒मे । स॒धऽस्थे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -134,37 +134,37 @@ popular
 यः क्रव्यादोग्निः वोयुष्माकं गृहिणां गृहं प्रविवेश प्रविष्टवान् तं क्रव्यादं देवं हरामि गृहाद्बहिर्निष्क्रमयामीत्यर्थः । किमर्थं पितृयज्ञाय तदर्थम् । किङ्कुर्वन् इममितरं तस्मादन्यं हव्यवाहं जातवेदसं पश्यन् पर्यालोचयन् तथासति क्रव्यात् क्रव्यादात्परोग्निः परमे उत्कृष्टे सधस्थे सहस्थाने घर्मं यज्ञमिन्वात् प्राप्नोतु पितृभिर्घर्मपैः सहेतिशेषः ॥ १० ॥ महापितृयज्ञे वषट्कारक्रियायां योअग्निः क्रव्यवाहनइत्येषा स्विष्टकृतोयाज्या । सूत्रितञ्च—योअग्निः क्रव्यवाहनस्त्वमग्नर्हळितइति संयाज्ये इति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The flesh-devouring deity **Agni**, who has entered your dwelling, I turn him out, for the worship of thePitṛs, upon beholding this other (Agni) **Jātavedas**; let him celebrate the sacrifice (to the **Pitṛs**) in the mostexcellent assembly.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The flesh-eating Agni who entered your house, though he saw this one  here, the other Jātavedas—  
 that god I take for the sacrifice to the forefathers. He will send the  
 gharma (drink) to the highest seat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I choose as God for Father-worship Agni, flesh-eater, who hath past within your dwelling,  
      While looking on this other Jatavedas. Let him light flames in the supreme assembly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der fleischfressende Agni. Der in euer Haus eingedrungen ist, obwohl er diesen anderen Jatavedas sieht, den Gott hole ich weg für das Manenopfer; er möge den Gharmatrank an den entferntesten Ort bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Fleischverzehrer Agni, der ins Haus drang, erblicke hier den andern Wesenkenner; Zum Ahnenopfer hol' ich diesen Gott her, er bring' den heissen Trank zum höchsten Sitze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот Агни, пожирающий сырое мясо, что проник в ваш дом,  
 (Хоть и) видел этого другого – Джатаведаса,  

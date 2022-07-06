@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वस्य केतु꣡र् भु꣡वनस्य ग꣡र्भ  
 आ꣡ रो꣡दसी अपृणाज् जा꣡यमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡ना य꣡द् अग्नि꣡म् अ꣡यजन्त प꣡ञ्च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वी॒ळुम् । चि॒त् । अद्रि॑म् । अ॒भि॒न॒त् । प॒रा॒ऽयन् । जनाः॑ । यत् । अ॒ग्निम् । अय॑जन्त । पञ्च॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
@@ -131,7 +131,7 @@ genre M
 विश्वस्येति ॥ विश्वस्य केतुः सर्वस्य ज्ञाता भुवनस्य भूत जातस्य गर्भः वैश्वानरात्मना । एवम्भूतोऽग्निः जायमान एव रोदसी आऽपृणात् आपूरयति स्वेन तेजसा । किञ्च - वीडुं चित् वीडुरिति दृढनाम, दृढमपि अद्रिं मेघं पर्वतं वा अभिनत् भिनत्ति परायन् परागच्छन् यत् यदा अग्निं एनं पञ्च जनाः निषादपञ्चमाश्चत्वारो वर्णाः अयजन्त यजन्ते तदा हविर्गृहीत्वा प्रतिगच्छन् पर्वतादिकमपि भित्त्वा गच्छतीत्यर्थः ॥
 ꣡</details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,28 +142,28 @@ genre M
 Five classes: pañcajanāḥ = five men; or, the four chief priests and the **yajamāna**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Beacon of all creation, the embryo filled both world-halves while he was  being born. He split even the solid rock in leaving it, when the five peoples sacrificed  to Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Germ of the world, ensign of all creation, be sprang to life and filled the earth and heavens.  
      Even the firm rock he cleft when passing over, when the Five Tribes brought sacrifice to Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Banner des Alls, das Kind der Welt hat er bei seiner Geburt Himmel und Erde erfüllt. Er spaltete sogar den festen Fels in die Ferne ziehend, als die fünf Völker den Agni anbeteten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Spross des Weltalls, aller Wesen Leuchte, erfüllte Erd' und Himmel der geborne, Den festen Fels auch brach er, als er hinging, als die fünf Stämme huldigten dem Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Знамя всего, зародыш вселенной,  
 Рождаясь, он заполнил оба мира.  

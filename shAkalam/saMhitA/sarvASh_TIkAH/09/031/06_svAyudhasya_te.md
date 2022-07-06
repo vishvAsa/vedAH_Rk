@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुआयुध꣡स्य ते सतो꣡  
 भु꣡वनस्य पते वय꣡म्  
 इ꣡न्दो सखित्व꣡म् उश्मसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दो॒ इति॑ । स॒खि॒ऽत्वम् । उ॒श्म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svāyudhasya* ← *su*
 - \[adverb\]
@@ -86,37 +86,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **भुवनस्य** भूतजातस्य **पते** स्वामिन् पालक सोम। सोमस्य जगदाप्यायिकत्वेन तत्स्वामित्वम् । हे **इन्दो** सोम **वयम्** अनुष्ठातारः **स्वायुधस्य** **ते** तव **सतः** **सखित्वमुश्मसि** कामयामहे ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, lord of beings, we desire the friendship of you, the well-armed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You—who have good weapons, who are really present, o lord of  
 creation—  
 we want your fellowship, o drop.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Friendship, O Indu, we desire with thee who bearest noble arms,  
      With thee, O Lord of all that is.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Herr der Welt, wir wünschen deine Freundschaft, o Saft, da du gute Waffen führst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wünschen deine Freundschaft uns von dir, o Indu, Herr der Welt, Der du so schön bewaffnet bist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С тобой, имеющим прекрасное оружие,  
 О Господин вселенной, мы,  

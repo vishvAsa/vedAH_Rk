@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यदा꣡ ते मा꣡रुतीर् वि꣡शस्  
 तु꣡भ्यम् इन्द्र नियेमिरे꣡  
 आ꣡द् इ꣡त् ते वि꣡श्वा भु꣡वनानि येमिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 आत् । इत् । ते॒ । विश्वा॑ । भुव॑नानि । ये॒मि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadā*
 - \[adverb\]
@@ -93,7 +93,7 @@ genre M;; repeated line
 हे **इन्द्र** **तुभ्यं** त्वदर्थं 'मारुतीः मारुत्यो मरुद्रूपाः **ते** त्वदीयाः **विशः** प्रजाः **यदा** यस्मिन् काले **नियेमिरे** नियच्छन्ति भूतजातानि । अन्यद्गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,13 +104,13 @@ genre M;; repeated line
 Regulated: or, subdued the world for you, tvadartham niyacchanti bhūtajātāni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the Marutian clans held themselves down for you,  
 just after that all these worlds held themselves in submission to you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The doubling of te … túbhyam is presumably pleonastic+++(=redundant)+++ in ab, with the yadā́te simply repeated from 27a, 28a.
 
@@ -126,23 +126,23 @@ For the only time in the hymn the Anhang is only three syllables, yemire, but th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Indra, all the Marut folk humbly submitted them to thee,  
      Even then all creatures that had life bowed down to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die marutischen Clane sich dir, Indra, unterworfen hatten, da erst haben sich dir alle Wesen gefügt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als deine Marutscharen dann um dich, o Indra, scharten sich, Da schmiegten alle Wesen auch sich eng an dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда марутовы племена  
 Покорились тебе,о Индра,  

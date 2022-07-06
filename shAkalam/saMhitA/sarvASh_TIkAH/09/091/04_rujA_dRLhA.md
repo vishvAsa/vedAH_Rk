@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रुजा꣡ दॄळ्हा꣡+ चिद् रक्ष꣡सः स꣡दांसि  
 पुनान꣡ इन्द ऊर्णुहि वि꣡ वा꣡जान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ अ꣡न्ति दूरा꣡द् उपनाय꣡म् एषाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृ॒श्च । उ॒परि॑ष्टात् । तु॒ज॒ता । व॒धेन॑ । ये । अन्ति॑ । दू॒रात् । उ॒प॒ऽना॒यम् । ए॒षा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rujā* ← *ruja* ← *ruj*
 - \[verb\], singular, Present imperative
@@ -120,20 +120,20 @@ genre M
 हे सोम **दृळ्हा** **चित्** दृढान्यपि परैरगन्तव्यत्वेन **रक्षसः** राक्षसस्य **सदांसि** स्थानानि पुराणि **रुज** विनाशय । रुजो भङ्गे' तौदादिकः । किंच हे **इन्दो** पवमान **पुनानः** पवित्रादिभिः पूयमानस्त्वं **वाजान्** तस्यान्नानि तस्य बलानि वा **ऊर्णुहि** आच्छादय । आहरेत्यर्थः । तथा **ये** राक्षसाः **उपरिष्टात्** ऊर्ध्वदेशादागच्छन्ति ये वा **अन्ति** अन्तिके समीप आगच्छन्ति ये च **दूरात्** दूरदेशाद्वागच्छन्ति तेषां राक्षसानाम् **उपनायम्** उपनेतारं स्वामिनं **तुजता** । तुजतिर्हिंसाकर्मा । हिंसकेन **वधेन** हननसाधनेनायुधेन त्वं **वृश्च** छिन्धि । ' ओव्रश्चू छेदने' तौदादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Demolish the strong dwellings of the **rākṣasa**; **Indu**, when purified put on his strength; cut to pieces with your destructive weapon (the **rākṣasas**) who come from above, from nigh, or from afar and their leader.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Shatter even the entrenched seats of the demon. While being purified, o  drop, uncover the prizes of victory.  
 Hew down from above with your thrusting weapon the one who led here  from afar those (enemies) who are (now) nearby.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The syntax of the 2nd hemistich, esp. pāda d, is clotted and has been variously interpreted. Geldner takes the problematic upanāyám as obj. of vṛścá (as I do), but considers the referents of yé … eṣām to be the vā́jān of b: “… der sie sich holt, mögen sie nah (oder) fern sein.” Sāyaṇa.’s interpr. (see also Geldner’s n. 4d) seems a more sensible version of Geldner’s: he glosses upanāyám as ‘master’ (svāminam) and takes the plurals to refer to demons. Renou seems to make upanāyám an appositive or parallel to the pl. yé … eṣām, which he (semi-)configures as the obj.: “Fends … (les démons) qui sont près (ou) loin, le chef de ces (démons).” All of them take ánti durā́t as a constituent, “near (or) far.” But the contrastive expression “near (or) far” generally matches cases (or adverbial equivalents thereof): ablatival ántitaḥ (...) dūrā́t (II.27.13, etc.) or locatival ánti dūré (I.79.11, etc.; see esp. IX.19.7 dūré vā sató ánti vā, IX.67.21 yád ánti yác ca dūraké). Our passage, by contrast, has locatival ánti and abl. durā́t, and I therefore separate them and assign them to different syntactic units.
 
@@ -144,23 +144,23 @@ It may be so positioned to allow ánti to be adjacent to durā́t though belongi
 Lowe (Part. 289) claims that tujánt- is a Caland adj. meaning ‘eager’ rather than a participle ‘thrusting’, but the passages, esp. this one and I.61.6 (with two exx.), favor a more dynamic rendering, and in particular tujatā́vadhéna “with your thrusting weapon” recalls IX.57.2 tuñjāná ā́yudhā “brandishing his weapons,” with an undoubted participle. I don’t actually see what is gained by reclassifying these forms as Caland adjectives.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Break down the, strong seats even of the demons: cleansing thee, Indu, robd thyself in vigour.  
      Rend with thy swift bolt, coming from above them, those who are near and those who yet are distant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zerbrich auch die festen Sitze des Unholds; dich läuternd schließe die Gewinne auf, o Saft! Spalte von oben mit wuchtender Waffe den, der sie sich holt, mögen sie nah oder fern sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zerbrich auch der Gespenster feste Sitze, eröffne Güter, Indu, hell erstrahlend; Von oben her zerspalt mit schnellem Hiebe der Feinde Führer in der Näh und Ferne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Раскали сиденья ракшасов, даже (если они) тверды!  
 Очищаясь, о сок, открой награды!  

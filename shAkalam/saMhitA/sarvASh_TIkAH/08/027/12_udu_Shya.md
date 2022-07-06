@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ ष्य꣡ वः सविता꣡ सुप्रणीतयो  
 अ꣡स्थाद् ऊर्ध्वो꣡ व꣡रेणियः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡विश्रन् पतयिष्ण꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 नि । द्वि॒ऽपादः॑ । चतुः॑ऽपादः । अ॒र्थिनः॑ । अवि॑श्रन् । प॒त॒यि॒ष्णवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -109,36 +109,36 @@ genre M
 पञ्चमेऽहनि प्रउगशस्त्रे ‘देवदेवम्' इति वैश्वदेवस्तृचः । सूत्रितं च-- देवंदेवं बृहदु गायिषे वचः' (आश्व. श्रौ. ७. १२) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Devoutly praised (**Maruts**), when the adorable **Savitā** has risen above you, then bipeds andquadrupeds, and the flying birds, seeking (their objects), enter (upon their functions).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you of good guidance, for you has this Savitar, worthy to be chosen,  stood up, erect.  
 Down have settled the busy two-footed and four-footed, and those that  fly about.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Excellent Savitar hath mounted up on high for you, ye sure and careful Guides.  
      Bipeds and quadrupeds, with several hopes and aims, and birds have settled to their tasks.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jener Savitri, der Auserwählte, hat sich jetzt für euch hoch aufgerichtet, ihr guten Führer. Die geschäftigen Zwei- und Vierfüßler haben sich jetzt zur Ruhe begeben und die Fliegenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhoben hat sich Savitar, schönleitende, der liebenswerthe hoch vor euch; Was zwei und was vier Füsse hat, was fliegen kann, was strebt, hat sich zur Ruh gelegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вон тот Савитар, о прекрасные вожди,  
 Поднялся для вас прямо, (он) избранный.  

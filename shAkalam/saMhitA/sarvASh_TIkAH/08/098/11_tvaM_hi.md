@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ नः पिता꣡ वसो  
 तुव꣡म् माता꣡ शतक्रतो बभू꣡विथ  
 अ꣡धा ते सुम्न꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 अध॑ । ते॒ । सु॒म्नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -96,35 +96,35 @@ genre M;; repeated line
 हे **वसो** वासयितः **शतक्रतो** बहुकर्मन्निन्द्र **त्वं** **नः** अस्माकं **पिता** पितृवत्पालकः **बभूविथ** भव। **त्वं** **माता** मातृवद्धारकश्च बभूविथ। **अध** अथ च वयं **ते** तव स्वभूतं **सुम्नं** सुखम् **ईमहे** याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have been our father, O giver of dwellings, you our mother O **Śatakratu**; we pray for thathappiness which is yours.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you are our father, o good one of a hundred resolves, you our mother. And therefore we beg for your favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, gracious Satakratu, thou hast ever been a Mother and a Sire to us,  
      So now for bliss we pray to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du bist unser Vater, du Guter, du unsere Mutter geworden, du Ratreicher; darum bitten wir um deine Gnade.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du, o guter, warest stets uns Vater du und Mutter auch, vielwirkender, Drum flehen wir um deinen Schutz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты наш отец, о благой,  
 Ты стал матерью, о стоумный,  

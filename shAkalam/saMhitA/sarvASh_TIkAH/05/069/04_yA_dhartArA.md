@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ धर्ता꣡रा र꣡जसो रोचन꣡स्य  
 उता꣡दित्या꣡ दिविया꣡ पा꣡र्थिवस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व्रता꣡नि मित्रावरुणा ध्रुवा꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । वा॒म् । दे॒वाः । अ॒मृताः॑ । आ । मि॒न॒न्ति॒ । व्र॒तानि॑ । मि॒त्रा॒व॒रु॒णा॒ । ध्रु॒वाणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
@@ -114,36 +114,36 @@ genre M
 **या** यौ **रोचनस्य** रोचमानस्य **रजसः** लोकस्य । स्वर्गाख्यस्येत्यर्थः । **उत** अपि च **पार्थिवस्थ** रजसः या यौ धर्तारौ **आदित्या** अदितेः पुत्रौ **दिव्या** दिवि भवौ तौ युवामीळे इति पूर्वत्र संबन्धः । हे **मित्रावरुणा** **वां** युवयोः **ध्रुवाणि** **व्रतानि** कर्माणि **देवाः** अन्ये इन्द्रादयः **अमृताः** अमरणधर्माणोऽपि **न** **आ** **मिनन्ति** न हिंसन्ति । यतो ध्रुवाण्यत इत्यभिप्रायः ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I worship you two, divine **Ādityas**, who are upholders of the celestial and terrestrial worlds; the immortal gods impair not, **Mitra** and **Varuṇa**, your eternal works.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You) two heavenly Ādityas, who are the upholders of the earthly space  and the realm of light—  
 o Mitra and Varuṇa, the immortal gods do not violate your enduring  commandments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye who uphold the region, sphere of brightness, ye who support earth's realm Divine Adityas,  
      The Immortal Gods, O Varuna and Mitra, never impair your everlasting statutes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die ihr, die himmlischen Aditisöhne, die Erhalter der Lichtwelt und der irdischen Welt seid, eure feststehenden Gebote beeinträchtigen nicht die unsterblichen Götter, o Mitra und Varuna.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ihr des Aethers und des Luftraums Träger des Erdraums seid, o himmlische Aditja's, Die Götter selbst verletzen eure festen Gesetze nicht, o Varuna und Mitra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те двое, что поддерживают светлое пространство,  
 А также земное, небесные Адитьи, –  

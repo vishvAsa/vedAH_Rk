@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् य꣡स्य ते न꣡वजातस्य वृ꣡ष्णो  
 अ꣡ग्ने च꣡रन्ति अज꣡रा इधानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ दूतो꣡ अग्न ई꣡यसे हि꣡ देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अच्छ॑ । द्याम् । अ॒रु॒षः । धू॒मः । ए॒ति॒ । सम् । दू॒तः । अ॒ग्ने॒ । ईय॑से । हि । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -136,36 +136,36 @@ genre M
 हे **अग्ने** **नवजातस्य** नवप्रादुर्भावस्य **वृष्णः** वर्षितुः **यस्य** **ते** तव **अजराः** जरारहिता ज्वालाः **इधानाः** **उत्** **चरन्ति** उद्गच्छन्ति अस्य **अरुषः** आरोचमानः **धूमः** **द्याम्** **अच्छ** दिवमभि **एति** गच्छति । हे **अग्ने** त्वं **दूतः** सन् **देवान्** **सम्** **ईयसे** हि संप्राप्नोषि च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The kindled undecaying flames of you, the newly born, the showerer, rise up; the luminous smokespreads along the sky; and you, **Agni**, proceed as their messenger to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You the new-born bull, o Agni, whose ageless (flames), being kindled,  climb upward—  
 your ruddy smoke goes toward heaven, for as our messenger, o Agni,  you speed to the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From thee a Bull but newly born, O Agni, the kindled everlasting flames rise upward.  
      Aloft to heaven thy ruddy smoke ascendeth: Agni, thou speedest to the Gods as envoy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn von dir, Agni, dem neugeborenen Stiere, die alterlosen Flammen entzündet aufsteigen, so geht der rötliche Rauch zum Himmel, denn du, Agni, suchest als Bote die Götter insgesamt auf;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, dessen ewig junge Flammen, des neugebornen Stieres, aufwärts wandern; Zum Himmel auf erhebt dein rother Rauch sich; denn du als Bote eilest zu den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда от тебя, новорожденного быка,  
 О Агни, устремляются вверх нестареющие зажженные (языки пламени),  

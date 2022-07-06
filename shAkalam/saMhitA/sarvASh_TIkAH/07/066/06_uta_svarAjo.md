@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्वरा꣡जो अ꣡दितिर्  
 अ꣡दब्धस्य व्रत꣡स्य ये꣡  
 महो꣡ रा꣡जान ईशते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒हः । राजा॑नः । ई॒श॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च **ये** मित्रादयस्त्रयः **स्वराजः** सर्वस्य स्वामिनः **अदितिः** तेषां माता च सन्ति **अदब्धस्य** अहिंसितस्य **महः** महतः **व्रतस्य** अस्य कर्मणः **राजानः** स्वामिनः ते **ईशते** समर्था भवन्ति । अभिमतं दातुमिति शेषः । अथवैवं योज्यम्। ये मित्रादयोऽदितिश्चादब्धस्य व्रतस्य स्वराज ईश्वराः ते महो महतोऽस्मदभिमतधनस्य राजानः स्वामिनः सन्त ईशतेऽस्मभ्यं तद्दातुम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,29 +92,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Utasvarājo aditiradabdhasya vratasya ye maho **rājāna** iśate: **aditis** teṣām **mātā**, of them Aditi is the mother,or mitrādayo aditiśca = **Mitra** and the rest and Aditi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And the sovereign kings and Aditi, who (are masters) of the  undeceivable command,  
 as kings are masters of (all that is) great.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And those Self-reigning, Aditi, whose statute is inviolate,  
      The Kings who rule a vast domain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch die Selbstherrscher und Aditi, die die Hüter des unantastbaren Gesetzes sind: als Könige verfügen sie über große Macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn die Aditja's, deren Recht niemand versehrt, die mächtigen, Sind Herrscher über grosses Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также (эти) самодержцы (и) Адити,  
 Которые (хранители) обета, не поддающегося обману,  

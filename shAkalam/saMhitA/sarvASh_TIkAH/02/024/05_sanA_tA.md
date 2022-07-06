@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ना ता꣡ का꣡ चिद् भु꣡वना भ꣡वीतुवा  
 माद्भिः꣡ शर꣡द्भिर् दु꣡रो वरन्त वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 या꣡ चका꣡र वयु꣡ना ब्र꣡ह्मणस् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अय॑तन्ता । च॒र॒तः॒ । अ॒न्यत्ऽअ॑न्यत् । इत् । या । च॒कार॑ । व॒युना॑ । ब्रह्म॑णः । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanā* ← *sana*
 - \[noun\], nominative, plural, neuter
@@ -133,7 +133,7 @@ genre M
 हेऋत्विग्यजमानाः वोयुष्मदर्थंसना सनातनानि ता तानिकाचित् कानिचित् ब्रह्मणस्पतेः प्रज्ञा- नानि भुवनाभुवनानां सुपांसुलुगितिषष्ठ्यालुक् भुवनानामुदकानां भवीत्वा भाव्यानां दुरोद्वाराणि माद्भिः मासैः पद्दन्नित्यादिनामासशब्दस्यमासूभावः स्वतवस्मासोषसाञ्चइष्यते इतितत्वम् शरद्भिः संवत्सरैश्चवरन्त विवृण्वन्ति तत्कालेवर्षणार्थम्मेघद्वाराण्युद्घाटयन्तीत्यर्थः कानिपुनस्तानि ब्रह्मणस्पति र्यायानि वयुना ज्ञाननामैतत् ज्ञानानिमन्त्रविषयाणिचकार कृतवान् तदनन्तरं अयतन्ता अयतमानौ अप्रयत्नौ उभौलोकौद्यौश्च पृथिवीच अन्यदन्यदित् अन्यदन्यदेवपृथिवीवृष्टिजलं दिव्यमुदकन्द्यौः उदक कार्यं हविर्लक्षणं पार्थिवमन्नं एवं परस्परव्यतिहारेणचरतोभुञ्चाते चरगतिभक्षणयोः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ genre M
 Of the future rains: **bhuvana** bhavitvā = udakānām bhavyānām; which the two regions mutually: **vayunā** **cakāra**: jñānāni **mantra** viṣayāṇi, he made the knowledge the object of prayer; which the āyatamānau aprayatnau;or, the two, to mean heaven and earth, which without effort, pass to one another, anyadanyati carataḥ; i.e., by virtue of prayer and sacrifice, rain is engendered in the sky, which coming down upon the earth, causes fertility, whence food for men or for sacrifice is provided; which, being offered, is again productive of rain, and thus, as the result of prayer, a mutual and spontaneous interchange of benefits between heaven and earth is perpetuated
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All those beings of long ago, whoever they be, are to come to be  (again). Through months and years they [=hinderers] block the  doors for all of you.  
 The two [=the sun and moon], not lining up (next to each other), move  to one (pattern) or the other, to the patterns (of light and dark) that  the lord of the sacred formulation has made.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ancient will be those creatures, whatsoe'er they be; with moons, with autumns, doors unclose themselves to you.  
      Effortless they pass on to perfect this and that, appointed works which Brahmanaspati ordained.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Geschöpfe müssen teilweise alt sein; durch Monate und Jahre waren euch die Tore verschlossen". Ohne Eifersucht gehen beide je eine andere Richtung nach den Richtungen, die Brahmanaspati bestimmt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Zeiten alle, alte und zukünftige, durch Mond' und Herbste öffnen sie die Thore euch; Und sonder Müh geht eine nach der andern hin, den Zielen zu, die ihnen der Gebets Herr schuf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими бы ни были эти древние существа, они предназначались для существования,  
 (А) для вас месяцы (и) годы были заперты врата,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तृणाना꣡सो यत꣡स्रुचो  
 बर्हि꣡र् यज्ञे꣡ सुअध्वरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इ꣡न्द्राय श꣡र्म सप्र꣡थः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वृ॒ञ्जे । दे॒वव्य॑चःऽतमम् । इन्द्रा॑य । शर्म॑ । स॒ऽप्रथः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stṛṇānāso* ← *stṛṇānāsaḥ* ← *stṛ*
 - \[verb noun\], nominative, plural
@@ -93,20 +93,20 @@ genre M
 **स्वध्वरे** शोभनप्रायणीयाद्यवान्तरयागवति **यज्ञे** सोमयागे **बर्हिः** दर्भान् **स्तृणानासः** आस्तरन्तः **यतस्रुचः** नियमितजुह्वादिपात्रा ऋत्विजः **देवव्यचस्तमम्** अतिशयेन देवगामिनं **सप्रथः** सर्वतो विस्तीर्णं **शर्म** सुखसाधनं गृहम् **इन्द्राय** **वृञ्जे** विवर्जयन्ति संपादयन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The priests, bearing ladles, are strewing the sacred grass in this holy sacrifice, to prepare a god-frequented and well-spread abode for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They whose offering spoons are extended are strewing the ritual grass at  the sacrifice with its good ceremonies;  
 I twist (the grass), which provides the broadest expanse to the gods and  extensive shelter to Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) treat this verse as containing an anacoluthon, with the plural pres.
 
@@ -117,28 +117,28 @@ On turī́pa-, whose sense is fairly clear but whose etymology is not, see EWA s
 reading vā áram can be ignored.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The ladle-holders strew trimmed grass at this well-ordered sacrifice;  
      A home for Indra is adorned, wide, fittest to receive the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (Priests) hold forth the (sacrificial) ladle, strewing the sacrificial grass at the decorous service of the sacrifice;—I 1 trim 2 (the sacrificial grass) which best receives the gods with its wide extent, a big shelter for Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem wir mit erhobenem Schmalzlöffel das Barhis hinbreiten bei wohlvollzogenem Opfer, lege ich es herum, daß es den Göttern größten Raum bietet, eine breite Zuflucht für Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Löffelreicher breiten aus die Streu beim schönen Opferfest; Ich schmück' den götterfassendsten, den breiten Sitz dem Indra aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С поднятым ковшом расстилая  
 Жертвенную солому  

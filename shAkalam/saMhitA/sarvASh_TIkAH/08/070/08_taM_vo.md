@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वो महो꣡ महा꣡यियम्  
 इ꣡न्द्रं दाना꣡य सक्ष꣡णिम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वा꣡जेषु अ꣡स्ति ह꣡वियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । गा॒धेषु॑ । यः । आ॒ऽअर॑णेषु । हव्यः॑ । वाजे॑षु । अस्ति॑ । हव्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -103,7 +103,7 @@ genre M
 हे ऋत्विजः **महः** महान्तः **वः** यूयं **तं** **महाय्यं** पूज्यम् **इन्द्र** **दानाय** **सक्षणिं** सचमानं परिचरतेति शेषः । **यः** इन्द्रः **गाधेषु** उदकेषु **हव्यः** **अस्ति** आह्वातव्यो भवति । **यः** च **आरणेषु** गन्तव्येषु निम्नेषूदकेषु स्थलेषु वा हव्योऽस्ति । तथा **वाजेषु** संग्रामेषु जयाय **हव्यः** ह्वातव्योऽस्ति भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,36 +114,36 @@ genre M
 Propitiated by gifts: dānāya sakṣaṇim = who follows for agift
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Call upon) him to give to you—Indra, the conqueror to be greatly  magnified,  
 who is to be called upon at the fords and in foreign parts, who is to be  called upon at the prize-contests.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though as just noted, 7cd should be construed with this verse, the main clause to which those rel. clauses should be attached is incomplete - having a referent tám for the yáḥ of 7c, but no main verb. Geldner supplies “rufet,” which seems the simplest solution, extracted from the two forms of hávyaḥ in cd.
 
 Grassmann, Geldner take ā́raṇa- as ‘depths’, presumably as a contextual antonym to gā́dha- ‘ford’, putatively ← *‘shallow’ (but see EWA s.v.). But there seems no good reason to separate ā́raṇa- from áraṇa- ‘alien, foreign’ and its relatives, esp. since a ford is a ‘shallow’ only indirectly. The other occurrence of ā́raṇa- (I.112.6) is not in an antonymic context; Geldner renders it “in der Grube” (pit), but there is no external support for this tr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Urge ye the Conqueror to give, your Indra greatly to be praised,  
      To be invoked in shallow waters and in depths, to be invoked in deeds of might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen herrlichen, zu verherrlichenden, siegreichen Indra rufet zum Schenken, der in Untiefen und Tiefen anzurufen ist, der in den Preiskämpfen anzurufen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, euren hehren Indra treibt, den Sieger, viel zu schenken uns, Den man an seichtem und den man an tiefem Ort, Den man in Schlachten rufen muss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

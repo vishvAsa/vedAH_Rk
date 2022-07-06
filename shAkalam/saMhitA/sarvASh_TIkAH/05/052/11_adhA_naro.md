@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा न꣡रो नि꣡ ओहते  
 अ꣡धा नियु꣡त ओहते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 चित्रा꣡ रूपा꣡णि द꣡र्शिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । पारा॑वताः । इति॑ । चि॒त्रा । रू॒पाणि॑ । दर्श्या॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -96,7 +96,7 @@ genre M
 **अध** अथ **नरः** अभिमतवृष्ट्यादिनेतारः **न्योहते** नितरां वहन्ति जगत् । **अध** **नियुतः** स्वयमेव मिश्रयितारः सन्तः **ओहते**। **अध** अथ **पारावताः** । परावद्दूरदेशः। तत्संबन्धिनश्चान्तरिक्षादिदूरदेशे ग्रहतारामेघादिधारकाः सन्त ओहत इत्यर्थः । **इति** उक्तप्रकारेण तेषां **रूपाणि** **चित्रा** नानाविधानि चायनीयानि वा **दर्श्या** स्वव्यापारैर्दशनीयानि भवन्त्विति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,36 +107,36 @@ genre M
 They uphold the distant objects: the text has only adhā parāvatā: the latter is formed from paravat, dūradeśaḥ, a distant plural ce or country, tat sambandhinaḥ being in relation to it; i.e., the winds being in the firmament give support to the distant stars and plural nets
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then they vaunt themselves as “men (come) down”; then they vaunt  themselves as “teams”;  
 then as “those from afar.” Their bright forms are worthy to be seen.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. of this vs. follows from that of 10 and diverges from those of others. By my interpr. the nom. plurals are further names the Maruts call themselves, shown most clearly by the íti ending pāda c. Most interpr. take c with d, syntactically and semantically divorced from ab -- e.g., Klein (DGRV II.102-3, closely flg. Geldner) “(And) the men proclaim it (as worthy) and (their) teams proclaim (it so), and wondrous (are their) forms, worthy of being seen, (of whom they say,) “(They are) from the distance.” But the ádhā’s that open pādas a, b, and c impose, or at least beg for, a parallel interpr. of the three pādas, esp. with the íti closing the last, and the parenthetical “(of whom they say)” is ad hoc, generated only from the íti of c.
 
 One of the problems not mentioned by the standard interpr. is the intrusive ní in pāda a. The verb √uh does not otherwise occur with this preverb, and since ohate is surrounded by identical forms without preverb (10d, 11b) it seems unlikely that only the middle one would have the preverb. It might be loosely inspired by the ni in niyúta(ḥ) in b, but Śyāvāśva does not seem the type of poet to throw in verbal fragments without function. I suggest rather that it continues but varies the naming pattern of 10ab with PREV-pathi-, here with the ní a very minimalist predication of náraḥ “men down.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To this the Heroes well attend, well do their teams attend to this.  
      Visible are their varied forms. Behold, they are Paravatas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und die Männer würdigen es und ihre Gespanne würdigen es, und ihre wunderbaren Gestalten werden sichtbar, bei denen man sagt: "Leute aus der Fremde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Männer, ja sie achten drauf und ihre Vielgespanne auch, Sie, die man aus der Ferne ruft, Gestalten prächtig, sehenswerth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И мужи жалуют (ее),  
 И (их) упряжки жалуют (ее),  

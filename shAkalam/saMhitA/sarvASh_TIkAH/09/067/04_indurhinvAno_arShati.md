@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दुर् हिन्वानो꣡ अर्षति  
 तिरो꣡ वा꣡राणि अव्य꣡या  
 ह꣡रिर् वा꣡जम् अचिक्रदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हरिः॑ । वाज॑म् । अ॒चि॒क्र॒द॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
@@ -76,20 +76,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **हिन्वानः** ग्रावभि: प्रेर्यमाणोऽभिषूयमाणः **इन्दुः** सोमः **अव्यया** अविमयान्यवीनां स्वभूतानि **वाराणि** वालानि । पवित्राणीत्यर्थः। तानि **तिरः** तिरस्कृत्य व्यवधाय **अर्षति** गच्छति । प्रभूतं निर्गच्छतीत्यर्थः। सोऽयं **हरिः** हरितवर्णः सोमः **वाजम्** अन्नम् **अचिक्रदत्** शब्दयति । त्वया सह इन्द्रमहमाह्वयामीत्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu** effused (by the stones) passes through the woollen filter; green-tinted he roars forth food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The drop, being impelled, rushes across the sheep’s fleece;  
 the tawny one has roared for the prize.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -99,23 +99,23 @@ The Kaśyapa tṛca: it lacks cohesion across all 3 vss., though 4 and 5 share �
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu, urged forward, floweth through the fleecy cloth: the Tawny One  
      With his loud roar hath brought as strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Saft rinnt zur Eile getrieben über die Schafhaare, der Falbe wieherte nach dem Siegerpreis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Getrieben rennt das goldne Ross, der Indu durch des Widders Haar, Schon wiehert nach dem Kampfpreis er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Течет поторапливаемая капля  
 Через (отверстия) сита из овечьей шерсти.  

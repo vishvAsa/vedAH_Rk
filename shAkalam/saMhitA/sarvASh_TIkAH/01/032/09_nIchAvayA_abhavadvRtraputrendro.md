@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नीचा꣡वया अभवद् वृत्र꣡पुत्रा  
 इ꣡न्द्रो अस्या अ꣡व व꣡धर् जभार  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दा꣡नुः शये सह꣡वत्सा न꣡ धेनुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उत्ऽत॑रा । सूः । अध॑रः । पु॒त्रः । आ॒सी॒त् । दानुः॑ । श॒ये॒ । स॒हऽव॑त्सा । न । धे॒नुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nīcāvayā* ← *nīcāvayāḥ* ← *nīcāvayas*
 - \[noun\], nominative, singular, feminine
@@ -130,7 +130,7 @@ genre M
 **वृत्रपुत्रा** वृत्रः पुत्रो यस्या मातुः सेयं माता वृत्रपुत्रा **नीचावयाः** न्यग्भावं प्राप्ता हता **अभवत्** पुत्रं प्रहाराद्रक्षितुं पुत्रदेहस्योपरि तिरश्ची पतितवतीत्यर्थः । तदानीम् अयम् **इन्द्रः** **अस्याः** मातुः **अव** अधोभागे वृत्रस्योपरि **वधः** हननसाधनमायुधं **जभार** प्रहृतवान् । तदानीं **सूः** माता **उत्तरा** उपरिस्थिता आसीत्। **पुत्रः** तु अधोभागस्थितः **आसीत्**। सा च **दानुः** दानवी वृत्रमाता **शये** मृता शयनं कृतवती। तत्र दृष्टान्तः। **धेनुः** लोकप्रसिद्धा गौः **सहवत्सा** **न** यथा वत्ससहिता शयनं करोति तद्वत्॥ नीचावयाः । वेति खादतीति वयो बाहुः । औणादिकः असिप्रत्ययः । न्यञ्चौ वयसौ यस्याः सा नीचावयाः । न्यच्शब्दादुत्तरस्या विभक्तेः  ‘ सुपां सुपो भवन्ति' इति तृतीयैकवचनादेशः ।  ‘ अचः । इति अकारलोपे ‘चौ ' इति दीर्घत्वम् ।  ‘ अञ्चेश्छन्दस्यसर्वनामस्थानम् ' ( पा. सू. ६. १. १७०) इति तस्योदात्तत्वम् । समासे लुगभावश्छान्दसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । यद्वा । नीचौ निकृष्टौ वयसौ यस्याः सा । पूर्वपदस्य दीर्घश्छान्दसः । वधः । हन्यतेऽनेनेति वधः । असुनि हन्तेर्वधादेशः । नित्त्वादाद्युदात्तत्वम् । जभार ।  ‘ हृग्रहोर्भः' इति भत्वम् । सूः ।  ‘ षूङ् प्राणिगर्भविमोचने '। सूते गर्भं विमुञ्चतीति सूः माता । क्विप् च ' इति क्विप् । दानुः । दो अवखण्डने ' ।' दाभाभ्यां नुः ' ( उ. सू. ३. ३१२)। शये । लटि  ‘ लोपस्त आत्मनेपदेषु' (पा. सू. ७. १. ४१) इति तलोपः।  ‘ शीङः सार्वधातुके ' इति गुणे अयादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,34 +141,34 @@ genre M
 Dānu derived from do, to cut or destroy or from Dānu wife of **Kāśyapa** and mother of the **Dānavas** or Titans
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The strength of Vr̥tra’s mother ebbed; Indra bore his weapon down  upon her.  
 The mother was above; the son below: Dānu lies like a milk-cow with  her calf.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then humbled was the strength of Vrtra's mother: Indra hath cast his deadly bolt against her.  
      The mother was above, the son was under and like a cow beside her calf lay Danu.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The strength began to fail of Vṛtra's mother, For Indra had cast down his bolt upon her. Above the mother was, the son was under; And like a cow beside her calf lies Dānu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zur Neige ging die Lebenskraft der Mutter des Vritra; Indra hatte die Waffe auf sie geschleudert. Obenauf lag die Erzeugerin, zuunterst der Sohn. Die Danu liegt wie die Kuh bei ihrem Kalbe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erschöpft an Kraft war da des Vritra Mutter, und Indra schlug hinweg nun ihre Waffe; Der Sohn lag unten, oben drauf die Mutter, die Hexe liegt wie mit dem Kalb die Milchkuh.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поникла жизненная сила у той, чей сын – Вритра.  
 Индра сбросил на нее смертельное оружие.  

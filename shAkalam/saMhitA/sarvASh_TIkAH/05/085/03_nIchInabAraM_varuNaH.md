@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नीची꣡नबारं व꣡रुणः क꣡वन्धम्  
 प्र꣡ ससर्ज रो꣡दसी अन्त꣡रिक्षम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡वं न꣡ वृष्टि꣡र् वि꣡ उनत्ति भू꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तेन॑ । विश्व॑स्य । भुव॑नस्य । राजा॑ । यव॑म् । न । वृ॒ष्टिः । वि । उ॒न॒त्ति॒ । भूम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nīcīnabāraṃ* ← *nīcīna*
 - \[noun\]
@@ -116,7 +116,7 @@ genre M
 **नीचीनबारम्** अधोमुखबिलं **प्र** ससर्ज कृतवान् । कम् । **कवन्धम्** । कवनमुदकम् । **तत्** धीयतेऽत्रेति कवन्धो मेघः । तं तथाकरोत् । अथवा कवन्धमुदकम् । तदुदकं नीचीनबारं नीचीननिर्गमनबिलं चकार । मेघं विदार्य उदकमधोमुखं चकारेत्यर्थः । किं प्रतीत्युच्यते । **रोदसी** द्यावापृथिव्यौ **अन्तरिक्षं** च प्रति । लोकत्रयहितायेत्यर्थः । **तेन** उदकेन **विश्वस्य** सर्वस्य **भुवनस्य** भूतजातस्य **राजा** स्वामी **वरुणः** **भूम** भूमिं **व्युनत्ति** क्लेदयति । **वृष्टिः** सेक्ता पुमान् **यवं** **न** यवमिव यवान् यथा प्ररोहाय सर्वत्र प्रसारयति तद्वत् भूमिं सर्वत्रोनत्ति । अथवा वृष्टिर्वरुण इति संबन्धः । वर्षकः पर्जन्य इत्यर्थः । अस्मिन् पक्षे यवं पुरुष इवेति पुरुषशब्दोऽध्याहार्यः । अत्र ‘नीचीनबारं वरुणः कवन्धम् ' ( निरु. १०. ४ ) इत्यादिनिरुक्तं द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,30 +127,30 @@ genre M
 Yavam na vṛṣṭir vynatti **bhūma**: **vṛṣṭi** = sekta, the sprinkler, the man, **pumān**, who waters the soil
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Varuṇa has poured out the cask with its opening below upon the two  world-halves and the midspace.  
 By this he is king of the whole living world. Like rain the barley, he  
 soaks the land.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Varuna lets the big cask, opening downward, flow through the heaven and earth and air's mid-region.  
      Therewith the universe's Sovran waters earth as the shower of rain bedews the barley.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Varuna goß den Schlauch mit der Öffnung nach unten in beide Welten und den Luftraum aus; damit durchnetzt der König der ganzen Welt den Erdboden, wie der Regen das Korn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er kehret um der Wolken Wassertonne, lässt strömen sie auf Himmel, Luft und Erde; Des ganzen Weltalls König netzt den Boden mit ihr, wie Regen netzt die Gerstenfelder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бочку с отверстием внизу Варуна  
 Вылил на оба мира (и) в воздушное пространство,  

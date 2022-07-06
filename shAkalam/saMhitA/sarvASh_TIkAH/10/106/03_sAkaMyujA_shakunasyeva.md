@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साकंयु꣡जा शकुन꣡स्येव पक्षा꣡  
 पश्वे꣡व चित्रा꣡ य꣡जुर् आ꣡ गमिष्टम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रिज्मानेव यजथः पुरुत्रा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निःऽइ॑व । दे॒व॒ऽयोः । दी॒दि॒ऽवांसा॑ । परि॑ज्मानाऽइव । य॒ज॒थः॒ । पु॒रु॒ऽत्रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sākaṃyujā* ← *sākaṃyuj*
 - \[noun\], nominative, dual, masculine
@@ -123,7 +123,7 @@ genre M
 **शकुनस्येव** पक्षिण इव यथा पक्षिणः **पक्षा** पक्षौ संहत्य वर्तमानौ तद्वत् **साकंयुजा** साकंयुजौ सहावियुज्य वर्तमानौ भवथः ॥ युजेः ‘सत्सूद्विष° ' इत्यादिना क्विप् ॥ **पश्वेव** पशू इव ॥ सुप आकारः ॥ तौ यथा चायनीयौ तद्वत् **चित्रा** चित्रौ चायनीयौ युवां **यजुः** यजनावस्मदीयौ **आ** **गमिष्टम्** आगच्छतम् ॥ यजेरौणादिको भाव उसिन्प्रत्ययः । गमिष्टम् । गमेर्लेटि • सिब्बहुलं लेटि' इति सिप् । सिप आर्धधातुकत्वात् ‘गमेरिट् परस्मैपदेषु' (पा. सू. ७. २. ५८) इतीडागमः ॥ **देवयोः** देवानिच्छतो यजमानस्य यज्ञे **अग्निरिव** अग्निर्यथा हविर्भिः स्तुतिभिश्च दीप्यते तद्वत् **दीदिवांसा** दीदिवांसौ स्तुतिभिर्दीप्तौ भवथः ॥ दीव्यतेः क्वसौ ‘वस्वेकाजात्' इति नियमादिडभावः । वलि लोपे तुजादित्वादभ्यासदीर्घः ॥ **परिज्मानेव** परिज्मानाविव परितो अजतो गच्छतः। कर्मकरणार्थमिति परिज्मानावध्वर्यू इव स्थितौ युवां **पुरुत्रा** बहुषु देशेषु **यजथः** देवान् पूजयथः ॥ ‘अश्विनौ हि देवानामध्वर्यू' (ऐ. ब्रा. १. १८) इत्याम्नानात् । यद्वा । परिज्मानेव परितो गन्तारौ । पुरो वा पश्चाद्वा तौ यथा बहुषु देशेषु यजथः संगच्छमानौ भवथः ॥ ‘यज देवपूजासंगतिकरणदानेषु' । पुरुत्रा। देवमनुष्य इत्यादिना त्राप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 You celebrate worship: the **Aśvins** are the **Adhvaryus** of the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Joined together like the wings of a bird, conspicuous like livestock,  come here to our sacrificial formula.  
 Shining like the fire of a man who seeks the gods, like two encircling the  earth you perform sacrifice in many places.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like the two pinions of a bird, connected, like two choice animals, ye have sought our worship.  
      Bright as the fire the votary hath kindled, ye sacrifice in many a spot as roamers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die zwei Flügel des Vogels zusammengehörig, wie zwei Tiere in die Augen fallend, kommet zum Opferspruch! Wie des Gottergebenen Feuer leuchtend, opfert ihr vielerorts wie fahrende Sänger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr beide, zusammen verbunden wie zwei Fittige des Vogels, wie zwei glänzende Hausthiere kommt her zu dem Gottesdienst, strahlend wie das Feuer des Frommen, wie zwei Umherwandernde opfert ihr an vielen Orten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как два крыла, принадлежащих одной птице,  
 Как двое ярких животных, приходите на жертвенную формулу!  

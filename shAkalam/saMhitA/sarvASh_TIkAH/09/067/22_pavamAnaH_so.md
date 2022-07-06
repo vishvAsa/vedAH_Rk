@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानः सो꣡ अद्य꣡ नः  
 पवि꣡त्रेण वि꣡चर्षणिः  
 यः꣡ पोता꣡ स꣡ पुनातु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यः । पो॒ता । सः । पु॒ना॒तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सूत्रितञ्च—यत्तेपवित्रमर्चिष्या- कलशेषुधावतीति पवित्रइत्येकइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,12 +101,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Yajus**. 19.42
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who purifies himself through our filter today, the limitless one who is the purifier, let him purify us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The nominal rel. cl. yáḥ potā́seems to be another ex. of the embedded, pseudoizafe construction discussed elsewhere, though in this case there is a resumptive pronoun beginning the continuation of the main cl. The structure is: ab beg. of main cl. marked by sáḥ, no verb; c rel. cl. yáḥ potā́, followed by rest of main cl., with verb, but introduced by a repetition of sáḥ: sá punātu naḥ, or, more schematically: ab sá NOMINATIVE NP / C. yáḥ NOM. NP, sá VERB with the two sá hunks together forming the main cl. A sort of hybrid construction.
 
@@ -127,23 +127,23 @@ The pavítra is mentioned in vss. 22-25, with other, non-physical means of purif
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This day may Pavamana cleanse us with his purifying power,  
      Most active purifying Priest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Pavamana, der Ausgezeichnete, der selbst ein Läuterer ist, soll uns heute mit der Seihe läutern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es läutere, der Läuterer, der lauter strömt durchs Läutmngsnetz, Uns heute er, der emsige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сегодня этот Павамана,  
 Движется далеко, (он,) который (сам) очиститель,  

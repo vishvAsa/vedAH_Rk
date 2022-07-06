@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्त꣡ क्षरन्ति शि꣡शवे मरु꣡त्वते  
 पित्रे꣡ पुत्रा꣡सो अ꣡प्य् अवीवतन्न् ऋत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उभे꣡ यतेते उभ꣡यस्य पुष्यतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒भे इति॑ । इत् । अ॒स्य॒ । उ॒भय॑स्य । रा॒ज॒तः॒ । उ॒भे इति॑ । य॒ते॒ते॒ इति॑ । उ॒भय॑स्य । पु॒ष्य॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
@@ -115,14 +115,14 @@ popular
 **मरुत्वते** । मरुतः स्तोतारः । स्तुतिद्वारेण तद्वते **पित्रे** ऋत्विजां पितृभूताय **शिशवे** शंसनीयाय हविर्धानशकटयोः सुखासीनभूताय सोमाय **सप्त** च्छन्दांसि **क्षरन्ति** स्तुतित्वेन गच्छन्ति । अपि च **पुत्रासः** **अपि** सोमस्य पुत्रभूता ऋत्विजोऽपि **ऋतं** सत्यभूतं स्तोत्रम् **अवीवतन्** संगमयन्ति । सद्गुणग्राहिणीं स्तुतिं कुर्वन्तीत्यर्थः । **उभे** **इत्** द्वे एव हविर्धानशकटे **अस्य** **उभयस्य** देवजातस्य मनुष्यजातस्य च **राजतः** ईशाते । **उभे** एव शकटे **यतेते** कर्मानुष्ठाने प्रयत्नं कुरुतः । **उभयस्य** देवजातस्य मनुष्यजातस्य च **पुष्यतः** । हविर्धारणद्वारेण पुष्टिं कुरुत इत्यर्थः ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The seven (metres) offer laudation to the glorious, the adorable parent, (the **Soma**), his sons (thepriests) utter his true (praise); you both are lords of both (men and gods), you both exert yourselves and are thenourishers of both (men and gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The seven (rivers?) flow for the child accompanied by the Maruts  
 [=Indra]. For their father [=Yama?] have the sons made truth their  
@@ -130,23 +130,23 @@ familiar.
 Both (carts) rule over it [=soma?] of both kinds. Both take their places,  and thrive on the one of both kinds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Seven flow to the Youth on whom the Maruts wait: the Sons unto the Father brought the sacrifice.  
      Both these are his, as his they are the Lords of both: both toil; belonging unto both they prosper well.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sieben Flüsse fließen für den Jungen, der von den Marut begleitet wird. Die Söhne haben den Vater den rechten Weg gelehrt. Beide verfügen über diesen beiderseitigen; beide nehmen den gleichen Rang ein, sie haben beiderlei in Fülle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sieben [Ströme] rinnen dem von den Maruts begleiteten Jüngling [dem Indra], dem Vater haben die Söhne [wol die Sänger, als deren Vater hier Indra dargestellt wird] das heilige [Lied] erregt; und beide [Welten] verfügen über beides [Somaopfer und Lied], beide sind eng verbunden und erlangen beides reichlich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Семь (потоков) текут для ребенка, сопровождаемого Марутами.  
 Сыновья вдохнули в отца (вселенский) закон.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृब꣡दुक्थं हवामहे  
 सृप्र꣡करस्नम् ऊत꣡ये  
 सा꣡धु कृण्व꣡न्तम् अ꣡वसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 साधु॑ । कृ॒ण्वन्त॑म् । अव॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛbadukthaṃ* ← *bṛbaduktham* ← *bṛbaduktha*
 - \[noun\], accusative, singular, masculine
@@ -78,42 +78,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ऊतये** लोकस्य रक्षणाय **सृप्रकरस्नं** प्रसृतबाहुम् । ‘करस्नौ बाहू कर्मणां प्रस्नातारौ ' (निरु. ६. १७) इति यास्कवचनात् । **अवसे** लोकस्य पालनाय **साधु** **कृण्वन्तं** साधु कुर्वन्तं **बृबदुक्थं** महदुक्थमिन्द्रं **हवामहे** ह्वयामः । तथा च यास्कः - बृबदुक्थो महदुक्थो वक्तव्यमस्मा उक्थम् ' (निरु. ६. ४) इति ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke **Indra**, who is greatly to be praised, whose arm is stretched out for the protection (of theworld), acting nobly for our defence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We invoke him of stammering speech, of stout forearms,  
 for help;  
 (we invoke) him who creates success, for aid.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 bṛbáduktha- is a hapax and has aggressively non-Indo-Aryan phonology (not one, but two b’s). My rendering is adopted from Weber (1891, cited by EWA s.v. bṛbú-; see also s.v. bṛbáduktha-). The word must deliberately evoke the name and epithet bṛhád-uktha- but should not be emended thereto; see Oldenberg and Geldner If Weber’s suggestion is correct, this may be a little joke, implying that Indra is powerful but not very good with words.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let us call him to aid whose hands stretch far, to whom high laud is due.  
      Who worketh well to succour us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir rufen den Indra mit langen Armen zum Beistand, ihn, der das Rechte tut, zur Hilfe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den hochgelobten rufen wir, der weit den Arm zur Hülfe streckt, Den segenwirkenden zum Schutz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы зовем того, кто ведет восхваление (?),  
 Того, чьи руки гибки – на помощь,  

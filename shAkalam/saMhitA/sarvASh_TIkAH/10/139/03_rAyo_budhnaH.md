@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रायो꣡ बुध्नः꣡ संग꣡मनो व꣡सूनां  
 वि꣡श्वा रूपा꣡ अभि꣡ चष्टे श꣡चीभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रो न꣡ तस्थौ समरे꣡ ध꣡नानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दे॒वःऽइ॑व । स॒वि॒ता । स॒त्यऽध॑र्मा । इन्द्रः॑ । न । त॒स्थौ॒ । स॒म्ऽअ॒रे । धना॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular
@@ -125,7 +125,7 @@ popular
 **रायः** धनस्य **बुध्नः** बन्धको मूलभूतो वा ॥ ‘ऊडिदम्” इत्यादिना रैशब्दाद्विभक्तेरुदात्तत्वम् ॥ तथा **वसूनां** धनानां **संगमनः** संगमयिता प्रापयिता ईदृशः सविता **शचीभिः** दीप्तिभिः **विश्वा** **रूपा** सर्वाणि रूपाणि निरूपणीयानि पदार्थजातानि **अभि** **चष्टे** अभिपश्यति । प्रकाशयति । अपि च **देवइव** अयं **सविता** सावको देवः **सत्यधर्मा** सत्यमवितथं धर्मं धारणं धारणहेतुभूतं कर्म वा यस्य तादृशो भवति । तथा **इन्द्रो** **न** इन्द्र इव **धनानां** **समरे** संग्रामे सम्यक्प्रापणे **तस्थौ** । अयं सविता उद्युक्तः संस्तिष्ठति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ popular
 Like a god: like the god, Savitā: Yajuṣ12.66, the verse is attributed to **Agni**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The foundation of wealth, the assembler of goods, he watches over all  forms with his powers.  
 Like god Savitar’s, his ordinances hold true; like Indra, he stands at the  confluence of spoils.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, root of wealth, the gatherer-up of treasures, looks with his might on every form and figure.  
      Savitar, like a God.whose Law is constant, stands in the battle for the spoil like Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Grundlage des Reichtums, der Sammler von Schätzen, gewahrt er alle Gestalten nach seiner Macht. Von unverbrüchlichen Regeln wie Gott Savitri, steht er wie Indra inmitten der Anhäufung von Reichtümern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Reichthums Boden und der Schätze Sammler beschaut er eifrig die Gestalten alle; Gesetz beschirmend steht er in dem Kampfe um Güter wie Gott Savitar, wie Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Основа богатств, собиратель благ,  
 Он смотрит на все формы (своими) силами.  

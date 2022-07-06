@@ -8,7 +8,7 @@ title = "+087"
 ‘ प्र वो महे' इति नवर्चं पञ्चदशं सूक्तम् एवयामरुदाख्यस्य आत्रेयस्य मुनेरार्षं मरुद्देवताकमतिजगतीच्छन्दस्कम् । तथा चानुक्रमणिका--' प्र वो नवैवयामरुन्मारुतमतिजागतम्' इति । दशरात्रे षष्ठेऽहनि तृतीयसवनेऽच्छावाकशस्त्रे इदं सूक्तम् । सूत्रितं च-- एवयामरुदुक्तो वृषाकपिना' ( आश्व. श्रौ. ८. ४) इति ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 87 (441)  
 Maruts  
@@ -19,7 +19,7 @@ In terms of content the most striking feature is the close association between t
 ally inhabit the midspace but are found also both in heaven and on earth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts Renou nicely characterizes this hymn (in his comm. on vs. 5) “l'hymne est fait de débris empruntés au cycle ancien des M.” Certainly there is a sense that the vss. are constructed of loosely connected phrases, which may well be connected with the unusual meter.
 

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्य꣡म् पुत्र꣡म् अग्रु꣡वः  
 प꣡रावृक्तं शत꣡क्रतुः  
 उक्थे꣡षु इ꣡न्द्र आ꣡भजत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 उ॒क्थेषु॑ । इन्द्रः॑ । आ । अ॒भ॒ज॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -75,20 +75,20 @@ genre M
 **उत** अपि च **शतक्रतुः** शतकर्मा **इन्द्रः** **त्यं** तं प्रसिद्धम् **अग्रुवः** एतन्नाम्न्याः **पुत्रं** **परावृक्तम्** एतन्नामकम् **उक्थेषु** स्तोत्रेषु **आभजत्** भागिनं कृतवान् । अयमर्थः ‘वम्रीभिः पुत्रमग्रुवः ' ( ऋ. सं. ४. १९. ९) इत्यस्यामृचि प्रतिपादित इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, who are **Śatakratu**, have made Parāvṛj, the son of Agru, participant in sacred hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And to this unwed girl’s son, who had been shunned, did Indra of a  hundred resolves  
 give a share in the recitations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This son of the unwed maiden appears to be the same one who was being eaten by ants in IV.19.9 (in the same Indra cycle); see comm. there. These tantalizing snippets are all we know about the story.
 
@@ -103,23 +103,23 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So Indra, Lord of Heroes, Powers, caused the unwedded damsel's son,  
      The castaway, to share the lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch jenem ausgesetzten Jungfernsohn gab Indra, der Ratreiche, Anteil an den Lobliedern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und jenem ausgestossnen Sohn der Jungfrau theilte Indra zu Der Sprüche Kraft, der mächtige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Также тому сыну незамужней девицы,  
 Подкидышу, Индра многомудрый  

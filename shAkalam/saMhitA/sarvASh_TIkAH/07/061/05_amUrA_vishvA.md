@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡मूरा वि꣡श्वा वृषणाव् इमा꣡ वां  
 न꣡ या꣡सु चित्रं꣡ द꣡दृशे न꣡ यक्ष꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ वां निण्या꣡नि अचि꣡ते अभूवन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 द्रुहः॑ । स॒च॒न्ते॒ । अनृ॑ता । जना॑नाम् । न । वा॒म् । नि॒ण्यानि॑ । अ॒चिते॑ । अ॒भू॒व॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amūrā* ← *amūra*
 - \[noun\], vocative, dual, masculine
@@ -132,41 +132,41 @@ genre M
 हे **अमूरा** अमूढौ हे **विश्वा** व्याप्तौ हे **वृषणौ** वर्षितारौ **वां** युवाभ्याम् **इमाः** इमानि स्तुतिवचांसि क्रियन्ते । **यासु** स्तुतिषु **चित्रम्** आश्चर्यं **न** **ददृशे** न दृश्यते **न** **यक्षं** न पूजा दृश्यते । युवाभ्यां महिम्नोऽपि महत्त्वात् प्रयत्नेन क्रियमाणमपि स्तोत्रं न चमत्करोतीत्यर्थः । **जनानाम्** **अनृता** अस्तुत्यविषयाणि स्तोत्राणि **द्रुहः** द्रोग्धारः **सचन्ते** सेवन्ते । न महान्तः । **वां** युवाभ्यां क्रियमाणानि **निण्यानि** अन्तर्हितानि रहस्यान्यपि स्तोत्राणि **अचिते** अज्ञानाय **न** **अभूवन्** न भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Unperplexed, all-pervading showerers (of benefits), these (praises) are for you, in which nothingsurprising, no adoration (worthy of you) is beheld; the insincere commendations of men serve as offences;eulogies of you, althogh offered in secret, are not unappreciated.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you two bulls, all these of yours who are never fooled, among whom  has been seen neither sign nor wonder—  
 (these, your) deceptions!—follow the untruths of men. There have not  been secrets that cannot be perceived by you two.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Steers, all infallible are these your people in whom no wondrous thing is seen, no worship.  
      Guile follows close the men who are untruthful: no secrets may be hidden from your knowledge.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Ye both are wise, O mighty ones, for you two These lauds are sung without deceit or magic. Avenging spies pursue men's falsehoods closely: There are no secrets that ye cannot fathom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Bullen, alle beide unfehlbar, diese Anschläge von euch, bei denen man weder Zeichen noch Wunder sieht, folgen den Unredlichkeiten der Menschen. Nicht sind euch beiden Geheimnisse unbekannt geblieben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es strafen alle eure Rachegeister, an denen nicht Gestalt noch Schein gesehn wird, Die Schuld der Menschen ungetäuscht, o Helden; nicht ist dem Thoren kund eur heimlich Wirken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О два быка безошибочных, все эти ваши  
 Злые силы, в которых не видно ни (излишней) яркости, ни чуда,  

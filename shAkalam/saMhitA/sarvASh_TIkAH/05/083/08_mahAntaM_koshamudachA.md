@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महा꣡न्तं को꣡शम् उ꣡द् अचा नि꣡ षिञ्च  
 स्य꣡न्दन्तां कुल्या꣡ वि꣡षिताः पुर꣡स्तात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुप्रपाण꣡म् भवतु अघ्निया꣡भ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 घृ॒तेन॑ । द्यावा॑पृथि॒वी इति॑ । वि । उ॒न्धि॒ । सु॒ऽप्र॒पा॒नम् । भ॒व॒तु॒ । अ॒घ्न्याभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahāntaṃ* ← *mahāntam* ← *mahat*
 - \[noun\], accusative, singular, masculine
@@ -116,20 +116,20 @@ popular
 हे पर्जन्य त्वं **महान्तं** प्रवृद्धं **कोशं** कोशस्थानीयं मेघम् **उदच** उद्गच्छ । उद्गमय वा । तथा कृत्वा **नि** **षिञ्च** नीचैः क्षारय । **कुल्या:** नद्यः **विषिताः** विष्यूताः सत्यः **स्यन्दन्तां** प्रवहन्तु **पुरस्तात्** पूर्वाभिमुखम् । प्रायेण नद्यः प्राच्यः स्यन्दन्ते। **घृतेन** उदकेन **द्यावापृथिवी** दिवं च पृथिवीं च **व्युन्धि** क्लेदय अत्यधिकम् । **अघ्न्याभ्यः** गोभ्यः **सुप्रपाणं** सुष्टु प्रकर्षेण पातव्यमुदकं **भवतु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Raise on high the mighty sheath (of rain), pour down (its contents); let the rivers flow unimpeded to the east; saturate with water both heaven and earth, and let there be abundant beverage for the kine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The great bucket—turn it up, pour it down. Let the brooks, unleashed,  flow forward.  
 Inundate Heaven and Earth with ghee. Let there be a good watering  hole for the prized cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Hoffmann’s positing (Aufs. I.164 = KZ 79 [1965]) of a separate root √añc ‘scoop, draw (water)’ seems unnec., at least for this passage.
 
@@ -141,28 +141,28 @@ These two vss. ring changes in the oppositional pair úd ‘up and ní ‘down�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lift up the mighty vessel, pour down water, and let the liberated streams rush forward.  
      Saturate both the earth and heaven with fatness, and for the cows let there be drink abundant.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Draw the great bucket up and pour it downward, And let the liberated streams flow forward. On all sides drench both heaven and earth with fatness; Let there be for the cows fair pools for drinking.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zieh den großen Eimer empor, gieß ihn aus! Entfesselt sollen die Bäche vorwärts eilen. Netze Erde und Himmel mit Schmalz! Den Kühen soll eine gute Tränke werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heb auf den grossen Eimer, giess herab ihn, vor ihm lass strömen die gelösten Bäche; Mit Fett benetze Himmel du und Erde, und gute Tränke mögen sein den Kühen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поднимай огромную бадью! Выливай (ее)!  
 Пусть хлынут вперед выпущенные ручьи!  

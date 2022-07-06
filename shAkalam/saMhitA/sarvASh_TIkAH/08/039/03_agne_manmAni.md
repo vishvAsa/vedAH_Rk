@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने म꣡न्मानि तु꣡भ्य° कं꣡  
 घृतं꣡ न꣡ जुह्व आस꣡नि  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 सः । दे॒वेषु॑ । प्र । चि॒कि॒द्धि॒ । त्वम् । हि । असि॑ । पू॒र्व्यः । शि॒वः । दू॒तः । वि॒वस्व॑तः । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -143,14 +143,14 @@ genre M;; repeated line
 हे **अग्ने** **तुभ्यं** त्वदर्थम् **आसनि** आस्ये **कं** **घृतं** **न** यथा सुखकरं घृतं जुह्वत्यन्ये तद्वदहमपि तवास्ये **मन्मानि** मननीयानि स्तोत्राणि **जुह्वे** जुहोमि । **सः** त्वं **देवेषु** देवानां मध्ये **प्र** **चिकिद्धि** अस्मदीयाः स्तुतीर्जानीहि । अपि च **त्वं** पूर्व्यः प्रत्नः असि । **शिवः** सुखकरश्चासि । **विवस्वतः** **दूतः** चासि । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I pour into your mouth, **Agni**, praises as others (fill it) with delicious butter; do you amidst the godsacknowledge (them), for you are ancient, the giver of happiness, the messenger of Vivaśvat; may all ouradversaries perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, prayers to you I pour like ghee into your mouth. Be the  
 discerning one among the gods,  
@@ -158,28 +158,28 @@ for you are the foremost gracious messenger of Vivasvant.
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 prá cikiddhi presents the usual problem of forms of √cit: does this fall in the intransitive ‘appear, be perceived’ range or I/T ‘perceive’? I have opted for the latter, since Agni is regularly called prácetas-, which I interpr. as ‘discerning, provident’. But Geldner and Renou go for the former, which is certainly not impossible and might be supported by ciketa in 5a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, I offer hymns to thee, like holy oil within thy moutlh.  
      Acknowledge them. among the Gods, for thou art the rmost excellent, the worshipper's blissful messenger. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, ich opfere dir Gebete, wie das Schmalz in deinen Mund. Mach dich bei den Göttern bemerkbar, denn du bist der erste liebe Bote des Vivasvat! All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich giesse die Gebete dir wie Butter, Agni, in den Mund; So zeige bei den Göttern dich; denn du bist ja von Alters her Vivasvats Bote voller Heil. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, тебе я жертвую (свои) произведения,  
 Как (возливают) жир (тебе) в рот.  

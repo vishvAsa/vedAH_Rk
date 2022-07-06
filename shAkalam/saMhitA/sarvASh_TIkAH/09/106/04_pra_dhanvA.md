@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ धन्वा सोम जा꣡गृविर्  
 इ꣡न्द्रायेन्दो प꣡रि स्रव  
 द्युम꣡न्तं शु꣡ष्मम् आ꣡ भरा सुवर्वि꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 द्यु॒ऽमन्त॑म् । शुष्म॑म् । आ । भ॒र॒ । स्वः॒ऽविद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -100,19 +100,19 @@ genre M;; line affected by realignment;; repeated line
 हे **सोम** **जागृविः** जागरणशीलस्त्वं **प्र** **धन्व** प्रक्षर । हे **इन्दो** सोम **इन्द्राय** **परि** **स्रव** परितः पात्रेषु क्षर । किंच **द्युमन्तं** दीप्तियुक्तं **स्वर्विदं** सर्वस्य लम्भकं **शुष्मं** शत्रूणां शोषकं बलम् **आ** **भर** आहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow **Soma** who are vigilant; **Indu** spread around for **Indra**; bring brilliant overpowering all-obtaining (strength).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Run forth as the wakeful one, o Soma; flow around for Indra, o drop. Bring here brilliant tempestuous force that finds the sun.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -121,23 +121,23 @@ Oldenberg classifies this tṛca as a third variety of Uṣṇih in which the la
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow vigilant for Indra, thou Soma, yea, Indu, run thou on:  
      Bring hither splendid strength that finds the light of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rinne, o Soma, wachsam weiter; für Indra laufe ringsum ab, o Saft! Bring glänzenden Mut, der das Himmelslicht verschafft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma laufe munter vor, zum Indra, Indu, ströme durch; Bring hohe Stärke uns herbei, die Glanz verschafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мчись вперед, о сома бодрствующий,  
 Для Индры, о капля, растекайся вокруг!  

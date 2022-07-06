@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा वा꣡जेषु वाजि꣡नं  
 वाज꣡यामः शतक्रतो  
 ध꣡नानाम् इन्द्र सात꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धना॑नाम् । इ॒न्द्र॒ । सा॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -80,41 +80,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ख्यातस्याप्यनुदात्तत्वम्। पादादित्वात् ‘तिङ्ङतिङः' इति न निघातः । शतक्रतो । आमन्त्रितनिघातः । धनानाम् । ‘नब्विषयस्यानिसन्तस्य ' (फि. सू. २६ ) इत्याद्युदात्तः । सातये । ‘उदात्तः इत्यनुवृत्तौ ‘ऊतियूतिजूतिसातिहेतिकीर्तयश्च ' ( पा. सू. ३. ३. ९७ ) इति क्तिन् उदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We offer to you, **Śatakratu**, the mighty in battle, (sacrificial) food for the acquisition, **Indra**, of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We incite you, the prizewinner, to the prizes, o you of a hundred  resolves,  
 to win the stakes, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 (Jesse Lundquist) Etymological figure also in vā́jeṣu vājínam, immediately followed by vājáyāmasi, which, however, is synchonically distinct from the ‘prize’ words.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be to us easy of approach, even as a father to his son:  
    Agni, be with us for our weal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir treiben dich, den Sieggewinner in den Siegeskämpfen, zum Siegen du Ratreicher, zum Gewinn von Schätzen, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich hier, den Kämpfer in dem Kampf erregen wir zum Kampf, o Held, 0 Indra, Beute zu empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, рвущегося к награде (в битвах) за награды  
 Мы подгоняем к награде, о стосильный,  

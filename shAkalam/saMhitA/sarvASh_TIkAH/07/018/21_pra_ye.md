@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ये꣡ गृहा꣡द् अ꣡ममदुस् तुवाया꣡  
 पराशरः꣡ शत꣡यातुर् व꣡सिष्ठः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धा सूरि꣡भ्यः सुदि꣡ना वि꣡ उछान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । ते॒ । भो॒जस्य॑ । स॒ख्यम् । मृ॒ष॒न्त॒ । अध॑ । सू॒रिऽभ्यः॑ । सु॒ऽदिना॑ । वि । उ॒च्छा॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -110,7 +110,7 @@ genre M
 हे इन्द्र **पराशरः** **शतयातुः** बहुरक्षाः । बहूनि रक्षांसि बाधितुं यं कामयन्ते स शतयातुः बहूनां रक्षसां शातयिता वा । शक्तिः **वसिष्ठः** चैवमादयः **ये** ऋषयः **त्वाया** त्वदिच्छया **गृहात्** गृहं प्राप्य ॥ ल्यब्लोपे द्वितीयार्थे पञ्चमी (पा. सू. २. ३. २८, १) ॥ यद्वा गृहात् गृहे । सप्तम्यर्थे पञ्चमी । **प्र** **अममदुः** त्वां प्रतुष्टवुः प्रकर्षेण तर्पितवन्तो वा ते पराशरप्रभृतयः **भोजस्य** भोजकस्य पालकस्य **ते** तव **सख्यं** सख्युः कर्म स्तोत्रं यजनं वा **न** **मृषन्त** न विस्मरन्ति । मृष मर्षे ' । मर्षों मर्षणम् । तन्न कुर्वन्तीत्यर्थः । यतो न विस्मरन्ति **अध** अतो हेतोः **सूरिभ्यः** सूरीणां स्तोतॄणामेषाम् । अत्र विभक्तिव्यत्ययः । **सुदिना** सुदिनानि **व्युच्छान्** व्युच्छन्ति निवसन्ति । उपगच्छन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,14 +121,14 @@ genre M
 The destroyer: śatayātu, that is, **śakti**, the son of Vasiṣṭha, the father of Parāśara(**Viṣṇu Purāṇa** 8.4)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those from (this?) house who reached elation in devotion to you— Parāśara, Śatayātu, Vasiṣṭha—  
 they did not neglect their partnership with you, who provided for  
 (them). So now day-bright (dawns) will dawn forth for the patrons.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sense of the first pāda is disputed, primarily because it is unclear how to construe the abl. gṛhā́t. Oldenberg discusses at length without a definite decision; Geldner has his own idiosyncratic view: that in this context, with the abl. gṛhā́t, prá √mad means ‘to go on a pilgrimage’ (“die … von Hause fortgepilgert waren”), a bizarre interpr.
 
@@ -141,23 +141,23 @@ This reappraisal of the verbal complex does not, however, solve the ablative pro
 bhojá- ‘provider, benefactor’ is used of Indra elsewhere on a number of occasions (e.g., VI.23.9), but it is also used explicitly of a human sūrí- ‘patron’ in VIII.70.13, as well as being repeated densely in X.107.8-11, the hymn devoted to the dakṣiṇā and the bhoja-s who give it. So I suggest in our vs. that its appliication to Indra in c is an attempt to transfer the epithet to the sūri-s in d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who, from home, have gladdened thee, thy servants Parasara, Vasistha, Satayatu,  
      Will not forget thy friendship, liberal Giver. So shall the days dawn prosperous for the princes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Parasa, Satayatu, Vasistha, die deinetwegen vom Hause fortgepilgert waren, werden deine, des Gastfreien, Freundschaft nicht vergessen. Nun werden den Lohnherren glückliche Tage anbrechen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die liebend dich vom Hause her begrüssten, Paraçara, Vasischtha, Çatajatu, Vergassen nie dir, güt'gem, deine Freundschaft; den Edlen mögen heitre Tage leuchten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что поспешили ради тебя из дому:  
 Парашара, Шатаяту, Васиштха –  

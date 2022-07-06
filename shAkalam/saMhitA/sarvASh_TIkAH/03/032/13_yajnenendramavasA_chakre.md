@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञे꣡ने꣡न्द्रम् अ꣡वसा꣡ चक्रे अर्वा꣡ग्  
 अइ꣡नं सुम्ना꣡य न꣡व्यसे ववृत्याम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ मध्यमे꣡भिर् उत꣡ नू꣡तनेभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यः । स्तोमे॑भिः । व॒वृ॒धे । पू॒र्व्येभिः॑ । यः । म॒ध्य॒मेभिः॑ । उ॒त । नूत॑नेभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñenendram* ← *yajñena* ← *yajña*
 - \[noun\], instrumental, singular, masculine
@@ -125,20 +125,20 @@ genre M
 हे इन्द्र सर्वो यजमानः **अवसा** स्वरक्षकेण **यज्ञेन** **इन्द्रं** त्वाम् **अर्वाक्** **आ** **चके** हविष्प्रदानेनाभिमुखं करोति । तथाहं **नव्यसे** नवतराय **सुम्नाय** धनाय **एनं** त्वाम् **आ** **ववृत्याम्** यज्ञेनावृत्तं मदभिमुखं कुर्याम् । कीदृशस्त्वम् । **यः** पूर्व्येभिः पुरातनैः **स्तोमेभिः** स्तोत्रैः **ववृधे** । तथा **यः** इन्द्रः **मध्यमेभिः** मध्ये भवैः स्तोत्रैः **उत** अपि च **नूतनेभिः** अस्माभिः क्रियमाणैः अधुनातनैः स्तोत्रैर्वर्धते । चक्रे । करोतेर्लिटि रूपम् । नव्यसे । नवशब्दादीयसुनि भसंज्ञायामकारलोपे ईकारलोपश्छान्दसः । नित्त्वदाद्युदात्तः । ववृत्याम् । ‘वृतु वर्तने '। लिङि' बहुलं छन्दसि ' इति शप: श्लुः । व्यत्ययेन परस्मैपदम् । निघातः । ववृधे । ' वृधु वर्धने ' इत्यस्य लिटि रूपम् । प्रत्ययस्वरः । मध्यमेभिः । मध्यशब्दात् शैषिकार्थे  मध्यान्मः' ( पा. सू. ४. ३. ८) इति मप्रत्ययः । प्रत्ययस्वरः । नूतनेभिः । नवशब्दस्य ' त्नप्तनन्खाश्च प्रत्यया वक्तव्या नृ इत्यादेशश्च' ( पा. म. ५, ४. ३०.६ ) इति तन-न्र्सत्ययो नू इत्यादेशश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The worshipper, by his conservatory sacrifice, has made **Indra** present; may Ibring him to my presence to obtain new wealth, him who has been exalted by praise, whether ancient, medieval, or recent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the sacrifice as aid I (previously) brought Indra nearby with his  aid. May I turn him hither for newer favor,  
 him who was strengthened by previous praises, who by midmost ones  and by the present ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The reciprocity expressed by complementary verbal forms to √av found in the 2nd half of the last vs. is here wrapped up in one word, the instr. ávasā, which I tr.
 
@@ -147,23 +147,23 @@ twice: I use the aid provided by the sacrifice (cf. 12d) to bring Indra here wit
 13a. Renou and Witzel Gotō also associate it only with Indra. Given the balanced expression of 12cd, I think it is meant to have a double reading.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With sacrifice and wish have I brought Indra; still for new blessings may I turn him hither,  
      Him magnified by ancient songs and praises, by lauds of later time and days yet recent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch das Opfer habe ich früher den Indra samt seiner Hilfe hierher gebracht. Zu neuer Huld möchte ich ihn herlenken, der sich an den früheren Preisliedern erbaut hat, der an den mittleren und neuesten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Lied und Opfer schafft' ich her den Indra, zu neuer Gunst will ich ihn herwärts wenden, Der kräftig ward durch alte Lobgesänge, durch mittlere und durch die allerneusten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертвой я привлек сюда Индру (с его) помощью.  
 Я хочу подвигнуть его на новую милость,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ निरेक꣡म् उत꣡ प्रिय꣡म्  
 इ꣡न्द्र द꣡र्षि ज꣡नाना᳐म्  
 धृषता꣡ धृष्णो स्त꣡वमान आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 धृ॒ष॒ता । धृ॒ष्णो॒ इति॑ । स्तव॑मानः । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -90,43 +90,43 @@ genre M
 हे **इन्द्र** **उत** अपि च **प्रियं** प्रीणनात् प्रियतमं **निरेकम्** । निरेकं धनं भवति विरेचनान्निर्गमनाद्वेति । तद्धनं जनानां स्तोतॄणामस्माकम् **आ** **दर्षि** आविदारय विवृतं कुरु । ‘दॄ विदारणे' । छान्दसो विकरणस्य लुक् । विवृत्य च **धृष्णो** धर्षणशील हे इन्द्र **स्तवमानः** स्तोतृभिरस्माभिः स्तूयमानः सन् **धृषता** धृष्टेन मनसा सह **आ** **भर** तद्धनमस्मभ्यं देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Burst open to your worshippers, **Indra**, the highly prized wealth; glorified by us, do you who areendowed with resolution, bring (us wealth) with a resolute (mind).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Tear out what is exclusive and dear to the peoples, Indra.  
 Being praised, bring it here boldly, bold one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another figure: dhṛṣatā́dhṛṣṇo.
 
 This verse echoes vs. 3 in reverse order: 3a stávāno ā́bhara / 3c nirekám // 4a nirekám / 4c stávamāna ā́bhara. These echoes straddle a tṛca boundary.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, Indra, thou disclosest that preeminent dear wealth of men:  
      Boldly, O Bold One, glorified, bring it to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den ausschließlichen und lieben Besitz der Leute erbrich kühnen Sinnes, o kühner Indra, und gepriesen bring ihn her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erschliesse du, o Indra, denn den Menschen liebes Eigenthum, Das bring', o kühner, kühn herbei, gepriesener.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Проломи, о Индра, исключительное  
 И приятное людям имущество –  

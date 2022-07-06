@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वि꣡ष्णवे · शूष꣡म् एतु म꣡न्म  
 गिरिक्षि꣡त उरुगाया꣡य वृ꣡ष्णे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡को विममे꣡ त्रिभि꣡र् इ꣡त् पदे꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । इ॒दम् । दी॒र्घम् । प्रऽय॑तम् । स॒धऽस्थ॑म् । एकः॑ । वि॒ऽम॒मे । त्रि॒ऽभिः । इत् । प॒देऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 **विष्णवे** सर्वव्यापकाय **शूषम्** अस्मत्कृत्यादिजन्यं बलं महत्त्वं **मन्म** मननं स्तोत्रं मननीयं शूषं बलं वा विष्णुम् **एतु** प्राप्नोतु ॥ कर्मणः संप्रदानत्वात् चतुर्थी । कीदृशाय । **गिरिक्षिते** वाचि गिरिवदुन्नतप्रदेशे वा तिष्ठते **उरुगायाय** बहुभिर्गीयमानाय **वृष्णे** वर्षित्रे कामानाम् । एवंमहानुभावं शूषं प्राप्नोतु । कोऽस्य विशेष इति उच्यते । **यः** विष्णुः **इदं** प्रसिद्धं दृश्यमानं **दीर्घम्** अतिविस्तृतं **प्रयतं** नियतं **सधस्थ** सहस्थानं लोकत्रयम् **एकः** **इत्** एक एवाद्वितीयः सन् **त्रिभिः** **पदेभिः** पादैः **विममे** विशेषेण निर्मितवान् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,34 +135,34 @@ genre M
 Who abides in prayer: girikṣit, who dwells in speech, or who abides in high plural ces
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let my fortifying thought go forth to Viṣṇu, the mountain-dwelling,  wide-ranging bull,  
 who alone with just three steps measured out this dwelling place here,  long and extended,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let the hymn lift itself as strength to Visnu, the Bull far-striding, dwelling on the mountains,  
      Him who alone with triple step hath measured this common dwelling-place, long, far extended.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Let my inspiring hymn go forth to Viṣṇu, The mountain-dwelling bull, the widely pacing, Him who has measured out with but three footsteps, Alone, this long and far-extended station;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Vishnu soll das Lied als Aufmunterung gehen, zu dem Bergbewohner, dem weitschreitenden Bullen, der diese lang ausgedehnte Stätte allein mit nur drei Schritten durchmessen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Vischnu dringe kräftig vor das Preislied, dem Stier des Berges, welcher weithin schreitet, Der diesen langen, weitgestreckten Wohnsitz durchmessen hat allein in nur drei Schritten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть к Вишну идет (этот) гимн-молитва,  
 К поселившемуся в горах, далеко шагающему быку,  

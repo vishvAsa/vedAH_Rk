@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ चित् पू꣡र्व ऋतसा꣡प  
 ऋता꣡वान ऋतावृ꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तां꣡श् चिद् एवा꣡पि गछतात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292);; repeated line
 पि॒तॄन् । तप॑स्वतः । य॒म॒ । तान् । चि॒त् । ए॒व । अपि॑ । ग॒च्छ॒ता॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -105,37 +105,37 @@ popular;; epic anuṣṭubh (292);; repeated line
 **ये** **चित्** ये च **पूर्वे** पूर्वपुरुषाः **ऋतसापः** ऋतं सत्यं यज्ञं वा स्पृशन्तः अत एव **ऋतावानः** ऋतेन युक्ताः **ऋतावृधः** ऋतस्य वर्धकाश्च भवन्ति **तपस्वतः** तपसा युक्तान् तान् **एव** पितॄन् हे **यम** नियत त्वमपिगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Go, **Yama**, to those ascetic Pitaras, who are ancient, obsevers of truth, speakers of truth, andaugmenters of truth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Also those ancients who were servers of truth, truthful, strong  
 through truth,  
 the forefathers full of fervor, o Yama—right to them let him go now.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, the first followers of Law, Law's pure and holy strengtheners,  
      The Fathers, Yama! Fervour-moved,even to those let him depart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die die ersten Pfleger der Wahrheit, die wahrhaften Mehrer der Wahrheit waren, zu den Kasteiung übenden Vätern, o Yama, auch zu diesem soll er gelangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Alten, die das Recht gewahrt und Recht geübt und Recht gemehrt, Jama! der frommen Väter Schar, – zu denen allen gehe hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто (были) прежние защитники закона,  
 Преданные закону, умножающие закон,  

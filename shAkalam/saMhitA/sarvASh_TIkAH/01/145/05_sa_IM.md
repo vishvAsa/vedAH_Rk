@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ईम् मृगो꣡ · अ꣡पियो वनर्गु꣡र्  
 उ꣡प त्वचि꣡ उपम꣡स्यां नि꣡ धायि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्नि꣡र् विद्वाँ꣡ · ऋतचि꣡द् धि꣡ सत्यः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । अ॒ब्र॒वी॒त् । व॒युना॑ । मर्त्ये॑भ्यः । अ॒ग्निः । वि॒द्वान् । ऋ॒त॒ऽचित् । हि । स॒त्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -127,20 +127,20 @@ genre M
 **स** **ईं** स एवाग्निः **उपमस्याम्** उपमायामुपमास्पदायां **त्वचि** ओषध्यादिभिराच्छादितायाँ वेद्याम् **उप** **नि** **धायि** उपस्थाप्यते उत्तरत्रोपभोगाय । कीदृशः सः। **मृगः** मार्जयिता अन्वेषणशीलो वा । ‘मृगो मार्ष्टेर्गतिकर्मणः' (निरु. १.२०) इति यास्कः । **अप्यः** आप्यो गन्तव्यः । अपः कर्म तत्र साधुर्वा। **वनर्गुः** वनगामी ॥ ऋच्छतेर्गमेः च इदं रूपम् । यद्वा । गमेरेव । उपपदस्य रुडागमश्छान्दसः ॥ एवंभूतः अग्निः **मर्त्येभ्यः** मरणधर्मभ्यो यजमानादिरूपेभ्यः वयुनानि प्रज्ञानानि अनुष्ठेयज्ञानानि **व्यब्रवीत्** विशेषेण ब्रवीति उपदिशति । वयुनमिति प्रज्ञानाम, ‘ वयुनम् अभिख्या ' (नि. ३. ९. १०) इति तन्नामसु पाठात् । ईदृक् सामर्थ्यमस्तीति दर्शयति । अयम् **अग्निर्विद्वान्** सर्वज्ञः **ऋतचित्** यज्ञस्योदकस्य वा चेतिता ज्ञाता **सत्यः** । सत् क्रियमाणं कर्म । तत्र साधुः । सत्सु भवो वा । सत् फलं तदर्हतीति वा । सम्यक्फलप्रद इत्यर्थः । यस्मादयमुक्तसामर्थ्योपेतः तस्मात् प्रज्ञोपदेशो युक्तः । हिशब्दः प्रसिद्धौ ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, the searcher, the accessible, the dweller in woods, has been plural ced (amidst the fuel), as in the similitude of (an enveloping) skin; the wise **Agni**, the appreciater of sacrifice, the veracious, has declared to mortals (the knowledge of) their religious duties.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This wild beast of the waters that roams in the woods has been installed  upon the uppermost skin.  
 He has declared the (ritual) patterns to mortals—the knowing Agni. For  he is the perceiver of truth who is really present (here).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction. this vs. forms a ring with vs. 1 (so already Geldner n.
 
@@ -151,28 +151,28 @@ The īm of pāda has no function, that is, no possible accusative reading. See �
 Because of the position of hí in d, contra the standard tr. I do not think that agnír vidvā́n should be construed with this last part of the verse (ṛtacíd dhí satyáḥ), despite the pāda break that seems to put them together. Rather the hí clause explains why Agni is knowledgeable and can provide the answers requested so forcefully at the beginning of the hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He is a wild thing of the flood and forest: he hath been laid upon the highest surface.  
      He hath declared the lore of works to mortals, Agni the Wise, for he knows Law, the Truthful.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He, the animal living in the water and walking in the forest 1, has been placed on the highest skin 2 (sky?). He has proclaimed his rules to the mortals: for Agni, the knowing one, is intent upon Rita (Right) and is true.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er, das Wassertier, der Waldgänger, wurde auf die oberste Haut der Erde niedergesetzt. - Er hat den Sterblichen die rechten Wege verkündet, denn Agni, der Wissende, ist der wahre Kenner des Rechten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Wild ist er des Wassers und des Waldes, man legt ihn auf der Erde obre Fläche; Kunstreiche Werke lehrte er die Menschen; denn Agni kennt die heil'gen Bräuche alle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот зверь водяной, (зверь,) бродящий в лесу,  
 Обосновался на высшей шкуре (земли).  

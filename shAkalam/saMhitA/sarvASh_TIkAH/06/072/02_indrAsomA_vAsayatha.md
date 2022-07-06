@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रासोमा वास꣡यथ उषा꣡सम्  
 उ꣡त् सू꣡रियं नयथो ज्यो꣡तिषा सह꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡प्रथतम् पृथिवी꣡म् मात꣡रं वि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उप॑ । द्याम् । स्क॒म्भथुः॑ । स्कम्भ॑नेन । अप्र॑थतम् । पृ॒थि॒वीम् । मा॒तर॑म् । वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāsomā* ← *indrāsomāḥ* ← *indrāsoma*
 - \[noun\], vocative, plural, masculine
@@ -108,36 +108,36 @@ genre M
 **इन्द्रासोमा** हे इन्द्रासोमौ **उषसं** **वासयथः** विवासयथः । उषसं व्युच्छन्तीं कारयथ इत्यर्थः । किंच **सूर्यं** **ज्योतिषा** तेजसा **सह** **उत्** **नयथः** । अपि च **द्यां**  दिवं **स्कम्भनेन** स्तम्भन हेतुनान्तरिक्षेण मध्ये स्थापितेन **उप** **स्कम्भथुः** अस्तम्भयतम् । **मातरं** विश्वस्य मातृभूतां **पृथिवीं** **वि** **अप्रथतं** व्यप्रथयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Soma**, you have led on the dawns; you have upraised the sun with his splendour, you have propped up the sky with he supporting pillar (of the firmament); you have spread out the earth, the mother (of all).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Soma, you make the dawn shine; you lead the sun upward  with its light.  
 You propped up the heaven with a prop; you spread out Mother Earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, Indra-Soma, gave her light to Morning, and led the Sun on high with all his splendour.  
      Ye stayed the heaven with a supporting pillar, and spread abroad apart, the Earth, the Mother.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Soma! Ihr lasset die Morgenröte aufleuchten, ihr führet die Sonne mit ihrem Lichte herauf. Ihr habt den Himmel mit einer Stütze gestützt; ihr habt die Mutter Erde weit ausgebreitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Morgenroth erhellt ihr, Indra-Soma, und führt herauf mit ihrem Licht die Sonne, Den Himmel stütztet ihr mit fester Stütze und dehntet weithin aus die Mutter Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Сома, вы зажигаете утреннюю зарю,  
 Вы ведете вверх солнце с (его) светом.  

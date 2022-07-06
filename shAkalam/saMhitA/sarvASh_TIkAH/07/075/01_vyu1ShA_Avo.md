@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ उषा꣡ आवो दिविजा꣡ ऋते꣡न  
 आविष्कृण्वाना꣡ महिमा꣡नम् आ꣡गात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ङ्गिरस्तमा पथि꣡या अजीगः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अप॑ । द्रुहः॑ । तमः॑ । आ॒वः॒ । अजु॑ष्टम् । अङ्गि॑रःऽतमा । प॒थ्याः॑ । अ॒जी॒ग॒रिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vy* ← *vi*
 - \[adverb\]
@@ -106,7 +106,7 @@ genre M
 इयम् **उषाः** **दिविजाः** दिव्यन्तरिक्षेः प्रादुर्भूता सती **वि** **आवः** व्यौच्छत् । विभानं कृतवतीत्यर्थः । वसिर्निवासवाच्यत्र विपूर्वो व्युच्छने भवेत्। 'छन्दस्यपि दृश्यते' इत्यत्र दृशिग्रहणस्य विध्यन्तरोपसंग्रहणार्थत्वादनजादेरप्याडागमः। **हल्यङ्याब्भ्यः'** इति लोपः । सैवोषाः **ऋतेन** तेजसा **महिमानं** स्वमहत्त्वम् **आविष्कृण्वाना** **आगात्** आगतवती । आगत्य च **द्रुहः** अस्मद्द्रोग्धॄन **अजुष्टं** सर्वेषामप्रियं **तमः** च **अप** **आवः** अपवृणोति । किंच अङ्गिरस्तमा । अङ्गेर्गत्यर्थादङ्गिराः । गन्तृतमा **पथ्याः** पदवीः **अजीगः** उद्गिरति । प्राणिनां व्यवहाराय प्रकाशयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,13 +117,13 @@ genre M
 Re- illuminates: aṅgirastamā **pathyā** ajīgaḥ = gantritama padavir udgirati, she throws up the pathsthat are to be most traversed, i.e., prāṇinām vyavahārāya prakṣayati, she gives light for the transactions ofliving beings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dawn, born in heaven, has dawned widely with her truth; revealing her  own greatness, she has come here.  
 She has uncovered the deceits, the disagreeable darkness; best of the  Aṅgirases, she has awakened the paths.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the Saṃhitā form āvo in pāda a (Pp. āvaḥ) is assigned to √vṛ ‘cover’ by Grassmann, it clearly belongs to √vas ‘shine, dawn’. See, e.g., AiG I.335. It is rightly glossed by Sāyaṇa. with vyaucchat. Both roots occur regularly with the preverb ví as here (‘dawn widely’ / ‘uncover’) and both are regularly found in dawn contexts.
 
@@ -143,23 +143,23 @@ In d I take pathyā̀as standing for acc. pl. pathyā̀ḥ in harmony with the P
 (Were they sleeping by the roadside?) I assume that “awaken the paths” is shorthand for “filling the paths with (newly awakened) people moving hither and thither and thereby making the paths lively.” An instr. in VII.79.1 fits the context better.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BORN in the heavens the Dawn hath flushed, and showing her majesty is come as Law ordaineth.  
      She hath uncovered fiends and hateful darkness; best of Angirases, hath waked the pathways.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die himmelgeborene Usas ist zur rechten Zeit aufgeleuchtet; ihre Größe offenbarend ist sie gekommen. Sie hat die unerfreuliche Finsternis und ihre Tücken aufgedeckt. Als die erste der Angiras´ hat sie die Pfade neu belebt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rechtzeitig brach hindurch die Himmelstochter; die Morgenröthe, ihre Grösse zeigend, Vertrieb die Hexen, brach das grause Dunkel; die schönste Botin hat belebt die Pfade.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вот) в соответствии с (божественным) порядком зажглась Ушас, рожденная на небе.  
 Она пришла, являя (свое) величие.  

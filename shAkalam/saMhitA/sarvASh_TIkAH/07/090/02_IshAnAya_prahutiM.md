@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईशाना꣡य प्र꣡हुतिं य꣡स् त आ꣡नट्  
 छु꣡चिं सो꣡मं शुचिपास् तु꣡भ्य° वायो  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जातो꣡-जातो जायते वाजी꣡ अस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 कृ॒णोषि॑ । तम् । मर्त्ये॑षु । प्र॒ऽश॒स्तम् । जा॒तःऽजा॑तः । जा॒य॒ते॒ । वा॒जी । अ॒स्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īśānāya* ← *īśāna*
 - \[noun\], dative, singular, masculine
@@ -138,7 +138,7 @@ genre M
 हे **वायो** **ईशानाय** ईश्वराय **ते** तुभ्यं त्वदर्थं **प्रहुतिं** प्रकृष्टामाहुतिं चरुपुरोडाशादिसाध्यां **यः** यजमानः **आनट्** प्राप्नोत् । दद्यादित्यर्थः । तथा हे **शुचिपाः** शुद्धस्य सोमस्य पातर्वायो **तुभ्यं** **शुचिं** शुद्धं **सोमं** च यः प्रयच्छति **मर्त्येषु** मनुष्येषु मध्ये **तं** यजमानं **प्रशस्तं** मुख्यं **कृणोषि** करोषि । स च **जातोजातः** सर्वत्र प्रादुर्भूतः प्रख्यातः सन् **वाज्यस्य** प्राप्तव्यस्य धनस्य प्राप्तये **जायते** अवकल्पते । सर्वं धनं लभत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,34 +149,34 @@ genre M
 Jāyate vājyasya =dhanasya prāptaye
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever has reached out the fore-offering to you who have dominion  (over it), the clear soma for you, Vāyu, drinker of the clear,  
 you make him acclaimed among mortals: each one born to him is a  prizewinner.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rel. yáḥ in pāda a may be somewhat deeper in the clause than we would like, following both the indirect obj. īśānā́ya and the direct obj. práhutim.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso to thee, the Mighty, brings oblation, pure Soma unto thee, pure-drinking Vayu,  
      That man thou makest famous among mortals: to him strong sons are born in quick succession.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer dir, dem Gebieter, ein Opfer zustande gebracht hat, den klaren Soma für dich, Vayu, Trinker des Klaren, den bringst du bei den Sterblichen in guten Ruf; jeder Sohn, der ihm geboren wird, ist ein Sieger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer dir, dem Herrscher, ersten Trunk bereitet, den reinen Soma dir, der reines trinket, Den machst berühmt du, Vaju, unter Menschen, und Sohn auf Sohn wird kräftig ihm geboren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто имел у тебя успех в принесении жертвы для тебя, владыки, –  
 Чистого сомы, о Ваю, пьющий чистого (сому),  

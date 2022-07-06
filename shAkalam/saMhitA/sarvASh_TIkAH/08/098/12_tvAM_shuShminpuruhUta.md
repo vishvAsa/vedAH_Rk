@@ -6,14 +6,14 @@ ChandaH = "पुरउष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ शुष्मिन् पुरुहूत वाजय꣡न्तम्  
 उ꣡प ब्रुवे शतक्रतो  
 स꣡ नो रास्व सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 सः । नः॒ । रा॒स्व॒ । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -92,7 +92,7 @@ genre M;; repeated line
 हे **शुष्मिन्** बलवन् **पुरुहूत** बहुभिर्यजमानैराहूत **शतक्रतो** बहुकर्मन्निन्द्र **वाजयन्तं** बलमिच्छन्तं **त्वाम्** **उप** **ब्रुवे** उपस्तौमि। **सः** त्वं **नः** अस्मभ्यं **सुवीर्यं** धनं **रास्व** देहि ॥ ॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,29 +103,29 @@ genre M;; repeated line
 Śatakratu = sahaskṛta
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To you who seek the prize do I appeal, you tempestuous much-invoked  one of a hundred resolves.  
 Grant us a mass of good heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee, Strong, Much-invoked, who showest forth thy strength, O Satakratu, do I speak:  
      So grant thou us heroic strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, du Mutiger, Vielgerufener, Ratreicher, dem Siegbegierigen, rede ich zu: Verleih du uns die Meisterschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, starker, vielgerufener, dich labungsreichen sprech' ich an, vielwirkender, verleihe du uns Heldenkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе, о неистовый, о многопризываемый, к рвущемуся к победе,  
 Я обращаюсь, о стоумный:  

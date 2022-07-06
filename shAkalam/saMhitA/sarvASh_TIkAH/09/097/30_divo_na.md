@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ न꣡ स꣡र्गा अससृग्रम् अ꣡ह्नां  
 रा꣡जा न꣡ मित्र꣡म् प्र꣡ मिनाति धी꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ पवस्व विशे꣡ अस्या꣡ अ꣡जीतिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पि॒तुः । न । पु॒त्रः । क्रतु॑ऽभिः । य॒ता॒नः । आ । प॒व॒स्व॒ । वि॒शे । अ॒स्यै । अजी॑तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -127,14 +127,14 @@ genre M
 दिवोन यथादिवोद्योतमानस्य आदित्यस्याह्नां सम्बन्धिनः सर्गारश्मयः अससृग्रं विसृ- ज्यन्ते तद्वत् सोमस्य सर्गाः सृज्यन्ते इतिसर्गाधाराः विसृज्यन्ते सृजेर्व्यत्ययेनकर्मार्थेलङि- बहुलञ्छन्दसीतिशस्यश्लुः झेरमादेशश्छान्दसः । धीरः प्राज्ञोराजा अयंसोमः मित्रं सखायं नप्रमिनाति नहिनस्ति क्रतुभिः कर्मभिर्यतानोयतमानः पुत्रः पितुर्न पितुर्यथा अपराभवं- करोति तद्वत् कर्मभिर्यतमानस्त्वं अस्यै विशे प्रजायै अजीतिं अपराजितिं अपराभवं आप वस्व आप्रापय यथा नपराजिताभवन्ति तथाकुर्वित्यर्थः ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As the rays of the days of the sun are let loose (so are the streams of the **Soma**); a prudent king does not abandon his friend; as a son preserving in pious acts (wins) his father's (safety), do you pour upon this people immunity from defeat.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like surges from heaven, (like those) of days, his surges have surged.  Like a king, the wise one does not violate his alliance.  
 Being put in your place according to our intentions, like a son  
@@ -142,7 +142,7 @@ according to the intentions of his father, bring freedom from
 overthrow here to this clan by purifying yourself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take áhnām as a 2nd, unmarked simile dependent on sárgāḥ, rather than supplying a different headnoun, as Geldner and Renou do. They are surely both right that “the surges of/from heaven” are the rains. As for “the surges of the days,” this could either refer to the passage of time or to an abundance of light; I favor the former.
 
@@ -164,23 +164,23 @@ The tṛca is marked by the repetition of ā́pavasva in the 2nd hemistich of ea
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The streams of days, were poured as 'twere from heaven: the wise King doth not treat his friend unkindly.  
      Like a son following his father's wishes, grant to this family success and safety.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es haben sich seine Ergüsse ergossen wie die des Himmels, wie die Bahnen der Tage. So wenig als ein König bricht der Weise den Freundesbund. Sich nach unseren Absichten richtend wie der Sohn nach denen seines Vaters, läutere du diesem Clane Schutz vor Gewalttat zu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Himmelsströme sind geströmt die Strahlen, den Freund verschmähet nicht der weise König; Gleichwie ein Sohn des Vaters Wünschen beistimmt, so riesle diesem Hause her Gedeihen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бурно потекли потоки (сомы), как (дождь) с неба, (поток) дней.  
 Как царь (не нарушает) договор, мудрый не обманывает друга.  

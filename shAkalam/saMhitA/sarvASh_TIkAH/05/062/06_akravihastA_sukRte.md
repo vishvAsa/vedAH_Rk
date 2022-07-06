@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡क्रविहस्ता सुकृ꣡ते परस्पा꣡  
 यं꣡ त्रा꣡साथे वरुणे꣡ळासु अन्तः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सह꣡स्रस्थूणम् बिभृथः सह꣡ द्वउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 राजा॑ना । क्ष॒त्रम् । अहृ॑णीयमाना । स॒हस्र॑ऽस्थूणम् । बि॒भृ॒थः॒ । स॒ह । द्वौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akravihastā* ← *a*
 - \[adverb\]
@@ -121,7 +121,7 @@ genre M
 **अक्रविहस्ता** अकृपणहस्तौ । दानशूरावित्यर्थः । कस्मै । **सुकृते** शोभनस्तुतिकर्त्रे **परस्पा** परस्तात् पातारौ रक्षितारौ हे **वरुणा** मित्रावरुणौ युवां **यं** यजमानम् **इळासु** यागभूमिषु **अन्तः** मध्ये **त्रासाथे** रक्षथः तस्मै सुकृते अक्रविहस्ता परस्पा च भवथ इति संबन्धः । किंच युवां **राजाना** राजमानौ **अहृणीयमाना** अक्रुध्यन्तौ द्वौ परस्परं **सह** साहित्येन **क्षत्रं** धनं सहस्रस्थूणम् अनेकावष्टम्भकस्तम्भोपेतं सौधादिरूपं गृहं च **बिभृथः** धारयथः सुकृते यजमानाय । अथवा । क्षत्रं बलमपरिमिताभिः स्थूणाभिरुपेतं रथं चागमनार्थं सह धारयथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,7 +134,7 @@ Kṣatram sahasrasthūṇam = anekāvaṣṭambhaka stambhopetam saudhādi rūpa
 Kṣatram = dhanam, wealth; balam, strength; e.g. strong chariot of the deities supported by innumerable columns
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the two far-protectors with unbloodied hands for him who  performs rituals well, whom you two safeguard, Varuṇa, amid the  
 libations.  
@@ -142,23 +142,23 @@ Never becoming angry, you two kings together bear a
 thousand-pillared rule.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With hands that shed no blood, guarding the pious, whom, Varuni3, ye save amid oblations.  
      Ye Twain, together, Kings of willing spirit, uphold dominion based on thousand pillars.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne blutige Hände seid ihr Schirmer aus der Ferne für den Rechtschaffenen, den ihr beide im Überfluß schützen möget, O Varuna und Mitra. Ihr beiden Könige führet ohne Eifersucht beide zusammen die auf tausend Säulen ruhende Herrschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wen ihr mit Händen rein von Blut beschirmet, des Frommen Schutzherrn, Varuna, bei Opfern, Dem bringt ihr Kön'ge beide ohne Zürnen das Herrscherreich, das ruht auf tausend Säulen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С необагренными кровью руками, защищающие издалека благочестивого,  
 Которого вы спасаете, о Варуна (и Митра), среди жертвенных возлияний,  

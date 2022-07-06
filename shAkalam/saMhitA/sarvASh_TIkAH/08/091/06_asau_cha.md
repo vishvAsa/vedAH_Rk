@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 असउ꣡ च या꣡ न उर्व꣡रा  
 आ꣡द् इमां꣡ तनु꣡वम् म꣡म  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡र्वा ता꣡ रोमशा꣡ कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 अथो॒ इति॑ । त॒तस्य॑ । यत् । शिरः॑ । सर्वा॑ । ता । रो॒म॒शा । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asau* ← *adas*
 - \[noun\], nominative, singular, feminine
@@ -124,7 +124,7 @@ popular;; epic anuṣṭubh (525)
 उक्तमेवार्थमनया विवृणोति । **नः** अस्माकं पितुः **या** **असौ** **उर्वरा** यदिदमूषरं क्षेत्रमस्ति ॥ **आत्** अनन्तरं **मम** **इमां** **तन्वम्** इदं त्वग्दोषदुष्टं गुह्यस्थानम् । **अथो** अथापि च **ततस्य** तातस्य **यच्छिरः** रोमवर्जितमस्ति एतानि **सर्वा** सर्वाणि तानीमानि त्रीणि स्थानानि **रोमशा** रोमशानि **कृधि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ popular;; epic anuṣṭubh (525)
 Crop: i.e., make them all hairy, romaśani
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “That field of ours, this body of mine,  
 and my Papa’s head—make all these hairy.”
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/091/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
@@ -149,23 +149,23 @@ On the connection between hair growth and skin disease, see Jamison 1991: 146-70
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make all of these grow crops of hair, you cultivated field of ours,  
      My body, and my father's head.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort unser Saatfeld und diesen meinen Leib und das Haupt meines Väterchens, all diese mache behaart!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier dieses unser Ackerland, dazu auch meinen eignen Leib, Und dann den Kopf des Väterchens lass Haare treiben alle drei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ प्रिया꣡ मरुतो या꣡ वो अ꣡श्विया  
 हव्या꣡ मित्र प्रयाथ꣡न  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 आदित्या꣡सः सदन्तु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । ब॒र्हिः । इन्द्रः॑ । वरु॑णः । तु॒राः । नरः॑ । आ॒दि॒त्यासः॑ । स॒द॒न्तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -118,20 +118,20 @@ genre M
 हे मरुतः **प्रिया** प्रियाणि **या** यानि **वः** युष्माकम् **अश्व्या** अश्व्यानि प्रियानश्वसंघान् **अभि** **प्रयाथन** अस्मद्यज्ञं प्रति प्रापयत । यूयमश्वैर्युक्ताः सन्त आगच्छतेत्यर्थः । अथ हे **मित्र**। मित्रशब्देनान्ये वरुणादयोऽप्युच्यन्ते । हे मित्रादयो देवाः **हव्या** हव्यानि हवनयोग्यानि हवींषि स्वीकर्तुमागच्छतेत्यर्थः। स्तूयमाना आगच्छत । प्रपूर्वाद्यातेर्लोटि तप्तनप्तनथनाश्च' इति थनादेशः । आगत्य च **इन्द्रो** **वरुणः** इन्द्रावरुणौ **तुराः** संग्रामे शत्रुवधार्थं त्वरमाणाः **नरः** नेतारः **आदित्यासः** अदितेः पुत्रा मरुदादयो देवाश्च **नः** अस्मदीये यज्ञे **बर्हिः** बर्हिषि आसादिते **आ** **सदन्तु** आसीदन्तु प्रविशन्तु । सदेः सीदादेशाभावश्छन्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Direct, **Maruts**, your beloved horses (to our rite); **Mitra**, (come to our) oblations; and may **Indra**, andVaruṇa, and the swift leaders, the **Ādityas**, sit down on our sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dear are those equine (gifts) of yours and dear to you the oblations to  which you drive, o Maruts and Mitra.  
 Let Indra, Varuṇa, the powerful men [=Maruts?], (and?) the Ādityas sit  on this ritual grass of ours.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The syntax of ab is oddly muddled for what seems on the surface a banal sentiment. The problem is the position of the relative and its relationship both to the priyā́earlier in the verse and accented verb prayāthána later. The key, I think, is neut.
 
@@ -144,23 +144,23 @@ clause whose verb is prayāthána: “which oblations you drive to, (they) are d
 Although both turá- and nṛ́- can sometimes apply to the Ādityas, they are more frequently used of the Maruts, who are somewhat dominant in this part of the hymn (1c, 3d, 5c, 6a, 8a).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send us delightful things, ye Maruts, on your steeds: come ye, O Mitra, to our gifts.  
      Let Indra, Varuna, and the Adityas sit, swift Heroes, on our sacred grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu euren lieben Roßopfern, zu denen ihr Marut und du Mitra euch aufmachet! Indra, Varuna, die mächtigen Herren Aditya´s sollen sich auf unser Barhis setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Maruts, Mitra zu den lieben Opfern kommt, die passend sind für eur Gespann, Auf unsre Streu, Aditja's, Indra, Varuna, ihr starken Männer, setzet euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На(правьте), о Маруты, о Митра, на жертвоприношения  
 Ваши милые табуны коней, на которых вы (обычно) приезжаете!  

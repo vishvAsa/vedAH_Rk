@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वा꣡सि सुन्वतो꣡ वृधो꣡  
 य꣡जमानस्य सत्पते  
 उक्थे꣡ वा य꣡स्य र꣡ण्यसि स꣡म् इ꣡न्दुभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 उ॒क्थे । वा॒ । यस्य॑ । रण्य॑सि । सम् । इन्दु॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -94,36 +94,36 @@ genre M;; line affected by realignment;; repeated line
 हे **सत्यते** सतां पालयितरिन्द्र **सुन्वतः** सोमाभिषवं कुर्वतः **यजमानस्य** **यद्वा** यदि वा **वृधः** **असि** वर्धयिता भवसि । वृधेरन्तर्णीतण्यर्थादिगुपधलक्षणः कः । **यस्य** च यजमानस्य **उक्थे** शस्त्रे **वा** शंसिते सति **रण्यसि** रमसे । एवमपि **इन्दुभिः** अस्मदीयैरेव सोमैः सम्यग्रमस्व॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch, protector of the virtuous, as you are the benefactor of the worshipper offering you libations,or by whose prayers you are propitiated, so now (be gratified) by our libations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or when you are the strengthener of the presser, of the sacrificer, o lord  of settlements,  
 or in whose solemn speech you take pleasure—together with the drops.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Or, Lord of Heroes if thou aid the worshipper who shed; the, juice,  
      Or him whose laud delights thee, and his flowing drops.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder wenn du, der Stärker des Somapressenden, des Opfernden bist, du rechtmäßiger Gebieter, oder an wes Loblied du dich erfreuest, an den Somasäften.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Magst du des Pressers Beistand sein, des Opfernden, o tapfrer Held, An Sängers Spruch erlaben dich am Indusaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Или когда ты усиливаешь выжимающего (сому),  
 Жертвователя, о благой повелитель,  

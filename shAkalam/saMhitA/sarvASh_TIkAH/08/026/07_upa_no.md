@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प नो यातम् अश्विना  
 राया꣡ विश्वपु꣡षा सह꣡  
 मघ꣡वाना सुवी꣡राव् अ꣡नपच्युता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 म॒घऽवा॑ना । सु॒ऽवीरौ॑ । अन॑पऽच्युता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -92,35 +92,35 @@ genre M
 हे **अश्विना** अश्विनौ **विश्वपुषा** विश्वस्य सर्वस्य पोषकेण **राया** धनेन **सह** **नः** अस्मदीयं यज्ञम् **उप** **यातम्** उपागच्छतम् । यज्ञमागत्य धनमस्यभ्यं प्रयच्छतमिति भावः । किमनयोर्धनमस्तीत्यत आह । **मघवाना** मघवानौ मंहनीयधनवन्तौ **सुवीरौ** शोभनसामर्थ्योपेतौ । यद्वा । वीराः समर्थाः शत्रवः । तद्वन्तौ । तथापि **अनपच्युता** तैरपच्यावनीयौ न भवतः । तौ यज्ञं प्रत्यागच्छतम्
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us, **Aśvins**, with all-supporting riches, for you are opulent, heroic, overthrown of none.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive right up to us, o Aśvins, together with all-prospering wealth, as unbudgeable bounteous ones, bringing good heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With all-sustaining opulence, Asvins, come hitherward to us,  
      Ye rich and noble Heroes, ne'er to be o'erthrown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet zu uns, Asvin, zusammen mit dem allnährenden Reichtum, ihr die freigebigen, unverdrängten Meister!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Ritter, kommet her zu uns mit Reichthum, welcher alle nährt, Ihr heldenstarken, reichen, unerschütterten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте к нам, о Ашвины,  
 С богатством, приносящим всем процветание,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवे꣡न्द्राग्नी पपिवां꣡सा सुत꣡स्य  
 वि꣡श्वास्म꣡भ्यं सं꣡ जयतं ध꣡नानि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evendrāgnī* ← *eva*
 - \[adverb\]
@@ -131,36 +131,36 @@ genre M;; repeated line
 हे **इन्द्राग्नी** **सुतस्य** अभिषुतं सोमम् **एव** एवं पपिवांसा पीतवन्तौ युवाम् **अस्मभ्यं** **विश्वा** सर्वाणि **धनानि** **सं** **जयतं** प्रयच्छतम् । यदनेन सूक्तेन प्रार्थितं **तत्** मित्रादयः **ममहन्तां** पूजयन्तु' । पपिवांसा। ‘पा पाने'। लिटः क्वसुः। ‘वस्वेकाजाद्धसाम्' इति इडागमः ॥।॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thus, **Indra** and **Agni**, drinking deep of the libation, grant to us all (kinds of) wealth; and may **Mitra**, **Varuṇa** and **Aditi**--ocean, earth, and heaven, preserve it to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus, o Indra and Agni, having drunk of the pressed soma, entirely  conquer all rich prizes for us.  
 – This let Mitra and Varuṇa grant to us, and Aditi, River, and Earth  and Heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus having drunk your fill of our libation, win us all kinds of wealth, Indra and Agni.  
      This prayer of ours may Varuna grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem ihr, Indra und Agni, also vom gepreßten Soma getrunken habt, gewinnt für uns alle Kampfpreise! Das sollen uns Mitra, Varuna gewähren, Aditi, Sindhu, Erde und Himmel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn so den Saft geschlürft ihr, Indra-Agni, so mögt für uns ihr alles Gut erbeuten, Das mög' uns Mitra, Varuna gewähren und Aditi, das Meer, und Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так, о Индра и Агни, напившись выжатого (сомы),  
 Завоюйте для нас все награды!  

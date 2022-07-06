@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡षूचो अ꣡श्वान् युयुजे वनेजा꣡  
 ऋ꣡जीतिभी रशना꣡भिर् गृभीता꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡म् आनृधे प꣡र्वभिर् वावृधानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 च॒क्ष॒दे । मि॒त्रः । वसु॑ऽभिः । सुऽजा॑तः । सम् । आ॒नृ॒धे॒ । पर्व॑ऽभिः । व॒वृ॒धा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viṣūco* ← *viṣūcaḥ* ← *viṣvañc*
 - \[noun\], accusative, plural, masculine
@@ -115,37 +115,37 @@ genre M
 अयमग्निः **विषूचः** विष्वगञ्चनान् **अश्वान्** व्याप्तान् महतो वृक्षान् सर्वतो गन्तॄनश्वानेव वा **युयुजे** युङ्क्ते **वनेजाः** वने प्रवृद्धः संपन्नः सन् । कीदृशानश्वान् । **ऋजीतिभिः** ऋजुगामिनीभिः **रशनाभिः** रशनास्थानीयाभिर्लताभिः **गृभीतान्** परिगृहीतान् वेष्टितान् । साक्षादश्वपक्षे ऋजुगतिभिः प्रसिद्धाभी रशनाभिर्गृभीतान् गृहीतान् स्वकीयानश्वान् शीघ्रदाहाय रथे योजितवानित्यर्थः । तादृशोऽग्निः **चक्षदे** चक्षाद शकलीकरोति वसूनि **मित्रः** अस्माकं मित्रभूतः **वसुभिः** वासकैः **रश्मिभिः** **सुजातः** सुष्ठु प्रवृद्धः सन् । किंच **समानृधे** सम्यग्वर्धते **पर्वभिः** काष्ठखण्डैः **वावृधानः** वर्धमानः ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Born in the woods, he has harnessed his steeds which move everywhere held in by straight-guidingreins; friendly and augmented by rays, he has distributed (wealth); he grows in strength nourished with logs ofwood.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Born in the wood, he has yoked his own horses that face in all directions,  controlled by reins that stretch straight.  
 Our well-born ally has carved up (the meal) together with the good  
 (gods); he has come together with (all) his parts, having grown strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He born in wood hath yoked his horses rushing in all directions, held with reins that glitter.  
      The well-born friend hath carved his food with Vasus: in all his limbs he hath increased and prospered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Holzgeborene hat nach entgegengesetzten Seiten die Rosse angeschirrt, die er mit straffen Zügeln festhält. Der Freund von vornehmer Geburt teilt das Mahl mit den Göttern, er ist an allen Gliedern wachsend vollständig geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ungleiche Rosse schirrt der Holzentstammte, die er ergreift mit strahlenreichen Zügeln; Der edle Mitra speiste mit den Vasu's, er wuchs empor, gestärkt an allen Gliedern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рожденный в куске дерева запряг в разные стороны коней,  
 Схваченных прямо летящими поводьями.  

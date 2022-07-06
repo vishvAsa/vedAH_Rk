@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभे꣡ सुश्चन्द्र सर्पि꣡षो  
 द꣡र्वी श्रीणीष आस꣡नि  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 उ॒तो इति॑ । नः॒ । उत् । पु॒पू॒र्याः॒ । उ॒क्थेषु॑ । श॒व॒सः॒ । प॒ते॒ । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
@@ -122,7 +122,7 @@ genre M;; repeated line
 हे **सुश्चन्द्र** शोभनाह्लादन शोभनहिरण्य वाग्ने **उभे** **सर्पिषः** पूर्णे **दर्वी** जुहूपभृतौ **आसनि** आस्ये **श्रीणीषे** श्रयसि पचसि वा । **उतो** अपि च **नः** अस्मान् **उक्थेषु** यागेषु **उत्पुपूर्याः** उत्पूरय फलैः। हे **शवसस्पते** बलस्य पालयितः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,7 +133,7 @@ genre M;; repeated line
 **Yajus**. 15.43; the two ladles: termed **juhu** and upabhṛt, two ladles used for pouring the oiled butter upon the fire; or ubhe **darvi**, two **hands** serving as ladles
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you who are beautifully shimmering, you make the two spoonsful of  melted butter ready within your mouth,  
 and so you should fill us (with plenty) at our hymns, o lord of  
@@ -141,28 +141,28 @@ vast power.
 – Bring refreshment for the praise singers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, brilliant God, within thy mouth warmest both ladies of the oil.  
      So fill us also, in our hymns, abundantly, O Lord of Strength,Bring food to those who sing thy praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou warmest in thy mouth, O highly brilliant one, the two (sacrificial) ladles full of butter. And mayst thou fill us (with gifts) at our hymns, O lord of strength! Bring food to thy praisers!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beide Löffel mit Schmelzbutter mischtest du in deinem Munde, du Schönglänzender. Schenke du auch uns voll ein für die Lieder, du Herr der Kraft! - Bring den Sängern gute Speise!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiches Gut uns zu bei diesen Sprüchen, Herr der Kraft, den Sängern bringe Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обе ложки топленого масла, о ярко сияющий,  
 Ты смешиваешь во рту.  

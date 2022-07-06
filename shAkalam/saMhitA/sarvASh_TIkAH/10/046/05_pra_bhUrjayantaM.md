@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ भूर् ज꣡यन्तम् महां꣡ विपोधा꣡म्  
 मूरा꣡ अ꣡मूरम् पुरां꣡ दर्मा꣡णम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हि꣡रिश्मश्रुं न꣡ अ꣡र्वाणं ध꣡नर्चम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नय॑न्तः । गर्भ॑म् । व॒नाम् । धिय॑म् । धुः॒ । हिरि॑ऽश्मश्रुम् । न । अर्वा॑णम् । धन॑ऽअर्चम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -122,36 +122,36 @@ genre M
 हे स्तोतः त्वं **जयन्तं** जेतव्याञ्शत्रूञ्जयन्तं **महां** महान्तं **विपोधां** मेधाविनो धर्तारमग्निं **प्र** **भूः** प्रभव समर्थो भव । स्तोतुमिति शेषः । उद्गीथस्तु भूर्जयन्तमित्येकपदं मत्वा भूरादीँल्लोकाञ्जयन्तमिति व्याचकार । न केवलं त्वमेक एव अपि तु **मूराः** मूढाः सर्वेऽपि पुरुषाः **अमूरम्** अमूढं **पुरां** **दर्माणं** दारकम् । औणादिको मनिः । प्रत्ययस्वरः । **गर्भम्** अरण्योर्गर्भभूतं **वनां** वननीयम् ।' वा छन्दसि ' ( पा. सू. ६. १. १०६-१०७ ) इति वचनादमि पूर्वाभावः। **हिरिश्मश्रुं** नार्वाणम् । नेत्युपमार्थीयः । श्मश्रुशब्दोऽत्र रोमसामान्यवचनः । हरितरोमोपेतमर्वाणमरणशीलमश्वमिव । उक्तलक्षणाश्ववद्धरितकेशस्थानीयज्वालोपेतं **धनर्चं** प्रीणनस्तुतिम् । शकन्ध्वादित्वात् पररूपत्वम् । ईदृशमग्निं **नयन्तः** हविर्भिः प्रापयन्तः **धियं** कर्म स्तोत्रं वा **धुः** प्रापयन्ति । ' गातिस्था' इति सिचो लुक् ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be competent, (priest, to glorify) the victorious mighty **Agni**, the sustainer of the wise, (even) fools(adore) him, the exempt from folly, the demolisher of cities; conducting the embryo of touchwood, (Agni). Like agolden- haired, swift-moving (horse), loving praise and wealth, they bring him to the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth (they lead him), *glittering, great, conferring poetic inspiration,  splitter of strongholds, no fool—(even) fools (do so).  
 Leading him, the embryo of the trees, the gold-bearded one, like a steed  for whom a verse is the prize, they have set forth an inspired thought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The foolish brought the ne'er-bewildered forward, great, Victor, Song-inspirer, Fort-destroyer.  
      Leading the Youth gold-bearded, like a courser gleaming with wealth, they turned their hymn to profit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem sie den reichlich Erstarkenden, Großen, Reden Haltenden, den Burgenbrecher zum Altar geleiten, die Toren den Weisen, das Kind der Hölzer, halten sie ihre Andacht - ihn den Goldbärtigen, der sich den Preis heraussingt, wie ein Rennpferd den Preis gewinnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erheb' den grossen, siegenden Begeistrer; den Sohn der Bäume und den Burgzerstörer, Den Weisen führten mit Bedacht die Thoren, den Goldbart, wie ein Ross von Schätzen glänzend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведя (к алтарю) мощно побеждающего, великого, дающего вдохновение,  
 Разбивающего крепости, зародыша кусков дерева,  

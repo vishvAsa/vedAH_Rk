@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युञ्ज꣡ते म꣡न उत꣡ युञ्जते धि꣡यो  
 वि꣡प्रा वि꣡प्रस्य बृहतो꣡ विपश्चि꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मही꣡ देव꣡स्य सवितुः꣡ प꣡रिष्टुतिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि । होत्राः॑ । द॒धे॒ । व॒यु॒न॒ऽवित् । एकः॑ । इत् । म॒ही । दे॒वस्य॑ । स॒वि॒तुः । परि॑ऽस्तुतिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuñjate* ← *yuj*
 - \[verb\], plural, Present indikative
@@ -153,7 +153,7 @@ genre M
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -164,14 +164,14 @@ genre M
 **Yajus**. 5.14; viprasya bṛhato **vipaścitaḥ** are epithets of Savitā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They hitch up their mind and they hitch up their insights—the inspired  poets attentive to the poetic inspiration of the lofty inspired poet.  
 He distributes the ritual offerings as the only one who knows the  
 patterns. Great is the encircling praise of Savitar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE priests of him the lofty Priest well-skilled in hymns harness their spirit, yea, harness their holy thoughts.  
      He only knowing works assigns their priestly tasks. Yea, lofty is the praise of Savitar the God.
@@ -185,17 +185,17 @@ He alone, who knows the way, ordains their priestly functions;
 Great is the praise of the god Savitr.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie spannen den Geist an, und sie spannen die Gedanken an, die redekundigen, die die Reden auf den Hohen, den Redekundigen kennen. Er ganz allein bestimmt die Opfer als zeitkundiger. Groß ist das Lob des Gottes Savitri.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des grossen, weisen Priesters Priester rüsten zu den eignen Sinn und rüsten die Gebete zu; Den Opferdienst vertheilt, der einzig es versteht; erhaben ist das Lob des Gottes Savitar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они запрягают дух, а также запрягают поэтические мысли,  
 Вдохновенные, у вдохновенного высокого прозорливца.  

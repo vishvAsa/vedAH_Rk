@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मै तुवं꣡ सुकृ꣡ते जातवेद  
 उलोक꣡म्† अग्ने कृण꣡वः सियोन꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गो꣡मन्तं रयिं꣡ नशते सुअस्ति꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒श्विन॑म् । सः । पु॒त्रिण॑म् । वी॒रऽव॑न्तम् । गोऽम॑न्तम् । र॒यिम् । न॒श॒ते॒ । स्व॒स्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
@@ -126,42 +126,42 @@ genre M
 हे **जातवेदः** **अग्ने** **त्वं** **यस्मै** **सुकृते** सुकर्मणे यजमानाय । **उ** इति पूरणः । **लोकं** **स्योनं** सुखकरं **कृणवः** अकरोः । यद्वा । लोकमालोकेन स्योनं कृणवः अनुग्रहेण कुर्वित्यर्थः । **सः** यजमान: **अश्विनं** बह्वश्वोपेतं **पुत्रिणं** बहुपुत्रोपेतं **वीरवन्तं** वीरैर्वीर्येण वा उपेतं **गोमन्तं** गोभिर्युक्तं **रयिं** धनं **नशते** प्राप्नोति । **स्वस्ति** अविनश्वरम् ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Upon whatsoever performer of good works you, **Agni**, who are **Jātavedas**, cast a favourable regard, he enjoys welfare, and riches, comprehending horses, cattle, sons and **male** descendants.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For whom you will make a wide, comfortable place, o Jātavedas, since  he acts rightly toward you, o Agni,  
 he will attain a wealth of horses, sons, heroes, and cattle for his  
 well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The pious man, O Jatavedas Agni, to whom thou grantest ample room and pleasure,  
      Gaineth abundant wealth with sons and horses, with heroes and with kine for his well-being.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The well-doer to whom thou, O Agni Gâtavedas, createst pleasant freedom, will happily attain wealth with horses and sons, with valiant men and cows.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Fromme, dem du, Agni Jatavedas, seinen Platz angenehm machen willst, der kommt glücklich zu einem Schatz von Rossen, Söhnen, Mannen, Rindern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Wesenkenner, welchem frommen Manne du Raum verschaffst und Lust gewährst, o Agni, Der findet Glück und Habe, die mit Söhnen, mit Männern, Rossen, Rindern reich versehn ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Если) какому благочестивому (смертному), о Джатаведас,  
 Ты хочешь создать приятное место (в жизни),  

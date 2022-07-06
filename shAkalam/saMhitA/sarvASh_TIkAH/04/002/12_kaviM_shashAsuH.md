@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कविं꣡ शशासुः कव꣡यो अ꣡दब्धा  
 निधार꣡यन्तो दु꣡रियासु आयोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पड्भिः꣡ पश्येर् अ꣡द्भुताँ अर्य꣡ ए꣡वैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अतः॑ । त्वम् । दृश्या॑न् । अ॒ग्ने॒ । ए॒तान् । प॒ट्ऽभिः । प॒श्येः॒ । अद्भु॑तान् । अ॒र्यः । एवैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaviṃ* ← *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
@@ -114,46 +114,46 @@ genre M
 हे **अग्ने** **आयोः** मनुष्यस्य **दुर्यासु** गृहेषु **अदब्धाः** केनाप्यतिरस्कृताः **निधारयन्तः** निवसन्तः **कवयः** क्रान्तदृशो देवाः **कविं** मेधाविनं त्वां **शशासुः** । होता भवेति शशंसुः । **अतः** कारणात् **अर्यः** यज्ञस्य स्वामी **त्वं** **दृश्यान्** दर्शनीयान् अद्भुतान् आश्चर्यरूपोपेतानिन्द्रादीन् **एतान्** देवान् **एवैः** गमनशीलैः **पड्भिः** पादैः स्वतेजोभिः **पश्येः** जानीयाः ॥ दृश्यान् ।' दृशिर प्रेक्षणे'। ऋदुपधाच्चाक्लृपिचृतेः ' ( पा. सू. ३. १. ११० ) इति कर्मणि क्यप् । कित्त्वादगुणः । पित्त्वादनुदात्तत्वे धातुस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The unveiled sages abiding in the dwellings of man have glorified the sage (**Agni**); therefore, lord of sacrifice, you may proceed with swift-moving feet to behold the admirable and marvellous deities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The poet [=Agni] have the undeceivable poets instructed, fixing him  down fast in the houses of Āyu.  
 From there, Agni, you should look with your eyes upon those who are  easily seen and upon the unerring ones (who go) along the ways of  the stranger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take paḍbhíḥ in this vs. as belonging to a root noun páś-, meaning ‘with the eyes’, flg. Oldenberg (SBE [1897]) and Schindler (Wurzelnomen, 31). (However, Oldenberg silently retracted this view in his short piece on paḍbhíḥ some ten years later [ZDMG 63 (1909): 300-302 [=KlsSch 316-18].) As Schindler points out, other hapaxes occur in etymological figures like our paḍbhíḥ paśyeḥ. All other exx. of paḍbhíḥ belong to pád- ‘foot’, including the one two vss. later (IV.2.14). Although such close proximity of identical forms might appear to weigh against assigning them to two different stems, esp. since one of the stems would be a hapax, their contexts seem designed to disambiguate: vs. 12 contains the etym. fig., while 14 juxtaposes the word with another body part frequently paired with it: paḍbhír hástebhiḥ “with feet (and) hands.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Sage the Sages, ne'er deceived, commanded, setting him down in dwellings of the living.  
      Hence mayst thou, friendly God, with rapid footsteps behold the Gods, wonderful, fair to look on.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The undeceived sages instructed the sage (Agni), setting him down in the dwellings of Âyu 1. Hence mayst thou behold, O Agni, with thy eyes 2 these beings visible and secret (that move) on the Arya's ways 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die untrüglichen Seher haben den Seher unterwiesen, als sie ihn in die Wohnung des Ayu verpflanzten. Von da aus mögest du, Agni, an den Füßen diese sichtbaren Absichten und an dem Eifer des hohen Herrn seine Absichten ersehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Seher wiesen an die treuen Seher, ihn niedersetzend in des Menschen Häuser; Von dort beschaust mit Blicken Agni stets du, die sichtbar sind und unsichtbar, du holder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэты, нетерпящие обмана, обучили поэта,  
 Устраивая (его) в жилище Аю.  

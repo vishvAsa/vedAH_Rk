@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुशं꣡सो बोधि गृणते꣡ यविष्ठिय  
 म꣡धुजिह्वः सु꣡आहुतः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 नमस्या꣡ दइ꣡वियं ज꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्रस्क॑ण्वस्य । प्र॒ऽति॒रन् । आयुः॑ । जी॒वसे॑ । न॒म॒स्य । दैव्य॑म् । जन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suśaṃso* ← *su*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 हे **यविष्ठ्य** युवतमाग्ने त्वं **गृणते** स्तुवते यजमानार्थं **सुशंसः** सुष्ठु शंसनीयः **मधुजिह्वः** मादयितृज्वालः **स्वाहुतः** सुष्ठु आभिमुख्येन हुतः सन् **बोधि** अस्मदभिप्रायं बुध्यस्व । किंच **प्रस्कण्वस्य** एतनामकस्य कण्वपुत्रस्य महर्षेः । ‘प्रस्कण्वः कण्वस्य पुत्रः कण्वप्रभवः' (निरु. ३. १७) इति यास्कवचनात् । तस्य **जीवसे** जीवनार्थम् **आयुः** **प्रतिरन्** प्रकर्षेण वर्धयन् **दैव्यं** देवसंबन्धिनं **जनं** **नमस्य** पूजय ॥ सुशंसः । ‘ शंसु स्तुतौ । भावे घञ् । शोभनः शंसो यस्यासौ सुशंसः । ‘ आद्युदात्तं द्व्यच्छन्दसि ' इत्युत्तरपदाद्युदात्तत्वम् । बोधि । ‘ बुध अवगमने '। लोटो हिः । ‘ बहुलं छन्दसि । इति विकरणस्य लुक् ।' हुझल्भ्यो हेर्धिः' इति हेर्धिरादेशः । ‘ वा छन्दसि ' इति अपित्त्वस्य विकल्पितत्वात् लघूपधगुणः । धातोरन्त्यलोपश्छान्दसः । गृणते। ‘गॄ शब्दे । लटः शतृ । 'क्र्यादिभ्यः श्ना' । ‘ श्नाभ्यस्तयोरातः' इति आकारलोपः । ‘शतुरनुमः' इति विभक्तेरुदात्तत्वम् । यविष्ठ्य । गतम् । प्रस्कण्वस्य । प्रभूतिरुत्पत्तिः कण्वाद्यस्य स प्रस्कण्वः । ‘प्रस्कण्वहरिश्चन्द्रावृषी ' (पा. सू. ६. १. १५३) इति सुडागमो निपातितः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । प्रतिरन् । प्रपूर्वस्तिरतिर्वर्धनार्थः। नमस्य। नमोवरिवश्चित्रङः क्यच्' (पा. सू. ३. १. १९) इति पूजार्थे क्यच् । प्रत्ययस्वरः। अन्येषामपि दृश्यते । इति संहितायां दीर्घत्वम् । दैव्यम् ।' देवाद्यञञौ ' ( पा. सू. ४. १. ८५. ३ ) इति तस्येदमित्यर्थे प्राग्दीव्यतीयो यञ्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,39 +120,39 @@ genre M
 **Namasyā** daivyam janam, i.e. the ṛṣi of the hymn, Praskaṇva
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be one who is good for the singer to laud, o youngest one, one whose  tongue is honey when well-libated.  
 Lengthening the lifetime of Praskaṇva to live, do homage to the  divine folk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All standard tr. take suśáṃsa- in an active sense (e.g., Geldner “der …Schönes sagt”) with the singer the recipient of Agni’s good speech. Certainly when applied to mortals, this has to be the sense, but when applied to gods I take the adj. in passive sense ‘good to proclaim/laud’, with here the singer in the dat. (gṛṇaté) as the agent of the praising.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tell good things to thy praiser, O most youthful God, as richly worshipped, honey-tongued,  
      And, granting to Praskanva lengthened days of life, show honour to the Heavenly Host.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Be kind-spoken to him who praises thee, O youngest god, honey-tongued, the best receiver of offerings. Lengthening Praskanva's life, that he may reach old age, do homage 1 to the host of the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei einer, der dem Sänger Schönes sagt, du Jüngster, mit Honig auf der Zunge, wenn du gut mit Schmalz begossen bist. Des Praskanva Tage zum Leben verlängernd, huldige dem göttlichen Volke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei wohlgesinnt dem Preisenden, o jüngster du, mit süsser Zunge, schön getränkt, Verlängre dem Praskanva seine Lebenszeit und bete an der Götter Stamm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь благовещающим певцу, о юнейший,  
 Сладкоязычным, (когда) ты хорошо окроплен (маслом)!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡द् धि꣡ष्णियासु वृधसानो꣡ अग्ने  
 क꣡द् वा꣡ताय प्र꣡तवसे शुभंये꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब्र꣡वः क꣡द् अग्ने रुदरा꣡य+ नृघ्ने꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 परि॑ऽज्मने । नास॑त्याय । क्षे । ब्रवः॑ । कत् । अ॒ग्ने॒ । रु॒द्राय॑ । नृ॒ऽघ्ने ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
@@ -113,7 +113,7 @@ genre M
 हे **अग्ने** **धिष्ण्यासु** आग्नीध्रीयादिधिष्ण्येषु **वृधसानः** घृताद्याहुतिभिर्वर्धमानस्त्वं **कत्** कथं ब्रूयाः । **प्रतवसे** प्रकृष्टबलाय **शुभंये** शुभस्य प्रापयित्रे **परिज्मने** परितो गन्त्रे **नासत्याय** सत्यस्य नेत्रे। यद्वा न विद्यतेऽसत्यं यस्य तस्मै । **वाताय** वायवे । यद्वा नासत्याय इति वचनव्यत्ययः । नासत्याभ्यामश्विभ्याम् । **क्षे**। क्षा इति पृथिवीमाह। क्षियन्ति निवसन्त्यस्यां प्राणिन इति । तस्यै क्षे पृथिव्यै च **कत्** कथं ब्रूयाः । हे **अग्ने** **नृघ्ने** नृणां पापकृतां हन्त्रे **रुद्राय** देवाय **कत्** कथमागः **ब्रवः** ब्रूयाः ॥ वृधसानः । वृधु वर्धने' । असानच्' इत्यनुवृत्तौ ‘ऋञ्जिवृधिमन्दिसहिभ्यः कित्' इति असानच्प्रत्ययः । कित्त्वादगुणः । चित्त्वादन्तोदात्तः । शुभंये । ' या प्रापणे ' । विच् । 'तत्पुरुषे कृति बहुलम् ' इति द्वितीयायाः अप्यलुक् । कृत्स्वरः । क्षे ।  ‘ क्षि निवासगत्योः ।  ‘ अन्येभ्योऽपि दृश्यते ' इत्यधिकरणे डः । ततष्टाप् । चतुर्थ्येकवचने ' आतो धातोः' इत्यत्र ‘ आतः' इति योगविभागात आकारलोपः। नृघ्ने । **हन** हिंसागत्योः ।  ‘ बहुलं छन्दसि' इति क्विप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 To man-destroying Rudra: rudrāya nṛghne, the man-slayer, Rudra, the slayer of wicked men
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What (will you say), Agni, having grown strong on the holy places  [=ritual hearths], what to the Wind projecting strength, charging to  beauty,  
 (what) to the earth-circling (chariot) of the Nāsatyas, for it to appear?  What will you say, Agni, to man-smiting Rudra?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that all four pādas rhyme: agne# (a), śubhaṃyé# (b), kṣé# (c), nṛghné (d); also 7ab pūṣṇé# … havirdé#, an unusual effect in RVic verse.
 
@@ -155,28 +155,28 @@ Although we might have expected the Sun here, because he serves as the Ādityas�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What, when thou blazest on the lesser altars, what to the mighty Wind who comes tobless us,  
      True, circumambient? what to Earth, O Agni, what wilt thou say to man-destroying Rudra?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 What wilt thou say, O Agni, when thou hast grown strong on the Dhishnya altars 1? What to strong Vâta who goes forward in triumph 2? To the Nâsatya 3 who goes round the earth 4, to … 5? What, O Agni, to Rudra, the man-killer?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was willst du, Agni, der du auf den Feuerstätten groß wirst, was dem gewaltigen, prunkvoll fahrenden Vata, dem herumfahrenden Nasatya, der Erde, was willst du, Agni, dem männertötenden Rudra sagen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was willst, o Agni, an Altären wachsend, dem mächt'gen Wind du sagen, der zum Schmuck eilt, Der ringsum wandelt, dem wahrhaft'gen Stiere, dem Rudra, Agni, ihm, der Männer tödtet?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что можешь ты сказать, о Агни, растя в очагах,  
 Что Вате крепчающему, великолепно выезжающему,  

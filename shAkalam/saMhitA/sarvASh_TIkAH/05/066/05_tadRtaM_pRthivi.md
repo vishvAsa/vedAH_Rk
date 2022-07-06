@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् ऋत꣡म् पृथिवि बृह꣡च्  
 छ्रवएष꣡ ऋ꣡षीणा᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡ति क्षरन्ति या꣡मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ज्र॒य॒सा॒नौ । अर॑म् । पृ॒थु । अति॑ । क्ष॒र॒न्ति॒ । याम॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -94,36 +94,36 @@ genre M
 हे **पृथिवि** देवि त्वयि **तत्** सर्वैरर्थ्यमानत्वेन प्रसिद्धं **बृहत्** प्रभूतम् **ऋतम्** उदकम् **ऋषीणां** स्तोतॄणामस्माकं **श्रवएषे** अन्नस्यैषणे सति ज्रयसानौ गच्छन्तौ ॥  ‘ छन्दस्यसानच् शुजॄभ्याम् ' ( उ. सू. २. २४३ ) इत्यसानच् ज्रयतेरपि भवति।  ‘ चितः' इत्यन्तोदात्तः ॥ **अरम्** अलमस्यर्थं **पृथु** यथा भवति तथा **यामभिः** गमनैः **अति** **क्षरन्ति** अत्यर्थं वर्षतः ॥ व्यत्ययेन बहुवचनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Earth, in you is abundant water for the necessities of the Ṛṣis; the two active (deities) dispense by their movement sufficiently copious (rain).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Earth, this is their lofty truth in the seers’ quest for fame:  
 by (the seers’) entreaties they [=poetic streams] flow beyond the two  [=Heaven and Earth], who rightly extend widely,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is the Law sublime, O Earth: to aid the Rsis' toil for fame  
      The Two, wide-spreading, are prepared. They come with ample overflow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese hohe Weisheit verkünde ich, o Erde, wenn die Rishi´s Ruhm suchen: Sie überholen im Laufe die beiden pünktlich und breit Dahineilenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies ist, o Erde, das hohe, heilige Werk der Dichter bei dem Streben nach Ruhm: die beiden weitausgedehnten [Himmel und Erde] überfluten sie weit und breit mit ihren Gebeten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Таков высокий закон, о земля:  
 При состязании поэтов в славе  

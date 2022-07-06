@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ वां स꣡न्ति पुरुस्पृ꣡हो  
 नियु꣡तो दाशु꣡षे नरा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इ꣡न्द्रवायू नि꣡ यछतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मे इति॑ । ताः । य॒ज्ञ॒ऽवा॒ह॒सा॒ । इन्द्र॑वायू॒ इति॑ । नि । य॒च्छ॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -105,41 +105,41 @@ genre M
 हे **नरा** नेतारौ हे **यज्ञवाहसा** यज्ञवाहकौ 'इन्द्रवायू **याः** **पुरुस्पृहः** बहुभिः स्पृहणीयाः **नियुतः** **सन्ति** **अस्मे** अस्मभ्यं **दाशुषे** हविर्दत्तवते यजमानाय मदर्थं **ताः** नियुतः **नि** **यच्छतम्** ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders (of rites), conveyers of sacrifices, **Indra** and **Vāyu**, give to us for the offer (of the oblation), those **Niyuts** who are your (steeds), and are desired of many.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your teams, craved by many, which are for the pious, o men,  
 stop them by us, o Indra and Vāyu, you whose vehicle is the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The qualifier of the teams, puruspṛ́haḥ ‘craved by many’, reprises 1d spārháḥ, used of Vāyu, again a faint sign of ring composition. For the syntax see comm. ad VI.60.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The longed-for teams which ye possess, O Heroes, for the worshipper,  
      Turn to us, Indra-Vayu, ye to whom the sacrifice is paid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure vielbegehrten Gespanne und Gaben, die ihr für den Opfernden habt, ihr Herren, die haltet bei uns fest, Indra und Vayu, durch das Opfer hergeführt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Vielgespanne, die ihr habt, dem Frommen, Männer, vielbegehrt, Die euch zum Opfer fahren stets, die, Indra-Vaju, lenkt zu uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те многожеланные упряжки (-дары),  
 Что есть у вас для (вашего) почитателя, о двое мужей,  

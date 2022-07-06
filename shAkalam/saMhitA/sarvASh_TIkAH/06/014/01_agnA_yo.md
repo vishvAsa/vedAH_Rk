@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्ना꣡ यो꣡ म꣡र्तियो दु꣡वो  
 धि꣡यं जुजो꣡ष धीति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इ꣡षं वुरीत अ꣡वसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 भस॑त् । नु । सः । प्र । पू॒र्व्यः । इष॑म् । वु॒री॒त॒ । अव॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnā* ← *agni*
 - \[noun\], locative, singular, masculine
@@ -107,37 +107,37 @@ genre M
 **यो** **मर्यः** मनुष्यः **अग्ना** अग्नावग्निविषयं **दुवः** परिचरणं **धियं** कर्म च यज्ञादिलक्षणं **धीतिभिः** स्तुतिभिः सार्धं **जुजोष** सेवते आचरति **सः** मर्त्यः **पूर्व्यः** पूर्वेषां मुख्यः सन् **नु** क्षिप्रं **प्र** **भसत्** प्रभासेत । प्रकृष्टप्रकाशवान् भवेत् । **अवसे** पुत्रादीनां रक्षणार्थम् **इषम्** अन्नं स **वुरीत** वृणीत संभजेत । शत्रुसकाशाल्लभेतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the mortal who propitiates **Agni** by devotion and worship, together with praises, quickly become distinguished as first (among men), and acquire ample food for the support (of his children).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who (has placed his) friendship in Agni and has savored  insight through his insightful thoughts,  
 chewing (it [=insight]) now, he should be the first to choose (it as)  
 refreshment, for help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHOSO to Agni hath endeared his thought and service by his hymns,  
      That mortal eats before the rest, and finds sufficiency of food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Sterbliche Agni die schuldige Achtung erweist und mit seinen Gedanken gern seiner gedenkt, der soll zuerst den Mund auftun; er soll sich zur Gnade eine Erfreuung ausbitten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mann, der Gaben und Gebet dem Agni reichte andachtsvoll, Der esse vor den andern nun, empfange Trunk auch zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) смертный, который наслаждается у Агни  
 Даром поэтического озарения благодаря (своим) произведениям,  

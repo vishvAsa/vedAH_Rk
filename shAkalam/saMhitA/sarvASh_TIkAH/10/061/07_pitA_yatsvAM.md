@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पिता꣡ य꣡त् स्वां꣡ दुहित꣡रम् अधिष्क꣡न्  
 क्ष्मया꣡ रे꣡तः संजग्मानो꣡ नि꣡ षिञ्चत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वा꣡स्तोष् प꣡तिं व्रतपां꣡ नि꣡र् अतक्षन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽआ॒ध्यः॑ । अ॒ज॒न॒य॒न् । ब्रह्म॑ । दे॒वाः । वास्तोः॑ । पति॑म् । व्र॒त॒ऽपाम् । निः । अ॒त॒क्ष॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
@@ -138,7 +138,7 @@ genre M
 **पिता** प्रजापतिः **यत्** यदा **स्वां** **दुहितरं** दिवमुषसं वा **अधिष्कन्** अध्यस्कन्दत् तदानीमेव **क्ष्मया** पृथिव्या सह **संजग्मानः** संगच्छमानः प्रजापतिरस्मिँल्लोके रोहितं भूतामृश्यो भूत्वा **रेतः** **नि** **षिञ्चत्** निषेकमकरोत् । ‘तामृश्यो भूत्वा रोहितं भूतामभ्यैत् ' (ऐ. ब्रा, ३. ३३ ) इति ब्राह्मणम् । तदानीं **स्वाध्यः** सुध्यानाः सुकर्माणो वा **देवाः** **ब्रह्म** **अजनयन्** उदपादयन् । किं तद्ब्रह्मेति तदाह । **वास्तोष्पतिं** यज्ञवास्तुस्वामिनं **व्रतपां** व्रतस्य कर्मणः रक्षःप्रभृतिभ्यः पालकं **निरतक्षन्** समुदपादयन् । यज्ञवास्तुस्वामित्वं दत्त्वा कर्मरक्षकत्वेन निर्मितवन्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,29 +149,29 @@ genre M
 Lord of the hearth of sacrifice: or **vāstoṣpati**. He is always considered to be **Rudra**, as in theAitareya **Brāhmaṇa** 3.33. The gods, incensed by Brahma's wickedness, seek for someone to put him to death;but, each feeling his own inability, they create Rudra for the purpose. Rudra wounds **Prajāpati**, who hadassumed the form of a deer, and flying to heaven becomes the asterism **mṛgaśīrṣa**, the doe into which thedaughter had been changed becomes the asterism **rohiṇī**. Rudra follows and becomes **mṛgavyādha**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the father “sprang on” his own daughter, he, uniting (with her),  poured down his semen upon the earth.  
 The gods, very concerned, begat the sacred formulation, and they  fashioned out (of it?) the Lord of the Dwelling Place, protector of  commandments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 पि॒ता यत्स्वां दु॑हि॒तर॑मधि॒ष्कन्क्ष्म॒या रेतः॑ संजग्मा॒नो नि षि॑ञ्चत् ।  
 स्वा॒ध्यो॑ऽजनय॒न्ब्रह्म॑ दे॒वा वास्तो॒ष्पतिं॑ व्रत॒पां निर॑तक्षन् ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als der Vater seine Tochter besprang, vergoß er bei der Begattung Samen auf den Boden. Gutes im Sinn führend erzeugten die Götter einen Segen und bildeten daraus Vastospati, den Gesetzeshüter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als der Vater seine eigne Tochter bestiegen hatte, ergoss er mit der Erde zusammengekommen seinen Samen; die achtsamen Götter erzeugten das Brahma und schufen den Gesetz behütenden Wohnungsherrn.[474]
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

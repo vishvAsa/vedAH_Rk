@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यउ꣡ ते शुवा꣡नौ यम रक्षिता꣡रौ  
 चतुरक्षउ꣡ पथिर꣡क्षी नृच꣡क्षसौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वस्ति꣡ चास्मा अनमीवं꣡ च धेहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ताभ्या॑म् । ए॒न॒म् । परि॑ । दे॒हि॒ । रा॒ज॒न् । स्व॒स्ति । च॒ । अ॒स्मै॒ । अ॒न॒मी॒वम् । च॒ । धे॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yau* ← *yad*
 - \[noun\], nominative, dual, masculine
@@ -136,7 +136,7 @@ popular
 हे **राजन्** हे **यम** **ते** त्वदीयौ **यौ** **श्वानौ** विद्येते **ताभ्यां** श्वभ्यां हे राजन् यम **एनं** प्रेतं **परि** **देहि** रक्षार्थं प्रयच्छ। कीदृशौ श्वानौ। **रक्षितारौ** यमगृहस्य रक्षकौ **चतुरक्षौ** अक्षिचतुष्टययुक्तौ **पथिरक्षी** मार्गस्य रक्षकौ **नृचक्षसौ** मनुष्यैः ख्याप्यमानौ । श्रुतिस्मृतिपुराणाभिज्ञाः पुरुषास्तौ प्रख्यापयन्ति । ताभ्यां श्वभ्यां दत्त्वा **अस्मै** प्रेताय **स्वस्ति** **च** क्षेममपि **अनमीवं** **च** रोगाभावम् अपि **धेहि** संपादय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,34 +147,34 @@ popular
 Renowned by men: i.e., renowned in the **Vedas**,law-books and **Purāṇas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your two dogs, Yama, who are guardians, four-eyed guards of the path  with their eyes on men—  
 to them deliver him, o king. Provide for him well-being and freedom  from disease.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And those two dogs of thine, Yama, the watchers, four-eyed, who look on men and guard the pathway,-  
      Entrust this man, O King, to their protection, and with prosperity and health endow him.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 O King, to those two this dead man deliver, The two that are thy guardian dogs, O Yama, Four-eyed, observing men, the pathway watching. Bestow upon the dead man health and welfare.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine beiden Hunde, Yama, die vieräugigen Wächter, die den Weg bewachen, die mit dem Herrscherauge, denen vertraue ihn an, o König, und verleih ihm Glück und Gesundheit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den beiden Hunden, Jama, deinen Wächtern, die Pfad' beschirmen, Männer schaun, vieräugig, O König, denen gib beschützend diesen; verleih ihm Wohlsein ohne Leid und Krankheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два твоих пса, о Яма, – сторожа,  
 Четырехглазые, стерегущие путь, надзирающие за людьми.  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य वा यूय꣡म् प्र꣡ति वाजि꣡नो नर  
 आ꣡ हव्या꣡ वीत꣡ये गथ꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 सुम्ना꣡ वो धूतयो नशत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । सः । द्यु॒म्नैः । उ॒त । वाज॑सातिऽभिः । सु॒म्ना । वः॒ । धू॒त॒यः॒ । न॒श॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -118,19 +118,19 @@ genre M
 हे **नरः** नेतारो मरुतः **यूयं** **यस्य** **वा** यस्य च **वाजिनः** हविष्मतो यजमानस्य **हव्या** हव्यानि हवींषि **प्रति** **वीतये** भक्षणाय **आ** **गथ** आगच्छथ **सः** यजमानः हे **धूतयः** कम्पयितारो मरुतः **द्युम्नैः** द्योतमानैरन्नैर्यशोभिर्वा **उत** अपि च **वाजसातिभिः** वाजानां संभजनैश्च **वः** युष्माकं संबन्धीनि **सुम्ना** सुम्नानि सुखानि **अभि** **नशत्** अभितो व्याप्नोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sacrificer, to partake of whose oblations you approach, leaders of rites, enjoys, agitators of allthings, the felicity you bestow, together with abundant viands, and the gift of strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or the prize-seeker whose oblations you come here to pursue, o men. He will attain to your favors, you shakers, along with brilliant things  and the winning of prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The yásya vā opening this verse, parallel to yó vā in 15c, shows that this clause is still dependent on the main clause in 15ab subhágaḥ sá “very fortunate he …” The main clause in 16c may refer only to the vājín- of ab or to the various subhága- folk of vss. 15-16.
 
@@ -139,23 +139,23 @@ The hapax gatha in b is an anomalous form, with a present 2nd pl. ending (- tha)
 gata in 10d. The pādas are otherwise almost identical: 10d havyā́no vītáye gata, 16b ā́havyā́vītáye gatha.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The strong man to whose sacrifice, O Heroes, ye approach that ye may taste thereof,  
      With glories and with war that winneth spoil shall gain great bliss, ye Shakers of the world.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder zu wes Lohnherren Opferspenden ihr Herren herkommet, um ihrer zu begehren: der soll durch Herrlichkeit und Beutegewinn eure Huld erfahren, ihr Schüttler.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Opferherr, zu dessen Opfergaben ihr, o Männer, zum Genusse kommt, Wird durch die Opferspenden und durch Geisteskraft erlangen, Stürmer, eure Huld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Или же (человек,) выигравший награду, к которому вы, о мужи,  
 Отправляетесь для вкушения жертв, –  

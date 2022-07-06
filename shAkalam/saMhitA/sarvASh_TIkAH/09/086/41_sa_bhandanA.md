@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ भन्द꣡ना उ꣡द् इयर्ति प्रजा꣡वतीर्  
 विश्वा꣡युर् वि꣡श्वाः सुभ꣡रा अ꣡हर्दिवि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पीत꣡ इन्दव् इ꣡न्द्रम् अस्म꣡भ्य° याचतात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ब्रह्म॑ । प्र॒जाऽव॑त् । र॒यिम् । अश्व॑ऽपस्त्यम् । पी॒तः । इ॒न्दो॒ इति॑ । इन्द्र॑म् । अ॒स्मभ्य॑म् । या॒च॒ता॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -120,20 +120,20 @@ genre M
 **सः** सोमः **विश्वायुः** सर्वस्य गन्ता सोमः **प्रजावतीः** प्रजारूपफलदात्रीः **सुभराः** सुष्ठु ह्रियमाणाः **विश्वाः** सर्वाः **भन्दनाः** स्तुतीः **उदियर्ति** उत्कृष्टं प्रेरयति । कस्मिन् काले उच्यते । **अहर्दिवि** अहोरात्रयोश्च । अथ प्रत्यक्षकृतः । **ब्रह्म** परिवृढं कर्म **प्रजावत्** प्रजाभिर्युक्तम् । प्रजाफलकमित्यर्थः । यद्वा । अन्नं तच्च प्रजावत् प्रजाद्युपेतम् । तथा **रयिं** धनम् । कीदृशम् । **अश्वपस्त्यं** व्याप्तगृहम् । तदुभयं हे **इन्दो** दीप्त सोम **पीतः** इन्द्रेण पीतस्त्वं तमेव **इन्द्रमस्मभ्यं** **याचतात्** याचस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The all-pervading (**Soma**) exfites both day and night all praises easily borne, productive of prosperity; **Indu**, when drunk, solicit **Indra** (to give) us food productive of progeny and riches filling our homes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He rouses all blessings, consisting of offspring and easy to bear,  through our whole lifetime, day upon day. Then, o drop, when drunk, on our behalf beg Indra for a sacred  
 formulation bringing offspring and for wealth consisting of horses in  the homestead.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the relation between the first hemistich and vs. 40 see immed. above.
 
@@ -164,23 +164,23 @@ The focus on our welfare found in the last tṛca is found here in vs. 41 but is
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dear to all life, he sends triumphant praises forth, abundant, bringing offspring, each succeeding day.  
      From Indra crave for us, Indu, when thou art quaffed, the blessing that gives children, wealth that harbours steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er bringt zeitlebens Tag für Tag alle löblichen Dinge, die Nachwuchs haben, auf, deren Last leicht ist: Getrunken sollst du, Saft, für uns den Indra um Segen, der Nachwuchs bringt, um Reichtum an vielen Rossen bitten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er lässt erstehen kinderreiche Segnungen, die alle stark sind, allbelebend Tag für Tag, Geschlürft, o Indu, geh den Indra für uns an um kinderreich Gebet und rossereichen Stall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

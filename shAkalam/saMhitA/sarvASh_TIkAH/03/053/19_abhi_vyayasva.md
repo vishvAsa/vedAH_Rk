@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ व्ययस्व खदिर꣡स्य सा꣡रम्  
 ओ꣡जो धेहि स्पन्दने꣡ शिंश꣡पायाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ या꣡माद् अस्मा꣡द् अ꣡व जीहिपो नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अक्ष॑ । वी॒ळो॒ इति॑ । वी॒ळि॒त॒ । वी॒ळय॑स्व । मा । यामा॑त् । अ॒स्मात् । अव॑ । जी॒हि॒पः॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -114,7 +114,7 @@ popular
 हे इन्द्र **खदिरस्य** **सारम्** । सारेण हि आणिः क्रियते । तं खदिरस्य सारभूतमाणिम् **अभि** **व्ययस्व** अभितस्तत्तत्स्थानेषु दार्ढ्यार्थं निधेहि । **स्पन्दने** रथस्य गमने सति **शिशपायां** शिंशपाख्यदारुनिर्मिते रथस्य फलके **ओजो** **धेहि** दार्ढ्यं कुरु । हे **वीळो** दृढ **वीळित** अस्माभिर्दृढीकृत हे **अक्ष** **वीळयस्व** त्वं दृढो भव। यद्वा अस्मान् दृढीकुरु । **यामात्** गच्छतः अस्माद्रथात् **नः** अस्मान् **मा** **अव** **जीहिपः** मा पीपतः ॥ खदिरस्य । ‘ अजिरशिशिर ' इत्यादिना किरच्प्रत्ययान्तत्वेन निपातनादन्तोदात्तः । वीळित । वीळयतेर्ण्यन्तस्य निष्ठायामिडागमः । ‘ निष्ठायां सेटि ' ( पा. सू. ६.४. २३) इति णेर्लुक् । वीळयस्व । आमन्त्रितस्याविद्यमानत्वेन पादादित्वादनिघातः । यामात् ।' या प्रापणे ' इत्यस्मात् ‘अर्तिस्तुसुहुसृ° ' इत्यादिना मन्प्रत्ययः । नित्त्वदाद्युदात्तः । जीहिपः । ‘ ओहाक् त्यागे । ण्यन्तस्य लुङि चङि रूपम् । अकारस्येकारश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,13 +127,13 @@ Khayar and śiśu: khadirasya sāram is the text;
 **Khadira** = mimosa catechu of which the bolt of the axle is made; while the **śiṃśapa**, dalbergia **sisu** furnishes wood for the floor; these are still timber-trees in common use
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Engird yourself in the hardwood of the acacia tree; place strength in the  śiṃśapā(-wood) in its recoil.  
 O Axle, you who are firm and were made firm, stay firm. Don’t make us  leave off from this journey.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On abhí vyayasva see comm. ad VII.33.4. I assume ‘engird’ refers to the ends of the axle being embedded in the wheel hub.
 
@@ -142,23 +142,23 @@ The loc. spandané is generally taken as a third type of wood (besides khadiráa
 I take it to refer here to the elasticity or flexibility of Dalbergia sissoo (śiṃsapā-), a quality it has (at least acdg. to the internet).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Enclose thee in the heart of Khayar timber, in the car wrought of Sinsapa put firmness.  
      Show thyself strong, O Axle, fixed and strengthened: throw us not from the car whereon we travel.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Umgürte dich mit der Härte Khadiraholzes, leih dem Spandanaholze und dem Simsapaholze Kraft! Fest, festgemacht, bleibe fest, du Achse! Setz uns nicht auf der Fahrt ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hülle dich ein in das Mark der Saft-Akazie, setze in das Fuhrwerk die Kraft des Sisubaumes [çiṅçápāyāh zu lesen]; o festige dich, o feste, starke Achse; nicht lass uns hinabfallen von diesem Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Окружи себя твердостью (древесины) кхадира!  
 Придай силы (древесине) спандана, шиншапа!  

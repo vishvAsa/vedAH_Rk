@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ मे क꣡र्णा पतयतो वि꣡ च꣡क्षुर्  
 वी꣡दं꣡ ज्यो꣡तिर् हृ꣡दय आ꣡हितं य꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 किं꣡ स्विद् वक्ष्या꣡मि कि꣡म् उ नू꣡ मनिष्ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 वि । मे॒ । मनः॑ । च॒र॒ति॒ । दू॒रेऽआ॑धीः । किम् । स्वि॒त् । व॒क्ष्यामि॑ । किम् । ऊं॒ इति॑ । नु । म॒नि॒ष्ये॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -152,20 +152,20 @@ genre D
 वैश्वानरस्य रूपमिति **वक्ष्यामि** । **किमु** **नु** किमु खलु संप्रति **मनिष्ये** मनसा प्रपत्स्ये । वैश्वानरस्य गुणानामनन्तत्वात् मन्दप्रज्ञेन मया ज्ञातुं न शक्यत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “My ears are turned (to hear him), my eyes (to behold him); this light that is plural ced in the heart (seeks to know him); my mind, the receptable of distant (objects) hastens (towards him); what shall I declare him? How shall I comprehend him?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 My two ears fly widely, widely my sight, widely this light that was  deposited in my heart.  
 Widely goes my mind, my intentions at a distance. What shall I say, and  what now shall I think?
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
@@ -185,23 +185,23 @@ The two vss. are also contrastive. In 5 all the gods sharing the same mind and t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mine ears unclose to hear, mine eye to see him; the light that harbours in my spirit broadens.  
      Far roams my mind whose thoughts are in the distance. What shall I speak, what shall I now imagine?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Meine Ohren fliegen auf, mein Auge geht auf, es geht dieses Licht auf, das ins Herz gesetzt ist. Mein Gedanken schweift fort in die Ferne sinnend. Was soll ich wohl sagen, was soll ich wohl sinnen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf thun sich meine Ohren, auf mein Auge auf dieses Licht, das in mein Herz gesetzt ist; Vor dringt mein Geist nun in die Ferne schauend, was werd' ich sprechen, und woran gedenken?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Взлетают мои уши, вз(летает) взгляд,  
 Вз(летает) этот свет, что заложен в сердце.  

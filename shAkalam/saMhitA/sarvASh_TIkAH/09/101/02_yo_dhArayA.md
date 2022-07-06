@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ धा꣡रया पवाक꣡या+  
 परिप्रस्य꣡न्दते सुतः꣡  
 इ꣡न्दुर् अ꣡श्वो न꣡ कृ꣡त्वियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 इन्दुः॑ । अश्वः॑ । न । कृत्व्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -75,20 +75,20 @@ genre M
 **सुतः** अभिपुतः **कृत्व्यः** । कृत्वीति कर्मनाम । कर्मणि साधुः **यः** **इन्दुः** सोमः **पावकया** पापानां शोधयित्र्या **धारया** **परिप्रस्यन्दते** परितः प्रक्षरति । कथमिव । **अश्वो** **न** अश्वो यथा वेगेन प्रगच्छति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Indu** good for sacred rites which when effused flows forth in a purifying stream, (swift) as a horse.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What flows forth and around in a pure stream, the pressed  
 drop, like a horse that gets results,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Rather than making c a nominal main clause (with Geldner and Renou), I think it better to take the whole vs. as a rel. cl., dependent on tám, which opens the next vs. ### 03
 On the impossible word duróṣa(s)- see comm. ad VIII.1.13. This is the only one of its three occurrences where it qualifies soma, though in Avestan dūraošais only used of haoma. Geldner refuses to tr. (though he discusses it extensively in n. 3a); Renou ‘difficile à mouvoir’ (see his n. for disc.).
@@ -114,23 +114,23 @@ These two vss. are quoted in JB I.163 just after Indra’s use of our vs. 1 to k
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who with purifying stream, effused, comes flowing hitherward,  
      Indu, is like an able steed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ausgepreßt in sich klärendem Strom um und vorausläuft, der Saft ist wie ein den Sieg entscheidendes Pferd.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indu, der gekeltert rings im Flammenstrome vorwärts eilt, Gleich wie ein kraftbegabter Hengst,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, выжатый, кругами течет вперед  
 Очищающим потоком,  

@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ ये꣡ चृत꣡न्ति ऋता꣡ स꣡पन्त  
 आ꣡द् इ꣡द् व꣡सूनि प्र꣡ ववाचास्मै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 वि । ये । चृ॒तन्ति॑ । ऋ॒ता । सप॑न्तः । आत् । इत् । वसू॑नि । प्र । व॒वा॒च॒ । अ॒स्मै॒ै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -81,18 +81,18 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **यः** पुमान् **ईम्** एनं **गुहा** **भवन्तं** गुहायां सन्तमग्निं **चिकेत** जानाति । **यः** च **ऋतस्य** सत्यस्य यज्ञस्य वा **धारां** धारयितारमेनमग्निम् **आ** **ससाद** आसीदति उपास्ते इत्यर्थः । **ये** च **ऋता** ऋतानि सत्यानि यज्ञान् वा **सपन्तः** समवयन्तः स्पृशन्तो वा पुरुषा एतमग्निं **वि** **चृतन्ति** अग्निमुद्दिश्य स्तुतीर्ग्रथ्नन्ति कुर्वन्तीत्यर्थः । **आदित्** स्तुत्यनन्तरमेव **अस्मै** सर्वस्मै स्तोतृजनाय **वसूनि** धनानि **प्र** **ववाच** प्रकथयति ॥ चिकेत । ‘ कित ज्ञाने '। लिटि णलि लित्स्वरः । चृतन्ति । ‘चृती हिंसाग्रन्थनयोः' । तौदादिकः । लसार्वधातुकानुदात्तत्वे विकरणस्वरः शिष्यते । ववाच । लिटि ‘ब्रुवो वचिः । ‘ लिट्यभ्यासस्योभयेषाम् ' ( पा. सू. ६. १. १७ ) इति अभ्यासस्य संप्रसारणम् । ‘ संप्रसारणाच ' इति परपूर्वत्वस्य ' वा छन्दसि ' ( पा. सू. ६. १. १०६ ) इति विकल्पनात् यणादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who unbind (the fetters of deceit?), serving truths —  
 for him, because of this, he [=Agni] has proclaimed good things.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb ví … cṛntánti lacks an overt object, and several different ones have been proposed: Geldner (in n.) suggests it’s “the stream of truth” from 7d; Renou supplies “(l’énigme)”; and Witzel Gotō read ṛtā́with this verb as well as the participle sápantaḥ (“welche … die Ṛtas aufknoten, (sie) pflegend”). Since the other two occurrences of this root (impv. ví … cṛta I.25.21, ppl. vícṛtta-) are both construed with pā́śa- ‘fetter’, that seems the likely object here as well. More speculatively, on the basis of VII.59.8 druháḥ pā́śān ‘fetters of deceit’, I have supplied that whole phrase here, since ‘deceit’ contrasts nicely with the emphasis on ṛtá- ‘truth’.
 
@@ -111,27 +111,27 @@ clauses have singular rel. pronouns (yáḥ 71, 7c) and the pronoun in the main 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 वि ये चृ॒तन्त्यृ॒ता सप॑न्त॒ आदिद्वसू॑नि॒ प्र व॑वाचास्मै ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They who get him off, doing service to Rita, to him he then indicates riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 jeden der ihn entbindet, die Wahrheit pflegend,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer ihn erblickte, – der im Versteck lag, wer auf den Strom sich – des Opfers setzte, Und die ihn lösen – der Bräuche wartend, für die hat Güter – er stets verkündet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

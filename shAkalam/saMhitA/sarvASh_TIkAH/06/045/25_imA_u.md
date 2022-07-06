@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ उ त्वा शतक्रतो  
 अभि꣡ प्र꣡ णोनुवुर् गि꣡रः  
 इ꣡न्द्र वत्सं꣡ न꣡ मात꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑ । व॒त्सम् । न । मा॒तरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -91,20 +91,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **शतक्रतो** बहुविधकर्मन् बहुविधप्रज्ञ वा **इन्द्र** **त्वा** त्वाम् **अभि** **इमाः** अस्मदीयाः **गिरः** स्तुतयः **प्र** **णोनुवुः** प्रकर्षेण पुनः पुनर्गच्छन्ति । नौतिरत्र गतिकर्मा । तत्र दृष्टान्तः । **वत्सं** **न** **मातरः** । यथा मातरो गावो गृहे वर्तमानं वत्सं शीघ्रमभिगच्छन्ति तद्वत् । यद्वा । अस्मदीया वाचस्त्वाम्  अभि नोनुवुः अभितः शब्दयन्ति स्तुवन्ति । यथा गावो वत्समभिलक्ष्य हम्भारवं कुर्वन्ति  तद्वत् ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, performer of many exploits, these our praises repeatedly recur to you as parent (cows) to their young.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These songs bellow out again and again to you, o you of a hundred  resolves,  
 like mothers to their calf, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the intensive pf. nonuvuḥ see Schaeffer (45) and Kümmel (283).
 
@@ -119,23 +119,23 @@ There is no obvious unifying feature in this tṛca, though Indra is compared to
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra Satakratu, these our songs have called aloud to thee,  
      Like mother cows to meet their calves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Lobreden schrieen nach dir, du ratreicher Indra wie die Mutterkühe nach dem Kalb.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich rufen diese Lieder an, o Indra, hundertkräftiger, wie Kühe nach dem Kalbe schrein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот эти хвалебные,песни, о стоумный,  
 Зашумели тебе навстречу,  

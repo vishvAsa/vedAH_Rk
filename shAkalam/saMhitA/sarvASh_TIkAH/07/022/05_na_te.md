@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ ते गि꣡रो अ꣡पि मृष्ये तुर꣡स्य  
 न꣡ सुष्टुति꣡म् असुरि꣡यस्य विद्वा꣡न्  
 स꣡दा ते ना꣡म स्वयशो विवक्मि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सदा॑ । ते॒ । नाम॑ । स्व॒ऽय॒शः॒ । वि॒व॒क्मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -111,41 +111,41 @@ genre M
 हे इन्द्र **तुरस्य** शत्रूणां हिंसकस्य **ते** तव **गिरः** स्तुतीः **असुर्यस्य** । द्वितीयार्थे षष्ठी । त्वदीयमसुर्यं बलं **विद्वान्** जानन्नहं **न** **अपि** **मृष्ये** । मृषिर्मार्जनकर्मा । न मार्जयामि । न परित्यजामीत्यर्थः । **सुष्टुतिं** शोभनां स्तुतिं च **न** अपि मृष्ये। मृषेर्मार्जनकर्मत्वमन्यत्रापि दृश्यते । तद्यथा--' मा नो अग्ने सख्या पित्र्याणि प्र मर्षिष्ठाः' (ऋ. सं. १. ७१. १०) इति । किंतु **स्वयशः** असाधारणयशः **ते** तव **नाम** स्तोत्रं सदैव **विवक्मि** ब्रवीमि ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Knowing of your strength, I refrain not from the praise nor from the glorification of you, the destroyer (offoes), but ever proclaim your especial care.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I, a knowing (man), do not neglect the hymns for you, the surpassing  one, nor the good praise of your lordship:  
 always I keep pronouncing your name, self-glorious one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A nice example of the potential iterative-repetitive value of a reduplicated present (vivakmi) reinforced by an adverb (sádā ‘always’).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I know and ne'er forget the hymns and praises of thee, the Conqueror, and thy strength immortal.  
      Thy name I ever utter. Self-Refulgent
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht vergesse ich die Lobreden auf dich, den Höherstehenden, nicht den Lobpreis auf den Asurischen, ich der Kundige. Immer verkünde ich deinen Namen, du Selbstherrlicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Wissen nie versäum' ich deine Lieder, das schöne Lob des starken Himmelsgeistes, Selbstherrlicher, stets ruf' ich deinen Namen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не забуду я ни хвалебных песен для тебя, стремительного,  
 Ни прекрасной хвалы для (тебя,) асурского, я знаток.  

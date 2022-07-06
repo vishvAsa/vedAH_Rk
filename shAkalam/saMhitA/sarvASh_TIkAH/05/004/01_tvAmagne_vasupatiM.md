@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्ने व꣡सुपतिं व꣡सूनाम्  
 अभि꣡ प्र꣡ मन्दे अध्वरे꣡षु राजन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ ष्याम पृत्सुती꣡र् म꣡र्तियानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वया॑ । वाज॑म् । वा॒ज॒ऽयन्तः॑ । ज॒ये॒म॒ । अ॒भि । स्या॒म॒ । पृ॒त्सु॒तीः । मर्त्या॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -118,40 +118,40 @@ genre M
 हे **अग्ने** **वसूनां** **वसुपतिम्** । वृत्त्यवृत्तिभ्यां वसूनां बाहुल्यं तत्स्वामित्वं चोक्तम् । बहूनां धनानां स्वामिनं **त्वाम्** **अध्वरेषु** यागेषु **अभि** **प्र** **मन्दे** आभिमुख्येन स्तौमि हे **राजन्** । किंच **त्वया** अनुकूलेन वाजयन्तः अन्नमिच्छन्तो वयं **वाजं** **जयेम** । किंच **मर्त्यानां** मरणधर्मकाणां **पृत्सुतीः** सेनाः **अभि** **ष्याम** अभिभवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Royal **Agni**, I glorify at sacrifices you who are the lord of vast riches; may we who are in want of food obtain food through you, and (through you) may we overcome hosts of (hostile) men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In you, o Agni, goods-lord of goods, I find elation at the rites, o king. Through you we would win victory’s prize, racing to the prize. We would  prevail against the battle-charges of mortals.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O AGNI, King and Lord of wealth and treasures, in thee is my delight at sacrifices.  
      Through thee may we obtain the strength we long for, and overcome the fierce attacks of mortals.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, the treasure-lord of treasures, I gladden at the sacrifices, O king! May we, striving for gain, conquer gain through thee; may we overcome the hostilities of mortals.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dir, Agni, pilgere ich, zu dem Herrn der Schätze, du König über die Opfer. Mit dir wollen wir als Preiskämpfer den Preis gewinnen und die Angriffe der Sterblichen bestehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni dich, den Güterherrn der Güter, erfreue ich, o König, bei den Festen, Lass beutelust'ge uns erringen Beute, bewält'gen uns der Menschen wilden Andrang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, при виде тебя, господина благ,  
 Я радуюсь во время обрядов, о царь.  

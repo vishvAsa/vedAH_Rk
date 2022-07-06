@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡यव् आ꣡ याहि वीत꣡ये  
 जुषाणो꣡ हव्य꣡दातये  
 पि꣡बा सुत꣡स्य अ꣡न्धसो अभि꣡ प्र꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 पिब॑ । सु॒तस्य॑ । अन्ध॑सः । अ॒भि । प्रयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāyav* ← *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
@@ -89,41 +89,41 @@ genre M;; line affected by realignment
 हे **वायो** **प्रयः** अन्नं सोमाख्यम् **अभि** अभिलक्ष्य **आ** **याहि** **वीतये** भक्षणाय **जुषाणः** श्रीयमाणः **हव्यदातये** हविर्दात्रे यजमानाय तदर्थम् । आगत्य च **सुतस्यान्धसः** अभिषुतमन्धोऽन्नं सोमलक्षणं **पिब** ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Vāyu**, propitious to the offerer of the libation, to partake of the sacrificial food, and drink of the effused juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vāyu, relishing (them), drive hither to pursue (the oblations), for the  giving of oblations.  
 Drink of the pressed stalk to your satisfaction.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. begins the second hymn in this conglomeration. Note that it repeats pāda-final havyádātaye from 1c, and the infinitive at the end of its first pāda, vītáye, rhymes with pītáye at the end of 1a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vayu, come hither to the feast, wellpleased unto our sacred gifts:  
      Drink of the Soma juice effused come to the food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vayu! Komm zum Genuß, gern zur Opferausteilung! Trink vom ausgepreßten Trank zur Labung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Vaju komm zum Mahle her, zur Opferspende recht erfreut, Vom ausgepressten Safte trink, – dir zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваю, приходи на приглашение,  
 Наслаждаясь, для раздачи жертвоприношения!  

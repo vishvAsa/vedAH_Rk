@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ ते अग्न उक्थइ꣡र् विधेम  
 वयं꣡ हव्यइः꣡ पवाक+ भद्रशोचे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ वि꣡श्वानि द्र꣡विणानि धेहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मे इति॑ । र॒यिम् । वि॒श्वऽवा॑रम् । सम् । इ॒न्व॒ । अ॒स्मे इति॑ । विश्वा॑नि । द्रवि॑णानि । धे॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -128,41 +128,41 @@ genre M
 हे **अग्ने** **ते** त्वां **वयम्** **उक्थैः** शस्त्रैः **विधेम** परिचरेम । **वयं** **हव्यैः** हविर्भिर्विधेम । **पावक** शोधक हे **भद्रशोचे** कल्याणदीप्ते **अस्मे** अस्मभ्यं **विश्ववारं** विश्वैर्वरणीयं **रयिं** धनं **समिन्व** प्रापय। **अस्मे** अस्मभ्यं **विश्वानि** **द्रविणानि** **धेहि** स्थापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We worship you, **Agni**, with hymns; we (worship you), purifier, and of auspicious lustre, with oblations; bestow upon us all desired riches; bestow upon us all sorts of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would do you honor, o Agni, with our recitations; we, with our  oblations, o pure one of auspicious flame.  
 For us speed wealth that fulfills all wishes; for us grant all goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we, O Agni, with our lauds adore thee, and with our gifts, fair-beaming Purifier!  
      Send to us wealth containing all things precious: bestow upon us every sort of riches.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May we worship thee, O Agni, with hymns, with offerings, O purifier with glorious light. Stir for us wealth with all goods; bestow on us all riches!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen dir, Agni, mit Liedern huldigen, wir mit Opfergaben, du Lauterer von wohltätiger Glut. Bring uns allbegehrten Reichtum zu, verschaff uns alle Güter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir huldigen mit Sprüchen dir, o Agni, mit Opfern dir, der glänzendhell du strahlest; Uns sende Reichthum zu mit allen Gaben, uns schenke alle Habe, allen Hausrath.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим, о Агни, почитать тебя гимнами,  
 Мы – жертвенными возлияниями, о чистый с блеском, приносящим счастье!  

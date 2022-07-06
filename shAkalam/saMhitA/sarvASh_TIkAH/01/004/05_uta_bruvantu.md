@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ ब्रुवन्तु नो नि꣡दो  
 नि꣡र् अन्य꣡तश् चिद् आरत  
 द꣡धाना इ꣡न्द्र इ꣡द् दु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दधा॑नाः । इन्द्रे॑ । इत् । दुवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **नः** अस्माकं संबन्धिन ऋत्विज इति शेषः । ते **ब्रुवन्तु** इन्द्रं स्तुवन्तु । **उत** अपि च हे **निदः** निन्दितारः पुरुषाः **निः** **आरत** इतो देशान्निर्गच्छत । **अन्यतश्चित्** अन्यस्मादपि देशान्निर्गच्छत । कीदृशा ऋत्विजः । **इन्द्रे** **दुवः** परिचर्या **दधानाः** कुर्वाणाः । इच्छब्दोऽवधारणे । सर्वदा परिचर्यां कुर्वन्त एव तिष्ठन्त्वित्यर्थः ॥ निन्दन्तीति निदः । ‘णिदि कुत्सायाम् । क्विपि नुमभावश्छान्दसः । सुपोऽनुदात्तत्वात् धातुस्वरः । आमन्त्रितत्वेऽपि वाक्यान्तरत्वेन स्ववाक्यगतपदादपरत्वात् न निघात इत्याद्युदात्तत्वमेव । अन्यतः । ‘लिति' इति प्रत्ययात्पूर्वस्योदात्तत्वम् । चित् इति अपिशब्दार्थे। तेन न केवलमितः, इतो निर्गत्यान्यतोऽपि निर्गच्छतेति गम्यते । स एष धात्वर्थयोः संबन्धः आरत इति लुङा द्योत्यते । स हि धातुसंबन्धाधिकारे विधीयते । आरत । अर्तेः ‘छन्दसि लुङ्लङलिटः ' (पा. सू. ३. ४. ६ ) इति लोडर्थे लुङ् । मध्यमबहुवचनस्य तादेशः ।' सर्तिशास्त्यर्तिभ्यश्च' ( पा. सू. ३. १. ५६ ) इति च्लेरङादेशः । 'ऋदृशोऽङि गुणः' (पा. सू. ७. ४. १६ ) इति गुणः । आडागमः । दधानाः । शानचश्चित्त्वात् प्राप्तमन्तोदात्तं बाधित्वा परत्वात् ‘अभ्यस्तानामादिः ' (पा. सू. ६. १. १८९) इत्याद्युदात्तत्वम् । दुवः । नब्विषयस्यानिसन्तस्य ' ( फि. सू. २६ ) इत्याद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,29 +102,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Bruvantu = let them say, hence, let them praise **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And let scorners say to us, “You have missed out on the rest  
 in placing your friendship in Indra alone.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Agni, sapient-minded Priest, truthful, most gloriously great,  
    The God, come hither with the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mögen doch unsere Tadler sagen: "Ihr habt euch um alles andere gebracht, indem ihr nur für Indra euch ereifert";
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mag spottend sagen unser Feind: "Kein andrer kümmert sich um sie; Drum feiern Indra sie allein."
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И пусть хулители наши говорят:  
 А другого-то вы лишились,  

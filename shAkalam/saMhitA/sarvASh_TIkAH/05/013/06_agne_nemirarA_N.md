@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने नेमि꣡र् अराँ꣡ इव  
 देवां꣡स् त्व꣡म् परिभू꣡र् असि  
 आ꣡ रा꣡धश् चित्र꣡म् ऋञ्जसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 आ । राधः॑ । चि॒त्रम् । ऋ॒ञ्ज॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -91,40 +91,40 @@ genre M
 हे **अग्ने** **त्वं** **देवान्** **परिभूरसि** । स्वतेजसा परिभवसि । कथमिव । **नेमिः** प्रकाशमानः चक्रस्य बाह्यो वलयः **अरानिव** नाभावर्पितान् सूक्ष्मान् स्थासकानिव। किंच त्वं **चित्रं** नानाविधं **राधः** । राध्नुवन्ति साधयन्त्यनेन पुरुषार्थानिति राधो धनम् । **आ** **ऋञ्जसे** । स्तोतृभ्यः प्रसाधय । धननामसु पाठात् ‘राधो धनम्' इत्युक्तम् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, you encompass the gods as the circumference (surrounds) the spokes (of a wheel); bestow manifold wealth upon us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, like a rim the spokes, you surround the gods.  
 I reach toward your shimmering generosity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou Agni, as the felly rings the spokes, encompassest the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni! Thou encompassest the gods as the felly (encompasses) the spokes (of a wheel). Thou strivest 1 for brilliant wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Wie die Felge die Speichen so umfängst du die Götter. Ich trage nach ansehnlicher Belohnung Verlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Speichen rings des Rades Kranz, umfängst die Götter, Agni, du; Mir wünsch' ich glänzend Gut herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, словно обод – спицы (колеса),  
 Ты охватываешь богов.  

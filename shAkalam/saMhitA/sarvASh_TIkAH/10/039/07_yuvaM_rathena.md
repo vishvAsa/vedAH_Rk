@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ र꣡थेन विमदा꣡य शुन्ध्यु꣡वं  
 नि꣡ ऊहथुः पुरुमित्र꣡स्य यो꣡षणाम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 युवं꣡ सु꣡षुतिं चक्रथुः पु꣡रंधये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒वम् । हव॑म् । व॒ध्रि॒ऽम॒त्याः । अ॒ग॒च्छ॒त॒म् । यु॒वम् । सुऽसु॑तिम् । च॒क्र॒थुः॒ । पुर॑म्ऽधये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
@@ -114,7 +114,7 @@ genre M
 हे अश्विनौ **युवं** युवां **पुरुमित्रस्य** पुरुमित्रनामधेयस्य **योषणां** दुहितरं **शुन्ध्युवं** नाम जायां **विमदाय** विमदनामधेयाय ऋषये **रथेन** स्वसेनापरिवृतेन रथेन **न्यूहथुः** प्रापयतम् । विमदस्य गृहं नीतवन्तौ स्थ इत्यर्थः। तथा च निगमान्तरं  --' यावर्भगाय विमदाय जायां सेनाजुवा न्यूहतू रथेन ' ( ऋ. सं. १, ११६. १) इति । किंच **युवं** युवां **वध्रिमत्याः** संग्रामे शत्रुभिश्छिन्नहस्तायाः **हवम्** आह्वानम् **अगच्छतम्** । आगत्य च तस्यै हिरण्मयं हस्तं प्रायच्छतम् । तथा च निगमान्तरम् ---' अजोहवीन्नासत्या करा वां महे यामन् पुरुभुजा पुरंधिः । श्रुतं तच्छासुरिव वध्रिमत्या हिरण्यहस्तमश्विनावदत्तम् ' ( ऋ. सं. १. ११६. १३ ) इति । किंच **युवं** युवां **पुरंधये** बहुप्रज्ञायै वध्रिमत्यै **सुषुतिं** सुप्रसवं शोभनमैश्वर्यं वा **चक्रथुः** कृतवन्तौ स्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ genre M
 Śundhyu: the **Aśvins** heardher invocation in battle when her **hand** was cut off and gave her a golden hand
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two with your chariot carried down to Vimada the sleek maiden of  Purumitra (to be his wife).  
 You two came to the call of Vadhrimatī. You two made an easy birth  for Puraṃdhi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, mounted on your chariot brought to Vimada the comely maid of Purumitra as a bride.  
      Ye, came unto the calling of the weakling's dame, and granted noble offspring to the happy wife.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr führet zu Wagen dem Vimada die Sundhyu zu, des Purumitra Maid. Ihr kamet auf der Vadhrimati Ruf, ihr schafftet der Purandhi leichte Geburt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf eurem Wagen fuhret ihr dem Vimada als Gattin zu des Purumitra schmucke Maid; Zur Frau des Schwächlings kamt ihr hin auf ihr Gebet und schenktet der Purandhi glückliche Geburt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы привезли на колеснице для Вимады  
 Шундхью – девицу Пурумитры.  

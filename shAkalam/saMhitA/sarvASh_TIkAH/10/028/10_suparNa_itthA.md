@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुपर्ण꣡ इत्था꣡ नख꣡म् आ꣡ सिषाय  
 अ꣡वरुद्धः परिप꣡दं न꣡ सिंहः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गोधा꣡ त꣡स्मा अय꣡थं कर्षद् एत꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 नि॒ऽरु॒द्धः । चि॒त् । म॒हि॒षः । त॒र्ष्याऽवा॑न् । गो॒धा । तस्मै॑ । अ॒यथ॑म् । क॒र्ष॒त् । ए॒तत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suparṇa* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
@@ -116,7 +116,7 @@ popular
 **सुपर्णः** पक्षिरूपा गायत्री **इत्था** अमुत्र द्युलोके **नखम्** आत्मीयम् आ **सिषाय** सोमाहरणकाल इन्द्रार्थमाबबन्ध । इन्द्रस्य प्रसादाद्दिवि पदं न्यस्तवतीत्यर्थः। तत्र दृष्टान्तः। **अवरुद्धः** पञ्जरेणावृतः परिवेष्टितः **सिंहः** **परिपदं** न यथा करस्योपरि सर्वतः पादमवबध्नाति । किंच। **चित्** इत्युपमार्थे । यथा केनापि बद्धपादो **निरुद्धः** **महिषः** **तर्ष्यावान्** उदकाभावे तृषावान्भवति एवमिन्द्रः समाहरणात्पूर्वं सोमाभावे तृषितवानभूदिति शेषः । **तस्मै** । तादर्थ्ये चतुर्थी । तादृशस्य तृषितस्येन्द्रस्यार्थं **गोधा** । गमयति वर्णानिति गौर्वाक् तन्न निधीयमानत्वात् गायत्री गोधा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,28 +127,28 @@ popular
 Allusion to the bringinf of the Soma from heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The eagle caught its talon just so, like a lion entrapped into a snare. The buffalo also got trapped, when it was thirsty. The monitor-lizard  plowed this way for him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 There hath the strong-winged eagle left his talon, as a snared lion leaves the trap that caught him.  
      Even the wild steer in his thirst is captured: the leather strap still holds his foot entangled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Adler hat auf diese Weise seine Kralle verstrickt, gefangen wie ein in die Fußschlinge geratener Löwe. Eingefangen wurde selbst der Büffel, da er Durst hatte. Ein Krokodil wird ihm dann das Bein wegschleppen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Adler auch verwickelt seine Kralle, gefangen wie der Löwe in der Falle, Zurückgehalten wird der durst'ge Büffel ihm hält der Riemen seinen Fuss gefangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Орел, таким образом, запутался когтями,  
 Пойманный, как лев в западню.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡कस्या व꣡स्तोर् आवतं र꣡णाय  
 व꣡शम् अश्विना सन꣡ये सह꣡स्रा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृथुश्र꣡वसो वृषणाव् अ꣡रातीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 निः । अ॒ह॒त॒म् । दु॒च्छुनाः॑ । इन्द्र॑ऽवन्ता । पृ॒थु॒ऽश्रव॑सः । वृ॒ष॒णौ॒ । अरा॑तीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekasyā* ← *ekasyāḥ* ← *eka*
 - \[noun\], genitive, singular, feminine
@@ -106,7 +106,7 @@ genre M
 इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,28 +117,28 @@ genre M
 Vaśa, a ṛṣi, received daily presents to the number of one thousand
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the dawning of a single (dawn), Aśvins, you gave Vaśa the help  (needed) for the battle in order for him to gain thousands (of cattle). Along with Indra you two smashed misfortunes and hostilities away  from Pr̥thuśravas, o bulls.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One morn ye strengthened Vasa for the battle, to gather spoils that might be told in thousands.  
      With Indra joined ye drove away misfortunes, yea foes of Prthusravas, O ye mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Asvin standet dem Vasa zum Kampfe bei, daß er an einem Morgen Tausende gewann. Von Indra begleitet wehret ihr das Unheil, die Feindseligkeiten von Prithusravas ab, ihr Bullen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An einem Morgen halft zum Sieg, o Ritter, dem Vaça ihr zu tausendfacher Beute; Vereint mit Indra triebt ihr fort das Unheil, des weitberühmten Feinde, o ihr Stiere.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы помогли Ваше, о Ашвины, сражаться,  
 Чтобы завоевать тысячи за одно утро.  

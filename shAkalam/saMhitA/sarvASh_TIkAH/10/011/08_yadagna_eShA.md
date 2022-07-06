@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अग्न एषा꣡ स꣡मितिर् भ꣡वाति  
 देवी꣡ देवे꣡षु यजता꣡ यजत्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भागं꣡ नो अ꣡त्र व꣡सुमन्तं वीतात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 रत्ना॑ । च॒ । यत् । वि॒ऽभजा॑सि । स्व॒धा॒ऽवः॒ । भा॒गम् । नः॒ । अत्र॑ । वसु॑ऽमन्तम् । वी॒ता॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre D
 हे **यजत्र** यष्टव्य **अग्ने** **यत्** यदा **एषा** समितिः अस्मत्कर्तृका स्तुतिसंहतिः **यजता** यजतेषु यष्टव्येषु **देवेषु** मध्ये **देवी** द्योतमाना **भवाति** । यष्टव्या देवा अस्माभिः स्तूयन्त इज्यन्ते चेत्यर्थः। हे **स्वधावः** हविर्लक्षणान्नवन्नग्ने त्वं **यत्** यदा **रत्ना** **च** रत्नानि रमणीयानि धनानि स्तोतृभ्यो यष्टृभ्यश्च **विभजासि** विभजसि **अत्र** तदानीं तथा **नः** अस्मान् प्रति **वसुमन्तं** धनवन्तं नानाधनावयवभूतं **भागम्** अंशं **वीतात्** । वी गत्यादिषु। ‘तुह्योस्तातङ्ङाशिष्यन्यतरस्याम् (पा. सू. ७. १. ३५) इति हेः स्थाने तातङ् । अन्तर्णीतण्यर्थश्चात्र द्रष्टव्यः । वयय आगमय । अस्मभ्यं प्रयच्छेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ genre D
 The daughters of the divine: devaputre = **devasya** prajāpater duhitārau; or, they whohave the gods for progeny
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Agni, this assembly will become godly among the gods, a  sacrificial one, o sacrificial one,  
 and when you will share out treasures, o you of independent will, then  pursue a share for us rich in goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Holy Agni, the divine assembly, the sacred synod mid the Gods, is gathered,  
      And when thou, Godlike One, dealest forth treasures, vouchsafe us, too, our portion of the riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn, o Agni, diese göttliche Versammlung unter den Göttern stattfinden wird, die verehrungswürdige, o Verehrungswürdiger, und wenn du die Belohnungen verteilen wirst, du Selbstherrlicher, so sollst du da für uns einen güterreichen Anteil ausbitten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn sich vollzieht die göttliche Versammlung bei Göttern, Agni, heiliger, die heil'ge, Und wenn die Schätze, herrlicher, du austheilst, so schenke hier uns güterreichen Antheil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Агни, будет собрание  
 Божественное среди богов, достойное жертв, о достойный жертв,  

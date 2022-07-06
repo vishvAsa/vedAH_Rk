@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ न इ꣡न्द्रः शिवः꣡ स꣡खा  
 अ꣡श्वावद् गो꣡मद् य꣡वमत्  
 उरु꣡धारेव दोहते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒रुधा॑राऽइव । दो॒ह॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -90,41 +90,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सः** पूर्वोक्तलक्षणः **शिवः** कल्याणतमः **सखा** यष्टृयष्टव्यस्तोतृस्तुत्यलक्षणेन संबन्धेनास्माकं मित्रभूतः एतादृशः **इन्द्रः** **अश्ववत्** अश्वयुक्तं **गोमत्** पश्वादिसहितं **यवमत्** ।  ‘ अयवादिभ्यः' (पा. सू. ८. २. ९) इति प्रतिषेधान्मतुपो वत्वाभावः । यव इति धान्यविशेषः । धान्ययुक्तं धनं **नः** अस्मभ्यं **दोहते** दोग्धु ददातु। तत्र दृष्टान्तः । **उरुधारेव** । दोहनकाले प्रभूतपयोधारा यद्वा बहूनां पोषयित्री गौर्यथा वत्सस्य पयो दोग्धि तथा प्रभूतं धनमस्माकं दोग्धु ददातु । दुहेर्लेट्यडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, our auspicious friend, milk for us, like a richly-streaming (cow), wealth of horses, kine andbarley.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That Indra, propitious companion, will milk out for us (wealth) in  horses, in cows, in grain,  
 like (a cow) yielding a broad stream.1194 VIII.93
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Slight phonetic figure: sá … śiváḥ sákhā, áśvāvad …
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Indra is our gracious Friend. He sends us in a full broad stream  
      Riches in horses, kine, and corn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser liebe Freund Indra möge uns eine Menge Rosse, Rinder, Korn milchen wie eine breitstrahlige Kuh die Milch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra, ergiesst als holder Freund, wie eine Kuh, die reichlich strömt, Uns Gut an Gerste, Ross und Rind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

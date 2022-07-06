@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡ उक्था꣡य प꣡र्वतस्य ग꣡र्भो  
 मही꣡नां᳐ जनु꣡षे पूर्विया꣡य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आवि꣡वासन्तो दसयन्त भू꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि । पर्व॑तः । जिही॑त । साध॑त । द्यौः । आ॒ऽविवा॑सन्तः । द॒स॒य॒न्त॒ । भूम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, neuter
@@ -103,7 +103,7 @@ genre M
 **अस्मै** मह्यम् **उक्थाय** स्तोत्रे **पर्वतस्य** पर्ववतो मेघस्य **गर्भः** गर्भस्थानीयमुदकं **जिहीत** चलति । चालयति वेन्द्रः । कीदृशायास्मै । **महीनां** महतीनां स्तुतीनां **जनुषे** उत्पादयित्रे **पूर्व्याय** प्रत्नाय । तदेव पुनरुच्यते । **पर्वतः** मेघः **वि** जिहीत । **द्यौः** च **साधत** साधयति वृष्टिम् । **आविवासन्तः** सर्वतः परिचरन्तोऽङ्गिारसः **भूम** अत्यधिकं **दसयन्त** उपक्षपयन्यात्मानं कर्मभिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,13 +114,13 @@ genre M
 Ancient author of sacred songs: mahīnām januṣe pūrvyāya = stūtinām utpādayitre pratnayā, to an ancient begetter or producer of praises; the cloud = the mountain, **parvata**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In response to this hymn here the womb of the mountain (gapes open)  for the primordial birth of the great ones [=dawns].  
 The mountain gapes open; heaven achieves success; desiring to win the  earth, they [=poets/Aṅgirases] exhaust themselves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. describes dawn as happening in response to and as a result of the hymn recited at this very moment (hence asmaí) at the dawn sacrifice. The two heavy dative phrases, polarized at both ends of the first hemistich, asmā́ukthā́ya and janúṣe pūrvyā́ya, have different functions in the clause. The gaping mountain is an allusion to the opening of the Vala cave, metaphorically applied to the advent of dawn from the night darkness.
 
@@ -129,23 +129,23 @@ In the second hemistich, in c “heaven achieves success” must, in my view, al
 Supplying ‘poets’ as subj. generally follows Hoffmann, who thinks esp. of the Aṅgirases (174 n. 126), contra Geldner, who takes bhū́ma as subj. (sim. Lüders). On dasayanta, see my -áya-Formations, p. 59. Some take the verb rather to √daṃs ‘work wonders’; see esp. Thieme (loc. cit., n. 7), fld. by Schmidt, Witzel Gotō. This cannot be excluded, but I find the ‘exhaust’ meaning more poetic compelling.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This laud hath won the burden of the mountain. To aid the ancient birth of mighty waters  
      The mountain parted, Heaven performed his office. The worshippers were worn with constant serving.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vor diesem Loblied tat sich der Schoß des Berges auf zur ersten Geburt der großen Morgenröten. Der Berg tat sich auf, der Himmel ward hergestellt, die Erden erschöpfen sich in Worten, um ihn herzubitten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für diesen Spruch eröffne sich des Berges, der grossen Fluten Schooss dem alten Stamme, Der Wolkenberg; sein Ziel erreich' der Himmel, und die Verehrer beuten aus die Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Перед этим гимном (разверзлись) недра горы  
 Для первого рождения великих (зорь).  

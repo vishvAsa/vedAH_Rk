@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्रम् पिबा म꣡धूनां᳐  
 सुतं꣡ वायो दि꣡विष्टिषु  
 तुवं꣡ हि꣡ पूर्वपा꣡ अ꣡सि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 त्वम् । हि । पू॒र्व॒ऽपाः । असि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agram* ← *agra*
 - \[noun\], accusative, singular, neuter
@@ -88,7 +88,7 @@ genre M
 हे **वायो** त्वम् **अग्रम्** इन्द्रादिभ्यः पूर्वं **मधूनां** मधुररसानां सोमानां संबन्धिनं **सुतम्** अभिषुतं रसं **पिब** । कुत्रेति तदुच्यते । **दिविष्टिषु** दिवः स्वर्गस्य प्रापकेषु यज्ञेषु ।यद्वा । अस्माकं दिवः स्वर्गस्यैषणेषु निमित्तेषु । **त्वं** **हि** त्वं खलु **पूर्वपा** **असि** । हिशब्दः ‘देव दधिषे पूर्वपेयम्' (ऋ. सं. ७, ९२. १ ) इत्यादिमन्त्रान्तरप्रसिद्धिद्योतनार्थः । वायोरग्रपानं देवा वै सोमस्य राज्ञोऽग्रपेये न समपादयन्नहं प्रथमः पिबेयम् ' ( ऐ. ब्रा. २. २५) इत्यादिब्राह्मणे स्पष्टमाम्नातम् । तत्र हि वायुराजिं प्रथमं धावित्वाग्रपानं लब्धवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,13 +99,13 @@ genre M
 Drink first, **pūrva** pā: **deva** dadhiṣe pūrvapeyam (RV. 7.92.1); **prathamaḥ** pibeyam (**Aitareya** **Brāhmaṇa** 2.25)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink the foremost of the honeys, the pressed (soma), o Vāyu, at the  rituals of daybreak,  
 for you are the first drinker.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since Vāyu has the first drink of soma to himself, it is appropriate that only he is called on in this vs. ### 02
 This vs. provides the transition between Vāyu as sole drinker and Vāyu and Indra as joint drinkers. Because the nominatives in b, niyútvām̐índrasārathiḥ, are singular, it seems best, with Geldner, Renou, to supply a sg. impv. ‘come’ (vel sim.) for ab.
@@ -113,23 +113,23 @@ This vs. provides the transition between Vāyu as sole drinker and Vāyu and Ind
 The dual verb tṛmpatam in c has of course Vāyu and Indra as its subjects; Indra can be extracted from the cmpd. índrasārathiḥ in b, and the voc. vā́yo in c is in effect a truncated Vāyav Indraś ca construction. This construction is nonetheless avoided in the rest of the hymn: vss. 3-7 all contain the dual dvandva voc. índravāyū. Note that this stem never appears as the more “correct” *índrā-vāyū́with dual first member. I have no idea why.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 DRINK the best draught of Soma-juice, O Vayu, at our holy rites:  
      For thou art he who drinketh first.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink, Vayu, die Blume der süßen Tränke, die bei den Morgenopfern gepreßte, denn du bist der Ersttrinker!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O trink der süssen Tränke Seim; den Saft, o Vaju, bei dem Fest; Denn dir gebührt der erste Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей лучший из сладких (соков),  
 Выжатый, о Ваю, на жертвоприношениях, ищущих неба!  

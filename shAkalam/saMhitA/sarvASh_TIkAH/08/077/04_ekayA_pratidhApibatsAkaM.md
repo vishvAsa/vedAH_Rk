@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡कया प्रतिधा꣡पिबत्  
 साकं꣡ स꣡रांसि त्रिंश꣡तम्  
 इ꣡न्द्रः सो꣡मस्य काणुका꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 इन्द्रः॑ । सोम॑स्य । का॒णु॒का ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekayā* ← *eka*
 - \[noun\], instrumental, singular, feminine
@@ -77,7 +77,7 @@ genre M
 अयम् **इन्द्रः** **एकया** एकेन **प्रतिधा** प्रतिधानेन **साकम्** एकधैव **त्रिंशतम्** अपि । उक्थपात्राणीत्यर्थः । कीदृशानि । **सरांसि** **सोमस्य** पूर्णानि सोमरसेन पूर्णानि **काणुका** कान्तानि क्रान्तानि वा सोमेन कृतानि वा सोमपूर्णानि **अपिबत्** पीतवान् माध्यंदिनसवने । याज्ञिकप्रसिद्ध्यैवम् । नैरुक्तप्रसिद्ध्या तु कालाभिमानीन्द्रः । त्रिंशदपरपक्षस्याहोरात्रास्त्रिंशत् पूर्वपक्षस्य च सन्ति । तानेकरूपमनुभवतीति । एतत्सर्वम् ‘एकेन प्रतिधानेनापिबत्' (निरु. ५. ११) इत्यादिनिरुक्ते तद्व्याख्याने च स्पष्टमुक्तम् । तदत्र द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,13 +88,13 @@ genre M
 **Nirukta**, 5.11: a ference to the thirtyuktha vessels presented at the mid-day offering (yajñikāḥ); the nairuktāḥ imply this as a reference to thefifteen days and nights in which the collected light of the moon is gradually absorbed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At one shot he drank thirty ponds at once,  
 hogsheads [?] of soma—(did) Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax pratidhā́- is connected by Grassmann to √dhā ‘suck(le)’, presumably because of the soma-drinking context. But I take it rather to √dhā ‘place’ (so also Scarlatta, though with different semantics). The lexeme práti √dhā means ‘set (an arrow on a bow), aim’, and from ‘aim’ to ‘shot’ seems an easy semantic path. Consider also English ‘shot’ for a quickly downed drink. That a bow and arrows figure in the Emuṣa myth (see vss. 6-7) may support this derivation.
 
@@ -115,23 +115,23 @@ The name índraḥ is identically positioned in all three verses of this tṛca,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then Indra at a single draught drank the contents of thirty pails,  
      Pails that were filled with Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit einem einzigen Ansatz trank auf einmal dreißig Seen aus, voll des Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In einem Zuge trank er dann wol dreissig Seen auf einmal, Die Somaschalen Indra aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В один глоток Индра  
 Выпил сразу триста  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡प्रं वि꣡प्रासो अ꣡वसे  
 देव꣡म् म꣡र्तास ऊत꣡ये  
 अग्निं꣡ गीर्भि꣡र् हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्निम् । गीः॒ऽभिः । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विप्रासः** मेधाविनः **मर्तासः** मर्ता मनुष्या वयं **विप्रं** मेधाविनं **देवं** दानादिगुणयुक्तम् **अग्निम्** **अवसे** हविर्भिस्तर्पयितुम् **ऊतये** अस्माकं रक्षणार्थं च **गीर्भिः** स्तुतिभिः **हवामहे** आह्वयामहे ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Prudent mortals, we invoke the sage deity **Agni** with hymns to propitiate him for our protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We inspired poets call upon the inspired one for help, we mortals upon  the god for aid,  
 upon Agni with our hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sages, we call the Sage to help, mortals, we call the God to aid:  
      We call on Agni with our songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir Redekundigen rufen den Redekundigen zum Beistand, wir Sterblichen den Gott zur Hilfe, den Agni mit Lobreden an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Liedern rufen Agni wir, den Sänger wir, die Sänger, her, Zum Schutz den Gott wir Sterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вдохновенного – вдохновенные на помощь,  
 Бога – смертные для поддержки,  

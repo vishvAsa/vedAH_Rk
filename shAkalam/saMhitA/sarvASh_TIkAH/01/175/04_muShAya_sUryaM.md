@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मुषाय꣡ सू꣡रियं कवे  
 चक्र꣡म् ई꣡शान ओ꣡जसा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 कु꣡त्सं वा᳐꣡तस्य अ꣡श्वैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वह॑ । शुष्णा॑य । व॒धम् । कुत्स॑म् । वात॑स्य । अश्वैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *muṣāya* ← *muṣāy* ← *√muṣ*
 - \[verb\], singular, Present imperative
@@ -95,7 +95,7 @@ genre M
 हे **कवे** क्रान्तदर्शिन्निन्द्र **ईशानः** समर्थः सन् **सूर्यं** सूर्यस्य ॥ ‘सुपां सुपो भवन्ति । इति षष्ठ्येकवचनस्य द्वितीयैकवचनादेशः ॥ तत्संबन्धि **चक्रम्** एकम् **ओजसा** बलेन सामर्थ्यातिशयेन **मुषाय** अमुष्णाः ॥ ‘छन्दसि शायजपि ' इति शायजादेशः ॥ पूर्वं सूर्यरथस्य चक्रद्वयमस्ति एकमिन्द्रो मुमुष इतीतिहासः । तथा च मन्त्रान्तरं-' प्रान्यच्चक्रमवृहः सूर्यस्य कुत्सायान्यत् ' ( ऋ. सं. ५. २९, १०) इति । किंच **शुष्णाय** एतन्नामकायासुराय तद्वधार्थम् । द्वितीयार्थे वा चतुर्थी । शुष्णं हन्तुमित्यर्थः । **कुत्सं** कर्तनसाधनं **वधं** वज्रं **वातस्य** वायोः **अश्वैः** वायुवेगैर्वाश्वैर्युक्तः सन् **वह** अवहः शुष्णं हन्तुं वज्रमधारयः । यद्वा । शुष्णवधाय वज्रमवहः । तं च हत्वा तदीयैर्वायुवेगैरश्वैस्तदुपलक्षितैस्तदीयैर्धनैः कुत्सं महर्षिमगमः शुष्णासुरधनं कुत्सायादा इत्यर्थः । तथा चान्यत्र ‘त्वं कुत्सं शुष्णहत्येष्वाविथ ' ( ऋ. सं. १. ५१. ६ ), ' कुत्साय शुष्णमशुषम् ' (ऋ. सं. ४. १६. १२ ) इत्यादीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,34 +106,34 @@ genre M
 Kutsa = thunderbolt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Steal the wheel from the Sun, o poet, showing mastery with your  strength.  
 Convey Kutsa, bane for Śuṣṇa, with the horses of the Wind.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the poet (kave) addressed here is surely Uśanā Kāvya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Empowered by thine own might, O Sage, thou stolest Surya's chariot wheel.  
      Thou barest Kutsa with the steeds of Wind to Susna as his death.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Raube der Sonne das Rad, o Kavi, der du das durch deine Kraft vermagst. Fahre den Tod für Susna, den Kutsa, mit den Rossen des Vata!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O weiser, hüll die Sonne ein, das Rad, der du mit Macht gebeust, Auf Çuschna lenke das Geschoss, den Kutsa fahr mit Windgespann.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отними колесо у солнца,  
 О поэт, владея силой!  

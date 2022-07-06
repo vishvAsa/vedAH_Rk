@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वाम् अ꣡श्वासो अभिमातिषा꣡ह  
 इ꣡न्द्राविष्णू सधमा꣡दो वहन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡प ब्र꣡ह्माणि शृणुतं गि꣡रो मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 जु॒षेथा॑म् । विश्वा॑ । हव॑ना । म॒ती॒नाम् । उप॑ । ब्रह्मा॑णि । शृ॒णु॒त॒म् । गिरः॑ । मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -108,37 +108,37 @@ genre M
 हे **इन्द्राविष्णू** **वां** युवाम् **अभिमातिषाहः** अभिमातीनां हिंसकानामभिभवितारः **सधमादः** सह माद्यन्तः **अश्वासः** अश्वाः **आ** **वहन्तु** । **मतीनां** स्तोतॄणां **विश्वा** विश्वानि सर्वाणि **हवना** हवनानि स्तोत्राणि **जुषेथां** सेवेथाम् । तदर्थं **मे** मदीयानि **ब्रह्माणि** स्तोत्राणि **गिरः** शस्त्ररूपा वाचश्च **उप** **शृणुतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your equaly-spirited steeds, **Indra** and **Viṣṇu**, the triumphant over enemies, bear you hither, be plural ased with all the invocations of your worshippers; hear my prayers and praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your horses, vanquishing hostility, sharers in exhilaration, convey  you two here, o Indra and Viṣṇu.  
 Enjoy all the invocations of our thoughts. Harken to my sacred  
 formulations, my hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May your foe-conquering horses bring you hither, Indra and Visnu, sharers of the banquet.  
      Of all our hymns accept the invocations list to my prayers and hear the songs I sing you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch sollen, über die feindlichen Anschläge siegreich, die Rosse herfahren, eure Zechgenossen, Indra und Vishnu! Nehmet alle Ladungen der Lieder gut auf, erhöret meine erbaulichen Reden, meine Lobesworte!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch Feindbezwinger mögen her die Rosse, o Indra-Vischnu, die Genossen fahren; Lasst allen Ruf der Andacht euch gefallen, erhöret meine Lieder und Gebete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть привезут вас кони, преодолевающие происки (врагов),  
 О Индра-Вишну, (ваши) сотрапезники!  

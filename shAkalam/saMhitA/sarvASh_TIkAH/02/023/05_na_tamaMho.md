@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त꣡म् अं꣡हो न꣡ दुरितं꣡ कु꣡तश् चन꣡  
 ना꣡रातयस् तितिरुर् न꣡ द्वयावि꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यं꣡ सुगोपा꣡ र꣡क्षसि ब्रह्मणस् पते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 विश्वाः॑ । इत् । अ॒स्मा॒त् । ध्व॒रसः॑ । वि । बा॒ध॒से॒ । यम् । सु॒ऽगो॒पाः । रक्ष॑सि । ब्र॒ह्म॒णः॒ । प॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -130,36 +130,36 @@ genre M
 हेब्रह्मणस्पते सुगोपाः सुष्टुपालयितात्वंयञ्जनंरक्षसि पालयसि तञ्जनंअंहः आहन्तव्यं दुःखन्नबाधते दुरितन्तत्कारणम्पापञ्चनबाधते अरातयः हिंसकाः तञ्जनङ्कुतश्चन सर्वासुदिक्षुन तितिरुः तिरतिर्हिंसाक र्मा लिट् नहिंसन्ति तथाद्वयाविनःमनस्यन्यक्रियायाञ्चान्यदित्येतद्वयं येषामस्तितेद्वयाविनोवञ्चकाः तेपितञ्जनन्नबाधन्ते किञ्चअस्मात् ध्वरसोहिंसिकाः विश्वाः सर्वाः सेनाः तदर्थंविबाधसेइत् विशेषे णबाधसएव ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The man whom you, **Brahmaṇaspati**, a kind protector, defend, neither sorrow nor sin, nor adversaries nor dissemblers ever harm, for you drive away from him all injurious (things).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Neither distress nor difficulty from anywhere overcomes him, nor  hostilities nor the duplicitous ones.  
 You press away all that harms from him whom you protect as his good  herdsman, o lord of the sacred formulation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No sorrow, no distress from any side, no foes, no creatures double-tongued have overcome the man,-  
      Thou drivest all seductive fiends away from him whom, careful guard, thou keepest Brahmanaspati.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Über ihn kommen weder Not noch Gefahr von irgend einer Seite, nicht Mißgunst noch Doppelzüngige; alle Tücken scheuchst du von dem hinweg, den du als guter Hirte behütest, o Brahmanaspati.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den trifft nicht Noth noch Misgeschick, von wo es sei, nicht Feinde, nicht Zweizüngige bewält'gen ihn, Von dem verjagst du alles was den Sinn bethört, wen schönbehütend du Gebetes Herr beschirmst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни узость, ни беда откуда бы то ни было,  
 Ни недоброжелательность не овладели им, ни двоедушные (люди).  

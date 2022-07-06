@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा मन्ये श्र꣡त् ते अस्मा अधायि  
 वृ꣡षा चोदस्व महते꣡ ध꣡नाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र क्षु꣡ध्यद्भ्यो व꣡य आसुतिं꣡ दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मा । नः॒ । अकृ॑ते । पु॒रु॒ऽहू॒त॒ । योनौ॑ । इन्द्र॑ । क्षुध्य॑त्ऽभ्यः । वयः॑ । आ॒ऽसु॒तिम् । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -143,21 +143,21 @@ genre M
 हे इन्द्र **अध** अथ अनन्तरं **मन्ये** त्वां मनसा जानामि । **ते** तव **अस्मै** बलाय **श्रत्** **अधायि** अस्माभिः श्रद्धा कृता । त्वदीयबलविषयमादरातिशयेन स्तोत्रं कृतमित्यर्थः । **वृषा** कामानां वर्षिता स त्वं **महते** प्रौढाय **धनाय** **चोदस्व** चोदय अस्मान् प्रेरय । हे **पुरुहूत** पुरुभिर्बहुभिर्यजमानैराहूत इन्द्र **अकृते** अनिष्पादिते धनशून्ये **योनौ** । गृहनामैतत् । गृहे **नः** अस्मान् **मा** धाः निधेहि । धनधान्यपूर्णे गृहेऽस्मान् वासयेत्यर्थः । अपि च हे **इन्द्र** **क्षुध्यद्भ्यो** बुभुक्षितेभ्योऽन्येभ्योऽपि स्तोतृभ्यः **वयः** अन्नम् **आसुतिं** पेयं क्षीरादिकं च **दाः** देहि ॥ अधायि । दधातेः कर्मणि लुङि च्लेश्चिण् । ‘ आतो युक् चिण्कृतोः' इति युक् । क्षुध्यद्भ्यः । ‘ क्षुध बुभुक्षायाम्' । दिवादित्वात् श्यन् । नित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Hence, **Indra**, I meditate on you; on his (your power) has our trust been plural ced; showerer (of benefits), direct us to great wealth; consign us not, you who are invoked by many, to a destitute dwelling; give, Indra, food and drink to the hungry.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And, I think, trust has been placed in this (power) of yours right here. As  bull, bestir yourself toward great stakes.  
 Don’t (put) us in an unprepared womb, o much invoked one. Indra,  grant vitality and the pressing (of soma) to those who hunger  
 for them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The śrád √dhā lexeme is repeated here from the immediately preceding pāda (6d; cf. also I.103.3, 5). Curiously the announced “trust” seems to be undercut by manye “I think.” The phrase te asmai expressing the recipient of the trust requires some comment. Geldner seems to take te as a dative, parallel to mahatá indriyā́ya in 6d, and asmai adverbially (“dafür”). But 6d also contains a te, which must be the genitive limiting the dat. phrase, and such an interpretation fits better here, with te dependent on asmai. What is the referent of asmai, whose referent should already be present in the discourse because of the lack of accent on asmai? The easiest interpretation is that it simply picks up indriyā́ya of 6d (so Renou), but again, as in 3ab, this would seem an unartful duplication. Although my interpr. requires taking into account a longer stretch of discourse, it avoids the repetitive scenario. In I.103.1 Indra is credited with indriyá- in two locations, heaven and earth, and I think the dual nature of this indriyá- is what is at issue here: the heavenly one in 6d, the one right here (hence the near-deictic asmai) in 7a. So although asmai picks up the indriyā́ya of 6d, it also refers to a different aspect of this referent.
 
@@ -168,23 +168,23 @@ The object phrase váya āsutím in d, in conjunction with the dat. part.
 kṣúdhyadbhyaḥ ‘hungering’, invites an interpretation of the pair as “food and drink” (Geldner “stärkende Speise und Trank”; Hoffmann just “Speise und Trank”; Witzel Gotō “Nahrung und Trank”). But the abstract nature of váyas- should be respected, and I also doubt that āsutí- is just any drink, rather than referring to the soma pressing. As for what it all means -- I would suggest that cd be interpreted in the context of the rest of the hymn, particularly the outer framework depicting Indra’s aid to the Ārya in conflict. They are here asking him not to drop them into battle without proper means (“into an unprepared womb”); the d pāda then expresses what they need: vital energy, that is, the physical and mental vigor required for combat, and the soma pressing, that is, the ritual means to attract Indra and secure his aid. Vs. 9 then issues the invitation to the soma drinking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now we, I think, in thee as such have trusted: lead us on, Mighty One, to ample riches.  
      In no unready house give us, O Indra invoked of many, food and drink when hungry.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darum meine ich: Man hat dir dafür Vertrauen geschenkt. Als Bulle mache dich zu großem Kampfgewinn scharf! Setz uns nicht in ein unfertiges Nest, du Vielgerufener! Indra, gib den Hungernden stärkende Speise und Trank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So, mein' ich, haben wir auf dich getrauet; führ als ein Held uns hin zu grossem Reichthum; Setz, vielgerufner, nicht in öden Sitz uns, den Hungernden gib, Indra, Trank und Speise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот я и думаю: в нее у тебя поверили.  
 Как бык, возбуди себя на великую добычу!  

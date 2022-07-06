@@ -6,14 +6,14 @@ ChandaH = "वर्धमाना गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ दूतो꣡ अ꣡मर्तिय  
 आ꣡ वहा दइ꣡वियं ज꣡नम्  
 शृण्व꣡न् वि꣡प्रस्य सुष्टुति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शृ॒ण्वन् । विप्र॑स्य । सु॒ऽस्तु॒तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -81,20 +81,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अमर्त्यः** अमरणधर्मः **त्वं** **दूतः** भूत्वा **दैव्यं** देवसंबन्धिनं **जनम्** **आ** **वह** अस्मद्यज्ञ आनय । किं कुर्वन् । 'विप्रस्य मेधाविनो भरद्वाजस्य **सुष्टुतिं** शोभनां स्तुतिं **शृण्वन्** ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hearing the adoration of the sage, do you, who are the immortal messenger, bring hither the celestial people.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, as immortal messenger—convey the divine race hither,  
 when you hear the lovely praise of the inspired poet.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “divine race” (daívyaṃ jánam) here may resonate with the “human race, race stemming from Manu” (mā́nuṣe jáne) in 1c, though they belong to different tṛcas.
 
@@ -108,23 +108,23 @@ As noted in the published introduction, each vs. in this tṛca begins with a fo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou, Immortal Messenger, bring hither the Celestial Folk;  
      Hearing the singer's eulogy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fahre du, der unsterbliche Bote, das göttliche Volk her, wenn du des Redners Loblied hörst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Bote fahr, unsterblicher, du her das göttliche Geschlecht, Vernimm des Sängers Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты как вестник бессмертный  
 Привези (сюда) божественный род.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡श् चिद् धि꣡ त्वा बहु꣡भ्य आ꣡  
 सुता꣡वाँ आवि꣡वासति  
 उग्रं꣡ त꣡त् पत्यते श꣡व इ꣡न्द्रो अङ्ग꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 उ॒ग्रम् । तत् । प॒त्य॒ते॒ । शवः॑ । इन्द्रः॑ । अ॒ङ्ग ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -99,20 +99,20 @@ genre M;; line affected by realignment;; repeated line
 **बहुभ्यः** मनुष्येभ्यः सकाशात् **यश्चिद्धि** य एव खलु यजमानः **सुतावान्** अभिषुतसोमयुक्तः सन् हे इन्द्र **त्वा** त्वाम् **आविवासति** परिचरति । विवासतिः परिचरणकर्मा । **तत्** तस्मै यजमानाय यत् **उग्रम्** उद्गूर्णं **शवः** बलम् **इन्द्रः** **अङ्ग** क्षिप्रं **पत्यते** पातयति प्रापयति ॥ तत् ।  ‘ सुपां सुलुक्° ' इति चतुर्थ्याः लुक् । पत्यते । पत्लृ गतौ ' । अस्मात् अन्तर्भावितण्यर्थात् व्यत्ययेन श्यन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, grant formidable strength to him who worships him, having libations prepared--ho!”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For someone who has pressed soma seeks to entice you here, away from  the many.  
 He has control of powerful strength – Indra indeed!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A broken construction. The subject of the 3rd ps. verb in c (patyate) must be Indra, though he is represented by 2nd ps. tvā in the apparent rel. cl. of ab. (The parallel in III.36.4b ugráṃ śávaḥ patyate dhṛṣṇv ójaḥ, where Indra is undeniably the subject, makes it clear that the mortal soma-presser of our ab cannot be the subject of patyate.) The yá- clause of ab thus has no direct grammatical connection with what ought to be its main clause in c, and I therefore take yáś cid as the functional equivalent of the indefinite káś cid.
 
@@ -128,23 +128,23 @@ Bloomfield (Rig-Veda Repetitions, ad I.7.8) suggests that each of these three ve
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who with Soma juice prepared amid the many honours thee,--  
      Verily Indra gains thereby tremendous might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wer auch bei gepreßtem Soma dich den vielen Wettbewerbern abzugewinnen sucht - diese gewaltige Macht besitzt einzig Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wer von vielen Stätten auch als Somabringer her dich lockt, Von wem empfängt er starke Kraft? nur Indra ist's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто бы ни захотел, выжав (сому),  
 Отвоевать тебя у многих, –  

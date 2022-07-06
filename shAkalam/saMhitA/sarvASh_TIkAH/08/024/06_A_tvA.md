@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा गो꣡भिर् इव व्रजं꣡  
 गीर्भि꣡र् ऋणोमि अद्रिवः  
 आ꣡ स्मा का꣡मं जरितु꣡र् आ꣡ म꣡नः पृण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 आ । स्म॒ । काम॑म् । ज॒रि॒तुः । आ । मनः॑ । पृ॒ण॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -105,40 +105,40 @@ genre M
 हे **अद्रिवः** वज्रवन्निन्द्र **गीर्भिः** स्तुतिलक्षणाभिर्वाग्भिः **त्वा** त्वाम् **आ** **ऋणोमि** प्राप्नोमि । 'ऋणु गतौ । तनादिः । तत्र दृष्टान्तः । **गोभिरिव** । यथा गोपालो गोभिः **व्रजं** गोष्ठं गच्छति तद्वत्त्वां स्तुतिभिः प्राप्नोमीत्यर्थः । ततस्तं **जरितुः** स्तोतुर्मम **कामं** धनादिविषयम् **आ** **पृण** आपूरय । तथा **मनः** मदीयं मानसं धनादिप्रदानेनापूरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I approach you, thunderer, with praises, as (a cowherd goes) with cattle to the pasture; gratify thedesire, satisfy the mind of your adorer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I fit you out with my songs, as a pen with cows, o master of the stones. Fulfill the desire and the mind of the singer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The matching instrumentals in frame and simile are phonological variants: góbhir (a) / gīrbhir (b).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Thunder-armed, I come with songs to thee as to a stall with kine:  
      Fulfil the wish and thought of him who sings thy praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich belege dich mit Lobreden wie eine Hürde mit Rindern, Herr des Preßsteins. Erfülle du den Wunsch, die Absicht des Sängers!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Liedern füll' ich, wie den Stall mit Kühen, dich, o Schleuderer; Erfülle recht des Sängers Wunsch und seinen Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я заполняю тебя хвалебными песнями,  
 О хозяин давильных камней, словно загон – коровами.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ स्याम देव वरुण  
 ते꣡ मित्र सूरि꣡भिः सह꣡  
 इ꣡षं सु꣡वश् च धीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इष॑म् । स्व१॒॑रिति॑ स्वः॑ । च॒ । धी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -95,7 +95,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **देव** **वरुण** **ते** वयं तव स्तोतारः **स्याम** समृद्धा भवेम । न केवलं वयमेव यजमानाः किंतु **सूरिभिः** स्तोतृभिर्ऋत्विग्भिः **सह** । तथा हे **मित्र** देव **ते** वयं सूरिभिः सह स्याम भवेम । किंच **इषम्** अन्नं **स्वः** उदकं **च** **धीमहि** धारयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,28 +106,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Iṣam svas ca **dhīmahi** = **annam** udakam ca dhārayāmahe, may we retain food and water;the tṛca, i.e. this and the two preceding ṛca's are repeated at the morning sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Together with our patrons, might we be these, o god Varuṇa, o Mitra: might we receive refreshment and the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we be thine, God Varuna, and with our princes, Mitra, thine.  
      Food and Heaven's light will we obtain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen es sein, Gott Varuna, Mitra mit den Lohnherren zusammen; wir wollen Labsal und das Sonnenlicht empfangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir seien die, Gott Varuna, und Mitra, mit der Fürsten Schar, Die Labung wir und Glanz empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Такими мы хотим бог, о Варуна,  
 Такими, о Митра, вместе с (нашими) покровителями!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मह꣡श् चित् त्व꣡म् इन्दर+ यत꣡ एता꣡न्  
 मह꣡श् चिद् असि त्य꣡जसो वरूता꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुम्ना꣡ वनुष्व त꣡व हि꣡ प्र꣡यिष्ठा+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । वे॒धः॒ । म॒रुता॑म् । चि॒कि॒त्वान् । सु॒म्ना । व॒नु॒ष्व॒ । तव॑ । हि । प्रेष्ठा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahaś* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
@@ -128,20 +128,20 @@ genre M
 हे **इन्द्र** **त्वं** **यतः** कारणात् **एतान्** मरुतः **महश्चित्** महतोऽपि सामर्थ्यातिशयवत्त्वात् त्वं निरपेक्षेणापि स्नेहात् न त्यजसीति शेषः । अतः कारणात् **महश्चिदसि** । चित् इति पादपूरणः । महतोऽपि **त्यजसः** त्यागात् । यद्वा । एतत् क्रोधनाम । क्रोधाद्वा । **वरूता** वरिता रक्षिता असि भवसि । यद्वा । मरुतोऽपि त्यागात् वृष्ट्यादिविषयात् वारयितासि । यस्मादेवं तस्मात् हे **मरुतां** **वेधः** विधातः **सः** तादृशस्त्वं चिकित्वान् चेतनावान् अस्मदनुग्रहविषयज्ञानोपेतः सन् **नः** अस्मभ्यं **सुम्ना** सुखानि मरुदायत्तानि वृष्ट्यादिरूपाणि **वनुष्व** देहि । तानि सुन्नानि **तव** **हि** **प्रेष्ठा** तव खलु प्रियतमानि । हिशब्दः ‘अयमिन्द्रो मरुत्सखा ' (ऋ. सं. ८.७६. २ ) इत्यादिश्रुतिषु प्रसिद्धयर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, are mighty from the might of those of whom you are the protector against abandonment therefore, creator of the **Maruts**, favourably-minded towards us, grant us those blessings which are most dear to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, you are the one who goes (before) even the great one [=Marut  flock] as it *drives; you are the defender even from great dereliction.  
 O ritual adept, as observant one win the favors of the Maruts for us, for  they [=favors] are dearest to you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A difficult vs. to construe, esp. the first hemistich. In general I follow Oldenberg’s somewhat bold interpr. He points out that pādas a and b are quite parallel, with pāda a #maháś cid … yatáḥ matched by b #maháś cid … tyájasaḥ. He then suggests that the parallelism would be furthered if pāda-final -tár-stem agent noun varūtā́(b) were matched by a similar formation at the end of a, which is possible if we read *etā́ (agent noun to √i ‘go’) rather than etā́n. The final n of the transmitted form would have been acquired from the pāda-initial nasal maháḥ that immediately follows.
 
@@ -156,23 +156,23 @@ None of the standard tr. renders naḥ in c (though see Tichy [-tar-, p. 192], w
 (or fem. nom. sg.). I would point out, however, that two hymns before (I.167.10a) we find the phrase vayám adyéndrasya préṣṭḥā, with préṣṭḥā pāda-final, but standing for masc. pl. préṣṭḥāḥ before a voiced sound. It is therefore possible that préṣṭḥā has been adapted from there, without adjusting the sandhi and that it could therefore mean “for they [=Maruts] are dearest to you.” Unfortunately, though this makes better sense, it doesn’t make complete sense, since Indra and the Maruts are depicted as still at loggerheads in this hymn. Perhaps préṣṭḥa- here reflects one of the senses of priyá-, viz. ‘one’s own’. The Maruts would be “most your own” because they have been, and will be again, Indra’s posse. If te in 2a should be rendered as I take it, “your (Maruts),” this provides support for the “most your own” interpr. here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As, Indra, from great treason thou protectest, yea, from great treachery these who approach us,  
      So, marking well, Controller of the Maruts grant us their blessings, for they are thy dearest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, wirst selbst diese herankommenden großen Marut bannen; du bist der, der auch große Feindschaft abwehrt. Du Meister der Marut, der sie kennt, gewinnt ihre Gunst, denn sie ist dir die liebste!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du Indra bist's, der grosses auch bewältigt, der auch die grosse Todeswaffe abwehrt, Nimm achtsam an, o du der Marutherrscher, nun unsre Lieder, sie sind dir die liebsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, (тот, кто отвращает) даже великое (зло), идущее к ним.  
 Ты тот, кто отвращает даже великую враждебность.  

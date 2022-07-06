@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वादुषंस꣡दः पित꣡रो वयोधाः꣡  
 कृछ्रेश्रि꣡तः श꣡क्तीवन्तो गभीराः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सतो꣡वीरा उर꣡वो व्रातसाहाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 चि॒त्रऽसे॑नाः । इषु॑ऽबलाः । अमृ॑ध्राः । स॒तःऽवी॑राः । उ॒रवः॑ । व्रा॒त॒ऽस॒हाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svāduṣaṃsadaḥ* ← *svāduṣaṃsad*
 - \[noun\], nominative, plural, masculine
@@ -107,7 +107,7 @@ popular
 अत्र रथगोपस्तुतिः । **पितरः** रथस्य पालयितारः **स्वादुषंसदः** शत्रूणां स्वादुनि अन्ने संसीदन्तः शत्रूणामन्नमवसादयन्तो वा **वयोधाः** अन्नस्य दातार: कृच्छ्रेश्रितः आपदि श्रयन्तः **शक्तीवन्तः** शक्तिरायुधविशेषः तद्वन्तः शक्तीवन्तः । शक्तिहस्ता इति यावत् । यद्वा । शक्तिर्बलम् । तद्वन्तः । **गभीराः** अनाधृष्याः **चित्रसेनाः** दर्शनीयसेनाः **इषुबलाः** । बाणबलाः **अमृध्राः** हिंसितुमशक्याः **सतोवीराः** प्राप्तवीर्याः । तथा च यास्कः - ‘ तिरः सत इति प्राप्तस्य तिरस्तीर्णं भवति सतः संसृतं भवति ' ( निरु. ३. २० ) इति । **उरवः** महान्तः **व्रातसाहाः'** समूहानामभिभवितारो भवन्तीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,36 +118,36 @@ popular
 The guards of the chariot: pitaraḥ is the only substanive: pālayitāraḥ, guards, defenders, a body of spearmen, śaktivantaḥ: attendants on the war chariot of the chief
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The forefathers: assembling for the sweet (soma), conferring vigor, they  who are props in distress, skillful, deep,  
 with glittering weapons, arrow-strong, not shirking, entirely heroic,  broad, overwhelming the troops.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On kṛchre-śrít- see most recently Scarlatta (543-44). Renou’s (EVP) objection to Geldner’s tr. (“die Zuflucht in der Note”) and his over-complex substitute can, I think, reasonably be dismissed.
 
 Most tr. take citrá-senāḥ as containing the ‘army’ word (e.g., Geldner “eine wunderbare Heerschar bildend”), and this is certainly possible. I interpr. it rather as ‘weapon’ because of the proximity of íṣu- ‘arrow’ in the adjoining cmpd íṣubalāḥ ‘arrow-strong’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In sweet association lived the fathers who gave us life, profound and strong in trouble,  
      Unwearied, armed with shafts and wondrous weapons, free, real heroes, conquerors of armies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Väter sind bei süßem Soma versammelt, Kraft verleihend, die Zuflucht in der Not, leistungsfähig, tiefgründig, eine wunderbare Heerschar bildend, pfeilstark, ohne Fehl, gleich mannhaft, stämmig, Heere bezwingend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die gern zusammensitzenden Väter, die Lebenskraft verleihen, sich in Gefahr begeben, die kräftigen, unergründlichen, mit glänzendem Geschoss, durch Pfeile stark, nicht säumend, gleich an Kraft, weit herrschend Scharen besiegend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вот) сидящие вместе вокруг сладкого (сомы) отцы, наделяющие жизненной силой,  
 Опора в беде, могучие, глубокие,  

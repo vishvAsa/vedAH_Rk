@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राग्नी नवति꣡म् पु꣡रो  
 दास꣡पत्नीर् अधूनुतम्  
 साक꣡म् ए꣡केन क꣡र्मणा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 सा॒कम् । एके॑न । कर्म॑णा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -96,7 +96,7 @@ genre M
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,18 +107,18 @@ genre M
 **Dāsa** patniḥ **puraḥ**, cities of which **dāsas** were the lords
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Agni! You shook the ninety fortifications, lorded over by Dāsas, at one time with a single act.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni, ye cast down the ninety forts which DAsas held,  
      Together, with one mighty deed.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Indra-Agni, you have hurled down by one deed the ninety strongholds together of which the Dâsas were the lords.
 </details>
@@ -130,17 +130,17 @@ Of which the Dasas were lords ye overtbrew
 Together in one deed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni! Ihr schüttelt die neunzig Burgen, die von dem Dasa beherrscht waren, zusammen in einer einzigen Unternehmung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indrāgni, ihr erschüttertet die neunzig Burgen, die vom Feind Beherrschten, alle auf einmal.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, вы потрясли  
 Девяносто крепостей, подчиненных Дасе, –  

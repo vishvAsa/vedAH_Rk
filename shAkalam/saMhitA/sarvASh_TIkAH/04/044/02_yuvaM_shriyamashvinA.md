@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ श्रि꣡यम् अश्विना देव꣡ता तां꣡  
 दि꣡वो नपाता वनथः श꣡चीभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡हन्ति य꣡त् ककुहा꣡सो र꣡थे वाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यु॒वोः । वपुः॑ । अ॒भि । पृक्षः॑ । स॒च॒न्ते॒ । वह॑न्ति । यत् । क॒कु॒हासः॑ । रथे॑ । वा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -123,7 +123,7 @@ genre M
 हे **दिवो** **नपाता** अदित्यस्य पुत्रस्थानीयौ द्युलोकस्य वा न पातयितारौ हे अश्विनौ **युवं** युवां **देवता** देवते ॥ विभक्तिव्यत्ययः ॥”तां प्रसिद्धां **श्रियं** शचीभिः कर्मभिः शक्तिभिर्वा **वनथः** संभजेथे । यद्वा । वनतिर्दानार्थः । **युवोः** युवयोः **वपुः** शरीरं **पृक्षः** अन्नानि सोमलक्षणानि **अभि** **सचन्ते** प्राप्नुवन्ति **यत्** यदा **रथे** **वां** **वहन्ति** **ककुहासः** महान्तोऽश्वाः । यद्वा । स्तुतयो वां युवां रथे वहन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre M
 Powerful horses: kakuhāsaḥ = mahānto **aśvāḥ**; or, the reference may be to praises, stutayaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two, o Aśvins, you sons of heaven, win splendor among the gods by  your abilities.  
 Nourishments escort your wondrous form when the humped horses [?] convey you on the chariot.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is much disc. in the lit. about what manner of horses kakuhá- refers to (see, e.g., Witzel Gotō n. ad loc.). I do not have an opinion, nor do I think it matters contextually.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Asvins, ye gained that glory by your Godhead, ye Sons of Heaven, by your own might and power.  
      Food followeth close upon your bright appearing when stately horses in your chariot draw you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr unter den Göttern habt von dieser Schönheit Gewinn, ihr Asvin, Enkel des Himmels, durch eure Künste. Zu eurer prächtigen Erscheinung gesellen sich die Kräfte, wenn die Buckelochsen an eurem Wagen ziehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr beid' erlanget diesen Glanz, o Ritter, durch eure Kraft bei Göttern, Himmelssöhne, Und Güter folgen eurer Glanzerscheinung, wenn euch im Wagen ziehn die hohen Rosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Среди богов, вы, о Ашвины, покорили  
 Эту красоту, о отпрыски неба, благодаря (своим) силам.  

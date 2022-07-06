@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् ई ग꣡र्भम् ऋतावृ꣡धो  
 दृशे꣡ चा꣡रुम् अ꣡जीजनन्  
 कवि꣡म् मं꣡हिष्ठम् अध्वरे꣡ पुरुस्पृ꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 क॒विम् । मंहि॑ष्ठम् । अ॒ध्व॒रे । पु॒रु॒ऽस्पृह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -91,40 +91,40 @@ genre M;; line affected by realignment
 **ऋतावृधः** यज्ञस्य वर्धयित्र्यो वसतीवर्याख्या आपः **गर्भं** गर्भस्थानीयम् **ईम्** एनं **यं** सोमम् **अध्वरे** यज्ञे **दृशे** दर्शनाय **अजीजनन्** उदपादयन् । कीदृशम् । **चारुं** सर्वेषां कल्याणरूपं **कविं** क्रान्तप्रज्ञं **मंहिष्ठं** पूज्यतमं दातृतमं वा अत एव **पुरुस्पृहं** बहुभिः स्पृहणीयं सोमं देवाः सेवन्त इति पूर्वेण समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The germ which the augmenters of the rite brought forth at the sacrifice lovely to look upon intelligent, most adorable, desired by many.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The embryo that those strong through truth have begotten as lovely to see, the poet, most liberal at the ceremony, sought by many—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. consists of a rel. cl., which is implicitly picked up by the following vs. The extra four-syllable pāda here consists of a single acc. adj., which is entirely integrated into the rest of the vs., in contrast to the slight syntactic distance the metrical boundary creates in other vss. in this hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Babe whom they who strengthen Law have generated fair to see,  
      Much longed for at the sacrifice, most liberal Sage,-
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den die Wahrheitsmehrer als Leibesfrucht, schön zu sehen, erzeugt haben, den freigebigsten Seher bei dem Opfer, den Vielbegehrten;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schön von Ansehn jetzt als Spross erzeugt ist von den Heiligen, Ein Seher spendend reich beim Fest – und vielbegehrt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого породили (эти) возросшие от закона  
 Как зародыша, приятного на вид,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् तु꣡भ्यम् अग्ने अमृ꣡ताय म꣡र्तियः  
 समि꣡धा दा꣡शद् उत꣡ वा हवि꣡ष्कृति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उ꣡प ब्रूषे य꣡जसि अध्वरीय꣡सि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । होता॑ । भ॒व॒सि॒ । यासि॑ । दू॒त्य॑म् । उप॑ । ब्रू॒षे॒ । यज॑सि । अ॒ध्व॒रि॒ऽयसि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 हे **अग्ने** **अमृताय** मरणधर्मरहिताय **तुभ्यं** **यः** **मर्त्यः** मनुष्यः **समिधा** समिधम् । द्वितीयायाः ‘सुपां सुलुक्' इत्याकारः । **दाशत्** ददाति प्रयच्छति **उत** **वा** अपि वा **हविष्कृति** । हविषां कृत् करणं यस्मिन् स हविष्कृत् । तस्मिन्यज्ञे हवींषि ददातीति शेषः । **तस्य** मनुष्यस्य **होता** देवानामाह्वाता **भवसि** । किंच त्वं **दूत्यं** देवान् प्रति दूतकर्म कर्तुं **यासि** गच्छसि । किंच त्वं ब्रह्मा भूत्वास्मिन् कर्मणि युष्मभ्यमिमानि हवींषि यजमानेन प्रहितानीति **उप** **ब्रूषे** उपक्रम्य ब्रवीषि । किं च त्वं **यजसि** यजमानो भूत्वा देवेभ्यो हवींषि ददासि । किंच त्वं तथा पूर्वोक्तप्रकारेण **अध्वरीयसि** अध्वर्युरिवाचरसि । अथवान्यं यज्ञ कर्तुमिच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,7 +135,7 @@ genre M
 You direct: i.e., Agni is the Brāhman, the **Yajamāna** and the **Adhvaryu**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who for you, the immortal, o Agni, will perform pious work  with the kindling stick or by the preparation of the oblation,  
 for him you become the Hotar; his mission do you undertake. You  
@@ -143,23 +143,23 @@ speak on his behalf; you perform sacrifice, you act as Adhvaryu
 for him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When mortal man presents to thee Immortal God, Agni, his fuel or his sacrificial gift,  
      Then thou art his Adhvaryu, Hotar, messenger, callest the Gods and orderest the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Sterbliche dir dem Unsterblichen, Agni, mit Brennholz aufwartet oder mit Opferwerk, dessen Hotri wirst du; für ihn tust du Botendienst, sprichst den Göttern zu, opferst, besorgst die heilige Handlung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Sterblichen, der, Agni, dir Unsterblichem mit Brennholz huldigt oder auch mit Opfertrank, Dem bist du Opfrer, gehst für ihn auf Botschaft aus, du sprichst für ihn, du opferst, thust des Priesters Dienst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой смертный, о Агни, тебе бессмертному,  
 Будет служить дровами или же совершением возлияния,  

@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दीर्घं꣡ हि꣡ अङ्कुशं꣡ यथा  
 श꣡क्तिम् बि꣡भर्षि मन्तुमः  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 भद्रा꣡ ज꣡नित्र्य् अजीजनत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 पूर्वे॑ण । म॒घ॒ऽव॒न् । प॒दा । अ॒जः । व॒याम् । यथा॑ । य॒मः॒ । दे॒वी । जनि॑त्री । अ॒जी॒ज॒न॒त् । भ॒द्रा । जनि॑त्री । अ॒जी॒ज॒न॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dīrghaṃ* ← *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, masculine
@@ -135,37 +135,37 @@ genre M;; repeated line
 **दीर्घम्** आयतम् **अङ्कुशं** सृणिं **यथा** **बिभर्षि** एवमायतां शक्तिं हे **मन्तुमः**। मन्तुर्ज्ञानम्। तद्वन् ।' मतुवसो रुः' इति संबुद्धौ नकारस्य रुत्वम् । ईदृशेन्द्र **बिभर्षि** धारयसि ।' डुभृञ् धारणपोषणयोः। जौहोत्यादिकः । श्लौ  भृञामित्' इत्यभ्यासस्येत्वम् । हे **मघवन्** धनवन्निन्द्र यथा **पूर्वेण** देहस्य पूर्वभागे वर्तमानेन **पदा** पदेन अजः छागः **वयाँ** शाखामाकर्षति तथा पूर्वोक्तया शक्त्याकृष्य **यमः** शत्रून् नियच्छसि । यमेर्लेट्यागमः। 'बहुलं छन्दसि” इति शपो लुक् । गतमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For you, sapient (**Indra**), wield your might like a long hook; you drag (your foes), **Maghavan**, as a goatwith its fore-foot (drags) a branch; the divine progenitress has given you birth, the auspicious progrenitress hasgiven you birth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you carry your ability like a long crook, you rich in counsel, you will hold (it) as a goat (does) a branch with its forefoot,  
 bounteous one.  
 – The goddess Begetter begat (you), the auspicious Begetter begat (you).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou bearest in thine hand a lance like a long hook, great Counsellor!  
      As with his foremost foot a goat, draw down the branch, O Maghavan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wie einen langen Haken trägst du die Kraft, o Ratreicher. Halte den Zweig fest wie der Ziegenbock mit dem Vorderfuß, Gabenreicher! - Die göttliche Erzeugerin hat dich erzeugt, die segensreiche Erzeugerin hat dich erzeugt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn einem langen Haken gleich, o weiser, führst du deinen Speer, Wie mit dem Vorderfuss der Bock zieh her den Fruchtzweig, mächtiger! Die Göttin Mutter zeugte dich, die holde Mutter zeugte dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь словно длинный крюк,  
 Носишь ты (свое) уменье, о сообразительный,  

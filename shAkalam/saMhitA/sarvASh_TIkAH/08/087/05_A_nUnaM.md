@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नूनं꣡ यातम् अश्विना  
 अ꣡श्वेभिः प्रुषित꣡प्सुभिः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 पातं꣡ सो꣡मम् ऋतावृधा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दस्रा॑ । हिर॑ण्यवर्तनी॒ इति॒ हिर॑ण्यऽवर्तनी । शु॒भः॒ । प॒ती॒ इति॑ । पा॒तम् । सोम॑म् । ऋ॒त॒ऽवृ॒धा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -98,36 +98,36 @@ genre M;; repeated line
 हे **अश्विना** अश्विनौ युवां **प्रुषितप्सुभिः** । प्सु इति रूपनाम । ' प्रुष स्नेहनसेचनपूरणेषु ' । स्निग्धरूपैः दीप्तरूपैरित्यर्थः । तादृशैः शीघ्रगामिभिरश्वैः सह **नूनम्** इदानीम् **यातम्** अस्मदीयं यज्ञं प्रत्यागच्छतम् । हे **दस्रा** दस्रौ दर्शनीयावुपक्षपयितारौ वा हे **हिरण्यवर्तनी** । वर्ततेऽत्रेति वर्तनी रथः । हिरण्मयरथौ हे **शुभस्पती** उदकस्य कल्याणस्य वा पालयितारौ हे **ऋतावृधा** सत्यस्य यज्ञस्य वा वर्धयितारौ हे अश्विनौ युवां शीघ्रमागत्य **सोमं** **पातं** पिबतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Aśvins**, with your glossy steeds, **Dasras**, riding in golden chariots, lords of good fortune,upholders of truth, drink the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now drive here with your horses frothing at the mouth, o Aśvins.  
 O wondrous ones of golden course, o lords of beauty, strong through  truth, drink the soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us, O ye Asvins, now with steeds of many a varied hue,  
      Ye Lords of splendour, wondrous, borne on paths of gold, drink Soma, ye who strengthen Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet jetzt mit den fleckfarbigen Rossen, Asvin! Ihr Meister mit den goldenen Rädern, ihr Herren der Schönheit, trinket den Soma, ihr Mehrer der Wahrheit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt auf den Rossen nun herbei, o Ritter, den gesprenkelten, O herrliche, auf goldnen Pfaden, Glanzes Herrn, (und trinkt wie Büffel an dem Bach.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте сейчас, о Ашвины,  
 На конях, окропленных (сладким) подкреплением!  

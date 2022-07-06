@@ -6,13 +6,13 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आदित्यइ꣡र् इ꣡न्द्रः स꣡गणो मरु꣡द्भिर्  
 अस्मा꣡कम् भूतु अविता꣡ तनू꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -27,7 +27,7 @@ popular
 आ॒दि॒त्यैः । इन्द्रः॑ । सऽग॑णः । म॒रुत्ऽभिः॑ । अ॒स्माक॑म् । भू॒तु॒ । अ॒वि॒ता । त॒नूना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ādityair* ← *ādityaiḥ* ← *āditya*
 - \[noun\], instrumental, plural, masculine
@@ -78,34 +78,34 @@ popular
 **आदित्यैः** अदितिपुत्रैर्मित्रादिभिः **मरुद्भिः** च **सगणः** सहितः इन्द्रः अस्माकं तनूनां शरीराणां तनयानां वा अविता **भूतु** रक्षिता भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra** with the **Ādityas**, and attended by the **Maruts**, be the protector of our bodies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along with the Ādityas, let Indra, flocking with the Maruts, be the helper  of our bodies.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With the Adityas, with the band of Maruts, may Indra be Protector of our bodies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra mit den Aditya´s, mit der Gefolgschaft der Marut soll der Schützer unserer Leiber sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geschart mit den Aditja's und den Marut's mög' Indra sein der Schützer unsrer Leiber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра вместе с Адитьями, окруженный толпой Марутов.  
 Пусть будет покровителем наших тел!

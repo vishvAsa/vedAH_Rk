@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पितु꣡श् चिद् ऊ꣡धर् जनु꣡षा विवेद  
 वि꣡ अस्य धा꣡रा असृजद् वि꣡ धे꣡नाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवो꣡ यह्वी꣡भिर् न꣡ गु꣡हा बभूव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 गुहा॑ । चर॑न्तम् । सखि॑ऽभिः । शि॒वेभिः॑ । दि॒वः । य॒ह्वीभिः॑ । न । गुहा॑ । ब॒भू॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pituś* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
@@ -129,7 +129,7 @@ genre M
 पितुः अन्तरिक्षस्यऊधः ऊधःस्थानोयजलप्रदेशंअयमग्निर्जनुषास्वयमेवविवेद जानाति किं चायमग्निः अस्योधसः सम्बन्धिन्योधाराः पयोधाराः व्यसृजत् विसृष्टवान् धेनामाध्यमिकावाचः विसृजति शिवेभिः शिवङ्करैः सखिभिः आत्मनःसखिभूतैर्वायुभिः दिवोयह्वीभिः अन्तरिक्षस्या पत्यभूताभिरद्भिश्चसह गुहागुहायाञ्चरन्तं वर्तमानमेनमग्निङ्गुहाचित् गुहायांस्थितः कोपिनबभूव प्राप्तुंसमर्थोनाभवत् ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,34 +140,34 @@ genre M
 Knew the udder of his parent: piturūdhan viveda: the parent here is the firmament, and the udder the clouds, or the accusative ulated stores of rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At his birth, he found the udder even of his father. He let loose its  streams and spurts in every direction.  
 Him who moves in hiding from his kind companions [=the priests]— (though) he was not hidden from the young women of heaven—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From birth he knew even his Father's bosom, he set his voices and his streams in motion;  
      Knew him who moved with blessed Friends in secret, with the young Dames of heaven. He stayed not hidden.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 By (his) nature he has found his father's udder 1; he has sent forth his streams and his showers 2. Walking 3 hidden to his dear friends he has not been hidden to the young (daughters) of Heaven 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er fand gleich bei seiner Geburt des Vaters Euter; er entfesselte dessen Strahlen, dessen Stimmen. Ihn, der vor seinen guten Freunden sich verborgen hielt - vor den jüngsten Töchtern des Himmels war er nicht verborgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Vaters Busen fand durch eigne Kraft er, und seine Ströme goss er aus und Tränke, Fand den, der heimlich ging mit holden Freunden; nicht war er selbst versteckt in Himmels Strömen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При рождении он (сразу) нашел вымя самого отца.  
 Он выпустил течь его потоки, вы (пустил) молочные струи.  

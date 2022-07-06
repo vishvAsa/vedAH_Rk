@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वोचाम कव꣡ये मे꣡धियाय  
 व꣡चो वन्दा꣡रु वृषभा꣡य वृ꣡ष्णे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवी꣡व रुक्म꣡म् उरुव्य꣡ञ्चम् अश्रेत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 गवि॑ष्ठिरः । नम॑सा । स्तोम॑म् । अ॒ग्नौ । दि॒विऽइ॑व । रु॒क्मम् । उ॒रु॒ऽव्यञ्च॑म् । अ॒श्रे॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avocāma* ← *vac*
 - \[verb\], plural, Thematic aorist (Ind.)
@@ -111,14 +111,14 @@ genre M
 वयमात्रेयाः **कवये** मेधाविने **मेध्याय** मेधार्हाय **वृषभाय** वर्षकाय फलानां **वृष्णे** सेक्त्रे यूने **वृन्दारु** वन्दनशीलं **वचः** स्तोत्रम् **अवोचाम** । अथ ऋषिरात्मानं परोक्षेणैव निर्दिश्य स्तुतिम् उपसंहरति । **गविष्ठिरः** अयमृषिः **नमसा** नमस्कारेण हविषा वा युक्तं **स्तोमं** स्तोत्रम् **अग्नौ** **अश्रेत्** श्रयति स्म । **दिवि** **रुक्मं** रोचमानम् **उरुव्यञ्चम्** उरुगमनमादित्यम् **इव** ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We have uttered aloud this encomiastic praise to the wise, holy, vigorous (**Agni**), the showerer (of benefits); **Gaviṣṭhira** offers with reverence (this) praise to Agni like the wide-sojourning (sun), effulgent in the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have spoken an extolling speech to the wise poet, the  
 bull-strong bull.  
@@ -126,28 +126,28 @@ With reverence Gaviṣṭhira has rested his praise song in Agni, as if
 resting the wide-spreading golden disk in heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him adorable, sage, strong and mighty we have sung forth our song of praise and homage.  
      Gavisthira hath raised with prayer to Agni this laud far-reaching, like gold light to heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We have pronounced an adoring speech to the holy sage, to the manly bull. Gavishthira adoringly has sent his song of praise to Agni as the gold (i. e. the sun) far-reaching (is sent by the gods upward) to the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben dem opferwürdigen Seher ein lobendes Wort gesagt, dem männlichen Bullen. Gavistihira hat unter Verneigung sein Preislied bei Agni angebracht wie die volle Goldscheibe am Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem weisen Sänger haben wir die Worte, die preisenden dem starken Stier gesprochen; Gavischthira liess Lob zum Agni dringen voll Ehrfurcht, wie zum Himmel weiten Goldglanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы произнесли для мудрого поэта  
 Хвалебную речь, для мужественного быка.  

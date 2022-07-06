@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ वज्रि꣡णम् मन्दि꣡नं स्तो꣡मियम् म꣡द  
 इ꣡न्द्रं र꣡थे वहतो हर्यता꣡ ह꣡री  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्राय सो꣡मा ह꣡रयो दधन्विरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पु॒रूणि॑ । अ॒स्मै॒ । सव॑नानि । हर्य॑ते । इन्द्रा॑य । सोमाः॑ । हर॑यः । द॒ध॒न्वि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -120,37 +120,37 @@ genre M
 ता तौ प्रसिद्धौ हर्यता हर्यतौ गन्तारौ कान्तौ वा हरी हरितवर्णावश्वौ मन्दिनं मोदमानं स्तोम्यं स्तुत्यर्हं वज्रिणमिन्द्रं मदे निमित्ते रथे वहतः। धारयतः। यज्ञमस्मदीयं प्रापयतः। अस्मै हर्यते कान्तायेन्द्राय पुरूणि बहूनि सवनानि प्रातरादीनि हरयो हरितवर्णाः सोमा दधन्विरे। निधीयन्ते॥६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These two delightful bay horses bring the thunderer, the rejoicing and laudable **Indra**, in his car to theexhilaration (of the **Soma**); for him the beloved one many libations of the yellow-tinted Soma are stored up.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These two gladdening golden (horses) convey in his chariot the  
 mace-bearing, exhilarating, praiseworthy Indra in his exhilaration.  
 For him who is glad for the many soma-pressings, for Indra, the golden  soma juices have run.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These two dear Bays bring hither Indra on his car, Thunder-armed, joyous, meet for laud, to drink his fill.  
      Many libations flow for him who loveth them: to Indra have the gold-hued Soma juices run.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese lieben Falben ziehen den Indra zu Wagen, den Keulenträger, den rauschliebenden, im Rausche preisenswerten. Für ihn, der viele Somaspenden begehrt, für Indra rannen die goldgelben Tropfen und Falben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Wagen fährt das holde, goldne Rossepaar zum Rausch den muntern, hehren Indra mit dem Blitz, Ihm strömten viele goldne Somatränke zu, dem Indra, der des Trankes Spenden hold empfängt;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта пара желанных буланых коней везет на колеснице Индру,  
 Громовержца, возбужденного, в опьянении достойного хвалы.  

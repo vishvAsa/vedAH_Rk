@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ ते꣡ त इन्दर+ ये꣡ च देव  
 स्त꣡वन्त शूर द꣡दतो मघा꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुआभु꣡वो जरणा꣡म् अश्नवन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यच्छ॑ । सू॒रिऽभ्यः॑ । उ॒प॒ऽमम् । वरू॑थम् । सु॒ऽआ॒भुवः॑ । ज॒र॒णाम् । अ॒श्न॒व॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -125,36 +125,36 @@ genre M
 हे **देव** **शूर** **इन्द्र** **ते** तव **वयं** वसिष्ठाः स्वभूताः । **ये** जना मदीय पुत्रपौत्रादयः **मघानि** मंहनीयानि हवींषि **ददतः** प्रयच्छन्तः **स्तवन्त** स्तुवन्ति **ते** अपि तव स्वभूताः । तेभ्य उभयेभ्यः **सूरिभ्यः** स्तोतृभ्यः **उपमं** श्रेष्ठं **वरूथं** गृहं **यच्छ** प्रयच्छ । अपि च त उभे **स्वाभुवः** सुसमृद्धाः सन्तः **जरणां** जराम् **अश्नवन्त** प्राप्नुवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We, divine **Indra**, who are yours, are they, hero, who are praising you and offering rich libations; grantto (your) pious (worshippers) an excellent abode; and may they, prosperous, attain old age.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We are yours, god Indra, and so are those who are praised as giving  bounties [=patrons], o champion.  
 To our patrons grant utmost defense: being there (for us), they shall  reach old age.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine are we, Indra, thine, both these who praise thee, and those who give rich gifts, O God and Hero.  
      Grant to our princes excellent protection, may they wax old and still be strong and happy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen die Deinen sein, Indra, und die, welche als Geber von Geschenken gepriesen werden, du tapferer Gott. Gewähre den Lohnherren den höchsten Schutz! Rüstig sollen sie das Greisenalter erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir mögen dir, o Indra, recht gefallen, o Gott, und die, o Held, dir Gaben spenden; Gewähre deinen höchsten Schutz den Fürsten, lass hohes Alter sie beglückt erreichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы твои, о Индра, а также те, которые, о бог,  
 Славятся, о герой, как дающие щедрые дары.  

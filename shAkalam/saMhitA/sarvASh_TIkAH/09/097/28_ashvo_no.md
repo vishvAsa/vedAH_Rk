@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वो न꣡ क्रदो वृ꣡षभिर् युजानः꣡  
 सिंहो꣡ न꣡ भीमो꣡ म꣡नसो ज꣡वीयान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ पवस्व सौमनसं꣡ न इन्दो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒र्वा॒चीनैः॑ । प॒थिऽभिः॑ । ये । रजि॑ष्ठाः । आ । प॒व॒स्व॒ । सौ॒म॒न॒सम् । नः॒ । इ॒न्दो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
@@ -127,20 +127,20 @@ genre M
 हेसोम वृषभिरृत्विग्भिः सोममभिषुण्वद्भिः युजानोयोज्यमानस्त्वं अश्वोन अश्वइव क्रदः क्रन्दसि शब्दायसे । कीदृशाः सिंहोन सिंहइव भीमः शात्रूणां भयङ्करः तथा मनसो पि जवीयान् वेगवत्तरः अर्वाचीनैः अभिमुखैः पथिभिर्मार्गैः येमार्गाः रजिष्ठाः अत्यन्तमृ- जवोभवन्ति विभाषर्जोश्छान्दसीतिऋकारस्यरादेशः । हेइन्दो दीप्यमान सोम तैर्मार्गैः नोस्माकं सौमनसं सौमनस्यं आपवस्व आप्रापय ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Yoked by the priests, you neigh like a horse, (you are) terrible as a lion, swifter than thought; **Indu**, pour happiness upon us by those which are the most direct of the paths leading hitherward.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a horse you whinny on being yoked by the bulls, fearsome like a  lion, swifter than mind. Along paths turned hitherwards—those which are the straightest—  
 bring benevolence here to us by purifying yourself, o drop.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening of the vs., áśvo ná kradaḥ, is very close to 18c átyo ná kradaḥ. The first hemistich contains three animals, incl. the fairly rare lion. Geldner, fld.
 
@@ -159,23 +159,23 @@ The tṛca is marked by the repetition of ā́pavasva in the 2nd hemistich of ea
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, yoked by strong men, neighest like a courser, swifter than thought is, like an awful lion.  
      By paths directed hitherward, the straightest, send thou us happiness, Indu, while they cleanse thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Roß wieherst du von den Bullen angeschirrt, furchtbar wie ein Löwe, schneller als der Gedanke. Auf den herwärtsführenden Wegen, die die richtigsten sind, läutere dich, uns Wohlwollen bringend, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du wieherst wie ein Ross, geschirrt von Männern, ein Löwe furchtbar, schneller als Gedanken, Auf hergewandten, schnurgeraden Pfaden, o Indu, ströme hell uns hohes Glück zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты ржешь, словно конь, запряженный быками,  
 Страшный, как лев, быстрее мысли.  

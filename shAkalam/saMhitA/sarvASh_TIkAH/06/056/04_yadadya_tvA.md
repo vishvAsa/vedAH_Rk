@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अद्य꣡ त्वा पुरुष्टुत  
 ब्र꣡वाम दस्र मन्तुमः  
 त꣡त् सु꣡ नो म꣡न्म साधय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तत् । सु । नः॒ । मन्म॑ । सा॒ध॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -91,40 +91,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पुरुष्टुत** बहुभिर्यजमानैः स्तुत **दस्र** दर्शनीय **मन्तुमः** ज्ञानवन् पूषन् **अद्य** इदानीं **यत्** उद्दिश्य **त्वा** त्वां **ब्रवाम** स्तवाम **नः** अस्माकं **मन्म** मननीयं **तत्** धनं **सु** **साधय** उत्पादय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since, intelligent **Pūṣan**, of godly aspect, the praised of many, we celebrate you today, therefore grant us the desired wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What today we will say to you, much praised wondrous counselor, make that thought of ours reach its goal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since Pūṣan is the god who sends the cows home and watches over paths and journeys in general, it is entirely appropriate that he should “make [various objects] reach their goal” (sādhaya), including our thought. Cf. in the first Pūṣan hymn of this cycle, VI.53.4 sā́dhantām … no dhíyaḥ “Let our poetic visions reach their goal.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whate'er we speak this day to thee, Wise, Wondrous God whom many praise,  
      Give thou fulfilment of our thought.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was wir heute zu dir sprechen, du vielgepriesener, ratreicher Meister, diesen Gedanken führe uns fein aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Bitte, die wir heute dir, gerühmter, weiser, herrlicher, Aussprechen, die erfülle uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что сегодня, о многовосхваленный,  
 Мы говорим тебе, о удивительный, богатый советами (бог),  

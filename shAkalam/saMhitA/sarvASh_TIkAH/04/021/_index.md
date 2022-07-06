@@ -8,7 +8,7 @@ title = "+021"
 ‘ आ यात्विन्द्रः' इत्येकादशर्चमेकादशं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैन्द्रम् । ‘आ यातु ' इत्यनुक्रान्तम् । पृष्ठ्याभिप्लवषडहयोः प्रथमेऽहन्येतन्निविद्धानीयम् । सूत्रितं च- आ यात्विन्द्रोऽवस इति मरुत्वतीयम्' ( आश्व. श्रौ. ७.५.१८) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 21 (317)  
 Indra  
@@ -20,7 +20,7 @@ In verse 6 the gods coming to the sacrifice seem to be compared to the Aṅgiras
 Having thus provided Indra with a mythic model for generous giving (however  cryptically phrased), the poet then reproaches Indra in verse 9 for not participating  in the sacrificial give-and-take. The poet ends the hymn with a more conventional  summary verse and plea for goods and help (vs. 10), followed by the Vāmadeva  Indra-cycle refrain (vs. 11).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

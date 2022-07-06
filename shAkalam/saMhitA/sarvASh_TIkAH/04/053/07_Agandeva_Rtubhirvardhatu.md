@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡गन् देव꣡ ऋतु꣡भिर् व꣡र्धतु क्ष꣡यं  
 द꣡धातु नः सविता꣡ सुप्रजा꣡म् इ꣡षम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रजा꣡वन्तं रयि꣡म् अस्मे꣡ स꣡म् इन्वतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । क्ष॒पाभिः॑ । अह॑ऽभिः । च॒ । जि॒न्व॒तु॒ । प्र॒जाऽव॑न्तम् । र॒यिम् । अ॒स्मे इति॑ । सम् । इ॒न्व॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āgan* ← *āgam* ← *√gam*
 - \[verb\], singular, Root aorist (Ind.)
@@ -136,37 +136,37 @@ genre M
 **देवः** **सविता** **ऋतुभिः** सह **आगन्** आगच्छतु । गमेर्लङि रूपम् ॥ किंच **क्षयं** गृहं **वर्धतु** वर्धयतु । **नः** अस्माकं **सुप्रजां** शोभनपुत्राद्युपेतम् **इषम्** अन्नं **दधातु** ददातु । **सः** एव **नः** अस्मान् **क्षपाभिः** रात्रिभिः **अहभिश्च** । सर्वेषु दिनेष्वित्यर्थः । **जिन्वतु** प्रीणयतु धनादिभिः। **अस्मे** अस्मासु **प्रजावन्तं** **रयिं** **समिन्वतु** व्याप्नोतु । प्रापयत्वित्यर्थः ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the divine **Savitā** approach along with the Ṛtus, prosper our dwelling, and bestow upon us good progeny and food; may he be favourable to us by night and by day; may he heap upon us wealth comprehending offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The god has come according to the ritual progressions. Let him make  our dwelling place strong. Let Savitar establish for us refreshment that  brings good offspring.  
 Let him quicken us through the nights and the days. Let him speed  
 wealth that brings offspring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With the year's seasons hath Savitar, God, come nigh: may he prosper our home, give food and noble sons.  
      May he invigorate us through the days and nights, and may he send us opulence with progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gott Savitri ist zu seinen Zeiten gekommen; er soll unseren Wohnsitz mehren, soll uns das Labsal guter Kinder gewähren. Er soll uns Nacht und Tag stärken und uns Kinderreichtum verschaffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es kam der Gott zur Opferzeit, er mehre Gut, und kinderreichen Segen schenk uns Savitar; Er mache frisch bei Tage uns und in der Nacht, er theile Reichthum und der Kinder Schar uns zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пришел бог в (свое) время: да усилит он (наше) жилье!  
 Пусть даст нам Савитар жертвенную усладу в виде прекрасного потомства!  

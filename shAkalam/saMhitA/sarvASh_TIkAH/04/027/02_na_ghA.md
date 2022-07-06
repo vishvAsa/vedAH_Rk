@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ घा स꣡ मा꣡म् अ꣡प जो꣡षं जभार  
 अभी꣡म् आस त्व꣡क्षसा वीरि꣡येण  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उत꣡ वा꣡ताँ अतरच् छू꣡शुवानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ई॒र्मा । पुर॑म्ऽधिः । अ॒ज॒हा॒त् । अरा॑तीः । उ॒त । वाता॑न् । अ॒त॒र॒त् । शूशु॑वानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 **सः** गर्भः **मां** वामदेवं **जोषं** पर्याप्तं **न** **घ** नैव **अप** **जभार** अपजहार । गर्भेऽपि वसतो मे मोहो नाभूदित्यर्थः । अहं तु **ईम्** इदं गर्भस्थं दुःखं **त्वक्षसा** तीक्ष्णेन **वीर्येण** ज्ञानसामर्थ्येन **अभि** **आस** अभ्यभवम् । **ईर्मा** सर्वस्य प्रेरकः **पुरंधिः** पुरां धारकः परमात्मा **अरातीः** गर्भसंश्रितान् शत्रून् **अजहात्** अत्यजत् । जघान । **उत** अपि च **शूशुवानः** वर्धमानः परिपूर्णः परमात्मा **वातान्** गर्भक्लेशकरान् वायून् **अतरत्** अतारीत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,13 +137,13 @@ genre M
 The impeller of all: the **paramātmā**, or **supreme spirit**; beyond the winds: the vital airs, or life, the cause of worldly existence, which is pain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Soma:] He certainly did not carry me away against my will; I was  superior to him in energy and valor.  
 Plenitude left behind the hostilities (which were just standing) still, and  (the falcon), swelling with strength, overtook the winds.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is general agreement that Soma speaks this and the following vss.
 
@@ -156,23 +156,23 @@ participle. See Narten’s sim. tr. (Kl Sch. 69).
 Since púraṃdhi- is fem., and the nom. sg. śū́śuvānaḥ in d is masc., Puraṃdhi cannot be the subject there -- rather the falcon, as the standard interpr. agree.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not at his own free pleasure did he bear me: he conquered with his strength and manly courage.  
      Straightway the Bold One left the fiends behind him and passed the winds as he grew yet more mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht trug er mich gern fort, ich war ihm an Tatkraft und Mannesstärke überlegen. Purandhi ließ die Arati´s zurück und er überholte mit überlegener Kraft die Winde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Nicht trug mich jener fort, wie's ihm beliebte, ich übertraf an Heldenkraft und Macht ihn; Der vollgefüllte tilgte rasch die Bösen, und sehr gekräftigt drang er durch die Lüfte.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь он унес меня не против желания.  
 Я превосходил его расторопностью (и) мужеством.  

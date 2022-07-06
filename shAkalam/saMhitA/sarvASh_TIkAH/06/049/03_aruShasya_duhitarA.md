@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अरुष꣡स्य दुहित꣡रा वि꣡रूपे  
 स्तृ꣡भिर् अन्या꣡ पिपिशे꣡ सू꣡रो अन्या꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡न्म श्रुतं꣡ नक्षत ऋच्य꣡माने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मि॒थः॒ऽतुरा॑ । वि॒चर॑न्ती॒ इति॑ वि॒ऽचर॑न्ती । पा॒व॒के इति॑ । मन्म॑ । श्रु॒तम् । न॒क्ष॒तः॒ । ऋ॒च्यमा॑ने॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aruṣasya* ← *aruṣa*
 - \[noun\], genitive, singular, masculine
@@ -102,7 +102,7 @@ genre M
 इयमहोरात्रयोः स्तुतिः । **अरुषस्य** आरोचमानस्य सूर्यस्य **दुहितरा** दुहितरौ । सूर्येण हि अहोरात्रयोर्विभागः क्रियते । अतस्तदधीनात्मलाभत्वात् तस्य दुहितरावित्युच्येते । **विरूपे** शुक्लकृष्णतया नानारूपे । तयोः **अन्या** एका रात्रिः **स्तृभिः** नक्षत्रैः **पिपिशे** पिश्यते संश्लिष्यते ।  ‘ पिश अवयवे' इति धातुः । **अन्या** अहरात्मिका दुहिता **सूरः** सूर्येण पिपिशे संश्लिष्यते । ते च नक्षत्रैः सूर्येण चालंकृते भवत इत्यर्थः । **मिथस्तुरा** परस्परं बाधयन्त्यौ । अह्ना रात्रिर्निवर्त्यते रात्र्या चाहरिति परस्परं बाधः । अत एव **विचरन्ती** विविधं पृथक् चरन्त्यौ **पावके** सर्वस्य शोधयित्र्यौ । एवंभूते अहश्च रात्रिश्च **ऋच्यमाने** अस्माभिः स्तूयमाने सत्यौ **श्रुतं** श्रोतव्यं **मन्म** मननीयं स्तोत्रमस्मत्कृतं **नक्षतः** व्याप्नुताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,35 +113,35 @@ genre M
 The two daughters: day and night, the daughters of the sun, directly or their cause, indirectly
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two daughters of the ruddy one, differing in form: the one is  ornamented with stars, the other is the sun’s.  
 The two pure ones, transiting alternately, wandering apart—being  
 hymned they both approach the prayerful thought once it is heard.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My tr. of sū́ro anyā́“the other is the sun’s” follows Oldenberg, who adopted it from Ludwig. Geldner (/Renou) supply an instr. raśmíbhiḥ ‘with the rays’, parallel to stṛ́bhiḥ, on which sū́raḥ depends. This seems unnec. Renou’s claim that the accent on pipiśé “déconseille l’interpretation de sū́raḥ donnée par Oldenberg” does not convince: although by the Oldenberg reading pipiśé is not part of both anyā́clauses as it would be with the additional instr., it occurs at the boundary of two explicitly contrastive clauses, which would, I think, be sufficient to induce accent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unlike in form are the Red God's two Daughters: one is the Sun's, and stars bedeck the other.  
      Apart, the Sanctifiers, in succession, come to the famed hymn, praised in holy verses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von verschiedenem Aussehen sind die beiden Töchter des Rötlichen: die eine ist mit den Sternen geschmückt, die andere mit den Strahlen des Sonnengottes Surya, die getrennt wandeln, sich gegenseitig einholend, die Reinen kommen besungen zu dem gehörten Gebet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des feurigrothen ungleichfarb'ge Töchter, die eine sterngeschmückt, mit Licht die andre, In stetem Wechsel wandernd, herrlich prangend, besungen gehn sie zum gehörten Liede.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разного вида две дочери алого:  
 Одна украшена звездами, другая (лучами) солнца.  

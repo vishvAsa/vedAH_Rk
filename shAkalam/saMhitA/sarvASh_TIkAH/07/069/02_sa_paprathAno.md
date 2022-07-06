@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पप्रथानो꣡ अभि꣡ प꣡ञ्च भू꣡मा  
 त्रिवन्धुरो꣡ म꣡नसा꣡ यातु युक्तः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कु꣡त्रा चिद् या꣡मम् अश्विना द꣡धाना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विशः॑ । येन॑ । गच्छ॑थः । दे॒व॒ऽयन्तीः॑ । कुत्र॑ । चि॒त् । याम॑म् । अ॒श्वि॒ना॒ । दधा॑ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -128,36 +128,36 @@ genre M
 **सः** रथः **पञ्च** **भूम** भूतानि सर्वप्राणिनः **पप्रथानः** प्रथमानः **त्रिवन्धुरः** । वन्धुरमुच्चावचं सारथ्यवस्थानं काष्ठमयम् । तादृशैस्त्रिभिर्युक्तः **मनसा** अस्मत्स्तुत्या **युक्तः** **अभि** **आ** **यातु** । **येन** रथेन **देवयन्तीः** **विशः** यजमानान् प्रति गच्छथः । हे **अश्विना** अश्विनौ **कुत्र** **चित्** यत्र क्वापि **यामं** गमनं **दधाना** धारयन्तौ येन विशो गच्छथः स यात्विति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Renowned among the five orders of beings, furnished with three benches, harnessed at will, may itcome hither; that (vehicle) wherewith you repair to devout mortals, whatsoever, **Aśvins**, directing your course.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Spreading over the five lands, yoked by thought, let it with its three  chariot-boxes journey here—  
 (the chariot) by which you two go to the clans serving the gods, as you  set your journey toward any direction, Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let it approach, yoked by thewill, three-seated, extending far and wide o'er fivefold beings,  
      Whereon ye visit God-adoring races, bending your course whither ye will, O Asvins.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Über die fünf Erdteile sich verbreitend soll der dreisitzige Wagen , durch bloßen Gedanken geschirrt, herkommen, auf dem ihr zu den gottergebenen Stämmen kommt, eure Fahrt wohin ihr wollt, richtend, ihr Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weit sich ausdehnt über alle Lande, drei Sitze trägt, der geistgeschirrte komme, Auf dem ihr fahret zu den frommen Stämmen, ringshin, o Ritter, eure Fahrten lenkend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Распространяясь на пять земель,  
 Пусть приедет эта (колесница) с тремя сиденьям, запряженная (одной только) мыслью,  

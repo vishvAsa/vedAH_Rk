@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्रा꣡ ते ह꣡स्ता सु꣡कृतोत꣡ पाणी꣡  
 प्रयन्ता꣡रा स्तुवते꣡ रा꣡ध इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 किं꣡ नो꣡द्-उद् उ हर्षसे दा꣡तवा꣡ उ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 का । ते॒ । निऽस॑त्तिः । किम् । ऊं॒ इति॑ । नः॒ । म॒म॒त्सि॒ । किम् । न । उत्ऽउ॑त् । ऊं॒ इति॑ । ह॒र्ष॒से॒ । दात॒वै । ऊँ॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadrā* ← *bhadra*
 - \[noun\], nominative, dual, masculine
@@ -159,20 +159,20 @@ genre M
 हे **इन्द्र** **ते** त्वदीयौ **भद्रा** भद्रौ कल्याणौ **हस्ता** हस्तौ **सुकृता** सुकृतौ शोभनकर्माणौ भवतः । **उत** अपि च **पाणी** त्वदीयौ हस्तौ **स्तुवते** स्तोत्रे यजमानाय **राधः** धनं **प्रयन्तारा** प्रयन्तारौ प्रदातारौ भवतः । हे इन्द्र **ते** त्वदीया **निषत्तिः** निषदनं स्थितिः **का** । त्वमस्मान् **किमु** किमर्थं **नो** **ममत्सि** न मादयसि । **किम्** **उदुदु** किमर्थमेव **दातवै** अस्माकं धनं दातुं **न** **हर्षसे** हृष्टो न भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your auspicious **hands**, **Indra**, are the doers of good deeds; your two hands, Indra, are the extenders of wealth to him who praises you; what, Indra, is this delay? why do you not exhilarate us? why are you not delighted to make us gifts?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Auspicious are your hands and well-fashioned your palms, as ones that  hold out largesse to the praiser, o Indra.  
 Why are you sitting it out? And why do you not find exhilaration? And  why do you not rouse yourself higher and higher to give?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is with considerable relief that we return to Indra.
 
@@ -183,23 +183,23 @@ The sequence kím u nó …, kíṃ nód-ud u …is playful and, probably for th
 However, it is difficult to see what else to make of it, and the almost mirror image in the next pāda, where there’s a coalescence of ná + úd into nód and an even later u following the complex of kím NEG PREV, suggests that the poet is having a bit of fun with u. Given the colloquial tone of this hemistich, we may also be seeing a looser deployment of particles and “little” words characteristic of ordinary speech. (And who can resist the lilt of nód-ud u?) The multiplication of u’s is completed by a form of the notorious -tavā́u infinitive at the end of d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Auspicious are thy hands, thine arms wellfashioned which proffer bounty, Indra, to thy praiser.  
      What sloth is this? Why dost thou not rejoice thee? Why dost thou not delight thyself with giving?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glückbringend sind deine Fäuste und wohlgebildet deine Hände, die dem Sänger die Ehrengabe überreichen, o Indra. Was soll dein Stillsitzen? Warum wirst du nicht lustig? Warum brennst du nicht darauf zu schenken?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heilvoll, an Thaten reich sind deine Hände, wenn, Indra, sie dem Sänger Gaben reichen; Wo rastest du? was eilst du nicht zum Rausche? hast du nicht Lust recht, Gaben uns zu schenken?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благословенны твои руки, прекрасно созданные ладони,  
 Вручающие дар певцу, о Индра.  

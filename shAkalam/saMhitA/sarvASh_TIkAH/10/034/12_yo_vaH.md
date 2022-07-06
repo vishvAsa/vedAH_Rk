@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वः सेनानी꣡र् महतो꣡ गण꣡स्य  
 रा꣡जा व्रा꣡तस्य प्रथमो꣡ बभू꣡व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡शाह꣡म् प्रा꣡चीस् त꣡द् ऋतं꣡ वदामि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्मै॑ । कृ॒णो॒मि॒ । न । धना॑ । रु॒ण॒ध्मि॒ । दश॑ । अ॒हम् । प्राचीः॑ । तत् । ऋ॒तम् । व॒दा॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -144,7 +144,7 @@ popular
 हे अक्षाः **वः** युष्माकं **महतो** **गणस्य** संघस्य **यः** अक्षः **सेनानीः** नेता **बभूव** भवति **व्रातस्य** च । गणव्रातयोरल्पो भेदः । **राजा** ईश्वरः **प्रथमः** मुख्यो बभूव **तस्मै** अक्षाय **कृणोमि** अहमञ्जलिं करोमि । अतः परं **धना** धनानि अक्षार्थमहं **न** **रुणध्मि** न संपादयामीत्यर्थः । एतदेव दर्शयति । **अहं** **दश** दशसंख्याका अङ्गुलीः **प्राचीः** प्राङ्मुखीः करोमि । **तत्** एतत् अहम् **ऋतं** सत्यमेव **वदामि** । नानृतं ब्रवीमीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,34 +155,34 @@ popular
 I do notprovide him wealth: na danā ruṇadhmi = I do not withhold my wealth; na sampādayāmi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Gambler:] He who has become the general of your great throng, the  foremost king of the troop,  
 to him I put forth my ten (fingers): “I withhold no money. This truth  I speak.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To the great captain of your mighty army [of dice], who has become the host's imperial leader,  
      To him I show [my] ten [extended fingers]: "I speak the truth: No wealth am I withholding."
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 To him who's general of your mighty forces, As king becomes the chief of your battalions, I hold my fingers ten extended forward "No money I withhold, this truth I tell thee."
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer der Heerführer eurer großen Truppe, der oberste König des Heerhaufens geworden ist, dem strecke ich die zehn Finger entgegen und schwöre einen Eid: Ich halte keine Schätze zurück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm, der der Führer eures grossen Heeres und erster König ist der ganzen Bande, Dem will ich meine Gaben nicht versagen, die Finger streck' ich aus, beschwör' als wahr es.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто есть полководец вашей великой армии,  
 Царь, первый в содружестве,  

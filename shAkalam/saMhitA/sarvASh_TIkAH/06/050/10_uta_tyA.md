@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्या꣡ मे ह꣡वम् आ꣡ जग्मियातं  
 ना꣡सत्या धीभि꣡र् युव꣡म् अङ्ग꣡ विप्रा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तू꣡र्वतं नरा दुरिता꣡द् अभी꣡के
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अत्रि॑म् । न । म॒हः । तम॑सः । अ॒मु॒मु॒क्त॒म् । तूर्व॑तम् । न॒रा॒ । दुः॒ऽइ॒तात् । अ॒भीके॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -130,20 +130,20 @@ genre M
 **उत** अपि च हे **विप्रा** प्राज्ञौ **नासत्या** सत्यस्वभावौ सत्यस्य नेतारौ वा हे अश्विनौ **त्या** तौ प्रसिद्धौ **युवं** युवां **धीभिः** परिचरणकैः कर्मभिरुपेतं **मे** मदीयं **हवं** स्तोत्रम् **अङ्ग** क्षिप्रम् **आ** **जग्म्यातम्** आगच्छतम् । आगत्य च **महः** महतः **तमसः** असुरकृतादन्धकारात् **अत्रिं** **न** यथात्रिमृषिम् **अमुमुक्तं** मोचितवन्तौ स्थः हे **नरा** नेतारावश्विनौ तथास्मानपि **अभीके** अभ्यक्ते प्राप्ते संग्रामे **दुरितात्** दुःखात् शत्रुकृतात् **तूर्वतम्** अस्मांस्तारयतम् ॥ ॥९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wise **Nāsatyās** come quickly to my invocation (united) with holy acts; (extricate us) from thick darkness, as you did extricate **Atri**; protect us, leaders (of rites) from danger in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you Nāsatyas should come here to my summons with your  insightful thoughts—you certainly are inspired poets.  
 (As you did) Atri from great darkness, release (me)—triumph, men!— from difficulty at close quarters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. poses several syntactic problems. In ab the position of aṅgá speaks against taking the full hemistich as a single cl. (so, more or less, Klein DGRV I.422).
 
@@ -170,23 +170,23 @@ These three vss. contain a series of perfect optatives, jagamyāt (8b), vavṛty
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come also to my call, O ye Nasatyas, yea, verily, through my prayers, ye Holy Sages.  
      As from great darkness ye delivered Atri, protect us, Chiefs, from danger in the conflict.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch ihr Nasatya´s möget auf meinen Ruf kommen, gerade ihr seid redebegabt mit guten Gedanken. Wir ihr den Atri aus dem großen Dunkel befreit habt, so helfet ihr Herren unmittelbar aus der Not!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und auch ihr beide kommt auf meinen Ruf her ihr treuen, weisen, ihr vor allen achtsam; Wie Atri ihr aus tiefem Dunkel löstet, so rettet mich, o Männer, aus Bedrängniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также те двое пусть придут на мой зов –  
 О Насатьи, вы же (связаны) с поэтическими мыслями, о вдохновенные!  

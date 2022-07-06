@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ सुष्टु꣡भा स꣡ स्तुभा꣡ सप्त꣡ वि꣡प्रैः  
 स्वरे꣡ण अ꣡द्रिं स्वरि꣡यो न꣡वग्वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वलं꣡ र꣡वेण दरयो द꣡शग्वैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒र॒ण्युऽभिः॑ । फ॒लि॒ऽगम् । इ॒न्द्र॒ । श॒क्र॒ । व॒लम् । रवे॑ण । द॒र॒यः॒ । दश॑ऽग्वैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -114,7 +114,7 @@ genre M
 अङ्गिरसो द्विविधाः । सत्रयागमनुतिष्ठन्तो ये नवभिर्मासैः समाप्य गतास्ते नवग्वाः ।' नवग्वा नवनीतगतयः' (निरु. ११. १९) इति यास्को व्याचख्यौ। ये तु दशभिर्मासैः समाप्य जग्मुस्ते दशग्वाः। तादृशैरुभयविधैः **विप्रैः** मेधाविभिः **सरण्युभिः** सरणं शोभनां गतिमिच्छद्भिः **सप्त** सप्तसंख्याकैः । सप्त ह्यत्र मेधातिथिप्रभृतयोऽङ्गिरसो दृश्यन्ते । एवंभूतैरङ्गिरोभिः **सुष्टुभा** शोभनस्तोभयुक्तेन **स्वरेण** उदात्तादिश्रव्यस्वरोपेतेन । यद्वा । मन्द्रमध्यमादिस्वरेण **स्तुभा** स्तोत्रेण **स्वर्यः** सुष्ठु प्राप्यः । यद्वा । शब्दनीयः स्तुत्य इत्यर्थः । हे **शक्र** शक्तिमन् **इन्द्र** एवंभूतः **सः** त्वम् **अद्रिम्** आदरणीयं वज्रेण छेत्तव्यमित्यर्थः । फलिगम् । प्रतिफलं प्रतिबिम्बम् । तदस्मिन्नस्तीति फलि स्वच्छमुदकम् । तद्गच्छति आधारत्वेनेति फलिगः । यद्वा । व्रीह्यादि फलम् । तदस्मिन् सति भवतीति फलि वृष्टिजलम् । तद्गच्छतीति फलिगः । एवंभूतं **वलं** मेघं **रवेण** आत्मीयेन शब्देन **दरयः** अभाययः। त्वदीयशब्दश्रवणमात्रेण मेघो बिभेतीत्यर्थः । यद्वा । अद्रिः पर्वतः। अद्यतेऽस्मिन् पटलादिकमिति' । फलिगो मेघः ।  ‘ फलिगः उपलः ' ( नि. १. १०. १७ ) इति तन्नामसु पाठात् । वलोऽसुरः । ' देवा वै वले गाः पर्यपश्यन् ' ( ऐ. ब्रा. ६. २४ ) इत्यादौ असुरे प्रयुक्तत्वात् । एते त्रयोऽपि त्वदीयशब्दश्रवणमात्रेणाबिभयुरित्यर्थः ॥ सः इत्येकः पादपूरणः । सुष्टुभा । स्तोभतिः स्तुतिकर्मा । संपदादिलक्षणो भावे क्विप्। शोभनः स्तुप् स्तोभो यस्य । ‘नञ्सुभ्याम् ' इत्युत्तरपदान्तोदात्तत्वम् ।  ‘ उपसर्गात्सुनोति' इति षत्वम् । स्तुभा । करणभूतस्यापि स्तोत्रस्य स्वव्यापारे कर्तृत्वात् स्तोभति स्तौतीति ‘क्विप् च' इति कर्तरि क्विप् । ‘सावेकाचः' इति विभक्तेरुदात्तत्वम् । सप्त । ‘सुपां सुलुक्' इति भिसो लुक् । स्वर्यः । स्वृ शब्दोपतापयोः ।  ‘ ऋहलोर्ण्यत्' इति ण्यत् । वृद्ध्यभावश्छान्दसः ।  ‘ तित्स्वरितम्' इति स्वरितत्वम् । नवग्वैः । नवशब्दे उपपदे गमेर्भावे क्विपि ' गमः क्वौ ' ( पा. सू. ६. ४. ४० ) इत्यनुनासिकलोपे ' ऊ च गमादीनामिति वक्तव्यम् ' ( पा. सू. ६. ४. ४०. २ ) इति ऊकारान्तादेशः । नवभिः गूः गमनं येषां ते नवग्वाः। अकारोपजनश्छान्दसः । यद्वा । गमेर्भावे ड्वप्रत्ययः । पूर्ववत् बहुव्रीहिः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । सरण्युभिः । सरणमात्मन इच्छन्तः सरण्यवः । क्यचि अन्त्यलोपश्छान्दसः । क्याच्छन्दसि' इति उः। फलिगम् । फलि उदकं गच्छतीति फलिगः । ‘डोऽन्यत्रापि दृश्यते ' ( पा. म. ३. २. ४८ ) इति गमेर्डः । वलम् । वृणोतीति वलः । पचाद्यच् । कपिलकादित्वात् लत्वम् (पा. म. ८. २. १८)। दरयः ।  ‘दॄ विदारणे' । वृद्धौ कृतायां दॄ भये इति घटादिषु पाठात् मित्त्वे • मितां ह्रस्वः' इति ह्रस्वत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ Phaliga = a cloud;
 **Vala** = an **asura**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He with (his flock) of good rhythm, he with rhythm, with the seven  inspired poets, with the Navagvas, he, the resounding one, with sound  (split) the rock.  
 With the hastening ones, o able Indra, you cleft the bolt, with a roar you  cleft Vala with the Daśagvas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The repetitions and lexical and phonological echoes that have served Nodhas well in the first three verses increase here, to an almost incantatory level. To point to a few of these: a sá suṣṭúbhā sá stubhā́(again a syncopation, as in 3c); b svaréṇa … svarí yo …; c: saraṇyubhiḥ echoes the sá’s of a and the s(v)ar’s of b, while finding its own faint echo in the final śakra of the pāda; d ráveṇa is a virtual anagram of svaréṇa in b, darayo is almost a rhyme form of svarí yo in b in the same metrical position, and both svarí yo and darayo precede the hemistich-final words ending in - gvaiḥ.
 
@@ -150,23 +150,23 @@ All other tr. take this verse as a single sentence with 2nd ps. subj. However, a
 In c I do not take saraṇyú- and phaligá- as personal names, pace Geldner et al. The tr. ‘bolt’ for the latter follows Hiersche (Asp., ‘Riegel, Vershluss’), based on a possible connection with parigha- (Up+) ‘iron bar for shutting a door/gate’; see EWA s.v. However, as Elizabeth Tucker points out, a less specific sense such as ‘barrier’ would fit the contexts better and would also make fewer assumptions about early technology.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mid shout, loud shout, and roar, with the Navagvas, seven singers, hast thou, heavenly, rent the mountain;  
      Thou hast, with speeders, with Dasagvas, Indra, Sakra, with thunder rent obstructive Vala.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du sprengtest mit der schmetternden Schar, du unter schmetterndem Tone mit den sieben Redegewaltigen, laut mit leiser Stimme zusammen mit den Navagva´s den Fels, mit den Saranyu´s den Phaliga, o mächtiger Indra, unter Geschrei den Vala im Bunde mit den Dasagva´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Jubelruf mit lautem Schall zerbrachst du mit sieben Sängern, mit der Schar der Neuner Den Fels mit Krachen, o gewalt'ger Indra, die Wolkenhöhle mit den raschen Zehnern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе с громогласной (толпой), с громким гласом с семью вдохновенными  
 С (пронзительным) звуком звучный проломил скалу вместе с Навагва,  

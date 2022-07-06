@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् उ ष्विद् अस्मै निवि꣡दो भनन्त  
 इ꣡न्द्रस्यावद्यं꣡ दिधिषन्त आ꣡पः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृत्रं꣡ जघन्वाँ꣡ असृजद् वि꣡ सि꣡न्धून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मम॑ । ए॒तान् । पु॒त्रः । म॒ह॒ता । व॒धेन॑ । वृ॒त्रम् । ज॒घ॒न्वान् । अ॒सृ॒ज॒त् । वि । सिन्धू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
@@ -125,7 +125,7 @@ popular
 यदेन्द्रो वृत्रासुरं हतवान् तदा शाश्वतीं ब्रह्महत्यां प्राप्तवानिति वामदेवस्याभिप्रायमुन्नीय अदितिः आह । **निविदः** । मरुत्वतीयशस्त्रे प्रयुज्यमानानि ‘ मरुत्स्तोत्रो मरुद्गणः' इत्यादीनीन्द्रस्तुतिप्रतिपादकानि कानिचित् पदानि निविच्छब्देनोच्यन्ते । ता निविदः **अस्मै** इमं वृत्रवधनिमित्तं ब्रह्महत्यारूपं पापं प्राप्नुवन्तमिन्द्रं **किमु** **ष्वित्** **भनन्त** भनन्ति । किं वदन्तीति चेत् । तर्हि इन्द्रं पापरहितं मत्वा निविदः स्तुवन्ति । कथमिन्द्रस्य पापरहितत्वम् । उच्यते । **आपः** फेनरूपेणास्य **इन्द्रस्य** **अवद्यं** ब्रह्महत्यादिरूपं पापं **दिधिषन्ते** धारयन्ति । **मम** **पुत्रः** मदीयः पुत्र इन्द्रः **महता** प्रभूतेन **वधेन** । वध इति वज्रनामैतत् । वज्रेण **वृत्रं** जघन्वान् हतवान् । ततः **एतान्** सिन्धून् उदकानि **वि** **असृजत्** विशेषेण स्वैरत्वेन सर्तुं सृष्टवान्। इन्द्रेणोत्सृष्टा आपस्तस्य पापं जगृहुरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ popular
 What do the sacred strains declare: kinuṣvid asmai nivido manante: the nivids are certain verses repeated at some sacrifices to Indra and the **Maruts** in their honour, and are tantamount to an acquittal of the charge imputed to Indra, and here anticipated by **Aditi** of brhmanicide, Vṛtra being a **brahman**; the crime was transferred to the waters in the shape of foam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra’s Mother:] What did they say as invitations to him? Do the waters  intend to take on Indra’s disgrace?  
 It was my son who set loose these rivers, after having smashed Vr̥tra with  his great murderous weapon.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. celebrates the fructifying liquid that Indra released by destroying Vṛtra and depicts its effects on humans (specifically females)(ab), the landscape (c), and livestock (d). The first hemistich is a cleverly constructed echo chamber, because the females being made to swell (that is, get pregnant) there probably stand for the waters, but are also compared to waters. In other words the waters are being compared to waters, by way of the intermediate ‘unwed girls’ (agrúvaḥ). This is also something of a dig at Vṛtra, who hadn’t managed to make them pregnant though he is sometimes called their husband (cf., e.g., dāsá-patnī- ‘having a Dāsa as husband’ in I.32.11, etc.). Indra’s role as their real husband is embodied in the final word of the vs. dáṃsupatnīḥ (however we interpret the rest of it; see below).
 
@@ -176,23 +176,23 @@ The responsive phrases kím … bhananti (6c) and kím … bhananta (7a) provide
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Are they addressing him with words of welcome? Will the floods take on them the shame of Indra?  
      With his great thunderbolt my Son hath slaughtered Vrtra, and set these rivers free to wander.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Reden sie ihm einladende Worte nach, oder beabsichtigen die Gewässer Indra´s Schande? Mein Sohn hat diese Flüsse laufen lassen, nachdem er mit der großen Waffe den Vritra erschlagen hatte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Sind's Sprüche, die die Wasser ihm verkünden? ist's etwa Hohn, den sie dem Indra bieten? Mein Sohn liess strömen diese Flüsse alle, als Vritra er mit mächt'gem Hieb erschlagen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Говорят ли они ему слова приглашения?  
 Хотят ли воды подтвердить позор Индры?  

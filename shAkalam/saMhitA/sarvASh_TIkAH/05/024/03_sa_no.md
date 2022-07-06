@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो बोधि श्रुधी꣡ ह꣡वम्  
 उरुष्या꣡ णो अघायतः꣡ समस्मात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
 सः । नः॒ । बो॒धि॒ । श्रु॒धि । हव॑म् । उ॒रु॒ष्य । नः॒ । अ॒घ॒ऽय॒तः । स॒म॒स्मा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -77,7 +77,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
 हे अग्ने **सः** त्वं **नः** अस्मान् **बोधि** बुध्यस्व । **हवम्** अस्मदीयमाह्वानं **श्रुधि** शृणु । **अघायतः** अघमिच्छतः **समस्मात्** सर्वस्माजनात् **नः** अस्मान् **उरुष्य** रक्ष ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,32 +88,32 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
 Sumnāya = sukhāya, sukhibhyaḥ samānakhyātibhyaḥ putrebhyaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be attentive to us, and hear our summons. Give us freedom from anyone  who wishes evil.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So hear us, listen to this call of ours, and keep us far from every sinful man.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Listen to us then; hear our call; deliver us from every harmful man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Acht auf uns, erhöre den Ruf, befreie uns von jeglichem Böswilligen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So acht' auf uns und hör den Ruf und schaff uns Raum vor jedem schlechtgesinnten;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -4 Заметь нас! Услышь (наш) зов!  
 Избавь нас от любого злоумышляющего!  

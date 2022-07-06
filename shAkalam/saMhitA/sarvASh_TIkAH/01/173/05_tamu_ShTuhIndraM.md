@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ ष्टुहि इ꣡न्दरं+ यो꣡ ह स꣡त्वा  
 यः꣡ शू꣡रो · मघ꣡वा यो꣡ रथेष्ठाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ववव्रु꣡षश् चित् त꣡मसो विहन्ता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र॒ती॒चः । चि॒त् । योधी॑यान् । वृष॑ण्ऽवान् । व॒व॒व्रुषः॑ । चि॒त् । तम॑सः । वि॒ऽह॒न्ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -122,20 +122,20 @@ genre M
 “योधीयान् योद्धृतमः ॥ प्रतिपूर्वादञ्चतेः क्विनन्तात् लुप्तमकारात् शसि ‘अचः' इति अकारलोपे  चौ ' इति दीर्घः । ‘अञ्चेश्छन्दस्यसर्वनामस्थानम् ' इति विभक्तिरुदात्ता ॥ **वृषण्वान्** । वृषाणो वर्षितारो वज्रादयः । तद्वान् । वृषा ते वज्र उत ते वृषा रथः ' (.ऋ सं. २. १६. ६ ) इति हि निगमः । तथा **ववव्रुषश्चित्तमसः** आवरकस्यापि तमसो मेघादेः **विहन्ता** विशेषेण घातकः । यस्मादेवंमहानुभावः तस्मात् स्तुहि ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorify that **Indra** who is mighty, who is a hero, possessing abundant wealth, standing in his car, a valiant combatant against adversaries, the wilder of the thunderbolt, the dispenser of all-enveloping gloom.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praise this Indra, who is the “real thing,” who is a champion, who is a  benefactor, standing upon his chariot.  
 More combative even than his opponent, provided with bulls, he’s the  one who smashes apart even the enveloping darkness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In its contexts sátvan- clearly refers to a successful warrior, but it is of course a possessive -van-stem to the neut. pres. part. to √as ‘be’, whose participle, lit.
 
@@ -146,23 +146,23 @@ Where to put maghávā is a minor question, since word order could support group
 syllable (so also Kümmel p. 456) for expected *va-vr-uṣ-. The additional reduplicating syllable may have been added because the root syllable is swallowed up in the weak stem of the participle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise thou that Indra who is truly mighty, the car-borne Warrior, Maghavan the Hero;  
      Stronger in war than those who fight against him, borne by strong steeds, who kills enclosing darkness;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Indra preise, der ein Soldat, der ein freigebiger Held, der ein Wagenkämpfer ist, der jedem, der sich ihm entgegenstellt, im Kampf überlegen ist, der mit Hengsten fährt, der auch die verhüllende Finsternis zerstreut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra preise, welcher wahrhaft stark ist, der als ein Kriegsheld steht auf seinem Wagen, Mit Hengsten fahrend, jedem überlegen, vertreibend auch das festumschlossne Dunkel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Славь же этого Индру, (того,) кто боец,  
 Кто щедрый герой, кто стоит на колеснице,  

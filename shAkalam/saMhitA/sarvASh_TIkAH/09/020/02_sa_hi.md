@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ ष्मा जरितृ꣡भ्य आ꣡  
 वा꣡जं गो꣡मन्तम् इ꣡न्वति  
 प꣡वमानः सहस्रि꣡णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑मानः । स॒ह॒स्रिण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **स** **हि** **ष्म** स खलु **पवमानः** सोमः **जरितृभ्यः** स्तोतृभ्यः **गोमन्तं** बहुभिगोंभिर्युक्तं **सहस्रिणं** सहस्रसंख्याकं **वाजम्** अन्नम् **आ** अभिमुखम् **इन्वति** व्याप्नोति । प्रयच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily he, the pure-flowing, bestows upon his praisers thousands of victuals with cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For he sends to the singers a prize of cattle  
 in thousands, as he purifies himself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For he, as Pavamana, sends thousandfold treasure in the shape  
      Of cattle to the singing-men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er bringt den Sängern Gewinn von Rindern, tausendfältigen, während er sich läutert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn tausendfache Labungen, an Rindern reiche führet er, Der rieselnde, den Sängern zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это он посылает певцам  
 Награду, состоящую из коров,  

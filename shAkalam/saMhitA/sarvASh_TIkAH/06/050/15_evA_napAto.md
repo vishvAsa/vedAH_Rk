@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ न꣡पातो म꣡म त꣡स्य धीभि꣡र्  
 भर꣡द्वाजा अभि꣡ अर्चन्ति अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे स्तुता꣡सो भू᳐ता यजत्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ग्नाः । हु॒तासः॑ । वस॑वः । अधृ॑ष्टाः । विश्वे॑ । स्तु॒तासः॑ । भू॒त॒ । य॒ज॒त्राः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -118,43 +118,43 @@ genre M
 **एव** एवं योऽहं देवान् स्तुतवान् **तस्य** **मम** ऋजिश्वनः **नपातः** पुत्राः **भरद्वाजाः** भरद्वाजगोत्रजाः सुहोत्रादयः **धीभिः** स्तोत्रैः **अर्कैः** अर्चनसाधनैः **अभ्यर्चन्ति** अभिष्टुवन्ति । हे **यजत्राः** यष्टव्या देवाः **हुतासः** पुरोडाशादिभिर्हविर्भिः हुतास्तर्पिताः **वसवः** निवासयितारः **अधृष्टाः** कैरप्यहिंसिताः। एवंभूताः **विश्वे** ते सर्वे यूयं **ग्नाः** देवपत्न्यश्च **स्तुतासो** **भूत** । तैः सुहोत्रादिभिः स्तुता भवत ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thus do my sons, of the race of **Bharadvāja**, worship the gods with sacred rites and holy hymns; and so, adorable (deities), may you, who are worshipped and glorified, the givers of dwellings, the invincible, universal gods, ever be adored, (together with your) wives.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way the Bharadvājas, the descendants of me, this Mamata,  chant with their insightful thoughts, with their chants.  
 The (divine) ladies, the unassailable good ones who are offered to—all  of you be praised, you who deserve the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the phrase máma tásya as a probable play on the PN Mamatā̆, see comm. ad VI.10.2.
 
 The phrase vásavo ádhṛṣṭāḥ returns from 4b, where it refers to the Maruts (unless, with Geldner and Renou we take vásavaḥ there, and here, as referring to a separate group, the Vasus). There it was immediately preceded by hūtā́saḥ ‘invoked’, here by hutā́saḥ ‘offered to’, an understated but clever variation. In this context, the final totalizing vs. of the hymn, the “unassailable good ones” should probably refer to all the gods, in a gender-inclusive pairing with the gnā́ḥ ‘(divine) ladies’ -- an unusual bow to the female side.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So with my thoughts and hymns of praise the children of Bharadvaja sing aloud to please you.  
      The Dames invoked, and the resistless Vasus, and all ye Holy Ones have been exalted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also lobsingen die Enkel von mir, die Bharadvaja´s, mit Gedichten und Lobgesängen. Die Götterfrauen, die unantastbaren Vasu´s, denen geopfert wird, ihr Opferwürdigen alle seid gepriesen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So preisen meine Enkel hier, die Bharadvadscher andachtsvoll mit Lobgesängen; ihr angerufnen Götterfrauen, ihr unüberwindlichen Vasus, seid alle ihr gepriesen, o ehrwürdige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так потомки мои, Бхарадваджи,  
 Славят поэтическими произведениями (и) песнями.  

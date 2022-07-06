@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था क꣡ण्वे मघवन् मे꣡धे अध्वरे꣡  
 दीर्घ꣡नीथे द꣡मूनसि  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 म꣡यि गोत्रं꣡ हरिश्रि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यथा॑ । गोऽश॑र्ये । असि॑सासः । अ॒द्रि॒ऽवः॒ । मयि॑ । गो॒त्रम् । ह॒रि॒ऽश्रिय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -103,37 +103,37 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As you were willing to give, O **Maghavan**, to **Kaṇva** in the sacrificial feast, or to Dīrghanītha thefriend of the house, as you were willing to give, O slinger, to Gośarya, so give to me a herd of kine shining likegold.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as at Kaṇva’s, o bounteous one, at the ritual offering, at the  ceremony, beside (Agni), the domestic leader of long counsel,  
 just as at Gośarya’s you sought winnings, you possessor of the stone, at  my side (win) a cowpen splendid with fallow bays.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again the two versions are almost entirely parallel, with named examples of the beneficiaries of Indra’s bounty given in yáthā clauses, including some with very close similarities in wording: yáthā káṇve maghavan LOC LOC... (a) / yáthā góśarye √SAN … (C) / d: gómad dhíraṇya- (49d) / gotrám hari- (50d).
 
 I differ from Geldner in my interpretation of pāda b. He takes dīrghánīthe dámūnasi as another PN (so also Mayrhofer, PN, for the first but not the second), and I admit that parallelism with 49b, which contains a PN, is in his favor. However, here there is no yáthā marking the pāda as a different segment, and furthermore dámūnas- ‘domestic leader, master of the house’ is never otherwise used of mortals, but almost always characterizes Agni. Since dīrghánīti- is perfectly understandable in its literal meaning, I take this pāda as referring to Agni and as parallel to the locatives in pāda a indicating the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du für Kanva, o Freigebiger, bei Opfer und Gottesdienst, für Dirghanitha, den Hausherrn, wie du für Gosarya, du Herr des Preßsteins, den Preis zu gewinnen trachtetest, so gewinne für mich die Rinderherde, die durch falbe Rosse verschönert wird!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie, mächtiger, dem Kanva du beim Opfermahl, dem Hausfreund Dīrghanītha du, Wie, Schleuderer, da dem Goçarja spendetest, so gib mir goldgeschmückten Stall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как Канве, о щедрый, на жертвоприношении (и) обряде,  
 Диргханитхе - домохозяину,  

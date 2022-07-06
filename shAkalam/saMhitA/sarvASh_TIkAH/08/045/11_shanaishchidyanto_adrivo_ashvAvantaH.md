@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡नैश् चिद् य꣡न्तो अद्रिवो  
 अ꣡श्वावन्तः शतग्वि꣡नः  
 विव꣡क्षणा अनेह꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि॒वक्ष॑णाः । अ॒ने॒हसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śanaiś* ← *śanais*
 - \[adverb\]
@@ -69,43 +69,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अद्रिवः** वज्रिन् वयं **शनैः** मन्दं मन्दं **यन्तः** गच्छन्तः **अश्वावन्तः** अश्ववन्तः **शतग्विनः** बहुधनाः **विवक्षणाः** वोढव्यं वहन्तः **अनेहसः** उपद्रवरहिताश्च सन्तो गमेमेदिति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(May we come), thunderer, slowly approaching you-- may we be rich in horses, possessed of abundanttreasure, ready to offer, and unharmed (by calamity).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O possessor of the (pressing) stone, (the soma drops), though they  move deliberately, are bringing horses and hundreds of cattle,  
 are strengthening and faultless.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is no expressed referent in this verse, and Grassmann (s.v. áśvāvant-, etc.) indicates that it is “we” of vs. 10. However, Geldner supplies “soma drops,” esp. on the strength of VIII.49.4 and the fact that vivákṣana- is always used of soma. This seems correct. The question is the meaning and root affiliation of vivákṣana-. Geldner tr.
 
 ‘redselig machend’, connecting it thus with √vac, while I prefer to take it to √vakṣ ‘become / make strong’, as a transitive -ana-nominal, beside vákṣaṇa- also ‘strengthening’. The connection with √vakṣ is asserted by Oldenberg ad X.21.1 (fld. by AiG II.2.198). See also EWA s.v. VAKṢ, esp. p. 487; he does not decide.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Softly approaching, Thunder-armed wealthy by hundreds, rich in steeds,  
      Unrivalled, readywith our gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die langsam ablaufenden, Rosse und hundert Kühe einbringenden, redselig machenden, fehlerlosen Somatropfen, o Herr des Preßsteins.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch langsam gehend, Schleuderer, doch rossversehen hundertfach Und unvergleichlich, reich an Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очень медленно стекающие (капли сомы), о хозяин давильных камней,  
 Приносящие коней, приносящие сотни коров,  

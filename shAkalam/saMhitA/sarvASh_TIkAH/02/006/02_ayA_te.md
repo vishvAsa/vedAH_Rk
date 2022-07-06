@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ ते अग्ने विधेम  
 ऊ꣡र्जो नपाद् अ꣡श्वमिष्टे  
 एना꣡ सूक्ते꣡न सुजात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 ए॒ना । सु॒ऽउ॒क्तेन॑ । सु॒ऽजा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -86,7 +86,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हेअग्ने तेत्वां अयाअनयाआहुत्याविधेम परिचरेम हेऊर्जोनपात् बलस्यनप्तः तस्यनपातयितर्वा हेअश्वमिष्टेव्यापकयज्ञ यद्वा आशुक्रियमाणङ्कर्माश्वन्तदिच्छतीतिअश्वमिष्टिः सन्त्वरमाणाह्युपसदाच- रन्ति तेकर्मभिःसमत्वरन्ततेतिस्रः सामिधेनीरनूच्यतिस्रोदेवताअयजन्नितिब्राह्मणम् । तादृशाग्ने तेत्वांअनयाहुत्याविधेमपरिचरेमतथाहेसुजातशोभनजननएनाएतेनसूक्तेनस्तोत्रेणप्रीणयेमेतिशेषः यद्वा स्तुत्युपबृंहितेनविधेम ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,35 +97,35 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Who are gratified by prompt sacrificer: aśvamiṣṭe = **vyāpaka** **yajña**, whose rites are expanding; or āśu, quick, tadiccatī, he wishes that; he wishes for quick or prompt worship
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With this (song) we would do honor to you, o Agni, child of  
 nourishment, seeker of horses—  
 with this well-said (hymn), o well-born one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With this hymn let us honour thee, seeker of horses, Son of Strength,  
      With this fair hymn, thou nobly born.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Let us worship thee, Agni, child of vigour, with this (piece of wood?) 1, O winner of horses 2, with this well-spoken (hymn), O well-born one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Damit wollen wir dir aufwarten, Agni, Kind der Kraft, du Roßbeuter, mit diesem Liede, du Edelgeborener.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wollen, Agni, dienen dir, o Rossespender, Sohn der Kraft, Mit Lied, o schöngeborner, hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этой (песней), о Агни, мы хотим почтить тебя,  
 О дитя силы, о отыскиватель коней,  

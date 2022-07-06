@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व द्वके꣡ अ꣡व त्रिका꣡  
 दिव꣡श् चरन्ति भेषजा꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 मो꣡ षु꣡ ते किं꣡ चना꣡ममत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -36,7 +36,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 क्ष॒मा । च॒रि॒ष्णु । ए॒क॒कम् । भर॑ताम् । अप॑ । यत् । रपः॑ । द्यौः । पृ॒थि॒वि॒ । क्ष॒मा । रपः॑ । मो इति॑ । सु । ते॒ । किम् । च॒न । आ॒म॒म॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -146,7 +146,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 **दिवः** द्युलोकात् **भेषजा** भेषजानि **द्वके** द्विकं **त्रिका** त्रिकं च **अव** **चरन्ति** । अत्राश्विनौ द्विकमवचरतः । इळा सरस्वती भारती त्रिकमवचरन्ति । **क्षमा** क्षमायां **चरिष्णु** चरति **एककम्** एकं भेषजमित्यभिप्रायमाह । तानि सर्वाणि सुबन्धोः प्राणं परिरक्षन्त्विति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -157,29 +157,29 @@ popular;; epic anuṣṭubh (525);; repeated line
 By twos and threes: bytwos = by the two **aśvins**; by threes = three goddesses, iḷā, **sarasvatī** and **bhāratī**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Down come the pair, down the trio—down the remedies from heaven.  To ground is the single (remedy) coming.  
 – Let the two bear away what(ever) malady there is. O Heaven and Earth,  to ground (let) malady (go). Let nothing whatsoever plague (him).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Health-giving medicines descend sent down from heaven in twos and threes,  
      Or wandering singly on the earth. May Heaven and Earth uproot and sweep iniquity and shame away: nor sin nor sorrow trouble thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu zweien und zu dreien kommen die Arzeneien vom Himmel herab; eine wandert allein auf dem Boden. Beide sollen das Gebreste fortnehmen. Himmel und Erde, zu Boden gehe das Gebreste! Dir soll ja nicht irgend etwas wehe tun!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel hernieder kommen die Arzeneien, zu zweien und zu dreien verbunden, und die Erde bringe jede einzeln kommende; hinwegschaffen mögen sie u.s.w. [wie in Vers 8].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вниз по два, вниз по три  
 С неба движутся целебные средства –  

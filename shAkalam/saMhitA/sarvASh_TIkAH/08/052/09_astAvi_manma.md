@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्तावि म꣡न्म पूर्विय꣡म्  
 ब्र꣡ह्म इ꣡न्द्राय वोचत  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 स्तोतु꣡र् मेधा꣡ असृक्षत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 पू॒र्वीः । ऋ॒तस्य॑ । बृ॒ह॒तीः । अ॒नू॒ष॒त॒ । स्तो॒तुः । मे॒धाः । अ॒सृ॒क्ष॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *astāvi* ← *stu*
 - \[verb\], singular, Aorist passive
@@ -100,36 +100,36 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The old hymn has been sun, you have uttered the prayer to **Indra**; they have shouted many bṛhatīverses of the rite, many hymns of the worshipper have they poured forth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The age-old thought has been expressed as praise. Speak the sacred  formulation to Indra.  
 Many lofty (songs) of truth have roared; the wise thoughts of the  
 praiser have been released.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verse deploys a number of words for verbal offerings: mánma (a), bráhma (b), and medhā́ḥ (d). In c a feminine term needs to be supplied in the phrase pūrvī́r ṛtásya bṛhatī́ḥ “the many lofty ___ of truth.” I have supplied gíraḥ ‘songs’ from vs. 8, as it also shows up with pūrvī́ḥ elsewhere (VI.34.1, VIII.96.10, IX.85.11, X.29.5) -- though oddly when we get pūrvī́ḥ ... br̥hatī́ḥ, it's with íṣaḥ ‘refreshments’ (VI.1.2, IX.87.9), which wouldn’t fit here because it is not a verbal product. But note gíro bṛhatī́ḥ with the same verb in III.51.1 índraṃ gíro br̥hatī́r abhy ànūṣata. Geldner supplies ‘words’, which would also work semantically, though he doesn’t specify which feminine noun he thinks it is (vā́caḥ perhaps?).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das allererste Gedicht ist gesungen; sprechet dem Indra den Segen! Viele hohe Worte der Wahrheit ertönten; die Eingebungen des Lobsängers haben sich ergossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gesungen ist das alte Lied, dem Indra habt ihr das Gebet gesprochen; erklungen sind viele Brihativerse des Opfers, des Lobsängers Lieder haben sich ergossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Исполнено древнее произведение.  
 Произнесите Индре священное слово!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् नो अ꣡हिर् बुध्नि꣡यो अद्भि꣡र् अर्कइ꣡स्  
 त꣡त् प꣡र्वतस् त꣡त् सविता꣡ च꣡नो धात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡गः पु꣡रंधिर् जिन्वतु प्र꣡ राये꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तत् । ओष॑धीभिः । अ॒भि । रा॒ति॒ऽसाचः॑ । भगः॑ । पुर॑म्ऽधिः । जि॒न्व॒तु॒ । प्र । रा॒ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -134,7 +134,7 @@ genre M
 **बुध्न्यः** । बुध्नमन्तरिक्षम् । तत्र भवः **अहिः** । एत्यन्तरिक्ष इत्यहिः । उक्तं च –'अहिरयनादेत्यन्तरिक्षे ' ( निरु. २. १७) इति । एतत्पदद्वयाभिधेयो देवः **अर्कैः** अर्चनसाधनैर्मन्त्रैः स्तूयमानः सन् **नः** अस्मभ्यं **तत्** लोके प्रसिद्धं **चनः** अन्नम् **अद्भिः** उदकैः सार्धं **धात्** दधातु विदधातु । प्रयच्छतु । **पर्वतः** पूरयिता । ' पर्व पूरणे ' इति धातुः । यद्वा । पर्ववद्वज्रं पर्वतः । तद्वान् । पर्वतस्य गिरेः शत्रुरिति वा पर्वतः । स च **तत्** चनो दधातु । तथा **सविता** प्रेरको देवश्च **तत्** चनो दधातु । अपि च **रातिषाचः** । रातिं दानं सचन्ते सेवन्ते इति रातिषाचो विश्वे देवाः । ते च **ओषधीभिः** । ओषः पाकः आसु धीयते इत्योषधयस्तिलमाषाद्याः । ताभिः सार्धं **तत्** अन्नम् **अभि** प्रयच्छन्तु । तथा **पुरंधिः** बहुधीर्बहुप्रज्ञो वा बहुकर्मा वा **भगः** भजनीय एतत्संज्ञो देवश्च **राये** धनार्थं **प्र** जिन्वतु अस्मान् प्रेरयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,30 +151,30 @@ Ahi = he who goes, i.e., in the sky;
 Parvata: the filler, pūrayitrī, or the wielder of the thunderbolt, parvavad-vajram tadvān; or, enemy of the mountain, gireḥ **śatru**; in either sense, the reference is to **Indra**; with vegetable grains: tad oṣadhibhir abhi = **oṣadhayas** **tila** māṣādayaḥ, the vegetables are sesamum, pulse and the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Ahi Budhnya take delight in this (praise?) of ours, along with the  waters and the chants; in this let the Mountain, in this let Savitar  
 take delight;  
 let the Gift-Escorts, let Fortune, let Plenitude quicken this along with  the plants, for wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sweet be this song of mine to Ahibudhnya, Parvata, Savitar, with Floods and Lightnings;  
      Sweet, with the Plants, to Gods who seek oblations. May liberal Bhaga speed us on to riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies unser Lied möge der Drache der Tiefe mit den Gewässern und den Gesängen, dies der Berggott und Savtri gutheißen. Dies Lied mögen nebst den Pflanzen die von Gaben begleiteten Götter, Bhaga, Purandhi, begeistern, um Reichtum zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies unser Lied nehm an der Wetterdrache, der Berg und Savitar nebst Wassern, Blitzen, Dies nebst den Kräutern auch die Gabenspender, Bhaga, Purandhi fördre uns zu Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так пусть Ахи Будхнья вместе с водами и огнями,  
 Так пусть Парвата, пусть Савитар даст нам удовлетворение!  

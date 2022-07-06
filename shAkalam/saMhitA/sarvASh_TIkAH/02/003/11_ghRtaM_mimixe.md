@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृत꣡म् मिमिक्षे घृत꣡म् अस्य यो꣡निर्  
 घृते꣡ श्रितो꣡ घृत꣡म् ऊ अस्य धा꣡म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वा꣡हाकृतं वृषभ वक्षि हव्य꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒नु॒ऽस्व॒धम् । आ । व॒ह॒ । मा॒दय॑स्व । स्वाहा॑ऽकृतम् । वृ॒ष॒भ॒ । व॒क्षि॒ । ह॒व्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
@@ -120,7 +120,7 @@ genre M
 अस्याग्नेर्घृतमाज्यम्मिमिक्षे सिञ्चामि यतोस्यघृतं योनिःकारणं उत्पन्नोपिघृतेश्रितः आश्रितः अस्यग्नेर्घृतमेवधामतेजः घृतेनह्ययन्दीप्यते इदानींसम्बोध्योच्यते—हेअग्ने वृषभ फलस्यवर्षितस्त्वं- अनुष्वधम्प्रतिहविः सर्वेष्वपिहविःषुदीयमानेषुआवह देवान् आहूयतान् मादयस्वप्रीणय ततस्त्वं- स्वाहाकृतंस्वाहाकारेणदत्तंहव्यं चरुपुरोडाशादि वक्षि वह ॥ ११ ॥हुवेवइतिनवर्चञ्चतुर्थंसूक्तं भार्गवः सोमाहुतिनामकऋषिः अग्निर्देवता त्रिष्टुप् छन्दः हुवेनवसो- माहुतिर्भार्गवोहेत्यनुक्रमणिक प्रातरनुवाकाश्विनशस्त्रयोस्त्रैष्टुभेछन्दसीदं सूत्रितञ्च—हुवेवः सुद्यो- त्मानन्निहोताहोतृषदनइतिसूक्तेइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,7 +131,7 @@ genre M
 Cf. **Yajurveda** 17.88; **dhāma** - dwelling, or radiance; alternative reading: **Adhvaryu**, or priest, bring hither Agni to the oblation; exhilarate him; (and say to him). Showerer (of blessings), convey the consecrated oblation (to the gods).
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ghee is attached (to him); ghee is his womb. He is propped in ghee, and  ghee is his foundation.  
 In accord with your own power convey (the gods) hither; invigorate  
@@ -139,33 +139,33 @@ yourself. O bull, you will convey the oblation, prepared with the
 svāhā-call.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The -si form vakṣi would be better tr. as an impv. “convey,” rather than a subj. “you will convey” as in the published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Oil has been mixt: oil is his habitation. In oil he rests: oil is his proper province.  
      Come as thy wont is: O thou Steer, rejoice thee; bear off the oblation duly consecrated.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He 1 is joined with ghrita 2. His womb (on the altar) is ghrita. He rests on ghrita. His abode is ghrita. Carry hither (the gods) according to thy wont! Rejoice 3! Carry, O bull, the offering, over which the Svâhâ has been spoken, (to the gods).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Schmalz gehört zu ihm, Schmalz ist sein Mutterschoß, in Schmalz steckt er sich, Schmalz ist sein Element. Aus eigener Vollmacht fahre die Götter her, ergötze dich, befördere unter Svaharuf die Opferspende, du Bulle!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es strömt die Butter, Butter ist sein Ruhsitz, in Butter weilt er, Butter ist sein Wohnhaus; Auf eignen Antrieb fahre her, erfreu dich, und fahr, o Stier, den Trank geweiht durch Heilruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жир присущ (Агни), жир – его лоно,  
 В жире он пребывает, жир – его место.  

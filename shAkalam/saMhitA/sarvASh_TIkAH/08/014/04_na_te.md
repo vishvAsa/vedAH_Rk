@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ ते वर्ता꣡स्ति रा꣡धस  
 इ꣡न्द्र देवो꣡ न꣡ म꣡र्तियः  
 य꣡द् दि꣡त्ससि स्तुतो꣡ मघ꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 यत् । दित्स॑सि । स्तु॒तः । म॒घम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -93,36 +93,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्द्र** **ते** तव **राधसः** धनस्य स्तोतृभ्यो दातव्यस्य **वर्ता** निवारकः **देवः** **न** अस्ति न विद्यते । **न** **मर्त्यः** मनुष्योऽपि निवारको नास्ति। **स्तुतः** स्तोतृभिः प्रख्यापितगुणः सन् **यत्** मह्यं **मघं** मंहनीयं धनं **दित्ससि** त्वं दातुमिच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Neither god nor man, **Indra**, is the obstructor of your affluence, (of) the wealth which you, when praised,design to bestow.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There exists no one to obstruct your generosity, Indra, neither god nor  mortal,  
 when, praised, you want to give bounty.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 None is there, Indra, God or man, to hinder thy munificence,  
      The wealth which, lauded, thou wilt give.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht ist einer, der deiner Freigebigkeit wehrt, weder ein Gott noch ein Sterblicher, o Indra, wenn du gepriesen reiche Gabe schenken willst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kein Gott, kein Sterblicher vermag zu hindern, Indra, dein Geschenk, Wenn Schatz du, hehrer, geben willst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нет того, кто воспрепятствовал бы твоему дарению,  
 О Индра, ни бога, ни смертного,  

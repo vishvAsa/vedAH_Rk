@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ नो रासन् रातिषा꣡चो व꣡सूनि  
 आ꣡ रो꣡दसी वरुणानी꣡ शृणोतु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्व꣡ष्टा सुद꣡त्रो वि꣡ दधातु रा꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वरू॑त्रीभिः । सु॒ऽश॒र॒णः । नः॒ । अ॒स्तु॒ । त्वष्टा॑ । सु॒ऽदत्रः॑ । वि । द॒धा॒तु॒ । रायः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
@@ -123,37 +123,37 @@ genre M
 **ता** यानि अस्माकमभीष्टानि तानि **वसूनि** धनानि **रातिषाचः** दानसमवेताः देवपत्न्यः **नः** अस्मभ्यं **रासन्** प्रयच्छन्तु। अपि च **वरुणानी** वरुणस्य पत्नी **आ** **शृणोतु** अस्मदीयं स्तोत्रम् अभिशृणोतु। **रोदसी** द्यावापृथिव्यौ चाभिशृणुताम्। **सुदत्रः** कल्याणदानः **त्वष्टा** च **वरूत्रीभिः** उपद्रवाणां वारयित्रीभिर्देवपत्नीभिः सह **नः** अस्मभ्यं **सुशरणः** सुशरणप्रदः **अस्तु** । **रायः** धनानि च **वि** **दधातु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May they who are the givers of gifts bestow upon us the treasure (we desire); may **Rodasī** andVaruṇānī hear (our supplications); may the genitive rous **Tvaṣṭā** together with these (our) protectresses, be oursure refuge; may they give us riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Gift-Escorts will give goods to us. Let Rodasī, let Varuṇāṇī pay heed.  
 Let him be one affording good shelter (along?) with the Shielding  
 Goddesses; let generously giving Tvaṣṭar apportion wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May they who lavish gifts bestow those treasures: may Rodasi and Varunani listen.  
      May he, with the Varutris, be our refuge, may bountiful Tvastar give us store of riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Schätze sollen uns die Ratisac´s gewähren, und Rodasi, Varunani sollen uns erhören. Tvastri soll uns mit den Schützerinnen gute Zuflucht gewähren, beide Rodasi mögen uns ringsum schützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Spenderinnen mögen uns Güter spenden; es höre uns Rodasi [des Rudra Gattin] und Varunāni; mit den Schirmerinnen sei uns Tvaschtar schutzreich, er gebe uns schön vertheilend reiches Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть даруют нам блага эти сопровождающие дары (богини),  
 Пусть услышат (нас) Родаси, Варунани!  

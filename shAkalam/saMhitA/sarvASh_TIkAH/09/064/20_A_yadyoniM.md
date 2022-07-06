@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡द् यो꣡निं हिरण्य꣡यम्  
 आशु꣡र् ऋत꣡स्य सी꣡दति  
 ज꣡हाति अ꣡प्रचेतसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 जहा॑ति । अप्र॑ऽचेतसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यत्** यदा **आशुः** वेगवान् सोमः **ऋतस्य** यज्ञस्य **हिरण्ययं** हिरण्मयं **योनिं** स्थानम् । ‘ हिरण्यपाणिरभिषुणोति' इत्युक्तम्। **आ** **सीदति** तदानीम् **अप्रचेतसः** **जहाति** विसृजति । अस्तोतॄणां यज्ञं नाभिगच्छति किंतु स्तोतॄणामेव यज्ञमभिगच्छतीत्यर्थः ॥ ॥ ३९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 I.e., he does not approach the sacrifice of those who do not worship; he only approaches the sacrifice of worshippers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the swift one sits on the golden womb of truth,  
 he leaves behind the undiscerning.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ The undiscerning (ápracetasaḥ) in 20c are contrasted with the discerning (pr�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the Swift One resteth in the golden place of sacrifice,  
      He leaves the foolish far away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn der Rasche in seinen ordnungsgemäßen goldenen Schoß sich setzt, so verläßt er die Toren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn in des Opfers goldnen Schooss sich niederlässt das schnelle Ross, So lässt die Thoren es im Stich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

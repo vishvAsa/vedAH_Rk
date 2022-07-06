@@ -8,7 +8,7 @@ title = "+155"
 ‘प्र वः पान्तम्' इति षडृचं षोडश सूक्तं दैर्घतमसं जागतम् । पूर्वत्र वैष्णवं हि' इत्युक्तत्वात् वैष्णवम् । आद्यस्तृच इन्द्रदेवताकश्च । प्र वो जागतं त्वैन्द्रश्चाद्यस्तृचः' इत्यनुक्रमणिका। आभिप्लविकेषूक्थ्येषु स्तोमातिशंसने उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 155  
 Viṣṇu and Indra (1–3), Viṣṇu (4–6)  
@@ -19,7 +19,7 @@ shoots at the falcon that steals the soma from heaven; cf. IV.27.3, IX.77.2.) Th
 The paired verses 3 and 4, with their mysteries and paradoxes, appear to consti tute an omphalos.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Viṣṇu and Indra
 </details>

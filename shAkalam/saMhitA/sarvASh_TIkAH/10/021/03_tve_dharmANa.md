@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ धर्मा꣡ण आसते  
 जुहू꣡भिः सिञ्चती꣡र् इव  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 कृ॒ष्णा । रू॒पाणि॑ । अर्जु॑ना । वि । वः॒ । मदे॑ । विश्वाः॑ । अधि॑ । श्रियः॑ । धि॒षे॒ । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular, masculine
@@ -120,7 +120,7 @@ genre M;; repeated line
 **धर्माणः** यज्ञस्य धारयितार ऋत्विजः **जुहूभिः** संपूर्णाहुतिभिर्होमपात्रैः **त्वे** त्वामेव **आसते** उपासते सेवन्ते । तत्र दृष्टान्तः । **सिञ्चतीरिव** । वृष्टिलक्षणाः पृथिवीं सिञ्चन्त्य आपोऽग्निं यथा स्वपितृत्वेन सेवन्ते तद्वत् । अग्नेरापः' (तै. आ. ८.१ ) इति श्रुतेस्तस्यापां पितृत्वम् । यद्वा । जुहूभिः सिञ्चतीरिव सिच्यमाना आहुतय इव धर्माणस्त्वया धार्यमाणा रश्मयस्त्वे त्वय्यासते निवसन्ति । हे अग्ने त्वं **कृष्णा** कृष्णवर्णानि **अर्जुना** अर्जुनानि श्वेतवर्णानि ज्वालान्तर्गतरूपाणि च **विश्वाः** सर्वाः **श्रियः** शोभाः **अधि** **धिषे** अधिकं यथा भवति तथा धारयसि । किमर्थम् । **वः** युष्माकं सर्वेषां देवानां **विमदे** विविधसोमपानजन्यमदार्थम् । यत एवमतः **विवक्षसे** त्वं महान् भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,30 +131,30 @@ genre M;; repeated line
 Like earth-sprinkling showers: i.e., showers worship **Agni** as their **pitṛ**; or, your rays dwell with youlike oblations spinkled with the ladles; for your exhilaration: vaḥ = **viśvedevāḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those having (you) as their foundation [=flames] sit upon you, “pouring”  with their tongues like women pouring with their ladles.  
 Black and silver forms and all beauties do you put on.  
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The holy statutes rest by thee, as 'twere with ladles that o'erflow.  
      Black and white-gleaming colours,-at your glad carouse-all glories thou assurnest. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei dir sitzen sie, den Satzungen getreu, mit den Löffeln wie die Wasser schöpfenden Frauen. Schwarze und weiße Farben, alle Herrlichkeiten hast du angelegt - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Ordner sitzen um dich her mit Löffeln, Regenströmen gleich; Die schwarzen Farben nimmst du an, die weisse dir und alle Pracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возле тебя сидят хранители закона  
 С жертвенными ложками, словно поливающие (потоки).  

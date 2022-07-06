@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यः꣡ पु꣡रं · ना꣡र्मिणीम् अ꣡दीदेद्  
 अ꣡त्यः कवि꣡र् नभनि꣡यो न꣡ अ꣡र्वा  
 सा᳐रो न꣡ रुरुक्वा꣡ञ् छत꣡आत्मा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 सूरः॑ । न । रु॒रु॒क्वान् । श॒तऽआ॑त्मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -99,20 +99,20 @@ genre M
 **यः** अग्निः **नार्मिणीं** नर्मवतीं यजमानानां संबन्धिनीम् उत्तरवेदिम् । यद्वा। नृणां मनसि स्थितां यजमानानां यज्ञार्थं यां भूमिं प्रति अग्न्यागमनमनीषा विद्यते ताम् । **पुरं** तत्स्थानम् **आ** **अदीदेत्** दीपयति । कीदृशोऽयम् । **अत्यः** अपेक्षितदेशं प्रति अतनशीलः **कविः** क्रान्तदर्शी । तत्र दृष्टान्तः । **अर्वा** अरणकुशलः **नभन्यो** **न** नभस्याकाशे भवो नभस्वान् वायुरिव । किंच **शतात्मा** । शतं सहस्रम् इत्यपरिमितवचनः । तत्तद्यजमानगृहापेक्षया आहवनीय गार्हपत्याद्यपेक्षया वा नानारूपत्वम् । अथवा मित्रवरुणभेदेन अग्नेः मित्रादिरूपं ‘ त्वमग्ने  वरुणो जायसे यत्' (ऋ. सं. ५.३.१), ‘इन्द्रं मित्रं वरुणमग्निमाहुः' (ऋ. सं. १.१६४.४६ ) इत्यादिश्रुतिषु प्रसिद्धम्। अग्नेरेव इन्द्राद्यात्मकत्वमाहुरिति द्वितीयमन्त्रस्यार्थः । तादृशोऽयं **सूरो** **न** सूर्य इव **रुरुक्वान्** दीप्यमानः ॥ ‘रुच दीप्तौ' । छान्दसस्य लिटः क्वसुः । अतः स तादृशोऽग्निरस्ति उत्कृष्टं वर्तते इति पूर्वत्रान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who is wise, and goes (wheresoever he will), like the rapid ethereal (wind), has lighted up the delightful spot, (the altar), and, identical with many forms, is radiant as the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who has illuminated the low-lying flatland like a stronghold—a steed, a  poet, like a charger bursting forth,  
 shining like the sun, possessing a hundred selves [=flames?].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 nā́rmiṇīm in pāda a is a hapax. Geldner and Renou take it as a place name qualifying púram ‘stronghold’: Geldner “die Burg Nārmiṇī.” This is of course a safe choice, but the fact that the pāda lacks a syllable and that each of the other pādas contains a simile marked by ná invite a reading ná ármiṇīm “the/an ármiṇī- like a stronghold.” This possibility was already noted by Oldenberg (SBE). I suggested that it is derived from arma(ká)- ‘flatland’ (see also Grassmann s.v. nā́rmin-); the same deriv. must underlie Witzel Gotō “der wie auf eine verödete Palisade leuchtete,” with the meaning ‘ruined place’ attributed by some to arma(ká)-. If such a derivation is accepted, a few questions arise. First, -in-stems are always accented on that suffix, as are the -ī-stems that serve as their feminines (cf. garbhínī- ‘pregnant’). Hence we should expect ná
 
@@ -122,28 +122,28 @@ nā́rmíṇīm was re-interpreted as a single word. The second question is why 
 Although problems remain with nā́rmiṇīm, like many hapaxes it participates in phonetic play: note b nā́rvā, read ná árvā and 2a narā́m ná r-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath lighted up the joyous castle, wise Courser like the Steed of cloudy heaven,  
      Bright like the Sun, with hundredfold existence.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who lighted up the … 1 stronghold, the racer, the sage, like a … 2 horse, shining like the sun, endowed with hundredfold life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die Burg Narmini beschien, der Hengst, der Seher, wie ein Rennpferd losbrechend, wie die Sonne leuchtend, mit hundertfachem Leben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der die unversehrte Burg bestrahlt hat, der weise Renner gleich dem Ross des Himmels, Hell, wie die Sonne hundert Leben wecket,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто осветил крепость Нармини,  
 Стремительный поэт, кидающийся, словно скаковой конь,  

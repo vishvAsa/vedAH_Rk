@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा हि꣡ अग्न एषां᳐  
 सुवी꣡रियस्य मंह꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡रि श्र꣡वो बभूवतुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तम् । इत् । य॒ह्वम् । न । रोद॑सी॒ इति॑ । परि॑ । श्रवः॑ । ब॒भू॒व॒तुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 हे **अग्ने** **अध** अथ **एषाम्** अस्माकं यजमानानां **सुवीर्यस्य** सर्वैः स्पृहणीयस्य बलस्य **मंहना** मंहनायै दानाय भव ॥ मंहतिर्दानकर्मा ॥ **रोदसी** द्यावापृथिव्यौ **यह्वं** **न** महान्तं सूर्यमिव **श्रवः** सर्वैः श्रवणीयं **तमित्** तमग्निमेव **परि** **बभूवतुः** परिगृह्णीतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,34 +120,34 @@ genre M
 The text has only yahvam na, like the great; the implied terms are: mahāntam sūryam iva, like the great sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For then, o Agni, (you are) ready to give abundant heroes to these (your  companions)—  
 the two world-halves do not encompass him, though youthful, nor his fame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, Agni, be the Friend of these with liberal gift of hero strength.  
      Yea, Heaven and Earth have not surpassed this Youthful One in glorious fame.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For verily, O Agni, (thou belongest [?]) to them 1 through thy bounteousness 2 in (bestowing) abundance of heroes. Him indeed, the vigorous one, his glory the two worlds could not encompass 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn dann wird ihnen die reiche Gabe der Meisterschaft, o Agni. Ihn, den Jüngsten, übertreffen an Ruhm beide Welten nicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn so wird ihnen auch zu Theil, o Agni, hohe Heldenkraft; Wie einen Sohn umfangen ihn die Welten beid' und seinen Schatz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И ведь им, о Агни, (достается)  
 Щедрый дар, состоящий из прекрасных мужей.  

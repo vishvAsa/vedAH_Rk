@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ सो꣡मासः पराव꣡ति  
 ये꣡ अर्वाव꣡ति सुन्विरे꣡  
 स꣡र्वांस् ताँ꣡ इन्द्र गछसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सर्वा॑न् । तान् । इ॒न्द्र॒ । ग॒च्छ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -86,19 +86,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **ये** **सोमासः** सोमाः **परावति** विप्रकृष्टेऽतिदूरदेशे **ये** सोमाः **अर्वावति** अन्तिकतमे देशे च **सुन्विरे** । छन्दसि द्विर्वचनस्य विकल्पितत्वादत्र द्विर्वचनाभावः। ये सोमा ऋत्विग्भिरभिषूयन्ते **सर्वान्** दूरे समीपे चाभिषूयमाणान् **तान्** सोमान् **गच्छसि** तत्पानार्थं युगपत्प्राप्नोषि । अनेनेन्द्रस्य सर्वगतत्वं सूचितम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You go at once, **Indra**, to all those **Soma**-libations which are effused afar or effused near.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma drinks which have been pressed in the distance, which nearby, to all those do you go, Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -112,23 +112,23 @@ But sárvāṃs tā́n indra … semi-duplicates 4c sárvaṃ tád indra …, an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, goest unto all Soma libations shed for thee,  
      Both far away and near at hand.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Somatränke, die in der Ferne, die in der Nähe ausgepreßt werden, zu allen diesen kommst du, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, welche Tränke dir bereitet werden fern und nah, Zu denen allen gehst du hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

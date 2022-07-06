@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं स्तवा नृ꣡तमं य꣡स्य मह्ना꣡  
 विबबाधे꣡ रोचना꣡ वि꣡ ज्मो꣡ अ꣡न्तान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ सि꣡न्धुभ्यो रिरिचानो꣡ महित्वा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । यः । प॒प्रौ । च॒र्ष॒णि॒ऽधृत् । वरः॑ऽभिः । प्र । सिन्धु॑ऽभ्यः । रि॒रि॒चा॒नः । म॒हि॒ऽत्वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -120,37 +120,37 @@ genre M
 हे स्तोतः त्वं **नृतमं** नेतृतमम् **इन्द्रं** **स्तव** स्तुहि । **यस्य** इन्द्रस्य **मह्ना** महत्त्वम् । विभक्ति व्यत्ययः । **रोचना** परेषां तेजांसि **विबबाधे** विबाधते । अभिभवतीत्यर्थः । **वि** **ज्मः** पृथिव्याश्च **अन्तान्** पर्यन्तानभिभवति । **यः** चेन्द्रः **चर्षणीधृत्** मनुष्याणां धर्ता **सिन्धुभ्यः** समुद्रेभ्योऽपि **महित्वा** महत्त्वेन **प्र** **रिरिचानः** प्रवर्धमानश्च सन् **वरोभिः** तमसां वारकैस्तेजोभिः **आ** **पप्रौ** द्यावापृथिव्यावापूरयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise **Indra**, the chief leadere (of rites), whose glory surpasses the lustre (of others), and the ends ofthe earth; the sustainer of man, who exceeding the ocean in magnitude, fills (heaven and earth) with radiance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I shall praise Indra, the most manly, who by his greatness forced apart  the realms of light, apart the ends of the earth,  
 who, maintaining their boundaries, filled (them) in their expanses,  
 projecting beyond the rivers in his greatness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I WILL extol the most heroic Indra who with his might forced earth and sky asunder;  
      Who hath filled all with width as man's Upholder, surpassing floods and rivers in his greatness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra will ich preisen, den Männlichsten, der durch seine Größe die Himmelslichter, die Grenzen der Erde weggedrängt hat, der die Welt mit seiner Breite ausfüllt, der Völkererhalter, der an Größe über die Ströme hinausreicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra preis' ich, der durch seine Grösse bedrängt den Lichtraum und der Erde Enden, Als Völkerhort in weitem Raum sie füllend, an Grösse ragend über alle Meere.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру я хочу прославить как самого мужественного, кто своей величиной  
 Раздвинул светлые пространства, раз(двинул) края земли,  

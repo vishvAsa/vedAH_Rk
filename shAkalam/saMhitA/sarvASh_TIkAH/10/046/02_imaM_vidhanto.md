@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ विध꣡न्तो अपां꣡ सध꣡स्थे  
 पशुं꣡ न꣡ नष्ट꣡म् पदइ꣡र् अ꣡नु ग्मन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इछ꣡न्तो धी꣡रा भृ꣡गवो अविन्दन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 गुहा॑ । चत॑न्तम् । उ॒शिजः॑ । नमः॑ऽभिः । इ॒च्छन्तः॑ । धीराः॑ । भृग॑वः । अ॒वि॒न्द॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -120,34 +120,34 @@ genre M
 **इमम्** अग्निम् **अपाम्** उदकानां **सधस्थे** सहस्थाने मध्ये निगूढं **विधन्तः** परिचरन्त उपचारं वदन्तो वा ऋषयश्च **पदैः** पलायनमार्गव्यञ्जकैः **नष्टं** चोरादिभिरपहृतं **पशुम्** इव **अनु** **ग्मन्** अनुजग्मुः । गमेर्लुङि ‘ मन्त्रे घस' इति च्लेर्लुक् । तेषु मध्ये **गुहा** गुहायां **चतन्तम्** । चततिर्गतिकर्मा । अप्सु विलीनमित्यर्थः । **उशिजः** कामयमानाः **नमोभिः** नमस्कारैः स्तोत्रैर्वा **इच्छन्तः** आत्मन इच्छन्तः **धीराः** धीमन्तः **भृगवः** **अविन्दन्** लब्धवन्तः । अग्नेर्हविर्वोढुमसहमानस्य पलाय्याप्सु प्रवेशो देवानामन्वेषणं च ‘अग्नेस्त्रयो ज्यायांसः ' (तै. सं. २. ६. ६ ) इत्यत्र स्पष्टमाम्नातम् । अन्वेषणं कुर्वतां मध्ये भृगूणामग्निलाभः ‘इमं विधन्तो अपां सधस्थे द्वितादधुर्भृगवः' ( ऋ. सं. २. ४. २ ) इत्यत्रोक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here—having done honor to him in the seat of the waters, they  followed him along his tracks like a vanished cow.  
 With reverences seeking him who was hiding in secret, the fire-priests,  the insightful Bhr̥gus found him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Worshipping, seeking him with adoration like some lost creature followed by its footprints,  
      Wise Bhrgus, yearning in their hearts, pursued him, and found him lurking where the floods are gathered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm zu dienen in der Gewässer Behausung gingen sie wie einem verlorenen Vieh auf seinen Spuren nach. Als er heimlich floh, fanden ihn die Usij unter Verbeugung ihn suchend, die weisen Bhrigu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm eilten in des Wassers Sitz die frommen mit Schritten nach wie dem verirrten Rinde; Ihn, den versteckten, fanden auf durch Andacht die weisen Bhrigu's, suchend mit Verlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Служа ему в месте, где находятся воды,  
 Они пошли по (его) следам, как за потерянным скотом.  

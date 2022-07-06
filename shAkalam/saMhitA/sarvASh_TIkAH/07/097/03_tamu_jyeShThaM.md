@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ ज्य꣡यिष्ठं+ न꣡मसा हवि꣡र्भिः  
 सुशे꣡वम् ब्र꣡ह्मणस् प꣡तिं गृणीषे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ ब्र꣡ह्मणो देव꣡कृतस्य रा꣡जा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । श्लोकः॑ । महि॑ । दैव्यः॑ । सि॒स॒क्तु॒ । यः । ब्रह्म॑णः । दे॒वऽकृ॑तस्य । राजा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -129,41 +129,41 @@ genre M
 **ज्येष्ठं** प्रशस्यतमं **सुशेवं** सुसुखं **ब्रह्मणः** मन्त्रस्य **पतिं** पालयितारमेतत्संज्ञं **तमु** तमेव देवं **नमसा** नमस्कारेण **हविर्भिः** चरुपुरोडाशादिभिश्च सार्धं **गृणीषे** गृणे स्तुवे । अपि च **महि** महान्तम् **इन्द्रं** दैव्यः देवार्हः **श्लोकः** अस्मदीयः स्तावको मन्त्रः **सिषक्तु** सेवताम् । **ब्रह्मणः** अन्नस्य मन्त्रस्य वा **देवकृतस्य** देवैः स्तोतृभिः कृतस्य **यः** इन्द्रो ब्रह्मणस्पतिर्वा **राजा** ईश्वरः भवति । तमिन्द्रं तं ब्रह्मणस्पतिमिति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify with homage and with oblations that most excellent and beneficent **Brahmaṇaspati**; may mypraise worthy of the deity, attain to the mighty **Indra**, who is the lord of the prayers offered by the devout.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, the preeminent, well-disposed Lord of the Sacred Formulation  will I sing, with reverence, with oblations.  
 Let his divine signal-call mightily accompany Indra, who is the king of  the god-created sacred formulation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take great pains to avoid indentifying Indra in c with bráhmaṇas pátim in b and the elaboration on this phrase in d, but as discussed in the published introduction. and extensively by HPS, the identification is the point.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That Brahmanaspati, most High and Gracious, I glorify with offerings and with homage.  
      May the great song of praise divine, reach Indra who is the King of prayer the Gods' creation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn preise ich unter Verbeugung und Opferspenden als den Höchsten, den freundlichen Brahmanaspati-den Indra soll der göttliche Weckruf recht begleiten-der der König des gottgeschaffenen Segenswortes ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den hehren preis' ich mit Gebet und Opfer, den holdgesinnten Schützer des Gebetes, Zum Indra dring' das hohe Lob der Götter, zum König des Gebets, des gottgeweihten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого лучшего, самого дружелюбного Брахманаспати  
 Я воспеваю с поклонением и жертвенными возлияниями -  

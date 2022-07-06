@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मः पवते जनिता꣡ मतीनां꣡  
 जनिता꣡ दिवो꣡ जनिता꣡ पृथिव्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जनिते꣡न्द्रस्य जनितो꣡त꣡ वि꣡ष्णोः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ज॒नि॒ता । अ॒ग्नेः । ज॒नि॒ता । सूर्य॑स्य । ज॒नि॒ता । इन्द्र॑स्य । ज॒नि॒ता । उ॒त । विष्णोः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -114,36 +114,36 @@ genre M
 **सोमः** अभिषूयमाणः **पवते** पात्रेषु क्षरति । कीदृशः । **मतीनां** बुद्धीनां यद्वा मननीयानां स्तुतीनां **जनिता** जनयिता । ‘ जनिता मन्त्रे ' ( पा. सू. ६.४.५३) इति निपातनाण्णिलोपः । किंच **दिवः** द्युलोकस्य **जनिता** प्रादुर्भावयिता तथा **पृथिव्याः** जनयिता **अग्नेः** जनयिता प्रकाशयिता **सूर्यस्य** सर्वस्य प्रेरकस्यादित्यस्य **जनिता** **इन्द्रस्य** **जनिता** पानेन मदस्य जनयिता **उत** अपि च **विष्णोः** ब्यापकस्य **जनिता** जनयिता । एतत् सर्वं सोमेऽभिषूयमाणे भवतीति । सोमो हि देवानाप्याययतीति ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** flows, the genitive rator of praises, the genitive rator of heaven, the genitive rator of the earth, the genitive rator of **Agni**, the genitive rator of the sun, the genitive rator of **Indra**, and the genitive rator of **Viṣṇu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma purifies himself—the begetter of poetic thoughts, begetter of  heaven, begetter of earth,  
 begetter of Agni, begetter of the sun, begetter of Indra, and begetter  of Viṣṇu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Father of holy hymns, Soma flows onward the Father of the earth, Father of heaven:  
      Father of Agni, Surya's generator, the Father who begat Indra and Visnu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma läutert sich, der Erzeuger der Gedanken, der Erzeuger des Himmels, der Erzeuger der Erde, der Erzeuger des Agni, der Erzeuger des Surya, der Erzeuger des Indra und der Erzeuger des Vishnu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rieselt Soma, der Gebete Zeuger des Himmels Zeuger und der Erde Zeuger, Des Agni Zeuger und der Sonne Zeuger, des Indra Zeuger und der Zeuger Vischnu's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома очищается, родитель поэтических мыслей,  
 Родитель неба, родитель земли,  

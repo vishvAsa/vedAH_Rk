@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परिप्रय꣡न्तं वयि꣡यं सुषंस꣡दं  
 सो꣡मम् मनीषा꣡ अभ्य् अ᳡नूषत स्तु꣡भः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡यर्ति वा꣡चं रयिषा꣡ळ् अ꣡मर्तियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यः । धार॑या । मधु॑ऽमान् । ऊ॒र्मिणा॑ । दि॒वः । इय॑र्ति । वाच॑म् । र॒यि॒षाट् । अम॑र्त्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pariprayantaṃ* ← *pariprayantam* ← *paripre* ← *√i*
 - \[verb noun\], accusative, singular
@@ -109,20 +109,20 @@ genre M
 **परिप्रयन्तं** पात्राणि परितः प्रगच्छन्तं वयं देवैः काम्यमानं सुसंसदं शोभनसंसदनं **सोमं** **मनीषाः** मनस ईशित्र्यः "    स्तुभः स्तुतयः **अभ्यनूषत** अभिष्टुवन्ति । वय्यम् । ‘ वी गत्यादिषु' इत्यस्माद्यति 'भय्यप्रवय्ये च छन्दसि' ( पा. सू. ६. १. ८३ ) इति निपातितः । अत्रानुपसर्गस्यापि निपातनं भवति । मधुमान् मदकररसवान् यः सोमः **धारया** स्वीयया **ऊर्मिणा** वसतीवर्याख्येनोदकेन सह **दिवः** आकाशात् द्रोणकलश आपतति: **रयिषाट्** शत्रुधनानामभिभविता **अमर्त्यः** मनुष्यधर्मरहितः स सोमः **वाचम्** **इयर्ति** प्रेरयति । तदा हि स्तोतारः स्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Intelligent praises celebrate the wide-flowing (god) delighting **Soma** who sits in good company, who exhilarating (falls) in a stream with his water from the sky (and) wealth-conquering, immortal, sends out his voice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The inspired thoughts, the rhythms have roared to Soma, the branchy  one, circling forth, keeping good company,  
 who, honeyed, in a stream, in a wave from heaven, rouses speech—the  immortal one who conquers wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (see his n. 8a) takes vayyàm as the PN of a hero aided by Indra to whom Soma is compared: “(einem zweiten) Vayya.” Although a hero of that name does exist, his presence seems limited to passages where he is mentioned with the better attested Turvīti (I.54.6, II.13.12, I.19.6) or, once, in a list of clients of the Aśvins (I.112.6). The du. form in II.3.6 vayyè (or vayyā̀; see comm. ad loc.) belongs to a separate stem vayī́- ‘weaver’. Despite Geldner’s energetic attempt to justify it, the introduction of a minor hero from the Indra cycle makes no sense here (any more than his introduction of the Aśvins in vs. 5). I therefore adopt Renou’s suggestion (disc.
 
@@ -137,23 +137,23 @@ The standard tr. (not, however, Scarlatta [608]) construe diváḥ in c with vā
 preceding ūrmíṇā for several reasons: 1) a pāda boundary and the verb intervene between diváḥ and vā́cam; 2) the ūrmí- from heaven is found in IX.49.1 apā́m ūrmíṃ divás pári; 3) the formulaic VP íyarti vā́cam (II.42.1, III.8.5, 34.2, IV.21.5, etc.) does not otherwise appear with a source of the speech specified. Surely the point here is that when the soma is being ritually prepared he/it inspires ritual speech.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Songs resonant with praise have celebrated him. Soma, Friend, springing forth with his fair company.  
      Even him who rich in meath, with undulating stream, Winnner of Wealth, Immortal, sends his voice from heaven,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem im Wasser kreisenden, einem zweiten Vayya, dem in guter Gesellschaft befindlichen Soma tönten die Gebete, die Gesänge entgegen, der süß im Strome mit seiner Woge des Himmels Stimme aussendet, Schätze ersiegend, der Unsterbliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der ringsum schreitet schön umschart, an Labung reich, dem Soma haben Preisgesänge zugejauchzt, Der mit des Himmels Welle honigsüss im Strom die Stimm' erhebt, unsterblich er, der Schätze Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Продвигающегося кругами, вьющегося (?), находящегося в хорошем обществе  
 Сому приветствовали молитвы (и) возгласы,  

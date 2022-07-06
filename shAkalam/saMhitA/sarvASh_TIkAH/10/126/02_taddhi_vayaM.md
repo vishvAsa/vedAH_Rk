@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् धि꣡ वयं꣡ वृणीम꣡हे  
 व꣡रुण मि꣡त्र अ꣡र्यमन्  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 पाथ꣡ नेथा꣡ च म꣡र्तियम् अ꣡ति द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -33,7 +33,7 @@ genre M;; line affected by realignment;; repeated line
 येन॑ । निः । अंह॑सः । यू॒यम् । पा॒थ । ने॒थ । च॒ । मर्त्य॑म् । अति॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taddhi* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -114,36 +114,36 @@ genre M;; line affected by realignment;; repeated line
 हिरवधारणे । **तद्धि** तदेव रक्षणं **वयं** **वृणीमहे** प्रार्थयामहे ॥ ‘ सतिशिष्टोऽपि विकरणस्य स्वरो लसार्वधातुकस्वरं न बाधते' (पा. म. ६. १. १५८, ११) इति वचनात्तिङ एव स्वरः शिष्यते । ' हि च' इति निघातप्रतिषेधः ॥ हे **वरुण** हे **मित्र** हे **अर्यमन्** येन रक्षणेन **मर्त्यं** स्तोतारम् **अंहसः** पापात् **यूयं** **निः** **पाथ** निःशेषेण रक्षथ ॥ ‘ पा रक्षणे'। अदादिकः । 'यद्वृत्तान्नित्यम्' इति निघातप्रतिषेधः ॥ येन च रक्षणेन मर्त्यं मनुष्यं स्तोतारं **द्विषः** **अति** **नेथ** अतीत्य नयथ अभीष्टं प्रापयथ तद्वृणीमह इत्यन्वयः ॥ नयतेश्छान्दसः शपो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We implore that (protection) of yours, **Varuṇa**, **Mitra**, and **Aryaman**, whereby you preserve a man fromsin, and lead him beyond (the reach of) his enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For we choose that—o Varuṇa, Mitra, Aryaman—  
 by which you rescue a mortal from narrow straits and lead him—beyond  hatreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This very thing do we desire, Varuna, Mitra, Aryaman,  
      Whereby ye guhrd the mortal man from sore distress, and lead him safe beyond his foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Hilfe ja erbitten wir uns, Varuna, Mitra, Aryaman, durch die ihr vor Not bewahret und den Sterblichen geleitet - über alle Anfeindungen hinweg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn das begehren wir von euch, Varuna, Mitra, Arjaman, Wodurch ihr vor Gefahr uns schützt und sicher führt den Sterblichen – durch jeden Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Именно это мы выбираем,  
 О Варуна, Митра, Арьяман,  

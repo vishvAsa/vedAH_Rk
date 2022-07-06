@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इ꣡न्द्रेण सर꣡थं याथो꣡ अश्विना  
 य꣡द् वा वायु꣡ना भ꣡वथः स꣡मोकसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡द् वा वि꣡ष्णोर् विक्र꣡मणेषु ति꣡ष्ठथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । आ॒दि॒त्येभिः॑ । ऋ॒भुऽभिः॑ । स॒ऽजोष॑सा । यत् । वा॒ । विष्णोः॑ । वि॒ऽक्रम॑णेषु । तिष्ठ॑थः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -127,36 +127,36 @@ genre M
 हे अश्विनौ **इन्द्रेण** सह **सरथं** समानमेकं रथमास्थाय **यत्** यदि **याथः** गच्छथः । **यद्वा** यदि वा **वायुना** सह **समोकसा** समाननिवासौ **भवथः** । **यत्** यदि वा **आदित्येभिः** अदितिपुत्रैर्मित्रादिभिः **ऋभुभिः** च **सजोषसा** सह प्रीयमाणौ वर्तेथे । यद्वा यदि वा **विष्णोर्विक्रमणेषु** विष्णुना देवेन विक्रान्तेषु त्रिषु लोकेषु **तिष्ठथः** । अतः सर्वस्मादपि स्थानादागच्छतमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Although, **Aśvins** you should be riding in the same chariot with **Indra**, although you should be domiciledwith **Vāyu**, although you should be enjoying gratification along with the **Ādityas** and **Ṛbhus**, although you beproceeding on the tracks of **Viṣṇu**, (nevertheless come here).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you drive with Indra on the same chariot or when you come to  share the same home with Vāyu, o Aśvins,  
 when you are joined in fellowship with the Ādityas and R̥bhus or when  you stand in the strides of Viṣṇu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whether with Indra ye be faring, Asvins, or resting in one dwelling-place with Vayu,  
      In concord with the Rbhus or Adityas, or standing still in Visnu's striding-places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr Asvin mit Indra auf gleichem Wagen fahrt oder mit Vayu eng verbunden seid, wenn mit den Aditya´s, den Ribhu´s vereint, oder wenn ihr euch an Vishnu´s Schritten aufhaltet!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ihr mit Indra auf gleichem Wagen fahrt, wenn, o Ritter, ihr mit Vaju in gleichem Hause weilt, wenn ihr mit den Aditisöhnen, mit den Ribhu's vereint seid, oder wenn ihr da steht, wo Vischnu ausschritt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда вы едете с Индрой на одной колеснице, о Ашвины,  
 Или когда бываете тесно связаны с Ваю,  

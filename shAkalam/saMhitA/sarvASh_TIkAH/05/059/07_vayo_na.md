@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡यो न꣡ ये꣡ श्र꣡यणीः+ पप्तु꣡र् ओ꣡जसा  
 अ꣡न्तान् दिवो꣡ बृहतः꣡ सा꣡नुनस् प꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ प꣡र्वतस्य नभनूँ꣡र् अचुच्यवुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अश्वा॑सः । ए॒षा॒म् । उ॒भये॑ । यथा॑ । वि॒दुः । प्र । पर्व॑तस्य । न॒भ॒नून् । अ॒चु॒च्य॒वुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
@@ -128,7 +128,7 @@ genre M
 **ये** मरुतः **वयो** **न** पक्षिण इव **श्रेणीः** पङ्क्तयः सन्तः **ओजसा** बलेन **दिवः** अन्तरिक्षस्यादित्यस्य वा **अन्तान्** पर्यन्तान **बृहतः** महतः **सानुनः** समुन्नतस्याकाशवलयस्य **परि** परितः **पप्तुः** पतन्ति **एषाम्** **अश्वासः** अश्वाः **पर्वतस्य** मेघस्य नभनून् ॥ भनतेः शब्दकर्मणो नभ्राडितिवत् नभनवः ॥ उदकानि **प्र** **अचुच्यवुः** च्यावयन्ति । **उभये** देवा मनुष्याश्च **यथा** **विदुः** जानन्ति तथा । मनुष्याणां ज्ञानं प्रसिद्धम् । देवाश्च वृष्टौ सत्यामाग्रयणादौ हविष्प्रदानेन जानन्ति । देवानां वृष्टिसंपूर्तिपरिज्ञानमाश्वलायनेनोक्तम्- यदा वर्षस्य तृप्तः स्यादथाग्रयणेन यजेत ' इत्युपक्रम्य  ‘ अपि हि देवा आहुस्तृप्तो नूनं वर्षस्याग्रयणेन हि यजते ' ( आश्व. श्रौ. २. ९) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 Both gods and mortals: the text has only ubhaye yathā viduḥ, as both know; men of course know by perception the setting in of the rains; the gods know it by the **agrayāna** and other sacrifices which are offered at that season
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They who, like birds in formation, have flown with their strength to the  ends of heaven from (heaven’s) lofty back—  
 their horses, as both (races [=human and divine]) know, have stirred  forth the spurting (waters) of the mountain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains several syntactic ambiguities of not much moment. The rel.
 
@@ -158,23 +158,23 @@ In b bṛhatáḥ can in principle be acc. pl., gen. sg., or abl. sg., so that i
 On nabhanú- see comm. ad IV.19.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like birds of air they flew with might in lengthened lines from heaven's high ridges to the borders of the sky.  
      The steeds who carry them, as Gods and mortals know, have caused the waters of the mounuains to desGend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die wie Vogelketten ungestüm flogen von dem hohen Himmelsrücken bis zu den Grenzen des Himmels; ihre Rosse haben, wie beide Teile wissen, die Wildwasser des Berges hervorsprudeln lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die kräftig flogen gleich gereihter Vögel Schar, zum Himmelssaum hoch über seine Wölbung hin; Der Maruts Rosse, wie den beiden Stämmen kund, sie schüttelten des Wolkenberges Quellen aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что, словно птицы, мощно летают рядами к границам  
 Неба с высокой (его) вершины, –  

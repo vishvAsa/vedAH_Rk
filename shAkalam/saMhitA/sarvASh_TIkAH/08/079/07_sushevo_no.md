@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुशे꣡वो नो मॄळया꣡कुर्+  
 अ꣡दृप्तक्रतुर् अवातः꣡  
 भ꣡वा नः सोम शं꣡ हृदे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 भव॑ । नः॒ । सो॒म॒ । शम् । हृ॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suśevo* ← *su*
 - \[adverb\]
@@ -97,19 +97,19 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **सोम** पीतस्त्वं **नः** अस्माकं **हृदे** हृदये वर्तमानः **सुशेवः** सुसुखः **मृळयाकुः** सुखयिता **अदृप्तक्रतुः** अप्रमत्तप्रज्ञः **अवातः** अगमनश्च [ तव हृदये पीताय हृदय? ] सं (?”शं) भव । अपरो नः पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Most gracious and conferring joy, void of pride in your acts, and never failing, dwell, **Soma**, auspiciouslyin our hearts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Very kindly to us, merciful, of undistracted resolve, unquenchable— be weal for our heart, o Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Grassmann I take avātá- as the negated ppl. of √vā ‘become extinguished’, in the sense ‘unextinguishable, unquenchable’, also in I.38.7, 52.4, and 62.10. It is separate from the homonymous avātá- ‘without wind, windless’ in VI.64.4 and X.129.2 and also from differently accented ávāta- (√van ‘win’) ‘unvanquished’. Geldner takes the avātá- forms here and in I.38.7 as ‘windless’ (as well as those in VI.64.4 and X.129.2) and in I.52.4 and 62.10 as ‘unvanquishable’. Renou takes this occurrence as ‘invincible’; see his disc. ad loc. My interpr. rests partly on semantic, partly on formal grounds. On the one hand, “windless Soma” (or, as Geldner has it, “ohne Wind zu machen”) makes no sense to me; on the other, though ‘invincible’ does make sense, I prefer to respect the accent otherwise found with that form, noting also that occurrences of that stem almost always appear with the participle vanván belonging to the same root. As for the occurrences in Maṇḍala I, avātá- once modifies mist (míh- I.38.2), once ‘streams’ (avánīḥ I.62.10, with phonological play), and once Indra’s śúṣmāḥ (I.52.4, there tr. ‘gusts’). In all cases (even, or esp., the last) ‘windless’ does not work; the point in all three cases is, I think, that the entity does not “go out”
 
@@ -117,23 +117,23 @@ With Grassmann I take avātá- as the negated ppl. of √vā ‘become extinguis
 assume that the point is that Soma is reliably present and available.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gracious, displaying tender love, unconquered, gentle in thy thoughts,  
      Be sweet, O Soma, to our heart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei uns freundlich, mildtätig; ohne den Geist zu verwirren, ohne Wind zu machen, bekomm, o Soma, unserem Herzen wohl!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei du freundlich uns und gnädig, treu behütend, unversieglich, Soma sei zum Heil dem Herzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Будь) очень милостивым к нам, сочуственным,  
 Не помрачающим (наш) разум, надежным,  

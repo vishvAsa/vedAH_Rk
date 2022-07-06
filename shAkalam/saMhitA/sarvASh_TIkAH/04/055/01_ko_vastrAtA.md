@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ वस् त्राता꣡ वसवः को꣡ वरूता꣡  
 द्या꣡वाभूमी अदिते त्रा꣡सिथां° नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 को꣡ वो ऽध्वरे꣡ व꣡रिवो धाति देवाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सही॑यसः । व॒रु॒ण॒ । मि॒त्र॒ । मर्ता॑त् । कः । वः॒ । अ॒ध्व॒रे । वरि॑वः । धा॒ति॒ । दे॒वाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 हे **वसवः** सर्वस्य वासयितारो देवाः **वः** युष्मान् **कः** **त्राता** अस्ति । यतो यूयं वसवोऽत इत्यभिप्रायः । **कः** च **वरूता** संभक्तास्ति । यद्वा । वो युष्माकं मध्ये कस्त्राता रक्षको देवः कश्च  वरूता वारयिता दुःखानां वरणीयो वा भवति । हे **द्यावाभूमी** **नः** अस्मान् **त्रासीथां** रक्षतम् । हे **अदिते** अखण्डनीये । एतदपि द्यावाभूम्योर्विशेषणम् । संख्याव्यत्ययः । यदीदं पृथग्देवतामन्त्रणं स्यात् तर्हि निघातो न स्यात् ।' आमन्त्रितं पूर्वमविद्यमानवत्' इति पूर्वस्याविद्यमानवत्त्वेनास्यैव पादादित्वात् । ' अदिते मित्र वरुणोत मृळ ' (ऋ. सं. २. २७. १४ ) इति, ‘आदित्या रुद्रा वसवः सुदानवः' (ऋ. सं. १०. ६६. १२) इतिवत् । तस्यैव विशेषणत्वे समानाधिकरणे इति सामानाधिकरण्यात्   ‘ अग्ने पावक रोचिषा' (ऋ. सं. ५. २६. १) इतिवत् अस्य निघातः सिध्यति । तस्मात् द्यावाभूमी इत्येतस्य विशेषणम् । हे **वरुण** हे **मित्र** युवां **सहीयसः** **मर्तात्** अभिभवितुः मनुष्यात् नस्त्रासीथाम् । हे **देवाः** **वः** युष्माकम् **अध्वरे** यागे **कः** **वरिवः** धनं **धाति** ददाति। यद्वा । वो युष्माकं मध्ये को वरिवो धाति धारयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ genre M
 Aditi: dyāvābhūmi adite trāsīthām naḥ: adite, undivided, indivisible, may be an epithet of heaven and earth; who is it, gods, that offer you: ko vo adhvare arivo dhāti **devāḥ** = which of you gods bestows wealth at the sacrifice?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is the protector among you (all), o good ones, who the defender? O  Heaven and Earth, o Aditi—you should protect us  
 from the stronger mortal, o Varuṇa and Mitra. Who will establish wide  space for you at the ceremony, o gods?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the anomalous form trā́sīthām see Oldenberg Whatever its morphological status otherwise, it is clearly a dual, and therefore, strictly speaking, only dyā́vābhūmī can be its subj., not the additional voc. adite.
 
@@ -150,23 +150,23 @@ Since pāda b is a repetition (=VII.62.4), Geldner interprets it as parenthetica
 phrase in c can just as easily be construed with the verb in b, I see no reason why the repeated pāda can’t have been stitched into the fabric of this vs. (Renou and Witzel Gotō both take c with b, as I do.) With Geldner, I take vaḥ as a dat. of benefit: the wide space is made for the gods (see also Oberlies, Relig. des RV I.461). Renou and Witzel Gotō construe vaḥ with káḥ (“which among you?”), and Witzel Gotō specifically indicate that the wide space is made for us by one of the gods. Although the identical phrase kó vaḥ opening pāda a favors this latter interpr., I follow Geldner, in part because I think whoever would be acting thus at the ceremony would be a human ritual officiant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHO of you, Vasus, saveth? who protecteth? O Heaven and Earth and Aditi, preserve us,  
      Varuna., Mitra, from the stronger mortal. Gods, which of you at sacrifice giveth comfort?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer von euch, ihr Guten, ist der Beschützer, wer der Behüter - Himmel und Erde, Aditi, beschütz uns - vor dem stärkeren Sterblichen, o Mitra und Varuna? Wer bereitet euch, ihr Götter, bei dem Opfer Behagen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer von euch Vasu's ist's, der schützt und rettet? o Erd' und Himmel, Aditi, beschützt uns Vor stärkerm Menschen, Varuna und Mitra, wer von euch Göttern gibt beim Opfer Segen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто из вас спаситель, о Васу, кто защитник?  
 О Небо и Земля, о Адити, спасите нас  

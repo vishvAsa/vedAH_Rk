@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ षु꣡ ब्र꣡ह्म ज꣡नानां᳐  
 या꣡विष्टं तू꣡यम् आ꣡ गतम्  
 मो꣡ षु꣡ अन्याँ꣡ उ꣡पारतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मो इति॑ । सु । अ॒न्यान् । उप॑ । अ॒र॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -106,7 +106,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अश्विनौ **या** यौ युवां **जनानां** प्राणिनां मध्ये **ब्रह्म** ब्राह्मणजातिं **सु** सुष्ठु **नि** नितराम्। **अविष्टम्** अरक्षिष्टम् । यद्वा । जनानां यजमानानां ब्रह्म परिवृढं स्तोत्रं हविर्लक्षणमन्नं वा यौ युवां न्यविष्टं न्यगच्छतम् । अवतिर्गत्यर्थः । तौ युवां **तूयं** क्षिप्रम् **आ** **गतम्** अस्मानप्यागच्छतम् । **अन्यान्** अस्मद्व्यतिरिक्तान यजमानान् **मो** मैव **सु** **उपारतम्** उपगमतम् । कदाचिदपि मैव प्राप्नुतमित्यर्थः ॥ अर्तेर्माङि लुङि' सर्तिशास्त्यर्तिभ्यश्च' इति च्लेरङादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,36 +117,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Who ever carefully: **brahma** janānām yāviṣṭam tūyamā gatam: **brāhmaṇa** jātim, thebrāhmaṇa class; or, parivṛdham stotram havirlakṣaṇam **annam** vā, the great praise or sacrificial food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Team up the formulations of the people and come quickly here.  
 Do not go to the others.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Pp. analyses yā́viṣṭam as yā́áviṣṭam, with the latter an injunc. -iṣ-aor.
 
 to √av ‘help, favor’. Geldner accepts this analysis and Renou is sympathetic; however, Oldenberg dismisses it, taking yā́viṣṭam rather to √yu ‘unite’, as the verbal counterpart (with initial preverb ní) of the common noun niyút- ‘team’. This analysis is already found in Grassmann and is vigorously defended by Narten (Sig. Aor. 212). One argument against the Pp. interpr. is the fact that this would produce an unambiguous embedded relative clause, and these are rare to non-existent in the RV.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come quickly downward to the prayer of people whom ye favour most:  
      Approach not unto other folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet fein rasch herab zu der Menschen erbaulichen Reden, die ihr bevorzuget! Geratet ja nicht zu den anderen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gewähret gnädig das Gebet der Männer, kommet eilig her; Nicht wendet euch zu andern hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Примите милостиво молитву людей!  
 Быстро приезжайте!  

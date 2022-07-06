@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡म् मे गङ्गे यमुने सरस्वति  
 शु꣡तुद्रि स्तो꣡मं सचता प꣡रुष्णि आ꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡र्जीकीये शृणुहि आ꣡ सुषो꣡मया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒सि॒क्न्या । म॒रु॒त्ऽवृ॒धे॒ । वि॒तस्त॑या । आर्जी॑कीये । शृ॒णु॒हि । आ । सु॒ऽसोम॑या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -109,7 +109,7 @@ genre M
 अत्र प्रधानभूताः सप्त नद्यस्तदवयवभूता नद्यस्तिस्रः स्तूयन्ते । हे **गङ्गे** हे **यमुने** हे **सरस्वति** हे **शुतुद्रि** हे **परुष्णि** । हे **असिक्न्या** अवयवभूतया सहिते **मरुद्वृधे** हे **वितस्तया** **सुषोमया** च सहिते **आर्जीकीये** त्वं च एवं सप्त नद्यो यूयं **मे** **स्तोमं** स्तोत्रमस्मदीयम् **आ** **सचत** आसेवध्वम् । **शृणुहि** शृणुत च । आर्जीकीयाया वितस्तया सुषोमया च साहित्यं निरुक्त उक्तं -- ‘ वितस्तया चार्जीकीया आ शृणुहि सुषोमया च ' इति । अत्र 'गङ्गा गमनात्' (निरु. ९.२६) इत्यादि निरुक्तं द्रष्टव्यम् ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,29 +124,29 @@ Gaṅgā...: cf. Roth's Lit. and Hist. of the **Veda**, pp. 136- 140;Paruṣṇi
 Suṣomā = **Sindhu**; **Nirukta** 2.26; cf. Muir's **Sanskrit** Texts, vol. 2, p. 355; a verse is inserted here insome MSS, not noticed by **Sāyaṇa**: "Those who are drowned at the confluence of the **Sita** and **Asita** go toheaven; the resolute people who abandon their lives (thus) enjoy immortality"
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here, o Gaṅgā, Yamunā, Sarasvatī—attend on this praise of mine, o  Śutudrī, Paruṣṇī.  
 With the Asiknī, o Marudvr̥dhā, with the Vitastā, o Ārjīkīyā, harken,  with the Suṣomā.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Favour ye this my laud, O Ganga, Yamuna, O Sutudri, Parusni and Sarasvati:  
      With Asikni, Vitasta, O Marudvrdha, O Arjikiya with Susoma hear my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Folgt diesem Lobgesang von mir, Ganga, Yamuna, Sarasvati, Sutudri, Parusni; Marudvridha mit der Asikni, mit der Vitasta, Arjikiya mit der Susoma höre zu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Empfangt mein Loblied, Çutudri, Sarasvati, o Ganga du und Jamuna, Paruschni auch, Asikni und Vitasta und Marudvridha, mit der Suschoma, Ardschikija, höre uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Примите эту мою хвалу, о Ганга,  
 Ямуна, Сарасвати, Шутудри, Парушни!  

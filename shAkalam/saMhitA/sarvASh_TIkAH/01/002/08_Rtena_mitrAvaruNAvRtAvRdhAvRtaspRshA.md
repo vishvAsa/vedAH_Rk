@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋते꣡न मित्रावरुणाव्  
 ऋतावृधाव् ऋतस्पृशा  
 क्र꣡तुम् बृह꣡न्तम् आशथे°
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क्रतु॑म् । बृ॒हन्त॑म् । आ॒शा॒थे॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
@@ -74,7 +74,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 . ८. १. १९ ) इति आष्टमिको निघातः । ननु ऋतेन इत्येतस्य ‘सुबामन्त्रिते पराङ्गवत्स्वरे ' ( पा. सू. २. १. २) इति पराङ्गवद्भावेन आमन्त्रितानुप्रवेशात् पादादित्वेन पदादपरत्वेन वा आष्टमिकनिघाताभावात् ' आमन्त्रितस्य च ' ( पा. सू. ६. १. १९८ ) इत्याद्युदात्तेन भवितव्यमिति चेत्, न। पराङ्गवद्भावस्य सुबामन्त्रिताश्रयत्वेन पदविधित्वात् ‘समर्थः पदविधिः' (पा. सू. २. १. १) इति नियमात् । इह च ऋतेन मित्रावरुणौ इत्यनयोः आशाथे इति आख्यातेनैवान्वयेन परस्परमसामर्थ्यात् । यत्र पुनः परस्परान्वयेन सामर्थ्यं तत्र पराङ्गवद्भावात् पादादेः आद्युदात्तत्वं भवत्येव । यथा 'मरुतां पितस्तदहं गृणामि ' इति । ' मृग्रोरुतिः ' ( उ. सू. १. ९४ ) । इति उतिप्रत्ययान्तत्वेन ‘पृश्नियै वै पयसो मरुतो जाताः' (तै. सं. २. २. ११. ४ ) । इत्यादौ अन्तोदात्तोऽपि हि मरुच्छब्दो ‘ मरुतां पितः' इत्यत्र सामर्थ्यात् पराङ्गवद्भावादेव आद्युदात्तो जातः । प्रकृते तु ऋतेन इत्यस्यासामर्थ्यादेव न पराङ्गवद्भाव इति । ऋतावृधावित्यत्र द्वितीयामन्त्रितस्य निघाते कर्तव्ये ‘आमन्त्रितं पूर्वमविद्यमानवत् ' ( पा. सू. ८. १.७२ ) इति प्रथमामन्त्रितेन अविद्यमानवद्भवितव्यमिति चेत्, भवतु । अत एव तस्याव्यवधायकत्वात् ऋतेन इति प्रथमपदात् परत्वेनैव द्वितीयामन्त्रितं निहनिष्यते । यथा “ इमं मे गङ्गे यमुने' ( ऋ. सं. १०. ७५, ६ ) इत्यादौ गङ्गेशब्दस्याविद्यमानवद्भावेऽपि तस्याव्यवधायकत्वादेव मे इत्येतदेव पदमुपजीव्य यमुनेशब्दस्य निघातः । किं च प्रकृते मित्रावरुणौ इत्यामन्त्रितं सामान्यवचनम् । तस्य विशेषणतया विशेषवचनम् ऋतावृधाविति । अतः ‘ नामन्त्रिते समानाधिकरणे सामान्यवचनम् ' ( पा. सू. ८. १.७३ ) इति पूर्वस्याविद्यमानवद्भावप्रतिषेधादपि निरन्तरायो द्वितीयस्य निघातः ॥ ननु एवमपि ‘अपादादौ ' (पा. सू. ८. १. १८) इत्यनुवृत्तेर्ऋतावृधेत्यस्य द्वितीयपादादित्वान्न भवितव्यं निघातेन । अत एव हि ‘इमं मे गङ्गे' इत्यत्र शुतुद्रिपदस्य पदात् परस्य आमन्त्रितस्यापि पादादित्वादेव अनिघातादाद्युदात्तत्वं जातम् । तद्वदत्रापि भवितव्यं वक्तव्यो वा विशेष इति ॥ उच्यते---मित्रावरुणपदस्य ‘सुबामन्त्रिते० ' ( पा. सू. २. १. २) इति पराङ्गवद्भावेन परानुप्रवेशादेव ऋतावृधेत्यस्य न पादादित्वम् । शुतुद्रिपदमपि तर्ह्येवमेव पूर्वस्य सरस्वतिपदस्य पराङ्गवद्भावेन न पादादिरिति निहन्येत इति चेत्, न । पराङ्गवद्भीवस्तावत् सुबन्तमामन्त्रितं चाश्रित्य प्रवृत्तेः' पदविधिः । अतस्तयोः सत्येव परस्परान्वये पराङ्गवद्भावेन भवितव्यं समर्थः पदविधिः' (पा, सू. २. १. १ ) इति नियमात् । शुतुद्रिसरस्वतिपदयोश्च न परस्परेणान्वयः किंतु सचत इत्यनेन इत्यसामर्थ्यात् न पराङ्गवद्भावः । प्रकृते तु मित्रावरुणौ ऋतावृधौ इति द्वयोरपि सामानाधिकरण्येन परस्परान्वयादस्तिसामर्थ्यमिति भवितव्यं पराङ्गवद्भावेन । यथा “ मरुतां पितः' इत्यत्रेति विशेषः ॥ ननु अत एव तर्हि मित्रावरुणपदस्य पराङ्गवद्भावेन पादादित्वात् “ अपादादौ ' इति पर्युदासादामन्वितनिघातो न स्यादिति चेत् , न । पूर्वं सुबन्तं परं चामन्त्रितमाश्रित्य यः स्वरः प्रवर्तते तत्र ‘सुबामन्त्रिते' इति पराङ्गवद्भावः । भवति चैवंविध ऋतावृधपदनिघात इति । तत्र पूर्वस्य पराङ्गवद्भावेनापादादित्वात् स प्रवर्तते । मित्रावरुणपदनिघातस्तु पूर्वमेव पदमुपजीवति न परमामन्त्रितमिति न पराङ्गवद्भावः ॥ ननु पराङ्गवद्भाववन्निघातोऽपि पदविधिरिति ऋतेन इत्यनेनासामर्थ्यात् ततः पदात्परस्य मित्रावरुणपदस्य न स्यात् इति चेत्, न । समानवाक्ये निघातयुष्मदस्मदादेशा वक्तव्याः' (पा. सू. २. १. १. ११) इति निघाते पदविधावपि समानवाक्यत्वमेव पर्याप्तं, न पराङ्गवद्भाववत् परस्परान्वयोऽपीत्यलम् । क्रतुम् । ‘कृञः कतुः' (उ. सू. १. ७७ )। प्रत्ययस्वरेणादिरुदात्तः । आशाथे आनशाथे। 'छन्दसि लुङ्लङ्लिटः ' ( पा. सू. ३. ४. ६) इति वर्तमाने लिट् । नुडभावश्छन्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,33 +85,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Ṛtāvṛdhau: ṛta = tue or truth; it also signifies water and sacrifice\].
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By truth— o Mitra and Varuṇa, strong through truth, touching truth— you have attained your lofty purpose.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The unaccented voc. ṛtāvṛdhāv opening the 2nd pāda has been thus transmitted, though we would expect *ṛ́tāvṛdhāv. In fact there is a striking string of 13 unaccented syllables in this hemistich, starting after the first word of the vs., ṛténa (14, counting -na). See Oldenberg, who has no good explanation for the lack of accent on the first word of the 2nd pāda, though he considers it an old error. It cannot be simply a peculiarity of this hymn, because I.3.1b (forming part of the Praügaśastra sequence with I.2, as discussed in the published introduction.) opens with an initially accented voc. drávatpāṇī (to the stem dravátpāṇi-).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mitra and Varuna, through Law, lovers and cherishers of Law,  
      Have ye obtained your might power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Wahrheit habt ihr, Mitra und Varuna, ihr Wahrheitsmehrer, Wahrheits-pfleger, hohe Einsicht erlangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Recht, o Mitra-Varuna, die Recht ihr liebt und Recht beschirmt, Habt hohe Weisheit ihr erlangt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Истиной, о Митра-Варуна,  
 Умножающие истину, лелеющие истину,  

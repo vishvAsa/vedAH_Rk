@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ जाते꣡भिर् वृत्रहा꣡ से꣡द् उ हव्यइ꣡र्  
 उ꣡द् उस्रि꣡या असृजद् इ꣡न्द्रो अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡धु स्वा꣡द्म दुदुहे जे꣡निया गउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒रू॒ची । अ॒स्मै॒ । घृ॒तऽव॑त् । भर॑न्ती । मधु॑ । स्वाद्म॑ । दु॒दु॒हे॒ । जेन्या॑ । गौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -136,44 +136,44 @@ genre M
 **सः** **इन्द्रः** **जातेभिः** सहायतया संपन्नैर्मरुद्भिः सहितः सन् **वृत्रहा** वृत्रस्यासुरस्य हन्ता भवति । **सेदु** स एव इन्द्रः **अर्कैः** अर्चनीयैः अत एव **हव्यैः** होतव्यैर्मरुद्भिः सहितः सन् **उस्रियाः**। ऊर्ध्वं वसत्यासु क्षीरादिरूपं हविरित्युस्रिया गावः । यद्वा ऊर्ध्वं क्षीरदधिनवनीतादि क्रमेणासु वसतीति । ‘उस्रियेति गोनामोत्स्राविणोऽस्यां भोगाः । ( निरु. ४. १९ ) इति यास्कः । ता गाः **उत** **असृजत्** यज्ञार्थं सम्यक् ससर्ज । यस्मादेवं तस्मात् **घृतवत्** घृतोपेतं क्षीरादिकं हविः **भरन्ती** बिभ्राणा अत एव **उरूची** । उरु प्रभूतमग्निहोत्रादिकम् अञ्चति हविः प्रदातुं प्राप्नोतीत्युरूची । **जेन्या** जेतव्या प्रशस्ता **गौः** **अस्मै** यजमानाय **स्वाद्म** स्वादुतरं क्षीरादि दुदुहे दुह्यते स्म ॥ उस्रियाः । वस निवासे' इत्यस्मात् ' स्फायितच्चि° ' इत्यादिना रक्प्रत्ययः । उस्रशब्दात् स्वार्थे पृषोदरादित्वात् घप्रत्ययः । प्रत्ययस्वरः। यद्वा । ‘सृ गतौ'। उत्पूर्वस्य सरतेः कप्रत्ययः । पूर्वपदस्यान्त्यलोपश्छान्दसः। अत्रापि स्वार्थिको घप्रत्ययः । असृजत् ।' सृज विसर्गे' इत्यस्य लङि रूपम् । उरूची । उरु अञ्चतीति क्विन् ।' अञ्चतेश्चोपसंख्यानम् ' इति ङीप् । उदात्तनिवृत्तिस्वरेणान्तोदात्तः । दुदुहे। ‘दुह प्रपूरणे' इत्यस्य लिटि रूपम् । जेन्या । जयतेः कृत्यार्थे केन्यप्रत्ययः । इकारलोपश्छान्दसः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, the slayer of **Vṛtra**,let loose the milch kine, assisted by the **Maruts**, born for his aid, and entitled to praises and oblations, and the excellent (cows) contributing abundantly to sacred offerings, and yielding the butter of libation, milked for him sweet (sacrificial) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He was Vr̥tra-smasher with (the help of) those who were born (together)  [=Maruts], and he sent the ruddy (cows) surging upward with  
 oblations and with the chants (of the Aṅgirases)—he is Indra.  
 She of broad extent, bearing ghee-rich (milk) to him, milked out honey,  sweetness—the thoroughbred cow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. of the first hemistich differs from the standard; I take it as consisting of two separate clauses, each identifying Indra in one of his most important mythic roles -- in the Vṛtra-slaying and in the freeing of the Vala cows -- along with his associates in those enterprises, the Maruts and the Aṅgirases respectively. It is important to note that this naming of Indra, in conjunction with the first appearance of his name in 4b (see comm. there and in the introduction. remarks), frames the treatment of the Vala myth, and, by mentioning Vṛtra, it also sets the stage for the opening out of this hymn to treat other exploits of Indra.
 
 Others take vṛtrahā́in pāda a simply as an auxiliary epithet of Indra in this account of the Vala myth, but I do not think that Vṛtrahan would be so promiment in a treatment of the Vala myth, and I also cannot otherwise account for the séd u in the middle of pāda a without assuming that a new clause begins there. (Lüders [517] gets out of this difficulty by accepting Ludwig’s emendation to a bahuvrīhi svéduhavyaiḥ ‘having sweating oblations’ [=Aṅgirases], but though this is ingenious, esp. as sweat figures in the same myth in X.67.6-7 as Geldner points out, it requires too much alteration for a sequence that can make sense on its own.) In the first brief clause, vṛtrahā́is the predicate, and jātébhiḥ refers to the Maruts, who are well known for being ‘born (together)’ (e.g., V.55.3 sākáṃ jātā́ḥ). Geldner suggests, but rejects, an emendation here to sajātébhiḥ (for transmitted sá jātébhiḥ), an idea also of Alsdorf’s (see Schmidt 169); I would modify that by proposing haplology from sá *sajātébhiḥ. The rest of ab concerns the Vala myth, which has been the subject of the past seven vss. The myth is readily identifiable by the VP úd usríyā asṛjat “sent the ruddy (cows) surging up” and by the arkaíḥ, repeated from 9a. Since the chants in 9a clearly belonged to the Aṅgirases, there need not be any even oblique reference to the Aṅgirases here: the bare arkaíḥ will be enough.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra drove forth the kine, that Vrtra-slayer, while hymns of praise rose up and gifts were offered.  
      For him the Cow, noble and far-extending, poured pleasant juices, bringing oil and sweetness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er, der Vritratöter, ließ samt dem Nachwuchs, der Indra samt den Opfergaben die Kühe durch Zaubergesänge heraus. Die breitäugige, häusliche Kuh, die für ihn die schmalzige Milch trägt, hat ihren leckeren Honig aus sich melken lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die Söhne [des Angiras, also durch die Angirasen ?, (Säyana: durch die Maruts)] und durch ihre Opfer und Gesänge liess indra, der Vritratödter, die Kühe heraus; ihm strömte die weitreichende edle Milchkuh, welche fette Süssigkeit trug, den süssen Trank zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот убийца Вритры, этот самый Индра выпустил с помощью песнопений  
 Коров (-утренние зори) вместе с молодняком, вместе с жертвенными возлияниями.  

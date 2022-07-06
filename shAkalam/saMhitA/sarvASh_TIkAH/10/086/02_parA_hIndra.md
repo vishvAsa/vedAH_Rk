@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रा हि꣡ इन्द्र धा꣡वसि  
 वृषा꣡कपेर् अ꣡ति व्य꣡थिः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 नो इति॑ । अह॑ । प्र । वि॒न्द॒सि॒ । अ॒न्यत्र॑ । सोम॑ऽपीतये । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parā*
 - \[adverb\]
@@ -117,37 +117,37 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे **इन्द्र** त्वम् **अति** अत्यन्तं **व्यथिः** चलितः **वृषाकपेः** वृषाकपिं **परा** **धावसि** प्रतिगच्छसि । **अन्यत्र** **सोमपीतये** सोमपानाय **नो** **अह** नैव च **प्र** **विन्दसि** प्रगच्छसीत्यर्थः । सोऽयम् **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indrāṇī** speaks: You, **Indra**, much annoyed, hasten towards **Vṛṣākapi**; and yet you find no otherplace to drink the **Soma**; Indra is above all (the world).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indrāṇī:] “But although, o Indra, you run away, beyond the wayward  course of Vr̥ṣākapi,  
 you do not find anywhere else for soma-drinking.”  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, heedless passest by the ill Vrsakapi hath wrought;  
      Yet nowhere else thou findest place wherein to drink the Soma juice. Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du läufst ja weiter, Indra, über die Verfehlung des Vrisakapi hinweg sehend. Auch anderswo bekommst du keinen Soma mehr zu trinken. - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Du, o Indra, läufst fort über den Weg, den Vrischākapi eingeschlagen, und doch findest du nirgend wo anders eine Gelegenheit zum Somatrunke.« Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

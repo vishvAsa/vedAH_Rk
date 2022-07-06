@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवां꣡ देवा꣡स् त्र꣡य एकादशा꣡सः  
 सत्याः꣡ सत्य꣡स्य ददृशे पुर꣡स्तात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पातं꣡ सो꣡मम् अश्विना दी꣡दिअग्नी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 अ॒स्माक॑म् । य॒ज्ञम् । सव॑नम् । जु॒षा॒णा । पा॒तम् । सोम॑म् । अ॒श्वि॒ना॒ । दीद्य॑ग्नी॒ इति॒ दीदि॑ऽअग्नी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
@@ -115,7 +115,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,28 +126,28 @@ Sayana bhashya empty
 I.e. before the Sun; the dawns are compared to truthful activewomen; cf. RV. 1.79.1
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two have the gods, the thrice eleven, (called upon); those realest of  the real have appeared in front.  
 Taking pleasure in our sacrifice, our pressing, drink the soma, o Aśvins,  as ones for whom the fire glows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Once again Oldenberg, Geldner, and Renou are in favor of various emendations (for which see the relevant discussions), but it is possible to make sense of the text, with the only alteration from assuming that dadṛśe stands for a dissimilated *dadṛśre.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch haben die dreimal elf Götter, die Wahrhaften der Wahrheit, den Vorrang gelassen. Findet an unserem Opfer und an unserer Trankspende Gefallen und trinket den Soma, ihr Asvin: der Bulle von Himmel, Luftraum, Erde und die tausend Lobesworte, die bei der Suche nach Rindern gesprochen werden, zu diesen allen kommet, um zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch beide sahn die dreiunddreissig Götter, die wahren, stehen an der Wahrheit Spitze, Geniesset unser Opfer, unsre Spende, o Ritter, trinkt den Soma flammenleuchtend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас боги (числом) трижды одиннадцать,  
 Истинные (боги) истины поставили впереди.  

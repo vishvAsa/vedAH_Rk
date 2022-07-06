@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ द्यां꣡ तनोषि रश्मि꣡भिर्  
 आ꣡न्त꣡रिक्षम् उरु꣡ प्रिय꣡म्  
 उ꣡षः शुक्रे꣡ण शोचि꣡षा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; repeated line
 उषः॑ । शु॒क्रेण॑ । शो॒चिषा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -85,36 +85,36 @@ genre M;; repeated line
 हे **उषः** **रश्मिभिः** **द्यां** दिवम् **आ** **तनोषि** । **उरु** विस्तीर्णं **प्रियम्** **अन्तरिक्षं** रश्मिभिः **आ** तनोषि । **शुक्रेण** दीप्तेन **शोचिषा** प्रकाशेन युक्ता सती एवं करोषि ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You overspread, Uṣas, the heaven with rays, as well as the vast and beloved firmament with pure lustre.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through heaven do you stretch with your rays, through the midspace  wide and dear,  
 o Dawn, with your bright brilliance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou overspreadest heaven with rays, the dear wide region of mid-air.  
      With thy bright shining lustre, Dawn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du durchziehst den Himmel mit Strahlen, den weiten lieben Luftraum, o Usas, mit deinem hellen Feuerschein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Himmel füllst mit Strahlen du, und auch die liebe weite Luft, O Morgenroth, mit hellem Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты пронизываешь небо (своими) лучами,  
 Широкое славное воздушное пространство,  

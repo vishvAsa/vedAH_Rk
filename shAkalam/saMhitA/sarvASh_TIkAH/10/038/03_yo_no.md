@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नो दा꣡स आ꣡रियो वा पुरुष्टुत  
 अ꣡देव इन्द्र युध꣡ये चि꣡केतति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्व꣡या वयं꣡ ता꣡न् वनुयाम संगमे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्माभिः॑ । ते॒ । सु॒ऽसहाः॑ । स॒न्तु॒ । शत्र॑वः । त्वया॑ । व॒यम् । तान् । व॒नु॒या॒म॒ । स॒म्ऽग॒मे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 हे **पुरुष्टुत** बहुस्तुत **इन्द्र** **यः** **दासः** कर्मकरः शूद्रः **आर्यः** त्रैवर्णिको **वा** **अदेवः** देवादन्योऽसुरो वा **नः** अस्मान् **युधये** युद्धाय **चिकेतति** जानाति ते सर्वे **शत्रवः** अस्मदरयः **ते** तव प्रसादात् **अस्माभिः** **सुसहाः** स्वभिभवाः **सन्तु** भवन्तु । किंच **वयं** **त्वया** सहायेन **तान्** शत्रून् **संगमे** संग्रामे **वनुयाम** हन्याम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ genre M
 A dāsa = adeva
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever godless one, Dāsa or Ārya, will have in view to fight us, o  much-praised Indra—  
 let those rivals be easy to conquer for you along with us. With you may  we vanquish them in the clash.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The godless man, much-lauded Indra, whether he be Dasa or be Arya, who would war with us,-  
      Easy to conquer he for thee, with us, these foes: with thee may we subdue them in the clash of fight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn, o vielgepriesener Indra, ein dasischer oder arischer Gottloser uns zu bekämpfen beabsichtigt, so sollen dir die Feinde durch uns leicht zu bezwingen sein. Mit dir wollen wir sie im Kampf überwinden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Götterhasser, sei er heimisch, sei er fremd, o vielgerühmter Indra, uns bekämpfen will, Sie, deine Feinde, seien leicht besiegbar uns, wir wollen sie durch dich bezwingen in der Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О многопрославленный, если даса или арья  
 Безбожный, о Индра, с нами замышляет сражаться,  

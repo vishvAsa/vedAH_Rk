@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नी꣡ र꣡क्षांसि सेधति  
 शुक्र꣡शोचिर् अ꣡मर्तियः  
 शु꣡चिः पवाक꣡+ ई꣡डियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शुचिः॑ । पा॒व॒कः । ईड्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnī* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -78,36 +78,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **शुक्रशोचिः** शुभ्रज्वालः **अमर्त्यः** मरणरहितो देवतात्मा **शुचिः** स्वयं शुद्धः **पावकः** अन्येषामपि शोधकः **ईड्यः** स्तुत्यः **अग्निः** **रक्षांसि** राक्षसान् **सेधति** बाधताम् ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the bright, radiant, immortal, pure, purifying, adorable **Agni**, keep off the **rākṣasas**\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The brightly blazing, immortal Agni wards off demons—  
 the blazing pure one to be invoked.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright, Purifier, meet for praise, Immortal with refulgent glow,  
      Agni drives Raksasas away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni wehrt die Unholde ab, der Unsterbliche mit heller Flamme, der Reine, Lautere, Anzurufende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni vertilgt die Geisterschar, hellleuchtend der unsterbliche Der preisenswerthe, hell entflammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни отвращает ракшасов  
 (Он,) светлопламенный, бессмертный,  

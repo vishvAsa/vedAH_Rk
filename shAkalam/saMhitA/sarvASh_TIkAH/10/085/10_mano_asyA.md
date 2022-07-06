@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡नो अस्या अ꣡न आसीद्  
 दियउ꣡र् आसीद् उत꣡ छदिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡द् अ꣡यात् सूरिया꣡ गृह꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 शु॒क्रौ । अ॒न॒ड्वाहौ॑ । आ॒स्ता॒म् । यत् । अया॑त् । सू॒र्या । गृ॒हम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mano* ← *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
@@ -106,7 +106,7 @@ popular;; epic anuṣṭubh (380)
 **अस्याः** सूर्यायाः पत्युर्गृहं गच्छन्त्याः **अनः** रथः **मनः** **आसीत्** । या पतिगृहं त्वया गच्छामीति मतिरस्ति सा अन आसीत् । **उत** अपि च तस्या अनसः **द्यौः** द्युलोकः **छदिः** उपर्यपिधानम् **आसीत्** । शुक्रौ दीप्तौ सूर्याचन्द्रमसौ **अनड्वाहौ** रथस्य वोढारौ **आस्ताम्** अभवताम् । **यत्** यदा **सूर्या** गृहं सोमम् अयात् अगात् ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,29 +117,29 @@ popular;; epic anuṣṭubh (380)
 I.e., when **Sūrya** went to **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mind was her wagon, and heaven was her canopy.  
 The two glowing ones [=sun and moon] were the draft-oxen, when  Sūryā drove to her (new) home.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Her spirit was the bridal car; the covering thereof was heaven:  
      Bright were both Steers that drew it when Surya approached her husband's, home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geist war ihr Wagen, und der Himmel war das Wagendach. Die beiden Lichter waren die Zugtiere, als Surya nach dem Hause des Soma verzog.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Herz war der Wagen und der Himmel das Verdeck darauf; zwei Lichtflammen ihre Zugstiere, als Suriā in das Haus [des Gatten] fuhr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мысль была ее повозкой,  
 А небо было крышей (повозки).  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इन्द्र शु꣡ष्मो मघवन् ते अ꣡स्ति  
 शि꣡क्षा स꣡खिभ्यः पुरुहूत नृ꣡भ्यः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पा वृधि प꣡रिवृतं न꣡ रा꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । हि । दृ॒ळ्हा । म॒घ॒ऽव॒न् । विऽचे॑ताः । अप॑ । वृ॒धि॒ । परि॑ऽवृतम् । न । राधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 हे **पुरुहूत** बहुभिराहूत **इन्द्र** **ते** तव **यः** **शुष्मः** बलम् **अस्ति** तं शुष्मं **सखिभ्यः** स्तोतृभ्यः **नृभ्यः** **शिक्ष** देहि । अपि च हे **मघवन्** **हि** यस्मात् **दृळ्हा** दृढानि । पुरां द्वाराणि बिभेदिथेति शेषः । तस्मात् सः **त्वं** **विचेताः** विविक्तप्रज्ञः सन् **परिवृतं** तिरोहितं **राधः** धनम् **अप** **वृधि** अस्मभ्यमपवृणु । **न** इति संप्रत्यर्थे ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,13 +137,13 @@ genre M
 Has forced open: tvam hi **dridha** maghavan = you, Maghavan, verily the firm(plural acc.feminine)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The unbridled power that is yours, bounteous Indra, (with it) do your  best for your comrades, your men, o much invoked one.  
 Because as one who can tell things apart you (take) apart the fastnesses,  o bounteous one, (now) uncover largesse like something confined.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The relative clause in the first pāda has no overt referent in the main clause of b, but I supply an instr. téna (see also Geldner’s n.; his first alternative, to supply tám, is less attractive because śikṣa- doesn’t ordinarily take an acc.).
 
@@ -152,23 +152,23 @@ I interpret c as containing an implicit pun. The form vícetā(ḥ), masc. nom. 
 of vícetas-, derived from the root √cit ‘perceive’, means ‘discriminating’, hence my ‘tell things apart’, and is regularly applied to Indra (and other gods). But this leaves dṛḷhā́with no verb to govern it. (It cannot be object of ápa vṛdhi in d, because the hí in c should trigger verbal accent.) I suggest that vícetā (in sandhi) might also be secondarily construed as the agent noun of ví √ci ‘pile apart, pull apart’, governing dṛḷhā́. Of course we would expect the Saṃhitā text to show coalescence of the final vowel of the agent noun and the initial vowel of the next pāda, but the recitational text would not reflect that. Although most agent nouns compounded with preverbs take suffix accent, compare nícetar- (I.184.2) to a different root √ci ‘perceive’. If this suggestion seems too radical, it would also be possible to detach the preverb ví from vícetā(ḥ) and supply a form of √vṛ ‘cover’ (found in ápa vṛdhi in d), producing the familiar lexeme ví √vṛ ‘uncover’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Grant, Indra Maghavan, invoked of many, to these my friends the strength which thou possessest.  
      Thou, Maghavan, hast rent strong places open: unclose for us, Wise God, thy hidden bounty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was dein Ungestüm ist, gabenreicher Indra, den suche den Genossen, du Vielgerufener, den Herren begreiflich zu machen! Du, der Kluge, entdecktest ja die verschlossenen Schätze, o Gabenreicher. Erschließe die Gabe wie etwas Verschlossenes!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit aller Kraft, die dein ist, mächt'ger Indra, gerühmter, hilf den Männern, deinen Freunden; Erschliesse denn, o mächtiger, die Festen, o weiser, und den eingeschlossnen Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) стремительность, что есть у тебя, о щедрый,  
 Передай (ее) товарищам, о многолризываемьгё, мужам!  

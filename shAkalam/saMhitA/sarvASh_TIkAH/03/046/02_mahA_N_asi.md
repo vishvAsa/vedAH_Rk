@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महाँ꣡ असि महिष वृ꣡ष्णियेभिर्  
 धनस्पृ꣡द् उग्र स꣡हमानो अन्या꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ योध꣡या च क्षय꣡या च ज꣡नान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 एकः॑ । विश्व॑स्य । भुव॑नस्य । राजा॑ । सः । यो॒धया॑ । च॒ । क्ष॒यय॑ । च॒ । जना॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
@@ -129,36 +129,36 @@ genre M
 “भुवनस्य **एकः** असहायः **राजा** **सः** त्वं **योधय** **च** सपत्नान् प्रहर । **जनान्** **क्षयय** **च** निवासय । बाधकान् हत्वा साधुजनान् स्वस्थाने स्थापयेत्यभिप्रायः ॥ महिष ।' मह पूजायाम् । ‘ अविमह्योष्टिषच् ' ( उ. सू. १. ४५ ) इति टिषच्प्रत्ययः । आमन्त्रितत्वान्निघातः । वृष्ण्येभिः । वृष्णि भवानि । ‘ भवे छन्दसि ' इति यत् । यतोऽनावः' इत्याद्युदात्तः । योधय । “ युध संप्रहारे ' इत्यस्य ण्यन्तस्य लोटि रूपम् । ‘ चादिषु च ' इति न निघातः । णित्स्वरः । क्षयय । ‘ क्षि निवासगत्योः' इत्यस्य ण्यन्तस्य लोटि रूपम् । अत्रापि पूर्ववदनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adorable and powerful **Indra**, you are great and magnificent, overcoming adversaries by your prowess; you alone are lord of all the world; do you war (upon our enemies), and give safe dwellings to men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are great, you buffalo, with your bullish powers—winning the spoils,  you strong one, overwhelming the others.  
 As sole king of all creation, cause the peoples to fight and to dwell in peace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Great art thou, Mighty Lord, through manly vigour, O fierce One, gathering spoil, subduing others,  
      Thyself alone the universe's Sovran: so send forth men to combat and to rest them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Groß bist du Büffel an Stierkräften, ein Schätzegewinner, du Gewaltiger, der die anderen bezwingt. Als der alleinige König der ganzen Welt führe du die Völker zum Kampf und laß sie in Frieden wohnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein grosser Stier bist du an Stiereskräften, erbeutend Gut, o Held, besiegend alle, Allein'ger König du des ganzen Weltalls, darum zu Kampf und Frieden führ die Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты велик, о буйвол, (своими) бычьими силами,  
 Захватывающий награды, о грозный, осиливающий других.  

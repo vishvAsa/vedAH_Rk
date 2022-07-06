@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध꣡निया चिद् धि꣡ त्वे꣡ धिष꣡णा व꣡ष्टि  
 प्र꣡ देवा꣡ञ् ज꣡न्म गृणते꣡ य꣡जध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡धु छन्दो꣡ भ꣡नति रेभ꣡ इष्टउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वेपि॑ष्ठः । अङ्गि॑रसाम् । यत् । ह॒ । विप्रः॑ । मधु॑ । छ॒न्दः । भन॑ति । रे॒भः । इ॒ष्टौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhanyā* ← *dhanya*
 - \[noun\], nominative, singular, feminine
@@ -126,20 +126,20 @@ genre M
 **धन्या** धनमिच्छन्ती धनहेतुभूता **धिषणा** स्तुतिर्हे अग्ने **त्वे** त्वां **वष्टि** कामयते । **चिद्धि** इत्येतत् पादपूरणम् । किमर्थम् । **देवान्** यष्टव्यानिन्द्रादीन् **प्र** **यजध्यै** प्रकर्षेण यष्टुं त्वदीयं **जन्म** प्रादुर्भावं **गृणते** स्तुवते यजमानायेदृग्भूतयजमानार्थम् । **यद्ध** यदा खलु **अङ्गिरसाम्** ऋषीणां मध्ये **वेपिष्ठः** अतिशयेन स्तुतेः प्रेरयिता **विप्रः** मेधावी **रेभः** स्तोता भरद्वाजः **इष्टौ** यज्ञे **मधु** मधुवत् मदकरं **छन्दः** स्तोत्रं **भनति** उच्चारयति तदा धिषणा वष्टीत्यन्वयः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “{Text is missing}”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For even the wealthy Holy Place longs for (this) in regard to you, (to put  you) forward to sacrifice to the gods, to their races, for the singer,  
 when the most inspired of the Aṅgirases, the inspired poet rhythmically  speaks his honey, hoarse-voiced in his quest.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are several metrical problems in this vs. Pāda c has the caesura after 3; there seems no way to remedy this, and the rest of the meter is fine. Pāda a is rather more interesting: the Saṃhitā text as given yields 10 syllables; there are two possible distractions: dhán(i)yā (Holland & van Nooten Rig Veda edition’s choice) and t(u)vé, but both produce the same bad cadence (⏑ - - ×). As Oldenberg points out (ZDMG 55.300 and Noten), if we distract neither of these choices, the vs. reads fine until the last word, with an opening of five and dhiṣáṇā taking post-caesura position. (It is worth noting that dhiṣáṇā- is almost always immediately post-caesura, whether after an opening of 4 or of 5.) All that’s wanting to make a fine Triṣṭubh line is a single light syllable preceding váṣṭi.
 
@@ -154,23 +154,23 @@ reflects such an intermediate verb form, from a supplied form of √dhā, with a
 dhiṣáṇā ... ádhāt; VI.19.2 ... dhiṣáṇā ... dhāt; VII.90.3 ... dhiṣáṇā dhāti. However, I am now no longer sure that my objections to the standard tr. are strong enough to merit the additional complexity of my published interpr., and I am also disturbed by having to interpr. loc. tvé as “in regard to you.” The next hymn contains a passage that strongly encourages construing tvé here with yájadhyai “to sacrifice in you”:
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For even the blessed longing that is in thee would bring the Gods down to the singer's worship,  
      When the Angirases' sagest Sage, the Poet, sings the sweet measure at the solemn service.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn auch die reichmachende Dhisana wünscht in dir dem Geschlecht der Götter für den Sänger zu opfern, wenn der beredteste Redner der Angirasen als Lobredner seine süße Weise im Wunsch nach den Göttern ertönen läßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dir ja will die reiche Opferschale dem Götterstamme opfern für den Sänger; Wenn preisend nun der weiseste der weisen, der Dichter singend rühmt den Trank beim Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь даже сама обогащающая Дхишана хочет в тебя  
 Принести жертву роду богов для певца,  

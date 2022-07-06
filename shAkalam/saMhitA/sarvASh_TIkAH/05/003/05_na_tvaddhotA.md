@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त्व꣡द् धो꣡ता पू꣡र्वो अग्ने य꣡जीयान्  
 न꣡ का꣡वियैः परो꣡ अस्ति स्वधावः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ यज्ञे꣡न वनवद् देव म꣡र्तान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒शः । च॒ । यस्याः॑ । अति॑थिः । भवा॑सि । सः । य॒ज्ञेन॑ । व॒न॒व॒त् । दे॒व॒ । मर्ता॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -137,42 +137,42 @@ genre M
 हे **अग्ने** **त्वत्** त्वत्तोऽन्यः **न** **अस्ति** **होता** **पूर्वः** पूरकः पुराणो वा **यजीयान्** यष्टा वा । **काव्यैः** स्तोत्रैः स्तुत्यः **परः** परस्तात् परस्मिन्नपि काले **न** अस्ति । हे **देव** हे **स्वधावः** अन्नवन् **यस्याः** **विशः** प्रजाया ऋत्विग्रूपायाः **अतिथिः** **भवासि**-अतिथिवत्पूज्यः भवसि । **सः** **यज्ञेन** **मर्तान्** अस्मद्वेष्टॄन **वनवत्** वृश्चति हिनस्ति । यद्वा । मर्तान् परिचारकान् वनवत् संभजेत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “There is no more venerable offerer of oblation, **Agni**, than you, nor (one) prior to you; neither, giver of food, is any one subsequent (tobe more glorified by hymns); the man of whom you are the guest destroys hostile men by sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 No ancient Hotar was a better sacrificer than you, o Agni. There is no  one higher in poetic arts, o you of independent will.  
 One belonging to the clan of which you will become a guest will  
 vanquish mortals through the sacrifice, o god.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 There is no priest more skilled than thou in worship; none Self-sustainer pass thee in wisdom.  
      Ile man within whose house as guest thou dwellest, O God, by sacrifice shall conquer mortals.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 There is no (other) Hotri before thee, a better sacrificer 1; no one surpasses thee, O self-dependent one, by wisdom. And that house of which thou art the guest, he 2, O god, will overcome the mortals by his sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kein Opferpriester vor dir hat besser geopfert, o Agni, keiner steht an Sehergaben höher, du Selbstherrlicher. Und wes Clanes Gast du sein wirst, der wird mit seinem Opfer die anderen Sterblichen überbieten, o Gott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nie war ein bessrer Opfrer als du, Agni; an Weisheit ist dir keiner vor, o Mächt'ger; In wessen Haus, o Gott, als Gast du weilest, der wird durch Opfer alles Volk besiegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни один хотар до тебя не жертвовал лучше, о Агни,  
 Никто не выше (тебя) по (своим) поэтическим силам, о следующий своему обычаю.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ज् जातवेदो भु꣡वनस्य मूर्ध꣡न्न्  
 अ꣡तिष्ठो अग्ने सह꣡ रोचने꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ यज्ञि꣡यो अभवो रोदसिप्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तम् । त्वा॒ । अ॒हे॒म॒ । म॒तिऽभिः॑ । गीः॒ऽभिः । उ॒क्थैः । सः । य॒ज्ञियः॑ । अ॒भ॒वः॒ । रो॒द॒सि॒ऽप्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaj* ← *yat*
 - \[adverb\]
@@ -125,36 +125,36 @@ popular
 हे **जातवेदः** जातप्रज्ञ **अग्ने** **यत्** यस्त्वं **भुवनस्य** त्रैलोक्यस्य **मूर्धन्** मूर्धनि **रोचनेन** आदित्येन **सह** **अतिष्ठः** स्थितवानसि **तं** वैश्वानराग्निं **त्वा** त्वां **मतिभिः** अर्चनीयाभिः **गीर्भिः** स्तुतिभिः **उक्थैः** शस्त्रैश्च **अहेम** प्रपद्यामहे । ' हि गतौ ' इति धातुः । **सः** वैश्वानरस्त्वं **रोदसिप्राः** द्यावापृथिव्योः पूरयिता **यज्ञियः** यज्ञार्हश्व **अभवः** भवसि ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch as you abide, **Agni** **Jātavedas**, on the brow of the universe, together with the sun, we havecome to you with praises, with hymns, with prayers; you are adorable, the satisfier of heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Agni Jātavedas, you stood at the head of the world together  with your light,  
 we spurred you on with thoughts, songs, and recitations. You became  worthy of the sacrifice as the one filling the two world-halves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Because thou, Agni, Jatavedas, stoodest at the world's head with thy refulgent splendour,  
      We sent thee forth with hymns and songs and praises: thou filledst heaven and earth, God meet for worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da du, Jatavedas, an die Spitze der Welt tratest, mit deinem Lichtglanz, o Agni, da haben wir dich mit Gedichten, mit Lobliedern, mit Preisreden angespornt. Du wurdest opferwürdig, die Welt erfüllend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als an des Himmels Haupt du standest, Agni, o Wesenkenner, mit dem Glanz der Welten, Da priesen wir mit Liedern dich und Sprüchen, da warst du opferwerth, die Welt erfüllend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так как ты, Джаведас, встал во главе  
 Вселенной, о Агни, со (своим) блеском,  

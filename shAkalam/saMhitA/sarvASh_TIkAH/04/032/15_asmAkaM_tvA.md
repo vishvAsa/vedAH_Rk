@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कं त्वा मतीना᳐꣡म्  
 आ꣡ स्तो꣡म इन्द्र यछतु  
 अर्वा꣡ग् आ꣡ वर्तया ह꣡री
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अ॒र्वाक् । आ । व॒र्त॒य॒ । हरी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -87,41 +87,41 @@ genre M
 **मतीनां** स्तोतॄणाम् ॥ मन्यतेः कर्तरि क्तिच् ॥ **अस्माकं** संबन्धि **स्तोमः** स्तोत्रं हे **इन्द्र** **त्वा** त्वाम् **आ** **यच्छतु** अस्मासु नियच्छतु । त्वमपि **हरी** त्वदीयावश्वौ **अर्वाक्** अस्मदभिमुखं यथा भवति तथा **आ** **वर्तय** परिवर्तनं कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the praise (of us) who are devoted (to you), **Indra**, give you to us; guide your horses towards us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the praise song of our thoughts guide you here, Indra.  
 Turn your two fallow bays this way.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase matīnā́m … stómaḥ “the praise-song of our thoughts” refers to the actual poetic composition that stems from our thoughts. In RVic discourse every step from ‘mental inspiration’ to ‘thought’ to ‘song/poem’ can be used to refer to the composed or formulated praise for a deity. Here we see the progression expressed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May praise from us who think Qn thee, O Indra, bring thee near to us.  
      Turn thy two Bay Steeds hitherward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unserer Gedichte Lobpreis soll dich, Indra, herziehen. Lenke die Falben herwärts!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dir, o Indra, dringe hin nun unsrer Lieder Lobgesang, Lenk nah herbei dein Füchsepaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хвала наших молитв  
 Пусть привлечет тебя, о Индра!  

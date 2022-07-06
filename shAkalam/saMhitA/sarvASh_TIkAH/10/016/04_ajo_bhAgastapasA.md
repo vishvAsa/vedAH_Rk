@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अजो꣡ भाग꣡स् त꣡पसा तं꣡ तपस्व  
 तं꣡ ते शोचि꣡स् तपतु तं꣡ ते अर्चिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡भिर् वहैनं सुकृ꣡ताम् उलोक꣡म्†
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 याः । ते॒ । शि॒वाः । त॒न्वः॑ । जा॒त॒ऽवे॒दः॒ । ताभिः॑ । व॒ह॒ । ए॒न॒म् । सु॒ऽकृता॑म् । ऊं॒ इति॑ । लो॒कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ajo* ← *ajaḥ* ← *aja*
 - \[noun\], nominative, singular, masculine
@@ -153,7 +153,7 @@ popular
 अजः जननरहितः शरीरेन्द्रियादिभागव्यतिरिक्तः अन्तरपुरुषलक्षणोयोभागोस्ति हे अग्ने ते त्वदीयेन तपसातापनेन तं तादृशं भागं तपस्व तप्तं कुरु तथा ते तव शोचिः शोकहे तुज्वालाविशेषः तं भागं तपतु संस्करोतु । अपिच ते तवार्चिर्भासकः ज्वालाविशेषः तं भागं तपतु संस्करोतु । अपिच ते तवार्चिर्भासकः ज्वालाविशेषः तं भागं तपतु । तपः— शोचिरर्चिःशब्दानां सन्तापतारतम्येनभेदः । जातवेदः ते तव यास्तन्वोमूर्तयः शिवाः सुख हेतवः नतु तापप्रदाः ताभिरेनं तनूभिः प्रेतं सुकृतां शोभनकर्मकारिणां लोकं स्थानं वह प्रापय । उशब्दः पूरणः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -164,29 +164,29 @@ popular
 Theunborn portion: ajo **bhāgaḥ** = the goat is your portion; antarapuruṣa, which has no body, no organs of sense;heat, flame and splendour: **tapas**, śocis and **arcis**: the positive, comparative and superlative radiance of Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The goat is your portion. With your heat, heat it up. Let your flame heat  it up, let your beam.  
 The propitious bodies that are yours, o Jātavedas, with those convey him  to the world of good (ritual) performers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy portion is the goat: with heat consume him: let thy fierce flame, thy glowing splendour, burn him  
      With thine auspicious forms, o Jatavedas, bear this man to the region of the pious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bock ist dein Anteil, den brenne mit deiner Brunst! Den soll deine Glut verbrennen, den deine Flamme! Deine freundlichen Leiber, o Jatavedas, mit denen befördere ihn in die Welt der Frommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Bock gehört dir, den verbrenn mit Gluten, den mög' dein Strahl verzehren, den die Flamme; Doch diesen fahr mit deinen Heilsgestalten, o Wesenkenner, hin zum Ort der Frommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Козел – (твоя) доля. Жаром изжарь его!  
 Пусть изжарит его твое пламя, его твой луч!  

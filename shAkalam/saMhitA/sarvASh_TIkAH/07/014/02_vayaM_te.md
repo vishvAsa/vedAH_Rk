@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ ते अग्ने समि꣡धा विधेम  
 वयं꣡ दाशेम सुष्टुती꣡ यजत्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वयं꣡ देव हवि꣡षा भद्रशोचे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 व॒यम् । घृ॒तेन॑ । अ॒ध्व॒र॒स्य॒ । हो॒तः॒ । व॒यम् । दे॒व॒ । ह॒विषा॑ । भ॒द्र॒ऽशो॒चे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -117,36 +117,36 @@ genre M
 हे **अग्ने** **ते** त्वां **वयं** वसिष्ठाः **समिधा** **विधेम** परिचरेम । हे **यजत्र** यष्टव्याग्ने **वयं** **सुष्टुती** शोभनया स्तुत्या **दाशेम** त्वां परिचरेम । **अध्वरस्य** यज्ञस्य **होतः** अग्ने **वयं** **घृतेन** आज्येन त्वां दाशेम । हे **भद्रशोचे** कल्याणज्वाल **देव** द्योतमानाग्ने त्वां **वयं** **हविषा** दाशेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we perform your rites, **Agni**, with fuel; may we offer you, adorable Agni, pious praises; may we(gratify you), ministrant of the sacrifice, with clarified butter; divine Agni, of auspicious lustre, may we (worshipyou) with oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would honor you with our kindling wood, o Agni; we would offer  service with our good praise, o you worthy of the sacrifice—  
 we with ghee, o Hotar of the rite, and we with our oblation, o god of  noble flame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, may we perform thy rites with fuel, and honour thee, O Holy one, with praises:  
      Honour thee, Priest of sacrifice! with butter, thee, God of blessed light! with our oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen dir, Agni, mit Brennholz dienen, wir wollen mit Loblied aufwarten, du Opferwürdiger, wir mit Schmalz, du Opferpriester des Gottesdienstes, wir mit Opferspende, du Gott von wohltätiger Glut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir huldigen, o Agni, dir mit Brennholz, verehren dich, ehrwürdiger, mit Loblied, Mit Butter dich, o Priester unsres Opfers, mit Opferguss, o Gott, du hell entflammter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим почтить тебя, Агни, дровами,  
 Мы хотим почтить прекрасной хвалой, о достойный жертв,  

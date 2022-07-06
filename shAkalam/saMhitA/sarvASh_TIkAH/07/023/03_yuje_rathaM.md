@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युजे꣡ र꣡थं गवे꣡षणं ह꣡रिभ्याम्  
 उ꣡प ब्र꣡ह्माणि जुजुषाण꣡म् अस्थुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रो वृत्रा꣡णि अप्रती꣡ जघन्वा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । बा॒धि॒ष्ट॒ । स्यः । रोद॑सी॒ इति॑ । म॒हि॒ऽत्वा । इन्द्रः॑ । वृ॒त्राणि॑ । अ॒प्र॒ति । ज॒घ॒न्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuje* ← *yuj*
 - \[verb noun\]
@@ -121,7 +121,7 @@ genre M
 **गवेषणं** गवां प्रापकमिन्द्रस्य **रथं** **हरिभ्याम्** इन्द्रवाहाभ्यां **युजे** स्तोत्रैरहं युनज्मि । **ब्रह्माणि** स्तोत्राणि जुजुषाणं परिवारैः सेव्यमानमिन्द्रम् **उप** **अस्थुः** उपातिष्ठन्त । **स्यः** सोऽयमिन्द्रः **महित्वा** महत्त्वेन **रोदसी** द्यावापृथिव्यौ **वि** **बाधिष्ट** व्यबाधिष्ट च । अपि च **इन्द्रः** **वृत्राणि** शत्रून् अप्रतिद्वन्द्वानि **जघन्वान्** हतवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M
 Vritranyaprati jaghanvān: aprati = dvandvāni, two-fold, doubled
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sacred formulations have approached the one who has enjoyed (them),  (for him) to yoke the cow-seeking chariot with his two fallow bays.  
 This Indra thrust apart the two world-halves with his greatness, after he  smashed the unopposable obstacles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bays, the booty-seeking car I harness: my prayers have reached him who accepts them gladly.  
      Indra, when he had slain resistless foemen, forced with his might the two world-halves asunder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um seinen auf Rinderbeute ausziehenden Wagen mit den Falben zu bespannen, sind ihm die erbaulichen Reden genaht, der sich daran erfreut. Indra drängte beide Welthälften durch seine Größe auseinander, als er die Dämonen erschlagen hatte, denen keiner gewachsen war.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich schirr' an deinen Siegeswagen Rosse, Gebete stiegen auf zu dem Erhörer; An Erd' und Himmel stösset Indra's Grösse, wenn er die Feinde schlägt, die unbesiegten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чтоб запрячь пару буланых коней в (его) колесницу, направляющуюся за коровами,  
 Молитвы приблизились к нему, наслаждающемуся (ими).  

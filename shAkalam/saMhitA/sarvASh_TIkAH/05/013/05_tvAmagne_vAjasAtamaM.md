@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वा꣡म् अग्ने वाजसा꣡तमं  
 वि꣡प्रा वर्धन्ति सु꣡ष्टुतम्  
 स꣡ नो रास्व सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 सः । नः॒ । रा॒स्व॒ । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -92,41 +92,41 @@ genre M
 हे **अग्ने** **विप्राः** मेधाविनः स्तोतारः **वाजसातमम्** । वाजोऽन्नम् । तद्ददतं **सुष्टुतं** पूर्वैः महर्षिभिः सम्यक् स्तुतं **त्वां** **वर्धन्ति** । स्तोत्रैर्वर्धयन्ति । **सः** त्वं **नः** अस्मभ्यं **सुवीर्यं** सर्वैः श्लाघनीयं बलं **रास्व** देहि ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wise worshippers exalt you, **Agni**, the bountiful giver of food, the deservedly lauded; do you bestow upon us excellent strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, best prizewinner, do the inspired poets make strong when  you are well praised.  
 Give us an abundance of heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Singers exalt thee, Agni, well lauded, best giver of our strength:  
      So grant thou us heroic might.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The priests make thee grow, O Agni, the greatest acquirer of wealth, the highly praised one. Bestow thou on us abundance of heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, der am meisten Gewinn einbringt, den Wohlgepriesenen erbauen die Redekundigen. Schenke du uns die Meisterschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich hochgelobten stärkt die Schar der Sänger, dich, der Kraft verleiht, So schenk uns, Agni, Heldenkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, лучше всех захватывающего добычу,  
 Прекрасно восхваленного, подкрепляют вдохновенные.  

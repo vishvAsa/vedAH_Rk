@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ त एमि तनु꣡वा पुर꣡स्ताद्  
 वि꣡श्वे देवा꣡ अभि꣡ मा यन्ति पश्चा꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् इ꣡न् म꣡या कृणवो वीरि꣡याणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒दा । मह्य॑म् । दीध॑रः । भा॒गम् । इ॒न्द्र॒ । आत् । इत् । मया॑ । कृ॒ण॒वः॒ । वी॒र्या॑णि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -140,7 +140,7 @@ popular
 हे **इन्द्र** **ते** तव **पुरस्तात्** अग्रतः **तन्वा** पुत्रेण सह **अयम्** अहम् **एमि**। शत्रूनभिभवितुं गच्छामि । तवाग्रतो गच्छन्तं मां **विश्वे** **देवाः** त्वया सह **पश्चात्** **अभि** **यन्ति** अभिगच्छन्ति । **यदा** त्वं **मह्यं** भार्गवाय नेमाय **भागं** शत्रुषु स्थितं भागं **दीधरः** धारयसि **आदित्** अनन्तरमेव **मया** सह मच्छत्रूञ्जेतुं **वीर्याणि** पौरुषाणि **कृणवः** कुरु । यदि शत्रुषु स्थितं धनं मह्यं दित्ससि तर्हि शत्रुजयार्थं गच्छतः सपुत्रस्य मम साहाय्यं कुर्विति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,13 +151,13 @@ popular
 I here go strength on my side: i.e., if you wish to give me the wealth ofmy enemies, come and help me to overcome them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Vāyu:] “Here I go with my body before you. All the gods advance  toward me from behind.  
 When you will have secured a portion for me, Indra, only after that will  you perform manly deeds along with me.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take dī́dharaḥ as the subjunctive of the redupl. aor., whose indicative forms are generally athematic (dīdhar, etc., though cf. augmented thematic ádīdharat in the very late hymn X.173.3). The sequence yadā́… dī́dharaḥ …, ā́d íd … kṛṇavaḥ with aorist subjunctive in the protasis and present subjunctive in the apodosis seems a rough-and-ready attempt to express anteriority (“when you will [have] …, only after that will you …”) in a language that does not, as far as I can see, have either a formalized system of sequence of tense in conditionals or a standard way to express anteriority with finite verb forms (as opposed to participles and, somewhat later, the gerund).
 
@@ -174,23 +174,23 @@ Oldenberg also considers it an Indra-Vāyu dialogue.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I MOVE before thee here present in person, and all the Deities follow behind me.  
      When, Indra, thou securest me my portion, with me thou shalt perform heroic actions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich hier gehe in eigener Person dir voran, alle Götter folgen mir hinterdrein. Wenn du, Indra, mir einen Anteil bestimmen wirst, dann sollst du mit mir Heldentaten vollbringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Leibhaftig komm' ich zu dir, vorne schreitend und hinter mir, da gehen alle Götter«; Wenn du, o Indra, meinen Theil mir schenkest, dann wirst mit mir du Heldenthaten wirken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Своей особой я иду здесь впереди тебя,  
 Все боги идут позади меня.  

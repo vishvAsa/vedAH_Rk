@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡स्मिन् त्वे꣡ सु꣡ अ꣡पाके यजत्र  
 य꣡क्षद् राजन् सर्व꣡तातेव नु꣡ द्यउः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हव्या꣡ मघा꣡नि मा꣡नुषा य꣡जध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्रि॒ऽस॒धस्थः॑ । त॒त॒रुषः॑ । न । जंहः॑ । ह॒व्या । म॒घानि॑ । मानु॑षा । यज॑ध्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -119,14 +119,14 @@ genre M
 **द्यौः** स्तोता **सर्वतातेव** । इवशब्दः पूरकः । यज्ञनामैतत् । सर्वतातौ सर्वैस्तायमाने यज्ञे । यद्वा । सर्वशब्दात् स्वार्थिकस्तातिप्रत्ययः । सर्वः स्तोता हे **यजत्र** यष्टव्य **राजन्** राजमानाग्ने **अपाके** प्राज्ञे **त्वे** **यस्मिन्** त्वे त्वयि **सु** अत्यन्तं **नु** क्षिप्रम् **आ** **यक्षत्** आयजति हवींषि जुहोति **त्रिषधस्थः** त्रिषु लोकेषु सहं स्थितः । यद्वा । गार्हपत्यादिरूपेण त्रिधावस्थितः । तादृशस्त्वं **ततरुषो** **न** तरिता सूर्य इव **जंहः** शीघ्रं गन्ता भव । जंह इति हन्तेर्गतिकर्मणो रूपम् । यद्वा ।  ‘ तॄ प्लवनतरणयोः ' इत्यस्मात् क्वसौ रूपं ततर्वानिति । तस्य षष्ठ्यां रूपमेतत् ततरुष इति ॥ तरितुः सूर्यस्येव जंहो वेगः तव भवत्वित्यर्थः । किमर्थम् । **मघानि** मंहनीयानि प्रशस्यानि **मानुषा** मनुष्याणां संबन्धीनि **हव्या** हव्यानि हवींषि **यजध्यै** यष्टुं देवेभ्यो दातुम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adorable and resplendent **Agni**, to whom, mature in wisdom, the worshipper offers oblations at every sacred rite, do you, who are present in the three (worlds), move with the speed of the traverser (of the sky, the sun), to convey the valuable oblations of men (to the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You in whom heaven in its entirety [=all the gods] will now perform  sacrifice, as it were—you the very clever, the means of sacrifice,  
 the king—  
@@ -134,7 +134,7 @@ the king—
 traversed (the sky?), are to sacrifice the oblations, the bounties of the  sons of Manu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On svápāka- ‘very clever’, also VI.11.4, see comm. ad IV.3.2. As noted there the Pp. analyses this sequence as sú ápāka-, though Geldner and Renou take it as a cmpd ‘having a lovely backside’. Kümmel (214), however, follows the Pp. analysis (also fld. by Grassmann), and tr. “von Ferne kommend” (as Grassmann does). I do not see how a derivation from ápā(ñ)c- ‘facing/turned backward’ could yield such a sense, esp. in a non-ablatival formation, and, furthermore, Agni, the most present of gods, should not be “coming from afar.” Keydana’s “der du entfernt bist” lacks the ablatival element but still runs afoul of the other problems just noted.
 
@@ -149,23 +149,23 @@ jáṃhas- is found independently only here, but also appears in the bahuvrīhis
 With most, I take yájadhyai again as a predicated inf. “(you are) to sacrifice,” as in vs. 1. Kümmel (214) curiously interprets it as passive (“… sind die Opfergaben … zu opfern”), though, as Keydana (174 n. 171) points out, the nom. triṣadhásthaḥ is then left hanging.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In thee, most wise, shall Dyaus, for full perfection, King! Holy One! pronounce the call to worship.  
      Found in three places, like the Speeder's footstep, come to present men's riches as oblations!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du eine schöne Kehrseite hast, o Verehrungswerter, in dem auch der Himmel gleichsam vollzählig opfert, o König, der drei Stützpunkte hat wie der Fittich des Vogels, der ans Ziel gekommen ist, er soll die Opferspenden, die menschlichen Gaben weihen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dir, verehrter, wenn du ferne scheinest, eilt hin, o Fürst, der Himmel mit den Göttern; Der dreifach wie der Schritt des Weltdurchdringers den Sitz hat, bring' der Menschen Opfergaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, прекрасный (и) со спины, о достойный жертв,  
 В кого, о царь, Небо должно приносить жертвы как бы со всей полнотой,  

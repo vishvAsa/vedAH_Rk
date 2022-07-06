@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् अज्रि꣡या पर्वति꣡या व꣡सूनि  
 दा꣡सा वृत्रा꣡णि आ꣡रिया जिगेथ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुव꣡म् अग्ने पृतनायूँ꣡र् अभि꣡ ष्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 शूरः॑ऽइव । घृ॒ष्णुः । च्यव॑नः । जना॑नाम् । त्वम् । अ॒ग्ने॒ । पृ॒त॒ना॒ऽयून् । अ॒भि । स्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -116,37 +116,37 @@ genre M
 हे **अग्ने** अज्र्या। अजन्ति गच्छन्तीत्यज्रयो जनाः। तेभ्यो हितानि **पर्वत्या** पर्वतभवानि **वसूनि** गवादिलक्षणानि **सं** **जिगेथ** शत्रुभ्यः संजितवानसि । तथा **आर्यां** बलवद्भिः कृतान् **दासा** दासैरसुरैः कृतान **वृत्राणि** उपद्रवान् **सं** **जिगेथ** । तान् हतवानसीत्यर्थः।' जि जये । लिटि रूपम्। **शूरइव** **धृष्णुः** **जनानां** **च्यवनः** **त्वं** पृतनायून् संग्रामकामान् **अभि** **ष्याः** अभिभब । पृतनायूनित्यत्र लोपाभावश्छान्दसः । ‘ अश्वाघस्यात्' इत्यात्वं विधीयमानमस्मादपि व्यत्ययेन भवति ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have gained mountain-treasures beneficial to men, (you have defeated the hostilities) of strongmen, **Dāsas** and **Vṛtras**, like a resolute warrior, do you, **Agni**, the overthrower (of enemies), overcome thosewho are desirous of battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The goods of the plains and the mountains, the Dāsa and the Ārya  obstacles—you have conquered them entirely.  
 A rouser of the peoples like a bold champion—you, o Agni, should  
 dominate those who seek battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All treasures hast thou won, of plains and mountains, and quelled the Dasas' and Aryas' hatred.  
      Like the bold hero Cyavana, O Agni, mayst thou subdue the men who long for battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast die Schätze der Ebene und des Gebirges erbeutet, du hast die dasischen und arischen Feinde besiegt. Kühn wie ein Held, ein Aufrüttler der Völker, mögest du, Agni, die Angreifer überwältigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du nahmst das Gut der Berge und der Fluren, und schlugst die Feinde, Arjer und Barbaren, Als kühner Held, Erschütterer der Menschen, mögst alle Gegner, Agni, du besiegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

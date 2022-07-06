@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡रत् समुद्र꣡म् प꣡वमान ऊर्मि꣡णा  
 रा꣡जा देव꣡ ऋत꣡म् बृह꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 प्र꣡ हिन्वान꣡ ऋत꣡म् बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अर्ष॑त् । मि॒त्रस्य॑ । वरु॑णस्य । धर्म॑णा । प्र । हि॒न्वा॒नः । ऋ॒तम् । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tarat* ← *tṛ*
 - \[verb\], singular, Present injunctive
@@ -109,7 +109,7 @@ genre M
 **पवमानः** पूयमानः **देवः** द्योतमानः **बृहत्** अत्यन्तम् **ऋतं** सत्यभूतो **राजा** सोमः **समुद्रम्** अन्तरिक्षं कलशं वा **ऊर्मिणा** धारया **तरत्** तरति ।”हिन्वानः प्रेर्यमाणः **ऋतं** **बृहत्** अत्यन्तं सत्यभूतः स सोमः **मित्रस्य** **वरुणस्य** मित्रावरुणयोः **धर्मणा** धारणार्थं **प्र** **अर्षत्** प्रगच्छति ॥ ॥१४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,14 +120,14 @@ genre M
 Vas and true: ṛtam **bṛhat** relates to the Soma, atyantam satyabhūtaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purifying himself, he crosses the sea with his wave as king and god— and lofty truth—  
 rushing according to the ordinance of Mitra and Varuṇa, being  
 propelled—the lofty truth,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On Soma identified as “truth” (ṛtám), see IX.97.23, IX.108.8, and Lüders 581-82. Although ṛtáṃ bṛhát could be an acc. goal here, the parallels, esp. the identical pāda in the next hymn, IX.108.8, support a nom. identification. In IX.97.23-24 Soma is also identified as a king (rā́jā 24b) as here and as ‘possessing dhárman’ (dharmā́23c), reminiscent of dhármaṇā here.
 
@@ -143,23 +143,23 @@ Like vss. 1-3, this pragātha has a two-pāda addition (vs. 16), also 12 8. Both
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Pavamana, King and God, speed with his wave over the sea the lofty rite:  
      May he by Mitra's and by Varuna's decree flow furthering the lofty rite.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd durchquert er mit seiner Woge das Meer, der König, der Gott, das hohe Gesetz selbst. Er fließe nach Mitra´s und Varuna´s Bestimmung, wenn er zur Eile getrieben wird, das hohe Gesetz selbst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Meer durchschreite rieselnd mit der Welle er, er, König, Gott und hehres Recht, Hinströmend nach des Mitra-Varuna Gesetz, beschleunigt er das hehre Recht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Павамана пересекает океан (своей) волною,  
 Царь, бог, высокий закон.  

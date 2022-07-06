@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पूर्णो अस्य कल꣡शः सुवा꣡हा  
 से꣡क्तेव को꣡शं सिसिचे पि꣡बध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रदक्षिणि꣡द् अभि꣡ सो꣡मास इ꣡न्द्रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम् । ऊं॒ इति॑ । प्रि॒याः । आ । अ॒व॒वृ॒त्र॒न् । मदा॑य । प्र॒ऽद॒क्षि॒णित् । अ॒भि । सोमा॑सः । इन्द्र॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpūrṇo* ← *āpūrṇaḥ* ← *āp￞* ← *√pṛ*
 - \[verb noun\], nominative, singular
@@ -116,21 +116,21 @@ genre M
 हे इन्द्र **अस्य** तव पानार्थं **कलशः** द्रोणकलशः सोमेन **आपूर्णः** । स्वाहा' स्वाहाकृतो दत्तश्च सोमसहितः कलशः **पिबध्यै** तव पानार्थं **सिसिचे** तं सोमं चोदिताधारे  सिञ्चामि। तत्र दृष्टान्तः । **कोशं** **सेक्तेव** । यथा सेक्ता सेचकः जलपूर्णात् कोशात् दृतेः सकाशात् जलं पात्रान्तरे सिञ्चति तद्वत् । **प्रियाः** स्वादुतमाः **सोमासः** दत्तास्ते सोमाः **इन्द्रं** त्वाम् **अभि** अभिलक्ष्यैव **मदाय** तव हर्षार्थं **प्रदक्षिणित्** प्रादक्षिण्येन **सम्** **आववृत्रन्** सम्यगावृत्य वर्तन्ताम् ॥ आपूर्णः। पॄ पालनपूरणयोः' इत्यस्य कर्मणि निष्ठा । ‘रदाभ्याम्' इति तस्य नत्वम् । ‘गतिरनन्तरः' इति गतिस्वरः । स्वाहा । निपातत्वादाद्युदात्तः । सेक्तेव कोशम्। 'न लोकाव्यय' इति षष्ठीप्रतिषेधः । सिसिचे । ‘षिच क्षरणे' इत्यस्य लिटि रूपम् । पिबध्यै । ‘पा पाने' इत्यस्य तुमर्थे शध्यैन्प्रत्ययः। शित्त्वात् पिबादेशः । नित्त्वादाद्युदात्तः। आववृत्रन्। ‘वृतु वर्तने' इत्यस्य लङि शप् । 'बहुलं छन्दसि' इति तस्य शपः श्लुः । व्यत्ययेन परस्मैपदम् । 'बहुलं छन्दसि ' इति झे रुडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The vase is filled for him (with **Soma**); welcome **Indra**; I pour it out for you to drink, as a water-carrier (pours water) from his bag; may the grateful Soma flow in reverence round Indra for his exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His (soma) tub is filled—hail! As a man pours out a bucket, I have  poured (for him) to drink.  
 And the dear soma drinks have together turned him here with  
 respectful circumambulation, to exhilarate Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The agent noun séktar-, which forms an etymological figure with sisice, presumably refers to a habitual or practiced ‘pourer’. So Tichy (-tar-stems, 159, fld.
 
@@ -139,23 +139,23 @@ by Kümmel 570). I have taken kóśam as the obj. in the simile rather than the 
 The pf. form lacks retroflexion on its root initial, as does one of the other two forms of this pf. in the RV (sisicuḥ II.24.4), as opposed to expected siṣicatuḥ in VIII.33.13. I have no explanation for the lack of retroflexion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Full is his chalice: Glory! Like a pourer I have filled up the vessel for his drinking.  
      Presented on the right, dear Soma juices have brought us Indra, to rejoice him, hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aufgefüllt ist für ihn die Kufe. Wohl bekomm´s! Wie ein Wasser Schöpfender habe ich den Eimer zum Trinken ausgegossen. Die lieben Soma´s sind von der rechten Seite dem Indra genaht, daß er sich daran berausche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sein Becher ist ganz angefüllet – Heil ihm – dem Giesser gleich ergoss das Fass zum Trunk er, Die lieben Tränke wogten hin zu Indra zum Rausch zusammen, rechter Hand, sich wendend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наполнена его чаша – Свага!  
 Словно водолей, я налил ведро для питья.  

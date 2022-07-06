@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पो सु꣡ म्यक्ष वरुण भिय꣡सम्  
 म꣡त् स꣡म्राळ् ऋ꣡तावो꣡ ऽनु मा गृभाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नहि꣡ त्व꣡द् आरे꣡ निमि꣡षश् चने꣡शे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दाम॑ऽइव । व॒त्सात् । वि । मु॒मु॒ग्धि॒ । अंहः॑ । न॒हि । त्वत् । आ॒रे । नि॒ऽमिषः॑ । च॒न । ईशे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apo* ← *apa*
 - \[adverb\]
@@ -142,36 +142,36 @@ genre M
 हेवरुण भियसं भयं मत् मत्तः सुसुष्ठुअपोम्यक्षअपगमय हेमम्नाट् सम्यग्राजमान हेऋतावः सत्य- वन् यज्ञवन्वावरुण मामां अनुगृभाय अनुगृहाण छन्दसिशायजपीतिश्नःशायजोदेशः हृग्रहोर्भइति- भत्वम् अपिच दामेववत्सात् यथादोग्धावत्ससकाशात् बन्धनींरज्जुंविमुञ्चति तथा अंहः पापम्मत्स- काशाद्विमुमुग्धि विमुञ्च छान्दसःशपःश्लुः पृथक्कुरु त्वदारेत्वत्तोदूरदेशेवर्तमानः त्वदन्यइत्यर्थः त्व- त्तोन्यःकश्चित् निमिषश्चन निमेषस्यापि अक्षिपक्ष्मचलनस्यापि नहिईशे नेष्टे त्वमेवईश्वरइत्यर्थः लोपस्तआत्मनेपदेष्वितितलोपः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Keep off all danger from me, **Varuṇa**; supreme monarch, endowed with truth, bestow your favour upon me; cast off (from me) sin, like a tether from a calf; no one rules for the twinkling of an eye, apart from you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Unfasten fear from me, o Varuṇa! Hold me close, o truth-possessing,  universal king!  
 Like a rope from a calf, untie confining straits (from me), for I cannot  be away from you even for the blink of an eye.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far from me, Varuna, remove all danger accept me graciously, thou Holy Sovran.  
      Cast off, like cords that hold a calf, my troubles: I am not even mine eyelid's lord without thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Halte fein die Furcht von mir fern, o Varuna, nimm dich meiner an, du wahrhaftiger Allkönig ! Löse von mir die Angst, wie einen Strick vom Kalbe, denn fern von dir vermag ich auch nicht einen Augenblick zu sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Varuna, das Schreckniss strahl hinweg mir, nimm mein dich an, o heiliger Gebieter; Lös' ab das Unheil wie vom Kalb die Halfter, denn fern von dir entbehr' ich auch des Schlummers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прогони же, о Варуна, страх от меня!  
 Прими меня (к себе), о законный вседержитель!  

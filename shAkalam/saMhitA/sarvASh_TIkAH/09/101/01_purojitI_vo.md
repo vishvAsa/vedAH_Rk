@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरो꣡जिती वो अ꣡न्धसः  
 सुता꣡य मादयित्न꣡वे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡खायो दीर्घजिह्वि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अप॑ । श्वान॑म् । श्न॒थि॒ष्ट॒न॒ । सखा॑यः । दी॒र्घ॒ऽजि॒ह्व्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purojitī* ← *purojiti*
 - \[noun\], instrumental, singular, feminine
@@ -78,7 +78,7 @@ genre M
 हे **सखायः** सखिभूताः समानख्याना वा हे स्तोतारः **वः** यूयं **पुरोजिती**। षष्ठ्याः पूर्वसवर्णदीर्घः । पुरःस्थितजयस्य **अन्धसः** अदनीयस्य सोमस्य स्वभूताय **सुताय** अभिषुताय **मादयित्नवे** अत्यन्तं मदकराय रसाय **दीर्घजिह्वयम्** । दीर्घा जिह्वा यस्य सः। दीर्घजिह्वी च च्छन्दसि' (पा. सू. ४. १. ५९ ) इति ङीषन्तत्वेन निपातितः । तादृशं **श्वानम्** **अप** **श्नथिष्टन** अपश्नथयत अपबाधध्वम् । यथा श्वा राक्षसा वा सुतं सोमं न लिहन्ति तथा कुरुतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,13 +89,13 @@ genre M
 I.e., prevent the dogs or **rākṣasas** from lapping the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your advance victory over the stalk, for the pressed soma to cause  exhilaration,  
 pierce away the dog that has the long tongue, o comrades.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction. the appearance of the sacrifice-defiling dog in this vs. and vs. 13 sketches a ring. The content of the vs. and its reason for inclusion here are puzzling. Our long-tongued dog (acc. śvā́nam … dīrghajihvyàm) is clearly connected with a story widely attested in Vedic prose of an female demon, an Asurī called “Long-tongued” (dīrghajihvī́), who licks (and thus defiles) the sacrifice. The story is found in texts belonging to all three ritual Vedas: RV: AB II.22; YV: MS III.10.6, KS XXIX.1; SV: JB I.161-63, PB XIII.6.9-10, though it is most developed in the JB, where it takes a distinctly and entertainingly sexual turn. The story is treated extensively by Oertel in a number of publs. (see reff. in O’Flaherty, JB, pp.
 
@@ -115,23 +115,23 @@ There is no particular unity visible in this tṛca, and vs. 1 in particular sta
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FOR first possession of your juice, for the exhilarating drink,  
      Drive ye away the dog, my friends, drive ye the long-tongued dog away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf daß euer Trank zuvörderst siege, stoßet für den berauschenden Preßtrank den Hund Langzunge fort, ihr Freunde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch eures Trankes Vorgenuss vertreibet, o Gefährten ihr, Von dem berauschenden Getränk die Hündin, die langzüngige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чтоб ваш сок одержал предстоящую победу,  
 Ради выжатого пьянящего (сомы)  

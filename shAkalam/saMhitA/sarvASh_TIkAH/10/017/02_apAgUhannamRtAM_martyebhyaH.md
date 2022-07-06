@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पागूहन्न् अमृ꣡ताम् म꣡र्तियेभ्यः  
 कृत्वी꣡ स꣡वर्णाम् अददुर् वि꣡वस्वते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡जहाद् उ द्वा꣡ मिथुना꣡ सरण्यूः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒त । अ॒श्विनौ॑ । अ॒भ॒र॒त् । यत् । तत् । आसी॑त् । अज॑हात् । ऊं॒ इति॑ । द्वा । मि॒थु॒ना । स॒र॒ण्यूः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apāgūhann* ← *apāgūhan* ← *apaguh* ← *√guh*
 - \[verb\], plural, Imperfect
@@ -129,7 +129,7 @@ popular
 **अमृतां** मरणधर्मरहितामेतां सरण्यूं **मर्त्येभ्यः** मनुष्येभ्यस्तदुत्पत्यर्थम् **अपागूहन्** अपगूहितवन्तः संवृतवन्तः । देवा उपनीतवन्त इत्यर्थः । किंच **सवर्णा** सरण्यूसदृशीमन्यां स्त्रियं **कृत्वी** कृत्वा तस्मै **विवस्वते** देवाः अददुः प्रायच्छन् । **उत** अपि च साश्वरूपिणी सरण्यूस्तदा **अश्विनावभरत्** । स्वोदरे गर्भभूतौ धारितवती । **यत्** यदा **तत्** जायापतिभ्यामश्वरूपात्मना संभोगकाले रेतः पतितम् **आसीत्** तदाश्विनौ जनयामासेत्यर्थः। तथा **सरण्यूः** सरणवत्येतन्नामिका **द्वा** **मिथुना** द्वौ मिथुनौ यमयम्यौ **अजहात्** त्यक्तवती । जनितवतीत्यर्थः । यद्वा । सरण्यूरेतन्नामिका मध्यमस्थाना देवता मध्यममग्निं माध्यमिकां वाचं चोत्पादितवती ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ popular
 Forthe sake of mortals: maryebhyaḥ = manuṣyebhyas tadutpattyartham, for men, i.e. that men might be born. Manuwas the offspring of Vivasvat and the woman resembling Saraṇyū and all men are descended from **Manu**; thetwo twins: **Yama** and **Yamī**, but dvā mithunā, may mean two pairs of twins, Yama and Yamī, the first pairand the Aśvins the second
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They hid her away, the immortal, from the mortals. Having made a  female of the same appearance, they gave her to Vivasvant.  
 And she was carrying the Aśvins (in the womb), as it happened, and she  left behind the two, the paired ones [=Yama and Yamī?]—Saraṇyū.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From mortal men they hid the Immortal Lady, made one like her and gave her to Vivasvan.  
      Saranyu brought to him the Asvin brothers, and then deserted both twinned pairs of children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie verbargen die Unsterbliche vor den Sterblichen, machten eine Gleichaussehende und gaben sie dem Vivasvat. Auch ging sie mit den beiden Asvin schwanger, als dies geschah, und sie ließ die Zwei, die ein Paar waren, im Stich, die Saranyu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 [Die Götter] verbargen die Unsterbliche vor den Sterblichen; und eine ähnlich aussehende bildend gaben sie dieselbe dem Vivasvat, und als dies geschah trug Saranju die beiden Açvinen als Leibesfrucht und gebar die beiden Zwillinge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они спрятали бессмертную от смертных.  
 Создав (женщину) такого же вида, они дали (ее) Вивасвату.  

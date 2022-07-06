@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रीणा꣡म् उदारो꣡ धरु꣡णो रयीणा꣡म्  
 मनीषा꣡णाम् प्रा꣡र्पणः सो꣡मगोपाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ भाति अ꣡ग्र उष꣡साम् इधानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वसुः॑ । सू॒नुः । सह॑सः । अ॒प्ऽसु । राजा॑ । वि । भा॒ति॒ । अग्रे॑ । उ॒षसा॑म् । इ॒धा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrīṇām* ← *śrī*
 - \[noun\], genitive, plural, feminine
@@ -122,36 +122,36 @@ genre M
 श्रीणामिति । श्रीणां सम्पदां उदारः उद्नमयिता दाता धरुणो रयीणां धारयिता धनानां मनीषाणां बुद्धीनां सदर्थविषयाणां प्रार्पणः प्रापयिता समगोपाः सोमस्य गोपयिता । वसोः । प्रथमार्थे षष्ठी । बह्वृचानां तु तथैव पाठः । वसुः प्रशस्तः सूनुस्सहस्रः । सह इति बलनाम । बलस्य पुत्रः प्राणाद्धि बलाग्मथ्यमानोधिजायत इति । अप्सु राजा अप्सु दीप्यमानः वैद्युतात्मना बडबात्मना वा विभाति उषसामग्रे इधानः अग्निहोत्रिभिरिध्यमानः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Liberal, exciter of splendours, depositary of riches, granter of desires, preserver of the **Soma**, theinhabiter (of the world), the son of strength, (plural ced) in the waters, the king (**Agni**) blazes, kindled at thecommencement of dawn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rouser of beauties, buttress of riches, propeller of inspired thoughts,  with Soma as herdsman,  
 good one, son of strength, king in the waters, he radiates forth, being  kindled at the forefront of the dawns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The spring of glories and support of riches, rouser of thoughts and guardian of the Soma,  
      Good Son of Strength, a King amid the waters, in forefront of the Dawns he shines enkindled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Freigebig mit Auszeichnungen, Träger der Reichtümer, Erwecker der Gedanken, Wächter des Soma, der gute Sohn der Kraft, der König in den Gewässern, erstrahlt er von den Morgenröten entflammt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Glücks Erreger und des Reichthums Gründer, der Lieder Wecker und des Soma's Hüter, Der gute Sohn der Kraft in Wassern herrschend erstrahlt entzündet in der Morgen Anbruch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поощритель наград, основа богатств,  
 Возбудитель мыслей, хранитель сомы,  

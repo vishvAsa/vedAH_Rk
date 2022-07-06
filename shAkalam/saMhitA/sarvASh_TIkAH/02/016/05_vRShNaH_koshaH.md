@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡ष्णः को꣡शः पवते म꣡ध्व ऊर्मि꣡र्  
 वृषभा꣡न्नाय वृषभा꣡य पा꣡तवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वृ꣡षणं सो꣡मं वृषभा꣡य सुष्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृष॑णा । अ॒ध्व॒र्यू इति॑ । वृ॒ष॒भासः॑ । अद्र॑यः । वृष॑णम् । सोम॑म् । वृ॒ष॒भाय॑ । सु॒स्व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
@@ -110,7 +110,7 @@ genre M
 हेइन्द्र वृष्णः फलस्यवर्षितुः मध्वः मदकरस्यसोमस्यकोशोरसः ऊर्मिः अनुष्ठातॄणां पातॄणाञ्चप्रेरकः सन् पवतेगच्छति पवगतौ अनुदात्तेत् किमर्थं वृषभान्नाय बलवर्षकानिअन्नानि यस्यसतथोक्तः तादृ- शायवृषभायकामानंवर्षित्रे इन्द्रायपातवेपानार्थम्पवतइतिसमन्वयः किञ्च वृषणासोमरससेचनसमर्थौ अध्वर्यूअध्वर्युप्रतिप्रस्थातारौवृषभासः वर्षकाअद्रयोभिषवग्रावाणश्चवृषणंस्वर्गादिफ्बलस्यसेक्तारं सोमंवृषभायदेवानांश्रेष्ठायतुभ्यंसुष्वति सुन्वन्ति सुनोतेर्लटिबहुलञ्छन्दसीतिविकरणस्यश्लुः अदभ्य- स्तादितिझेरदादेशः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ genre M
 Soma juice which is **vṛṣan** flows (to) **vṛṣabha**, **Indra**, who is also vṛṣabhānau; the two priests, **adhvaryu** and pratiṣṭhāta are both **vṛṣabhas**;so are the stones used to bruise the Soma; Soma juice is **vṛṣaṇa**; so, the thunderbolt is **vṛṣa**; the car is vṛṣa; the horses, vṛṣṇau; the weapons are vṛṣabhāṇi; Indra and Soma are both designated vṛṣabha; all these forms such vṛṣan, vṛṣaṇa, vṛṣabha are from the radical vṛs. = lit. to rain, and implying raining, shedding, showering, sprinkling; or bestowing freely or liberally, when used, as they most commonly are, in a figurative sense
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The vat of the bull [=soma], the wave of honey, purifies itself for the bull  [=Indra], whose food is the bull, to drink it.  
 The two Adhvaryus are bulls, and the pressing stones are bulls. They  press soma the bull for the bull.424 II.17
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The vessel of the strong flows forth, the flood of meath, unto the Strong who feeds upon the strong, for drink,  
      Strong are the two Adhvaryus, strong are both the stones. They press the Soma that is strong for him the Strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kufe des Bullen klärt sich, die Woge der Süßigkeit zum Trank, für den Bullen, dessen Speise der Bulle Soma ist. Bullen sind die beiden Adhvaryu´s, Bullen die Preßsteine, sie schlagen den Bullen Soma für den Bullen Indra aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Stieres Kufe und des Methes Welle fliesst dem Stier zum Trunk, der Stieres Speise gerne hat; Die Priester Stiere, Stiere sind die Steine auch; sie pressen Soma, ihn den Stier, dem Stiere aus,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищается чаша быка, волна сладкого (сомы)  
 Для питья быка, чья пища – бык (сома).  

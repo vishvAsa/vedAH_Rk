@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं तं꣡ शुम्भ पुरुहन्मन् अ꣡वसे  
 य꣡स्य द्विता꣡ विधर्त꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 महो꣡ दिवे꣡ न꣡ सू꣡रियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 हस्ता॑य । वज्रः॑ । प्रति॑ । धा॒यि॒ । द॒र्श॒तः । म॒हः । दि॒वे । न । सूर्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -114,7 +114,7 @@ genre M
 हे **पुरुहन्मन्** ऋषे त्वं **तम्** **इन्द्रं** **शुम्भ** हविष्प्रदानादिनालंकुरु । किमर्थम् । **अवसे** रक्षणाय । एवमात्मानं संबोध्य ब्रवीति । **यस्य** तव **विधर्तरि** विधारक इन्द्रे **द्विता** द्वित्वमस्त्यौग्य्“मनौग्र्यम् । तव शत्रून् हन्तुमुग्रत्वं त्वदनुग्रहायानौग्र्यं चेति द्वैतमस्ति । तत्रौग्र्यचिह्नं दर्शयति । **हस्ताय** कराय हननाय शत्रूणां **दर्शतः** दर्शनीयः **महः** महान् **वज्रः** **प्रति** **धायि** प्रतिनिहितो भवति **दिवे** प्रकाशाय दिवसाय वा अथवा दिवि दृश्यमानः **सूर्यः** इव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ genre M
 Two-fold might: tosmite your enemies and to favour your friends
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Beautify that Indra, o Puruhanman, for his help, him whose (mace) is  once again in (the hand of) the apportioner:  
 the mace, lovely to see, has been put back into his hand, like the great  sun into heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pādas b and c are difficult. The superficially most natural interpretation is to take the two together, as Geldner does (“in dessen Hand … die gerngesehene Keule gelegt ward…”; so also Oldenberg), but the putative verb in this relative clause, dhāyi in c, is unaccented. If we take this lack of accent seriously, and I think we should, some other solution has to be found for the relative clause in pāda b, a task made all the more challenging by the disputed form vidhartári. This particular form appears twice (also IX.47.4) and formally belongs to the agent noun vidhartár- (voc. sg. 1x, nom. sg. 4x) ‘distributor, apportioner’. The -tári forms are nonetheless generally taken as infinitives. Tichy (1995: 59-61), by contrast, takes them as loc. sg. of a verbal abstract (here “in dessen Hand, wenn es ans Verteilen geht, ein weiteres Mal die sehenswerte Keule gelegt wird” [p. 60]), and others take it as nom. sg. neut. (See disc.
 
@@ -140,23 +140,23 @@ of these various possibilities with earlier lit. in Oldenberg and in Keydana [In
 The datives hástāya and divé instead of the locatives that might be expected are curious.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Honour that Indra, Puruhanman! for his aid, in whose sustaining hand of old,  
      The splendid bolt of thunder was deposited, as the great Sun was set in heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Indra verherrliche, o Puruhanman, zur Gunsterweisung, in dessen Hand, um sie festzuhalten, abermals die gerngesehene Keule gelegt ward wie die große Sonne an den Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra stimme, Puruhanman, dir zum Schutz, in dessen Hand als seine Wehr Der schöne Blitz gelegt ward, wie ans Himmelszelt der hocherhabne Sonnengott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

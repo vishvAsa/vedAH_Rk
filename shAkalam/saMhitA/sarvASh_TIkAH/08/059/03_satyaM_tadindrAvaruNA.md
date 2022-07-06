@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्यं꣡ त꣡द् इन्द्रावरुणा कृश꣡स्य वाम्  
 म꣡ध्व ऊर्मिं꣡ दुहते सप्त꣡ वा꣡णीः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यो꣡ वाम् अ꣡दब्धो अभि꣡ पा꣡ति चि꣡त्तिभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; Vālakhilya
 ताभिः॑ । दा॒श्वांस॑म् । अ॒व॒त॒म् । शु॒भः॒ । प॒ती॒ इति॑ । यः । वा॒म् । अद॑ब्धः । अ॒भि । पाति॑ । चित्ति॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satyaṃ* ← *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
@@ -124,7 +124,7 @@ genre D;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,28 +135,28 @@ Sayana bhashya empty
 RV.9.103.3, 'the **Soma** streams through the sheep's **wool** round the honey-dropping vessel, the seven voices of thesacred bards shout to it'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is really true, Indra and Varuṇa: the seven “voices” of Kr̥śa milk out  a wave of honey for you two.  
 With these, you lords of beauty, help the pious man who, undeceivable,  keeps watch over you with his thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most take yákṣ i yaḥ as a deriv. of √yakṣ ‘appear, display’, yákṣa- ‘apparition’, hence Geldner’s ‘wunderbar’. I am taken instead by Oldenberg’s suggestion (considered also by Renou) that it incorporates the si-impv. yakṣi ‘sacrifice!’ regularly addressed to Agni, and my tr. reflects this. At the very least it is likely to play on √yaj, given its proximity to yájiṣṭha- (1d, 3c) and yajñéṣu (2d).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahr ist das, Indra und Varuna: Die sieben Stimmen des Krisa melken für euch die schmalztriefende Woge des Mets. Ob dieser nehmet euch des Spenders an, ihr Herren der Schönheit, der unbeirrt mit seinen Gedanken euer acht hat!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wahr ist auch, Indra-Varuna des Kriçna Wort: »Die sieben Quellen sprudeln süsse Wellen aus.« Um dieser willen helft dem Frommen, Glanzesherrn! der sorgsam auf euch merkt mit seines Geistes Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Истинно это, о Индра-Варуна: семь голосов  
 Криши доят для вас волну меда.  

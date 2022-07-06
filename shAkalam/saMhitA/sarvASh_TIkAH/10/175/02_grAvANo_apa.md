@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग्रा꣡वाणो अ꣡प दुछु꣡नाम्  
 अ꣡प सेधत दुर्मति꣡म्  
 उस्राः꣡ कर्तन भेषज꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 उ॒स्राः । क॒र्त॒न॒ । भे॒ष॒जम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *grāvāṇo* ← *grāvāṇaḥ* ← *grāvan*
 - \[noun\], vocative, plural, masculine
@@ -82,36 +82,36 @@ popular
 हे **ग्रावाणः** **दुच्छुनां** दुःखकारिणीं शत्रुभूतां प्रजाम् अप **सेधत** अस्मत्तोऽपगमयत । * षिधु गत्याम्'। तथा दुर्मतिं दुष्टाभिसंधिं च **अप** सेधत । **भेषजं** सुखमस्माकं यथा भवति तथा **उस्राः** गाः **कर्तन** कुरुत ॥ करोतेश्छान्दसो विकरणस्य लुक् ।' तप्तनप्तनथनाश्च' इति तनबादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drive away, stones, the malevolent (folk), drive away evil intention, make our cattle a remedy (againstdistress).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O pressing stones, ward off misfortune, off ill-will.  
 Make the ruddy ones [=soma plants] into a remedy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Stones, drive calamity away, drive ye away malevolence:  
      Make ye the Cows our medicine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Steine, haltet Unheil, haltet Übelwollen ab! Machet die Kühe zu einem Heiltrank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Steine, scheucht das Ungemach hinweg und jeden Bösewicht, Und macht die Milch zur Arzenei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, давильные камни, от(вратите) беду,  
 Отвратите недоброжелательность!  

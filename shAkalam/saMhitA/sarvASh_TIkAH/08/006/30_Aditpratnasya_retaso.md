@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् इ꣡त् प्रत्न꣡स्य रे꣡तसो  
 ज्यो꣡तिष् पश्यन्ति वासर꣡म्  
 परो꣡ य꣡द् इध्य꣡ते दिवा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प॒रः । यत् । इ॒ध्यते॑ । दि॒वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **परः** **दिवा** दिवः परस्तात् द्युलोकस्योपरि **यत्** यदा अयमिन्द्रः सूर्यात्मना **इध्यते** दीप्यते **आदित्** अनन्तरमेव **प्रत्नस्य** चिरंतनस्य **रेतसः** गन्तुः ॥ ‘री गतिरेषणयोः'। अस्मात् ‘ स्रुरीभ्यां तुट् च' ( उ. सू. ४. ६४१ ) इत्यसुन् तुडागमश्च ॥ यद्वा । रेत इत्युदकनाम। रेतस्विन उदकवतः । सामर्थ्यात् मत्वर्थो लक्ष्यते । ईदृशस्येन्द्रस्य सूर्यात्मनः **वासरं** निवासकं वासरस्य निवासस्य हेतुभूतं वा **ज्योतिः** द्योतमानं तेजः **पश्यन्ति** सर्वे जनाः । यद्वा । वासरमिति अत्यन्तसंयोगे द्वितीया । कृत्स्नमहरुदयप्रभृत्यास्तमनं यावज्ज्योतिष्पश्यन्तीत्यर्थः । ‘ इसुसोः सामर्थ्ये' इति विसर्जनीयस्य षत्वम् ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,28 +98,28 @@ Daily light: **Indra** is identified with the sun. vāsaram = an epithet of **jy
 Retasaḥ = gantuḥ, the goer; or, udakavataḥ, water-having
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just after that they see the dawning light of the age-old semen, when it is kindled far beyond heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then, verify, they see the light refulgent of primeval seed,  
      Kindled on yonder side of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann sehen sie das morgendliche Licht vom alten Samen, das jenseits des Himmels entflammt wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann erst lässt schauen sich das Licht, das aus dem alten Samen stammt, Das hell und hoch am Himmel brennt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И тут они видят утренний свет  
 Древнего семени,  

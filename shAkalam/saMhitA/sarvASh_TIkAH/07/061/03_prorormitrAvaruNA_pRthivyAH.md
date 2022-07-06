@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ उरो꣡र् मित्रावरुणा पृथिव्याः꣡  
 प्र꣡ दिव꣡ ऋष्वा꣡द् बृहतः꣡ सुदानू  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋ꣡धग् यतो꣡ ऽनिमिषं° र꣡क्षमाणा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्पशः॑ । द॒धा॒थे॒ इति॑ । ओष॑धीषु । वि॒क्षु । ऋध॑क् । य॒तः । अनि॑ऽमिषम् । रक्ष॑माणा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *proror* ← *pra*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 हे **मित्रावरुणा** मित्रावरुणौ युवाम् **उरोः** विस्तीर्णायाः **पृथिव्याः** अपि **प्र** प्ररिरिचाथे ।  ‘ अस्येदेव प्र रिरिचे' (ऋ. सं. १. ६१. ९) इत्यादिषु प्रशब्दस्य रिरिच इत्यनेन सह संबन्धदर्शनादत्राप्युचितक्रियाध्याहारेण रिरिच इति योज्यम् । तथा **ऋष्वात्** गुणैर्महतः **बृहतः** स्वरूपतोऽतिमहतः **दिवः** द्युलोकादपि **प्र** रिरिचाथे हे **सुदानू** शोभनदानौ। किंच **ओषधीषु** **विक्षु** प्रजासु निमित्तभूतासु प्रजासु चेति वा **स्पशः** रूपं **दधाथे** धारयेथे । किं कुर्वन्तौ । **ऋधग्यतः** ऋधक्सत्येन यतो विवेकात् सत्येन गच्छतो जनान् **अनिमिषम्** अव्यवधानेन सर्वदा **रक्षमाणा** पालयन्तौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,35 +122,35 @@ genre M
 You are vaster: pra = prariricāte
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You have reached) past the wide (midspace), past the earth, o Mitra and  Varuṇa, past the high heaven aloft, o you who bring good gifts.  
 You have placed your spies among the plants and among the clans,  
 guarding unwinkingly against him who goes his own way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From the wide earth, O Varuna and Mitra from the great lofty heaven, ye, Bounteous Givers, -  
      Have in the fields and houses set your warder-, who visit every spot and watch unceasing.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 From wide-spread earth, O Varuṇa and Mitra, Ye bounteous gods, and from the lofty heaven. Ye have disposed your wandering spies in dwellings And plants, ye who with watchful eye protect us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr reichet weiter als der weite Raum, als die Erde, weiter als der ragende hohe Himmel, Mitra und Varuna, ihr Gabenschöne. Eure Späher habet ihr in den Pflanzen und Ansiedelungen aufgestellt und ihr passet ohne die Augen zu schließen auf die, welche abseits wandeln.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von weiter Erd' und hocherhabnem Himmel schickt ihr, o Mitra-Varuna, ihr reichen, In Haus und Wald die Späher, die getrennt gehn, die nimmer schlummernd alles ihr behütet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы вы(деляетесь), о Митра-Варуна, над широким (пространством) над землей,  
 Над огромным высоким небом, о прекрасно дарящие.  

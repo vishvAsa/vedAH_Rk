@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दधिक्रा꣡व्णो अकारिषं  
 जिष्णो꣡र् अ꣡श्वस्य वाजि꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्र꣡ ण आ꣡यूंषि तारिषत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424);; repeated line
 सु॒र॒भि । नः॒ । मुखा॑ । क॒र॒त् । प्र । नः॒ । आयूं॑षि । ता॒रि॒ष॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhikrāvṇo* ← *dadhikrāvṇaḥ* ← *dadhikrāvan*
 - \[noun\], genitive, singular, masculine
@@ -102,7 +102,7 @@ popular;; epic anuṣṭubh (424);; repeated line
 **दधिक्राव्णः** देवस्य स्तुतिम् **अकारिषं** करवाणि । **जिष्णोः** जयशीलस्य **अश्वस्य** व्यापकस्य **वाजिनः** वेगवतः । स देवः **नः** अस्माकं **मुखा** मुखानि चक्षुरादीन्द्रियाणि **सुरभि** सुरभीणि **करत्** करोतु । **नः** अस्मभ्यम् **आयूंषि** **प्र** **तारिषत्** प्रवर्धयतु । प्रपूर्वस्तिरतिर्वर्धनार्थः ॥ ॥१.३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,28 +113,28 @@ popular;; epic anuṣṭubh (424);; repeated line
 **Yajus**. 23.32; may he make our mouths fragrant: the mouth having been defiled by the use of inelegant language
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dadhikrāvan have I paid tribute to—the victorious, prizewinning horse. He will make our mouths fragrant; he will lengthen our lifetimes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So have I glorified with praise strong Dadhikravan, conquering Steed.  
      Sweet may he make our mouths; may he prolong the days we have to live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe des siegesgewohnten, gewinnreichen Rosses Dadhikravan gedacht. Er möge unseren Mund duftig machen und unsere Lebenszeiten verlängern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Dadhikravan rühmte ich, das schnelle sieggewohnte Ross, Schönduftend mach er unsern Mund, verlängre unsre Lebenszeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я восхвалил Дадхикравана,  
 Победоносного коня, приносящего награды.  

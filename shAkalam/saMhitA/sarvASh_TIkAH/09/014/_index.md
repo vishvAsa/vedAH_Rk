@@ -8,7 +8,7 @@ title = "+014"
 ‘परि प्र' इत्यष्टर्चं चतुर्दशं सूक्तम् । ऋष्यादि पूर्ववत् । “परि प्राष्टौ' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 14 (726)  
 Soma Pavamāna  

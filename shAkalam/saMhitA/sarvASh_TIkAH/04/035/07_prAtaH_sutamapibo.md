@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रातः꣡ सुत꣡म् अपिबो हरिअश्व  
 मा꣡ध्यंदिनं स꣡वनं के꣡वलं ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡खीँर् याँ꣡ इन्द्र चकृषे꣡ सुकृत्या꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम् । ऋ॒भुऽभिः॑ । पि॒ब॒स्व॒ । र॒त्न॒ऽधेभिः॑ । सखी॑न् । यान् । इ॒न्द्र॒ । च॒कृ॒षे । सु॒ऽकृ॒त्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prātaḥ* ← *prātar*
 - \[adverb\]
@@ -132,36 +132,36 @@ genre M
 हे **हर्यश्व** हरितवर्णाश्वोपेतेन्द्र **प्रातः** प्रातःसवने **सुतम्** अभिषुतं सोमम् **अपिबः** पिबस्व । **माध्यंदिनं** **सवनं** **केवलं** **ते** परं तवैव नान्येषाम् । सवनद्वयस्य पृथगभिधानात्तृतीयसवनं परिशिष्यते । तृतीयसवने **रत्नधेभिः** रमणीयदानैः **ऋभुभिः** **सं** **पिबस्व** । हे **इन्द्र** **यान्** ऋभून् **सुकृत्या** शोभनकर्मणा **सखीन्** **चकृषे** अकरोः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink, lord of horses, **Indra**, the libation offered at dawn; the noon-day libation is alone for you; but (in the evening) drink with the munificent **Ṛbhus**, whom, Indra, you have made your friends by good deeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the early morning you drank the pressed soma, o you with the fallow  bays [=Indra]; the Midday Pressing is yours alone.  
 Drink together with the treasure-conferring R̥bhus, whom you made  your companions by their good work.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of Bay Steeds, at dawn thejuice thou drankest: thine, only thine, is the noonday libation.  
      Now drink thou with the wealth-bestowing Rbhus, whom for their skill thou madest friends, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Am Morgen trankest du Falbenlenker den ausgepreßten Soma, die mittägliche Somaspende gehört dir allein. Trink zusammen mit den Belohnung bringenden Ribhu´s, die du, o Indra, wegen Kunstfertigkeit zu deinen Freunden gemacht hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Früh morgens trankst du Soma, Füchselenker, die Mittagsspende, die war ganz dein eigen, Nun trinke mit den schatzverleihnden Ribhu's, die du durch Wohlthun, Indra, dir verbandest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рано утром ты напился выжатого (сомы), о обладатель буланых коней,  
 Полуденное выжимание – только твое.  

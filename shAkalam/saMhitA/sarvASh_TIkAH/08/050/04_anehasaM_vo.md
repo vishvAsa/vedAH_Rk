@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनेह꣡सं वो ह꣡वमानम् ऊत꣡ये  
 म꣡ध्वः क्षरन्ति धीत꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 उ꣡प स्तोत्रे꣡षु दधिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 आ । त्वा॒ । व॒सो॒ इति॑ । हव॑मानासः । इन्द॑वः । उप॑ । स्तो॒त्रेषु॑ । द॒धि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anehasaṃ* ← *anehasam* ← *anehas*
 - \[noun\], accusative, singular, masculine
@@ -103,37 +103,37 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The prayers which consecrate the **Soma** flow forth to the incomparable one who calls you for hisfavour, the Soma-drops which invoke you, O gracious one, have set you in the midst of the hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your [=poets’] thoughts of honey flow to the faultless (soma), which is  calling for help.  
 The drops, calling on you [=Indra], good one, have been set among the  praisers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two verses differ from each other almost entirely, except that the openings of the first two pādas are identical: anehásam (a), mádhvaḥ (b). Still, reference to 49.4 aids in the interpretation of this verse: in 49.4 the referent of anehásam is clearly soma; here that is less immediately clear, but surely correct.
 
 See Oldenberg for considerable discussion of this verse, though without reaching firm conclusions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dem fehlerlosen Soma, der ihn zu eurem Beistand lädt, strömen die süßen Gedanken. Die Somasäfte, die dich laden, du Guter, werden den Lobliedern beigefügt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebete rinnen zu dem Trank, der zum Genuss dich ruft, dem unvergleichlichen, Die Indutränke die, o guter, rufen dich, sind den Gesängen beigesellt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К несравненному, зовущему (его) для вас на помощь  
 Текут медовые мысли.  

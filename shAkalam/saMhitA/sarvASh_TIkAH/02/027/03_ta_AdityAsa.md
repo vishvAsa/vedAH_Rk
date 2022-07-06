@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡ आदित्या꣡स उर꣡वो गभीरा꣡  
 अ꣡दब्धासो दि꣡प्सन्तो भूरिअक्षाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡र्वं रा꣡जभ्यः परमा꣡ चिद् अ꣡न्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒न्तरिति॑ । प॒श्य॒न्ति॒ । वृ॒जि॒ना । उ॒त । सा॒धु । सर्व॑म् । राज॑ऽभ्यः । प॒र॒मा । चि॒त् । अन्ति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -119,7 +119,7 @@ genre M
 तआदित्यासः अदितेःपुत्राः उरवोमहान्तः गभीराः गाम्भीर्योपेताः अदब्धासः शत्रुभिरहिंसिताः सन्तः दिप्सन्तः शत्रून् दम्भितुं हिंसितुमिच्छन्तः दम्भुदम्भे अस्मादिच्छासनि सनीवन्तर्धेतीडभावपक्षेदं- भइच्चेतीकारः दम्भेर्हल् ग्रहणस्यजातिवाचकत्वात्सिद्धमितिसनःकित्त्वे अनुनासिकलोपः तथाभूर्यक्षाः भूरीणिबहून्यक्षीणिचक्षूंषियेषान्तेतथोक्ताः बहुतेजसोवा बहुव्रीहौसक्थ्यक्ष्णोरितिषच् समासान्तः एवं भूताआदित्याः अन्तः मध्येप्राणिनांहृदिप्रेरकतयावर्तमानाःसन्तः वृजिनावृजिनानिपापानि उत अपिच साधुसाधूनिपुण्यानिच प्राणिनाःकृतानिपश्यन्ति जानन्ति परमाचित् परमाणिदूरदेशावस्थि- तान्यपिसर्वंसर्वाणिदृश्यमानानि राजभ्यः राज्ञामीश्वराणामादित्यानां अन्ति अन्तिकेस्मीपेवर्ततइति शेषः कादिलोपोबहुलमित्यन्तिकशब्दस्य कादिलोपः ॥ ३ ॥ साग्निचित्येक्रतौदीक्षणीयायां आदित्ययागस्यधारयन्तइत्यादिकेद्वेयाज्यानुवाक्ये अतएवभुवद्व द्भुवनपतिविशेषणविशिष्टादित्ययागेपि तथाचदीक्षणीयायामितिखण्डेसूत्रितम्—धारयन्तआदित्या सोजगत्स्थाइतिद्वेएतीवभुवद्वद्भ्योभुवनपतिभ्योवेति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,34 +130,34 @@ genre M
 Many-eyed: bhūryakṣaḥ = liṭ, having many eyes; figuratively, it implies the universal penetration of the rays of light; or, very brilliant, bahutejasaḥ; behold the innermost (thoughts of men): antahpaśyanti, they look within; i.e. prāṇināmor manuṣyānām hṛtsu, into the hearts of living beings, or men
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These broad and deep Ādityas, undeceivable but ready to deceive (the  deceitful), having many eyes,  
 see within the crooked and the straight. Everything is in front of the  kings, even the farthest things.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Gods, Adityas, vast, profound, and faithful, with many eyes, fain to deceive the wicked,  
      Looking within behold the good and evil near to the Kings is even the thing most distant.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 These Ādityas are deep and far-extending, With many eyes, deceived not, but deceiving. They look within, and see the straight and crooked. Nigh to the kings is all, even what is farthest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Aditya´s, in die Weite und Tiefe reichend, selbst unbetört, während sie zu betören suchen, mit vielen Augen durchschauen sie das Böse und Gute im Innern. Alles, auch die fernsten Dinge sind den Königen nahe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Aditi erhabne, weite Söhne vieläugig sie, verletzend, unverletzlich, Die beides, Recht und Unrecht sondernd schauen; nah ist den Herrschern alles, auch das fernste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти Адитьи, широкие, глубокие,  
 Не поддающиеся обману (и) стремящиеся обмануть, с множеством глаз видят кривое и прямое внутри.  

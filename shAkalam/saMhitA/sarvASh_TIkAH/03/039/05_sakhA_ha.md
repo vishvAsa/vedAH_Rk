@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡खा ह य꣡त्र स꣡खिभिर् न꣡वग्वैर्  
 अभिज्ञु꣡ आ꣡ स꣡त्वभिर् गा꣡ अनुग्म꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सू꣡र्यं विवेद त꣡मसि क्षिय꣡न्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 स॒त्यम् । तत् । इन्द्रः॑ । द॒शऽभिः॑ । दश॑ऽग्वैः । सूर्य॑म् । वि॒वे॒द॒ । तम॑सि । क्षि॒यन्त॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 शपो लुकि कृते • गमहन ' इत्यादिना' उपधालोपः । प्रादिसमासः । शतृस्वरः । विवेद । ‘ विद ज्ञाने' इत्यस्मात् लिटि णलि रूपम् । क्षियन्तम् । ‘क्षि निवासगत्योः' इत्यस्य शतरि रूपम् ॥ ॥२५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,36 +134,36 @@ genre M
 The faithful friends: the **aṅgirasas**; ten months' rite: **navagvaḥ** and daśagvaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the comrade with his comrades the Navagvas, the warriors, from  their crouch followed after the cows—  
 this is the real truth—Indra with the ten Daśagvas found the sun, which  was dwelling in darkness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The interweaving of lexicon and morphology continues in this vs. Pāda a contains two forms of the same stem: sákhā … sákhibhiḥ, and the instr. pl. is found four more times in the vs. (adjacent návagvaiḥ, b sátvabhiḥ, c daśábhir dáśagvaiḥ the last pair with their own etymological play). Pāda-final dáśagvaiḥ also parallels návagvaiḥ ending pāda a, and sátvabhiḥ of b is more subtly connected with satyám beginning c.
 
 On abhijñú- see Scarlatta (344-45).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where as a Friend with friendly men, Navagvas, with heroes, on his knees he sought the cattle.  
      There, verily with ten Dasagvas Indra found the Sun lying hidden in the darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Während der Freund mit den Freunden, den Navagva´s, als seinen Streitern, in die Kniee sich legend den Rindern nachging, fand Indra - das ist wahr - mit den zehn Dasgva´s die Sonne, die im Dunkel weilte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo dort als Freund er mit den neun Genossen, den tapfern kniend nach den Kühen suchte, Mit den zehn Zehnern fand da Indra wahrlich die Sonne auf, die in dem Dunkel ruhte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А когда друг с друзьями Навагва,  
 С воинами, выбрасывая вперед колени, устремились в поисках коров,  

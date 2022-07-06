@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ये꣡ र꣡जांसि त꣡विषीभिर् अ꣡व्यत  
 प्र꣡ व ए꣡वासः स्व꣡यतासो अध्रजन्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 चित्रो꣡ वो या꣡मः प्र꣡यतासु ऋष्टि꣡षु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 भय॑न्ते । विश्वा॑ । भुव॑नानि । ह॒र्म्या । चि॒त्रः । वः॒ । यामः॑ । प्रऽय॑तासु । ऋ॒ष्टिषु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -126,36 +126,36 @@ genre M
 हे मरुतः युष्मत्संबन्धिनः **ये** **एवासः** एवाः अश्वविशेषाः **तविषीभिः** स्वकीयैर्बलैर्वृष्टिप्रदानादिरूपैः **रजांसि** लोकान् **आ** **अव्यत** सर्वत आवृण्वन्ति ते **वः** युष्माकम् एवासः अश्वाः **स्वयतासः** स्वयमेव सारथिना विनैव युक्ताः **प्र** **अध्रजन्** प्रकर्षेण गच्छन्ति व्याप्नुवन्ति । किंच युष्मदागमनात् **विश्वा** **भुवनानि** सर्वाणि भूतजातानि विश्वा **हर्म्या** सर्वाणि हर्म्याणि च **भयन्ते** बिभ्यति पतनात् । यस्मादेवं तस्मात् **वो** **याम:** **चित्रः** चायनीयः । आश्चर्यभूत इत्यर्थः । भीतेः कारणमाह । **ऋष्टिषु** युद्धस्थासु हेतिषु **प्रयतासु** प्रकर्षेणोद्यतासु सतीषु । अथवा भीतौ दृष्टान्तः । ऋष्टिषु प्रयतासु सतीषु । लुप्तोपमेयम् । आयुधेषूद्यतेषु यथा जना बिभ्यति तद्वद्युष्मदागमनात् बिभ्यतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those, your coursers, which traverse the regions in their speed, proceed, self-guided; all worlds, all dwellings, are alarmed, for marvellous is your coming; (such fear as is felt) when spears are thrust forth (in battle).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of you who with your powers enveloped the realms—your spontaneous  dashes swooped forth.  
 All creatures and habitations take fright. Brilliant is your course when  your spears have been extended.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye who with mighty powers have stirred the regions up, your coursers have sped forth directed by themselves.  
      All creatures of the earth, all dwellings are afraid, for brilliant is your coming with your spears advanced.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure selbstgelenkten Anläufe stürmten vorwärts, die ihr die Räume mit euren Kräften durchdrungen habt. Es beben alle Geschöpfe, die festen Häuser. Wunderbar ist eure Auffahrt bei vorgehaltenen Speeren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ihr die Luft durchdrungen habt mit eurer Kraft, schnell stürmten eure selbstgelenkten Rosse vor, Es fürchten alle Wesen, alle Stämme sich, eur Zug erglänzt, wenn ihr die Speere vor euch streckt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, что окутали пространства (своими) силами,  
 Быстрые, правящие сами собой, бросились вперед.  

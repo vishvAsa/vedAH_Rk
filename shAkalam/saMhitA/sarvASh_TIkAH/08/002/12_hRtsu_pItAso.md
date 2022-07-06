@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हृत्सु꣡ पीता꣡सो युध्यन्ते  
 दुर्म꣡दासो न꣡ सु꣡रायाम्  
 ऊ꣡धर् न꣡ नग्ना꣡ जरन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 ऊधः॑ । न । न॒ग्नाः । ज॒र॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hṛtsu* ← *hṛd*
 - \[noun\], locative, plural
@@ -79,7 +79,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे इन्द्र **पीतासः** त्वया पीताः सोमाः **हृत्सु** हृदयेषु त्वदीयेषु **युध्यन्ते** । परस्परं संप्रहारं कुर्वते । तत्र दृष्टान्तः । **सुरायां** पीतायां जायमानाः **दुर्मदासो** **न** । दुष्टमदा यथा पातारं मादयन्ति तद्वत्त्वां मादयितुं परस्परं युध्यन्त इत्यर्थः। अपि च । ग्नाश्छन्दांसि । तानि न जहतीति **नग्नाः** स्तोतारः । ते च **ऊधर्न** पयसा पूर्णं गवादेरूध इव सोमपूर्णं त्वां **जरन्ते** स्तुवन्ति । जरतिः स्तुतिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,36 +92,36 @@ Like the inebriatioṅdurmadāso na surāyām, like bad intoxications, wine, bei
 **Nagna** = naked; stotā, a praiser, one who does not neglect orabandon the verses of the **Veda**, **chandāṃsi** na jahati
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When they have been drunk, they fight each other within the heart, like  those badly intoxicated on liquor.  
 Like the naked in the cold they stay awake.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A peculiar ending to a celebration of soma, presumably describing some of the potential side-effects of (over-)indulgence in soma.
 
 With Geldner (implicitly) I take ū́dhar as belonging not to ‘udder’, but to a homonymous stem ‘cold’, with Avestan cognate (OA, YA aodar-). See EWA s.v. ū́dhan-. The same ‘cold’ sense is found also in V.34.3 and as a pun in X.61.9. But compare Oldenberg, who finds a complex way to rescue ‘udder’, though not one sufficently plausible to me, anyway. See also disc. ad IX.107.20.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Quaffed juices fight within the breast. The drunken praise not by their wine,  
      The naked praise not when it rains.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Herzen getrunken kämpfen die Somatränke wie die in Branntwein bezechten Leute; wie Nackte in der Kälte bleiben sie wach.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die hineingetrunknen kämpfen, wie berauscht vom Suratranke, Nahn der Brust wie nackte Kinder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выпитые, они буянят в сердце,  
 Словно пьяницы в винном угаре.  

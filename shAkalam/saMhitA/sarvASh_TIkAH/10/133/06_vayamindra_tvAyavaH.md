@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वय꣡म् इन्द्र तुवाय꣡वः  
 सखित्व꣡म् आ꣡ रभामहे  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 जियाका꣡ अ꣡धि ध꣡न्वसु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 ऋ॒तस्य॑ । नः॒ । प॒था । न॒य॒ । अति॑ । विश्वा॑नि । दुः॒ऽइ॒ता । नभ॑न्ताम् । अ॒न्य॒केषा॑म् । ज्या॒काः । अधि॑ । धन्व॑ऽसु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -119,37 +119,37 @@ genre M;; repeated line
 हे **इन्द्र** **त्वायवः** त्वामात्मन इच्छन्तः **वयं** **सखित्वं** सखिकर्म यज्ञात्मकम्, **आ** **रभामहे** उपक्रमामहे। **ऋतस्य** सत्यस्य यज्ञस्य **पथा** मार्गेण । भस्य टेर्लोपः । उदात्तनिवृत्तिस्वरेण तृतीयाया उदात्तत्वम् । **विश्वानि** सर्वाणि **दुरिता** दुरितानि दुर्गमनानि पापानि तत्फलानि च **नः** अस्मान **अति** नय अतिपारय । गतमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Devoted to you, **Indra**, we strive after your friendship; lea\\d us by the path of sacrifice beyond all evils;may the bowstrings on the bows of our enemies be destroyed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We, seeking you, seize hold of your companionship, Indra.  
 Lead us along the path of truth, across all difficult passages.  
 – Let the little bowstrings of the other squirts burst on their bows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Close to thy friendship do we cling, O Indra, and depend, or, thee.  
      Lead us beyond all pain and grief along the path of holy Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als deine Anhänger. O Indra, klammern wir uns an deine Freundschaft. Führ uns auf rechtem Wege über alle Fährlichkeiten hinweg! - Die Sehnchen der anderen Schwächlinge sollen an dem Bogen entzwei gehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir, Indra, sind dir treu gesinnt, an deiner Freundschaft halten wir; Führ du uns auf des Rechtes Pfad durch alles Leid und Ungemach; Zerreissen soll den anderen die Sehne, die den Bogen spannt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Преданные тебе, Индра,  
 Мы цепляемся за дружбу (с тобой).  

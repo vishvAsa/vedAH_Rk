@@ -18,7 +18,7 @@ title = "+033"
 तत्रात्रेः पञ्चमे मण्डले तृतीयेऽनुवाके द्वादश सूक्तानि । तत्र ‘महि महे ' इति दशर्चं प्रथमं सूक्तम् । प्रजापतिपुत्रः संवरणाख्यः ऋषिः । त्रिष्टुप् छन्दः । इन्द्रो देवता । तथा चानुक्रान्तं-- ’ महि दश प्राजापत्यः संवरणः' । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 33 (387)  
 Indra  
@@ -27,7 +27,7 @@ Saṃvaraṇa Prājāpatya
 The structure of this hymn is relatively straightforward. It begins (vs. 1) with  the poet’s praise of Indra, presented as an inducement to the god to come to his  sacrifice, followed (vss. 2–3) by the usual tropes of a “journey” hymn, includ ing the yoking of Indra’s horses. The poet recognizes that there are competing  sacrifices (vs. 4a), but continues to urge Indra to choose to come to his (vs. 5).  There follow two verses (6–7) asking for gifts from Indra. The hymn ends with  a three-verse dānastuti (8–10), praising the gift of horses from a number of dif ferent patrons.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra Although the general outline of this hymn is pretty straightforward, it is full of interpretational problems and grammatical and syntactic obscurities, and the meter is very messy.
 

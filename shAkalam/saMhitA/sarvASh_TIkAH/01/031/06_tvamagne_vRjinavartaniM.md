@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने वृजिन꣡वर्तनिं न꣡रं  
 स꣡क्मन् पिपर्षि विद꣡थे विचर्षणे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दभ्रे꣡भिश् चित् स꣡मृता हं꣡सि भू꣡यसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । शूर॑ऽसाता । परि॑ऽतक्म्ये । धने॑ । द॒भ्रेभिः॑ । चि॒त् । सम्ऽऋ॑ता । हंसि॑ । भूय॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -116,14 +116,14 @@ genre M
 हे **विचर्षणे** विशिष्टज्ञानयुक्त **अग्ने** **त्वं** **वृजिनवर्तनिं** विप्लुतमार्गं सदाचाररहितं नरं पुरुषं **सक्मन्** सचनीये समवेतुं योग्ये **विदथे** कर्मणि **पिपर्षि** पालयसि पूरयसि वा । सत्कर्मानुष्ठानयुक्तं करोषीत्यर्थः। **यः** त्वं **परितक्म्ये** परितो गन्तव्ये **धने** धनवत् शूराणां प्रियतमे **शूरसाता** शूरैः संभजनीये युद्धे **दभ्रेभिश्चित्** अल्पैरपि शौर्यरहितैः पुरुषैः। ‘दभ्रमर्भकमित्यल्पस्य' (निरु. ३.२०) इति यास्कः । **समृता** सम्यक् योद्धुं प्राप्ते सति तदनुग्रहार्थं **भूयसः** प्रौढान् प्रतिपक्षिणः शत्रून् **हंसि** मारयसि । ईदृशस्तव महिमेत्यर्थः ॥ वृजिनवर्तनिम्। वृजिना वर्तनिर्यस्येति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । सक्मन् । ‘षच समवाये'। अन्येभ्योऽपि दृश्यन्ते' इति मनिन् । 'नेड्वशि कृति' इति इट्प्रतिषेधः। न्यङ्क्वादित्वात् (पा. सू. ७. ३. ५३) कुत्वम् । ‘सुपां सुलुक्' इति सप्तम्या लुक् । पिपर्षि। ‘पॄ पालनपूरणयोः । सिपि श्लौ द्विर्भावस्वोरदत्वहलादिशेषाः। ‘अर्तिपिपर्त्योश्च' इति अभ्यासस्य इत्वम् । शूरसाता । ‘शु गतौ'। 'शुषिचिमीनां दीर्घश्च' (उ. सू. २. १८३) इति शूरशब्दो रन्प्रत्ययान्त आद्युदात्तः । वन षण संभक्तौ ' इत्यस्मात् क्तिनन्तः सातिशब्दः । ‘जनसनखनां सञ्झलोः' इति आत्वम् । शूराणां सातिः संभजनमत्रेति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । ‘सुपां सुलुक्' इति सप्तम्या डादेशः । परितक्म्ये । ‘तक हसने ' । अस्मात् औणादिको भावे मक् । तर्ह्आतीति ‘छन्दसि च ' ( पा. सू. ५. १. ६७ ) इति यः । ‘प्रादयो गताद्यर्थे प्रथमया' (पा. म. २. २. १८. ४ ) इति समासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् । दभ्रेभिः । ‘दभु दम्भे'। ‘स्फायितञ्चि°' इत्यादिना रक् । ‘बहुलं छन्दसि' इति भिस ऐसादेशाभावः । समृता । गतिरनन्तरः ' इति गतेः प्रकृतिस्वरत्वम् । पूर्ववत् आकारः । हंसि । हन्तेः सिपि ‘नश्चापदान्तस्य झलि' (पा. सू. ८. ३. २४ ) इति अनुस्वारः। यद्वृत्तयोगादनिघातः । भूयसः । ‘बहोर्लोपो भू च बहोः ' (पा. सू. ६. ४. १५८) इति बहुशब्दात् उत्तरस्य ईयसुनः ईकोरलोपो बहोः भूभावश्च । नित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, excellently wise, you direct the man who follows improper paths, to acts that are fitted to reclaim him; you who, in the strife of heroes, (grateful to them) as widely- scattered wealth, destryed in the combat the mighty by the feeble.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, in fellowship at the ceremony safely bring the man  
 on the twisting turns (of the ritual “racecourse”) to the end, o  
@@ -131,7 +131,7 @@ unbounded one,
 you who—at the contest of champions, at the crucial turn, when the  stake (is set)—even with just a few you smash the greater in the clash.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 sákman is a hapax, rendered by Geldner as “in der Freundschaft” but by Renou as “en détresse” (followed explicitly by Witzel Gotō “aus der Not”). The former interpretation is surely the correct one, taking it as a derivative of the very common root √sac ‘accompany’ and directly cognate with Aves (O+Y) haxman- ‘association, community’. (So EWA s.v.) Renou suggests a derivation rather from √sac2 ‘dry up’, but the semantics of the derivation are not straightforward, and such a connection requires both the apparent Avestan cognate and RVic hapax sákmya- ‘comradeship’ to be decoupled from sákman-. It is hard to see the motivation for this proposal. It must have been that the context seemed not to be one of comradeship, but in fact there is no problem with that meaning in context: Agni demonstrates his comradeship with the man at issue by giving him aid.
 
@@ -144,28 +144,28 @@ The image of the sacrifice as a race-course in ab then transitions to the image 
 The last pāda thus turns the contest image into an actual battle; the line between contest and battle is a thin and permeable one in the RV.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, thou savest in the synod when pursued e'en him, farseeing One! who walks in evil ways.  
      Thou, when the heroes fight for spoil which men rush, round, slayest in war the many by the hands of few.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, leadest forward the man who follows crooked ways 1, in thy company at the sacrifice 2, O god dwelling among all tribes, who in the strife of heroes, in the decisive moment for the obtainment of the prize 3, even with few companions killest many foes in the battle 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Agni, hilfst dem in der Freundschaft, im Opfer auf krumme Wege geratenen Mann heraus, du ausgezeichneter, der du im Kampfe um den Tapferen, um den umstrittenen Siegerpreis, in der Schlacht selbst mit Wenigen die Überzahl schlägst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Mann auch, Agni, der auf bösem Wege wallt, geleitest gnädig, weiser, du zum Opferfest, Der du im Streit der Helden, im Entscheidungskampf, mit wen'gen auch im Treffen schlägst die Ueberzahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, спасаешь мужа, следующего кривыми путями  
 В общении (с другими) в жертвенном собрании, о (ты,) очень подвижный,  

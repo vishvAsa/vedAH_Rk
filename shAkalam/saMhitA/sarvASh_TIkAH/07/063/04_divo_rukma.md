@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ रुक्म꣡ उरुच꣡क्षा उ꣡द् एति  
 दूरे꣡अर्थस् तर꣡णिर् भ्रा꣡जमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡यन्न् अ꣡र्थानि कृण꣡वन्न् अ꣡पांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नू॒नम् । जनाः॑ । सूर्ये॑ण । प्रऽसू॑ताः । अय॑न् । अर्था॑नि । कृ॒णव॑न् । अपां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -120,37 +120,37 @@ genre M
 अयं सूर्यः **रुक्मः** रोचमानः **उरुचक्षाः** प्रभूततेजाश्च सन् **दिवः** अन्तरिक्षात् **उदेति** । यद्वा दिवोऽन्तरिक्षस्य रुक्म आभरणस्थानीयः । कीदृशोऽयम्। 'दूरेअर्थः दूरे गन्ता। अर्थोऽर्तेः । दूरे प्रार्थ्यमानो वा । **तरणिः** तारकः **भ्राजमानः** दीप्यमानः सन्नुदेति । **नूनं** निश्चयं **जनाः** सर्वे प्राणिनः **सूर्येण** प्रेरकेण देवेन **प्रसूताः** अनुज्ञाताः प्रेरिताः सन्तः **अर्थानि** गन्तव्यानि अनुष्ठेयानि **अपांसि** कर्माणि 'कृणवन् कुर्वन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The bright and glorious sun rises from the firmament far-going, traversing (the heavens), diffusing light;verily all beings animated by **Sūrya** proceed and execute their assigned labours.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bright ornament of heaven, having a broad gaze, rises upward— he whose goal is in the far distance, gleaming as he crosses over  
 (toward it).  
 Now the peoples, impelled forth by the Sun, will go toward their goals,  and they will perform their tasks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Golden, far-seeing, from the heaven he riseth: far is his goal, he hasteth on resplendent.  
      Men, verily, inspirited by Surya speed to their aims and do the work assigned them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Himmels Goldschmuck, der weitschauende geht auf, mit dem fernen Reiseziel, durchhaltend, strahlend. Nun sollen die Leute von Surya angetrieben an ihre Geschäfte gehen, ihre Arbeiten verrichten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weitschauend steigt empor des Himmels Goldschmuck, nach weitem Ziele dringend, hell erstrahlend, Durch ihn ermuntert mögen nun die Menschen ihr Ziel verfolgen, ihre Werke wirken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Золотое украшение неба, далеко глядящий (бог) восходит,  
 (Тот,) чья цель далеко, пересекающий (мир), сверкающий.  

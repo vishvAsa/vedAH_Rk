@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अग्रु꣡वः केशि꣡नीः सं꣡ हि꣡ रेभिर꣡  
 ऊर्ध्वा꣡स् तस्थुर् मम्रु꣡षीः प्रा꣡य꣡वे पु꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡सुम् प꣡रं जन꣡यञ् जीव꣡म् अ꣡स्तृतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तासा॑म् । ज॒राम् । प्र॑ऽमु॒ञ्चन् । ए॒ति॒ । नान॑दत् । असु॑म् । पर॑म् । ज॒नय॑न् । जी॒वम् । अस्तृ॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -137,7 +137,7 @@ genre M
 ङीपि रूपम् ॥ **आयवे** आगच्छतेऽग्नये भर्त्रे **पुनः** स्वोपद्रवमजानत्यः **ऊर्ध्वाः** **प्र** **तस्थुः** ऊर्ध्वमुखा उन्नताः प्रतस्थिरे मृतप्राया अपि प्रत्युत्थानं कृतवत्य इत्यर्थः । एवं कृतवतीषु सतीषु स भर्ताग्निः **तासां** ज्वालानां **जरां** वयोहानिं **प्रमुञ्चन्** प्रकर्षेण मोचयन् **नानदत्** जरापरिहाराय मन्त्रयन्निव अत्यर्थं शब्दयन् । न केवलं जराहानिरेव अपि तु **परं** निरतिशयम् **असुं** प्राणम् **अस्तृतं** काष्ठोदकादिप्रक्षेपेणाप्यहिंसितं **जीवं** प्राणधारणसामर्थ्यं **जनयन्** उत्पादयन् एति गच्छति । तासां ज्वालाना संनिधिं प्राप्नोति । यथा लोके काश्चन रमण्यो रमणेन सह निर्भरं क्रीडित्वा पश्चात् प्रोषिते तस्मिन् विरहेण जीर्णा म्रियमाणाः पश्चात् तस्मिन्नागते सति स्वदौर्बल्यमगणयित्वा संतोषेण परिष्वङ्गाय चेष्टन्ते । स भर्ता मन्त्रोच्चारणेन जराम् अपनीय उचितप्रदानेन प्राणयन् रक्षति इत्ययं भावोऽत्रानुसंधेयः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,14 +150,14 @@ The curving tresses: agruva **keśinīḥ**;
 Agruvaḥ = fingers, as an attributive, implies either those that are in front, agrataḥ **sthitaḥ**, or crooked or curved like fingers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the long-haired spinsters embrace him; despite having died, they  stand erect (to go) forth once again for Āyu [=Agni?].  
 Removing their old age, he goes constantly roaring, generating a  
 further living life-force (for them?), which cannot be laid low.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again there is a difference of opinion as to referent. With Oldenberg (SBE) I take the plants once again as the subjects of pāda a (so, partly, Witzel Gotō), contra Sāyaṇa, Geldner, Renou, Kümmel (419), who interpret them as flames.
 
@@ -174,28 +174,28 @@ This proposed split reference seems to me to break the thematic unity of the ver
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The maidens with long, tresses hold him in embrace; dead, they rise up again to meet the Living One.  
      Releasing them from age with a loud roar he comes, filling them with new spirit, living, unsubdued.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The long-haired virgins 1 have embraced him. Having died they stand upright again for him (Agni) the living one (or, for him the Âyu). Delivering them of old age he proceeds roaring, procreating another vital spirit, an indestructible life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihn halten die langhaarigen Unvermählten umfasst; schon gestorben haben sie sich für den Langlebigen wieder aufgerichtet. Das Alter von ihnen nehmend kommt er brüllend, höheren Geist, unverwüstliches Leben erzeugend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Jungfraun, die langhaar'gen, halten ihn umfasst, die todten sind erstanden neu dem lebenden, Ihr Alter lösend geht er brausend, zeugend nun lebend'gen Odem, bessern, unbezwinglichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Косматые девы обняли его.  
 Умерев, они поднялись снова, (чтобы продвигаться) вперед для Аю.  

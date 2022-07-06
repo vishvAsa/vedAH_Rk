@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि पूर्वी꣡र् अ꣡ति चर्षणी꣡र् आँ꣡  
 अर्य꣡ आशि꣡ष उ꣡प नो ह꣡रिभ्याम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र ह꣡वन्ते सखियं꣡ जुषाणाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒माः । हि । त्वा॒ । म॒तयः॑ । स्तोम॑ऽतष्टाः । इन्द्र॑ । हव॑न्ते । स॒ख्यम् । जु॒षा॒णाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,37 +129,37 @@ genre M
 हे **इन्द्र** **पूर्वीः** सर्वाः **चर्षणीः** प्रजाः **अति** **आ** **याहि** अतिक्रम्यागच्छ । द्वितीय आङ् पूरणः। **अर्यः** अस्माकं स्वामी त्वं **नः** **आशिषः** त्वमत्रागत्य सोमं पिबेत्येवमादिका अस्माकं प्रार्थनाः **हरिभ्याम्** अश्वाभ्यां युक्तः सन् **उप** आगच्छ । किंच ते तव **सख्यं** **जुषाणाः** सेवमानाः **स्तोमतष्टाः** स्तोमकारिभिः स्तोतृभिः कृताः **इमाः** **मतयः** स्तुतयः **हवन्ते** सोमपानार्थं **त्वा** त्वामाह्वयन्ति । **हि** प्रसिद्धौ । करणे कर्तृव्यापारः । काष्ठानि पचन्तीतिवत्॥ आ । संहितायाम् आङोऽनुनासिकश्छन्दसि' इत्यनुनासिकः । अर्यः। ‘ऋ गतौ ।' अर्यः स्वामिवैश्ययोः' इति निपातनात् यत्प्रत्ययः । ‘ यतोऽनावः' इत्याद्युदात्तत्वे प्राप्ते अर्यस्य स्वाम्याख्या चेत् ' ( फि. सू. १७ ) इत्यन्तोदात्तत्वम् । आशिषः । क्विपि ' शास इदङ्हलोः' इत्युपधाया इत्वम् । ‘ शासिवसिघसीनां च ' इति षत्वम् । स्तोमतष्टाः। ‘तक्षू त्वक्षू तनूकरणे' इत्यस्मात् कर्मणि क्तः । तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Passing by multitudes, come hither, noble **Indra**, with your steeds, (to receive) our benedictions; for these praises, Indra, composed by the devout, invoke you propitiating your friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here—drive across the many settled domains—here, across the prayers  of the stranger, right up to us, with your two fallow bays,  
 for these thoughts, crafted as praise, are calling you, Indra, taking  
 pleasure in your fellowship.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come our true Friend, passing by many people; come with thy two Bay Steeds to our devotions;  
      For these our hymns are calling thee, O Indra, hymns formed for praise, soliciting thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm her an vielen Völkern vorbei, zu uns an den Bitten des anderen hohen Herrn vorbei mit den Falben! Denn diese zum Lobgedicht geformten Gedanken rufen dich, Indra, da sie deine Gesellschaft gern haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her zu uns an vielem Volk vorüber zu unsern regen Bitten mit den Füchsen; Denn diese Lieder rufen dich, o Indra, zum Lob gedichtet, deine Freundschaft suchend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай, (минуя) многие народы,  
 (И) просьбы врага, к нам на двух буланых конях!  

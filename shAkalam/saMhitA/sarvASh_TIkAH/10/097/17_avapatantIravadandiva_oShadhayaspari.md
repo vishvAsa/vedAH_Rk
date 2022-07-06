@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवप꣡तन्तीर् अवदन्  
 दिव꣡ ओ꣡षधयस् प꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 न꣡ स꣡ रिष्याति पू꣡रुषः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 यम् । जी॒वम् । अ॒श्नवा॑महै । न । सः । रि॒ष्या॒ति॒ । पुरु॑षः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avapatantīr* ← *avapatantīḥ* ← *avapat* ← *√pat*
 - \[verb noun\], nominative, plural
@@ -91,36 +91,36 @@ popular;; epic anuṣṭubh (292)
 **दिवः** द्युलोकात **अवपतन्तीः** अवपतन्त्यः **ओषधयः** इत्थं **परि** **अवदन्** । किमिति उच्यते । **यं** **जीवं** जीवन्तम् **अश्नवामहै** व्याप्नुमः **न** **सः** **पूरुषः** पुरुषः **रिष्याति** रिष्यति विनश्यति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The plural nts, falling from heaven, said, "The man, whom living we pervade, will not perish".”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Flying down from heaven, the plants spoke:  
 “The man whom we will reach (while he is still) alive, that man will not  suffer harm.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time, descending from the sky, the Plants flew earthward, thus they spake:  
      No evil shall befall the man whom while he liveth we pervade,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vom Himmel herabfliegend sprachen die Kräuter: Wen wir am Leben antreffen werden, der Mann soll nicht zu Schaden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als von dem Himmel einst herab die Kräuter flogen, sprachen sie: Wen wir am Leben treffen noch, der Mann soll frei von Schaden sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Растения, слетающие  
 С неба вниз, заговорили:  

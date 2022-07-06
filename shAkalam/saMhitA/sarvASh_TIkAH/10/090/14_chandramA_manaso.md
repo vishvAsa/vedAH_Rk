@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चन्द्र꣡मा म꣡नसो जात꣡श्  
 च꣡क्षोः सू꣡र्यो अजायत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्राणा꣡द् वायु꣡र् अजायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 मुखा॑त् । इन्द्रः॑ । च॒ । अ॒ग्निः । च॒ । प्रा॒णात् । वा॒युः । अ॒जा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nābhyā* ← *nābhyāḥ* ← *nābhi*
 - \[noun\], ablative, singular, feminine
@@ -107,7 +107,7 @@ popular;; epic anuṣṭubh (380)
 यथा दध्याज्यादिद्रव्याणि गवादयः पशव ऋगादिवेदा ब्राह्मणादयो मनुष्याश्च तस्मादुत्पन्ना एवं चन्द्रादयो देवा अपि तस्मादेवोत्पन्ना इत्याह । प्रजापतेः **मनसः** सकाशाद् **चन्द्रमाः** **जातः** । **चक्षोः** च चक्षुषः **सूर्यः** अपि **अजायत** । अस्य **मुखादिन्द्रश्चाग्निश्च** देवावुत्पन्नौ । अस्य **प्राणाद्वायुरजायत** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,28 +118,28 @@ popular;; epic anuṣṭubh (380)
 Or, air and breath proceeded from his ear and fire rose from his mouth: **Yajuṣ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The moon was born from his mind. From his eye the sun was born. From his mouth Indra and Agni, from his breath Vāyu was born.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Moon was gendered from his mind, and from his eye the Sun had birth;  
      Indra and Agni from his mouth were born, and Vayu from his breath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus dem Nabel ward der Luftraum, aus dem Haupte ging der Himmel hervor, aus den Füßen die Erde, aus dem Ohre die Weltgegenden. So regelten sie die Welten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen Füssen die Erde, aus seinem Ohr die Weltgegenden; so bildeten sie die Welten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из пупа возникло воздушное пространство,  
 Из головы развилось небо,  

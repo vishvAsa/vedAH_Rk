@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे देवा꣡सो अप्तु꣡रः  
 सुत꣡म् आ꣡ गन्त तू꣡र्णयः  
 उस्रा꣡ इव स्व꣡सराणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒स्राःऽइ॑व । स्वस॑राणि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], vocative, plural, masculine
@@ -83,19 +83,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विश्वे** **देवासः** एतन्नामकगणरूपा देवविशेषाः **सुतं** सोमम् **आ** **गन्त** आगच्छन्तु । कीदृशाः। **अप्तुरः** तत्तत्काले वृष्टिप्रदा इत्यर्थः। **तूर्णयः** त्वरायुक्ताः यजमानमनुग्रहीतुमालस्यरहिता इत्यर्थः । विश्वेषां देवानां सोमं प्रति आगमने उस्रा इत्यादिर्दृष्टान्तः । **उस्राः** सूर्यरश्मयः **स्वसराणि** अहानि प्रति आलस्यरहिता यथा समागच्छन्ति तद्वत् ।' खेदयः' इत्यादिषु पञ्चदशसु रश्मिनामसु उस्रा वसवः  (नि. १. ५.९) इति पठितम् । वस्तोः' इत्यादिषु द्वादशस्वहर्नामसु ‘स्वसराणि घ्रंसः घर्मः' (नि. १. ९. ५) इति पठितम् । तच्च पदं यास्केन व्याख्यातं- स्वसराण्यहानि भवन्ति स्वयंसारीण्यपि वा स्वरादित्यो भवति स एनानि सारयति । उस्रा इव स्वसराणीत्यपि निगमो भवति । ( निरु. ५. ४ ) इति ॥ देवासः । पचाद्यजन्तः ( पा. सू. ३. १. १३४ ) चित्त्वादन्तोदात्तः । अप्तुरः ‘तुर त्वरणे' श्लुविकरणी । तुतुरति त्वरयन्तीत्यर्थे 'क्विप् च ' ( पा. सू. ३. २. ७६) इति क्विप् । ‘गतिकारकोपपदात्कृत्' (पा. सू. ६. २. १३९) इत्युत्तरपदप्रकृतिस्वरत्वम् । आ गन्त । आगच्छन्तु इत्यर्थे व्यत्ययेन मध्यमपुरुषबहुवचनम् ।' बहुलं छन्दसि' (पा. सू. २, ४, ७३) इति शपो लुक् । तस्य ‘तप्तनप्तनथनाश्च ' ( पा. सु. ७. १. ४५ ) इति तबादेशे ‘°अपित् ' ( पा. सू. १. २. ४ ) इति प्रतिषेधात् अङित्वात् अनुनासिकलोपाभावः । तिङ्ङतिङः' इति निघातः । ‘ञित्वरा संभ्रमे इति धातोः त्वरन्ते इति तूर्णयः। ‘निः' इत्यनुवृत्तौ ‘वहिश्रिश्रुयुद्रुग्लाहात्वरिभ्यो नित्’ (उ.सू.४.४९१) इति निप्रत्ययः । नित्त्वादाद्युदात्तः। उस्रा इव इत्यत्र ‘इवेन विभक्त्यलोपः पूर्वपदप्रकृतिस्वरत्वं च ' ( पा. सू. २. १. ४. २) इति समासे पूर्वपदप्रकृतिस्वरत्वं नित्यम् । सरतीति सरः सूर्यः । पचाद्यच् । स्वः सरो येषां तानि स्वसराणि अहानि ।' बहुव्रीहौ प्रकृत्या पूर्वपदम्' (पा. सू. ६. २. १) इति स्वशब्द आद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the swift-moving universal Gods, the shedders of rain, come to the libation, as the solar rays come diligently tot he days.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The All Gods crossing the waters—come here to the pressed soma!— like ruddy (cows) to good pastures.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A small grammatical mismatch here: the phrase viśve devā́saḥ and the adjectives modifying it (aptúraḥ, tū́rṇayaḥ) are nominatives and should not be the subject of the imperative ā́ganta. Geldner (and Witzel Gotō) ignore the problem by translating the nom. as voc. (“Ihr Allgötter”). Although the effect is minor, my translation reflects the grammatical disjunction by rendering pāda b as an interjection.
 
@@ -104,23 +104,23 @@ Another question is why 7b contains the same 2nd pl. imperative, except with a d
 In b tū́rṇayaḥ was carelessly omitted from the tr., which should read “Come here swiftly…”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ruler of sacrifices, guard of Law eternal, radiant One,  
    Increasing in thine own abode.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Allgötter, kommet die Gewässer überschreitend eilig zum Soma wie die Kühe zur Frühweide!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Götter alle, rasch im Werk, kommt eilend zu dem Soma her, Wie Kühe in die Ställe gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Все-Боги, пересекающие воды,  
 Придите, быстрые, к выжатому (соме),  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रा वि꣡अक्तो अरुषो꣡ दिवः꣡ कवि꣡र्  
 वृ꣡षा त्रिपृष्ठो꣡ अनविष्ट गा꣡ अभि꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 रेभो꣡ न꣡ पूर्वी꣡र् उष꣡सो वि꣡ राजति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒हस्र॑ऽनीतिः । यतिः॑ । प॒रा॒ऽयतिः॑ । रे॒भः । न । पू॒र्वीः । उ॒षसः॑ । वि । रा॒ज॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parā*
 - \[adverb\]
@@ -124,20 +124,20 @@ genre M
 **अरुषः** आरोचमानः **कविः** क्रान्तप्रज्ञः सोमः **व्यक्तः** विस्पष्टधारायुक्तः । यद्वा। वसतीवरीभिर्विशेषेणोक्तः सिक्तः सन् **दिवः** अन्तरिक्षात् **परा** पराङ्मुखम् आगच्छति । पवित्रात् द्रोणकलशं परागच्छतीत्यर्थः । **वृषा** वृषभः **त्रिपृष्ठः** । त्रीणि सवनानि पृष्ठान्यस्येति त्रिपृष्ठः सोमस्य सर्वेषु विद्यमानत्वात् । तस्मात् त्रिपृष्ठः सोमः **गाः** स्तोतृभिः क्रियमाणाः स्तुतीरभिलक्ष्य **अनविष्ट** शब्दायते । 'नु शब्दे ' । किंच सहस्रणीतिः सहस्रनयनः। प्रयोगबाहुल्यापेक्षं ग्रहेषु चमसेषु च सहस्रविधनयनत्वम् । अत एव **यतिः** पात्रादीनि प्रत्यागन्ता **परायतिः** कलशान् प्रति परागन्ता भवति । सोऽयं **पूर्वीः** बह्वीः **उषसः** । ‘ कालाध्वनो:०' इति द्वितीया । बहुषूष:कालेषु **रेभो** **न** । रेभृ शब्दे' । शब्दायमानः स्तोतेव **वि** **राजति** विशेषेण दीप्यते । तेषु सोमस्याभिषूयमाणत्वात् । स्तोता खलु देवानां स्तुतिकरणेन राजति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Radiant, wise, flowing in separate streams, (the **Soma** descends) from the firmament; the shower offered at the three libations responds to the praises (of the worshippers); led in a thousand directions, coming and going, he shines at many a sunrise like one who sings praises (to the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Far away is the ruddy poet of heaven, all adorned. The three-backed bull  has bellowed to the cows.  
 The marshal who has a thousand ways and means [=Soma] radiates,  like the hoarse-voiced singer [=Agni], across the many dawns as they  go away.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A complex vs. esp. in the 2nd hemistich.
 
@@ -155,23 +155,23 @@ More puzzling is parāyátī (Saṃhitā), beginning with what its underlying fo
 redactionally to match preceding yátiḥ. This pres. part. then modifies pūrvī́r uṣásaḥ in the following pāda and is part of the simile rebhó ná in that pāda. I take rebhá- ‘hoarse-voiced (singer)’ (on which gloss see comm. ad VI.3.6) here as referring to Agni as often (incl. I.113.17, in the hymn just cited). Like Agni, Soma ‘radiates’ (ví rājati). With Lüders (708) and Gotō (1st cl., 268 n. 612) I take the verb to √rāj ‘shine’, not, with Grassmann, Geldner, Renou, to √rāj ‘rule’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From far away, from heaven, the redhued noted Sage, Steer of the triple height, hath sung unto the kine.  
      With thousand guidings he, leading this way and that, shines, as a singer, splendidly through many a morn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In seinem Aufputz zieht der rötliche Seher des Himmels aus. Der Bulle mit den drei Rücken hat nach den Kühen gebrüllt. Tausend Wege kennend, lenkend, abseits lenkend, waltet er viele Morgen seines Amts wie ein Barde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es eilt geschmückt der rothe Himmels-Seher fort, der Stier mit dreien Rücken jauchzt den Kühen zu; Auf tausend Wegen strebend hin und her bestrahlt die vielen Morgenröthen wie ein Sänger er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он (уходит) далеко, разукрашенный алый поэт неба.  
 Трехспинный бык заревел навстречу коровам.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् न꣡ ये꣡ भ्रा꣡जसा रुक्म꣡वक्षसो  
 वा꣡तासो न꣡ स्वयु꣡जः सद्य꣡ऊतयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुश꣡र्माणो न꣡ सो꣡मा ऋतं꣡ यते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
 प्र॒ऽज्ञा॒तारः॑ । न । ज्येष्ठाः॑ । सु॒ऽनी॒तयः॑ । सु॒ऽशर्मा॑णः । न । सोमाः॑ । ऋ॒तम् । य॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -131,36 +131,36 @@ genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
 हे मरुतः **अग्निर्न** अग्निरिव स यथा **भ्राजसा** तेजसा शोभते तद्वद्भ्राजसा युक्ताः किंच **रुक्मवक्षसः** रुक्मालंकृतवक्षस्का: **वातासो** **न** प्रत्यक्षवाता इव **स्वयुजः** स्वयं युज्यमाना: **सद्यऊतयः** सद्योगमनाः **प्रज्ञातारो** **न** प्रकर्षेण ज्ञातारो ज्ञानिन इव **ज्येष्ठाः** पूज्याः **सुनीतयः** सुनयनाः **सुशर्माणो** **न** **सोमाः** सुसुखाः सोमा इव ते यूयम् **ऋतं** **यते** यज्ञं गच्छते यजमानाय गच्छतेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(You) who like **Agni** (are endowed) with splendour, who have golden ornaments upon your breasts,who like the winds (are) self-yoked, swift-moving, who like the extremely wise (are) venerable and able guides,and like the **Soma** the giver of delight, (do you com) to the (worshipper) going to the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, with brilliants on their breasts, are like fire with their flash; like the  winds, their own yokemates, bringing immediate aid;  
 providing good guidance like elders who think ahead, providing good  shelter like soma drinks to the one pursuing truth—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like fire with flashing flame, breast-bound with chains of gold, like tempest-blasts, self-moving, swift to lend your aid;  
      As best of all foreknowers, excellent to guide, like Somas, good to guard the man who follows Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die wie Feuer an Glanz mit ihrem Goldschmuck auf der Brust, wie die Winde sich selbst schirrend, sofort Hilfe bringend, gute Führer, wie die besten Wegekenner, guten Schutz gewährend wie die Somasäfte dem, der den rechten Brauch hält.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Goldschmuck an der Brust tragend, an Glanz wie Feuer sind, mit Hülfe zur Hand, sich selbst bewegend wie die Winde, die besten sicheren Leiter wie wegkundige Führer, wie schutzreiche Somatränke für den der rechtschaffen wandelt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что подобны Агни сверканием, нося золотые пластинки на груди;  
 Сами запрягающие себя, словно ветры, сразу помогающие;  

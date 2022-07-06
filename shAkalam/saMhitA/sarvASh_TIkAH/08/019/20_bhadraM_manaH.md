@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्र꣡म् म꣡नः कृणुष्व वृत्रतू꣡रिये  
 ये꣡ना सम꣡त्सु सास꣡हः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वने꣡मा ते अभि꣡ष्टिभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अव॑ । स्थि॒रा । त॒नु॒हि॒ । भूरि॑ । शर्ध॑ताम् । व॒नेम॑ । ते॒ । अ॒भिष्टि॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
@@ -112,7 +112,7 @@ genre M
 हे अग्ने **वृत्रतूर्ये** संग्रामे **भद्रं** शोभनं **मनः** **कृणुष्व** अस्माकं कुरु । **येन** मनसा त्वं **समत्सु** संग्रामेषु **सासहः** भृशं शत्रूनभिभवसि । अपि च **शर्धताम्** अभिभवतां शत्रूणां **भूरि** भूरीणि बहूनि स्थिराणि दृढान्यपि **अव** **तनुहि** अवाञ्चि कुरु । पराजितानि कुर्वित्यर्थः । वयं च **अभिष्टिभिः** अभ्येषणसाधनैर्हविभिः स्तोत्रैश्च **ते** त्वां **वनेम** संभजेमहि । यद्वा । ते तव प्रसादात् अभिष्टिभिः अभीष्टैः फलैर्वनेम संगच्छेमहि ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,34 +123,34 @@ genre M
 In conflict: vṛtratūrye, in conflict, saṅgrāme; or,pāpanāśāya (**Yajus**. 15,39), for the exptirpation of sin; ava **sthirā** tanuhi = make the strong bows withoutbowstrings, sthirāṇi dhanuṃṣi jyārahitāni **kuru**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Set your auspicious mind on the overcoming of obstacles, the mind  with which you will be overpowering in battles.  
 Loosen the sturdy (bows) of those that are greatly defiant. Might we  win with your superior powers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes sthirā́simply as ‘Kräfte’, but (with Renou) on the basis of the bahuv. sthirá-dhanvan- ‘having sturdy bows’ and phrasal instantiations thereof (e.g., in the next hymn, VIII.20.12 sthirā́dhánvāni), I supply ‘bows’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Show forth the mind that brings success in war with fiends, wherewith thou conquerest in fight.  
      Bring down the many firm hopes of our enemies, and let us vanquish with thine aid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fasse du den glücklichen Entschluß zur Feindeüberwindung, durch den du in den Kämpfen siegen wirst. Entspanne die Kräfte der viel zu Übermächtigen; wir möchten durch deine Übermacht gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Feindeskampfe mache heilvoll deinen Muth, durch den du in den Schlachten siegst, Und viele Sehnen mache schlaff der Trotzenden, lass siegen uns durch deine Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благосклонной сделай (свою) мысль для победы над врагами,  
 С помощью которой ты одолеешь!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡र्धाद् यं꣡ यज्ञ꣡ उत꣡ सो꣡म इ꣡न्द्रं  
 व꣡र्धाद् ब्र꣡ह्म गि꣡र उक्था꣡ च म꣡न्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡र्धान् मा꣡साः शर꣡दो द्या꣡व इ꣡न्द्रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वर्ध॑ । अह॑ । ए॒न॒म् । उ॒षसः॑ । याम॑न् । अ॒क्तोः । वर्धा॑न् । मासाः॑ । श॒रदः॑ । द्यावः॑ । इन्द्र॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vardhād* ← *vardhāt* ← *vṛdh*
 - \[verb\], singular, Present conjunctive (subjunctive)
@@ -141,21 +141,21 @@ genre M
 **यम्** **इन्द्रं** **यज्ञः** याग: **वर्धात्** वर्धयति । **उत** अपि च तत्साधनभूतः **सोमः** च यमिन्द्रं वर्धयति । तथा **ब्रह्म** हविर्लक्षणमन्नं च पुरोडाशादिकं यमिन्द्रं **वर्धात** वर्धयति । **गिरः** स्तोत्राणि **मन्म** मननीयानि **उक्था** उक्थानि शस्त्राणि **च** यं वर्धयन्ति **एनम्** इन्द्रम् **उषसः** च **अक्तो:** रात्रेः **यामन्** यामनि गमने सति **वर्ध** वर्धयन्ति। **मासाः** **शरदः** संवत्सराश्च **द्यावः** दिवसाश्चैनम् **इन्द्रं** **वर्धान्** वर्धयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, whom the sacrifice, whom the libation exalts, whom the oblation, the praises, the prayers, the adoration exalt, whom the course of day and night exalts, whom months, and years, and days exalt.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, whom the sacrifice will strengthen and the soma, (whom) the  sacred formulation will strengthen, and the songs, solemn words, and  thoughts—  
 so strengthen him at the coming of dawn from night. The months,  
 autumns, and days will strengthen Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The singular number of both forms of várdhāt (a, b) is worthy of a small note. The subject of the first is the conjoined NP yajñá utá sómaḥ, with 2 singular nouns. As often, the verb agrees with one of them (presumably the nearer one), rather than being in the dual, as would also be possible. In b the subject is the even more complex NP bráhma gíra ukthā́ca mánma, of which the two middle terms are clearly plural (fem. and neut. respectively), while the two neut. -n-stems that bookend the phrase, bráhma and mánma, could be either sg. or pl. Flg. Geldner (sim.
 
@@ -177,23 +177,23 @@ After the absence of overt referents in vs. 1, starting with 2b we have a form o
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, whom sacrifice shall strengthen, Soma, and song and hymn, and praises and devotion,  
      Whom Dawns shall strengthen when the night departeth, Indra whom days shall strengthen, months, and autumns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, den das Opfer und der Soma stärken möge, das Segenswort, die Lobrede, die Lobgedichte und Gebete stärken mögen - stärke auch du ihn bei dem Kommen der Usas aus dem Dunkel - es mögen die Monate, Herbste, Tage den Indra stark machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra, welchen Opfer stärk' und Soma, ihn stärke Andacht, Lieder, Sprüche, Bitten, Bei Tages Nahen ihn die Morgenröthen, den Indra stärken Tage, Monde, Jahre.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого укрепляет жертва, а также сома,  
 Укрепляет священное слово, хвалебные песни, гимны и молитва, –  

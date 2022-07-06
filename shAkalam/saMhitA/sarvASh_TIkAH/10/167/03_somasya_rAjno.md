@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मस्य रा꣡ज्ञो व꣡रुणस्य ध꣡र्मणि  
 बृ꣡हस्प꣡तेर् अ꣡नुमत्या उ श꣡र्मणि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 धा꣡तर् वि꣡धातः कल꣡शाँ अभक्षयम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तव॑ । अ॒हम् । अ॒द्य । म॒घ॒ऽव॒न् । उप॑ऽस्तुतौ । धातः॑ । विधा॑त॒रिति॒ विऽधा॑तः । क॒लशा॑न् । अ॒भ॒क्ष॒य॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
@@ -110,7 +110,7 @@ popular
 **राज्ञः** राजमानस्य **सोमस्य** **वरुणस्य** च संबन्धिनि **धर्मणि** धारके यज्ञे वर्तमानस्तथा **बृहस्पतेरनुमत्याः** संबन्धिनि **शर्मणि** शरणे यज्ञगृहे वर्तमानः **अहं** हे **मघवन्** इन्द्र **तव** **उप** स्तुतौ स्तोत्रे **अद्य** इदानीं प्रवृत्तोऽस्मि । हे **धातः** हे एतत्संज्ञक देव हे विधातः एतत्संज्ञक देव युवाभ्यामनुज्ञातः **कलशान्** कलशस्थान् हुतशिष्टान् सोमान् **अभक्षयं** भक्षितवानस्मि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ popular
 Pitcher: i.e., I have drunk the Soma left in the jar from that which had been offered
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Under the ordinance of King Soma and King Varuṇa and under the  protection of Br̥haspati and Anumati,  
 today at our praise invocation of you, bounteous one, I consumed tubs  (of soma), you establisher and regulator.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By royal Soma's and by Varuna's decree, under Brhaspati's and Anumati's guard,  
      This day by thine authority, O Maghavan, Maker, Disposer thou! have I enjoyed the jars.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach der Bestimmung des Königs Soma und Varuna, unter der Hut des Brihaspati und der Anumati, bei deinem Lobpreis, du Gabenreicher, du Schöpfer und Lenker, habe ich heute aus den Bechern getrunken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach Brauch des Königs Soma und des Varuna, mit Zustimmung und unter Schutz Brihaspati's Hab' heute ich, o mächtiger, bei deinem Preis vertheilt die Becher, Schöpfer und Erhalter, dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По установлению царя Сомы (и) Варуны,  
 Под защитой Брихаспати (и) Анумати,  

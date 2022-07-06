@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ हि꣡ देवीर् ऋतयु꣡ग्भिर् अ꣡श्वैः  
 परिप्रयाथ꣡ भु꣡वनानि सद्यः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्विपा꣡च् च꣡तुष्पाच् चर꣡थाय जीव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽबो॒धय॑न्तीः । उ॒ष॒सः॒ । स॒सन्त॑म् । द्वि॒ऽपात् । चतुः॑ऽपात् । च॒रथा॑य । जी॒वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -103,36 +103,36 @@ genre M
 हे **देवीः** द्योतमानाः **उषसः** **यूयं** **हि** खलु **ऋतयुग्भिः** यज्ञगामिभिः **अश्वैः** **भुवनानि**  **सद्यः** **परिप्रयाथ** परितः प्रकृष्टं गच्छथ । किं कुर्वत्यः। **ससन्तं** स्वपन्तं द्विपाच्चतुष्पात् मनुष्य गवादिलक्षणं **जीवं** **चरथाय** चरणाय गमनादिव्यवहाराय **प्रबोधयन्तीः** प्रबोधयन्त्यः सत्यः परिप्रयाथ ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine Dawns, with horses that frequent sacrifices you quickly travel round the regions (of space); awake the sleeping being, whether biped or quadruped, to pursue (his functions).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, goddesses, with horses whose yoke is truth, drive around the  creatures in a single day,  
 awakening the sleeping, every two-footed and four-footed living thing,  to activity, o Dawns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With horses harnessed by eternal Order, Goddesses, swiftly round the worlds ye travel,  
      Arousing from their rest, O Dawns, the sleeping, and all that lives, man, bird, and beast, to motion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr Göttinnen fahret mit den rechtzeitig geschirrten Rossen an einem Tag um alle Wesen, indem ihr Usas´ den Schlafenden, alles was lebt, Zweifüßler und Vierfüßler, zu neuem Wandel erweckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ihr Göttinnen fahrt in einem Tage rings um die Welt mit gutgeschirrten Rossen, Den Schlafenden erweckend, Morgenröthen, und was da lebt zum Wandern, Thier und Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, о богини, на конях, запряженных законом,  
 За один день объезжаете вокруг (всех) существ,  

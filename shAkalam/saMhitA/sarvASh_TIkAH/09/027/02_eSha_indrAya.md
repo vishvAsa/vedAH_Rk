@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ इ꣡न्द्राय वाय꣡वे  
 सुवर्जि꣡त् प꣡रि षिच्यते  
 पवि꣡त्रे दक्षसा꣡धनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प॒वित्रे॑ । द॒क्ष॒ऽसाध॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -81,35 +81,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एषः** सोमः **स्वर्जित्** स्वर्गस्य सर्वस्य वा जेता' **इन्द्राय** **वायवे** च **पवित्रे** **परि** **षिच्यते** । कीदृश एषः । **दक्षसाधनः** बलकारी ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This invigorating heaven-conquering **Soma** is poured upon the filter for **Indra** and **Vāyu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, winning the sun, is poured all around for Indra and Vāyu in the filter, the one who brings skill to realization.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As giving power and winning light, for Indra and for Vayu he  
      Is poured upon the filtering-cloth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Sonneneroberer wird für Indra und Vayu auf die Seihe ausgegossen, der Kraftwirker.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er strömet Glanz gewinnend rings und Kraft verleihend durch das Sieb Dem Indra und dem Vaju zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он разливается в цедилке  
 Для Индры, для Ваю,  

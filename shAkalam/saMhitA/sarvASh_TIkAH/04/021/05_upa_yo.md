@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प यो꣡ न꣡मो न꣡मसि स्तभाय꣡न्न्  
 इ꣡यर्ति वा꣡चं जन꣡यन् य꣡जध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡न्द्रं कृण्वीत स꣡दनेषु हो꣡ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऋ॒ञ्ज॒सा॒नः । पु॒रु॒ऽवारः॑ । उ॒क्थैः । आ । इन्द्र॑म् । कृ॒ण्वी॒त॒ । सद॑नेषु । होता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 **उप** **स्तभायन्** लोकानुपस्तम्भयन् **यजध्यै** यष्टुं **वाचं** गर्जितलक्षणां वाचं **जनयन्** प्रजनयन् **ऋञ्जसानः** प्रसाध्यमानः । ‘ ऋञ्जतिः प्रसाधनकर्मा' इति यास्कः । **उक्थैः** शस्त्रलक्षणैः स्तोत्रैः **पुरुवारः** बहुभिः संभजनीयः **यः** इन्द्रः **नमसि** । नम इत्यन्ननामैतत् । यजमानैर्दत्ते हविषि **नमः** यजमानेभ्यो यज्ञादिसाधनमन्नम् **इयर्ति** प्रेरयति । इन्द्रो हविषा तृप्तः सन् वृष्टिद्वारा अन्नं प्रयच्छति तेन चान्नेन पुनर्यज्ञः प्रजायत इत्यर्थः । अस्मदीयः **होता** **सदनेषु** यज्ञगृहेषु तम् **इन्द्रम्** **आ** **कृण्वीत** अभिमुखीकरोतु ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,36 +135,36 @@ genre M
 Utters a voice enjoining men to worship: vācam janayam yajudhyai = the speech of Indra is the thunder
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever, piling reverence upon reverence, rouses speech, begetting it in  order to perform the sacrifice,  
 aiming straight, granting many favors, he should bring Indra here to  the (ritual) seats with his hymns—he, the Hotar [=Agni?].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take ṛñjasāná- to be built to the anomalous 1st sg. middle ṛñjase (for which see comm. ad IV.8.1), pace Jasanoff 2016 (etc.), based in part on the shared constr.
 
 ṛñjas- GOD (acc.) HYMN (instr.) exemplified, e.g., by IV.8.1 yájiṣṭham ṛñjase girā́“I aim towards the best sacrificer with a song” (cf. VI.15.1) and our ṛñjasānáḥ … uktháiḥ … índram “aiming straight at Indra with hymns.” (In fact I would now favor slightly changing the text of the published translation to “aiming straight with his hymns” rather than translating ukthaíḥ with the following pāda as in the published translation) The creation and maintenance of the stem ṛñjasāná- is supported by the other -asāná- secondary participles, on which see comm. ad IV.3.6.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the Priest, Lord of many blessings, striving,-who fixing reverence on reverence, giving  
      Vent to his voice, inciteth men to worshipwith lauds bring Indra hither to our dwellings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Huldigung auf Huldigung türmt, die Rede treibt, sie hervorbringend, um zu opfern, der vielbegehrte Hotri, der den Vortritt hat, soll mit seinen Lobgedichten den Indra zu den Opfersitzen herbringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der an Verehrung eng Verehrung schliessend, die Stimm' erhebt, zum Opferdienst ermunternd, Der gabenreiche Priester, vorwärts strebend, durch Sprüche schaff er her zum Sitz den Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, нанизывая поклонение на поклонение,  
 Приводит в движение (священную) речь, порождая (ее) для почитания, –  

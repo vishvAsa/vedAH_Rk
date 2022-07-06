@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पृथू꣡ र꣡थो द꣡क्षिणाया अयोजि  
 अइ꣡नं देवा꣡सो अमृ꣡तासो अस्थुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 चि꣡कित्सन्ती मा꣡नुषाय क्ष꣡याय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 कृ॒ष्णात् । उत् । अ॒स्था॒त् । अ॒र्या॑ । विऽहा॑याः । चिकि॑त्सन्ती । मानु॑षाय । क्षया॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pṛthū* ← *pṛthuḥ* ← *pṛthu*
 - \[noun\], nominative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 **दक्षिणायाः** प्रवृद्धायाः स्वव्यापारकुशलायाः उषोदेवतायाः पृथुः विस्तीर्णः **रथः** **अयोजि** अश्वैर्युक्तः संनद्धोऽभूत् । अत्र यद्यपि देवताविशेषो न श्रुतः तथापि उषस्यत्वात् उषस इति गम्यते । **एनं** संनद्धं रथम् अमृतासः अमरणधर्माणः **देवासः** देवनाशीलाः हविर्भाजो देवाः **आ** **अस्थुः** अस्थितवन्तः देवयजनं गन्तुमारूढाः इत्यर्थः । अनन्तरं सा उषाः **कृष्णात्** निकृष्टवर्णात् नैशात् तमसः सकाशात् **उदस्थात्** उत्थिता अभूत् । **कृष्णं** कृष्यतेर्निकृष्टो वर्णः' (निरु. २. २०) इति यास्कः । कीदृशी सा। **अर्या** अरणीया पूजनीया **विहायाः** विविधगमनयुक्ता महती वा । विहाया इति महन्नाम ‘विहायाः यह्वः' ( नि. ३. ३. १२) इति तन्नामसु पाठात् । मानुषाय **क्षयाय** मनुष्याणां निवासाय **चिकित्सन्ती** अन्धकारनिवारणरूपां चिकित्सां कुर्वती तमो निवारयन्तीत्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,36 +129,36 @@ genre M
 Dakṣiṇāyāḥ = of the clever one; she who is skilled in her own function, svavyāpāra-**kuśala**; bringing health: cikitsanti, healing, remedying the malady of darkness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A broad chariot has been yoked for the priestly gift. The gods, the  immortals have mounted it.  
 Up from the dark has arisen the lady of extensive power, being attentive  to the human dwelling place.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Against the Pp (and standard tr.) I read dat. dákṣiṇāyāi rather than gen. -āyāḥ.
 
 If it’s a gen., it has to be construed with ráthaḥ “the chariot of the priestly gift.” The identification of the chariot and the dakṣiṇā in 5d supports neither of these interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE Daksina's broad chariot hath been harnessed: this car the Gods Immortal have ascended.  
      Fain to bring light to homes of men the noble and active Goddess hath emerged from darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der breite Wagen der Daksina ist geschirrt; ihn haben die unsterblichen Götter jetzt bestiegen. Die Herrin ist in voller Kraft dem Dunkel entstiegen für den menschlichen Wohnsitz sorgend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geschirrt ist schon der reichen Uschas Wagen, die ew'gen Götter haben ihn bestiegen; Erhoben hat sich aus der Nacht die holde, die grosse, sich der Menschenwelt zu zeigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запряжена широкая колесница Дакшины.  
 На нее взошли бессмертные боги.  

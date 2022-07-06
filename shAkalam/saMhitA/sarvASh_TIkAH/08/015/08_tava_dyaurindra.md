@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व द्यउ꣡र् इन्द्र पउं꣡सियम्  
 पृथिवी꣡ वर्धति श्र꣡वः  
 तुवा꣡म् आ꣡पः प꣡र्वतासश् च हिन्विरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 त्वाम् । आपः॑ । पर्व॑तासः । च॒ । हि॒न्वि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -90,20 +90,20 @@ genre M
 हे **इन्द्र** **तव** त्वदीयं **पौंस्यं** बलं **द्यौः** **वर्धति** वर्धयति । त्वदीयं **श्रवः** यशः **पृथिवी** वर्धयति । वृधेर्ण्यन्ताल्लटि शपि छन्दस्युभयथा' इत्यार्धधातुकत्वात् “ णेरनिटि' इति णिलोपः । तं **त्वाम्** **आपः** उदकानि अन्तरिक्षाणि **पर्वतासः** पर्वताः पर्ववन्तो मेघाः **च** गिरयश्च वा **हिन्विरे** प्रीणयन्ति स्वामित्वेन प्राप्नुवन्ति वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The heaven invigorates your manhood, **Indra**, the earth (spreads) your renown; the waters, themountains propitiate you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Heaven increases your manliness, Indra, earth your fame;  
 the waters and mountains spur you on.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
 <details open><summary><h2>07-10 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ Every half-verse in this tṛca but 7c and 10c opens with a form of the 2nd sg. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, Heaven and Earth augment thy manly power and thy renown;  
      The waters and thy mountains stir and urge thee on.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Himmel erhöht deine Manneskraft, die Erde deinen Ruhm, Indra; dich treiben die Gewässer und Berge zur Eile.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Himmel steigert deine Kraft, die Erde, Indra, deinen Ruhm; Die Wasser und die Bergeshöhn, erregen dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Небо укрепляет твое мужество,  
 О Индра, земля – (твою) славу.  

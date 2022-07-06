@@ -8,7 +8,7 @@ title = "+013"
 तृतीयेऽनुवाकेऽष्ट सूक्तानि । तत्र “इन्द्रः सुतेषु' इति त्रयस्त्रिशदृचं प्रथमं सूक्तं काण्वस्य नारदस्यार्षमौष्णिहमैन्द्रम् । तथा चानुक्रान्तम् - ‘इन्द्रः सुतेषु नारदः' इति । महाव्रते निष्केवल्ये औष्णिहतृचाशीतौ पूर्वसूक्तेन सहोक्तो विनियोगः । तृतीये पर्यायेऽच्छावाकशस्त्र • इन्द्रः सुतेषु' इति तृचः स्तोत्रियः । सूत्र्यते हि --  इन्द्रः सुतेषु सोमेषु य इन्द्र सोमपातमः' (आश्व. श्रौ. ६. ४) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 13 (633)  
 Indra  
@@ -18,7 +18,7 @@ Though, like the previous hymn (VIII.12), this one is in uṣṇih meter and arr
 Mythological material is mostly lacking in the hymn, and what is found is given  perfunctory treatment (see the allusions to the Maruts in vss. 20 and 28–29). The  focus instead is the usual give-and-take of the ritual compact. Although the hymn  has no spectacularly memorable features, it does not seem to deserve Geldner’s  scornful dismissal as “ein recht nichtssagendes [‘trivial’ or ‘vacuous’] Lied.”1054 VIII.13
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra Although the introduction. to the published translation is somewhat dismissive of this hymn and dubious about any unifying factors, closer examination shows a subsurface thematic unity esp. in the mid and later parts of the hymn, roughly vss. 16-30. For discussion see below.
 </details>

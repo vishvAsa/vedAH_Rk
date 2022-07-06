@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ सुक्र꣡तू र꣡णिता यः꣡ सुते꣡षु  
 अ꣡नुत्तमन्युर् यो꣡ अ꣡हेव रेवा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ वृत्रहा꣡ प्र꣡ति इ꣡द् अन्य꣡म् आहुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । एकः॑ । इत् । नरि॑ । अपां॑सि । कर्ता॑ । सः । वृ॒त्र॒ऽहा । प्रति॑ । इत् । अ॒न्यम् । आ॒हुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -153,7 +153,7 @@ genre M
 अथ परोक्षकृताः । **सः** इन्द्रः **सुक्रतुः** शोभनप्रज्ञः शोभनकर्मा भवति **यः** **सुतेषु** अभिषुतेषु सोमेषु **रणिता** तत्पानार्थं रमणशीलः किंच **अनुत्तमन्युः** परैरनुन्नक्रोधः शत्रुभिर्नोत्तुमशक्यः तादृशः **यः** इन्द्रः **रेवान** धनवान् । तत्र दृष्टान्तः । **अहेव** । यथा अहानि दिवसा धनवन्तः। दिवसेषु हि धनानि प्रादुर्भवन्ति न रात्रिषु । तद्वत् । तथा **यः** इन्द्रः **एक** **इत्** असहाय एव **नरि** कर्मनेतरि मनुष्ये **अपांसि** कर्माणि **कर्ता** कर्तुशीलो भवति । ताच्छीलिकस्तृन् । अत एव षष्ठीप्रतिषेधः । **सः** पूर्वोक्तगुणोपेत इन्द्रः **वृत्रहा** । अपामावरकस्यासुरस्य उपद्रवस्य वा हन्तृत्वाद्वृत्रहेति सर्वैः श्रूयते । तमेवेन्द्रम् **अन्यं** **प्रति** । **इत्** अवधारणे । अन्यं प्रत्येव **आहुः** । इन्द्रः सर्वमन्यं शत्रुसंघं प्रति भवति । अभिभवत्येवेति वदन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -164,7 +164,7 @@ genre M
 Who is wealthy as the days: wealth is produced in the days, not in the nights
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “He is the very resolute one, who is the enjoyer of the pressings, to  whom the battle-fury has been conceded, who is like a rich man  
 through (all) the days,  
@@ -172,7 +172,7 @@ who all alone is the performer of manly labors.” “That’s the
 Vr̥tra-smiter!” they respond to the other.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, I interpret this verse as containing a riddle (a-c) and its answer (d), an interpretation at odds with Geldner (flg. Sāyaṇa), who takes all of the verse until its last word as part of a single description of Indra. His rendering of d, “der Vṛtratöter ist (jedem) anderen gewachsen, so sagen sie” is grammatically impossible because āhuḥ ought then to be accented; prátī́d anyám āhuḥ must be a separate clause (as Oldenberg also takes it, though with implausible semantics). In my interpretation the first three pādas present several different descriptions of Indra’s characteristics and activities. Although these descriptions are fairly transparent, they do not name Indra, whereas the first two words of pāda d, sá vṛtrahā́, names him by his standing epithet and serves as answer to the implicit riddle posed by the first three pādas. Although this interpretation is more complex than Geldner’s, it allows us to account for the odd finale of d and especially for the anyám, which by my rules (Fs. Beekes, 1997) should have a definite reading, “the other.” I take this “other” to be the poser of the riddle, and the unidentified speakers of d triumphantly respond to him with the solution. That the first two words of the final two verses of the tṛca (and the hymn) repeat sá vṛtrahā́of 19d, followed by the actual name of the god, lends support to my interpretation of vs. 19.
 
@@ -188,23 +188,23 @@ tád indra vṛ́ṣṇi te śávaḥ, rendered in the published translation “
 But I lay out this scenario very skeptically, primarily because of the wrong grade in the posited loc. sg. Here I would point out that the same trouble would afflict any attempt to explain vṛ́ṣṇ(i)ya- as a thematic descasuative derivative from a locative by pointing to the two synchronically alternating syntagms here. Such a derivation for *-(i)yo-possessive adjectives in general has been proposed (see Balles, Sprache 39 [1997 (2000)] 141-67, cited from Meier-Brügger, Indo-European Linguistics, 283-84, for which ref. I thank Jesse Lundquist). I do not believe that the last word has been said about this issue.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most wise is he, rejoicing in libations, splendid as day, resistless in his anger.  
      He only doth great deeds, the only Hero, sole Vrtra-slayer he, with none beside him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist der Einsichtsvolle, der an den Somasäften sich ergötzt, dessen Grimm man nachgibt, der wie die neuen Tage prangend ist, der allein Mannestaten vollführt; der Vritratöter ist jedem anderen gewachsen, so sagen sie.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist voll Stärke, der sich labt an Tränken, voll mächt'gen Zorns, der Schätze hat wie Tage, Er, der allein vollbringt die Heldenwerke, der Vritrafeind, so spricht man zu einander.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡दासि रण्वो꣡ य꣡वसेव पु꣡ष्यते  
 हो꣡त्राभिर् अग्ने म꣡नुषः सुअध्वरः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वा꣡जं ससवाँ꣡ उपया꣡सि भू꣡रिभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 विप्र॑स्य । वा॒ । यत् । श॒श॒मा॒नः । उ॒क्थ्य॑म् । वाज॑म् । स॒स॒ऽवान् । उ॒प॒ऽयासि॑ । भूरि॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sadāsi* ← *sadā*
 - \[adverb\]
@@ -124,36 +124,36 @@ genre D
 हे **अग्ने** त्वं **सदा** सततं **रण्वः** **असि** रमणीयो भवसि। तत्र दृष्टान्तः । **यवसेव** **पुष्यते** । यथा यवसानि तृणानि स्वपुष्टिं कुर्वते हस्त्यश्वगौमहिषादिचतुष्पदाय सर्वदा रमणीयानि भवन्ति तद्वत् । अपि च हे अग्ने **मनुषः** मनुष्यस्य स्वभूतैः **होत्राभिः** । होत्रेति यज्ञनामैतत् । यज्ञैः **स्वध्वरः** शोभनयज्ञो भवेति शेषः । **विप्रस्य** **वा** स्तोतुर्वा **यत्** यस्य यजमानस्य वा स्वभूतम् **उक्थ्यं** स्तोत्रं **शशमानः** प्रशंसन् **वाजं** हविर्लक्षणमन्नं **ससवान्** संभजमानश्च **भूरिभिः** बहुभिर्देवैः सह **उपयासि** उपगच्छसि ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, are ever plural asing (to your worshippers), as pasture satisfies (the herds); bewell-worshipped with man's sacrifices; if commending the praise of the wise, and partaking of the (sacrificial)food, you come with many (divinities of the rite).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are always delightful, like pasture lands to a prosperous man,  (when,) o Agni, you conduct good rites with the libations of Manu,  
 or when, having ritually labored and having gained for the inspired poet  a prize worthy of hymns, you journey near with abundant (gifts).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Still art thou kind to him who feeds thee as with grass, and, skilled in sacrifice, offers thee holy gifts.  
      When thou, having received the sage's strengthening food with lauds, after long toil, cornest with many more.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Immer bist du erfreulich wie die Weide für den Viehzüchter, der du, Agni, mit den Opfergaben des Menschen den Gottesdienst gut verrichtest, oder wenn du mit vielen Gaben kommst, nachdem du deinen Dienst versehen und des Redners preislichen Lohn gewonnen hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreulich stets wie Wiesen für den Weidenden bist Agni du, schönopfernd mit des Menschen Trank, Wenn eifervoll des Priesters schöne Labung du empfangen hast und zu uns kommst mit grosser Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всегда ты приносишь радость, как пастбища для скотовода,  
 (Ты), о Агни, прекрасно исполняющий обряд с помощью жертвенных возлияний человека,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ वा꣡ उ मां꣡ वृज꣡ने वारयन्ते  
 न꣡ प꣡र्वतासो य꣡द् अह꣡म् मनस्ये꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एवे꣡द् अ꣡नु द्यू꣡न् किर꣡णः स꣡म् एजात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मम॑ । स्व॒नात् । कृ॒धु॒ऽकर्णः॑ । भ॒या॒ते॒ । ए॒व । इत् । अनु॑ । द्यून् । कि॒रणः॑ । सम् । ए॒जा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -129,7 +129,7 @@ popular
 **वै** **उ** इत्येवैव । **वृजने** संग्रामे **मां** युद्धार्थमुपस्थितं सन्तं **न** वारयन्ते केचिन्निवारयितुं समर्था न भवन्ति । **अहं** **यत्** कर्म **मनस्ये** मनसा कर्तुमिच्छामि **पर्वतासः** अवितरणक्षमा हिमवदादयो गिरयस्तत्कर्म मनसा प्रोढुं **न** शक्नुवन्तीत्यर्थः। किंच **मम** इन्द्रस्य स्वनात् शब्दादेव **कृधुकर्णः** नामासुरः यद्वा **कृधुकर्णो** ह्रस्वकर्णो मन्दश्रवणेन्द्रियो बधिरः स्थावरपिपीलिकादिरपि **भयाते** बिभेति । अपि च **एवेत्** एवमेव कृधुकर्णवत् **अनु** **द्यून्** प्रतिदिनमित्यर्थः । **किरणः** । अन्तर्णीतमत्वर्थमेतत् । किरणवान् रश्मिवानादित्यः **समेजात्** सम्यक्कम्पयते चलति । नियमेन प्रयातीत्यर्थः ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ popular
 The dull of hearing:kṛdhukarṇa: may be the name of an **asura**; or, may denote one hard of hearing, deaf
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] Truly they do not confine me in (just one) community, nor do the  mountains (confine me), when I am minded.  
 (Even) one with a stunted ear will be afraid of my roar. Just so, day after  day the dust will stir.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 None hinder me in mine heroic exploits, no, not the mountains when I will and purpose.  
      Even the deaf will tremble at my roaring, and every day will dust be agitated.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrlich nicht halten sie mich in der Umklammerung auf, auch nicht die Berge, wenn ich etwas im Sinn habe. Vor meinen Tosen soll auch der Schwerhörige Furcht bekommen. Wahrlich, Tag um Tag soll der Staub erzittern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In tiefer Schlucht auch kann mich niemand hemmen, nicht hohe Berge hindern meine Pläne; Vor meinem Toben bebet selbst der taube, ja, täglich fliegt auf meiner Bahn der Staub auf.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

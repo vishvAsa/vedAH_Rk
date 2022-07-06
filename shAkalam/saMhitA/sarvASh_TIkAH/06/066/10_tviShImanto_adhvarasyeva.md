@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वि꣡षीमन्तो अध्वर꣡स्येव दिद्यु꣡त्  
 तृषुच्य꣡वसो जुहु꣡वो न꣡ अग्नेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ्रा꣡जज्जन्मानो मरु꣡तो अ꣡धृष्टाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒र्चत्र॑यः । धुन॑यः । न । वी॒राः । भ्राज॑त्ऽजन्मानः । म॒रुतः॑ । अधृ॑ष्टाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tviṣīmanto* ← *tviṣīmantaḥ* ← *tviṣīmat*
 - \[noun\], nominative, plural, masculine
@@ -106,20 +106,20 @@ genre M
 **मरुतः** **अध्वरस्येव** यज्ञस्येव **दिद्युत्** द्योतमानाः **तृषुच्यवसः** क्षिप्रगमनाः **अग्नेः** **जुह्वो** **न** रश्मय इव **त्विषीमन्तः** दीप्तिमन्तः **अर्चत्रयः** अर्चनीयाः **धुनयो** **न** सपत्नान् कम्पयन्त इव **वीराः** शूराः **भ्राजज्जन्मानः** दीप्तशरीराः **अधृष्टाः** परैरनभिभूताश्च भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Maruts** are resplendent as if iluminators of the sacrifice, (bright) as he flames of **Agni**; entitled are they to donation, and like heroes making (adversaries) tremble; brilliant are they from birth, and invincible.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Flaring like the dart of the ceremony [=ritual fire], stirring thirstily like  tongues of fire,  
 chanting like boisterous heroes, the Maruts with their flashing birth are  unassailable.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The comparison of the Maruts to fires in 2a (yé agnáyo ná śóśucann idhānā́ḥ “those who kept blazing up like fires being kindled”) returns here in the first hemistich with more contorted imagery. In the similes of both a and b the Maruts are compared not directly to fire, but to something that is a metaphor for fire: “the dart of the ceremony” (a) and the more familiar “tongues of fire” (b). The somewhat unexpected invocation of Agni in the last pāda of the preceding vs. (9d) prepares the way for these similes.
 
@@ -128,23 +128,23 @@ In d I have followed Geldner and Renou in selecting the final word, ádhṛṣt�
 leuchtend ist die Geburt der unwiderstehlichen Marut.” The striking phonology (…j …jj) of the cmpd certainly draws attention to it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright like the flashing flames of sacrifices, like tongues of fire impetuous in their onset,  
      Chanting their psalm, singing aloud, like heroes, splendid from birth, invincible, the Maruts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hitzig wie der Brandpfeil des Opfers, gierig sich bewegend wie des Agni Zungen, ihr Lied singend wie die tosenden Helden, von Geburt schimmernd, unangreifbar sind die Marut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hell strahlend wie des Opfers Feuerflamme, voll Gier sich regend wie des Agni Zungen, Laut tobend gleich wie Helden, wenn sie stürmen, die lichtgebornen Maruts unbezwinglich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сверкающие, словно огонь жертвоприношения,  
 Жадно кидающиеся, словно языки пламени Агни,  

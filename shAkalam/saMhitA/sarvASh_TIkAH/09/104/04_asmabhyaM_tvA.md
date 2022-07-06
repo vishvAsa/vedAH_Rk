@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्म꣡भ्यं त्वा वसुवि꣡दम्  
 अभि꣡ वा꣡णीर् अनूषत  
 गो꣡भिष् टे व꣡र्णम् अभि꣡ वासयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 गोभिः॑ । ते॒ । वर्ण॑म् । अ॒भि । वा॒स॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
@@ -89,41 +89,41 @@ genre M
 हे सोम **वसुविदं** धनस्य दातारं **त्वा** त्वाम् **अस्मभ्यं** धनादिप्रदानार्थं **वाणीः** अस्मदीया वाचः **अभि** **अनूषत** अभिष्टुवन्ति । 'नू स्तवने' । वयं **ते** तव **वर्णम्** आवरकं रसं **गोभिः** गोविकारैः क्षीरादिभिः **अभि** **वासयामसि** अभिवासयामः । अभित आच्छादयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For us do the hymns glorify you the giver of wealth; we clothe your form with the (products of the) kine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The voices have cried out to you, the finder of goods for us.  
 With cows we will clothe your color.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b, abhí vā́ṇīr anūṣata is a variant on the more elaborate abhí vā́ṇīr ṛ́ṣīṇāṃ saptá anūṣata in the immed. preceding hymn, IX.103.3c, which occupies the long pāda of Uṣṇih, rather than one of the shorter ones, as here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Voices have sung aloud to thee as finderout of wealth for us:  
      We clothe the hue thou wearest with a robe of milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, der uns das Gut ausfindig macht, schrieen die Stimmen entgegen; in Kuhmilch kleiden wir deine Farbe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, der du Güter uns verleihst, umtönte jetzt der Lieder Schall, Mit Milch umkleiden deine lichte Farbe wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, находящего блага для нас,  
 Приветствовали голоса (риши).  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उशता꣡ म꣡नसा सो꣡मम् अस्मै  
 सर्वहृदा꣡ देव꣡कामः सुनो꣡ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रशस्त꣡म् इ꣡च् चा꣡रुम् अस्मै कृणोति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 न । गाः । इन्द्रः॑ । तस्य॑ । परा॑ । द॒दा॒ति॒ । प्र॒ऽश॒स्तम् । इत् । चारु॑म् । अ॒स्मै॒ । कृ॒णो॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -145,37 +145,37 @@ genre M
 **य** **उशता** कामयमानेन **सर्वहृदा** । सर्वमविकलं हृदयं यस्य । यद्वा । सर्वेषामृत्विजां हृदयेन । सामर्थ्यान्मत्वर्थो लक्ष्यते । हृदयवता **मनसा** **अस्मै** इन्द्राय **देवकामः** देवमिन्द्रं कामयमानो यजमानः **सोमं** **सुनोति** अभिषुणोति । **इन्द्रस्तस्य** यजमानस्य **गाः** **न** **परा** **ददाति** । परादानं विनाशः । न विनाशयति । **अस्मै** यजमानाय **चारुं** शोभनमत एव **प्रशस्तम्** । **इत्**  इत्यवधारणे । प्रशंसनीयमेव धनं **कृणोति** करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who devoted to the deity with a willing mind offers the **Soma** to him with all his heart, **Indra**, doesnot destroy his cattloe, but gives him beautiful excellent (wealth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The man who with willing mind, with his whole heart, with desire for the  gods, presses soma for him,  
 Indra does not give away his cows. He [=presser] makes (his soma)  
 acclaimed and dear to him [=Indra].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso, devoted to the God, effuses Soma for him with yearning heart and spirit,-  
      Never doth Indra give away his cattle: for him he makes the lovely Soma famous.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer willigen Sinnes von ganzem Herzen, gottliebend ihm den Soma auspreßt, dessen Kühe liefert Indra nicht aus; er macht seinen Soma gelobt und angenehm.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer holden Sinnes ihm den Soma keltert, die Götter liebend treu von ganzem Herzen, Nicht lässet andern Indra dessen Heerden, und macht gepriesen ihm den schönen Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто жаждущий духом, от всего сердца  
 Любящий богов сому ему выжимает,  

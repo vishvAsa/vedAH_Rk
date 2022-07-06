@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सपर्य꣡वो भ꣡रमाणा अभिज्ञु꣡  
 प्र꣡ वृञ्जते न꣡मसा बर्हि꣡र् अग्नउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ध्वर्यवो हवि꣡षा मर्जयध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ॒ऽजुह्वा॑नाः । घृ॒तऽपृ॑ष्ठम् । पृष॑त्ऽवत् । अध्व॑र्यवः । ह॒विषा॑ । म॒र्ज॒य॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saparyavo* ← *saparyavaḥ* ← *saparyu*
 - \[noun\], nominative, plural, masculine
@@ -101,36 +101,36 @@ genre M
 **सपर्यवः** परिचरणमिच्छन्तः **अभिज्ञु** अभिगतजानुकं **भरमाणाः** पादौ भरन्तः **बर्हिः** **नमसा** हविषा सह **अग्नौ** **प्र** **वृञ्जते** प्रभरन्ति । तदेव विशदयति । हे **अध्वर्यवः** **घृतपृष्ठं** घृतसंसिक्तपृष्ठं **पृषद्वत्** स्थूलबिन्दुभिर्युक्तं बर्हिः **हविषा** सह **आजुह्वानाः** **मर्जयध्वम्** अग्निं परिचरत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The worshippers bearing the sacred grass offer it with reverence, upon their knees, to **Agni**; worshiphim, priests, with oblations, invoking him to (sit down) on the spotted (grass), smeared with clarified butter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ritually serving, carrying it in a crouch, they spread ritual grass at the  fire with reverence.  
 Pouring (ghee) on it, o Adhvaryus, groom the ghee-backed, dappled  (ritual grass) with the oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bearing the sacred grass, the men who serve him strew it with reverence, on their knees, by Agni.  
      Calling him to the spotted grass, oil-sprinkled, adorn him, ye Adhvaryus, with oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sorgsam, indem sie es halb knieend bringen, legen sie unter Verneigung das Barhis um das Feuer. Begießet das Barhis und glättet das schmalzrückige, schmelzbuttrige mit dem Opferschmalz, ihr Adhvaryu´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Andachtsvollen schmücken Streu dem Agni voll Ehrfurcht aus, sie bis ans Knie errichtend; Begiessend die mit Fett bedeckte, feuchte, o Priester, schmückt sie mit dem Opfertranke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Оказывая уважение, принося (дары), коленопреклоненно,  
 Они раскладывают с поклонением  

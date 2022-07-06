@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रथेष्ठा꣡य अध्वर्यवः  
 सो꣡मम् इ꣡न्द्राय सोतन  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सुन्व꣡न्तो दाशु꣡अध्वरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अधि॑ । ब्र॒ध्नस्य॑ । अद्र॑यः । वि । च॒क्ष॒ते॒ । सु॒न्वन्तः॑ । दा॒शुऽअ॑ध्वरम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ratheṣṭhāyādhvaryavaḥ* ← *ratheṣṭhāya* ← *ratheṣṭha*
 - \[noun\], dative, singular, masculine
@@ -91,7 +91,7 @@ genre M
 **रथेष्ठाय** । रथे तिष्ठतीति रथेष्ठः । ‘सुपि स्थः' इति कप्रत्ययः । तत्पुरुषे कृति बहुलम् इति सप्तम्या अलुक् । एवंलक्षणाय **इन्द्राय** हे **अध्वर्यवः** **सोमं** **सोतन** अभिषुणुत । 'षुञ् अभिषवे '।' तप्तनप्तनथनाश्च ' इति तनबादेशः । **ब्रध्नस्य** बुध्नस्य मूलस्याभिषवार्थं चर्मणि स्थापितस्योपराख्यस्य विस्तृतस्याश्मनः **अधि** उपरि **अद्रयः** अन्ये ग्रावाणश्चतसृषु दिक्षु वर्तमानाः **दाश्वध्वरं** दाशोर्दातुर्यजमानस्य अध्वरो यागो येन निष्पद्यते तादृशं सोमं **सुन्वन्तः** ऋत्विङ्निरपेक्षं स्वयमेवाभिषुण्वन्तः **वि** **चक्षते** विशेषेण प्रकाशन्ते। सोमाभिषवेऽतिशयेनानुकूला वर्तन्त इत्यर्थः । अथवाद्रयस्तैरद्रिभिर्हे अध्वर्यवः सोममभिषुणुतेति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,36 +106,36 @@ Dāśādhvaram: **dāśā** = donor;
 Adhvaram = sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus, press the soma for Indra who stands on the chariot.  
 The stones gaze out upon (the upper surface) of the coppery (soma) as  they press the one belonging to pious ceremonies.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the basis of bradhnásya viṣṭápam (VIII.69.7, IX.113.10) I supply viṣṭápam here as well. In these contexts bradhná- ‘coppery’ refers to soma (see Oldenberg).
 
 For further disc. of the phrase see comm. ad VIII.69.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Press out the Soma juice, ye priests, for Indra borne upon his car.  
      The pressing-stones speak loud of Indra, while they shed the juice which, offered, honours him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Presset Soma für den Wagenfahrer Indra! Noch über den rötlichen Soma tuen die pressenden Steine den Opferspender kund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma presst, Gehülfen ihr, dem Wagenkämpfer Indra aus; Und selbst die Steine, pressend röthliches Gebräu, sehn auf die Opferdiener hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью, выжимайте сому  
 Для Индры, стоящего на колеснице!  

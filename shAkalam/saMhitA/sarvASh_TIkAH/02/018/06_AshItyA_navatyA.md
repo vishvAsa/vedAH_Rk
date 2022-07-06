@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ अशीत्या꣡ नवत्या꣡ याहि अर्वा꣡ङ्  
 आ꣡ शते꣡न ह꣡रिभिर् उह्य꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र त्वाया꣡ प꣡रिषिक्तो म꣡दाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । हि । ते॒ । शु॒नऽहो॑त्रेषु । सोमः॑ । इन्द्र॑ । त्वा॒ऽया । परि॑ऽसिक्तः । मदा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āśītyā* ← *ā*
 - \[adverb\]
@@ -117,36 +117,36 @@ genre M
 अशीत्या अशीतिसङ्ख्याकैश्वैः सोमपानार्थमर्वाङस्मदभिमुखःसन् आयाहि नवत्याएतत्सङ्ख्याकैरश्वैरा- गच्छ शतेनशतसङ्ख्याकैर्हरिभिरुह्यमानोधार्ययाणस्त्वंआयाहि हेइन्द्र हियस्मात्तेमदायहर्षायशुनहोत्रे- षु सुखेनहूयतेसोमोयेभिरितिशुनहोत्राः पात्रविशेषाः तेषुअयंसोमः त्वाया त्वत्कामनयापरिषिक्तः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Indra**, to our presence, conveyed by eighty, ninety, or a hundred horses; this **Soma** has been poured into the goblet, Indra, for your exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey here, right nearby, with your eighty and your ninety, being  conveyed by your hundred fallow bays,  
 for here is your soma among the Śunahotras, Indra, which has been  poured all around seeking you for your exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us hitherward, O Indra, carried by eighty, ninety, or an hundred horses.  
      This Soma juice among the Sunahotras hath been poured out, in love, to glad thee, Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm mit achtzig, mit neunzig hierher, mit hundert Falben komm gefahren, denn dieser Soma bei den Sunahotra´s ist dein, für dich, Indra, zum Rausch eingeschenkt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm noch herbei mit achtzig und mit neunzig, mit hundert Rossen komm herbeigefahren; Denn bei dem Çunahotrastamm, o Indra, ist dieser Soma dir zum Rausch ergossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай сюда на восьмидесяти, на девяноста,  
 На ста конях, влекомый (ими)!  

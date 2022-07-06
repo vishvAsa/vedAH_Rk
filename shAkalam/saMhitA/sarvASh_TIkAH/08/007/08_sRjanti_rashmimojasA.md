@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सृज꣡न्ति रश्मि꣡म् ओ꣡जसा  
 प꣡न्थां सू꣡र्याय या꣡तवे  
 ते꣡ भानु꣡भिर् वि꣡ तस्थिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ते । भा॒नुऽभिः॑ । वि । त॒स्थि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sṛjanti* ← *sṛj*
 - \[verb\], plural, Present indikative
@@ -87,19 +87,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तच्छब्दश्रुतेर्यच्छब्दाध्याहारः । ये मरुतः **सूर्याय** सूर्यस्य । **षष्ठ्यर्थे** चतुर्थी वक्तव्या ' इति चतुर्थी। **यातवे** गन्तुं **रश्मिं** व्याप्तम् । ' अशे रश च ' इत्यश्नोतेरौणादिको मिप्रत्ययो रशादेशश्च । यद्वा । रश्मिभिस्तेजोभिर्युक्तम् । **पन्थां** पन्थानम् **ओजसा** बलेन **सृजन्ति** उत्पादयन्ति । वृत्रादिभिरावृतं सूर्यपथमावरकस्य वृत्रादेरपनयनेन जनयन्तीत्यर्थः । **ते** मरुतः **भानुभिः** तेजोभिः **वि** **तस्थिरे** कृत्स्नं जगत् व्याप्य अवतिष्ठन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They, who by their might open a radiant path for the sun to travel, they pervade (the world) with lustre.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They release the rein [/ray] with strength, for the sun to travel its path; they have extended themselves with its radiant beams.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Exactly what atmospheric phenomenon is being described here is not clear.
 
@@ -108,28 +108,28 @@ Geldner seems to think that it’s the Maruts who are traveling the path (pánth
 Pāda c is repeated as the final pāda of the hymn (36c).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With might they drop the loosened rein so that the Sun may run his course,  
      And spread themselves with beams of light.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 With power they shoot a ray of light So that the sun may run his course; They with their beams spread far and wide.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie lassen mit Macht der Sonne den Zügel schießen, daß sie ihre Bahn laufe. Zugleich mit deren Strahlen haben sie sich zerstreut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie werfen kräftig ihre Schnur, der Sonne Pfad zu messen, aus; Mit Strahlen breiten sie sich aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мощно отпускают они повод,  
 Чтобы солнце двигалось по (своему) пути,  

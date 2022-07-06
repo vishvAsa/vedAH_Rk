@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡षस् त꣡च् चित्र꣡म् आ꣡ भर  
 अस्म꣡भ्यं वाजिनीवति  
 ये꣡न तोकं꣡ च त꣡नयं च धा꣡महे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 येन॑ । तो॒कम् । च॒ । तन॑यम् । च॒ । धाम॑हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣas* ← *uṣaḥ* ← *uṣa*
 - \[noun\], nominative, singular, masculine
@@ -97,42 +97,42 @@ genre M
 हे **वाजिनीवति** । वाजो हविर्लक्षणमन्नम् । तद्युक्ता क्रिया वाजिनी । तया क्रियया युक्ते **उषः** उषोदेवते अस्मभ्यं **चित्रं** चायनीयं **तत्** धनम् **आ** **भर** आहर प्रयच्छ । **येन** धनेन **तोकं** पुत्रं **तनयं** तत्पुत्रं **च** **धामहे** दध्महे  धारयामः । अत्र निरुक्तम् - उषस्तच्चित्रं चायनीयं धनमाहरास्मभ्यमन्नवति येन पुत्रांश्च पौत्रांश्च दधीमहि ' (निरु. १२. ६) इति ॥ धामहे । दधातेर्लटि बहुलं छन्दसि ' इति शपो लुक् । व्यत्ययेन आद्युदात्तत्वम् । यद्वा । लोटि  ‘ आडुत्तमस्य पिच्च' इति आडागमः प्रत्ययस्य पिद्वद्भावश्च । अतः प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । अस्मिन् पक्षे एत ऐ (पा. सू. ३. ४. ९३) इति ऐत्वाभावो व्यत्ययेन द्रष्टव्यः । यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Uṣas, possessor of food, bring us that various wealth by which we may sustain sons and grandsons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dawn, bring that bright (gift) here to us—you who are rich in  
 prize mares—  
 by which we may acquire both progeny and posterity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Dawn enriched with ample wealth, bestow on us the wondrous gift  
      Wherewith we may support children and children's sons.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 O Dawn, bring us that brilliant wealth, O thou that bearest rich rewards, Whereby both sons and grandsons we may well maintain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Usas, bring uns das ansehnliche Geschenk, du an Belohnungen reiche, durch das wir Samen und Nachkommenschaft erlangen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O gabenreiches Morgenroth, die schöne Gabe bring uns her, Durch welche Kind und Kindeskind uns wird zu Theil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ушас, принеси нам этот яркий (дар),  
 О богатая наградами,  

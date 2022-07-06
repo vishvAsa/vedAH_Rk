@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ वो वृक्त꣡बर्हिषो  
 हित꣡प्रयस आनुष꣡क्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मनुष्व꣡द् इद्ध꣡अग्नयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सु॒तऽसो॑मासः । व॒रु॒ण॒ । ह॒वा॒म॒हे॒ । म॒नु॒ष्वत् । इ॒द्धऽअ॑ग्नयः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -99,7 +99,7 @@ genre M
 हे वरुण वरुणादयो हे देवाः **वृक्तबर्हिषः** ऋत्विजः **वयम्** **आनुषक्** स्रुगादिष्वनुषक्तं यथा भवति तथा **हितप्रयसः** । प्रीणातीति प्रयोऽन्नम् । तेषु निहितहविष्काः सन्तः **वः** युष्मान् **हवामहे** एतानि हवींष्यादातुमाह्वयामः । कीदृशाः । **सुतसोमासः** अभिषुतसोमाः **इद्धाग्नयः** आहुतिभिः समिद्धाग्नयो वयमाह्वयामः । तत्र दृष्टान्तः । **मनुष्वत्** । मनुर्यथा यज्ञे युष्मानाजुहाव तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,29 +110,29 @@ genre M
 Varuṇa: when Mitraand Varuṇa are named singly, both are intended, and sometimes even more of the **Viśvadevas**; cf. ŚathapathaBrāhmaṇa 1.8.1, **Manu**'s sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We who have ritual grass twisted for you and pleasurable offerings set  out in due order,  
 who have soma pressed and the fire kindled, like Manu, invoke (you), o  Varuṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We who have trimmed the grass for you, and set the banquet in array,  
      And pressed the Soma, call you, Varuina, like men, with sacrificial fires aflame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir rufen euch, nachdem wir ordnungsgemäß das Barhis herumgelegt, die Opfer-genüsse bereitet, Soma ausgepreßt haben, o Varuna, wie Manu tat, bei entzündetem Feuer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rufen euch der Reihe nach, die Streu und Opfer wir besorgt, Den Somatrank gebraut und Agni's Glut entflammt, nach Menschen Art, o Varuna.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы зовем вас, расстелив жертвенную солому,  
 Выставив по порядку жертвенную пищу,  

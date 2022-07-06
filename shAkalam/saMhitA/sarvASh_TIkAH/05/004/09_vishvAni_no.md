@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वानि नो दुर्ग꣡हा जातवेदः  
 सि꣡न्धुं न꣡ नावा꣡ दुरिता꣡ति पर्षि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡कम् बोधि अविता꣡ तनू꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अग्ने॑ । अ॒त्रि॒ऽवत् । नम॑सा । गृ॒णा॒नः । अ॒स्माक॑म् । बो॒धि॒ । अ॒वि॒ता । त॒नूना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
@@ -123,41 +123,41 @@ genre M
 हे **जातवेदः** **नः** अस्माकं **दुर्गहा** दुःखेन गाह्यानि दुःखेन भोग्यानि **विश्वानि** **दुरितानि** **अति** **पर्षि** अतिपारय । **सिन्धुं** **न** **नावा** नदीं नाविको यथा तद्वत् । हे **अग्ने** **अत्रिवत्** अत्रेर्यथा तथा अस्माकं **नमसा** स्तोत्रेण **गृणानः** स्तूयमानः सन् **अस्माकं** **तनूनाम्** **अविता** रक्षकः **बोधि** बुध्यस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You convey us, **Jātavedas**, across all intolerable evils, as (people are carried) over a river by a boat; **Agni**, who are glorified by us with reverence, such as (that shown) by **Atri**, know yourself the protector of our person ns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Carry us across all difficult depths and difficult ways, o Jātavedas, as if  across a river by a boat.  
 O Agni, being sung with reverence as if by Atri, become the helper of  our bodies.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Over all woes and dangers, Jatavedas, bear us as in a boat across a river.  
      Praised with our homage even as Atri praised thee, O Agni, be the guardian of our bodies.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bring us across all difficulties and dangers,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Über alle Tiefen, o Jatavedas, über die Fährlichkeiten hilf uns hinüber wie mit dem Schiff über den Strom! Agni, wie von Atri unter Verbeugung gepriesen, sei der Beschützer unserer Leiber!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; Wie einst von Atri, demuthsvoll gepriesen sei, Agni, du Beschützer unsrer Leiber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Через все труднопроходимые места, о Джатаведас,  
 Через опасности перевези нас, как через реку на лодке!  

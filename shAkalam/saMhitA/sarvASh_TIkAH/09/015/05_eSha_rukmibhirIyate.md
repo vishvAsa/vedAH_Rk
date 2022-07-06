@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ रुक्मि꣡भिर् ईयते  
 वाजी꣡ शुभ्रे꣡भिर् अंशु꣡भिः  
 प꣡तिः सि꣡न्धूना᳐म् भ꣡वन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पतिः॑ । सिन्धू॑नाम् । भव॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -78,7 +78,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एषः** सोमः **रुक्मिभिः** अध्वर्वाम्दिभिः सह **ईयते** गच्छति। कीदृश एषः । **वाजी** वेजनवान् **शुभ्रेभिः** शुभ्रैर्दीप्तैः  **अंशुभिः** विशिष्टः । अथवा रुक्मिभिरित्येतदप्यंशुविशेषणम् । **सिन्धूनां** स्यन्दमानानां रसानां **पतिः** **भवन्** य ईयत इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,33 +89,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Golden brilliant rays: rukmībhiḥ may also be interpreted as: 'he proceeds along with the priests, vigorous with brilliant rays'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, a prizewinning horse, speeds with his beautiful bright shoots, becoming the lord of the rivers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The aṃśú- here is in the first instance the shoots of the soma plant, the usual sense of this stem, but I think a possible secondary sense is the tufts of wool on the fleece filter, which can resemble shoots of vegetation. In the former case the instr. expresses accompaniment, in the latter instr. of path-along-which. See the instr. in 1a (áṇvyā), 2b (pathā́), and 6b (páruṣā), which all refer to the fleece along which soma journeys.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He moves, a vigorous Steed, adorned with beauteous rays of shining gold,  
      Becoming Sovran of the streams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser schießt als Preisrenner mit den goldgeschmückten strahlenden Zweigen, den Strahlen dahin, indem er der Herr der Ströme wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit goldnen Strahlen eilet er, mit glänzenden, das schnelle Ross, Er, welcher Herr der Ströme ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот завоеватель награды бросается  
 Со (своими) сверкающими прекрасными стеблями,  

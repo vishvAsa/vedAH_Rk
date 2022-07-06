@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡गं धि꣡यं वाज꣡यन्तः पु꣡रंधिं  
 न꣡राशं꣡सो ग्ना᳐꣡स्प꣡तिर् नो अव्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रिया꣡ देव꣡स्य सवितुः꣡ सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ॒ऽअ॒ये । वा॒मस्य॑ । स॒म्ऽग॒थे । र॒यी॒णाम् । प्रि॒याः । दे॒वस्य॑ । स॒वि॒तुः । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhagaṃ* ← *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, masculine
@@ -108,7 +108,7 @@ genre M
 भगम्भजनीयन्धियन्ध्यातव्यं पुरन्धिम्पुरस्यधारयितारं बहुप्रज्ञंवासवितारं पुरन्धिर्बहुधीरितियास्कः । वाजयन्तः वाजिनम्बलिनङ्कुर्वन्तः विभक्तिव्यत्ययः नः स्तुवतोस्मान् नराशंसः नरैः शंसनीयः ग्नाः पतिः देवपत्नीनाम्पतिः छन्दसाम्पतिर्वा तथाचश्रूयते—छन्दांसिवैग्नाइति उतग्नाव्यन्तुदेवपत्नीरितिच । सविताश्रव्याः अव्यात् किञ्च वामस्यधनस्यरयीणाम्पशूनाञ्च तथाचश्रूयते—पशवोवैरयिरिति । आयेआगमनेमङ्गथेसङ्गमनेचनिमित्ते देवस्य द्योतमानस्यसवितुःप्रेरकस्य वयम्प्रियाःस्याम भवेम ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ genre M
 The protector of the wives of the gods: gnāspati, devatnīnām patīn; or, gnaḥ = the metres of the **Vedas** (RV. 5.46.8)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As (we) arouse Fortune, Insight, and Plenitude—Praise of Men, the  husband of the Wives, should help us—  
 might we be dear to god Savitar at the approach of a desirable thing  and at the gathering of riches.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner points out (n. 10a), the three divinized principles in pāda a—Good Fortune, Insight, and Plenitude—are what the poet needs for success.
 
@@ -138,23 +138,23 @@ This verb, avyāḥ, is a bit of a problem. It is isolated in the averbo of the 
 As for the point of the pāda: it is possible that the arousing of the three principles in pāda a reminds the poet that he needs the help of the ritual fire (if Narāśaṃsa is identified with Agni here). Perhaps gnā́spátiḥ is invoked because two of the three principles are female. But this seems like groping in the dark.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May they who strengthen bliss, and thought and wisdom, and the Dames' Lord and Narasamsa aid us.  
      That good may come to us and wealth be gathered, may we be Savitar the God's beloved.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem wir Bhaga, die Dhi, die Purandhi aneifern - Narasamsa, der Herr der Götterfrauen, möge uns dabei helfen - möchten wir die Lieblinge des Gottes Savitri sein, wann Gut einkommt und Reichtümer sich ansammeln.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Glück, Andacht, Reichthum mögen wir beeilen, der Herr der Frauen Narāçana helf' uns; wo Gut sich zeigt, und wo sich Reichthum anhäuft, da sein in Savitars, des Gottes, Huld wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стремясь покорить Бхагу, Дхи, Пурамдхи –  
 Да поможет нам Нарашанса, повелитель божественных жен! –  

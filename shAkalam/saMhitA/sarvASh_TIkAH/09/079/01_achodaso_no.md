@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अचोद꣡सो नो धनुवन्तु इ꣡न्दवः  
 प्र꣡ स्वाना꣡सो° बृह꣡द्दिवेषु ह꣡रयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अर्यो꣡ नशन्त स꣡निषन्त नो धि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । च॒ । नश॑न् । नः॒ । इ॒षः । अरा॑तयः । अ॒र्यः । न॒श॒न्त॒ । सनि॑षन्त । नः॒ । धियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acodaso* ← *acodasaḥ* ← *acodas*
 - \[noun\], nominative, plural, masculine
@@ -117,36 +117,36 @@ genre M
 **अचोदसः** अचोदना अनन्यप्रेरिताः **इन्दवः** सोमाः **नः** अस्माकं **प्र** **धन्वन्तु** प्रगच्छन्तु । धन्वतिर्गतिकर्मा। कुत्र। **बृहद्दिवेषु** प्रभूतदीप्तिषु यागेषु निमित्तेषु । अथवा बृहद्दिवकुलजेषु मध्ये । न इति संबन्धः । कीदृशा इन्दवः । **सुवानासः** सूयमानाः **हरयः** हरितवर्णाः । किंच **नः** अस्मभ्यं ये च **इषः** अन्नस्य **अरातयः** अदातारः सन्ति ते **च** **वि** **नशन्** विनश्यन्तु । तथा **अर्यः** अरयोऽपि **नशन्त** विनश्यन्तु। **सनिषन्त** संभजन्तु च **नो** **धियः** अस्मदीयानि कर्माणि देवा अस्मत्प्रियभूता वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the spontaneous **Soma**-juices flow to us at the brilliant (sacrifices), green-tinted, effused; may they be destroyed who are the withholders of food from us; may (our) foes be destroyed; may (the gods) enjoy our pious acts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Without impulsion let our tawny drops run, forth to those dwelling in  lofty heaven, when they are pressed.  
 If hostilities will reach our refreshments, those of the stranger will go to  destruction. Our insightful thoughts will prevail.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SPONTANEOUS let our drops of Soma juice flow on, pressed, golden-hued, among the Gods of lofty heaven.  
      Perish among us they who give no gifts of food! perish the godless! May our prayers obtain success.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Ansporn sollen die Säfte uns rinnen, die goldgelben Falben bei den Brihaddiva´s ausgepreßt. Wenn Mißgunst unsere Speisegenüsse erreicht, unsere Gebete sollen den Gewinn davontragen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es mögen eilen unsre Indu's ausgepresst, die goldnen Rosse götterwärts unangespornt, Die Frevler mögen nicht erlangen unser Gut, vergehn die Feinde, unser Bitten sei erhört.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть потекут к нам без понуканий капли,  
 Выжатые у (людей) Брихаддива, золотистые!  

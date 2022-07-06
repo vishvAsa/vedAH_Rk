@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ वो देव꣡म् अग्नि꣡भिः सजो꣡षा  
 य꣡जिष्ठं दूत꣡म् अध्वरे꣡ कृणुध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡पुर्मूर्धा घृता᳐꣡न्नः पवाकः꣡+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । मर्त्ये॑षु । निऽध्रु॑विः । ऋ॒तऽवा॑ । तपुः॑ऽमूर्धा । घृ॒तऽअ॑न्नः । पा॒व॒कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -124,36 +124,36 @@ genre M
 हे देवाः **वः** यूयं **देवं** द्योतमानम् **अग्निभिः** अन्यैरग्निभिः **सजोषाः** सजोषसं सहितम् । द्वितीथार्थे प्रथमा । **यजिष्ठं** यष्टृतमम् **अग्निम्** **अध्वरे** कौटिल्यरहिते यज्ञे **दूतं** **कृणुध्वं** कुरुत । **यः** अग्निर्देवोऽपि सन् **मर्त्येषु** **निध्रुविः** नितरां ध्रुवस्तिष्ठति **ऋतावा** यज्ञवान् सत्यवान् वा **तपुर्मूर्धा** तापकतेजाः **घृतान्नः** **पावकः** शोधकश्च भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Appoint (gods) the most adorable, divine **Agni**, consentient with (all other) fires, your messenger at thesacrifice; him who is permanently present among men, the observer of truth, who is crowned with flame, thepurifier, whose food is butter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make the god Agni along with the fires your best sacrificing messenger  in the rite—  
 he who is firmly established among mortals and possessing the truth,  the pure one with burning head, with ghee as his food.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ASSOCIATE with fires, make your God Agni envoy at sacrifice, best skilled in worship,  
      Established firm among mankind, the Holy, flame-crowned and fed with oil, the Purifier.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Machet den Gott Agni im Verein mit den anderen Agni´s, den Bestopfernden, zu eurem Boten bei dem Gottesdienst, der bei den Sterblichen seßhaft ist, der Wahrhaftige, Glutköpfige, Schmalzessende, Reine!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit euren Feuern machet euch Gott Agni zum Boten, der beim Fest am besten opfert, Der bei den Menschen treugesinnt und heilig mit Glut am Haupte flammend Butter speiset.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бога Агни в единении с (другими) Агни  
 Лучше всех жертвующего, сделайте вашим вестником на обряде,  

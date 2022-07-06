@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भोजा꣡य अ꣡श्वं स꣡म् मृजन्ति आशु꣡म्  
 भोजा꣡यास्ते कनि꣡या शु꣡म्भमाना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रिष्कृतं देवमाने꣡व चित्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 भो॒जस्य॑ । इ॒दम् । पु॒ष्क॒रिणी॑ऽइव । वेश्म॑ । परि॑ऽकृतम् । दे॒व॒मा॒नाऽइ॑व । चि॒त्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhojāyāśvaṃ* ← *bhojāya* ← *bhoja*
 - \[noun\], dative, singular, masculine
@@ -122,37 +122,37 @@ popular
 **भोजाय** दात्रे **आशुं** शीघ्रगामिनम् **अश्वं** **सं** **मृजन्ति** । परिचारकाः सम्यगलंकुर्वन्ति । ‘ मृजू शौचालंकारयोः' । तथा **कन्या** । कन्यात्वेनात्र संनिकर्षादभिनवं यौवनं लक्ष्यते । अभिनव यौवना **शुम्भमाना** शरीरावयवविशेषशोभया वस्त्राद्यलंकारशोभया च शोभमाना स्त्री तस्मै **भोजाय** दात्रे **आस्ते** । तथा **भोजस्य** दातुरेव हृदयाह्लादकरं **वेश्म** गृहं भवति । कीदृशम् । पुष्करिणीव' । पुष्कराणि पद्मानि यस्याः सन्तीति पुष्करिणी सरसी । सा यथा पद्महंसादिभिरलंकृता भवति तद्वत् **परिष्कृतं** वितानादिभिरलंकृतम् ॥ परिपूर्वस्य करोतेर्भूषणार्थे संहितायां सुडागमः । ‘ परिनिविभ्यः' इति सुटः षत्वम् । ‘ गतिरन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥ तथा **देवमानेव'** । सुपां सुलुक् । इति प्रथमैकवचनस्याकारः ॥ देवमानमिव देवयानमिव **चित्रं** मनोहरं वेश्म तस्य भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Saramā**). I recognize not fraternity nor sisterhood; **Indra** and the terrible **Aṅgirasas** know (mykindred); my (masters) desiring the cattle overshadowed (yoru habitation) when I came; depart hence, **Paṇis** to adistant (spot).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the benefactor they groom the swift horse; for the benefactor the  maiden sits waiting, making herself beautiful.  
 This dwelling of the benefactor is like a lotus-pond, adorned and  
 shimmering like the palaces of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They deck the fleet steed for the bounteous giver: the maid adorns herself and waits to meet him.  
      His home is like a lake with lotus blossoms, like the Gods' palaces adorned and splendid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für den Gastfreien putzen sie das schnelle Roß, für den Gastfreien harren daheim die sich schön machende Jungfrau. Dieses Haus des Gastfreien ist wie ein Lotusteich, wie ein wunderbarer Götterpalast ausgestattet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Freigiebigen schmückt man das schnelle Ross aus; des Freigiebigen harret die glänzend geschmückte Jungfrau; dem Freigiebigen ist dies sein Haus wie ein Lotusteich, glänzend geschmückt wie eine Götterwohnung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для щедрого начинают быстрого коня.  
 Щедрого сидит (и ждет) украшающая себя девица.  

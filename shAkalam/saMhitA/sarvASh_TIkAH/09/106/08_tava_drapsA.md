@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व द्रप्सा꣡ उदप्रु꣡त  
 इ꣡न्द्रम् म꣡दाय वावृधुः  
 तुवां꣡ देवा꣡सो अमृ꣡ताय क꣡म् पपुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 त्वाम् । दे॒वासः॑ । अ॒मृता॑य । कम् । प॒पुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -92,21 +92,21 @@ genre M
 **उदप्रुतः** वसतीवर्याख्यमुदकं प्रति गच्छन्तः । यद्वा । उदकस्य निर्गमयितारः। **तव** स्वभूताः **द्रप्साः** द्रुतगामिनो रसाः **मदाय** मदार्थम् **इन्द्रं** **वावृधुः** वर्धयन्ति । ततः **देवासः** देवा इन्द्रादयः **कं** सुखकरं **त्वाम्** **अमृताय** अमरणार्थं 'पपुः पिबन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your drops, goint to the water, have exalted **Indra** to exhilaration; the gods have quaffed you, the delighter, for immortality.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your droplets, swimming in water, have strengthened Indra for  
 exhilaration.  
 The gods have drunk you for immortality
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -116,23 +116,23 @@ Because of the distribution of word boundaries, the first two vss. of this tṛc
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy drops that swim in water have exalted Indra to delight:  
      The Gods have drunk thee up for immortality.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine im Wasser schwimmenden Tropfen haben den Indra zum Rausche gestärkt; dich haben die Götter zur Unsterblichkeit getrunken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Tropfen dein, von Flut umspült, den Indra stärken sie zum Rausch; Zur ew'gen Dauer haben Götter dich geschlürft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твои капли, плавающие в воде,  
 Усилили Индру для опьянения.  

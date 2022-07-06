@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡म् ऊ नु꣡ कवि꣡तमस्य माया꣡म्  
 महीं꣡ देव꣡स्य न꣡किर् आ꣡ दधर्ष  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आसिञ्च꣡न्तीर् अव꣡नयः समुद्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 एक॑म् । यत् । उ॒द्ना । न । पृ॒णन्ति॑ । एनीः॑ । आ॒ऽसि॒ञ्चन्तीः॑ । अ॒वन॑यः । स॒मु॒द्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -119,7 +119,7 @@ genre M
 **कवितमस्य** प्रकृष्टप्रज्ञस्य **देवस्य** द्योतमानस्य स्तुत्यस्य वा वरुणस्य **इमां** सर्वप्रसिद्धां **महीं** महतीं **मायां** प्रज्ञां **नकिः** नैव **आ** **दधर्ष** न हिनस्ति कश्चिदपि । **ऊ** **नु** इति पूरणौ। **यत्** यस्मात् **एकं** **समुद्रम्** **उद्ना** उदकेन **न** **पृणन्ति** न पूरयन्ति । काः। **एनीः** एन्यः शुभ्रा गमनशीला वा **आसिञ्चन्तीः** उदकमासेचयन्त्यः **अवनयः** नद्यः । बह्व्यो नद्यः सर्वदोदकेन पूरयन्त्योऽपि नैकमपि समुद्रं पूरयन्तीति । इदं वरुणस्य महत् कर्म इति । अत्र अन्तरिक्षविस्तारादि समुद्रापूरणपर्यन्तं कर्म परमेश्वरस्यैवोचितं न वरुणस्येति न वाच्यं तस्य वरुणादिरूपावस्थानात् । एष ब्रह्मेत्यादिश्रुतेः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,30 +130,30 @@ genre M
 These wonderful acts are not the acts of **Varuṇa**, but of **Parameśvara**, the Supreme Being, from his existin gin the forms of Varuṇa and others, **karma** parameśvarasyaiva ucitam na varuṇasya tasya varuṇādirūpavasthānāt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And now no one defies this great cunning of the foremost sage poet,  the god:  
 that the mottled streams, pouring out, do not fill the single sea  
 with water.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 None, verily, hath ever let or hindered this the most wise God's mighty deed of magic,  
      Whereby with all their flood, the lucid rivers fill not one sea wherein they pour their waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch dieses große Kunststück des weisesten Gottes wagt keiner anzutasten, daß die glitzernden Ströme, wenn sie sich ergießen, das eine Meer mit ihrem Wasser nicht füllen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch dieses grosse Wunderwerk des Gottes, des weisesten, hat keiner noch gehindert, Dass alle Ströme die in Eile rinnen das eine Meer nicht füllen mit den Wogen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И на это великое чудо самого вдохновенного  
 Бога никто не посягнет.  

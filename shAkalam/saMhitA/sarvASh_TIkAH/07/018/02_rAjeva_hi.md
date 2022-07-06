@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡जेव हि꣡ ज꣡निभिः क्षे꣡षि एव꣡  
 अ꣡व द्यु꣡भिर् अभि꣡ विदु꣡ष् कविः꣡ स꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवायतः꣡ शिशीहि राये꣡ अस्मा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पि॒शा । गिरः॑ । म॒घ॒ऽव॒न् । गोभिः॑ । अश्वैः॑ । त्वा॒ऽय॒तः । शि॒शी॒हि॒ । रा॒ये । अ॒स्मान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rājeva* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
@@ -129,7 +129,7 @@ genre M
 हे इन्द्र त्वं **जनिभिः** जायाभिः **राजेव** **द्युभिः** दीप्तिभिः सह **क्षेष्येव** निवसस्येव। **हि** इति पूरणः । किंच हे मघवन् धनवन्निन्द्र **विदुः** विद्वान् **कविः** क्रान्तकर्मा क्रान्तप्रज्ञो वा **सन्** **गिरः** स्तोतॄनस्मान् **पिशा** रूपेण हिरण्यादिना वा **गोभिः** च **अश्वैः** च **अभि** अभितः रक्ष । **त्वायतः** त्वत्कामान् **अस्मान्** **राये** **शिशीहि** धनार्थं च संस्कुरु॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,13 +140,13 @@ genre M
 With the precious metals: piśā, silver or gold, and the like; rūpeṇa hiraṇyādinā vā; **rūpa** mayalso mean beauty
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you are simply dwelling peacefully like a king with his wives,  help (us) throughout the days, being preeminent as a wise poet.  
 O bounteous one, ornament our hymns with cows and horses; whet us,  who are devoted to you, for wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As I interpr. it, the first hemistich presents us with a causal hí clause followed by an imperatival non-sequitur. What is immediately striking is that it is emphasized that Indra is dwelling in peace and domestic harmony -- not always the first picture of Indra we conjure up -- in a hymn that is about to become very very martial. In the imperatival clause of b, he is also identified as a wise kaví, again not a militant role for Indra. Perhaps the connection between the causal hí clause and the imperatival ones that follow is that Indra has the leisure to pay due attention to our hymns and reward our poetic offerings (which, as a kaví, he has the connoisseurship to appreciate) with aid and material goods.
 
@@ -167,23 +167,23 @@ Mark Hale (in “Preliminaries to the Study of the Relationship between Syntax a
 The cows and horses attributed to Indra in 1c reappear here in c as his ornamental gifts to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For like a King among his wives thou dwellest: with glories, as a Sage, surround and help us.  
      Make us, thy servants, strong for wealth, and honour our songs wirth kine and steeds and decoration.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wie ein König mit seinen Frauen lebst du allewege behaglich - sei mit jedem neuen Tag gnädig, du der Seher, der die Wissenden übertrifft. Zeichne die Lobreden mit Rindern, Rossen aus, du Freigebiger; sporne uns, deine Anhänger, zu Reichtum an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wie ein König herrschst du mit den Frauen, sei stets uns hold, berühmt als kund'ger Weiser; Die Lieder lohn mit Rind und Ross, o reicher, und führ zu Reichthum uns, die dir ergebnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь живешь-то ты, словно царь с женами –  
 Будь милостив (к нам) день за днем, мудрый провидец, (всех) превосходящий!  

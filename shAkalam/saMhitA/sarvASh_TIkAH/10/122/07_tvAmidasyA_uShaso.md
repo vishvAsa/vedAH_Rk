@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् इ꣡द् अस्या꣡ उष꣡सो वि꣡उष्टिषु  
 दूतं꣡ कृण्वाना꣡ अयजन्त मा꣡नुषाः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡जियम् अग्ने निमृज꣡न्तो अध्वरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वाम् । दे॒वाः । म॒ह॒याय्या॑य । व॒वृ॒धुः॒ । आज्य॑म् । अ॒ग्ने॒ । नि॒ऽमृ॒जन्तः॑ । अ॒ध्व॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -118,36 +118,36 @@ genre M
 **अस्याः** इदानीं दृश्यमानायाः **उषसः** **व्युष्टिषु** विवासनेषु प्रभातेषु सत्सु हे **अग्ने** **त्वामित्** त्वामेव देवानां **दूतं** **कृण्वानाः** कुर्वाणाः **मानुषाः** मनुष्याः । **अयजन्त** यजन्ति । सर्वदेवात्मकं त्वामेव यजन्तीत्यर्थः । तथा **देवाः** अपि **त्वां** महयाय्याय पूजायै ॥ ‘ मह पूजायाम् । अस्मादौणादिको भाव आय्यप्रत्ययः ॥ आत्मनः पूजार्थं **वावृधुः** वर्धयन्ति । किं कुर्वन्तः । **अध्वरे** । ध्वरो हिंसानिमित्तः प्रत्यवायः । तद्रहिते यागे **आज्यम्** । उपलक्षणमेतत् । आज्योपलक्षितं सर्वं हविः **निमृजन्तः** त्वयि निमार्जयन्तः । प्रक्षिपन्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Men worshipped you, **Agni**, at the opening of the present dawn, appointing you their messenger to thegods; the gods have magnified you for their adoration, sprinkling butter upon you at the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just to you, at the brightenings of this dawn, did the sons of Manu  perform sacrifice, on making you their messenger.  
 You have the gods strengthened to be magnified, rubbing melted butter  down (on your body) at the ceremony, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who at flushing of this dawn appointed thee their messenger, these men have paid thee reverence.  
      Gods strengthened thee for work that must be glorified, Agni, while they made butter pure for sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich machten die Menschen bei Aufgang dieser Morgenröte zum Boten und opferten. Dich machten die Götter zu ihrer eigenen Verherrlichung groß, indem sie die Schmelzbutter dem Opfer zuwendeten, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim ersten Leuchten dieser Morgenröthe dich zum Boten machend ehrten dich die Sterblichen; Die Götter stärkten dich zu grosser Herrlichkeit, zum Opfer bringend reine Butter, Agni, dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Делая тебя вестником при вспышках  
 Этой зари, люди приносили жертвы.  

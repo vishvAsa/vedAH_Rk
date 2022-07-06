@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सदापृणो꣡ यजतो꣡ वि꣡ द्वि꣡षो वधीद्  
 बाहुवृक्तः꣡ श्रुतवि꣡त् त꣡र्यो वः स꣡चा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡द् ईं गण꣡म् भ꣡जते सुप्रया꣡वभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒भा । सः । वरा॑ । प्रति॑ । ए॒ति॒ । भाति॑ । च॒ । यत् । ई॒म् । ग॒णम् । भज॑ते । सु॒प्र॒याव॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sadāpṛṇo* ← *sadāpṛṇaḥ* ← *sadāpṛṇa*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 **सदापृणः** सर्वदा दानशील एतन्नामा **यजतः** यष्टा च **बाहुवृक्तः** बाहुभ्यां वृक्तदर्भश्च **श्रुतवित्** श्रुतस्य वेत्ता च **तर्यः** च । एतेषां पञ्चानां परस्परापेक्षया प्रत्येकमेकवचनम् । सः सः ऋषिः **द्विषः** शत्रून् **वि** **वधीत्** हिंस्यात् **वः** युष्माकं **सचा** सहितः । युष्माभिः सहित इत्यर्थः । **सः** ऋषिः **वरा** श्रेष्ठौ **उभा** उभौ इहलोकपरलोकविषयौ कामौ **प्रत्येति** अभिगच्छति । **भाति** **च** । **यत्** यस्मात् **ईम्** एनं **गणं** देवसंघं **सुप्रयावभिः** सुष्ठु प्रकर्षेण मिश्रयद्भिः स्तोत्रैः **भजते** तस्मादेवं भवतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,7 +137,7 @@ genre M
 Sadāpṛṇa... names of ṛṣis
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one worthy of the sacrifice, always granting, has smashed away  hatreds. “Twisted” (here) by the arms [=activity (of you, the priests)],  finding (the praise) that is heard, he is surpassingly in partnership  
 with you.  
@@ -145,7 +145,7 @@ He [=Indra] comes in response to both the choice ones [=Agni and
 Soma], and he is radiant when he has a share in the troop [=Maruts]  with their (chariots?) that drive forth easily.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As I just said, I think this vs. represents the epiphany of Indra, come to drink the just-prepared soma. Although, in keeping with the practice of the hymn, he is not named, the presence of a new actor in the hymn is strongly signaled by the verb phrase in pāda a: ví dvíṣo vadhīt: Indra is almost always the subject of verb forms to the root √vadh. Although the subject of pāda a is also called yajatá-, a word used in the two preceding vss. (10b, 11b) of Agni/Soma (in my opinion), ‘worthy of the sacrifice’ is a generic descriptor of gods, is used elsewhere of Indra (e.g., II.14.10), and can be so applied here. And ‘always giving’ (sadāpṛṇa, though a hapax, is a good description of Indra -- or at least as we wish him to be.
 
@@ -154,23 +154,23 @@ In b Geldner and Renou take the three words bāhuvṛktáḥ śrutavít tárya�
 (‘surpassingly’) and the predicate is the vaḥ sácā “(is in) partnership with you.” For another predicated pāda-final ENC + sácā see VIII.92.29 ádhā cid indra me sácā “And so, Indra, (you are) in partnership with me.” The second hemistich begins with an explicitly marked dual ubhā́… várā, separated by a nom. sg. sá. Here we have the triad that has just, in this vs., interrupted the fused identification of Agni and Soma. With Indra represented by sá, the two other gods are for the first time in the hymn separated into a grammatical pair (though see the forerunner anyám-anyam in 11c), rather than sharing grammatically singular descriptors applicable to each. (For ubhā́… várā referring to animate beings, see X.85.9, where the two are the Aśvins -- though in that case várameans ‘wooer’.) Indra “comes in response” (práty eti) to these two, i.e., to the ritual fire where offerings will be made to him and to his own ritual drink. The second verb bhā́ti ‘is radiant’ is not a typical Indraic verb, but pāda d with its reference to the gaṇá- ‘troop, throng’ easily brings the rhetoric back to Indra and his close ties with the Maruts, so often identified as a gaṇá-. The lexeme prá √yā, found here in suprayā́van- ‘driving forth easily’, is also particularly associated with the Maruts; cf. III.29.15 marútām iva prayā́ḥ, and verbal instantiations like I.37.14 prá yāta, also I.165.13, V.53.12, 58.6. I've supplied 'chariots' because rátha- several times used in a simile with pra √yā (IV.19.5, VII.74.6, IX.69.9).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sadaprna the holy, Tarya, Srutavit, and Bahuvrkta, joined with you, have slain the foes.  
      He gains his wish in both the worlds and brightly shines-when he adores the host with well-advancing steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der stets spendende Yajata möge die Feinde zersprengen. Bahuvrikta, Srutavid, Tarya sind mit euch. Beiden Wünschen kommt er entgegen und strahlt, sobald er einer Schar mit guten Anführern teilhaft wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der stets spendende, ehrwürdige jage die Feinde hinweg, Bahuvrikta, ^rutavid, Tarja mit euch vereint, er geht entgegen beiden ausgedehnten Schlachtreihen [der Feinde] und thut sich hervor, wenn er die Heerschar vertheilt mit den schön vorangehenden [Führern].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всегда дарящий Яджата пусть разбивает врагов!  
 Бахуврикта, Шрутавид, Тарья – с вами вместе.  

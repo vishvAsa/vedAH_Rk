@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रिया꣡ तष्टा꣡नि मे कपि꣡र्  
 वि꣡अक्ता वि꣡ अदूदुषत्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 शिरः॑ । नु । अ॒स्य॒ । रा॒वि॒ष॒म् । न । सु॒ऽगम् । दुः॒ऽकृते॑ । भु॒व॒म् । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *priyā* ← *priya*
 - \[noun\], accusative, plural, neuter
@@ -125,7 +125,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 **मे** मह्यमिन्द्राण्यै **तष्टानि** यजमानैः कल्पितानि **प्रिया** प्रियाणि **व्यक्ता** व्यक्तान्याज्यैर्विशेषेणाक्तानि हवींषि कश्चित् वृषाकपेर्विषये वर्तमानः **कपिः** **व्यदूदुषत्** दूषयामास । ततोऽहम् **अस्य** तत्कपिस्वामिनो वृषाकपेः **शिरो** **नु** क्षिप्रं **राविषं** लुनीयाम् । **दुष्कृते** दुष्टस्य कर्मणः कर्त्रे वृषाकपयेऽस्मै **सुगं** सुखं न **भुवम्** अहं न भवेयम् । अस्मै सुखप्रदात्री न भवामीत्यर्थः । अस्या मम पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,30 +136,30 @@ popular;; epic anuṣṭubh (525);; repeated line
 The ape: **kapi** = ape; also, a shorter form of **Vṛṣākapi**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indrāṇī:] “The monkey has spoiled my dear (well-)fashioned and  decorated (private parts).  
 I will break his head. I will not be easy-going for a bad actor.”  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Kapi hath marred the beauteous things, all deftly wrought, that were my joy.  
      In pieces will I rend his head; the sinner's portion sball be woo. Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Meine lieben gedrechselten, bemalten Sachen hat der Affe besudelt. Seinen Kopf will ich gleich zerschlagen und dem Übeltäter nicht schön kommen. - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ihm seinen Kopf zerschmettern, nicht soll es dem Uebelthäter gut ergehn.« Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

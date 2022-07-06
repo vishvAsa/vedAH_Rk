@@ -6,7 +6,7 @@ ChandaH = "चतुष्पदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡युज्रन् त इन्दर+ विश्व꣡कृष्टीर्  
 विदाना꣡सो निष्षि꣡धो मर्तियत्रा꣡  
@@ -14,7 +14,7 @@ ChandaH = "चतुष्पदा विराट्"
 सु꣡वर्मीळ्हस्य प्रध꣡नस्य सातउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒रुता॑म् । पृ॒त्सु॒तिः । हास॑माना । स्वः॑ऽमीळ्हस्य । प्र॒ऽधन॑स्य । सा॒तौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayujran* ← *yuj*
 - \[verb\], plural, Root aorist (Ind.)
@@ -95,19 +95,19 @@ genre M
 पूर्वमन्त्रे मरुतामिन्द्रसाहाय्यमुक्तम् । अत्रेन्द्रस्य मरुत्साहाय्यमुच्यते । हे **इन्द्र** **ते** मरुतः **अयुज्रन्** युज्यन्ते त्वया सुक्ता भवन्तीत्यर्थः। कीदृशास्ते । **विश्वकृष्टीः** विश्वकृष्टयो राज्यत्वेन सर्वजनवन्तः किंच **मर्त्यत्रा** मर्त्येषु मर्त्यार्थं निष्षिधः निःशेषेणोदकस्य सेत्तॄन् मेघान् **विदानासः** जानानाः। किंच येषां **मरुतां** **पृत्सुतिः** सेना स्वर्मीळ्हस्य **प्रधनस्य** सुखसेक्तुः । प्रकृष्टधनवतो वृत्रादिसंग्रामस्य  **सातौ** लाभे जये निमित्तभूते सति सेना **हासमाना** हासं कुर्वती हर्षयुक्ता भवति । यद्वा । सुखेन मिह्यते जलं यस्मिन् तादृशस्य प्रधनस्य प्रकृष्टोदकाख्यधनसाधनस्य संग्रामस्य सातौ ॥ मेघभेदनायेति यावत् । येषामीदृशी सेनास्ति ते मरुतोऽयुज्रन्निति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rulers over all men, and impelling towards man the water-shedding clouds, they are united, **Indra**, (with you); the host of **Maruts** is delighted by (your) acquisition of heaven-bestowing wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have hitched themselves up, Indra—your (Maruts), who know as  their own the tributes stemming from all communities among mortals. The battle-thrust of the Maruts is racing ahead in the winning of the  prize-contest whose reward is the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Just as the standard tr. do not notice naḥ in 1c, they are also silent on te in 2a.
 
@@ -118,23 +118,23 @@ The simplest way to construe cd is to take hā́samānā as a predicated pres. p
 (so Geldner), but it is possible with Renou to supply a verb (“va,” in his case) or with Witzel Gotō to take it as a nominal clause of possession (“Den Marut gehört Kampfaktion …”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The various doings of all mortal people by thee are ordered, in thy wisdom, Indra.  
      The host of Maruts goeth forth exulting to win the light-bestowing spoil of battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Marut haben angespannt, o Indra, da sie sich der allgemeinen Dankesansprüche an die Sterblichen bewußt sind: die Schlachtreihen der Marut, die um den Gewinn des ersten Siegerpreises, dessen Lohn das Sonnenlicht ist, wettläuft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du hast, o Indra, die erlangten Güter für alle Völker zugeführt den Menschen; Es eilt der Maruts kampfgeübte Heerschar um schönes Gut als Kampfpreis zu erbeuten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти (Маруты) запрягли (колесницы), о Индра, (они,) находящие  
 Вознаграждения от всех народов в мире смертных.  

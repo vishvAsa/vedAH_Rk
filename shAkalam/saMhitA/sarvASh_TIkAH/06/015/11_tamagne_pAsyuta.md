@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अग्ने पासि उत꣡ त꣡म् पिपर्षि  
 य꣡स् त आ꣡नट् कव꣡ये शूर धीति꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡म् इ꣡त् पृणक्षि श꣡वसोत꣡ राया꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 य॒ज्ञस्य॑ । वा॒ । निऽशि॑तिम् । वा॒ । उत्ऽइ॑तिम् । वा॒ । तम् । इत् । पृ॒ण॒क्षि॒ । शव॑सा । उ॒त । रा॒या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -146,7 +146,7 @@ genre M
 हे **अग्ने** **तं** पुरुषं **पासि** रक्षसि । **उत** अपि च **तं** **पिपर्षि** कामैः पूरयसि । **यः** पुरुषो हे **शूर** शौर्यवन्नग्ने **कवये** क्रान्तदर्शनाय **ते** तुभ्यं त्वदर्थं **धीतिं** कर्म स्तुतिं वा **आनट्** प्राप्नोति । यद्वा ।  ‘ क्रियाग्रहणं कर्तव्यम् ' इति कर्मणः संप्रदानत्वाच्चतुर्थी । कविं त्वां धीतिमानट् प्रापयति । तं पासीत्यन्वयः । अपि च **यज्ञस्य** यागस्य **वा** तत्साधनभूतस्य हविषो वा **निशितिं** **वा** ।निशितिः संस्कारः । तं वा **उदितिम्** उद्गमनं **वा** आनट् प्रापयति **तमित्** तमेव **शवसा** बलेन **पृणक्षि** पूरयसि । **उत** अपि च **राया** धनेन पूरयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -157,13 +157,13 @@ genre M
 Who effects: yañasya vā niśitim vā uditim vā: **saṃskāra**, perfection, accomplishment; udgamanam, going up or over, perhaps, finishing
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, o Agni, do you protect and him do you rescue, who has achieved  an insightful thought for you, the sage poet, o champion,  
 or (who has achieved) the “whetting” of the sacrifice, or its (proper)  outcome. Just him do you imbue with power and with wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is unusually conjunction-heavy, with utá in pāda a (conjoining clauses) and in d (conjoining nouns), and vā 3x in c. In fact there at first appear to be more vā’s than there are constituents to conjoin: yajñásya vā níśitiṃ vā-úditiṃ vā.
 
@@ -176,23 +176,23 @@ In c I assume that the verb is a gapped repetition of ā́naṭ. Klein tr. the s
 Note the complementary preverbs ní ‘down’ and úd ‘up’ in the conjoined níśitim … úditim. The latter word is not otherwise used as a ritual term; in all its other occurrences it is a loc. and refers to the rising of the sun. Here it seems to refer to the outcome or the progress of the sacrifice, though it could be more narrowly used for the “rising up” of the fire when it is kindled. This is probably the better interpr. because in 2 of the 4 occurrences of níśiti-, VI.2.5 and VIII.19.14, it is implicitly use of the fire.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, Agni, thou deliverest and savest who brings him prayer to thee the Wise, O Hero,  
      The end of sacrifice or its inception; yea, thou endowest him with power and riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Du schützest und führest den aus der Not, der dir, dem Seher, o Held, eine Dichtung fertig gebracht hat oder den Anreiz oder guten Ausgang des Opfers, den erfüllst du mit Macht und Reichtum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den schirmst du Agni, sicher ihn geleitend, wer dir, dem Seher, Andacht weiht, o starker; Des Opfers Anbruch oder Schluss herbeiführt, den auch erfüllst mit Kraft du und mit Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, охраняешь того, а также его спасаешь,  
 Кто добился успеха в произведении для тебя, поэта, о герой,  

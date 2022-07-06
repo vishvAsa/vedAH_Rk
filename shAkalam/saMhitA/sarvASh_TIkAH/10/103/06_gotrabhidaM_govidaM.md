@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गोत्रभि꣡दं गोवि꣡दं व꣡ज्रबाहुं  
 ज꣡यन्तम् अ꣡ज्म प्रमृण꣡न्तम् ओ꣡जसा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रं सखायो अ꣡नु सं꣡ रभध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒मम् । स॒ऽजा॒ताः॒ । अनु॑ । वी॒र॒य॒ध्व॒म् । इन्द्र॑म् । स॒खा॒यः॒ । अनु॑ । सम् । र॒भ॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gotrabhidaṃ* ← *gotra*
 - \[noun\], neuter
@@ -120,7 +120,7 @@ popular
 **गोत्रभिदम्** । गा उदकानि त्रायन्त इति गोत्रा मेघाः । यद्वा गौर्भूमिः । तां त्रायन्त इति गोत्राः पर्वताः। तेषां भेत्तारं **गोविदम्** उदकस्य लब्धारं **वज्रबाहुं** वज्रहस्तम्। 'प्रहरणार्थेभ्यः (पा. सू. २. २. ३६. ४) इति परनिपातः । **जयन्तं** जयनशीलम् **अज्म** गमनशीलं शत्रुबलम् **ओजसा** बलेन जयन्तं यद्वा अज्म आजिं जयन्तमोजसा बलेन **प्रमृणन्तं** शत्रूनभिभवन्तमीदृशं महानुभावम् **इमम्** इन्द्रं हे **सजाताः** सहोत्पन्ना योद्धारो यूयम् **अनु** वीरयध्वम् । एनमग्रतः कृत्वानु पश्चाद्वीरयध्वं वीरकर्मं युद्धं कुरुध्वम् । ‘शूर वीर विक्रान्तौ । वीरशब्दात् ‘तत्करोति तदाचष्टे इति णिच् । हे **सखायः** परस्परं सखिभूता यूयमिमम् **इन्द्रं** संरभमाणम् **अनु** **सं** **रभध्वम्**॥॥२२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,30 +133,30 @@ Breaker of mountains: or of clouds; or of **gotras** (a race of **asuras**);
 Gotrabhit = breaking into thecow-stall
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The splitter of the cowpen, the finder of cows, the one with the mace in  his arms, winning the course, pulverizing with his might—  
 show your heroism in imitation of that one, you kinfolks; pull  
 yourselves together in imitation of him, you comrades.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cleaver of stalls, kine-winner, armed with thunder, who quells an army and with might destroys it.-  
      Follow him, brothers! quit yourselves like heroes, and like this Indra show your zeal and courage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die Kuhställe aufsprengt, die Rinder ausfindig macht mit der Keule im Arm, der das Rennen gewinnt, mit Kraft zermalmt, ihm tut es an Tapferkeit gleich, ihr Clangenossen; an Indra haltet euch fest, ihr Freunde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht mit Macht vertilgend, Ihm folgend zeigt, o Brüder, euch als Helden, voll Eifer ahmt dem Indra nach, o Freunde!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ अस्तभ्नाद् रो꣡दसी मित्रो꣡ अ꣡द्भुतो  
 अन्तर्वा꣡वद् अकृणोज् ज्यो꣡तिषा त꣡मः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वैश्वानरो꣡ वि꣡श्वम् अधत्त वृ꣡ष्णियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि । चर्म॑णी इ॒वेति॒ चर्म॑णीऽइव । धि॒षणे॒ इति॑ । अ॒व॒र्त॒य॒त् । वै॒श्वा॒न॒रः । विश्व॑म् । अ॒ध॒त्त॒ । वृष्ण्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vy* ← *vi*
 - \[adverb\]
@@ -125,20 +125,20 @@ genre M
 **मित्रः** मित्रभूतः सर्वेषाम् **अद्भुतः** महान् आश्चर्यभूतो वा वैश्वानरोऽग्निः **रोदसी** द्यावापृथिव्यौ **व्यस्तभ्नात्** विशेषेण स्तम्भितवान् । यथाधो न पततस्तथा स्वकीयदेशे स्थापितवानित्यर्थः । तथा **ज्योतिषा** तेजसा **तमः** अन्धकारं च **अन्तर्वावत्** अन्तर्हितं तिरोहितम् **अकृणोत्** अकरोत् । वावदिति वातेर्गतिकर्मणो यङ्लुगन्तस्य रूपम् । अपि च **धिषणे** धारयित्र्यौ द्यावापृथिव्यौ **चर्मणीव** यथा पशोर्विशसिता द्वे चर्मणी शोषणार्थं प्रसारयति तथा **वि** **अवर्तयत्** विवृते विस्तृते अकरोत् । किं बहुना **वैश्वानरः** अयमग्निः **विश्वं** सर्वं वृष्ण्यं वीर्यम् **अधत्त** धत्ते धारयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The friend (of all), the wonderful (**agni**), has upheld heaven and earth; he has hidden darkness within light; he has spread out the two sustaining (worlds, heaven and earth), like two skins; **vaiśvānara** comprehends all (creaive) energy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He propped apart the two world-halves, as unerring envoy [/Mitra]. He  made the darkness pregnant with light.  
 He rolled out the two Holy Places [=world-halves] like skins. Vaiśvānara  assumed all bullish power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The cosmogonic activities of Agni Vaiśvānara continue here, but I would argue that they are instances of the daily creation of the cosmos by the light of the sun. The propping apart of the two world halves refers to the visual separation of earth and sky at the horizon at first light, and the rolling out of the two skins is a similar image, of the full extent of earth and sky revealed to sight at that time.
 
@@ -147,24 +147,24 @@ It is not entirely clear why Agni Vaiśvānara is called an “unerring ally” 
 The interpr. of pāda b is disputed because of disagreement about the sense and formation of antarvā́vat (also found in I.40.7). Geldner tr. the pāda as “er zerteilte die dazwischenliegende Finsternis durch das Licht” (almost identically also Oberlies Relig. I.191), presumably with the ‘between’ sense of antár nominalized with the complex suffix -vā́-vant-. Renou denies that the formation has a complex (or duplicate) suffix but rather considers it an imitation of arvāvát ‘nearby’, despite the difference in accent, and renders the word (in his note) as “un domaine intérieur (= invisible).” His tr. of the pāda is “il a fait que les ténèbres (devinssent) par la lumière un domaine-cachée.” So, he takes antár in the meaning ‘within’, but the further morphological analysis is unclear. Oldenberg (ad I.40.7) also sees the ‘within’ sense of antár here, but with a more plausible interpr. of the suffixal material — with the whole meaning ‘inhaltsvoll’ (that is, ‘having [something] within’). He also considers it is entirely or roughly synonymous with antárvant-. (Both of these views are also found in AIG II.2.893, and the whole is laid out with admirable clarity by Schmidt [Bṛhaspati und Indra 102]. Both AiG and Schmidt explain -vā́-vant- as pleonastic+++(=redundant)+++.) The second observation seems to me the most important clue: antárvant- is in fact only attested in the fem. antárvatī- (III.55.5, X.91.6) in the meaning ‘pregnant’. In both I.40.7 and our passage here the ‘pregnant’ sense is used metaphorically of non-females (kṣáya- ‘dwelling place’ in the former, támas- ‘darkness’ in the latter). (So also Schmidt; AiG doesn’t go quite this far.) One could speculate that the pleonastic+++(=redundant)+++ suffix is used because a non-fem. antárvant- would seem distinctly odd, and the addition of a second suffix attenuated this oddness. In our case, the antarvā́vat can directly modify neut. támaḥ; in I.40.7, since kṣáya- is masc., the connection is less direct. See comm. ad loc. In our passage this interpr. produces a striking image, of the darkness of night swelling with light as day breaks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wonderful Mitra propped the heaven and earth apart, and covered and concealed  
      the darkness with his light.  
      He made the two bowls part asunder like two skins. Vaisvanara put forth all his creative power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er stemmte beide Welthälften auseinander, der heimliche Mitra, er zerteilte die dazwischenliegende Finsternis durch das Licht. Die beiden Welten rollte er wie Felle auseinander, Vaisvanara eignete sich die volle Bullenstärke an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Himmel stützte und die Erd' er wunderbar, der Freund, und hüllte durch das Licht das Dunkel ein; Die beiden Welten wie zwei Decken trennte er; der Menschenhort erlangte alle Heldenkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он укрепил врозь два мира, (подобный) Митре, удивительный.  
 С помощью света он сделал мрак заключенным внутри.  

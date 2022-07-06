@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रत्नं꣡ हो꣡तारम् ई꣡डियं  
 जु꣡ष्टम् अग्निं꣡ कवि꣡क्रतुम्  
 अध्वरा꣡णाम् अभिश्रि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ध्व॒राणा॑म् । अ॒भि॒ऽश्रिय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pratnaṃ* ← *pratnam* ← *pratna*
 - \[noun\], accusative, singular, masculine
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **प्रत्नं** पुराणं **होतारं** देवानामाह्वातारम् **ईड्यं** स्तुत्यं **जुष्टं** प्रीतं सेवितं वा **कविक्रतुं** क्रान्तकर्माणम् **अध्वराणां** यज्ञानाम् **अभिश्रियम्** अभिश्रयितारमीड्यम् **अग्निम्** ईळे स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,29 +90,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The wise: kavikratum = krāntakarmaṇam (him by whom rites are performed; RV. 3.2.4 and 3.14.7,krāntaprajña, **sarvajña**; possessing wise might
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The age-old Hotar to be reverently invoked, enjoyable Agni, who has a  poet’s purpose,  
 the full glory of the ceremonies.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ancient Invoker, meet for praise, beloved Agni, wise and strong,  
      The visitant of solemn rites.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den ältesten Hotri, den zu berufenden, den beliebten Agni mit Sehersinn, den Oberherren der Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den alten Priester Agni, ihn, der preisenswerth und einsichtsvoll, willkommen unser Opfer schmückt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Древнего хотара, достойного призывов,  
 Любимого Агни с силой духа поэта,  

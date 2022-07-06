@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समानो꣡ म꣡न्त्रः स꣡मितिः समानी꣡  
 समान꣡म् म꣡नः सह꣡ चित्त꣡म् एषाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 समाने꣡न वो हवि꣡षा जुहोमि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स॒मा॒नम् । मन्त्र॑म् । अ॒भि । म॒न्त्र॒ये॒ । वः॒ । स॒मा॒नेन॑ । वः॒ । ह॒विषा॑ । जु॒हो॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samāno* ← *samānaḥ* ← *samāna*
 - \[noun\], nominative, singular, masculine
@@ -121,36 +121,36 @@ popular
 पूर्वोऽर्धर्चः परोक्षकृतः उत्तरः प्रत्यक्षकृतः । **एषाम्** एकस्मिन् कर्मणि सह प्रवृत्तानामृत्विजां स्तोतॄणां वा **मन्त्रः** स्तुतिः शस्त्राद्यात्मका गुप्तभाषणं वा **समानः** एकविधोऽस्तु । तथा **समितिः** प्राप्तिरपि **समानी** एकरूपास्तु ॥ ‘ केवलमामक° इत्यादिना समानशब्दात् ङीप् । उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वम् । तथा **मनः** मननसाधनमन्तःकरणं चैषां **समानम्** एकविधमप्यस्तु । **चित्तं** विचारजं ज्ञानं तथा **सह** सहितं परस्परस्यैकार्थेनैकीभूतमस्तु । अहं च **वः** युष्माकं **समानम्** एकविधं **मन्त्रम्** **अभि** **मन्त्रये** । ऐकविध्याय संस्करोमि । तथा **वः** युष्माकं स्वभूतेन **समानेन** साधारणेन **हविषा** चरुपुरोडाशादिना अहं **जुहोमि** ॥ तृतीया च होश्छन्दसि’ (पा. सू. २. ३. ३) इति कर्मणि कारके तृतीया ॥ वषट्कारेण हविः प्रक्षेपयामीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Common be the prayer of these (assembled worshippers), common be the acquisition, common thepurpose, associated be the desire. I repeat for you a common prayer, I offer for you with a common oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Common to them all is the solemn utterance, common the assembly,  common their thought along with their perception.  
 I (hereby) utter an utterance common to you all on your behalf; with an  oblation common to you all I offer on your behalf.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The place is common, common the assembly, common the mind, so be their thought united.  
      A common purpose do I lay before you, and worship with your general oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einig der Rat, einig die Versammlung, einig sei ihr Sinn, zusammenstimmend ihr Denken. Einträchtigen Rat rate ich euch an, mit einigem Opfer opfere ich für euch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und nach der Reihe bildete der Schöpfer Sonne dann und Mond, Den Himmel und die Erde dann, den Luftkreis und den Aetherraum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Единый совет, собрание единое,  
 Единая мысль, решение совместное у них.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रा꣡यन्ताम् इह꣡ देवा꣡स्  
 त्रा꣡यताम् मरु꣡तां गणः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡थाय꣡म् अरपा꣡ अ꣡सत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 त्राय॑न्ताम् । विश्वा॑ । भू॒तानि॑ । यथा॑ । अ॒यम् । अ॒र॒पाः । अस॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trāyantām* ← *trā*
 - \[verb\], plural, Present imperative
@@ -99,35 +99,35 @@ popular;; epic anuṣṭubh (380)
 **इह** अस्मिन् देशे सर्वे **देवाः** **त्रायन्ताम्** अस्मान् पालयन्ताम् । तथा **मरुतां** **गणः** संघः स **त्रायताम्** । **विश्वा** विश्वानि सर्वाण्यन्यानि च **भूतानि** भूतजातानि **त्रायन्ताम्** अस्मान् रक्षन्तु । **यथायम्** अस्मदीयः शरीरादिः **अरपाः** **असत्** पापरहितो भवति तथेत्यर्थः । रप इति पापनाम । नञा बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । अस्तेर्लेट्यडागमः ।  ‘ याव द्यथाभ्याम् ' ( पा. सू. ८. १. ३६ ) इति निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the gods give (us) protection in this world, may the company of the **Maruts** protect us, may allbeings grant protection so that this (person n) may be free from sin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the gods bring rescue here; let the troop of Maruts bring rescue; let all beings bring rescue, so that this one here will be without malady.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here let the Gods deliver him, the Maruts' band deliver him:  
      All things that be deliver him that he be freed from his disease.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rettung sollen hier die Götter bringen, Rettung der Marut Schar, Rettung alle Wesen, auf daß diese gesund werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter mögen helfen hier, es helfe auch der Maruts Schar, Und alle Wesen insgesammt, dass dieser frei von Krankheit sei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да спасут (тебя) здесь боги,  
 Да спасет толпа Марутова,  

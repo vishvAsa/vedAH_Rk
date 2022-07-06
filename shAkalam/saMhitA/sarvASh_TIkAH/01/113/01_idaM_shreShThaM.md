@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ श्रे꣡ष्ठं ज्यो꣡तिषां ज्यो꣡तिर् आ꣡गाच्  
 चित्रः꣡ प्रकेतो꣡ अजनिष्ट वि꣡भ्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एवा꣡ रा꣡त्री उष꣡से यो꣡निम् आरैक्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यथा॑ । प्रऽसू॑ता । स॒वि॒तुः । स॒वाय॑ । ए॒व । रात्री॑ । उ॒षसे॑ । योनि॑म् । अ॒रै॒क् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -120,7 +120,7 @@ genre M
 **ज्योतिषां** ग्रहनक्षत्रादीनां द्योतमानानां मध्ये **इदम्** उषआख्यं **ज्योतिः** **श्रेष्ठं** प्रशस्यतमम् । अस्य कोऽतिशय इति चेत् उच्यते । नक्षत्रादिकं ज्योतिः स्वात्मानमेव प्रकाशयति नान्यत् । चन्द्रस्तु यद्यप्यन्यत् प्रकाशयति तथापि न विस्पष्टप्रकाशः । औषसं तु ज्योतिः युगपदेव सर्वस्य जगतः अन्धकारनिराकरणेन विशेषेण प्रकाशकम् । अतः प्रशस्यतममित्यर्थः । तादृशं ज्योतिः **आगात्** पूर्वस्यां दिश्यागमत् । आगते च तस्मिन् **चित्रः** चायनीयः **प्रकेतः** अन्धकारावृतस्य सर्वस्य पदार्थस्य प्रज्ञापकः तदीयो रश्मिः **विभ्वा** विभुर्व्याप्तः सन् ”अजनिष्ट प्रादुरभूत्। किंच **यथा** **रात्री** रात्रिः स्वयं **सवितुः** सूर्यसकाशात् **प्रसूता** उत्पन्ना । सूर्यो हि अस्तं गच्छन् रात्रिं जनयति । तस्मिन्ननस्तमिते रात्रेरुत्पत्त्यभावात् । एवमेव रात्रिरपि **उषसे** **सवाय** उषस उत्पत्तये तदर्थं **योनिं** स्थानं स्वकीयापरभागलक्षणम् **अरैक्** आरेचितवती कल्पितवतीत्यर्थः । यद्वा । प्रसूता रात्रिसकाशादुत्पन्नोषाः सवितुः सूर्यस्य सवाय प्रसवाय जन्मने यथा भवति एवं रात्रिरपि उषसे उषसो यज्जन्म तदर्थं योनिं स्वापरभागलक्षणं स्थानं कृतवती । अत्र निरुक्तम् - इदं श्रेष्ठं ज्योतिषां ज्योतिरागमत् चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्यैवं रात्र्युषसे योनिमरिचत्स्थानम् ' (निरु. २. १९) इति ॥ श्रेष्ठम् । प्रशस्यशब्दात् अतिशायनिकः इष्ठन् । ‘प्रशस्यस्य श्रः' (पा. सू. ५. ३. ६०) इति श्रादेशः । प्रकृत्यैकाच् (पा. सू. ६.. ४. १६३) इति प्रकृतिभावात् टिलोपाभावः । अगात् । एतेः लुङि • इणो गा लुङि' इति गादेशः।  ‘ गातिस्था° ' इति सिचो लुक् । प्रकेतः । ‘कित ज्ञाने' । अन्तर्भावितण्यर्थात् कर्मणि घञ् । थाथादिना उत्तरपदान्तोदात्तत्वम् । अजनिष्ट ।  ‘ जनी प्रादुर्भावे'। लुङि सिच इडागमः । विभ्वा ।' विप्रसंभ्यो ड्वसंज्ञायाम्' इति भवतेः डुप्रत्ययः । ‘सुपां सुलुक् । इत्यादिना सोः आकारादेशः ।  ‘ ओः सुपि ' इति यणादेशस्य ' न भूसुधियोः' इति प्रतिषेधे प्राप्ते  ‘ छन्दस्युभयथा ' इति यणादेशः । व्यत्ययेनाद्युदात्तत्वम् । यद्वा । विपूर्वात् भवतेः औणादिको डुन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् । प्रसूता । षूङ् प्राणिप्रसवे'। कर्मणि निष्ठा ।  ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । सवाय । छन्दसि जवसवौ वक्तव्यौ ' ( पा. सू. ३. ३. ५६. ४) इति निपातनात् अच् । चित्त्वादन्तोदात्तत्वम् । अणोऽप्रगृह्यस्यानुनासिकः इति संहितायाम् अकारः सानुनासिकः । एव।  ‘ निपातस्य च ' इति संहितायां दीर्घः । रात्री ।  ‘ रात्रेश्चाजसौ ' इति ङीप्। **यस्येति** च ' इति इकारलोपः। अरैक्।' रिचिर विरेचने । लङि ‘ बहुलं छन्दसि' इति विकरणस्य लुक् । लघूपधगुणे  ‘ हल्ङ्याब्भ्यः० ' इति तिलोपः। वर्णव्यापत्त्या व्यत्ययेन एकारस्य ऐकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,41 +131,41 @@ genre M
 In like manner as the night: When the sun sets, the night comes on; or, it is genitive rated by the setting of the sun, and may, figuratively be termed offspring of the sun; as the precursor, the night is termed the parent, or womb of the dawn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This fairest light of lights has come here. The bright sign, wide-reaching,  has been born.  
 Just as she [=Dawn] is impelled forth for the impulsion of Savitar, so  Night has left behind the womb for Dawn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner suggests, probably correctly, that b concerns Agni.
 
 Though most tr., explicitly or implicitly, take Night as subj. of c as well as d, it makes more sense to me for Dawn and Night to be contrastive subjects of the final two pādas, with Dawn going forth as Night cedes her place. The balanced contrast is brought out strongly in the next two vss.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This light is come, amid all lights the fairest; born is the brilliant, far-extending brightness.  
      Night, sent away for Savitar's uprising, hath yielded up a birth-place for the Morning.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 This light has come, of all the lights the fairest: The brilliant brightness has been born effulgent. Urged onward for god Savitar's uprising, Night now has yielded up her place to morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies schönste Licht der Lichter ist gekommen; ihr prächtiges Vorgesicht ward geboren, sich ausbreitend. Wie sie selbst angewiesen des Savitri Weisung folgt, so hat die Nacht der Morgenröte den Platz geräumt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das schönste Licht der Lichter ist gekommen, die helle prächt'ge Leuchte ist erstanden; Die Nacht, erregt zu Savitars Erregung, hat ihren Sitz geräumt der Morgenröthe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот пришел свет света, лучший из всех.  
 Яркий предвестник родился, (далеко) распространяясь.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नूनं꣡ न इन्द्र अपरा꣡य च स्या  
 भ꣡वा मॄळीक꣡+ उत꣡ नो अभि꣡ष्टौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवि꣡ ष्याम पा꣡रिये गोष꣡तमाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इ॒त्था । गृ॒णन्तः॑ । म॒हिन॑स्य । शर्म॑न् । दि॒वि । स्या॒म॒ । पार्ये॑ । गो॒सऽत॑माः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nūnaṃ* ← *nūnam*
 - \[adverb\]
@@ -121,7 +121,7 @@ genre M
 हे **इन्द्र** त्वं **नूनम्** अद्य **नः** अस्माकं **स्याः** अस्मदीयो भव । ”अपराय **च** अपरस्मिन्नन्यस्मिन्नपि कालेऽस्मदीयो भव । **उत** अपि च त्वं **नः** अस्माकम् **अभिष्टौ** अभिगमने सति **मृळीकः** सुखयिता **भव** । **इत्था** इत्थमनेन प्रकारेण **गृणन्तः** स्तुवन्तो वयं **गोषतमाः** गवां संभक्तृतमाः सन्तः **महिनस्य** महतस्तव संबन्धिनि **दिवि** द्योतमाने **पार्ये** दुःखस्य पारके **शर्मन्** शर्मणि सुखे **स्याम** वर्तमाना भवेम ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ Worshipping at dawn: goṣatamā = **vartamānā** bhavema, may we be present;
 **Goṣa** = the dawn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (So) should you be for us, now and for the future, Indra. Be there for us  in mercy and in superiority.  
 Singing in just this way, might we be under the protection of the great  one and on the decisive day be the best winners of cattle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not see any difference in sense between the imperatival injunc. bhūḥ of 4b and the pres. impv. bhávā in 5b.
 
@@ -151,23 +151,23 @@ With Oldenberg, who argues this at length, I take the Saṃhitā mṛḷīká as
 The final pāda has a bad cadence: goṣátamaḥ. As Michael Weiss points out, this form should really be *goṣātamaḥ (splv. to goṣā́-). Such a reading doesn’t improve the expected Triṣṭubh cadence, but it would provide a proper Jagatī cadence (and metrical variety at the end of a hymn is not unexpected). The pāda can be read with 12 syllables without difficulty: diví ṣ i yāma pārye *goṣātamaḥ. As for the transmitted short vowel form, it might have been changed to match nṛtama in 3d, although, as noted there, the light initial syllable of that form is itself. metrically problematic.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be ours, O Indra, now and for the future, be graciously inclined and near to help us.  
      Thus may we, singing, sheltered by the Mighty, win many cattle on the day of trial.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei jetzt und in Zukunft für uns, o Indra, sei zum Erbarmen geneigt und uns zu bevorzugen geneigt! Also lobpreisend möchten wir in des Mächtigen Schutz am entscheidenden Tage die meisten Kühe gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei unser, Indra, jetzt und für die Zukunft, sei huldreich du und uns mit Hülfen nahe, Wir Sänger seien am Entscheidungstage in Schutz des Mächt'gen, Rinder viel erbeutend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь нашим, о Индра, сейчас и в дальнейшем!  
 Будь милосердным и готовым нам помочь!  

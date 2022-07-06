@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने शोचि꣡षा शो꣡शुचान  
 आ꣡ रो꣡दसी अपृणा जा꣡यमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वइ꣡श्वानर जातवेदो महित्वा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वम् । दे॒वान् । अ॒भिऽश॑स्तेः । अ॒मु॒ञ्चः॒ । वैश्वा॑नर । जा॒त॒ऽवे॒दः॒ । म॒हि॒ऽत्वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -111,36 +111,36 @@ genre M
 हे **अग्ने** **त्वं** **शोचिषा** दीप्त्या **शोशुचानः** दीप्यमानः **जायमानः** जायमान एव **रोदसी** द्यावापृथिव्यौ **आ** **अपृणाः** आपूरयः । अपि च **जातवेदः** जातप्रज्ञ जातधन वा **वैश्वानर** विश्वनरहित हे अग्ने **त्वं** **देवान्** **महित्वा** महत्त्वेन **अभिशस्तेः** अभिशंसकात् शत्रोः **अमुञ्चः** अमोचयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, radiant with lustre, fill the heaven and earth (with light) as soon as born; you, **Vaiśvānara**,from whom wealth proceeds, has by your might liberated the gods from malevolent (foes).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, blazing with your blaze, filled the two world-halves as you  were coming to birth.  
 You released the gods from the curse, o Vaiśvānara, Jātavedas, through  your greatness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou with thy flame, O Agni, brightly glowing, hast at thy birth filled full the earth and heaven.  
      TIOU with thy might, Vaisvanara Jatavedas, settest the Gods free frodi the curse that bound them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, hast mit deiner Flamme hoch aufflammend bei deiner Geburt beide Welten angefüllt. Du befreitest durch deine Macht die Götter aus Schande, Vaisvanara Jatavedas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, fülltest, gleich wie du geboren, mit Glanz erstrahlend an die beiden Welten, Du machtest frei die Götter von dem Fluche, o Männerhort, o Wesenkenner, kräftig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, пламенем ярко пламенеющий,  
 Рождаясь, заполнил оба мира.  

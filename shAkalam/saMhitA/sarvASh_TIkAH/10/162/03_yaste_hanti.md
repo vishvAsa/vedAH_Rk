@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते ह꣡न्ति पत꣡यन्तं  
 निषत्स्नुं꣡ यः꣡ सरीसृप꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡म् इतो꣡ नाशयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 जा॒तम् । यः । ते॒ । जिघां॑सति । तम् । इ॒तः । ना॒श॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -102,35 +102,35 @@ popular;; epic anuṣṭubh (292)
 हन्तुमिच्छति **तमितः** स्थानात् **नाशयामसि** नाशयामः  ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we exterminate from hence (the evil spirit) who destroys the impregnating energy, the germ as itsettles, the moving embryo, who seeks to destroy (the babe) when born.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who smites your (embryo) as it flies, when it is emplanted, as it squirms, who intends to smite your (embryo) when it is just born, that one we  banish from here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That which destroys the sinking germ, the settled, moving embryo,  
      That which will kill the babe at birth,even this will we drive far away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der dir die einfallende, die empfangene, die sich regende Leibesfrucht tötet, der dir die geborene töten will, den treiben wir von hinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der dir tödtet die fortschiessende, die festsitzende, die gleitende Leibesfrucht, der die geborene dir tödten will, den treiben wir fort von hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто убивает у тебя порхающего,  
 Укрепившегося, кто шевелящегося (зародыша),  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राविष्णू दृंहिताः꣡ श꣡म्बरस्य  
 न꣡व पु꣡रो नवतिं꣡ च श्नथिष्टम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हथो꣡ अप्रति꣡ अ꣡सुरस्य वीरा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 श॒तम् । व॒र्चिनः॑ । स॒हस्र॑म् । च॒ । सा॒कम् । ह॒थः । अ॒प्र॒ति । असु॑रस्य । वी॒रान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
@@ -108,7 +108,7 @@ genre M
 हे **इन्द्राविष्णू** **दृंहिताः** दृढीकृताः **नव** **नवतिं** **च** नवोत्तरनवतिसंख्याकाः **पुरः** पुराणि **शम्बरस्य** स्वभूतानि **श्नथिष्टम्** अहिंसिष्टम्। 'श्नथ हिंसायाम्। अपि च **शतं** **सहस्रं** **च** **वर्चिनः** **असुरस्य** **वीरान्** **अप्रति** प्रतिद्वन्द्विनो यथा न भवन्ति तथा **साकं** सह संघश एव **हथः** अहिंसिष्टम् । 'यो वर्चिनः शतमिन्द्रः सहस्रम् '। (ऋ. सं. २. १४. ६) इति हि निगमान्तरम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,36 +119,36 @@ genre M
 Varcin: cf. RV. 2.146.6
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Viṣṇu, you pierced the nine and ninety fortified strongholds  of Śambara.  
 At one blow you smite the hundred and thousand heroes of the lord  Varcin without opposition.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Śambara and Varcin are Indra’s targets elsewhere, with no involvement of Viṣṇu. They are conjoined objects (varcínaṃ śambaraṃ ca) of Indra’s smiting (áhan) in VI.47.21. 129 There is numerical play between the two hemistichs: in c the numbers are raised both by a digit (9 à 10) and by a factor of 10 (9 [/10] à 100; 90 [/100] à 1000). The connection is emphasized by the parallel structure of the numerical expression: b: #náva X navatíṃ ca / c: #śatám X sahásraṃ ca. Varcin is credited elsewhere with the same number of forces: II.14.6, IV.30.15.
 
 I do not know why the verb is in the present in the second hemistich (hatháḥ) but aorist in the first (śnathiṣṭam). In the passages containing the other three occurrences of Varcin (II.14.6, IV.30.15, VI.47.21) the verbs are all preterital.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye have destroyed, thou, Indra, and thou Visnu, Sambara's nine-and-ninety fenced castles.  
      Ye Twain smote down a hundred times a thousand resistless heroes of the royal Varcin.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Vishnu, ihr habt die neunundneunzig Burgen des Sambara eingestoßen. Die hundert und tausend Mannen des Zwingherren Varcin erschlaget ihr ohne Widerstand auf einmal.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr bracht die Burgen ab, o Indra, Vischnu, des Çambara, die neunundneunzig Festen, Ihr schlugt auf einmal hunderttausend Mannen unwiderstehlich des Asuren Vartschin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Вишну, вы разрушили девяносто девять  
 Прочных крепостей Шамбары.  

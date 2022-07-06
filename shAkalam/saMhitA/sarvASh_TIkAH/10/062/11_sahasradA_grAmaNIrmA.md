@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सहस्रदा꣡ ग्रामणी꣡र् मा꣡ रिषन् म꣡नुः  
 सू꣡र्येणास्य य꣡तमानैतु द꣡क्षिणा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡स्मिन्न् अ꣡श्रान्ता अ꣡सनाम वा꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 साव॑र्णेः । दे॒वाः । प्र । ति॒र॒न्तु॒ । आयुः॑ । यस्मि॑न् । अश्रा॑न्ताः । अस॑नाम । वाज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasradā* ← *sahasra*
 - \[noun\], neuter
@@ -128,38 +128,38 @@ genre M
 **सहस्रदाः** गवादीनां सहस्रस्य दाता **ग्रामणीः** ग्रामाणां नेता कर्ता जनपदानामयं **मनुः** **मा** **रिषत्** न कैश्चिदपि रिष्टो हिंसितो भवतु । यद्वा । कर्मनेतॄनस्मान्मा हिनस्तु किंतु धनादिदानेन पूजयतु । **अस्य** **यतमाना** गच्छन्ती **दक्षिणा** **सूर्येण** सह **एतु** संगच्छताम् । त्रिषु लोकेषु प्रसिद्धा भवत्वित्यर्थः । तस्यास्य **सावर्णेः** सवर्णपुत्रस्य मनोः **देवाः** इन्द्रादयः **आयुः** जीवन **प्र** **तिरन्तु** प्रवर्धयन्तु । **अश्रान्ताः** कर्मसु अनलसाः सर्वं कर्म कुर्वन्तो वयं **यस्मिन्** मनौ **वाजं** गोलक्षणमन्नम् **असनाम** संभजेमहि । नाभानेदिष्ठोऽहमलभ इत्याशास्ते ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the donor of a thousand (cows), the head of the district, the **Manu**, never suffer wrong, may hisliberality go spreading (in glory) with the sun; may the gods prolong the life of **Sāvarṇi** (from whom) unwearied(in his service) we enjoy abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Manu, giver of thousands, leader of the horde, not suffer harm. Let  his priestly gift come, aligning itself with the sun.  
 Let the gods extend the lifetime of Sāvarṇi, under whose auspices we,  unwearied, won the prize of victory.  
 The next two hymns to the All Gods (63–64) are attributed to Gaya Plāta.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Blest be the hamlet's chief, most liberal Manu, and may his bounty rival that of Surya.  
      May the God let Ssvarni's life be leng  
      thened, with whom, unwearied, we have lived and prospered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Tausendschenker, der Clanhäuptling Manu soll nicht zu Schaden kommen. Mit der Sonne wetteifernd soll seine Schenkung kommen. Die Götter sollen das Leben des Savarni verlängern, bei dem wir Unermüdeten den Lohn empfangen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der tausendfach spendende Mann, der Leiter der Gemeinde, möge nicht Schaden leiden; mit der Sonne wetteifernd gehe seine Opfergabe; des Savarnasprosses Leben mögen die Götter verlängern, von welchem wir unaufhörlich Gaben empfangen haben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дающий тысячу предводитель общины Ману да не потерпит вреда!  
 Пусть придет его награда за жертву, равняясь на солнце!  

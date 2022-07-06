@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡चिर् असि पुरुनिष्ठाः꣡  
 क्षीरइ꣡र् मध्यत꣡ आ꣡शीर्तः  
 दध्ना꣡ म꣡न्दिष्ठः शू꣡रस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 द॒ध्ना । मन्दि॑ष्ठः । शूर॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
@@ -80,41 +80,41 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे सोम त्वं **शुचिरसि** । दशापवित्रेण शोधितो भवसि । स त्वं **पुरुनिष्ठाः** पुरुषु बहुषु पात्रेषु ग्रहचमसादिषु निःशेषेण स्थाता **मध्यतः** मध्ये मैत्रावरुणग्रहादौ **क्षीरैः** पयःप्रभृतिभिः श्रयणद्रव्यैः  **आशीर्तः** मिश्रणेन संस्कृतः । तृतीये सवने **दध्ना** चाशीर्तः । एवंभूतस्त्वं **शूरस्य** विक्रान्तस्येन्द्रस्य **मन्दिष्ठः** मादयितृतमो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You (**Soma**) are pure, distributed in many vessels, mixed at the mid-day sacrifice with milk, and (at thethird sacrifice) with curds, the most exhilarating (Soma) of the hero (**Indra**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are clear, outstanding among many; (and you are) mixed with milk  in the middle;  
 and (you, mixed) with curd, (are) the most invigorating for the champion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are successive gappings here: we need to supply asi with b, and asi + ā́śīrtaḥ in c. I take all three clauses as 2nd person, though Geldner makes b and c both 3rd person.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pure art thou, set in many a place, and blended in the midst with milk  
      And curd, to cheer the Hero best.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist der Reine, auf viele Becher verteilt, in der Mitte ist der mit Milch gemischte, der mit saurer Milch ist für den Helden der berauschendste.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rein bist du, vor vielen herrlich, Soma, ganz mit Milch durchquirlet, Molkenreich zur Lust dem Helden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты чистый, находящийся во многих (сосудах),  
 Посредине (тот,) что смешан с молоком,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इ꣡न् मे छन्त्सद् व꣡पुषो व꣡पुष्टरम्  
 पुत्रो꣡ य꣡ज् जा꣡नम् पितरो꣡र्+ अधी꣡यति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुंस꣡ इ꣡द् भद्रो꣡ वहतुः꣡ प꣡रिष्कृतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जा॒या । पति॑म् । व॒ह॒ति॒ । व॒ग्नुना॑ । सु॒ऽमत् । पुं॒सः । इत् । भ॒द्रः । व॒ह॒तुः । परि॑ऽकृतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -131,7 +131,7 @@ genre M
 **वपुषः** । वपुः रूपम् । तद्वाँल्लक्ष्यते । वपुष्मतोऽपि **वपुष्टरं** रूपवत्तरमत्यन्तं सुरूपं **तत्** यज्ञकर्म **मे** मह्यं **छन्त्सत्** इन्द्रः कामयताम् । **यत्** यदा **पुत्रः** **जानं** जन्म आत्मन उत्पत्तिं **पित्रोः** मातापित्रोः सकाशात् **अधीयति** संकीर्तनद्वारेणाधिगच्छति । सुब्रह्मण्याह्वानकालेऽमुकशर्मणः पुत्रो यजत इत्यात्मनो जन्म संकीर्तयति । यद्वा । यज्जननादागतं धनं पित्रों: सकाशात्पुत्रोऽधिगच्छति तदेव मह्यमिच्छतु । **जाया** पत्नी **पतिं** यजमान **सुमत्** कल्याणेन **वग्नुना** वाग्रूपेण शब्देन **वहति** आत्मसमीपं प्रापयति । **भद्र** भजनीयः **परिष्कृतः** सुसंस्कृत: ”पुंस **इत**। पत्युरेवेत्यर्थः । **वहतुः** जायायै प्रदातव्यः । तदुक्तं-- सुभद्रमर्य भोजनं बिभर्षि ' (ऋ. सं. ८. १. ३४) इति । यद्वा । पुंसोऽतिशूरस्येन्द्रस्यार्थाय भद्रो भजनीयो वहतुर्वहनशीलो देवान् प्रति स सोमः परिष्कृतः संस्कृतो भवति । तदेन्द्रः कामयतामित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,30 +142,30 @@ genre M
 When a son proclaims his birth: at the time of theSubrahmaṇya recitation, the sacrificer proclaims his birth, saying, "the son of so and so and worships"; thewife...marriage: the **Soma** to be divided for the sake of the heroic Indra bearing (Soma?) to the gods issanctified-- may Indra desire it
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just this will appear to me as more wondrous than any wonder: that the  son knows by heart the birth of his parents.  
 The wife conveys the husband amid the uproar; just for the man an  
 auspicious bridal procession has been made ready.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 More beautiful than beauty must this seem to me, when the son duly careth for his parents' line.  
      The wife attracts the husband: with a shout of joy the man's auspicious marriage is performed aright.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das scheint mir der Wunder größtes zu sein, daß der Sohn der Geburt seiner Eltern sich erinnert. Die Gattin führt den Gatten heim mit schönem Geplauder; des Mannes glückliche Hochzeitsfahrt ist ausgerichtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das wahrlich dünkt mich schöner als die Schönheit selbst wenn seiner Aeltern Heimatsitz der Sohn verehrt; mit Jubelschall vermählt dem Mann die Gattin sich; des Gatten Hochzeit ist aufs schönste ausgeschmückt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это мне кажется чудом из чудес,  
 Что сын помнит рождение родителей.  

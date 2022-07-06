@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ त्वा गोप꣡वनो गिरा꣡  
 च꣡निष्ठद् अग्ने अङ्गिरः  
 स꣡ पवाक+ श्रुधी ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सः । पा॒व॒क॒ । श्रु॒धि॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -89,19 +89,19 @@ genre M
 हे **अग्ने** **यं** **त्वा** त्वां **गोपवनः** ऋषिः **गिरा** स्तुत्या **चनिष्ठत्** अतिशयेनान्नप्रदातारमकरोत् **सः** तादृशाग्ने **अङ्गिरः** सर्वत्र गन्तरङ्गिरसां मध्य एक वा **पावक** शोधक **हवं** गोपवनस्य **श्रुधि** शृणु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, Aṅirasa, whom Gopavana by his praise has made the especial giver of food-- O purifier, hear thisprayer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You whom Gopavana will please with his hymn, o Agni, o Aṅgiras, o pure one, hear our call.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax cániṣthad, though fairly clearly a 3rd sg. act. injunctive, is not regularly formed. Whitney (Roots) calls it “plainly corrupt”; Oldenberg discusses it at some length and floats various possibilities. Whatever its source, it clearly patterns with the superlative cániṣṭhā in the same metrical position in 8b (so Oldenberg, Renou). The standard solution, which comes in various guises, has been to posit a more regularly formed verb that has been re-formed (/corrupted) because of the proximity of the splv., either at the time of composition or redactionally. This is the tack Oldenberg chooses; of the various underlying possibilities he considers, he favors an -iṣ-aor. subjunctive
 
@@ -109,23 +109,23 @@ The hapax cániṣthad, though fairly clearly a 3rd sg. act. injunctive, is not 
 repeated by Narten, s-aor. 111), who considers the contamination a product of the poet.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou whom Gopavana made glad with song, O Agni Angiras,  
      Hear this my call, thou Holy One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, dem Gopavana mit seiner Lobrede gefallen möchte, o Agni, Angiraside, du Lauterer, erhöre den Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, den Gopavana durch Lied, erfreut hat, Agni, Angiras, Du flammender vernimm den Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

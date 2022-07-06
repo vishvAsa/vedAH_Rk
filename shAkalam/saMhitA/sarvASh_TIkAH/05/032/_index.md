@@ -8,7 +8,7 @@ title = "+032"
 ‘ अदर्दरुत्सम्' इति द्वादशर्चमष्टादशं सूक्तम् । गातुर्नामात्रेय ऋषिः । त्रिष्टुप् छन्दः । इन्द्रो देवता । तथा चानुक्रान्तम्- अदर्दर्द्वादश गातुः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 32 (386)  
 Indra  

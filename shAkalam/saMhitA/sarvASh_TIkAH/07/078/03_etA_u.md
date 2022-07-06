@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ उ त्याः꣡ प्र꣡त्य् अदृश्रन् पुर꣡स्ताज्  
 ज्यो꣡तिर् य꣡छन्तीर् उष꣡सो विभातीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपाची꣡नं त꣡मो अगाद् अ꣡जुष्टम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अजी॑जनन् । सूर्य॑म् । य॒ज्ञम् । अ॒ग्निम् । अ॒पा॒चीन॑म् । तमः॑ । अ॒गा॒त् । अजु॑ष्टम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etāḥ* ← *etad*
 - \[noun\], nominative, plural, feminine
@@ -122,43 +122,43 @@ genre M
 **एता** **उ** । उ इति पूरणः । **त्याः** ताः प्रसिद्धा एताः **विभातीः** विभात्यो विभानं कुर्वत्यः **ज्योतिः** तेजः **यच्छन्तीः** प्रयच्छन्त्यः **उषसः** **पुरस्तात्** पूर्वस्यां दिशि **प्रत्यदृश्रन्** प्रतिदृश्यन्ते । ता उषसः **सूर्यं** यज्ञमग्निं च **अजीजनन्** प्रादुरकुर्वन् । उषस उदयानन्तरं तेषां संभवात्तज्जनकत्वमुपचर्यते । किंच **अपाचीनं** नीचीनम् **अजुष्टम्** अप्रियम्। सर्वेषां दृष्टिनिरोधकत्वादप्रियत्वम् । तादृशं **तमः** **अगात्** अपगतमभूत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These luminous (beams of the) dawn are beheld in the east diffusing light; (the dawn) enger sacrifice,fire; the odious glooms, descending, disappear.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These very dawns have been seen opposite in the east, extending their  light, radiating widely.  
 They have generated the sun, the sacrifice, the fire. The disagreeable  darkness has gone back behind.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this vs. departs from the practice of the rest of the hymn by referring to plural Dawns.
 
 práty adṛśran in the middle of pāda a repeats the opening of the hymn (1a), with polarized #práti … adṛśran#. The plural subject in vs. 1 are Dawn’s “beacons” (ketávaḥ).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Apparent eastward are those lights of Morning, sending out lustre, as they rise, around them.  
      She hath brought forth Sun, sacrifice, and Agni, and far away hath fled detested darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort im Osten haben sich die erstrahlenden Usas´ wieder gezeigt, ihr Licht hochhaltend. Sie haben die Sonne, das Opfer, den Agni hervorgebracht. Die unerfreuliche Finsternis hat sich westwärts verzogen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon zeigten östlich sich die Morgenröthen, den Lichtschein hier verbreitend, weithin strahlend, Sie liess erstehen Sonne, Opfer, Feuer, weit ging hinweg das grauenvolle Dunkel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот показалась на востоке навстречу (людям)  
 Сверкающие утренние зори, дарящие свет.  

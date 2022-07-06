@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रस्य क꣡र्म सु꣡कृता पुरू꣡णि  
 व्रता꣡नि देवा꣡ न꣡ मिनन्ति वि꣡श्वे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जजा꣡न सू꣡र्यम् उष꣡सं सुदं꣡साः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दा॒धार॑ । यः । पृ॒थि॒वीम् । द्याम् । उ॒त । इ॒माम् । ज॒जान॑ । सूर्य॑म् । उ॒षस॑म् । सु॒ऽदंसाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
@@ -143,36 +143,36 @@ genre M
 **विश्वे** सर्वे **देवाः** **इन्द्रस्य** तव **कर्म** कर्माणि **सुकृता** सुकृतानि सुष्ठु निर्मितानि पृथिव्यादीनि **पुरूणि** बहूनि **व्रतानि** यज्ञादीनि च **न** **मिनन्ति** । एतानि सर्वाणि तव कर्माणि न हिंसन्ति । किंत्वाद्रियन्ते । किंच **यः** अयमिन्द्रः **पृथिवीं** भूलोकं **द्यां** द्युलोकम् **उत** अपि च **इमाम्** इममन्तरिक्षलोकं च एतांस्त्रीन् लोकान् **दाधार** । 'सुदंसाः सुकर्मा शोभनकर्मा सन्निन्द्रः **सूर्यं** लोकप्रकाशकमादित्यम् **उषसम्** अग्निहोत्रादिकर्मनिर्वाहकमुष:कालं **जजान** उत्पादयामास । ‘ इन्द्रस्य कर्म सुकृता पुरूणि ' इत्येतत्पदकदम्बकम् ‘ एको द्वे वसुमती' इत्यस्मिन् वर्गे पठितम् (ऋ. सं. ३.३०, १३)। अत्रापि तदेव पठ्यते किमिति पदकाले नोत्सृज्यत इति चेन्न । वाक्यभेदात् । तत्र ‘इन्द्रस्य कर्म सुकृता पुरूणि ' इत्येकं वाक्यम् । अत्र तु ' कर्म सुकृता ' इत्येकं वाक्यं पुरूणि व्रतानि ' इत्यपरम् । किंच तत्रत्यं पदकदम्बकं प्रथमान्तम् अत्रत्यं द्वितीयान्तम् । अतो वाक्यभेदात् विभक्तिभेदाच्च पदकाले नोत्सृज्यते ॥ मिनन्ति । 'मीञ् हिंसायाम्' इत्यस्य लटि रूपम् । निघातः । दाधार । ‘ धृञ् धारणे ' इत्यस्य लिटि रूपम् । तुजादित्वात् अभ्यासस्य दीर्घः । लित्स्वरः । जजान । जन जनने ' इत्यस्यान्तर्भावितण्यर्थस्य लिटि रूपम् । लित्स्वरः । सुदंसाः । ‘ सोर्मनसी' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All the gods cannot detract from the many glorious exploits, and pious works of **Indra**; he who has upheld earth, and heaven, and the firmament, and who, the performer of great deeds, has engendered the sun and the dawn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Many are the well-done deeds of Indra. The All Gods do not violate  the commandments (of him),  
 who upholds earth and this heaven. Of wondrous power, he begot the  sun and the dawn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Many are Indra's nobly wrought achievements, and none of all the Gods transgress his statutes.  
      He beareth up this earth and heaven, and, doer of marvels, he begot the Sun and Morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Indra viele Werke sind wohlgetan. Alle Götter verfehlen nicht seine Gebote, der die Erde und diesen Himmel gefestigt hat; der Guteswirkende hat die Sonne, die Morgenröte erzeugt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Viel sind des Indra schön vollbrachte Werke; die Götter alle stören sein Gesetz nicht, Der diesen Himmel und die Erde festhielt und herrlich schuf die Sonn' und Morgenröthe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасно исполнены многочисленные деяния Индры.  
 Все боги не нарушают заветов того,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महिम्न꣡ एषाम् पित꣡रश् चने꣡शिरे  
 देवा꣡ देवे꣡षु अदधुर् अ꣡पि क्र꣡तुम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ एषां तनू꣡षु नि꣡ विविशुः पु꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सम् । अ॒वि॒व्य॒चुः॒ । उ॒त । यानि॑ । अत्वि॑षुः । आ । ए॒षा॒म् । त॒नूषु॑ । नि । वि॒वि॒शुः॒ । पुन॒रिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahimna* ← *mahimnaḥ* ← *mahiman*
 - \[noun\], genitive, singular, masculine
@@ -130,7 +130,7 @@ popular
 **पितरश्चन** अस्मत्पितरोऽप्यङ्गिरसः **एषां** देवानां **महिम्नः** महत्व्“स्य **ईशिरे** ईश्वरा अभवन् । ते **देवाः** **अपि** देवत्वं प्राप्ता अङ्गिरसः **देवेषु** इन्द्रादिषु **क्रतुं** संकल्पम् **अदधुः** धृतवन्तः । **उत** अपि च **यानि** तेजांसि **अत्विषुः** दीप्यन्ते तानि **समविव्यचुः** संगता आसन् । **एषां** देवानां **तनूषु** शरीरेषु **नि** **विविशुः** निविशन्ति पितरोऽङ्गिरसः । अतस्त्वमपि तथा कुर्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,30 +141,30 @@ popular
 The purport of this and following ṛcas is to enjoin **Vājin** to follow theexample of the Aṅgirasas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even the forefathers are not masters of their greatness. The gods placed  their mental force among the gods,  
 and they enveloped those things that were in vibrant motion. They  
 entered into their bodies again.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Part of their grandeur have the Fathers also gained: the Gods have seated mental power in them as Gods.  
      They have embraced within themselves all energies, which, issuing forth, again into their bodies pass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch die Väter verfügen nicht über deren Macht; die Götter legten Einsicht in die Göttlichen. Und sie faßten alle ihre Glanzleistungen zusammen, und diese sind wieder in ihre Leiber eingegangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Götter Grösse ward den Vätern auch zu Theil; sie selbst nun Götter theilten Kraft den Göttern mit; Sie fassten in sich, was sie einst hervorgebracht, und das ging wieder auch in ihre Leiber ein,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже отцы не властны над их могуществом.  
 Боги вложили силу разума в божественных.  

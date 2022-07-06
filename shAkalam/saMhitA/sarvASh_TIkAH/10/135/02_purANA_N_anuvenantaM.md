@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुराणाँ꣡ अनुवे꣡नन्तं  
 च꣡रन्तम् पाप꣡यामुया꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡स्मा अस्पृहयम् पु꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अ॒सू॒यन् । अ॒भि । अ॒चा॒क॒श॒म् । तस्मै॑ । अ॒स्पृ॒ह॒य॒म् । पुन॒रिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purāṇāṃ* ← *purāṇa*
 - \[noun\], accusative, plural, masculine
@@ -87,7 +87,7 @@ popular;; epic anuṣṭubh (380)
 **पुराणान्** पुरातनान् पितॄन् **अनुवेनन्तं** मामनुगतं कामयमानम् **अमुया** अनया **पापया** निकृष्टाया बुद्ध्या सह **चरन्तं** वर्तमानं पितरं वाजश्रवसम् **असूयन्** सुखेन जीवन्तं मां मृत्युसमीपं प्रेहीत्युक्तवानिति मानसेनोपतापेन युक्तः सन् प्रथमम् **अभ्यचाकशम्** । अयं पश्यतिकर्मा। अभ्यपश्यम्' । ' असुञ् मानस उपतापे ' । कण्ड्वादिः । **पुनः** पश्चात् **तस्मा** **अस्पृहयं** पितुराज्ञया तं मृत्युं प्राप्तुमैच्छम् । ' स्पृह ईप्सायाम् । चुरादिरदन्तः । ' स्पृहेरीप्सितः' ( पा. सू. १.४.३६) इति संप्रदानसंज्ञायां तच्छब्दाच्चतुर्थी । यद्वा । पुराणान् चिरंतनान् स्तोतॄन् पूर्वपुरुषान् पितॄन् वा अनुवेनन्तमनुक्रमेण कामयमानं चरन्तम् उदयास्तमयाभ्यां दिवि परिवर्तमानमनया पापया निकृष्टया स्तोतुमसमर्थया बुद्ध्या असूयन् । गुणेषु दोपाविष्करणमसूया । परकीयगुणेषु दोपानाविष्कुर्वन्नभ्यचाकशम् । अयमपि कश्चिदिति सामान्यरूपेणाभ्यपश्यम् । इदानी तु पुनस्तस्यादित्यस्य माहात्म्यं जानन् तस्मा अस्पृहयम् । तमेवादित्यं स्तुतिभिः परिचरणात्मकैः कर्मभिश्च प्राप्तुमैच्छम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,29 +98,29 @@ popular;; epic anuṣṭubh (380)
 Longed for him: i.e., by my father's command, I have desired to approachdeath
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Boy:] Him following the track of the ancient ones, wandering along  yonder evil way,  
 did I keep looking for reluctantly, but I was longing for him again.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I looked reluctantly on him who cherishes those men of old,  
      On him who treads that evil path, and then I yearned for this again.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unwillig sah ich ihn sich nach seinen Altvorderen umschauen und den so schlimmen Weg ziehen. Ihn verlangte ich zurück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Der hold den alten Vätern ist, ihn sah auf üblem Wege ich Herwandern, und betrübten Sinns sehnt' ich nach diesem mich zurück.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Недовольный, смотрел я,  
 Как он озирается в поисках древних,  

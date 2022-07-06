@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मह्ना꣡ वि꣡श्वा दुरिता꣡नि साह्वा꣡न्  
 अग्नि꣡ ष्टवे द꣡म आ꣡ जात꣡वेदाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡न् गृणत꣡ उत꣡ नो मघो꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । र॒क्षि॒ष॒त् । दुः॒ऽइ॒तात् । अ॒व॒द्यात् । अ॒स्मान् । गृ॒ण॒तः । उ॒त । नः॒ । म॒घोनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -128,36 +128,36 @@ genre M
 योऽग्निः **मह्ना** महत्त्वेन **विश्वा** विश्वानि **दुरितानि** **साह्वान्** अभिभवन् **जातवेदाः** जातधनो जातप्रज्ञो वा **दमे** यज्ञगृहे **स्तवे** अस्माभिः स्तूयते **सः** **अग्निः** अस्मान् **दुरितात्** पापात् **अवद्यात्** निन्दिताच्च कर्मणः **रक्षिषत्** रक्षतु । **अस्मान्** **गृणतः** स्तुवतोऽपि रक्षिषत् । **उत** अपि च सोऽग्निः **नः** **मघोनः** हविष्मतः रक्षिषत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that **Agni** who by his greatness is the overcomer of all evils, who is praised as **Jātavedas** in the(sacrificial) chamber, protect us, glorifying him, and affluent (in oblations), from all sin and reproach.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Overcoming all difficulties by his greatness, Agni is praised in the  household as Jātavedas.  
 He will guard us from difficulty and reproach, (guard) both us, who are  singing, and our generous patrons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through his great might o'ercoming all misfortunes, praised in the house is Agni Jatavedas.  
      May he protect us from disgrace and trouble, both us who laud him and our noble patrons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er überwindet durch seine Macht alle Mißerfolge. Agni wird im Hause gepriesen, der Jatavedas. Er bewahre uns vor Mißerfolg und Unehre, uns Sänger und unseren Lohnherren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der mit Macht die Leiden alle austilgt, der Wesenkenner wird gerühmt im Hause; Agni bewahr uns vor Gefahr und Schande, uns Sänger, und die Opferlohn uns spenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Это) он, одолевающий все беды (своим) величием,  
 Агни-Джатаведас славится в доме.  

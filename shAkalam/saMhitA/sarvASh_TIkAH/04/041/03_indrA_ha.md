@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रा ह र꣡त्नं व꣡रुणा ध꣡यिष्ठा+  
 इत्था꣡ नृ꣡भ्यः शशमाने꣡भियस् ता꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुते꣡भिः सुप्रय꣡सा माद꣡यैते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यदि॑ । सखा॑या । स॒ख्याय॑ । सोमैः॑ । सु॒तेभिः॑ । सु॒ऽप्र॒यसा॑ । मा॒दयै॑ते॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrā* ← *indra*
 - \[noun\], nominative, dual, masculine
@@ -113,14 +113,14 @@ genre M
 हे इन्द्रावरुणौ **ता** । **ह** इति प्रसिद्धौ। तौ खलु देवौ **इत्था** इत्थं **नृभ्यः** मनुष्येभ्यः **शशमानेभ्यः** शंसमानेभ्यः स्तोतृभ्योऽस्मभ्यं **रत्नं** रमणीयं धनं **धेष्ठा** दातृतमौ । भवत इति शेषः । **यदि** **सखाया** परस्परं यजमानस्य वा सखिभूतौ **सख्याय** सखिकर्मणे सखित्वाय **सुतेभिः** अभिषुतैः **सोमैः** **सुप्रयसा** शोभनसोमान्नवन्तौ **मादयैते** माद्येताम् । तर्हि रत्नानां दातारौ भवतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Varuṇa** (you are) most liberal givers of wealth to men praising you in various ways, when as friends well plural ed with (sacrificial) food, you are exhilarated by the **Soma** juice effused through friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Varuṇa are the best at providing treasure to men who have  performed (ritual) labor just so,  
 when as comrades for comradeship they will make themselves  
@@ -128,30 +128,30 @@ exhilarated with the pressed soma juices and the very pleasing
 offering.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The orphaned tā́at the end of b is a bit surprising, somewhat reminiscent of the pāda-filling mechanisms engaged in by the epic bards, but not usually resorted to or needed by Rigvedic poets. This hymn is, however, not particularly topnotch work; compare Renou’s comment “Banalisation des hymnes joints.” I am inclined to read yádī as *yád ī, even though the ī would not double an object (unless it is the unexpressed reflexive ‘themselves’) but would be pleonastic+++(=redundant)+++.
 
 The reading would be to avoid yádī ‘if’. The standard tr. indeed all render as ‘when’, not ‘if’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Varuna are most liberal givers of treasure to the men who toil to serve them,  
      When they, as Friends inclined to friendship, honoured with dainty food, delight in flowing Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Varuna geben am meisten Belohnung den Männern, die so den Opferdienst versehen haben, wenn beide als Freunde um der Freundschaft willen am gepreßten Soma und bei guter Beköstigung sich ergötzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Varuna, Indra sind die reichsten Geber der Schätze für die opferthät'gen Menschen; Wenn beide Freunde schwelgend in Gemeinschaft am schön gepressten Soma sich ergötzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь эти Индра и Варуна лучше всех наделяют сокровищем  
 Мужей, которые так трудятся при обряде,  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ चक्रे स꣡हसा स꣡हो  
 बभ꣡ञ्ज मन्यु꣡म् ओ꣡जसा  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 नि꣡ वृक्षा꣡ इव येमिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । ते॒ । इ॒न्द्र॒ । पृ॒त॒ना॒ऽयवः॑ । य॒हो॒ इति॑ । नि । वृ॒क्षाःऽइ॑व । ये॒मि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 स इन्द्रः **सहसा** आत्मीयेनाभिभवेन वीर्यकर्मणा **सहः** शत्रूणामभिभवनं **प्र** **चक्रे** प्रकर्षेण कृतवान् । तथा **ओजसा** बलेन **मन्युं** परकीयं क्रोधं **बभञ्ज** भग्नवान् । उत्तरोऽर्धर्चः प्रत्यक्षकृतः । हे **यहो** । महन्नामैतत् । हे महन् **इन्द्र** **विश्वे** सर्वे **पृतनायवः** युद्धकामाः शत्रवः **ते** त्वया **वृक्षाइव** महीरुहा इव **नि** **येमिरे** नियता आसन् । यथा वृक्षा निश्चलास्तिष्ठन्ति तद्वन्निर्व्यापारा अभूवन्नित्यर्थः ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,34 +124,34 @@ genre M
 Allhostile armies: or, those wishing to fight, pṛtanāyavaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He put forward his might with might; he shattered battle fury with  his power.  
 All who seek battle, vigorous Indra, hold themselves down, like trees,  before you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The image of warriors holding themselves down “like trees” belongs more to the Maruts’ rhetorical realm, where all natural phenomena bend before their storm (see nearby VIII.7.34). Vs. 10c below contains another image fully intelligible only in a Marut context.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With mightier strength he conquered strength, with energy he crushed their wrath.  
      O Indra, Strong in youth, all those who sought the fray bent and bowed down to thee like trees.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er hat die Gewalt mit Gewalt behandelt, den Grimm hat er mit Kraft gebrochen. Alle Kampflustigen duckten sich vor dir, o jüngster Indra, wie die Bäume.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Kraft verschaffte er sich Kraft und brach der Feinde Wuth mit Macht; Vor dir, o Indra, sinken alle Feinde hin, o Held, wie Bäume hingestreckt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он покорил силу силой,  
 Мощью сломил ярость.  

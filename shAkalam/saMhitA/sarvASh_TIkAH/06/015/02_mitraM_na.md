@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्रं꣡ न꣡ यं꣡ सु꣡धितम् भृ꣡गवो दधु꣡र्  
 व꣡नस्प꣡ताव् ई꣡डियम् ऊर्ध्व꣡शोचिषम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡शस्तिभिर् महयसे दिवे꣡-दिवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । त्वम् । सुऽप्री॑तः । वी॒तऽह॑व्ये । अ॒द्भु॒त॒ । प्रश॑स्तिऽभिः । म॒ह॒य॒से॒ । दि॒वेऽदि॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
@@ -125,7 +125,7 @@ genre M
 **वनस्पतौ** अरण्यां **सुधितं** सुष्ठु निहितम् **ईड्यं** स्तुत्यम् **ऊर्ध्वशोचिषम्** उच्छ्रिततेजस्कं **यम्** अग्निं त्वां **मित्रं** **न** मित्रमिव सखिभूतमिव **भृगवः** महर्षयः **दधुः** आदधुः गृहे स्थापितवन्तः, हे **अद्भुत** महन्नग्ने **सः** तादृशः **त्वं** **वीतहव्ये** एतत्संज्ञ ऋषौ **सुप्रीतः** सुष्ठु प्रीयमाणो भव । यतः **दिवेदिवे** प्रतिदिनं **प्रशस्तिभिः** प्रकृष्टैः स्तोत्रैः **महयसे** पूज्यसे । भरद्वाज ऋषिश्चेत् वीतहव्ये दत्तहविष्के भरद्वाज इति योजनीयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,35 +136,35 @@ genre M
 Vītahavya: if applied to **bharadvāja**, it will be an appellation, he by whom oblations are offered
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom the Bhr̥gus installed like a well-installed envoy, to be reverently  invoked at the “tree” [=sacrificial post], with flames erect,  
 you, o infallible one, well pleased in Vītahavya, are magnified with  
 eulogies every day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich treats Agni in the accusative, so that no grammatical person needs to be expressed. It therefore appears to continue the 3rd ps. of vs. 1, but modulates to the 2nd ps. reference of cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whom, well-dis sed, the Bhrgus stablished as a friend, whom men must glorify, high-flaming in the wood.  
      As such, most friendly, thou art every day extolled in lauds by Vitahavya, O thou wondrous God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den die Bhrigu´s wie einen Freund gut aufnahmen, den im Holze Wohlaufgehobenen, Anzurufenden mit aufgerichteten Flammen, du wirst wohlbefriedigt bei Vitahavya, du Geheimnisvoller, mit Lobreden Tag für Tag gefeiert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den wohlbewahrt die Bhrigu's bargen in dem Holz, wie einen Freund, den herrlichen, hochflammenden, Erfreut wirst du bei Vitahavja, himmlischer, durch Preisgesänge, vielgeliebter, Tag für Tag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого Бхригу устроили как Митру, (чтобы он был) хорошо устроен,  
 В лесном дереве, (его,) достойного призывов, с высоким пламенем,  

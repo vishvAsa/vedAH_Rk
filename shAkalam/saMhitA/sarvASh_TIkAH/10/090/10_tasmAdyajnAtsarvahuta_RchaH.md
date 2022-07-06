@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्माद् यज्ञा꣡त् सर्वहु꣡त  
 ऋ꣡चः सा꣡मानि जज्ञिरे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡जुस् त꣡स्माद् अजायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 छन्दां॑सि । ज॒ज्ञि॒रे॒ । तस्मा॑त् । यजुः॑ । तस्मा॑त् । अ॒जा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
@@ -149,7 +149,7 @@ popular;; epic anuṣṭubh (380)
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -162,29 +162,29 @@ Tasmād yajñāt = from that simple portionsurnamed the universal sacrifice, sar
 **Yajña** = yajñasādhana, thematerial of sacrifice, i.e., the victim. Puruṣa is the spiritual cause and effect of material creation; it is from him,not from the ideal or real sacrifice, that all things originate\
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From this sacrifice, when it was offered in full, the verses and chants  were born.  
 Meters were born from it. The sacrificial formula—from it that was born.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From that great general sacrifice Rcas and Sama-hymns were born:  
      Therefrom were spells and charms produced; the Yajus had its birth from it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus ihm entstanden die Rosse und alle Tiere mit doppelter Zahnreihe, aus ihm entstanden die Rinder, aus ihm sind die Ziegen und Schafe entstanden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; aus ihm entsprangen die Rinder, aus ihm die Ziegen und Schafe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из нее кони родились  
 И все те (животные), у которых два ряда зубов,  

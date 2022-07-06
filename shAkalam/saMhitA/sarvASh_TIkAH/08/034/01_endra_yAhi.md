@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ इन्द्र याहि ह꣡रिभिर्  
 उ꣡प क꣡ण्वस्य सुष्टुति꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं यय꣡ दिवावसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दि॒वः । अ॒मुष्य॑ । शास॑तः । दिव॑म् । य॒य । दि॒वा॒व॒सो॒ इति॑ दिवाऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *endra* ← *ā*
 - \[adverb\]
@@ -97,7 +97,7 @@ genre M
 हे **इन्द्र** **कण्वस्य** **सुष्टुतिं** शोभनां स्तुतिं **हरिभिः** अश्वैः **उप** **आ** **याहि** । **दिवः** द्युलोकम् । द्वितीयार्थे षष्ठी । **अमुष्य** अमुष्मिन्निन्द्रे **शासतः** शासति । विभक्तिव्यत्ययः । तत्र वयं सुखमास्महे । हे **दिवावसो** दीप्तहविष्केन्द्र **दिवं** स्वर्गं **यय** यूयं गच्छत । बहुवचनं पूजार्थम् । यद्वा । हे दिवावसो दिवो द्युनामकम् अमुष्य अमुं लोकं शासनं कुर्वन्तो यूयं दिवं स्वर्गं यय गच्छत । अत्र बहुवचनं पूजार्थमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,34 +112,34 @@ Divāvaso = dīptahaviṣka; or, dyunāmakam amum lokam śāsanam kurvantoyuyam 
 Amuṣya = amuṣmāt **pṛthivī** lokāt-- from this world; Indra's presence is necessaryin heaven, he is to be allowed to go back as soon he has partaken of the **Soma** at the sacrifice on earth. divam =soma vessel, dyulokākhya droṇakalaśa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here—Indra, drive here with your fallow bays, up to the lovely praise  of Kaṇva,  
 o you who bring goods by day—(though) you (other gods), who impose  order over yonder heaven, have driven off to heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not understand the accent on yayá in the refrain, but it may be implicitly contrastive with yāhi in a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither, Indra, with thy Bays, come thou to Kanva's eulogy.  
      Ye by command of yonder Dyaus, God bright by day! have gone to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, Indra, mit den Falben zu des Kanva Lobpreis! Über jenen Himmel herrschend seid ihr ja in den Himmel gegangen, o Divavasu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm Indra mit den Füchsen du herbei zu Kanva's Lobgesang, Von jenes Herrschers Himmel kamt ihr zu dem Feste tageshell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай, о Индра, на буланых конях  
 На прекрасное прославление Канвы!  

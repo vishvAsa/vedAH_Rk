@@ -8,7 +8,7 @@ title = "+038"
 ‘उदु ष्य देवः' इत्यष्टर्चं पञ्चमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं सवितृदेवताकम् । सप्तम्यष्टम्यौ वाजिदेवताके। ‘भगमुग्रोऽवसे ' इत्यर्धर्चो भगदेवत्यः सावित्रो वा । तथा चानुक्रमणिका - उदु ष्य सावित्रमन्त्ये वाजिन्यौ भगमिति भागो वार्धर्चः' इति । गतः सूक्तविनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 38 (554)  
 Savitar, except Savitar or Bhaga (6cd), Prizewinning  Horses (7–8)  
@@ -19,7 +19,7 @@ Savitar’s role is most prominent in the first two verses, where, as usual, he 
 winners” (vājín). This word is frequently a descriptor of horses in competition, and  a number of scholars consider the reference here to be actual horses in the human  realm. However, the sacrificial context in these two verses is strong, and on the basis of phraseological parallels we consider the referents to be the Maruts (who are  called prizewinners in VII.36.7, while the phrase “let the Maruts of good chant be  luck for us” is found in VII.35.9).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Savitar [/All Gods] On the likelihood that this is actually an All Gods hymn, despite the Anukr.’s ascription to Savitar and the domination of Savitar in the first vss., see published introduction.
 </details>

@@ -8,7 +8,7 @@ title = "+186"
 ‘वातः' इति तृचं पञ्चत्रिंशं सूक्तं वातगोत्रस्योलस्यार्षं गायत्रं वायुदेवताकम् । तथा चानुक्रान्तं -- वातो वातायन उलो वायव्यम् ' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 186 (1012)  
 Vāyu  

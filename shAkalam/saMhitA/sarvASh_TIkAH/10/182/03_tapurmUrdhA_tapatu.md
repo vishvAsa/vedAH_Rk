@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡पुर्मूर्धा तपतु रक्ष꣡सो ये꣡  
 ब्रह्मद्वि꣡षः श꣡रवे ह꣡न्तवा꣡ उ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था करद् य꣡जमानाय शं꣡ योः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 क्षि॒पत् । अश॑स्तिम् । अप॑ । दुः॒ऽम॒तिम् । ह॒न् । अथ॑ । क॒र॒त् । यज॑मानाय । शम् । योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tapurmūrdhā* ← *tapurmūrdhan*
 - \[noun\], nominative, singular, masculine
@@ -128,36 +128,36 @@ popular;; repeated line
 **तपुर्मूर्धा** तापकशिरस्को बृहस्पतिः **रक्षसः** **ये** **ब्रह्मद्विषः** ब्राह्मणद्वेष्टारो राक्षसाः तान् राक्षसान **तपतु** तापयतु । दहत्वित्यर्थः । किमर्थम् । **शरवे** शरुं हिंसकं रक्षसामधिपतिं **हन्तवै** हन्तुम् । अनुचरान् पूर्वं नाशयतु पश्चादेनमपि नाशयत्वित्यर्थः । । शॄ हिंसायाम् । इत्यस्मात्  ‘ शॄस्वृस्निहि°' इत्यादिना उप्रत्ययः ।  ‘ नित् ' इत्यनुवृत्तेराद्युदात्तत्वम् ।  ‘ क्रियाग्रहणं कर्तव्यम् ' इति कर्मणः संप्रदानत्वाच्चतुर्थी । हन्तेः  ‘ तुमर्थे सेसेन्” इति तवैप्रत्ययः ।  ‘ अन्तश्च तवै युगपत् ' इत्याद्यन्तयोर्युगपदुदात्तत्वम् । उशब्दः पूरकः ॥ ॥ ४० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May Tapurmūrdhā consume the **rākṣasas**, who are the enemies of the **Brāhmaṇas**, (and thenproceed) to slay (their) malignant (chief); may **Bṛhaspati** hurl down the inglorious (enemy), may he baffle themalevolent, and bestow upon the sacrificer health and prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him of scorching head scorch those who are demons; those who hate  the sacred formulation are for his arrow to smite.  
 – He hurls aside malediction and smites away ill-will; then he will create  luck and life for the sacrificer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he whose head is flaming burn the demons, haters of prayer, so that the arrow slay them.  
      May he repel the curse and chase ill-feeling, and give the sacrificer peace and comfort.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Glutköpfige verbrenne die Unholde, die Segensfeinde seien dem Geschoß zum Töten verfallen. Er stoße die Afterrede von sich, wehre die Mißgunst ab und schaffe dem Opfernden Glück und Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Glut im Haupt hat, brenn die Nachtgespenster, sein Pfeil durchbohr' die Feinde des Gebetes; Er werfe fort den Fluch und schlag' das Unheil, und schaffe dann dem Opfrer Heil und Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Этот) с пылающей главой пусть спалит ракшасов,  
 Которых надо убить стрелой как ненавистников священного слова!  

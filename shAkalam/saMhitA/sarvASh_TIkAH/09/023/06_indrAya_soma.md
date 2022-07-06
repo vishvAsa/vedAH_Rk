@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय सोम पवसे  
 देवे꣡भ्यः सधमा꣡दियः  
 इ꣡न्दो वा꣡जं सिषाससि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दो॒ इति॑ । वाज॑म् । सि॒सा॒स॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -73,7 +73,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **सधमाद्यः** । सधमादो यज्ञः । तदर्हस्त्वम् **इन्द्राय** **देवेभ्यः** चान्येभ्यः **पवसे** क्षरसि । हे तादृश **इन्दो** सोम अस्मभ्यं **वाजम्** अन्नं **सिषाससि** दातुमिच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,29 +84,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Worhty of the sacrifice: sadhamādya = yajñārha
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You purify yourself for Indra, o Soma, and for the gods as their shared  exhilaration.  
 O drop, you strive to win the prize.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra, Soma! thou art cleansed, a feast-companion for the Gods:  
 1ndu, thou fain wilt win us strength
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Indra läuterst du dich, o Soma, mit den Göttern das Gelage teilend. O Saft, du begehrst den Siegespreis zu erringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra riesle, Soma du, den Göttern bei dem Opfermahl, O Indu, Kraft verleihst du gern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Индры, о сома, ты очищаешься,  
 Для богов, (ты,) достойный пира.  

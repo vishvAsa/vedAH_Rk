@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पक्था꣡सो भलान꣡सो भनन्त  
 आ꣡लिनासो विषाणि꣡नः शिवा꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गव्या꣡ तृ꣡त्सुभ्यो अजगन् युधा꣡ नॄ꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । यः । अन॑यत् । स॒ध॒ऽमाः । आर्य॑स्य । ग॒व्या । तृत्सु॑ऽभ्यः । अ॒ज॒ग॒न् । यु॒धा । नॄन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 **पक्थासः** पक्था हविषां पाचकाः **भलानसः** भद्रमुखाः । भलेति भद्रवाची । **अलिनासः** अलिनाः । तपोभिरप्रवृद्धा इत्यर्थः । **विषाणिनः** कण्डूयनार्थं कृष्णविषाणहस्ताः । दीक्षिता इत्यर्थः । **शिवासः** शिवाः यागादिना सर्वस्य लोकस्य शिवकराः । यागेन हि शिवं भवति लोकस्य । **आ** **भनन्त** अभिष्टुवन्ति तमिन्द्रम् । भनतिः शब्दकर्मा ‘नौति भनति' इति शब्दकर्मसु पाठात् । **यः** इन्द्रः **सधमाः** । सोमपानेन सह माद्यतीति सधमादः । सधमाद एव सधमाः । **आर्यस्य** कर्मशीलस्य **गव्या** गोसंघान् **तृत्सुभ्यः** हिंसकेभ्यः **आ** **अनयत्** । **अजगन्** अजगत् स्वयं च गोसंघान् लेभे । **युधा** युद्धेन तान् नॄन्’ शत्रून् जघान चेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,13 +120,13 @@ genre M
 Those whodress: Denominations of the person ns assisting at religious rites are: 1. pakthāsaḥ, haviṣam **pācakaḥ**, cooks ofthe butter offered in oblation; 2. bhalānasaḥ, **bhadra** vācinaḥ, speakers of that which is lucky; 3. alināsaḥ,tapobhir **apravṛddhaḥ**, not eminent by austerities; 4. viṣāṇinaḥ, having black horns in their hands for thepurpose of scratching kaṇḍuyanārtham, the same as **dīkṣitaḥ**, having undergone the preliminary purificationcalled dīkṣa; 5. śivāsaḥ, yāgādinā sarvasya lokasya **śivakaraḥ**, the makers happy of all people bysacrifice and the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Pakthas [“cooked oblations”?] and the Bhalānases [“raiders”?]  spoke out, and the Alinas, the Viṣānins, and the Śivas:  
 “The feasting companion of the Ārya [=Indra?], who led (us?) hither— with desire for cattle for the Tr̥tsus he has gone with battle against  superior men [=us].”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (fld. by Gotō, 1st Kl., 222) takes bhananta as reflexive (“… nannten sich”) with śivā́saḥ as pred. nom., but the responsive pairing of act. 3rd pl. pres.
 
@@ -141,23 +141,23 @@ On the unexpected form sadhamā́s, if the nom. sg. to sadhamā́d-, see Scarlat
 Geldner’s interpr. of the syntax of cd is impossible: it contains an embedded main clause! His rel. cl. consists of ā́yó ‘nayat … yudhā́nṛ́̄n “… der seine Mannen unter Kampf heranführte” -- the beginning of c and the end of d. While his main clause is the end of c and the beginning of d, … sadhamā́ā́ryasya, gavyā́tṛ́tsubhyo ajagan … “Der Mahlgenossen des Ariers … ist aus Verlangen nach Kühen den Tr̥tsu's (zu Hilfe) gekommen.” My tr. follows Oldenberg’s, which is slightly adjusted by Schmidt.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Together came the Pakthas, the Bhalanas, the Alinas, the Sivas, the Visanins.  
      Yet to the Trtsus came the Arya's Comrade, through love of spoil and heroes' war, to lead them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Paktha´s, Bhalana´s, Alina´s, Visanin´s nannten sich seine guten Freunde. Der Mahlgenosse des Ariers, der seine Mannen unter Kampf heranführte, ist aus Verlangen nach Kühen den Tritsu´s zu Hilfe gekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm jauchzten zu die Pakther und Bhalanas, die Aliner, die holden Säbeltrager, Er, bringend als des Arjers Freund die Beute den Tritsu's, kam im Kampfe zu den Männern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пактха, бхалана, алина, вишанин  
 Объявили себя добрыми (друзьями).  
